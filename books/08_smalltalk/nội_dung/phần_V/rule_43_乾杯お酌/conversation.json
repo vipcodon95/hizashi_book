@@ -1,0 +1,124 @@
+{
+  "rule_id": "08-43",
+  "rule_slug": "乾杯お酌",
+  "title": {
+    "vi": "Toast + thứ tự rót",
+    "ja": "乾杯・お酌"
+  },
+  "rule_context": {
+    "luan_diem_vi": "お酌 = signal hiểu văn hóa rõ nhất. Ly thấp hơn senior khi cạn ly, rót cho người khác trước, mình cuối, bia 80/20 bọt, sake 2 tay. Sai = mất uy tín tinh tế.",
+    "luan_diem_ja": "お酌は文化理解の最重要シグナル。グラスは目上より低く、他人を先に、自分は最後、ビールは80/20、酒は両手。",
+    "boi_canh_vi": "Tháng 5/2026, dinner Phase 4 closing izakaya Tokyo. Cùng cast với rule 42 — Ōgaki/Matsumoto/Tanaka/Tuấn/Dũng. Ly senior cạn, sake đã ra.",
+    "boi_canh_ja": "2026年5月、フェーズ4クロージング後、東京の居酒屋。大垣・松本・田中・トゥアン・ズン。シニアのグラスが空き、酒が出始めた段階。",
+    "muc_tieu_vi": "Master お酌 protocol — chuẩn từ 乾杯 đến rót sake + xử lý mismatch văn hóa khi đồng nghiệp VN ép."
+  },
+  "related_rules": [
+    {"book": "08", "rule": "42", "topic": "Izakaya order flow"},
+    {"book": "08", "rule": "44", "topic": "二次会"},
+    {"book": "07", "rule": "26", "topic": "Kanpai etiquette basic"}
+  ],
+  "conversations": [
+    {
+      "scenario": "乾杯 đầu buổi — ly thấp hơn",
+      "type": "good",
+      "lines": [
+        {"speaker": "oogaki_sales", "ja": "では、Phase 4のキックオフ、無事完了に、乾杯!", "vi": "Vậy, Phase 4 kickoff hoàn thành tốt đẹp, cạn ly!"},
+        {"speaker": "matsumoto", "ja": "乾杯!", "vi": "Cạn ly!"},
+        {"speaker": "tanaka_pmo", "ja": "乾杯!", "vi": "Cạn ly!"},
+        {"speaker": "tuan_leader", "ja": "乾杯!", "vi": "Cạn ly!"},
+        {"speaker": "zun", "ja": "乾杯!(グラスを大垣さんより3cm低く保つ)", "vi": "Cạn ly! (giữ ly thấp hơn ly Ōgaki 3cm)"},
+        {"speaker": "zun", "ja": "お疲れ様でした、ありがとうございました。", "vi": "Hôm nay vất vả rồi, cảm ơn anh nhiều ạ."},
+        {"speaker": "oogaki_sales", "ja": "ありがとう。ま、とりあえず一杯。", "vi": "Cảm ơn em. Trước hết một ly đã."}
+      ]
+    },
+    {
+      "scenario": "お酌 wave 2 — rót bia 2 tay",
+      "type": "good",
+      "lines": [
+        {"speaker": "zun", "ja": "大垣さん、お注ぎしましょうか?(ボトル両手・ラベルを大垣に向ける)", "vi": "Anh Ōgaki, em rót cho anh ạ? (chai 2 tay, nhãn hướng về anh)"},
+        {"speaker": "oogaki_sales", "ja": "あ、ありがとう。", "vi": "À, cảm ơn em."},
+        {"speaker": "zun", "ja": "(ビール80%+泡20%で注ぐ) お疲れ様です。", "vi": "(rót 80% bia + 20% bọt) Anh vất vả ạ."},
+        {"speaker": "oogaki_sales", "ja": "ズンも一杯。(ボトルを取って注ぎ返す)", "vi": "Em uống một ly đi. (cầm chai rót lại)"},
+        {"speaker": "zun", "ja": "ありがとうございます。いただきます。(両手でグラスを持ち、ボトルより低く保つ)", "vi": "Cảm ơn anh. Em xin. (2 tay đỡ ly, thấp hơn chai)"},
+        {"speaker": "zun", "ja": "美味しいです。(一口飲んで)", "vi": "Ngon ạ. (uống 1 ngụm)"}
+      ]
+    },
+    {
+      "scenario": "Sake — tokkuri + ochoko",
+      "type": "good",
+      "lines": [
+        {"speaker": "matsumoto", "ja": "ズンも冷酒どう?(徳利を持つ)", "vi": "Dũng uống sake lạnh không? (cầm tokkuri)"},
+        {"speaker": "zun", "ja": "ありがとうございます、いただきます。(両手でお猪口を支える)", "vi": "Cảm ơn anh, em xin ạ. (2 tay đỡ ochoko)"},
+        {"speaker": "matsumoto", "ja": "(両手で徳利を持って注ぐ、80%まで)", "vi": "(2 tay rót tokkuri, đến 80%)"},
+        {"speaker": "zun", "ja": "獺祭ですね、フルーティで美味しいです。(一口飲む)", "vi": "Dassai à anh, vị fruity, ngon ạ. (uống 1 ngụm)"},
+        {"speaker": "zun", "ja": "松本さんも、お注ぎします。(松本さんのお猪口が空いたのに気づき、徳利を取る)", "vi": "Em rót cho anh Matsumoto. (thấy ochoko anh vơi, lấy tokkuri)"},
+        {"speaker": "matsumoto", "ja": "ありがとう。(両手でお猪口を支える)", "vi": "Cảm ơn em. (2 tay đỡ ochoko)"},
+        {"speaker": "zun", "ja": "(両手で徳利、お猪口の縁より低く注ぐ — junior position)", "vi": "(2 tay tokkuri, miệng thấp hơn ochoko Matsumoto vì mình junior)"}
+      ]
+    },
+    {
+      "scenario": "Vùng cấm — Tuấn ép '100%' VN style, Dũng rescue",
+      "type": "bad_then_rescue",
+      "lines": [
+        {"speaker": "tuan_leader", "ja": "松本さん、ベトナムでは『Một, hai, ba, dô! 100%!』っていう乾杯あるんですよ。せっかくなんで、ぐっと一気飲みで…", "vi": "Anh Matsumoto, ở VN có kiểu cạn ly '1, 2, 3 dô! 100%' đó. Sẵn dịp, anh uống 1 hơi đi..."},
+        {"speaker": "matsumoto", "ja": "あ、いやまあ、ちょっと…", "vi": "À, ờ, để... (lúng túng)"},
+        {"speaker": "zun", "ja": "トゥアンさん、松本さんペースで大丈夫ですよ。日本では一気飲みは強要しない文化なので。", "vi": "Anh Tuấn ơi, anh Matsumoto theo nhịp anh ấy là OK ạ. Nhật văn hóa không ép uống 1 hơi đâu ạ."},
+        {"speaker": "tuan_leader", "ja": "あ、すみません。ベトナム流出ちゃって…", "vi": "À, xin lỗi. Lỡ kiểu VN..."},
+        {"speaker": "matsumoto", "ja": "いえいえ、文化の違い面白いですね。100%って表現、覚えましたよ(笑)", "vi": "Không không, khác văn hóa thú vị nhỉ. Em nhớ cụm '100%' rồi (cười)"},
+        {"speaker": "zun", "ja": "松本さんがいつかハノイに来られた時、ぜひ100%してください(笑)。今日は獺祭ペースでゆっくりと。", "vi": "Khi nào anh đến HN nhất định '100%' nha (cười). Hôm nay theo nhịp Dassai đi từ từ ạ."}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"category": "乾杯", "ja": "乾杯! (ly thấp hơn senior 3cm)", "vi": "Cạn ly! (ly thấp hơn senior 3cm)", "use": "Etiquette tổng"},
+    {"category": "お酌 đề nghị", "ja": "[Tên]さん、お注ぎしましょうか?", "vi": "Anh [Tên], em rót cho anh ạ?", "use": "Phrase mặc định"},
+    {"category": "Khi được rót", "ja": "ありがとうございます、いただきます。", "vi": "Cảm ơn anh, em xin.", "use": "2 tay đỡ ly"},
+    {"category": "Khi được rót", "ja": "[Tên rượu]ですね、フルーティで美味しいです。", "vi": "[Sake] vị fruity, ngon ạ.", "use": "Khen sau khi uống 1 ngụm"},
+    {"category": "Sake", "ja": "冷酒/熱燗、お注ぎします。", "vi": "Em rót sake lạnh / nóng cho anh.", "use": "2 tay tokkuri"},
+    {"category": "Né ép", "ja": "[相手名]さんペースで大丈夫ですよ。", "vi": "[Người được ép] theo nhịp anh ấy là OK ạ.", "use": "Rescue khéo"},
+    {"category": "Né ép", "ja": "日本では一気飲みは強要しない文化なので。", "vi": "Nhật văn hóa không ép uống 1 hơi.", "use": "Educate đồng nghiệp VN"},
+    {"category": "Bridge", "ja": "ハノイに来られた時、ぜひ100%してください(笑)。", "vi": "Khi nào anh đến HN nhất định '100%' nha (cười).", "use": "Bridge văn hóa"}
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "乾杯の時、最若手として最も適切なグラスの位置は?",
+      "options": [
+        "A. 一番目上のグラスより少し高く",
+        "B. 一番目上のグラスより約3cm低く",
+        "C. 同じ高さ",
+        "D. テーブルに置いたまま"
+      ],
+      "answer": "B",
+      "explain_vi": "Junior nhất = ly thấp nhất. A NG signal; C miss kính trọng; D refuse 乾杯."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "お客様のグラスが残り1/3になった時の最適な行動は?",
+      "options": [
+        "A. お客様が頼むまで何もしない",
+        "B. ボトルを両手で持ち、ラベルを向けて『お注ぎしましょうか?』と尋ねる",
+        "C. 黙って勝手に注ぐ",
+        "D. 「もう飲み過ぎでは?」と注意する"
+      ],
+      "answer": "B",
+      "explain_vi": "Notice + đề nghị + 2 tay + label. A miss role; C vô lễ; D xúc phạm."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "ベトナム人同僚が日本の客に『100%一気飲み』を強要した時、最適なrescueは?",
+      "options": [
+        "A. 同僚を公衆の前で叱る",
+        "B. 「[客]さんペースで大丈夫」+「日本では強要しない文化」+ブリッジで気まずさ解消",
+        "C. 黙ってお客様に酒をついで一気飲みするよう勧める",
+        "D. お客様に文句を言う"
+      ],
+      "answer": "B",
+      "explain_vi": "Rescue khéo: defend khách + giải thích văn hóa cho đồng nghiệp + bridge nhẹ. A xúc phạm đồng nghiệp; C ép khách; D đảo ngược."
+    }
+  ],
+  "templates": []
+}

@@ -1,0 +1,61 @@
+# Rule 06 — Pitch và tốc độ giọng phone / 電話の声の高さ・速度
+
+> **Luận điểm.** Trên phone, giọng bị "thiếu nửa cảm xúc" so với gặp mặt. Bù bằng: **nâng pitch nửa note** + **chậm hơn 10%** + **rõ phụ âm cuối câu**.
+>
+> 電話では声の感情が半減。**ピッチを半音上げ**+**10%遅く**+**語尾の子音を明瞭に**。
+>
+> **Từ khóa:** **`電話声の3調整`** · **Liên quan:** Rule 07, Rule 28.
+
+## So sánh / 比較
+
+| Yếu tố | Gặp mặt | Phone |
+|--------|---------|-------|
+| Pitch | Bình thường | **+半音** (nửa note cao hơn) |
+| Tốc độ | Bình thường | **-10%** (chậm hơn 10%) |
+| Cuối câu | Tự nhiên | **Phụ âm rõ** ("です" — "đe-su" rõ chữ "su") |
+
+---
+
+## ❌ Bad — Giọng phone như gặp mặt
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** (giọng trầm, nhanh) | 「お電話ありがとうございます、ティエンファットのズンです。」 |
+| **松本PM** | 「もう一度お願いします、お名前が...」 |
+
+**Vì sao xấu:** Giọng trầm + nhanh trên phone → khách không nghe rõ tên + công ty.
+
+---
+
+## ✅ Good — Đã điều chỉnh
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** (giọng cao hơn nửa note, chậm) | 「お電話 ありがとうございます。ティエンファット社、ズン でございます。」 |
+| **松本PM** | 「松本です。」(không cần hỏi lại) |
+
+→ Khách nghe ngay từ lần đầu = không phải hỏi lại.
+
+---
+
+## 🎧 Luyện
+
+1. Ghi âm câu mở đầu (Rule 01) **2 lần**: lần 1 giọng bình thường, lần 2 cao hơn nửa note + chậm 10%.
+2. Nghe lại phần 2 — có "professional phone voice" chưa?
+
+---
+
+## 🎯 Câu chốt
+
+> **半音上げ・10%遅く・語尾明瞭** — 3 điều chỉnh giọng phone.
+
+---
+
+## 📚 Vocab
+
+| 漢字 | よみ | Nghĩa |
+|------|------|-------|
+| 高さ | たかさ | Độ cao (pitch) |
+| 速度 | そくど | Tốc độ |
+| 半音 | はんおん | Nửa note (musical) |
+| 語尾 | ごび | Cuối câu |

@@ -1,0 +1,185 @@
+{
+  "rule_id": "rule_18",
+  "rule_slug": "欠席者の対応",
+  "title": {
+    "ja": "欠席者の対応",
+    "vi": "Khi có người vắng mặt"
+  },
+  "rule_context": {
+    "ja": "フオン副部長が体調不良で欠席。司会のズンが冒頭で公表し、議事録共有方針＋決裁権限関連は持ち帰り扱いを宣言。",
+    "vi": "Chị Hương vắng vì không khỏe. Dũngthông báo ngay đầu, báo plan gửi biên bản và xử lý quyết định cần authorize qua dạng 持ち帰り."
+  },
+  "related_rules": [
+    "rule_17",
+    "rule_25",
+    "rule_45",
+    "rule_48"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 黙って進行、客が後で気づく",
+      "label_vi": "XẤU — Im lặng tiếp, khách phát hiện sau",
+      "display_order": 1,
+      "analysis": {
+        "ja": "欠席を冒頭で公表せず、客が議題途中で気づく。決裁権限者の不在で会議の意義が問われる。",
+        "vi": "Khôngthông báo đầu họp, khách phát hiện giữamục. Người có thẩm quyền vắng → ý nghĩa họp bị nghi ngờ."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_18_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "では、4月進捗報告から…",
+          "sentence_translation": "Vâng, mình bắt đầu từ báo cáo tiến độ tháng 4 nhé...",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_18_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "あれ、フオン副部長は？",
+          "sentence_translation": "Ơ, chị Hương Phó phòng đâu?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_18_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、すみません、フオンは本日体調不良で…",
+          "sentence_translation": "À em xin lỗi, chị Hương hôm nay không khỏe ạ...",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_18_bad_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "なるほど。ただ、5月スコープの最終決裁はフオン副部長の権限と聞いているのですが、本日決定できますか？",
+          "sentence_translation": "À ra vậy. Nhưng anh nghe nói quyết cuối scope tháng 5 thuộc thẩm quyền chị Hương — hôm nay có quyết được không?",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 冒頭公表＋議事録共有＋持ち帰り宣言",
+      "label_vi": "TỐT —thông báo đầu + share biên bản + 持ち帰り",
+      "display_order": 2,
+      "analysis": {
+        "ja": "出席者紹介直後に欠席を公表、簡潔な理由、議事録共有のタイミング、決裁関連の持ち帰り方針まで一気に伝える。",
+        "vi": "Ngay sau giới thiệungười tham dự, Dũngthông báo vắng, lý do ngắn, timeline gửi biên bản, plan 持ち帰り cho phần authorize."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_18_good_01",
+          "highlight_text": "弊社 副部長のフオンは体調不良のため欠席",
+          "ja": "自社員の欠席は『弊社 [役職] の [氏名]』で表現。理由は『体調不良』など generic で十分。",
+          "vi": "Người vắng nội bộ dùng pattern 「弊社 [chức] の [tên]」. Lý do generic 「体調不良」 là đủ."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_18_good_02",
+          "highlight_text": "本日中にフオンへ共有",
+          "ja": "欠席者へのフォローを冒頭で commit。",
+          "vi": "Cam kết follow-up người vắng ngay từ đầu."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_18_good_03",
+          "highlight_text": "方向性合意までとさせていただき、最終確定は〜明日中にメール",
+          "ja": "決裁権限者不在時は『方向性合意止まり』『最終確定は後日』を明示するのが安全。",
+          "vi": "Khi người có authority vắng, an toàn là báo 'hôm nay chỉ thống nhất hướng, chốt cuối sau'."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_18_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "なお、本日 弊社 副部長のフオンは体調不良のため欠席となります。事前に松本様にはご連絡済みでございます。",
+          "sentence_translation": "Em xin báo thêm, hôm nay phía bên em chị Hương Phó phòng vắng vì không khỏe ạ. Em đã liên hệ trước với anh Matsumoto rồi ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_18_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "議事録は終了後本日中にフオンへ共有いたします。",
+          "sentence_translation": "Biên bản em sẽ chia sẻ cho chị Hương ngay trong hôm nay sau khi họp xong ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_18_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "5月スコープの最終決裁はフオンの権限のため、本日は『方向性合意』までとさせていただき、最終確定はフオン確認後 明日中にメールでご連絡いたします。",
+          "sentence_translation": "Phần phê duyệt cuối scope tháng 5 thuộc thẩm quyền chị Hương, nên hôm nay em xin phép dừng ở mức 'thống nhất hướng', sau đó chốt cuối em sẽ mail báo trong ngày mai khi chị Hương xác nhận ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_18_good_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "了解しました。明確で助かります。",
+          "sentence_translation": "Anh hiểu rồi. Em nói rõ thế này hay lắm.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_18_kp_01",
+      "speaker": "zun",
+      "sentence": "本日 弊社 〇〇の〇〇は体調不良のため欠席となります。",
+      "sentence_translation": "Hôm nay phía bên em 〇〇 〇〇 vắng vì không khỏe ạ.",
+      "purpose": "欠席者公表の定型句",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_18_kp_02",
+      "speaker": "zun",
+      "sentence": "本日は『方向性合意』までとさせていただき、最終確定は〇〇確認後にご連絡いたします。",
+      "sentence_translation": "Hôm nay em xin phép dừng ở mức 'thống nhất hướng', chốt cuối em sẽ báo sau khi 〇〇 xác nhận ạ.",
+      "purpose": "決裁権限者不在時の方針宣言",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_18_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "決裁権限者が会議を欠席している場合、最も適切な進め方はどれか？",
+      "options": [
+        "黙って通常通り会議を進め、その場で全て決定する。",
+        "冒頭で欠席を公表し、本日は『方向性合意』までとして最終確定は後日に回す。",
+        "会議をその場で中止して延期する。",
+        "欠席者の代わりに司会が決裁してしまう。"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "公表＋方向性合意止まり＋後日確定がリスク管理の基本。",
+        "vi": "thông báo + dừng ở 'hướng' + chốt sau = chuẩn quản trị rủi ro."
+      }
+    }
+  ]
+}

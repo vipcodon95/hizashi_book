@@ -1,0 +1,189 @@
+{
+  "rule_id": "rule_15",
+  "rule_slug": "価格感度の探り",
+  "title": {
+    "ja": "価格感度の探り",
+    "vi": "Probe price sensitivity"
+  },
+  "rule_context": {
+    "ja": "Discovery で frame / comparable で予算帯域を間接的に探り、CFO から ¥17-20M を引き出す場面。",
+    "vi": "Trong discovery, Dũng probe budget gián tiếp bằng frame / comparable, moi được dải ¥17-20M từ CFO."
+  },
+  "related_rules": [
+    "rule_12",
+    "rule_02",
+    "rule_18"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 直接質問",
+      "label_vi": "XẤU — Hỏi thẳng",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「予算いくらですか」直接は日本顧客にとってtone interrogation。CFOが回答を断り、tone を下げる。",
+        "vi": "Hỏi thẳng 'ngân sách bao nhiêu' với khách Nhật là tone tra hỏi. CFO từ chối trả lời, tone đi xuống."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_15_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ところで、Phase 3 の予算はいくらですか？",
+          "sentence_translation": "À mà, ngân sách Phase 3 là bao nhiêu ạ?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_15_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "えっと、それは…まだ確定していなくて…",
+          "sentence_translation": "Ờ, cái đó... chưa chốt...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_15_bad_03",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "そういう質問は社内でもまだ議論中なので、お答えしかねます。",
+          "sentence_translation": "Câu hỏi như vậy nội bộ chúng tôi cũng còn đang thảo luận nên xin phép không trả lời.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_15_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、すみません…",
+          "sentence_translation": "À, em xin lỗi ạ...",
+          "tone": "apologetic"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — frame + comparable",
+      "label_vi": "TỐT — frame + comparable",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_15_good_01",
+          "highlight_text": "新年度 IT 投資 framework の中で、Phase 3 はどの程度の位置付け",
+          "ja": "Frame approach: 「フレームの中で」と聞けば qualitative ranking で答えやすい。",
+          "vi": "Frame approach: hỏi 'trong khung' giúp khách dễ ranking định tính hơn."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_15_good_03",
+          "highlight_text": "Phase 2 が ¥14.5M でしたが、Phase 3 は機能拡張として規模感的にどのあたり",
+          "ja": "Comparable approach: 既知の anchor (Phase 2 ¥14.5M) を起点に倍数を聞く。絶対額より答えやすい。",
+          "vi": "Comparable approach: lấy anchor đã biết (Phase 2 ¥14.5M) hỏi theo bội số. Dễ trả lời hơn số tuyệt đối."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_15_good_05",
+          "highlight_text": "¥17-20M の帯域、参考にさせていただきます",
+          "ja": "聞き出した範囲を repeat back して合意化。これがないと「曖昧に言っただけ」と後で逃げられる。",
+          "vi": "Repeat back range để khách commit. Không repeat thì khách trốn về sau ('chỉ nói chung chung')."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_15_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "予算感につきまして — 御社の新年度 IT 投資 framework の中で、Phase 3 はどの程度の位置付けでしょうか？",
+          "sentence_translation": "Về cảm giác ngân sách — trong khung đầu tư IT năm mới của quý cty, Phase 3 ở vị trí nào ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_15_good_02",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "Phase 3 は重要案件として中位以上に位置付けています。",
+          "sentence_translation": "Phase 3 là dự án quan trọng, định vị ở mức trung vị trở lên.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_15_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 2 が ¥14.5M でしたが、Phase 3 は機能拡張として規模感的にどのあたりを想定されておられますか？",
+          "sentence_translation": "Phase 2 là ¥14.5M, Phase 3 là mở rộng chức năng thì quý anh dự ở mức quy mô nào ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_15_good_04",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "Phase 2 比 1.2-1.4 倍程度、つまり ¥17-20M の帯域で考えています。",
+          "sentence_translation": "Khoảng 1.2-1.4 lần Phase 2, tức là dải ¥17-20M.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_15_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。¥17-20M の帯域、参考にさせていただきます。本日の3段階提案も、その帯域を中心に位置付けております。",
+          "sentence_translation": "Em cảm ơn ạ. Em xin tham khảo dải ¥17-20M ạ. Đề xuất 3-tier hôm nay cũng định vị quanh dải đó ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_15_kp_01",
+      "speaker": "zun",
+      "sentence": "御社の新年度 IT 投資 framework の中で、Phase 3 はどの程度の位置付けでしょうか？",
+      "sentence_translation": "Trong khung đầu tư IT năm mới của quý cty, Phase 3 ở vị trí nào ạ?",
+      "purpose": "frame approach 予算探り",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_15_kp_02",
+      "speaker": "zun",
+      "sentence": "Phase 2 と比較して規模感的にどのあたりを想定されておられますか？",
+      "sentence_translation": "So với Phase 2, quý anh dự ở mức quy mô nào ạ?",
+      "purpose": "comparable approach 予算探り",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_15_bjt_01",
+      "level": "J1",
+      "skill": "表現読解",
+      "question_ja": "日本のCFOから予算帯域を引き出すのに最適な質問は？",
+      "options": [
+        "「予算はいくらですか？」",
+        "「Phase 2 と比較して規模感的にどのあたりを想定されていますか？」",
+        "「予算が少ないと困りますが…」",
+        "「他社はもっと払っていますよ」"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "Comparable approach は既知anchor から倍数を聞き、相手が答えやすい形に分解する。直接質問は日本顧客にとって失礼に近い。",
+        "vi": "Comparable approach lấy anchor đã biết, hỏi bội số — dễ trả lời. Hỏi thẳng gần như bất lịch sự với khách Nhật."
+      }
+    }
+  ]
+}

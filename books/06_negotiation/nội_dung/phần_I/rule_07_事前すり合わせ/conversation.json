@@ -1,0 +1,218 @@
+{
+  "rule_id": "rule_07",
+  "rule_slug": "事前社内すり合わせ",
+  "title": {
+    "ja": "事前社内すり合わせ",
+    "vi": "Pre-meeting alignment nội bộ"
+  },
+  "rule_context": {
+    "ja": "Phase 3 商談当日朝の社内すり合わせ。役割・譲歩順・撤退ライン・沈黙合図を100%一致させる。",
+    "vi": "Sáng ngày đàm phán Phase 3, họp nội bộ align 100% vai trò / thứ tự nhượng bộ / walk-away / signal im lặng."
+  },
+  "related_rules": [
+    "rule_01",
+    "rule_08",
+    "rule_09"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 商談中に内輪で食い違う",
+      "label_vi": "XẤU — Mâu thuẫn nội bộ ngay trong phòng đàm phán",
+      "display_order": 1,
+      "analysis": {
+        "ja": "事前すり合わせ不足で技術メンバーが価格を口にする。相手はそれを聞き逃さず即押さえる。",
+        "vi": "Thiếu align trước, technical lead lỡ quote giá. Khách bắt ngay không để lọt."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_07_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "¥18M は高いですね。¥15M でいかがでしょう？",
+          "sentence_translation": "¥18M cao quá. ¥15M thì sao nhỉ?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_07_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "¥15M ですか…ちょっと持ち帰り…",
+          "sentence_translation": "¥15M ạ... em xin phép mang về xem xét...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_07_bad_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "¥16M なら出せますよ、scope 削れば。",
+          "sentence_translation": "¥16M là được đó, cắt scope đi.",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_07_bad_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "あ、トゥアンさんは ¥16M でいけるんですね。じゃあそれでお願いします。",
+          "sentence_translation": "À, anh Tuấn nói ¥16M được. Vậy chốt như vậy nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_07_bad_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "いえ、ちょっと…社内確認を…",
+          "sentence_translation": "Dạ không, em xin phép... xác nhận nội bộ...",
+          "tone": "nervous"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 4点完全一致の事前すり合わせ",
+      "label_vi": "TỐT — Align 100% bốn điểm trước",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_07_good_01",
+          "highlight_text": "役割確認",
+          "ja": "誰が何を言うか・誰がいつ黙るかを明確化。価格発言は1人に限定。",
+          "vi": "Rõ ai nói gì + ai im khi nào. Phát ngôn về giá giới hạn 1 người."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_07_good_03",
+          "highlight_text": "譲歩順序",
+          "ja": "段階ごとに条件・トレードを明示。「適当に下げる」ではなく ladder。",
+          "vi": "Mỗi nấc có điều kiện + trade rõ. KHÔNG phải 'giảm bừa'."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_07_good_04",
+          "highlight_text": "弊社 CTO に確認させてください",
+          "ja": "事前合意したエスカレーション定型句。誰でも同じ言い回しで時間取る。",
+          "vi": "Câu escalation đã thống nhất trước. Ai cũng nói được cùng một câu để mua thời gian."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_07_good_06",
+          "highlight_text": "沈黙の合図",
+          "ja": "言葉ではなく身体的サインで「全員黙れ」を伝える。商談中に口頭で言えないため。",
+          "vi": "Signal vật lý (không lời) để 'mọi người im'. Trong phòng không thể nói miệng được."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_07_good_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "14:00 商談、最終すり合わせ。役割確認: ズン主導 + 価格発言担当、トゥアンさん技術質問のみ、ハー CTO は escalation 必要時のみ発言。",
+          "sentence_translation": "Đàm phán 14:00, align cuối. Vai trò: Dũng dẫn + phụ trách phát ngôn về giá, anh Tuấn chỉ trả lời technical, anh Hà CTO chỉ phát biểu khi cần escalation.",
+          "tone": "firm",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_07_good_02",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "価格発言は誰がしてもいけない。ズン以外は「社内確認させてください」で受ける。",
+          "sentence_translation": "Trừ Dũng, không ai được phát ngôn về giá. Mọi người khác chỉ nói 'cho phép em xác nhận nội bộ'.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_07_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "了解です。譲歩順序も再確認: ステップ1 ¥19M anchor、ステップ2 ¥18M target、ステップ3 ¥17M with scope -10%、ステップ4 ¥16M with scope -20% + extra trade、¥15M 以下は持ち帰り、その場で yes 言わない。",
+          "sentence_translation": "Em rõ. Em confirm lại thứ tự nhượng bộ: B1 anchor ¥19M, B2 target ¥18M, B3 ¥17M kèm scope -10%, B4 ¥16M kèm scope -20% + trade thêm, dưới ¥15M là mang về xem xét, không nói yes tại chỗ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_07_good_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "¥15M 以下出てきたら、ハー CTO に振る。「弊社 CTO に確認させてください」で時間取る。",
+          "sentence_translation": "Nếu khách đẩy dưới ¥15M, đẩy sang anh Hà CTO. Dùng câu 'cho phép em xác nhận với CTO bên em' để mua thời gian.",
+          "tone": "firm",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_07_good_05",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "私は技術以外、絶対黙ります。",
+          "sentence_translation": "Ngoài technical, em im hoàn toàn.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_07_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "最後、沈黙の合図: 私が右手を膝に置いたら全員黙って 7 秒待つ。OK?",
+          "sentence_translation": "Cuối cùng, signal im lặng: em đặt tay phải lên đùi là mọi người im 7 giây. OK?",
+          "tone": "formal",
+          "annotation_ids": [
+            "4"
+          ]
+        },
+        {
+          "line_id": "rule_07_good_07",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "OK。",
+          "sentence_translation": "OK.",
+          "tone": "neutral"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_07_kp_01",
+      "speaker": "fuon",
+      "sentence": "役割・譲歩順・撤退ライン・沈黙合図、4点を社内で100%一致させてから入室。",
+      "sentence_translation": "Vai trò / thứ tự nhượng bộ / walk-away / signal im lặng — 4 điểm align 100% trước khi vào phòng.",
+      "purpose": "事前すり合わせ4点原則",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_07_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "事前すり合わせで決めるべき4点に含まれないものは？",
+      "options": [
+        "誰が何を発言するかの役割",
+        "譲歩の順序とトレード条件",
+        "撤退ライン (walk-away)",
+        "商談後の打ち上げ会場"
+      ],
+      "correct": "D",
+      "explanation": {
+        "ja": "4点は『役割・譲歩順・撤退ライン・沈黙合図』。打ち上げは交渉戦略と無関係。",
+        "vi": "4 điểm: vai trò / thứ tự nhượng bộ / walk-away / signal im lặng. Liên hoan không liên quan."
+      }
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "rule_id": "rule_14",
+  "rule_slug": "ミラーリング・要約",
+  "title": {
+    "ja": "ミラーリング・要約",
+    "vi": "Mirror + summarize"
+  },
+  "rule_context": {
+    "ja": "Discovery 中、相手の数値回答 (+15%、半減) を即 mirror して認識違いを防ぐ場面。",
+    "vi": "Trong discovery, mirror ngay con số khách trả lời (+15%, giảm một nửa) để tránh hiểu sai."
+  },
+  "related_rules": ["rule_12", "rule_13"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — mirrorなしで誤解",
+      "label_vi": "XẤU — Không mirror, hiểu sai",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「+15%」を「15%以上」と誤解しover-designしてしまう。1週間後に発覚し時間と信頼を失う。",
+        "vi": "Hiểu '+15%' thành '15% trở lên' → over-design. 1 tuần sau mới biết, mất thời gian + trust."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_14_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "在庫予測精度 +15%、手動調整時間半減です。",
+          "sentence_translation": "Độ chính xác dự báo +15%, thời gian điều chỉnh thủ công giảm một nửa.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_14_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。次の質問ですが、予算は…",
+          "sentence_translation": "Em cảm ơn ạ. Câu hỏi tiếp, ngân sách...",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_14_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(1 週間後 deck で) 在庫予測精度を 15% 以上改善する提案です。",
+          "sentence_translation": "(1 tuần sau trong deck) Đề xuất cải thiện độ chính xác dự báo từ 15% trở lên ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_14_bad_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "いえ、+15% で十分です。それ以上は cost 倍以上になるので望んでいません。",
+          "sentence_translation": "Không, +15% là đủ. Trên nữa thì cost gấp đôi, chúng tôi không muốn.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_14_bad_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ…",
+          "sentence_translation": "À...",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 即mirror+nuance捕捉",
+      "label_vi": "TỐT — Mirror tại chỗ + bắt nuance",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_14_good_02",
+          "highlight_text": "つまり、目標は予測精度を現状から +15%、手動調整時間を 50% 削減 — この2点が Phase 3 の主要KPI、とのご認識でよろしいでしょうか",
+          "ja": "「つまり〜とのご認識でしょうか」は誤解防止+信頼の定型句。数値は元のまま再現する。",
+          "vi": "Câu mặc định 'tức là... em hiểu vậy có đúng không ạ' — phòng tránh hiểu sai + tạo trust. Con số giữ nguyên."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_14_good_04",
+          "highlight_text": "+15% は超過不要、cost との trade-off を意識",
+          "ja": "相手が補足した nuance (超えなくて大丈夫) を捕捉して mirror。これがないと over-design 続行。",
+          "vi": "Bắt nuance khách thêm vào ('không cần vượt') rồi mirror. Không bắt thì tiếp tục over-design."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_14_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "在庫予測精度 +15%、手動調整時間半減です。",
+          "sentence_translation": "Độ chính xác dự báo +15%, thời gian điều chỉnh thủ công giảm một nửa.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_14_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "つまり、目標は予測精度を現状から +15%、手動調整時間を 50% 削減 — この2点が Phase 3 の主要KPI、とのご認識でよろしいでしょうか？",
+          "sentence_translation": "Tức là mục tiêu là độ chính xác dự báo +15% so với hiện tại, thời gian điều chỉnh thủ công -50% — 2 mục này là KPI chính của Phase 3, em hiểu vậy có đúng không ạ?",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_14_good_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "はい。+15% は超えなくて大丈夫、超えると cost 上がるので逆に困る。",
+          "sentence_translation": "Đúng. +15% không cần vượt, vượt là cost lên, ngược lại làm khó chúng tôi.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_14_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "+15% は超過不要、cost との trade-off を意識、承知しました。次に予算感を伺ってもよろしいでしょうか？",
+          "sentence_translation": "+15% không cần vượt, cân nhắc trade-off với cost — em rõ ạ. Tiếp theo cho phép em hỏi cảm giác ngân sách được không ạ?",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_14_kp_01",
+      "speaker": "zun",
+      "sentence": "つまり〜とのご認識でよろしいでしょうか？",
+      "sentence_translation": "Tức là... em hiểu vậy có đúng không ạ?",
+      "purpose": "ミラーリング基本句",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_14_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "Discovery 中の mirroring の主目的は？",
+      "options": [
+        "相手を称賛するため",
+        "誤解防止と相手に「聞かれている」感を与えるため",
+        "時間を稼ぐため",
+        "値段を提示する前置き"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "Mirroring は誤解防止 + trust 構築。1週間後に誤解が露呈して deal を失うリスクを防ぐ。",
+        "vi": "Mirror để chống hiểu sai + xây trust. Tránh risk 1 tuần sau lộ hiểu lầm rồi mất deal."
+      }
+    }
+  ]
+}

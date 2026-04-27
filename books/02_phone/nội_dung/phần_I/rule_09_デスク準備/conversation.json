@@ -1,0 +1,73 @@
+{
+  "rule_id": "rule_09",
+  "rule_slug": "重要電話前のデスク準備",
+  "title": {
+    "ja": "重要電話前のデスク準備",
+    "vi": "Setup bàn trước cuộc gọi quan trọng"
+  },
+  "rule_context": {
+    "ja": "重要通話前の30秒準備で反応速度が劇的に上がる。",
+    "vi": "30 giây setup trước cuộc gọi quan trọng = phản ứng nhanh hơn nhiều."
+  },
+  "related_rules": [
+    "rule_04",
+    "rule_24"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 資料を開いておく",
+      "label_vi": "TỐT — Đã mở sẵn tài liệu",
+      "display_order": 1,
+      "conversation_lines": [
+        {
+          "line_id": "rule_09_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "先週送った見積書の3ページ目について質問なのですが...",
+          "sentence_translation": "Em có câu hỏi về trang 3 của bảng báo giá tuần trước...",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_09_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "はい、3ページ目を開いております。どの項目でしょうか。",
+          "sentence_translation": "Vâng, em đã mở trang 3. Hạng mục nào ạ?",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_09_kp_01",
+      "speaker": "zun",
+      "sentence": "重要電話の30秒前にデスクを整える。",
+      "sentence_translation": "Trước cuộc gọi quan trọng, sắp xếp bàn 30 giây.",
+      "purpose": "通話準備のルーティン化",
+      "slow_audio": false
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_09_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "重要顧客電話前のデスク準備に含まれないものは？",
+      "options": [
+        "ペンとメモ",
+        "関連資料",
+        "カレンダー",
+        "昼食"
+      ],
+      "correct": "D",
+      "explanation": {
+        "ja": "昼食は不要。集中の妨げになる可能性も。",
+        "vi": "Đồ ăn trưa không cần. Có thể làm mất tập trung."
+      }
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "rule_id": "rule_32",
+  "rule_slug": "契約書ドラフト・LOI",
+  "title": {
+    "ja": "契約書ドラフト・LOI",
+    "vi": "LOI rồi mới đến contract draft"
+  },
+  "rule_context": {
+    "ja": "Recap メール OK 後、本契約書直行ではなく LOI (1-2 ページ、commercial 6 項目) を 2 週間で締結し、その後本契約書ドラフトに進む 2 段階フロー。",
+    "vi": "Sau khi recap mail OK, KHÔNG nhảy thẳng full contract — làm LOI (1-2 trang, 6 commercial items) ký trong 2 tuần, sau đó mới sang contract draft."
+  },
+  "related_rules": [
+    "rule_30",
+    "rule_31",
+    "rule_33"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — LOI スキップで本契約直行",
+      "label_vi": "XẤU — Skip LOI, jump to contract",
+      "display_order": 1,
+      "analysis": {
+        "ja": "LOI を省略し本契約 v1 送付。2 週間後に税込/税抜の認識ズレが発覚し ¥1.7M の再交渉に。",
+        "vi": "Skip LOI, gửi contract v1 luôn. 2 tuần sau phát hiện 'tax inclusive vs exclusive' mismatch → renegotiate ¥1.7M."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_32_bad_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "ズン、recap OK 来たし、契約書ドラフトを直接送ろう。LOI 余計な工程じゃない？",
+          "sentence_translation": "Dũng, recap OK rồi, gửi contract draft thẳng đi. LOI có phải bước thừa không?",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_32_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "では契約書 v1 を作成して大垣様に送ります。",
+          "sentence_translation": "Vâng, em sẽ làm contract v1 gửi anh Ōgaki ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_32_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "ズン様、契約書 v1 拝見しました。ところで価格 ¥17M は税込ですよね？",
+          "sentence_translation": "Anh Dũng, đã xem contract v1. À mà giá ¥17M là đã bao gồm thuế đúng không?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_32_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "いえ、税抜で recap メールに記載しております…",
+          "sentence_translation": "Dạ không, em ghi 'chưa thuế' trong recap mail rồi ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_32_bad_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "社内では税込前提で稟議が動いており、ここから差額で再交渉になります…",
+          "sentence_translation": "Bên anh ringi đang chạy theo giả định 'đã thuế', từ đây phần chênh lệch sẽ phải re-negotiate...",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — LOI を介した 2 段階契約",
+      "label_vi": "TỐT — 2-step: LOI rồi đến contract",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_32_good_01",
+          "highlight_text": "LOI ドラフト 1-2 ページ",
+          "ja": "LOI は 6 項目のみ: 価格(税抜明記) / 期間 / スコープ要約 / SLA / 支払 / 効力発生日。詳細条項は本契約へ。",
+          "vi": "LOI chỉ 6 items: giá (ghi rõ chưa thuế) / kỳ hạn / scope tóm tắt / SLA / thanh toán / ngày hiệu lực. Detailed terms để cho contract chính."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_32_good_03",
+          "highlight_text": "4 週間以内に本契約書ドラフトをご提示",
+          "ja": "LOI → 本契約 4 週間 commitment が pace control。relationship に締切を可視化。",
+          "vi": "Commit 'LOI → contract draft trong 4 tuần' là pace control — visualize deadline cho relationship."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_32_good_05",
+          "highlight_text": "条項面の調整に集中できます",
+          "ja": "LOI で commercial がロック済みなので、本契約交渉は条項詳細だけ。商務的 re-open はない。",
+          "vi": "LOI khóa commercial → contract negotiation chỉ về terms detail. KHÔNG có việc re-open thương mại."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_32_good_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ズン、recap OK 来たね。次は LOI ドラフト 1-2 ページを準備して。 commercial terms 6 項目だけ。詳細条項は後の契約書 draft で詰める。",
+          "sentence_translation": "Dũng, recap OK rồi nhỉ. Tiếp theo chuẩn bị LOI draft 1-2 trang. Chỉ 6 commercial terms thôi. Detailed clauses để cho contract draft sau.",
+          "tone": "warm",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_32_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "承知しました。LOI v1 作成して、本日中に弊社内で legal レビュー → 明日大垣様に送付いたします。",
+          "sentence_translation": "Em rõ rồi ạ. Em sẽ làm LOI v1, trong ngày hôm nay legal review nội bộ rồi mai gửi anh Ōgaki ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_32_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "件名「【LOI】Phase 3 業務委託に関する基本合意書 ご送付の件」 — Phase 3 業務委託の主要条件 6 項目をまとめた LOI をお送りいたします。ご捺印頂きましたら、続いて 4 週間以内に本契約書ドラフトをご提示いたします。",
+          "sentence_translation": "Subject: 'LOI Phase 3 — Gửi văn bản basic agreement' — Em gửi anh LOI tổng hợp 6 commercial terms của Phase 3. Sau khi anh đóng dấu, trong 4 tuần em sẽ gửi tiếp contract draft chính ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_32_good_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "ズン様、LOI 拝見しました。社内 legal も問題なし、税抜価格を明記頂いており明確です。本日捺印して PDF 送付いたします。",
+          "sentence_translation": "Anh Dũng, đã xem LOI. Bên legal nội bộ cũng không vấn đề, giá ghi rõ 'chưa thuế' nên rất rõ ràng. Hôm nay tôi đóng dấu rồi gửi PDF.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_32_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "LOI 捺印戻り完了。次は本契約書 draft v1 を 4 週間以内に。条項面の調整に集中できます。",
+          "sentence_translation": "LOI đã đóng dấu xong rồi ạ. Tiếp theo trong 4 tuần em sẽ làm contract draft v1. Chúng ta tập trung điều chỉnh terms thôi ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_32_kp_01",
+      "speaker": "zun",
+      "sentence": "ご捺印頂きましたら、続いて 4 週間以内に本契約書ドラフトをご提示いたします。",
+      "sentence_translation": "Sau khi anh đóng dấu, trong 4 tuần em sẽ gửi contract draft chính ạ.",
+      "purpose": "LOI → 本契約 pace control",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_32_kp_02",
+      "speaker": "fuon",
+      "sentence": "LOI = 商務合意のロック、本契約 = 条項詳細。",
+      "sentence_translation": "LOI khóa commercial. Contract khóa terms.",
+      "purpose": "2 段階契約フローの原則",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_32_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "LOI を本契約書の前に締結する最大の理由は？",
+      "options": [
+        "本契約書を簡略化するため",
+        "商務条件 (価格・期間・スコープ) を先にロックし、本契約交渉を条項詳細だけに絞るため",
+        "支払を分割するため",
+        "翻訳費を節約するため"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "LOI で commercial がロック済みなら本契約交渉は条項詳細のみ。商務 re-open を防ぐ。",
+        "vi": "LOI khóa commercial → contract negotiation chỉ về terms detail. Ngăn việc re-open thương mại."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_32_tpl_01",
+      "format": "report",
+      "title_ja": "基本合意書 (LOI) テンプレート",
+      "title_vi": "Template LOI (basic agreement)",
+      "content_ja": "基本合意書\n\n〇〇株式会社 (以下「甲」) と ティエンファット社 (以下「乙」) は、〇〇 業務委託に関し、以下の通り基本合意する。\n\n第1条 (目的)\n甲乙は、〇〇 プロジェクト (以下「本件」) における業務委託契約 (以下「本契約」) の締結に向け、主要条件を本書面で確認する。\n\n第2条 (主要条件)\n(1) 価格: 金〇〇円 (消費税別)\n(2) 契約期間: 〇〇年〇月〇日 〜 〇〇年〇月〇日\n(3) スコープ要約: 〇〇\n(4) SLA: 稼働率 〇〇%\n(5) 支払条件: 月末締め翌月末払い\n(6) 効力発生日: 本書面捺印日\n\n第3条 (本契約締結期日)\n甲乙は、本書面捺印後 4 週間以内に本契約書ドラフトを協議し、双方合意の上で本契約を締結することに努める。\n\n第4条 (本書面の効力)\n本書面は本契約締結までの commercial terms の確認文書であり、詳細条項は本契約書にて定める。\n\n第5条 (秘密保持)\n本件交渉に関連して入手した相手方の情報は、別途 NDA に基づき取扱う。\n\n以上を証するため、本書 2 通を作成し、甲乙各 1 通を保有する。\n\n〇〇年〇月〇日\n\n甲: 〇〇株式会社  代表取締役 〇〇 〇〇  ㊞\n乙: ティエンファット社  代表取締役 〇〇 〇〇  ㊞",
+      "content_vi": "BASIC AGREEMENT (LOI)\n\nCty 〇〇 (sau đây gọi 'Bên A') và Cty Tiên Phát (sau đây gọi 'Bên B') thống nhất các điểm cơ bản về việc giao việc 〇〇 như sau.\n\nĐiều 1 (Mục đích)\nBên A và B xác nhận các commercial terms cốt lõi cho việc ký contract chính 〇〇 (sau đây gọi 'Hợp đồng').\n\nĐiều 2 (Commercial terms)\n(1) Giá: 〇〇 ¥ (chưa bao gồm thuế tiêu thụ)\n(2) Kỳ hạn: 〇/〇/〇 - 〇/〇/〇\n(3) Tóm tắt scope: 〇〇\n(4) SLA: tỉ lệ uptime 〇〇%\n(5) Điều khoản thanh toán: chốt cuối tháng - trả cuối tháng kế\n(6) Ngày có hiệu lực: ngày đóng dấu LOI\n\nĐiều 3 (Thời hạn ký Hợp đồng chính)\nHai bên cam kết trong vòng 4 tuần kể từ ngày đóng dấu LOI sẽ thảo luận contract draft và ký Hợp đồng chính sau khi cả hai bên đồng thuận.\n\nĐiều 4 (Hiệu lực LOI)\nLOI là văn bản xác nhận commercial terms trước khi ký Hợp đồng chính. Các điều khoản chi tiết (indemnity, IP, termination) sẽ quy định trong Hợp đồng chính.\n\nĐiều 5 (Bảo mật)\nThông tin đối tác có được trong quá trình đàm phán xử lý theo NDA riêng.\n\nLOI lập thành 2 bản, mỗi bên giữ 1 bản.\n\nNgày 〇/〇/〇\n\nBên A: Cty 〇〇 — Đại diện pháp luật 〇〇 〇〇  (Dấu)\nBên B: Cty Tiên Phát — Đại diện pháp luật 〇〇 〇〇  (Dấu)",
+      "notes_ja": "LOI は 1-2 ページに収める。詳細条項を入れない。法務レビュー必須。捺印期限 2 週間明記。",
+      "notes_vi": "LOI gói gọn 1-2 trang. KHÔNG đưa detailed clauses. Bắt buộc legal review. Ghi rõ deadline đóng dấu 2 tuần."
+    }
+  ]
+}

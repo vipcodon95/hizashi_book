@@ -1,0 +1,704 @@
+{
+  "$schema_note": "Scenes JSON cho Chương 03 — Bonenkai 忘年会.",
+  "chapter_id": "09-03",
+  "chapter_slug": "忘年会",
+  "title": {
+    "vi": "Tiệc tất niên cuối năm 忘年会",
+    "ja": "忘年会の夜"
+  },
+  "boi_canh": {
+    "vi": "Thứ 6, 19/12/2026, izakaya Shinbashi, 19:00-22:30. Toàn bộ team JP của 白鷗 (≈12 người) + 5 cty Thiên Phát (Dũng + Tuấn + Hương + Linh + Hải). Linh + Hải lần đầu dự bonenkai JP. Tăng 2 karaoke optional sau 22:00.",
+    "ja": "2026年12月19日(金)、新橋の居酒屋にて、白鷗チーム12名+ティエンファット5名(ズン・トゥアン・フオン・リン・ハイ)の合同忘年会。リンとハイは初めての日本式忘年会。"
+  },
+  "bi_quyet_tong": [
+    "Bonenkai = '忘年' nghĩa là 'quên đi 1 năm'. Không phải dịp pitch business — dịp relax + thắt chặt nhân sự.",
+    "Seniority order chỗ ngồi: kamiza (xa cửa) cho khách + senior, shimoza (gần cửa) cho host + junior.",
+    "Kanpai chờ tất cả có ly + senior nhất nói trước. Không tự rót cho mình — rót cho người khác, chờ họ rót lại.",
+    "Linh + Hải lần đầu → Hương + Tuấn + Dũng coach trước.",
+    "Niji-kai (tăng 2) tự nguyện. Junior nên đi nếu được rủ. Sankai (tăng 3) free choice."
+  ],
+  "scenes": [
+    {
+      "n": 1,
+      "time": "Fri 18:45",
+      "location": "Trước izakaya Shinbashi",
+      "setting": "Đèn đỏ izakaya treo trước cửa. Trời đông Tokyo lạnh ≈5°C. 5 người Thiên Phát tập trung trước cửa, đếm số người. Linh mặc đầm đen + áo khoác dày, run nhẹ vì lạnh.",
+      "lines": [
+        {
+          "speaker": "fuon",
+          "ja": "(ベトナム語、リン+ハイに)Linh, Hải, lần đầu bonenkai nha, chị nhắc nhanh 3 điều: kanpai chờ cụng, không tự rót cho mình, ăn chậm thôi.",
+          "vi": "(tiếng Việt, với Linh + Hải) Linh, Hải, lần đầu bonenkai đó nha, chị nhắc nhanh 3 điều: kanpai chờ cụng, không tự rót cho mình, ăn chậm thôi."
+        },
+        {
+          "speaker": "linh",
+          "ja": "(ベトナム語、緊張)Vâng chị, em sẽ ngồi cạnh chị được không, để em nhìn theo?",
+          "vi": "(tiếng Việt, lo lắng) Vâng chị, em sẽ ngồi cạnh chị được không, để em nhìn theo?"
+        },
+        {
+          "speaker": "fuon",
+          "ja": "(ベトナム語)OK, chị sẽ giữ chỗ cạnh em. Hải ngồi cạnh anh Tuấn nhe.",
+          "vi": "(tiếng Việt) OK, chị sẽ giữ chỗ cạnh em. Hải ngồi cạnh anh Tuấn nhe."
+        },
+        {
+          "speaker": "hai",
+          "ja": "(ベトナム語)Vâng chị. Em mới rule sách 08 đọc xong tuần trước, hi vọng đủ dùng.",
+          "vi": "(tiếng Việt) Vâng chị. Em mới rule sách 08 đọc xong tuần trước, hi vọng đủ dùng."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(ベトナム語)Topic an toàn: thời tiết, đồ ăn, vùng quê khách. Tránh: chính trị, tiền lương, đời tư khách hôn nhân.",
+          "vi": "(tiếng Việt) Topic an toàn: thời tiết, đồ ăn, vùng quê khách. Tránh: chính trị, tiền lương, đời tư khách hôn nhân."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(ベトナム語)Em đếm rồi, đoàn 白鷗 7 người vừa tới ga. Mình vào đợi trong nhà cho đỡ lạnh.",
+          "vi": "(tiếng Việt) Em đếm rồi, đoàn 白鷗 7 người vừa tới ga. Mình vào đợi trong nhà cho đỡ lạnh."
+        },
+        {
+          "speaker": "fuon",
+          "ja": "OK, vào đi. Linh nhớ cởi áo khoác treo cửa nhé.",
+          "vi": "OK, vào đi. Linh nhớ cởi áo khoác treo cửa nhé."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Coach junior trước bonenkai",
+        "body": "Junior lần đầu bonenkai = nervous cao. Senior coach trước (3 phút trước cửa):\n- 3 rule cốt lõi: kanpai chờ cụng / không tự rót / ăn chậm.\n- Topic an toàn vs cấm.\n- Chỗ ngồi: junior bám cạnh người Việt cùng cty.\n- Cho phép 'không hiểu thì nháy mắt anh/chị, tụi tôi cứu'."
+      }
+    },
+    {
+      "n": 2,
+      "time": "Fri 19:00",
+      "location": "Tatami room izakaya",
+      "setting": "Phòng tatami private 17 chỗ. Bàn dài thấp 2 hàng. Cuối phòng (xa cửa) là kamiza dành senior nhất. Đoàn JP đến cùng lúc. Bắt đầu vào chỗ.",
+      "lines": [
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "皆さん、お疲れ様です!年末ですね。",
+          "vi": "Mọi người, hôm nay vất vả rồi nhé! Cuối năm rồi."
+        },
+        {
+          "speaker": "fuon",
+          "ja": "田中さん、皆様、本日はお招きいただきありがとうございます。",
+          "vi": "Anh Tanaka, quý vị, cảm ơn đã mời chúng tôi đến tối nay ạ."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(席を案内)中村CFOはこちらの奥、その隣に大垣さん、フオン副部長、こちら側の奥に佐藤先生…",
+          "vi": "(hướng dẫn chỗ ngồi) Anh Nakamura CFO ngồi cuối này, kế bên là Ōgaki, chị Hương, bên này cuối là anh Sato…"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng định ngồi gần Matsumoto vì thân nhất — Tuấn kéo nhẹ tay, ra hiệu mắt 'để khách JP ngồi kamiza'.]"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(小声、日本語)ズン、僕らはこっち、入口側。junior は shimoza。",
+          "vi": "(nhỏ giọng tiếng Nhật) Dũng, mình ngồi bên này, gần cửa. Junior thì shimoza."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(小声)はい、すみません。",
+          "vi": "(nhỏ giọng) Vâng anh, em xin lỗi."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "(関西弁)あ、リンちゃん!久しぶり。隣空いてるで、おいでや。",
+          "vi": "(tiếng Kansai) A, bé Linh! Lâu rồi không gặp. Bên cạnh trống, ngồi đây nè."
+        },
+        {
+          "speaker": "linh",
+          "ja": "(緊張、日本語)山本さん、お久しぶりです。失礼します。",
+          "vi": "(lo lắng, tiếng Nhật) Chị Yamamoto, lâu lắm rồi. Em xin phép."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Mọi người ngồi xong. Linh ngồi giữa Yamamoto + Hương — vị trí an toàn, có 2 người Việt + 1 chị tốt Yamamoto. Hải ngồi cạnh Tuấn + Tanaka. Dũng ngồi shimoza nhất, gần cửa, ngay bên Matsumoto.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Seniority chỗ ngồi izakaya",
+        "body": "**Kamiza (上座)** = chỗ xa cửa nhất, dành senior nhất / khách quý.\n**Shimoza (下座)** = chỗ gần cửa, dành junior / host.\n\nQuy tắc:\n- Khách nước ngoài thường được mời kamiza dù junior — host JP coi là 'khách khách'.\n- Tuấn + Dũng tự nhận shimoza = thông minh, signal 'tôi ở đây để host'.\n- Yamamoto kéo Linh ngồi cạnh = Yamamoto chủ động bảo vệ Linh = good colleague."
+      }
+    },
+    {
+      "n": 3,
+      "time": "Fri 19:10",
+      "location": "Bàn tatami",
+      "setting": "Order đồ uống đầu tiên — 'toriaezu beer' (bia trước đã). Linh không uống bia. Yamamoto phát hiện ngay.",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "皆さん、とりあえずビールでいいですか?飲めない方は他の物どうぞ。",
+          "vi": "Mọi người, toriaezu bia nhé? Ai không uống thì lấy đồ khác ạ."
+        },
+        {
+          "speaker": "linh",
+          "ja": "(小声、戸惑う)…",
+          "vi": "(nhỏ giọng, lúng túng)…"
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "(リンに小声)リンちゃん、飲めるん?",
+          "vi": "(với Linh nhỏ giọng) Linh nè, uống được không?"
+        },
+        {
+          "speaker": "linh",
+          "ja": "(小声)実は…ビールはあまり…",
+          "vi": "(nhỏ giọng) Thật ra… bia thì em không…"
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "(笑って、大きい声で)あ、リンちゃんビール苦手やって。じゃあウーロン茶か、カクテル甘いやつ?",
+          "vi": "(cười, lớn tiếng) À, bé Linh không hợp bia. Vậy oolong hay cocktail ngọt?"
+        },
+        {
+          "speaker": "linh",
+          "ja": "(救われた表情)ウーロン茶でお願いします。",
+          "vi": "(thở phào) Cho em oolong ạ."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "(店員に)すみません、ウーロン茶1つ、それとレモンサワー私に。",
+          "vi": "(với nhân viên) Cho hỏi, 1 oolong, với 1 lemon sour cho tôi."
+        },
+        {
+          "speaker": "fuon",
+          "ja": "(リンに小声、ベトナム語)Linh, từ chối bia là OK ở Nhật, không cần ngại.",
+          "vi": "(với Linh nhỏ giọng, tiếng Việt) Linh, từ chối bia là OK ở Nhật, không cần ngại."
+        },
+        {
+          "speaker": "hai",
+          "ja": "(陽気)私はビール、お願いします!",
+          "vi": "(vui vẻ) Cho em bia ạ!"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Đồ uống ra trong 2 phút. Mọi người cầm ly. Chờ Nakamura speech.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Từ chối bia ở bonenkai = OK",
+        "body": "JP modern (2020s+) — **không ép uống** đã thành phổ biến. Junior từ chối bia:\n- ✅ **Nói rõ alternative**: 'ウーロン茶でお願いします' / 'ソフトドリンクで'.\n- ✅ **Không cần xin lỗi** — chỉ cần specify drink khác.\n- Senior tốt (như Yamamoto) **chủ động phát hiện** + cover cho junior — nhận ra junior do dự.\n- ❌ **Avoid** câu '私はお酒飲めません' tuyệt đối — nghe quá rigid. Câu 'ビール苦手で…' nhẹ hơn."
+      }
+    },
+    {
+      "n": 4,
+      "time": "Fri 19:20",
+      "location": "Bàn tatami",
+      "setting": "Mọi người có ly. Nakamura CFO đứng lên speech 2 phút khai mạc.",
+      "lines": [
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "(立ち上がる、皆静かに)皆様、本日はお忙しい中、ありがとうございます。今年、白鷗としては Phase 4 を無事に完了でき、ティエンファットの皆様の技術力と熱意のおかげで、本当に感謝しています。",
+          "vi": "(đứng lên, mọi người im) Quý vị, hôm nay cảm ơn đã dành thời gian. Năm nay Hakuō hoàn thành Phase 4 thành công, nhờ kỹ thuật và nhiệt huyết của Tien Phat, chúng tôi vô cùng cảm kích."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "来年は Phase 5 がさらに大きくなる予定で、引き続きよろしくお願いします。それでは、今年1年の労をねぎらい、来年への期待を込めて、乾杯!",
+          "vi": "Năm sau Phase 5 dự kiến mở rộng hơn, mong tiếp tục hợp tác. Vậy, xin nâng ly tri ân một năm qua và gửi gắm kỳ vọng năm sau — kanpai!"
+        },
+        {
+          "speaker": "all",
+          "ja": "乾杯!",
+          "vi": "Kanpai!"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Ly cụng vào nhau lách cách. Linh cụng nhẹ với Yamamoto + Hương. Hải cụng mạnh — Tuấn nháy mắt 'nhẹ thôi'.]"
+        },
+        {
+          "speaker": "fuon",
+          "ja": "(立ち上がる)中村CFO、皆様、温かいお言葉ありがとうございます。ティエンファット代表として一言だけ…",
+          "vi": "(đứng lên) Anh Nakamura CFO, quý vị, cảm ơn lời chào ấm áp. Là đại diện Thiên Phát, tôi xin được nói đôi lời ạ…"
+        },
+        {
+          "speaker": "fuon",
+          "ja": "Phase 4 を一緒に乗り越えられたこと、本当に感謝しています。来年もチーム一同、全力で取り組ませていただきます。本日は楽しい夜にしましょう。乾杯!",
+          "vi": "Cảm ơn đã cùng nhau vượt qua Phase 4. Năm sau cả team chúng tôi sẽ dốc sức. Mong tối nay sẽ là một đêm thật vui. Kanpai!"
+        },
+        {
+          "speaker": "all",
+          "ja": "乾杯!",
+          "vi": "Kanpai!"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(小声、フオンに)フオン副部長、短くて完璧。",
+          "vi": "(nhỏ giọng với Hương) Chị Hương, ngắn mà hoàn hảo."
+        },
+        {
+          "speaker": "fuon",
+          "ja": "(ベトナム語、小声)Hồi nãy chị run muốn chết, em yên tâm.",
+          "vi": "(tiếng Việt, nhỏ giọng) Hồi nãy chị run muốn chết, em yên tâm."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Speech opening + reply",
+        "body": "Bonenkai chuẩn:\n1. Senior nhất bên host (Nakamura) speech 1-2 phút opening.\n2. Senior nhất bên khách (Hương) reply 30 giây - 1 phút.\n3. Kanpai đồng thanh.\n\nSpeech reply tip:\n- ✅ Cảm ơn cụ thể (Phase 4).\n- ✅ Cam kết tương lai (Phase 5).\n- ✅ Chuyển sang 'enjoy tonight' để mọi người relax.\n- ❌ Đừng quá long (>1 phút) — giữ momentum tiệc.\n- Tay cầm ly khi speech."
+      }
+    },
+    {
+      "n": 5,
+      "time": "Fri 19:40",
+      "location": "Bàn tatami",
+      "setting": "Đồ ăn ra liên tục: edamame, karaage, sashimi, đậu hũ, salad. Hải đói, ăn nhanh. Tuấn nhắc nhẹ.",
+      "lines": [
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Hải gắp karaage ngay khi vừa đặt xuống bàn, ăn 2 miếng liền. Tuấn ngồi cạnh, đặt tay nhẹ lên cánh tay Hải.]"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(小声、ベトナム語)Hải, chậm thôi. Đợi khách gắp trước.",
+          "vi": "(nhỏ giọng tiếng Việt) Hải, chậm thôi. Đợi khách gắp trước."
+        },
+        {
+          "speaker": "hai",
+          "ja": "(顔赤く、小声)あ、すみません先輩。お腹空いてて。",
+          "vi": "(mặt đỏ, nhỏ giọng) Ơ em xin lỗi anh. Em đói quá."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "(横で笑って)ハイさん、若いから食欲旺盛で羨ましい。さあみんな、遠慮せずに食べて。",
+          "vi": "(bên cạnh cười) Hải trẻ nên ăn khỏe, tôi ngưỡng mộ ghê. Mọi người đừng ngại, ăn đi."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Tanaka chủ động cứu mặt Hải. Hải nhẹ người, lần này gắp chậm hơn.]"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(ズンに、小声)ハイさん、初めて?",
+          "vi": "(với Dũng nhỏ giọng) Hải lần đầu hả?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、忘年会は初めてです。リンも。",
+          "vi": "Vâng, bonenkai lần đầu ạ. Linh cũng vậy."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "なるほど。じゃあ田中が今のフォロー、神対応だね。",
+          "vi": "À. Vậy Tanaka cứu nãy đỉnh thật."
+        },
+        {
+          "speaker": "zun",
+          "ja": "本当に。後で田中さんにお礼言います。",
+          "vi": "Đúng vậy ạ. Lát em cảm ơn anh Tanaka."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Junior ăn nhanh — senior cứu",
+        "body": "Junior đói + nervous → ăn nhanh là phản xạ tự nhiên. Cách xử lý:\n- **Trong moment**: Senior cùng cty nhắc nhẹ tay (như Tuấn) — không la lớn.\n- **Sau moment**: Cảm ơn senior khách JP đã cover (Tanaka).\n- **Bài học cho junior**: Ăn 1 miếng → đặt đũa xuống → uống 1 ngụm → nói 1 câu → mới gắp tiếp. Pace forced slow.\n- ✅ **Đợi khách JP gắp trước** với món chung mới ra (sashimi platter, otsukuri).\n- ❌ Không gắp món cuối cùng còn lại trên đĩa — luôn để 1 miếng (enryo no katamari)."
+      }
+    },
+    {
+      "n": 6,
+      "time": "Fri 20:00",
+      "location": "Bàn tatami",
+      "setting": "Round 2 đồ uống, không khí mở. Sato (Fukuoka, 60t) gọi shochu, mời Dũng 1 ly nhỏ. Sách 08 dạy không từ chối senior.",
+      "lines": [
+        {
+          "speaker": "sato_kyushu",
+          "ja": "(博多弁)ズンくん、こっち来て、焼酎一杯どうね?",
+          "vi": "(tiếng Hakata) Dũng nè, qua đây, làm 1 ly shochu không?"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng nhớ rule sách 08: senior 60t mời 1 ly = không từ chối, dù không quen shochu. Đứng dậy đi lại bàn Sato.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "佐藤先生、ありがとうございます、お邪魔します。",
+          "vi": "Anh Sato, cảm ơn anh, em xin phép."
+        },
+        {
+          "speaker": "sato_kyushu",
+          "ja": "ほら、座って。これね、地元福岡の麦焼酎、『中々』ていうの。ロックでいい?",
+          "vi": "Đây, ngồi đi. Cái này shochu lúa mạch quê Fukuoka tôi, gọi là 'Naka Naka'. Đá được không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ロックでお願いします。",
+          "vi": "Đá được ạ."
+        },
+        {
+          "speaker": "sato_kyushu",
+          "ja": "(注ぐ)はい。乾杯。",
+          "vi": "(rót) Đây. Kanpai."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(両手でグラス受け取り)乾杯。…(一口)あ、麦の香りが優しいですね。ベトナムの米焼酎より柔らかい感じ。",
+          "vi": "(2 tay nhận ly) Kanpai. … (1 ngụm) À, hương lúa mạch dịu nhỉ. Mềm hơn rượu gạo Việt Nam em từng uống."
+        },
+        {
+          "speaker": "sato_kyushu",
+          "ja": "おお、米焼酎飲んだことあるんだ?",
+          "vi": "Ồ, uống rượu gạo rồi à?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "Tết のときに、家族で。父が好きで。",
+          "vi": "Tết, với gia đình ạ. Bố em thích."
+        },
+        {
+          "speaker": "sato_kyushu",
+          "ja": "そうかそうか。ベトナムの Tết、いつだった?",
+          "vi": "À à. Tết Việt Nam, khi nào nhỉ?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "1月か2月の最初、旧暦なので毎年違います。来年は1月29日です。",
+          "vi": "Đầu tháng 1 hoặc tháng 2, theo âm lịch nên mỗi năm khác. Năm sau là 29/1."
+        },
+        {
+          "speaker": "sato_kyushu",
+          "ja": "へえ。じゃあ来年の Tết、福岡に来たら焼酎工場連れてってあげる。本物の蔵元見せちゃる。",
+          "vi": "Vậy à. Năm sau Tết, cậu sang Fukuoka tôi dẫn đi xưởng shochu. Cho cậu xem nhà chưng cất thật, đàng hoàng luôn."
+        },
+        {
+          "speaker": "zun",
+          "ja": "本当ですか?光栄です、ぜひ伺います。",
+          "vi": "Thật ạ? Vinh dự lắm, em chắc chắn sẽ qua."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Senior 60t mời 1 ly = chấp nhận",
+        "body": "Sách 08 đã dạy. Reinforce ở đây:\n- ✅ Senior 60t (như Sato) mời ly là **gesture rõ rệt** — không phải small talk. Đi lại ngồi cạnh = sign respect.\n- ✅ Nhận ly 2 tay, kanpai, uống 1 ngụm, comment 1 câu về vị (Dũng comment 'mềm hơn rượu gạo').\n- ✅ Senior thường share câu chuyện kèm ly — listen attentively, ask 1 question (Sato kể về Fukuoka shochu → Dũng hỏi tiếp về Tết).\n- ✅ Senior offer 'next time visit my hometown' = lời mời thật, không xã giao. Note vào memory bank."
+      }
+    },
+    {
+      "n": 7,
+      "time": "Fri 20:30",
+      "location": "Bàn tatami",
+      "setting": "Tanaka mở điện thoại khoe ảnh con trai 5 tuổi. Dũng nhớ chuyện sticker robot từ chương 01 — kéo Linh vào câu chuyện.",
+      "lines": [
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "(スマホ見せる)これ、最近の息子。5歳になった。",
+          "vi": "(khoe điện thoại) Đây, con trai gần đây. Vừa 5 tuổi."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "おお、可愛いね。お父さん似?",
+          "vi": "Ồ, đáng yêu nhỉ. Giống bố?"
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "目だけ僕。あとは妻。",
+          "vi": "Mỗi đôi mắt giống tôi. Còn lại giống vợ."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng nhớ — tháng 5 IT Week, mình đã cho Tanaka cái sticker robot cho con. Cơ hội kéo Linh vào.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "リンちゃん、田中さんの息子さん、写真で見たことある?ロボット好きで、5月の IT Week でステッカー差し上げたんだ。",
+          "vi": "Linh nè, con trai anh Tanaka em đã xem ảnh chưa? Cu cậu mê robot, hồi IT Week tháng 5 anh có tặng bé một cái sticker đó."
+        },
+        {
+          "speaker": "linh",
+          "ja": "(緊張、日本語ゆっくり)あ、田中さん、写真見せていただけますか?",
+          "vi": "(lo lắng, tiếng Nhật chậm) À, anh Tanaka, em xin xem ảnh được không ạ?"
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "もちろん!ほら、これがズンさんからもらったステッカー、リュックに貼ってる。",
+          "vi": "Dĩ nhiên! Đây, sticker Dũng cho, dán trên balo."
+        },
+        {
+          "speaker": "linh",
+          "ja": "(微笑む)わあ、本当だ!可愛いです。お子さん、ロボットの何が一番好きですか?",
+          "vi": "(cười) Wow, thật rồi! Đáng yêu quá. Bé thích nhất robot nào ạ?"
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "ガンダム!最近 RX-78 のプラモデルを一緒に作ってる。まだ5歳だから半分は僕が作ってるけど(笑)",
+          "vi": "Gundam! Gần đây 2 cha con đang ráp mô hình RX-78. Mới 5 tuổi nên nửa tôi ráp (cười)."
+        },
+        {
+          "speaker": "linh",
+          "ja": "(目を輝かせて)ガンダム!私もアニメで見ました、シャアアズナブルの赤いやつ。",
+          "vi": "(mắt sáng) Gundam! Em coi anime rồi, cái đỏ của Char Aznable."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "おお、リンさん詳しい!シャア知ってるなんて。",
+          "vi": "Ồ, Linh rành ghê! Biết cả Char nữa."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Linh đã 'pass' moment đầu — chuyển từ nervous sang engaged. Dũng + Hương nhìn nhau, gật đầu.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Kéo junior vào conversation",
+        "body": "Junior nervous = thường im. Senior cùng cty có nhiệm vụ **kéo junior vào** với cách:\n- ✅ **Chọn topic junior dễ tham gia** (ảnh con khách, anime, sở thích thường gặp).\n- ✅ **Setup câu hỏi** thay vì để junior tự nghĩ ('em đã xem ảnh chưa?' — Linh chỉ cần đáp lại).\n- ✅ Khi junior đã start → **lùi ra**, để junior tự run.\n- ✅ Connect chi tiết cũ (sticker IT Week → ảnh hôm nay) = khách Nhật cảm động vì 'mình nhớ'.\n- Linh biết Gundam = bonus, không expect — nhưng huge win."
+      }
+    },
+    {
+      "n": 8,
+      "time": "Fri 21:00",
+      "location": "Bàn tatami",
+      "setting": "Yamamoto kể chuyện hài Osaka. Joke Kansai-ben Linh không hiểu 30%. Hải ghé tai dịch nhanh.",
+      "lines": [
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "(関西弁、大笑い)…ほんでな、その大阪のおっちゃんが、たこ焼き屋の前で『マヨネーズ多めで!』って叫んだら、店主が『そんなん知らんがな!』って…(笑)",
+          "vi": "(tiếng Kansai, cười lớn) …rồi á, ông chú Osaka đó, đứng trước quán takoyaki la lên 'mayo nhiều hơn!', chủ quán bảo 'chuyện đó biết sao được!' (cười)…"
+        },
+        {
+          "speaker": "all_jp",
+          "ja": "(笑い)",
+          "vi": "(cười)"
+        },
+        {
+          "speaker": "linh",
+          "ja": "(微笑むけど目が泳ぐ)…",
+          "vi": "(cười nhưng mắt đảo loạn)…"
+        },
+        {
+          "speaker": "hai",
+          "ja": "(リンに小声、ベトナム語)Câu cuối: 'biết sao được' theo kiểu Kansai. Joke về tính cách Osaka direct.",
+          "vi": "(nhỏ giọng với Linh, tiếng Việt) Câu cuối: 'biết sao được' theo kiểu Kansai. Joke về tính cách Osaka direct."
+        },
+        {
+          "speaker": "linh",
+          "ja": "(小声)あ、なるほど(笑)",
+          "vi": "(nhỏ giọng) À, hiểu rồi (cười)"
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "(リンに気づいて)あ、リンちゃん、関西弁分かりにくいやろ?私、関西人やからつい出てまう。標準語で言い直そか?",
+          "vi": "(thấy Linh) À Linh, tiếng Kansai khó hiểu nhỉ? Tôi người Kansai nên vô thức buột ra. Nói lại bằng tiếng chuẩn nhé?"
+        },
+        {
+          "speaker": "linh",
+          "ja": "あ、いえ、大丈夫です、ハイさんが訳してくれて。山本さんの関西弁、響きが面白くて好きです。",
+          "vi": "À, không cần đâu chị, anh Hải dịch giúp em rồi. Tiếng Kansai của chị nghe ngộ nghĩnh, em thích lắm."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "(嬉しそう)おお、嬉しい!じゃあ次は『ほんま』『せやな』『なんでやねん』教えたるわ。",
+          "vi": "(vui) Ô vui ghê! Vậy lát chị dạy em mấy câu 'honma', 'seyana', 'nandeyanen' luôn nhe!"
+        },
+        {
+          "speaker": "fuon",
+          "ja": "(笑って)山本さん、ベトナム語にも方言いっぱいあって、ハノイ語とサイゴン語、別の言語みたい。",
+          "vi": "(cười) Chị Yamamoto, tiếng Việt cũng nhiều phương ngữ lắm, tiếng Hà Nội với tiếng Sài Gòn nghe như 2 ngôn ngữ khác nhau."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "へえ、面白い!じゃあ Phase 5 でハノイ行ったら、ハノイ弁覚えるわ!",
+          "vi": "Hửm, thú vị! Vậy Phase 5 sang Hà Nội tôi học tiếng Hà Nội luôn!"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Joke phương ngữ — không hiểu thì sao?",
+        "body": "Kansai-ben / Hakata-ben / Hokkaido-ben có thể khó cho người N3-N2:\n- ✅ **Cười theo timing** — quan sát phòng, cười khi mọi người cười.\n- ✅ **Người cùng cty ghé tai dịch nhanh** (Hải làm với Linh) — không làm gián đoạn flow.\n- ✅ **Honest hỏi sau** nếu thân: 'すみません、関西弁初めてで…'.\n- ✅ Khen chính phương ngữ ('響きが面白い') = khách Kansai vui vì proud về quê.\n- ❌ Không pretend hiểu rồi cười sai timing — lộ ra khó coi hơn."
+      }
+    },
+    {
+      "n": 9,
+      "time": "Fri 21:30",
+      "location": "Bàn tatami",
+      "setting": "Ōgaki kéo Tuấn nói chuyện business nhỏ giọng. Hint Phase 5. Hương ra hiệu Tuấn không deep.",
+      "lines": [
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(トゥアンに小声で)トゥアンさん、ちょっと耳貸して。Phase 5 の話なんだけど、年明けにスコープ広げる予定で…",
+          "vi": "(với Tuấn nhỏ giọng) Anh Tuấn, ghé tai chút. Chuyện Phase 5, đầu năm dự định mở rộng scope…"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(姿勢正して)はい、伺います。",
+          "vi": "(chỉnh tư thế) Vâng, em nghe ạ."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "細かい数字はまだだけど、リソース 1.5 倍、新領域に AI ガバナンス機能を追加。トゥアンチームで足りる?",
+          "vi": "Chi tiết con số chưa, nhưng resource gấp 1.5, thêm tính năng AI governance ở mảng mới. Team Tuấn đủ không?"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Hương đứng phía bên kia, thấy Tuấn + Ōgaki nhỏ giọng. Hương ra hiệu mắt với Tuấn — 'note nhưng đừng deep tonight'.]"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "大垣さん、ありがとうございます。詳しい話は来週ちゃんと打ち合わせ設定させていただいて、しっかり検討しますね。今日は…",
+          "vi": "Anh Ōgaki, cảm ơn anh. Chi tiết tuần sau em xếp meeting đàng hoàng để thảo luận kỹ. Hôm nay thì…"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(笑って)あ、そうだそうだ、忘年会だった。すみません、つい仕事の話。",
+          "vi": "(cười) À đúng đúng, bonenkai. Xin lỗi, vô thức nói chuyện công việc."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "いえ、大事な話なので。来週、月曜日にメール入れます。今夜はゆっくり。",
+          "vi": "Không có gì, chuyện quan trọng mà. Tuần sau, thứ 2 em mail. Tối nay anh thư giãn."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "了解。じゃあ乾杯し直そう。",
+          "vi": "Rõ. Vậy mình kanpai lại."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Tuấn cụng ly nhẹ với Ōgaki. Sau đó Tuấn rút sổ tay nhỏ trong túi, ghi 3 dòng: 'Phase 5 / 1.5x resource / AI governance'. Cất.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Khách hint business ở bonenkai",
+        "body": "Senior khách (như Ōgaki) đôi khi hint business ở bonenkai vì:\n- Test reaction trong môi trường relax.\n- Đã uống → mở miệng dễ hơn formal meeting.\n- Cách response chuẩn:\n  - ✅ **Listen carefully**, nghiêm túc tư thế.\n  - ✅ **Defer to formal meeting** ('来週ちゃんと打ち合わせ設定') — không pitch / commit ngay.\n  - ✅ **Note ngắn** (3 dòng trong sổ tay nhỏ) sau khi conversation tạm dừng — không lúc khách đang nói.\n  - ❌ Không bắt đầu negotiate giá / scope tại bàn izakaya.\n  - ❌ Không pretend không nghe — disrespect."
+      }
+    },
+    {
+      "n": 10,
+      "time": "Fri 22:00",
+      "location": "Cửa izakaya — niji-kai (tăng 2)",
+      "setting": "Bonenkai chính kết thúc. Một nửa đoàn JP rủ tăng 2 karaoke. Hương quyết định ai đi.",
+      "lines": [
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "皆さん、二次会カラオケ行く?歩いて5分。",
+          "vi": "Mọi người, niji-kai karaoke không? Đi bộ 5 phút."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "行く行く!リンちゃん、ハイさんも来てや!",
+          "vi": "Đi đi! Linh, Hải cũng đi nhé!"
+        },
+        {
+          "speaker": "fuon",
+          "ja": "(小声でリン+ハイに、ベトナム語)Linh, Hải hôm nay đã làm tốt rồi. 22h là OK, về sớm nghỉ. Mai vẫn còn deadline.",
+          "vi": "(nhỏ giọng với Linh + Hải, tiếng Việt) Linh, Hải hôm nay đã làm tốt rồi. 22h là OK, về sớm nghỉ. Mai vẫn còn deadline."
+        },
+        {
+          "speaker": "linh",
+          "ja": "(ベトナム語、ホッとした)はい chị, em về ạ.",
+          "vi": "(tiếng Việt, nhẹ người) Vâng chị, em về ạ."
+        },
+        {
+          "speaker": "fuon",
+          "ja": "(日本語、皆に)山本さん、ありがとう。リンとハイは初めてで疲れたみたいだから、私と一緒に帰ります。トゥアンとズンは二次会行ってもらって、白鷗の皆さんとゆっくり。",
+          "vi": "(tiếng Nhật, với mọi người) Yamamoto cảm ơn nhé. Linh với Hải lần đầu mệt rồi nên về cùng tôi. Tuấn với Dũng đi tăng 2 với Hakuō để thoải mái."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "了解、フオン副部長、リンさんハイさん、お疲れ様でした。気をつけて。",
+          "vi": "Rõ rồi. Chị Hương, Linh, Hải vất vả rồi nhé. Về cẩn thận ạ."
+        },
+        {
+          "speaker": "linh",
+          "ja": "(ぺこり)本日は本当にありがとうございました。来年もよろしくお願いします。",
+          "vi": "(cúi đầu) Hôm nay cảm ơn quý vị nhiều ạ. Năm sau mong tiếp tục giúp đỡ."
+        },
+        {
+          "speaker": "hai",
+          "ja": "ありがとうございました!",
+          "vi": "Cảm ơn ạ!"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(ズンに小声、日本語)ズン、二次会行こう。1時間くらいで切り上げる。",
+          "vi": "(với Dũng nhỏ giọng, tiếng Nhật) Dũng, đi tăng 2 đi. Khoảng 1 tiếng là về."
+        },
+        {
+          "speaker": "zun",
+          "ja": "了解。",
+          "vi": "Rõ."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "じゃあ、二次会組はカラオケへ。歩こか。",
+          "vi": "Vậy nhóm tăng 2 đi karaoke. Đi nhé."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Niji-kai — ai đi ai về",
+        "body": "Tăng 2 sau bonenkai = không bắt buộc. Quyết định:\n- **Senior nhất bên VN (Hương) call** ai đi ai về — junior không tự quyết.\n- **Junior lần đầu** thường về sớm — đã đủ stress, đừng overload.\n- **Tuấn + Dũng** đi vì:\n  1. Mid-level, đủ kinh nghiệm handle thêm 1h.\n  2. Có Ōgaki vừa hint Phase 5 → cơ hội chat informal thêm.\n  3. Signal Hakuō mình vẫn engage.\n- **Câu từ chối khéo** (cho Linh + Hải): không cần xin lỗi dài, chỉ 'お疲れ様でした、来年もよろしく' — Hương đã cover lý do."
+      }
+    },
+    {
+      "n": 11,
+      "time": "Fri 22:30",
+      "location": "Trên đường đi karaoke (5 phút walk)",
+      "setting": "Phố Shinbashi đêm 12, đèn neon, gió lạnh. Đoàn 10 người đi bộ chia thành các nhóm nhỏ. Matsumoto chậm bước cạnh Dũng.",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "(歩きながら、casual)ズンさん、来年の話なんだけどさ。",
+          "vi": "(đi vừa nói, casual) Dũng à, chuyện năm sau nhỉ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、何かありますか?",
+          "vi": "Vâng, có chuyện gì ạ?"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "Phase 5 で、Tokyo office に半年くらい来てもらう案があってね。BD の窓口を Tokyo に常駐させたい。ズンさんどう思う?即答じゃなくていい、考えとく感じで。",
+          "vi": "Phase 5, có dự định mời cậu sang Tokyo office khoảng nửa năm. Muốn có BD đại diện thường trú Tokyo. Dũng nghĩ sao? Không cần đáp ngay, suy nghĩ là được."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng bất ngờ. Đây là first time Matsumoto hint career-level opportunity. Trả lời gì?]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "松本さん…正直、嬉しいです。半年 Tokyo に住むこと、個人的にはぜひやりたいです。家族とも相談しないといけないし、フオン副部長にも確認が必要ですが、気持ちとしては『はい』に近いです。",
+          "vi": "Anh Matsumoto… nói thật, em vui ạ. Sống Tokyo nửa năm, cá nhân em rất muốn. Phải bàn với gia đình + xác nhận chị Hương nhưng trong lòng em đã nghiêng về 'có' rồi ạ."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "そうか。気持ち聞けてよかった。フオン副部長には来週僕から正式に話するね。それまで family と話してて。",
+          "vi": "Vậy à. Nghe cảm giác cậu là tôi yên tâm. Chị Hương tuần sau tôi nói chính thức. Trong khi đó cậu nói với gia đình."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ありがとうございます。本当に光栄です。",
+          "vi": "Cảm ơn anh. Em thật sự vinh dự."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(肩を軽く叩く)Phase 1 のメール ride-along から 1年半。早かったね。",
+          "vi": "(vỗ vai nhẹ) Từ hồi cậu đi cùng email Phase 1 đến giờ là một năm rưỡi rồi. Nhanh thật."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng cảm thấy ấm. Matsumoto nhớ chi tiết nhỏ Phase 1 — chứng minh relationship đã sâu. Karaoke building hiện ra trước mặt.]"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(振り返って)松本さん、ズン、こっちこっち、入口あった。",
+          "vi": "(quay đầu) Anh Matsumoto, Dũng, đây đây, cửa vào đây."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Khách hint career opportunity trên đường",
+        "body": "**Cảnh quan trọng nhất bonenkai** thường xảy ra ở những moment 'ngoài lề' — đi bộ giữa các venue, đứng smoke break, đợi taxi. Vì:\n- Senior dễ casual hơn ngoài bàn tiệc.\n- Không có audience đông → có thể nói thật.\n- Kiểm tra reaction junior trong môi trường thoải mái.\n\nResponse pattern:\n- ✅ **Cảm ơn rõ** (don't be cool / nonchalant).\n- ✅ **Chia sẻ cảm giác thật** ('正直、嬉しいです') — Matsumoto cần thấy phản ứng thật.\n- ✅ **Defer cụ thể** (gia đình + Hương) — không hứa instant.\n- ✅ **Thank gesture vỗ vai bằng câu lịch sự** ('本当に光栄です').\n- ❌ Không từ chối ngay dù lo ('em không nghĩ em đủ trình' = false humility annoying)."
+      }
+    }
+  ],
+  "recap": {
+    "setting": "Sáng thứ 7 9:00, Dũng dậy với đầu hơi đau. Mở memory bank trên iPhone trong khi pha cà phê.",
+    "format": "code_block",
+    "content": "2026-12-19  Bonenkai Hakuō, izakaya Shinbashi 19:00-22:30 + niji-kai karaoke 22:30-24:00\n\n3 điều rút ra:\n1. Bonenkai = nơi seniority lỏng hơn meeting — Sato 60t mời 1 ly,\n   Yamamoto chủ động cứu Linh — không phải 'sếp mời' formal.\n   → Junior cùng cty cần chủ động cover cho rookie nhất.\n2. Linh đã 'pass' bài đầu tiên — biết Gundam, biết khen Kansai-ben.\n   → Mentor Linh proactively cho event tới: cho cô ấy 1-2 topic an toàn để start.\n3. Matsumoto question 'Tokyo onsite 6 tháng?' = inflection point.\n   → Không phải casual question. Cần serious think + family + chị Hương trong 7 ngày.\n\nMistake không lặp:\n- Suýt ngồi gần Matsumoto kamiza → next time auto-shimoza.\n- Hải ăn nhanh đầu — Tanaka cứu, mình nên brief Hải kỹ hơn trước.\n- Không brief Linh về Kansai-ben — Linh xử lý OK nhưng nervous moment đầu.\n\nAction items:\n- [ ] Hôm nay (Sat) gửi Slack cảm ơn Tanaka đã cover Hải\n- [ ] Hôm nay gửi mail cảm ơn Sato + hint sẽ liên lạc khi đi Fukuoka\n- [ ] Tuần tới book 1-on-1 với Hương về proposal Tokyo onsite 6 tháng\n- [ ] Gọi điện mẹ chiều nay, mở topic 'có thể sang Nhật nửa năm'\n- [ ] Brief Linh + Hải debrief sáng thứ 2: cái gì ổn, cái gì improve\n\nMình:\n- Đêm qua nhớ là đêm đặc biệt. Matsumoto offer onsite 6 tháng.\n- Linh + Hải đầu tiên cũng pass — Yamamoto cứu Linh, Tanaka cứu Hải, Sato bonus mời shochu cá nhân mình.\n- Tuấn xử lý Ōgaki Phase 5 hint cực kỹ — học được defer formal.\n- Niji-kai karaoke đáng đi — Matsumoto chia sẻ thật ngoài bàn tiệc."
+  }
+}

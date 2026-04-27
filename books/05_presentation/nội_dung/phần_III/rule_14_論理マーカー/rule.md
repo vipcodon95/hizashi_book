@@ -1,0 +1,87 @@
+# Rule 14 — Logical flow markers / 論理マーカー (まず／次に／最後に)
+
+> **Luận điểm.** Body pitch phải có **landmark chữ** dắt audience. **「まず」「次に」「最後に」** là minimum. Audience Nhật listening trong môi trường thường xuyên multitask (laptop, note) — markers giúp họ tune lại flow trong 1 giây.
+>
+> 本論には『まず／次に／最後に』のランドマーク必須。聴衆は常時 multitask しており、マーカーで1秒で flow に戻れる。
+>
+> **Liên quan:** rule 03 (SCQA), rule 10 (アジェンダ), rule 15 (データ提示).
+
+---
+
+## Bối cảnh / 場面
+
+Phần body của Dũng — 3 luận cứ cho Phase 3. Lần đầu rehearsal Dũng nói liền mạch không break — Hương yêu cầu thêm markers.
+
+---
+
+## ❌ Hội thoại XẤU — không markers
+
+*rehearsal*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「Phase 3 の中身ですが、在庫管理ロジックを高度化します。リアルタイム同期も入れます。アラート機構も追加します。3年で投資回収します。」 |
+| **フオン** | 「待って。今いくつ言った？2つ？3つ？4つ？区切りがないと聴衆も**数えられない**。」 |
+| **ズン** | 「えっと…3つで…投資回収は別の話で…」 |
+| **フオン** | 「**まず／次に／最後に**を入れて。3秒の追加で flow が10倍 clear になる。」 |
+
+**Vì sao xấu:** No marker = audience không track được "đang ở luận cứ thứ mấy". Đặc biệt khi nói tiếng Nhật — accent VN có thể làm audience lỡ 1-2 từ → mất hoàn toàn flow.
+
+---
+
+## ✅ Hội thoại TỐT — clear markers + numbering
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「Phase 3 では **3点**を実装いたします【1】。**まず1点目**、在庫管理ロジックを高度化。**次に2点目**、リアルタイム同期。**最後の3点目**、アラート機構。**この3点で**、再発を予防いたします【2】。」 |
+| **フオン** | 「うん、これなら聴衆が指折り数えられる。投資回収は別スライドね？」 |
+| **ズン** | 「はい、**続いて**スケジュールと投資回収にまいります【3】。」 |
+| **フオン** | 「『続いて』の transition も良い。スライドが切り替わる時必ず使って。」 |
+
+📝 **Ghi chú:**
+- 【1】**「3点を実装いたします」** — Number 宣言 が markers の前提. "X 点 / X つ" を最初に言う.
+- 【2】**「この3点で」** — Recap maker: 言ったことを括る. リスナーが「まとめ part」と認識.
+- 【3】**「続いて」** — Inter-section transition. 他に「次のテーマに移ります」「ここまでが〇〇、ここから〇〇」.
+
+---
+
+## 🎯 Câu chốt
+
+> **「N 点宣言 → まず／次に／最後に → この N 点で... の3層マーカー。Section transition は『続いて』『次のテーマに』。」**
+>
+> *Tuyên bố số → "đầu tiên / tiếp theo / cuối cùng" → "với 3 điểm này...". Transition section dùng "tiếp theo / sang chủ đề mới".*
+
+---
+
+## 📐 マーカー語彙集
+
+| Layer | 表現 |
+|-------|------|
+| **N 点宣言** | 〇点ございます／〇つに分けてご説明します／大きく〇つです |
+| **Item enumerate** | まず／次に／最後に／第1に／第2に／第3に |
+| **Recap** | この〇点で／以上の〇点が／まとめると |
+| **Section transition** | 続いて／次のテーマに移ります／ここまでが〇〇、ここから〇〇 |
+| **Sub-marker** | 補足ですが／ちなみに／なお |
+| **Bridge to slide** | 次のスライドをご覧ください／スライドを切り替えます |
+
+---
+
+## ⚠ Tránh
+
+- 言わずに3 luận cứ liên tục → audience đếm sai
+- Quá nhiều markers ("まず...そして...それから...そして...") → cảm giác list lê thê
+- Marker không nhất quán (まず...次に...そして3つ目) → audience confused
+- Section transition bỏ qua → audience giật mình "ủa đang ở đâu"
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 論理マーカー | ろんりマーカー | Logical marker |
+| 続いて | つづいて | Tiếp theo |
+| まとめる | まとめる | Tổng kết / gói lại |
+| 補足 | ほそく | Bổ sung / supplement |
+| 高度化 | こうどか | Nâng cao / sophistication |
+| 再発予防 | さいはつよぼう | Phòng ngừa tái phát |

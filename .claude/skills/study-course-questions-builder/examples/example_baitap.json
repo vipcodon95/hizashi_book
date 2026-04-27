@@ -1,0 +1,203 @@
+{
+  "_schema_version": "1.0",
+  "_skill": "study-course-questions-builder",
+  "_description": "MẪU TRẮC NGHIỆM THUẦN (chon_dap_an). 8 câu × 4 levels chia làm 4 sets.",
+
+  "meta": {
+    "title": "Sample BaiTap — Teineigo Deep Dive",
+    "title_vn": "Mẫu Bài tập — Lịch sự ngữ chuyên sâu",
+    "module_code": "<must_match_build_script_MODULE_DEFS_code>",
+    "total_questions": 8,
+    "focus": "Teineigo (丁寧語) — Lịch sự ngữ",
+    "description_vn": "Mẫu file JSON cho bài tập trắc nghiệm thuần — 4 levels."
+  },
+
+  "questions": [
+    {
+      "id": "q_baitap_001",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "grammar",
+      "level": "BJT-1",
+      "category": "Nhận biết Teineigo",
+      "question_jp": "丁寧語（Teineigo）の特徴として正しいものはどれですか？",
+      "question_vn": "Đặc điểm nào mô tả đúng Teineigo (Lịch sự ngữ)?",
+      "choices": [
+        {"id": "A", "text": "相手の行動を高める表現", "text_translation": "Biểu đạt nâng cao hành động của đối phương", "is_correct": false, "order": 0},
+        {"id": "B", "text": "自分の行動を低める表現", "text_translation": "Biểu đạt hạ thấp hành động của bản thân", "is_correct": false, "order": 1},
+        {"id": "C", "text": "誰の行動にも関係なく、文体を丁寧にする表現", "text_translation": "Biểu đạt làm câu văn lịch sự bất kể ai hành động", "is_correct": true, "order": 2},
+        {"id": "D", "text": "目上の人にだけ使う特別な表現", "text_translation": "Biểu đạt đặc biệt chỉ dùng với người bề trên", "is_correct": false, "order": 3}
+      ],
+      "explanation": "Teineigo là nền tảng giao tiếp lịch sự, không liên quan đến chủ ngữ.",
+      "tip": "~ます/~です ở cuối câu là dấu hiệu nhận biết!"
+    },
+    {
+      "id": "q_baitap_002",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "grammar",
+      "level": "BJT-1",
+      "category": "Chuyển dạng động từ",
+      "question_jp": "「食べる」の丁寧語は何ですか？",
+      "question_vn": "Dạng Teineigo của「食べる」là gì?",
+      "choices": [
+        {"id": "A", "text": "召し上がる", "text_translation": "Sonkeigo — không phải Teineigo", "is_correct": false, "order": 0},
+        {"id": "B", "text": "食べます", "text_translation": "Teineigo — đáp án đúng", "is_correct": true, "order": 1},
+        {"id": "C", "text": "いただく", "text_translation": "Kenjougo — không phải Teineigo", "is_correct": false, "order": 2},
+        {"id": "D", "text": "食べちゃう", "text_translation": "Suồng sã", "is_correct": false, "order": 3}
+      ],
+      "explanation": "Teineigo của 食べる là 食べます (chia ます-form).",
+      "tip": "V-stem + ます = Teineigo"
+    },
+    {
+      "id": "q_baitap_003",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "grammar",
+      "level": "BJT-2",
+      "category": "Email kinh doanh",
+      "question_jp": "ビジネスメールの冒頭で最も適切な表現はどれですか？",
+      "question_vn": "Cụm từ nào phù hợp nhất khi mở đầu email kinh doanh?",
+      "choices": [
+        {"id": "A", "text": "こんにちは", "text_translation": "Xin chào (quá thân mật)", "is_correct": false, "order": 0},
+        {"id": "B", "text": "やあ", "text_translation": "Chào (suồng sã)", "is_correct": false, "order": 1},
+        {"id": "C", "text": "いつもお世話になっております", "text_translation": "Cảm ơn quý vị đã luôn quan tâm", "is_correct": true, "order": 2},
+        {"id": "D", "text": "もしもし", "text_translation": "Alo (chỉ dùng điện thoại)", "is_correct": false, "order": 3}
+      ],
+      "explanation": "「いつもお世話になっております」là cụm mở đầu chuẩn cho email business.",
+      "tip": "Cụm gần như bắt buộc trong mọi email kinh doanh chính thức."
+    },
+    {
+      "id": "q_baitap_004",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "grammar",
+      "level": "BJT-2",
+      "category": "Điện thoại — Tiếp nhận",
+      "question_jp": "電話を取るときの一般的な表現は？",
+      "question_vn": "Cách nói thông dụng khi tiếp nhận điện thoại?",
+      "choices": [
+        {"id": "A", "text": "もしもし", "text_translation": "Alo (cá nhân)", "is_correct": false, "order": 0},
+        {"id": "B", "text": "はい、〇〇株式会社でございます", "text_translation": "Vâng, đây là công ty 〇〇", "is_correct": true, "order": 1},
+        {"id": "C", "text": "誰ですか", "text_translation": "Ai đó? (thô lỗ)", "is_correct": false, "order": 2},
+        {"id": "D", "text": "何ですか", "text_translation": "Gì vậy? (thô lỗ)", "is_correct": false, "order": 3}
+      ],
+      "explanation": "Tiếp nhận điện thoại business phải xưng tên công ty + でございます."
+    },
+    {
+      "id": "q_baitap_005",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "grammar",
+      "level": "BJT-3",
+      "category": "Kết hợp 3 loại kính ngữ",
+      "question_jp": "「お客様がご来店されました」の問題点は何ですか？",
+      "question_vn": "Vấn đề trong câu「お客様がご来店されました」là gì?",
+      "choices": [
+        {"id": "A", "text": "問題ない", "text_translation": "Không có vấn đề", "is_correct": false, "order": 0},
+        {"id": "B", "text": "二重敬語（ご〜される）になっている", "text_translation": "Kép kính ngữ (ご + される)", "is_correct": true, "order": 1},
+        {"id": "C", "text": "Teineigoが使われていない", "text_translation": "Không có Teineigo", "is_correct": false, "order": 2},
+        {"id": "D", "text": "主語が間違っている", "text_translation": "Sai chủ ngữ", "is_correct": false, "order": 3}
+      ],
+      "explanation": "「ご来店」đã là Sonkeigo, thêm「される」là kép kính ngữ.",
+      "tip": "Tránh kép kính ngữ — chỉ 1 lớp trên 1 động từ."
+    },
+    {
+      "id": "q_baitap_006",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "grammar",
+      "level": "BJT-3",
+      "category": "Xin lỗi lịch sự",
+      "question_jp": "顧客に商品の遅延を謝罪する最も適切な表現は？",
+      "question_vn": "Cách xin lỗi khách hàng về sự chậm trễ sản phẩm phù hợp nhất?",
+      "choices": [
+        {"id": "A", "text": "ごめんね", "text_translation": "Xin lỗi (suồng sã)", "is_correct": false, "order": 0},
+        {"id": "B", "text": "すみません", "text_translation": "Xin lỗi (lịch sự thường)", "is_correct": false, "order": 1},
+        {"id": "C", "text": "大変申し訳ございません", "text_translation": "Vô cùng xin lỗi (lịch sự cao)", "is_correct": true, "order": 2},
+        {"id": "D", "text": "悪いね", "text_translation": "Tệ nhỉ (suồng sã)", "is_correct": false, "order": 3}
+      ],
+      "explanation": "Trong tình huống business với khách hàng, dùng「大変申し訳ございません」.",
+      "tip": "申し訳ございません > 申し訳ありません > すみません > ごめん"
+    },
+    {
+      "id": "q_baitap_007",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "grammar",
+      "level": "BJT-4",
+      "category": "Phân tích lỗi — Uchi/Soto",
+      "question_jp": "顧客との会話で「弊社の田中部長がいらっしゃいます」の誤りは？",
+      "question_vn": "Lỗi trong câu nói với khách:「弊社の田中部長がいらっしゃいます」?",
+      "choices": [
+        {"id": "A", "text": "弊社が間違い", "text_translation": "弊社 sai", "is_correct": false, "order": 0},
+        {"id": "B", "text": "Uchiの人にSonkeigoを使っている", "text_translation": "Dùng Sonkeigo cho người Uchi (trong nhóm)", "is_correct": true, "order": 1},
+        {"id": "C", "text": "部長を呼び捨てにしている", "text_translation": "Gọi 部長 không có tôn trọng", "is_correct": false, "order": 2},
+        {"id": "D", "text": "問題ない", "text_translation": "Không có vấn đề", "is_correct": false, "order": 3}
+      ],
+      "explanation": "Khi nói với khách (Soto) về sếp mình (Uchi) — phải dùng Kenjougo. Đúng:「弊社の田中はおります」.",
+      "tip": "Khách = Soto → sếp mình = Uchi → DÙNG KENJOUGO"
+    },
+    {
+      "id": "q_baitap_008",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "grammar",
+      "level": "BJT-4",
+      "category": "3 lớp kính ngữ tổng hợp",
+      "question_jp": "「先生がご説明してくださった」の正しい修正は？",
+      "question_vn": "Sửa câu「先生がご説明してくださった」cho đúng?",
+      "choices": [
+        {"id": "A", "text": "先生がご説明くださった", "text_translation": "Loại bỏ「して」(thừa)", "is_correct": false, "order": 0},
+        {"id": "B", "text": "先生が説明してくださった", "text_translation": "Loại bỏ「ご」", "is_correct": false, "order": 1},
+        {"id": "C", "text": "先生がご説明された", "text_translation": "Đổi thành「された」", "is_correct": false, "order": 2},
+        {"id": "D", "text": "AとBどちらも正しい", "text_translation": "Cả A và B đều đúng", "is_correct": true, "order": 3}
+      ],
+      "explanation": "「ご説明してくださった」kép kính ngữ. 2 cách sửa hợp lệ: bỏ「して」hoặc bỏ「ご」.",
+      "tip": "Kép kính ngữ — chọn cách giữ nghĩa gốc tốt nhất."
+    }
+  ],
+
+  "question_sets": [
+    {
+      "set_id": "set_baitap_level1",
+      "set_type": "practice",
+      "name": "Sample BaiTap — Cơ bản",
+      "description": "Bài tập cấp 1 (Cơ bản) — 2 câu.",
+      "card_count": 2,
+      "module_position": 1,
+      "reading_passage_ref": null,
+      "question_ids": ["q_baitap_001", "q_baitap_002"]
+    },
+    {
+      "set_id": "set_baitap_level2",
+      "set_type": "practice",
+      "name": "Sample BaiTap — Sơ cấp kinh doanh",
+      "description": "Bài tập cấp 2 — 2 câu.",
+      "card_count": 2,
+      "module_position": 2,
+      "reading_passage_ref": null,
+      "question_ids": ["q_baitap_003", "q_baitap_004"]
+    },
+    {
+      "set_id": "set_baitap_level3",
+      "set_type": "practice",
+      "name": "Sample BaiTap — Trung cấp kinh doanh",
+      "description": "Bài tập cấp 3 — 2 câu.",
+      "card_count": 2,
+      "module_position": 3,
+      "reading_passage_ref": null,
+      "question_ids": ["q_baitap_005", "q_baitap_006"]
+    },
+    {
+      "set_id": "set_baitap_level4",
+      "set_type": "practice",
+      "name": "Sample BaiTap — Nâng cao kinh doanh",
+      "description": "Bài tập cấp 4 — 2 câu.",
+      "card_count": 2,
+      "module_position": 4,
+      "reading_passage_ref": null,
+      "question_ids": ["q_baitap_007", "q_baitap_008"]
+    }
+  ]
+}

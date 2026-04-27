@@ -1,0 +1,158 @@
+{
+  "rule_id": "rule_17",
+  "rule_slug": "健康・年齢",
+  "title": {
+    "vi": "Sức khỏe + tuổi",
+    "ja": "健康・年齢"
+  },
+  "rule_context": {
+    "ja": "ズンが3つの異なる健康talkに参加する週 — Sato先生(咳)、Nakamura(人間ドック)、Yamamoto(ジム)、リンの失敗例。",
+    "vi": "Tuần Dũng có 3 health talk khác nhau — Sato ho (gentle care), Nakamura kể 人間ドック, Yamamoto khoe gym, và Linh ví dụ hỏi sai."
+  },
+  "related_rules": ["rule_13", "rule_18", "rule_08"],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "Senior体調気遣い — Sato",
+      "label_vi": "Quan tâm sức khỏe senior",
+      "display_order": 1,
+      "context": {
+        "ja": "ZoomでSato先生(60代)が咳を3回。Zun cuối meeting hỏi nhẹ.",
+        "vi": "Zoom với Sato 60t, ho 3 lần. Dũng cuối meeting hỏi nhẹ."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_17_good_01", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "先生、本日もありがとうございました。お体、大丈夫ですか?最近お忙しそうで…", "sentence_translation": "Anh, hôm nay cảm ơn anh nhiều. Anh có ổn không ạ? Dạo này anh có vẻ bận...", "tone": "warm"},
+        {"line_id": "rule_17_good_02", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "ああ、ズンさんが心配してくれるとは。実は先週から喉の調子が悪くて、喉飴手放せん。", "sentence_translation": "À, Dũng quan tâm anh nhỉ. Thật ra tuần trước cổ họng anh không ổn, kẹo họng phải mang theo suốt.", "tone": "warm"},
+        {"line_id": "rule_17_good_03", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "乾燥の季節ですしね。加湿器は使われてますか?", "sentence_translation": "Mùa hanh khô nữa nhỉ. Anh có dùng máy tạo ẩm không ạ?", "tone": "warm"},
+        {"line_id": "rule_17_good_04", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "使ってる。年取ると粘膜が弱くなるとかで(笑)。マスクもしてるよ。", "sentence_translation": "Có dùng. Già rồi niêm mạc yếu (cười). Đeo cả khẩu trang.", "tone": "warm"},
+        {"line_id": "rule_17_good_05", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "ご自愛ください。生姜湯とか蜂蜜大根、ベトナムでも喉に効くって言われています。", "sentence_translation": "Anh giữ gìn sức khỏe ạ. Nước gừng với củ cải đường mật ong — Việt Nam cũng nói tốt cho cổ họng.", "tone": "warm"},
+        {"line_id": "rule_17_good_06", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "生姜湯!うちのかみさんもよく作ってくれる。蜂蜜大根は知らんかった、調べてみる。", "sentence_translation": "Nước gừng! Vợ anh cũng hay nấu. Củ cải đường mật ong anh chưa biết, để anh tìm hiểu.", "tone": "warm"},
+        {"line_id": "rule_17_good_07", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "お大事になさってください。", "sentence_translation": "Anh chóng khỏe nhé.", "tone": "warm"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "人間ドック共有 — Nakamura",
+      "label_vi": "Khám tổng thể — Nakamura",
+      "display_order": 2,
+      "context": {
+        "ja": "ディナー中、Nakamura CFOが先週の人間ドック結果を自分から共有。",
+        "vi": "Dinner, Nakamura CFO chủ động kể kết quả 人間ドック tuần trước."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_17_good_08", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "ズンさん、実は先週人間ドック受けてきてね。", "sentence_translation": "Dũng, thật ra tuần trước anh đi khám sức khỏe full.", "tone": "warm"},
+        {"line_id": "rule_17_good_09", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "人間ドックお疲れ様でした。結果はいかがでした?", "sentence_translation": "Anh vất vả rồi. Kết quả thế nào ạ?", "tone": "warm"},
+        {"line_id": "rule_17_good_10", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "メタボリック判定ギリギリで…ウエスト85センチ超えそう。血圧もちょっと高めって言われた。", "sentence_translation": "Sát mức metabolic syndrome... eo sắp quá 85cm. Huyết áp cũng hơi cao.", "tone": "warm"},
+        {"line_id": "rule_17_good_11", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "運動、最近されてますか?", "sentence_translation": "Anh dạo này có vận động không ạ?", "tone": "warm"},
+        {"line_id": "rule_17_good_12", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "ゴルフ月1じゃ足りないって言われた(笑)。1万歩目標でApple Watch買ったよ。", "sentence_translation": "Bác sĩ nói golf 1 tháng/lần không đủ (cười). Anh mua Apple Watch đặt mục tiêu 10,000 bước.", "tone": "cheerful"},
+        {"line_id": "rule_17_good_13", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "いいですね、Apple Watch!心拍数とか睡眠もモニタリングできて便利ですよね。", "sentence_translation": "Hay đó, Apple Watch! Đo cả nhịp tim với giấc ngủ tiện nhỉ.", "tone": "warm"},
+        {"line_id": "rule_17_good_14", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "睡眠スコア毎晩チェック(笑)。深い睡眠が少ないって出る。年だね。", "sentence_translation": "Tối nào cũng check điểm giấc ngủ (cười). Bảo deep sleep ít. Già rồi.", "tone": "warm"},
+        {"line_id": "rule_17_good_15", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "中村さん、まだまだ若いですよ。お酒は控えめに、お互い気をつけましょう。", "sentence_translation": "Anh Nakamura còn trẻ chán. Rượu uống ít thôi, mình cùng cẩn thận nhé.", "tone": "warm"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "Gym+diet — Yamamoto 38",
+      "label_vi": "Gym + diet — Yamamoto 38t",
+      "display_order": 3,
+      "context": {
+        "ja": "Slackで、Yamamotoがジム写真を共有しているところからの会話。",
+        "vi": "Từ ảnh gym Yamamoto share trên Slack."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_17_good_16", "speaker": "yamamoto_kansai", "speaker_role": "大阪BDマネージャー 白鷗", "gender": "female", "sentence": "最近パーソナルトレーニング始めてん。週2ペース。", "sentence_translation": "Dạo này em bắt đầu PT. Tuần 2 buổi.", "tone": "casual"},
+        {"line_id": "rule_17_good_17", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "お、ジムですか!痩せる目的ですか、それとも筋トレ?", "sentence_translation": "Ồ, gym à! Để giảm cân hay tập tạ ạ?", "tone": "casual"},
+        {"line_id": "rule_17_good_18", "speaker": "yamamoto_kansai", "speaker_role": "大阪BDマネージャー 白鷗", "gender": "female", "sentence": "両方やわ。Osakaはたこ焼ばっかりで(笑)、有酸素+ウェイトのセット。プロテインも毎日飲み始めた。", "sentence_translation": "Cả hai. Osaka toàn takoyaki (cười). Cardio + weight combo. Bắt đầu uống protein mỗi ngày.", "tone": "cheerful"},
+        {"line_id": "rule_17_good_19", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "プロテインの種類いっぱいあって迷いますよね。ホエイですか?", "sentence_translation": "Protein nhiều loại khó chọn nhỉ. Whey ạ?", "tone": "casual"},
+        {"line_id": "rule_17_good_20", "speaker": "yamamoto_kansai", "speaker_role": "大阪BDマネージャー 白鷗", "gender": "female", "sentence": "ホエイ、チョコレート味。あとHMBサプリもとってる。ベトナム人、痩せてる人多いよね、何してるの?", "sentence_translation": "Whey vị sô-cô-la. Còn uống HMB supplement. Người Việt đa số gầy nhỉ, ăn gì vậy?", "tone": "cheerful"},
+        {"line_id": "rule_17_good_21", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "ベトナム料理は野菜たっぷりで、外食でも野菜が多いです。最近私はランニングを再開しました。", "sentence_translation": "Đồ Việt nhiều rau, ăn ngoài cũng nhiều rau. Em vừa quay lại chạy bộ.", "tone": "casual"},
+        {"line_id": "rule_17_good_22", "speaker": "yamamoto_kansai", "speaker_role": "大阪BDマネージャー 白鷗", "gender": "female", "sentence": "ええなあ、走るの。膝痛くならへん?", "sentence_translation": "Hay đó, chạy. Đầu gối không đau à?", "tone": "casual"},
+        {"line_id": "rule_17_good_23", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "シューズを選べばいけます。次回大阪行ったら、ジム見学させてください。", "sentence_translation": "Chọn giày tốt là được. Lần sau em đến Osaka, cho em ghé tham quan gym với ạ.", "tone": "casual"}
+      ]
+    },
+    {
+      "section": "bad_example",
+      "label_ja": "リンの失敗 — 年齢を聞く",
+      "label_vi": "Linh hỏi tuổi — sai",
+      "display_order": 4,
+      "context": {
+        "ja": "リン(22歳intern)が初対面のYamamotoに年齢と既婚を聞く。Zunが救援。",
+        "vi": "Linh (intern 22t) gặp Yamamoto lần đầu, hỏi tuổi + hôn nhân. Dũng cứu nguy."
+      },
+      "analysis": {
+        "ja": "①女性に年齢を聞くのはタブー、②初対面で婚姻状況を聞くのはinvasion、③『肌綺麗=若い』の暗示も避けるべき。",
+        "vi": "① Hỏi tuổi nữ = tabu, ② mới gặp hỏi marital = invasion, ③ ngụ ý 'da đẹp = trẻ' cũng nên tránh."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_17_bad_01", "speaker": "linh", "speaker_role": "Marketing intern ティエンファット", "gender": "female", "sentence": "山本マネージャー、おいくつですか?お肌すごく綺麗で…", "sentence_translation": "[NG] Chị Yamamoto, chị bao tuổi ạ? Da chị đẹp quá...", "tone": "casual"},
+        {"line_id": "rule_17_bad_02", "speaker": "yamamoto_kansai", "speaker_role": "大阪BDマネージャー 白鷗", "gender": "female", "sentence": "あ、まあ、内緒(笑)。年齢の話はちょっとね…", "sentence_translation": "À, ờ, bí mật (cười). Chuyện tuổi thì hơi...", "tone": "uncertain"},
+        {"line_id": "rule_17_bad_03", "speaker": "linh", "speaker_role": "Marketing intern ティエンファット", "gender": "female", "sentence": "あ、すみません。結婚はされてるんですか?", "sentence_translation": "[NG] À xin lỗi. Chị có chồng chưa ạ?", "tone": "casual"},
+        {"line_id": "rule_17_bad_04", "speaker": "yamamoto_kansai", "speaker_role": "大阪BDマネージャー 白鷗", "gender": "female", "sentence": "リンちゃん、個人的なことは仕事の関係性ができてからね。", "sentence_translation": "Linh à, chuyện cá nhân để khi quan hệ công việc ổn rồi nhé.", "tone": "firm"},
+        {"line_id": "rule_17_bad_05", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "山本さん、すみません、リンが…大阪のおすすめカフェ、教えてもらえますか?", "sentence_translation": "Chị Yamamoto, xin lỗi, Linh... Chị có quán cà phê Osaka gợi ý không ạ?", "tone": "apologetic"},
+        {"line_id": "rule_17_bad_06", "speaker": "yamamoto_kansai", "speaker_role": "大阪BDマネージャー 白鷗", "gender": "female", "sentence": "あ、それなら…", "sentence_translation": "À, vậy thì...", "tone": "warm"}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"phrase_id": "rule_17_kp_01", "speaker": "zun", "sentence": "お体お気をつけてください。", "sentence_translation": "Anh giữ gìn sức khỏe ạ.", "purpose": "Quan tâm chung — luôn an toàn"},
+    {"phrase_id": "rule_17_kp_02", "speaker": "zun", "sentence": "ご自愛ください。", "sentence_translation": "Anh tự chăm sóc ạ.", "purpose": "Đóng formal cuộc gặp / email"},
+    {"phrase_id": "rule_17_kp_03", "speaker": "zun", "sentence": "お大事になさってください。", "sentence_translation": "Anh chóng khỏe.", "purpose": "Khi khách bị bệnh"},
+    {"phrase_id": "rule_17_kp_04", "speaker": "zun", "sentence": "人間ドックお疲れ様でした。結果はいかがでした?", "sentence_translation": "Anh vất vả với khám sức khỏe. Kết quả thế nào ạ?", "purpose": "Khi senior tự kể 人間ドック"},
+    {"phrase_id": "rule_17_kp_05", "speaker": "zun", "sentence": "最近、運動はされてますか?", "sentence_translation": "Dạo này anh có vận động không ạ?", "purpose": "Mở topic vận động trung tính"},
+    {"phrase_id": "rule_17_kp_06", "speaker": "zun", "sentence": "お互い、気をつけましょう。", "sentence_translation": "Mình cùng cẩn thận nhé.", "purpose": "Đóng topic sức khỏe — cùng nhau"}
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_17_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "女性のお客様に対して、最も避けるべき質問は?",
+      "options": [
+        "A. ご趣味は?",
+        "B. ご出身は?",
+        "C. おいくつですか?",
+        "D. お仕事は楽しいですか?"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "女性に年齢を聞くのは関係性に関わらず厳禁。",
+        "vi": "Hỏi tuổi nữ = tabu hàng đầu bất kể quan hệ."
+      }
+    },
+    {
+      "question_id": "rule_17_bjt_02",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「ご自愛ください」と「お大事に」の使い分けで正しいのは?",
+      "options": [
+        "A. 同じ意味",
+        "B. ご自愛=普段、お大事に=病気の時",
+        "C. お大事に=普段、ご自愛=病気の時",
+        "D. 性別で使い分ける"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "ご自愛=普段の挨拶(formalな閉じ方)、お大事に=具体的に体調を崩している時。",
+        "vi": "ご自愛 = chào formal đóng. お大事に = khi khách rõ ràng đang bị bệnh."
+      }
+    },
+    {
+      "question_id": "rule_17_bjt_03",
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "お客様(50代男性)が「人間ドックでメタボ判定ギリギリだった」と言った場合、最適な反応は?",
+      "options": [
+        "A. 「太りましたか?」と直接聞く",
+        "B. 「運動、最近されてますか?」と中立的に展開",
+        "C. 「ダイエットした方がいいですよ」とアドバイス",
+        "D. 話題を変える"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "Aは失礼、Cは説教ぽい、Dは関心がないように見える。Bが最適 — 中立的に運動topicに展開。",
+        "vi": "A bất lịch sự, C kiểu giảng đạo, D như không quan tâm. B chuẩn — mở topic vận động trung tính."
+      }
+    }
+  ],
+  "templates": []
+}

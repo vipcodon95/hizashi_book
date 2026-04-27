@@ -1,0 +1,327 @@
+{
+  "rule_id": "08-41",
+  "rule_slug": "観光",
+  "title": {
+    "vi": "Cảnh đẹp + nightlife",
+    "ja": "観光・夜の楽しみ"
+  },
+  "rule_context": {
+    "luan_diem_vi": "JP có cuối tuần / ngày dư = cơ hội flex local theo audience. Senior 60t = Hạ Long/Sapa/Hội An. Junior = Phú Quốc/nightlife. Sai audience = phá trải nghiệm.",
+    "luan_diem_ja": "客の世代と興味でおすすめ先を変える。シニア=ハロン湾・サパ、若手=フーコック・ナイトライフ。ミスマッチは禁物。",
+    "boi_canh_vi": "Tháng 12/2026, dinner Tokyo. Matsumoto couple 5 ngày VN, Tanaka+Hai junior trip 4 ngày 'muốn Tạ Hiện', Sato senior natural lover.",
+    "boi_canh_ja": "2026年12月、東京会食。松本夫婦5日VN、田中・ハイ若手4日(タヒエン希望)、佐藤シニア自然派。",
+    "muc_tieu_vi": "Học cách match cảnh đẹp + nightlife theo audience JP, kèm warning khi cần."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "38",
+      "topic": "Thành phố VN"
+    },
+    {
+      "book": "08",
+      "rule": "44",
+      "topic": "Karaoke"
+    },
+    {
+      "book": "08",
+      "rule": "47",
+      "topic": "Topic Gold"
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "Hạ Long + Sapa cho senior couple",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "ハノイから日帰りで行ける綺麗なとこ、ある?",
+          "vi": "Có chỗ đẹp đi trong ngày từ HN không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "松本さんご夫婦でしたら、ハロン湾とサパ、両方おすすめです。性格が違って、ハロン湾は『海の桂林』、サパは『山岳少数民族の里』です。",
+          "vi": "Anh chị Matsumoto thì Hạ Long và Sapa, cả hai ạ. Tính cách khác — Hạ Long là 'Quế Lâm trên biển', Sapa là 'làng dân tộc thiểu số miền núi'."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "両方行けるかな?",
+          "vi": "Đi được cả hai không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "5日のうち、ハロン湾は1泊2日(船上泊)、サパは1泊2日(夜行寝台列車)で組めば両方OK。1月は霧で水墨画みたいな雰囲気で、ハロン湾の冬限定の美しさです。",
+          "vi": "5 ngày — Hạ Long 1 đêm trên tàu, Sapa 1 đêm trên tàu giường nằm đêm, ghép đủ. Tháng 1 sương như tranh thủy mặc, đẹp riêng mùa đông."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "船上泊!?",
+          "vi": "Ngủ trên tàu á?!"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ジャンク船(クルーズ船)で1泊、夜は星空、朝霧の中で日の出を見る贅沢体験です。Bhaya Cruises か Indochina Sailsが信頼できます。1人150-200ドルで食事+ガイド+部屋込み。",
+          "vi": "Tàu junk cruise 1 đêm — sao đêm, bình minh trong sương sớm. Bhaya Cruises hoặc Indochina Sails uy tín. 150-200 USD/người, gồm ăn + hướng dẫn + phòng."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "奥さんが絶対喜ぶやつだ。",
+          "vi": "Vợ anh chắc chắn sẽ thích."
+        },
+        {
+          "speaker": "zun",
+          "ja": "サパはBac Ha Marketの日曜マーケットでモン族の伝統衣装が見られます。冬は1度くらいまで下がるので防寒必須、フランス植民地時代のサパ駅前のホテル(Hotel de la Coupole)が雰囲気抜群です。",
+          "vi": "Sapa thì chợ Bắc Hà chủ nhật xem trang phục Mông. Mùa đông xuống 1°C, phải mặc ấm. Hotel de la Coupole trước ga Sapa thời Pháp, không khí cực."
+        }
+      ]
+    },
+    {
+      "scenario": "Phú Quốc + bridge với Gifu",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "kato_gifu",
+          "ja": "ベトナムでビーチって、ダナン以外ある?",
+          "vi": "VN có biển nào ngoài Đà Nẵng không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "フーコック島、ベトナム最南端のリゾート島で、白砂+透明な海+ヤシの木+静か、バリ島の3分の1の値段って評判です。",
+          "vi": "Đảo Phú Quốc, đảo nghỉ dưỡng cực Nam VN — cát trắng, nước trong, dừa, yên tĩnh. Đánh giá 'rẻ bằng 1/3 Bali'."
+        },
+        {
+          "speaker": "kato_gifu",
+          "ja": "沖縄に行く感覚?",
+          "vi": "Cảm giác đi Okinawa?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "沖縄プラスワイルド感、です。JW Marriott、Premier Village、InterContinentalがリゾート級。南部のサオビーチ(Sao Beach)が一番美しい砂浜で、夕日が水平線に沈む方角で、夕方一杯飲むのが至福です。",
+          "vi": "Okinawa cộng thêm 'wild'. JW Marriott, Premier Village, InterContinental level resort. Bãi Sao phía Nam đẹp nhất, hướng mặt trời lặn, chiều uống một ly là hạnh phúc."
+        },
+        {
+          "speaker": "kato_gifu",
+          "ja": "いいね…岐阜の山育ちなんで、海憧れあるんよ(笑)",
+          "vi": "Hay... anh sinh ra ở núi Gifu nên thèm biển (cười)"
+        },
+        {
+          "speaker": "zun",
+          "ja": "岐阜だと海が遠いんですよね!フーコックは胡椒栽培でも有名で、胡椒農園を訪ねるツアーもあります。生胡椒を齧ると意外な味で、加藤さんでしたら朴葉味噌のおつまみに合いそう(笑)",
+          "vi": "Gifu xa biển nhỉ! Phú Quốc còn nổi tiếng tiêu, có tour vườn tiêu. Cắn tiêu tươi vị bất ngờ, anh Kato chắc hợp với hou-ba miso làm mồi nhậu (cười)"
+        },
+        {
+          "speaker": "kato_gifu",
+          "ja": "胡椒農園!それは初めて聞いた、面白い。",
+          "vi": "Vườn tiêu! Lần đầu nghe, thú vị."
+        }
+      ]
+    },
+    {
+      "scenario": "Tạ Hiện / Bùi Viện cho junior + warning",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "タヒエン通り、ベトナムのナイトライフの聖地って聞いたんだけど、行ってみたい。",
+          "vi": "Tạ Hiện, nghe nói thánh địa nightlife VN, em muốn đi."
+        },
+        {
+          "speaker": "zun",
+          "ja": "タヒエンですね、行けます。3つ事前に共有させてください。①音量爆音(クラブ並み)、②ぼったくりバー注意、③スリ注意。",
+          "vi": "Tạ Hiện được ạ. 3 điều em cần share trước. ① Âm lượng cực to (như club), ② cẩn thận bar chặt chém, ③ cẩn thận móc túi."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "クラブ並み?",
+          "vi": "Như club á?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "通り全体がオープンな野外クラブみたいな感じで、夜10時以降は会話ほぼ不可能です。ロカルバー『Ta Hien Beer Corner』が定番、ビール1万ドン(約50円)。",
+          "vi": "Cả phố như outdoor club mở, sau 22h không thể nói chuyện. Bar local 'Tạ Hiện Beer Corner' là chuẩn, bia 10k đồng (~50 yen)."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "50円!?",
+          "vi": "50 yen?!"
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、ビアホイ(Bia hơi)って地ビール屋外バー文化で、プラスチック椅子+生樽ビール。但し外国人価格に上がりやすいので、メニュー写真撮るのが安全。",
+          "vi": "Vâng, văn hóa 'bia hơi' — bia tươi vỉa hè, ghế nhựa. Nhưng giá ngoại quốc dễ bị lên, chụp menu là an toàn."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "写真撮るね。スリは?",
+          "vi": "Em sẽ chụp. Móc túi?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "バックパック前持ち+iPhone内ポケット。現金は1日分だけで、カード持参しないのが鉄則。Grab呼んで戻る時は正規Grabかドライバー名確認を。",
+          "vi": "Balo đeo trước + iPhone túi trong. Tiền mặt chỉ 1 ngày, không mang thẻ — quy tắc vàng. Gọi Grab về phải check Grab chính + tên tài xế."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "全部メモ。サイゴンの方は?",
+          "vi": "Em ghi hết. Saigon thì sao?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ホーチミンはBui Vien Walking Street、こちらも同様の警戒で。もう少し落ち着いて飲みたいなら『Pasteur Street Brewing』のクラフトビール、屋上バーは『Glow Skybar』『Chill Skybar』が安全で景色◎。",
+          "vi": "HCM thì phố đi bộ Bùi Viện, cảnh báo tương tự. Muốn yên hơn thì craft beer 'Pasteur Street Brewing'. Rooftop thì 'Glow Skybar' / 'Chill Skybar' an toàn + view đẹp."
+        }
+      ]
+    },
+    {
+      "scenario": "Mai Châu cho Sato senior natural",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "sato_kyushu",
+          "ja": "ホイアンの後、もう1日あったら何したい?九州の人間として、自然好きなんやけど。",
+          "vi": "Sau Hội An có thêm 1 ngày tôi muốn gì? Người Kyushu nên tôi thích thiên nhiên."
+        },
+        {
+          "speaker": "zun",
+          "ja": "先生でしたらサパ、またはマイチャウ(Mai Châu)渓谷がおすすめ。",
+          "vi": "Anh thì Sapa hoặc thung lũng Mai Châu là hợp ạ."
+        },
+        {
+          "speaker": "sato_kyushu",
+          "ja": "マイチャウってあんまり聞かんね。",
+          "vi": "Mai Châu ít nghe nhỉ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "サパは観光地化されてますが、マイチャウは静かな白タイ族の村で、棚田・水牛・伝統高床式家屋が残ってます。九州の阿蘇カルデラではないけれど、山あいの集落の素朴さは近いです。",
+          "vi": "Sapa du lịch hóa rồi, còn Mai Châu yên tĩnh — làng người Thái trắng, ruộng bậc thang, trâu, nhà sàn truyền thống. Không giống Aso caldera Kyushu nhưng sự mộc mạc làng núi gần."
+        },
+        {
+          "speaker": "sato_kyushu",
+          "ja": "阿蘇に近いか…ええなあ。",
+          "vi": "Gần Aso à... hay nhỉ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ハノイから車3.5時間、ホームステイで1泊できます。夕食は地元の竹筒ご飯+水牛肉+米焼酎、夜は焚き火を囲んで歌と踊り(白タイ族のSạp dance)。",
+          "vi": "Từ HN xe 3.5h, ngủ homestay 1 đêm. Tối có cơm lam, thịt trâu, rượu gạo. Đêm quây lửa trại múa hát (múa Sạp người Thái trắng)."
+        },
+        {
+          "speaker": "sato_kyushu",
+          "ja": "焚き火と歌か…粋やね、九州の山里宿みたいやな。",
+          "vi": "Lửa trại với hát... chất nhỉ, giống nhà trọ vùng núi Kyushu."
+        },
+        {
+          "speaker": "zun",
+          "ja": "観光客少なめなので、事前にメッセンジャーでホームステイ予約必要です。Mai Chau EcolodgeかPom Coong村でホストファミリー、英語OKです。",
+          "vi": "Ít khách du lịch nên cần đặt homestay qua Messenger trước. Mai Chau Ecolodge hoặc bản Pom Coong, host family — tiếng Anh OK."
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "Hạ Long",
+      "ja": "ハロン湾は『海の桂林』、サパは『山岳少数民族の里』です。",
+      "vi": "Hạ Long 'Quế Lâm trên biển', Sapa 'làng dân tộc miền núi'.",
+      "use": "1-line pitch"
+    },
+    {
+      "category": "Hạ Long",
+      "ja": "1月は霧で水墨画みたいで、冬限定の美しさです。",
+      "vi": "Tháng 1 sương như tranh thủy mặc.",
+      "use": "Romantic visual"
+    },
+    {
+      "category": "Hạ Long",
+      "ja": "Bhaya Cruises か Indochina Sailsが信頼できます。",
+      "vi": "Bhaya Cruises hoặc Indochina Sails uy tín.",
+      "use": "Brand cụ thể"
+    },
+    {
+      "category": "Phú Quốc",
+      "ja": "フーコックは沖縄プラスワイルド感、バリの3分の1の値段。",
+      "vi": "Phú Quốc = Okinawa + 'wild', 1/3 giá Bali.",
+      "use": "Bridge"
+    },
+    {
+      "category": "Phú Quốc",
+      "ja": "サオビーチは夕日が水平線に沈む方角で、夕方一杯が至福。",
+      "vi": "Bãi Sao hướng mặt trời lặn, chiều một ly hạnh phúc.",
+      "use": "Visual romantic"
+    },
+    {
+      "category": "Tạ Hiện",
+      "ja": "3つ事前に共有させてください:①音量爆音、②ぼったくりバー、③スリ注意。",
+      "vi": "3 điều cần share trước: âm thanh / chặt chém / móc túi.",
+      "use": "Warning standard"
+    },
+    {
+      "category": "Tạ Hiện",
+      "ja": "現金は1日分だけ、カード持参しないのが鉄則。",
+      "vi": "Tiền mặt 1 ngày, không thẻ — quy tắc vàng.",
+      "use": "Practical safety"
+    },
+    {
+      "category": "Bùi Viện",
+      "ja": "Pasteur Street Brewing、Glow Skybar、Chill Skybarは安全で景色◎。",
+      "vi": "Pasteur, Glow, Chill — an toàn + view đẹp.",
+      "use": "Alternative an toàn"
+    },
+    {
+      "category": "Mai Châu",
+      "ja": "白タイ族の村、棚田・水牛・高床式家屋が残ってます。",
+      "vi": "Làng Thái trắng, ruộng bậc thang, trâu, nhà sàn.",
+      "use": "Natural senior"
+    },
+    {
+      "category": "Mai Châu",
+      "ja": "夜は焚き火を囲んで歌と踊り、白タイ族のSạp dance。",
+      "vi": "Đêm lửa trại + múa Sạp người Thái trắng.",
+      "use": "Experiential"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "60代senior夫婦に5日のVN旅行を提案する時、最も適切な構成は?",
+      "options": [
+        "A. ハノイ + タヒエン3晩",
+        "B. ハロン湾(船上泊)+ サパ夜行寝台 + ハノイ旧市街",
+        "C. フーコック + ブイビエン",
+        "D. ホームステイ4泊"
+      ],
+      "answer": "B",
+      "explain_vi": "Senior couple = scenic + experiential + comfort. A nightlife sai audience; C beach + nightlife trẻ; D quá rural cho người không quen."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "若手客が『タヒエン行きたい』と言った時、最も適切な対応は?",
+      "options": [
+        "A. 「危ないから絶対やめて」と止める",
+        "B. 「行けます」と即提案、3つの注意点(音量・ぼったくり・スリ)を事前共有",
+        "C. 黙って案内せず違う場所へ",
+        "D. 自分の悪い体験を長く話す"
+      ],
+      "answer": "B",
+      "explain_vi": "Recommend + warning trước = pro host. A cấm đoán; C phá trải nghiệm; D self-talk."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "「九州の人間として、自然好きなんやけど」と言ったSatoさんに最適な提案+ブリッジは?",
+      "options": [
+        "A. 「ベトナムは都市が綺麗です」と都会観光を提案",
+        "B. 「マイチャウは九州の阿蘇カルデラに近い素朴さ」とブリッジ付きで提案",
+        "C. 「VNの自然はあまり…」と否定する",
+        "D. ナイトライフの話に切り替える"
+      ],
+      "answer": "B",
+      "explain_vi": "Catch 自然好き + 九州 → bridge với 阿蘇 quê khách = +Insider. A miss; C negative; D phá topic."
+    }
+  ],
+  "templates": []
+}

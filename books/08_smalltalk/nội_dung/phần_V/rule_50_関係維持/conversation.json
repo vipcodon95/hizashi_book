@@ -1,0 +1,106 @@
+{
+  "rule_id": "08-50",
+  "rule_slug": "関係維持",
+  "title": {
+    "vi": "Memory bank — duy trì lâu dài",
+    "ja": "関係維持の記憶バンク"
+  },
+  "rule_context": {
+    "luan_diem_vi": "30 phút ghi memory bank sau gặp + 3 phút review trước gặp = đầu tư đắt nhất ROI cao nhất với khách JP. Senior cảm thấy 'anh ấy nhớ tôi' = moat AI không thay thế.",
+    "luan_diem_ja": "毎ミーティング後30分の記録+前3分のreview。シニアに『覚えていてくれた』と感じさせるのが、AIに代替されない競争優位。",
+    "boi_canh_vi": "Tham khảo. 1 scenario apply CRM trước họp + 1 routine ghi sau dinner + 2 templates đầy đủ.",
+    "boi_canh_ja": "参考。1.会議前CRM活用、2.会食後記録ルーチン、テンプレ2種。",
+    "muc_tieu_vi": "Build memory bank discipline + 2 templates ready-to-use."
+  },
+  "related_rules": [
+    {"book": "08", "rule": "33", "topic": "Memory bank regional"},
+    {"book": "08", "rule": "49", "topic": "雑談ネタ収集"},
+    {"book": "08", "rule": "51", "topic": "Self-review"}
+  ],
+  "conversations": [
+    {
+      "scenario": "Apply memory bank — 3 phút review trước họp",
+      "type": "good",
+      "lines": [
+        {"speaker": "oogaki_sales", "ja": "ズン、おはよう。", "vi": "Dũng, chào em."},
+        {"speaker": "zun", "ja": "大垣さん、おはようございます。お嬢様、もう大学受験迫ってきましたね、調子いかがですか?", "vi": "Anh Ōgaki, chào anh. Cháu sắp đến kỳ thi đại học rồi nhỉ, cháu ổn không ạ?"},
+        {"speaker": "oogaki_sales", "ja": "えっ、よく覚えてるなあ!来月共通テストやけど、最近スランプ気味でな…", "vi": "Ơ, em nhớ giỏi vậy! Tháng sau thi chung rồi, gần đây cháu hơi slump..."},
+        {"speaker": "zun", "ja": "3か月前で大変な時期ですよね。ご家族でサポート、大変ですね。", "vi": "3 tháng trước thi là giai đoạn căng. Cả nhà support cũng vất vả nhỉ."},
+        {"speaker": "oogaki_sales", "ja": "妻が一番気合い入っとるわ(笑)。じゃ、今日のキックオフ、よろしく。", "vi": "Vợ anh dồn vào nhất (cười). Thôi, kickoff hôm nay nhờ em."}
+      ]
+    },
+    {
+      "scenario": "Senior hé lộ chi tiết — Dũng reference đúng fact 6 tháng trước",
+      "type": "good",
+      "lines": [
+        {"speaker": "matsumoto", "ja": "ズン、最近どう?", "vi": "Dũng, gần đây sao?"},
+        {"speaker": "zun", "ja": "順調です。あ、松本さん、半年前におっしゃってた『月島のもんじゃ案内する』って件、まだ機会ありますか?(笑)", "vi": "Em ổn ạ. À, anh Matsumoto, nửa năm trước anh nói 'sẽ dẫn em đi monjayaki Tsukishima', còn cơ hội không ạ? (cười)"},
+        {"speaker": "matsumoto", "ja": "えっ、覚えてるの!?もちろん!来月東京来る時、行こうよ。", "vi": "Ơ, em nhớ luôn à? Đương nhiên! Tháng sau em đến Tokyo, mình đi."},
+        {"speaker": "zun", "ja": "ありがとうございます、楽しみにしてます。", "vi": "Cảm ơn anh, em mong lắm."}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"category": "Reference", "ja": "以前[Tên]さんがおっしゃってた[chi tiết]、その後どうなりましたか?", "vi": "Hôm trước anh có nói [chi tiết], sau đó thế nào ạ?", "use": "Pattern vàng"},
+    {"category": "Reference", "ja": "お嬢様、もう[grade level]ですね、[topic]の調子いかがですか?", "vi": "Cháu lên [lớp] rồi nhỉ, [topic] sao ạ?", "use": "Family memory"},
+    {"category": "Reference", "ja": "[地名]の[hobby/team]、[最近のニュース]の件、見られました?", "vi": "[Đội/team quê khách] có [tin gần đây], anh xem chưa?", "use": "Sport reference"},
+    {"category": "Half-year", "ja": "半年前におっしゃってた[promise/topic]、その後…?", "vi": "Nửa năm trước anh nói [...], sau đó...?", "use": "Long-memory reference"},
+    {"category": "Family", "ja": "御家族の皆様、お元気ですか?", "vi": "Cả gia đình anh chị khỏe không ạ?", "use": "Care chung gia đình"},
+    {"category": "Stay context", "ja": "あの時[topic]の話、印象に残ってます。", "vi": "Lần đó chuyện [topic] em nhớ mãi.", "use": "Show appreciation"}
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "会議前3分の最適なルーチンは?",
+      "options": [
+        "A. メールチェックのみ",
+        "B. CRM/メモを開いて、相手の家族・趣味・最近の話題3点を頭に入れる",
+        "C. 何もしない",
+        "D. 自分の会社の業績を確認"
+      ],
+      "answer": "B",
+      "explain_vi": "3 min CRM review = top investment. A miss; C miss; D miss audience prep."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "memory bankを活用する時のNG行為は?",
+      "options": [
+        "A. 1-2 chi tiết具体的にreferenceする",
+        "B. 5-6個まとめて一気にreferenceする(過剰)",
+        "C. 家族の名前をfact違いで述べる",
+        "D. プライベートすぎる質問をする"
+      ],
+      "answer": "B",
+      "explain_vi": "Trick câu: 全 NG nhưng B (overdo) ít rõ nhất. Pattern dùng 1-2 fact = vừa đủ. (B/C/D đều NG, chọn B vì rõ là 'over-use')"
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "半年前のお客様の発言を正確にreferenceできた時の効果は?",
+      "options": [
+        "A. 相手は気にしない",
+        "B. 相手は『覚えてくれていた』と感動し、関係が深まる",
+        "C. 相手は不審に思う",
+        "D. 効果はない"
+      ],
+      "answer": "B",
+      "explain_vi": "Long memory + accurate = senior cảm nhận sâu sắc. Đây là moat #1."
+    }
+  ],
+  "templates": [
+    {
+      "template_name": "Memory Bank — Entry per khách",
+      "format": "markdown",
+      "description": "Sau mỗi cuộc gặp / dinner. 5-7 facts mới + tagged với date.",
+      "content": "# 👤 [Tên khách] — [社名]\n\n## 🏷 Tags\n- 性別 / 年齢層: \n- 出身: [Prefecture] / [区/市]\n- 役職: \n- 入社年: (nếu biết)\n\n## 🍱 食 — Preferences\n- 好き: \n- 苦手: (vd: 生牡蠣)\n- アレルギー: \n- お気に入り酒: (vd: 獺祭, 麦焼酎)\n\n## ⚽ Sport / Hobby\n- 応援チーム: (vd: 阪神タイガース)\n- 趣味: (vd: ゴルフ、登山)\n- ホームコース / 山域: \n\n## 👨‍👩‍👧‍👦 Family\n- 配偶者: \n- お子さん: (年齢 / 学年)\n- お孫さん: \n- 親の状況: (健在 / 介護中 — sensitive)\n\n## 🎂 Important Dates\n- 誕生日: (NG hỏi nhưng nếu họ kể, ghi)\n- 入社記念日: \n- お子さん受験年: \n\n## 💬 過去の会話 — Conversation Log\n- YYYY-MM-DD [場所]: [topic + chi tiết quan trọng]\n  - 例: 2026-03-15 銀座ベルトラム: お嬢様の共通テスト来年1月、最近スランプ気味と心配。長女は東京の大学希望。\n  - 例: 2026-04-10 Zoom: 桂米朝の落語ファン、特に『地獄八景』が好き。\n\n## ⚠ NG/Sensitive\n- 触れない話題: (vd: 元配偶者、亡くなった親、特定の歴史トピック)\n- 過去の地雷: (mình lỡ chạm gì, ghi để không lặp)\n\n## 🎯 Next Action\n- [ ] [約束したこと、リンク送る、本紹介する etc]\n- [ ] 次回会う時referenceする話題:\n\n## 📅 Last Updated: YYYY-MM-DD"
+    },
+    {
+      "template_name": "Pre-meeting Review Checklist — 3 phút",
+      "format": "markdown",
+      "description": "Trước mỗi họp / call / dinner. 3 phút review CRM.",
+      "content": "# 🔍 Pre-meeting 3-min review — [Khách] — [Date]\n\n## ⏱ 0:00-1:00 — Identity refresh\n- [ ] Tên đầy đủ + 役職: \n- [ ] 出身: \n- [ ] 入社/関係history với 弊社:\n\n## ⏱ 1:00-2:00 — Last conversation review\n- [ ] 前回いつ・どこで会った? \n- [ ] 前回 các topic 雑談 đã nói:\n- [ ] 前回 自分が約束したこと → 履行状況:\n  - [ ] (tick nếu đã làm — nếu chưa, làm trước cuộc gặp này)\n\n## ⏱ 2:00-3:00 — Topics for today\n- [ ] 今日 mở topic gì để start ấm áp?\n  - 例: 「お嬢様の受験、いかがですか?」\n  - 例: 「広島カープのドラフト、見られました?」\n- [ ] Mention được 1 fact mới (NHK / 47News / Tabelog) liên quan quê khách?\n- [ ] 避けるべき topic 今日:\n\n## ✅ READY — go in\n\n---\n\n💡 **Note:** Đầu tiên thử 1 tuần — sau 30 ngày sẽ thấy senior có cảm nhận khác hẳn về mình."
+    }
+  ]
+}

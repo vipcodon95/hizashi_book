@@ -1,0 +1,115 @@
+{
+  "rule_id": "rule_18",
+  "rule_slug": "伝言メモの5要素",
+  "title": {
+    "ja": "伝言メモの5要素",
+    "vi": "5 yếu tố bắt buộc khi take message"
+  },
+  "rule_context": {
+    "ja": "松本PMがトゥアン宛の伝言を残す。ズンが必須5要素（誰・会社・番号・用件・時刻）を確実にメモして復唱で確認する場面。",
+    "vi": "Anh Matsumoto để lại lời nhắn cho anh Tuấn. Em Dũng ghi đủ 5 yếu tố (ai/cty/số/nội dung/giờ) và lặp lại xác nhận."
+  },
+  "related_rules": [
+    "rule_14",
+    "rule_16",
+    "rule_31"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "用件→復唱→番号確認→責任宣言の順で5要素全てカバー。「責任を持って」が信頼の決め手。",
+        "vi": "Trình tự: nội dung → lặp lại → xác nhận số → tuyên bố trách nhiệm — đủ 5 yếu tố. 「責任を持って」 là điểm quyết định lòng tin."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_18_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "明日の打ち合わせの時間を14時から15時に変更したい旨、お伝えください。",
+          "sentence_translation": "Cuộc họp ngày mai, nhờ em nhắn lại là tôi muốn đổi từ 14h sang 15h ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_18_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "承知いたしました。念のため復唱させていただきます。明日の打ち合わせのお時間を14時から15時へ変更とのこと、トゥアンに申し伝えます。",
+          "sentence_translation": "Em đã rõ ạ. Em xin phép lặp lại để chắc chắn: cuộc họp ngày mai đổi từ 14h sang 15h, em sẽ chuyển lời cho anh Tuấn ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_18_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お電話番号は090-1234-5678でよろしいでしょうか？",
+          "sentence_translation": "Số điện thoại của anh là 090-1234-5678 đúng không ạ?",
+          "tone": "formal",
+          "speed_multiplier": 0.85
+        },
+        {
+          "line_id": "rule_18_good_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "はい、その通りです。",
+          "sentence_translation": "Đúng vậy ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_18_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本日10時のお電話として、責任を持って申し伝えます。",
+          "sentence_translation": "Em xin chịu trách nhiệm chuyển lời, ghi nhận cuộc gọi lúc 10h hôm nay ạ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_18_kp_01",
+      "speaker": "zun",
+      "sentence": "念のため復唱させていただきます。",
+      "sentence_translation": "Em xin phép lặp lại để chắc chắn ạ.",
+      "purpose": "復唱開始フレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_18_kp_02",
+      "speaker": "zun",
+      "sentence": "責任を持って申し伝えます。",
+      "sentence_translation": "Em xin chịu trách nhiệm chuyển lời ạ.",
+      "purpose": "伝言締めくくり・信頼形成",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_18_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "伝言メモに必須でない要素はどれか？",
+      "options": [
+        "相手の名前",
+        "会社名",
+        "発信時刻",
+        "相手の年齢"
+      ],
+      "correct": "D",
+      "explanation": {
+        "ja": "伝言の5要素は誰・会社・番号・用件・時刻。年齢は不要。",
+        "vi": "5 yếu tố bắt buộc là tên/cty/số/nội dung/giờ. Tuổi không cần thiết."
+      }
+    }
+  ]
+}

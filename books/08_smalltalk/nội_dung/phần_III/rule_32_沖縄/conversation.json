@@ -1,0 +1,500 @@
+{
+  "rule_id": "08-32",
+  "rule_slug": "沖縄",
+  "title": {
+    "vi": "Okinawa — văn hóa khác, 沖縄時間, ハイサイ",
+    "ja": "沖縄"
+  },
+  "regional_focus": "Okinawa — Naha + Shuri + 美ら海 + 離島",
+  "rule_context": {
+    "luan_diem_vi": "Okinawa = Ryūkyū王国 (1429-1879). 8 keywords: ゴーヤチャンプル/ソーキそば/泡盛/三線/シーサー/ハイサイ/ちゅらさん/首里城. Tôn trọng 沖縄時間.",
+    "luan_diem_ja": "沖縄は琉球王国(1429-1879)歴史を持つ独自文化圏。沖縄時間+なんくるないさ〜+ゆいまーる尊重。",
+    "boi_canh_vi": "Tháng 2/2027, Dũng sang Naha gặp Kobayashi (Okinawa native). 国際通り → ゆうなんぎい → 三線 ライブ → 首里城 → 美ら海.",
+    "boi_canh_ja": "2027年2月、ズンが那覇で小林さん(沖縄出身)と。国際通り→ゆうなんぎい→三線→首里城→美ら海。",
+    "muc_tieu_vi": "Master Okinawa文化 + 沖縄時間 mindset + 平和 sensitivity."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "11",
+      "topic": "Món địa phương"
+    },
+    {
+      "book": "08",
+      "rule": "12",
+      "topic": "Sake/泡盛"
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "那覇空港 — ハイサイ + 沖縄時間 + なんくるないさー",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "kobayashi_okinawa",
+          "ja": "ハイサイ、ズンさん。めんそ〜れ沖縄へ。フライト疲れたでしょう、まずはゆっくりしましょうね〜。",
+          "vi": "Haisai, em Dũng. Mensōre đến Okinawa. Bay mệt rồi, từ từ thôi nhé."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ハイサイ、小林さん。めんそ〜れ、覚えました!沖縄って空気から違いますね、暖かくて…",
+          "vi": "Haisai, anh Kobayashi. Mensōre em học rồi! Không khí Okinawa khác từ đầu, ấm áp..."
+        },
+        {
+          "speaker": "kobayashi_okinawa",
+          "ja": "2月でも20度くらいだから、本土の冬とは違うさ〜。あ、東京で予定詰め込みすぎてない?沖縄時間でいきましょう、急がない急がない。",
+          "vi": "Tháng 2 cũng ~20 độ nên khác mùa đông đại lục. À, ở Tokyo lịch dày quá không? Đi giờ Okinawa thôi, không vội."
+        },
+        {
+          "speaker": "zun",
+          "ja": "沖縄時間、聞いたことあります。ゆっくりを尊重する文化ですよね。",
+          "vi": "Okinawa-jikan em nghe rồi. Văn hóa tôn trọng sự thong thả."
+        },
+        {
+          "speaker": "kobayashi_okinawa",
+          "ja": "そうそう、わかってる人だね。なんくるないさ〜って言葉も。何とかなるさ〜って意味、これが沖縄の根本。",
+          "vi": "Đúng, em hiểu đó. Câu 'nankuru naisā' nghĩa 'rồi sẽ ổn', là nền tảng Okinawa."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ゆいまーるって助け合いの文化もありますよね。",
+          "vi": "Yuimāru, văn hóa giúp đỡ lẫn nhau nhỉ."
+        },
+        {
+          "speaker": "kobayashi_okinawa",
+          "ja": "ゆいまーるまで…!ズンさん、沖縄スピリットよく分かってる。今晩は国際通りのゆうなんぎい、地元民が行く店、ご案内しますね。",
+          "vi": "Cả yuimāru...! Em hiểu sâu spirit Okinawa. Tối nay Yūnangii ở Kokusai-dōri, quán dân địa phương, tôi dẫn em."
+        }
+      ]
+    },
+    {
+      "scenario": "ゆうなんぎい — チャンプル + 沖縄そば + 泡盛 古酒",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "kobayashi_okinawa",
+          "ja": "沖縄料理はチャンプルーが代表。チャンプルーは『混ぜる』いう意味、ゴーヤ・島豆腐・ポーク・卵でゴーヤチャンプル。",
+          "vi": "Món Okinawa thì chanpurū là tiêu biểu. Chanpurū = 'trộn'. Mướp đắng, đậu phụ đảo, pork, trứng = gōya chanpurū."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ゴーヤ、苦いけど夏バテに効くって聞きました。スパムを使うのは戦後アメリカ統治から、ですよね?",
+          "vi": "Mướp đắng đắng nhưng chống mệt mùa hè. Dùng spam là từ thời Mỹ cai trị sau chiến tranh nhỉ?"
+        },
+        {
+          "speaker": "kobayashi_okinawa",
+          "ja": "ポーク=スパム=戦後まで知ってるさ〜。1945-1972年米軍統治時代の影響で、沖縄家庭にスパム残ってる。ポーク玉子おにぎりも生活食さ。",
+          "vi": "Cả 'pork=spam=hậu chiến'! 1945-1972 Mỹ cai trị, gia đình Okinawa còn spam. Pork-tamago onigiri cũng món thường ngày."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ソーキそばも注文したいです。そば粉なしで小麦麺ですよね。",
+          "vi": "Sōki soba em muốn gọi. Không có bột soba, mì lúa mì nhỉ."
+        },
+        {
+          "speaker": "kobayashi_okinawa",
+          "ja": "沖縄そばは100%小麦!かつお出汁にラフテー(豚バラ煮込み)or ソーキ(豚スペアリブ)載せ。紅生姜+コーレーグース(島唐辛子の泡盛漬け)で味変するさ。",
+          "vi": "Soba Okinawa 100% lúa mì! Dashi cá ngừ + rafutē (ba chỉ kho) hoặc sōki (sườn). Đổi vị bằng beni-shōga + kōrēgūsu (ớt đảo ngâm awamori)."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ラフテー、ミミガー、てびち、海ぶどう、島らっきょう…全部試したいです。",
+          "vi": "Rafutē, mimigā, tebichi, umibudō, shimarakkyō... muốn thử hết."
+        },
+        {
+          "speaker": "kobayashi_okinawa",
+          "ja": "5品全部把握!ミミガー(豚耳)、てびち(豚足)、海ぶどう(緑のキャビア)、島らっきょう(辛い小ねぎ)…全部頼みましょうね〜。",
+          "vi": "Cả 5 món! Mimigā (tai), tebichi (chân), umibudō (caviar xanh), shimarakkyō (hành đảo cay)... gọi hết nhé."
+        },
+        {
+          "speaker": "zun",
+          "ja": "泡盛、本場で…古酒(クース)って3年以上熟成のものですよね?",
+          "vi": "Awamori ở nguyên bản... Kūsu là ủ trên 3 năm nhỉ?"
+        },
+        {
+          "speaker": "kobayashi_okinawa",
+          "ja": "クースまで!泡盛は米(タイ米)+黒麹菌で作る、琉球600年の歴史。3年以上熟成=古酒(クース)、10年ものは別物。残波・瑞泉・久米仙が代表ブランド。水割りかロックで飲むのが沖縄流。",
+          "vi": "Cả kūsu! Awamori làm từ gạo (Thái) + nấm kuro-kōji, 600 năm Ryūkyū. Trên 3 năm = kūsu, 10 năm khác hẳn. Zanpa/Zuisen/Kumesen là brand đại diện. Uống pha nước hoặc rock kiểu Okinawa."
+        }
+      ]
+    },
+    {
+      "scenario": "三線 ライブ + アーティスト + シーサー",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "kobayashi_okinawa",
+          "ja": "三線は蛇皮(ハブ皮)張り、3弦で『チンダミ』いう独特の音色。14世紀に中国から伝わった三絃が沖縄で進化した楽器。",
+          "vi": "Sanshin căng da rắn (habu), 3 dây, âm sắc 'chindami' đặc trưng. Sangen từ TQ thế kỷ 14 tiến hóa ở Okinawa."
+        },
+        {
+          "speaker": "zun",
+          "ja": "シャミセン(本土)とは別物ですよね、音も。",
+          "vi": "Shamisen (đại lục) khác nhỉ, âm cũng vậy."
+        },
+        {
+          "speaker": "kobayashi_okinawa",
+          "ja": "全然別物さ〜。演奏家は三線奏者(さんしんそうしゃ)って呼ぶ。民謡は安里屋ユンタ、てぃんさぐぬ花、島人ぬ宝…代表曲。",
+          "vi": "Khác hẳn. Nghệ sĩ gọi là sanshin-sōsha. Dân ca: Asadoya Yunta, Tinsagu nu Hana, Shimanchu nu Takara..."
+        },
+        {
+          "speaker": "zun",
+          "ja": "安室奈美恵さん、沖縄出身ですよね。",
+          "vi": "Amuro Namie quê Okinawa nhỉ."
+        },
+        {
+          "speaker": "kobayashi_okinawa",
+          "ja": "安室奈美恵は那覇!BEGIN、HY、Kiroro、夏川りみ、MAX、SPEED…沖縄アーティスト多いさ〜。沖縄アクターズスクールの卒業生もいっぱい。",
+          "vi": "Amuro Namie người Naha! BEGIN, HY, Kiroro, Natsukawa Rimi, MAX, SPEED... nghệ sĩ Okinawa nhiều. Tốt nghiệp Okinawa Actors School cũng nhiều."
+        },
+        {
+          "speaker": "zun",
+          "ja": "カチャーシーって踊り、最後にみんなで踊るやつですよね?",
+          "vi": "Kachāshī, điệu cuối cùng mọi người cùng nhảy phải không?"
+        },
+        {
+          "speaker": "kobayashi_okinawa",
+          "ja": "カチャーシー!お祝い事の最後で両手を上げて手首をひねって踊る沖縄式。今夜のライブの最後、ぜひ一緒にどうぞ。",
+          "vi": "Kachāshī! Cuối lễ kỷ niệm, giơ 2 tay xoay cổ tay nhảy kiểu Okinawa. Cuối live tối nay cùng nhảy nhé."
+        },
+        {
+          "speaker": "zun",
+          "ja": "シーサーもぜひ見たいです、家屋の屋根の…",
+          "vi": "Shīsā em cũng muốn xem, trên mái nhà..."
+        },
+        {
+          "speaker": "kobayashi_okinawa",
+          "ja": "シーサー!口を開けたオス=福を呼ぶ、口を閉じたメス=災いを防ぐ。ペアで屋根に置く。壺屋やちむん(沖縄陶器)で買えるさ。",
+          "vi": "Shīsā! Đực há mồm = gọi may, cái ngậm = chống tai. Đặt cặp trên mái. Mua được ở Tsuboya Yachimun (gốm Okinawa)."
+        }
+      ]
+    },
+    {
+      "scenario": "首里城 + 美ら海 + 沖縄戦/ひめゆり",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "kobayashi_okinawa",
+          "ja": "首里城は琉球王国の王城(1429-1879)、正殿は2019年10月火災で焼失したけど、2026年復元完成目指して復興中ね。",
+          "vi": "Shuri-jō là vương cung Ryūkyū (1429-1879). Chánh điện cháy 10/2019 nhưng đang phục hồi mục tiêu hoàn thành 2026."
+        },
+        {
+          "speaker": "zun",
+          "ja": "2019年火災、心が痛みました。復元プロジェクト、お力添えできれば…",
+          "vi": "Cháy 2019 em đau lòng. Dự án phục hồi, nếu góp được sức..."
+        },
+        {
+          "speaker": "kobayashi_okinawa",
+          "ja": "ありがとうね〜。首里城はユネスコ世界遺産『琉球王国のグスク』(2000年登録)の中心。朱色の正殿は中国・日本・南国文化のミックス、世界に唯一無二さ。",
+          "vi": "Cảm ơn em. Shuri-jō là trung tâm UNESCO 'Gusuku Ryūkyū' (đăng ký 2000). Chánh điện đỏ son là mix văn hóa TQ-Nhật-nhiệt đới, độc nhất thế giới."
+        },
+        {
+          "speaker": "zun",
+          "ja": "美ら海水族館、ジンベエザメで有名ですよね。",
+          "vi": "Churaumi suizokukan, nổi tiếng cá mập voi nhỉ."
+        },
+        {
+          "speaker": "kobayashi_okinawa",
+          "ja": "ジンベエザメ8.7m、世界最大級の水槽(高さ8.2m×幅22.5m×厚み60cm)、マンタもいる。1日じゃ足りんよ。",
+          "vi": "Cá mập voi 8.7m, bể lớn nhất thế giới (cao 8.2 x rộng 22.5 x dày 60). Có cả manta. 1 ngày không đủ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "沖縄戦のひめゆりの塔もいつか…次回伺う際、ご一緒できたら…",
+          "vi": "Tháp Himeyuri của trận Okinawa lúc nào đó... lần sau nếu được cùng anh..."
+        },
+        {
+          "speaker": "kobayashi_okinawa",
+          "ja": "…ありがとうね、ズンさん。1945年沖縄戦で県民の4人に1人が亡くなった。ひめゆりは女学生の物語…6/23は慰霊の日で県民全員静か。次回、朝早くゆっくりお連れします。",
+          "vi": "...Cảm ơn em. Trận Okinawa 1945, 1/4 dân tỉnh chết. Himeyuri là câu chuyện nữ sinh... 6/23 là ngày tưởng niệm cả tỉnh tĩnh lặng. Lần sau tôi dẫn em sáng sớm thong thả."
+        },
+        {
+          "speaker": "zun",
+          "ja": "沖縄、本当に深いですね。文化、歴史、自然…",
+          "vi": "Okinawa thực sự sâu. Văn hóa, lịch sử, thiên nhiên..."
+        },
+        {
+          "speaker": "kobayashi_okinawa",
+          "ja": "ぜひ離島(石垣・宮古・西表)も。ちゅら海って美しい海、見てほしい。沖縄1週間で帰りたくなくなるさ〜(笑)",
+          "vi": "Đảo xa nữa nhé (Ishigaki/Miyako/Iriomote). Chura-umi đẹp lắm, tôi muốn em xem. 1 tuần Okinawa em không muốn về nữa đâu (cười)."
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "Mở topic",
+      "ja": "ハイサイ、めんそ〜れ覚えました!",
+      "vi": "Haisai, mensōre em học rồi!"
+    },
+    {
+      "category": "Mindset",
+      "ja": "沖縄時間、ゆっくりさせていただきます。",
+      "vi": "Em xin theo giờ Okinawa thong thả."
+    },
+    {
+      "category": "Mindset",
+      "ja": "なんくるないさ〜、いい言葉ですね。",
+      "vi": "Nankuru naisā, lời hay nhỉ."
+    },
+    {
+      "category": "Food",
+      "ja": "ゴーヤチャンプル、本場で食べたいです。",
+      "vi": "Gōya chanpurū em muốn ăn ở nguyên bản."
+    },
+    {
+      "category": "Food",
+      "ja": "泡盛の古酒(クース)、3年以上熟成ですよね。",
+      "vi": "Awamori kūsu trên 3 năm nhỉ."
+    },
+    {
+      "category": "Music",
+      "ja": "三線、蛇皮張り3弦の琉球楽器ですよね。",
+      "vi": "Sanshin, đàn Ryūkyū 3 dây da rắn."
+    },
+    {
+      "category": "Music",
+      "ja": "カチャーシー、最後にぜひ踊らせてください。",
+      "vi": "Kachāshī, cuối cùng cho em nhảy với."
+    },
+    {
+      "category": "シーサー",
+      "ja": "シーサー、オスは口開け福を呼ぶ、メスは口閉じ災いを防ぐ、ですよね。",
+      "vi": "Shīsā đực há mồm gọi may, cái ngậm chống tai."
+    },
+    {
+      "category": "首里城",
+      "ja": "首里城、2019年火災から復興、応援しています。",
+      "vi": "Shuri-jō từ cháy 2019 phục hồi, em ủng hộ."
+    },
+    {
+      "category": "Peace",
+      "ja": "次回ご一緒できれば、ひめゆりの塔をご案内お願いできれば光栄です。",
+      "vi": "Lần sau cùng anh, được thăm Himeyuri là vinh dự."
+    }
+  ],
+  "regional_cheatsheet": {
+    "ken_capital": "那覇市",
+    "history": "琉球王国(1429-1879)→1879沖縄県→1945沖縄戦→1945-1972米軍統治→1972本土復帰",
+    "main_food": [
+      "ゴーヤチャンプル",
+      "ソーキそば(沖縄そば=100%小麦)",
+      "ラフテー",
+      "ミミガー",
+      "てびち",
+      "海ぶどう",
+      "島らっきょう",
+      "ジーマミー豆腐",
+      "ジューシー",
+      "沖縄天ぷら"
+    ],
+    "other_food": [
+      "タコライス",
+      "ポーク玉子おにぎり",
+      "サーターアンダーギー",
+      "ちんすこう",
+      "シークワーサー",
+      "ブルーシール",
+      "A&W"
+    ],
+    "shochu": "泡盛(米+黒麹菌600年). 古酒クース3年+. 残波/瑞泉/久米仙/八重泉/請福. コーレーグース",
+    "music": "三線(蛇皮3弦14世紀中国). エイサー. 民謡: 安里屋ユンタ/てぃんさぐぬ花/島人ぬ宝/涙そうそう",
+    "artists": [
+      "安室奈美恵",
+      "BEGIN",
+      "HY",
+      "Kiroro",
+      "夏川りみ",
+      "MAX",
+      "SPEED",
+      "ORANGE RANGE",
+      "喜納昌吉"
+    ],
+    "shisa": "オス=口開福呼/メス=口閉災防 — 壺屋やちむん",
+    "phrases": [
+      "ハイサイ(男こんにちは)",
+      "ハイタイ(女)",
+      "めんそ〜れ",
+      "なんくるないさー",
+      "ゆいまーる",
+      "沖縄時間",
+      "カチャーシー",
+      "ちゅら(美しい)"
+    ],
+    "tourism": [
+      "首里城UNESCO 2000(1429王城,2019火災2026復元)",
+      "美ら海水族館(ジンベエザメ8.7m)",
+      "国際通り",
+      "斎場御嶽",
+      "古宇利島",
+      "万座毛",
+      "離島(石垣/宮古/西表/慶良間/竹富)"
+    ],
+    "peace": "沖縄戦1945四人に一人. ひめゆりの塔. 平和祈念公園. 6/23慰霊の日. Cẩn thận topic.",
+    "dialect": "うちなーぐち: 〜さ〜/〜よ/だからよ/にふぇーでーびる(=ありがとう)/ちゅら",
+    "sport": [
+      "FC琉球(J)",
+      "琉球ゴールデンキングス(B)",
+      "沖縄SV"
+    ],
+    "mindset": "沖縄時間/なんくるないさ〜/ゆいまーる/島時間"
+  },
+  "ng_list": [
+    "Hối thúc tiến độ — 本土ペース不敬",
+    "Hỏi 米軍基地 thẳng",
+    "「沖縄も日本ですよね」 — chạm Ryūkyū identity",
+    "Nhầm 三線 ↔ 三味線",
+    "Hỏi 沖縄戦 chỉ vì curious",
+    "「沖縄方言可愛い」 patronizing",
+    "Coi 泡盛 = 焼酎"
+  ],
+  "vocab": [
+    {
+      "kanji": "ゴーヤチャンプル",
+      "yomi": "ゴーヤチャンプル",
+      "vi": "Xào mướp đắng"
+    },
+    {
+      "kanji": "ソーキそば",
+      "yomi": "ソーキそば",
+      "vi": "Mì sườn"
+    },
+    {
+      "kanji": "沖縄そば",
+      "yomi": "おきなわそば",
+      "vi": "Mì 100% lúa mì"
+    },
+    {
+      "kanji": "ラフテー",
+      "yomi": "ラフテー",
+      "vi": "Ba chỉ kho"
+    },
+    {
+      "kanji": "ミミガー",
+      "yomi": "ミミガー",
+      "vi": "Tai heo"
+    },
+    {
+      "kanji": "てびち",
+      "yomi": "てびち",
+      "vi": "Chân heo"
+    },
+    {
+      "kanji": "海ぶどう",
+      "yomi": "うみぶどう",
+      "vi": "Nho biển"
+    },
+    {
+      "kanji": "泡盛",
+      "yomi": "あわもり",
+      "vi": "Awamori 600 năm"
+    },
+    {
+      "kanji": "古酒",
+      "yomi": "クース",
+      "vi": "Awamori 3+ năm"
+    },
+    {
+      "kanji": "三線",
+      "yomi": "さんしん",
+      "vi": "Đàn 3 dây da rắn"
+    },
+    {
+      "kanji": "シーサー",
+      "yomi": "シーサー",
+      "vi": "Sư tử thần"
+    },
+    {
+      "kanji": "首里城",
+      "yomi": "しゅりじょう",
+      "vi": "Vương cung UNESCO"
+    },
+    {
+      "kanji": "琉球王国",
+      "yomi": "りゅうきゅうおうこく",
+      "vi": "Ryūkyū 1429-1879"
+    },
+    {
+      "kanji": "美ら海水族館",
+      "yomi": "ちゅらうみすいぞくかん",
+      "vi": "Aquarium"
+    },
+    {
+      "kanji": "ハイサイ",
+      "yomi": "ハイサイ",
+      "vi": "Xin chào (nam)"
+    },
+    {
+      "kanji": "めんそ〜れ",
+      "yomi": "めんそーれ",
+      "vi": "Welcome"
+    },
+    {
+      "kanji": "なんくるないさー",
+      "yomi": "なんくるないさー",
+      "vi": "Rồi sẽ ổn"
+    },
+    {
+      "kanji": "ゆいまーる",
+      "yomi": "ゆいまーる",
+      "vi": "Giúp lẫn nhau"
+    },
+    {
+      "kanji": "沖縄時間",
+      "yomi": "おきなわじかん",
+      "vi": "Nhịp chậm"
+    },
+    {
+      "kanji": "カチャーシー",
+      "yomi": "カチャーシー",
+      "vi": "Vũ điệu kết thúc"
+    },
+    {
+      "kanji": "慰霊の日",
+      "yomi": "いれいのひ",
+      "vi": "6/23 tưởng niệm"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "沖縄のお客様に「予定が押してます、急ぎましょう」と言うのは?",
+      "options": [
+        "A. 効率的でOK",
+        "B. 沖縄時間の文化を尊重しないNG",
+        "C. 普通",
+        "D. 関係なし"
+      ],
+      "answer": "B",
+      "explain_vi": "沖縄時間 = relax pace. Hối thúc = thiếu tôn trọng văn hóa."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「なんくるないさ〜」 = ?",
+      "options": [
+        "A. 何もない",
+        "B. 何とかなる/大丈夫 — 沖縄の楽観マインド",
+        "C. 何も問題",
+        "D. 嫌い"
+      ],
+      "answer": "B",
+      "explain_vi": "Nankuru naisā = 'rồi sẽ ổn', mindset Okinawa lạc quan."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "「だからよ〜」 を沖縄の方が言った場合の意味は?",
+      "options": [
+        "A. だから (因果)",
+        "B. だよね (同意/相づち) — 沖縄方言",
+        "C. なぜ",
+        "D. ですから (formal)"
+      ],
+      "answer": "B",
+      "explain_vi": "「だからよ〜」 Okinawa-ben = 'đúng đó/agree' không phải causal."
+    }
+  ],
+  "templates": []
+}

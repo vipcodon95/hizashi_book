@@ -1,0 +1,144 @@
+{
+  "rule_id": "rule_10",
+  "rule_slug": "背景＋アジェンダ発話",
+  "title": {
+    "ja": "背景＋アジェンダ発話",
+    "vi": "Bối cảnh + agenda speech"
+  },
+  "rule_context": {
+    "ja": "自己紹介後の2分間で『背景→課題→アジェンダ』を語る場面。リスト読み上げ型 vs 3部構成型の比較。",
+    "vi": "2 phút sau self-intro: kể 「bối cảnh→vấn đề→agenda」. So sánh đọc list với chia 3 phần."
+  },
+  "related_rules": [
+    "rule_03",
+    "rule_13",
+    "rule_14"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — リスト読み上げ",
+      "label_vi": "XẤU — Đọc list 6 mục",
+      "display_order": 1,
+      "analysis": {
+        "ja": "6項目を平らに並べると優先度が見えず『長そう』感が出る。グルーピングと『本日のゴール』が欠けている。",
+        "vi": "Liệt kê 6 mục đều = không có ưu tiên + cảm giác 「dài」. Thiếu group hoá + thiếu tuyên bố goal."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_10_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "アジェンダです。1つ目、Phase 2 振り返り。2つ目、課題分析。3つ目、Phase 3 提案。4つ目、スケジュール。5つ目、価格。6つ目、リスク。以上です。次のスライドに行きます。",
+          "sentence_translation": "Đây là agenda ạ. Mục 1, nhìn lại Phase 2. Mục 2, phân tích vấn đề. Mục 3, đề xuất Phase 3. Mục 4, schedule. Mục 5, giá. Mục 6, rủi ro. Hết ạ. Em sang slide tiếp ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_10_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "(……6項目もあるのか、長そうだな)",
+          "sentence_translation": "(...Tận 6 mục, có vẻ dài đấy)",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 3部構成＋ゴール宣言",
+      "label_vi": "TỐT — Chia 3 phần + tuyên bố goal",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_10_good_01",
+          "highlight_text": "まず背景を1分でお伝えします",
+          "ja": "Time stamp で進捗を可視化。聴衆が『今どこ』を把握できる。",
+          "vi": "Time stamp để track. Audience biết đang ở đâu trong flow."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_10_good_02",
+          "highlight_text": "大きく3部構成で",
+          "ja": "6項目を3部にグルーピング。認知負荷が3 ± 1 に収まる。",
+          "vi": "Gộp 6 mục thành 3 part. Tải nhận thức nằm trong 3 ± 1."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_10_good_02",
+          "highlight_text": "本日のゴールはPhase 3 の方向性決定",
+          "ja": "Anchorの宣言。聴衆の判断基準が明確になる。",
+          "vi": "Tuyên bố anchor. Tiêu chí thành công được làm rõ."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_10_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "まず背景を1分でお伝えします。Phase 2 で在庫差異を5%→1.8%まで削減できましたが、季節商品で再発しております。この再発をどう解くかが本日の論点です。",
+          "sentence_translation": "Đầu tiên, em xin trình bày background trong 1 phút ạ. Phase 2 đã giảm sai lệch tồn kho từ 5% xuống 1.8%, tuy nhiên hiện đang tái phát ở hàng theo mùa. Cách giải bài toán tái phát này chính là điểm bàn hôm nay ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_10_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本日は大きく3部構成でお話しします。第1部: 残課題の分析(5分)、第2部: Phase 3 提案とデモ(15分)、第3部: スケジュール・価格・リスク(5分)。最後に Q&A 7分。本日のゴールは Phase 3 の方向性決定でございます。",
+          "sentence_translation": "Hôm nay em xin trình bày theo 3 phần lớn ạ. Phần 1: phân tích vấn đề còn lại (5 phút), Phần 2: đề xuất Phase 3 + demo (15 phút), Phần 3: schedule + giá + rủi ro (5 phút). Cuối cùng Q&A 7 phút. Goal hôm nay là quyết được hướng đi cho Phase 3 ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "2",
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_10_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "分かりました、進めてください。",
+          "sentence_translation": "Rõ rồi, em tiếp tục đi.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_10_kp_01",
+      "speaker": "zun",
+      "sentence": "本日は大きく〇部構成でお話しします。本日のゴールは〇〇でございます。",
+      "sentence_translation": "Hôm nay em xin trình bày theo 〇 phần lớn ạ. Goal hôm nay là 〇〇 ạ.",
+      "purpose": "アジェンダ＋ゴール宣言",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_10_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "6項目あるアジェンダを聴衆に伝える最良の方法は？",
+      "options": [
+        "1つ目から6つ目まで番号順に読み上げる",
+        "大きく3部にグルーピングして数を明示する",
+        "アジェンダスライドを飛ばす",
+        "全項目を同時に画面に並べてそのまま"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "認知負荷の上限は3 ± 1。6項目は3部にグループ化して伝える。",
+        "vi": "Trần tải nhận thức là 3 ± 1. 6 mục phải gộp thành 3 phần để truyền đạt."
+      }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "rule_id": "rule_46",
+  "rule_slug": "議事録フォーマット",
+  "title": {
+    "ja": "議事録の標準フォーマット（extended版）",
+    "vi": "Format biên bản chuẩn (extended)"
+  },
+  "rule_context": {
+    "ja": "Phase 2交渉会議の議事録を作成。重要案件のため標準フォーマット8要素+3慣習（責任者明記・決定/TODO分離・未決事項追跡）に従う。",
+    "vi": "Em Dũng viết biên bản đàm phán phase 2 — buổi quan trọng. Phải dùng format chuẩn extended: 8 element + 3 quy ước (owner cụ thể, decisions tách TODOs, track chưa quyết)."
+  },
+  "related_rules": [
+    "rule_45",
+    "rule_47",
+    "rule_48"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — minimal で構造なし",
+      "label_vi": "XẤU — Minimal, không cấu trúc",
+      "display_order": 1,
+      "analysis": {
+        "ja": "決定とTODOが混在し、責任者も期限も不明。重要案件の証憑として使えない。",
+        "vi": "Decisions trộn TODO, không owner không deadline. Không dùng được làm evidence cho hợp đồng."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_46_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（議事録の中身）4/28 会議。参加：松本、大垣、ズン、トゥアン。内容：Phase 2 のスコープを話した。A 案で行く。TODO：仕様書を書く。",
+          "sentence_translation": "(Nội dung biên bản) Họp 28/4. Tham dự: Matsumoto, Ōgaki, Dũng, Tuấn. Nội dung: bàn scope phase 2. Đi theo A. TODO: viết spec.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_46_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ズン、これじゃ後で揉めた時に証拠にならないよ。誰がいつまでに、決定とTODOの分離が必要。",
+          "sentence_translation": "Dũng, biên bản này sau có tranh chấp không làm evidence được đâu. Phải có ai/khi nào, decisions tách TODOs.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — extendedフォーマットを採用",
+      "label_vi": "TỐT — Dùng extended format",
+      "display_order": 2,
+      "analysis": {
+        "ja": "8要素を全て含み、決定/TODO分離、未決事項も追跡。重要交渉の証憑として完全に機能する。",
+        "vi": "Đủ 8 element, decisions tách TODO, track chưa quyết. Đầy đủ làm evidence cho đàm phán quan trọng."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_46_good_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ズン、これは契約交渉だから extended フォーマットね。8要素で。",
+          "sentence_translation": "Dũng, vụ này là đàm phán hợp đồng nên dùng format extended nhé. Đủ 8 element.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_46_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "承知しました。テンプレートに沿って作成いたします。",
+          "sentence_translation": "Vâng em rõ ạ. Em sẽ làm theo template ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_46_kp_01",
+      "speaker": "zun",
+      "sentence": "extended フォーマット8要素で議事録を作成いたします。",
+      "sentence_translation": "Em sẽ làm biên bản theo format extended 8 element ạ.",
+      "purpose": "重要会議の議事録作成宣言",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_46_bjt_01",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "重要交渉の議事録に必須の要素はどれか？",
+      "options": [
+        "出席者と内容のみ",
+        "件名・概要・目的・議題・要旨・決定事項・TODO（owner+deadline）・次回 の8要素+未決事項追跡",
+        "メモ書きのみ",
+        "決定事項とTODOを混在させる"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "extended フォーマットは8要素+3慣習で証憑性と追跡性を担保する。",
+        "vi": "Extended format 8 element + 3 quy ước đảm bảo tính evidence và truy vết."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_46_tpl_01",
+      "format": "minutes",
+      "title_ja": "議事録テンプレート（extended版・記入例つき）",
+      "title_vi": "Template Biên Bản (extended, có example data)",
+      "content_ja": "===========================================\n【議事録】Phase 2 スコープ協議会議\n===========================================\n\n■ 1. 会議概要\n──────────────────\n【日時】2026年4月28日（火） 14:00〜16:00（JST）\n【場所】Zoom（オンライン）\n【形式】ハイブリッド\n【出席者】\n  白鷗株式会社：松本PM、大垣 営業部長\n  ティエンファット社：フオン副部長、ズン（司会・書記）、トゥアンリーダー、ハーCTO\n【欠席】ロアン経理部長（事前連絡あり、議事録共有予定）\n\n■ 2. 目的\n──────────────────\n  Phase 2 開発スコープと予算条件の合意形成\n\n■ 3. 議題\n──────────────────\n  ① Phase 2 スコープ3案（A/B/C）の協議\n  ② 予算・スケジュールの整合性確認\n  ③ QAリソース体制の検討\n\n■ 4. 議論の要旨\n──────────────────\n  ① スコープ案：A案（優先度高機能のみ）が現実的との認識で一致。トゥアンリーダーよりPhase 1実績データ（10.5週間/6名換算）を共有。\n  ② 予算：大垣営業部長より20%値引き提案あり。弊社CTOからは10%が技術品質維持の限界との回答。\n  ③ QA体制：現状2名では不足。1名追加可否を経理と協議予定。\n\n■ 5. 決定事項\n──────────────────\n  ① Phase 2 スコープは A 案で確定（優先度高機能のみ）\n  ② リリース日：2026年7月31日で確定\n  ③ 責任者：トゥアンリーダー（技術側）、ズン（プロジェクト管理）\n\n■ 6. アクションアイテム（TODO）\n──────────────────\n  ① scope A 案 詳細仕様書作成\n     ── トゥアンリーダー ── 5月2日（金）まで\n  ② 5月開発スプリント計画書作成\n     ── ズン ── 4月30日（水）まで\n  ③ 追加QAリソース可否回答\n     ── 大垣営業部長 ── 5月7日（水）まで\n  ④ 議事録共有\n     ── ズン ── 4月28日中\n\n■ 7. 未決事項\n──────────────────\n  ・予算値引き率（10%／20%）：次回会議で再協議\n  ・クラウド選定（AWS／Azure）：別途打合せ予定\n\n■ 8. 次回会議\n──────────────────\n  日時：2026年5月7日（水） 15:00〜16:00（JST）\n  形式：Zoom（オンライン）\n  予定議題：① 値引き率最終合意 ② QAリソース確定 ③ クラウド選定\n\n===========================================\n以上\n2026年4月28日 18:30 作成 — ズン（記）\n===========================================",
+      "content_vi": "===========================================\n[Biên bản] Họp đàm phán scope Phase 2\n===========================================\n\n■ 1. Tổng quan họp\n──────────────────\n[Thời gian] 28/4/2026 (Thứ Ba), 14:00 - 16:00 (giờ JST)\n[Nơi] Zoom (online)\n[Hình thức] Hybrid\n[Người tham dự]\n  Cty Hakuō: anh Matsumoto PM, anh Ōgaki Trưởng phòng KD\n  Cty Thiên Phát: chị Hương Phó phòng, em Dũng (chủ trì + ghi), anh Tuấn Tech lead, anh Hà CTO\n[Vắng] chị Loan Kế toán trưởng (đã báo trước, sẽ share biên bản)\n\n■ 2. Mục đích\n──────────────────\n  Thống nhất scope phát triển và điều kiện budget của Phase 2\n\n■ 3. Chủ đề\n──────────────────\n  (1) Bàn 3 phương án scope Phase 2 (A/B/C)\n  (2) Kiểm tra tính nhất quán budget - schedule\n  (3) Xem xét bố trí resource QA\n\n■ 4. Tóm tắt thảo luận\n──────────────────\n  (1) Scope: thống nhất phương án A (chỉ tính năng ưu tiên cao) là khả thi. Anh Tuấn chia sẻ data Phase 1 (10.5 tuần / quy đổi 6 người).\n  (2) Budget: anh Ōgaki đề xuất giảm 20%. CTO bên ta giới hạn 10% để giữ chất lượng tech.\n  (3) QA: 2 người hiện tại chưa đủ. Sẽ bàn với kế toán về việc thêm 1 người.\n\n■ 5. Quyết định\n──────────────────\n  (1) Scope Phase 2 chốt phương án A (chỉ tính năng ưu tiên cao)\n  (2) Ngày release chốt: 31/7/2026\n  (3) Người phụ trách: anh Tuấn (kỹ thuật), em Dũng (quản lý dự án)\n\n■ 6. Action items (TODO)\n──────────────────\n  (1) Viết spec chi tiết phương án A\n     ── anh Tuấn ── deadline thứ Sáu 2/5\n  (2) Viết kế hoạch sprint dev tháng 5\n     ── em Dũng ── deadline thứ Tư 30/4\n  (3) Trả lời khả năng tăng QA\n     ── anh Ōgaki ── deadline thứ Tư 7/5\n  (4) Gửi biên bản\n     ── em Dũng ── trong ngày 28/4\n\n■ 7. Item chưa quyết\n──────────────────\n  - Tỷ lệ giảm giá (10% / 20%): sẽ bàn lại tại họp tới\n  - Chọn cloud (AWS / Azure): sẽ bàn ở buổi riêng\n\n■ 8. Họp lần tới\n──────────────────\n  Thời gian: 7/5/2026 (Thứ Tư), 15:00 - 16:00 (JST)\n  Hình thức: Zoom (online)\n  Chủ đề dự kiến: (1) Chốt tỷ lệ giảm giá (2) Chốt resource QA (3) Chọn cloud\n\n===========================================\n(Hết)\nLập 28/4/2026 18:30 — em Dũng (ghi)\n===========================================",
+      "notes_ja": "extended フォーマット：契約交渉・重要決議など証憑性が要求される会議に使用。8要素全て埋めること。未決事項を必ず明記し、次回までに決着させる。",
+      "notes_vi": "Extended format: dùng cho họp đàm phán hợp đồng / quyết định quan trọng cần evidence. Phải fill đủ 8 element. Bắt buộc note chưa quyết事項 và phải resolve trước họp lần tới."
+    }
+  ]
+}

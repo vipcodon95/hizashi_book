@@ -1,0 +1,94 @@
+# Rule 03 — Đặt phòng + Setup hậu cần / 会議室予約・設備確認
+
+> **Luận điểm.** Phòng họp thiếu projector / dây HDMI / mạng / nước = 5 phút đầu tan biến vì loay hoay. Trước họp 1 ngày phải có **checklist 7 mục**: phòng đủ chỗ, projector test OK, HDMI/USB-C, Wi-Fi password, white board + bút, nước/茶, biển tên (name plate).
+>
+> 会議室予約と設備確認は前日までに完了。チェックリスト7項目：①席数 ②プロジェクター ③ケーブル ④Wi-Fi ⑤ホワイトボード ⑥お茶・お水 ⑦ネームプレート。
+>
+> **Liên quan:** Rule 04 (online setup), Rule 06 (đến sớm 5 phút), Rule 12 (giới thiệu出席者).
+
+---
+
+## Bối cảnh / 場面
+
+Em Linh (mới onboard, được Dũng mentor) được giao đặt phòng + check setup cho buổi họp với 白鷗 vào thứ Ba. Linh báo Dũng "đã đặt phòng rồi" — Dũng kiểm tra lại.
+
+---
+
+## ❌ Hội thoại XẤU — chỉ đặt phòng, không check setup
+
+*当日朝、部屋に入って*
+
+| Speaker | Câu |
+|---------|-----|
+| **リン** | 「ズン先輩、火曜の会議室、3階の会議室Aを押さえました。」 |
+| **ズン** | 「OK、設備は確認した？プロジェクター、ケーブル、Wi-Fi…」 |
+| **リン** | 「あっ、部屋を予約しただけで…プロジェクターがあるかは…」 |
+| **ズン** | 「HDMIケーブルがない。リンさん、急ぎ総務に借りに行って！松本様あと10分で来る。」 |
+
+**Vì sao xấu:** "Đặt phòng" ≠ "Setup họp". Junior thường chỉ làm 1 bước rồi báo done. Đến hôm họp khách Nhật vào → phải chạy đi tìm cable = lỗi mất mặt nghiêm trọng với khách.
+
+---
+
+## ✅ Hội thoại TỐT — checklist 7 mục đầy đủ
+
+| Speaker | Câu |
+|---------|-----|
+| **リン** | 「ズン先輩、火曜の会議室Aを予約し、設備チェックリストも完了しました【1】。」 |
+| **ズン** | 「ありがとう。プロジェクター・HDMI・Wi-Fiは？」 |
+| **リン** | 「プロジェクターは昨日テスト済み、HDMIとUSB-C両方備品あり、Wi-Fi パスワードはネームプレートに記載しました。お茶とお水も人数分用意しております【2】。」 |
+| **ズン** | 「完璧。ネームプレートは席順どおり配置してね。当日は10分前に最終チェックしよう。」 |
+
+📝 **Ghi chú:**
+- 【1】**「設備チェックリスト」** — không chỉ "予約しました" mà là "予約 + チェックリスト完了". Phân biệt rõ 2 bước.
+- 【2】**「人数分」** = "đủ số người". Cụm chuẩn khi báo cáo về số lượng nước/tài liệu/ghế. Native dùng nhiều.
+
+---
+
+## 🎯 Câu chốt
+
+> **「予約 ≠ 準備完了。チェックリストが完了して初めて『準備完了』。」**
+>
+> *Đặt phòng không bằng chuẩn bị xong. Checklist tick hết mới là "chuẩn bị xong".*
+
+---
+
+## 📐 Checklist Setup Phòng Họp (xem `conversation.json:templates[0]`)
+
+```
+■ 会議室セットアップ・チェックリスト（前日17時までに完了）
+
+□ 1. 会議室予約確認（人数 +2 名分の余裕）
+□ 2. プロジェクター動作テスト（実機接続）
+□ 3. HDMI / USB-C ケーブル両方
+□ 4. Wi-Fi SSID + パスワード（ネームプレート記載）
+□ 5. ホワイトボード + マーカー（赤・青・黒）+ イレーザー
+□ 6. お茶・お水（人数分 +2 本）
+□ 7. ネームプレート（席順どおり配置）
+□ 8. 配布資料（人数分 +2 部）
+□ 9. 延長コード・タップ
+□ 10. 会議室の鍵 / 入退室カード
+```
+
+---
+
+## ⚠ Tránh
+
+- "予約しました" mà không kiểm tra cable / projector → 90% bị thiếu HDMI hôm họp.
+- Wi-Fi password viết trên giấy ghim → khách Nhật ngại hỏi → ngồi không có mạng.
+- Không có name plate → khách lúng túng chỗ ngồi (sách 07 sẽ chi tiết).
+- Quên 延長コード → laptop hết pin giữa họp.
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 会議室 | かいぎしつ | Phòng họp |
+| 予約 | よやく | Đặt trước |
+| 設備 | せつび | Trang thiết bị |
+| プロジェクター | purojekutaa | Projector |
+| ネームプレート | name plate | Bảng tên / chỗ ngồi |
+| 人数分 | にんずうぶん | Đủ số người |
+| 押さえる | おさえる | Giữ chỗ / book |
+| 備品 | びひん | Đồ dùng văn phòng |

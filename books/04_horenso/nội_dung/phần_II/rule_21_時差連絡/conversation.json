@@ -1,0 +1,164 @@
+{
+  "rule_id": "rule_21",
+  "rule_slug": "海外チームへの時差連絡",
+  "title": {
+    "ja": "海外チームへの時差連絡 (UTC anchor / async / daily handoff)",
+    "vi": "Liên lạc cross-timezone (VN-JP)"
+  },
+  "rule_context": {
+    "ja": "ズンが田中 PMO（白鷗）と Slack で時刻調整する場面。「明日10時」のあいまい表現から、「JST (ICT) 併記 + async + EOD handoff」のベストプラクティスへ。",
+    "vi": "Em Dũng điều phối thời gian với anh Tanaka PMO (Hakuō) qua Slack. Từ 'mai 10h' mơ hồ sang best practice 'JST (ICT) ghi cả 2 + async + EOD handoff'."
+  },
+  "related_rules": ["rule_14", "rule_16", "rule_20"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 「明日10時」+ 即時返信期待",
+      "label_vi": "XẤU — 'Mai 10h' + expect reply ngay",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「明日」「10時」がどちらの国の暦・時刻か不明。さらに JP team が EOD 後に返信を求めるのは async 前提を破壊。",
+        "vi": "「明日」「10時」 không biết theo lịch nước nào. Đòi reply sau EOD của JP team = phá nguyên tắc async."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_21_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "田中さん、明日10時から会議できますか？",
+          "sentence_translation": "Anh Tanaka, mai 10h họp được không ạ?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_21_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "田中さん？返信お待ちしています。",
+          "sentence_translation": "Anh Tanaka? Em đợi anh reply ạ.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_21_bad_03",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ズンさん、おはようございます。『明日10時』が JP の明日 (火 10時 JST) なのか、VN の明日 (月翌日 10時 ICT = 火 12時 JST) なのか分からないです…",
+          "sentence_translation": "Dũng, chào buổi sáng. 'Mai 10h' là mai theo JP (10h JST thứ Ba) hay theo VN (10h ICT của ngày sau hôm thứ Hai = 12h JST thứ Ba) tôi không biết...",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — JST(ICT)併記 + async 期限 + EOD handoff",
+      "label_vi": "TỐT — JST(ICT) cả 2 + deadline async + EOD handoff",
+      "display_order": 2,
+      "analysis": {
+        "ja": "時刻を JST (ICT) で併記、返信期限を「明日朝 JST」と async に、EOD で handoff message を残すことで JP team は朝に状況を把握できる。",
+        "vi": "Ghi giờ JST (ICT) cả 2, deadline async 'sáng mai JST', EOD handoff để JP team sáng dậy nắm tình hình."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_21_good_01",
+          "highlight_text": "10:00-11:00 JST (= 08:00-09:00 ICT)",
+          "ja": "JST と ICT を必ず併記。「明日」「夕方」など相対時間は cross-timezone で禁止。",
+          "vi": "Ghi cả JST và ICT. Tránh giờ tương đối như 「明日」「夕方」 trong cross-timezone."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_21_good_01",
+          "highlight_text": "明日の朝 (JST) までにお返事",
+          "ja": "返信期限を時間帯で示し、async で OK と暗示する。即時返信を求めない。",
+          "vi": "Cho deadline reply theo khung giờ, ngầm hiểu async. Không đòi reply ngay."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_21_good_03",
+          "highlight_text": "EOD Handoff VN→JP",
+          "ja": "VN 終業 = JP の朝の数時間前。handoff message で JP team は朝の最初に状況把握。",
+          "vi": "EOD VN = vài giờ trước sáng JP. Handoff để JP team sáng dậy nắm ngay tình hình."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_21_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "田中さん、お疲れ様です。下記の時間帯で会議はいかがでしょうか？2026/4/22 (火) 10:00-11:00 JST (= 08:00-09:00 ICT)、または 2026/4/22 (火) 14:00-15:00 JST (= 12:00-13:00 ICT)。ご都合が合う方を、明日の朝 (JST) までにお返事いただければ幸いです。",
+          "sentence_translation": "Anh Tanaka, em chào anh ạ. Khung giờ dưới đây họp được không ạ? 22/4/2026 (T3) 10:00-11:00 JST (= 08:00-09:00 ICT), hoặc 22/4/2026 (T3) 14:00-15:00 JST (= 12:00-13:00 ICT). Phiền anh chọn giúp em và phản hồi trước sáng mai (JST) ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1", "2"]
+        },
+        {
+          "line_id": "rule_21_good_02",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "おはようございます。10:00 JST で確定でお願いします。",
+          "sentence_translation": "Chào buổi sáng. Chốt 10:00 JST giúp tôi nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_21_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "【EOD Handoff VN→JP】Done today: API修正完了 / Pending JP review: PR #234 / JP team が朝確認: ① 仕様書 v3 セクション3、② デモ動画リンク / 緊急時: トゥアン (+84-...) または ズン (24h reachable)。",
+          "sentence_translation": "[EOD Handoff VN→JP] Done today: sửa API xong / Chờ JP review: PR #234 / JP team sáng check: ① spec v3 section 3, ② link video demo / Khẩn: anh Tuấn (+84-...) hoặc Dũng (24h reachable).",
+          "tone": "neutral",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_21_good_04",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "Handoff 受領。① と ② を朝のうちに review します。",
+          "sentence_translation": "Tôi đã nhận handoff. ① và ② tôi review trong sáng nay.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_21_kp_01",
+      "speaker": "zun",
+      "sentence": "〇月〇日(〇) 〇〇:〇〇 JST (= 〇〇:〇〇 ICT) でいかがでしょうか。明日朝 (JST) までにお返事いただければ幸いです。",
+      "sentence_translation": "〇/〇 (〇) 〇:〇〇 JST (= 〇:〇〇 ICT) anh thấy thế nào ạ? Phiền anh phản hồi trước sáng mai (JST) ạ.",
+      "purpose": "cross-timezone 時刻提示の標準形",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_21_kp_02",
+      "speaker": "zun",
+      "sentence": "【EOD Handoff VN→JP】Done today: 〇〇 / Pending JP review: 〇〇 / JP team が朝確認: 〇〇。",
+      "sentence_translation": "[EOD Handoff VN→JP] Done today: 〇〇 / Chờ JP review: 〇〇 / JP team sáng check: 〇〇.",
+      "purpose": "daily EOD handoff message",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_21_bjt_01",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "VN-JP cross-timezone Slack で時刻を伝える最も適切な表現は？",
+      "options": [
+        "明日10時から",
+        "夕方頃に",
+        "2026/4/22 (火) 10:00 JST (= 08:00 ICT)",
+        "業務時間内に"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "cross-timezone では JST (ICT) を必ず併記。「明日」「夕方」のような相対時刻は両国で異なる解釈を生む。",
+        "vi": "Cross-timezone phải ghi cả JST và ICT. 「明日」「夕方」 là giờ tương đối, mỗi nước hiểu khác nhau."
+      }
+    }
+  ]
+}

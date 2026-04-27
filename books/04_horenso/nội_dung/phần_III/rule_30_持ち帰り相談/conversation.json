@@ -1,0 +1,191 @@
+{
+  "rule_id": "rule_30",
+  "rule_slug": "持ち帰り相談",
+  "title": {
+    "ja": "持ち帰り相談（社内運用）",
+    "vi": "Mang về tham vấn (mochikaeri)"
+  },
+  "rule_context": {
+    "ja": "ズンが松本様に『水曜EODまでに lock cost 回答』を約束した後の社内運用。記憶頼みで忘れる悪い例から、Notion チケット + 社内期限前日 + 社内相談会議 + Decision Register の5ステップへ。",
+    "vi": "Sau khi Dũng hứa anh Matsumoto 'phản hồi lock cost trước EOD thứ Tư', cách vận hành nội bộ. Từ pattern xấu (note miệng + quên) → 5 bước (Notion ticket + deadline nội bộ trước 1 ngày + meeting nội bộ + Decision Register)."
+  },
+  "related_rules": ["rule_27", "rule_29", "rule_39"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 口約束＋記憶頼み",
+      "label_vi": "XẤU — Hứa miệng + dựa trí nhớ",
+      "display_order": 1,
+      "analysis": {
+        "ja": "持ち帰りを記憶で管理すると2日で忘れる。社内検討が間に合わず、客にリスケ依頼するのは信用を大きく毀損する。",
+        "vi": "Quản lý mochikaeri (việc mang về) bằng trí nhớ là quên trong 2 ngày. Tham vấn nội bộ không kịp + xin reschedule khách = tổn hại uy tín lớn."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_30_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(月曜19時、頭の中) 水曜までに lock cost 回答…まあ、覚えとくか…",
+          "sentence_translation": "(Thứ Hai 19h, trong đầu) Trước thứ Tư phải reply lock cost... thôi nhớ trong đầu là được...",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_30_bad_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "(水曜14時、Slack) ズンさん、本日 EOD まで lock cost のご回答お待ちしております。",
+          "sentence_translation": "(Thứ Tư 14h, Slack) Dũng, tôi đợi reply lock cost trước EOD hôm nay nhé.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_30_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、忘れてた…",
+          "sentence_translation": "À, em quên mất...",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_30_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ズン、客に持ち帰った件は必ず Notion #mochikaeri-board に1枚チケット作る。owner + 期限 (社内は前日)。今ハーCTO 不在で水曜EODは無理。明日に客にリスケ依頼かけて、社内は金曜 lock。",
+          "sentence_translation": "Dũng, việc mang về từ khách bắt buộc phải tạo 1 ticket trong Notion #mochikaeri-board. Owner + deadline (nội bộ trước 1 ngày). Anh Hà CTO đi vắng nên thứ Tư EOD không kịp. Mai xin reschedule khách, nội bộ chốt thứ Sáu.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 5ステップ運用",
+      "label_vi": "TỐT — 5 bước vận hành",
+      "display_order": 2,
+      "analysis": {
+        "ja": "Notion チケット起票 → 社内期限前日 → 社内会議 → Decision Register → 客回答の5ステップ。1点も漏れず、約束日に正確に回答できる。",
+        "vi": "Notion ticket → deadline nội bộ trước 1 ngày → meeting nội bộ → Decision Register → reply khách. Đủ 5 bước, không sót, reply đúng ngày đã hứa."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_30_good_01",
+          "highlight_text": "顧客約束: 4/24 (水) EOD / 社内期限: 4/23 (火) EOD",
+          "ja": "社内期限 = 顧客期限 - 1日のバッファルール。1日の余裕で突発事故を吸収する。",
+          "vi": "Deadline nội bộ = deadline khách - 1 ngày là rule buffer. 1 ngày dư hấp thụ sự cố đột xuất."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_30_good_02",
+          "highlight_text": "TICKET-MOCH-2026-0421 をご確認ください",
+          "ja": "Slack でアジェンダを書き並べず、1つの ticket ID を参照させる。情報の単一参照源を保つ。",
+          "vi": "Không liệt kê agenda trên Slack, để tham chiếu 1 ticket ID. Giữ nguồn tham chiếu duy nhất."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_30_good_03",
+          "highlight_text": "月曜の予定通り、明日 EOD までに松本様へ回答メール送付します",
+          "ja": "顧客との約束をスケジュール通り守る宣言。社内チームに進捗の安心感を与える。",
+          "vi": "Tuyên bố giữ đúng lịch hứa với khách. Tạo cảm giác an tâm cho team nội bộ về tiến độ."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_30_good_04",
+          "highlight_text": "先日お持ち帰りした",
+          "ja": "客先回答の冒頭はこの定型句。客は『約束を守ってきた』と即認識する。",
+          "vi": "Câu mở reply khách dùng định cú này. Khách nhận biết ngay 'đã giữ lời hứa'."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_30_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(月曜19時、Notion 起票) TICKET-MOCH-2026-0421: Phase 2 lock cost 回答 / 顧客約束: 4/24 (水) EOD / 社内期限: 4/23 (火) EOD / owner: ズン / 必要参加者: ハーCTO + フオン副部長 + トゥアン / 判断材料: 3社見積 + 過去Phase1実績 / ステータス: open。",
+          "sentence_translation": "(Thứ Hai 19h, mở ticket Notion) TICKET-MOCH-2026-0421: Reply lock cost Phase 2 / Hứa khách: EOD thứ Tư 24/4 / Deadline nội bộ: EOD thứ Ba 23/4 / Owner: Dũng / Người cần dự: Hà CTO + chị Hương + anh Tuấn / Dữ kiện: 3 báo giá + thực tích Phase 1 / Trạng thái: open.",
+          "tone": "neutral",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_30_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(Slack #naibu-soudan) @ハーCTO @フオン @トゥアン 火曜 (4/23) 11:00-11:30 で持ち帰り相談セットしました。アジェンダと判断材料は TICKET-MOCH-2026-0421 をご確認ください。",
+          "sentence_translation": "(Slack #naibu-soudan) @anh Hà CTO @chị Hương @anh Tuấn em đã set buổi tham vấn lúc 11:00-11:30 thứ Ba (23/4). Agenda và dữ kiện em đã ghi trong TICKET-MOCH-2026-0421 ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_30_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(火曜 11:30、会議後) 決定: 案B (¥18M)。Decision Register DR-2026-0423 起票。月曜の予定通り、明日 EOD までに松本様へ回答メール送付します。",
+          "sentence_translation": "(Thứ Ba 11:30, sau họp) Quyết: phương án B (¥18M). Mở DR-2026-0423 trong Decision Register. Đúng lịch thứ Hai, em sẽ gửi mail reply anh Matsumoto trước EOD ngày mai ạ.",
+          "tone": "neutral",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_30_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(水曜16時、メール) 松本様、お世話になっております。先日お持ち帰りした Phase 2 lock cost の件、社内検討の結果、¥18M でご提案させていただけますでしょうか。詳細は添付ファイルをご確認くださいませ。Phase 2 内 cost lock いただけますと幸いです。",
+          "sentence_translation": "(Thứ Tư 16h, mail) Anh Matsumoto, lúc nào cũng cảm ơn anh. Việc lock cost Phase 2 hôm trước em đã mang về, sau khi tham vấn nội bộ, em xin đề xuất ¥18M ạ. Chi tiết em đính kèm file. Mong anh lock cost cho Phase 2 ạ.",
+          "tone": "formal",
+          "annotation_ids": ["4"]
+        },
+        {
+          "line_id": "rule_30_good_05",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ご回答ありがとうございます。約束通りの期日でしたね。社内で検収しまして金曜までにお返事します。",
+          "sentence_translation": "Cảm ơn em reply. Đúng ngày hứa nhỉ. Tôi sẽ check nội bộ và phản hồi trước thứ Sáu.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_30_kp_01",
+      "speaker": "zun",
+      "sentence": "先日お持ち帰りした〇〇の件、社内検討の結果、〇〇でご提案させていただけますでしょうか。",
+      "sentence_translation": "Việc 〇〇 hôm trước em đã mang về, sau khi tham vấn nội bộ, em xin đề xuất 〇〇 ạ.",
+      "purpose": "持ち帰り回答の冒頭定型",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_30_kp_02",
+      "speaker": "zun",
+      "sentence": "顧客約束 〇〇、社内期限 〇〇 (前日)、owner 〇〇 でチケット起票しました。",
+      "sentence_translation": "Em đã mở ticket: hứa khách 〇〇, deadline nội bộ 〇〇 (trước 1 ngày), owner 〇〇.",
+      "purpose": "持ち帰りチケット起票報告",
+      "slow_audio": false
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_30_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "客先で『来週水曜EODまでに回答します』と持ち帰った場合、社内期限の最適な設定は?",
+      "options": [
+        "顧客と同じ来週水曜EOD",
+        "1週間後の翌週水曜",
+        "顧客期限の前日（火曜EOD）",
+        "特に期限を設けない"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "社内期限 = 顧客期限 - 1日のバッファルール。1日の余裕で突発事故を吸収できる。同日設定はゼロバッファで危険。",
+        "vi": "Deadline nội bộ = deadline khách - 1 ngày là rule buffer. 1 ngày dư hấp thụ sự cố. Đặt cùng ngày = 0 buffer, nguy hiểm."
+      }
+    }
+  ]
+}

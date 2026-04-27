@@ -1,0 +1,186 @@
+{
+  "rule_id": "rule_13",
+  "rule_slug": "アジェンダ説明",
+  "title": {
+    "ja": "アジェンダ説明",
+    "vi": "Giới thiệu agenda + thời lượng"
+  },
+  "rule_context": {
+    "ja": "司会のズンがアジェンダを宣言。点数→各議題の番号・タイトル・時間・担当を順に提示。",
+    "vi": "người chủ trì Dũng giới thiệu agenda. Đếm số mục → từng mục đầy đủ số / tên / thời lượng / phụ trách."
+  },
+  "related_rules": [
+    "rule_01",
+    "rule_09",
+    "rule_14",
+    "rule_15",
+    "rule_16"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 全体像が見えない曖昧な説明",
+      "label_vi": "XẤU — Mô tả vague, không có overview",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『いくつか』『とか』など曖昧表現で開始。客は会議の総時間と議題数が掴めず、後の予定が立てられない。",
+        "vi": "Mô tả vague kiểu 'vài cái', 'kiểu...'. Khách không biết tổng thời gian và sốmục → không lên lịch tiếp được."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_13_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "では今日のアジェンダ、いくつかあります。進捗とか、課題とか…",
+          "sentence_translation": "Vâng, agenda hôm nay có vài cái. Kiểu tiến độ, vấn đề các kiểu...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_13_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "ズンさん、何分の会議で何議題でしょうか？時間が読めなくて…",
+          "sentence_translation": "Dũng à, họp bao nhiêu phút và bao nhiêumục vậy? Anh không tính được thời gian...",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_13_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、4議題で60分です。1番目から…",
+          "sentence_translation": "Ồ, 4 mục, 60 phút ạ. Bắt đầu mục 1...",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_13_bad_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "先に全体像をいただけますか。後の予定もあるので。",
+          "sentence_translation": "Cho anh xem overview tổng trước nhé. Anh còn lịch sau nữa.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 点数→詳細→運営方針",
+      "label_vi": "TỐT — Số mục → chi tiết → flow",
+      "display_order": 2,
+      "analysis": {
+        "ja": "『4点・60分』を冒頭で宣言、各議題は『番号→タイトル→時間→担当』のパターン。各議題終了時に合意確認を入れる方針も伝える。",
+        "vi": "Mở đầu nói '4 mục / 60 phút'. Mỗimục theo pattern 'số → tên → thời lượng → phụ trách'. Báo trước rằng cuối mỗimục sẽ chốt thống nhất."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_13_good_01",
+          "highlight_text": "4点ございます",
+          "ja": "議題の数え方は『〇点』。『〇個』はカジュアル過ぎ、業務会議では避ける。",
+          "vi": "Đếmmục dùng 「〇点」. 「〇個」 casual quá, không dùng trong business."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_13_good_02",
+          "highlight_text": "1点目",
+          "ja": "「〇点目」は順序を明示する形。「1つ目」「1番目」より formal。",
+          "vi": "「〇点目」 formal hơn 「1つ目」 「1番目」."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_13_good_03",
+          "highlight_text": "合意確認を入れます",
+          "ja": "各議題終了時に短い確認を挟む方針を伝えると、客は安心して発言できる。",
+          "vi": "Báo trước cuốimục sẽ confirm. Khách yên tâm phát biểu vì biết rõ flow."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_13_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本日のアジェンダは4点ございます。所要時間は合計60分でございます。",
+          "sentence_translation": "Agenda hôm nay gồm 4 mục ạ. Tổng thời lượng là 60 phút ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_13_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "1点目、4月進捗報告 — 10分、ズン。2点目、課題と対応策 — 15分、トゥアン。3点目、5月スコープ協議 — 25分、皆様で。4点目、次回日程・TODO 確認 — 10分、ズン。",
+          "sentence_translation": "Mục 1: Báo cáo tiến độ tháng 4 — 10 phút, em Dũng. Mục 2: Vấn đề và phương án — 15 phút, anh Tuấn. Mục 3: Trao đổi scope tháng 5 — 25 phút, tất cả. Mục 4: Confirm ngày họp tới + TODO — 10 phút, em Dũng.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_13_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "事前にお送りした資料 v1.1 に沿って進めさせていただきます。各議題終了時に簡単な合意確認を入れます。",
+          "sentence_translation": "Em xin phép tiến hành theo tài liệu v1.1 đã gửi trước. Cuối mỗimục em sẽ chốt thống nhất ngắn ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_13_good_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "承知いたしました。よろしくお願いいたします。",
+          "sentence_translation": "Tôi rõ rồi. Phiền em nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_13_kp_01",
+      "speaker": "zun",
+      "sentence": "本日のアジェンダは〇点ございます。所要時間は合計〇〇分でございます。",
+      "sentence_translation": "Agenda hôm nay gồm 〇 mục ạ. Tổng thời lượng là 〇〇 phút ạ.",
+      "purpose": "アジェンダ全体像の宣言",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_13_kp_02",
+      "speaker": "zun",
+      "sentence": "各議題終了時に簡単な合意確認を入れます。",
+      "sentence_translation": "Cuối mỗimục em sẽ chốt thống nhất ngắn ạ.",
+      "purpose": "運営方針の事前共有",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_13_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "アジェンダの議題数を伝える最も適切な表現はどれか？",
+      "options": [
+        "今日のアジェンダはいくつかあります。",
+        "本日のアジェンダは4点ございます。",
+        "アジェンダ4個あるよ。",
+        "色々話します。"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "業務会議では『〇点ございます』が標準。",
+        "vi": "Trong business 「〇点ございます」 là chuẩn."
+      }
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "rule_id": "rule_02",
+  "rule_slug": "名刺の受け取り方",
+  "title": {
+    "ja": "名刺の受け取り方",
+    "vi": "Nhận danh thiếp 2 tay"
+  },
+  "rule_context": {
+    "ja": "HCMCティエンファット本社ロビー、白鷗3名到着。リンが初めて日本人客の名刺を受け取る場面。",
+    "vi": "Lobby Tiên Phát HCMC, đoàn 白鷗 3 người vừa đến. Linh nhận danh thiếp khách Nhật lần đầu."
+  },
+  "related_rules": [
+    "rule_01",
+    "rule_03",
+    "rule_04",
+    "rule_06"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 片手で受け取りすぐ仕舞う",
+      "label_vi": "XẤU — nhận 1 tay rồi nhét túi",
+      "display_order": 1,
+      "analysis": {
+        "ja": "片手受け取り+その場で読まない+即仕舞いの3点ミス。日本側は何も言わないが第一印象は『未訓練ジュニア』に固定。",
+        "vi": "3 lỗi cùng lúc: 1 tay + không đọc + nhét túi. Nhật không nói gì nhưng ấn tượng đầu khóa cứng = 'junior chưa được train'."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_02_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "白鷗株式会社、営業部長の大垣でございます。よろしくお願いいたします。",
+          "sentence_translation": "Tôi là Ōgaki, Giám đốc Kinh doanh Cty Hakuō. Rất mong được hợp tác.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_02_bad_02",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "あ、はい、リンです、よろしくお願いします。",
+          "sentence_translation": "À vâng, em Linh ạ, rất mong được hợp tác.",
+          "tone": "nervous",
+          "speed_multiplier": 1.1
+        },
+        {
+          "line_id": "rule_02_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "…はい。",
+          "sentence_translation": "...Vâng.",
+          "tone": "neutral",
+          "pause_after_ms": 800
+        },
+        {
+          "line_id": "rule_02_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "リンさん、両手で。それから名刺はその場で読むの。",
+          "sentence_translation": "Linh, 2 tay nha em. Với cả danh thiếp phải đọc ngay tại chỗ.",
+          "tone": "firm",
+          "speed_multiplier": 0.95
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 3秒儀式",
+      "label_vi": "TỐT — 3 giây nghi lễ",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_02_good_02",
+          "highlight_text": "両手で角を持つ",
+          "ja": "両手の親指と人差し指で下角を持つ。文字を指で隠さない。",
+          "vi": "2 ngón cái + trỏ giữ 2 góc dưới. KHÔNG che chữ in."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_02_good_02",
+          "highlight_text": "頂戴いたします",
+          "ja": "名刺受領の固定句。『ありがとう』『もらいます』はNG。",
+          "vi": "Câu cố định khi nhận danh thiếp. 'ありがとう' (quá nhẹ) / 'もらいます' (quá thường) đều NG."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_02_good_02",
+          "highlight_text": "大垣 営業部長、よろしくお願いいたします",
+          "ja": "名前+役職を声に出して読む。受領+発音確認+記憶定着の三役。",
+          "vi": "Đọc to tên + chức vụ. Vừa xác nhận đã nhận + check phát âm + ghi nhớ."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_02_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "白鷗株式会社、営業部長の大垣でございます。よろしくお願いいたします。",
+          "sentence_translation": "Tôi là Ōgaki, Giám đốc Kinh doanh Cty Hakuō. Rất mong được hợp tác.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_02_good_02",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "頂戴いたします。ティエンファットのリンと申します。大垣 営業部長、よろしくお願いいたします。",
+          "sentence_translation": "Em xin nhận ạ. Em là Linh bên Tiên Phát. Anh Ōgaki Giám đốc Kinh doanh, rất mong được hợp tác ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_02_good_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "リンさん、こちらこそ。",
+          "sentence_translation": "Cô Linh, tôi cũng vậy.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_02_kp_01",
+      "speaker": "linh",
+      "sentence": "頂戴いたします。",
+      "sentence_translation": "Em xin nhận ạ.",
+      "purpose": "名刺受領の固定句",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_02_kp_02",
+      "speaker": "linh",
+      "sentence": "大垣 営業部長、よろしくお願いいたします。",
+      "sentence_translation": "Anh Ōgaki Giám đốc Kinh doanh, rất mong được hợp tác ạ.",
+      "purpose": "名刺の名前+役職復唱",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_02_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "日本人客から名刺を受け取った直後、最も適切な行動は？",
+      "options": [
+        "ポケットに仕舞って次の人と挨拶を続ける",
+        "両手で持ち、相手の名前と役職を声に出して読む",
+        "すぐに自分の名刺ケースに入れる",
+        "片手で受け取り、もう片手で自分の名刺を渡す"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "両手保持+名前役職復唱がスタンダード。仕舞うのは会議室到着後。",
+        "vi": "2 tay + đọc to tên/chức vụ là chuẩn. Cất chỉ sau khi vào phòng họp."
+      }
+    }
+  ]
+}

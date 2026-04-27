@@ -1,0 +1,166 @@
+{
+  "rule_id": "rule_14",
+  "rule_slug": "全員に届く連絡",
+  "title": {
+    "ja": "全員に届く連絡 (TL;DR + Detail + Action by role)",
+    "vi": "Cấu trúc liên lạc broadcast (TL;DR + Detail + Action item)"
+  },
+  "rule_context": {
+    "ja": "ズンが顧客打ち合わせ後、5件の決定事項を Phase 2 チーム8名へ broadcast する場面。1500字の物語形式から、TL;DR + Action by assignee 形式へ改善。",
+    "vi": "Em Dũng broadcast 5 quyết định sau họp khách cho team Phase 2 (8 người). Cải thiện từ format văn xuôi 1500 chữ sang TL;DR + Action by assignee."
+  },
+  "related_rules": [
+    "rule_13",
+    "rule_16",
+    "rule_21"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 物語形式 1500字",
+      "label_vi": "XẤU — Văn xuôi 1500 chữ",
+      "display_order": 1,
+      "analysis": {
+        "ja": "Action item が文章に埋もれて、各担当者が自分のタスクを抜き出せない。結果、デプロイ担当のハイがタスクを miss。",
+        "vi": "Action item lẫn trong văn xuôi, mỗi người không trích được task của mình. Kết quả: Hải phụ trách deploy bị miss task."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_14_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "件名「今日の打ち合わせ報告」で1500字の物語形式メールを team 全員に送信しました。Action item は文中に散在しています。",
+          "sentence_translation": "Em gửi mail tiêu đề 'Báo cáo họp hôm nay' dạng văn xuôi 1500 chữ cho cả team. Action item nằm rải rác trong văn.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_14_bad_02",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "ズン、デプロイの件、私の担当だったの？メールに書いてあった？",
+          "sentence_translation": "Dũng, vụ deploy là việc của anh hả? Mail có viết không?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_14_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、3パラグラフ目に書きました…",
+          "sentence_translation": "À, em viết ở đoạn 3 ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_14_bad_04",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "3パラグラフ目までに3分かかる。自分の action だけ抜き出せる構造にしてくれないと miss する。",
+          "sentence_translation": "Đến đoạn 3 mất 3 phút. Phải có cấu trúc tách được action của mình thì mới không miss.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — TL;DR + @assignee 形式",
+      "label_vi": "TỐT — TL;DR + @assignee",
+      "display_order": 2,
+      "analysis": {
+        "ja": "件名で priority、TL;DR で全体把握、@assignee セクションで個人タスク。30秒以内に各人が自分の action を確定できる。",
+        "vi": "Tiêu đề cho priority, TL;DR cho overview, section @assignee cho task cá nhân. Mỗi người chốt được action của mình trong 30 giây."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_14_good_01",
+          "highlight_text": "件名「【決定事項5件】4/22 松本様打ち合わせ - Phase 3 移行」",
+          "ja": "件名で件数 + 内容ラベル。subject だけ読む人にも priority を伝える。",
+          "vi": "Tiêu đề có số lượng + label nội dung. Người chỉ đọc subject vẫn nắm priority."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_14_good_02",
+          "highlight_text": "自分の担当2件 (デプロイ準備・CI設定) 確認しました",
+          "ja": "受信者が30秒で自分のタスクを確定できた証拠。これが broadcast の理想形。",
+          "vi": "Bằng chứng người nhận chốt được task của mình trong 30 giây. Đây là form lý tưởng của broadcast."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_14_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "件名「【決定事項5件】4/22 松本様打ち合わせ - Phase 3 移行」で、TL;DR 3行、Detail 5項目、Action by assignee（@トゥアン3件、@ハイ2件、@リン1件）、Next check-in（4/24朝礼）の構造でメール送信しました。",
+          "sentence_translation": "Em gửi mail tiêu đề '[5 quyết định] Họp anh Matsumoto 22/4 - Chuyển Phase 3' theo cấu trúc TL;DR 3 dòng, Detail 5 mục, Action by assignee (@Tuấn 3 việc, @Hải 2 việc, @Linh 1 việc), Next check-in (朝礼 24/4) ạ.",
+          "tone": "neutral",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_14_good_02",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "ズン、自分の担当2件 (デプロイ準備・CI設定) 確認しました。期日 4/26 までに完了します。",
+          "sentence_translation": "Dũng, anh check 2 việc của anh (chuẩn bị deploy, setup CI) rồi. Anh sẽ xong trước 26/4.",
+          "tone": "neutral",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_14_good_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "私の担当3件、了解。優先順位は (1)→(3) で進めます。",
+          "sentence_translation": "3 việc của anh OK. Anh làm theo thứ tự (1) → (3).",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_14_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "了解。4/24 朝礼で進捗確認します。",
+          "sentence_translation": "OK ạ. Em sẽ check tiến độ trong 朝礼 24/4 ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_14_kp_01",
+      "speaker": "zun",
+      "sentence": "件名【決定事項〇件】〇〇。TL;DR：〇〇。Action by assignee：@〇〇 - 〇〇／@〇〇 - 〇〇。Next check-in：〇〇。",
+      "sentence_translation": "Tiêu đề [〇 quyết định] 〇〇. TL;DR: 〇〇. Action by assignee: @〇〇 - 〇〇 / @〇〇 - 〇〇. Next check-in: 〇〇.",
+      "purpose": "broadcast 連絡 4要素テンプレート",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_14_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "team 全員向け broadcast メールで action item を最も伝わりやすく書く方法は？",
+      "options": [
+        "本文の物語の中に自然に織り込む",
+        "末尾に箇条書きで列挙する",
+        "@担当者ごとにセクションを分けて期日付きで明記",
+        "件名にだけ書いて本文では省略"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "@assignee 別セクション + 期日明記が最も miss を防ぐ。物語に埋め込むと担当者は自分のタスクを抜き出せない。",
+        "vi": "Chia section theo @assignee + ghi rõ deadline là cách ít miss nhất. Nhồi vào văn xuôi thì assignee không trích được task của mình."
+      }
+    }
+  ]
+}

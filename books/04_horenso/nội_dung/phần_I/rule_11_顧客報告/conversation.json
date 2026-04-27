@@ -1,0 +1,173 @@
+{
+  "rule_id": "rule_11",
+  "rule_slug": "重要顧客への報告",
+  "title": {
+    "ja": "重要顧客への報告 (formal + ウチ・ソト + ジャーゴン回避)",
+    "vi": "Báo cáo cho khách hàng quan trọng"
+  },
+  "rule_context": {
+    "ja": "ズンが2週間定例の電話で松本PMへ Phase 2 状況を報告する場面。formal 度を1段上げ、社内の役職呼びを外し、ジャーゴンには日本語説明を添える。",
+    "vi": "Em Dũng báo cáo Phase 2 cho anh Matsumoto qua phone (định kỳ 2 tuần). Nâng formal level lên 1 bậc, bỏ title đồng nghiệp Việt, jargon kèm giải thích tiếng Nhật."
+  },
+  "related_rules": ["rule_03", "rule_06", "rule_08"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 内部 tone + 役職呼び + ジャーゴン",
+      "label_vi": "XẤU — Tone nội bộ + title đồng nghiệp + jargon",
+      "display_order": 1,
+      "analysis": {
+        "ja": "ウチ・ソト原則違反（社内同僚を「リーダー」付きで呼ぶ）、未説明ジャーゴン、formal 度不足。重要顧客には3層の差別化が必要。",
+        "vi": "Vi phạm ウチ・ソト (gọi đồng nghiệp với title nội bộ), jargon chưa giải thích, formal thiếu. Khách quan trọng cần 3 layer phân biệt."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_11_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "松本さん、Phase 2 のステータスを共有します。トゥアンリーダーが言うには、リファクタは順調で、CI/CDパイプラインも回ってます。レイテンシも下がりました。",
+          "sentence_translation": "Anh Matsumoto, em chia sẻ status Phase 2. Anh Tuấn-leader bảo refactor ổn, pipeline CI/CD cũng chạy. Latency cũng giảm.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_11_bad_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "すみません、『トゥアンリーダー』とは？それと『CI/CDパイプライン』『レイテンシ』って…技術用語は分かるよう説明していただけますか？",
+          "sentence_translation": "Xin lỗi, 'anh Tuấn-leader' là gì? Còn 'pipeline CI/CD', 'latency'... thuật ngữ kỹ thuật giải thích để tôi hiểu được không?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_11_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、トゥアンは弊社のリーダーで、CI/CDは…",
+          "sentence_translation": "À, Tuấn là leader bên em, CI/CD là...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_11_bad_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ズンさん、お客様向けの報告は、用語をかみ砕いて、社内の役職呼びは外すのが基本ですよ。",
+          "sentence_translation": "Dũng, báo cáo với khách hàng thì phải giải thích thuật ngữ đơn giản, bỏ title đồng nghiệp nội bộ — đó là nguyên tắc cơ bản đó.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — formal + 「弊社の〇〇」+ ジャーゴン説明",
+      "label_vi": "TỐT — formal + 'wagasha no 〇〇' + jargon giải thích",
+      "display_order": 2,
+      "analysis": {
+        "ja": "ご報告でございますで formal 度を1段上げ、ウチ・ソトに従い「弊社のトゥアン」と呼び、ジャーゴンは日本語＋括弧でカバー。お客様が3秒で理解できる構造。",
+        "vi": "「ご報告でございます」 nâng formal 1 bậc. Theo nguyên tắc uchi-soto (trong/ngoài) dùng 「弊社のトゥアン」 (Tuấn bên em). Jargon dùng tiếng Nhật + ngoặc. Khách hiểu trong 3 giây."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_11_good_01",
+          "highlight_text": "ご報告でございます",
+          "ja": "「共有します」より1段上の formal。重要顧客向けの標準。",
+          "vi": "Cao hơn 「共有します」 1 bậc. Tiêu chuẩn cho khách quan trọng."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_11_good_02",
+          "highlight_text": "弊社のトゥアン",
+          "ja": "ウチ・ソト原則。社内同僚の役職敬称を外し、「弊社の」を冠する。",
+          "vi": "Nguyên tắc ウチ・ソト. Bỏ title đồng nghiệp nội bộ, thêm 「弊社の」 phía trước."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_11_good_02",
+          "highlight_text": "自動テストの仕組み(CI/CD)",
+          "ja": "日本語説明を先、ジャーゴンは括弧で補助。お客様が理解できる順序。",
+          "vi": "Giải thích tiếng Nhật trước, jargon trong ngoặc bổ trợ. Thứ tự khách hiểu được."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_11_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "松本様、お時間頂戴し申し訳ございません。Phase 2 進捗のご報告でございます。",
+          "sentence_translation": "Anh Matsumoto, em xin lỗi anh dành thời gian. Em xin báo cáo tiến độ Phase 2 ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_11_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "結論：予定通り進捗、画面ロードは1.2秒から0.4秒まで改善。弊社のトゥアンが技術検証を完了し、自動テストの仕組み(CI/CD)も整いました。",
+          "sentence_translation": "Kết luận: tiến độ đúng kế hoạch, load màn hình cải thiện từ 1.2s xuống 0.4s. Anh Tuấn bên em đã hoàn thành kiểm chứng kỹ thuật, cơ chế tự động test (CI/CD) cũng đã sẵn sàng ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2", "3"]
+        },
+        {
+          "line_id": "rule_11_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご相談：Phase 3 のキックオフを5月7日に予定しております。アジェンダ案を本日中にメールでお送りしてよろしいでしょうか。",
+          "sentence_translation": "Em xin tham vấn: kick-off Phase 3 dự kiến ngày 7/5 ạ. Em gửi anh draft agenda qua mail trong hôm nay được không ạ?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_11_good_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "分かりやすい報告ありがとうございます。アジェンダ、お待ちしております。",
+          "sentence_translation": "Cảm ơn báo cáo dễ hiểu nhé. Tôi sẽ đợi agenda.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_11_kp_01",
+      "speaker": "zun",
+      "sentence": "お時間頂戴し申し訳ございません。〇〇進捗のご報告でございます。",
+      "sentence_translation": "Em xin lỗi anh/chị dành thời gian ạ. Em xin báo cáo tiến độ 〇〇 ạ.",
+      "purpose": "重要顧客向け報告の冒頭句",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_11_kp_02",
+      "speaker": "zun",
+      "sentence": "弊社の〇〇が〇〇を確認しております。",
+      "sentence_translation": "〇〇 bên em đã xác nhận 〇〇 ạ.",
+      "purpose": "ウチ・ソト原則で社内同僚を呼ぶ標準形",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_11_bjt_01",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "重要顧客の松本様に対して、社内の同僚トゥアン氏を紹介する最も適切な表現は？",
+      "options": [
+        "弊社のトゥアンリーダー",
+        "うちのトゥアンさん",
+        "弊社のトゥアン",
+        "トゥアンリーダー"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "ウチ・ソト原則：社外の人に対して社内同僚を呼ぶときは役職敬称を外し「弊社の〇〇」と表現する。",
+        "vi": "Nguyên tắc ウチ・ソト: khi nói với người ngoài, gọi đồng nghiệp nội bộ phải bỏ title chức vụ, dùng 「弊社の〇〇」."
+      }
+    }
+  ]
+}

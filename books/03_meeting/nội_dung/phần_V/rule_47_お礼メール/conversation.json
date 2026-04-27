@@ -1,0 +1,129 @@
+{
+  "rule_id": "rule_47",
+  "rule_slug": "お礼メール",
+  "title": {
+    "ja": "会議後のお礼メール",
+    "vi": "Follow-up email cảm ơn"
+  },
+  "rule_context": {
+    "ja": "Phase 2交渉会議終了後、ズンが大垣営業部長と松本PMに議事録とは別にお礼メールを送る場面。①感謝 ②3つの key takeaway ③次のステップ ④結語の4部構成。",
+    "vi": "Sau họp đàm phán phase 2, em Dũng gửi follow-up mail riêng cho anh Ōgaki + Matsumoto (ngoài biên bản). 4 phần: cảm ơn → 3 takeaway → next step → kết."
+  },
+  "related_rules": ["rule_02", "rule_45", "rule_49"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 議事録のみで終わり",
+      "label_vi": "XẤU — Chỉ gửi biên bản",
+      "display_order": 1,
+      "analysis": {
+        "ja": "議事録は記録、お礼メールは関係構築。両方送るのが日本のビジネス慣習。",
+        "vi": "Biên bản = ghi record, thank-you mail = xây quan hệ. Phải gửi cả 2 mới là chuẩn JP business."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_47_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "ズンさんは議事録だけで、初対面のお礼もないですね…",
+          "sentence_translation": "Dũng chỉ gửi biên bản, không có cảm ơn lần đầu gặp nhỉ...",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 議事録+お礼メール両方",
+      "label_vi": "TỐT — Cả biên bản + thank-you mail",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_47_good_01",
+          "highlight_text": "御礼：4月28日の打合せ",
+          "ja": "subject に「御礼」と日付を入れることで、お礼メールであることが一目で分かる。",
+          "vi": "Subject có 「御礼」 + ngày → khách biết ngay đây là thank-you mail."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_47_good_02",
+          "highlight_text": "以下3点が特に印象に残りました",
+          "ja": "3つの key takeaway を共有することで「ちゃんと聞いていた」signal を出す。",
+          "vi": "Share 3 key takeaway → signal 'tôi nghe kỹ buổi họp'."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_47_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（メール subject）御礼：4月28日の打合せ",
+          "sentence_translation": "(Subject email) Cảm ơn: Buổi họp 28/4",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_47_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（本文）大垣様、松本様 / お世話になっております。本日はお忙しい中、貴重なお時間を頂戴し、誠にありがとうございました。今回の打合せでは、以下3点が特に印象に残りました — ①Phase 2 スコープ A 案の合意、②QA体制の課題共有、③7月末リリースの方向性確認。",
+          "sentence_translation": "(Body) Anh Ōgaki, anh Matsumoto, lúc nào cũng cảm ơn anh ạ. Hôm nay anh chị bận nhưng vẫn dành thời gian quý báu, em xin chân thành cảm ơn ạ. Buổi họp lần này em đặc biệt ấn tượng 3 điểm — (1) đồng thuận scope Phase 2 phương án A, (2) chia sẻ challenge bố trí QA, (3) confirm hướng release cuối tháng 7.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_47_kp_01",
+      "speaker": "zun",
+      "sentence": "本日はお忙しい中、貴重なお時間を頂戴し、誠にありがとうございました。",
+      "sentence_translation": "Hôm nay anh chị bận mà vẫn dành thời gian quý báu, em xin chân thành cảm ơn ạ.",
+      "purpose": "お礼メールの定型オープナー",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_47_kp_02",
+      "speaker": "zun",
+      "sentence": "以下3点が特に印象に残りました。",
+      "sentence_translation": "Em đặc biệt ấn tượng 3 điểm sau đây ạ.",
+      "purpose": "key takeaway の前置き",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_47_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "重要顧客との会議後、最も適切なフォローアップは？",
+      "options": [
+        "議事録のみ送付",
+        "お礼メールのみ送付",
+        "議事録（formal record）+お礼メール（関係構築）の両方を24時間以内に送付",
+        "次回会議まで何も送らない"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "議事録は記録、お礼メールは関係構築。役割が異なるため両方送るのが業界標準。",
+        "vi": "Biên bản = record, thank-you mail = quan hệ. Hai chức năng khác nhau → gửi cả 2 là chuẩn industry."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_47_tpl_01",
+      "format": "email_followup",
+      "title_ja": "会議後お礼メール・テンプレート",
+      "title_vi": "Template Email Cảm Ơn Sau Họp",
+      "content_ja": "件名：御礼：〇月〇日の打合せ\n\n〇〇様\n（CC：〇〇様）\n\nお世話になっております。\nティエンファット社の〇〇でございます。\n\n本日はお忙しい中、貴重なお時間を頂戴し、誠にありがとうございました。\n\n今回の打合せでは、以下3点が特に印象に残りました。\n\n① 〇〇\n② 〇〇\n③ 〇〇\n\nつきましては、本日合意いたしました内容に基づき、〇月〇日までに〇〇をお送りいたします。\n\nまた、議事録は別途同日中にお送り申し上げますので、ご確認のほどお願い申し上げます。\n\n今後ともどうぞよろしくお願い申し上げます。\n\n──\nティエンファット社 〇〇部\n〇〇（〇〇）\nTEL: 〇〇\nE-mail: 〇〇",
+      "content_vi": "[Subject] Cảm ơn: Buổi họp 〇/〇\n\n[Kính gửi anh/chị 〇〇]\n(CC: anh/chị 〇〇)\n\nLúc nào cũng cảm ơn anh/chị giúp đỡ ạ.\nEm 〇〇 bên Thiên Phát đây ạ.\n\nHôm nay anh/chị bận mà vẫn dành thời gian quý báu, em xin chân thành cảm ơn ạ.\n\nBuổi họp lần này em đặc biệt ấn tượng 3 điểm:\n\n(1) 〇〇\n(2) 〇〇\n(3) 〇〇\n\nDựa trên những gì đã thống nhất hôm nay, em sẽ gửi 〇〇 trước 〇/〇 ạ.\n\nNgoài ra, biên bản em sẽ gửi riêng trong ngày, phiền anh/chị xem giúp em ạ.\n\nMong tiếp tục được anh/chị giúp đỡ ạ.\n\n──\nThiên Phát — Phòng 〇〇\n〇〇 (〇〇)\nTEL: 〇〇\nE-mail: 〇〇",
+      "notes_ja": "お礼メールは議事録とは別送。短く（150-200字）、温かいトーン。3つの key takeaway を含めることで「ちゃんと聞いていた」signal を送る。次のアクション+期限も必須。",
+      "notes_vi": "Thank-you mail GỬI RIÊNG, khác biên bản. Ngắn (150-200 chữ JP), tone ấm. Có 3 takeaway → signal 'tôi nghe kỹ'. Bắt buộc kèm next action + deadline."
+    }
+  ]
+}

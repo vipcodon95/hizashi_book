@@ -1,0 +1,243 @@
+{
+  "rule_id": "08-01",
+  "rule_slug": "雑談のタイミング",
+  "title": {
+    "vi": "Khi nào 'tán' được?",
+    "ja": "雑談のタイミング"
+  },
+  "rule_context": {
+    "luan_diem_vi": "雑談 không tùy hứng — có 4 cửa sổ vàng (trước họp / sau họp / di chuyển / izakaya) và 3 vùng cấm (đang negotiation, khách stress, lần đầu gặp).",
+    "luan_diem_ja": "雑談には『黄金の4タイミング(会議前・後・移動中・居酒屋)』と『3禁止ゾーン(交渉中・お客様ストレス時・初対面前)』がある。",
+    "boi_canh_vi": "Tháng 5/2026, Dũng + Tuấn onsite Tokyo 3 ngày làm việc với Ōgaki / Matsumoto / Nakamura. Lịch dày, dinner 2 buổi.",
+    "boi_canh_ja": "2026年5月、ズンとトゥアンが東京出張3日間、大垣・松本・中村と打ち合わせ + 会食2回。",
+    "muc_tieu_vi": "Học cách nhận biết 4 cửa sổ vàng và 3 vùng cấm để 'tán' đúng lúc."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "02",
+      "topic": "Quy tắc 80/20"
+    },
+    {
+      "book": "08",
+      "rule": "08",
+      "topic": "8 chủ đề cấm"
+    },
+    {
+      "book": "03",
+      "rule": "27",
+      "topic": "Small talk basic"
+    },
+    {
+      "book": "06",
+      "rule": "27",
+      "topic": "Dinner conversation"
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "TRƯỚC HỌP (5 phút buffer)",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "大垣部長、おはようございます。今朝は冷えますね。昨日のホテル、お休みになれましたか?",
+          "vi": "Anh Ōgaki, chào anh. Sáng nay lạnh nhỉ. Tối qua khách sạn anh có dễ ngủ không ạ?"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "ああズンさん、おはよう。実はね、新大阪からの新幹線で爆睡してしまって、ホテル着いたら逆に目が冴えちゃって(笑)",
+          "vi": "À Dũng. Thật ra trên Shinkansen từ Shin-Osaka tôi ngủ say lắm, đến khách sạn lại tỉnh ngắc (cười)."
+        },
+        {
+          "speaker": "zun",
+          "ja": "あはは、それは『新幹線あるある』ですね。今日のキックオフ、よろしくお願いします。",
+          "vi": "Haha, đúng là 'chuyện thường gặp trên Shinkansen' ạ. Hôm nay kickoff nhờ anh."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "こちらこそ。じゃあ始めよっか。",
+          "vi": "Tôi cũng vậy. Bắt đầu nhé."
+        }
+      ]
+    },
+    {
+      "scenario": "SAU HỌP (đi cùng ra thang máy)",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "中村CFO、本日もありがとうございました。北海道は、もうそろそろ桜の季節ですか?",
+          "vi": "Anh Nakamura, hôm nay cảm ơn anh nhiều. Hokkaido sắp đến mùa hoa anh đào chưa ạ?"
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "いやあ、東京とは1か月遅れでね。札幌は5月の連休がやっと見頃ですよ。ズンさん、桜は見たことある?",
+          "vi": "Ờ, Hokkaido chậm hơn Tokyo một tháng. Sapporo phải Golden Week mới nở rộ. Em đã ngắm hoa anh đào bao giờ chưa?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "去年、上野公園で初めて見ました。雪のように散るのが本当に綺麗で…",
+          "vi": "Năm ngoái lần đầu em ngắm ở công viên Ueno. Cánh hoa rơi như tuyết thật sự đẹp."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "いいね。今度札幌に来るときは円山公園を案内するよ。エレベーターどっち?",
+          "vi": "Hay. Lần sau đến Sapporo tôi dẫn đi công viên Maruyama. Thang máy đường nào?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "こちらです。本日もお疲れ様でした。",
+          "vi": "Bên này ạ. Hôm nay anh vất vả rồi."
+        }
+      ]
+    },
+    {
+      "scenario": "TAXI / di chuyển",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "松本さん、午後は本社の方も合流されるんですよね?",
+          "vi": "Anh Matsumoto, chiều có anh chị bên trụ sở chính sang cùng đúng không ạ?"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "うん、CTOも来るよ。ところでズンさん、東京は何回目?",
+          "vi": "Ừ, CTO cũng đến. Mà này Dũng, đây là lần thứ mấy em đến Tokyo?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "3回目です。ただ毎回出張で、観光らしい観光ができていなくて…松本さんのおすすめスポット、何かありますか?",
+          "vi": "Lần thứ 3 ạ. Nhưng đều đi công tác nên chưa đi tham quan đàng hoàng. Anh Matsumoto có chỗ nào gợi ý không ạ?"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "ああ、それなら月島のもんじゃがいいよ。次回時間あったらご案内しますよ。",
+          "vi": "À, vậy thì monjayaki ở Tsukishima hay đó. Lần sau có thời gian tôi dẫn đi."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ぜひ!もんじゃは初めてです、楽しみです。",
+          "vi": "Vâng ạ! Em chưa ăn monjayaki bao giờ, mong lắm ạ."
+        }
+      ]
+    },
+    {
+      "scenario": "VÙNG CẤM — đang negotiation",
+      "type": "bad",
+      "context_vi": "14:00 họp giá Phase 4. Ōgaki vừa đề xuất giảm 8%, Tuấn đang tính lại. Bầu không khí căng.",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "あ、そういえば大垣さん、阪神今シーズン調子いいですよね!",
+          "vi": "[NG] À mà này anh Ōgaki, mùa này Hanshin Tigers chơi hay quá nhỉ!"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "…え、ああ…まあ…",
+          "vi": "...ờ, à... thì..."
+        }
+      ],
+      "why_bad": "Khách đang chờ counter-offer của mình. Cắt ngang bằng baseball = không đọc không khí, mất uy tín đàm phán. Đúng: im lặng đợi Tuấn xong tính → trả lời nghiêm túc về giá → SAU KHI chốt deal mới mở topic baseball."
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "Trước họp",
+      "ja": "今朝は冷えますね。",
+      "vi": "Sáng nay lạnh nhỉ.",
+      "use": "Mở thời tiết — luôn an toàn"
+    },
+    {
+      "category": "Trước họp",
+      "ja": "昨日はよくお休みになれましたか?",
+      "vi": "Tối qua anh có dễ ngủ không ạ?",
+      "use": "Quan tâm khi khách bay/Shinkansen đến"
+    },
+    {
+      "category": "Trước họp",
+      "ja": "東京は何度目ですか?",
+      "vi": "Đây là lần thứ mấy anh đến Tokyo?",
+      "use": "Mở topic du lịch nhẹ"
+    },
+    {
+      "category": "Sau họp",
+      "ja": "本日もありがとうございました。",
+      "vi": "Hôm nay cảm ơn anh nhiều.",
+      "use": "Đóng business mode chính thức"
+    },
+    {
+      "category": "Sau họp",
+      "ja": "ご出身の[地名]、もう[季節]の季節ですか?",
+      "vi": "Quê anh ở [địa danh], sắp tới mùa [...] chưa ạ?",
+      "use": "Mở regional — KEY pattern"
+    },
+    {
+      "category": "Taxi",
+      "ja": "松本さんのおすすめのお店、ありますか?",
+      "vi": "Anh có quán nào gợi ý không ạ?",
+      "use": "Mở food topic an toàn"
+    },
+    {
+      "category": "Taxi",
+      "ja": "お休みの日は何をされていますか?",
+      "vi": "Cuối tuần anh hay làm gì ạ?",
+      "use": "Mở hobby — dùng cho khách thân"
+    },
+    {
+      "category": "Izakaya",
+      "ja": "お疲れ様でした、まずは乾杯しましょう!",
+      "vi": "Hôm nay vất vả rồi, đầu tiên là cạn ly đã!",
+      "use": "Mở dinner mode"
+    },
+    {
+      "category": "Izakaya",
+      "ja": "これ美味しそうですね!",
+      "vi": "Cái này nhìn ngon nhỉ!",
+      "use": "Khen món — JP rất thích"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "次のうち、雑談を始めるのに最も適切なタイミングはどれですか?",
+      "options": [
+        "A. 価格交渉の真っ最中、お客様が考え込んでいる時",
+        "B. 会議が終わって、お客様と一緒にエレベーターに向かう時",
+        "C. 初対面で名刺交換の前",
+        "D. お客様が緊急の電話を切った直後"
+      ],
+      "answer": "B",
+      "explain_vi": "Sau họp đi cùng ra hành lang là cửa sổ vàng số 2. A = vùng cấm negotiation. C = chưa giao danh thiếp coi là suồng sã. D = khách đang bận tâm việc khác."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "お客様が雑談の最中に「あ、まあ…」と返した場合、その意図は?",
+      "options": [
+        "A. その話題を続けたい",
+        "B. その話題をあまり続けたくない、やんわりと拒否",
+        "C. 質問の意味が分からない",
+        "D. もっと詳しく聞きたい"
+      ],
+      "answer": "B",
+      "explain_vi": "「あ、まあ…」là tín hiệu nhẹ rằng họ không muốn tiếp topic. Phải đổi chủ đề ngay."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "「なれなれしい」と「親しみやすい」の違いとして正しいものは?",
+      "options": [
+        "A. ほぼ同じ意味",
+        "B. 「なれなれしい」は良い意味、「親しみやすい」は悪い意味",
+        "C. 「なれなれしい」は不適切に親しすぎる(NG)、「親しみやすい」は感じが良くて近づきやすい(OK)",
+        "D. 年齢による違い"
+      ],
+      "answer": "C",
+      "explain_vi": "なれなれしい = suồng sã quá mức, NG. 親しみやすい = dễ gần, tích cực. Cẩn thận khi 雑談 đầu tiên gặp = dễ thành なれなれしい."
+    }
+  ],
+  "templates": []
+}

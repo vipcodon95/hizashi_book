@@ -1,0 +1,199 @@
+{
+  "rule_id": "rule_19",
+  "rule_slug": "コート脱ぎのタイミング",
+  "title": {
+    "ja": "コート脱ぎのタイミング",
+    "vi": "Cởi áo khoác trước cửa phòng họp"
+  },
+  "rule_context": {
+    "ja": "12月Tokyo冬、ズン+トゥアンがコート+マフラー着用で会議室803前到着。入室前にコート脱ぐマナー検証。",
+    "vi": "Tháng 12 Tokyo lạnh, Dũng + Tuấn mặc coat + muffler đến trước phòng 803. Manner cởi coat trước khi vào."
+  },
+  "related_rules": [
+    "rule_17",
+    "rule_20",
+    "rule_21"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — コート着用入室・着席後脱ぎ",
+      "label_vi": "XẤU — vào phòng còn coat + cởi sau khi ngồi",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①コート着で入室=外気をmeeting roomに持込 ②着席後脱ぎ=『疲れた/暑い』signaling ③田中が預かる役で host task 不要に転嫁。",
+        "vi": "(1) Vào phòng còn coat = mang khí ngoài vào. (2) Cởi sau khi ngồi = signaling 'mệt/nóng'. (3) Tanaka phải nhận coat = bị shift task."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_19_bad_01",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "ようこそ、お入りください。",
+          "sentence_translation": "Hân hạnh, mời anh vào ạ.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_19_bad_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "失礼します。（コート+マフラー着用のまま入室）",
+          "sentence_translation": "Em xin phép. (vào phòng còn nguyên coat + muffler)",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_19_bad_03",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "あの…コート、お預かりしましょうか？",
+          "sentence_translation": "Ơ... coat, em xin giữ giúp anh ạ?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_19_bad_04",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "あ、すみません、ちょっと暑くて…",
+          "sentence_translation": "À xin lỗi, hơi nóng quá...",
+          "tone": "apologetic"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 入室前脱ぎ・左腕畳み",
+      "label_vi": "TỐT — cởi trước cửa + gấp tay trái",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_19_good_01",
+          "highlight_text": "コート脱ごう",
+          "ja": "会議室前30秒で脱ぎ。building入る前 or 廊下で実施。着席後はNG。",
+          "vi": "Cởi 30 giây trước cửa phòng. Trước cửa building hoặc tại hành lang. Sau khi ngồi NG."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_19_good_02",
+          "highlight_text": "2折で左腕に",
+          "ja": "Inside-out 2折(外側を内に)で左腕に畳載せ。右手は bow/握手用に空けておく。",
+          "vi": "Gấp inside-out 2 lần (mặt ngoài giấu vào trong), đặt cẳng tay trái. Tay phải để bow/shake hand."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_19_good_05",
+          "highlight_text": "失礼いたします",
+          "ja": "入室時固定句。コート左手・bow15度・右手で扉押さえながら。",
+          "vi": "Câu cố định lúc vào. Coat tay trái, bow 15°, tay phải giữ cửa."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_19_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "コート脱ごう。",
+          "sentence_translation": "Cởi áo nha.",
+          "tone": "neutral",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_19_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（コート+マフラーを2折で左腕に畳載せ）",
+          "sentence_translation": "(gấp coat + muffler 2 lần, đặt lên cẳng tay trái)",
+          "tone": "neutral",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_19_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（ノック2回）",
+          "sentence_translation": "(gõ cửa 2 lần)",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_19_good_04",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "どうぞ。",
+          "sentence_translation": "Mời vào.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_19_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "失礼いたします。",
+          "sentence_translation": "Em xin phép ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_19_good_06",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "コート、こちらのハンガーへどうぞ。",
+          "sentence_translation": "Coat, mời các anh treo móc bên này ạ.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_19_good_07",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。",
+          "sentence_translation": "Cảm ơn anh ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_19_kp_01",
+      "speaker": "zun",
+      "sentence": "コートは入室前に脱ぎ、2折で左腕に畳む。",
+      "sentence_translation": "Coat cởi trước khi vào, gấp 2 lần đặt cẳng tay trái.",
+      "purpose": "コート脱ぎ手順",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_19_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "冬の訪問でコートを脱ぐタイミングとして最も適切なのは？",
+      "options": [
+        "会議室入室後、着席してから",
+        "建物に入る前 or 会議室入室前",
+        "担当者に促されてから",
+        "脱がなくてよい"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "建物外気を会議室に持ち込まないため入室前脱ぐ。着席後脱ぎは『疲れ』signaling。",
+        "vi": "Cởi trước khi vào để không mang khí ngoài vào phòng họp. Cởi sau khi ngồi = signaling 'mệt'."
+      }
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "rule_id": "08-22",
+  "rule_slug": "東北",
+  "title": {
+    "vi": "Tohoku — tuyết, sake, lễ hội mùa hè",
+    "ja": "東北"
+  },
+  "regional_focus": "Tohoku 6県 (青森・岩手・秋田・宮城・山形・福島)",
+  "rule_context": {
+    "luan_diem_vi": "Tohoku = 6 tỉnh, mỗi tỉnh 1 đặc sản + 1 lễ hội biểu tượng. Nhớ 3大祭り (ねぶた/七夕/竿燈) + 6 món tỉnh.",
+    "luan_diem_ja": "東北6県の名物・祭り(ねぶた・七夕・竿燈の三大祭り含む)を覚えれば深い雑談ができる。",
+    "boi_canh_vi": "Tháng 6/2026, dinner cuối tuần với 4 khách Hakuō Tokyo HQ. Anh Yoshida (Sendai) + anh Endō (Yamagata) sang giao lưu.",
+    "boi_canh_ja": "2026年6月、ディナーで4名と交流。仙台出身の吉田、山形出身の遠藤と東北話題で深掘り。",
+    "muc_tieu_vi": "Phân biệt 6 tỉnh Tohoku — đặc sản, sake, festival cụ thể."
+  },
+  "related_rules": [
+    {"book": "08", "rule": "12", "topic": "Sake/shochu topic"},
+    {"book": "08", "rule": "16", "topic": "Festival theo mùa"}
+  ],
+  "conversations": [
+    {
+      "scenario": "Sendai 牛タン topic",
+      "type": "good",
+      "lines": [
+        {"speaker": "zun", "ja": "吉田さん、ご出身は仙台でしたよね。先月、仙台牛タンの話を松本さんから聞いて、とても気になっていまして…", "vi": "Anh Yoshida quê Sendai nhỉ. Tháng trước em nghe anh Matsumoto kể về gyūtan Sendai, em quan tâm lắm..."},
+        {"speaker": "matsumoto", "ja": "そうそう、仙台は牛タン!利久と喜助、どっちがいいかで地元民が論争するくらいですよ。", "vi": "Đúng rồi, Sendai = gyūtan! Riku vs Kisuke, người địa phương còn tranh luận nhau."},
+        {"speaker": "zun", "ja": "では地元の方は、どちら派ですか?", "vi": "Vậy người địa phương anh thuộc phe nào ạ?"},
+        {"speaker": "matsumoto", "ja": "私は喜助。塩加減が絶妙で。あとずんだ餅もぜひ食べてほしいなあ。", "vi": "Anh phe Kisuke. Vị muối tuyệt vời. Còn zunda mochi nữa, mong em ăn thử."},
+        {"speaker": "zun", "ja": "ずんだ、枝豆を潰したお餅ですよね。優しい甘さって聞きました。", "vi": "Zunda, mochi đậu nành xanh nghiền nhỉ. Em nghe vị ngọt nhẹ."},
+        {"speaker": "matsumoto", "ja": "よく知ってるね!夏の七夕まつり、いつか見に来てください。日本三大七夕です。", "vi": "Em rành ghê! Tanabata mùa hè, lúc nào đó đến xem. Một trong 3 Tanabata lớn Nhật."}
+      ]
+    },
+    {
+      "scenario": "Yamagata sake + さくらんぼ",
+      "type": "good",
+      "lines": [
+        {"speaker": "zun", "ja": "遠藤さんは山形のご出身ですよね。山形といえばさくらんぼと米沢牛、それと日本酒…", "vi": "Anh Endō quê Yamagata nhỉ. Yamagata thì cherry, bò Yonezawa, và nihonshu..."},
+        {"speaker": "tanaka_pmo", "ja": "お、よく言ってくれた!山形は東北一の酒どころですよ。出羽桜、十四代、楯野川…全部山形です。", "vi": "Ồ, em nói chuẩn! Yamagata là vùng sake số 1 Tohoku. Dewazakura, Juyondai, Tatenokawa... đều Yamagata."},
+        {"speaker": "zun", "ja": "十四代!幻の酒って聞きました。", "vi": "Juyondai! Em nghe là sake huyền thoại."},
+        {"speaker": "tanaka_pmo", "ja": "そう、なかなか手に入らない。今度東京で見つけたら一緒に飲みましょう。あと、さくらんぼは佐藤錦が王様。6月が旬ですよ。", "vi": "Đúng, khó kiếm lắm. Lần sau ở Tokyo tìm được, mình uống cùng. Còn cherry thì Sato Nishiki là vua. Tháng 6 là mùa."},
+        {"speaker": "zun", "ja": "山形の蔵王温泉もいつか行ってみたいんです。樹氷が有名ですよね。", "vi": "Onsen Zaō Yamagata em muốn đi lúc nào đó. Cây băng nổi tiếng nhỉ."},
+        {"speaker": "tanaka_pmo", "ja": "冬の樹氷もいいけど、夏の蔵王も最高だよ。山形花笠まつりは8月、ぜひ。", "vi": "Cây băng mùa đông hay, nhưng Zaō mùa hè cũng đỉnh. Hanagasa matsuri tháng 8, đến nhé."}
+      ]
+    },
+    {
+      "scenario": "東北三大祭り + Akita なまはげ",
+      "type": "good",
+      "lines": [
+        {"speaker": "zun", "ja": "東北三大祭りといえば、青森のねぶた、仙台の七夕、そして…", "vi": "Tohoku 3 đại lễ hội thì có Nebuta Aomori, Tanabata Sendai, và..."},
+        {"speaker": "matsumoto", "ja": "秋田の竿燈!よく言えました。", "vi": "Kantō Akita! Em nói chuẩn rồi."},
+        {"speaker": "zun", "ja": "竿燈、長い棒に提灯を46個つけて額や腰でバランス取るやつですよね。職人技ですね…", "vi": "Kantō là sào dài đèn lồng 46 cái, cân bằng trên trán hay hông. Kỹ nghệ thần thánh nhỉ..."},
+        {"speaker": "tanaka_pmo", "ja": "秋田はなまはげもユニーク。大晦日に『泣ぐ子はいねがー』って子どもを驚かせる伝統。UNESCO無形文化遺産にも登録されてますよ。", "vi": "Akita còn có Namahage độc đáo. Đêm 30 Tết hỏi 'có đứa trẻ nào khóc không' để dọa trẻ. Đã được UNESCO ghi nhận."},
+        {"speaker": "zun", "ja": "きりたんぽ鍋といぶりがっこ、秋田の冬って美味しそうですね。", "vi": "Lẩu kiritanpo và iburigakko, mùa đông Akita ngon nhỉ."},
+        {"speaker": "matsumoto", "ja": "ズンさん、東北検定の合格レベルだね(笑)", "vi": "Em đạt chuẩn Tohoku-kentei luôn (cười)."}
+      ]
+    },
+    {
+      "scenario": "Iwate わんこそば + Fukushima 喜多方",
+      "type": "good",
+      "lines": [
+        {"speaker": "zun", "ja": "岩手のわんこそば、100杯チャレンジって聞きました。本当ですか?", "vi": "Wankosoba Iwate em nghe thử thách 100 bát. Thật ạ?"},
+        {"speaker": "matsumoto", "ja": "本当だよ。東家(あづまや)が老舗で有名。ベテランは150杯食べる人もいるよ。", "vi": "Thật. Quán Azumaya nổi tiếng lâu đời. Cao thủ ăn 150 bát luôn."},
+        {"speaker": "zun", "ja": "すごい…!福島は喜多方ラーメンが有名ですよね。", "vi": "Ghê quá... Fukushima thì ramen Kitakata nổi tiếng nhỉ."},
+        {"speaker": "tanaka_pmo", "ja": "喜多方は朝ラーメン文化があってね。坂内食堂が王道。あっさり醤油、平打ち縮れ麺。", "vi": "Kitakata có văn hóa ramen sáng. Bannai shokudō là chính thống. Shoyu thanh, mì xoăn dẹt."},
+        {"speaker": "zun", "ja": "東北6県、それぞれ全然違うんですね。桃もありましたよね、福島。", "vi": "Tohoku 6 tỉnh khác nhau hết. Còn đào nữa, ở Fukushima."},
+        {"speaker": "matsumoto", "ja": "福島の桃は天下一品。あかつき、ゆうぞらが品種。", "vi": "Đào Fukushima số 1 thiên hạ. Akatsuki, Yūzora là giống."}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"category": "Mở topic", "ja": "ご出身は東北のどちらですか?", "vi": "Quê anh Tohoku tỉnh nào ạ?", "use": "Pattern: hỏi cụ thể tỉnh, không gộp"},
+    {"category": "Sendai", "ja": "仙台といえば牛タンですよね。利久派ですか喜助派ですか?", "vi": "Sendai thì gyūtan, anh phe Riku hay Kisuke?", "use": "Depth quán nổi tiếng"},
+    {"category": "Yamagata", "ja": "山形は東北一の酒どころですよね。", "vi": "Yamagata vùng sake số 1 Tohoku.", "use": "Khen cụ thể"},
+    {"category": "Aomori", "ja": "ねぶた、いつか直接見たいです。", "vi": "Nebuta, em muốn xem trực tiếp."},
+    {"category": "Akita", "ja": "秋田の竿燈、職人技がすごいですね。", "vi": "Kantō Akita, kỹ nghệ thần thánh nhỉ."},
+    {"category": "Iwate", "ja": "わんこそば、100杯目指してみたいです。", "vi": "Wankosoba em muốn thử 100 bát."},
+    {"category": "Fukushima", "ja": "喜多方ラーメン、朝ラー文化って珍しいですよね。", "vi": "Kitakata ramen có văn hóa ramen sáng, độc đáo nhỉ."}
+  ],
+  "regional_cheatsheet": {
+    "aomori": {"capital": "青森市", "food": "大間マグロ, りんご, せんべい汁", "festival": "ねぶた祭 (8月)", "sake": "田酒, 豊盃"},
+    "iwate": {"capital": "盛岡市", "food": "わんこそば(東家), 盛岡冷麺, じゃじゃ麺", "festival": "チャグチャグ馬コ", "sake": "南部美人"},
+    "akita": {"capital": "秋田市", "food": "きりたんぽ鍋, いぶりがっこ, 比内地鶏", "festival": "竿燈まつり (8月) + なまはげ (大晦日)", "sake": "新政, 高清水"},
+    "miyagi": {"capital": "仙台市", "food": "牛タン(利久/喜助), ずんだ餅, 笹かまぼこ", "festival": "仙台七夕 (8月)", "sake": "浦霞, 一ノ蔵"},
+    "yamagata": {"capital": "山形市", "food": "さくらんぼ佐藤錦, 米沢牛, 芋煮", "festival": "山形花笠 (8月)", "sake": "出羽桜, 十四代, 楯野川"},
+    "fukushima": {"capital": "福島市", "food": "喜多方ラーメン(坂内), 桃, 馬刺し, 会津こづゆ", "festival": "相馬野馬追 (7月)", "sake": "飛露喜, 大七, 写楽"}
+  },
+  "ng_list": [
+    "「東北のどこですか?」 quá đột ngột — dùng 「ご出身は?」",
+    "Gộp 6 tỉnh khi nói '東北の方'",
+    "Nhầm ねぶた/竿燈/七夕",
+    "「東北弁可愛いですね」 — patronizing",
+    "Hỏi 2011年 đại địa chấn trừ phi khách mở"
+  ],
+  "vocab": [
+    {"kanji": "牛タン", "yomi": "ぎゅうたん", "vi": "Lưỡi bò nướng Sendai"},
+    {"kanji": "ずんだ餅", "yomi": "ずんだもち", "vi": "Mochi đậu nành xanh"},
+    {"kanji": "わんこそば", "yomi": "わんこそば", "vi": "Soba bát nhỏ Iwate"},
+    {"kanji": "きりたんぽ鍋", "yomi": "きりたんぽなべ", "vi": "Lẩu cơm que Akita"},
+    {"kanji": "なまはげ", "yomi": "なまはげ", "vi": "Ác quỷ Akita UNESCO"},
+    {"kanji": "竿燈まつり", "yomi": "かんとうまつり", "vi": "Lễ đèn sào Akita"},
+    {"kanji": "ねぶた祭", "yomi": "ねぶたまつり", "vi": "Nebuta Aomori"},
+    {"kanji": "さくらんぼ", "yomi": "さくらんぼ", "vi": "Cherry Yamagata"},
+    {"kanji": "十四代", "yomi": "じゅうよんだい", "vi": "Sake huyền thoại Yamagata"},
+    {"kanji": "喜多方ラーメン", "yomi": "きたかたらーめん", "vi": "Ramen Kitakata"},
+    {"kanji": "樹氷", "yomi": "じゅひょう", "vi": "Cây băng tuyết Zaō"}
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "山形出身のお客様に最も自然な雑談トピックは?",
+      "options": ["A. 牛タンの利久と喜助", "B. さくらんぼ佐藤錦", "C. 喜多方ラーメン", "D. 大間マグロ"],
+      "answer": "B",
+      "explain_vi": "佐藤錦 = cherry king của Yamagata. A=Sendai, C=Fukushima, D=Aomori."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「東北一の酒どころです」と言われた場合の適切な反応は?",
+      "options": ["A. 「全国一じゃないんですね」", "B. 「素晴らしいですね、十四代も山形ですよね」", "C. 「酒は新潟が一番では?」", "D. 沈黙"],
+      "answer": "B",
+      "explain_vi": "Knowledge depth + ngưỡng mộ = best. A/C = phản công khó chịu. D = bỏ lỡ topic."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "「いがったね」(仙台弁)の意味は?",
+      "options": ["A. 行きましょう", "B. 良かったね", "C. いかがでしたか", "D. いりません"],
+      "answer": "B",
+      "explain_vi": "「いがった」 = 「良かった」 trong Sendai-ben."
+    }
+  ],
+  "templates": []
+}

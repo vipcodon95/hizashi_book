@@ -1,0 +1,103 @@
+# Rule 33 — Báo nghỉ việc / nghỉ dài hạn / 退職・休暇のホウレンソウ
+
+> **Luận điểm.** Nghỉ việc / nghỉ dài (>2 tuần: maternity, sabbatical, surgery) **không phải news cá nhân, là sự kiện hệ thống**. Junior thường sai: báo sát giờ + không có handover plan. Nguyên tắc: **(1) Notice timing chuẩn — nghỉ việc ≥ 30 ngày, nghỉ dài ≥ 14 ngày, (2) Báo CHO SẾP trước 1-1, KHÔNG broadcast Slack ngay, (3) Handover plan chi tiết: tasks / contacts / docs / replacement candidate, (4) Khách-facing announcement có sếp ký tên, (5) 引き継ぎ期間 (handover period) phải có overlap thực với người nhận**.
+>
+> 退職・長期休暇のホウレンソウ：①30日 (退職)/14日 (長期休暇) 前に通知 ②上司 1-on-1 が最初 ③handover plan明文化 ④客向け案内は上司名義 ⑤実引き継ぎ期間を確保。
+>
+> **Liên quan:** rule 19 (休暇連絡), rule 20 (出張), rule 39 (チーム文化).
+
+---
+
+## Bối cảnh / 場面
+
+Em Hải quyết định du học Đức 6 tháng (sabbatical) bắt đầu từ 1/7. Tuần này 22/4. Còn 70 ngày — lý tưởng. Lần đầu Hải broadcast luôn. Lần 2 đúng pattern.
+
+---
+
+## ❌ Hội thoại XẤU — broadcast trước, không handover
+
+*Slack #general · Slack DM*
+
+| Speaker | Câu |
+|---------|-----|
+| **ハイ** | 「みなさん、7/1 から半年ドイツ留学に行ってきます!引き継ぎは追って共有します!」 |
+| **トゥアン** | 「ハイ、まず私に1-on-1 で相談すべき。今 Phase 2 の DevOps お前1人。半年抜けるなら **handover計画なしの broadcast はNG**。Hà CTO もまだ知らないだろ?」 |
+| **ハイ** | 「あ、すみません…」 |
+| **トゥアン** | 「明日朝1-on-1で。Handover plan ドラフト持参。客への正式案内は Hà CTO 名義で別途出す。Slack post は一旦削除。」 |
+
+**Vì sao xấu:** L1 sai trật tự — broadcast trước khi sếp biết. L2 chỉ ra: phá flow hierarchy + không có handover plan = chaos cho team.
+
+---
+
+## ✅ Hội thoại TỐT — 1-on-1 sếp + handover plan + 客先 announcement
+
+*Slack DM トゥアン · 翌朝1-on-1 · 画面*
+
+| Speaker | Câu |
+|---------|-----|
+| **ハイ** | 「トゥアンさん、ご相談したいことがあるのですが、明日朝 30分お時間いただけますでしょうか?トピック: 個人キャリア計画とハンドオーバーについて。緊急度低、今後3ヶ月の準備期間がございます【1】。」 |
+|  | **ハイ:** 「ご相談です。**7/1 から12/31 まで、6ヶ月間ドイツの大学院でサバティカル**を取得したく、**3ヶ月前の本日4/22にご報告**いたします【2】。事前にハンドオーバー計画ドラフトを作成しました【3】。」 |
+| **ハイ** | 「**Handover Plan**: ① DevOps タスク 12項目 (うち5項目を Linh と共同化、7項目をズンへ移管) / ② AWS 認証情報・パスワード管理 (1Passwordで Hà CTO へ owner 移管) / ③ ドキュメント整備 (運用Runbook v2 を5月末までに完成) / ④ 候補者: 社内ローテーションでフロントエンドからの DevOps 兼任、または採用 / ⑤ Overlap 期間: 6/1〜6/30 の1ヶ月を引き継ぎ専用に充当。」 |
+| **トゥアン** | 「準備が完璧。Hà CTO に1-on-1 を私からセットして。決裁後、客向けの正式案内は **Hà CTO 名義で6月初** に。Slack 全社通知は **客向け案内の翌日**。Hai 個人 broadcast は最後で OK。」 |
+| **ハイ** | 「ありがとうございます。私からチーム個別1-on-1 (リン・ズン) も Hà CTO 通知後に実施します【4】。」 |
+
+📝 **Ghi chú:**
+- 【1】**Slack DM 切り出し** — không gặp đột ngột. Đặt agenda trước.
+- 【2】**3ヶ月前報告** — sabbatical 6 tháng → 3 tháng notice (nghỉ việc cần ≥ 30 ngày, nghỉ dài ≥ 14 ngày, sabbatical càng lâu càng dài).
+- 【3】**Handover Plan có sẵn** — không "sẽ làm sau", phải có ngay buổi 1-on-1.
+- 【4】**Sequence: 1-on-1 sếp → CTO → 客先 (sếp ký) → 全社通知 → 個別 1-on-1** — order quan trọng để khách Nhật cảm thấy được tôn trọng.
+
+---
+
+## 📅 Notice Timing Standard
+
+| Loại nghỉ | Tối thiểu | Lý tưởng | Báo ai trước |
+|-----------|-----------|----------|--------------|
+| 退職 (nghỉ việc) | 30 ngày | 60 ngày | Sếp trực tiếp 1-on-1 |
+| 長期休暇 / sabbatical | 14 ngày | 30 ngày + | Sếp trực tiếp 1-on-1 |
+| 出産・育休 | 60 ngày (luật) | sớm hơn | Sếp + HR |
+| 手術休暇 | ASAP sau khi biết | 1 tuần+ | Sếp + cover plan |
+| 病欠 1-3 ngày | sáng cùng ngày | 1 ngày trước | Cả team |
+
+---
+
+## 📝 Handover Plan structure (5 phần)
+
+```
+① タスク一覧            (ID, owner mới, deadline trong period)
+② アクセス・権限        (passwords, accounts, owner transfer)
+③ ドキュメント         (runbook, README, knowledge base)
+④ 候補者               (replacement / interim cover)
+⑤ Overlap 期間         (実際に並走する1-2週間)
+```
+
+---
+
+## 🎯 Câu chốt
+
+> **「退職・長期休暇は『順番』 — ①上司1-on-1 → ②CTO → ③客向け正式案内 (上司名義) → ④全社 Slack → ⑤チーム1-on-1。Handover Plan 5項目を必ず明文化。」**
+
+---
+
+## ⚠ Tránh
+
+- Broadcast trước khi sếp biết → phá hierarchy + chaos.
+- Notice trễ (< notice tối thiểu) → uy tín đứt + handover gấp.
+- 「あとで handover 計画作ります」 — đầu không có = không nghiêm túc.
+- 客向け announcement do junior tự gửi → phải sếp ký tên.
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 退職 | たいしょく | Nghỉ việc |
+| 休暇 | きゅうか | Nghỉ phép |
+| サバティカル | sabbatical | Sabbatical |
+| 引き継ぎ | ひきつぎ | Bàn giao |
+| ハンドオーバー | handover | Handover |
+| 候補者 | こうほしゃ | Người kế nhiệm tiềm năng |
+| ランブック | runbook | Runbook |
+| Overlap期間 | overlap きかん | Khoảng overlap |
+| 名義 | めいぎ | Đứng tên |

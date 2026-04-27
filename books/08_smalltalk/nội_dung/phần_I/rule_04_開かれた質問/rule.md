@@ -1,0 +1,159 @@
+# Rule 04 — Câu hỏi mở vs đóng / 開かれた質問・閉じた質問
+
+> **Luận điểm.** Câu hỏi đóng (有/無, はい/いいえ) = chết flow trong 2 lượt. Câu hỏi mở (5W1H + いかがでしたか) = khách kể 30 giây tự nhiên. Đổi 1 chữ — đổi cả buổi 雑談.
+
+---
+
+## 🧠 Tâm lý JP (3 dòng)
+
+- Câu hỏi đóng nhiều liên tiếp = "thẩm vấn" (尋問されてる感じ) → khách nặng nề.
+- Câu hỏi mở khéo + thì lịch sự ("〜いかがでしたか") = thể hiện tôn trọng senior.
+- Người Việt hay sai: dịch trực tiếp "Anh có khỏe không?" (お元気ですか — đóng) thay vì "最近どうですか?" (mở).
+
+---
+
+## 🎬 Bối cảnh
+
+3 cấp câu hỏi mở từ mức formal → casual:
+
+| Mức | Pattern | Ví dụ |
+|-----|---------|-------|
+| **Formal** | 〜いかがでしたか / 〜いかがですか | 「週末はいかがでしたか?」 |
+| **Standard** | 〜どうでしたか / 〜どんな[感じ] | 「週末はどうでしたか?」 |
+| **Casual** | 〜どう?(L4-L5 only) | 「週末どうだった?」 |
+
+→ Ngược lại với câu hỏi đóng ("週末良かった?") = khách trả "うん" + im → bạn phải đẻ topic mới.
+
+---
+
+## 💬 4 Scenarios — dialogue thực chiến
+
+### 📍 Scenario 1 — BAD: Toàn câu hỏi đóng → flow chết
+
+*panic · không biết hỏi gì nữa*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「松本さん、週末は良かったですか?」 |
+| **松本** | 「ええ、まあ。」 |
+| **ズン** | 「ゴルフ行きました?」 |
+| **松本** | 「いえ。」 |
+| **ズン** | 「お子さんと過ごされましたか?」 |
+| **松本** | 「ええ。」 |
+| **ズン** | 「…そうですか…」 |
+
+❌ **Vì sao XẤU:** 4 câu hỏi đóng = khách trả 4 lần "Yes/No" + "ええ" → flow chết. Khách không có cơ hội kể chuyện. Bạn cạn topic trong 30 giây.
+
+---
+
+### 📍 Scenario 2 — GOOD: Đổi sang câu hỏi mở → khách kể tự nhiên
+
+*react ngắn + đào sâu mở · kể tiếp 2 phút*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「松本さん、**週末はいかがでしたか?**」【1】 |
+| **松本** | 「いやあ、土曜日は娘の運動会でね、大変だったよ。リレーで一等になって、嬉しそうだった。」 |
+| **ズン** | 「運動会、いいですね!**お嬢様、何年生でいらっしゃるんですか?**」 |
+| **松本** | 「小学4年。今ちょうど運動神経が伸びる時期みたいで…日曜は親父と釣り行ったよ、湾奥でシーバス。」 |
+| **ズン** | 「シーバスですか!**普段はどちらの方面に釣りに?**」 |
+| **松本** | 「東京湾の若洲海浜公園が多いかな…」 |
+
+📝【1】 「いかがでしたか」 thay 「良かったですか」 = mở thay vì đóng. Đẳng cấp giữ nhịp 雑談.
+
+> **VN:** 1 câu hỏi mở khéo → khách kể runny đoạn (運動会 + 釣り) — bạn có 2 topic mới để đào sâu. Khác hẳn scenario 1.
+
+---
+
+### 📍 Scenario 3 — Edge: Khi cần xác nhận sự kiện (đóng OK) → ngay sau đó mở
+
+*đóng — xác nhận fact · mở ngay — đào sâu*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「中村さんは確か、先月札幌に戻られましたよね?」 |
+| **中村** | 「そう、有給使って3日間。」 |
+| **ズン** | 「**3日間でどんな所、回られましたか?**」【2】 |
+| **中村** | 「いやあ、ほとんど実家にいたよ。母親と買い物行ったり、旧友と飲んだり…でね、**藻岩山**に登ったんだ、夜景見に。」 |
+| **ズン** | 「**藻岩山の夜景、どんな感じですか?**東京タワーから見るのとずいぶん違いますか?」 |
+
+📝【2】 Pattern combo: "đóng để xác nhận" → "mở để đào". Đừng cứ đóng-đóng-đóng. Đóng = setup, mở = trận đấu chính.
+
+---
+
+### 📍 Scenario 4 — Câu hỏi mở "tinh" — không hỏi 1 chiều, lồng ý
+
+*với 大垣 ở izakaya · ngạc nhiên + đào*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「大垣さん、関西の食文化って関東と全然違いますよね。**普段、東京での食事で何か物足りないなって思うこと、ありますか?**」【3】 |
+| **大垣** | 「ああ、それね!**うどんよ。** 関東のうどん、汁が黒すぎる。関西の透き通った出汁が恋しくてね。」 |
+| **ズン** | 「そんなに違うんですね。**東京でも関西風出汁の店、ご存知ですか?**」 |
+| **大垣** | 「あるよ、丸の内の『つるとんたん』とか、本格的でね。今度ご一緒しましょう。」 |
+
+📝【3】 Câu hỏi mở "có ý" — đặt trong context (関西 vs 関東) thay vì hỏi suông "好きな食べ物は?". Khách có nguyên cớ để kể sâu, mình thể hiện hiểu vùng miền.
+
+---
+
+## 🎯 Câu vàng copy-paste
+
+```
+■ FORMAL OPEN (senior / khách mới):
+「〜はいかがでしたか?」(週末は・出張は・お試しは)
+「〜について、どのようにお考えですか?」
+「〜のご経験、お聞かせいただけますか?」
+
+■ STANDARD OPEN (khách thân vừa):
+「〜はどうでしたか?」
+「最近どうですか?」
+「〜って、どんな感じですか?」
+
+■ CASUAL OPEN (L4-L5):
+「〜どう?」
+「最近何かハマってる?」
+
+■ ĐÓNG → MỞ COMBO:
+「[xác nhận fact đã biết]ですよね?」(đóng)
+→「で、どんな[感じ/具合/様子]でしたか?」(mở)
+
+■ Câu hỏi mở CÓ Ý (không hỏi suông):
+「[context vùng miền/hoàn cảnh]、〜って、何かありますか?」
+```
+
+---
+
+## ⚠ NG — tuyệt đối tránh
+
+- **3 câu hỏi đóng liên tiếp** → khách cảm thấy "bị thẩm vấn" → flow chết.
+- "**お元気ですか?**" với khách thân → công thức cứng, khách đáp 「元気です」 và hết. (Thay bằng「最近どうですか?」)
+- **Câu hỏi mở quá rộng** ("人生どうですか?") → khách không biết bắt đầu từ đâu.
+- **Câu hỏi mở dồn dập 3-4 câu** không có react ở giữa → giống interview.
+- **Hỏi rồi không lắng nghe**, đợi tới lượt mình tiếp → khách đọc ra ngay.
+
+---
+
+## 📚 Vocab
+
+| 漢字 | よみ | Nghĩa |
+|------|------|-------|
+| 開かれた質問 | ひらかれたしつもん | Câu hỏi mở (open question) |
+| 閉じた質問 | とじたしつもん | Câu hỏi đóng (closed question) |
+| いかがでしたか | — | "Như thế nào ạ?" — formal mở |
+| どんな感じ | — | "Cảm giác thế nào" — standard mở |
+| 尋問 | じんもん | Thẩm vấn (cảm giác bị hỏi liên tiếp) |
+| 出汁 | だし | Nước dùng (Kansai vs Kanto) |
+| 藻岩山 | もいわやま | Núi Moiwa, Sapporo (vd) |
+| 物足りない | ものたりない | Thiếu thiếu, chưa đủ đã |
+
+---
+
+## 🎓 BJT
+
+**J3 — 場面把握:** Phân biệt câu hỏi mở vs đóng → khi nào dùng cái nào.
+**J2 — 表現読解:** 「いかがでしたか」 vs「良かったですか」 — keigo + tính chất câu hỏi.
+**J1 — 発言聴解:** Đặt câu hỏi mở "có context" = senior level (vs câu hỏi suông = beginner).
+
+---
+
+> **Hizashi Sách 08 — Rule 04 — 開かれた質問・閉じた質問**

@@ -1,0 +1,147 @@
+{
+  "rule_id": "rule_03",
+  "rule_slug": "名刺の渡し方",
+  "title": {
+    "ja": "名刺の渡し方",
+    "vi": "Trao danh thiếp 2 tay"
+  },
+  "rule_context": {
+    "ja": "rule_02 直後、ズンが大垣 営業部長に自分の名刺を渡す場面。First contact のトーンを決定づける瞬間。",
+    "vi": "Ngay sau rule_02, Dũng tự giới thiệu và trao danh thiếp cho Ōgaki. Khoảnh khắc set tone formal cho cả meeting."
+  },
+  "related_rules": [
+    "rule_01",
+    "rule_02",
+    "rule_04",
+    "rule_05"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 片手+自分向き+短縮自己紹介",
+      "label_vi": "XẤU — 1 tay + chữ hướng mình + tự xưng tắt",
+      "display_order": 1,
+      "analysis": {
+        "ja": "片手+文字向き反転+会社名抜きの3点ミス。大垣は名刺を90度回して読む手間を強要された。",
+        "vi": "3 lỗi: 1 tay + chữ ngược + bỏ tên cty. Ōgaki phải xoay 90° để đọc — tức là khách làm việc thay bạn."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_03_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ズンです、よろしく。",
+          "sentence_translation": "Em là Dũng, mong được hợp tác.",
+          "tone": "casual",
+          "speed_multiplier": 1.1
+        },
+        {
+          "line_id": "rule_03_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "…ズン様、ですね。",
+          "sentence_translation": "...Anh Dũng phải không nhỉ.",
+          "tone": "neutral",
+          "pause_after_ms": 500
+        },
+        {
+          "line_id": "rule_03_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、はい。",
+          "sentence_translation": "À vâng.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_03_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ズンさん、文字は相手向きにね。それから会社・部署もフルで。",
+          "sentence_translation": "Dũng, chữ phải hướng về phía họ. Với cả tên cty + phòng cũng phải nói đầy đủ.",
+          "tone": "firm",
+          "speed_multiplier": 0.95
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 両手・相手向き・フル自己紹介",
+      "label_vi": "TỐT — 2 tay, mặt chữ hướng khách, full giới thiệu",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_03_good_01",
+          "highlight_text": "ティエンファット 営業部 BD担当の、チャン・ヴァン・ズン",
+          "ja": "会社→部署→役職→氏名のJP標準順。順序入れ替え不可。ベトナム名はカタカナで明示。",
+          "vi": "Thứ tự chuẩn JP: cty → phòng → chức → tên. KHÔNG đảo. Tên VN ghi katakana để khách đọc đúng."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_03_good_01",
+          "highlight_text": "よろしくお願い申し上げます",
+          "ja": "First contact senior 用最上級。『お願いします』より一段格上。",
+          "vi": "Mức formal cao nhất khi first contact với senior. Trên 1 bậc so với 'お願いします'."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_03_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ティエンファット 営業部 BD担当の、チャン・ヴァン・ズンと申します。よろしくお願い申し上げます。",
+          "sentence_translation": "Em là Trần Văn Dũng, phụ trách BD phòng Kinh doanh Cty Tiên Phát. Rất mong được hợp tác ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.9,
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_03_good_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "頂戴いたします。ズンさん、こちらこそよろしくお願いいたします。",
+          "sentence_translation": "Tôi xin nhận. Anh Dũng, tôi cũng rất mong được hợp tác.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_03_kp_01",
+      "speaker": "zun",
+      "sentence": "ティエンファット 営業部 BD担当の、チャン・ヴァン・ズンと申します。よろしくお願い申し上げます。",
+      "sentence_translation": "Em là Trần Văn Dũng, phụ trách BD phòng Kinh doanh Cty Tiên Phát. Rất mong được hợp tác ạ.",
+      "purpose": "名刺渡し時のフル自己紹介",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_03_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "名刺を渡す時の自己紹介で『ティエンファット 営業部 BD担当の、チャン・ヴァン・ズンと申します』の語順は何を表す？",
+      "options": [
+        "個人名を最も強調する順",
+        "会社→部署→役職→氏名 の日本標準語順",
+        "氏名→役職→部署→会社 の英語語順",
+        "ランダムでよい"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "JP自己紹介標準語順。所属を先に提示し最後に個人名。",
+        "vi": "Thứ tự chuẩn tự xưng JP: tổ chức trước, cá nhân sau."
+      }
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "rule_id": "rule_28",
+  "rule_slug": "相談を受ける側",
+  "title": {
+    "ja": "相談を受ける側（コーチング）",
+    "vi": "Khi mình là người được tham vấn"
+  },
+  "rule_context": {
+    "ja": "リンがズンに挨拶メールのテンプレ選択を相談する場面。即答する悪い例から、要約・仮説確認・観点追加・相手に結論を下させる・DR化の coaching 5ステップへ。",
+    "vi": "Em Linh tham vấn anh Dũng về template email khách Nhật. Từ pattern xấu (trả lời thẳng) → coaching 5 bước (tóm tắt / xác nhận giả thuyết / thêm axis / để Linh kết luận / DR hóa)."
+  },
+  "related_rules": ["rule_25", "rule_27", "rule_34"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 即答1語",
+      "label_vi": "XẤU — Trả lời thẳng 1 từ",
+      "display_order": 1,
+      "analysis": {
+        "ja": "即答すると相手は判断軸を学べない。同じ相談が繰り返される＝チームの成長機会を毎回潰している。",
+        "vi": "Trả lời ngay = junior không học axis. Cùng tham vấn lặp lại = giết cơ hội grow của team mỗi lần."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_28_bad_01",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "ズンさん、Phase 2 の挨拶メール、テンプレ A と B どっちがいいですか?",
+          "sentence_translation": "Anh Dũng, mail chào Phase 2, template A hay B hơn ạ?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_28_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "B にして。",
+          "sentence_translation": "Em dùng B đi.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_28_bad_03",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "分かりました!",
+          "sentence_translation": "Em hiểu rồi ạ!",
+          "tone": "cheerful"
+        },
+        {
+          "line_id": "rule_28_bad_04",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "(2週間後) Phase 3 の挨拶メールも、A と B どっちですか?",
+          "sentence_translation": "(2 tuần sau) Mail chào Phase 3 nữa, A hay B ạ?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_28_bad_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、僕がただ答えるだけだと、リンが判断軸を学べないんだ。次から coaching mode で受けないと…",
+          "sentence_translation": "À, nếu mình cứ trả lời thẳng thế thì Linh không học axis được. Từ lần sau phải coaching...",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — コーチング5ステップ",
+      "label_vi": "TỐT — Coaching 5 bước",
+      "display_order": 2,
+      "analysis": {
+        "ja": "要約・仮説確認・観点追加・結論を相手に・DR化の5ステップで、リンは判断プロセスを内在化。次回から自走できる。",
+        "vi": "5 bước (tóm tắt / xác nhận giả thuyết / thêm axis / để Linh kết luận / DR hóa) giúp Linh nội hóa quy trình phán đoán. Lần sau tự đi được."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_28_good_02",
+          "highlight_text": "①要約: AとBで迷っているということだね",
+          "ja": "Active listening の基本。要約復唱で相手に『聞いている』と伝え、誤解の早期発見にもなる。",
+          "vi": "Cơ bản của active listening. Tóm tắt lặp lại = báo cho đối phương 'đang nghe', cũng phát hiện hiểu nhầm sớm."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_28_good_05",
+          "highlight_text": "Aをベースに、最後の1段落だけ親しみやすい表現に変える",
+          "ja": "リン自身が解決策を生成。これが coaching の核 — 答えを与えるのではなく『答えを引き出す』。",
+          "vi": "Linh tự sinh ra solution. Đây là core của coaching — không cho đáp án mà 'rút' đáp án ra."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_28_good_06",
+          "highlight_text": "それで進めて",
+          "ja": "上司は『承認』するだけで、決定はリン本人。所有感を奪わない。",
+          "vi": "Cấp trên chỉ 'duyệt', quyết định là Linh. Không cướp ownership."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_28_good_06",
+          "highlight_text": "Decision Register に1行残しておいて",
+          "ja": "学習資産化。リンも DR を書く習慣がつき、組織の知見も積み上がる。",
+          "vi": "Biến thành tài sản học tập. Linh có thói quen viết DR, kiến thức tổ chức cũng tích lũy."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_28_good_01",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "ズンさん、Phase 2 の挨拶メール、テンプレ A と B どっちがいいですか?",
+          "sentence_translation": "Anh Dũng, mail chào Phase 2, template A hay B hơn ạ?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_28_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "①要約: AとBで迷っているということだね。②リン自身の仮説は?どっちに寄ってる、その理由は?",
+          "sentence_translation": "[Tóm tắt] Em đang phân vân giữa A và B đúng không. [Giả thuyết của Linh] Em nghiêng cái nào, lý do gì?",
+          "tone": "warm",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_28_good_03",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "えっと、A はフォーマル度が高くて、B は親しみやすい感じです…松本様は5回目の取引なので…B 寄りかな…",
+          "sentence_translation": "Ờ, A formal cao, B thân thiện hơn... anh Matsumoto đã hợp tác lần thứ 5 rồi... em nghiêng B...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_28_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "③観点を追加すると、『Phase 2 はキックオフ局面』で、新規スコープへの真剣さも示したい。その軸を入れると?",
+          "sentence_translation": "[Thêm axis] Phase 2 là giai đoạn kickoff, mình cũng muốn show sự nghiêm túc với scope mới. Đưa axis đó vào thì sao?",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_28_good_05",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "あ、なるほど…キックオフだとフォーマルさも残したい…Aをベースに、最後の1段落だけ親しみやすい表現に変えるのがいいかも。",
+          "sentence_translation": "À đúng rồi... kickoff thì cũng muốn giữ formal... Em nghĩ lấy A làm gốc, đoạn cuối đổi sang phong cách thân thiện thôi ạ.",
+          "tone": "neutral",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_28_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "④良い結論。それで進めて。⑤Decision Register に1行残しておいて: 論点・検討案・採用・理由・観点。来週レビューするね。",
+          "sentence_translation": "[Kết luận tốt] Em đi theo đó. [DR] Lưu 1 dòng vào Decision Register: luận điểm / options / chọn / lý do / axis. Tuần sau anh review nhé.",
+          "tone": "warm",
+          "annotation_ids": ["3", "4"]
+        },
+        {
+          "line_id": "rule_28_good_07",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "ありがとうございます!次回からこの観点で自分で判断できそうです!",
+          "sentence_translation": "Em cảm ơn anh! Lần sau với axis này em tự quyết được rồi ạ!",
+          "tone": "cheerful"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_28_kp_01",
+      "speaker": "zun",
+      "sentence": "要約すると〇〇ということだね。あなた自身の仮説はどっち寄りで、その理由は?",
+      "sentence_translation": "Tóm lại là 〇〇 đúng không. Giả thuyết của em nghiêng phía nào, lý do gì?",
+      "purpose": "コーチング step ①②（要約 + 仮説確認）",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_28_kp_02",
+      "speaker": "zun",
+      "sentence": "もう1つの観点を入れると?",
+      "sentence_translation": "Thêm 1 axis nữa thì sao?",
+      "purpose": "コーチング step ③（観点追加）",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_28_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "junior から相談を受けた時、最も適切な対応は?",
+      "options": [
+        "即答1語で答え、効率よく終わらせる",
+        "『自分で考えろ』と突き返す",
+        "要約 → 仮説確認 → 観点追加 → 相手に結論を下させ → DR化",
+        "全ての選択肢を網羅的に提示する"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "即答は学習機会を奪い、同じ相談が繰り返される。突き返すと相談文化が崩壊する。コーチング5ステップで判断軸を内在化させるのが最適。",
+        "vi": "Trả lời ngay = cướp cơ hội học, lặp tham vấn cùng pattern. Đẩy ra = phá văn hóa tham vấn. Coaching 5 bước để nội hóa axis là tối ưu."
+      }
+    }
+  ]
+}

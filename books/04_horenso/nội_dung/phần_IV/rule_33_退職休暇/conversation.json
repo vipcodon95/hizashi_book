@@ -1,0 +1,193 @@
+{
+  "rule_id": "rule_33",
+  "rule_slug": "退職・休暇のホウレンソウ",
+  "title": {
+    "ja": "退職・長期休暇のホウレンソウ",
+    "vi": "Báo nghỉ việc / nghỉ dài hạn"
+  },
+  "rule_context": {
+    "ja": "ハイが7/1〜12/31の6ヶ月ドイツサバティカルを計画。Slack 即時 broadcast の悪い例から、3ヶ月前 1-on-1 トゥアン → ハーCTO → 客向け案内 → 全社通知 → チーム個別 の良い例へ。",
+    "vi": "Hải lên kế hoạch sabbatical 6 tháng ở Đức (1/7-31/12). Từ pattern xấu (broadcast Slack ngay) → đúng (1-on-1 anh Tuấn 3 tháng trước → anh Hà CTO → announcement khách → Slack toàn công ty → 1-on-1 từng team)."
+  },
+  "related_rules": [
+    "rule_19",
+    "rule_20",
+    "rule_39"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — broadcast先行+handoverなし",
+      "label_vi": "XẤU — Broadcast trước + không handover",
+      "display_order": 1,
+      "analysis": {
+        "ja": "Slack 先行で上司が後から知る順序は階層を破壊する。Phase 2 中に DevOps 1人が引き継ぎ計画なしで6ヶ月離脱は最大級の混乱要因。",
+        "vi": "Slack đi trước, sếp biết sau = phá hierarchy. DevOps 1 mình giữa Phase 2 nghỉ 6 tháng không có handover = nguyên nhân chaos cấp cao."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_33_bad_01",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "(Slack #general) みなさん、7/1 から半年ドイツ留学に行ってきます!引き継ぎは追って共有します!",
+          "sentence_translation": "(Slack #general) Mọi người ơi, từ 1/7 em đi Đức học 6 tháng! Handover em share sau ạ!",
+          "tone": "cheerful"
+        },
+        {
+          "line_id": "rule_33_bad_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "(Slack DM) ハイ、まず私に1-on-1 で相談すべき。今 Phase 2 の DevOps お前1人。半年抜けるなら handover計画なしの broadcast はNG。Hà CTO もまだ知らないだろ?",
+          "sentence_translation": "(Slack DM) Hải, lẽ ra em phải 1-on-1 với anh trước. Phase 2 đang DevOps có mình em. Nghỉ 6 tháng mà không có handover plan, broadcast luôn là NG. Anh Hà CTO chắc cũng chưa biết đúng không?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_33_bad_03",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "あ、すみません…",
+          "sentence_translation": "À, em xin lỗi...",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_33_bad_04",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "明日朝1-on-1で。Handover plan ドラフト持参。客への正式案内は Hà CTO 名義で別途出す。Slack post は一旦削除。",
+          "sentence_translation": "Sáng mai 1-on-1 nhé. Mang draft Handover plan đến. Thông báo chính thức cho khách thì Hà CTO ký tên gửi riêng. Post Slack delete tạm đi.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 3ヶ月前1-on-1 + Handover Plan + 順序遵守",
+      "label_vi": "TỐT — 1-on-1 trước 3 tháng + Handover Plan + đúng thứ tự",
+      "display_order": 2,
+      "analysis": {
+        "ja": "3ヶ月前に Tech lead 1-on-1、5項目の Handover Plan を持参。客向け案内は Hà CTO 名義で6月初、全社通知はその後、個別1-on-1 はさらに後。階層と段取りが完備。",
+        "vi": "1-on-1 với Tech lead trước 3 tháng, mang Handover Plan 5 mục. Announcement khách Hà CTO ký đầu tháng 6, sau đó Slack toàn công ty, cuối cùng 1-on-1 từng người. Hierarchy và thứ tự đầy đủ."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_33_good_02",
+          "highlight_text": "3ヶ月前の本日4/22にご報告",
+          "ja": "サバティカル6ヶ月に対して3ヶ月前は notice の標準を満たす。早めに伝えることでチームに準備時間を与える。",
+          "vi": "Sabbatical 6 tháng, notice 3 tháng đáp ứng chuẩn. Báo sớm cho team có thời gian chuẩn bị."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_33_good_03",
+          "highlight_text": "DevOps タスク 12項目 (うち5項目を Linh と共同化、7項目をズンへ移管)",
+          "ja": "1人にすべて押し付けず、複数人に分散。引き継ぎ後の継続性を担保。",
+          "vi": "Không dồn 1 người, phân tán nhiều người. Đảm bảo tính liên tục sau handover."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_33_good_03",
+          "highlight_text": "Overlap 期間: 6/1〜6/30 の1ヶ月",
+          "ja": "実際に並走する Overlap 期間を確保。書類だけでは伝わらない暗黙知を残せる。",
+          "vi": "Có Overlap thực để chạy song song. Giữ được kiến thức ngầm mà giấy tờ không truyền tải."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_33_good_04",
+          "highlight_text": "客向けの正式案内は Hà CTO 名義で6月初",
+          "ja": "客向け announcement は CTO 名義で。junior の個人事情ではなく、組織の公式判断として扱う。",
+          "vi": "Announcement khách phải CTO ký tên. Coi như quyết định chính thức của tổ chức, không phải chuyện cá nhân junior."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_33_good_01",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "(Slack DM トゥアン) トゥアンさん、ご相談したいことがあるのですが、明日朝 30分お時間いただけますでしょうか?トピック: 個人キャリア計画とハンドオーバーについて。緊急度低、今後3ヶ月の準備期間がございます。",
+          "sentence_translation": "(Slack DM anh Tuấn) Anh Tuấn, em có việc muốn tham vấn, sáng mai anh dành 30 phút được không ạ? Chủ đề: kế hoạch cá nhân + handover. Mức khẩn cấp thấp, em còn 3 tháng chuẩn bị ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_33_good_02",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "(翌朝1-on-1) ご相談です。7/1 から12/31 まで、6ヶ月間ドイツの大学院でサバティカルを取得したく、3ヶ月前の本日4/22にご報告いたします。事前にハンドオーバー計画ドラフトを作成しました。",
+          "sentence_translation": "(Sáng hôm sau, 1-on-1) Em xin tham vấn. Em muốn đi sabbatical 6 tháng tại đại học bên Đức từ 1/7-31/12, hôm nay 22/4 em báo trước 3 tháng ạ. Em đã chuẩn bị draft Handover Plan ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_33_good_03",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "Handover Plan: ① DevOps タスク 12項目 (うち5項目を Linh と共同化、7項目をズンへ移管) / ② AWS 認証情報・パスワード管理 (1Passwordで Hà CTO へ owner 移管) / ③ ドキュメント整備 (運用Runbook v2 を5月末までに完成) / ④ 候補者: 社内ローテーションでフロントエンドからの DevOps 兼任、または採用 / ⑤ Overlap 期間: 6/1〜6/30 の1ヶ月を引き継ぎ専用に充当。",
+          "sentence_translation": "[Handover Plan] [1] 12 task DevOps (5 cái chia chung với Linh, 7 cái chuyển Dũng) / [2] Credential AWS + password (chuyển owner sang anh Hà CTO qua 1Password) / [3] Tài liệu (Runbook v2 hoàn thành cuối tháng 5) / [4] Candidate: rotate nội bộ FE kiêm DevOps, hoặc tuyển / [5] Overlap: 1 tháng 1/6-30/6 dành riêng cho bàn giao.",
+          "tone": "neutral",
+          "annotation_ids": [
+            "2",
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_33_good_04",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "準備が完璧。Hà CTO に1-on-1 を私からセットして。決裁後、客向けの正式案内は Hà CTO 名義で6月初に。Slack 全社通知は客向け案内の翌日。Hai 個人 broadcast は最後で OK。",
+          "sentence_translation": "Chuẩn bị hoàn hảo. Anh sẽ set 1-on-1 với Hà CTO. Sau khi duyệt, announcement chính thức cho khách Hà CTO ký tên đầu tháng 6. Slack toàn công ty hôm sau. Broadcast cá nhân Hải để cuối cùng OK.",
+          "tone": "warm",
+          "annotation_ids": [
+            "4"
+          ]
+        },
+        {
+          "line_id": "rule_33_good_05",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "ありがとうございます。私からチーム個別1-on-1 (リン・ズン) も Hà CTO 通知後に実施します。",
+          "sentence_translation": "Em cảm ơn anh. 1-on-1 từng người (Linh, Dũng) em cũng làm sau khi anh Hà CTO thông báo ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_33_kp_01",
+      "speaker": "hai",
+      "sentence": "〇月〇日から〇ヶ月間〇〇のため、〇ヶ月前の本日ご報告いたします。事前にハンドオーバー計画ドラフトを作成しました。",
+      "sentence_translation": "Vì 〇〇 nên em sẽ nghỉ từ 〇/〇 trong 〇 tháng, hôm nay em báo trước 〇 tháng ạ. Em đã chuẩn bị draft Handover Plan ạ.",
+      "purpose": "退職・長期休暇の上司報告冒頭",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_33_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "6ヶ月のサバティカル取得を最初に伝えるべき相手は?",
+      "options": [
+        "Slack #general で全社broadcast",
+        "Tech lead に1-on-1 で Handover Plan ドラフト持参",
+        "客先の Matsumoto に直接メール",
+        "HR にメールのみ"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "退職・長期休暇は階層順序が重要。Tech lead 1-on-1 → CTO → 客向け正式案内（CTO名義）→ 全社通知 → チーム個別。Slack 先行や客への junior 直接連絡はNG。",
+        "vi": "Nghỉ việc / nghỉ dài quan trọng thứ tự hierarchy. Tech lead 1-on-1 → CTO → announcement khách (CTO ký) → Slack công ty → 1-on-1 từng người. Slack đi trước hoặc junior báo khách trực tiếp đều NG."
+      }
+    }
+  ]
+}

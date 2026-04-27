@@ -1,0 +1,234 @@
+{
+  "rule_id": "rule_32",
+  "rule_slug": "クレーム対応",
+  "title": {
+    "ja": "クレームのエスカレーション",
+    "vi": "Khi khách phàn nàn — escalation"
+  },
+  "rule_context": {
+    "ja": "大垣営業部長から請求書金額誤りのクレームが入電。junior の即否定+即約束NG例から、傾聴復唱→仮謝罪→検証期限約束→escalation→正式回答+Post-mortem の良い例へ。",
+    "vi": "Anh Ōgaki (Sales Director) gọi phàn nàn về invoice sai số tiền. Từ pattern xấu (junior denial + hứa ngay) → đúng (lắng nghe + lặp lại + xin lỗi tạm + hứa milestone time + escalate Hương/Loan + reply chính thức + post-mortem)."
+  },
+  "related_rules": ["rule_07", "rule_31"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 即否定+即約束",
+      "label_vi": "XẤU — Denial + hứa luôn",
+      "display_order": 1,
+      "analysis": {
+        "ja": "事実確認なしの『そんなはずない』+ 推測『たぶん』+ 期限約束『今日中に直す』の三重失敗。クレームは確実に悪化する。",
+        "vi": "Chưa verify đã 「そんなはずない」 + suy đoán 「たぶん」 + hứa thời gian 「今日中に直す」 = 3 lỗi cùng lúc. Khiếu nại chắc chắn xấu thêm."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_32_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "ズンさん、4月の請求書、金額が違います。当社の客が2回問い合わせしてきており、困っております。",
+          "sentence_translation": "Dũng, invoice tháng 4 sai số tiền. Khách bên tôi đã hỏi 2 lần, đang phiền hà.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_32_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと、そんなはずないんですが…経理に確認しないと分からないですけど…でもたぶん大丈夫だと思います。今日中に直して送り直します!",
+          "sentence_translation": "Ờ, em không nghĩ vậy được đâu... em phải hỏi kế toán mới biết... nhưng chắc là không sao đâu ạ. Em sẽ sửa và gửi lại trong hôm nay ạ!",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_32_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "『そんなはずない』とは?『たぶん大丈夫』とは?事実確認していない時点で約束されても困りますね。",
+          "sentence_translation": "「Không nghĩ vậy được」 nghĩa là sao? 「Chắc là không sao」 nghĩa là sao? Chưa verify mà đã hứa thì tôi cũng phiền.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_32_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "すみません…",
+          "sentence_translation": "Em xin lỗi ạ...",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_32_bad_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "ズンさん、クレーム対応は: 傾聴 → 仮謝罪 → 検証 → 正式回答。今は逆に動いている。",
+          "sentence_translation": "Dũng, ứng xử khiếu nại là: lắng nghe → xin lỗi tạm → verify → reply chính thức. Hiện tại em đang làm ngược.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 4ステップ + 上位者エスカレ",
+      "label_vi": "TỐT — 4 bước + escalate cấp trên",
+      "display_order": 2,
+      "analysis": {
+        "ja": "電話で傾聴+復唱+仮謝罪+期限付き約束 → 即時に Hương+Loan エスカレ → 18時第一報 → 翌12時正式回答 → 48時間以内 Post-mortem。客の信頼を維持できる完全形。",
+        "vi": "Trên điện thoại lắng nghe + lặp lại + xin lỗi tạm + hứa milestone → escalate Hương + Loan ngay → 18h báo cáo đầu → 12h hôm sau reply chính thức → 48h post-mortem. Form đầy đủ giữ niềm tin khách."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_32_good_02",
+          "highlight_text": "ご認識合っておりますでしょうか",
+          "ja": "復唱で事実を固定。誤解があれば即座に修正できる。日本のクレーム対応の標準1手目。",
+          "vi": "Lặp lại để chốt fact. Có hiểu nhầm thì sửa ngay. Bước 1 chuẩn của xử lý khiếu nại Nhật."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_32_good_04",
+          "highlight_text": "ご不便をおかけし誠に申し訳ございません。本日18時までに第一報、明日12時までに正式な対応案",
+          "ja": "事実未確認の段階では『ご不便』に対して詫び、責任の所在は触れない。代わりに2つの milestone 時刻を約束。",
+          "vi": "Khi chưa verify thì xin lỗi cho 「ご不便」, không đề cập trách nhiệm. Thay vào đó hứa 2 milestone thời gian."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_32_good_06",
+          "highlight_text": "@フオン副部長 @ロアン経理部長",
+          "ja": "電話を切ったら直ちに Slack で上位者をループイン。1人で抱え込まない。",
+          "vi": "Cúp máy là Slack loop in cấp trên ngay. Không tự ôm."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_32_good_08",
+          "highlight_text": "INV-2026-04-031 で ¥70,000 の超過記載が判明",
+          "ja": "経理確認後の事実を明示。推測ではなく、ログ確認した結果として伝える。",
+          "vi": "Show fact đã verify từ kế toán. Không suy đoán, là kết quả check log."
+        },
+        {
+          "id": "5",
+          "applies_to_line": "rule_32_good_08",
+          "highlight_text": "Post-mortem レポートにて 48時間以内にご報告申し上げます",
+          "ja": "再発防止策をレポートで約束。日本客は『次は防げる』を最も重視する。",
+          "vi": "Hứa report giải pháp ngăn tái phát. Khách Nhật coi trọng nhất 'lần sau ngăn được'."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_32_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "ズンさん、4月の請求書、金額が違います。当社の客が2回問い合わせしてきており、困っております。",
+          "sentence_translation": "Dũng, invoice tháng 4 sai số tiền. Khách bên tôi đã hỏi 2 lần, đang phiền hà.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_32_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "①4月の請求書の金額に誤りがあり、御社のお客様から2回お問い合わせいただいているとのこと、ご認識合っておりますでしょうか。",
+          "sentence_translation": "[1] Invoice tháng 4 có sai số tiền, khách bên anh đã hỏi 2 lần — em hiểu đúng vậy ạ?",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_32_good_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "その通りです。",
+          "sentence_translation": "Đúng vậy.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_32_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "②ご不便をおかけし誠に申し訳ございません。③具体的な金額の差異を確認の上、本日18時までに第一報、明日12時までに正式な対応案をご回答いたします。詳細: 請求書番号と差異金額をご共有いただけますでしょうか。",
+          "sentence_translation": "[2] Em thực sự xin lỗi vì sự bất tiện ạ. [3] Sau khi xác minh chênh lệch cụ thể, em sẽ báo cáo đầu trước 18h hôm nay, reply chính thức trước 12h ngày mai ạ. Chi tiết: anh chia sẻ giúp em số invoice và số tiền chênh ạ?",
+          "tone": "apologetic",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_32_good_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "請求書番号 INV-2026-04-031、当方計算では¥850,000、貴社請求は ¥920,000。",
+          "sentence_translation": "Invoice số INV-2026-04-031, bên tôi tính ¥850,000, bên em ghi ¥920,000.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_32_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(電話切後 Slack) @フオン副部長 @ロアン経理部長 大垣様クレーム入電。請求書 INV-2026-04-031 金額差異 ¥70,000。本日18時まで第一報、明日12時まで正式回答お約束済。",
+          "sentence_translation": "(Sau cúp máy, Slack) @chị Hương @chị Loan anh Ōgaki gọi khiếu nại. Invoice INV-2026-04-031 chênh ¥70,000. Em đã hứa: báo cáo đầu trước 18h hôm nay, reply chính thức trước 12h ngày mai ạ.",
+          "tone": "urgent",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_32_good_07",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ロアンさん、経理ログ確認お願いします。ズン、私とロアンで11:30から確認会議。第一報ドラフトはズンが作成。",
+          "sentence_translation": "Chị Loan, em check log kế toán giúp. Dũng, chị và chị Loan họp xác minh từ 11:30. Draft báo cáo đầu Dũng viết.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_32_good_08",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(17:30、メール) 大垣様、第一報のご報告です。経理にて確認の結果、INV-2026-04-031 で ¥70,000 の超過記載が判明いたしました。原因はシステム集計時の重複計上です。訂正請求書を明日 12時までにお送りするとともに、再発防止策については Post-mortem レポートにて 48時間以内にご報告申し上げます。重ねてお詫び申し上げます。",
+          "sentence_translation": "(17:30, mail) Anh Ōgaki, em xin báo cáo đầu ạ. Sau khi kế toán xác minh, INV-2026-04-031 ghi thừa ¥70,000 ạ. Nguyên nhân: tính trùng khi hệ thống tổng hợp. Em sẽ gửi invoice đính chính trước 12h ngày mai, cùng với Post-mortem report về biện pháp ngăn tái phát trong 48 giờ ạ. Em xin lỗi anh thêm lần nữa ạ.",
+          "tone": "apologetic",
+          "annotation_ids": ["4", "5"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_32_kp_01",
+      "speaker": "zun",
+      "sentence": "〇〇とのこと、ご認識合っておりますでしょうか。",
+      "sentence_translation": "Anh/chị nói là 〇〇 — em hiểu đúng vậy ạ?",
+      "purpose": "クレーム傾聴+復唱の定型",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_32_kp_02",
+      "speaker": "zun",
+      "sentence": "ご不便をおかけし誠に申し訳ございません。〇時までに第一報、〇時までに正式な対応案をご回答いたします。",
+      "sentence_translation": "Em thực sự xin lỗi vì sự bất tiện ạ. Em sẽ báo cáo đầu trước 〇 giờ, reply chính thức trước 〇 giờ ạ.",
+      "purpose": "仮謝罪+期限付き検証約束",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_32_bjt_01",
+      "level": "J3",
+      "skill": "発言聴解",
+      "question_ja": "客先からクレームを受けた junior の最初の発言として最も適切なのは?",
+      "options": [
+        "そんなはずないと思います",
+        "今日中に直して送り直します",
+        "〇〇とのこと、ご認識合っておりますでしょうか。ご不便をおかけし申し訳ございません",
+        "経理に確認しないと分かりません"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "クレーム対応の最初の手は『傾聴+復唱』。事実を固定し、ご不便への謝罪のみ先行。否定や推測、未検証の約束はNG。",
+        "vi": "Bước đầu xử lý khiếu nại là 'lắng nghe + lặp lại'. Chốt fact, chỉ xin lỗi cho 「ご不便」 trước. Phủ nhận, suy đoán, hứa khi chưa verify đều NG."
+      }
+    }
+  ]
+}

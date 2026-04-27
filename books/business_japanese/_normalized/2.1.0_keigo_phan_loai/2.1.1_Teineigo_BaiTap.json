@@ -1,0 +1,1337 @@
+{
+  "meta": {
+    "title": "2.1.1 Teineigo Deep Dive",
+    "title_vn": "2.1.1 Bài Tập Chuyên Sâu: 丁寧語 (Teineigo)",
+    "total_questions": 40,
+    "levels": {
+      "level1": "基礎 (Cơ bản) — Nhận biết ~ます/~です, お/ご prefix, nền tảng Teineigo",
+      "level2": "初級ビジネス (Kinh doanh sơ cấp) — でございます, ございます, điện thoại, email",
+      "level3": "中級ビジネス (Kinh doanh trung cấp) — Kết hợp 3 loại kính ngữ, xin lỗi, tiếp đón",
+      "level4": "上級ビジネス (Kinh doanh nâng cao) — Phân tích lỗi, 3 lớp kính ngữ, tổng hợp"
+    },
+    "focus": "Teineigo (丁寧語) — Lịch sự ngữ: ~ます/~です, でございます, ございます, お/ご prefix",
+    "description_vn": "Bộ 40 câu hỏi chuyên sâu về Lịch sự ngữ (Teineigo), từ nhận biết cơ bản đến phân tích toàn diện hệ thống kính ngữ 3 tầng trong môi trường kinh doanh"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "level": 1,
+      "level_name": "Cơ bản",
+      "category": "Nhận biết Teineigo — ~ます/~です",
+      "question_jp": "丁寧語（Teineigo）の特徴として正しいものはどれですか？",
+      "question_vn": "Đặc điểm nào mô tả đúng Teineigo (Lịch sự ngữ)?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "相手の行動を高める表現",
+          "vn": "Biểu đạt nâng cao hành động của đối phương"
+        },
+        {
+          "key": "B",
+          "jp": "自分の行動を低める表現",
+          "vn": "Biểu đạt hạ thấp hành động của bản thân"
+        },
+        {
+          "key": "C",
+          "jp": "誰の行動にも関係なく、文体を丁寧にする表現（〜ます/〜です で終わる）",
+          "vn": "Biểu đạt làm câu văn lịch sự bất kể ai hành động — câu kết thúc bằng 〜ます/〜です"
+        },
+        {
+          "key": "D",
+          "jp": "目上の人にだけ使う特別な表現",
+          "vn": "Biểu đạt đặc biệt chỉ dùng với người bề trên"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Teineigo (丁寧語) là nền tảng giao tiếp lịch sự, không liên quan đến chủ ngữ là ai. Đặc trưng: động từ chia dạng 〜ます, tính từ/danh từ kết thúc bằng 〜です. Khác với Sonkeigo (nâng người khác) và Kenjougo (hạ mình), Teineigo chỉ đơn giản là 'nói chuyện lịch sự' — ai cũng dùng, cho dù nói về mình hay người khác.",
+      "tip": "Teineigo = ngôn ngữ lịch sự tiêu chuẩn. ~ます/~です ở cuối câu là dấu hiệu nhận biết dễ nhất!"
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "level_name": "Cơ bản",
+      "category": "Chuyển sang Teineigo — động từ",
+      "question_jp": "「食べる」の丁寧語は何ですか？",
+      "question_vn": "Dạng Teineigo của「食べる」là gì?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "召し上がる（めしあがる）",
+          "vn": "召し上がる (Sonkeigo — ăn kính trọng)"
+        },
+        {
+          "key": "B",
+          "jp": "いただく",
+          "vn": "いただく (Kenjougo — tôi ăn khiêm nhường)"
+        },
+        {
+          "key": "C",
+          "jp": "食べます",
+          "vn": "食べます (Teineigo — ăn lịch sự)"
+        },
+        {
+          "key": "D",
+          "jp": "お食べする",
+          "vn": "お食べする (không tự nhiên — sai)"
+        }
+      ],
+      "answer": "C",
+      "explanation": "「食べます」là dạng Teineigo của 食べる — chỉ cần thêm ます vào thân động từ. Đây là cấp độ lịch sự cơ bản nhất và phổ biến nhất. So sánh 3 cấp: 食べる (thường/thân mật) → 食べます (Teineigo) → 召し上がる (Sonkeigo, người khác ăn) / いただく (Kenjougo, mình ăn khiêm nhường).",
+      "tip": "Teineigo của động từ = thêm ます: 食べる→食べます, 行く→行きます, する→します"
+    },
+    {
+      "id": 3,
+      "level": 1,
+      "level_name": "Cơ bản",
+      "category": "Chuyển sang Teineigo — tính từ và danh từ",
+      "question_jp": "「きれいだ」の丁寧語は何ですか？",
+      "question_vn": "Dạng Teineigo của「きれいだ」(đẹp) là gì?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "きれいます",
+          "vn": "きれいます (sai — tính từ な không thêm ます)"
+        },
+        {
+          "key": "B",
+          "jp": "きれいです",
+          "vn": "きれいです (Teineigo — đúng)"
+        },
+        {
+          "key": "C",
+          "jp": "お綺麗になる",
+          "vn": "お綺麗になる (Sonkeigo — dùng khi khen đối phương)"
+        },
+        {
+          "key": "D",
+          "jp": "きれいでございます",
+          "vn": "きれいでございます (Teineigo trang trọng hơn — đúng nhưng không phải cơ bản nhất)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "「きれいです」là dạng Teineigo chuẩn: tính từ な (な-adjective) + です. Quy tắc: Tính từ い (い-adj) + です: 高いです, 安いです. Tính từ な + です: きれいです, 便利です. Danh từ + です: 会議室です. Câu D (でございます) cũng đúng nhưng là mức Teineigo cao hơn, tương đương với です nhưng trang trọng hơn.",
+      "tip": "Tính từ な/Danh từ + です = Teineigo | Tính từ い + です = Teineigo (không bao giờ thêm ます cho tính từ!)"
+    },
+    {
+      "id": 4,
+      "level": 1,
+      "level_name": "Cơ bản",
+      "category": "Tiền tố お/ご — nhận biết",
+      "question_jp": "「お」と「ご」の使い分けについて正しい説明はどれですか？",
+      "question_vn": "Giải thích nào đúng về cách phân biệt dùng「お」và「ご」?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "どちらも自由に使ってよい",
+          "vn": "Cả hai đều dùng tự do"
+        },
+        {
+          "key": "B",
+          "jp": "「お」は和語（日本固有語）につく、「ご」は漢語（漢字語）につく（原則）",
+          "vn": "「お」đứng trước từ Nhật thuần (Wago), 「ご」đứng trước từ gốc Hán (Kango) — nguyên tắc chung"
+        },
+        {
+          "key": "C",
+          "jp": "「お」は謙譲語、「ご」は尊敬語",
+          "vn": "「お」là Kenjougo, 「ご」là Sonkeigo"
+        },
+        {
+          "key": "D",
+          "jp": "「ご」は書き言葉、「お」は話し言葉",
+          "vn": "「ご」là văn viết, 「お」là khẩu ngữ"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Nguyên tắc cơ bản: 「お」+ từ Nhật thuần (Wago): お名前, お電話, お水, お金. 「ご」+ từ gốc Hán (Kango): ご連絡, ご確認, ご住所, ご利用. Ngoại lệ cần nhớ: お返事 (返事 là Kango nhưng dùng お), ご両親 (両親 là Wago nhưng dùng ご). Nhiều từ phải học thuộc theo thói quen vì có ngoại lệ.",
+      "tip": "お + Wago (thuần Nhật) | ご + Kango (gốc Hán) — nhưng có nhiều ngoại lệ phải học thuộc!"
+    },
+    {
+      "id": 5,
+      "level": 1,
+      "level_name": "Cơ bản",
+      "category": "Tiền tố お/ご — áp dụng",
+      "question_jp": "次の中で「お」または「ご」の使い方が間違っているものはどれですか？",
+      "question_vn": "Cách dùng「お」hoặc「ご」nào SAI?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "お電話（おでんわ）",
+          "vn": "お電話 (điện thoại — đúng, 電話 là Kango nhưng dùng お theo thói quen)"
+        },
+        {
+          "key": "B",
+          "jp": "ご名前（ごなまえ）",
+          "vn": "ご名前 (tên — sai! 名前 là Wago → phải dùng お名前)"
+        },
+        {
+          "key": "C",
+          "jp": "ご住所（ごじゅうしょ）",
+          "vn": "ご住所 (địa chỉ — đúng, 住所 là Kango)"
+        },
+        {
+          "key": "D",
+          "jp": "お時間（おじかん）",
+          "vn": "お時間 (thời gian — đúng, thường dùng với お)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "「ご名前」là SAI — 名前 (なまえ) là từ Nhật thuần (Wago) nên phải dùng お → 「お名前（おなまえ）」. Đây là một trong những lỗi phổ biến nhất. Ngoại lệ cần nhớ: お電話 (電話 là Kango nhưng thói quen dùng お), お時間 (時間 là Kango nhưng thói quen dùng お). Nhiều trường hợp phải học thuộc theo quy ước.",
+      "tip": "お名前 ✅ | ご名前 ❌ — tên người là từ Nhật thuần, phải dùng お!"
+    },
+    {
+      "id": 6,
+      "level": 1,
+      "level_name": "Cơ bản",
+      "category": "Teineigo — phủ định lịch sự",
+      "question_jp": "「ない」の丁寧語は何ですか？（動詞の否定形）",
+      "question_vn": "Dạng Teineigo phủ định của động từ (ない) là gì?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "〜ないです",
+          "vn": "〜ないです (lịch sự, thông dụng trong hội thoại)"
+        },
+        {
+          "key": "B",
+          "jp": "〜ません",
+          "vn": "〜ません (Teineigo chuẩn — lịch sự hơn ないです)"
+        },
+        {
+          "key": "C",
+          "jp": "〜ないでしょう",
+          "vn": "〜ないでしょう (phỏng đoán phủ định)"
+        },
+        {
+          "key": "D",
+          "jp": "A と B の両方が丁寧語として正しい",
+          "vn": "Cả A và B đều là Teineigo đúng"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Cả 「〜ません」và「〜ないです」đều là Teineigo phủ định hợp lệ: 〜ません là dạng chuẩn mực và trang trọng hơn — dùng trong văn phòng và giao tiếp chính thức. 〜ないです tự nhiên hơn trong hội thoại thường ngày. Trong BJT, 〜ません được ưu tiên. Ví dụ: 「わかりません / わからないです」(không hiểu), 「存じません / 知らないです」(không biết).",
+      "tip": "〜ません (trang trọng hơn) vs 〜ないです (tự nhiên hơn) — cả hai đúng, nhưng BJT ưu tiên 〜ません"
+    },
+    {
+      "id": 7,
+      "level": 1,
+      "level_name": "Cơ bản",
+      "category": "Teineigo — quá khứ và phủ định quá khứ",
+      "question_jp": "「行く」の丁寧語の過去形と過去否定形を正しく選んでください。",
+      "question_vn": "Dạng quá khứ và phủ định quá khứ Teineigo của「行く」là gì?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "行きました / 行きませんでした",
+          "vn": "行きました / 行きませんでした (Teineigo quá khứ / phủ định quá khứ — đúng)"
+        },
+        {
+          "key": "B",
+          "jp": "行きました / 行かなかったです",
+          "vn": "行きました / 行かなかったです (phủ định quá khứ — cũng được nhưng ít trang trọng hơn)"
+        },
+        {
+          "key": "C",
+          "jp": "行きました / 行きません",
+          "vn": "行きました (quá khứ) / 行きません (phủ định hiện tại — sai)"
+        },
+        {
+          "key": "D",
+          "jp": "行ったです / 行かないでした",
+          "vn": "行ったです / 行かないでした (sai ngữ pháp)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Chia dạng Teineigo đầy đủ: Hiện tại: 行きます | Phủ định: 行きません | Quá khứ: 行きました | Phủ định quá khứ: 行きませんでした. Câu D sai hoàn toàn về ngữ pháp. Câu B không sai nhưng 「行かなかったです」ít trang trọng hơn 「行きませんでした」. Trong kinh doanh và BJT, luôn dùng dạng 〜ませんでした.",
+      "tip": "Bốn dạng cơ bản: 〜ます / 〜ません / 〜ました / 〜ませんでした — phải chia thành thạo!"
+    },
+    {
+      "id": 8,
+      "level": 1,
+      "level_name": "Cơ bản",
+      "category": "Teineigo — danh từ kính ngữ tiêu chuẩn",
+      "question_jp": "次の「お」/「ご」がついた言葉のうち、Teineigo（丁寧語）として正しく使われているものはどれですか？",
+      "question_vn": "Từ nào có tiền tố「お」/「ご」là Teineigo đúng chuẩn (không phải Sonkeigo hay Kenjougo)?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "お茶（おちゃ）",
+          "vn": "お茶 (trà) — tiền tố お làm từ lịch sự hơn"
+        },
+        {
+          "key": "B",
+          "jp": "ご飯（ごはん）",
+          "vn": "ご飯 (cơm/bữa ăn) — tiền tố ご cố định"
+        },
+        {
+          "key": "C",
+          "jp": "お手洗い（おてあらい）",
+          "vn": "お手洗い (nhà vệ sinh) — dùng tiền tố お"
+        },
+        {
+          "key": "D",
+          "jp": "上記の全て",
+          "vn": "Tất cả những từ trên"
+        }
+      ],
+      "answer": "D",
+      "explanation": "お茶, ご飯, お手洗い đều là ví dụ Teineigo: tiền tố お/ご không nhằm tôn kính ai (Sonkeigo) hay hạ thấp mình (Kenjougo) mà chỉ làm từ ngữ nghe lịch sự và nhã nhặn hơn. Đây là Teineigo thuần túy. Các từ khác trong nhóm: お水, お金, お菓子, ご注文, お料理, お会計... Tiền tố お/ご trong Teineigo đã 'dính vào' từ và không thể bỏ ra trong giao tiếp lịch sự.",
+      "tip": "お茶・ご飯・お手洗い・お菓子 = Teineigo thuần — お/ご ở đây chỉ làm tăng vẻ lịch sự, không liên quan đến Sonkeigo/Kenjougo"
+    },
+    {
+      "id": 9,
+      "level": 1,
+      "level_name": "Cơ bản",
+      "category": "Phân biệt 3 loại kính ngữ — nhìn vào câu",
+      "question_jp": "「山田部長は出張に行かれました」— この文の敬語の種類は？",
+      "question_vn": "「山田部長は出張に行かれました」— Câu này dùng loại kính ngữ nào?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "謙譲語（Kenjougo）",
+          "vn": "Kenjougo (Khiêm nhường ngữ)"
+        },
+        {
+          "key": "B",
+          "jp": "丁寧語（Teineigo）のみ",
+          "vn": "Chỉ Teineigo (Lịch sự ngữ)"
+        },
+        {
+          "key": "C",
+          "jp": "尊敬語（Sonkeigo）— 〜れる形",
+          "vn": "Sonkeigo (Tôn kính ngữ) — dùng cấu trúc 〜れる"
+        },
+        {
+          "key": "D",
+          "jp": "尊敬語＋丁寧語の組み合わせ",
+          "vn": "Kết hợp Sonkeigo + Teineigo"
+        }
+      ],
+      "answer": "D",
+      "explanation": "「行かれました」kết hợp hai lớp: 行かれる = Sonkeigo dạng 〜れる (nâng cao hành động đi của 部長) + ました = Teineigo (kết thúc câu lịch sự). Đây là cách kết hợp phổ biến nhất: Sonkeigo/Kenjougo + Teineigo ở cuối câu. Thực tế, mọi câu kính ngữ trong giao tiếp thương mại đều kết thúc bằng Teineigo (〜ます/〜です/〜ございます).",
+      "tip": "Teineigo là LỚP NỀN của mọi câu lịch sự — luôn xuất hiện cuối câu dù có hay không có Sonkeigo/Kenjougo!"
+    },
+    {
+      "id": 10,
+      "level": 1,
+      "level_name": "Cơ bản",
+      "category": "Teineigo — câu hỏi lịch sự",
+      "question_jp": "「何時ですか？」より丁寧な聞き方はどれですか？",
+      "question_vn": "Câu hỏi giờ nào lịch sự hơn「何時ですか？」?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "何時？",
+          "vn": "何時？ (thô, thân mật — ít lịch sự hơn)"
+        },
+        {
+          "key": "B",
+          "jp": "今、何時でしょうか？",
+          "vn": "Bây giờ là mấy giờ ạ? (でしょうか — lịch sự hơn)"
+        },
+        {
+          "key": "C",
+          "jp": "今、何時でございますか？",
+          "vn": "Bây giờ là mấy giờ ạ? (でございますか — trang trọng nhất)"
+        },
+        {
+          "key": "D",
+          "jp": "B と C の両方が「何時ですか」より丁寧",
+          "vn": "Cả B và C đều lịch sự hơn 何時ですか"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Thang độ lịch sự từ thấp đến cao: 何時？ (thô) < 何時ですか (Teineigo cơ bản) < 何時でしょうか (Teineigo + でしょうか — lịch sự hơn) < 何時でございますか (Teineigo cao — でございます). Trong kinh doanh, 〜でしょうか thay cho 〜ですか làm câu hỏi nhẹ nhàng và lịch sự hơn. 〜でございますか là mức tối đa, dùng khi tiếp khách VIP.",
+      "tip": "〜ですか < 〜でしょうか < 〜でございますか — thang lịch sự câu hỏi Teineigo tăng dần!"
+    },
+    {
+      "id": 11,
+      "level": 2,
+      "level_name": "Trung bình",
+      "category": "でございます — cấu trúc và dùng",
+      "question_jp": "「です」と「でございます」の違いとして正しいのはどれですか？",
+      "question_vn": "Sự khác biệt đúng giữa「です」và「でございます」là gì?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "意味は全く同じで、どちらも同じ場面で使える",
+          "vn": "Hoàn toàn giống nhau, dùng được trong mọi tình huống"
+        },
+        {
+          "key": "B",
+          "jp": "「でございます」は「です」の丁寧語で、より格式が高い",
+          "vn": "「でございます」là Teineigo của です — trang trọng hơn một bậc"
+        },
+        {
+          "key": "C",
+          "jp": "「でございます」は謙譲語なので、自分のことにしか使えない",
+          "vn": "「でございます」là Kenjougo nên chỉ dùng về bản thân"
+        },
+        {
+          "key": "D",
+          "jp": "「でございます」は尊敬語なので、相手のことにしか使えない",
+          "vn": "「でございます」là Sonkeigo nên chỉ dùng về đối phương"
+        }
+      ],
+      "answer": "B",
+      "explanation": "「でございます」là dạng trang trọng nhất của です trong hệ thống Teineigo — không phải Sonkeigo hay Kenjougo. Dùng được cho mọi chủ ngữ (mình, người khác, đồ vật). Ví dụ: 「私は田中でございます」(Tôi là Tanaka), 「こちらが資料でございます」(Đây là tài liệu), 「会議室はこちらでございます」(Phòng họp ở đây ạ). Trong dịch vụ khách hàng và kinh doanh trang trọng, でございます thay thế hoàn toàn で す.",
+      "tip": "でございます = です nâng cấp — Teineigo trang trọng nhất. Không phải Sonkeigo hay Kenjougo!"
+    },
+    {
+      "id": 12,
+      "level": 2,
+      "level_name": "Trung bình",
+      "category": "ございます vs あります",
+      "question_jp": "「ございます」と「あります」の使い分けとして正しいのはどれですか？",
+      "question_vn": "Cách phân biệt đúng giữa「ございます」và「あります」là gì?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "「ございます」は生き物に、「あります」は物に使う",
+          "vn": "「ございます」cho sinh vật, 「あります」cho đồ vật"
+        },
+        {
+          "key": "B",
+          "jp": "「ございます」はより丁寧なあります。主に物事の存在や状況に使う",
+          "vn": "「ございます」là dạng trang trọng của あります — dùng cho sự tồn tại của vật/tình huống"
+        },
+        {
+          "key": "C",
+          "jp": "意味は同じで使い分けは不要",
+          "vn": "Hoàn toàn giống nhau, không cần phân biệt"
+        },
+        {
+          "key": "D",
+          "jp": "「ございます」は謙譲語、「あります」は普通語",
+          "vn": "「ございます」là Kenjougo, 「あります」là thông thường"
+        }
+      ],
+      "answer": "B",
+      "explanation": "「ございます」là Teineigo trang trọng của あります — dùng khi nói về sự tồn tại của vật/tình huống trong môi trường lịch sự: 「こちらにございます」(Ở đây có ạ), 「ご不明な点がございましたら」(Nếu có điểm nào chưa rõ). Không dùng ございます để chỉ sự tồn tại của người (phải dùng いらっしゃる cho Soto, おる cho Uchi). Ví dụ sai: ×お客様がございます → ○お客様がいらっしゃいます.",
+      "tip": "ございます = あります nâng cấp (cho vật/tình huống). KHÔNG dùng ございます cho người — đó là lỗi phổ biến!"
+    },
+    {
+      "id": 13,
+      "level": 2,
+      "level_name": "Trung bình",
+      "category": "でございます — chia dạng phủ định và quá khứ",
+      "question_jp": "「でございます」の否定形と過去形を正しく選んでください。",
+      "question_vn": "Dạng phủ định và quá khứ của「でございます」là gì?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "否定：ではございません / 過去：でございました",
+          "vn": "Phủ định: ではございません / Quá khứ: でございました — đúng"
+        },
+        {
+          "key": "B",
+          "jp": "否定：でございません / 過去：でございましたん",
+          "vn": "Phủ định: でございません / Quá khứ: でございましたん — sai"
+        },
+        {
+          "key": "C",
+          "jp": "否定：ではないでございます / 過去：でありました",
+          "vn": "Phủ định: ではないでございます / Quá khứ: でありました — không chuẩn"
+        },
+        {
+          "key": "D",
+          "jp": "否定：ではございません / 過去：でございましたでした",
+          "vn": "Phủ định: ではございません / Quá khứ: でございましたでした — sai"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Chia dạng đầy đủ của でございます: Hiện tại: でございます | Phủ定: ではございません | Quá khứ: でございました | Phủ定 quá khứ: ではございませんでした. Chú ý: phủ định dùng 「では」không phải「で」(ではございません, không phải でございません). Bảng đối chiếu: です → ではないです | でございます → ではございません (trang trọng hơn).",
+      "tip": "Phủ定 でございます → ではございません (có では!) | Quá khứ → でございました"
+    },
+    {
+      "id": 14,
+      "level": 2,
+      "level_name": "Trung bình",
+      "category": "〜でしょうか — hỏi lịch sự",
+      "question_jp": "「〜でしょうか」の機能として正しいのはどれですか？",
+      "question_vn": "Chức năng của「〜でしょうか」là gì?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "推量（〜だろう）の丁寧語として、または丁寧な疑問文を作る",
+          "vn": "Teineigo của 〜だろう (phỏng đoán), hoặc tạo câu hỏi lịch sự"
+        },
+        {
+          "key": "B",
+          "jp": "過去の出来事を推量する時だけに使う",
+          "vn": "Chỉ dùng khi phỏng đoán sự việc trong quá khứ"
+        },
+        {
+          "key": "C",
+          "jp": "「ですか」と全く同じで、置き換え可能",
+          "vn": "Hoàn toàn giống 「ですか」, có thể thay thế hoàn toàn"
+        },
+        {
+          "key": "D",
+          "jp": "命令や依頼を表す",
+          "vn": "Biểu đạt mệnh lệnh hoặc yêu cầu"
+        }
+      ],
+      "answer": "A",
+      "explanation": "「でしょうか」có hai chức năng chính: (1) Phỏng đoán lịch sự: 「明日は雨でしょうか」(Ngày mai có mưa không nhỉ?); (2) Câu hỏi lịch sự hơn ですか: 「よろしいでしょうか」(Được không ạ?) — nhẹ nhàng hơn 「よろしいですか」. Trong giao tiếp kinh doanh, 〜でしょうか làm câu hỏi nghe ít áp lực hơn, khiêm nhường hơn. Không thể thay thế hoàn toàn ですか vì sắc thái khác.",
+      "tip": "〜でしょうか = câu hỏi lịch sự hơn 〜ですか — dùng khi không muốn tạo áp lực cho đối phương"
+    },
+    {
+      "id": 15,
+      "level": 2,
+      "level_name": "Trung bình",
+      "category": "Teineigo — mẫu câu tiếp nhận",
+      "question_jp": "受付で来客に「ご用件は何ですか？」より丁寧に聞く表現はどれですか？",
+      "question_vn": "Tại lễ tân, câu hỏi mục đích thăm viếng nào lịch sự hơn「ご用件は何ですか？」?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "何の用ですか？",
+          "vn": "Anh/chị đến có việc gì? (thô — thiếu tiền tố ご)"
+        },
+        {
+          "key": "B",
+          "jp": "ご用件は何でしょうか？",
+          "vn": "Không biết quý vị có việc gì ạ? (でしょうか — lịch sự hơn)"
+        },
+        {
+          "key": "C",
+          "jp": "本日はどのようなご用件でいらっしゃいますか？",
+          "vn": "Hôm nay quý vị đến có việc gì ạ? (kết hợp Teineigo + Sonkeigo — trang trọng nhất)"
+        },
+        {
+          "key": "D",
+          "jp": "B と C の両方が「ご用件は何ですか」より丁寧",
+          "vn": "Cả B và C đều lịch sự hơn câu gốc"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Câu B: 「ご用件は何でしょうか」— thay ですか bằng でしょうか làm câu hỏi nhẹ nhàng hơn. Câu C: 「どのようなご用件でいらっしゃいますか」— kết hợp Teineigo (どのような = thế nào) + でいらっしゃる (Sonkeigo của である/です) → mức trang trọng tối đa cho lễ tân khách sạn và tòa nhà văn phòng cao cấp. Trong BJT, cả hai đều xuất hiện.",
+      "tip": "どのようなご用件でいらっしゃいますか = câu hỏi lễ tân trang trọng nhất — kết hợp Teineigo + Sonkeigo"
+    },
+    {
+      "id": 16,
+      "level": 2,
+      "level_name": "Trung bình",
+      "category": "Teineigo — mẫu câu xác nhận",
+      "question_jp": "「〜てもいいですか？」を最も丁寧な Teineigo に直すと？",
+      "question_vn": "Chuyển「〜てもいいですか？」thành Teineigo lịch sự nhất:",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "〜てもいいでしょうか？",
+          "vn": "〜てもいいでしょうか？ (でしょうか — lịch sự hơn)"
+        },
+        {
+          "key": "B",
+          "jp": "〜てもよろしいでしょうか？",
+          "vn": "〜てもよろしいでしょうか？ (よろしい + でしょうか — trang trọng nhất)"
+        },
+        {
+          "key": "C",
+          "jp": "〜てもよろしゅうございますか？",
+          "vn": "〜てもよろしゅうございますか？ (cổ điển, cực trang trọng — ít dùng ngày nay)"
+        },
+        {
+          "key": "D",
+          "jp": "B が最も自然でビジネス的",
+          "vn": "B tự nhiên và kinh doanh nhất trong thực tế hiện đại"
+        }
+      ],
+      "answer": "D",
+      "explanation": "「〜てもよろしいでしょうか」là chuẩn nhất trong tiếng Nhật kinh doanh hiện đại: よろしい (trang trọng hơn いい) + でしょうか (lịch sự hơn ですか). Câu C (よろしゅうございますか) về nguyên tắc đúng nhưng cực kỳ cổ điển — chỉ gặp trong phục vụ khách sạn 5 sao hoặc văn học cổ. Trong BJT thực chiến, câu B là câu trả lời đúng.",
+      "tip": "〜てもよろしいでしょうか = cách xin phép lịch sự nhất trong tiếng Nhật kinh doanh hiện đại"
+    },
+    {
+      "id": 17,
+      "level": 2,
+      "level_name": "Trung bình",
+      "category": "Teineigo — kết thúc câu trang trọng",
+      "question_jp": "ビジネス場面での電話応対として、最も適切な電話の出方はどれですか？",
+      "question_vn": "Cách nghe điện thoại nào phù hợp nhất trong môi trường kinh doanh?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "「はい、田中です。」",
+          "vn": "「はい、田中です。」(thông thường — thiếu trang trọng)"
+        },
+        {
+          "key": "B",
+          "jp": "「はい、〇〇株式会社でございます。」",
+          "vn": "「はい、〇〇株式会社でございます。」(でございます — chuẩn)"
+        },
+        {
+          "key": "C",
+          "jp": "「もしもし、〇〇会社です。」",
+          "vn": "「もしもし、〇〇会社です。」(もしもし không dùng trong kinh doanh — sai)"
+        },
+        {
+          "key": "D",
+          "jp": "「はい、〇〇株式会社の田中でございます。」",
+          "vn": "「はい、〇〇株式会社の田中でございます。」(tên + でございます — trang trọng nhất)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Câu D là chuẩn nhất: giới thiệu cả tên công ty lẫn tên mình + でございます. Câu B cũng đúng — thường dùng cho tổng đài (switchboard). Câu C: 「もしもし」KHÔNG dùng trong điện thoại kinh doanh — chỉ dùng giữa bạn bè/gia đình. Câu A thiếu tên công ty. Trong BJT, câu mở đầu điện thoại kinh doanh luôn có cấu trúc: はい + [công ty] + でございます.",
+      "tip": "Điện thoại kinh doanh: はい、〇〇でございます — KHÔNG dùng もしもし! Đây là lỗi cơ bản nhất!"
+    },
+    {
+      "id": 18,
+      "level": 2,
+      "level_name": "Trung bình",
+      "category": "Teineigo — tiền tố お/ご nâng cao",
+      "question_jp": "次の文でお/ごの使い方が正しいものはどれですか？",
+      "question_vn": "Câu nào dùng お/ご ĐÚNG?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "ご結婚おめでとうございます。",
+          "vn": "Chúc mừng ngài kết hôn. (ご結婚 — đúng, 結婚 là Kango)"
+        },
+        {
+          "key": "B",
+          "jp": "お結婚おめでとうございます。",
+          "vn": "Chúc mừng ngài kết hôn. (お結婚 — sai, 結婚 là Kango phải dùng ご)"
+        },
+        {
+          "key": "C",
+          "jp": "ご誕生日おめでとうございます。",
+          "vn": "Chúc mừng sinh nhật ngài. (ご誕生日 — đúng theo Kango, nhưng おも phổ biến hơn)"
+        },
+        {
+          "key": "D",
+          "jp": "A と C の両方が正しい",
+          "vn": "Cả A và C đều đúng"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Câu A: 「ご結婚おめでとうございます」— kết hôn (結婚) là Kango → ご là đúng. Câu C: 「ご誕生日おめでとうございます」— 誕生日 (Kango) → ご đúng về nguyên tắc. Tuy nhiên,「お誕生日おめでとうございます」cũng phổ biến và được chấp nhận vì quen dùng. Câu B sai: お結婚là không tự nhiên. Trong BJT, câu A là đáp án rõ ràng nhất.",
+      "tip": "ご結婚おめでとうございます ✅ | お誕生日 / ご誕生日 đều dùng được (ngoại lệ phổ biến)"
+    },
+    {
+      "id": 19,
+      "level": 2,
+      "level_name": "Trung bình",
+      "category": "Teineigo — mẫu câu giải thích và thông báo",
+      "question_jp": "お客様に「会議室は3階です」を最も丁寧に伝えると？",
+      "question_vn": "Thông báo với khách hàng 'Phòng họp ở tầng 3' lịch sự nhất là câu nào?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "会議室は3階です。",
+          "vn": "Phòng họp ở tầng 3. (Teineigo cơ bản)"
+        },
+        {
+          "key": "B",
+          "jp": "会議室は3階でございます。",
+          "vn": "Phòng họp ở tầng 3 ạ. (でございます — trang trọng hơn)"
+        },
+        {
+          "key": "C",
+          "jp": "会議室は3階となっております。",
+          "vn": "Phòng họp là tầng 3 ạ. (となっております — Kenjougo + Teineigo)"
+        },
+        {
+          "key": "D",
+          "jp": "B と C の両方がビジネス的に適切",
+          "vn": "Cả B và C đều phù hợp trong kinh doanh"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Câu B「でございます」: Teineigo trang trọng — phổ biến và tự nhiên. Câu C「となっております」: と (= として) + なっております (おる = Kenjougo của いる) → mang sắc thái 'được quy định là / đang là' — thường dùng khi thông báo quy định, giờ giấc, địa điểm trong văn phòng/sự kiện. Cả hai đều xuất hiện nhiều trong BJT và thực tế kinh doanh.",
+      "tip": "〜となっております = 'được quy định là / đang là' — mẫu thông báo phổ biến trong sự kiện và dịch vụ"
+    },
+    {
+      "id": 20,
+      "level": 2,
+      "level_name": "Trung bình",
+      "category": "Teineigo — câu kết thúc email",
+      "question_jp": "メールの結びの言葉として最も一般的な丁寧語表現はどれですか？",
+      "question_vn": "Câu kết thúc email thông dụng nhất trong Teineigo là gì?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "バイバイ。",
+          "vn": "Bye bye. (không phù hợp)"
+        },
+        {
+          "key": "B",
+          "jp": "では、また。",
+          "vn": "Thế nhé, hẹn gặp lại. (thân mật — không phù hợp email công việc)"
+        },
+        {
+          "key": "C",
+          "jp": "以上、よろしくお願いいたします。",
+          "vn": "Trên đây là toàn bộ, kính mong sự hợp tác. (Kenjougo + Teineigo — chuẩn)"
+        },
+        {
+          "key": "D",
+          "jp": "どうぞよろしくお願い申し上げます。",
+          "vn": "Kính nhờ quý vị. (Kenjougo trang trọng — chuẩn)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "「よろしくお願い申し上げます」là câu kết thúc email kinh doanh trang trọng nhất và phổ biến nhất: よろしく + お願い + 申し上げる (Kenjougo tối cao của 言う). Câu C「よろしくお願いいたします」cũng đúng và phổ biến — chỉ khác ở mức trang trọng (いたす < 申し上げる). Cả hai đều xây trên nền Teineigo (〜ます). Câu A, B hoàn toàn không phù hợp email kinh doanh.",
+      "tip": "よろしくお願い申し上げます (trang trọng nhất) | よろしくお願いいたします (phổ biến) — hai câu kết email chuẩn nhất!"
+    },
+    {
+      "id": 21,
+      "level": 3,
+      "level_name": "Khá",
+      "category": "Teineigo kết hợp Sonkeigo — tiếp khách",
+      "question_jp": "お客様が到着した時の一連の応対で、敬語の使い方が最も正確な流れはどれですか？",
+      "question_vn": "Khi khách hàng đến, chuỗi câu tiếp đón nào dùng kính ngữ chính xác nhất?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "①「いらっしゃいませ」②「お名前をいただけますか」③「少々お待ちください」",
+          "vn": "① Kính chào ② Tôi có thể nhận tên của ngài không? (いただく sai ở đây) ③ Xin chờ chút"
+        },
+        {
+          "key": "B",
+          "jp": "①「いらっしゃいませ」②「お名前をお聞かせいただけますでしょうか」③「少々お待ちくださいませ」",
+          "vn": "① Kính chào ② Cho tôi biết tên của ngài không ạ? ③ Xin vui lòng chờ chút ạ"
+        },
+        {
+          "key": "C",
+          "jp": "①「こんにちは」②「名前は何ですか」③「ちょっと待って」",
+          "vn": "① Chào ② Tên bạn là gì? ③ Chờ tí (thô — hoàn toàn không phù hợp)"
+        },
+        {
+          "key": "D",
+          "jp": "①「いらっしゃいませ」②「お名前を教えてもらえますか」③「お待ちください」",
+          "vn": "① Kính chào ② Bạn có thể cho biết tên không? ③ Xin chờ (câu ② thiếu trang trọng)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Câu B chuẩn hoàn toàn: ①「いらっしゃいませ」= Sonkeigo chào đón; ②「お名前をお聞かせいただけますでしょうか」= お名前 (Teineigo) + お聞かせいただく (Kenjougo) + でしょうか (Teineigo lịch sự) — kết hợp hoàn hảo; ③「少々お待ちくださいませ」= Sonkeigo (くださる) + ませ (thêm lịch sự) + Teineigo (ます). Câu A sai ở ②: 「お名前をいただけますか」nghe như 'tôi có thể nhận tên của ngài không' — いただく dùng sai ngữ cảnh ở đây.",
+      "tip": "くださいませ = くださいより丁寧 (lịch sự hơn ください) — dùng trong tiếp khách VIP và lễ tân chuyên nghiệp"
+    },
+    {
+      "id": 22,
+      "level": 3,
+      "level_name": "Khá",
+      "category": "Teineigo — mẫu câu xin lỗi tiêu chuẩn",
+      "question_jp": "「すみません」「申し訳ありません」「申し訳ございません」を丁寧さの低い順に並べてください。",
+      "question_vn": "Sắp xếp từ ÍT lịch sự đến NHIỀU lịch sự: 「すみません」「申し訳ありません」「申し訳ございません」",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "すみません→申し訳ありません→申し訳ございません",
+          "vn": "すみません (thông thường) → 申し訳ありません (Teineigo) → 申し訳ございません (Teineigo trang trọng nhất)"
+        },
+        {
+          "key": "B",
+          "jp": "申し訳ございません→申し訳ありません→すみません",
+          "vn": "Ngược lại"
+        },
+        {
+          "key": "C",
+          "jp": "申し訳ありません→すみません→申し訳ございません",
+          "vn": "Thứ tự khác"
+        },
+        {
+          "key": "D",
+          "jp": "全て同じ丁寧さ",
+          "vn": "Tất cả có cùng mức lịch sự"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Thang lịch sự khi xin lỗi: すみません (thông thường, dùng với đồng nghiệp/quen biết) < 申し訳ありません (trang trọng, dùng với cấp trên và khách hàng) < 申し訳ございません (trang trọng nhất — ございません thay ありません). Trong phục vụ khách hàng và xử lý khiếu nại, luôn dùng「申し訳ございません」hoặc「誠に申し訳ございません」. すみません không bao giờ dùng trong email kinh doanh chính thức.",
+      "tip": "申し訳ございません > 申し訳ありません > すみません — với khách VIP luôn dùng mức cao nhất!"
+    },
+    {
+      "id": 23,
+      "level": 3,
+      "level_name": "Khá",
+      "category": "Teineigo trong email — mở đầu theo tình huống",
+      "question_jp": "初めてメールを送る相手への書き出しとして最も適切なものはどれですか？",
+      "question_vn": "Câu mở đầu email gửi lần đầu đến người chưa quen là gì?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "いつもお世話になっております。",
+          "vn": "Cảm ơn sự quan tâm của quý vị. (Dùng khi ĐÃ có quan hệ — sai khi lần đầu)"
+        },
+        {
+          "key": "B",
+          "jp": "突然のご連絡、失礼いたします。〇〇社の田中と申します。",
+          "vn": "Xin lỗi vì liên hệ đột ngột. Tôi là Tanaka, công ty 〇〇 ạ. (Kenjougo — đúng khi lần đầu)"
+        },
+        {
+          "key": "C",
+          "jp": "はじめまして。田中です。よろしく。",
+          "vn": "Rất vui được gặp. Tôi là Tanaka. Nhờ bạn nhé. (quá thân mật)"
+        },
+        {
+          "key": "D",
+          "jp": "ご無沙汰しております。",
+          "vn": "Lâu ngày không liên lạc ạ. (Dùng khi đã quen nhưng lâu không liên lạc — sai khi lần đầu)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Câu B là chuẩn mực khi gửi email lần đầu: 「突然のご連絡、失礼いたします」= Kenjougo (いたす) xin lỗi vì liên hệ đột ngột + tự giới thiệu bằng 「〜と申します」(Kenjougo). Câu A sai: 「お世話になっております」chỉ dùng khi ĐÃ có quan hệ từ trước. Câu D sai: 「ご無沙汰しております」dùng khi đã quen nhưng lâu không gặp.",
+      "tip": "Lần đầu email: 突然のご連絡失礼いたします | Đã quen: お世話になっております | Lâu không liên hệ: ご無沙汰しております"
+    },
+    {
+      "id": 24,
+      "level": 3,
+      "level_name": "Khá",
+      "category": "Teineigo + Sonkeigo kết hợp — thông báo",
+      "question_jp": "「会議は3時から始まります」をお客様に伝える最も丁寧な表現はどれですか？",
+      "question_vn": "Thông báo với khách hàng 'Cuộc họp bắt đầu từ 3 giờ' lịch sự nhất là?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "会議は3時から始まります。",
+          "vn": "Cuộc họp bắt đầu từ 3 giờ. (Teineigo cơ bản)"
+        },
+        {
+          "key": "B",
+          "jp": "会議は3時からでございます。",
+          "vn": "Cuộc họp là từ 3 giờ ạ. (でございます — lịch sự hơn)"
+        },
+        {
+          "key": "C",
+          "jp": "会議は3時よりご開催となっております。",
+          "vn": "Cuộc họp được tổ chức từ 3 giờ ạ. (ご開催 + となっております — trang trọng nhất)"
+        },
+        {
+          "key": "D",
+          "jp": "B と C の両方が A より丁寧",
+          "vn": "Cả B và C đều lịch sự hơn A"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Câu B dùng でございます thay thế です — nâng mức Teineigo. Câu C: 「ご開催（かいさい）」= lịch sự hóa 開催 (tổ chức) bằng tiền tố ご + 「となっております」= Teineigo+Kenjougo (おる = Kenjougo của いる). 「より」trang trọng hơn 「から」khi chỉ thời gian bắt đầu trong văn bản. Câu C phù hợp cho sự kiện lớn, hội nghị. Cả B và D đều xuất hiện trong BJT.",
+      "tip": "より (trang trọng) > から (thông thường) khi chỉ thời gian/địa điểm trong văn bản lịch sự"
+    },
+    {
+      "id": 25,
+      "level": 3,
+      "level_name": "Khá",
+      "category": "Teineigo — câu trả lời điện thoại theo tình huống",
+      "question_jp": "電話で「担当の田中は今、席にいません」を丁寧に伝えると？（田中はUchi）",
+      "question_vn": "Nói qua điện thoại 'Nhân viên phụ trách Tanaka hiện không có mặt ở chỗ' (Tanaka là Uchi):",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "田中はいません。",
+          "vn": "Tanaka không có. (thô)"
+        },
+        {
+          "key": "B",
+          "jp": "田中はただいま席を外しております。",
+          "vn": "Tanaka hiện đang vắng chỗ ạ. (Kenjougo + Teineigo — chuẩn)"
+        },
+        {
+          "key": "C",
+          "jp": "田中はただいま離席中でございます。",
+          "vn": "Tanaka hiện đang vắng chỗ ạ. (でございます — trang trọng hơn)"
+        },
+        {
+          "key": "D",
+          "jp": "B と C の両方が適切",
+          "vn": "Cả B và C đều phù hợp"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Cả B và C đều đúng: Câu B「席を外しております」= cách nói chuẩn nhất trong điện thoại Nhật (を外す = vắng chỗ + おる = Kenjougo vì Tanaka là Uchi). Câu C「離席中でございます」dùng 離席中 (đang vắng mặt) + でございます (Teineigo) — hơi trang trọng hơn B, tự nhiên hơn trong môi trường dịch vụ cao cấp. Tiếp theo nên hỏi:「よろしければご伝言を承りましょうか」.",
+      "tip": "席を外しております = cách nói 'vắng mặt' chuẩn nhất trong điện thoại kinh doanh Nhật"
+    },
+    {
+      "id": 26,
+      "level": 3,
+      "level_name": "Khá",
+      "category": "Teineigo — phân biệt các cụm kết thúc câu",
+      "question_jp": "「〜と思います」「〜と存じます」「〜かと存じます」を丁寧さの低い順に並べてください。",
+      "question_vn": "Sắp xếp từ ÍT đến NHIỀU lịch sự: 「〜と思います」「〜と存じます」「〜かと存じます」",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "〜と思います → 〜と存じます → 〜かと存じます",
+          "vn": "と思います (Teineigo) → と存じます (Kenjougo) → かと存じます (Kenjougo + phỏng đoán nhẹ = lịch sự nhất)"
+        },
+        {
+          "key": "B",
+          "jp": "〜かと存じます → 〜と存じます → 〜と思います",
+          "vn": "Ngược lại hoàn toàn"
+        },
+        {
+          "key": "C",
+          "jp": "〜と存じます → 〜と思います → 〜かと存じます",
+          "vn": "Thứ tự khác"
+        },
+        {
+          "key": "D",
+          "jp": "全て同じ",
+          "vn": "Tất cả giống nhau"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Thang lịch sự: 〜と思います (Teineigo — cơ bản) < 〜と存じます (Kenjougo của 思う — trang trọng) < 〜かと存じます (thêm か làm câu phỏng đoán nhẹ, thể hiện khiêm nhường tối đa — 'tôi khiêm tốn nghĩ rằng có lẽ là...'). 「〜かと存じます」thường xuất hiện trong thư từ chính thức và báo cáo trang trọng. Ví dụ: 「ご不便をおかけしたかと存じます」(Tôi e rằng đã gây bất tiện cho ngài).",
+      "tip": "〜かと存じます = lịch sự tối đa khi diễn đạt nhận định/phỏng đoán — dùng trong báo cáo và thư chính thức"
+    },
+    {
+      "id": 27,
+      "level": 3,
+      "level_name": "Khá",
+      "category": "Teineigo — mẫu câu chuyển máy điện thoại",
+      "question_jp": "電話で担当者に取り次ぐ時、正しい表現の組み合わせはどれですか？\n①お客様への言葉 ②担当者への言葉",
+      "question_vn": "Khi chuyển máy điện thoại, cặp câu nào đúng?\n① Nói với khách ② Nói với nhân viên phụ trách",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "①「少々お待ちくださいませ」②「田中さん、〇〇様からお電話です」",
+          "vn": "① Xin đợi chút ạ ② Anh Tanaka, có điện thoại của ông/bà 〇〇 ạ"
+        },
+        {
+          "key": "B",
+          "jp": "①「ちょっと待って」②「電話だよ」",
+          "vn": "① Chờ chút ② Có điện thoại đó (thô — không phù hợp cả hai)"
+        },
+        {
+          "key": "C",
+          "jp": "①「少々お待ちいただけますでしょうか」②「田中さん、〇〇様よりお電話が入っております」",
+          "vn": "① Xin phép chờ chút ạ ② Anh Tanaka, có điện thoại từ ông/bà 〇〇 ạ (trang trọng hơn A)"
+        },
+        {
+          "key": "D",
+          "jp": "A と C の両方が状況に応じて使える",
+          "vn": "Cả A và C đều dùng được tùy mức trang trọng"
+        }
+      ],
+      "answer": "D",
+      "explanation": "A và C đều đúng: Câu A tự nhiên cho điện thoại thông thường. Câu C trang trọng hơn: 「お待ちいただけますでしょうか」(xin phép được chờ — Kenjougo + Teineigo) + 「〜よりお電話が入っております」(有 điện thoại từ — trang trọng hơn 「〜からです」). よりtrang trọng hơn から. 「お電話が入っております」là cách nói chuyên nghiệp nhất khi thông báo có điện thoại đến.",
+      "tip": "〜よりお電話が入っております > 〜からお電話です về mức trang trọng khi thông báo có điện thoại"
+    },
+    {
+      "id": 28,
+      "level": 3,
+      "level_name": "Khá",
+      "category": "Teineigo — ứng dụng trong hội họp",
+      "question_jp": "会議の開始を告げる際、最も適切なビジネス表現はどれですか？",
+      "question_vn": "Câu nào phù hợp nhất khi tuyên bố khai mạc cuộc họp?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "じゃあ、始めましょう。",
+          "vn": "Thì bắt đầu thôi nào. (thân mật — không phù hợp họp chính thức)"
+        },
+        {
+          "key": "B",
+          "jp": "それでは、ただいまより会議を始めます。",
+          "vn": "Vậy thì, bây giờ chúng ta bắt đầu cuộc họp. (Teineigo — phổ biến)"
+        },
+        {
+          "key": "C",
+          "jp": "それでは、定刻となりましたので、ただいまより会議を始めさせていただきます。",
+          "vn": "Vậy thì, đã đến giờ quy định, xin phép bắt đầu cuộc họp ạ. (đầy đủ nhất)"
+        },
+        {
+          "key": "D",
+          "jp": "B と C の両方が使える",
+          "vn": "Cả B và C đều dùng được"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Câu B đơn giản và phổ biến trong họp nội bộ. Câu C đầy đủ hơn: 「定刻となりましたので」(vì đã đến giờ quy định) + 「始めさせていただきます」(Kenjougo させていただく — xin phép bắt đầu) → dùng trong hội nghị, sự kiện có đối tác hoặc khách hàng. Việc thêm 定刻となりましたので cho thấy sự chuyên nghiệp và tôn trọng đúng giờ của người chủ trì.",
+      "tip": "定刻となりましたので = vì đã đúng giờ quy định — câu khai mạc chuyên nghiệp nhất trong sự kiện có khách"
+    },
+    {
+      "id": 29,
+      "level": 3,
+      "level_name": "Khá",
+      "category": "Teineigo — phân biệt ngữ cảnh nội bộ vs bên ngoài",
+      "question_jp": "社内の同僚に話す時と、お客様に話す時で、使う敬語レベルが違います。正しい例はどれですか？",
+      "question_vn": "Khi nói với đồng nghiệp nội bộ và khi nói với khách hàng, mức kính ngữ khác nhau. Ví dụ nào đúng?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "社内：「田中部長はいらっしゃいますか」/ 社外：「田中はおりますか」",
+          "vn": "Nội bộ: 'Trưởng phòng Tanaka có không?' / Bên ngoài: 'Tanaka có không?' (ngược — SAI)"
+        },
+        {
+          "key": "B",
+          "jp": "社内：「田中部長はいますか」/ 社外（お客様に）：「田中はただいまおります」",
+          "vn": "Nội bộ: 'Trưởng phòng Tanaka có không?' / Với khách: 'Tanaka đang có mặt ạ' (đúng)"
+        },
+        {
+          "key": "C",
+          "jp": "社内も社外も同じ敬語を使う",
+          "vn": "Trong và ngoài dùng kính ngữ giống nhau"
+        },
+        {
+          "key": "D",
+          "jp": "社外ではいつもSonkeigoだけ使う",
+          "vn": "Khi nói với bên ngoài luôn chỉ dùng Sonkeigo"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Câu B đúng: Nội bộ: 「田中部長はいますか」(Teineigo cơ bản — OK với đồng nghiệp). Với khách về Tanaka (Uchi): 「田中はただいまおります」(Kenjougo + bỏ 部長 — đúng quy tắc Uchi/Soto). Câu A ngược chiều — hoàn toàn sai. Câu D sai: với khách cần kết hợp cả Sonkeigo (cho khách) và Kenjougo (cho người Uchi), không phải chỉ Sonkeigo.",
+      "tip": "Nội bộ: Teineigo là đủ | Với khách: Sonkeigo cho họ + Kenjougo cho Uchi — không bao giờ dùng một loại duy nhất!"
+    },
+    {
+      "id": 30,
+      "level": 3,
+      "level_name": "Khá",
+      "category": "Teineigo — mẫu câu kết thúc cuộc gặp",
+      "question_jp": "お客様との商談が終わった後、お見送りする時の言葉として最も適切なものはどれですか？",
+      "question_vn": "Câu tiễn khách sau khi kết thúc buổi gặp kinh doanh lịch sự nhất là?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "バイバイ。またね。",
+          "vn": "Bye bye. Gặp lại nhé. (hoàn toàn không phù hợp)"
+        },
+        {
+          "key": "B",
+          "jp": "ありがとうございました。お気をつけてお帰りください。",
+          "vn": "Cảm ơn ạ. Mời ngài về bình an. (Teineigo + Sonkeigo — chuẩn)"
+        },
+        {
+          "key": "C",
+          "jp": "本日はご足労いただき、誠にありがとうございました。どうぞお気をつけてお帰りくださいませ。",
+          "vn": "Cảm ơn ngài đã không quản đường xá hôm nay ạ. Kính mời ngài về bình an. (trang trọng nhất)"
+        },
+        {
+          "key": "D",
+          "jp": "B と C の両方が状況に応じて使える",
+          "vn": "Cả B và C đều dùng được tùy mức quan trọng của khách"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Câu B phù hợp cho cuộc gặp thông thường. Câu C trang trọng hơn: 「ご足労いただく」(cảm ơn vì đã nhọc công đến) + 「お気をつけてお帰りくださいませ」(くださいませ — lịch sự nhất). 「お気をつけて」= cầu chúc bình an khi về — kết hợp với Sonkeigo (お帰りくださいませ) và Teineigo (ございました). Trong BJT, cả hai đều xuất hiện tùy ngữ cảnh.",
+      "tip": "お気をつけてお帰りくださいませ = câu tiễn khách lịch sự nhất — くださいませ trang trọng hơn ください"
+    },
+    {
+      "id": 31,
+      "level": 4,
+      "level_name": "Khó",
+      "category": "Phát hiện lỗi — dùng sai でございます",
+      "question_jp": "次の文の中で「でございます」の使い方が間違っているものはどれですか？",
+      "question_vn": "Câu nào dùng「でございます」SAI?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "こちらが会議室でございます。",
+          "vn": "Đây là phòng họp ạ. (danh từ + でございます — đúng)"
+        },
+        {
+          "key": "B",
+          "jp": "お客様がいらっしゃいますでございます。",
+          "vn": "Khách hàng đang ở đây ạ. (いらっしゃいます + でございます = kép — sai!)"
+        },
+        {
+          "key": "C",
+          "jp": "資料はこちらでございます。",
+          "vn": "Tài liệu là ở đây ạ. (đúng)"
+        },
+        {
+          "key": "D",
+          "jp": "田中でございます。",
+          "vn": "Tôi là Tanaka ạ. (tên + でございます — đúng)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "「いらっしゃいますでございます」là lỗi nặng: いらっしゃいます đã là Sonkeigo hoàn chỉnh (động từ + ます), không thể thêm でございます sau ます. でございます thay thế です (danh từ/tính từ + です), KHÔNG thay thế ます (sau động từ). Sai: いらっしゃいますでございます. Đúng: いらっしゃいます hoặc でいらっしゃいます (sau danh từ). Đây là lỗi tinh tế hay gặp trong BJT!",
+      "tip": "でございます thay thế です (Danh từ/Tính từ な + です → でございます). KHÔNG thêm sau động từ + ます!"
+    },
+    {
+      "id": 32,
+      "level": 4,
+      "level_name": "Khó",
+      "category": "Phân tích toàn diện — xác định lớp Teineigo trong câu phức",
+      "question_jp": "「ご確認いただけますと幸いでございます」の敬語分析として正しいのはどれですか？",
+      "question_vn": "Phân tích kính ngữ trong câu「ご確認いただけますと幸いでございます」— Giải thích nào đúng?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "全体が尊敬語",
+          "vn": "Toàn bộ là Sonkeigo"
+        },
+        {
+          "key": "B",
+          "jp": "「ご確認」は丁寧語、「いただけます」は謙譲語、「でございます」は丁寧語",
+          "vn": "「ご確認」= Teineigo, 「いただけます」= Kenjougo, 「でございます」= Teineigo"
+        },
+        {
+          "key": "C",
+          "jp": "「ご確認」は尊敬語（相手の行動を高める）、「いただけます」は謙譲語（自分が受ける）、「でございます」は丁寧語",
+          "vn": "「ご確認」= Sonkeigo (nâng hành động xác nhận của đối phương), 「いただけます」= Kenjougo (mình được nhận), 「でございます」= Teineigo"
+        },
+        {
+          "key": "D",
+          "jp": "全体が謙譲語",
+          "vn": "Toàn bộ là Kenjougo"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Phân tích chính xác: 「ご確認」= tiền tố ご + 確認 → Sonkeigo (nâng cao hành động 'xác nhận' của đối phương). 「いただけます」= いただく (Kenjougo của もらう) + けます (khả năng + lịch sự) → Kenjougo (mình được nhận việc đối phương xác nhận). 「幸いでございます」= でございます (Teineigo trang trọng). Câu này là ví dụ điển hình của việc 3 loại kính ngữ cùng xuất hiện trong một câu — cực phổ biến trong BJT!",
+      "tip": "ご〜いただけますと幸いでございます = Sonkeigo + Kenjougo + Teineigo trong 1 câu — mẫu email đẳng cấp!"
+    },
+    {
+      "id": 33,
+      "level": 4,
+      "level_name": "Khó",
+      "category": "Phát hiện lỗi — tiền tố お/ご không phù hợp",
+      "question_jp": "次の文でお/ごの使い方に問題があるものはどれですか？",
+      "question_vn": "Câu nào có vấn đề về cách dùng お/ご?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "お荷物をお預かりいたします。",
+          "vn": "Tôi xin giữ hành lý giúp quý vị. (お荷物 + お預かり — đúng)"
+        },
+        {
+          "key": "B",
+          "jp": "ご挨拶をお申し上げます。",
+          "vn": "Tôi xin kính chào. (ご挨拶 + お申し上げ — sai kết hợp)"
+        },
+        {
+          "key": "C",
+          "jp": "お料理をご用意いたしました。",
+          "vn": "Chúng tôi đã chuẩn bị món ăn. (お料理 + ご用意いたす — đúng)"
+        },
+        {
+          "key": "D",
+          "jp": "ご連絡をお待ちしております。",
+          "vn": "Tôi đang chờ liên hệ của quý vị. (ご連絡 + お待ちする — đúng)"
+        }
+      ],
+      "answer": "B",
+      "explanation": "「ご挨拶をお申し上げます」có vấn đề: 申し上げる là từ thuần Nhật (Wago) nên tiền tố là お không phải ご. Đúng phải là「ご挨拶を申し上げます」(không thêm お vào trước 申し上げる, hoặc không cần tiền tố). Câu A đúng: お荷物 (Wago) + お預かりする (Wago). Câu C đúng: お料理 (Wago) + ご用意 (Kango). Câu D đúng: ご連絡 (Kango) + お待ちする (Wago).",
+      "tip": "申し上げる là Wago → không thêm お trước. 「ご挨拶を申し上げます」là đúng, không phải「お申し上げます」!"
+    },
+    {
+      "id": 34,
+      "level": 4,
+      "level_name": "Khó",
+      "category": "Teineigo — phân biệt ございます ứng dụng tinh tế",
+      "question_jp": "次のうち「ございます」の使い方が最も適切なものはどれですか？",
+      "question_vn": "Câu nào dùng「ございます」ĐÚNG và TỰ NHIÊN nhất?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "お客様がございます。",
+          "vn": "Khách hàng đang ở đây. (ございます cho người — SAI)"
+        },
+        {
+          "key": "B",
+          "jp": "ご不明な点がございましたら、お知らせください。",
+          "vn": "Nếu có điểm nào chưa rõ, mời quý vị cho biết ạ. (ございます cho tình huống — đúng)"
+        },
+        {
+          "key": "C",
+          "jp": "ありがとうございます — ここでの「ございます」は何ですか？",
+          "vn": "ありがとうございます — ございます ở đây là gì?"
+        },
+        {
+          "key": "D",
+          "jp": "B は正しい。C の「ございます」は「ある」の丁寧語として固定表現",
+          "vn": "B đúng. ございます trong C là dạng cố định của ある (→ ありがとうある → ありがとうございます)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Câu A sai: ございます không dùng để chỉ sự tồn tại của người (dùng いらっしゃいます thay thế). Câu B đúng: ございます cho sự tồn tại của 'điểm chưa rõ' (đồ/tình huống). Câu D giải thích cả hai: 「ありがとうございます」là cụm cố định — ございます ở đây là dạng trang trọng của ある (ありがとう + ある → ありがとうございます). Đây là từ nguồn gốc Kenjougo đã trở thành Teineigo cố định theo thời gian.",
+      "tip": "ございます ✅ cho đồ/tình huống | ✅ trong cụm cố định (ありがとうございます) | ❌ cho người (phải dùng いらっしゃいます)"
+    },
+    {
+      "id": 35,
+      "level": 4,
+      "level_name": "Khó",
+      "category": "Teineigo — câu phủ định trang trọng nâng cao",
+      "question_jp": "「〜ではございません」「〜ではありません」「〜ではないです」を使い分ける基準として正しいのは？",
+      "question_vn": "Tiêu chí nào đúng để phân biệt cách dùng 3 dạng phủ định: 「〜ではございません」「〜ではありません」「〜ではないです」?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "全て同じで、使い分けは不要",
+          "vn": "Tất cả giống nhau, không cần phân biệt"
+        },
+        {
+          "key": "B",
+          "jp": "丁寧さ：ではないです（普通） < ではありません（丁寧） < ではございません（最丁寧）",
+          "vn": "Mức lịch sự: ではないです (thông thường) < ではありません (lịch sự) < ではございません (trang trọng nhất)"
+        },
+        {
+          "key": "C",
+          "jp": "「ではございません」は尊敬語なので、相手のことにしか使えない",
+          "vn": "「ではございません」là Sonkeigo, chỉ dùng về đối phương"
+        },
+        {
+          "key": "D",
+          "jp": "「ではないです」は文法的に間違い",
+          "vn": "「ではないです」sai ngữ pháp"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Thang lịch sự đúng: ではないです (tự nhiên trong hội thoại, không trang trọng) < ではありません (Teineigo chuẩn — dùng trong kinh doanh) < ではございません (Teineigo tối đa — dùng với khách VIP, trong email chính thức). Câu C sai: ではございません không phải Sonkeigo, dùng được cho mọi chủ ngữ. Câu D sai: ではないです ngữ pháp đúng nhưng kém trang trọng.",
+      "tip": "ではないです → ではありません → ではございません: cùng nghĩa phủ định nhưng tăng dần mức trang trọng"
+    },
+    {
+      "id": 36,
+      "level": 4,
+      "level_name": "Khó",
+      "category": "Teineigo — phân tích lỗi trong văn bản thực",
+      "question_jp": "次のアナウンス文で、最も不自然または間違った表現はどれですか？\n「①本日はご来場いただきまして、②誠にありがとうございます。③まもなく開演でございます。④携帯電話の電源をお切りください。⑤なお、会場内での飲食はご遠慮してください。」",
+      "question_vn": "Trong câu thông báo sau, phần nào SAI hoặc KHÔNG TỰ NHIÊN nhất?\n「①本日はご来場いただきまして、②誠にありがとうございます。③まもなく開演でございます。④携帯電話の電源をお切りください。⑤なお、会場内での飲食はご遠慮してください。」",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "① ご来場いただきまして",
+          "vn": "① ご来場いただきまして"
+        },
+        {
+          "key": "B",
+          "jp": "③ 開演でございます",
+          "vn": "③ 開演でございます"
+        },
+        {
+          "key": "C",
+          "jp": "④ 電源をお切りください",
+          "vn": "④ 電源をお切りください — お切り là không tự nhiên"
+        },
+        {
+          "key": "D",
+          "jp": "⑤ ご遠慮してください",
+          "vn": "⑤ ご遠慮してください — sai cấu trúc, phải là ご遠慮ください hoặc ご遠慮いただけますか"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Phần ⑤「ご遠慮してください」sai: 「ご遠慮する」là Kenjougo — hành động của MÌNH. Khi yêu cầu đối phương kiềm chế/vui lòng không làm gì đó, phải dùng 「ご遠慮ください」(Sonkeigo — mời ngài kiềm chế) hoặc 「ご遠慮いただけますでしょうか」. Câu ④: 「お切りください」hơi cứng nhưng không sai — 「電源をお切りいただけますようお願いいたします」tự nhiên hơn trong thực tế. Đây là bẫy thường gặp trong đề thi BJT.",
+      "tip": "ご遠慮ください ✅ (yêu cầu khách kiềm chế) | ご遠慮してください ❌ (してください + ご〜する = mâu thuẫn chủ ngữ)"
+    },
+    {
+      "id": 37,
+      "level": 4,
+      "level_name": "Khó",
+      "category": "Teineigo — phân tích câu hỏi điện thoại tinh tế",
+      "question_jp": "「お電話番号をお教えいただけますでしょうか」の分析として正しいのは？",
+      "question_vn": "Phân tích câu「お電話番号をお教えいただけますでしょうか」— Giải thích nào đúng?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "「お電話番号」は謙譲語、「お教えいただく」は尊敬語",
+          "vn": "「お電話番号」là Kenjougo, 「お教えいただく」là Sonkeigo"
+        },
+        {
+          "key": "B",
+          "jp": "「お電話番号」は丁寧語（相手の番号を丁寧に指す）、「お教えいただけます」は謙譲語（自分が教えてもらう）、「でしょうか」は丁寧語",
+          "vn": "「お電話番号」= Teineigo (số điện thoại của ngài — lịch sự), 「お教えいただけます」= Kenjougo (mình được ngài cho biết), 「でしょうか」= Teineigo"
+        },
+        {
+          "key": "C",
+          "jp": "この文は二重敬語なので間違い",
+          "vn": "Câu này là 二重敬語 nên sai"
+        },
+        {
+          "key": "D",
+          "jp": "「お電話番号」と「お教え」でおが重複しているので不自然",
+          "vn": "「お電話番号」và「お教え」đều có お nên trùng lặp — không tự nhiên"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Câu B phân tích chính xác: お電話番号 = Teineigo (お + 電話番号 — lịch sự hóa số điện thoại của đối phương). お教えいただけます = Kenjougo (お教えする là Kenjougo của 教える, + いただく = được nhận). でしょうか = Teineigo (hỏi lịch sự). Câu C sai: đây không phải 二重敬語 — mỗi lớp có chức năng riêng. Câu D sai: việc có nhiều お trong một câu không phải vấn đề nếu mỗi từ dùng đúng.",
+      "tip": "Một câu có thể có nhiều お/ご miễn là mỗi từ dùng đúng ngữ pháp — không phải 二重敬語!"
+    },
+    {
+      "id": 38,
+      "level": 4,
+      "level_name": "Khó",
+      "category": "Teineigo — phân biệt mức trang trọng toàn hệ thống",
+      "question_jp": "次の4つの文を丁寧さの低い順に正しく並べてください。\n①「これは何ですか？」②「こちらは何でしょうか？」③「こちらは何でございますか？」④「こちらはどのようなものでございますか？」",
+      "question_vn": "Sắp xếp 4 câu từ ÍT lịch sự đến NHIỀU lịch sự:\n①「これは何ですか？」②「こちらは何でしょうか？」③「こちらは何でございますか？」④「こちらはどのようなものでございますか？」",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "①→②→③→④",
+          "vn": "① (thô nhất) → ② → ③ → ④ (lịch sự nhất)"
+        },
+        {
+          "key": "B",
+          "jp": "④→③→②→①",
+          "vn": "④ (lịch sự nhất) → ③ → ② → ①"
+        },
+        {
+          "key": "C",
+          "jp": "②→①→③→④",
+          "vn": "② → ① → ③ → ④"
+        },
+        {
+          "key": "D",
+          "jp": "①→③→②→④",
+          "vn": "① → ③ → ② → ④"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Thang lịch sự tăng dần: ① これは何ですか (これ = thô, ですか = Teineigo cơ bản) < ② こちらは何でしょうか (こちら = lịch sự hơn これ, でしょうか = Teineigo cao hơn) < ③ こちらは何でございますか (でございます = Teineigo tối đa) < ④ こちらはどのようなものでございますか (どのようなもの = cách hỏi gián tiếp, lịch sự nhất toàn bộ). Sự khác biệt: これ < こちら (chỉ định lịch sự hơn), ですか < でしょうか < でございますか.",
+      "tip": "これ < こちら | ですか < でしょうか < でございますか | 何 < どのようなもの — mỗi yếu tố đều có mức lịch sự!"
+    },
+    {
+      "id": 39,
+      "level": 4,
+      "level_name": "Khó",
+      "category": "Teineigo tổng hợp — phân tích hội thoại thực tế",
+      "question_jp": "次の受付の会話で最も自然なものはどれですか？",
+      "question_vn": "Hội thoại tại lễ tân nào TỰ NHIÊN và CHUẨN nhất?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "受付:「何のご用ですか」客:「田中部長に会いたい」受付:「少し待ってください」",
+          "vn": "Lễ tân: Có việc gì? / Khách: Muốn gặp Trưởng phòng Tanaka / Lễ tân: Chờ chút (thô)"
+        },
+        {
+          "key": "B",
+          "jp": "受付:「本日はどのようなご用件でいらっしゃいますか」客:「田中部長にご面会したいのですが」受付:「ただいまご連絡いたします。少々お待ちくださいませ」",
+          "vn": "Lễ tân: Hôm nay quý vị đến có việc gì ạ? / Khách: Tôi muốn gặp Trưởng phòng Tanaka ạ / Lễ tân: Tôi sẽ liên hệ ngay. Xin đợi chút ạ."
+        },
+        {
+          "key": "C",
+          "jp": "受付:「何の用ですか」客:「田中部長に会いたいです」受付:「確認します」",
+          "vn": "Lễ tân: Có việc gì? / Khách: Tôi muốn gặp Trưởng phòng Tanaka / Lễ tân: Tôi sẽ xác nhận (bình thường)"
+        },
+        {
+          "key": "D",
+          "jp": "B が全体的に最も自然でビジネス的",
+          "vn": "B tự nhiên và kinh doanh nhất tổng thể"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Câu B chuẩn toàn diện: Lễ tân dùng「どのようなご用件でいらっしゃいますか」(Sonkeigo いらっしゃる + Teineigo). Khách dùng「ご面会したい」(ご面会 = lịch sự hóa 面会). Lễ tân đáp「ただいまご連絡いたします」(Kenjougo cho hành động của mình) +「少々お待ちくださいませ」(Sonkeigo + ませ = tôn kính nhất). Đây là cuộc hội thoại lễ tân BJT thực chiến hoàn chỉnh nhất.",
+      "tip": "Hội thoại lễ tân chuẩn: Lễ tân dùng Sonkeigo cho khách + Kenjougo cho hành động của mình — tất cả kết thúc bằng Teineigo"
+    },
+    {
+      "id": 40,
+      "level": 4,
+      "level_name": "Khó",
+      "category": "Tổng kết 3 loại kính ngữ — câu hỏi phân tích cuối",
+      "question_jp": "「お客様がご利用になったサービスについて、弊社の担当者よりご説明申し上げます」の敬語を正しく分析したものはどれですか？",
+      "question_vn": "Phân tích kính ngữ trong câu:「お客様がご利用になったサービスについて、弊社の担当者よりご説明申し上げます」",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "全文が尊敬語",
+          "vn": "Toàn câu là Sonkeigo"
+        },
+        {
+          "key": "B",
+          "jp": "「ご利用になった」は尊敬語（お客様の行動）、「ご説明申し上げます」は謙譲語（担当者の行動）、全体の文体は丁寧語",
+          "vn": "「ご利用になった」= Sonkeigo (hành động của khách) | 「ご説明申し上げます」= Kenjougo (hành động của nhân viên) | Văn phong toàn câu = Teineigo"
+        },
+        {
+          "key": "C",
+          "jp": "「ご利用になった」は謙譲語、「申し上げます」は尊敬語",
+          "vn": "「ご利用になった」= Kenjougo, 「申し上げます」= Sonkeigo"
+        },
+        {
+          "key": "D",
+          "jp": "「弊社の担当者」の部分が間違っている",
+          "vn": "Phần「弊社の担当者」sai"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Phân tích hoàn chỉnh: 「ご利用になった」= ご〜になる (Sonkeigo) → hành động 'sử dụng' của お客様 (Soto) được tôn kính. 「弊社の担当者」= 弊社 (Kenjougo — công ty mình) + 担当者 (không thêm さん — đúng với người Uchi trước mặt khách). 「ご説明申し上げます」= ご説明 (lịch sự hóa) + 申し上げる (Kenjougo tối cao của 言う/する) → hành động 'giải thích' của nhân viên (Uchi) được hạ thấp. Toàn bộ câu dùng Teineigo làm nền (〜ます). Đây là câu kinh doanh hoàn chỉnh 3 lớp — điểm BJT cấp cao!",
+      "tip": "Câu kinh doanh hoàn hảo = Sonkeigo cho Soto + Kenjougo cho Uchi + Teineigo làm nền — 3 lớp trong 1 câu!"
+    }
+  ]
+}

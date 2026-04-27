@@ -1,0 +1,165 @@
+{
+  "rule_id": "rule_17",
+  "rule_slug": "緊急連絡の優先順位",
+  "title": {
+    "ja": "緊急連絡の優先順位 (escalation path)",
+    "vi": "Liên lạc khẩn cấp + thứ tự ưu tiên"
+  },
+  "rule_context": {
+    "ja": "深夜の本番障害発生。ズンが反射的に松本様へ電話しようとし、トゥアンリーダーが escalation 順序を指導する場面：直属 → CTO → Plan 確定 → 顧客。",
+    "vi": "Sự cố production đêm khuya. Em Dũng định gọi anh Matsumoto ngay, anh Tuấn dạy thứ tự escalation: trực tiếp → CTO → Plan xong → khách."
+  },
+  "related_rules": [
+    "rule_07",
+    "rule_09",
+    "rule_31"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — Plan 無しで顧客先",
+      "label_vi": "XẤU — Báo khách trước khi có Plan",
+      "display_order": 1,
+      "analysis": {
+        "ja": "Plan を持たずに顧客へ報告すると「どうするんですか」と詰められ、その場で社内議論を始めることになる。最悪パターン。",
+        "vi": "Báo khách khi chưa có Plan = bị truy 'sao bây giờ?' → phải bàn nội bộ ngay tại chỗ trước khách. Tệ nhất."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_17_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "トゥアンさん、私すぐ松本様に電話します。データ消失なので…",
+          "sentence_translation": "Anh Tuấn, em gọi anh Matsumoto luôn nhé. Data bị mất nên...",
+          "tone": "urgent"
+        },
+        {
+          "line_id": "rule_17_bad_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "待って！松本様に電話する前に、(1) ハーCTO に第一報、(2) 対応案を3分で固める、(3) その後松本様に電話。順序間違えると松本様が先に騒ぐ。",
+          "sentence_translation": "Khoan! Trước khi gọi anh Matsumoto: (1) báo đầu cho anh Hà CTO, (2) chốt phương án trong 3 phút, (3) rồi mới gọi anh Matsumoto. Sai thứ tự là khách làm ầm trước.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_17_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、でも顧客優先かと…",
+          "sentence_translation": "Ơ nhưng em nghĩ ưu tiên khách...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_17_bad_04",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "Plan を持たずに顧客に告げると『どうするんですか』と詰められて、そこで初めて社内で議論することになる。最悪。社内で固めてから顧客へ。",
+          "sentence_translation": "Báo khách mà chưa có Plan thì sẽ bị truy 'sao bây giờ?', lúc đó mới bàn nội bộ. Tệ nhất. Chốt nội bộ rồi mới ra khách.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 直属→CTO→Plan→顧客",
+      "label_vi": "TỐT — Trực tiếp → CTO → Plan → khách",
+      "display_order": 2,
+      "analysis": {
+        "ja": "社内で Plan まで固め、CTO の承認を得てから顧客に第一報。顧客は対応中の状況と ETA を同時に受け取れるため安心。",
+        "vi": "Chốt Plan nội bộ + có CTO duyệt rồi mới báo khách. Khách nhận info đồng thời với phương án và ETA → yên tâm."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_17_good_03",
+          "highlight_text": "対応中の事象とPlanを併せてお伝えします",
+          "ja": "顧客への第一報は『事象 + Plan + ETA』をセット。「問題が発生しました」だけでは顧客は不安になる。",
+          "vi": "Báo đầu cho khách = 'sự cố + Plan + ETA' bộ. Chỉ 「問題が発生しました」 thôi thì khách lo lắng."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_17_good_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "ハーさん、緊急のご報告です。Fact〜Impact〜Plan〜Ask を3分でお伝えします。",
+          "sentence_translation": "Anh Hà, em báo cáo khẩn ạ. Em trình bày Fact-Impact-Plan-Ask trong 3 phút ạ.",
+          "tone": "urgent"
+        },
+        {
+          "line_id": "rule_17_good_02",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "了解。Plan OK。第一報をあなた (トゥアン) から松本様に23時までに入れて。",
+          "sentence_translation": "OK. Plan duyệt. Báo đầu em (Tuấn) gọi anh Matsumoto trước 23h.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_17_good_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "松本様、夜分恐縮です。緊急のご報告です。現時点で対応中の事象とPlanを併せてお伝えします。",
+          "sentence_translation": "Anh Matsumoto, em xin lỗi đêm khuya. Em báo cáo khẩn cấp. Em trình bày cả sự cố đang xử lý lẫn phương án ạ.",
+          "tone": "urgent",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_17_good_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "Plan まで持って報告してくれて助かります。社内で共有します。",
+          "sentence_translation": "Cảm ơn anh báo cáo có cả Plan luôn. Tôi share nội bộ bên này.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_17_good_05",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "@here 第一報共有 (Slack thread にて状況更新中)。",
+          "sentence_translation": "@here em share báo đầu (đang update tình trạng trong thread Slack).",
+          "tone": "urgent"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_17_kp_01",
+      "speaker": "tuan_leader",
+      "sentence": "夜分恐縮です。緊急のご報告です。現時点で対応中の事象とPlanを併せてお伝えします。",
+      "sentence_translation": "Em xin lỗi đêm khuya. Em báo cáo khẩn cấp. Em trình bày cả sự cố đang xử lý lẫn phương án ạ.",
+      "purpose": "顧客への緊急第一報冒頭句",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_17_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "本番で重大障害が発生した時、最も適切な escalation 順序は？",
+      "options": [
+        "顧客 → CTO → 直属上司",
+        "直属上司 → CTO → Plan 確定 → 顧客",
+        "Slack #all へ投稿 → 顧客",
+        "顧客のみに連絡"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "社内で Plan まで固めてから顧客に告げるのが原則。Plan 無しで顧客に告げると詰められて現場が混乱する。",
+        "vi": "Nguyên tắc: chốt Plan nội bộ rồi mới báo khách. Báo khách khi chưa có Plan = bị truy → hiện trường rối."
+      }
+    }
+  ]
+}

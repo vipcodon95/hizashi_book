@@ -1,0 +1,189 @@
+{
+  "rule_id": "rule_37",
+  "rule_slug": "ツール選択",
+  "title": {
+    "ja": "Slack / Notion / Email — チャネル選択",
+    "vi": "Chọn channel: Slack / Notion / Email"
+  },
+  "rule_context": {
+    "ja": "田中PMOが4題材を Slack でまとめて送る場面。すべて Slack で返す悪い例から、題材ごとに最適チャネル(Email/Slack/Notion/Outlook)に分割する良い例へ。",
+    "vi": "Anh Tanaka PMO gửi 4 việc qua Slack DM. Từ pattern xấu (trả lời tất cả qua Slack) → đúng (chia 4 channel theo từng việc)."
+  },
+  "related_rules": ["rule_13", "rule_15", "rule_16"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 全部 Slack",
+      "label_vi": "XẤU — Tất cả qua Slack",
+      "display_order": 1,
+      "analysis": {
+        "ja": "20MB PDF や3000文字契約書を Slack に投稿すると検索性ゼロ・ダウンロード不便・公式性も担保できない。題材ごとの適切なツール選択が必要。",
+        "vi": "PDF 20MB hay hợp đồng 3000 chữ trên Slack = search 0 + tải bất tiện + không chính thức. Cần chọn tool theo từng việc."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_37_bad_01",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "(Slack DM) ズンさん、4点ご相談です:① Phase3 公式提案書、②本日の Phase2 障害 ETA、③契約書改定案 v3、④来週水曜 14時の会議候補。",
+          "sentence_translation": "(Slack DM) Dũng, tôi có 4 việc cần hỏi: [1] Proposal chính thức Phase 3 / [2] ETA sự cố Phase 2 hôm nay / [3] Bản sửa hợp đồng v3 / [4] Lịch họp 14h thứ Tư tuần sau.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_37_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(Slack thread) ① はい、提案書はこちらです [PDF添付20MB] / ② ETA は今 15:30 / ③ 契約書改定案は… (3000文字) / ④ 14時OKです",
+          "sentence_translation": "(Slack thread) [1] Vâng, proposal đây ạ [PDF đính kèm 20MB] / [2] ETA bây giờ là 15:30 / [3] Bản sửa hợp đồng là... (3000 chữ) / [4] 14h OK ạ",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_37_bad_03",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ズンさん、② 以外は Slack で扱うべきではない題材です。① は正式メール+提案書添付、③ は Notion 共同編集、④ は Outlook 招待です。今 Slack に 20MB PDF 投稿されたら、検索もダウンロードも非効率です。",
+          "sentence_translation": "Dũng, ngoại trừ mục [2] thì không nên xử lý qua Slack. [1] cần email chính thức + đính kèm proposal, [3] cần Notion cộng tác, [4] cần Outlook invite. PDF 20MB trên Slack thì search và tải đều không hiệu quả.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 題材ごとにチャネル分割",
+      "label_vi": "TỐT — Chia channel theo từng việc",
+      "display_order": 2,
+      "analysis": {
+        "ja": "Slack は ETA(即時)、Email は提案書(公式)、Notion は契約書(共同編集)、Outlook は会議招待(calendar)に明確分担。検索性・公式性・効率を全て確保。",
+        "vi": "Slack cho ETA (tức thì), Email cho proposal (chính thức), Notion cho hợp đồng (cộng tác), Outlook cho invite. Đảm bảo search / chính thức / hiệu quả."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_37_good_02",
+          "highlight_text": "4点それぞれ最適な手段で対応いたします",
+          "ja": "対応宣言で前置き。客は4チャネルに分かれることを事前に認識でき、混乱しない。",
+          "vi": "Tuyên bố cách đáp ứng trước. Khách biết trước sẽ chia 4 channel, không lẫn lộn."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_37_good_02",
+          "highlight_text": "ETA → 今 Slack で即答: 15:30 復旧見込み",
+          "ja": "Slack の本来の用途: 即時×小規模×低保存。incident ETA は典型例。",
+          "vi": "Slack đúng use case: tức thì × nhỏ × persistence thấp. ETA incident là điển hình."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_37_good_02",
+          "highlight_text": "契約書改定 → Notion ページで共有 (編集権付与済URL)",
+          "ja": "契約改定は5+ラウンドの編集が想定される。Notion なら version history と共同編集が両立。",
+          "vi": "Sửa hợp đồng dự kiến 5+ vòng. Notion vừa có version history vừa cộng tác."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_37_good_02",
+          "highlight_text": "会議候補 → 別途 Outlook 招待",
+          "ja": "Calendar event は ICS ファイルと accept/decline tracking が必須。Slack ではこれを担保できない。",
+          "vi": "Calendar event cần file ICS + tracking accept/decline. Slack không đảm bảo được."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_37_good_01",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "(Slack DM) ズンさん、4点ご相談です:① Phase3 公式提案書、②本日の Phase2 障害 ETA、③契約書改定案 v3、④来週水曜 14時の会議候補。",
+          "sentence_translation": "(Slack DM) Dũng, tôi có 4 việc cần hỏi: [1] Proposal chính thức Phase 3 / [2] ETA sự cố Phase 2 hôm nay / [3] Bản sửa hợp đồng v3 / [4] Lịch họp 14h thứ Tư tuần sau.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_37_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(Slack reply) 田中様、4点それぞれ最適な手段で対応いたします: ① 提案書 → 本日18時までに正式メールで送付(松本様CC) / ② ETA → 今 Slack で即答: 15:30 復旧見込み / ③ 契約書改定 → Notion ページで共有(編集権付与済URL) / ④ 会議候補 → 別途 Outlook 招待を送付。",
+          "sentence_translation": "(Slack reply) Anh Tanaka, em xin xử lý 4 việc bằng phương tiện tối ưu cho từng cái ạ: [1] Proposal → mail chính thức trước 18h hôm nay (CC anh Matsumoto) / [2] ETA → Slack reply ngay: dự kiến khôi phục 15:30 / [3] Sửa hợp đồng → share qua Notion page (URL có quyền edit) / [4] Lịch họp → em gửi Outlook invite riêng.",
+          "tone": "formal",
+          "annotation_ids": ["1", "2", "3", "4"]
+        },
+        {
+          "line_id": "rule_37_good_03",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "整理ありがとうございます。Slack で全部やられると煩雑だったので助かります。",
+          "sentence_translation": "Cảm ơn em đã sắp xếp. Nếu nhồi hết qua Slack thì rối lắm, đỡ quá.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_37_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(15:25 Slack) ②即答 ETA: rollback 15:30 完了、復旧確認 15:45 見込み。",
+          "sentence_translation": "(15:25 Slack) [2 trả lời ngay] ETA: rollback 15:30 xong, dự kiến xác nhận khôi phục 15:45.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_37_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(17:50 メール) 件名: 【ご提案】Phase 3 拡張開発のご提案書送付の件 ... [PDF添付6MB]",
+          "sentence_translation": "(17:50 Mail) [Tiêu đề] [Đề xuất] Gửi proposal mở rộng Phase 3 ... [PDF đính kèm 6MB]",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_37_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(18:05 Slack) ③Notion 契約書改定案 v3 を Notion で共有しました: <URL> 編集権あり、コメント歓迎です。",
+          "sentence_translation": "(18:05 Slack) [3 Notion] Em đã share bản sửa hợp đồng v3 qua Notion: <URL>. Có quyền edit, hoan nghênh anh comment ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_37_good_07",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(18:15 Outlook) ④Invite Phase 3 進捗会議 4/29(水) 14:00-15:00 JST",
+          "sentence_translation": "(18:15 Outlook) [4 Invite] Họp tiến độ Phase 3 thứ Tư 29/4 14:00-15:00 JST",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_37_kp_01",
+      "speaker": "zun",
+      "sentence": "〇点それぞれ最適な手段で対応いたします: ① 〇〇 → 〇〇 / ② 〇〇 → 〇〇 …",
+      "sentence_translation": "Em xin xử lý 〇 việc bằng phương tiện tối ưu cho từng cái ạ: [1] 〇〇 → 〇〇 / [2] 〇〇 → 〇〇 ...",
+      "purpose": "複数題材を異なるチャネルに振り分ける宣言",
+      "slow_audio": false
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_37_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "客先からの『契約書改定案 v3』を共有する最適なチャネルは?",
+      "options": [
+        "Slack に20MB PDFを投稿",
+        "Notion ページで編集権付き URL 共有",
+        "口頭電話で読み上げる",
+        "Twitter DM"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "契約書は5+ラウンドの編集とversion history が必要。Notion は共同編集と履歴の両立が可能。Slack に大ファイルは検索性・保存性ともにNG。",
+        "vi": "Hợp đồng cần 5+ vòng edit + version history. Notion vừa cộng tác vừa giữ lịch sử. Slack với file lớn kém cả search và lưu trữ."
+      }
+    }
+  ]
+}

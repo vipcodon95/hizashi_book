@@ -1,0 +1,150 @@
+{
+  "rule_id": "08-27",
+  "rule_slug": "京都",
+  "title": {
+    "vi": "Kyoto — tinh tế, おもてなし, subtle pride",
+    "ja": "京都"
+  },
+  "regional_focus": "Kyoto — 京懐石 / 茶道 / 西陣 / 五花街",
+  "rule_context": {
+    "luan_diem_vi": "Kyoto = tinh tế ngầm. Khen quá thẳng = thô. 6 keywords: 懐石/抹茶/舞妓/おもてなし/西陣織/八ツ橋.",
+    "luan_diem_ja": "京都人は奥ゆかしさと美意識が命。直接褒めより察し・間。懐石/抹茶/舞妓/西陣織/おもてなしが核。",
+    "boi_canh_vi": "Tháng 9/2026, Dũng + Hà CTO + Tuấn gặp 黒田社長 (Kuroda — 西陣 textile 200 năm). Tea morning → 菊乃井 lunch → factory → 先斗町.",
+    "boi_canh_ja": "2026年9月、ズン+ハーCTO+トゥアンが200年続く黒田屋(西陣)社長と。茶→菊乃井→工場→先斗町。",
+    "muc_tieu_vi": "Hiểu sự tinh tế Kyoto + craft + tea + flower district nuance."
+  },
+  "related_rules": [
+    {"book": "08", "rule": "11", "topic": "Món địa phương"},
+    {"book": "08", "rule": "16", "topic": "Festivals"}
+  ],
+  "conversations": [
+    {
+      "scenario": "Sáng — お点前 + 裏千家",
+      "type": "good",
+      "lines": [
+        {"speaker": "matsumoto", "ja": "ようこそお越しくださいました。本日は宇治の新茶をご用意しております。お口に合いますかどうか…", "vi": "Mừng các vị đến. Hôm nay chuẩn bị trà mới Uji. Không biết có hợp khẩu vị không..."},
+        {"speaker": "zun", "ja": "お点前頂戴いたします。宇治のお茶、香りが本当に上品ですね。", "vi": "Em xin phép thưởng trà. Trà Uji hương thật thanh nhã."},
+        {"speaker": "matsumoto", "ja": "お点前頂戴…作法をご存知ですか。嬉しゅうございます。", "vi": "'Otemae chōdai'... Em biết nghi lễ. Quý hóa quá."},
+        {"speaker": "zun", "ja": "茶道は専門ではないのですが、裏千家のお作法を少しだけ。", "vi": "Trà đạo không phải chuyên môn, em chỉ học chút phép Urasenke thôi."},
+        {"speaker": "matsumoto", "ja": "裏千家ですか。京都には表千家・裏千家・武者小路千家と三千家ございましてね。皆さん今日庵(裏千家本山)はご覧になりました?", "vi": "Urasenke à. Kyoto có Sansenke: Omotesenke, Urasenke, Mushakojisenke. Đã thăm Konnichian (bản sơn Urasenke) chưa?"},
+        {"speaker": "zun", "ja": "まだお伺いしていないんです。次回、京都に来る楽しみが増えました。", "vi": "Em chưa được thăm. Lần sau đến Kyoto thêm điều mong đợi."},
+        {"speaker": "matsumoto", "ja": "ご縁がございましたら、ご紹介もできるかもしれませんねぇ。", "vi": "Nếu có duyên, có thể giới thiệu được đó."}
+      ]
+    },
+    {
+      "scenario": "懐石 菊乃井 — 9 món + お椀の蓋",
+      "type": "good",
+      "lines": [
+        {"speaker": "ha_cto", "ja": "美しいですね…まるで絵画のよう。", "vi": "Đẹp quá... như tranh."},
+        {"speaker": "matsumoto", "ja": "菊乃井は京懐石の代表格でね。村田吉弘先生は、京懐石をユネスコ無形文化遺産にする運動の中心人物でいらっしゃいます。", "vi": "Kikunoi là đại diện kaiseki Kyoto. Thầy Murata Yoshihiro là trung tâm phong trào đưa kaiseki vào di sản UNESCO."},
+        {"speaker": "zun", "ja": "懐石は茶懐石から発展した、と聞きました。先付・椀物・向付・八寸・焚合せ・強肴・御飯・止め椀・水菓子…のお作法ですよね。", "vi": "Em nghe kaiseki phát triển từ chakaiseki. Trình tự: sakizuke/wanmono/mukōzuke/hassun/takiawase/shiizakana/gohan/tomewan/mizugashi đúng không ạ?"},
+        {"speaker": "matsumoto", "ja": "ベトナムの方からそこまで詳しくお話を伺うとは…お椀の蓋は膳の右に伏せて置く、ご存知ですか?", "vi": "Người Việt nghe được kỹ vậy... Nắp bát úp bên phải mâm, em biết không?"},
+        {"speaker": "zun", "ja": "はい、蓋の縁を傷めないように、水滴を内側に…と。", "vi": "Vâng, để giọt nước hướng vào trong tránh mép nắp..."},
+        {"speaker": "matsumoto", "ja": "素晴らしい。はんなりしたお人柄でいらっしゃる。", "vi": "Tuyệt. Tính cách 'hannari' thanh nhã."},
+        {"speaker": "ha_cto", "ja": "はんなりって?", "vi": "Hannari là gì?"},
+        {"speaker": "zun", "ja": "京言葉で『上品で柔らか』、最高の褒め言葉です。", "vi": "Tiếng Kyoto là 'thanh + dịu', lời khen cao nhất."}
+      ]
+    },
+    {
+      "scenario": "Factory 西陣 — heritage 500 năm",
+      "type": "good",
+      "lines": [
+        {"speaker": "matsumoto", "ja": "西陣織は応仁の乱の後、1467年ごろから500年以上の歴史でございます。金襴・錦織・緞子…12種ございます。", "vi": "Tây Trận từ sau loạn Ōnin, ~1467, hơn 500 năm. Kinran, nishiki-ori, donsu... 12 loại."},
+        {"speaker": "zun", "ja": "応仁の乱の西陣にいた職人さんから始まった、と聞きました。", "vi": "Em nghe bắt đầu từ thợ ở Tây Trận thời Ōnin."},
+        {"speaker": "matsumoto", "ja": "ようご存知で。手織機は1日に数センチしか織れません。一反(着物1着分)に3ヶ月かかることも。", "vi": "Em biết ghê. Máy dệt tay 1 ngày được vài cm. 1 reel (1 bộ kimono) đôi khi mất 3 tháng."},
+        {"speaker": "tuan_leader", "ja": "機械化はされないんですか?", "vi": "Không cơ giới hóa ạ?"},
+        {"speaker": "matsumoto", "ja": "ジャカード織機で量産もしますが、最高級品は手織。京友禅の着物に西陣帯を合わせると、100万円以上するお品が普通でございますね。", "vi": "Máy Jacquard cũng có sản xuất hàng loạt, nhưng cao cấp nhất là dệt tay. Kimono Kyō-yūzen + đai Nishijin thường trên 1 triệu yên."},
+        {"speaker": "zun", "ja": "京友禅は染め、西陣は織り、ですよね。京都の着物は2つの技術の集大成…", "vi": "Kyō-yūzen là nhuộm, Nishijin là dệt. Kimono Kyoto là tinh hoa 2 kỹ thuật..."},
+        {"speaker": "matsumoto", "ja": "お分かりになりますね。京都にお戻りの折には着物体験もぜひ。夢京都さんがおすすめどす。", "vi": "Em hiểu rõ. Lần sau đến Kyoto thử mặc kimono nhé. Yume Kyōto là gợi ý 'dosu'."}
+      ]
+    },
+    {
+      "scenario": "先斗町 — 舞妓 vs 芸妓 + 一見さんお断り",
+      "type": "good",
+      "lines": [
+        {"speaker": "matsumoto", "ja": "先斗町は祇園と並ぶ花街。京都五花街(祇園甲部・祇園東・先斗町・宮川町・上七軒)のひとつでございます。", "vi": "Pontochō ngang Gion là hanamachi. 1 trong 5 hanamachi Kyoto."},
+        {"speaker": "zun", "ja": "舞妓さんと芸妓さんの違い、教えていただけますか?", "vi": "Maiko và geiko khác nhau thế nào ạ?"},
+        {"speaker": "matsumoto", "ja": "丁寧におききになりますね。舞妓は15-20歳の見習い、芸妓は20歳以上の正式な芸の専門家。髪型も違うんですよ。舞妓は地毛、芸妓はかつら。", "vi": "Em hỏi lịch sự. Maiko 15-20 học việc, geiko 20+ chuyên gia. Tóc khác: maiko tóc thật, geiko tóc giả."},
+        {"speaker": "zun", "ja": "だらりの帯は舞妓さんの特徴ですよね。", "vi": "Darari no obi là đặc trưng maiko nhỉ."},
+        {"speaker": "matsumoto", "ja": "ようご存知で。長さ5メートルの帯を背中に長く垂らすのが舞妓の証。お座敷は一見さんお断りが原則ですけれど、ご紹介があればご一緒できることもございますよ。", "vi": "Em rành đó. Đai 5m phất sau lưng là chứng của maiko. Phòng tiệc nguyên tắc không nhận khách lạ, có giới thiệu thì có thể tham dự."},
+        {"speaker": "zun", "ja": "いつか、ご縁がありましたら…", "vi": "Lúc nào có duyên..."},
+        {"speaker": "matsumoto", "ja": "ふふ、遠慮なさらない方ですね、いい意味で。京都人は察しが効く方を好みます。長いお付き合いを期待しておりますよ。", "vi": "Hìhì, em không câu nệ thái quá, theo nghĩa tốt. Người Kyoto thích người biết đoán ý. Mong hợp tác lâu dài."}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"category": "Mở topic", "ja": "京都はいつ伺っても背筋が伸びる思いがいたします。", "vi": "Đến Kyoto lần nào cũng cảm thấy phải thẳng lưng."},
+    {"category": "Tea", "ja": "お点前頂戴いたします。", "vi": "Em xin nhận trà."},
+    {"category": "Tea", "ja": "宇治のお茶、香りが上品ですね。", "vi": "Trà Uji hương thanh nhã."},
+    {"category": "懐石", "ja": "先付から水菓子まで、まるで絵画のようですね。", "vi": "Từ sakizuke đến mizugashi như tranh."},
+    {"category": "西陣", "ja": "西陣織500年の歴史、一反3ヶ月とは…", "vi": "Tây Trận 500 năm, 1 reel 3 tháng..."},
+    {"category": "舞妓", "ja": "舞妓さんのだらりの帯、5メートルあるんですよね。", "vi": "Đai maiko 5m nhỉ."},
+    {"category": "京言葉", "ja": "『はんなり』、京都ならではの美しい言葉ですね。", "vi": "'Hannari' lời đẹp riêng Kyoto."}
+  ],
+  "regional_cheatsheet": {
+    "fu_capital": "京都市",
+    "specialty_food": ["京懐石(菊乃井/瓢亭/未在/吉兆)", "湯豆腐(奥丹清水)", "湯葉", "にしんそば", "おばんざい", "京漬物(千枚漬/しば漬/すぐき)", "抹茶パフェ", "八ツ橋(聖護院/おたべ)"],
+    "tea": "宇治抹茶 — 一保堂/福寿園/中村藤吉/辻利",
+    "tea_schools": ["表千家", "裏千家", "武者小路千家"],
+    "craft": ["西陣織(1467,500+年,12種)", "京友禅(染)", "清水焼", "京漆器", "京扇子", "京人形"],
+    "five_hanamachi": ["祇園甲部", "祇園東", "先斗町", "宮川町", "上七軒"],
+    "maiko_geiko": "舞妓 15-20見習い+地毛+だらり帯5m. 芸妓 20+&かつら&太鼓帯",
+    "sport_teams": ["京都サンガF.C. (J)", "京都ハンナリーズ (B)"],
+    "festivals": ["祇園祭(7月一ヶ月,山鉾巡行7/17)日本三大", "葵祭(5/15)", "時代祭(10/22)", "五山送り火(8/16)"],
+    "tourism": ["清水寺", "金閣寺", "銀閣寺", "龍安寺", "二条城", "東寺", "平等院", "嵐山(渡月橋/竹林)", "伏見稲荷", "哲学の道"],
+    "dialect": "〜どす/〜はる/おおきに/ぶぶ漬けでも(legend)/はんなり/ほっこり",
+    "mindset": "奥ゆかしさ/察し/本音建前/美意識/1000年の都"
+  },
+  "ng_list": [
+    "Khen 「派手で華やか」 mismatch",
+    "Đùa 「ぶぶ漬けでもどうですか?」 ngược",
+    "So sánh 「東京の方が便利」",
+    "「京都人は冷たい」 stereotype",
+    "Vào お座敷 không giới thiệu",
+    "抹茶 chỉ 「美味しい」 — quá平"
+  ],
+  "vocab": [
+    {"kanji": "懐石", "yomi": "かいせき", "vi": "Kaiseki"},
+    {"kanji": "抹茶", "yomi": "まっちゃ", "vi": "Matcha"},
+    {"kanji": "茶道", "yomi": "さどう", "vi": "Trà đạo"},
+    {"kanji": "お点前", "yomi": "おてまえ", "vi": "Nghi thức pha trà"},
+    {"kanji": "裏千家", "yomi": "うらせんけ", "vi": "Urasenke"},
+    {"kanji": "西陣織", "yomi": "にしじんおり", "vi": "Vải Nishijin"},
+    {"kanji": "京友禅", "yomi": "きょうゆうぜん", "vi": "Nhuộm Kyō-yūzen"},
+    {"kanji": "清水焼", "yomi": "きよみずやき", "vi": "Gốm Kiyomizu"},
+    {"kanji": "舞妓", "yomi": "まいこ", "vi": "Maiko"},
+    {"kanji": "芸妓", "yomi": "げいこ", "vi": "Geiko"},
+    {"kanji": "だらりの帯", "yomi": "だらりのおび", "vi": "Đai 5m maiko"},
+    {"kanji": "祇園祭", "yomi": "ぎおんまつり", "vi": "Lễ hội tháng 7"},
+    {"kanji": "はんなり", "yomi": "はんなり", "vi": "Thanh + dịu"},
+    {"kanji": "湯豆腐", "yomi": "ゆどうふ", "vi": "Đậu phụ luộc"},
+    {"kanji": "宇治", "yomi": "うじ", "vi": "Vùng matcha"}
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "京都のお客様にお茶を出された時の最初の一言は?",
+      "options": ["A. 「いただきます」", "B. 「お点前頂戴いたします」", "C. 「ありがとう」", "D. 黙って飲む"],
+      "answer": "B",
+      "explain_vi": "「お点前頂戴いたします」 = nghi thức formal trà 道."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「ぶぶ漬けでもどうどす?」 の含みは?",
+      "options": ["A. お茶漬けを勧めている", "B. (urban legend) もう帰り時です というほのめかし", "C. お腹すいた?", "D. 食事の時間"],
+      "answer": "B",
+      "explain_vi": "Urban legend Kyoto — không nhất thiết literal nhưng hiểu nuance."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "「はんなりしたお人柄」 と言われた時の意味は?",
+      "options": ["A. 上品で柔らかな性格 (高い褒め)", "B. 田舎っぽい", "C. 派手", "D. 冷たい"],
+      "answer": "A",
+      "explain_vi": "「はんなり」 = top khen Kyoto — thanh + dịu."
+    }
+  ],
+  "templates": []
+}

@@ -1,0 +1,158 @@
+{
+  "rule_id": "08-30",
+  "rule_slug": "福岡",
+  "title": {
+    "vi": "Fukuoka — 博多豚骨, もつ鍋, 屋台, ホークス",
+    "ja": "福岡"
+  },
+  "regional_focus": "福岡 — 博多/天神/中洲/太宰府/北九州",
+  "rule_context": {
+    "luan_diem_vi": "Fukuoka 5 trụ: 博多豚骨ラーメン, もつ鍋, 明太子, 水炊き, 中洲屋台. + ホークス + 麦焼酎. Hakata-ben tone đặc trưng.",
+    "luan_diem_ja": "福岡は5本柱(豚骨ラーメン/もつ鍋/明太子/水炊き/中洲屋台)+ホークス+麦焼酎+博多弁。",
+    "boi_canh_vi": "Tháng 12/2026, Dũng + Hương + Hà CTO sang Fukuoka cuối năm dinner với Sato 60t. もつ鍋 → 中洲屋台 → 太宰府.",
+    "boi_canh_ja": "2026年12月、ズン+フオン+ハーCTOが福岡で佐藤先生(60代)と年末ディナー。もつ鍋→中洲屋台→太宰府。",
+    "muc_tieu_vi": "Master Hakata 5 food + ホークス + 山笠 + Hakata-ben."
+  },
+  "related_rules": [
+    {"book": "08", "rule": "11", "topic": "Món địa phương"},
+    {"book": "08", "rule": "12", "topic": "Sake/shochu"}
+  ],
+  "conversations": [
+    {
+      "scenario": "もつ鍋 おおやま — 5 keywords food + Hakata-ben",
+      "type": "good",
+      "lines": [
+        {"speaker": "sato_kyushu", "ja": "ズンさんたち、ようこそ博多へ。もつ鍋は初めてと?おおやまいう店、ミシュランビブグルマンに載っとる。", "vi": "Các em, chào mừng Hakata. Motsunabe lần đầu phải không? Quán Ōyama có trong Michelin Bib Gourmand."},
+        {"speaker": "zun", "ja": "『と?』、博多弁ですよね。よろしくお願いします。もつ鍋は牛もつですか?", "vi": "'To?' Hakata-ben. Em xin chào. Motsunabe là lòng bò ạ?"},
+        {"speaker": "sato_kyushu", "ja": "牛小腸メインたい。ニラ・キャベツ・にんにくたっぷり、醤油か味噌か選べるけど、博多は醤油派が王道ばい。", "vi": "Lòng nhỏ bò là chính. Nira, bắp cải, tỏi đầy. Chọn shoyu hay miso, Hakata phe shoyu là chuẩn 'bai'."},
+        {"speaker": "zun", "ja": "『ばい』もHakata-ben…〆はちゃんぽん麺ですよね、博多もつ鍋の。", "vi": "'Bai' cũng Hakata-ben... Kết thúc là champon men nhỉ, motsunabe Hakata."},
+        {"speaker": "sato_kyushu", "ja": "お、ちゃんぽん麺で〆るところまで知っとる!最後にスープ吸い切る、これが博多の心意気たい。", "vi": "Ồ, biết cả 'champon men để kết'! Hút hết súp cuối cùng, tinh thần Hakata đó."},
+        {"speaker": "ha_cto", "ja": "明太子も、おおやまさんで?", "vi": "Mentaiko cũng ở Ōyama ạ?"},
+        {"speaker": "sato_kyushu", "ja": "明太子はふくや(博多発祥1949年, 辛子明太子発明)が王道。川原食品、かねふく、博多中洲ふくや…3大ブランド。お土産に買いんしゃい。", "vi": "Mentaiko thì Fukuya (gốc Hakata 1949, phát minh karashi mentaiko) là chuẩn. Kawahara, Kanefuku, Hakata-Nakasu Fukuya... 3 brand. Mua làm quà đi."}
+      ]
+    },
+    {
+      "scenario": "中洲屋台 — ramen 4派 + 替え玉 + 麦焼酎",
+      "type": "good",
+      "lines": [
+        {"speaker": "sato_kyushu", "ja": "中洲那珂川河畔には屋台が約20軒並ぶ。戦後から続く文化たい。屋台ラーメン、おでん、焼き鳥、何でもござれ。", "vi": "Ven sông Naka-gawa Nakasu có ~20 yatai. Văn hóa từ sau chiến tranh. Yatai ramen, oden, yakitori, đủ cả."},
+        {"speaker": "zun", "ja": "博多ラーメン、長浜、博多、久留米、熊本で全部違うんですよね。", "vi": "Ramen Hakata, Nagahama, Hakata, Kurume, Kumamoto — đều khác."},
+        {"speaker": "sato_kyushu", "ja": "九州ラーメン4派全部!長浜は極細麺で替え玉発祥、博多は普通の細麺、久留米は豚骨発祥(1937年南京千両)、熊本はマー油 + にんにくで別物。", "vi": "Cả 4 phái ramen Kyushu! Nagahama mì siêu nhỏ + 替え玉 phát nguyên, Hakata mì nhỏ thường, Kurume tonkotsu phát nguyên (1937 Nankin Senryō), Kumamoto mā-yu + tỏi khác hẳn."},
+        {"speaker": "zun", "ja": "替え玉って、麺だけ追加システムですよね。", "vi": "Kaedama là hệ thống gọi thêm mì nhỉ."},
+        {"speaker": "sato_kyushu", "ja": "1杯目早く食べきって、麺替えるのが博多流。スープ濃いから麺が伸びんうちに。1玉100円くらい。バリカタって麺の硬さも特徴ばい。", "vi": "Tô 1 ăn nhanh, đổi mì là kiểu Hakata. Súp đậm nên đổi trước khi mì nở. 100 yên/lượt. Barikata độ cứng mì cũng đặc trưng."},
+        {"speaker": "zun", "ja": "バリカタ・カタ・普通・やわ・バリやわ…でしたっけ?", "vi": "Barikata - kata - phổ thông - yawa - bariyawa nhỉ?"},
+        {"speaker": "sato_kyushu", "ja": "博多通やね!粉落とし(さっと湯通しだけ)もある。カタ派が一番多いと思う。", "vi": "Em rành Hakata ghê! Có cả konaotoshi (chỉ trụng nhanh). Phe Kata đông nhất."},
+        {"speaker": "ha_cto", "ja": "屋台で焼酎、頼めますか?", "vi": "Yatai gọi shōchū được không?"},
+        {"speaker": "sato_kyushu", "ja": "麦焼酎ね!福岡は麦焼酎の生産量日本一。いいちこ(大分だけど近い), 二階堂, 中々…お湯割りで頼みんしゃい。", "vi": "Mugi shōchū! Fukuoka sản xuất mugi shōchū số 1 Nhật. Iichiko (Ōita nhưng gần), Nikaidō, Naka-naka... Gọi pha nước nóng."}
+      ]
+    },
+    {
+      "scenario": "ホークス + 山笠 + どんたく",
+      "type": "good",
+      "lines": [
+        {"speaker": "sato_kyushu", "ja": "ズンさん、福岡ソフトバンクホークス、ファンと?", "vi": "Em Dũng, fan Hawks không?"},
+        {"speaker": "zun", "ja": "みずほPayPayドームでホームゲーム、見てみたいです。王貞治会長、ホークスを九州一の球団に育てましたよね。", "vi": "Em muốn xem home game ở Mizuho PayPay Dome. Chủ tịch Ō Sadaharu nuôi Hawks thành đội số 1 Kyushu nhỉ."},
+        {"speaker": "sato_kyushu", "ja": "王さん!1995年からダイエー時代に監督就任、3度の日本一(99,03,11)達成。今は会長。孫正義社長(SoftBank)が2005年に買収してから最強時代。", "vi": "Anh Ō! Từ 1995 thời Daiei nhận HLV, 3 lần vô địch (99/03/11). Giờ chủ tịch. Sau khi Son Masayoshi (SoftBank) mua 2005, thời đại mạnh nhất."},
+        {"speaker": "zun", "ja": "ホークスは黄色の応援ですよね、鷹のロゴ。", "vi": "Hawks cổ vũ màu vàng nhỉ, logo chim ưng."},
+        {"speaker": "sato_kyushu", "ja": "正解。応援団はライト側に集まる。1球場全体が黄色になるばい。あと、博多人の一年は山笠で始まる、と言うと?", "vi": "Đúng. Đoàn cổ vũ tụ phía Right. Cả sân vàng. Mà em biết câu 'năm dân Hakata bắt đầu bằng yamakasa' không?"},
+        {"speaker": "zun", "ja": "博多祇園山笠、7/1-15、770年以上の歴史ですよね。追い山は7/15朝4:59スタートですよね。", "vi": "Hakata Gion Yamakasa, 1-15/7, 770+ năm. Oiyama xuất phát 4:59 sáng 15/7."},
+        {"speaker": "sato_kyushu", "ja": "ズンさん、博多在住か?追い山4:59スタートまで…!舁き山(担ぐ山)と飾り山(飾り)の2種類、男だけが舁ける。重さ1tある。", "vi": "Em sống ở Hakata à? Cả 4:59! Có 2 loại: kakiyama (vác) và kazariyama (trang trí). Chỉ nam được vác. Nặng 1 tấn."},
+        {"speaker": "zun", "ja": "博多どんたく (5/3-4) もありますよね、ゴールデンウィーク、200万人訪れる。", "vi": "Còn Hakata Dontaku 3-4/5 nữa, Golden Week, 2 triệu người đến."},
+        {"speaker": "sato_kyushu", "ja": "博多2大祭り全部押さえとる!ズンさん、来年は追い山見に来んしゃい、4:59に櫛田神社で待っとる(笑)", "vi": "Em chốt cả 2 lễ lớn Hakata! Sang năm đến xem oiyama đi em, 4:59 anh chờ ở Kushida Jinja (cười)."}
+      ]
+    },
+    {
+      "scenario": "太宰府 + 梅ヶ枝餅",
+      "type": "good",
+      "lines": [
+        {"speaker": "sato_kyushu", "ja": "太宰府天満宮は菅原道真公祀る、全国12,000の天満宮の総本宮。学問の神様たい、皆さんの会社の発展を祈願しよう。", "vi": "Dazaifu Tenmangū thờ Sugawara Michizane, tổng bản 12,000 Tenmangū cả nước. Thần học vấn. Cầu cho công ty các em phát triển."},
+        {"speaker": "zun", "ja": "菅原道真、901年に大宰府に左遷されて903年に没…ですよね。", "vi": "Sugawara Michizane, 901 bị giáng chức xuống Dazaifu, mất 903 đúng không ạ."},
+        {"speaker": "sato_kyushu", "ja": "901年左遷、903年没まで知っとる!ズンさん、太宰府検定1級ばい(笑)", "vi": "Em biết cả 901 giáng/903 mất! Đỗ Dazaifu kentei cấp 1 luôn (cười)."},
+        {"speaker": "zun", "ja": "梅ヶ枝餅、参道で焼きたて食べたいです。かさの家ですよね。", "vi": "Umegae mochi em muốn ăn nóng dọc đường lên đền. Quán Kasanoie nhỉ."},
+        {"speaker": "sato_kyushu", "ja": "かさの家は王道、やす武も人気。焼きたてを月初(1日)に行くとよもぎ味、17日は古代米の特別バージョンがある。", "vi": "Kasanoie chuẩn, Yasutake cũng phổ biến. Đi ngày 1 đầu tháng có vị yomogi, ngày 17 có version cổ đại mễ."},
+        {"speaker": "zun", "ja": "ぜひ覚えておきます。福岡は博多(中心)・天神(若者)・中洲(夜)、太宰府(歴史)、エリアごとに性格が違うんですね。", "vi": "Em nhớ kỹ. Fukuoka: Hakata (trung tâm), Tenjin (giới trẻ), Nakasu (đêm), Dazaifu (lịch sử), mỗi khu một tính cách."},
+        {"speaker": "sato_kyushu", "ja": "あと糸島(海)、門司港(レトロ), 小倉(工業)、柳川(掘割) もな。ズンさん、福岡支店勤務でええばい(笑)", "vi": "Còn Itoshima (biển), Mojikō (retro), Kokura (công nghiệp), Yanagawa (kênh). Em sang Fukuoka làm là vừa (cười)."}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"category": "Mở topic", "ja": "佐藤先生、福岡のご出身ですよね。", "vi": "Anh Sato quê Fukuoka nhỉ."},
+    {"category": "Food", "ja": "もつ鍋、〆はちゃんぽん麺ですよね。", "vi": "Motsunabe kết bằng champon men nhỉ."},
+    {"category": "Food", "ja": "明太子はふくやさんが発祥、1949年ですよね。", "vi": "Mentaiko Fukuya phát minh 1949."},
+    {"category": "Ramen", "ja": "博多ラーメン、麺の硬さはバリカタでお願いします。", "vi": "Ramen Hakata cho em barikata."},
+    {"category": "Ramen", "ja": "替え玉、長浜発祥なんですよね。", "vi": "Kaedama gốc Nagahama nhỉ."},
+    {"category": "Hawks", "ja": "みずほPayPayドーム、いつか観戦したいです。", "vi": "Mizuho PayPay Dome em muốn xem."},
+    {"category": "Hawks", "ja": "王貞治会長の時代、ホークス黄金期ですよね。", "vi": "Thời Ō Sadaharu, Hawks hoàng kim."},
+    {"category": "山笠", "ja": "博多祇園山笠、追い山4:59スタート、いつかは見たいです。", "vi": "Hakata Yamakasa, oiyama 4:59, lúc nào cũng muốn xem."},
+    {"category": "Dazaifu", "ja": "太宰府天満宮、全国12000の総本宮ですよね。", "vi": "Dazaifu tổng bản 12,000."},
+    {"category": "Hakata-ben", "ja": "『〜ばい』『〜と?』、博多弁いいですね。", "vi": "Bai/to? Hakata-ben hay nhỉ."}
+  ],
+  "regional_cheatsheet": {
+    "ken_capital": "福岡市",
+    "main_cities": ["福岡市(博多/天神/中洲)", "北九州市(門司/小倉)", "久留米市", "太宰府市", "糸島市"],
+    "five_pillars": ["博多豚骨ラーメン(一蘭/一風堂発祥/博多一双)", "もつ鍋(おおやま/楽天地)", "明太子(ふくや1949発祥/かねふく/川原)", "水炊き(新三浦/橙)", "中洲屋台"],
+    "other_food": ["ごぼう天うどん", "ごまさば", "鶏皮", "鉄なべ餃子", "焼きカレー門司港", "柳川うなぎセイロ蒸し"],
+    "ramen_4": ["長浜(極細+替え玉発祥)", "博多(細)", "久留米(豚骨発祥1937南京千両)", "熊本(マー油+にんにく)"],
+    "kaedama": "1玉100円, バリカタ→カタ→普通→やわ→バリやわ + 粉落とし",
+    "shochu": "麦焼酎 — いいちこ/二階堂/中々",
+    "hawks": "みずほPayPayドーム, 王貞治会長, 孫正義社長(2005), 黄色, 1999/2003/2011 日本一",
+    "other_sport": ["アビスパ福岡(J)", "ギラヴァンツ北九州", "ライジングゼファー福岡(B)"],
+    "festivals": ["博多祇園山笠(7/1-15)770年+追い山7/15 4:59 1t男のみ", "博多どんたく(5/3-4)200万人GW"],
+    "tourism": ["太宰府天満宮(全国12000総本宮)", "櫛田神社(山笠本宮)", "中洲川端", "キャナルシティ", "糸島", "門司港レトロ", "柳川", "小倉城"],
+    "dialect": "〜と?(=の?), 〜ばい(=よ), 〜やけん(=だから), ばってん(=でも), 〜しゃい(命令柔), なんしようと?",
+    "famous": ["王貞治", "孫正義", "タモリ", "椎名林檎", "浜崎あゆみ"]
+  },
+  "ng_list": [
+    "Overdo Hakata-ben",
+    "「一蘭が一番美味しい」 — local có quán riêng",
+    "「九州=博多」 → 熊本/鹿児島/宮崎 phật ý",
+    "Hỏi 明太子 không biết ふくや 1949",
+    "Khen ホークス 「最強」 trước Carp/Tigers fan"
+  ],
+  "vocab": [
+    {"kanji": "博多豚骨ラーメン", "yomi": "はかたとんこつラーメン", "vi": "Ramen tonkotsu"},
+    {"kanji": "もつ鍋", "yomi": "もつなべ", "vi": "Lẩu lòng bò"},
+    {"kanji": "明太子", "yomi": "めんたいこ", "vi": "Trứng cá tuyết cay"},
+    {"kanji": "水炊き", "yomi": "みずたき", "vi": "Lẩu gà"},
+    {"kanji": "屋台", "yomi": "やたい", "vi": "Quán đường"},
+    {"kanji": "中洲", "yomi": "なかす", "vi": "Phố đêm"},
+    {"kanji": "替え玉", "yomi": "かえだま", "vi": "Thêm mì"},
+    {"kanji": "バリカタ", "yomi": "バリカタ", "vi": "Mì cứng"},
+    {"kanji": "麦焼酎", "yomi": "むぎじょうちゅう", "vi": "Shōchū lúa mạch"},
+    {"kanji": "ホークス", "yomi": "ホークス", "vi": "Đội Fukuoka"},
+    {"kanji": "山笠", "yomi": "やまかさ", "vi": "Lễ tháng 7"},
+    {"kanji": "博多どんたく", "yomi": "はかたどんたく", "vi": "Lễ tháng 5"},
+    {"kanji": "太宰府天満宮", "yomi": "だざいふてんまんぐう", "vi": "Đền học vấn"},
+    {"kanji": "菅原道真", "yomi": "すがわらのみちざね", "vi": "Thần học vấn"},
+    {"kanji": "梅ヶ枝餅", "yomi": "うめがえもち", "vi": "Bánh đặc sản"},
+    {"kanji": "ばい", "yomi": "ばい", "vi": "yo Hakata"},
+    {"kanji": "ばってん", "yomi": "ばってん", "vi": "Nhưng"}
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "博多ラーメンで「替え玉お願いします、バリカタで」 と頼む状況は?",
+      "options": ["A. 1杯目を早く食べきった後、麺の追加を頼む — 博多流", "B. 注文初め", "C. 会計", "D. 帰宅"],
+      "answer": "A",
+      "explain_vi": "Kaedama = thêm mì sau khi ăn xong tô đầu, barikata = mì cứng."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「博多人の一年は山笠で始まり山笠で終わる」 = ?",
+      "options": ["A. 山笠が博多のアイデンティティの中心であり、一年中山笠を意識する文化", "B. 山笠は3日で終わる", "C. 山笠以外興味なし", "D. 関係なし"],
+      "answer": "A",
+      "explain_vi": "Yamakasa là tâm Hakata identity, cả năm xoay quanh lễ này."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "博多弁「なんしようと?」 = ?",
+      "options": ["A. 何ですか?", "B. 何しているの?(Hakata-ben)", "C. 何時?", "D. 何個?"],
+      "answer": "B",
+      "explain_vi": "「なんしようと?」 Hakata-ben = 何してるの?"
+    }
+  ],
+  "templates": []
+}

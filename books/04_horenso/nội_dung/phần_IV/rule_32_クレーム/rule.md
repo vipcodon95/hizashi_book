@@ -1,0 +1,95 @@
+# Rule 32 — Khi khách phàn nàn — escalation / クレームのエスカレーション
+
+> **Luận điểm.** Khách Nhật phàn nàn (クレーム) hiếm khi ngay từ đầu. Khi đã nói "**困っております**" / "**改善いただきたい**" / "**いかがでしょうか?**" với tone formal là dấu hiệu đã chịu đựng lâu. Junior nhận khiếu nại thường có 2 lỗi: **(1) Defensive ngay** ("không phải lỗi mình" hoặc "đó là do anh báo trễ") **(2) Hứa luôn** ("em sẽ xử lý ngay" mà chưa verify). Pattern đúng: **(1) Lắng nghe đầy đủ + 復唱 (lặp lại) khẳng định đã hiểu**, **(2) Xin lỗi pre-verification ("ご不便をおかけし誠に申し訳ございません" — không nhận lỗi cụ thể)**, **(3) Senior verify + plan**, **(4) Reply chính thức trong 24h với phương án**.
+>
+> クレーム対応4ステップ：①傾聴+復唱→②事実確認前のお詫び→③上位者と検証+対応案→④24h以内の正式回答。即否定も即約束もNG。
+>
+> **Liên quan:** rule 07 (悪い知らせ), rule 31 (バグ発見), Sách 03 rule 28 (顧客対応).
+
+---
+
+## Bối cảnh / 場面
+
+Sáng thứ Tư 11:00. Anh Ōgaki (Sales Director Hakuō) gọi điện anh Dũng phàn nàn: invoice tháng 4 sai số tiền, khách của Hakuō đã hỏi 2 lần. Junior reaction vs senior reaction.
+
+---
+
+## ❌ Hội thoại XẤU — junior defensive + 即約束
+
+*điện thoại*
+
+| Speaker | Câu |
+|---------|-----|
+| **大垣** | 「ズンさん、4月の請求書、金額が違います。当社の客が2回問い合わせしてきており、困っております。」 |
+| **ズン** | 「えっと、そんなはずないんですが…経理に確認しないと分からないですけど…でもたぶん大丈夫だと思います。今日中に直して送り直します!」 |
+| **大垣** | 「『そんなはずない』とは?『たぶん大丈夫』とは?事実確認していない時点で約束されても困りますね。」 |
+| **ズン** | 「すみません…」 |
+| **大垣** | 「ズンさん、クレーム対応は: 傾聴 → 仮謝罪 → 検証 → 正式回答。今は逆に動いている。」 |
+
+**Vì sao xấu:** L2 三重失敗 — denial「そんなはずない」 + speculation「たぶん」 + premature promise「今日中に直す」. L5 chỉ ra: 4 bước, hiện tại sai cả 4.
+
+---
+
+## ✅ Hội thoại TỐT — 4 step rồi escalate Hương + Loan
+
+*repeat back · 電話切後 → Slack #escalation · Slack · 17:30、メール大垣*
+
+| Speaker | Câu |
+|---------|-----|
+| **大垣** | 「ズンさん、4月の請求書、金額が違います。当社の客が2回問い合わせしてきており、困っております。」 |
+| **ズン** | 「**①4月の請求書の金額に誤りがあり、御社のお客様から2回お問い合わせいただいているとのこと、ご認識合っておりますでしょうか**【1】。」 |
+| **大垣** | 「その通りです。」 |
+| **ズン** | 「**②ご不便をおかけし誠に申し訳ございません**。**③具体的な金額の差異を確認の上、本日18時までに第一報、明日12時までに正式な対応案をご回答**いたします。**詳細**: 請求書番号と差異金額をご共有いただけますでしょうか【2】。」 |
+| **大垣** | 「請求書番号 INV-2026-04-031、当方計算では¥850,000、貴社請求は ¥920,000。」 |
+| **ズン** | 「@フオン副部長 @ロアン経理部長 大垣様クレーム入電。請求書 INV-2026-04-031 金額差異 ¥70,000。本日18時まで第一報、明日12時まで正式回答お約束済【3】。」 |
+| **フオン** | 「ロアンさん、経理ログ確認お願いします。ズン、私とロアンで11:30から確認会議。第一報ドラフトはズンが作成。」 |
+| **ズン** | 「大垣様、第一報のご報告です。経理にて確認の結果、**INV-2026-04-031 で ¥70,000 の超過記載**が判明いたしました。原因はシステム集計時の重複計上です【4】。**訂正請求書を明日 12時までにお送り**するとともに、再発防止策については Post-mortem レポートにて 48時間以内にご報告申し上げます。先ほどはお電話にて失礼いたしました。ご不便をおかけし誠に申し訳ございません。重ねてお詫び申し上げます【5】。」 |
+
+📝 **Ghi chú:**
+- 【1】**「①ご認識合っておりますでしょうか」** — repeat back để confirm hiểu đúng. Xác lập fact basis, không lao vào defensive.
+- 【2】**「②③ご不便… + 第一報時刻 + 正式回答時刻」** — không nhận lỗi cụ thể chưa verify, nhưng xin lỗi cho 「ご不便」(sự bất tiện). Hứa 2 milestone time.
+- 【3】**Escalate Hương + Loan** ngay sau cuộc gọi — không 1 mình, không qua đêm.
+- 【4】**Verified fact** — sau khi check log mới khẳng định "¥70,000 の超過記載" + nguyên nhân.
+- 【5】**Post-mortem 48h** — cũng giống incident, khách Nhật mong giải pháp ngăn tái phát.
+
+---
+
+## 🎯 4 Step Pattern
+
+```
+① 傾聴 + 復唱       「〇〇とのご認識でお間違いないでしょうか」
+② 仮謝罪           「ご不便をおかけし申し訳ございません」 (lỗi chưa cụ thể)
+③ 検証 + 期限       「〇時までに第一報、〇時までに正式回答」
+④ 正式回答         事実 + 原因 + 訂正案 + 再発防止 (Post-mortem)
+```
+
+---
+
+## 🎯 Câu chốt
+
+> **「クレーム対応 = 傾聴復唱 → 仮謝罪 → 期限付き検証約束 → 正式回答 + Post-mortem。否定・推測・即約束はNG。」**
+
+---
+
+## ⚠ Tránh
+
+- 「そんなはずない」「たぶん」 — denial / speculation, mất uy tín.
+- 「すぐ直します」 mà chưa verify — second false promise.
+- 1 mình ôm khiếu nại của Sales Director — phải escalate Hương + Loan ngay.
+- Bỏ Post-mortem report → khách không thấy hệ thống đã fix gốc.
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| クレーム | claim | Khiếu nại / phàn nàn |
+| 傾聴 | けいちょう | Lắng nghe (chủ động) |
+| 復唱 | ふくしょう | Lặp lại để xác nhận |
+| 仮謝罪 | かりしゃざい | Xin lỗi tạm (chưa nhận lỗi cụ thể) |
+| 検証 | けんしょう | Verify / xác minh |
+| 訂正 | ていせい | Đính chính / sửa |
+| 再発防止 | さいはつぼうし | Ngăn tái phát |
+| 重複計上 | ちょうふくけいじょう | Tính trùng |
+| ご不便 | ごふべん | Sự bất tiện (kính ngữ) |

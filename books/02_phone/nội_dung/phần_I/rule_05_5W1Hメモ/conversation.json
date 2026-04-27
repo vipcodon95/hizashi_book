@@ -1,0 +1,105 @@
+{
+  "rule_id": "rule_05",
+  "rule_slug": "5W1Hメモテンプレート",
+  "title": {
+    "ja": "5W1Hメモテンプレート",
+    "vi": "Template ghi chú 5W1H"
+  },
+  "rule_context": {
+    "ja": "受電時に5W1H (いつ・誰が・どこで・何を・なぜ・どうやって) を必ず記録するテンプレート。松本PMが打ち合わせ変更を依頼。",
+    "vi": "Template 5W1H bắt buộc khi nhận điện. Anh Matsumoto xin đổi lịch họp."
+  },
+  "related_rules": [
+    "rule_04",
+    "rule_18"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — テンプレートで復唱",
+      "label_vi": "TỐT — Dùng template để xác nhận",
+      "display_order": 1,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_05_good_02",
+          "highlight_text": "承りました",
+          "ja": "「受け取った」の謙譲語。お客様に「メモした」と伝えるサイン。",
+          "vi": "Kính ngữ của 「受け取る」. Tín hiệu cho khách rằng đã ghi vào sổ."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_05_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "来週の打ち合わせの件で、火曜の15時に変更したいのですが。",
+          "sentence_translation": "Về cuộc họp tuần sau, tôi muốn đổi sang thứ Ba 15h ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_05_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "承知いたしました。火曜15時に変更で承りました。",
+          "sentence_translation": "Em đã rõ. Em đã ghi nhận đổi sang thứ Ba 15h ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_05_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "念のため復唱させていただきます。打ち合わせを来週火曜15時に変更、でよろしいでしょうか。",
+          "sentence_translation": "Em xin lặp lại để chắc chắn: đổi cuộc họp sang thứ Ba tuần sau 15h, đúng không ạ?",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "continues_previous": true
+        },
+        {
+          "line_id": "rule_05_good_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "はい、お願いします。",
+          "sentence_translation": "Vâng, nhờ em.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_05_kp_01",
+      "speaker": "zun",
+      "sentence": "念のため復唱させていただきます。〇〇、〇〇、〇〇でよろしいでしょうか。",
+      "sentence_translation": "Em xin lặp lại để chắc chắn: 〇〇, 〇〇, 〇〇 đúng không ạ?",
+      "purpose": "5W1H確認の標準フレーズ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_05_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "電話メモで5W1Hに含まれないのはどれか？",
+      "options": [
+        "発信者の氏名 (Who)",
+        "打ち合わせの場所 (Where)",
+        "発信者の年齢 (How old)",
+        "電話の理由 (Why)"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "5W1Hは When-Who-Where-What-Why-How。年齢は含まれない。",
+        "vi": "5W1H là When-Who-Where-What-Why-How. Tuổi không thuộc 6 yếu tố này."
+      }
+    }
+  ]
+}

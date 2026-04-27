@@ -1,0 +1,197 @@
+{
+  "rule_id": "rule_23",
+  "rule_slug": "ROI 換算",
+  "title": {
+    "ja": "ROI 換算",
+    "vi": "Quy đổi sang ROI"
+  },
+  "rule_context": {
+    "ja": "CFO の ROI 質問に対し Investment・Annual・Payback・NPV の4指標を Phase 2 実績を anchor に提示する場面。",
+    "vi": "Trước câu hỏi ROI của CFO, Dũng trình 4 chỉ số Investment/Annual/Payback/NPV với anchor là kết quả Phase 2."
+  },
+  "related_rules": [
+    "rule_05",
+    "rule_20",
+    "rule_18"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 数値なしvalue語り",
+      "label_vi": "XẤU — Nói value không số",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「value がある」では CFO の稟議書に書けない。具体数値がない説明は信頼されない。",
+        "vi": "'Có value' không viết được vào ringi-sho. Giải thích không số không được trust."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_23_bad_01",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ROI はどのくらいですか？",
+          "sentence_translation": "ROI khoảng bao nhiêu?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_23_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 2 で実績ありますし、Phase 3 はそれ以上の value があります。",
+          "sentence_translation": "Phase 2 có thành tích rồi, Phase 3 có value lớn hơn ạ.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_23_bad_03",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "具体的な数値がないと稟議には乗せられません。",
+          "sentence_translation": "Không có con số cụ thể là không đưa vào ringi được.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 4指標 ROI",
+      "label_vi": "TỐT — ROI 4 chỉ số",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_23_good_02",
+          "highlight_text": "ROI 4 indicators",
+          "ja": "Investment / Annual / Payback / NPV を必ず4つ。1つでも欠けると稟議で突っ込まれる。",
+          "vi": "Đủ 4: Investment / Annual / Payback / NPV. Thiếu 1 là bị truy vấn trong ringi."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_23_good_02",
+          "highlight_text": "¥77.7M/年 net 利益",
+          "ja": "annual return は revenue uplift と cost saving の両建て。それぞれ独立検証できる。",
+          "vi": "Annual return tách 2 nhánh revenue uplift + cost saving. Mỗi nhánh verify độc lập."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_23_good_03",
+          "highlight_text": "Payback period: ¥17.5M ÷ ¥92.1M ≒ 2.3 ヶ月",
+          "ja": "payback < 6ヶ月 は strong ROI。6-12ヶ月 OK。24ヶ月超は稟議難航。",
+          "vi": "Payback < 6 tháng là strong. 6-12 tháng OK. > 24 tháng khó qua ringi."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_23_good_03",
+          "highlight_text": "3 年 NPV (割引率 5%): ¥234M",
+          "ja": "NPV を出せると senior CFO に対する印象が大きく変わる。日本企業 discount rate は 5-7%。",
+          "vi": "Có NPV thì ấn tượng với CFO senior tăng mạnh. Discount rate Nhật thường 5-7%."
+        },
+        {
+          "id": "5",
+          "applies_to_line": "rule_23_good_05",
+          "highlight_text": "Whitepaper + 第三者監査済みデータをお渡しします",
+          "ja": "third-party audit を持参すると CFO の稟議書 backing material になる。差別化要素。",
+          "vi": "Mang theo audit bên thứ ba thành backing material cho CFO. Yếu tố khác biệt hóa."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_23_good_01",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ROI はどのくらいですか？",
+          "sentence_translation": "ROI khoảng bao nhiêu?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_23_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ROI 4 indicators です。Investment は ¥17.5M。Annual return は (a) AI レコメンド導入で transaction 単価 +12% × 月 GMV ¥600M ≒ 年 +¥864M revenue uplift、利益率 9% 換算で ¥77.7M/年 net 利益、(b) 手動在庫調整削減 = 5名 × 240日 × 2h × 単価 ¥6,000 = ¥14.4M/年 cost saving、合計 ¥92.1M/年です。",
+          "sentence_translation": "ROI 4 indicators ạ. Investment: ¥17.5M. Annual return: (a) AI recommend triển khai → unit price transaction +12% × GMV tháng ¥600M ≒ +¥864M doanh thu/năm, quy theo margin 9% là ¥77.7M/năm net lợi; (b) giảm điều chỉnh tồn kho thủ công = 5 người × 240 ngày × 2h × ¥6,000 = ¥14.4M/năm cost saving. Tổng ¥92.1M/năm ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_23_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Payback period: ¥17.5M ÷ ¥92.1M ≒ 2.3 ヶ月、つまり初年度で 5.3 倍の return。3 年 NPV (割引率 5%): ¥234M です。",
+          "sentence_translation": "Payback period: ¥17.5M ÷ ¥92.1M ≒ 2.3 tháng, tức năm đầu return 5.3 lần. NPV 3 năm (discount rate 5%): ¥234M ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3",
+            "4"
+          ]
+        },
+        {
+          "line_id": "rule_23_good_04",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "数値の信頼性は？",
+          "sentence_translation": "Độ tin cậy của con số?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_23_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 2 で transaction 単価 +9% を実現済み (vs. 予測 +8%、上振れ)。AI モデル精度向上で +12% は controlled extrapolation です。Whitepaper + 第三者監査済みデータをお渡しします。",
+          "sentence_translation": "Phase 2 đã hiện thực được unit price transaction +9% (so với dự +8%, vượt). +12% với AI model nâng cấp là controlled extrapolation ạ. Em chuyển tới quý anh whitepaper + data đã audit bên thứ ba ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "5"
+          ]
+        },
+        {
+          "line_id": "rule_23_good_06",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "これなら取締役会に出せます。",
+          "sentence_translation": "Vậy thì đưa được lên HĐQT.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_23_kp_01",
+      "speaker": "zun",
+      "sentence": "Investment は 〇〇円、Annual return は 〇〇円、Payback は 〇〇ヶ月、NPV は 〇〇円です。",
+      "sentence_translation": "Investment 〇〇¥, Annual return 〇〇¥, Payback 〇〇 tháng, NPV 〇〇¥ ạ.",
+      "purpose": "ROI 4指標 提示",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_23_bjt_01",
+      "level": "J1",
+      "skill": "表現読解",
+      "question_ja": "日本企業 CFO に提示する ROI に必須の指標は？",
+      "options": [
+        "Investment と Annual return のみ",
+        "Investment / Annual return / Payback period / NPV の4つ",
+        "値段だけ",
+        "競合価格との差"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "4指標が稟議書 standard。1つでも欠けると CFO は取締役会に出せない。",
+        "vi": "4 chỉ số là chuẩn ringi-sho. Thiếu 1 là CFO không đưa lên HĐQT được."
+      }
+    }
+  ]
+}

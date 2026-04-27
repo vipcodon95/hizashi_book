@@ -1,0 +1,72 @@
+# Rule 43 — Câu chào kết thúc / 会議終了の挨拶
+
+> **Luận điểm.** Họp xong cần đóng formally. Câu chuẩn: 「**本日はお時間いただき誠にありがとうございました**」. Cấu trúc: (1) **Cảm ơn time** → (2) **Tóm 1 dòng output** → (3) **Cam kết next** → (4) **Greeting cuối**. Không "じゃあ、お疲れ様でした" thẳng — quá casual với khách Nhật.
+>
+> 終了挨拶：①時間への感謝 ②本日のアウトプット要約 ③次のコミット ④結びの挨拶。
+>
+> **Liên quan:** Rule 09 (mở đầu), Rule 42 (kết thúc sớm), Rule 44 (action items), Rule 47 (follow-up mail).
+
+---
+
+## Bối cảnh / 場面
+
+Họp định kỳ tháng 4 vừa kết thúc đúng giờ với output rõ ràng. Em Dũng (chủ trì) đóng họp.
+
+---
+
+## ❌ Hội thoại XẤU — kết thúc casual
+
+*im một lúc*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「じゃあ、お疲れ様でした！」 |
+| **大垣** | 「…はい、お疲れ様でした。」 |
+
+**Vì sao xấu:** 「お疲れ様でした」 OK với đồng nghiệp, nhưng với khách Nhật + sau formal meeting → quá casual. Không có thank-you + summary.
+
+---
+
+## ✅ Hội thoại TỐT — 4 bước đóng
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「本日はお忙しい中、お時間いただき誠にありがとうございました【1】。」 |
+| **ズン** | 「本日はPhase 2 スコープA案の確定と、5月開発計画の合意ができました【2】。」 |
+| **ズン** | 「議事録は本日中、資料一式は明日午前中までにメールにてお送りいたします【3】。次回は5月10日の月例会議でお会いしたく存じます。」 |
+| **ズン** | 「本日は誠にありがとうございました。今後ともどうぞよろしくお願い申し上げます【4】。」 |
+| **大垣・松本** | 「ありがとうございました。引き続きよろしくお願いします。」 |
+
+📝 **Ghi chú:**
+- 【1】**「お忙しい中、お時間いただき誠にありがとうございました」** — câu chuẩn cảm ơn.
+- 【2】**1 dòng tóm output** — khách rời họp với cảm giác "có thành quả".
+- 【3】**Cam kết next** — biên bản 24h, tài liệu deadline cụ thể, ngày họp tới.
+- 【4】**「今後ともどうぞよろしくお願い申し上げます」** — câu kết quan hệ chuẩn business JP.
+
+---
+
+## 🎯 Câu chốt
+
+> **「本日はお時間いただき誠にありがとうございました。今後ともどうぞよろしくお願い申し上げます。」**
+>
+> *Cảm ơn → tóm output → cam kết next → kết. 4 bước.*
+
+---
+
+## ⚠ Tránh
+
+- 「お疲れ様」 thẳng với khách → casual quá.
+- Không tóm output → khách rời với cảm giác mơ hồ.
+- Không cam kết next → biên bản dễ delay.
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 終了 | しゅうりょう | Kết thúc |
+| 引き続き | ひきつづき | Tiếp tục |
+| 一式 | いっしき | Trọn bộ |
+| 月例 | げつれい | Định kỳ tháng |
+| 合意 | ごうい | Đồng thuận |

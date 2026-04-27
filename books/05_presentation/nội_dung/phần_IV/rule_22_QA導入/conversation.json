@@ -1,0 +1,164 @@
+{
+  "rule_id": "rule_22",
+  "rule_slug": "Q&A導入",
+  "title": {
+    "ja": "Q&A導入",
+    "vi": "Mời Q&A formal"
+  },
+  "rule_context": {
+    "ja": "Phase 3 プレゼン本論終了直後、ズンが Q&A セクションを formal に開く場面。沈黙待ちの実践。",
+    "vi": "Ngay sau khi kết thúc body pitch Phase 3, Dũng mở Q&A formal. Thực hành chờ silence."
+  },
+  "related_rules": [
+    "rule_23",
+    "rule_25",
+    "rule_26"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 素っ気ない＋沈黙を埋める",
+      "label_vi": "XẤU — Cộc + lấp silence",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「質問ありますか」はカジュアル。2秒で沈黙を埋めると日本人は質問を formulate できない。",
+        "vi": "「質問ありますか」 casual. Lấp silence 2 giây = khách Nhật chưa kịp nghĩ câu."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_22_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "以上です。質問ありますか？",
+          "sentence_translation": "Hết rồi ạ. Có câu hỏi không ạ?",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_22_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ないですか？じゃあ次のステップに行きますね。",
+          "sentence_translation": "Không có ạ? Vậy em chuyển sang next step luôn nhé.",
+          "tone": "nervous",
+          "speed_multiplier": 1.1
+        },
+        {
+          "line_id": "rule_22_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "…質問する間もないな。",
+          "sentence_translation": "...Còn không kịp hỏi nữa.",
+          "tone": "firm",
+          "speed_multiplier": 0.9
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — formal 招待＋7秒沈黙",
+      "label_vi": "TỐT — Formal invite + chờ 7 giây",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_22_good_01",
+          "highlight_text": "ご質問・ご意見をいただけますでしょうか",
+          "ja": "Formal Q&A 招待の標準。「ご意見」で範囲を意見にも拡張。「いただけますでしょうか」は最高敬語の依頼形。",
+          "vi": "Câu mời Q&A formal chuẩn. 「ご意見」 mở rộng phạm vi sang ý kiến. 「いただけますでしょうか」 = humble request bậc nhất."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_22_good_02",
+          "highlight_text": "(7秒沈黙)",
+          "ja": "5-7秒待つ。日本人は熟考してから politely 挙手。早く埋めると質問の機会を奪う。",
+          "vi": "Chờ 5-7 giây. Người Nhật suy nghĩ kỹ trước khi politely giơ tay. Lấp sớm = cướp cơ hội hỏi."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_22_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "以上で本論を終わらせていただきます。ご質問・ご意見をいただけますでしょうか。どんな点でも構いません。",
+          "sentence_translation": "Em xin phép kết thúc phần body ạ. Mong quý vị cho em xin câu hỏi hoặc ý kiến ạ. Bất cứ điểm nào cũng được ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.9,
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_22_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(7秒沈黙、アイコンタクトで3名を順に見る)",
+          "sentence_translation": "(Im lặng 7 giây, eye contact lần lượt 3 người)",
+          "tone": "neutral",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_22_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "では、Phase 2 との連携ポイントについて確認させてください…",
+          "sentence_translation": "Vậy, cho tôi xác nhận một chút về điểm liên kết với Phase 2...",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_22_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "松本様、ありがとうございます。Phase 2 連携の件ですね、〜",
+          "sentence_translation": "Anh Matsumoto, em cảm ơn ạ. Về vấn đề liên kết Phase 2 ạ, ~",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_22_kp_01",
+      "speaker": "zun",
+      "sentence": "ご質問・ご意見をいただけますでしょうか。どんな点でも構いません。",
+      "sentence_translation": "Mong quý vị cho em xin câu hỏi hoặc ý kiến ạ. Bất cứ điểm nào cũng được ạ.",
+      "purpose": "Q&A formal 招待の標準",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_22_kp_02",
+      "speaker": "zun",
+      "sentence": "〇〇様、ありがとうございます。〜の件ですね。",
+      "sentence_translation": "Anh/chị 〇〇, em cảm ơn ạ. Về vấn đề ~ ạ.",
+      "purpose": "質問受領のリピート確認",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_22_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "Q&A セクションを開く際、最も適切な表現は？",
+      "options": [
+        "質問ありますか？",
+        "何かあれば言ってください。",
+        "ご質問・ご意見をいただけますでしょうか。",
+        "では、終わります。"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "「いただけますでしょうか」が最も formal かつ humble な依頼形。「ご意見」で範囲を質問以外にも拡張。",
+        "vi": "「いただけますでしょうか」 là dạng request humble + formal nhất. 「ご意見」 mở rộng phạm vi ngoài câu hỏi."
+      }
+    }
+  ]
+}

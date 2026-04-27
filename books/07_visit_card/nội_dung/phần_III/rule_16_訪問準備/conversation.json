@@ -1,0 +1,217 @@
+{
+  "rule_id": "rule_16",
+  "rule_slug": "訪問前の準備",
+  "title": {
+    "ja": "訪問前の準備",
+    "vi": "Chuẩn bị trước khi đi onsite"
+  },
+  "rule_context": {
+    "ja": "ズン+トゥアンが翌日10時、白鷗本社(新宿)Phase 3 technical kickoff onsite前日(D-1)14:00、5要素chec完了する場面。",
+    "vi": "Dũng + Tuấn ngày mai 10h onsite 白鷗 Shinjuku Phase 3 technical kickoff. Chiều D-1 14:00 check 5 mục."
+  },
+  "related_rules": [
+    "rule_17",
+    "rule_28",
+    "rule_34"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — D-1夕方未確認・要素欠落",
+      "label_vi": "XẤU — D-1 chiều chưa confirm + thiếu mục",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①D-1 17:00確認未送=日本側担当off work で返信不能 ②jacket-onlyでCFO meeting格落ち ③お土産未準備で当日空港買い案。3点重大ミス。",
+        "vi": "(1) D-1 17h chưa gửi = senior JP off work không reply. (2) Jacket-only meeting CFO = mất tầm. (3) Omiyage chưa có, dự định mua sân bay = sai."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_16_bad_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "ズン、明日の白鷗 onsite、住所どこだっけ？",
+          "sentence_translation": "Dũng, onsite 白鷗 mai địa chỉ ở đâu nhỉ?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_16_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっ、まだ確認してない？田中PMOにメール送ったか？",
+          "sentence_translation": "Hả, chưa confirm à? Đã gửi mail anh Tanaka PMO chưa?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_16_bad_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "あ、まだ。今日中に送る。あとスーツは…ジャケットだけでいいよね？",
+          "sentence_translation": "À chưa. Hôm nay gửi. Còn suit thì... jacket thôi được nhỉ?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_16_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "白鷗本社は CFO 同席だぞ。スーツ濃紺+ネクタイ必須。お土産は？",
+          "sentence_translation": "Trụ sở 白鷗 có CFO ngồi cùng đó. Bắt buộc suit đậm + cravate. Còn omiyage?",
+          "tone": "firm",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_16_bad_05",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "えっ、お土産も？空港で買えばいいかな…",
+          "sentence_translation": "Ơ, cả omiyage à? Hay là mua tại sân bay nhỉ...",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 5要素D-1午後完了",
+      "label_vi": "TỐT — 5 mục xong từ chiều D-1",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_16_good_02",
+          "highlight_text": "田中PMOへ確認メール送信済",
+          "ja": "24h前メール確認: 日時/人数/氏名/到着予定/受付対応依頼。返信受領で担当者準備完了確認。",
+          "vi": "Mail confirm 24h trước: giờ/người/tên/giờ đến/yêu cầu lễ tân. Nhận reply = 担当者 đã chuẩn bị."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_16_good_02",
+          "highlight_text": "スーツ濃紺+白シャツ+紺ネクタイ",
+          "ja": "JP大手default。jacket-only / 色シャツは格落ち。CFO同席なら必須スーツ濃紺。",
+          "vi": "Default JP công ty lớn. Jacket-only / áo màu = mất tầm. Có CFO = bắt buộc suit đậm."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_16_good_02",
+          "highlight_text": "ルート: ホテル→新宿駅→白鷗本社 徒歩7分、buffer 30分",
+          "ja": "Tokyo通勤peak遅延5-15分常。30分buffer必須。到着は5-10分前。",
+          "vi": "Tokyo peak hour delay 5-15p. Buffer 30p bắt buộc. Đến trước 5-10p."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_16_good_02",
+          "highlight_text": "ICカード Suica チャージ済+現金1万",
+          "ja": "ICはSuica/Pasmo前夜chargeで朝の改札停滞防止。現金1万はtaxi緊急用。",
+          "vi": "Suica/Pasmo charge tối hôm trước = sáng không kẹt cổng. Cash 1 man cho taxi emergency."
+        },
+        {
+          "id": "5",
+          "applies_to_line": "rule_16_good_02",
+          "highlight_text": "お土産: ベトナムコーヒー(高級ブランド)6箱",
+          "ja": "VN出発前準備。Narita空港購入は心遣いマイナス。担当者数+2 buffer。",
+          "vi": "Chuẩn bị từ VN. Mua tại Narita = giảm tâm. Số 担当者 + 2 buffer."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_16_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "トゥアン、明日の白鷗 onsite チェックリスト共有しよう。",
+          "sentence_translation": "Tuấn, mình share checklist onsite 白鷗 mai đi.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_16_good_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "① 田中PMOへ確認メール送信済 (10時到着・私とズン2名・名刺準備済) ② スーツ濃紺+白シャツ+紺ネクタイ ③ ルート: ホテル→新宿駅→白鷗本社 徒歩7分、buffer 30分 ④ ICカード Suica チャージ済+現金1万 ⑤ お土産: ベトナムコーヒー(高級ブランド)6箱。",
+          "sentence_translation": "① Mail confirm Tanaka PMO đã gửi (10h đến, anh+Dũng 2 người, danh thiếp xong). ② Suit xanh đậm + áo trắng + cravate xanh. ③ Route: hotel → ga Shinjuku → trụ sở 白鷗 đi bộ 7p, buffer 30p. ④ Suica đã charge + cash 1 man. ⑤ Omiyage: cà phê VN cao cấp 6 hộp.",
+          "tone": "formal",
+          "speed_multiplier": 0.9,
+          "annotation_ids": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
+        {
+          "line_id": "rule_16_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "完璧。田中PMOからの返信は？",
+          "sentence_translation": "Hoàn hảo. Tanaka PMO reply chưa?",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_16_good_04",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "『10時にロビーでお迎えします』 とのこと。受付で『白鷗株式会社 田中様、約束のティエンファットのトゥアンとズンです』と申告予定。",
+          "sentence_translation": "Anh ấy nói '10h sẽ ra đón ở lobby'. Em sẽ trình lễ tân: 'Hẹn anh Tanaka Cty 白鷗, em là Tuấn và Dũng bên Tiên Phát'.",
+          "tone": "formal",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_16_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "OK。明朝 9:00 ホテル ロビー集合。",
+          "sentence_translation": "OK. Sáng mai 9:00 tập trung lobby hotel.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_16_kp_01",
+      "speaker": "tuan_leader",
+      "sentence": "明日10時のお打ち合わせの件、ティエンファットのトゥアン・ズン2名でお伺いいたします。",
+      "sentence_translation": "Về buổi họp 10h mai, em là Tuấn và Dũng bên Tiên Phát 2 người sẽ đến ạ.",
+      "purpose": "24h前確認メール本文",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_16_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "Tokyo onsite 訪問前24h以内に必要な準備で最も重要でないのは？",
+      "options": [
+        "担当者への確認メール送信",
+        "ルート+30分buffer計算",
+        "現地空港でのお土産購入",
+        "ICカード残高チャージ"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "お土産はVN出発前に高品質ブランドで準備。空港購入は心遣いマイナス。",
+        "vi": "Omiyage chuẩn bị từ VN với brand chất lượng. Mua sân bay = giảm tâm."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_16_tpl_01",
+      "format": "checklist",
+      "title_ja": "訪問前 24時間チェックリスト",
+      "title_vi": "Checklist Trước Onsite 24h",
+      "content_ja": "【訪問前24h チェックリスト — D-1 18:00 まで完了】\n\n□ ① 確認メール (24h前)\n   - 宛先: 担当者 (To) + 上司 (CC)\n   - 内容: 日時・人数・氏名・到着予定 (5-10分前)\n   - 受付対応依頼明記\n   返信受領時刻: ___\n\n□ ② Dress code\n   - スーツ: 濃紺 / 黒\n   - シャツ: 白 (青系も可)\n   - ネクタイ: 単色 / 控えめ柄\n   - 靴: 黒革靴 / 磨き済\n   - 名刺ケース: スーツ右ポケット\n\n□ ③ ルート + buffer\n   - 出発地: ___\n   - 経路: ___\n   - 標準所要: ___ 分\n   - +Buffer 30分\n   - 到着目標: 訪問先 5-10分前\n\n□ ④ 持ち物\n   - 名刺 50枚 (rule 01)\n   - ICカード Suica/Pasmo チャージ済\n   - 現金 1万円 (タクシー / 緊急用)\n   - 名刺メモ用ノート + ペン\n   - スマホ充電済 + モバイルバッテリー\n   - 訪問先地図印刷 (オフライン用)\n\n□ ⑤ お土産\n   - 銘柄: ___\n   - 数: 担当者数 + 2 buffer\n   - VN由来 / 個包装 / 賞味期限長\n   - 紙袋(ロゴ控えめ)",
+      "content_vi": "[Checklist trước onsite 24h — hoàn tất trước D-1 18:00]\n\n[ ] (1) Mail confirm (trước 24h)\n   - To: 担当者 / CC: senior\n   - Nội dung: ngày giờ + số người + tên + giờ dự kiến đến (5-10p trước)\n   - Yêu cầu lễ tân support\n   Giờ nhận reply: ___\n\n[ ] (2) Dress code\n   - Suit: xanh đậm / đen\n   - Áo: trắng (xanh nhạt cũng được)\n   - Cravate: đơn sắc / hoa văn nhẹ\n   - Giày: da đen / đã đánh\n   - Hộp danh thiếp: túi áo phải\n\n[ ] (3) Route + buffer\n   - Xuất phát: ___\n   - Route: ___\n   - Thời gian chuẩn: ___ phút\n   - +Buffer 30p\n   - Mục tiêu đến: trước 5-10 phút\n\n[ ] (4) Đồ mang\n   - Danh thiếp 50 tờ (rule 01)\n   - IC card Suica/Pasmo đã charge\n   - Cash 1 man yen (taxi / emergency)\n   - Sổ ghi chú + bút\n   - Phone pin đầy + mobile battery\n   - In bản đồ địa điểm (offline)\n\n[ ] (5) Omiyage\n   - Brand: ___\n   - Số lượng: số 担当者 + 2 buffer\n   - Xuất xứ VN / đóng gói riêng / hạn dài\n   - Túi giấy (logo nhẹ)",
+      "notes_ja": "5要素D-1 18:00までに完了。当日朝発覚=即遅延。",
+      "notes_vi": "5 mục xong trước D-1 18:00. Phát hiện thiếu sáng ngày G = chắc chắn delay."
+    }
+  ]
+}

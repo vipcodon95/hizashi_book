@@ -1,0 +1,176 @@
+{
+  "rule_id": "rule_01",
+  "rule_slug": "プレゼン準備の7つの問い",
+  "title": {
+    "ja": "プレゼン準備の7つの問い",
+    "vi": "Checklist 7 câu hỏi trước khi soạn"
+  },
+  "rule_context": {
+    "ja": "ズンが Phase 3 プレゼンの準備で、PowerPoint を開く前に 7 つの問いを埋める場面。フオン副部長がレビュー。",
+    "vi": "Dũng chuẩn bị pitch Phase 3, fill 7 câu hỏi checklist trước khi mở PowerPoint. Chị Hương review."
+  },
+  "related_rules": ["rule_02", "rule_07", "rule_08"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 設計から始める",
+      "label_vi": "XẤU — Bắt đầu từ thiết kế slide",
+      "display_order": 1,
+      "analysis": {
+        "ja": "15スライド作成後に対象・目的が曖昧と判明。1日分の作業がやり直しになる典型例。",
+        "vi": "Làm xong 15 slide rồi mới phát hiện đối tượng + mục đích mơ hồ. Mất 1 ngày công vô ích."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_01_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、Phase 3 のプレゼン、もう15枚作りました。レビューお願いします！",
+          "sentence_translation": "Chị Hương, em đã làm xong 15 slide pitch Phase 3 rồi! Phiền chị review giúp em ạ!",
+          "tone": "cheerful",
+          "speed_multiplier": 1.05
+        },
+        {
+          "line_id": "rule_01_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "えっと、これ誰向け？大垣さん？松本さん？両方？",
+          "sentence_translation": "Ờ... cái này pitch cho ai? Anh Ōgaki? Anh Matsumoto? Hay cả hai?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_01_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっ…両方かと…思います。",
+          "sentence_translation": "Ơ... em nghĩ là cả hai ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_01_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "決めたいのは何？スコープ？金額？スケジュール？それも分かってない？じゃあスライド全部閉じて。準備の7問から始めよう。",
+          "sentence_translation": "Còn quyết cái gì? Scope? Giá? Schedule? Cũng không rõ? Vậy đóng hết slide đi. Bắt đầu lại từ 7 câu hỏi chuẩn bị.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 7問先、PowerPoint後",
+      "label_vi": "TỐT — 7 câu hỏi trước, PowerPoint sau",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_01_good_01",
+          "highlight_text": "準備 7問を埋めました",
+          "ja": "PowerPoint を開く前のゴールデンステップ。5-10分で全7項目埋めて副部長レビュー → 設計に入る。",
+          "vi": "Bước vàng trước khi mở PowerPoint. Fill 7 câu trong 5-10 phút → senior review → mới design."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_01_good_03",
+          "highlight_text": "合意までいかなくても方向性決定で十分でしょうか",
+          "ja": "現実的な output ライン設定の自己点検。Over-promise はビジネス信頼を損なう。",
+          "vi": "Tự kiểm tra output realistic. Over-promise = mất uy tín business."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_01_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、Phase 3 プレゼンの準備 7問を埋めました。レビューいただけますでしょうか？",
+          "sentence_translation": "Chị Hương, em đã fill xong 7 câu hỏi chuẩn bị cho pitch Phase 3 ạ. Phiền chị review giúp em được không ạ?",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_01_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "いいね、let me see... ①対象=大垣・松本、②決めたい=Phase 3 スコープ合意、③時間=30分+15分Q&A、⑥リスク=価格反対、⑦バックアップ=PDF＋オフラインデモ。問題ない、これで設計開始していいよ。",
+          "sentence_translation": "Tốt, để chị xem... ① đối tượng = Ōgaki + Matsumoto, ② quyết = thống nhất scope Phase 3, ③ thời gian = 30 phút + 15 phút Q&A, ⑥ rủi ro = phản đối giá, ⑦ backup = PDF + demo offline. Ổn, em bắt đầu design được rồi.",
+          "tone": "warm",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_01_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。⑤アウトプットを『Phase 3 スコープ＋金額レンジ合意』と書きましたが、合意までいかなくても方向性決定で十分でしょうか？",
+          "sentence_translation": "Em cảm ơn chị ạ. Em ghi ⑤ output = 'thống nhất scope + range giá Phase 3', nhưng nếu không chốt được thỏa thuận, chỉ cần quyết được hướng đi cũng OK chứ ạ?",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_01_good_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "いい質問。方向性決定の方が現実的。1回のプレゼンで金額完全合意は難しい。書き直して。",
+          "sentence_translation": "Câu hỏi tốt đấy. Quyết hướng đi thì realistic hơn. Một buổi pitch khó mà chốt giá toàn bộ. Em sửa lại nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_01_kp_01",
+      "speaker": "zun",
+      "sentence": "プレゼンの準備7問を埋めました。レビューいただけますでしょうか？",
+      "sentence_translation": "Em đã fill 7 câu hỏi chuẩn bị pitch ạ. Phiền chị review giúp em được không ạ?",
+      "purpose": "プレゼン準備レビュー依頼の標準",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_01_kp_02",
+      "speaker": "zun",
+      "sentence": "アウトプットを〇〇と書きましたが、〜でも十分でしょうか？",
+      "sentence_translation": "Em ghi output là 〇〇, nhưng nếu chỉ đạt được 〜 thì có ổn không ạ?",
+      "purpose": "現実的アウトプットラインの自己点検",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_01_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "プレゼン準備で最初にやるべきは？",
+      "options": [
+        "PowerPoint を開いてデザインを始める",
+        "競合他社のスライドをコピーする",
+        "7つの問い(対象/目的/時間/場所/出力/リスク/バックアップ)に答える",
+        "ストック画像を集める"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "デザイン前に対象・目的・期待出力を明確にしないと、後で全面再設計になる。",
+        "vi": "Phải làm rõ đối tượng / mục đích / output trước khi design — không thì redo lại toàn bộ."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_01_tpl_01",
+      "format": "checklist",
+      "title_ja": "プレゼン準備チェックリスト(7問)",
+      "title_vi": "Checklist Chuẩn Bị Thuyết Trình (7 câu)",
+      "content_ja": "【プレゼン準備チェックリスト】\n\n① 誰に？(Audience)\n   - 主聴衆: ____  (役職・社名・関係性)\n   - 副聴衆: ____\n   - 不在の意思決定者: ____\n\n② 何を決めたい？(Decision target)\n   - 本日の合意ゴール: ____  (1文で)\n   - 妥協可能ライン: ____\n   - 絶対に譲れないライン: ____\n\n③ 時間 (Time)\n   - 持ち時間: ____ 分\n   - うち Q&A: ____ 分\n   - 1スライド当たり: ____ 秒(目安)\n\n④ 場所 (Setting)\n   - 対面 / オンライン / ハイブリッド\n   - 機材: PC・プロジェクター・マイク\n   - 接続テスト: ____ (時刻)\n\n⑤ 期待されるアウトプット (Output)\n   - 主アウトプット: ____  (例: スコープ合意 / 方向性決定)\n   - 副アウトプット: ____  (例: 次回会議日決定)\n   - NG ライン: ____  (これ以下なら失敗)\n\n⑥ リスク (Risk)\n   - リスク1: ____ → 対策: ____\n   - リスク2: ____ → 対策: ____\n   - リスク3: ____ → 対策: ____\n\n⑦ バックアップ (Backup)\n   - スライド: PDF版 USB+クラウド\n   - デモ: オフライン版\n   - インターネット: モバイルテザリング",
+      "content_vi": "[Checklist Chuẩn Bị Thuyết Trình]\n\n① CHO AI? (Audience)\n   - Đối tượng chính: ____ (chức vụ / cty / quan hệ)\n   - Đối tượng phụ: ____\n   - Decision maker vắng mặt: ____\n\n② QUYẾT GÌ? (Decision target)\n   - Goal đồng thuận hôm nay: ____ (1 câu)\n   - Mức có thể nhượng: ____\n   - Mức KHÔNG THỂ nhượng: ____\n\n③ THỜI GIAN (Time)\n   - Thời lượng: ____ phút\n   - Trong đó Q&A: ____ phút\n   - Mỗi slide: ____ giây (ước)\n\n④ ĐỊA ĐIỂM (Setting)\n   - Trực tiếp / online / hybrid\n   - Thiết bị: PC / projector / mic\n   - Test connection: ____ (thời gian)\n\n⑤ OUTPUT MONG ĐỢI (Output)\n   - Output chính: ____ (vd: thống nhất scope / quyết hướng đi)\n   - Output phụ: ____ (vd: chốt ngày họp tiếp)\n   - Mức NG: ____ (dưới mức này = thất bại)\n\n⑥ RỦI RO (Risk)\n   - Rủi ro 1: ____ → đối sách: ____\n   - Rủi ro 2: ____ → đối sách: ____\n   - Rủi ro 3: ____ → đối sách: ____\n\n⑦ BACKUP (Plan B)\n   - Slide: PDF backup USB + cloud\n   - Demo: phiên bản offline\n   - Internet: tethering 4G/5G",
+      "notes_ja": "PowerPoint を開く前に必ず埋める。Senior レビュー後 → 設計開始。5-10分の投資で半日のやり直しを防ぐ。",
+      "notes_vi": "Bắt buộc fill trước khi mở PowerPoint. Senior review → mới bắt đầu design. Đầu tư 5-10 phút để tránh redo nửa ngày."
+    }
+  ]
+}

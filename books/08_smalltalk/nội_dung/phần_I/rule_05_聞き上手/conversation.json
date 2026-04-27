@@ -1,0 +1,280 @@
+{
+  "rule_id": "08-05",
+  "rule_slug": "聞き上手の技術",
+  "title": {
+    "vi": "聞き上手 — listening + relay",
+    "ja": "聞き上手の技術"
+  },
+  "rule_context": {
+    "luan_diem_vi": "聞き上手 = 3 kỹ thuật chồng: Mirror keyword → Summarize → Follow-up sâu. Khách cảm thấy 'anh này HIỂU mình' thay vì chỉ nghe.",
+    "luan_diem_ja": "聞き上手とは3技術の重ね:オウム返し → 要約 → 深掘り。聞いているだけでなく『理解されている』と感じてもらう。",
+    "boi_canh_vi": "3 lớp: L1 相槌 đa dạng (mọi lúc) / L2 summarize (khi khách kể >1 phút) / L3 follow-up cảm xúc.",
+    "boi_canh_ja": "3レイヤー:L1 多様な相槌(常時)/ L2 要約(1分以上の話)/ L3 感情への深掘り。",
+    "muc_tieu_vi": "Master 3 kỹ thuật + reference back. Không cướp lời, không sửa sai khách."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "02",
+      "topic": "8:2 rule"
+    },
+    {
+      "book": "08",
+      "rule": "04",
+      "topic": "Câu hỏi mở"
+    },
+    {
+      "book": "08",
+      "rule": "06",
+      "topic": "Chuyển topic"
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "BAD — はい連発",
+      "type": "bad",
+      "context_vi": "Nakamura kể chuyện đi Niigata. Dũng chỉ trả 'はい' liên tục như robot.",
+      "lines": [
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "先週、新潟に出張で行ってきてさ…",
+          "vi": "Tuần trước tôi đi công tác Niigata..."
+        },
+        {
+          "speaker": "zun",
+          "ja": "[NG] はい。",
+          "vi": "[NG] Vâng."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "で、地元の蔵元に寄ってきたんだけど…",
+          "vi": "Anh ghé nhà sản xuất sake địa phương..."
+        },
+        {
+          "speaker": "zun",
+          "ja": "[NG] はい。",
+          "vi": "[NG] Vâng."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "…まあ、それで…",
+          "vi": "...thôi vậy..."
+        }
+      ],
+      "why_bad": "「はい」連発 = robot. Không có cảm xúc, không có react. Khách thấy mình không quan tâm → cụt câu chuyện."
+    },
+    {
+      "scenario": "GOOD — Mirror + value-add",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "先週、新潟に出張で行ってきてさ…",
+          "vi": "Tuần trước tôi đi công tác Niigata..."
+        },
+        {
+          "speaker": "zun",
+          "ja": "新潟ですか!お米と日本酒の聖地ですね。",
+          "vi": "Niigata ạ! Thánh địa của gạo và sake nhỉ."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "そうそう、地元の蔵元に寄ってきたんだ。",
+          "vi": "Đúng rồi, anh ghé nhà sản xuất sake địa phương."
+        },
+        {
+          "speaker": "zun",
+          "ja": "蔵元!羨ましい。試飲もされたんですか?",
+          "vi": "Nhà rượu sake! Em ghen tị quá. Anh có nếm thử không ạ?"
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "もちろん、5種類飲み比べてね…",
+          "vi": "Tất nhiên, anh thử 5 loại so sánh..."
+        }
+      ]
+    },
+    {
+      "scenario": "L2+L3 — Summarize + Follow-up cảm xúc",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "oogaki_sales",
+          "ja": "…で、そのプロジェクトはね、要件が3回変わって、納期が3ヶ月遅れて、最終的に予算も20%オーバーで、もう大変だったわ。チームも疲弊しちゃってね。",
+          "vi": "...Dự án đó requirement đổi 3 lần, deadline trễ 3 tháng, ngân sách vượt 20%, mệt thật. Team cũng kiệt sức."
+        },
+        {
+          "speaker": "zun",
+          "ja": "つまり、要件のブレが3つも重なって、結果コストもスケジュールも崩れた、という難しいケースだったんですね。",
+          "vi": "Tức là, requirement dao động 3 lần khiến cả cost lẫn schedule sụp đổ, một case khó nhỉ."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "そう!まさにそれ。ズンさん、よく分かってるね。",
+          "vi": "Đúng! Chính xác. Em hiểu giỏi nhỉ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "その時、大垣さんご自身、何を一番つらく感じられましたか?",
+          "vi": "Lúc đó, bản thân anh Ōgaki cảm thấy điều gì khó chịu nhất ạ?"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "いやあ、お客様への謝罪より、チームに無理させたことの方が辛かった…",
+          "vi": "Hà, hơn cả việc xin lỗi khách, anh đau lòng vì đã ép team quá sức..."
+        }
+      ]
+    },
+    {
+      "scenario": "BAD — Cướp lời show kiến thức",
+      "type": "bad",
+      "context_vi": "Matsumoto kể chuyện đi Hạ Long. Dũng cướp lời kể 2 phút về vịnh Hạ Long → khách dừng kể.",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "実は先月、初めてベトナムに観光で行きまして、ハロン湾が…",
+          "vi": "Thật ra tháng trước anh lần đầu đi du lịch Việt Nam, vịnh Hạ Long..."
+        },
+        {
+          "speaker": "zun",
+          "ja": "[NG] ハロン湾ですか!世界遺産で、3000以上の島があって、伝説では龍が降りた場所で…",
+          "vi": "[NG] Vịnh Hạ Long ạ! Di sản thế giới, có hơn 3000 đảo, truyền thuyết là nơi rồng giáng..."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "…そうなんですね。へえ。",
+          "vi": "...vậy à. Ờ."
+        }
+      ],
+      "why_bad": "Khách muốn kể trải nghiệm CỦA HỌ. Cướp lời show kiến thức = đè bóng. Đúng: 'ハロン湾ですか、いかがでしたか?' → để khách kể trước, knowledge của mình chèn SAU."
+    },
+    {
+      "scenario": "Combo full + reference back",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "実はね、先月孫が初めて『じいじ』って呼んでくれて。",
+          "vi": "Tháng trước cháu lần đầu gọi tôi là 'ông ơi'."
+        },
+        {
+          "speaker": "zun",
+          "ja": "じいじ!いやあ、嬉しい瞬間ですね。",
+          "vi": "'Ông ơi' ạ! Khoảnh khắc hạnh phúc nhỉ."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "もう涙出そうになったよ。妻にも『あなた泣くの早すぎ』って笑われてさ。3歳でこんなに言葉出るとは思わなかった。",
+          "vi": "Anh suýt rớt nước mắt. Vợ anh cười 'anh khóc sớm quá'. Không ngờ 3 tuổi đã nói nhiều thế."
+        },
+        {
+          "speaker": "zun",
+          "ja": "お孫さんの成長スピードに驚かれた、という瞬間だったんですね。奥様も嬉しそうでしたか?",
+          "vi": "Là khoảnh khắc anh ngạc nhiên về tốc độ lớn của cháu nhỉ. Vợ anh cũng vui chứ ạ?"
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "もちろん。家中、写真と動画だらけよ。",
+          "vi": "Tất nhiên. Cả nhà toàn ảnh với video."
+        },
+        {
+          "speaker": "zun",
+          "ja": "先ほどのじいじの話、本当に温かいエピソードでした。ところで…",
+          "vi": "Câu chuyện 'ông ơi' lúc nãy thật ấm áp. À mà..."
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "L1 相槌",
+      "ja": "へえ、[キーワード]ですか!",
+      "vi": "Ồ, [keyword] ạ!",
+      "use": "Mirror cơ bản — luôn dùng"
+    },
+    {
+      "category": "L1 相槌",
+      "ja": "ほう、それは…",
+      "vi": "Ồ, vậy thì...",
+      "use": "Show ngạc nhiên nhẹ"
+    },
+    {
+      "category": "L1 相槌",
+      "ja": "えっ、本当ですか!",
+      "vi": "Ơ, thật à!",
+      "use": "React mạnh hơn — khi info bất ngờ"
+    },
+    {
+      "category": "L2 Summarize",
+      "ja": "つまり、〜ということですね。",
+      "vi": "Tức là, [...] phải không ạ.",
+      "use": "Cô đặc câu chuyện khách kể"
+    },
+    {
+      "category": "L2 Summarize",
+      "ja": "整理すると、〜という流れだったんですね。",
+      "vi": "Tóm lại, mạch là [...] nhỉ.",
+      "use": "Sau khi khách kể chuỗi sự kiện"
+    },
+    {
+      "category": "L3 Follow-up",
+      "ja": "その時、どう感じられましたか?",
+      "vi": "Lúc đó anh cảm thấy thế nào ạ?",
+      "use": "Pivot từ fact sang cảm xúc"
+    },
+    {
+      "category": "L3 Follow-up",
+      "ja": "もし今振り返ると、何を一番覚えていますか?",
+      "vi": "Giờ nhìn lại, anh nhớ nhất điều gì ạ?",
+      "use": "Reflective question — đẳng cấp cao"
+    },
+    {
+      "category": "Reference back",
+      "ja": "先ほどの[topic]の話、本当に[react]でした。",
+      "vi": "Câu chuyện [topic] lúc nãy thật [react].",
+      "use": "Bridge sau 5-30 phút — chứng tỏ nhớ"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "聞き上手の3技術として正しい順序は?",
+      "options": [
+        "A. 自分語り → 結論 → 質問",
+        "B. オウム返し → 要約 → 深掘り",
+        "C. 質問 → 答える → 反論",
+        "D. 沈黙 → 笑う → 終わり"
+      ],
+      "answer": "B",
+      "explain_vi": "Mirror (lặp keyword) → Summarize (tóm tắt) → Follow-up (đào sâu). 3 lớp chồng = 聞き上手."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「つまり、〜ということですね」を使う最適なタイミングは?",
+      "options": [
+        "A. 相手が一言発した直後",
+        "B. 相手が長く話し終わった後、整理を伝えるとき",
+        "C. 自分が話したい時に話を止めるため",
+        "D. 反論する前置き"
+      ],
+      "answer": "B",
+      "explain_vi": "Summarize dùng SAU khi khách kể dài 1-2 phút → cô đặc lại = chứng minh đã nghe + hiểu."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "お客様が話している途中で「いえ、それ2018年じゃなくて2019年です」と訂正するのは?",
+      "options": [
+        "A. 正確性を示す良い行動",
+        "B. NG — 相手の顔を潰し、話の流れを止める",
+        "C. 沈黙より良い",
+        "D. 相手も喜ぶ"
+      ],
+      "answer": "B",
+      "explain_vi": "Sửa sai chi tiết nhỏ giữa câu chuyện = phá flow + làm khách mất mặt. Phải đợi xong mới khéo bổ sung nếu thật cần."
+    }
+  ],
+  "templates": []
+}

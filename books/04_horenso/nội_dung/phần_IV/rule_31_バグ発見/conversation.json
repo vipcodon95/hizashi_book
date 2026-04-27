@@ -1,0 +1,239 @@
+{
+  "rule_id": "rule_31",
+  "rule_slug": "バグ発見時",
+  "title": {
+    "ja": "バグ発見時のホウレンソウ",
+    "vi": "Phát hiện bug — Hou-Ren-Sou flow"
+  },
+  "rule_context": {
+    "ja": "ハイが production API のエラー急増を検知。1人で抱え込む悪い例から、5分→15分→30分→60分の SLA に沿った escalation chain（Hai → Tuấn → Hà CTO → 松本様）への良い例へ。",
+    "vi": "Hải phát hiện production API tăng error đột ngột. Từ pattern xấu (1 mình điều tra) → đúng (chain escalation theo SLA 5p→15p→30p→60p: Hải → Tuấn → Hà CTO → Matsumoto)."
+  },
+  "related_rules": [
+    "rule_07",
+    "rule_13",
+    "rule_17"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 1人抱え込み",
+      "label_vi": "XẤU — Tự ôm 1 mình",
+      "display_order": 1,
+      "analysis": {
+        "ja": "Sev1 を1人で1時間調査するのは時間SLA違反。客が先に Twitter で発見する事態に。連鎖遅延の典型。",
+        "vi": "Tự ôm Sev1 1 tiếng = vi phạm SLA. Khách phát hiện trên Twitter trước. Điển hình của chuỗi trễ."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_31_bad_01",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "(14:30、1人で) あれ、エラー多いな…とりあえずログ見てみよう…",
+          "sentence_translation": "(14:30, một mình) Ơ, error nhiều thật... để mình xem log đã...",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_31_bad_02",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "(14:50) うーん、原因分からない…とりあえずもう少し調べよう…",
+          "sentence_translation": "(14:50) Ờm, chưa tìm ra nguyên nhân... để xem thêm chút...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_31_bad_03",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "(15:30、Slack) @トゥアン、production API がエラー多いんですけど…",
+          "sentence_translation": "(15:30, Slack) @anh Tuấn, production API đang nhiều error ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_31_bad_04",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "なんで1時間も黙ってた!?客に既に Twitter で晒されてるよ。フローを守って: 検知5分以内に #incident チャネル投稿。1人で抱え込むな。",
+          "sentence_translation": "Sao em im 1 tiếng vậy!? Khách đã đăng trên Twitter rồi. Tuân flow đi: phát hiện trong 5 phút phải post #incident channel. Đừng tự ôm.",
+          "tone": "angry"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — SLA連鎖エスカレーション",
+      "label_vi": "TỐT — Chuỗi escalation theo SLA",
+      "display_order": 2,
+      "analysis": {
+        "ja": "5分→15分→30分→60分のSLAを各レイヤーで守り、客には『事実+影響+調査中』の第一報を30分以内、ETAを60分以内、解決後24時間以内にpost-mortem。Sev1の理想形。",
+        "vi": "Mỗi layer giữ SLA 5/15/30/60 phút, khách nhận 'fact + impact + investigating' trong 30 phút, ETA trong 60 phút, post-mortem trong 24 giờ. Form lý tưởng cho Sev1."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_31_good_01",
+          "highlight_text": "@tuan_leader 確認お願いします",
+          "ja": "5分以内に Tech lead を tag。一人で抱え込まないことが #1 ルール。",
+          "vi": "Tag Tech lead trong 5 phút. Không tự ôm là rule #1."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_31_good_02",
+          "highlight_text": "@ha_cto エスカレーション",
+          "ja": "Sev1 と判断したらすぐ CTO に上げる。15分の SLA を守る。",
+          "vi": "Đánh giá Sev1 thì lập tức báo CTO. Giữ SLA 15 phút."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_31_good_03",
+          "highlight_text": "ズン、松本様への第一報を 15:00 までに",
+          "ja": "CTO は判断 + 役割割り。客対応は BD owner（ズン）。CTO 自身は技術チーム監督。",
+          "vi": "CTO quyết + chia vai. Khách-facing là BD owner (Dũng). CTO bám sát team kỹ thuật."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_31_good_04",
+          "highlight_text": "14:30 頃から production API で一部障害が発生",
+          "ja": "第一報は『事実 + 時刻 + 影響範囲』のみ。原因は推測しない。",
+          "vi": "Báo cáo đầu chỉ 'sự thật + thời điểm + phạm vi'. Không suy đoán nguyên nhân."
+        },
+        {
+          "id": "5",
+          "applies_to_line": "rule_31_good_04",
+          "highlight_text": "ETA は 15:30 までに別途ご報告",
+          "ja": "ETA を未定のまま約束しない。第二報で別途。これが二重約束を防ぐ。",
+          "vi": "Không hứa ETA khi chưa biết. Báo riêng lần 2. Tránh hứa kép."
+        },
+        {
+          "id": "6",
+          "applies_to_line": "rule_31_good_07",
+          "highlight_text": "復旧後 24時間以内に Post-mortem レポートをお送りいたします",
+          "ja": "Post-mortem の約束で『再発防止する組織』を示す。日本客は especially これを重視。",
+          "vi": "Hứa Post-mortem để show 'tổ chức ngăn tái phát'. Khách Nhật đặc biệt coi trọng."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_31_good_01",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "(14:30、Slack #incident) 【Incident #INC-2026-0422-01】検知時刻: 14:30 / 影響: production API、500 error率約30% / 推定影響ユーザー: 200名 / 検知者: ハイ / 現在: ログ確認中。@tuan_leader 確認お願いします。",
+          "sentence_translation": "(14:30, Slack #incident) [Incident #INC-2026-0422-01] Phát hiện: 14:30 / Ảnh hưởng: production API, error rate ~30% / Ước tính user bị: 200 / Người phát hiện: Hải / Hiện tại: đang check log. @anh Tuấn xác nhận giúp em ạ.",
+          "tone": "urgent",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_31_good_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "(14:35) 確認、severity Sev1 (critical)。@ha_cto エスカレーションします。ハイは継続調査、ズン待機して顧客通知準備。",
+          "sentence_translation": "(14:35) Xác nhận, severity Sev1 (critical). @anh Hà CTO em escalate. Hải tiếp tục điều tra, Dũng standby chuẩn bị thông báo khách.",
+          "tone": "urgent",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_31_good_03",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "(14:45) Sev1 確認。ズン、松本様への第一報を 15:00 までに。内容:発生事実 + 影響範囲 + 調査中のステータス + ETA は 15:30 までに別途。",
+          "sentence_translation": "(14:45) Xác nhận Sev1. Dũng, gửi báo cáo đầu cho anh Matsumoto trước 15:00. Nội dung: sự thật + phạm vi ảnh hưởng + đang điều tra + ETA báo riêng trước 15:30.",
+          "tone": "firm",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_31_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(15:00、Slack 客先 + Email) 松本様、緊急ご連絡となり恐縮です。14:30 頃から production API で一部障害が発生しております。影響:ログイン後の検索画面の一部機能、推定 200 名。現在ティエンファット技術チームで調査中、ETA は 15:30 までに別途ご報告いたします。誠に申し訳ございません。",
+          "sentence_translation": "(15:00, Slack khách + email) Anh Matsumoto, em xin lỗi liên lạc gấp. Từ 14:30 production API có sự cố một phần. Ảnh hưởng: 1 phần chức năng màn hình search sau khi login, ước tính 200 người. Hiện team kỹ thuật Thiên Phát đang điều tra, ETA em sẽ báo riêng trước 15:30. Em thực sự xin lỗi anh ạ.",
+          "tone": "apologetic",
+          "annotation_ids": [
+            "4",
+            "5"
+          ]
+        },
+        {
+          "line_id": "rule_31_good_05",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "承知しました。ETA をお待ちします。当方からも社内に共有します。",
+          "sentence_translation": "Tôi hiểu rồi. Tôi đợi ETA. Bên tôi cũng share nội bộ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_31_good_06",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "(15:25、Slack #incident) 原因: 14:00 デプロイの DB index に conflict。rollback 手順準備完了、15:30 実施で復旧見込み。",
+          "sentence_translation": "(15:25, Slack #incident) Nguyên nhân: index DB của deploy 14:00 có conflict. Đã chuẩn bị xong quy trình rollback, thực thi 15:30 dự kiến khôi phục.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_31_good_07",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(15:30、メール) 松本様、ETA ご報告: 15:30〜15:45 で rollback 実施、15:45 復旧見込み。原因:本日デプロイの index 変更が想定外の lock を発生。詳細は復旧後 24時間以内に Post-mortem レポートをお送りいたします。",
+          "sentence_translation": "(15:30, mail) Anh Matsumoto, [Báo ETA] 15:30-15:45 thực thi rollback, 15:45 dự kiến khôi phục. Nguyên nhân: thay đổi index của deploy hôm nay gây lock ngoài dự tính. Chi tiết em sẽ gửi report Post-mortem trong vòng 24h sau khi khôi phục ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "6"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_31_kp_01",
+      "speaker": "hai",
+      "sentence": "【Incident #〇〇】検知時刻: 〇〇 / 影響: 〇〇 / 推定影響: 〇名 / 現在: 〇〇。@〇〇 確認お願いします。",
+      "sentence_translation": "[Incident #〇〇] Phát hiện: 〇〇 / Ảnh hưởng: 〇〇 / Ước tính ảnh hưởng: 〇 người / Hiện tại: 〇〇. @〇〇 xác nhận giúp.",
+      "purpose": "Slack #incident チャネル第一報フォーマット",
+      "slow_audio": false
+    },
+    {
+      "phrase_id": "rule_31_kp_02",
+      "speaker": "zun",
+      "sentence": "緊急ご連絡となり恐縮です。〇時頃から〇〇で障害が発生しております。現在調査中、ETA は別途ご報告いたします。",
+      "sentence_translation": "Em xin lỗi liên lạc gấp. Từ 〇 giờ 〇〇 có sự cố. Hiện đang điều tra, ETA em sẽ báo riêng.",
+      "purpose": "客先第一報定型句",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_31_bjt_01",
+      "level": "J3",
+      "skill": "発言聴解",
+      "question_ja": "Sev1 incident 検知時の正しい第一報内容は?",
+      "options": [
+        "原因を推測して伝える",
+        "発生事実 + 影響範囲 + 調査中ステータス（原因とETAは未確定なら別途）",
+        "解決時間を約束する",
+        "客先には復旧後にまとめて報告"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "第一報は『事実+影響範囲+調査中』のみ。原因推測やETA約束は二重約束のリスク。情報が固まり次第、別報で順次更新。",
+        "vi": "Báo cáo đầu chỉ 'fact + impact + investigating'. Suy đoán nguyên nhân hoặc hứa ETA = rủi ro hứa kép. Khi info cứng thì update từng phần."
+      }
+    }
+  ]
+}

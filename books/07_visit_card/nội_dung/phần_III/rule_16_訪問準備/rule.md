@@ -1,0 +1,128 @@
+# Rule 16 — Chuẩn bị trước khi đi onsite / 訪問前の準備
+
+> **Luận điểm.** Onsite Nhật chuẩn bị **5 mục** trước 24h: (1) Confirm với 担当者 qua mail (giờ + địa chỉ + người đi cùng) (2) Dress code: suit đậm + cravate (3) Route + buffer 30 phút (Tokyo subway phức tạp + commute peak) (4) IC card / cash 1 man yen (5) Omiyage VN (rule 28). Confirm muộn 24h = không sense urgency.
+>
+> 訪問は『24h前確認・スーツ濃色ネクタイ・ルート+30分buffer・ICカード/現金1万・お土産』の5点を前日完了。
+>
+> **Liên quan:** rule 17 (5分前到着), rule 28 (omiyage), rule 34 (initial onsite survival kit).
+
+---
+
+## Bối cảnh / 場面
+
+Dũng + Tuấn lần đầu đi onsite Tokyo cho 白鷗 office tại Shinjuku, Phase 3 technical kickoff. Ngày D-1 (chiều thứ 4, meeting thứ 5). Tuấn chưa quen routine, Dũng kiểm tra 5 mục.
+
+---
+
+## ❌ Hội thoại XẤU — confirm muộn + thiếu mục
+
+*D-1, 17:00 chiều*
+
+| Speaker | Câu |
+|---------|-----|
+| **トゥアン** | 「ズン、明日の白鷗 onsite、住所どこだっけ？」 |
+| **ズン** | 「えっ、まだ確認してない？田中PMOにメール送ったか？」 |
+| **トゥアン** | 「あ、まだ。今日中に送る。あとスーツは…ジャケットだけでいいよね？」 |
+| **ズン** | 「**白鷗本社は CFO 同席だぞ。スーツ濃紺+ネクタイ必須**。お土産は？」 |
+| **トゥアン** | 「えっ、お土産も？空港で買えばいいかな…」 |
+
+**Vì sao xấu:** D-1 17:00 mà chưa confirm địa chỉ + outfit + omiyage = miss multiple lanes. Mai sáng confirm = Tanaka PMO không kịp prep phòng + receptionist guide. Outfit "ジャケットだけ" với CFO meeting = lộ unprofessional.
+
+---
+
+## ✅ Hội thoại TỐT — D-1 5 mục check
+
+*D-1, 14:00*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「トゥアン、明日の白鷗 onsite チェックリスト共有しよう。」 |
+| **トゥアン** | 「① **田中PMOへ確認メール送信済**【1】 (10時到着・私とズン2名・名刺準備済) ② **スーツ濃紺+白シャツ+紺ネクタイ**【2】 ③ **ルート: ホテル→新宿駅→白鷗本社 徒歩7分、buffer 30分**【3】 ④ **ICカード Suica チャージ済+現金1万**【4】 ⑤ **お土産: ベトナムコーヒー(高級ブランド)6箱**【5】。」 |
+| **ズン** | 「完璧。田中PMOからの返信は？」 |
+| **トゥアン** | 「**『10時にロビーでお迎えします』** とのこと。受付で『白鷗株式会社 田中様、約束のティエンファットのトゥアンとズンです』と申告予定。」 |
+| **ズン** | 「OK。明朝 9:00 ホテル ロビー集合。」 |
+
+📝 **Ghi chú:**
+- 【1】**24h前確認メール** — confirm: 時間/人数/場所/agenda。Format: 「明日10時のお打ち合わせの件、ティエンファットのトゥアン・ズン2名でお伺いいたします。受付対応のご手配をお願いいたします」.
+- 【2】**Dress code** — JP 大手 default = suit đậm (濃紺 / 黒). Cravate đơn sắc. Áo trắng. Tránh: shirt màu / jacket-only / chinos.
+- 【3】**Route + 30 phút buffer** — Tokyo subway peak hour delay 5-15 phút thường. Calculate route + add 30 phút. Đến lobby trước 5-10 phút (rule 17).
+- 【4】**IC card + cash** — Suica/Pasmo charge sẵn. Cash 1 man yen cho taxi emergency. Card Visa nhiều shop nhỏ Tokyo không nhận.
+- 【5】**Omiyage** — chuẩn bị từ VN, KHÔNG mua tại sân bay Narita (giảm tâm). Brand uy tín, 6 hộp = 1 cho đoàn 大垣 + 1 cho 中村 + 1 cho 松本 + 1 cho 田中 + 2 buffer.
+
+---
+
+## 🎯 Câu chốt
+
+> **「訪問前は24h前に『確認メール・スーツ濃紺・ルート+30分buffer・IC/現金・お土産』の5点完了。」**
+>
+> *Trước onsite: 24h trước xong 5 mục — confirm mail / suit đậm / route + buffer 30p / IC card+cash / omiyage.*
+
+---
+
+## ⚠ Tránh
+
+- Confirm **D-1 evening** → senior khách JP đã off work, không reply kịp
+- **Jacket-only** / áo màu sáng / chinos cho meeting CFO → suit đậm
+- Route **không có buffer** → Tokyo delay = đến muộn = rule 17 fail
+- **Quên IC card** → mua tại ga sáng D = mất 10 phút trễ giờ
+- Mua **omiyage tại Narita** → khách nhận thấy = giảm tâm
+- **Không briefing người đi cùng** → vào lobby Shinjuku, mỗi người 1 plan = loạn
+
+---
+
+## 📐 Template — Onsite Visit Checklist (5 mục)
+
+```
+【訪問前24h チェックリスト — D-1 18:00 まで完了】
+
+□ ① 確認メール (24h前)
+   - 宛先: 担当者 (To) + 上司 (CC)
+   - 内容: 日時・人数・氏名・到着予定 (5-10分前)
+   - 受付対応依頼明記
+   返信受領: ___ (確認時刻)
+
+□ ② Dress code
+   - スーツ: 濃紺 / 黒
+   - シャツ: 白 (青系も可)
+   - ネクタイ: 単色 / 控えめ柄
+   - 靴: 黒革靴 / 磨き済
+   - 名刺ケース: スーツ右ポケット
+   - お土産: 紙袋から取り出さず持参
+
+□ ③ ルート + buffer
+   - 出発地: ___
+   - 経路: ___
+   - 標準所要: ___ 分
+   - +Buffer 30分
+   - 到着目標: 訪問先 5-10分前 (rule 17)
+
+□ ④ 持ち物
+   - 名刺 50枚 (rule 01)
+   - ICカード Suica/Pasmo チャージ済
+   - 現金 1万円 (タクシー / 緊急用)
+   - 名刺メモ用ノート + ペン
+   - スマホ充電済 + モバイルバッテリー
+   - 訪問先地図印刷 (オフライン用)
+
+□ ⑤ お土産 (rule 28)
+   - 銘柄: ___
+   - 数: 担当者数 + 2 buffer
+   - VN由来 / 個包装 / 賞味期限長
+   - 紙袋(ロゴ控えめ)
+```
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 訪問 | ほうもん | Thăm / visit |
+| 担当者 | たんとうしゃ | Người phụ trách |
+| 確認メール | かくにんめーる | Mail xác nhận |
+| ルート | ruuto | Route |
+| バッファ | baffa | Buffer |
+| ICカード | aishii kaado | IC card (Suica/Pasmo) |
+| お土産 | おみやげ | Quà (omiyage) |
+| 濃紺 | のうこん | Xanh đậm |
+| ネクタイ | nekutai | Cravate |

@@ -1,0 +1,183 @@
+{
+  "rule_id": "rule_01",
+  "rule_slug": "BATNA — 交渉決裂時の代替案",
+  "title": {
+    "ja": "BATNA — 交渉決裂時の代替案",
+    "vi": "BATNA: Phương án thay thế tốt nhất"
+  },
+  "rule_context": {
+    "ja": "Phase 3 価格交渉前にBATNA 3 シナリオを作成しフオン副部長に確認を取る場面。",
+    "vi": "Trước round đàm phán giá Phase 3, Dũng tạo BATNA 3 scenario rồi nhờ chị Hương review."
+  },
+  "related_rules": ["rule_02", "rule_08", "rule_09"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — BATNAなし",
+      "label_vi": "XẤU — Không có BATNA",
+      "display_order": 1,
+      "analysis": {
+        "ja": "BATNA未定義で交渉に向かう。譲歩ラインが曖昧で、相手はtone から readこちら無策と察知し攻める。",
+        "vi": "Vào đàm phán không định nghĩa BATNA. Walk-away point mơ hồ, khách Nhật sharp đọc được qua tone giọng → push hard."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_01_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、明日 Phase 3 の価格交渉です。¥18M で出すんですが、もし大垣さんが下げてと言ったらどこまで下げますか？",
+          "sentence_translation": "Chị Hương, mai là round đàm phán giá Phase 3 ạ. Em ra giá ¥18M, nhưng nếu anh Ōgaki ép giảm thì giảm xuống tới đâu ạ?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_01_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "BATNA は？",
+          "sentence_translation": "BATNA của em là gì?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_01_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "BATNA…えっと、まだ考えてないです。譲歩は¥17Mぐらいまでかなと…",
+          "sentence_translation": "BATNA... ờ, em chưa nghĩ ạ. Em định nhượng bộ chừng ¥17M ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_01_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ダメ。BATNAがないなら、明日交渉に行かないで。¥17M も曖昧で根拠がない。今夜中にBATNA 3シナリオ書いて、明日朝レビューしよう。",
+          "sentence_translation": "Không được. BATNA không có thì mai không vào đàm phán. ¥17M cũng mơ hồ không có cơ sở. Tối nay viết BATNA 3 scenario, sáng mai chị review.",
+          "tone": "firm",
+          "speed_multiplier": 1.0
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — BATNA 3シナリオ",
+      "label_vi": "TỐT — BATNA 3 scenario có số",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_01_good_01",
+          "highlight_text": "BATNA 3 シナリオ",
+          "ja": "A (成立) / B (再交渉) / C (撤退) — それぞれ数値+条件+承認者を明示。",
+          "vi": "A (deal as-is) / B (counter) / C (walk-away) — mỗi scenario có con số + điều kiện + người đã approve."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_01_good_03",
+          "highlight_text": "Phase 2 同等スコープなら ¥16.5M で利益率 22% 維持可能",
+          "ja": "シナリオBは内部財務裏付けが必須。「感覚」では譲歩できない。",
+          "vi": "Scenario B phải có internal financial validation. KHÔNG được dựa trên 'cảm giác'."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_01_good_03",
+          "highlight_text": "X社から ¥17M の MoU 受領",
+          "ja": "シナリオC撤退には実在する代替先が必要。bluffではなく real alternative。",
+          "vi": "Scenario C walk-away cần real alternative — không phải bluff. Có MoU X社 thật → confidence trong giọng."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_01_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、Phase 3 価格交渉のBATNA 3シナリオを作成しました。レビューいただけますでしょうか？",
+          "sentence_translation": "Chị Hương, em đã tạo BATNA 3 scenario cho đàm phán giá Phase 3 ạ. Phiền chị review giúp em được không ạ?",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_01_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "シナリオA(成立): ¥18M、target、shake hand。シナリオB(再交渉): ¥16.5M + scope -10%、ハー CTO 承認済。シナリオC(walk-away): ¥15M 以下なら撤退、別案件 X 社の話進める。これは具体的でいいね。",
+          "sentence_translation": "Scenario A (deal): ¥18M, target, bắt tay. Scenario B (counter): ¥16.5M + scope -10%, anh Hà CTO đã duyệt. Scenario C (walk-away): dưới ¥15M thì rút lui, switch sang X社. Cụ thể, OK.",
+          "tone": "warm",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_01_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "シナリオB の根拠は、Phase 2 同等スコープなら ¥16.5M で利益率 22% 維持可能、ハー CTO に確認済みです。シナリオC は 3月にX社から ¥17M の MoU 受領 が走っているので、こちらに切り替え可能です。",
+          "sentence_translation": "Cơ sở scenario B: scope tương đương Phase 2 thì ¥16.5M giữ profit margin 22%, anh Hà CTO đã confirm ạ. Scenario C: tháng 3 đã có MoU ¥17M từ X社 đang chạy, em có thể switch sang ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2", "3"]
+        },
+        {
+          "line_id": "rule_01_good_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "完璧。明日大垣さんが ¥15M 以下を出してきたら、シナリオ C を堂々と提示。『弊社にも他のオプションがある』ことを声に出さなくても tone で伝わる。それが BATNA の力。",
+          "sentence_translation": "Tuyệt. Mai anh Ōgaki đẩy xuống dưới ¥15M thì em đưa scenario C ra một cách thẳng thắn. 'Bên em cũng có lựa chọn khác' không cần nói thành lời, tone giọng cũng truyền tải. Đó là sức mạnh BATNA.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_01_kp_01",
+      "speaker": "zun",
+      "sentence": "BATNA 3シナリオを作成しました。レビューいただけますでしょうか？",
+      "sentence_translation": "Em đã tạo BATNA 3 scenario ạ. Phiền chị review giúp em được không ạ?",
+      "purpose": "BATNA レビュー依頼の標準",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_01_kp_02",
+      "speaker": "fuon",
+      "sentence": "BATNAなしで交渉に入らない。3シナリオ(成立/再交渉/撤退)を数値で持つ。",
+      "sentence_translation": "Không vào đàm phán khi chưa có BATNA. 3 scenario (deal/counter/walk-away) phải có con số.",
+      "purpose": "BATNA原則",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_01_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "BATNAとして適切でないものは？",
+      "options": [
+        "数値化された撤退ライン",
+        "実在する代替案件 (例: 他社からのMoU)",
+        "「感覚的にこの辺で妥協できそう」という曖昧な判断",
+        "内部承認済みの再交渉条件"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "BATNAは『数値+条件+承認者』が揃って初めて機能する。曖昧な感覚では交渉力にならない。",
+        "vi": "BATNA cần 'con số + điều kiện + người duyệt' mới có hiệu lực. Cảm giác mơ hồ = không thành đòn bẩy đàm phán."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_01_tpl_01",
+      "format": "checklist",
+      "title_ja": "BATNA 3シナリオ・テンプレート",
+      "title_vi": "Template BATNA 3 Scenario",
+      "content_ja": "【交渉案件】〇〇\n【日時】〇〇年〇月〇日\n【相手】〇〇 様\n\n━━━ シナリオ A: 成立 (Deal as-is) ━━━\n  価格: 〇〇円\n  スコープ: 〇〇\n  条件: 〇〇\n  期待結果: shake hand 当日\n\n━━━ シナリオ B: 再交渉 (Counter-offer) ━━━\n  価格: 〇〇円 (target: 〇〇円)\n  譲歩: 〇〇 (例: scope -10%)\n  根拠: 利益率〇〇%維持可能\n  内部承認者: 〇〇 (済 / 未済)\n  反対 trade: 〇〇 を相手から得る\n\n━━━ シナリオ C: 撤退 (Walk-away) ━━━\n  撤退ライン: 〇〇円以下\n  代替案件: 〇〇 (案件名 + ステータス)\n  代替案件の数値: 〇〇円, 〇〇 締切\n  撤退時の言い回し: 「本日は持ち帰りとさせてください…」\n\n━━━ 当日チェックリスト ━━━\n  □ シナリオ A/B/C を声に出して練習済み\n  □ シナリオ C 撤退時の挨拶 練習済み\n  □ 内部承認エビデンス (Slack/メール) 持参\n  □ 代替案件証拠 (MoU等) 持参\n  □ 沈黙 7秒 練習済み",
+      "content_vi": "[Vụ đàm phán] 〇〇\n[Thời gian] 〇/〇/〇\n[Đối tác] anh/chị 〇〇\n\n━━━ Scenario A: Deal as-is ━━━\n  Giá: 〇〇 ¥\n  Scope: 〇〇\n  Điều kiện: 〇〇\n  Kết quả mong đợi: bắt tay trong ngày\n\n━━━ Scenario B: Counter-offer ━━━\n  Giá: 〇〇 ¥ (target: 〇〇 ¥)\n  Nhượng bộ: 〇〇 (vd: scope -10%)\n  Cơ sở: profit margin 〇〇% giữ được\n  Người duyệt nội bộ: 〇〇 (đã / chưa)\n  Trade ngược: lấy 〇〇 từ phía họ\n\n━━━ Scenario C: Walk-away ━━━\n  Walk-away line: dưới 〇〇 ¥\n  Lựa chọn thay thế: 〇〇 (tên dự án + status)\n  Số liệu lựa chọn TT: 〇〇 ¥, deadline 〇〇\n  Câu rút lui: 「本日は持ち帰りとさせてください…」\n\n━━━ Checklist ngày G ━━━\n  □ Đã practice nói A/B/C ra miệng\n  □ Câu chào rút lui scenario C đã practice\n  □ Mang theo bằng chứng internal approval (Slack/mail)\n  □ Mang theo MoU/proof của lựa chọn thay thế\n  □ Đã practice 7-second silence",
+      "notes_ja": "交渉前夜に必ず作成・練習。数値が曖昧なら交渉に行かない。Senior レビュー必須。",
+      "notes_vi": "Bắt buộc tạo + practice tối hôm trước đàm phán. Số liệu mơ hồ thì KHÔNG vào đàm phán. Senior review bắt buộc."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "rule_id": "rule_60",
+  "rule_slug": "電話力の自己診断",
+  "title": {
+    "ja": "電話力の自己診断",
+    "vi": "Self-diagnostic — phone skills checklist"
+  },
+  "rule_context": {
+    "ja": "本書の総まとめとして10項目の自己診断。フオン副部長がズンの自己評価を確認し、弱点を継続練習する場面。",
+    "vi": "Tổng kết sách bằng 10 điểm tự chấm. Chị Hương check em Dũng đã tự chấm thế nào, lên kế hoạch luyện điểm yếu."
+  },
+  "related_rules": [
+    "rule_01",
+    "rule_35"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "自己診断結果を具体的に共有し、弱点rule（38）を特定→継続練習計画。成長マインドの実践。",
+        "vi": "Chia sẻ kết quả tự chấm cụ thể, xác định rule yếu (38) → kế hoạch luyện. Tư duy phát triển trong thực tế."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_60_good_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ズン、自己診断やってみた？",
+          "sentence_translation": "Dũng, em đã tự chấm điểm chưa?",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_60_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "はい、9点でした。Rule 38の『お電話が遠い』表現がまだ少し練習不足ですので、来週重点的に練習します。",
+          "sentence_translation": "Vâng, em được 9 điểm ạ. Rule 38 'お電話が遠い' em luyện chưa đủ, tuần sau em sẽ tập trung luyện điểm này ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_60_good_03",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "いい姿勢ね。継続が一番です。",
+          "sentence_translation": "Tinh thần tốt đấy. Quan trọng nhất là duy trì đều đặn.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_60_kp_01",
+      "speaker": "fuon",
+      "sentence": "電話力は理論ではなく、練習の量。",
+      "sentence_translation": "Kỹ năng điện thoại không nằm ở lý thuyết, mà ở số lần luyện.",
+      "purpose": "本書の締めくくりメッセージ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_60_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "電話力向上のために最も重要なのは？",
+      "options": [
+        "理論を読む",
+        "継続的な練習と自己診断",
+        "他人の真似だけ",
+        "1度だけの研修"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "電話力は実践と振り返りの繰り返しで身につく。",
+        "vi": "Phone skill hình thành qua thực hành + tự kiểm liên tục."
+      }
+    }
+  ]
+}

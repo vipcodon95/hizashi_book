@@ -1,0 +1,150 @@
+{
+  "rule_id": "rule_09",
+  "rule_slug": "口頭vs書面報告",
+  "title": {
+    "ja": "口頭報告 vs 書面報告 (Decision Matrix)",
+    "vi": "Báo cáo miệng vs văn bản (Decision Matrix)"
+  },
+  "rule_context": {
+    "ja": "ズンが3つの異なる用件を1つの長文メールにまとめて失敗する場面。緊急/進捗/リスケを channel ごとに分ける正解パターンを実演。",
+    "vi": "Em Dũng gom 3 việc khác nhau vào 1 mail dài và thất bại. Show pattern đúng: chia urgent / tiến độ / reschedule theo channel."
+  },
+  "related_rules": ["rule_07", "rule_15", "rule_17"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 全用件を長文メール1通に集約",
+      "label_vi": "XẤU — Gom hết vào 1 mail dài",
+      "display_order": 1,
+      "analysis": {
+        "ja": "緊急情報がメールに埋もれて発見が6時間遅れた。1メール1案件の原則と、用件種別による channel 分離が必要。",
+        "vi": "Thông tin khẩn bị chôn trong mail dài, phát hiện trễ 6 giờ. Cần áp dụng 'mỗi mail 1 chủ đề' và phân kênh theo loại việc."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_09_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "件名「本日のご報告いろいろ」で、本番障害・週次進捗・会議リスケの3件を1通のメールに2000字でまとめて送信しました。",
+          "sentence_translation": "Em gửi 1 mail tiêu đề 'Báo cáo nhiều thứ hôm nay' gộp 3 việc — sự cố production, tiến độ tuần, reschedule họp — dài 2000 chữ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_09_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ズン、critical bug が朝9時に発生してたって、私はメール埋もれて15時に気づきましたよ。なぜ電話してくれなかったの？",
+          "sentence_translation": "Dũng, bug critical xảy ra 9h sáng mà chị bị chôn trong mail, đến 15h mới thấy đó. Sao em không gọi điện?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_09_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと、メールに全部書いたので…",
+          "sentence_translation": "Ờ, em viết hết trong mail rồi nên...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_09_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "緊急は口頭、進捗は書面、リスケは別メール — 用件ごとにchannelを分けて。",
+          "sentence_translation": "Khẩn thì gọi điện, tiến độ thì văn bản, reschedule thì mail riêng — chia kênh theo loại việc đi.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 用件ごとに channel を分離",
+      "label_vi": "TỐT — Mỗi việc 1 channel",
+      "display_order": 2,
+      "analysis": {
+        "ja": "緊急は電話で第一報、書面でフォロー。進捗と再スケジュールはそれぞれ独立したメール。1メール1用件の原則が機能。",
+        "vi": "Khẩn cấp: gọi điện báo đầu, mail follow-up. Tiến độ và reschedule mỗi thứ 1 mail riêng. Nguyên tắc 'mỗi mail 1 chủ đề' phát huy hiệu quả."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_09_good_01",
+          "highlight_text": "緊急のご報告です。本番でcritical bugが発生",
+          "ja": "緊急は電話で第一報。書面より先に音声で伝えることで「気づき」を保証。",
+          "vi": "Khẩn cấp = báo đầu bằng điện thoại. Báo bằng âm thanh trước văn bản để chắc chắn người nhận thấy."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_09_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、緊急のご報告です。本番で critical bug が発生しております。詳細は今からメールも送ります。",
+          "sentence_translation": "Chị Hương, em báo cáo khẩn cấp ạ. Production đang có bug critical. Chi tiết em gửi mail luôn ạ.",
+          "tone": "urgent",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_09_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "了解、すぐ動きます。メール待ちます。",
+          "sentence_translation": "Hiểu rồi, chị xử lý ngay. Đợi mail em nhé.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_09_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "11時に「【週次進捗】Phase 2 第3週」、14時に「【リスケ依頼】明日16時 定例会議について」を別メールで送信しました。",
+          "sentence_translation": "11h em gửi mail '[Tiến độ tuần] Phase 2 Tuần 3', 14h gửi mail '[Xin reschedule] Họp định kỳ 16h ngày mai' — 2 mail riêng ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_09_good_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "3つの用件、3つの channel で分けてくれて整理しやすかった。週次はOK、リスケも承認します。",
+          "sentence_translation": "3 việc, em chia 3 kênh nên chị dễ tổng hợp. Tiến độ tuần OK, reschedule chị duyệt nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_09_kp_01",
+      "speaker": "zun",
+      "sentence": "緊急のご報告です。詳細は今からメールも送ります。",
+      "sentence_translation": "Em báo cáo khẩn ạ. Chi tiết em gửi mail luôn ạ.",
+      "purpose": "口頭 → 書面フォローアップの繋ぎ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_09_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "本番で critical bug が発生した時の最適な報告 channel は？",
+      "options": [
+        "翌朝のメールで報告",
+        "Slack の通常チャンネルに投稿",
+        "電話で第一報、その後メールでフォローアップ",
+        "次回会議で口頭報告"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "緊急は電話で即時通知し、書面で audit trail を残すのが原則。Slack 通常チャンネルは流れるリスクがある。",
+        "vi": "Khẩn cấp = gọi điện báo ngay rồi mail để có audit trail. Slack channel thường có thể bị trôi."
+      }
+    }
+  ]
+}

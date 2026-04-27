@@ -1,0 +1,166 @@
+{
+  "rule_id": "rule_08",
+  "rule_slug": "想定問答集の準備",
+  "title": {
+    "ja": "想定問答集の準備",
+    "vi": "Chuẩn bị Plan B + counter-arguments"
+  },
+  "rule_context": {
+    "ja": "白鷗との交渉前にハーCTOがズンに想定問答集の有無を確認。価格・納期・他社事例など3〜5件を事前にリスト化、最難問には Plan B を用意。",
+    "vi": "Trước cuộc đàm phán với 白鷗, anh Hà CTO check Dũng có Q&A list không. Phải có 3-5 câu (giá / deadline / case khác) + Plan B cho câu khó nhất."
+  },
+  "related_rules": ["rule_07", "rule_25", "rule_28", "rule_29"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 想定問答集なし",
+      "label_vi": "XẤU — Không có Q&A list",
+      "display_order": 1,
+      "analysis": {
+        "ja": "アジェンダと資料はあるが、客の質問への回答スクリプトを準備していない。当日は panic か『持ち帰り』連発になる。",
+        "vi": "Có agenda + tài liệu nhưng chưa chuẩn bị script trả lời câu hỏi của khách. Hôm họp panic hoặc 'mang về'."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_08_bad_01",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "ズン、本日の想定問答集はある？",
+          "sentence_translation": "Dũng, Q&A list cho buổi hôm nay có chưa em?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_08_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ…アジェンダと資料は揃えましたが、想定問答集はまだ…",
+          "sentence_translation": "À... agenda với tài liệu em xong rồi nhưng Q&A list thì chưa ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_08_bad_03",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "客は『価格を10%下げられないか』『納期を2週間早められないか』『他社事例は』を必ず聞くよ。回答用意してる？",
+          "sentence_translation": "Khách kiểu gì cũng hỏi 'giảm 10% giá được không', 'rút deadline 2 tuần được không', 'case bên khác như thế nào'. Có chuẩn bị câu trả lời chưa?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_08_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "す、すみません、これから準備します…",
+          "sentence_translation": "Em... em xin lỗi anh, em chuẩn bị ngay đây ạ...",
+          "tone": "apologetic"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — Q&A 5件＋Plan B 用意済み",
+      "label_vi": "TỐT — Q&A 5 câu + Plan B đã có",
+      "display_order": 2,
+      "analysis": {
+        "ja": "想定質問5件＋回答スクリプト＋最難問には Plan B（追加リソース3名見積もり）まで完成。価格交渉も内部統一済み。",
+        "vi": "5 câu Q&A + script trả lời + Plan B (báo giá 3 người resource) cho câu khó nhất. Phương châm đàm phán giá cũng đã align nội bộ."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_08_good_02",
+          "highlight_text": "用意済み",
+          "ja": "「〜済み」=完了済み。報告で頻用。「準備しました」より簡潔・客観的。",
+          "vi": "「〜済み」 = đã xong. Cụm chuẩn báo cáo. Gọn và khách quan hơn 「準備しました」."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_08_good_04",
+          "highlight_text": "方針で統一済み",
+          "ja": "個人意見ではなく、社内方針として合意済みであることを示す表現。",
+          "vi": "Cụm thể hiện 'không phải ý cá nhân mà là phương châm cả công ty đã thống nhất'."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_08_good_01",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "ズン、本日の想定問答集はある？",
+          "sentence_translation": "Dũng, Q&A list cho buổi hôm nay có chưa em?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_08_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "はい、想定質問5件と回答案、それから一番難しい『5月15日納期前倒し』には Plan B として追加リソース3人分の見積もりも用意済みです。",
+          "sentence_translation": "Vâng, em có 5 câu hỏi dự đoán + draft trả lời, và câu khó nhất 'đẩy deadline lên 15/5' em chuẩn bị Plan B là báo giá thêm 3 người resource ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_08_good_03",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "いいね。価格交渉の質問、想定回答は？",
+          "sentence_translation": "Tốt. Câu đàm phán giá, em định trả lời sao?",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_08_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "『現行価格はスコープに最適化されており、スコープ縮小なら見直し可能』とお返しします。即値引きには応じない方針でフオン副部長と統一済みです。",
+          "sentence_translation": "Em sẽ trả lời 'giá hiện tại đã optimize theo scope, nếu giảm scope thì xem lại được'. Phương châm là không giảm giá ngay, em đã align với chị Hương ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_08_kp_01",
+      "speaker": "zun",
+      "sentence": "想定質問〇件と回答案、Plan Bも用意済みです。",
+      "sentence_translation": "Em có 〇 câu hỏi dự đoán + draft trả lời + Plan B ạ.",
+      "purpose": "想定問答集の完成報告",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_08_kp_02",
+      "speaker": "zun",
+      "sentence": "即値引きには応じない方針で〇〇と統一済みです。",
+      "sentence_translation": "Phương châm không giảm giá ngay, em đã align với 〇〇 ạ.",
+      "purpose": "交渉方針の社内統一を示す",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_08_bjt_01",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "上司から「準備できているか？」と聞かれた時、最もビジネスらしい返答はどれか？",
+      "options": [
+        "もう少しでできます。",
+        "用意済みです。",
+        "やってます。",
+        "頑張ります。"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "「〜済み」が完了報告の最も簡潔・客観的な表現。",
+        "vi": "「〜済み」 là cụm gọn, khách quan, chuẩn cho báo cáo hoàn thành."
+      }
+    }
+  ]
+}

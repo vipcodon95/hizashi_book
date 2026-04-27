@@ -1,0 +1,161 @@
+{
+  "rule_id": "rule_11",
+  "rule_slug": "食の話題",
+  "title": {
+    "vi": "Ăn — món địa phương",
+    "ja": "食の話題"
+  },
+  "rule_context": {
+    "ja": "ズンとハーCTOが東京・大阪に5日間出張。連夜異なる地域出身のお客様(Matsumoto/Yamamoto/Hiroshi/Ito/Kato/Nakamura)とディナー。地域名物のtopicで深掘りする。",
+    "vi": "Dũng + Hà CTO onsite Tokyo + Osaka 5 ngày, dinner mỗi tối với khách quê khác — phải xoay topic 食 đào sâu cho mỗi vùng."
+  },
+  "related_rules": ["rule_10", "rule_12", "rule_15"],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "お好み焼戦争 — 広島 vs 大阪",
+      "label_vi": "Cuộc chiến okonomiyaki",
+      "display_order": 1,
+      "context": {
+        "ja": "大阪の居酒屋。Yamamoto(大阪)とHiroshi(広島)が同席。ズンは中立に立つ。",
+        "vi": "Izakaya Osaka. Yamamoto (Osaka) + Hiroshi (Hiroshima) cùng mâm. Dũng phải ngoại giao."
+      },
+      "annotations": [
+        {"id": "1", "applies_to_line": "rule_11_good_03", "highlight_text": "層になってて", "ja": "広島お好み焼は具材を重ねて焼く。", "vi": "Hiroshima okonomiyaki = xếp lớp."},
+        {"id": "2", "applies_to_line": "rule_11_good_03", "highlight_text": "混ぜて焼く", "ja": "大阪お好み焼は生地と具を混ぜて焼く。", "vi": "Osaka okonomiyaki = trộn rồi nướng."},
+        {"id": "3", "applies_to_line": "rule_11_good_04", "highlight_text": "そば入り", "ja": "そば(中華麺)を中に入れるのが広島スタイル。", "vi": "Có mì soba (mì kiểu Tàu) bên trong = đặc trưng Hiroshima."}
+      ],
+      "conversation_lines": [
+        {"line_id": "rule_11_good_01", "speaker": "yamamoto_kansai", "speaker_role": "大阪BDマネージャー 白鷗", "gender": "female", "sentence": "ズンさん、お好み焼きは大阪派?広島派?", "sentence_translation": "Dũng, okonomiyaki phe Osaka hay Hiroshima?", "tone": "cheerful"},
+        {"line_id": "rule_11_good_02", "speaker": "hiroshi_chugoku", "speaker_role": "関西支店長 白鷗", "gender": "male", "sentence": "これは戦争になるで(笑)", "sentence_translation": "Cái này thành chiến tranh đó (cười).", "tone": "cheerful"},
+        {"line_id": "rule_11_good_03", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "両方食べたことがあって、それぞれ違う美味しさですよね。広島は層になってて、大阪は混ぜて焼く、と聞きましたが…", "sentence_translation": "Em đã ăn cả hai, mỗi loại ngon kiểu riêng. Nghe nói Hiroshima xếp lớp, Osaka trộn rồi nướng đúng không ạ?", "tone": "warm", "annotation_ids": ["1", "2"]},
+        {"line_id": "rule_11_good_04", "speaker": "hiroshi_chugoku", "speaker_role": "関西支店長 白鷗", "gender": "male", "sentence": "お、よく分かってる!広島はそば入りが基本、キャベツも倍以上入る。お好み焼きとは別物よ。", "sentence_translation": "Ồ, em hiểu đó! Hiroshima cơ bản phải có soba, bắp cải gấp đôi. Là món khác hẳn.", "tone": "cheerful", "annotation_ids": ["3"]},
+        {"line_id": "rule_11_good_05", "speaker": "yamamoto_kansai", "speaker_role": "大阪BDマネージャー 白鷗", "gender": "female", "sentence": "いやいや、大阪のはふんわりしてて、生地と具が一体になっとる。広島のはミルフィーユや(笑)", "sentence_translation": "Không không, Osaka mềm mịn, bột với nhân hòa làm một. Hiroshima là bánh mille-feuille đó (cười).", "tone": "cheerful"},
+        {"line_id": "rule_11_good_06", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "広島だとみっちゃん総本店、大阪はぼてぢゅうって聞きました。次回ぜひ両方制覇したいです。", "sentence_translation": "Hiroshima là Mitchan Sōhonten, Osaka là Botejyū. Lần sau em muốn chinh phục cả hai.", "tone": "cheerful"},
+        {"line_id": "rule_11_good_07", "speaker": "yamamoto_kansai", "speaker_role": "大阪BDマネージャー 白鷗", "gender": "female", "sentence": "ズンさん、大阪のディープな店も知っとるんやな!お初天神通りの福太郎、ぜひ。", "sentence_translation": "Dũng biết cả quán deep ở Osaka nhỉ! Phố Ohatsu Tenjin có Fukutaro, đi thử nhé.", "tone": "cheerful"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "飛騨牛 + 朴葉味噌 — 岐阜",
+      "label_vi": "Bò Hida + miso lá hồ",
+      "display_order": 2,
+      "context": {
+        "ja": "岐阜出張、加藤さんが飛騨高山の郷土料理屋へ案内。",
+        "vi": "Công tác Gifu, anh Kato dẫn đến quán Hida-Takayama."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_11_good_08", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "加藤さん、本日はありがとうございます。飛騨牛、ずっと食べたかったんです。", "sentence_translation": "Anh Kato, hôm nay cảm ơn anh. Em mong được ăn bò Hida lâu rồi.", "tone": "warm"},
+        {"line_id": "rule_11_good_09", "speaker": "kato_gifu", "speaker_role": "中部協力先担当 白鷗", "gender": "male", "sentence": "岐阜の宝やからな。A5ランクの霜降りは、口の中で溶けるよ。あ、これ朴葉味噌、ご飯と一緒に食べてみて。", "sentence_translation": "Là báu vật của Gifu mà. Marbled A5 tan trong miệng. Đây là miso lá hồ, ăn với cơm thử nhé.", "tone": "warm"},
+        {"line_id": "rule_11_good_10", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "朴葉…葉っぱの上で味噌を焼くんですか?", "sentence_translation": "Hōba... nướng miso trên lá ạ?", "tone": "warm"},
+        {"line_id": "rule_11_good_11", "speaker": "kato_gifu", "speaker_role": "中部協力先担当 白鷗", "gender": "male", "sentence": "そう、朴の木の葉。香りが移って、味噌に深みが出る。岐阜の山間部の郷土料理。", "sentence_translation": "Đúng, lá cây hō. Mùi thơm thấm vào, miso đậm đà hơn. Món truyền thống vùng núi Gifu.", "tone": "warm"},
+        {"line_id": "rule_11_good_12", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "香り、すごいですね…ご飯何杯でもいけそうです。中津川の栗きんとんも有名って聞きました。", "sentence_translation": "Hương thật là... ăn bao nhiêu cơm cũng được. Em nghe Nakatsugawa có kuri-kinton nổi tiếng.", "tone": "cheerful"},
+        {"line_id": "rule_11_good_13", "speaker": "kato_gifu", "speaker_role": "中部協力先担当 白鷗", "gender": "male", "sentence": "お、栗きんとんまで知っとるか。9月から11月の限定よ。川上屋の栗きんとん、東京駅でも買えるけど、現地で食べるのが一番。", "sentence_translation": "Ồ, biết cả kuri-kinton à. Chỉ có từ tháng 9 đến 11. Quán Kawakamiya, Tokyo Station cũng bán nhưng ăn tại chỗ ngon nhất.", "tone": "cheerful"},
+        {"line_id": "rule_11_good_14", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "秋にぜひ高山に行きたいです。白川郷もまだ見てなくて…", "sentence_translation": "Mùa thu em rất muốn đi Takayama. Shirakawa-go em cũng chưa được thấy...", "tone": "warm"},
+        {"line_id": "rule_11_good_15", "speaker": "kato_gifu", "speaker_role": "中部協力先担当 白鷗", "gender": "male", "sentence": "秋なら飛騨高山祭、4月と10月。屋台もすごい。一緒に行こうよ。", "sentence_translation": "Thu thì có lễ Hida-Takayama, tháng 4 và 10. Xe diễu hành hoành tráng. Cùng đi nhé.", "tone": "warm"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "名古屋飯 — 味噌文化",
+      "label_vi": "Nagoya cuisine — văn hóa miso đỏ",
+      "display_order": 3,
+      "context": {
+        "ja": "名古屋でのディナー、伊藤さんと郷土料理の話。",
+        "vi": "Dinner Nagoya, anh Ito chia sẻ về nagoya-meshi."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_11_good_16", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "伊藤さん、名古屋飯は赤味噌文化って聞きましたが…", "sentence_translation": "Anh Ito, em nghe Nagoya là văn hóa miso đỏ ạ?", "tone": "warm"},
+        {"line_id": "rule_11_good_17", "speaker": "ito_nagoya", "speaker_role": "名古屋支店 白鷗", "gender": "male", "sentence": "そうですね。八丁味噌が基本。味噌カツ、味噌煮込みうどん、土手煮…全部赤味噌。", "sentence_translation": "Đúng. Cơ bản là Hatchō miso. Miso katsu, miso nikomi udon, dotenni... đều miso đỏ.", "tone": "neutral"},
+        {"line_id": "rule_11_good_18", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "ひつまぶしも食べてみたいです。蓬莱軒って有名ですよね。", "sentence_translation": "Em cũng muốn thử hitsumabushi. Quán Hōraiken nổi tiếng đúng không ạ?", "tone": "warm"},
+        {"line_id": "rule_11_good_19", "speaker": "ito_nagoya", "speaker_role": "名古屋支店 白鷗", "gender": "male", "sentence": "お、よく勉強してますね。蓬莱軒の本店、神宮の近く。3食べ方ありますよね — そのまま、薬味、お茶漬け。", "sentence_translation": "Ồ, em học kỹ đó. Hōraiken bản tiệm gần đền Atsuta. Có 3 cách ăn — nguyên, gia vị, ochazuke.", "tone": "warm"},
+        {"line_id": "rule_11_good_20", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "3パターン!まだ未経験です。手羽先は世界の山ちゃん派ですか、風来坊派ですか?", "sentence_translation": "3 kiểu! Em chưa thử bao giờ. Cánh gà anh phe Sekai no Yamachan hay Furaibō ạ?", "tone": "cheerful"},
+        {"line_id": "rule_11_good_21", "speaker": "ito_nagoya", "speaker_role": "名古屋支店 白鷗", "gender": "male", "sentence": "あはは、これも戦争になる(笑)。私は風来坊派かな、甘めが好き。山ちゃんはガツン系。", "sentence_translation": "Haha, cái này cũng thành chiến tranh (cười). Anh phe Furaibō, thích vị ngọt. Yamachan kiểu mạnh hơn.", "tone": "cheerful"},
+        {"line_id": "rule_11_good_22", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "両方食べ比べないと、ですね。あと小倉トーストって本当に喫茶店文化なんですか?", "sentence_translation": "Phải so sánh cả hai mới được. Còn ogura toast là văn hóa quán cà phê thật ạ?", "tone": "warm"},
+        {"line_id": "rule_11_good_23", "speaker": "ito_nagoya", "speaker_role": "名古屋支店 白鷗", "gender": "male", "sentence": "名古屋の喫茶店、モーニング文化すごいよ。コーヒー1杯でトースト+ゆで卵+小倉あん。コメダ珈琲は東京にも進出したけどね。", "sentence_translation": "Quán cà phê Nagoya, văn hóa morning kinh đó. 1 ly cà phê kèm toast + trứng luộc + ogura. Komeda đã mở rộng ra Tokyo rồi.", "tone": "warm"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "北海道 — 海鮮 + ジンギスカン",
+      "label_vi": "Hokkaido — hải sản + Jingisukan",
+      "display_order": 4,
+      "context": {
+        "ja": "東京でNakamura CFOと和食ディナー。北海道郷土料理の話。",
+        "vi": "Dinner Tokyo với Nakamura CFO. Chuyện món Hokkaido."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_11_good_24", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "中村CFO、北海道のおすすめ料理、何ですか?", "sentence_translation": "Anh Nakamura, anh gợi ý món Hokkaido nào ạ?", "tone": "warm"},
+        {"line_id": "rule_11_good_25", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "うーん、難しいな。海も山もあるからね。海鮮ならウニ・イクラが圧倒的。石狩鍋は冬の定番。", "sentence_translation": "Khó nhỉ. Có cả biển lẫn núi. Hải sản thì uni với ikura số 1. Lẩu Ishikari mùa đông tiêu chuẩn.", "tone": "warm"},
+        {"line_id": "rule_11_good_26", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "札幌ラーメンは味噌ですよね。すみれって有名って聞きました。", "sentence_translation": "Ramen Sapporo là miso đúng không ạ. Em nghe Sumire nổi tiếng.", "tone": "warm"},
+        {"line_id": "rule_11_good_27", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "すみれ、純連、けやき…どれも美味しい。あとジンギスカン、サッポロビール園で食べると最高。", "sentence_translation": "Sumire, Junren, Keyaki... cái nào cũng ngon. Thêm Jingisukan ăn ở Sapporo Beer Garden tuyệt nhất.", "tone": "warm"},
+        {"line_id": "rule_11_good_28", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "ジンギスカン、羊肉ですよね。北海道民は子供の頃から?", "sentence_translation": "Jingisukan là thịt cừu đúng không ạ. Dân Hokkaido ăn từ bé luôn ạ?", "tone": "warm"},
+        {"line_id": "rule_11_good_29", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "BBQと言えばジンギスカン、運動会も町内会も。あとザンギっていう唐揚げが地元ソウルフード。", "sentence_translation": "BBQ là Jingisukan luôn, hội thao hay khu phố cũng vậy. Còn món zangi — gà chiên là soul food địa phương.", "tone": "warm"},
+        {"line_id": "rule_11_good_30", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "ザンギ、初耳です!唐揚げと違いは?", "sentence_translation": "Zangi em mới nghe! Khác karaage thế nào ạ?", "tone": "cheerful"},
+        {"line_id": "rule_11_good_31", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "下味が濃い、ニンニク醤油生姜たっぷり。ジンギスカンのキングってチェーン、東京にもあるから今度行ってみて。", "sentence_translation": "Ướp đậm, tỏi-nước tương-gừng nhiều. Chuỗi Jingisukan no King ở Tokyo cũng có, lần sau thử nhé.", "tone": "warm"}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"phrase_id": "rule_11_kp_01", "speaker": "zun", "sentence": "[地名]の名物、何ですか?", "sentence_translation": "Đặc sản [địa danh] là gì ạ?", "purpose": "Mở topic food universal"},
+    {"phrase_id": "rule_11_kp_02", "speaker": "zun", "sentence": "[広島]と言えば[お好み焼]ですよね!", "sentence_translation": "Nhắc đến [Hiroshima] là [okonomiyaki] nhỉ!", "purpose": "Connect ngay với 1 món biểu tượng"},
+    {"phrase_id": "rule_11_kp_03", "speaker": "zun", "sentence": "子供の頃、よく食べたお料理ありますか?", "sentence_translation": "Hồi bé anh hay ăn món gì ạ?", "purpose": "Trigger nostalgia với senior 50-60t"},
+    {"phrase_id": "rule_11_kp_04", "speaker": "zun", "sentence": "これ、本当に美味しいですね!", "sentence_translation": "Cái này ngon thật ạ!", "purpose": "Khen món base — luôn an toàn"},
+    {"phrase_id": "rule_11_kp_05", "speaker": "zun", "sentence": "[出汁]の風味が違いますね。", "sentence_translation": "Hương vị nước dùng khác hẳn nhỉ.", "purpose": "Khen connoisseur level"},
+    {"phrase_id": "rule_11_kp_06", "speaker": "zun", "sentence": "次回[岐阜]出張のとき、[飛騨牛]ぜひお願いします。", "sentence_translation": "Lần sau công tác [Gifu], em xin nhờ anh giới thiệu [bò Hida].", "purpose": "Bonding move — invite future visit"}
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_11_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "広島出身のお客様と大阪出身のお客様が同席し、お好み焼きの議論になった時、最も適切な対応は?",
+      "options": [
+        "A. どちらか一方の味方をする",
+        "B. 「両方それぞれ違う美味しさ」と中立に立つ",
+        "C. 「ベトナムのバインセオの方が美味しい」と話を変える",
+        "D. 「私は食に詳しくない」と引く"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "両者を立てる中立姿勢が外交。ただし違いを具体的に知っていると印象UP。",
+        "vi": "Đứng giữa = ngoại giao. Biết chi tiết khác biệt cụ thể = ấn tượng mạnh hơn."
+      }
+    },
+    {
+      "question_id": "rule_11_bjt_02",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「朴葉味噌」を食べて感想を述べる時、最も自然な表現は?",
+      "options": [
+        "A. 「ベトナムにはこういうのないですね」",
+        "B. 「香りが移って、味噌に深みがありますね」",
+        "C. 「正直、味が濃すぎます」",
+        "D. 「葉っぱは食べられるんですか?」"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "具体的な感想(香り・味の深み)= connoisseurレベルの褒め方。Bが最適。",
+        "vi": "Nhận xét cụ thể (mùi, độ đậm) = khen connoisseur. B chuẩn nhất."
+      }
+    },
+    {
+      "question_id": "rule_11_bjt_03",
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "「ザンギ」とは何ですか?",
+      "options": [
+        "A. 北海道の郷土料理で、味付けの濃い唐揚げ",
+        "B. 沖縄のチャンプル料理",
+        "C. 名古屋の鶏料理",
+        "D. 福岡のもつ料理"
+      ],
+      "correct": "A",
+      "explanation": {
+        "ja": "ザンギは北海道のソウルフード、唐揚げの一種で下味が濃いのが特徴。",
+        "vi": "Zangi = soul food Hokkaido, kiểu gà chiên ướp đậm hơn karaage."
+      }
+    }
+  ],
+  "templates": []
+}

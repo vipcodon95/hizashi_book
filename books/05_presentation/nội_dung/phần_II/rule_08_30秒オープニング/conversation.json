@@ -1,0 +1,143 @@
+{
+  "rule_id": "rule_08",
+  "rule_slug": "30秒オープニング",
+  "title": {
+    "ja": "30秒オープニング (hook)",
+    "vi": "Hook 30 giây mở"
+  },
+  "rule_context": {
+    "ja": "Phase 3 プレゼン本番の冒頭30秒。ズンの2パターン(ジェネリック挨拶 vs Hook→Stake→Promise)を比較。",
+    "vi": "30 giây đầu pitch Phase 3 chính thức. So sánh 2 pattern: lời chào generic vs Hook→Stake→Promise."
+  },
+  "related_rules": [
+    "rule_09",
+    "rule_11",
+    "rule_13"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — ジェネリック挨拶で30秒消費",
+      "label_vi": "XẤU — Lời chào generic ngốn hết 30 giây",
+      "display_order": 1,
+      "analysis": {
+        "ja": "型通りの挨拶＋会社紹介で30秒消費。聴衆は『価値ある話』を聞いていないので集中が切れる。",
+        "vi": "Chào hỏi rập khuôn + giới thiệu công ty ngốn 30 giây. Audience chưa nghe gì có giá trị → mất tập trung."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_08_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "皆様、本日はお忙しい中お時間をいただきまして、誠にありがとうございます。ティエンファットのズンと申します。本日は Phase 3 のご提案をさせていただきます。それでは、まず弊社のご紹介から…",
+          "sentence_translation": "Kính thưa quý vị, em xin chân thành cảm ơn quý vị đã dành thời gian quý báu cho buổi hôm nay ạ. Em là Dũng bên Thiên Phát ạ. Hôm nay em xin trình bày đề xuất Phase 3 ạ. Vậy, đầu tiên em xin giới thiệu về bên em ạ...",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_08_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "(……長いな)",
+          "sentence_translation": "(...Dài thế nhỉ)",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_08_bad_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "(……早く本題)",
+          "sentence_translation": "(...Vào đề mau lên đi)",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — Hook→Stake→Promise",
+      "label_vi": "TỐT — Hook → Stake → Promise",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_08_good_01",
+          "highlight_text": "Phase 2 で在庫差異5%を1.8%まで削減いたしました",
+          "ja": "Hook = 数字 + 既知の成果。聴衆は5秒で『自分の話』と認識。",
+          "vi": "Hook = số + thành quả đã biết. Audience 5 giây nhận ra 「chuyện của mình」."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_08_good_01",
+          "highlight_text": "残課題をどう解くか",
+          "ja": "Stake = 本日決めることを明示。聴衆に『聞く理由』が生まれる。",
+          "vi": "Stake = nêu rõ hôm nay sẽ quyết gì. Audience có 「lý do để nghe」."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_08_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 2 で在庫差異5%を1.8%まで削減いたしました。しかし、季節商品で再発しております。本日30分で、その残課題をどう解くか、Phase 3 の方向性を決めたく存じます。私、ティエンファットのズンと申します。",
+          "sentence_translation": "Phase 2 đã giảm sai lệch tồn kho từ 5% xuống 1.8% ạ. Tuy nhiên, đang tái phát ở hàng theo mùa. Trong 30 phút hôm nay, em mong muốn cùng quý vị quyết hướng đi Phase 3 — giải bài toán còn lại đó. Em xin tự giới thiệu, em là Dũng bên Thiên Phát ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_08_good_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "(……お、ちゃんと数字から入った)",
+          "sentence_translation": "(...Ồ, vào thẳng bằng số liệu đấy)",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_08_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "結構です、続けてください。",
+          "sentence_translation": "Được, mời em tiếp tục.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_08_kp_01",
+      "speaker": "zun",
+      "sentence": "〇〇を〇〇から〇〇まで削減いたしました。本日〇分で、〇〇を決めたく存じます。",
+      "sentence_translation": "Em đã giảm 〇〇 từ 〇〇 xuống 〇〇. Hôm nay trong 〇 phút, em mong muốn quyết được 〇〇.",
+      "purpose": "30秒オープニングのHook→Stakeテンプレ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_08_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "プレゼン冒頭30秒として最も効果的なのは？",
+      "options": [
+        "本日はお忙しい中…弊社のご紹介から始めます",
+        "数字＋本日決めたいこと＋自己紹介",
+        "全スライドの目次読み上げ",
+        "業界全体の長い背景説明"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "Hook(数字)→Stake(決めること)→Promise(時間)→自己紹介の順が30秒で集中を確保する。",
+        "vi": "Hook (số) → Stake (quyết gì) → Promise (thời gian) → tự giới thiệu — 30 giây này giữ được tập trung."
+      }
+    }
+  ]
+}

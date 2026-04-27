@@ -1,0 +1,244 @@
+{
+  "rule_id": "rule_27",
+  "rule_slug": "雑談トピック",
+  "title": {
+    "ja": "雑談トピック",
+    "vi": "Cuộc trò chuyện không công việc"
+  },
+  "rule_context": {
+    "ja": "Q1和食レストラン dinner 中盤19:30、料理間の雑談タイム。ズン+トゥアンが大垣・松本と『食・観光・趣味・天気』の safe topic で会話を繋ぐ。政治・宗教・年齢・給与は回避する場面。",
+    "vi": "Giữa bữa nhà hàng Nhật Q1 lúc 19:30, khoảng nghỉ giữa món. Dũng + Tuấn nối chuyện với Ōgaki, Matsumoto về 'ẩm thực · du lịch · sở thích · thời tiết'. Tránh chính trị, tôn giáo, tuổi, lương."
+  },
+  "related_rules": [
+    "rule_25",
+    "rule_33"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 政治・年齢・給与質問",
+      "label_vi": "XẤU — hỏi chính trị, tuổi, lương",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①日本の政治評価=客側 awkward ②年齢直接問=失礼 ③給与=最大level taboo。3つともBJT表現読解で頻出 NG patterns。",
+        "vi": "(1) Bình chính trị Nhật = khách awkward. (2) Hỏi thẳng tuổi = bất lịch sự. (3) Lương = taboo cấp tối đa. 3 cái này = NG pattern hay ra trong BJT."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_27_bad_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "大垣様、最近の日本の首相どう思われますか？",
+          "sentence_translation": "Anh Ōgaki, gần đây thủ tướng Nhật anh nghĩ sao ạ?",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_27_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "（沈黙）…そうですね、ちょっと…",
+          "sentence_translation": "(im lặng) ...à thì, hơi...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_27_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、松本様、お年は？",
+          "sentence_translation": "À, anh Matsumoto, anh bao nhiêu tuổi ạ?",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_27_bad_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "（笑顔崩れる）…まあ、それは…",
+          "sentence_translation": "(nụ cười tắt) ...à, cái đó...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_27_bad_05",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "白鷗のPMの給与水準ってどれぐらい？",
+          "sentence_translation": "Lương PM bên 白鷗 tầm bao nhiêu nhỉ?",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_27_bad_06",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "（無言で水を飲む）",
+          "sentence_translation": "(im lặng uống nước)",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 食・観光・趣味の safe topic で展開",
+      "label_vi": "TỐT — triển khai theo safe topic ẩm thực, du lịch, sở thích",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_27_good_01",
+          "highlight_text": "今お召し上がりの〇〇",
+          "ja": "目の前の料理=確実な共通話題。客が detail 話せて自然。",
+          "vi": "Món đang ăn = chủ đề chung chắc chắn. Khách dễ kể chi tiết, tự nhiên."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_27_good_03",
+          "highlight_text": "週末などはどうお過ごし",
+          "ja": "趣味質問は『週末』『お休みの日』経由で間接的に。直接『趣味は何ですか』はやや formal すぎ。",
+          "vi": "Hỏi sở thích vòng qua 'cuối tuần' / 'ngày nghỉ' = gián tiếp. Hỏi thẳng 'sở thích là gì' hơi formal."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_27_good_05",
+          "highlight_text": "次回ベトナムにお越しの際",
+          "ja": "観光話=次回訪問への自然な誘導。HCMC内おすすめ食/カフェを2-3提示。",
+          "vi": "Du lịch = dẫn dắt tự nhiên cho lần sau quay lại. Gợi 2-3 quán ăn/cà phê ở HCMC."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_27_good_07",
+          "highlight_text": "天気・季節の話題",
+          "ja": "万能 safe topic。話題が詰まったら『今週の HCMC は…』『東京の桜は…』で繋ぐ。",
+          "vi": "Safe topic vạn năng. Khi bí, 'tuần này HCMC...' / 'sakura Tokyo...' để nối."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_27_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "今お召し上がりの和牛、A5ランクで地元の方にも人気なんです。お味いかがでしょうか？",
+          "sentence_translation": "Wagyu anh chị đang dùng là hạng A5, dân địa phương cũng rất thích. Vị các anh thấy thế nào ạ?",
+          "tone": "warm",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_27_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "とても柔らかく、東京で食べる和牛より風味が濃い気がします。",
+          "sentence_translation": "Rất mềm, vị đậm hơn wagyu tôi ăn ở Tokyo.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_27_good_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "松本様は週末などはどうお過ごしですか？",
+          "sentence_translation": "Anh Matsumoto cuối tuần thường làm gì ạ?",
+          "tone": "warm",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_27_good_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "登山が趣味で、月1回は奥多摩あたりに。最近はカメラも始めまして。",
+          "sentence_translation": "Tôi thích leo núi, mỗi tháng đi Okutama một lần. Gần đây mới tập chụp ảnh nữa.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_27_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "次回ベトナムにお越しの際は、ダラットの高原がおすすめです。涼しくて景色も綺麗で、写真好きの方が多くいらっしゃいます。",
+          "sentence_translation": "Lần sau anh sang Việt Nam, em recommend cao nguyên Đà Lạt. Mát mẻ, cảnh đẹp, nhiều người mê chụp ảnh lắm ạ.",
+          "tone": "warm",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_27_good_06",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "それは魅力的ですね。次回お休みを取って訪れてみたいです。",
+          "sentence_translation": "Nghe hấp dẫn quá. Lần sau xin nghỉ tôi muốn đi thử.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_27_good_07",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "今年のHCMCは、雨季の入りはどうですか？",
+          "sentence_translation": "Năm nay HCMC vào mùa mưa thế nào ạ?",
+          "tone": "warm",
+          "annotation_ids": [
+            "4"
+          ]
+        },
+        {
+          "line_id": "rule_27_good_08",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "今年は例年より少し遅れまして、5月中旬から本格的になりそうです。",
+          "sentence_translation": "Năm nay hơi muộn so với mọi năm, chắc khoảng giữa tháng 5 mới thật sự bắt đầu ạ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_27_kp_01",
+      "speaker": "zun",
+      "sentence": "週末などはどうお過ごしですか？",
+      "sentence_translation": "Cuối tuần anh thường làm gì ạ?",
+      "purpose": "趣味間接質問 safe topic",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_27_kp_02",
+      "speaker": "zun",
+      "sentence": "次回ベトナムにお越しの際は、〇〇がおすすめです。",
+      "sentence_translation": "Lần sau anh sang Việt Nam, em recommend OO.",
+      "purpose": "観光話で次回訪問誘導",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_27_bjt_01",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "接待ディナー雑談で最も避けるべき topic は？",
+      "options": [
+        "今食べている料理の感想",
+        "週末の過ごし方・趣味",
+        "首相の評価・年齢・給与水準",
+        "天気・季節"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "政治評価・年齢・給与の3点は接待で絶対NG。食・趣味・観光・天気が安全。",
+        "vi": "Chính trị, tuổi, lương — 3 cái này tiếp khách tuyệt đối NG. An toàn = ẩm thực, sở thích, du lịch, thời tiết."
+      }
+    }
+  ]
+}

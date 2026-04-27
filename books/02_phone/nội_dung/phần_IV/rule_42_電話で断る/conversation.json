@@ -1,0 +1,96 @@
+{
+  "rule_id": "rule_42",
+  "rule_slug": "電話で断る言い方",
+  "title": {
+    "ja": "電話で断る言い方",
+    "vi": "Cách từ chối qua phone không gây xước"
+  },
+  "rule_context": {
+    "ja": "セミナー参加依頼を婉曲に断る場面。感謝→理由→代替案の3点セットを実演。",
+    "vi": "Từ chối lời mời tham gia seminar. Bộ 3: cảm ơn → lý do vòng → phương án thay thế."
+  },
+  "related_rules": [
+    "rule_30",
+    "rule_43"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『お声がけいただきありがとうございます』で感謝→『あいにく…難しい』で婉曲拒否→『資料を共有いただけますと幸い』で代替案。3点で関係を保つ。",
+        "vi": "Cảm ơn → 「あいにく...難しい」 từ chối khéo → đề xuất 'gửi tài liệu sau'. Giữ được quan hệ."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_42_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "来週金曜のセミナーにご参加いただけませんか？",
+          "sentence_translation": "Em tham gia hội thảo thứ Sáu tuần sau được không?",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_42_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お声がけいただきありがとうございます。あいにく金曜は他の予定が入っておりまして、参加が難しい状況でございます。",
+          "sentence_translation": "Cảm ơn anh đã mời ạ. Đáng tiếc thứ Sáu em đã có lịch khác, em khó tham gia ạ.",
+          "tone": "apologetic",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_42_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "もし可能でしたら、後日資料を共有いただけますと幸いです。",
+          "sentence_translation": "Nếu được, anh chia sẻ tài liệu sau giúp em ạ.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_42_good_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "承知しました、資料お送りします。",
+          "sentence_translation": "Tôi hiểu rồi, tôi sẽ gửi tài liệu nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_42_kp_01",
+      "speaker": "zun",
+      "sentence": "あいにく〇〇が難しい状況でございます。",
+      "sentence_translation": "Đáng tiếc 〇〇 hiện em khó (làm) được ạ.",
+      "purpose": "婉曲な拒否",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_42_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "電話で断る最も丁寧な表現は？",
+      "options": [
+        "無理です",
+        "嫌です",
+        "あいにく〇〇が難しい状況でございます",
+        "ちょっと…"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "『あいにく』『難しい状況』が最も婉曲で丁寧。",
+        "vi": "「あいにく」 + 「難しい状況」 là cách vòng và lịch sự nhất."
+      }
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "rule_id": "rule_27",
+  "rule_slug": "相談ログ",
+  "title": {
+    "ja": "相談ログ (Decision Register)",
+    "vi": "Lưu log tham vấn"
+  },
+  "rule_context": {
+    "ja": "ハーCTO が3ヶ月前の Phase 2 の MySQL 採用理由を尋ねる場面。Slack を1時間遡る悪い例から、Decision Register 1行で30秒回答する良い例へ。",
+    "vi": "Anh Hà CTO hỏi tại sao Phase 2 chọn MySQL từ 3 tháng trước. Từ pattern xấu (đào Slack 1 giờ) → đúng (Decision Register 1 dòng, 30 giây xong)."
+  },
+  "related_rules": ["rule_22", "rule_26", "rule_39"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 記憶＋Slack遡り",
+      "label_vi": "XẤU — Trí nhớ + đào Slack",
+      "display_order": 1,
+      "analysis": {
+        "ja": "口頭相談で決まった内容は3ヶ月で記憶から消える。Slack 検索も時間がかかる。Decision Register がない組織は同じ議論を繰り返す。",
+        "vi": "Tham vấn miệng quyết xong, 3 tháng là quên. Search Slack tốn thời gian. Tổ chức không có Decision Register sẽ lặp lại cùng tranh luận."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_27_bad_01",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "ズン、Phase 3 設計レビューで疑問が出た。Phase 2 で MySQL 採用したのはなぜ?",
+          "sentence_translation": "Dũng, có thắc mắc khi review thiết kế Phase 3. Tại sao Phase 2 lại chọn MySQL?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_27_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと…3ヶ月前に決めたんですが…理由は…ちょっと記憶が…",
+          "sentence_translation": "Ờ... 3 tháng trước quyết... lý do... em chưa nhớ ra...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_27_bad_03",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "Slack を遡る? どのチャネル?",
+          "sentence_translation": "Đào Slack à? Channel nào?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_27_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "#phase2-tech だったか #db-選定 だったか… (1時間後) あ、ありました!松本様の運用チームが MySQL 慣れてるからでした…",
+          "sentence_translation": "#phase2-tech hay #db-選定 nhỉ... (1 giờ sau) À có rồi ạ! Vì team vận hành anh Matsumoto quen MySQL ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_27_bad_05",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "決定事項は Decision Register に1行残す。1時間使うのは無駄。Notion テンプレ送るから今日中に整備して。",
+          "sentence_translation": "Việc đã quyết phải lưu 1 dòng vào Decision Register. Mất 1 giờ là lãng phí. Anh sẽ gửi template Notion, em build trong hôm nay.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — Decision Register 1行で30秒",
+      "label_vi": "TỐT — Decision Register 1 dòng, 30 giây",
+      "display_order": 2,
+      "analysis": {
+        "ja": "ID付きの DR エントリで即時回答。論点・検討案・採用理由・承認者・リスクが構造化されており、議論の前提が一目で揃う。",
+        "vi": "DR entry có ID, trả lời tức thì. Luận điểm / option / lý do chọn / người duyệt / risk có cấu trúc, premise tranh luận hiện ngay."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_27_good_02",
+          "highlight_text": "DR-2026-0118 の1行",
+          "ja": "Decision Register に ID 体系を持つことで、相談・引き継ぎ・監査の全てで参照しやすい。",
+          "vi": "Có hệ thống ID trong Decision Register = dễ tham chiếu khi tham vấn / bàn giao / audit."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_27_good_03",
+          "highlight_text": "日付:2026/1/18 / 論点:〇〇 / 検討案:〇〇 / 採用:〇〇 / 理由:〇〇 / 承認者:〇〇 / リスク:〇〇",
+          "ja": "6〜7フィールドの構造化。後の人が文脈なしで読んでも理解できる粒度。",
+          "vi": "Cấu trúc 6-7 trường. Người sau đọc mà không có ngữ cảnh vẫn hiểu được."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_27_good_05",
+          "highlight_text": "今週分も明日 EOD までに3件追加します",
+          "ja": "DR は週次運用がデフォルト。聞かれる前に追加するのがプロアクティブな姿勢。",
+          "vi": "DR mặc định vận hành theo tuần. Add trước khi sếp hỏi = tư thế chủ động."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_27_good_01",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "Phase 3 設計レビューで疑問。Phase 2 で MySQL 採用したのはなぜ?",
+          "sentence_translation": "Review Phase 3 có thắc mắc. Tại sao Phase 2 chọn MySQL?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_27_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Decision Register をご確認ください。DR-2026-0118 の1行です。",
+          "sentence_translation": "Anh xem Decision Register giúp em ạ. Là dòng DR-2026-0118 ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_27_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "日付:2026/1/18 / 論点:Phase 2 DB選定 / 検討案:①MySQL ②Postgres ③DynamoDB / 採用:MySQL / 理由:松本様運用チームが MySQL 経験豊富 + ライセンスコスト低 + Phase 1 連携容易 / 承認者:ハーCTO + フオン副部長 / リスク:水平分散時の制約。",
+          "sentence_translation": "Date: 18/1/2026 / Topic: chọn DB Phase 2 / Options xét: MySQL / Postgres / DynamoDB / Chọn: MySQL / Lý do: team vận hành anh Matsumoto quen MySQL + cost license thấp + dễ tích hợp Phase 1 / Duyệt: anh Hà CTO + chị Hương / Risk: hạn chế khi cần phân tán ngang.",
+          "tone": "neutral",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_27_good_04",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "完璧。これがあれば 30 秒で議論できる。Phase 3 でも継続して。",
+          "sentence_translation": "Hoàn hảo. Có cái này thì tranh luận 30 giây xong. Phase 3 cũng duy trì nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_27_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "はい。今週分も明日 EOD までに3件追加します: AWS リージョン、デプロイ時間帯、印刷会社変更です。",
+          "sentence_translation": "Vâng. Tuần này em sẽ thêm 3 dòng trước EOD ngày mai: AWS region, thời điểm deploy, đổi nhà in ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_27_kp_01",
+      "speaker": "zun",
+      "sentence": "Decision Register をご確認ください。DR-〇〇-〇〇 の1行です。",
+      "sentence_translation": "Anh/chị xem Decision Register giúp em ạ. Là dòng DR-〇〇-〇〇 ạ.",
+      "purpose": "DR エントリへの即時参照",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_27_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "相談で決まった内容を最も適切に保存する方法は?",
+      "options": [
+        "上司の記憶に頼る",
+        "Slack スレッドだけ",
+        "Decision Register に日付・論点・検討案・採用案・理由・承認者の1行を残す",
+        "口頭で決めて文書化しない"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "口頭・Slack だけでは3ヶ月後に検索コストが膨大。Decision Register（DR）に構造化された1行を残せば、後の参照と監査が容易。",
+        "vi": "Chỉ miệng / Slack thì 3 tháng sau search rất tốn. Lưu 1 dòng có cấu trúc vào DR = dễ tra cứu + audit sau này."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_27_tpl_01",
+      "format": "report",
+      "title_ja": "Decision Register（相談ログ）テンプレート",
+      "title_vi": "Template Decision Register (log tham vấn)",
+      "content_ja": "【Decision Register / 相談ログ】\n保管先: Notion / Confluence / Google Sheets\n更新頻度: 週次（毎週金曜 EOD）\n命名規則: DR-YYYY-MMDD (例: DR-2026-0118)\n\n──────────────────────────────────────────\n| ID            | 日付       | 論点                | 検討案                          | 採用案    | 理由 (1〜2行)                                       | 承認者                  | リスク / 留意点                  | ステータス   |\n|---------------|-----------|---------------------|--------------------------------|----------|-----------------------------------------------------|------------------------|--------------------------------|-------------|\n| DR-2026-0118  | 2026/1/18 | Phase 2 DB選定      | ①MySQL ②Postgres ③DynamoDB    | MySQL    | 松本様運用チームが経験豊富 + コスト低 + Phase 1連携容易 | ハーCTO + フオン副部長 | 水平分散時の制約                | 採用済      |\n| DR-2026-0224  | 2026/2/24 | API遅延対応         | ①クエリ最適化 ②Index ③Redis    | Index    | 半日で実装可 + コスト増なし + EXPLAIN で候補特定済    | トゥアンリーダー        | デプロイ時の lock 時間          | 採用済      |\n| DR-2026-0422  | 2026/4/22 | 印刷会社変更        | ①C社 ②D社 ③A社継続           | C社      | 納期遅れ1日のみ + コスト同等                          | ズン (フオン副部長承認) | C社初取引のため検収厳重         | 採用済      |\n──────────────────────────────────────────\n\n【記入ルール】\n- 1相談1行。複数論点が絡む場合は分割。\n- 「理由」は2行以内。長い場合は別 doc にリンク。\n- 「採用案」は必ず1つに絞る（複数選択は別 ID で分割）。\n- 「承認者」が空白の行はステータスを『要承認』に。\n- ステータス: 採用済 / 保留 / 取消 / 要承認 の4つ。",
+      "content_vi": "[Decision Register / Log tham vấn]\nLưu trữ: Notion / Confluence / Google Sheets\nTần suất cập nhật: hàng tuần (thứ Sáu EOD)\nQuy ước đặt tên: DR-YYYY-MMDD (vd: DR-2026-0118)\n\n──────────────────────────────────────────\n| ID            | Ngày       | Luận điểm           | Options đã xét                 | Chọn      | Lý do (1-2 dòng)                                     | Người duyệt              | Risk / Ghi chú                  | Trạng thái  |\n|---------------|-----------|---------------------|--------------------------------|-----------|------------------------------------------------------|-------------------------|--------------------------------|-------------|\n| DR-2026-0118  | 18/1/2026 | Chọn DB Phase 2     | MySQL / Postgres / DynamoDB    | MySQL     | Team anh Matsumoto quen + cost thấp + dễ tích hợp Phase 1 | Hà CTO + chị Hương     | Hạn chế khi cần phân tán ngang | Đã chọn     |\n| DR-2026-0224  | 24/2/2026 | API chậm            | Tối ưu query / Index / Redis   | Index     | Nửa ngày xong + không tăng cost + đã EXPLAIN ra ứng viên | Tuấn (Tech Lead)        | Lock time khi deploy           | Đã chọn     |\n| DR-2026-0422  | 22/4/2026 | Đổi nhà in          | Nhà C / Nhà D / Tiếp nhà A    | Nhà C     | Chỉ trễ 1 ngày + cost tương đương                    | Dũng (chị Hương duyệt) | Lần đầu hợp tác C, nghiệm thu kỹ | Đã chọn     |\n──────────────────────────────────────────\n\n[Quy tắc ghi]\n- 1 tham vấn = 1 dòng. Nếu có nhiều luận điểm thì tách dòng.\n- Cột 'Lý do' giới hạn 2 dòng. Dài hơn thì link sang doc khác.\n- Cột 'Chọn' chỉ 1 option. Nếu nhiều thì tách ID khác.\n- Dòng nào 'Người duyệt' trống thì trạng thái = 'Cần duyệt'.\n- Trạng thái: Đã chọn / Hoãn / Hủy / Cần duyệt — 4 giá trị.",
+      "notes_ja": "DR は『監査証跡 + 議論の前提資料 + 引き継ぎ素材』の3役を兼ねる。週次レトロで漏れチェック。Phase をまたぐ判断は必ず DR 化。",
+      "notes_vi": "DR đóng 3 vai: bằng chứng audit + tài liệu tiền đề tranh luận + tài liệu bàn giao. Retro hàng tuần check sót. Quyết định liên Phase bắt buộc DR hóa."
+    }
+  ]
+}

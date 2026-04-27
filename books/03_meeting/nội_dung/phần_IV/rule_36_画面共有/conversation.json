@@ -1,0 +1,181 @@
+{
+  "rule_id": "rule_36",
+  "rule_slug": "画面共有の声かけ",
+  "title": {
+    "ja": "画面共有の声かけ",
+    "vi": "Chia sẻ màn hình"
+  },
+  "rule_context": {
+    "ja": "Zoom会議でズンが4月KPIスライドを画面共有する。予告→待機→確認→終了宣言の4ステップを踏む。",
+    "vi": "Họp Zoom em Dũng share slide KPI tháng 4. 4 bước: báo trước → đợi → confirm → stop chính thức."
+  },
+  "related_rules": [
+    "rule_04",
+    "rule_33",
+    "rule_35"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 予告も確認もなし",
+      "label_vi": "XẤU — Không báo, không confirm",
+      "display_order": 1,
+      "analysis": {
+        "ja": "予告なし共有→相手は心の準備ができず、確認なし→見えていなくても言いにくい。1分以上ロスする例。",
+        "vi": "Share đột ngột → khách chưa kịp chuẩn bị. Không confirm → khách ngại nói 'không thấy' → mất hơn 1 phút."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_36_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "これが4月のKPIです。",
+          "sentence_translation": "Đây là KPI tháng 4 ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_36_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "達成率82%でして…",
+          "sentence_translation": "Tỷ lệ đạt 82% ạ...",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_36_bad_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "すみません、画面が真っ黒のままで…",
+          "sentence_translation": "Xin lỗi, màn hình tôi vẫn đen...",
+          "tone": "apologetic"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 4ステップで共有",
+      "label_vi": "TỐT — 4 bước share screen",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_36_good_01",
+          "highlight_text": "これより、4月KPIレポートの画面を共有させていただきます",
+          "ja": "「これより〜共有させていただきます」が画面共有の予告定型句。",
+          "vi": "「これより〜共有させていただきます」 = câu báo chuẩn share screen."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_36_good_02",
+          "highlight_text": "ご覧いただけますでしょうか",
+          "ja": "見えるかの確認は必須。これがないと顧客は黙って待つ。",
+          "vi": "Confirm bắt buộc. Không có câu này khách thường im lặng chờ."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_36_good_05",
+          "highlight_text": "画面共有を終了いたします",
+          "ja": "終了宣言で次の議題へスムーズに移れる。",
+          "vi": "Báo stop để chuyển sang topic tiếp mượt."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_36_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "これより、4月KPIレポートの画面を共有させていただきます。",
+          "sentence_translation": "Em xin được share màn hình báo cáo KPI tháng 4 ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ],
+          "pause_after_ms": 2500
+        },
+        {
+          "line_id": "rule_36_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご覧いただけますでしょうか？",
+          "sentence_translation": "Anh/chị có thấy được không ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_36_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "はい、見えています。",
+          "sentence_translation": "Có, tôi thấy rồi.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_36_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。それでは、達成率82%の内訳から…",
+          "sentence_translation": "Em cảm ơn ạ. Em xin bắt đầu từ chi tiết tỷ lệ đạt 82%...",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_36_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "画面共有を終了いたします。",
+          "sentence_translation": "Em xin dừng share màn hình ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_36_kp_01",
+      "speaker": "zun",
+      "sentence": "これより、〇〇の画面を共有させていただきます。",
+      "sentence_translation": "Em xin được share màn hình 〇〇 ạ.",
+      "purpose": "画面共有の予告フレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_36_kp_02",
+      "speaker": "zun",
+      "sentence": "ご覧いただけますでしょうか？",
+      "sentence_translation": "Anh/chị có thấy được không ạ?",
+      "purpose": "見えるか確認",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_36_bjt_01",
+      "level": "J4",
+      "skill": "場面把握",
+      "question_ja": "オンライン会議で資料を画面共有する際、最も適切な順序は？",
+      "options": [
+        "突然共有して説明開始",
+        "予告→2-3秒待機→「ご覧いただけますでしょうか」確認→説明→終了宣言",
+        "共有して、終わったら自然消滅",
+        "メールで送る方がいい"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "4ステップ全てを踏むのが標準。特に確認ステップを省くと無駄なロスが生じる。",
+        "vi": "4 bước đầy đủ là chuẩn. Bỏ confirm step gây mất thời gian."
+      }
+    }
+  ]
+}

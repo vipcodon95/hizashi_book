@@ -1,0 +1,44 @@
+{
+  "rule_id": "rule_23",
+  "rule_slug": "受電後の社内報告",
+  "title": {"ja": "受電後の社内報告", "vi": "Báo lại nội bộ sau cuộc gọi quan trọng"},
+  "rule_context": {
+    "ja": "ズンが白鷗・松本からの電話を受けた後、フオン副部長に直接報告する場面。日時・発信者・用件・次アクションの4要素を簡潔に伝える。",
+    "vi": "Sau khi nhận điện anh Matsumoto, em Dũng báo cáo trực tiếp chị Hương phó phòng. Truyền đạt gọn 4 yếu tố: giờ/người gọi/nội dung/bước tiếp."
+  },
+  "related_rules": ["rule_18", "rule_51", "rule_59"],
+  "conversations": [{
+    "section": "good_example", "label_ja": "良い例", "label_vi": "TỐT", "display_order": 1,
+    "analysis": {
+      "ja": "『日時→発信者→用件→次アクション』の順で30秒以内に報告。先輩は欲しい情報をすぐ把握できる。",
+      "vi": "Báo theo trình tự 'giờ → người gọi → nội dung → bước tiếp' trong 30 giây. Sếp nắm thông tin cần nhanh nhất."
+    },
+    "conversation_lines": [
+      {"line_id": "rule_23_good_01", "speaker": "zun", "speaker_role": "BD担当", "gender": "male", "sentence": "フオン副部長、少しよろしいでしょうか。先ほど10時頃、白鷗の松本様からお電話がございました。", "sentence_translation": "Chị Hương ơi, em xin phép một chút ạ. Khoảng 10h vừa rồi anh Matsumoto bên Hakuō có gọi điện ạ.", "tone": "formal"},
+      {"line_id": "rule_23_good_02", "speaker": "fuon", "speaker_role": "副部長", "gender": "female", "sentence": "内容は？", "sentence_translation": "Nội dung gì vậy em?", "tone": "neutral"},
+      {"line_id": "rule_23_good_03", "speaker": "zun", "speaker_role": "BD担当", "gender": "male", "sentence": "明日の打ち合わせを14時から15時へ変更希望とのことです。トゥアンリーダーには既に共有済みです。返信のフォローアップメールも本日中に送る予定です。", "sentence_translation": "Anh ấy muốn dời buổi họp ngày mai từ 14h sang 15h ạ. Em đã báo anh Tuấn rồi, và sẽ gửi mail follow-up trong hôm nay ạ.", "tone": "formal", "speed_multiplier": 0.95},
+      {"line_id": "rule_23_good_04", "speaker": "fuon", "speaker_role": "副部長", "gender": "female", "sentence": "分かりました。トゥアンの返答が来たらまた共有してください。", "sentence_translation": "Chị rõ rồi. Khi anh Tuấn phản hồi em chia sẻ lại nhé.", "tone": "warm"}
+    ]
+  }],
+  "key_phrases": [{
+    "phrase_id": "rule_23_kp_01", "speaker": "zun",
+    "sentence": "先ほど〇時頃、〇〇様からお電話がございました。",
+    "sentence_translation": "Khoảng 〇 giờ vừa rồi, anh/chị 〇〇 có gọi điện ạ.",
+    "purpose": "受電後社内報告の冒頭", "slow_audio": true
+  }],
+  "bjt_practice": [{
+    "question_id": "rule_23_bjt_01", "level": "J3", "skill": "場面把握",
+    "question_ja": "受電後の社内報告で最も含めるべき情報は？",
+    "options": [
+      "天気の話",
+      "発信者・用件・次のアクション",
+      "自分の感想",
+      "個人的な話"
+    ],
+    "correct": "B",
+    "explanation": {
+      "ja": "報告の核は『誰から何の用件で、次に何をすべきか』。",
+      "vi": "Cốt lõi báo cáo là 'ai gọi vì việc gì, bước tiếp theo là gì'."
+    }
+  }]
+}

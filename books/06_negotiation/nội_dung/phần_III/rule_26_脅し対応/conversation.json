@@ -1,0 +1,206 @@
+{
+  "rule_id": "rule_26",
+  "rule_slug": "脅し・最終通告への対応",
+  "title": {
+    "ja": "脅し・最終通告への対応",
+    "vi": "Đối phó với threat / ultimatum"
+  },
+  "rule_context": {
+    "ja": "Ōgaki が「¥15M でなければY社」と最終通告。Dũng が bridge phrase で受け、ハー CTO をエスカレーションする場面。",
+    "vi": "Ōgaki ultimatum '¥15M không thì Y社'. Dũng bridge để đỡ, escalate anh Hà CTO."
+  },
+  "related_rules": ["rule_27", "rule_28"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — challenge + cave-in",
+      "label_vi": "XẤU — Challenge + cave-in",
+      "display_order": 1,
+      "analysis": {
+        "ja": "脅しに challenge して相手の顔を潰す上、その直後に cave-in。最悪の二重失敗。",
+        "vi": "Vừa challenge khách (mất 顔) vừa cave-in. Sai cả hai phía cùng lúc."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_26_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "¥15M でなければ、Y 社に発注します。今日決めてください。",
+          "sentence_translation": "¥15M không thì tôi đặt Y社. Hôm nay phải quyết.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_26_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Y 社で本当に発注できるとは思えませんが…",
+          "sentence_translation": "Y社thì em không nghĩ là quý anh đặt được thật...",
+          "tone": "nervous"
+        },
+        {
+          "line_id": "rule_26_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "冗談ではなく事実です。",
+          "sentence_translation": "Không phải nói đùa, là sự thật.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_26_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "では…¥15M で…",
+          "sentence_translation": "Vậy... ¥15M ạ...",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — bridge + boundary + escalation",
+      "label_vi": "TỐT — Bridge + boundary + escalation",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_26_good_02",
+          "highlight_text": "ご指摘の点、もっともでございます",
+          "ja": "Bridge phrase。脅しに対しても一旦受け止めることでtoneを下げる。confrontationalにしない。",
+          "vi": "Bridge phrase. Trước threat cũng đỡ trước để hạ tone, KHÔNG làm thành đối đầu."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_26_good_03",
+          "highlight_text": "弊社として ¥15M で Phase 2 同等スコープのご提供は粗利を割り込みますので、その場でのお返事は致しかねます",
+          "ja": "Boundary を polite tone で示す。「致しかねます」は最強の拒否表現だが失礼ではない。",
+          "vi": "Show boundary bằng tone polite. '致しかねます' là từ chối mạnh nhưng KHÔNG bất lịch sự."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_26_good_04",
+          "highlight_text": "弊社 CTO のハーをこの場にお呼びしてもよろしいでしょうか",
+          "ja": "senior escalation は必ず許可を得る。「お呼びしてもよろしいでしょうか」と相手に control 感を残す。",
+          "vi": "Escalate senior bắt buộc xin phép. 'Cho phép em mời ạ' giữ cảm giác control cho khách."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_26_good_06",
+          "highlight_text": "Phase 3 当初目的の達成度合いは 65% 程度",
+          "ja": "CTO は authority + 新事実を持ち込む。65%という具体数値で相手にpainを認知させる。",
+          "vi": "CTO mang authority + thông tin mới. 65% cụ thể giúp khách nhận pain."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_26_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "¥15M でなければ、Y 社に発注します。今日決めてください。",
+          "sentence_translation": "¥15M không thì tôi đặt Y社. Hôm nay phải quyết.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_26_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご指摘の点、もっともでございます。御社のご事情、十分に理解いたします。",
+          "sentence_translation": "Em xin tiếp thu ý kiến quý anh ạ. Tình huống quý cty em hiểu đầy đủ ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"],
+          "pause_after_ms": 2000
+        },
+        {
+          "line_id": "rule_26_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ただ、弊社として ¥15M で Phase 2 同等スコープのご提供は粗利を割り込みますので、その場でのお返事は致しかねます。",
+          "sentence_translation": "Tuy nhiên, ¥15M giữ scope tương đương Phase 2 thì bên em phá ngưỡng margin, em xin phép không trả lời ngay tại chỗ ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_26_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "重要なご決定ですので、弊社 CTO のハーをこの場にお呼びしてもよろしいでしょうか？技術面・条件面の両方で正式な回答ができるようにいたします。",
+          "sentence_translation": "Đây là quyết định quan trọng, cho phép em mời anh Hà CTO bên em đến tại chỗ ạ? Để có thể trả lời chính thức cả mặt kỹ thuật lẫn điều kiện ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_26_good_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "では CTO に来ていただいて構いません。",
+          "sentence_translation": "Vậy mời CTO đến cũng được.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_26_good_06",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "大垣様、ハーでございます。¥15M というご要望、伺いました。¥15M でしたら scope は -30% (AI dashboard・専任 PM・SLA 99.9%→99.5%) となり、Phase 3 当初目的の達成度合いは 65% 程度になります。Phase 2 同等のスコープであれば、弊社 walk-away ライン ¥15.5M、これは承認済みの最終条件でございます。",
+          "sentence_translation": "Anh Ōgaki, em là Hà ạ. Em đã nghe yêu cầu ¥15M. Nếu ¥15M thì scope -30% (bỏ AI dashboard, PM chuyên trách, SLA 99.9%→99.5%), mức đạt mục tiêu ban đầu Phase 3 chỉ ~65%. Scope tương đương Phase 2 thì walk-away bên em là ¥15.5M, đây là điều kiện cuối đã được duyệt ạ.",
+          "tone": "formal",
+          "annotation_ids": ["4"]
+        },
+        {
+          "line_id": "rule_26_good_07",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "…CTO 同席ですと話が変わりますね。¥15.5M なら社内に持ち帰り検討します。",
+          "sentence_translation": "...CTO cùng dự thì câu chuyện khác. ¥15.5M thì tôi mang về xem xét nội bộ.",
+          "tone": "neutral"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_26_kp_01",
+      "speaker": "zun",
+      "sentence": "ご指摘の点、もっともでございます。ただ弊社として〜は致しかねます。",
+      "sentence_translation": "Em xin tiếp thu ạ. Tuy nhiên bên em xin phép không thực hiện được ~ ạ.",
+      "purpose": "脅し対応 bridge+boundary",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_26_kp_02",
+      "speaker": "zun",
+      "sentence": "弊社 CTO をこの場にお呼びしてもよろしいでしょうか？",
+      "sentence_translation": "Cho phép em mời CTO bên em đến tại chỗ ạ?",
+      "purpose": "senior escalation 許可",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_26_bjt_01",
+      "level": "J1+",
+      "skill": "発言聴解",
+      "question_ja": "「¥15M でなければY社に発注します」と言われた時の最適3step は？",
+      "options": [
+        "challenge → 値引き → 沈黙",
+        "Bridge phrase → boundary → senior escalation",
+        "値引き → 値引き → 値引き",
+        "謝罪 → 撤回 → 再提案"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "脅しは pressure tactic。bridge で de-escalate、boundary でこちらの限度を示し、senior escalation で新権威を持ち込む。",
+        "vi": "Threat là pressure tactic. Bridge để de-escalate, boundary show giới hạn, senior escalate đưa authority mới vào."
+      }
+    }
+  ]
+}

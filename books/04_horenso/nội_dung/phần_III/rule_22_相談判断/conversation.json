@@ -1,0 +1,183 @@
+{
+  "rule_id": "rule_22",
+  "rule_slug": "相談判断",
+  "title": {
+    "ja": "相談 vs 自己決定の判断",
+    "vi": "Khi nào cần tham vấn vs tự quyết"
+  },
+  "rule_context": {
+    "ja": "ズンが2件の判断（FEローカル変数名／本番DBスキーマ）を抱える場面。影響範囲×可逆性の2軸 decision tree で『相談』と『自己決定+事後報告』に切り分ける。",
+    "vi": "Em Dũng có 2 quyết định cùng lúc (đổi tên biến FE local / đổi schema DB production). Áp decision tree 2 trục impact × reversibility để phân loại 'tham vấn' vs 'tự quyết + báo cáo sau'."
+  },
+  "related_rules": ["rule_23", "rule_25", "rule_30"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 些事まで相談",
+      "label_vi": "XẤU — Tham vấn cả việc nhỏ",
+      "display_order": 1,
+      "analysis": {
+        "ja": "ローカル・未マージ・1人作業範囲は影響小×可逆性大で自己決定領域。相談の濫用は上司の集中を奪い、自分の判断力不足を印象づける。",
+        "vi": "Local + chưa merge + 1 mình = impact nhỏ × rollback dễ, thuộc vùng tự quyết. Tham vấn lạm dụng làm sếp loãng + Dũng trông thiếu khả năng phán đoán."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_22_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、ご相談です。FEのローカルブランチで `userId` を `user_id` にリネームしたいのですが、よろしいでしょうか?",
+          "sentence_translation": "Chị Hương, em xin tham vấn ạ. Trên branch FE local em muốn đổi `userId` thành `user_id`, được không ạ?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_22_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "それ、私に聞くこと?ローカル・未マージ・あなた1人の作業範囲でしょ?",
+          "sentence_translation": "Cái đó hỏi chị làm gì? Local, chưa merge, một mình em làm mà?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_22_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、念のため…",
+          "sentence_translation": "À, em hỏi cho chắc...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_22_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "自己決定で OK、事後報告だけして。逆に DB の `user_id` を変える話があれば、それは絶対相談。判断軸を理解して。",
+          "sentence_translation": "Tự quyết đi, chỉ cần báo cáo sau thôi. Ngược lại nếu là đổi `user_id` ở DB thì bắt buộc phải tham vấn. Hiểu trục đánh giá đi nhé.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 影響×可逆性で自己仕分け",
+      "label_vi": "TỐT — Tự phân loại theo impact × reversibility",
+      "display_order": 2,
+      "analysis": {
+        "ja": "事前に2軸で仕分け、相談すべき1件と自己決定+事後報告の1件を明示。上司は判断材料に集中でき、ズンへの信頼度が上がる。",
+        "vi": "Phân loại trước theo 2 trục, show rõ 1 cần tham vấn và 1 tự quyết + báo sau. Sếp tập trung vào dữ kiện quyết định, độ tin cậy của Dũng tăng."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_22_good_01",
+          "highlight_text": "判断軸に従って2件を整理しました",
+          "ja": "上司に投げる前に自分で仕分けたことを明示。プロアクティブな思考力をアピール。",
+          "vi": "Show đã tự phân loại trước khi đẩy lên sếp. Thể hiện tư duy chủ động."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_22_good_03",
+          "highlight_text": "影響範囲ローカル + 未マージで可逆性も高い",
+          "ja": "自己決定の根拠を2軸で言語化。「念のため」より遥かに説得力がある。",
+          "vi": "Diễn giải lý do tự quyết theo 2 trục. Thuyết phục hơn 「念のため」 rất nhiều."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_22_good_04",
+          "highlight_text": "影響大 + 不可逆性高い",
+          "ja": "相談する根拠も同じ2軸で言語化。一貫した判断基準を持っていると示せる。",
+          "vi": "Lý do tham vấn cũng diễn giải theo 2 trục. Cho thấy có tiêu chí phán đoán nhất quán."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_22_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、判断軸に従って2件を整理しました。1件は事後報告、1件はご相談です。",
+          "sentence_translation": "Chị Hương, em đã phân loại 2 việc theo trục đánh giá. 1 cái em báo cáo sau, 1 cái em xin tham vấn ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_22_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "うん、聞きます。",
+          "sentence_translation": "Ừ, chị nghe.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_22_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "事後報告: FEローカルブランチで `userId` を `user_id` にリネームしました。影響範囲ローカル + 未マージで可逆性も高いため自己決定としました。",
+          "sentence_translation": "[Báo cáo sau] Em đã đổi `userId` thành `user_id` trên branch FE local. Phạm vi ảnh hưởng chỉ local + chưa merge nên rollback dễ, em đã tự quyết ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_22_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご相談: DB の `user_id` カラムを `member_id` にリネームする提案がチームから出ております。本番5万レコード + 7サービスが参照しており、影響大 + 不可逆性高いため、独断は避けたく存じます。",
+          "sentence_translation": "[Tham vấn] Team đang đề xuất đổi cột `user_id` thành `member_id` trên DB. Production có 50k record + 7 service tham chiếu, ảnh hưởng lớn + khó rollback nên em không dám tự quyết ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_22_good_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "正しい切り分けね。1件目は OK、2件目はハーCTOも含めた相談会議をセットして。木曜午後に。",
+          "sentence_translation": "Phân loại đúng rồi. Cái 1 OK, cái 2 thì set 1 buổi tham vấn có cả anh Hà CTO. Chiều thứ Năm nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_22_kp_01",
+      "speaker": "zun",
+      "sentence": "影響範囲〇〇 + 可逆性〇〇のため、自己決定 / ご相談とさせていただきました。",
+      "sentence_translation": "Vì phạm vi ảnh hưởng 〇〇 + tính rollback 〇〇 nên em tự quyết / xin tham vấn ạ.",
+      "purpose": "判断軸を明示するフレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_22_kp_02",
+      "speaker": "zun",
+      "sentence": "判断軸に従って整理しました。〇件は事後報告、〇件はご相談です。",
+      "sentence_translation": "Em đã phân loại theo trục đánh giá. 〇 cái báo cáo sau, 〇 cái xin tham vấn ạ.",
+      "purpose": "相談を切り出す前の仕分け宣言",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_22_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "次の判断のうち、必ず上司に相談すべきものは?",
+      "options": [
+        "ローカルブランチで未マージの変数名リネーム",
+        "個人のSlackステータスを更新",
+        "本番DB の主キーカラム名変更（5万レコード影響）",
+        "自分のテストデータをリセット"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "影響範囲（本番5万レコード）×不可逆性（DBスキーマは戻しにくい）両方『大』なので必ず相談。他は影響小×可逆性高で自己決定領域。",
+        "vi": "Impact (50k record production) × Reversibility (schema khó rollback) đều 'lớn' nên bắt buộc tham vấn. Các option khác impact nhỏ × rollback dễ, thuộc vùng tự quyết."
+      }
+    }
+  ]
+}

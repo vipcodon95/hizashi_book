@@ -1,0 +1,96 @@
+{
+  "rule_id": "rule_34",
+  "rule_slug": "緊急電話の言い回し",
+  "title": {
+    "ja": "緊急電話の言い回し",
+    "vi": "Cách nói trong cuộc gọi khẩn"
+  },
+  "rule_context": {
+    "ja": "サーバー納品遅延を松本PMに緊急連絡する場面。冒頭で『至急』を明示し、用件→影響→次アクションを即伝達。",
+    "vi": "Báo gấp anh Matsumoto về việc giao server bị trễ. Nói 「至急」 ngay đầu, sau đó việc → ảnh hưởng → bước tiếp."
+  },
+  "related_rules": [
+    "rule_28",
+    "rule_44"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『お忙しいところ恐れ入ります→至急→事実→次アクション』の流れで20秒以内に必要情報を伝える。",
+        "vi": "Trình tự 'xin lỗi làm phiền → khẩn cấp → sự việc → bước tiếp' trong 20 giây."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_34_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お忙しいところ恐れ入ります。至急ご連絡したい件がございます。",
+          "sentence_translation": "Em xin lỗi làm phiền lúc anh đang bận. Em có việc gấp cần liên hệ ạ.",
+          "tone": "urgent"
+        },
+        {
+          "line_id": "rule_34_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本日納品予定のサーバーですが、配送業者のトラブルで到着が午後にずれ込む見込みでございます。",
+          "sentence_translation": "Server dự kiến giao hôm nay đang bị bên vận chuyển trục trặc, dự kiến chiều mới tới ạ.",
+          "tone": "firm",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_34_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "現場のトゥアンにも至急共有いたします。松本様からも何かご対応が必要でしたら、ご指示ください。",
+          "sentence_translation": "Em nghĩ cần báo gấp cho anh Tuấn ở hiện trường, anh thấy thế nào ạ?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_34_good_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "分かりました。トゥアンさんへ私からも連絡します。",
+          "sentence_translation": "Tôi hiểu rồi. Tôi cũng sẽ liên hệ anh Tuấn.",
+          "tone": "firm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_34_kp_01",
+      "speaker": "zun",
+      "sentence": "お忙しいところ恐れ入ります。至急ご連絡したい件がございます。",
+      "sentence_translation": "Em xin lỗi làm phiền. Em có việc gấp cần liên hệ ạ.",
+      "purpose": "緊急電話の冒頭",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_34_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "緊急電話の冒頭で最も適切なのは？",
+      "options": [
+        "あの〜実は〜",
+        "至急ご連絡したい件がございます",
+        "ちょっといいですか",
+        "暇ですか"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "緊急電話は冒頭で『至急』を明示し用件直行が原則。",
+        "vi": "Cuộc gọi khẩn phải nói 「至急」 ngay đầu rồi vào thẳng việc."
+      }
+    }
+  ]
+}

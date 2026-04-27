@@ -1,0 +1,186 @@
+{
+  "rule_id": "rule_06",
+  "rule_slug": "名刺の机上配置",
+  "title": {
+    "ja": "名刺の机上配置",
+    "vi": "Bố trí danh thiếp trên bàn"
+  },
+  "rule_context": {
+    "ja": "ロビー交換後、会議室で名刺3枚(中村CFO/大垣/松本)を相手の座席順通りに机上配置する場面。",
+    "vi": "Sau exchange tại lobby, vào phòng họp, đặt 3 danh thiếp (Nakamura CFO/Ōgaki/Matsumoto) theo đúng seat order khách."
+  },
+  "related_rules": [
+    "rule_02",
+    "rule_05",
+    "rule_07",
+    "rule_10"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 重ねて配置→役職誤呼び",
+      "label_vi": "XẤU — xếp chồng → gọi nhầm chức",
+      "display_order": 1,
+      "analysis": {
+        "ja": "リンが3枚重ね→ズン視認できず→『松本部長』と誤呼び(松本はPM)→大垣の表情曇る。15分以内で信頼感低下。",
+        "vi": "Linh xếp chồng → Dũng không thấy → gọi nhầm 'Matsumoto 部長' (Matsumoto là PM) → Ōgaki nhíu mày. Mất độ tin trong 15 phút đầu."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_06_bad_01",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "（無言で名刺3枚を重ねて机の隅に置く）",
+          "sentence_translation": "(im lặng đặt 3 danh thiếp xếp chồng vào góc bàn)",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_06_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと、松本部長…あ、すみません、大垣部長でした…",
+          "sentence_translation": "Ơ... Matsumoto 部長... à xin lỗi, là Ōgaki 部長 ạ...",
+          "tone": "apologetic",
+          "speed_multiplier": 1.05
+        },
+        {
+          "line_id": "rule_06_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "…大垣です。",
+          "sentence_translation": "...Tôi là Ōgaki.",
+          "tone": "neutral",
+          "pause_after_ms": 600
+        },
+        {
+          "line_id": "rule_06_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "リンさん、名刺は座席順に並べて。重ねたら誰が誰か分からなくなるの。",
+          "sentence_translation": "Linh, danh thiếp phải xếp theo thứ tự chỗ ngồi. Xếp chồng thì không phân biệt được ai với ai đâu.",
+          "tone": "firm",
+          "speed_multiplier": 0.95
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 座席順配置→正確呼称",
+      "label_vi": "TỐT — đặt theo seat → gọi đúng",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_06_good_01",
+          "highlight_text": "中村CFO…大垣部長…松本PM",
+          "ja": "相手3名の座席順に名刺を机上配置。視認で名前+役職を即確認可能。",
+          "vi": "Đặt danh thiếp theo seat order. Liếc mắt = thấy ngay tên + chức để gọi đúng."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_06_good_06",
+          "highlight_text": "相手退室後に2手で仕舞う",
+          "ja": "会議中は仕舞わない。相手が立ち上がって退室後、両手で揃えてケースへ。",
+          "vi": "Trong meeting KHÔNG cất. Đợi khách đứng dậy ra về mới gom 2 tay xếp ngay ngắn vào hộp."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_06_good_01",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "（小声で）中村CFO…大垣部長…松本PM…（座席順に並べる）",
+          "sentence_translation": "(thì thầm) Nakamura CFO... Ōgaki 部長... Matsumoto PM... (đặt theo seat order)",
+          "tone": "neutral",
+          "speed_multiplier": 0.9,
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_06_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "中村CFO、本日の最初のご質問は…",
+          "sentence_translation": "Anh Nakamura CFO, câu hỏi đầu tiên hôm nay là...",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_06_good_03",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "はい、中村です。",
+          "sentence_translation": "Vâng, Nakamura đây.",
+          "tone": "neutral",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_06_good_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "大垣部長、Phase 3のスコープについて…",
+          "sentence_translation": "Anh Ōgaki 部長, về scope Phase 3...",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_06_good_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "はい、大垣です。",
+          "sentence_translation": "Vâng, Ōgaki đây.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_06_good_06",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "（会議終了・相手退室後に2手で名刺を揃えてケースへ）",
+          "sentence_translation": "(meeting xong, khách đã rời, mới gom 2 tay danh thiếp xếp ngay ngắn vào hộp)",
+          "tone": "neutral",
+          "annotation_ids": [
+            "2"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_06_kp_01",
+      "speaker": "zun",
+      "sentence": "中村CFO、本日の最初のご質問は…",
+      "sentence_translation": "Anh Nakamura CFO, câu hỏi đầu tiên hôm nay là...",
+      "purpose": "正確な役職呼びかけ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_06_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "会議中、受け取った名刺3枚の最適な扱い方は？",
+      "options": [
+        "重ねて机の隅に置く",
+        "すぐにケースに仕舞う",
+        "相手の座席順通り机上に並べ、退室後に仕舞う",
+        "ポケットに分けて入れる"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "座席順配置→視認で名前+役職確認→誤呼び防止。仕舞いは相手退室後。",
+        "vi": "Đặt theo seat order = nhìn thấy tên+chức = không gọi nhầm. Cất chỉ sau khi khách rời."
+      }
+    }
+  ]
+}

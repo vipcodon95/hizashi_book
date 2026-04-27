@@ -1,0 +1,87 @@
+# Rule 20 — Ngồi đợi đúng cách / 待機マナー
+
+> **Luận điểm.** Đợi trong phòng họp khách Nhật **TRƯỚC khi senior bên họ đến**: (1) **KHÔNG ngồi 上座** dù được mời "どこでもどうぞ" (2) **Đứng** đợi cho tới khi 担当者 chỉ ghế cụ thể (3) Nếu được dẫn vào sớm: ngồi **下座** (gần cửa) (4) **KHÔNG sờ điện thoại** (5) **KHÔNG mở laptop** trước khi senior đến (6) Tay đặt trên gối, lưng thẳng. Sờ phone = "tôi không tôn trọng đợi anh".
+>
+> 待機中は『上座非占有・指示なき限り立位 or 下座着席・スマホ/laptop非操作・正座姿勢』。
+>
+> **Liên quan:** rule 10 (上座), rule 19 (コート), rule 21 (入室).
+
+---
+
+## Bối cảnh / 場面
+
+10:02. Tanaka PMO dẫn Dũng + Tuấn vào phòng họp 803, bảo "中村CFOが間もなく来ます。お掛けになってお待ちください". Tanaka quay lại văn phòng. Dũng + Tuấn đợi 5 phút. Cách ngồi quyết định ấn tượng đầu khi Nakamura bước vào.
+
+---
+
+## ❌ Hội thoại XẤU — ngồi 上座 + xem phone
+
+*dẫn vào, đi ra · ngồi luôn vào ghế 上座 ở giữa, xa cửa · rút phone, scroll · mở laptop, gõ ầm ầm · bước vào, thấy 2 người đang ngồi 上座 + phone + laptop*
+
+| Speaker | Câu |
+|---------|-----|
+| **田中PMO** | 「中村CFOが間もなく来ます。お掛けになってお待ちください。」 |
+| **トゥアン** | 「お、いい席だね。」 |
+| **ズン** | 「ちょっとSlack確認するわ…」 |
+| **トゥアン** | 「俺もmail処理…」 |
+| **中村CFO** | 「…おはようございます。」 *(bow ngắn, đi vòng sang shimoza)* |
+
+**Vì sao xấu:** (1) Ngồi 上座 = chiếm chỗ Nakamura CFO trước khi anh ấy đến = vô lễ. (2) Phone + laptop = "tôi đang busy hơn việc đợi anh". (3) Nakamura phải ngồi shimoza host = role reversed = khách imprint mãi.
+
+---
+
+## ✅ Hội thoại TỐT — đứng đợi / ngồi 下座 / im lặng
+
+*dẫn vào, chỉ tay · quan sát layout: 上座 xa cửa = chỗ Nakamura, 下座 gần cửa = chỗ mình · thoáng cười · ngồi 下座 cạnh cửa, lưng thẳng, tay trên gối · KHÔNG phone, KHÔNG laptop · bước vào sau 5 phút · đứng dậy ngay, bow 30°*
+
+| Speaker | Câu |
+|---------|-----|
+| **田中PMO** | 「**中村CFOが間もなく来ます**。お掛けになってお待ちください。」 |
+| **ズン** | 「**ありがとうございます。下座でお待ちいたします**【1】。」 |
+| **田中PMO** | 「ご丁寧に。」 |
+| **ズン + トゥアン**【2】 | *(im lặng quan sát phòng — agenda giấy, slide projector, lay layout, tranh treo)* |
+| **ズン + トゥアン**【3】 | *(im lặng, tâm thế ready)* |
+| **中村CFO** | 「お待たせいたしました、中村です。」 |
+| **ズン + トゥアン** | 「**お忙しいところ、お時間頂戴いたしまして恐縮でございます**【4】。」 |
+
+📝 **Ghi chú:**
+- 【1】**「下座でお待ちいたします」** — chủ động báo "tôi sẽ ngồi 下座" = mượn câu này để KHÔNG bị mời nhầm 上座. Tanaka thấy = ấn tượng "junior trained".
+- 【2】**Lưng thẳng, tay trên gối** — KHÔNG dựa lưng ghế. KHÔNG bắt chéo chân. Tay 2 bàn tay đặt nhẹ trên gối hoặc trên bàn.
+- 【3】**Phone + laptop OFF** — phone manner mode, để trong túi. Laptop trong cặp. Đợi senior đến, mở laptop CHỈ khi được mời "資料ご準備ください".
+- 【4】**「お忙しいところ、お時間頂戴いたしまして恐縮でございます」** — câu chào CFO senior khi anh xuất hiện. Cao hơn「よろしくお願いします」.
+
+---
+
+## 🎯 Câu chốt
+
+> **「待機は『上座非占有・下座着席宣言・スマホ/laptop OFF・正座姿勢』。」**
+>
+> *Đợi = không ngồi 上座 / chủ động ngồi 下座 / phone-laptop OFF / lưng thẳng tay trên gối.*
+
+---
+
+## ⚠ Tránh
+
+- Ngồi **上座** dù được mời "どこでもどうぞ" → ngồi 下座 và báo "下座でお待ちいたします"
+- **Phone scrolling** → manner mode, để túi, đợi
+- **Laptop mở** trước khi senior đến → đóng + để cặp
+- **Bắt chéo chân** / dựa lưng casual → lưng thẳng, 2 chân song song
+- **Nói chuyện ầm ầm** với người đi cùng → small talk nhỏ giọt
+- **Ăn / uống** trà chưa được mời → đợi senior đến mới uống
+- Khi senior đến **không đứng dậy** → đứng ngay + bow 30°
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 待機 | たいき | Đợi |
+| 上座 | かみざ | Kamiza |
+| 下座 | しもざ | Shimoza |
+| お掛けになる | おかけになる | Ngồi (kính ngữ) |
+| 正座 | せいざ | Tư thế ngồi nghiêm |
+| 姿勢 | しせい | Tư thế |
+| お時間頂戴 | おじかんちょうだい | Xin được dành thời gian |
+| 恐縮 | きょうしゅく | Thật ngại / quá lịch sự |
+| 間もなく | まもなく | Sắp đến |

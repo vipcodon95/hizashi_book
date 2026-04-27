@@ -1,0 +1,88 @@
+{
+  "rule_id": "rule_29",
+  "rule_slug": "重要事項の復唱を依頼",
+  "title": {
+    "ja": "重要事項の復唱を依頼",
+    "vi": "Yêu cầu lặp lại điểm quan trọng"
+  },
+  "rule_context": {
+    "ja": "金額・納期など重要事項は相手にも復唱を依頼して確認。一方通行の伝達は誤解の元。",
+    "vi": "Số tiền, hạn giao... là việc quan trọng — nhờ đối phương lặp lại để xác nhận. Truyền 1 chiều dễ hiểu nhầm."
+  },
+  "related_rules": [
+    "rule_13",
+    "rule_18"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『念のため、復唱をお願い』で礼儀を保ちつつ確認。相手も復唱で双方確認できる。",
+        "vi": "「念のため、復唱をお願い」 vừa lịch sự vừa xác nhận. Cả hai bên cùng confirm."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_29_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "金額は120万円、納期は5月15日でございます。念のため、復唱をお願いできますでしょうか。",
+          "sentence_translation": "Số tiền 1.200.000 yên, hạn giao là 15/5 ạ. Để chắc chắn, phiền anh lặp lại giúp em được không ạ?",
+          "tone": "formal",
+          "speed_multiplier": 0.85
+        },
+        {
+          "line_id": "rule_29_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "金額120万円、納期5月15日ですね。承知しました。",
+          "sentence_translation": "Tiền 1.200.000 yên, giao 15/5 nhỉ. Tôi hiểu rồi.",
+          "tone": "neutral",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_29_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。間違いございません。",
+          "sentence_translation": "Cảm ơn anh ạ. Đúng vậy ạ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_29_kp_01",
+      "speaker": "zun",
+      "sentence": "念のため、復唱をお願いできますでしょうか。",
+      "sentence_translation": "Để chắc chắn, phiền anh/chị lặp lại giúp em được không ạ?",
+      "purpose": "復唱依頼の標準フレーズ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_29_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "重要事項を相手に確認させる丁寧な言い方は？",
+      "options": [
+        "もう一回言ってください",
+        "復唱してください",
+        "念のため、復唱をお願いできますでしょうか",
+        "覚えましたか"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "『念のため』『お願いできますでしょうか』が最も丁寧。",
+        "vi": "「念のため」 + 「お願いできますでしょうか」 là cách lịch sự nhất."
+      }
+    }
+  ]
+}

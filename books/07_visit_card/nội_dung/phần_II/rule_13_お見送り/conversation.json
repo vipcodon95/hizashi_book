@@ -1,0 +1,211 @@
+{
+  "rule_id": "rule_13",
+  "rule_slug": "お見送り",
+  "title": {
+    "ja": "お見送り",
+    "vi": "Kết thúc + tiễn khách"
+  },
+  "rule_context": {
+    "ja": "12:00会議終了、白鷗3名(C-level含む)をフオン副部長+ズン+リンがロビー→タクシー乗車→車去視認まで見送る場面。",
+    "vi": "12:00 meeting xong, đoàn 白鷗 3 người (có C-level), Hương + Dũng + Linh tiễn xuống lobby → cửa taxi → đợi xe khuất tầm mắt."
+  },
+  "related_rules": [
+    "rule_08",
+    "rule_09",
+    "rule_14"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 会議室別れ・casual語尾",
+      "label_vi": "XẤU — bye tại phòng họp + ngữ casual",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①C-level相手に会議室別れ=失礼 ②『気をつけて〜』のcasual終助詞 ③タクシー手配無で客自力. 3点減点。",
+        "vi": "(1) Bye tại phòng họp với C-level = vô lễ. (2) '気をつけて〜' casual. (3) Không book taxi = khách tự bắt."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_13_bad_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "お疲れさまでした。気をつけて帰ってください。",
+          "sentence_translation": "Các anh vất vả ạ. Cẩn thận về nha.",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_13_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "では失礼します。",
+          "sentence_translation": "Tôi xin phép.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_13_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お気をつけて〜",
+          "sentence_translation": "Cẩn thận nhé~",
+          "tone": "casual",
+          "speed_multiplier": 1.05
+        },
+        {
+          "line_id": "rule_13_bad_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "（無言で歩き去る）",
+          "sentence_translation": "(im lặng bước đi)",
+          "tone": "neutral",
+          "pause_after_ms": 800
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — タクシー手配・車去視認・45度お辞儀",
+      "label_vi": "TỐT — book taxi + đợi xe khuất + bow 45°",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_13_good_01",
+          "highlight_text": "ロビーまでお見送りさせていただきます",
+          "ja": "Senior(C-level)相手は最低ロビー、できれば玄関タクシーまで。『送ります』はcasualで不可。",
+          "vi": "Với senior (C-level): tối thiểu lobby, tốt nhất ra cửa taxi. '送ります' là casual, KHÔNG dùng."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_13_good_04",
+          "highlight_text": "お車のご用意ができております",
+          "ja": "host責任でtaxi 15分前手配。客が自力でGrab探すは不可。",
+          "vi": "Host trách nhiệm book taxi 15 phút trước. KHÔNG để khách tự bắt Grab."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_13_good_06",
+          "highlight_text": "車が視界から消えるまで",
+          "ja": "発車後すぐ戻るのではなく、車が曲がって見えなくなるまで起立保持。客が振り返って手を振る可能性。",
+          "vi": "KHÔNG quay vào ngay sau khi xe lăn. Đợi xe rẽ khuất khỏi tầm mắt. Khách có thể quay lại vẫy."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_13_good_06",
+          "highlight_text": "お気をつけてお帰りくださいませ",
+          "ja": "C-level向け最上級見送り表現。『気をつけて帰ってください』より2段格上。",
+          "vi": "Bậc tiễn cao nhất cho C-level. Trên 2 bậc so với '気をつけて帰ってください'."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_13_good_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "本日は誠にありがとうございました。ロビーまでお見送りさせていただきます。",
+          "sentence_translation": "Hôm nay em xin chân thành cảm ơn ạ. Em xin phép tiễn các anh xuống lobby ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.9,
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_13_good_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "ご丁寧に、恐縮です。",
+          "sentence_translation": "Lịch sự quá, ngại quá.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_13_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（エレベーター→ロビー→玄関までご案内）",
+          "sentence_translation": "(dẫn xuống thang máy → lobby → cửa chính)",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_13_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お車のご用意ができております。",
+          "sentence_translation": "Xe đã có sẵn ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_13_good_05",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ありがとうございました。",
+          "sentence_translation": "Cảm ơn các bạn.",
+          "tone": "warm",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_13_good_06",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "本日は誠にありがとうございました。お気をつけてお帰りくださいませ。（45度お辞儀、車が視界から消えるまで起立）",
+          "sentence_translation": "Hôm nay em chân thành cảm ơn ạ. Mong các anh về cẩn thận ạ. (bow 45°, đứng đến khi xe khuất tầm mắt)",
+          "tone": "formal",
+          "speed_multiplier": 0.9,
+          "annotation_ids": [
+            "3",
+            "4"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_13_kp_01",
+      "speaker": "fuon",
+      "sentence": "ロビーまでお見送りさせていただきます。",
+      "sentence_translation": "Em xin phép tiễn các anh xuống lobby ạ.",
+      "purpose": "見送り宣言固定句",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_13_kp_02",
+      "speaker": "fuon",
+      "sentence": "本日は誠にありがとうございました。お気をつけてお帰りくださいませ。",
+      "sentence_translation": "Hôm nay em chân thành cảm ơn ạ. Mong các anh về cẩn thận ạ.",
+      "purpose": "見送り最終発話",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_13_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "C-level客のお見送りで車発車後、host が起立保持すべき期間は？",
+      "options": [
+        "車のドアが閉まるまで",
+        "車が動き出した瞬間まで",
+        "車が視界から消えるまで(曲がって見えなくなるまで)",
+        "発車5秒後"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "C-level見送りは『視界から消えるまで起立』が標準。客が振り返って手を振る可能性も対応。",
+        "vi": "Tiễn C-level: 'đứng đến khi xe khuất tầm mắt'. Phòng khả năng khách quay lại vẫy."
+      }
+    }
+  ]
+}

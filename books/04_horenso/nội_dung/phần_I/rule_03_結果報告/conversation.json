@@ -1,0 +1,192 @@
+{
+  "rule_id": "rule_03",
+  "rule_slug": "結果報告の組み立て",
+  "title": {
+    "ja": "結果報告の組み立て (Goal→Result→Cause→Action)",
+    "vi": "Cấu trúc báo cáo kết quả (Goal→Result→Cause→Action)"
+  },
+  "rule_context": {
+    "ja": "ズンが Phase 2 デモ後、フオン副部長へ結果報告する場面。GRCA フレームワーク（目標→結果→原因→今後の対応）を実演。",
+    "vi": "Em Dũng báo kết quả demo Phase 2 cho chị Hương. Áp dụng framework GRCA: Goal → Result → Cause → Action."
+  },
+  "related_rules": ["rule_01", "rule_05", "rule_06", "rule_11"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — Result のみ、Goal/Cause/Action 欠落",
+      "label_vi": "XẤU — Chỉ có Result, thiếu Goal/Cause/Action",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「概ねOK」は目標との比較なしには意味を持たない。原因が分からないと再現できないし、Action が無いと報告として完結しない。",
+        "vi": "「概ねOK」 không có Goal làm thước đo thì vô nghĩa. Không biết Cause = không replicate được. Không có Action = báo cáo chưa hoàn chỉnh."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_03_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、Phase 2デモ、概ねOKでした。指摘も少なかったです。",
+          "sentence_translation": "Chị Hương, demo Phase 2 cơ bản OK ạ. Comment cũng ít.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_03_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "『概ねOK』って何と比較して？目標は何だった？",
+          "sentence_translation": "'Cơ bản OK' là so với cái gì? Mục tiêu ban đầu là gì?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_03_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと、目標は…松本様にOKをもらうことで…",
+          "sentence_translation": "Ờ, mục tiêu là... được anh Matsumoto OK ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_03_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "指摘が少なかった原因は？運？それとも準備が良かった？次に再現できる？",
+          "sentence_translation": "Sao comment ít vậy? May? Hay chuẩn bị tốt? Lần sau có replicate được không?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_03_bad_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "うーん、たぶん準備が良かったから…",
+          "sentence_translation": "Ừm, chắc do chuẩn bị tốt ạ...",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — GRCA 4ステップ完備",
+      "label_vi": "TỐT — GRCA đủ 4 bước",
+      "display_order": 2,
+      "analysis": {
+        "ja": "Goal を明示してから Result を述べると評価軸が揃う。Cause を具体化することで再現性が生まれ、Action で次のステップを示すことで報告が完結する。",
+        "vi": "Nêu Goal trước Result thì có thước đo so sánh. Cause cụ thể giúp replicate. Action cho next step làm báo cáo hoàn chỉnh."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_03_good_01",
+          "highlight_text": "目標は〜でした",
+          "ja": "結果を語る前に必ず Goal を再提示。聞き手が評価軸を持てる。",
+          "vi": "Trước khi nói Result phải nhắc lại Goal. Người nghe có thước đo."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_03_good_02",
+          "highlight_text": "致命的なものはございません",
+          "ja": "指摘の severity を分類。3件 vs 致命的3件は意味が全く違う。",
+          "vi": "Phân loại severity của comment. 3 comment thường khác hẳn 3 comment chí mạng."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_03_good_03",
+          "highlight_text": "事前に大垣様へ仮承認をいただいた",
+          "ja": "Cause を具体的アクションで示す。「準備が良かった」より遥かに学習可能。",
+          "vi": "Nêu Cause bằng action cụ thể. Có giá trị học tập hơn hẳn 「準備が良かった」."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_03_good_04",
+          "highlight_text": "来週月曜にPhase 3キックオフを松本様へ提案",
+          "ja": "Action は「期限＋具体行動＋相手」の3点セット。「気をつけます」では不可。",
+          "vi": "Action phải gồm deadline + hành động cụ thể + đối tượng. 「気をつけます」 không tính."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_03_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、Phase 2デモのご報告です。目標は『松本様から書面で承認をいただく』ことでした。",
+          "sentence_translation": "Chị Hương, em xin báo cáo demo Phase 2. Mục tiêu là 'nhận được phê duyệt bằng văn bản từ anh Matsumoto' ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_03_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "結果：書面承認は明日いただける見込み。指摘は3件のみで、致命的なものはございません。",
+          "sentence_translation": "Kết quả: phê duyệt bằng văn bản dự kiến nhận được ngày mai. Comment chỉ 3 mục, không có mục nào nghiêm trọng ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_03_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "原因分析としては、事前に大垣様へ仮承認をいただいたことで、デモ当日の論点が画面の細部に絞られたためと考えております。",
+          "sentence_translation": "Phân tích nguyên nhân: do em đã xin phê duyệt sơ bộ từ anh Ōgaki trước, nên trong ngày demo các điểm tranh luận đã thu hẹp về chi tiết màn hình ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_03_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "今後の対応：3件の指摘は今週中に修正、来週月曜にPhase 3キックオフを松本様へ提案いたします。",
+          "sentence_translation": "Hành động tiếp theo: sửa 3 comment trong tuần này, thứ hai tuần sau em sẽ đề xuất kick-off Phase 3 với anh Matsumoto ạ.",
+          "tone": "formal",
+          "annotation_ids": ["4"]
+        },
+        {
+          "line_id": "rule_03_good_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "Goalが明確で原因分析も筋が通ってる。Phase 3提案は私もレビューしたいから、金曜までに案を見せてください。",
+          "sentence_translation": "Goal rõ và phân tích nguyên nhân cũng có lý. Đề xuất Phase 3 chị muốn review nữa, em đưa bản nháp trước thứ Sáu nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_03_kp_01",
+      "speaker": "zun",
+      "sentence": "目標は〇〇でした。結果は〇〇。原因は〇〇。今後の対応は〇〇までに〇〇いたします。",
+      "sentence_translation": "Mục tiêu là 〇〇. Kết quả là 〇〇. Nguyên nhân là 〇〇. Em sẽ 〇〇 trước 〇〇 ạ.",
+      "purpose": "GRCA 4ステップテンプレート",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_03_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "結果報告で「目標」を最初に述べる理由として最も適切なのは？",
+      "options": [
+        "報告を長くするため",
+        "聞き手に評価軸を提示するため",
+        "失敗を隠すため",
+        "丁寧に聞こえるため"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "Goal は Result を評価する物差し。物差しを共有しないと「OK」が何との比較か分からない。",
+        "vi": "Goal là thước đo để đánh giá Result. Không chia sẻ thước đo thì 'OK' so với gì?"
+      }
+    }
+  ]
+}

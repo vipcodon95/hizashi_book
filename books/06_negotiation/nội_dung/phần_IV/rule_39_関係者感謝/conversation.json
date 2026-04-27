@@ -1,0 +1,205 @@
+{
+  "rule_id": "rule_39",
+  "rule_slug": "関係者への感謝",
+  "title": {
+    "ja": "関係者への感謝",
+    "vi": "Cảm ơn stakeholders"
+  },
+  "rule_context": {
+    "ja": "Phase 3 締結後、senior 6 名 + junior 4 名に個別 specific な thank-you DM を送る場面。Linh の overtime と Loan の経理指摘も specific に言及。",
+    "vi": "Sau ký Phase 3, gửi thank-you DM riêng cho từng stakeholder — 6 senior + 4 junior với specific contribution. Đặc biệt nhắc detail effort của Linh và Loan."
+  },
+  "related_rules": ["rule_36", "rule_37", "rule_38"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — generic 「お疲れ様」 1 行",
+      "label_vi": "XẤU — Một câu generic 'お疲れ様'",
+      "display_order": 1,
+      "analysis": {
+        "ja": "全員 generic で個別貢献 invisible。junior は冷たく感じ、次のお願い時に loyalty drift。",
+        "vi": "Một câu chung làm contribution cá nhân invisible. Junior thấy lạnh nhạt, lần sau nhờ thì loyalty drift."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_39_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 3 締結! 大垣様 + ハー CTO に感謝! みなさんお疲れ様でした!",
+          "sentence_translation": "Ký Phase 3 rồi! Cảm ơn anh Ōgaki + anh Hà CTO! Mọi người làm việc vất vả!",
+          "tone": "cheerful"
+        },
+        {
+          "line_id": "rule_39_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(1 ヶ月後、Phase 4 提案準備) リン、Phase 4 deck をお願い。",
+          "sentence_translation": "(1 tháng sau, chuẩn bị đề xuất Phase 4) Linh, làm deck Phase 4 giúp anh.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_39_bad_03",
+          "speaker": "linh",
+          "speaker_role": "マーケティング部インターン",
+          "gender": "female",
+          "sentence": "ズン先輩、私は今 別案件で…",
+          "sentence_translation": "Anh Dũng, em đang bận việc khác ạ...",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — chain 全員 + junior specific",
+      "label_vi": "TỐT — Cả chain + junior specific",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_39_good_01",
+          "highlight_text": "Senior 6 名、 junior 4 名分で個別 specific",
+          "ja": "Senior + junior 別々 list。junior thank の方が specific 必要で時間 budget 別。",
+          "vi": "Senior + junior tách list. Thank junior cần specific nhiều hơn — phải dành budget thời gian riêng."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_39_good_02",
+          "highlight_text": "Tanaka 様には毎週の細やかな進捗確認",
+          "ja": "各人 specific contribution を言及。「お疲れ様」 generic は NG。",
+          "vi": "Specific contribution từng người. 'お疲れ様' chung chung là KHÔNG OK."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_39_good_03",
+          "highlight_text": "5/13-14 で 2 晩 overtime 対応してくれた件",
+          "ja": "Junior の actual effort detail を覚えていることが投資 signal。",
+          "vi": "Nhớ detail effort thực tế của junior là signal 'có đầu tư'."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_39_good_05",
+          "highlight_text": "indemnity 上限の取締役会規定確認",
+          "ja": "Support function (経理、法務) は契約 dispute で会社を救うが見えにくい。specific に救助 contribution を言及。",
+          "vi": "Support function (kế toán, legal) cứu công ty trong dispute nhưng vô hình. Cần nhắc specific 'đã cứu' chỗ nào."
+        },
+        {
+          "id": "5",
+          "applies_to_line": "rule_39_good_07",
+          "highlight_text": "個別感謝 DM 済",
+          "ja": "個別 DM 後に general post の順序。逆だと junior は「全体 post で済まされた」感。",
+          "vi": "DM riêng trước, post chung sau. Ngược lại junior thấy 'bị lùa vào post chung'."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_39_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、Phase 3 関係者感謝メールを書きます。Senior 6 名、 junior 4 名分で個別 specific にします。レビューお願いします。",
+          "sentence_translation": "Chị Hương, em viết mail cảm ơn stakeholders Phase 3. 6 senior + 4 junior em viết riêng specific. Phiền chị review ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_39_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "大垣様、Tanaka 様、Nakamura 様 — Phase 3 締結に至りましたこと、皆様のお力添えあってこそでございます。Tanaka 様には毎週の細やかな進捗確認、Nakamura 様には financial review でのご厳格なご指摘、改めて感謝申し上げます。",
+          "sentence_translation": "Anh Ōgaki, anh Tanaka, anh Nakamura — việc ký Phase 3 thực sự nhờ sự giúp đỡ của các anh. Anh Tanaka kiểm tra tiến độ tỉ mỉ hàng tuần, anh Nakamura chỉ ra điểm chặt trong financial review — em xin gửi lời cảm ơn ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_39_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "リン、Phase 3 PR の件 ありがとう! 特に embargo 5/15 09:00 に間に合わせるため 5/13-14 で 2 晩 overtime 対応してくれた件、本当に助かった。両社 release が同時刻 timing に成功したのは Linh の effort 直接的に。Phase 4 でも力借りたい。",
+          "sentence_translation": "Linh, cảm ơn em vụ PR Phase 3! Đặc biệt vụ em làm overtime 2 đêm 13-14/5 để kịp embargo 09:00 ngày 15/5 — anh thực sự cảm ơn. Việc release đồng thời 2 bên thành công là nhờ effort trực tiếp của Linh. Phase 4 anh cũng muốn nhờ em.",
+          "tone": "warm",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_39_good_04",
+          "speaker": "linh",
+          "speaker_role": "マーケティング部インターン",
+          "gender": "female",
+          "sentence": "ズン先輩、覚えていてくださってありがとうございます…! 嬉しいです。Phase 4 もぜひ呼んでください。",
+          "sentence_translation": "Anh Dũng, cảm ơn anh đã nhớ ạ...! Em vui ạ. Phase 4 anh nhớ gọi em nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_39_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ロアンさん、Phase 3 経理レビューありがとうございました。特に LOI 段階での税抜表記指摘、indemnity 上限の取締役会規定確認、契約の死角 を全部 catch していただきました。ロアンさんなしでは ¥17M 救えませんでした。",
+          "sentence_translation": "Chị Loan, cảm ơn chị đã review kế toán Phase 3. Đặc biệt việc chị chỉ ra 'ghi rõ chưa thuế' ở giai đoạn LOI, kiểm tra quy định HĐQT về cap indemnity — chị bắt được hết các điểm mù của hợp đồng. Không có chị thì không cứu được ¥17M.",
+          "tone": "formal",
+          "annotation_ids": ["4"]
+        },
+        {
+          "line_id": "rule_39_good_06",
+          "speaker": "loan_keiri",
+          "speaker_role": "経理部長",
+          "gender": "female",
+          "sentence": "ズンさん、ご丁寧に。指摘した分 役立ったと知れて嬉しいです。次の case でも遠慮なく。",
+          "sentence_translation": "Anh Dũng, em viết kỹ quá. Chị vui khi biết những chỗ chị chỉ ra hữu ích. Lần sau cứ gọi không ngại.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_39_good_07",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 3 締結! 関係者全員に個別感謝 DM 済。Tuấn、ハー CTO、フオン副部長、リン、ロアン、田中様、大垣様、Nakamura 様 — ありがとうございました。",
+          "sentence_translation": "Ký Phase 3 rồi! Em đã DM cảm ơn riêng từng stakeholder. Anh Tuấn, anh Hà CTO, chị Hương, Linh, chị Loan, anh Tanaka, anh Ōgaki, anh Nakamura — em xin cảm ơn.",
+          "tone": "warm",
+          "annotation_ids": ["5"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_39_kp_01",
+      "speaker": "zun",
+      "sentence": "皆様のお力添えあってこそでございます。",
+      "sentence_translation": "Thực sự nhờ sự giúp đỡ của các anh ạ.",
+      "purpose": "Stakeholder formal opener",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_39_kp_02",
+      "speaker": "zun",
+      "sentence": "覚えていてくださってありがとうございます。",
+      "sentence_translation": "Cảm ơn anh đã nhớ ạ.",
+      "purpose": "Junior が specific 感謝に reply する pattern",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_39_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "junior staff への感謝として最も loyalty を高めるのは？",
+      "options": [
+        "全社 Slack で「みんなお疲れ様」",
+        "個別 DM で specific contribution (例: 「embargo 間に合わせの 2 晩 overtime」) に言及",
+        "ボーナスを出す",
+        "上司から代わりに伝える"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "junior は effort detail を覚えられていることに価値を感じる。generic は未投資 signal。",
+        "vi": "Junior thấy giá trị khi effort detail được nhớ. Chung chung = signal 'không đầu tư'."
+      }
+    }
+  ]
+}

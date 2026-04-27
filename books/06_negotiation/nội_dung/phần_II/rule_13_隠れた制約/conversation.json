@@ -1,0 +1,188 @@
+{
+  "rule_id": "rule_13",
+  "rule_slug": "隠れた制約の傾聴",
+  "title": {
+    "ja": "隠れた制約の傾聴",
+    "vi": "Listen for hidden constraints"
+  },
+  "rule_context": {
+    "ja": "Discovery で大垣の「ちょっと…」signal を捕捉し、IT 部門長の懸念を炙り出して solution に変換する場面。",
+    "vi": "Trong discovery, bắt signal 'ちょっと' của Ōgaki, đào constraint của IT lead và chuyển thành solution."
+  },
+  "related_rules": ["rule_03", "rule_12", "rule_14"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 信号無視",
+      "label_vi": "XẤU — Bỏ qua signal",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「ちょっと社内で議論」を聞き流して schedule を確定。3週後に稟議停止が発覚する典型パターン。",
+        "vi": "Bỏ qua 'ちょっと社内で議論' rồi chốt schedule. 3 tuần sau phát hiện ringi đứng — pattern điển hình."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_13_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "7 月末ローンチが理想ですが…ちょっと社内で議論があって…",
+          "sentence_translation": "Lý tưởng là launch cuối tháng 7, nhưng... hơi đang có thảo luận nội bộ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_13_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "では 7 月末ローンチでスケジュール組みます。",
+          "sentence_translation": "Vậy em lên schedule launch cuối tháng 7 ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_13_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "あ、はい…",
+          "sentence_translation": "À, vâng ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_13_bad_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "(3週間後 Slack) すみません、稟議が止まっており…",
+          "sentence_translation": "(3 tuần sau qua Slack) Xin lỗi, ringi đang dừng...",
+          "tone": "apologetic"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 信号catch+solution転換",
+      "label_vi": "TỐT — Bắt signal + chuyển thành solution",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_13_good_02",
+          "highlight_text": "もう少し詳しくお聞かせいただけますでしょうか",
+          "ja": "open-ended で詰問 tone を回避。「タイミングや調整事項に影響しそうでしたら」と理由を添えると相手が話しやすい。",
+          "vi": "Open-ended, tránh tone tra hỏi. Thêm 'nếu ảnh hưởng đến timeline...' giúp khách dễ chia sẻ."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_13_good_04",
+          "highlight_text": "具体的にどのあたりでしょうか",
+          "ja": "operational levelに掘り下げる。「what/where」型は心理的負担が低い。",
+          "vi": "Đào xuống operational level. Câu 'cái gì/ở đâu' tạo áp lực tâm lý thấp."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_13_good_06",
+          "highlight_text": "白鷗様 IT 部門長様向けに security PoC + AI explainability の brief",
+          "ja": "constraint をsolutionに変換。これが discovery → value-add の本質。",
+          "vi": "Biến constraint thành solution. Đây là bản chất discovery → value-add."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_13_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "7 月末ローンチが理想ですが…ちょっと社内で議論があって…",
+          "sentence_translation": "Lý tưởng là launch cuối tháng 7, nhưng... hơi đang có thảo luận nội bộ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_13_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "「社内で議論」とのこと、もう少し詳しくお聞かせいただけますでしょうか？タイミングや調整事項に影響しそうでしたら、こちらでも対応を検討したいので。",
+          "sentence_translation": "Anh có nhắc 'thảo luận nội bộ', em xin phép được nghe kỹ hơn ạ. Nếu có ảnh hưởng tới timing / điều chỉnh thì bên em cũng muốn tìm hướng xử lý ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_13_good_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "実は IT 部門長が AI レコメンドの導入リスクを慎重に見ていまして…7 月末は厳しいかもしれません。",
+          "sentence_translation": "Thật ra trưởng phòng IT đang xem rất thận trọng risk khi triển khai AI recommend... cuối tháng 7 có thể khó.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_13_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "承知しました。IT 部門長様のご懸念点、具体的にどのあたりでしょうか？こちらで white paper や PoC データをご用意できれば稟議の助けになるかと思います。",
+          "sentence_translation": "Em rõ ạ. Cụ thể IT lead lo điểm nào ạ? Bên em có thể chuẩn bị white paper hoặc PoC data, có thể hỗ trợ cho ringi ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_13_good_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "データ漏洩リスクとモデル説明可能性。御社で説明できる資料があれば助かります。",
+          "sentence_translation": "Risk rò rỉ data và khả năng giải thích model. Nếu bên em có tài liệu giải thích được thì rất giúp.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_13_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "白鷗様 IT 部門長様向けに security PoC + AI explainability の brief を 1 週間以内に。それに合わせて Timeline は 7 月末→ 8 月中旬に余裕を持たせる案も併せてご提案します。",
+          "sentence_translation": "Em sẽ chuẩn bị security PoC + brief AI explainability cho trưởng phòng IT bên Hakuō trong 1 tuần. Đồng thời em đề xuất nới timeline cuối tháng 7 → giữa tháng 8 cho dư địa ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_13_kp_01",
+      "speaker": "zun",
+      "sentence": "もう少し詳しくお聞かせいただけますでしょうか？",
+      "sentence_translation": "Em xin phép được nghe kỹ hơn ạ?",
+      "purpose": "隠れ制約の掘り下げ open question",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_13_kp_02",
+      "speaker": "zun",
+      "sentence": "ご懸念点、具体的にどのあたりでしょうか？",
+      "sentence_translation": "Cụ thể anh lo điểm nào ạ?",
+      "purpose": "operational掘り下げ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_13_bjt_01",
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "「ちょっと社内で議論があって…」と言う相手に最も適切な対応は？",
+      "options": [
+        "「では予定通り進めましょう」とそのまま流す",
+        "「もう少し詳しくお聞かせいただけますでしょうか」と open-end で掘る",
+        "「なんで議論があるんですか？」と詰問する",
+        "「社内のことは関係ないので結論だけください」と切る"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "日本の顧客は直接言わず signal で示す。聞き流すと後で稟議停止に陥る。詰問tone も close downさせる。",
+        "vi": "Khách Nhật không nói thẳng, dùng signal. Bỏ qua = sau bị ringi đứng. Tone tra hỏi cũng làm khách đóng cửa."
+      }
+    }
+  ]
+}

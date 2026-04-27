@@ -1,0 +1,220 @@
+{
+  "rule_id": "rule_08",
+  "rule_slug": "お出迎え",
+  "title": {
+    "ja": "お出迎え",
+    "vi": "Đón khách tại lobby"
+  },
+  "rule_context": {
+    "ja": "9:30到着予定の白鷗3名を、ティエンファットHCMC本社ロビーで5分前から待機して迎える場面。",
+    "vi": "Đón đoàn 白鷗 3 người dự kiến 9:30 tại lobby trụ sở Tiên Phát HCMC, chờ từ 5 phút trước."
+  },
+  "related_rules": [
+    "rule_09",
+    "rule_13",
+    "rule_17"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 定刻+スマホ凝視+受付未briefing",
+      "label_vi": "XẤU — đúng giờ + xem phone + lễ tân chưa briefing",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①定刻到着=遅刻扱い ②電話通話/スマホで注意散漫 ③受付ブリーフィング無で客が自己紹介する羽目に。3点減点。",
+        "vi": "(1) Đúng giờ = muộn. (2) Phone phân tâm. (3) Lễ tân chưa briefing nên khách phải tự giới thiệu lại. 3 điểm trừ."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_08_bad_01",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "あ、あの、もしもし、後でかけ直す…",
+          "sentence_translation": "À, alo, em gọi lại sau...",
+          "tone": "nervous",
+          "speed_multiplier": 1.1
+        },
+        {
+          "line_id": "rule_08_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あっ！大垣さん！すみません！",
+          "sentence_translation": "Ơ! Anh Ōgaki! Em xin lỗi!",
+          "tone": "apologetic",
+          "speed_multiplier": 1.1
+        },
+        {
+          "line_id": "rule_08_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "…大垣でございます。ティエンファットさん、ですよね？",
+          "sentence_translation": "...Tôi là Ōgaki. Bên Tiên Phát phải không nhỉ?",
+          "tone": "neutral",
+          "pause_after_ms": 600
+        },
+        {
+          "line_id": "rule_08_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "大変お待たせいたしました…",
+          "sentence_translation": "Vô cùng xin lỗi đã để các anh chờ lâu...",
+          "tone": "apologetic"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 5分前+受付briefing+即お辞儀",
+      "label_vi": "TỐT — trước 5 phút + briefing lễ tân + bow ngay",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_08_good_01",
+          "highlight_text": "白鷗株式会社の大垣様ご一行 3名、9:30 ご到着予定",
+          "ja": "受付には会社名+人数+時刻を必ず伝える。客が自己紹介し直す事態を防ぐ。",
+          "vi": "Briefing lễ tân: tên cty + số người + giờ. Tránh việc khách phải tự giới thiệu lại."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_08_good_01",
+          "highlight_text": "すぐ私の内線へ",
+          "ja": "受付→社内即連絡経路を明確化。upstairs にいても30秒で降りられる。",
+          "vi": "Đường truyền tin lễ tân→nội bộ rõ ràng. Đang ở tầng trên cũng xuống được trong 30 giây."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_08_good_05",
+          "highlight_text": "ようこそお越しくださいました",
+          "ja": "ビジネス来客の固定句。「いらっしゃいませ」は接客業向けで来客には不適。",
+          "vi": "Câu cố định đón khách business. 「いらっしゃいませ」là retail, không hợp với business guest."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_08_good_07",
+          "highlight_text": "ご案内いたします",
+          "ja": "お辞儀後30秒以内に会議室案内へ移行。ロビーで長居させない。",
+          "vi": "Sau bow chuyển sang dẫn vào phòng họp trong 30 giây. Không để khách đứng lobby lâu."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_08_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "白鷗株式会社の大垣様ご一行 3名、9:30 ご到着予定。お見えになりましたら すぐ私の内線へお願いいたします。",
+          "sentence_translation": "Đoàn anh Ōgaki Cty 白鷗 3 người, dự kiến đến 9:30. Khi các anh ấy đến mong chị gọi nội tuyến em ngay ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_08_good_02",
+          "speaker": "reception_hakuo",
+          "speaker_role": "受付 (白鷗株式会社)",
+          "gender": "female",
+          "sentence": "承知いたしました。お見えになり次第、ご連絡いたします。",
+          "sentence_translation": "Em rõ ạ. Các anh đến em sẽ liên lạc ngay.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_08_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（9:27 ロビーで起立待機、スマホOFF）",
+          "sentence_translation": "(9:27 đứng đợi tại lobby, phone OFF)",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_08_good_04",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "（9:30 ご一行3名入口に、ズンに目配せ）",
+          "sentence_translation": "(9:30 đoàn 3 người tới cửa, ra hiệu mắt với Dũng)",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_08_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "大垣様、本日はようこそお越しくださいました。ティエンファットのズンとリンでございます。",
+          "sentence_translation": "Anh Ōgaki, hân hạnh được đón anh hôm nay ạ. Em là Dũng và Linh bên Cty Tiên Phát.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_08_good_06",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "お世話になります。",
+          "sentence_translation": "Cảm ơn anh.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_08_good_07",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "会議室は3階でございます。ご案内いたします。",
+          "sentence_translation": "Phòng họp ở tầng 3 ạ. Em xin phép dẫn các anh lên.",
+          "tone": "formal",
+          "annotation_ids": [
+            "4"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_08_kp_01",
+      "speaker": "zun",
+      "sentence": "本日はようこそお越しくださいました。",
+      "sentence_translation": "Hân hạnh được đón anh/chị hôm nay ạ.",
+      "purpose": "来客お出迎え固定句",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_08_kp_02",
+      "speaker": "zun",
+      "sentence": "会議室は3階でございます。ご案内いたします。",
+      "sentence_translation": "Phòng họp ở tầng 3 ạ. Em xin phép dẫn các anh lên.",
+      "purpose": "会議室への案内移行",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_08_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "9:30 来客予定の場合、最も適切なロビー待機開始時刻は？",
+      "options": [
+        "9:30 ちょうど",
+        "9:25 (5分前)",
+        "9:35 (5分遅れで十分)",
+        "9:00 (30分前)"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "5分前ロビー待機が標準。定刻=遅刻扱い。",
+        "vi": "Tiêu chuẩn 5 phút trước. Đúng giờ = muộn."
+      }
+    }
+  ]
+}

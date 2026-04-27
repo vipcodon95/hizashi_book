@@ -1,0 +1,354 @@
+{
+  "rule_id": "08-21",
+  "rule_slug": "北海道",
+  "title": {
+    "vi": "Hokkaido — biển + sữa + tuyết",
+    "ja": "北海道"
+  },
+  "regional_focus": "Hokkaido (Sapporo / Hakodate / Otaru / Furano)",
+  "rule_context": {
+    "luan_diem_vi": "Khách Hokkaido = niềm tự hào về 海鮮, 札幌ラーメン, 雪まつり, 日本ハムファイターズ. KHÔNG gộp Hokkaido vào 東北.",
+    "luan_diem_ja": "北海道のお客様には海鮮・札幌ラーメン・雪まつり・ファイターズが金。東北と一括りはNG。",
+    "boi_canh_vi": "Tháng 5/2026, Dũng + Hương offsite Sapporo 2 ngày với Nakamura CFO. Tour Otaru → dinner ramen → sáng chợ Nijo.",
+    "boi_canh_ja": "2026年5月、ズンとフオンが札幌オフサイト2日間、中村CFOと小樽ツアー・ラーメン横丁・二条市場海鮮丼。",
+    "muc_tieu_vi": "Mở topic depth về Hokkaido — phân biệt đặc trưng từng thành phố."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "10",
+      "topic": "Quê quán đào sâu"
+    },
+    {
+      "book": "08",
+      "rule": "11",
+      "topic": "Món địa phương"
+    },
+    {
+      "book": "08",
+      "rule": "33",
+      "topic": "Memory bank"
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "Taxi sân bay Haneda — chuẩn bị trước khi đến Hokkaido",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "中村CFO、いよいよ明日札幌ですね。私、北海道は初めてなので楽しみで…",
+          "vi": "Anh Nakamura, mai đến Sapporo rồi. Em lần đầu đến Hokkaido nên háo hức quá."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "お、初めて?それは羨ましいなあ。ちょうど今、ライラックが咲き始める頃でね。札幌の5月は一番気持ちいい季節ですよ。",
+          "vi": "Ồ, lần đầu hả? Ghen tị đó. Đúng lúc lilac bắt đầu nở. Tháng 5 Sapporo là mùa đẹp nhất."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ライラック、北海道の花ですよね。大通公園で咲くと聞きました。",
+          "vi": "Lilac, hoa biểu tượng Hokkaido nhỉ. Em nghe nở ở công viên Ōdōri."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "よく知ってるね!ライラックまつりも今週末ですよ。ジンギスカンは食べたことある?",
+          "vi": "Em biết rõ ghê! Lễ hội lilac cũng cuối tuần này. Đã ăn Genghis Khan (BBQ cừu) bao giờ chưa?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "まだないんです。ぜひ本場で…!",
+          "vi": "Chưa ạ. Mong được ăn ở nguyên bản!"
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "じゃあ初日の夜は『だるま』に予約しよう。創業60年の名店だよ。",
+          "vi": "Vậy tối đầu tiên đặt 'Daruma'. Quán 60 năm tuổi nổi tiếng."
+        }
+      ]
+    },
+    {
+      "scenario": "Tại 札幌ラーメン横丁 — depth về 3 loại ramen",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "ズンさん、札幌ラーメンといえば味噌が王道だけど、今日は白樺山荘にしよう。30年通ってる店です。",
+          "vi": "Em à, ramen Sapporo thì miso là vua. Hôm nay đến Shirakaba-Sansō, tôi đi 30 năm rồi."
+        },
+        {
+          "speaker": "zun",
+          "ja": "味噌ラーメン、楽しみです。トッピングは何がおすすめですか?",
+          "vi": "Em mong ramen miso lắm. Topping anh gợi ý gì ạ?"
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "やっぱりコーン+バターだね。それと、スープが冷めないようラードを浮かせるのが札幌流。寒い土地ならではの工夫ですよ。",
+          "vi": "Phải có ngô + bơ. Và mỡ heo nổi trên mặt để súp không nguội — kiểu Sapporo. Sáng tạo vùng lạnh."
+        },
+        {
+          "speaker": "zun",
+          "ja": "なるほど…文化と料理が結びついてるんですね。あの、旭川の醤油、函館の塩、札幌の味噌って『北海道3大ラーメン』って聞きました。",
+          "vi": "Ra vậy... văn hóa gắn với ẩm thực. Em nghe nói Asahikawa shoyu, Hakodate shio, Sapporo miso là '3 ramen lớn Hokkaido'."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "よく勉強してるね!次回は函館も連れて行ってあげるよ。朝市の海鮮丼は人生で一度は食べておきな。",
+          "vi": "Em chuẩn bị kỹ ghê! Lần sau tôi dẫn đến Hakodate. Cơm hải sản chợ sáng đáng ăn một lần trong đời."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ぜひ!カニとイクラの夢を見ながら今夜寝ます(笑)",
+          "vi": "Vâng ạ! Tối nay em sẽ mơ về cua và trứng cá hồi (cười)."
+        }
+      ]
+    },
+    {
+      "scenario": "Sáng chợ Nijo — Fighters + uni",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "すごい、ウニとイクラがこんなに山盛りで…日本ハムファイターズの帽子の方も多いですね。",
+          "vi": "Wow, uni và ikura đầy cả... Có nhiều người đội mũ Fighters quá."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "お、気付いた?ファイターズは北海道の誇りだからね。新庄監督の頃から地元との繋がりがすごく強いんですよ。",
+          "vi": "Ồ, em nhận ra à? Fighters là niềm tự hào Hokkaido. Từ thời HLV Shinjō đến giờ, liên kết với địa phương rất mạnh."
+        },
+        {
+          "speaker": "zun",
+          "ja": "エスコンフィールドの新球場、TVで見ました。あれ、世界最先端ですよね?",
+          "vi": "Sân Escon Field mới em xem TV. Đó là đỉnh cao thế giới đúng không ạ?"
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "そうそう、北広島市にね。試合がない日でも観光客が来るくらい。今度ぜひ。ウニは今日が一番美味しい時期、ムラサキウニを選ぶといいよ。",
+          "vi": "Đúng rồi, ở Kitahiroshima. Ngay cả ngày không thi đấu khách du lịch vẫn đến. Lần sau đi nhé. Uni hôm nay đang ngon nhất, chọn Murasaki uni."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ムラサキウニとバフンウニの違い、初めて知りました。",
+          "vi": "Murasaki và Bafun uni khác nhau, em mới biết."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "バフンは濃厚、ムラサキはあっさり。今日のはムラサキ。次は積丹でバフン食べに行こう。",
+          "vi": "Bafun đậm vị, Murasaki thanh. Hôm nay Murasaki. Lần sau đi Shakotan ăn Bafun."
+        }
+      ]
+    },
+    {
+      "scenario": "VÙNG CẨN THẬN — nhầm Hokkaido với Tohoku",
+      "type": "bad",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "中村CFO、東北の方って雪が多くて大変ですよね…",
+          "vi": "[NG] Anh Nakamura, người Tohoku tuyết nhiều vất vả nhỉ..."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "あ、ズンさん…北海道は東北じゃないんですよ。本州ですらない、別の島です(苦笑)",
+          "vi": "À Dũng... Hokkaido không phải Tohoku đâu. Còn không phải đảo Honshu, đảo riêng (cười khổ)."
+        },
+        {
+          "speaker": "zun",
+          "ja": "すみません!北海道と東北、つい…",
+          "vi": "Em xin lỗi! Em vô tình gộp Hokkaido với Tohoku..."
+        }
+      ],
+      "why_bad": "Gộp Hokkaido với Tohoku = sai vùng nghiêm trọng. Hokkaido là đảo riêng (北の大地), văn hóa và lịch sử khác. Phải hỏi cụ thể tỉnh."
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "Mở topic",
+      "ja": "中村さんは札幌のご出身でしたね。ライラック、もうご覧になりましたか?",
+      "vi": "Anh Nakamura quê Sapporo nhỉ. Lilac đã ngắm chưa ạ?",
+      "use": "Pattern: tỉnh + đặc trưng mùa"
+    },
+    {
+      "category": "Mở topic",
+      "ja": "北海道、5月のライラックが綺麗だと聞きました。",
+      "vi": "Em nghe nói tháng 5 lilac Hokkaido đẹp lắm.",
+      "use": "Mở chuyện thời tiết + hoa"
+    },
+    {
+      "category": "Ẩm thực",
+      "ja": "札幌の味噌ラーメン、本場で食べてみたいです!",
+      "vi": "Em muốn ăn ramen miso Sapporo nguyên bản!",
+      "use": "Khen ramen vùng đặc thù"
+    },
+    {
+      "category": "Ẩm thực",
+      "ja": "ウニはやっぱり北海道のがダントツですね。",
+      "vi": "Uni thì Hokkaido vẫn xuất sắc nhất.",
+      "use": "Khen hải sản"
+    },
+    {
+      "category": "Sport",
+      "ja": "ファイターズ、新球場で雰囲気変わりましたか?",
+      "vi": "Fighters ở sân mới không khí khác chưa anh?",
+      "use": "Update topic Escon Field"
+    },
+    {
+      "category": "Sport",
+      "ja": "新庄監督の采配、面白いですよね。",
+      "vi": "Cách dùng cầu thủ của HLV Shinjō hay nhỉ.",
+      "use": "Specific HLV nổi tiếng"
+    },
+    {
+      "category": "Festival",
+      "ja": "2月の雪まつり、いつかは行きたいです。",
+      "vi": "Lễ hội tuyết tháng 2, em muốn đi một lần.",
+      "use": "Lễ hội biểu tượng"
+    }
+  ],
+  "regional_cheatsheet": {
+    "ken_capital": "札幌市",
+    "specialty_food": [
+      "海鮮丼 (ウニ/イクラ/カニ)",
+      "札幌味噌ラーメン",
+      "旭川醤油ラーメン",
+      "函館塩ラーメン",
+      "ジンギスカン",
+      "スープカレー",
+      "夕張メロン",
+      "ホタテ"
+    ],
+    "drinks": [
+      "サッポロビール",
+      "ニッカウヰスキー余市"
+    ],
+    "sport_teams": [
+      "北海道日本ハムファイターズ (NPB)",
+      "コンサドーレ札幌 (Jリーグ)",
+      "レバンガ北海道 (Bリーグ)"
+    ],
+    "stadium": "エスコンフィールドHOKKAIDO (北広島市, 2023〜)",
+    "festivals": [
+      "さっぽろ雪まつり (2月)",
+      "YOSAKOIソーラン祭り (6月)",
+      "ライラックまつり (5月)",
+      "函館港まつり (8月)"
+    ],
+    "tourism": [
+      "函館夜景",
+      "小樽運河",
+      "富良野ラベンダー",
+      "美瑛",
+      "知床 (UNESCO)",
+      "摩周湖",
+      "登別温泉",
+      "ニセコ"
+    ],
+    "dialect": "北海道弁: なまら(=とても), したっけ(=じゃあね)",
+    "famous_people": [
+      "新庄剛志",
+      "大泉洋"
+    ]
+  },
+  "ng_list": [
+    "Gộp 北海道 với 東北 — sai vùng nghiêm trọng",
+    "「寒くて大変ですね」 kiểu thương hại — Hokkaido tự hào về tuyết",
+    "Nhầm 札幌味噌 với 博多豚骨",
+    "Hỏi 'アイヌ' không cẩn thận — topic nhạy cảm",
+    "「北海道のお寿司は江戸前」 — SAI, 江戸前 = Tokyo"
+  ],
+  "vocab": [
+    {
+      "kanji": "海鮮丼",
+      "yomi": "かいせんどん",
+      "vi": "Cơm hải sản tươi"
+    },
+    {
+      "kanji": "ジンギスカン",
+      "yomi": "じんぎすかん",
+      "vi": "BBQ cừu Hokkaido"
+    },
+    {
+      "kanji": "雪まつり",
+      "yomi": "ゆきまつり",
+      "vi": "Lễ hội tuyết"
+    },
+    {
+      "kanji": "ライラック",
+      "yomi": "らいらっく",
+      "vi": "Hoa lilac"
+    },
+    {
+      "kanji": "富良野",
+      "yomi": "ふらの",
+      "vi": "Furano lavender"
+    },
+    {
+      "kanji": "函館夜景",
+      "yomi": "はこだてやけい",
+      "vi": "Cảnh đêm Hakodate"
+    },
+    {
+      "kanji": "大通公園",
+      "yomi": "おおどおりこうえん",
+      "vi": "CV Ōdōri Sapporo"
+    },
+    {
+      "kanji": "積丹",
+      "yomi": "しゃこたん",
+      "vi": "Shakotan peninsula"
+    },
+    {
+      "kanji": "なまら",
+      "yomi": "なまら",
+      "vi": "Cực kỳ (Hokkaido-ben)"
+    },
+    {
+      "kanji": "知床",
+      "yomi": "しれとこ",
+      "vi": "Shiretoko UNESCO"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "中村CFO(札幌出身)に5月の雑談で最も適切な話題は?",
+      "options": [
+        "A. ライラックの開花",
+        "B. 雪まつりの混雑",
+        "C. 紅葉の見頃",
+        "D. 桜の開花(本州基準)"
+      ],
+      "answer": "A",
+      "explain_vi": "Tháng 5 Hokkaido = mùa lilac. 雪まつり tháng 2, 紅葉 tháng 10, 桜 tháng 5 (chậm hơn Tokyo)."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「北海道は東北とは違うんですよ」というお客様の反応の意図は?",
+      "options": [
+        "A. 北海道と東北を一括りにされたことに対する軽い訂正",
+        "B. 東北を見下している",
+        "C. 雑談を終わらせたい",
+        "D. 単なる地理説明"
+      ],
+      "answer": "A",
+      "explain_vi": "Người Hokkaido tự hào riêng biệt với Tohoku. 'は違うんですよ' = nhẹ nhàng đính chính."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "「なまら美味しい」と言われた場合、意味は?",
+      "options": [
+        "A. 全然美味しくない",
+        "B. 普通",
+        "C. とても美味しい(北海道弁)",
+        "D. 生っぽい"
+      ],
+      "answer": "C",
+      "explain_vi": "「なまら」 = \"とても\" trong Hokkaido-ben. Bắt được = bonus điểm thân mật."
+    }
+  ],
+  "templates": []
+}

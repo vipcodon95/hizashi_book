@@ -1,0 +1,162 @@
+{
+  "rule_id": "rule_03",
+  "rule_slug": "ストーリーアーク",
+  "title": {
+    "ja": "ストーリーアーク (SCQA)",
+    "vi": "Đường mạch câu chuyện (SCQA)"
+  },
+  "rule_context": {
+    "ja": "ズンが Phase 3 プレゼンの順番を組み直す場面。最初は『弊社の強み→提案』の vendor-first 順 → SCQA 順に並べ替える。",
+    "vi": "Dũng tổ chức lại order các slide pitch Phase 3. Ban đầu là kiểu vendor-first (弊社の強み trước) → đổi sang SCQA flow."
+  },
+  "related_rules": ["rule_02", "rule_10", "rule_11"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 自社強みから始める",
+      "label_vi": "XẤU — Mở đầu bằng vendor strengths",
+      "display_order": 1,
+      "analysis": {
+        "ja": "自社の強みから入ると聴衆は『他人の話』として聞く。日本顧客は特にハードセル冒頭を嫌う。",
+        "vi": "Vendor-first khiến khán giả nghe như 「chuyện người khác」. Khách Nhật cực kỳ dị ứng hard-sell mở đầu."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_03_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "最初に弊社の強み3点をご紹介します。次にPhase 3 提案、最後に価格…",
+          "sentence_translation": "Đầu tiên em xin giới thiệu 3 điểm mạnh bên Thiên Phát. Tiếp đến là đề xuất Phase 3, cuối cùng là giá...",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_03_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ストップ。自社の強みから入る？それ vendor-first 順。聴衆は『で、何の話？』ってなる。",
+          "sentence_translation": "Stop. Mở đầu bằng điểm mạnh mình? Đó là kiểu vendor-first. Khán giả sẽ nghĩ 「rồi sao, chuyện gì đây?」 đấy.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_03_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ…じゃあどう並べれば…",
+          "sentence_translation": "À... vậy phải sắp xếp thế nào ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_03_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "SCQA。①共通認識: 白鷗様は在庫差異5%で困ってる、②問題: Phase 2 で部分改善したが…、③問い: 残り課題は？、④答え: Phase 3。自社の話は最後。",
+          "sentence_translation": "SCQA. ① Nhận thức chung: bên Hakuō đang khó với sai lệch tồn kho 5%. ② Vấn đề: Phase 2 cải thiện một phần nhưng... ③ Câu hỏi: phần còn lại giải thế nào? ④ Đáp án: Phase 3. Vendor talk để cuối.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — SCQAで組み直す",
+      "label_vi": "TỐT — Reorder theo SCQA",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_03_good_01",
+          "highlight_text": "SCQAで行きます",
+          "ja": "Situation→Complication→Question→Answer。Mintoピラミッドのプレゼン版。",
+          "vi": "Situation→Complication→Question→Answer. Phiên bản Minto Pyramid cho pitch."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_03_good_02",
+          "highlight_text": "再発を素直に書いたのも良い",
+          "ja": "Phase 2 の不完全さを隠さない。日本ビジネスでは正直さが信頼を生む。",
+          "vi": "Không che giấu yếu kém của Phase 2. Trung thực = lấy được lòng tin trong JP business."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_03_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "組み直しました。SCQAで行きます。Slide1: 白鷗様の在庫差異5%という現状(S)。Slide2: Phase 2 で1.8%まで改善したが、季節商品で再発(C)。Slide3: 残課題をどう解決するか(Q)。Slide4-9: Phase 3 提案(A)。",
+          "sentence_translation": "Em đã reorder lại ạ. Đi theo SCQA: Slide1: hiện trạng sai lệch tồn kho 5% bên Hakuō (S). Slide2: Phase 2 cải về 1.8% nhưng tái phát ở hàng theo mùa (C). Slide3: phần còn lại giải sao (Q). Slide4-9: đề xuất Phase 3 (A).",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_03_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "いいね、聴衆が自分の話として聞ける。Cで再発を素直に書いたのも良い、隠さない方が信頼される。",
+          "sentence_translation": "Tốt, khán giả sẽ nghe như chuyện của chính họ. Phần C em viết thẳng tái phát cũng ổn, không che giấu thì lấy được lòng tin hơn.",
+          "tone": "warm",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_03_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Aパートが6枚は多いでしょうか？",
+          "sentence_translation": "Phần A 6 slide có nhiều quá không ạ?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_03_good_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "Aは答えだから6枚OK。むしろSCQの導入は3枚に圧縮、Aで6枚使うのが正しいバランス。",
+          "sentence_translation": "A là đáp án nên 6 slide OK. Ngược lại SCQ phần dẫn nén còn 3 slide, dồn 6 slide cho A — đó mới là balance đúng.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_03_kp_01",
+      "speaker": "zun",
+      "sentence": "SCQAの順で組み直しました。",
+      "sentence_translation": "Em đã reorder theo SCQA ạ.",
+      "purpose": "ストーリーアーク報告",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_03_kp_02",
+      "speaker": "zun",
+      "sentence": "現状(S) → 問題(C) → 問い(Q) → 答え(A)で進めます。",
+      "sentence_translation": "Em đi theo flow: hiện trạng (S) → vấn đề (C) → câu hỏi (Q) → đáp án (A) ạ.",
+      "purpose": "プレゼン構造の口頭宣言",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_03_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "SCQA フレームワークで A(Answer) は何を指すか？",
+      "options": [
+        "聴衆と共通の現状認識",
+        "現状からの変化・問題発生",
+        "本日決めたい問い",
+        "提案・解決策"
+      ],
+      "correct": "D",
+      "explanation": {
+        "ja": "S=現状、C=変化(問題)、Q=問い、A=答え(提案)。Aは最後に置く。",
+        "vi": "S=hiện trạng, C=vấn đề, Q=câu hỏi, A=đáp án (đề xuất). A đặt cuối."
+      }
+    }
+  ]
+}

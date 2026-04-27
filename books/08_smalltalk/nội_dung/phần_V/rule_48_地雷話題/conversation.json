@@ -1,0 +1,113 @@
+{
+  "rule_id": "08-48",
+  "rule_slug": "地雷話題",
+  "title": {
+    "vi": "Topic LANDMINE",
+    "ja": "地雷話題"
+  },
+  "rule_context": {
+    "luan_diem_vi": "10 topic LANDMINE — chạm = nổ. Khi khách hỏi, biết né khéo bằng phrase chuẩn. Khi đồng nghiệp VN suýt chạm, rescue ngay.",
+    "luan_diem_ja": "10の地雷話題。客に振られたら定番フレーズで回避、同僚VNが踏みかけたら即rescue。",
+    "boi_canh_vi": "Tham khảo. 1 ví dụ né khi khách Ōgaki test chính trị, 1 ví dụ rescue Hai junior VN suýt hỏi tuổi Yamamoto.",
+    "boi_canh_ja": "参考。1.大垣が政治を試した時の回避、2.ハイが山本に年齢を聞きそうになった時のrescue。",
+    "muc_tieu_vi": "Master 10 LANDMINE + phrase né + rescue đồng nghiệp."
+  },
+  "related_rules": [
+    {"book": "08", "rule": "08", "topic": "8 chủ đề cấm"},
+    {"book": "08", "rule": "47", "topic": "Topic GOLD"},
+    {"book": "08", "rule": "39", "topic": "Lễ hội VN (Tết Mậu Thân né)"}
+  ],
+  "topic_landmine_list": [
+    {"topic": "Tuổi tác phụ nữ", "level": "🟥🟥🟥", "phrase_ne_ja": "個人的なことなのでお伺いするの控えますね", "phrase_ne_vi": "Việc riêng tư nên em xin không hỏi"},
+    {"topic": "Lương / thu nhập", "level": "🟥🟥🟥", "phrase_ne_ja": "そういうの私あんまり詳しくなくて…", "phrase_ne_vi": "Cái đó em không rành lắm..."},
+    {"topic": "Chính trị (TQ-Mỹ-Nhật-VN)", "level": "🟥🟥🟥", "phrase_ne_ja": "私、政治はあまり詳しくないので…", "phrase_ne_vi": "Em không rành chính trị..."},
+    {"topic": "Tôn giáo", "level": "🟥🟥", "phrase_ne_ja": "宗教の話は詳しくないので…", "phrase_ne_vi": "Em không rành tôn giáo..."},
+    {"topic": "Scandal nội bộ JP company", "level": "🟥🟥🟥", "phrase_ne_ja": "(im lặng), 業界のことですか…", "phrase_ne_vi": "(im lặng), Chuyện ngành à..."},
+    {"topic": "Hôn nhân — chưa kết hôn / chưa con", "level": "🟥🟥", "phrase_ne_ja": "[名前]さんは?(đổi topic ngay)", "phrase_ne_vi": "Còn anh? (đổi topic ngay)"},
+    {"topic": "Ngoại tình / hôn nhân không êm", "level": "🟥🟥🟥", "phrase_ne_ja": "(không response), 話変わりますが…", "phrase_ne_vi": "(không trả lời), Đổi chủ đề..."},
+    {"topic": "So sánh VN > JP / JP > VN tiêu cực", "level": "🟥🟥", "phrase_ne_ja": "それぞれ良いところありますよね", "phrase_ne_vi": "Mỗi nơi đều có điểm hay"},
+    {"topic": "Tết Mậu Thân / 30/4 / Pháp thuộc địa", "level": "🟥🟥🟥", "phrase_ne_ja": "歴史は専門家に任せるとして…", "phrase_ne_vi": "Lịch sử để chuyên gia..."},
+    {"topic": "Yakuza / 暴力団 / 同和", "level": "🟥🟥🟥", "phrase_ne_ja": "(không response), 別の話で…", "phrase_ne_vi": "(không trả lời), Chuyện khác..."}
+  ],
+  "conversations": [
+    {
+      "scenario": "Khi khách thử test chính trị TQ — né khéo",
+      "type": "good",
+      "lines": [
+        {"speaker": "oogaki_sales", "ja": "ズン、ベトナムって中国とどう?最近ニュース見てると…", "vi": "Dũng, VN với TQ thì sao? Anh xem tin tức gần đây..."},
+        {"speaker": "zun", "ja": "大垣さん、私、政治はあまり詳しくないので…ベトナムも色んな見方あって、私は普通の市民なので、そこまで…", "vi": "Anh Ōgaki, em không rành chính trị... VN cũng nhiều quan điểm, em chỉ là công dân bình thường nên không sâu được ạ..."},
+        {"speaker": "oogaki_sales", "ja": "あ、悪い悪い、聞き方悪かった。", "vi": "À, anh xin lỗi, hỏi không khéo."},
+        {"speaker": "zun", "ja": "いえいえ、そういえば、大垣さんが以前おっしゃってた阪神の話、今シーズンどうですか?", "vi": "Không sao ạ. Nhân tiện, hôm trước anh có nói về Hanshin, mùa này sao ạ?"},
+        {"speaker": "oogaki_sales", "ja": "あー、阪神な、今年は…", "vi": "À, Hanshin nhỉ, năm nay..."}
+      ]
+    },
+    {
+      "scenario": "Rescue Hai suýt hỏi tuổi Yamamoto",
+      "type": "bad_then_rescue",
+      "lines": [
+        {"speaker": "hai", "ja": "山本さん、女性で活躍されてて素晴らしいですね。おいくつくらいでらっしゃるんですか?", "vi": "Chị Yamamoto, là phụ nữ mà thành công thật hay quá. Chị bao nhiêu tuổi rồi ạ?"},
+        {"speaker": "yamamoto_kansai", "ja": "あー、まあ…(0.5秒freeze + awkward laugh)", "vi": "À... (im 0.5 giây, cười ngại)"},
+        {"speaker": "zun", "ja": "ハイ、ベトナムでは普通の質問だけど、日本では女性に年齢を聞くのは控える文化なんだよ。", "vi": "Hải, ở VN câu này bình thường nhưng ở Nhật văn hóa kiêng hỏi tuổi phụ nữ."},
+        {"speaker": "hai", "ja": "あ、すみません!失礼しました、山本さん…", "vi": "À, em xin lỗi! Em vô lễ ạ, chị Yamamoto..."},
+        {"speaker": "yamamoto_kansai", "ja": "いえいえ、文化の違いですね。ベトナムでは普通なんですか?", "vi": "Không sao, khác văn hóa nhỉ. Ở VN bình thường à?"},
+        {"speaker": "zun", "ja": "ベトナムでは年齢で呼び方が変わる(em / chị / cô)ので、最初に確認することが多いんです。文化の違い、面白いですね。", "vi": "VN cách xưng hô đổi theo tuổi (em / chị / cô) nên thường confirm đầu. Khác văn hóa, thú vị nhỉ."},
+        {"speaker": "yamamoto_kansai", "ja": "へえ、呼び方変わるんですか!?それは知らなかった。", "vi": "Ơ, cách xưng hô đổi à!? Em không biết đó."},
+        {"speaker": "hai", "ja": "これからは気をつけます、ありがとうございます。", "vi": "Em rút kinh nghiệm, cảm ơn ạ."}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"category": "Né chính trị", "ja": "私、政治はあまり詳しくないので…", "vi": "Em không rành chính trị...", "use": "Phrase chuẩn"},
+    {"category": "Né chính trị", "ja": "色んな見方あって、私は普通の市民なので…", "vi": "Nhiều quan điểm, em chỉ là công dân bình thường...", "use": "Layer 2"},
+    {"category": "Né tuổi PN", "ja": "個人的なことなのでお伺いするの控えますね。", "vi": "Việc riêng tư nên em không hỏi.", "use": "Khi mình lỡ định hỏi"},
+    {"category": "Né lương", "ja": "そういうの、私あんまり詳しくなくて…", "vi": "Em không rành cái đó...", "use": "Né nhẹ"},
+    {"category": "Né scandal", "ja": "ニュースで見ましたが、詳しくは…", "vi": "Em xem tin nhưng không rõ...", "use": "Không add gì"},
+    {"category": "Né compare", "ja": "それぞれ良いところありますよね。", "vi": "Mỗi nơi có điểm hay riêng nhỉ.", "use": "Khi bị ép so sánh"},
+    {"category": "Rescue VN", "ja": "[Tên]、ベトナムでは普通だけど、日本では[X]の文化なんだよ。", "vi": "[Tên], VN bình thường nhưng JP văn hóa [X] đó.", "use": "Educate khéo"},
+    {"category": "Bridge", "ja": "そういえば、[Tên]さんが以前おっしゃってた[topic an toàn]…", "vi": "Nhân tiện, hôm trước anh có nói về [topic an toàn]...", "use": "Đổi topic sau LM"},
+    {"category": "Bridge", "ja": "話変わりますが…", "vi": "Đổi chủ đề chút...", "use": "Bridge thẳng"},
+    {"category": "Bridge văn hóa", "ja": "文化の違い、面白いですね。", "vi": "Khác văn hóa, thú vị nhỉ.", "use": "Sau rescue"}
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "お客様が中国に関する政治の話題を振ってきた時、最も適切な回避は?",
+      "options": [
+        "A. 自分の意見をはっきり述べる",
+        "B. 「私、政治はあまり詳しくないので、普通の市民なので…」と回避し、安全な話題にbridge",
+        "C. 「中国は…」と批判する",
+        "D. 「日本も同じです」と話題を相対化"
+      ],
+      "answer": "B",
+      "explain_vi": "Né khéo + bridge an toàn = pro. A nguy hiểm; C nhạy cảm; D có thể xúc phạm khách."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "お客様の表情が0.5秒固まった後の最適な対応は?",
+      "options": [
+        "A. 同じ話題を続ける",
+        "B. 一秒の間を置いた後『話変わりますが…』と即座に話題を変える",
+        "C. 「すみませんでした」と長く謝る",
+        "D. もっと深く掘る"
+      ],
+      "answer": "B",
+      "explain_vi": "Catch freeze = đã chạm LM → đổi topic ngay, không đào sâu hố. A NG; C overdo; D nguy hiểm."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "ベトナム人junior が日本人女性のお客様に年齢を聞いた時、最適なrescueは?",
+      "options": [
+        "A. 公衆の前でjunior を強く叱る",
+        "B. 「ベトナムでは普通だけど、日本では年齢を聞くのは控える文化」とeducate+「呼び方が違う文化の違い」とbridge",
+        "C. 自分も年齢の話題を続ける",
+        "D. 完全に無視する"
+      ],
+      "answer": "B",
+      "explain_vi": "Educate VN khéo + bridge văn hóa = save 3 bên. A xúc phạm junior; C đổ thêm dầu; D awkward."
+    }
+  ],
+  "templates": []
+}

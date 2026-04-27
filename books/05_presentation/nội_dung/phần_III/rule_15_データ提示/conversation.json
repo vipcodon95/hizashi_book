@@ -1,0 +1,163 @@
+{
+  "rule_id": "rule_15",
+  "rule_slug": "データ提示",
+  "title": {
+    "ja": "データ提示",
+    "vi": "Data presentation"
+  },
+  "rule_context": {
+    "ja": "ズンが Phase 1/2/3 比較の3D円グラフ7色を作成、ハーCTOが棒グラフ＋出典明示に修正させる場面。",
+    "vi": "Dũng làm 3D pie chart 7 màu so sánh Phase 1/2/3 — Hà CTO bắt sửa sang bar chart + ghi rõ nguồn."
+  },
+  "related_rules": ["rule_02", "rule_04", "rule_17"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 3D円＋出典なし",
+      "label_vi": "XẤU — 3D pie + thiếu nguồn",
+      "display_order": 1,
+      "analysis": {
+        "ja": "比較データに pie は誤用。3D は perception distortion。出典・期間・N欠如で『根拠不明』判定。",
+        "vi": "Data so sánh dùng pie là sai. 3D bóp méo nhận thức. Thiếu nguồn / kỳ / N → 「không có căn cứ」."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_15_bad_01",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "ズン、これ3D pie chart 7色？比較なのに pie 使うのは間違い。",
+          "sentence_translation": "Dũng, cái này là 3D pie 7 màu hả? So sánh mà dùng pie là sai đấy.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_15_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "カラフルで目立つかと…",
+          "sentence_translation": "Em nghĩ cho colorful, nổi bật ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_15_bad_03",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "Pie は構成比5項目以下用。3 phase の比較は棒グラフ。あと出典・期間どこ？『2024年Q3〜Q4社内集計、N=120』みたいな注記が必要。",
+          "sentence_translation": "Pie chỉ dùng cho cấu thành ≤5 mục. So sánh 3 phase là bar chart. Còn nguồn / kỳ ở đâu? Phải có chú thích kiểu 「Q3-Q4/2024 nội bộ, N=120」.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_15_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、入れていません…",
+          "sentence_translation": "À, em chưa cho vào ạ...",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_15_bad_05",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "松本さんとか大垣さん、データの期間とサンプル数必ず聞く。今のままだと『根拠不明』判定。",
+          "sentence_translation": "Kiểu Matsumoto-san hay Ōgaki-san chắc chắn sẽ hỏi kỳ + số mẫu. Để như này là bị đánh giá 「không căn cứ」.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 棒グラフ＋出典明示",
+      "label_vi": "TỐT — Bar chart + nguồn rõ",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_15_good_01",
+          "highlight_text": "水平棒グラフ",
+          "ja": "比較データは横棒。色は2色＋アクセント1色で十分。",
+          "vi": "Data so sánh dùng horizontal bar. 2 màu + 1 accent là đủ."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_15_good_03",
+          "highlight_text": "出典: 2024年Q3〜Q4 弊社運用ログ集計、対象SKU=120、月次平均",
+          "ja": "Footer source format: 出典＋期間＋N数。日本ビジネスは出典明示を信頼の指標とする。",
+          "vi": "Format footer: nguồn + kỳ + N. JP business coi nguồn rõ ràng = chỉ số tin cậy."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_15_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "水平棒グラフに変更、3 phase 比較で 差異率 をX軸に。色は2色のみ(白鷗ブルー＋グレー)、Phase 3 のみアクセント。",
+          "sentence_translation": "Em đổi sang horizontal bar ạ, so sánh 3 phase với trục X là tỷ lệ sai lệch. Chỉ 2 màu (xanh Hakuō + xám), riêng Phase 3 dùng accent.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_15_good_02",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "いい。Footer は？",
+          "sentence_translation": "Tốt. Footer thì sao?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_15_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "『出典: 2024年Q3〜Q4 弊社運用ログ集計、対象SKU=120、月次平均』と入れました。コールアウトは『Phase 2 で64%削減、Phase 3 で90%削減見込み』の1つだけ。",
+          "sentence_translation": "Em đã ghi 「Nguồn: tổng hợp log vận hành Q3-Q4/2024, đối tượng SKU=120, trung bình tháng」 ạ. Callout chỉ 1 cái: 「Phase 2 giảm 64%, Phase 3 dự kiến giảm 90%」.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_15_good_04",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "Perfect。1 chart 1 takeaway は鉄則。複数 callout は noise。",
+          "sentence_translation": "Perfect. Mỗi chart 1 takeaway là quy tắc thép. Nhiều callout = noise.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_15_kp_01",
+      "speaker": "zun",
+      "sentence": "出典は2024年Q3〜Q4 弊社運用ログ集計、対象SKU=120、月次平均でございます。",
+      "sentence_translation": "Nguồn là tổng hợp log vận hành Q3-Q4/2024 bên em, đối tượng SKU=120, trung bình theo tháng ạ.",
+      "purpose": "出典の口頭明示",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_15_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "Phase 1, 2, 3 を比較するチャートとして最適なのは？",
+      "options": [
+        "3D pie chart 7色",
+        "横棒グラフ 2-3色",
+        "ドーナツチャート",
+        "ワードクラウド"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "比較データは棒グラフ。3Dや多色は perception distortion + noise。",
+        "vi": "Data so sánh dùng bar chart. 3D / nhiều màu = bóp méo + noise."
+      }
+    }
+  ]
+}

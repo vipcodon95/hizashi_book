@@ -1,0 +1,201 @@
+{
+  "rule_id": "rule_31",
+  "rule_slug": "技術トラブル復旧",
+  "title": {
+    "ja": "技術トラブル復旧",
+    "vi": "Tech failure recovery"
+  },
+  "rule_context": {
+    "ja": "Phase 3 ピッチ12分時、白鷗社のビル全体ネット障害。Zoom freeze + プロジェクター no signal。3-step 復旧 (Acknowledge → Switch → Entertain)。",
+    "vi": "Phút 12 pitch Phase 3, cả toà nhà 白鷗 mất internet. Zoom freeze + projector no signal. 3 bước recovery (Acknowledge → Switch → Entertain)."
+  },
+  "related_rules": [
+    "rule_07",
+    "rule_29",
+    "rule_30"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — panic＋silence",
+      "label_vi": "XẤU — Panic + silence",
+      "display_order": 1,
+      "analysis": {
+        "ja": "Panic 表情＋60秒 silence。客は『本番障害でも同じ』と判断 → 信頼大幅 down。",
+        "vi": "Mặt panic + silence 60s. Khách đọc thành 「sự cố production cũng vậy」 → trust giảm mạnh."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_31_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、あ、画面が…えっ、ネット…えっ…",
+          "sentence_translation": "À, à, màn hình... ơ, mạng... ơ...",
+          "tone": "nervous",
+          "speed_multiplier": 1.15
+        },
+        {
+          "line_id": "rule_31_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "すみません、ちょっと…IT 確認してます…",
+          "sentence_translation": "Xin lỗi, một chút... em đang check IT...",
+          "tone": "nervous"
+        },
+        {
+          "line_id": "rule_31_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "PDFは無いんですか？",
+          "sentence_translation": "Không có PDF à?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_31_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、PDF…あります、メール送りますね…",
+          "sentence_translation": "À, PDF... có ạ, em gửi mail nhé...",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 3ステップ復旧",
+      "label_vi": "TỐT — 3 bước recovery",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_31_good_01",
+          "highlight_text": "申し訳ございません、ネットワークトラブルが発生しております",
+          "ja": "Acknowledge step。深呼吸3秒で voice steady。「あ、えっ」を絶対言わない。事実だけ formal に伝達。",
+          "vi": "Bước Acknowledge. Hít sâu 3 giây để voice steady. KHÔNG 「あ、えっ」. Truyền fact formal."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_31_good_02",
+          "highlight_text": "印刷ハンドアウト",
+          "ja": "Plan B 物理レイヤー。Rule 07 で USB PDF + 印刷 ハンドアウト + テザリング を prep 済。",
+          "vi": "Plan B layer vật lý. Rule 07 đã prep USB PDF + handout in + tethering."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_31_good_04",
+          "highlight_text": "復旧中ですが、内容を進めさせていただきます",
+          "ja": "Entertain step。スライドなしでも verbal で内容継続。Co-presenter が裏で復旧。",
+          "vi": "Bước Entertain. Không slide vẫn verbal pitch tiếp. Co-presenter recover behind the scenes."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_31_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "申し訳ございません、ネットワークトラブルが発生しております。5秒で復旧手順に切り替えさせていただきます。",
+          "sentence_translation": "Xin lỗi quý vị, vừa phát sinh sự cố network ạ. Em xin phép chuyển sang quy trình recovery trong 5 giây ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_31_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ローカル PDF に切替中です。同時にお手元の印刷ハンドアウトもご確認いただけますでしょうか。",
+          "sentence_translation": "Em đang chuyển sang PDF local ạ. Đồng thời mong quý vị xem giúp em tài liệu in trên tay ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_31_good_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "松本様、ハー CTO、モバイルテザリングで Zoom 再接続いたします。30秒お待ちください。",
+          "sentence_translation": "Anh Matsumoto, anh Hà CTO, em sẽ kết nối Zoom lại bằng tethering mobile ạ. Phiền chờ 30 giây ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_31_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "復旧中ですが、内容を進めさせていただきます。スライド8 の価格内訳ですが、Phase 3 1200万円の内訳は ①開発工数 720万、②ライセンス 280万、③運用初年度 200万。ハンドアウト 5ページ目に表がございます。",
+          "sentence_translation": "Đang recover nhưng em xin phép tiếp tục nội dung ạ. Slide 8 phần phân tích giá ạ — Phase 3 12 triệu yên: ① effort dev 7,2 triệu, ② license 2,8 triệu, ③ vận hành năm đầu 2 triệu. Bảng ở trang 5 handout ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_31_good_05",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "Zoom 復活、画面共有 OK です。",
+          "sentence_translation": "Zoom up lại rồi, share màn OK ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_31_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。お騒がせしました。続きスライド9 から進めさせていただきます。",
+          "sentence_translation": "Em cảm ơn anh. Em xin lỗi đã làm phiền ạ. Em xin phép tiếp tục từ slide 9 ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_31_kp_01",
+      "speaker": "zun",
+      "sentence": "申し訳ございません、〜トラブルが発生しております。復旧手順に切り替えさせていただきます。",
+      "sentence_translation": "Xin lỗi quý vị, vừa phát sinh sự cố ~. Em xin phép chuyển sang quy trình recovery ạ.",
+      "purpose": "技術トラブル acknowledge 標準",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_31_kp_02",
+      "speaker": "zun",
+      "sentence": "復旧中ですが、内容を進めさせていただきます。",
+      "sentence_translation": "Đang recover nhưng em xin phép tiếp tục nội dung ạ.",
+      "purpose": "Entertain verbal continuation",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_31_bjt_01",
+      "level": "J2",
+      "skill": "発言聴解",
+      "question_ja": "プレゼン中にネット障害が発生した時の最優秀対応は？",
+      "options": [
+        "「あ、えっ…」と panic で IT に大声で連絡",
+        "Acknowledge formal → Plan B 切替 → Entertain verbal の3ステップ",
+        "Pitch を中断して別日へ rebooking",
+        "客に責任を求める"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "Panic 表情は『本番障害も同じ』と暗示。Acknowledge → Switch → Entertain で control under pressure を示す。",
+        "vi": "Mặt panic = 「sự cố production cũng vậy」. Acknowledge → Switch → Entertain thể hiện control under pressure."
+      }
+    }
+  ]
+}

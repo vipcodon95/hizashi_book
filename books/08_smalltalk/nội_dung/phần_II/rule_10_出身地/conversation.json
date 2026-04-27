@@ -1,0 +1,161 @@
+{
+  "rule_id": "rule_10",
+  "rule_slug": "出身地の話題",
+  "title": {
+    "vi": "Quê quán — đào sâu",
+    "ja": "出身地の話題"
+  },
+  "rule_context": {
+    "ja": "ズンが白鷗の新メンバー4名(Hiroshi/Yamamoto/Sato/Kobayashi)を紹介された場面。それぞれ出身地が異なり、ズンは初対面で出身を聞き、メモし、後で深掘りする3段階を実践する。",
+    "vi": "Dũng vừa được giới thiệu 4 thành viên mới của 白鷗 — mỗi người một vùng. Dũng thực hành 3 bước: hỏi 出身 → ghi → research → quay lại bằng câu hỏi sâu."
+  },
+  "related_rules": ["rule_09", "rule_11", "rule_14"],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "ステップ1 — 初対面で聞く(Hiroshi)",
+      "label_vi": "Bước 1 — hỏi lần đầu (Hiroshi)",
+      "display_order": 1,
+      "context": {
+        "ja": "関西支店、名刺交換直後。ズンは広島部長と初対面。",
+        "vi": "Chi nhánh Kansai, ngay sau trao danh thiếp. Dũng gặp Hiroshi lần đầu."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_10_good_01", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "広島部長、改めまして、よろしくお願いいたします。ご出身は広島でいらっしゃいますか?", "sentence_translation": "Anh Hiroshi, một lần nữa rất mong được hợp tác. Quê anh là Hiroshima đúng không ạ?", "tone": "formal"},
+        {"line_id": "rule_10_good_02", "speaker": "hiroshi_chugoku", "speaker_role": "関西支店長 白鷗", "gender": "male", "sentence": "お、よく分かったね。名刺の名前で?(笑)そう、生まれも育ちも広島市。今は単身赴任で大阪にいるんですよ。", "sentence_translation": "Ồ, em đoán giỏi. Nhờ tên trên name card à? (cười) Đúng, sinh và lớn ở Hiroshima. Giờ đang công tác xa nhà ở Osaka.", "tone": "warm"},
+        {"line_id": "rule_10_good_03", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "あ、広島と言えばカープですよね!", "sentence_translation": "À, nói đến Hiroshima là Carp đúng không ạ!", "tone": "cheerful"},
+        {"line_id": "rule_10_good_04", "speaker": "hiroshi_chugoku", "speaker_role": "関西支店長 白鷗", "gender": "male", "sentence": "そうそう、生まれた時から赤いユニフォーム着せられて(笑)。ズンさん、野球詳しいの?", "sentence_translation": "Đúng đúng, mới sinh ra đã bị mặc áo đỏ rồi (cười). Em rành bóng chày à?", "tone": "cheerful"},
+        {"line_id": "rule_10_good_05", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "実は最近勉強中で…でもカープは熱いファンが多いって聞きました。広島駅の試合日、街全体が赤いんですよね?", "sentence_translation": "Thật ra em mới học gần đây... nhưng nghe nói fan Carp cuồng lắm. Ngày trận đấu cả ga Hiroshima đỏ rực đúng không ạ?", "tone": "warm"},
+        {"line_id": "rule_10_good_06", "speaker": "hiroshi_chugoku", "speaker_role": "関西支店長 白鷗", "gender": "male", "sentence": "そうそう!マツダスタジアム周りはお祭り騒ぎ。今度試合のチケット取れたら、ぜひ一緒に。", "sentence_translation": "Đúng đúng! Quanh sân Mazda như lễ hội. Lần sau em mua được vé thì đi cùng nhé.", "tone": "warm"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "ステップ3 — 1週間後に深掘り",
+      "label_vi": "Bước 3 — quay lại 1 tuần sau bằng specifics",
+      "display_order": 2,
+      "context": {
+        "ja": "1週間後のZoom会議冒頭、ズンは事前リサーチした内容で広島部長を驚かせる。",
+        "vi": "Đầu zoom call 1 tuần sau, Dũng dùng kiến thức research được làm Hiroshi bất ngờ."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_10_good_07", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "広島部長、お疲れ様です。先週の阪神戦、カープ勝ちましたよね!", "sentence_translation": "Anh Hiroshi, chào anh. Trận với Hanshin tuần trước Carp thắng đúng không ạ!", "tone": "cheerful"},
+        {"line_id": "rule_10_good_08", "speaker": "hiroshi_chugoku", "speaker_role": "関西支店長 白鷗", "gender": "male", "sentence": "ズンさん、見てたの?(笑)8回の逆転、痺れたよ!まさかベトナムから観戦?", "sentence_translation": "Em xem à? (cười) Lội ngược dòng hiệp 8 phê thật! Em xem từ Việt Nam thật à?", "tone": "cheerful"},
+        {"line_id": "rule_10_good_09", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "Yahoo!スポーツで結果だけ追ってます(笑)。新井監督のチーム、若い選手が育ってきてる印象です。", "sentence_translation": "Em chỉ theo dõi kết quả qua Yahoo Sports thôi (cười). HLV Arai dạy đội trẻ trưởng thành tốt nhỉ.", "tone": "warm"},
+        {"line_id": "rule_10_good_10", "speaker": "hiroshi_chugoku", "speaker_role": "関西支店長 白鷗", "gender": "male", "sentence": "新井監督まで知ってるの!?今のカープファンだね、本当に。", "sentence_translation": "Biết cả HLV Arai luôn à!? Đúng là fan Carp thứ thiệt nhỉ.", "tone": "cheerful"},
+        {"line_id": "rule_10_good_11", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "広島にはまだ行ったことがなくて…マツダスタジアム、広島お好み焼、宮島、ぜひ行きたい3つです。", "sentence_translation": "Em chưa được đến Hiroshima... sân Mazda, okonomiyaki Hiroshima, đảo Miyajima — 3 chỗ em muốn đi nhất.", "tone": "warm"},
+        {"line_id": "rule_10_good_12", "speaker": "hiroshi_chugoku", "speaker_role": "関西支店長 白鷗", "gender": "male", "sentence": "全部押さえてるね。じゃあ次回広島出張するとき、必ず連絡して。お好み焼きのみっちゃん総本店、案内するよ。", "sentence_translation": "Em chọn đúng hết rồi. Vậy lần sau công tác Hiroshima, nhớ báo anh. Quán okonomiyaki Mitchan Sōhonten anh dẫn đi.", "tone": "warm"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "沖縄出身 — 文化の違いを尊重",
+      "label_vi": "Khách Okinawa — tôn trọng văn hóa khác",
+      "display_order": 3,
+      "context": {
+        "ja": "小林さんと初対面。沖縄は琉球文化で本土と異なる。",
+        "vi": "Gặp Kobayashi lần đầu. Okinawa = văn hóa Ryūkyū khác bản đảo chính."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_10_good_13", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "小林さん、ご出身はどちらですか?", "sentence_translation": "Anh Kobayashi, quê anh ở đâu ạ?", "tone": "formal"},
+        {"line_id": "rule_10_good_14", "speaker": "kobayashi_okinawa", "speaker_role": "沖縄出張担当 白鷗", "gender": "male", "sentence": "沖縄、那覇です。実は本土の文化とちょっと違うんですよ。", "sentence_translation": "Okinawa, Naha. Thực ra văn hóa hơi khác bản đảo chính.", "tone": "warm"},
+        {"line_id": "rule_10_good_15", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "あ、沖縄!琉球王国の歴史、すごく興味があります。三線の音色、独特ですよね。", "sentence_translation": "À, Okinawa! Lịch sử vương quốc Ryūkyū em rất hứng thú. Âm sanshin đặc trưng nhỉ.", "tone": "cheerful"},
+        {"line_id": "rule_10_good_16", "speaker": "kobayashi_okinawa", "speaker_role": "沖縄出張担当 白鷗", "gender": "male", "sentence": "お、知ってるんだ。沖縄の人は他県と比べてマイペースなところがあって…『沖縄時間』って言葉聞いたことある?", "sentence_translation": "Ồ, em biết à. Người Okinawa so với tỉnh khác có nhịp riêng... em nghe 'giờ Okinawa' chưa?", "tone": "warm"},
+        {"line_id": "rule_10_good_17", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "あります。会議の開始時間がゆるやかとか…ベトナムも実は似てるところあって、親近感あります(笑)", "sentence_translation": "Có ạ. Giờ họp bắt đầu thoải mái... Việt Nam thực ra cũng vậy, em thấy gần gũi (cười).", "tone": "cheerful"},
+        {"line_id": "rule_10_good_18", "speaker": "kobayashi_okinawa", "speaker_role": "沖縄出張担当 白鷗", "gender": "male", "sentence": "あはは、ベトナムと沖縄、合うかもね。今度那覇出張あったら、国際通りと首里城、案内するよ。ゴーヤチャンプルもぜひ。", "sentence_translation": "Haha, Việt Nam với Okinawa hợp nhau đó. Lần sau công tác Naha, đường Kokusai với đền Shuri anh dẫn đi. Goya chanpuru cũng phải thử.", "tone": "warm"}
+      ]
+    },
+    {
+      "section": "bad_example",
+      "label_ja": "出身を聞いて、follow-upせず",
+      "label_vi": "Hỏi 出身 xong im — awkward",
+      "display_order": 4,
+      "context": {
+        "ja": "ズンが出身を聞いたが、何も知らないのでフォローアップできず会話が止まる。",
+        "vi": "Dũng hỏi 出身 nhưng không biết gì về vùng đó nên không follow-up được."
+      },
+      "analysis": {
+        "ja": "出身を聞いて『そうですか』だけで終わるのは、お客様に『なぜ聞いた?』と思わせる。最低でも1つ associationを持って follow-upする。",
+        "vi": "Hỏi 出身 rồi chỉ 'vậy à' = khách thấy 'sao hỏi?'. Tối thiểu phải có 1 association để follow-up."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_10_bad_01", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "ご出身はどちらですか?", "sentence_translation": "Quê anh ở đâu ạ?", "tone": "formal"},
+        {"line_id": "rule_10_bad_02", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "福岡の博多です。", "sentence_translation": "Hakata, Fukuoka.", "tone": "neutral"},
+        {"line_id": "rule_10_bad_03", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "あ、そうですか…(沈黙)", "sentence_translation": "[NG] À, vậy à... (im lặng).", "tone": "uncertain"},
+        {"line_id": "rule_10_bad_04", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "(…)じゃあ、本題に入りますか。", "sentence_translation": "(...) Vào việc luôn nhỉ.", "tone": "neutral"}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"phrase_id": "rule_10_kp_01", "speaker": "zun", "sentence": "ご出身はどちらですか?", "sentence_translation": "Quê anh/chị ở đâu ạ?", "purpose": "Câu hỏi formal lần đầu"},
+    {"phrase_id": "rule_10_kp_02", "speaker": "zun", "sentence": "ご出身は[地名]でいらっしゃいますか?", "sentence_translation": "Quê anh là [địa danh] đúng không ạ?", "purpose": "Khi đoán được từ tên/giọng — gây ấn tượng"},
+    {"phrase_id": "rule_10_kp_03", "speaker": "zun", "sentence": "[広島]と言えば[カープ]ですよね!", "sentence_translation": "Nhắc đến [Hiroshima] là [Carp] nhỉ!", "purpose": "Follow-up ngay với 1 association"},
+    {"phrase_id": "rule_10_kp_04", "speaker": "zun", "sentence": "先週の[阪神戦]、ご覧になりましたか?", "sentence_translation": "Trận [vs Hanshin] tuần trước anh xem chưa ạ?", "purpose": "Quay lại với specifics — buổi gặp tiếp theo"},
+    {"phrase_id": "rule_10_kp_05", "speaker": "zun", "sentence": "次回[広島]出張のとき、ぜひ[お好み焼]教えてください。", "sentence_translation": "Lần sau công tác [Hiroshima], anh dạy em về [okonomiyaki] với ạ.", "purpose": "Mời dẫn đi — bonding move"},
+    {"phrase_id": "rule_10_kp_06", "speaker": "zun", "sentence": "[首里城]、いつか必ず行きたいです。", "sentence_translation": "Đền [Shuri] em nhất định sẽ đi.", "purpose": "Thể hiện interest sâu với regional landmark"}
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_10_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "「ご出身は広島です」と言われた直後の最も適切な反応は?",
+      "options": [
+        "A. 「あ、そうですか」と話題を変える",
+        "B. 「広島と言えばカープですよね!」と関連topicを開く",
+        "C. 「広島の住所を教えてください」と詳しい場所を聞く",
+        "D. 「ベトナムにも広島みたいな所があります」と比較する"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "出身を聞いた後は1つのassociationで follow-upするのが基本。住所聞くは私生活侵入、比較は失礼になりうる。",
+        "vi": "Sau 出身 phải có 1 association follow-up. Hỏi địa chỉ = xâm phạm. So sánh = có thể bất lịch sự."
+      }
+    },
+    {
+      "question_id": "rule_10_bjt_02",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「地元」「出身」「故郷」のニュアンスとして最も正しいのは?",
+      "options": [
+        "A. 全て同じ意味",
+        "B. 地元=今住んでる町、出身=formalな質問、故郷=ノスタルジック",
+        "C. 故郷=formalな質問、出身=casual",
+        "D. 地元=都会、故郷=田舎"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "地元=親しみある場所、出身=formal、故郷=感情的・郷愁。",
+        "vi": "地元 = chỗ quen thân, 出身 = formal, 故郷 = cảm xúc nostalgic."
+      }
+    },
+    {
+      "question_id": "rule_10_bjt_03",
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "お客様が『〜とよ』『〜とね』を文末に使った場合、推測される出身地は?",
+      "options": [
+        "A. 関西(大阪・京都)",
+        "B. 東北(青森・秋田)",
+        "C. 九州(福岡・博多)",
+        "D. 北海道"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "『〜とよ/〜とね』は博多弁の特徴。九州の話し方に気づければ、出身を聞かずとも推測可能。",
+        "vi": "'~toyo/~tone' = đặc trưng Hakata-ben (Fukuoka). Catch được giọng = đoán 出身 không cần hỏi."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_10_tpl_01",
+      "format": "checklist",
+      "title_ja": "出身地メモバンク テンプレート",
+      "title_vi": "Template ghi nhớ 出身 từng khách",
+      "content_ja": "■ お客様名: 〇〇\n■ 出身地: [都道府県] / [市町村]\n■ 居住地(現在): \n■ Sport team(野球/サッカー): \n■ 名物・好きな食べ物: \n■ 方言の特徴: \n■ 観光名所(連れて行きたい): \n■ 次回の話題ネタ: ",
+      "content_vi": "■ Tên khách: 〇〇\n■ Quê: [tỉnh] / [thành phố]\n■ Hiện sống tại: \n■ Đội thể thao: \n■ Đặc sản / món thích: \n■ Đặc trưng phương ngữ: \n■ Điểm du lịch (muốn dẫn đi): \n■ Topic lần sau: ",
+      "notes_vi": "Sau mỗi lần gặp khách mới, dành 5 phút điền template. Trước mỗi cuộc gặp tiếp, review 2 phút."
+    }
+  ]
+}

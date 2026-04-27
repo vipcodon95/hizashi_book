@@ -1,0 +1,67 @@
+{
+  "_schema_version": "1.0",
+  "_skill": "study-course-questions-builder",
+  "_description": "MẪU SẮP XẾP CÂU (reorder) — JLPT bunpou mondai 3. selection_type='order'. 4 từ cần sắp xếp đúng thứ tự, đáp án đúng là từ ở vị trí ★.",
+
+  "meta": {
+    "title": "Sample Reorder — N3 bunpou mondai 3",
+    "title_vn": "Mẫu Sắp xếp câu",
+    "module_code": "<module_code>",
+    "total_questions": 2,
+    "focus": "N3 grammar — sentence reorder",
+    "description_vn": "Sắp xếp 4 từ thành câu hoàn chỉnh, chọn từ ở vị trí ★."
+  },
+
+  "questions": [
+    {
+      "id": "q_reorder_001",
+      "question_type": "reorder",
+      "selection_type": "order",
+      "skill_category": "bunpou",
+      "level": "N3",
+      "sentence": "私は ____ ____ ★ ____ つもりです。",
+      "sentence_translation": "Tôi dự định ____ ____ ★ ____.",
+      "question_jp": "★に入る言葉として、最も適切なものを選んでください。",
+      "question_vn": "Chọn từ phù hợp điền vào vị trí ★.",
+      "choices": [
+        {"id": "1", "text": "明日", "text_translation": "ngày mai", "is_correct": false, "order": 0, "correct_position": 1},
+        {"id": "2", "text": "東京", "text_translation": "Tokyo", "is_correct": false, "order": 1, "correct_position": 2},
+        {"id": "3", "text": "へ", "text_translation": "trợ từ chỉ hướng", "is_correct": true, "order": 2, "correct_position": 3},
+        {"id": "4", "text": "行く", "text_translation": "đi (thể từ điển)", "is_correct": false, "order": 3, "correct_position": 4}
+      ],
+      "explanation": "Thứ tự đúng: 私は 明日 東京 ★へ 行く つもりです。 (1→2→3→4)",
+      "tip": "Trợ từ へ luôn đi sau địa điểm + trước động từ chỉ hướng."
+    },
+    {
+      "id": "q_reorder_002",
+      "question_type": "reorder",
+      "selection_type": "order",
+      "skill_category": "bunpou",
+      "level": "N3",
+      "sentence": "彼女は ____ ____ ★ ____ そうです。",
+      "sentence_translation": "Cô ấy có vẻ ____ ____ ★ ____.",
+      "question_jp": "★に入る言葉として、最も適切なものを選んでください。",
+      "question_vn": "Chọn từ phù hợp điền vào vị trí ★.",
+      "choices": [
+        {"id": "1", "text": "とても", "text_translation": "rất", "is_correct": false, "order": 0, "correct_position": 1},
+        {"id": "2", "text": "美味しい", "text_translation": "ngon", "is_correct": false, "order": 1, "correct_position": 2},
+        {"id": "3", "text": "ケーキを", "text_translation": "bánh kem", "is_correct": true, "order": 2, "correct_position": 3},
+        {"id": "4", "text": "食べた", "text_translation": "đã ăn", "is_correct": false, "order": 3, "correct_position": 4}
+      ],
+      "explanation": "Thứ tự đúng: 彼女は とても 美味しい ★ケーキを 食べた そうです。 (1→2→3→4)"
+    }
+  ],
+
+  "question_sets": [
+    {
+      "set_id": "set_reorder_n3",
+      "set_type": "practice",
+      "name": "N3 Bunpou — Sắp xếp câu",
+      "description": "Sắp xếp câu N3 — 2 câu mẫu",
+      "card_count": 2,
+      "module_position": 3,
+      "reading_passage_ref": null,
+      "question_ids": ["q_reorder_001", "q_reorder_002"]
+    }
+  ]
+}

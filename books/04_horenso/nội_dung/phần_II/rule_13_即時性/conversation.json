@@ -1,0 +1,174 @@
+{
+  "rule_id": "rule_13",
+  "rule_slug": "連絡の即時性",
+  "title": {
+    "ja": "連絡の即時性原則 (delayed = wrong)",
+    "vi": "Nguyên tắc liên lạc tức thì (delayed = wrong)"
+  },
+  "rule_context": {
+    "ja": "ズンが松本様から Phase 3 の機能追加要望を朝10時に電話で受け、夕方17時まで team に連絡しなかったために、トゥアンの作業6時間が無駄になる場面。15分ルールを学ぶ。",
+    "vi": "Em Dũng nhận yêu cầu thêm tính năng Phase 3 từ anh Matsumoto qua phone lúc 10h sáng nhưng để đến 17h mới báo team — anh Tuấn lãng phí 6 giờ code. Học rule 15 phút."
+  },
+  "related_rules": [
+    "rule_01",
+    "rule_09",
+    "rule_17"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 7時間の連絡遅延",
+      "label_vi": "XẤU — Ngâm tin 7 giờ",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「忙しい」を理由に連絡を後回しにすると、その間に同僚が古い情報で作業を進めてしまう。連絡遅延コスト = 同僚の浪費時間。",
+        "vi": "Lấy 'bận' làm lý do hoãn liên lạc, thời gian đó đồng nghiệp dựa trên info cũ làm tiếp. Chi phí trễ liên lạc = thời gian đồng nghiệp bị lãng phí."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_13_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "皆さん、今朝松本様から電話があり、機能 X を追加するそうです。",
+          "sentence_translation": "Mọi người, sáng nay anh Matsumoto gọi điện, bảo thêm tính năng X.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_13_bad_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "今朝？私6時間、機能 Y のロジック書いてたんだけど。X 追加なら Y は再設計だよ。",
+          "sentence_translation": "Sáng nay? Anh đã code logic Y suốt 6 giờ rồi. Thêm X thì Y phải design lại đó.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_13_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、すみません、忙しくて連絡が遅れて…",
+          "sentence_translation": "À em xin lỗi, em bận nên trễ liên lạc...",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_13_bad_04",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "連絡は15分以内が原則。半日寝かせるなら共有しないのと同じ。",
+          "sentence_translation": "Liên lạc trong 15 phút là nguyên tắc. Ngâm nửa ngày thì như chưa share.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 15分以内 + action item 明示",
+      "label_vi": "TỐT — Trong 15 phút + nêu action ngay",
+      "display_order": 2,
+      "analysis": {
+        "ja": "ラベル「緊急共有」、即時 action（保留）、詳細の予告。3要素で同僚が無駄作業を回避できる。",
+        "vi": "Có label 「緊急共有」, action ngay (保留 = hold), báo trước khi nào có chi tiết. Đủ 3 yếu tố để đồng nghiệp tránh lãng phí."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_13_good_01",
+          "highlight_text": "緊急共有",
+          "ja": "ラベルで priority を瞬時に伝える。これがないと普通の連絡と区別できない。",
+          "vi": "Label truyền priority tức thì. Không có thì trộn lẫn với liên lạc thường."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_13_good_01",
+          "highlight_text": "Y のコーディングは保留してください",
+          "ja": "情報共有 + 即時 action。「共有」だけでは相手は何をすればいいか分からない。",
+          "vi": "Chia sẻ + action ngay. Chỉ 'share' thôi thì đồng nghiệp không biết phải làm gì."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_13_good_03",
+          "highlight_text": "詳細議事録は 10:45 までに共有",
+          "ja": "次の連絡時刻を pre-schedule。「詳細は後ほど」だけでは曖昧。",
+          "vi": "Pre-schedule giờ báo tiếp. Chỉ 「詳細は後ほど」 là mơ hồ."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_13_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "皆さん、緊急共有です。10時に松本様から電話。Phase 3 に機能 X 追加との要望。Y との関係性は午後の打ち合わせで詰めます。一旦 Y のコーディングは保留してください。",
+          "sentence_translation": "Mọi người, em xin chia sẻ khẩn. 10h anh Matsumoto gọi điện. Yêu cầu thêm tính năng X cho Phase 3. Quan hệ với Y em sẽ chốt trong họp chiều. Tạm thời mọi người hold code Y giúp em ạ.",
+          "tone": "urgent",
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_13_good_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "了解、Y は中断します。15分前に教えてくれて助かった。",
+          "sentence_translation": "OK, anh dừng Y. May em báo trước 15 phút.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_13_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "詳細議事録は 10:45 までに共有します。",
+          "sentence_translation": "Biên bản chi tiết em share trước 10:45 ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_13_good_04",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "OK、待ちます。",
+          "sentence_translation": "OK, anh đợi.",
+          "tone": "neutral"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_13_kp_01",
+      "speaker": "zun",
+      "sentence": "皆さん、緊急共有です。〇〇が発生しました。一旦〇〇してください。詳細は〇〇までに共有します。",
+      "sentence_translation": "Mọi người, em xin chia sẻ khẩn. Có 〇〇 đã xảy ra. Tạm thời mọi người 〇〇 giúp em. Chi tiết em share trước 〇〇.",
+      "purpose": "15分ルール緊急共有テンプレート",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_13_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "顧客から仕様変更の連絡を受けた後、社内チームへの共有はどのタイミングが理想か？",
+      "options": [
+        "翌朝の朝礼で",
+        "受信から15分以内",
+        "次の定例会議で",
+        "詳細が固まってから"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "情報の鮮度は時間とともに指数的に低下する。詳細が未確定でも『緊急共有』として15分以内に第一報を出し、同僚の無駄作業を防ぐ。",
+        "vi": "Giá trị thông tin giảm cấp số mũ theo thời gian. Chi tiết chưa rõ vẫn báo ngay với label 'khẩn' trong 15 phút để tránh đồng nghiệp lãng phí."
+      }
+    }
+  ]
+}

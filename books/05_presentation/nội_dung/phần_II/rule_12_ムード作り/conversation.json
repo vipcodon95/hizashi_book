@@ -1,0 +1,156 @@
+{
+  "rule_id": "rule_12",
+  "rule_slug": "日本顧客向けムード作り",
+  "title": {
+    "ja": "日本顧客向けムード作り",
+    "vi": "Mood setting cho khách Nhật conservative"
+  },
+  "rule_context": {
+    "ja": "リン(インターン)が US-style な hype words (『ゲームチェンジャー』『革命的』『ファンタスティック』) で練習している → ズンが『着実』『確実』『丁寧』『安心』に置き換えるよう coach する場面。",
+    "vi": "Linh đang luyện pitch với hype words kiểu US (「game changer」「cách mạng」「fantastic」) — Dũng coach chuyển sang nhóm từ 「chắc chắn / chỉn chu / yên tâm」."
+  },
+  "related_rules": ["rule_08", "rule_11", "rule_18"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — US-style hype",
+      "label_vi": "XẤU — Hype style Mỹ",
+      "display_order": 1,
+      "analysis": {
+        "ja": "Hype words は日本ビジネスでは『胡散臭い』警報を鳴らす。50代オーナーには特にアラート。",
+        "vi": "Hype words trong JP business = chuông cảnh báo 「mờ ám」. Đặc biệt với chủ ngoài 50."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_12_bad_01",
+          "speaker": "linh",
+          "speaker_role": "Marketingインターン",
+          "gender": "female",
+          "sentence": "この機能はゲームチェンジャーです！皆様の業務を革命的に変えます！御社の未来はファンタスティックになります！",
+          "sentence_translation": "Tính năng này là game changer ạ! Sẽ thay đổi cách mạng công việc của quý vị! Tương lai cty quý vị sẽ fantastic luôn ạ!",
+          "tone": "cheerful",
+          "speed_multiplier": 1.1
+        },
+        {
+          "line_id": "rule_12_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ストップ。50代オーナーが『ゲームチェンジャー』『革命的』『ファンタスティック』って聞いて、どう思う？",
+          "sentence_translation": "Stop. Chủ ngoài 50 mà nghe 「game changer」「cách mạng」「fantastic」 — em nghĩ họ thấy thế nào?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_12_bad_03",
+          "speaker": "linh",
+          "speaker_role": "Marketingインターン",
+          "gender": "female",
+          "sentence": "えっと…テンション高い？",
+          "sentence_translation": "Ờ... thấy hăng quá ạ?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_12_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "胡散臭いって思う。日本ビジネスは『着実に』『確実に』『丁寧に』。テンション低めでも信頼が高い方が買ってくれる。",
+          "sentence_translation": "Họ thấy 「mờ ám」 đấy. JP business là 「chắc chắn」「đảm bảo」「chỉn chu」. Tone trầm mà lòng tin cao thì khách mới mua.",
+          "tone": "warm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 着実トーンに置き換え",
+      "label_vi": "TỐT — Đổi sang tone chắc chắn",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_12_good_01",
+          "highlight_text": "着実なものに置き換えよう",
+          "ja": "JP positive lexicon: 着実/確実/丁寧/安心/信頼/実績/堅実。Hype wordsの代替語彙。",
+          "vi": "Nhóm từ tích cực JP: 着実/確実/丁寧/安心/信頼/実績/堅実. Thay cho hype words."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_12_good_03",
+          "highlight_text": "話速は5-10%遅めに",
+          "ja": "1分300字 → 280字程度。間を取りながら話す。早口は『売り急ぎ』に聞こえる。",
+          "vi": "1 phút 300 từ → 280 từ. Nói có khoảng nghỉ. Nói nhanh = 「vội bán hàng」."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_12_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "言葉を着実なものに置き換えよう。『ゲームチェンジャー』→『業務改善に確実に貢献』。『革命的』→『着実な改善』。『ファンタスティック』→『安心してお任せいただける』。",
+          "sentence_translation": "Đổi sang nhóm từ chắc chắn nhé. 「Game changer」 → 「đóng góp chắc chắn vào việc cải tiến」. 「Cách mạng」 → 「cải thiện chắc chắn từng bước」. 「Fantastic」 → 「yên tâm giao phó」.",
+          "tone": "warm",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_12_good_02",
+          "speaker": "linh",
+          "speaker_role": "Marketingインターン",
+          "gender": "female",
+          "sentence": "この機能は御社の在庫管理に確実に貢献いたします。3年運用実績があり、安心してお任せいただける仕組みでございます。",
+          "sentence_translation": "Tính năng này chắc chắn sẽ đóng góp cho việc quản lý tồn kho bên quý vị ạ. Đã có 3 năm thành tích vận hành, là cơ chế quý vị có thể yên tâm giao phó ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_12_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "うん、いい。あと話速は5-10%遅めに。早口だと『売り急ぎ』に聞こえる。",
+          "sentence_translation": "Ổn rồi. Với cả pace chậm hơn 5-10% nữa. Nói nhanh nghe như 「đang vội bán」.",
+          "tone": "warm",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_12_good_04",
+          "speaker": "linh",
+          "speaker_role": "Marketingインターン",
+          "gender": "female",
+          "sentence": "分かりました。練習し直します。",
+          "sentence_translation": "Em rõ rồi ạ. Em luyện lại ạ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_12_kp_01",
+      "speaker": "linh",
+      "sentence": "御社の〇〇に確実に貢献いたします。安心してお任せいただける仕組みでございます。",
+      "sentence_translation": "Chắc chắn sẽ đóng góp cho 〇〇 bên quý vị ạ. Là cơ chế quý vị có thể yên tâm giao phó ạ.",
+      "purpose": "JP positive lexicon の標準フレーズ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_12_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "日本顧客向けプレゼンで「ゲームチェンジャー」を置き換えるなら？",
+      "options": [
+        "革命的なソリューション",
+        "業務改善に確実に貢献するソリューション",
+        "圧倒的に最強のソリューション",
+        "ファンタスティックなソリューション"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "JP business は『確実に』『着実に』『安心』が positive lexicon。Hype words は警戒される。",
+        "vi": "JP business dùng 「确实」「chắc chắn」「yên tâm」 làm nhóm tích cực. Hype words bị đề phòng."
+      }
+    }
+  ]
+}

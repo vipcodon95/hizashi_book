@@ -1,0 +1,216 @@
+{
+  "rule_id": "rule_07",
+  "rule_slug": "悪い知らせの報告",
+  "title": {
+    "ja": "悪い知らせの報告 (Predict→Fact→Impact→Plan→Ask)",
+    "vi": "Báo cáo tin xấu (Predict→Fact→Impact→Plan→Ask)"
+  },
+  "rule_context": {
+    "ja": "日曜夜、本番で critical bug 発生。トゥアンリーダーがハーCTOへ第一報を入れる場面。PFIPA 5要素フレームを実演。",
+    "vi": "Tối Chủ Nhật, production có bug critical. Anh Tuấn báo cáo đầu tiên cho anh Hà CTO. Áp dụng framework PFIPA 5 yếu tố."
+  },
+  "related_rules": [
+    "rule_01",
+    "rule_17",
+    "rule_22",
+    "rule_31"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 11時間遅れ + 構造なし + 丸投げ",
+      "label_vi": "XẤU — Trễ 11 giờ + không cấu trúc + đùn boss",
+      "display_order": 1,
+      "analysis": {
+        "ja": "Critical bug は30分以内に第一報が原則。報告が遅れ、Predict なしで突然始まり、Plan も無く「どうしましょうか」で終わる最悪パターン。",
+        "vi": "Bug critical nguyên tắc báo đầu trong 30 phút. Báo trễ, không Predict mở đầu, không có Plan, kết bằng 'sao bây giờ?' = pattern tệ nhất."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_07_bad_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "ハーさん、すいません、昨夜本番で問題が起きてまして、データが…まだ調査中なんですが…どうしましょうか？",
+          "sentence_translation": "Anh Hà, xin lỗi, tối qua production có vấn đề, data... vẫn đang điều tra... sao bây giờ ạ?",
+          "tone": "nervous"
+        },
+        {
+          "line_id": "rule_07_bad_02",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "昨夜？なぜ今報告？影響範囲は？対応案は？",
+          "sentence_translation": "Tối qua? Sao giờ mới báo? Phạm vi ảnh hưởng? Phương án xử lý?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_07_bad_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "えっと、影響はまだ確認中で、対応もこれから考えるところで…",
+          "sentence_translation": "Ờ, ảnh hưởng đang xác nhận, phương án em mới đang nghĩ ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_07_bad_04",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "11時間遅れの報告 + 状況不明 + 対応案ゼロ。これは最悪のパターンです。",
+          "sentence_translation": "Báo trễ 11 giờ + không rõ tình hình + không có phương án. Đây là pattern tệ nhất.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 30分以内 + PFIPA 完備",
+      "label_vi": "TỐT — Báo trong 30 phút + đủ PFIPA",
+      "display_order": 2,
+      "analysis": {
+        "ja": "発見から30分以内に第一報を入れる。Predict で心構えを作り、Fact/Impact で状況を、Plan で具体的アクションを、Ask で2択を提示することで、CTO は瞬時に判断できる。",
+        "vi": "Báo đầu trong vòng 30 phút từ khi phát hiện. Predict tạo khung tâm lý, Fact/Impact rõ tình hình, Plan có action cụ thể, Ask cho 2 lựa chọn — CTO quyết tức thì."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_07_good_01",
+          "highlight_text": "先にお伝えしますが、本番で critical bug が発生しております",
+          "ja": "Predict 句で「これから悪い話が来る」と心構えを作る。Shock を避ける配慮。",
+          "vi": "Câu Predict để báo trước 'sắp có tin xấu'. Tránh sốc cho người nghe."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_07_good_02",
+          "highlight_text": "Fact〜Impact",
+          "ja": "Fact = 何が起きたか、Impact = 何件・何人・いくら影響したか。Impact 数値が escalate 判断に直結。",
+          "vi": "Fact = chuyện gì xảy ra. Impact = bao nhiêu vụ / người / tiền bị ảnh hưởng. Impact bằng số quyết định có escalate hay không."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_07_good_03",
+          "highlight_text": "Plan〜(1)(2)(3)",
+          "ja": "Plan は3アクション以内 + owner + 期限。「対応します」では Plan ではない。",
+          "vi": "Plan tối đa 3 action + owner + deadline. 「対応します」 không phải Plan."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_07_good_04",
+          "highlight_text": "〜してもよろしいでしょうか。あるいは〜という選択肢も",
+          "ja": "Ask は2択で提示。「どうしましょう」のオープン質問より上司の判断負荷が低い。",
+          "vi": "Ask đưa 2 option. Giảm load cho sếp so với câu hỏi mở 「どうしましょう」."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_07_good_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "ハーさん、夜分にすみません。緊急のご報告です。先にお伝えしますが、本番で critical bug が発生しております。",
+          "sentence_translation": "Anh Hà, xin lỗi anh đêm khuya. Em báo cáo khẩn cấp ạ. Em xin báo trước: production đang có bug critical ạ.",
+          "tone": "urgent",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_07_good_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "Fact：22時頃、注文確定APIでデータ消失が発生。Impact：本日21時以降の注文データ約30件がDBに保存されていません。",
+          "sentence_translation": "Fact: lúc 22h, API xác nhận đơn hàng bị mất data. Impact: khoảng 30 đơn từ sau 21h hôm nay không được lưu vào DB ạ.",
+          "tone": "urgent",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_07_good_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "Plan（対応案）：(1) ログから30件をリストアップ、(2) 顧客に翌朝までに個別連絡、(3) 原因はトランザクション処理にあると推測、修正PRを朝までに準備します。",
+          "sentence_translation": "Plan (Phương án): (1) trích 30 đơn từ log, (2) liên hệ riêng khách trước sáng mai, (3) nguyên nhân em đoán ở xử lý transaction, em chuẩn bị PR sửa trước sáng ạ.",
+          "tone": "urgent",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_07_good_04",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "Ask（依頼）：松本様への第一報を23時までに私から入れてもよろしいでしょうか。あるいはハーさんから入れる選択肢もあります。",
+          "sentence_translation": "Ask (Em xin ý anh): em báo cáo đầu cho anh Matsumoto trước 23h được không ạ? Hoặc lựa chọn anh Hà báo cho anh ấy ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "4"
+          ]
+        },
+        {
+          "line_id": "rule_07_good_05",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "Predict から Plan まで30秒で全部入った。良い報告。第一報はあなたから入れてください。私は2時間以内に折り返します。",
+          "sentence_translation": "Predict đến Plan đủ trong 30 giây. Báo cáo tốt. Báo đầu em làm đi. Anh sẽ phản hồi trong 2 giờ.",
+          "tone": "firm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_07_kp_01",
+      "speaker": "tuan_leader",
+      "sentence": "先にお伝えしますが、〇〇が発生しております。Fact: 〇〇 / Impact: 〇〇 / Plan: ①〇〇 ②〇〇 / Ask: 〇〇してもよろしいでしょうか。",
+      "sentence_translation": "Em xin báo trước, có 〇〇 đã xảy ra ạ. Fact: 〇〇 / Impact: 〇〇 / Plan: ①〇〇 ②〇〇 / Ask: em 〇〇 được không ạ?",
+      "purpose": "悪い知らせ PFIPA 標準フレーム",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_07_kp_02",
+      "speaker": "tuan_leader",
+      "sentence": "夜分に申し訳ございません。緊急のご報告です。",
+      "sentence_translation": "Em xin lỗi anh đêm khuya. Em báo cáo khẩn cấp ạ.",
+      "purpose": "夜間/休日の緊急連絡冒頭",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_07_bjt_01",
+      "level": "J2",
+      "skill": "発言聴解",
+      "question_ja": "本番で critical bug を発見してから上司に第一報を入れるまでの理想的時間は？",
+      "options": [
+        "翌営業日の朝",
+        "発見から30分以内",
+        "原因が判明してから",
+        "対応が完了してから"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "Critical 障害は『発見即報告』が原則。原因が分からなくても Fact / Impact / 暫定 Plan を30分以内に第一報する。",
+        "vi": "Sự cố critical nguyên tắc 'phát hiện = báo ngay'. Chưa rõ nguyên nhân vẫn phải báo Fact / Impact / Plan tạm trong 30 phút."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_07_tpl_01",
+      "format": "report",
+      "title_ja": "悪い知らせ・第一報テンプレート",
+      "title_vi": "Template báo cáo tin xấu (báo cáo đầu)",
+      "content_ja": "件名：【緊急・第一報】〇〇障害発生のご報告（〇月〇日 〇〇:〇〇）\n\n〇〇様\nお疲れ様です。〇〇でございます。\n緊急のご報告です。\n\n■ Predict（先にお伝え）\n  - 〇〇が発生しております。\n\n■ Fact（事実）\n  - 発生時刻：〇月〇日 〇〇:〇〇\n  - 事象：〇〇\n  - 検知者：〇〇\n\n■ Impact（影響）\n  - 影響範囲：〇〇（〇〇件 / 〇〇名 / 約〇〇円）\n  - 現時点で確認できている被害：〇〇\n\n■ Plan（対応案）\n  1. 〇〇（担当：〇〇 / 期限：〇〇:〇〇）\n  2. 〇〇（担当：〇〇 / 期限：〇〇:〇〇）\n  3. 〇〇（担当：〇〇 / 期限：〇〇:〇〇）\n\n■ Ask（ご相談・ご依頼）\n  - 〇〇してもよろしいでしょうか。\n  - あるいは〇〇という選択肢もございます。\n\n■ 次回報告\n  - 〇月〇日 〇〇:〇〇 に第二報を入れます。\n\n以上、よろしくお願いいたします。",
+      "content_vi": "[Subject] [Khẩn - Báo đầu] Báo cáo sự cố 〇〇 (〇/〇 〇〇:〇〇)\n\n[Kính gửi anh/chị 〇〇]\nEm 〇〇 đây ạ.\nEm xin báo cáo khẩn cấp.\n\n[Predict (Báo trước)]\n  - Đã xảy ra 〇〇 ạ.\n\n[Fact (Sự thật)]\n  - Thời điểm: 〇/〇 〇〇:〇〇\n  - Hiện tượng: 〇〇\n  - Người phát hiện: 〇〇\n\n[Impact (Ảnh hưởng)]\n  - Phạm vi: 〇〇 (〇〇 case / 〇〇 người / khoảng 〇〇 yên)\n  - Thiệt hại đã xác nhận: 〇〇\n\n[Plan (Phương án)]\n  1. 〇〇 (PIC: 〇〇 / deadline: 〇〇:〇〇)\n  2. 〇〇 (PIC: 〇〇 / deadline: 〇〇:〇〇)\n  3. 〇〇 (PIC: 〇〇 / deadline: 〇〇:〇〇)\n\n[Ask (Tham vấn / xin chỉ thị)]\n  - Em 〇〇 được không ạ?\n  - Hoặc lựa chọn 〇〇 ạ.\n\n[Báo cáo lần sau]\n  - Em sẽ gửi báo cáo lần 2 lúc 〇/〇 〇〇:〇〇 ạ.\n\nEm xin cảm ơn ạ.",
+      "notes_ja": "Predict 句が無いと相手は心構え無しに被害情報を受ける。Plan は最低3アクション、各 owner + 期限を必ず付ける。次回報告時刻を予告することで上司が無駄に追わなくて済む。",
+      "notes_vi": "Không có Predict thì người nhận choáng ngợp. Plan tối thiểu 3 action, mỗi cái có owner + deadline. Báo trước giờ báo lần sau giúp sếp không phải truy đuổi."
+    }
+  ]
+}

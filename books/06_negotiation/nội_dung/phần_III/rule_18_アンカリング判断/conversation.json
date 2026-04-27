@@ -1,0 +1,173 @@
+{
+  "rule_id": "rule_18",
+  "rule_slug": "アンカリングの判断",
+  "title": {
+    "ja": "アンカリングの判断",
+    "vi": "Anchor first hay wait"
+  },
+  "rule_context": {
+    "ja": "Phase 3 価格フェーズの開始。ZOPA を把握しているので go first anchor を選択し ¥18M target + ¥24M high anchor を提示する場面。",
+    "vi": "Bắt đầu phase giá Phase 3. Đã có ZOPA nên go first, anchor target ¥18M + high anchor ¥24M."
+  },
+  "related_rules": [
+    "rule_02",
+    "rule_19",
+    "rule_27"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — ZOPAあるのにlet them go first",
+      "label_vi": "XẤU — Có ZOPA mà vẫn để khách quote trước",
+      "display_order": 1,
+      "analysis": {
+        "ja": "ZOPA を把握しているのに相手に値段を言わせ、low anchor (¥14M) を打たれて防戦に回る。",
+        "vi": "Đã có ZOPA mà vẫn để khách quote, bị anchor thấp ¥14M, lâm thế phòng ngự."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_18_bad_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "ズン、こっちが先に値段出すと足元見られる。先に向こうに言わせよう。",
+          "sentence_translation": "Dũng, mình quote trước là bị bắt thóp. Để bên kia quote trước đi.",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_18_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "では大垣様、Phase 3 の予算感はおいくらでしたら検討可能でしょうか？",
+          "sentence_translation": "Vậy thưa anh Ōgaki, cảm giác ngân sách Phase 3 ở mức nào thì quý cty xem xét được ạ?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_18_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "我々の希望は ¥14M 程度です。",
+          "sentence_translation": "Mong muốn bên tôi tầm ¥14M.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_18_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっ、¥14M ですか…",
+          "sentence_translation": "Ơ, ¥14M ạ...",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 根拠付き高めanchor",
+      "label_vi": "TỐT — Anchor cao kèm cơ sở",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_18_good_01",
+          "highlight_text": "Better tier — ¥18M、Anchor として Best tier ¥24M も併せて",
+          "ja": "Better target + Best anchor の二段提示。Best が anchor となり Better を「現実解」化。",
+          "vi": "Hai lớp: Better target + Best anchor. Best làm anchor, Better trở thành 'phương án thực tế'."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_18_good_02",
+          "highlight_text": "御社の +¥80M GMV インパクトに対し ROI 4.4 倍",
+          "ja": "anchor は単独でなく根拠 (ROI倍率) と一緒に。CFO に効く数値構造。",
+          "vi": "Anchor KHÔNG đứng một mình — đi kèm cơ sở (bội số ROI). Cấu trúc số liệu trúng CFO."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_18_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "価格について、本日 3 段階でご提案させていただいております。まずは Better tier — ¥18M、Anchor として Best tier ¥24M も併せて、ご検討の materialとしてお持ちしました。",
+          "sentence_translation": "Về giá, hôm nay em đề xuất 3-tier ạ. Trước hết là Better tier ¥18M, kèm Best tier ¥24M làm anchor, em mang theo làm material để quý anh xem xét ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_18_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "¥18M の根拠は、Phase 2 比 +24%、AI レコメンドエンジンの開発工数 + 専任 PM + SLA 99.9% を含めた構成。御社の +¥80M GMV インパクトに対し ROI 4.4 倍に位置します。",
+          "sentence_translation": "Cơ sở ¥18M: tăng 24% so Phase 2, gồm dev AI recommend engine + PM chuyên trách + SLA 99.9%. So với impact +¥80M GMV của quý cty, ROI ở mức 4.4 lần ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_18_good_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "…¥18M ですね。",
+          "sentence_translation": "...¥18M nhỉ.",
+          "tone": "neutral",
+          "pause_after_ms": 2000
+        },
+        {
+          "line_id": "rule_18_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(沈黙)",
+          "sentence_translation": "(im lặng)",
+          "tone": "neutral",
+          "pause_after_ms": 5000
+        },
+        {
+          "line_id": "rule_18_good_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "悪くない数字ですが、社内で議論が必要です。",
+          "sentence_translation": "Con số không tệ, nhưng cần thảo luận nội bộ.",
+          "tone": "neutral"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_18_kp_01",
+      "speaker": "zun",
+      "sentence": "Better tier ¥18M、Anchor として Best tier ¥24M も併せてご検討材料としてお持ちしました。",
+      "sentence_translation": "Better tier ¥18M, kèm Best tier ¥24M làm anchor, em mang theo làm material xem xét ạ.",
+      "purpose": "go first 二段anchor",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_18_bjt_01",
+      "level": "J1",
+      "skill": "表現読解",
+      "question_ja": "アンカリング判断 — 「先に値段を出すべき」場面はどれ？",
+      "options": [
+        "ZOPA 推定が不十分・新規顧客で competitor 状況も不明",
+        "ZOPA 推定が solid・根拠データが揃っている",
+        "上司に値段の事前承認を取っていない",
+        "顧客が緊張している"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "Go first は ZOPA を把握していて根拠が揃っている時のみ有効。条件未充足なら let them go first で intel を取る。",
+        "vi": "Go first chỉ hữu hiệu khi đã có ZOPA + cơ sở dữ liệu. Chưa đủ điều kiện thì let them go first để lấy intel."
+      }
+    }
+  ]
+}

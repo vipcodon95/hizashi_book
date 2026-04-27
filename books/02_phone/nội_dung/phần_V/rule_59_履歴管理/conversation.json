@@ -1,0 +1,87 @@
+{
+  "rule_id": "rule_59",
+  "rule_slug": "電話履歴の管理",
+  "title": {
+    "ja": "電話履歴の管理",
+    "vi": "Quản lý lịch sử cuộc gọi & ghi chú"
+  },
+  "rule_context": {
+    "ja": "通話記録の管理について、フオン副部長がズンに確認する場面。CRM登録の重要性を実演。",
+    "vi": "Chị Hương kiểm tra em Dũng về quản lý lịch sử cuộc gọi. Thể hiện tầm quan trọng của lưu CRM."
+  },
+  "related_rules": [
+    "rule_23",
+    "rule_51"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "通話後の記録は属人化を防ぎ、後の参照や引き継ぎを円滑にする。CRMで集中管理が望ましい。",
+        "vi": "Ghi lại sau gọi tránh phụ thuộc cá nhân, dễ tham chiếu/bàn giao sau. Quản lý tập trung trên CRM là lý tưởng."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_59_good_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "先週の松本様との通話、記録されてる？",
+          "sentence_translation": "Cuộc gọi với anh Matsumoto tuần trước em đã ghi lại chưa?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_59_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "はい、CRMに登録済みです。アクションは『報告書送付』で完了ステータスにしております。",
+          "sentence_translation": "Vâng, em đã lưu vào CRM rồi ạ. Action là 'gửi báo cáo' đã chuyển sang status hoàn thành ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_59_good_03",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ありがとう。来月のレビューで参照します。",
+          "sentence_translation": "Cảm ơn em. Tháng sau review chị sẽ tham khảo.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_59_kp_01",
+      "speaker": "zun",
+      "sentence": "CRMに登録済みです。",
+      "sentence_translation": "Em đã lưu vào CRM rồi ạ.",
+      "purpose": "通話履歴管理の報告",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_59_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "通話履歴の管理として最も適切なのは？",
+      "options": [
+        "記憶だけに頼る",
+        "個人ノートに書く",
+        "CRMに5要素（日時・相手・内容・タスク・進捗）で記録",
+        "記録しない"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "5要素でCRM管理が組織として最良。",
+        "vi": "Quản lý 5 yếu tố trên CRM là tốt nhất cho tổ chức."
+      }
+    }
+  ]
+}

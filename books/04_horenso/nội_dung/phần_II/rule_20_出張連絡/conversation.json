@@ -1,0 +1,156 @@
+{
+  "rule_id": "rule_20",
+  "rule_slug": "出張連絡",
+  "title": {
+    "ja": "出張連絡 (1週間前 + agenda + deliverables)",
+    "vi": "Báo công tác"
+  },
+  "rule_context": {
+    "ja": "ズンがハーCTO の指示で東京3日出張に行く前、team へ出張連絡を行う場面。出張は休暇と異なり、daily 進捗報告と reachable 状況の明示が求められる。",
+    "vi": "Em Dũng đi Tokyo 3 ngày theo chỉ đạo của anh Hà CTO. Báo công tác cho team. Khác nghỉ phép: cần daily check-in và nói rõ giờ liên lạc được."
+  },
+  "related_rules": [
+    "rule_14",
+    "rule_19",
+    "rule_21"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 2日前 + 1行通知",
+      "label_vi": "XẤU — Trước 2 ngày + 1 dòng",
+      "display_order": 1,
+      "analysis": {
+        "ja": "agenda・deliverable・reachable・代行を欠いた出張連絡は、team が空白の3日間を抱えることになる。",
+        "vi": "Thiếu agenda / deliverable / reachable / cover thì team phải đối mặt với khoảng trống 3 ngày."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_20_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "皆さん、来週月曜から3日東京出張です。",
+          "sentence_translation": "Mọi người, thứ Hai tuần sau em đi Tokyo công tác 3 ngày.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_20_bad_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "ズン、何のため？私が引き継ぐ部分は？日本との時差中、Slack 見れる？",
+          "sentence_translation": "Dũng, đi cho việc gì? Anh cần cover phần nào? Lệch giờ Nhật, Slack có xem được không?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_20_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと、デモのためです、引き継ぎは…まだ考えてなくて…",
+          "sentence_translation": "Ờ, đi demo ạ, bàn giao thì... em chưa nghĩ ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_20_bad_04",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "出張連絡は1週間前 + agenda + deliverables + reachable + 代行が基本。",
+          "sentence_translation": "Báo công tác là 1 tuần trước + agenda + deliverables + reachable + cover. Cơ bản đó.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 1週間前 + 4要素 + daily 21時報告",
+      "label_vi": "TỐT — 1 tuần trước + 4 yếu tố + daily 21h",
+      "display_order": 2,
+      "analysis": {
+        "ja": "出張中も daily 進捗報告で in-team visibility を維持。reachable 状況を明確化することで team は遠慮なく連絡できる。",
+        "vi": "Công tác vẫn daily check-in để giữ visibility. Nói rõ giờ reachable thì team biết khi nào liên lạc được."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_20_good_04",
+          "highlight_text": "毎晩21時(JST) に Slack で進捗報告",
+          "ja": "出張中の daily check-in。休暇と違い、出張は『出張先からの労働』なので報告が必要。",
+          "vi": "Daily check-in khi công tác. Khác nghỉ phép, công tác = 'làm việc từ địa điểm khác' nên vẫn báo cáo."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_20_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "件名「【出張連絡】5/13-5/15 東京 / 白鷗様向け Phase 2 デモ」で、出張概要・3日間アジェンダ・期待 deliverable 2件・reachable 状況・代行者の5要素メールを1週間前に送信しました。",
+          "sentence_translation": "Em gửi mail '[Báo công tác] 13/5-15/5 Tokyo / Demo Phase 2 cho Hakuō' gồm 5 phần: tổng quan + agenda 3 ngày + 2 deliverable kỳ vọng + giờ reachable + cover, gửi trước 1 tuần ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_20_good_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "了解。Phase 3 仕様検討は私が代行します。デモ資料の最終 review、明日金曜にやろう。",
+          "sentence_translation": "OK. Spec Phase 3 anh cover. Review cuối tài liệu demo, mai thứ Sáu mình làm nhé.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_20_good_03",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "ズン、CFO 中村様へは数値ベースで報告するように。Phase 2 の数字資料は私もレビューする。",
+          "sentence_translation": "Dũng, báo cáo cho anh Nakamura CFO bằng số liệu nhé. Tài liệu số Phase 2 anh cũng review.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_20_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "承知しました。毎晩21時(JST)に Slack で進捗報告いたします。",
+          "sentence_translation": "Em hiểu ạ. Em sẽ báo cáo tiến độ qua Slack mỗi tối 21h (JST) ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_20_kp_01",
+      "speaker": "zun",
+      "sentence": "〇月〇日〜〇月〇日、〇〇出張のご連絡です。期待 deliverable は〇〇、daily 進捗は〇〇時に Slack で共有いたします。",
+      "sentence_translation": "Em báo công tác 〇〇 từ 〇/〇 - 〇/〇 ạ. Deliverable kỳ vọng là 〇〇, tiến độ daily em share Slack lúc 〇〇h ạ.",
+      "purpose": "出張連絡の冒頭句",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_20_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "出張連絡と休暇連絡の最大の違いは？",
+      "options": [
+        "両者は同じ扱い",
+        "出張は daily 進捗報告と reachable 時間を明示する",
+        "休暇は事前通知不要、出張は必要",
+        "出張は社外秘で代行者を指定しない"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "休暇は完全不在、出張は『場所が違うだけで稼働中』。daily 進捗と reachable 時間の明示が必須。",
+        "vi": "Nghỉ phép = vắng hoàn toàn. Công tác = 'chỉ khác địa điểm, vẫn làm việc'. Bắt buộc có daily check-in + giờ reachable."
+      }
+    }
+  ]
+}

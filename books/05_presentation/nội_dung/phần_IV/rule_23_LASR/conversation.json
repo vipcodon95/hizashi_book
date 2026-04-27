@@ -1,0 +1,208 @@
+{
+  "rule_id": "rule_23",
+  "rule_slug": "難しい質問への対応LASR",
+  "title": {
+    "ja": "難しい質問への対応 (LASR)",
+    "vi": "Trả lời câu hỏi khó — LASR"
+  },
+  "rule_context": {
+    "ja": "Phase 3 Q&A で松本PMから2部構成の難問。LASR (Listen → Acknowledge → Solve → Redirect) パターンの実践。",
+    "vi": "Q&A Phase 3, Matsumoto PM hỏi câu phức tạp 2 vế. Thực hành pattern LASR (Listen → Acknowledge → Solve → Redirect)."
+  },
+  "related_rules": [
+    "rule_22",
+    "rule_24",
+    "rule_25"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — A・R を飛ばす",
+      "label_vi": "XẤU — Bỏ Acknowledge + Redirect",
+      "display_order": 1,
+      "analysis": {
+        "ja": "質問途中で答え始め、構造化なし、redirect なし。2分 ramble して結局回答が客に伝わらない。",
+        "vi": "Trả lời khi câu chưa hết, không cấu trúc, không redirect. 2 phút rambling, khách vẫn không hiểu."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_23_bad_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "Phase 3 のスコープは Phase 2 と重複しないか？重複したら誰が調整するのか？",
+          "sentence_translation": "Scope Phase 3 có trùng với Phase 2 không? Nếu trùng thì ai điều phối?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_23_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと、重複しないと思います。設計の段階で…あ、いや、重複する部分は…うーんと、トゥアンさんが…",
+          "sentence_translation": "Ờ, em nghĩ là không trùng ạ. Trong giai đoạn thiết kế... à không, phần trùng thì... ờ... anh Tuấn...",
+          "tone": "nervous",
+          "speed_multiplier": 1.1
+        },
+        {
+          "line_id": "rule_23_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "…と、まあ、そんな感じです。",
+          "sentence_translation": "...Và, đại khái là vậy ạ.",
+          "tone": "uncertain",
+          "continues_previous": true
+        },
+        {
+          "line_id": "rule_23_bad_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "…結局どっちが調整するんでしょうか？",
+          "sentence_translation": "...Vậy cuối cùng bên nào điều phối ạ?",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — LASR フル適用",
+      "label_vi": "TỐT — LASR đầy đủ",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_23_good_02",
+          "highlight_text": "ご質問ありがとうございます",
+          "ja": "Buffer phrase。1秒の準備時間を確保し、礼儀も保つ。",
+          "vi": "Câu đệm. Mua 1 giây chuẩn bị câu trả lời + giữ lễ."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_23_good_02",
+          "highlight_text": "ご質問の趣旨は〜と理解しました",
+          "ja": "A (Acknowledge) ステップ。質問を reframe して客に confirm させる。誤解を防ぐ最重要ステップ。",
+          "vi": "Bước A (Acknowledge). Reframe câu hỏi để khách confirm. Bước quan trọng nhất để tránh hiểu sai."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_23_good_04",
+          "highlight_text": "まず1点目",
+          "ja": "S (Solve) ステップ。複数論点を numbered list で構造化。客が track しやすい。",
+          "vi": "Bước S (Solve). Cấu trúc nhiều vế bằng numbered list. Khách dễ theo dõi."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_23_good_05",
+          "highlight_text": "お答えできておりますでしょうか",
+          "ja": "R (Redirect) ステップ。回答が十分かを確認してから turn を返す。「お答え」は尊敬・「〜になっております」は丁寧の組合せ。",
+          "vi": "Bước R (Redirect). Verify đã đủ trước khi trả turn. 「お答え」 là tôn kính + 「〜になっております」 lịch sự."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_23_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "Phase 3 のスコープは Phase 2 と重複しないか？重複したら誰が調整するのか？",
+          "sentence_translation": "Scope Phase 3 có trùng với Phase 2 không? Nếu trùng thì ai điều phối?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_23_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご質問ありがとうございます。ご質問の趣旨は『Phase 2 / 3 のスコープ重複の有無』と『重複時の調整責任者』の2点と理解しました、よろしいでしょうか？",
+          "sentence_translation": "Em cảm ơn câu hỏi của anh ạ. Em hiểu ý anh là 2 điểm: 「có trùng scope Phase 2 / 3 hay không」 và 「nếu trùng thì ai chịu trách nhiệm điều phối」, có đúng không ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_23_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "はい、その通りです。",
+          "sentence_translation": "Vâng, đúng vậy.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_23_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "まず1点目、スライド12の比較表のとおり重複は3機能ございます。2点目、調整責任者は弊社トゥアン＋御社田中様の合同レビューで月次調整いたします。",
+          "sentence_translation": "Trước hết điểm 1: theo bảng so sánh slide 12, có 3 chức năng trùng ạ. Điểm 2: người điều phối là anh Tuấn bên em + anh Tanaka bên quý vị, review chung và điều phối hàng tháng ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_23_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "以上、お答えできておりますでしょうか？他にご不明な点がございましたら、続けてどうぞ。",
+          "sentence_translation": "Như trên có giải đáp được không ạ? Nếu còn điểm chưa rõ, mời anh tiếp tục ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "4"
+          ]
+        },
+        {
+          "line_id": "rule_23_good_06",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "明確です。ありがとうございます。",
+          "sentence_translation": "Rõ ràng rồi. Cảm ơn anh.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_23_kp_01",
+      "speaker": "zun",
+      "sentence": "ご質問の趣旨は〇〇と理解しました、よろしいでしょうか？",
+      "sentence_translation": "Em hiểu ý câu hỏi là 〇〇, có đúng không ạ?",
+      "purpose": "LASR の A (Acknowledge) — 趣旨確認",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_23_kp_02",
+      "speaker": "zun",
+      "sentence": "以上、お答えできておりますでしょうか？",
+      "sentence_translation": "Như trên có giải đáp được không ạ?",
+      "purpose": "LASR の R (Redirect) — 回答十分性確認",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_23_bjt_01",
+      "level": "J2",
+      "skill": "発言聴解",
+      "question_ja": "難しい質問への対応で、回答前にすべき最も重要なステップは？",
+      "options": [
+        "すぐに答え始める",
+        "「持ち帰ります」と答える",
+        "ご質問の趣旨を reframe して相手に confirm させる",
+        "上司に振る"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "LASR の A ステップ。Reframe + confirm で誤解を防ぐ。これを飛ばすと的外れの回答になりがち。",
+        "vi": "Bước A của LASR. Reframe + confirm để tránh hiểu sai. Bỏ bước này thường trả lời lệch ý."
+      }
+    }
+  ]
+}

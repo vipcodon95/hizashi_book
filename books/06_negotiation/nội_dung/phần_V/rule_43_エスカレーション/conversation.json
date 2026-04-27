@@ -1,0 +1,243 @@
+{
+  "rule_id": "rule_43",
+  "rule_slug": "エスカレーション",
+  "title": {
+    "ja": "エスカレーション",
+    "vi": "Khi nào escalate senior"
+  },
+  "rule_context": {
+    "ja": "Phase 4 round 3、中村 CFO が indemnity 無制限 + 即決を ultimatum 提示。T2 (権限外) + T3 (threat) trigger を Dũng が認識し、Hà CTO に 5 分以内 escalate する場面。",
+    "vi": "Phase 4 round 3, Nakamura CFO ép 'indemnity unlimited + quyết ngay'. Dũng nhận diện trigger T2 (vượt thẩm quyền) + T3 (ultimatum), escalate Hà CTO trong 5 phút."
+  },
+  "related_rules": [
+    "rule_26",
+    "rule_33"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 権限外を即決",
+      "label_vi": "XẤU — Tự quyết vượt thẩm quyền",
+      "display_order": 1,
+      "analysis": {
+        "ja": "T2 (権限外) + T3 (ultimatum) trigger 認識せず Dũng が即決。取締役会上限規定違反 → 撤回 → trust dent。",
+        "vi": "Dũng không nhận trigger T2 + T3, tự quyết. Vi phạm quy định HĐQT → renegotiate → trust dent."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_43_bad_01",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "indemnity 無制限じゃないと弊社決裁 down ません。今ここで決めてください。",
+          "sentence_translation": "Indemnity không unlimited thì bên tôi không duyệt được. Bây giờ anh quyết đi.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_43_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと…無制限ですか…承知いたしました、それで進めます…",
+          "sentence_translation": "Ờ thì... unlimited ạ... em rõ rồi ạ, em đi tiếp như vậy ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_43_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Hà CTO、Phase 4 indemnity 無制限で合意しました。",
+          "sentence_translation": "Anh Hà CTO, Phase 4 em đã thống nhất indemnity unlimited rồi ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_43_bad_04",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "何故 escalate しなかった？取締役会上限規定を超える。今すぐ撤回交渉。社長 escalate も必要。",
+          "sentence_translation": "Sao em không escalate? Vượt quy định cap HĐQT. Bây giờ phải renegotiate rút lại ngay. Có khi phải escalate cả Tổng Giám đốc.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — Trigger 認識 + 30 秒 Slack + senior step-in",
+      "label_vi": "TỐT — Nhận trigger + Slack 30s + senior step-in",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_43_good_03",
+          "highlight_text": "私の権限を超えます",
+          "ja": "「権限を超えます」 framing は personal weakness ではなく organizational rule。顧客 accept しやすい。",
+          "vi": "Framing 'vượt thẩm quyền' không phải yếu kém cá nhân mà là quy tắc tổ chức. Khách dễ accept."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_43_good_03",
+          "highlight_text": "5 分ほどお時間頂戴し、Hà CTO に連絡を取らせてください",
+          "ja": "5 分 buffer 要請。'急に持ち帰り' より reasonable。JP は escalation を期待する。",
+          "vi": "Yêu cầu buffer 5 phút. Reasonable hơn 'mang về'. JP coi escalation là việc đáng mong đợi."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_43_good_06",
+          "highlight_text": "Dũng は メンバー紹介後そのまま session にいて、撤退ではない",
+          "ja": "Senior step-in 時も Dũng は presence 保持。完全 disappear すると ownership lost。",
+          "vi": "Khi senior step-in, Dũng vẫn giữ presence. Hoàn toàn rút thì mất ownership."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_43_good_10",
+          "highlight_text": "T2/T3 認識 + 30 秒 context + setup 完璧",
+          "ja": "Senior feedback で learning loop。次回 trigger 認識速度 up。",
+          "vi": "Senior feedback tạo learning loop. Lần sau nhận trigger nhanh hơn."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_43_good_01",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "indemnity 無制限じゃないと弊社決裁 down ません。今ここで決めてください。",
+          "sentence_translation": "Indemnity không unlimited thì bên tôi không duyệt được. Bây giờ anh quyết đi.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_43_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご要望承知しました。",
+          "sentence_translation": "Em ghi nhận yêu cầu của anh ạ.",
+          "tone": "formal",
+          "pause_after_ms": 1000
+        },
+        {
+          "line_id": "rule_43_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "indemnity 無制限の判断は弊社取締役会上限規定に関わるため、私の権限を超えます。5 分ほどお時間頂戴し、Hà CTO に連絡を取らせてください。",
+          "sentence_translation": "Quyết định về indemnity unlimited liên quan đến quy định cap HĐQT bên em, vượt thẩm quyền của em ạ. Phiền anh cho em 5 phút để liên lạc anh Hà CTO ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_43_good_04",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "分かりました。5 分待ちます。",
+          "sentence_translation": "Hiểu rồi. Anh đợi 5 phút.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_43_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ハー CTO、Phase 4 中村 CFO escalation。要点: indemnity 無制限 + ultimatum + 即決要請。T2 + T3 trigger。step-in 可否 ご判断ください。",
+          "sentence_translation": "(Slack) Anh Hà CTO, escalate Phase 4 anh Nakamura CFO. Tóm tắt: indemnity unlimited + ultimatum + ép quyết ngay. Trigger T2 + T3. Anh quyết step-in được không ạ.",
+          "tone": "urgent"
+        },
+        {
+          "line_id": "rule_43_good_06",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "私が join。3 分後 Zoom link 送る。Dũng は メンバー紹介後そのまま session にいて、撤退ではない。",
+          "sentence_translation": "Anh sẽ join. 3 phút nữa anh gửi Zoom link. Dũng giới thiệu xong cứ ở lại session, KHÔNG rút.",
+          "tone": "firm",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_43_good_07",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お待たせいたしました。弊社 CTO ハー が join いたします。",
+          "sentence_translation": "Em xin lỗi đã để anh đợi. CTO Hà bên em sẽ join ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_43_good_08",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "中村様、ハーでございます。indemnity 上限 ¥20M (年契約額) は弊社取締役会規定上の上限。これを超えるご提案は弊社で commit 不可です。代替として段階的 cap (1 年目 ¥20M、2 年目 ¥30M) のご相談は可能です。",
+          "sentence_translation": "Anh Nakamura, tôi là Hà. Cap indemnity ¥20M (annual) là cap quy định HĐQT bên tôi. Vượt mức này thì bên tôi không commit được. Phương án thay thế: cap theo bậc (năm 1 ¥20M, năm 2 ¥30M) có thể trao đổi.",
+          "tone": "formal",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_43_good_09",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "CTO 直接ご回答 助かります。段階的 cap、 持ち帰り検討します。",
+          "sentence_translation": "CTO trả lời trực tiếp giúp anh nhiều. Cap theo bậc, anh mang về xem.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_43_good_10",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "Good job escalate。T2/T3 認識 + 30 秒 context + setup 完璧。学べた。",
+          "sentence_translation": "Em escalate tốt. Nhận T2/T3 + 30s context + setup hoàn hảo. Anh cũng học được.",
+          "tone": "warm",
+          "annotation_ids": [
+            "4"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_43_kp_01",
+      "speaker": "zun",
+      "sentence": "私の権限を超えます。5 分ほどお時間頂戴し、Hà CTO に連絡を取らせてください。",
+      "sentence_translation": "Vượt thẩm quyền của em ạ. Phiền anh cho em 5 phút để liên lạc anh Hà CTO ạ.",
+      "purpose": "Escalation 要請の標準",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_43_kp_02",
+      "speaker": "zun",
+      "sentence": "T2 + T3 trigger。step-in 可否 ご判断ください。",
+      "sentence_translation": "Trigger T2 + T3. Anh quyết step-in được không ạ.",
+      "purpose": "30 秒 Slack escalate format",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_43_bjt_01",
+      "level": "J1",
+      "skill": "場面把握",
+      "question_ja": "「indemnity 無制限を今ここで決めて」と CFO に push された時、最も適切な対応は？",
+      "options": [
+        "迅速さを優先し即決する",
+        "「権限を超えるため 5 分頂戴し senior に escalate」と buffer 要請、Slack で 30 秒 context",
+        "「無理です」と即拒否",
+        "話題を変えて時間稼ぎ"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "T2 (権限外) + T3 (ultimatum) は escalation trigger。即決は法的 bind 不可 risk。即拒否は relationship dent。5 分 buffer + Slack escalate が standard。",
+        "vi": "T2 (vượt thẩm quyền) + T3 (ultimatum) = trigger escalation. Tự quyết = rủi ro không bind hợp pháp. Từ chối ngay = dent relationship. Buffer 5 phút + Slack escalate là chuẩn."
+      }
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "rule_id": "rule_02",
+  "rule_slug": "3コール以内に出る",
+  "title": {
+    "ja": "3コール以内に出る",
+    "vi": "Bắt máy trong 3 hồi chuông"
+  },
+  "rule_context": {
+    "ja": "日本のオフィスの暗黙ルール：受電は3コール以内に。月曜朝、忙しい時間帯。松本PMがズンに電話、ズンは別作業中。",
+    "vi": "Quy tắc bất thành văn ở văn phòng Nhật: bắt máy trong 3 hồi. Sáng thứ Hai, văn phòng bận. Anh Matsumoto gọi em Dũng đang ghi note dở."
+  },
+  "related_rules": [
+    "rule_01",
+    "rule_03"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 5コール後、お詫びなし",
+      "label_vi": "XẤU — 5 hồi mới bốc, không xin lỗi",
+      "display_order": 1,
+      "sfx_intro": "phone_ring_5_times",
+      "analysis": {
+        "ja": "5コール後にも「お待たせいたしました」を入れない。松本PMの1秒沈黙は不満のサイン。",
+        "vi": "Sau 5 hồi mà không thêm 「お待たせいたしました」. 1 giây im lặng của Matsumoto = bất mãn ngầm."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_02_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お電話ありがとうございます。ティエンファット社のズンでございます。",
+          "sentence_translation": "Cảm ơn anh đã gọi. Tôi là Dũng bên Cty Thiên Phát ạ.",
+          "tone": "formal",
+          "pause_after_ms": 1000
+        },
+        {
+          "line_id": "rule_02_bad_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "(間)... お世話になっております。",
+          "sentence_translation": "(im 1 giây)... Cảm ơn anh đã hỗ trợ.",
+          "tone": "uncertain",
+          "speed_multiplier": 0.9
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 4コール、お詫び付き",
+      "label_vi": "TỐT — 4 hồi, có xin lỗi",
+      "display_order": 2,
+      "sfx_intro": "phone_ring_4_times",
+      "analysis": {
+        "ja": "「お待たせいたしました」を入れることで顧客の小さな不満を解消。",
+        "vi": "Thêm 「お待たせいたしました」 giải tỏa bất mãn ngầm của khách."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_02_good_01",
+          "highlight_text": "お待たせいたしました",
+          "ja": "3コール超過時の標準詫び。5コール超なら「大変お待たせいたしました」。",
+          "vi": "Câu xin lỗi chuẩn khi quá 3 hồi. Quá 5 hồi → thêm 「大変」 (rất)."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_02_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お電話ありがとうございます。お待たせいたしました、ティエンファット社のズンでございます。",
+          "sentence_translation": "Cảm ơn anh đã gọi. Xin lỗi vì đã để anh đợi, tôi là Dũng bên Cty Thiên Phát ạ.",
+          "tone": "apologetic",
+          "speed_multiplier": 0.95,
+          "pause_after_ms": 800,
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_02_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "お世話になっております。白鷗の松本です。",
+          "sentence_translation": "Cảm ơn anh đã hỗ trợ. Tôi là Matsumoto bên Hakuō.",
+          "tone": "warm"
+        }
+      ]
+    },
+    {
+      "section": "variant",
+      "variant_name": "colleague_picks_up",
+      "label_ja": "バリエーション — 同僚が代わりに取る",
+      "label_vi": "Biến thể — Đồng nghiệp đỡ máy",
+      "display_order": 3,
+      "context": {
+        "ja": "ズンが席を外している間に電話。近くの同僚ハイが取る。",
+        "vi": "Em Dũng vắng, em Hải gần đó đỡ máy hộ."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_02_var_01",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "お電話ありがとうございます。ティエンファット社のハイでございます。ズンが席を外しておりますが、よろしければご用件を承ります。",
+          "sentence_translation": "Cảm ơn anh đã gọi. Tôi là Hải bên Cty Thiên Phát. Em Dũng đang vắng, nếu anh đồng ý em xin tiếp nhận nội dung ạ.",
+          "tone": "warm",
+          "speed_multiplier": 0.95
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_02_kp_01",
+      "speaker": "zun",
+      "sentence": "お電話ありがとうございます。お待たせいたしました、〇〇社の〇〇でございます。",
+      "sentence_translation": "Cảm ơn anh đã gọi. Xin lỗi vì đã để anh đợi, tôi là 〇〇 bên Cty 〇〇 ạ.",
+      "purpose": "3コール超え時の第一声テンプレート",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_02_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "audio_prompt_id": "rule_02_good_01",
+      "question_ja": "電話が5回鳴ってから取った場合、最も適切な第一声は？",
+      "options": [
+        "お電話ありがとうございます",
+        "お電話ありがとうございます。お待たせいたしました",
+        "すみません、遅くなりました",
+        "もしもし、ティエンファットです"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "3コール以上は「お待たせいたしました」必須。「すみません」はビジネス電話の詫びとしてカジュアルすぎる。",
+        "vi": "Quá 3 hồi phải có 「お待たせいたしました」. 「すみません」 quá casual cho phone business."
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "rule_id": "rule_47",
+  "rule_slug": "督促の電話",
+  "title": {
+    "ja": "督促の電話",
+    "vi": "Gọi đòi nợ / nhắc thanh toán"
+  },
+  "rule_context": {
+    "ja": "ロアン経理部長が松本PMへ未入金確認の電話。請求書番号・金額・期日を提示し、『行き違い』表現で相手に逃げ道を残す。",
+    "vi": "Chị Loan kế toán trưởng gọi anh Matsumoto xác nhận tiền chưa vào. Nói rõ số hóa đơn / số tiền / hạn, dùng 「行き違い」 để đối phương có lối thoát."
+  },
+  "related_rules": [
+    "rule_41",
+    "rule_42"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『ご確認のお電話』『行き違いがございましたでしょうか』で督促を確認の体裁に変換。相手の体面を保ちつつ事実を明示。",
+        "vi": "「ご確認のお電話」「行き違いがございましたでしょうか」 chuyển đòi nợ thành xác nhận. Vẫn nêu rõ sự thật mà giữ thể diện."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_47_good_01",
+          "speaker": "loan_keiri",
+          "speaker_role": "経理部長",
+          "gender": "female",
+          "sentence": "お世話になっております。ティエンファット社の経理部、ロアンと申します。",
+          "sentence_translation": "Lúc nào cũng cảm ơn anh hỗ trợ ạ. Tôi là Loan, phòng kế toán Cty Thiên Phát ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_47_good_02",
+          "speaker": "loan_keiri",
+          "speaker_role": "経理部長",
+          "gender": "female",
+          "sentence": "3月分の請求書INV-2026-0315、150万円のお振込みについてご確認のお電話を差し上げました。",
+          "sentence_translation": "Tôi xin gọi xác nhận về khoản chuyển khoản 1.500.000 yên cho hóa đơn tháng 3, số INV-2026-0315 ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.85
+        },
+        {
+          "line_id": "rule_47_good_03",
+          "speaker": "loan_keiri",
+          "speaker_role": "経理部長",
+          "gender": "female",
+          "sentence": "期日は4月20日でございましたが、本日時点で入金が確認できておりません。何か行き違いがございましたでしょうか？",
+          "sentence_translation": "Hạn là 20/4 nhưng tới hôm nay bên tôi chưa thấy tiền vào. Có lẽ có nhầm lẫn gì không ạ?",
+          "tone": "formal",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_47_good_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "失礼しました。経理に確認して明日中に処理します。",
+          "sentence_translation": "Xin lỗi chị, tôi sẽ kiểm tra với kế toán và xử lý trong ngày mai.",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_47_good_05",
+          "speaker": "loan_keiri",
+          "speaker_role": "経理部長",
+          "gender": "female",
+          "sentence": "ご対応ありがとうございます。引き続きどうぞよろしくお願いいたします。",
+          "sentence_translation": "Cảm ơn anh đã xử lý ạ. Mong anh tiếp tục hỗ trợ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_47_kp_01",
+      "speaker": "loan_keiri",
+      "sentence": "ご確認のお電話を差し上げました。何か行き違いがございましたでしょうか？",
+      "sentence_translation": "Tôi gọi xác nhận ạ. Có lẽ có nhầm lẫn gì không ạ?",
+      "purpose": "督促の婉曲表現",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_47_bjt_01",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "督促電話で最も婉曲な表現は？",
+      "options": [
+        "お金まだですか",
+        "何か行き違いがございましたでしょうか",
+        "早く払ってください",
+        "支払い遅れてます"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "『行き違い』で相手のミスではない可能性を含ませた表現が最も丁寧。",
+        "vi": "「行き違い」 ngầm nói 'có thể không phải lỗi của anh' — cách lịch sự nhất."
+      }
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "rule_id": "rule_41",
+  "rule_slug": "オンライン交渉",
+  "title": {
+    "ja": "オンライン交渉",
+    "vi": "Đàm phán online"
+  },
+  "rule_context": {
+    "ja": "Phase 3 round 2 を Zoom で実施。Anchor ¥18M 提示時の eye contact (カメラ直視)、screen share strategy、online 沈黙 4 秒の調整。",
+    "vi": "Round 2 Phase 3 trên Zoom. Strategy lúc anchor ¥18M: nhìn camera, screen share đúng lúc, silence điều chỉnh xuống 4 giây."
+  },
+  "related_rules": ["rule_18", "rule_25"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — eye contact 不在 + 7 秒沈黙で interruption",
+      "label_vi": "XẤU — Không nhìn camera + silence 7 giây bị interrupt",
+      "display_order": 1,
+      "analysis": {
+        "ja": "画面 note を凝視、camera 不在。沈黙 7 秒 → 大垣 が「音声大丈夫?」と interrupt → anchor 効果消滅。",
+        "vi": "Nhìn note dưới screen, không nhìn camera. Silence 7 giây → Ōgaki interrupt 'audio OK?' → anchoring effect tan biến."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_41_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 3 価格 ¥18M でご提案させていただきます。",
+          "sentence_translation": "Em xin đề xuất giá Phase 3 là ¥18M ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_41_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(沈黙 7 秒、 画面下の slide note を見続ける)",
+          "sentence_translation": "(Im lặng 7 giây, mắt vẫn nhìn note dưới slide)",
+          "tone": "neutral",
+          "pause_after_ms": 3000
+        },
+        {
+          "line_id": "rule_41_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "あの…音声 大丈夫ですか？",
+          "sentence_translation": "Ờ thì... audio có ổn không em?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_41_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、はい、聞こえてます！ ¥18M です、ご検討ください！",
+          "sentence_translation": "À vâng, em nghe được ạ! ¥18M ạ, anh xem xét giúp em!",
+          "tone": "nervous"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — camera 直視 + 4 秒沈黙 + 画面 share 戦略",
+      "label_vi": "TỐT — Nhìn camera + silence 4 giây + screen share đúng lúc",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_41_good_02",
+          "highlight_text": "Better tier ¥18M、Best tier ¥24M",
+          "ja": "Anchor 提示時のみ画面共有。提示後は即 OFF してカメラに戻る。",
+          "vi": "Chỉ share screen lúc anchor. Sau đó tắt ngay, quay lại camera."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_41_good_07",
+          "highlight_text": "相手が 'connection 大丈夫?' interrupt する前に reply 来た",
+          "ja": "Online 沈黙 4 秒の effective range。5 秒以上はネット遅延と勘違いされる。",
+          "vi": "Silence online effective 4 giây. Quá 5 giây khách nghĩ là lag mạng."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_41_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 3 価格について、画面共有させていただきます。",
+          "sentence_translation": "Về giá Phase 3, em xin phép share screen ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_41_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Better tier ¥18M、Best tier ¥24M、本日は Better tier をベースにご相談させていただければと存じます。",
+          "sentence_translation": "Better tier ¥18M, Best tier ¥24M, hôm nay em xin được trao đổi base trên Better tier ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_41_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(画面共有 OFF、 camera のみに集中、 直視維持) ¥18M の根拠は Phase 2 比 +24%、ROI 4.4 倍。御社のご感想を頂戴できればと存じます。",
+          "sentence_translation": "(Tắt screen share, tập trung vào camera, nhìn thẳng) Cơ sở ¥18M là +24% so với Phase 2, ROI 4.4 lần. Em rất mong nhận được cảm nhận từ bên anh ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_41_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(沈黙 4 秒、 Dũng は camera 直視・微笑、 hand stillness)",
+          "sentence_translation": "(Im lặng 4 giây, Dũng vẫn nhìn camera, mỉm cười nhẹ, tay không động)",
+          "tone": "neutral",
+          "pause_after_ms": 2000
+        },
+        {
+          "line_id": "rule_41_good_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "…¥18M ですね。社内で検討します。",
+          "sentence_translation": "...¥18M nhỉ. Bên anh nội bộ thảo luận.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_41_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。検討期間は 1 週間ほど見ていただけますでしょうか？",
+          "sentence_translation": "Em cảm ơn ạ. Phiền anh dành khoảng 1 tuần để xem xét được không ạ?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_41_good_07",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "online 4 秒 silence で大垣様 reply。screen share は anchor slide 出して即 OFF、camera 直視で沈黙保持。相手が 'connection 大丈夫?' interrupt する前に reply 来た。",
+          "sentence_translation": "Online silence 4 giây thì anh Ōgaki đã reply. Screen share chỉ lúc show anchor slide rồi tắt ngay, camera giữ direct gaze giữ silence. Reply đến trước khi anh ấy interrupt 'connection OK?'.",
+          "tone": "warm",
+          "annotation_ids": ["2"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_41_kp_01",
+      "speaker": "zun",
+      "sentence": "画面共有させていただきます。",
+      "sentence_translation": "Em xin phép share screen ạ.",
+      "purpose": "Screen share ON 宣言",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_41_kp_02",
+      "speaker": "zun",
+      "sentence": "御社のご感想を頂戴できればと存じます。",
+      "sentence_translation": "Em rất mong nhận được cảm nhận từ bên anh ạ.",
+      "purpose": "Anchor 後の沈黙 hand-over",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_41_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "オンライン交渉でアンカー提示後の沈黙の effective range は？",
+      "options": [
+        "オフライン同様 7-10 秒",
+        "online は 4 秒前後、5 秒超えるとネット遅延と勘違いされ interrupt される",
+        "1 秒",
+        "沈黙はオンラインでは効果なし"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "online silence は network lag と区別がつきにくく、5 秒超えで「聞こえてますか?」 interrupt が出やすい。4 秒が安全な anchor 効果保持区間。",
+        "vi": "Silence online khó phân biệt với lag mạng, quá 5 giây dễ bị 'có nghe không?' interrupt. 4 giây là vùng an toàn giữ anchoring effect."
+      }
+    }
+  ]
+}

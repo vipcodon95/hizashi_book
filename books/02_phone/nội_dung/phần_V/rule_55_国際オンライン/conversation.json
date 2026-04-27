@@ -1,0 +1,98 @@
+{
+  "rule_id": "rule_55",
+  "rule_slug": "国際オンライン会議",
+  "title": {
+    "ja": "国際オンライン会議",
+    "vi": "Cross-border online meeting"
+  },
+  "rule_context": {
+    "ja": "ベトナム・日本間のオンライン会議冒頭。時差・主言語確認、途中の理解確認を実演。",
+    "vi": "Họp online giữa VN-JP. Mở đầu xác nhận múi giờ + ngôn ngữ, giữa cuộc check hiểu."
+  },
+  "related_rules": [
+    "rule_33",
+    "rule_52"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "時差を冒頭で共有、進行言語を確認、途中で『ご不明な点』と理解度確認。国際会議の3点セット。",
+        "vi": "Mở đầu chia sẻ múi giờ, xác nhận ngôn ngữ, giữa cuộc check hiểu. Bộ 3 cho họp quốc tế."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_55_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "皆さん、こんにちは。ベトナム時間で午前9時、日本時間11時でございます。",
+          "sentence_translation": "Xin chào mọi người. Hiện giờ Việt Nam là 9h sáng, Nhật là 11h ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_55_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本日は日本語で進めさせていただきますが、ご不明な点があればいつでもお知らせください。",
+          "sentence_translation": "Hôm nay em xin phép tiến hành bằng tiếng Nhật, có gì chưa rõ mọi người cứ nói em ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_55_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "承知しました。",
+          "sentence_translation": "Tôi hiểu rồi.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_55_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ここまでで何かご不明な点はございますでしょうか？",
+          "sentence_translation": "Đến đây có điểm nào chưa rõ không ạ?",
+          "tone": "formal",
+          "speed_multiplier": 0.9
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_55_kp_01",
+      "speaker": "zun",
+      "sentence": "ご不明な点があればいつでもお知らせください。",
+      "sentence_translation": "Có gì chưa rõ anh/chị cứ nói em ạ.",
+      "purpose": "国際会議での理解確認",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_55_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "国際オンライン会議の冒頭で確認すべきは？",
+      "options": [
+        "天気",
+        "時差と主言語",
+        "個人予定",
+        "為替"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "時差・言語の共有が国際会議の出発点。",
+        "vi": "Múi giờ + ngôn ngữ là điểm xuất phát của họp quốc tế."
+      }
+    }
+  ]
+}

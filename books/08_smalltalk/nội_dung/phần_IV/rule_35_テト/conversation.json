@@ -1,0 +1,327 @@
+{
+  "rule_id": "08-35",
+  "rule_slug": "テト",
+  "title": {
+    "vi": "Tết — solar vs lunar",
+    "ja": "テト・旧正月"
+  },
+  "rule_context": {
+    "luan_diem_vi": "Khách JP biết Tết nhưng nhầm với 正月. Phải kể: âm vs dương lịch, 12 giáp khác (mèo/trâu), hoa đào Bắc/mai Nam, lì xì, mâm ngũ quả. Tránh chính trị.",
+    "luan_diem_ja": "日本のお客様はテトを知っているが正月と混同しがち。旧暦・干支の違い・桃花/黄梅・お年玉・五果盆を説明できると深まる。政治は禁忌。",
+    "boi_canh_vi": "Cuối tháng 1/2026 (Tết = 17/2/2026, năm Ngọ). Dũng zoom call với Matsumoto/Kato chuẩn bị Phase 5, phải explain 'VN nghỉ Tết 1 tuần'.",
+    "boi_canh_ja": "2026年1月末、テトは2/17(午年)。フェーズ5の準備で松本・加藤とZoom、テト休暇を説明する。",
+    "muc_tieu_vi": "Học cách kể Tết VN cho khách JP với depth + tránh chính trị."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "16",
+      "topic": "Festivals theo mùa Nhật"
+    },
+    {
+      "book": "08",
+      "rule": "39",
+      "topic": "Lễ hội VN"
+    },
+    {
+      "book": "08",
+      "rule": "08",
+      "topic": "8 chủ đề cấm"
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "Mechanism âm vs dương lịch",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "ズンさん、2月の半ばに連休あるってメールにあったけど、何の祝日?",
+          "vi": "Dũng, mail có ghi giữa tháng 2 nghỉ dài, ngày lễ gì vậy?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ベトナムのテト(旧正月)です。旧暦の1月1日で、毎年日付が変わります。今年は2月17日、来年は2月6日です。",
+          "vi": "Tết âm lịch của VN ạ. 1/1 âm lịch, mỗi năm khác ngày. Năm nay 17/2, năm sau 6/2."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "あー、中国の春節と同じタイミングだね。",
+          "vi": "À, cùng dịp Xuân Tiết Trung Quốc nhỉ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、東アジアで旧正月を祝う国はベトナム、中国、韓国(ソルラル)、シンガポールなど。日本だけ明治期に新暦に切り替えたんですよね。",
+          "vi": "Vâng, các nước Đông Á ăn Tết âm: VN, TQ, Hàn (Seollal), Singapore... Chỉ Nhật chuyển sang dương lịch từ thời Minh Trị."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "そうそう、明治5年だっけ。じゃあベトナムは正月を年2回?",
+          "vi": "Đúng, năm Minh Trị thứ 5 nhỉ. Vậy VN ăn Tết 2 lần?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "形式上はそうですが、新暦の1月1日は1日だけ祝日で軽め。テトが本番です。1週間〜10日休みで、地方に帰省して家族と過ごします。",
+          "vi": "Hình thức là vậy nhưng 1/1 dương chỉ nghỉ 1 ngày, nhẹ. Tết âm mới chính, nghỉ 1 tuần đến 10 ngày, về quê đoàn tụ."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "日本のお盆+正月を一緒にした感じ?",
+          "vi": "Kiểu Obon + Shogatsu gộp lại à?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "まさにそのイメージです!帰省ラッシュも激しくて、新幹線にあたる南北統一鉄道が満員になります。",
+          "vi": "Đúng image đó ạ! Đợt về quê cũng dữ, tàu Bắc-Nam (tương đương Shinkansen) đầy chật."
+        }
+      ]
+    },
+    {
+      "scenario": "12 con giáp + năm Ngọ 2026",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "kato_gifu",
+          "ja": "ズンさん、ベトナムも干支あるんでしょ?",
+          "vi": "Dũng, VN cũng có 12 con giáp đúng không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、ほぼ日本と同じ12支ですが、2つだけ違います。牛の代わりに水牛、兎の代わりに猫です。",
+          "vi": "Vâng, gần giống 12 giáp Nhật nhưng có 2 con khác: thay bò thành trâu, thay thỏ thành mèo ạ."
+        },
+        {
+          "speaker": "kato_gifu",
+          "ja": "ええっ、猫?可愛いね!何でだろう?",
+          "vi": "Ơ, mèo? Dễ thương! Tại sao vậy?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "諸説あるんですが、ベトナム語で『卯(マオ)』が猫(メオ)に音が似てるから、と聞いたことがあります。",
+          "vi": "Có nhiều thuyết nhưng nghe nói tại tiếng Việt 'mão' đọc gần giống 'mèo'."
+        },
+        {
+          "speaker": "kato_gifu",
+          "ja": "面白いなあ、音の混同ね。じゃあ今年は何年?",
+          "vi": "Hay nhỉ, lẫn âm. Vậy năm nay là năm gì?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "午年(うま)です、これは日本と同じ。私は1995年生まれの亥年(いのしし)ですが、ベトナムでは『豚年』なんですよ(笑)",
+          "vi": "Năm Ngọ ạ, giống Nhật. Em sinh 1995 năm Hợi, ở Nhật là 'lợn rừng' nhưng VN là 'lợn nhà' (cười)"
+        },
+        {
+          "speaker": "kato_gifu",
+          "ja": "あはは、猪じゃなくて豚!家畜の方ね、それも文化が出るね。",
+          "vi": "Haha, không phải lợn rừng mà lợn nhà! Văn hóa khác nhau hiện rõ nhỉ."
+        }
+      ]
+    },
+    {
+      "scenario": "Hoa đào / hoa mai + mâm ngũ quả",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "テトの飾り付けって、桜みたいなんあるん?",
+          "vi": "Trang trí Tết có cái gì như sakura không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "あります!北は桃の花(ホアダオ)、南は黄色い梅(ホアマイ)。地域で違うんです。",
+          "vi": "Có ạ! Bắc là hoa đào (đỏ hồng), Nam là hoa mai vàng. Khác theo vùng."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "南は梅?日本の梅と同じ?",
+          "vi": "Nam là mai à? Giống mơ Nhật không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "種類は違って、黄色い5枚花びらで南国らしい鮮やかさです。『運と幸せ』の象徴です。",
+          "vi": "Loài khác, vàng 5 cánh, rực rỡ kiểu nhiệt đới. Biểu tượng 'may mắn và hạnh phúc'."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "ええなあ、写真見てみたい。",
+          "vi": "Hay nhỉ, tôi muốn xem ảnh."
+        },
+        {
+          "speaker": "zun",
+          "ja": "これがバンザン花卉村の桃の市場で、テト前は花だけで埋まります。",
+          "vi": "Đây là chợ hoa đào làng Vạn Giã, trước Tết toàn hoa."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "すごい!神戸の花市場みたい。",
+          "vi": "Wow! Giống chợ hoa Kobe."
+        },
+        {
+          "speaker": "zun",
+          "ja": "あとマム・ングークア(五果盆)って、5種類の果物を仏壇に飾る習慣があります。各果物に意味があって、例えばマンゴー(Cầu)・グァバ(Sung)・パパイヤ(Đủ)・ココナッツ(Dừa)・ジャックフルーツ(Xoài)で読むと『十分に欲しいだけ』って意味になります。",
+          "vi": "Còn có 'mâm ngũ quả' — bày 5 loại trái lên bàn thờ. Mỗi loại có ý: mãng cầu, sung, đu đủ, dừa, xoài đọc thành 'Cầu Sung Vừa Đủ Xài'."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "えっ、ダジャレ?めっちゃ関西人気質や(笑)",
+          "vi": "Ơ, chơi chữ? Đậm chất Kansai luôn (cười)"
+        }
+      ]
+    },
+    {
+      "scenario": "Lì xì + ngày 3 thầy",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "お正月のお年玉みたいなのある?",
+          "vi": "Có gì giống tiền mừng tuổi không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "リーシー(Lì xì)っていう赤い小袋にお金を入れて、子供や年長者にも渡します。",
+          "vi": "Có 'lì xì' — bao đỏ đựng tiền, tặng cả trẻ con và người lớn tuổi ạ."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "年長者にも?日本のお年玉は子供だけだよね。",
+          "vi": "Cả người lớn tuổi à? Ở Nhật chỉ cho trẻ con thôi."
+        },
+        {
+          "speaker": "zun",
+          "ja": "そう、ベトナムは親や祖父母にも『健康と長寿の願い』として渡します。中の額より気持ちが大事です。",
+          "vi": "Vâng, VN tặng cha mẹ ông bà với 'lời chúc sức khỏe trường thọ'. Mệnh giá không quan trọng bằng tâm ý."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "いいね、温かい習慣だね。テトの家族の集まりって何日くらい?",
+          "vi": "Hay quá, tập tục ấm áp. Tụ họp gia đình Tết bao nhiêu ngày?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "3が日が一番濃い です。元日は両親、2日目は妻側の親、3日目は先生や恩人を訪ねる、というパターンが多いです。",
+          "vi": "3 ngày đầu đậm nhất ạ. Mùng 1 nhà cha mẹ, mùng 2 nhà vợ, mùng 3 thăm thầy và ân nhân."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "先生も訪ねるの?素敵だね。",
+          "vi": "Thăm cả thầy cô à? Hay quá."
+        },
+        {
+          "speaker": "zun",
+          "ja": "『師事の感謝』を表す日で、儒教文化の名残ですね。Mùng 3 tết Thầy(3日目は先生の日)って言葉があるくらいです。",
+          "vi": "Là ngày tri ân thầy, dấu vết Nho giáo. Có câu 'Mùng 3 tết Thầy' luôn ạ."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "いやあ、こういう話を聞けるのが本当に嬉しいよ。",
+          "vi": "Ôi, được nghe những chuyện thế này tôi rất vui."
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "Mechanism",
+      "ja": "ベトナムのテトは旧暦の1月1日です。",
+      "vi": "Tết VN là 1/1 âm lịch.",
+      "use": "Mở topic"
+    },
+    {
+      "category": "Mechanism",
+      "ja": "日本のお盆+正月を一緒にした感じです。",
+      "vi": "Giống Obon + Shogatsu gộp lại.",
+      "use": "Bridge image"
+    },
+    {
+      "category": "干支",
+      "ja": "牛の代わりに水牛、兎の代わりに猫です。",
+      "vi": "Thay bò thành trâu, thỏ thành mèo.",
+      "use": "Điểm 'ơ thật á?' nhất"
+    },
+    {
+      "category": "干支",
+      "ja": "今年は午年で、これは日本と同じです。",
+      "vi": "Năm nay năm Ngọ, giống Nhật.",
+      "use": "Điểm chung"
+    },
+    {
+      "category": "Hoa",
+      "ja": "北は桃の花、南は黄色い梅です。",
+      "vi": "Bắc hoa đào, Nam hoa mai vàng.",
+      "use": "So vùng miền"
+    },
+    {
+      "category": "Mâm ngũ quả",
+      "ja": "5種類の果物を仏壇に飾る習慣があります。",
+      "vi": "Tập tục bày 5 loại trái lên bàn thờ.",
+      "use": "Văn hóa thiêng"
+    },
+    {
+      "category": "Mâm ngũ quả",
+      "ja": "果物の名前で『十分に欲しいだけ』ってダジャレになります。",
+      "vi": "Tên trái cây ghép thành 'Cầu Sung Vừa Đủ Xài'.",
+      "use": "Điểm thú vị"
+    },
+    {
+      "category": "Lì xì",
+      "ja": "リーシーという赤い小袋にお金を入れて渡します。",
+      "vi": "Bao đỏ 'lì xì' đựng tiền tặng nhau.",
+      "use": "Mở topic gia đình"
+    },
+    {
+      "category": "Lì xì",
+      "ja": "親や祖父母にも『健康と長寿の願い』として渡します。",
+      "vi": "Tặng cả cha mẹ, ông bà với lời chúc trường thọ.",
+      "use": "Điểm khác Nhật"
+    },
+    {
+      "category": "Mùng 3",
+      "ja": "3日目は先生を訪ねる『師事の感謝』の日です。",
+      "vi": "Mùng 3 thăm thầy, ngày tri ân.",
+      "use": "Văn hóa Nho giáo"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "「2月の連休、何の祝日?」と聞かれた時、最も適切な説明の入り方は?",
+      "options": [
+        "A. 「ベトナムの大事な祝日です」だけで終える",
+        "B. 「テトです、旧暦の1月1日で日本のお盆+正月を一緒にした感じです」と機構+喩えで説明",
+        "C. 「中国の春節です」と説明する",
+        "D. 戦時中のテト攻勢の話に展開する"
+      ],
+      "answer": "B",
+      "explain_vi": "Mechanism + bridge với お盆+正月 → khách Nhật instant hiểu. C nhầm (Tết VN, không phải TQ). D vùng cấm."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「五果盆」を説明する時、関西出身のお客様に響く話し方は?",
+      "options": [
+        "A. 仏教の象徴を厳粛に語る",
+        "B. 果物の名前のダジャレ(Cầu Sung Vừa Đủ Xài)で意味になることを楽しく紹介",
+        "C. 値段を強調する",
+        "D. 北の習慣ではないと強調する"
+      ],
+      "answer": "B",
+      "explain_vi": "Khách Kansai mê ダジャレ → 'Cầu Sung Vừa Đủ Xài' chơi chữ thành 'mong đủ xài' = topic vàng. A formal quá; C khoe tiền; D divisive."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "テト関連で絶対に避けるべき話題は?",
+      "options": [
+        "A. 桃の花と黄色い梅の地域差",
+        "B. お年玉と日本のリーシーの違い",
+        "C. 1968年のテト攻勢、南北統一前後の帰省事情",
+        "D. 五果盆の果物名のダジャレ"
+      ],
+      "answer": "C",
+      "explain_vi": "Tết Mậu Thân 1968 + nội chiến / thống nhất là vùng cấm chính trị. Stick với văn hóa gia đình + ẩm thực + hoa."
+    }
+  ],
+  "templates": []
+}

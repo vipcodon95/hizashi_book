@@ -1,0 +1,221 @@
+{
+  "rule_id": "rule_34",
+  "rule_slug": "新人指導",
+  "title": {
+    "ja": "新人指導（Hou-Ren-Sou メンタリング）",
+    "vi": "Mentoring Hou-Ren-Sou cho junior mới"
+  },
+  "rule_context": {
+    "ja": "ズンがインターンのリンを指導する場面。ad-hoc DM が累積する悪い例から、Weekly 1-on-1 + Slack Office Hour + 期待値明文化の3点セットを導入する良い例へ。",
+    "vi": "Em Dũng mentor em Linh (intern). Từ pattern xấu (DM ad-hoc tích tụ) → đúng (set up 3 elements: Weekly 1-on-1 + Slack Office Hour + expectations rõ)."
+  },
+  "related_rules": [
+    "rule_28",
+    "rule_39",
+    "rule_40"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 構造なしの ad-hoc DM",
+      "label_vi": "XẤU — Không cấu trúc, DM bừa",
+      "display_order": 1,
+      "analysis": {
+        "ja": "新人と mentor 両方が疲弊するパターン。Mentor は集中できず、新人は『嫌われたかも』と過敏になる。",
+        "vi": "Pattern junior và mentor cùng mệt. Mentor không tập trung, junior nhạy cảm 'có làm phiền không?'."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_34_bad_01",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "(月曜9:00、Slack DM) ズンさん、ブロシュアの色について…",
+          "sentence_translation": "(Thứ Hai 9:00, Slack DM) Anh Dũng, về màu của brochure...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_34_bad_02",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "(月曜9:30) ズンさん、フォントは…",
+          "sentence_translation": "(Thứ Hai 9:30) Anh Dũng, về font...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_34_bad_03",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "(月曜10:15) ズンさん、もう1つ…",
+          "sentence_translation": "(Thứ Hai 10:15) Anh Dũng, em hỏi thêm...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_34_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(月曜16:00) リン、毎回 DM すると僕は集中できなくて…でも止めてって言うとリンが質問しなくなりそうで…どうしたらいい?",
+          "sentence_translation": "(Thứ Hai 16:00) Linh, em DM mỗi lần thì anh không tập trung được... nhưng anh nói dừng thì lo em sợ không hỏi nữa... làm sao bây giờ?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_34_bad_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ズン、それ mentor 構造を作っていない問題。Office Hour と Weekly 1-on-1 を導入しなさい。",
+          "sentence_translation": "Dũng, đó là vấn đề chưa set cấu trúc mentor. Đưa Office Hour và Weekly 1-on-1 vào đi.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 3点セット導入",
+      "label_vi": "TỐT — Set up bộ 3",
+      "display_order": 2,
+      "analysis": {
+        "ja": "Weekly 1-on-1 + Slack Office Hour + 期待値明文化の3点セット。リンは安心して質問でき、ズンも集中時間を確保できる。新人指導のスケーラブル形。",
+        "vi": "Bộ 3: Weekly 1-on-1 + Slack Office Hour + expectations rõ. Linh yên tâm hỏi, Dũng giữ thời gian tập trung. Form scale của mentoring junior."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_34_good_01",
+          "highlight_text": "3つ説明します",
+          "ja": "Mentor 側からの構造提示。新人は何を期待されるか即把握できる。",
+          "vi": "Mentor đưa ra cấu trúc trước. Junior nắm ngay được kỳ vọng."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_34_good_02",
+          "highlight_text": "毎週金曜 16:00-16:30、固定で",
+          "ja": "固定スロットの威力。リンは木曜に準備する習慣がつく。",
+          "vi": "Sức mạnh của slot cố định. Linh hình thành thói quen chuẩn bị thứ Năm."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_34_good_03",
+          "highlight_text": "平日 14:00-15:00、僕が必ず Slack 見て即返信",
+          "ja": "Office Hour で集中対応。それ以外の時間は質問を Notion ボードに貯めることでズンの集中時間を守る。",
+          "vi": "Office Hour tập trung trả lời. Ngoài giờ thì Linh dồn câu hỏi vào Notion board, bảo vệ thời gian tập trung của Dũng."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_34_good_04",
+          "highlight_text": "緊急 (客対応中、本番影響、判断3時間以内に必要) は即 @zun",
+          "ja": "緊急の定義を3条件で具体化。リンが緊急判定で迷わない。",
+          "vi": "Định nghĩa khẩn cấp bằng 3 điều kiện cụ thể. Linh không phân vân khi đánh giá khẩn cấp."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_34_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "リン、君のサポート体制を整えました。3つ説明します。",
+          "sentence_translation": "Linh, anh đã set xong khung support cho em. Anh giải thích 3 thứ nhé.",
+          "tone": "warm",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_34_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "①Weekly 1-on-1: 毎週金曜 16:00-16:30、固定で。アジェンダ:この週の Done / Doing / Blocked / 質問 + 来週の Top 3 タスク。事前に Notion テンプレに記入。",
+          "sentence_translation": "[1] Weekly 1-on-1: cố định 16:00-16:30 thứ Sáu hàng tuần. Agenda: tuần này Done / Doing / Blocked / câu hỏi + Top 3 tuần sau. Em điền trước vào template Notion.",
+          "tone": "neutral",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_34_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "②Slack Office Hour: 平日 14:00-15:00、僕が必ず Slack 見て即返信。それ以外の時間は thread に貯めて、Office Hour で一気に答える。",
+          "sentence_translation": "[2] Slack Office Hour: 14:00-15:00 ngày làm việc, anh chắc chắn xem Slack reply ngay. Ngoài giờ đó em gom thread, anh sẽ trả lời 1 lượt trong Office Hour.",
+          "tone": "neutral",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_34_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "③期待値: ⓐ 質問はたくさんしてOK、僕の機嫌は気にしないで、ⓑ Office Hour 外でも緊急(客対応中、本番影響、判断3時間以内に必要)は即 @zun、ⓒ 答えがすぐ出ない時は『今日中に答えます』と返す。",
+          "sentence_translation": "[3] Kỳ vọng: (a) Em hỏi nhiều OK, đừng lo tâm trạng anh, (b) Ngoài Office Hour mà khẩn cấp (đang ứng phó khách, ảnh hưởng production, cần quyết trong 3 giờ) thì @zun ngay, (c) Khi không trả lời ngay được anh sẽ rep 'anh sẽ trả lời trong hôm nay'.",
+          "tone": "warm",
+          "annotation_ids": [
+            "4"
+          ]
+        },
+        {
+          "line_id": "rule_34_good_05",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "分かりやすいです!Office Hour 外で蓄積する thread のテンプレもありますか?",
+          "sentence_translation": "Em hiểu rõ rồi ạ! Template thread tích lũy ngoài Office Hour có không ạ?",
+          "tone": "cheerful"
+        },
+        {
+          "line_id": "rule_34_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あるよ、Notion 『リン質問ボード』を共有する。質問・自分の仮説・優先度 3列で。",
+          "sentence_translation": "Có chứ, anh share Notion 「Bảng câu hỏi của Linh」 nhé. 3 cột: câu hỏi / giả thuyết của em / mức ưu tiên.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_34_kp_01",
+      "speaker": "zun",
+      "sentence": "サポート体制を3つ整えました: Weekly 1-on-1、Slack Office Hour、期待値の明文化。",
+      "sentence_translation": "Anh set xong 3 thứ support: Weekly 1-on-1, Slack Office Hour, kỳ vọng rõ ràng.",
+      "purpose": "新人指導開始時の構造提示",
+      "slow_audio": false
+    },
+    {
+      "phrase_id": "rule_34_kp_02",
+      "speaker": "zun",
+      "sentence": "緊急(客対応中、本番影響、判断3時間以内必要)は即 @、それ以外は Office Hour で。",
+      "sentence_translation": "Khẩn cấp (đang xử khách, ảnh hưởng production, cần quyết trong 3 giờ) thì @ ngay, còn lại Office Hour.",
+      "purpose": "緊急定義の明文化",
+      "slow_audio": false
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_34_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "新人mentor として最も効果的な仕組みは?",
+      "options": [
+        "「いつでも聞いて」とだけ伝える",
+        "Weekly 1-on-1 + Slack Office Hour + 期待値明文化の3点",
+        "新人の DM はすべて即返信する",
+        "週末にまとめて回答する"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "ad-hoc DM は mentor の集中も新人の心理も両方を消耗する。固定 1-on-1 + 固定 Office Hour + 期待値の明文化で、安心と効率の両立。",
+        "vi": "DM ad-hoc làm mệt cả mentor và junior. 1-on-1 cố định + Office Hour cố định + expectations rõ = vừa an tâm vừa hiệu quả."
+      }
+    }
+  ]
+}

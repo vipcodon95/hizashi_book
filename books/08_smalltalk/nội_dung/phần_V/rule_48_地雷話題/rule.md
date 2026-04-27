@@ -1,0 +1,146 @@
+# Rule 48 — Topic LANDMINE / 地雷話題
+
+> **Luận điểm.** 10 topic LANDMINE — chạm vào = nổ. Nguy hiểm hơn cả là **tỏ ra biết** mà thực sự **không hiểu nuance**. Khi khách hỏi, biết **né khéo bằng phrase chuẩn**. Khi đồng nghiệp VN sắp chạm, **rescue ngay** trước khi khách phản ứng.
+
+---
+
+## 🧠 Tâm lý JP (3 dòng)
+
+- Một sai topic LANDMINE = mất 6 tháng uy tín, không cứu được nhanh.
+- JP thường **không phản ứng** ngay khi mình lỡ chạm — chỉ **lặng đi** + sau đó "không gọi nữa".
+- "**Im lặng tinh tế**" sau khi mình nói = đã chạm landmine. Phải đổi topic ngay + fix relationship sau.
+
+---
+
+## 🎬 Bối cảnh
+
+Tham khảo. 2 scenarios — 1 ví dụ né khéo khi khách thử test, 1 ví dụ rescue khi đồng nghiệp VN suýt nổ.
+
+---
+
+## 📋 BẢNG ĐỎ — 10 TOPIC LANDMINE
+
+| # | Topic | Mức nguy | Phrase né khéo |
+|---|-------|----------|----------------|
+| 1 | **Tuổi tác phụ nữ** | 🟥🟥🟥 | "個人的なことなのでお伺いするの控えますね" |
+| 2 | **Lương / thu nhập** | 🟥🟥🟥 | "そういうの私あんまり詳しくなくて…" |
+| 3 | **Chính trị (TQ-Mỹ-Nhật-VN)** | 🟥🟥🟥 | "私、政治はあまり詳しくないので…" |
+| 4 | **Tôn giáo** | 🟥🟥 | "宗教の話は詳しくないので…" |
+| 5 | **Scandal nội bộ JP company** | 🟥🟥🟥 | "(im lặng), 業界のことですか…" |
+| 6 | **Hôn nhân — chưa kết hôn / chưa con** | 🟥🟥 | "[名前]さんは?" + đổi topic ngay |
+| 7 | **Ngoại tình / chuyện hôn nhân không êm** | 🟥🟥🟥 | "(không response), 話変わりますが…" |
+| 8 | **So sánh "VN > JP" / "JP > VN" tiêu cực** | 🟥🟥 | "それぞれ良いところありますよね" |
+| 9 | **Tết Mậu Thân / Reunification 30/4 / Pháp thuộc địa** | 🟥🟥🟥 | "歴史は専門家に任せるとして…(đổi topic)" |
+| 10 | **Yakuza / 暴力団 / 同和** | 🟥🟥🟥 | "(không response), 別の話で…" |
+
+---
+
+## 💬 2 Scenarios — dialogue thực chiến
+
+### 📍 Scenario 1 — Khi khách thử test: chính trị TQ
+
+*夜 の 二次会, hơi say · né khéo · không push · bridge sang sport · grateful for topic shift*
+
+| Speaker | Câu |
+|---------|-----|
+| **大垣** | 「ズン、ベトナムって中国とどう?最近ニュース見てると…」 |
+| **ズン**【1】 | 「**大垣さん、私、政治はあまり詳しくないので**…**ベトナムも色んな見方あって**、私は普通の市民なので、そこまで…」 |
+| **大垣** | 「あ、悪い悪い、聞き方悪かった。」 |
+| **ズン** | 「いえいえ、**そういえば、大垣さんが以前おっしゃってた阪神の話**、今シーズンどうですか?」 |
+| **大垣** | 「あー、阪神な、今年は…(20分không khí trở lại)」 |
+
+📝【1】 **Phrase chuẩn né chính trị:** "私、政治はあまり詳しくないので…" + "色んな見方あって" + "普通の市民なので". 3 layer = né mà không xúc phạm. **Sau đó bridge sang topic thân thuộc khách** ngay (sport / quê).
+
+---
+
+### 📍 Scenario 2 — Rescue đồng nghiệp VN suýt nổ landmine #1 (tuổi PN)
+
+*28t junior VN, casual · face freezes 0.5s · rescue ngay, cut in · realizes · gracious · bridge an toàn · curious, mood recovers · reset*
+
+| Speaker | Câu |
+|---------|-----|
+| **ハイ** | 「山本さん、女性で活躍されてて素晴らしいですね。**おいくつくらいでらっしゃるんですか?**」 |
+| **山本** | 「あー、まあ…(awkward laugh)」 |
+| **ズン**【1】 | 「**ハイ、ベトナムでは普通の質問だけど、日本では女性に年齢を聞くのは控える文化なんだよ**。」 |
+| **ハイ** | 「あ、すみません!失礼しました、山本さん…」 |
+| **山本** | 「いえいえ、文化の違いですね。**ベトナムでは普通なんですか?**」 |
+| **ズン** | 「ベトナムでは年齢で**呼び方が変わる(em / chị / cô)**ので、最初に確認することが多いんです。文化の違い、面白いですね。」 |
+| **山本** | 「へえ、呼び方変わるんですか!?それは知らなかった。」 |
+| **ハイ** | 「これからは気をつけます、ありがとうございます。」 |
+
+📝【1】 **Rescue 3 bước:** ① Cut in giải thích cho **đồng nghiệp VN** (không trách công khai), ② **Educate gently bằng "ở VN bình thường, ở JP khác"**, ③ **Bridge sang topic an toàn** (cultural exchange) để cả 3 bên có topic mới.
+
+---
+
+## 🎯 Câu vàng copy-paste — Phrase NÉ KHÉO
+
+```
+■ NÉ CHÍNH TRỊ:
+「私、政治はあまり詳しくないので…」
+「色んな見方あって、私は普通の市民なので…」
+「歴史は専門家に任せるとして…」
+
+■ NÉ TUỔI TÁC PHỤ NỮ:
+「個人的なことなのでお伺いするの控えますね」
+「あ、すみません、失礼な質問でした」(self-correct nếu mình lỡ hỏi)
+
+■ NÉ LƯƠNG / TIỀN:
+「そういうの、私あんまり詳しくなくて…」
+「会社の方針で…」(nếu khách hỏi project gì)
+
+■ NÉ SCANDAL JP COMPANY:
+「(im lặng + nodding nhẹ), 業界のことですか…」(không add gì)
+「ニュースで見ましたが、詳しくは…」
+
+■ NÉ COMPARE NEGATIVE:
+「それぞれ良いところありますよね」
+「文化の違い、面白いですね」
+
+■ RESCUE ĐỒNG NGHIỆP VN:
+「[Tên]、ベトナムでは普通だけど、日本では[X]の文化なんだよ。」
+「文化の違いの話で言うと…」
+
+■ ĐỔI TOPIC SAU LANDMINE:
+「そういえば、[Tên]さんが以前おっしゃってた[topic an toàn]…」
+「話変わりますが…」
+「ところで…」
+```
+
+---
+
+## ⚠ KHI ĐÃ LỠ CHẠM LANDMINE
+
+- **KHÔNG** giải thích thêm / bào chữa → đào sâu hố.
+- **Im lặng 1 giây** → "話変わりますが…" → đổi sang topic mới.
+- **Sáng hôm sau** mail nhẹ "昨日は色々お話できて楽しかったです" → reset không khí.
+- **Học bài** — ghi vào CRM "topic này khách X dị ứng" → không lặp lại.
+
+---
+
+## 📚 Vocab
+
+| 漢字 | よみ | Nghĩa |
+|------|------|-------|
+| 地雷 | じらい | Mìn (idiom: topic nguy hiểm) |
+| 政治 | せいじ | Chính trị |
+| 宗教 | しゅうきょう | Tôn giáo |
+| 年齢 | ねんれい | Tuổi tác |
+| 給料 | きゅうりょう | Lương |
+| 暴力団 | ぼうりょくだん | Yakuza (NG hỏi) |
+| 同和 | どうわ | Vùng nhạy cảm xã hội Burakumin (NG) |
+| お控えします | おひかえします | "Em xin không hỏi/nói" (cách polite né) |
+| 専門家 | せんもんか | Chuyên gia |
+| 個人的 | こじんてき | Riêng tư cá nhân |
+| 一般市民 | いっぱんしみん | Công dân bình thường |
+
+---
+
+## 🎓 BJT
+
+**J3 — 場面把握:** Nhận biết 10 LANDMINE topics + có phrase né chuẩn.
+**J2 — 表現読解:** Bắt sắc thái "0.5 giây freeze" của khách → đã chạm landmine, đổi topic ngay.
+**J1 — 発言聴解:** Rescue đồng nghiệp VN khi suýt nổ — educate khéo + bridge an toàn không trách công khai.
+
+---
+
+> **Hizashi Sách 08 — Rule 48 — 地雷話題**

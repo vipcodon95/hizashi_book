@@ -1,0 +1,159 @@
+{
+  "rule_id": "rule_20",
+  "rule_slug": "国際ニュース",
+  "title": {
+    "vi": "Tin tức quốc tế (an toàn)",
+    "ja": "国際ニュース"
+  },
+  "rule_context": {
+    "ja": "2026年は3月WBC、9月九州台風、ミラノ五輪。ズンが①Hiroshi(WBC)、②Sato(台風お見舞い)、③Tanaka(五輪)で安全topicを使い分け、④Linhの政治NG例を見る。",
+    "vi": "Năm 2026: WBC tháng 3, bão Kyushu tháng 9, Olympics Milano. Dũng dùng safe topics ① Hiroshi (WBC), ② Sato (bão), ③ Tanaka (Olympics). Linh hỏi chính trị NG."
+  },
+  "related_rules": ["rule_08", "rule_14", "rule_46"],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "WBC sport国際 — Hiroshi",
+      "label_vi": "WBC sport quốc tế — Hiroshi",
+      "display_order": 1,
+      "context": {
+        "ja": "3月のWBC期間中、Hiroshi部長と前日試合の話題。",
+        "vi": "Tháng 3 WBC, anh Hiroshi mở chuyện trận tối qua."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_20_good_01", "speaker": "hiroshi_chugoku", "speaker_role": "関西支店長 白鷗", "gender": "male", "sentence": "ズンさん、昨日のWBC日韓戦、見た?", "sentence_translation": "Dũng, trận WBC Nhật-Hàn tối qua có xem không?", "tone": "cheerful"},
+        {"line_id": "rule_20_good_02", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "もちろん!大谷翔平のホームラン、しびれました。佐々木朗希の100マイル超え球速も…", "sentence_translation": "Đương nhiên! Home run Ohtani phê thật. Tốc độ Sasaki Rōki trên 100 dặm/giờ nữa...", "tone": "cheerful"},
+        {"line_id": "rule_20_good_03", "speaker": "hiroshi_chugoku", "speaker_role": "関西支店長 白鷗", "gender": "male", "sentence": "サイドだね(笑)。山本由伸のフォークボール、決勝でアメリカ相手にどうなるか。", "sentence_translation": "Em pro luôn (cười). Bóng forkball của Yamamoto Yoshinobu — chung kết với Mỹ sao đây.", "tone": "cheerful"},
+        {"line_id": "rule_20_good_04", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "アメリカはマイク・トラウトが中心。大谷vsトラウト、再び見たいです、2023年の決勝みたいな…", "sentence_translation": "Mỹ thì Mike Trout là trung tâm. Em muốn xem Ohtani vs Trout lần nữa, như chung kết 2023...", "tone": "cheerful"},
+        {"line_id": "rule_20_good_05", "speaker": "hiroshi_chugoku", "speaker_role": "関西支店長 白鷗", "gender": "male", "sentence": "あれは伝説の最終打席。三振取ったとき、日本中震えた。日本はベトナムでもWBC人気あると?", "sentence_translation": "Cú at-bat huyền thoại. Lúc bắt được strike, cả nước Nhật rung. Việt Nam cũng có WBC fan à?", "tone": "warm"},
+        {"line_id": "rule_20_good_06", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "ベトナムはベースボールマイナーですが、MLBのDAZN中継でファン増えてます。ハノイ・ホーチミンで草野球サークルもあります。", "sentence_translation": "Việt Nam baseball ít phổ biến nhưng nhờ DAZN phát MLB nên fan tăng. Hà Nội với HCM cũng có CLB nghiệp dư.", "tone": "warm"},
+        {"line_id": "rule_20_good_07", "speaker": "hiroshi_chugoku", "speaker_role": "関西支店長 白鷗", "gender": "male", "sentence": "お、いつかベトナムでもプロ野球できるかもね。", "sentence_translation": "Ồ, có khi Việt Nam tương lai cũng có pro baseball.", "tone": "warm"},
+        {"line_id": "rule_20_good_08", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "夢ですね。カープが広島でやるみたいに、ハノイ・タイガースとか(笑)。", "sentence_translation": "Là ước mơ. Như Carp ở Hiroshima, Hanoi Tigers chẳng hạn (cười).", "tone": "cheerful"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "台風お見舞い — Sato",
+      "label_vi": "Thăm hỏi sau bão — Sato",
+      "display_order": 2,
+      "context": {
+        "ja": "9月、九州に大型台風直撃の翌朝Zoom。Sato先生に安否を聞く。",
+        "vi": "Tháng 9, sáng sau bão lớn đổ Kyushu. Zoom hỏi an nguy."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_20_good_09", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "先生、お疲れ様です。昨日の台風、福岡は大丈夫でしたか?", "sentence_translation": "Anh, chào anh. Bão tối qua Fukuoka có ổn không ạ?", "tone": "warm"},
+        {"line_id": "rule_20_good_10", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "ああズンさん、心配してくれてありがとう。うちは無事だったが、博多湾沿いの倉庫が一部水浸しでね。", "sentence_translation": "À Dũng, em quan tâm anh cảm ơn. Nhà anh an toàn nhưng kho dọc vịnh Hakata bị ngập một phần.", "tone": "warm"},
+        {"line_id": "rule_20_good_11", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "ご無事で何よりです。九州地方、毎年9月台風直撃ですよね。避難所に行かれた方も多いとニュースで…", "sentence_translation": "Anh an toàn là quý nhất. Vùng Kyushu mỗi tháng 9 đều bị bão trực tiếp. Em xem tin nhiều người đi sơ tán...", "tone": "warm"},
+        {"line_id": "rule_20_good_12", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "今年は最大瞬間風速65メートル、観測史上3番目だったとよ。停電も2日続いた。", "sentence_translation": "Năm nay gió cực đại 65m/s, top 3 lịch sử quan trắc đó. Mất điện 2 ngày liền.", "tone": "neutral"},
+        {"line_id": "rule_20_good_13", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "2日!ベトナムでも中部地方で台風被害があって、皆さん大変です。何か支援できることあれば…", "sentence_translation": "2 ngày! Việt Nam miền Trung cũng bị bão, mọi người vất vả. Nếu có gì hỗ trợ được thì...", "tone": "warm"},
+        {"line_id": "rule_20_good_14", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "ありがとう、その気持ちだけで嬉しか。プロジェクト納期は影響しないように頑張る。", "sentence_translation": "Cảm ơn em, tấm lòng đó là vui rồi. Anh sẽ cố không ảnh hưởng deadline dự án.", "tone": "warm"},
+        {"line_id": "rule_20_good_15", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "納期は無理されず、まずお体とお仕事の安全を優先してください。社内にも伝えます。", "sentence_translation": "Anh đừng ép deadline, sức khỏe và an toàn công việc ưu tiên. Em sẽ thông báo nội bộ.", "tone": "warm"},
+        {"line_id": "rule_20_good_16", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "ベトナム側のサポート、本当に助かる。", "sentence_translation": "Việt Nam hỗ trợ cảm ơn nhiều.", "tone": "warm"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "Olympics — Tanaka",
+      "label_vi": "Olympics Milano — Tanaka",
+      "display_order": 3,
+      "context": {
+        "ja": "2026年2月、ミラノ・コルティナ冬季五輪期間中。",
+        "vi": "Tháng 2/2026, đang Olympics Milano-Cortina mùa đông."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_20_good_17", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "ミラノ・コルティナ五輪、見てる?スピードスケート高木美帆、また金メダル取りそう。", "sentence_translation": "Em có xem Olympics Milano-Cortina không? Speed skating Takagi Miho có vẻ sắp giành vàng nữa.", "tone": "casual"},
+        {"line_id": "rule_20_good_18", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "冬の五輪!フィギュアスケートも気になります。今回は鍵山優真・坂本花織が中心ですよね。", "sentence_translation": "Olympics mùa đông! Em cũng tò mò figure skating. Lần này Kagiyama Yuma với Sakamoto Kaori là trung tâm đúng không?", "tone": "casual"},
+        {"line_id": "rule_20_good_19", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "鍵山、羽生結弦の後継者って言われてる。4回転半まだ難しいけど、構成完成度高い。", "sentence_translation": "Kagiyama được gọi là kế thừa Hanyu Yuzuru. 4.5 vòng còn khó, nhưng cấu trúc hoàn thiện.", "tone": "casual"},
+        {"line_id": "rule_20_good_20", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "羽生さんプロ転向後もアイスショーでファン熱狂…ベトナムでも羽生ファン多いです。", "sentence_translation": "Hanyu sau khi chuyển pro vẫn hot ở ice show... Việt Nam fan Hanyu cũng nhiều.", "tone": "warm"},
+        {"line_id": "rule_20_good_21", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "お、ベトナムでも!?あとスノーボードハーフパイプの平野歩夢、3連覇狙いだよね。", "sentence_translation": "Ồ, Việt Nam cũng có!? Còn snowboard halfpipe Hirano Ayumu, săn 3 lần liên tiếp đó.", "tone": "cheerful"},
+        {"line_id": "rule_20_good_22", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "平野!北京で金取った時、感動でした。スーパーフライトかっこよかった。", "sentence_translation": "Hirano! Lúc đoạt vàng Beijing em cảm động lắm. Trick Super Flight đỉnh quá.", "tone": "cheerful"},
+        {"line_id": "rule_20_good_23", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "次回出張時、家でオリンピック観戦パーティーしようよ。お好み焼き焼きながら(笑)。", "sentence_translation": "Lần sau em đến công tác, mở tiệc xem Olympics nhà anh. Vừa nướng okonomiyaki (cười).", "tone": "cheerful"},
+        {"line_id": "rule_20_good_24", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "お好み焼きパーティー!最高ですね。", "sentence_translation": "Tiệc okonomiyaki! Tuyệt vời!", "tone": "cheerful"}
+      ]
+    },
+    {
+      "section": "bad_example",
+      "label_ja": "Linhの政治話NG",
+      "label_vi": "Linh hỏi chính trị — sai",
+      "display_order": 4,
+      "context": {
+        "ja": "リン(22歳)が松本さんに米中政治を聞く。Zunがsport topicに切り替えて救援。",
+        "vi": "Linh (22t) hỏi Matsumoto chính trị Mỹ-Trung. Dũng cứu nguy bằng chuyển sport."
+      },
+      "analysis": {
+        "ja": "①国際政治はビジネスの場で禁忌、②北朝鮮も同様、③話題転換するならsport(WBC)が安全。",
+        "vi": "① Chính trị quốc tế = tabu trong business, ② Bắc Triều Tiên cũng vậy, ③ chuyển topic thì sport (WBC) là chuẩn."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_20_bad_01", "speaker": "linh", "speaker_role": "Marketing intern ティエンファット", "gender": "female", "sentence": "松本さん、最近のアメリカと中国、どう思いますか?日本にとって…", "sentence_translation": "[NG] Anh Matsumoto, anh nghĩ sao về Mỹ-Trung gần đây? Đối với Nhật...", "tone": "casual"},
+        {"line_id": "rule_20_bad_02", "speaker": "matsumoto", "speaker_role": "PM 白鷗", "gender": "male", "sentence": "あ、政治的な話は…仕事の場では控えてるんですよ。", "sentence_translation": "À, chuyện chính trị thì... trong công việc anh tránh.", "tone": "uncertain"},
+        {"line_id": "rule_20_bad_03", "speaker": "linh", "speaker_role": "Marketing intern ティエンファット", "gender": "female", "sentence": "あ、すみません。じゃあ北朝鮮とか…", "sentence_translation": "[NG] À xin lỗi. Vậy thì Bắc Triều Tiên...", "tone": "casual"},
+        {"line_id": "rule_20_bad_04", "speaker": "matsumoto", "speaker_role": "PM 白鷗", "gender": "male", "sentence": "リンさん、国際政治は意見が分かれるトピックなので、ビジネスの場では避けたほうがいいですね。", "sentence_translation": "Linh à, chính trị quốc tế là chủ đề có nhiều quan điểm khác nhau, trong business nên tránh nhé.", "tone": "firm"},
+        {"line_id": "rule_20_bad_05", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "松本さん、すみません。リンが…最近のWBC、すごい盛り上がりでしたね、大谷選手の活躍が…", "sentence_translation": "Anh Matsumoto, xin lỗi. Linh... WBC gần đây hot quá nhỉ, Ohtani thi đấu hay...", "tone": "apologetic"},
+        {"line_id": "rule_20_bad_06", "speaker": "matsumoto", "speaker_role": "PM 白鷗", "gender": "male", "sentence": "ああ、WBCね!大谷くんは本当にすごい。", "sentence_translation": "À, WBC! Ohtani thực sự đỉnh.", "tone": "warm"}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"phrase_id": "rule_20_kp_01", "speaker": "zun", "sentence": "[WBC/W杯/オリンピック]、見てますか?", "sentence_translation": "[WBC/World Cup/Olympics] anh có xem không ạ?", "purpose": "Mở topic sport quốc tế an toàn"},
+    {"phrase_id": "rule_20_kp_02", "speaker": "zun", "sentence": "[大谷選手]、また活躍してますね!", "sentence_translation": "[Ohtani] lại đỉnh nhỉ!", "purpose": "Sport star reference"},
+    {"phrase_id": "rule_20_kp_03", "speaker": "zun", "sentence": "[台風]、[地名]は大丈夫でしたか?", "sentence_translation": "[Bão] [địa danh] có ổn không ạ?", "purpose": "Đồng cảm thiên tai"},
+    {"phrase_id": "rule_20_kp_04", "speaker": "zun", "sentence": "ご無事で何よりです。", "sentence_translation": "Anh an toàn là quý nhất.", "purpose": "Phản hồi sau khi nghe khách an toàn"},
+    {"phrase_id": "rule_20_kp_05", "speaker": "zun", "sentence": "何か支援できることあれば、おっしゃってください。", "sentence_translation": "Có gì hỗ trợ được anh cứ nói ạ.", "purpose": "Đề nghị giúp sau thiên tai"},
+    {"phrase_id": "rule_20_kp_06", "speaker": "zun", "sentence": "あ、政治的な話は私もよく分からなくて…", "sentence_translation": "À, chuyện chính trị em cũng không rành lắm...", "purpose": "Soft block khi có người mở chính trị"}
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_20_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "ビジネスの場で最も避けるべきtopicは?",
+      "options": [
+        "A. WBC日本代表の活躍",
+        "B. 米中関係についての意見",
+        "C. 最近の台風被害",
+        "D. パリ五輪のメダルラッシュ"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "国際政治は意見が分かれビジネスの場では避ける。A・C・Dは安全topic。",
+        "vi": "Chính trị quốc tế gây tranh cãi, business avoid. A/C/D = safe."
+      }
+    },
+    {
+      "question_id": "rule_20_bjt_02",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "お客様の地域で大型台風があった場合、最も適切な最初の言葉は?",
+      "options": [
+        "A. 「ニュース、見ました」",
+        "B. 「[地名]は大丈夫でしたか?」",
+        "C. 「うちの会社のプロジェクト納期は…」",
+        "D. 「ベトナムでも台風よくあります」"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "まず安否確認が最優先。Cは仕事を先に出すのは無神経、Dは比較で不適切。",
+        "vi": "Hỏi an toàn trước. C = đẩy việc trước = vô tâm. D = so sánh không lịch sự."
+      }
+    },
+    {
+      "question_id": "rule_20_bjt_03",
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "お客様が「政治的な話は控えてるんですよ」と言った場合、最適な対応は?",
+      "options": [
+        "A. もう一度同じ質問をする",
+        "B. すぐに別のsafeなtopicに切り替える",
+        "C. 「日本の政治家どう思いますか?」と聞く",
+        "D. 「日本人は政治を語らないんですね」とコメント"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "明確なsignal。即座に話題転換が必須。Aはしつこい、Cはさらに突っ込み、Dは決めつけ失礼。",
+        "vi": "Tín hiệu rõ — đổi topic ngay. A = ép, C = đào sâu hơn, D = áp đặt thiếu lịch sự."
+      }
+    }
+  ],
+  "templates": []
+}

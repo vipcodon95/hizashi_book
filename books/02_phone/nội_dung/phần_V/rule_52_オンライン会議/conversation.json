@@ -1,0 +1,97 @@
+{
+  "rule_id": "rule_52",
+  "rule_slug": "オンライン会議の電話作法",
+  "title": {
+    "ja": "オンライン会議の電話作法",
+    "vi": "Conference call / Zoom / Teams etiquette"
+  },
+  "rule_context": {
+    "ja": "オンライン会議でズンが発表する場面。冒頭の音声確認、発言時の名乗り、終了の合図を実践。",
+    "vi": "Em Dũng phát biểu trong họp online. Mở đầu bằng confirm âm thanh, tự xưng khi phát biểu, đánh dấu kết thúc."
+  },
+  "related_rules": [
+    "rule_53",
+    "rule_54",
+    "rule_55"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『音声は聞こえておりますでしょうか』で開始確認、『ズンより〜ご報告いたします』で発言開始、『以上です』で終了。視覚情報なしの会議で必須。",
+        "vi": "Mở 「音声は聞こえておりますでしょうか」, vào việc 「ズンより〜ご報告いたします」, kết 「以上です」. Bắt buộc khi không có hình."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_52_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ティエンファットのズンです。皆様、音声は聞こえておりますでしょうか？",
+          "sentence_translation": "Em Dũng bên Thiên Phát ạ. Mọi người nghe được tiếng em không ạ?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_52_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "はい、こちらは聞こえております。",
+          "sentence_translation": "Vâng, bên tôi nghe được ạ.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_52_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。それでは、ズンより4月度の進捗についてご報告いたします。",
+          "sentence_translation": "Cảm ơn anh ạ. Sau đây em xin báo cáo tiến độ tháng 4 ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_52_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ズンからは以上です。質問ございますでしょうか？",
+          "sentence_translation": "Phần em đến đây hết ạ. Có câu hỏi nào không ạ?",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_52_kp_01",
+      "speaker": "zun",
+      "sentence": "皆様、音声は聞こえておりますでしょうか？",
+      "sentence_translation": "Mọi người nghe được tiếng em không ạ?",
+      "purpose": "オンライン会議冒頭の音声確認",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_52_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "オンライン会議の冒頭で必須なのは？",
+      "options": [
+        "天気の話",
+        "音声確認と自己紹介",
+        "個人的な雑談",
+        "資料の説明"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "視覚情報なしのため、音声確認と名乗りで参加者を識別する。",
+        "vi": "Không có hình nên cần confirm âm thanh + tự xưng để xác định ai."
+      }
+    }
+  ]
+}

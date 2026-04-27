@@ -1,0 +1,96 @@
+{
+  "rule_id": "rule_56",
+  "rule_slug": "録音・文字起こしの許可",
+  "title": {
+    "ja": "録音・文字起こしの許可",
+    "vi": "Xin phép ghi âm / transcribe"
+  },
+  "rule_context": {
+    "ja": "オンライン会議冒頭で録音とAI文字起こしの許可を全員から得る場面。日本のプライバシー意識は高い。",
+    "vi": "Đầu họp online xin phép tất cả về việc ghi âm + AI transcribe. Người Nhật rất nghiêm về privacy."
+  },
+  "related_rules": [
+    "rule_52",
+    "rule_59"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "目的（議事録作成）→手段（録音＋文字起こし）→許可確認の順。透明性が信頼を築く。",
+        "vi": "Mục đích (làm biên bản) → phương tiện (ghi âm + transcribe) → xin phép. Minh bạch tạo lòng tin."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_56_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本日のミーティングですが、議事録作成のため録音と自動文字起こしをさせていただきたく存じます。",
+          "sentence_translation": "Buổi họp hôm nay, em xin phép ghi âm và auto-transcribe để làm biên bản ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_56_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "皆様、ご了承いただけますでしょうか？",
+          "sentence_translation": "Mọi người có đồng ý không ạ?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_56_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "私は問題ありません。",
+          "sentence_translation": "Tôi không có vấn đề gì.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_56_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。それでは録音を開始いたします。",
+          "sentence_translation": "Cảm ơn anh ạ. Em xin bắt đầu ghi âm ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_56_kp_01",
+      "speaker": "zun",
+      "sentence": "録音と自動文字起こしをさせていただきたく存じます。ご了承いただけますでしょうか？",
+      "sentence_translation": "Em xin phép ghi âm và auto-transcribe ạ. Anh/chị có đồng ý không ạ?",
+      "purpose": "録音許可の標準フレーズ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_56_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "オンライン会議の録音について正しいのは？",
+      "options": [
+        "黙って録音する",
+        "事前に全員の許可を得る",
+        "録音後に伝える",
+        "AI文字起こしは許可不要"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "録音もAI文字起こしも事前許可が必須。日本のプライバシー意識は高い。",
+        "vi": "Cả ghi âm lẫn AI transcribe đều cần xin trước. Nhật rất nghiêm về privacy."
+      }
+    }
+  ]
+}

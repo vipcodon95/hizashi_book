@@ -1,0 +1,89 @@
+# Rule 42 — Translator-mediated negotiation / 通訳介在
+
+> **Luận điểm.** Khi Linh học interpret join phiên đàm phán: 4 rules cần follow. **(1) Pace** = câu ngắn 15-25 字 max, KHÔNG run-on, **(2) Pause sau câu** ≥ 2 giây cho Linh dịch, **(3) Speaker đứng sát translator nhưng nhìn KHÁCH** (không nhìn translator), **(4) Pre-brief** translator về key terms (BATNA, ZOPA, indemnity) trước phiên — translator được biết term đặc thù trước. Skip 1 trong 4 → translator overload, mistranslation = số tiền sai.
+>
+> 通訳介在交渉では (a) 短い文 (b) 文末で 2 秒 pause (c) 相手を見る (d) 用語事前 brief。これらを守らないと通訳精度低下 = 数値ズレ → 商務 dispute。
+>
+> **Liên quan:** rule 30 (合意確認), sách 04 rule 17 (escalation).
+
+---
+
+## Bối cảnh / 場面
+
+Phase 4 scoping với 1 client mới (Hà Nội office, JP exec không tiếng Anh / không tiếng Việt). Linh học interpret join. Pre-brief 30 phút trước. Trong phiên: Dũng phải điều chỉnh pace.
+
+---
+
+## ❌ Hội thoại XẤU — run-on Japanese, no pause, no pre-brief
+
+*早口、 1 文 80 字 · panic、 30 字までしかメモ取れず · 訂正 · VN client へ · 困*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「弊社の Phase 4 提案は、AI レコメンドエンジンに加えて customer churn prediction モデルも統合し、 indemnity は年契約額上限 ¥20M 想定、SLA は 99.95% で、 BATNA も別途用意しております。」 |
+| **リン** | 「えっと…AI engine と churn prediction、 indemnity ¥20M、SLA…99.5%? ですか?」 |
+| **ズン** | 「99.95% です。」 |
+| **リン** | 「Phase 4 sẽ có AI engine + churn prediction. Indemnity 20 triệu yên, SLA 99.5%...à 99.95%, em xin lỗi.」 |
+| **VN client** | 「SLA 99.95% à... bên em ngân sách dựa trên 99.5%.」 |
+
+**Vì sao xấu:** (a) 1 文 80 字, Linh の memory buffer 超え, (b) BATNA / indemnity 用語 pre-brief なし → Linh interpret 苦戦, (c) 99.5 vs 99.95 の翻訳ミス = ¥1M+ dispute, (d) 訂正 mid-flow で credibility 崩壊.
+
+---
+
+## ✅ Hội thoại TỐT — chunked + pause + pre-brief
+
+*Linh と 1-on-1 · VN client 直視、 1 文 20 字以内、 文末 2 秒 pause · VN client へ · VN client 凝視、 Linh は ear-shot 距離 · 明瞭発音 · Linh に*
+
+| Speaker | Câu |
+|---------|-----|
+| (商談 30 分前 pre-brief) **ズン** | 「Linh、本日の key terms 7 個 reviews【1】: indemnity =損害賠償, BATNA =交渉決裂代替案, ZOPA =合意可能領域, SLA = サービス水準合意。**99.95% は『きゅうきゅう・きゅうご パーセント』と区切って発音**【2】、99.5% との混同避ける。」 |
+| **リン** | 「ありがとうございます。99.95% pronunciation 練習しました。」 |
+| (商談中) **ズン** | 「Phase 4 では、AI レコメンドエンジンを継続いたします。」 (2 秒 pause) |
+| **リン** | 「Phase 4 vẫn duy trì AI recommend engine.」 |
+| **ズン** | 「加えて、 customer churn prediction を統合いたします。」 (2 秒 pause) |
+| **リン** | 「Bổ sung integrate model dự đoán churn.」 |
+| **ズン** | 「indemnity 上限は 年契約額相当の ¥20M。」 (2 秒 pause) |
+| **リン** | 「Indemnity (損害賠償上限) đặt ở mức annual ¥20M.」 |
+| **ズン** | 「SLA は『きゅうきゅう・きゅうご パーセント』、つまり 99.95% でございます【3】。」 (2 秒 pause) |
+| **リン** | 「SLA chín-chín-chín-năm phần trăm, tức là 99.95%.」 |
+| (商談後) **ズン** | 「お疲れ様。99.95% 区切り発音 + indemnity term pre-brief で精度 high。次回も同じ pattern で。」 |
+
+📝 **Ghi chú:**
+- 【1】**Pre-brief 30 分** = key terms list + 数値 sensitive points + speaker style. Translator が cold start で interpret する精度は -30%.
+- 【2】**数値の区切り発音** (「99.95% = きゅうきゅう・きゅうご」) = mistranslation prevention. 3 と 5 / 9 と 4 は Vietnamese で類似音.
+- 【3】**Speaker は client を直視** (Linh ではなく). Linh は ear-shot 距離で stand. 相手は "Dũng と直接話している" 感.
+- **Linh の interpret 中は Dũng 沈黙 + 頷き**。 next sentence の preview を考えない、 listening focus.
+
+---
+
+## 🎯 Câu chốt
+
+> **「通訳介在 = 1 文 20 字 + 2 秒 pause + 客凝視 + pre-brief 30 分。数値は区切り発音。」**
+>
+> *Translator-mediated = câu 20 chữ + pause 2 giây + nhìn khách + pre-brief 30 phút. Số đọc tách rõ.*
+
+---
+
+## ⚠ Tránh
+
+- 1 文 80 字以上 → translator memory buffer 超え
+- 数値早口 (「99.95%」 一気に) → 3/5/9 混同 risk
+- Speaker が translator を見ながら話す → 客は "translation だ" と意識し心離れる
+- Pre-brief なしで technical term 使用 → translator improv ミス
+- 訂正を mid-translation で挟む → translator confused, client confused
+- Translator を speaker のすぐ隣 (microphone 距離) ではなく 1m 離す → 音声 catch しにくい
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 通訳 | つうやく | Phiên dịch |
+| 介在 | かいざい | Trung gian / mediated |
+| 区切り発音 | くぎりはつおん | Phát âm tách rõ |
+| Pre-brief | プレ・ブリーフ | Brief trước |
+| Ear-shot 距離 | イアショット きょり | Khoảng cách nghe rõ |
+| 凝視 | ぎょうし | Nhìn chăm |
+| Memory buffer | メモリーバッファ | Bộ nhớ tạm |
+| Improv ミス | インプロビザミス | Improv mistake |

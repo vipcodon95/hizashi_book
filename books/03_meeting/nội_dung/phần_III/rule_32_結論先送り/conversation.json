@@ -1,0 +1,161 @@
+{
+  "rule_id": "rule_32",
+  "rule_slug": "結論先送り",
+  "title": {
+    "ja": "結論先送り（持ち帰り回答）",
+    "vi": "Hoãn quyết định (mang về trả lời)"
+  },
+  "rule_context": {
+    "ja": "クラウド選定について大垣営業部長が当日決定を希望。ズンはCTO・CFOの確認が必要なため、理由＋期限＋チャネル＋ deliverable で持ち帰り回答する場面。",
+    "vi": "Anh Ōgaki muốn chốt cloud (AWS/Azure) ngay tại họp. Em Dũng cần check CTO + CFO → phải postpone đúng cách: lý do + deadline + channel + deliverable."
+  },
+  "related_rules": ["rule_25", "rule_29", "rule_31"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 「また今度」",
+      "label_vi": "XẤU — 'Lần sau' mơ hồ",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「また今度」は期限なし・チャネル不明で相手が follow できない。日本では極めて非推奨。",
+        "vi": "「また今度」 không deadline, không channel → đối phương không follow được. JP rất ghét cách này."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_32_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "クラウド選定について、本日決定したいのですが。",
+          "sentence_translation": "Về chọn cloud, tôi muốn quyết hôm nay.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_32_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あの…ちょっと難しいので、また今度…",
+          "sentence_translation": "Ơ... cái đó hơi khó, để lần sau ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_32_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "『また今度』とは具体的にいつでしょうか？",
+          "sentence_translation": "「Lần sau」 cụ thể là khi nào?",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 理由+期限+チャネル+deliverable",
+      "label_vi": "TỐT — Lý do + deadline + channel + deliverable",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_32_good_02",
+          "highlight_text": "インフラとコストの両面から弊社のCTOとCFOの確認が必要でございます",
+          "ja": "持ち帰り理由を明示。誰に確認するかまで述べると相手は納得しやすい。",
+          "vi": "Nêu lý do持ち帰り cụ thể (cần ai duyệt). Đối phương dễ chấp nhận."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_32_good_02",
+          "highlight_text": "本件は持ち帰り、4月30日（水）17時までにメールにてご回答いたします",
+          "ja": "「持ち帰り＋日時＋チャネル」が標準形。",
+          "vi": "「持ち帰り + ngày giờ + channel」 = cấu trúc chuẩn."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_32_good_03",
+          "highlight_text": "AWS / Azure 比較表とコスト試算を添付",
+          "ja": "回答時に何を出すか予告すると相手は安心して待てる。",
+          "vi": "Báo trước deliverable kèm theo trả lời → khách yên tâm chờ."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_32_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "クラウド選定について、本日決定したいのですが。",
+          "sentence_translation": "Về chọn cloud, tôi muốn quyết hôm nay.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_32_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご要望ありがとうございます。クラウド選定はインフラとコストの両面から弊社のCTOとCFOの確認が必要でございますので、本件は持ち帰り、4月30日（水）17時までにメールにてご回答いたします。",
+          "sentence_translation": "Em cảm ơn anh. Việc chọn cloud cần CTO và CFO bên em duyệt cả về infra và cost ạ. Em xin mang về và trả lời anh qua email trước 17h thứ Tư 30/4 ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1", "2"]
+        },
+        {
+          "line_id": "rule_32_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご回答にはAWS / Azure 比較表とコスト試算を添付いたします。",
+          "sentence_translation": "Trả lời em sẽ đính kèm bảng so sánh AWS/Azure và bảng tính cost ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"],
+          "continues_previous": true
+        },
+        {
+          "line_id": "rule_32_good_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "ありがとうございます。期限つきでしたら問題ありません。お待ちしております。",
+          "sentence_translation": "Cảm ơn Dũng. Có deadline cụ thể là không vấn đề gì. Tôi sẽ chờ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_32_kp_01",
+      "speaker": "zun",
+      "sentence": "本件は持ち帰り、〇月〇日〇時までにメールにてご回答いたします。",
+      "sentence_translation": "Em xin mang về và trả lời qua email trước 〇h ngày 〇/〇 ạ.",
+      "purpose": "結論先送りの標準フレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_32_kp_02",
+      "speaker": "zun",
+      "sentence": "ご回答には〇〇を添付いたします。",
+      "sentence_translation": "Trả lời em sẽ đính kèm 〇〇 ạ.",
+      "purpose": "deliverable 予告",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_32_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "顧客の即決要請に対し、社内確認が必要で持ち帰る場合、最も適切な表現はどれか？",
+      "options": [
+        "また今度",
+        "後で連絡します",
+        "本件は持ち帰り、〇月〇日〇時までにメールにてご回答いたします",
+        "ちょっと厳しいです"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "持ち帰り＋具体的期限＋チャネルが揃って初めて相手は安心できる。曖昧な「また今度」は信頼を損なう。",
+        "vi": "Phải có 持ち帰り + deadline cụ thể + channel thì khách mới yên tâm. 「また今度」 mơ hồ làm mất uy tín."
+      }
+    }
+  ]
+}

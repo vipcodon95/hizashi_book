@@ -1,0 +1,170 @@
+{
+  "_comment": "MẪU SCHEMA A — BaiTap/LuyenTap. Xem study_course_json_schema.md để biết chi tiết. KHÔNG sửa trực tiếp file này — copy sang folder module rồi mới sửa.",
+  "meta": {
+    "title": "<topic>_<Name> Deep Dive",
+    "title_vn": "<Title tiếng Việt — sẽ thành tên question_set>",
+    "total_questions": 8,
+    "levels": {
+      "level1": "基礎 (Cơ bản) — Mô tả nội dung level 1",
+      "level2": "初級ビジネス (Sơ cấp kinh doanh) — Mô tả level 2",
+      "level3": "中級ビジネス (Trung cấp kinh doanh) — Mô tả level 3",
+      "level4": "上級ビジネス (Nâng cao kinh doanh) — Mô tả level 4"
+    },
+    "focus": "Chủ đề trọng tâm — vd 'Teineigo (丁寧語) — Lịch sự ngữ'",
+    "description_vn": "Mô tả ngắn cho người dùng — vd 'Bộ 40 câu hỏi chuyên sâu về Lịch sự ngữ, từ nhận biết cơ bản đến phân tích toàn diện'"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "level": 1,
+      "level_name": "Cơ bản",
+      "category": "Nhận biết — Khái niệm cơ bản",
+      "question_jp": "丁寧語（Teineigo）の特徴として正しいものはどれですか？",
+      "question_vn": "Đặc điểm nào mô tả đúng Teineigo (Lịch sự ngữ)?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "相手の行動を高める表現",
+          "vn": "Biểu đạt nâng cao hành động của đối phương"
+        },
+        {
+          "key": "B",
+          "jp": "自分の行動を低める表現",
+          "vn": "Biểu đạt hạ thấp hành động của bản thân"
+        },
+        {
+          "key": "C",
+          "jp": "誰の行動にも関係なく、文体を丁寧にする表現",
+          "vn": "Biểu đạt làm câu văn lịch sự bất kể ai hành động"
+        },
+        {
+          "key": "D",
+          "jp": "目上の人にだけ使う特別な表現",
+          "vn": "Biểu đạt đặc biệt chỉ dùng với người bề trên"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Teineigo là nền tảng giao tiếp lịch sự, không liên quan đến chủ ngữ. Khác với Sonkeigo (nâng người khác) và Kenjougo (hạ mình), Teineigo chỉ đơn giản là 'nói chuyện lịch sự'.",
+      "tip": "Teineigo = ngôn ngữ lịch sự tiêu chuẩn. ~ます/~です ở cuối câu là dấu hiệu nhận biết!"
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "level_name": "Cơ bản",
+      "category": "Chuyển dạng — Động từ",
+      "question_jp": "「食べる」の丁寧語は何ですか？",
+      "question_vn": "Dạng Teineigo của「食べる」là gì?",
+      "choices": [
+        {"key": "A", "jp": "召し上がる", "vn": "(Sonkeigo — không phải Teineigo)"},
+        {"key": "B", "jp": "食べます", "vn": "(Teineigo — đáp án đúng)"},
+        {"key": "C", "jp": "いただく", "vn": "(Kenjougo — không phải Teineigo)"},
+        {"key": "D", "jp": "食べちゃう", "vn": "(Suồng sã — không phải Teineigo)"}
+      ],
+      "answer": "B",
+      "explanation": "Teineigo của 食べる là 食べます (chia ます-form). 召し上がる là Sonkeigo, いただく là Kenjougo.",
+      "tip": "Quy tắc: V-stem + ます = Teineigo"
+    },
+    {
+      "id": 3,
+      "level": 2,
+      "level_name": "Sơ cấp kinh doanh",
+      "category": "Email kinh doanh — Mở đầu",
+      "question_jp": "ビジネスメールの冒頭で最も適切な表現はどれですか？",
+      "question_vn": "Cụm từ nào phù hợp nhất khi mở đầu email kinh doanh?",
+      "choices": [
+        {"key": "A", "jp": "こんにちは", "vn": "Xin chào (quá thân mật)"},
+        {"key": "B", "jp": "やあ", "vn": "Chào (suồng sã)"},
+        {"key": "C", "jp": "いつもお世話になっております", "vn": "Cảm ơn quý vị đã luôn quan tâm"},
+        {"key": "D", "jp": "もしもし", "vn": "Alo (chỉ dùng điện thoại)"}
+      ],
+      "answer": "C",
+      "explanation": "「いつもお世話になっております」là cụm mở đầu chuẩn cho email kinh doanh, thể hiện sự tôn trọng và biết ơn đối phương.",
+      "tip": "Đây là cụm bắt buộc gần như phải có trong mọi email kinh doanh chính thức."
+    },
+    {
+      "id": 4,
+      "level": 2,
+      "level_name": "Sơ cấp kinh doanh",
+      "category": "Điện thoại — Tiếp nhận",
+      "question_jp": "電話を取るときの一般的な表現は？",
+      "question_vn": "Cách nói thông dụng khi tiếp nhận điện thoại?",
+      "choices": [
+        {"key": "A", "jp": "もしもし", "vn": "Alo (cá nhân)"},
+        {"key": "B", "jp": "はい、〇〇株式会社でございます", "vn": "Vâng, đây là công ty 〇〇"},
+        {"key": "C", "jp": "誰ですか", "vn": "Ai đó? (thô lỗ)"},
+        {"key": "D", "jp": "何ですか", "vn": "Gì vậy? (thô lỗ)"}
+      ],
+      "answer": "B",
+      "explanation": "Tiếp nhận điện thoại trong môi trường kinh doanh phải xưng tên công ty + でございます (dạng lịch sự cao của です).",
+      "tip": "でございます = phiên bản trang trọng của です/だ"
+    },
+    {
+      "id": 5,
+      "level": 3,
+      "level_name": "Trung cấp kinh doanh",
+      "category": "Kết hợp 3 loại kính ngữ",
+      "question_jp": "「お客様がご来店されました」の問題点は何ですか？",
+      "question_vn": "Vấn đề trong câu「お客様がご来店されました」là gì?",
+      "choices": [
+        {"key": "A", "jp": "問題ない", "vn": "Không có vấn đề"},
+        {"key": "B", "jp": "二重敬語（ご〜される）になっている", "vn": "Kép kính ngữ (ご + される)"},
+        {"key": "C", "jp": "Teineigoが使われていない", "vn": "Không có Teineigo"},
+        {"key": "D", "jp": "主語が間違っている", "vn": "Sai chủ ngữ"}
+      ],
+      "answer": "B",
+      "explanation": "「ご来店」đã là Sonkeigo, thêm「される」là kép kính ngữ. Đúng phải là「ご来店になりました」hoặc「来店されました」.",
+      "tip": "Tránh kép kính ngữ — chỉ dùng 1 lớp kính ngữ trên 1 động từ."
+    },
+    {
+      "id": 6,
+      "level": 3,
+      "level_name": "Trung cấp kinh doanh",
+      "category": "Xin lỗi lịch sự",
+      "question_jp": "顧客に商品の遅延を謝罪する最も適切な表現は？",
+      "question_vn": "Cách xin lỗi khách hàng về sự chậm trễ sản phẩm phù hợp nhất?",
+      "choices": [
+        {"key": "A", "jp": "ごめんね", "vn": "Xin lỗi (suồng sã)"},
+        {"key": "B", "jp": "すみません", "vn": "Xin lỗi (lịch sự thường)"},
+        {"key": "C", "jp": "大変申し訳ございません", "vn": "Vô cùng xin lỗi (lịch sự cao)"},
+        {"key": "D", "jp": "悪いね", "vn": "Tệ nhỉ (suồng sã)"}
+      ],
+      "answer": "C",
+      "explanation": "Trong tình huống business với khách hàng, dùng「大変申し訳ございません」— mức độ lịch sự cao nhất phù hợp.",
+      "tip": "申し訳ございません > 申し訳ありません > すみません > ごめん"
+    },
+    {
+      "id": 7,
+      "level": 4,
+      "level_name": "Nâng cao kinh doanh",
+      "category": "Phân tích lỗi — Uchi/Soto",
+      "question_jp": "顧客との会話で「弊社の田中部長がいらっしゃいます」の誤りは？",
+      "question_vn": "Lỗi trong câu nói với khách:「弊社の田中部長がいらっしゃいます」?",
+      "choices": [
+        {"key": "A", "jp": "弊社が間違い", "vn": "弊社 sai"},
+        {"key": "B", "jp": "Uchiの人にSonkeigoを使っている", "vn": "Dùng Sonkeigo cho người Uchi (trong nhóm)"},
+        {"key": "C", "jp": "部長を呼び捨てにしている", "vn": "Gọi 部長 không có tôn trọng"},
+        {"key": "D", "jp": "問題ない", "vn": "Không có vấn đề"}
+      ],
+      "answer": "B",
+      "explanation": "Khi nói với khách (Soto) về sếp mình (Uchi) — phải dùng Kenjougo, không dùng Sonkeigo. Đúng:「弊社の田中はおります」hoặc「田中が参ります」.",
+      "tip": "QUY TẮC VÀNG: Khách hàng = Soto → sếp mình = Uchi → DÙNG KENJOUGO"
+    },
+    {
+      "id": 8,
+      "level": 4,
+      "level_name": "Nâng cao kinh doanh",
+      "category": "3 lớp kính ngữ tổng hợp",
+      "question_jp": "「先生がご説明してくださった」の正しい修正は？",
+      "question_vn": "Sửa câu「先生がご説明してくださった」cho đúng?",
+      "choices": [
+        {"key": "A", "jp": "先生がご説明くださった", "vn": "Loại bỏ「して」(thừa)"},
+        {"key": "B", "jp": "先生が説明してくださった", "vn": "Loại bỏ「ご」"},
+        {"key": "C", "jp": "先生がご説明された", "vn": "Đổi thành「された」"},
+        {"key": "D", "jp": "AとBどちらも正しい", "vn": "Cả A và B đều đúng"}
+      ],
+      "answer": "D",
+      "explanation": "「ご説明してくださった」kép kính ngữ (ご〜する là Kenjougo + くださる là Sonkeigo). Có 2 cách sửa: (A) bỏ「して」→「ご説明くださった」, (B) bỏ「ご」→「説明してくださった」.",
+      "tip": "Khi gặp kép kính ngữ, có nhiều cách sửa — chọn cách giữ nghĩa gốc tốt nhất."
+    }
+  ]
+}

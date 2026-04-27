@@ -1,0 +1,262 @@
+{
+  "rule_id": "rule_12",
+  "rule_slug": "ディスカバリー質問",
+  "title": {
+    "ja": "ディスカバリー質問",
+    "vi": "Discovery questions: 5 categories"
+  },
+  "rule_context": {
+    "ja": "Phase 3 商談 discovery 30分。Pain/Goal/Budget/Timeline/Decision の5観点を順に聞き出す場面。",
+    "vi": "Discovery 30 phút trong đàm phán Phase 3. Lần lượt hỏi 5 trục Pain/Goal/Budget/Timeline/Decision."
+  },
+  "related_rules": [
+    "rule_13",
+    "rule_15",
+    "rule_16"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — Painのみで価格に飛ぶ",
+      "label_vi": "XẤU — Chỉ hỏi Pain rồi nhảy sang giá",
+      "display_order": 1,
+      "analysis": {
+        "ja": "Budget・Timeline・Decision を聞かずに価格提示。当てずっぽう提案で相手から逆に聞かれる醜態。",
+        "vi": "Không hỏi Budget/Timeline/Decision đã quote giá. Đề xuất đoán mò, khách phải hỏi lại — xấu hổ."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_12_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 3 で解決したい課題は何でしょうか？",
+          "sentence_translation": "Vấn đề quý anh muốn giải quyết ở Phase 3 là gì ạ?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_12_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "AI レコメンドで購買単価を上げたい、それから運用負荷を減らしたいです。",
+          "sentence_translation": "Tăng đơn giá mua hàng bằng AI recommend, và giảm tải vận hành.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_12_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "分かりました。それでは ¥19M でご提案します。",
+          "sentence_translation": "Em rõ ạ. Vậy em đề xuất ¥19M ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_12_bad_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "あ…えっと、予算とか聞かないんですか？",
+          "sentence_translation": "À... ơ, không hỏi ngân sách à?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_12_bad_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、そうですね、予算は…",
+          "sentence_translation": "À vâng ạ, ngân sách thì...",
+          "tone": "nervous"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 5観点全カバー",
+      "label_vi": "TỐT — Cover 5 trục đầy đủ",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_12_good_01",
+          "highlight_text": "5 観点でお伺いさせていただきます",
+          "ja": "最初に「5観点」と宣言することで相手に予測可能性を与え、忍耐を引き出す。",
+          "vi": "Tuyên bố trước '5 trục' để khách có dự đoán, kiên nhẫn hơn."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_12_good_03",
+          "highlight_text": "Phase 3 完了時にどのような状態をイメージされていますか",
+          "ja": "Goal 質問は future state を描かせる。数値が引き出しやすい (例: GMV +¥80M)。",
+          "vi": "Câu hỏi Goal vẽ future state. Dễ moi con số (ví dụ: GMV +¥80M)."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_12_good_05",
+          "highlight_text": "新年度 IT 投資のフレームの中で、Phase 3 はどの程度の位置付け",
+          "ja": "予算は間接質問。「予算いくら」直接は答えにくい。「フレームの中で」で範囲を引き出す。",
+          "vi": "Hỏi budget gián tiếp. 'Bao nhiêu' khó đáp; 'trong khung' moi được phạm vi."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_12_good_09",
+          "highlight_text": "稟議経路で確認すべき方はいらっしゃいますか",
+          "ja": "「他に確認すべき人」を聞くことで隠れた決裁者を炙り出す (取締役会等)。",
+          "vi": "Hỏi 'còn ai cần consult' để lộ ra decision-maker ẩn (ví dụ HĐQT)."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_12_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "5 観点でお伺いさせていただきます。まず Pain — 現状の運用で最も時間を取られている部分はどちらでしょうか？",
+          "sentence_translation": "Em xin phép hỏi theo 5 trục ạ. Đầu tiên Pain — trong vận hành hiện tại, mục nào đang ngốn thời gian nhất ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_12_good_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "在庫予測の精度。営業部が手動で日次調整している。",
+          "sentence_translation": "Độ chính xác dự báo tồn kho. Phòng KD đang điều chỉnh thủ công hàng ngày.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_12_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Goal — Phase 3 完了時にどのような状態をイメージされていますか？",
+          "sentence_translation": "Goal — khi Phase 3 hoàn thành, quý anh hình dung trạng thái như thế nào ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_12_good_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "予測精度 +15%、手動調整時間半減。GMV 影響としては年間 +¥80M 見込み。",
+          "sentence_translation": "Độ chính xác +15%, thời gian điều chỉnh thủ công giảm một nửa. Ảnh hưởng GMV ước +¥80M/năm.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_12_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "予算感につきまして、御社新年度 IT 投資のフレームの中で、Phase 3 はどの程度の位置付けでしょうか？",
+          "sentence_translation": "Về cảm giác ngân sách, trong khung đầu tư IT năm mới của quý cty, Phase 3 ở vị trí nào ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_12_good_06",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "Phase 3 単体としては ¥15-20M 帯で考えています。それを大きく超えると稟議が難航します。",
+          "sentence_translation": "Riêng Phase 3 chúng tôi tính dải ¥15-20M. Vượt nhiều là ringi sẽ khó.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_12_good_07",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。Timeline — リリース希望時期は？",
+          "sentence_translation": "Em cảm ơn ạ. Timeline — thời điểm release mong muốn?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_12_good_08",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "7 月末までに本番投入できれば理想です。",
+          "sentence_translation": "Lý tưởng là đưa vào production trước cuối tháng 7.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_12_good_09",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "最後に Decision — 本件のご判断は中村 CFO 様 + 大垣部長様の合議でよろしいでしょうか？それ以外に稟議経路で確認すべき方はいらっしゃいますか？",
+          "sentence_translation": "Cuối cùng Decision — quyết định vụ này là hợp nghị giữa anh Nakamura CFO và anh Ōgaki ạ? Ngoài ra trên đường ringi còn ai cần consult không ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "4"
+          ]
+        },
+        {
+          "line_id": "rule_12_good_10",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "我々2名の合議+IT部門長の technical review が必要です。あと取締役会 (¥18M 超は付議)。",
+          "sentence_translation": "Hai chúng tôi hợp nghị + technical review của trưởng phòng IT. Thêm HĐQT (vượt ¥18M phải đưa lên).",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_12_good_11",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "承知しました。これで5観点のご状況が揃いました。",
+          "sentence_translation": "Em rõ ạ. Vậy là 5 trục đã đủ thông tin ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_12_kp_01",
+      "speaker": "zun",
+      "sentence": "5 観点でお伺いさせていただきます。Pain・Goal・予算感・Timeline・Decision の順で。",
+      "sentence_translation": "Em xin hỏi theo 5 trục: Pain / Goal / cảm giác ngân sách / Timeline / Decision ạ.",
+      "purpose": "discovery 開始の宣言",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_12_kp_02",
+      "speaker": "zun",
+      "sentence": "稟議経路で確認すべき方はいらっしゃいますか？",
+      "sentence_translation": "Trên đường ringi còn ai cần consult không ạ?",
+      "purpose": "隠れた決裁者の炙り出し",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_12_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "Discovery 5観点に含まれないものは？",
+      "options": [
+        "Pain (現状の課題)",
+        "Goal (理想状態)",
+        "Budget (予算感)",
+        "競合社員の年収"
+      ],
+      "correct": "D",
+      "explanation": {
+        "ja": "5観点は Pain/Goal/Budget/Timeline/Decision。競合社員年収は無関係。",
+        "vi": "5 trục: Pain/Goal/Budget/Timeline/Decision. Lương nhân viên đối thủ không liên quan."
+      }
+    }
+  ]
+}

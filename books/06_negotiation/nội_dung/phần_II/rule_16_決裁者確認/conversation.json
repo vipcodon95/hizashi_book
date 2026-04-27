@@ -1,0 +1,189 @@
+{
+  "rule_id": "rule_16",
+  "rule_slug": "決裁者確認",
+  "title": {
+    "ja": "決裁者確認",
+    "vi": "Confirm decision authority"
+  },
+  "rule_context": {
+    "ja": "Discovery Decision step で CFO 決裁ライン + 残ステップ (技術review・予算審議・法務) を明示確認する場面。",
+    "vi": "Trong bước Decision của discovery, Dũng confirm rõ CFO duyệt + steps còn lại (technical/budget/legal review)."
+  },
+  "related_rules": [
+    "rule_04",
+    "rule_12",
+    "rule_03"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 決裁者誤認",
+      "label_vi": "XẤU — Đoán sai decision-maker",
+      "display_order": 1,
+      "analysis": {
+        "ja": "CFO 同席にも関わらず部長を決裁者と誤認。CFO の前で「伝えていただけますか」は失礼。",
+        "vi": "CFO ngồi cùng mà vẫn đoán GĐKD là người duyệt. Nói 'nhờ chuyển cho CFO' trước mặt CFO là bất lịch sự."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_16_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "決裁は大垣部長様ですよね？",
+          "sentence_translation": "Người duyệt là anh Ōgaki phải không ạ?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_16_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "私は予算 ¥10M までです。¥18M なら中村 CFO 決裁です。",
+          "sentence_translation": "Tôi quyền tới ¥10M. ¥18M là CFO Nakamura duyệt.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_16_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、そうですか。じゃあ大垣様にも CFO に伝えていただけますか？",
+          "sentence_translation": "À thế ạ. Vậy phiền anh Ōgaki chuyển cho CFO giúp em được không ạ?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_16_bad_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "いや、CFO 同席されてますが…",
+          "sentence_translation": "Ơ, CFO đang ngồi cùng đây mà...",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 決裁ライン+残ステップ確認",
+      "label_vi": "TỐT — Confirm decision line + remaining steps",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_16_good_01",
+          "highlight_text": "中村 CFO 様のご決裁、加えて取締役会付議",
+          "ja": "決裁者+報告ラインを並列確認。「決裁」だけでは不十分、「付議」も含む。",
+          "vi": "Confirm song song decision-maker + reporting line. Chỉ 'duyệt' chưa đủ, phải gồm cả 'đưa lên'."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_16_good_03",
+          "highlight_text": "技術 review、予算審議、法務 check など、どのようなステップが残っていらっしゃいますでしょうか",
+          "ja": "残ステップを具体名で並べて聞くと相手が答えやすい。空白質問より誘導されやすい。",
+          "vi": "Liệt kê tên cụ thể của step rồi hỏi giúp khách dễ trả lời. Dễ gợi ý hơn câu hỏi trống."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_16_good_05",
+          "highlight_text": "3 ステップ・3 週間、加えて取締役会の付議タイミング",
+          "ja": "回答を repeat back して committement化。後の timeline 計算根拠になる。",
+          "vi": "Repeat back để khách commit. Là cơ sở tính timeline về sau."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_16_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "最終決裁につきまして — 本件は ¥18M 帯ですので、中村 CFO 様のご決裁、加えて取締役会付議という理解でよろしいでしょうか？",
+          "sentence_translation": "Về duyệt cuối — vụ này ở dải ¥18M, em hiểu là anh Nakamura CFO duyệt + đưa lên HĐQT, có đúng không ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_16_good_02",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "はい、私の決裁 + 取締役会報告です。¥20M 超えると取締役会承認が必要になります。",
+          "sentence_translation": "Đúng, tôi duyệt + báo cáo HĐQT. Vượt ¥20M là cần HĐQT phê duyệt.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_16_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "承知しました。決裁の前段階で、技術 review、予算審議、法務 check など、どのようなステップが残っていらっしゃいますでしょうか？",
+          "sentence_translation": "Em rõ ạ. Trước khi duyệt còn step nào ạ — kiểu technical review, thẩm định budget, hay legal check ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_16_good_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "IT 部門長 technical review、経理部の予算 cycle 審議、そして最終的に法務 contract review。3 ステップで、合計 3 週間程度です。",
+          "sentence_translation": "Trưởng phòng IT review technical, phòng kế toán thẩm định budget cycle, cuối cùng là pháp chế review hợp đồng. 3 step, tổng khoảng 3 tuần.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_16_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "3 ステップ・3 週間、加えて取締役会の付議タイミング、ありがとうございます。それを踏まえて Timeline を組み直します。",
+          "sentence_translation": "3 step / 3 tuần, kèm timing đưa lên HĐQT — em cảm ơn ạ. Em sẽ ghép lại Timeline dựa trên đó ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_16_kp_01",
+      "speaker": "zun",
+      "sentence": "最終決裁は〜様でいらっしゃいますでしょうか？",
+      "sentence_translation": "Người duyệt cuối là anh/chị 〜 phải không ạ?",
+      "purpose": "決裁者確認の定型",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_16_kp_02",
+      "speaker": "zun",
+      "sentence": "決裁の前段階でどのようなステップが残っていらっしゃいますでしょうか？",
+      "sentence_translation": "Trước khi duyệt còn step nào ạ?",
+      "purpose": "残ステップ確認",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_16_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "決裁者確認で必ず聞くべき2点は？",
+      "options": [
+        "誰が duyệt + その人の年齢",
+        "誰が duyệt + 残ステップと期間",
+        "誰が duyệt + その人の出身大学",
+        "誰が duyệt + その人の競合経歴"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "決裁者本人 + 決裁前のステップ・期間。両方揃って初めてtimelineが組める。",
+        "vi": "Người duyệt + step và thời gian trước duyệt. Đủ cả hai mới ghép được timeline."
+      }
+    }
+  ]
+}

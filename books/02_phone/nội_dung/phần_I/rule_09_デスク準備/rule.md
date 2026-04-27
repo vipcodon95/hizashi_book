@@ -1,0 +1,47 @@
+# Rule 09 — Setup bàn trước cuộc gọi quan trọng / 重要電話前のデスク準備
+
+> **Luận điểm.** Trước cuộc gọi quan trọng (5+ phút, có quyết định), setup bàn 30 giây: **bút + giấy + lịch + tài liệu liên quan + cốc nước**.
+>
+> 重要通話の前に30秒のデスク準備：ペン+メモ+カレンダー+資料+水。
+>
+> **Liên quan:** Rule 04, Rule 24.
+
+## Checklist 30 giây / 30秒チェックリスト
+
+```
+□ ペンとメモパッド (within reach)
+□ カレンダー / Google Calendar 開いている
+□ 関連資料 (前回メール、契約書) 開いている  
+□ コップに水 (口が渇く時用)
+□ スマホ通知 OFF (集中)
+□ ヘッドセット (オフィスうるさい場合)
+```
+
+---
+
+## ✅ Hội thoại — Setup tốt = phản ứng nhanh
+
+*đã mở sẵn email*
+
+| Speaker | Câu |
+|---------|-----|
+| **松本PM** | 「先週送った見積書の3ページ目について質問なのですが...」 |
+| **ズン** | 「はい、3ページ目を開いております。どの項目でしょうか。」 |
+
+→ Vì đã mở sẵn → trả lời ngay, không phải "ちょっとお待ちください、メールを開きます".
+
+---
+
+## 🎯 Câu chốt
+
+> **「重要電話の30秒前にデスクを整える」**
+
+---
+
+## 📚 Vocab
+
+| 漢字 | よみ | Nghĩa |
+|------|------|-------|
+| 整える | ととのえる | Sắp xếp |
+| ヘッドセット | heddosetto | Headset |
+| 通知 | つうち | Thông báo |

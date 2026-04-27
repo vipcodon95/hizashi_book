@@ -1,0 +1,185 @@
+{
+  "rule_id": "rule_15",
+  "rule_slug": "本日のゴール確認",
+  "title": {
+    "ja": "本日のゴール確認",
+    "vi": "Chốt mục tiêu output cuộc họp"
+  },
+  "rule_context": {
+    "ja": "議題前に司会のズンが本日のゴールを2点宣言。1)5月スコープ合意、2)次回日程決定。議事録に決定事項として記録できる粒度で。",
+    "vi": "Trướcmục đầu tiên, Dũng chốt 2 goal: (1) thống nhất scope tháng 5, (2) quyết ngày họp tới. Mức chi tiết đủ ghi vào biên bản dạng decision."
+  },
+  "related_rules": [
+    "rule_01",
+    "rule_13",
+    "rule_31",
+    "rule_44"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 曖昧な『意見交換』",
+      "label_vi": "XẤU — Goal vague kiểu '意見交換'",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『意見交換』『できれば』など曖昧表現。客は何が決まるか掴めない。",
+        "vi": "「意見交換」 「できれば」 quá vague. Khách không biết quyết cái gì."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_15_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本日は皆様で意見交換させていただければと思います。",
+          "sentence_translation": "Hôm nay em mong được trao đổi ý kiến cùng quý anh chị ạ.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_15_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "ズンさん、本日何を決めたいのか、教えていただけますか。",
+          "sentence_translation": "Dũng à, hôm nay muốn quyết cái gì thì cho anh biết được không?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_15_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えーと、進捗確認と、できれば 5月のスコープも…",
+          "sentence_translation": "Ờ thì... confirm tiến độ, và nếu được thì cả scope tháng 5...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_15_bad_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "『できれば』ですか…明確に決めたい点は？",
+          "sentence_translation": "'Nếu được' à... vậy điểm muốn quyết rõ là gì?",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 2点の明確なゴール",
+      "label_vi": "TỐT — 2 goal rõ ràng",
+      "display_order": 2,
+      "analysis": {
+        "ja": "ゴールを2点に絞り、各々に動詞（合意・決定）を付けて action-able に。議事録記録粒度で表現。",
+        "vi": "Goal gọn 2 điểm, mỗi điểm có động từ rõ (合意 / 決定). Mức cụ thể đủ ghi biên bản."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_15_good_01",
+          "highlight_text": "ゴールを2点ご共有",
+          "ja": "「ゴール」はビジネス会議で頻用されるカタカナ語。「目標」より tactical 感が強い。",
+          "vi": "「ゴール」 là từ katakana hay dùng trong họp business. Cảm giác tactical hơn 「目標」."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_15_good_02",
+          "highlight_text": "合意",
+          "ja": "「合意」「決定」など action 動詞を必ず goal に含める。",
+          "vi": "Goal bắt buộc phải kèm động từ action: 「合意」 「決定」."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_15_good_03",
+          "highlight_text": "議事録に決定事項として記録できる状態",
+          "ja": "ゴールの粒度を『議事録記録可能性』で定義する高度な表現。",
+          "vi": "Định nghĩa độ chi tiết của goal qua 'có ghi vào biên bản được không' — cách diễn đạt cấp cao."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_15_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本日のゴールを2点ご共有させていただきます。",
+          "sentence_translation": "Em xin chia sẻ 2 mục tiêu của hôm nay ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_15_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "1点目、5月開発スコープの合意。2点目、次回会議日程の決定でございます。",
+          "sentence_translation": "Điểm 1: thống nhất scope phát triển tháng 5. Điểm 2: quyết ngày buổi họp tiếp ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_15_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "この2点を本日の議事録に決定事項として記録できる状態に持っていく、というのが本日のゴールです。",
+          "sentence_translation": "Đưa được 2 điểm này vào biên bản hôm nay dưới dạng quyết định — đó là goal của hôm nay ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_15_good_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "明確で良いですね。承知しました。",
+          "sentence_translation": "Rõ ràng, tốt đấy. Anh hiểu rồi.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_15_kp_01",
+      "speaker": "zun",
+      "sentence": "本日のゴールを〇点ご共有させていただきます。",
+      "sentence_translation": "Em xin chia sẻ 〇 mục tiêu của hôm nay ạ.",
+      "purpose": "本日のゴール宣言の冒頭",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_15_kp_02",
+      "speaker": "zun",
+      "sentence": "議事録に決定事項として記録できる状態に持っていくのが本日のゴールです。",
+      "sentence_translation": "Đưa được vào biên bản dưới dạng quyết định — đó là goal hôm nay ạ.",
+      "purpose": "ゴール粒度の定義",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_15_bjt_01",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "会議のゴールを示す最も適切な表現はどれか？",
+      "options": [
+        "Phase 2 について話す",
+        "5月開発スコープの合意",
+        "意見交換する",
+        "色々検討する"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "ゴールは action 動詞（合意・決定）を含み、議事録記録可能な粒度であるべき。",
+        "vi": "Goal phải có động từ action (合意 / 決定) và đủ chi tiết để ghi biên bản."
+      }
+    }
+  ]
+}

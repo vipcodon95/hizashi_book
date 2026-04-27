@@ -1,0 +1,200 @@
+{
+  "rule_id": "rule_35",
+  "rule_slug": "商談打ち切り",
+  "title": {
+    "ja": "商談打ち切り",
+    "vi": "Walk-away phong nhã"
+  },
+  "rule_context": {
+    "ja": "Phase 3 round 4 で大垣 ¥14M push、walk-away ライン以下。条件面 framing で打ち切り、 ご縁文言で door 残す場面。",
+    "vi": "Phase 3 round 4: Ōgaki push ¥14M (dưới walk-away). Dũng walk-away phong nhã, blame 'condition', mở door bằng câu 'ご縁'."
+  },
+  "related_rules": ["rule_28", "rule_36"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 「お断り」cứng",
+      "label_vi": "XẤU — 'Không' cứng + cắt relationship",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「お断りします」直接で関係終了。3 ヶ月後 Phase 4 機会で入札にすら呼ばれず。",
+        "vi": "Walk-away kiểu 'Em từ chối' cứng → cắt relationship. 3 tháng sau Phase 4 không được mời bid."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_35_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "最終 ¥14M でお願いします。これ以上は弊社難しい。",
+          "sentence_translation": "Cuối cùng ¥14M nhé. Hơn nữa thì bên anh khó.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_35_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "¥14M では弊社利益が出ません。お断りします。",
+          "sentence_translation": "¥14M thì bên em không có lợi. Em xin từ chối.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_35_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "…そうですか。では、本日はここまでということで。",
+          "sentence_translation": "...Vậy à. Vậy hôm nay đến đây thôi.",
+          "tone": "neutral",
+          "pause_after_ms": 800
+        },
+        {
+          "line_id": "rule_35_bad_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "(3 ヶ月後 Phase 4 案件発生時) ティエンファットは 1 ラウンドで打ち切る会社、入札不参加で。",
+          "sentence_translation": "(3 tháng sau khi có vụ Phase 4) Tiên Phát là công ty walk-away ngay vòng 1, không cho bid.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 条件面 framing + ご縁で door 残す",
+      "label_vi": "TỐT — Blame condition + để cửa cho 'ご縁'",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_35_good_03",
+          "highlight_text": "条件面で折り合いがつかず",
+          "ja": "Blame は『条件』abstract、『貴社』ではない。両者の face を保持。",
+          "vi": "Blame là 'condition' trừu tượng, không phải 'bên anh'. Giữ face cả 2 bên."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_35_good_04",
+          "highlight_text": "品質を維持しての提供が困難",
+          "ja": "Walk-away を「御社のため」と framing。dynamic を逆転。",
+          "vi": "Framing walk-away 'vì lợi ích bên anh' → đảo ngược dynamic."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_35_good_05",
+          "highlight_text": "ご縁がございましたら",
+          "ja": "magic phrase。JP relationship 記憶 5-10 年、door 残せば再来する。",
+          "vi": "Magic phrase. JP nhớ relationship 5-10 năm, để cửa thì khách quay lại."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_35_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "最終 ¥14M でお願いします。",
+          "sentence_translation": "Cuối cùng ¥14M nhé.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_35_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご検討いただきましてありがとうございます。",
+          "sentence_translation": "Em cảm ơn anh đã xem xét ạ.",
+          "tone": "formal",
+          "pause_after_ms": 1500
+        },
+        {
+          "line_id": "rule_35_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "誠に申し訳ございませんが、条件面で折り合いがつかず、今回は誠に残念ながら見送りとさせていただきます。",
+          "sentence_translation": "Thực sự xin lỗi anh, do điều kiện hai bên không bridge được, lần này em rất tiếc xin phép tạm gác lại ạ.",
+          "tone": "apologetic",
+          "speed_multiplier": 0.9,
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_35_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "¥14M は弊社の原価構造上、品質を維持しての提供が困難な水準でございます。半端な品質で御社にご迷惑をおかけする方が、長期的に良くないと判断いたしました。",
+          "sentence_translation": "¥14M trên cấu trúc giá thành bên em, để giữ chất lượng thì khó cung cấp ạ. Em đánh giá rằng việc cung cấp chất lượng nửa vời gây phiền cho bên anh thì lâu dài không tốt cho cả 2.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_35_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "今後また御社のご状況・ご予算が変わられた際、ご縁がございましたら、ぜひお声がけください。本日は貴重なお時間をいただき、誠にありがとうございました。",
+          "sentence_translation": "Sau này nếu tình hình hay ngân sách bên anh có thay đổi, nếu có duyên, rất mong anh gọi lại em. Hôm nay em xin chân thành cảm ơn anh đã dành thời gian quý báu ạ.",
+          "tone": "warm",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_35_good_06",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "ズン様、誠実なご回答ありがとうございます。こちらも社内で再検討の余地があります。一度持ち帰らせてください。",
+          "sentence_translation": "Anh Dũng, cảm ơn em đã trả lời chân thành. Bên anh cũng còn dư địa xem xét lại nội bộ. Cho anh mang về một lần nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_35_good_07",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "(1 週間後) ズン様、社内で予算を ¥15.5M まで引き上げました。再度 negotiation お願いできますか？",
+          "sentence_translation": "(1 tuần sau) Anh Dũng, bên anh đã tăng budget nội bộ lên ¥15.5M. Mình negotiate lại được không?",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_35_kp_01",
+      "speaker": "zun",
+      "sentence": "条件面で折り合いがつかず、今回は誠に残念ながら見送りとさせていただきます。",
+      "sentence_translation": "Do điều kiện hai bên không bridge được, lần này em rất tiếc xin phép tạm gác lại ạ.",
+      "purpose": "Walk-away 主語",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_35_kp_02",
+      "speaker": "zun",
+      "sentence": "ご縁がございましたら、ぜひお声がけください。",
+      "sentence_translation": "Nếu có duyên, rất mong anh gọi lại em.",
+      "purpose": "関係維持の magic phrase",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_35_bjt_01",
+      "level": "J1",
+      "skill": "表現読解",
+      "question_ja": "「条件面で折り合いがつかず、見送りとさせていただきます」が「お断りします」より優れている理由は？",
+      "options": [
+        "敬語が多いから",
+        "blame 対象を「条件」(abstract) に置き、相手の face を保持しつつ関係維持の余地を残すから",
+        "短いから",
+        "曖昧で逃げ場があるから"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "「お断り」は人格 reject。「条件面」は abstract で、相手・自分どちらの face も傷つけず、関係継続の magic phrase 「ご縁」を続けやすい。",
+        "vi": "'お断り' reject ở mức cá nhân. 'Conditional' là abstract — không tổn thương face, dễ nối tiếp magic phrase 'ご縁' duy trì relationship."
+      }
+    }
+  ]
+}

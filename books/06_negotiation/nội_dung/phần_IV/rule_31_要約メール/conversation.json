@@ -1,0 +1,193 @@
+{
+  "rule_id": "rule_31",
+  "rule_slug": "要約・確認メール",
+  "title": {
+    "ja": "要約・確認メール",
+    "vi": "Recap email — tổng hợp xác nhận"
+  },
+  "rule_context": {
+    "ja": "商談翌朝、Hương レビュー → 24時間以内に5セクション構成の確認メールを送信し、稟議に添付できる正式文書とする場面。",
+    "vi": "Sáng hôm sau đàm phán, Hương review trước khi Dũng gửi recap mail trong 24h với 5 sections — trở thành tài liệu chính thức gửi kèm ringi."
+  },
+  "related_rules": ["rule_30", "rule_32"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 5日遅延 + フォーマット不備",
+      "label_vi": "XẤU — Trễ 5 ngày + format thiếu",
+      "display_order": 1,
+      "analysis": {
+        "ja": "稟議 開始後にメール催促されて慌てて送信。件名 vague で本文も項目抜け。trust 大幅低下。",
+        "vi": "Sau khi ringi đã start mới bị khách nhắc → vội gửi. Subject vague + body thiếu items. Trust giảm mạnh."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_31_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "大垣様、先日はありがとうございました！合意事項を後ほどメールでお送りします。",
+          "sentence_translation": "Anh Ōgaki, hôm trước em cảm ơn anh nhiều ạ! Items đã đồng thuận em sẽ gửi mail sau ạ.",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_31_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "ズン様、社内稟議が金曜から動き始めて、文書がないため保留中です。本日中にいただけますか？",
+          "sentence_translation": "Anh Dũng, ringi nội bộ bên anh đã chạy từ thứ Sáu, vì chưa có văn bản nên đang phải hold. Trong ngày hôm nay gửi được không?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_31_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "申し訳ございません、すぐ送ります！",
+          "sentence_translation": "Em xin lỗi anh ạ, em gửi ngay ạ!",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_31_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "件名「Phase 3 の件」 — 本文「合意ありがとうございました。¥17M で 2 年です。よろしくお願いいたします。」",
+          "sentence_translation": "Subject 'Vụ Phase 3' — body 'Cảm ơn anh đã đồng thuận. ¥17M, 2 năm. Mong tiếp tục hợp tác.'",
+          "tone": "neutral",
+          "speed_multiplier": 0.9
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 24h以内 + 5セクション完備",
+      "label_vi": "TỐT — Trong 24h + đủ 5 sections",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_31_good_04",
+          "highlight_text": "5セクション",
+          "ja": "出席者 / 合意 / 未決 / 次アクション / 添付。skip した項目があれば稟議添付に耐えない。",
+          "vi": "Attendees / Agreed / Open / Next actions / Attachments. Thiếu section nào = không phục vụ ringi."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_31_good_06",
+          "highlight_text": "OK 返信",
+          "ja": "クライアントから 'OK' / '齟齬ございません' 返信が来ればロック。稟議文書に添付可能。",
+          "vi": "Khách reply OK / không sai lệch = locked. Có thể attach mail history vào ringi document làm proof."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_31_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、Phase 3 商談の確認メール drafts しました。送信前に一度ご確認お願いいたします。",
+          "sentence_translation": "Chị Hương, em đã draft recap mail Phase 3 ạ. Phiền chị xem giúp em trước khi gửi ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_31_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "件名 OK、出席者 OK、合意 7 項目 numbered OK、未決 2 項目 OK、次アクション owner+deadline 明記 OK。いいね、送信して。",
+          "sentence_translation": "Subject OK, attendees OK, agreed 7 items numbered OK, open 2 items OK, next actions có owner + deadline OK. OK em, gửi đi.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_31_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "件名:【ご確認】Phase 3 商談合意事項のまとめ (4/24 開催)",
+          "sentence_translation": "Subject: [Xác nhận] Tổng hợp items đã đồng thuận đàm phán Phase 3 (đàm phán 24/4)",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_31_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本文の構成は ①出席者、②合意事項 7 項目、③未決事項 2 項目、④次のアクション owner+期限付き、⑤添付 提案書 v3.2 です。",
+          "sentence_translation": "Cấu trúc body: ①Attendees, ②7 items đã đồng thuận, ③2 items chưa quyết, ④Next actions có owner + deadline, ⑤Đính kèm proposal v3.2.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_31_good_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "ズン様、迅速なご対応ありがとうございます。読み戻し通りで齟齬ございません。1点、稟議の上申は5月7日で動きます。",
+          "sentence_translation": "Anh Dũng, cảm ơn em đã phản hồi nhanh. Đúng như đã read back, không có sai lệch. Một điểm: ringi sẽ đệ trình ngày 7/5.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_31_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "大垣様より OK 返信いただきました。稟議 5/7 上申とのことです。次は契約書 draft を準備します。",
+          "sentence_translation": "Em đã nhận OK reply từ anh Ōgaki ạ. Ringi đệ trình 7/5 ạ. Tiếp theo em sẽ chuẩn bị contract draft ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_31_kp_01",
+      "speaker": "zun",
+      "sentence": "【ご確認】Phase 3 商談合意事項のまとめ (4/24 開催)",
+      "sentence_translation": "[Xác nhận] Tổng hợp items đã đồng thuận đàm phán Phase 3 (24/4)",
+      "purpose": "件名標準形",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_31_kp_02",
+      "speaker": "zun",
+      "sentence": "送信前に一度ご確認お願いいたします。",
+      "sentence_translation": "Trước khi gửi, phiền chị xem giúp em một lần ạ.",
+      "purpose": "Senior レビュー依頼",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_31_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "商談後 recap メールを 24 時間以内に送る最大の理由は？",
+      "options": [
+        "礼儀作法のため",
+        "クライアントの稟議文書に添付する正式な認識合わせ文書となるため",
+        "上司に報告するため",
+        "翻訳に時間がかかるため"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "稟議は商談直後から動く。recap メールが添付されることで認識ズレを防ぎ、稟議が止まらない。",
+        "vi": "Ringi chạy ngay sau đàm phán. Recap mail được attach làm tài liệu chính thức → ngăn mismatch + ringi không bị block."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_31_tpl_01",
+      "format": "email_followup",
+      "title_ja": "商談後 確認メール (5セクション構成)",
+      "title_vi": "Recap mail đàm phán (5 sections)",
+      "content_ja": "宛先: 〇〇様 (To); △△様、□□様 (Cc 自社/先方関係者)\n件名:【ご確認】〇〇 商談合意事項のまとめ (〇月〇日 開催)\n\n〇〇株式会社\n〇〇 部長\n〇〇 様\n\nお世話になっております。ティエンファットの〇〇です。\n本日はお時間を頂戴し、誠にありがとうございました。\n以下の通り、本日の合意事項をまとめましたのでご確認ください。\n\n━━━ ① 出席者 ━━━\n貴社: 〇〇 部長、〇〇 様\n弊社: 〇〇、〇〇\n\n━━━ ② 合意事項 ━━━\n1. 価格: 〇〇円 (税抜)\n2. 契約期間: 〇〇年〇月-〇〇年〇月\n3. スコープ: 〇〇\n4. SLA: 〇〇%\n5. 支払条件: 月末締め翌月末払い\n6. 成果物 IP: 〇〇\n7. 稟議スケジュール: 〇月〇日まで\n\n━━━ ③ 未決事項 ━━━\n1. 〇〇 — 〇月〇日までに弊社より追加情報提供\n2. 〇〇 — 貴社にて社内検討\n\n━━━ ④ 次のアクション ━━━\n| # | アクション | Owner | 期限 |\n|---|-----------|-------|------|\n| 1 | 契約書ドラフト送付 | 〇〇 (弊社) | 〇月〇日 |\n| 2 | 稟議上申 | 〇〇 (貴社) | 〇月〇日 |\n| 3 | キックオフ MTG 設定 | 〇〇 | 〇月〇日 |\n\n━━━ ⑤ 添付 ━━━\n- 提案書 v〇.〇\n- 議事メモ\n\n上記、認識齟齬ございましたら本メールにご返信いただけますと幸いです。\n何卒よろしくお願い申し上げます。\n\nティエンファット社\n〇〇 〇〇\nMail: 〇〇@tienphat.vn\nTel: 〇〇",
+      "content_vi": "To: anh/chị 〇〇; Cc: 〇〇, 〇〇\nSubject:【Xác nhận】Tổng hợp items đã đồng thuận đàm phán 〇〇 (〇/〇)\n\nKính gửi anh/chị 〇〇 — Cty 〇〇,\n\nXin chào, em là 〇〇 (Tiên Phát).\nHôm nay em xin chân thành cảm ơn anh/chị đã dành thời gian.\nDưới đây là tổng hợp các điểm đã đồng thuận hôm nay, phiền anh/chị xác nhận giúp em.\n\n━━━ ① Người tham dự ━━━\nBên anh/chị: 〇〇, 〇〇\nBên em: 〇〇, 〇〇\n\n━━━ ② Items đã đồng thuận ━━━\n1. Giá: 〇〇 ¥ (chưa thuế)\n2. Kỳ hạn: 〇/〇 - 〇/〇\n3. Scope: 〇〇\n4. SLA: 〇〇%\n5. Điều khoản thanh toán: chốt cuối tháng - trả cuối tháng kế\n6. IP sản phẩm: 〇〇\n7. Lịch ringi (稟議): trước 〇/〇\n\n━━━ ③ Items chưa quyết ━━━\n1. 〇〇 — bên em sẽ cung cấp info bổ sung trước 〇/〇\n2. 〇〇 — bên anh/chị nội bộ thảo luận\n\n━━━ ④ Next actions ━━━\n| # | Action | Owner | Deadline |\n|---|--------|-------|----------|\n| 1 | Gửi contract draft | 〇〇 (Tiên Phát) | 〇/〇 |\n| 2 | Đệ trình ringi | 〇〇 (bên anh/chị) | 〇/〇 |\n| 3 | Set kickoff MTG | 〇〇 | 〇/〇 |\n\n━━━ ⑤ Đính kèm ━━━\n- Proposal v〇.〇\n- Meeting note\n\nNếu có sai lệch nhận thức, phiền anh/chị reply lại mail này giúp em ạ.\nEm rất mong nhận được phản hồi.\n\nCty Tiên Phát\n〇〇 〇〇\nMail: 〇〇@tienphat.vn\nTel: 〇〇",
+      "notes_ja": "送信は商談から24時間以内必須。Senior レビューを通してから送信。OK 返信 = 稟議添付可能。",
+      "notes_vi": "Bắt buộc gửi trong 24h sau đàm phán. Phải qua senior review trước khi gửi. Reply OK = có thể attach vào ringi document."
+    }
+  ]
+}

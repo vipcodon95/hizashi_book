@@ -1,0 +1,89 @@
+{
+  "rule_id": "rule_10",
+  "rule_slug": "困難電話のメンタル準備",
+  "title": {
+    "ja": "困難電話のメンタル準備",
+    "vi": "Tâm lý chuẩn bị cho cuộc gọi khó"
+  },
+  "rule_context": {
+    "ja": "謝罪・督促・断り・悪い知らせの電話前は30秒のメンタルリハーサルが必須。",
+    "vi": "Trước cuộc gọi khó cần 30 giây mental rehearsal."
+  },
+  "related_rules": [
+    "rule_40",
+    "rule_41",
+    "rule_45"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — リハーサル後の安定した発信",
+      "label_vi": "TỐT — Đã rehearse, mở câu ổn định",
+      "display_order": 1,
+      "context": {
+        "ja": "ズンが納期遅延を松本PMに電話で報告。事前に結論・代替案・想定質問を整理済み。",
+        "vi": "Em Dũng gọi báo anh Matsumoto việc trễ deadline. Đã rehearse trước về kết luận, phương án, câu hỏi dự đoán."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_10_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "松本様、お忙しいところ恐れ入ります。納期について重要なご連絡でお電話いたしました。",
+          "sentence_translation": "Anh Matsumoto, em xin lỗi đã làm phiền anh lúc bận. Em gọi để báo điều quan trọng về deadline ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_10_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "はい、どうぞ。",
+          "sentence_translation": "Vâng, em nói đi.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_10_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "結論から申し上げますと、5/15のデッドラインに間に合いません。新納期は5/19を提案させていただきたく...",
+          "sentence_translation": "Em xin nói kết luận trước: Em không kịp deadline 15/05. Em xin đề xuất hạn mới là 19/05 ạ...",
+          "tone": "formal",
+          "speed_multiplier": 0.9
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_10_kp_01",
+      "speaker": "zun",
+      "sentence": "結論から申し上げますと、〇〇です。",
+      "sentence_translation": "Em xin nói kết luận trước: 〇〇 ạ.",
+      "purpose": "困難電話の冒頭テンプレート — 結論先行",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_10_bjt_01",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "悪い知らせの電話の冒頭で最も避けるべき言葉は？",
+      "options": [
+        "結論から申し上げますと",
+        "重要なご連絡で",
+        "すみません、ちょっと話しにくいのですが",
+        "お忙しいところ恐れ入ります"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "「話しにくい」と言うと相手も身構える。冷静に結論先行で。",
+        "vi": "「話しにくい」làm khách cũng căng. Phải bình tĩnh, kết luận trước."
+      }
+    }
+  ]
+}

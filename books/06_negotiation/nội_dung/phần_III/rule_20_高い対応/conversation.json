@@ -1,0 +1,203 @@
+{
+  "rule_id": "rule_20",
+  "rule_slug": "「高い」への対応",
+  "title": {
+    "ja": "「高い」への対応",
+    "vi": "Đối phó với 'đắt'"
+  },
+  "rule_context": {
+    "ja": "CFO の「高い」push back に対し、Acknowledge→Reframe(運用工数削減 ROI)→3 Option パターンで対応する場面。",
+    "vi": "Trước push back 'đắt' của CFO, Dũng dùng pattern Acknowledge→Reframe(ROI giảm effort vận hành)→3 Option."
+  },
+  "related_rules": [
+    "rule_19",
+    "rule_21",
+    "rule_23",
+    "rule_27"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 反射的値引き",
+      "label_vi": "XẤU — Phản xạ giảm giá",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「高い」を聞いた瞬間に値引きを連発。CFO は還押し、最終 ¥13M まで落ちる典型。",
+        "vi": "Nghe 'đắt' là giảm liên tục. CFO push tiếp, rớt tới ¥13M — pattern điển hình."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_20_bad_01",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "¥17.5M も高いですね。コスト圧縮中なので。",
+          "sentence_translation": "¥17.5M cũng đắt nhỉ. Đang nén chi phí mà.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_20_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、では ¥16M でいかがでしょうか？",
+          "sentence_translation": "À, vậy ¥16M được không ạ?",
+          "tone": "nervous"
+        },
+        {
+          "line_id": "rule_20_bad_03",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "…¥16M でも高い。",
+          "sentence_translation": "...¥16M cũng đắt.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_20_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "では ¥15M…",
+          "sentence_translation": "Vậy ¥15M ạ...",
+          "tone": "nervous"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — Ack→Reframe→3 Option",
+      "label_vi": "TỐT — Ack → Reframe → 3 Option",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_20_good_02",
+          "highlight_text": "ご指摘の点、もっともでございます",
+          "ja": "Acknowledge phrase。即反論せず一旦受け止める。defense tone を回避。",
+          "vi": "Câu acknowledge. KHÔNG phản bác ngay, đỡ trước. Tránh tone phòng thủ."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_20_good_03",
+          "highlight_text": "ただ少し別の角度から",
+          "ja": "Reframe phrase。価格議論から ROI / cost-of-inaction 議論へ転換。",
+          "vi": "Câu reframe. Chuyển từ tranh luận giá sang ROI / cost-of-inaction."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_20_good_03",
+          "highlight_text": "net positive ¥470K/月",
+          "ja": "Reframe は具体数値で。年2,400時間 / ¥730K/月 / ¥1.2M/月 / net+¥470K/月 と数式で示す。",
+          "vi": "Reframe phải số cụ thể. 2,400h/năm / ¥730K/tháng / ¥1.2M/tháng / net +¥470K/tháng."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_20_good_04",
+          "highlight_text": "以下のオプション",
+          "ja": "Option は3つ提示。choice architecture で reject ではなく selection を促す。",
+          "vi": "Đưa 3 option. Choice architecture giúp khách chọn thay vì reject toàn bộ."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_20_good_01",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "¥17.5M も高いですね。コスト圧縮中なので。",
+          "sentence_translation": "¥17.5M cũng đắt nhỉ. Đang nén chi phí mà.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_20_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご指摘の点、もっともでございます。コスト圧縮の方針、十分に理解しております。",
+          "sentence_translation": "Em xin tiếp thu ý kiến quý anh ạ. Phương châm nén chi phí em hiểu đầy đủ ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ],
+          "pause_after_ms": 1500
+        },
+        {
+          "line_id": "rule_20_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ただ少し別の角度から — Phase 3 を導入されない場合、現在の手動在庫調整 (営業部 5 名 × 年 240日 × 2 時間/日) ≒ 年 2,400 時間の運用工数が継続します。¥17.5M を 2 年で割れば月 ¥730K、運用工数削減 ¥1.2M/月 と比較すると net positive ¥470K/月になります。",
+          "sentence_translation": "Tuy nhiên xin phép em nhìn từ góc khác — không triển khai Phase 3 thì điều chỉnh tồn kho thủ công (5 KD × 240 ngày × 2h/ngày) ≒ 2,400h effort vận hành/năm tiếp tục. ¥17.5M chia 2 năm là ¥730K/tháng, so với giảm effort vận hành ¥1.2M/tháng — net positive ¥470K/tháng ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2",
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_20_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "そのうえで、ご予算面でのご懸念があれば、以下のオプション: (A) 2 年契約で ¥17.5M 維持、(B) 1 年契約 + scope -10% で ¥16M、(C) Best tier に拡大 ¥24M で AI dashboard 込み。御社のコスト感に合うのはどちらでしょうか？",
+          "sentence_translation": "Trên cơ sở đó, nếu vẫn có lo về budget, các option như sau: (A) Hợp đồng 2 năm giữ ¥17.5M, (B) Hợp đồng 1 năm + scope -10% còn ¥16M, (C) Mở rộng lên Best tier ¥24M kèm AI dashboard. Phương án nào phù hợp cảm giác chi phí của quý cty ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "4"
+          ]
+        },
+        {
+          "line_id": "rule_20_good_05",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "(A) の 2 年契約案、社内で持ち帰り検討します。",
+          "sentence_translation": "Option (A) hợp đồng 2 năm, chúng tôi mang về xem xét nội bộ.",
+          "tone": "neutral"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_20_kp_01",
+      "speaker": "zun",
+      "sentence": "ご指摘の点、もっともでございます。ただ少し別の角度から…",
+      "sentence_translation": "Em xin tiếp thu ý kiến quý anh ạ. Tuy nhiên xin phép em nhìn từ góc khác...",
+      "purpose": "「高い」3step pattern 開始",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_20_bjt_01",
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "顧客が「高い」と言った直後の最適行動は？",
+      "options": [
+        "即値引きする",
+        "Acknowledge → Reframe (ROI/cost-of-inaction) → 3 Option を展開",
+        "「高くないですよ」と反論",
+        "沈黙して何も言わない"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "「高い」は購買意欲のサイン。3step (Ack→Reframe→Option) で leverage を保ちつつ deal を進める。",
+        "vi": "'Đắt' là sign quan tâm. 3 step (Ack→Reframe→Option) giữ leverage và đẩy deal."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_20_tpl_01",
+      "format": "checklist",
+      "title_ja": "「高い」対応 3-step チェックリスト",
+      "title_vi": "Checklist phản hồi 'đắt' 3 bước",
+      "content_ja": "━━━ Step 1: ACKNOWLEDGE (5-10秒) ━━━\n  □ 即値引きを我慢 (沈黙2秒OK)\n  □ 「ご指摘の点、もっともでございます」\n  □ 相手の状況に共感: コスト圧縮 / 予算枠 / 業績圧力\n\n━━━ Step 2: REFRAME (30-60秒) ━━━\n  □ 「ただ少し別の角度から」\n  □ 数値根拠を提示 (どれか or 複数):\n    □ Cost-of-inaction (継続コスト計算)\n    □ ROI 倍率 (投資対効果)\n    □ Time-value (早期導入の機会損失)\n    □ Risk-adjusted (失敗時のコスト)\n  □ 月次・年次に分解 (大きい数字を小さく見せる)\n\n━━━ Step 3: 3 OPTIONS (60-90秒) ━━━\n  □ Option A: 元価格維持 + trade で価値追加\n  □ Option B: scope 削減で価格下げ\n  □ Option C: 拡大版 (decoy)\n  □ 「御社のコスト感に合うのはどちらでしょうか？」で締める\n\n━━━ ❌ NG リスト ━━━\n  ✗ 即値引き「では ¥16M で…」\n  ✗ 反論「高くないですよ」\n  ✗ 1 option のみ\n  ✗ 数値なしの reframe「value があります」",
+      "content_vi": "━━━ Step 1: ACKNOWLEDGE (5-10s) ━━━\n  □ Nén phản xạ giảm giá (2s im lặng OK)\n  □ 「ご指摘の点、もっともでございます」 (Em xin tiếp thu)\n  □ Đồng cảm tình huống: nén chi phí / budget khung / áp lực kết quả\n\n━━━ Step 2: REFRAME (30-60s) ━━━\n  □ 「ただ少し別の角度から」 (Xin phép từ góc khác)\n  □ Show cơ sở số (1 hoặc nhiều):\n    □ Cost-of-inaction (tính chi phí giữ nguyên)\n    □ Bội số ROI\n    □ Time-value (tổn thất chậm trễ)\n    □ Risk-adjusted (chi phí nếu fail)\n  □ Chia ra tháng / năm (số lớn nhìn nhỏ)\n\n━━━ Step 3: 3 OPTIONS (60-90s) ━━━\n  □ Option A: giữ giá gốc + trade thêm value\n  □ Option B: cắt scope hạ giá\n  □ Option C: mở rộng (decoy)\n  □ Chốt 'phương án nào hợp cảm giác chi phí của quý cty ạ?'\n\n━━━ ❌ NG ━━━\n  ✗ Giảm ngay 'vậy ¥16M ạ'\n  ✗ Phản bác '不 không đắt đâu ạ'\n  ✗ Chỉ 1 option\n  ✗ Reframe không số 'có value lắm ạ'",
+      "notes_ja": "事前に Cost-of-inaction 計算を準備。商談中に計算しない。",
+      "notes_vi": "Chuẩn bị trước phép tính Cost-of-inaction. KHÔNG tính trong phòng đàm phán."
+    }
+  ]
+}

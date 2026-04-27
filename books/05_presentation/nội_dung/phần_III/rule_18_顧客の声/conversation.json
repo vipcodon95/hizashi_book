@@ -1,0 +1,161 @@
+{
+  "rule_id": "rule_18",
+  "rule_slug": "顧客の声・事例",
+  "title": {
+    "ja": "顧客の声・事例",
+    "vi": "Customer voice / case study"
+  },
+  "rule_context": {
+    "ja": "リン(インターン)が draft した『某大手物流様』匿名 testimonial を、ズンが実名＋数字＋氏名付き引用に直させる場面。",
+    "vi": "Linh draft testimonial anonymous 「某大手物流様」 — Dũng coach đổi sang 「tên thật + số + quote có tên người」."
+  },
+  "related_rules": ["rule_11", "rule_15"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 匿名＋形容詞",
+      "label_vi": "XẤU — Anonymous + adjective",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『某』『大変ご好評』『改善』は marketing fluff。日本顧客は匿名事例を不信視する。",
+        "vi": "「某」「được khen ngợi」「cải thiện」 = marketing fluff. Khách Nhật nghi ngờ testimonial ẩn danh."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_18_bad_01",
+          "speaker": "linh",
+          "speaker_role": "Marketingインターン",
+          "gender": "female",
+          "sentence": "『某大手物流様から大変ご好評をいただいております。在庫管理が改善し、業務効率が向上しました』としました！",
+          "sentence_translation": "Em viết là 「Một cty logistics lớn đã rất khen ngợi ạ. Quản lý kho được cải thiện, hiệu quả công việc được nâng lên」!",
+          "tone": "cheerful"
+        },
+        {
+          "line_id": "rule_18_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "うーん、匿名 + 形容詞だと客は信じない。『某大手物流』ってどこ？知らない。改善って何%？分からない。",
+          "sentence_translation": "Hmm, anonymous + tính từ thế khách không tin đâu. 「Một cty logistics lớn」 là cty nào? Không biết. Cải thiện bao nhiêu %? Không rõ.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_18_bad_03",
+          "speaker": "linh",
+          "speaker_role": "Marketingインターン",
+          "gender": "female",
+          "sentence": "具体名出すには許可が…",
+          "sentence_translation": "Nêu tên cụ thể thì phải xin phép ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_18_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "許可取りに行こう。Phase 1 のお客様、山田倉庫様は事例公開OK のはず。実名 + 数字 + 引用の3点が揃って初めて testimonial。",
+          "sentence_translation": "Mình đi xin phép đi. Khách Phase 1 — bên Yamada Souko chắc OK đăng case study. 3 điểm đủ — tên thật + số + quote — mới gọi là testimonial.",
+          "tone": "warm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 実名＋数字＋氏名付き引用",
+      "label_vi": "TỐT — Tên thật + số + quote có tên",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_18_good_01",
+          "highlight_text": "3.2%→0.8%(75%削減)",
+          "ja": "Before/After + %改善のセットが定石。1要素だけだと弱い。",
+          "vi": "Bộ Before/After + % cải thiện là chuẩn mực. Thiếu 1 yếu tố là yếu."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_18_good_01",
+          "highlight_text": "物流部 山田太郎部長",
+          "ja": "氏名＋役職＋部門の3点で『誰の声か』を明確に。『ある担当者』では信頼が低い。",
+          "vi": "Tên + chức vụ + phòng — 3 điểm để rõ 「giọng ai」. 「Một nhân viên」 = trust thấp."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_18_good_04",
+          "highlight_text": "ロゴ permission",
+          "ja": "Quote permission と logo permission は別。両方取得が必要。",
+          "vi": "Permission cho quote và permission cho logo là 2 thứ riêng. Phải xin cả hai."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_18_good_01",
+          "speaker": "linh",
+          "speaker_role": "Marketingインターン",
+          "gender": "female",
+          "sentence": "山田倉庫株式会社様 (許可取得済)。Phase 1 で在庫差異 3.2%→0.8%(75%削減)。引用: 『月末締めの residue 残業が月20時間→3時間に減りました』 物流部 山田太郎部長。",
+          "sentence_translation": "Cty Yamada Souko (đã xin phép). Phase 1 đã giảm sai lệch tồn kho 3.2%→0.8% (giảm 75%). Quote: 「Tăng ca chốt cuối tháng giảm từ 20 tiếng/tháng xuống 3 tiếng」 — Yamada Tarō, Trưởng phòng Logistics.",
+          "tone": "formal",
+          "annotation_ids": ["1", "2"]
+        },
+        {
+          "line_id": "rule_18_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Perfect。引用に数字入っているのが効く。聴衆は『山田部長の声』としてイメージできる。",
+          "sentence_translation": "Perfect. Có số trong quote là điểm mạnh đấy. Khán giả hình dung được 「giọng anh Yamada」.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_18_good_03",
+          "speaker": "linh",
+          "speaker_role": "Marketingインターン",
+          "gender": "female",
+          "sentence": "ロゴも入れていいですか？",
+          "sentence_translation": "Có thể cho cả logo vào không ạ?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_18_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ロゴ permission も別途確認。OK ならロゴ＋写真(本人 OK あれば)入れる。NG なら社名のみ。",
+          "sentence_translation": "Permission logo phải xin riêng. OK thì cho logo + ảnh (nếu cá nhân đồng ý). NG thì chỉ tên công ty.",
+          "tone": "warm",
+          "annotation_ids": ["3"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_18_kp_01",
+      "speaker": "linh",
+      "sentence": "〇〇株式会社様にて、〇〇を〇〇から〇〇に削減いたしました(〇%削減)。",
+      "sentence_translation": "Tại cty 〇〇, đã giảm 〇〇 từ 〇〇 xuống 〇〇 (giảm 〇%).",
+      "purpose": "Customer case 数字提示テンプレ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_18_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "顧客事例スライドで信頼性が最も高い表現は？",
+      "options": [
+        "某大手物流様から大変ご好評",
+        "山田倉庫(株) 物流部山田部長: 『残業20→3時間に減少』",
+        "多くのお客様にご満足",
+        "業界トップクラスのお客様"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "実名＋数字＋氏名付き引用が信頼の3点セット。匿名事例は marketing fluff。",
+        "vi": "Tên thật + số + quote có tên người = bộ 3 tin cậy. Anonymous = marketing fluff."
+      }
+    }
+  ]
+}

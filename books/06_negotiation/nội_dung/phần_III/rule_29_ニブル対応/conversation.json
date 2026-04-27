@@ -1,0 +1,169 @@
+{
+  "rule_id": "rule_29",
+  "rule_slug": "ニブル・後出し対応",
+  "title": {
+    "ja": "ニブル・後出し対応",
+    "vi": "Nibble & late demand handling"
+  },
+  "rule_context": {
+    "ja": "Phase 3 contract draft フェーズで Tanaka PMO が training 1 日無料を要求 (nibble)。Dũng が trade option + reset clock で防御する場面。",
+    "vi": "Phase contract draft, anh Tanaka PMO Slack đòi training 1 ngày miễn phí (nibble). Dũng dùng trade option + reset clock để chặn."
+  },
+  "related_rules": ["rule_24", "rule_09"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 無償accept",
+      "label_vi": "XẤU — Accept miễn phí",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「サービスで」と無償提供。1回受けると nibble が連発し、closed deal の margin が leak する。",
+        "vi": "Cho không 'khuyến mãi'. Nhận 1 lần là nibble liên tục, margin của deal đã chốt rò rỉ."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_29_bad_01",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO",
+          "gender": "male",
+          "sentence": "ズン様、お世話になっております。Phase 3 contract draft 確認しましたが、ついでに social engineer 部署向け training 1 日無料で追加可能でしょうか？",
+          "sentence_translation": "Anh Dũng ơi, tôi đã xem draft hợp đồng Phase 3 rồi, tiện thể bên tôi thêm training 1 ngày miễn phí cho phòng social engineer được không ạ?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_29_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "分かりました、サービスで含めます。",
+          "sentence_translation": "Em rõ ạ, em cho thêm vào miễn phí ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_29_bad_03",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO",
+          "gender": "male",
+          "sentence": "(1 週間後) ありがとうございます！ついでに 2 日目も追加で…",
+          "sentence_translation": "(1 tuần sau) Cảm ơn. Tiện thể tôi muốn thêm ngày 2...",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_29_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっ、また…？",
+          "sentence_translation": "Ơ, lại nữa ạ...?",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — trade option + reset clock",
+      "label_vi": "TỐT — Trade option + reset clock",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_29_good_02",
+          "highlight_text": "お声がけありがとうございます",
+          "ja": "Acknowledge phrase。固い「無理です」ではなく一旦受け止めて trade に転換する。",
+          "vi": "Acknowledge phrase. KHÔNG cứng 'không được' — đỡ trước rồi chuyển sang trade."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_29_good_02",
+          "highlight_text": "(A) 有償で ¥0.4M 追加、(B) 既存 scope 内で AI dashboard カスタムを 1 機能 trade、トータル金額不変",
+          "ja": "trade option を 2 つ示す。無償path はないことを明確化。choice architecture も活用。",
+          "vi": "Đưa 2 option trade. Show rõ 'không có path miễn phí'. Tận dụng choice architecture."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_29_good_03",
+          "highlight_text": "全体合意の再 review が必要となるため、契約締結スケジュールが 1 週間後ろ倒し",
+          "ja": "reset clock。「nibble 1 つで全体 review + 1 週間遅延」と伝えれば、たいてい相手は自ら撤回する。",
+          "vi": "Reset clock. 'Nibble 1 cái = review toàn bộ + lùi 1 tuần' — đa số khách tự rút lui."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_29_good_01",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO",
+          "gender": "male",
+          "sentence": "ズン様、Phase 3 contract draft 確認しました。ついでに social engineer 部署向け training 1 日無料で追加可能でしょうか？",
+          "sentence_translation": "Anh Dũng, tôi đã xem draft hợp đồng Phase 3 rồi. Tiện thể thêm training 1 ngày miễn phí cho phòng social engineer được không ạ?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_29_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お声がけありがとうございます。training 1 日 (¥0.4M 相当) は当初の契約 scope 外となります。社内 training をご希望でしたら、以下 2 案: (A) 有償で ¥0.4M 追加、(B) 既存 scope 内で AI dashboard カスタムを 1 機能 trade、トータル金額不変。",
+          "sentence_translation": "Cảm ơn em đã liên hệ. Training 1 ngày (tương đương ¥0.4M) nằm ngoài scope hợp đồng ban đầu. Nếu phía em muốn training nội bộ, có 2 phương án: (A) Có phí, thêm ¥0.4M, (B) Trade 1 chức năng AI dashboard custom trong scope hiện tại, tổng tiền không đổi ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1", "2"]
+        },
+        {
+          "line_id": "rule_29_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "なお、追加要素のご検討に際しては全体合意の再 review が必要となるため、契約締結スケジュールが 1 週間後ろ倒しとなる可能性があります。ご都合をお聞かせください。",
+          "sentence_translation": "Thêm nữa, để xem xét yếu tố bổ sung này thì cần review lại toàn bộ thỏa thuận, có thể schedule ký hợp đồng sẽ lùi 1 tuần. Em xin nghe ý anh ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_29_good_04",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO",
+          "gender": "male",
+          "sentence": "ご丁寧に。社内で再協議し、後ほど正式に。スケジュール優先で training は当初通り無しで進めます。",
+          "sentence_translation": "Cảm ơn anh chu đáo. Tôi thảo luận lại nội bộ rồi báo chính thức sau. Ưu tiên schedule, training thì giữ nguyên không thêm, mình tiếp tục như ban đầu ạ.",
+          "tone": "neutral"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_29_kp_01",
+      "speaker": "zun",
+      "sentence": "ご希望の場合は (A) 有償追加、(B) 既存 scope 内で trade、いずれかの形でご対応可能です。",
+      "sentence_translation": "Nếu phía em muốn, có (A) thêm có phí, (B) trade trong scope hiện tại — hai cách đều OK ạ.",
+      "purpose": "nibble対応 trade option",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_29_kp_02",
+      "speaker": "zun",
+      "sentence": "追加要素のご検討に際しては全体合意の再 review が必要となります。",
+      "sentence_translation": "Xem xét yếu tố bổ sung thì cần review lại toàn bộ thỏa thuận ạ.",
+      "purpose": "reset clock 警告",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_29_bjt_01",
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "契約 closing 直前の nibble (「ついでに training 1 日無料で」) への最適対応は？",
+      "options": [
+        "「サービスで含めます」と無償提供",
+        "trade option (有償 or scope swap) + 全体 re-review で reset clock",
+        "「無理です」と一蹴",
+        "上司に丸投げ"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "trade で対応しつつ reset clock(全体再review+schedule slip)を伝えれば、相手は通常自ら撤回。無償受けは leak の連鎖。",
+        "vi": "Trade rồi reset clock (review toàn bộ + slip schedule), khách thường tự rút. Nhận miễn phí là chuỗi leak."
+      }
+    }
+  ]
+}

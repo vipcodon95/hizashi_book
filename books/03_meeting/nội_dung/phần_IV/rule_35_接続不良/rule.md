@@ -1,0 +1,76 @@
+# Rule 35 — Khi mất kết nối / 接続不良への対応
+
+> **Luận điểm.** Khi mạng lag / drop → KHÔNG biến mất im lặng. Có protocol 3 bước: (1) **báo nhanh trong chat** "接続不安定です", (2) **rejoin** trong 60s, (3) **xin lỗi + xác nhận đoạn miss** sau khi back. Câu chuẩn: 「申し訳ございません、接続が不安定でございまして、〜」.
+>
+> 接続不良時：①チャットで状況報告 ②60秒以内に再接続 ③復帰後に謝罪+情報確認の3ステップ。
+>
+> **Liên quan:** Rule 33 (online manner), Rule 38 (cancel/postpone).
+
+---
+
+## Bối cảnh / 場面
+
+Họp Zoom, em Dũng đang trình bày → mạng VN bị lag, video freeze 30 giây. Đối phương phía Nhật chờ.
+
+---
+
+## ❌ Hội thoại XẤU — biến mất + quay lại không xin lỗi
+
+*đang nói · đợi 1 phút · 2 phút sau Dũng rejoin*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「4月のKPIは…」 *(freeze 30s, drop)* |
+| **松本** | 「ズンさん？聞こえますか？」 |
+| **ズン** | 「あ、戻りました。続きですが…」 |
+
+**Vì sao xấu:** Không báo trong chat lúc drop → khách lo "có chuyện gì". Quay lại không xin lỗi + không confirm xem đối phương nghe được đến đâu.
+
+---
+
+## ✅ Hội thoại TỐT — protocol 3 bước
+
+*đang nói · gõ vào chat từ phone · 45 giây sau rejoin · tiếp*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「4月のKPIは…」 *(freeze)* |
+| **ズン** 💬【1】 | 「申し訳ございません、接続が不安定です。再接続いたします。」 |
+| **ズン** | 「申し訳ございません、接続が不安定でございまして、お時間を頂戴してしまいました【2】。」 |
+| **ズン** | 「先ほどの続きを再開する前に、4月KPIのスライドはどこまでお見せできていましたでしょうか【3】？」 |
+| **松本** | 「『達成率82%』のところまで見えていました。」 |
+| **ズン** | 「ありがとうございます。では、その続きから再開いたします。」 |
+
+📝 **Ghi chú:**
+- 【1】**Báo trong chat** — khách lo lắng giảm khi biết "đang reconnect". Dùng phone hotspot nếu PC mất mạng.
+- 【2】**「接続が不安定でございまして、お時間を頂戴してしまいました」** — câu xin lỗi chuẩn.
+- 【3】**「どこまでお見せできていましたでしょうか？」** — confirm điểm last seen → tránh lặp lại / sót.
+
+---
+
+## 🎯 Câu chốt
+
+> **「接続が不安定でございまして、お時間を頂戴してしまいました。先ほどはどこまでお見せできていましたでしょうか？」**
+>
+> *Xin lỗi → confirm last point → resume.*
+
+---
+
+## ⚠ Tránh
+
+- Drop im lặng không báo chat.
+- Quay lại không xin lỗi → khách cảm giác "không trân trọng".
+- Tiếp tục từ đầu mà không confirm → lặp / sót.
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 接続 | せつぞく | Kết nối |
+| 不安定 | ふあんてい | Không ổn định |
+| 再接続 | さいせつぞく | Reconnect |
+| 頂戴する | ちょうだいする | Xin nhận / lấy mất (kenjō) |
+| 復帰 | ふっき | Trở lại |
+| 達成率 | たっせいりつ | Tỷ lệ đạt |

@@ -1,0 +1,152 @@
+{
+  "rule_id": "rule_20",
+  "rule_slug": "質問の5W1H",
+  "title": {
+    "ja": "質問の5W1H",
+    "vi": "Đặt câu hỏi 5W1H"
+  },
+  "rule_context": {
+    "ja": "大垣営業部長がPhase 2のスコープを説明中。ズンがリリース日・主担当などを5W1Hの観点で順番に質問する場面。",
+    "vi": "Anh Ōgaki đang trình bày scope phase 2. Em Dũng cần hỏi rõ deadline / người phụ trách / scope theo từng câu 5W1H riêng biệt."
+  },
+  "related_rules": ["rule_19", "rule_21", "rule_28"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 多重質問・曖昧",
+      "label_vi": "XẤU — Hỏi gộp, mơ hồ",
+      "display_order": 1,
+      "analysis": {
+        "ja": "1文に4つの質問が混在し、「色々」「とか」で曖昧。相手はどれから答えるべきか判断できない。",
+        "vi": "1 câu chứa 4 câu hỏi, dùng 「色々」 mơ hồ. Đối phương không biết trả lời câu nào trước."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_20_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "Phase 2では、新規モジュールを3つ追加予定です。",
+          "sentence_translation": "Phase 2 chúng tôi dự kiến thêm 3 module mới.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_20_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、それで、いつとか誰がとか、あと何の機能で、どこにデプロイするかとか、色々お聞きしたいのですが…",
+          "sentence_translation": "À thế thì, khi nào ấy, ai làm ấy, rồi function gì, deploy ở đâu, em muốn hỏi nhiều thứ ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_20_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "…一つずつお願いできますか？",
+          "sentence_translation": "...Phiền Dũng hỏi từng câu một được không?",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 1問1答で順番に",
+      "label_vi": "TỐT — Hỏi tuần tự, mỗi câu 1 W",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_20_good_02",
+          "highlight_text": "3点、順番にお伺いしたく存じます",
+          "ja": "質問数を予告。聞き手は「3問で済む」と分かり、心理的負担が減る。",
+          "vi": "Báo trước số câu hỏi. Đối phương biết 'chỉ 3 câu' → giảm áp lực."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_20_good_02",
+          "highlight_text": "確認させていただきたいのですが、いつ頃をお考えでしょうか",
+          "ja": "「〜について確認させていただきたいのですが、〜でしょうか？」が標準形。",
+          "vi": "Cấu trúc chuẩn: mở khung 'muốn confirm' → câu hỏi cụ thể."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_20_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "Phase 2では、新規モジュールを3つ追加予定です。",
+          "sentence_translation": "Phase 2 chúng tôi dự kiến thêm 3 module mới.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_20_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。3点、順番にお伺いしたく存じます。まず、リリース予定日について確認させていただきたいのですが、いつ頃をお考えでしょうか？",
+          "sentence_translation": "Cảm ơn anh. Em xin được hỏi 3 điểm theo thứ tự ạ. Đầu tiên, về ngày dự kiến release, anh đang nghĩ khoảng bao giờ ạ?",
+          "tone": "formal",
+          "annotation_ids": ["1", "2"]
+        },
+        {
+          "line_id": "rule_20_good_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "7月末を目標にしています。",
+          "sentence_translation": "Chúng tôi đặt mục tiêu cuối tháng 7.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_20_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "承知しました。次に、白鷗様側の主担当はどなた様になりますでしょうか？",
+          "sentence_translation": "Vâng em rõ ạ. Tiếp theo, người phụ trách chính bên 白鷗 sẽ là ai ạ?",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_20_kp_01",
+      "speaker": "zun",
+      "sentence": "〇点、順番にお伺いしたく存じます。",
+      "sentence_translation": "Em xin được hỏi 〇 điểm theo thứ tự ạ.",
+      "purpose": "質問数を予告するフレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_20_kp_02",
+      "speaker": "zun",
+      "sentence": "〜について確認させていただきたいのですが、〜でしょうか？",
+      "sentence_translation": "Về 〜, em muốn xin xác nhận lại ạ, có phải 〜 không ạ?",
+      "purpose": "5W1H質問の標準形",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_20_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "会議で複数の質問をしたいとき、最も適切な始め方はどれか？",
+      "options": [
+        "色々聞きたいことがあるんですが…",
+        "あれもこれも教えてほしいです",
+        "3点、順番にお伺いしたく存じます",
+        "全部まとめて答えてください"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "質問数を予告すると相手が答えやすい。「色々」「あれもこれも」は曖昧。",
+        "vi": "Báo trước số câu hỏi giúp đối phương dễ trả lời. 「色々」「あれもこれも」 mơ hồ."
+      }
+    }
+  ]
+}

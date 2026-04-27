@@ -1,0 +1,175 @@
+{
+  "rule_id": "rule_01",
+  "rule_slug": "アジェンダ作成の5W1H",
+  "title": {
+    "ja": "アジェンダ作成の5W1H",
+    "vi": "Lập agenda chuẩn 5W1H"
+  },
+  "rule_context": {
+    "ja": "ズンが4月度月例会議（白鷗 × ティエンファット）のアジェンダを作成し、フオン副部長に確認をもらう場面。5要素（目的・議題・出席者・時間・アウトプット）が揃ったアジェンダを作る。",
+    "vi": "Em Dũng draft agenda cho buổi họp định kỳ tháng 4 (白鷗 × ティエンファット), nhờ chị Hương review. Phải có đủ 5 yếu tố: mục đích / nội dung / người tham dự / thời lượng / output."
+  },
+  "related_rules": ["rule_02", "rule_13", "rule_45"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — アジェンダが曖昧",
+      "label_vi": "XẤU — Agenda mơ hồ",
+      "display_order": 1,
+      "analysis": {
+        "ja": "議題が1行のみで、目的・アウトプット・時間配分・出席者の事前確認なし。受け取った相手は何を準備すべきか分からず、当日に冒頭で聞き直しが発生。",
+        "vi": "Chỉ có '議題' 1 dòng. Thiếu mục đích, output, thời lượng, người tham dự. Khách nhận không biết chuẩn bị gì → họp đến nơi mới hỏi → mất 15-30 phút mở đầu."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_01_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、来週の月例会議のアジェンダを作りました。ご確認お願いします。",
+          "sentence_translation": "Chị Hương, em đã làm agenda cho buổi họp định kỳ tuần sau. Phiền chị xem giúp em ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_01_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "議題：プロジェクト進捗、次回のタスク。これだけ？",
+          "sentence_translation": "Agenda: Tiến độ dự án, task lần tới. Chỉ vậy thôi à?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_01_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "はい、進捗報告と次のタスクを話そうかと…",
+          "sentence_translation": "Vâng, em định nói về tiến độ và task tiếp theo ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_01_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "目的は？何を決める会議？時間は？大垣さんも入る？資料は？これじゃ会議が始まらないよ。",
+          "sentence_translation": "Mục đích là gì? Quyết cái gì? Thời gian bao lâu? Anh Ōgaki có vào không? Tài liệu? Như này họp không bắt đầu được đâu.",
+          "tone": "firm",
+          "speed_multiplier": 1.05
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 5W1H揃ったアジェンダ",
+      "label_vi": "TỐT — Agenda 5W1H đầy đủ",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_01_good_01",
+          "highlight_text": "アジェンダ案でございます",
+          "ja": "「案」=draft。確定前に「案」と添えるのが業務慣習。",
+          "vi": "「案」 = draft. Trước khi gửi khách (confirm) phải gọi là 「案」 chứ không phải 「確定」."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_01_good_03",
+          "highlight_text": "決めたい旨",
+          "ja": "「〜旨（むね）」=「〜という内容・趣旨」。書面・口頭の業務報告で頻出。",
+          "vi": "「〜旨」 = ý là.../nội dung là... Cấu trúc business JP chuẩn cho báo cáo văn bản + miệng."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_01_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、4月度月例会議のアジェンダ案を作成しました。ご確認お願いいたします。",
+          "sentence_translation": "Chị Hương, đây là draft agenda cho buổi họp định kỳ tháng 4 ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_01_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "うん、目的が明確で出席者と時間配分もある。アウトプットも『次月のスプリント計画決定』と書いてあるね。",
+          "sentence_translation": "Ừ, mục đích rõ ràng, có cả người tham dự và phân chia thời gian. Output cũng ghi 'quyết kế hoạch sprint tháng sau' rồi nhỉ.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_01_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "はい、Phase 2 の進捗共有と来月の計画を1時間で決めたい旨を冒頭に書きました。",
+          "sentence_translation": "Vâng, em đã ghi rõ ngay đầu là chia sẻ tiến độ Phase 2 và quyết kế hoạch tháng sau trong 1 tiếng ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_01_good_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "いいね。あとは大垣営業部長の出席可否を確認してから松本様に送ろう。",
+          "sentence_translation": "Tốt rồi. Còn lại em check anh Ōgaki có dự được không, rồi gửi cho anh Matsumoto nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_01_kp_01",
+      "speaker": "zun",
+      "sentence": "〇月度月例会議のアジェンダ案でございます。",
+      "sentence_translation": "Đây là draft agenda buổi họp định kỳ tháng 〇 ạ.",
+      "purpose": "アジェンダ提出の標準フレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_01_kp_02",
+      "speaker": "zun",
+      "sentence": "〜旨を冒頭に書きました。",
+      "sentence_translation": "Em đã ghi rõ ý là... ngay phần đầu ạ.",
+      "purpose": "アジェンダ説明の表現",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_01_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "アジェンダに含めるべきでない要素は次のうちどれか？",
+      "options": [
+        "目的とアウトプット",
+        "出席者と時間配分",
+        "事前資料の有無",
+        "参加者の個人的な趣味"
+      ],
+      "correct": "D",
+      "explanation": {
+        "ja": "アジェンダの5要素は『目的・議題・出席者・時間・アウトプット』。趣味は不要。",
+        "vi": "5 yếu tố agenda: mục đích / nội dung / người tham dự / thời gian / output. Sở thích cá nhân không cần."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_01_tpl_01",
+      "format": "agenda",
+      "title_ja": "月例会議アジェンダ・テンプレート（5W1H版）",
+      "title_vi": "Template Agenda Họp Định Kỳ (5W1H)",
+      "content_ja": "【会議名】〇〇月度 月例会議（〇〇 × 〇〇）\n\n【日時】〇〇年〇月〇日（〇） 〇〇:〇〇〜〇〇:〇〇（JST／〇〇分）\n【形式】〇〇（オンライン／対面／ハイブリッド）\n\n【目的】\n  〇〇の進捗共有と、〇〇の合意\n\n【期待されるアウトプット】\n  ① 〇〇への共通認識\n  ② 〇〇スコープの合意\n  ③ 次回会議日の決定\n\n【出席者】\n  〇〇株式会社：〇〇PM、〇〇 営業部長\n  ティエンファット社：〇〇副部長、〇〇（司会）、〇〇リーダー\n\n【議題と時間配分】\n  1. 〇〇報告（〇〇分）— 担当：〇〇\n  2. 〇〇と対応策（〇〇分）— 担当：〇〇\n  3. 〇〇協議（〇〇分）— 全員\n  4. 次回日程・TODO 確認（〇〇分）— 司会\n\n【事前資料】\n  1. 〇〇レポート（〇月〇日までに共有）\n  2. 〇〇案（〇月〇日までに共有）",
+      "content_vi": "[Tên họp] Họp định kỳ tháng 〇 (〇〇 × 〇〇)\n\n[Thời gian] 〇/〇/〇 (〇), 〇〇:〇〇 - 〇〇:〇〇 (giờ JST / 〇〇 phút)\n[Hình thức] 〇〇 (online / trực tiếp / hybrid)\n\n[Mục đích]\n  Chia sẻ tiến độ 〇〇, thống nhất 〇〇\n\n[Output mong đợi]\n  1. Đồng thuận về 〇〇\n  2. Thống nhất scope 〇〇\n  3. Quyết ngày họp lần tới\n\n[Người tham dự]\n  Cty 〇〇: PM 〇〇, Trưởng phòng KD 〇〇\n  Cty Thiên Phát: Phó phòng 〇〇, 〇〇 (chủ trì), Leader 〇〇\n\n[Nội dung và thời lượng]\n  1. Báo cáo 〇〇 (〇〇p) — phụ trách: 〇〇\n  2. Vấn đề và phương án (〇〇p) — phụ trách: 〇〇\n  3. Trao đổi 〇〇 (〇〇p) — tất cả\n  4. Confirm ngày họp tới + TODO (〇〇p) — người chủ trì\n\n[Tài liệu pre-read]\n  1. Báo cáo 〇〇 (chia sẻ trước 〇/〇)\n  2. Phương án 〇〇 (chia sẻ trước 〇/〇)",
+      "notes_ja": "5W1Hが揃った業務会議用テンプレート。ハイブリッド／オンライン／対面いずれも適用可。日時欄にJSTを明記し、複数の時差地域から参加する場合は重要。",
+      "notes_vi": "Template chuẩn 5W1H cho họp business. Dùng được cho cả online / hybrid / offline. Bắt buộc note JST nếu có người tham dự từ nhiều múi giờ."
+    }
+  ]
+}

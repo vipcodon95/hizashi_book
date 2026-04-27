@@ -1,0 +1,231 @@
+{
+  "rule_id": "rule_20",
+  "rule_slug": "待機マナー",
+  "title": {
+    "ja": "待機マナー",
+    "vi": "Ngồi đợi đúng cách trong phòng khách"
+  },
+  "rule_context": {
+    "ja": "10:02 田中PMOが803会議室にズン+トゥアンを案内。中村CFO到着までの5分間、上座非占有+phone OFF で待機する場面。",
+    "vi": "10:02 Tanaka PMO dẫn Dũng + Tuấn vào phòng 803. 5 phút đợi Nakamura CFO, không ngồi 上座 + phone OFF."
+  },
+  "related_rules": [
+    "rule_10",
+    "rule_19",
+    "rule_21"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 上座占有・スマホ/laptop操作",
+      "label_vi": "XẤU — chiếm 上座 + phone/laptop",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①上座=CFO席占有 ②phone+laptop操作=『あなたを待つより自分の作業優先』signaling ③CFO到着時に shimoza 移動余儀。3点重大。",
+        "vi": "(1) Chiếm 上座 = ghế CFO. (2) Phone + laptop = signaling 'tôi busy hơn đợi anh'. (3) CFO đến phải xuống shimoza = role reversed."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_20_bad_01",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "中村CFOが間もなく来ます。お掛けになってお待ちください。",
+          "sentence_translation": "Anh Nakamura CFO sắp đến. Mời các anh ngồi đợi.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_20_bad_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "お、いい席だね。",
+          "sentence_translation": "Ơ, ghế đẹp đấy.",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_20_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ちょっとSlack確認するわ…",
+          "sentence_translation": "Em check Slack tí...",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_20_bad_04",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "俺もmail処理…",
+          "sentence_translation": "Anh xử lý mail...",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_20_bad_05",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "…おはようございます。",
+          "sentence_translation": "...Chào buổi sáng.",
+          "tone": "neutral",
+          "speed_multiplier": 0.9,
+          "pause_after_ms": 800
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 下座着席宣言・正座・phone OFF",
+      "label_vi": "TỐT — báo ngồi 下座 + lưng thẳng + phone OFF",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_20_good_02",
+          "highlight_text": "下座でお待ちいたします",
+          "ja": "自発的に下座宣言で田中PMOに『trained junior』印象。上座mismatch回避。",
+          "vi": "Tự khai báo 下座 = ấn tượng 'junior trained' với Tanaka. Tránh ngồi nhầm 上座."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_20_good_04",
+          "highlight_text": "下座、背筋伸ばし、手は膝上",
+          "ja": "下座(入口側)着席+背筋伸ばし+手膝上で正座姿勢。脚組み・寄り掛かり禁止。",
+          "vi": "Ngồi 下座 (gần cửa) + lưng thẳng + tay trên gối = tư thế nghiêm. Cấm bắt chéo chân, dựa lưng."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_20_good_05",
+          "highlight_text": "phone + laptop OFF",
+          "ja": "Phoneマナーモード+ポケット、laptop鞄内。senior到着まで操作NG。",
+          "vi": "Phone manner mode + để túi, laptop trong cặp. Đến khi senior đến mới động."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_20_good_07",
+          "highlight_text": "お忙しいところ、お時間頂戴いたしまして恐縮でございます",
+          "ja": "CFO senior出迎えの最上級発話。『よろしくお願いします』より2段格上。",
+          "vi": "Mức cao nhất chào CFO senior. Trên 2 bậc so với 'よろしくお願いします'."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_20_good_01",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "中村CFOが間もなく来ます。お掛けになってお待ちください。",
+          "sentence_translation": "Anh Nakamura CFO sắp đến. Mời các anh ngồi đợi.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_20_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。下座でお待ちいたします。",
+          "sentence_translation": "Cảm ơn anh ạ. Em xin ngồi 下座 đợi ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.9,
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_20_good_03",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "ご丁寧に。",
+          "sentence_translation": "Lịch sự quá.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_20_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（下座着席、背筋伸ばし、手は膝上）",
+          "sentence_translation": "(ngồi 下座, lưng thẳng, tay trên gối)",
+          "tone": "neutral",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_20_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（phone マナーモード+ポケット、laptop は鞄内のまま）",
+          "sentence_translation": "(phone manner mode + để túi, laptop để nguyên trong cặp)",
+          "tone": "neutral",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_20_good_06",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "お待たせいたしました、中村です。",
+          "sentence_translation": "Xin lỗi đã để các anh chờ, tôi là Nakamura.",
+          "tone": "formal",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_20_good_07",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（起立30度bow）お忙しいところ、お時間頂戴いたしまして恐縮でございます。",
+          "sentence_translation": "(đứng dậy bow 30°) Anh bận rộn mà dành thời gian cho em, em ngại quá ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.9,
+          "annotation_ids": [
+            "4"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_20_kp_01",
+      "speaker": "zun",
+      "sentence": "下座でお待ちいたします。",
+      "sentence_translation": "Em xin ngồi 下座 đợi ạ.",
+      "purpose": "下座着席自発宣言",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_20_kp_02",
+      "speaker": "zun",
+      "sentence": "お忙しいところ、お時間頂戴いたしまして恐縮でございます。",
+      "sentence_translation": "Anh bận rộn mà dành thời gian cho em, em ngại quá ạ.",
+      "purpose": "senior出迎え最上級発話",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_20_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "客先会議室で『お掛けになってお待ちください』と言われた時の最適な対応は？",
+      "options": [
+        "案内された椅子(中央)に座る",
+        "下座で待つと宣言し、phone/laptop OFF で待機",
+        "好きな席に座って自分の仕事をする",
+        "立ったまま待ち続ける"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "上座占有回避+phone/laptop OFFが基本。下座宣言で trained junior 印象。",
+        "vi": "Không chiếm 上座 + phone/laptop OFF. Báo 下座 = ấn tượng 'junior trained'."
+      }
+    }
+  ]
+}

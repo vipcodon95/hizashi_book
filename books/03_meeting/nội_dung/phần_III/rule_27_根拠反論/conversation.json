@@ -1,0 +1,170 @@
+{
+  "rule_id": "rule_27",
+  "rule_slug": "根拠を伴った反論",
+  "title": {
+    "ja": "根拠を伴った反論",
+    "vi": "Phản biện có cơ sở"
+  },
+  "rule_context": {
+    "ja": "大垣営業部長が「インドチームと同様の6名×8週間体制」を主張。トゥアンが Phase 1の実績データ（10.5週間/QA 2週間）を提示し、増員またはスコープ調整の二択を提案する場面。",
+    "vi": "Anh Ōgaki cho rằng team VN làm 8 tuần với 6 dev được như team Ấn. Anh Tuấn dẫn data Phase 1 (10.5 tuần/QA 2 tuần) + đề xuất 2 phương án: tăng người hoặc giảm scope QA."
+  },
+  "related_rules": [
+    "rule_23",
+    "rule_26",
+    "rule_28"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 感情的・データなし反論",
+      "label_vi": "XẤU — Phản biện cảm tính, không data",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「思います」「違いますし」では根拠なし。日本のビジネスでは数値・実績で論じるのが基本。",
+        "vi": "「思います」 không có gì chứng minh. JP business luôn đòi data thực tế."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_27_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "インドのチームでは6名・8週間で同等のスコープを完了しています。御社も同様で問題ないかと。",
+          "sentence_translation": "Team Ấn Độ làm 6 người 8 tuần xong scope tương đương. Tôi nghĩ phía các anh cũng vậy không vấn đề.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_27_bad_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "いや、それは無理だと思います。チームによって違いますし…",
+          "sentence_translation": "Không, em nghĩ cái đó không được đâu. Mỗi team khác nhau mà...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_27_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "『思います』は根拠にならないですよね。",
+          "sentence_translation": "「Em nghĩ」 không phải căn cứ đâu nhỉ.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 受け止め+データ+二択",
+      "label_vi": "TỐT — Ghi nhận + data + 2 phương án",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_27_good_02",
+          "highlight_text": "ご実績、参考になります",
+          "ja": "相手のデータを否定せず、まず受け止める。これがあるとないでは交渉空気が大きく変わる。",
+          "vi": "Ghi nhận data đối phương trước. Có/không câu này khác hẳn không khí đàm phán."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_27_good_02",
+          "highlight_text": "Phase 1 実績データを共有させていただきますと、類似スコープにおいて6名換算で平均10.5週間を要しております",
+          "ja": "具体的な数値（10.5週間）を提示。「約10」より「10.5」が信頼性が高い。",
+          "vi": "Dẫn số cụ thể (10.5 tuần). Số chính xác đáng tin hơn 'khoảng 10'."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_27_good_03",
+          "highlight_text": "QAスコープの調整、もしくは8名体制への増員のいずれかをご検討いただけますでしょうか",
+          "ja": "二択を提示することで相手が選びやすく、合意形成が早まる。",
+          "vi": "Đưa 2 lựa chọn → đối phương dễ chọn → consensus nhanh hơn."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_27_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "インドのチームでは6名・8週間で同等のスコープを完了しています。御社も同様で問題ないかと。",
+          "sentence_translation": "Team Ấn Độ làm 6 người 8 tuần xong scope tương đương. Tôi nghĩ phía các anh cũng vậy không vấn đề.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_27_good_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "インドチームのご実績、参考になります。ただ、弊社の Phase 1 実績データを共有させていただきますと、類似スコープにおいて6名換算で平均10.5週間を要しております。",
+          "sentence_translation": "Thành tích team Ấn rất đáng tham khảo ạ. Tuy nhiên xin được chia sẻ data thực tế Phase 1 bên em — với scope tương tự, quy đổi 6 người trung bình mất 10.5 tuần ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_27_good_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "内訳としては、QA工程に約2週間、結合試験に約1.5週間が必要でございました。8週間で完遂するには、QAスコープの調整、もしくは8名体制への増員のいずれかをご検討いただけますでしょうか？",
+          "sentence_translation": "Trong đó QA mất khoảng 2 tuần, integration test khoảng 1.5 tuần ạ. Để xong trong 8 tuần, em xin anh xem xét 1 trong 2 hướng: điều chỉnh scope QA, hoặc tăng người lên 8 ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ],
+          "continues_previous": true
+        },
+        {
+          "line_id": "rule_27_good_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "Phase 1の実績ですか。それなら根拠がありますね。8名体制で再見積もりをいただけますか？",
+          "sentence_translation": "Thực tế Phase 1 à. Vậy có căn cứ rồi. Phía anh cho tôi báo giá lại theo 8 người được không?",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_27_kp_01",
+      "speaker": "tuan_leader",
+      "sentence": "弊社の〇〇実績データでは、〜という事実がございます。",
+      "sentence_translation": "Theo data thực tế 〇〇 bên em, có sự thực là 〜 ạ.",
+      "purpose": "データに基づく反論",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_27_kp_02",
+      "speaker": "tuan_leader",
+      "sentence": "〇〇、もしくは〇〇のいずれかをご検討いただけますでしょうか？",
+      "sentence_translation": "Em xin anh/chị xem xét 1 trong 2: 〇〇, hoặc 〇〇 ạ.",
+      "purpose": "二択を提示する表現",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_27_bjt_01",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "顧客の見積もり前提に反論したい。最も説得力ある表現はどれか？",
+      "options": [
+        "それは違うと思います",
+        "ご実績、参考になります。ただ弊社のPhase 1データでは平均10.5週間を要しております",
+        "うちはインドと違いますから",
+        "ちょっと無理かもしれません"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "受け止め+具体的数値+事実ベースで反論するのが最も説得力がある。",
+        "vi": "Ghi nhận + số cụ thể + fact-based là cách phản biện thuyết phục nhất."
+      }
+    }
+  ]
+}

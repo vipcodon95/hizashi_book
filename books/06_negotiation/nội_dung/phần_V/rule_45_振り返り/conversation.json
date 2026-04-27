@@ -1,0 +1,248 @@
+{
+  "rule_id": "rule_45",
+  "rule_slug": "振り返りと改善",
+  "title": {
+    "ja": "振り返りと改善",
+    "vi": "Retro và cải tiến"
+  },
+  "rule_context": {
+    "ja": "Phase 3 締結 + Phase 4 R1 後、Hương lead で 1 時間 retro。5 セクション (worked / didn't / counterfactual / pattern / commit) で 3 commits 文書化、3 ヶ月後 follow-up を約束する場面。",
+    "vi": "Sau khi ký Phase 3 + Phase 4 R1, Hương lead retro 1 giờ. 5 sections (worked / didn't / counterfactual / pattern / commit), document 3 commits, hứa follow-up 3 tháng sau."
+  },
+  "related_rules": [
+    "rule_09",
+    "rule_28",
+    "rule_43"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — retro なし、同じ lesson を repeat",
+      "label_vi": "XẤU — Không retro, lặp lại lesson",
+      "display_order": 1,
+      "analysis": {
+        "ja": "Phase 3 で習得すべき 「JP『高い』≠ discount」 が retro なしで Phase 5 で repeat、 ¥2M margin loss。",
+        "vi": "Lesson 'JP cao không phải discount' lẽ ra học từ Phase 3, không retro nên Phase 5 lặp lại → mất ¥2M margin."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_45_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "価格 ¥22M は高い印象が…",
+          "sentence_translation": "Giá ¥22M tạo cảm giác cao...",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_45_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "では ¥20M でいかがでしょうか…",
+          "sentence_translation": "Vậy ¥20M có được không ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_45_bad_03",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ズン、 Phase 3 で学んだ 『高い』 ≠ 『discount』 のはずが、 また直接 discount したね。retro してないでしょ?",
+          "sentence_translation": "Dũng, lesson 'cao không phải discount' học từ Phase 3 mà sao em discount thẳng nữa. Em không làm retro đúng không?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_45_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "…してませんでした。",
+          "sentence_translation": "...em chưa làm ạ.",
+          "tone": "apologetic"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 5 セクション retro + 3 commits + follow-up",
+      "label_vi": "TỐT — Retro 5 sections + 3 commits + follow-up",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_45_good_01",
+          "highlight_text": "5 セクション",
+          "ja": "①worked ②didn't ③counterfactual ④pattern ⑤commit。固定 template で skip / surface-level を防止。",
+          "vi": "①worked ②didn't ③counterfactual ④pattern ⑤commit. Template cố định ngăn skip hay surface-level."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_45_good_05",
+          "highlight_text": "もし escalation trigger checklist を pre-print しておけば",
+          "ja": "Counterfactual は具体的 alternative を spell out。抽象反省ではなく concrete action source。",
+          "vi": "Counterfactual phải spell out alternative cụ thể. Không phải nhìn lại trừu tượng mà là nguồn action cụ thể."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_45_good_06",
+          "highlight_text": "VN BD は immediate concession に 流れがち",
+          "ja": "Pattern recognition = 1 回ではなく across vụ。cultural default なら team-level intervention 必要。",
+          "vi": "Pattern recognition = không phải 1 lần mà across nhiều vụ. Cultural default = cần intervention cấp team."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_45_good_07",
+          "highlight_text": "commit 3 つ",
+          "ja": "3 commit max。多すぎると adhere できず、少なすぎると change なし。",
+          "vi": "Tối đa 3 commit. Nhiều quá không adhere được, ít quá không có change."
+        },
+        {
+          "id": "5",
+          "applies_to_line": "rule_45_good_08",
+          "highlight_text": "3 ヶ月後 follow-up retro",
+          "ja": "Follow-up なしの commit は wishlist。3 ヶ月で habit 化を測定。",
+          "vi": "Commit không follow-up = wishlist. 3 tháng đo lường mức độ habit hóa."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_45_good_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "Phase 3 + Phase 4 R1 retro 1 時間。テンプレ 5 セクション: ①What worked ②What didn't ③Counterfactual ④Pattern ⑤Next commit。Dũng から start。",
+          "sentence_translation": "Retro Phase 3 + Phase 4 R1 1 giờ. Template 5 sections: ①What worked ②What didn't ③Counterfactual ④Pattern ⑤Next commit. Dũng start.",
+          "tone": "warm",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_45_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 3: BATNA 3 シナリオ + recap mail 24h + LOI → 本契約 2 段階で predictable progress。Phase 4 R1: JP「高い」を unbundle で reframe 成功。",
+          "sentence_translation": "Phase 3: BATNA 3 scenario + recap mail 24h + LOI → contract 2 bước → predictable progress. Phase 4 R1: reframe JP 'cao' bằng unbundle thành công.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_45_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 3: 中村 CFO の indemnity 無制限 push に、当初 5 秒 freeze した。escalation trigger 認識 速度遅い。Phase 4 R1: Tuấn の VN style discount 即時止められず、 client memo まで signal 流れた。",
+          "sentence_translation": "Phase 3: lúc Nakamura CFO push indemnity unlimited, ban đầu em freeze 5 giây. Tốc độ nhận trigger escalation chậm. Phase 4 R1: không kịp dừng VN style discount của Tuấn, signal chạy đến client memo.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_45_good_04",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "私は VN style 自覚なく 10% 下げた。Dũng の eye signal も 0.5 秒 miss した。",
+          "sentence_translation": "Anh không tự nhận ra mình theo VN style nên giảm 10%. Anh cũng miss eye signal của Dũng 0.5 giây.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_45_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "もし escalation trigger checklist を pre-print しておけば、indemnity push に 2 秒で react できた。もし pre-MTG で Tuấn と「JP は内訳 unbundle、即 discount NG」 brief 1 分していれば、Phase 4 R1 ratchet 防げた。",
+          "sentence_translation": "Nếu em pre-print escalation trigger checklist, có thể react trong 2 giây với indemnity push. Nếu pre-MTG brief 1 phút với Tuấn 'JP unbundle, KHÔNG discount ngay', có thể ngăn ratchet Phase 4 R1.",
+          "tone": "neutral",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_45_good_06",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "pattern: VN BD は immediate concession に 流れがち。Phase 1 / 2 / 3 / 4 全部で発生。これは個人問題ではなく cultural default。team training で習慣化必要。",
+          "sentence_translation": "Pattern: VN BD hay nhảy vào immediate concession. Phase 1/2/3/4 đều xảy ra. Đây không phải lỗi cá nhân mà cultural default. Team training để habit hóa.",
+          "tone": "firm",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_45_good_07",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "commit 3 つ: (a) escalation trigger checklist を pocket card 化、 来週月曜まで。(b) JP 商談 pre-MTG の 1 分 brief を mandatory ritual 化。(c) Phase 5 retro で a/b の効果測定。",
+          "sentence_translation": "3 commits: (a) Pocket card hóa escalation trigger checklist, deadline thứ Hai tuần sau. (b) Mandatory ritual hóa 1-minute brief pre-MTG cho đàm phán JP. (c) Đo hiệu quả a/b ở retro Phase 5.",
+          "tone": "formal",
+          "annotation_ids": [
+            "4"
+          ]
+        },
+        {
+          "line_id": "rule_45_good_08",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "commit 文書化、 team wiki に保存。3 ヶ月後 follow-up retro でこの commit の adherence 確認。お疲れ様。",
+          "sentence_translation": "Commit document hóa, lưu team wiki. 3 tháng sau follow-up retro để check adherence của commit này. Mọi người vất vả rồi.",
+          "tone": "warm",
+          "annotation_ids": [
+            "5"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_45_kp_01",
+      "speaker": "fuon",
+      "sentence": "5 セクション: worked / didn't / counterfactual / pattern / commit。",
+      "sentence_translation": "5 sections: worked / didn't / counterfactual / pattern / commit.",
+      "purpose": "Retro template",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_45_kp_02",
+      "speaker": "zun",
+      "sentence": "もし〜していれば、〜できた。",
+      "sentence_translation": "Nếu mình ~, có thể ~.",
+      "purpose": "Counterfactual phrasing",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_45_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "商談 retro で「次回頑張ります」 commit が機能しない最大の理由は？",
+      "options": [
+        "敬語が足りない",
+        "具体的 action / deadline / measurable 効果がなく adhere できない",
+        "上司に共有していない",
+        "翻訳されていない"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "Commit は具体 action + deadline + 効果測定 (follow-up retro) で初めて機能。「頑張る」は wishlist。",
+        "vi": "Commit chỉ hoạt động khi có action cụ thể + deadline + đo hiệu quả (follow-up retro). 'Cố gắng' là wishlist."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_45_tpl_01",
+      "format": "checklist",
+      "title_ja": "商談 Retro 5-section テンプレート",
+      "title_vi": "Template Retro 5 sections cho đàm phán",
+      "content_ja": "【商談 Retro】〇〇案件 (round 〇)\n【日時】〇〇年〇月〇日\n【参加者】〇〇 (lead)、 〇〇、 〇〇\n【retro 開催日】商談から 〇 日後\n\n━━━ ① What Worked (うまくいった点) ━━━\n  □ 〇〇 (例: BATNA 3 シナリオで walk-away 明確)\n  □ 〇〇 (例: recap mail 24h 以内送付で稟議 block なし)\n  □ 〇〇\n\n━━━ ② What Didn't (改善点) ━━━\n  □ 〇〇 (例: indemnity 無制限 push に 5 秒 freeze)\n  □ 〇〇 (例: VN style discount を 0.5 秒 miss)\n  □ 〇〇\n\n━━━ ③ Counterfactual (もし〜していれば) ━━━\n  □ もし 〇〇 していれば、〇〇 できた\n  □ もし 〇〇 を pre-print していれば、〇〇 防げた\n  □ もし pre-MTG で 〇〇 brief 1 分していれば、〇〇 …\n\n━━━ ④ Pattern Recognition (across vụ で repeat?) ━━━\n  □ 過去 〇 vụ で同じ pattern 観察 (例: VN BD immediate concession)\n  □ Cultural default? 個人差? team-level intervention 必要?\n\n━━━ ⑤ Next Commit (3 個 max) ━━━\n  (a) 具体 action: 〇〇 / Owner: 〇〇 / Deadline: 〇月〇日 / 効果測定: 〇〇\n  (b) 具体 action: 〇〇 / Owner: 〇〇 / Deadline: 〇月〇日 / 効果測定: 〇〇\n  (c) 具体 action: 〇〇 / Owner: 〇〇 / Deadline: 〇月〇日 / 効果測定: 〇〇\n\n━━━ Follow-up Retro 予定 ━━━\n  □ 3 ヶ月後 (〇月〇日) に commit (a)/(b)/(c) adherence 確認 retro 開催\n  □ team wiki に本 retro doc 保存済み\n  □ 関係者に共有済み",
+      "content_vi": "[Retro Đàm Phán] vụ 〇〇 (round 〇)\n[Thời gian] 〇/〇/〇\n[Tham dự] 〇〇 (lead), 〇〇, 〇〇\n[Ngày retro] 〇 ngày sau đàm phán\n\n━━━ ① What Worked ━━━\n  □ 〇〇 (vd: BATNA 3 scenario làm walk-away rõ)\n  □ 〇〇 (vd: recap mail trong 24h khiến ringi không block)\n  □ 〇〇\n\n━━━ ② What Didn't ━━━\n  □ 〇〇 (vd: freeze 5 giây với indemnity unlimited push)\n  □ 〇〇 (vd: miss VN-style discount 0.5 giây)\n  □ 〇〇\n\n━━━ ③ Counterfactual (Nếu mình ~) ━━━\n  □ Nếu 〇〇, có thể 〇〇\n  □ Nếu pre-print 〇〇, có thể ngăn 〇〇\n  □ Nếu pre-MTG brief 1 phút 〇〇, có thể 〇〇\n\n━━━ ④ Pattern Recognition (lặp lại across vụ?) ━━━\n  □ Quan sát cùng pattern ở 〇 vụ trước (vd: VN BD nhảy vào immediate concession)\n  □ Cultural default? Cá biệt? Cần intervention cấp team?\n\n━━━ ⑤ Next Commit (tối đa 3) ━━━\n  (a) Action cụ thể: 〇〇 / Owner: 〇〇 / Deadline: 〇/〇 / Đo hiệu quả: 〇〇\n  (b) Action cụ thể: 〇〇 / Owner: 〇〇 / Deadline: 〇/〇 / Đo hiệu quả: 〇〇\n  (c) Action cụ thể: 〇〇 / Owner: 〇〇 / Deadline: 〇/〇 / Đo hiệu quả: 〇〇\n\n━━━ Lịch Follow-up Retro ━━━\n  □ 3 tháng sau (〇/〇) tổ chức retro check adherence của commit (a)/(b)/(c)\n  □ Đã lưu retro doc trong team wiki\n  □ Đã share cho stakeholder",
+      "notes_ja": "商談ごとに 1 週間以内 開催。doc は team wiki 保存。3 ヶ月 follow-up なしの commit は wishlist。3 commit max。",
+      "notes_vi": "Tổ chức trong 1 tuần sau mỗi vụ. Lưu doc trong team wiki. Commit không follow-up 3 tháng = wishlist. Tối đa 3 commit."
+    }
+  ]
+}

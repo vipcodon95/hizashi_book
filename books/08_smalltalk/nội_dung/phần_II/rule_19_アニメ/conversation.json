@@ -1,0 +1,159 @@
+{
+  "rule_id": "rule_19",
+  "rule_slug": "アニメ・漫画",
+  "title": {
+    "vi": "Anime/manga (cẩn thận)",
+    "ja": "アニメ・漫画"
+  },
+  "rule_context": {
+    "ja": "アニメtopic は世代で大きく異なる。ズンが①Tanaka 35t(鬼滅bonding)、②Sato 60t(ジブリのみ)、③Yamamoto(コナン universal)、④Linh失敗例(senior に呪術)を体現。",
+    "vi": "Anime topic khác hẳn theo thế hệ. Dũng trải qua ① Tanaka 35t (鬼滅 bonding), ② Sato 60t (chỉ ジブリ), ③ Yamamoto (コナン universal), ④ Linh sai (đẩy 呪術 với senior)."
+  },
+  "related_rules": ["rule_18", "rule_44", "rule_46"],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "鬼滅 bonding — Tanaka 35t",
+      "label_vi": "Bonding 鬼滅 — Tanaka 35t",
+      "display_order": 1,
+      "context": {
+        "ja": "Slack。Tanakaが禰豆子のスタンプ送信。アニメtopicが自然に開く。",
+        "vi": "Slack. Tanaka gửi sticker Nezuko. Topic anime mở tự nhiên."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_19_good_01", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "最近鬼滅の刃の続編、無限城編はじまったな。", "sentence_translation": "Phần tiếp Demon Slayer mới khởi chiếu — arc Mugen Castle rồi.", "tone": "casual"},
+        {"line_id": "rule_19_good_02", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "劇場版!?待ってました。炭治郎の成長と煉獄さんの死、本当に泣きました…", "sentence_translation": "Phim rạp!? Em đợi lâu rồi. Quá trình trưởng thành của Tanjiro và cái chết của Rengoku, em khóc thật sự...", "tone": "warm"},
+        {"line_id": "rule_19_good_03", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "煉獄さん!?ズンさんも柱推し?俺は冨岡義勇がクール過ぎて好き。", "sentence_translation": "Rengoku!? Em oshi Hashira luôn à? Anh thích Tomioka Giyū — quá cool.", "tone": "casual"},
+        {"line_id": "rule_19_good_04", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "冨岡さん、水柱ですよね。LiSAの主題歌炎、カラオケで歌うと泣きそうになります。", "sentence_translation": "Tomioka — Hashira nước nhỉ. Bài 'Honoo' của LiSA, hát karaoke là sắp khóc.", "tone": "warm"},
+        {"line_id": "rule_19_good_05", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "LiSAは紅蓮華も炎も外れなし。最近のアニメだと呪術廻戦・チェンソーマン・進撃の巨人、全部見た?", "sentence_translation": "LiSA — Gurenge với Honoo đều không trượt. Anime gần đây — Jujutsu Kaisen, Chainsaw Man, Attack on Titan, em xem hết chưa?", "tone": "casual"},
+        {"line_id": "rule_19_good_06", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "進撃は最終回まで…エレンの選択、議論分かれますよね。呪術は五条悟ファンです。", "sentence_translation": "Attack on Titan em xem đến tập cuối... lựa chọn của Eren gây tranh cãi nhỉ. Jujutsu thì em fan Gojō Satoru.", "tone": "casual"},
+        {"line_id": "rule_19_good_07", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "五条!みんな五条好き(笑)。あとジブリは何派?千と千尋?もののけ姫?", "sentence_translation": "Gojō! Ai cũng thích Gojō (cười). Ghibli em phe nào? Spirited Away? Mononoke?", "tone": "cheerful"},
+        {"line_id": "rule_19_good_08", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "もののけ姫派です。サンとアシタカの…自然と人間の対立、深いテーマで。", "sentence_translation": "Em phe Mononoke. San với Ashitaka... đối lập tự nhiên-con người, theme sâu.", "tone": "warm"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "Sato 60t — ジブリ only",
+      "label_vi": "Sato 60t — chỉ Ghibli",
+      "display_order": 2,
+      "context": {
+        "ja": "ディナー。ズンがSatoに最も安全なジブリtopicを選ぶ。",
+        "vi": "Dinner. Dũng chọn topic Ghibli an toàn nhất với Sato."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_19_good_09", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "先生、ジブリの作品、お好きですか?", "sentence_translation": "Anh có thích phim Ghibli không ạ?", "tone": "warm"},
+        {"line_id": "rule_19_good_10", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "ジブリは家族で見たね。孫がとなりのトトロ大好きで、何回も見せられた(笑)。", "sentence_translation": "Ghibli xem cùng cả nhà nhỉ. Cháu mê Totoro, anh phải xem đi xem lại (cười).", "tone": "warm"},
+        {"line_id": "rule_19_good_11", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "お孫さんいらっしゃるんですね!トトロはメイとサツキの絆、温かいですよね。", "sentence_translation": "Anh có cháu nhỉ! Totoro là tình chị em Mei-Satsuki, ấm áp lắm.", "tone": "warm"},
+        {"line_id": "rule_19_good_12", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "ベトナムでもジブリ人気あると?", "sentence_translation": "Việt Nam cũng có Ghibli phổ biến à?", "tone": "warm"},
+        {"line_id": "rule_19_good_13", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "千と千尋・ハウルの動く城・もののけ姫、ベトナムの30-40代でも有名です。スピリットアウェイってタイトルでオスカー獲って、世界的に。", "sentence_translation": "Spirited Away, Howl, Mononoke — Việt Nam thế hệ 30-40 cũng biết. 'Spirited Away' đoạt Oscar, nổi toàn cầu.", "tone": "warm"},
+        {"line_id": "rule_19_good_14", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "そうそう、宮崎駿、引退すると言いながら何度も復帰しとる(笑)。君たちはどう生きるか、最近見て泣いた。", "sentence_translation": "Đúng đúng, Miyazaki Hayao, nói nghỉ rồi lại quay lại bao lần (cười). The Boy and the Heron anh xem gần đây khóc.", "tone": "warm"},
+        {"line_id": "rule_19_good_15", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "君生き!まだ見てなくて…泣ける作品なんですか?", "sentence_translation": "Boy and Heron! Em chưa xem... phim cảm động ạ?", "tone": "warm"},
+        {"line_id": "rule_19_good_16", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "俺ら世代の人生振り返るような、深い映画。次回博多来たら、ジブリ美術館の話もしたいね。", "sentence_translation": "Phim như nhìn lại đời thế hệ anh, sâu lắm. Lần sau em đến Hakata, anh cũng muốn nói chuyện bảo tàng Ghibli.", "tone": "warm"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "コナン universal — Yamamoto",
+      "label_vi": "Conan universal — Yamamoto",
+      "display_order": 3,
+      "context": {
+        "ja": "大阪dinner。コナン国民的アニメで世代を超えて盛り上がる。",
+        "vi": "Dinner Osaka. Topic Conan quốc dân, cross-gen."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_19_good_17", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "山本さん、名探偵コナン見ますか?", "sentence_translation": "Chị Yamamoto, có xem Detective Conan không ạ?", "tone": "casual"},
+        {"line_id": "rule_19_good_18", "speaker": "yamamoto_kansai", "speaker_role": "大阪BDマネージャー 白鷗", "gender": "female", "sentence": "コナン!?毎年4月の劇場版、家族で見に行くで(笑)。今年は100万ドルの五稜星、北海道編。", "sentence_translation": "Conan!? Mỗi tháng 4 cả nhà đi xem phim rạp (cười). Năm nay là '$100M Pentagram' arc Hokkaido.", "tone": "cheerful"},
+        {"line_id": "rule_19_good_19", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "劇場版毎年!1996年から続いてますよね、ギネス級の長寿。毛利蘭・新一の関係、ずっと進まないところもまた魅力で(笑)。", "sentence_translation": "Phim rạp mỗi năm! Từ 1996 đến giờ, kỷ lục Guinness. Quan hệ Mōri Ran với Shinichi mãi không tiến — cũng là sức hút (cười).", "tone": "cheerful"},
+        {"line_id": "rule_19_good_20", "speaker": "yamamoto_kansai", "speaker_role": "大阪BDマネージャー 白鷗", "gender": "female", "sentence": "ほんま、ようやく蘭への告白話進んだ感じやけど、まだまだ。安室透とか赤井秀一、最近のキャラも人気やね。", "sentence_translation": "Đúng vậy, tỏ tình với Ran cuối cùng cũng có tiến triển nhưng còn xa. Các nhân Amuro Tōru với Akai Shūichi gần đây cũng hot.", "tone": "cheerful"},
+        {"line_id": "rule_19_good_21", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "安室の女って言葉、ベトナムでもファン多いです(笑)。怪盗キッド回好きで。", "sentence_translation": "'Phụ nữ của Amuro' Việt Nam cũng nhiều fan (cười). Em thích các tập có Kaitō Kid.", "tone": "casual"},
+        {"line_id": "rule_19_good_22", "speaker": "yamamoto_kansai", "speaker_role": "大阪BDマネージャー 白鷗", "gender": "female", "sentence": "キッド回!毎年テンション上がる(笑)。あとサザエさん・ちびまる子ちゃん・ドラえもん、家族で見るアニメ、世代超えて愛されとる。", "sentence_translation": "Tập Kid! Mỗi năm hype (cười). Sazae-san, Maruko, Doraemon — anime cả nhà, vượt thế hệ.", "tone": "cheerful"},
+        {"line_id": "rule_19_good_23", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "ドラえもん!のび太とジャイアン、ベトナムの90年代生まれは皆見てます。どら焼きは今でも好物。", "sentence_translation": "Doraemon! Nobita với Jaian — thế hệ 90 Việt Nam đều xem. Dorayaki giờ em vẫn thích ăn.", "tone": "warm"},
+        {"line_id": "rule_19_good_24", "speaker": "yamamoto_kansai", "speaker_role": "大阪BDマネージャー 白鷗", "gender": "female", "sentence": "ベトナムの方がドラえもん人気って聞いたことある。文化伝わってるんやね、嬉しい。", "sentence_translation": "Nghe nói Việt Nam Doraemon phổ biến hơn. Văn hóa lan truyền, vui nhỉ.", "tone": "warm"}
+      ]
+    },
+    {
+      "section": "bad_example",
+      "label_ja": "Linh が senior に modern anime",
+      "label_vi": "Linh đẩy modern anime với senior — sai",
+      "display_order": 4,
+      "context": {
+        "ja": "リン(22歳)が初対面のSato先生に呪術廻戦・チェンソーマンを推す。世代mismatch。",
+        "vi": "Linh (22t) gặp Sato lần đầu, đẩy Jujutsu/Chainsaw Man. Lệch thế hệ."
+      },
+      "analysis": {
+        "ja": "①初対面で modern anime押しは早い、②senior 60代は最近作品を知らない可能性が高い、③ジブリかコナンから入るべき。",
+        "vi": "① Lần đầu đẩy modern anime quá sớm, ② senior 60t đa số chưa biết, ③ phải bắt đầu Ghibli hoặc Conan."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_19_bad_01", "speaker": "linh", "speaker_role": "Marketing intern ティエンファット", "gender": "female", "sentence": "佐藤先生、最近呪術廻戦見ました!五条悟、めっちゃイケメンで…", "sentence_translation": "[NG] Anh Sato, em mới xem Jujutsu Kaisen! Gojō Satoru cool quá...", "tone": "cheerful"},
+        {"line_id": "rule_19_bad_02", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "呪術…?ジョジョ…?", "sentence_translation": "Jujutsu...? JoJo...?", "tone": "uncertain"},
+        {"line_id": "rule_19_bad_03", "speaker": "linh", "speaker_role": "Marketing intern ティエンファット", "gender": "female", "sentence": "あ、チェンソーマンも最近のアニメで、マキマが…", "sentence_translation": "[NG] À, Chainsaw Man cũng anime gần đây, Makima thì...", "tone": "cheerful"},
+        {"line_id": "rule_19_bad_04", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "リンさん、最近のアニメ、私あんまり詳しくなくてね…", "sentence_translation": "Linh à, anh không rành anime gần đây lắm...", "tone": "uncertain"},
+        {"line_id": "rule_19_bad_05", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "先生、リンが…ジブリ作品、好きでよく話します。もののけ姫とか…", "sentence_translation": "Anh, Linh... thực ra phim Ghibli em ấy thích kể. Như Mononoke...", "tone": "apologetic"},
+        {"line_id": "rule_19_bad_06", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "あ、ジブリね。もののけ姫は俺も好きだよ。", "sentence_translation": "À, Ghibli. Mononoke anh cũng thích đó.", "tone": "warm"}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"phrase_id": "rule_19_kp_01", "speaker": "zun", "sentence": "ジブリの作品、お好きですか?", "sentence_translation": "Anh có thích phim Ghibli không ạ?", "purpose": "Mở topic an toàn cross-gen"},
+    {"phrase_id": "rule_19_kp_02", "speaker": "zun", "sentence": "[千と千尋/もののけ姫]、ベトナムでも人気です。", "sentence_translation": "[Spirited Away/Mononoke] Việt Nam cũng phổ biến.", "purpose": "Universal Ghibli reference"},
+    {"phrase_id": "rule_19_kp_03", "speaker": "zun", "sentence": "[コナン]の劇場版、毎年楽しみで。", "sentence_translation": "Phim rạp [Conan] mỗi năm em mong.", "purpose": "Universal national anime"},
+    {"phrase_id": "rule_19_kp_04", "speaker": "zun", "sentence": "[鬼滅/呪術/進撃]、見ましたか?", "sentence_translation": "[Demon Slayer/Jujutsu/Attack on Titan] anh có xem không?", "purpose": "Modern — chỉ với 30-40t"},
+    {"phrase_id": "rule_19_kp_05", "speaker": "zun", "sentence": "[ドラえもん]、ベトナムの90年代世代は皆見ました。", "sentence_translation": "[Doraemon], thế hệ 90 Việt Nam đều xem.", "purpose": "Bridge văn hóa"},
+    {"phrase_id": "rule_19_kp_06", "speaker": "zun", "sentence": "[LiSA/YOASOBI/Ado]の主題歌、いいですよね。", "sentence_translation": "Bài chủ đề [LiSA/YOASOBI/Ado] hay nhỉ.", "purpose": "Match modern + music"}
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_19_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "60代senior(初対面)とアニメtopicを開く時、最も適切な選択は?",
+      "options": [
+        "A. 「呪術廻戦見ましたか?」",
+        "B. 「ジブリの作品、お好きですか?」",
+        "C. 「Vtuber詳しいですか?」",
+        "D. 「最近のアイドルアニメは?」"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "ジブリは家族で見る世代超えた作品。A・C・Dは若者向けで senior には響かない可能性。",
+        "vi": "Ghibli xem cả nhà, vượt thế hệ. A/C/D hướng trẻ — senior có thể không respond."
+      }
+    },
+    {
+      "question_id": "rule_19_bjt_02",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「オタク」と「推し」のニュアンスとして正しいのは?",
+      "options": [
+        "A. 同じ意味",
+        "B. オタク=昔からの言葉(時にネガティブ)、推し=最近のpositiveな言葉",
+        "C. 推し=ネガティブ、オタク=positiv",
+        "D. 性別で使い分ける"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "オタク=80年代から、時に偏見的。推し=Z世代のpositiveな言葉。",
+        "vi": "Otaku từ 80s, đôi khi hàm ý xấu. Oshi = Z gen, positive."
+      }
+    },
+    {
+      "question_id": "rule_19_bjt_03",
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "お客様が「最近のアニメ、あんまり詳しくなくてね」と言った場合、最適な対応は?",
+      "options": [
+        "A. もっと詳しくアニメを推す",
+        "B. ジブリやコナンなど世代を超えた作品に切り替える",
+        "C. アニメの話を完全にやめて全く違うtopicに",
+        "D. 「勉強不足ですね」と返す"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "完全にやめるよりも、世代を超えた作品で接点を見つける。AはNG, Dは失礼。",
+        "vi": "Không bỏ hẳn — chuyển Ghibli/Conan tìm điểm chung. A = ép, D = xúc phạm."
+      }
+    }
+  ],
+  "templates": []
+}

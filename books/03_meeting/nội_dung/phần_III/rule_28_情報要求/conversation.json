@@ -1,0 +1,171 @@
+{
+  "rule_id": "rule_28",
+  "rule_slug": "データ・情報を求める",
+  "title": {
+    "ja": "データ・情報を求める",
+    "vi": "Xin thêm thông tin / data"
+  },
+  "rule_context": {
+    "ja": "ズンがリリース後のサーバー設計のため、松本PMにDAU/MAU・ピーク時間帯・成長率の3つのデータを依頼する場面。用途を明示して具体的に依頼する。",
+    "vi": "Em Dũng cần data để thiết kế server sau release. Phải xin anh Matsumoto 3 loại data cụ thể (DAU/MAU, peak hour, tăng trưởng) kèm rõ mục đích sử dụng."
+  },
+  "related_rules": [
+    "rule_20",
+    "rule_21",
+    "rule_27"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 漠然と「データください」",
+      "label_vi": "XẤU — Xin 'data' chung chung",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「データください」「何でもいい」は専門性に欠ける。相手も何を渡せばよいか分からない。",
+        "vi": "「データください」「何でもいい」 không pro. Đối phương không biết phải gửi data gì."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_28_bad_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "リリース後、アクセス数はかなり増える見込みです。",
+          "sentence_translation": "Sau khi release, lượng truy cập dự kiến tăng đáng kể.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_28_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "データください。",
+          "sentence_translation": "Anh cho em xin data ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_28_bad_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "…どのデータでしょうか？",
+          "sentence_translation": "...Data nào nhỉ?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_28_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えーと、何でもいいんですが…",
+          "sentence_translation": "Ơ... Cái gì cũng được ạ...",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 用途+3点を具体的に",
+      "label_vi": "TỐT — Mục đích + 3 data cụ thể",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_28_good_02",
+          "highlight_text": "サーバーのキャパシティ設計を進めるために",
+          "ja": "用途を最初に伝えると、相手は「なぜ必要か」を理解し、応じやすくなる。",
+          "vi": "Nói mục đích trước → đối phương hiểu 'tại sao cần' → dễ cấp."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_28_good_03",
+          "highlight_text": "①現状のDAU・MAU、②ピーク時間帯のリクエスト数、③想定成長率の3点",
+          "ja": "番号付きで具体的なデータ項目を列挙。漏れなく確認できる。",
+          "vi": "Liệt kê đánh số cụ thể từng loại data. Đối phương dễ check thiếu/đủ."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_28_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "リリース後、アクセス数はかなり増える見込みです。",
+          "sentence_translation": "Sau khi release, lượng truy cập dự kiến tăng đáng kể.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_28_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。サーバーのキャパシティ設計を進めるために、3点のデータをいただけますでしょうか？",
+          "sentence_translation": "Em cảm ơn ạ. Để thiết kế capacity server, em xin anh 3 data ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_28_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "①現状のDAU・MAU、②ピーク時間帯のリクエスト数、③想定成長率の3点でございます。月次データで構いません。",
+          "sentence_translation": "Cụ thể là (1) DAU/MAU hiện tại, (2) số request giờ peak, (3) tỷ lệ tăng trưởng dự kiến ạ. Data hàng tháng là được ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ],
+          "continues_previous": true
+        },
+        {
+          "line_id": "rule_28_good_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "分かりました。来週月曜までに共有します。",
+          "sentence_translation": "OK rồi. Tôi share trước thứ Hai tuần sau.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_28_kp_01",
+      "speaker": "zun",
+      "sentence": "〜するために、〇〇のデータをいただけますでしょうか？",
+      "sentence_translation": "Để 〜, em xin anh/chị data 〇〇 được không ạ?",
+      "purpose": "用途+データ依頼の標準フレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_28_kp_02",
+      "speaker": "zun",
+      "sentence": "〇点のデータをいただけますでしょうか？①〜、②〜、③〜でございます。",
+      "sentence_translation": "Em xin 〇 data ạ: (1)〜, (2)〜, (3)〜.",
+      "purpose": "番号付きでデータ列挙",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_28_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "顧客にサーバー設計用のデータを依頼する。最も適切な依頼の仕方はどれか？",
+      "options": [
+        "データください",
+        "何でもいいので教えてください",
+        "サーバーのキャパシティ設計のために、DAU・ピークリクエスト数・成長率の3点をいただけますでしょうか",
+        "色々送ってください"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "用途+具体的項目+件数の3要素が揃うと相手が応じやすい。曖昧な依頼は遅延の元。",
+        "vi": "Mục đích + item cụ thể + số lượng = đối phương dễ cấp. Xin chung chung gây delay."
+      }
+    }
+  ]
+}

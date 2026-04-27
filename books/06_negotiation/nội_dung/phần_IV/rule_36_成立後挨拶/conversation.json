@@ -1,0 +1,196 @@
+{
+  "rule_id": "rule_36",
+  "rule_slug": "商談成立後の挨拶",
+  "title": {
+    "ja": "商談成立後の挨拶",
+    "vi": "Chào sau khi đàm phán thành công"
+  },
+  "rule_context": {
+    "ja": "Phase 3 契約締結直後の thank-you メール。hype を避け conservative + commit tone で大人っぽく相手に渡す場面。",
+    "vi": "Thank-you mail ngay sau ký Phase 3. Tránh hype, dùng conservative + commit tone để truyền adult vibe."
+  },
+  "related_rules": ["rule_34", "rule_37", "rule_39"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — !! 多用 + emotional",
+      "label_vi": "XẤU — Nhiều !! + emotional",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「ありがとうございます！！」「嬉しいです！！」で hype。大垣が学生っぽい印象を抱き、PM 田中に厳しく review 指示。delivery 開始から defensive。",
+        "vi": "Hype với !!! + 'em vui quá'. Ōgaki cảm thấy non, ra lệnh PM Tanaka review chặt → delivery start ở thế defensive."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_36_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "件名「ありがとうございます！！」 — 大垣様!! 契約書ご捺印ありがとうございます！！本当に嬉しいです！！",
+          "sentence_translation": "Subject 'Cảm ơn anh!!' — Anh Ōgaki!! Cảm ơn anh đã đóng dấu hợp đồng!! Em thực sự rất vui!!",
+          "tone": "cheerful"
+        },
+        {
+          "line_id": "rule_36_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "これからも何卒よろしくお願いします！期待を超えるようがんばります！！",
+          "sentence_translation": "Sắp tới mong anh tiếp tục giúp em! Em sẽ cố gắng vượt kỳ vọng!!",
+          "tone": "cheerful"
+        },
+        {
+          "line_id": "rule_36_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "ティエンファットの BD ちょっと若いな。delivery が大丈夫か少し不安。田中さん、初回 weekly でしっかり grip お願い。",
+          "sentence_translation": "BD bên Tiên Phát hơi non nhỉ. Hơi lo phần delivery. Anh Tanaka, weekly đầu tiên cứ grip chặt giúp tôi.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_36_bad_04",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO担当",
+          "gender": "male",
+          "sentence": "了解しました。最初は厳しめに review します。",
+          "sentence_translation": "Tôi rõ rồi. Đầu tiên tôi sẽ review chặt hơn.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 身が引き締まる + commit tone",
+      "label_vi": "TỐT — '身の引き締まる思い' + commit tone",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_36_good_02",
+          "highlight_text": "誠にありがとうございました",
+          "ja": "Formal な感謝、!!! 不要。1 度だけ深く伝える。",
+          "vi": "Cảm ơn formal, KHÔNG cần !!!. Chỉ 1 lần nhưng sâu."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_36_good_03",
+          "highlight_text": "身の引き締まる思いでございます",
+          "ja": "Magic phrase. 「嬉しい」emotion ではなく responsibility を伝える adult tone。",
+          "vi": "Magic phrase. Truyền 'trách nhiệm nặng' chứ không phải emotion 'vui' — adult tone."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_36_good_04",
+          "highlight_text": "ご期待にお応えできますよう",
+          "ja": "未来 commit。celebration ではなく delivery focus。",
+          "vi": "Commit về tương lai — focus delivery, không phải celebration."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_36_good_06",
+          "highlight_text": "friendly tone",
+          "ja": "「こちらこそ」reply は warm sign。Hype だと cold reply で終わる。",
+          "vi": "Reply 'こちらこそ' là warm sign. Hype thì reply lạnh hơn."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_36_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "件名「ご捺印御礼 — Phase 3 業務委託契約 締結のお礼」 — 大垣様、いつもお世話になっております。",
+          "sentence_translation": "Subject 'Cảm ơn anh đã đóng dấu — Lời cảm ơn ký Hợp đồng Phase 3' — Anh Ōgaki, em vẫn luôn được anh giúp đỡ ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_36_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "この度は Phase 3 業務委託契約のご捺印を頂戴し、誠にありがとうございました。長期にわたる discussion を経て、両社合意に至りましたこと、心より御礼申し上げます。",
+          "sentence_translation": "Lần này em đã nhận được dấu của anh trên hợp đồng Phase 3, em xin chân thành cảm ơn ạ. Qua quá trình thảo luận dài, hai bên đã đạt đồng thuận, em xin được gửi lời cảm ơn từ tận đáy lòng.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_36_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "御社からの信頼を頂戴したことに対し、身の引き締まる思いでございます。",
+          "sentence_translation": "Việc nhận được sự tin tưởng từ bên anh khiến em cảm nhận trách nhiệm nặng nề ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_36_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "頂戴したご期待にお応えできますよう、弊社一同 全力で取り組んでまいります。引き続き、何卒よろしくお願い申し上げます。",
+          "sentence_translation": "Để đáp lại kỳ vọng đã nhận được, toàn thể bên em sẽ toàn lực nỗ lực ạ. Mong anh tiếp tục giúp đỡ ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_36_good_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "ズン様、ご丁寧なご挨拶ありがとうございます。こちらこそ、Phase 2 同様 高い品質を期待しております。Tanaka PMO よりキックオフ MTG の段取りをご連絡差し上げます。",
+          "sentence_translation": "Anh Dũng, cảm ơn em đã chào lịch sự. Anh cũng vậy, kỳ vọng chất lượng cao như Phase 2. PM Tanaka sẽ liên lạc sắp xếp kickoff MTG.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_36_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 3 締結御礼メール送信完了。返信から大垣様 friendly tone。次は Tanaka PMO とキックオフ調整入ります。",
+          "sentence_translation": "Mail cảm ơn ký Phase 3 đã gửi xong. Reply của anh Ōgaki có friendly tone. Tiếp theo em sẽ vào sắp xếp kickoff với PM Tanaka.",
+          "tone": "warm",
+          "annotation_ids": ["4"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_36_kp_01",
+      "speaker": "zun",
+      "sentence": "身の引き締まる思いでございます。",
+      "sentence_translation": "Em cảm nhận trách nhiệm nặng nề ạ.",
+      "purpose": "Post-deal 大人 tone",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_36_kp_02",
+      "speaker": "zun",
+      "sentence": "頂戴したご期待にお応えできますよう、弊社一同 全力で取り組んでまいります。",
+      "sentence_translation": "Để đáp lại kỳ vọng đã nhận được, toàn thể bên em sẽ toàn lực nỗ lực ạ.",
+      "purpose": "未来 commit phrase",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_36_bjt_01",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "商談成立後の挨拶として最も適切なものは？",
+      "options": [
+        "ありがとうございます！！本当に嬉しいです！！",
+        "身の引き締まる思いでございます。ご期待にお応えできますよう全力で取り組んでまいります。",
+        "サンキューです！次もよろしくお願いします！",
+        "契約書受領しました。"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "JP exec 向けは emotional hype ではなく responsibility + commit tone が大人。A は学生っぽい、C はカジュアル過ぎ、D は dry。",
+        "vi": "Với JP exec không phải emotional hype mà là responsibility + commit tone mới chuyên nghiệp. A non, C casual quá, D khô."
+      }
+    }
+  ]
+}

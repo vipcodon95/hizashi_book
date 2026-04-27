@@ -1,0 +1,127 @@
+{
+  "rule_id": "rule_03",
+  "rule_slug": "お待たせした時の詫び方",
+  "title": {
+    "ja": "お待たせした時の詫び方",
+    "vi": "Trễ thì xin lỗi đúng cách"
+  },
+  "rule_context": {
+    "ja": "待たせた時間に応じた4段階の詫び方。松本PMが2分間保留状態でズンが取り直す場面。",
+    "vi": "4 cấp xin lỗi theo thời gian đợi. Anh Matsumoto bị hold 2 phút, em Dũng bốc lại."
+  },
+  "related_rules": [
+    "rule_02",
+    "rule_17"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 軽すぎる詫び",
+      "label_vi": "XẤU — Xin lỗi quá nhẹ",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「お待たせしました」(「お」付き) は3-5コール用。2分保留にはレベル不足。「申し訳ございません」が必要。",
+        "vi": "「お待たせしました」 dành cho mức 1 (3-5 hồi). Hold 2 phút cần 「申し訳ございません」 đi kèm."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_03_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お待たせしました、ズンです。",
+          "sentence_translation": "Xin lỗi vì để đợi, tôi là Dũng.",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 適切なレベルの詫び",
+      "label_vi": "TỐT — Mức xin lỗi đúng",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_03_good_01",
+          "highlight_text": "大変お待たせし、申し訳ございません",
+          "ja": "保留1分以上は「お待たせ」+「申し訳ございません」のセット。",
+          "vi": "Hold 1 phút+ cần「お待たせ」 + 「申し訳ございません」 đi kèm."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_03_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "大変お待たせし、申し訳ございません。ティエンファット社のズンでございます。",
+          "sentence_translation": "Vô cùng xin lỗi vì đã để anh đợi. Tôi là Dũng bên Cty Thiên Phát ạ.",
+          "tone": "apologetic",
+          "speed_multiplier": 0.95,
+          "pause_after_ms": 800,
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_03_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "いえ、こちらこそ。",
+          "sentence_translation": "Không, ngược lại em.",
+          "tone": "warm"
+        }
+      ]
+    },
+    {
+      "section": "variant",
+      "variant_name": "after_repeated_busy_line",
+      "label_ja": "バリエーション — 何度もかけ直された場合",
+      "label_vi": "Biến thể — Khi khách phải gọi 3 lần mới thông",
+      "display_order": 3,
+      "conversation_lines": [
+        {
+          "line_id": "rule_03_var_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "大変お待たせし、誠に申し訳ございません。何度もお電話いただきありがとうございます。",
+          "sentence_translation": "Vô cùng xin lỗi vì đã để anh đợi. Cảm ơn anh đã gọi nhiều lần ạ.",
+          "tone": "apologetic",
+          "speed_multiplier": 0.9
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_03_kp_01",
+      "speaker": "zun",
+      "sentence": "大変お待たせし、申し訳ございません。",
+      "sentence_translation": "Vô cùng xin lỗi vì đã để anh/chị đợi.",
+      "purpose": "1分以上保留時の標準詫び — どの場面でも安全",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_03_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "お客様を1分以上保留にした後の第一声として最も適切なのは？",
+      "options": [
+        "お待たせしました",
+        "すみません、お待たせしました",
+        "大変お待たせし、申し訳ございません",
+        "ごめんなさい、長く待たせて"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "1分以上は「申し訳ございません」必須。「すみません」「ごめんなさい」はビジネス電話に不適切。",
+        "vi": "1 phút+ cần 「申し訳ございません」. 「すみません」「ごめんなさい」 không phù hợp business phone."
+      }
+    }
+  ]
+}

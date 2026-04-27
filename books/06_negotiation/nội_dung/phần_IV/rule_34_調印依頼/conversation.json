@@ -1,0 +1,196 @@
+{
+  "rule_id": "rule_34",
+  "rule_slug": "調印依頼",
+  "title": {
+    "ja": "調印依頼",
+    "vi": "Mời ký formal"
+  },
+  "rule_context": {
+    "ja": "Final contract v3 合意後、キックオフ 7/1 から逆算して 6/25 までの捺印を formal mail で依頼する場面。",
+    "vi": "Final contract v3 OK rồi. Tính ngược từ kickoff 7/1 → ký xong trước 6/25. Dũng gửi mail formal request signature."
+  },
+  "related_rules": ["rule_33", "rule_36", "rule_37"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — カジュアル + 期限なし",
+      "label_vi": "XẤU — Casual + không deadline",
+      "display_order": 1,
+      "analysis": {
+        "ja": "件名「契約書」のみ、本文は「サインお願い」のみ、期限なし。3 週間沈黙 → キックオフ 3 週間遅延。",
+        "vi": "Subject 'Hợp đồng' đơn lẻ, body 'Anh ký giúp em', không deadline. Khách im 3 tuần → kickoff lùi 3 tuần."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_34_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "件名「契約書」 — 大垣様、契約書を添付しました。サインお願いします。",
+          "sentence_translation": "Subject 'Hợp đồng' — Anh Ōgaki, em đính kèm hợp đồng ạ. Anh ký giúp em.",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_34_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(3 週間沈黙後) 大垣様、その後いかがでしょうか？",
+          "sentence_translation": "(Sau 3 tuần im lặng) Anh Ōgaki, bên anh thế nào rồi ạ?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_34_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "ズン様、優先順位として social engineer 案件が走っており、契約書は来月見ます。",
+          "sentence_translation": "Anh Dũng, ưu tiên hiện tại bên anh đang chạy vụ social engineer, hợp đồng tháng sau anh xem.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_34_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(キックオフ 7/1 → 7/22 後ろ倒し決定)",
+          "sentence_translation": "(Kickoff 7/1 → quyết định lùi 7/22)",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — formal 件名 + 3 要素 (依頼 / 期限 / 方法)",
+      "label_vi": "TỐT — Subject formal + 3 elements (request / deadline / method)",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_34_good_02",
+          "highlight_text": "ご署名・ご捺印いただけますでしょうか",
+          "ja": "調印依頼の決まり文句。「サイン」casual は商務 NG。",
+          "vi": "Câu chuẩn formal cho signature request. 'サイン' casual KHÔNG dùng trong business."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_34_good_03",
+          "highlight_text": "6 月 25 日 (水) までに",
+          "ja": "Deadline + 理由 (キックオフ日) を明示。1 週間以上余裕。",
+          "vi": "Deadline + lý do (ngày kickoff) ghi rõ. Để buffer ≥ 1 tuần."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_34_good_04",
+          "highlight_text": "(a) eSignature",
+          "ja": "2 method 提示 — 印鑑文化と eSignature 移行期にどちらも逃さない。",
+          "vi": "Đưa ra 2 phương án — vẫn còn xen kẽ giữa văn hóa con dấu và eSignature."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_34_good_06",
+          "highlight_text": "両社捺印済",
+          "ja": "Closure announcement → 内部 rule 37 kickoff へブリッジ。",
+          "vi": "Closure announcement → bridge sang rule 37 internal kickoff."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_34_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "件名「【ご捺印のお願い】Phase 3 業務委託契約書 (キックオフ 7/1 予定)」 — 大垣様、いつもお世話になっております。",
+          "sentence_translation": "Subject 'Kính nhờ đóng dấu — Hợp đồng Phase 3 (kickoff 7/1)' — Anh Ōgaki, em vẫn luôn được anh giúp đỡ ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_34_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 3 業務委託契約書 final 版が両社合意に至りましたので、お送りいたします。つきましては、ご署名・ご捺印いただけますでしょうか。",
+          "sentence_translation": "Hợp đồng Phase 3 bản final đã đạt đồng thuận giữa hai bên, em xin gửi anh. Phiền anh ký và đóng dấu giúp em ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_34_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "キックオフを 7 月 1 日に予定しているため、6 月 25 日 (水) までにご捺印頂けますと幸いです。",
+          "sentence_translation": "Vì kickoff dự kiến ngày 1/7, em rất mong anh đóng dấu trước thứ Tư 25/6 ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_34_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "方法は、(a) eSignature (DocuSign リンク添付)、または (b) 紙原本郵送 (本日中に発送可能) のいずれかをお選びいただけます。ご都合のよろしい方をお知らせください。",
+          "sentence_translation": "Về phương thức, anh có thể chọn: (a) eSignature (link DocuSign đính kèm) hoặc (b) gửi bản giấy gốc (em có thể chuyển phát trong ngày). Anh chọn cách nào tiện cho anh thì báo lại giúp em ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_34_good_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "ズン様、迅速なご手配ありがとうございます。eSignature で進めさせていただきます。本日午後に処理いたします。",
+          "sentence_translation": "Anh Dũng, cảm ơn em đã chuẩn bị nhanh. Bên tôi đi theo eSignature. Chiều nay tôi xử lý.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_34_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 3 契約締結完了しました。Hà CTO + 大垣様 両社捺印済。",
+          "sentence_translation": "Hợp đồng Phase 3 ký xong rồi ạ. Anh Hà CTO + anh Ōgaki cả 2 bên đã đóng dấu ạ.",
+          "tone": "warm",
+          "annotation_ids": ["4"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_34_kp_01",
+      "speaker": "zun",
+      "sentence": "ご署名・ご捺印いただけますでしょうか。",
+      "sentence_translation": "Phiền anh ký và đóng dấu giúp em ạ.",
+      "purpose": "調印依頼の標準",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_34_kp_02",
+      "speaker": "zun",
+      "sentence": "6 月 25 日 (水) までにご捺印頂けますと幸いです。",
+      "sentence_translation": "Em rất mong anh đóng dấu trước thứ Tư 25/6 ạ.",
+      "purpose": "Deadline 明示",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_34_bjt_01",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "商務メールで「サインお願いします」が不適切な理由は？",
+      "options": [
+        "短すぎるから",
+        "「サイン」はカジュアル表現で、商務文書では「ご署名・ご捺印」を用いる",
+        "敬語が足りないから",
+        "送信時刻が遅いから"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "「サイン」は日常会話レベル。商務契約は「ご署名・ご捺印いただけますでしょうか」が標準。",
+        "vi": "'サイン' ở mức hội thoại hàng ngày. Trong business contract phải dùng 「ご署名・ご捺印いただけますでしょうか」."
+      }
+    }
+  ]
+}

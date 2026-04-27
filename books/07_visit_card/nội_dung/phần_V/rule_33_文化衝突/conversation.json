@@ -1,0 +1,254 @@
+{
+  "rule_id": "rule_33",
+  "rule_slug": "文化衝突の回避",
+  "title": {
+    "ja": "文化衝突の回避",
+    "vi": "Tránh culture clash VN-JP"
+  },
+  "rule_context": {
+    "ja": "東京 onsite 滞在3日目夜、田中PMOと松本PMがズン+トゥアンを casual な居酒屋へ非公式に誘う。VN流『私が払う』『私のglassに私が注ぐ』『お返しの即gift』が日本式と衝突。フオン副部長が事前にズンに3つの注意点を伝授した上での実践場面。",
+    "vi": "Ngày 3 onsite Tokyo buổi tối, Tanaka PMO + PM Matsumoto rủ Dũng + Tuấn đến izakaya casual không chính thức. 3 thói quen VN — 'để em trả', 'em tự rót cho em', 'tặng quà đáp lễ ngay' — xung đột với kiểu Nhật. Chị Hương đã dặn Dũng 3 chú ý trước, đây là thực hành."
+  },
+  "related_rules": [
+    "rule_25",
+    "rule_28",
+    "rule_29"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — VN流をそのまま実行",
+      "label_vi": "XẤU — làm thẳng theo kiểu VN",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①pour 自分でやって松本PMに『お注ぎします』と言わない=日本式相互ケア崩壊 ②会計時カードを先に出す=招待者(田中PMO)の面子潰し ③即お返しgift渡す=『 prompt return』signal で『重荷』感。",
+        "vi": "(1) Tự rót, không nói 'em rót anh' = phá kiểu Nhật chăm sóc lẫn nhau. (2) Thấy bill rút thẻ trước = mất mặt người mời (Tanaka PMO). (3) Đáp lễ quà ngay = signal 'tôi nợ' = tạo cảm giác gánh nặng."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_33_bad_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ズンさん、もう一杯どうぞ。",
+          "sentence_translation": "Anh Dũng, thêm ly nữa nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_33_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（自分で自分のglassに注ぐ）あ、自分でやります。",
+          "sentence_translation": "(tự rót cho mình) À em tự rót được ạ.",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_33_bad_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "（少し違和感）あ、はい…",
+          "sentence_translation": "(hơi bối rối) À, vâng...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_33_bad_04",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "（会計時、自分のカードを先に出す）今日は私達が…",
+          "sentence_translation": "(thấy bill, rút thẻ ra trước) Hôm nay bọn em...",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_33_bad_05",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "あ、今日は私が誘ったので…（face損なう）",
+          "sentence_translation": "Ơ, hôm nay tôi mời mà... (mất mặt)",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_33_bad_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（鞄から即お返しのgiftを取り出す）これ、お返しに…",
+          "sentence_translation": "(rút quà đáp lễ từ cặp ngay) Đây ạ, em đáp lễ...",
+          "tone": "casual"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 相互pour + invite主体に支払い譲る + お返しは別日",
+      "label_vi": "TỐT — rót lẫn nhau + nhường người mời trả + đáp lễ ngày khác",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_33_good_02",
+          "highlight_text": "松本様、お注ぎします",
+          "ja": "VN流『自分のglassに自分で』を反転。日本式は相互ケア=相手に注ぎ、相手が自分に注ぐ。",
+          "vi": "Đảo ngược 'mình tự rót cho mình' kiểu VN. Kiểu Nhật = chăm sóc lẫn nhau: rót cho đối phương, đối phương rót lại."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_33_good_05",
+          "highlight_text": "今日は田中様にお誘いいただきましたので",
+          "ja": "招待者の face を立てる。VN流『俺が払う』を抑えて、招待者が支払う日本式 follow。次回 host を申し出。",
+          "vi": "Giữ thể diện người mời. Kìm 'để em trả' kiểu VN, để người mời trả theo kiểu Nhật. Đề xuất lần sau mình mời lại."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_33_good_07",
+          "highlight_text": "次回ベトナムにお越しの際にお返しを",
+          "ja": "即返し=『義務感』signal。間隔を空けて『次回』『来月』 timeline で自然な return が日本式。",
+          "vi": "Đáp lễ ngay = signal 'tôi nợ phải trả'. Để cách thời gian, 'lần sau' / 'tháng sau' = return tự nhiên kiểu Nhật."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_33_good_09",
+          "highlight_text": "本日はご馳走になりました",
+          "ja": "別れ際の固定句。翌日朝に再度メールで御礼が完璧。",
+          "vi": "Câu cố định lúc tạm biệt. Sáng hôm sau gửi mail cảm ơn lần nữa = hoàn hảo."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_33_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ズンさん、もう一杯どうぞ。",
+          "sentence_translation": "Anh Dũng, thêm ly nữa nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_33_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。松本様、お注ぎします。（瓶を両手で持ち、松本のglassへ）",
+          "sentence_translation": "Cảm ơn anh ạ. Anh Matsumoto, em rót anh ạ. (cầm chai 2 tay rót vào ly Matsumoto)",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_33_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "（glass両手で受け）どうも。では私もズンさんに。",
+          "sentence_translation": "(đón ly bằng 2 tay) Cảm ơn. Vậy tôi cũng rót anh Dũng nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_33_good_04",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "（会計時に立ち上がる）会計、私が。",
+          "sentence_translation": "(đến lúc tính tiền, đứng dậy) Hóa đơn để tôi.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_33_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "今日は田中様にお誘いいただきましたので、お言葉に甘えさせていただきます。次回はぜひ当方が皆様をお招きしたく。",
+          "sentence_translation": "Hôm nay anh Tanaka đã mời, em xin phép nhận sự tiếp đón ạ. Lần sau bên em xin được mời quý vị ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_33_good_06",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "ありがとうございます。",
+          "sentence_translation": "Cảm ơn anh.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_33_good_07",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "次回ベトナムにお越しの際に、ささやかですがお返しの席をご用意させていただきます。",
+          "sentence_translation": "Lần sau anh sang Việt Nam, bên em xin chuẩn bị bữa nhỏ đáp lễ ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_33_good_08",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "楽しみにしております。",
+          "sentence_translation": "Tôi rất mong chờ.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_33_good_09",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本日はご馳走になりました。誠にありがとうございました。",
+          "sentence_translation": "Hôm nay em đã được tiếp đãi, em xin chân thành cảm ơn ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "4"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_33_kp_01",
+      "speaker": "zun",
+      "sentence": "お言葉に甘えさせていただきます。次回はぜひ当方からお招きしたく。",
+      "sentence_translation": "Em xin phép nhận sự tiếp đón ạ. Lần sau bên em xin được mời lại.",
+      "purpose": "支払い譲る + 次回 host 申出 固定パターン",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_33_kp_02",
+      "speaker": "tuan_leader",
+      "sentence": "次回ベトナムにお越しの際にお返しの席をご用意させていただきます。",
+      "sentence_translation": "Lần sau anh sang Việt Nam, em xin chuẩn bị bữa đáp lễ ạ.",
+      "purpose": "即返し回避 + 将来 return 約束",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_33_bjt_01",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "日本人客にお誘いされた時、VN流と異なる対応で正しいのは？",
+      "options": [
+        "自分のglassに自分で注ぐ",
+        "招待されても自分が支払うと主張",
+        "受け取ったgiftにその場で同等のお返しを渡す",
+        "相互pour・招待者支払いを尊重・お返しは次回または別日"
+      ],
+      "correct": "D",
+      "explanation": {
+        "ja": "VN流『自分でやる/俺が払う/即返し』は日本式相互ケアと衝突。譲って次回 host を申し出るのが正解。",
+        "vi": "Kiểu VN 'tự làm/để em trả/đáp lễ ngay' xung đột với kiểu Nhật chăm sóc lẫn nhau. Đúng là nhường, hẹn lần sau mình mời."
+      }
+    }
+  ]
+}

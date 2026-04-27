@@ -1,0 +1,185 @@
+{
+  "rule_id": "rule_24",
+  "rule_slug": "譲歩交換",
+  "title": {
+    "ja": "譲歩交換",
+    "vi": "Trade concession (tit-for-tat)"
+  },
+  "rule_context": {
+    "ja": "Ōgaki が AI dashboard 込み ¥17M を要求。Dũng が tit-for-tat で 2年契約 + 事例公開を交換条件にする場面。",
+    "vi": "Ōgaki ép AI dashboard kèm ¥17M. Dũng tit-for-tat đổi 2 năm hợp đồng + cho phép công bố case."
+  },
+  "related_rules": ["rule_09", "rule_19", "rule_21"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — unilateral譲歩",
+      "label_vi": "XẤU — Nhượng bộ đơn phương",
+      "display_order": 1,
+      "analysis": {
+        "ja": "dashboard ¥1M を trade なしで追加。粗利が落ち、相手に「easy」サインも送る。",
+        "vi": "Thêm dashboard ¥1M không có trade. Mất margin + gửi sign 'dễ' cho khách."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_24_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "AI dashboard も込みで ¥17M なら社内通せそうですが…",
+          "sentence_translation": "AI dashboard kèm cùng ¥17M thì nội bộ duyệt được...",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_24_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "分かりました、AI dashboard 含めて ¥17M で。",
+          "sentence_translation": "Em rõ ạ, gồm cả AI dashboard ở mức ¥17M ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_24_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "ありがとうございます。",
+          "sentence_translation": "Cảm ơn anh.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_24_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "(内部 Slack) dashboard ¥1M を ¥0 で追加？trade なしの単独譲歩。粗利は？",
+          "sentence_translation": "(Slack nội bộ) Dashboard ¥1M cho thêm miễn phí? Nhượng đơn phương không có trade. Margin sao?",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — tit-for-tat trade",
+      "label_vi": "TỐT — Tit-for-tat trade",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_24_good_02",
+          "highlight_text": "ご検討ありがとうございます",
+          "ja": "Acknowledge してから trade に入る。即 demand すると tone confrontational。",
+          "vi": "Acknowledge trước khi vào trade. Đòi ngay là tone đối đầu."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_24_good_02",
+          "highlight_text": "もし以下の 2 点をお取り計らいいただけましたら",
+          "ja": "「もし〜していただければ」の標準形。要求ではなく条件として表現。",
+          "vi": "Câu chuẩn 'Nếu quý anh ~'. Diễn đạt thành điều kiện, không phải yêu cầu."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_24_good_02",
+          "highlight_text": "公式事例として御社名公開許可",
+          "ja": "trade は相手cost低・自社value高 を選ぶ。事例公開は marketing 効果大。",
+          "vi": "Trade chọn cost thấp với khách + value cao với mình. Công bố case = marketing lớn."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_24_good_04",
+          "highlight_text": "両方ご了承いただけた段階で ¥17M + dashboard 込みで確定",
+          "ja": "conditional confirmation: 両方揃って初めて ¥17M。片方だけ取られない防御。",
+          "vi": "Conditional confirmation: cả hai đủ mới chốt ¥17M. Phòng việc bị bóc 1 trade."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_24_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "AI dashboard も込みで ¥17M なら社内通せそうですが…",
+          "sentence_translation": "AI dashboard kèm cùng ¥17M thì nội bộ duyệt được...",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_24_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご検討ありがとうございます。AI dashboard 込みで ¥17M、もし以下の 2 点をお取り計らいいただけましたら、お受けできます: (1) 契約期間 2 年確定 + 自動 1 年更新条項、(2) 公式事例として御社名公開許可 (来期 marketing で活用)。",
+          "sentence_translation": "Cảm ơn quý anh đã xem xét ạ. AI dashboard kèm ¥17M, nếu quý anh sắp xếp được 2 điểm sau thì em có thể nhận: (1) Hợp đồng cố định 2 năm + điều khoản tự động gia hạn 1 năm, (2) Cho phép công bố tên quý cty làm case chính thức (em dùng cho marketing kỳ sau) ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1", "2", "3"]
+        },
+        {
+          "line_id": "rule_24_good_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "(1) は内部で OK、(2) 事例公開は広報部に確認必要です。",
+          "sentence_translation": "(1) nội bộ OK, (2) công bố case cần check với phòng PR.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_24_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "もちろんです。両方ご了承いただけた段階で ¥17M + dashboard 込みで確定、もし (2) のみ難しい場合は contractual に scope 調整となります。",
+          "sentence_translation": "Tất nhiên ạ. Khi cả 2 đều OK em sẽ chốt ¥17M + dashboard, nếu chỉ (2) khó thì sẽ điều chỉnh scope trong hợp đồng ạ.",
+          "tone": "formal",
+          "annotation_ids": ["4"]
+        },
+        {
+          "line_id": "rule_24_good_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "整理して持ち帰り検討します。",
+          "sentence_translation": "Tôi tổng hợp rồi mang về xem xét.",
+          "tone": "neutral"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_24_kp_01",
+      "speaker": "zun",
+      "sentence": "もし〜していただければ、〜いたします。",
+      "sentence_translation": "Nếu quý anh ~ thì em sẽ ~ ạ.",
+      "purpose": "tit-for-tat 標準",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_24_kp_02",
+      "speaker": "zun",
+      "sentence": "両方ご了承いただけた段階で確定とさせてください。",
+      "sentence_translation": "Khi cả 2 OK xin phép em sẽ chốt ạ.",
+      "purpose": "conditional confirmation",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_24_bjt_01",
+      "level": "J1",
+      "skill": "表現読解",
+      "question_ja": "顧客が「dashboard 込みで ¥17M に」と要求した際の最適 phrase は？",
+      "options": [
+        "「分かりました、¥17M で」",
+        "「もし契約期間2年化と事例公開許可をいただけましたら、¥17M+dashboard でお受けできます」",
+        "「dashboard は別料金です」と切る",
+        "「上司に聞きます」と保留"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "tit-for-tat は trade とセット。条件提示で leverage を保ち、unilateral concession を避ける。",
+        "vi": "Tit-for-tat luôn đi với trade. Đưa điều kiện giữ leverage, tránh nhượng đơn phương."
+      }
+    }
+  ]
+}

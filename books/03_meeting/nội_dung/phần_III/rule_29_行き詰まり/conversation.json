@@ -1,0 +1,188 @@
+{
+  "rule_id": "rule_29",
+  "rule_slug": "行き詰まり対応",
+  "title": {
+    "ja": "行き詰まった場合の対応",
+    "vi": "Khi gặp deadlock"
+  },
+  "rule_context": {
+    "ja": "Phase 2交渉で大垣（20%値引き要求）とハーCTO（10%が限界）が30分平行線。司会のズンが冷却期間を作るために『持ち帰り+期限+修正案』を提案する場面。",
+    "vi": "Đàm phán phase 2 deadlock 30 phút giữa anh Ōgaki (yêu cầu 20%) và anh Hà CTO (giới hạn 10%). Em Dũng chủ trì phải defuse bằng 持ち帰り + deadline + re-propose."
+  },
+  "related_rules": ["rule_25", "rule_32", "rule_42"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 司会者が独断で妥協値を提示",
+      "label_vi": "XẤU — Chủ trì tự đưa con số妥協",
+      "display_order": 1,
+      "analysis": {
+        "ja": "司会者が上長に確認なく15%という具体的数字を出すと、CTOが顧客の前で否定するしかなくなり、内部の連携不足が露呈する。",
+        "vi": "Chủ trì tự đưa số 15% chưa hỏi cấp trên → CTO buộc phải reject ngay trước khách → lộ thiếu sự phối hợp nội bộ."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_29_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "やはり20%でなければ難しいです。",
+          "sentence_translation": "Vẫn phải 20% thì mới được.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_29_bad_02",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "10%が限界です。",
+          "sentence_translation": "10% là giới hạn rồi.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_29_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あの…どこかで折り合えませんか？15%でいかがでしょう？",
+          "sentence_translation": "Anh... có chỗ nào cùng nhau dung hoà được không ạ? 15% được không ạ?",
+          "tone": "nervous"
+        },
+        {
+          "line_id": "rule_29_bad_04",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "ズン、それは本社確認が必要だ。今ここで決められない。",
+          "sentence_translation": "Dũng, cái đó cần duyệt trên. Không quyết tại đây được.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 司会が冷却期間を提案",
+      "label_vi": "TỐT — Chủ trì đề xuất 'mang về'",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_29_good_03",
+          "highlight_text": "本日この場で結論を出すのは難しいかと存じます",
+          "ja": "中立的にデッドロックを宣言。どちらの責任にもしない。",
+          "vi": "Tuyên bố deadlock một cách trung lập. Không đổ lỗi bên nào."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_29_good_03",
+          "highlight_text": "一度持ち帰って、別途ご相談する形でいかがでしょうか",
+          "ja": "標準のデッドロック・ディフューズ表現。冷却期間を作る。",
+          "vi": "Câu chuẩn để defuse deadlock. Tạo thời gian cool-off."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_29_good_04",
+          "highlight_text": "来週水曜までに修正案をお出しいたします",
+          "ja": "持ち帰りには必ず期限+次のアクションを添える。",
+          "vi": "「持ち帰り」 phải kèm deadline + cam kết action tiếp."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_29_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "やはり20%でなければ難しいです。",
+          "sentence_translation": "Vẫn phải 20% thì mới được.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_29_good_02",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "10%が限界です。",
+          "sentence_translation": "10% là giới hạn rồi.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_29_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お互いの状況を共有いただきありがとうございます。本日この場で結論を出すのは難しいかと存じますので、一度持ち帰って、別途ご相談する形でいかがでしょうか？",
+          "sentence_translation": "Cảm ơn cả hai bên đã chia sẻ tình hình ạ. Em e là khó kết luận tại đây hôm nay, hai bên xin phép mang về và bàn riêng có được không ạ?",
+          "tone": "formal",
+          "annotation_ids": ["1", "2"]
+        },
+        {
+          "line_id": "rule_29_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "弊社では本日のご要望をもとに再検討し、来週水曜までに修正案をお出しいたします。",
+          "sentence_translation": "Bên em sẽ xem xét lại theo yêu cầu hôm nay và xin gửi phương án sửa trước thứ Tư tuần sau ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"],
+          "continues_previous": true
+        },
+        {
+          "line_id": "rule_29_good_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "ありがとうございます。それで問題ありません。",
+          "sentence_translation": "Cảm ơn Dũng. Vậy không vấn đề gì.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_29_good_06",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "お願いします。",
+          "sentence_translation": "Phiền các anh nhé.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_29_kp_01",
+      "speaker": "zun",
+      "sentence": "本日この場で結論を出すのは難しいかと存じます。一度持ち帰って、別途ご相談する形でいかがでしょうか？",
+      "sentence_translation": "Em e là khó kết luận tại đây hôm nay. Hai bên mang về và bàn riêng có được không ạ?",
+      "purpose": "デッドロックを defuse する標準フレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_29_kp_02",
+      "speaker": "zun",
+      "sentence": "〇月〇日までに修正案をお出しいたします。",
+      "sentence_translation": "Em xin gửi phương án sửa trước 〇/〇 ạ.",
+      "purpose": "次のアクション+期限を約束",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_29_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "顧客と自社の意見が30分平行線。司会者として最善の対応はどれか？",
+      "options": [
+        "司会が独断で妥協案を出す",
+        "強引に決を採る",
+        "「本日結論は難しい。一度持ち帰って別途相談」と冷却期間を提案する",
+        "会議を強制終了する"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "司会者の独断は内部信頼を損ね、強引採決は関係を壊す。冷却期間+期限つき再提案が最善。",
+        "vi": "Chủ trì tự quyết = mất uy tín nội bộ. Ép vote = phá quan hệ. Cool-off + deadline tái đề xuất = tối ưu."
+      }
+    }
+  ]
+}

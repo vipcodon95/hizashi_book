@@ -1,0 +1,106 @@
+{
+  "rule_id": "rule_43",
+  "rule_slug": "延期・変更を電話で伝える",
+  "title": {
+    "ja": "延期・変更を電話で伝える",
+    "vi": "Báo dời / đổi lịch qua phone"
+  },
+  "rule_context": {
+    "ja": "明日のミーティングを別日に変更する電話。謝罪→理由→代替案複数提示→メール確認の流れ。",
+    "vi": "Báo dời cuộc họp ngày mai. Trình tự: xin lỗi → lý do → 2-3 phương án thay → mail xác nhận."
+  },
+  "related_rules": [
+    "rule_42",
+    "rule_44",
+    "rule_51"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "代替日を1案でなく2案提示することで相手が選べる。最後にメール確認を約束して二重確認。",
+        "vi": "Đưa 2 phương án để đối phương chọn. Cam kết gửi mail xác nhận để double check."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_43_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お忙しいところ恐れ入ります。明日10時のお打ち合わせの件でお電話いたしました。",
+          "sentence_translation": "Em xin phép làm phiền lúc anh đang bận ạ. Em gọi về việc cuộc họp 10h ngày mai ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_43_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "申し訳ございませんが、急遽弊社のトゥアンの出張が入りまして、日程を変更させていただきたくお願い申し上げます。",
+          "sentence_translation": "Em xin lỗi anh, anh Tuấn đột xuất phải đi công tác, em xin phép dời lịch ạ.",
+          "tone": "apologetic",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_43_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "代替案として、明後日の14時、もしくは来週月曜の10時はいかがでしょうか？",
+          "sentence_translation": "Em xin đề xuất 2 phương án: ngày kia 14h, hoặc thứ Hai tuần sau 10h, anh thấy thế nào ạ?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_43_good_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "では、来週月曜10時でお願いします。",
+          "sentence_translation": "Vậy thứ Hai tuần sau 10h nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_43_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。後ほど確認のメールをお送りいたします。",
+          "sentence_translation": "Cảm ơn anh ạ. Em sẽ gửi mail xác nhận sau ạ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_43_kp_01",
+      "speaker": "zun",
+      "sentence": "日程を変更させていただきたくお願い申し上げます。代替案として、〇〇はいかがでしょうか？",
+      "sentence_translation": "Em xin phép dời lịch ạ. Em đề xuất 〇〇, anh thấy thế nào ạ?",
+      "purpose": "延期・変更依頼の標準",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_43_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "日程変更の電話で最も避けるべきは？",
+      "options": [
+        "謝罪する",
+        "代替案を1つだけ提示",
+        "代替案を2-3つ提示",
+        "メール確認する"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "代替案は複数提示が望ましい。1つだけだと選択肢を奪う。",
+        "vi": "Nên đề xuất nhiều phương án. 1 phương án = ép đối phương."
+      }
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "rule_id": "08-49",
+  "rule_slug": "雑談ネタ収集",
+  "title": {
+    "vi": "Sách/báo/TV để có vốn nói",
+    "ja": "雑談ネタ収集"
+  },
+  "rule_context": {
+    "luan_diem_vi": "雑談 cần vốn (ネタ). 30 phút/tuần input = đủ kho 雑談 1 tuần. 5 nguồn chính: NHK / 日経 / Yahoo ranking / 47News / TV bangumi.",
+    "luan_diem_ja": "雑談はネタが命。週30分で1週間分のネタ確保。NHK・日経・Yahoo!ランキング・47News・TVが5本柱。",
+    "boi_canh_vi": "Tham khảo. 1 ví dụ apply NHK input + breakdown 5 nguồn + routine 30 phút/tuần.",
+    "boi_canh_ja": "参考。1.NHK情報の活用例、5本柱のbreakdown、週30分ルーチン。",
+    "muc_tieu_vi": "Build routine 30 phút/tuần input để có vốn 雑談 stable."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "47",
+      "topic": "Topic GOLD"
+    },
+    {
+      "book": "08",
+      "rule": "50",
+      "topic": "Memory bank"
+    },
+    {
+      "book": "08",
+      "rule": "20",
+      "topic": "Tin tức quốc tế"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NHK ニュース",
+      "url": "nhk.or.jp/news/",
+      "freq": "Daily 5min",
+      "note": "Topic an toàn, vocab chuẩn"
+    },
+    {
+      "name": "日経新聞",
+      "url": "nikkei.com",
+      "freq": "Weekly 15min",
+      "note": "Business + economy senior đọc"
+    },
+    {
+      "name": "Yahoo!Japan ranking",
+      "url": "news.yahoo.co.jp/ranking",
+      "freq": "Daily 3min",
+      "note": "What everyone talking today"
+    },
+    {
+      "name": "47News regional",
+      "url": "47news.jp",
+      "freq": "Weekly per prefecture",
+      "note": "Match khách quê"
+    },
+    {
+      "name": "TV bangumi",
+      "url": "Twitter/X ブラタモリ・鶴瓶の家族に乾杯",
+      "freq": "Weekly",
+      "note": "Senior topic, regional culture"
+    },
+    {
+      "name": "天気予報JP",
+      "url": "Yahoo 天気",
+      "freq": "Pre-meeting",
+      "note": "Check quê khách"
+    },
+    {
+      "name": "Tabelog",
+      "url": "tabelog.com",
+      "freq": "As needed",
+      "note": "Trends quán mới Tokyo"
+    },
+    {
+      "name": "Sumo日程",
+      "url": "sumo.or.jp",
+      "freq": "場所 trước 1 tuần",
+      "note": "Senior 50t+ mê"
+    },
+    {
+      "name": "NPB sport",
+      "url": "npb.jp",
+      "freq": "Weekly",
+      "note": "Match team theo quê"
+    },
+    {
+      "name": "NHK 大河ドラマ",
+      "url": "nhk.or.jp/taiga",
+      "freq": "Weekly",
+      "note": "Senior fan"
+    }
+  ],
+  "weekly_routine": [
+    {
+      "day": "Mon AM",
+      "duration": "5min",
+      "task": "NHK News app — top 5 headlines, screenshot 1 fact"
+    },
+    {
+      "day": "Wed AM",
+      "duration": "15min",
+      "task": "日経 news — business top 3 + ngành khách"
+    },
+    {
+      "day": "Fri AM",
+      "duration": "5min",
+      "task": "47News check quê khách thân"
+    },
+    {
+      "day": "Sun PM",
+      "duration": "5min",
+      "task": "Yahoo ranking + TV bangumi recap"
+    }
+  ],
+  "weekly_template_md": "# 今週ネタ — Week of YYYY-MM-DD\n\n## Weather\n- Sapporo 12cm 積雪 (NHK 11/X)\n- Tokyo 紅葉見頃 (Yahoo 11/X)\n\n## Business\n- 自動車業界、半導体不足解消 (日経 11/X)\n\n## Sport\n- 広島カープ、ドラフト1位 [選手名] (47News 11/X)\n\n## Culture/Seasonal\n- 紅葉狩り、京都嵐山ピーク (NHK 11/X)\n\n## TV bangumi this week\n- ブラタモリ「奈良の興福寺」(NHK 土曜)",
+  "conversations": [
+    {
+      "scenario": "Apply NHK input vào zoom call Hokkaido",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "中村CFO、ニュースで見たんですが、札幌、観測史上最も早い積雪だそうですね。お変わりありませんか?",
+          "vi": "Anh Nakamura, em xem tin thấy Sapporo có tuyết sớm nhất trong lịch sử quan trắc. Anh vẫn ổn chứ ạ?"
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "えっ、知ってるの?ズンさん、本当によく勉強してる。今朝12センチでね、家の前雪かきが大変。",
+          "vi": "Ơ, em biết à? Dũng học hỏi thật kỹ. Sáng nay 12cm, xúc tuyết trước nhà mệt phờ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "12センチ!ハノイだったら大ニュースです。まだ11月なのに大変ですね。",
+          "vi": "12cm! Ở HN là tin lớn ạ. Mới 11 mà đã vậy, vất vả nhỉ."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "11月でこれは異常やね。雪まつりも雪は問題なさそうやけど、来月のフェーズ5のキックオフ、ハノイで助かるよ(笑)",
+          "vi": "Tháng 11 mà vậy là bất thường. Lễ hội tuyết chắc OK rồi, nhưng kickoff Phase 5 tháng sau ở HN — cứu anh đó (cười)"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ハノイでお迎えします、暖かくしておきます(笑)",
+          "vi": "Em đón anh ở HN, sẽ giữ ấm cho anh (cười)"
+        }
+      ]
+    },
+    {
+      "scenario": "Apply 47News + Sport vào dinner Hiroshi",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "広島さん、47Newsで見たんですが、広島カープ、ドラフトで地元の高校生1位指名だそうですね!",
+          "vi": "Anh Hiroshi, em đọc 47News thấy Hiroshima Carp draft sinh viên cấp 3 quê nhà ở vị trí số 1!"
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "おっ!知ってるんか!地元の広陵高校の選手やね。来年が楽しみや。",
+          "vi": "Ồ! Em biết à! Là học sinh trường Koryo địa phương đó. Năm sau anh chờ đợi."
+        },
+        {
+          "speaker": "zun",
+          "ja": "広陵高校、伝統校ですよね。来年マツダスタジアムで活躍する姿、楽しみですね。",
+          "vi": "Trường Koryo, trường truyền thống nhỉ. Năm sau xem cậu ấy chơi ở Mazda Stadium mong lắm."
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "ズン、本当に勉強しとるな。今度マツダスタジアム連れてくわ!",
+          "vi": "Dũng, em chịu khó học thật. Lần sau tôi dẫn em đến Mazda Stadium!"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "NHK",
+      "ja": "ニュースで見たんですが、[地名]、[topic]だそうですね。",
+      "vi": "Em xem tin thấy [địa danh] [topic] nhỉ.",
+      "use": "Mở topic"
+    },
+    {
+      "category": "NHK",
+      "ja": "[topic]、大変ですね。お変わりありませんか?",
+      "vi": "[Topic], vất vả nhỉ. Anh vẫn ổn chứ ạ?",
+      "use": "Care concern"
+    },
+    {
+      "category": "NHK bridge",
+      "ja": "ハノイのニュースでも[topic]が話題になってます。",
+      "vi": "Tin HN cũng đề cập [topic] đó.",
+      "use": "Bridge JP-VN"
+    },
+    {
+      "category": "日経",
+      "ja": "日経で見たんですが、[業界]、[trend]ですね。御社にも影響ありますか?",
+      "vi": "Em đọc Nikkei thấy [ngành] [trend]. Bên anh có ảnh hưởng không ạ?",
+      "use": "Business depth"
+    },
+    {
+      "category": "47News",
+      "ja": "47Newsで見たんですが、[地名]、[regional news]だそうですね。",
+      "vi": "Em đọc 47News thấy [địa danh] [tin].",
+      "use": "Match quê khách"
+    },
+    {
+      "category": "Sport",
+      "ja": "[Team]、[最近のニュース]、見ました!",
+      "vi": "[Đội] vừa có [tin], em xem rồi!",
+      "use": "Mở sport"
+    },
+    {
+      "category": "TV",
+      "ja": "ブラタモリの[最近の回]、見られました?",
+      "vi": "Buratamori tập [gần đây] anh xem chưa?",
+      "use": "Senior topic"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "週30分の入力で雑談ネタを充実させる時、最初に押さえるべき2つの情報源は?",
+      "options": [
+        "A. 漫画とアニメ",
+        "B. NHKニュース(日次5分)+ 日経新聞(週15分)",
+        "C. SNSの個人投稿",
+        "D. ベトナム語のサイトのみ"
+      ],
+      "answer": "B",
+      "explain_vi": "NHK = topic an toàn vocab chuẩn / 日経 = business depth senior đọc. A nhánh hẹp; C unverified; D miss JP context."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "NHKで読んだ『観測史上最も早い積雪』をHokkaido出身のお客様に話す時の最適な切り出しは?",
+      "options": [
+        "A. 「Hokkaidoは寒いですね」と generic に振る",
+        "B. 「ニュースで見たんですが、札幌、観測史上最も早い積雪だそうですね。お変わりありませんか?」と vocab+ care",
+        "C. 自分の意見を長く語る",
+        "D. ベトナムの天気を長く話す"
+      ],
+      "answer": "B",
+      "explain_vi": "Exact NHK vocab + care concern → đẳng cấp 'biết Nhật thật'. A flat; C self-talk; D miss audience."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "1回の雑談で、ニュースから引用するfact数として最適なのは?",
+      "options": [
+        "A. 5-7個",
+        "B. 1-2個",
+        "C. 0個",
+        "D. 10個以上"
+      ],
+      "answer": "B",
+      "explain_vi": "1-2 fact = vừa đủ + audience nhớ. A khoe; C miss cơ hội; D arrogant."
+    }
+  ],
+  "templates": []
+}

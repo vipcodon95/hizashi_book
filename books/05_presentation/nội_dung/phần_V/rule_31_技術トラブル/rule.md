@@ -1,0 +1,81 @@
+# Rule 31 — Tech failure recovery / 技術トラブル復旧
+
+> **Luận điểm.** Khi projector chết / internet down / Zoom freeze giữa pitch — **3-step recovery**: ① **Acknowledge bình tĩnh** (5 giây): "申し訳ございません、技術トラブルが発生しております" ② **Switch nhanh sang Plan B** (Plan B đã prep ở rule 07: PDF backup, mobile hotspot, paper handout) ③ **Entertain** (verbal ngay phần next slide) trong khi recover. Tuyệt đối **không panic** trên mặt — khán giả Nhật xem panic = "cty không reliable trong production crisis".
+>
+> 技術トラブルは acknowledge (5秒で) → switch Plan B → entertain (verbal で次 slide 内容を語る) の3ステップ。Panic 表情は『本番障害も同じ』と暗示。
+>
+> **Liên quan:** rule 07 (Plan B), rule 29 (online), rule 30 (hybrid).
+
+---
+
+## Bối cảnh / 場面
+
+Pitch Phase 3 phút 12. Đang share slide 8 (pricing) — đột nhiên cty 白鷗 cúp internet building-wide. Zoom freeze, projector hiện "no signal". 大垣 + 田中 trong phòng nhìn Dũng. 松本 online → màn hình Dũng cứng đơ.
+
+---
+
+## ❌ Hội thoại XẤU — panic + lê thê silence
+
+*thấy projector mất, panic mặt · loay hoay 30 giây, IT helpdesk gọi · 60s sau · 暗い silence 2 phút trong khi Dũng tìm file*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「あ、あ、画面が…えっ、ネット…えっ…」 |
+| **ズン** | 「すみません、ちょっと…IT 確認してます…」 |
+| **大垣** | 「PDFは無いんですか？」 |
+| **ズン** | 「あ、PDF…あります、メール送りますね…」 |
+
+**Vì sao xấu:** Panic mặt → khán giả thấy "presenter không cool under pressure". 60 giây silence → time over chắc chắn. Không có Plan B sẵn → 大垣 phải nhắc PDF → impression "cty không có backup plan".
+
+---
+
+## ✅ Hội thoại TỐT — 3-step crisis recovery
+
+*projector mất, 3 giây deep breath, voice steady · rút USB, ra USB-C HDMI dongle, plug local — đã prep · co-presenter, gọi mobile hotspot · không có slide hiện, vẫn verbal · 45 giây sau*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「**申し訳ございません、ネットワークトラブルが発生しております**【1】。**5秒で復旧手順に切り替え** させていただきます。」 — Acknowledge |
+| **ズン** | 「**ローカル PDF に切替中** です。同時にお手元の **印刷ハンドアウト** もご確認いただけますでしょうか【2】。」 — Switch Plan B |
+| **トゥアン** | 「松本様、ハー CTO、**モバイルテザリング** で Zoom 再接続いたします。30秒お待ちください。」 |
+| **ズン** | 「**復旧中ですが、内容を進めさせていただきます**【3】。スライド8 の価格内訳ですが、Phase 3 1200万円の内訳は ①開発工数 720万、②ライセンス 280万、③運用初年度 200万。ハンドアウト 5ページ目に表がございます。」 — Entertain verbal |
+| **トゥアン** | 「Zoom 復活、画面共有 OK です。」 |
+| **ズン** | 「ありがとうございます。**ご迷惑をおかけし、申し訳ございませんでした**。続きスライド9 から進めさせていただきます。」 |
+
+📝 **Ghi chú:**
+- 【1】**「申し訳ございません、〜トラブルが発生しております」** — formal acknowledge. NHẤN 5 giây deep breath trước → voice steady. Không "あ、あ、えっ…".
+- 【2】**Plan B đã prep**: ① PDF USB ② printed handout ③ mobile hotspot. Rule 07 quy định, rule 31 thực thi.
+- 【3】**「復旧中ですが、内容を進めさせていただきます」** — KHÔNG dừng pitch. Verbal pitch tiếp trong khi co-presenter recover. Audience thấy presenter "production-ready".
+
+---
+
+## 🎯 Câu chốt
+
+> **Acknowledge 5s ("申し訳ございません、〜トラブル") → Switch Plan B (PDF / handout / hotspot) → Entertain verbal trong khi recover.**
+>
+> *Panic mặt = "không reliable production crisis". 3 step có script sẵn = control under pressure.*
+
+---
+
+## ⚠ Tránh
+
+- "あ、あ、えっ…" panic verbal → audience đọc nervous trên mặt
+- Loay hoay > 30s silence → time over + impression "không có plan"
+- "誰か助けて〜" gọi IT helpdesk lớn → unprofessional
+- Không có Plan B → presenter biết mình không backup
+- Đổ lỗi infra ("白鷗のネットが…") → blame client = mất face khách
+- Skip slide remaining vì panic → pitch lỡ kết quả
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 復旧 | ふっきゅう | Recovery / phục hồi |
+| トラブル | toraburu | Trouble / sự cố |
+| 切替 | きりかえ | Switch / chuyển |
+| ハンドアウト | handoauto | Handout |
+| テザリング | tezaringu | Tethering |
+| お騒がせ | おさわがせ | Phiền hà / xáo trộn |
+| 内訳 | うちわけ | Phân tích chi tiết |

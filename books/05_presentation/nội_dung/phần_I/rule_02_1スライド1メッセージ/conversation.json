@@ -1,0 +1,162 @@
+{
+  "rule_id": "rule_02",
+  "rule_slug": "1スライド1メッセージ",
+  "title": {
+    "ja": "1スライド1メッセージ",
+    "vi": "Quy tắc 1-slide-1-message"
+  },
+  "rule_context": {
+    "ja": "ズンが Phase 3 プレゼンの15枚 draft をフオン副部長にレビューしてもらう場面。タイトルが全部「〜について」型 → 結論型に書き直す。",
+    "vi": "Dũng share draft 15 slide cho chị Hương review. Title đều kiểu 「〜について」 (chỉ là chủ đề) → phải sửa sang dạng kết luận."
+  },
+  "related_rules": ["rule_01", "rule_03", "rule_06"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — タイトルがテーマ",
+      "label_vi": "XẤU — Title chỉ là chủ đề",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「〜について」型タイトルはテーマしか伝えない。聴衆は3秒で結論を取れず、本文を読みに行く負担が発生。",
+        "vi": "Title 「〜について」 chỉ truyền chủ đề. Khán giả không đọc được kết luận trong 3 giây, phải đọc body → tăng tải."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_02_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、スライド10枚に絞りました。タイトルご確認ください。",
+          "sentence_translation": "Chị Hương, em đã rút xuống còn 10 slide. Phiền chị xem qua title giúp em ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_02_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "『Phase 3 について』『システム構成について』… 全部『〜について』？それテーマでしょう？で、結局何が言いたいの？",
+          "sentence_translation": "「Phase 3 について」「Cấu hình hệ thống について」... toàn 「〜について」 hết? Đó là chủ đề mà? Cuối cùng em muốn nói gì?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_02_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと…Phase 3 ではこれをやるという…",
+          "sentence_translation": "Ờ... ý em là Phase 3 sẽ làm cái này...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_02_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "だから『何を』をタイトルに書く。1スライド1メッセージ。タイトル＝結論。聴衆はタイトルだけ見て分かるべき。",
+          "sentence_translation": "Đó, viết 『cái gì』 vào title. Một slide một message. Title = kết luận. Khán giả chỉ nhìn title là phải hiểu.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — タイトル＝結論、本文＝根拠3点",
+      "label_vi": "TỐT — Title = kết luận, body = 3 luận cứ",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_02_good_01",
+          "highlight_text": "結論型に書き直しました",
+          "ja": "「〇〇により××を△△に改善」「〇〇により××%削減」のように動詞＋数字を入れた結論型タイトル。",
+          "vi": "Title kiểu kết luận: 「nhờ 〇〇 cải thiện ×× sang △△」「nhờ 〇〇 giảm ××%」. Có động từ + số là mạnh nhất."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_02_good_03",
+          "highlight_text": "根拠3点",
+          "ja": "本文は3点に絞る。3 ± 1 が認知負荷の上限。それ以上は別スライドへ。",
+          "vi": "Body giới hạn 3 luận cứ. 3 ± 1 là trần tải nhận thức. Nhiều hơn thì tách slide."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_02_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、タイトルを全部結論型に書き直しました。10枚お願いします。",
+          "sentence_translation": "Chị Hương, em đã sửa toàn bộ title sang dạng kết luận ạ. Phiền chị review 10 slide giúp em.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_02_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "『Phase 3 で在庫差異を月平均5%→1%に削減』… うん、これならタイトルだけ読めば結論が分かる。本文は何？",
+          "sentence_translation": "「Phase 3 giảm sai lệch tồn kho từ 5%/tháng xuống 1%」... ờ, thế này chỉ cần đọc title là hiểu kết luận. Body em viết gì?",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_02_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本文は根拠3点だけ書きました。在庫管理ロジック、リアルタイム同期、アラート機構の3つです。",
+          "sentence_translation": "Body em chỉ viết 3 luận cứ ạ. Logic quản lý tồn kho, đồng bộ realtime, cơ chế alert — ba điểm đó ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_02_good_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "いいね。1枚で1メッセージ＋根拠3点。これが基本フォーマット。残り9枚も同じパターンで通して。",
+          "sentence_translation": "Tốt. 1 slide 1 message + 3 luận cứ. Đó là format chuẩn. 9 slide còn lại em làm cùng pattern luôn.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_02_kp_01",
+      "speaker": "zun",
+      "sentence": "タイトルを全部結論型に書き直しました。",
+      "sentence_translation": "Em đã sửa toàn bộ title sang dạng kết luận ạ.",
+      "purpose": "結論型タイトルへの書き直し報告",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_02_kp_02",
+      "speaker": "zun",
+      "sentence": "本文は根拠3点だけに絞りました。",
+      "sentence_translation": "Body em chỉ rút lại còn 3 luận cứ ạ.",
+      "purpose": "本文の3点絞り込み報告",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_02_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "1スライド1メッセージのルールに最も合うタイトルはどれ？",
+      "options": [
+        "Phase 3 について",
+        "在庫管理システムの概要",
+        "Phase 3 で在庫差異を月平均5%→1%に削減",
+        "今後の課題と展望"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "結論＋数字＋動詞が入ったタイトルがベスト。「〜について」「〜の概要」はテーマであって結論ではない。",
+        "vi": "Title có kết luận + số + động từ là tốt nhất. 「〜について」「〜の概要」 chỉ là chủ đề, không phải kết luận."
+      }
+    }
+  ]
+}

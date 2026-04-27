@@ -1,0 +1,96 @@
+{
+  "rule_id": "rule_57",
+  "rule_slug": "電話会議で発言を取る",
+  "title": {
+    "ja": "電話会議で発言を取る",
+    "vi": "Take floor in conference call — interrupt khéo"
+  },
+  "rule_context": {
+    "ja": "前話者の発言終了後、ズンが発言を取りに行く場面。『恐れ入ります』＋名乗りで割り込まずに floor を取る。",
+    "vi": "Sau khi người trước nói xong, em Dũng xin phát biểu. Dùng 「恐れ入ります」 + tự xưng để xin lượt."
+  },
+  "related_rules": [
+    "rule_52",
+    "rule_54"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "前話者の文末『〜と言えるでしょう』を待ってから割り込む。『発言よろしいでしょうか』で許可取得型。",
+        "vi": "Đợi người trước kết thúc 「〜と言えるでしょう」 rồi xen vào. Hỏi 「発言よろしいでしょうか」 = xin phép."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_57_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ということで、現状のロードマップは順調と言えるでしょう。",
+          "sentence_translation": "Như vậy, có thể nói roadmap hiện tại đang tiến triển tốt.",
+          "tone": "formal",
+          "pause_after_ms": 800
+        },
+        {
+          "line_id": "rule_57_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "恐れ入ります、ティエンファットのズンです。発言よろしいでしょうか？",
+          "sentence_translation": "Em xin lỗi, em Dũng bên Thiên Phát ạ. Em xin phát biểu được không ạ?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_57_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "はい、ズンさんどうぞ。",
+          "sentence_translation": "Vâng, Dũng phát biểu đi.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_57_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ロードマップの第3四半期の項目について、追加でご相談したい点がございます。",
+          "sentence_translation": "Về mục quý 3 trong roadmap, em có 1 điểm muốn trao đổi thêm ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_57_kp_01",
+      "speaker": "zun",
+      "sentence": "恐れ入ります、〇〇のズンです。発言よろしいでしょうか？",
+      "sentence_translation": "Em xin lỗi, em Dũng bên 〇〇 ạ. Em xin phát biểu được không ạ?",
+      "purpose": "発言取得の標準フレーズ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_57_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "オンライン会議で発言を取る時の最良の方法は？",
+      "options": [
+        "前話者を遮る",
+        "前話者の文末を待ち『恐れ入ります』で許可を取る",
+        "黙って発言開始",
+        "チャットだけ"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "前話者を尊重し許可取得型で発言する。",
+        "vi": "Tôn trọng người trước, xin phép trước khi nói."
+      }
+    }
+  ]
+}

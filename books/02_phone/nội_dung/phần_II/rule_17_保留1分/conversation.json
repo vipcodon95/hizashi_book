@@ -1,0 +1,38 @@
+{
+  "rule_id": "rule_17",
+  "rule_slug": "保留は1分以内",
+  "title": {"ja": "保留は1分以内", "vi": "Hold tối đa 1 phút"},
+  "rule_context": {
+    "ja": "保留が1分を超えそうな場合、一度ラインに戻り折り返しを提案するのがマナー。",
+    "vi": "Khi hold sắp quá 1 phút, quay lại line xin lỗi và đề xuất gọi lại là chuẩn lịch sự."
+  },
+  "related_rules": ["rule_15", "rule_36"],
+  "conversations": [{
+    "section": "good_example", "label_ja": "良い例", "label_vi": "TỐT", "display_order": 1,
+    "sfx_intro": "phone_ring",
+    "analysis": {
+      "ja": "保留50秒で一旦戻り、折り返しを提案。相手の時間を尊重する姿勢が伝わる。",
+      "vi": "Hold 50 giây thì quay lại đề xuất gọi lại — thể hiện tôn trọng thời gian của khách."
+    },
+    "conversation_lines": [
+      {"line_id": "rule_17_good_01", "speaker": "zun", "speaker_role": "BD担当", "gender": "male", "sentence": "確認いたしますので、少々お待ちいただけますでしょうか。", "sentence_translation": "Em xin phép kiểm tra một chút, anh giữ máy giúp em được không ạ?", "tone": "formal"},
+      {"line_id": "rule_17_good_02", "speaker": "zun", "speaker_role": "BD担当", "gender": "male", "sentence": "お待たせいたしまして大変申し訳ございません。確認にもうしばらく時間がかかりそうでございますので、こちらから折り返しお電話差し上げてもよろしいでしょうか。", "sentence_translation": "Xin lỗi anh vì đã để đợi lâu ạ. Việc kiểm tra cần thêm thời gian, em xin phép gọi lại cho anh sau, được không ạ?", "tone": "apologetic", "speed_multiplier": 0.95}
+    ]
+  }],
+  "key_phrases": [{
+    "phrase_id": "rule_17_kp_01", "speaker": "zun",
+    "sentence": "お待たせいたしまして大変申し訳ございません。折り返しお電話差し上げてもよろしいでしょうか。",
+    "sentence_translation": "Xin lỗi đã để anh đợi lâu. Em xin phép gọi lại sau được không ạ?",
+    "purpose": "保留長引いた時の標準対応", "slow_audio": true
+  }],
+  "bjt_practice": [{
+    "question_id": "rule_17_bjt_01", "level": "J3", "skill": "場面把握",
+    "question_ja": "保留が1分を超えそうな時、最も適切なのは？",
+    "options": ["そのまま待たせ続ける", "一旦戻り折り返しを提案", "電話を切る", "他の人に代わる"],
+    "correct": "B",
+    "explanation": {
+      "ja": "1分超過しそうなら必ず一度戻る。相手の時間を尊重するのが基本マナー。",
+      "vi": "Quá 1 phút phải quay lại line. Tôn trọng thời gian của đối phương là nguyên tắc cơ bản."
+    }
+  }]
+}

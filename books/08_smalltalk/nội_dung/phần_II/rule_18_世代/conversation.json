@@ -1,0 +1,157 @@
+{
+  "rule_id": "rule_18",
+  "rule_slug": "世代の話題",
+  "title": {
+    "vi": "Generation references",
+    "ja": "世代の話題"
+  },
+  "rule_context": {
+    "ja": "ズンが4世代に対して文化的referenceを使い分ける場面 — Sato 60t(昭和歌謡)、Hiroshi 50t(バブル)、Tanaka 35t(平成ゲーム/アニメ)、Linh 22t(令和Z世代Vtuber)。",
+    "vi": "Dũng xoay reference theo 4 thế hệ — Sato 60t (showa), Hiroshi 50t (bubble), Tanaka 35t (heisei), Linh 22t (reiwa)."
+  },
+  "related_rules": ["rule_17", "rule_19", "rule_44"],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "昭和歌謡 — Sato senior",
+      "label_vi": "Showa music — Sato senior",
+      "display_order": 1,
+      "context": {
+        "ja": "ディナーで昭和歌謡の話題に。Sato 60代がノスタルジックに。",
+        "vi": "Dinner. Sato 60t kể nostalgic về Showa music."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_18_good_01", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "ズンさん、最近の若い人は昭和の歌、知らんやろ?", "sentence_translation": "Dũng, dạo này người trẻ chắc không biết nhạc Showa nhỉ?", "tone": "warm"},
+        {"line_id": "rule_18_good_02", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "実は最近、山口百恵を聞いて感動しました。いい日旅立ち、名曲ですね。", "sentence_translation": "Thật ra gần đây em nghe Yamaguchi Momoe, cảm động lắm. 'Ii Hi Tabidachi' là bài hay.", "tone": "warm"},
+        {"line_id": "rule_18_good_03", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "百恵ちゃん!?ズンさん、何歳?(笑)俺らの世代の女神よ。夜のヒットスタジオ、毎週見てたわ。", "sentence_translation": "Momoe-chan!? Em mấy tuổi đó (cười). Là nữ thần thế hệ anh. 'Yoru no Hit Studio' anh xem mỗi tuần.", "tone": "cheerful"},
+        {"line_id": "rule_18_good_04", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "松田聖子・中森明菜・ピンクレディーも…YouTubeで勉強しました。カラオケでLindaよく歌います。", "sentence_translation": "Cả Matsuda Seiko, Nakamori Akina, Pink Lady... em học qua YouTube. Karaoke em hay hát Linda.", "tone": "cheerful"},
+        {"line_id": "rule_18_good_05", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "Linda!?Linda Lindaやろ?ザ・ブルーハーツ、これも昭和末期のヒット。次回カラオケ、一緒に歌おう!", "sentence_translation": "Linda!? Linda Linda hả? The Blue Hearts, hit cuối Showa. Lần sau karaoke cùng hát nhé!", "tone": "cheerful"},
+        {"line_id": "rule_18_good_06", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "長渕剛も気になっていて…乾杯って、結婚式の定番なんですよね?", "sentence_translation": "Em cũng tò mò Nagabuchi Tsuyoshi... 'Kanpai' là bài đám cưới đúng không ạ?", "tone": "warm"},
+        {"line_id": "rule_18_good_07", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "そう、結婚式とお別れ会、両方で歌う(笑)。ズンさん、本当によく勉強しとる。次回、昭和歌謡カラオケ店、博多で行こう。", "sentence_translation": "Đúng, đám cưới với chia tay đều hát (cười). Dũng học kỹ thật. Lần sau anh dẫn đi quán karaoke nhạc Showa ở Hakata.", "tone": "warm"},
+        {"line_id": "rule_18_good_08", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "ぜひ!北島三郎まで行ったら本物ですね。", "sentence_translation": "Vâng! Vào đến Kitajima Saburō là dân thứ thiệt nhỉ.", "tone": "cheerful"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "バブル世代 — Hiroshi 50t",
+      "label_vi": "Bubble era — Hiroshi 50t",
+      "display_order": 2,
+      "context": {
+        "ja": "ディナー、バブル経済の話題。Hiroshi自身の若手社員時代を回想。",
+        "vi": "Dinner. Hiroshi nhớ lại thời kỳ làm nhân viên mới giai đoạn bubble."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_18_good_09", "speaker": "hiroshi_chugoku", "speaker_role": "関西支店長 白鷗", "gender": "male", "sentence": "ズンさん、バブル経済って知ってる?86〜91年、日本が一番元気だった時代。", "sentence_translation": "Dũng có biết bubble economy không? 86-91, thời kỳ Nhật mạnh nhất.", "tone": "warm"},
+        {"line_id": "rule_18_good_10", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "ジュリアナ東京とか、ボディコンとか、本でよく読みました。地価が東京で世界一だった時期ですよね?", "sentence_translation": "Juliana's Tokyo, body con... em đọc trong sách nhiều. Đó là thời địa giá Tokyo top thế giới đúng không ạ?", "tone": "warm"},
+        {"line_id": "rule_18_good_11", "speaker": "hiroshi_chugoku", "speaker_role": "関西支店長 白鷗", "gender": "male", "sentence": "そうそう、山手線一周分の土地でアメリカ全土が買えるって言われた(笑)。当時俺、新入社員で、タクシーが捕まらないから1万円札振って捕まえてた。", "sentence_translation": "Đúng đúng, có câu 'đất một vòng Yamanote mua được cả Mỹ' (cười). Hồi đó anh mới vào công ty, taxi khó bắt nên vẫy tờ 10,000 yên.", "tone": "cheerful"},
+        {"line_id": "rule_18_good_12", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "1万円札!?都市伝説じゃなかったんですね。", "sentence_translation": "Tờ 10,000 yên!? Không phải truyền thuyết đô thị nhỉ.", "tone": "cheerful"},
+        {"line_id": "rule_18_good_13", "speaker": "hiroshi_chugoku", "speaker_role": "関西支店長 白鷗", "gender": "male", "sentence": "実話よ(笑)。ディスコ・お立ち台、カラオケボックス急増、ハイヤーで帰宅。フジテレビの月9ドラマが流行作った時代。", "sentence_translation": "Chuyện thật (cười). Disco với otaribu, karaoke box bùng nổ, đi taxi sang về. Drama 9 tối thứ 2 Fuji TV tạo trend.", "tone": "warm"},
+        {"line_id": "rule_18_good_14", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "東京ラブストーリー・101回目のプロポーズ、見ました!鈴木保奈美さん、綺麗ですね。", "sentence_translation": "Tokyo Love Story với 101st Proposal em xem rồi! Suzuki Honami đẹp nhỉ.", "tone": "cheerful"},
+        {"line_id": "rule_18_good_15", "speaker": "hiroshi_chugoku", "speaker_role": "関西支店長 白鷗", "gender": "male", "sentence": "ズンさん、月9まで知ってるか!?当時の流行歌、サザン・ユーミン・チャゲアス…全部聴いた?", "sentence_translation": "Biết cả Getsuku!? Nhạc thời đó — Southern, Yuming, Chage&Aska... em nghe hết à?", "tone": "cheerful"},
+        {"line_id": "rule_18_good_16", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "サザンはTSUNAMIから入りました。ユーミンも少しずつ。", "sentence_translation": "Southern em bắt đầu từ TSUNAMI. Yuming cũng đang nghe dần.", "tone": "warm"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "平成世代 — Tanaka 35t game/anime",
+      "label_vi": "Heisei — Tanaka 35t game/anime",
+      "display_order": 3,
+      "context": {
+        "ja": "Slack。Tanakaがポケモンmemeを共有、ズンと盛り上がる。",
+        "vi": "Slack. Tanaka share meme Pokemon, Dũng vào trao đổi."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_18_good_17", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "最近ポケモンSVやっとる?", "sentence_translation": "Dạo này có chơi Pokemon SV không?", "tone": "casual"},
+        {"line_id": "rule_18_good_18", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "やってます!ミライドンで出発、最近DLCの藍の円盤もクリア。田中さんは?", "sentence_translation": "Có chơi! Em chọn Miraidon, mới clear cả DLC 'Indigo Disk'. Anh thì sao?", "tone": "casual"},
+        {"line_id": "rule_18_good_19", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "俺、初代から(笑)。赤緑、ゲームボーイの世代。今の子はSwitchしか知らないけど。", "sentence_translation": "Anh từ thế hệ đầu (cười). Pokemon Đỏ/Xanh, Gameboy. Trẻ con bây giờ chỉ biết Switch.", "tone": "casual"},
+        {"line_id": "rule_18_good_20", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "初代赤緑!151匹の世代ですね。私は金銀からです。", "sentence_translation": "Đỏ Xanh đời đầu! Thế hệ 151 con đó. Em từ Vàng Bạc.", "tone": "casual"},
+        {"line_id": "rule_18_good_21", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "金銀!?ズンさん、平成世代だよね、世代分かるわ(笑)。あとエヴァ見てる?シン・エヴァで完結したけど…", "sentence_translation": "Vàng Bạc!? Em là thế hệ Heisei nhỉ, biết liền (cười). Eva có xem không? Shin Eva kết thúc rồi đó...", "tone": "cheerful"},
+        {"line_id": "rule_18_good_22", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "シン・エヴァ、号泣しました。碇シンジが大人になる過程が…", "sentence_translation": "Shin Eva em khóc. Quá trình Ikari Shinji trưởng thành...", "tone": "warm"},
+        {"line_id": "rule_18_good_23", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "そこ分かってる!?あとドラゴンボール / 幽遊白書 / スラムダンク、平成3大ジャンプは外せない。", "sentence_translation": "Hiểu chỗ đó luôn!? Rồi Dragon Ball, Yu Yu Hakusho, Slam Dunk — Big 3 Jump Heisei không thể bỏ qua.", "tone": "cheerful"},
+        {"line_id": "rule_18_good_24", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "スラムダンク、最近の映画The First Slam Dunkで再ブームですよね。", "sentence_translation": "Slam Dunk gần đây có phim The First Slam Dunk làm lại trend nhỉ.", "tone": "warm"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "令和Z世代 — Linh 22t & Tanaka",
+      "label_vi": "Reiwa Gen Z — Linh 22t",
+      "display_order": 4,
+      "context": {
+        "ja": "ZoomでLinhがTanakaに『推し』『Vtuber』の話題を出す。世代差を体感。",
+        "vi": "Zoom, Linh nói 'oshi' 'Vtuber' với Tanaka. Cảm nhận khác biệt thế hệ."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_18_good_25", "speaker": "linh", "speaker_role": "Marketing intern ティエンファット", "gender": "female", "sentence": "田中さん、推しとかありますか?", "sentence_translation": "Anh Tanaka có 'oshi' không ạ?", "tone": "casual"},
+        {"line_id": "rule_18_good_26", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "推し!?最近の言葉だね(笑)。アイドルで誰かファンってこと?", "sentence_translation": "Oshi!? Từ gần đây nhỉ (cười). Là fan của idol nào đó à?", "tone": "casual"},
+        {"line_id": "rule_18_good_27", "speaker": "linh", "speaker_role": "Marketing intern ティエンファット", "gender": "female", "sentence": "アイドルだけじゃなくて、Vtuberとかでも。私はホロライブの白上フブキ推しで、スパチャも投げてます。", "sentence_translation": "Không chỉ idol, cả Vtuber nữa ạ. Em oshi Shirakami Fubuki của Hololive, cũng có ném super chat.", "tone": "cheerful"},
+        {"line_id": "rule_18_good_28", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "Vtuber!分かるけど詳しくない。ホロライブは知ってる、バーチャルYouTuberでしょ。", "sentence_translation": "Vtuber! Biết nhưng không rành. Hololive thì biết, Virtual YouTuber.", "tone": "neutral"},
+        {"line_id": "rule_18_good_29", "speaker": "linh", "speaker_role": "Marketing intern ティエンファット", "gender": "female", "sentence": "最近はZ世代の中でTikTokで踊ってみた流行ってます。ニュージーンズとかLE SSERAFIMとかの曲で。", "sentence_translation": "Dạo này Gen Z TikTok hot trend 'dance cover'. Theo nhạc NewJeans với LE SSERAFIM.", "tone": "cheerful"},
+        {"line_id": "rule_18_good_30", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "もうおじさんにはついていけない世界(笑)。リンちゃん、SNS何使ってる?", "sentence_translation": "Thế giới chú không theo nổi nữa rồi (cười). Linh dùng SNS nào?", "tone": "cheerful"},
+        {"line_id": "rule_18_good_31", "speaker": "linh", "speaker_role": "Marketing intern ティエンファット", "gender": "female", "sentence": "Instagramメイン、TikTokもよく見ます。X (旧Twitter)は情報収集だけ。LINEは連絡用。", "sentence_translation": "Em chính là Instagram, hay xem TikTok. X (Twitter cũ) chỉ thu tin. LINE để liên lạc.", "tone": "cheerful"},
+        {"line_id": "rule_18_good_32", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "俺はFacebook+LINEだから、もう違う星だね。", "sentence_translation": "Anh thì Facebook + LINE, đúng là hành tinh khác rồi.", "tone": "casual"}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"phrase_id": "rule_18_kp_01", "speaker": "zun", "sentence": "[山口百恵/松田聖子]の歌、好きでよく聴きます。", "sentence_translation": "Em thích nhạc [Yamaguchi Momoe], hay nghe.", "purpose": "Showa nostalgia với senior 60t"},
+    {"phrase_id": "rule_18_kp_02", "speaker": "zun", "sentence": "[月9ドラマ]、東京ラブストーリー見ました。", "sentence_translation": "Drama [Getsuku], Tokyo Love Story em xem rồi.", "purpose": "バブル reference với 50t"},
+    {"phrase_id": "rule_18_kp_03", "speaker": "zun", "sentence": "[ポケモン/エヴァ/スラムダンク]、平成のbig three ですね。", "sentence_translation": "[Pokemon, Eva, Slam Dunk] là big 3 Heisei nhỉ.", "purpose": "Heisei reference với 30-40t"},
+    {"phrase_id": "rule_18_kp_04", "speaker": "linh", "sentence": "[推し]って、何ですか?", "sentence_translation": "[Oshi] là gì ạ?", "purpose": "Khi senior hỏi từ trẻ — không sợ hỏi"},
+    {"phrase_id": "rule_18_kp_05", "speaker": "zun", "sentence": "バブルの頃って、本当に元気だったんですね。", "sentence_translation": "Thời bubble đúng là hưng thịnh nhỉ.", "purpose": "Cùng nostalgic với senior bubble"},
+    {"phrase_id": "rule_18_kp_06", "speaker": "zun", "sentence": "[スラムダンク]、最近の映画で再ブームですよね。", "sentence_translation": "[Slam Dunk] gần đây có phim làm lại hot.", "purpose": "Bridge Heisei reference với current"}
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_18_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "60代senior(昭和世代)に最も響くreferenceは?",
+      "options": [
+        "A. NewJeansとTikTok",
+        "B. 山口百恵とザ・ブルーハーツ",
+        "C. ポケモンSV",
+        "D. ホロライブのVtuber"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "60代=昭和世代、A/Cは平成・令和、Dは令和Z世代。Bが昭和歌謡で完全合致。",
+        "vi": "60t = Showa. A/C = Heisei/Reiwa. D = Z gen. B chuẩn Showa."
+      }
+    },
+    {
+      "question_id": "rule_18_bjt_02",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「平成3年」は西暦何年ですか?",
+      "options": [
+        "A. 1989年",
+        "B. 1991年",
+        "C. 1993年",
+        "D. 2003年"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "平成元年=1989年、平成3年=1991年。元号変換は雑談で必須スキル。",
+        "vi": "Heisei 1 = 1989. Heisei 3 = 1991. Quy đổi 元号 = kỹ năng zatsudan."
+      }
+    },
+    {
+      "question_id": "rule_18_bjt_03",
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "「推し活」とは何ですか?",
+      "options": [
+        "A. 政治活動",
+        "B. 部活動",
+        "C. 好きなアイドル/キャラを応援する活動",
+        "D. ボランティア活動"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "Z世代の流行語。グッズ買い・ライブ参加・SNS発信などを含む。",
+        "vi": "Buzzword Z gen. Bao gồm mua merchandise, đi live, share SNS, ủng hộ idol/character yêu thích."
+      }
+    }
+  ],
+  "templates": []
+}

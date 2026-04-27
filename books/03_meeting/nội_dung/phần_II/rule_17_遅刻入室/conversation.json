@@ -1,0 +1,185 @@
+{
+  "rule_id": "rule_17",
+  "rule_slug": "遅れて入室する場合",
+  "title": {
+    "ja": "遅れて入室する場合",
+    "vi": "Khi đến muộn — vào họp giữa chừng"
+  },
+  "rule_context": {
+    "ja": "トゥアンが前の会議で押し10分遅刻。事前にSlack連絡済み。静かに入室、一言謝罪、速やかに着席。",
+    "vi": "Anh Tuấn bị kẹt buổi trước, trễ 10 phút. Đã báo trước qua Slack. Vào khẽ, 1 câu xin lỗi, ngồi nhanh."
+  },
+  "related_rules": [
+    "rule_06",
+    "rule_18",
+    "rule_38"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 入室時に進行を中断",
+      "label_vi": "XẤU — Vào ầm ĩ, làm gián đoạn",
+      "display_order": 1,
+      "analysis": {
+        "ja": "入室時に過剰謝罪、議題と資料ページを尋ねて進行を2〜3分止める。客の時間を無駄にする。",
+        "vi": "Vào xin lỗi quá đà + hỏimục và page → cắt mạch 2-3 phút của cả phòng."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_17_bad_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "すみませんすみません！前の会議が長引いて…えーと、今どこの議題ですか？資料は何ページ？",
+          "sentence_translation": "Xin lỗi xin lỗi! Buổi họp trước nó dài quá... ờ, đangmục nào thế? Tài liệu trang mấy?",
+          "tone": "apologetic",
+          "speed_multiplier": 1.05
+        },
+        {
+          "line_id": "rule_17_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "議題1の進捗報告の最後で…",
+          "sentence_translation": "Đangmục 1 phần cuối báo cáo tiến độ ạ...",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_17_bad_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "あ、でもさっき自分が報告する話、もう終わってます？",
+          "sentence_translation": "À nhưng phần em báo cáo lúc nãy xong rồi à?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_17_bad_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "（時計を見ながら）進行を続けていただけますか。",
+          "sentence_translation": "(Nhìn đồng hồ) Mình tiếp tục đi nhé.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 静かに一言、即着席",
+      "label_vi": "TỐT — Khẽ, 1 câu, ngồi luôn",
+      "display_order": 2,
+      "analysis": {
+        "ja": "事前連絡済み。入室時は『失礼いたします、遅れて申し訳ございません』のみ。理由は会議内で説明しない。司会が短く現状を共有して進行継続。",
+        "vi": "Đã báo trước. Vào chỉ 1 câu. Không kể lý do trong họp. Chủ trì ngắn gọn brief lại rồi tiếp tục."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_17_good_01",
+          "highlight_text": "失礼いたします、遅れて申し訳ございません",
+          "ja": "遅刻入室の唯一の挨拶。これ以上のことは会議内で言わない。",
+          "vi": "Câu chào duy nhất khi đến trễ. Không nói thêm trong họp."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_17_good_03",
+          "highlight_text": "問題なければ続けます",
+          "ja": "司会が遅刻者の状況を吸収しつつ進行を継続する一言。",
+          "vi": "Câungười chủ trì vừa cover người trễ vừa tiếp tục flow."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_17_good_04",
+          "highlight_text": "お続けください",
+          "ja": "「続けてください」より丁寧な依頼形。司会への配慮。",
+          "vi": "Lịch sự hơn 「続けてください」. Thể hiện lịch sự vớingười chủ trì."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_17_good_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "失礼いたします、遅れて申し訳ございません。",
+          "sentence_translation": "Em xin phép, em xin lỗi vì đến muộn ạ.",
+          "tone": "apologetic",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_17_good_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "（軽くお辞儀して空席へ静かに移動、無言で資料を開く）",
+          "sentence_translation": "(Cúi nhẹ chào, đi qua chỗ trống lặng lẽ, mở tài liệu im lặng)",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_17_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "トゥアンさん、議題1の最終確認中です。問題なければ続けます。",
+          "sentence_translation": "Anh Tuấn, mình đang ở phần confirm cuốimục 1. Không vấn đề gì thì mình tiếp nhé.",
+          "tone": "warm",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_17_good_04",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "ありがとうございます。続きをお願いいたします。",
+          "sentence_translation": "Cảm ơn em. Mời em tiếp ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_17_kp_01",
+      "speaker": "tuan_leader",
+      "sentence": "失礼いたします、遅れて申し訳ございません。",
+      "sentence_translation": "Em xin phép, em xin lỗi vì đến muộn ạ.",
+      "purpose": "遅刻入室時の唯一の挨拶",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_17_kp_02",
+      "speaker": "tuan_leader",
+      "sentence": "ありがとうございます。続きをお願いいたします。",
+      "sentence_translation": "Cảm ơn em. Mời em tiếp ạ.",
+      "purpose": "司会への進行継続依頼",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_17_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "会議に遅刻して入室する時、最も適切な振る舞いはどれか？",
+      "options": [
+        "大きな声で何度も謝罪し、議題を確認する。",
+        "「失礼いたします、遅れて申し訳ございません」と一言述べ、静かに着席して資料に追いつく。",
+        "黙って入って何も言わずに座る。",
+        "前の会議が長引いた理由を詳しく説明する。"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "一言謝罪＋速やかな着席が正解。説明や議題確認は会議の進行を妨げる。",
+        "vi": "1 câu xin lỗi + ngồi nhanh là chuẩn. Giải thích / hỏimục sẽ làm gián đoạn."
+      }
+    }
+  ]
+}

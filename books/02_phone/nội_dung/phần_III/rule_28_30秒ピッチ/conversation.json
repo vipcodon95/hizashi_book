@@ -1,0 +1,79 @@
+{
+  "rule_id": "rule_28",
+  "rule_slug": "30秒で要件を伝える",
+  "title": {
+    "ja": "30秒で要件を伝える",
+    "vi": "Pitch 30 giây — truyền đạt mục đích gọn"
+  },
+  "rule_context": {
+    "ja": "発信後、本題に入って30秒以内で『目的・依頼・期限』を伝える。長い前置きは相手の集中を奪う。",
+    "vi": "Vào việc trong 30 giây, nói rõ 'mục đích / yêu cầu / hạn'. Vòng vo dài làm đối phương mất tập trung."
+  },
+  "related_rules": [
+    "rule_24",
+    "rule_27",
+    "rule_35"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『本日お電話差し上げましたのは〇〇の件で』で目的→『〇〇までに〇〇していただきたい』で依頼と期限→『いかがでしょうか』で判断を求める。30秒以内で完結。",
+        "vi": "Câu mở 「本日お電話差し上げましたのは〇〇の件で」 → đặt yêu cầu + hạn → 「いかがでしょうか」 mời quyết định. Tất cả trong 30 giây."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_28_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本日お電話差し上げましたのは、4月度の進捗報告書の件でございます。来週月曜のミーティング前にレビューをいただきたく、明日中にメールでお送りしてもよろしいでしょうか？",
+          "sentence_translation": "Hôm nay em gọi điện về việc báo cáo tiến độ tháng 4 ạ. Em mong được anh review trước buổi họp thứ Hai tuần sau, em xin gửi mail trong ngày mai có được không ạ?",
+          "tone": "formal",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_28_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "分かりました。明日の午前中に送ってもらえれば、午後に確認します。",
+          "sentence_translation": "Tôi hiểu rồi. Em gửi sáng mai thì chiều tôi sẽ xem.",
+          "tone": "neutral"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_28_kp_01",
+      "speaker": "zun",
+      "sentence": "本日お電話差し上げましたのは、〇〇の件でございます。",
+      "sentence_translation": "Hôm nay em gọi điện về việc 〇〇 ạ.",
+      "purpose": "30秒ピッチの冒頭",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_28_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "30秒ピッチに含まれない要素はどれか？",
+      "options": [
+        "目的",
+        "依頼内容",
+        "期限",
+        "雑談"
+      ],
+      "correct": "D",
+      "explanation": {
+        "ja": "30秒ピッチは『目的・依頼・期限』。雑談は不要。",
+        "vi": "Pitch 30 giây chỉ gồm 'mục đích / yêu cầu / hạn'. Chuyện phiếm không cần."
+      }
+    }
+  ]
+}

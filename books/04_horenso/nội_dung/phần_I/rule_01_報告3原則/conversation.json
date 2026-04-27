@@ -1,0 +1,180 @@
+{
+  "rule_id": "rule_01",
+  "rule_slug": "報告の3原則",
+  "title": {
+    "ja": "報告の3原則",
+    "vi": "3 nguyên tắc báo cáo"
+  },
+  "rule_context": {
+    "ja": "ズンが Phase 2 デモ後、フオン副部長へ口頭報告する場面。3原則（結論先出し・事実と意見の分離・タイムリー）を実演。",
+    "vi": "Em Dũng báo cáo chị Hương sau buổi demo Phase 2. Áp dụng 3 nguyên tắc: kết luận trước, tách fact/opinion, kịp thời."
+  },
+  "related_rules": ["rule_02", "rule_03", "rule_07", "rule_09"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 経過先出し",
+      "label_vi": "XẤU — Kể quá trình trước",
+      "display_order": 1,
+      "analysis": {
+        "ja": "経過から始まり結論まで2分。途中で fact と opinion が混在。聞き手が判断材料を整理できない。",
+        "vi": "Kể quá trình mất 2 phút mới đến kết luận. Giữa chừng lẫn fact và opinion. Người nghe không tách được dữ kiện để quyết."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_01_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、Phase 2デモの件で…えっと、まず最初に環境構築から始めて、それからモック画面を見せたんですが、そこで松本様が画面遷移について質問があり、それに対してこちらから〜",
+          "sentence_translation": "Chị Hương, về buổi demo Phase 2... ờ, đầu tiên em dựng môi trường, rồi cho xem màn hình mock, sau đó anh Matsumoto hỏi về luồng chuyển màn, rồi em trả lời~",
+          "tone": "uncertain",
+          "speed_multiplier": 1.05
+        },
+        {
+          "line_id": "rule_01_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "で、結局どうなったの？OKだったの？NGだったの？",
+          "sentence_translation": "Rồi cuối cùng thế nào em? OK hay NG?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_01_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、はい、概ねOKでした。ただ画面遷移は再検討が必要かと…",
+          "sentence_translation": "À vâng, cơ bản OK ạ. Nhưng luồng chuyển màn cần xem lại ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_01_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "次から結論を先に。それと、『再検討必要』はあなたの意見？松本様が言ったの？",
+          "sentence_translation": "Lần sau kết luận trước nhé. Còn 'cần xem lại' là ý em hay anh Matsumoto nói?",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 結論先出し + 事実/私見分離",
+      "label_vi": "TỐT — Kết luận trước + tách fact/opinion",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_01_good_01",
+          "highlight_text": "結論：概ね合格、ただし画面遷移の1点は再検討が必要",
+          "ja": "報告の冒頭で結論を1文に圧縮。聞き手は1秒で判断可能。",
+          "vi": "Kết luận trong 1 câu mở. Người nghe quyết định trong 1 giây."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_01_good_03",
+          "highlight_text": "事実として〜私見では",
+          "ja": "「事実」と「私見」を明示的にラベル化。日本ビジネスは曖昧を嫌う。",
+          "vi": "Đánh dấu rõ ràng 'sự thật' và 'ý kiến cá nhân'. Business Nhật rất kỵ mơ hồ."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_01_good_04",
+          "highlight_text": "対応としては〜までに〜",
+          "ja": "報告は『次の行動 + 期限 + 担当』で締める。「〜だけです」では NG。",
+          "vi": "Báo cáo đóng bằng 'next action + deadline + owner'. Kết bằng 'chỉ vậy' là NG."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_01_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、Phase 2デモのご報告です。結論は、概ね合格、ただし画面遷移の1点は再検討が必要です。",
+          "sentence_translation": "Chị Hương, em xin báo cáo về demo Phase 2. Kết luận: cơ bản đạt, nhưng luồng chuyển màn cần xem lại ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_01_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "うん、続けて。",
+          "sentence_translation": "Ừ, em nói tiếp.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_01_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "事実として、松本様から『画面遷移のスピードが遅く感じる』とのコメントがございました。私見では、APIレスポンス待ちが原因と推測しております。",
+          "sentence_translation": "Sự thật: anh Matsumoto có comment 'cảm giác luồng chuyển màn hơi chậm'. Theo ý kiến em, nguyên nhân có thể do thời gian chờ API ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_01_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "対応としては、明日トゥアンと原因切り分けを行い、対応方針を水曜中にご報告いたします。",
+          "sentence_translation": "Về cách xử lý, ngày mai em với anh Tuấn sẽ phân tách nguyên nhân, và em sẽ báo cáo phương án trong thứ Tư ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_01_good_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "分かりやすい報告ね。水曜の報告を待ちます。",
+          "sentence_translation": "Báo cáo rõ ràng đấy. Chị đợi báo cáo thứ Tư nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_01_kp_01",
+      "speaker": "zun",
+      "sentence": "結論：〇〇。事実として〇〇。私見では〇〇。対応としては〇〇までに〇〇。",
+      "sentence_translation": "Kết luận: 〇〇. Sự thật: 〇〇. Ý kiến em: 〇〇. Cách xử lý: trước 〇〇 sẽ 〇〇.",
+      "purpose": "報告4文構造テンプレート",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_01_kp_02",
+      "speaker": "zun",
+      "sentence": "〇〇のご報告です。結論：〇〇でございます。",
+      "sentence_translation": "Em xin báo cáo về 〇〇. Kết luận: 〇〇 ạ.",
+      "purpose": "報告冒頭の標準フレーズ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_01_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "口頭報告で最も避けるべきパターンは？",
+      "options": [
+        "結論を最初に述べる",
+        "事実と私見を明示的に分ける",
+        "経過から長々と話し、最後に結論を出す",
+        "対応策と期限を最後に伝える"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "報告の3原則は『結論先出し・事実/私見分離・タイムリー』。経過から始めると相手は判断できず時間を消耗する。",
+        "vi": "3 nguyên tắc báo cáo: kết luận trước / tách fact-opinion / kịp thời. Kể quá trình trước = đối phương không quyết được, mất thời gian."
+      }
+    }
+  ]
+}

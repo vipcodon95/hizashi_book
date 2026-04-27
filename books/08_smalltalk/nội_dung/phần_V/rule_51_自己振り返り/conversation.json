@@ -1,0 +1,121 @@
+{
+  "rule_id": "08-51",
+  "rule_slug": "自己振り返り",
+  "title": {
+    "vi": "Self-review + practice",
+    "ja": "振り返りと練習"
+  },
+  "rule_context": {
+    "luan_diem_vi": "Sau mỗi 雑談 session 15 phút self-review: 3 win / 3 miss / 3 follow-up. Discipline = skill compound. Không 振り返り = lặp lỗi cũ 3 năm.",
+    "luan_diem_ja": "雑談セッション後15分の振り返り。3 win / 3 miss / 3 follow-up。これがスキル複利。振り返り無しは3年同じミスを繰り返す。",
+    "boi_canh_vi": "Tham khảo. 1 ví dụ self-review entry sau dinner Phase 4 + routine practice 30 phút/tuần + 2 templates đầy đủ.",
+    "boi_canh_ja": "参考。1.フェーズ4会食後の振り返り例、週30分練習ルーチン、テンプレ2種。",
+    "muc_tieu_vi": "Build self-review discipline + 2 templates ready-to-use → skill compound."
+  },
+  "related_rules": [
+    {"book": "08", "rule": "50", "topic": "Memory bank"},
+    {"book": "08", "rule": "49", "topic": "雑談ネタ収集"}
+  ],
+  "conversations": [
+    {
+      "scenario": "Self-review viết ra sau dinner Phase 4 closing",
+      "type": "good",
+      "self_review_example": {
+        "date": "2026-05-20",
+        "session": "Phase 4 Closing — Yurakucho izakaya + ベルトラム + ラーメン",
+        "audience": ["Ōgaki", "Matsumoto", "Tanaka", "Tuấn"],
+        "my_role": "最若手 / order role / host VN side",
+        "duration": "一次 + 二次 + 締め (5h)",
+        "wins": [
+          "お酌 Ōgaki ngay khi ly cạn → senior nodded warmly. (Rule 43 áp dụng OK)",
+          "Reference Ōgaki 桂米朝 fan từ memo 2 tháng trước → '覚えてるなあ!' reaction (Rule 50 effective)",
+          "Rescue Tanaka say + escort taxi → Ōgaki sáng hôm sau khen 'しっかりしてるな' (Rule 46 paid off)"
+        ],
+        "miss": [
+          "STEP 2: hỏi allergy quá muộn (sau 1st sashimi) → Matsumoto suýt ăn 牡蠣. NEXT: hỏi NGAY khi mở menu",
+          "二次会: khi Ōgaki hé lộ Phase 5 chi tiết, mình thiếu enthusiasm, chỉ '光栄です'. NEXT: thêm 1 specific question",
+          "カラオケ từ chối sing 1 nữa 'もう十分' → có thể phá flow vui. NEXT: 1 song nữa (90s safe)"
+        ],
+        "followups": [
+          "Send Ōgaki link 桂米朝 'jigokubakkyō' theo lời hứa → mai mail ngay sáng",
+          "Mention Phase 5 chi tiết với CTO Hà nội bộ → call 9:30 sáng nay",
+          "Memorize Tanaka 'VN whisky bar' interest → ghi memory bank, introduce EON Heli Bar khi anh đến HCM"
+        ],
+        "rating": "8/10 (上々)",
+        "improvement": "timing skill (allergy timing + enthusiasm response)"
+      }
+    },
+    {
+      "scenario": "Weekly practice routine — dry-run rule",
+      "type": "good",
+      "routine": [
+        {"step": 1, "time": "Sun afternoon — 5min", "action": "Pick 1 random rule từ sách 08"},
+        {"step": 2, "time": "5min", "action": "Đọc lại rule + xem 4 dialogue scenarios"},
+        {"step": 3, "time": "10min", "action": "Voice record mình thử 3 scenarios với phrase chuẩn"},
+        {"step": 4, "time": "5min", "action": "Compare với reference audio (TTS), identify 1 từ phát âm yếu"},
+        {"step": 5, "time": "5min", "action": "Mon: apply trong call/dinner thực, notice if used"}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"category": "Self-talk WIN", "ja": "(VN) Phrase nào hôm nay senior khen 'よく覚えてる'?", "vi": "Phrase nào hôm nay senior khen 'nhớ giỏi'?", "use": "Identify cụ thể"},
+    {"category": "Self-talk MISS", "ja": "(VN) Có moment nào không khí freeze 0.5s? Mình nói gì?", "vi": "Có moment freeze 0.5s? Mình nói gì?", "use": "Trace lại"},
+    {"category": "Self-talk MISS", "ja": "(VN) Có lần senior change topic đột ngột? LANDMINE?", "vi": "Senior đổi topic đột? Có thể LANDMINE?", "use": "Phân tích nguyên nhân"},
+    {"category": "Self-talk Follow-up", "ja": "(VN) Mình hứa gì hôm nay? Cần đóng loop khi nào?", "vi": "Mình hứa gì? Đóng loop khi nào?", "use": "Action items"}
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "雑談セッション後の振り返り、最適なフレームは?",
+      "options": [
+        "A. ただ感想を書く",
+        "B. 3 WIN / 3 MISS / 3 FOLLOW-UPで具体的に",
+        "C. 完璧だったか反省するか",
+        "D. 何もしない"
+      ],
+      "answer": "B",
+      "explain_vi": "Framework concrete = actionable. A vague; C binary; D miss skill compound."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "MISS項目の書き方として最適なのは?",
+      "options": [
+        "A. 「もっと頑張る」",
+        "B. 「allergy hỏi quá muộn → NEXT: hỏi NGAY khi mở menu」 (concrete + actionable)",
+        "C. 「ダメだった」と落ち込む",
+        "D. 「次は完璧にする」"
+      ],
+      "answer": "B",
+      "explain_vi": "Concrete fact + concrete next action = actionable. A/D vague; C demotivate."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "100回 dinner後、累積効果として最も期待されるのは?",
+      "options": [
+        "A. 何も変わらない",
+        "B. 同じミスを繰り返す",
+        "C. ベトナム人で日本人客対応の雑談スキル top 1%に到達",
+        "D. 外国人として扱われ続ける"
+      ],
+      "answer": "C",
+      "explain_vi": "Skill compound: 100 dinner = top 1% smalltalk skill VN làm khách JP. Đó là 2 năm discipline."
+    }
+  ],
+  "templates": [
+    {
+      "template_name": "Self-Review Entry — sau mỗi session",
+      "format": "markdown",
+      "description": "15 phút sau dinner / call / 会食. Save vào personal Notes hệ thống.",
+      "content": "# 📅 Self-Review — [YYYY-MM-DD] — [Session name]\n\n## 📍 Context\n- 場所: \n- 参加者: \n- 自分の役割: (host / order / chỉ tham gia)\n- 時間: 一次? 二次? 締め?\n- 全体時間: ~Xh\n\n## 🎯 3 WIN — Cái mình làm ĐÚNG\n1. \n2. \n3. \n\n(Tip: phải concrete — phrase nào, action nào, react của khách ra sao)\n\n## ❌ 3 MISS — Cái mình LỠ\n1. ...  \n   **NEXT:** [concrete next action]\n2. ...  \n   **NEXT:** [...]\n3. ...  \n   **NEXT:** [...]\n\n## 🔁 3 FOLLOW-UP — Cần làm sau session này\n- [ ] [Hứa gì với khách?] — by when?\n- [ ] [Memory bank entry cập nhật] — done?\n- [ ] [Internal sharing với team mình?] — by when?\n\n## 📊 Self-rating\n- 全体: __/10\n- 改善点 chính: \n- 1 phrase mới học hôm nay: \n\n---\n\n## 💡 Pattern noted (để cập nhật vào playbook cá nhân)\n- (vd: 'お酌 + label hướng senior = nodding warm' → confirm pattern works)"
+    },
+    {
+      "template_name": "Weekly Practice Plan — 30 phút/tuần dry-run",
+      "format": "markdown",
+      "description": "Sun afternoon. Pick 1 rule sách 08 / tuần. 1 năm = 51 rules.",
+      "content": "# 🏋 Weekly Practice — Week [N] of [YYYY]\n\n## 🎯 This week's rule: [Rule N — slug]\n- Sách 08 reference: \n\n## ⏱ 30-min routine\n\n### 0:00-5:00 — Pick + read\n- [ ] Open rule.md\n- [ ] Đọc lại 'Tâm lý JP' + 'Câu vàng copy-paste'\n\n### 5:00-10:00 — Watch dialogue\n- [ ] Đọc qua 3-4 scenarios\n- [ ] Highlight 1 phrase mới chưa quen\n\n### 10:00-20:00 — Voice practice\n- [ ] Voice record (phone) mình thử say 3 scenarios với pace JP\n- [ ] Listen back, note 1 từ phát âm yếu\n\n### 20:00-25:00 — Compare + correct\n- [ ] (Nếu có TTS audio) compare với reference\n- [ ] Pick 1 phrase repeat 5 lần đúng accent\n\n### 25:00-30:00 — Apply plan\n- [ ] This week, apply phrase nào trong call thực?\n- [ ] Notify mình bằng calendar/sticky note\n\n## ✅ Done\n- [ ] Saved this entry\n- [ ] Set reminder for next week's rule\n\n---\n\n## 📈 Progress tracker\n- Tuần đã hoàn thành: [N] / 51\n- Rule đã master (apply 3 lần thực tế OK): [list]\n- Rule còn yếu: [list]"
+    }
+  ]
+}

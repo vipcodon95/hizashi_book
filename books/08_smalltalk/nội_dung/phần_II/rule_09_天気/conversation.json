@@ -1,0 +1,156 @@
+{
+  "rule_id": "rule_09",
+  "rule_slug": "天気の深さ",
+  "title": {
+    "vi": "Thời tiết — không hời hợt",
+    "ja": "天気の深さ"
+  },
+  "rule_context": {
+    "ja": "2026年4月、ズンとリンが東京1週間出張。同じ時期に4つの異なる地域(東京・北海道・福岡・広島)のお客様と話す機会があり、それぞれの地域に合った天気の話題を使い分ける必要がある。",
+    "vi": "Tháng 4/2026, Dũng + Linh onsite Tokyo 1 tuần. Cùng thời điểm gặp 4 khách quê khác nhau (Tokyo / Hokkaido / Fukuoka / Hiroshima) — phải biết bồi câu thời tiết theo vùng."
+  },
+  "related_rules": ["rule_10", "rule_15", "rule_16"],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "花冷え — 東京4月",
+      "label_vi": "Hoa lạnh — Tokyo tháng 4",
+      "display_order": 1,
+      "context": {
+        "ja": "8時50分、白鷗東京本社のロビー。桜は満開だが昨夜から急に冷え込んだ。",
+        "vi": "8:50, sảnh 白鷗 Tokyo. Đào nở rộ nhưng đêm qua lạnh đột ngột."
+      },
+      "annotations": [
+        {"id": "1", "applies_to_line": "rule_09_good_01", "highlight_text": "花冷え", "ja": "桜が咲いている時期に急に冷え込むこと。古典的な季語。", "vi": "Lạnh đột ngột giữa mùa đào nở. Từ cổ điển — biết được = senior cảm phục."}
+      ],
+      "conversation_lines": [
+        {"line_id": "rule_09_good_01", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "松本さん、おはようございます。今朝は花冷えですね。桜が咲いてるのに、コート手放せなくて。", "sentence_translation": "Anh Matsumoto, chào anh. Sáng nay lạnh giữa mùa hoa nhỉ. Đào nở rồi mà vẫn phải mặc áo khoác.", "tone": "warm", "annotation_ids": ["1"]},
+        {"line_id": "rule_09_good_02", "speaker": "matsumoto", "speaker_role": "PM 白鷗", "gender": "male", "sentence": "『花冷え』なんて言葉、よく知ってるね!そう、今年は満開のタイミングで急に冷え込んでね。逆に桜が長持ちしてるよ。", "sentence_translation": "Từ 'hoa lạnh' em biết hay nhỉ! Đúng rồi, năm nay đúng lúc nở rộ thì lạnh đột ngột. Ngược lại đào lâu tàn hơn.", "tone": "cheerful"},
+        {"line_id": "rule_09_good_03", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "あ、長持ちするんですね。週末、家族でお花見の予定ですか?", "sentence_translation": "À, lâu tàn ạ. Cuối tuần anh dự định đi ngắm hoa cùng gia đình ạ?", "tone": "warm"},
+        {"line_id": "rule_09_good_04", "speaker": "matsumoto", "speaker_role": "PM 白鷗", "gender": "male", "sentence": "うん、土曜に千鳥ヶ淵を歩く予定。ライトアップが綺麗でね。ズンさんも時間あれば、是非。", "sentence_translation": "Ừ, thứ 7 đi dạo Chidorigafuchi. Đèn lên đẹp lắm. Em nếu rảnh thì đi cùng.", "tone": "warm"},
+        {"line_id": "rule_09_good_05", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "ありがとうございます!夜桜は初めてなので、ぜひ一度行ってみたいです。", "sentence_translation": "Cảm ơn anh! Em chưa ngắm hoa đào ban đêm bao giờ, rất muốn đi thử ạ.", "tone": "cheerful"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "蒸し暑い vs カラッと — タクシー7月",
+      "label_vi": "Oi nóng vs khô nóng — taxi tháng 7",
+      "display_order": 2,
+      "context": {
+        "ja": "7月のタクシー、東京33度湿度80%。中村CFO(札幌出身)と空港へ。",
+        "vi": "Taxi tháng 7, Tokyo 33°C độ ẩm 80%. Đi cùng Nakamura CFO (gốc Sapporo) ra sân bay."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_09_good_06", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "中村CFO、今日は本当に蒸し暑いですね…ハノイの夏みたいで、ちょっと懐かしいくらいです。", "sentence_translation": "Anh Nakamura, hôm nay oi nóng thật ạ... giống Hà Nội mùa hè, hơi nhớ nhà.", "tone": "warm"},
+        {"line_id": "rule_09_good_07", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "ハノイもこんな感じ?", "sentence_translation": "Hà Nội cũng kiểu này à?", "tone": "neutral"},
+        {"line_id": "rule_09_good_08", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "ハノイは35度超えますが、湿度はもっと高いです。逆に札幌はカラッとしてるって聞きましたが…", "sentence_translation": "Hà Nội thì hơn 35°C nhưng độ ẩm cao hơn. Ngược lại nghe nói Sapporo nóng khô ạ?", "tone": "warm"},
+        {"line_id": "rule_09_good_09", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "そうそう、札幌は同じ30度でも全然違う。カラッと晴れた夏で、夜は涼しい。だから北海道民は東京の夏に来るとバテるんだよ(笑)", "sentence_translation": "Đúng đúng, Sapporo cùng 30°C nhưng khác hẳn. Nắng khô ban ngày, ban đêm mát. Thế nên dân Hokkaido sang Tokyo mùa hè là gục (cười).", "tone": "cheerful"},
+        {"line_id": "rule_09_good_10", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "やっぱり北海道、避暑にいいんですね。今度7月に札幌出張、ぜひ計画したいです。", "sentence_translation": "Vậy Hokkaido đúng là chỗ trốn nóng. Lần sau em muốn lên kế hoạch công tác Sapporo vào tháng 7 ạ.", "tone": "cheerful"},
+        {"line_id": "rule_09_good_11", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "いいよ、ビアガーデンと富良野のラベンダー、ちょうど見頃だよ。", "sentence_translation": "Hay đó, beer garden với hoa lavender Furano đúng độ đẹp.", "tone": "warm"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "梅雨 — 福岡5月末",
+      "label_vi": "Mùa mưa — Fukuoka cuối tháng 5",
+      "display_order": 3,
+      "context": {
+        "ja": "5/25のZoom会議。九州は先週梅雨入り、東京はまだ晴れ。",
+        "vi": "Zoom 25/5. Kyushu vào mùa mưa tuần trước, Tokyo vẫn nắng."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_09_good_12", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "佐藤先生、お疲れ様です。福岡はもう梅雨入りしましたか?", "sentence_translation": "Anh Sato, chào anh. Fukuoka đã vào mùa mưa chưa ạ?", "tone": "formal"},
+        {"line_id": "rule_09_good_13", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "ああズンさん、よう気づいたねえ。九州は先週入ったとよ。東京はまだやろ?", "sentence_translation": "À Dũng, chú ý nhỉ. Kyushu vào tuần trước rồi đó. Tokyo còn chưa nhỉ?", "tone": "warm"},
+        {"line_id": "rule_09_good_14", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "東京はまだ晴れ続きで…でも来週から崩れる予報です。先生、梅雨時の博多って、何か特別な楽しみありますか?", "sentence_translation": "Tokyo vẫn nắng nhưng tuần sau dự báo sẽ mưa. Anh ơi, mùa mưa ở Hakata có gì đặc biệt vui không ạ?", "tone": "warm"},
+        {"line_id": "rule_09_good_15", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "あー、紫陽花やね。福岡の宮地嶽神社、雨に濡れた紫陽花が一番美しか。あと梅雨時はもつ鍋の出汁が体に染みるとよ。", "sentence_translation": "À, hoa cẩm tú cầu đó. Đền Miyajidake Fukuoka, cẩm tú cầu ướt mưa đẹp nhất. Mùa mưa ăn motsunabe nước dùng thấm vào người.", "tone": "warm"},
+        {"line_id": "rule_09_good_16", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "紫陽花…来月の出張、雨の中でもぜひ寄ってみたいです。", "sentence_translation": "Cẩm tú cầu... chuyến đi tháng sau dù mưa em cũng muốn ghé thử ạ.", "tone": "cheerful"},
+        {"line_id": "rule_09_good_17", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "うん、傘持って来んしゃい。案内するけん。", "sentence_translation": "Ừ, mang ô đến nhé. Anh dẫn đi cho.", "tone": "warm"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "真冬日 — 札幌1月",
+      "label_vi": "Ngày đại hàn — Sapporo tháng 1",
+      "display_order": 4,
+      "context": {
+        "ja": "1/15 Zoom、札幌-8度の真冬日が続いている。",
+        "vi": "Zoom 15/1, Sapporo -8°C, ngày đại hàn liên tiếp."
+      },
+      "annotations": [
+        {"id": "1", "applies_to_line": "rule_09_good_19", "highlight_text": "真冬日", "ja": "最高気温が氷点下の日。", "vi": "Ngày mà cả max cũng dưới 0°C. Senior-level vocab."}
+      ],
+      "conversation_lines": [
+        {"line_id": "rule_09_good_18", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "中村CFO、お疲れ様です。札幌は今週、真冬日続きとニュースで見ましたが…大丈夫ですか?", "sentence_translation": "Anh Nakamura, chào anh. Em xem tin nói Sapporo tuần này toàn ngày max âm độ... anh có ổn không ạ?", "tone": "warm"},
+        {"line_id": "rule_09_good_19", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "ズンさん、真冬日って言葉知ってるの?最高気温も氷点下って意味だけど、よく勉強してるね。", "sentence_translation": "Em biết từ 'mafuyubi' à? Là ngày max cũng âm độ đó. Học chăm thật.", "tone": "warm", "annotation_ids": ["1"]},
+        {"line_id": "rule_09_good_20", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "先月、出張前に少し勉強しました。雪まつりの時期も近いですよね?", "sentence_translation": "Tháng trước em học chút trước khi công tác ạ. Sắp đến lễ hội tuyết rồi đúng không ạ?", "tone": "warm"},
+        {"line_id": "rule_09_good_21", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "2月の頭から。今年は雪が多くて、雪像作りには絶好だよ。来れる?", "sentence_translation": "Đầu tháng 2. Năm nay tuyết nhiều, làm tượng tuyết lý tưởng. Em đến được không?", "tone": "cheerful"},
+        {"line_id": "rule_09_good_22", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "ぜひ伺いたいです!ハノイは10度切ると『極寒』なので、マイナス8度は人生初体験です(笑)", "sentence_translation": "Em rất muốn đi! Hà Nội dưới 10°C đã gọi là 'cực hàn' rồi, -8°C là lần đầu trong đời em (cười).", "tone": "cheerful"},
+        {"line_id": "rule_09_good_23", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "あはは、ヒートテック2枚重ねといて。あとホッカイロ忘れずに。", "sentence_translation": "Haha, mặc Heattech 2 lớp nhé. Với cả nhớ mang miếng dán ấm.", "tone": "cheerful"}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"phrase_id": "rule_09_kp_01", "speaker": "zun", "sentence": "今朝は花冷えですね。", "sentence_translation": "Sáng nay lạnh giữa mùa hoa nhỉ.", "purpose": "Mở topic xuân — vocab cổ điển level senior"},
+    {"phrase_id": "rule_09_kp_02", "speaker": "zun", "sentence": "今日は本当に蒸し暑いですね。", "sentence_translation": "Hôm nay oi nóng thật.", "purpose": "Phân biệt nóng ẩm vs nóng khô — vocab base"},
+    {"phrase_id": "rule_09_kp_03", "speaker": "zun", "sentence": "札幌はカラッと晴れてますか?", "sentence_translation": "Sapporo nắng khô không ạ?", "purpose": "Mở regional Hokkaido"},
+    {"phrase_id": "rule_09_kp_04", "speaker": "zun", "sentence": "[地名]はもう梅雨入りしましたか?", "sentence_translation": "[Địa danh] đã vào mùa mưa chưa ạ?", "purpose": "Mở regional Kyushu/Tokyo — KHÔNG dùng cho Hokkaido"},
+    {"phrase_id": "rule_09_kp_05", "speaker": "zun", "sentence": "猛暑日が続きますね、お体お気をつけて。", "sentence_translation": "Toàn ngày trên 35°C, anh giữ sức khỏe nhé.", "purpose": "Quan tâm sức khỏe senior mùa hè"},
+    {"phrase_id": "rule_09_kp_06", "speaker": "zun", "sentence": "朝晩、めっきり涼しくなりましたね。", "sentence_translation": "Sáng tối mát hẳn rồi nhỉ.", "purpose": "Mở topic thu (9-10月)"},
+    {"phrase_id": "rule_09_kp_07", "speaker": "zun", "sentence": "紅葉、[地名]はもう色づき始めましたか?", "sentence_translation": "Lá đỏ ở [địa danh] đã bắt đầu chuyển màu chưa ạ?", "purpose": "Mở regional thu — kéo sang topic du lịch"},
+    {"phrase_id": "rule_09_kp_08", "speaker": "zun", "sentence": "真冬日が続いてるそうですが、お体大丈夫ですか?", "sentence_translation": "Nghe nói toàn ngày max âm độ, anh có ổn không ạ?", "purpose": "Quan tâm senior Hokkaido/Tohoku mùa đông"}
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_09_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "東京で7月、湿度80%・気温33度の日に最も適切な天気の表現はどれですか?",
+      "options": [
+        "A. カラッと晴れていますね",
+        "B. 蒸し暑いですね",
+        "C. 花冷えですね",
+        "D. 木枯らしが強いですね"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "高温多湿は『蒸し暑い』。カラッとは乾燥した暑さ(北海道夏)、花冷えは春、木枯らしは初冬。",
+        "vi": "Nóng ẩm cao = 蒸し暑い. カラッと là nóng khô (Hokkaido hè), 花冷え mùa xuân, 木枯らし đầu đông."
+      }
+    },
+    {
+      "question_id": "rule_09_bjt_02",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "北海道出身のお客様に「梅雨入りしましたか?」と聞いた場合、最も予想される反応は?",
+      "options": [
+        "A. 「はい、先週から梅雨入りしました」",
+        "B. 「北海道に梅雨はないんですよ(笑)」",
+        "C. 「いつもと同じですね」",
+        "D. 「今年は遅いですね」"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "北海道には梅雨がない。地域知識の不足を示してしまう質問。",
+        "vi": "Hokkaido KHÔNG có 梅雨. Hỏi câu này lộ thiếu regional knowledge."
+      }
+    },
+    {
+      "question_id": "rule_09_bjt_03",
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "「真冬日」と「冬日」の違いとして正しいものは?",
+      "options": [
+        "A. ほぼ同じ意味",
+        "B. 真冬日 = 最高気温が氷点下、冬日 = 最低気温が氷点下",
+        "C. 冬日 = 最高気温が氷点下、真冬日 = 最低気温が氷点下",
+        "D. 地域による違い"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "真冬日は最高気温も氷点下のより厳しい日、冬日は最低気温だけ氷点下。",
+        "vi": "真冬日 = max < 0°C (khắc nghiệt hơn). 冬日 = min < 0°C."
+      }
+    }
+  ],
+  "templates": []
+}

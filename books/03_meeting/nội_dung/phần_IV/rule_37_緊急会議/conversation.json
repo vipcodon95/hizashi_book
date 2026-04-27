@@ -1,0 +1,198 @@
+{
+  "rule_id": "rule_37",
+  "rule_slug": "緊急会議運営",
+  "title": {
+    "ja": "緊急会議の運営（Fact-Impact-Action-Owner）",
+    "vi": "Crisis meeting họp gấp"
+  },
+  "rule_context": {
+    "ja": "本番サーバーが7時5分にダウン。ズンが7時30分に緊急会議を開き、トゥアン・ハイ・松本PMに Fact→Impact→Action→Owner の構成で報告する場面。",
+    "vi": "Server prod crash 7h05. Em Dũng triệu họp khẩn 7h30 với Tuấn, Hải, anh Matsumoto. Báo cáo theo cấu trúc Fact-Impact-Action-Owner, không lan man."
+  },
+  "related_rules": [
+    "rule_09",
+    "rule_31",
+    "rule_44"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 雑談+原因論争",
+      "label_vi": "XẤU — Lan man + tech cãi cause",
+      "display_order": 1,
+      "analysis": {
+        "ja": "緊急時に時候挨拶や原因の推測論争は時間の無駄。顧客は焦っており、構造化された報告を求めている。",
+        "vi": "Lúc khẩn cấp mà chào hỏi 時候 + tech bàn nguyên nhân chưa rõ = phí giờ. Khách đang căng, cần báo cáo có cấu trúc."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_37_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お忙しい中、お集まりいただきありがとうございます。本日の天気は…えっと、本題ですが、サーバーの件で…",
+          "sentence_translation": "Cảm ơn các anh đã sắp xếp dự ạ. Hôm nay thời tiết... à mà vào việc, vụ server...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_37_bad_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "あ、それね、昨日のデプロイで…多分…",
+          "sentence_translation": "À cái đó ấy, có thể do deploy hôm qua... chắc...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_37_bad_03",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "いや、デプロイじゃないと思いますよ。たぶんネットワーク…",
+          "sentence_translation": "Không, em nghĩ không phải deploy đâu. Có lẽ network...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_37_bad_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "現在の影響範囲だけ教えてもらえますか。",
+          "sentence_translation": "Cho tôi biết phạm vi ảnh hưởng hiện tại thôi được không.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — Fact-Impact-Action-Owner",
+      "label_vi": "TỐT — F-I-A-O cấu trúc",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_37_good_01",
+          "highlight_text": "緊急会議のため簡潔に進めさせていただきます",
+          "ja": "前置きを省くことの予告。formality を緩める許可を取る。",
+          "vi": "Báo trước 'cắt formality'. Xin permission để gọn."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_37_good_03",
+          "highlight_text": "推定影響ユーザー数は1,200名",
+          "ja": "曖昧な「多くのユーザー」ではなく具体的数値で。fact-based 報告。",
+          "vi": "Không nói 「nhiều user」 chung chung mà dùng số cụ thể. Báo cáo fact-based."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_37_good_05",
+          "highlight_text": "私が責任者でございます",
+          "ja": "緊急時は責任者を1人明示。日本ビジネスでは『誰が責任を取るか』が極めて重要。",
+          "vi": "Lúc khẩn phải chỉ rõ 1 người chịu trách nhiệm. JP business cực kỳ quý 'ai là owner'."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_37_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "皆様、緊急会議のため簡潔に進めさせていただきます。",
+          "sentence_translation": "Mọi người, vì là họp khẩn nên em xin phép tiến hành ngắn gọn ạ.",
+          "tone": "urgent",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_37_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "【Fact】本日7時05分、本番サーバーがダウンいたしました。現在も復旧中でございます。",
+          "sentence_translation": "[Fact] 7h05 hôm nay, server prod đã down. Hiện đang khôi phục ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_37_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "【Impact】全ユーザーログイン不可、推定影響ユーザー数は1,200名でございます。",
+          "sentence_translation": "[Impact] Toàn bộ user không login được, ước tính 1,200 người bị ảnh hưởng ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_37_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "【Action】①ハイがDBロールバック実施中、②トゥアンが原因調査、③私が顧客向け一報を起草中、でございます。",
+          "sentence_translation": "[Action] (1) Hải đang rollback DB, (2) Tuấn điều tra cause, (3) em đang draft thông báo gửi user ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_37_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "【Owner & ETA】復旧目処は8時30分、最終報告は本日10時、私が責任者でございます。",
+          "sentence_translation": "[Owner & ETA] Mục tiêu khôi phục 8h30, báo cáo cuối hôm nay 10h, em là người chịu trách nhiệm ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_37_good_06",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "明確で助かります。10時の報告を待ちます。",
+          "sentence_translation": "Rõ ràng, đỡ quá. Tôi chờ báo cáo 10h.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_37_kp_01",
+      "speaker": "zun",
+      "sentence": "緊急会議のため、簡潔に進めさせていただきます。",
+      "sentence_translation": "Vì là họp khẩn nên em xin tiến hành ngắn gọn ạ.",
+      "purpose": "緊急会議の冒頭フレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_37_kp_02",
+      "speaker": "zun",
+      "sentence": "Fact → Impact → Action → Owner の順でご報告いたします。",
+      "sentence_translation": "Em xin báo cáo theo thứ tự Fact → Impact → Action → Owner ạ.",
+      "purpose": "緊急会議の構成宣言",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_37_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "緊急会議で報告する最適な構成はどれか？",
+      "options": [
+        "前置き挨拶→雑談→原因論争→対応",
+        "Fact（事実）→Impact（影響）→Action（対応）→Owner（責任者）の順で30分以内",
+        "原因が分かるまで議論",
+        "詳細な技術論を全員で展開"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "緊急時はFact-Impact-Action-Ownerの構造化報告が最も効率的かつ顧客の不安を減らす。",
+        "vi": "Lúc khẩn, F-I-A-O hiệu quả nhất + giảm lo lắng cho khách."
+      }
+    }
+  ]
+}

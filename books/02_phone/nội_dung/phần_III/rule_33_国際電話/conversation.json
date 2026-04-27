@@ -1,0 +1,89 @@
+{
+  "rule_id": "rule_33",
+  "rule_slug": "国際電話の留意点",
+  "title": {
+    "ja": "国際電話の留意点",
+    "vi": "Cuộc gọi quốc tế — múi giờ + chậm hơn"
+  },
+  "rule_context": {
+    "ja": "ズン（ベトナム）から松本PM（日本）への国際電話。時差を最初に共有し、話速を落として進める。",
+    "vi": "Em Dũng (Việt Nam) gọi anh Matsumoto (Nhật). Chia sẻ múi giờ ngay đầu, nói chậm hơn 10-15%."
+  },
+  "related_rules": [
+    "rule_25",
+    "rule_51",
+    "rule_55"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "時差を冒頭で明示することで、相手は『この通話の文脈』を即把握。話速も意識的に遅くして聞き取りやすさを確保。",
+        "vi": "Nói rõ múi giờ ngay đầu giúp đối phương nắm bối cảnh. Cố ý nói chậm để đối phương dễ nghe."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_33_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ベトナムは現在朝9時、日本は11時でございます。1時間ほどお時間よろしいでしょうか。",
+          "sentence_translation": "Hiện Việt Nam là 9h sáng, Nhật là 11h ạ. Em xin khoảng 1 tiếng có tiện anh không ạ?",
+          "tone": "formal",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_33_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "はい、大丈夫です。",
+          "sentence_translation": "Vâng, được ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_33_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "進捗をご報告させていただきます。詳細は後ほどメールでもお送りいたします。",
+          "sentence_translation": "Em xin báo cáo tiến độ ạ. Chi tiết em sẽ gửi qua mail sau ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.85
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_33_kp_01",
+      "speaker": "zun",
+      "sentence": "ベトナムは現在〇時、日本は〇時でございます。",
+      "sentence_translation": "Hiện Việt Nam là 〇 giờ, Nhật là 〇 giờ ạ.",
+      "purpose": "国際電話冒頭の時差共有",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_33_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "国際電話で最初に共有すべきは？",
+      "options": [
+        "天気",
+        "時差",
+        "個人の予定",
+        "為替レート"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "時差の共有が国際電話の冒頭マナー。相手が文脈を把握しやすい。",
+        "vi": "Chia sẻ múi giờ là phép lịch sự đầu cuộc gọi quốc tế."
+      }
+    }
+  ]
+}

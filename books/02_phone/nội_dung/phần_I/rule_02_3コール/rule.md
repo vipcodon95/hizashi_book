@@ -1,0 +1,81 @@
+# Rule 02 — Bắt máy trong 3 hồi chuông / 3コール以内に出る
+
+> **Luận điểm / 要点.**
+> Quy tắc bất thành văn ở văn phòng Nhật: bắt máy **trong 3 hồi chuông**. Quá 3 → coi như "khách bị bỏ rơi", phải kèm câu xin lỗi.
+>
+> 日本のオフィスの暗黙ルール：**3コール以内に取る**。それを超えたら「お待たせ」のお詫びが必須。
+>
+> **Từ khóa / キーワード:** **`3コール原則`**
+>
+> **Liên quan / 関連:** Rule 01 (câu mở đầu), Rule 03 (cách xin lỗi khi trễ).
+
+## Bối cảnh / 場面
+
+Sáng thứ Hai, văn phòng đông. Anh Matsumoto gọi vào số bàn em Dũng. Em Dũng đang ghi note dở. Phone reo.
+
+---
+
+## ❌ Hội thoại XẤU — 悪い例
+
+> 📞 *(reo 5 hồi, em Dũng cuối cùng bốc máy)*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「お電話ありがとうございます。ティエンファット社のズンでございます。」 |
+| **松本PM** | 「(im lặng 1 giây)... お世話になっております。」 |
+
+**Vì sao xấu:** Reo 5 hồi mà không xin lỗi → khách ngầm cảm thấy "được phục vụ kém". 1 giây im lặng của Matsumoto là biểu hiện. Câu mở đúng nhưng *thiếu lời xin lỗi*.
+
+---
+
+## ✅ Hội thoại TỐT — 良い例
+
+> 📞 *(reo 4 hồi, em Dũng bốc máy)*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「お電話ありがとうございます。お待たせいたしました【1】、ティエンファット社のズンでございます。」 |
+| **松本PM** | 「お世話になっております。白鷗の松本です。」 |
+
+📝 **Ghi chú:**
+- 【1】Quá 3 hồi → bắt buộc kèm「お待たせいたしました」. Quá 5 hồi →「大変お待たせいたしました」 (thêm「大変」).
+
+---
+
+## 🔄 Biến thể — Khi đang dở việc lớn không thể bốc
+
+| Speaker | Câu |
+|---------|-----|
+| **ハイ (đồng nghiệp đỡ)** | 「お電話ありがとうございます。ティエンファット社のハイでございます。ズンが席を外しておりますが、よろしければご用件を承ります。」 |
+
+→ Đồng nghiệp gần đó nên đỡ máy hộ. Không để chuông reo quá 5 hồi.
+
+---
+
+## 🎯 Câu chốt mang đi
+
+> **「お電話ありがとうございます。お待たせいたしました、〇〇社の〇〇でございます。」**
+
+*Khi quá 3 hồi, thêm câu xin lỗi vào ngay sau câu mở.*
+
+---
+
+## 📝 BJT Practice (J3 — 場面把握)
+
+電話が5回鳴ってから取った場合、最も適切な第一声は？
+- A) お電話ありがとうございます
+- B) **お電話ありがとうございます。お待たせいたしました** ✓
+- C) すみません、遅くなりました
+- D) もしもし、ティエンファットです
+
+---
+
+## 📚 Vocab
+
+| 漢字 | よみ | Nghĩa |
+|------|------|-------|
+| コール | kōru | Hồi chuông |
+| 大変 | たいへん (taihen) | Rất, hết sức |
+| 席を外す | せきをはずす (seki o hazusu) | Vắng mặt, rời chỗ |
+| 用件 | ようけん (yōken) | Việc cần (lý do gọi) |
+| 承る | うけたまわる (uketamawaru) | (Khiêm nhường) tiếp nhận |

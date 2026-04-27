@@ -1,0 +1,170 @@
+{
+  "rule_id": "rule_19",
+  "rule_slug": "発言挙手",
+  "title": {
+    "ja": "発言の挙手",
+    "vi": "Phát biểu xin lượt nói"
+  },
+  "rule_context": {
+    "ja": "4月度月例会議で松本PMが進捗報告中。ズンが数字の不一致に気づくが、割り込まずに発言の許可を求める場面。",
+    "vi": "Họp định kỳ tháng 4. Anh Matsumoto đang báo cáo tiến độ. Em Dũng phát hiện số liệu cần confirm nhưng phải xin lượt nói thay vì cắt lời."
+  },
+  "related_rules": [
+    "rule_20",
+    "rule_21",
+    "rule_23"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 割り込み発言",
+      "label_vi": "XẤU — Cắt lời giữa câu",
+      "display_order": 1,
+      "analysis": {
+        "ja": "話者の途中で割り込むと相手の面子をつぶし、会議のリズムを崩す。内容が正しくても失礼に映る。",
+        "vi": "Cắt lời giữa câu làm mất mặt người nói + phá nhịp họp. Dù nội dung đúng vẫn bị coi là thiếu lịch sự."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_19_bad_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "4月の進捗ですが、API連携の部分で…",
+          "sentence_translation": "Về tiến độ tháng 4, phần kết nối API thì...",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_19_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、その部分なんですけど、数字が違うと思います。",
+          "sentence_translation": "À, phần đó ấy, em nghĩ số liệu sai ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_19_bad_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "…そうですか。最後まで聞いていただけますか？",
+          "sentence_translation": "...Vậy à. Phiền Dũng nghe hết câu đã được không?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_19_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "すみません…",
+          "sentence_translation": "Em xin lỗi ạ...",
+          "tone": "apologetic"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 挙手で発言を求める",
+      "label_vi": "TỐT — Xin lượt nói trước khi phát biểu",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_19_good_02",
+          "highlight_text": "恐れ入りますが、一点よろしいでしょうか",
+          "ja": "発言を求める標準フレーズ。「一点」で短く済むことを予告し、聞き手に時間負担を与えない配慮。",
+          "vi": "Câu xin lượt nói chuẩn business JP. 「一点」 báo trước chỉ 1 điểm, không chiếm thời gian."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_19_good_04",
+          "highlight_text": "確認させていただきたい点がございます",
+          "ja": "「数字が違う」と直接指摘せず、確認を求める形で相手の面子を立てる。",
+          "vi": "Không nói thẳng 'số sai' mà mở bằng 'muốn confirm' để giữ thể diện cho đối phương."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_19_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "4月の進捗ですが、API連携の部分で予定通り進んでおります。",
+          "sentence_translation": "Về tiến độ tháng 4, phần kết nối API đang tiến triển đúng kế hoạch ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_19_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "恐れ入りますが、一点よろしいでしょうか？",
+          "sentence_translation": "Xin lỗi anh, cho em hỏi 1 điểm được không ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_19_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "どうぞ。",
+          "sentence_translation": "Mời Dũng.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_19_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "API連携の進捗率の数字について、確認させていただきたい点がございます。",
+          "sentence_translation": "Về số liệu tỷ lệ tiến độ kết nối API, em có 1 điểm muốn xin confirm lại ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_19_kp_01",
+      "speaker": "zun",
+      "sentence": "恐れ入りますが、一点よろしいでしょうか？",
+      "sentence_translation": "Xin lỗi anh/chị, cho em hỏi 1 điểm được không ạ?",
+      "purpose": "発言の許可を求める標準フレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_19_kp_02",
+      "speaker": "zun",
+      "sentence": "確認させていただきたい点がございます。",
+      "sentence_translation": "Em có một điểm muốn xin xác nhận lại ạ.",
+      "purpose": "間接的に異論・指摘を始める表現",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_19_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "会議で他の人が発言中、あなたが何か質問したい。最も適切な行動はどれか？",
+      "options": [
+        "すぐに割り込んで質問する",
+        "発言が一区切りしたところで「恐れ入りますが、一点よろしいでしょうか？」と挙手する",
+        "メモに書いて隣の人に渡す",
+        "会議後に個別に質問する"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "割り込みは失礼、メモ回しは情報共有にならず、会議後個別質問は議題を逃す。挙手＋許可を求めるのが標準。",
+        "vi": "Cắt lời = thất lễ. Truyền giấy = không share. Hỏi sau họp = lỡ topic. Giơ tay + xin lượt là chuẩn."
+      }
+    }
+  ]
+}

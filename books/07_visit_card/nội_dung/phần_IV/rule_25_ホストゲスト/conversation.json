@@ -1,0 +1,235 @@
+{
+  "rule_id": "rule_25",
+  "rule_slug": "ホスト・ゲストの作法",
+  "title": {
+    "ja": "ホスト・ゲストの作法",
+    "vi": "Vai trò host vs guest"
+  },
+  "rule_context": {
+    "ja": "Q1和食レストラン個室、開始18:30。ハー(CTO)・フオン副部長・ズン・トゥアンが host。中村CFO・大垣・松本・田中PMOがguest。host側がorder/pour/payを担い、客は何もしない作法。",
+    "vi": "Phòng riêng nhà hàng Q1, bắt đầu 18:30. Bên host: Hà CTO, chị Hương phó phòng, Dũng, Tuấn. Bên guest: CFO Nakamura, Ōgaki, Matsumoto, Tanaka PMO. Host order, host rót rượu, host trả tiền — khách không làm gì."
+  },
+  "related_rules": [
+    "rule_24",
+    "rule_26",
+    "rule_33"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — host が客にorderさせる + 客がpour",
+      "label_vi": "XẤU — host bắt khách order + khách tự rót",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①menu開いて『何にします？』=客に決断負担 ②客が自分のglassに注ぐ=host役割放棄 ③割り勘提案=接待概念崩壊。",
+        "vi": "(1) Mở menu hỏi 'anh chọn gì' = đẩy gánh nặng cho khách. (2) Khách tự rót cho mình = host bỏ vai. (3) Đề xuất chia tiền = phá cả khái niệm tiếp khách."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_25_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（menuを大垣さんに渡す）何にされますか？",
+          "sentence_translation": "(đẩy menu cho anh Ōgaki) Anh dùng gì ạ?",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_25_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "あ、では…どれが…",
+          "sentence_translation": "À thì... cái nào...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_25_bad_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "（自分のglassに自分でビールを注ぐ）",
+          "sentence_translation": "(tự rót bia vào ly của mình)",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_25_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "じゃ、最後は割り勘で…",
+          "sentence_translation": "Cuối bữa thì mình chia tiền nhé...",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_25_bad_05",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "（後で）ズン、接待は host が全責任。今日は私が請求書受け取る。次回からはorder+pour+payの3点徹底。",
+          "sentence_translation": "(sau đó) Dũng, tiếp khách là host chịu toàn bộ. Hôm nay anh nhận hóa đơn. Lần sau order + rót rượu + trả tiền 3 điểm phải triệt để.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — host order先行 + host pour + host pay",
+      "label_vi": "TỐT — host order trước + host rót + host trả",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_25_good_02",
+          "highlight_text": "コースは事前にお決めいただきました",
+          "ja": "host pre-decision告知=客に選択負担なし。menu開かない。",
+          "vi": "Host báo đã chốt menu trước = khách khỏi phải chọn. Không mở menu."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_25_good_03",
+          "highlight_text": "お注ぎいたします",
+          "ja": "瓶を両手(または右手+左手添え)で持ち、ラベルを上に。客のglassは客が両手で持ち上げる。",
+          "vi": "Cầm chai bằng 2 tay (hoặc tay phải + tay trái đỡ), nhãn hướng lên. Ly của khách thì khách cầm 2 tay nâng đón."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_25_good_05",
+          "highlight_text": "中村CFOのglassが空になりそう→すぐ pour",
+          "ja": "host常時客のglass監視=空になる前に注ぐ。客が自分で注ぐ前に動く。",
+          "vi": "Host phải canh ly khách liên tục = rót trước khi cạn. Hành động trước khi khách tự rót."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_25_good_07",
+          "highlight_text": "お会計はこちらで承りました",
+          "ja": "Bill退席前にこっそり host側で清算済=客の前で財布を出さない。これが日本式接待の極意。",
+          "vi": "Bill được host thanh toán bí mật trước khi tan tiệc = không rút ví trước mặt khách. Đây là tinh hoa tiếp khách kiểu Nhật."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_25_good_01",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "本日はお越しいただき、誠にありがとうございます。",
+          "sentence_translation": "Hôm nay quý vị đã đến, chúng tôi xin chân thành cảm ơn.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_25_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "コースは事前にお決めいただきました。お飲み物は日本酒・ワイン・ノンアルご用意しております。",
+          "sentence_translation": "Bên em đã chốt course trước rồi ạ. Đồ uống có sake, vang và đồ không cồn ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_25_good_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "（瓶を両手で持ち、ラベルを上にして大垣様のglassへ）お注ぎいたします。",
+          "sentence_translation": "(cầm chai 2 tay, nhãn hướng lên, rót vào ly anh Ōgaki) Em xin rót ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_25_good_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "（glassを両手で持ち上げて受ける）恐れ入ります。",
+          "sentence_translation": "(nâng ly bằng 2 tay đón) Phiền các anh quá.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_25_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（中村CFOのglassが空になりそう→すぐ pour）中村様、もう一杯いかがでしょうか。",
+          "sentence_translation": "(thấy ly CFO Nakamura sắp cạn → rót ngay) Anh Nakamura, em rót thêm cho anh ly nữa được không ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_25_good_06",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ありがとう、頂戴いたします。",
+          "sentence_translation": "Cảm ơn, tôi xin nhận.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_25_good_07",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "（中座してこっそりleft、bill決済 → 戻る）お会計はこちらで承りました。",
+          "sentence_translation": "(rời bàn kín đáo trả tiền rồi quay lại) Hóa đơn bên em đã lo rồi ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "4"
+          ]
+        },
+        {
+          "line_id": "rule_25_good_08",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ご馳走になりました、ありがとうございました。",
+          "sentence_translation": "Tôi đã được thiết đãi, cảm ơn rất nhiều.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_25_kp_01",
+      "speaker": "zun",
+      "sentence": "お注ぎいたします。",
+      "sentence_translation": "Em xin rót ạ.",
+      "purpose": "host pour 固定句",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_25_kp_02",
+      "speaker": "ha_cto",
+      "sentence": "お会計はこちらで承りました。",
+      "sentence_translation": "Hóa đơn bên em đã lo rồi ạ.",
+      "purpose": "host pay 完了報告",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_25_bjt_01",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "接待ディナーで host が果たすべき3つの役割は？",
+      "options": [
+        "予約・menu指定・割り勘",
+        "order・pour・pay の3つを host 側が全責任",
+        "客にmenuを渡し選んでもらう",
+        "alcohol を客に注がせる"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "host = order(menu決定) + pour(常時注ぐ) + pay(こっそり清算) の3点全責任。",
+        "vi": "Host = order (chốt menu) + pour (rót liên tục) + pay (trả kín đáo) — 3 trách nhiệm trọn gói."
+      }
+    }
+  ]
+}

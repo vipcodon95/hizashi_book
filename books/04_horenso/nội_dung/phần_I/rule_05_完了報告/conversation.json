@@ -1,0 +1,196 @@
+{
+  "rule_id": "rule_05",
+  "rule_slug": "完了報告",
+  "title": {
+    "ja": "完了報告 (Output→Acceptance→Lessons)",
+    "vi": "Báo cáo hoàn thành (Output→Acceptance→Lessons)"
+  },
+  "rule_context": {
+    "ja": "ズンが Phase 2 の完了をフオン副部長へ報告する場面。Output / Acceptance / Lessons の3要素フレームワークを実演。納品 ≠ 完了の概念を強調。",
+    "vi": "Em Dũng báo cáo hoàn thành Phase 2 cho chị Hương. Áp dụng framework Output / Acceptance / Lessons. Nhấn mạnh giao hàng ≠ hoàn thành."
+  },
+  "related_rules": ["rule_01", "rule_03", "rule_08"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — Output のみ、Acceptance/Lessons 欠落",
+      "label_vi": "XẤU — Chỉ có Output, thiếu Acceptance/Lessons",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「納品 = 完了」と勘違い。検収を取らないと完了とは言えない。Lessons が無いと次のフェーズに活かせない。",
+        "vi": "Nhầm 'giao hàng = hoàn thành'. Chưa có nghiệm thu thì không gọi là hoàn thành. Không có Lessons = không áp dụng được cho phase sau."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_05_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 2 完了のご報告です。納品物5点、すべて納品済みです。以上です。",
+          "sentence_translation": "Em báo cáo Phase 2 hoàn thành ạ. 5 deliverable đã giao hết. Em xin hết ạ.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_05_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "松本様から検収（受領確認）はもらった？まだなら『完了』とは言わない。",
+          "sentence_translation": "Anh Matsumoto đã ký nghiệm thu chưa? Chưa thì không gọi là 'hoàn thành'.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_05_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、まだメールで送ったところで…",
+          "sentence_translation": "À em vừa gửi mail đó thôi ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_05_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "それは『納品』であって『完了』ではない。それと、今回の振り返りは？次のフェーズに活かせる学びは？",
+          "sentence_translation": "Cái đó gọi là 'giao hàng' chứ không phải 'hoàn thành'. Còn nữa, retrospective lần này thế nào? Bài học nào áp dụng được cho phase sau?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_05_bad_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "振り返りはまだ…",
+          "sentence_translation": "Retrospective em chưa làm ạ...",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — Output + Acceptance + Lessons 完備",
+      "label_vi": "TỐT — Đủ Output + Acceptance + Lessons",
+      "display_order": 2,
+      "analysis": {
+        "ja": "Output を列挙し、Acceptance を書面で示し、Lessons を「学び＋次への適用」で締める。これで初めて完了報告として完結する。",
+        "vi": "Liệt kê Output, chứng minh Acceptance bằng văn bản, đóng Lessons bằng 'bài học + áp dụng tiếp'. Đó mới là báo cáo hoàn thành đầy đủ."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_05_good_01",
+          "highlight_text": "納品物5点（要件定義書〜運用手順書）",
+          "ja": "Output は数量化＋具体名で。「色々」「主要な」では不可。",
+          "vi": "Output phải định lượng + tên cụ thể. 「色々」「主要な」 không tính."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_05_good_02",
+          "highlight_text": "書面検収〜検収書のコピー",
+          "ja": "検収は書面で取り、コピーを共有。口頭OKは検収ではない。",
+          "vi": "Nghiệm thu phải có văn bản + chia sẻ bản copy. OK miệng không tính."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_05_good_03",
+          "highlight_text": "Phase 3 では仕様確認を着手前に必ず行います",
+          "ja": "Lessons は『学び＋次の行動』で締める。「気をつけます」では行動として認められない。",
+          "vi": "Lessons phải đóng bằng 'bài học + action tiếp'. 「気をつけます」 không được tính là action."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_05_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 2 完了報告です。Output：納品物5点（要件定義書、設計書、ソースコード、テスト報告書、運用手順書）、すべて納品済み。",
+          "sentence_translation": "Em báo cáo hoàn thành Phase 2 ạ. Output: 5 deliverable (Tài liệu yêu cầu, thiết kế, source code, test report, hướng dẫn vận hành), đã giao hết ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_05_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Acceptance：松本様より昨日付で書面検収をいただきました。検収書のコピーを別途共有いたします。",
+          "sentence_translation": "Acceptance: anh Matsumoto đã ký nghiệm thu bằng văn bản đề ngày hôm qua. Em sẽ chia sẻ bản copy nghiệm thu riêng ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_05_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Lessons：(1) 中間報告を 25/50/75% で行ったことで手戻りゼロ、(2) 反省点として、画面遷移仕様の確認が遅れ、テスト工数が当初比 +20% になりました。Phase 3 では仕様確認を着手前に必ず行います。",
+          "sentence_translation": "Lessons: (1) Báo cáo trung gian 25/50/75% giúp không phải làm lại lần nào, (2) Điểm rút kinh nghiệm: xác nhận spec luồng chuyển màn bị chậm, làm effort test tăng +20% so với dự kiến. Phase 3 em sẽ luôn xác nhận spec trước khi bắt tay làm ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_05_good_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "Acceptance まで取れて初めて完了。Lessons も具体的で良いね。Phase 3 の仕様確認手順は手順書に落として共有して。",
+          "sentence_translation": "Có Acceptance mới gọi là hoàn thành. Lessons cũng cụ thể, tốt. Quy trình xác nhận spec Phase 3 em đưa vào tài liệu hướng dẫn rồi share nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_05_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "承知しました。今週中に手順書を作成し共有いたします。",
+          "sentence_translation": "Em hiểu ạ. Em sẽ làm tài liệu trong tuần này và chia sẻ ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_05_kp_01",
+      "speaker": "zun",
+      "sentence": "〇〇完了報告です。Output: 〇〇。Acceptance: 〇〇様より〇〇付検収済み。Lessons: 〇〇、次回は〇〇いたします。",
+      "sentence_translation": "Em báo cáo hoàn thành 〇〇. Output: 〇〇. Acceptance: anh/chị 〇〇 đã ký nghiệm thu ngày 〇〇. Lessons: 〇〇, lần sau em sẽ 〇〇.",
+      "purpose": "完了報告の3要素フレーム",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_05_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "「納品済み」と「完了」の違いとして正しいものは？",
+      "options": [
+        "両者は同じ意味",
+        "納品済み = 物を渡した、完了 = 検収まで取れた状態",
+        "完了 = 物を渡した、納品済み = 検収まで取れた状態",
+        "どちらも口頭OKで成立する"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "日本ビジネスでは、納品（物を渡す）と完了（検収済み）は明確に区別される。検収書なしでは完了とは言えない。",
+        "vi": "Business Nhật phân biệt rõ: 納品 (giao hàng) vs 完了 (đã có nghiệm thu). Không có văn bản nghiệm thu thì chưa gọi là hoàn thành."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_05_tpl_01",
+      "format": "report",
+      "title_ja": "完了報告書テンプレート",
+      "title_vi": "Template báo cáo hoàn thành",
+      "content_ja": "件名：【完了報告】〇〇プロジェクト Phase 〇\n\n〇〇様\nお世話になっております。ティエンファットの〇〇でございます。\n下記のとおり、〇〇Phase 〇の完了をご報告申し上げます。\n\n■ Output（成果物）\n  1. 〇〇（〇月〇日 納品）\n  2. 〇〇（〇月〇日 納品）\n  3. 〇〇（〇月〇日 納品）\n\n■ Acceptance（検収状況）\n  - 検収日：〇〇年〇月〇日\n  - 検収者：〇〇様\n  - 検収書：別添「検収書_〇〇.pdf」参照\n\n■ Lessons（振り返り）\n  ◎ 良かった点：\n    - 〇〇\n  △ 改善点：\n    - 〇〇（原因：〇〇）\n  → 次フェーズへの適用：\n    - 〇〇までに〇〇を実施いたします\n\n以上、ご確認のほどよろしくお願い申し上げます。",
+      "content_vi": "[Subject] [Báo cáo hoàn thành] Dự án 〇〇 Phase 〇\n\n[Kính gửi anh/chị 〇〇]\nLúc nào cũng cảm ơn anh/chị giúp đỡ ạ. Em 〇〇 bên Thiên Phát đây ạ.\nEm xin báo cáo việc hoàn thành Phase 〇 của dự án 〇〇 như dưới đây ạ.\n\n[Output (Đầu ra)]\n  1. 〇〇 (giao 〇/〇)\n  2. 〇〇 (giao 〇/〇)\n  3. 〇〇 (giao 〇/〇)\n\n[Acceptance (Trạng thái nghiệm thu)]\n  - Ngày nghiệm thu: 〇/〇/〇\n  - Người nghiệm thu: anh/chị 〇〇\n  - Văn bản nghiệm thu: xem file đính kèm 'kenshushou_〇〇.pdf'\n\n[Lessons (Bài học)]\n  Tốt:\n    - 〇〇\n  Cần cải thiện:\n    - 〇〇 (nguyên nhân: 〇〇)\n  Áp dụng cho phase sau:\n    - Em sẽ 〇〇 trước 〇〇\n\nPhiền anh/chị xác nhận giúp em ạ.",
+      "notes_ja": "Acceptance セクションで検収日と検収書名を明記。Lessons は「良かった点」「改善点」「次への適用」の3点セットで。",
+      "notes_vi": "Section Acceptance phải ghi rõ ngày nghiệm thu + tên file văn bản. Lessons gồm 3 mục: Tốt, Cần cải thiện, Áp dụng cho phase sau."
+    }
+  ]
+}

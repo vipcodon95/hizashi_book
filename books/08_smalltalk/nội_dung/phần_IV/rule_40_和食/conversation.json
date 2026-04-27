@@ -1,0 +1,311 @@
+{
+  "rule_id": "08-40",
+  "rule_slug": "和食",
+  "title": {
+    "vi": "Nhà hàng Nhật ở VN",
+    "ja": "ベトナムでの和食"
+  },
+  "rule_context": {
+    "luan_diem_vi": "JP onsite VN 1 tuần thèm 和食 ngày 4-5. Bạn = host phải có list nhà hàng đúng vị HN/HCM phân loại theo: chef gốc Nhật / chuỗi import / izakaya local.",
+    "luan_diem_ja": "日本人客は1週間VNにいると4-5日目に和食が恋しくなる。ハノイ・HCMで本物の店を即時提案できるのがホストの真価。",
+    "boi_canh_vi": "Tháng 11/2026, Matsumoto + Tanaka onsite Hà Nội 5 ngày. Ngày 3 hỏi 和食. Cuối tuần Hiroshi (Hiroshima) bay vào HCM.",
+    "boi_canh_ja": "2026年11月、松本・田中ハノイ出張5日目で和食希望。週末は広島さんがHCM入り。",
+    "muc_tieu_vi": "Học cách host gợi ý nhà hàng Nhật chính xác cho khách JP onsite VN."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "11",
+      "topic": "Topic ăn"
+    },
+    {
+      "book": "08",
+      "rule": "12",
+      "topic": "Topic uống"
+    },
+    {
+      "book": "08",
+      "rule": "42",
+      "topic": "Izakaya order flow"
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "Hà Nội — chef Nhật cao cấp + anticipate",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "ズンさん、今夜は日本食がいいな。本物のあるとこ知ってる?",
+          "vi": "Dũng, tối nay tôi muốn ăn Nhật. Có chỗ thật không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "チェフが日本人の店、3つお勧めできます。①カイカヤ・ハノイ — 銀座の本店から来たシェフが立ち上げた割烹、②寿司一(Sushi Ichi) — 福岡の魚を空輸、③Tofu Daimon — 京都の豆腐屋出身のシェフ。",
+          "vi": "Có 3 chỗ chef người Nhật ạ. ① Kaikaya Hanoi — chef từ chi nhánh Ginza, kappo. ② Sushi Ichi — cá tươi không vận từ Fukuoka. ③ Tofu Daimon — chef gốc tiệm đậu hủ Kyoto."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "カイカヤ、銀座のあれ?日本人会で評判いいって聞く。",
+          "vi": "Kaikaya, bên Ginza đó? Hội người Nhật khen nhỉ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、駐在員ご家族の利用率高いです。Daejin通りで、英語+日本語+ベトナム語のメニュー。カウンター8席だけなので予約必須。",
+          "vi": "Vâng, gia đình expat đến nhiều. Phố Đặng Tiến, menu Anh-Nhật-Việt. Counter 8 ghế, phải book."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "予約取れる?今夜?",
+          "vi": "Đặt được không em? Tối nay?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "先週シェフのトミタさんに連絡してて、19時押さえてあります。おまかせ4500万ドン(約23,000円)で、ハノイで一番『東京の味』に近いという評価です。",
+          "vi": "Em đã liên hệ chef Tomita tuần trước, giữ chỗ 19h rồi ạ. Omakase 4.5 triệu (~23k yen), đánh giá là 'gần vị Tokyo nhất' Hà Nội."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "もう予約してくれてたの?ありがたい。",
+          "vi": "Em đặt rồi à? Cảm ơn em."
+        },
+        {
+          "speaker": "zun",
+          "ja": "先週松本さんが『中盤に和食気分』っておっしゃってたので、念のため(笑)",
+          "vi": "Tuần trước anh có nói 'giữa chuyến muốn ăn Nhật' nên em đặt phòng hờ (cười)"
+        }
+      ]
+    },
+    {
+      "scenario": "Hà Nội — izakaya casual junior",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "カウンター割烹はちょっと畏まり過ぎるかも…居酒屋っぽいところある?",
+          "vi": "Counter kappo hơi formal... có chỗ kiểu izakaya không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "Yakitori Ton(焼鳥屯)、ハノイのリンランビレッジ近くで、炭火焼鳥+生ビールの本格派です。店主は東京・恵比寿の修行帰りで、ベトナム人スタッフも全員日本語OK。",
+          "vi": "Yakitori Ton, gần làng Linh Lang, yakitori than củi + bia tươi chuẩn bài. Chủ tu nghiệp Ebisu Tokyo về, nhân viên VN cũng tiếng Nhật ổn."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "いいね。値段帯は?",
+          "vi": "Hay. Giá tầm bao?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "焼鳥1本3万ドン(約150円)、ビール5万ドン(約250円)。東京の3分の1くらいで、朝引き地鶏+備長炭で本物です。",
+          "vi": "Yakitori 1 que 30k đồng (~150 yen), bia 50k đồng (~250 yen). 1/3 Tokyo, gà sáng giết + than bincho — chuẩn."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "東京の3分の1!通うわ(笑)",
+          "vi": "1/3 Tokyo! Ghé thường xuyên luôn (cười)"
+        },
+        {
+          "speaker": "zun",
+          "ja": "あとIzakaya Hokkai(居酒屋北海)は北海道海産メインで、いくら丼+ホタテバターあります。日本人客6割、駐在員家族も多いので、ガヤガヤ感も本物です。",
+          "vi": "Còn Izakaya Hokkai chuyên hải sản Hokkaido, có ikura don + hotate bata. 60% khách Nhật + nhiều gia đình expat, không khí ồn ào thật."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "ホタテバターって(笑)、北海道感やばい。今夜行こう。",
+          "vi": "Hotate bata (cười), không khí Hokkaido luôn. Tối nay đi!"
+        }
+      ]
+    },
+    {
+      "scenario": "HCM — Hiroshi senior + 広島焼 anticipate",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "ズンさん、ホーチミンで日本食、おすすめは?",
+          "vi": "Dũng, đồ Nhật ở HCM em recommend gì?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "広島さん、シニアの方でしたら信頼できるチェーンを中心に。①Sushi Tei、②大阪『串かつだるま』ホーチミン店、③『AKA House』焼肉(神戸牛輸入)、3つ間違いないです。",
+          "vi": "Anh Hiroshi, với senior thì chuỗi tin cậy là chính. ① Sushi Tei, ② 'Kushikatsu Daruma' Osaka chi nhánh HCM, ③ 'AKA House' nướng (bò Kobe nhập). 3 chỗ chắc chắn ạ."
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "神戸牛がホーチミンで食べられんの?",
+          "vi": "Bò Kobe ăn được ở HCM à?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、A5ランクを空輸してます。値段は東京と同等(コース150万ドン〜)ですが、ハサミで切る焼肉スタイルで肉質保証してます。",
+          "vi": "Vâng, A5 không vận. Giá ngang Tokyo (course 1.5 triệu+) nhưng nướng cắt kéo đảm bảo chất."
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "広島の人としてはお好み焼きが恋しいんやけど、ハノイあたりにあるんかな?",
+          "vi": "Là người Hiroshima nên anh thèm okonomiyaki, có ở khu HCM không nhỉ?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ホーチミンに『お好み焼き きじ』って店があります。広島焼を本格再現(キャベツの千切り厚め+そば玉+目玉焼き)。広島さんでしたら是非ぜひ。",
+          "vi": "HCM có quán 'Okonomiyaki Kiji'. Tái hiện chuẩn Hiroshima-yaki (bắp cải thái dày + sợi soba + trứng ốp). Anh Hiroshi nhất định nên thử."
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "広島焼きあるんか!?それ絶対行く!",
+          "vi": "Có Hiroshima-yaki á?! Tôi đi cho bằng được!"
+        },
+        {
+          "speaker": "zun",
+          "ja": "明日の夜、19時で予約取りますね。",
+          "vi": "Tối mai 19h em đặt chỗ ạ."
+        }
+      ]
+    },
+    {
+      "scenario": "HCM — closing dinner premium",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "tuan_leader",
+          "ja": "ズン、来週のクロージングディナー、HCMの和食でハイエンド何ある?",
+          "vi": "Dũng, dinner closing tuần sau, hi-end Nhật ở HCM có gì?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "3つ候補あります。①Sushi Hokkaido Sachi — 札幌から空輸、おまかせ250万ドン。②Shoukouwa Sushi — シンガポール3つ星系列、1人500万ドン、究極の体験。③Sorae Restaurant & Lounge — モダン懐石、サイゴンスカイラインの夜景。",
+          "vi": "3 ứng viên ạ. ① Sushi Hokkaido Sachi — không vận từ Sapporo, omakase 2.5 triệu. ② Shoukouwa Sushi — chuỗi 3-sao Singapore, 5 triệu/người, đẳng cấp. ③ Sorae — modern kaiseki, view Saigon đêm."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "クロージングディナーだから、夜景+話のしやすさで行きたい。",
+          "vi": "Dinner closing thì view + dễ nói chuyện."
+        },
+        {
+          "speaker": "zun",
+          "ja": "でしたらSorae一択です。24階の屋上、個室半個室あり、シェフは京都修行、雰囲気は東京銀座のモダン懐石。クロージングに最適。",
+          "vi": "Vậy chọn Sorae luôn. Tầng 24 rooftop, có phòng riêng/bán riêng, chef tu nghiệp Kyoto, không khí kiểu modern kaiseki Ginza Tokyo. Hợp closing."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "6名で個室予約取れる?",
+          "vi": "6 người đặt phòng riêng được không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "Soraeは金曜夜は2週間前必須。今動きます。ドレスコードはスマートカジュアル、ジャケットあった方が無難ってお伝えしておきます。",
+          "vi": "Sorae tối thứ 6 phải đặt 2 tuần trước. Em làm liền. Dress code smart casual, có jacket an toàn — em sẽ thông báo trước cho anh."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "ドレスコードまで気回せるの、さすが。",
+          "vi": "Để ý cả dress code, đỉnh."
+        },
+        {
+          "speaker": "zun",
+          "ja": "お客様に当日『靴脱ぐの?ジャケット要る?』って戸惑わせないように、です。",
+          "vi": "Để khách không phải lúng túng 'cởi giày? cần jacket?' giờ G ạ."
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "HN",
+      "ja": "カイカヤ・ハノイ — 銀座の本店から来たシェフ、おまかせ4500万ドン。",
+      "vi": "Kaikaya Hanoi — chef từ Ginza, omakase 4.5 triệu.",
+      "use": "Cao cấp HN"
+    },
+    {
+      "category": "HN",
+      "ja": "Yakitori Ton — 東京・恵比寿の修行帰り、3万ドン1本。",
+      "vi": "Yakitori Ton — chef tu nghiệp Ebisu, 30k/que.",
+      "use": "Casual HN"
+    },
+    {
+      "category": "HN",
+      "ja": "Izakaya Hokkai — 北海道海産、いくら丼+ホタテバター。",
+      "vi": "Izakaya Hokkai — hải sản Hokkaido.",
+      "use": "Match khách Hokkaido"
+    },
+    {
+      "category": "HCM",
+      "ja": "Sushi Tei、串かつだるま、AKA House焼肉、間違いないチェーン3つ。",
+      "vi": "3 chuỗi tin cậy ở HCM.",
+      "use": "Senior an toàn"
+    },
+    {
+      "category": "HCM",
+      "ja": "お好み焼ききじ — 広島焼を本格再現。",
+      "vi": "Okonomiyaki Kiji — Hiroshima-yaki chuẩn.",
+      "use": "Match khách Hiroshima"
+    },
+    {
+      "category": "HCM",
+      "ja": "Sorae — 24階モダン懐石、夜景、クロージングに最適。",
+      "vi": "Sorae — modern kaiseki tầng 24, view, hợp closing.",
+      "use": "Premium closing"
+    },
+    {
+      "category": "Host pro",
+      "ja": "先週『中盤に和食気分』とおっしゃってたので、念のため予約しておきました。",
+      "vi": "Tuần trước anh nói thèm Nhật giữa chuyến nên em đặt sẵn.",
+      "use": "Anticipate"
+    },
+    {
+      "category": "Host pro",
+      "ja": "東京の3分の1の値段で、本物です。",
+      "vi": "1/3 giá Tokyo nhưng chuẩn.",
+      "use": "Pitch giá"
+    },
+    {
+      "category": "Host pro",
+      "ja": "ドレスコードはスマートカジュアル、ジャケットあった方が無難です。",
+      "vi": "Dress code smart casual, jacket an toàn.",
+      "use": "Pre-brief professional"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "ハノイ出張中の若手客が『居酒屋っぽいところある?』と言った時、最も適切な提案は?",
+      "options": [
+        "A. 銀座修行の高級割烹を提案",
+        "B. Yakitori Ton(東京修行帰り、3万ドン1本)+ Izakaya Hokkai を提案",
+        "C. ベトナム料理屋を提案",
+        "D. ホテルの朝食ビュッフェを提案"
+      ],
+      "answer": "B",
+      "explain_vi": "Match request casual + price-friendly. A formal quá; C nhầm topic; D không phải Nhật."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "広島出身のお客様にHCMの和食を勧める時、最も加点になるのは?",
+      "options": [
+        "A. 寿司の店だけ提案",
+        "B. お好み焼ききじ(広島焼を本格再現)を即時挙げる",
+        "C. 大阪のお好み焼きを提案",
+        "D. 出身地は関係ないので一般的なチェーンだけ"
+      ],
+      "answer": "B",
+      "explain_vi": "Match regional native = +20 điểm host. C nhầm vùng (Hiroshima vs Osaka okonomiyaki khác); D miss cơ hội."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "クロージングディナーの予約で、ホストとして気を回すべき項目は?",
+      "options": [
+        "A. 値段だけ",
+        "B. 個室予約 + ドレスコード事前共有 + シェフ背景説明",
+        "C. お任せで何も伝えない",
+        "D. お客様に自分で予約させる"
+      ],
+      "answer": "B",
+      "explain_vi": "Full host mode: room + dress + chef background → khách không phải lo gì. A miss professional; C/D phá host role."
+    }
+  ],
+  "templates": []
+}

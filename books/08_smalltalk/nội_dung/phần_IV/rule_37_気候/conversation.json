@@ -1,0 +1,311 @@
+{
+  "rule_id": "08-37",
+  "rule_slug": "気候",
+  "title": {
+    "vi": "Khí hậu 3 miền VN",
+    "ja": "3地域気候"
+  },
+  "rule_context": {
+    "luan_diem_vi": "VN không nóng quanh năm. Hà Nội 4 mùa thật, miền Trung bão lũ tháng 10, HCM 2 mùa mưa khô. Kể được = khách JP chuẩn bị onsite đúng + bridge với 4 mùa Nhật.",
+    "luan_diem_ja": "VNは1年中暑いというのは誤解。ハノイは四季、中部は10月台風、HCMは雨季・乾季。3地域の違いを語れると深まる。",
+    "boi_canh_vi": "Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị onsite Đà Nẵng. Đang mùa bão miền Trung — phải explain cẩn thận.",
+    "boi_canh_ja": "2026年10月、松本・小林とZoom、ダナン出張準備。中部の台風シーズン中で慎重に説明。",
+    "muc_tieu_vi": "Học cách kể khí hậu 3 miền VN có depth + bridge với 4 mùa JP."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "09",
+      "topic": "Thời tiết Nhật depth"
+    },
+    {
+      "book": "08",
+      "rule": "32",
+      "topic": "Okinawa"
+    },
+    {
+      "book": "08",
+      "rule": "38",
+      "topic": "Thành phố VN"
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "Hà Nội 4 mùa — phá định kiến nóng quanh năm",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "ズンさん、来年1月にハノイ出張なんだけど、半袖でいいよね?",
+          "vi": "Dũng, tháng 1 tới tôi đi Hà Nội, mặc áo cộc tay được nhỉ?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "いえ、ハノイは1月だと10度切ること多いです。ダウンジャケット要ります。",
+          "vi": "Dạ không, HN tháng 1 thường dưới 10°C. Anh cần áo phao ạ."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "ええっ、ベトナム10度?",
+          "vi": "Ơ, VN 10°C?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ハノイは4季節あって、12-2月の冬は東京並みに冷えます。ただ暖房がない家が多いので、屋内も寒く感じます。",
+          "vi": "Hà Nội có 4 mùa thật, mùa đông 12-2 lạnh tương đương Tokyo. Nhưng đa số nhà không sưởi nên trong nhà cũng lạnh."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "暖房ないの?それは辛そう…",
+          "vi": "Không có sưởi à? Nghe khổ thật..."
+        },
+        {
+          "speaker": "zun",
+          "ja": "室内でヒートテック+セーターで過ごします。あと北部独特の『湿った冷気』で、東京の乾いた冬と違って体に染みる感じです。",
+          "vi": "Trong nhà mặc Heattech + áo len. Bắc bộ có 'rét ẩm' đặc trưng, khác mùa đông khô Tokyo, ngấm vào người ạ."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "分かった、防寒しっかりしていく。逆に夏は?",
+          "vi": "Hiểu rồi, tôi sẽ chuẩn bị áo ấm. Còn mùa hè?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "夏は逆で、6-8月は40度近く。日本の蒸し暑さと近いです。春(3-4月)と秋(10-11月)が一番過ごしやすいので、出張ベストシーズンです。",
+          "vi": "Hè ngược lại, 6-8 gần 40°C, oi giống Nhật. Xuân (3-4) và thu (10-11) dễ chịu nhất, mùa onsite tốt nhất."
+        }
+      ]
+    },
+    {
+      "scenario": "Bão và lũ miền Trung",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "kobayashi_okinawa",
+          "ja": "ダナンの出張、来週にしようか今週にしようか迷ってて。今って大丈夫?",
+          "vi": "Anh phân vân onsite Đà Nẵng tuần này hay tuần sau. Giờ ổn không em?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "今週は台風12号が南シナ海に発生したばかりで、ダナンに金曜接近の予報です。来週の方が確実に安全です。",
+          "vi": "Tuần này bão số 12 vừa hình thành ở Biển Đông, dự báo áp sát Đà Nẵng thứ Sáu. Tuần sau chắc chắn an toàn hơn ạ."
+        },
+        {
+          "speaker": "kobayashi_okinawa",
+          "ja": "あー、台風?沖縄もしょっちゅう来るから慣れてるけど、ベトナムも来るんだ。",
+          "vi": "À, bão? Okinawa hay có nên anh quen, VN cũng có nhỉ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "中部(フエ・ダナン・ホイアン)が一番台風に弱い地域で、9-11月は台風シーズン。2017年のダムレイ台風では、ホイアン旧市街が腰の高さまで浸水しました。",
+          "vi": "Miền Trung (Huế-Đà Nẵng-Hội An) yếu nhất với bão. 9-11 là mùa bão. Bão Damrey 2017 phố cổ Hội An ngập đến hông."
+        },
+        {
+          "speaker": "kobayashi_okinawa",
+          "ja": "腰までか…沖縄の台風被害と似てるな。",
+          "vi": "Đến hông à... giống thiệt hại bão Okinawa nhỉ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "沖縄と中部VNはほぼ同じ緯度なので、台風の通り道がよく似てます。現地は旧市街の家を1階空っぽにして、家具を2階に上げるっていう適応してます。",
+          "vi": "Okinawa và miền Trung VN cùng vĩ độ nên đường đi của bão giống nhau. Người dân thích nghi bằng cách để trống tầng 1 phố cổ, đẩy đồ lên tầng 2 mùa bão."
+        },
+        {
+          "speaker": "kobayashi_okinawa",
+          "ja": "そりゃ生活の知恵だね。じゃ来週で調整しよう。",
+          "vi": "Đó đúng là kinh nghiệm sống. Vậy sắp lịch tuần sau."
+        }
+      ]
+    },
+    {
+      "scenario": "HCM 2 mùa mưa khô",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "来月ホーチミン、雨季だよね?ずっと降ってんの?",
+          "vi": "Tháng sau em đi HCM, mùa mưa nhỉ? Mưa cả ngày à?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "降り続ける雨ではなく、一日1〜2回、強く30分降ってサッと止むスコール型です。",
+          "vi": "Không phải mưa cả ngày, mà 1-2 lần/ngày, mưa mạnh 30 phút rồi tạnh — kiểu mưa rào."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "あー、シンガポールみたいな?",
+          "vi": "À, kiểu Singapore?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "まさにそれです!典型的な熱帯モンスーンで、5-10月が雨季、11-4月が乾季。雨季は夕方4-6時に降ることが多いので、その時間帯は屋内で予定組むのがコツです。",
+          "vi": "Đúng vậy! Khí hậu nhiệt đới gió mùa điển hình. Mưa 5-10, khô 11-4. Mùa mưa hay rơi 4-6h chiều, mẹo là sắp lịch trong nhà giờ đó."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "夕方かあ、ちょうど移動の時間や。",
+          "vi": "Chiều à, đúng giờ di chuyển."
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、なので12時頃に外回り、夕方に会議室っていう逆転パターンが現地BDの定番です。あと雨が止んだ直後は涼しくて気持ちいい。",
+          "vi": "Vâng, nên 12h ra ngoài, chiều họp phòng — pattern ngược của BD bên này. Mưa tạnh xong rất mát dễ chịu."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "現地の人の動き方ってのが分かるね、メモる。気温は?",
+          "vi": "Biết cách người bản địa di chuyển hay nhỉ, em ghi. Nhiệt độ?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ホーチミンは年間27-32度ほぼ一定で、ハノイみたいな温度差はないです。11-1月の乾季・朝晩涼しめが、出張ベストシーズン。",
+          "vi": "HCM cả năm 27-32, không chênh như HN. Tháng 11-1 mùa khô, sáng tối mát = mùa onsite tốt nhất."
+        }
+      ]
+    },
+    {
+      "scenario": "Bridge 4 mùa Nhật ↔ Bắc Nam VN",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "日本の四季文化って、ベトナムの人にはピンと来ない?",
+          "vi": "Văn hóa 4 mùa Nhật, người VN có hiểu không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ハノイ出身者には四季は分かります。私も小さい頃桃の花の春、ロータスの夏、菊の秋、菊酒の冬って母から教わって育ちました。",
+          "vi": "Người gốc Hà Nội thì hiểu 4 mùa. Hồi bé em được mẹ dạy 'xuân hoa đào, hạ sen, thu cúc, đông rượu cúc' đó ạ."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "あ、ベトナムにも季語みたいなのあるんだ。",
+          "vi": "À, VN cũng có quý ngữ kiểu vậy."
+        },
+        {
+          "speaker": "zun",
+          "ja": "北部の伝統文化には四季感ありますね。ホーチミン出身者には逆にピンと来ないようで、彼らに『紅葉狩り』の話をしても初めて知ることが多いです。",
+          "vi": "Văn hóa Bắc bộ có cảm thức 4 mùa. Người gốc HCM thì lạ, kể về 'ngắm lá đỏ' họ thường nghe lần đầu."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "面白いね、同じ国でも違うんだ。",
+          "vi": "Hay nhỉ, cùng nước mà khác."
+        },
+        {
+          "speaker": "zun",
+          "ja": "だから北の人と話す時は『四季の話』、南の人と話す時は『マンゴーの旬』『熱帯果実の話』って、topic変える必要があります。",
+          "vi": "Nên khi nói với người Bắc thì 'chuyện 4 mùa', người Nam thì 'mùa xoài, hoa quả nhiệt đới' — đổi topic ạ."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "なるほど、東京と那覇くらい文化違うのか。",
+          "vi": "À, văn hóa khác như Tokyo - Naha luôn nhỉ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "まさにそういうイメージです、近いと思います!",
+          "vi": "Đúng image đó ạ, gần lắm!"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "HN",
+      "ja": "ハノイは1月だと10度切ること多いです、ダウンジャケット要ります。",
+      "vi": "HN tháng 1 thường <10°C, cần áo phao.",
+      "use": "Phá định kiến quan trọng"
+    },
+    {
+      "category": "HN",
+      "ja": "暖房がない家が多いので、屋内も寒く感じます。",
+      "vi": "Nhà ít có sưởi nên trong nhà cũng lạnh.",
+      "use": "Practical info"
+    },
+    {
+      "category": "HN",
+      "ja": "春(3-4月)と秋(10-11月)が出張ベストシーズンです。",
+      "vi": "Xuân và thu là mùa onsite tốt nhất.",
+      "use": "Advise concrete"
+    },
+    {
+      "category": "Trung",
+      "ja": "9-11月は台風シーズンで、フエ・ダナン・ホイアンが弱いです。",
+      "vi": "9-11 mùa bão, Huế-ĐN-HA yếu.",
+      "use": "Advise an toàn"
+    },
+    {
+      "category": "Trung",
+      "ja": "沖縄と中部VNはほぼ同じ緯度で、台風の通り道が似てます。",
+      "vi": "Okinawa và Trung VN cùng vĩ độ.",
+      "use": "Bridge với khách Okinawa"
+    },
+    {
+      "category": "HCM",
+      "ja": "強く30分降ってサッと止むスコール型です。",
+      "vi": "Mưa mạnh 30 phút rồi tạnh kiểu rào.",
+      "use": "Mô tả mưa"
+    },
+    {
+      "category": "HCM",
+      "ja": "雨は夕方4-6時に多いので、その時間は屋内予定がコツ。",
+      "vi": "Mưa hay chiều 4-6h, sắp lịch trong nhà.",
+      "use": "Practical insider"
+    },
+    {
+      "category": "HCM",
+      "ja": "年間27-32度ほぼ一定、温度差はないです。",
+      "vi": "Cả năm 27-32, không chênh.",
+      "use": "Phân biệt với HN"
+    },
+    {
+      "category": "Bridge",
+      "ja": "東京と那覇くらい文化違うイメージです。",
+      "vi": "Khác văn hóa như Tokyo-Naha.",
+      "use": "Bridge với khách Okinawa/Tokyo"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "「来年1月にハノイ出張、半袖でいいよね?」と聞かれたら最も適切な返答は?",
+      "options": [
+        "A. 「はい、半袖でいいですよ」と答える",
+        "B. 「いえ、10度切るのでダウンジャケット要ります」とはっきり訂正する",
+        "C. 「ベトナムは暑いです」とだけ答える",
+        "D. 「日本の冬よりは暖かいですよ」と曖昧にする"
+      ],
+      "answer": "B",
+      "explain_vi": "Phá định kiến rõ ràng + advise concrete = trách nhiệm với khách. A/C/D dẫn đến khách mặc sai onsite."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "沖縄出身のお客様に中部VNの台風を説明する時、最も響く言い方は?",
+      "options": [
+        "A. 「VNも台風が来ます」",
+        "B. 「沖縄と中部VNはほぼ同じ緯度なので、台風の通り道が似てます」と地理的共通点を指摘",
+        "C. 「日本より台風被害が大きいです」と比較",
+        "D. 「政府の防災が遅れてる」と政治的に語る"
+      ],
+      "answer": "B",
+      "explain_vi": "Bridge bằng vĩ độ tương đồng → khách Okinawa instant đồng cảm. C so sánh negative; D vùng cấm."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "「ハノイの人とホーチミンの人で四季感が違う」と説明する時、お客様に響くアナロジーは?",
+      "options": [
+        "A. 「東京と京都くらい違います」",
+        "B. 「東京と那覇くらい文化違うイメージです」",
+        "C. 「南北で言葉が違うだけです」",
+        "D. 「全く同じです」"
+      ],
+      "answer": "B",
+      "explain_vi": "東京-那覇 = same nation nhưng khí hậu / cảm thức 4 mùa hoàn toàn khác → match Bắc-Nam VN. A khác cấp; C nông; D sai."
+    }
+  ],
+  "templates": []
+}

@@ -1,0 +1,209 @@
+{
+  "rule_id": "rule_38",
+  "rule_slug": "対外発表",
+  "title": {
+    "ja": "対外発表",
+    "vi": "PR release joint approval"
+  },
+  "rule_context": {
+    "ja": "Phase 3 締結 PR を 両社 legal + PR レビューを経て『数千万円規模』表記で同時 embargo release する場面。",
+    "vi": "PR release ký Phase 3 — qua joint review legal + PR cả 2 bên, framing 'quy mô vài chục triệu yên', release đồng thời theo embargo."
+  },
+  "related_rules": ["rule_36", "rule_39"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — solo release + ¥ 明示",
+      "label_vi": "XẤU — Solo release + lộ ¥",
+      "display_order": 1,
+      "analysis": {
+        "ja": "白鷗 PR 部 unawared、¥17M exposed。競合に予算暴露 + take-down で白鷗 reputation dent。Phase 4 機会喪失。",
+        "vi": "Bên Hakuō PR không biết, ¥17M lộ ra. Lộ budget cho competitor + take-down làm reputation Hakuō dent → mất Phase 4."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_38_bad_01",
+          "speaker": "linh",
+          "speaker_role": "マーケティング部インターン",
+          "gender": "female",
+          "sentence": "ズン先輩、Phase 3 締結 PR draft できました! ¥17M deal 強調しています! 明日 publish OK ですか?",
+          "sentence_translation": "Anh Dũng, em làm xong PR draft Phase 3 rồi ạ! Em nhấn ¥17M deal! Mai publish OK không ạ?",
+          "tone": "cheerful"
+        },
+        {
+          "line_id": "rule_38_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "OK、進めて。",
+          "sentence_translation": "OK em, làm tiếp đi.",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_38_bad_03",
+          "speaker": "linh",
+          "speaker_role": "マーケティング部インターン",
+          "gender": "female",
+          "sentence": "ティエンファット、白鷗株式会社と Phase 3 で ¥17M 契約締結 — publish 完了!",
+          "sentence_translation": "Tiên Phát, ký với Hakuō ¥17M Phase 3 — đã publish!",
+          "tone": "cheerful"
+        },
+        {
+          "line_id": "rule_38_bad_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "ズン様、弊社 PR 部から何の連絡もなく、しかも金額が明示されています。競合他社に弊社 IT 予算が exposed、即時 take-down お願いします!",
+          "sentence_translation": "Anh Dũng, bên anh PR không nhận được liên lạc gì, lại còn ghi rõ số tiền. Budget IT bên tôi lộ cho đối thủ, lập tức take-down giúp tôi!",
+          "tone": "angry"
+        },
+        {
+          "line_id": "rule_38_bad_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "申し訳ございません、すぐ削除します…",
+          "sentence_translation": "Em xin lỗi anh ạ, em xóa ngay ạ...",
+          "tone": "apologetic"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — joint approval + 同時 embargo",
+      "label_vi": "TỐT — Joint approval + đồng thời embargo",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_38_good_01",
+          "highlight_text": "数千万円規模",
+          "ja": "金額 framing。¥ 明示は競合に予算 exposure。'数千万円規模' が業界標準。",
+          "vi": "Framing số tiền. Lộ ¥ chính xác = lộ budget khách. 'Quy mô vài chục triệu yên' là chuẩn ngành."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_38_good_02",
+          "highlight_text": "白鷗 PR 部にメール → 田中 PMO 経由で大垣様に paralel 共有",
+          "ja": "Joint approval flow: 自社 PR → 自社 legal → 客 PR (formal) → 客営業窓口 (parallel) → 両社 legal → embargo。",
+          "vi": "Flow joint approval: PR mình → legal mình → PR khách (formal) → BD khách (parallel) → legal cả 2 → embargo."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_38_good_06",
+          "highlight_text": "joint announcement 体裁",
+          "ja": "両社 quote 入りで joint announcement の体裁。unilateral より trust 高。",
+          "vi": "Có quote cả 2 bên → joint announcement vẻ chuẩn. Cao tin cậy hơn unilateral."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_38_good_01",
+          "speaker": "linh",
+          "speaker_role": "マーケティング部インターン",
+          "gender": "female",
+          "sentence": "フオン副部長、ズン先輩、Phase 3 締結 PR ドラフト v1 です。金額は『数千万円規模』表記、白鷗様の名前は弊社 名前の後段に配置しています。joint approval 想定。",
+          "sentence_translation": "Chị Hương, anh Dũng, em làm PR draft v1 Phase 3 ạ. Số tiền em ghi 'quy mô vài chục triệu yên', tên Hakuō em đặt sau tên bên mình. Em assume sẽ joint approval ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_38_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "いいね。次に白鷗 PR 部にメール → 田中 PMO 経由で大垣様に paralel 共有、両社 legal レビュー後に embargo date を decide。",
+          "sentence_translation": "OK em. Tiếp theo gửi mail PR Hakuō → qua PMO Tanaka share parallel cho anh Ōgaki, legal cả 2 review xong rồi mới quyết embargo date.",
+          "tone": "warm",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_38_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "大垣様、Phase 3 締結を弊社 marketing が PR したい旨、ご相談です。draft 添付、 金額は『数千万円規模』表記。御社 PR 部のレビュー・両社同時 embargo (例: 5 月 15 日 朝 9 時) をご相談させていただけますでしょうか。",
+          "sentence_translation": "Anh Ōgaki, marketing bên em muốn PR việc ký Phase 3 ạ, em xin trao đổi. Em đính kèm draft, số tiền ghi 'quy mô vài chục triệu yên'. Phiền anh để PR bên anh review + đồng thời embargo cả 2 bên (ví dụ 9h sáng 15/5) được không ạ?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_38_good_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "ズン様、弊社 PR 部 review 完了。文言 2 箇所 minor 修正で OK。embargo 5 月 15 日 朝 9 時、両社同日同時刻 release で問題ございません。joint quote として『大垣 営業部長コメント』も入れさせていただきます。",
+          "sentence_translation": "Anh Dũng, PR bên anh review xong rồi. 2 chỗ wording chỉnh nhẹ là OK. Embargo 9h sáng 15/5, cùng ngày cùng giờ release không vấn đề. Bên anh thêm 'comment Ōgaki' làm joint quote.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_38_good_05",
+          "speaker": "linh",
+          "speaker_role": "マーケティング部インターン",
+          "gender": "female",
+          "sentence": "件名: ティエンファット株式会社、白鷗株式会社と AI 業務委託 Phase 3 締結 — 数千万円規模。両社サイトに 5/15 09:00 同時掲載しました。",
+          "sentence_translation": "Subject: 'Tiên Phát ký AI Phase 3 với Hakuō — quy mô vài chục triệu yên'. Đã đăng cùng lúc trên site cả 2 bên 09:00 ngày 15/5 ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_38_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "PR 同時 release 完了。大垣 quote 入りで joint announcement 体裁。Linh 良い仕事した。",
+          "sentence_translation": "PR release đồng thời xong rồi. Có quote anh Ōgaki nên joint announcement chuẩn vẻ. Linh làm tốt.",
+          "tone": "warm",
+          "annotation_ids": ["3"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_38_kp_01",
+      "speaker": "zun",
+      "sentence": "御社 PR 部のレビュー・両社同時 embargo をご相談させていただけますでしょうか。",
+      "sentence_translation": "Phiền anh để PR bên anh review + đồng thời embargo cả 2 bên được không ạ?",
+      "purpose": "PR joint approval リクエスト",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_38_kp_02",
+      "speaker": "linh",
+      "sentence": "金額は『数千万円規模』表記。",
+      "sentence_translation": "Số tiền ghi 'quy mô vài chục triệu yên'.",
+      "purpose": "PR 金額 framing",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_38_bjt_01",
+      "level": "J1",
+      "skill": "場面把握",
+      "question_ja": "PR release で金額を「数千万円規模」と表記する最大の理由は？",
+      "options": [
+        "数字を覚えにくいから",
+        "クライアントの IT 予算を競合他社に exposed するのを避け、来年の予算削減 risk を防ぐため",
+        "計算が面倒だから",
+        "印象を強くするため"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "正確な金額の公開はクライアントの予算を競合に晒し、翌年の予算削減や競合 anchor に使われる。framing で防ぐ。",
+        "vi": "Lộ số tiền chính xác = lộ budget khách cho competitor → năm sau bị cắt hoặc bị competitor anchor. Framing tránh điều này."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_38_tpl_01",
+      "format": "report",
+      "title_ja": "Joint PR Release テンプレート (数千万円規模 framing)",
+      "title_vi": "Template Joint PR Release (số tiền dạng quy mô)",
+      "content_ja": "報道関係者各位\n\n〇〇年〇月〇日\nティエンファット社 / 〇〇株式会社\n\n━━━━━━━━━━━━━━━━━━━━\n【プレスリリース】\nティエンファット社、〇〇株式会社と AI 〇〇 Phase 〇 業務委託契約締結\n— 数千万円規模、〇〇年〇月キックオフ —\n━━━━━━━━━━━━━━━━━━━━\n\nティエンファット社 (本社: ハノイ、代表取締役: 〇〇 〇〇、以下「ティエンファット」) は、〇〇株式会社 (本社: 東京、代表取締役: 〇〇 〇〇、以下「〇〇社」) との間で、AI 〇〇 Phase 〇 業務委託契約を 〇〇年〇月〇日付で締結しましたのでお知らせいたします。\n\n■ 契約概要\n- 業務内容: AI 〇〇 開発 + 専任 PM + 〇〇 customization\n- 期間: 〇〇年〇月 〜 〇〇年〇月 (〇 年間)\n- 規模: 数千万円規模\n- キックオフ: 〇〇年〇月\n\n■ 背景\n〇〇社は〇〇業界での〇〇課題に対し、ティエンファットの AI 〇〇 ソリューションを Phase 〇 から段階的に導入。今回 Phase 〇 にて 〇〇 を強化する。\n\n■ 〇〇社 営業部長 〇〇 〇〇 コメント\n「ティエンファット社の Phase 〇 における〇〇は、当社の〇〇に大きく寄与した。Phase 〇 では更に〇〇を期待している。」\n\n■ ティエンファット社 副部長 〇〇 〇〇 コメント\n「〇〇社からの信頼を頂戴し、身の引き締まる思いです。両社協働で〇〇を実現してまいります。」\n\n■ 会社概要\n[ティエンファット社] 〇〇\n[〇〇株式会社] 〇〇\n\n■ 本件に関するお問い合わせ\nティエンファット社 広報担当 〇〇\nMail: pr@tienphat.vn\n〇〇株式会社 広報部\nMail: pr@〇〇.co.jp",
+      "content_vi": "Kính gửi báo chí\n\nNgày 〇/〇/〇\nCty Tiên Phát / Cty 〇〇\n\n━━━━━━━━━━━━━━━━━━━━\n[PRESS RELEASE]\nCty Tiên Phát ký Hợp đồng giao việc AI 〇〇 Phase 〇 với Cty 〇〇\n— Quy mô vài chục triệu yên, kickoff 〇/〇 —\n━━━━━━━━━━━━━━━━━━━━\n\nCty Tiên Phát (HQ: Hà Nội, Đại diện: 〇〇 〇〇, sau đây 'Tiên Phát') ký Hợp đồng giao việc AI 〇〇 Phase 〇 với Cty 〇〇 (HQ: Tokyo, Đại diện: 〇〇 〇〇, sau đây 'Cty 〇〇') vào ngày 〇/〇/〇.\n\n■ Tổng quan hợp đồng\n- Phạm vi: phát triển AI 〇〇 + PM chuyên trách + 〇〇 customization\n- Kỳ hạn: 〇/〇 ~ 〇/〇 (〇 năm)\n- Quy mô: vài chục triệu yên\n- Kickoff: 〇/〇/〇\n\n■ Bối cảnh\nCty 〇〇 đối mặt vấn đề 〇〇 trong ngành 〇〇 và đã từng bước áp dụng giải pháp AI 〇〇 của Tiên Phát từ Phase 〇. Phase 〇 sẽ tăng cường 〇〇.\n\n■ Comment Giám đốc Kinh doanh Cty 〇〇\n'〇〇 từ Phase 〇 đã đóng góp lớn cho 〇〇 bên tôi. Phase 〇 tôi mong tiếp tục 〇〇.'\n\n■ Comment Phó phòng Kinh doanh Tiên Phát\n'Việc nhận được sự tin tưởng từ Cty 〇〇 khiến chúng tôi cảm nhận trách nhiệm nặng nề. Hai bên sẽ phối hợp để hiện thực hóa 〇〇.'\n\n■ Giới thiệu công ty\n[Tiên Phát] 〇〇\n[Cty 〇〇] 〇〇\n\n■ Liên hệ\nTiên Phát PR 〇〇 — Mail: pr@tienphat.vn\nCty 〇〇 PR 〇〇 — Mail: pr@〇〇.co.jp",
+      "notes_ja": "両社 PR + legal の joint approval 必須。embargo 同日同時刻 release。金額は『数千万円規模』『〇千万円規模』など framing。",
+      "notes_vi": "BẮT BUỘC qua joint approval PR + legal cả 2 bên. Embargo cùng ngày cùng giờ. Số tiền dùng framing 'quy mô vài chục triệu yên', 'quy mô vài tỷ đồng'..."
+    }
+  ]
+}

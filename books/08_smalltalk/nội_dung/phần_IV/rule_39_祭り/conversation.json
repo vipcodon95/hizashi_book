@@ -1,0 +1,321 @@
+{
+  "rule_id": "08-39",
+  "rule_slug": "祭り",
+  "title": {
+    "vi": "Lễ hội VN",
+    "ja": "ベトナムの祭り"
+  },
+  "rule_context": {
+    "luan_diem_vi": "JP yêu festival. 4 lễ hội VN kể được sâu: Trung thu (≈Obon), Hùng Vương (≈建国), 2/9 Quốc khánh (an toàn), Đoan Ngọ (≈端午). Tránh chính trị 2/9 + 30/4.",
+    "luan_diem_ja": "日本人は祭り好き。中秋節・フンヴオン王命日・独立記念日・端午の節句相当を語れると深まる。9/2と4/30の政治は避ける。",
+    "boi_canh_vi": "Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm). Dũng zoom call Matsumoto + Sato + Kato chốt lịch onsite tháng 9, mention Trung thu.",
+    "boi_canh_ja": "2026年9月、中秋節と日程重なる。松本・佐藤・加藤と9月出張のZoomで中秋を言及。",
+    "muc_tieu_vi": "Học cách kể festival VN có depth + bridge với JP, né political triggers."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "16",
+      "topic": "Festivals theo mùa Nhật"
+    },
+    {
+      "book": "08",
+      "rule": "35",
+      "topic": "Tết VN"
+    },
+    {
+      "book": "08",
+      "rule": "08",
+      "topic": "8 chủ đề cấm"
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "Trung thu ↔ Obon bridge",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "ズンさん、9月7日は祝日?",
+          "vi": "Dũng, 7/9 có phải ngày lễ không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "祝日ではないですが、中秋節(Tết Trung Thu)で、ベトナムの子供のお祭りです。",
+          "vi": "Không phải nghỉ lễ ạ, nhưng là Trung thu — Tết của trẻ con VN."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "あ、中秋節ってアジア共通?",
+          "vi": "À, Trung thu là chung châu Á à?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "中国・韓国・ベトナム・台湾で祝います。但し、ベトナムでは『子供メイン』で、親が子供のために提灯と月餅を買う日です。",
+          "vi": "TQ-Hàn-VN-Đài đều có. Nhưng VN 'trẻ con là chính' — cha mẹ mua đèn và bánh trung thu cho con."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "日本のお盆と何が違うの?",
+          "vi": "Khác Obon Nhật chỗ nào?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "お盆は祖先供養が中心ですよね。ベトナムの中秋は『次世代』が中心で、雰囲気が180度違います。夕方、子供たちが赤い星型の提灯(Đèn ông sao)を持って獅子舞・龍舞(Múa Lân)を見ながら街を歩きます。",
+          "vi": "Obon trọng tâm cúng tổ tiên đúng không. Trung thu VN trọng tâm 'thế hệ kế tiếp' — không khí ngược 180°. Tối trẻ con cầm đèn ông sao đỏ, xem múa lân đi quanh phố."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "ええ、可愛い!月餅は日本にもあるけど、ベトナムのは違うの?",
+          "vi": "Ơ, dễ thương! Bánh trung thu Nhật cũng có, VN khác à?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "バインチュンチュー(Bánh Trung Thu)、表面にお花の模様で、中身は蓮の実、カラスミ卵黄、緑豆あん、カスタード等。カラスミ入りは日本人結構衝撃受けます(笑)。",
+          "vi": "Bánh Trung Thu, mặt có hoa văn, nhân hạt sen / trứng muối / đậu xanh / custard. Loại trứng muối nhiều người Nhật shock (cười)."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "カラスミ?それは食べてみたい!",
+          "vi": "Trứng muối! Tôi muốn thử!"
+        }
+      ]
+    },
+    {
+      "scenario": "Lễ Hùng Vương — Quốc giỗ",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "kato_gifu",
+          "ja": "ベトナムの建国記念日みたいなのって、いつ?",
+          "vi": "Ngày kỷ niệm lập quốc của VN là khi nào?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "フンヴオン王の命日(Giỗ Tổ Hùng Vương)、旧暦3月10日です。4000年前の伝説の初代王様の命日で、毎年祝日になります。",
+          "vi": "Giỗ Tổ Hùng Vương, 10/3 âm lịch. Ngày giỗ vua đầu tiên truyền thuyết 4000 năm trước, mỗi năm là ngày nghỉ."
+        },
+        {
+          "speaker": "kato_gifu",
+          "ja": "4000年前!?それは深いね。",
+          "vi": "4000 năm! Sâu nhỉ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "日本の天皇陛下と似た位置づけで、国の祖として崇敬されています。フート省のフンテンプル(Đền Hùng)で大祭が行われます。",
+          "vi": "Vị trí gần Thiên hoàng Nhật, được tôn là Quốc tổ. Lễ chính tổ chức tại Đền Hùng, Phú Thọ."
+        },
+        {
+          "speaker": "kato_gifu",
+          "ja": "岐阜の伊勢神宮みたいな感じ?",
+          "vi": "Giống Ise Jingu của Gifu (mượn) à?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、国家鎮護の聖地って感じ近いと思います。4月頃で、私も子供の頃学校で『コン・ロン・チャウ・ティエン(龍と仙女の子孫)』っていう建国神話を習いました。龍の父と仙女の母から生まれた100人の兄弟が南北に分かれたっていう神話です。",
+          "vi": "Vâng, kiểu 'thánh địa hộ quốc' gần ạ. Tầm tháng 4. Hồi bé em học ở trường thần thoại 'Con Rồng Cháu Tiên' — cha rồng mẹ tiên sinh 100 con chia Bắc-Nam."
+        },
+        {
+          "speaker": "kato_gifu",
+          "ja": "100人兄弟!それは岐阜の山岳信仰系の伝説に近いね、面白い。",
+          "vi": "100 anh em! Gần truyền thuyết tín ngưỡng núi Gifu nhỉ, hay."
+        }
+      ]
+    },
+    {
+      "scenario": "Quốc Khánh 2/9 — kể an toàn",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "sato_kyushu",
+          "ja": "9月2日は何の祝日?",
+          "vi": "2/9 là ngày lễ gì?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ベトナム独立記念日で、国民の祝日です。ハノイのバーディン広場で式典、夜は花火があります。",
+          "vi": "Quốc Khánh VN, ngày nghỉ toàn quốc. Nghi lễ ở quảng trường Ba Đình Hà Nội, tối có pháo hoa."
+        },
+        {
+          "speaker": "sato_kyushu",
+          "ja": "ふむ、戦後の話やね…ベトナムの方たち、どう過ごす?",
+          "vi": "Hử, chuyện sau chiến tranh nhỉ... Người VN qua ngày này thế nào?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "3-4日連休になることが多くて、家族で帰省 or 国内旅行が一般的です。私の家族もサパに行ったり、ハロン湾に行ったりします。",
+          "vi": "Thường nghỉ 3-4 ngày, gia đình về quê hoặc du lịch nội địa. Nhà em cũng đi Sapa hay Hạ Long ạ."
+        },
+        {
+          "speaker": "sato_kyushu",
+          "ja": "ああ、シルバーウィークみたいなもんやね。",
+          "vi": "À, kiểu Silver Week nhỉ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "まさにそんな雰囲気です。夜は街のあちこちで赤い旗が出るので、ハノイのオペラハウス周辺は写真スポットとして人気です。",
+          "vi": "Đúng không khí đó ạ. Tối khắp phố treo cờ đỏ, quanh Nhà hát lớn Hà Nội là điểm chụp ảnh phổ biến."
+        },
+        {
+          "speaker": "sato_kyushu",
+          "ja": "ええなあ、出張のタイミングが合えば見てみたい。",
+          "vi": "Hay nhỉ, nếu trùng dịp công tác tôi muốn xem."
+        },
+        {
+          "speaker": "zun",
+          "ja": "但しこの時期はホテル予約が取りにくいので、出張なら避けるか早めにお願いします。",
+          "vi": "Nhưng thời điểm này khó đặt khách sạn, công tác nên tránh hoặc đặt sớm ạ."
+        }
+      ]
+    },
+    {
+      "scenario": "Đoan Ngọ + bridge multi-festival",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "VNのお祭りって、関西の祭りに似たの何かあるん?",
+          "vi": "Lễ hội VN có gì giống lễ hội Kansai không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "いくつか面白い対応関係あります。①端午の節句(5/5) → VNの『テト・ドアンゴー(Tết Đoan Ngọ)』は同じ日付ですが、鯉のぼりじゃなくて『虫殺しの日』です。",
+          "vi": "Có vài cặp thú vị ạ. ① Tết Đoan Ngọ (5/5 âm) — cùng ngày Tango Nhật, nhưng không phải koinobori mà là 'ngày diệt sâu bọ'."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "虫殺し!?",
+          "vi": "Diệt sâu bọ?!"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(笑)朝5時に酒漬けのもち米とフルーツを食べて、体内の寄生虫を殺すっていう民間療法的な日です。私の祖母も毎年やってました。",
+          "vi": "(cười) 5h sáng ăn cơm rượu nếp + hoa quả để 'diệt giun sán' trong người, kiểu dân gian. Bà em năm nào cũng làm."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "面白すぎる…他は?",
+          "vi": "Quá hay... còn nữa?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "②七夕 — VNにもあって七夕=Thất Tịch (7/7 旧暦)、牽牛織女の伝説は同じ。雨が降ると織姫が泣いているって解釈、共通です。",
+          "vi": "② Thất Tịch (7/7 âm) — VN cũng có, truyền thuyết Ngưu Lang Chức Nữ giống. Trời mưa = Chức Nữ khóc, ý này chung."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "同じやん!",
+          "vi": "Y chang luôn!"
+        },
+        {
+          "speaker": "zun",
+          "ja": "③盆踊りみたいなのはVNにはないけど、フエの宮廷舞踊やチャムパ族の収穫舞みたいなのが地域祭りで見られます。",
+          "vi": "③ Bon-odori (múa Obon) thì VN không có, nhưng có múa cung đình Huế, múa thu hoạch của người Chăm trong lễ hội vùng."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "祭りの違いって、文化の違いがダイレクトに出るね。",
+          "vi": "Khác biệt lễ hội phản ánh khác biệt văn hóa trực tiếp nhỉ."
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "Trung thu",
+      "ja": "9月7日は中秋節、ベトナムの子供のお祭りです。",
+      "vi": "7/9 là Trung thu, Tết trẻ con VN.",
+      "use": "Mở topic"
+    },
+    {
+      "category": "Trung thu",
+      "ja": "お盆と違って『次世代』が中心で、雰囲気が180度違います。",
+      "vi": "Khác Obon — tâm điểm là 'thế hệ kế'.",
+      "use": "Bridge"
+    },
+    {
+      "category": "Trung thu",
+      "ja": "Bánh Trung Thuはカラスミ入りもあって衝撃受けます(笑)",
+      "vi": "Bánh Trung Thu có nhân trứng muối, nhiều người Nhật shock (cười)",
+      "use": "Điểm thú vị"
+    },
+    {
+      "category": "Hùng Vương",
+      "ja": "フンヴオン王の命日、4000年前の初代王様の命日で祝日です。",
+      "vi": "Giỗ vua Hùng, vua đầu tiên 4000 năm trước.",
+      "use": "Mở topic lập quốc"
+    },
+    {
+      "category": "Hùng Vương",
+      "ja": "国家鎮護の聖地で、伊勢神宮みたいな感じです。",
+      "vi": "Thánh địa hộ quốc, kiểu Ise Jingu.",
+      "use": "Bridge"
+    },
+    {
+      "category": "2/9 an toàn",
+      "ja": "9月2日はベトナム独立記念日、国民の祝日です。",
+      "vi": "2/9 Quốc khánh, nghỉ toàn quốc.",
+      "use": "Fact trung tính"
+    },
+    {
+      "category": "2/9 an toàn",
+      "ja": "日本のシルバーウィークみたいな感じです。",
+      "vi": "Kiểu Silver Week.",
+      "use": "Bridge an toàn"
+    },
+    {
+      "category": "Đoan Ngọ",
+      "ja": "5/5は『虫殺しの日』、酒漬けもち米で寄生虫を殺す民間療法的な日(笑)",
+      "vi": "5/5 là 'diệt sâu bọ', ăn cơm rượu nếp.",
+      "use": "Điểm bizarre dễ nhớ"
+    },
+    {
+      "category": "Thất tịch",
+      "ja": "七夕は同じ日付、牽牛織女の伝説も同じです。",
+      "vi": "Thất tịch cùng ngày, truyền thuyết Ngưu Lang Chức Nữ giống.",
+      "use": "Điểm chung"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "「9月2日は何の祝日?」と聞かれた時、最も適切な返答は?",
+      "options": [
+        "A. 「アメリカに勝った戦勝記念日です」",
+        "B. 「ベトナム独立記念日で、3-4日連休、家族で帰省や旅行に行く日。シルバーウィークみたいな感じ」",
+        "C. 「政治的な日なので答えられません」",
+        "D. 「特に意味はないです」"
+      ],
+      "answer": "B",
+      "explain_vi": "Stick fact + 連休 + 帰省 + bridge SW. A vùng cấm chính trị; C né cứng nhắc; D nói dối."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "中秋節を日本のお盆と区別して説明する時、最も響くのは?",
+      "options": [
+        "A. 「全く同じです」",
+        "B. 「お盆は祖先供養、中秋は『次世代』中心、雰囲気が180度違います」",
+        "C. 「日本の方が歴史が古いです」",
+        "D. 「中国の真似です」"
+      ],
+      "answer": "B",
+      "explain_vi": "So sánh trục tâm điểm (祖先 vs 次世代) → khách Nhật instant phân biệt. A sai; C arrogant; D nhạy cảm."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "佐藤さんが2/9に関して『戦後の話やね…』と呟いた時、ズンの最適な反応は?",
+      "options": [
+        "A. 戦争の話を詳しく展開する",
+        "B. 「今は連休と帰省で、家族でサパや ハロン湾に行く日」と現代の生活にフォーカスを移す",
+        "C. 「日本も戦後は大変でしたね」と返す",
+        "D. 沈黙する"
+      ],
+      "answer": "B",
+      "explain_vi": "Catch sắc thái senior 'chiến tranh' → KHÔNG develop, đổi sang life today. A vùng cấm; C nhạy cảm; D awkward."
+    }
+  ],
+  "templates": []
+}

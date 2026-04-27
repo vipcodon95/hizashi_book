@@ -1,0 +1,224 @@
+{
+  "rule_id": "rule_21",
+  "rule_slug": "入室マナー",
+  "title": {
+    "ja": "入室マナー",
+    "vi": "Vào phòng họp với chủ nhà"
+  },
+  "rule_context": {
+    "ja": "10:00 田中PMO先導で803会議室前到着。中村CFO+大垣部長が室内で待機中。ズン+トゥアンが4ステップ入室マナーで first impression を作る場面。",
+    "vi": "10:00 Tanaka PMO dẫn đến cửa 803. Nakamura CFO + Ōgaki 部長 đã đợi trong phòng. Dũng + Tuấn vào với 4 bước nghi lễ — first impression Tokyo lần đầu."
+  },
+  "related_rules": [
+    "rule_19",
+    "rule_20",
+    "rule_23"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — ノック無・casual挨拶・背中閉扉",
+      "label_vi": "XẤU — không gõ + chào casual + quay lưng đóng cửa",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①ノック欠如=侵入 ②Hi+casual=formalミス ③背中向け+BANG閉扉=CFO に lưng向け+音=三重失礼。",
+        "vi": "(1) Không gõ = đột nhập. (2) Hi casual = sai formal. (3) Quay lưng + BANG = lưng về CFO + tiếng = lỗi 3 lớp."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_21_bad_01",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "どうぞ。",
+          "sentence_translation": "Mời vào.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_21_bad_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "Hi、皆さん〜",
+          "sentence_translation": "Hi, mọi người~",
+          "tone": "casual",
+          "speed_multiplier": 1.05
+        },
+        {
+          "line_id": "rule_21_bad_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "（背中を向けてドアをBANG音で閉める）",
+          "sentence_translation": "(quay lưng đóng cửa BANG)",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_21_bad_04",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "（無言、表情にわずかな曇り）",
+          "sentence_translation": "(im lặng, mặt thoáng nhíu)",
+          "tone": "neutral",
+          "speed_multiplier": 0.9,
+          "pause_after_ms": 1000
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 4ステップ入室",
+      "label_vi": "TỐT — 4 bước vào phòng",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_21_good_02",
+          "highlight_text": "2回ノック",
+          "ja": "JP business標準。3回はWCコード、1回は親密。2回が business default。",
+          "vi": "Chuẩn JP business. 3 lần = code WC, 1 lần = thân mật. 2 lần = default."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_21_good_04",
+          "highlight_text": "敷居で15度bow",
+          "ja": "足はまだ敷居越えず、扉開けてbow。歩きながらbowはNG。",
+          "vi": "Chân chưa bước qua ngưỡng, mở cửa rồi bow. Vừa đi vừa bow NG."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_21_good_04",
+          "highlight_text": "失礼いたします",
+          "ja": "入室固定句。Hi/Hello/こんにちはは不可。",
+          "vi": "Câu cố định vào phòng. Hi/Hello/こんにちは đều KHÔNG dùng."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_21_good_06",
+          "highlight_text": "後ろ手で静かに閉扉",
+          "ja": "1/4回転で背中向けず、後ろ手で扉を音無し閉。狭ければ振り向き軽く会釈。",
+          "vi": "Xoay 1/4 không quay lưng, tay sau lưng đóng cửa không tiếng. Nếu chật quá thì xoay xong cúi nhẹ với phòng."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_21_good_01",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "どうぞ、お入りください。",
+          "sentence_translation": "Mời các anh vào.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_21_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（コン コン — 2回ノック、2秒待機）",
+          "sentence_translation": "(cốc cốc — gõ 2 lần, đợi 2 giây)",
+          "tone": "neutral",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_21_good_03",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "どうぞ。",
+          "sentence_translation": "Mời vào.",
+          "tone": "warm",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_21_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "失礼いたします。ティエンファットのズンと申します。",
+          "sentence_translation": "Em xin phép ạ. Em là Dũng bên Cty Tiên Phát.",
+          "tone": "formal",
+          "speed_multiplier": 0.9,
+          "annotation_ids": [
+            "2",
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_21_good_05",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "失礼いたします。技術リーダーのトゥアンと申します。",
+          "sentence_translation": "Em xin phép ạ. Em là Tuấn, Tech Lead.",
+          "tone": "formal",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_21_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（1/4回転、後ろ手で扉を音無し閉）",
+          "sentence_translation": "(xoay 1/4, tay sau lưng đóng cửa không tiếng)",
+          "tone": "neutral",
+          "annotation_ids": [
+            "4"
+          ]
+        },
+        {
+          "line_id": "rule_21_good_07",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "お入りください。中村です。",
+          "sentence_translation": "Mời các anh vào. Tôi là Nakamura.",
+          "tone": "warm",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_21_good_08",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お忙しいところ、お時間頂戴いたしまして恐縮でございます。",
+          "sentence_translation": "Anh bận rộn dành thời gian, em ngại quá ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.9
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_21_kp_01",
+      "speaker": "zun",
+      "sentence": "失礼いたします。",
+      "sentence_translation": "Em xin phép ạ.",
+      "purpose": "入室固定句",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_21_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "客先会議室入室時のノック回数として最も適切なのは？",
+      "options": [
+        "1回",
+        "2回",
+        "3回",
+        "回数は問わない"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "businessは2回。3回はWC、1回は親密。",
+        "vi": "Business 2 lần. 3 lần = WC, 1 lần = thân mật."
+      }
+    }
+  ]
+}

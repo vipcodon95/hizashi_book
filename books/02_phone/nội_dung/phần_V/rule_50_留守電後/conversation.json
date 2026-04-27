@@ -1,0 +1,95 @@
+{
+  "rule_id": "rule_50",
+  "rule_slug": "留守番電話を聞いた後の対応",
+  "title": {
+    "ja": "留守番電話を聞いた後の対応",
+    "vi": "Sau khi nghe voicemail — gọi lại trong 24h"
+  },
+  "rule_context": {
+    "ja": "松本PMが残した留守電を聞いて折り返し電話をする場面。『拝聴いたしました』で確認したことを示す。",
+    "vi": "Em Dũng nghe voicemail anh Matsumoto và gọi lại. Dùng 「拝聴いたしました」 để cho biết đã chú ý."
+  },
+  "related_rules": [
+    "rule_49",
+    "rule_32"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『拝聴いたしました』で謙譲、メッセージ要旨を要約することで相手は『ちゃんと聞いた』と分かる。",
+        "vi": "「拝聴いたしました」 khiêm nhường + tóm tắt nội dung = đối phương biết bạn đã nghe kỹ."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_50_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お忙しいところ恐れ入ります。ティエンファット社のズンでございます。",
+          "sentence_translation": "Em xin lỗi làm phiền lúc anh đang bận ạ. Em là Dũng bên Thiên Phát ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_50_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "先ほどお電話いただきましたメッセージを確認いたしました。納期の件でしたね。",
+          "sentence_translation": "Em đã nghe lời nhắn anh để lại vừa nãy ạ. Việc về hạn giao đúng không ạ?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_50_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "あ、ズンさん。早速ありがとうございます。",
+          "sentence_translation": "À, Dũng đó. Cảm ơn em đã gọi nhanh nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_50_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご連絡が遅くなり申し訳ございません。本題ですが…",
+          "sentence_translation": "Em xin lỗi vì liên hệ lại muộn ạ. Về việc anh hỏi…",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_50_kp_01",
+      "speaker": "zun",
+      "sentence": "お電話いただきましたメッセージを確認いたしました。",
+      "sentence_translation": "Em đã nghe lời nhắn anh để lại ạ.",
+      "purpose": "留守電応答の冒頭",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_50_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "留守電を聞いて折り返す時の最も適切な言い方は？",
+      "options": [
+        "メッセージ聞きました",
+        "メッセージを確認いたしました",
+        "留守電聞いた",
+        "メッセージ受け取った"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "留守電には『確認いたしました』『承りました』が標準。『拝聴』は講演など重みのある内容向けで過剰。",
+        "vi": "Voicemail dùng 「確認いたしました / 承りました」 là chuẩn. 「拝聴」 dành cho nội dung trang trọng (bài giảng, diễn văn) — quá nặng."
+      }
+    }
+  ]
+}

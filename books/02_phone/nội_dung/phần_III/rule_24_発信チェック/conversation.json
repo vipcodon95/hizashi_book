@@ -1,0 +1,37 @@
+{
+  "rule_id": "rule_24",
+  "rule_slug": "発信前のチェックリスト",
+  "title": {"ja": "発信前のチェックリスト", "vi": "Checklist trước khi nhấn gọi"},
+  "rule_context": {
+    "ja": "ズンが松本PMへ4月度進捗報告のため発信する直前の自己点検と、発信時の第一声。",
+    "vi": "Em Dũng tự kiểm trước khi gọi báo cáo tiến độ tháng 4 cho anh Matsumoto, sau đó nhấn gọi và mở lời."
+  },
+  "related_rules": ["rule_25", "rule_26", "rule_28"],
+  "conversations": [{
+    "section": "good_example", "label_ja": "良い例", "label_vi": "TỐT", "display_order": 1,
+    "analysis": {
+      "ja": "発信前の自己点検（独り言）→第一声へ。準備が整っているため、最初の自己紹介から相手依頼までスムーズ。",
+      "vi": "Tự kiểm trong đầu rồi mới gọi. Có chuẩn bị nên từ tự xưng tên đến hỏi gặp người cần đều trôi chảy."
+    },
+    "conversation_lines": [
+      {"line_id": "rule_24_good_01", "speaker": "zun", "speaker_role": "BD担当 (独り言)", "gender": "male", "sentence": "目的：4月度進捗報告。資料：開いた。メモ：書いた。環境：OK。発信。", "sentence_translation": "(Tự nhủ) Mục đích: báo cáo tiến độ tháng 4. Tài liệu: mở rồi. Note: viết rồi. Môi trường: OK. Gọi.", "tone": "neutral", "speed_multiplier": 1.0},
+      {"line_id": "rule_24_good_02", "speaker": "zun", "speaker_role": "BD担当 (発信)", "gender": "male", "sentence": "お世話になっております。ティエンファット社、営業部のズンでございます。松本様のお席はございますでしょうか？", "sentence_translation": "Cảm ơn anh đã hỗ trợ ạ. Em là Dũng, phòng kinh doanh, Cty Thiên Phát ạ. Anh Matsumoto có ở văn phòng không ạ?", "tone": "formal"}
+    ]
+  }],
+  "key_phrases": [{
+    "phrase_id": "rule_24_kp_01", "speaker": "zun",
+    "sentence": "お世話になっております。ティエンファット社、営業部のズンでございます。〇〇様のお席はございますでしょうか？",
+    "sentence_translation": "Cảm ơn anh đã hỗ trợ. Em là Dũng phòng kinh doanh Cty Thiên Phát ạ. Anh/chị 〇〇 có ở văn phòng không ạ?",
+    "purpose": "発信時の標準フォーマット", "slow_audio": true
+  }],
+  "bjt_practice": [{
+    "question_id": "rule_24_bjt_01", "level": "J3", "skill": "場面把握",
+    "question_ja": "発信前のチェックリストに含まれないものはどれか？",
+    "options": ["目的の明確化", "資料の準備", "5W1Hメモ", "相手の趣味の調査"],
+    "correct": "D",
+    "explanation": {
+      "ja": "5項目は目的・時間帯・資料・メモ・環境。趣味は不要。",
+      "vi": "5 mục: mục đích/giờ/tài liệu/note/môi trường. Sở thích không cần."
+    }
+  }]
+}

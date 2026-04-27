@@ -1,0 +1,249 @@
+{
+  "rule_id": "rule_18",
+  "rule_slug": "受付対応",
+  "title": {
+    "ja": "受付対応",
+    "vi": "Check-in tại lễ tân"
+  },
+  "rule_context": {
+    "ja": "9:54 白鷗本社ロビー受付で、ズン+トゥアンが社名+氏名+田中PMO担当者+10時打ち合わせ用件を1文で自己申告する場面。",
+    "vi": "9:54 lobby trụ sở 白鷗, Dũng + Tuấn trình lễ tân: tên cty + họ tên + 担当者 Tanaka PMO + lý do họp 10h trong 1 câu."
+  },
+  "related_rules": [
+    "rule_16",
+    "rule_17",
+    "rule_19",
+    "rule_21"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 英語+情報小出し+勝手にエレベーター",
+      "label_vi": "XẤU — tiếng Anh + thông tin nhỏ giọt + tự ý thang máy",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①英語=不適切formal levelミス ②田中だけで部署無し→受付が確認往復 ③pass未受領でエレベーター=security 違反。",
+        "vi": "(1) Tiếng Anh = sai formal level. (2) Chỉ 'Tanaka' không 部署 = lễ tân phải hỏi lại. (3) Chưa nhận pass đã đi thang = vi phạm security."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_18_bad_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "Hi, we're here for a meeting with Tanaka-san.",
+          "sentence_translation": "Hi, chúng tôi đến họp với anh Tanaka.",
+          "tone": "casual",
+          "speed_multiplier": 1.05
+        },
+        {
+          "line_id": "rule_18_bad_02",
+          "speaker": "reception_hakuo",
+          "speaker_role": "受付 (白鷗株式会社)",
+          "gender": "female",
+          "sentence": "Tanaka...どちらの田中でしょうか？",
+          "sentence_translation": "Tanaka... anh Tanaka phòng nào ạ?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_18_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと、PMO の田中さんです。多分 Phase 3 関連…",
+          "sentence_translation": "Ờ, anh Tanaka PMO ạ. Chắc là về Phase 3...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_18_bad_04",
+          "speaker": "reception_hakuo",
+          "speaker_role": "受付 (白鷗株式会社)",
+          "gender": "female",
+          "sentence": "お会社名と御芳名を伺ってもよろしいでしょうか？",
+          "sentence_translation": "Xin phép em hỏi tên cty và quý danh ạ?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_18_bad_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、ティエンファットの…ズンとトゥアンです。",
+          "sentence_translation": "À, em bên Tiên Phát... Dũng và Tuấn ạ.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_18_bad_06",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "あ、エレベーター見えた、行こう。",
+          "sentence_translation": "À thấy thang máy rồi, đi thôi.",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_18_bad_07",
+          "speaker": "reception_hakuo",
+          "speaker_role": "受付 (白鷗株式会社)",
+          "gender": "female",
+          "sentence": "あの、入館証がまだ…",
+          "sentence_translation": "Xin lỗi, pass vào còn chưa...",
+          "tone": "uncertain",
+          "speed_multiplier": 1.05
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 4要素1文+pass着用+指示待ち",
+      "label_vi": "TỐT — 4 yếu tố 1 câu + đeo pass + đợi guide",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_18_good_01",
+          "highlight_text": "おはようございます",
+          "ja": "JP受付の挨拶固定句。Hi/Helloは不可。11時以降は『こんにちは』。",
+          "vi": "Câu chào lễ tân JP cố định. Hi/Hello = sai. Sau 11h dùng 'こんにちは'."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_18_good_03",
+          "highlight_text": "ティエンファットのズンとトゥアンと申します",
+          "ja": "社名先頭で受付がbase認識。",
+          "vi": "Tên cty đầu để lễ tân nhận diện base."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_18_good_03",
+          "highlight_text": "本日10時より、PMO部の田中様とお打ち合わせのお約束にてお伺いしました",
+          "ja": "時刻+部署+氏名+用件の4要素1文圧縮。受付確認往復不要。",
+          "vi": "Giờ + phòng + tên + lý do trong 1 câu. Lễ tân không phải hỏi lại."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_18_good_04",
+          "highlight_text": "入館証",
+          "ja": "サイン後すぐ胸元に着用。ポケットNG。退館時返却。",
+          "vi": "Sau khi ký lập tức đeo lên ngực. Để túi NG. Trả lại lúc về."
+        },
+        {
+          "id": "5",
+          "applies_to_line": "rule_18_good_06",
+          "highlight_text": "エレベーターは右奥、左側を3号機",
+          "ja": "Tokyo大手ビルは階別エレベーター割当多。受付指示通りに従う。",
+          "vi": "Tòa lớn Tokyo phân thang máy theo tầng. Theo đúng chỉ dẫn lễ tân."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_18_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "おはようございます。",
+          "sentence_translation": "Chào buổi sáng ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_18_good_02",
+          "speaker": "reception_hakuo",
+          "speaker_role": "受付 (白鷗株式会社)",
+          "gender": "female",
+          "sentence": "いらっしゃいませ。",
+          "sentence_translation": "Xin chào quý khách ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_18_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ティエンファットのズンとトゥアンと申します。本日10時より、PMO部の田中様とお打ち合わせのお約束にてお伺いしました。",
+          "sentence_translation": "Em là Dũng và Tuấn bên Cty Tiên Phát. Hôm nay từ 10h, em có hẹn họp với anh Tanaka phòng PMO ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.9,
+          "annotation_ids": [
+            "2",
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_18_good_04",
+          "speaker": "reception_hakuo",
+          "speaker_role": "受付 (白鷗株式会社)",
+          "gender": "female",
+          "sentence": "お待ちしておりました。入館証をお渡しいたします。お名前のサインをお願いいたします。",
+          "sentence_translation": "Em đã đợi ạ. Em xin gửi pass vào ạ. Mong các anh ký tên giúp ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "4"
+          ]
+        },
+        {
+          "line_id": "rule_18_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "失礼いたします。（サイン後、胸元に着用）",
+          "sentence_translation": "Xin phép ạ. (sau khi ký, đeo lên ngực)",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_18_good_06",
+          "speaker": "reception_hakuo",
+          "speaker_role": "受付 (白鷗株式会社)",
+          "gender": "female",
+          "sentence": "会議室は8階の803号室でございます。エレベーターは右奥、左側を3号機でお上がりください。田中はすでにお待ちしております。",
+          "sentence_translation": "Phòng họp 803 tầng 8 ạ. Thang máy bên phải phía trong, các anh đi thang máy số 3 bên trái ạ. Anh Tanaka cũng đang đợi rồi ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.9,
+          "annotation_ids": [
+            "5"
+          ]
+        },
+        {
+          "line_id": "rule_18_good_07",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。",
+          "sentence_translation": "Cảm ơn chị ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_18_kp_01",
+      "speaker": "zun",
+      "sentence": "ティエンファットのズンとトゥアンと申します。本日10時より、PMO部の田中様とお打ち合わせのお約束にてお伺いしました。",
+      "sentence_translation": "Em là Dũng và Tuấn bên Cty Tiên Phát. Hôm nay từ 10h em có hẹn họp với anh Tanaka phòng PMO ạ.",
+      "purpose": "受付4要素自己申告固定句",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_18_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "受付で『御芳名を伺ってもよろしいでしょうか』と聞かれた時の意味は？",
+      "options": [
+        "業界経験を聞かれている",
+        "氏名を尋ねられている (敬語)",
+        "出身地を尋ねられている",
+        "趣味を聞かれている"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "御芳名=氏名の尊敬語。受付定型表現。",
+        "vi": "御芳名 = họ tên (kính ngữ). Mẫu cố định lễ tân."
+      }
+    }
+  ]
+}

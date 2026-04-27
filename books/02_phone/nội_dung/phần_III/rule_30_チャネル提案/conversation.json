@@ -1,0 +1,97 @@
+{
+  "rule_id": "rule_30",
+  "rule_slug": "電話で済まない時の提案",
+  "title": {
+    "ja": "電話で済まない時の提案",
+    "vi": "Đề xuất chuyển kênh khi phone không đủ"
+  },
+  "rule_context": {
+    "ja": "数字・図表など電話では伝わりにくい内容を、メール＋オンライン会議に切り替える提案。",
+    "vi": "Nội dung số liệu/biểu đồ khó truyền qua phone — đề xuất chuyển sang mail kèm họp online."
+  },
+  "related_rules": [
+    "rule_28",
+    "rule_51",
+    "rule_52"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『お電話ですとかえって分かりにくい』で電話の限界を婉曲に伝え、代替手段（資料＋オンライン会議）を具体提案。",
+        "vi": "「お電話ですとかえって分かりにくい」 = nói khéo về giới hạn của phone, sau đó đề xuất phương án cụ thể."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_30_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "詳細な数字につきましては、お電話ですとかえって分かりにくいかと存じます。",
+          "sentence_translation": "Về số liệu chi tiết, em e qua điện thoại sẽ khó hình dung ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_30_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "資料を添付したメールをお送りした上で、明日30分ほどオンライン会議でご説明させていただくのはいかがでしょうか？",
+          "sentence_translation": "Em xin gửi mail kèm tài liệu, rồi ngày mai họp online khoảng 30 phút em giải thích trực tiếp, anh thấy thế nào ạ?",
+          "tone": "formal",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_30_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "そうですね、その方が分かりやすいですね。明日の14時はいかがですか？",
+          "sentence_translation": "Đúng vậy, vậy dễ hiểu hơn nhỉ. 14h ngày mai được không em?",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_30_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "14時、承知いたしました。会議URLを後ほどメールでお送りいたします。",
+          "sentence_translation": "14h em rõ rồi ạ. Em sẽ gửi link họp qua mail sau ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_30_kp_01",
+      "speaker": "zun",
+      "sentence": "お電話ですとかえって分かりにくいかと存じます。〇〇でご説明させていただいてもよろしいでしょうか？",
+      "sentence_translation": "Em e qua điện thoại sẽ khó hình dung. Em xin giải thích qua 〇〇 được không ạ?",
+      "purpose": "チャネル切替提案",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_30_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "複雑な数字説明を電話でする際の最良の対応は？",
+      "options": [
+        "強引に電話で説明",
+        "メール＋オンライン会議への切り替え提案",
+        "後日対応",
+        "電話を切る"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "複雑な内容はチャネル切替が最良。Aは伝達ミス、C/Dは無責任。",
+        "vi": "Nội dung phức tạp nên đổi kênh. A dễ sai, C/D vô trách nhiệm."
+      }
+    }
+  ]
+}

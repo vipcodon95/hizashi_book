@@ -1,0 +1,756 @@
+{
+  "$schema_note": "Scenes JSON cho Chương 07 — Joint product launch event.",
+  "chapter_id": "09-07",
+  "chapter_slug": "新製品発表",
+  "title": {
+    "vi": "Lễ ra mắt sản phẩm chung",
+    "ja": "合同新製品発表会"
+  },
+  "boi_canh": {
+    "vi": "Tháng 3/2027, Pacifico Yokohama. Joint product launch 'Smart Bank Assistant' — sản phẩm Phase 4-5 của Thiên Phát × 白鷗. Event 200 khách (50 báo chí + analyst, 150 customer prospect). Dũng được giao 1 phần intro 5 phút trên stage.",
+    "ja": "2027年3月、横浜パシフィコ。ティエンファット×白鷗の合同新製品『Smart Bank Assistant』の発表会。200名(報道50+顧客見込150)。ズンに5分のintroセグメント。"
+  },
+  "bi_quyet_tong": [
+    "Lễ ra mắt joint product = stage time đầu tiên của Dũng tại event Tokyo. Stake cao.",
+    "Stage chuẩn bị: dry run + slide upload + mic check. Gì cũng có thể fail — backup plan mọi step.",
+    "Networking lunch + Q&A panel = test improv cao. Câu hỏi reporter hay surprise.",
+    "Internal monologue rich — Dũng nervous nhưng grow.",
+    "Sau event: niji-kai + reflection. Đêm event = 'bản lề'."
+  ],
+  "scenes": [
+    {
+      "n": 1,
+      "time": "Day-1 18:00",
+      "location": "Hotel Pacifico Yokohama event hall — dry run rehearsal cuối",
+      "setting": "Hall lớn 500 chỗ, sân khấu cao + LED screen 4K. Day-1 dry run với crew technical + Inoue + Matsumoto. Dũng test mic phần intro 5 phút. Mic bị rè ở phút 3.",
+      "lines": [
+        {
+          "speaker": "inoue_hakuo",
+          "ja": "(マイクテスト)じゃあズンさん、本番通りで5分やってみて。",
+          "vi": "(test mic) Vậy Dũng làm thử 5 phút như thật."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng lên stage. Spot light. Hơi chói. Mở slide. Bắt đầu present.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "皆様、本日は『Smart Bank Assistant』の発表会にお越しいただきありがとうございます。私はティエンファットの Tran Van Dung、ズンと申します…",
+          "vi": "Quý vị, hôm nay đã đến tham dự event 'Smart Bank Assistant', cảm ơn quý vị. Tôi là Trần Văn Dũng của Tien Phat, gọi Dũng…"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Phút 3 — mic bắt đầu rè 'kss-kss-kss'. Volume drop random. Audience nghe tưởng tượng — sẽ chỉ là 5/200 người được khúc đó.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(止まる)あれ、マイク…?",
+          "vi": "(dừng) Ơ, mic…?"
+        },
+        {
+          "speaker": "inoue_hakuo",
+          "ja": "(技術スタッフに)あ、これはダメだ、別のマイクに換えよう!ズンさん、5分待って。",
+          "vi": "(với technical staff) Á, cái này không được, đổi mic khác đi! Dũng đợi 5 phút."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng đứng trên stage 5 phút chờ. Tay ướt. Mở chai nước, uống. Inoue chạy đi đổi mic. Crew swap mic mới + tape pin lapel.]"
+        },
+        {
+          "speaker": "inoue_hakuo",
+          "ja": "OK、新しいマイクで。ズンさん、ごめん、もう一度最初から。",
+          "vi": "OK, mic mới. Dũng xin lỗi, từ đầu lại."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng làm lại. Mic mới ổn định. 5 phút trôi suôn. Inoue gật đầu.]"
+        },
+        {
+          "speaker": "inoue_hakuo",
+          "ja": "完璧。マイク事故、本番では起きないようにスタッフ徹底させる。安心して。",
+          "vi": "Hoàn hảo. Tai nạn mic ngày thật staff sẽ đảm bảo không. Yên tâm."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "ズンさん、5分待ち中も落ち着いてた、いいぞ。本番もその調子で。",
+          "vi": "Dũng à, lúc đợi 5 phút bình tĩnh, tốt. Ngày mai giữ tone đó."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(顔赤く)ありがとうございます…内心ヒリヒリでした。",
+          "vi": "(mặt đỏ) Cảm ơn anh… trong lòng em hồi hộp."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Dry run = test fail safely",
+        "body": "Dry run hôm trước event = chỗ để mọi thứ fail SAFE:\n- ✅ **Test mic / slide / lighting / timing** — phát hiện bug trước.\n- ✅ **Stay calm khi fail** — Dũng đứng đợi 5 phút bình tĩnh = practice cho ngày thật.\n- ✅ **Backup plan**: 2 mic + 2 slide deck (USB + cloud) + printed handout slide.\n- ✅ **Tape pin lapel mic** = avoid trượt khi present.\n- Tip mental: 'fail in dry run = win in show day'."
+      }
+    },
+    {
+      "n": 2,
+      "time": "Day-1 22:00",
+      "location": "Phòng khách sạn Dũng (Pacifico Hotel)",
+      "setting": "Phòng business hotel Pacifico tầng 18, view bay Yokohama đêm. Dũng mở laptop review slide cuối. Internal monologue — không có dialogue ngoài.",
+      "lines": [
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Phòng yên. Dũng ngồi bàn nhỏ, MacBook mở slide deck. Đọc lần thứ 8. Câu transition từ slide 3 → 4 vẫn awkward. Sửa wording.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Mở YouTube — search 'TED talk product launch Japanese 5 minute'. Tìm 1 video Japanese executive present 5 phút. Watch 2 lần, học rhythm. Note: pause 2 giây sau key message, không sợ silence.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Đứng lên. Đi quanh phòng đọc slide 5 phút full. Time bằng iPhone — 5:23. Hơi over. Cắt 1 sentence ở slide 4. Time lại — 4:47. OK.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Mở Slack — message Tuấn (HCMC, 20:00 giờ VN): 'Anh, em vừa run thử slide cuối, 4:47. Mai sáng gặp anh ở backstage'. Tuấn reply 1 phút sau: '👍 Em ngủ sớm. Nhớ uống trà ấm trước present'.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Đặt báo thức 6:30. Tắt laptop. Vào phòng tắm rửa mặt. Nhìn gương — mặt thấy mình lạ. 'Mai mình stage Tokyo first time'. Hít thở 5 lần.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Lên giường 22:45. Tắt đèn. Não vẫn chạy slide. Đếm thở 4-7-8 (kỹ thuật ngủ học từ Tuấn). 5 phút sau ngủ.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Đêm trước stage — pre-flight checklist",
+        "body": "Đêm trước event lớn = manage anxiety + final prep:\n- ✅ **Run slide thật** đứng + nói lớn (không silent read) — bắt awkward transitions.\n- ✅ **Time với phone stopwatch** — over time = cut, không over.\n- ✅ **Watch 1 reference TED/keynote** in cùng ngôn ngữ — học rhythm.\n- ✅ **Communicate teammate** (Tuấn HCMC) — close loop, anchor support.\n- ✅ **Sleep tech** (4-7-8 breathing, no caffeine after 18h) — ngủ là priority.\n- ❌ **Đừng over-rehearse** — mệt voice + mất spontaneity.\n- ❌ **Đừng nhậu calm nerve** — counter-productive."
+      }
+    },
+    {
+      "n": 3,
+      "time": "Day 0 07:30",
+      "location": "Lobby khách sạn — breakfast",
+      "setting": "Buffet sáng hotel, bánh + cà phê + trứng + ham. Dũng không ăn được vì căng thẳng. Tuấn vừa đến từ Tokyo, ép Dũng uống 1 ly trà ấm.",
+      "lines": [
+        {
+          "speaker": "tuan_leader",
+          "ja": "(到着、ベトナム語)Em ngủ ngon không?",
+          "vi": "(đến, tiếng Việt) Em ngủ ngon không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(ベトナム語、疲れた笑顔)Ngủ được 6 tiếng. Sáng dậy mất appetite. Em không ăn được.",
+          "vi": "(tiếng Việt, cười mệt) Ngủ được 6 tiếng. Sáng dậy mất appetite. Em không ăn được."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(ベトナム語、テーブルに座る)OK. Không ép ăn. Nhưng em uống 1 ly trà ấm, không cà phê. Caffeine làm tay run thêm.",
+          "vi": "(tiếng Việt, ngồi bàn) OK. Không ép ăn. Nhưng em uống 1 ly trà ấm, không cà phê. Caffeine làm tay run thêm."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Tuấn đi lấy 1 cốc trà ấm cho Dũng. Đặt trước mặt. Dũng cầm, nhắp ngụm — ấm cổ.]"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(ベトナム語)Em nhớ — slide 3 cuối, em pause 2 giây trước khi qua slide 4. Audience cần beat đó. Đừng vội.",
+          "vi": "(tiếng Việt) Em nhớ — slide 3 cuối, em pause 2 giây trước khi qua slide 4. Audience cần beat đó. Đừng vội."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(ベトナム語)Vâng anh.",
+          "vi": "(tiếng Việt) Vâng anh."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(ベトナム語)Và nếu mic fail giữa, em ngắt, im 1 giây, cười nhẹ, rồi nói '少々お待ちください' chờ staff. Đừng panic. Audience JP forgive technical issue.",
+          "vi": "(tiếng Việt) Và nếu mic fail giữa, em ngắt, im 1 giây, cười nhẹ, rồi nói '少々お待ちください' chờ staff. Đừng panic. Audience JP forgive technical issue."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(ベトナム語)OK em note. Cảm ơn anh, anh tới sớm em yên tâm.",
+          "vi": "(tiếng Việt) OK em note. Cảm ơn anh, anh tới sớm em yên tâm."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(ベトナム語、肩を叩く)Mày OK. 5 phút đó mày sẽ nhớ cả đời, dù tốt hay không. Cứ là chính mày.",
+          "vi": "(tiếng Việt, vỗ vai) Mày OK. 5 phút đó mày sẽ nhớ cả đời, dù tốt hay không. Cứ là chính mày."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Senior coach trước stage moment",
+        "body": "Tuấn đã đến đúng lúc, vai trò mentor sáng event:\n- ✅ **Không ép ăn** — appetite dạ dày stress là chuyện sinh học, ép = phản tác dụng.\n- ✅ **Trà ấm > cà phê** — caffeine + nervousness = tay run + heart racing.\n- ✅ **3 reminders cụ thể** — pause slide 3-4 / mic fail script / 'cứ là mày'.\n- ✅ **Vỗ vai cuối** = body language anchor.\n- ✅ Tuấn thực hiện role 'second pilot' — Dũng là pilot chính, Tuấn backup."
+      }
+    },
+    {
+      "n": 4,
+      "time": "Day 0 08:30",
+      "location": "Backstage event hall",
+      "setting": "Backstage chật, full crew technical + organizers + speakers waiting. Dũng đến check slot. Slide deck version mới chưa được upload lên screen. IT staff hỗ trợ 10 phút.",
+      "lines": [
+        {
+          "speaker": "stage_manager",
+          "ja": "(架空) ズンさん、おはようございます。スライド最終版のUSB、お持ちですか?",
+          "vi": "(stage manager) Dũng chào buổi sáng. Slide bản cuối, có USB không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(USB 渡す)あ、はい、これです。昨夜更新した分。",
+          "vi": "(đưa USB) À vâng, đây ạ. Bản cập nhật đêm qua."
+        },
+        {
+          "speaker": "stage_manager",
+          "ja": "(画面確認)…あれ、スクリーンに昨日の旧バージョンしか入ってないですね。最新版アップロードしますので、10分ほどお待ちください。",
+          "vi": "(check màn hình)… ơ, trên screen chỉ có bản cũ hôm qua. Em upload bản mới nhất, đợi 10 phút."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng nuốt nước miếng. 10 phút nữa cộng lo lắng. Đứng cạnh backstage, tay run nhẹ. Tuấn đứng cạnh.]"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(ベトナム語、小声)Em hít thở 4-7-8 đi.",
+          "vi": "(tiếng Việt nhỏ giọng) Em hít thở 4-7-8 đi."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng hít vào 4 giây, giữ 7 giây, thở ra 8 giây. Lặp 5 lần. Tim chậm dần.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[10 phút sau, IT staff giơ tay 'OK'. Slide latest version đã trên screen.]"
+        },
+        {
+          "speaker": "stage_manager",
+          "ja": "ズンさん、最新版反映完了。リハ通り、9時 CFO 開会、9:30 ズンさん intro 5分。",
+          "vi": "Dũng à, bản mới đã reflect. Theo dry run, 9h CFO opening, 9:30 Dũng intro 5 phút."
+        },
+        {
+          "speaker": "zun",
+          "ja": "了解、9:30 まで控え室で待機します。",
+          "vi": "Vâng, em đợi ở phòng chờ tới 9:30."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(ベトナム語、小声)Em sẵn sàng. Đi chuẩn bị nước + check ngoại hình lần cuối.",
+          "vi": "(tiếng Việt nhỏ giọng) Em sẵn sàng. Đi chuẩn bị nước + check ngoại hình lần cuối."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Slide upload fail = use as breathing window",
+        "body": "Tech glitch trước stage = thường gặp. Cách convert thành positive:\n- ✅ **Honest update từ stage manager** — biết chính xác bao lâu.\n- ✅ **Use 10 phút breathing 4-7-8** — physical reset nervous system.\n- ✅ **Don't watch IT staff fix** — stress contagion. Đứng góc xa.\n- ✅ **Drink water + bathroom check** — practical prep.\n- ❌ Đừng pull up slide trên iPhone review lại — last min change = forget script."
+      }
+    },
+    {
+      "n": 5,
+      "time": "Day 0 09:00",
+      "location": "Hành lang event hall — meet khách JP đến sớm",
+      "setting": "Hành lang ngoài hall trong lúc CFO opening đang chạy. Dũng đứng ngoài. 1 reporter analyst nhận ra Dũng từ pre-event PR — kéo riêng hỏi câu surprise về cost.",
+      "lines": [
+        {
+          "speaker": "reporter_jp",
+          "ja": "(架空) すみません、ティエンファットのズンさんですよね?日経クロステックの記者で、田所と申します。1分だけ。",
+          "vi": "(reporter) Xin lỗi, Dũng của Tien Phat đúng không? Tôi là phóng viên Nikkei XTECH, tên Tadokoro. 1 phút thôi."
+        },
+        {
+          "speaker": "zun",
+          "ja": "あ、田所さん、はい。よろしくお願いします。",
+          "vi": "À, anh Tadokoro, vâng. Mong anh giúp đỡ."
+        },
+        {
+          "speaker": "reporter_jp",
+          "ja": "Smart Bank Assistant の構築コスト、白鷗の銀行顧客の導入コスト、両方教えてもらえますか?",
+          "vi": "Chi phí xây dựng Smart Bank Assistant, chi phí triển khai cho khách hàng ngân hàng của Hakuō, anh cho biết cả hai được không?"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Câu surprise. Cost numbers = không trong scope intro 5 phút. Dũng không có authority share. Reply gì?]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(落ち着いて)田所さん、ご質問ありがとうございます。コスト面の詳細は、本日11:30の Q&A panel で松本PMから正式にお答えする予定です。私のセッションは intro 5分で、製品ビジョンに focus します。Q&A panel で田所さんから直接ご質問いただければ。",
+          "vi": "(bình tĩnh) Anh Tadokoro, cảm ơn anh đã hỏi. Chi tiết về cost, anh Matsumoto PM sẽ trả lời chính thức ở Q&A panel 11:30. Session của em là intro 5 phút, focus vào tầm nhìn sản phẩm. Anh có thể hỏi trực tiếp ở Q&A panel ạ."
+        },
+        {
+          "speaker": "reporter_jp",
+          "ja": "(笑って)了解、Q&A 行きます。プロな対応ですね。",
+          "vi": "(cười) Rõ, em qua Q&A. Cách handle pro nhỉ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(微笑む)よろしくお願いします。",
+          "vi": "(cười) Mong anh giúp đỡ."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Reporter đi. Dũng thở phào. Đẹp, không bị câu lạc. Note: brief Matsumoto sau opening session về reporter này + câu hỏi cost.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Tới chỗ Matsumoto vừa xuống stage. Whisper.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(松本に小声)松本さん、日経クロステックの田所さん、Q&A でコスト質問予定。事前にヒアップだけ。",
+          "vi": "(với Matsumoto nhỏ giọng) Anh Matsumoto, anh Tadokoro của Nikkei XTECH, dự định hỏi cost ở Q&A. Em báo trước anh."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(感謝の目)ありがとう、ズンさん、ナイス heads up。",
+          "vi": "(mắt cảm kích) Cảm ơn Dũng, nice heads up."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Reporter ambush — deflect to right session",
+        "body": "Reporter / analyst hay 'pre-event ambush' để câu trả lời cá nhân (sometimes off-script). Defense:\n- ✅ **Acknowledge + redirect** — không refuse, redirect to right session.\n- ✅ **Specify chính xác**: 'Q&A 11:30' + 'anh Matsumoto trả lời' = họ biết exactly khi nào.\n- ✅ **Frame your scope**: 'session em là 5 phút intro' = clear boundary.\n- ✅ **Heads up senior** ngay sau (Matsumoto) — đừng để Matsumoto bị surprise lúc 11:30.\n- ❌ **Đừng give random number** — pháp lý + PR risk.\n- ❌ **Đừng cold reject** — reporter sẽ ghim, viết tiêu cực.\n- Reporter khen 'プロな対応' = tone respectful sẽ continue."
+      }
+    },
+    {
+      "n": 6,
+      "time": "Day 0 10:00",
+      "location": "Stage — opening ceremony",
+      "setting": "Hall đầy ≈200 chỗ. Nakamura CFO opening 10 phút. Dũng ngồi front row chuẩn bị lên sau. Nakamura có nhắc tên Tien Phat + Dũng cá nhân — Dũng bất ngờ.",
+      "lines": [
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "(舞台上で)…そして本日のSmart Bank Assistant、これを実現するために2年間共に走ってきたパートナー、ベトナムのティエンファット社、特に同社BD担当のTran Van Dungさん…ズンさん、立っていただけますか?",
+          "vi": "(trên stage)… và Smart Bank Assistant hôm nay, đối tác đã cùng chạy 2 năm để hiện thực hóa, công ty Tien Phat từ Việt Nam, đặc biệt em Tran Van Dung BD của công ty… Dũng, anh đứng lên giúp ạ?"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng giật mình — completely surprise. Đứng dậy. Spot light quay tìm. Audience nhìn. Dũng cúi đầu sâu.]"
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "ズンさんは2年前、まだ junior BD として白鷗との打ち合わせに参加し始めて、今日は同じ stage に立つまでに成長してくださいました。皆様、温かい拍手を。",
+          "vi": "Dũng 2 năm trước còn là junior BD bắt đầu tham gia họp với Hakuō, hôm nay đã trưởng thành đến mức cùng đứng trên stage này. Quý vị, vỗ tay ấm áp ạ."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Tiếng vỗ tay 200 người vang. Dũng cúi đầu lần nữa, cảm thấy mặt nóng + mắt cay. Ngồi xuống. Tuấn cạnh whisper.]"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(ベトナム語、小声)Anh Nakamura signal mạnh đó. Em xứng đáng.",
+          "vi": "(tiếng Việt nhỏ giọng) Anh Nakamura signal mạnh đó. Em xứng đáng."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng note nhẹ trên iPhone: 'Nakamura đã call out trước stage. Lát em present phải mention 'cảm ơn Hakuō family welcome' — không pretend không nghe.']"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Senior call out cá nhân trên stage — handle grace",
+        "body": "Senior khách (Nakamura CFO) call out tên cá nhân + đứng lên trước audience = honor moment:\n- ✅ **Stand up promptly** — không hesitate.\n- ✅ **Bow deep 2 lần** — once khi đứng, once sau câu khen.\n- ✅ **Face neutral nhưng grateful** — không cười toe / không cúi gằm.\n- ✅ **Don't speak từ chỗ ngồi** — nếu Nakamura không pass mic.\n- ✅ **Acknowledge trong present sau** — Dũng note để mention 'cảm ơn Hakuō family' trong intro.\n- Đây là PR call-out cho Tien Phat + cá nhân — relationship sang level 'recognized publicly'."
+      }
+    },
+    {
+      "n": 7,
+      "time": "Day 0 10:30",
+      "location": "Stage — Dũng intro 5 phút",
+      "setting": "Dũng lên stage. Spotlight. Mic mới (đã test). Slide latest. Phút 2 — Dũng quên 1 từ tiếng Nhật chuyên môn ('inference latency'). Improvise English. Khán giả cười nhẹ thông cảm.",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "(マイクを取って)皆様、改めまして、Tran Van Dung、ズンと申します。本日はお越しいただき、また先ほど中村CFOからのお言葉、本当にありがとうございます。",
+          "vi": "(cầm mic) Quý vị, lại lần nữa, em là Trần Văn Dũng, gọi Dũng. Hôm nay quý vị đã đến, và lời của anh Nakamura CFO ban nãy, em thực sự cảm ơn."
+        },
+        {
+          "speaker": "zun",
+          "ja": "Smart Bank Assistant、私たちが2年かけて作ったこの製品の core vision を、5分でお話しします。",
+          "vi": "Smart Bank Assistant, sản phẩm tụi em làm 2 năm, em xin nói core vision trong 5 phút."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Slide 1 → 2 → 3 trôi smooth. Phút 2:30 — Dũng đến slide 3, từ 'inference latency' bay khỏi đầu. Stuck 1 giây. Audience im.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(微笑む、英語で)…sorry, the technical term in Japanese just escaped me — 'inference latency', the time AI takes to respond. 日本語でなんて言うか、忘れちゃいました(笑)",
+          "vi": "(cười, English)… xin lỗi, từ kỹ thuật tiếng Nhật em vừa quên mất — 'inference latency', thời gian AI mất để phản hồi. Tiếng Nhật nói sao em quên rồi (cười)"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Audience cười nhẹ. 1 ai đó hô 'スピード!' helping. Dũng cười cảm ơn.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ありがとう、『推論スピード』ですね。Smart Bank Assistant の推論スピードは、業界平均の3倍速い200ms以下を実現しています…",
+          "vi": "Cảm ơn ạ, 'tốc độ suy luận' nhỉ. Tốc độ suy luận của Smart Bank Assistant đạt dưới 200ms, gấp 3 lần tốc độ trung bình ngành…"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Recover OK. Tiếp slide 4-5. 4:50 phút — kết thúc.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "Smart Bank Assistant、銀行業界の AI 化に新しい一歩。本日のデモと panel discussion で、皆様により深くお伝えします。ご清聴ありがとうございました。",
+          "vi": "Smart Bank Assistant, một bước mới cho AI hóa ngành ngân hàng. Demo + panel discussion hôm nay sẽ truyền tải sâu hơn cho quý vị. Cảm ơn quý vị đã lắng nghe."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Tiếng vỗ tay đầy. Dũng cúi đầu, xuống stage. Tuấn ngồi front row, đập tay ngang gật đầu.]"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(後ろから来て、肩を叩く)ズンさん、英語で笑いを取ったの神対応。audience も和んだ。",
+          "vi": "(đến từ sau, vỗ vai) Dũng à, lấy laugh bằng tiếng Anh là handle thần. Audience cũng dịu xuống."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(息切れ)ありがとうございます…冷や汗かきました。",
+          "vi": "(thở dốc) Cảm ơn anh… mồ hôi lạnh."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Quên từ giữa stage — improvise + smile",
+        "body": "Quên từ giữa present = chuyện ai cũng từng. Cách handle gold:\n- ✅ **Pause 1 giây** — không pretend tiếp với từ sai.\n- ✅ **Honest + smile** — 'sorry, just escaped me' = relatable, audience forgive.\n- ✅ **Switch language** nếu cần — Dũng switch English explain concept, sau mới quay lại JP.\n- ✅ **Audience help OK** — accept '推論スピード' từ audience, cảm ơn.\n- ✅ **Pivot back to numbers** ngay ('200ms') — recover credibility.\n- ❌ **Đừng quá apologetic** — 1 sentence là đủ, đừng kéo dài.\n- ❌ **Đừng pretend biết** rồi nói từ sai — danger zone.\n- Result: audience laugh + Matsumoto khen 'lấy laugh là handle thần'."
+      }
+    },
+    {
+      "n": 8,
+      "time": "Day 0 11:30",
+      "location": "Stage — Q&A panel session",
+      "setting": "Panel 4 người: Matsumoto + Tuấn + Ōgaki + Dũng. 30 phút Q&A. Reporter Tadokoro hỏi câu cost (báo trước rồi). 1 câu khác từ analyst — câu technical Dũng ngại trả lời. Tuấn ra hiệu mắt, Dũng mạnh dạn answer.",
+      "lines": [
+        {
+          "speaker": "moderator",
+          "ja": "(架空) では、Q&A セッション開始します。最初のご質問、日経クロステックの田所さん。",
+          "vi": "(moderator) Bắt đầu Q&A session. Câu đầu, anh Tadokoro của Nikkei XTECH."
+        },
+        {
+          "speaker": "reporter_jp",
+          "ja": "Smart Bank Assistant の構築コストと、銀行顧客の導入コスト、概算で。",
+          "vi": "Chi phí xây dựng Smart Bank Assistant, chi phí triển khai cho khách hàng ngân hàng, ước lượng giúp."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "ご質問ありがとうございます。構築側は2年で総額 約3.5億円、ベトナム側エンジニア15名の人件費含めて。導入コストは銀行規模で違いますが、地方銀行クラスで初期5,000万円、月額300万円から。詳細は資料配布します。",
+          "vi": "Cảm ơn anh hỏi. Phía xây dựng 2 năm tổng khoảng 350 triệu yen, gồm chi phí 15 engineer Việt Nam. Chi phí triển khai tùy quy mô ngân hàng, regional bank class khoảng 50 triệu yen ban đầu, 3 triệu yen/tháng. Chi tiết em phát tài liệu."
+        },
+        {
+          "speaker": "moderator",
+          "ja": "次のご質問。前列の方。",
+          "vi": "Câu tiếp. Vị hàng trước."
+        },
+        {
+          "speaker": "analyst_jp",
+          "ja": "(架空) ベトナム側の技術力、特に AI ガバナンス領域で、日本の銀行の compliance 要件に対応できるか不安です。具体例ありますか?",
+          "vi": "(analyst) Khả năng kỹ thuật phía Việt Nam, đặc biệt mảng AI governance, em lo có đáp ứng được yêu cầu compliance ngân hàng Nhật không. Có ví dụ cụ thể?"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Câu này technical + sensitive. Tuấn được mong đợi reply. Tuấn ra hiệu mắt — 'em answer'. Dũng nuốt nước miếng, take mic.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ご質問ありがとうございます。ベトナム側の compliance 対応、3つのレイヤーでカバーしています。1つ目、ISO 27001 と SOC 2 Type 2 の認証取得済み。2つ目、Phase 4 で実装した audit trail は全API call を OpenSearch に7年保存、金融庁の要件 5 年を超えています。3つ目、AI ガバナンス層は人手レビューと auto-monitoring の hybrid、誤判定率を月次レポートで開示します。具体例として、Phase 4 で日本の地方銀行3行に既に導入し、6ヶ月稼働中、compliance audit pass しております。",
+          "vi": "Cảm ơn anh đã hỏi. Compliance từ phía Việt Nam, tụi em cover bằng 3 lớp. Một là đã đạt ISO 27001 và SOC 2 Type 2. Hai là audit trail Phase 4 lưu mọi API call vào OpenSearch 7 năm, vượt yêu cầu 5 năm của FSA. Ba là lớp AI governance hybrid giữa review thủ công và auto-monitoring, tỷ lệ misjudgment công khai qua báo cáo tháng. Ví dụ cụ thể, Phase 4 đã triển khai 3 ngân hàng địa phương Nhật, vận hành 6 tháng, đã pass compliance audit."
+        },
+        {
+          "speaker": "analyst_jp",
+          "ja": "(うなずく)具体的で安心しました。ありがとうございます。",
+          "vi": "(gật) Cụ thể, em yên tâm. Cảm ơn anh."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Tuấn cạnh nháy mắt thumbs up dưới bàn. Matsumoto ngồi cạnh whisper '完璧'.]"
+        },
+        {
+          "speaker": "moderator",
+          "ja": "次の質問。後ろの方。",
+          "vi": "Câu tiếp. Vị phía sau."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Q&A panel — answer khi senior signal",
+        "body": "Panel 4 người, Q&A 30 phút = juggle ai answer câu nào:\n- ✅ **Pre-panel sync** — agree default 'cost = Matsumoto, technical = Tuấn, BD/process = Dũng, sales projection = Ōgaki'.\n- ✅ **Senior eye signal** ('em answer') = trust moment, take it. Đừng bóp tay nhường.\n- ✅ **Structure 3 points** — '3 layer / 3 reason / 3 example' = listenable.\n- ✅ **Concrete proof** — 'ISO certified, 3 banks, 6 months in production' > vague claim.\n- ✅ **Forward analyst** sang resource cụ thể nếu cần follow up — không lock conversation.\n- ❌ Đừng hesitate visible — analyst sẽ doubt content."
+      }
+    },
+    {
+      "n": 9,
+      "time": "Day 0 12:30",
+      "location": "Networking lunch buffet",
+      "setting": "Hall sub: buffet lunch + 30 bàn đứng. Dũng + Tuấn đi vòng giới thiệu. Nhiều business card đưa ra cùng lúc — Dũng không kịp nhớ tên, ghi tay vào sổ giữa các cuộc.",
+      "lines": [
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[12:30. Audience đổ ra hall lunch. Dũng đứng góc, 5 phút sau bắt đầu có người approach.]"
+        },
+        {
+          "speaker": "guest_1",
+          "ja": "(架空) ズンさん、素晴らしいセッションでした。私、関東銀行の AI 推進室の佐藤です。",
+          "vi": "(khách 1) Dũng, session tuyệt vời. Em là Sato của phòng xúc tiến AI ngân hàng Kanto."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(両手で名刺受け取り)佐藤さん、ありがとうございます。Tien Phat の Tran Van Dung、ズンとお呼びください。(自分の名刺渡す)",
+          "vi": "(2 tay nhận danh thiếp) Anh Sato cảm ơn ạ. Em là Tran Van Dung của Tien Phat, gọi Dũng được ạ. (đưa danh thiếp mình)"
+        },
+        {
+          "speaker": "guest_1",
+          "ja": "Smart Bank Assistant、関東銀行でも検討の価値ありそう。後日、デモのご相談させていただいても?",
+          "vi": "Smart Bank Assistant, ngân hàng Kanto cũng có giá trị xem xét. Sau này em có thể bàn về demo không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "もちろんです、来週水曜以降でしたら時間調整できます。Slack でも email でも。名刺の連絡先からお願いします。",
+          "vi": "Đương nhiên ạ, từ thứ 4 tuần sau em có thể arrange. Slack hoặc email đều được. Liên lạc theo địa chỉ trên danh thiếp giúp em."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Sato đi. Dũng nhanh chóng rút sổ tay nhỏ trong túi áo, viết: '佐藤 / 関東銀行 / AI 推進室 / 来週水以降 demo'. Đặt namecard cũng vào sổ kẹp.]"
+        },
+        {
+          "speaker": "guest_2",
+          "ja": "(架空) 失礼します、ズンさん、富士山銀行の鈴木と申します。",
+          "vi": "(khách 2) Xin lỗi, Dũng à, em là Suzuki của ngân hàng Fujisan."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(名刺受け取り)鈴木さん、ありがとうございます。",
+          "vi": "(nhận danh thiếp) Anh Suzuki cảm ơn."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Tiếp 4 câu chuyện 5 phút mỗi câu. Sau mỗi cuộc, ghi note tên + cty + key topic. Cuối lunch 30 phút, có 8 namecards + 8 dòng note.]"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(横で)ズン、効率いい。後で全員に follow up メール送ろう、リスト渡して。",
+          "vi": "(bên cạnh) Dũng hiệu quả ghê. Lát anh follow up mail cho cả list, đưa list cho anh."
+        },
+        {
+          "speaker": "zun",
+          "ja": "了解、来週月曜までに送ります。",
+          "vi": "Vâng, em gửi tới thứ 2 tuần sau."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Networking lunch — note giữa các cuộc",
+        "body": "30 phút lunch = 6-10 cuộc gặp 5 phút. Memory overload nếu không system:\n- ✅ **Sổ tay nhỏ + pen trong túi áo** — accessible 1 second.\n- ✅ **Sau MỖI cuộc**, ghi 1 dòng: tên / cty / role / key topic / next action.\n- ✅ **Kẹp namecard vào sổ** đúng thứ tự = không lẫn.\n- ✅ **Repeat tên** trong câu đầu ('Sato-san, ありがとう') = cement memory.\n- ✅ **Specific time commitment** ('thứ 4 tuần sau') = pro touch.\n- Cuối ngày: scan namecards + sổ note vào CRM (Salesforce / HubSpot) trong 24h, không trễ."
+      }
+    },
+    {
+      "n": 10,
+      "time": "Day 0 15:00",
+      "location": "Booth demo — Dũng phụ Inoue",
+      "setting": "Booth demo sub-hall, ≈30m². Inoue lead demo. Dũng phụ — phát flyer, chụp ảnh, support customer hỏi. 1 khách thử dùng demo nhưng app crash. Inoue + Dũng phối hợp restart.",
+      "lines": [
+        {
+          "speaker": "guest_3",
+          "ja": "(架空) ズンさん、デモ試してみたいんですが、画面が固まってます。",
+          "vi": "(khách 3) Dũng à, em muốn thử demo, nhưng màn hình bị đứng."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng chạy lại laptop demo — đúng, frozen. App crash. Inoue đang demo cho khách khác, không kịp.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(笑顔で謝る)申し訳ございません、デモ環境のシステムが不安定で。1分以内に再起動しますので、少々お待ちくださいませ。",
+          "vi": "(cười xin lỗi) Em xin lỗi ạ, environment demo bất ổn. Em restart trong 1 phút, vui lòng đợi xíu."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng force-quit + restart app. 30 giây. Đăng nhập lại. Quay sang khách.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "復旧しました。お試しいただけます。何かご質問あればその場で。",
+          "vi": "Phục hồi rồi ạ. Mời anh thử. Có câu hỏi gì hỏi tại chỗ luôn."
+        },
+        {
+          "speaker": "guest_3",
+          "ja": "(操作開始)…おお、レスポンス速い。さっきは何が原因?",
+          "vi": "(bắt đầu thao tác)… ô, response nhanh. Lúc nãy nguyên nhân gì?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(正直)正直に申し上げますと、デモ環境はミニマムスペックで、今日複数同時アクセスで負荷が…本番環境は問題ないですが、デモ用の環境改善は社内で議題に上げます。",
+          "vi": "(thật) Thật thì, environment demo dùng minimum spec, hôm nay nhiều người access đồng thời nên load… Production environment không vấn đề, em sẽ raise issue cải thiện environment demo nội bộ."
+        },
+        {
+          "speaker": "guest_3",
+          "ja": "(笑って)正直で安心しました。本番環境のスペック資料、後でメールで送ってもらえますか?",
+          "vi": "(cười) Thẳng thắn em yên tâm. Spec production environment, sau gửi mail giúp được không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "了解、明日中にお送りします。お名刺いただけますか?",
+          "vi": "Vâng, trong ngày mai em gửi. Anh cho em danh thiếp được không?"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Inoue rảnh, đến cạnh.]"
+        },
+        {
+          "speaker": "inoue_hakuo",
+          "ja": "(小声で)ズンさん、ナイス recovery。デモ crash、こっちのミス。後で chocolate おごる。",
+          "vi": "(nhỏ giọng) Dũng nice recovery. Crash demo, lỗi bên anh. Lát anh đãi chocolate."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(笑って)了解、楽しみに待ちます。",
+          "vi": "(cười) Vâng, em đợi háo hức."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Demo crash — honest + immediate action",
+        "body": "Demo crash trước customer = recoverable nếu handle right:\n- ✅ **Acknowledge ngay + commit timeline cụ thể** ('1 phút') — không bullshit.\n- ✅ **Restart trong silence** — không stress narrate.\n- ✅ **Khi ask về cause, honest** — 'demo environment minimum spec' > 'oh that's weird'.\n- ✅ **Pivot to production + commitment to fix** — show maturity, không deflect.\n- ✅ **Capture lead** — danh thiếp + commit 'mai gửi spec' = convert moment xấu thành lead.\n- ❌ Đừng chạy đi tìm Inoue khi mình có thể restart — wastes customer time."
+      }
+    },
+    {
+      "n": 11,
+      "time": "Day 0 18:00",
+      "location": "Reception party event",
+      "setting": "Tiệc tối closing 2 tiếng tại hall sub. Bia + sake + canape. Dũng giữ tỉnh để còn nhớ tên. Matsumoto + Ōgaki + Inoue + 50 khách. Casual hơn lunch.",
+      "lines": [
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[18:00 reception bắt đầu. Dũng order 1 ly bia, dự định nip 2-3 ngụm tối đa. Walking + chat round.]"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(ズンに)ズンさん、お疲れ。今日完璧だったよ。analyst の technical question、僕も Tuan さんに任せようとしたんだけど、目で signal 出してたら自分で答えたね。",
+          "vi": "(với Dũng) Dũng vất vả. Hôm nay hoàn hảo. Câu technical của analyst, anh tính nhường cho Tuấn nhưng signal mắt thì em tự trả lời nhỉ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(顔赤く)はい、トゥアン先輩の signal 受けて、勇気出ました。",
+          "vi": "(mặt đỏ) Vâng, nhờ anh Tuấn ra hiệu em mới đủ dũng cảm."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "それでいい。次回 panel で、もう signal なしでも自分で take ね。",
+          "vi": "Vậy là tốt. Panel next time, không cần signal cũng tự take nhé."
+        },
+        {
+          "speaker": "inoue_hakuo",
+          "ja": "(到着、缶チョコ持って)ズンさん、約束のチョコ。デモ救ってくれてありがとう。",
+          "vi": "(đến, cầm hộp chocolate) Dũng à, chocolate đã hứa. Cảm ơn cứu demo."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(笑って受け取り)井上さん、ありがとうございます。",
+          "vi": "(cười nhận) Anh Inoue cảm ơn."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(別の guest と話してから来る)ズンさん、ちょっと相談…さっき経営陣の田中専務とちょっと話したんだけど、ズンさんを Tokyo office に半年呼ぶ件、年明けから動かしたいって言ってる。準備できる?",
+          "vi": "(nói xong với guest khác đến) Dũng à, có chuyện bàn… vừa rồi nói với anh Tanaka senmu của ban giám đốc, vụ mời em sang Tokyo office nửa năm, ổng muốn move từ đầu năm. Em chuẩn bị được không?"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Đề xuất Tokyo onsite 6 tháng giờ thành cụ thể. Đầu năm = 4 tháng nữa. Dũng cần answer gì?]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "松本さん、進めていただいてありがとうございます。家族とフオン副部長との相談、年内に完了させて、年明けに正式に動けるよう準備します。",
+          "vi": "Anh Matsumoto, cảm ơn anh đã thúc đẩy. Em sẽ hoàn thành bàn với gia đình + chị Hương trong năm nay, đầu năm sẵn sàng move chính thức."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "了解。ハーCTO とも僕の方から話する。一緒に進めよう。",
+          "vi": "Rõ. Anh Hà CTO bên em sẽ nói. Cùng tiến nhé."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Reception tiếp tục đến 20:00. Dũng meet thêm 12 khách + cảm ơn Inoue + closing tea với Tuấn.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Reception = decision moment intimate",
+        "body": "Reception sau event = casual hơn business meeting → senior nói thẳng quyết định lớn:\n- ✅ **Limit alcohol** — 1 ly bia tối đa, để nhớ tên + handle decision.\n- ✅ **Ōgaki feedback** ('next time signal nào' không cần) = career coaching real time.\n- ✅ **Matsumoto Tokyo onsite update** = move từ idea (bonenkai 12/2026) sang concrete (đầu năm 2027). Trả lời với commitment timeline cụ thể (year-end family + Hương).\n- ✅ **Capture chocolate / small gestures** — signal team appreciation.\n- Reception là moment 'bản lề' của relationship — đôi khi quan trọng hơn formal stage."
+      }
+    },
+    {
+      "n": 12,
+      "time": "Day 0 22:00",
+      "location": "Phòng khách sạn Dũng (Pacifico)",
+      "setting": "Sau reception. Dũng về phòng. Mệt body 9 phần, mind hưng phấn 10 phần. Mở Notes app viết long memory bank entry.",
+      "lines": [
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Phòng yên. Dũng cởi suit, mặc t-shirt + pants thoải mái. Order room service trà nóng + bánh nhẹ ¥1,200. Ngồi bàn nhỏ.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Mở Notes. Title: 'EVENT 2027/03/XX — Smart Bank Assistant launch — bản lề'.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Viết: 'Hôm nay 3 moments huge: (1) Nakamura CFO call out tên trên opening — first time được recognized publicly Tokyo. (2) Analyst technical question Q&A — Tuấn signal mắt, em tự take, Matsumoto khen 完璧. Đây là moment proof bản thân — không cần Tuấn cứu nữa. (3) Matsumoto reception confirm Tokyo onsite 6 tháng — đầu năm 2027 move, 4 tháng prep.']"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dừng. Trà ấm vào tay. Suy nghĩ. Viết tiếp: 'Cảm giác — không phải joy 'cao trào'. Là cảm giác 'bước qua 1 cánh cửa', và cánh cửa đó không quay được. Career định hình. Phase 1 BD junior 2 năm trước → hôm nay stage Tokyo + offer onsite 6 tháng. Tốc độ nhanh hơn mình tưởng.']"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Mở Slack — Tuấn 22:30 message: 'Em ngủ sớm. Hôm nay em đã grow up real. Anh nói thật.'. Dũng reply 'Cảm ơn anh, không có anh em không tới đây được'. Tuấn reply 1 emoji 🌅.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Bắt đầu list mistakes + next time. Ngắn — ngày phần lớn smooth. 1 mistake là quên từ '推論スピード' giữa stage. Next time prep thuộc 30 từ tech vocabulary tiếng Nhật trước event.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Tới phần action items. List dài 12 mục — mostly follow-up email + Tokyo onsite prep. Save note. Xếp lại sổ tay namecards 8 lead lunch + 12 lead reception. Làm 30 phút.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[23:30 — gọi mẹ HCMC video. Mẹ vừa ăn tối. Khoe 'hôm nay con stage Tokyo, anh giám đốc khen'. Mẹ cười 'tốt, ngủ sớm con'. 5 phút. Cúp máy. Lên giường. Ngủ.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Đêm sau event lớn — capture meta-insight",
+        "body": "Event 'bản lề' (turning point) cần record richer memory bank:\n- ✅ **Identify 3 moments huge** — không list 20, focus 3 quan trọng nhất.\n- ✅ **Capture EMOTION** không chỉ EVENT — 'cảm giác bước qua cánh cửa' = future-self sẽ nhớ này, không nhớ logistics.\n- ✅ **Acknowledge mentor** (Tuấn) — message ngay tối, không để morning.\n- ✅ **Connect with family** — gọi mẹ 5 phút, anchor identity ngoài career.\n- ✅ **Tomorrow follow-up list** ngay — mới fresh.\n- ✅ **Sleep priority** — không stay up celebrate 2h.\n- Event lớn = learning peak. Note rich = compound interest cho career."
+      }
+    }
+  ],
+  "recap": {
+    "setting": "Sáng thứ 2 sau event, Dũng ở văn phòng Tien Phat HCMC 9:00. Hương + Tuấn + Hà CTO + Dũng trong meeting room debrief.",
+    "format": "code_block",
+    "content": "2027-03-XX  Smart Bank Assistant Launch — Pacifico Yokohama\n\n3 điều rút ra:\n1. Nakamura CFO call out trên opening = first public recognition Tokyo.\n   Career visibility level đã lên — note phải prepare cho more high-stakes.\n2. Q&A technical question — Tuấn signal mắt, em tự take, OK.\n   Lần đầu mình signal sang chuẩn senior trust. Next panel — không cần signal.\n3. Reception Matsumoto confirm Tokyo onsite 6 tháng đầu 2027.\n   Move từ idea → concrete decision. 4 tháng prep family + Hương.\n\n2 mistakes không lặp:\n1. Quên từ '推論スピード' giữa stage (improvise English OK nhưng tránh).\n   → Trước event next: thuộc 30 từ tech vocabulary JP, drill morning of.\n2. Demo environment minimum spec → crash với customer.\n   → Internal: raise issue improve demo env, dedicated 'event demo' setup.\n\nAction items week tới:\n- [ ] Today: gửi mail Sato (Kanto Bank) demo schedule\n- [ ] Today: gửi spec production env cho khách demo crash\n- [ ] This week: follow-up mail 20 leads (8 lunch + 12 reception)\n- [ ] This week: scan namecards vào CRM (Salesforce)\n- [ ] This week: 1-on-1 với Hương về Tokyo onsite 6 tháng\n- [ ] This week: family call HCMC bố mẹ về Tokyo onsite plan\n- [ ] Mon next: gửi Tanaka senmu thank you note (mention publicly\n  recognition Nakamura)\n- [ ] Mon next: send to Hà CTO + Hương proposal Tokyo onsite logistic\n- [ ] Within 2 weeks: meet với Inoue về Phase 5 booth strategy\n- [ ] Drill tech JP vocab 30 từ — daily 10 phút\n- [ ] Book 1 ngày Tokyo dry run venue future events practice\n- [ ] Update LinkedIn profile — add 'speaker @ Smart Bank Launch 2027'\n\nMình:\n- Hôm nay là bản lề. Đã chuyển từ 'BD junior' sang 'BD recognized'.\n- 3 năm trước Phase 1 mail gửi Matsumoto run, hôm nay stage Tokyo.\n- Tốc độ thật. Không phải mơ.\n- Tokyo 6 tháng — sẽ change life. Cần family OK + Hương OK + Hà CTO OK.\n- Mệt body. Mind không ngủ. Note rich này sẽ giá trị nhiều năm sau."
+  }
+}

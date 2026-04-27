@@ -1,0 +1,253 @@
+{
+  "rule_id": "rule_01",
+  "rule_slug": "受電の第一声",
+  "title": {
+    "ja": "受電の第一声",
+    "vi": "Câu mở đầu khi nhấc máy"
+  },
+  "rule_context": {
+    "ja": "松本PM（白鷗・日本顧客）が初めてズン（ティエンファットBD）に電話。月曜朝9時。中村CFOからの紹介後の初コンタクト。受電時の第一声がコール全体の印象を決める場面。",
+    "vi": "Anh Matsumoto (PM Hakuō, khách Nhật) gọi cho em Dũng (BD Thiên Phát) lần đầu, sáng thứ Hai 9h. Cuộc gọi đầu sau khi anh Nakamura giới thiệu. Tình huống thể hiện câu mở đầu quyết định ấn tượng cả cuộc gọi."
+  },
+  "related_rules": [
+    "rule_02",
+    "rule_11",
+    "rule_22"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例",
+      "label_vi": "Hội thoại XẤU",
+      "display_order": 1,
+      "context": {
+        "ja": "ズンが「もしもし」で受ける。ビジネスとして不適切。",
+        "vi": "Em Dũng nhấc máy với 'もしもし' — không phù hợp business."
+      },
+      "sfx_intro": "phone_ring",
+      "analysis": {
+        "ja": "「もしもし」は家庭用。ビジネスでは相手がどこに電話しているか不明になり、不安を与える。さらに自己紹介がなく、相手は確認のためもう一度問わなければならない。",
+        "vi": "「もしもし」 là cách nghe điện ở nhà. Trong business, khách không biết đã gọi đúng nơi chưa, gây bất an. Hơn nữa em Dũng không tự xưng tên → khách phải hỏi thêm 1 lượt = lãng phí."
+      },
+      "annotations": [],
+      "conversation_lines": [
+        {
+          "line_id": "rule_01_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "もしもし。",
+          "sentence_translation": "Alo.",
+          "sentence_furigana": "もしもし。",
+          "tone": "casual",
+          "speed_multiplier": 1.0,
+          "pause_after_ms": 500
+        },
+        {
+          "line_id": "rule_01_bad_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "...あの、ティエンファットさんですか？",
+          "sentence_translation": "...Ơ, là Cty Thiên Phát phải không ạ?",
+          "sentence_furigana": "...あの、ティエンファットさんですか？",
+          "tone": "uncertain",
+          "speed_multiplier": 0.95,
+          "pause_after_ms": 500,
+          "pronunciation_hint": {
+            "ティエンファット": "ティエン・ファット"
+          }
+        },
+        {
+          "line_id": "rule_01_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、はい、そうです。",
+          "sentence_translation": "À, vâng, đúng rồi ạ.",
+          "sentence_furigana": "あ、はい、そうです。",
+          "tone": "nervous",
+          "speed_multiplier": 1.0
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "Hội thoại TỐT",
+      "display_order": 2,
+      "context": {
+        "ja": "同じ場面、ズンが正しい第一声で受電。",
+        "vi": "Cùng tình huống, em Dũng nhấc máy bằng câu mở chuẩn."
+      },
+      "sfx_intro": "phone_ring",
+      "analysis": {
+        "ja": "ズンの第一声で「会社→部署→氏名」が完結。松本PMは確認の手間なく本題に入れる。「お世話になっております」の挨拶交換でプロ間の信頼が即時確立。",
+        "vi": "Câu mở của em Dũng đã hoàn tất 'Cty → Phòng → Tên'. Anh Matsumoto không phải xác nhận, vào thẳng việc. Trao đổi 'お世話になっております' tạo niềm tin chuyên nghiệp ngay 5 giây đầu."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_01_good_01",
+          "highlight_text": "お電話ありがとうございます",
+          "ja": "受電の標準形。社内規定によっては「はい、◯◯です」も可。",
+          "vi": "Câu chuẩn business khi nhận máy. Một số công ty quy định dùng 「はい、◯◯です」 cho call nội bộ ngắn."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_01_good_01",
+          "highlight_text": "ティエンファット社、営業部のズン",
+          "ja": "順序は『会社名 → 部署名 → 氏名』。逆にしない。",
+          "vi": "Trật tự: Công ty → Phòng ban → Tên cá nhân. Không đảo ngược."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_01_good_01",
+          "highlight_text": "でございます",
+          "ja": "「です」より丁寧な敬語。社外受電の標準。",
+          "vi": "Kính ngữ trang trọng hơn 「です」. Chuẩn cho receive call từ ngoài công ty."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_01_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お電話ありがとうございます。ティエンファット社、営業部のズンでございます。",
+          "sentence_translation": "Cảm ơn anh đã gọi điện. Tôi là Dũng, phòng kinh doanh, Cty Thiên Phát ạ.",
+          "sentence_furigana": "おでんわありがとうございます。ティエンファットしゃ、えいぎょうぶのズンでございます。",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "pause_after_ms": 800,
+          "annotation_ids": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_01_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "お世話になっております。白鷗株式会社の松本と申します。",
+          "sentence_translation": "Cảm ơn anh đã hỗ trợ. Tôi là Matsumoto bên Cty Hakuō ạ.",
+          "sentence_furigana": "おせわになっております。はくおうかぶしきがいしゃのまつもとともうします。",
+          "tone": "formal",
+          "speed_multiplier": 1.0,
+          "pause_after_ms": 600,
+          "pronunciation_hint": {
+            "白鷗": "はくおう"
+          }
+        },
+        {
+          "line_id": "rule_01_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "松本様、こちらこそいつもお世話になっております。",
+          "sentence_translation": "Anh Matsumoto, em luôn cảm ơn anh đã hỗ trợ ạ.",
+          "sentence_furigana": "まつもとさま、いつもおせわになっております。",
+          "tone": "warm",
+          "speed_multiplier": 1.0
+        }
+      ]
+    },
+    {
+      "section": "variant",
+      "variant_name": "internal_call",
+      "label_ja": "バリエーション — 社内からの電話",
+      "label_vi": "Biến thể — Khi nội bộ Cty gọi đến",
+      "display_order": 3,
+      "context": {
+        "ja": "フオン副部長がズンに内線で電話。挨拶を簡略化。",
+        "vi": "Chị Hương gọi nội bộ cho em Dũng. Có thể lược câu chào đầu."
+      },
+      "analysis": {
+        "ja": "社内なら「お電話ありがとうございます」を省略してもOK。「でございます」も「です」に下げる。",
+        "vi": "Nội bộ có thể bỏ 「お電話ありがとうございます」. 「でございます」 hạ xuống 「です」."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_01_var_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "はい、ティエンファット営業部、ズンです。",
+          "sentence_translation": "Vâng, em Dũng, phòng kinh doanh Thiên Phát đây ạ.",
+          "sentence_furigana": "はい、ティエンファットえいぎょうぶ、ズンです。",
+          "tone": "neutral",
+          "speed_multiplier": 1.0
+        }
+      ]
+    },
+    {
+      "section": "variant",
+      "variant_name": "after_keeping_caller_waiting",
+      "label_ja": "バリエーション — お待たせした場合",
+      "label_vi": "Biến thể — Khi để khách đợi rồi mới bốc",
+      "display_order": 4,
+      "context": {
+        "ja": "電話が鳴っていたが他対応中で取れなかった。お詫びを添える。",
+        "vi": "Phone reo nhưng đang dở việc khác, để hơi lâu mới bốc. Thêm câu xin lỗi."
+      },
+      "analysis": {
+        "ja": "3コール超えたら「お待たせいたしました」を必ず追加。第一声 → 詫び → 自己紹介の順。",
+        "vi": "Quá 3 hồi chuông phải thêm 「お待たせいたしました」. Thứ tự: Câu mở → Xin lỗi → Tự xưng."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_01_var_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お電話ありがとうございます。お待たせいたしました。ティエンファット社、営業部のズンでございます。",
+          "sentence_translation": "Cảm ơn anh đã gọi. Xin lỗi vì đã để anh đợi. Tôi là Dũng, phòng kinh doanh, Cty Thiên Phát ạ.",
+          "sentence_furigana": "おでんわありがとうございます。おまたせいたしました。ティエンファットしゃ、えいぎょうぶのズンでございます。",
+          "tone": "apologetic",
+          "speed_multiplier": 0.95,
+          "pause_after_ms": 800
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_01_kp_01",
+      "speaker": "zun",
+      "sentence": "お電話ありがとうございます。〇〇社、〇〇部の〇〇でございます。",
+      "sentence_translation": "Cảm ơn anh đã gọi điện. Tôi là 〇〇, phòng 〇〇, công ty 〇〇 ạ.",
+      "purpose": "受電第一声の標準フォーマット — 全電話で使える基本テンプレート",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_01_kp_02",
+      "speaker": "zun",
+      "sentence": "お待たせいたしました。",
+      "sentence_translation": "Xin lỗi vì đã để anh/chị đợi.",
+      "purpose": "受電が遅れた時の詫び — 第一声と組み合わせて使う",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_01_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "audio_prompt_id": "rule_01_good_01",
+      "question_ja": "「お電話ありがとうございます」の後に正しく続くのはどれか？",
+      "options": [
+        "もしもし、ズンです",
+        "ティエンファット社、営業部のズンでございます",
+        "ズン、ティエンファット営業部です",
+        "ティエンファットのズン、営業部でございます"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "標準形は『会社名 → 部署 → 氏名』。Aは「もしもし」が不要。C, Dは順序が誤り。",
+        "vi": "Format chuẩn là 'Công ty → Phòng → Tên'. A sai vì có 「もしもし」 thừa. C, D sai trật tự."
+      }
+    }
+  ]
+}

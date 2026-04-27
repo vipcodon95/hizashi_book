@@ -1,0 +1,180 @@
+{
+  "rule_id": "rule_27",
+  "rule_slug": "謝辞スライド",
+  "title": {
+    "ja": "謝辞スライド",
+    "vi": "Thank-you slide"
+  },
+  "rule_context": {
+    "ja": "ズンが Phase 3 deck の最後のスライドを「Thank You」だけで作成 → トゥアンが 4要素 (御礼+Recap+連絡先+QR) に変更させる場面。",
+    "vi": "Dũng làm slide cuối chỉ \"Thank You\" → Tuấn yêu cầu sửa thành 4 phần (cảm ơn + recap + contact + QR)."
+  },
+  "related_rules": [
+    "rule_26",
+    "rule_28"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 「Thank You」だけ",
+      "label_vi": "XẤU — Slide trống chỉ \"Thank You\"",
+      "display_order": 1,
+      "analysis": {
+        "ja": "退室まで5-10分映る slide。情報密度ゼロは mottainai。",
+        "vi": "Slide chiếu 5-10 phút lúc khách rời phòng. Mật độ thông tin = 0 là mottainai (lãng phí)."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_27_bad_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "最後のスライド、「Thank You」だけ？",
+          "sentence_translation": "Slide cuối chỉ \"Thank You\" thôi à?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_27_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "はい、シンプルがいいかと…",
+          "sentence_translation": "Vâng, em nghĩ đơn giản là tốt ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_27_bad_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "客が退室するまでこの slide が壁に映ってる時間、何分？5分以上だぞ。情報密度ゼロで5分は mottainai。",
+          "sentence_translation": "Slide này chiếu trên tường mấy phút lúc khách đi ra? 5 phút trở lên đấy. 5 phút mà mật độ thông tin = 0 là mottainai (lãng phí).",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_27_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、なるほど…",
+          "sentence_translation": "À, em hiểu rồi ạ...",
+          "tone": "apologetic"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 4要素入り",
+      "label_vi": "TỐT — Slide đầy đủ 4 thành phần",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_27_good_01",
+          "highlight_text": "4要素入りの謝辞スライド",
+          "ja": "謝辞スライドの4要素: ①御礼 ②3点 recap ③連絡先 ④QR PDF。1つ欠けると不完全。",
+          "vi": "4 thành phần slide cảm ơn: ① cảm ơn ② recap 3 ③ contact ④ QR PDF. Thiếu 1 = không đủ."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_27_good_03",
+          "highlight_text": "閲覧専用",
+          "ja": "Drive リンクは閲覧専用 (read-only)。Public ではなく Email 制限推奨。Leak 対策。",
+          "vi": "Link Drive chỉ read-only. KHÔNG public — restrict by email. Chống leak."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_27_good_05",
+          "highlight_text": "9:00-18:00 (JST)",
+          "ja": "営業時間明記。日本顧客は work-life balance を尊重 → 深夜メール送らない配慮。",
+          "vi": "Ghi rõ giờ làm việc. Khách Nhật tôn trọng work-life balance → không gửi mail đêm khuya."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_27_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "4要素入りの謝辞スライドに変更しました。①御礼、②本日の3点 recap、③連絡先、④deck PDF の QR コード。",
+          "sentence_translation": "Em đã đổi sang slide cảm ơn có 4 thành phần ạ. ① Cảm ơn, ② recap 3 điểm hôm nay, ③ contact, ④ QR code deck PDF ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_27_good_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "いいね、QR は何先？Drive 直リンク？",
+          "sentence_translation": "Tốt, QR link đến đâu? Drive direct link à?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_27_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Drive 閲覧専用リンクの QR です。ダウンロード可、編集不可。Tanaka PMO 様にも同じリンク Slack で共有予定です。",
+          "sentence_translation": "QR đến link Drive chỉ read-only ạ. Download được, edit không được. Em cũng share cùng link đó qua Slack cho anh Tanaka PMO ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_27_good_04",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "連絡先は弊社2名 (ズン＋ハーCTO) でいいけど、営業時間書いとけよ。客が深夜メールで気を遣わない様に。",
+          "sentence_translation": "Contact bên mình 2 người (Dũng + Hà CTO) là OK, nhưng ghi giờ làm việc vào. Để khách không phải ngại khi gửi mail đêm khuya.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_27_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "「9:00-18:00 (JST)」追記します。",
+          "sentence_translation": "Em thêm 「9:00-18:00 (JST)」 ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_27_kp_01",
+      "speaker": "zun",
+      "sentence": "謝辞スライドは4要素 (御礼・Recap・連絡先・QR) で構成いたしました。",
+      "sentence_translation": "Slide cảm ơn em làm theo 4 thành phần (cảm ơn, recap, contact, QR) ạ.",
+      "purpose": "謝辞スライド構成説明",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_27_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "謝辞スライドに含めるべき要素は？",
+      "options": [
+        "「Thank You」の文字のみ",
+        "御礼+Recap 3点+連絡先 (営業時間付)+deck PDF の QR",
+        "presenter の写真と経歴",
+        "次回会議の議題"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "退室時 5-10 分映る slide。御礼+Recap+連絡先+QR の4要素で reinforcement と follow-up を促す。",
+        "vi": "Slide chiếu 5-10 phút lúc khách rời. 4 thành phần: cảm ơn + recap + contact + QR để reinforce + thúc follow-up."
+      }
+    }
+  ]
+}

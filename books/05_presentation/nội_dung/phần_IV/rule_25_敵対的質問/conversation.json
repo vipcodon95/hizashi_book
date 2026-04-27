@@ -1,0 +1,189 @@
+{
+  "rule_id": "rule_25",
+  "rule_slug": "敵対的質問への切り返し",
+  "title": {
+    "ja": "敵対的質問への切り返し",
+    "vi": "Đối phó câu hostile"
+  },
+  "rule_context": {
+    "ja": "Phase 3 Q&A で大垣部長が価格を強く challenge。Bridge phrase で中和 → 懸念に reframe → numbered answer → 選択権を客に flip back。",
+    "vi": "Q&A Phase 3, Ōgaki challenge giá mạnh. Bridge phrase neutralize → reframe sang concern → answer numbered → flip quyền chọn về khách."
+  },
+  "related_rules": ["rule_23", "rule_19"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — defensive 否定",
+      "label_vi": "XẤU — Defensive denial",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「高くない」と直接否定 → 客は更に push back。比較見積要求でエスカレート。",
+        "vi": "Phủ nhận trực tiếp 「不要」 → khách push back mạnh hơn. Yêu cầu báo giá cạnh tranh → escalate."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_25_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "Phase 3 で1200万？Phase 2 が800万だったのに 50%増？ベトナム会社で東京開発の値段ですか？",
+          "sentence_translation": "Phase 3 mà 12 triệu yên? Phase 2 là 8 triệu mà tăng 50%? Cty Việt Nam mà giá kiểu dev Tokyo à?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_25_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "いや、高くないと思います。市場価格と比較して妥当です。",
+          "sentence_translation": "Không, em nghĩ không đắt đâu ạ. So với market thì hợp lý ạ.",
+          "tone": "nervous"
+        },
+        {
+          "line_id": "rule_25_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "「妥当」ですか。じゃあ他社見積もり持ってきてくれ。",
+          "sentence_translation": "「Hợp lý」 à. Vậy mang báo giá của cty khác đến đây.",
+          "tone": "angry"
+        },
+        {
+          "line_id": "rule_25_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと、それはちょっと…",
+          "sentence_translation": "Ờ, cái đó hơi...",
+          "tone": "nervous"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — Bridge → Reframe → Answer → Flip",
+      "label_vi": "TỐT — Bridge → Reframe → Answer → Flip choice",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_25_good_02",
+          "highlight_text": "ご指摘の点、もっともでございます",
+          "ja": "Bridge phrase の王道。内容に同意せず『指摘した行為』を肯定。感情を中和、立場は譲らない。",
+          "vi": "Bridge phrase王道. KHÔNG đồng ý nội dung mà công nhận hành động nêu vấn đề là hợp lý. Trung hoà cảm xúc, không yield."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_25_good_03",
+          "highlight_text": "結論から申し上げますと…3点",
+          "ja": "Bridge 直後に numbered structured answer。具体的数字 (1.6倍, +15%, -8%) で wave away されない。",
+          "vi": "Ngay sau bridge là answer numbered có cấu trúc. Số liệu cụ thể (1.6x, +15%, -8%) khiến khách không thể wave away."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_25_good_05",
+          "highlight_text": "いずれの方向性をご希望でしょうか",
+          "ja": "Choice flip。客に選択肢 (スコープ削減 vs 現価格維持) を提示 → 押し付け感を解消。",
+          "vi": "Flip choice. Đưa khách 2 lựa chọn (giảm scope vs giữ giá) → khách thấy được respect, không bị shove."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_25_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "Phase 3 で1200万？Phase 2 が800万だったのに 50%増？ベトナム会社で東京開発の値段ですか？",
+          "sentence_translation": "Phase 3 mà 12 triệu yên? Phase 2 là 8 triệu mà tăng 50%? Cty Việt Nam mà giá kiểu dev Tokyo à?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_25_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご指摘の点、もっともでございます。ご懸念は『価格上昇 50% の妥当性』と理解しました。",
+          "sentence_translation": "Điểm anh nêu rất hợp lý ạ. Em hiểu mối quan ngại của anh là 「tính hợp lý của việc tăng giá 50%」 ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_25_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "結論から申し上げますと、価格上昇分の内訳は3点ございます。",
+          "sentence_translation": "Em xin nói thẳng kết luận trước ạ — phần tăng giá có 3 cấu phần ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_25_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "①Phase 3 はスコープが Phase 2 の 1.6倍 (機能数 12→19)、②セキュリティ要件 ISO27001 対応で 工数+15%、③24/7 サポート初年度込み。スコープ単価で見ますと Phase 2 比 -8%でございます。詳細はスライド19の比較表のとおりです。",
+          "sentence_translation": "① Phase 3 scope gấp 1.6 lần Phase 2 (12 chức năng → 19), ② yêu cầu bảo mật ISO27001 = effort +15%, ③ bao gồm support 24/7 năm đầu. Tính theo đơn giá scope thì giảm 8% so với Phase 2 ạ. Chi tiết ở slide 19 bảng so sánh ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_25_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "もしスコープを Phase 2 と同等に絞れば 950万まで圧縮可能です。いずれの方向性をご希望でしょうか？",
+          "sentence_translation": "Nếu cắt scope về tương đương Phase 2, có thể nén xuống 9,5 triệu yên ạ. Quý vị muốn theo hướng nào ạ?",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_25_good_06",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "…なるほど、スコープ単価で -8% か。比較表をもう一度見せてください。",
+          "sentence_translation": "...Hiểu rồi, đơn giá scope giảm 8% à. Cho tôi xem lại bảng so sánh.",
+          "tone": "neutral"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_25_kp_01",
+      "speaker": "zun",
+      "sentence": "ご指摘の点、もっともでございます。ご懸念は〇〇と理解しました。",
+      "sentence_translation": "Điểm anh nêu rất hợp lý ạ. Em hiểu mối quan ngại của anh là 〇〇 ạ.",
+      "purpose": "敵対的質問への bridge phrase 王道",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_25_kp_02",
+      "speaker": "zun",
+      "sentence": "いずれの方向性をご希望でしょうか？",
+      "sentence_translation": "Quý vị muốn theo hướng nào ạ?",
+      "purpose": "選択肢提示 flip control",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_25_bjt_01",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "価格を強く challenge された時の最初の発話として最適なのは？",
+      "options": [
+        "「高くないと思います」",
+        "「他社よりは安いです」",
+        "「ご指摘の点、もっともでございます。ご懸念は〇〇と理解しました」",
+        "「それは誤解です」"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "Bridge phrase で感情を中和 → 懸念に reframe してから内容に入る。直接否定や反論は escalate を招く。",
+        "vi": "Bridge phrase trung hoà cảm xúc → reframe sang concern rồi mới vào nội dung. Phủ nhận trực tiếp / phản biện = escalate."
+      }
+    }
+  ]
+}

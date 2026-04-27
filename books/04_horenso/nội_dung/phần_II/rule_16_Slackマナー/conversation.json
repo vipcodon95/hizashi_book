@@ -1,0 +1,173 @@
+{
+  "rule_id": "rule_16",
+  "rule_slug": "Slackマナー",
+  "title": {
+    "ja": "Slack マナー (@here / @channel / threads / DM)",
+    "vi": "Slack channel etiquette"
+  },
+  "rule_context": {
+    "ja": "ズンが顧客 Slack workspace で @channel を深夜に使い、田中 PMO から運用ルールを丁寧に指摘される場面。@here / @channel / thread / DM の使い分けを学ぶ。",
+    "vi": "Em Dũng dùng @channel đêm khuya trong Slack chung với khách, anh Tanaka PMO góp ý lịch sự về quy tắc vận hành. Học cách phân biệt @here / @channel / thread / DM."
+  },
+  "related_rules": [
+    "rule_14",
+    "rule_15",
+    "rule_21"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 深夜 @channel + スレッドなし",
+      "label_vi": "XẤU — @channel đêm khuya + không thread",
+      "display_order": 1,
+      "analysis": {
+        "ja": "23:30 の @channel は全員（DnD中も）に通知が飛び迷惑。さらにスレッドを使わないため、後続の返信で main channel がノイズだらけになる。",
+        "vi": "23:30 dùng @channel ping cả mọi người (cả người đang DnD), gây phiền. Không dùng thread thì main channel bị nhiễu bởi các reply tiếp theo."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_16_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "@channel リンク確認お願いします。https://docs.../spec_v3",
+          "sentence_translation": "@channel mọi người check link giúp em. https://docs.../spec_v3",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_16_bad_02",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ズンさん、おはようございます。お疲れ様です。@channel は本番障害など緊急時のみ使う運用ルールがございます。今回は @here、または特定メンバーへのメンションが適切かと存じます。",
+          "sentence_translation": "Dũng, chào buổi sáng. Quy tắc vận hành là @channel chỉ dùng khi khẩn cấp như sự cố production. Lần này nên dùng @here hoặc mention member cụ thể.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_16_bad_03",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "また、関連投稿はスレッド化いただけますと、main channel が読みやすくなります。",
+          "sentence_translation": "Thêm nữa, các bài đăng liên quan nếu chuyển vào thread thì main channel sẽ dễ đọc hơn.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_16_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "申し訳ございません。今後 @channel は緊急時のみ使用し、関連は thread にいたします。",
+          "sentence_translation": "Em xin lỗi anh ạ. Từ giờ @channel em chỉ dùng khi khẩn, các liên quan em chuyển vào thread ạ.",
+          "tone": "apologetic"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — @here + thread + DM の使い分け",
+      "label_vi": "TỐT — Phân biệt @here + thread + DM",
+      "display_order": 2,
+      "analysis": {
+        "ja": "@here は active な人のみ通知、thread で文脈を保持、個別質問は DM へ誘導。main channel が綺麗に保たれる。",
+        "vi": "@here chỉ ping người online, thread giữ context, hỏi riêng đẩy sang DM. Main channel sạch sẽ."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_16_good_01",
+          "highlight_text": "@here",
+          "ja": "active な人だけに通知。@channel より優しい選択。",
+          "vi": "Chỉ ping người đang online. Lịch sự hơn @channel."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_16_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "@here Phase 3 仕様書 v3 をアップロードしました。本日中にご確認をお願いいたします。https://docs.../spec_v3",
+          "sentence_translation": "@here em đã upload tài liệu spec v3 Phase 3. Phiền mọi người check trong hôm nay ạ. https://docs.../spec_v3",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_16_good_02",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "確認いたします。",
+          "sentence_translation": "Tôi xem nhé.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_16_good_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "セクション3に質問あります、後ほど DM します。",
+          "sentence_translation": "Anh có câu hỏi ở section 3, lát anh DM nhé.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_16_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "@トゥアン お待ちしております。",
+          "sentence_translation": "@Tuấn em đợi anh ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_16_good_05",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "v3 確認完了。承認します。",
+          "sentence_translation": "Tôi check xong v3. Tôi duyệt nhé.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_16_kp_01",
+      "speaker": "zun",
+      "sentence": "@here 〇〇をアップロードしました。本日中にご確認をお願いいたします。",
+      "sentence_translation": "@here em đã upload 〇〇. Phiền mọi người check trong hôm nay ạ.",
+      "purpose": "Slack 通常 broadcast の冒頭",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_16_kp_02",
+      "speaker": "tanaka_pmo",
+      "sentence": "@channel は本番障害など緊急時のみ使う運用ルールがございます。",
+      "sentence_translation": "@channel có quy tắc vận hành là chỉ dùng khi khẩn cấp như sự cố production.",
+      "purpose": "@channel 過剰使用への丁寧な指摘",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_16_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "Slack で深夜23時に通常の仕様書共有を投稿する際、最も適切なメンションは？",
+      "options": [
+        "@channel",
+        "@here",
+        "メンションなし（翌朝の業務時間に @here）",
+        "全員に DM"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "深夜は @channel/@here ともに DnD を破る可能性。緊急でなければ翌朝の業務時間まで待つのが日本ビジネスマナー。",
+        "vi": "Đêm khuya cả @channel/@here đều có thể phá DnD. Không khẩn thì đợi đến sáng giờ làm là chuẩn business Nhật."
+      }
+    }
+  ]
+}

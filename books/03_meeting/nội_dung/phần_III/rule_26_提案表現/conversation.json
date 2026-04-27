@@ -1,0 +1,152 @@
+{
+  "rule_id": "rule_26",
+  "rule_slug": "提案の表現",
+  "title": {
+    "ja": "提案の表現",
+    "vi": "Đề xuất ý tưởng mới"
+  },
+  "rule_context": {
+    "ja": "Phase 2会議中、ハイがバックログを2スプリントに分割する案を提案。許可→課題→解→意見聞きの4ステップで切り出す。",
+    "vi": "Họp phase 2, em Hải đề xuất chia backlog thành 2 sprint thay vì 1. Cấu trúc 4 bước: xin phép → vấn đề → giải pháp → mời feedback."
+  },
+  "related_rules": ["rule_19", "rule_23", "rule_27"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 「〜べき」と直接的",
+      "label_vi": "XẤU — Đề xuất kiểu mệnh lệnh",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「〜べきです」「私の意見では」は日本のビジネス会議で押しつけがましい印象。提案でも控えめな表現が標準。",
+        "vi": "「〜べきです」「私の意見では」 trong họp JP business nghe ép buộc. Đề xuất phải dùng cách diễn đạt khiêm tốn."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_26_bad_01",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "私の意見では、1つの sprint じゃ無理です。2つに分けるべきです。",
+          "sentence_translation": "Theo ý em, 1 sprint không được đâu. Phải chia thành 2 ạ.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_26_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "…『〜べき』ですか。なるほど。",
+          "sentence_translation": "...'Phải' à. Vậy à.",
+          "tone": "firm",
+          "speed_multiplier": 0.95
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 4ステップ提案",
+      "label_vi": "TỐT — Đề xuất 4 bước",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_26_good_01",
+          "highlight_text": "ひとつご提案させていただいてもよろしいでしょうか",
+          "ja": "提案前に許可を求めるオープナー。相手にコントロール感を与える。",
+          "vi": "Câu xin phép đề xuất. Cho đối phương cảm giác kiểm soát buổi họp."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_26_good_03",
+          "highlight_text": "という構成はいかがでしょうか",
+          "ja": "「〜べき」の代わりに「いかがでしょうか」で柔らかく問いかける。",
+          "vi": "Thay 「〜べき」 bằng 「いかがでしょうか」 → tone mềm, mời gọi feedback."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_26_good_03",
+          "highlight_text": "ご意見を頂戴できればと存じます",
+          "ja": "提案を「押しつけ」ではなく「議題に乗せる」姿勢を示す結語。",
+          "vi": "Câu kết: thể hiện 'đưa lên bàn để bàn' chứ không 'ép'."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_26_good_01",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "ひとつご提案させていただいてもよろしいでしょうか？",
+          "sentence_translation": "Em xin được đề xuất 1 ý có được không ạ?",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_26_good_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "どうぞ。",
+          "sentence_translation": "Mời em.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_26_good_03",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "現在のバックログ規模ですと、1スプリントで完了するにはリスクがあるかと存じます。そこで、優先度別に2スプリントに分割し、第1スプリントでコア機能、第2スプリントで拡張機能、という構成はいかがでしょうか？皆様のご意見を頂戴できればと存じます。",
+          "sentence_translation": "Với khối lượng backlog hiện tại, em e là làm 1 sprint sẽ có rủi ro ạ. Nên em xin đề xuất chia thành 2 sprint theo độ ưu tiên — sprint 1 làm core, sprint 2 làm tính năng mở rộng — anh/chị thấy thế nào ạ? Em rất mong nhận được góp ý ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2", "3"]
+        },
+        {
+          "line_id": "rule_26_good_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "面白い提案ですね。スプリント1のスコープ案をいただけますか？",
+          "sentence_translation": "Đề xuất hay đấy. Cho tôi xem dự thảo scope sprint 1 nhé?",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_26_kp_01",
+      "speaker": "hai",
+      "sentence": "ひとつご提案させていただいてもよろしいでしょうか？",
+      "sentence_translation": "Em xin được đề xuất 1 ý có được không ạ?",
+      "purpose": "提案を切り出すフレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_26_kp_02",
+      "speaker": "hai",
+      "sentence": "〜という構成はいかがでしょうか？",
+      "sentence_translation": "Cấu trúc 〜 anh/chị thấy thế nào ạ?",
+      "purpose": "提案を柔らかく問いかける結び",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_26_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "顧客に新しいアイデアを提案する時、最も適切な切り出しはどれか？",
+      "options": [
+        "私の意見では〜するべきです",
+        "ひとつご提案させていただいてもよろしいでしょうか？",
+        "絶対これがいいです",
+        "こうしましょう"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "「ご提案させていただいてもよろしいでしょうか」が許可を求めつつ控えめに切り出す標準形。",
+        "vi": "「ご提案させていただいてもよろしいでしょうか」 là câu chuẩn xin phép + mở khiêm tốn."
+      }
+    }
+  ]
+}

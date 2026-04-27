@@ -1,0 +1,200 @@
+{
+  "rule_id": "rule_33",
+  "rule_slug": "契約条項の最終調整",
+  "title": {
+    "ja": "契約条項の最終調整",
+    "vi": "Điều chỉnh điều khoản cuối"
+  },
+  "rule_context": {
+    "ja": "本契約 v2 に含まれる indemnity 無制限・IP 全帰属の条件を、Hà CTO の walk-away ライン (上限=年契約額、IP 2層構造、SLA 罰則cap) に沿って 3 ラウンドで調整する場面。",
+    "vi": "Contract v2 có indemnity unlimited + IP toàn bộ thuộc 白鷗 — Dũng đàm phán theo walk-away line của anh Hà CTO (cap = annual value, IP 2 layers, SLA penalty cap) qua 3 vòng."
+  },
+  "related_rules": [
+    "rule_32",
+    "rule_24",
+    "rule_43"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 重要条項を即決承諾",
+      "label_vi": "XẤU — Accept ngay terms quan trọng",
+      "display_order": 1,
+      "analysis": {
+        "ja": "indemnity 無制限と IP 全帰属を持ち帰りなしで即決。1 ヶ月後に致命的リスクに気付くも、撤回交渉は relationship dent。",
+        "vi": "Accept ngay indemnity unlimited + IP toàn bộ. 1 tháng sau Tuấn phát hiện rủi ro fatal, nhưng renegotiate sẽ làm relationship dent."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_33_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "ズン様、弊社 legal からの修正版です。indemnity は無制限、IP は当社帰属でお願いします。",
+          "sentence_translation": "Anh Dũng, đây là bản sửa từ legal bên anh. Indemnity unlimited, IP thuộc bên tôi, anh giúp tôi.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_33_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "承知しました、それで進めます。",
+          "sentence_translation": "Em rõ rồi ạ, em đi tiếp như vậy ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_33_bad_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "ズン、これ無制限損害賠償じゃないか…1 件 bug で会社潰れるぞ。",
+          "sentence_translation": "Dũng, cái này indemnity unlimited mà... 1 cái bug là công ty mình phá sản đó.",
+          "tone": "urgent"
+        },
+        {
+          "line_id": "rule_33_bad_04",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "これ legal レビュー通したのか？ 撤回交渉を今すぐかけるしかない。",
+          "sentence_translation": "Cái này có qua legal review không em? Bây giờ chỉ còn cách renegotiate rút lại thôi.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — Hà CTO walk-away ライン明確 + 3点交渉",
+      "label_vi": "TỐT — Walk-away line + đàm phán 3 điểm có data",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_33_good_02",
+          "highlight_text": "ただし",
+          "ja": "「ただし」+ 「持ち帰り検討」 = 即決 NO の代わりに escalation バッファを作る日本流。",
+          "vi": "'ただし' + 'mang về xem' = thay vì 'KHÔNG' ngay thì tạo buffer escalation theo cách JP."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_33_good_03",
+          "highlight_text": "これ以下なら撤退",
+          "ja": "Hà CTO の walk-away line: ①上限=年契約額、②IP 2層構造、③SLA 罰則cap。曖昧なら negotiation で flip される。",
+          "vi": "Walk-away line Hà CTO: ①cap = annual value, ②IP 2 layers, ③SLA penalty cap. Mơ hồ là sẽ bị flip trong negotiation."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_33_good_04",
+          "highlight_text": "業界標準",
+          "ja": "「業界標準」 framing は個人主張ではなく market norm。受け入れられやすい。",
+          "vi": "Framing 'industry standard' không phải opinion cá nhân mà là market norm — dễ được accept."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_33_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "indemnity 無制限、IP 当社帰属でお願いします。",
+          "sentence_translation": "Indemnity unlimited, IP thuộc bên tôi, anh giúp tôi.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_33_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご要望承知しました。ただし、indemnity 無制限は弊社 legal および取締役会上限規定 (年契約額) を超えるため、本日中に持ち帰り検討させてください。",
+          "sentence_translation": "Em ghi nhận yêu cầu của anh. Tuy nhiên, indemnity unlimited vượt quá quy định cap của legal và HĐQT bên em (annual contract value), em xin phép mang về xem trong ngày hôm nay ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_33_good_03",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "3 つ譲れない: ①損害賠償上限 = 年契約額 ¥17M、②IP 分割 (clientA 固有コードは貴社、reusable AI component は弊社)、③SLA 99.9% は維持。これ以下なら撤退。",
+          "sentence_translation": "3 điểm không nhân nhượng: ①Cap indemnity = annual ¥17M, ②IP chia 2 lớp (code riêng của khách thuộc khách, reusable AI component thuộc mình), ③SLA 99.9% giữ. Dưới mức này thì rút.",
+          "tone": "firm",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_33_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お時間いただきありがとうございます。3 点ご相談: (i) 損害賠償上限を年契約額 ¥17M に設定、業界標準でございます。(ii) IP は 2 層構造、御社固有 customization は御社、汎用 AI component は弊社、ライセンス供与いたします。(iii) SLA 99.9% 維持、罰則は月額 5% upper cap。",
+          "sentence_translation": "Em cảm ơn anh đã dành thời gian. Em xin trao đổi 3 điểm: (i) Cap indemnity đặt ở annual ¥17M, đây là industry standard. (ii) IP cấu trúc 2 lớp, customization riêng của bên anh thuộc bên anh, AI component generic thuộc bên em và bên em license cho bên anh. (iii) SLA giữ 99.9%, penalty cap 5% giá trị tháng.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_33_good_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "…IP 2 層構造は理解できます。indemnity 上限も legal 慣行ですね。社内検討の上、3 営業日以内にお返事いたします。",
+          "sentence_translation": "...IP 2 layers tôi hiểu được. Cap indemnity cũng là practice của legal. Bên anh nội bộ thảo luận, trong 3 ngày làm việc sẽ phản hồi.",
+          "tone": "neutral",
+          "pause_after_ms": 800
+        },
+        {
+          "line_id": "rule_33_good_06",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "3 点とも承諾いたします。final draft に反映お願いします。",
+          "sentence_translation": "Cả 3 điểm bên tôi đồng thuận. Phiền anh update vào final draft.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_33_kp_01",
+      "speaker": "zun",
+      "sentence": "本日中に持ち帰り検討させてください。",
+      "sentence_translation": "Em xin phép mang về xem trong ngày hôm nay ạ.",
+      "purpose": "重要条項に対する即決回避",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_33_kp_02",
+      "speaker": "zun",
+      "sentence": "業界標準でございます。",
+      "sentence_translation": "Đây là industry standard ạ.",
+      "purpose": "条項主張の framing",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_33_bjt_01",
+      "level": "J1",
+      "skill": "場面把握",
+      "question_ja": "クライアント側が「indemnity 無制限」を要求してきた時、最も適切な初動は？",
+      "options": [
+        "即決で承諾し relationship を保つ",
+        "「ただし、社内規定上限を超えるため持ち帰り検討させてください」と escalation バッファを作る",
+        "その場で「無理です」と断る",
+        "話題を変える"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "即決承諾は致命的リスク。即決拒否は relationship dent。「持ち帰り」が双方を救う日本流。",
+        "vi": "Accept ngay = rủi ro chết. Từ chối ngay = relationship dent. 'Mang về' là cách JP cứu cả 2 bên."
+      }
+    }
+  ]
+}

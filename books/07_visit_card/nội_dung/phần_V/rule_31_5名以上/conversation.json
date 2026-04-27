@@ -1,0 +1,207 @@
+{
+  "rule_id": "rule_31",
+  "rule_slug": "5名以上の対応",
+  "title": {
+    "ja": "5名以上の対応",
+    "vi": "Khách Nhật đoàn lớn 5+ người"
+  },
+  "rule_context": {
+    "ja": "東京 onsite 期間中、白鷗本社で final ceremony 開催。白鷗側6名(中村CFO・大垣・松本・田中PMO+技術2名)+ティエンファット側5名(ハーCTO・フオン副部長・トゥアン・ズン・ハイ)、計11名。ハーCTOがズンに seat layout + drink rotation + flow を確認する場面。",
+    "vi": "Trong onsite Tokyo, final ceremony tại trụ sở 白鷗. Bên 白鷗 6 người (CFO Nakamura, Ōgaki, Matsumoto, PMO Tanaka + 2 kỹ thuật), bên Thiên Phát 5 người (Hà CTO, chị Hương phó phòng, Tuấn, Dũng, Hải) = tổng 11 người. Hà CTO check Dũng về sơ đồ ngồi + xoay vòng rót đồ uống + flow."
+  },
+  "related_rules": ["rule_10", "rule_24", "rule_25"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 自由着席 + 飲み物単独管理 + flow なし",
+      "label_vi": "XẤU — ngồi tự do + tự quản drink + không có flow",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①seat未指定=客が迷う+格落ち ②11人で1人がpour担当=回り切れず空グラス放置 ③flow未管理=挨拶順序で混乱+CFOが入れない瞬間。",
+        "vi": "(1) Không chỉ định ghế = khách lưỡng lự + mất tầm. (2) 11 người mà 1 người rót = không kịp, ly cạn không ai để ý. (3) Không có flow = thứ tự chào lộn xộn + CFO không có chỗ chen vào."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_31_bad_01",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "ズン、明日のceremony seat layoutは？",
+          "sentence_translation": "Dũng, sơ đồ ngồi cho ceremony mai sao?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_31_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、自由着席で…大丈夫かと…",
+          "sentence_translation": "À, em định để mọi người tự ngồi... chắc cũng ổn ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_31_bad_03",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "11人で自由着席は混乱の元。中村CFOが上座に入れず格落ちリスク。pour担当は？",
+          "sentence_translation": "11 người mà tự ngồi = nguồn gốc của hỗn loạn. CFO Nakamura không vào được 上座 (kamiza) = mất tầm. Ai rót đồ uống?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_31_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "私一人でと…",
+          "sentence_translation": "Em định một mình em...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_31_bad_05",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "11人 1人pourは無理。3-4人ずつzoneに分けてpour担当を配置。flow tableも作って。",
+          "sentence_translation": "11 người 1 người rót là không kham nổi. Chia zone 3-4 người, mỗi zone có người rót. Bảng flow cũng phải làm.",
+          "tone": "firm",
+          "speed_multiplier": 0.95
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 指定seat + zone別pour + 30分flow",
+      "label_vi": "TỐT — ghế chỉ định + chia zone rót + flow 30 phút",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_31_good_02",
+          "highlight_text": "中村CFOが上座中央",
+          "ja": "11人テーブルでも上座(出入口から最遠)中央が最高位。客側 senior 3人を上座側、host側 senior は下座側で対面。",
+          "vi": "Bàn 11 người vẫn 上座 (kamiza = xa cửa nhất) ở giữa = vị trí tối cao. 3 senior khách ngồi 上座, senior host ngồi 下座 (shimoza) đối diện."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_31_good_02",
+          "highlight_text": "席札+席次表をテーブル中央に",
+          "ja": "5人以上は必ず席札+席次表。客側到着前に配置完了。迷い回避+格指示明確。",
+          "vi": "5+ người = bắt buộc bảng tên + sơ đồ ngồi để giữa bàn. Bố trí xong trước khi khách đến. Tránh ngơ ngác + thứ bậc rõ ràng."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_31_good_03",
+          "highlight_text": "zone A: ハイ、zone B: トゥアン、zone C: 私",
+          "ja": "host側 3-4人ずつzone担当=空グラス2分以内検知。zone leader 同士でglassレベル check 通信。",
+          "vi": "Mỗi host phụ trách zone 3-4 người = phát hiện ly cạn trong 2 phút. Các leader zone chat ngầm với nhau check mức ly."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_31_good_05",
+          "highlight_text": "flow table: 18:30乾杯 → 18:40 中村CFOご挨拶",
+          "ja": "30分単位 flow を事前print。挨拶は CFO → 大垣部長 → ハーCTO → フオン副部長 の交互順。",
+          "vi": "In sẵn flow chia 30 phút. Phát biểu = CFO → trưởng Ōgaki → Hà CTO → Hương phó phòng — luân phiên khách-host."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_31_good_01",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "ズン、明日 11名 ceremony 準備状況を共有して。",
+          "sentence_translation": "Dũng, ceremony 11 người mai cập nhật anh đi.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_31_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "① seat layout: 中村CFOが上座中央、両側に大垣様・松本様。下座側中央にハーCTO、両側にフオン副部長・トゥアン。席札+席次表をテーブル中央に。",
+          "sentence_translation": "(1) Sơ đồ ngồi: CFO Nakamura giữa 上座 (kamiza), 2 bên là anh Ōgaki và anh Matsumoto. Phía 下座 (shimoza) giữa là anh Hà CTO, 2 bên là chị Hương phó phòng và anh Tuấn. Bảng tên + sơ đồ ngồi để giữa bàn.",
+          "tone": "formal",
+          "speed_multiplier": 0.92,
+          "annotation_ids": ["1", "2"]
+        },
+        {
+          "line_id": "rule_31_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "② zone別pour: zone A (中村・大垣・松本) はハイ担当、zone B (田中PMO+技術2名) はトゥアン担当、zone C (host側自分達)は私が回します。Slack で空glass通報。",
+          "sentence_translation": "(2) Rót theo zone: zone A (Nakamura, Ōgaki, Matsumoto) Hải lo, zone B (Tanaka PMO + 2 kỹ thuật) Tuấn lo, zone C (bên host mình) em quay vòng. Có Slack báo ly cạn.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_31_good_04",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "flow tableは？",
+          "sentence_translation": "Còn flow table?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_31_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "③ flow table: 18:30乾杯 → 18:40 中村CFOご挨拶 → 18:50 大垣部長 → 19:00 ハーCTO → 19:10 フオン副部長 → 19:20 自由歓談 → 20:30 お土産交換 → 21:00 締め。host 側全員に印刷配布済。",
+          "sentence_translation": "(3) Flow table: 18:30 kanpai → 18:40 CFO Nakamura phát biểu → 18:50 trưởng Ōgaki → 19:00 Hà CTO → 19:10 chị Hương phó phòng → 19:20 trò chuyện tự do → 20:30 trao omiyage → 21:00 kết thúc. Đã in phát cả nhóm host.",
+          "tone": "formal",
+          "speed_multiplier": 0.9,
+          "annotation_ids": ["4"]
+        },
+        {
+          "line_id": "rule_31_good_06",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "完璧。明日17:30会場集合、最終確認。",
+          "sentence_translation": "Hoàn hảo. Mai 17:30 tập trung tại địa điểm, check lần cuối.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_31_kp_01",
+      "speaker": "zun",
+      "sentence": "席次表をご確認の上、お席にお着きください。",
+      "sentence_translation": "Xin quý vị xem sơ đồ ngồi và vào chỗ ạ.",
+      "purpose": "5+人 seat 案内 固定句",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_31_kp_02",
+      "speaker": "zun",
+      "sentence": "本日のflow をお手元の表でご確認いただけます。",
+      "sentence_translation": "Flow hôm nay quý vị có thể xem trên bảng trước mặt ạ.",
+      "purpose": "flow共有 固定句",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_31_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "11名規模ceremonyで host 側準備として最も重要なのは？",
+      "options": [
+        "自由着席で柔軟性を確保",
+        "1人ですべてのpourを担当",
+        "席札+席次表+zone別pour担当+flow table の4点を事前準備",
+        "flow を当日ad-libで進行"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "5+人は席札・席次表・zone pour・flow table の4点が必須。自由着席は混乱の元。",
+        "vi": "5+ người = bắt buộc 4 thứ: bảng tên, sơ đồ ngồi, rót theo zone, flow table. Tự do = nguồn hỗn loạn."
+      }
+    }
+  ]
+}

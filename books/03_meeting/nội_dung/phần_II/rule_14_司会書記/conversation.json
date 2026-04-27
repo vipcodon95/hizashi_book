@@ -1,0 +1,175 @@
+{
+  "rule_id": "rule_14",
+  "rule_slug": "司会・書記の役割確認",
+  "title": {
+    "ja": "司会・書記の役割確認",
+    "vi": "Phân vai moderator / scribe"
+  },
+  "rule_context": {
+    "ja": "議題開始前にズン司会、リン書記の役割を公表。議事録ドラフトは当日中に共有予定。",
+    "vi": "Trướcmục đầu tiên, công bố Dũng làmngười chủ trì, Linh làmngười ghi biên bản. Biên bản draft chia sẻ trong ngày."
+  },
+  "related_rules": [
+    "rule_09",
+    "rule_13",
+    "rule_44",
+    "rule_45"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 書記未指定で議題突入",
+      "label_vi": "XẤU — Vàomục mà chưa cóngười ghi biên bản",
+      "display_order": 1,
+      "analysis": {
+        "ja": "司会者が議題1へ進もうとし、客が書記の有無を確認。当日 急に依頼された書記はテンプレ準備なし。",
+        "vi": "Chủ trì lao vàomục 1 thì khách phải hỏingười ghi biên bản. Hôm họp mới giao việc, người được giao chưa kịp template."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_14_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "では、議題1から入ります。",
+          "sentence_translation": "Vâng, mình vàomục 1 nhé.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_14_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "すみません、本日の書記はどなたでしょうか？決定事項は誰が記録？",
+          "sentence_translation": "Cho hỏingười ghi biên bản hôm nay là ai vậy? Quyết định ai sẽ ghi lại?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_14_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ…リンさんお願いしていいですか？",
+          "sentence_translation": "À... em Linh giúp anh được không?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_14_bad_04",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "は、はい、急ですが…",
+          "sentence_translation": "D... dạ, em làm bất ngờ vậy ạ...",
+          "tone": "nervous"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 議題前に役割公表",
+      "label_vi": "TỐT — Công bố vai trò trướcmục",
+      "display_order": 2,
+      "analysis": {
+        "ja": "議題前に司会・書記を明示し、議事録ドラフト共有のタイミングまで commit。書記はテンプレ準備済みで安心感。",
+        "vi": "Trướcmục báo rõngười chủ trì + người ghi biên bản + commit timeline gửi draft. người ghi biên bản đã có template, khách yên tâm."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_14_good_01",
+          "highlight_text": "役割をご確認させていただきます",
+          "ja": "役割明示への transition 表現。「ご確認」は情報共有なので使用可。",
+          "vi": "Cụm chuyển sang phần phân vai. 「ご確認」 dùng được vì là chia sẻ thông tin chung."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_14_good_02",
+          "highlight_text": "本日中にドラフトを共有",
+          "ja": "議事録の納期を冒頭で commit する好例。客の不安を解消。",
+          "vi": "Cam kết deadline biên bản ngay đầu họp. Giải tỏa lo lắng cho khách."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_14_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "議題に入る前に、本日の役割を確認させていただきます。",
+          "sentence_translation": "Trước khi vàomục em xin phép confirm vai trò hôm nay ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_14_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "司会は私ズンが務めます。書記はリンが担当し、議事録は本日中にドラフトを共有いたします。",
+          "sentence_translation": "Em Dũng làm chủ trì ạ. Em Linh làmngười ghi biên bản, biên bản draft em sẽ chia sẻ ngay trong hôm nay ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_14_good_03",
+          "speaker": "linh",
+          "speaker_role": "書記 / アシスタント",
+          "gender": "female",
+          "sentence": "議事録テンプレートは準備済みです。決定事項とTODOを中心に記録いたします。",
+          "sentence_translation": "Em đã chuẩn bị template biên bản rồi ạ. Em sẽ ghi tập trung vào phần quyết định và TODO ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_14_good_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "ありがとうございます。安心しました。",
+          "sentence_translation": "Cảm ơn em. Anh yên tâm rồi.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_14_kp_01",
+      "speaker": "zun",
+      "sentence": "司会は〇〇が務めます。書記は〇〇が担当し、議事録は本日中にドラフトを共有いたします。",
+      "sentence_translation": "Người chủ trì là 〇〇 ạ. 〇〇 phụ trách người ghi biên bản, biên bản em sẽ chia sẻ draft trong hôm nay ạ.",
+      "purpose": "役割公表の定型句",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_14_kp_02",
+      "speaker": "linh",
+      "sentence": "決定事項とTODOを中心に記録いたします。",
+      "sentence_translation": "Em sẽ ghi tập trung vào phần quyết định và TODO ạ.",
+      "purpose": "書記の記録方針宣言",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_14_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "議題に入る前に司会者が必ず明示すべき情報はどれか？",
+      "options": [
+        "出席者の好きな飲み物",
+        "司会・書記の担当者と議事録の共有タイミング",
+        "次回のレストラン予約",
+        "出席者全員の電話番号"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "誰が議事を進行し、誰が記録し、いつ議事録が届くかを明示するのが基本。",
+        "vi": "Phải báo: ai chủ trì, ai ghi, khi nào nhận biên bản. Đó là cơ bản."
+      }
+    }
+  ]
+}

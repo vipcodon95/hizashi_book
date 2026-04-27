@@ -1,0 +1,118 @@
+{
+  "rule_id": "rule_16",
+  "rule_slug": "担当者不在の4パターン",
+  "title": {
+    "ja": "担当者不在の4パターン",
+    "vi": "4 pattern xử lý khi người nhận vắng"
+  },
+  "rule_context": {
+    "ja": "松本PMがトゥアンリーダーに電話するが、トゥアンは会議中。ズンが受電し、不在対応の4パターンの中から『会議中』を使って対応する場面。",
+    "vi": "Anh Matsumoto gọi anh Tuấn (Tech lead) nhưng anh Tuấn đang họp. Em Dũng nhận máy và xử lý theo 1 trong 4 pattern chuẩn cho trường hợp người nhận vắng."
+  },
+  "related_rules": [
+    "rule_15",
+    "rule_17",
+    "rule_18"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 会議中パターン",
+      "label_vi": "TỐT — Pattern đang họp",
+      "display_order": 1,
+      "context": {
+        "ja": "トゥアン会議中の場合の不在対応。",
+        "vi": "Tuấn đang họp — pattern xử lý chuẩn."
+      },
+      "sfx_intro": "phone_ring",
+      "analysis": {
+        "ja": "「あいにく」で詫びを示し、不在理由＋復帰時刻＋次のアクション提案までを一連で伝える。相手が次に何を期待できるか明確になる。",
+        "vi": "「あいにく」 mở lời xin lỗi, sau đó nêu lý do vắng + thời gian quay lại + đề xuất bước tiếp. Khách biết ngay điều gì sẽ xảy ra tiếp."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_16_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "いつもお世話になっております。白鷗の松本ですが、トゥアンさんお願いできますでしょうか。",
+          "sentence_translation": "Cảm ơn anh đã hỗ trợ. Tôi là Matsumoto bên Hakuō, nhờ em nối máy cho anh Tuấn ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_16_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "松本様、いつもお世話になっております。あいにくトゥアンはただいま会議中でございまして、15時には終わる予定でございます。",
+          "sentence_translation": "Anh Matsumoto, cảm ơn anh đã hỗ trợ ạ. Đáng tiếc anh Tuấn hiện đang họp, dự kiến 15h sẽ kết thúc ạ.",
+          "tone": "apologetic",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_16_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "終わり次第、こちらから折り返しお電話差し上げるようお伝えしましょうか？",
+          "sentence_translation": "Khi xong cuộc họp em sẽ nhắn anh Tuấn gọi lại cho anh, được không ạ?",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_16_good_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "では、お願いいたします。",
+          "sentence_translation": "Vậy thì nhờ em ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_16_kp_01",
+      "speaker": "zun",
+      "sentence": "あいにく〇〇はただいま会議中でございまして、〇時には終わる予定でございます。",
+      "sentence_translation": "Đáng tiếc anh/chị 〇〇 hiện đang họp, dự kiến 〇 giờ sẽ kết thúc ạ.",
+      "purpose": "不在対応・会議中パターン",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_16_kp_02",
+      "speaker": "zun",
+      "sentence": "あいにく外出しておりまして、本日は〇時に戻る予定でございます。",
+      "sentence_translation": "Đáng tiếc anh ấy đang ra ngoài, dự kiến hôm nay 〇 giờ sẽ về ạ.",
+      "purpose": "不在対応・外出中パターン",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_16_kp_03",
+      "speaker": "zun",
+      "sentence": "終わり次第、折り返しお電話差し上げるようお伝えしましょうか？",
+      "sentence_translation": "Khi xong em sẽ nhắn gọi lại cho anh, được không ạ?",
+      "purpose": "折り返し提案",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_16_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "担当者が会議中の時、最も適切な対応はどれか？",
+      "options": [
+        "今いません",
+        "会議中なので無理です",
+        "あいにく会議中でございまして、〇時に終わる予定でございます",
+        "後でかけ直してください"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "「あいにく」で詫び＋具体的な時刻提示が最良。Aは敬語不足、B/Dは突き放した印象。",
+        "vi": "「あいにく」 + thời gian cụ thể là chuẩn. A thiếu kính ngữ, B/D nghe lạnh và đẩy việc."
+      }
+    }
+  ]
+}

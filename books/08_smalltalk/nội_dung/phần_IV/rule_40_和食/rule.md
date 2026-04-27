@@ -1,0 +1,160 @@
+# Rule 40 — Nhà hàng Nhật ở VN / ベトナムでの和食
+
+> **Luận điểm.** Khách Nhật onsite VN 1 tuần thường thèm "đúng vị" 和食 ngày 4-5. Bạn = host phải có **list 4-5 nhà hàng đúng vị tại HN/HCM** — phân loại theo: chef gốc Nhật / chuỗi import / izakaya local. Gợi ý đúng = +đẳng cấp host.
+
+---
+
+## 🧠 Tâm lý JP (4 dòng)
+
+- Khách JP onsite VN tránh tiếng Anh, tránh menu lạ — quay về 和食 **để recharge tinh thần**.
+- "Chef người Nhật" = level 1 trust. "Chef VN train ở Nhật" = level 2. "Chuỗi VN" = level 3.
+- Sai khi gợi ý nhà hàng "VN-style sushi" cho khách JP đã ở VN 5 ngày — họ cần **authentic**.
+- Senior thường thích **tonkatsu / unagi / sushi** (món họ tin tưởng). Junior linh hoạt hơn.
+
+---
+
+## 🎬 Bối cảnh
+
+Tháng 11/2026, Matsumoto + Tanaka onsite Hà Nội 5 ngày. Đến ngày 3 — đã ăn đủ phở, cơm tấm. Hai khách hỏi "tối nay ăn 和食 được không?". Dũng phải gợi ý chính xác. Cuối tuần Hiroshi (Hiroshima) bay vào HCM — cần list HCM.
+
+---
+
+## 💬 4 Scenarios — dialogue thực chiến
+
+### 📍 Scenario 1 — Hà Nội: chef gốc Nhật (level 1)
+
+*ngày 3 onsite HN · 感動*
+
+| Speaker | Câu |
+|---------|-----|
+| **松本** | 「ズンさん、今夜は日本食がいいな。本物のあるとこ知ってる?」 |
+| **ズン** | 「**チェフが日本人の店、3つお勧めできます**。①**カイカヤ・ハノイ(海花家)** — 銀座の本店から来たシェフが立ち上げた割烹、②**寿司一(Sushi Ichi)** — 福岡の魚を空輸、③**Tofu Daimon** — 京都の豆腐屋出身のシェフ。」 |
+| **松本** | 「カイカヤ、銀座のあれ?日本人会で評判いいって聞く。」 |
+| **ズン** | 「はい、駐在員ご家族の利用率高いです。**Daejin通り**で、英語+日本語+ベトナム語のメニュー。**カウンター8席**だけなので予約必須。」 |
+| **松本** | 「予約取れる?今夜?」 |
+| **ズン** | 「先週シェフのトミタさんに連絡してて、19時押さえてあります。**おまかせ4500万ドン(約23,000円)**で、**ハノイで一番"東京の味"に近い**という評価です。」 |
+| **松本** | 「もう予約してくれてたの?ありがたい。」 |
+| **ズン** | 「先週松本さんが『中盤に和食気分』っておっしゃってたので、念のため(笑)」 |
+
+> **VN:** Anticipate 食事 mood = +20 điểm host. Khi gợi ý: chef name + menu language + price range + "東京に一番近い" kind of phrase.
+
+---
+
+### 📍 Scenario 2 — Hà Nội: izakaya for after-work casual
+
+*young PMO*
+
+| Speaker | Câu |
+|---------|-----|
+| **田中** | 「カウンター割烹はちょっと畏まり過ぎるかも…**居酒屋っぽい**ところある?」 |
+| **ズン** | 「**Yakitori Ton(焼鳥屯)**、ハノイのリンランビレッジ近くで、**炭火焼鳥+生ビール**の本格派です。**店主は東京・恵比寿の修行帰り**で、ベトナム人スタッフも全員日本語OK。」 |
+| **田中** | 「いいね。値段帯は?」 |
+| **ズン** | 「**焼鳥1本3万ドン(約150円)、ビール5万ドン(約250円)**。**東京の3分の1**くらいで、**朝引き地鶏+備長炭**で本物です。」 |
+| **田中** | 「東京の3分の1!通うわ(笑)」 |
+| **ズン** | 「あと**Izakaya Hokkai(居酒屋北海)**は北海道海産メインで、**いくら丼+ホタテバター**あります。**日本人客6割、駐在員家族も多い**ので、ガヤガヤ感も本物です。」 |
+| **田中** | 「ホタテバターって(笑)、北海道感やばい。今夜行こう。」 |
+
+📝 **Pattern host:** mention "東京の○分の1" giá (giá rẻ là điểm hấp dẫn JP onsite, không phải arrogance vì chính khách hỏi).
+
+---
+
+### 📍 Scenario 3 — HCM: chuỗi import (Hiroshi senior)
+
+*HCM trip 2 ngày, senior 50t*
+
+| Speaker | Câu |
+|---------|-----|
+| **広島** | 「ズンさん、ホーチミンで日本食、おすすめは?」 |
+| **ズン** | 「広島さん、シニアの方でしたら**信頼できるチェーン**を中心に。**①ぐるなびソウル系の『Sushi Tei』(マレーシア発、品質安定)、②大阪『串かつだるま』ホーチミン店(本店レシピ忠実)、③『AKA House』焼肉(神戸牛輸入で本格)**、3つ間違いないです。」 |
+| **広島** | 「神戸牛がホーチミンで食べられんの?」 |
+| **ズン** | 「はい、**A5ランクを空輸**してます。値段は東京と同等(コース150万ドン〜)ですが、**ハサミで切る焼肉スタイルで肉質保証**してます。」 |
+| **広島** | 「広島の人としてはお好み焼きが恋しいんやけど、ハノイあたりにあるんかな?」 |
+| **ズン** | 「**ホーチミンに『お好み焼き きじ』**って店があります。**広島焼を本格再現**(キャベツの千切り厚め+そば玉+目玉焼き)。広島さんでしたら是非ぜひ。」 |
+| **広島** | 「広島焼きあるんか!?それ絶対行く!」 |
+| **ズン** | 「明日の夜、19時で予約取りますね。」 |
+
+> **VN:** Match audience! Hiroshi = Hiroshima native + senior → 広島焼 thật ở HCM = topic vàng. Anticipate quê khách + book ngay = đẳng cấp host.
+
+---
+
+### 📍 Scenario 4 — HCM: omakase premium (deal closing dinner)
+
+*deal close dinner, cần wow Tanaka + Matsumoto*
+
+| Speaker | Câu |
+|---------|-----|
+| **トゥアン** | 「ズン、来週のクロージングディナー、HCMの和食でハイエンド何ある?」 |
+| **ズン** | 「**3つ候補**あります。**①Sushi Hokkaido Sachi(寿司北海道幸)** — 札幌から空輸、おまかせ250万ドン(約13,000円)。**②Shoukouwa Sushi** — シンガポール3つ星系列、1人500万ドン(約27,000円)、究極の体験。**③Sorae Restaurant & Lounge** — モダン懐石、サイゴンスカイラインの夜景。」 |
+| **トゥアン** | 「クロージングディナーだから、**夜景+話のしやすさ**で行きたい。」 |
+| **ズン** | 「でしたら**Sorae一択**です。**24階の屋上**、**個室半個室あり**、**シェフは京都修行**、**雰囲気は東京銀座のモダン懐石**。クロージングに最適。」 |
+| **トゥアン** | 「6名で個室予約取れる?」 |
+| **ズン** | 「Soraeは**金曜夜は2週間前必須**。今動きます。**ドレスコードはスマートカジュアル**、ジャケットあった方が無難ってお伝えしておきます。」 |
+| **トゥアン** | 「ドレスコードまで気回せるの、さすが。」 |
+| **ズン** | 「お客様に当日"靴脱ぐの?ジャケット要る?"って戸惑わせないように、です。」 |
+
+> **VN:** Deal closing dinner = full host mode. Dress code + room type + chef background pre-brief = professional. Đây là rule 1 strikes-out cho BD.
+
+---
+
+## 🎯 Câu vàng copy-paste
+
+```
+■ HÀ NỘI:
+「カイカヤ・ハノイ — 銀座の本店から来たシェフ、おまかせ4500万ドン。」
+「Sushi Ichi — 福岡の魚を空輸。」
+「Yakitori Ton — 東京・恵比寿の修行帰り、3万ドン1本。」
+「Izakaya Hokkai — 北海道海産メイン、いくら丼+ホタテバター。」
+
+■ HCM:
+「Sushi Tei、串かつだるま、AKA House焼肉、間違いないチェーン3つ。」
+「お好み焼ききじ — 広島焼を本格再現。」
+「Sushi Hokkaido Sachi — 札幌から空輸。」
+「Sorae — 24階モダン懐石、夜景、クロージングに最適。」
+
+■ HOST PRO PHRASES:
+「先週『中盤に和食気分』とおっしゃってたので、念のため予約しておきました。」
+「東京の3分の1の値段で、朝引き地鶏+備長炭で本物です。」
+「ドレスコードはスマートカジュアル、ジャケットあった方が無難です。」
+「シェフは○○修行、雰囲気は東京銀座モダン懐石、です。」
+```
+
+---
+
+## ⚠ NG — tuyệt đối tránh
+
+- Gợi ý "VN-style sushi" cho khách JP đã 3-5 ngày trong VN → họ cần authentic, không cần fusion.
+- Gợi ý nhà hàng đông tourist nói tiếng Anh tới chef → khách JP awkward.
+- Quên mention price range / dress code → khách shock when bill / outfit sai.
+- Đặt nhà hàng quá đắt cho casual dinner → ép khách / lãng phí.
+- Quên anticipate "Hiroshima native → 広島焼" / "Hokkaido → ホタテ" → mất cơ hội regional match.
+
+---
+
+## 📚 Vocab
+
+| 漢字 | よみ | Nghĩa |
+|------|------|-------|
+| 和食 | わしょく | Ẩm thực Nhật |
+| 割烹 | かっぽう | Nhà hàng cao cấp counter-style |
+| おまかせ | — | Combo chef chọn |
+| カウンター | — | Quầy ăn (chef đối diện) |
+| 朝引き地鶏 | あさびきじどり | Gà địa phương sáng giết |
+| 備長炭 | びんちょうたん | Than tre cao cấp Wakayama |
+| A5ランク | エーごランク | Bò Wagyu hạng A5 (cao nhất) |
+| 広島焼 | ひろしまやき | Okonomiyaki Hiroshima |
+| 修行帰り | しゅぎょうがえり | Đã được tu nghiệp xong |
+| ドレスコード | — | Dress code |
+| 個室・半個室 | こしつ・はんこしつ | Phòng riêng / bán riêng |
+| 空輸 | くうゆ | Vận chuyển hàng không |
+
+---
+
+## 🎓 BJT
+
+**J3 — 場面把握:** Match nhà hàng theo audience (senior trust chuỗi / junior thử mới / regional native cần đặc sản quê).
+**J2 — 表現読解:** Phân biệt khi khách nói "畏まり過ぎ" → đổi sang izakaya casual.
+**J1 — 発言聴解:** Anticipate "閉会の食事" / "中盤の和食気分" → book trước, deliver như host pro.
+
+---
+
+> **Hizashi Sách 08 — Rule 40 — ベトナムでの和食**

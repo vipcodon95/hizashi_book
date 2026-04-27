@@ -1,0 +1,109 @@
+{
+  "rule_id": "rule_06",
+  "rule_slug": "電話の声の高さ・速度",
+  "title": {
+    "ja": "電話の声の高さ・速度",
+    "vi": "Pitch và tốc độ giọng phone"
+  },
+  "rule_context": {
+    "ja": "電話では声の感情が半減するため、対面より高く・遅く・明瞭に話す必要がある。",
+    "vi": "Trên phone, giọng thiếu nửa cảm xúc so với gặp mặt → cần cao hơn, chậm hơn, rõ phụ âm."
+  },
+  "related_rules": [
+    "rule_07",
+    "rule_28"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 通常のトーンと速度",
+      "label_vi": "XẤU — Tone và tốc độ như gặp mặt",
+      "display_order": 1,
+      "analysis": {
+        "ja": "対面と同じ調子だと電話越しでは聞き取りにくい。客が聞き返す = 双方の時間ロス。",
+        "vi": "Cùng tone gặp mặt = phone khó nghe. Khách hỏi lại = mất thời gian cả 2."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_06_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お電話ありがとうございます、ティエンファットのズンです。",
+          "sentence_translation": "Cảm ơn anh đã gọi, tôi là Dũng bên Thiên Phát.",
+          "tone": "neutral",
+          "speed_multiplier": 1.1
+        },
+        {
+          "line_id": "rule_06_bad_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "もう一度お願いします、お名前が...",
+          "sentence_translation": "Xin lặp lại em, tên là gì ạ...",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 半音高く・10%遅く",
+      "label_vi": "TỐT — Cao hơn nửa note + chậm 10%",
+      "display_order": 2,
+      "analysis": {
+        "ja": "ピッチ↑+速度↓+語尾明瞭で、聞き返しゼロ。",
+        "vi": "Pitch cao + chậm + rõ cuối câu = khách không phải hỏi lại."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_06_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お電話 ありがとうございます。ティエンファット社、ズン でございます。",
+          "sentence_translation": "Cảm ơn anh đã gọi. Tôi là Dũng, Cty Thiên Phát ạ.",
+          "tone": "warm",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_06_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "松本です。",
+          "sentence_translation": "Tôi là Matsumoto.",
+          "tone": "neutral"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_06_kp_01",
+      "speaker": "zun",
+      "sentence": "電話の声は半音上げて、10%遅く話す。",
+      "sentence_translation": "Giọng phone: cao hơn nửa note, chậm hơn 10%.",
+      "purpose": "電話声の3調整原則を覚える",
+      "slow_audio": false
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_06_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "電話で話す時、対面と比べて適切な調整は？",
+      "options": [
+        "ピッチを下げる、速く話す",
+        "ピッチを上げる、ゆっくり話す",
+        "対面と全く同じ調子で話す",
+        "ささやくように話す"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "電話では感情伝達が弱いため、ピッチ↑+速度↓で補う。",
+        "vi": "Trên phone cảm xúc truyền yếu → bù bằng pitch cao + tốc độ chậm."
+      }
+    }
+  ]
+}

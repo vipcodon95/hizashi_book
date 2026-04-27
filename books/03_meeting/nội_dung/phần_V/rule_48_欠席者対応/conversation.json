@@ -1,0 +1,162 @@
+{
+  "rule_id": "rule_48",
+  "rule_slug": "欠席者へのフィードバック",
+  "title": {
+    "ja": "欠席者へのフィードバック",
+    "vi": "Cập nhật người vắng mặt"
+  },
+  "rule_context": {
+    "ja": "Phase 2交渉会議をロアン経理部長が銀行案件で欠席。ズンが議事録+catch-up提案の個別メールで情報非対称を解消する場面。",
+    "vi": "Chị Loan kế toán vắng họp đàm phán phase 2 (trùng lịch ngân hàng). Em Dũng gửi mail riêng + biên bản + đề xuất 15 phút catch-up cho chị."
+  },
+  "related_rules": [
+    "rule_18",
+    "rule_45",
+    "rule_47"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 議事録だけ転送",
+      "label_vi": "XẤU — Chỉ forward biên bản",
+      "display_order": 1,
+      "analysis": {
+        "ja": "本人が予算決定権を持つ経理部長であるにも関わらず、転送のみでは『見ておいてください』のニュアンス。意見聴取の機会を逃す。",
+        "vi": "Chị Loan có quyền quyết budget, mà chỉ forward = ngụ ý 'đọc đi'. Bỏ lỡ cơ hội lấy ý kiến."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_48_bad_01",
+          "speaker": "loan_keiri",
+          "speaker_role": "経理部長",
+          "gender": "female",
+          "sentence": "ズン、議事録読んだけど、QA増員の件、私の意見も聞いてほしかった…",
+          "sentence_translation": "Dũng, chị đọc biên bản rồi, nhưng vụ tăng QA chị muốn em hỏi ý chị nữa...",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 個別メール+catch-up提案",
+      "label_vi": "TỐT — Mail riêng + đề xuất catch-up",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_48_good_02",
+          "highlight_text": "ご都合つかずお出ましいただけなかったこと、改めて承知しております",
+          "ja": "欠席を formal に ack。「責めない」かつ「忘れていない」signal。",
+          "vi": "Acknowledge vắng formal. Không trách + signal 'tôi vẫn nhớ chị'."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_48_good_03",
+          "highlight_text": "特に 6番（QA増員）および 7番（未決事項：予算）につきまして、経理視点でのご意見を頂戴したく存じます",
+          "ja": "全議事録ではなく、関連性の高い項目を絞って意見を求める。相手の負担を減らす。",
+          "vi": "Không bắt đọc cả biên bản. Chỉ items liên quan + xin ý kiến → giảm gánh nặng."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_48_good_04",
+          "highlight_text": "明日午前中に15分ほどお時間頂戴し、catch-up させていただけませんでしょうか",
+          "ja": "time-box（15分）つきcatch-up提案。長時間拘束しない配慮。",
+          "vi": "Đề xuất catch-up có time-box (15 phút). Không tốn nhiều giờ của senior."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_48_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ロアン経理部長、お世話になっております。ズンでございます。",
+          "sentence_translation": "Chị Loan, lúc nào cũng cảm ơn chị giúp đỡ ạ. Em Dũng đây ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_48_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本日の Phase 2 交渉会議、ご都合がつかずご出席いただけなかったこと、承知しております。",
+          "sentence_translation": "Họp đàm phán phase 2 hôm nay chị không tiện dự được, em vẫn nhớ ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_48_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "議事録を添付いたします。特に 6番（QA増員）および 7番（未決事項：予算）につきまして、経理視点でのご意見を頂戴したく存じます。",
+          "sentence_translation": "Em đính kèm biên bản. Đặc biệt items 6 (tăng QA) và 7 (chưa quyết: budget), em rất mong nhận được ý kiến từ góc kế toán của chị ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_48_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "もしよろしければ、明日午前中に15分ほどお時間頂戴し、catch-up させていただけませんでしょうか？",
+          "sentence_translation": "Nếu được, em xin chị 15 phút sáng mai để catch-up có được không ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_48_good_05",
+          "speaker": "loan_keiri",
+          "speaker_role": "経理部長",
+          "gender": "female",
+          "sentence": "ありがとう。明日10時、15分でOK。",
+          "sentence_translation": "Cảm ơn em. 10h sáng mai, 15 phút OK.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_48_kp_01",
+      "speaker": "zun",
+      "sentence": "ご都合がつかずご出席いただけなかったこと、承知しております。",
+      "sentence_translation": "Anh/chị không tiện dự được, em vẫn nhớ ạ.",
+      "purpose": "欠席を formal に ack するフレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_48_kp_02",
+      "speaker": "zun",
+      "sentence": "15分ほどお時間頂戴し、catch-up させていただけませんでしょうか？",
+      "sentence_translation": "Em xin anh/chị 15 phút để catch-up có được không ạ?",
+      "purpose": "欠席者への catch-up 提案",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_48_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "重要会議に欠席した上司への最適なフォローアップは？",
+      "options": [
+        "議事録だけ転送",
+        "個別メールで ack +関連項目に絞った意見聴取+15分 catch-up 提案",
+        "次回会議で口頭共有",
+        "何もしない"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "個別の心遣い+論点絞り+time-boxつきcatch-upが最も丁寧で効率的。",
+        "vi": "Cá nhân hoá + chỉ items liên quan + catch-up có time-box là lịch sự + hiệu quả nhất."
+      }
+    }
+  ]
+}

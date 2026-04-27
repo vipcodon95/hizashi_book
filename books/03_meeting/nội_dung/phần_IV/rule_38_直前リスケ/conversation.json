@@ -1,0 +1,182 @@
+{
+  "rule_id": "rule_38",
+  "rule_slug": "直前リスケ",
+  "title": {
+    "ja": "直前のリスケジュール",
+    "vi": "Postpone/cancel họp last-minute"
+  },
+  "rule_context": {
+    "ja": "本日14時の松本PMとの打合せ直前、ハーCTOに突発の銀行CFO会議が入り出席不可。ズンが13時30分に電話で謝罪+理由+代替日3案+資料コミットの4要素で連絡する場面。",
+    "vi": "Buổi họp với anh Matsumoto 14h hôm nay, 13h30 anh Hà CTO có họp gấp với CFO ngân hàng. Em Dũng phải gọi báo postpone với 4 yếu tố: xin lỗi + lý do + 3 lịch thay + tài liệu cam kết."
+  },
+  "related_rules": [
+    "rule_02",
+    "rule_17",
+    "rule_25"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 「急用で無理」のみ",
+      "label_vi": "XẤU — Chỉ 'có việc gấp, không được'",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「急用」だけでは具体性がなく軽く聞こえる。代替日提案も資料コミットもなければ顧客は次に何を待つのか分からない。",
+        "vi": "「急用」 chung chung nghe nhẹ. Không có lịch thay + không có cam kết tài liệu → khách không biết chờ gì."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_38_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "松本さん、すみません、急用があって今日の会議無理になりました…また連絡します。",
+          "sentence_translation": "Anh Matsumoto, em xin lỗi, có việc gấp nên họp hôm nay không được... em sẽ liên lạc lại.",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_38_bad_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "…そうですか。",
+          "sentence_translation": "...Vậy à.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 4要素揃い",
+      "label_vi": "TỐT — Đủ 4 yếu tố",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_38_good_01",
+          "highlight_text": "直前のご連絡となり、誠に申し訳ございません",
+          "ja": "last-minute 連絡時の標準謝罪フレーズ。",
+          "vi": "Câu xin lỗi chuẩn cho last-minute change."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_38_good_02",
+          "highlight_text": "弊社CTOが本日突発的に銀行CFOとの会議が入り",
+          "ja": "誰が・なぜ・どんな会議か具体的に伝える。「急用」より遥かに信頼を維持。",
+          "vi": "Cụ thể ai/tại sao/họp gì. Hơn hẳn 「急用」 mơ hồ về mặt giữ uy tín."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_38_good_03",
+          "highlight_text": "明日午前10時、明後日午前11時、もしくは来週月曜午後2時、いずれかでご都合いかがでしょうか",
+          "ja": "3つの代替日を提案。「いつがいいですか」と相手に丸投げしない。",
+          "vi": "Đưa 3 lịch thay. Không hỏi 'lúc nào tiện' (đẩy việc cho khách)."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_38_good_04",
+          "highlight_text": "本日中にメールにてお送りいたします",
+          "ja": "資料を約束することで「会議キャンセル＝何も進まない」を回避。",
+          "vi": "Cam kết gửi tài liệu → tránh 'cancel họp = không tiến triển gì'."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_38_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "松本様、ティエンファットのズンでございます。直前のご連絡となり、誠に申し訳ございません。",
+          "sentence_translation": "Anh Matsumoto, em Dũng bên Thiên Phát đây ạ. Em báo sát giờ thế này, thật sự xin lỗi anh ạ.",
+          "tone": "apologetic",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_38_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "弊社CTOが本日突発的に銀行CFOとの会議が入り、本日14時の会議に出席できない状況となりました。",
+          "sentence_translation": "CTO bên em đột xuất có họp với CFO ngân hàng hôm nay, không thể dự buổi 14h hôm nay được ạ.",
+          "tone": "apologetic",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_38_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "大変恐縮ながら、本日のお打合せをリスケジュールさせていただけませんでしょうか？代替日として、明日午前10時、明後日午前11時、もしくは来週月曜午後2時、いずれかでご都合いかがでしょうか？",
+          "sentence_translation": "Em rất áy náy, em xin được dời buổi họp hôm nay được không ạ? Lịch thay em đề xuất: 10h sáng mai, 11h sáng kia, hoặc 2h chiều thứ Hai tuần sau — anh thấy giờ nào tiện ạ?",
+          "tone": "apologetic",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_38_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "なお、本日お見せ予定だった資料は、本日中にメールにてお送りいたします。",
+          "sentence_translation": "Ngoài ra, tài liệu định trình hôm nay em sẽ gửi qua email trong hôm nay ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "4"
+          ],
+          "continues_previous": true
+        },
+        {
+          "line_id": "rule_38_good_05",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "了解しました。明日10時で問題ありません。資料お待ちしております。",
+          "sentence_translation": "OK rồi. 10h sáng mai không vấn đề. Tôi chờ tài liệu nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_38_kp_01",
+      "speaker": "zun",
+      "sentence": "直前のご連絡となり、誠に申し訳ございません。",
+      "sentence_translation": "Em báo sát giờ thế này, thật sự xin lỗi anh/chị ạ.",
+      "purpose": "直前リスケの謝罪フレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_38_kp_02",
+      "speaker": "zun",
+      "sentence": "代替日として、〇月〇日、〇月〇日、もしくは〇月〇日、いずれかでご都合いかがでしょうか？",
+      "sentence_translation": "Lịch thay em đề xuất 〇/〇, 〇/〇, hoặc 〇/〇 — anh/chị thấy ngày nào tiện ạ?",
+      "purpose": "代替日3案の提案フレーズ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_38_bjt_01",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "会議直前にリスケが必要になった。最も信頼を維持できる連絡はどれか？",
+      "options": [
+        "「急用で無理になりました、また連絡します」",
+        "「直前で恐縮ですが、CTOが緊急会議のため。代替日として明日10時、明後日11時、来週月曜14時いずれかご都合いかがでしょうか。資料は本日中にお送りします」",
+        "メールだけで「キャンセル」と一言",
+        "連絡せず欠席する"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "謝罪+具体的理由+代替日3案+資料コミットの4要素で信頼を最大限維持する。",
+        "vi": "Xin lỗi + lý do cụ thể + 3 lịch thay + cam kết tài liệu = giữ uy tín tối đa."
+      }
+    }
+  ]
+}

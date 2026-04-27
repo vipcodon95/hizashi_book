@@ -1,0 +1,210 @@
+{
+  "rule_id": "08-03",
+  "rule_slug": "親密度5レベル",
+  "title": {
+    "vi": "5 mức độ thân mật + topic phù hợp",
+    "ja": "親密度5レベル"
+  },
+  "rule_context": {
+    "luan_diem_vi": "Mỗi mức quan hệ có topic được phép. Đẩy topic L4 (gia đình) khi mới gặp = phá quan hệ. Lùi mãi L1 (thời tiết) sau 5 năm = chưa vô được khách.",
+    "luan_diem_ja": "親密度レベルごとに『触れていい話題』が決まっている。初対面でL4(家族)に踏み込むのは関係破壊、5年経ってもL1(天気)止まりは『相手を人として見ていない』。",
+    "boi_canh_vi": "5 cấp L1-L5: L1 thời tiết / L2 quê + món / L3 hobby + sport / L4 gia đình + sức khỏe / L5 悩み・本音.",
+    "boi_canh_ja": "L1天気・L2出身食・L3趣味スポーツ・L4家族健康・L5悩み本音。",
+    "muc_tieu_vi": "Đo đúng cấp với từng khách, leo bậc có nhịp."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "01",
+      "topic": "Timing"
+    },
+    {
+      "book": "08",
+      "rule": "08",
+      "topic": "8 chủ đề cấm"
+    },
+    {
+      "book": "08",
+      "rule": "13",
+      "topic": "家族話の境界"
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "L1 — Mới gặp (thời tiết + di chuyển)",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "加藤さん、本日はお時間ありがとうございます。昨日はだいぶ冷えましたね、岐阜からいらっしゃったとのこと、大変ではなかったですか?",
+          "vi": "Anh Kato, hôm nay cảm ơn anh dành thời gian. Hôm qua lạnh nhỉ, anh từ Gifu xuống có vất vả không ạ?"
+        },
+        {
+          "speaker": "kato_gifu",
+          "ja": "いやいや、新幹線は快適ですよ。東京は岐阜より少し暖かいくらいかな。",
+          "vi": "Không không, Shinkansen thoải mái lắm. Tokyo ấm hơn Gifu một chút."
+        },
+        {
+          "speaker": "zun",
+          "ja": "そうなんですね。本日は短い時間ですが、よろしくお願いします。",
+          "vi": "Vậy ạ. Hôm nay thời gian ngắn nhưng nhờ anh giúp đỡ ạ."
+        }
+      ]
+    },
+    {
+      "scenario": "L2 — Đã 2 dự án (出身 + 食)",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "松本さん、いつもありがとうございます。ご出身は確か、ご実家のあたりは下町風情があるとおっしゃってましたよね?",
+          "vi": "Anh Matsumoto, cảm ơn anh nhiều. Quê anh hình như anh từng nói khu đó có không khí phố cổ Edo phải không ạ?"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "ああ、深川ね。今でも親父が住んでてさ、深川めしって知ってる?あさりとご飯の。",
+          "vi": "À, Fukagawa. Giờ bố anh vẫn ở đó. Em biết món Fukagawa-meshi chưa? Cơm trộn ngao ấy."
+        },
+        {
+          "speaker": "zun",
+          "ja": "あさりご飯ですか、初耳です。次回東京来た時にぜひ食べてみたいです。",
+          "vi": "Cơm ngao ạ, lần đầu em nghe. Lần sau đến Tokyo em muốn thử ạ."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "じゃあ次回ご案内しますよ。門前仲町にいい店があってね。",
+          "vi": "Vậy lần sau tôi dẫn đi. Ở Monzen-Nakacho có quán ngon."
+        }
+      ]
+    },
+    {
+      "scenario": "L3 — Dinner thứ 5 (趣味 + sport)",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "中村さん、今シーズンの日本ハムどうですか?去年新庄監督すごい話題でしたよね。",
+          "vi": "Anh Nakamura, mùa này Nippon-Ham thế nào ạ? Năm ngoái HLV Shinjo rộn ràng quá."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "いやあ、新庄はもうエスコンフィールド満員にしただけで偉大よ。ズンさんも野球見るの?",
+          "vi": "Hà, Shinjo lấp đầy Es Con Field thôi đã thiên tài rồi. Em cũng xem bóng chày à?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "Jリーグの方が詳しいんですが、最近WBCきっかけで野球も見るようになりました。",
+          "vi": "Em rành J-League hơn, nhưng từ WBC em bắt đầu xem bóng chày."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "いいねえ、今度札幌来たらエスコン連れてくよ。試合よりビールうまいから。",
+          "vi": "Hay đó, lần sau đến Sapporo tôi dẫn đi Es Con. Bia ngon hơn cả trận."
+        }
+      ]
+    },
+    {
+      "scenario": "BAD — Nhảy bậc L1 → L4",
+      "type": "bad",
+      "context_vi": "Lần đầu gặp Kato. Vừa giao danh thiếp xong, Dũng nhảy thẳng vào câu hỏi gia đình.",
+      "lines": [
+        {
+          "speaker": "kato_gifu",
+          "ja": "加藤と申します。よろしくお願いします。",
+          "vi": "Tôi là Kato. Rất hân hạnh."
+        },
+        {
+          "speaker": "zun",
+          "ja": "[NG] 加藤さん、岐阜出身でしたよね!お子さんは何人いらっしゃいますか?ご家族は岐阜?それとも東京に?",
+          "vi": "[NG] Anh Kato, anh quê Gifu nhỉ! Anh có mấy con? Gia đình ở Gifu hay Tokyo ạ?"
+        },
+        {
+          "speaker": "kato_gifu",
+          "ja": "…ええ、まあ…",
+          "vi": "...ờ, à..."
+        }
+      ],
+      "why_bad": "Lần đầu gặp = L1. Nhảy thẳng L4 family questions = なれなれしい (suồng sã). Senior 50t+ rất nhạy. Đúng: L1 thời tiết → đợi 2-3 lần → L2 quê/món → đợi khách mời → L3."
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "L1",
+      "ja": "今日はだいぶ[暑い/寒い]ですね。",
+      "vi": "Hôm nay [nóng/lạnh] quá nhỉ.",
+      "use": "An toàn 100% — luôn được"
+    },
+    {
+      "category": "L1",
+      "ja": "[出発地]からいらっしゃったんですか?",
+      "vi": "Anh từ [nơi] đến à?",
+      "use": "Mở di chuyển"
+    },
+    {
+      "category": "L2",
+      "ja": "ご出身は[地名]でしたよね。今の季節は何が美味しいですか?",
+      "vi": "Quê anh ở [địa danh] nhỉ. Mùa này có món gì ngon ạ?",
+      "use": "Quê + món — gold cluster"
+    },
+    {
+      "category": "L3",
+      "ja": "お休みの日は何をされていますか?",
+      "vi": "Cuối tuần anh hay làm gì ạ?",
+      "use": "Mở hobby — khi đã thân"
+    },
+    {
+      "category": "L3",
+      "ja": "[sport team] 今シーズンどうですか?",
+      "vi": "[Đội bóng] mùa này thế nào ạ?",
+      "use": "Sport theo quê khách"
+    },
+    {
+      "category": "L4",
+      "ja": "以前お子様の[chi tiết]おっしゃってましたよね、その後…",
+      "vi": "Lần trước anh kể về [chi tiết về con], sau đó thế nào ạ?",
+      "use": "Family — chỉ dùng khi khách đã share trước"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "初対面のお客様に最も適切な雑談トピックは?",
+      "options": [
+        "A. ご家族について",
+        "B. 給料について",
+        "C. 天気・移動について",
+        "D. 政治について"
+      ],
+      "answer": "C",
+      "explain_vi": "L1 = thời tiết + di chuyển. A là L4 (chưa được). B/D là vùng cấm vĩnh viễn."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「次回ご案内しますよ」とお客様が言った時、関係レベルは?",
+      "options": [
+        "A. L1 — 初対面",
+        "B. L2 → L3 への移行サイン",
+        "C. L5 — 親友レベル",
+        "D. 関係を断ちたい"
+      ],
+      "answer": "B",
+      "explain_vi": "Khách mời cùng tham gia hoạt động ngoài việc = tín hiệu mở cửa lên L3. Nắm bắt tín hiệu này quan trọng."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "「なれなれしい」の意味として正しいものは?",
+      "options": [
+        "A. 親しみやすくて感じが良い",
+        "B. 関係に対して不適切に親しすぎる",
+        "C. 距離感がちょうどいい",
+        "D. 真面目すぎる"
+      ],
+      "answer": "B",
+      "explain_vi": "なれなれしい = thân quá mức không phù hợp với cấp quan hệ thực = NG. Khác 親しみやすい (dễ gần — positive)."
+    }
+  ],
+  "templates": []
+}

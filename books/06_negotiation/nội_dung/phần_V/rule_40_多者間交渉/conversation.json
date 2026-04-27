@@ -1,0 +1,228 @@
+{
+  "rule_id": "rule_40",
+  "rule_slug": "多者間交渉",
+  "title": {
+    "ja": "多者間交渉",
+    "vi": "Đàm phán đa bên"
+  },
+  "rule_context": {
+    "ja": "Phase 3 executive review に中村 CFO + 大垣 + 松本 PM 同席。3 つの異なる concern (ROI / total deal / SLA) を 1 turn で並列 address する場面。",
+    "vi": "Executive review Phase 3 — Nakamura CFO + Ōgaki + Matsumoto PM cùng tham gia. 3 concerns khác nhau (ROI / total deal / SLA) phải address song song trong 1 lượt nói."
+  },
+  "related_rules": [
+    "rule_03",
+    "rule_16",
+    "rule_12"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 1 人 (highest title) だけ address",
+      "label_vi": "XẤU — Chỉ trả lời 1 người (CFO)",
+      "display_order": 1,
+      "analysis": {
+        "ja": "CFO 質問にだけ反応、大垣 + 松本 unaddressed。1 人を選ぶと 2 人 disengage、ringi 反対の source。",
+        "vi": "Chỉ trả lời CFO, bỏ qua Ōgaki + Matsumoto. Chọn 1 = 2 người khác disengage = nguồn phản đối trong ringi."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_40_bad_01",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ROI 4.4 倍とのことですが、payback period は何ヶ月でしょうか？",
+          "sentence_translation": "Bên em báo ROI 4.4x, nhưng payback period bao nhiêu tháng?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_40_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "価格 ¥17M に保守延長 オプションは含まれますか？",
+          "sentence_translation": "Giá ¥17M có bao gồm option gia hạn maintenance không?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_40_bad_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "Phase 2 同等 SLA 99.9% を維持できますか？",
+          "sentence_translation": "Có giữ được SLA 99.9% tương đương Phase 2 không?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_40_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "中村様、ROI 4.4 倍は 18 ヶ月で payback です。",
+          "sentence_translation": "Anh Nakamura, ROI 4.4x payback trong 18 tháng ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_40_bad_05",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "あの、SLA は…",
+          "sentence_translation": "Ờ thì... SLA là...",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 並列 address (junior → senior)",
+      "label_vi": "TỐT — Address song song (junior → senior)",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_40_good_04",
+          "highlight_text": "3 点まとめてお答えいたします",
+          "ja": "全員 address signal。1 人 ignored 不安を解消する opener。",
+          "vi": "Signal 'sẽ address cả 3'. Opener xua đi nỗi lo bị bỏ rơi của 2 người còn lại."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_40_good_05",
+          "highlight_text": "まず松本様の SLA",
+          "ja": "Order: junior (PM) → 中堅 (営業部長) → senior (CFO)。CFO 最後で「自分の質問が最重要」と feel。",
+          "vi": "Thứ tự: junior (PM) → trung (BD) → senior (CFO). CFO cuối → cảm thấy 'câu của mình quan trọng nhất'."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_40_good_07",
+          "highlight_text": "payback 約 18 ヶ月",
+          "ja": "CFO への回答は detail を最も多く。cashflow 別添 offer も。",
+          "vi": "Câu trả lời CFO detail nhiều nhất. Offer thêm cashflow đính kèm."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_40_good_01",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ROI 4.4 倍の payback period は？",
+          "sentence_translation": "Payback period của ROI 4.4x là bao nhiêu?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_40_good_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "保守延長は含まれますか？",
+          "sentence_translation": "Maintenance gia hạn có bao gồm không?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_40_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "SLA 99.9% 維持できますか？",
+          "sentence_translation": "Có giữ được SLA 99.9% không?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_40_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご質問ありがとうございます。3 点まとめてお答えいたします。",
+          "sentence_translation": "Em cảm ơn các câu hỏi ạ. Em xin trả lời gộp 3 điểm.",
+          "tone": "formal",
+          "pause_after_ms": 500,
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_40_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "まず松本様の SLA: Phase 2 同等の 99.9% 維持、加えて専任 PM が weekly で reliability budget review、達成困難時は早期 escalation の体制でございます。",
+          "sentence_translation": "Đầu tiên SLA của anh Matsumoto: giữ 99.9% tương đương Phase 2, ngoài ra PM chuyên trách review reliability budget hàng tuần, khi khó đạt thì có cơ chế escalate sớm ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_40_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "次に大垣様の保守延長: ¥17M には初年度保守を含み、2 年目以降の延長保守は別枠 (¥2M / 年)、契約書 separate clause でご案内しております。",
+          "sentence_translation": "Tiếp theo về maintenance gia hạn anh Ōgaki: ¥17M đã bao gồm maintenance năm đầu, gia hạn từ năm 2 trở đi là khung riêng (¥2M/năm), em ghi ở separate clause của contract ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_40_good_07",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "最後に中村 CFO の payback: 御社 GMV インパクト ¥80M / 年に対し、Phase 3 投資 ¥17M、payback 約 18 ヶ月、3 年目から純利益 acceleration、5 年累計 ROI 4.4 倍を試算しております。詳細 cashflow も別添にてご用意可能です。",
+          "sentence_translation": "Cuối cùng payback của anh Nakamura CFO: GMV impact bên anh ¥80M/năm, đầu tư Phase 3 ¥17M, payback khoảng 18 tháng, từ năm 3 lợi nhuận ròng accelerate, ROI tích lũy 5 năm 4.4 lần. Cashflow chi tiết em có thể đính kèm thêm ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_40_good_08",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ありがとうございます。3 点ともクリアです。社内検討に入ります。",
+          "sentence_translation": "Cảm ơn em. Cả 3 điểm đều rõ. Bên anh vào nội bộ thảo luận.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_40_kp_01",
+      "speaker": "zun",
+      "sentence": "3 点まとめてお答えいたします。",
+      "sentence_translation": "Em xin trả lời gộp 3 điểm.",
+      "purpose": "Multi-party 並列 address opener",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_40_kp_02",
+      "speaker": "zun",
+      "sentence": "まず〇〇様の…次に△△様の…最後に□□様の…",
+      "sentence_translation": "Đầu tiên là của anh 〇〇... Tiếp theo của anh △△... Cuối cùng của anh □□...",
+      "purpose": "Junior → senior 順序の transition",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_40_bjt_01",
+      "level": "J1",
+      "skill": "発言聴解",
+      "audio_prompt_id": "rule_40_audio_01",
+      "question_ja": "CFO + 営業部長 + PM が同席する場面で 3 つの質問が来た時、最も適切な対応は？",
+      "options": [
+        "highest title (CFO) の質問だけ詳しく回答する",
+        "「3 点まとめてお答えいたします」と宣言し、junior (PM) → 中堅 → senior (CFO) の順で並列 address",
+        "「あとで個別に」と流す",
+        "全員に同じ短さで回答する"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "1 人 ignored は他 2 人 disengage = ringi 反対 source。junior → senior 順で CFO 最後 + detail 最大が standard。",
+        "vi": "Bỏ qua 1 người = 2 người disengage = nguồn phản đối ringi. Junior → senior, CFO cuối cùng + detail nhiều nhất là chuẩn."
+      }
+    }
+  ]
+}

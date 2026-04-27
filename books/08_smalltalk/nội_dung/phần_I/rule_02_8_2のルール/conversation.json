@@ -1,0 +1,256 @@
+{
+  "rule_id": "08-02",
+  "rule_slug": "8:2のルール",
+  "title": {
+    "vi": "Quy tắc 80/20 (khách nói 80%)",
+    "ja": "8:2のルール"
+  },
+  "rule_context": {
+    "luan_diem_vi": "雑談 không phải show-off — bạn nói 2 phần, khách nói 8 phần. Đặt câu hỏi tốt → lắng → react chân thành.",
+    "luan_diem_ja": "雑談は自分語りではない。自分2割、お客様8割。良い質問をして、聴き、本気でリアクションする。",
+    "boi_canh_vi": "Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng cạnh Nakamura CFO 2 tiếng. Mục tiêu: rời bàn với 3 fact mới về Nakamura.",
+    "boi_canh_ja": "2026年5月、Phase 4キックオフ後の会食。ズンが中村CFOの隣2時間。目標:中村さんについて新しい3つの事実を持って帰る。",
+    "muc_tieu_vi": "Học cách giữ tỉ lệ 80/20 — đặt câu hỏi đào sâu, đá ngược thay vì 自分語り."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "01",
+      "topic": "Timing"
+    },
+    {
+      "book": "08",
+      "rule": "04",
+      "topic": "Câu hỏi mở vs đóng"
+    },
+    {
+      "book": "08",
+      "rule": "05",
+      "topic": "聞き上手"
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "GOOD — 80/20 đúng nhịp",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "中村さん、北海道のご出身でしたよね。札幌のどちらですか?",
+          "vi": "Anh Nakamura quê Hokkaido nhỉ. Anh ở khu nào của Sapporo ạ?"
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "南区の真駒内ってとこ。冬はスキー場が裏山なんだよ。",
+          "vi": "Khu Makomanai phía Nam. Mùa đông sân trượt tuyết ngay sau núi nhà."
+        },
+        {
+          "speaker": "zun",
+          "ja": "裏山がスキー場ですか!羨ましいです。お子さんの頃から滑ってらしたんですか?",
+          "vi": "Sau núi nhà là sân trượt tuyết ạ! Em ngưỡng mộ quá. Anh trượt từ nhỏ luôn ạ?"
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "そう、4歳から。長男もね、今は札幌に戻って週末通ってる。",
+          "vi": "Ừ, từ 4 tuổi. Con trai cả cũng vậy, giờ về Sapporo cuối tuần lên núi."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ご長男もスキーを継がれたんですね。素敵です。週末は中村さんも一緒に?",
+          "vi": "Con trai anh cũng nối nghiệp trượt tuyết ạ. Tuyệt quá. Cuối tuần anh cũng cùng đi không ạ?"
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "いやあ、もう膝がねえ…でも孫が3歳になったら一緒に行くつもり。",
+          "vi": "Hà, đầu gối tôi không còn ngon nữa... Nhưng đợi cháu 3 tuổi tôi sẽ dẫn đi cùng."
+        }
+      ]
+    },
+    {
+      "scenario": "BAD — 自分語り 2 phút",
+      "type": "bad",
+      "context_vi": "中村 hỏi quê Dũng. Dũng kể tiểu sử 2 phút thay vì trả lời ngắn + đá ngược.",
+      "lines": [
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "ズンさんはご出身どちら?",
+          "vi": "Quê em ở đâu?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "[NG] ハノイです。ハノイは1000年の都で、僕の家は旧市街の近くにあって、父は元軍人で、母は…あ、それで僕は大学が…",
+          "vi": "[NG] Hà Nội ạ. Hà Nội có 1000 năm lịch sử, nhà em gần phố cổ, bố em là cựu quân nhân, mẹ em... à, em học đại học..."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "…へえ…そうなんだ…",
+          "vi": "...ờ... vậy à..."
+        },
+        {
+          "speaker": "zun",
+          "ja": "[NG vẫn tiếp] で、日本に来たきっかけはアニメで、最初は…",
+          "vi": "[NG] Mà em đến Nhật là vì anime, lúc đầu..."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "あ、お酒もう一杯どう?",
+          "vi": "À, anh thêm rượu nữa nhé?"
+        }
+      ],
+      "why_bad": "Câu hỏi của khách chỉ cần 1-2 câu trả lời + đá ngược. Tự kể tiểu sử = ép khách lắng nghe = mệt. Đúng: 'ハノイです。古い街並みが好きで… 中村さんは札幌のどちらでしたっけ?' = 30 giây + đá bóng về sân khách."
+    },
+    {
+      "scenario": "Edge — Khách hỏi sâu về mình → ngắn + đá ngược",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "ズンさん、奥様もハノイ?お子さんは?",
+          "vi": "Vợ em cũng người Hà Nội à? Có con chưa?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "妻もハノイです。子供はまだですが、来年あたり…と話しています。",
+          "vi": "Vợ em cũng Hà Nội. Chưa có con, đang tính sang năm ạ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "中村さんはお孫さん3歳になられるとおっしゃってましたよね、男の子ですか女の子ですか?",
+          "vi": "Anh Nakamura đã kể cháu sắp 3 tuổi, là cháu trai hay cháu gái ạ?"
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "孫娘でね、これがもう可愛くて、写真見る?",
+          "vi": "Cháu gái, dễ thương lắm, em xem ảnh không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "うわぁ、目がそっくりですね!",
+          "vi": "Ôi, mắt giống ông thật!"
+        }
+      ]
+    },
+    {
+      "scenario": "Multi-party — bắc cầu cho senior khác cùng nói",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "oogaki_sales",
+          "ja": "トゥアンさん、お休みの日は何してるの?",
+          "vi": "Tuấn, cuối tuần em hay làm gì?"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "最近は娘とサッカーを始めまして…",
+          "vi": "Gần đây em bắt đầu chơi bóng đá với con gái..."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "いいねえ、何歳?",
+          "vi": "Hay đó, mấy tuổi?"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "6歳です。",
+          "vi": "6 tuổi ạ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "大垣さんもお嬢様いらっしゃるんですよね、たしか高校生でしたっけ?",
+          "vi": "Anh Ōgaki cũng có con gái nhỉ, hình như đang học cấp 3 phải không ạ?"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "よく覚えてるね!来年大学受験で、もう大変よ…",
+          "vi": "Em nhớ giỏi! Năm sau thi đại học, vất lắm..."
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "Mở câu hỏi",
+      "ja": "[キーワード]についてもう少し聞いてもいいですか?",
+      "vi": "Cho em hỏi thêm về [keyword] được không ạ?",
+      "use": "Đào sâu lịch sự"
+    },
+    {
+      "category": "Mở câu hỏi",
+      "ja": "それは初めて聞きました、もう少し詳しく…",
+      "vi": "Em chưa nghe bao giờ, kể thêm cho em với...",
+      "use": "Khen nhẹ + đào sâu"
+    },
+    {
+      "category": "Đá ngược",
+      "ja": "私もです。ところで[Tên]さんは…?",
+      "vi": "Em cũng vậy. Mà anh thì sao ạ?",
+      "use": "1-2 câu về mình rồi đá bóng"
+    },
+    {
+      "category": "React",
+      "ja": "[キーワード]ですか!",
+      "vi": "[Keyword] ạ!",
+      "use": "Mirror keyword (オウム返し)"
+    },
+    {
+      "category": "React",
+      "ja": "へえ、それは知りませんでした。",
+      "vi": "Ồ, em chưa biết điều đó.",
+      "use": "Khen nhẹ kiến thức khách"
+    },
+    {
+      "category": "React",
+      "ja": "なるほど、それで?",
+      "vi": "Em hiểu rồi, rồi sao ạ?",
+      "use": "Đào sâu tiếp"
+    },
+    {
+      "category": "Reference",
+      "ja": "以前[Tên]さんがおっしゃってた[chi tiết]、その後どうなりましたか?",
+      "vi": "Lần trước anh kể về [chi tiết], sau đó thế nào ạ?",
+      "use": "Nhớ chi tiết = +10 điểm"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "雑談で「8:2のルール」とは?",
+      "options": [
+        "A. 自分8割、お客様2割話す",
+        "B. お客様8割、自分2割話す",
+        "C. 仕事8割、雑談2割の時間配分",
+        "D. お酒8割、料理2割"
+      ],
+      "answer": "B",
+      "explain_vi": "雑談 thành công khi khách nói 80%. Vai trò của bạn = đặt câu hỏi tốt và lắng nghe."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "お客様が「へえ…そうなんだ…」と返した時の本音は?",
+      "options": [
+        "A. もっと話してほしい",
+        "B. 興味津々",
+        "C. 退屈し始めている、話題を変えたい",
+        "D. 怒っている"
+      ],
+      "answer": "C",
+      "explain_vi": "「へえ…そうなんだ…」kéo dài + giọng tụt = đang chán. Phải đổi topic ngay, ngừng 自分語り."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "オウム返し(おうむがえし)の効果として正しいものは?",
+      "options": [
+        "A. 馬鹿にされている印象を与える",
+        "B. 「ちゃんと聴いている」と伝わり、相手が話を続けやすくなる",
+        "C. 質問を避けるためのテクニック",
+        "D. 日本語が下手だと思われる"
+      ],
+      "answer": "B",
+      "explain_vi": "Lặp lại keyword = tín hiệu 'tôi đang nghe' → khách thoải mái kể tiếp. Đẳng cấp 聞き上手."
+    }
+  ],
+  "templates": []
+}

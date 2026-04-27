@@ -1,0 +1,214 @@
+{
+  "rule_id": "rule_11",
+  "rule_slug": "お茶のお出し方",
+  "title": {
+    "ja": "お茶のお出し方",
+    "vi": "Pha trà / mời nước"
+  },
+  "rule_context": {
+    "ja": "着席後5分以内、リンが6名分(白鷗3+ティエンファット3)のお茶を中村CFO先頭順で配膳する場面。",
+    "vi": "Trong 5 phút sau khi khách ngồi, Linh phục vụ trà 6 cốc (3 khách 白鷗 + 3 host) theo thứ tự Nakamura CFO trước."
+  },
+  "related_rules": [
+    "rule_10",
+    "rule_12",
+    "rule_25"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — host先・junior先・左側配膳",
+      "label_vi": "XẤU — phục vụ host trước + junior khách trước + đặt bên trái",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①host(自社)先で『客先』原則違反 ②junior客先で hierarchy 無視 ③左側配膳で利き手妨害。3点減点。",
+        "vi": "(1) Host trước = vi phạm 'khách trước'. (2) Junior khách trước senior = sai cấp. (3) Đặt trái = chắn tay phải uống."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_11_bad_01",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "ズン先輩、お茶です。",
+          "sentence_translation": "Anh Dũng, trà ạ.",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_11_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、リンさん、まずお客様から…",
+          "sentence_translation": "À Linh, từ khách trước em ơi...",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_11_bad_03",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "あ、はい、松本様、どうぞ。",
+          "sentence_translation": "À vâng, anh Matsumoto, mời ạ.",
+          "tone": "nervous",
+          "speed_multiplier": 1.05
+        },
+        {
+          "line_id": "rule_11_bad_04",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "…どうも。",
+          "sentence_translation": "...Cảm ơn.",
+          "tone": "neutral",
+          "speed_multiplier": 0.9,
+          "pause_after_ms": 600
+        },
+        {
+          "line_id": "rule_11_bad_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "リンさん、お茶も中村CFOから順番。それから右側から置くの。",
+          "sentence_translation": "Linh, trà cũng phải bắt đầu từ Nakamura CFO. Với cả phải đặt bên phải.",
+          "tone": "firm",
+          "speed_multiplier": 0.95
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 中村→大垣→松本→フオン→ズン→トゥアン順",
+      "label_vi": "TỐT — thứ tự Nakamura → Ōgaki → Matsumoto → Hương → Dũng → Tuấn",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_11_good_01",
+          "highlight_text": "失礼いたします",
+          "ja": "進行中の会議室入室時の固定句。staffでも省略不可。",
+          "vi": "Câu cố định khi vào phòng họp đang diễn ra. Dù là staff cũng KHÔNG bỏ."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_11_good_02",
+          "highlight_text": "右側に両手で",
+          "ja": "湯呑は客の右側に両手(底+横)で静かに置く。『コトッ』音NG。",
+          "vi": "Đặt cốc bên phải khách bằng 2 tay (1 đỡ đáy + 1 nâng cạnh). KHÔNG nghe tiếng 'cốp'."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_11_good_04",
+          "highlight_text": "中村→大垣→松本→フオン→ズン→トゥアン",
+          "ja": "客最上位中央→客右→客左→host senior→host junior。約90秒で6名完了。",
+          "vi": "Senior khách trung tâm → khách phải → khách trái → senior host → host junior. ~90 giây cho 6 người."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_11_good_05",
+          "highlight_text": "ごゆっくりどうぞ",
+          "ja": "配膳完了の固定句。15度お辞儀→1-2歩後退→転回。",
+          "vi": "Câu cố định khi xong. Bow 15° → lui 1-2 bước → mới xoay."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_11_good_01",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "お茶をお持ちいたしました。失礼いたします。",
+          "sentence_translation": "Em đã mang trà tới ạ. Xin phép ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_11_good_02",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "（中村CFOの右側に両手で湯呑を置く）中村CFO、どうぞ。",
+          "sentence_translation": "(đặt cốc bên phải Nakamura bằng 2 tay) Anh Nakamura CFO, mời anh ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_11_good_03",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ありがとうございます。",
+          "sentence_translation": "Cảm ơn em.",
+          "tone": "warm",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_11_good_04",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "（続けて 大垣→松本→フオン→ズン→トゥアン の順で配膳）",
+          "sentence_translation": "(tiếp theo phục vụ Ōgaki → Matsumoto → Hương → Dũng → Tuấn theo thứ tự)",
+          "tone": "neutral",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_11_good_05",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "ごゆっくりどうぞ。（15度お辞儀→1-2歩後退→転回退室）",
+          "sentence_translation": "Mời các anh thưởng thức ạ. (bow 15° → lui 1-2 bước → mới xoay rời khỏi)",
+          "tone": "formal",
+          "annotation_ids": [
+            "4"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_11_kp_01",
+      "speaker": "linh",
+      "sentence": "お茶をお持ちいたしました。失礼いたします。",
+      "sentence_translation": "Em đã mang trà tới ạ. Xin phép ạ.",
+      "purpose": "お茶配膳開始固定句",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_11_kp_02",
+      "speaker": "linh",
+      "sentence": "ごゆっくりどうぞ。",
+      "sentence_translation": "Mời các anh thưởng thức ạ.",
+      "purpose": "配膳完了退室固定句",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_11_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "客側CFO/部長/PMとhost側3名の計6名にお茶を配膳する適切な順序は？",
+      "options": [
+        "host先→客後の順",
+        "客側CFO→部長→PM→host副部長→BD→Lead 順",
+        "客側junior(PM)から先",
+        "ランダムでよい"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "客最上位優先→客内hierarchy→host内hierarchy順。右側両手配置。",
+        "vi": "Senior khách trước → hierarchy khách → hierarchy host. Đặt bên phải 2 tay."
+      }
+    }
+  ]
+}

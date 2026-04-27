@@ -1,0 +1,108 @@
+{
+  "rule_id": "rule_53",
+  "rule_slug": "画面共有時の声の使い方",
+  "title": {
+    "ja": "画面共有時の声の使い方",
+    "vi": "Tone giọng khi share màn hình"
+  },
+  "rule_context": {
+    "ja": "オンライン会議でズンが画面共有しながらKPI表を説明する場面。位置を言葉で指示し、話速を落とす。",
+    "vi": "Họp online em Dũng share màn hình giải thích KPI. Chỉ vị trí bằng lời, nói chậm hơn."
+  },
+  "related_rules": [
+    "rule_52",
+    "rule_54"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『左上』『3ページ目』など視覚位置を言葉で明示。話速0.9倍で重要数値を強調。",
+        "vi": "「左上」「3ページ目」 chỉ vị trí bằng lời. Nói chậm 0.9x để nhấn số quan trọng."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_53_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "画面を共有いたします。今、見えておりますでしょうか？",
+          "sentence_translation": "Em xin share màn hình ạ. Anh thấy được không ạ?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_53_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "はい、見えています。",
+          "sentence_translation": "Vâng, tôi thấy rồi ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_53_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。スライドの左上、4月度KPI表をご覧ください。",
+          "sentence_translation": "Cảm ơn anh ạ. Anh xem bảng KPI tháng 4 ở góc trên bên trái slide ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_53_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご覧の通り、契約数は前月比15%増となっております。",
+          "sentence_translation": "Như anh thấy, số hợp đồng tăng 15% so với tháng trước ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.9,
+          "pause_after_ms": 800
+        },
+        {
+          "line_id": "rule_53_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "次に、スライド3枚目をご覧ください。",
+          "sentence_translation": "Tiếp theo, anh xem slide thứ 3 giúp em ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.9
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_53_kp_01",
+      "speaker": "zun",
+      "sentence": "スライドの〇〇をご覧ください。",
+      "sentence_translation": "Anh xem 〇〇 trên slide giúp em ạ.",
+      "purpose": "画面共有時の位置指示",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_53_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "画面共有時の声の使い方として正しいのは？",
+      "options": [
+        "速く話す",
+        "位置を言葉で明示し、話速を下げる",
+        "黙って画面だけ見せる",
+        "雑談を多く"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "視覚情報を言葉で補い、話速を下げて理解を促す。",
+        "vi": "Bổ sung thông tin hình bằng lời, nói chậm để dễ hiểu."
+      }
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "rule_id": "rule_06",
+  "rule_slug": "5分前到着の文化",
+  "title": {
+    "ja": "5分前到着の文化",
+    "vi": "Tới sớm 5 phút (オン・タイム文化)"
+  },
+  "rule_context": {
+    "ja": "リンが初めて白鷗との会議に参加。ズンが日本の『5分前行動』文化を教える。定刻到着＝遅刻、5分前＝定時。",
+    "vi": "Linh lần đầu dự họp với 白鷗. Dũng dạy văn hóa 'đến trước 5 phút' của Nhật. Đến đúng giờ = trễ, trước 5 phút = on-time."
+  },
+  "related_rules": [
+    "rule_03",
+    "rule_04",
+    "rule_17"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 定刻到着で実質遅刻",
+      "label_vi": "XẤU — Đến đúng giờ = trễ",
+      "display_order": 1,
+      "analysis": {
+        "ja": "15:00ちょうどに会議室へ向かい、入室は15:02。客は5分前から待機していた。日本の『5分前行動』文化への理解不足。",
+        "vi": "15:00 mới đi tới phòng, vào lúc 15:02. Khách đợi từ 5 phút trước. Chưa hiểu văn hóa Nhật."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_06_bad_01",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "ズン先輩、15時ちょうどなので会議室向かいます！",
+          "sentence_translation": "Anh Dũng, đúng 15h rồi, em đi qua phòng họp đây ạ!",
+          "tone": "cheerful"
+        },
+        {
+          "line_id": "rule_06_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "もう松本様は5分前から待っているよ。今15:00は遅刻と同じ。",
+          "sentence_translation": "Anh Matsumoto đợi từ 5 phút trước rồi đấy. Bây giờ 15h vào là tính như trễ luôn.",
+          "tone": "urgent"
+        },
+        {
+          "line_id": "rule_06_bad_03",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "お待たせしました…遅れて申し訳ございません。",
+          "sentence_translation": "Để anh đợi rồi ạ... Em xin lỗi vì đến muộn ạ.",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_06_bad_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "いえいえ、大丈夫ですよ。",
+          "sentence_translation": "Không sao, không sao đâu.",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 5分前完了＋10分前最終チェック",
+      "label_vi": "TỐT — 5 phút trước xong setup + check lại lần cuối 10 phút",
+      "display_order": 2,
+      "analysis": {
+        "ja": "14:50 に最終チェック完了、14:55 客の到着、15:00 ちょうどに開始宣言。日本式段取りのお手本。",
+        "vi": "14:50 check xong lần cuối, 14:55 đón khách, đúng 15:00 mở họp. Flow chuẩn Nhật."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_06_good_01",
+          "highlight_text": "14:50です",
+          "ja": "業務報告では timestamp を冒頭に置くのが定番。「いつ・何が完了したか」が一発で伝わる。",
+          "vi": "Báo cáo công việc đặt timestamp ngay đầu — chuẩn business. Đối tác đọc 1 phát hiểu 'lúc nào / xong gì'."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_06_good_04",
+          "highlight_text": "皆様お揃いでいらっしゃいますので",
+          "ja": "「お揃い」(おそろい)=全員集合。客にも社内にも使える。「いらっしゃる」と組み合わせ尊敬語化。",
+          "vi": "「お揃い」 = đông đủ. Dùng với khách lẫn nội bộ. Kết hợp 「いらっしゃる」 thành kính ngữ."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_06_good_01",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "ズン先輩、14:50です。設備、ネームプレート、お茶、すべて完了しています。",
+          "sentence_translation": "Anh Dũng, 14:50 rồi ạ. Thiết bị, name plate, trà nước — tất cả xong hết rồi ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_06_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "松本様、お早めのお越しありがとうございます。お席にご案内いたします。",
+          "sentence_translation": "Anh Matsumoto, cảm ơn anh đến sớm ạ. Em mời anh vào chỗ ngồi ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_06_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "お気遣いありがとうございます。本日もよろしくお願いいたします。",
+          "sentence_translation": "Cảm ơn em chu đáo. Hôm nay phiền em nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_06_good_04",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "皆様お揃いでいらっしゃいますので、これより4月度月例会議を開始いたします。",
+          "sentence_translation": "Mọi người đã đông đủ rồi, em xin phép bắt đầu buổi họp định kỳ tháng 4 ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_06_kp_01",
+      "speaker": "zun",
+      "sentence": "お早めのお越しありがとうございます。",
+      "sentence_translation": "Cảm ơn anh/chị đã đến sớm ạ.",
+      "purpose": "客が早く到着した時の挨拶",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_06_kp_02",
+      "speaker": "linh",
+      "sentence": "皆様お揃いでいらっしゃいますので、これより〇〇会議を開始いたします。",
+      "sentence_translation": "Mọi người đã đông đủ rồi, em xin phép bắt đầu buổi họp 〇〇 ạ.",
+      "purpose": "会議開始の宣言",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_06_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "日本の業務会議に最も適した到着時間は次のどれか？",
+      "options": [
+        "30分前",
+        "5分前",
+        "定刻ちょうど",
+        "1〜2分遅れ"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "5分前が日本式の『定時』。30分前は迷惑、定刻は実質遅刻。",
+        "vi": "5 phút trước là 'on-time' theo Nhật. 30 phút quá sớm gây phiền, đúng giờ thì thành trễ."
+      }
+    }
+  ]
+}

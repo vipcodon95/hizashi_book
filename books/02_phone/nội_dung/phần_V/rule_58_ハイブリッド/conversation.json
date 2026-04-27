@@ -1,0 +1,97 @@
+{
+  "rule_id": "rule_58",
+  "rule_slug": "ハイブリッド会議",
+  "title": {
+    "ja": "ハイブリッド会議",
+    "vi": "Hybrid meeting — vừa offline vừa online"
+  },
+  "rule_context": {
+    "ja": "ベトナム本社にズン・トゥアンが集まり、松本PMはオンライン参加。ズンがモデレーターとしてオンライン参加者を取り残さない進行を実演。",
+    "vi": "Tại VN có Dũng + Tuấn offline, anh Matsumoto online. Em Dũng làm moderator, đảm bảo người online không bị bỏ rơi."
+  },
+  "related_rules": [
+    "rule_52",
+    "rule_57"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "オンライン参加者を名指しで呼び、会場の発言を要約して伝える。両者の参加感を保つ。",
+        "vi": "Gọi tên người online, tóm tắt phát biểu của phòng cho online. Cả hai bên đều có cảm giác tham gia."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_58_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当 (司会)",
+          "gender": "male",
+          "sentence": "松本様、オンラインからもご意見をお伺いできますでしょうか。先ほどのトゥアンの発言、聞こえておりましたか？",
+          "sentence_translation": "Anh Matsumoto, từ phía online anh phát biểu giúp em ạ. Phát biểu của anh Tuấn vừa rồi anh nghe được không ạ?",
+          "tone": "warm",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_58_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "はい、聞こえました。納期延長について意見申し上げてもよろしいでしょうか。",
+          "sentence_translation": "Vâng, tôi nghe được. Tôi xin có ý kiến về việc gia hạn được không?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_58_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当 (司会)",
+          "gender": "male",
+          "sentence": "ぜひお願いいたします。",
+          "sentence_translation": "Vâng, mời anh ạ.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_58_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当 (司会)",
+          "gender": "male",
+          "sentence": "会場側で先ほど『コスト面の懸念』が出ておりますが、松本様はどうお考えでしょうか？",
+          "sentence_translation": "Bên phòng vừa nãy có nêu 'lo ngại về chi phí', anh Matsumoto thấy thế nào ạ?",
+          "tone": "formal",
+          "speed_multiplier": 0.95
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_58_kp_01",
+      "speaker": "zun",
+      "sentence": "オンラインからもお声をいただけますでしょうか。",
+      "sentence_translation": "Phía online cho em xin ý kiến với ạ.",
+      "purpose": "ハイブリッド会議でオンライン参加者を巻き込む",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_58_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "ハイブリッド会議で最も注意すべきは？",
+      "options": [
+        "会場の音量",
+        "オンライン参加者を取り残さない配慮",
+        "資料の枚数",
+        "時間厳守"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "ハイブリッド最大の課題はオンライン参加者の疎外感回避。",
+        "vi": "Thách thức lớn nhất của hybrid là không để người online cảm thấy bị bỏ rơi."
+      }
+    }
+  ]
+}

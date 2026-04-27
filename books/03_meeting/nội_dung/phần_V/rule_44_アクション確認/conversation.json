@@ -1,0 +1,170 @@
+{
+  "rule_id": "rule_44",
+  "rule_slug": "アクションアイテム確認",
+  "title": {
+    "ja": "アクションアイテムの確認",
+    "vi": "Confirm action items + owner"
+  },
+  "rule_context": {
+    "ja": "Phase 2会議終了5分前、ズンが4件のアクションアイテムを Who/What/When で読み上げ、各 owner に音声で confirm を取る場面。",
+    "vi": "5 phút trước khi tan họp Phase 2, Dũng đọc rõ 4 action items với Who/What/When, và xin owner confirm bằng tiếng nói."
+  },
+  "related_rules": [
+    "rule_31",
+    "rule_43",
+    "rule_45"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 確認なしで終了",
+      "label_vi": "XẤU — Tan họp không confirm",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「皆さんよろしく」では誰が何をいつまでにするか不明。1週間後に半分以上のタスクが未着手という事態に。",
+        "vi": "「皆さんよろしく」 = không rõ ai làm gì khi nào. 1 tuần sau quá nửa task chưa làm."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_44_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "では、皆さんよろしくお願いします。",
+          "sentence_translation": "Vậy, mọi người làm tốt nhé ạ.",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — Who/What/When+音声confirm",
+      "label_vi": "TỐT — Who/What/When + xin confirm tiếng",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_44_good_01",
+          "highlight_text": "本日のアクションアイテムを確認させていただきます",
+          "ja": "確認の標準オープナー。件数を予告すると相手も身構えて聞く。",
+          "vi": "Câu mở chuẩn. Báo trước số item → đối phương biết tập trung nghe."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_44_good_02",
+          "highlight_text": "scope A 案の詳細仕様書作成 — トゥアンリーダー、5月2日まで。よろしいでしょうか",
+          "ja": "Who/What/When 3要素を読み上げ、owner に「よろしいでしょうか」と confirm を求める。",
+          "vi": "Đọc 3 yếu tố Who/What/When + hỏi owner 「よろしいでしょうか」 để xác nhận."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_44_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "会議終了前に、本日のアクションアイテムを確認させていただきます。4件ございます。",
+          "sentence_translation": "Trước khi kết thúc, em xin được rà lại action items hôm nay ạ. Có 4 item ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_44_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "①scope A 案の詳細仕様書作成 — トゥアンリーダー、5月2日まで。よろしいでしょうか？",
+          "sentence_translation": "(1) Viết spec chi tiết scope A — anh Tuấn, deadline 2/5. OK không ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_44_good_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "承知しました。",
+          "sentence_translation": "Vâng em rõ ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_44_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "②5月開発スプリント計画書 — 私（ズン）、4月30日まで。",
+          "sentence_translation": "(2) Kế hoạch sprint dev tháng 5 — em Dũng, deadline 30/4.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_44_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "③追加QAリソース可否回答 — 大垣様、5月7日まで。",
+          "sentence_translation": "(3) Trả lời khả năng thêm QA — anh Ōgaki, deadline 7/5.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_44_good_06",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "承知しました、確認いたします。",
+          "sentence_translation": "OK, tôi sẽ check.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_44_good_07",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "④議事録共有 — 私（ズン）、本日中。以上4件、よろしくお願いいたします。",
+          "sentence_translation": "(4) Gửi biên bản — em Dũng, trong hôm nay. Trên đây 4 item, em xin nhờ ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_44_kp_01",
+      "speaker": "zun",
+      "sentence": "本日のアクションアイテムを確認させていただきます。〇件ございます。",
+      "sentence_translation": "Em xin được rà lại action items hôm nay ạ. Có 〇 item ạ.",
+      "purpose": "アクション確認のオープナー",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_44_kp_02",
+      "speaker": "zun",
+      "sentence": "〇〇 — 〇〇さん、〇月〇日まで。よろしいでしょうか？",
+      "sentence_translation": "〇〇 — anh/chị 〇〇, deadline 〇/〇. OK không ạ?",
+      "purpose": "Who/What/When+confirmフレーズ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_44_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "会議終了前のアクションアイテム確認で、最も漏れを防ぐ方法は？",
+      "options": [
+        "「皆さんよろしく」と一言で済ます",
+        "メールで後送する",
+        "Who/What/When の3要素を読み上げ、各 owner に「よろしいでしょうか」と確認",
+        "全員のメモに任せる"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "音声で各 owner に確認することで合意が成立し、議事録にも明確に残る。",
+        "vi": "Confirm tiếng từng owner → consensus thành lập + biên bản rõ."
+      }
+    }
+  ]
+}

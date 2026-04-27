@@ -1,0 +1,157 @@
+{
+  "rule_id": "rule_14",
+  "rule_slug": "趣味",
+  "title": {
+    "vi": "Hobby — golf/baseball/sumo",
+    "ja": "趣味"
+  },
+  "rule_context": {
+    "ja": "ズンが3つの異なるhobby文化に触れる週 — Hiroshi(ゴルフ招待)、Yamamoto(阪神ファン)、Sato(相撲senior)、Tanaka(ランニング/ゲーム)。年代・地域でhobbyを使い分ける。",
+    "vi": "Tuần Dũng tiếp xúc 3 văn hóa hobby — Hiroshi (mời golf), Yamamoto (Hanshin Tigers), Sato (sumo senior), Tanaka (chạy bộ/game)."
+  },
+  "related_rules": ["rule_10", "rule_18", "rule_43"],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "ゴルフ招待 — 受け方",
+      "label_vi": "Được mời golf — cách nhận",
+      "display_order": 1,
+      "context": {
+        "ja": "Hiroshi部長がプライベートゴルフコンペにズンを誘う。",
+        "vi": "Hiroshi mời Dũng đi golf compe cuối tuần."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_14_good_01", "speaker": "hiroshi_chugoku", "speaker_role": "関西支店長 白鷗", "gender": "male", "sentence": "ズンさん、ゴルフはやる?今度の土曜、コンペに出るんだけど一緒にどう?", "sentence_translation": "Dũng có chơi golf không? Thứ 7 này anh có giải, đi cùng không?", "tone": "warm"},
+        {"line_id": "rule_14_good_02", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "ありがとうございます!実は始めて1年で、スコア110くらいです…ご迷惑にならなければ。", "sentence_translation": "Cảm ơn anh! Em mới chơi 1 năm, score khoảng 110... nếu không phiền thì em xin đi.", "tone": "warm"},
+        {"line_id": "rule_14_good_03", "speaker": "hiroshi_chugoku", "speaker_role": "関西支店長 白鷗", "gender": "male", "sentence": "全然大丈夫!プライベートコンペだから気楽。ホームコースは広島カントリークラブ、9時スタート。", "sentence_translation": "Hoàn toàn không vấn đề! Compe nội bộ, thoải mái. Sân chủ là Hiroshima Country Club, 9h tee off.", "tone": "warm"},
+        {"line_id": "rule_14_good_04", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "広島カントリー…憧れのコースです。クラブは持って行ったほうがいいですか?", "sentence_translation": "Hiroshima Country... sân em mơ ước. Em có nên mang gậy đi không ạ?", "tone": "warm"},
+        {"line_id": "rule_14_good_05", "speaker": "hiroshi_chugoku", "speaker_role": "関西支店長 白鷗", "gender": "male", "sentence": "自分のクラブあるなら持参で。キャディバッグは前日に送る『宅配ゴルフ』使えるよ。ドライバー飛距離どれくらい?", "sentence_translation": "Có gậy thì mang. Túi gậy gửi qua dịch vụ 'takuhai golf' trước 1 ngày được. Driver bay được bao nhiêu yard?", "tone": "warm"},
+        {"line_id": "rule_14_good_06", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "220ヤードくらいです、まだまだですが…", "sentence_translation": "Khoảng 220 yard, còn xa lắm ạ...", "tone": "warm"},
+        {"line_id": "rule_14_good_07", "speaker": "hiroshi_chugoku", "speaker_role": "関西支店長 白鷗", "gender": "male", "sentence": "十分だよ!ベトナム人で220飛べば。初心者にしてはいい数字。当日はラウンド後、お風呂入って懇親会あるから、お楽しみに。", "sentence_translation": "Đủ rồi! Người Việt mà 220 yard. Mới chơi mà số đẹp. Hôm đó sau round có tắm + tiệc thân mật, mong em mong chờ.", "tone": "cheerful"},
+        {"line_id": "rule_14_good_08", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "お風呂と懇親会も!ぜひ、よろしくお願いします。", "sentence_translation": "Cả tắm với tiệc luôn! Vâng, em xin nhờ anh.", "tone": "cheerful"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "阪神タイガース — 大阪 Yamamoto",
+      "label_vi": "Hanshin Tigers — Yamamoto Osaka",
+      "display_order": 2,
+      "context": {
+        "ja": "大阪居酒屋、Yamamoto(熱狂阪神ファン)。",
+        "vi": "Izakaya Osaka. Yamamoto fan cuồng Hanshin."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_14_good_09", "speaker": "yamamoto_kansai", "speaker_role": "大阪BDマネージャー 白鷗", "gender": "female", "sentence": "ズンさん、昨日の阪神戦見た?佐藤輝明のホームラン、すごかったわ!", "sentence_translation": "Dũng có xem trận Hanshin tối qua không? Home run của Sato Teruaki kinh khủng luôn!", "tone": "cheerful"},
+        {"line_id": "rule_14_good_10", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "Yahooで結果だけ。サトテル、今シーズン調子いいですよね。4番復帰したんですよね?", "sentence_translation": "Em chỉ xem kết quả qua Yahoo. Sato-Teru mùa này tốt nhỉ. Đã trở lại vị trí số 4 đúng không?", "tone": "warm"},
+        {"line_id": "rule_14_good_11", "speaker": "yamamoto_kansai", "speaker_role": "大阪BDマネージャー 白鷗", "gender": "female", "sentence": "ズンさんも阪神ファンか!?『サトテル』って呼ぶの、コアファンやで(笑)", "sentence_translation": "Dũng là fan Hanshin luôn hả!? Gọi là 'Sato-Teru' là core fan đó (cười).", "tone": "cheerful"},
+        {"line_id": "rule_14_good_12", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "広島の人と先日話して、カープも応援してます…でも今シーズン、阪神の調子は別格ですね。マジック点灯、いつ頃?", "sentence_translation": "Hôm trước em nói chuyện với người Hiroshima, em cũng theo Carp... nhưng mùa này Hanshin khác hẳn. Khi nào magic number bật ạ?", "tone": "warm"},
+        {"line_id": "rule_14_good_13", "speaker": "yamamoto_kansai", "speaker_role": "大阪BDマネージャー 白鷗", "gender": "female", "sentence": "うわ、マジック計算まで知っとる(笑)。今のペースなら9月中旬かな。甲子園、観に来る?", "sentence_translation": "Wow, biết tính cả magic luôn (cười). Theo nhịp này thì giữa tháng 9. Đến Koshien xem không?", "tone": "cheerful"},
+        {"line_id": "rule_14_good_14", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "甲子園!夢です。アルプススタンドでジェット風船も上げてみたいです。", "sentence_translation": "Koshien! Là ước mơ. Em muốn ngồi Alps Stand thả balloon jet luôn.", "tone": "cheerful"},
+        {"line_id": "rule_14_good_15", "speaker": "yamamoto_kansai", "speaker_role": "大阪BDマネージャー 白鷗", "gender": "female", "sentence": "ジェット風船まで!次回出張のとき、チケット取っとくわ。六甲おろし、一緒に歌おう!", "sentence_translation": "Cả jet balloon luôn! Lần sau em công tác, chị giữ vé cho. Cùng hát Rokkō Oroshi nhé!", "tone": "cheerful"},
+        {"line_id": "rule_14_good_16", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "六甲おろし、覚えていきます!", "sentence_translation": "Rokkō Oroshi em sẽ thuộc trước!", "tone": "cheerful"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "相撲 — Sato 60代senior",
+      "label_vi": "Sumo — Sato senior 60t",
+      "display_order": 3,
+      "context": {
+        "ja": "ディナー中にTV九州場所中継。Sato先生(60歳)が大の里の話を。",
+        "vi": "Đang dinner, TV chiếu Kyushu basho. Anh Sato (60t) nhắc Ōnosato."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_14_good_17", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "お、今日九州場所3日目か。大の里今日は誰と当たるかな。", "sentence_translation": "Ồ, hôm nay là ngày 3 Kyushu basho. Ōnosato hôm nay đấu ai nhỉ.", "tone": "warm"},
+        {"line_id": "rule_14_good_18", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "先生、相撲お好きなんですね!大の里、新横綱になりましたよね?", "sentence_translation": "Anh thích sumo nhỉ! Ōnosato vừa lên yokozuna đúng không ạ?", "tone": "warm"},
+        {"line_id": "rule_14_good_19", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "ズンさん、相撲も知っとるか!?最近の若手で稀に見る素質。幕内優勝何回続いてるか覚えてる?", "sentence_translation": "Dũng biết cả sumo!? Tài năng hiếm có trong lứa trẻ. Đã thắng giải mấy lần liên tiếp em nhớ không?", "tone": "cheerful"},
+        {"line_id": "rule_14_good_20", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "先場所、先々場所と連続優勝で…3場所連続だと全勝優勝も?", "sentence_translation": "Basho trước với basho trước nữa thắng liên tiếp... 3 basho liên tiếp có thắng toàn 15 trận không ạ?", "tone": "warm"},
+        {"line_id": "rule_14_good_21", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "全勝はまだ1回だけよ。でも横綱昇進したばかりで、これから期待。九州場所、福岡国際センター、毎年11月。次回、一緒に行こうか?", "sentence_translation": "Toàn thắng mới 1 lần. Nhưng vừa lên yokozuna, kỳ vọng nhiều. Kyushu basho ở Fukuoka Kokusai Center mỗi tháng 11. Lần sau cùng đi không?", "tone": "warm"},
+        {"line_id": "rule_14_good_22", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "ぜひ!枡席って4人で囲むあれですか?", "sentence_translation": "Vâng ạ! Masu-seki là kiểu ô 4 người ngồi sàn đó ạ?", "tone": "cheerful"},
+        {"line_id": "rule_14_good_23", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "そうそう、お弁当も出る。ちゃんこ鍋も食べないと。断髪式とか引退試合も感慨深いとよ。", "sentence_translation": "Đúng đúng, có cả bento. Phải ăn cả lẩu chanko. Lễ cắt tóc nghỉ hưu cũng cảm xúc lắm.", "tone": "warm"},
+        {"line_id": "rule_14_good_24", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "ちゃんこ、力士の食事ですよね。チャンコ屋ある通り、両国に。", "sentence_translation": "Chanko là món của lực sĩ. Ở Ryōgoku có cả phố quán Chanko.", "tone": "warm"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "Modern hobby — 30代Tanaka(ラン+ゲーム)",
+      "label_vi": "Hobby modern — Tanaka 35t",
+      "display_order": 4,
+      "context": {
+        "ja": "TanakaがSlackでStravaリンクを共有、最近ハーフマラソンを始めた。",
+        "vi": "Tanaka share link Strava qua Slack, mới bắt đầu chạy half-marathon."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_14_good_25", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "最近、ハーフマラソン走り始めて。先週東京マラソン応募した。", "sentence_translation": "Dạo này anh bắt đầu chạy half-marathon. Tuần trước đăng ký Tokyo Marathon.", "tone": "casual"},
+        {"line_id": "rule_14_good_26", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "お、ランニング始めたんですか!サブ4目指してます?", "sentence_translation": "Ồ, anh bắt đầu chạy à! Anh nhắm sub 4h ạ?", "tone": "casual"},
+        {"line_id": "rule_14_good_27", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "いやいや、サブ5でも難しい(笑)。ズンさん、走るの?", "sentence_translation": "Không không, sub 5h cũng khó (cười). Dũng có chạy không?", "tone": "casual"},
+        {"line_id": "rule_14_good_28", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "ハノイマラソン毎年出てます。サブ4は1回だけ。ペース走よりインターバルが苦手です。", "sentence_translation": "Em chạy Hanoi Marathon mỗi năm. Sub 4h chỉ được 1 lần. Em yếu interval hơn pace run.", "tone": "casual"},
+        {"line_id": "rule_14_good_29", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "分かる、心臓潰れる(笑)。じゃあ次回、皇居ラン一緒にどう?5キロ周回、ちょうどいい。", "sentence_translation": "Hiểu, tim muốn nổ luôn (cười). Vậy lần sau chạy quanh Kōkyo cùng nhau? Vòng 5km vừa đẹp.", "tone": "casual"},
+        {"line_id": "rule_14_good_30", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "皇居ラン!ぜひ。ランステ使えば手ぶらでいけますね。", "sentence_translation": "Chạy quanh hoàng cung! Vâng. Dùng ranste là đi tay không được luôn.", "tone": "cheerful"},
+        {"line_id": "rule_14_good_31", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "Apple Watchでルート共有しよう。あと最近はゲーム、スプラトゥーンやってる?", "sentence_translation": "Share route qua Apple Watch nhé. Game thì dạo này có chơi Splatoon không?", "tone": "casual"},
+        {"line_id": "rule_14_good_32", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "スプラ、X帯でくすぶってます…田中さん、上手そう。", "sentence_translation": "Splatoon em vẫn loanh quanh rank X... anh Tanaka chắc giỏi.", "tone": "casual"}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"phrase_id": "rule_14_kp_01", "speaker": "zun", "sentence": "ありがとうございます!ご迷惑にならなければ、ぜひ。", "sentence_translation": "Cảm ơn anh! Nếu không phiền thì em xin đi.", "purpose": "Nhận lời mời golf — luôn nhận"},
+    {"phrase_id": "rule_14_kp_02", "speaker": "zun", "sentence": "スコアは[110]くらいです、まだまだですが…", "sentence_translation": "Score khoảng [110], em còn xa lắm ạ.", "purpose": "Honest về level golf — không phô trương"},
+    {"phrase_id": "rule_14_kp_03", "speaker": "zun", "sentence": "[阪神戦]、昨日見ました!", "sentence_translation": "Trận [Hanshin] tối qua em xem rồi!", "purpose": "Mở topic baseball với fan"},
+    {"phrase_id": "rule_14_kp_04", "speaker": "zun", "sentence": "[甲子園]、いつか行きたいです。", "sentence_translation": "[Koshien] em rất muốn đi xem.", "purpose": "Thể hiện interest — kéo khách invite"},
+    {"phrase_id": "rule_14_kp_05", "speaker": "zun", "sentence": "[今場所]、誰の調子いいですか?", "sentence_translation": "[Basho lần này] ai đang phong độ ạ?", "purpose": "Hỏi sumo senior — show interest"},
+    {"phrase_id": "rule_14_kp_06", "speaker": "zun", "sentence": "皇居ラン、一緒にいかがですか?", "sentence_translation": "Chạy quanh Hoàng cung anh cùng đi không?", "purpose": "Bonding với khách trẻ qua sport casual"}
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_14_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "広島出身のお客様にbaseball topicを開く時、応援すべきteamは?",
+      "options": [
+        "A. 巨人(Yomiuri Giants)",
+        "B. 阪神タイガース",
+        "C. 広島カープ",
+        "D. 中日ドラゴンズ"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "広島出身=広島カープのファンが圧倒的に多い。地域とteamの結びつきは強い。",
+        "vi": "Hiroshima = fan Carp đại đa số. Regional team identity mạnh."
+      }
+    },
+    {
+      "question_id": "rule_14_bjt_02",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "ゴルフコンペに誘われた時、最も避けるべき返答は?",
+      "options": [
+        "A. 「ありがとうございます、ぜひ」",
+        "B. 「初心者ですが、迷惑にならなければ」",
+        "C. 「下手なので結構です」と断る",
+        "D. スコア110と正直に伝える"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "ゴルフ招待は信頼の証。下手だから断る=関係を断る合図に取られる。",
+        "vi": "Mời golf = tín hiệu tin tưởng. Từ chối vì kém = bị hiểu là từ chối quan hệ."
+      }
+    },
+    {
+      "question_id": "rule_14_bjt_03",
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "「九州場所」とは何月に開催されますか?",
+      "options": [
+        "A. 1月",
+        "B. 5月",
+        "C. 9月",
+        "D. 11月"
+      ],
+      "correct": "D",
+      "explanation": {
+        "ja": "相撲6場所制 — 1月初(東京)、3月(大阪)、5月(東京)、7月(名古屋)、9月(東京)、11月(九州=福岡)。",
+        "vi": "Sumo 6 basho/year. Kyushu basho = tháng 11 (Fukuoka)."
+      }
+    }
+  ],
+  "templates": []
+}

@@ -1,0 +1,83 @@
+{
+  "rule_id": "rule_14",
+  "rule_slug": "5W1Hメモは必須",
+  "title": {
+    "ja": "5W1Hメモは必須",
+    "vi": "5W1H ghi chú bắt buộc"
+  },
+  "rule_context": {
+    "ja": "受電時に5W1Hを欠けなく記録。",
+    "vi": "Ghi chú phone phải có đủ 5W1H."
+  },
+  "related_rules": [
+    "rule_05",
+    "rule_18"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "conversation_lines": [
+        {
+          "line_id": "rule_14_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "明日の打ち合わせ、第3会議室で14時から、6名で。資料は事前にメールで。",
+          "sentence_translation": "Họp ngày mai, phòng họp 3, từ 14h, 6 người. Tài liệu gửi mail trước.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_14_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "念のため復唱いたします。明日、松本様、第3会議室、打ち合わせ、6名参加、14時から、資料事前メール、でよろしいでしょうか。",
+          "sentence_translation": "Em xin lặp lại: ngày mai, anh Matsumoto, phòng họp 3, cuộc họp, 6 người, từ 14h, tài liệu mail trước, đúng không ạ?",
+          "tone": "formal",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_14_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "その通りです。",
+          "sentence_translation": "Đúng vậy.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_14_kp_01",
+      "speaker": "zun",
+      "sentence": "念のため復唱いたします。",
+      "sentence_translation": "Em xin lặp lại để chắc chắn ạ.",
+      "purpose": "5W1H確認の冒頭",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_14_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "電話メモで欠けると後で問題になりやすいのは？",
+      "options": [
+        "時間 (When)",
+        "場所 (Where)",
+        "人数 (How many)",
+        "全て"
+      ],
+      "correct": "D",
+      "explanation": {
+        "ja": "5W1Hは全て揃って初めて意味がある。",
+        "vi": "5W1H phải đủ mới có giá trị."
+      }
+    }
+  ]
+}

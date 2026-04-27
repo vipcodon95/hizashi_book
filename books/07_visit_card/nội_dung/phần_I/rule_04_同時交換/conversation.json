@@ -1,0 +1,174 @@
+{
+  "rule_id": "rule_04",
+  "rule_slug": "名刺の同時交換",
+  "title": {
+    "ja": "名刺の同時交換",
+    "vi": "Trao đổi danh thiếp đồng thời"
+  },
+  "rule_context": {
+    "ja": "ロビーで Tech Lead トゥアンと松本PMが向かい合い、同時に名刺を出す場面。Right-low-give / Left-high-receive のテクニック。",
+    "vi": "Tại lobby, Tuấn (Tech Lead) và Matsumoto PM đứng đối diện, cùng chìa danh thiếp. Áp dụng kỹ thuật phải-đưa-thấp / trái-nhận-cao."
+  },
+  "related_rules": [
+    "rule_02",
+    "rule_03",
+    "rule_05"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 同高度で衝突",
+      "label_vi": "XẤU — đụng tay vì cùng tầm cao",
+      "display_order": 1,
+      "analysis": {
+        "ja": "両者が両手で同高度に出し→手が衝突→お互いに譲り合い→3秒の沈黙。リセットになって儀式の流れが切れる。",
+        "vi": "Cả 2 cùng chìa 2 tay cùng tầm → đụng tay → tranh nhau nhường → 3 giây im lặng. Gãy nhịp lễ nghi."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_04_bad_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "ティエンファットのトゥアンです、よろしく…",
+          "sentence_translation": "Tôi là Tuấn bên Tiên Phát, mong được...",
+          "tone": "uncertain",
+          "speed_multiplier": 1.05
+        },
+        {
+          "line_id": "rule_04_bad_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "あ…松本です…",
+          "sentence_translation": "À... tôi Matsumoto...",
+          "tone": "uncertain",
+          "pause_after_ms": 500
+        },
+        {
+          "line_id": "rule_04_bad_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "あ、すみません、お先にどうぞ。",
+          "sentence_translation": "À xin lỗi, mời anh trước ạ.",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_04_bad_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "いえ、こちらこそ…",
+          "sentence_translation": "Không, anh trước đi...",
+          "tone": "uncertain",
+          "pause_after_ms": 1000
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 右手低く・左手高く",
+      "label_vi": "TỐT — phải đưa thấp, trái nhận cao",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_04_good_01",
+          "highlight_text": "右手低・左手高",
+          "ja": "自分の名刺を右手で低く出し、相手の名刺を左手で高く受ける。『出すは謙虚に低く、受けるは尊重して高く』。",
+          "vi": "Tay phải chìa danh thiếp mình xuống thấp (khiêm), tay trái nhận của khách ở trên cao (tôn trọng). Quy tắc: trao thấp, nhận cao."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_04_good_01",
+          "highlight_text": "頂戴いたします",
+          "ja": "受け取り動作と同時に発声。両者同時発話で違和感なし。",
+          "vi": "Nói đồng thời với động tác nhận. 2 bên cùng nói cùng lúc, không sai."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_04_good_03",
+          "highlight_text": "松本PM、よろしくお願いいたします",
+          "ja": "左手で受けた直後、右手を下に添えて両手保持→名前+役職復唱。全体フロー約3秒。",
+          "vi": "Sau khi nhận bằng tay trái, ngay lập tức tay phải đỡ dưới = 2 tay → đọc tên + chức vụ. Toàn flow ~3 giây."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_04_good_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "ティエンファット 技術リーダーのトゥアンと申します。頂戴いたします。",
+          "sentence_translation": "Tôi là Tuấn, Tech Lead cty Tiên Phát. Xin nhận ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_04_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "白鷗株式会社 PMの松本です。頂戴いたします。",
+          "sentence_translation": "Tôi là Matsumoto, PM cty Hakuō. Xin nhận.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_04_good_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "松本PM、よろしくお願いいたします。",
+          "sentence_translation": "Anh Matsumoto PM, rất mong được hợp tác ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_04_good_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "トゥアンさん、こちらこそ。",
+          "sentence_translation": "Anh Tuấn, tôi cũng vậy.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_04_kp_01",
+      "speaker": "tuan_leader",
+      "sentence": "頂戴いたします。",
+      "sentence_translation": "Xin nhận ạ.",
+      "purpose": "同時交換の受領発話",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_04_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "名刺の同時交換で右手・左手の役割は？",
+      "options": [
+        "右手で受け取り、左手で渡す",
+        "右手で自分の名刺を低く差し出し、左手で相手の名刺を高く受ける",
+        "両手で同時に渡し合う",
+        "どちらの手でもよい"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "『出すは低く、受けるは高く』が基本。受領後すぐに両手保持に切り替える。",
+        "vi": "Quy tắc 'trao thấp, nhận cao'. Ngay sau khi nhận chuyển sang đỡ 2 tay."
+      }
+    }
+  ]
+}

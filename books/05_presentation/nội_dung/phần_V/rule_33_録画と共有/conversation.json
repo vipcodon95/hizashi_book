@@ -1,0 +1,208 @@
+{
+  "rule_id": "rule_33",
+  "rule_slug": "録画と共有",
+  "title": {
+    "ja": "録画と共有",
+    "vi": "Recording + share"
+  },
+  "rule_context": {
+    "ja": "Phase 3 開始5分前、田中PMOから録画依頼 (山田部長が当日不在のため)。事前許可 → 全員同意 → 編集 → 限定共有 のフロー。",
+    "vi": "5 phút trước Phase 3, Tanaka PMO request record (sếp Yamada vắng). Flow: pre-permission → all consent → edit → limited share."
+  },
+  "related_rules": ["rule_27", "rule_28"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — surprise REC ＋生 MP4 共有",
+      "label_vi": "XẤU — REC surprise + share MP4 raw",
+      "display_order": 1,
+      "analysis": {
+        "ja": "全員同意なし＋編集なし＋限定共有なし → privacy + confidential 違反 triple。",
+        "vi": "Không xin consent + không edit + không limit share = vi phạm privacy + confidential cùng lúc."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_33_bad_01",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO担当",
+          "gender": "male",
+          "sentence": "ズンさん、本日のプレゼン録画して山田部長にシェアしたいのですが…",
+          "sentence_translation": "Anh Dũng, tôi muốn quay buổi pitch hôm nay để share cho sếp Yamada...",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_33_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "了解です、Zoom で record すれば OK ですよね。後で MP4 メールで送ります。",
+          "sentence_translation": "OK ạ, Zoom record là OK đúng không ạ. Sau em gửi MP4 qua mail ạ.",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_33_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "実はもう1社見積もり依頼してて… (REC 中であることを知らない)",
+          "sentence_translation": "Thực ra tôi đã yêu cầu báo giá thêm 1 cty nữa... (không biết đang REC)",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_33_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "録画です、ご共有くださいませ。 (Gmail で raw MP4 200MB 送付)",
+          "sentence_translation": "Đây là record ạ, mời share ạ. (gửi MP4 raw 200MB qua Gmail)",
+          "tone": "casual"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 事前許可＋全員同意＋編集＋限定共有",
+      "label_vi": "TỐT — Pre-permission + all consent + edit + limited share",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_33_good_02",
+          "highlight_text": "編集後 Drive 限定共有 (30日 expire)",
+          "ja": "事前 framework: ① 全員同意 ② 編集 ③ 限定共有 ④ expire。Requester に最初から expectation set。",
+          "vi": "Framework trước: ① consent từ tất cả ② edit ③ share giới hạn ④ expire. Set expectation cho requester từ đầu."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_33_good_04",
+          "highlight_text": "本日本セッションを録画させていただきます",
+          "ja": "REC 開始前の全員 announce。Surprise REC は privacy 違反。「ご懸念ございますでしょうか」で opt-out 可能。",
+          "vi": "Announce với tất cả trước khi REC. Surprise REC = vi phạm privacy. 「ご懸念ございますでしょうか」 cho cơ hội opt-out."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_33_good_07",
+          "highlight_text": "price negotiation 部分 (28-35分) と confidential 部分 (52-58分) を edit out",
+          "ja": "Time markers 明記で透明性。Confidential 部分は必ず edit。Drive 閲覧専用 + Email 限定 + 30日 expire の3層。",
+          "vi": "Time marker rõ = transparency. Confidential phải edit. 3 layer: Drive read-only + Email limit + 30 ngày expire."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_33_good_01",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO担当",
+          "gender": "male",
+          "sentence": "ズンさん、本日のプレゼン録画して山田部長にシェアしたいのですが…",
+          "sentence_translation": "Anh Dũng, tôi muốn quay buổi pitch hôm nay để share cho sếp Yamada...",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_33_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご依頼承りました。本番開始前に全participant の許可を取らせていただきます。編集後 Drive 限定共有 (30日 expire) で対応可能です。生 MP4 メールはセキュリティ上不可ですが、ご理解いただけますでしょうか？",
+          "sentence_translation": "Em đã nhận yêu cầu ạ. Trước khi bắt đầu, em sẽ xin consent của tất cả participant ạ. Em có thể xử lý theo cách: edit xong thì share Drive giới hạn (expire sau 30 ngày) ạ. MP4 raw qua mail thì không được vì security ạ — mong anh thông cảm ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_33_good_03",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO担当",
+          "gender": "male",
+          "sentence": "もちろんです、その方法で問題ありません。",
+          "sentence_translation": "Đương nhiên rồi, cách đó không vấn đề.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_33_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "まず1点お知らせございます。本日本セッションを録画させていただきます。山田部長が当日 ご欠席のため、田中様より後日録画共有依頼をいただきました。全員のご許可をいただいてから REC 開始させていただきます。何かご懸念ございますでしょうか？",
+          "sentence_translation": "Trước hết em xin thông báo 1 điểm ạ. Hôm nay em xin phép quay video buổi này ạ. Vì sếp Yamada vắng mặt, anh Tanaka đã yêu cầu share record sau ạ. Em xin permission của tất cả quý vị trước khi bắt đầu REC ạ. Quý vị có quan ngại gì không ạ?",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_33_good_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "問題ないです。",
+          "sentence_translation": "Không vấn đề.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_33_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。REC 開始いたします。",
+          "sentence_translation": "Em cảm ơn quý vị. Em xin bắt đầu REC ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_33_good_07",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "録画 raw 1時間20分 → price negotiation 部分 (28-35分) と confidential 部分 (52-58分) を edit out いたしました。Drive 閲覧専用リンクで田中様 + 山田部長様の Email 限定 access、30日後 自動 expire です。",
+          "sentence_translation": "Record raw 1h20 — em đã edit out phần price negotiation (28-35') và phần confidential (52-58') ạ. Link Drive read-only, giới hạn email anh Tanaka + sếp Yamada, tự động expire sau 30 ngày ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_33_good_08",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO担当",
+          "gender": "male",
+          "sentence": "素晴らしいご対応、ありがとうございます。",
+          "sentence_translation": "Xử lý tuyệt vời, cảm ơn anh.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_33_kp_01",
+      "speaker": "zun",
+      "sentence": "本日 本セッションを録画させていただきます。全員のご許可をいただいてから REC 開始いたします。",
+      "sentence_translation": "Hôm nay em xin phép quay video buổi này ạ. Em xin permission của tất cả rồi mới bắt đầu REC ạ.",
+      "purpose": "REC 全員同意取得",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_33_kp_02",
+      "speaker": "zun",
+      "sentence": "Drive 閲覧専用リンク、Email 限定 access、〇日後 自動 expire です。",
+      "sentence_translation": "Link Drive read-only, giới hạn email, tự động expire sau 〇 ngày ạ.",
+      "purpose": "限定共有 framework 説明",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_33_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "プレゼン録画依頼への適切な対応は？",
+      "options": [
+        "Surprise REC して raw MP4 メール送付",
+        "事前許可 → 全員同意 → 編集 → Drive 限定共有 + expire",
+        "断る",
+        "Personal Gmail で送る"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "Privacy + confidentiality 両保護のため、4ステップ全て必須。Surprise REC は最大の信頼破壊。",
+        "vi": "Bảo vệ cả privacy + confidentiality cần đủ 4 bước. Surprise REC phá trust nhất."
+      }
+    }
+  ]
+}

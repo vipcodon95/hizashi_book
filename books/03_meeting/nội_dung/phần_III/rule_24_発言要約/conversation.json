@@ -1,0 +1,169 @@
+{
+  "rule_id": "rule_24",
+  "rule_slug": "相手の発言を要約",
+  "title": {
+    "ja": "相手の発言を要約",
+    "vi": "Tóm tắt ý kiến của người khác"
+  },
+  "rule_context": {
+    "ja": "松本PMが5分かけて決済モジュールの3つの変更点（PayPay/LINE Pay追加・返金フロー修正・ベトナム語UI更新）を説明。ズンが箇条書きでパラフレーズして確認する場面。",
+    "vi": "Anh Matsumoto giải thích 5 phút về 3 thay đổi module thanh toán (thêm PayPay/LINE Pay, sửa flow hoàn tiền, update UI tiếng Việt). Em Dũng phải paraphrase đếm rõ 3 điểm để confirm."
+  },
+  "related_rules": [
+    "rule_21",
+    "rule_22",
+    "rule_44"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 「了解しました」だけ",
+      "label_vi": "XẤU — Chỉ 'rõ rồi ạ'",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「了解しました」だけでは3点全てを正確に把握したか不明。後で抜け漏れがあっても本人気付かない。",
+        "vi": "Chỉ 「了解しました」 không chứng minh đã hiểu đủ 3 điểm. Sau này thiếu sót cũng không biết để correct."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_24_bad_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "…以上が変更点となります。",
+          "sentence_translation": "...Trên đây là các điểm thay đổi.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_24_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "はい、了解しました。",
+          "sentence_translation": "Vâng em rõ ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_24_bad_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "LINE Pay と返金フローはどうなっていますか？前回お話したと思うのですが…",
+          "sentence_translation": "LINE Pay và flow hoàn tiền thì sao? Tôi nghĩ lần trước đã nói rồi mà...",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 3点に整理してパラフレーズ",
+      "label_vi": "TỐT — Đếm 3 điểm, paraphrase rồi confirm",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_24_good_02",
+          "highlight_text": "3点",
+          "ja": "数を明示することで漏れチェックが容易になる。",
+          "vi": "Chỉ rõ số điểm giúp dễ kiểm tra thiếu sót."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_24_good_02",
+          "highlight_text": "という認識でよろしいでしょうか",
+          "ja": "確認を求める標準フレーズ。相手に修正の機会を提供。",
+          "vi": "Câu chuẩn để xin confirm. Cho đối phương cơ hội correct."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_24_good_04",
+          "highlight_text": "①と②を最優先、③は後回し可能、と理解いたしました",
+          "ja": "相手の修正を受けてもう一度言い直す二重確認。",
+          "vi": "Sau khi đối phương correct, restate lại lần nữa = double confirm."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_24_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "…以上が変更点となります。",
+          "sentence_translation": "...Trên đây là các điểm thay đổi.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_24_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "松本様のおっしゃるのは、3点の変更——①決済ゲートウェイにPayPayとLINE Payの追加、②返金ワークフローの修正、③ベトナム語メッセージの更新——という認識でよろしいでしょうか？",
+          "sentence_translation": "Anh Matsumoto, anh nói gồm 3 điểm thay đổi — (1) thêm PayPay và LINE Pay vào cổng thanh toán, (2) sửa workflow hoàn tiền, (3) update message tiếng Việt — em hiểu đúng không ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_24_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "はい、その通りです。ただ、③については優先度低でも構いません。",
+          "sentence_translation": "Đúng rồi. Riêng (3) thì priority thấp cũng được nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_24_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "承知しました。①と②を最優先、③は後回し可能、と理解いたしました。",
+          "sentence_translation": "Vâng em rõ ạ. Em hiểu là (1) và (2) ưu tiên cao nhất, (3) có thể để sau ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_24_kp_01",
+      "speaker": "zun",
+      "sentence": "〇〇様のおっしゃるのは、〜という認識でよろしいでしょうか？",
+      "sentence_translation": "Anh/chị 〇〇 nói là 〜, em hiểu đúng không ạ?",
+      "purpose": "発言要約・確認の標準フレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_24_kp_02",
+      "speaker": "zun",
+      "sentence": "〇点の変更——①〜、②〜、③〜——という認識でよろしいでしょうか？",
+      "sentence_translation": "〇 điểm thay đổi gồm (1)〜, (2)〜, (3)〜, em hiểu đúng không ạ?",
+      "purpose": "箇条書きでまとめて確認するフレーズ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_24_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "顧客が複数の変更点を一度に説明した。最善の対応はどれか？",
+      "options": [
+        "「了解しました」と一言返事",
+        "黙ってメモを取る",
+        "箇条書きで要約し「という認識でよろしいでしょうか」と確認する",
+        "後でメールで確認する"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "その場で要約確認することで認識ズレを防ぎ、相手にも修正の機会を提供できる。",
+        "vi": "Tóm tắt confirm tại chỗ tránh miscom + cho đối phương cơ hội correct."
+      }
+    }
+  ]
+}

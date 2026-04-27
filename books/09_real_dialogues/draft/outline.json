@@ -1,0 +1,329 @@
+{
+  "$schema_note": "Outline tổng cho Sách 09 — Hội thoại thực tế. Đây là DRAFT, cần review trước khi viết .md. Sau khi outline được duyệt, mỗi chương sẽ có file scenes.json riêng với đầy đủ dialogue (ja+vi từng dòng) — tương tự conversation.json của Sách 02-08, nhưng cấp 'scene' thay vì 'rule'.",
+  "book": "09_real_dialogues",
+  "version": "0.2-draft",
+  "last_updated": "2026-04-27",
+  "status": "DRAFT — đang chờ review",
+
+  "naming_convention": {
+    "$note": "Quy tắc đặt tên đồng nhất cho 8 chương. Apply nhất quán.",
+    "folder": "chương_NN_<slug_jp_kanji_or_romaji>",
+    "folder_examples": ["chương_01_展示会", "chương_02_ゴルフ", "chương_03_忘年会", "chương_04_出張"],
+    "folder_rule": "Slug = 1-2 từ tiếng Nhật (kanji ưu tiên, hoặc romaji nếu là loanword như ゴルフ→golf). Tránh slug VN dài.",
+    "title_h1": "# Chương NN — <Tên VN tự nhiên> / <Tên JP ngắn>",
+    "title_examples": [
+      "# Chương 01 — Một ngày tại triển lãm IT WEEK Tokyo / IT WEEK東京・1日同行記",
+      "# Chương 02 — Cuối tuần đi golf cùng khách / 週末ゴルフ同行記",
+      "# Chương 03 — Tiệc tất niên 忘年会 / 忘年会の夜"
+    ],
+    "scene_h2": "## Scene N — HH:MM · <Địa điểm cụ thể, không chỉ chung chung>",
+    "scene_examples": [
+      "## Scene 1 — 08:30 · Cổng đông Tokyo Big Sight (ga Kokusai-Tenjijō)",
+      "## Scene 4 — 10:30 · Booth của Việt Quang Software (Hall East 3)"
+    ]
+  },
+
+  "dialogue_format": {
+    "$note": "Format dialogue trong file .md xuất bản. Để TTS pipeline + chuyển sang DB sau này, dùng schema JSON song song.",
+    "md_pattern": "Mỗi câu hội thoại trên 2 dòng:\n- Dòng 1: **<Speaker_jp>**: 「<câu JP>」\n- Dòng 2: *<câu VN dịch tự nhiên, italic>*\n\nGiữa các lượt cách 1 dòng trống.",
+    "md_example": "**松本**: 「ズンさん、おはようございます!早いね。」\n*Dũng-san, chào cậu! Đến sớm nhỉ.*\n\n**ズン**: 「松本さん、おはようございます。今朝の電車空いてました。」\n*Anh Matsumoto, chào anh. Tàu sáng nay vắng ạ.*",
+    "json_pattern": "Schema giống conversation.json của Sách 02-08 — mỗi line có {speaker, ja, vi}. Speaker key tham chiếu voice_profiles.json.",
+    "vi_translation_principle": "Dịch tự nhiên giọng nói VN, KHÔNG dịch word-by-word. Giữ tone (trang trọng/thân mật) tương ứng. Particle JP (ね/よ/か) thể hiện qua ngữ điệu VN (nhỉ/đó/ạ/à)."
+  },
+
+  "fictional_brands": {
+    "$note": "Để tránh vấn đề pháp lý/uy tín, dùng tên fictional cho cty VN. Brand thật JP (AWS, Microsoft, Tokyo Banana) + người nổi tiếng học thuật (Andrew Ng) giữ nguyên — đây là dịch vụ/sản phẩm/người trung tính, mention không gây hại.",
+    "vn_competitors_fictional": [
+      {
+        "key": "thanh_ha",
+        "name_vi": "Thanh Hà Software",
+        "name_jp_katakana": "タインハー・ソフトウェア",
+        "name_jp_short": "タインハー",
+        "type": "Cty VN-JP, ≈500 nhân viên, có Tokyo office",
+        "headquarters": "TP.HCM (HQ) + Tokyo (chi nhánh JP)",
+        "use_for": "Đối thủ chính của Thiên Phát, xuất hiện ở event/triển lãm JP. Default đối thủ cho mọi scene cần competitor."
+      }
+    ],
+    "fictional_individuals": [
+      {
+        "key": "hung_thanh_ha",
+        "name_vi": "anh Hùng (Thanh Hà)",
+        "name_jp": "フン (タインハー)",
+        "full_name_vi": "Phạm Quốc Hùng",
+        "role": "BD trưởng văn phòng Tokyo của Thanh Hà Software",
+        "background": "Bạn cũ của Dũng từ thời sinh viên, đã sang Nhật 5 năm",
+        "use_for": "Người quen VN trong giới IT Nhật, gặp tại event/triển lãm"
+      }
+    ],
+    "real_brands_OK_to_mention": {
+      "$note": "Brand thật + người thật được phép nhắc trung tính, không bịa lời nói/hành động.",
+      "tech_vendors": ["AWS Japan", "Microsoft Japan", "Salesforce", "IBM Japan", "Google Cloud Japan"],
+      "tech_products": ["Bedrock", "Strands Agents", "Azure OpenAI", "Slack", "Notion"],
+      "academic_speakers": ["Andrew Ng (Stanford)", "Yann LeCun (Meta)", "GS. Matsuo Yutaka (東大)"],
+      "jp_food_culture_brands": ["東京ばな奈", "PRESS BUTTER SAND", "シュガーバターサンドの木", "白い恋人", "崎陽軒シウマイ"],
+      "jp_venues": ["Tokyo Big Sight", "Makuhari Messe", "Pacifico Yokohama"],
+      "jp_train_lines": ["Yamanote", "Yurikamome", "Tōkaidō Shinkansen"],
+      "guideline": "Mention được, KHÔNG bịa câu nói hoặc dialogue cho nhân vật thật (Andrew Ng nói qua video → OK 'theo nội dung keynote', KHÔNG bịa lời quote)"
+    }
+  },
+
+  "cast_reference": {
+    "$note": "Speaker key tham chiếu _shared/voice_profiles (đã có sẵn từ Sách 02-08). Đây chỉ list các speaker sẽ active trong Sách 09 + 1 nhân vật mới (hung_thanh_ha).",
+    "core_thien_phat": ["zun", "fuon", "tuan_leader", "linh", "hai", "ha_cto"],
+    "core_hakuo": ["matsumoto", "oogaki_sales", "tanaka_pmo", "nakamura_cfo"],
+    "regional_hakuo": ["hiroshi_chugoku", "yamamoto_kansai", "sato_kyushu", "kobayashi_okinawa", "ito_nagoya", "kato_gifu"],
+    "new_speakers_for_book_09": [
+      {
+        "key": "hung_thanh_ha",
+        "$comment": "Nhân vật mới — cần thêm vào _shared/voice_profiles.json khi outline được duyệt. Là người Việt nói JP fluent (5 năm Tokyo). Tone casual hơn Dũng vì cùng tuổi, friendly.",
+        "name_ja": "フン",
+        "name_vi": "anh Hùng (Thanh Hà)",
+        "company_jp": "タインハー・ソフトウェア",
+        "voice_traits": ["Vietnamese accent thoải mái", "JP fluent business level", "casual với Dũng vì bạn cũ"]
+      },
+      {
+        "key": "inoue_hakuo",
+        "$comment": "Senior 白鷗 booth lead, đã xuất hiện rồi ở chương 01 draft cũ. Cần thêm vào voice_profiles.",
+        "name_ja": "井上",
+        "name_vi": "anh Inoue",
+        "company_jp": "白鷗株式会社",
+        "voice_traits": ["40t Tokyo native", "booth runner năng lượng cao", "cảm ơn nhiều"]
+      },
+      {
+        "key": "demo_engineer_aws",
+        "$comment": "Generic demo engineer tại booth lớn. Có thể tái dùng cho nhiều scene.",
+        "name_ja": "AWSデモ担当",
+        "name_vi": "Nhân viên demo AWS",
+        "company_jp": "AWS Japan",
+        "voice_traits": ["clear JP business", "trained presenter voice"]
+      }
+    ]
+  },
+
+  "tinh_huong_principles": {
+    "$note": "Nguyên tắc 'đưa vào tình huống' — fix vấn đề chính: dialogue hiện tại quá smooth, thiếu micro-tension đời thực.",
+    "every_scene_needs_at_least_1_of": [
+      "Awkward moment (Dũng nuốt câu / nói nhầm / hiểu sai từ JP)",
+      "Hiccup ngoài dự kiến (khách đến trễ, demo bị cắt ngang, mưa to, tàu delay)",
+      "Micro-tension cần xử lý nhẹ (Tanaka hỏi câu khó, Ōgaki nhắc Dũng cẩn thận, sếp Tuấn ra hiệu mắt)",
+      "Internal monologue Dũng (italic, 1 câu — Dũng nghĩ gì khi đang nghe)"
+    ],
+    "scene_pacing": "Mỗi scene 5-12 lượt dialogue. Nếu >15 lượt, chia 2 scene. KHÔNG quá smooth — phải có 1 chỗ 'gập' nhỏ.",
+    "good_example_in_old_draft": "Scene 5 (game booth) — có micro-tension nhường lượt quay + chuyển sticker cho con Tanaka.",
+    "fix_examples_for_old_chương_01": [
+      "Scene 1: Thêm Dũng đứng nhầm cửa Tây thay vì cửa Đông 5 phút, phải chạy qua → tan băng đầu ngày.",
+      "Scene 3: Tuấn hỏi câu kỹ thuật — Dũng định hỏi câu của mình nhưng nuốt vì sợ ngu, demo girl nhìn Dũng chờ → khoảnh khắc ngại.",
+      "Scene 7: Keynote bằng tiếng Anh, tai nghe phiên dịch JP của Dũng bị rè 5 phút → phải mượn của Tuấn."
+    ]
+  },
+
+  "chương": [
+    {
+      "id": 1,
+      "slug": "展示会",
+      "title_vi": "Một ngày tại triển lãm IT WEEK Tokyo",
+      "title_jp": "IT WEEK東京・1日同行記",
+      "boi_canh": "Tháng 5/2026, Tokyo Big Sight, Japan IT Week Spring. Joint visit Thiên Phát × 白鷗.",
+      "cast_present": ["zun", "tuan_leader", "matsumoto", "oogaki_sales", "tanaka_pmo", "hung_thanh_ha", "inoue_hakuo", "demo_engineer_aws"],
+      "scene_count": 10,
+      "scenes_outline": [
+        { "n": 1, "time": "08:30", "location": "Cổng đông Tokyo Big Sight", "key_event": "Chào đầu ngày + cập nhật ai đến giờ nào", "tension": "Dũng tưởng đứng đúng cửa nhưng cửa Tây — phải chạy qua cửa Đông, đến đúng lúc Matsumoto vừa tới" },
+        { "n": 2, "time": "09:00", "location": "Khu Registration + Badge (Hall West)", "key_event": "Lấy badge, Tanaka đã có sẵn", "tension": "Badge Dũng in nhầm 'Tien Phat Co' (thiếu dấu) → Tanaka chỉ cách báo lễ tân in lại" },
+        { "n": 3, "time": "09:30", "location": "Booth AWS Japan (Hall East 1)", "key_event": "Xem demo AI migration, Tuấn hỏi câu kỹ thuật", "tension": "Dũng định hỏi câu nhưng nuốt vì sợ basic — sau Ōgaki nhỏ giọng dạy 'câu cụ thể với số là chìa khóa'" },
+        { "n": 4, "time": "10:30", "location": "Booth Việt Quang Software (Hall East 3)", "key_event": "Gặp Hùng (bạn cũ Dũng) - đối thủ cùng VN", "tension": "Dũng switch tiếng Việt 30 giây với Hùng → Ōgaki ho nhẹ → Dũng switch JP ngay, học bài học" },
+        { "n": 5, "time": "11:30", "location": "Game booth (Hall West 2)", "key_event": "Quay vòng số trúng quà, Dũng tặng sticker cho con Tanaka", "tension": "Giữ scene cũ — đây là model good" },
+        { "n": 6, "time": "12:30", "location": "Food court Hall South", "key_event": "Bữa trưa, chuyển sang topic gia đình", "tension": "Dũng order nhầm bento cay (chưa biết 激辛) → Ōgaki cười + đưa nước" },
+        { "n": 7, "time": "14:00", "location": "Keynote Hall (Andrew Ng video)", "key_event": "Nghe keynote AI Outlook 2026", "tension": "Tai nghe phiên dịch JP Dũng bị rè → phải dùng app live caption tiếng Anh trên điện thoại" },
+        { "n": 8, "time": "15:30", "location": "Booth 白鷗 (Hall East 5)", "key_event": "Đến booth khách, offer giúp việc", "tension": "Dũng offer phát flyer → Inoue ngại nhưng đồng ý → flyer hết giữa chừng → Dũng phải đi tìm bổ sung" },
+        { "n": 9, "time": "17:00", "location": "Souvenir corner Big Sight", "key_event": "Mua omiyage, Dũng đưa 1 cái cho Matsumoto", "tension": "Dũng định mua cho cả 3 nhưng Tuấn ra hiệu chỉ 1 cái symbolic — học bài 'less is more'" },
+        { "n": 10, "time": "18:00", "location": "Ga Shinbashi — chia tay", "key_event": "Chia tay tại sân ga, lên các tàu khác hướng", "tension": "Tàu Tōkaidō đến đột ngột → Matsumoto + Tanaka phải vẫy tay vội → Dũng kịp đưa bag souvenir trước khi cửa đóng" }
+      ],
+      "recap_concept": "Recap cuối ngày — Dũng note app điện thoại, 3 điều rút ra + 4 action items. Action item 'Hùng' (không phải Tài/FPT)."
+    },
+    {
+      "id": 2,
+      "slug": "ゴルフ",
+      "title_vi": "Cuối tuần đi golf cùng khách",
+      "title_jp": "週末ゴルフ同行記",
+      "boi_canh": "Thứ 7 tháng 6/2026, sân golf Chiba (≈1.5h từ Tokyo). Matsumoto rủ Dũng + Tuấn round 18 lỗ. Khách thêm: Ōgaki + 1 senior tech bên 白鷗 (mới).",
+      "cast_present": ["zun", "tuan_leader", "matsumoto", "oogaki_sales"],
+      "scene_count": 12,
+      "scenes_outline": [
+        { "n": 1, "time": "05:30", "location": "Trước khách sạn Shinjuku", "key_event": "Đón taxi đi sân golf", "tension": "Dũng dậy quá sớm, ngái ngủ — Tuấn nhắc 'đừng để khách thấy ngáp'" },
+        { "n": 2, "time": "07:00", "location": "Club house, locker room", "key_event": "Thay đồ, gặp Ōgaki, cà phê sáng", "tension": "Dũng không biết quy tắc thay giày trong locker → Tuấn dạy nhanh 30 giây" },
+        { "n": 3, "time": "07:30", "location": "Driving range warmup", "key_event": "Đánh thử 20 quả", "tension": "Dũng đánh trượt 5 quả liền → Matsumoto cười 'tôi cũng vậy hồi đầu'" },
+        { "n": 4, "time": "08:00", "location": "Hole 1 — tee shot đầu tiên", "key_event": "Open round, Dũng đánh thứ 4", "tension": "Tee shot Dũng đi lệch sang fairway hole 2 → 一発OB nhưng Ōgaki gọi 'mulligan' miễn phí cho Dũng" },
+        { "n": 5, "time": "09:30", "location": "Hole 5 — par 3 shot icon", "key_event": "Hole đẹp nhất sân, photo opportunity", "tension": "Ōgaki bảo 'chụp ảnh kỷ niệm đi' → Dũng quên mang điện thoại ra bag golf, phải chạy về cart" },
+        { "n": 6, "time": "11:00", "location": "Hole 9 — finish front nine", "key_event": "Tổng kết 9 hole đầu, đi vào club house ăn trưa", "tension": "Dũng score 65 (par 36 → +29) ngại — Matsumoto nói 'enjoy chính, score phụ'" },
+        { "n": 7, "time": "11:30", "location": "Restaurant club house — bữa trưa", "key_event": "Ăn katsu-curry truyền thống, 1 bia (Ōgaki + Matsumoto), Dũng + Tuấn nước", "tension": "Ōgaki gợi 'bia 1 ly?' → Dũng từ chối khéo vì còn 9 hole + lái về" },
+        { "n": 8, "time": "12:30", "location": "Hole 10 — tee off back nine", "key_event": "Bắt đầu 9 hole sau", "tension": "Trời chuyển mây — Tuấn nhắc Dũng kiểm tra weather app" },
+        { "n": 9, "time": "14:00", "location": "Hole 14 — bunker shot", "key_event": "Bóng vào bunker, Dũng phải đánh ra", "tension": "Ōgaki dạy stance bunker shot — Dũng học ngay, đánh ra được, Ōgaki vỗ vai" },
+        { "n": 10, "time": "15:30", "location": "Hole 18 — finish round", "key_event": "Hole cuối, Matsumoto putt birdie", "tension": "Dũng làm caddie cầm cờ pin → đặt sai vị trí, Matsumoto cười nhẹ chỉ chỗ đúng" },
+        { "n": 11, "time": "16:00", "location": "Onsen trong club house (1.5h)", "key_event": "Tắm onsen sau round", "tension": "Dũng lần đầu onsen với khách JP — sách 07 đã dạy nhưng vẫn lúng túng khăn nhỏ" },
+        { "n": 12, "time": "17:30", "location": "Lobby club house — chia tay", "key_event": "Score card sign-off, hẹn lần sau", "tension": "Matsumoto đề nghị 'tháng sau cùng đi nữa' — Dũng vui nhưng tính đến lịch dự án sắp tới, suy nghĩ 1 nhịp trước khi nhận" }
+      ],
+      "recap_concept": "Recap trên xe taxi về Tokyo — Dũng + Tuấn nhắn lại 3 điều: (1) Mulligan = gesture trust, (2) Onsen sau golf là tradition, (3) Matsumoto rủ next time = signal relationship deepen"
+    },
+    {
+      "id": 3,
+      "slug": "忘年会",
+      "title_vi": "Tiệc tất niên cuối năm 忘年会",
+      "title_jp": "忘年会の夜",
+      "boi_canh": "Thứ 6, 19/12/2026, izakaya Shinbashi 19:00-22:30. Toàn bộ team JP của 白鷗 (≈12 người) + 5 cty Thiên Phát (Dũng + Tuấn + Hương + Linh + Hải).",
+      "cast_present": ["zun", "tuan_leader", "fuon", "linh", "hai", "matsumoto", "oogaki_sales", "tanaka_pmo", "nakamura_cfo", "yamamoto_kansai", "sato_kyushu"],
+      "scene_count": 11,
+      "scenes_outline": [
+        { "n": 1, "time": "18:45", "location": "Trước izakaya Shinbashi", "key_event": "Tập trung trước cửa, đếm số người", "tension": "Linh + Hải lần đầu dự bonenkai → Hương dặn nhanh 'kanpai chờ cụng', 'không tự rót cho mình'" },
+        { "n": 2, "time": "19:00", "location": "Tatami room izakaya", "key_event": "Xếp chỗ ngồi theo seniority (kamiza/shimoza)", "tension": "Dũng định ngồi gần Matsumoto vì thân nhất → Tuấn ra mắt 'để khách JP ngồi kamiza, mình shimoza'" },
+        { "n": 3, "time": "19:10", "location": "Bàn tatami", "key_event": "Order đồ uống đầu (toriaezu beer)", "tension": "Linh không uống bia → ngại order khác → Yamamoto (Kansai chị tốt) phát hiện, gợi ý 'oolong cũng OK đó em'" },
+        { "n": 4, "time": "19:20", "location": "Bàn tatami", "key_event": "Kanpai mở màn, Nakamura CFO speech 2 phút", "tension": "Speech Nakamura có cảm ơn Thiên Phát → Hương phải đáp lễ ngắn, gọi Tuấn dịch câu cảm ơn lại" },
+        { "n": 5, "time": "19:40", "location": "Bàn tatami", "key_event": "Đồ ăn ra liên tục, otsumami", "tension": "Hải ăn nhanh — Tuấn ra hiệu 'chậm lại, đợi khách dùng đũa trước'" },
+        { "n": 6, "time": "20:00", "location": "Bàn tatami", "key_event": "Round 2 đồ uống, không khí mở", "tension": "Sato (Fukuoka, 60t) gọi shochu → Dũng được mời 1 ly nhỏ — sách 08 đã học không từ chối senior" },
+        { "n": 7, "time": "20:30", "location": "Bàn tatami", "key_event": "Tanaka khoe ảnh con (Dũng nhớ chuyện sticker từ chương 01)", "tension": "Dũng kéo Linh vào câu chuyện 'em gặp con anh Tanaka qua ảnh chưa?' → Linh nervous nhưng hỏi đúng câu, Tanaka cảm động" },
+        { "n": 8, "time": "21:00", "location": "Bàn tatami", "key_event": "Yamamoto kể chuyện hài Osaka", "tension": "Joke Kansai-ben Linh không hiểu 30% → cười theo gượng → Hải ghé tai dịch nhanh" },
+        { "n": 9, "time": "21:30", "location": "Bàn tatami", "key_event": "Ōgaki kéo Tuấn nói chuyện business nhỏ giọng", "tension": "Phase 5 hint — Tuấn cẩn thận nghe, không pitch, chỉ note → Hương ra hiệu 'đừng deep tonight, sẽ confirm chính thức'" },
+        { "n": 10, "time": "22:00", "location": "Cửa izakaya — niji-kai (tăng 2)", "key_event": "Một nửa khách rủ tăng 2 karaoke", "tension": "Hương quyết: Tuấn + Dũng đi tăng 2 với khách, Hương + Linh + Hải về (tránh 残業 quá khuya cho rookie)" },
+        { "n": 11, "time": "22:30", "location": "Trên đường đi karaoke", "key_event": "5 phút đi bộ tới karaoke", "tension": "Matsumoto đi cạnh Dũng, casual hỏi 'next year sang Nhật onsite không?' — Dũng bất ngờ, trả lời thật lòng 'em muốn'" }
+      ],
+      "recap_concept": "Recap sáng thứ 7 — Dũng dậy 9h, mở memory bank: (1) Bonenkai = nơi seniority không cứng nhắc, (2) Linh đã 'pass' bài đầu tiên, (3) Matsumoto question signal = career inflection point"
+    },
+    {
+      "id": 4,
+      "slug": "出張",
+      "title_vi": "Onsite Nhật 1 tuần lần đầu",
+      "title_jp": "初めての1週間出張",
+      "boi_canh": "Tháng 9/2026, Dũng đi 1 tuần Tokyo office của 白鷗. Mục tiêu: kickoff Phase 5 + meet team chưa gặp. Lịch: Mon-Fri làm việc, Sat free về VN.",
+      "cast_present": ["zun", "matsumoto", "oogaki_sales", "tanaka_pmo", "nakamura_cfo", "inoue_hakuo", "ito_nagoya"],
+      "scene_count": 14,
+      "scenes_outline": [
+        { "n": 1, "time": "Sun 22:00", "location": "Sân bay Narita arrival", "key_event": "Hạ cánh, làm thủ tục, đi tàu N'EX", "tension": "Va-li Dũng bị giữ kiểm tra hải quan 20 phút → muộn N'EX kế tiếp" },
+        { "n": 2, "time": "Sun 23:30", "location": "Hotel check-in Shinjuku", "key_event": "Check-in, nhận key, lên phòng", "tension": "Lễ tân hỏi smoking/non-smoking JP → Dũng quên từ '禁煙' (kinen) → ngại 5 giây" },
+        { "n": 3, "time": "Mon 08:30", "location": "Sảnh Hakuō Tokyo HQ", "key_event": "Dũng đến sớm 30', security gate", "tension": "Visitor pass cần ID — Dũng quên mang passport → may có thẻ visa work, được vào" },
+        { "n": 4, "time": "Mon 09:00", "location": "Conference room Hakuō, kickoff Phase 5", "key_event": "Họp 2h với Matsumoto + Ōgaki + Inoue + Tanaka", "tension": "Dũng được giới thiệu present 5 phút → run vì là first time present alone tại Tokyo HQ" },
+        { "n": 5, "time": "Mon 12:30", "location": "Cafeteria Hakuō", "key_event": "Lunch tray với Tanaka", "tension": "Tanaka nhắc 'congrats present hôm nay' → Dũng không quen lời khen, đỏ mặt 'まだまだです'" },
+        { "n": 6, "time": "Tue 14:00", "location": "Tokyo office floor 8 — engineering team", "key_event": "Tour around, gặp 5 senior engineers chưa biết", "tension": "Một engineer Itoki-san (Nagoya gốc, ito_nagoya) hỏi câu tech sâu → Dũng không biết, nhờ Slack Tuấn ở VN gửi link tham khảo" },
+        { "n": 7, "time": "Wed 19:00", "location": "Izakaya Roppongi với Matsumoto + 2 colleagues", "key_event": "Dinner 4 người", "tension": "Matsumoto order otsukuri (sashimi sống) — có 1 món Dũng không quen (uni) → ăn lịch sự, Matsumoto thấy nhăn mặt nhẹ, đổi sang ebi" },
+        { "n": 8, "time": "Thu 10:00", "location": "Phòng Nakamura CFO", "key_event": "1-on-1 với Nakamura 30 phút", "tension": "Nakamura hỏi 'Dũng nghĩ thế nào về team Tokyo?' — câu rất senior level, Dũng cẩn thận trả lời quan sát chứ không đánh giá" },
+        { "n": 9, "time": "Thu 18:00", "location": "Convenience store gần hotel", "key_event": "Mua đồ tối ăn trong phòng", "tension": "Dũng mệt, tự thưởng 1 bento + 1 lon Asahi → ăn 1 mình trong phòng, nhớ HCMC" },
+        { "n": 10, "time": "Fri 09:30", "location": "Conference room — closing meeting", "key_event": "Tổng kết tuần, schedule next visit", "tension": "Ōgaki đề xuất Dũng quay lại sớm — Dũng cảm ơn, tránh hứa cụ thể vì cần check Hương" },
+        { "n": 11, "time": "Fri 12:00", "location": "Sảnh chia tay Hakuō HQ", "key_event": "Inoue + Tanaka tiễn ra cửa, đưa omiyage cho team Thiên Phát", "tension": "Omiyage nặng (≈3kg bánh) → Dũng phải nghĩ check-in luggage, lo over weight" },
+        { "n": 12, "time": "Fri 19:00", "location": "Don Quijote Shinjuku", "key_event": "Mua omiyage tự cho gia đình + bạn", "tension": "Mua quá nhiều — checkout mới thấy hơn budget, phải bỏ lại 2 món" },
+        { "n": 13, "time": "Sat 06:00", "location": "Hotel check-out → Narita Express", "key_event": "Check-out, đi sân bay", "tension": "Va-li 23.5kg (limit 23kg) — Dũng phải mở ra di chuyển 1 hộp bánh sang carry-on tại counter" },
+        { "n": 14, "time": "Sat 14:00", "location": "Trên máy bay về HCMC", "key_event": "Ngồi cạnh cửa sổ, viết memory bank tuần", "tension": "Internal monologue dài — không tension ngoài, tension nội tâm về sự thay đổi của bản thân" }
+      ],
+      "recap_concept": "Recap trên máy bay — Dũng viết list 5 thứ học được + 3 mistake không lặp + 1 self-promise 'lần sau speak up sớm hơn trong meeting'"
+    },
+    {
+      "id": 5,
+      "slug": "来訪",
+      "title_vi": "Tiếp khách Nhật visit HCMC 3 ngày",
+      "title_jp": "白鷗ご来訪・3日間",
+      "boi_canh": "Tháng 11/2026, đoàn 5 người 白鷗 (Matsumoto, Ōgaki, Tanaka, 1 senior dev, 1 sales junior) sang HCMC 3 ngày kickoff Phase 5 onsite. Thiên Phát host.",
+      "cast_present": ["zun", "tuan_leader", "fuon", "linh", "hai", "ha_cto", "matsumoto", "oogaki_sales", "tanaka_pmo"],
+      "scene_count": 13,
+      "scenes_outline": [
+        { "n": 1, "time": "Mon 18:00", "location": "Sân bay Tân Sơn Nhất arrival", "key_event": "Đón đoàn JP", "tension": "Bảng đón Dũng cầm có lỗi typo '白鵬' (sumo) thay vì '白鷗' → Tuấn phát hiện 30 giây trước, sửa kịp" },
+        { "n": 2, "time": "Mon 19:30", "location": "Xe van từ sân bay về quận 1", "key_event": "Di chuyển 45', giao thông đông", "tension": "Đoàn JP shock với mật độ xe máy → Dũng giải thích tự nhiên, Matsumoto cười 'tôi đọc nhiều, hôm nay thấy thật'" },
+        { "n": 3, "time": "Mon 20:30", "location": "Welcome dinner — nhà hàng VN ngon ở quận 1", "key_event": "Bữa tối welcome", "tension": "Order phần cho khách — Tanaka ăn chay (lần đầu Dũng biết) → phải đổi 2 món, Hương cứu giúp gọi món chay" },
+        { "n": 4, "time": "Tue 09:00", "location": "Văn phòng Thiên Phát quận 7", "key_event": "Tour office + giới thiệu team", "tension": "Phòng meeting bị mất điện 5 phút (cúp điện luân phiên) → Dũng giải thích bình tĩnh, máy phát chạy lại" },
+        { "n": 5, "time": "Tue 11:00", "location": "Phòng họp lớn", "key_event": "Phase 5 kickoff workshop 2h", "tension": "Slide tiếng Anh nhưng team JP đề nghị JP — Dũng phải dịch live, mệt nhưng làm được" },
+        { "n": 6, "time": "Tue 12:30", "location": "Phở quán gần office", "key_event": "Lunch phở quán địa phương", "tension": "Ōgaki gặp khó với đũa lớn + thìa to → Dũng + Linh demo 'kéo bún + húp nước'" },
+        { "n": 7, "time": "Tue 18:00", "location": "Rooftop bar quận 1 view sông Saigon", "key_event": "Drinks chiều", "tension": "Trời mưa to bất ngờ 30 phút — phải dồn vào trong, không view → Tuấn xử lý gọi thêm trà nóng" },
+        { "n": 8, "time": "Wed 08:30", "location": "Văn phòng Thiên Phát", "key_event": "Day 2 — deep dive technical với Hai + Hakuō dev", "tension": "Hai + Hakuō dev nói tech English thay vì JP — Tanaka không follow kịp, Dũng phải pause translate giữa chừng" },
+        { "n": 9, "time": "Wed 12:00", "location": "Cơm tấm quán bình dân", "key_event": "Lunch street food cho khách trải nghiệm", "tension": "Sales junior JP (28t) ăn cay không hợp → Dũng gọi nước dừa giải" },
+        { "n": 10, "time": "Wed 15:00", "location": "Phòng Hà CTO", "key_event": "Meeting Matsumoto + Hà CTO 1-on-1", "tension": "Dũng làm note-taker, lần đầu vào meeting executive level — tay run khi gõ keyboard" },
+        { "n": 11, "time": "Wed 19:00", "location": "Bia Saigon street stall quận 4", "key_event": "Dinner casual, bia hơi, hải sản", "tension": "Matsumoto thử ốc hương — cay nhẹ → cười 'đây mới là Việt Nam'" },
+        { "n": 12, "time": "Thu 09:00", "location": "Phòng họp", "key_event": "Day 3 — closing + sign-off", "tension": "Phải finalize MoU Phase 5 — Hương trang trọng đứng đọc, đoàn JP chăm chú nghe" },
+        { "n": 13, "time": "Thu 17:00", "location": "Sân bay Tân Sơn Nhất departure", "key_event": "Tiễn đoàn", "tension": "Dũng đưa omiyage VN cho Matsumoto (cà phê G7 + bánh kẹo) → Matsumoto lúng túng cảm ơn vì 'hôm trước đã nhận từ Hương'" }
+      ],
+      "recap_concept": "Recap trong phòng họp Thiên Phát sau khi tiễn đoàn — Hương + Tuấn + Dũng debrief 30 phút. Dũng note: 'host khách Nhật khó hơn đi onsite Nhật'"
+    },
+    {
+      "id": 6,
+      "slug": "温泉",
+      "title_vi": "Đi onsen 1 đêm cùng khách",
+      "title_jp": "温泉一泊・関係づくり",
+      "boi_canh": "Tháng 1/2027, sau Tết JP. Matsumoto + Ōgaki rủ Dũng + Tuấn weekend retreat onsen Atami (1 đêm). Mục tiêu: relationship deepen.",
+      "cast_present": ["zun", "tuan_leader", "matsumoto", "oogaki_sales"],
+      "scene_count": 11,
+      "scenes_outline": [
+        { "n": 1, "time": "Sat 09:00", "location": "Ga Tokyo Shinkansen platform", "key_event": "Đón Shinkansen Kodama đi Atami", "tension": "Dũng quên đặt seat reservation → phải ngồi tự do, may còn ghế cạnh nhau" },
+        { "n": 2, "time": "Sat 09:45", "location": "Trên Shinkansen", "key_event": "Trên tàu 45 phút", "tension": "Ōgaki mở bento sáng (eki-ben) chia cho cả nhóm → Dũng + Tuấn không biết phải nhận hay từ chối, nhận lịch sự" },
+        { "n": 3, "time": "Sat 10:30", "location": "Ga Atami arrival", "key_event": "Xuống tàu, xe đón ryokan", "tension": "Trời lạnh 5°C, Dũng mặc thiếu áo → Matsumoto cười cho mượn khăn quàng dự phòng" },
+        { "n": 4, "time": "Sat 11:00", "location": "Ryokan check-in lobby", "key_event": "Check-in, đổi giày, lên phòng", "tension": "Ryokan truyền thống — Dũng không biết quy tắc 上がり框 (genkan), giẫm lên tatami với giày → bà chủ ryokan nhắc nhẹ" },
+        { "n": 5, "time": "Sat 12:30", "location": "Phòng tatami chung 4 người", "key_event": "Lunch trong phòng — kaiseki nhẹ", "tension": "Món trông lạ — Dũng không biết tên 7/9 món → Matsumoto + Ōgaki tận tình giải thích từng món" },
+        { "n": 6, "time": "Sat 15:00", "location": "Onsen ngoài trời (rotenburo)", "key_event": "Tắm onsen lần 1 (60 phút)", "tension": "Dũng có hình xăm nhỏ ở vai (nhỏ, từ thời sinh viên) → ngại vì onsen cấm xăm, may xăm rất nhỏ + có band-aid che được" },
+        { "n": 7, "time": "Sat 17:00", "location": "Sảnh ryokan, trà chiều", "key_event": "Trà + wagashi chiều", "tension": "Trà matcha đắng — Dũng giả vờ thích, Matsumoto thấy mặt 'không ổn' đưa thêm wagashi ngọt cứu" },
+        { "n": 8, "time": "Sat 19:00", "location": "Phòng tatami — kaiseki dinner", "key_event": "Dinner kaiseki 12 món", "tension": "Sake nóng được rót — Dũng phải nhớ rule 'cầm chén bằng 2 tay nhận'" },
+        { "n": 9, "time": "Sat 21:00", "location": "Onsen indoor lần 2 (30 phút)", "key_event": "Tắm onsen sau dinner", "tension": "Ōgaki + Dũng còn 2 người — Ōgaki bắt đầu chia sẻ chuyện gia đình, Dũng lần đầu nghe senior open như vậy" },
+        { "n": 10, "time": "Sat 22:30", "location": "Phòng tatami — futon", "key_event": "Trải futon, chuẩn bị ngủ", "tension": "Dũng + Tuấn 1 phòng, Matsumoto + Ōgaki phòng khác — Dũng + Tuấn nói chuyện 30 phút bằng tiếng Việt review ngày" },
+        { "n": 11, "time": "Sun 11:00", "location": "Ga Atami departure", "key_event": "Lên Shinkansen về Tokyo", "tension": "Dũng đưa Matsumoto 1 lon cà phê hộp 130円 từ vending machine — gesture nhỏ, Matsumoto cảm động" }
+      ],
+      "recap_concept": "Recap trên Shinkansen về Tokyo — Dũng nhận ra: onsen retreat là 'chuyển đổi level relationship' từ 'business partner' sang 'cũng là người'"
+    },
+    {
+      "id": 7,
+      "slug": "新製品発表",
+      "title_vi": "Lễ ra mắt sản phẩm chung",
+      "title_jp": "合同新製品発表会",
+      "boi_canh": "Tháng 3/2027, Tokyo. Joint product launch 'Smart Bank Assistant' — sản phẩm Phase 4-5 của Thiên Phát × 白鷗. Event 200 khách. Dũng được giao 1 phần intro 5 phút.",
+      "cast_present": ["zun", "tuan_leader", "fuon", "matsumoto", "oogaki_sales", "nakamura_cfo", "inoue_hakuo"],
+      "scene_count": 12,
+      "scenes_outline": [
+        { "n": 1, "time": "Day-1 18:00", "location": "Hotel Pacifico Yokohama event hall", "key_event": "Dry run rehearsal cuối", "tension": "Mic Dũng bị rè ở phút 3 — Inoue chạy đi đổi mic mới, Dũng phải redo từ đầu" },
+        { "n": 2, "time": "Day-1 22:00", "location": "Phòng khách sạn Dũng", "key_event": "Đêm trước, Dũng review slide cuối", "tension": "Internal monologue — Dũng nervous, mở video YouTube TED talk để học rhythm" },
+        { "n": 3, "time": "Day 0 07:30", "location": "Lobby khách sạn", "key_event": "Sáng event day, breakfast nhanh", "tension": "Dũng không ăn được vì căng thẳng — Tuấn ép uống 1 ly trà ấm" },
+        { "n": 4, "time": "Day 0 08:30", "location": "Backstage event hall", "key_event": "Đến venue, kiểm tra slot", "tension": "Slide deck Dũng version mới chưa được upload lên screen → IT staff hỗ trợ upload trong 10 phút, Dũng đứng đợi tay run" },
+        { "n": 5, "time": "Day 0 09:00", "location": "Hành lang — meet 1 số khách JP đến sớm", "key_event": "Greet khách báo chí + analyst", "tension": "1 reporter hỏi câu surprise về cost — Dũng không có authority trả lời, lịch sự deflect 'sẽ có Q&A panel sau'" },
+        { "n": 6, "time": "Day 0 10:00", "location": "Stage — opening ceremony", "key_event": "Nakamura CFO opening 10 phút", "tension": "Nakamura có nhắc tên Thiên Phát + Dũng cá nhân → Dũng bất ngờ, đứng lên cúi đầu" },
+        { "n": 7, "time": "Day 0 10:30", "location": "Stage — Dũng intro 5 phút", "key_event": "Phần present của Dũng", "tension": "Phút 2, Dũng quên 1 từ tiếng Nhật chuyên môn → improvise dùng tiếng Anh 'API integration', khán giả cười nhẹ thông cảm" },
+        { "n": 8, "time": "Day 0 11:30", "location": "Q&A panel session", "key_event": "Panel 30 phút với Matsumoto + Tuấn + Ōgaki + Dũng", "tension": "1 câu hỏi technical Dũng ngại trả lời → Tuấn ra hiệu mắt 'em answer', Dũng mạnh dạn trả lời" },
+        { "n": 9, "time": "Day 0 12:30", "location": "Networking lunch buffet", "key_event": "Lunch + đi vòng giới thiệu", "tension": "Nhiều business card đưa ra cùng lúc — Dũng không kịp nhớ tên, ghi tay vào sổ giữa các cuộc" },
+        { "n": 10, "time": "Day 0 15:00", "location": "Booth demo — Dũng phụ Inoue", "key_event": "Demo session afternoon", "tension": "1 khách thử dùng demo nhưng app crash → Inoue + Dũng phối hợp restart, vừa xin lỗi vừa giải thích" },
+        { "n": 11, "time": "Day 0 18:00", "location": "Reception party event", "key_event": "Tiệc tối closing 2h", "tension": "Bia + 1 ít sake — Dũng giữ tỉnh để còn nhớ tên người gặp" },
+        { "n": 12, "time": "Day 0 22:00", "location": "Phòng khách sạn", "key_event": "Đêm sau event, viết note", "tension": "Internal monologue — Dũng cảm thấy lần đầu là 'người present trên stage Tokyo' chứ không chỉ 'người ngồi nghe'" }
+      ],
+      "recap_concept": "Recap đêm event day — Dũng viết long note: 'Hôm nay là một bản lề. Mình đã 'pass' được câu hỏi technical mà không cần Tuấn cứu.'"
+    },
+    {
+      "id": 8,
+      "slug": "結婚式",
+      "title_vi": "Tiệc cưới đồng nghiệp Nhật",
+      "title_jp": "同僚の結婚式に招かれて",
+      "boi_canh": "Tháng 5/2027, Tokyo. Tanaka PMO kết hôn, mời Dũng dự. Dũng bay từ HCMC sang 1 đêm cuối tuần. Lần đầu dự kekkonshiki Nhật.",
+      "cast_present": ["zun", "matsumoto", "oogaki_sales", "tanaka_pmo", "inoue_hakuo"],
+      "scene_count": 11,
+      "scenes_outline": [
+        { "n": 1, "time": "Tue tuần trước 09:00", "location": "Office Thiên Phát", "key_event": "Dũng nhận mời, hỏi Hương về goshugi", "tension": "Hương dạy nhanh: goshugi 30,000円 cho đồng nghiệp, gói shugi-bukuro mới, mặc đen suit hoặc dark navy" },
+        { "n": 2, "time": "Sat 11:30", "location": "Lobby chapel khách sạn Imperial Tokyo", "key_event": "Đến venue, ký sổ + đưa goshugi", "tension": "Dũng quên không gấp tờ tiền — phải sửa nhanh tại bàn lễ tân, lo bị chú ý" },
+        { "n": 3, "time": "Sat 12:00", "location": "Chapel — wedding ceremony Christian style", "key_event": "Lễ cưới chính thức 30 phút", "tension": "Dũng không hiểu kanji bài hát thánh ca → đứng lên/ngồi xuống theo hàng, không hát" },
+        { "n": 4, "time": "Sat 13:00", "location": "Reception hall", "key_event": "Tiệc reception bắt đầu — speech bố mẹ + sếp", "tension": "Sếp Tanaka (Nakamura CFO) speech 5 phút có nhắc 'Tanaka từng kể về anh Dũng từ Việt Nam' → Dũng ngạc nhiên + xúc động" },
+        { "n": 5, "time": "Sat 14:00", "location": "Bàn round 8 người", "key_event": "Course lunch Pháp 7 món", "tension": "Cùng bàn 6 người Dũng không biết → tự intro vòng tròn, 1 người ngạc nhiên 'Việt Nam à? Hay quá!' → mở topic 5 phút" },
+        { "n": 6, "time": "Sat 15:00", "location": "Bàn round", "key_event": "Cake cutting + cake feeding ceremony", "tension": "Dũng take video cho Tanaka + vợ, nhắn sau qua Slack" },
+        { "n": 7, "time": "Sat 15:30", "location": "Bàn round", "key_event": "Speech bạn bè cô dâu chú rể (3 người)", "tension": "1 speech rất hài Kansai-ben — Dũng không hiểu hết nhưng cười theo timing đúng nhờ quan sát phòng" },
+        { "n": 8, "time": "Sat 16:00", "location": "Hành lang reception", "key_event": "Break 15 phút — Matsumoto + Ōgaki cùng Dũng đứng", "tension": "Matsumoto hỏi Dũng 'thấy thế nào?' — Dũng trả lời chân thành 'lần đầu, em thấy gia đình Nhật ấm áp ngoài sức tưởng tượng'" },
+        { "n": 9, "time": "Sat 17:00", "location": "Reception cuối — bouquet toss", "key_event": "Cô dâu tung hoa", "tension": "Dũng đứng góc xa, không tham gia (nam, lại khách nước ngoài) — quan sát thôi" },
+        { "n": 10, "time": "Sat 17:30", "location": "Cửa reception — chia tay Tanaka + vợ", "key_event": "Đoàn khách lần lượt ra về, nhận hikidemono", "tension": "Hikidemono nặng (≈2kg) — Dũng cẩn thận xếp vào carry-on, lo về VN bị x-ray" },
+        { "n": 11, "time": "Sat 19:00", "location": "Pub Ginza — niji-kai sau wedding", "key_event": "Matsumoto + Ōgaki + Inoue + Dũng tăng 2", "tension": "Không khí relaxed sau wedding — Dũng được hỏi nhiều về cuộc sống ở HCMC, lần đầu kể chuyện gia đình mình với khách JP" }
+      ],
+      "recap_concept": "Recap trên máy bay sáng Sun về HCMC — Dũng viết: 'Một wedding = 1 năm relationship-building. Tanaka mời mình = mình đã 'in' rồi.'"
+    }
+  ],
+
+  "global_format_note": {
+    "scene_md_template": "Mỗi scene .md có:\n1. **## Scene N — HH:MM · Location** (heading)\n2. *Italic 1-2 câu mô tả khung cảnh* (setting)\n3. **Dialogue 2-dòng-format** — JP rồi VN italic dưới mỗi lượt\n4. (optional) **💡 Bí quyết — <topic>** sau scene khi cần dạy điểm cụ thể\n5. Internal monologue Dũng có thể chèn dạng *[Dũng nghĩ: ...]* italic riêng",
+    "chapter_md_template": "1. # Chương NN heading\n2. > Bối cảnh blockquote\n3. ## 💡 Bí quyết tổng (5 dòng)\n4. ## Scene 1...N\n5. ## 🌅 Recap của Dũng — code block app note",
+    "json_files_per_chapter": "Sau outline duyệt, mỗi chương có scenes.json riêng tại nội_dung/chương_NN_<slug>/scenes.json. Schema giống conversation.json của Sách 02-08 nhưng cấp scene."
+  },
+
+  "review_checklist_before_writing_md": [
+    "[ ] Naming convention OK (folder + h1 + h2)?",
+    "[ ] 8 chương cover đủ ngữ cảnh quan trọng (triển lãm/golf/bonenkai/出張/host khách/onsen/launch/wedding)?",
+    "[ ] Mỗi scene có ít nhất 1 micro-tension?",
+    "[ ] Brand fictional (4 cty VN + 1 nhân vật Hùng) có ổn không, hay đổi tên?",
+    "[ ] Cast hợp lý — không thừa không thiếu speaker?",
+    "[ ] Số lượng scene per chapter (10-14) có vừa? Hay nên +/- ?",
+    "[ ] Recap concept có nhất quán giữa 8 chương?",
+    "[ ] Có cần thêm chương nào không (vd: lần đầu nhận PIP, đi tang lễ cha của khách...)?"
+  ]
+}

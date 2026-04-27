@@ -1,0 +1,74 @@
+{
+  "rule_id": "rule_13",
+  "rule_slug": "数字・メール・氏名の復唱",
+  "title": {
+    "ja": "数字・メール・氏名の復唱",
+    "vi": "Lặp lại số / email / tên"
+  },
+  "rule_context": {
+    "ja": "電話で聞き間違えやすい数字・メール・氏名は部分復唱で確認。",
+    "vi": "Số, email, tên dễ nghe nhầm trên phone — lặp từng phần."
+  },
+  "related_rules": [
+    "rule_12"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "conversation_lines": [
+        {
+          "line_id": "rule_13_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "電話番号は090-1234-5678です。",
+          "sentence_translation": "Số điện thoại là 090-1234-5678 ạ.",
+          "tone": "neutral",
+          "speed_multiplier": 0.85
+        },
+        {
+          "line_id": "rule_13_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "復唱させていただきます。090-1234-5678、ぜろきゅうぜろの、いちにさんよんの、ごろくななはちでよろしいでしょうか。",
+          "sentence_translation": "Em xin lặp lại: 090-1234-5678 (ngắt từng nhóm) đúng không ạ?",
+          "tone": "formal",
+          "speed_multiplier": 0.8
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_13_kp_01",
+      "speaker": "zun",
+      "sentence": "数字を区切って復唱させていただきます。",
+      "sentence_translation": "Em xin lặp lại từng số ạ.",
+      "purpose": "数字確認の標準",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_13_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "電話番号を復唱する最良の方法は？",
+      "options": [
+        "全体を一度に",
+        "区切って一桁ずつ",
+        "省略して",
+        "確認しない"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "区切って一桁ずつが聞き間違い防止に最も効果的。",
+        "vi": "Tách từng số là cách hiệu quả nhất tránh nghe nhầm."
+      }
+    }
+  ]
+}

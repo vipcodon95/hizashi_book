@@ -1,0 +1,186 @@
+{
+  "rule_id": "rule_02",
+  "rule_slug": "会議招待メールの書き方",
+  "title": {
+    "ja": "会議招待メールの書き方",
+    "vi": "Gửi thông báo họp đúng cách"
+  },
+  "rule_context": {
+    "ja": "ズンが4月度月例会議の招待メールを松本PMと大垣営業部長宛に送る場面。件名・目的・アジェンダ添付・返信期限の4点を揃える。",
+    "vi": "Em Dũng gửi mail mời họp định kỳ tháng 4 cho anh Matsumoto và anh Ōgaki. Cần đủ 4 yếu tố: subject, mục đích, agenda đính kèm, deadline RSVP."
+  },
+  "related_rules": [
+    "rule_01",
+    "rule_05",
+    "rule_18"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 件名と情報が不足",
+      "label_vi": "XẤU — Mail mời cộc lốc, thiếu thông tin",
+      "display_order": 1,
+      "analysis": {
+        "ja": "件名が「会議について」で曖昧、目的・アジェンダ・返信期限なし。受け取った側は何の会議か判別できず、当日近くまで出欠が確定しない。",
+        "vi": "Subject mơ hồ, không nêu mục đích, không attach agenda, không có deadline RSVP. Khách reply chậm, đến gần ngày họp mới rõ tình hình."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_02_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "松本様、来週月曜15時から会議します。Zoomリンク添付。よろしくお願いします。",
+          "sentence_translation": "Anh Matsumoto, thứ hai tuần sau 15h họp ạ. Link Zoom đính kèm. Phiền anh nhé.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_02_bad_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ズンさん、何の会議でしょうか？大垣も同席必要ですか？資料は？",
+          "sentence_translation": "Dũng, họp gì vậy? Anh Ōgaki có cần ngồi cùng không? Tài liệu thì sao?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_02_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "すみません、月例会議です。大垣様もご出席いただければ…資料は今作っております。",
+          "sentence_translation": "Em xin lỗi, là họp định kỳ ạ. Nếu anh Ōgaki dự được thì... tài liệu em đang làm ạ.",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_02_bad_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "申し訳ない、来週月曜は別件があります。アジェンダと目的を見て調整したかったので…",
+          "sentence_translation": "Xin lỗi, thứ hai tuần sau tôi có việc khác. Tôi muốn xem agenda và mục đích để xếp lịch nhưng...",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 4要素揃った招待メール",
+      "label_vi": "TỐT — Mail mời đủ 4 yếu tố",
+      "display_order": 2,
+      "analysis": {
+        "ja": "件名で会議名と日時を明示、本文で目的→アジェンダ添付→返信期限の流れ。受信者は priority と必要な準備をその場で判断できる。",
+        "vi": "Subject ghi rõ tên họp + thời gian. Body theo flow: mục đích → agenda đính kèm → deadline RSVP. Khách quyết được ngay priority và cần chuẩn bị gì."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_02_good_01",
+          "highlight_text": "ご案内申し上げます",
+          "ja": "「ご案内します」より丁寧度が高い。社外宛て会議招待メールの定型句。",
+          "vi": "Trang trọng hơn 「ご案内します」. Là cụm chuẩn cho mail mời họp gửi khách ngoài công ty."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_02_good_03",
+          "highlight_text": "ご返信いただけますと幸いです",
+          "ja": "返信を依頼する丁寧表現。「返信してください」は命令調になるため不可。",
+          "vi": "Cách lịch sự để xin reply. 「返信してください」 sẽ thành mệnh lệnh, không phù hợp với khách."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_02_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "松本様、お世話になっております。ティエンファットのズンでございます。下記のとおり4月度月例会議を開催いたしたく、ご案内申し上げます。",
+          "sentence_translation": "Anh Matsumoto, lúc nào cũng cảm ơn anh giúp đỡ ạ. Em Dũng bên Thiên Phát đây ạ. Em xin trân trọng thông báo về buổi họp định kỳ tháng 4 như dưới đây ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_02_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "目的はPhase 2 進捗共有と5月スコープ合意の2点でございます。アジェンダを添付いたしましたので、ご確認のほどお願い申し上げます。",
+          "sentence_translation": "Mục đích gồm 2 điểm: chia sẻ tiến độ Phase 2 và thống nhất scope tháng 5 ạ. Em đã đính kèm agenda, phiền anh xem giúp em ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_02_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご出欠を4月25日（金）17時までにご返信いただけますと幸いです。",
+          "sentence_translation": "Phiền anh phản hồi giúp em việc tham dự trước 17h thứ Sáu ngày 25/4 ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_02_good_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ご案内ありがとうございます。出席いたします。大垣にも共有しておきます。",
+          "sentence_translation": "Cảm ơn Dũng đã thông báo. Tôi sẽ tham dự. Tôi cũng sẽ chia sẻ cho anh Ōgaki nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_02_kp_01",
+      "speaker": "zun",
+      "sentence": "下記のとおり〇〇会議を開催いたしたく、ご案内申し上げます。",
+      "sentence_translation": "Em xin trân trọng thông báo về buổi họp 〇〇 như dưới đây ạ.",
+      "purpose": "会議招待メールのオープニング定型句",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_02_kp_02",
+      "speaker": "zun",
+      "sentence": "ご出欠を〇月〇日〇時までにご返信いただけますと幸いです。",
+      "sentence_translation": "Phiền anh/chị phản hồi giúp em việc tham dự trước 〇h ngày 〇/〇 ạ.",
+      "purpose": "RSVP期限を伝える定型句",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_02_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "会議招待メールで返信期限を伝える最も適切な表現はどれか？",
+      "options": [
+        "返信してください。",
+        "ご返信いただけますと幸いです。",
+        "返事ください。",
+        "返信してね。"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "「ご返信いただけますと幸いです」が依頼を丁寧に伝える定型句。他は命令調・カジュアルすぎ。",
+        "vi": "「ご返信いただけますと幸いです」 là cụm lịch sự chuẩn để xin reply. Các option khác hoặc mệnh lệnh, hoặc casual quá."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_02_tpl_01",
+      "format": "email_invite",
+      "title_ja": "会議招待メール・テンプレート",
+      "title_vi": "Template Email Mời Họp",
+      "content_ja": "件名：【会議招待】〇〇会議（〇月〇日 〇〇:〇〇-〇〇:〇〇 JST）\n\n〇〇様\n（CC：〇〇様）\n\nお世話になっております。\nティエンファット社の〇〇でございます。\n\n下記のとおり〇〇会議を開催いたしたく、ご案内申し上げます。\n\n──────────────────────\n■ 日時：〇〇年〇月〇日（〇） 〇〇:〇〇〜〇〇:〇〇（JST）\n■ 形式：〇〇（リンク：https://...）\n■ 目的：① 〇〇\n        ② 〇〇\n■ アジェンダ：添付ファイル参照\n■ 事前資料：〇月〇日までに別途共有予定\n──────────────────────\n\nご出欠を〇月〇日（〇）〇〇時までにご返信いただけますと幸いです。\n\n何卒よろしくお願い申し上げます。\n\n──\nティエンファット社 〇〇部\n〇〇（〇〇）",
+      "content_vi": "[Subject] [Mời họp] Họp 〇〇 (〇/〇 〇〇:〇〇-〇〇:〇〇 JST)\n\n[Kính gửi anh/chị 〇〇]\n(CC: anh/chị 〇〇)\n\nLúc nào cũng cảm ơn anh/chị giúp đỡ ạ.\nEm 〇〇 bên Thiên Phát đây ạ.\n\nEm xin trân trọng thông báo về buổi họp 〇〇 như dưới đây ạ.\n\n──────────────────────\n[Thời gian] 〇/〇/〇 (〇), 〇〇:〇〇-〇〇:〇〇 (giờ JST)\n[Hình thức] 〇〇 (link: https://...)\n[Mục đích] 1. 〇〇\n           2. 〇〇\n[Agenda] Xem file đính kèm\n[Tài liệu pre-read] Sẽ chia sẻ trước 〇/〇\n──────────────────────\n\nPhiền anh/chị phản hồi giúp em việc tham dự trước 〇〇h ngày 〇/〇 ạ.\n\nEm xin cảm ơn ạ.\n\n──\nThiên Phát — Phòng 〇〇\n〇〇 (〇〇)",
+      "notes_ja": "件名は会議名＋日時を必ず入れる。件名だけで priority と日付が分かるようにする。CC欄は意思決定者を漏らさず入れる。",
+      "notes_vi": "Subject phải có tên họp + thời gian. Chỉ đọc subject là khách biết được priority và ngày. CC không được sót decision maker."
+    }
+  ]
+}

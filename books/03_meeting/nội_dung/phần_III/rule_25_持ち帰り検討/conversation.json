@@ -1,0 +1,154 @@
+{
+  "rule_id": "rule_25",
+  "rule_slug": "持ち帰り検討",
+  "title": {
+    "ja": "検討時間を求める（持ち帰り）",
+    "vi": "Xin thêm thời gian suy nghĩ (持ち帰り)"
+  },
+  "rule_context": {
+    "ja": "Phase 2交渉中、大垣営業部長が突然「15%値引きで本日契約締結」を要求。ズンには即決権限がなく、「持ち帰って検討」を申し出る場面。",
+    "vi": "Đang đàm phán phase 2, anh Ōgaki đột ngột yêu cầu giảm 15% và ký ngay hôm nay. Em Dũng không có quyền quyết, phải xin 'mang về xem xét'."
+  },
+  "related_rules": ["rule_22", "rule_29", "rule_32"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 権限超過の即決",
+      "label_vi": "XẤU — Quyết bừa vượt quyền",
+      "display_order": 1,
+      "analysis": {
+        "ja": "権限のない値引きを即決すると、社内で覆された際に信頼を全て失う。日本では「持ち帰り」は弱さではなく標準プロセス。",
+        "vi": "Quyết vượt quyền → khi nội bộ overrule → mất uy tín toàn diện. Trong JP, 「持ち帰り」 không phải yếu mà là quy trình chuẩn."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_25_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "もし15%の値引きが可能であれば、本日中に契約を進めたいのですが。",
+          "sentence_translation": "Nếu giảm được 15% thì chúng tôi muốn ký luôn hôm nay.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_25_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "はい、それで問題ありません！",
+          "sentence_translation": "Vâng, không vấn đề gì ạ!",
+          "tone": "cheerful"
+        },
+        {
+          "line_id": "rule_25_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "先ほど『問題ない』とおっしゃったではないですか…",
+          "sentence_translation": "Lúc nãy Dũng đã nói 'không vấn đề gì' rồi mà...",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 持ち帰り＋期限明示",
+      "label_vi": "TỐT — Xin mang về + có deadline cụ thể",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_25_good_02",
+          "highlight_text": "一度持ち帰って社内で検討させていただけませんでしょうか",
+          "ja": "「持ち帰り」は日本ビジネス文化の核。稟議プロセスを踏むことを暗示し、相手も納得する。",
+          "vi": "「持ち帰り」 = core JP business. Ngụ ý đi qua quy trình nội bộ (ringi), đối phương sẽ hiểu và chấp nhận."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_25_good_03",
+          "highlight_text": "明後日午前中までにご回答申し上げます",
+          "ja": "持ち帰りには必ず具体的な期限を添える。期限なし＝相手にとってオープンな宿題で不安を生む。",
+          "vi": "「持ち帰り」 phải kèm deadline cụ thể. Không có deadline = bài tập mở khiến khách bất an."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_25_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "もし15%の値引きが可能であれば、本日中に契約を進めたいのですが。",
+          "sentence_translation": "Nếu giảm được 15% thì chúng tôi muốn ký luôn hôm nay.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_25_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご提案いただきありがとうございます。15%という大きなご要望でございますので、一度持ち帰って社内で検討させていただけませんでしょうか？",
+          "sentence_translation": "Em cảm ơn anh đã đề xuất ạ. 15% là yêu cầu khá lớn, em xin phép mang về xem xét nội bộ trước được không ạ?",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_25_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "明日中に上長と協議し、明後日午前中までにご回答申し上げます。",
+          "sentence_translation": "Em sẽ trao đổi với cấp trên trong ngày mai, và xin trả lời anh trước trưa ngày kia ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"],
+          "continues_previous": true
+        },
+        {
+          "line_id": "rule_25_good_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "分かりました。では明後日のご連絡をお待ちしております。",
+          "sentence_translation": "Tôi hiểu rồi. Vậy ngày kia tôi sẽ chờ phản hồi của Dũng.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_25_kp_01",
+      "speaker": "zun",
+      "sentence": "一度持ち帰って社内で検討させていただけませんでしょうか？",
+      "sentence_translation": "Em xin phép mang về xem xét nội bộ trước được không ạ?",
+      "purpose": "持ち帰りを申し出る標準フレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_25_kp_02",
+      "speaker": "zun",
+      "sentence": "〇月〇日〇時までにご回答申し上げます。",
+      "sentence_translation": "Em xin trả lời anh/chị trước 〇h ngày 〇/〇 ạ.",
+      "purpose": "持ち帰りに伴う期限明示フレーズ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_25_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "顧客から自分の権限を超える値引き要求があった。最善の対応はどれか？",
+      "options": [
+        "とりあえず「OKです」と返事しておく",
+        "「無理です」と即時拒否する",
+        "「持ち帰って検討させてください。〇日までに回答します」と期限つきで保留する",
+        "黙って答えない"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "持ち帰り＋期限明示が日本ビジネスの標準。即決はリスク、即時拒否は交渉打ち切り、無回答は失礼。",
+        "vi": "Mang về + có deadline = chuẩn JP business. Quyết bừa = rủi ro. Từ chối thẳng = chặn đàm. Im lặng = thất lễ."
+      }
+    }
+  ]
+}

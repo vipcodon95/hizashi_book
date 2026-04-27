@@ -1,0 +1,169 @@
+{
+  "rule_id": "rule_21",
+  "rule_slug": "価格でなくスコープを削る",
+  "title": {
+    "ja": "価格でなくスコープを削る",
+    "vi": "Giảm scope thay vì giảm giá"
+  },
+  "rule_context": {
+    "ja": "Ōgaki が ¥16M (1年契約) を要求。Dũng は scope (dashboard / PM) を Phase 4 に後出ししunit price を維持する場面。",
+    "vi": "Ōgaki ép ¥16M (hợp đồng 1 năm). Dũng counter bằng cắt scope (dashboard / PM) đẩy sang Phase 4, giữ unit price."
+  },
+  "related_rules": ["rule_19", "rule_09", "rule_22"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 値引きで scope そのまま",
+      "label_vi": "XẤU — Giảm giá phẳng giữ scope",
+      "display_order": 1,
+      "analysis": {
+        "ja": "scope そのままで ¥1.5M 値引き。粗利 26%→14%、社内コストカットなしで margin shock。",
+        "vi": "Scope nguyên mà giảm ¥1.5M. Margin 26% → 14%, không cắt cost nội bộ — sốc margin."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_21_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "中村 CFO は 2 年契約 OK、但し 1 年契約版だと ¥16M でいけませんか？",
+          "sentence_translation": "CFO Nakamura OK hợp đồng 2 năm, nhưng bản 1 năm thì ¥16M được không?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_21_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えーと、では ¥16M で。",
+          "sentence_translation": "Ờ, vậy ¥16M ạ.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_21_bad_03",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "(内部 Slack 翌日) ¥16M で同じ scope は粗利 14%、Phase 2 と同じスタッフ配置不可。なんで scope そのままで値引きした？",
+          "sentence_translation": "(Slack nội bộ hôm sau) ¥16M giữ nguyên scope là margin 14%, không bố trí staff như Phase 2 được. Sao lại giảm giá mà giữ scope?",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — scope調整 unit price維持",
+      "label_vi": "TỐT — Cắt scope, giữ unit price",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_21_good_02",
+          "highlight_text": "スコープ調整が必要",
+          "ja": "価格議論をscope議論に転換する標準フレーズ。「総額を下げるなら scope を見直しましょう」。",
+          "vi": "Câu chuẩn để chuyển từ tranh luận giá sang tranh luận scope. 'Hạ tổng thì xem lại scope'."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_21_good_02",
+          "highlight_text": "AI dashboard カスタム部分 (-工数 ¥1M) + 専任 PM 半常駐化 (-工数 ¥0.5M) を Phase 4 に後出し",
+          "ja": "削るのは「後出し可能」な機能を選ぶ。core (AI engine) は守る。Phase 4 で復活提示すれば失わない。",
+          "vi": "Cắt là chọn phần 'defer được'. Core (AI engine) phải giữ. Đề xuất khôi phục Phase 4 = không mất."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_21_good_04",
+          "highlight_text": "unit price (機能あたり単価) は同等のまま、総額調整",
+          "ja": "「単価維持・総額調整」は CFO・部長が稟議で説明しやすい言い方。「値引き」より好まれる。",
+          "vi": "'Giữ unit price, điều chỉnh tổng' là cách nói dễ giải thích trong ringi của CFO/部長, được ưa hơn 'giảm giá'."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_21_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "中村 CFO は 2 年契約 OK、但し 1 年契約版だと ¥16M でいけませんか？",
+          "sentence_translation": "CFO Nakamura OK hợp đồng 2 năm, nhưng bản 1 năm thì ¥16M được không?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_21_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご検討ありがとうございます。1 年契約 + ¥16M でしたら、スコープ調整が必要になります。具体的には、AI dashboard カスタム部分 (-工数 ¥1M) + 専任 PM 半常駐化 (-工数 ¥0.5M) を Phase 4 に後出し、これで ¥16M、SLA 99.5% (Better は 99.9%) も同時調整。",
+          "sentence_translation": "Em cảm ơn quý anh đã xem xét ạ. Hợp đồng 1 năm + ¥16M thì cần điều chỉnh scope ạ. Cụ thể: phần custom AI dashboard (-effort ¥1M) + PM chuyên trách bán-túc trực (-effort ¥0.5M) đẩy sang Phase 4, tổng thành ¥16M, đồng thời SLA điều chỉnh 99.5% (Better 99.9%) ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1", "2"]
+        },
+        {
+          "line_id": "rule_21_good_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "AI dashboard を Phase 4 に？導入後で困りますか？",
+          "sentence_translation": "AI dashboard sang Phase 4? Sau triển khai có khó không?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_21_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "AI レコメンドエンジン core は Phase 3 で稼働、dashboard は Phase 2 流用版で代替可能です。unit price (機能あたり単価) は同等のまま、総額調整という形です。Phase 4 着手時に dashboard 追加で +¥1M、その時に再ご相談という形ではいかがでしょうか？",
+          "sentence_translation": "Core AI recommend engine vẫn vận hành ở Phase 3, dashboard dùng bản tận dụng từ Phase 2 thay thế được ạ. Unit price (giá đơn vị tính năng) giữ nguyên, chỉ điều chỉnh tổng tiền. Phase 4 khởi động sẽ thêm dashboard +¥1M, lúc đó trao đổi lại ạ — quý anh thấy thế nào?",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_21_good_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "unit price 同等であれば社内説明しやすい。検討します。",
+          "sentence_translation": "Unit price giữ nguyên thì dễ giải thích nội bộ. Tôi sẽ xem xét.",
+          "tone": "neutral"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_21_kp_01",
+      "speaker": "zun",
+      "sentence": "ご予算に合わせるためには、スコープ調整が必要になります。",
+      "sentence_translation": "Để khớp ngân sách quý cty, cần điều chỉnh scope ạ.",
+      "purpose": "scope転換 標準フレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_21_kp_02",
+      "speaker": "zun",
+      "sentence": "unit price は同等のまま、総額を調整する形になります。",
+      "sentence_translation": "Giữ nguyên unit price, chỉ điều chỉnh tổng tiền ạ.",
+      "purpose": "unit price 維持説明",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_21_bjt_01",
+      "level": "J1",
+      "skill": "表現読解",
+      "question_ja": "顧客が値下げを求めた時、粗利率を守る最善のアプローチは？",
+      "options": [
+        "そのまま値下げして契約獲得を優先",
+        "スコープ削減 (deferable feature を後出し) で unit price 維持",
+        "断って walk away",
+        "他社競合価格に合わせる"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "scope 削減で unit price 維持は粗利率を守りつつ顧客 budget に合わせる両立解。defer 機能は Phase n+1 で復活させる。",
+        "vi": "Cắt scope giữ unit price = vừa giữ margin vừa khớp budget khách. Tính năng defer khôi phục ở Phase n+1."
+      }
+    }
+  ]
+}

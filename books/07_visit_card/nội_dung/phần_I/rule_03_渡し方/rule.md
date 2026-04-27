@@ -1,0 +1,79 @@
+# Rule 03 — Trao danh thiếp 2 tay / 名刺の渡し方
+
+> **Luận điểm.** Trao danh thiếp = chìa **2 tay** + **mặt JP hướng về phía khách** (đọc được luôn) + **tự xưng đầy đủ「会社名・部署・役職・氏名」** + **bow nhẹ 15°**. Trao 1 tay hoặc hướng chữ về phía mình = "vứt" thẻ.
+>
+> 名刺は『両手・文字を相手向き・会社部署役職氏名フルで自己紹介・15度お辞儀』。片手や自分向きは投げ捨て同然。
+>
+> **Liên quan:** rule 01 (chuẩn bị), rule 02 (nhận), rule 04 (đồng thời), rule 05 (thứ tự).
+> Sách 03 rule_11 名刺交換 (intro pattern).
+
+---
+
+## Bối cảnh / 場面
+
+Sau khi nhận danh thiếp Ōgaki (rule 02), Dũng tự giới thiệu và trao danh thiếp cho Ōgaki. Đây là first contact, Dũng cần set the tone formal cho cả meeting.
+
+---
+
+## ❌ Hội thoại XẤU — chìa 1 tay, hướng chữ về mình
+
+*rút danh thiếp 1 tay từ ví, hướng chữ về phía mình · nhận, đảo ngược danh thiếp 90°để đọc, hơi nhíu mày · thì thầm*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「ズンです、よろしく。」 |
+| **大垣** | 「…ズン様、ですね。」 |
+| **ズン** | 「あ、はい。」 |
+| **フオン副部長** | 「ズンさん、文字は相手向きにね。それから会社・部署もフルで。」 |
+
+**Vì sao xấu:** (1) 1 tay = junior thái độ. (2) Chữ hướng về mình = khách phải xoay = họ làm việc thay bạn. (3) Tự xưng "ズンです" = thiếu "ティエンファット 営業部 BD担当" = khách không biết placement của bạn trong tổ chức.
+
+---
+
+## ✅ Hội thoại TỐT — 2 tay, mặt JP, full giới thiệu
+
+*2 tay cầm danh thiếp ở 2 góc dưới, mặt JP hướng về Ōgaki, bow 15° · 2 tay đỡ · giữ tư thế bow nhẹ thêm 1 nhịp rồi đứng thẳng*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「**ティエンファット 営業部 BD担当の、チャン・ヴァン・ズン**【1】**と申します。よろしくお願い申し上げます**【2】。」 |
+| **大垣** | 「**頂戴いたします**。ズンさん、こちらこそよろしくお願いいたします。」 |
+| **ズン** | *(giữ ánh mắt 1 giây rồi rút lui)* |
+
+📝 **Ghi chú:**
+- 【1】**会社・部署・役職・フルネーム順** — thứ tự chuẩn JP. KHÔNG đảo. KHÔNG bỏ phần. Tên VN dùng phiên âm katakana「チャン・ヴァン・ズン」để khách đọc đúng.
+- 【2】**「よろしくお願い申し上げます」** > 「お願いします」trong first contact với senior. Step nâng formal level.
+
+---
+
+## 🎯 Câu chốt
+
+> **「名刺は『両手・文字を相手向き・会社部署役職氏名フル・15度お辞儀』で渡す。」**
+>
+> *Trao danh thiếp = 2 tay / mặt chữ hướng khách / xưng đủ Cty + phòng + chức + tên / bow 15°.*
+
+---
+
+## ⚠ Tránh
+
+- Trao **1 tay** (đặc biệt khi tay kia bận) → bỏ vật xuống trước
+- Hướng chữ **về phía mình** → khách phải xoay = bất lịch sự
+- Tự xưng **chỉ tên** ("Dũng です") → thiếu context tổ chức
+- Đưa danh thiếp **cao hơn ngực khách** (đặc biệt khi khách senior) → trao thẳng tầm ngực-bụng
+- Vừa trao vừa **nói câu khác** không liên quan ("À hôm nay trời nóng quá nhỉ") → tập trung vào nghi thức
+- Trao danh thiếp **qua bàn** (reach across) → đi vòng lại đứng gần khách rồi mới trao
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 申し上げる | もうしあげる | (kính ngữ của 言う) Nói (khiêm nhường) |
+| 部署 | ぶしょ | Phòng ban |
+| 役職 | やくしょく | Chức vụ |
+| 氏名 | しめい | Họ tên |
+| お辞儀 | おじぎ | Cúi chào |
+| 15度 | じゅうごど | 15 độ (bow nhẹ) |
+| フルネーム | furu neemu | Họ tên đầy đủ |
+| 自己紹介 | じこしょうかい | Tự giới thiệu |

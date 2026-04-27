@@ -1,0 +1,80 @@
+# Rule 19 — Cấu trúc câu đề xuất giá / 価格提示フレーズ
+
+> **Luận điểm.** Khi quote giá, tránh "¥18M です" trần. Cấu trúc 4 phần: **(1) Frame** (まずは〜の価格帯で), **(2) Number** (¥18M), **(3) Justification** (cơ sở), **(4) Hand-off** (chuyển sang khách phản hồi). Câu trần ngắn → tone hời hợt. 4-part phrase → tone professional + giảm pushback.
+>
+> 価格提示は4要素 (Frame・Number・Justification・Hand-off) で構成。「¥18M です」だけでは tone が軽くなる。
+>
+> **Liên quan:** rule 18 (anchoring), rule 20 (高い対応), rule 25 (沈黙).
+
+---
+
+## Bối cảnh / 場面
+
+Sau anchor (rule 18), khách push back. Dũng cần phrase chuẩn cho counter offer ¥17.5M kèm trade契約2年化.
+
+---
+
+## ❌ Hội thoại XẤU — quote trần ngắn
+
+| Speaker | Câu |
+|---------|-----|
+| **大垣** | 「¥18M は厳しい。¥15M でいかがですか？」 |
+| **ズン** | 「えーと、¥17M で。」 |
+| **大垣** | 「¥17M ですか…」 |
+
+**Vì sao xấu:** Quote trần "¥17M で" → 大垣 đọc là "easy concession", push tiếp. Không có justification, không có trade. Mất leverage.
+
+---
+
+## ✅ Hội thoại TỐT — 4-part pricing phrase
+
+*沈黙3秒*
+
+| Speaker | Câu |
+|---------|-----|
+| **大垣** | 「¥18M は厳しい。¥15M でいかがですか？」 |
+| **ズン** | 「ご指摘の点、もっともでございます【1】。**フレーム**: 御社のコスト圧縮方針を踏まえ、構成を見直して再提案いたします。**金額**: **¥17.5M**。**根拠**: AI レコメンドエンジン coreは維持、但し dashboard カスタム部分を Phase 2 のテンプレート流用 (-工数 8%)【2】。**条件として**: 契約期間を 2 年契約へ延長していただければ、この価格でご提供可能です【3】。」 |
+| **大垣** | 「2 年契約の点、確認が必要です。」 |
+| **ズン** | 「もちろんです、お時間をお取りいただいて結構です。」 |
+
+📝 **Ghi chú:**
+- 【1】**Bridge phrase** "ご指摘の点、もっともでございます" — acknowledge khách trước khi counter (rule 26 cũng dùng).
+- 【2】**Justification cụ thể** — "Phase 2 テンプレート流用 -8%" thay vì "ちょっと安く". Khách Nhật trust số.
+- 【3】**Trade rõ ràng** "2 年契約していただければ" — counter có condition (rule 09 trade-back).
+
+---
+
+## 🎯 Câu chốt
+
+> **「価格提示は4要素 (Frame・Number・Justification・Trade)。1要素抜けると leverage 失う。」**
+>
+> *Quote giá 4 yếu tố: Frame / Number / Justification / Trade. Thiếu 1 yếu tố là mất leverage.*
+
+---
+
+## ⚠ Tránh
+
+- "¥17M で" trần → easy concession signal
+- Quote không có Trade → unilateral concession (rule 09)
+- Justification mơ hồ "ちょっと安く" → không trust
+- Forget bridge phrase trước counter → tone confrontational
+
+---
+
+## 📐 Template — Pricing Phrase Checklist
+
+(xem `rule_19_tpl_01` trong conversation.json — full checklist + 5 scenarios)
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 価格提示 | かかくていじ | Quote giá |
+| ご指摘 | ごしてき | Lời nhận xét (kính ngữ) |
+| もっとも | もっとも | Có lý / hợp lý |
+| 構成見直し | こうせいみなおし | Xem lại cấu thành |
+| 流用 | りゅうよう | Tận dụng / dùng lại |
+| 工数 | こうすう | Effort / man-day |
+| 契約期間延長 | けいやくきかんえんちょう | Kéo dài thời hạn hợp đồng |

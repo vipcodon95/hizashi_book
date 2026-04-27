@@ -1,0 +1,890 @@
+{
+  "$schema_note": "Scenes JSON cho Chương 04 — Onsite Nhật 1 tuần lần đầu.",
+  "chapter_id": "09-04",
+  "chapter_slug": "出張",
+  "title": {
+    "vi": "Onsite Nhật 1 tuần lần đầu",
+    "ja": "初めての1週間出張"
+  },
+  "boi_canh": {
+    "vi": "Tháng 9/2026, Dũng đi 1 tuần Tokyo office của 白鷗. Mục tiêu: kickoff Phase 5 + meet team chưa gặp. Lịch: Mon-Fri làm việc, Sat về VN. Lần đầu Dũng onsite 1 tuần (sách 07 đã đi 3 ngày trước).",
+    "ja": "2026年9月、ズン初めての1週間東京出張。白鷗東京HQでフェーズ5キックオフ+未対面チームに挨拶。月〜金勤務、土曜帰国。"
+  },
+  "bi_quyet_tong": [
+    "1 tuần onsite ≠ 3 ngày. Pace dài hơn → cần manage năng lượng + budget bảo trì sức khỏe.",
+    "Lần đầu hơn có nghĩa: ngại nhiều thứ → coach Tuấn từ xa qua Slack mỗi tối 30 phút.",
+    "Mỗi ngày có ít nhất 1 'win nhỏ' để giữ tinh thần — note vào memory bank tối.",
+    "Chuẩn bị omiyage 2 chiều: sang JP đem cà phê G7 / hạt điều cho team Hakuō, về VN có omiyage cho team HCMC.",
+    "Cuối tuần: 1 ngày 'tự thưởng' (Akihabara/Shibuya) — không over-schedule với khách."
+  ],
+  "scenes": [
+    {
+      "n": 1,
+      "time": "Sun 22:00",
+      "location": "Sân bay Narita arrival, terminal 1",
+      "setting": "Dũng vừa hạ cánh từ HCMC, đi qua immigration. Va-li bị giữ lại ở hải quan kiểm tra bất ngờ — có 1 bịch hạt điều rang VN to chưa khai báo.",
+      "lines": [
+        {
+          "speaker": "customs_officer",
+          "ja": "(架空) スーツケースを開けていただけますか。食品の申告はありませんが、こちらは何でしょうか?",
+          "vi": "(nhân viên hải quan) Mở vali ra giúp. Không thấy khai báo thực phẩm, cái này là gì?"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng giật mình. Bịch hạt điều rang ≈1kg, mua làm omiyage cho team Hakuō, quên không khai.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "あ、すみません、お土産用のカシューナッツです。会社の同僚に配るつもりでした。",
+          "vi": "À, em xin lỗi, hạt điều dùng làm quà ạ. Đem cho đồng nghiệp công ty."
+        },
+        {
+          "speaker": "customs_officer",
+          "ja": "ナッツ類は申告必要です。今回は注意で通しますが、次回は必ず申告してください。",
+          "vi": "Loại hạt phải khai báo. Lần này tôi cảnh cáo cho qua, lần sau nhớ khai báo."
+        },
+        {
+          "speaker": "zun",
+          "ja": "本当にすみません、次回から気をつけます。",
+          "vi": "Em thật sự xin lỗi, lần sau em cẩn thận."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Mất 20 phút. Lỡ N'EX 22:30 → phải đợi chuyến 23:15. Mệt cộng dồn.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(独り言、ベトナム語、小声)Hên là không phạt tiền. Note: lần sau khai sạch.",
+          "vi": "(tự lẩm bẩm tiếng Việt, nhỏ giọng) Hên là không phạt tiền. Note: lần sau khai sạch."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Khai báo hải quan JP",
+        "body": "JP nghiêm với thực phẩm vào nước:\n- ✅ **Khai báo tất cả** thực phẩm trên tờ khai customs declaration form (đưa trên máy bay hoặc app Visit Japan Web).\n- ✅ Hạt / khô (cà phê, hạt điều, bánh mứt) = phải khai dù 'cá nhân'.\n- ❌ Cấm hoàn toàn: thịt heo (kể cả bánh nem có nhân), trái cây tươi, hạt giống, củ.\n- Lần đầu vi phạm thường được warning. Lặp lại = phạt + có thể vào blacklist."
+      }
+    },
+    {
+      "n": 2,
+      "time": "Sun 23:30",
+      "location": "Hotel check-in Shinjuku (business hotel APA)",
+      "setting": "Lobby APA Shinjuku Gyoen-mae. Dũng kéo va-li mệt, đặt passport lên quầy. Lễ tân nữ trẻ cười chuyên nghiệp.",
+      "lines": [
+        {
+          "speaker": "reception_hotel",
+          "ja": "(架空) いらっしゃいませ。ご予約のお名前は?",
+          "vi": "(lễ tân khách sạn) Quý khách. Tên đặt phòng?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "Tran Van Dung、4泊5日です。",
+          "vi": "Trần Văn Dũng, 4 đêm 5 ngày."
+        },
+        {
+          "speaker": "reception_hotel",
+          "ja": "(画面確認)はい、確認できました。お部屋は8階の802号室、シングルルーム…喫煙室と禁煙室、どちらがよろしいですか?",
+          "vi": "(check màn hình) Vâng, xác nhận được. Phòng 802 tầng 8, single room… phòng có hút thuốc hay không hút thuốc?"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng quên từ '禁煙' (kinen) trong 1 giây. Mặt khô. Cố nhớ.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "あ…えっと、タバコ吸わない方で…",
+          "vi": "À… ờ, loại không hút thuốc ấy…"
+        },
+        {
+          "speaker": "reception_hotel",
+          "ja": "禁煙室でございますね、かしこまりました。",
+          "vi": "Phòng cấm thuốc đúng không, em hiểu rồi."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(ホッとして)はい、禁煙、禁煙です。すみません、単語飛んじゃって。",
+          "vi": "(nhẹ người) Vâng, kinen, kinen. Em xin lỗi, từ vựng bay mất."
+        },
+        {
+          "speaker": "reception_hotel",
+          "ja": "(優しく笑う)大丈夫ですよ。ベトナムからですか?",
+          "vi": "(cười dịu) Không sao đâu ạ. Từ Việt Nam à?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、ホーチミンから。",
+          "vi": "Vâng, từ Hồ Chí Minh."
+        },
+        {
+          "speaker": "reception_hotel",
+          "ja": "わあ、長旅お疲れ様です。朝食は7階で6:30から、Wi-Fi のパスワードはこちら。",
+          "vi": "Wow, chuyến bay dài vất vả. Bữa sáng tầng 7 từ 6:30, Wi-Fi password đây."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ありがとうございます。おやすみなさい。",
+          "vi": "Cảm ơn chị. Chúc ngủ ngon."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Quên từ vựng — recover smooth",
+        "body": "Mệt + lo + lần đầu → quên từ basic là chuyện thường (Dũng quên 禁煙). Cách recover:\n- ✅ **Paraphrase** ('タバコ吸わない方で') — lễ tân hiểu ngay.\n- ✅ **Acknowledge nhẹ** ('単語飛んじゃって') — show humanity, lễ tân thân thiện hơn.\n- ❌ Đừng đứng im 5 giây cố nhớ — uncomfortable cho cả hai.\n- ❌ Đừng switch English ngay — JP staff appreciate effort dù không perfect.\n\nTừ vựng hotel cần thuộc lòng: 禁煙室, 喫煙室, ツインルーム, シングルルーム, 朝食付き."
+      }
+    },
+    {
+      "n": 3,
+      "time": "Mon 08:30",
+      "location": "Sảnh Hakuō Tokyo HQ (Shimbashi area)",
+      "setting": "Tòa nhà 18 tầng, sảnh đại marble. Dũng đến sớm 30 phút. Ra security gate đăng ký visitor pass.",
+      "lines": [
+        {
+          "speaker": "reception_hakuo",
+          "ja": "おはようございます。ご予約のお名前と訪問先を、お伺いしてもよろしいでしょうか。",
+          "vi": "Chào buổi sáng. Cho hỏi tên đặt và địa chỉ thăm ạ?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ティエンファットのTran Van Dungと申します。松本様と9時にお約束をいただいております。",
+          "vi": "Trần Văn Dũng, người của Tien Phat. Hẹn với anh Matsumoto PM, 9 giờ."
+        },
+        {
+          "speaker": "reception_hakuo",
+          "ja": "確認いたします。…はい、確認できました。お手数ですが、身分証明書を1点ご提示いただけますでしょうか。",
+          "vi": "Em check. … Vâng, xác nhận được. Phiền quý khách cho xem 1 giấy tờ tùy thân ạ."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng vỗ túi quần — không có passport. Để trong tủ khách sạn vì sợ mất.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(慌てる)あ、パスポートはホテルに置いてきました…在留カードはないし、運転免許証は日本のじゃないし…これでいいですか?",
+          "vi": "(luống cuống) À, passport em để khách sạn… không có 在留カード, bằng lái không phải của Nhật… cái này được không ạ?"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng rút thẻ visa work tạm thời (bản giấy in ở visa center) + namecard cty.]"
+        },
+        {
+          "speaker": "reception_hakuo",
+          "ja": "(確認)…ええと、これで大丈夫ですね、ビザの書類とお名刺、両方確認できます。次回からは、念のためパスポートのコピーをお持ちくださいね。",
+          "vi": "(check)… ờ, được rồi, giấy tờ visa với danh thiếp, đều xác nhận được. Lần sau cho chắc, mang theo bản photo passport ạ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ありがとうございます、本当に助かりました。次回必ず。",
+          "vi": "Cảm ơn chị, cứu em thật sự. Lần sau chắc chắn."
+        },
+        {
+          "speaker": "reception_hakuo",
+          "ja": "こちらが visitor pass、首にかけてください。8階会議室Cまで、エレベーターは右手奥です。",
+          "vi": "Đây visitor pass, đeo lên cổ ạ. Phòng họp C tầng 8, thang máy bên phải trong cùng."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Visitor pass + ID khi vào HQ JP",
+        "body": "Cty JP lớn (>500 nhân viên) thường yêu cầu ID khi cấp visitor pass:\n- ✅ **Default mang theo passport** mỗi sáng vào HQ — không để khách sạn.\n- ✅ Backup: photo passport in giấy + visa work + namecard cty.\n- ✅ Đến sớm 30 phút lần đầu → buffer cho mọi rắc rối ID, security.\n- Lễ tân lớn (Hakuō HQ) thường flexible cho người Việt — nhưng đừng test patience lần 2."
+      }
+    },
+    {
+      "n": 4,
+      "time": "Mon 09:00",
+      "location": "Conference room Hakuō, kickoff Phase 5",
+      "setting": "Phòng họp 12 chỗ, projector, bàn dài. Matsumoto + Ōgaki + Inoue + Tanaka + 2 senior dev đã ngồi. Dũng vào 5 phút trước, đặt laptop. Matsumoto đề nghị Dũng present 5 phút intro.",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "皆さん、ティエンファットのズンさん、先週ホーチミンを発って今朝着いたばかりです。1週間の出張は今回が初めてとのこと、よろしくお願いします。",
+          "vi": "Mọi người, Dũng từ Tien Phat đã bay từ HCMC tuần trước, sáng nay vừa đến. Tuần đầu công vụ, mong mọi người giúp đỡ."
+        },
+        {
+          "speaker": "all_jp",
+          "ja": "よろしくお願いいたします。",
+          "vi": "Mong cùng giúp đỡ."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "じゃあ最初に、ズンさんから Phase 4 の振り返りと Phase 5 の VN 側の準備、5分くらいシェアしてもらえる?",
+          "vi": "Vậy đầu tiên, Dũng share 5 phút về review Phase 4 + chuẩn bị từ phía VN cho Phase 5 nhé?"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng giật mình — không nghĩ phải present ngay sáng đầu tiên. Tim đập mạnh. Mở laptop, nhớ đã chuẩn bị slide trên flight.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、よろしくお願いします。…(slide 開く)Phase 4 の振り返り3点と、Phase 5 の VN 側準備状況、簡潔にお話しします。",
+          "vi": "Vâng, em xin phép. … (mở slide) Em sẽ nói ngắn gọn 3 điểm review Phase 4 + tình trạng chuẩn bị Phase 5 phía VN."
+        },
+        {
+          "speaker": "zun",
+          "ja": "Phase 4 振り返り…(1) 予定より2週間早く完了、(2) 主要KPI 全部達成、(3) チーム内のレビュープロセスが定着しました。",
+          "vi": "Review Phase 4… (1) Hoàn thành sớm 2 tuần so với kế hoạch, (2) đạt toàn bộ KPI chính, (3) quy trình review nội bộ team đã đi vào nề nếp."
+        },
+        {
+          "speaker": "zun",
+          "ja": "Phase 5 の VN 側…エンジニア5名追加で確保済み、来週から研修開始予定。AI ガバナンス領域、トゥアン先輩がアーキテクチャ素案を準備中。",
+          "vi": "Phía VN cho Phase 5… đã tuyển thêm 5 engineer, tuần sau bắt đầu training. Mảng AI governance, anh Tuấn đang chuẩn bị bản sơ thảo architecture."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "ズンさん、研修期間どれくらい?",
+          "vi": "Dũng à, training kéo dài bao lâu?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "4週間予定です。最初の2週間 onboarding、後半2週間で実コードに触れます。",
+          "vi": "Dự kiến 4 tuần. 2 tuần đầu onboarding, 2 tuần sau bắt đầu code thực tế."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "Phase 5 のキックオフは10月後半でしたよね、間に合いますか?",
+          "vi": "Kickoff Phase 5 là cuối tháng 10 đúng không, kịp không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "間に合います。研修終了が10月中旬なので、kickoff まで 1〜2週間バッファあります。",
+          "vi": "Kịp ạ. Training xong giữa tháng 10, đến kickoff còn buffer 1-2 tuần."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "ありがとう、ズンさん。簡潔で良かった。何か質問ある人?",
+          "vi": "Cảm ơn Dũng. Ngắn gọn tốt. Ai có câu hỏi không?"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Không ai hỏi tiếp. Dũng ngồi xuống, tay vẫn run nhẹ. Inoue gật đầu khen ngầm.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Present surprise sáng đầu tiên",
+        "body": "Khách JP đôi khi ask present mà không pre-notify — test khả năng improvise:\n- ✅ **Luôn chuẩn bị 1 deck '3-5 slide intro'** sẵn trước mỗi onsite — phòng case này.\n- ✅ Cấu trúc 'rule of 3' — 3 điểm Phase 4 + 3 điểm Phase 5. Dễ nhớ + dễ trình bày.\n- ✅ **Số liệu cụ thể** ('2 tuần early', '5 engineer') > general statement.\n- ✅ **Kết bằng 'thank — questions?'** không kéo dài.\n- ❌ Đừng nói 'em không chuẩn bị' — kill credibility ngay lập tức."
+      }
+    },
+    {
+      "n": 5,
+      "time": "Mon 12:30",
+      "location": "Cafeteria Hakuō (tầng 2)",
+      "setting": "Cafeteria nhân viên, set lunch ¥600. Tanaka kéo Dũng ngồi cùng bàn 4 người với 2 colleagues mới.",
+      "lines": [
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "ズンさん、こっち来て、紹介するよ。佐々木さん(エンジニア)と、林さん(BD アシスタント)。",
+          "vi": "Dũng à, qua đây, giới thiệu nè. Sasaki (engineer) và Hayashi (BD assistant)."
+        },
+        {
+          "speaker": "zun",
+          "ja": "初めまして、ティエンファットの Tran Van Dung、ズンと呼んでください。",
+          "vi": "Rất hân hạnh, em là Trần Văn Dũng của Tien Phat, gọi Dũng được rồi."
+        },
+        {
+          "speaker": "sasaki_dev",
+          "ja": "(架空) 初めまして、佐々木です。ズンさんの今日のプレゼン、簡潔で分かりやすかった。",
+          "vi": "(nhân vật phụ) Rất hân hạnh, tôi Sasaki. Bài present sáng của Dũng ngắn gọn dễ hiểu."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(顔赤く)あ、ありがとうございます…まだまだですけど。",
+          "vi": "(mặt đỏ) À, cảm ơn anh… em còn nhiều cái phải học ạ."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "(笑って)『まだまだです』なんて、日本人っぽい返事だね(笑)。素直に『ありがとう』でいいんだよ。",
+          "vi": "(cười) 'Mada mada desu' nghe rất Nhật (cười). Cứ thẳng thắn 'cảm ơn' là được mà."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(笑い返す)…そうですね、ありがとうございます。佐々木さんに褒めてもらえて嬉しいです。",
+          "vi": "(cười lại)… đúng nhỉ, cảm ơn các anh. Được anh Sasaki khen em vui ạ."
+        },
+        {
+          "speaker": "hayashi_bd",
+          "ja": "(架空) ベトナムから一週間出張、長いね。週末は何か予定?",
+          "vi": "(nhân vật phụ) 1 tuần công vụ từ Việt Nam, dài nhỉ. Cuối tuần có dự định gì không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "土曜午前にショッピング、夕方の便で帰ります。観光は次回ゆっくり。",
+          "vi": "Sáng thứ 7 đi mua sắm, chuyến chiều bay về. Tham quan để dành lần sau."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "今度来るときは、ぜひ『江戸東京博物館』行ってみて。江戸時代の Tokyo の歴史、面白いよ。",
+          "vi": "Lần sau qua, thử Edo-Tokyo Museum. Lịch sử Tokyo thời Edo, thú vị lắm."
+        },
+        {
+          "speaker": "zun",
+          "ja": "メモしました、次回必ず。",
+          "vi": "Em note rồi, lần sau chắc chắn."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Nhận lời khen — đừng quá khiêm nhường",
+        "body": "Người Việt + người Nhật đều có habit deflect compliment ('まだまだ', 'em chưa đủ'). Nhưng JP modern (2020s+) coi câu 'ありがとうございます' đơn giản là chuẩn:\n- ✅ Nhận compliment với 'thank you' rõ ràng + 1 câu follow ('được anh X khen em vui').\n- ❌ Quá khiêm nhường ('まだまだです / em chưa giỏi') = đôi khi false humility, làm người khen ngại.\n- Tanaka đã coach Dũng đúng — moment relationship-building.\n\nTanaka recommend Edo-Tokyo Museum = local tip thật, note vào memory bank."
+      }
+    },
+    {
+      "n": 6,
+      "time": "Tue 14:00",
+      "location": "Tokyo office floor 8 — engineering team",
+      "setting": "Tour around office. Matsumoto dẫn Dũng giới thiệu 5 senior engineers chưa từng meet. Đến bàn anh Itoki (Nagoya gốc).",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "伊藤さん、こちらティエンファットのズンさん、Phase 5 の VN 側 BD 担当。",
+          "vi": "Anh Itoki, đây Dũng của Tien Phat, BD phía VN cho Phase 5."
+        },
+        {
+          "speaker": "ito_nagoya",
+          "ja": "初めまして、伊藤です。Phase 4のレビューモジュール、ベトナムチームが作ったもの、コード綺麗だったよ。",
+          "vi": "Rất hân hạnh, tôi Itoki. Module review Phase 4 team Việt Nam viết, code đẹp đó."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(嬉しい)ありがとうございます、トゥアン先輩のチームに伝えます。",
+          "vi": "(vui) Cảm ơn anh, em sẽ truyền lại cho team anh Tuấn."
+        },
+        {
+          "speaker": "ito_nagoya",
+          "ja": "ところでズンさん、Phase 5 で AI ガバナンス機能入れるって聞いたけど、Bedrock の Strands Agents 使う想定?それとも自前のオーケストレーション層?",
+          "vi": "Mà Dũng nè, Phase 5 nghe bảo thêm AI governance, dự định dùng Bedrock Strands Agents hay xây orchestration layer riêng?"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Câu hỏi tech sâu. Dũng không chắc — Tuấn vẫn đang draft architecture. Trả lời thật vs bullshit?]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "正直に言うと、トゥアン先輩がまだアーキテクチャ素案中で、私からは確答できません。今日中に Slack で先輩に確認して、明日の朝までに伊藤さんにメールで返してもいいですか?",
+          "vi": "Em nói thật, anh Tuấn vẫn đang draft architecture, em không trả lời chắc được. Hôm nay em hỏi anh ấy qua Slack, sáng mai em mail trả lời anh Itoki được không ạ?"
+        },
+        {
+          "speaker": "ito_nagoya",
+          "ja": "(笑って)正直でいいね。『分からない』を『分からない』と言える人は信用できる。明日の朝待ってます。",
+          "vi": "(cười) Thẳng thắn tốt. Người nói được 'không biết' là người tin được. Sáng mai tôi đợi."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "ナイス、ズンさん。次の人紹介しよう。",
+          "vi": "Nice Dũng. Giới thiệu người tiếp theo nhé."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng note: 'Itoki - Bedrock Strands vs custom orchestration - hỏi Tuấn tối nay'. Sau tour, Dũng Slack Tuấn ngay.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Câu hỏi tech vượt scope = thừa nhận honest",
+        "body": "Senior tech (Itoki) hỏi câu sâu hơn BD scope của Dũng. Cách response:\n- ✅ **Honest 'không chắc' + commit timeline** (sáng mai mail) = build trust.\n- ✅ **Show process** ('hỏi anh Tuấn tối nay') — senior thấy bạn có route to truth.\n- ❌ **Bullshit** answer = catastrophe nếu Itoki test sau.\n- ❌ **Tránh** ('để team em trả lời sau, nay em không phụ trách technical') = passive, mất điểm.\n- Itoki khen 'người nói được không biết là tin được' = bài học Nagoya senior tradition."
+      }
+    },
+    {
+      "n": 7,
+      "time": "Wed 19:00",
+      "location": "Izakaya Roppongi với Matsumoto + 2 colleagues",
+      "setting": "Izakaya 鳥茂 ở Roppongi, dinner 4 người: Matsumoto + Tanaka + Sasaki + Dũng. Course omakase. Otsukuri (sashimi sống) ra món thứ 3 — có uni (cầu gai sống), Dũng chưa quen.",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "ズンさん、これお造り、本日のおすすめだよ。マグロ、ヒラメ、雲丹、それとカンパチ。",
+          "vi": "Dũng à, otsukuri này, đề xuất hôm nay. Cá ngừ, cá bơn, uni, với cá cam."
+        },
+        {
+          "speaker": "zun",
+          "ja": "わあ、綺麗ですね。",
+          "vi": "Wow, đẹp ghê."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng đã ăn sashimi nhiều lần, nhưng uni cầu gai sống chưa từng. Màu cam đậm, mùi tanh nhẹ. Hít. Lo ngại nhưng không show.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(マグロから)…まずはマグロから、いただきます。",
+          "vi": "(bắt đầu từ cá ngừ) … ăn cá ngừ trước, em xin phép."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "ズンさん、雲丹は食べたことある?",
+          "vi": "Dũng có ăn uni bao giờ chưa?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "あ…正直、初めてです。少し緊張してます(笑)",
+          "vi": "À… nói thật, lần đầu ạ. Hơi căng thẳng (cười)"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(笑って)無理しなくていいよ、雲丹は好き嫌い分かれる。一口試して、合わなかったら他の食べて。",
+          "vi": "(cười) Không cần ép. Uni hợp khẩu vị tùy người. Thử 1 miếng, không hợp thì ăn món khác."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng gắp 1 miếng nhỏ uni. Đặt lên lưỡi. Vị béo + tanh + ngọt nhẹ. Texture mềm như cream. Không kinh nhưng không phải món Dũng sẽ chọn lại.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(咀嚼)…うーん、初めての味ですね。クリームみたいに柔らかい。好き嫌い分かれるのが分かります。",
+          "vi": "(nhai)… hmm, lần đầu vị này. Mềm như cream. Em hiểu sao chia phe rồi."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "正直でいいね(笑)。じゃあ残りはこっちでいただいて、ズンさんはエビにする?",
+          "vi": "Phản ứng thật là tốt. Vậy phần còn lại để tôi ăn, đổi cho Dũng tôm nhé?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ありがとうございます、エビ大好きです。",
+          "vi": "Cảm ơn anh, em mê tôm."
+        },
+        {
+          "speaker": "sasaki_dev",
+          "ja": "ベトナムでよく食べる魚は何?",
+          "vi": "Việt Nam hay ăn cá gì?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "Cá basa といって、川魚です。家庭料理で煮込みが多いです。日本のサーモンほど油っぽくない。",
+          "vi": "Cá basa, cá nước ngọt. Món gia đình hay kho. Không béo như salmon Nhật."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Món lạ ở dinner — honest > pretend",
+        "body": "Khách JP order món lạ (uni, natto, ankimo) cho khách nước ngoài thử = test reaction:\n- ✅ **Try 1 miếng nhỏ** — show willingness.\n- ✅ **Honest reaction** ('lần đầu', 'không hợp khẩu vị') — Matsumoto value honesty.\n- ✅ **Comment cụ thể** về texture/vị — không chỉ 'ngon/dở'.\n- ❌ **Pretend yêu** rồi force eat — host lo sau, không offer món lạ lần sau.\n- ❌ **Reject từ đầu** ('em không ăn được') — show rigid.\n- Host tốt (Matsumoto) sẽ swap món tự động khi thấy bạn struggle."
+      }
+    },
+    {
+      "n": 8,
+      "time": "Thu 10:00",
+      "location": "Phòng Nakamura CFO",
+      "setting": "Phòng riêng CFO, 1-on-1 30 phút. Bàn gỗ to, tranh thư pháp treo tường. Nakamura mời cà phê. Câu hỏi senior level.",
+      "lines": [
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "ズンさん、お掛けください。コーヒーはいかがですか?",
+          "vi": "Dũng ngồi đi. Cà phê?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ありがとうございます、ブラックでお願いします。",
+          "vi": "Cảm ơn anh, đen ạ."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "今週来てもらってありがとう。今日は frank に話したいんだけど、ズンさん、Tokyo office のチーム、3日見てどう感じた?良いところ、改善できそうなところ、両方。",
+          "vi": "Cảm ơn cậu tuần này qua. Hôm nay tôi muốn nói thẳng. Dũng, team Tokyo office cậu xem 3 ngày, cảm thấy thế nào? Điểm tốt, điểm có thể cải thiện, cả hai."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Câu cực senior. Dũng cẩn thận — không phải lúc đánh giá, là lúc share quan sát.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "正直に観察ベースでお話しさせていただきます。…良いところは、エンジニアチームの技術 depth が深いこと、特に伊藤さんの質問の鋭さは印象的でした。BD-tech の協業もスムーズに見えます。",
+          "vi": "Em xin phép nói dựa trên quan sát ạ. … Điểm tốt là độ sâu kỹ thuật của team engineer, đặc biệt câu hỏi sắc của anh Itoki gây ấn tượng. Phối hợp BD-tech cũng trông trơn tru."
+        },
+        {
+          "speaker": "zun",
+          "ja": "観察として気になったのは、…ベトナムチームとの非同期コミュニケーション、Slack チャンネルが分散していて、誰が誰に何を聞けばいいか、新人の私には分かりにくいです。Phase 5 で5名追加するときに、ここが摩擦になりそうな気がします。",
+          "vi": "Điều em quan sát thấy chú ý là… giao tiếp async với team Việt Nam, các kênh Slack phân tán, người mới như em khó biết ai hỏi ai về cái gì. Phase 5 thêm 5 người mới, em cảm thấy đây có thể là điểm gây ma sát."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "(うなずく)…なるほど。Slack のチャンネル整理は前から課題で、誰も手を付けてなかった。新しい目で見てくれて参考になる。",
+          "vi": "(gật đầu)… ra vậy. Sắp xếp kênh Slack là vấn đề tồn đọng, chưa ai động vào. Mắt nhìn mới của cậu là tham khảo tốt."
+        },
+        {
+          "speaker": "zun",
+          "ja": "余計なこと申し上げていましたら、申し訳ございません。",
+          "vi": "Em nói có gì sai mong anh thông cảm ạ."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "いや、こういう外部の視点こそ価値ある。1つ提案、Phase 5 のキックオフのときに、ズンさんから Slack チャンネルの提案 deck 出してもらえる?松本と相談して。",
+          "vi": "Không, đúng là góc nhìn từ ngoài có giá trị. Đề xuất 1 cái, kickoff Phase 5 Dũng làm deck đề xuất sắp xếp Slack channel nhé? Bàn với Matsumoto."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(姿勢正して)了解いたしました、お任せください。",
+          "vi": "(chỉnh tư thế) Vâng em hiểu, anh giao em làm."
+        }
+      ],
+      "bi_quyet": {
+        "title": "1-on-1 với CFO — quan sát chứ không đánh giá",
+        "body": "Câu CFO 'cậu cảm thấy thế nào về team' = test maturity. Cách response:\n- ✅ **Frame 'observation-based'** ('観察ベースで') — không phải 'judgment'.\n- ✅ **Good first** — show respect cho team trước khi pointer issues.\n- ✅ **Cụ thể** ('Slack channels phân tán' > 'communication kém').\n- ✅ **Link to action item** ('Phase 5 thêm 5 người, sẽ là friction') — show forward thinking.\n- ✅ **Soft hedge** ('余計なこと申し上げてたら') — JP politeness.\n- CFO offer Dũng làm deck = level up promotion signal."
+      }
+    },
+    {
+      "n": 9,
+      "time": "Thu 18:00",
+      "location": "Convenience store FamilyMart gần hotel",
+      "setting": "Sau 1 ngày dài. Dũng mệt, không đi dinner với khách hôm nay. Vào FamilyMart mua đồ ăn tối ăn trong phòng.",
+      "lines": [
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng đi vòng quầy bento. Chọn 1 hộp curry rice ¥580. Lấy 1 lon Asahi Super Dry ¥250. Dừng trước quầy onigiri — chọn thêm 1 cái cá hồi để ăn sáng. Tổng ¥980.]"
+        },
+        {
+          "speaker": "konbini_staff",
+          "ja": "(架空) お弁当温めますか?",
+          "vi": "(nhân viên konbini) Có hâm bento không ạ?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、お願いします。",
+          "vi": "Vâng, nhờ chị."
+        },
+        {
+          "speaker": "konbini_staff",
+          "ja": "お箸は?",
+          "vi": "Đũa thì ạ?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "1膳ください。",
+          "vi": "Cho em 1 đôi ạ."
+        },
+        {
+          "speaker": "konbini_staff",
+          "ja": "袋は?有料です、3円。",
+          "vi": "Túi không ạ? Tính phí, 3 yên."
+        },
+        {
+          "speaker": "zun",
+          "ja": "お願いします。",
+          "vi": "Nhờ chị."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Về phòng 802. Cởi giày. Ngồi giường, mở bento curry trên bàn nhỏ. Mở Asahi. Bật TV — kênh tin tức NHK. Mệt.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Vừa ăn vừa scroll iPhone — Slack Tuấn đã reply câu Itoki. WhatsApp gia đình HCMC: mẹ hỏi 'con ăn cơm chưa'. Dũng nhắn 'dạ con đang ăn, con OK mẹ ạ'.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Curry không ngon bằng quán nhưng đủ. Bia mát. TV news về kinh tế Nhật — nửa hiểu nửa không. Cảm giác đầu tiên trong tuần 'mệt nhưng OK'. Nhớ HCMC — phở mẹ nấu, tiếng xe máy buổi tối.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Hoàn thành bento 22 phút. Đặt rác đúng chỗ (plastic riêng, can riêng). Tắm 15 phút. 21:00 lên giường, mở memory app — viết note ngày Thursday.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Đêm 1 mình konbini — bài học self-care",
+        "body": "1 tuần onsite không phải mỗi đêm dinner với khách. **Đêm 1 mình konbini quan trọng**:\n- ✅ **Recharge** — 1-2 đêm/tuần solo để giữ năng lượng.\n- ✅ **Khách JP không bị offended** nếu bạn từ chối dinner 1-2 đêm — họ hiểu (họ cũng cần solo).\n- ✅ Bento + bia + TV NHK = JP basic experience, OK.\n- ✅ **Liên lạc gia đình** — 5 phút WhatsApp/Slack với người thân HCMC = anchor mental.\n- ❌ Đừng làm việc đến 11h đêm trong phòng → burn out giữa tuần.\n- Konbini Nhật phrase cần thuộc: 温めますか? (hâm không), 袋は? (cần túi không)."
+      }
+    },
+    {
+      "n": 10,
+      "time": "Fri 09:30",
+      "location": "Conference room — closing meeting",
+      "setting": "Tổng kết tuần. Matsumoto + Ōgaki + Tanaka + Dũng. Schedule next visit. Ōgaki hint Dũng quay lại sớm.",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "ズンさん、1週間お疲れ様でした。今週どうだった?",
+          "vi": "Dũng tuần này vất vả. Tuần này thế nào?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "本当に充実した1週間でした。月曜のキックオフから木曜の中村CFO 1-on-1 まで、学ぶこと多すぎて整理が追いつきません。土曜の機内でゆっくり振り返ります。",
+          "vi": "Một tuần thực sự đầy ắp. Từ kickoff thứ 2 đến 1-on-1 với anh Nakamura thứ 5, học nhiều quá em chưa kịp tổng kết. Thứ 7 trên máy bay em sẽ review kỹ."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "ズンさん、Phase 5 の準備期間中にもう一度来られない?10月の前半とか。Slack チャンネル提案、こっちで face-to-face で詰めたい。",
+          "vi": "Dũng à, trong period chuẩn bị Phase 5 qua thêm 1 lần nữa được không? Đầu tháng 10 chẳng hạn. Đề xuất Slack channel mình muốn close face-to-face."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Lời mời rõ rệt. Nhưng schedule 10/1-15 đã book full meeting Phase 5 prep ở HCMC. Không hứa ngay.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ありがとうございます、嬉しいです。10月前半は実は HCMC で Phase 5 prep の集中期間で、フオン副部長と一度相談させてください。月曜日の朝までにはお返事します。",
+          "vi": "Cảm ơn anh, em vui ạ. Đầu tháng 10 thật ra ở HCMC là thời gian intensive prep Phase 5, để em bàn với chị Hương. Sáng thứ 2 em trả lời."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "了解、無理しないで。代わりに10月後半でも全然OKだから。",
+          "vi": "Rõ, đừng cố. Hậu tháng 10 thay thế cũng OK toàn."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "ズンさん、今週の収穫を簡単にシェアしてもらえる?",
+          "vi": "Dũng share ngắn thu hoạch tuần này được không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "3点に絞ります。(1) 伊藤さんの質問から、tech depth で会話できる準備をすべきと痛感。(2) 中村CFO との 1-on-1 で、外部視点の価値を実感。(3) 月曜のサプライズプレゼンで、即答力の練習が必要と気づきました。",
+          "vi": "Em chọn 3 điểm. (1) Từ câu hỏi anh Itoki, em thấy phải chuẩn bị conversational depth tech. (2) 1-on-1 với anh Nakamura giúp em cảm nhận giá trị 'góc nhìn từ ngoài'. (3) Bài present surprise thứ 2 dạy em phải luyện improv response."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "整理が早い。来週の月曜にレポート送ってもらえる?",
+          "vi": "Tổng kết nhanh ghê. Tuần sau thứ 2 gửi report cho mình được không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "了解、月曜の朝に送ります。",
+          "vi": "Rõ, sáng thứ 2 em gửi."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Closing meeting onsite tuần",
+        "body": "Cuối tuần onsite host muốn thấy:\n- ✅ **Concrete takeaways** — 'rule of 3' (3 điểm) > vague 'em học nhiều'.\n- ✅ **Self-aware** — pointer điểm yếu (improv response, tech depth) = mature.\n- ✅ **Defer invitations với reason cụ thể** — không hứa, không từ chối thẳng.\n- ✅ **Cam kết deliverable** (report thứ 2) — close loop concrete.\n- Host JP cực giá trị junior 'biết tự reflect' > junior 'tự khen'."
+      }
+    },
+    {
+      "n": 11,
+      "time": "Fri 12:00",
+      "location": "Sảnh chia tay Hakuō HQ",
+      "setting": "Inoue + Tanaka tiễn ra cửa, đưa omiyage cho team Tien Phat. Bag nặng ≈3kg bánh kẹo Tokyo.",
+      "lines": [
+        {
+          "speaker": "inoue_hakuo",
+          "ja": "ズンさん、今週ありがとう。これ、Tien Phat の皆さんへ、Tokyo の銘菓詰め合わせ。",
+          "vi": "Dũng à, tuần này cảm ơn cậu. Đây, gửi mọi người Tien Phat, bộ bánh kẹo nổi tiếng Tokyo."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Bag chữ shopping nhỏ nhưng nặng — ≈3kg. Dũng ước check-in luggage còn dư bao nhiêu kg.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "わあ、こんなに!ありがとうございます、皆喜びます。",
+          "vi": "Wow, nhiều thế này! Cảm ơn anh, mọi người sẽ vui."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "重いから気をつけて。あ、それと…(ポケットから小さい袋)これはズンさん個人に。",
+          "vi": "Nặng đó, cẩn thận. À với lại… (rút túi nhỏ từ túi quần) cái này riêng cho Dũng."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(受け取る)えっ、何ですか?",
+          "vi": "(nhận) Ơ, gì vậy ạ?"
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "(笑って)息子からズンさんへ、お礼。あの IT Week のロボットステッカー、まだリュックに貼ってあって、『ズンおじさんに何か送ろう』って言うから。",
+          "vi": "(cười) Con trai gửi cảm ơn Dũng. Cái sticker robot IT Week vẫn dán trên balo, nó bảo 'gửi gì cho chú Dũng đi'."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng mở túi nhỏ — 1 sticker robot tự vẽ + 1 message tiếng Nhật trẻ con: 'ズンおじさん ありがとう'.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(感動)…田中さん、これ、宝物にします。息子さんに『ありがとう』伝えてください。",
+          "vi": "(xúc động)… anh Tanaka, em sẽ giữ đây như báu vật. Gửi cảm ơn con trai anh giúp em ạ."
+        },
+        {
+          "speaker": "inoue_hakuo",
+          "ja": "田中、その話、出張前に教えてくれよ(笑)",
+          "vi": "Tanaka, chuyện này phải nói trước khi công vụ chứ (cười)"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(到着)ズンさん、エレベーターまで送るよ。気をつけて帰国してね。",
+          "vi": "(đến) Dũng à, tôi tiễn ra thang máy. Về cẩn thận nhé."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Omiyage 2 chiều — bonus moment",
+        "body": "Khách JP đưa omiyage chia tay cho team home country = standard. Bonus moment khi:\n- **Senior cá nhân (Tanaka) có gesture riêng** — sticker từ con. Đó là chứng minh chi tiết Dũng làm cho con tháng 5 đã lưu trong gia đình họ.\n- ✅ **Receive với 2 tay + emotion**.\n- ✅ **Cam kết relay back** ('truyền cảm ơn cho con').\n- ✅ Note vào memory bank ngay — chi tiết này phải nhớ next visit."
+      }
+    },
+    {
+      "n": 12,
+      "time": "Fri 19:00",
+      "location": "Don Quijote Shinjuku",
+      "setting": "Mua omiyage tự cho gia đình + bạn HCMC. Don Quijote 6 tầng, đủ thứ. Dũng làm list 10 món, đi vòng 1.5 tiếng.",
+      "lines": [
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[List Dũng: bánh KitKat matcha (cho em gái), Lego Tokyo limited (cho cháu), face mask Tsuruha (cho mẹ), kẹo Hi-Chew (cho team HCMC), sake mini chai (cho bố), khăn tay Hello Kitty (cho bạn gái), bánh Royce chocolate (Hương + Hà CTO), 4 chai sữa rửa mặt SKII mini (cho Linh + bạn nữ).]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Đi 1 tiếng. Cart đã đầy 7/10 món. Tới quầy SKII mini — giá ¥3,800/chai × 4 = ¥15,200. Tổng cart đã ¥35,000. Budget ¥40,000.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng dừng. Tính lại: SKII 4 chai = ¥15,200 → quá. Cắt xuống còn 2 chai cho Linh + 1 bạn nữ thân nhất. ¥7,600 thôi. Cộng lại ¥27,400. OK.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Quầy Royce chocolate — chỉ còn loại 'Nama Chocolate Champagne' ¥770/hộp. Đẹp + ngon. Lấy 2 hộp cho Hương + Hà.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Quầy bánh kẹo Hi-Chew — set 30 viên ¥1,200. Đủ chia team HCMC 25 người (mỗi người 1 viên).]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Checkout. Tổng ¥38,500 + tax-free 8% (over ¥5,000 tax-free cho tourist) → final ¥35,500. Trong budget ¥40,000.]"
+        },
+        {
+          "speaker": "konbini_staff",
+          "ja": "免税手続きはこちらでどうぞ。パスポートとレシートをお願いします。",
+          "vi": "Thủ tục tax-free bên này. Vui lòng cho passport và bill ạ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(パスポート出す)これお願いします。",
+          "vi": "(rút passport) Cái này nhờ anh."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[5 phút sau, có form tax-free dán vào passport. Bag 4 cái shopping bag lớn. Vác về hotel — vai mỏi nhưng vui.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Mua omiyage gia đình — list + budget",
+        "body": "Last day onsite = mua omiyage cho gia đình + bạn HCMC. Hack:\n- ✅ **Chuẩn bị list 10 món + budget trước** từ Tokyo Day 2 — không impulse-buy ngày cuối.\n- ✅ **Don Quijote / Loft / Tokyo Station shop** = one-stop, đủ giá.\n- ✅ **Tax-free for tourist** > ¥5,000/store/day → tiết kiệm 8%.\n- ✅ **Cắt bớt khi over budget** — chia ưu tiên (gia đình > bạn thân > team) — không try to please all.\n- ✅ **Royce / KitKat matcha / Tokyo Banana** là default an toàn.\n- Trọng lượng kiểm tra: limit JAL/VN check-in 23kg. Cộng laptop bag + carry-on 7kg."
+      }
+    },
+    {
+      "n": 13,
+      "time": "Sat 06:00",
+      "location": "Hotel check-out → Narita Express",
+      "setting": "Check-out 6:00 sáng. Bus shuttle chưa chạy → đi taxi đến ga Shinjuku. N'EX 6:45 đến Narita 8:15. Va-li ≈23.5kg (limit 23).",
+      "lines": [
+        {
+          "speaker": "reception_hotel",
+          "ja": "(架空) チェックアウトでよろしいですか?ご利用ありがとうございました。",
+          "vi": "(lễ tân) Quý khách check-out đúng không? Cảm ơn quý khách đã sử dụng."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ありがとうございました、また利用させていただきます。",
+          "vi": "Cảm ơn chị, em sẽ sử dụng lần sau."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Tới sân bay 8:15. Counter check-in JAL. Đặt va-li lên cân — 23.5kg. Đỏ đèn.]"
+        },
+        {
+          "speaker": "jal_staff",
+          "ja": "(架空) お客様、規定の23kgを0.5kg超過しております。中身を一部、お手荷物の方へお移しいただけますか?",
+          "vi": "(nhân viên JAL) Quý khách, vượt quy định 23kg 0.5kg. Đồ trong vali, có thể di chuyển bớt không ạ?"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng mở va-li ngay tại counter. Lấy ra hộp Royce chocolate (≈600g) bỏ vào carry-on backpack. Cân lại — 22.9kg. OK.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(va-li 閉じる)これで OK ですか?",
+          "vi": "(đóng vali) Cái này OK không ạ?"
+        },
+        {
+          "speaker": "jal_staff",
+          "ja": "はい、22.9kg、問題ありません。チェックインさせていただきます。",
+          "vi": "Vâng, 22.9kg, không vấn đề. Em check-in cho ạ."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Boarding pass + receipt. Đi qua security. 9:00 vào lounge nhỏ JAL Sakura Lounge (Dũng có pass qua công ty). Cà phê + croissant nhỏ. Ngồi viết Slack.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Slack thread '出張Tokyo週報' — gửi Hương: '今日13:00便でHCMC帰国。月曜の朝オフィスで Phase 5 月曜定例の前にちょっと話せますか?Slack整理プロジェクトの提案あります。'.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Check-in luggage hack",
+        "body": "Limit 23kg JAL/VN/ANA cho economy. Trick:\n- ✅ **Hộp nặng + nhỏ** (chocolate, sake) → carry-on backpack. Backpack thường không cân nghiêm.\n- ✅ **Quần áo + bánh giòn** → check-in.\n- ✅ Nếu over 0.5-1kg → counter staff thường flexible nếu bạn nhanh chóng di chuyển ngay tại chỗ. Over 2kg+ → tính phụ phí (≈¥3,000-5,000/kg).\n- ✅ **Cân thử ở hotel** với app weighing scale (luggage scale ¥1,000 ở Don Quijote, đáng đầu tư cho người onsite thường xuyên)."
+      }
+    },
+    {
+      "n": 14,
+      "time": "Sat 14:00",
+      "location": "Trên máy bay JAL về HCMC",
+      "setting": "Ghế cửa sổ, hàng 22A. Dũng mở memory bank app trên iPhone, viết note tổng tuần. Internal monologue dài — không có dialogue ngoài.",
+      "lines": [
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Máy bay vừa cất cánh. Tokyo nhỏ dần dưới cánh. Dũng nhìn ra cửa sổ 5 phút. Tâm trạng: mệt sâu nhưng đầu nhẹ.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Mở Notes app. Viết title: '出張 Tokyo Week 1 — 2026/09/XX-XX | Tổng kết'.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Bullet: 'Hôm nay là tuần đầu tiên onsite 1 tuần solo. Mệt khủng nhưng cảm giác gãy lưng đáng giá. 5 ngày — mỗi ngày 1 win nhỏ. Mỗi tối 1 mistake reflect. Cân bằng đẹp.']"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Liếc bên cạnh — bà cụ Nhật ≈70t đang ngủ. Dũng tiếp tục scroll list mistakes ngày: hải quan / passport / từ vựng 禁煙 / Itoki tech depth — và list wins: present sáng thứ 2 / honest 1-on-1 với Nakamura / sticker từ con Tanaka.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dừng. Suy nghĩ. Cảm giác này — 'đã trưởng thành 1 chút' — first time experience trong career. Không phải vì 1 cái big achievement. Vì hàng loạt small choices đúng.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Viết tiếp: 'Promise next time: speak up sớm hơn trong meeting. Hôm thứ 5 với Nakamura mình share được vì được hỏi. Lần sau, share trước khi được hỏi.']"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Lưu note. Mở YouTube đã download — 1 video 30 phút về Slack channel architecture. Học thêm cho proposal deck thứ 2 sẽ nộp Hương.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Sau 30 phút — đói. Bữa trưa máy bay ra: cơm gà + soup miso. Ăn. Sau bữa ngủ 3 tiếng. Tỉnh lúc còn 1.5 tiếng đến HCMC.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Reflect trên máy bay về",
+        "body": "Tuần onsite intensive = thông tin overload. **Reflect ngay trên máy bay về** quan trọng vì:\n- 4-6 tiếng flight = block thời gian không ai làm phiền.\n- Memory còn fresh — đến HCMC + Monday office sẽ blur lại.\n- ✅ **Format checklist + 5 wins + 5 mistakes** — concrete, dễ retrieve sau.\n- ✅ **1 self-promise** cho next visit — hành động cụ thể.\n- ✅ Tải sẵn 1 video / podcast học liên quan — biến flight thành productive hour.\n- ❌ Đừng nhậu trên máy bay nếu định viết note serious."
+      }
+    }
+  ],
+  "recap": {
+    "setting": "Trên máy bay, ghế 22A. Final note trước khi máy bay hạ cánh HCMC.",
+    "format": "code_block",
+    "content": "2026-09-XX  Onsite Tokyo Week 1 (Mon-Fri @ Hakuō HQ)\n\n5 wins:\n1. Mon kickoff present surprise — improv 5 phút OK với rule of 3.\n2. Tue Itoki Bedrock question — honest 'sẽ check rồi mail' = trust earned.\n3. Thu Nakamura 1-on-1 — observation về Slack channels được CFO\n   ask deck đề xuất Phase 5. Promotion signal.\n4. Tanaka đưa sticker từ con — chứng minh chi tiết IT Week tháng 5\n   đã in vào gia đình họ.\n5. Don Quijote shopping under budget + tax-free OK.\n\n5 mistakes không lặp:\n1. Khai báo hải quan — quên hạt điều, suýt phạt → next time khai sạch.\n2. Để passport ở khách sạn → next time mang theo daily.\n3. Quên từ '禁煙' → ôn lại từ vựng hotel/transportation cơ bản.\n4. Slack Tuấn 22h hỏi tech — Tuấn đang ngủ HCMC → schedule async sớm hơn.\n5. Don Quijote impulse buy SKII 4 chai → list + budget upfront.\n\nAction items week tới:\n- [ ] Mon morning: gửi Tanaka link sticker design HCMC artist (cho con Tanaka)\n- [ ] Mon morning: gửi Itoki email follow up về Bedrock Strands\n- [ ] Mon morning: report tuần qua cho Hương + 白鷗 group\n- [ ] Mon-Wed: draft Slack channel proposal deck cho Phase 5 kickoff\n- [ ] Trả lời Ōgaki về possibility quay lại Tokyo đầu tháng 10\n- [ ] Note Edo-Tokyo Museum cho lần sau\n\nSelf-promise:\n- Next visit: speak up sớm hơn, không đợi được hỏi.\n- Học 50 từ vựng business JP / tuần — hôm nay quên 禁煙 quá basic.\n- Trước onsite next time: pre-research từng người sẽ meet (LinkedIn /\n  past project) — không bị surprise như Itoki Bedrock.\n\nMình:\n- Chuyến onsite này là bản lề. Trước đây 3 ngày visit cảm giác guest.\n- Tuần này — moment của Nakamura 1-on-1 + Tanaka sticker + Itoki tech\n  test — cảm giác bắt đầu thuộc về team, không chỉ vendor.\n- Đề xuất Tokyo onsite 6 tháng (từ bonenkai tháng 12) giờ thấy thực\n  hơn — mình có thể.\n- Mệt nhưng vui. Về HCMC chiều nay ăn phở mẹ nấu."
+  }
+}

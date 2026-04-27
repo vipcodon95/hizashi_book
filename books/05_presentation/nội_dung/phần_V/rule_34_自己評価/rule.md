@@ -1,0 +1,125 @@
+# Rule 34 — Self-review checklist / 自己評価
+
+> **Luận điểm.** Sau pitch (trong vòng 24h), self-review **bằng 12-item rubric** chia 4 cụm: Preparation (3) / Delivery (4) / Q&A (3) / Closing+Followup (2). Mỗi item chấm 1-5. Tự kết luận **3 strengths + 3 improvements**. Skip self-review = lặp cùng lỗi pitch tiếp. Khách Nhật value "改善志向" — review record tự nó là đầu tư.
+>
+> ピッチ後24h以内に12項目 rubric self-review (準備3+デリバリー4+Q&A3+クロージング2)。3 strengths + 3 improvements を抽出。改善志向は日本顧客が高く評価。
+>
+> **Liên quan:** rule 35 (改善サイクル), rule 28 (followup).
+
+---
+
+## Bối cảnh / 場面
+
+Pitch Phase 3 chiều thứ Năm xong. Tối thứ Năm, Dũng đã gửi acknowledgment email. Sáng thứ Sáu, Dũng định "skip review, viết detailed mail luôn cho đỡ delay". Chị Hương cản.
+
+---
+
+## ❌ Hội thoại XẤU — skip review
+
+*Slack 8:00 thứ Sáu*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「フオン副部長、月曜の詳細メール書きます。Self-review は時間取れないので skip して大丈夫ですか？」 |
+| **フオン** | 「ダメ。Self-review skip すると **次の pitch も同じ間違い** する。30分でいい、12項目 rubric で chấm。」 |
+| **ズン** | 「30分も…」 |
+| **フオン** | 「Pitch 60分の **半分** を review に投資して初めて成長する。**今やる**。」 |
+
+**Vì sao xấu:** Skip review → repeat lỗi. "時間ない" thường là excuse. Mỗi pitch là 1 datapoint, không log → wasted opportunity.
+
+---
+
+## ✅ Hội thoại TỐT — 30 phút self-review + 3+3 extract
+
+*Slack 8:30, sau 30 phút review*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「Self-review 完了です【1】。**12項目平均 3.8/5**。詳細はテンプレ添付。」 |
+| **ズン** | 「**3 strengths**: ①LASR 適用 (Q&A の難問対応)、②Plan B 切替 (ネット障害 30秒復旧)、③CTA 3点明示。**3 improvements**: ①hook が weak (data 提示遅い)、②大垣様の価格 challenge で bridge phrase 1秒遅れた、③closing recap に時間配分 -2分【2】。」 |
+| **フオン** | 「いいね、具体的。**hook の改善** は次の pitch までに **rule 11 再読** + 30秒 hook draft 5パターン作成。Bridge phrase は **rule 25 暗唱** で 0.5秒 reflex まで。」 |
+| **ズン** | 「了解、**5/2 までに hook drill** + **5/8 までに bridge phrase 暗唱完了** いたします【3】。」 |
+
+📝 **Ghi chú:**
+- 【1】**Self-review 30 phút** — fixed budget. 12 items × 1-2 phút/item + 5 phút summary. 30+ phút = over-analyze, không sustainable.
+- 【2】**3 + 3 format** — 3 strengths (giữ + scale up) + 3 improvements (action). Equal split → không bị "negative spiral".
+- 【3】**Improvements có deadline + drill cụ thể** — review không action = review wasted. Map mỗi improvement → rule + drill + deadline.
+
+---
+
+## 🎯 Câu chốt
+
+> **24h trong: 12-item rubric (4 cụm) chấm 1-5 → 3 strengths + 3 improvements + drill plan có deadline.**
+>
+> *Không review = repeat lỗi. Review không action = review wasted.*
+
+---
+
+## 📐 Template Self-review Rubric (đính kèm — `conversation.json:templates[0]`)
+
+```
+【プレゼン Self-review チェックリスト】 (12項目 / 30分)
+
+評価: 1=要改善 / 2=不十分 / 3=平均 / 4=良好 / 5=優秀
+
+■ 準備 (Preparation) — 3項目
+□ 1. 7問チェックリスト埋めたか (rule 01)         _/5
+□ 2. 1-slide-1-message 守ったか (rule 02)        _/5
+□ 3. Plan B 用意 (PDF/handout/hotspot) (rule 07) _/5
+
+■ デリバリー (Delivery) — 4項目
+□ 4. Hook 30秒で attention 取れたか (rule 08)    _/5
+□ 5. 時間管理約束守ったか (rule 13)              _/5
+□ 6. 論理マーカー使ったか (rule 14)              _/5
+□ 7. アイコンタクト均等 (rule 30 - 50/50)        _/5
+
+■ Q&A — 3項目
+□ 8. LASR 適用 (rule 23)                         _/5
+□ 9. 持ち帰り適切 (rule 24)                      _/5
+□ 10. 敵対的質問 bridge phrase (rule 25)         _/5
+
+■ クロージング＋followup — 2項目
+□ 11. Recap 3 + CTA 3 (rule 26)                  _/5
+□ 12. 24h 内 acknowledgment メール (rule 28)     _/5
+
+────────────────────────────
+合計: __/60     平均: __/5
+
+【3 Strengths】 — 4-5点項目から
+1. ____
+2. ____
+3. ____
+
+【3 Improvements】 — 1-3点項目から
+1. ____ → drill: ____ までに ____
+2. ____ → drill: ____ までに ____
+3. ____ → drill: ____ までに ____
+
+【次回 pitch までの commit】
+- ____
+```
+
+---
+
+## ⚠ Tránh
+
+- Skip self-review → repeat lỗi
+- Self-review > 60 phút → over-analyze, không sustainable
+- Chỉ list improvements → negative spiral, mất motivation
+- 6+ improvements → diluted, không action item nào hoàn thành
+- Improvements không deadline → wishful thinking
+- Không review trong 24h → memory đã loãng
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 自己評価 | じこひょうか | Tự đánh giá |
+| ルーブリック | ruuburikku | Rubric |
+| 強み | つよみ | Điểm mạnh |
+| 改善点 | かいぜんてん | Điểm cần cải thiện |
+| 暗唱 | あんしょう | Học thuộc |
+| 反射 | はんしゃ | Phản xạ |
+| 投資 | とうし | Đầu tư |

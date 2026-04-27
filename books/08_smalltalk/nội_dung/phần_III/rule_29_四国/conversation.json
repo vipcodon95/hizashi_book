@@ -1,0 +1,146 @@
+{
+  "rule_id": "08-29",
+  "rule_slug": "四国",
+  "title": {
+    "vi": "Shikoku — udon, citrus, お遍路",
+    "ja": "四国"
+  },
+  "regional_focus": "Shikoku 4県 (香川/愛媛/高知/徳島)",
+  "rule_context": {
+    "luan_diem_vi": "Shikoku 4県 4 đặc trưng. 香川うどん, 愛媛みかん+道後, 高知カツオ+龍馬, 徳島阿波踊り+すだち. Sợi xuyên 4県: お遍路 88ヶ所 1200km.",
+    "luan_diem_ja": "四国は4県それぞれ鮮明な名物。共通項はお遍路88ヶ所巡礼。",
+    "boi_canh_vi": "Tháng 11/2026, Dũng business trip Takamatsu, dinner với khách hàng Kondo (từng work ở 高知 + Matsuyama).",
+    "boi_canh_ja": "2026年11月、ズンが高松出張、近藤さんとディナー。",
+    "muc_tieu_vi": "Master 4県 differentiators + お遍路 connection."
+  },
+  "related_rules": [
+    {"book": "08", "rule": "11", "topic": "Món địa phương"},
+    {"book": "08", "rule": "15", "topic": "Onsen"}
+  ],
+  "conversations": [
+    {
+      "scenario": "Kagawa うどん深掘り + 金刀比羅",
+      "type": "good",
+      "lines": [
+        {"speaker": "matsumoto", "ja": "ズンさん、香川は『うどん県』を公式名称にしようとしたほどでね。県民1人当たりのうどん消費量、全国1位ですよ。", "vi": "Em Dũng, Kagawa từng định lấy 'tỉnh udon' làm tên chính thức luôn. Tiêu thụ udon/đầu người số 1 cả nước."},
+        {"speaker": "zun", "ja": "讃岐うどん、コシが命ですよね。セルフうどんって香川独特の文化ですか?", "vi": "Sanuki udon, độ dai là tinh thần. Self udon là văn hóa Kagawa nhỉ?"},
+        {"speaker": "matsumoto", "ja": "そう、自分で器持って麺をテボに入れて湯がいて、出汁注いで天ぷら載せる。1杯200円くらいで朝から食えるよ。長田in香の香、山越うどん、山下うどん、地元民が並ぶ店が本物。", "vi": "Đúng, tự cầm tô, cho mì vào tebo trụng, đổ dashi, đặt tempura. 200 yên 1 tô từ sáng. Nagata, Yamagoe, Yamashita — quán dân địa phương xếp hàng mới chuẩn."},
+        {"speaker": "zun", "ja": "『かまたま』って卵かけご飯のうどん版ですよね。", "vi": "Kamatama là version udon của tamago kake gohan nhỉ."},
+        {"speaker": "matsumoto", "ja": "正解!山越うどんのかまたまが元祖と言われとる。あとぶっかけ、しょうゆうどん、釜揚げ…シンプルな食べ方ほど麺の質が出るんよ。", "vi": "Đúng! Kamatama Yamagoe được xem là gốc. Còn bukkake, shoyu udon, kamaage... cách càng đơn giản càng lộ chất mì."},
+        {"speaker": "zun", "ja": "香川には金刀比羅宮 (こんぴらさん)もありますよね、1368段の階段…", "vi": "Kagawa còn Konpira-san nhỉ, 1368 bậc..."},
+        {"speaker": "matsumoto", "ja": "こんぴら参り、知っとる!こんぴらさんは海運の神様。1368段のうち奥社まで行く強者は少ない(笑)", "vi": "Konpira-mairi em biết! Konpira-san là thần đi biển. Trong 1368 bậc, ít người lên tới Okusha (cười)."}
+      ]
+    },
+    {
+      "scenario": "Ehime みかん + 道後温泉 + 今治",
+      "type": "good",
+      "lines": [
+        {"speaker": "matsumoto", "ja": "愛媛はみかん王国でね。ポンジュースのえひめ飲料は元々県の事業だったんよ。蛇口からポンジュースは伝説的な話、観光向けに本当に設置されとる(笑)", "vi": "Ehime là vương quốc quýt. Pon Juice Ehime Inryō vốn dự án của tỉnh. Vòi nước chảy ra Pon Juice là chuyện huyền thoại, thực sự có cho khách du lịch (cười)."},
+        {"speaker": "zun", "ja": "実話なんですね!愛媛は道後温泉も日本三古湯の一つですよね。", "vi": "Có thật à! Ehime còn Dōgo onsen 1 trong 3 onsen cổ nhất."},
+        {"speaker": "matsumoto", "ja": "道後温泉本館、夏目漱石『坊っちゃん』にも出てくる。3000年の歴史、日本最古と言われる温泉。千と千尋の油屋のモデルとも言われとるね。", "vi": "Dōgo Onsen Honkan xuất hiện trong 'Botchan' của Sōseki. 3000 năm, được coi là onsen cổ nhất Nhật. Cũng được cho là mẫu của 'Yu-ya' phim Spirited Away."},
+        {"speaker": "zun", "ja": "坊っちゃん列車って、漱石の小説からですよね。", "vi": "Botchan train từ tiểu thuyết Sōseki nhỉ."},
+        {"speaker": "matsumoto", "ja": "そう、伊予鉄が運行しとるSL風列車。今でも観光客が乗れる。あと今治タオル、世界的ブランドでね。柔らかさと吸水力が違う。", "vi": "Ừ, Iyo-tetsu chạy tàu kiểu SL. Du khách vẫn đi được. Còn khăn Imabari, brand thế giới. Mềm và hút nước khác hẳn."},
+        {"speaker": "zun", "ja": "今治はしまなみ海道の起点ですよね、サイクリストの聖地。", "vi": "Imabari là điểm đầu Shimanami Kaidō nhỉ, thánh địa cyclists."},
+        {"speaker": "matsumoto", "ja": "しまなみ海道70km、自転車で尾道(広島)から今治まで渡れる、世界7大サイクリングロードの一つ。", "vi": "Shimanami Kaidō 70km, đạp xe Onomichi → Imabari, 1 trong 7 cung đường đạp xe lớn thế giới."}
+      ]
+    },
+    {
+      "scenario": "Kochi カツオたたき + 龍馬 + よさこい",
+      "type": "good",
+      "lines": [
+        {"speaker": "matsumoto", "ja": "高知のカツオのたたき、塩たたきで食うのが本場流。藁焼きで表面焦がして、生姜・にんにく・ねぎ載せて。", "vi": "Tataki cá ngừ Kōchi, ăn 'shio-tataki' là chuẩn. Nướng rơm cháy bề mặt, đặt gừng/tỏi/hành."},
+        {"speaker": "zun", "ja": "藁焼き、香りが移るんですね。", "vi": "Nướng rơm, hương thấm vào nhỉ."},
+        {"speaker": "matsumoto", "ja": "そう、ひろめ市場(高知駅近く)で明神丸が一番有名。あと酒!高知は酒豪県で、司牡丹、酔鯨、美丈夫…返杯って文化があってな、お互いの杯を交換して飲み合うんよ。", "vi": "Đúng, ở chợ Hirome (gần ga Kōchi) Myōjin-maru nổi nhất. Còn sake! Kōchi tỉnh nhậu, Tsukasabotan, Suigei, Bijōfu... có văn hóa 'henpai' đổi chén nhau uống."},
+        {"speaker": "zun", "ja": "坂本龍馬、高知のシンボルですよね。", "vi": "Sakamoto Ryōma là biểu tượng Kōchi nhỉ."},
+        {"speaker": "matsumoto", "ja": "桂浜の龍馬像、必見じゃ。1836-1867、31歳で暗殺された幕末の英雄。亀山社中を作って薩長同盟を仲介した。", "vi": "Tượng Ryōma Katsurahama, phải xem. 1836-1867, ám sát ở 31 tuổi, anh hùng Bakumatsu. Lập Kameyama Shachū làm trung gian Satchō Dōmei."},
+        {"speaker": "zun", "ja": "よさこい祭り、毎年8月ですよね。札幌のYOSAKOIソーランもここから派生したと聞きました。", "vi": "Yosakoi matsuri tháng 8 nhỉ. YOSAKOI Sōran Sapporo cũng phái sinh từ đây em nghe."},
+        {"speaker": "matsumoto", "ja": "1954年から始まった、毎年200チーム以上参加。鳴子を持って踊る。札幌のは1992年に高知から派生したやつ。", "vi": "Bắt đầu 1954, hàng năm 200+ đội. Dùng naruko múa. Sapporo 1992 phái sinh từ Kōchi."}
+      ]
+    },
+    {
+      "scenario": "Tokushima 阿波踊り + 鳴門 + すだち + お遍路",
+      "type": "good",
+      "lines": [
+        {"speaker": "matsumoto", "ja": "徳島の阿波踊り、毎年8/12-15、130万人訪れる日本最大級の盆踊り。『踊る阿呆に見る阿呆』ね。", "vi": "Awa Odori Tokushima, hàng năm 12-15/8, 1.3 triệu người, Bon Odori lớn nhất Nhật. 'Múa kẻ ngốc, xem kẻ ngốc' đó."},
+        {"speaker": "zun", "ja": "鳴門の渦潮、渦巻き世界三大ですよね。鳴門海峡に直径20m渦が出る。", "vi": "Naruto Uzushio, xoáy 1 trong 3 thế giới. Eo biển Naruto xoáy đường kính 20m."},
+        {"speaker": "matsumoto", "ja": "春と秋の大潮が一番すごい。観潮船で間近に見られる。徳島ラーメン、豚骨醤油+生卵載せ、独特なんよ。東大って店が有名。", "vi": "Triều cường xuân thu là đỉnh nhất. Tàu kantōsen ngắm gần. Ramen Tokushima, tonkotsu shoyu + trứng sống. Quán Tōdai nổi."},
+        {"speaker": "zun", "ja": "すだち、徳島の名産ですよね。柚子より爽やか…", "vi": "Sudachi đặc sản Tokushima nhỉ. Tươi hơn yuzu..."},
+        {"speaker": "matsumoto", "ja": "徳島は全国シェア95%以上!サンマやマツタケにすだち絞ると、世界が変わる。", "vi": "Tokushima chiếm 95%+ cả nước! Vắt sudachi vào cá thu hay nấm matsutake, thay đổi cả thế giới."},
+        {"speaker": "zun", "ja": "四国を貫くお遍路、88ヶ所、1200kmですよね。弘法大師ゆかりのお寺を回る…", "vi": "Henro xuyên Shikoku 88 đền 1200km nhỉ. Vòng các chùa Kūkai..."},
+        {"speaker": "matsumoto", "ja": "お遍路まで…!1番札所霊山寺(徳島)から始まって、88番大窪寺(香川)で結願。4県全部通る、40-50日かかる徒歩で。白衣・菅笠・金剛杖が遍路スタイル。お接待って、地元民が遍路さんに無料でお茶や食べ物を出す文化、今も生きとる。", "vi": "Cả ohenro... Bắt đầu chùa số 1 Ryōzenji (Tokushima), kết thúc chùa 88 Ōkuboji (Kagawa). Đi qua cả 4 tỉnh, 40-50 ngày đi bộ. Áo trắng, nón sugegasa, gậy kongō. 'Osettai' — dân địa phương tặng trà/thức ăn miễn phí cho ohenro, vẫn còn."},
+        {"speaker": "zun", "ja": "四国、深いですね。1県1日じゃ足りない。", "vi": "Shikoku sâu nhỉ. 1 tỉnh 1 ngày không đủ."},
+        {"speaker": "matsumoto", "ja": "ぜひしまなみ海道渡って次回は4県回ってください、ズンさん。", "vi": "Lần sau qua Shimanami Kaidō đi cả 4 tỉnh đi em."}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"category": "Mở topic", "ja": "四国のご出身は何県ですか?", "vi": "Shikoku tỉnh nào ạ?"},
+    {"category": "Kagawa", "ja": "うどん県、消費量全国1位ですよね。", "vi": "Tỉnh udon, tiêu thụ số 1 nhỉ."},
+    {"category": "Ehime", "ja": "ポンジュース、えひめ飲料の元県事業ですよね。", "vi": "Pon Juice gốc dự án tỉnh Ehime."},
+    {"category": "Ehime", "ja": "道後温泉、3000年の歴史で漱石坊っちゃんにも…", "vi": "Dōgo onsen 3000 năm, có cả trong Botchan của Sōseki..."},
+    {"category": "Kochi", "ja": "カツオの塩たたき、藁焼きが本場流ですよね。", "vi": "Shio-tataki cá ngừ, nướng rơm là chuẩn."},
+    {"category": "Kochi", "ja": "桂浜の龍馬像、必見ですよね。", "vi": "Tượng Ryōma Katsurahama phải xem."},
+    {"category": "Tokushima", "ja": "阿波踊り、130万人の日本最大級盆踊り、いつかは…", "vi": "Awa Odori 1.3 triệu, lớn nhất Nhật, lúc nào..."},
+    {"category": "お遍路", "ja": "お遍路88ヶ所、1番霊山寺から88番大窪寺、感動的な巡礼ですね。", "vi": "Ohenro 88, từ chùa 1 Ryōzenji đến 88 Ōkuboji, cuộc hành hương cảm động."}
+  ],
+  "regional_cheatsheet": {
+    "kagawa": {"capital": "高松", "food": "讃岐うどん(山越/長田/山下), 骨付鳥, 小豆島オリーブ", "tourism": "金刀比羅宮(1368段), 栗林公園, 直島", "festival": "さぬき高松まつり", "sport": "カマタマーレ讃岐(J3)"},
+    "ehime": {"capital": "松山", "food": "みかん/ポンジュース, 鯛めし, 今治タオル, じゃこ天", "tourism": "道後温泉本館(3000年), 松山城, しまなみ海道70km", "festival": "松山まつり/新居浜太鼓祭", "sport": "愛媛FC(J)"},
+    "kochi": {"capital": "高知", "food": "カツオ塩たたき(藁焼き), 皿鉢料理, 司牡丹/酔鯨/美丈夫, ゆず", "tourism": "桂浜+龍馬像, ひろめ市場, 四万十川, 仁淀ブルー", "festival": "よさこい(8/9-12, 鳴子)", "sport": "高知ファイティングドッグス"},
+    "tokushima": {"capital": "徳島", "food": "阿波尾鶏, 徳島ラーメン東大, すだち95%+, 鳴門金時", "tourism": "鳴門の渦潮(直径20m), 大塚国際美術館, 祖谷渓+かずら橋", "festival": "阿波踊り(8/12-15)130万人", "sport": "徳島ヴォルティス(J)"},
+    "ohenro": "空海/弘法大師ゆかり, 1番霊山寺(徳島)→88番大窪寺(香川), 4県全部, 1200km, 徒歩40-50日, 白衣・菅笠・金剛杖, お接待文化, 同行二人"
+  },
+  "ng_list": [
+    "Hỏi 「四国の方」 chung chung",
+    "Khen 「讃岐は品種?」 — sai 讃岐 = 地名",
+    "Trộn よさこい (Kōchi 1954) ↔ YOSAKOIソーラン (Sapporo 1992)",
+    "Hỏi quá detail お遍路 với khách chưa đi",
+    "Khen 「四国の方は素朴ですね」 patronizing"
+  ],
+  "vocab": [
+    {"kanji": "讃岐うどん", "yomi": "さぬきうどん", "vi": "Sanuki udon"},
+    {"kanji": "かまたま", "yomi": "かまたま", "vi": "Udon trứng"},
+    {"kanji": "金刀比羅宮", "yomi": "ことひらぐう", "vi": "Konpira"},
+    {"kanji": "道後温泉", "yomi": "どうごおんせん", "vi": "Dōgo 3000năm"},
+    {"kanji": "今治タオル", "yomi": "いまばりタオル", "vi": "Khăn Imabari"},
+    {"kanji": "しまなみ海道", "yomi": "しまなみかいどう", "vi": "70km biển"},
+    {"kanji": "ポンジュース", "yomi": "ポンジュース", "vi": "Ehime juice"},
+    {"kanji": "藁焼き", "yomi": "わらやき", "vi": "Nướng rơm"},
+    {"kanji": "桂浜", "yomi": "かつらはま", "vi": "Bãi Ryōma"},
+    {"kanji": "坂本龍馬", "yomi": "さかもとりょうま", "vi": "Anh hùng Mạc mạt"},
+    {"kanji": "よさこい祭り", "yomi": "よさこいまつり", "vi": "Yosakoi 8/9-12"},
+    {"kanji": "阿波踊り", "yomi": "あわおどり", "vi": "Awa Odori"},
+    {"kanji": "鳴門の渦潮", "yomi": "なるとのうずしお", "vi": "Naruto xoáy"},
+    {"kanji": "すだち", "yomi": "すだち", "vi": "Sudachi 95%"},
+    {"kanji": "お遍路", "yomi": "おへんろ", "vi": "Hành hương 88"},
+    {"kanji": "弘法大師", "yomi": "こうぼうだいし", "vi": "Kūkai"},
+    {"kanji": "お接待", "yomi": "おせったい", "vi": "Tiếp đãi miễn phí"}
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "高知出身のお客様に最も自然な雑談話題は?",
+      "options": ["A. 讃岐うどん", "B. ポンジュース", "C. カツオの塩たたきと坂本龍馬", "D. 阿波踊り"],
+      "answer": "C",
+      "explain_vi": "Kōchi specialty. A=Kagawa, B=Ehime, D=Tokushima."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「お接待文化」 とは?",
+      "options": ["A. 高級接待", "B. お遍路さんに地元民が無料でお茶や食事を提供する四国の伝統", "C. ビジネス接待", "D. 旅館サービス"],
+      "answer": "B",
+      "explain_vi": "Osettai Shikoku tradition tặng henro miễn phí."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "土佐弁「行くちや」 = ?",
+      "options": ["A. 行くんだよ (Tosa-ben)", "B. 行きません", "C. 行くか?", "D. 行かない"],
+      "answer": "A",
+      "explain_vi": "「〜ちや」 Tosa-ben = 〜だよ."
+    }
+  ],
+  "templates": []
+}

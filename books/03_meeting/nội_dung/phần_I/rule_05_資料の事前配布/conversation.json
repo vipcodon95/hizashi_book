@@ -1,0 +1,182 @@
+{
+  "rule_id": "rule_05",
+  "rule_slug": "資料の事前配布",
+  "title": {
+    "ja": "資料の事前配布",
+    "vi": "Distribute tài liệu trước 24h"
+  },
+  "rule_context": {
+    "ja": "ズンが月例会議の資料を松本PMに送付する場面。24時間前送付・PDF・バージョン番号・差分ハイライトが基本ルール。",
+    "vi": "Em Dũng gửi tài liệu họp định kỳ cho anh Matsumoto. Quy tắc cơ bản: 24h trước, PDF, có version, highlight phần thay đổi."
+  },
+  "related_rules": [
+    "rule_01",
+    "rule_02",
+    "rule_13"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 直前送付で読み上げ会議に",
+      "label_vi": "XẤU — Gửi sát giờ, họp thành đọc slide",
+      "display_order": 1,
+      "analysis": {
+        "ja": "資料を会議30分前に送ると、客は事前検討の時間がなく、会議が説明会になる。意思決定の時間が削られる。",
+        "vi": "Gửi tài liệu 30 phút trước họp → khách không có thời gian xem trước → họp biến thành buổi giải thích, mất thời gian quyết định."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_05_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "松本様、本日の会議資料をお送りいたします。",
+          "sentence_translation": "Anh Matsumoto, em gửi anh tài liệu cho buổi họp hôm nay ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_05_bad_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ズンさん、ありがとうございます。ただ、これから読むのは時間が足りないので、会議内で説明していただけますか？",
+          "sentence_translation": "Cảm ơn em. Nhưng từ giờ tới họp đọc không kịp đâu, em giải thích trực tiếp trong buổi họp giúp anh nhé.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_05_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "承知しました。会議内でご説明いたします。",
+          "sentence_translation": "Vâng em rõ rồi ạ. Em sẽ giải thích trong buổi họp.",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_05_bad_04",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "あの会議、ほぼ資料説明だったね。意思決定の議題に20分しか取れなかった。",
+          "sentence_translation": "Cái buổi họp đấy gần như là giải thích slide ấy nhỉ. Phần ra quyết định chỉ còn 20 phút.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 24時間前送付＋差分ハイライト",
+      "label_vi": "TỐT — Gửi trước 24h + highlight diff",
+      "display_order": 2,
+      "analysis": {
+        "ja": "v1.0 を24時間前に送付。客が事前質問を準備可能。当日朝に v1.1 で軽微修正、差分をハイライト表示で再送。",
+        "vi": "Gửi v1.0 trước 24h, khách kịp chuẩn bị câu hỏi. Sáng hôm họp gửi v1.1 chỉnh nhẹ, có highlight diff."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_05_good_01",
+          "highlight_text": "資料 v1.0",
+          "ja": "業務文書のバージョン管理。v1.0 = 初版、v1.1 = 軽微修正、v2.0 = 大幅改訂。",
+          "vi": "Quản lý version chuẩn doanh nghiệp. v1.0 = bản đầu, v1.1 = sửa nhẹ, v2.0 = thay lớn."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_05_good_01",
+          "highlight_text": "ご一読のうえ",
+          "ja": "「読んでから参加してください」を丁寧に依頼する定型句。",
+          "vi": "Cụm lịch sự để đề nghị 'đọc trước rồi vào họp'."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_05_good_03",
+          "highlight_text": "差分はハイライト表示",
+          "ja": "再送時に変更箇所をハイライトするのが業務マナー。客に再読の負担をかけない。",
+          "vi": "Khi gửi version mới phải highlight chỗ đổi — nguyên tắc business. Không để khách phải đọc lại từ đầu."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_05_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "松本様、明日の月例会議の資料 v1.0 をお送りいたします。ご一読のうえご参加いただけますと幸いです。",
+          "sentence_translation": "Anh Matsumoto, em gửi anh tài liệu v1.0 cho buổi họp định kỳ ngày mai ạ. Em mong anh đọc qua một lượt rồi tham dự ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_05_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ズンさん、ありがとうございます。Phase 2 進捗の8ページ目について明日確認させてください。",
+          "sentence_translation": "Cảm ơn em. Phần tiến độ Phase 2 trang 8, mai để anh confirm với em nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_05_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "松本様、修正版 v1.1 をお送りいたします。8ページ目の数値を最新化いたしました。差分はハイライト表示してあります。",
+          "sentence_translation": "Anh Matsumoto, em gửi anh bản chỉnh sửa v1.1 ạ. Em đã update con số trang 8. Phần thay đổi em có highlight ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_05_good_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "承知しました。差分明確で助かります。",
+          "sentence_translation": "Anh rõ rồi. Em ghi diff rõ thế này tiện lắm.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_05_kp_01",
+      "speaker": "zun",
+      "sentence": "〇〇会議の資料 v〇〇 をお送りいたします。ご一読のうえご参加いただけますと幸いです。",
+      "sentence_translation": "Em gửi anh/chị tài liệu v〇〇 cho buổi họp 〇〇 ạ. Em mong anh/chị đọc qua trước rồi tham dự ạ.",
+      "purpose": "資料事前配布の定型句",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_05_kp_02",
+      "speaker": "zun",
+      "sentence": "修正版 v〇〇 をお送りいたします。差分はハイライト表示してあります。",
+      "sentence_translation": "Em gửi anh/chị bản chỉnh sửa v〇〇 ạ. Phần thay đổi em có highlight ạ.",
+      "purpose": "資料再送時の定型句",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_05_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "会議資料を再送する際、最も丁寧で実務的な一言はどれか？",
+      "options": [
+        "また送ります、見てください。",
+        "修正版 v1.1 をお送りいたします。差分はハイライト表示してあります。",
+        "前のは無視してください。",
+        "ちょっと直したので確認お願い。"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "バージョン番号と差分明示が業務メールの基本。",
+        "vi": "Có version + highlight diff là chuẩn business mail."
+      }
+    }
+  ]
+}

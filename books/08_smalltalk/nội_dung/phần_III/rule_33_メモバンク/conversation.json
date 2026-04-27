@@ -1,0 +1,338 @@
+{
+  "rule_id": "08-33",
+  "rule_slug": "雑談メモバンク",
+  "title": {
+    "vi": "Memory bank — ghi nhớ specifics khách JP",
+    "ja": "雑談メモバンク"
+  },
+  "regional_focus": null,
+  "rule_context": {
+    "luan_diem_vi": "Sau mỗi cuộc gặp 24h: ghi quê + món + team + family + topic vào CRM. Trước gặp tiếp: review 3 phút. Đây là moat AI không thay được.",
+    "luan_diem_ja": "雑談は記録なしに続かない。24時間以内にCRM記録、次回前3分復習。信頼差別化の核。",
+    "boi_canh_vi": "Tháng 3/2027, Dũng tổng kết 1 năm 雑談 với 19 khách. Lập Memory Bank Master Sheet Notion + Salesforce. Hà CTO yêu cầu training team.",
+    "boi_canh_ja": "2027年3月、ズンが1年の雑談を整理。Memory Bank Master Sheet作成 + チーム研修。",
+    "muc_tieu_vi": "Master memo system + 5 elements + 24h rule + reminder."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "10",
+      "topic": "Quê quán đào sâu"
+    },
+    {
+      "book": "08",
+      "rule": "13",
+      "topic": "Gia đình depth"
+    },
+    {
+      "book": "08",
+      "rule": "49",
+      "topic": "Memory bank duy trì lâu dài"
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "Sau dinner — taxi ghi memo",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "(Notionで記録中)…",
+          "vi": "(Đang ghi vào Notion)..."
+        },
+        {
+          "speaker": "zun",
+          "ja": "DATE:2027-03-15 / WHO:中村CFO札幌 / TOPIC:ライラック・新庄ファイターズ・積丹ウニ. NEW INFO:娘さん北大2年法学部、来年留学スウェーデン. REQUEST:次回札幌時円山公園案内. MOOD:warm 30分.",
+          "vi": "Ngày 15/3/2027 / Khách Nakamura CFO Sapporo / Topic: lilac, Fighters Shinjō, uni Shakotan. Info mới: con gái năm 2 Hokkaido Univ, du học Thụy Điển sang năm. Yêu cầu: lần sau dẫn Maruyama. Mood: ấm 30 phút."
+        },
+        {
+          "speaker": "zun",
+          "ja": "3か月後にメッセージ:お嬢様の留学準備いかがですか?",
+          "vi": "3 tháng sau gửi message: chuẩn bị du học của con gái thế nào?"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "ズン、何書いてるの?",
+          "vi": "Dũng, viết gì đó?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "Memory bank。さっきの中村CFOの話、忘れる前に。3ヶ月後フォローアップに使う。",
+          "vi": "Memory bank. Chuyện anh Nakamura nãy, ghi trước khi quên. 3 tháng sau follow-up dùng."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "俺もやらないと…iPhone のメモでもいいかな?",
+          "vi": "Em cũng phải làm... Note iPhone được không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "最初はメモアプリで OK。慣れたらNotion + Salesforceに統合した方が検索効くよ。",
+          "vi": "Đầu tiên Note app OK. Quen rồi sang Notion + Salesforce dễ tìm hơn."
+        }
+      ]
+    },
+    {
+      "scenario": "Trước họp — 3 phút review unlock năng lượng cảm xúc",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "(Notion 3分復習)松本PM. 浅草下町, 江戸前寿司派, 月島いろは推し. 奥様:カフェ経営. 息子:高校2年16歳野球部. 次回ネタ:息子野球部進捗.",
+          "vi": "(Review Notion 3 phút) Matsumoto PM. Asakusa, sushi Edo-mae, Iroha Tsukishima. Vợ: quán cà phê. Con: cấp 3 lớp 11 16 tuổi đội bóng chày. Topic sau: tiến triển bóng chày của con."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "ズンさん、おはよう。",
+          "vi": "Em Dũng, chào em."
+        },
+        {
+          "speaker": "zun",
+          "ja": "松本さん、おはようございます。お元気ですか?ご子息、たしか野球部ですよね、高3になられましたか?",
+          "vi": "Anh Matsumoto, chào anh. Anh khỏe không? Con anh hình như đội bóng chày nhỉ, lên lớp 12 chưa ạ?"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "覚えててくれたの…!そう、今春から高3。来夏が最後の甲子園予選だから、本人もピリピリしてる。",
+          "vi": "Em còn nhớ! Đúng, mùa xuân này lên 12. Mùa hè tới là vòng loại Kōshien cuối cùng nên con cũng căng."
+        },
+        {
+          "speaker": "zun",
+          "ja": "最後の夏、応援したくなりますね。奥様のカフェもお元気ですか?",
+          "vi": "Mùa hè cuối, muốn cổ vũ nhỉ. Quán cà phê chị có khỏe không?"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "カフェまで覚えてるの…ズンさんは本当に人を見てるね。今度妻を紹介するよ、東京来た時。",
+          "vi": "Em nhớ cả quán cà phê... Em thực sự để ý con người. Lần sau anh giới thiệu vợ, khi em đến Tokyo."
+        }
+      ]
+    },
+    {
+      "scenario": "Training team — Linh + Hải",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "Memory Bank の5要素 — 出身地 / 食 / Sport / 家族 / 前回話した内容。最低この5つ毎回ログる。",
+          "vi": "5 yếu tố Memory Bank — quê / món / sport / gia đình / chuyện lần trước. Tối thiểu 5 cái này mỗi lần."
+        },
+        {
+          "speaker": "linh",
+          "ja": "家族情報って、どこまでOKですか?ストーカーっぽくないですか?",
+          "vi": "Thông tin gia đình ghi đến đâu ạ? Có giống stalker không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "いい質問。お客様が自分で語った範囲だけ記録。プライベートを探って書くのはNG。子供の学年とか奥様の職業は、お客様が話してくれた時だけ。",
+          "vi": "Câu hỏi hay. Chỉ ghi phạm vi khách tự kể. Đào riêng tư mà ghi là NG. Lớp của con, nghề của vợ — chỉ khi khách kể."
+        },
+        {
+          "speaker": "hai",
+          "ja": "タイミングは?",
+          "vi": "Thời điểm?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "24時間以内が黄金。3日経つと忘れる。1週間で記憶が再構築されて細部が変わる。だからdinner後タクシーでメモが理想。",
+          "vi": "Trong 24 giờ là vàng. 3 ngày là quên. 1 tuần ký ức tái tạo, chi tiết bị đổi. Nên ghi taxi sau dinner là lý tưởng."
+        },
+        {
+          "speaker": "linh",
+          "ja": "Notion でテンプレートありますか?",
+          "vi": "Có template Notion không ạ?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "templates field 見て。5要素 + 次回ネタ + Mood + Follow up date 構造で。Salesforce連携もある。",
+          "vi": "Xem field templates. Cấu trúc 5 yếu tố + topic sau + mood + ngày follow up. Có cả Salesforce sync."
+        },
+        {
+          "speaker": "hai",
+          "ja": "次回ネタって?",
+          "vi": "Topic sau là gì?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "『3ヶ月後にお子様の野球部様子を聞こう』みたいな自分宛リマインダー。Salesforceでtask登録、3ヶ月後に通知が来る。",
+          "vi": "Kiểu '3 tháng sau hỏi tiến trình bóng chày của con khách'. Reminder gửi cho mình. Đăng task Salesforce, 3 tháng sau nó báo."
+        }
+      ]
+    },
+    {
+      "scenario": "3 tháng sau — follow up email reach out",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "中村CFO 件名:札幌は桜の季節ですね. お世話になっております。3月にお会いした際、お嬢様のスウェーデン留学準備のお話を伺いました。準備、いかがお進みでしょうか?春の札幌、円山公園の桜も気になっております。次回北海道へ伺う機会がございましたら、ぜひお茶をご一緒できれば嬉しく存じます。 ズン",
+          "vi": "[Email] Anh Nakamura, tiêu đề: Sapporo đến mùa hoa anh đào. Chào anh. Tháng 3 gặp anh, anh có kể về chuẩn bị du học Thụy Điển của con gái. Tiến độ thế nào ạ? Em cũng tò mò hoa anh đào Maruyama mùa xuân Sapporo. Lần sau có dịp đến Hokkaido, được mời anh trà sẽ là vinh dự. Dũng."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "ズンさん、覚えてくれてありがとう。娘は来月出発予定で、本人も親もそわそわしています。5月のGW、札幌に来られそうですか?円山公園の桜、案内しますよ。",
+          "vi": "Em Dũng, cảm ơn em đã nhớ. Con gái tháng sau đi, cả con và bố mẹ đều bồi hồi. GW tháng 5 em sang Sapporo được không? Tôi dẫn em đi hoa anh đào Maruyama."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(memo更新:5月GW visit 札幌候補. CFO 円山公園案内予定. 娘さん4月留学出発.)",
+          "vi": "(Update memo: 5月GW visit Sapporo candidate. CFO sẽ dẫn Maruyama. Con gái đi Tháng 4.)"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "Mở memory natural",
+      "ja": "たしか前回、[topic]のお話を伺いましたが、その後いかがですか?",
+      "vi": "Hình như lần trước anh kể về [topic], sau đó thế nào ạ?"
+    },
+    {
+      "category": "Family check",
+      "ja": "[家族]、たしか[年齢]でしたね。お元気ですか?",
+      "vi": "[Gia đình] hình như [tuổi], anh chị khỏe không?"
+    },
+    {
+      "category": "Sport check",
+      "ja": "[sport team]、最近の調子いかがですか?",
+      "vi": "[Team] dạo này phong độ thế nào?"
+    },
+    {
+      "category": "Follow-up email",
+      "ja": "[前回会った日付]にお会いした際、[topic]のお話を伺いました。その後、いかがお進みでしょうか?",
+      "vi": "Lúc gặp [ngày] anh kể về [topic]. Sau đó thế nào ạ?"
+    },
+    {
+      "category": "Confirm thông tin",
+      "ja": "お聞きしてもよろしいですか — お嬢様、何年生でしたか?",
+      "vi": "Anh cho phép em hỏi — con gái lớp mấy ạ?"
+    },
+    {
+      "category": "Quên thật thà",
+      "ja": "申し訳ございません、ど忘れしました…もう一度お聞きしてもよろしいですか?",
+      "vi": "Em xin lỗi, em quên đột ngột... cho em hỏi lại được không?"
+    }
+  ],
+  "ng_list": [
+    "Ghi quá detail → stalker risk",
+    "Hỏi memo lúc đang gặp",
+    "Đợi 1 tuần rồi ghi → quên 60%",
+    "「覚えていますよ!」 quá thường — giả tạo",
+    "Reach out 3-month follow-up không context cụ thể"
+  ],
+  "vocab": [
+    {
+      "kanji": "雑談メモバンク",
+      "yomi": "ざつだんメモバンク",
+      "vi": "Memory bank"
+    },
+    {
+      "kanji": "出身地",
+      "yomi": "しゅっしんち",
+      "vi": "Quê quán"
+    },
+    {
+      "kanji": "好物",
+      "yomi": "こうぶつ",
+      "vi": "Món yêu"
+    },
+    {
+      "kanji": "応援チーム",
+      "yomi": "おうえんチーム",
+      "vi": "Đội ủng hộ"
+    },
+    {
+      "kanji": "家族構成",
+      "yomi": "かぞくこうせい",
+      "vi": "Cấu trúc gia đình"
+    },
+    {
+      "kanji": "学年",
+      "yomi": "がくねん",
+      "vi": "Lớp"
+    },
+    {
+      "kanji": "ど忘れ",
+      "yomi": "どわすれ",
+      "vi": "Quên đột ngột"
+    },
+    {
+      "kanji": "さりげなく",
+      "yomi": "さりげなく",
+      "vi": "Tự nhiên không quá"
+    },
+    {
+      "kanji": "フォローアップ",
+      "yomi": "フォローアップ",
+      "vi": "Follow-up"
+    },
+    {
+      "kanji": "リマインダー",
+      "yomi": "リマインダー",
+      "vi": "Nhắc nhở"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "Memory bankの記録、最も理想的なタイミングは?",
+      "options": [
+        "A. 1週間後にまとめて",
+        "B. 24時間以内、できれば帰りのタクシーで",
+        "C. 1ヶ月後",
+        "D. 次回会う直前"
+      ],
+      "answer": "B",
+      "explain_vi": "24h vàng. Trễ 3 ngày quên 60%."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「覚えていてくれたの…!」というお客様の反応は?",
+      "options": [
+        "A. 不快",
+        "B. 深く感動 — 信頼が一気に深まる瞬間",
+        "C. 当たり前",
+        "D. 困惑"
+      ],
+      "answer": "B",
+      "explain_vi": "JP cực cảm động khi đối tác nhớ chi tiết — moment trust spike."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "「前にお話ししましたが」 と言われた時の最適な反応は?",
+      "options": [
+        "A. 「覚えています!」(覚えてなくても)",
+        "B. 黙って聞く",
+        "C. 「申し訳ございません、もう一度お聞かせいただけますか?」(誠実)",
+        "D. 「いつでしたっけ?」 (失礼)"
+      ],
+      "answer": "C",
+      "explain_vi": "Honest > giả vờ nhớ. JP trân trọng sự thật thà."
+    }
+  ],
+  "templates": [
+    {
+      "name": "Memory Bank Single Customer Entry",
+      "format": "markdown",
+      "content": "# 顧客名: [名前] [役職]\n\n## 基本情報 (Static)\n- **会社**: \n- **役職**: \n- **出身地**: 県/市/区 — 特産・方言メモ\n- **誕生月**: (会社規定OKであれば)\n- **入社/赴任年**: \n\n## 家族 (Update only when shared)\n- **配偶者**: 職業・趣味 (only if shared)\n- **子供**: 学年・部活・趣味 (only if shared)\n- **ペット**: \n\n## 嗜好\n- **好物**: \n- **苦手な食べ物**: \n- **アレルギー**: \n- **酒の好み**: 日本酒/焼酎/ワイン/ビール brand\n- **タバコ**: 吸う/吸わない\n\n## 趣味・関心\n- **応援スポーツチーム**: \n- **趣味**: ゴルフ/釣り/カラオケ/読書\n- **好きな旅行先**: \n\n## 会話ログ (Dynamic)\n| 日付 | 場所 | トピック | New Info | Mood | Next-time hook |\n|------|------|---------|----------|------|----------------|\n| YYYY-MM-DD | dinner @ XX | 出身地ライラック | 娘さん北大2年 | warm | 3ヶ月後に留学進捗 |\n\n## Follow-up Reminders\n- [ ] 2027-06-15 — 娘さんの留学進捗を聞く\n- [ ] 2027-08-01 — お子様の野球部最後の夏応援メッセージ\n- [ ] 2027-12-25 — 年末挨拶メール\n\n## NG / Sensitive\n- 触れてはいけない話題 (e.g. 政治・前職・家族トラブル) — お客様が示唆した範囲で\n"
+    },
+    {
+      "name": "Post-Meeting Memo (Quick Capture)",
+      "format": "markdown",
+      "content": "**DATE**: YYYY-MM-DD\n**WHO**: [name + role]\n**WHERE**: [office / restaurant / event]\n**TOPIC** (3-5 keywords): \n**NEW INFO**: \n**REQUEST/PROMISE** (mình hứa làm gì): \n**MOOD** (warm/neutral/cool/stressed): \n**NEXT HOOK** (3ヶ月後): \n**FOLLOW-UP TASK** (Salesforce / Notion): \n"
+    },
+    {
+      "name": "Pre-Meeting 3-Min Review Checklist",
+      "format": "markdown",
+      "content": "## Trước cuộc gặp — 3 phút mở Notion/Salesforce\n\n- [ ] **Tên + công ty + vai trò** — đúng không\n- [ ] **Lần gần nhất gặp**: ngày + nơi + topic\n- [ ] **5 elements**: 出身地 / 食 / Sport team / Family / 前回話題\n- [ ] **Promise outstanding** — mình có hứa gửi gì chưa làm?\n- [ ] **News flash** — team baseball/sumo của khách thắng/thua tuần này?\n- [ ] **Open hook** chuẩn bị — 1 câu mở thiên về 雑談 dựa info cũ\n- [ ] **NG topic refresher** — chủ đề tránh\n"
+    },
+    {
+      "name": "3-Month Follow-up Email Template",
+      "format": "markdown",
+      "content": "件名: [前回トピック] その後いかがでしょうか?\n\n[役職] [姓]様\n\nお世話になっております。\nティエンファットの[自分名]でございます。\n\n[YYYY年M月]に[場所]でお会いさせていただきました際、\n[具体的なトピック — 例: お嬢様のスウェーデン留学のご準備]についてお話を伺いました。\n\nその後、いかがお進みでしょうか?\n\n[Bridge to current — 例: 春の[出身地]、桜の季節になりましたね]。\n[次回会いたい trigger — 例: 5月にそちら方面に出張の予定がございます]。\n\nもしご都合よろしければ、ぜひ近況をお伺いしたく、\nお茶でもご一緒できれば嬉しく存じます。\n\n何卒よろしくお願いいたします。\n\n[自分名]\nティエンファット\n"
+    }
+  ]
+}

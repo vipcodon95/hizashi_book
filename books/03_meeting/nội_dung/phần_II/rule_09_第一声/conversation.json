@@ -1,0 +1,176 @@
+{
+  "rule_id": "rule_09",
+  "rule_slug": "会議冒頭の第一声",
+  "title": {
+    "ja": "会議冒頭の第一声",
+    "vi": "Câu chào mở đầu chuẩn"
+  },
+  "rule_context": {
+    "ja": "ズンが司会となり4月度月例会議を開始する場面。冒頭3要素：来場感謝・司会自己紹介・議事移行。",
+    "vi": "Em Dũng làmngười chủ trì mở buổi họp định kỳ tháng 4. Câu mở phải có 3 yếu tố: cảm ơn / giới thiệungười chủ trì / chuyển sang agenda."
+  },
+  "related_rules": [
+    "rule_06",
+    "rule_10",
+    "rule_13",
+    "rule_14"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 挨拶を飛ばして本題へ",
+      "label_vi": "XẤU — Bỏ chào, vào nội dung luôn",
+      "display_order": 1,
+      "analysis": {
+        "ja": "司会者が来場感謝も自己紹介もせずに本題へ。客は出鼻をくじかれた印象を受ける。",
+        "vi": "Chủ trì bỏ luôn cảm ơn và giới thiệu, nhảy vào nội dung. Khách bị shocked ngay từ giây đầu."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_09_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "では、Phase 2 進捗報告から始めます。",
+          "sentence_translation": "Vâng, mình bắt đầu từ báo cáo tiến độ Phase 2 nhé.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_09_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "ズンさん、まずは皆様への一言があるかと…",
+          "sentence_translation": "Dũng à, đầu tiên nên có 1 câu chào mọi người đã chứ nhỉ...",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_09_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、すみません。本日はお集まりいただきありがとうございます…",
+          "sentence_translation": "Ồ, em xin lỗi ạ. Cảm ơn quý anh chị đã đến hôm nay ạ...",
+          "tone": "apologetic"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 3要素揃った第一声",
+      "label_vi": "TỐT — Câu mở đủ 3 yếu tố",
+      "display_order": 2,
+      "analysis": {
+        "ja": "①来場感謝→②司会自己紹介→③議事移行 の3段で短くまとめる。15秒以内が目安。",
+        "vi": "3 bước: cảm ơn → giới thiệungười chủ trì → chuyển sang agenda. Mục tiêu trong 15 giây."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_09_good_01",
+          "highlight_text": "お忙しい中お集まりいただき、誠にありがとうございます",
+          "ja": "会議・式典の冒頭定型句。「お忙しい中」が客への気遣いを示す。",
+          "vi": "Cụm chuẩn mở họp / mở event. 「お忙しい中」 thể hiện sự quan tâm tới quỹ thời gian của khách."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_09_good_02",
+          "highlight_text": "司会を務めさせていただきます",
+          "ja": "司会を担当する旨を丁寧に表明する定型句。「させていただく」で謙譲度UP。",
+          "vi": "Cụm chuẩn để công bố mình là người chủ trì. 「させていただく」 nâng độ khiêm nhường."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_09_good_03",
+          "highlight_text": "早速ではございますが",
+          "ja": "挨拶から本題への移行表現。「では」より丁寧。",
+          "vi": "Cụm chuyển từ chào sang nội dung — lịch sự hơn 「では」."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_09_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "皆様、本日はお忙しい中お集まりいただき、誠にありがとうございます。",
+          "sentence_translation": "Kính thưa quý anh chị, em xin chân thành cảm ơn quý anh chị đã dành thời gian đến tham dự hôm nay ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_09_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本日の司会を務めさせていただきます、ティエンファットのズンでございます。",
+          "sentence_translation": "Em là Dũng bên Thiên Phát, em xin phép làm chủ trì buổi họp hôm nay ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_09_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "早速ではございますが、本日のアジェンダに沿って進めさせていただきます。",
+          "sentence_translation": "Em xin phép vào nội dung luôn, em sẽ tiến hành theo agenda hôm nay ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_09_good_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "よろしくお願いいたします。",
+          "sentence_translation": "Phiền em nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_09_kp_01",
+      "speaker": "zun",
+      "sentence": "本日はお忙しい中お集まりいただき、誠にありがとうございます。",
+      "sentence_translation": "Em xin chân thành cảm ơn quý anh chị đã dành thời gian đến tham dự hôm nay ạ.",
+      "purpose": "会議冒頭の感謝の定型句",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_09_kp_02",
+      "speaker": "zun",
+      "sentence": "本日の司会を務めさせていただきます、〇〇の〇〇でございます。",
+      "sentence_translation": "Em là 〇〇 bên 〇〇, em xin phép làm chủ trì buổi họp hôm nay ạ.",
+      "purpose": "司会自己紹介の定型句",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_09_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "会議冒頭で司会者が最初に発するのにふさわしい一言はどれか？",
+      "options": [
+        "では、始めましょう。",
+        "本日はお忙しい中お集まりいただき、誠にありがとうございます。",
+        "皆さんいますか？",
+        "じゃあ、議題1から。"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "感謝を述べる定型句が冒頭の正解。他は唐突または失礼。",
+        "vi": "Câu cảm ơn là chuẩn mở. Các option còn lại hoặc quá khô hoặc thất lễ."
+      }
+    }
+  ]
+}

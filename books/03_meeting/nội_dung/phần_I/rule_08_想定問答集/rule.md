@@ -1,0 +1,102 @@
+# Rule 08 — Chuẩn bị Plan B + counter-arguments / 想定問答集の準備
+
+> **Luận điểm.** Khách Nhật giỏi đặt **「想定外の質問」** (câu hỏi bất ngờ). Trước họp phải có **想定問答集 (Q&A list)** liệt kê 3-5 câu khách dễ hỏi + script trả lời sẵn. Bonus: 1-2 câu hỏi khó nhất → có **Plan B**.
+>
+> 客が聞きそうな質問3〜5件をリスト化し、回答スクリプトを準備。一番難しい質問には Plan B も用意。
+>
+> **Liên quan:** Rule 07 (すり合わせ), Rule 25 (持ち帰り), Rule 28 (xin thêm data), Rule 29 (deadlock).
+
+---
+
+## Bối cảnh / 場面
+
+Sáng thứ Ba, 1 tiếng trước họp đàm phán phase 2. Em Dũng đã có agenda + すり合わせ với chị Hương. Anh Hà CTO ghé qua, hỏi "想定問答集 đâu?".
+
+---
+
+## ❌ Hội thoại XẤU — không có 想定問答集
+
+*慌てて*
+
+| Speaker | Câu |
+|---------|-----|
+| **ハー (CTO)** | 「ズン、本日の想定問答集はある？」 |
+| **ズン** | 「あ…アジェンダと資料は揃えましたが、想定問答集はまだ…」 |
+| **ハー** | 「客は『価格を10%下げられないか』『納期を2週間早められないか』『他社事例は』を必ず聞くよ。回答用意してる？」 |
+| **ズン** | 「す、すみません、これから準備します…」 |
+
+**Vì sao xấu:** Junior thường nghĩ "agenda + 資料 đủ rồi". Nhưng khách Nhật giỏi đẩy câu hỏi ngoài agenda. Không chuẩn bị = trong họp panic + im lặng + 「持ち帰ります」.
+
+---
+
+## ✅ Hội thoại TỐT — Q&A list + Plan B sẵn
+
+| Speaker | Câu |
+|---------|-----|
+| **ハー (CTO)** | 「ズン、本日の想定問答集はある？」 |
+| **ズン** | 「はい、想定質問5件と回答案、それから一番難しい『5月15日納期前倒し』には Plan B として追加リソース3人分の見積もりも用意済みです【1】。」 |
+| **ハー** | 「いいね。価格交渉の質問、想定回答は？」 |
+| **ズン** | 「『現行価格はスコープに最適化されており、スコープ縮小なら見直し可能』とお返しします。即値引きには応じない方針でフオン副部長と統一済みです【2】。」 |
+
+📝 **Ghi chú:**
+- 【1】**「Plan B として〜も用意済み」** — 「用意済み」 = "đã chuẩn bị xong". Cụm gọn của business JP. Cấp trên hỏi "có chưa?" → trả lời 「〜済みです」 là đẹp nhất.
+- 【2】**「方針で統一済み」** = "đã thống nhất phương châm". Báo cáo cấp trên rằng "không phải chỉ tôi nghĩ vậy mà cả team đã align".
+
+---
+
+## 🎯 Câu chốt
+
+> **「想定問答集なき会議 = 持ち帰り会議。」**
+>
+> *Họp mà không có Q&A list = họp xong xin "mang về" suy nghĩ.*
+
+---
+
+## 📐 Format 想定問答集
+
+```
+■ 4月度月例会議 想定問答集 v1.0
+
+Q1. 価格を10%下げられないか？
+A1. 現行価格はスコープに最適化されています。スコープ縮小であれば
+    見直し可能です。具体的にはABC機能を切るとX%減となります。
+
+Q2. 5月末納期 → 5月15日に前倒し可能か？
+A2. 通常スコープでは難しいですが、追加リソース3名で対応可能です。
+    Plan B 見積：別添「resource_planB_v1.xlsx」
+
+Q3. 他社の類似事例はあるか？
+A3. 守秘契約の範囲で、〇〇業界2社の事例を匿名化してご紹介可能です。
+
+Q4. リスクが顕在化した場合の対応は？
+A4. 週次で risk register を更新、影響度 High は即報告。エスカレーション
+    フロー（CTO→副部長→PM）あります。
+
+Q5. メンバー変更があった場合の継続性は？
+A5. ペア体制で運営しており、引き継ぎ docs を都度更新。空白期間ゼロを
+    保証します。
+```
+
+---
+
+## ⚠ Tránh
+
+- 想定問答集 chỉ trong đầu, không viết ra → vào họp panic là quên.
+- Chỉ chuẩn bị câu hỏi dễ → khách hỏi câu khó là 「持ち帰ります」.
+- Plan B cũng không có → "5月15日無理です" → đàm phán dừng.
+- Trả lời chưa align với senior → senior phải bồi thêm = mất uy tín BD.
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 想定問答集 | そうていもんどうしゅう | Q&A dự đoán |
+| 想定質問 | そうていしつもん | Câu hỏi dự đoán |
+| 〜済み | ずみ | Đã xong |
+| 値引き | ねびき | Giảm giá |
+| 方針 | ほうしん | Phương châm |
+| 見直し | みなおし | Xem xét lại |
+| エスカレーション | escalation | Escalation |
+| 顕在化 | けんざいか | Hiện ra (risk → thực tế) |

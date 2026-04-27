@@ -1,0 +1,175 @@
+{
+  "rule_id": "rule_04",
+  "rule_slug": "片手で受話器、片手でメモ",
+  "title": {
+    "ja": "片手で受話器、片手でメモ",
+    "vi": "Một tay nghe, một tay ghi"
+  },
+  "rule_context": {
+    "ja": "松本PMが緊急会議の詳細5項目を伝える。ズンが受電中にメモを取る場面。",
+    "vi": "Anh Matsumoto báo lịch họp gấp với 5 thông tin. Em Dũng phải vừa nghe vừa ghi."
+  },
+  "related_rules": [
+    "rule_05",
+    "rule_09"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — メモなし、後から探す",
+      "label_vi": "XẤU — Bốc máy rồi mới tìm bút",
+      "display_order": 1,
+      "analysis": {
+        "ja": "受電後にペンを探すのは相手の流れを止める。情報を5-10秒分逃す可能性。",
+        "vi": "Bốc máy rồi mới tìm bút = ngắt nhịp khách. Có thể bỏ lỡ 5-10 giây thông tin."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_04_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お電話ありがとうございます。ズンでございます。",
+          "sentence_translation": "Cảm ơn anh đã gọi. Tôi là Dũng ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_04_bad_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "明日の14時、第3会議室、6名参加、資料は今日中に。",
+          "sentence_translation": "Mai 14h, phòng họp 3, 6 người tham dự, tài liệu trong hôm nay.",
+          "tone": "neutral",
+          "speed_multiplier": 1.05
+        },
+        {
+          "line_id": "rule_04_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ちょ、ちょっとお待ちください、ペンを...",
+          "sentence_translation": "Ơ, ơ chờ chút, để em lấy bút...",
+          "tone": "nervous",
+          "speed_multiplier": 1.1
+        },
+        {
+          "line_id": "rule_04_bad_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "(沈黙)",
+          "sentence_translation": "(im lặng — biểu hiện bị làm phiền)",
+          "tone": "firm",
+          "pause_after_ms": 1500
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 復唱しながらメモ",
+      "label_vi": "TỐT — Vừa ghi vừa lặp lại",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_04_good_03",
+          "highlight_text": "復唱させていただきます",
+          "ja": "聞きながら書き留め、復唱して確認する3点セットの締め言葉。",
+          "vi": "Câu kết của bộ 3 'nghe → ghi → lặp lại để xác nhận'."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_04_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お電話ありがとうございます。ズンでございます。",
+          "sentence_translation": "Cảm ơn anh đã gọi. Tôi là Dũng ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_04_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "明日の14時、第3会議室、6名参加、資料は今日中に。",
+          "sentence_translation": "Mai 14h, phòng họp 3, 6 người tham dự, tài liệu trong hôm nay.",
+          "tone": "neutral",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_04_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "復唱させていただきます。明日14時、第3会議室、6名、資料本日中、で間違いございませんでしょうか。",
+          "sentence_translation": "Em xin lặp lại: mai 14h, phòng họp 3, 6 người, tài liệu trong hôm nay ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.9,
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_04_good_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "その通りです。",
+          "sentence_translation": "Đúng vậy.",
+          "tone": "warm"
+        }
+      ]
+    },
+    {
+      "section": "variant",
+      "variant_name": "no_pen_emergency",
+      "label_ja": "バリエーション — メモがない緊急時",
+      "label_vi": "Biến thể — Khi thật sự không có bút",
+      "display_order": 3,
+      "conversation_lines": [
+        {
+          "line_id": "rule_04_var_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "申し訳ございません、メモの準備をさせていただきますので、少々お待ちいただけますでしょうか。",
+          "sentence_translation": "Xin lỗi anh, em xin phép lấy bút và giấy ghi chú, anh đợi em một chút được không ạ?",
+          "tone": "apologetic",
+          "speed_multiplier": 0.95
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_04_kp_01",
+      "speaker": "zun",
+      "sentence": "復唱させていただきます。〇〇、〇〇、〇〇でよろしいでしょうか。",
+      "sentence_translation": "Em xin lặp lại để xác nhận: 〇〇, 〇〇, 〇〇 đúng không ạ?",
+      "purpose": "情報確認の標準フォーマット",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_04_bjt_01",
+      "level": "J4",
+      "skill": "場面把握",
+      "question_ja": "電話を取った後に「ちょっとお待ちください、ペンを...」と言う行為について、最も正しい評価は？",
+      "options": [
+        "丁寧で問題ない",
+        "準備不足を相手に印象付ける",
+        "電話のマナーとして標準的",
+        "相手も同じ経験があるので問題ない"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "電話を取る前にメモの準備があるべき。後から探すのは準備不足の印象。",
+        "vi": "Phải có sẵn bút giấy TRƯỚC khi bốc máy. Tìm sau = lộ chuẩn bị thiếu."
+      }
+    }
+  ]
+}

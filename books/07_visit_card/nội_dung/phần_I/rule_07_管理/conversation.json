@@ -1,0 +1,193 @@
+{
+  "rule_id": "rule_07",
+  "rule_slug": "名刺管理",
+  "title": {
+    "ja": "名刺管理",
+    "vi": "Lưu trữ danh thiếp sau cuộc gặp"
+  },
+  "rule_context": {
+    "ja": "白鷗3名+随行3名のHCMC visit終了後、20:00時点でリンが6枚名刺を24h処理プランで管理する場面。",
+    "vi": "Sau event đoàn 白鷗 3 senior + 3 đi cùng visit HCMC, 20:00 tối, Linh xử lý 6 danh thiếp theo 24h plan."
+  },
+  "related_rules": ["rule_02", "rule_06", "rule_14", "rule_30"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 3日後発見、文脈消失",
+      "label_vi": "XẤU — 3 ngày sau mới phát hiện, mất context",
+      "display_order": 1,
+      "analysis": {
+        "ja": "3日経過→中村CFO発言の詳細忘却→follow-up メールが汎用化→印象薄。ネットワーク資産が紙に劣化。",
+        "vi": "3 ngày trôi → quên chi tiết Nakamura nói → follow-up generic → mất impact. Tài sản network = chỉ tờ giấy."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_07_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "リンさん、先週の名刺、CRMに入れた？",
+          "sentence_translation": "Linh, danh thiếp tuần trước em nhập CRM chưa?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_07_bad_02",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "あ、まだです、今週やります…",
+          "sentence_translation": "À chưa ạ, tuần này em làm...",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_07_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "中村CFOが Phase 4 の予算で気にしてた論点、覚えてる？",
+          "sentence_translation": "Anh Nakamura CFO quan tâm điểm gì về budget Phase 4 em nhớ không?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_07_bad_04",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "えっと…なんでしたっけ…",
+          "sentence_translation": "Ơ... cái gì ấy nhỉ ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_07_bad_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "3日経つともう曖昧になる。今日中に CRM + 文脈メモ全部やって。",
+          "sentence_translation": "3 ngày trôi là mơ hồ rồi đấy. Hôm nay em phải xong cả CRM + memo context.",
+          "tone": "firm",
+          "speed_multiplier": 0.95
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 当日24h以内処理",
+      "label_vi": "TỐT — xử lý trong 24h cùng ngày",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_07_good_02",
+          "highlight_text": "CRM 入力: 今夜中",
+          "ja": "脳の文脈記憶は24h以内が80%以上、3日後30%まで低下。当日中入力で詳細保持。",
+          "vi": "Não nhớ context >80% trong 24h, sau 3 ngày còn 30%. Nhập trong ngày = giữ chi tiết."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_07_good_02",
+          "highlight_text": "文脈メモ: 各人 1 行",
+          "ja": "1行で十分。Topic+特徴発言+次アクション。長く書く必要無し。",
+          "vi": "1 dòng đủ. Topic + comment đặc trưng + next action. Không cần viết dài."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_07_good_04",
+          "highlight_text": "Phase 4 予算上限を 1,500万円で気にしている",
+          "ja": "数字+具体懸念点を引用形式で記録。Follow-up メールでこの引用使うと印象強化。",
+          "vi": "Ghi quote số liệu + concern cụ thể. Follow-up email reference quote này = ấn tượng mạnh."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_07_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "リンさん、6枚名刺の処理プラン共有して。",
+          "sentence_translation": "Linh, em chia sẻ plan xử lý 6 danh thiếp đi.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_07_good_02",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "① CRM 入力: 今夜中 ② 文脈メモ: 各人 1 行 ③ Cloud スキャン: Google Drive 共有フォルダ ④ Follow-up: 明朝 9:00 ズン先輩経由送信。",
+          "sentence_translation": "① Nhập CRM: tối nay xong. ② Memo context: 1 dòng/người. ③ Scan cloud: folder Google Drive chung. ④ Follow-up: sáng mai 9:00 gửi qua anh Dũng.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": ["1", "2"]
+        },
+        {
+          "line_id": "rule_07_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "中村CFO のメモは？",
+          "sentence_translation": "Memo cho Nakamura CFO thế nào?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_07_good_04",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "『Phase 4 予算上限を 1,500万円で気にしている。Q3 決算後に再検討と発言』 — これでいいですか？",
+          "sentence_translation": "'Phase 4 quan tâm trần budget 15 triệu yên. Phát biểu sẽ xem xét lại sau quyết toán Q3' — vậy được chưa anh?",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_07_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "完璧。トゥアン先輩・フオン副部長にも共有して。明朝のお礼メールにこの context 入れる。",
+          "sentence_translation": "Hoàn hảo. Em share cho cả anh Tuấn + chị Hương 副部長. Mail cảm ơn sáng mai sẽ nhét context này vào.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_07_kp_01",
+      "speaker": "linh",
+      "sentence": "24時間以内に CRM 入力・文脈メモ・スキャン・フォロー送信を完了させます。",
+      "sentence_translation": "Trong 24h em sẽ xong nhập CRM + memo context + scan + gửi follow-up ạ.",
+      "purpose": "名刺管理4ステップ宣言",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_07_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "受け取った名刺の処理として最も適切なのは？",
+      "options": [
+        "週末にまとめて CRM 入力",
+        "24時間以内に CRM 入力 + 文脈メモ1行 + スキャン + フォロー送信",
+        "名刺ケースに保管のみ",
+        "次回会った時に再確認"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "24時間以内処理が原則。脳の文脈記憶は24h以内に80%以上保持。",
+        "vi": "Quy tắc 24h. Não giữ >80% context trong 24h."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_07_tpl_01",
+      "format": "checklist",
+      "title_ja": "名刺管理 24時間チェックリスト",
+      "title_vi": "Checklist Quản Lý Danh Thiếp 24h",
+      "content_ja": "【名刺管理 24時間以内 — 1枚あたり所要 3-5分】\n\n□ STEP 1: CRM 入力 (当日中)\n   - 氏名 / 会社 / 部署 / 役職\n   - 連絡先 (メール / TEL / 名刺裏 SNS)\n   - 会った日 / イベント名\n\n□ STEP 2: 文脈メモ (1行/人)\n   Format:\n   「[Topic] / 特徴的発言『〇〇』 / 次のアクション [〇〇 by 〇月〇日]」\n   例:\n   中村CFO → 「Phase 4 予算上限 1,500万円懸念 / 『Q3決算後再検討』 / Phase 4 RFP送付 by 7/15」\n\n□ STEP 3: スキャン保存\n   - 表面 + 裏面 両方\n   - Google Drive 共有フォルダ /名刺/[年月]/\n   - ファイル名: [年月日]_[氏名]_[会社].jpg\n\n□ STEP 4: チーム共有\n   - 該当 PM / Lead / 副部長 に Slack share\n   - 重複コンタクト防止\n\n□ STEP 5: フォローアップ送信\n   - 24h 以内に Thank-you mail\n   - 文脈メモから1点引用 (印象強化)\n   - 次のアクション明記",
+      "content_vi": "[Quản lý danh thiếp trong 24h — mỗi tờ ~3-5 phút]\n\n[ ] STEP 1: Nhập CRM (trong ngày)\n   - Họ tên / Cty / Phòng / Chức vụ\n   - Liên hệ (mail / TEL / SNS sau danh thiếp)\n   - Ngày gặp / Tên event\n\n[ ] STEP 2: Memo context (1 dòng/người)\n   Format:\n   '[Topic] / quote đặc trưng '〇〇' / Next action [〇〇 by 〇/〇]'\n   Ví dụ:\n   Nakamura CFO → 'Lo trần budget Phase 4 15tr yên / 'Sẽ xem lại sau quyết toán Q3' / Gửi RFP Phase 4 by 15/7'\n\n[ ] STEP 3: Scan lưu\n   - Cả mặt trước + sau\n   - Folder chung Google Drive /danh_thiep/[năm-tháng]/\n   - Tên file: [yyyymmdd]_[họ tên]_[cty].jpg\n\n[ ] STEP 4: Share team\n   - PM / Lead / Phó phòng liên quan qua Slack\n   - Tránh contact trùng\n\n[ ] STEP 5: Gửi follow-up\n   - Mail cảm ơn trong 24h\n   - Quote 1 điểm từ memo context (ấn tượng)\n   - Next action rõ ràng",
+      "notes_ja": "24時間ルール厳守。3日経過で文脈70%消失、汎用フォローアップしか書けなくなる。",
+      "notes_vi": "Bắt buộc 24h. Sau 3 ngày mất 70% context, chỉ viết được follow-up generic."
+    }
+  ]
+}

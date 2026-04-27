@@ -1,0 +1,139 @@
+# Rule 51 — Self-review + practice / 振り返りと練習
+
+> **Luận điểm.** Sau mỗi 雑談 session (dinner / 会食 / call dài) → **15 phút tự đánh giá**: **3 win / 3 miss / 3 follow-up**. Discipline này biến trải nghiệm dinner thành **skill compound**. Không 振り返り = lặp lại lỗi cũ 3 năm liên tiếp.
+
+---
+
+## 🧠 Tâm lý JP (3 dòng)
+
+- 振り返り = giá trị cốt lõi văn hóa JP (PDCA, kaizen). Bạn cũng nên áp dụng cho mình.
+- "**3 win** + **3 miss** + **3 follow-up**" = framework đơn giản đủ skill compound.
+- Sau 100 dinner = bạn = top 1% người Việt làm khách Nhật về 雑談 skill. Đó là 2 năm discipline.
+
+---
+
+## 🎬 Bối cảnh
+
+Tham khảo. 1 ví dụ self-review entry sau dinner Phase 4 + **TEMPLATE đầy đủ**.
+
+---
+
+## 💬 2 Scenarios — dialogue thực chiến
+
+### 📍 Scenario 1 — Self-review viết ra (sau dinner Phase 4 closing)
+
+| Time | Action | Detail |
+|------|--------|--------|
+| 23:50 | Về phòng khách sạn | Open Notion / Notes |
+| 23:55 | Memory bank entries | (rule 50 — facts về Ōgaki/Matsumoto/Tanaka) |
+| 00:10 | Self-review entry | 15 phút (template dưới) |
+| 00:25 | Done | Save + sleep |
+
+**Self-review viết:**
+
+```
+📅 2026-05-20 Phase 4 Closing — Yurakucho izakaya + ベルトラム + ラーメン
+Audience: Ōgaki, Matsumoto, Tanaka, Tuấn
+My role: 最若手 / order role / host VN side
+Total: 一次 + 二次 + 締め (5 hours)
+
+🎯 3 WIN
+1. お酌 Ōgaki ngay khi ly cạn → senior nodded warmly. (Rule 43 áp dụng OK.)
+2. Reference Ōgaki 桂米朝 fan từ memo 2 tháng trước → "覚えてるなあ!" reaction (Rule 50 effective.)
+3. Rescue Tanaka say + escort taxi → Ōgaki sáng hôm sau khen "しっかりしてるな" (Rule 46 paid off.)
+
+❌ 3 MISS
+1. 一次会 STEP 2: hỏi allergy quá muộn (sau 1st sashimi) → Matsumoto suýt ăn 牡蠣. NEXT: hỏi NGAY khi mở menu.
+2. 二次会 ベルトラム: khi Ōgaki hé lộ Phase 5 chi tiết, mình thiếu enthusiasm response, chỉ nói "光栄です". NEXT: thêm 1 specific question để show engagement.
+3. カラオケ Yamamoto đề nghị mình sing 1 nữa, từ chối "もう十分" → có thể phá flow vui. NEXT: 1 song nữa (90s safe) cho không khí.
+
+🔁 3 FOLLOW-UP
+1. Send Ōgaki link 桂米朝 'jigokubakkyō' theo lời hứa Tuần trước → mai mail ngay sáng.
+2. Mention Phase 5 chi tiết với CTO Hà nội bộ → call 9:30 sáng nay.
+3. Memorize Tanaka "ベトナムウイスキーバー" interest → ghi memory bank để introduce EON Heli Bar khi anh đến HCM.
+
+📊 Self-rating
+- 全体: 8/10 (上々)
+- 改善点: timing skill (allergy + enthusiasm response)
+```
+
+📝 **Output:** 15 phút = 1 trang Notes. **Sau 50 dinner = 50 trang = Vietnam-Japan smalltalk playbook of yourself.**
+
+---
+
+### 📍 Scenario 2 — Practice routine: 30 phút/tuần dry-run
+
+| | Time | Action |
+|--|------|--------|
+| L1 | **Sun afternoon** | Pick 1 random rule trong sách 08 |
+| L2 | (15 min) | Đọc lại rule + xem dialogue |
+| L3 | (10 min) | Voice record mình thử 3 scenarios với phrase chuẩn |
+| L4 | (5 min) | Compare với reference, identify 1 từ phát âm yếu |
+| L5 | **Mon morning** | Apply trong call thực với khách → notice if used = +1 to bank |
+
+📝 Pattern: **Sách 08 = 51 rules → 1 năm = 51 tuần = 1 rule/tuần dry-run.** Sau 1 năm = master toàn bộ.
+
+---
+
+## 🎯 Câu vàng (self-talk Vietnamese — không phải nói với khách)
+
+```
+■ NHẬN DIỆN WIN:
+"Lần này mình đã làm gì khiến senior gật đầu / cười thân thiện?"
+"Phrase nào hôm nay senior khen 'よく覚えてる'?"
+
+■ NHẬN DIỆN MISS:
+"Có moment nào không khí freeze 0.5s? Mình nói gì làm đông?"
+"Có lần senior change topic đột ngột? Có thể mình lỡ topic LANDMINE."
+"Allergy / personal info nào lỡ chưa hỏi/ghi?"
+
+■ NHẬN DIỆN FOLLOW-UP:
+"Mình có hứa gì với khách hôm nay?" (link / quà / introduction)
+"Có chi tiết mới nào khách kể cần ghi vào CRM?"
+"Sáng mai cần mail ai để đóng loop?"
+```
+
+---
+
+## ⚠ NG khi self-review
+
+- **Không** review (skip) → sau 1 năm vẫn lặp lỗi cũ.
+- Self-review **quá tự ái** ("hôm nay tôi giỏi nhất") → miss miss.
+- Self-review **quá tự trách** ("tôi tệ quá") → demotivate, không actionable.
+- Review **không actionable** ("phải tốt hơn lần sau") — phải concrete: "lần sau hỏi allergy ngay khi mở menu".
+- Skip step **3 follow-up** → mất uy tín "thất hứa".
+
+---
+
+## 📚 Vocab
+
+| 漢字 | よみ | Nghĩa |
+|------|------|-------|
+| 振り返り | ふりかえり | Tự đánh giá / reflection |
+| PDCA | — | Plan-Do-Check-Action (JP business standard) |
+| 改善 | かいぜん | Cải tiến (kaizen) |
+| 上々 | じょうじょう | Rất tốt |
+| 改善点 | かいぜんてん | Điểm cần cải tiến |
+| ドライラン | — | Dry run (practice) |
+| 反省 | はんせい | Tự kiểm điểm |
+| 学び | まなび | Bài học rút ra |
+
+---
+
+## 🎓 BJT
+
+**J3 — 場面把握:** Sau mỗi dinner, 15 phút self-review = thói quen.
+**J2 — 表現読解:** Phân biệt "win" thực sự vs "hôm nay không tệ" — phải concrete fact.
+**J1 — 発言聴解:** Catch sắc thái "khách change topic đột ngột" → ghi vào miss → phân tích nguyên nhân.
+
+---
+
+## 📋 TEMPLATE đầy đủ (load vào Phụ lục D)
+
+> Xem template chi tiết trong file `conversation.json` field `templates`. **2 templates chính**:
+> 1. **Self-review entry** — sau mỗi 雑談 session
+> 2. **Weekly practice plan** — 30 phút dry-run/tuần
+
+---
+
+> **Hizashi Sách 08 — Rule 51 — 振り返りと練習**

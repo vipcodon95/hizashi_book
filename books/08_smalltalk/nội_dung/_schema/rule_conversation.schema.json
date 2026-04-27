@@ -1,0 +1,214 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://hizashi.team/schemas/rule_conversation.schema.v3.json",
+  "title": "Hizashi Rule Conversation Schema v3",
+  "description": "Schema v3 (sách 03+). Mở rộng từ v2: thêm field 'templates' cho rules có template (agenda, biên bản, mail, etc.). Đầy đủ cho TTS pipeline và app/web rendering.",
+  "type": "object",
+  "required": ["rule_id", "rule_slug", "title", "rule_context", "conversations"],
+  "properties": {
+    "rule_id": {
+      "type": "string",
+      "pattern": "^rule_[0-9]{2}$"
+    },
+    "rule_slug": { "type": "string" },
+    "title": {
+      "type": "object",
+      "required": ["ja", "vi"],
+      "properties": {
+        "ja": { "type": "string" },
+        "vi": { "type": "string" }
+      }
+    },
+    "rule_context": {
+      "type": "object",
+      "description": "Bối cảnh chung của cả rule. Giúp app render section 'Bối cảnh' và TTS chọn tone toàn cục.",
+      "required": ["ja", "vi"],
+      "properties": {
+        "ja": { "type": "string" },
+        "vi": { "type": "string" }
+      }
+    },
+    "related_rules": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^rule_[0-9]{2}$" },
+      "description": "Cross-references đến rule khác."
+    },
+    "conversations": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/conversation" }
+    },
+    "key_phrases": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/key_phrase" }
+    },
+    "bjt_practice": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/bjt_question" }
+    },
+    "templates": {
+      "type": "array",
+      "description": "[v3] Templates đính kèm rule (agenda, biên bản, mail). Render dạng download-ready trong app.",
+      "items": { "$ref": "#/$defs/template" }
+    }
+  },
+  "$defs": {
+    "conversation": {
+      "type": "object",
+      "required": ["section", "conversation_lines"],
+      "properties": {
+        "section": {
+          "type": "string",
+          "enum": ["bad_example", "good_example", "variant"]
+        },
+        "variant_name": { "type": "string" },
+        "label_ja": { "type": "string" },
+        "label_vi": { "type": "string" },
+        "display_order": { "type": "integer", "minimum": 1 },
+        "context": {
+          "type": "object",
+          "properties": {
+            "ja": { "type": "string" },
+            "vi": { "type": "string" }
+          }
+        },
+        "sfx_intro": {
+          "type": "string",
+          "description": "Sound effect trước hội thoại (vd: phone_ring, line_connect, hold_music). Optional."
+        },
+        "analysis": {
+          "type": "object",
+          "description": "Giải thích vì sao bad/good. Render trong app sau hội thoại.",
+          "properties": {
+            "ja": { "type": "string" },
+            "vi": { "type": "string" }
+          }
+        },
+        "annotations": {
+          "type": "array",
+          "description": "Chú thích đánh số 【1】【2】 cho line trong conversation. Render dưới dạng footnote.",
+          "items": { "$ref": "#/$defs/annotation" }
+        },
+        "conversation_lines": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/conversation_line" }
+        }
+      }
+    },
+    "annotation": {
+      "type": "object",
+      "required": ["id", "applies_to_line", "highlight_text", "ja", "vi"],
+      "properties": {
+        "id": { "type": "string", "description": "Số chú thích (1, 2, 3, ...)." },
+        "applies_to_line": { "type": "string", "description": "line_id của line được chú thích." },
+        "highlight_text": { "type": "string", "description": "Đoạn text cụ thể trong sentence được chú." },
+        "ja": { "type": "string" },
+        "vi": { "type": "string" }
+      }
+    },
+    "conversation_line": {
+      "type": "object",
+      "required": ["line_id", "speaker", "speaker_role", "gender", "sentence", "sentence_translation"],
+      "properties": {
+        "line_id": {
+          "type": "string",
+          "pattern": "^rule_[0-9]{2}_(bad|good|var)_[0-9]{2}$"
+        },
+        "speaker": { "type": "string" },
+        "speaker_role": { "type": "string" },
+        "gender": { "type": "string", "enum": ["male", "female", "neutral"] },
+        "sentence": { "type": "string" },
+        "sentence_translation": { "type": "string" },
+        "sentence_furigana": {
+          "type": "string",
+          "description": "Hiragana phiên âm cho học viên N4-N3. Optional."
+        },
+        "pronunciation_hint": {
+          "type": "object",
+          "description": "Hint cho TTS đọc đúng kanji khó / katakana lạ. Optional.",
+          "additionalProperties": { "type": "string" }
+        },
+        "tone": {
+          "type": "string",
+          "enum": ["neutral", "formal", "casual", "apologetic", "urgent", "nervous", "warm", "firm", "uncertain", "angry", "cheerful"],
+          "default": "neutral"
+        },
+        "speed_multiplier": {
+          "type": "number",
+          "minimum": 0.5,
+          "maximum": 1.5,
+          "default": 1.0,
+          "description": "Tốc độ đọc. <1.0 chậm hơn (số đt, email), >1.0 nhanh hơn."
+        },
+        "pause_after_ms": { "type": "integer", "minimum": 0, "maximum": 5000 },
+        "continues_previous": {
+          "type": "boolean",
+          "default": false,
+          "description": "True khi line này tiếp ý của line trước cùng speaker. TTS pause ngắn."
+        },
+        "annotation_ids": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Mảng id chú thích áp dụng cho line này."
+        }
+      }
+    },
+    "key_phrase": {
+      "type": "object",
+      "required": ["phrase_id", "speaker", "sentence", "sentence_translation"],
+      "properties": {
+        "phrase_id": { "type": "string", "pattern": "^rule_[0-9]{2}_kp_[0-9]{2}$" },
+        "speaker": { "type": "string" },
+        "sentence": { "type": "string" },
+        "sentence_translation": { "type": "string" },
+        "purpose": { "type": "string" },
+        "slow_audio": {
+          "type": "boolean",
+          "default": true,
+          "description": "TTS có nên đọc chậm để học viên lặp lại?"
+        }
+      }
+    },
+    "bjt_question": {
+      "type": "object",
+      "required": ["question_id", "level", "skill", "question_ja", "options", "correct"],
+      "properties": {
+        "question_id": { "type": "string", "pattern": "^rule_[0-9]{2}_bjt_[0-9]{2}$" },
+        "level": { "type": "string", "enum": ["J5", "J4", "J3", "J2", "J1", "J1+"] },
+        "skill": { "type": "string", "enum": ["場面把握", "発言聴解", "総合聴読解", "語彙文法", "表現読解", "総合読解"] },
+        "audio_prompt_id": { "type": "string" },
+        "question_ja": { "type": "string" },
+        "options": { "type": "array", "minItems": 4, "maxItems": 4, "items": { "type": "string" } },
+        "correct": { "type": "string", "enum": ["A", "B", "C", "D"] },
+        "explanation": {
+          "type": "object",
+          "description": "Giải thích đáp án — render trong quiz app khi 'Show answer'.",
+          "properties": {
+            "ja": { "type": "string" },
+            "vi": { "type": "string" }
+          }
+        }
+      }
+    },
+    "template": {
+      "type": "object",
+      "description": "[v3] Template document gắn với rule. Render dạng download/copy-paste box.",
+      "required": ["template_id", "format", "content_ja"],
+      "properties": {
+        "template_id": { "type": "string", "pattern": "^rule_[0-9]{2}_tpl_[0-9]{2}$" },
+        "format": {
+          "type": "string",
+          "enum": ["agenda", "minutes", "email_invite", "email_followup", "checklist", "report", "other"],
+          "description": "Loại template để app render đúng UI (tải xuống .md/.docx, copy clipboard, etc.)"
+        },
+        "title_ja": { "type": "string" },
+        "title_vi": { "type": "string" },
+        "content_ja": { "type": "string", "description": "Nội dung template phía Nhật. Có thể chứa placeholder 〇〇 hoặc {{var}}." },
+        "content_vi": { "type": "string", "description": "Bản dịch / placeholder Việt — optional cho template song ngữ." },
+        "notes_ja": { "type": "string" },
+        "notes_vi": { "type": "string" }
+      }
+    }
+  }
+}

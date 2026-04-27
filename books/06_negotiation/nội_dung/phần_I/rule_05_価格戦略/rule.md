@@ -1,0 +1,75 @@
+# Rule 05 — Định giá strategy / 価格戦略
+
+> **Luận điểm.** Có 3 cách đặt giá: **(1) Cost-plus** (原価+利益率) — an toàn nhưng rẻ phía mình, **(2) Value-based** (giá trị khách nhận về) — cao nhất nhưng cần chứng minh ROI, **(3) Anchoring** (đặt cao trước, để khách kéo xuống). Chọn sai mô hình → hoặc bỏ tiền trên bàn, hoặc bị walk-away.
+>
+> 価格戦略は3種から選ぶ: cost-plus / value-based / anchoring。商談相手と案件性質に合わせて使い分ける。Phase 3 のような戦略案件は **value-based + anchoring** が標準。
+>
+> **Liên quan:** rule 02 (ZOPA), rule 06 (3-tier), rule 18 (anchoring 判断), rule 23 (ROI).
+
+---
+
+## Bối cảnh / 場面
+
+Hà CTO + Hương + Dũng họp 30 phút quyết mô hình giá Phase 3. Tuấn cũng tham gia để confirm chi phí. Dũng đề xuất cost-plus đơn thuần.
+
+---
+
+## ❌ Hội thoại XẤU — chọn cost-plus thuần cho deal chiến lược
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「原価 ¥13M、利益率 25% 上乗せで ¥16.25M、切り上げ ¥16.5M で出します。」 |
+| **ハー CTO** | 「Phase 3 は新機能 AI レコメンドエンジン込み、白鷗の売上 +¥80M/年見込めるんでしょ？それを ¥16.5M で売る？」 |
+| **ズン** | 「えっと、原価ベースだとそれが妥当かと…」 |
+| **ハー CTO** | 「**Value-based で考えて**。¥80M インパクトの 20% = ¥16M 程度なら value 的にお買い得感もあるけど、¥18-22M でも妥当。cost-plus は商品案件用、戦略案件には適さない。」 |
+
+**Vì sao xấu:** Cost-plus chỉ phản ánh chi phí mình, KHÔNG phản ánh giá trị khách nhận. Phase 3 có AI engine = strategic, value cao → đáng giá ¥18-22M chứ không phải ¥16.5M. Bỏ ¥2-5M tiền trên bàn.
+
+---
+
+## ✅ Hội thoại TỐT — value-based + anchoring kết hợp
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「Phase 3 価格戦略案、3 つ比較しました【1】。」 |
+| **ズン** | 「Cost-plus: ¥16.5M。Value-based: 白鷗売上 +¥80M インパクト × 20% = ¥16M、+リスクシェア込みで ¥19M。Anchoring 起点 ¥22M (Y 社水準)、譲歩で ¥18M 着地想定。**推奨は value-based ¥19M を anchor、target ¥18M、reservation ¥15M**【2】。」 |
+| **ハー CTO** | 「ROI 説明はできる？」 |
+| **ズン** | 「はい。AI レコメンド導入で transaction 単価 +12%、white paper でモデルケース 3 社あります。CFO 中村さんへの ROI シート【3】も作成済みです。」 |
+| **フオン** | 「いいね。¥19M を堂々と出して、value で押す。¥18M に着地しても粗利率 26%、許容範囲。」 |
+
+📝 **Ghi chú:**
+- 【1】**3 mô hình so sánh**: 必ず benchmark cả 3, không jump straight vào 1 cái.
+- 【2】**Anchor > Target > Reservation** = 3 con số riêng biệt. Anchor = số mở miệng (cao), Target = số mong đạt, Reservation = walk-away.
+- 【3】**ROI シート** cho CFO = key conversion tool khi value-based. Không có ROI → value-based về bản chất là "anh tin tôi đi" → khó approve.
+
+---
+
+## 🎯 Câu chốt
+
+> **「Cost-plusは商品向け、戦略案件はvalue-based+anchoring。3モデル比較してから選ぶ。」**
+>
+> *Cost-plus cho commodity, deal chiến lược dùng value-based + anchoring. So 3 mô hình rồi chọn.*
+
+---
+
+## ⚠ Tránh
+
+- Mặc định cost-plus cho mọi deal → bỏ tiền trên bàn ở deal chiến lược
+- Anchor giá trên trời mà không có ROI backup → khách walk
+- Quên validate粗利率 floor (vd: 20%) khi tính reservation
+- Không có whitepaper / case study → value-based khó thuyết phục CFO Nhật
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 原価 | げんか | Giá vốn / cost |
+| 利益率 | りえきりつ | Tỷ suất lợi nhuận |
+| 粗利率 | あらりりつ | Gross margin |
+| 価値ベース | かちベース | Value-based |
+| 戦略案件 | せんりゃくあんけん | Deal chiến lược |
+| 商品案件 | しょうひんあんけん | Commodity deal |
+| アンカー | ankā | Anchor (giá mở) |
+| インパクト | impakuto | Impact (tác động) |

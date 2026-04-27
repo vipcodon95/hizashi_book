@@ -1,0 +1,92 @@
+# Rule 12 — Mood setting cho khách Nhật conservative / 日本顧客向けムード作り
+
+> **Luận điểm.** Tone JP business pitch = **serious-but-warm**, KHÔNG phải US-style energetic / TED-talk. Tránh "ファンタスティック！" 「革命的」 「ゲームチェンジャー」. Dùng **「着実に」「確実に」「丁寧に」「安心して」**. Volume vừa phải, pace **chậm hơn 5-10%** so với khi nói với người Việt.
+>
+> 日本ビジネスのトーンはserious-but-warm。「革命的」「ゲームチェンジャー」より「着実」「確実」「丁寧」「安心」。話速は通常の5-10%遅め。
+>
+> **Liên quan:** rule 08 (オープニング), rule 18 (顧客の声), sách 02 rule 06 (声の高さ).
+
+---
+
+## Bối cảnh / 場面
+
+Linh (intern) sau pitch trial (rule 11), Dũng review delivery. Tone Linh học từ YouTube US-style → quá hype. Dũng coach.
+
+---
+
+## ❌ Hội thoại XẤU — US-style hype
+
+*練習*
+
+| Speaker | Câu |
+|---------|-----|
+| **リン** | 「**この機能はゲームチェンジャー**です！皆様の業務を**革命的**に変えます！御社の未来は**ファンタスティック**になります！」 |
+| **ズン** | 「ストップ。50代オーナーが『ゲームチェンジャー』『革命的』『ファンタスティック』って聞いて、どう思う？」 |
+| **リン** | 「えっと…テンション高い？」 |
+| **ズン** | 「**胡散臭い**って思う。日本ビジネスは『着実に』『確実に』『丁寧に』。テンション低めでも信頼が高い方が買ってくれる。」 |
+
+**Vì sao xấu:** US-style hype words trong JP context = "vendor đang bán hàng" alarm. Khách Nhật đặc biệt 50代 thường thấy đó là cảnh báo amateur / 詐欺 (lừa). Trust dropped.
+
+---
+
+## ✅ Hội thoại TỐT — serious-but-warm
+
+*練習し直し*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「言葉を**着実な**ものに置き換えよう【1】。『ゲームチェンジャー』→『**業務改善に確実に貢献**』。『革命的』→『**着実な改善**』。『ファンタスティック』→『**安心してお任せいただける**』。」 |
+| **リン** | 「この機能は**御社の在庫管理に確実に貢献いたします**。3年運用実績があり、**安心してお任せいただける**仕組みでございます。」 |
+| **ズン** | 「うん、いい。あと**話速は5-10%遅めに**。早口だと『売り急ぎ』に聞こえる【2】。」 |
+| **リン** | 「分かりました。練習し直します。」 |
+
+📝 **Ghi chú:**
+- 【1】**JP positive lexicon** — 着実 / 確実 / 丁寧 / 安心 / 信頼 / 実績 / 堅実. Reach for these instead of hype words.
+- 【2】**「話速5-10%遅め」** — 1分300字を280字程度に. 焦らず、間を取って話す.
+
+---
+
+## 🎯 Câu chốt
+
+> **「着実・確実・丁寧・安心の4語族で語る。Pace 5-10% 遅め。低テンション + 高信頼 = 売れる。」**
+>
+> *Dùng nhóm từ "chắc chắn / chỉn chu / yên tâm". Pace chậm 5-10%. Tone trầm + tin cậy cao = bán được.*
+
+---
+
+## 📐 言葉置き換え表
+
+| ❌ US-style hype | ✅ JP business |
+|---|---|
+| 革命的 | 着実な改善 |
+| ゲームチェンジャー | 業務改善に確実に貢献 |
+| ファンタスティック | 安心してお任せいただける |
+| 圧倒的 | 大幅な (改善/削減) |
+| 最強 | 信頼性の高い |
+| 絶対 | 確実に / 間違いなく |
+| 100%保証 | 〇年運用実績がございます |
+
+---
+
+## ⚠ Tránh
+
+- "革命的" "ゲームチェンジャー" "ファンタスティック" — chuông báo amateur
+- Volume to + pace nhanh → "売り急ぎ" perception
+- 100% 保証 / 絶対 — JP business KỴ promise tuyệt đối (rủi ro pháp lý + cảm tính)
+- Cười to / hyper energy → trẻ con
+- Smile lạnh / không smile gì → cứng đờ. Smile NHẸ + warm voice.
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 着実 | ちゃくじつ | Chắc chắn từng bước |
+| 確実 | かくじつ | Chắc chắn |
+| 丁寧 | ていねい | Cẩn thận / chỉn chu |
+| 堅実 | けんじつ | Vững chắc |
+| 胡散臭い | うさんくさい | Đáng ngờ / mờ ám |
+| 売り急ぎ | うりいそぎ | Vội bán hàng |
+| 革命的 | かくめいてき | Cách mạng (hype word) |
+| 詐欺 | さぎ | Lừa đảo |

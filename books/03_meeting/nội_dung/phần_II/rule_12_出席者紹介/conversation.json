@@ -1,0 +1,175 @@
+{
+  "rule_id": "rule_12",
+  "rule_slug": "出席者紹介",
+  "title": {
+    "ja": "出席者紹介",
+    "vi": "Giới thiệu các bên tham dự"
+  },
+  "rule_context": {
+    "ja": "司会のズンが両社の出席者を紹介。自社→他社、役職高→低。自社メンバーには敬称を付けず、客には『様』を付ける。",
+    "vi": "người chủ trì Dũng giới thiệungười tham dự hai bên. Công ty mình trước → công ty khách sau. Cao → thấp. Nội bộ không 様, khách có 様."
+  },
+  "related_rules": [
+    "rule_09",
+    "rule_10",
+    "rule_11"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 自社の人間に「様」を付ける",
+      "label_vi": "XẤU — Gọi nội bộ bằng 様",
+      "display_order": 1,
+      "analysis": {
+        "ja": "自社メンバーに『副部長様』『さん』など敬称を付けると、uchi-soto の使い分けができていないと判断される。",
+        "vi": "Gọi nội bộ bằng '副部長様' / 'さん' = chưa hiểu uchi-soto. Lỗi keigo cơ bản với khách Nhật."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_12_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "では出席者紹介です。フオン副部長様、トゥアンリーダー様、リンさんです。",
+          "sentence_translation": "Vâng, em xin giới thiệungười tham dự. 'Phó phòng Hương sama', 'Leader Tuấn sama', 'Linh san' ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_12_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "白鷗様より、大垣様と松本様にもご出席いただいております。",
+          "sentence_translation": "Phía Cty Hakuō có anh Ōgaki và anh Matsumoto tham dự ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_12_bad_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ズンさん、自社の方を紹介する時は『様』も役職名も付けず、『弊社の〇〇』が正解ですよ。",
+          "sentence_translation": "Dũng à, lúc giới thiệu người Cty mình thì không gắn 「様」 hay chức danh, gọi 「弊社の〇〇」 là đúng nhé.",
+          "tone": "warm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — uchi-soto を正しく使い分け",
+      "label_vi": "TỐT — uchi-soto chuẩn",
+      "display_order": 2,
+      "analysis": {
+        "ja": "弊社→他社、役職高→低の順。自社は敬称なし「弊社 副部長のフオン」、他社は敬称あり「大垣 営業部長様」。",
+        "vi": "Cty mình → Cty khách, cao → thấp. Mình bỏ 様, khách giữ 様."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_12_good_01",
+          "highlight_text": "弊社より、副部長のフオン",
+          "ja": "「弊社 [役職] の [氏名]」が自社紹介の定型。「フオン副部長」「フオン様」はNG。",
+          "vi": "「弊社 [chức] の [tên]」 là pattern chuẩn. 「フオン副部長」 「フオン様」 đều sai."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_12_good_02",
+          "highlight_text": "白鷗株式会社様より、大垣 営業部長様",
+          "ja": "他社は「会社様」「氏名 役職様」。役職は氏名の後に置くと自然。",
+          "vi": "Cty khách: 「Cty名様」 + 「tên chức様」. Đặt chức sau tên cho tự nhiên."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_12_good_04",
+          "highlight_text": "本日もどうぞよろしくお願いいたします",
+          "ja": "出席者紹介を締めて、議題に移行する直前の定型句。",
+          "vi": "Câu chốt phần giới thiệu, làm cầu nối sang phần agenda."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_12_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本日の出席者をご紹介いたします。まずは弊社より、副部長のフオン、技術リーダーのトゥアン、アシスタントのリン、そして司会のズンの4名でございます。",
+          "sentence_translation": "Em xin giới thiệungười tham dự hôm nay. Đầu tiên phía Thiên Phát chúng em gồm 4 người: chị Hương — Phó phòng, anh Tuấn — Tech lead, em Linh — Trợ lý, và em Dũng — chủ trì ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_12_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "続きまして、白鷗株式会社からは、営業部長の大垣様、プロジェクトマネージャーの松本様、お二方にご出席いただいております。",
+          "sentence_translation": "Tiếp theo phía Cty Hakuō có 2 vị: anh Ōgaki — Trưởng phòng Kinh doanh và anh Matsumoto — Project Manager đã tới tham dự ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_12_good_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "よろしくお願いいたします。",
+          "sentence_translation": "Phiền em nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_12_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本日もどうぞよろしくお願いいたします。",
+          "sentence_translation": "Hôm nay rất mong các anh giúp đỡ ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_12_kp_01",
+      "speaker": "zun",
+      "sentence": "まずは弊社より、〇〇のフオン、〇〇のトゥアン…の〇名でございます。",
+      "sentence_translation": "Đầu tiên phía bên em có chị Hương — 〇〇, anh Tuấn — 〇〇... gồm 〇 người ạ.",
+      "purpose": "自社出席者紹介の定型",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_12_kp_02",
+      "speaker": "zun",
+      "sentence": "続きまして、〇〇株式会社様より、〇〇 〇〇様にご出席いただいております。",
+      "sentence_translation": "Tiếp theo phía Cty 〇〇 có anh/chị 〇〇 — 〇〇 đã tới tham dự ạ.",
+      "purpose": "他社出席者紹介の定型",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_12_bjt_01",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "客の前で自社の副部長フオンを紹介する正しい言い方はどれか？",
+      "options": [
+        "フオン副部長様",
+        "弊社 副部長のフオン",
+        "副部長フオンさん",
+        "うちのフオン部長"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "自社内の人物には敬称・役職名先頭を付けず「弊社 [役職] の [氏名]」が正解。",
+        "vi": "Nội bộ không gắn 様 / không đặt chức trước tên. 「弊社 [chức] の [tên]」 là chuẩn."
+      }
+    }
+  ]
+}

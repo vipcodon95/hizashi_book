@@ -1,0 +1,195 @@
+{
+  "rule_id": "rule_02",
+  "rule_slug": "進捗報告のフォーマット",
+  "title": {
+    "ja": "進捗報告のフォーマット daily/weekly",
+    "vi": "Format báo cáo tiến độ daily/weekly"
+  },
+  "rule_context": {
+    "ja": "ズンが Phase 2 の進捗をフオン副部長へ Slack で報告する場面。Done/Doing/Blocked/Next の4ブロック形式を実演。Daily と Weekly の使い分けも提示。",
+    "vi": "Em Dũng báo tiến độ Phase 2 cho chị Hương qua Slack. Áp dụng format 4 block Done/Doing/Blocked/Next. Phân biệt cách dùng daily vs weekly."
+  },
+  "related_rules": ["rule_01", "rule_04", "rule_06", "rule_10"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 形式なしの自由文",
+      "label_vi": "XẤU — Viết văn xuôi, không format",
+      "display_order": 1,
+      "analysis": {
+        "ja": "文章で書くと項目が混在し、相手は完了/未完を分離できない。「色々」「ほぼ」など定量化されていない言葉も判断材料にならない。",
+        "vi": "Viết văn xuôi khiến các item lẫn vào nhau, người đọc không tách được done/pending. 「色々」「ほぼ」 mơ hồ, không phải dữ kiện ra quyết định."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_02_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、おはようございます。先週は色々ありました。APIの修正と、それから松本様からの指摘対応もして、今週は画面遷移のテストを進めたいと思います。",
+          "sentence_translation": "Chị Hương, chào buổi sáng ạ. Tuần rồi có nhiều việc. Em sửa API, rồi xử lý các comment của anh Matsumoto, tuần này em định tiến hành test luồng chuyển màn ạ.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_02_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "具体的に何が完了？何が残ってる？ブロックは？",
+          "sentence_translation": "Cụ thể cái gì xong? Cái gì còn? Có blocker không?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_02_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、APIは完了です。指摘対応は半分くらい…画面遷移はまだ手をつけていません。",
+          "sentence_translation": "À, API thì xong rồi. Xử lý comment được khoảng nửa... luồng chuyển màn thì chưa bắt đầu ạ.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_02_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "形式を決めて。Done / Doing / Blocked / Next で書いて。毎日聞き返したくない。",
+          "sentence_translation": "Định format đi. Viết theo Done / Doing / Blocked / Next. Chị không muốn ngày nào cũng phải hỏi lại.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — DDBN 4ブロック形式",
+      "label_vi": "TỐT — Format 4 block DDBN",
+      "display_order": 2,
+      "analysis": {
+        "ja": "4ブロックを定型化することで、受信者は5秒で進捗を把握。定量化（3/5）と期限明示（今日中）で判断材料が揃う。",
+        "vi": "Định format 4 block giúp người nhận nắm tiến độ trong 5 giây. Định lượng (3/5) + deadline (trong ngày) cung cấp đủ dữ kiện."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_02_good_01",
+          "highlight_text": "3/5 対応",
+          "ja": "進捗を分数で定量化。「ほぼ」「だいたい」より遥かに明確。",
+          "vi": "Định lượng tiến độ bằng phân số. Rõ hơn rất nhiều so với 「ほぼ」「だいたい」."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_02_good_01",
+          "highlight_text": "Next (今日)",
+          "ja": "Daily の Next は当日範囲。Weekly なら来週範囲。スコープを明示する。",
+          "vi": "Next của daily chỉ trong ngày. Của weekly là tuần sau. Phải nêu rõ scope thời gian."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_02_good_03",
+          "highlight_text": "今日中に対応見込み",
+          "ja": "残タスクには見込み期限を添える。期限なしの Next は Next と呼ばない。",
+          "vi": "Task còn lại phải kèm deadline ước tính. Next không deadline = chưa phải Next."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_02_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "【Daily 4/22】Done: API修正完了、松本様指摘 3/5 対応 / Doing: 残り指摘 2件、画面遷移テスト準備 / Blocked: なし / Next (今日): 画面遷移テスト着手、トゥアンと環境同期。",
+          "sentence_translation": "[Daily 22/4] Done: Sửa API xong, comment anh Matsumoto đã xử 3/5 / Doing: 2 comment còn lại, chuẩn bị test luồng màn / Blocked: không / Next (hôm nay): Bắt tay test luồng màn, đồng bộ môi trường với anh Tuấn.",
+          "tone": "neutral",
+          "annotation_ids": ["1", "2"]
+        },
+        {
+          "line_id": "rule_02_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "了解。指摘の残り2件、内容は？",
+          "sentence_translation": "Hiểu rồi. 2 comment còn lại nội dung gì em?",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_02_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "画面遷移スピードと、エラーメッセージの日本語表現の2件です。両方とも今日中に対応見込みです。",
+          "sentence_translation": "Là tốc độ luồng chuyển màn và cách diễn đạt tiếng Nhật của thông báo lỗi ạ. Cả hai dự kiến xử trong hôm nay ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_02_good_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "OK、進めてください。",
+          "sentence_translation": "OK, em làm tiếp đi.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_02_kp_01",
+      "speaker": "zun",
+      "sentence": "【Daily 〇/〇】Done: 〇〇 / Doing: 〇〇 / Blocked: 〇〇 / Next (今日): 〇〇。",
+      "sentence_translation": "[Daily 〇/〇] Done: 〇〇 / Doing: 〇〇 / Blocked: 〇〇 / Next (hôm nay): 〇〇.",
+      "purpose": "Daily standup フォーマット（Slack）",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_02_kp_02",
+      "speaker": "zun",
+      "sentence": "今週の進捗をご報告いたします。完了項目は〇〇、進行中は〇〇、来週の予定は〇〇でございます。",
+      "sentence_translation": "Em xin báo cáo tiến độ tuần này ạ. Item hoàn thành: 〇〇, đang làm: 〇〇, kế hoạch tuần sau: 〇〇 ạ.",
+      "purpose": "Weekly report 冒頭句",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_02_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "Daily の進捗報告で「Next」欄に書くべき内容は？",
+      "options": [
+        "今週中の予定",
+        "今月の目標",
+        "本日中に着手・完了予定のタスク",
+        "プロジェクト全体のロードマップ"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "Daily の Next は当日範囲。Weekly なら来週範囲。スコープを混同すると相手は判断できない。",
+        "vi": "Next của daily là trong ngày. Của weekly là tuần sau. Lẫn scope = người nhận không quyết được."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_02_tpl_01",
+      "format": "report",
+      "title_ja": "Daily 進捗報告（Slack）テンプレート",
+      "title_vi": "Template báo cáo tiến độ Daily (Slack)",
+      "content_ja": "【Daily 〇月〇日】\nDone:\n  - 〇〇（完了）\n  - 〇〇（〇/〇 対応）\nDoing:\n  - 〇〇（進捗 〇%）\nBlocked:\n  - なし／〇〇（〇〇待ち）\nNext (今日):\n  - 〇〇までに〇〇着手\n  - 〇〇までに〇〇完了見込み",
+      "content_vi": "[Daily 〇/〇]\nDone:\n  - 〇〇 (xong)\n  - 〇〇 (xử 〇/〇)\nDoing:\n  - 〇〇 (tiến độ 〇%)\nBlocked:\n  - không / 〇〇 (chờ 〇〇)\nNext (hôm nay):\n  - Bắt tay 〇〇 trước 〇〇\n  - Dự kiến xong 〇〇 trước 〇〇",
+      "notes_ja": "Slack の場合は1行ずつ改行。スレッド化禁止（流し読み出来なくなる）。Blocked が「なし」でも欄を残す。",
+      "notes_vi": "Trên Slack mỗi dòng xuống dòng. Không thread (sếp lướt không thấy). Blocked dù không có vẫn ghi 「なし」 (nashi = không có)."
+    },
+    {
+      "template_id": "rule_02_tpl_02",
+      "format": "report",
+      "title_ja": "Weekly 進捗報告（Mail）テンプレート",
+      "title_vi": "Template báo cáo tiến độ Weekly (Mail)",
+      "content_ja": "件名：【週次報告】〇〇プロジェクト 第〇週（〇/〇〜〇/〇）\n\n〇〇様\nお世話になっております。ティエンファットの〇〇でございます。\n第〇週の進捗をご報告申し上げます。\n\n■ 全体ステータス：◎順調 / ○一部遅延 / △要相談\n■ 完了タスク：\n  1. 〇〇（〇/〇 完了）\n  2. 〇〇（〇/〇 完了）\n■ 進行中タスク：\n  1. 〇〇（進捗〇% / 完了見込み 〇/〇）\n■ ブロッカー／要相談：\n  - 〇〇（〇〇待ち、〇/〇 までに解消見込み）\n■ 来週の予定：\n  1. 〇〇\n  2. 〇〇\n■ KPI／数字：\n  - 〇〇：〇〇 → 〇〇（前週比 +〇%）\n\nご確認のほどよろしくお願い申し上げます。",
+      "content_vi": "[Subject] [Báo cáo tuần] Dự án 〇〇 — Tuần 〇 (〇/〇-〇/〇)\n\n[Kính gửi anh/chị 〇〇]\nLúc nào cũng cảm ơn anh/chị giúp đỡ ạ. Em 〇〇 bên Thiên Phát đây ạ.\nEm xin báo cáo tiến độ tuần 〇 ạ.\n\n[Trạng thái tổng] Tốt / Một phần trễ / Cần tham vấn\n[Task hoàn thành]\n  1. 〇〇 (xong 〇/〇)\n  2. 〇〇 (xong 〇/〇)\n[Task đang làm]\n  1. 〇〇 (〇% / dự kiến xong 〇/〇)\n[Blocker / cần tham vấn]\n  - 〇〇 (đang chờ 〇〇, dự kiến giải quyết trước 〇/〇)\n[Kế hoạch tuần sau]\n  1. 〇〇\n  2. 〇〇\n[KPI / số liệu]\n  - 〇〇: 〇〇 → 〇〇 (so với tuần trước +〇%)\n\nPhiền anh/chị xác nhận giúp em ạ.",
+      "notes_ja": "Weekly は数字を必ず1つは入れる。Blocker が無ければ「なし」と明記。来週の予定は3項目以内に絞る。",
+      "notes_vi": "Weekly bắt buộc có ít nhất 1 con số. Blocker không có vẫn ghi 「なし」 (nashi = không có). Kế hoạch tuần sau giới hạn 3 item trở xuống."
+    }
+  ]
+}

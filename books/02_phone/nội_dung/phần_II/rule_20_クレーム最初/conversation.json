@@ -1,0 +1,126 @@
+{
+  "rule_id": "rule_20",
+  "rule_slug": "クレーム電話の最初の対応",
+  "title": {
+    "ja": "クレーム電話の最初の対応",
+    "vi": "Bước đầu xử lý phàn nàn qua phone"
+  },
+  "rule_context": {
+    "ja": "顧客から商品未着のクレーム電話。最初の対応で『傾聴と感情への謝罪』を実践する場面。",
+    "vi": "Khách phàn nàn vì hàng chưa đến. Tình huống thực hành bước đầu: lắng nghe + xin lỗi cảm xúc trước khi giải thích."
+  },
+  "related_rules": [
+    "rule_40",
+    "rule_41",
+    "rule_45"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例",
+      "label_vi": "XẤU",
+      "display_order": 1,
+      "analysis": {
+        "ja": "事実説明を先に出すと『言い訳』に聞こえる。怒りを増幅させる典型的失敗。",
+        "vi": "Giải thích sự kiện trước nghe như 'biện minh' — làm khách thêm tức. Sai điển hình."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_20_bad_01",
+          "speaker": "unknown_caller",
+          "speaker_role": "発信者 (社外)",
+          "gender": "neutral",
+          "sentence": "先週注文した商品がまだ届いていないんですが！",
+          "sentence_translation": "Hàng tôi đặt tuần trước vẫn chưa đến!",
+          "tone": "angry"
+        },
+        {
+          "line_id": "rule_20_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと、配送センターの遅れでして…",
+          "sentence_translation": "Ờm, là do trung tâm giao hàng bị chậm…",
+          "tone": "nervous"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 2,
+      "analysis": {
+        "ja": "『ご不便をおかけして』で感情に寄り添う謝罪。事実の謝罪ではない。次に詳細聴取で初めて事実確認に入る。",
+        "vi": "「ご不便をおかけして」 = xin lỗi vì cảm xúc bất tiện, không phải xin lỗi sự kiện. Sau đó mới hỏi chi tiết để xác minh."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_20_good_01",
+          "speaker": "unknown_caller",
+          "speaker_role": "発信者 (社外)",
+          "gender": "neutral",
+          "sentence": "先週注文した商品がまだ届いていないんですが！",
+          "sentence_translation": "Hàng tôi đặt tuần trước vẫn chưa đến!",
+          "tone": "angry"
+        },
+        {
+          "line_id": "rule_20_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご不便をおかけしまして大変申し訳ございません。詳しくお伺いしてもよろしいでしょうか。",
+          "sentence_translation": "Em xin lỗi vì đã gây bất tiện cho anh ạ. Cho em hỏi chi tiết hơn được không ạ?",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_20_good_03",
+          "speaker": "unknown_caller",
+          "speaker_role": "発信者 (社外)",
+          "gender": "neutral",
+          "sentence": "3日前に着くはずだったのに...",
+          "sentence_translation": "Đáng lẽ phải đến 3 ngày trước rồi...",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_20_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "左様でございますか。早急に確認の上、改めてご連絡差し上げます。",
+          "sentence_translation": "Vâng em hiểu rồi ạ. Em sẽ kiểm tra ngay và liên hệ lại với anh sớm nhất ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_20_kp_01",
+      "speaker": "zun",
+      "sentence": "ご不便をおかけしまして大変申し訳ございません。詳しくお伺いしてもよろしいでしょうか。",
+      "sentence_translation": "Em xin lỗi vì đã gây bất tiện. Cho em hỏi chi tiết hơn được không ạ?",
+      "purpose": "クレーム第一声・傾聴と感情謝罪",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_20_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "クレーム電話の最初の対応として最も適切なのは？",
+      "options": [
+        "原因を説明する",
+        "ご不便をおかけして申し訳ございません、と感情に寄り添う",
+        "他の人に代わる",
+        "事実を確認する"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "クレーム対応の鉄則は『傾聴 → 感情謝罪 → 事実確認 → 解決』。最初に説明すると言い訳に聞こえる。",
+        "vi": "Nguyên tắc: nghe → xin lỗi cảm xúc → xác minh → giải pháp. Giải thích trước nghe như biện minh."
+      }
+    }
+  ]
+}

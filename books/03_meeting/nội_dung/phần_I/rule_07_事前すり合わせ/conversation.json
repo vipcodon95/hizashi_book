@@ -1,0 +1,174 @@
+{
+  "rule_id": "rule_07",
+  "rule_slug": "事前すり合わせ",
+  "title": {
+    "ja": "事前すり合わせ",
+    "vi": "Pre-meeting check-in nội bộ"
+  },
+  "rule_context": {
+    "ja": "白鷗との納期前倒し交渉前にフオン副部長が30分のすり合わせを招集。役割分担・現実的ライン・red lineを内部で統一。",
+    "vi": "Trước cuộc đàm phán đẩy deadline với 白鷗, chị Hương triệu tập 30 phút すり合わせ. Phân vai, xác định lằn ranh thực tế và red line."
+  },
+  "related_rules": [
+    "rule_08",
+    "rule_14",
+    "rule_25"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — すり合わせなし、会議内で意見対立",
+      "label_vi": "XẤU — Không すり合わせ, conflict ngay trong họp",
+      "display_order": 1,
+      "analysis": {
+        "ja": "BDがすぐに『がんばります』と返答、技術リーダーは別の現実を主張。客の前で社内意見が割れる典型例。",
+        "vi": "BD reflex 'がんばります' trong khi tech nhìn nhận khác. Conflict nội bộ lộ ngay trước mặt khách — pattern điển hình."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_07_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "Phase 2 の納期、5月末 → 5月15日に前倒しできますか？",
+          "sentence_translation": "Deadline Phase 2 — đẩy từ cuối tháng 5 lên 15/5 được không?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_07_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "がんばります、何とか調整いたします。",
+          "sentence_translation": "Em sẽ cố gắng ạ, em sẽ thu xếp ạ.",
+          "tone": "nervous"
+        },
+        {
+          "line_id": "rule_07_bad_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "いや待って…技術的に5月15日は厳しいです。テストフェーズで2週間必要で…",
+          "sentence_translation": "Khoan đã... mặt kỹ thuật 15/5 khó lắm. Phase test cần 2 tuần...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_07_bad_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "お二人で意見が違うようですね。社内で先に話し合っていただいたほうが…",
+          "sentence_translation": "Hai bạn ý kiến khác nhau nhỉ. Nội bộ nên thống nhất trước thì hơn...",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 30分前すり合わせで全員統一",
+      "label_vi": "TỐT — 30 phút すり合わせ, cả team align",
+      "display_order": 2,
+      "analysis": {
+        "ja": "副部長主導で red line（5月20日）と Plan B（5月15日なら追加リソース）を事前合意。会議で BD が即答せず、tech も整合した回答ができる。",
+        "vi": "Phó phòng dẫn dắt thống nhất red line (20/5) và Plan B (nếu 15/5 thì thêm resource). Vào họp BD không reflex, tech và BD nói cùng tone."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_07_good_01",
+          "highlight_text": "現実的なライン",
+          "ja": "「ライン」=境界・基準値。技術判断や交渉の文脈で頻出。",
+          "vi": "「ライン」 = ngưỡng / chuẩn. Hay dùng trong context tech & đàm phán."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_07_good_03",
+          "highlight_text": "即答せず",
+          "ja": "「即答する」=その場で返事する。「即答せず」は『その場で答えるな』の指示形。",
+          "vi": "「即答する」 = trả lời ngay. 「即答せず」 = đừng trả lời tại chỗ — câu chỉ thị quan trọng."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_07_good_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "本日は納期前倒しの話が出る可能性が高い。トゥアン、技術的に5月20日が現実的なライン？",
+          "sentence_translation": "Hôm nay khả năng cao bên kia sẽ đề nghị đẩy deadline. Tuấn, mặt kỹ thuật 20/5 có phải lằn ranh thực tế?",
+          "tone": "neutral",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_07_good_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "はい、5月20日まで前倒し可能。それより前は品質リスクあります。",
+          "sentence_translation": "Vâng, đẩy lên 20/5 được. Sớm hơn nữa thì có risk chất lượng.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_07_good_03",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "了解。ズン、もし大垣様が『5月15日』と言っても即答せず、『5月20日であればコミットできます』と返してね。私が必要に応じてフォローする。",
+          "sentence_translation": "OK. Dũng, nếu anh Ōgaki nói '15/5' thì đừng trả lời ngay, em đáp 'nếu 20/5 thì em commit được' nhé. Khi cần chị sẽ follow thêm.",
+          "tone": "firm",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_07_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "承知しました。Plan B として『5月15日要望なら追加リソース3人分の見積もり』も用意しておきます。",
+          "sentence_translation": "Em rõ rồi ạ. Plan B em chuẩn bị sẵn báo giá 3 người resource bổ sung trong trường hợp họ muốn 15/5 ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_07_kp_01",
+      "speaker": "fuon",
+      "sentence": "技術的に〇月〇日が現実的なライン？",
+      "sentence_translation": "Về mặt kỹ thuật, ngày 〇/〇 có phải lằn ranh thực tế không?",
+      "purpose": "tech confirm red line",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_07_kp_02",
+      "speaker": "fuon",
+      "sentence": "即答せず、『〇〇であればコミットできます』と返してね。",
+      "sentence_translation": "Đừng trả lời ngay, em đáp 'nếu 〇〇 thì em commit được' nhé.",
+      "purpose": "BDに即答を避けさせる指示",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_07_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "事前すり合わせの最も重要な目的はどれか？",
+      "options": [
+        "会議の議事録を作るため",
+        "客の前で社内意見が割れないよう、役割分担と red line を統一するため",
+        "出席者に弁当を配るため",
+        "会議室の予約を確認するため"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "事前すり合わせは、客との会議で社内が一枚岩であることを保証するための内部準備。",
+        "vi": "事前すり合わせ là chuẩn bị nội bộ để khi gặp khách thì cả team đồng nhất."
+      }
+    }
+  ]
+}

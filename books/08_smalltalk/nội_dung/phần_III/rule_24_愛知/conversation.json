@@ -1,0 +1,142 @@
+{
+  "rule_id": "08-24",
+  "rule_slug": "愛知",
+  "title": {
+    "vi": "Aichi/Nagoya — miso + Toyota mindset",
+    "ja": "愛知・名古屋"
+  },
+  "regional_focus": "Aichi (Nagoya / Okazaki / Toyota city)",
+  "rule_context": {
+    "luan_diem_vi": "Nagoya 3-2-1: 3 món miso, 2 đặc sản (ひつまぶし/コーチン), 1 mindset (慎重+コスパ Toyota DNA).",
+    "luan_diem_ja": "名古屋人は慎重・コスパ重視のトヨタDNA。味噌料理+ひつまぶし+モーニング文化が雑談の鍵。",
+    "boi_canh_vi": "Tháng 6/2026, Dũng + Hà CTO sang Nagoya gặp Itō để bàn POC. Sáng Komeda → trưa ひつまぶし → chiều factory → dinner 矢場とん.",
+    "boi_canh_ja": "2026年6月、ズンとハーCTOが伊藤さんとPOC打合せ。コメダ朝→ひつまぶし→工場見学→矢場とん。",
+    "muc_tieu_vi": "Hiểu Nagoya mindset + 名古屋めし + 中日 + モーニング."
+  },
+  "related_rules": [
+    {"book": "08", "rule": "11", "topic": "Món địa phương"},
+    {"book": "08", "rule": "14", "topic": "Baseball"}
+  ],
+  "conversations": [
+    {
+      "scenario": "Sáng Komeda モーニング",
+      "type": "good",
+      "lines": [
+        {"speaker": "ito_nagoya", "ja": "ズンさん、名古屋のモーニング、初めて?コーヒー1杯頼むと、トーストとゆで卵が無料で付くんですよ。", "vi": "Em à, morning Nagoya lần đầu? Gọi 1 cà phê có tặng bánh mì + trứng luộc miễn phí."},
+        {"speaker": "zun", "ja": "無料で…!東京じゃ考えられないですね。", "vi": "Miễn phí... Tokyo không thể tưởng tượng!"},
+        {"speaker": "ito_nagoya", "ja": "これがコスパの名古屋ですよ。コメダのシロノワールもぜひ。デニッシュにソフトクリーム乗せたやつ、名古屋発祥です。", "vi": "Đó là 'cost performance Nagoya' đó. Shironoir Komeda nhất định thử. Bánh Danish + kem mềm, gốc Nagoya."},
+        {"speaker": "zun", "ja": "シロノワール、聞いたことあります。これですか…甘そうで美味しそう!", "vi": "Shironoir em có nghe. Đây à... ngọt mà ngon!"},
+        {"speaker": "ito_nagoya", "ja": "あと、名古屋人は小倉トーストもよく食べる。バターとあんこ。最初は驚かれるけど、合うんですよ。", "vi": "Còn Ogura toast nữa. Bơ + đậu đỏ. Đầu tiên ngạc nhiên nhưng hợp đó."},
+        {"speaker": "zun", "ja": "あんこ + バター…新感覚です(笑)", "vi": "Đậu đỏ + bơ... cảm giác mới (cười)."}
+      ]
+    },
+    {
+      "scenario": "ひつまぶし 3 cách ăn",
+      "type": "good",
+      "lines": [
+        {"speaker": "ito_nagoya", "ja": "ひつまぶし、3段階の食べ方があるんです。覚えてます?", "vi": "Hitsumabushi có 3 cách ăn. Em nhớ không?"},
+        {"speaker": "zun", "ja": "えーっと…1番目はそのまま、2番目は薬味…3番目は出汁茶漬け、ですよね?", "vi": "Ờ... Bát 1 ăn nguyên, bát 2 thêm gia vị, bát 3 chan dashi nhỉ?"},
+        {"speaker": "ito_nagoya", "ja": "正解!1膳目そのまま、2膳目はネギ・わさび・海苔、3膳目はだし茶漬け。4膳目は好きな食べ方ね(笑)", "vi": "Đúng! Bát 1 nguyên, bát 2 hành/wasabi/rong biển, bát 3 chan dashi. Bát 4 là 'cách yêu thích' (cười)."},
+        {"speaker": "zun", "ja": "4膳目は『お気に入り再現』ですか、洒落てますね。鰻は関東風と関西風で違うんですよね?", "vi": "Bát 4 là 'tái hiện cách yêu thích' à, chất nhỉ. Lươn miền đông và tây khác nhau nhỉ?"},
+        {"speaker": "ito_nagoya", "ja": "お、よく知ってる。関東は背開き蒸してから焼く、関西は腹開き直焼き。名古屋は関西風寄りで蒸さない、皮パリッとしてます。", "vi": "Ồ, em biết rõ. Kantō mổ lưng, hấp rồi nướng. Kansai mổ bụng, nướng trực tiếp. Nagoya nghiêng Kansai, không hấp, da giòn."},
+        {"speaker": "zun", "ja": "だから外パリ中ふわなんですね。なるほど…", "vi": "Vậy nên ngoài giòn trong mềm. Hiểu rồi..."}
+      ]
+    },
+    {
+      "scenario": "Factory visit — Toyota mindset",
+      "type": "good",
+      "lines": [
+        {"speaker": "ha_cto", "ja": "伊藤さん、トヨタ生産方式の影響、本当に強いですね。カイゼン、ジャストインタイム…", "vi": "Anh Itō, ảnh hưởng Toyota Production System mạnh thật. Kaizen, Just-In-Time..."},
+        {"speaker": "ito_nagoya", "ja": "名古屋の会社は、ほぼトヨタイズムですね。慎重で、実績重視で、コスパを見る。新しい技術でもまずスモールスタートで検証する文化です。", "vi": "Công ty Nagoya hầu như là Toyotaism. Cẩn trọng, coi trọng thành tích, xem chi phí-hiệu quả. Công nghệ mới cũng start nhỏ kiểm chứng trước."},
+        {"speaker": "zun", "ja": "だから今回もPOCを2段階に分けるご提案が響いたんですね。", "vi": "Vậy nên đề xuất chia POC 2 giai đoạn lần này hợp ạ."},
+        {"speaker": "ito_nagoya", "ja": "そうそう、いきなり全社展開じゃなく、まず1ライン試して数値出してから——という。派手な営業よりデータが刺さるのが名古屋です。", "vi": "Đúng vậy, không triển khai ngay toàn cty mà thử 1 dây chuyền lấy số liệu trước. Nagoya thấm dữ liệu hơn sales hào nhoáng."},
+        {"speaker": "ha_cto", "ja": "東京の客先と比べて、決定速度はどうですか?", "vi": "So với khách Tokyo, tốc độ quyết định thế nào?"},
+        {"speaker": "ito_nagoya", "ja": "遅めです(笑)決めるまで時間かかるけど、決めたら長く付き合う。10年単位の取引が普通ですよ。", "vi": "Chậm hơn (cười). Quyết mất thời gian, nhưng quyết rồi đi cùng lâu. 10 năm là bình thường."}
+      ]
+    },
+    {
+      "scenario": "矢場とん 味噌カツ + 中日ドラゴンズ",
+      "type": "good",
+      "lines": [
+        {"speaker": "ito_nagoya", "ja": "ここのわらじとんかつは名古屋を代表する一品。八丁味噌ベースのソースが命です。", "vi": "Waraji-tonkatsu ở đây là tinh hoa Nagoya. Sốt nền hatchō-miso là tinh thần."},
+        {"speaker": "zun", "ja": "八丁味噌は岡崎の特産ですよね、何年も寝かせる…", "vi": "Hatchō-miso đặc sản Okazaki nhỉ, ủ nhiều năm..."},
+        {"speaker": "ito_nagoya", "ja": "カクキューとまるや、岡崎で2社しか作ってないんですよ。最低2年熟成。深みが違う。", "vi": "Kakukyū và Maruya, chỉ 2 hãng ở Okazaki làm. Tối thiểu 2 năm. Vị sâu khác hẳn."},
+        {"speaker": "zun", "ja": "ところで野球は、中日ドラゴンズファンですか?", "vi": "Mà bóng chày, anh fan Chunichi Dragons không?"},
+        {"speaker": "ito_nagoya", "ja": "もちろん!バンテリンドームね。最近はちょっと低迷してるけど…立浪監督頑張ってほしい。", "vi": "Tất nhiên! Vantelin Dome đó. Gần đây hơi sa sút... mong HLV Tatsunami cố gắng."},
+        {"speaker": "zun", "ja": "ドラゴンズの応援歌、独特な雰囲気ありますよね。", "vi": "Bài cổ vũ Dragons không khí riêng nhỉ."},
+        {"speaker": "ito_nagoya", "ja": "『燃えよドラゴンズ』ね!名古屋人なら全員歌える(笑)", "vi": "'Moeyo Dragons'! Người Nagoya ai cũng hát được (cười)."}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"category": "Morning", "ja": "コメダ珈琲のモーニング、行ってみたいです!", "vi": "Morning Komeda em muốn thử!"},
+    {"category": "Morning", "ja": "シロノワール、名古屋発祥なんですよね。", "vi": "Shironoir gốc Nagoya nhỉ."},
+    {"category": "ひつまぶし", "ja": "3段階の食べ方、楽しみです。", "vi": "3 cách ăn em mong lắm."},
+    {"category": "Miso", "ja": "八丁味噌、カクキューとまるや、ですよね。", "vi": "Hatchō miso, Kakukyū và Maruya nhỉ."},
+    {"category": "Mindset", "ja": "慎重に検証してから本格展開、というアプローチですよね。", "vi": "Tiếp cận kiểm chứng kỹ rồi mở rộng đúng không."},
+    {"category": "Mindset", "ja": "コスパ重視、しっかり数値で見ていただけるのは助かります。", "vi": "Coi trọng cost-performance, được xem số liệu kỹ là rất tốt."},
+    {"category": "Dragons", "ja": "中日ファンですか?バンテリンドーム、雰囲気いいですよね。", "vi": "Anh fan Chunichi không? Vantelin Dome không khí hay."}
+  ],
+  "regional_cheatsheet": {
+    "ken_capital": "名古屋市",
+    "specialty_food": ["ひつまぶし(あつた蓬莱軒)", "味噌カツ(矢場とん)", "味噌煮込みうどん(山本屋本店)", "どて煮", "手羽先(山ちゃん/風来坊)", "きしめん", "小倉トースト", "エビフライ", "あんかけスパ"],
+    "premium_chicken": "名古屋コーチン (sashimi gà cao cấp)",
+    "miso": "八丁味噌 — Okazaki, カクキュー + まるや, ủ ≥2 năm",
+    "morning_culture": "Komeda 珈琲店 (発祥), シロノワール, 小倉トースト",
+    "sport_teams": ["中日ドラゴンズ (バンテリンドーム)", "名古屋グランパス (Jリーグ)"],
+    "festivals": ["熱田まつり (6月)", "名古屋まつり (10月)", "大須夏まつり"],
+    "tourism": ["名古屋城(金鯱)", "熱田神宮", "大須商店街", "犬山城", "徳川美術館", "トヨタ博物館", "産業技術記念館"],
+    "onsen": ["蒲郡温泉", "三谷温泉"],
+    "dialect": "名古屋弁: 〜だがや, えらい(=疲れた)",
+    "mindset": "慎重 / コスパ重視 / 実績重視 / 長期取引 — Toyota DNA",
+    "famous_people": ["織田信長", "豊臣秀吉", "徳川家康", "イチロー(西春)"]
+  },
+  "ng_list": [
+    "「東京と比べて」 so sánh tiêu cực",
+    "Khen 「派手で華やか」 — mismatch mindset",
+    "Nhầm 八丁味噌 với 白味噌 hay 赤味噌 generic",
+    "Trêu 「名古屋人ケチ」 — rude từ người ngoài",
+    "Hỏi F1 鈴鹿 quên rằng 鈴鹿 = 三重県"
+  ],
+  "vocab": [
+    {"kanji": "ひつまぶし", "yomi": "ひつまぶし", "vi": "Lươn 3 cách ăn"},
+    {"kanji": "味噌カツ", "yomi": "みそかつ", "vi": "Tonkatsu miso"},
+    {"kanji": "味噌煮込みうどん", "yomi": "みそにこみうどん", "vi": "Udon hầm miso"},
+    {"kanji": "手羽先", "yomi": "てばさき", "vi": "Cánh gà"},
+    {"kanji": "八丁味噌", "yomi": "はっちょうみそ", "vi": "Miso đỏ Okazaki"},
+    {"kanji": "きしめん", "yomi": "きしめん", "vi": "Mì dẹt Nagoya"},
+    {"kanji": "名古屋コーチン", "yomi": "なごやコーチン", "vi": "Gà cao cấp"},
+    {"kanji": "小倉トースト", "yomi": "おぐらトースト", "vi": "Bánh mì đậu đỏ"},
+    {"kanji": "シロノワール", "yomi": "シロノワール", "vi": "Bánh Komeda"},
+    {"kanji": "中日ドラゴンズ", "yomi": "ちゅうにちドラゴンズ", "vi": "Đội Nagoya"},
+    {"kanji": "バンテリンドーム", "yomi": "バンテリンドーム", "vi": "Sân Dragons"},
+    {"kanji": "コスパ", "yomi": "コスパ", "vi": "Cost-performance"}
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "名古屋のお客様の典型的な意思決定スタイルは?",
+      "options": ["A. 即断即決、感覚重視", "B. 慎重に数値検証、決めたら長期", "C. 派手な提案を好む", "D. 一発勝負"],
+      "answer": "B",
+      "explain_vi": "Toyota DNA: cẩn trọng, dữ liệu, dài hạn."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「名古屋はコスパ重視」 = ?",
+      "options": ["A. ケチでネガティブ", "B. 価格と価値のバランスを賢く見る、ポジティブ", "C. 高級志向", "D. 関係ない"],
+      "answer": "B",
+      "explain_vi": "コスパ重視 là khen — biết tính toán."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "名古屋弁「えらい」の意味は?",
+      "options": ["A. すごい/偉い", "B. 疲れた・しんどい", "C. 美味しい", "D. 高い"],
+      "answer": "B",
+      "explain_vi": "「えらい」 trong Nagoya-ben = mệt mỏi (KHÔNG = great)."
+    }
+  ],
+  "templates": []
+}

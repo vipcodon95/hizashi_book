@@ -1,0 +1,161 @@
+{
+  "rule_id": "rule_42",
+  "rule_slug": "時間切れ締め",
+  "title": {
+    "ja": "時間切れの締め方",
+    "vi": "Đột xuất kết thúc sớm vì thiếu thời gian"
+  },
+  "rule_context": {
+    "ja": "60分会議の58分時点でアジェンダ2/3完了。ズン司会が時間切れ宣言→決定済み確認→積み残し+次回スロット提案の3ステップで締める場面。",
+    "vi": "Họp 60 phút, phút 58 mới xong 2/3 agenda. Dũng chủ trì đóng họp 3 bước: báo hết giờ → confirm quyết định → carry-forward + đề slot mới."
+  },
+  "related_rules": ["rule_16", "rule_32", "rule_43"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 「もう少し続けましょうか？」",
+      "label_vi": "XẤU — Hỏi khách 'tiếp được không?'",
+      "display_order": 1,
+      "analysis": {
+        "ja": "顧客は次の予定があり、続けるかと聞かれると断らざるを得ず気まずい状況に。",
+        "vi": "Khách thường có buổi tiếp theo. Hỏi 'tiếp được không?' bắt khách lúng túng từ chối."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_42_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、もう時間ですけど…まあ、もう少し続けましょうか？",
+          "sentence_translation": "À hết giờ rồi nhỉ... mà thôi, tiếp tý nữa được không ạ?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_42_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "…次の予定があるんですが…",
+          "sentence_translation": "...Tôi có buổi tiếp theo...",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 3ステップで締める",
+      "label_vi": "TỐT — Đóng 3 bước",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_42_good_01",
+          "highlight_text": "お時間が来てしまいましたので、本日はここまでとさせていただきます",
+          "ja": "時間切れ宣言の標準フレーズ。続行可否を相手に尋ねない。",
+          "vi": "Câu chuẩn báo hết giờ. Không hỏi khách có tiếp không."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_42_good_02",
+          "highlight_text": "本日決定したのは、Phase 2スコープA案、リリース7月末、責任者はトゥアンリーダー、の3点",
+          "ja": "決定事項を明確に確認。議事録に直結。",
+          "vi": "Confirm rõ decisions → liên kết trực tiếp với biên bản."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_42_good_03",
+          "highlight_text": "来週水曜午後で30分のお時間頂戴できますでしょうか",
+          "ja": "次回スロットを具体的に提案することで「別途」を曖昧にしない。",
+          "vi": "Đề xuất slot cụ thể → 「別途」 không bị mơ hồ."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_42_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お時間が来てしまいましたので、本日はここまでとさせていただきます。",
+          "sentence_translation": "Đã đến giờ rồi nên hôm nay em xin dừng tại đây ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_42_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "【決定済み】本日決定したのは、Phase 2スコープA案、リリース7月末、責任者はトゥアンリーダー、の3点でございます。",
+          "sentence_translation": "[Đã quyết] Hôm nay mình chốt 3 điểm: scope phase 2 phương án A, release cuối tháng 7, người phụ trách là anh Tuấn ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_42_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "【積み残し】残るスケジュール詳細とコスト試算につきましては、別途打合せにてご相談させていただきます。来週水曜午後で30分のお時間頂戴できますでしょうか？",
+          "sentence_translation": "[Còn lại] Phần chi tiết schedule và tính cost em xin được bàn ở buổi riêng ạ. Anh dành cho em 30 phút chiều thứ Tư tuần sau được không ạ?",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_42_good_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "水曜15時で問題ありません。",
+          "sentence_translation": "15h thứ Tư OK.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_42_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。本日はお時間をいただき、誠にありがとうございました。",
+          "sentence_translation": "Em cảm ơn anh ạ. Hôm nay em xin cảm ơn anh đã dành thời gian ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_42_kp_01",
+      "speaker": "zun",
+      "sentence": "お時間が来てしまいましたので、本日はここまでとさせていただきます。",
+      "sentence_translation": "Đã đến giờ rồi nên hôm nay em xin dừng tại đây ạ.",
+      "purpose": "時間切れ宣言の標準フレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_42_kp_02",
+      "speaker": "zun",
+      "sentence": "残る議題は別途打合せにてご相談させていただきます。〇月〇日〇時で〇〇分のお時間頂戴できますでしょうか？",
+      "sentence_translation": "Topic còn lại em xin bàn ở buổi riêng ạ. Anh/chị dành 〇 phút lúc 〇h ngày 〇/〇 được không ạ?",
+      "purpose": "積み残し+次回スロット提案",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_42_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "会議終了2分前、議題が3分の2しか終わっていない。司会の最善対応は？",
+      "options": [
+        "「もう少し続けましょうか」と聞く",
+        "「お時間が来ましたので、本日はここまで。決定済みは〇、積み残しは〇月〇日に」と3ステップで締める",
+        "勝手に延長する",
+        "全議題終わるまで強行"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "時間→決定済み確認→積み残し+次回スロットの3ステップで締めるのが顧客の予定を尊重する標準。",
+        "vi": "Time → confirm decisions → carry-forward + slot mới = chuẩn tôn trọng lịch khách."
+      }
+    }
+  ]
+}

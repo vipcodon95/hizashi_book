@@ -1,0 +1,171 @@
+{
+  "rule_id": "rule_09",
+  "rule_slug": "譲歩計画",
+  "title": {
+    "ja": "譲歩計画",
+    "vi": "Concession plan"
+  },
+  "rule_context": {
+    "ja": "Phase 3 商談前夜、Hương が Dũng の譲歩計画をレビューし trade を付与した5 ladder に修正させる場面。",
+    "vi": "Tối hôm trước đàm phán Phase 3, chị Hương review concession plan và yêu cầu Dũng đính trade vào từng nấc thành 5-ladder."
+  },
+  "related_rules": ["rule_07", "rule_21", "rule_24"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — trade なしのladder",
+      "label_vi": "XẤU — Ladder không có trade",
+      "display_order": 1,
+      "analysis": {
+        "ja": "値引きを並べただけで引き換え条件なし。相手は弱さと受け取り更に押してくる。",
+        "vi": "Chỉ liệt kê giảm giá, không có điều kiện đổi. Khách đọc là yếu thế, push tiếp."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_09_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、譲歩計画です: ¥19M → ¥18M → ¥17M → ¥16M。",
+          "sentence_translation": "Chị Hương, concession plan ạ: ¥19M → ¥18M → ¥17M → ¥16M.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_09_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "それ譲歩じゃなくてただの値引きカウント。何と引き換え？大垣さんに「1M ずつ下げてくれた」と取られたら、最終 ¥15M まで押される。",
+          "sentence_translation": "Cái đó không phải nhượng bộ — chỉ là đếm số lần giảm giá. Đổi cái gì? Anh Ōgaki đọc kiểu '¥1M mỗi lần là chịu giảm' thì sẽ ép tới ¥15M.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_09_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "うーん、引き換え条件はまだ…",
+          "sentence_translation": "Ừm, điều kiện đổi em chưa...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_09_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "1譲歩 = 1 trade、これ法則。¥18M → ¥17M なら「scope -10% AND 契約3年化」とかセット。引き換えなしの譲歩は「弱さの暴露」だけ。",
+          "sentence_translation": "1 nhượng bộ = 1 trade, đó là quy luật. ¥18M → ¥17M phải kèm 'scope -10% AND hợp đồng 3 năm'. Nhượng bộ không trade chỉ phơi bày yếu thế.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 5 ladder各段にtrade",
+      "label_vi": "TỐT — 5 ladder, mỗi nấc có trade",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_09_good_01",
+          "highlight_text": "5 ladder、各段に trade",
+          "ja": "譲歩はladder。但し plain ではなく trade をペアにする。",
+          "vi": "Nhượng bộ theo ladder, nhưng KHÔNG plain — luôn pair với trade."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_09_good_02",
+          "highlight_text": "契約期間 2 年化 (LTV +35%)",
+          "ja": "trade種類: 契約延長、scope削減、支払条件、事例公開、独占期間、紹介料 etc。",
+          "vi": "Loại trade: kéo dài hợp đồng, cắt scope, payment terms, công bố case, độc quyền, hoa hồng giới thiệu..."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_09_good_04",
+          "highlight_text": "断られたら ¥17.5M も引っ込めて Step 1 に戻ります",
+          "ja": "trade-back原則: trade 拒否されたら譲歩を取り下げて元の段階に戻る。これがないと unilateral concession。",
+          "vi": "Nguyên tắc trade-back: trade bị từ chối thì rút lại nhượng bộ, quay về nấc trước. Không có cái này thì thành unilateral concession."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_09_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "譲歩計画 v2 です。5 ladder、各段に trade を付けました。",
+          "sentence_translation": "Concession plan v2 ạ. 5 ladder, mỗi nấc có trade.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_09_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Step 0: ¥19M anchor (no concession)。Step 1: ¥18M target、trade なし (target 着地は譲歩ゼロ扱い)。Step 2: ¥17.5M ⇄ 契約期間 2 年化 (LTV +35%)。Step 3: ¥17M ⇄ scope -10% (AI dashboard 2nd phase 後出し)。Step 4: ¥16M ⇄ scope -20% + payment net 30 化 + 事例公開許可。Step 5: ¥15M ⇄ scope -30% + 上記すべて + 早期支払割 (これ最終)。¥15M 以下 = 撤退です。",
+          "sentence_translation": "Step 0: ¥19M anchor (chưa nhượng). Step 1: ¥18M target, không trade (chốt ở target = không tính nhượng). Step 2: ¥17.5M ⇄ kéo hợp đồng 2 năm (LTV +35%). Step 3: ¥17M ⇄ scope -10% (AI dashboard đẩy sang Phase 2 sau). Step 4: ¥16M ⇄ scope -20% + payment net 30 + cho phép công bố case. Step 5: ¥15M ⇄ scope -30% + tất cả trên + chiết khấu thanh toán sớm (đây là cuối). Dưới ¥15M = walk-away ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_09_good_03",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "Step 2 の 2 年化、白鷗が断ったら？",
+          "sentence_translation": "Bước 2 kéo 2 năm, Hakuō từ chối thì sao?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_09_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "断られたら ¥17.5M も引っ込めて Step 1 に戻ります。譲歩は trade とセット、trade 拒否は譲歩取り下げ。",
+          "sentence_translation": "Bị từ chối thì em rút ¥17.5M, quay về Step 1 ạ. Nhượng bộ luôn đi cùng trade — trade bị từ chối là rút nhượng bộ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_09_good_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "完璧。これ trade-back 原則。事例公開許可は marketing 側の価値あるから入れていい。",
+          "sentence_translation": "Hoàn hảo. Đó là nguyên tắc trade-back. Quyền công bố case có giá trị marketing nên đưa vào được.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_09_kp_01",
+      "speaker": "zun",
+      "sentence": "譲歩は trade とセット、trade 拒否は譲歩取り下げ。",
+      "sentence_translation": "Nhượng bộ luôn đi cùng trade, trade bị từ chối là rút nhượng bộ.",
+      "purpose": "trade-back 原則",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_09_bjt_01",
+      "level": "J1",
+      "skill": "表現読解",
+      "question_ja": "譲歩計画でtrade-back原則とは？",
+      "options": [
+        "譲歩したら必ず元に戻すこと",
+        "trade が拒否された場合、対応する譲歩も取り下げて前段階に戻すこと",
+        "毎回譲歩額を倍にすること",
+        "譲歩のたびに上司に確認すること"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "trade-back: trade(引き換え) 拒否時は譲歩も取り下げ、前段階の価格に戻す。unilateral concession 防止策。",
+        "vi": "Trade-back: nếu trade bị từ chối, rút nhượng bộ, quay lại giá nấc trước. Phòng tránh unilateral concession."
+      }
+    }
+  ]
+}

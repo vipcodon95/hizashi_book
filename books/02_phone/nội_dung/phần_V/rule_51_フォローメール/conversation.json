@@ -1,0 +1,78 @@
+{
+  "rule_id": "rule_51",
+  "rule_slug": "電話後のフォローアップメール",
+  "title": {
+    "ja": "電話後のフォローアップメール",
+    "vi": "Phone xong gửi tóm tắt qua mail"
+  },
+  "rule_context": {
+    "ja": "重要通話後、1時間以内にフォローアップメールを送る約束を電話の最後で明示する場面。",
+    "vi": "Sau cuộc gọi quan trọng, cuối điện thoại nói rõ sẽ gửi mail follow-up trong 1h."
+  },
+  "related_rules": [
+    "rule_35",
+    "rule_23"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『本日中にフォローアップメール』で文書化を約束。口頭の合意がエビデンス化され誤認識を防ぐ。",
+        "vi": "Cam kết 「本日中にフォローアップメール」 = ghi lại văn bản, tránh hiểu nhầm thỏa thuận miệng."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_51_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "先ほどの内容、本日中にフォローアップメールでまとめてお送りいたします。ご確認のほどよろしくお願いいたします。",
+          "sentence_translation": "Nội dung vừa rồi em sẽ tổng hợp gửi mail follow-up trong hôm nay. Phiền anh xác nhận giúp em ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_51_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "お願いします。",
+          "sentence_translation": "Nhờ em nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_51_kp_01",
+      "speaker": "zun",
+      "sentence": "本日中にフォローアップメールでまとめてお送りいたします。",
+      "sentence_translation": "Em sẽ tổng hợp gửi mail follow-up trong hôm nay ạ.",
+      "purpose": "通話後の文書化約束",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_51_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "重要通話後のフォローアップとして最も適切なのは？",
+      "options": [
+        "電話だけで完結",
+        "1時間以内にメールで合意事項を文書化",
+        "翌週にまとめて報告",
+        "口頭でのみ伝える"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "口頭合意を1時間以内に文書化することで認識違いを防ぐ。",
+        "vi": "Văn bản hóa thỏa thuận miệng trong 1h tránh hiểu nhầm."
+      }
+    }
+  ]
+}

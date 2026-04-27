@@ -1,0 +1,157 @@
+{
+  "rule_id": "rule_16",
+  "rule_slug": "季節行事",
+  "title": {
+    "vi": "Festivals theo mùa",
+    "ja": "季節行事"
+  },
+  "rule_context": {
+    "ja": "ズンが2026年の季節行事ごとに異なる客と話す機会がある — 4月Matsumoto(花見)、8月Nakamura(花火)、11月Kato(紅葉)、12-1月Ōgaki(お正月)。",
+    "vi": "Năm 2026 Dũng gặp khách đúng các giai đoạn lễ hội: 4月 hanami (Matsumoto), 8月 hanabi (Nakamura), 11月 kōyō (Kato), 12-1月 お正月 (Ōgaki)."
+  },
+  "related_rules": ["rule_09", "rule_15", "rule_22"],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "お花見 — 4月Matsumoto",
+      "label_vi": "Hanami — tháng 4 Matsumoto",
+      "display_order": 1,
+      "context": {
+        "ja": "月曜朝、東京。先週末の桜の話題で雑談を開く。",
+        "vi": "Sáng thứ 2, Tokyo. Mở chuyện cuối tuần ngắm hoa đào."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_16_good_01", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "松本さん、おはようございます。先週末、目黒川の桜、満開でしたね。", "sentence_translation": "Anh Matsumoto, chào anh. Cuối tuần trước đào sông Meguro nở rộ nhỉ.", "tone": "warm"},
+        {"line_id": "rule_16_good_02", "speaker": "matsumoto", "speaker_role": "PM 白鷗", "gender": "male", "sentence": "ズンさん、目黒川まで行ったの?ライトアップの写真、SNSにすごく流れたよね。", "sentence_translation": "Em đi tận sông Meguro à? Ảnh ánh đèn lan tràn SNS nhỉ.", "tone": "warm"},
+        {"line_id": "rule_16_good_03", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "夜行きました。屋台で桜餅食べて…お花見団子の三色、初めて知りました。", "sentence_translation": "Em đi tối. Ăn sakuramochi ở quầy hàng... lần đầu biết hanami-dango có 3 màu.", "tone": "warm"},
+        {"line_id": "rule_16_good_04", "speaker": "matsumoto", "speaker_role": "PM 白鷗", "gender": "male", "sentence": "ピンク・白・緑、それぞれ意味あるんだよ。ピンク=春、白=冬、緑=夏…って桜の周りの季節を表す。", "sentence_translation": "Hồng, trắng, xanh — mỗi màu có ý nghĩa. Hồng = xuân, trắng = đông, xanh = hè... biểu hiện 3 mùa quanh đào.", "tone": "warm"},
+        {"line_id": "rule_16_good_05", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "文化的に深いんですね。今度の週末、新宿御苑の桜祭り行ってきます。", "sentence_translation": "Văn hóa sâu nhỉ. Cuối tuần tới em đi lễ đào ở Shinjuku Gyōen.", "tone": "cheerful"},
+        {"line_id": "rule_16_good_06", "speaker": "matsumoto", "speaker_role": "PM 白鷗", "gender": "male", "sentence": "いいね。御苑はソメイヨシノ・山桜・八重桜、種類豊富。敷物持って行ってのんびり。", "sentence_translation": "Hay đó. Gyōen có Somei Yoshino, đào núi, đào kép — đủ loại. Mang chiếu đi ngồi thư thái.", "tone": "warm"},
+        {"line_id": "rule_16_good_07", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "場所取りって早朝からなんですよね?", "sentence_translation": "Giữ chỗ phải đi từ sớm đúng không ạ?", "tone": "warm"},
+        {"line_id": "rule_16_good_08", "speaker": "matsumoto", "speaker_role": "PM 白鷗", "gender": "male", "sentence": "うちの会社は新人が朝7時から場所取り(笑)。幹事の役目、ベトナムでも似てる?", "sentence_translation": "Công ty anh nhân viên mới giữ chỗ từ 7h sáng (cười). Vai 'kanji' — Việt Nam có giống không?", "tone": "cheerful"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "花火大会 — 8月Nakamura",
+      "label_vi": "Pháo hoa — tháng 8 Nakamura",
+      "display_order": 2,
+      "context": {
+        "ja": "7月末、Nakamura CFOが家族の隅田川花火予定を共有。",
+        "vi": "Cuối tháng 7, Nakamura kể kế hoạch xem pháo hoa Sumida với gia đình."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_16_good_09", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "ズンさん、夏休みは予定ある?今年は隅田川花火大会に家族で行く予定。", "sentence_translation": "Dũng có kế hoạch nghỉ hè không? Năm nay nhà anh đi pháo hoa Sumida.", "tone": "warm"},
+        {"line_id": "rule_16_good_10", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "隅田川!7月最後の土曜ですよね?屋形船で観るのが憧れです。", "sentence_translation": "Sumida! Thứ 7 cuối tháng 7 đúng không ạ? Em mơ xem từ thuyền yakatabune.", "tone": "cheerful"},
+        {"line_id": "rule_16_good_11", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "屋形船は予約大変だよ(笑)。今年は浴衣着て両国橋で観る予定。北海道だと、札幌に道新花火大会ある。3万発、規模大きいよ。", "sentence_translation": "Yakatabune đặt khó (cười). Năm nay anh mặc yukata xem từ cầu Ryōgoku. Hokkaido thì có lễ Dōshin Sapporo, 30,000 quả, to.", "tone": "warm"},
+        {"line_id": "rule_16_good_12", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "3万発!すごいですね。長岡花火とか諏訪湖花火もよくニュースで…", "sentence_translation": "30,000 quả! Khủng quá. Pháo hoa Nagaoka với hồ Suwa cũng hay lên tin...", "tone": "warm"},
+        {"line_id": "rule_16_good_13", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "お、日本の三大花火知ってる?長岡(新潟)・大曲(秋田)・土浦(茨城)。それぞれ特色違う。長岡はフェニックスが有名。", "sentence_translation": "Ồ, biết tam đại pháo hoa nhỉ? Nagaoka, Ōmagari, Tsuchiura. Mỗi nơi đặc trưng khác. Nagaoka có Phoenix nổi tiếng.", "tone": "cheerful"},
+        {"line_id": "rule_16_good_14", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "フェニックス!幅2km の不死鳥、復興の象徴ですよね。", "sentence_translation": "Phoenix! Phượng hoàng dài 2km, biểu tượng tái thiết đúng không ạ.", "tone": "warm"},
+        {"line_id": "rule_16_good_15", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "ズンさん、相当勉強してるね…2004年の中越地震の追悼として始まった。今度ぜひ実物見て。", "sentence_translation": "Em học kỹ thật... ra đời năm 2004 sau động đất Chūetsu để tưởng niệm. Lần sau xem thực tế nhé.", "tone": "warm"},
+        {"line_id": "rule_16_good_16", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "来年8月、長岡計画させてください。", "sentence_translation": "Tháng 8 năm sau em sẽ lên kế hoạch đi Nagaoka.", "tone": "cheerful"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "紅葉 — 11月飛騨Kato",
+      "label_vi": "Lá đỏ — tháng 11 Hida Kato",
+      "display_order": 3,
+      "context": {
+        "ja": "10月中旬のZoom、加藤さんが飛騨高山の見頃を案内。",
+        "vi": "Zoom giữa tháng 10, anh Kato chỉ kōyō Hida-Takayama đang đẹp."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_16_good_17", "speaker": "kato_gifu", "speaker_role": "中部協力先担当 白鷗", "gender": "male", "sentence": "ズンさん、飛騨高山の紅葉、ちょうど今が見頃。来週来れる?", "sentence_translation": "Dũng, lá đỏ Hida-Takayama đang đẹp nhất. Tuần sau đến được không?", "tone": "warm"},
+        {"line_id": "rule_16_good_18", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "飛騨!白川郷も茅葺屋根に紅葉の構図、写真でずっと憧れて…", "sentence_translation": "Hida! Shirakawa-go với mái cỏ tranh + lá đỏ — em mê tấm ảnh đó từ lâu...", "tone": "cheerful"},
+        {"line_id": "rule_16_good_19", "speaker": "kato_gifu", "speaker_role": "中部協力先担当 白鷗", "gender": "male", "sentence": "白川郷ライトアップは1月の雪景色だけど、紅葉も最高。香嵐渓(愛知)、永観堂(京都)とは違う、飛騨独特の山深い紅葉。", "sentence_translation": "Lighting Shirakawa-go là tháng 1 ngắm tuyết, nhưng kōyō cũng đỉnh. Khác Kōrankei (Aichi), Eikandō (Kyoto) — Hida sâu núi đặc trưng.", "tone": "warm"},
+        {"line_id": "rule_16_good_20", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "香嵐渓と永観堂!京都の清水寺夜間拝観も気になります。", "sentence_translation": "Kōrankei với Eikandō! Em cũng tò mò chùa Kiyomizu mở đêm Kyoto.", "tone": "warm"},
+        {"line_id": "rule_16_good_21", "speaker": "kato_gifu", "speaker_role": "中部協力先担当 白鷗", "gender": "male", "sentence": "京都は混雑がすごいけどね。岐阜なら新穂高ロープウェイ、3000メートルから紅葉の絨毯を見下ろせる。", "sentence_translation": "Kyoto đông kinh khủng. Gifu thì có cáp treo Shinhotaka, từ 3000m nhìn xuống thảm lá đỏ.", "tone": "warm"},
+        {"line_id": "rule_16_good_22", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "3000m!寒さ対策必須ですね。飛騨牛朴葉味噌で温まるのも楽しみで。", "sentence_translation": "3000m! Phải chuẩn bị chống lạnh. Em mong cả ăn bò Hida + miso hōba để ấm.", "tone": "cheerful"},
+        {"line_id": "rule_16_good_23", "speaker": "kato_gifu", "speaker_role": "中部協力先担当 白鷗", "gender": "male", "sentence": "お、つながったね(笑)。あと飛騨高山祭、4月と10月、屋台が出る。山車、ユネスコ無形文化遺産よ。", "sentence_translation": "Ồ, em nối được rồi (cười). Còn lễ Hida-Takayama tháng 4 và 10, có yatai. Xe diễu hành — di sản văn hóa phi vật thể UNESCO.", "tone": "warm"},
+        {"line_id": "rule_16_good_24", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "ユネスコ!10月の秋の高山祭、ぜひ行きたいです。", "sentence_translation": "UNESCO! Lễ Takayama mùa thu tháng 10 em rất muốn đi.", "tone": "cheerful"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "お正月 — 12月末Ōgaki",
+      "label_vi": "Năm mới — cuối tháng 12 Ōgaki",
+      "display_order": 4,
+      "context": {
+        "ja": "12月28日のZoom、新年挨拶 + お雑煮の地域差の話題。",
+        "vi": "Zoom 28/12, chào năm mới + chủ đề khác biệt vùng の お雑煮."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_16_good_25", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "大垣さん、本年は本当にお世話になりました。お正月は実家に帰省されるんですか?", "sentence_translation": "Anh Ōgaki, năm nay anh giúp đỡ em rất nhiều. Năm mới anh về quê ạ?", "tone": "formal"},
+        {"line_id": "rule_16_good_26", "speaker": "oogaki_sales", "speaker_role": "営業部長 白鷗", "gender": "male", "sentence": "ええ、京都の実家。お節料理・お雑煮・初詣、毎年同じだけど落ち着く。", "sentence_translation": "Vâng, nhà bố mẹ ở Kyoto. Osechi, ozōni, hatsumōde — năm nào cũng vậy nhưng yên bình.", "tone": "warm"},
+        {"line_id": "rule_16_good_27", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "お雑煮、地域で全然違うって聞きました。関東は角餅すまし汁、関西は丸餅白味噌、合ってますか?", "sentence_translation": "Em nghe ozōni khác hẳn theo vùng. Kantō thì mochi vuông súp trong, Kansai thì mochi tròn miso trắng, đúng không ạ?", "tone": "warm"},
+        {"line_id": "rule_16_good_28", "speaker": "oogaki_sales", "speaker_role": "営業部長 白鷗", "gender": "male", "sentence": "お、関西人みたいな知識(笑)。京都は丸餅白味噌、あと頭芋入れる家もある。九州行くと博多雑煮はぶり入る。", "sentence_translation": "Ồ, kiến thức kiểu người Kansai luôn (cười). Kyoto là mochi tròn miso trắng, có nhà còn cho khoai sọ to. Đến Kyushu thì Hakata ozōni có cá buri.", "tone": "cheerful"},
+        {"line_id": "rule_16_good_29", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "ぶり!地域ごとに具が違うんですね。お節は重箱の段ごとに意味があるんですよね?", "sentence_translation": "Cá buri! Mỗi vùng nhân khác nhau. Osechi mỗi tầng hộp có ý nghĩa riêng đúng không ạ?", "tone": "warm"},
+        {"line_id": "rule_16_good_30", "speaker": "oogaki_sales", "speaker_role": "営業部長 白鷗", "gender": "male", "sentence": "一の重 = 祝い肴(黒豆・数の子・田作り)、二の重 = 焼き物、三の重 = 煮物、与の重 = 酢の物。各料理に縁起の意味。", "sentence_translation": "Tầng 1 = món chúc mừng (đậu đen, trứng cá trích, cá khô đường), tầng 2 nướng, tầng 3 hầm, tầng 4 chua. Mỗi món có ý điềm lành.", "tone": "neutral"},
+        {"line_id": "rule_16_good_31", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "黒豆=まめに働く、数の子=子孫繁栄、田作り=豊作…合ってますか?", "sentence_translation": "Đậu đen = làm việc cần mẫn, trứng cá = đông con cháu, tazukuri = mùa màng tốt... đúng không ạ?", "tone": "warm"},
+        {"line_id": "rule_16_good_32", "speaker": "oogaki_sales", "speaker_role": "営業部長 白鷗", "gender": "male", "sentence": "完璧!ベトナム人で、ここまで知ってる人初めて(笑)。来年もよろしくお願いします。良いお年を。", "sentence_translation": "Hoàn hảo! Người Việt biết đến mức này anh gặp lần đầu (cười). Năm sau cũng nhờ em. Chúc năm mới tốt lành.", "tone": "cheerful"}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"phrase_id": "rule_16_kp_01", "speaker": "zun", "sentence": "[目黒川]の桜、見に行かれましたか?", "sentence_translation": "Đào [sông Meguro] anh có đi xem không ạ?", "purpose": "Mở topic hanami theo địa điểm cụ thể"},
+    {"phrase_id": "rule_16_kp_02", "speaker": "zun", "sentence": "[隅田川/長岡]の花火、行かれますか?", "sentence_translation": "Pháo hoa [Sumida/Nagaoka] anh có đi không ạ?", "purpose": "Mở topic hanabi mùa hè"},
+    {"phrase_id": "rule_16_kp_03", "speaker": "zun", "sentence": "[紅葉狩り]、どこかおすすめありますか?", "sentence_translation": "Đi [ngắm lá đỏ], anh có chỗ gợi ý không ạ?", "purpose": "Mở topic kōyō tháng 10-11"},
+    {"phrase_id": "rule_16_kp_04", "speaker": "zun", "sentence": "[お節/お雑煮]の楽しみ方、地域で違うんですよね。", "sentence_translation": "Cách thưởng thức [osechi/ozōni] mỗi vùng khác nhau nhỉ.", "purpose": "Connoisseur level — biết phân biệt regional"},
+    {"phrase_id": "rule_16_kp_05", "speaker": "zun", "sentence": "良いお年をお迎えください。", "sentence_translation": "Chúc anh năm mới tốt lành.", "purpose": "Câu chốt cuối tháng 12"},
+    {"phrase_id": "rule_16_kp_06", "speaker": "zun", "sentence": "明けましておめでとうございます。本年もよろしくお願いいたします。", "sentence_translation": "Chúc mừng năm mới. Năm nay cũng mong được anh giúp đỡ.", "purpose": "Câu chuẩn ngày 1/1 trở đi"}
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_16_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "5月にお客様に「桜、ご覧になりましたか?」と聞くのは適切ですか?",
+      "options": [
+        "A. 適切。一年中聞いてもよい",
+        "B. 不適切。東京の桜は4月中旬で散るので、5月は『遅い』",
+        "C. 適切。桜は5月が見頃",
+        "D. 北海道なら適切"
+      ],
+      "correct": "D",
+      "explanation": {
+        "ja": "東京は4月中旬、北海道は5月のGWが見頃。地域によって時期がずれる。",
+        "vi": "Tokyo giữa 4月 đã rụng. Hokkaido phải GW 5月 mới đẹp. Lệ thuộc vùng."
+      }
+    },
+    {
+      "question_id": "rule_16_bjt_02",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "京都出身のお客様のお雑煮の特徴として正しいのは?",
+      "options": [
+        "A. 角餅をすまし汁に",
+        "B. 丸餅を白味噌で",
+        "C. ぶりが入る",
+        "D. 鶏肉が入る"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "関西=丸餅白味噌、関東=角餅すまし、博多=ぶり入り。京都は関西タイプ。",
+        "vi": "Kansai = mochi tròn miso trắng. Kantō = mochi vuông súp trong. Hakata = có cá buri."
+      }
+    },
+    {
+      "question_id": "rule_16_bjt_03",
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "「日本三大花火大会」と呼ばれるのは、長岡、大曲、あとどこ?",
+      "options": [
+        "A. 隅田川(東京)",
+        "B. 諏訪湖(長野)",
+        "C. 土浦(茨城)",
+        "D. 神宮外苑(東京)"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "三大花火大会 = 長岡(新潟)、大曲(秋田)、土浦(茨城)。土浦は競技花火が特徴。",
+        "vi": "3 lễ pháo hoa lớn nhất Japan = Nagaoka (Niigata), Ōmagari (Akita), Tsuchiura (Ibaraki)."
+      }
+    }
+  ],
+  "templates": []
+}

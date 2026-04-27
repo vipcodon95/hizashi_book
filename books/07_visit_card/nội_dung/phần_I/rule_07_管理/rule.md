@@ -1,0 +1,102 @@
+# Rule 07 — Lưu trữ sau cuộc gặp / 名刺管理
+
+> **Luận điểm.** Trong **24 giờ** sau cuộc gặp: (1) Nhập CRM với context (ngày/event/topic) (2) Dán memo bối cảnh ("ai giới thiệu", "topic họ quan tâm", "follow-up nào") (3) Scan + lưu cloud (4) Gửi follow-up email với link content. Không nhập trong 24h = quên 70% context = chết tài sản network.
+>
+> 名刺は『24時間以内に CRM 入力 + 文脈メモ + クラウドスキャン + フォローアップ送信』。24時間超えで文脈70%消失。
+>
+> **Liên quan:** rule 02 (nhận), rule 06 (bố trí), rule 14 (アフターケア), rule 30 (お礼メール).
+
+---
+
+## Bối cảnh / 場面
+
+Tối cùng ngày event 大垣 + 松本 + 中村 visit, Dũng yêu cầu Linh xử lý 6 danh thiếp đã nhận (3 senior 白鷗 + 3 các member khác đoàn). Deadline: trước 23:00 cùng ngày → gửi mail thanks sáng hôm sau.
+
+---
+
+## ❌ Hội thoại XẤU — chậm + thiếu context
+
+*3 ngày sau event*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「リンさん、先週の名刺、CRMに入れた？」 |
+| **リン** | 「あ、まだです、今週やります…」 |
+| **ズン** | 「中村CFOが Phase 4 の予算で気にしてた論点、覚えてる？」 |
+| **リン** | 「えっと…なんでしたっけ…」 |
+| **ズン** | 「**3日経つともう曖昧になる**。今日中に CRM + 文脈メモ全部やって。」 |
+
+**Vì sao xấu:** 3 ngày trôi = Linh quên topic Nakamura quan tâm. Khi gửi follow-up email "Cảm ơn anh hôm trước" mà không reference được điểm cụ thể họ nói = generic = giảm 50% impact. Tài sản network = chỉ là tờ giấy, không có context.
+
+---
+
+## ✅ Hội thoại TỐT — 24h + memo bối cảnh
+
+*20:00 tối cùng ngày event*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「リンさん、6枚名刺の処理プラン共有して。」 |
+| **リン** | 「① CRM 入力: 今夜中【1】 ② 文脈メモ: 各人 1 行【2】 ③ Cloud スキャン: Google Drive 共有フォルダ ④ Follow-up: 明朝 9:00 ズン先輩経由送信。」 |
+| **ズン** | 「中村CFO のメモは？」 |
+| **リン** | 「**『Phase 4 予算上限を 1,500万円で気にしている。Q3 決算後に再検討と発言』**【3】 — これでいいですか？」 |
+| **ズン** | 「完璧。トゥアン先輩・フオン副部長にも共有して。明朝のお礼メールにこの context 入れる。」 |
+
+📝 **Ghi chú:**
+- 【1】**24時間ルール** — não người quên 70% context sau 24h. Nhập trong cùng ngày = giữ chi tiết. Sau 3 ngày = generic mới.
+- 【2】**Memo bối cảnh 1 dòng/người** — không cần dài. Format: "Topic họ quan tâm + comment đặc trưng họ nói + follow-up nào". Đủ để 6 tháng sau gặp lại = nhớ ngay context.
+- 【3】**Specific quote** — "Phase 4 予算上限 1,500万円 で気にしている" >> "Phase 4 quan tâm" — câu cụ thể giúp follow-up email reference đúng = chứng minh "tôi nghe và nhớ".
+
+---
+
+## 🎯 Câu chốt
+
+> **「名刺は24時間以内に『CRM入力・文脈メモ1行・スキャン・フォロー送信』を完了させる。」**
+>
+> *Trong 24h: nhập CRM / memo bối cảnh 1 dòng / scan / gửi follow-up.*
+
+---
+
+## ⚠ Tránh
+
+- **Để 1 tuần** rồi mới nhập → context bay 70%
+- Memo **chỉ tên + chức vụ** (đã có trên danh thiếp) → memo phải là **CONTEXT** (họ nói gì, quan tâm gì)
+- **Không scan cloud** → mất danh thiếp = mất hết
+- **Không share team** → senior không biết bạn đã exchange ai = double contact embarrassing
+- Follow-up email **generic** ("Cảm ơn anh hôm trước") → reference cụ thể quote/topic họ nói
+- Viết memo lên **chính danh thiếp** → KHÔNG bao giờ. Memo trong CRM hoặc sổ riêng.
+
+---
+
+## 📐 Template — Memo bối cảnh CRM
+
+```
+【名刺メモ format — 24h以内入力】
+
+会った日: 2026-06-XX
+イベント: 〇〇 (HCMC visit / Tokyo onsite / 展示会)
+氏名: 〇〇
+会社・役職: 〇〇
+紹介者: 〇〇 (誰経由で会ったか)
+話題 / 関心事: 〇〇 (1-2行)
+特徴的発言: 「〇〇」 (引用)
+次のアクション: 〇〇 (締切付き)
+共有先: ズン / トゥアン / フオン副部長
+```
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 管理 | かんり | Quản lý |
+| 入力 | にゅうりょく | Nhập (data) |
+| 文脈 | ぶんみゃく | Bối cảnh |
+| メモ | memo | Memo / ghi chú |
+| スキャン | sukyan | Scan |
+| クラウド | kuraudo | Cloud |
+| 共有 | きょうゆう | Chia sẻ |
+| 締切 | しめきり | Deadline |
+| 曖昧 | あいまい | Mơ hồ |
+| 関心事 | かんしんごと | Vấn đề quan tâm |

@@ -1,0 +1,161 @@
+{
+  "rule_id": "rule_12",
+  "rule_slug": "酒の話題",
+  "title": {
+    "vi": "Uống — sake/shochu/beer",
+    "ja": "酒の話題"
+  },
+  "rule_context": {
+    "ja": "ズンが2週間で4種類の飲み会に参加 — Nakamura(銀座sake bar)、Sato(博多屋台 焼酎)、Tanaka(渋谷craft beer)、Kobayashi(沖縄料理店 泡盛)。それぞれにあった酒topicを使い分ける。",
+    "vi": "Dũng tham gia 4 buổi nhậu khác nhau trong 2 tuần — Nakamura (sake), Sato (shochu), Tanaka (craft beer), Kobayashi (awamori). Match topic酒 theo vùng + thế hệ."
+  },
+  "related_rules": ["rule_11", "rule_41", "rule_42"],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "日本酒 — 新潟・山形・広島",
+      "label_vi": "Sake — Niigata, Yamagata, Hiroshima",
+      "display_order": 1,
+      "context": {
+        "ja": "銀座のsake bar、Nakamura CFOとカウンター席。",
+        "vi": "Sake bar Ginza, ngồi quầy với Nakamura CFO."
+      },
+      "annotations": [
+        {"id": "1", "applies_to_line": "rule_12_good_02", "highlight_text": "久保田", "ja": "新潟の朝日酒造の代表銘柄。", "vi": "Brand chính của Asahi Brewery Niigata."},
+        {"id": "2", "applies_to_line": "rule_12_good_03", "highlight_text": "淡麗辛口", "ja": "新潟スタイルの軽くてキレのある日本酒。", "vi": "Sake Niigata: nhẹ + khô."}
+      ],
+      "conversation_lines": [
+        {"line_id": "rule_12_good_01", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "ズンさん、日本酒は飲める?", "sentence_translation": "Em uống được sake không?", "tone": "warm"},
+        {"line_id": "rule_12_good_02", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "はい、最近勉強中で…新潟の久保田、一度飲んで感動しました。すっきりしてて。", "sentence_translation": "Vâng, gần đây em đang học... Kubota Niigata em uống lần đầu là cảm động luôn. Sạch sẽ.", "tone": "warm", "annotation_ids": ["1"]},
+        {"line_id": "rule_12_good_03", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "お、久保田知ってるんだ。新潟は淡麗辛口の代表だね。じゃあ今日は山形の十四代も試してみる?こっちはフルーティーで全然違うよ。", "sentence_translation": "Ồ, biết Kubota luôn. Niigata đại diện kiểu nhẹ-khô. Hôm nay thử Jūyondai Yamagata không? Cái này fruity, khác hẳn.", "tone": "warm", "annotation_ids": ["2"]},
+        {"line_id": "rule_12_good_04", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "十四代!プレミアムで有名ですよね…ぜひお願いします。純米大吟醸って、お米をどこまで磨くんでしたっけ?", "sentence_translation": "Jūyondai! Nổi tiếng premium ạ... vâng anh cho em thử. Junmai-daiginjō là xát gạo đến đâu ạ?", "tone": "cheerful"},
+        {"line_id": "rule_12_good_05", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "精米歩合50%以下が大吟醸。35%以下のもある。米の中心だけ使うから、雑味が消えてフルーティーになる。", "sentence_translation": "Tỷ lệ xát ≤50% là daiginjō. Có loại ≤35%. Chỉ dùng tâm gạo, mất tạp vị, trở nên fruity.", "tone": "neutral"},
+        {"line_id": "rule_12_good_06", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "なるほど…広島の賀茂鶴も気になっています、軟水で作るって聞きました。", "sentence_translation": "Hiểu rồi... Em cũng tò mò Kamotsuru Hiroshima, nghe nói làm bằng nước mềm.", "tone": "warm"},
+        {"line_id": "rule_12_good_07", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "日本酒オタクだね、ズンさん(笑)。広島は確かに軟水で柔らかい味になる。北海道だと男山って酒蔵がおすすめ、寒造りで切れ味抜群。", "sentence_translation": "Em otaku sake luôn (cười). Hiroshima đúng là nước mềm tạo vị nhẹ. Hokkaido thì có Otokoyama, ủ lạnh, cực sắc.", "tone": "cheerful"},
+        {"line_id": "rule_12_good_08", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "男山、メモします。北海道出張のとき必ず飲ませてください。", "sentence_translation": "Otokoyama, em ghi lại. Lần sau công tác Hokkaido nhất định mời em uống nhé.", "tone": "cheerful"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "焼酎 — 九州文化",
+      "label_vi": "Shochu — văn hóa Kyushu",
+      "display_order": 2,
+      "context": {
+        "ja": "博多の屋台。Sato先生(60代senior)とカウンター。Hakata-ben(博多弁)で会話。",
+        "vi": "Quán yatai Hakata. Anh Sato (senior 60t), nói Hakata-ben."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_12_good_09", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "ズンさん、九州は焼酎やけん。日本酒より焼酎よ。", "sentence_translation": "Dũng à, Kyushu là shochu đó. Hơn cả sake.", "tone": "warm"},
+        {"line_id": "rule_12_good_10", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "はい、麦焼酎と芋焼酎、違いを教えてください。", "sentence_translation": "Vâng, anh dạy em phân biệt mugi-shochu và imo-shochu với ạ.", "tone": "warm"},
+        {"line_id": "rule_12_good_11", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "麦は飲みやすい、初心者向け。福岡は麦が強くてね、いいちこ・二階堂有名やろ?芋は鹿児島・宮崎、香りが独特、魔王・森伊蔵・村尾で『3M』って言われとる。", "sentence_translation": "Mugi dễ uống, hợp người mới. Fukuoka mạnh về mugi, Iichiko với Nikaidō nổi đó. Imo là Kagoshima/Miyazaki, mùi đặc trưng, 3 chai Maō, Mori Izō, Murao gọi là '3M'.", "tone": "warm"},
+        {"line_id": "rule_12_good_12", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "3M、聞いたことあります。プレミア化してるんですよね。今日は何をいただけますか?", "sentence_translation": "3M em có nghe. Premium hóa rồi đúng không ạ. Hôm nay mình uống gì ạ?", "tone": "warm"},
+        {"line_id": "rule_12_good_13", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "今日は俺の地元のおすすめ、百年の孤独。麦焼酎やけど、樽熟成でウィスキーみたいな味よ。", "sentence_translation": "Hôm nay anh chọn của vùng anh — Hyakunen no Kodoku. Mugi-shochu nhưng ủ thùng gỗ, vị như whisky.", "tone": "warm"},
+        {"line_id": "rule_12_good_14", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "樽熟成!ロックでいきますか、お湯割りですか?", "sentence_translation": "Ủ thùng! Mình uống đá hay pha nước nóng ạ?", "tone": "cheerful"},
+        {"line_id": "rule_12_good_15", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "お、お湯割り知っとるか。九州はお湯割りが基本やけん。先にお湯、後で焼酎、これ大事。逆だと味が崩れるとよ。", "sentence_translation": "Ồ, biết oyu-wari nhỉ. Kyushu cơ bản là oyu-wari. Nước nóng trước, shochu sau — quan trọng nhé. Ngược thì hỏng vị.", "tone": "warm"},
+        {"line_id": "rule_12_good_16", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "先お湯…メモします!もつ鍋と一緒に、最高ですね。", "sentence_translation": "Nước nóng trước... em ghi! Ăn cùng motsunabe quá tuyệt ạ.", "tone": "cheerful"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "クラフトビール — 30代Tanaka",
+      "label_vi": "Craft beer — Tanaka 35t",
+      "display_order": 3,
+      "context": {
+        "ja": "渋谷のクラフトビールパブ。Tanaka(35歳PMO)とカジュアル雰囲気。",
+        "vi": "Craft beer pub Shibuya. Tanaka (PMO 35t), không khí casual."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_12_good_17", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "ズンさん、最近のクラフトビール飲む?", "sentence_translation": "Dũng có hay uống craft beer dạo này không?", "tone": "casual"},
+        {"line_id": "rule_12_good_18", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "はい、ヤッホーブルーイングのよなよなエール、よく飲みます。", "sentence_translation": "Có ạ, em hay uống Yona Yona Ale của Yo-Ho Brewing.", "tone": "casual"},
+        {"line_id": "rule_12_good_19", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "お、定番!よなよなはコンビニでも買えるしね。今日のおすすめは伊勢角屋麦酒のペールエール、インペリアルIPAもある。", "sentence_translation": "Ồ chuẩn rồi! Yona Yona conbini cũng bán. Hôm nay quán đề xuất Pale Ale của Ise Kadoya, có cả Imperial IPA.", "tone": "casual"},
+        {"line_id": "rule_12_good_20", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "IPAは苦みが強めですよね…ホップの香りが好きで、ペールエールがちょうどいいです。", "sentence_translation": "IPA hơi đắng nhỉ... em thích hương hop, Pale Ale vừa.", "tone": "casual"},
+        {"line_id": "rule_12_good_21", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "分かる。じゃあSPRING VALLEY 豊潤〈496〉もいけるよ、キリンのクラフトライン。あと箕面ビール、スワンレイクビール、地ビールも面白いよ。", "sentence_translation": "Hiểu. Vậy SPRING VALLEY Hōjun 496 hợp đó, dòng craft của Kirin. Thêm Minō Beer (Osaka), Swan Lake (Niigata), bia địa phương cũng thú vị.", "tone": "casual"},
+        {"line_id": "rule_12_good_22", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "箕面ビール、大阪行ったとき探してみます。日本酒も好きなんですが、最近のクラフトビール、年代だと若い人が多いですか?", "sentence_translation": "Minō Beer lần đi Osaka em sẽ tìm. Em cũng thích sake nhưng craft beer hiện giờ đa số người trẻ ạ?", "tone": "warm"},
+        {"line_id": "rule_12_good_23", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "30代40代多いね。50代以上はやっぱり日本酒・焼酎メイン。世代ハッキリ分かれてる。", "sentence_translation": "30-40t nhiều. 50+ chủ yếu vẫn sake/shochu. Phân thế hệ rõ ràng.", "tone": "neutral"},
+        {"line_id": "rule_12_good_24", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "なるほど、お客様の年齢でドリンクのおすすめ変えるの、勉強になります。", "sentence_translation": "Vậy nhỉ — khách tuổi nào thì đổi đề xuất drink, em học được.", "tone": "warm"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "泡盛 — 沖縄",
+      "label_vi": "Awamori — Okinawa",
+      "display_order": 4,
+      "context": {
+        "ja": "沖縄料理店in東京。Kobayashiさんと泡盛をシェア。",
+        "vi": "Quán món Okinawa ở Tokyo. Anh Kobayashi share rượu awamori."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_12_good_25", "speaker": "kobayashi_okinawa", "speaker_role": "沖縄出張担当 白鷗", "gender": "male", "sentence": "ズンさん、沖縄に来たら泡盛は外せないよ。", "sentence_translation": "Dũng, đến Okinawa không thể bỏ qua awamori đâu.", "tone": "warm"},
+        {"line_id": "rule_12_good_26", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "泡盛、米から作るって聞きましたが、日本酒と違いますか?", "sentence_translation": "Awamori nghe nói làm từ gạo, khác sake không ạ?", "tone": "warm"},
+        {"line_id": "rule_12_good_27", "speaker": "kobayashi_okinawa", "speaker_role": "沖縄出張担当 白鷗", "gender": "male", "sentence": "日本酒は醸造、泡盛は蒸留。タイ米を使うのが特徴。黒麹菌で発酵させて、25度〜43度くらい。", "sentence_translation": "Sake là ủ men, awamori là chưng cất. Đặc trưng dùng gạo Thái. Lên men bằng kuro-kōji, nồng độ 25-43.", "tone": "warm"},
+        {"line_id": "rule_12_good_28", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "タイ米と黒麹!ベトナムの蒸留酒に近いかもしれないですね。3年以上熟成したものを古酒(クース)って呼ぶんですよね?", "sentence_translation": "Gạo Thái + men đen! Có thể gần với rượu chưng cất Việt Nam. Ủ ≥3 năm gọi là kūsu đúng không ạ?", "tone": "warm"},
+        {"line_id": "rule_12_good_29", "speaker": "kobayashi_okinawa", "speaker_role": "沖縄出張担当 白鷗", "gender": "male", "sentence": "お、クース知ってる!沖縄では『カラカラ』って酒器に入れて、ロックか水割り。あとシークヮーサー絞って飲むのが地元流。", "sentence_translation": "Ồ, biết kūsu! Okinawa rót vào bình 'karakara', uống đá hoặc pha nước. Còn vắt shīkwāsā vào uống là kiểu địa phương.", "tone": "warm"},
+        {"line_id": "rule_12_good_30", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "シークヮーサー!那覇の市場で売ってる柑橘ですね。今日のおすすめ銘柄は?", "sentence_translation": "Shīkwāsā! Trái họ cam ở chợ Naha bán nhỉ. Hôm nay anh đề xuất nhãn nào ạ?", "tone": "cheerful"},
+        {"line_id": "rule_12_good_31", "speaker": "kobayashi_okinawa", "speaker_role": "沖縄出張担当 白鷗", "gender": "male", "sentence": "残波、瑞泉、菊之露…どれも飲みやすい。南風って銘柄もうち地元で愛されてる。", "sentence_translation": "Zanpa, Zuisen, Kikunotsuyu... cái nào cũng dễ uống. Còn Hae cũng được yêu ở quê anh.", "tone": "warm"},
+        {"line_id": "rule_12_good_32", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "メモしてます。次回沖縄出張のとき、酒蔵見学もしてみたいです。", "sentence_translation": "Em đang ghi. Lần sau công tác Okinawa em muốn thăm cả nhà ủ rượu nữa ạ.", "tone": "warm"}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"phrase_id": "rule_12_kp_01", "speaker": "zun", "sentence": "[新潟]の[久保田]、好きでよく飲みます。", "sentence_translation": "Em thích [Kubota] [Niigata], hay uống.", "purpose": "Mở topic sake với 1 brand cụ thể"},
+    {"phrase_id": "rule_12_kp_02", "speaker": "zun", "sentence": "[純米大吟醸]、精米歩合どれくらいですか?", "sentence_translation": "[Junmai-daiginjō] xát gạo bao nhiêu phần trăm ạ?", "purpose": "Connoisseur level — biết hỏi tỷ lệ xát"},
+    {"phrase_id": "rule_12_kp_03", "speaker": "zun", "sentence": "[麦焼酎]と[芋焼酎]、違いを教えてください。", "sentence_translation": "Anh dạy em phân biệt mugi với imo shochu.", "purpose": "Thể hiện sẵn sàng học từ Kyushu senior"},
+    {"phrase_id": "rule_12_kp_04", "speaker": "zun", "sentence": "[お湯割り]、先湯後酒ですよね。", "sentence_translation": "[Pha nước nóng], nước nóng trước rượu sau đúng không ạ.", "purpose": "Quy tắc Kyushu — biết = senior level"},
+    {"phrase_id": "rule_12_kp_05", "speaker": "zun", "sentence": "[ヤッホーブルーイング]の[よなよなエール]、よく飲みます。", "sentence_translation": "Em hay uống Yona Yona Ale.", "purpose": "Match với generation 30-40t"},
+    {"phrase_id": "rule_12_kp_06", "speaker": "zun", "sentence": "もう十分です、ありがとうございます。", "sentence_translation": "Em đủ rồi ạ, cảm ơn anh.", "purpose": "Từ chối thêm rượu lịch sự"}
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_12_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "九州出身のお客様と居酒屋に行った時、お客様が最も喜ぶオーダーは?",
+      "options": [
+        "A. 「とりあえずビール」",
+        "B. 「日本酒、純米大吟醸を」",
+        "C. 「焼酎のお湯割り、麦か芋がいいですね」",
+        "D. 「ハイボールでお願いします」"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "九州は焼酎文化、お湯割りが基本。麦/芋を選べるとさらに good。",
+        "vi": "Kyushu = văn hóa shochu. お湯割り cơ bản. Biết chọn mugi/imo càng tốt."
+      }
+    },
+    {
+      "question_id": "rule_12_bjt_02",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「精米歩合35%」と書かれた日本酒の特徴は?",
+      "options": [
+        "A. 米を65%削っており、雑味が少なくフルーティー",
+        "B. 米を35%削っており、雑味が多い",
+        "C. 35%だけアルコール",
+        "D. 35%が水分"
+      ],
+      "correct": "A",
+      "explanation": {
+        "ja": "精米歩合は『削った後の残り』。35%は外側65%を削った高級酒。",
+        "vi": "精米歩合 = phần còn lại sau xát. 35% = đã xát mất 65% (premium)."
+      }
+    },
+    {
+      "question_id": "rule_12_bjt_03",
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "焼酎の「3M」とは何を指しますか?",
+      "options": [
+        "A. 麦・芋・米の3種類",
+        "B. プレミア芋焼酎の3銘柄(魔王・森伊蔵・村尾)",
+        "C. 3つの蒸留方法",
+        "D. 3地域(鹿児島・宮崎・熊本)の代表"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "3Mは入手困難なプレミア芋焼酎の3銘柄を指す業界用語。",
+        "vi": "3M = 3 brand premium imo-shochu (Kagoshima): Maō / Mori-Izō / Murao."
+      }
+    }
+  ],
+  "templates": []
+}

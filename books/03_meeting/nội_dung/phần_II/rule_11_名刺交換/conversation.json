@@ -1,0 +1,157 @@
+{
+  "rule_id": "rule_11",
+  "rule_slug": "名刺交換の流れ",
+  "title": {
+    "ja": "名刺交換の流れ",
+    "vi": "Trao danh thiếp đúng cách"
+  },
+  "rule_context": {
+    "ja": "リンが大垣営業部長と初めて名刺交換する場面。両手・氏名復唱・席順配置の3原則を実践。詳細は別途サック07参照。",
+    "vi": "Linh lần đầu trao danh thiếp với anh Ōgaki. Áp dụng 3 nguyên tắc: hai tay, đọc lại tên, đặt theo vị trí ngồi. Chi tiết xem Sách 07."
+  },
+  "related_rules": ["rule_10", "rule_12"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 片手で受け取り、即財布へ",
+      "label_vi": "XẤU — Nhận 1 tay, cất ngay vào ví",
+      "display_order": 1,
+      "analysis": {
+        "ja": "片手受領、自社名・部署を省略した自己紹介、受領した名刺をすぐ財布へ。3つの礼儀違反。",
+        "vi": "Nhận 1 tay, tự giới thiệu thiếu tên Cty/phòng, vừa nhận đã cất vào ví. 3 lỗi lễ tiết."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_11_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "白鷗株式会社、営業部長の大垣でございます。",
+          "sentence_translation": "Tôi là Ōgaki, Trưởng phòng Kinh doanh bên Cty Hakuō.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_11_bad_02",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "リンです、よろしくお願いします！",
+          "sentence_translation": "Em là Linh, mong được anh giúp đỡ ạ!",
+          "tone": "cheerful"
+        },
+        {
+          "line_id": "rule_11_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "（笑顔は保つが）リンさん、頑張ってください。",
+          "sentence_translation": "(Vẫn giữ nụ cười) Linh nhé, em cố gắng.",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 両手・氏名復唱・席順配置",
+      "label_vi": "TỐT — Hai tay, đọc tên, xếp theo chỗ",
+      "display_order": 2,
+      "analysis": {
+        "ja": "両手で受領、「頂戴いたします」と相手の氏名を復唱、自分の名刺は文字を相手向きに両手で差し出す。受領後は卓上で席順に並べる。",
+        "vi": "Nhận hai tay, nói 「頂戴いたします」 + đọc lại tên đối phương, danh thiếp mình đưa hai tay với chữ hướng về khách. Nhận xong xếp lên bàn theo thứ tự chỗ ngồi."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_11_good_02",
+          "highlight_text": "頂戴いたします",
+          "ja": "「いただきます」より謙譲度の高い受領表現。名刺交換の定型。",
+          "vi": "Mức khiêm nhường cao hơn 「いただきます」. Cụm chuẩn lúc nhận card."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_11_good_03",
+          "highlight_text": "よろしくお願いいたします",
+          "ja": "自分の名刺を渡す瞬間の定型句。両手で差し出しながら発話。",
+          "vi": "Cụm chuẩn khi đưa danh thiếp của mình. Vừa đưa hai tay vừa nói."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_11_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "白鷗株式会社、営業部長の大垣でございます。",
+          "sentence_translation": "Tôi là Ōgaki, Trưởng phòng Kinh doanh bên Cty Hakuō.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_11_good_02",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "頂戴いたします。大垣様、ティエンファット社、マーケティング部のリンでございます。",
+          "sentence_translation": "Em xin phép nhận ạ. Anh Ōgaki, em là Linh — phòng Marketing bên Thiên Phát ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_11_good_03",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "よろしくお願いいたします。",
+          "sentence_translation": "Em rất mong được anh giúp đỡ ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_11_good_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "リンさん、こちらこそよろしくお願いいたします。",
+          "sentence_translation": "Linh à, ngược lại tôi cũng mong được em giúp đỡ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_11_kp_01",
+      "speaker": "linh",
+      "sentence": "頂戴いたします。〇〇様、〇〇社、〇〇部の〇〇でございます。",
+      "sentence_translation": "Em xin phép nhận ạ. Anh/chị 〇〇, em là 〇〇 — phòng 〇〇 bên 〇〇 ạ.",
+      "purpose": "名刺受領＋自己紹介の定型",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_11_kp_02",
+      "speaker": "linh",
+      "sentence": "よろしくお願いいたします。",
+      "sentence_translation": "Em rất mong được anh/chị giúp đỡ ạ.",
+      "purpose": "名刺差し出し時の定型句",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_11_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "名刺を受け取った直後に正しい行動はどれか？",
+      "options": [
+        "すぐに財布の中にしまう",
+        "相手の氏名を声に出して確認し、卓上に席順どおり並べる",
+        "名刺の裏に出席日付をメモする",
+        "二つに折って胸ポケットに入れる"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "氏名復唱と席順配置が標準。財布へ即収納や書き込み・折り曲げは礼儀違反。",
+        "vi": "Đọc lại tên + xếp lên bàn là chuẩn. Cất ngay vào ví hoặc gập / viết lên là thất lễ."
+      }
+    }
+  ]
+}

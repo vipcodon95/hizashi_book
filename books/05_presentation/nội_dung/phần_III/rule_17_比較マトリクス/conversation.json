@@ -1,0 +1,154 @@
+{
+  "rule_id": "rule_17",
+  "rule_slug": "比較マトリクス",
+  "title": {
+    "ja": "比較マトリクス",
+    "vi": "So sánh phương án (matrix)"
+  },
+  "rule_context": {
+    "ja": "Phase 3 スコープ案を5案×8軸で比較した過剰 matrix を、ハーCTOが3案×4軸＋弊社推奨に絞らせる場面。",
+    "vi": "Matrix so sánh scope Phase 3 quá tải (5 case × 8 axis). Hà CTO bắt thu xuống 3×4 + 「khuyến nghị bên em」."
+  },
+  "related_rules": ["rule_19", "rule_20"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 5案×8軸 choice paradox",
+      "label_vi": "XẤU — 5 option × 8 tiêu chí",
+      "display_order": 1,
+      "analysis": {
+        "ja": "選択肢過多は decision fatigue を引き起こし、客は決断を先送りする。Pitch のゴールは DECIDE。",
+        "vi": "Quá nhiều lựa chọn = decision fatigue → khách dời quyết định. Goal pitch là DECIDE."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_17_bad_01",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "5案 × 8軸 = 40 cell？スライド1枚で見せられない。客は決められない。",
+          "sentence_translation": "5 case × 8 axis = 40 cell? 1 slide không show được. Khách không quyết được đâu.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_17_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "全部見せれば客が選べると思って…",
+          "sentence_translation": "Em nghĩ show hết thì khách chọn được ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_17_bad_03",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "選択肢が多いと選べないのが人間。3案に絞って、推奨を明示。客に『考える』労力じゃなくて『決める』労力を割いてもらう。",
+          "sentence_translation": "Càng nhiều lựa chọn càng khó chọn — đó là tâm lý người. Thu xuống 3 case, nêu rõ recommendation. Để khách dồn sức 「quyết」 chứ không phải 「nghĩ」.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_17_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ…はい、絞ります。",
+          "sentence_translation": "À... vâng, em sẽ thu lại ạ.",
+          "tone": "apologetic"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 3案×4軸＋弊社推奨",
+      "label_vi": "TỐT — 3 case × 4 axis + recommendation",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_17_good_01",
+          "highlight_text": "3案 × 4軸",
+          "ja": "12セルが認知負荷の上限。セルは数字 or ◎○△×で測定可能に。",
+          "vi": "12 cell là trần tải nhận thức. Cell phải là số hoặc ◎○△× — đo lường được."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_17_good_03",
+          "highlight_text": "弊社推奨: B案",
+          "ja": "『推奨なし』は責任放棄に映る。1案 + 1文理由が標準。",
+          "vi": "「Không có recommendation」 = bỏ trách nhiệm. Chuẩn là 1 case + 1 câu lý do."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_17_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "3案 × 4軸に絞り込みました。軸: 投資額／期間／差異率改善／運用負荷。セルは数字と◎○△×。",
+          "sentence_translation": "Em thu xuống 3 case × 4 axis ạ. Axis: tiền đầu tư / thời gian / cải thiện sai lệch / tải vận hành. Cell là số + ◎○△×.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_17_good_02",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "いいね。推奨は？",
+          "sentence_translation": "Tốt. Recommendation thì sao?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_17_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "最下行に『弊社推奨: B案』 + 1文理由を入れました。『投資額対効果が最も高く、運用負荷も中程度のため』。",
+          "sentence_translation": "Em đã ghi 「Khuyến nghị bên em: case B」 + 1 câu lý do ở dòng cuối ạ. 「Hiệu quả trên đầu tư cao nhất, tải vận hành cũng vừa」.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_17_good_04",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "Perfect。客は『B案で進めましょう』と言いやすい。推奨なしの matrix は責任放棄に見える。",
+          "sentence_translation": "Perfect. Khách dễ nói 「OK đi case B」 hơn. Matrix không có recommendation trông như bỏ trách nhiệm.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_17_kp_01",
+      "speaker": "zun",
+      "sentence": "弊社推奨はB案でございます。投資額対効果が最も高く、運用負荷も中程度のためです。",
+      "sentence_translation": "Bên em khuyến nghị case B ạ. Vì hiệu quả trên đầu tư cao nhất, tải vận hành cũng ở mức vừa ạ.",
+      "purpose": "推奨案の口頭明示",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_17_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "プレゼンの比較マトリクスで最も適切な構成は？",
+      "options": [
+        "5案×8軸の網羅型",
+        "3案×4軸＋弊社推奨1案＋1文理由",
+        "1案のみ",
+        "案数も軸数も無制限"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "3案×4軸が認知負荷の上限。推奨明示でvendorの責任を示す。",
+        "vi": "3×4 là trần tải nhận thức. Khuyến nghị rõ = vendor có trách nhiệm."
+      }
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "rule_id": "08-47",
+  "rule_slug": "GOLD話題",
+  "title": {
+    "vi": "Topic GOLD an toàn 100%",
+    "ja": "安全話題TOP10"
+  },
+  "rule_context": {
+    "luan_diem_vi": "10 topic an toàn 100% với khách JP. Khi mất ý trong 雑談, rút 1 trong 10 này. Mỗi topic có 1 câu mở chuẩn + 2-3 follow-up.",
+    "luan_diem_ja": "雑談で迷ったら鉄板の10話題。各話題に開きフレーズ+深掘りフォローアップ2-3本。",
+    "boi_canh_vi": "Tham khảo. 1 scenario drilling 出身地, 1 scenario rescue khi mất ý.",
+    "boi_canh_ja": "参考。1.出身地深掘り、2.話題切れrescue。",
+    "muc_tieu_vi": "Master 10 topic GOLD + có thể bridge giữa các topic khi mất ý."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "10",
+      "topic": "Quê quán đào sâu"
+    },
+    {
+      "book": "08",
+      "rule": "11",
+      "topic": "Topic ăn"
+    },
+    {
+      "book": "08",
+      "rule": "48",
+      "topic": "Topic LANDMINE"
+    }
+  ],
+  "topic_gold_list": [
+    {
+      "topic": "天気・季節",
+      "opener_ja": "今朝は冷えますね/蒸し暑いですね。",
+      "opener_vi": "Sáng nay lạnh nhỉ / oi nhỉ.",
+      "followups_ja": [
+        "[地名]はもう[花/紅葉]の季節ですか?",
+        "今年の梅雨入り、早そうですね",
+        "週末はお出かけ日和ですね"
+      ]
+    },
+    {
+      "topic": "食(món địa phương)",
+      "opener_ja": "[地名]に行ったら、何食べたらいいですか?",
+      "opener_vi": "Đến [địa danh] thì nên ăn gì ạ?",
+      "followups_ja": [
+        "[地名]の[名物]、本場で食べてみたいです",
+        "おすすめのお店ありますか?",
+        "酒のあてには何が合いますか?"
+      ]
+    },
+    {
+      "topic": "酒",
+      "opener_ja": "[地名]のお酒、何かお勧めありますか?",
+      "opener_vi": "Rượu [địa danh] có gì hay ạ?",
+      "followups_ja": [
+        "新潟の地酒、最近気になってて…",
+        "焼酎は芋・麦・米、どれ派ですか?",
+        "クラフトビール飲まれます?"
+      ]
+    },
+    {
+      "topic": "出身地・故郷",
+      "opener_ja": "[Tên]さん、ご出身どちらでしたっけ?",
+      "opener_vi": "Anh, quê anh ở đâu nhỉ?",
+      "followups_ja": [
+        "[地名]、来年あたり一度伺いたいんです",
+        "ご家族はまだ[地名]に?",
+        "学生時代はどんな感じでしたか?"
+      ]
+    },
+    {
+      "topic": "趣味",
+      "opener_ja": "お休みの日は何をされていますか?",
+      "opener_vi": "Cuối tuần anh hay làm gì?",
+      "followups_ja": [
+        "ゴルフ、最近もスコア出てますか?",
+        "登山始めたって伺いましたが…",
+        "お子さんと一緒に何か?"
+      ]
+    },
+    {
+      "topic": "スポーツ",
+      "opener_ja": "[広島カープ/巨人/阪神/ホークス]、今シーズン調子どうですか?",
+      "opener_vi": "[đội bóng] mùa này sao ạ?",
+      "followups_ja": [
+        "今年こそ優勝ですか?",
+        "甲子園見に行かれます?",
+        "ジャパンラグビー、テレビで見られました?"
+      ]
+    },
+    {
+      "topic": "旅行・温泉",
+      "opener_ja": "最近どこか行かれましたか?",
+      "opener_vi": "Gần đây anh có đi đâu không?",
+      "followups_ja": [
+        "次はどこか計画されてますか?",
+        "おすすめの温泉あります?",
+        "海外でしたらどちらが…?"
+      ]
+    },
+    {
+      "topic": "季節行事",
+      "opener_ja": "もうすぐ[花見/紅葉/正月]ですね。",
+      "opener_vi": "Sắp đến [hanami/momiji/Shogatsu] rồi nhỉ.",
+      "followups_ja": [
+        "ご家族で[行事]の予定ありますか?",
+        "[地名]の[祭り]見たことあります?",
+        "今年はどう過ごされる?"
+      ]
+    },
+    {
+      "topic": "お子さん・お孫さん(senior thân)",
+      "opener_ja": "お子さん、お元気ですか?",
+      "opener_vi": "Các cháu khỏe không ạ?",
+      "followups_ja": [
+        "[小学校/中学]、楽しんでらっしゃる?",
+        "お孫さん、もう何歳でした?",
+        "ご一緒に何かされてます?"
+      ]
+    },
+    {
+      "topic": "健康(senior thân)",
+      "opener_ja": "お変わりなくお元気そうで何よりです。",
+      "opener_vi": "Anh vẫn khỏe như cũ, em mừng quá.",
+      "followups_ja": [
+        "ジムは続いてますか?",
+        "腰、まだ痛みます?",
+        "睡眠は取れてますか?"
+      ]
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "Drill 1 topic GOLD: 出身地 với Hiroshi",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "広島さん、ご出身は確か広島でしたよね?",
+          "vi": "Anh Hiroshi, quê anh ở Hiroshima đúng không ạ?"
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "そう、広島の安佐南区。",
+          "vi": "Đúng, Asaminami-ku Hiroshima."
+        },
+        {
+          "speaker": "zun",
+          "ja": "学生時代はどんな感じでしたか?広島カープのお父さんに連れてかれてた、とか?",
+          "vi": "Hồi đi học anh thế nào? Có được bố dẫn đi xem Hiroshima Carp không?"
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "まさにそれ!小学校の頃、市民球場に毎週連れてかれて…衣笠選手の世代やね。",
+          "vi": "Đúng vậy! Hồi tiểu học tuần nào cũng được dẫn đến sân Shimin... thế hệ cầu thủ Kinugasa đó."
+        },
+        {
+          "speaker": "zun",
+          "ja": "衣笠さん、鉄人ですね。今もカープで観戦?",
+          "vi": "Anh Kinugasa, 'người sắt' nhỉ. Giờ anh vẫn đi xem Carp chứ?"
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "マツダスタジアム、年に5-6回は行く。今度ズンも来い、案内するわ!",
+          "vi": "Mazda Stadium năm 5-6 lần. Lần sau Dũng đi cùng anh nhé, tôi dẫn!"
+        }
+      ]
+    },
+    {
+      "scenario": "Rescue 5 phút: thời tiết → 食 → sport bridge",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "今朝は冷えますね。福岡もこんな感じでしたか?",
+          "vi": "Sáng nay lạnh nhỉ. Fukuoka cũng vậy không ạ?"
+        },
+        {
+          "speaker": "sato_kyushu",
+          "ja": "いや、福岡はまだ暖かい方ばい。10度切ることないけんね。",
+          "vi": "Không, Fukuoka còn ấm hơn. Không xuống dưới 10°C đâu."
+        },
+        {
+          "speaker": "zun",
+          "ja": "福岡といえば、博多ラーメンと水炊きですね。私、出張で博多に行ったら、何を最初に食べたらいいですか?",
+          "vi": "Nói đến Fukuoka thì có ramen Hakata và mizutaki nhỉ. Em đi công tác Hakata thì nên ăn gì đầu tiên ạ?"
+        },
+        {
+          "speaker": "sato_kyushu",
+          "ja": "水炊きやね。中洲の『水たき長野』、明日にでも教えるけん。",
+          "vi": "Mizutaki. 'Mizutaki Nagano' ở Nakasu, mai anh chỉ cho."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ありがとうございます!ホークス、今シーズン調子いいって聞きました。佐藤さんもファンですか?",
+          "vi": "Cảm ơn anh! Em nghe Hawks mùa này hay. Anh Sato cũng fan ạ?"
+        },
+        {
+          "speaker": "sato_kyushu",
+          "ja": "もちろん!今年はチャンスやね。ペイペイドーム行ったことある?",
+          "vi": "Đương nhiên! Năm nay có cơ. Em đến PayPay Dome chưa?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "まだないんです。一度行ってみたいです。",
+          "vi": "Em chưa ạ. Một lần em muốn đi."
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "#1 Thời tiết",
+      "ja": "今朝は冷えますね/蒸し暑いですね。",
+      "vi": "Sáng nay lạnh / oi nhỉ.",
+      "use": "Mở an toàn nhất"
+    },
+    {
+      "category": "#2 Food",
+      "ja": "[地名]に行ったら、何食べたらいいですか?",
+      "vi": "Đến [địa danh] nên ăn gì ạ?",
+      "use": "Senior thích trả lời"
+    },
+    {
+      "category": "#3 酒",
+      "ja": "[地名]のお酒、何かお勧めありますか?",
+      "vi": "Rượu [địa danh] có gì hay ạ?",
+      "use": "Mở regional"
+    },
+    {
+      "category": "#4 Quê",
+      "ja": "[Tên]さん、ご出身どちらでしたっけ?",
+      "vi": "Anh, quê anh ở đâu nhỉ?",
+      "use": "Topic vàng nhất"
+    },
+    {
+      "category": "#5 Hobby",
+      "ja": "お休みの日は何をされていますか?",
+      "vi": "Cuối tuần anh hay làm gì?",
+      "use": "Mở hobby chung"
+    },
+    {
+      "category": "#6 Sport",
+      "ja": "[Team], 今シーズン調子どうですか?",
+      "vi": "[Đội bóng] mùa này sao ạ?",
+      "use": "Match team theo quê"
+    },
+    {
+      "category": "#7 Du lịch",
+      "ja": "最近どこか行かれましたか?",
+      "vi": "Gần đây anh có đi đâu không?",
+      "use": "Mở chuyến đi"
+    },
+    {
+      "category": "#8 Mùa",
+      "ja": "もうすぐ[花見/紅葉/正月]ですね。",
+      "vi": "Sắp đến [mùa] rồi nhỉ.",
+      "use": "Theo mùa hiện tại"
+    },
+    {
+      "category": "#9 Family",
+      "ja": "お子さん、お元気ですか?",
+      "vi": "Các cháu khỏe không ạ?",
+      "use": "Chỉ senior thân"
+    },
+    {
+      "category": "#10 Sức khỏe",
+      "ja": "お変わりなくお元気そうで何よりです。",
+      "vi": "Anh vẫn khỏe, em mừng quá.",
+      "use": "Chỉ senior thân"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "雑談で話題が切れた時、最初にrescueに使うべきTOP10安全話題は?",
+      "options": [
+        "A. 政治",
+        "B. 天気・季節",
+        "C. 給料",
+        "D. 病気の家族"
+      ],
+      "answer": "B",
+      "explain_vi": "#1 thời tiết = an toàn nhất. A/C/D vùng cấm hoặc quá riêng tư."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "出身地について深掘りする時の最適なfollow-upは?",
+      "options": [
+        "A. 「給料はいくらでしたか?」",
+        "B. 「学生時代はどんな感じでしたか?」",
+        "C. 「政治はどうでしたか?」",
+        "D. 「結婚はいつでしたか?」"
+      ],
+      "answer": "B",
+      "explain_vi": "Học sinh thời kỳ = câu mở memory + cảm xúc, an toàn. A money invasive; C cấm; D quá riêng."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "5分で複数のGOLD topicを使う時の最適なbridgeパターンは?",
+      "options": [
+        "A. 同じ話題を5分続ける",
+        "B. 天気→食→スポーツのように自然にbridge",
+        "C. 1問1答で終わる",
+        "D. 沈黙する"
+      ],
+      "answer": "B",
+      "explain_vi": "Bridge giữa topic khi flat → flow tự nhiên. A có thể dead-end; C không bonding; D awkward."
+    }
+  ],
+  "templates": []
+}

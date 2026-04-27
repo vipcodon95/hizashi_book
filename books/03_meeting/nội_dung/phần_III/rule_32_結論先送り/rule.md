@@ -1,0 +1,73 @@
+# Rule 32 — Hoãn quyết định / 結論先送り
+
+> **Luận điểm.** Khi không thể quyết trong họp này → KHÔNG nói "また今度" mơ hồ. Cấu trúc chuẩn: **(1) lý do** → **(2) "持ち帰り"** → **(3) deadline trả lời cụ thể** → **(4) channel trả lời**. Câu chuẩn: 「**本件は持ち帰り、〇月〇日までにご回答いたします**」.
+>
+> 「本件は持ち帰り、〇月〇日までにメールにてご回答いたします」— 期限+チャネル必須。
+>
+> **Liên quan:** Rule 25 (持ち帰り xin), Rule 29 (deadlock), Rule 31 (quyết định).
+
+---
+
+## Bối cảnh / 場面
+
+Họp đang bàn về việc dùng AWS hay Azure. Em Dũng cần hỏi anh Hà CTO + check budget với chị Loan kế toán → không thể quyết tại chỗ. Phải thông báo postpone đúng cách.
+
+---
+
+## ❌ Hội thoại XẤU — postpone mơ hồ
+
+| Speaker | Câu |
+|---------|-----|
+| **大垣** | 「クラウド選定について、本日決定したいのですが。」 |
+| **ズン** | 「あの…ちょっと難しいので、また今度…」 |
+| **大垣** | 「『また今度』とは具体的にいつでしょうか？」 |
+| **ズン** | 「えーと…」 |
+
+**Vì sao xấu:** 「また今度」 không có deadline. Khách Nhật cần specific. Không kèm channel (email/họp/chat?) → khó follow.
+
+---
+
+## ✅ Hội thoại TỐT — lý do + deadline + channel
+
+*tiếp*
+
+| Speaker | Câu |
+|---------|-----|
+| **大垣** | 「クラウド選定について、本日決定したいのですが。」 |
+| **ズン** | 「ご要望ありがとうございます。クラウド選定はインフラとコストの両面から弊社のCTOとCFOの確認が必要でございますので【1】、本件は持ち帰り、4月30日（水）17時までにメールにてご回答いたします【2】。」 |
+| **ズン** | 「ご回答にはAWS / Azure 比較表とコスト試算を添付いたします【3】。」 |
+| **大垣** | 「ありがとうございます。期限つきでしたら問題ありません。お待ちしております。」 |
+
+📝 **Ghi chú:**
+- 【1】**「インフラとコストの両面から弊社のCTOとCFOの確認が必要」** — nêu lý do cụ thể (cần ai duyệt) + uchi-soto: 「弊社の」 đứng trước CTO/CFO khi nói với khách. Không nói 「ちょっと」 mơ hồ.
+- 【2】**「本件は持ち帰り、〇月〇日〇時までにメールにてご回答いたします」** — câu chuẩn. Có deadline + channel.
+- 【3】**「比較表とコスト試算を添付」** — kèm cam kết deliverable cụ thể → khách hài lòng.
+
+---
+
+## 🎯 Câu chốt
+
+> **「本件は持ち帰り、〇月〇日〇時までにメールにてご回答いたします。」**
+>
+> *Lý do → 持ち帰り → deadline → channel → deliverable. 5 yếu tố.*
+
+---
+
+## ⚠ Tránh
+
+- 「また今度」「後ほど」 không có deadline.
+- Không nói channel (mail/chat/meeting?) → khách không biết check ở đâu.
+- Hoãn mà không nêu lý do → khách nghĩ là né tránh.
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 先送り | さきおくり | Hoãn lại |
+| クラウド選定 | クラウドせんてい | Lựa chọn cloud |
+| 比較表 | ひかくひょう | Bảng so sánh |
+| 試算 | しさん | Tính thử / estimate |
+| インフラ | infura | Hạ tầng |
+| 添付 | てんぷ | Đính kèm |

@@ -1,0 +1,809 @@
+{
+  "$schema_note": "Scenes JSON cho Chương 08 — Wedding Tanaka.",
+  "chapter_id": "09-08",
+  "chapter_slug": "結婚式",
+  "title": {
+    "vi": "Tiệc cưới đồng nghiệp Nhật",
+    "ja": "同僚の結婚式に招かれて"
+  },
+  "boi_canh": {
+    "vi": "Tháng 5/2027, Tokyo. Tanaka PMO kết hôn (vợ là designer, gặp nhau qua bạn chung). Mời Dũng dự (1 trong 80 khách mời chính thức). Dũng bay từ HCMC sang 1 đêm cuối tuần — Sat ceremony, Sun về. Lần đầu Dũng dự kekkonshiki Nhật. Đặc biệt: invite này = chứng minh relationship đã sang level 'in family'.",
+    "ja": "2027年5月、東京。田中PMO結婚式(妻は友人紹介で出会ったデザイナー)。ズン招待(80名の正式ゲスト中1名)。HCMC から1泊週末。土曜挙式、日曜帰国。ズン初めての日本式結婚式。"
+  },
+  "bi_quyet_tong": [
+    "Mời được dự kekkonshiki = relationship level 'in family'. Không phải mọi đồng nghiệp business được mời.",
+    "Goshugi (lì xì cưới): 30,000円 cho đồng nghiệp đồng level. 50,000円 cho cấp trên gần. Tiền MỚI tinh, gói shugi-bukuro chuyên dụng.",
+    "Dress code: nam = dark suit (đen / dark navy) + white shirt + cravat trắng / xám bạc. Cấm đen toàn (tang lễ).",
+    "Speech bố mẹ + sếp + bạn → emotion peak nhiều lần. Khóc theo OK.",
+    "Niji-kai sau wedding optional — invite riêng, casual hơn."
+  ],
+  "scenes": [
+    {
+      "n": 1,
+      "time": "Tue tuần trước 09:00",
+      "location": "Office Thiên Phát quận 7",
+      "setting": "Dũng vừa nhận thiệp mời từ Tanaka qua mail courier. Mở thiệp formal — gold trim, calligraphy. Dũng chưa biết gì về kekkonshiki. Hỏi Hương coach.",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "(ベトナム語、フオンに招待状見せる)Chị Hương, anh Tanaka mời em dự cưới. Em chưa biết gì hết — phải làm gì?",
+          "vi": "(tiếng Việt, đưa thiệp Hương xem) Chị Hương, anh Tanaka mời em dự cưới. Em chưa biết gì hết — phải làm gì?"
+        },
+        {
+          "speaker": "fuon",
+          "ja": "(招待状見る、嬉しそう)Wow, Tanaka mời em! Đó là invite-level cao đó, chỉ 80 khách. Honor.",
+          "vi": "(xem thiệp, vui) Wow, Tanaka mời em! Đây là cấp mời cao đó, chỉ 80 khách thôi. Vinh dự đó."
+        },
+        {
+          "speaker": "fuon",
+          "ja": "OK chị brief nhanh. 5 thứ: (1) Goshugi (lì xì), (2) dress code, (3) ngày-giờ-venue check, (4) RSVP, (5) gift / message.",
+          "vi": "OK chị brief nhanh. 5 thứ: (1) goshugi (lì xì cưới), (2) dress code, (3) check ngày-giờ-venue, (4) RSVP, (5) gift / lời chúc."
+        },
+        {
+          "speaker": "fuon",
+          "ja": "Goshugi: Tanaka level đồng nghiệp gần với em, 30,000 yen. Tiền MỚI tinh từ ngân hàng — không phải tiền cũ. Gói shugi-bukuro (loại có nơ trắng-bạc), Don Quijote bán.",
+          "vi": "Goshugi: Tanaka level đồng nghiệp gần với em, 30,000 yen. Tiền MỚI tinh từ ngân hàng — không phải tiền cũ. Gói shugi-bukuro (loại có nơ trắng-bạc), Don Quijote bán."
+        },
+        {
+          "speaker": "zun",
+          "ja": "30,000 yen?確かベトナム円換算で 5 triệu...",
+          "vi": "30,000 yen? Đổi ra Việt Nam tầm 5 triệu…"
+        },
+        {
+          "speaker": "fuon",
+          "ja": "Đó là quy tắc Nhật. Đừng cho ít hơn — disrespect. Đừng cho nhiều hơn — outshine. 30K là exact.",
+          "vi": "Đó là quy tắc Nhật. Cho ít hơn là thất lễ, cho nhiều hơn là lấn át cô dâu chú rể. 30K là chính xác."
+        },
+        {
+          "speaker": "fuon",
+          "ja": "Dress code: dark suit (đen hoặc dark navy), white shirt, cravat MÀU trắng-bạc hoặc xám nhạt. KHÔNG cravat đen — đó là tang lễ. KHÔNG suit toàn đen — cũng tang lễ. Em có suit chưa?",
+          "vi": "Dress code: dark suit (đen hoặc dark navy), white shirt, cravat MÀU trắng-bạc hoặc xám nhạt. KHÔNG cravat đen — đó là tang lễ. KHÔNG suit toàn đen — cũng tang lễ. Em có suit chưa?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "Suit dark navy có rồi, em mua hồi onsite. Cravat...em chỉ có đen với đỏ.",
+          "vi": "Suit dark navy có rồi, em mua hồi onsite. Cravat… em chỉ có đen với đỏ."
+        },
+        {
+          "speaker": "fuon",
+          "ja": "OK em mua thêm 1 cravat trắng-bạc Aoki / Konaka khi qua Tokyo. ¥3,000-5,000.",
+          "vi": "OK em mua thêm 1 cravat trắng-bạc Aoki / Konaka khi qua Tokyo. ¥3,000-5,000."
+        },
+        {
+          "speaker": "fuon",
+          "ja": "RSVP: trong vòng 1 tuần, gửi reply card đính kèm thiệp. Gạch chữ '欠席' (vắng), khoanh '出席' (dự). Viết câu chúc mừng ngắn 1-2 câu chân thành.",
+          "vi": "RSVP: trong vòng 1 tuần, gửi reply card đính kèm thiệp. Gạch chữ '欠席' (vắng), khoanh '出席' (dự). Viết câu chúc mừng ngắn 1-2 câu chân thành."
+        },
+        {
+          "speaker": "fuon",
+          "ja": "Gift bonus: hoa cho cô dâu hoặc small gift cho couple optional. Gửi đến nhà 1 tuần trước wedding. Nhưng nếu không tiện, goshugi đủ.",
+          "vi": "Gift bonus: hoa cho cô dâu hoặc small gift cho couple optional. Gửi đến nhà 1 tuần trước wedding. Nhưng nếu không tiện, goshugi đủ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "Note hết. Em sẽ buy goshugi + cravat ở Tokyo Friday tới, wedding Saturday.",
+          "vi": "Note hết. Em sẽ buy goshugi + cravat ở Tokyo Friday tới, wedding Saturday."
+        },
+        {
+          "speaker": "fuon",
+          "ja": "Một điều cuối — đừng nervous. Tanaka mời em vì em là family đó. Cứ enjoy.",
+          "vi": "Một điều cuối — đừng căng thẳng. Tanaka mời em vì coi em như người nhà rồi. Cứ tận hưởng nha."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Coach trước kekkonshiki — 5 bullets",
+        "body": "Junior lần đầu kekkonshiki Nhật cần senior coach 5 thứ:\n1. **Goshugi**: đồng nghiệp = 30,000円, sếp gần = 50,000円, family = 100,000円+. Tiền mới tinh + shugi-bukuro chuyên dụng (không envelope thường).\n2. **Dress code**: dark suit + white shirt + cravat trắng-bạc/xám. Cấm tuyệt đối: cravat đen, suit toàn đen.\n3. **Date/venue**: confirm Google Maps trước 1 ngày.\n4. **RSVP** trong 1 tuần, reply card có format đặc biệt (gạch 欠席, khoanh 出席, viết câu chúc).\n5. **Gift optional** nhưng goshugi đủ.\n\nQuan trọng: invite kekkonshiki = signal 'in family', không phải casual."
+      }
+    },
+    {
+      "n": 2,
+      "time": "Sat 11:30",
+      "location": "Lobby chapel khách sạn Imperial Tokyo",
+      "setting": "Imperial Tokyo (high-end hotel) chapel wedding venue. Lobby trang trọng, reception desk có 2 staff nữ kimono. Dũng đến đúng giờ. Ký sổ + đưa goshugi. Bị bug: tờ tiền 10,000 chưa gấp đôi (rule).",
+      "lines": [
+        {
+          "speaker": "wedding_staff",
+          "ja": "(架空、お辞儀)いらっしゃいませ。お名前を頂戴できますでしょうか?",
+          "vi": "(staff cưới, cúi đầu) Mời quý khách. Cho biết tên ạ?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "Tien Phat 社の Tran Van Dung、田中様の招待で来ております。",
+          "vi": "Trần Văn Dũng của công ty Tien Phat, theo lời mời của anh Tanaka."
+        },
+        {
+          "speaker": "wedding_staff",
+          "ja": "(リスト確認)はい、ベトナムからお越しのズン様、確認できました。芳名録にご記帳お願いします。",
+          "vi": "(check list) Vâng, Dũng từ Việt Nam, em xác nhận. Xin ký vào sổ kỷ niệm."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng cầm bút lông cọ (筆ペン), ký 'Tran Van Dung' bằng katakana 'チャン・ヴァン・ズン' theo cách Hương dạy. Đẹp.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(shugi-bukuro 出す)御祝儀です、よろしくお願いします。",
+          "vi": "(rút shugi-bukuro) Goshugi đây ạ, nhờ chị."
+        },
+        {
+          "speaker": "wedding_staff",
+          "ja": "(両手で受け取る)ありがとうございます…(中身を確認)…あ、お客様、申し訳ありません、お札の向き、こちらでは表側を上にする習慣で…",
+          "vi": "(2 tay nhận)… (kiểm tra bên trong)… ơ, thưa quý khách, em xin lỗi, hướng tiền, tập tục bên này thì để mặt ngoài lên trên ạ…"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng cứng người. Forget rule này — gấp tiền đúng nhưng quên hướng. Mặt nóng.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "あ、すみません、知らなくて…直してもいいですか?",
+          "vi": "À, em xin lỗi, em không biết… em sửa được không ạ?"
+        },
+        {
+          "speaker": "wedding_staff",
+          "ja": "(微笑む)もちろんです、こちらの台で。お時間あります。",
+          "vi": "(cười) Dĩ nhiên ạ, sửa ở bàn đây. Có thời gian."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng quay sang bàn nhỏ, mở shugi-bukuro, lấy 3 tờ 10,000 ra. Xếp lại — mặt có Fukuzawa Yukichi (mặt 'omote') hướng lên + đầu hướng vào trong shugi-bukuro. 30 giây xong. Trả lại staff.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(深くお辞儀)申し訳ありません。これでお願いします。",
+          "vi": "(cúi đầu sâu) Em xin lỗi. Cái này nhờ chị."
+        },
+        {
+          "speaker": "wedding_staff",
+          "ja": "(微笑む)はい、ありがとうございます。チャペル入口は2階、エレベーターでどうぞ。式は12時開始です。",
+          "vi": "(cười) Vâng, cảm ơn ạ. Cửa chapel tầng 2, mời quý khách dùng thang máy. Lễ bắt đầu 12 giờ."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Goshugi rules — tiền mới + hướng + gấp",
+        "body": "Goshugi rules detail:\n- ✅ **Tiền MỚI tinh** từ ngân hàng (新札). Tiền cũ = unprepared / disrespect. Đổi ở Mizuho / SMBC ATM hoặc counter trước 1 ngày.\n- ✅ **Hướng**: mặt 'omote' (mặt có Fukuzawa Yukichi cho ¥10,000) hướng LÊN, đầu hướng VÀO TRONG shugi-bukuro. Tất cả tờ cùng hướng.\n- ✅ **Số tờ ODD** (1, 3, 5) — không 2, 4 (số lẻ tốt, số chẵn 'chia rẽ'). 30,000 = 3 tờ 10K, không 2 tờ 10K + 1 tờ 5K + 5 tờ 1K. KISS.\n- ✅ **Tránh** số 4 (死) và 9 (苦) — 40K, 90K cấm.\n- ✅ **Shugi-bukuro chuyên dụng** (nơ trắng-bạc 結びきり) — Don Quijote / convenience store đều bán.\n- ✅ **Viết tên đầy đủ** mặt ngoài + bên trong số tiền chữ Hán: '金参萬円' (¥30,000).\n- Lỗi Dũng = staff sửa giúp graciously, không big deal. Nhưng next time thuộc."
+      }
+    },
+    {
+      "n": 3,
+      "time": "Sat 12:00",
+      "location": "Chapel — wedding ceremony Christian style",
+      "setting": "Chapel kiểu Tây style, ghế gỗ + ô vòm + cửa sổ kính màu. ≈80 khách ngồi 2 hàng ghế dài. Music organ. Dũng ngồi hàng 5 bên phải. Lễ Christian style 30 phút (Nhật phổ biến dù không công giáo).",
+      "lines": [
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Music organ vang. Cửa chapel mở. Tanaka đứng trước altar, suit đen formal + cravat trắng. Mặt nervous. Bố Tanaka đứng cạnh.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Cửa cuối chapel mở — cô dâu trong wedding dress trắng dài, veil che mặt, cầm bouquet hoa hồng trắng. Bố cô dâu khoác tay, dẫn từ cửa lên altar. Music 'Wedding March'.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Khách đứng dậy. Dũng đứng theo. Quan sát — cô dâu đẹp, mắt đỏ. Tanaka quay lại nhìn — cười rộng, đầu tiên Dũng thấy Tanaka cười kiểu đó.]"
+        },
+        {
+          "speaker": "priest",
+          "ja": "(架空、英語+日本語混じり)Today, we gather here to celebrate the union of Tanaka Hiroshi and Sato Yumi. それでは、誓いの言葉。新郎、田中宏志さん…",
+          "vi": "(linh mục, English+Japanese) Hôm nay, chúng ta tụ họp đây để chúc mừng kết hợp của Tanaka Hiroshi và Sato Yumi. Vậy, lời thề. Chú rể, Tanaka Hiroshi…"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Tanaka đứng trước cô dâu. Đọc lời thề tiếng Nhật — voice nervous nhưng clear. 'Yumi-san, あなたを生涯愛し、支え合い、共に歩むことを誓います'. Cô dâu khóc nhẹ.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Trao nhẫn. Hôn. Tiếng vỗ tay. Music organ 'Joyful Joyful'. Cô dâu chú rể đi xuống aisle. Audience tung petal hoa. Dũng cầm nhúm petal, tung. Tanaka đi qua, eye contact với Dũng — gật đầu cảm ơn.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng ngạc nhiên — Tanaka nhớ tìm Dũng trong 80 khách. Cảm động.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[30 phút ceremony hết. Khách di chuyển sang reception hall.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Wedding ceremony Christian style JP — quan sát + theo crowd",
+        "body": "JP modern wedding 70% Christian style (không phải công giáo, là 'aesthetic'). Junior khách:\n- ✅ **Đến đúng giờ** — chapel khóa cửa 5 phút trước start.\n- ✅ **Ngồi hàng 4-7** — gần đủ thấy nhưng không front (front cho gia đình).\n- ✅ **Theo crowd** — đứng/ngồi theo. Không sing thánh ca nếu không biết.\n- ✅ **Tung petal khi exit** — pick nhúm nhỏ, tung nhẹ về hướng cô dâu chú rể.\n- ✅ **Eye contact + gật đầu** khi cô dâu chú rể đi qua — đủ.\n- ❌ **Không chụp ảnh** trong ceremony (professional photographer thuê rồi). Reception chụp thoải mái."
+      }
+    },
+    {
+      "n": 4,
+      "time": "Sat 13:00",
+      "location": "Reception hall — bắt đầu speech",
+      "setting": "Reception hall lớn 80 chỗ, bàn round 8 người/bàn. Trang trí hoa trắng + nến. Set lunch French course 7 món. Speech bố mẹ + sếp Tanaka (Nakamura CFO bên 白鷗) mở màn.",
+      "lines": [
+        {
+          "speaker": "mc_wedding",
+          "ja": "(架空)…それでは、新郎新婦のご入場でございます!",
+          "vi": "(MC)… cô dâu chú rể nhập trường ạ!"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Tanaka + Yumi đi vào reception hall, music + spotlight. Audience vỗ tay. Tanaka đã thay outfit từ formal sang white tuxedo. Yumi đổi sang dress dài đỏ-trắng (お色直し).]"
+        },
+        {
+          "speaker": "mc_wedding",
+          "ja": "新郎側の上司、白鷗株式会社中村CFO様より、ご祝辞を頂戴します。",
+          "vi": "Sếp phía chú rể, anh Nakamura CFO của Hakuō, sẽ nói lời chúc mừng."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "(マイク取る)田中宏志くん、ご結婚おめでとうございます。彼が白鷗に入って12年、私から見て一番の transformation は、ベトナムのティエンファットさんとのプロジェクトでの成長でした…",
+          "vi": "(cầm mic) Tanaka Hiroshi, chúc mừng kết hôn. Cậu ấy vào Hakuō 12 năm, từ góc nhìn tôi, transformation lớn nhất là sự trưởng thành qua dự án với Tien Phat Việt Nam…"
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "そして本日、田中の招待で、ベトナムから Tien Phat 社の Tran Van Dung さん、ズンさんもいらっしゃっています。ズンさんは田中が『仕事仲間以上の友』と言う方。これも田中の縁づくりの一例です。",
+          "vi": "Và hôm nay, theo lời mời của Tanaka, anh Trần Văn Dũng của Tien Phat từ Việt Nam, Dũng-san cũng có mặt. Dũng là người Tanaka gọi 'bạn hơn đồng nghiệp'. Đây cũng là 1 ví dụ về sự kết nối của Tanaka."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng đỏ mặt — không expect bị mention by name. Audience quay nhìn. Dũng cúi đầu nhẹ. Cảm xúc dâng — 'bạn hơn đồng nghiệp' = lời Tanaka đã nói với CFO.]"
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "宏志くん、由美さん、お二人の新しい門出に、心からお祝い申し上げます。乾杯!",
+          "vi": "Hiroshi, Yumi, lời chúc mừng từ tim cho hành trình mới của 2 em. Kanpai!"
+        },
+        {
+          "speaker": "all",
+          "ja": "乾杯!",
+          "vi": "Kanpai!"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Sau speech CFO, đến speech bố Tanaka. Bố 70t, voice run nhẹ.]"
+        },
+        {
+          "speaker": "tanaka_father",
+          "ja": "(架空)宏志、いつまでも厳しい父親で悪かったね。お前が小学生の頃、いつも『父さんに認められたい』と頑張ってた。今日、立派な男になって、由美さんと家庭を持つ。父として誇りに思う。",
+          "vi": "(bố Tanaka) Hiroshi, suốt thời ba luôn nghiêm khắc, ba xin lỗi nhé. Hồi con tiểu học luôn cố 'để được ba công nhận'. Hôm nay con thành đàn ông giỏi, lập gia đình với Yumi. Ba tự hào."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Bố Tanaka khóc. Tanaka khóc. Yumi khóc. Audience nhiều người lau nước mắt. Dũng cũng cay mắt — không vì hiểu hết tiếng Nhật, mà vì emotion universal.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Speech wedding — emotion peak, OK khóc",
+        "body": "Wedding JP có 3-5 speeches dài 5-10 phút, nhiều emotion peak:\n- ✅ **Sếp speech** mở màn formal — listen attentively.\n- ✅ **Bố mẹ speech** thường khóc — audience khóc theo OK, không hiding.\n- ✅ **Bạn bè speech** thường hài + emotional — laugh khi appropriate.\n- ✅ **Bị mention by name** = unexpected honor. Đỏ mặt + cúi đầu = đẹp.\n- ✅ Lau nước mắt với khăn tay (mang theo) — không dùng napkin bàn.\n- ❌ **Không** check phone trong speech.\n- ❌ **Không** chen vào speech với câu của mình.\n- Speech bố Tanaka về Tanaka khi nhỏ = window vào con người mới của Tanaka — bonus context cho Dũng."
+      }
+    },
+    {
+      "n": 5,
+      "time": "Sat 14:00",
+      "location": "Bàn round 8 người",
+      "setting": "Course French lunch 7 món. Dũng cùng bàn 6 người không quen — bạn của Tanaka từ thời đại học + 1 đồng nghiệp Hakuō Dũng chưa gặp. Tự intro vòng tròn. 1 người ngạc nhiên 'Việt Nam à?'.",
+      "lines": [
+        {
+          "speaker": "table_guest_1",
+          "ja": "(架空)初めまして、田中の大学時代の友人で、山口と申します。皆さん、自己紹介していきません?",
+          "vi": "(khách bàn 1) Rất hân hạnh, tôi là Yamaguchi, bạn đại học của Tanaka. Mọi người tự giới thiệu vòng tròn không?"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Vòng tròn 8 người. Dũng đến lượt thứ 4.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "初めまして、ベトナム HCMC から来ました、Tien Phat 社の Tran Van Dung、ズンと申します。田中さんとは仕事を通じて知り合って、本日はお招きいただいて感激しています。",
+          "vi": "Rất hân hạnh, em từ HCMC Việt Nam, là Trần Văn Dũng của Tien Phat, anh chị gọi em là Dũng. Em quen anh Tanaka qua công việc, hôm nay được mời em rất xúc động."
+        },
+        {
+          "speaker": "table_guest_2",
+          "ja": "(架空、驚き)ベトナムから?Tanaka が外国の人を呼ぶの珍しい!2人どうやって出会ったの?",
+          "vi": "(khách bàn 2, ngạc nhiên) Từ Việt Nam? Tanaka mời người nước ngoài hiếm lắm! 2 người gặp thế nào?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "2年前、白鷗とティエンファットの Phase 4 プロジェクトで田中さんが PMO 担当でした。最初は Slack の文字だけの関係でしたが、IT Week 東京、HCMC visit、出張、温泉、徐々に深まって。",
+          "vi": "2 năm trước, dự án Phase 4 giữa Hakuō và Tien Phat, anh Tanaka là PMO. Đầu chỉ qua Slack, sau IT Week Tokyo, HCMC visit, công vụ, onsen, dần dần sâu."
+        },
+        {
+          "speaker": "table_guest_1",
+          "ja": "Tanaka、本当に lucky だね、こんなに深い business friendship つくれて。",
+          "vi": "Tanaka thật lucky nhỉ, build được business friendship sâu vầy."
+        },
+        {
+          "speaker": "table_guest_3",
+          "ja": "(架空)ズンさん、ベトナムの結婚式と日本の結婚式、どう違う?",
+          "vi": "(khách bàn 3) Dũng à, đám cưới Việt Nam khác đám cưới Nhật chỗ nào?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(笑って)ベトナムの結婚式は、招待客が300-500人、最大1000人とか普通です。料金は新郎新婦が負担。皆さん来てくれた人に goshugi 概念ない、逆に料理を奢る。",
+          "vi": "(cười) Đám cưới Việt Nam khách 300-500 người, max 1000 thường. Tiền chú rể cô dâu chịu. Khách không có concept goshugi, ngược lại đãi đồ ăn."
+        },
+        {
+          "speaker": "table_guest_2",
+          "ja": "1000人?!すごい!",
+          "vi": "1000 người?! Wow!"
+        },
+        {
+          "speaker": "zun",
+          "ja": "代わりに儀式は短い、30分。日本のように bouquet toss とか cake cutting とか細かい儀式はない。",
+          "vi": "Đổi lại lễ ngắn, 30 phút. Không có nghi thức chi tiết như bouquet toss hay cake cutting kiểu Nhật."
+        },
+        {
+          "speaker": "table_guest_3",
+          "ja": "面白い文化差!ベトナム行ってみたいな。",
+          "vi": "Khác biệt văn hóa thú vị! Muốn qua Việt Nam."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ぜひ来てください、Tanaka さんとも一緒に。",
+          "vi": "Mời các anh chị qua, cùng với anh Tanaka."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Self intro tại bàn không quen — be the bridge",
+        "body": "Wedding bàn round = 8 người không quen. Junior tactic:\n- ✅ **Self intro 30 giây**: tên + connection với cô dâu chú rể + 1 câu cảm xúc về wedding.\n- ✅ **Khi được hỏi** ('Việt Nam à?') = cơ hội share câu chuyện. Không over-explain — 1 chuyện nhỏ + invite back.\n- ✅ **Cultural exchange** ('đám cưới VN 1000 người') = bonding trigger. Một số guest sẽ remember 'Vietnamese guy at Tanaka's wedding'.\n- ✅ **Invite reverse** ('mời các anh chị qua VN') = generous host attitude.\n- ❌ **Không** monopolize conversation — chia turn. 30% nói + 70% nghe.\n- ❌ **Không** business pitch — wedding không phải networking event."
+      }
+    },
+    {
+      "n": 6,
+      "time": "Sat 15:00",
+      "location": "Bàn round",
+      "setting": "Cake cutting + cake feeding ceremony. Dũng take video cho Tanaka + Yumi qua iPhone. Sẽ gửi qua Slack sau.",
+      "lines": [
+        {
+          "speaker": "mc_wedding",
+          "ja": "(架空)新郎新婦の入刀でございます!皆様、お写真お願いします!",
+          "vi": "(MC) Lễ cắt bánh của cô dâu chú rể! Mời mọi người chụp ảnh!"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Cake nhiều tầng trắng-hồng. Tanaka + Yumi cầm dao chung, cắt slice đầu. Tiếng vỗ tay + flash camera khắp.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng giơ iPhone, record video 30 giây. Tanaka feed Yumi 1 miếng cake — Yumi feed lại Tanaka miếng to (truyền thống — 'to' = signal 'tao sẽ cho mày ăn no cả đời'). Tanaka cười rộng.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Sau cake feeding, MC mời từng bàn lên photo với cô dâu chú rể.]"
+        },
+        {
+          "speaker": "mc_wedding",
+          "ja": "次は7番テーブルの皆様、新郎新婦と一緒にお写真どうぞ。",
+          "vi": "Tiếp đến quý vị bàn số 7, mời chụp ảnh cùng cô dâu chú rể."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Bàn Dũng (số 7) lên. 8 người + Tanaka + Yumi. Yumi cười với Dũng — first time gặp.]"
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "(ズンに英語で小声)Dung-san, this is my wife Yumi. Yumi, this is Dung from Vietnam I told you about.",
+          "vi": "(với Dũng English nhỏ giọng) Dũng, đây vợ tôi Yumi. Yumi, Dũng từ Việt Nam tôi đã kể đó."
+        },
+        {
+          "speaker": "yumi_wife",
+          "ja": "(架空、English練習)Hi Dung-san, nice to meet you. Hiroshi told me a lot about you.",
+          "vi": "(English luyện) Hi Dũng, nice to meet you. Hiroshi đã kể nhiều về anh."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(感激)Yumi-san, congratulations! Lovely to meet you finally. 田中さんは本当にラッキーな男性です。",
+          "vi": "(xúc động) Chúc mừng chị Yumi! Cuối cùng cũng được gặp chị. Anh Tanaka thực sự là người đàn ông may mắn."
+        },
+        {
+          "speaker": "yumi_wife",
+          "ja": "(笑って)ありがとう。Hiroshi、ベトナムのコーヒー、まだ飲んでる?",
+          "vi": "(cười) Cảm ơn anh. Hiroshi, cà phê Việt Nam vẫn uống à?"
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "(笑)毎朝!ズンが送ってくれた G7、まだ家にあるよ。",
+          "vi": "(cười) Mỗi sáng! G7 Dũng gửi vẫn còn ở nhà."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Photographer chụp 5 tấm. Dũng đứng cạnh Tanaka, Yumi giữa. Cười tự nhiên.]"
+        },
+        {
+          "speaker": "yumi_wife",
+          "ja": "ズンさん、今度ベトナム行きたい、Hiroshi 連れて。",
+          "vi": "Dũng à, lần sau em muốn qua Việt Nam, kéo Hiroshi đi."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ぜひ honeymoon でも、後でも。HCMC tour 案内します。",
+          "vi": "Mời em, honeymoon hoặc sau cũng được. Em sẽ dẫn tour HCMC."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Gặp cô dâu chú rể tại photo — brief moment",
+        "body": "Photo session với cô dâu chú rể tại bàn = 1-2 phút brief moment:\n- ✅ **Cảm ơn được mời** + **chúc mừng** ngắn gọn.\n- ✅ **Compliment cô dâu/chú rể nhau** — Dũng nói 'Tanaka lucky' = win.\n- ✅ **Reference shared moment nhỏ** — Yumi mention 'cà phê Việt Nam' = chứng minh Tanaka kể về Dũng ở nhà.\n- ✅ **Invite reverse** ('mời qua VN') = open future relationship.\n- ✅ **Smile natural cho photo** — không peace sign / không over.\n- Sau wedding: gửi photo Slack/AirDrop cho Tanaka + Yumi trong 24h."
+      }
+    },
+    {
+      "n": 7,
+      "time": "Sat 15:30",
+      "location": "Bàn round",
+      "setting": "Speech bạn bè cô dâu chú rể (3 người). 1 speech rất hài Kansai-ben — Dũng không hiểu hết nhưng cười theo timing đúng.",
+      "lines": [
+        {
+          "speaker": "friend_speech",
+          "ja": "(架空、関西弁)宏志〜!お前なあ、3年前に俺がな、由美さん紹介したときに『俺タイプじゃないわ』って言うてたやんけ!アホかおまえは!",
+          "vi": "(speech bạn, Kansai-ben) Hiroshi! Mày đó, 3 năm trước hồi tao giới thiệu Yumi, mày bảo 'không phải gu tao' đó! Ngu thế!"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Audience cười lớn. Dũng không hiểu nguyên câu nhưng catch 'タイプじゃない' (không phải gu) + 'アホ' (ngu) + tone joke. Cười theo.]"
+        },
+        {
+          "speaker": "friend_speech",
+          "ja": "由美さんの方が気を遣って『あ、私もタイプじゃないかも』言うてくれたから、なんとなく気まずくなくて、結局付き合うことになった。お前ら、運命のいい加減さやな!",
+          "vi": "Yumi cũng tinh ý bảo 'tôi cũng có khi không phải gu', nên đỡ awkward, cuối cùng quen nhau. Hai mày, số phận lỏng lẻo nhỉ!"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Audience cười dữ. Dũng cười theo. Yumi che mặt cười xấu hổ. Tanaka đỏ mặt.]"
+        },
+        {
+          "speaker": "friend_speech",
+          "ja": "宏志、由美さん、本当におめでとう。3年前に俺がいい仕事した(笑)。お前ら2人を見てて、人生は計画通りいかへんけど、悪い結果は来ない、ということを学んだわ。",
+          "vi": "Hiroshi, Yumi, thực sự chúc mừng. 3 năm trước tao làm việc tốt (cười). Nhìn 2 mày, tao học được rằng đời không theo kế hoạch, nhưng kết cục không tệ."
+        },
+        {
+          "speaker": "all",
+          "ja": "(拍手)",
+          "vi": "(vỗ tay)"
+        },
+        {
+          "speaker": "table_guest_3",
+          "ja": "(ズンに小声)関西弁分かる?",
+          "vi": "(với Dũng nhỏ giọng) Hiểu Kansai-ben không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(笑って)半分くらい、でも雰囲気で笑えました。",
+          "vi": "(cười) Khoảng nửa, nhưng nhờ không khí em cười được."
+        },
+        {
+          "speaker": "table_guest_3",
+          "ja": "それで十分。良いスピーチだった。",
+          "vi": "Vậy là đủ. Speech hay."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Speech phương ngữ — laugh by timing",
+        "body": "Wedding speech bạn bè thường có Kansai-ben / Hakata-ben joke. Junior không hiểu hết:\n- ✅ **Quan sát phòng** — cười khi mọi người cười.\n- ✅ **Catch keyword** — 1-2 từ + tone đủ để biết joke direction.\n- ✅ **Honest sau** ('hiểu nửa thôi') — guest cùng bàn sẽ giải thích.\n- ✅ **Speech bạn bè wedding thường mở message** universal — content cuối always về 'love / friendship / chúc mừng' = catch core message.\n- ❌ **Không** ngồi mặt blank — looks rude.\n- ❌ **Không** ask cùng bàn dịch live — disrupt speech."
+      }
+    },
+    {
+      "n": 8,
+      "time": "Sat 16:00",
+      "location": "Hành lang reception — break 15 phút",
+      "setting": "Reception nghỉ break. Khách ra hành lang stretch + bathroom. Matsumoto + Ōgaki cùng Dũng đứng cạnh cửa sổ view Tokyo. Matsumoto hỏi cảm xúc thật.",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "ズンさん、初めての日本の結婚式どう?",
+          "vi": "Dũng à, đám cưới Nhật lần đầu thấy sao?"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Câu thật, không xã giao. Dũng dừng 1 nhịp.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "正直に言うと…(深呼吸)…日本の家族の温かさを、ここまで深く感じるとは思いませんでした。お父様のスピーチで田中さんが泣いて、それを見て自分も涙が出て…自分の家族を思い出しました。",
+          "vi": "Em nói thật… (hít thở)… em không nghĩ sẽ cảm nhận được sự ấm áp của gia đình Nhật sâu vậy. Speech bố mà anh Tanaka khóc, em nhìn theo cũng cay mắt… em nhớ gia đình mình."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(うなずく)結婚式は、本人たちの祝いだけじゃなくて、家族の歴史を見る場所。海外の人にとってはショック深いと思う。",
+          "vi": "(gật) Đám cưới không chỉ chúc mừng đôi bên mà là nơi nhìn lịch sử gia đình. Với người nước ngoài có lẽ shock sâu."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "ズンさんが招待されたこと、田中にとってどれだけ意味あるか分かる?",
+          "vi": "Việc Dũng được mời, với Tanaka có ý nghĩa thế nào em biết không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(首を振る)分からないです、教えてください。",
+          "vi": "(lắc đầu) Em không biết, anh nói em ạ."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "田中、結婚式の招待リスト、80人だけど、半年前から1人1人選んでた。社外で呼んだの、ほぼ家族か親友のみ。ベトナムから君だけ呼んだのは、本当に『家族の一員』として認めてるってこと。",
+          "vi": "Tanaka đó, danh sách 80 khách wedding cậu ấy chọn từng người trong 6 tháng. Mời ngoài công ty hầu như chỉ gia đình hoặc bạn thân. Mời mỗi mình em từ Việt Nam vì thực sự coi em là 'thành viên gia đình'."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng nín lặng. Mắt cay. Không tìm được câu reply.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(声が震える)…松本さん、大垣さん、ありがとうございます。教えてくださって。",
+          "vi": "(giọng run)… anh Matsumoto, anh Ōgaki, cảm ơn các anh. Đã nói cho em."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "今日の経験、ズンさんの人生の一部に。10年後も覚えてる日になる。",
+          "vi": "Trải nghiệm hôm nay là một phần đời Dũng. 10 năm sau cũng nhớ ngày này."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(時計)あ、後半始まる。戻ろう。",
+          "vi": "(xem đồng hồ) À, hiệp 2 bắt đầu. Quay lại."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Break conversation = real talk window",
+        "body": "Break giữa wedding = senior hay open up real-talk:\n- ✅ **Honest emotion share** ('khóc, nhớ gia đình') — không pretend cool.\n- ✅ **Ōgaki + Matsumoto frame ý nghĩa** — không phải Tanaka casually invite, là deliberate include 'in family'. Junior cần được told explicit.\n- ✅ **Receive emotion với grace** — tay run, mắt cay = OK natural.\n- ✅ **Quick close** — 'cảm ơn các anh' đủ. Không kéo dài break.\n- Đây là moment văn hóa bridge — Matsumoto + Ōgaki play role 'guide' cho Dũng vào ý nghĩa Nhật."
+      }
+    },
+    {
+      "n": 9,
+      "time": "Sat 17:00",
+      "location": "Reception cuối — bouquet toss",
+      "setting": "Cuối reception. Bouquet toss + bird song release outdoor garden. Dũng đứng góc xa, không tham gia (nam, lại khách nước ngoài). Quan sát thôi.",
+      "lines": [
+        {
+          "speaker": "mc_wedding",
+          "ja": "(架空)それでは、未婚の女性の皆様、ガーデンへどうぞ!ブーケトス、新婦が投げます!",
+          "vi": "(MC) Vậy, các quý cô chưa kết hôn, mời ra garden! Bouquet toss, cô dâu sẽ tung!"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[10-12 phụ nữ trẻ tập trung garden. Yumi đứng quay lưng. Dũng đứng cách xa, observer.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Yumi tung bouquet — bay cong, 1 cô gái 25t bắt được. Tiếng hò reo + vỗ tay. Cô gái đỏ mặt + cười xấu hổ.]"
+        },
+        {
+          "speaker": "table_guest_2",
+          "ja": "(ズンに横で)ズンさん、結婚はいつ?",
+          "vi": "(với Dũng bên cạnh) Dũng à, kết hôn khi nào?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(笑って)まだ未定です。彼女いますが、両家まだ会ってないので…来年の Tết に検討予定。",
+          "vi": "(cười) Chưa định ạ. Có bạn gái nhưng 2 nhà chưa gặp… Tết năm sau dự định bàn."
+        },
+        {
+          "speaker": "table_guest_2",
+          "ja": "Tết っていつ?",
+          "vi": "Tết là khi nào?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ベトナムの旧正月、毎年違いますが大体1月末か2月。家族集まって両家紹介する大事な時期。",
+          "vi": "Tết Nguyên đán Việt Nam, mỗi năm khác nhau, đại khái cuối tháng 1 hoặc tháng 2. Gia đình tụ họp, giới thiệu 2 nhà là dịp quan trọng."
+        },
+        {
+          "speaker": "table_guest_2",
+          "ja": "じゃあ来年早々ズンさんも結婚式出席リストに入るかも(笑)。Tanaka に教えなきゃ。",
+          "vi": "Vậy đầu năm sau Dũng cũng vào list dự cưới (cười). Phải báo Tanaka."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Bouquet toss kết thúc. Khách trở vào reception cho closing speech.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Bouquet toss — observer mode cho khách nước ngoài",
+        "body": "Bouquet toss = ritual nội bộ Nhật:\n- ✅ **Nam không tham gia** — chỉ female unmarried.\n- ✅ **Khách nước ngoài** thường observer — không expected join.\n- ✅ **Đứng góc xa**, take photo / video, applaud.\n- Cơ hội small talk với khách bàn — 'em kết hôn khi nào?' = topic mở normal.\n- Sharing kế hoạch riêng (Tết Việt Nam) = cultural exchange small."
+      }
+    },
+    {
+      "n": 10,
+      "time": "Sat 17:30",
+      "location": "Cửa reception — chia tay Tanaka + Yumi",
+      "setting": "Đoàn khách lần lượt ra về, nhận hikidemono (bag quà cảm ơn). Hikidemono nặng ≈2kg. Dũng cẩn thận xếp vào carry-on, lo về VN bị x-ray.",
+      "lines": [
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "(ドア前で1人ずつ見送り)ズンさん、本当に来てくれてありがとう。Vietnam から長い旅で。",
+          "vi": "(tại cửa tiễn từng người) Dũng thực sự cảm ơn cậu đã đến. Từ Việt Nam đường xa."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(深くお辞儀)田中さん、由美さん、本日は本当におめでとうございます。お招きいただき、一生の宝物の一日になりました。",
+          "vi": "(cúi đầu sâu) Anh Tanaka, chị Yumi, hôm nay chân thành chúc mừng. Được mời, một ngày trở thành báu vật cả đời."
+        },
+        {
+          "speaker": "yumi_wife",
+          "ja": "ズンさん、明日の便でベトナム帰る?",
+          "vi": "Dũng mai về Việt Nam?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、明日午前 10 時の便。今夜は二次会で松本さん大垣さん井上さんと。",
+          "vi": "Vâng, sáng mai chuyến 10h. Tối nay tăng 2 với anh Matsumoto, anh Ōgaki, anh Inoue."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "(笑)二次会、僕も行くよ、新郎なのに(笑)。短時間だけど。",
+          "vi": "(cười) Tăng 2 anh cũng đi, dù là chú rể (cười). Ngắn thôi."
+        },
+        {
+          "speaker": "yumi_wife",
+          "ja": "Hiroshi、新婦置いて二次会いっぱいいかないでね(笑)",
+          "vi": "Hiroshi, đừng bỏ tôi đi tăng 2 lâu nhé (cười)"
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "(笑)1時間だけ約束。",
+          "vi": "(cười) Hứa 1 tiếng thôi."
+        },
+        {
+          "speaker": "wedding_staff",
+          "ja": "(引出物渡す)ズン様、引出物でございます。重いのでお気をつけください。",
+          "vi": "(đưa hikidemono) Quý khách Dũng, hikidemono đây ạ. Nặng, cẩn thận giúp."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Bag giấy đẹp ≈2kg. Dũng cảm thấy nặng. Sẽ cần check-in luggage hoặc đem 1 phần lên carry-on.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ありがとうございます。",
+          "vi": "Cảm ơn ạ."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "(ハグの素振り、でも控えめ)ズンさん、二次会で会おう。19時、銀座の Pub。",
+          "vi": "(motion ôm nhưng nhẹ) Dũng, gặp ở tăng 2. 19h, pub Ginza."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Hikidemono = quà cảm ơn, ≈2kg",
+        "body": "Hikidemono (引出物) = quà cảm ơn cô dâu chú rể đưa cuối wedding:\n- Thường gồm: catalog gift (chọn online sau) + box bánh kẹo + 1 món symbolic (đũa, khăn).\n- Trọng lượng 1.5-3kg, bag giấy đẹp.\n- ✅ **Nhận 2 tay + cảm ơn**.\n- ✅ **Không mở** trong wedding venue — đem về.\n- ✅ **Junior khách overseas**: plan space carry-on / check-in luggage trước. Catalog gift = giấy nhẹ, OK đem. Bánh kẹo nặng → check-in nếu over carry-on.\n- ✅ **Catalog gift**: chọn online trong 30 ngày. Free shipping VN cho 1 số catalog."
+      }
+    },
+    {
+      "n": 11,
+      "time": "Sat 19:00",
+      "location": "Pub Ginza — niji-kai sau wedding",
+      "setting": "Pub kiểu British style ở Ginza, nhỏ ấm cúng. 4 người: Matsumoto + Ōgaki + Inoue + Dũng. Tanaka đến 30 phút sau, ở 1 tiếng rồi về. Không khí relax sau wedding. Dũng được hỏi nhiều về cuộc sống ở HCMC, lần đầu kể chuyện gia đình mình với khách JP.",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "(ビール乾杯)じゃあ、ズンさん、長い1日お疲れ。",
+          "vi": "(kanpai bia) Vậy, Dũng vất vả ngày dài."
+        },
+        {
+          "speaker": "all",
+          "ja": "お疲れ様!",
+          "vi": "Vất vả!"
+        },
+        {
+          "speaker": "inoue_hakuo",
+          "ja": "ズンさん、結婚式どう感じた?",
+          "vi": "Dũng cảm thấy đám cưới sao?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(本気で)…正直、文化衝撃でした。良い意味で。日本の家族の表現、温かさのレイヤー、自分の VN のスタイルとも違うし、教科書で読んだのとも違いました。",
+          "vi": "(thật) … honest, văn hóa shock. Theo nghĩa tốt. Cách thể hiện gia đình của Nhật, layer ấm áp, khác cả cách Việt Nam của em lẫn sách giáo khoa em đọc."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "ズンさん、ベトナムの結婚式、自分の妹さんとか、最近あった?",
+          "vi": "Dũng à, đám cưới Việt Nam của em gái em chẳng hạn, gần đây có không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "妹はまだ大学生で結婚先。両親の結婚式の話、よく聞きました。1980年代、貧しかった時代、皆で助け合ってやった。お米とお肉持ち寄って、村全体で1日宴会。",
+          "vi": "Em gái còn đại học, kết hôn còn xa. Chuyện đám cưới bố mẹ em hay nghe. Thập niên 80, thời nghèo, mọi người tụ giúp nhau. Mang gạo với thịt tới, cả làng tổ chức 1 ngày tiệc."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "へえ、村全体で。日本もかつてはそうだった、戦後すぐの時代。今はホテルになっちゃった。",
+          "vi": "Cả làng à. Nhật trước cũng vậy, ngay sau chiến tranh. Giờ thành khách sạn."
+        },
+        {
+          "speaker": "inoue_hakuo",
+          "ja": "ズンさんのご両親、お元気?",
+          "vi": "Bố mẹ Dũng khỏe không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、元気です。父はリタイア教師、最近は趣味で書道。母は小さい商売、毎朝5時起き。妹は IT 系専攻、来年卒業。",
+          "vi": "Vâng, khỏe ạ. Bố em nghỉ giáo viên, gần đây thư pháp làm hobby. Mẹ em buôn bán nhỏ, mỗi sáng dậy 5h. Em gái chuyên ngành IT, năm sau ra trường."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(優しく)妹さん、IT 系か。ベトナムの IT 業界、女性増えてる?",
+          "vi": "(dịu) Em gái IT à. Ngành IT Việt Nam, nữ tăng không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ええ、徐々に。FE 系は女性多めです。妹もフロントエンド志望。卒業したら、ティエンファットに来てもらえないか chairs CTO に頼んでみたいですが…公私混同かもしれない(笑)",
+          "vi": "Vâng, dần dần. FE có nhiều nữ. Em gái cũng định FE. Tốt nghiệp em định nhờ anh Hà CTO em xem xét cho vào Tien Phat… nhưng có thể là công-tư lẫn lộn (cười)"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(笑)それは普通だよ、ベトナムも日本も、家族紹介で入社する人はいる。CTO がスキル見れば判断する話。",
+          "vi": "(cười) Cái đó bình thường mà, Việt Nam Nhật cũng, người vào cty qua giới thiệu family có. CTO xem skill là chuyện đánh giá."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Tanaka đến 19:30. Yukata casual thay wedding suit. Tươi tắn.]"
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "(到着)皆さーん!1時間だけ参戦!",
+          "vi": "(đến) Mọi ngươi! Em chỉ tham 1 tiếng!"
+        },
+        {
+          "speaker": "all",
+          "ja": "(笑、拍手)新郎来た!",
+          "vi": "(cười, vỗ tay) Chú rể đến!"
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "(ズンに)ズンさん、本当に今日来てくれてありがとう。お父さんのスピーチ、由美の顔、全部見てくれた。家族同様。",
+          "vi": "(với Dũng) Dũng thực sự cảm ơn em hôm nay đến. Speech bố em, mặt Yumi, em đều nhìn. Như family."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(深く)田中さん、私の方こそ、招待していただいて本当に光栄です。生涯忘れません。",
+          "vi": "(sâu) Anh Tanaka, em mới là người vinh dự được mời ạ. Cả đời em không quên."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "じゃあ、来年 HCMC 行ったら、ズンさんの両親にも会いたい。可能?",
+          "vi": "Vậy, năm sau qua HCMC em muốn gặp bố mẹ Dũng. Được không?"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng giật mình — Tanaka want meet parents. Đó là level relationship cực sâu.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(感動)もちろんです、是非。両親に伝えます、すごく喜ぶと思います。",
+          "vi": "(xúc động) Đương nhiên ạ, em rất mong. Em sẽ báo bố mẹ, em nghĩ ông bà vui lắm."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Niji-kai sau wedding — share gia đình mình",
+        "body": "Niji-kai sau wedding = relationship đã sang level 'family-acquaintance':\n- ✅ **Senior ask về family bạn** = signal genuine interest, không small talk.\n- ✅ **Share family chi tiết cụ thể** — bố hobby thư pháp, mẹ dậy 5h, em gái IT — cá nhân hóa hơn 'gia đình em ổn'.\n- ✅ **Vulnerable share** — câu chuyện đám cưới bố mẹ thập niên 80 = window vào lịch sử personal, deepen relationship.\n- ✅ **Tanaka invite meet parents** = relationship cuối chương sang level 'sẽ vào nhà nhau'. Career-defining moment.\n- ✅ **Reciprocate invitation** — Dũng promise báo bố mẹ + welcome.\n- Niji-kai short (1 tiếng) post-wedding = ideal — không kéo dài cho new groom."
+      }
+    }
+  ],
+  "recap": {
+    "setting": "Sáng Sun trên máy bay JAL về HCMC, ghế cửa sổ. Dũng mở Notes app — final note Sách 09.",
+    "format": "code_block",
+    "content": "2027-05-XX  Tanaka Wedding — Imperial Tokyo (Sat all-day + Sun departure)\n\n3 điều rút ra:\n1. Wedding Tanaka = chứng minh relationship 2 năm đã sang level 'family'.\n   Matsumoto explain '80 khách, ngoài cty hầu như family — em VN duy nhất'.\n   → Đây là proof không phải 'business friendship' nữa, là 'human friendship'.\n2. Speech bố Tanaka khóc → Dũng khóc theo. Emotion universal, không cần\n   hiểu tiếng Nhật hết. Wedding window vào history family Nhật.\n   → Văn hóa Nhật ấm hơn nhiều mức bạn bè VN từng kể.\n3. Niji-kai Tanaka invite gặp bố mẹ Dũng năm sau HCMC.\n   → Relationship sang chiều 'family-to-family'. Career-defining.\n\n3 mistakes không lặp:\n1. Goshugi tiền hướng sai → ôn rule next wedding (đã 4-5 năm tới?).\n2. Hikidemono nặng quên plan luggage → next wedding pack carry-on space.\n3. Cravat trắng-bạc — phải mua lúc đến Tokyo Friday, không có VN.\n   → Buy 2-3 cái standby cho future weddings.\n\nAction items:\n- [ ] Today: gửi Slack Tanaka + Yumi 5 photo + video cake cutting\n- [ ] Today: gửi Tanaka thank-you email formal — mention wedding details\n- [ ] This week: chọn catalog gift online (30 ngày deadline)\n- [ ] Báo bố mẹ HCMC về Tanaka invite gặp năm sau — preparation mental + practical\n- [ ] Note dietary của Tanaka (chay) — apply cho dinner gặp gia đình\n- [ ] Hỏi Hùng (Thanh Hà) về phong cách host khách JP gặp parents\n- [ ] Buy 2 cravat trắng-bạc Aoki khi qua Tokyo lần tới\n- [ ] Update Phase 5 sprint sched accommodate Tokyo onsite 6 tháng từ\n  Q1 2027 — đã agree Matsumoto chương 7\n- [ ] LinkedIn post brief về 'guest at JP wedding — cultural insight'\n  (không tag Tanaka direct — Tanaka privacy)\n\nMình:\n- Sách 09 chương 8 — đây là chương cuối arc Dũng từ Phase 1 BD junior\n  đến hôm nay. Khoảng 3 năm narrative trong sách.\n- Wedding Tanaka = bookend cho relationship Hakuō. Bắt đầu chương 1\n  IT Week với Tanaka 'PMO mặt strict', kết chương 8 với Tanaka 'mời\n  gặp bố mẹ em'. Distance traveled invisible nhưng huge.\n- Tokyo onsite 6 tháng start Q1 2027 — chương cuối arc 'em VN học JP',\n  bắt đầu arc mới 'em VN đại diện ở Tokyo'.\n- Mệt body 10 phần, đầu nhẹ + lòng đầy 10 phần. Thank you Tanaka,\n  thank you Hakuō team, thank you Hương + Tuấn + Linh + Hải.\n\n---\nEnd of Sách 09 Chương 8 — em viết note cuối. Máy bay sắp hạ HCMC.\nẤy là phở mẹ nấu. Nhà."
+  }
+}

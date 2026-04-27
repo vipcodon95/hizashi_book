@@ -1,0 +1,189 @@
+{
+  "rule_id": "rule_39",
+  "rule_slug": "1on1ミーティング",
+  "title": {
+    "ja": "1on1ミーティング（進捗・課題・相談・次のステップ）",
+    "vi": "1-on-1 với cấp trên Nhật"
+  },
+  "rule_context": {
+    "ja": "ズンが週次1on1でフオン副部長に対し、Phase 2の進捗・QAリソース不足の課題・追加アサイン相談・次ステップを4部構成で報告する場面。",
+    "vi": "1on1 hàng tuần em Dũng với chị Hương: báo cáo phase 2 với cấu trúc 4 phần (progress / challenge / ask / next step). Có note Notion chuẩn bị trước."
+  },
+  "related_rules": ["rule_09", "rule_41", "rule_50"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 雑談化",
+      "label_vi": "XẤU — Lan man chat",
+      "display_order": 1,
+      "analysis": {
+        "ja": "事前準備なし、抽象的な言葉のみで上司は何を支援すべきか判別できない。1on1の機会を無駄にする。",
+        "vi": "Không chuẩn bị, dùng từ trừu tượng → senior không biết phải support gì. Lãng phí 1on1."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_39_bad_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ズン、最近どう？",
+          "sentence_translation": "Dũng, dạo này thế nào?",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_39_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えーと、まあまあです。なんか色々忙しくて…",
+          "sentence_translation": "Ơ... cũng được ạ. Cũng nhiều việc...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_39_bad_03",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "具体的には？",
+          "sentence_translation": "Cụ thể là gì?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_39_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "うーん、Phase 2 とかが…大変です。",
+          "sentence_translation": "Ừm, phase 2 ấy ạ... vất vả ạ.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_39_bad_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ズン、次回はメモ準備してきて。",
+          "sentence_translation": "Dũng, lần sau chuẩn bị note nhé.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 進捗・課題・相談・次の4部構成",
+      "label_vi": "TỐT — Cấu trúc 4 phần",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_39_good_01",
+          "highlight_text": "4点ご報告と1点ご相談がございます",
+          "ja": "件数を予告することで上司は時間配分を判断できる。",
+          "vi": "Báo trước số item → senior biết phân bổ thời gian."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_39_good_04",
+          "highlight_text": "もう1名、6月までQAをアサインいただくことは可能でしょうか",
+          "ja": "「お願い」を曖昧にせず、具体的な数値+期限で問う。",
+          "vi": "Không xin chung chung, mà hỏi cụ thể (1 người + đến tháng 6)."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_39_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、本日の1on1、4点ご報告と1点ご相談がございます。",
+          "sentence_translation": "Chị Hương, 1on1 hôm nay em xin báo cáo 4 điểm và xin tham vấn 1 điểm ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_39_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "【進捗】①Phase 2のスコープ協議完了、A案で確定 ②議事録は本日中送付予定 ③松本様より追加要件3件受領、対応中",
+          "sentence_translation": "[Progress] (1) Đã xong bàn scope phase 2, chốt phương án A, (2) biên bản gửi trong hôm nay, (3) anh Matsumoto gửi thêm 3 yêu cầu, đang xử lý.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_39_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "【課題】QAリソースが現在2名のみで、5月末リリースまで足りない見込みでございます。",
+          "sentence_translation": "[Challenge] Hiện chỉ có 2 QA, dự kiến không đủ cho đến release cuối tháng 5 ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_39_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "【ご相談】もう1名、6月までQAをアサインいただくことは可能でしょうか？",
+          "sentence_translation": "[Tham vấn] Có thể assign thêm 1 QA đến tháng 6 được không ạ?",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_39_good_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "了解。経理と調整して、今週中に回答するね。",
+          "sentence_translation": "OK em. Để chị bàn với kế toán, trong tuần này chị trả lời nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_39_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。【次のステップ】フオン副部長からのご回答後、QAリーダーと工数再見積もりを実施いたします。",
+          "sentence_translation": "Em cảm ơn chị ạ. [Next step] Sau khi nhận trả lời của chị, em sẽ làm re-estimate man-hour với QA leader ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_39_kp_01",
+      "speaker": "zun",
+      "sentence": "本日の1on1、〇点ご報告と〇点ご相談がございます。",
+      "sentence_translation": "1on1 hôm nay em xin báo cáo 〇 điểm và xin tham vấn 〇 điểm ạ.",
+      "purpose": "1on1 オープナー",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_39_kp_02",
+      "speaker": "zun",
+      "sentence": "【ご相談】〜は可能でしょうか？",
+      "sentence_translation": "[Tham vấn] 〜 có được không ạ?",
+      "purpose": "上司への明確な相談リクエスト",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_39_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "上司との1on1で最も価値ある進め方はどれか？",
+      "options": [
+        "雑談中心で関係を作る",
+        "進捗・課題・相談・次のステップの4部構成で具体的に報告する",
+        "課題だけを延々と話す",
+        "上司に質問されるまで何も話さない"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "1on1は構造化された対話の場。進捗→課題→相談→次の構成で上司の支援を最大化できる。",
+        "vi": "1on1 là chỗ trao đổi có cấu trúc. Progress → Challenge → Ask → Next tối ưu hỗ trợ từ senior."
+      }
+    }
+  ]
+}

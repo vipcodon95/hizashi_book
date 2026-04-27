@@ -1,0 +1,299 @@
+{
+  "rule_id": "08-44",
+  "rule_slug": "二次会",
+  "title": {
+    "vi": "一次会・二次会・締め",
+    "ja": "一次会・二次会"
+  },
+  "rule_context": {
+    "luan_diem_vi": "Buổi nhậu JP có 3 lớp: 一次会 izakaya 2-2.5h → 二次会 bar/karaoke 1-1.5h → 締め 30-45'. Junior phải biết khi nào về, khi nào ở. Sai = mất bonding hoặc bị xem 'thiếu sức bền'.",
+    "luan_diem_ja": "飲み会は3層構造。一次会(食)→二次会(本音バー)→締め(ラーメン)。最若手は退場・残留の判断+読みが命。",
+    "boi_canh_vi": "Tháng 5/2026, dinner Phase 4 closing đang ở cuối 一次会. Ōgaki muốn 二次会. Dũng quyết định + lead.",
+    "boi_canh_ja": "2026年5月、フェーズ4クロージング夜、一次会終盤。大垣が二次会希望、ズンが判断・先導。",
+    "muc_tieu_vi": "Master 3 lớp buổi nhậu — biết khi nào ở lại bonding, khi nào xin về."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "42",
+      "topic": "Izakaya order"
+    },
+    {
+      "book": "08",
+      "rule": "43",
+      "topic": "乾杯・お酌"
+    },
+    {
+      "book": "08",
+      "rule": "45",
+      "topic": "Karaoke"
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "Chuyển 一次会 → 二次会",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "oogaki_sales",
+          "ja": "ズン、二次会どうする?この近くに俺のお気に入りのバーがあるんだが…",
+          "vi": "Dũng, tăng 2 không? Quanh đây có bar anh ưa thích..."
+        },
+        {
+          "speaker": "zun",
+          "ja": "松本さんは今日はここまでって先ほど。残り4名で二次会、ぜひお願いします。",
+          "vi": "Anh Matsumoto vừa nói anh ấy về tới đây thôi ạ. 4 người còn lại đi tăng 2 ạ, mời anh dẫn đường."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "OK。じゃ松本、お疲れ。ズンら、行こか。",
+          "vi": "OK. Matsumoto vất vả nhé. Dũng và mọi người đi."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "皆さん、お疲れ様。二次会楽しんで。",
+          "vi": "Mọi người vất vả. Tăng 2 vui vẻ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "松本さん、お気をつけて。今日はありがとうございました。",
+          "vi": "Anh Matsumoto đi cẩn thận. Hôm nay cảm ơn anh."
+        },
+        {
+          "speaker": "zun",
+          "ja": "大垣さん、お店のご案内をお願いします。",
+          "vi": "Anh Ōgaki, anh dẫn quán giúp em ạ."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "銀座一丁目の『ベルトラム』。古いウイスキーバーで、店長と仲良いんだ。",
+          "vi": "Bar 'Bertram' Ginza 1-chome. Bar whisky cũ, anh thân với chủ."
+        }
+      ]
+    },
+    {
+      "scenario": "二次会 — senior hé lộ thật",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "oogaki_sales",
+          "ja": "ズンも飲める?山崎12年で乾杯。",
+          "vi": "Dũng uống được không? Yamazaki 12 năm cạn ly."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ありがとうございます。ウイスキーは詳しくないんですが、是非。",
+          "vi": "Cảm ơn anh. Em không rành whisky nhưng nhất định ạ."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "実はな、Phase 4の最初、内心では『大丈夫かな?』って思ってたんだ。けど、ズンとトゥアンが粘ってくれて…",
+          "vi": "Thật ra Phase 4 ban đầu trong lòng tôi đã thấy 'liệu có ổn không?'. Nhưng Dũng và Tuấn đã cố gắng..."
+        },
+        {
+          "speaker": "zun",
+          "ja": "…そうだったんですか。光栄です。",
+          "vi": "...Vậy à anh. Em vinh hạnh ạ."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "Phase 5の話、本当はもう動いてる。3週間後に正式提案するけど、心構えしといて。",
+          "vi": "Phase 5 thật ra đã chuyển động. 3 tuần nữa anh đề xuất chính thức, em chuẩn bị tinh thần đi."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ありがとうございます。社内で準備しておきます。",
+          "vi": "Cảm ơn anh. Em sẽ chuẩn bị nội bộ ạ."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "ズン、ベトナムの人ってこんなにウイスキー好き?",
+          "vi": "Dũng, người VN cũng mê whisky vậy à?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "実はベトナムも最近ウイスキーバー流行ってます。ホーチミンの『EON Heli Bar』なんかは山崎・響を揃えてて、駐在員に人気です。",
+          "vi": "Thực ra VN gần đây bar whisky cũng hot. EON Heli Bar HCM có Yamazaki + Hibiki, expat ưa."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "ホーチミン行くとき教えて。",
+          "vi": "Khi nào tôi đi HCM em chỉ nhé."
+        }
+      ]
+    },
+    {
+      "scenario": "Tuấn xin về sớm — phrase chuẩn",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "tuan_leader",
+          "ja": "大垣さん、本当に申し訳ないんですが、明日6時の便で大阪へ戻ることになっておりまして、先に失礼させていただいてもよろしいでしょうか?",
+          "vi": "Anh Ōgaki, thật sự xin lỗi anh, sáng mai 6h em bay về Osaka, em xin phép về trước được không ạ?"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "あ、明日朝早いか。OK、お疲れ様。気をつけて。",
+          "vi": "À, sáng mai sớm nhỉ. OK, em vất vả. Cẩn thận về."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "ありがとうございます。今夜は本当にありがとうございました。Phase 4の件、引き続きよろしくお願いします。",
+          "vi": "Cảm ơn anh. Tối nay em cảm ơn anh nhiều. Phase 4 mong anh tiếp tục giúp đỡ."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "田中さん、ズン、お先に。",
+          "vi": "Anh Tanaka, Dũng, anh về trước."
+        },
+        {
+          "speaker": "zun",
+          "ja": "お疲れ様、気をつけて。",
+          "vi": "Anh vất vả, đi cẩn thận."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "ズン、残った方が良ければ残っていい。Phase 5の流れ、聞いておけ。",
+          "vi": "Dũng, em ở lại được thì ở. Phase 5 nghe nắm flow đi."
+        },
+        {
+          "speaker": "zun",
+          "ja": "了解、もう少し残ります。",
+          "vi": "Vâng, em ở thêm chút ạ."
+        }
+      ]
+    },
+    {
+      "scenario": "締め ラーメン + escort taxi",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "oogaki_sales",
+          "ja": "最後、ラーメン行く?銀座の『むぎとオリーブ』、24時間営業や。",
+          "vi": "Cuối, ramen không? 'Mugi to Olive' Ginza mở 24h."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "行きましょう!",
+          "vi": "Đi đi anh!"
+        },
+        {
+          "speaker": "zun",
+          "ja": "大垣さんも、お時間大丈夫ですか?",
+          "vi": "Anh Ōgaki có ổn về thời gian không ạ?"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "俺は明日午前休みやから。ズンは?",
+          "vi": "Anh sáng mai nghỉ. Dũng?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ぜひお供させてください。ハノイにも『締め麺』の文化あるので、東京でも経験したいです。",
+          "vi": "Em xin tháp tùng anh. HN cũng có văn hóa 'mì chốt' nên em muốn trải nghiệm ở Tokyo ạ."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "これでお開きや。明日朝は会社で会おう。",
+          "vi": "Đến đây kết thúc. Sáng mai gặp ở công ty."
+        },
+        {
+          "speaker": "zun",
+          "ja": "今日も貴重なお話、ありがとうございました。Phase 5の件、社内で準備します。",
+          "vi": "Hôm nay anh chia sẻ những điều quý báu, em cảm ơn ạ. Phase 5 em chuẩn bị nội bộ."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "ズン、お疲れ。",
+          "vi": "Dũng, em vất vả."
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "Chuyển 一次→二次",
+      "ja": "残り[N]名で二次会、ぜひお願いします。",
+      "vi": "[N] người còn lại tăng 2, mời anh dẫn đường.",
+      "use": "Confirm sau khi scan bàn"
+    },
+    {
+      "category": "二次",
+      "ja": "[senior]さん、お店のご案内をお願いします。",
+      "vi": "Anh [senior], anh dẫn quán giúp em.",
+      "use": "Defer to senior"
+    },
+    {
+      "category": "二次 listening",
+      "ja": "…そうだったんですか。光栄です。",
+      "vi": "...Vậy à anh. Em vinh hạnh.",
+      "use": "Khi senior hé lộ thật"
+    },
+    {
+      "category": "Xin về",
+      "ja": "[senior]さん、本当に申し訳ないんですが、[lý do], 先に失礼させていただいてもよろしいでしょうか?",
+      "vi": "Anh [senior], thật sự xin lỗi, [lý do], em xin phép về trước ạ?",
+      "use": "Phrase chuẩn xin về"
+    },
+    {
+      "category": "Xin về",
+      "ja": "今夜は本当にありがとうございました。引き続きよろしくお願いします。",
+      "vi": "Tối nay cảm ơn anh nhiều. Mong anh tiếp tục giúp đỡ.",
+      "use": "Đóng business mode"
+    },
+    {
+      "category": "締め bridge",
+      "ja": "ハノイにも『締め麺』の文化あるので、東京でも経験したいです。",
+      "vi": "HN cũng có 'mì chốt', muốn trải nghiệm ở Tokyo.",
+      "use": "Bridge VN-JP"
+    },
+    {
+      "category": "Closing",
+      "ja": "今日も貴重なお話、ありがとうございました。",
+      "vi": "Hôm nay anh chia sẻ những điều quý báu, cảm ơn anh.",
+      "use": "Escort taxi"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "Senior が『二次会どうする?』と聞いた時、最若手の最適な対応は?",
+      "options": [
+        "A. 即座に「行きません」と断る",
+        "B. テーブルをスキャンして誰が帰る誰が残るかを確認、Senior に集計を伝えて決定を委ねる",
+        "C. 自分で店を提案する",
+        "D. 「いや、もう疲れたので」と私的理由で断る"
+      ],
+      "answer": "B",
+      "explain_vi": "Junior scan + report + defer = pro. A miss bonding; C tự đề xuất sai role; D thiếu sức bền."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "二次会で先に帰る時、最も適切な日本語表現は?",
+      "options": [
+        "A. 「もう帰ります」",
+        "B. 「[Senior]さん、本当に申し訳ないんですが、[lý do]、先に失礼させていただいてもよろしいでしょうか?」",
+        "C. 「お先に失礼!」(casual)",
+        "D. 黙って消える"
+      ],
+      "answer": "B",
+      "explain_vi": "Phrase chuẩn: addressee + apology + concrete reason + permission form. A vắn cụt; C casual quá; D NG."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "二次会でSenior が『内心では大丈夫かな?って思ってた』と本音を漏らした時、最適な反応は?",
+      "options": [
+        "A. 笑い飛ばして話題を変える",
+        "B. 黙って一礼後『…そうだったんですか。光栄です』と短く受ける",
+        "C. 「いや、私たちはずっと自信ありました」と返す",
+        "D. お酒のおかわりを店員に頼む"
+      ],
+      "answer": "B",
+      "explain_vi": "Senior 内心 hé lộ = moment quý → listen, react gọn, KHÔNG cướp lời. A phá; C arrogant; D miss moment."
+    }
+  ],
+  "templates": []
+}

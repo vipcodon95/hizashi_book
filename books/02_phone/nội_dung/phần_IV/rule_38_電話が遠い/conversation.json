@@ -1,0 +1,107 @@
+{
+  "rule_id": "rule_38",
+  "rule_slug": "聞き取れない時の言い方",
+  "title": {
+    "ja": "お電話が遠いようですが",
+    "vi": "Khi nghe không rõ — câu chuẩn"
+  },
+  "rule_context": {
+    "ja": "通話品質が悪く相手の声が聞き取れない時、『お電話が遠いようですが』と婉曲に伝えるマナー。",
+    "vi": "Khi line kém không nghe rõ, dùng cách nói vòng 「お電話が遠いようですが」 để tránh đổ lỗi cho đối phương."
+  },
+  "related_rules": [
+    "rule_39",
+    "rule_13"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例",
+      "label_vi": "XẤU",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『声が小さい』は相手のせいにする表現で失礼。",
+        "vi": "「声が小さい」 = đổ lỗi đối phương nói nhỏ — bất lịch sự."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_38_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "すみません、声が小さいんですが…",
+          "sentence_translation": "Xin lỗi, anh nói nhỏ quá em không nghe được…",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 2,
+      "analysis": {
+        "ja": "『お電話が遠い』は通話品質のせいにする婉曲表現。誰のせいでもなく自然に再依頼できる。",
+        "vi": "「お電話が遠い」 = đổ cho line — không trách ai, dễ xin lặp lại."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_38_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "申し訳ございません。お電話が遠いようでございますが、もう一度お願いできますでしょうか？",
+          "sentence_translation": "Em xin lỗi ạ. Hình như line không được rõ, anh nói lại giúp em được không ạ?",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_38_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "失礼しました。今は聞こえますか？",
+          "sentence_translation": "Xin lỗi em. Bây giờ nghe được chưa?",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_38_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "はい、はっきり聞こえます。ありがとうございます。",
+          "sentence_translation": "Vâng, em nghe rõ rồi ạ. Cảm ơn anh ạ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_38_kp_01",
+      "speaker": "zun",
+      "sentence": "お電話が遠いようでございますが、もう一度お願いできますでしょうか？",
+      "sentence_translation": "Hình như line không rõ, anh nói lại giúp em được không ạ?",
+      "purpose": "聞き取れない時の婉曲依頼",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_38_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "聞き取れない時の最も丁寧な言い方は？",
+      "options": [
+        "声が小さいです",
+        "もっと大きく話してください",
+        "お電話が遠いようですが",
+        "聞こえません"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "『お電話が遠い』が婉曲で相手を責めない表現。",
+        "vi": "「お電話が遠い」 là cách nói vòng không trách đối phương."
+      }
+    }
+  ]
+}

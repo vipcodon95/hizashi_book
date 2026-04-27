@@ -1,0 +1,183 @@
+{
+  "rule_id": "rule_07",
+  "rule_slug": "バックアップ計画",
+  "title": {
+    "ja": "バックアップ計画 (Plan B)",
+    "vi": "Backup plan (Plan B)"
+  },
+  "rule_context": {
+    "ja": "プレゼン前日にハイDevOpsが立ち寄り、ズンの single-point-of-failure (Dropboxのみ＋ライブAPIデモ) を発見。Plan Bチェックリストで5点揃えさせる場面。",
+    "vi": "Hôm trước pitch, Hải DevOps phát hiện setup của Dũng có quá nhiều single point of failure (Dropbox only + live API demo). Bắt Dũng làm theo checklist Plan B 5 điểm."
+  },
+  "related_rules": [
+    "rule_01",
+    "rule_29",
+    "rule_31"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 単一障害点だらけ",
+      "label_vi": "XẤU — Toàn single point of failure",
+      "display_order": 1,
+      "analysis": {
+        "ja": "クラウド only + ライブAPIデモ + 1ケーブル。1点でも落ちれば全滅。技術トラブルは『if』ではなく『when』。",
+        "vi": "Cloud only + live API demo + 1 cable. Bất kỳ điểm nào fail là chết. Tech fail là chuyện khi nào, không phải nếu."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_07_bad_01",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "ズン、明日プレゼン？スライドどこ？",
+          "sentence_translation": "Dũng, mai pitch hả? Slide ở đâu?",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_07_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Dropboxです。明日 Wi-Fi 借りて開きます。",
+          "sentence_translation": "Trên Dropbox ạ. Mai mượn Wi-Fi mở.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_07_bad_03",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "Dropbox オンリー？Wi-Fi 落ちたら deck 開けないよ。デモは？",
+          "sentence_translation": "Mỗi Dropbox? Wi-Fi rớt là không mở được deck đâu. Còn demo?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_07_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ライブAPI呼ぶ実装で…",
+          "sentence_translation": "Em implement gọi API live ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_07_bad_05",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "全部 single point of failure。明日朝3時に起きて慌てる前に、今日Plan B 揃えよう。",
+          "sentence_translation": "Toàn single point of failure đấy. Trước khi 3h sáng mai dậy hoảng loạn, hôm nay tụi mình set up Plan B đi.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — Plan B 5点揃え",
+      "label_vi": "TỐT — Setup đủ 5 điểm Plan B",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_07_good_01",
+          "highlight_text": "Plan Bチェックリスト",
+          "ja": "5点チェックリスト: PDF/オフラインデモ/テザリング/アダプタ3種/印刷5部。24h前と当日朝の2回確認。",
+          "vi": "Checklist 5 điểm: PDF / demo offline / tethering / 3 loại adapter / 5 bản in. Check 2 lần (24h trước + sáng pitch)."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_07_good_03",
+          "highlight_text": "もう1本はトゥアンさんに渡します",
+          "ja": "Co-presenter 経由の冗長化。1人が遅刻 / USB紛失 でも他方がカバー。",
+          "vi": "Redundancy qua co-presenter. 1 người trễ hoặc mất USB thì người kia cover được."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_07_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ハイさん、ありがとう。Plan Bチェックリストで揃えました。①PDF版 USB+ローカル、②オフラインデモ準備、③テザリング有効、④HDMI+USB-C+VGAアダプタ持参、⑤印刷5部。",
+          "sentence_translation": "Anh Hải, cảm ơn anh ạ. Em đã chuẩn bị xong theo checklist Plan B. ① Bản PDF trên USB + local, ② demo offline, ③ tethering bật sẵn, ④ mang HDMI + USB-C + VGA adapter, ⑤ in 5 bản.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_07_good_02",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "いいね。USB は2本？1本紛失リスク。",
+          "sentence_translation": "OK. USB 2 chiếc đúng không? 1 chiếc rủi ro mất đấy.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_07_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "2本持参します。もう1本はトゥアンさんに渡します(co-presenter として保険)。",
+          "sentence_translation": "Em mang 2 chiếc ạ. Một chiếc đưa anh Tuấn (làm bảo hiểm với tư cách co-presenter).",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_07_good_04",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "正解。それと PDF はクライアント側にも事前共有しておくと、最悪『画面共有なしで紙ベース』に切り替えできる。",
+          "sentence_translation": "Chuẩn. Với cả PDF share trước cho khách luôn — tệ nhất thì switch sang 「không share screen, chỉ dùng giấy」 cũng được.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_07_kp_01",
+      "speaker": "zun",
+      "sentence": "Plan Bチェックリストの5点を揃えました。",
+      "sentence_translation": "Em đã chuẩn bị xong 5 điểm trong checklist Plan B ạ.",
+      "purpose": "バックアップ完了報告",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_07_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "プレゼン前日のバックアップ準備として最も不適切なのは？",
+      "options": [
+        "PDF版を USB×2本 + クラウドに保存",
+        "オフラインデモを準備",
+        "クラウドのみに保存し当日 Wi-Fi で開く",
+        "HDMI/USB-C/VGA 3種のアダプタを持参"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "クラウドのみは Wi-Fi 落ちたら詰む。USB+ローカル+クラウドの3層が原則。",
+        "vi": "Chỉ cloud thì Wi-Fi rớt là chết. Phải 3 lớp: USB + local + cloud."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_07_tpl_01",
+      "format": "checklist",
+      "title_ja": "プレゼン Plan B チェックリスト",
+      "title_vi": "Checklist Plan B trước Pitch",
+      "content_ja": "【プレゼン Plan B チェックリスト】(24時間前 + 当日朝)\n\n■ スライド (Slides)\n□ PowerPoint/Keynote 元ファイル: クラウド + ローカル\n□ PDF版: USB×2本 + ローカル + クラウド\n□ Google Slides Web版バックアップ\n□ 印刷配布版: 主要スライドのみ 5-10部\n\n■ デモ (Demo)\n□ オフライン版デモ (local DB / mock data)\n□ 録画版デモ (.mp4 USB+ローカル) — 最終の最終\n□ デモ用 test account 動作確認\n\n■ ネットワーク (Network)\n□ モバイルテザリング有効 (4G/5G)\n□ ポケットWi-Fi 充電済み (予備)\n□ オフライン優先モード設定済み\n\n■ 機材 (Equipment)\n□ HDMI ケーブル\n□ USB-C → HDMI / VGA アダプタ\n□ Lightning → HDMI (iPad backup用)\n□ 充電器 + 延長コード\n□ レーザーポインター (電池予備)\n\n■ 配布物 (Handout)\n□ 名刺 20枚以上\n□ 印刷スライド主要部 5部\n□ 会社案内 / 過去事例集 5部\n\n■ 担当者間 (Team redundancy)\n□ Co-presenter にも USB 1本\n□ Slack で deck PDF を相互送信\n□ 万一の連絡先メモ (ホテル / タクシー会社 等)\n\n■ 当日朝 final\n□ 機材 全 connect テスト\n□ 音声 / 画面共有 テスト\n□ Q&A appendix スライド再確認",
+      "content_vi": "[Checklist Plan B Pitch] (24h trước + sáng ngày pitch)\n\n[Slide]\n- File gốc PowerPoint/Keynote: cloud + local\n- Bản PDF: USB×2 + local + cloud\n- Google Slides Web backup\n- Bản in: chỉ slide chính 5-10 bản\n\n[Demo]\n- Demo offline (local DB / mock data)\n- Demo bản ghi hình (.mp4 USB+local) — cuối cùng của cuối cùng\n- Test account demo: kiểm tra chạy được\n\n[Network]\n- Tethering 4G/5G bật sẵn\n- Pocket Wi-Fi sạc đầy (dự phòng)\n- Bật offline priority mode\n\n[Thiết bị]\n- Cáp HDMI\n- Adapter USB-C → HDMI / VGA\n- Lightning → HDMI (iPad backup)\n- Sạc + dây nối dài\n- Laser pointer (pin dự phòng)\n\n[Tài liệu phát]\n- Danh thiếp 20+ chiếc\n- In slide chính 5 bản\n- Brochure / case study 5 bản\n\n[Redundancy team]\n- Co-presenter cũng giữ 1 USB\n- Send deck PDF qua Slack cho nhau\n- Note liên hệ phòng hờ (khách sạn / hãng taxi)\n\n[Sáng ngày pitch — final]\n- Test connect đủ thiết bị\n- Test audio / screen share\n- Re-check appendix slide cho Q&A",
+      "notes_ja": "24h前に1回、当日朝に1回。5点全部 ✅ で出発。1点でも未済なら持参してから現地で対応。",
+      "notes_vi": "Check 2 lần: 24h trước + sáng ngày. Tất cả 5 điểm ✅ thì mới lên đường. Còn sót 1 điểm thì mang theo xử lý sau."
+    }
+  ]
+}

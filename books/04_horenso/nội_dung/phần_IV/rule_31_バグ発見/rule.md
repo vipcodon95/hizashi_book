@@ -1,0 +1,97 @@
+# Rule 31 — Phát hiện bug — Hou-Ren-Sou flow / バグ発見時
+
+> **Luận điểm.** Bug critical (production down / data corruption / security) là tình huống áp lực đỉnh. Phải có **escalation flow định trước**: **(1) Detect → ngay** **(2) Slack #incident channel + tag Tuấn (Tech lead)** trong **5 phút**, **(3) Tuấn xác nhận severity → escalate Hà CTO** trong **15 phút**, **(4) Hà CTO + Dũng cùng draft thông báo + escalate Matsumoto** trong **30 phút**, **(5) Investigation + ETA** trong **60 phút**, **(6) Resolve + post-mortem** trong **24h**. Time limit per step = SLA team. Bỏ qua step = "đi tắt" → bê trễ chuỗi.
+>
+> インシデント発見時の時間SLA：①検知0分→②Slack #incident + Tech lead 5分→③CTO 15分→④客通知 30分→⑤ETA 60分→⑥解決+post-mortem 24h。各ステップを飛ばすと連鎖遅延。
+>
+> **Liên quan:** rule 07 (悪い知らせ報告), rule 13 (即時連絡), rule 17 (緊急連絡優先順位).
+
+---
+
+## Bối cảnh / 場面
+
+Thứ Ba 22/4 14:30. Em Hải (DevOps) phát hiện production API trả 500 error rate ~30% (khoảng 200 user bị affect). Critical incident. So sánh 2 flow.
+
+---
+
+## ❌ Hội thoại XẤU — bypass + 1 mình điều tra
+
+*14:30 · 14:50, 20分後 · 15:30, 1時間後、Slack*
+
+| Speaker | Câu |
+|---------|-----|
+| **ハイ** | (1人で) 「あれ、エラー多いな…とりあえずログ見てみよう…」 |
+|  | 「うーん、原因分からない…とりあえずもう少し調べよう…」 |
+|  | 「@トゥアン、production API がエラー多いんですけど…」 |
+| **トゥアン** | 「**なんで1時間も黙ってた!?** 客に既に Twitter で晒されてるよ。フローを守って: 検知5分以内に #incident チャネル投稿。1人で抱え込むな。」 |
+
+**Vì sao xấu:** L1 1 mình điều tra 1 giờ — production critical incident không phải 1 người thử. L3 sau 1 tiếng = đã có user complaint trên social. L4 chỉ ra: tốc độ > tự tin "cứ tự xử".
+
+---
+
+## ✅ Hội thoại TỐT — chuỗi escalation theo SLA
+
+*14:30, Slack #incident · 14:35 · 14:45 · 15:00, Slack 客先 + Email · 15:05 · 15:25, Slack #incident · 15:30, メール*
+
+| Speaker | Câu |
+|---------|-----|
+| **ハイ** | 「🚨 **【Incident #INC-2026-0422-01】** 検知時刻: 14:30 / 影響: production API、500 error率約30% / 推定影響ユーザー: 200名 / 検知者: ハイ / 現在: ログ確認中。**@tuan_leader 確認お願いします**【1】。」 |
+| **トゥアン** | 「確認、severity Sev1 (critical)。**@ha_cto エスカレーション**します。ハイは継続調査、ズン待機して顧客通知準備【2】。」 |
+| **ハーCTO** | 「Sev1 確認。**ズン、松本様への第一報を 15:00 までに**。内容:発生事実 + 影響範囲 + 調査中のステータス + ETA は 15:30 までに別途【3】。」 |
+| **ズン** | 「松本様、緊急ご連絡となり恐縮です。**14:30 頃から production API で一部障害が発生**しております。影響:ログイン後の検索画面の一部機能、推定 200 名【4】。**現在ティエンファット技術チームで調査中**、ETA は 15:30 までに別途ご報告いたします。誠に申し訳ございません【5】。」 |
+| **松本PM** | 「承知しました。ETA をお待ちします。当方からも社内に共有します。」 |
+| **ハイ** | 「原因: 14:00 デプロイの DB index に conflict。rollback 手順準備完了、15:30 実施で復旧見込み。」 |
+| **ズン** | 「松本様、**ETA ご報告**: 15:30〜15:45 で rollback 実施、15:45 復旧見込み。原因:本日デプロイの index 変更が想定外の lock を発生。詳細は復旧後 24時間以内に Post-mortem レポートをお送りいたします【6】。」 |
+
+📝 **Ghi chú:**
+- 【1】**5 phút SLA: Slack #incident + tag Tech lead** — không 1 mình. Time stamp + severity initial guess.
+- 【2】**15 phút SLA: Tech lead → CTO** — anh Tuấn không chần chừ, escalate ngay.
+- 【3】**30 phút SLA: CTO assign 客先 communication** — Hà CTO không tự đi báo khách, để Dũng (BD owner) handle với guidance.
+- 【4】**第一報 = fact ngắn + impact** — không nói nguyên nhân (chưa biết). Chỉ "発生事実 + 影響範囲".
+- 【5】**「現在調査中、ETA は別途」** — không hứa thời gian khi chưa biết. Tránh second false promise.
+- 【6】**Post-mortem 24h** — rule cuối: viết Post-mortem (5 Whys, action items) trong 24 giờ. Khách Nhật rất coi trọng.
+
+---
+
+## ⏱ Time SLA Cheat Sheet
+
+```
+T+0 phút    Detect
+T+5 phút    Slack #incident + tag Tech lead       (Hải)
+T+15 phút   Tech lead → escalate CTO              (Tuấn)
+T+30 phút   CTO + BD draft 客先 第一報           (Hà + Dũng)
+T+60 phút   ETA + initial cause to khách           (Dũng)
+T+resolved  復旧通知                              (Dũng)
+T+24h       Post-mortem report                    (Tuấn + Hà CTO)
+```
+
+---
+
+## 🎯 Câu chốt
+
+> **「Sev1 incident は1人で抱え込まない。5分→15分→30分→60分の SLA を守り、各ステップを飛ばさない。客への第一報は『事実 + 影響 + 調査中』のみ、ETA は別途。」**
+
+---
+
+## ⚠ Tránh
+
+- 1 người im lặng "tự xử" 30 phút trở lên — đã quá SLA tier 1.
+- 第一報 chứa nguyên nhân chưa xác định → second false promise.
+- ETA 「すぐ」「もうすぐ」 mơ hồ — phải số phút cụ thể.
+- Bỏ Post-mortem → khách Nhật assume team chưa học từ incident.
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 検知 | けんち | Phát hiện |
+| 障害 | しょうがい | Sự cố |
+| 影響範囲 | えいきょうはんい | Phạm vi ảnh hưởng |
+| 復旧 | ふっきゅう | Khôi phục |
+| エスカレーション | escalation | Escalate |
+| 第一報 | だいいっぽう | Báo cáo đầu tiên |
+| ETA | ETA | Estimated time of arrival |
+| ポストモーテム | post-mortem | Post-mortem |
+| Sev1 | Sev1 | Critical severity |

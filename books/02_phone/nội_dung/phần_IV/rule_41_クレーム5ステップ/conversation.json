@@ -1,0 +1,125 @@
+{
+  "rule_id": "rule_41",
+  "rule_slug": "クレーム対応のフルセット",
+  "title": {
+    "ja": "クレーム対応のフルセット",
+    "vi": "Bộ xử lý phàn nàn đầy đủ — 5 bước"
+  },
+  "rule_context": {
+    "ja": "商品破損クレームへの完全対応。傾聴→謝罪→事実確認→解決→再発防止の5ステップを電話1本でカバー。",
+    "vi": "Xử lý phàn nàn hàng vỡ — đủ 5 bước: nghe → xin lỗi → xác minh → giải pháp → cam kết, hoàn tất trong 1 cuộc điện thoại."
+  },
+  "related_rules": [
+    "rule_20",
+    "rule_40",
+    "rule_45"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT — 5 bước",
+      "display_order": 1,
+      "analysis": {
+        "ja": "5ステップを順に実行：①『左様でございました』で傾聴 ②『ご不便をおかけし』で感情謝罪 ③『詳しくお聞かせ』で確認 ④『新品送付・回収』で解決 ⑤『再発防止に努める』で締め。",
+        "vi": "Thực hiện đủ 5 bước theo thứ tự, kết bằng cam kết 「再発防止に努めます」."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_41_good_01",
+          "speaker": "unknown_caller",
+          "speaker_role": "発信者 (社外)",
+          "gender": "neutral",
+          "sentence": "商品が壊れていました！",
+          "sentence_translation": "Sản phẩm bị hỏng rồi!",
+          "tone": "angry"
+        },
+        {
+          "line_id": "rule_41_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "左様でございましたか。",
+          "sentence_translation": "Vâng em hiểu rồi ạ.",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_41_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご不便をおかけしまして大変申し訳ございません。",
+          "sentence_translation": "Em xin lỗi vì đã gây bất tiện cho anh ạ.",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_41_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "恐れ入りますが、商品の状態を詳しくお聞かせいただけますでしょうか？",
+          "sentence_translation": "Phiền anh cho em hỏi chi tiết tình trạng sản phẩm được không ạ?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_41_good_05",
+          "speaker": "unknown_caller",
+          "speaker_role": "発信者 (社外)",
+          "gender": "neutral",
+          "sentence": "箱を開けたら画面にひびが入っていて…",
+          "sentence_translation": "Mở hộp ra thì màn hình bị nứt…",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_41_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "承知いたしました。本日中に新品をお送りし、不良品は弊社にて回収の手配をいたします。",
+          "sentence_translation": "Em rõ rồi ạ. Em sẽ gửi hàng mới trong hôm nay, hàng lỗi bên em sẽ thu hồi ạ.",
+          "tone": "firm",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_41_good_07",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "今後、出荷前検品プロセスを見直し、再発防止に努めます。",
+          "sentence_translation": "Từ giờ em sẽ rà soát lại quy trình kiểm hàng trước khi xuất, nỗ lực không để tái diễn ạ.",
+          "tone": "firm",
+          "speed_multiplier": 0.95
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_41_kp_01",
+      "speaker": "zun",
+      "sentence": "再発防止に努めます。",
+      "sentence_translation": "Em nỗ lực không để tái diễn ạ.",
+      "purpose": "クレーム対応の締めくくり",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_41_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "クレーム対応5ステップに含まれない要素は？",
+      "options": [
+        "傾聴",
+        "謝罪",
+        "値引き",
+        "再発防止"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "5ステップは『傾聴・謝罪・確認・解決・再発防止』。値引きは含まれない（個別判断）。",
+        "vi": "5 bước: nghe / xin lỗi / xác minh / giải pháp / cam kết. Giảm giá không thuộc bước (tùy ca)."
+      }
+    }
+  ]
+}

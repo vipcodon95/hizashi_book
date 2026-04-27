@@ -1,0 +1,175 @@
+{
+  "rule_id": "rule_06",
+  "rule_slug": "数字を使った報告",
+  "title": {
+    "ja": "数字を使った報告 (KPI/before-after/% 変化)",
+    "vi": "Báo cáo có số liệu (KPI / before-after / % thay đổi)"
+  },
+  "rule_context": {
+    "ja": "ズンがハーCTOへ Phase 2 の状況を報告する場面。定性的表現を数値化（before/after + 差分%）し、母数も提示することで判断材料を整える。",
+    "vi": "Em Dũng báo cáo tình hình Phase 2 cho anh Hà CTO. Định lượng thay vì định tính (before/after + % diff), thêm sample size để đủ dữ kiện ra quyết định."
+  },
+  "related_rules": ["rule_02", "rule_03", "rule_11"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 全て定性的",
+      "label_vi": "XẤU — Toàn định tính",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「大幅に」「かなり」だけでは判断できず、CTO は予算配分を決めるのに必要な数字が無い。",
+        "vi": "Chỉ có 「大幅に」「かなり」 không quyết được. CTO không có số để allocate budget."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_06_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ハーさん、Phase 2 のパフォーマンスは大幅に改善しました。バグも減ってます。お客様も満足しています。",
+          "sentence_translation": "Anh Hà, performance Phase 2 cải thiện đáng kể ạ. Bug cũng giảm. Khách cũng hài lòng.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_06_bad_02",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "『大幅に』『減ってる』『満足』…数字で話してください。Phase 3 の予算判断ができません。",
+          "sentence_translation": "'Đáng kể', 'giảm', 'hài lòng'... Em nói bằng số đi. Anh không quyết được budget Phase 3.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_06_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと…体感ではかなり良くなったと…",
+          "sentence_translation": "Ờ... cảm nhận em là tốt hơn nhiều ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_06_bad_04",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "体感では予算は動かない。来週までに数値ベースで再報告を。",
+          "sentence_translation": "Cảm nhận thì không duyệt budget được. Tuần sau báo lại dựa trên số liệu.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 数値 + 母数明示",
+      "label_vi": "TỐT — Số liệu + sample size",
+      "display_order": 2,
+      "analysis": {
+        "ja": "数値で before/after と差分%を提示し、さらに母数まで開示することで信頼性が確保される。CTO は1分以内に予算判断できる。",
+        "vi": "Show before/after + % diff bằng số, kèm sample size để có độ tin cậy. CTO quyết budget được trong 1 phút."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_06_good_01",
+          "highlight_text": "1.2秒 → 0.4秒（-67%）",
+          "ja": "before/after + 差分% の3点セット。インパクトが瞬時に伝わる。",
+          "vi": "Bộ 3: before / after / % diff. Impact truyền tải tức thì."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_06_good_02",
+          "highlight_text": "+12 から +38 へ",
+          "ja": "絶対値変化を提示。「改善」より遥かに具体的。",
+          "vi": "Show diff tuyệt đối. Cụ thể hơn 「改善」 nhiều."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_06_good_04",
+          "highlight_text": "12名中10名（回答率83%）",
+          "ja": "母数を必ず開示。サンプル数の小ささを隠すと信頼を失う。",
+          "vi": "Phải show sample size. Giấu n nhỏ = mất tin cậy."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_06_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ハーさん、Phase 2 の数値報告です。画面ロード時間：1.2秒 → 0.4秒（-67%）、ダッシュボード資料を画面共有いたします。",
+          "sentence_translation": "Anh Hà, em báo cáo số liệu Phase 2 ạ. Thời gian load màn hình: 1.2s → 0.4s (-67%), em xin share màn hình dashboard ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_06_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "バグ件数：Phase 1 が週20件、Phase 2 が週6件で -70%。顧客 NPS：+12 から +38 へ改善しております。",
+          "sentence_translation": "Số bug: Phase 1 là 20 bug/tuần, Phase 2 là 6 bug/tuần, tức -70%. NPS khách: từ +12 lên +38 ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_06_good_03",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "ロード時間 -67% は inline でいい数字。NPS の母数は？",
+          "sentence_translation": "Load time -67% là con số đẹp cho inline rồi. Sample của NPS bao nhiêu?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_06_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "回答者は12名中10名（回答率83%）です。サンプル数が小さい点、私見では今後3ヶ月で30名以上に拡大予定です。",
+          "sentence_translation": "Có 10/12 người trả lời (tỉ lệ 83%) ạ. Sample số nhỏ, theo ý em, 3 tháng tới sẽ mở rộng lên trên 30 người ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_06_good_05",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "数字の根拠が明確で良い。Phase 3 予算、承認します。",
+          "sentence_translation": "Cơ sở số liệu rõ ràng, tốt. Anh duyệt budget Phase 3 nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_06_kp_01",
+      "speaker": "zun",
+      "sentence": "〇〇は 〇〇 → 〇〇（〇%増/減）でございます。母数は〇〇です。",
+      "sentence_translation": "〇〇 từ 〇〇 → 〇〇 (tăng/giảm 〇%) ạ. Sample size là 〇〇.",
+      "purpose": "before/after + 差分% + 母数の標準フレーム",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_06_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "上司が「数字で話してください」と言った時、最も適切な対応は？",
+      "options": [
+        "『かなり改善』と言い直す",
+        "before/after の数値と母数を提示する",
+        "『体感では』と前置きする",
+        "次回までに調べると言って終わる"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "数値報告は before/after + 差分 + 母数の3点セットが基本。「体感」「かなり」では判断材料にならない。",
+        "vi": "Báo cáo bằng số phải có before/after + diff + sample. 「体感」「かなり」 không phải dữ kiện."
+      }
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "rule_id": "rule_29",
+  "rule_slug": "お土産の受け取り",
+  "title": {
+    "ja": "お土産の受け取り",
+    "vi": "Nhận omiyage"
+  },
+  "rule_context": {
+    "ja": "翌日朝、白鷗側松本PMが HCMC オフィス来訪時、東京『虎屋の羊羹』を持参。フオン副部長+ズン+リンが受け取り側=即開封せず『頂戴いたします』+礼。後で社内で開封・share する場面。",
+    "vi": "Sáng hôm sau, PM Matsumoto bên 白鷗 sang văn phòng HCMC mang theo yokan Toraya (Tokyo) làm quà. Bên nhận: chị Hương phó phòng + Dũng + Linh. Không mở ngay → nói 'tôi xin nhận', cúi cảm ơn. Sau đó mở chia trong cty."
+  },
+  "related_rules": [
+    "rule_28",
+    "rule_33"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 即開封 + 値段聞く + 中身評価",
+      "label_vi": "XẤU — mở ngay + hỏi giá + bình luận chất lượng",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①その場で開封=失礼(『気になる』signal で品物中心) ②値段問=最大NG ③『美味しそう』即評価=軽い印象。後で開封+お礼メールが正式。",
+        "vi": "(1) Mở quà tại chỗ = thất lễ (signal 'tôi quan tâm vật chất'). (2) Hỏi giá = NG cấp tối đa. (3) Khen 'trông ngon' tại chỗ = nông. Đúng = mở sau + thank-you mail."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_29_bad_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "東京からのお土産です。よろしければ皆様で。",
+          "sentence_translation": "Đây là quà từ Tokyo. Mời cả nhà mình ạ.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_29_bad_02",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "わ、虎屋ですか！（その場で包みを開ける）これって有名ですよね？値段は…？",
+          "sentence_translation": "Ơ, Toraya à! (mở gói luôn tại chỗ) Cái này nổi tiếng phải không ạ? Giá thì...?",
+          "tone": "cheerful"
+        },
+        {
+          "line_id": "rule_29_bad_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "（少し戸惑い）あ、まあ…",
+          "sentence_translation": "(hơi bối rối) À thì...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_29_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "（後でリンに）リン、お土産は『頂戴いたします』だけで、その場で開けない。値段は絶対 NG。",
+          "sentence_translation": "(sau đó với Linh) Linh, omiyage chỉ cần 'tôi xin nhận' thôi, không mở tại chỗ. Tuyệt đối không hỏi giá.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 両手受領 + 『頂戴いたします』 + 後で開封",
+      "label_vi": "TỐT — nhận 2 tay + 'tôi xin nhận' + mở sau",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_29_good_02",
+          "highlight_text": "頂戴いたします",
+          "ja": "受領固定句。『ありがとう』だけより formal。お辞儀 30°と pair。",
+          "vi": "Câu nhận cố định. Chỉ 'cảm ơn' là chưa đủ formal. Đi kèm bow 30°."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_29_good_03",
+          "highlight_text": "両手で受け取り、机に丁寧に置く",
+          "ja": "両手受領=尊敬。受け取った後は机の上座側に丁寧に置く。床NG。",
+          "vi": "Nhận 2 tay = kính trọng. Nhận xong đặt lên bàn phía 上座 (kamiza) đàng hoàng. Để dưới sàn NG."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_29_good_05",
+          "highlight_text": "皆でいただきます",
+          "ja": "share予定告知=送り手の意図(『皆様で』)を尊重。家に持ち帰り独占NG。",
+          "vi": "Báo sẽ chia = tôn trọng ý người gửi ('cả nhà mình'). Mang về nhà ăn riêng = NG."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_29_good_07",
+          "highlight_text": "後ほど改めて御礼のメールを",
+          "ja": "受領+24h以内のメール礼が正式 follow-up。中身評価は メールで丁寧に書く。",
+          "vi": "Nhận quà + thank-you mail trong 24h = follow-up chính thức. Bình luận chất lượng viết trong mail tử tế."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_29_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "東京からのお土産です。皆様で召し上がっていただければ。",
+          "sentence_translation": "Đây là quà từ Tokyo. Mong cả nhà mình thưởng thức ạ.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_29_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "（両手で受け取り、お辞儀30°）頂戴いたします。お心遣いありがとうございます。",
+          "sentence_translation": "(nhận 2 tay, bow 30°) Em xin nhận. Cảm ơn tấm lòng của anh ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_29_good_03",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "（受け取った包みを机の上座側に丁寧に置く）",
+          "sentence_translation": "(đặt gói quà nhận được lên phía 上座 (kamiza = phía trên) của bàn một cách trang trọng)",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_29_good_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "羊羹で、日持ちもしますので。",
+          "sentence_translation": "Là yokan, để được khá lâu ạ.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_29_good_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ありがとうございます。後ほど社内で皆でいただきます。",
+          "sentence_translation": "Cảm ơn anh ạ. Lát nữa em mời cả phòng cùng dùng.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_29_good_06",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "（包みは開けず、机に置いたまま）",
+          "sentence_translation": "(không mở gói, giữ nguyên trên bàn)",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_29_good_07",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "（後ほど松本様にメール）本日は素敵なお土産をいただき、ありがとうございました。社内で皆でおいしくいただきました。後ほど改めて御礼のメールを送らせていただきます。",
+          "sentence_translation": "(sau đó mail anh Matsumoto) Hôm nay anh tặng quà rất ý nghĩa, em xin cảm ơn ạ. Cả phòng đã cùng thưởng thức ngon lành. Em xin gửi lại thư cảm ơn trang trọng sau ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "4"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_29_kp_01",
+      "speaker": "fuon",
+      "sentence": "頂戴いたします。お心遣いありがとうございます。",
+      "sentence_translation": "Em xin nhận. Cảm ơn tấm lòng của anh ạ.",
+      "purpose": "お土産受領 固定句",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_29_kp_02",
+      "speaker": "fuon",
+      "sentence": "後ほど社内で皆でいただきます。",
+      "sentence_translation": "Lát nữa em mời cả phòng cùng dùng.",
+      "purpose": "share signal で送り手の意図尊重",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_29_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "お土産を受け取る時の正しい作法は？",
+      "options": [
+        "その場で開封して中身を確認",
+        "値段や購入先を尋ねる",
+        "両手で受け取り『頂戴いたします』+お辞儀30°、開封は後で社内で",
+        "片手で受け取って机にバラ置き"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "両手 + 『頂戴いたします』 + 後で開封 が3点セット。値段・即開封は最大NG。",
+        "vi": "2 tay + 'choudai itashimasu' + mở sau = combo 3 điểm. Hỏi giá + mở ngay = NG cấp tối đa."
+      }
+    }
+  ]
+}

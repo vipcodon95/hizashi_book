@@ -1,0 +1,113 @@
+{
+  "rule_id": "rule_19",
+  "rule_slug": "間違い電話への対応",
+  "title": {
+    "ja": "間違い電話への対応",
+    "vi": "Xử lý wrong number lịch sự"
+  },
+  "rule_context": {
+    "ja": "間違い電話を受けた時、相手の体面を保ちつつ間違いを伝え、丁寧に締めくくる対応。",
+    "vi": "Khi nhận wrong number, giữ thể diện cho người gọi, báo nhầm và kết bằng câu chào lịch sự."
+  },
+  "related_rules": [
+    "rule_11",
+    "rule_22"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「お間違いではないでしょうか」と婉曲に確認。相手を責めず番号確認を促し、最後にこちらからも挨拶で締めるのがプロ。",
+        "vi": "Dùng 「お間違いではないでしょうか」 — cách hỏi vòng. Không trách đối phương, mời họ kiểm tra số, kết thúc bằng câu chào từ phía mình mới chuyên nghiệp."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_19_good_01",
+          "speaker": "unknown_caller",
+          "speaker_role": "発信者 (社外)",
+          "gender": "neutral",
+          "sentence": "もしもし、佐藤商事ですか？",
+          "sentence_translation": "Alo, đây là Cty Sato phải không?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_19_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お電話ありがとうございます。こちらティエンファット社でございます。お間違いではないでしょうか？",
+          "sentence_translation": "Cảm ơn anh đã gọi điện. Đây là Cty Thiên Phát ạ. Có lẽ anh nhầm số phải không ạ?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_19_good_03",
+          "speaker": "unknown_caller",
+          "speaker_role": "発信者 (社外)",
+          "gender": "neutral",
+          "sentence": "あ、03-1234-5678ではないんですか？",
+          "sentence_translation": "À, đây không phải 03-1234-5678 ạ?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_19_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "こちらは別の番号でございます。お手数ですが、もう一度お確かめの上おかけ直しください。",
+          "sentence_translation": "Đây là số khác ạ. Phiền anh kiểm tra lại số rồi gọi lại giúp ạ.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_19_good_05",
+          "speaker": "unknown_caller",
+          "speaker_role": "発信者 (社外)",
+          "gender": "neutral",
+          "sentence": "失礼しました。",
+          "sentence_translation": "Xin lỗi đã làm phiền.",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_19_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "いえ、失礼いたします。",
+          "sentence_translation": "Không có gì ạ, xin chào ạ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_19_kp_01",
+      "speaker": "zun",
+      "sentence": "お間違いではないでしょうか？お手数ですが、お確かめの上おかけ直しください。",
+      "sentence_translation": "Có lẽ anh/chị nhầm số. Phiền anh/chị kiểm tra lại rồi gọi lại giúp ạ.",
+      "purpose": "間違い電話の標準応対",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_19_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "間違い電話を受けた時、最も丁寧な言い方は？",
+      "options": [
+        "違います、切ります",
+        "番号間違ってます",
+        "お間違いではないでしょうか？お確かめの上おかけ直しください",
+        "ここはそんな会社じゃない"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "婉曲表現と「お確かめの上」が丁寧。A/B/Dは突き放し感あり。",
+        "vi": "Cách nói vòng + 「お確かめの上」 thể hiện lịch sự. A/B/D nghe lạnh và xua đuổi."
+      }
+    }
+  ]
+}

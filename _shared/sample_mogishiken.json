@@ -1,0 +1,142 @@
+{
+  "_comment": "MẪU SCHEMA B — Mogishiken (đọc hiểu). Xem study_course_json_schema.md để biết chi tiết. KHÔNG sửa trực tiếp file này — copy sang folder module rồi mới sửa.",
+  "meta": {
+    "title": "<topic> Mogishiken — <Topic> Reading",
+    "title_vn": "<Title tiếng Việt> Mô Phỏng Đề Thi BJT Đọc Hiểu",
+    "type": "mogishiken_dokkai",
+    "total_sections": 2,
+    "total_questions": 8,
+    "format_note": "Format Part 3 BJT: đọc văn bản → trả lời câu hỏi. Mỗi section 1 loại tài liệu kinh doanh khác nhau + 4 câu hỏi.",
+    "description_vn": "Mô phỏng đề thi BJT đọc hiểu — chủ đề kính ngữ, sử dụng tài liệu kinh doanh thực tế."
+  },
+  "sections": [
+    {
+      "section_id": 1,
+      "level": 1,
+      "level_name": "初級 / Cơ bản",
+      "document_type": "ビジネスメール",
+      "situation_vn": "Tình huống: Nhân viên viết email cho đồng nghiệp để yêu cầu thông tin. Email ngắn gọn, sử dụng Teineigo cơ bản.",
+      "passage_ja": "件名：来週の会議について\n\n田中さんへ\n\nいつもお疲れ様です。\n来週の月曜日に営業会議があります。開始時間は午前10時です。準備物として、最新の販売データが必要になります。\nお手数ですが、データを送っていただけませんか？ご不明な点がありましたら、いつでもお気軽にお尋ねください。\n\nよろしくお願いいたします。\n鈴木",
+      "word_count": 87,
+      "difficulty_note": "Email ngắn, sử dụng です/ます và お/ご prefix cơ bản. Từ vựng thông dụng.",
+      "questions": [
+        {
+          "id": "1-1",
+          "question_jp": "このメールの目的は何ですか？",
+          "question_vn": "Mục đích của email này là gì?",
+          "choices": [
+            {"key": "A", "jp": "来週の会議が中止することを知らせる", "vn": "Báo cuộc họp bị hủy"},
+            {"key": "B", "jp": "会議の準備物として販売データを送ってもらう", "vn": "Yêu cầu gửi dữ liệu bán hàng làm tài liệu chuẩn bị"},
+            {"key": "C", "jp": "田中さんの連絡先を確認する", "vn": "Xác nhận thông tin liên hệ của Tanaka"},
+            {"key": "D", "jp": "営業会議の参加者を増やす", "vn": "Tăng số người tham gia họp"}
+          ],
+          "answer": "B",
+          "explanation": "Email rõ ràng yêu cầu (「データを送っていただけませんか？」) gửi dữ liệu bán hàng cho cuộc họp. Các lựa chọn khác không liên quan."
+        },
+        {
+          "id": "1-2",
+          "question_jp": "「お手数ですが」はどんな場面で使いますか？",
+          "question_vn": "「お手数ですが」được dùng trong tình huống nào?",
+          "choices": [
+            {"key": "A", "jp": "相手に何か迷惑をかけるときに、丁寧に依頼する場面", "vn": "Khi yêu cầu ai đó làm điều có thể gây phiền"},
+            {"key": "B", "jp": "相手が忙しいときに、無視する場面", "vn": "Khi đối phương bận, bỏ qua"},
+            {"key": "C", "jp": "相手を褒める場面", "vn": "Khi khen đối phương"},
+            {"key": "D", "jp": "相手に厳しく命令する場面", "vn": "Khi ra lệnh nghiêm khắc"}
+          ],
+          "answer": "A",
+          "explanation": "「お手数ですが」là biểu hiện lịch sự dùng khi yêu cầu ai đó làm điều gì đó mà biết sẽ gây phiền toái."
+        },
+        {
+          "id": "1-3",
+          "question_jp": "会議の開始時間は何時ですか？",
+          "question_vn": "Giờ bắt đầu cuộc họp là mấy giờ?",
+          "choices": [
+            {"key": "A", "jp": "午後10時", "vn": "10 giờ tối"},
+            {"key": "B", "jp": "午前9時", "vn": "9 giờ sáng"},
+            {"key": "C", "jp": "午前10時", "vn": "10 giờ sáng"},
+            {"key": "D", "jp": "午後2時", "vn": "2 giờ chiều"}
+          ],
+          "answer": "C",
+          "explanation": "Văn bản nói rõ:「開始時間は午前10時です」. Đáp án C chính xác."
+        },
+        {
+          "id": "1-4",
+          "question_jp": "「お気軽に」とはどういう意味ですか？",
+          "question_vn": "「お気軽に」có ý nghĩa gì?",
+          "choices": [
+            {"key": "A", "jp": "厳しく、重くお願いする", "vn": "Yêu cầu nghiêm khắc, nặng nề"},
+            {"key": "B", "jp": "気分が悪いときだけ連絡する", "vn": "Chỉ liên lạc khi tâm trạng xấu"},
+            {"key": "C", "jp": "気を楽にして、遠慮なく連絡する", "vn": "Thoải mái, không e ngại"},
+            {"key": "D", "jp": "秘密にして、誰にも言わない", "vn": "Giữ bí mật, không nói với ai"}
+          ],
+          "answer": "C",
+          "explanation": "「お気軽に」là biểu hiện lịch sự có nghĩa là 'hãy tự tại, không cần e ngại' khi liên hệ."
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "level": 2,
+      "level_name": "中級基礎 / Trung bình cơ bản",
+      "document_type": "電話応対スクリプト",
+      "situation_vn": "Tình huống: Cuộc gọi điện thoại giữa nhân viên (A) và khách hàng (B). Nhân viên dùng Sonkeigo khi nói với khách, Kenjougo khi nói về công ty mình.",
+      "passage_ja": "A（営業担当）：「いつもご利用ありがとうございます。本日はどのようなご用件でしょうか？」\n\nB（顧客）：「商品の納期について確認したいのですが」\n\nA：「かしこまりました。確認させていただきます。申し訳ございませんが、注文番号をお伺いしてもよろしいでしょうか？」\n\nB：「注文番号は、ABC-2024-001です」\n\nA：「ありがとうございます。少々お待ちください。…確認いたしました。ご注文いただきました商品は、来週の木曜日にお届け予定でございます。」\n\nB：「わかりました。よろしくお願いします」",
+      "word_count": 148,
+      "difficulty_note": "Hội thoại điện thoại thực tế với Sonkeigo và Kenjougo. Cấu trúc phức tạp hơn nhưng theo format điều hành tiêu chuẩn.",
+      "questions": [
+        {
+          "id": "2-1",
+          "question_jp": "Aさんが「申し訳ございませんが」と言ったのは、どうしてですか？",
+          "question_vn": "Tại sao nhân viên A nói「申し訳ございません」?",
+          "choices": [
+            {"key": "A", "jp": "顧客の注文番号が間違っている", "vn": "Mã đơn hàng của khách sai"},
+            {"key": "B", "jp": "顧客に質問をするときに、迷惑をかけるかもしれないという丁寧な表現", "vn": "Cách lịch sự khi sắp hỏi khách (có thể gây phiền)"},
+            {"key": "C", "jp": "商品が壊れている", "vn": "Sản phẩm bị hỏng"},
+            {"key": "D", "jp": "顧客の電話番号を知らない", "vn": "Không biết số điện thoại khách"}
+          ],
+          "answer": "B",
+          "explanation": "「申し訳ございません」là biểu hiện xin lỗi trước khi yêu cầu khách cung cấp thông tin (注文番号). Cách lịch sự thông báo yêu cầu có thể gây phiền."
+        },
+        {
+          "id": "2-2",
+          "question_jp": "「お伺いしてもよろしいでしょうか」は何という敬語ですか？",
+          "question_vn": "「お伺いしてもよろしいでしょうか」là loại kính ngữ gì?",
+          "choices": [
+            {"key": "A", "jp": "尊敬語（Sonkeigo）", "vn": "Tôn kính ngữ"},
+            {"key": "B", "jp": "謙譲語（Kenjougo）", "vn": "Khiêm nhường ngữ"},
+            {"key": "C", "jp": "丁寧語（Teineigo）のみ", "vn": "Chỉ Lịch sự ngữ"},
+            {"key": "D", "jp": "敬語ではない", "vn": "Không phải kính ngữ"}
+          ],
+          "answer": "B",
+          "explanation": "「お伺いする」là Kenjougo của「聞く」(người nói tự hạ mình). Vì A là người hỏi → dùng Kenjougo cho hành động của bản thân."
+        },
+        {
+          "id": "2-3",
+          "question_jp": "商品はいつお届けしますか？",
+          "question_vn": "Sản phẩm sẽ được giao khi nào?",
+          "choices": [
+            {"key": "A", "jp": "今日", "vn": "Hôm nay"},
+            {"key": "B", "jp": "明日", "vn": "Ngày mai"},
+            {"key": "C", "jp": "来週の木曜日", "vn": "Thứ Năm tuần sau"},
+            {"key": "D", "jp": "来月", "vn": "Tháng sau"}
+          ],
+          "answer": "C",
+          "explanation": "Văn bản nói rõ:「来週の木曜日にお届け予定でございます」. Đáp án C chính xác."
+        },
+        {
+          "id": "2-4",
+          "question_jp": "「ご注文いただきました商品」の「いただきました」はどの敬語ですか？",
+          "question_vn": "「いただきました」trong câu「ご注文いただきました」là loại kính ngữ gì?",
+          "choices": [
+            {"key": "A", "jp": "尊敬語（顧客の行動を高める）", "vn": "Sonkeigo (nâng hành động của khách)"},
+            {"key": "B", "jp": "謙譲語（自分の側が「もらう」を低める）", "vn": "Kenjougo (hạ thấp việc 'nhận' của phía mình)"},
+            {"key": "C", "jp": "丁寧語のみ", "vn": "Chỉ Teineigo"},
+            {"key": "D", "jp": "両方の組み合わせ", "vn": "Kết hợp cả hai"}
+          ],
+          "answer": "B",
+          "explanation": "「いただく」là Kenjougo của「もらう」(người nói tự hạ mình khi nhận). Phía nhân viên 'nhận đơn hàng' từ khách → dùng Kenjougo cho hành động nhận của mình."
+        }
+      ]
+    }
+  ]
+}

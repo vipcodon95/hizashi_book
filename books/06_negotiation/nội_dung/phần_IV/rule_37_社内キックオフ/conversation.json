@@ -1,0 +1,217 @@
+{
+  "rule_id": "rule_37",
+  "rule_slug": "社内キックオフ",
+  "title": {
+    "ja": "社内キックオフ",
+    "vi": "Internal kickoff sau ký"
+  },
+  "rule_context": {
+    "ja": "Phase 3 契約締結後の内部 hand-off MTG。30 分・3 セクション (context / personality / open promises) + 事前 doc 共有で delivery team を立ち上げる場面。",
+    "vi": "MTG hand-off nội bộ sau ký Phase 3. 30 phút - 3 sections (context / personality / open promises) + pre-share doc để delivery team start nhanh."
+  },
+  "related_rules": [
+    "rule_30",
+    "rule_36"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 15 分 + 「contract 見て」",
+      "label_vi": "XẤU — 15 phút + 'đọc contract đi'",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「契約書添付、質問あれば Slack」のみ。2 週間後 SOW 詳細不明で Tuấn が大垣に直接質問 → 顧客 trust dent。",
+        "vi": "Chỉ 'contract attach + có gì Slack'. 2 tuần sau Tuấn không hiểu SOW → hỏi thẳng Ōgaki → khách thấy 'sao Dũng không share?' → trust dent."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_37_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "トゥアン、Phase 3 contract attach しました。SOW 通りに進めてください。質問あれば Slack で。",
+          "sentence_translation": "Anh Tuấn, em đính kèm contract Phase 3. Cứ đi theo SOW. Có gì hỏi Slack.",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_37_bad_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "OK、分かった。",
+          "sentence_translation": "OK, hiểu rồi.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_37_bad_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "ズン、SOW の AI dashboard カスタム 1 機能 とは具体的に何？大垣様何ご希望？",
+          "sentence_translation": "Dũng, AI dashboard custom 1 feature trong SOW cụ thể là gì? Anh Ōgaki muốn cái nào?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_37_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと、確か customer churn prediction だった気がします…",
+          "sentence_translation": "À ờ, hình như là customer churn prediction thì phải...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_37_bad_05",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "気がしますじゃ困る。大垣様に直接確認するから、契約交渉の context 全部教えて。",
+          "sentence_translation": "'Hình như' là kẹt rồi. Anh hỏi thẳng anh Ōgaki, em chia sẻ hết context đàm phán đi.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 30 分 + 3 セクション + 事前 doc",
+      "label_vi": "TỐT — 30 phút + 3 sections + pre-share doc",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_37_good_01",
+          "highlight_text": "3 セクション",
+          "ja": "①交渉 context ②相手 personality map ③open promises。それぞれ 8-10 分。",
+          "vi": "①Negotiation context ②Personality map ③Open promises. Mỗi mục 8-10 phút."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_37_good_02",
+          "highlight_text": "SLA 99.5% に落とすことは交渉的に NG",
+          "ja": "「交渉的 NG」 vs 「技術的可能」のトレードオフ歴史を delivery と共有。shortcut 防止。",
+          "vi": "Phân biệt 'NG về mặt đàm phán' vs 'có thể về mặt kỹ thuật' — chia sẻ lịch sử trade để delivery không shortcut."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_37_good_04",
+          "highlight_text": "口頭 commitment 2 件",
+          "ja": "口頭の「ついで」「次回」も顧客は記憶。文書化しないと将来 nibble の source。",
+          "vi": "Các 'tiện thể' / 'lần sau' miệng khách vẫn nhớ. KHÔNG document hóa = nguồn nibble tương lai."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_37_good_06",
+          "highlight_text": "引継ぎ doc 拝見しました",
+          "ja": "Pre-share doc + MTG 同期 read = MTG が confirm 場、discovery 場ではない。",
+          "vi": "Pre-share doc + đọc cùng trong MTG = MTG là nơi confirm, không phải nơi discovery."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_37_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 3 内部キックオフ、30 分です。本日のアジェンダは 3 セクション: ①交渉 context、②白鷗側 personality map、③open promises。事前に hand-off doc 共有済み。質問はその場で。",
+          "sentence_translation": "Internal kickoff Phase 3, 30 phút. Agenda hôm nay 3 sections: ①Context đàm phán, ②Personality map bên Hakuō, ③Open promises. Hand-off doc đã share trước. Câu hỏi nêu trực tiếp.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_37_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "価格 ¥17M は Phase 2 比 +24%、内訳は AI レコメンド + 専任 PM + dashboard customization 1 機能。trade で 2 年契約を取った代わりに、契約期間中 SLA 99.9% commit。なので SLA 99.5% に落とすことは交渉的に NG、技術的に可能でも避ける。",
+          "sentence_translation": "Giá ¥17M là +24% so với Phase 2. Breakdown: AI recommend + PM chuyên trách + 1 dashboard customization. Trade lấy được 2 năm contract đổi lại commit SLA 99.9% suốt kỳ. Vì vậy hạ SLA xuống 99.5% là NG về mặt đàm phán — kỹ thuật có thể làm được nhưng tránh.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_37_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "大垣様 — direct、数字主義、沈黙が長い (=熟考中、急かさない)。初回 weekly は厳しめ review される可能性高い。Tanaka PMO — Slack-heavy、detail-oriented、async OK。Nakamura CFO は monthly executive review 1 度だけ参加、財務指標厳しい。",
+          "sentence_translation": "Anh Ōgaki — direct, số liệu, im lặng dài (=đang nghĩ, đừng giục). Weekly đầu khả năng cao bị review chặt. Anh Tanaka PMO — Slack nhiều, chi tiết, async OK. Anh Nakamura CFO chỉ join monthly executive review 1 lần, chỉ số tài chính chặt.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_37_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "口頭 commitment 2 件: (a) 8 月初旬に Phase 4 scope 軽く discussion (binding 無し)、(b) Tanaka PMO に毎週金曜 dashboard preview 共有 — これは契約外サービス、注意。",
+          "sentence_translation": "2 commitments miệng: (a) Đầu tháng 8 thảo luận nhẹ scope Phase 4 (không binding), (b) Mỗi sáng thứ Sáu share dashboard preview cho Tanaka PMO — đây là dịch vụ ngoài contract, lưu ý.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_37_good_05",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "了解。SLA 99.9% の reasoning ありがたい。最初 sprint で reliability budget 厳しめに設定する。Tanaka PMO の金曜 preview は内部 calendar 入れる。",
+          "sentence_translation": "Hiểu rồi. Reasoning SLA 99.9% rất ích. Sprint đầu anh sẽ set reliability budget chặt hơn. Preview thứ Sáu cho Tanaka PMO anh đưa vào calendar nội bộ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_37_good_06",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO担当",
+          "gender": "male",
+          "sentence": "ズン様、ありがとうございました。tomorrow 朝、Tuấn さんと初回 sync 設定します。引継ぎ doc 拝見しました、 personality map 助かります。",
+          "sentence_translation": "Anh Dũng, tôi cảm ơn. Sáng mai tôi sẽ set sync đầu tiên với anh Tuấn. Em đã xem doc bàn giao, personality map rất ích ạ.",
+          "tone": "warm",
+          "annotation_ids": [
+            "4"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_37_kp_01",
+      "speaker": "zun",
+      "sentence": "本日のアジェンダは 3 セクション: ①交渉 context、②相手 personality map、③open promises。",
+      "sentence_translation": "Agenda hôm nay 3 sections: ①Context đàm phán, ②Personality map, ③Open promises.",
+      "purpose": "Internal kickoff structure",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_37_kp_02",
+      "speaker": "zun",
+      "sentence": "事前に hand-off doc 共有済み。質問はその場で。",
+      "sentence_translation": "Hand-off doc đã share trước. Câu hỏi nêu trực tiếp.",
+      "purpose": "Pre-share + 同期 read 形式",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_37_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "営業 → delivery のハンドオフで最も漏れやすく、漏れると顧客 trust に響く要素は？",
+      "options": [
+        "契約書 PDF",
+        "口頭 commitment (例: 「次回も検討」「金曜 preview 共有」)",
+        "請求書送付先",
+        "オフィス住所"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "口頭 commitment は契約外でも顧客の記憶に残る。文書化されないと delivery 側が知らず、後から「あれはどうなったか」と問われる。",
+        "vi": "Commitment miệng nằm ngoài contract nhưng khách nhớ. Không document hóa thì delivery không biết, khách hỏi 'cái đó sao rồi' sau đó."
+      }
+    }
+  ]
+}

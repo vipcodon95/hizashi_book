@@ -1,0 +1,198 @@
+{
+  "rule_id": "rule_24",
+  "rule_slug": "不明事項の持ち帰り",
+  "title": {
+    "ja": "不明事項の持ち帰り",
+    "vi": "Mang về xem xét cho câu chưa biết"
+  },
+  "rule_context": {
+    "ja": "Phase 3 Q&A で大垣部長が SOAP→REST 統合 + OAuth 2.0 の technical detail を質問。ズンは即答できない → 持ち帰り。",
+    "vi": "Q&A Phase 3, Ōgaki hỏi chi tiết technical về tích hợp SOAP→REST + OAuth 2.0. Dũng không nắm sâu → 持ち帰り."
+  },
+  "related_rules": ["rule_23", "rule_28"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 推測＋deadline なし",
+      "label_vi": "XẤU — Đoán bừa + không deadline",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「たぶん」で推測 → technical follow-up で破綻。「後で確認」では deadline なしで vague。",
+        "vi": "「たぶん」 đoán bừa → khách follow-up technical là vỡ. 「後で確認」 không deadline = vague."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_24_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "弊社レガシーの SOAP API、Phase 3 で REST に統合できますか？認証は OAuth 2.0 ですが対応可能ですか？",
+          "sentence_translation": "SOAP API legacy bên chúng tôi, Phase 3 có tích hợp được sang REST không? Auth OAuth 2.0, có handle được không?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_24_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと、たぶんできると思います。OAuth 2.0 は標準なので…",
+          "sentence_translation": "Ờ, em nghĩ chắc làm được ạ. OAuth 2.0 là chuẩn nên...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_24_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "「たぶん」ですか？OAuth 2.0 のどのフロー対応ですか？",
+          "sentence_translation": "「Chắc」 à? Flow OAuth 2.0 nào support?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_24_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、それは…後で確認します…",
+          "sentence_translation": "À, cái đó... em sẽ check sau ạ...",
+          "tone": "nervous"
+        },
+        {
+          "line_id": "rule_24_bad_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "…分かりました、回答お待ちします。",
+          "sentence_translation": "...Hiểu rồi, tôi đợi câu trả lời.",
+          "tone": "neutral",
+          "speed_multiplier": 0.95
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 持ち帰り＋deadline＋メモ",
+      "label_vi": "TỐT — 持ち帰り + deadline + ghi chép",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_24_good_02",
+          "highlight_text": "即答できかねます",
+          "ja": "「わかりません」より formal で humble。「〜かねます」は能力ではなく状況による不可。",
+          "vi": "Formal + humble hơn 「わかりません」. 「〜かねます」 không phải bất tài mà do hoàn cảnh."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_24_good_03",
+          "highlight_text": "今週金曜17時までに",
+          "ja": "持ち帰りの3要素: ① deadline 具体 ② 確認者 ③ 回答 format。3つ揃って初めて proper 持ち帰り。",
+          "vi": "3 yếu tố 持ち帰り: ① deadline cụ thể ② người confirm ③ format reply. Đủ 3 mới đúng 持ち帰り."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_24_good_04",
+          "highlight_text": "お時間3営業日いただいて",
+          "ja": "Deadline 提案＋許可を求める。客が urgent なら negotiate できる余地。",
+          "vi": "Đề nghị deadline + xin phép. Khách có thể negotiate nếu cần gấp."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_24_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "弊社レガシーの SOAP API、Phase 3 で REST に統合できますか？認証は OAuth 2.0 ですが対応可能ですか？",
+          "sentence_translation": "SOAP API legacy bên chúng tôi, Phase 3 có tích hợp được sang REST không? Auth OAuth 2.0, có handle được không?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_24_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご質問ありがとうございます。正直に申し上げますと、SOAP→REST 統合の technical detail は私の方で即答できかねます。",
+          "sentence_translation": "Em cảm ơn câu hỏi của anh ạ. Em xin nói thẳng ạ — chi tiết technical về tích hợp SOAP→REST em không thể trả lời ngay tại chỗ ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_24_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "弊社 CTO ハーに確認の上、今週金曜17時までにメールで詳細回答させていただきます。OAuth 2.0 のフローも併せて確認いたします。",
+          "sentence_translation": "Em sẽ confirm với anh Hà CTO bên em, và phản hồi chi tiết qua email trước 17h thứ Sáu tuần này ạ. Em sẽ check thêm flow OAuth 2.0 luôn ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_24_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お時間3営業日いただいてよろしいでしょうか？",
+          "sentence_translation": "Cho em xin 3 ngày làm việc được không ạ?",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_24_good_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "結構です、お待ちします。技術詳細は持ち帰り了解です。",
+          "sentence_translation": "Được, tôi đợi. Chi tiết technical mang về xem xét, OK.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_24_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。期限内に必ずご回答いたします。",
+          "sentence_translation": "Em cảm ơn ạ. Em xin chắc chắn phản hồi đúng hẹn ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_24_kp_01",
+      "speaker": "zun",
+      "sentence": "私の方で即答できかねます。〇日までに〇〇に確認の上、ご回答いたします。",
+      "sentence_translation": "Em không thể trả lời ngay tại chỗ ạ. Em sẽ confirm với 〇〇 và phản hồi trước 〇 ạ.",
+      "purpose": "持ち帰り標準フレーズ — deadline + 確認者 セット",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_24_kp_02",
+      "speaker": "zun",
+      "sentence": "お時間〇営業日いただいてよろしいでしょうか？",
+      "sentence_translation": "Cho em xin 〇 ngày làm việc được không ạ?",
+      "purpose": "Deadline 提案＋許可",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_24_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "プレゼンで答えられない技術質問への最も適切な対応は？",
+      "options": [
+        "「たぶんできると思います」と推測で答える",
+        "「わかりません」とだけ答える",
+        "「即答できかねます。〇日までに〇〇に確認の上、ご回答いたします」と deadline 付きで持ち帰り",
+        "「後で確認します」と曖昧に答える"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "持ち帰りには ① deadline 具体 ② 確認者 ③ 回答 format の3要素必須。「たぶん」は推測で危険、「わかりません」は cộc、「後で」は vague。",
+        "vi": "持ち帰り cần 3 yếu tố: ① deadline cụ thể ② người confirm ③ format reply. 「たぶん」 nguy hiểm, 「わかりません」 cộc, 「後で」 vague."
+      }
+    }
+  ]
+}

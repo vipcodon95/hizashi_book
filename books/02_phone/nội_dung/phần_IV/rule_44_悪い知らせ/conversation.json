@@ -1,0 +1,107 @@
+{
+  "rule_id": "rule_44",
+  "rule_slug": "悪い知らせを電話で伝える",
+  "title": {
+    "ja": "悪い知らせを電話で伝える",
+    "vi": "Báo tin xấu qua phone"
+  },
+  "rule_context": {
+    "ja": "本番システムの障害発生を松本PMに電話で報告。予告→事実→影響→対応策の順で伝える。",
+    "vi": "Báo anh Matsumoto sự cố trên production. Trình tự: báo trước → sự việc → ảnh hưởng → kế hoạch xử lý."
+  },
+  "related_rules": [
+    "rule_34",
+    "rule_45"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『残念なお知らせ』で心構えを促し、事実→影響範囲（数値）→対応策→復旧見込みの順で30秒以内に必要情報を伝達。",
+        "vi": "「残念なお知らせ」 chuẩn bị tâm lý → sự việc → ảnh hưởng (con số) → giải pháp → ETA. Đầy đủ trong 30s."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_44_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お忙しいところ恐れ入ります。残念なお知らせがございまして、お電話いたしました。",
+          "sentence_translation": "Em xin lỗi làm phiền lúc anh đang bận ạ. Em có tin không hay cần báo nên xin phép gọi anh ạ.",
+          "tone": "urgent"
+        },
+        {
+          "line_id": "rule_44_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "先ほどの本番リリースで、決済モジュールに障害が発生しております。",
+          "sentence_translation": "Lần release production vừa rồi, module thanh toán đang phát sinh sự cố ạ.",
+          "tone": "firm",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_44_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "現在ユーザーがお支払いできない状況で、影響範囲は約500件と推定されます。",
+          "sentence_translation": "Hiện tại user không thanh toán được, em ước tính khoảng 500 giao dịch bị ảnh hưởng ạ.",
+          "tone": "firm",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_44_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "対応として、すでにロールバックを実行中で、30分以内に復旧の見込みでございます。",
+          "sentence_translation": "Bên em đang thực thi rollback, dự kiến khôi phục trong 30 phút ạ.",
+          "tone": "firm",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_44_good_05",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "分かりました。復旧後に詳細レポートをください。",
+          "sentence_translation": "Tôi hiểu rồi. Sau khi khôi phục em gửi báo cáo chi tiết nhé.",
+          "tone": "firm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_44_kp_01",
+      "speaker": "zun",
+      "sentence": "残念なお知らせがございまして、お電話いたしました。",
+      "sentence_translation": "Em có tin không hay cần báo nên xin phép gọi anh ạ.",
+      "purpose": "悪い知らせの予告フレーズ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_44_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "悪い知らせを伝える時の最初の一言として正しいのは？",
+      "options": [
+        "問題が起きました",
+        "残念なお知らせがございまして",
+        "失敗しました",
+        "ヤバいです"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "『残念なお知らせ』が予告として丁寧で、相手に心構えさせる。",
+        "vi": "「残念なお知らせ」 là cách mở đầu lịch sự, giúp đối phương chuẩn bị."
+      }
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "rule_id": "rule_10",
+  "rule_slug": "朝礼での報告",
+  "title": {
+    "ja": "朝礼での報告 (30-60秒)",
+    "vi": "Báo cáo trong chōrei (họp đầu giờ / morning standup)"
+  },
+  "rule_context": {
+    "ja": "Phase 2 チームの朝礼。ズンが当番で報告するが詳細を語りすぎ、トゥアンリーダーから「昨日/今日/困りごと」の3行フォーマットを指導される。",
+    "vi": "朝礼 team Phase 2. Em Dũng đến lượt báo nhưng kể quá chi tiết, anh Tuấn chỉ format 3 dòng 'hôm qua / hôm nay / việc khó'."
+  },
+  "related_rules": [
+    "rule_02",
+    "rule_14"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 2分の物語形式",
+      "label_vi": "XẤU — Kể chuyện 2 phút",
+      "display_order": 1,
+      "analysis": {
+        "ja": "1人2分 × 8人 = 16分。朝礼の趣旨（短時間で全員の状況を把握）を破壊する。",
+        "vi": "1 người 2 phút × 8 người = 16 phút. Phá hỏng mục đích của 朝礼 (nắm tình hình cả team trong thời gian ngắn)."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_10_bad_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "次、ズン。",
+          "sentence_translation": "Tiếp theo, Dũng.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_10_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "昨日は API のリファクタを始めて、最初は単純だと思ったんですが、〇〇のところで…ええと、それで松本様からのコメントもあって…今日は…うーん、続きを…",
+          "sentence_translation": "Hôm qua em bắt đầu refactor API, đầu tiên em tưởng đơn giản nhưng đến chỗ 〇〇 thì... ờ rồi anh Matsumoto cũng có comment... hôm nay thì... ừm, em làm tiếp...",
+          "tone": "uncertain",
+          "speed_multiplier": 1.05
+        },
+        {
+          "line_id": "rule_10_bad_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "ズン、朝礼は30秒。詳細は10時に 1-on-1 で聞く。今は3行で。",
+          "sentence_translation": "Dũng, 朝礼 là 30 giây. Chi tiết để 1-on-1 lúc 10h. Bây giờ 3 dòng thôi.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_10_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "すみません…",
+          "sentence_translation": "Em xin lỗi ạ...",
+          "tone": "apologetic"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 3行30秒",
+      "label_vi": "TỐT — 3 dòng 30 giây",
+      "display_order": 2,
+      "analysis": {
+        "ja": "「昨日／今日／困りごと」の3行で全員が 30 秒以内に終わると、朝礼全体が 5 分で完結。困りごとがある人は朝礼後に個別フォロー。",
+        "vi": "3 dòng 'hôm qua / hôm nay / việc khó' giúp mỗi người dưới 30 giây, cả 朝礼 xong trong 5 phút. Ai có blocker thì xử lý 1-on-1 sau."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_10_good_02",
+          "highlight_text": "困りごと：松本様コメントの3番が解釈不明、トゥアンさんと10時に5分相談",
+          "ja": "blocker は具体的に＋解決チャネル（誰と何分）まで提示。朝礼で深入りせず別枠を確保。",
+          "vi": "Blocker phải cụ thể + nêu kênh giải quyết (với ai, bao nhiêu phút). Không kéo dài trong 朝礼, đặt slot riêng."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_10_good_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "次、ズン。",
+          "sentence_translation": "Tiếp theo, Dũng.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_10_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "昨日：APIリファクタ60%完了。今日：残り40%+テスト着手。困りごと：松本様コメントの3番が解釈不明、トゥアンさんと10時に5分相談したいです。",
+          "sentence_translation": "Hôm qua: refactor API 60% xong. Hôm nay: 40% còn lại + bắt đầu test. Việc khó: comment số 3 của anh Matsumoto em chưa hiểu, em xin 5 phút với anh Tuấn lúc 10h ạ.",
+          "tone": "neutral",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_10_good_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "了解、10時5分 OK。次、リン。",
+          "sentence_translation": "OK, 10h 5 phút. Tiếp theo, Linh.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_10_good_04",
+          "speaker": "linh",
+          "speaker_role": "マーケティング部インターン",
+          "gender": "female",
+          "sentence": "昨日：マーケ資料 v3 完成。今日：v3 をハイ先輩にレビュー依頼。困りごと：なし。",
+          "sentence_translation": "Hôm qua: tài liệu marketing v3 xong. Hôm nay: nhờ anh Hải review v3. Việc khó: không có ạ.",
+          "tone": "neutral"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_10_kp_01",
+      "speaker": "zun",
+      "sentence": "昨日：〇〇。今日：〇〇。困りごと：〇〇／なし。",
+      "sentence_translation": "Hôm qua: 〇〇. Hôm nay: 〇〇. Việc khó: 〇〇 / không có.",
+      "purpose": "朝礼3行フォーマット",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_10_bjt_01",
+      "level": "J4",
+      "skill": "場面把握",
+      "question_ja": "朝礼での1人あたりの理想的報告時間は？",
+      "options": [
+        "3-5分",
+        "30-60秒",
+        "10秒",
+        "5分以上"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "朝礼は短時間で全員の状況を把握する場。1人 30-60 秒、3 行（昨日／今日／困りごと）で済ます。",
+        "vi": "朝礼 là dịp nắm tình hình cả team trong thời gian ngắn. Mỗi người 30-60 giây, 3 dòng (hôm qua / hôm nay / việc khó)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "rule_id": "rule_10",
+  "rule_slug": "上座・下座",
+  "title": {
+    "ja": "上座・下座",
+    "vi": "Vị trí ngồi (kamiza/shimoza)"
+  },
+  "rule_context": {
+    "ja": "3階会議室到着後、ズンが白鷗3名に上座配置を提案。中村CFO中央、大垣右、松本左の階層配置。",
+    "vi": "Vào phòng họp tầng 3, Dũng mời 3 khách 白鷗 ngồi kamiza: Nakamura CFO trung tâm, Ōgaki bên phải, Matsumoto bên trái."
+  },
+  "related_rules": [
+    "rule_06",
+    "rule_09",
+    "rule_11"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 『どこでも』+host上座占有",
+      "label_vi": "XẤU — 'ngồi đâu cũng được' + host chiếm 上座",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①席ブリーフィング欠如で客が立ち往生 ②host上座占有で『ルール無知』暴露。日本側は無言だが記憶。",
+        "vi": "(1) Không briefing seat = khách đứng đần. (2) Host chiếm 上座 = lộ 'không biết quy tắc'. Khách im nhưng nhớ."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_10_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと、お好きなところにどうぞ。",
+          "sentence_translation": "À, các anh ngồi chỗ nào tùy ý ạ.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_10_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "（無言で見回す）",
+          "sentence_translation": "(im lặng nhìn quanh)",
+          "tone": "neutral",
+          "pause_after_ms": 1500
+        },
+        {
+          "line_id": "rule_10_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、ここで打ち合わせしましょう。",
+          "sentence_translation": "À, mình họp ở đây nhé.",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_10_bad_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "…はい。",
+          "sentence_translation": "...Vâng.",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 階層別席ブリーフィング",
+      "label_vi": "TỐT — briefing seat theo cấp",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_10_good_01",
+          "highlight_text": "こちらへお掛けください",
+          "ja": "『お掛けください』は『座ってください』の敬語。手で席を90度指し示す。",
+          "vi": "Kính ngữ của 'ngồi xuống'. Tay 90° chỉ ghế."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_10_good_01",
+          "highlight_text": "中村CFOは中央に",
+          "ja": "客団内最上位(CFO)は上座中央。部長は上座から見て右、PMは左。右>左の格付け。",
+          "vi": "Senior nhất (CFO) ngồi kamiza giữa. 部長 bên phải, PM bên trái. Phải > Trái về độ trang trọng."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_10_good_05",
+          "highlight_text": "下座中央=フオン副部長",
+          "ja": "host側senior(副部長)が客側senior(CFO)と対面ミラー席。同レベル対話容易。",
+          "vi": "Senior bên mình (副部長) ngồi đối diện senior bên khách (CFO). Cùng level dễ trao đổi."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_10_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "こちらへお掛けください。中村CFOは中央に、大垣部長は中村CFOから見て右に、松本PMは左にお願いいたします。",
+          "sentence_translation": "Mời các anh ngồi đây ạ. Anh Nakamura CFO ở giữa, anh Ōgaki 部長 bên phải nhìn từ anh Nakamura, anh Matsumoto PM bên trái ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.9,
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_10_good_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "ありがとうございます。",
+          "sentence_translation": "Cảm ơn anh.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_10_good_03",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "失礼します。",
+          "sentence_translation": "Xin phép.",
+          "tone": "formal",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_10_good_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "失礼いたします。",
+          "sentence_translation": "Em xin phép ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_10_kp_01",
+      "speaker": "zun",
+      "sentence": "こちらへお掛けください。中村CFOは中央にお願いいたします。",
+      "sentence_translation": "Mời các anh ngồi đây ạ. Anh Nakamura CFO mời ngồi giữa.",
+      "purpose": "上座席ブリーフィング",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_10_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "客側 CFO/部長/PM 3名が来訪。会議室での適切な配置は？",
+      "options": [
+        "PM中央、CFO・部長は両脇",
+        "CFO中央、部長は右(CFOから見て)、PMは左",
+        "全員下座(host席)に配置",
+        "順序は客が決める"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "上座中央=客側最上位。右>左の格付けが日本標準。",
+        "vi": "Trung tâm 上座 = senior nhất. Phải > Trái về cấp."
+      }
+    }
+  ]
+}

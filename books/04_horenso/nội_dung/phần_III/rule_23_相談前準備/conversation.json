@@ -1,0 +1,200 @@
+{
+  "rule_id": "rule_23",
+  "rule_slug": "相談前の準備",
+  "title": {
+    "ja": "相談前の準備（5W1H + 3事例 + 仮説）",
+    "vi": "Chuẩn bị trước khi tham vấn"
+  },
+  "rule_context": {
+    "ja": "リン（マーケティングインターン）が印刷会社の納期遅れについてズンに相談する場面。手ぶらの丸投げから、5W1H・参考事例・自分の仮説の3点セットへ。",
+    "vi": "Em Linh (intern Marketing) tham vấn anh Dũng về việc nhà in báo trễ. Từ đến tay không (đẩy hết) → mang đủ bộ 3: 5W1H + 3 case tham chiếu + giả thuyết của bản thân."
+  },
+  "related_rules": ["rule_22", "rule_24", "rule_25"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 手ぶら相談",
+      "label_vi": "XẤU — Đến tay không",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「どうしたらいいですか」は丸投げ。上司が逆に5W1Hを質問する形になり、リンの代わりに調査する羽目に。",
+        "vi": "「Phải làm sao」 là đẩy hết. Sếp bị buộc phải đảo lại đặt câu hỏi 5W1H, biến thành đi điều tra thay cho Linh."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_23_bad_01",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "ズンさん、ちょっとご相談…印刷会社が3日遅れるって言ってるんですけど、どうしたらいいですか?",
+          "sentence_translation": "Anh Dũng, em hỏi chút... nhà in nói trễ 3 ngày, mình phải làm sao ạ?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_23_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "いつ連絡来た?どこの印刷会社?何が遅れる?代替業者は探した?他のチームは過去に同じ問題なかった?",
+          "sentence_translation": "Khi nào họ báo? Nhà in nào? Cái gì trễ? Em đã tìm nhà cung cấp khác chưa? Team trước có gặp chưa?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_23_bad_03",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "あ、えっと…まだ何も…",
+          "sentence_translation": "À, em... chưa làm gì cả...",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_23_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "リン、相談する前に最低3つは揃えて: ①5W1H、②過去事例、③自分の仮説。今その状態だと、僕がリンの代わりに調査することになる。",
+          "sentence_translation": "Linh, trước khi tham vấn phải có tối thiểu 3 thứ: 5W1H, case quá khứ, giả thuyết của em. Trạng thái hiện tại thì anh phải điều tra thay em đó.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 3点セット持参",
+      "label_vi": "TỐT — Mang đủ bộ 3",
+      "display_order": 2,
+      "analysis": {
+        "ja": "事前に状況整理 + 代替先3社へ電話済 + 自分の推奨案あり。上司は判断するだけで済み、5分以内に決着。",
+        "vi": "Đã tự tổ chức tình huống + đã call 3 nhà cung cấp + có recommend phương án. Sếp chỉ cần quyết định, dưới 5 phút xong."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_23_good_01",
+          "highlight_text": "事前に状況・参考事例・仮説をまとめてあります",
+          "ja": "切り出しの一文で『3点セット用意済み』と宣言。上司は本格的な相談だと認識する。",
+          "vi": "Câu mở đã tuyên bố 'có sẵn bộ 3'. Sếp nhận biết ngay là tham vấn nghiêm túc."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_23_good_03",
+          "highlight_text": "4/22 16時、印刷会社A社から電話",
+          "ja": "5W1Hを箇条書き的に1文に圧縮。上司は質問する手間が省ける。",
+          "vi": "5W1H gói gọn thành 1 câu liệt kê. Sếp đỡ phải hỏi lại."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_23_good_04",
+          "highlight_text": "C社・D社にも電話済",
+          "ja": "代替先に既に電話済 = 自分で動いた証拠。仮説の信頼性が一気に上がる。",
+          "vi": "Đã call cả nhà cung cấp thay thế = chứng minh tự action. Độ tin cậy của giả thuyết tăng vọt."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_23_good_05",
+          "highlight_text": "ご判断をお願いいたします",
+          "ja": "なぜ相談するのかも明示（権限がない）。これは丸投げではなく『判断依頼』だと示す。",
+          "vi": "Cũng nêu rõ tại sao tham vấn (không có quyền). Cho thấy đây không phải đẩy việc mà là xin duyệt."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_23_good_01",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "ズンさん、ご相談したいことがあるのですが、5分ほどお時間よろしいでしょうか?事前に状況・参考事例・仮説をまとめてあります。",
+          "sentence_translation": "Anh Dũng, em có việc muốn tham vấn, anh cho em 5 phút được không ạ? Em đã chuẩn bị sẵn tình huống, case tham chiếu và giả thuyết ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_23_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ばっちり、聞きます。",
+          "sentence_translation": "Tuyệt, anh nghe đây.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_23_good_03",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "①状況: 4/22 16時、印刷会社A社から電話。Phase2 ローンチ用ブロシュア500部、4/25納品予定が4/28に変更。理由は『紙の供給遅れ』。",
+          "sentence_translation": "[Tình huống] 16h ngày 22/4, nhà in A gọi điện. 500 bản brochure dùng cho launch Phase 2, lịch giao 25/4 đổi thành 28/4. Lý do 'thiếu giấy'.",
+          "tone": "neutral",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_23_good_04",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "②参考事例: (a) 昨年 Marketing チームで類似ケース — B社で代替印刷、コスト+10%。(b) 社内 Wiki で印刷会社リスト3社確認。(c) C社・D社にも電話済、C社は4/26納品可能・コスト同等、D社は4/24納品可能・コスト+15%。",
+          "sentence_translation": "[Case tham chiếu] (a) Năm ngoái team Marketing đã gặp tương tự — đổi sang nhà B, cost +10%. (b) Wiki nội bộ có list 3 nhà in. (c) Em đã gọi C và D: C giao 26/4 cost tương đương, D giao 24/4 cost +15%.",
+          "tone": "neutral",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_23_good_05",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "③仮説: C社で代替するのが最適と考えております。理由は納品遅れが1日のみ + コスト同等のためです。ただし契約変更の権限が私にないため、ご判断をお願いいたします。",
+          "sentence_translation": "[Giả thuyết] Em nghĩ chuyển sang nhà C là tốt nhất. Lý do: chỉ trễ 1 ngày + cost tương đương. Nhưng em không có quyền đổi hợp đồng, nhờ anh quyết ạ.",
+          "tone": "formal",
+          "annotation_ids": ["4"]
+        },
+        {
+          "line_id": "rule_23_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "完璧な相談だね。仮説に賛成、C社で進めて。契約変更はチームメールで僕も入れて。",
+          "sentence_translation": "Tham vấn hoàn hảo. Anh đồng ý giả thuyết của em, chốt nhà C. Mail thay đổi hợp đồng nhớ CC anh.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_23_kp_01",
+      "speaker": "linh",
+      "sentence": "事前に状況・参考事例・仮説をまとめてあります。",
+      "sentence_translation": "Em đã chuẩn bị sẵn tình huống, case tham chiếu và giả thuyết ạ.",
+      "purpose": "相談切り出しで3点セットの用意を宣言",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_23_kp_02",
+      "speaker": "linh",
+      "sentence": "私の仮説は〇〇です。理由は〇〇です。ただし権限がないため、ご判断をお願いいたします。",
+      "sentence_translation": "Giả thuyết của em là 〇〇. Lý do là 〇〇. Nhưng em không có quyền nên nhờ anh quyết ạ.",
+      "purpose": "仮説 + 相談理由の言語化",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_23_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "上司に相談する前に必ず揃えるべき3点は?",
+      "options": [
+        "5W1H・参考事例・自分の仮説",
+        "上司の好み・天気・自分の予定",
+        "他社の情報・自分の希望・予算",
+        "メールテンプレート・カレンダー・タスクリスト"
+      ],
+      "correct": "A",
+      "explanation": {
+        "ja": "①5W1H で状況整理、②3つの参考事例で過去・代替案を確認、③自分の仮説を立てる。これがないと相談ではなく丸投げになる。",
+        "vi": "5W1H tổ chức tình huống / 3 case tham chiếu rà quá khứ + alternative / giả thuyết của bản thân. Thiếu = đẩy việc."
+      }
+    }
+  ]
+}

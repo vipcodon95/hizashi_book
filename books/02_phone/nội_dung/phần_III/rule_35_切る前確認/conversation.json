@@ -1,0 +1,97 @@
+{
+  "rule_id": "rule_35",
+  "rule_slug": "電話を切る前の確認",
+  "title": {
+    "ja": "電話を切る前の確認",
+    "vi": "Review summary trước khi cúp máy"
+  },
+  "rule_context": {
+    "ja": "通話終了前に合意事項・担当・期限の3点サマリーで認識合わせを行う。",
+    "vi": "Trước khi cúp, tóm tắt 3 điểm 'thống nhất / người làm / hạn' để confirm hiểu chung."
+  },
+  "related_rules": [
+    "rule_22",
+    "rule_28",
+    "rule_51"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『最後に確認させていただきます』で締めの合図→具体的タスクと期限を列挙→『以上でよろしいでしょうか』で同意取得。",
+        "vi": "「最後に確認させていただきます」 báo hiệu kết thúc → liệt kê task + hạn cụ thể → 「以上でよろしいでしょうか」 chốt đồng ý."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_35_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "最後に確認させていただきます。明日朝までに進捗報告書をメールでお送りし、午後オンライン会議でご説明いたします。会議URLは本日中にお送りいたします。",
+          "sentence_translation": "Em xin chốt lại ạ. Sáng mai em sẽ gửi báo cáo tiến độ qua mail, chiều họp online em giải thích. Link họp em gửi trong hôm nay ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_35_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "以上でよろしいでしょうか？",
+          "sentence_translation": "Như vậy được không ạ?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_35_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "はい、その通りです。よろしくお願いします。",
+          "sentence_translation": "Vâng, đúng vậy. Nhờ em ạ.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_35_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございました。失礼いたします。",
+          "sentence_translation": "Cảm ơn anh ạ. Em xin phép cúp máy ạ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_35_kp_01",
+      "speaker": "zun",
+      "sentence": "最後に確認させていただきます。〇〇、以上でよろしいでしょうか？",
+      "sentence_translation": "Em xin chốt lại ạ. 〇〇, như vậy được không ạ?",
+      "purpose": "通話終了前のサマリー確認",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_35_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "通話終了前のサマリーに含めない要素は？",
+      "options": [
+        "合意事項",
+        "担当者",
+        "期限",
+        "個人の感想"
+      ],
+      "correct": "D",
+      "explanation": {
+        "ja": "サマリーは『合意・担当・期限』の3点。感想は不要。",
+        "vi": "Tóm tắt 3 điểm: thống nhất / người làm / hạn. Cảm tưởng cá nhân không cần."
+      }
+    }
+  ]
+}

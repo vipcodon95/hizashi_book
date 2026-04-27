@@ -1,0 +1,123 @@
+{
+  "rule_id": "08-45",
+  "rule_slug": "カラオケ",
+  "title": {
+    "vi": "Karaoke — chọn bài",
+    "ja": "カラオケ選曲"
+  },
+  "rule_context": {
+    "luan_diem_vi": "Karaoke 二次会 thường gặp. Match thế hệ: 50-60t Showa hits / 30-40t J-pop / dưới 30 Reiwa idol. Tránh English pop khó / bài chống nắng / bài quá dark.",
+    "luan_diem_ja": "二次会のカラオケは世代直撃選曲が肝。シニアには昭和歌謡、30-40代はJ-pop、若手は令和。難しい英語・ダーク曲・隠れ名曲は避ける。",
+    "boi_canh_vi": "Tháng 6/2026, sau dinner Phase 4. 二次会 chuyển sang karaoke phòng riêng. 4 audience: Ōgaki 55t Showa, Tanaka 35t Mr.Children, Hai 28t junior VN nervous, Yamamoto 38t Osaka.",
+    "boi_canh_ja": "2026年6月、フェーズ4後の二次会、カラオケ個室。大垣55(昭和)、田中35(ミスチル)、ハイ28(VN若手・緊張)、山本38(大阪)。",
+    "muc_tieu_vi": "Master karaoke playlist drive — match generation + bridge VN-JP."
+  },
+  "related_rules": [
+    {"book": "08", "rule": "44", "topic": "二次会"},
+    {"book": "08", "rule": "18", "topic": "Generation references"},
+    {"book": "08", "rule": "47", "topic": "Topic Gold"}
+  ],
+  "conversations": [
+    {
+      "scenario": "Kick-off — junior hát first warmup",
+      "type": "good",
+      "lines": [
+        {"speaker": "oogaki_sales", "ja": "ズン、まず誰行く?", "vi": "Dũng, ai hát đầu?"},
+        {"speaker": "zun", "ja": "まず私から行かせていただきます。皆さんの空気作れたら(笑)", "vi": "Em xin hát đầu ạ. Để tạo không khí cho mọi người (cười)"},
+        {"speaker": "zun", "ja": "Mr. Childrenの『シーソーゲーム』で行きます。(歌う)", "vi": "Em hát 'Seesaw Game' của Mr. Children ạ. (hát)"},
+        {"speaker": "oogaki_sales", "ja": "ズン上手いやん!ベトナム語で歌うと思ってたわ(笑)", "vi": "Dũng hát hay luôn! Anh tưởng em hát tiếng Việt cơ (cười)"},
+        {"speaker": "zun", "ja": "日本語ばかり練習してます(笑)。次、大垣さんいかがですか?", "vi": "Em luyện tiếng Nhật suốt (cười). Tiếp anh Ōgaki ạ?"},
+        {"speaker": "oogaki_sales", "ja": "俺な、サザンの『TSUNAMI』。", "vi": "Anh thì 'TSUNAMI' của Southern All Stars."}
+      ]
+    },
+    {
+      "scenario": "Match Showa cho senior 55t",
+      "type": "good",
+      "lines": [
+        {"speaker": "oogaki_sales", "ja": "(『TSUNAMI』を歌い終える、拍手)", "vi": "(hát xong TSUNAMI, vỗ tay)"},
+        {"speaker": "zun", "ja": "大垣さん、もし良ければ松田聖子の『青い珊瑚礁』、Yamamotoさんと一緒にデュエットいかがですか?", "vi": "Anh Ōgaki, nếu được thì 'Aoi Sangoshou' của Matsuda Seiko, hát đôi với chị Yamamoto được không ạ?"},
+        {"speaker": "yamamoto_kansai", "ja": "えーやっぱりズン、わかってるねえ!行こ大垣さん!", "vi": "Eee Dũng, em hiểu thật đó! Đi anh Ōgaki!"},
+        {"speaker": "oogaki_sales", "ja": "ええなあ、聖子ちゃん!ズンも一緒に踊らな。", "vi": "Hay đó, Seiko-chan! Dũng cũng nhảy cùng đi."},
+        {"speaker": "zun", "ja": "お供します(笑)", "vi": "Em hầu ạ (cười)"}
+      ]
+    },
+    {
+      "scenario": "J-pop cho 30-40t",
+      "type": "good",
+      "lines": [
+        {"speaker": "tanaka_pmo", "ja": "俺の番か?Mr. Children『innocent world』で。", "vi": "Đến anh à? 'innocent world' Mr. Children."},
+        {"speaker": "tanaka_pmo", "ja": "(歌う)", "vi": "(hát)"},
+        {"speaker": "zun", "ja": "田中さん、さすがミスチル似合いますね。次、私もう一曲、スピッツ『チェリー』でいいですか?", "vi": "Anh Tanaka đúng là hợp Mr. Children. Tiếp em hát 'Cherry' của Spitz được không?"},
+        {"speaker": "tanaka_pmo", "ja": "スピッツ!君、いいセンスしてる(笑)", "vi": "Spitz! Em gu hay đó (cười)"},
+        {"speaker": "zun", "ja": "(歌う)", "vi": "(hát)"},
+        {"speaker": "tanaka_pmo", "ja": "(refrainで一緒に歌う)", "vi": "(refrain hát theo)"}
+      ]
+    },
+    {
+      "scenario": "Junior VN nervous — bridge bài VN",
+      "type": "good",
+      "lines": [
+        {"speaker": "hai", "ja": "すみません、日本の歌、あんまり歌えなくて…", "vi": "Em xin lỗi, em không hát được nhiều bài Nhật..."},
+        {"speaker": "zun", "ja": "ハイ、ベトナム語の歌でいいよ!Mỹ Tâm『Như một giấc mơ』とか。日本人の方も新鮮で喜ばれる。", "vi": "Hải, hát tiếng Việt được mà! Như 'Như một giấc mơ' của Mỹ Tâm. Khách Nhật cũng thấy mới mẻ."},
+        {"speaker": "yamamoto_kansai", "ja": "ベトナムの歌!?是非聞きたい!", "vi": "Bài VN! Em muốn nghe lắm!"},
+        {"speaker": "hai", "ja": "では、ファン・マイン・クイン『Có chàng trai viết lên cây』で。", "vi": "Vậy em hát 'Có chàng trai viết lên cây' của Phan Mạnh Quỳnh."},
+        {"speaker": "hai", "ja": "(歌う)", "vi": "(hát)"},
+        {"speaker": "oogaki_sales", "ja": "ベトナム語、響きが綺麗やな。意味は?", "vi": "Tiếng Việt nghe đẹp nhỉ. Nghĩa là gì?"},
+        {"speaker": "zun", "ja": "『木に名前を刻んだ少年』っていう恋の歌で、最近VNで流行りました。", "vi": "'Chàng trai khắc tên lên cây', bài tình hot ở VN gần đây."},
+        {"speaker": "oogaki_sales", "ja": "言語違っても、メロディの良さは伝わるんやな。ハイさん、上手かった!", "vi": "Khác ngôn ngữ vẫn cảm được giai điệu hay. Hải hát giỏi!"}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"category": "Kick-off", "ja": "まず私から行かせていただきます。皆さんの空気作れたら(笑)", "vi": "Em xin hát đầu để tạo không khí (cười).", "use": "Junior warmup phòng"},
+    {"category": "Suggest senior", "ja": "[senior]さん、もし良ければ松田聖子の『青い珊瑚礁』、いかがですか?", "vi": "Nếu được thì 'Aoi Sangoshou' Matsuda Seiko, anh hát không?", "use": "Match Showa"},
+    {"category": "Showa hits", "ja": "サザンの『TSUNAMI』、いきましょう!", "vi": "'TSUNAMI' của Southern All Stars, đi anh!", "use": "Bài 鉄板 50-60t"},
+    {"category": "J-pop", "ja": "Mr. Children『innocent world』、いかがですか?", "vi": "'innocent world' Mr. Children?", "use": "Match 30-40t"},
+    {"category": "Suggest mình", "ja": "次、私もう一曲、スピッツ『チェリー』でいいですか?", "vi": "Tiếp em hát 'Cherry' Spitz được không?", "use": "Hỏi xin lượt"},
+    {"category": "Junior VN", "ja": "ベトナム語の歌でいいよ!Mỹ Tâm とか、新鮮で喜ばれる。", "vi": "Hát tiếng Việt được, Mỹ Tâm chẳng hạn — mới mẻ.", "use": "Rescue junior VN"},
+    {"category": "Explain", "ja": "『[bài]』っていう[ý nghĩa]の歌で、最近VNで流行りました。", "vi": "'[Bài]' là bài [ý nghĩa], hot ở VN gần đây.", "use": "Explain sau khi hát VN"},
+    {"category": "Đóng buổi", "ja": "皆さん、お疲れ様でした。今日もありがとうございました。", "vi": "Mọi người vất vả rồi. Hôm nay cảm ơn ạ.", "use": "Closing"}
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "カラオケに入ったばかりの時、最若手の最適な行動は?",
+      "options": [
+        "A. シニアにまず歌わせる",
+        "B. 自分が90s J-popで先に歌い空気を作って、次にシニアへ振る",
+        "C. 歌わずに飲むだけ",
+        "D. 英語の難しい曲を選ぶ"
+      ],
+      "answer": "B",
+      "explain_vi": "Junior warmup phòng = pro. Bài 90s safe + ai cũng biết. A senior phải start awkward; C không hợp tác; D hát yếu hơn."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "55歳の関西出身senior にカラオケで提案する曲として最適なのは?",
+      "options": [
+        "A. YOASOBI『夜に駆ける』",
+        "B. 松田聖子『青い珊瑚礁』(80年代直撃)",
+        "C. 椎名林檎『歌舞伎町の女王』",
+        "D. ABBA『Dancing Queen』"
+      ],
+      "answer": "B",
+      "explain_vi": "Showa idol 80s = 直撃 senior 55t. A Reiwa young; C dark + niche; D English khó."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "ベトナム人junior が『日本の歌歌えない』と言った時、最適な対応は?",
+      "options": [
+        "A. 「歌わなくてもいい」と免除する",
+        "B. ベトナム語の有名曲を提案+日本人客にメロディの良さを橋渡しする",
+        "C. 「練習しといて」と叱る",
+        "D. 自分がもう一曲歌う"
+      ],
+      "answer": "B",
+      "explain_vi": "Junior VN nervous → bridge VN song + explain → khách JP thấy thú vị. A skip miss bonding; C pressure; D ép junior tan."
+    }
+  ],
+  "templates": []
+}

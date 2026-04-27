@@ -1,0 +1,237 @@
+{
+  "rule_id": "rule_23",
+  "rule_slug": "退室マナー",
+  "title": {
+    "ja": "退室マナー",
+    "vi": "Rời văn phòng trang trọng"
+  },
+  "rule_context": {
+    "ja": "白鷗本社 Phase 3 kickoff meeting + tour 終了 12:30。ズン+トゥアンが田中PMOに退室の挨拶+お辞儀+ドア手チラリ案内で退出する場面。",
+    "vi": "Trụ sở 白鷗 — meeting + tour Phase 3 kickoff xong lúc 12:30. Dũng + Tuấn chào, bow, được Tanaka PMO chỉ lối ra cửa."
+  },
+  "related_rules": [
+    "rule_21",
+    "rule_22",
+    "rule_30",
+    "rule_32"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 座ったまま挨拶 + 急ぎ退出",
+      "label_vi": "XẤU — ngồi luôn chào + vội rời",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①座ったまま挨拶=最初から最後まで失礼 ②鞄前抱え+急ぎ足=逃げる印象 ③ドア前で振り返らない=最後の印象ゼロ。",
+        "vi": "(1) Ngồi luôn chào = thiếu lễ. (2) Ôm cặp + bước vội = giống đang trốn. (3) Trước cửa không quay lại = ấn tượng cuối = 0."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_23_bad_01",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "本日はありがとうございました。",
+          "sentence_translation": "Hôm nay cảm ơn các anh ạ.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_23_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（座ったまま）はい、ありがとうございました。じゃ、帰ります。",
+          "sentence_translation": "(vẫn ngồi) Vâng, cảm ơn anh. Bọn em về đây.",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_23_bad_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "（鞄を前で抱えてドアへ早足）",
+          "sentence_translation": "(ôm cặp trước ngực, sải bước nhanh ra cửa)",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_23_bad_04",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "あ、出口はこちら…",
+          "sentence_translation": "Ơ, lối ra bên này...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_23_bad_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（振り返らずドアを開けて出る）",
+          "sentence_translation": "(không quay đầu, mở cửa đi luôn)",
+          "tone": "casual"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 起立 → 30°お辞儀 → ドア前で再bow",
+      "label_vi": "TỐT — đứng dậy → bow 30° → trước cửa bow lần 2",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_23_good_02",
+          "highlight_text": "椅子を引いて起立 → お辞儀30°",
+          "ja": "起立は host より僅か遅れor同時。30°=正式お辞儀。退室時は入室より深く。",
+          "vi": "Đứng dậy hơi sau host hoặc cùng lúc. 30° = bow chính thức. Bow lúc rời sâu hơn lúc vào."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_23_good_04",
+          "highlight_text": "出口はあちらでございます",
+          "ja": "Tanakaが手を平らに開いてドアを示す=正式 ushering。客側はその方向に身体を向ける。",
+          "vi": "Tanaka mở bàn tay phẳng chỉ cửa = ushering chính thức. Khách phải xoay người theo hướng đó."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_23_good_06",
+          "highlight_text": "ドア前で再度振り返り、お辞儀",
+          "ja": "最後の印象=最大記憶。ドア前で振り向いて再bow=日本式『去り際の美学』。",
+          "vi": "Ấn tượng cuối = nhớ lâu nhất. Tới cửa quay lại bow = 'mỹ học khi rời' kiểu Nhật."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_23_good_07",
+          "highlight_text": "失礼いたします",
+          "ja": "退室固定句。入室時の『失礼いたします』と pair。深い 30°礼を伴う。",
+          "vi": "Câu cố định khi rời. Cặp với câu lúc vào. Đi kèm bow sâu 30°."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_23_good_01",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "本日はお越しいただき、誠にありがとうございました。",
+          "sentence_translation": "Hôm nay các anh đã đến, tôi xin chân thành cảm ơn.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_23_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（椅子を引いて起立、鞄は左手、お辞儀30°）こちらこそ、貴重なお時間をありがとうございました。",
+          "sentence_translation": "(đẩy ghế, đứng dậy, cặp ở tay trái, bow 30°) Em mới phải cảm ơn anh đã dành thời gian quý báu ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_23_good_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "（同様に起立 → お辞儀30°）Phase 3 kickoff、実りのあるお打ち合わせでした。",
+          "sentence_translation": "(cũng đứng dậy → bow 30°) Buổi họp kickoff Phase 3 rất nhiều giá trị ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_23_good_04",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "（手を平らに開いてドアを指す）出口はあちらでございます。エレベーターまでご案内いたします。",
+          "sentence_translation": "(mở bàn tay phẳng chỉ cửa) Lối ra bên kia ạ. Tôi xin dẫn các anh ra thang máy.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_23_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "恐れ入ります、お願いいたします。",
+          "sentence_translation": "Phiền anh ạ, em xin nhờ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_23_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（ドア前で振り返り、再度お辞儀30°）",
+          "sentence_translation": "(tới cửa quay lại, bow lần 2 — 30°)",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_23_good_07",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "失礼いたします。",
+          "sentence_translation": "Em xin phép ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "4"
+          ]
+        },
+        {
+          "line_id": "rule_23_good_08",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "お気をつけてお帰りください。",
+          "sentence_translation": "Các anh về cẩn thận ạ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_23_kp_01",
+      "speaker": "zun",
+      "sentence": "貴重なお時間をありがとうございました。",
+      "sentence_translation": "Cảm ơn anh đã dành thời gian quý báu ạ.",
+      "purpose": "退室開始の決まり文句",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_23_kp_02",
+      "speaker": "tuan_leader",
+      "sentence": "失礼いたします。",
+      "sentence_translation": "Em xin phép ạ.",
+      "purpose": "ドア前 退室固定句",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_23_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "客先meeting終了時の退室作法で最も適切なのは？",
+      "options": [
+        "座ったまま『ありがとうございました』と言って急ぎ退出",
+        "起立 → お辞儀30° → ドア前で振り返り再bow → 『失礼いたします』",
+        "ドアを開けたまま振り返り長く話し続ける",
+        "鞄を前で抱えて早足で先に出る"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "起立 → 正式bow → ドア前で再bow が日本式退室の3点セット。最後の印象=最大記憶。",
+        "vi": "Đứng dậy → bow chính thức → trước cửa bow lần 2 = combo退室 Nhật. Ấn tượng cuối ăn sâu nhất."
+      }
+    }
+  ]
+}

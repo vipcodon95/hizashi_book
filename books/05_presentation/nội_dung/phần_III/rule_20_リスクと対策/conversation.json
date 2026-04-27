@@ -1,0 +1,162 @@
+{
+  "rule_id": "rule_20",
+  "rule_slug": "リスクと対策",
+  "title": {
+    "ja": "リスクと対策",
+    "vi": "Risk & mitigation"
+  },
+  "rule_context": {
+    "ja": "リン(インターン)が『リスクなし』と書きそうになる → ズンが3-5リスク×発生確率×影響×対策の標準形に直させる場面。",
+    "vi": "Linh sắp viết 「không có rủi ro」 → Dũng coach sang format 3-5 risk × xác suất × tác động × đối sách."
+  },
+  "related_rules": ["rule_05", "rule_17", "rule_19"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 『リスクなし』",
+      "label_vi": "XẤU — 「Không có rủi ro」",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『リスクなし』は『未経験 vendor』 or 『嘘』のシグナル。日本顧客は経験豊富なので即座に見抜く。",
+        "vi": "「Không có rủi ro」 là tín hiệu 「vendor non kinh nghiệm」 hoặc 「nói dối」. Khách Nhật giàu kinh nghiệm phát hiện ngay."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_20_bad_01",
+          "speaker": "linh",
+          "speaker_role": "Marketingインターン",
+          "gender": "female",
+          "sentence": "リスク特になし、安心してご利用いただけます！と書きました。",
+          "sentence_translation": "Em viết 「Không có rủi ro nào đặc biệt, quý vị có thể yên tâm sử dụng」 ạ!",
+          "tone": "cheerful"
+        },
+        {
+          "line_id": "rule_20_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ストップ。それ信頼の自殺行為。プロジェクトに『リスクなし』はあり得ない。書いた瞬間、客は『この vendor 経験ない or 嘘ついてる』のどちらかと判断する。",
+          "sentence_translation": "Stop. Đó là tự sát niềm tin đấy. Dự án không thể 「không có rủi ro」 được. Vừa viết là khách phán ngay 「vendor này non kinh nghiệm hoặc đang nói dối」.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_20_bad_03",
+          "speaker": "linh",
+          "speaker_role": "Marketingインターン",
+          "gender": "female",
+          "sentence": "えっ、客が嫌がると思って…",
+          "sentence_translation": "Ơ, em nghĩ khách ghét nghe rủi ro ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_20_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "逆。リスクを正直に出す + 対策セットで出す方が信頼される。3-5個 + 各対策が標準。",
+          "sentence_translation": "Ngược lại đấy. Show rủi ro thẳng + kèm đối sách = lấy được lòng tin hơn. Chuẩn là 3-5 cái + mỗi cái có đối sách.",
+          "tone": "warm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 4リスク×確率×影響×対策",
+      "label_vi": "TỐT — 4 risk × xác suất × tác động × đối sách",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_20_good_01",
+          "highlight_text": "4リスクを出しました",
+          "ja": "3-5リスクが sweet spot。3個少ない、6個以上希薄化。",
+          "vi": "3-5 risk là sweet spot. 3 cái yếu, 6+ loãng."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_20_good_02",
+          "highlight_text": "確率と影響を別評価",
+          "ja": "2軸 evaluation。『確率低×影響大』が見落とされがちで重要。",
+          "vi": "Đánh giá 2 chiều. 「Xác suất thấp + tác động lớn」 hay bị bỏ sót, quan trọng."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_20_good_04",
+          "highlight_text": "赤は『要警戒』マーク専用",
+          "ja": "Rule 05 (色彩心理) との整合。装飾の赤はNGだが warning の赤はOK。",
+          "vi": "Đồng bộ với rule 05. Đỏ trang trí NG, đỏ warning OK."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_20_good_01",
+          "speaker": "linh",
+          "speaker_role": "Marketingインターン",
+          "gender": "female",
+          "sentence": "4リスクを出しました。①インフラ移行(確率中・影響大)→対策: 旧環境 parallel 3ヶ月。②データ移行欠損(中・大)→リコンサイル日次監査。③KPI未達(低・中)→月次見直し再計画権利。④保守要員依存(低・中)→2名以上の training。",
+          "sentence_translation": "Em đưa ra 4 risk ạ. ① Migrate infra (xác suất trung / tác động lớn) → đối sách: chạy song song env cũ 3 tháng. ② Mất data khi migrate (TB / lớn) → audit reconcile hàng ngày. ③ KPI không đạt (thấp / TB) → review hàng tháng + quyền re-plan. ④ Phụ thuộc nhân sự bảo trì (thấp / TB) → train 2+ người.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_20_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Perfect。確率と影響を別評価してるのが良い。確率低 + 影響大は別 column で highlight。",
+          "sentence_translation": "Perfect. Đánh giá xác suất + tác động riêng là tốt. 「Xác suất thấp + tác động lớn」 nên highlight ở column riêng.",
+          "tone": "warm",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_20_good_03",
+          "speaker": "linh",
+          "speaker_role": "Marketingインターン",
+          "gender": "female",
+          "sentence": "赤色マークは『確率高×影響大』のセル？",
+          "sentence_translation": "Mark đỏ dùng cho cell 「xác suất cao × tác động lớn」 ạ?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_20_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "うん、赤は『要警戒』マーク専用 (rule 05 cross-ref)。ここなら赤の使い方として適切。",
+          "sentence_translation": "Đúng rồi, đỏ chỉ dành cho mark 「cần cảnh giác」 (cross-ref rule 05). Chỗ này dùng đỏ là đúng.",
+          "tone": "warm",
+          "annotation_ids": ["3"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_20_kp_01",
+      "speaker": "linh",
+      "sentence": "リスクは〇点、いずれも対策をご用意しております。",
+      "sentence_translation": "Có 〇 rủi ro ạ, mỗi cái đều có đối sách kèm theo.",
+      "purpose": "リスクスライド導入",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_20_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "プレゼンの risk スライドで最も信頼を高める書き方は？",
+      "options": [
+        "リスクは特にございません",
+        "3-5リスクを発生確率＋影響度＋対策付きで開示",
+        "リスクは社内秘につき非公開",
+        "リスクは全て低と表記"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "リスクなしは『未経験 / 嘘』signal。3-5個＋確率＋影響＋対策の正直開示が信頼を生む。",
+        "vi": "「Không có rủi ro」 = signal non kinh nghiệm / dối. 3-5 cái + xác suất + tác động + đối sách = trung thực mới sinh lòng tin."
+      }
+    }
+  ]
+}

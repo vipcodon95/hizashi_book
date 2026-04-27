@@ -1,0 +1,77 @@
+{
+  "rule_id": "rule_25",
+  "rule_slug": "電話する時間帯の選び方",
+  "title": {
+    "ja": "電話する時間帯の選び方",
+    "vi": "Chọn giờ gọi — khung tránh / khung tốt"
+  },
+  "rule_context": {
+    "ja": "発信時の時間帯選択。10-11時半／14-16時半がベスト。発信時に必ず『今お電話よろしいでしょうか』で都合確認。",
+    "vi": "Chọn khung giờ gọi: 10-11h30 / 14-16h30 là tốt. Khi gọi luôn hỏi 「今お電話よろしいでしょうか」 để xác nhận đối phương có rảnh."
+  },
+  "related_rules": [
+    "rule_24",
+    "rule_33"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "適切な時間帯（午前10時半）に発信し、それでも『今お電話よろしいでしょうか』で確認するのがプロの礼儀。",
+        "vi": "Gọi vào khung tốt (10h30) nhưng vẫn hỏi 「今お電話よろしいでしょうか」 — phép lịch sự của người chuyên nghiệp."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_25_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お世話になっております。今、お電話よろしいでしょうか？",
+          "sentence_translation": "Cảm ơn anh đã hỗ trợ ạ. Bây giờ em gọi điện có tiện không ạ?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_25_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "はい、大丈夫です。",
+          "sentence_translation": "Vâng, tiện ạ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_25_kp_01",
+      "speaker": "zun",
+      "sentence": "今、お電話よろしいでしょうか？",
+      "sentence_translation": "Bây giờ em gọi điện có tiện cho anh không ạ?",
+      "purpose": "発信時の都合確認",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_25_bjt_01",
+      "level": "J4",
+      "skill": "場面把握",
+      "question_ja": "ビジネス電話の発信時間として最も避けるべきは？",
+      "options": [
+        "10時半",
+        "12時半",
+        "14時",
+        "15時"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "12時-13時は昼休みで発信NG。",
+        "vi": "12-13h là giờ nghỉ trưa, không nên gọi."
+      }
+    }
+  ]
+}

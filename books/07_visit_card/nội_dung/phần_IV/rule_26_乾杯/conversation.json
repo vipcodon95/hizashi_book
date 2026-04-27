@@ -1,0 +1,197 @@
+{
+  "rule_id": "rule_26",
+  "rule_slug": "乾杯のマナー",
+  "title": {
+    "ja": "乾杯のマナー",
+    "vi": "Cụng ly 乾杯 chuẩn"
+  },
+  "rule_context": {
+    "ja": "Q1和食レストラン個室、全員着席後 18:35。ハーCTO が乾杯発声、全員 glass を中村CFO の glass より低く合わせる場面。",
+    "vi": "Phòng riêng nhà hàng Q1, mọi người ngồi xong lúc 18:35. Hà CTO hô 乾杯 (kanpai = nâng ly), tất cả phải hạ ly thấp hơn ly CFO Nakamura."
+  },
+  "related_rules": [
+    "rule_25",
+    "rule_32"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 乾杯前飲み + glass 上位者より高い",
+      "label_vi": "XẤU — uống trước khi hô + ly cao hơn senior",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①発声前に飲み始める=order崩壊 ②glassを CFO より高く合わせる=上下逆転 ③カチン音と共に強く合わせる=glass破損リスク+下品。",
+        "vi": "(1) Uống trước khi hô = phá thứ tự. (2) Ly cao hơn ly CFO = đảo trên dưới. (3) Cụng mạnh kêu 'cốp' = vỡ ly + phản cảm."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_26_bad_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "（発声前に一口飲む）あ、美味しい。",
+          "sentence_translation": "(uống trước khi có hô) À ngon ghê.",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_26_bad_02",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "では、乾杯！",
+          "sentence_translation": "Vậy, kanpai!",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_26_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（自分のglassを中村CFOのglassより高く合わせる、カチンと音）乾杯！",
+          "sentence_translation": "(nâng ly cao hơn ly CFO Nakamura, cụng kêu cốp) Kanpai!",
+          "tone": "cheerful"
+        },
+        {
+          "line_id": "rule_26_bad_04",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "（沈黙、軽く頷く）",
+          "sentence_translation": "(im lặng, gật đầu nhẹ)",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — host 発声 → 全員 glass を CFO より低く",
+      "label_vi": "TỐT — host hô → cả nhóm hạ ly thấp hơn CFO",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_26_good_01",
+          "highlight_text": "host 側 senior が発声",
+          "ja": "乾杯発声権=host 側最上位 (今回はハーCTO)。客側が先に言うのは違和感。",
+          "vi": "Quyền hô kanpai = senior bên host (hôm nay là Hà CTO). Khách hô trước = sai."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_26_good_03",
+          "highlight_text": "中村CFOのglassより僅かに低く",
+          "ja": "上位者glassより低く=尊敬。同位なら同じ高さ。下位者は最も低く。",
+          "vi": "Thấp hơn ly senior = tỏ kính trọng. Cùng cấp = ngang. Cấp dưới = thấp nhất."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_26_good_03",
+          "highlight_text": "音はカチンと立てず、軽く触れるだけ",
+          "ja": "強く合わせるとglass破損+音で下品印象。軽く触れて目で笑顔交換が正式。",
+          "vi": "Cụng mạnh = vỡ ly + thiếu sang. Chạm nhẹ + giao mắt cười = chính thức."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_26_good_04",
+          "highlight_text": "host より先に飲まない",
+          "ja": "全員乾杯後、host が一口飲んでから客側も飲む順序。",
+          "vi": "Cụng xong, host nhấp trước, khách mới uống — thứ tự."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_26_good_01",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "皆様、本日はお越しいただきありがとうございます。Phase 3 成功と末永いお付き合いを願いまして…乾杯！",
+          "sentence_translation": "Thưa quý vị, cảm ơn đã đến hôm nay. Chúc Phase 3 thành công và quan hệ dài lâu... kanpai!",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_26_good_02",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "乾杯。",
+          "sentence_translation": "Kanpai.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_26_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（自分のglassを中村CFOのglassより僅かに低く合わせ、軽く触れる）乾杯。",
+          "sentence_translation": "(hạ ly hơi thấp hơn ly CFO Nakamura, chạm nhẹ) Kanpai.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2",
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_26_good_04",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "（同様にglassを低く、host のハーCTO が一口飲んでから自分も飲む）",
+          "sentence_translation": "(cũng hạ ly thấp, đợi host Hà CTO nhấp trước rồi mới uống)",
+          "tone": "formal",
+          "annotation_ids": [
+            "4"
+          ]
+        },
+        {
+          "line_id": "rule_26_good_05",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ありがとうございます。Phase 3、よろしくお願いします。",
+          "sentence_translation": "Cảm ơn rất nhiều. Phase 3, mong các anh chị giúp đỡ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_26_kp_01",
+      "speaker": "ha_cto",
+      "sentence": "Phase 3 成功と末永いお付き合いを願いまして、乾杯！",
+      "sentence_translation": "Chúc Phase 3 thành công và quan hệ dài lâu, kanpai!",
+      "purpose": "乾杯発声 固定パターン",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_26_kp_02",
+      "speaker": "zun",
+      "sentence": "（glassを上位者より低く合わせる）",
+      "sentence_translation": "(hạ ly thấp hơn ly senior)",
+      "purpose": "乾杯時 glass 高さ ルール",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_26_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "上位者(中村CFO)同席の乾杯で正しい glass の合わせ方は？",
+      "options": [
+        "CFOのglassより高く合わせる",
+        "CFOのglassと同じ高さ",
+        "CFOのglassより僅かに低く、軽く触れる",
+        "音を立てて強く合わせる"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "上位者より低く=尊敬。音は立てず軽く触れる。",
+        "vi": "Thấp hơn senior = kính trọng. Không kêu, chạm nhẹ thôi."
+      }
+    }
+  ]
+}

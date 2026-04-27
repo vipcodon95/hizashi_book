@@ -1,0 +1,154 @@
+{
+  "rule_id": "rule_06",
+  "rule_slug": "密度ルール",
+  "title": {
+    "ja": "密度ルール (10-20-30)",
+    "vi": "Density rule (10-20-30)"
+  },
+  "rule_context": {
+    "ja": "ズンが『念のため』4枚追加して14枚にした deck を、ハーCTO が指摘して10枚＋appendix構成に戻す場面。",
+    "vi": "Dũng thêm 4 slide 「để chắc」 → deck phồng lên 14 slide. Anh Hà CTO chỉ ra và yêu cầu giữ 10 slide + appendix riêng."
+  },
+  "related_rules": ["rule_02", "rule_04", "rule_13"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — スライド creep",
+      "label_vi": "XẤU — Slide creep",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『念のため追加』は scope creep。30分枠で14枚＝1枚2分超過、Q&A 時間が消える。",
+        "vi": "「Thêm cho chắc」 = scope creep. 30 phút mà 14 slide = >2 phút/slide → bóp slot Q&A."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_06_bad_01",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "ズン、最終版14枚？前回10枚って言ってたよね？",
+          "sentence_translation": "Dũng, bản cuối 14 slide à? Lần trước em bảo 10 slide mà?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_06_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、念のため4枚追加しました。バックアップ的に…",
+          "sentence_translation": "À, em thêm 4 slide cho chắc ạ. Kiểu backup ấy ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_06_bad_03",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "30分プレゼン＋15分Q&Aで14枚？1枚2分超過。Q&A時間が消える。あと、追加4枚はどれも『話したい』だけで『決めるのに必要』じゃない。",
+          "sentence_translation": "30 phút pitch + 15 phút Q&A mà 14 slide? Vượt 2 phút/slide. Q&A sẽ biến mất. Với 4 slide thêm này toàn 「muốn nói」 chứ không phải 「cần để quyết」.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_06_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと…",
+          "sentence_translation": "Ờ ạ...",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 本編10枚＋Appendix分離",
+      "label_vi": "TỐT — Body 10 slide + Appendix riêng",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_06_good_01",
+          "highlight_text": "10-20-30ルール",
+          "ja": "Guy Kawasakiの10枚/20分/30pt min ルール。日本B2B版は 10-12枚/20-25分/24pt min。",
+          "vi": "Rule của Guy Kawasaki: 10 slide/20 phút/30pt min. Phiên bản JP B2B: 10-12/20-25/24pt min."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_06_good_03",
+          "highlight_text": "最小24pt",
+          "ja": "Rule 04の視覚階層と整合。projector後列＋screen share 両方で読めるライン。",
+          "vi": "Đồng bộ với rule 04. Ngưỡng đọc được trên cả projector hàng cuối + screen share."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_06_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "10-20-30ルールで再auditしました。本編10枚、appendix 5枚は質問対応用（必要なら出す）。",
+          "sentence_translation": "Em đã re-audit theo rule 10-20-30 ạ. Body 10 slide, appendix 5 slide để trả lời câu hỏi (cần thì hiện ra).",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_06_good_02",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "いいね、appendix分離は正しい。本編10枚 × 2分 = 20分、自己紹介+背景3分、Q&A 7分の枠で30分内。",
+          "sentence_translation": "Được, tách appendix là đúng. Body 10 slide × 2 phút = 20 phút, intro + background 3 phút, Q&A 7 phút — nằm gọn trong 30 phút.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_06_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フォントは最小24ptで統一、appendix も同じです。",
+          "sentence_translation": "Font em thống nhất tối thiểu 24pt ạ, appendix cũng vậy.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_06_good_04",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "OK。本番で14枚出すと『準備不足』に見える、10枚 + appendix の構成は『きっちり感』が出る。",
+          "sentence_translation": "OK. Trên thực tế chiếu 14 slide trông như 「chuẩn bị chưa kỹ」. 10 slide + appendix mới ra 「chỉn chu」.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_06_kp_01",
+      "speaker": "zun",
+      "sentence": "本編10枚、appendix 5枚の構成です。",
+      "sentence_translation": "Cấu trúc gồm body 10 slide, appendix 5 slide ạ.",
+      "purpose": "10-20-30 構成の説明",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_06_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "30分のプレゼン枠で本編スライドの目安は？",
+      "options": [
+        "5枚以内",
+        "10-12枚",
+        "20枚以上",
+        "30枚以上"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "1枚1.5-2分が目安。30分枠なら自己紹介+Q&Aを引いて10-12枚が安全ゾーン。",
+        "vi": "1 slide tốn 1.5-2 phút. 30 phút trừ intro + Q&A → 10-12 slide là vùng an toàn."
+      }
+    }
+  ]
+}

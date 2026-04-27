@@ -1,0 +1,154 @@
+{
+  "rule_id": "08-26",
+  "rule_slug": "大阪",
+  "title": {
+    "vi": "Osaka — お好み焼, 阪神, 笑い",
+    "ja": "大阪"
+  },
+  "regional_focus": "Osaka — Kita / Minami / Shinsekai / Koshien",
+  "rule_context": {
+    "luan_diem_vi": "Osaka = '食い倒れ' + '笑い' + '阪神'. Thẳng, nhanh, thích cười. Nhẹ Kansai-ben (ほんま/おおきに) tốt — overdo nhạo.",
+    "luan_diem_ja": "大阪は食・笑い・阪神の街。気さくでフレンドリー。関西弁を軽く混ぜると親近感。",
+    "boi_canh_vi": "Tháng 8/2026, Dũng + Linh sang Osaka office training với Yamamoto. Lunch たこ焼 → training → dinner 串カツ → 甲子園.",
+    "boi_canh_ja": "2026年8月、ズンとリンが大阪オフィスで山本さんと研修。たこ焼→研修→串カツ→甲子園。",
+    "muc_tieu_vi": "Master Osaka 3 ソウルフード + Hanshin culture + 笑い structure."
+  },
+  "related_rules": [
+    {"book": "08", "rule": "11", "topic": "Món địa phương"},
+    {"book": "08", "rule": "14", "topic": "Baseball"},
+    {"book": "08", "rule": "28", "topic": "Hiroshima お好み焼 phân biệt"}
+  ],
+  "conversations": [
+    {
+      "scenario": "たこ焼 法善寺 — phân biệt 大阪 vs 広島 お好み焼",
+      "type": "good",
+      "lines": [
+        {"speaker": "yamamoto_kansai", "ja": "ズンさん、リンちゃん、大阪のたこ焼はな、外カリッと中トロッが命やで。わなかいう店、ほんま美味いから。", "vi": "Em Dũng, Linh, takoyaki Osaka thì 'ngoài giòn trong mềm' là tinh thần. Quán Wanaka thật ngon."},
+        {"speaker": "zun", "ja": "『ほんま』、いいですね、関西弁。", "vi": "'Honma' hay nhỉ, Kansai-ben."},
+        {"speaker": "yamamoto_kansai", "ja": "ほんま?嬉しいわぁ。たこ焼は東京の食べ方とちゃう、ソース+マヨ+青のり+鰹節、これ全部のせが大阪流。", "vi": "Thật à? Vui ghê. Takoyaki khác cách Tokyo, sốt + mayo + rong xanh + cá bào, full topping kiểu Osaka."},
+        {"speaker": "linh", "ja": "家のたこ焼器、大阪の家庭にあるって本当ですか?", "vi": "Máy takoyaki ở nhà Osaka đều có thật không ạ?"},
+        {"speaker": "yamamoto_kansai", "ja": "ほんまほんま!1家1台って言うくらい。たこパー(たこ焼パーティー)って、大阪の家族の定番。", "vi": "Thật thật! Nói '1 nhà 1 cái'. Tako-pā (tiệc takoyaki) là chuẩn gia đình Osaka."},
+        {"speaker": "zun", "ja": "たこパー、初耳です(笑)", "vi": "Tako-pā, lần đầu nghe (cười)."},
+        {"speaker": "yamamoto_kansai", "ja": "次回大阪来たら、家でたこパーしよ!えっと、お好み焼きとの違いも分かる?", "vi": "Lần sau đến Osaka làm tako-pā ở nhà! Mà em phân biệt được okonomiyaki không?"},
+        {"speaker": "zun", "ja": "お好み焼は生地+具を混ぜて焼く『混ぜ焼き』、広島は重ね焼きですよね?", "vi": "Okonomiyaki Osaka trộn bột + nhân rồi nướng 'mazeyaki', Hiroshima là 'kasaneyaki' xếp lớp đúng không?"},
+        {"speaker": "yamamoto_kansai", "ja": "正解!広島さんから教わったんやな?やるやん。", "vi": "Đúng! Học từ anh Hiroshi à? Chất đó."}
+      ]
+    },
+    {
+      "scenario": "Training — 笑い文化 ボケ・つっこみ",
+      "type": "good",
+      "lines": [
+        {"speaker": "linh", "ja": "山本さん、大阪では『ボケ』と『つっこみ』、本当に日常にあるんですか?", "vi": "Chị Yamamoto, ở Osaka 'boke/tsukkomi' thực sự đời thường ạ?"},
+        {"speaker": "yamamoto_kansai", "ja": "あるある。例えば、私が『今日めっちゃ美人やん私!』って言うやろ?ズンさん、何て返す?", "vi": "Có có. Ví dụ chị nói 'Hôm nay tớ siêu đẹp luôn!' thì em Dũng đáp gì?"},
+        {"speaker": "zun", "ja": "えーと…『そうですね』?", "vi": "Ờ... 'Vâng đúng vậy'?"},
+        {"speaker": "yamamoto_kansai", "ja": "なんでやねん!それじゃ会話終わるやん!正解は『自分で言うんかい!』ってつっこむんよ。", "vi": "Sao kỳ vậy! Như thế hết chuyện luôn! Đúng phải đáp 'Tự khen mình hả!' kiểu tsukkomi."},
+        {"speaker": "zun", "ja": "自分で言うんかい!", "vi": "Tự khen mình hả!"},
+        {"speaker": "yamamoto_kansai", "ja": "そうそう!大阪人はな、面白くないと負けと思うんよ。会話=エンターテイメント。だから営業も『笑わせて契約取る』のが大阪流。", "vi": "Đúng! Osaka coi không hài là thua. Chuyện = giải trí. Nên sales cũng 'cười để chốt deal' kiểu Osaka."},
+        {"speaker": "linh", "ja": "東京の硬い営業とは違うんですね。", "vi": "Khác sales cứng Tokyo nhỉ."},
+        {"speaker": "yamamoto_kansai", "ja": "ちゃう、ほんまちゃう。東京は『信頼で売る』、大阪は『人柄で売る』。両方覚えとき。", "vi": "Khác, khác hẳn. Tokyo 'bán bằng tin tưởng', Osaka 'bán bằng nhân cách'. Học cả hai."}
+      ]
+    },
+    {
+      "scenario": "串カツ 新世界 — 二度漬け禁止 + ビリケン",
+      "type": "good",
+      "lines": [
+        {"speaker": "yamamoto_kansai", "ja": "新世界に来たら串カツだるま、本店行こ。ソース二度漬け禁止、これ大阪のルールやで。", "vi": "Đến Shinsekai thì Daruma, quán gốc đi. Cấm chấm sốt 2 lần, luật Osaka."},
+        {"speaker": "zun", "ja": "2度漬け禁止、聞いたことあります。衛生のためですよね。", "vi": "Cấm 2 lần em nghe rồi. Vệ sinh nhỉ."},
+        {"speaker": "yamamoto_kansai", "ja": "そうそう。共有のソース壷やからな。キャベツは無料で食べ放題、それで口直しすんねん。", "vi": "Đúng. Hũ sốt chung mà. Cải bắp ăn free, để súc miệng đó."},
+        {"speaker": "linh", "ja": "通天閣、上るんですか?", "vi": "Mình lên Tsūtenkaku ạ?"},
+        {"speaker": "yamamoto_kansai", "ja": "上がるならビリケンさんの足の裏触ってきい!幸運の神様やから。", "vi": "Lên thì sờ gan bàn chân Billiken! Thần may mắn."},
+        {"speaker": "zun", "ja": "ビリケン、知ってます。あのサメみたいな顔の像。", "vi": "Billiken em biết. Tượng mặt giống cá mập."},
+        {"speaker": "yamamoto_kansai", "ja": "サメちゃう!100年前にアメリカ人女性彫刻家が作った、幸運の神様!ズンさん、ほんまボケやな(笑)", "vi": "Cá mập gì! 100 năm trước nữ điêu khắc Mỹ tạo, thần may mắn! Em đùa thật ghê (cười)."},
+        {"speaker": "zun", "ja": "すみません、復習します!", "vi": "Em xin lỗi, học lại!"}
+      ]
+    },
+    {
+      "scenario": "甲子園 — 阪神 culture full depth",
+      "type": "good",
+      "lines": [
+        {"speaker": "yamamoto_kansai", "ja": "甲子園、阪神ファンばっかりや。黄色と黒のジャンパー着てる人見たら大阪人や思て。", "vi": "Kōshien toàn fan Hanshin. Thấy ai mặc áo vàng+đen biết là Osaka."},
+        {"speaker": "zun", "ja": "六甲おろし、初めて生で聞きたいです。", "vi": "Rokkō Oroshi em muốn nghe trực tiếp lần đầu."},
+        {"speaker": "yamamoto_kansai", "ja": "六甲おろしまで知ってる!阪神タイガースの応援歌やで。試合勝ったら球場全体で歌うんよ。今日勝ってほしいなぁ。", "vi": "Biết cả Rokkō Oroshi! Bài cổ vũ Hanshin đó. Thắng trận thì cả sân hát. Hôm nay mong thắng."},
+        {"speaker": "zun", "ja": "岡田監督ですよね、最近。2023年の優勝、感動的でした。", "vi": "Là HLV Okada gần đây nhỉ. Vô địch 2023 cảm động."},
+        {"speaker": "yamamoto_kansai", "ja": "18年ぶりやった!アレ(=優勝)、ほんま泣いた…道頓堀飛び込んだ人何百人もおったで(笑)", "vi": "18 năm mới có! 'Are' (= vô địch), khóc thật... Hàng trăm người nhảy Dōtonbori (cười)."},
+        {"speaker": "zun", "ja": "道頓堀ダイブ、TVで…", "vi": "Dōtonbori dive em xem TV..."},
+        {"speaker": "yamamoto_kansai", "ja": "危ないからアカンけどな(笑)。あ、カーネル・サンダースの話、知ってる?1985年優勝の呪いってやつ?", "vi": "Nguy hiểm không nên đâu (cười). À, chuyện Colonel Sanders biết không? Lời nguyền vô địch 1985?"},
+        {"speaker": "zun", "ja": "あ、KFCの像を道頓堀に投げ込んで18年勝てなかった伝説…!2009年に発見されたんですよね?", "vi": "À, ném tượng KFC xuống Dōtonbori, 18 năm không vô địch huyền thoại! 2009 vớt lên đúng không?"},
+        {"speaker": "yamamoto_kansai", "ja": "ズンさん…ほんまに大阪人やん…うちの会社、来年から大阪支店勤務でええで(笑)", "vi": "Em... đúng dân Osaka thật rồi... Sang năm sang chi nhánh Osaka đi (cười)."}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"category": "Mở topic", "ja": "山本さんは大阪のご出身ですよね。", "vi": "Chị Yamamoto quê Osaka nhỉ."},
+    {"category": "Mở topic", "ja": "たこ焼、お好み焼、串カツ、大阪の三大ソウルフードですよね。", "vi": "3 món hồn Osaka: takoyaki, okonomiyaki, kushikatsu."},
+    {"category": "Kansai-ben", "ja": "ほんまですか?", "vi": "Thật ạ?"},
+    {"category": "Food", "ja": "お好み焼の混ぜ焼きと広島の重ね焼きの違い、面白いですね。", "vi": "Mazeyaki Osaka khác kasaneyaki Hiroshima, thú vị."},
+    {"category": "Food", "ja": "串カツのソース2度漬け禁止、衛生のためですよね。", "vi": "Cấm chấm sốt 2 lần, vệ sinh nhỉ."},
+    {"category": "Hanshin", "ja": "2023年の18年ぶり優勝、感動的でしたね。", "vi": "Vô địch 2023 sau 18 năm, cảm động."},
+    {"category": "Hanshin", "ja": "六甲おろし、いつか甲子園で生で聞きたいです。", "vi": "Rokkō Oroshi muốn nghe ở Kōshien."},
+    {"category": "笑い", "ja": "『なんでやねん!』、これ覚えました(笑)", "vi": "'Nan de ya nen!' em học rồi."}
+  ],
+  "regional_cheatsheet": {
+    "fu_capital": "大阪市",
+    "soul_food_3": ["お好み焼(混ぜ焼き) ぼてぢゅう/きじ/福太郎", "たこ焼 わなか/甲賀流/あべのたこやき", "串カツ だるま/横綱"],
+    "other_food": ["きつねうどん", "551蓬莱豚まん", "明石焼き", "りくろーおじさん"],
+    "areas": ["キタ(梅田/北新地)", "ミナミ(難波/心斎橋/道頓堀)", "新世界(通天閣)", "天王寺", "大阪城"],
+    "sport_teams": ["阪神タイガース 甲子園球場", "オリックス・バファローズ 京セラドーム", "セレッソ大阪/ガンバ大阪 (J)"],
+    "hanshin_culture": ["六甲おろし応援歌", "黄色×黒", "道頓堀ダイブ", "カーネル・サンダース呪い 1985-2003-2009発見"],
+    "comedy": ["吉本興業", "なんばグランド花月", "M-1グランプリ", "ボケ・つっこみ"],
+    "festivals": ["天神祭(7/24-25)日本三大", "岸和田だんじり(9月)", "十日戎(1/9-11)"],
+    "tourism": ["大阪城", "道頓堀(グリコ/かに道楽)", "通天閣", "法善寺横丁", "黒門市場", "USJ", "海遊館"],
+    "dialect": "ほんま/せやな/ちゃう/あかん/めっちゃ/おおきに/自分(=あなた)/〜やん/〜やで/〜ねん",
+    "mindset": "気さく/笑い重視/値切り/人柄売り",
+    "famous": ["ダウンタウン", "明石家さんま", "アンミカ"]
+  },
+  "ng_list": [
+    "Overdo Kansai-ben ('わいは〜やで')",
+    "Mặt lạnh + formal cứng → cảm 冷たい",
+    "「東京の方が洗練」 trước Osaka",
+    "Trêu Hanshin khi thua mùa",
+    "Nhầm 大阪混ぜ焼き ↔ 広島重ね焼き"
+  ],
+  "vocab": [
+    {"kanji": "お好み焼", "yomi": "おこのみやき", "vi": "Bánh xèo Osaka"},
+    {"kanji": "たこ焼", "yomi": "たこやき", "vi": "Bánh bạch tuộc"},
+    {"kanji": "串カツ", "yomi": "くしかつ", "vi": "Xiên chiên"},
+    {"kanji": "二度漬け禁止", "yomi": "にどづけきんし", "vi": "Cấm chấm 2 lần"},
+    {"kanji": "阪神タイガース", "yomi": "はんしんタイガース", "vi": "Đội Osaka"},
+    {"kanji": "甲子園", "yomi": "こうしえん", "vi": "Sân Kōshien"},
+    {"kanji": "六甲おろし", "yomi": "ろっこうおろし", "vi": "Bài Hanshin"},
+    {"kanji": "道頓堀", "yomi": "どうとんぼり", "vi": "Phố Dōtonbori"},
+    {"kanji": "通天閣", "yomi": "つうてんかく", "vi": "Tháp Tsūtenkaku"},
+    {"kanji": "天神祭", "yomi": "てんじんまつり", "vi": "Lễ hội 7/24-25"},
+    {"kanji": "ほんま", "yomi": "ほんま", "vi": "Thật/rất Kansai"},
+    {"kanji": "おおきに", "yomi": "おおきに", "vi": "Cảm ơn Kansai"},
+    {"kanji": "なんでやねん", "yomi": "なんでやねん", "vi": "Sao kỳ vậy"}
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "大阪のお客様が「今日は奥さんが綺麗やで!」と冗談で言った場合の理想的な反応は?",
+      "options": ["A. 沈黙", "B. 「そうですね」", "C. 「自分で言うんかい!」(つっこみ)", "D. 「失礼します」"],
+      "answer": "C",
+      "explain_vi": "Osaka conversation = entertainment. つっこみ = active engagement."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「ほんま美味い」 = ?",
+      "options": ["A. 本当に美味しい (Kansai-ben)", "B. 不味い", "C. まあまあ", "D. 食べたくない"],
+      "answer": "A",
+      "explain_vi": "「ほんま」 = 本当に Kansai-ben."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "阪神ファンに「2023年のアレ、感動的でしたね」と言うのは?",
+      "options": ["A. 何の話か分からない", "B. アレ=優勝。岡田監督の言い方を理解している ⇒ 大阪人レベルの会話", "C. 失礼", "D. 質問形式"],
+      "answer": "B",
+      "explain_vi": "「アレ」 = 優勝 (HLV Okada cố tránh áp lực dùng từ này 2023)."
+    }
+  ],
+  "templates": []
+}

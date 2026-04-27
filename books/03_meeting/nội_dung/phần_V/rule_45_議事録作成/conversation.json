@@ -1,0 +1,165 @@
+{
+  "rule_id": "rule_45",
+  "rule_slug": "議事録の作成と配布",
+  "title": {
+    "ja": "議事録の作成と配布（24時間以内）",
+    "vi": "Gửi biên bản trong 24h"
+  },
+  "rule_context": {
+    "ja": "4月度月例会議終了後、ズンが当日中に議事録を作成し松本PMと大垣営業部長へメールで配布する場面。3日遅延した悪い例と当日18時送付の良い例を比較。",
+    "vi": "Sau họp định kỳ 4/4, em Dũng phải gửi biên bản cho anh Matsumoto + Ōgaki trong cùng ngày. So sánh case xấu (3 ngày trễ) vs case tốt (18h cùng ngày)."
+  },
+  "related_rules": [
+    "rule_44",
+    "rule_46",
+    "rule_47"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 3日遅延",
+      "label_vi": "XẤU — Trễ 3 ngày",
+      "display_order": 1,
+      "analysis": {
+        "ja": "議事録が48時間を超えると記憶が薄れ、修正のタイミングを逃す。顧客が上司CCで催促する事態は避けたい。",
+        "vi": "Biên bản trễ quá 48h → nhớ mơ hồ, lỡ cơ hội correct. Khách CC sếp催促 = escalation tệ."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_45_bad_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ズンさん、先週の議事録、まだですか？",
+          "sentence_translation": "Dũng, biên bản tuần trước chưa có à?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_45_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "すみません、明日送ります…",
+          "sentence_translation": "Em xin lỗi, mai em gửi ạ...",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_45_bad_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "議事録の遅延が続くと、record が曖昧になり困ります。",
+          "sentence_translation": "Biên bản cứ trễ thì record mơ hồ, tôi gặp khó đấy.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 当日18時送付",
+      "label_vi": "TỐT — Gửi 18h cùng ngày",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_45_good_01",
+          "highlight_text": "本日4月28日に開催いたしました月例会議の議事録をお送り申し上げます",
+          "ja": "議事録メールの定型オープナー。日付明示でファイル管理が容易に。",
+          "vi": "Câu mở mail biên bản chuẩn. Có ngày → khách dễ quản lý file."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_45_good_02",
+          "highlight_text": "5月1日（水）17時までにご返信いただけますと幸いです",
+          "ja": "review 期限を明示することで「返信なし=承認」のルールが明確に。",
+          "vi": "Có deadline review → quy ước 'không reply = approved' rõ ràng."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_45_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（メール）松本様、大垣様、お世話になっております。本日4月28日に開催いたしました月例会議の議事録をお送り申し上げます。",
+          "sentence_translation": "(Email) Anh Matsumoto, anh Ōgaki, lúc nào cũng cảm ơn anh ạ. Em xin gửi biên bản buổi họp định kỳ ngày 28/4 hôm nay ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_45_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご確認の上、ご質問・修正点ございましたら、5月1日（水）17時までにご返信いただけますと幸いです。",
+          "sentence_translation": "Sau khi anh check, nếu có câu hỏi hoặc cần sửa, phiền anh reply trước 17h thứ Tư 1/5 ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ],
+          "continues_previous": true
+        },
+        {
+          "line_id": "rule_45_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "迅速な共有ありがとうございます。確認のうえ、特に修正なしでよろしくお願いいたします。",
+          "sentence_translation": "Cảm ơn chia sẻ nhanh nhé. Tôi đã check, không cần sửa, OK luôn.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_45_kp_01",
+      "speaker": "zun",
+      "sentence": "本日〇月〇日に開催いたしました〇〇会議の議事録をお送り申し上げます。",
+      "sentence_translation": "Em xin gửi biên bản buổi họp 〇〇 ngày 〇/〇 hôm nay ạ.",
+      "purpose": "議事録メールの定型オープナー",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_45_kp_02",
+      "speaker": "zun",
+      "sentence": "ご質問・修正点ございましたら、〇月〇日〇時までにご返信いただけますと幸いです。",
+      "sentence_translation": "Nếu có câu hỏi/cần sửa, phiền anh/chị reply trước 〇h ngày 〇/〇 ạ.",
+      "purpose": "review 期限フレーズ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_45_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "顧客との会議後、議事録を送る最適なタイミングと方法は？",
+      "options": [
+        "1週間以内、口頭で",
+        "24時間以内、6項目（日時/出席者/議題/決定/TODO/次回）+review期限つきメール",
+        "次回会議で口頭共有",
+        "送らない"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "24時間以内+構造化された6項目+review期限がプロフェッショナルの標準。",
+        "vi": "Trong 24h + 6 mục có cấu trúc + deadline review = chuẩn pro."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_45_tpl_01",
+      "format": "minutes",
+      "title_ja": "議事録テンプレート（6項目・標準版）",
+      "title_vi": "Template Biên Bản Họp (6 mục, chuẩn)",
+      "content_ja": "===========================================\n議事録：〇〇会議\n===========================================\n\n【日時】〇〇年〇月〇日（〇） 〇〇:〇〇〜〇〇:〇〇（JST）\n【場所】〇〇（オンライン／対面／ハイブリッド）\n【出席者】\n  〇〇株式会社：〇〇、〇〇\n  ティエンファット社：〇〇、〇〇、〇〇\n【欠席】〇〇（事前連絡あり）\n\n--- 議題 ---\n  1. 〇〇\n  2. 〇〇\n  3. 〇〇\n\n--- 決定事項 ---\n  ① 〇〇 — 〇〇方向で確定\n  ② 〇〇 — 〇〇方向で確定\n\n--- TODO（アクションアイテム） ---\n  ① [What] — [Who] — [When]\n  ② [What] — [Who] — [When]\n  ③ [What] — [Who] — [When]\n\n--- 次回会議 ---\n  日時：〇月〇日（〇） 〇〇:〇〇〜\n  形式：〇〇\n  議題（予定）：〇〇\n\n--- 補足 ---\n  ・〇〇\n\n以上",
+      "content_vi": "===========================================\nBiên bản: Họp 〇〇\n===========================================\n\n[Thời gian] 〇/〇/〇 (〇), 〇〇:〇〇 - 〇〇:〇〇 (giờ JST)\n[Nơi] 〇〇 (online / trực tiếp / hybrid)\n[Người tham dự]\n  Cty 〇〇: 〇〇, 〇〇\n  Cty Thiên Phát: 〇〇, 〇〇, 〇〇\n[Vắng] 〇〇 (đã báo trước)\n\n--- Chủ đề ---\n  1. 〇〇\n  2. 〇〇\n  3. 〇〇\n\n--- Quyết định ---\n  (1) 〇〇 — chốt theo hướng 〇〇\n  (2) 〇〇 — chốt theo hướng 〇〇\n\n--- TODO (action items) ---\n  (1) [Gì] — [Ai] — [Khi nào]\n  (2) [Gì] — [Ai] — [Khi nào]\n  (3) [Gì] — [Ai] — [Khi nào]\n\n--- Họp lần tới ---\n  Thời gian: 〇/〇 (〇), 〇〇:〇〇 ~\n  Hình thức: 〇〇\n  Chủ đề (dự kiến): 〇〇\n\n--- Bổ sung ---\n  - 〇〇\n\n(Hết)",
+      "notes_ja": "24時間以内に送付。subject: 「【議事録】〇〇会議（〇月〇日）」。本文に review 期限を明記。",
+      "notes_vi": "Gửi trong 24h. Subject: 「【biên bản】〇〇会議（〇月〇日）」. Trong body ghi rõ deadline review."
+    }
+  ]
+}

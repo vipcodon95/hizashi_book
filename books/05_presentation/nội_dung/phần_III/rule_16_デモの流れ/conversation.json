@@ -1,0 +1,177 @@
+{
+  "rule_id": "rule_16",
+  "rule_slug": "デモの流れ",
+  "title": {
+    "ja": "デモの流れ",
+    "vi": "Demo flow trong pitch"
+  },
+  "rule_context": {
+    "ja": "トゥアンが feature tour 型のデモを練習 → ズンが 4-step storyline (Setup→Journey→Key→Recap) に修正させる場面。",
+    "vi": "Tuấn rehearsal demo kiểu feature tour → Dũng bắt sửa sang 4-step (Setup→Journey→Key→Recap)."
+  },
+  "related_rules": [
+    "rule_07",
+    "rule_31"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 機能ツアー型",
+      "label_vi": "XẤU — Feature tour",
+      "display_order": 1,
+      "analysis": {
+        "ja": "機能列挙は engineer mindset。buyer は『私の痛みが解消するか』を見たい。ツアーは敬意を欠くと感じられる。",
+        "vi": "Liệt kê feature = engineer mindset. Buyer muốn xem 「pain mình có giải không」. Tour = thiếu tôn trọng pain khách."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_16_bad_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "では画面紹介します。これがダッシュボード、上に検索、左にメニュー、右にカード一覧、下にフッター…",
+          "sentence_translation": "Em xin giới thiệu màn hình ạ. Đây là dashboard, trên là search, trái là menu, phải là list card, dưới là footer...",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_16_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "兄さん、それツアーガイドになってる。客は機能名を聞きに来てない。在庫差異が解消する flow を見せたい。",
+          "sentence_translation": "Anh, kiểu này là tour guide rồi. Khách không đến để nghe tên feature đâu. Mình muốn show flow sai lệch tồn kho được giải.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_16_bad_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "えっと…じゃあどう？",
+          "sentence_translation": "Ờ... vậy phải sao?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_16_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "4ステップでやろう。Setup→User journey→Key moment→Recap。3分で。",
+          "sentence_translation": "Đi 4 bước nhé. Setup → User journey → Key moment → Recap. Trong 3 phút.",
+          "tone": "warm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 4ステップ storyline",
+      "label_vi": "TỐT — 4-step storyline",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_16_good_01",
+          "highlight_text": "倉庫担当の田村さん",
+          "ja": "Persona に名前を付けることで immersion が高まる。『ある担当者』より『田村さん』の方が flow が立つ。",
+          "vi": "Đặt tên persona làm immersion cao. 「một nhân viên」 < 「Tamura-san」."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_16_good_01",
+          "highlight_text": "通常2時間の作業が3分で完了",
+          "ja": "Key moment = 数字対比で『痛み解消の瞬間』を可視化。",
+          "vi": "Key moment = đối chiếu số để show 「khoảnh khắc giải pain」."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_16_good_02",
+          "highlight_text": "ナレーションは私",
+          "ja": "Co-presenter 役割分担。ナレと操作を分けるとflowがsmooth。Sách 03 rule 32 cross-ref。",
+          "vi": "Phân vai co-presenter. Tách narration với thao tác = flow mượt. Cross-ref sách 03 rule 32."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_16_good_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "Setup: 倉庫担当の田村さんが、季節商品の在庫差異に気づきました。User journey: ダッシュボードでアラートを確認、原因SKUを drill-down、修正案を承認。Key moment: 通常2時間の作業が3分で完了。Recap: 季節商品でも差異が month-end前 に検出・修正される。",
+          "sentence_translation": "Setup: Tamura-san phụ trách kho phát hiện sai lệch hàng theo mùa. User journey: kiểm tra alert trên dashboard, drill-down SKU nguyên nhân, phê duyệt phương án sửa. Key moment: việc thường mất 2 tiếng nay xong trong 3 phút. Recap: hàng theo mùa cũng được phát hiện + sửa trước month-end.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_16_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Perfect。ナレーションは私、操作はトゥアンが、で行きましょう。",
+          "sentence_translation": "Perfect. Narration em làm, thao tác anh Tuấn nhé.",
+          "tone": "warm",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_16_good_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "了解。Key moment で2秒 pause 入れる？聴衆に効果実感させる用に。",
+          "sentence_translation": "OK. Tại key moment thêm 2 giây pause được không? Để cho khán giả cảm hiệu quả.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_16_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "いいアイデア。『ここがポイントです』って一言入れて、2秒間。",
+          "sentence_translation": "Ý hay. Em sẽ nói câu 「Đây là điểm mấu chốt」 rồi pause 2 giây.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_16_kp_01",
+      "speaker": "tuan_leader",
+      "sentence": "通常〇〇分かかる作業が、〇〇分で完了します。",
+      "sentence_translation": "Việc thường mất 〇〇 phút nay xong trong 〇〇 phút.",
+      "purpose": "Key moment 数字対比",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_16_kp_02",
+      "speaker": "zun",
+      "sentence": "ここがポイントです。",
+      "sentence_translation": "Đây là điểm mấu chốt ạ.",
+      "purpose": "Key moment 注目誘導",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_16_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "プレゼンのデモ構成として最適なのは？",
+      "options": [
+        "全機能のメニューツアー",
+        "Setup→User journey→Key moment→Recap の4ステップ",
+        "コードの内部解説",
+        "全画面のスクリーンショット羅列"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "Setup→Journey→Key→Recap が3-4分で痛み解消を可視化する。Tour 型は engineer mindset。",
+        "vi": "Setup→Journey→Key→Recap trong 3-4 phút để visualize giải pain. Tour = engineer mindset."
+      }
+    }
+  ]
+}

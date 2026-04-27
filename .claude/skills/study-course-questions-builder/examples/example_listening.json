@@ -1,0 +1,81 @@
+{
+  "_schema_version": "1.0",
+  "_skill": "study-course-questions-builder",
+  "_description": "MẪU NGHE HIỂU. 2 dạng thường gặp: kadai_rikai (mondai 1 — nghe → chọn 1/4) và sokuji_outou (mondai 4 — nghe situation + 3 option audio).",
+
+  "meta": {
+    "title": "Sample Listening — N5 choukai",
+    "title_vn": "Mẫu Nghe hiểu",
+    "module_code": "<module_code>",
+    "total_questions": 2,
+    "focus": "N5 listening",
+    "description_vn": "Nghe hiểu — audio_data phải có field `type`."
+  },
+
+  "questions": [
+    {
+      "id": "q_listen_001",
+      "question_type": "kadai_rikai",
+      "selection_type": "single",
+      "skill_category": "choukai",
+      "level": "N5",
+      "question_type_num": 1,
+      "question_jp": "おとこの ひとは これから なにを しますか。",
+      "question_vn": "Người đàn ông sẽ làm gì sau đây?",
+      "audio_data": {
+        "type": "conversation",
+        "conversation_id": null,
+        "full_audio": "uploads/audio/n5/choukai/mondai1/sample_001/full.mp3",
+        "question_audio": "uploads/audio/n5/choukai/mondai1/sample_001/question.mp3"
+      },
+      "choices": [
+        {"id": "1", "text": "本を 読みます", "text_translation": "Đọc sách", "is_correct": false, "order": 0},
+        {"id": "2", "text": "コーヒーを 飲みます", "text_translation": "Uống cà phê", "is_correct": true, "order": 1},
+        {"id": "3", "text": "勉強します", "text_translation": "Học bài", "is_correct": false, "order": 2},
+        {"id": "4", "text": "ねます", "text_translation": "Đi ngủ", "is_correct": false, "order": 3}
+      ],
+      "explanation": "Trong hội thoại, người đàn ông nói「コーヒーが飲みたい」rồi đứng dậy đi pha cà phê."
+    },
+    {
+      "id": "q_listen_002",
+      "question_type": "sokuji_outou",
+      "selection_type": "single",
+      "skill_category": "choukai",
+      "level": "N3",
+      "question_type_num": 4,
+      "question_jp": "（チャイム）",
+      "question_vn": "Nghe tình huống và chọn phản ứng phù hợp.",
+      "audio_data": {
+        "type": "situation_options",
+        "situation_audio": "uploads/audio/n3/choukai/mondai4/sample_002/situation.mp3",
+        "option_audios": [
+          "uploads/audio/n3/choukai/mondai4/sample_002/option_1.mp3",
+          "uploads/audio/n3/choukai/mondai4/sample_002/option_2.mp3",
+          "uploads/audio/n3/choukai/mondai4/sample_002/option_3.mp3"
+        ]
+      },
+      "choices": [
+        {"id": "1", "text": "(audio option 1 — phát từ option_audios[0])", "is_correct": false, "order": 0,
+         "audio_data": {"type": "audio", "url": "uploads/audio/n3/choukai/mondai4/sample_002/option_1.mp3"}},
+        {"id": "2", "text": "(audio option 2 — phát từ option_audios[1])", "is_correct": true, "order": 1,
+         "audio_data": {"type": "audio", "url": "uploads/audio/n3/choukai/mondai4/sample_002/option_2.mp3"}},
+        {"id": "3", "text": "(audio option 3 — phát từ option_audios[2])", "is_correct": false, "order": 2,
+         "audio_data": {"type": "audio", "url": "uploads/audio/n3/choukai/mondai4/sample_002/option_3.mp3"}}
+      ],
+      "explanation": "Phản ứng phù hợp với tình huống: từ chối lời mời nhẹ nhàng."
+    }
+  ],
+
+  "question_sets": [
+    {
+      "set_id": "set_listening_sample",
+      "set_type": "practice",
+      "name": "N5 Choukai — Sample",
+      "description": "Mẫu nghe hiểu — kadai_rikai + sokuji_outou.",
+      "card_count": 2,
+      "module_position": 1,
+      "reading_passage_ref": null,
+      "question_ids": ["q_listen_001", "q_listen_002"]
+    }
+  ]
+}

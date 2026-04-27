@@ -1,0 +1,170 @@
+{
+  "rule_id": "rule_17",
+  "rule_slug": "時間管理",
+  "title": {
+    "ja": "時間管理",
+    "vi": "Time-box discussion"
+  },
+  "rule_context": {
+    "ja": "Discovery 30 分経過、Dũng が soft transition で提案フェーズへ移行する場面。質問は park して尊重を保つ。",
+    "vi": "Discovery đã 30 phút, Dũng soft transition sang phase đề xuất. Park câu hỏi để giữ sự tôn trọng."
+  },
+  "related_rules": ["rule_11", "rule_18"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 固い切り",
+      "label_vi": "XẤU — Cắt cứng",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「終わりですので次へ」と固く切る。relationship を傷つけ、相手の質問も尊重されない。",
+        "vi": "Cắt cứng 'hết giờ rồi, qua tiếp'. Hỏng relationship, không tôn trọng câu hỏi của khách."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_17_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "あ、もう1つ伺いたいんですが、AI モデルの再学習頻度は…",
+          "sentence_translation": "À, tôi muốn hỏi thêm 1 ý — tần suất re-train AI model là...",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_17_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "すみません、もう discovery 時間が終わりですので、次へ進みます。",
+          "sentence_translation": "Em xin lỗi, hết thời gian discovery rồi nên em chuyển tiếp ạ.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_17_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "あ、はい…",
+          "sentence_translation": "À, vâng...",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — soft transition + park",
+      "label_vi": "TỐT — Soft transition + park câu hỏi",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_17_good_02",
+          "highlight_text": "price の段階にあわせて詳しくご説明させていただきます",
+          "ja": "質問を捨てるのではなく次フェーズに park する。「重要なので後で詳しく」と理由付きで。",
+          "vi": "KHÔNG vứt câu hỏi mà park sang phase sau. Có lý do 'quan trọng nên giải thích kỹ sau'."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_17_good_03",
+          "highlight_text": "そろそろ提案の概要に移らせていただいてもよろしいでしょうか",
+          "ja": "soft transition の定型句。固い「切ります」と違い相手の同意を引き出す。",
+          "vi": "Câu mặc định cho soft transition. Khác cứng 'đã hết giờ' — moi đồng ý của khách."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_17_good_05",
+          "highlight_text": "お時間 30 分経過、agenda 通りに進んでおります",
+          "ja": "時間進捗を口頭で示す。両者が track できる + control の暗示。",
+          "vi": "Nói miệng tiến độ thời gian. Cả 2 bên cùng track được + ngầm thể hiện đang control."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_17_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "あ、もう1つ伺いたいんですが、AI モデルの再学習頻度は…",
+          "sentence_translation": "À, tôi muốn hỏi thêm 1 ý — tần suất re-train AI model là...",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_17_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "いいご質問ありがとうございます。再学習頻度は重要点なので、price の段階にあわせて詳しくご説明させていただきます — モデル運用 cost に直結しますので。",
+          "sentence_translation": "Câu hỏi rất hay ạ, em cảm ơn. Tần suất re-train là điểm quan trọng nên xin phép em giải thích kỹ ở phần giá ạ — gắn liền với cost vận hành model.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_17_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "そろそろ提案の概要に移らせていただいてもよろしいでしょうか？10分でご説明、その後の Q&A + 価格議論で残り時間を使う想定です。",
+          "sentence_translation": "Có lẽ em xin phép chuyển sang tổng quan đề xuất ạ? 10 phút trình bày, sau đó dùng thời gian còn lại cho Q&A + bàn giá ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_17_good_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "お願いします。",
+          "sentence_translation": "Mời em.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_17_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お時間 30 分経過、agenda 通りに進んでおります。提案は3 段階でご用意しております…",
+          "sentence_translation": "Đã trôi qua 30 phút, đang đúng agenda ạ. Em đã chuẩn bị đề xuất 3 tier...",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_17_kp_01",
+      "speaker": "zun",
+      "sentence": "そろそろ提案の概要に移らせていただいてもよろしいでしょうか？",
+      "sentence_translation": "Có lẽ em xin phép chuyển sang tổng quan đề xuất ạ?",
+      "purpose": "soft transition 定型",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_17_kp_02",
+      "speaker": "zun",
+      "sentence": "重要点ですので、price の段階にあわせて詳しくご説明させていただきます。",
+      "sentence_translation": "Điểm quan trọng nên xin phép em giải thích kỹ ở phần giá ạ.",
+      "purpose": "park question 定型",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_17_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "Discovery が予定30分を超えそうな時、相手が追加質問してきた場合の最適対応は？",
+      "options": [
+        "「時間切れですので次へ」と固く切る",
+        "重要質問として認め、次フェーズに park する",
+        "30分追加して全部答える",
+        "質問を無視して提案に進む"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "Park は質問を尊重しつつ time-box を守る両立解。固い切りも overrun も両方避ける。",
+        "vi": "Park vừa tôn trọng câu hỏi vừa giữ time-box. Tránh cả cắt cứng lẫn overrun."
+      }
+    }
+  ]
+}

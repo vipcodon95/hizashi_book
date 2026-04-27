@@ -1,0 +1,198 @@
+{
+  "rule_id": "rule_35",
+  "rule_slug": "改善サイクル",
+  "title": {
+    "ja": "改善サイクル",
+    "vi": "Iteration cycle"
+  },
+  "rule_context": {
+    "ja": "リンの初プレゼン後、Solo review しただけだったが、フオンが group retro を強制 → Rehearse → Pilot → Live → Retro の4ステップ cycle を導入。",
+    "vi": "Sau pitch đầu tiên của Linh, mới chỉ solo review. Hương yêu cầu group retro → áp dụng 4-step cycle Rehearse → Pilot → Live → Retro."
+  },
+  "related_rules": [
+    "rule_34"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — solo review のみ",
+      "label_vi": "XẤU — Chỉ solo review",
+      "display_order": 1,
+      "analysis": {
+        "ja": "Solo は blind spot 残る。Junior の場合、senior の eye がないと自己 score が偏る。",
+        "vi": "Solo có blind spot. Junior thiếu góc nhìn senior thì điểm tự cho lệch."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_35_bad_01",
+          "speaker": "linh",
+          "speaker_role": "インターン",
+          "gender": "female",
+          "sentence": "フオン副部長、私の pitch 終わりました。Self-review もしました、合計42/60 でした。",
+          "sentence_translation": "Chị Hương, em pitch xong rồi ạ. Em cũng self-review rồi, tổng 42/60 ạ.",
+          "tone": "cheerful"
+        },
+        {
+          "line_id": "rule_35_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "いいね、自分で review はできた。でも solo は限界。group retro やったか？",
+          "sentence_translation": "Tốt, em tự review được rồi. Nhưng solo có giới hạn. Đã group retro chưa?",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_35_bad_03",
+          "speaker": "linh",
+          "speaker_role": "インターン",
+          "gender": "female",
+          "sentence": "いえ、1人でやりました。みなさん忙しいかと…",
+          "sentence_translation": "Không ạ, em làm một mình. Em nghĩ mọi người bận ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_35_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "1人 review は blind spot 残る。次 pitch までに同じ過ち繰り返す。今週金曜 16時に group retro セット、ズン+ハイ も呼ぶ。",
+          "sentence_translation": "Review 1 mình thì còn blind spot. Đến pitch sau lặp đúng lỗi cũ. Chị set group retro 16h thứ Sáu tuần này, gọi cả Dũng + Hải.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 4-step cycle full＋group retro",
+      "label_vi": "TỐT — 4-step cycle full + group retro",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_35_good_03",
+          "highlight_text": "Rehearse stage で recording 見てない",
+          "ja": "Mentor (ズン) の経験 transfer。Recording rehearse は最低 cost で最大 ROI の improvement tool。",
+          "vi": "Transfer kinh nghiệm từ mentor (Dũng). Rehearse có recording = tool ROI cao nhất, cost thấp nhất."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_35_good_05",
+          "highlight_text": "6/8 rehearse 録画＋6/12 ハイさん peer pilot＋6/14 ハーCTOに senior pilot＋6/15 live＋6/16 group retro",
+          "ja": "4-step cycle 全て date 付きで commit。Senior pilot は 1 weekday 前。",
+          "vi": "4-step cycle đầy đủ ngày commit. Senior pilot trước 1 ngày làm việc."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_35_good_06",
+          "highlight_text": "rubric 平均 4.0/5",
+          "ja": "Quantitative target で objective 進捗 tracking。Cycle 毎 rubric 平均で改善曲線。",
+          "vi": "Target định lượng → track tiến độ objective. Trung bình rubric mỗi cycle = đường cong cải thiện."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_35_good_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "リンの初 pitch retro, 30分。Linh Self-review 結果から start。",
+          "sentence_translation": "Retro pitch đầu của Linh, 30 phút. Linh start từ kết quả self-review nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_35_good_02",
+          "speaker": "linh",
+          "speaker_role": "インターン",
+          "gender": "female",
+          "sentence": "合計42/60。3 strengths: ①hook story 良かった、②time-keeping 守った、③Q&A 持ち帰り formal で対応。3 improvements: ①logical marker 弱、②声 small、③closing CTA 1点だけ。",
+          "sentence_translation": "Tổng 42/60 ạ. 3 strengths: ① hook story tốt, ② giữ time-keeping, ③ Q&A 持ち帰り xử lý formal. 3 improvements: ① logical marker yếu, ② giọng nhỏ, ③ closing CTA chỉ có 1 điểm.",
+          "tone": "neutral",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_35_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Mentor から1点追加。Rehearse stage で recording 見てないらしい。次 cycle は rehearse 録画 → 再生で気付きを入れて。私も最初それで声 small 直した。",
+          "sentence_translation": "Mentor thêm 1 điểm. Hình như stage rehearse em chưa xem recording. Cycle sau rehearse có quay → playback để spot lỗi nhé. Anh cũng từng fix giọng nhỏ bằng cách đó.",
+          "tone": "warm",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_35_good_04",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "Peer から1点。Pilot stage やった？私で良ければ pilot pair やるよ、senior じゃなくて peer pilot 30分で気軽に。",
+          "sentence_translation": "Từ peer thêm 1 điểm. Em làm pilot stage chưa? Nếu OK thì anh làm pilot pair với em, không phải senior mà peer pilot 30 phút thoải mái.",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_35_good_05",
+          "speaker": "linh",
+          "speaker_role": "インターン",
+          "gender": "female",
+          "sentence": "Pilot やってない…次 pitch (6/15) は 6/8 rehearse 録画 + 6/12 ハイさん peer pilot + 6/14 ハーCTOに senior pilot + 6/15 live + 6/16 group retro で行きます。",
+          "sentence_translation": "Em chưa làm pilot ạ... Pitch tiếp (15/6) em sẽ đi: 8/6 rehearse có quay + 12/6 peer pilot với anh Hải + 14/6 senior pilot với anh Hà CTO + 15/6 live + 16/6 group retro ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_35_good_06",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "素晴らしい。4-step cycle full で1ヶ月後の pitch 比較する。Phase 4 retro までに Linh の rubric 平均 4.0/5 目標。",
+          "sentence_translation": "Tuyệt vời. Đi full 4-step cycle, 1 tháng sau pitch so sánh. Trước retro Phase 4, target trung bình rubric của Linh là 4.0/5.",
+          "tone": "warm",
+          "annotation_ids": [
+            "3"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_35_kp_01",
+      "speaker": "linh",
+      "sentence": "次サイクルは Rehearse 録画 + Peer pilot + Senior pilot + Live + Group retro で行きます。",
+      "sentence_translation": "Cycle sau em đi: Rehearse có quay + Peer pilot + Senior pilot + Live + Group retro ạ.",
+      "purpose": "4-step cycle commit",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_35_kp_02",
+      "speaker": "fuon",
+      "sentence": "次サイクルまでに rubric 平均 〇/5 を目標にする。",
+      "sentence_translation": "Đến cycle sau target trung bình rubric 〇/5.",
+      "purpose": "Quantitative target setting",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_35_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "プレゼン skill 改善 cycle として最も効果的なのは？",
+      "options": [
+        "Live → Solo review のみ",
+        "Rehearse (録画) → Peer pilot → Senior pilot → Live → Group retro",
+        "Live を毎週繰り返すだけ",
+        "Senior に1回だけ見せる"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "4-step cycle で blind spot を多角的に発見。Recording rehearse + 2段階 pilot + group retro が full cycle。",
+        "vi": "4-step cycle phát hiện blind spot từ nhiều góc. Recording rehearse + pilot 2 cấp + group retro = full cycle."
+      }
+    }
+  ]
+}

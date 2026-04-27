@@ -1,0 +1,78 @@
+# Rule 31 — Khách Nhật đoàn lớn 5+ người / 5名以上の対応
+
+> **Luận điểm.** Từ 5 người trở lên = "tự ngồi tự xoay" sẽ thành thảm họa. Bắt buộc 4 thứ chuẩn bị: **(1) Bảng tên + sơ đồ ngồi (席札+席次表) đặt giữa bàn trước khi khách đến, (2) chỉ định ghế: 上位 khách giữa上座, senior host đối diện ở下座, (3) chia zone 3-4 người mỗi host phụ trách rót, (4) flow table 30-phút in sẵn cho cả host team**. 11 người 1 người rót = không kham nổi.
+>
+> 5+人 = 席札+席次表+zone別pour担当+flow table 4点必須。自由着席は混乱の元。
+>
+> **Liên quan:** rule 10 (上座下座), rule 24 (đặt dinner), rule 25 (host vs guest).
+
+---
+
+## Bối cảnh / 場面
+
+Trong onsite Tokyo, final ceremony tại trụ sở 白鷗. Bên 白鷗 6 người (CFO Nakamura, Ōgaki, Matsumoto, PMO Tanaka + 2 kỹ thuật), bên Tiên Phát 5 người (Hà CTO, chị Hương phó phòng, Tuấn, Dũng, Hải) = tổng 11 người. Hà CTO check Dũng về sơ đồ + flow.
+
+---
+
+## ❌ Hội thoại XẤU — ngồi tự do + tự quản drink + không có flow
+
+| Speaker | Câu |
+|---------|-----|
+| **ハーCTO** | 「ズン、明日のceremony seat layoutは？」 |
+| **ズン** | 「あ、自由着席で…大丈夫かと…」 |
+| **ハーCTO** | 「11人で自由着席は混乱の元。中村CFOが上座に入れず格落ちリスク。pour担当は？」 |
+| **ズン** | 「私一人でと…」 |
+| **ハーCTO** | 「11人 1人pourは無理。3-4人ずつzoneに分けてpour担当を配置。flow tableも作って。」 |
+
+**Vì sao xấu:** (1) Không chỉ định ghế = khách lưỡng lự + CFO có thể không vào được上座 = mất tầm. (2) 11 người mà 1 người rót = không kịp, ly cạn không ai để ý. (3) Không có flow = thứ tự chào lộn xộn + có thể CFO không có chỗ chen vào phát biểu.
+
+---
+
+## ✅ Hội thoại TỐT — ghế chỉ định + chia zone rót + flow 30 phút
+
+| Speaker | Câu |
+|---------|-----|
+| **ハーCTO** | 「ズン、明日 11名 ceremony 準備状況を共有して。」 |
+| **ズン** | 「① seat layout: 中村CFOが上座中央、両側に大垣様・松本様。下座側中央にハーCTO、両側にフオン副部長・トゥアン。席札+席次表をテーブル中央に【1】【2】。」 |
+| **ズン** | 「② zone別pour: zone A (中村・大垣・松本) はハイ担当、zone B (田中PMO+技術2名) はトゥアン担当、zone C (host側自分達)は私が回します。Slack で空glass通報。」【3】 |
+| **ハーCTO** | 「flow tableは？」 |
+| **ズン** | 「③ flow table: 18:30乾杯 → 18:40 中村CFOご挨拶 → 18:50 大垣部長 → 19:00 ハーCTO → 19:10 フオン副部長 → 19:20 自由歓談 → 20:30 お土産交換 → 21:00 締め。host 側全員に印刷配布済。」【4】 |
+| **ハーCTO** | 「完璧。明日17:30会場集合、最終確認。」 |
+
+📝 **Ghi chú:**
+- 【1】**Bàn 11 người vẫn 上座 (xa cửa nhất) ở giữa = vị trí tối cao**. 3 senior khách ngồi上座, senior host (Hà CTO) ngồi 下座 đối diện CFO Nakamura.
+- 【2】**5+ người = bắt buộc bảng tên + sơ đồ ngồi đặt giữa bàn**, bố trí xong trước khi khách đến. Tránh ngơ ngác + thứ bậc rõ ràng.
+- 【3】**Mỗi host phụ trách zone 3-4 người = phát hiện ly cạn trong 2 phút**. Zone leader nhau chat ngầm Slack check mức ly.
+- 【4】**Flow chia 30 phút in sẵn, phát cả nhóm host**. Phát biểu = CFO → trưởng Ōgaki → Hà CTO → chị Hương phó phòng — luân phiên khách-host.
+
+---
+
+## 🎯 Câu chốt
+
+> **「席次表をご確認の上、お席にお着きください。本日のflow をお手元の表でご確認いただけます。」**
+>
+> *Xin quý vị xem sơ đồ ngồi và vào chỗ ạ. Flow hôm nay quý vị có thể xem trên bảng trước mặt.*
+
+---
+
+## ⚠ Tránh
+
+- Tự do ngồi cho đoàn 5+ người — nguồn hỗn loạn
+- 1 host phụ trách rót cho 11 người — không kham nổi
+- Không in flow table — phát biểu lộn xộn
+- Không có buffer ghế — khách dẫn thêm interpreter sẽ kẹt
+- Senior host không đối diện CFO — đảo position quan trọng
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 席札 | せきふだ | Bảng tên ghế |
+| 席次表 | せきじひょう | Sơ đồ chỗ ngồi |
+| 上座 | かみざ | Chỗ trên (xa cửa) |
+| 下座 | しもざ | Chỗ dưới (gần cửa) |
+| 着席 | ちゃくせき | Vào chỗ |
+| 歓談 | かんだん | Trò chuyện thân mật |
+| 締め | しめ | Kết thúc |

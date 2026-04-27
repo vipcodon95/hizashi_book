@@ -1,0 +1,202 @@
+{
+  "rule_id": "rule_04",
+  "rule_slug": "中間報告",
+  "title": {
+    "ja": "中間報告 (25/50/75% マイルストーン)",
+    "vi": "Báo cáo trung gian (mốc 25/50/75%)"
+  },
+  "rule_context": {
+    "ja": "ズンが提案書作成の途中、トゥアンリーダーへ中間報告を行う場面。25% 地点で構成を見せて軌道修正、50%/75% も pre-schedule。",
+    "vi": "Em Dũng đang soạn proposal, báo cáo trung gian cho anh Tuấn. Show outline ở mốc 25% để xoay hướng nếu cần, schedule trước mốc 50%/75%."
+  },
+  "related_rules": [
+    "rule_01",
+    "rule_02",
+    "rule_07"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 完成まで報告せず",
+      "label_vi": "XẤU — Đợi xong mới báo",
+      "display_order": 1,
+      "analysis": {
+        "ja": "中間報告が無いと方向違いに気づくのが遅れ、80% 地点で書き直しという最悪の事態になる。",
+        "vi": "Không có báo cáo trung gian = phát hiện sai hướng quá muộn, đến 80% mới phải viết lại từ đầu."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_04_bad_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "ズン、提案書どう？来週金曜が締め切りでしょ？",
+          "sentence_translation": "Dũng, proposal sao rồi? Thứ Sáu tuần sau deadline đúng không?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_04_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、はい、頑張って書いてます。完成したらお見せします。",
+          "sentence_translation": "Vâng, em đang cố viết ạ. Xong em sẽ đưa anh xem.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_04_bad_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "ちょっと見せて。…これ、構成が松本様の好みと合ってない。最初から書き直しだ。",
+          "sentence_translation": "Cho anh xem chút. ...Cấu trúc này không hợp gu anh Matsumoto. Phải viết lại từ đầu.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_04_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっ、もう80%書いたのに…",
+          "sentence_translation": "Hả, em viết được 80% rồi mà...",
+          "tone": "nervous"
+        },
+        {
+          "line_id": "rule_04_bad_05",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "だから25%の段階で見せてって言ってたよね？中間報告が無いとこういうことになる。",
+          "sentence_translation": "Anh đã bảo show ở mốc 25% rồi đúng không? Không có báo cáo trung gian thì sẽ thành thế này.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 25% 中間報告 + 次回マイルストーン pre-schedule",
+      "label_vi": "TỐT — Báo trung gian 25% + pre-schedule mốc tiếp",
+      "display_order": 2,
+      "analysis": {
+        "ja": "25% 地点で構成だけ見せれば、まだ書き直し可能。次回マイルストーンを pre-schedule することで上司も計画に入れられる。",
+        "vi": "Mốc 25% chỉ show cấu trúc nên còn xoay được. Pre-schedule mốc tiếp giúp sếp đưa vào lịch."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_04_good_01",
+          "highlight_text": "中間報告です",
+          "ja": "ラベリングが大事。完成報告と区別することで聞き手の期待値を調整。",
+          "vi": "Đặt label quan trọng. Phân biệt với báo cáo cuối để chỉnh expectation của người nghe."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_04_good_02",
+          "highlight_text": "確認いただきたい点〜15分ほど",
+          "ja": "確認したい点 + 必要時間を明示。「ぼんやりレビュー」を避ける。",
+          "vi": "Nói rõ điều cần check + thời gian. Tránh 'review chung chung'."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_04_good_04",
+          "highlight_text": "次回中間報告は来週月曜（50%地点）",
+          "ja": "次回マイルストーンを pre-schedule する。上司もカレンダーに入れる。",
+          "vi": "Pre-schedule mốc tiếp. Sếp đưa được vào lịch."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_04_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "トゥアンリーダー、提案書の中間報告です。進捗25%：構成案とエグゼクティブサマリーが完成しました。",
+          "sentence_translation": "Anh Tuấn, em báo cáo trung gian proposal ạ. Tiến độ 25%: outline và executive summary đã xong ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_04_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "確認いただきたい点：松本様の好みに合う構成かどうか。15分ほどお時間いただけますか。",
+          "sentence_translation": "Điều em cần anh check: cấu trúc có hợp gu anh Matsumoto không. Anh dành cho em khoảng 15 phút được không ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_04_good_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "構成OK。ただ、技術詳細セクションは『なぜこの選定か』を増やして。50%の時点でまた見せて。",
+          "sentence_translation": "Cấu trúc OK. Nhưng phần technical detail thêm phần 'tại sao chọn cái này' vào. Mốc 50% show lại nhé.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_04_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "承知しました。次回中間報告は来週月曜（50%地点）に予定いたします。",
+          "sentence_translation": "Em hiểu ạ. Báo cáo trung gian lần sau em đặt vào thứ Hai tuần sau (mốc 50%) ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_04_good_05",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "うん、これで安心して任せられる。",
+          "sentence_translation": "Ừ, thế này anh yên tâm giao việc.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_04_kp_01",
+      "speaker": "zun",
+      "sentence": "〇〇の中間報告です。進捗〇%、確認いただきたい点は〇〇でございます。",
+      "sentence_translation": "Em báo cáo trung gian 〇〇 ạ. Tiến độ 〇%, điều em cần anh/chị check là 〇〇 ạ.",
+      "purpose": "中間報告の冒頭句",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_04_kp_02",
+      "speaker": "zun",
+      "sentence": "次回中間報告は〇月〇日（〇〇%地点）に予定いたします。",
+      "sentence_translation": "Báo cáo trung gian lần sau em đặt vào 〇/〇 (mốc 〇〇%) ạ.",
+      "purpose": "次マイルストーンの pre-schedule",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_04_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "1週間以上かかるタスクで中間報告を行う最も適切なタイミングは？",
+      "options": [
+        "完成90%地点で1回",
+        "完成直前で1回",
+        "25%/50%/75% の3地点",
+        "毎日1回"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "25/50/75% の3マイルストーンが軌道修正に最適。90% は遅すぎ、毎日は過剰。",
+        "vi": "3 mốc 25/50/75% là tối ưu cho xoay hướng. 90% trễ quá, mỗi ngày là quá đà."
+      }
+    }
+  ]
+}

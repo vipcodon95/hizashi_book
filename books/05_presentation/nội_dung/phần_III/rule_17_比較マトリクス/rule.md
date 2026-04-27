@@ -1,0 +1,88 @@
+# Rule 17 — So sánh phương án (matrix) / 比較マトリクス
+
+> **Luận điểm.** Show **3 option** (A/B/C), KHÔNG phải 5+. Cấu trúc: hàng = tiêu chí (cost / time / risk / impact), cột = option. Mỗi cell có dữ liệu **đo lường được** (số, ◎○△×), không phải adjective ("いい" / "悪い"). Cuối có **dòng "弊社推奨"** chỉ 1 option **+ lý do 1 câu**.
+>
+> 比較マトリクスは3案 (A/B/C) まで。行=評価軸、列=案。セルは数字 or ◎○△×。最後に「弊社推奨」を1案＋1文の理由。
+>
+> **Liên quan:** rule 02 (1-slide-1-message), rule 19 (価格), rule 20 (リスク).
+
+---
+
+## Bối cảnh / 場面
+
+Slide so sánh "Phase 3 のスコープ A=最小 / B=中規模 / C=フル". Dũng làm matrix 5 option × 8 tiêu chí = nhồi nhét. Hà CTO yêu cầu thu lại.
+
+---
+
+## ❌ Hội thoại XẤU — 5 options × 8 criteria
+
+| Speaker | Câu |
+|---------|-----|
+| **ハーCTO** | 「**5案 × 8軸 = 40 cell**？スライド1枚で見せられない。客は決められない。」 |
+| **ズン** | 「全部見せれば客が選べると思って…」 |
+| **ハーCTO** | 「**選択肢が多いと選べないのが人間**【choice paradox】。**3案に絞って、推奨を明示**。客に『考える』労力じゃなくて『決める』労力を割いてもらう。」 |
+| **ズン** | 「あ…はい、絞ります。」 |
+
+**Vì sao xấu:** Choice paradox — 5 option = decision fatigue → khách defer decision. Pitch goal là DECIDE, không phải SHOW. 8 tiêu chí = audience không track nổi.
+
+---
+
+## ✅ Hội thoại TỐT — 3 option × 4 criteria + 推奨
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「**3案 × 4軸**に絞り込みました【1】。軸: 投資額／期間／差異率改善／運用負荷。セルは数字と◎○△×。」 |
+| **ハーCTO** | 「いいね。推奨は？」 |
+| **ズン** | 「**最下行に『弊社推奨: B案』** + 1文理由【2】を入れました。『投資額対効果が最も高く、運用負荷も中程度のため』。」 |
+| **ハーCTO** | 「Perfect。客は『B案で進めましょう』と言いやすい。**推奨なしの matrix は責任放棄**に見える。」 |
+
+📝 **Ghi chú:**
+- 【1】**3 × 4 = 12 cell** — 認知負荷の上限ライン. それ以上は別スライド.
+- 【2】**「弊社推奨」 + 1文理由** — Vendor の責任明示. JP business は "推奨なし" を 「責任放棄」 と判断.
+
+---
+
+## 🎯 Câu chốt
+
+> **「3案 × 4軸 = 12セル。セルは数字 or ◎○△×。最後に弊社推奨を1案 + 1文理由。」**
+>
+> *3 phương án, 4 tiêu chí. Cell có số / ký hiệu. Cuối có "khuyến nghị bên em" + 1 câu lý do.*
+
+---
+
+## 📐 Comparison Matrix Template
+
+| 評価軸 | 案A (最小) | 案B (中規模) | 案C (フル) |
+|-------|-----------|-------------|-----------|
+| 投資額 | 〇〇万円 | 〇〇万円 | 〇〇万円 |
+| 期間 | 〇ヶ月 | 〇ヶ月 | 〇ヶ月 |
+| 差異率改善見込み | △ 1.0% | ◎ 0.3% | ◎ 0.2% |
+| 運用負荷 | ◎ 低 | ○ 中 | △ 高 |
+| **弊社推奨** | | **✅ B案** | |
+
+**推奨理由**: 「投資額対効果が最も高く、運用負荷も中程度のため」
+
+---
+
+## ⚠ Tránh
+
+- 5+ options → choice paradox
+- 7+ criteria → cognitive overload
+- Adjective cells ("いい" / "高い") → subjective
+- Không có 弊社推奨 → "責任放棄" perception
+- Recommend 案 đắt nhất → "vendor lobby" nghi ngờ. Recommend phải defendable
+- 全部 ◎ ở cột推奨 → fake / không tin
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 比較マトリクス | ひかくマトリクス | Comparison matrix |
+| 評価軸 | ひょうかじく | Tiêu chí đánh giá |
+| 推奨 | すいしょう | Khuyến nghị |
+| 運用負荷 | うんようふか | Tải vận hành |
+| 投資額対効果 | とうしがくたいこうか | Hiệu quả trên đầu tư |
+| 責任放棄 | せきにんほうき | Bỏ trách nhiệm |
+| 絞り込む | しぼりこむ | Thu hẹp lại |

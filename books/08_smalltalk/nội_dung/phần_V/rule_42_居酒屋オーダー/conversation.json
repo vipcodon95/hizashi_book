@@ -1,0 +1,346 @@
+{
+  "rule_id": "08-42",
+  "rule_slug": "居酒屋オーダー",
+  "title": {
+    "vi": "Izakaya order flow",
+    "ja": "居酒屋オーダー"
+  },
+  "rule_context": {
+    "luan_diem_vi": "Order izakaya 4 bước: bia → mồi → main → 締め. Junior nhất bàn = order role. Người Việt sai khi order tất cả 1 lần.",
+    "luan_diem_ja": "居酒屋は『とりあえずビール→お通し+つまみ→主菜→締め』の4段階。最若手がオーダー担当。一気に全部頼むのはNG。",
+    "boi_canh_vi": "Tháng 5/2026, dinner Phase 4 kickoff izakaya Yurakucho. 5 người: Ōgaki/Matsumoto/Tanaka/Tuấn/Dũng. Dũng = order role.",
+    "boi_canh_ja": "2026年5月、フェーズ4キックオフ後、有楽町の居酒屋。大垣・松本・田中・トゥアン・ズンの5名、ズンがオーダー担当。",
+    "muc_tieu_vi": "Học cách handle order flow izakaya 4 bước trôi chảy."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "43",
+      "topic": "Toast + thứ tự rót"
+    },
+    {
+      "book": "08",
+      "rule": "44",
+      "topic": "二次会"
+    },
+    {
+      "book": "07",
+      "rule": "26",
+      "topic": "Kanpai etiquette"
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "STEP 1 — Đầu buổi とりあえずビール",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "reception_hakuo",
+          "ja": "お飲み物、お決まりでしょうか?",
+          "vi": "Quý khách đã chọn đồ uống chưa ạ?"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "ズンさん、まずビールでみんないい?",
+          "vi": "Dũng, mọi người bia đã được không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "皆さん、生ビールでよろしいですか?",
+          "vi": "Mọi người bia tươi được không ạ?"
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "OK!",
+          "vi": "OK!"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "俺もビール。",
+          "vi": "Anh cũng bia."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "ビールで。",
+          "vi": "Bia."
+        },
+        {
+          "speaker": "zun",
+          "ja": "生ビール5つ、お願いします。あとお通しに加えて、枝豆と冷奴をすぐにお願いできますか?",
+          "vi": "5 bia tươi ạ. Ngoài món khai vị, cho thêm đậu Edamame và đậu hủ lạnh ra sớm được không ạ?"
+        },
+        {
+          "speaker": "reception_hakuo",
+          "ja": "かしこまりました。",
+          "vi": "Vâng ạ."
+        }
+      ]
+    },
+    {
+      "scenario": "STEP 2 — Allergy check + first wave",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "皆さん、お料理どうしましょうか?アレルギーや苦手なものってありますか?",
+          "vi": "Mọi người, đồ ăn order sao ạ? Có dị ứng hoặc món không hợp không ạ?"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "俺は何でもOK。",
+          "vi": "Anh thì gì cũng OK."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "私も。あ、生牡蠣だけは苦手ですね。",
+          "vi": "Tôi cũng. À, hàu sống thì không ăn được."
+        },
+        {
+          "speaker": "zun",
+          "ja": "了解しました。じゃあまず3-4品頼んで、足りなかったら追加でいいですか?",
+          "vi": "Em ghi nhận. Vậy đầu tiên gọi 3-4 món, thiếu thì gọi thêm được không ạ?"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "それで。",
+          "vi": "Vậy đi."
+        },
+        {
+          "speaker": "zun",
+          "ja": "お刺身5点盛り、焼き鳥盛り合わせ、だし巻き卵、揚げ出し豆腐、お願いします。",
+          "vi": "Sashimi 5 loại, yakitori thập cẩm, trứng cuộn dashi, đậu hủ chiên dashi, ạ."
+        },
+        {
+          "speaker": "reception_hakuo",
+          "ja": "はい、お刺身大将のお勧めで5点盛りですね。",
+          "vi": "Vâng, sashimi 5 loại theo gợi ý của bếp trưởng nhé."
+        },
+        {
+          "speaker": "zun",
+          "ja": "あ、生牡蠣は外していただけますか?",
+          "vi": "À, cho bỏ hàu sống ra giúp em được không ạ?"
+        },
+        {
+          "speaker": "reception_hakuo",
+          "ja": "かしこまりました。",
+          "vi": "Vâng ạ."
+        }
+      ]
+    },
+    {
+      "scenario": "STEP 3 — Drink switch wave 2",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "oogaki_sales",
+          "ja": "ズン、追加と、酒も切り替えるか?",
+          "vi": "Dũng, thêm món với đổi rượu không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、皆さんビール継続か日本酒・焼酎切り替えかいかがですか?",
+          "vi": "Vâng, mọi người tiếp bia hay chuyển sake / shochu ạ?"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "冷酒いきたい。",
+          "vi": "Tôi muốn rei-shu (sake lạnh)."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "ハイボールで。",
+          "vi": "Anh hailbol."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "獺祭の冷酒ある?",
+          "vi": "Có Dassai lạnh không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "獺祭の冷酒1合、ハイボール1杯、生ビール2杯のおかわり。あとお料理の追加ですが、焼き魚の銀ダラ西京焼、馬刺し、唐揚げお願いします。",
+          "vi": "Dassai lạnh 1 hợp, hailbol 1 ly, 2 bia tươi tiếp. Thêm đồ ăn: cá bạc nướng saikyo, sashimi ngựa, gà chiên ạ."
+        },
+        {
+          "speaker": "reception_hakuo",
+          "ja": "ご注文承りました。",
+          "vi": "Đã nhận order ạ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "大垣さんは何にしますか?",
+          "vi": "Anh Ōgaki uống gì ạ?"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "あ、俺生ビールもう一杯で。",
+          "vi": "À anh thêm 1 bia tươi."
+        },
+        {
+          "speaker": "zun",
+          "ja": "すみません、生ビールもう1杯追加お願いします。",
+          "vi": "Cho em thêm 1 bia tươi nữa ạ."
+        }
+      ]
+    },
+    {
+      "scenario": "STEP 4 — 締め + bill",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "oogaki_sales",
+          "ja": "そろそろ締め行こか。",
+          "vi": "Đến giờ chốt nhỉ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ご飯ものか麺ものか、いかがですか?",
+          "vi": "Cơm hay mì ạ?"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "鯛茶漬けで軽く締めたい。",
+          "vi": "Tôi muốn kết bằng cơm trà cá tráp nhẹ."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "俺焼きおにぎり。",
+          "vi": "Anh yaki onigiri."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "お茶漬けでええわ。梅で。",
+          "vi": "Anh ochazuke. Mận."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "私も焼きおにぎり1つ。",
+          "vi": "Anh cũng yaki onigiri 1."
+        },
+        {
+          "speaker": "zun",
+          "ja": "鯛茶漬け1つ、梅茶漬け1つ、焼きおにぎり2つ、私は鮭茶漬けでお願いします。",
+          "vi": "Cơm trà cá tráp 1, cơm trà mận 1, yaki onigiri 2, em thì cơm trà cá hồi ạ."
+        },
+        {
+          "speaker": "reception_hakuo",
+          "ja": "お会計ご一緒で?",
+          "vi": "Hóa đơn gộp ạ?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "大垣さん、お会計いかがしますか?",
+          "vi": "Anh Ōgaki, hóa đơn sao ạ?"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "まとめてくれ。今日は俺持ち。",
+          "vi": "Gộp đi. Hôm nay anh trả."
+        },
+        {
+          "speaker": "zun",
+          "ja": "いつもありがとうございます。次回はぜひこちらに。",
+          "vi": "Cảm ơn anh, lần sau nhất định bên em ạ."
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "Step 1",
+      "ja": "皆さん、生ビールでよろしいですか?",
+      "vi": "Mọi người bia tươi được không ạ?",
+      "use": "Confirm 1 lần"
+    },
+    {
+      "category": "Step 1",
+      "ja": "生ビール5つ、お通しに加えて枝豆と冷奴お願いします。",
+      "vi": "5 bia tươi, thêm Edamame + đậu hủ lạnh.",
+      "use": "Order pattern"
+    },
+    {
+      "category": "Step 2",
+      "ja": "皆さん、アレルギーや苦手なものってありますか?",
+      "vi": "Mọi người có dị ứng hay món không hợp không ạ?",
+      "use": "Pre-check standard"
+    },
+    {
+      "category": "Step 2",
+      "ja": "まず3-4品頼んで、足りなかったら追加でいいですか?",
+      "vi": "Đầu tiên 3-4 món, thiếu thì gọi thêm.",
+      "use": "Wave logic"
+    },
+    {
+      "category": "Step 2",
+      "ja": "[NG食材]は外していただけますか?",
+      "vi": "Bỏ [món NG] giúp em được không?",
+      "use": "Sub-order khéo"
+    },
+    {
+      "category": "Step 3",
+      "ja": "ビール継続か日本酒・焼酎切り替えかいかがですか?",
+      "vi": "Tiếp bia hay đổi sake/shochu ạ?",
+      "use": "Drink switch"
+    },
+    {
+      "category": "Step 4",
+      "ja": "そろそろ締めですが、ご飯ものか麺ものかいかがですか?",
+      "vi": "Sắp chốt rồi, cơm hay mì ạ?",
+      "use": "Closing"
+    },
+    {
+      "category": "Bill",
+      "ja": "お会計いかがしますか?",
+      "vi": "Hóa đơn sao ạ?",
+      "use": "Turn to senior"
+    },
+    {
+      "category": "Bill",
+      "ja": "いつもありがとうございます。次回はぜひこちらに。",
+      "vi": "Cảm ơn anh, lần sau bên em.",
+      "use": "Khi senior trả"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "5名で居酒屋に座った直後、最若手として最も適切な行動は?",
+      "options": [
+        "A. メニューを見て自分の好きなものを頼む",
+        "B. 「皆さん、生ビールでよろしいですか?」と確認して全員分まとめてオーダー、お通し+つまみ追加",
+        "C. 黙って店員が来るのを待つ",
+        "D. 全員に1人ずつ何が飲みたいか聞き続ける"
+      ],
+      "answer": "B",
+      "explain_vi": "Junior = order role, confirm 1 lần + pattern mặc định 'とりあえずビール' + mồi ngay. A self-focus; C miss role; D mất thời gian + 空気読めない."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "お客様が「生牡蠣だけは苦手」と言った時の最適な対応は?",
+      "options": [
+        "A. 「あ、すみません」とだけ言ってオーダーは進める",
+        "B. 了解+メモり、お刺身盛り合わせを頼む時に『生牡蠣は外して』と店員に伝える",
+        "C. 「分かりました、貝類は全部やめます」と過剰反応する",
+        "D. 「日本人は何でも食べると思ってました」と返す"
+      ],
+      "answer": "B",
+      "explain_vi": "Acknowledge + handle silently với 店員 = pro. Memory bank ghi vào CRM. A miss; C overreact; D xúc phạm."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "Senior が『まとめてくれ。今日は俺持ち』と言った時の最適な返答は?",
+      "options": [
+        "A. 「ありがとうございます」とだけ受ける",
+        "B. 「いつもありがとうございます。次回はぜひこちらに」と感謝+次回返礼の意思",
+        "C. 「いえ、割り勘で」と断る",
+        "D. 黙る"
+      ],
+      "answer": "B",
+      "explain_vi": "Nhận lời + báo lần sau bên mình → đẳng cấp khách Nhật. A flat; C refuse senior khi không cần; D awkward."
+    }
+  ],
+  "templates": []
+}

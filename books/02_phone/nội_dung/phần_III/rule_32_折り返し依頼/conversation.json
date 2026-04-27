@@ -1,0 +1,89 @@
+{
+  "rule_id": "rule_32",
+  "rule_slug": "折り返しの依頼",
+  "title": {
+    "ja": "折り返しの依頼",
+    "vi": "Xin gọi lại — folder back template"
+  },
+  "rule_context": {
+    "ja": "折り返し電話を依頼する際、相手の都合を優先し時間枠と代替手段（メール）も提示する。",
+    "vi": "Nhờ gọi lại — ưu tiên thời gian thuận của đối phương + đề xuất phương án thay thế (mail)."
+  },
+  "related_rules": [
+    "rule_31",
+    "rule_25",
+    "rule_51"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『お手すきの時』『本日17時まで／明日終日』と複数の時間枠を提示し、メールも代替として用意。相手の負担を最小化。",
+        "vi": "「お手すきの時」 + nhiều khung giờ + có cả mail dự phòng — giảm tối đa gánh nặng cho đối phương."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_32_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お戻りになりましたら、お手すきの時に折り返しお電話をいただけますと幸いです。本日中ですと17時まで、明日であれば終日対応可能でございます。",
+          "sentence_translation": "Khi anh ấy về, lúc nào rảnh xin gọi lại giúp em ạ. Hôm nay em có thể đến 17h, ngày mai cả ngày đều được ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_32_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "もしお電話がご都合つかない場合は、メールでも構いません。zun (z-u-n) アットマーク thienphat ドット vn 宛にお願いいたします。",
+          "sentence_translation": "Nếu không tiện gọi điện, anh ấy gửi mail cũng được ạ. Mail là zun@thienphat.vn ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.85
+        },
+        {
+          "line_id": "rule_32_good_03",
+          "speaker": "reception_hakuo",
+          "speaker_role": "受付 (白鷗株式会社)",
+          "gender": "female",
+          "sentence": "承知いたしました。申し伝えます。",
+          "sentence_translation": "Em rõ rồi ạ, em sẽ chuyển lời ạ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_32_kp_01",
+      "speaker": "zun",
+      "sentence": "お手すきの時に折り返しお電話をいただけますと幸いです。",
+      "sentence_translation": "Lúc nào rảnh xin gọi lại giúp em ạ.",
+      "purpose": "折り返し依頼の標準",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_32_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "折り返し依頼で最も配慮された言い方は？",
+      "options": [
+        "今すぐ電話してください",
+        "お手すきの時にいただけますと幸いです",
+        "早く折り返してください",
+        "暇な時で結構です"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "『お手すきの時』『幸いです』が相手の都合を尊重した表現。",
+        "vi": "「お手すきの時」「幸いです」 thể hiện tôn trọng thời gian đối phương."
+      }
+    }
+  ]
+}

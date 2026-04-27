@@ -1,0 +1,311 @@
+{
+  "rule_id": "08-38",
+  "rule_slug": "都市",
+  "title": {
+    "vi": "Thành phố khách Nhật quan tâm",
+    "ja": "注目都市"
+  },
+  "rule_context": {
+    "luan_diem_vi": "JP đi VN thường tới HN cổ kính / HCM năng động / ĐN biển / HA phố cổ. Mỗi nơi cần 1 câu pitch + 1 quán + 1 view. Match audience.",
+    "luan_diem_ja": "日本人がよく行くのは古都ハノイ・活気あるHCM・ダナンビーチ・ホイアン世界遺産。1都市1ピッチ+お店+ビュー、客層に合わせる。",
+    "boi_canh_vi": "Tháng 6/2026, dinner Tokyo. Matsumoto couple 7 ngày, Yamamoto 3 ngày food, Sato senior 1 ngày HCM transit. 3 audience khác nhau.",
+    "boi_canh_ja": "2026年6月、東京会食。松本(夫婦7日)、山本(3日グルメ)、佐藤(1日HCM乗継)の3客層。",
+    "muc_tieu_vi": "Học cách match suggestion thành phố theo audience JP."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "34",
+      "topic": "Phở"
+    },
+    {
+      "book": "08",
+      "rule": "37",
+      "topic": "Khí hậu 3 miền"
+    },
+    {
+      "book": "08",
+      "rule": "41",
+      "topic": "Cảnh đẹp + nightlife"
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "Hà Nội — couple senior",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "ズンさん、9月にハノイ初めて。3日でどう回るのがいい?",
+          "vi": "Dũng, tháng 9 tôi đi Hà Nội lần đầu. 3 ngày đi sao là ổn?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ハノイは『歩く街』です。旧市街(36通り)を朝散歩→ホアンキエム湖→ベトナム女性博物館→夜の水上人形劇、これが定番1日目。",
+          "vi": "Hà Nội là 'thành phố để đi bộ'. Sáng phố cổ 36 phố phường → Hồ Hoàn Kiếm → Bảo tàng Phụ nữ → tối múa rối nước. Đó là ngày 1 chuẩn."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "水上人形劇って?",
+          "vi": "Múa rối nước là gì?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "Múa rối nước — 11世紀から続く伝統芸能で、水面で操る人形劇です。45分一回・10万ドン(約500円)。奥様も絶対喜びます。",
+          "vi": "'Múa rối nước' — nghệ thuật truyền thống từ thế kỷ 11, biểu diễn trên mặt nước. 45 phút/suất, 100k đồng (~500 yen). Chị nhà chắc chắn thích."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "いいね、それは初めて聞いた。",
+          "vi": "Hay, lần đầu tôi nghe."
+        },
+        {
+          "speaker": "zun",
+          "ja": "2日目はバッチャン陶器村+タイ湖周辺カフェ、3日目はハロン湾日帰りでメリハリ。Café Giảngで卵コーヒー、Bún Chả Hương Liênでオバマと同じ席のフン・チャーもぜひ。",
+          "vi": "Ngày 2 làng gốm Bát Tràng + cà phê quanh Hồ Tây, ngày 3 đi Hạ Long về trong ngày. Café Giảng uống cà phê trứng, Bún Chả Hương Liên ngồi đúng bàn của Obama nhé."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "オバマの店、まだあるんだ?",
+          "vi": "Quán của Obama còn à?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "あります、当時のテーブル保存して観光名所化してます(笑)。観光客5割、地元5割でちょうどいいリアル感。",
+          "vi": "Còn ạ, bàn năm đó được giữ lại làm điểm du lịch (cười). Du khách 50% local 50%, vừa đủ thật."
+        }
+      ]
+    },
+    {
+      "scenario": "TP HCM — food blogger Yamamoto",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "ホーチミン3日、グルメ全振りで行きたい。リスト頂戴!",
+          "vi": "HCM 3 ngày, dồn hết vào ăn. Cho em list đi!"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ホーチミンは『路上が食堂』の街。1日ベンタイン市場の朝食コーナー、2日3区のローカル店巡り、3日1区のお洒落カフェ+ルーフトップバーっていう構成が黄金。",
+          "vi": "HCM là 'thành phố mà vỉa hè là quán ăn'. Ngày 1 góc ăn sáng chợ Bến Thành, ngày 2 quán local Q3, ngày 3 cafe đẹp + rooftop Q1 — combo vàng."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "具体的に教えて!",
+          "vi": "Cụ thể đi em!"
+        },
+        {
+          "speaker": "zun",
+          "ja": "朝はBanh Mi Huynh Hoa(行列必至バインミー)、昼Com Tam Ba Ghien(ミシュラン推薦の屋台コムタム)、夜Quan Bui Garden(ローカル料理がモダンに)。",
+          "vi": "Sáng Bánh Mì Huỳnh Hoa (xếp hàng), trưa Cơm Tấm Ba Ghiền (Michelin), tối Quán Bụi Garden (món local kiểu modern)."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "ミシュランあるんや!",
+          "vi": "Có Michelin luôn á!"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ホーチミンはミシュランガイド出てます(2023〜)。3区の路地裏Phở Le、1区のフォークインギン、Banh Xeo 46Aもミシュラン入りです。",
+          "vi": "HCM có Michelin Guide từ 2023. Phở Lệ trong hẻm Q3, Phở Quỳnh Q1, Bánh Xèo 46A đều vào sao."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "それ全部回る!カフェは?",
+          "vi": "Đi hết! Cafe?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "The Workshop(specialty coffee聖地)、Cafe Apartment(Block 42 Nguyen Hue)(1棟全部カフェ・古いアパート)、Vietcetera Café(若手アーティスト集まる)。あとSaigon Saigon Barでルーフトップ、教会と市役所が見渡せます。",
+          "vi": "The Workshop (specialty), Cafe Apartment 42 Nguyễn Huệ (cả tòa nhà cafe), Vietcetera Café (nghệ sĩ trẻ tụ tập). Rooftop thì Saigon Saigon Bar, view nhà thờ + UBND."
+        }
+      ]
+    },
+    {
+      "scenario": "Đà Nẵng + Hội An — couple",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "ハノイの後、ダナンに2泊、ホイアン1泊って予定。ベース、どっちがいい?",
+          "vi": "Sau HN, anh định ĐN 2 đêm HA 1 đêm. Đặt base ở đâu?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ダナン基地+ホイアンは日帰り or 1泊がおすすめ。ダナンは『発展する近代ビーチ都市』、ホイアンは『夜のランタンの世界遺産』って性格が全然違います。",
+          "vi": "Base ĐN + HA thì đi trong ngày hoặc 1 đêm. ĐN là 'thành phố biển hiện đại đang phát triển', HA là 'di sản đèn lồng buổi tối' — tính cách hoàn toàn khác."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "ダナンで何する?",
+          "vi": "Đà Nẵng làm gì?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ミーケビーチでサンライズ(5:30〜)、朝食Mì Quảng(ダナン名物麺)、バーナーヒルズの黄金橋で写真、Sun Worldの観覧車で夜景。夕食はLong Phuoc Quanでローカル海鮮。",
+          "vi": "Bình minh biển Mỹ Khê (5:30), sáng Mì Quảng (đặc sản ĐN), Cầu Vàng Bà Nà chụp ảnh, vòng quay Sun World ngắm đêm. Tối Long Phước Quán hải sản local."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "黄金橋ってInstagramでよく見るやつだ。",
+          "vi": "Cầu Vàng Instagram hay thấy đó nhỉ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ホイアンは夕方4時にチェックイン→灯篭流し→旧市街散策。夜が一番美しい街で、ランタンが灯る17時以降が本番。Cao Lau(ホイアン限定の麺)、Bánh Mì Phượng(アンソニー・ボーデイン推薦)も忘れずに。",
+          "vi": "HA thì 4h chiều check-in → thả đèn hoa đăng → đi phố cổ. Buổi tối là đẹp nhất, sau 17h đèn lồng sáng mới là chính. Cao lầu (đặc sản HA) và Bánh Mì Phượng (Anthony Bourdain khen) đừng quên."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "夜が本番ね、覚えとく。早朝チェックアウトしないようにしないと。",
+          "vi": "Tối là chính, anh ghi. Phải tránh check-out sớm."
+        },
+        {
+          "speaker": "zun",
+          "ja": "夜のランタン+水路の光が一番美しいので、朝早出じゃなく夕方着ホイアン泊がベスト。",
+          "vi": "Đèn lồng + sông đêm đẹp nhất, nên check-in chiều ngủ HA thay vì đi sớm."
+        }
+      ]
+    },
+    {
+      "scenario": "Senior 1 ngày HCM transit",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "sato_kyushu",
+          "ja": "ズンさん、ホーチミン乗り継ぎで1日だけ時間取れたんだが、何見たらええかね?",
+          "vi": "Dũng à, anh transit HCM được 1 ngày, đi đâu nhỉ?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "先生、1日でしたら歴史と食を組み合わせてで。朝統一会堂(旧大統領官邸、歴史)、戦争証跡博物館(深いですが必見)、ノートルダム大聖堂・中央郵便局(フランス植民地建築)、昼コムタム、夕方サイゴン川クルーズ+ディナーっていう流れがおすすめ。",
+          "vi": "Anh ạ, 1 ngày thì kết hợp lịch sử + ẩm thực. Sáng Dinh Thống Nhất (lịch sử), Bảo tàng Chứng tích Chiến tranh (nặng nhưng nên đi), Nhà thờ Đức Bà - Bưu điện Trung tâm (kiến trúc Pháp), trưa cơm tấm, chiều cruise sông Sài Gòn + dinner — flow vậy."
+        },
+        {
+          "speaker": "sato_kyushu",
+          "ja": "博物館は重そうやな…",
+          "vi": "Bảo tàng chắc nặng đầu nhỉ..."
+        },
+        {
+          "speaker": "zun",
+          "ja": "先生、戦争証跡博物館は重いですが、ベトナムを理解する上で外せない場所です。1時間で十分回れます。先生世代だと感じるものあるはずです。",
+          "vi": "Anh, Bảo tàng Chứng tích nặng thật nhưng để hiểu VN thì không thể thiếu. 1 tiếng là đủ. Thế hệ anh chắc sẽ có cảm xúc."
+        },
+        {
+          "speaker": "sato_kyushu",
+          "ja": "うん、行ってみるわ。バーがてらリラックスもしたいんだけど。",
+          "vi": "Ừ, tôi sẽ đi. Cũng muốn ngồi bar thư giãn."
+        },
+        {
+          "speaker": "zun",
+          "ja": "Sài Gòn Saigon Bar(Caravelleホテル屋上)が静かで上品、シニアには最適。戦時中、海外特派員が集まった歴史のあるバーでもあります。",
+          "vi": "Saigon Saigon Bar (rooftop khách sạn Caravelle) yên tĩnh và sang, hợp senior. Là bar lịch sử nơi phóng viên nước ngoài tụ thời chiến."
+        },
+        {
+          "speaker": "sato_kyushu",
+          "ja": "歴史とつながるバーね、それは粋やね。任せた、行ってみる。",
+          "vi": "Bar gắn với lịch sử nhỉ, chất đó. Anh tin em, sẽ đi."
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "HN pitch",
+      "ja": "ハノイは『歩く街』です。",
+      "vi": "HN là 'thành phố để đi bộ'.",
+      "use": "1-line"
+    },
+    {
+      "category": "HN",
+      "ja": "旧市街(36通り)を朝散歩、夜は水上人形劇が定番。",
+      "vi": "Sáng phố cổ 36 phố phường, tối múa rối nước.",
+      "use": "Itinerary chuẩn"
+    },
+    {
+      "category": "HCM pitch",
+      "ja": "ホーチミンは『路上が食堂、夜は屋上が酒場』の街です。",
+      "vi": "HCM là 'vỉa hè là quán ăn, tối rooftop là bar'.",
+      "use": "1-line"
+    },
+    {
+      "category": "HCM food",
+      "ja": "ホーチミンはミシュランガイド出てます(2023〜)。",
+      "vi": "HCM có Michelin Guide từ 2023.",
+      "use": "Update fact"
+    },
+    {
+      "category": "DN pitch",
+      "ja": "ダナンは『発展する近代ビーチ都市』。",
+      "vi": "ĐN là 'thành phố biển hiện đại đang phát triển'.",
+      "use": "1-line"
+    },
+    {
+      "category": "HA pitch",
+      "ja": "ホイアンは『夜のランタンの世界遺産』。",
+      "vi": "HA là 'di sản đèn lồng buổi tối'.",
+      "use": "1-line"
+    },
+    {
+      "category": "HA",
+      "ja": "夜が本番なので、夕方着ホイアン泊がベストです。",
+      "vi": "Tối là chính, nên check-in chiều ngủ HA.",
+      "use": "Practical advice"
+    },
+    {
+      "category": "Senior",
+      "ja": "Sài Gòn Saigon Bar(Caravelle屋上)はシニアに最適、歴史も。",
+      "vi": "Saigon Saigon Bar Caravelle hợp senior, có lịch sử.",
+      "use": "Match audience"
+    },
+    {
+      "category": "Warning",
+      "ja": "戦争証跡博物館は重いですが、外せない場所です。",
+      "vi": "Bảo tàng Chứng tích nặng nhưng không thể thiếu.",
+      "use": "Warning before recommend"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "Foodブロガーの客がホーチミン3日間の予定を聞いた時、最も良い構成は?",
+      "options": [
+        "A. 戦争証跡博物館を3日連続",
+        "B. ベンタイン市場朝食 / 3区ローカル / 1区カフェ+ルーフトップの3日構成",
+        "C. ハノイの店を提案",
+        "D. ブイビエンストリートで毎晩"
+      ],
+      "answer": "B",
+      "explain_vi": "Match audience food blogger = market + local + cafe trend. A senior; C nhầm city; D nightlife trẻ."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "60代senior が『博物館は重そうやな…』と言った時、最も適切な対応は?",
+      "options": [
+        "A. 「では行かなくていいです」と引っ込める",
+        "B. 「重いですが、ベトナムを理解する上で外せない、1時間で十分」と価値+負担量を伝える",
+        "C. 「軽い博物館です」と嘘をつく",
+        "D. 「政治の話なので避けてください」と切る"
+      ],
+      "answer": "B",
+      "explain_vi": "Acknowledge nặng + add value + bound time → senior decide với info đủ. A withdraw too fast; C lừa; D né với lý do sai."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "ホイアンに泊まるべき時間帯として、最も適切なアドバイスは?",
+      "options": [
+        "A. 「朝早く出発してください」",
+        "B. 「日帰りで十分です」",
+        "C. 「夜が本番なので、夕方着ホイアン泊がベスト」と理由付きで伝える",
+        "D. 「いつでも同じ」"
+      ],
+      "answer": "C",
+      "explain_vi": "HA đèn lồng đẹp tối → advise chiều check-in + lý do. A/B miss best time; D nông."
+    }
+  ],
+  "templates": []
+}

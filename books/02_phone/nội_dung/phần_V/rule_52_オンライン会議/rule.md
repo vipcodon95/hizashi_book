@@ -1,0 +1,36 @@
+# Rule 52 — Conference call / Zoom / Teams — phone version / オンライン会議の電話作法
+
+> **Luận điểm.** Online meeting có giọng nhưng không có hình → vẫn áp dụng phone etiquette + thêm: **(1) tự giới thiệu rõ ràng** mỗi lần phát biểu, **(2) nói chậm hơn**, **(3) confirm "聞こえますか" đầu cuộc.
+>
+> オンライン会議：発言時に毎回名乗り＋話速を下げる＋冒頭で音声確認。
+>
+> **Liên quan:** Rule 53, Rule 54, Rule 55.
+
+## ✅ Hội thoại
+
+*発表後*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「ティエンファットのズンです。皆様、音声は聞こえておりますでしょうか？」 |
+| **松本PM** | 「はい、こちらは聞こえております。」 |
+| **ズン** | 「ありがとうございます。それでは、ズンより4月度の進捗についてご報告いたします。」 |
+| **ズン** | 「ズンからは以上です。質問ございますでしょうか？」 |
+
+## ⚠ Tips
+
+- **「〇〇のズンです」** mở mỗi lần phát biểu = đối phương biết ai đang nói (vì không thấy mặt).
+- **「以上です」** đánh dấu hết phần phát biểu.
+
+## 🎯 Câu chốt
+
+> **「〇〇のズンより〇〇についてご報告いたします。」**
+
+## 📚 Vocab
+
+| 漢字 | よみ | Nghĩa |
+|------|------|-------|
+| オンライン会議 | online kaigi | Họp online |
+| 音声 | おんせい | Âm thanh |
+| 発言 | はつげん | Phát biểu |
+| 質問 | しつもん | Câu hỏi |

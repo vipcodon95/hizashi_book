@@ -1,0 +1,35 @@
+{
+  "rule_id": "rule_15",
+  "rule_slug": "担当者がいる場合の取次ぎ",
+  "title": {"ja": "担当者がいる場合の取次ぎ", "vi": "Chuyển máy khi người nhận có mặt"},
+  "rule_context": {"ja": "取次ぎは3ステップ：氏名確認→本人確認→転送。", "vi": "Chuyển máy 3 bước: hỏi tên → confirm → chuyển."},
+  "related_rules": ["rule_12", "rule_16"],
+  "conversations": [{
+    "section": "good_example", "label_ja": "良い例", "label_vi": "TỐT", "display_order": 1,
+    "conversation_lines": [
+      {"line_id": "rule_15_good_01", "speaker": "matsumoto", "speaker_role": "PM (白鷗株式会社)", "gender": "male", "sentence": "ズンさんお願いします。", "sentence_translation": "Phiền em cho tôi gặp Dũng nhé.", "tone": "neutral"},
+      {"line_id": "rule_15_good_02", "speaker": "hai", "speaker_role": "FE/DevOps", "gender": "male", "sentence": "松本様、少々お待ちください。ただ今おつなぎいたします。", "sentence_translation": "Anh Matsumoto, anh đợi chút ạ. Em xin nối máy ngay.", "tone": "formal"},
+      {"line_id": "rule_15_good_03", "speaker": "hai", "speaker_role": "FE/DevOps", "gender": "male", "sentence": "ズン、白鷗の松本様からお電話です。", "sentence_translation": "Dũng ơi, có anh Matsumoto bên Hakuō gọi tới này.", "tone": "casual"},
+      {"line_id": "rule_15_good_04", "speaker": "zun", "speaker_role": "BD担当", "gender": "male", "sentence": "ありがとう、つないで。", "sentence_translation": "Cảm ơn em, nối qua đi nhé.", "tone": "casual"},
+      {"line_id": "rule_15_good_05", "speaker": "zun", "speaker_role": "BD担当", "gender": "male", "sentence": "お電話変わりました。ズンでございます。", "sentence_translation": "Dạ, em Dũng nghe máy đây ạ.", "tone": "formal"}
+    ]
+  }],
+  "key_phrases": [{
+    "phrase_id": "rule_15_kp_01", "speaker": "zun",
+    "sentence": "お電話変わりました。〇〇でございます。",
+    "sentence_translation": "Dạ, em 〇〇 nghe máy đây ạ.",
+    "purpose": "取次ぎ後の第一声", "slow_audio": true
+  }, {
+    "phrase_id": "rule_15_kp_02", "speaker": "hai",
+    "sentence": "少々お待ちください。ただ今おつなぎいたします。",
+    "sentence_translation": "Anh đợi chút ạ. Em xin nối máy ngay.",
+    "purpose": "取次ぎ前の保留依頼", "slow_audio": true
+  }],
+  "bjt_practice": [{
+    "question_id": "rule_15_bjt_01", "level": "J3", "skill": "表現読解",
+    "question_ja": "電話を取り次ぐ前の正しい一言は？",
+    "options": ["ちょっと待って", "少々お待ちください、ただ今おつなぎいたします", "後でかけ直して", "誰？"],
+    "correct": "B",
+    "explanation": {"ja": "「少々お待ちください」が最丁寧。", "vi": "「少々お待ちください」 là lịch sự nhất."}
+  }]
+}

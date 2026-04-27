@@ -1,0 +1,240 @@
+{
+  "rule_id": "rule_42",
+  "rule_slug": "通訳介在",
+  "title": {
+    "ja": "通訳介在",
+    "vi": "Đàm phán qua phiên dịch"
+  },
+  "rule_context": {
+    "ja": "Linh インターン interpret デビュー。Pre-brief 30 分 + 1 文 20 字 + 2 秒 pause + 数値区切り発音で精度を担保する場面。",
+    "vi": "Linh intern lần đầu interpret. Pre-brief 30 phút + câu 20 chữ + pause 2 giây + đọc tách số = đảm bảo độ chính xác."
+  },
+  "related_rules": ["rule_30"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 80 字 + 99.5/99.95 翻訳ミス",
+      "label_vi": "XẤU — Câu 80 chữ + nhầm 99.5/99.95",
+      "display_order": 1,
+      "analysis": {
+        "ja": "1 文に key terms 4 つ詰め込み + 99.95 を一気に発音 → Linh が 99.5 と聞き間違え訳出。¥1M+ の数値 dispute source。",
+        "vi": "Nhồi 4 key terms vào 1 câu + đọc 99.95 nhanh → Linh nghe nhầm thành 99.5 → dịch sai → nguồn dispute hơn ¥1M."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_42_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "弊社の Phase 4 提案は、AI レコメンドエンジンに加えて customer churn prediction モデルも統合し、 indemnity は年契約額上限 ¥20M 想定、SLA は 99.95% で、 BATNA も別途用意しております。",
+          "sentence_translation": "Đề xuất Phase 4 bên em ngoài AI recommend engine còn integrate cả model customer churn prediction, indemnity dự kiến cap annual ¥20M, SLA là 99.95%, BATNA bên em cũng có chuẩn bị riêng.",
+          "tone": "formal",
+          "speed_multiplier": 1.1
+        },
+        {
+          "line_id": "rule_42_bad_02",
+          "speaker": "linh",
+          "speaker_role": "通訳",
+          "gender": "female",
+          "sentence": "えっと…AI engine と churn prediction、 indemnity ¥20M、SLA…99.5% ですか？",
+          "sentence_translation": "Ờ thì... AI engine và churn prediction, indemnity ¥20M, SLA... 99.5% à?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_42_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "99.95% です。",
+          "sentence_translation": "99.95% ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_42_bad_04",
+          "speaker": "linh",
+          "speaker_role": "通訳",
+          "gender": "female",
+          "sentence": "Phase 4 sẽ có AI engine + churn prediction. Indemnity 20 triệu yên, SLA 99.5%...à 99.95%, em xin lỗi.",
+          "sentence_translation": "(VN dịch) Phase 4 sẽ có AI engine + churn prediction. Indemnity 20 triệu yên, SLA 99.5%...à 99.95%, em xin lỗi.",
+          "tone": "apologetic"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — Pre-brief + chunk + 区切り発音",
+      "label_vi": "TỐT — Pre-brief + chunk + đọc tách số",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_42_good_01",
+          "highlight_text": "key terms 7 個 reviews",
+          "ja": "Pre-brief 30 分 = 用語 list + 数値 sensitive + speaker style。cold start interpret 精度 -30%。",
+          "vi": "Pre-brief 30 phút = list term + điểm số nhạy cảm + style speaker. Cold start interpret giảm accuracy 30%."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_42_good_01",
+          "highlight_text": "きゅうきゅう・きゅうご パーセント",
+          "ja": "数値区切り発音で 3/5/9 混同を防ぐ。Vietnamese と日本語両方で類似音。",
+          "vi": "Đọc tách số chống nhầm 3/5/9. Cả tiếng Việt và Nhật đều có âm gần nhau."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_42_good_09",
+          "highlight_text": "きゅうきゅう・きゅうご パーセント",
+          "ja": "Speaker 自身も区切り発音を実演し、 Linh が同じ発音 pattern で訳出。",
+          "vi": "Speaker tự đọc tách số, Linh dịch theo cùng pattern phát âm."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_42_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Linh、本日の key terms 7 個 reviews: indemnity =損害賠償, BATNA =交渉決裂代替案, ZOPA =合意可能領域, SLA = サービス水準合意。99.95% は『きゅうきゅう・きゅうご パーセント』と区切って発音、99.5% との混同避ける。",
+          "sentence_translation": "Linh, mình review 7 key terms hôm nay: indemnity = bồi thường thiệt hại, BATNA = phương án thay thế, ZOPA = vùng thỏa thuận, SLA = thỏa thuận mức dịch vụ. 99.95% đọc tách 'chín-chín chín-năm phần trăm' để khỏi nhầm với 99.5%.",
+          "tone": "warm",
+          "speed_multiplier": 0.95,
+          "annotation_ids": ["1", "2"]
+        },
+        {
+          "line_id": "rule_42_good_02",
+          "speaker": "linh",
+          "speaker_role": "通訳",
+          "gender": "female",
+          "sentence": "ありがとうございます。99.95% pronunciation 練習しました。",
+          "sentence_translation": "Em cảm ơn anh ạ. Em đã practice phát âm 99.95% rồi ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_42_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 4 では、AI レコメンドエンジンを継続いたします。",
+          "sentence_translation": "Phase 4 sẽ tiếp tục AI recommend engine ạ.",
+          "tone": "formal",
+          "pause_after_ms": 2000
+        },
+        {
+          "line_id": "rule_42_good_04",
+          "speaker": "linh",
+          "speaker_role": "通訳",
+          "gender": "female",
+          "sentence": "Phase 4 vẫn duy trì AI recommend engine.",
+          "sentence_translation": "(VN) Phase 4 vẫn duy trì AI recommend engine.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_42_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "加えて、 customer churn prediction を統合いたします。",
+          "sentence_translation": "Bổ sung thêm, em sẽ integrate customer churn prediction ạ.",
+          "tone": "formal",
+          "pause_after_ms": 2000
+        },
+        {
+          "line_id": "rule_42_good_06",
+          "speaker": "linh",
+          "speaker_role": "通訳",
+          "gender": "female",
+          "sentence": "Bổ sung integrate model dự đoán churn.",
+          "sentence_translation": "(VN) Bổ sung integrate model dự đoán churn.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_42_good_07",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "indemnity 上限は 年契約額相当の ¥20M。",
+          "sentence_translation": "Cap indemnity tương đương annual contract ¥20M.",
+          "tone": "formal",
+          "pause_after_ms": 2000
+        },
+        {
+          "line_id": "rule_42_good_08",
+          "speaker": "linh",
+          "speaker_role": "通訳",
+          "gender": "female",
+          "sentence": "Indemnity (損害賠償上限) đặt ở mức annual ¥20M.",
+          "sentence_translation": "(VN) Indemnity (cap bồi thường) đặt ở mức annual ¥20M.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_42_good_09",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "SLA は『きゅうきゅう・きゅうご パーセント』、つまり 99.95% でございます。",
+          "sentence_translation": "SLA là 'chín-chín chín-năm phần trăm', tức là 99.95% ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.85,
+          "pause_after_ms": 2000,
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_42_good_10",
+          "speaker": "linh",
+          "speaker_role": "通訳",
+          "gender": "female",
+          "sentence": "SLA chín-chín-chín-năm phần trăm, tức là 99.95%.",
+          "sentence_translation": "(VN, đọc tách rõ) SLA chín-chín-chín-năm phần trăm, tức là 99.95%.",
+          "tone": "formal",
+          "speed_multiplier": 0.85
+        },
+        {
+          "line_id": "rule_42_good_11",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お疲れ様。99.95% 区切り発音 + indemnity term pre-brief で精度 high。次回も同じ pattern で。",
+          "sentence_translation": "Em vất vả rồi. Phát âm tách 99.95% + pre-brief term indemnity giúp accuracy cao. Lần sau pattern y vậy.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_42_kp_01",
+      "speaker": "zun",
+      "sentence": "本日の key terms 7 個 reviews。",
+      "sentence_translation": "Mình review 7 key terms hôm nay.",
+      "purpose": "Pre-brief opener",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_42_kp_02",
+      "speaker": "zun",
+      "sentence": "きゅうきゅう・きゅうご パーセント、つまり 99.95% でございます。",
+      "sentence_translation": "Chín-chín chín-năm phần trăm, tức là 99.95% ạ.",
+      "purpose": "数値区切り発音",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_42_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "通訳介在交渉で「99.95%」を伝える時の最も安全な方法は？",
+      "options": [
+        "通常 pace で「99.95%」と一気に言う",
+        "「きゅうきゅう・きゅうご パーセント、つまり 99.95%」と区切り発音 + 数字 confirm",
+        "通訳に任せる",
+        "メモに書いて見せるだけ"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "数値は通訳の最大ミス source。区切り発音 + 数字 confirm で 99.5/99.95 の混同を防ぐ。",
+        "vi": "Số là nguồn lỗi lớn nhất của phiên dịch. Đọc tách + đọc lại số để tránh nhầm 99.5/99.95."
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "rule_id": "rule_36",
+  "rule_slug": "保留中の対応",
+  "title": {"ja": "保留中の対応", "vi": "Đừng để hold quá im — voice fill"},
+  "rule_context": {
+    "ja": "保留が30秒を超える場合、定期的に『お待たせしております』と一声入れて沈黙を回避する。",
+    "vi": "Khi hold quá 30 giây, định kỳ quay lại nói 「お待たせしております」 để tránh im lặng quá lâu."
+  },
+  "related_rules": ["rule_17", "rule_22"],
+  "conversations": [{
+    "section": "good_example", "label_ja": "良い例", "label_vi": "TỐT", "display_order": 1,
+    "analysis": {
+      "ja": "30秒ごとに保留を解除して声をかけることで、相手は『まだつながっている』と安心できる。",
+      "vi": "Mỗi 30 giây quay lại line một lần để đối phương yên tâm 'vẫn còn kết nối'."
+    },
+    "conversation_lines": [
+      {"line_id": "rule_36_good_01", "speaker": "zun", "speaker_role": "BD担当", "gender": "male", "sentence": "確認いたしますので、少々お待ちください。", "sentence_translation": "Em xin phép kiểm tra, anh giữ máy chút ạ.", "tone": "formal"},
+      {"line_id": "rule_36_good_02", "speaker": "zun", "speaker_role": "BD担当", "gender": "male", "sentence": "お待たせしております。あと少々お時間をいただきます。", "sentence_translation": "Xin lỗi đã để anh đợi ạ. Em xin thêm chút thời gian nữa ạ.", "tone": "apologetic"},
+      {"line_id": "rule_36_good_03", "speaker": "zun", "speaker_role": "BD担当", "gender": "male", "sentence": "大変お待たせいたしました。確認できました。", "sentence_translation": "Rất xin lỗi đã để anh đợi ạ. Em đã kiểm tra xong rồi ạ.", "tone": "apologetic"}
+    ]
+  }],
+  "key_phrases": [{
+    "phrase_id": "rule_36_kp_01", "speaker": "zun",
+    "sentence": "お待たせしております。あと少々お時間をいただきます。",
+    "sentence_translation": "Xin lỗi đã để anh/chị đợi. Em xin thêm chút thời gian ạ.",
+    "purpose": "保留中の生存確認フレーズ", "slow_audio": true
+  }],
+  "bjt_practice": [{
+    "question_id": "rule_36_bjt_01", "level": "J4", "skill": "場面把握",
+    "question_ja": "保留が30秒を超える時の対応として正しいのは？",
+    "options": [
+      "そのまま沈黙",
+      "30秒ごとに『お待たせしております』と声かけ",
+      "電話を切る",
+      "音楽だけ流す"
+    ],
+    "correct": "B",
+    "explanation": {
+      "ja": "沈黙は不安の元。30秒ごとの生存確認が基本。",
+      "vi": "Im lặng gây lo lắng. 30 giây quay lại 1 lần là chuẩn."
+    }
+  }]
+}

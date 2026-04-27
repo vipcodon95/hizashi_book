@@ -1,0 +1,68 @@
+{
+  "_schema_version": "1.0",
+  "_skill": "study-course-questions-builder",
+  "_description": "MẪU VIẾT KANJI (kanji_kaki) — JLPT mojigoi mondai 2. Cho từ Hiragana, chọn Kanji đúng.",
+
+  "meta": {
+    "title": "Sample Kanji Kaki — N5 mojigoi mondai 2",
+    "title_vn": "Mẫu Viết Kanji",
+    "module_code": "<module_code>",
+    "total_questions": 2,
+    "focus": "Kanji kaki N5",
+    "description_vn": "Viết Kanji — chọn Kanji đúng cho từ Hiragana được gạch chân."
+  },
+
+  "questions": [
+    {
+      "id": "q_kaki_001",
+      "question_type": "kanji_kaki",
+      "selection_type": "single",
+      "skill_category": "mojigoi",
+      "level": "N5",
+      "question_type_num": 2,
+      "sentence": "わたしは__がっこう__へいきます。",
+      "sentence_translation": "Tôi đi __trường học__.",
+      "question_jp": "「がっこう」のかんじとして、ただしいものをえらんでください。",
+      "question_vn": "Chọn Kanji đúng cho 「がっこう」.",
+      "choices": [
+        {"id": "1", "text": "学校", "is_correct": true, "order": 0},
+        {"id": "2", "text": "字校", "is_correct": false, "order": 1},
+        {"id": "3", "text": "学交", "is_correct": false, "order": 2},
+        {"id": "4", "text": "字交", "is_correct": false, "order": 3}
+      ],
+      "explanation": "学 (học) + 校 (trường) = 学校 (trường học)."
+    },
+    {
+      "id": "q_kaki_002",
+      "question_type": "kanji_kaki",
+      "selection_type": "single",
+      "skill_category": "mojigoi",
+      "level": "N5",
+      "question_type_num": 2,
+      "sentence": "__みず__をのみます。",
+      "sentence_translation": "Uống __nước__.",
+      "question_jp": "「みず」のかんじとして、ただしいものをえらんでください。",
+      "question_vn": "Chọn Kanji đúng cho 「みず」.",
+      "choices": [
+        {"id": "1", "text": "水", "is_correct": true, "order": 0},
+        {"id": "2", "text": "永", "is_correct": false, "order": 1},
+        {"id": "3", "text": "氷", "is_correct": false, "order": 2},
+        {"id": "4", "text": "氺", "is_correct": false, "order": 3}
+      ],
+      "explanation": "水 = nước. 永 = vĩnh viễn, 氷 = băng."
+    }
+  ],
+
+  "question_sets": [
+    {
+      "set_id": "set_kaki_n5_mondai2",
+      "set_type": "practice",
+      "name": "N5 Kanji Kaki — Mondai 2",
+      "description": "Viết Kanji N5 — 2 câu mẫu",
+      "card_count": 2,
+      "module_position": 2,
+      "reading_passage_ref": null,
+      "question_ids": ["q_kaki_001", "q_kaki_002"]
+    }
+  ]
+}

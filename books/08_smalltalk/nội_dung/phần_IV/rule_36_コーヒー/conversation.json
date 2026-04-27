@@ -1,0 +1,313 @@
+{
+  "rule_id": "08-36",
+  "rule_slug": "コーヒー",
+  "title": {
+    "vi": "Cà phê Việt",
+    "ja": "ベトナムコーヒー"
+  },
+  "rule_context": {
+    "luan_diem_vi": "JP quen Arabica drip. Bạn kể VN = #2 thế giới, robusta-dominant, phin filter chậm 4 phút, cà phê sữa đá đậm gấp đôi, cà phê trứng HN.",
+    "luan_diem_ja": "日本人はアラビカドリップに慣れている。VN= 世界2位、ロブスタ主流、フィン4分、ベトナム式昭和コーヒー、ハノイ卵コーヒーの話で深まる。",
+    "boi_canh_vi": "Tháng 5/2026, café Tokyo sau họp. Yamamoto (Osaka, food blogger) hỏi 'chỗ nào uống cà phê VN ở Tokyo?'. Tanaka (specialty fan) đào sâu robusta.",
+    "boi_canh_ja": "2026年5月、東京カフェで会議後。山本(食ブロガー)が東京のVNコーヒー店を尋ね、田中(specialty好き)がロブスタ深掘り。",
+    "muc_tieu_vi": "Học cách kể cà phê VN có depth + phá định kiến robusta + gợi ý chỗ uống ở Tokyo."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "11",
+      "topic": "Topic ăn — món địa phương"
+    },
+    {
+      "book": "08",
+      "rule": "34",
+      "topic": "Phở"
+    },
+    {
+      "book": "08",
+      "rule": "38",
+      "topic": "Thành phố VN"
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "Robusta vs Arabica + #2 thế giới",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "ズンさん、ベトナムってコーヒー大国なんだよね。Arabica?",
+          "vi": "Dũng, VN là cường quốc cà phê nhỉ. Arabica à?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "実はロブスタが90%以上なんです。世界2位の生産量で、ロブスタ単独で見るとぶっちぎりの世界1位。",
+          "vi": "Thực ra robusta chiếm 90%+ ạ. Sản lượng thế giới đứng thứ 2, riêng robusta thì áp đảo số 1."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "えー、ロブスタ?それってインスタント用じゃ…",
+          "vi": "Ơ, robusta? Loại đó dùng cho cà phê hòa tan mà..."
+        },
+        {
+          "speaker": "zun",
+          "ja": "日本ではそのイメージありますよね。でも標高1000m以上の中部高原(ダラット周辺)で育てたロブスタは香りが全然違って、カカオやナッツの香りが強く、エスプレッソの土台に使われます。Lavazzaも実はベトナム産が多いです。",
+          "vi": "Ở Nhật image đó còn mạnh. Nhưng robusta trồng cao nguyên 1000m+ (quanh Đà Lạt) hương khác hẳn, mạnh mùi cacao và hạt, làm base espresso. Lavazza cũng dùng nhiều cà phê VN."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "へえ…じゃあ、Specialtyのロブスタもあるんだ。",
+          "vi": "Hử... vậy có cả robusta specialty à."
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、最近はFine Robustaってカテゴリが立って、評価が変わりつつあります。Arabicaも北部のソンラ省、ディエンビエン省でちゃんと作ってます。",
+          "vi": "Vâng, gần đây có category 'Fine Robusta', đánh giá đang thay đổi. Arabica thì miền Bắc — Sơn La, Điện Biên cũng trồng."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "面白い、それは飲み比べたい。",
+          "vi": "Hay, tôi muốn uống thử so sánh."
+        }
+      ]
+    },
+    {
+      "scenario": "Phin filter + ritual",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "ベトナムのコーヒー店、お洒落な所多いって聞くけど、淹れ方ってどんな?",
+          "vi": "Quán cà phê VN nghe nói nhiều chỗ đẹp, cách pha sao?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "フィン(Phin)って小さなアルミの金属ドリッパーを使います。カップに直接乗せて、お湯を注いで4-5分待つ。",
+          "vi": "Dùng 'phin' — phin nhôm nhỏ. Đặt thẳng lên ly, đổ nước nóng và đợi 4-5 phút ạ."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "えっ、4分?ドリップの倍やん。",
+          "vi": "Ơ 4 phút? Gấp đôi drip à."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ポタッ…ポタッって一滴ずつ落ちる感じです。待つこと自体が儀式で、地元の人は新聞読みながら待ちます。日本の急須でお茶を入れる時間感覚に近いかも。",
+          "vi": "Tí... tách... rơi từng giọt. Việc chờ là một nghi thức. Người địa phương vừa đọc báo vừa chờ. Giống cảm giác pha trà bằng kyusu của Nhật."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "ええなあ、スローでいい。日本でも飲める?",
+          "vi": "Hay nhỉ, slow. Ở Nhật uống được không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "Tokyoだと清澄白河の『フィンコーヒー』が本格派です。あと渋谷の『ベトちゃん』は人気店で、店員さんもベトナム人で本物の雰囲気。",
+          "vi": "Tokyo thì 'Phin Coffee' Kiyosumi-Shirakawa là chuẩn. Còn 'Bétchan' ở Shibuya rất đông, nhân viên người VN, không khí thật."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "メモった!週末行ってみる。",
+          "vi": "Em ghi rồi! Cuối tuần đi thử."
+        }
+      ]
+    },
+    {
+      "scenario": "Cà phê sữa đá — ベトナム式昭和コーヒー",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "現地で一番ポピュラーなのって?",
+          "vi": "Bên đó loại phổ biến nhất là gì?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "カフェスアダー(cà phê sữa đá) — 練乳ブラックコーヒーアイス、です。一杯のコーヒー量は日本の半分ですが、濃さは日本のエスプレッソ並みで、練乳でバランス取ります。",
+          "vi": "'Cà phê sữa đá' — cà phê đen + sữa đặc + đá ạ. Lượng bằng nửa cốc Nhật nhưng đậm như espresso, sữa đặc cân lại."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "練乳!?濃そう…",
+          "vi": "Sữa đặc?! Có vẻ đậm..."
+        },
+        {
+          "speaker": "zun",
+          "ja": "最初は『甘っ』って思いますが、東南アジアの暑さに合うんですよね。汗だくの後の一杯は中毒性あります。",
+          "vi": "Ban đầu thấy ngọt nhưng hợp khí hậu nóng Đông Nam Á. Một ly sau khi mồ hôi đầm đìa là gây nghiện ạ."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "日本の喫茶店のミルク・砂糖たっぷり昭和コーヒーに近い?",
+          "vi": "Gần với cà phê Showa retro Nhật nhiều sữa đường?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ニュアンス近いです!ただ練乳の質感が違って、コクが濃い。ホーチミンのTrung Nguyên Legendで本格的に飲めます。あとTokyoではコンドミニアムカフェ系で再現してる店も増えてきました。",
+          "vi": "Cảm giác gần! Nhưng kết cấu sữa đặc khác, đậm hơn. HCM thì Trung Nguyên Legend là chuẩn. Tokyo gần đây nhiều quán condo café tái hiện."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "『ベトナム式昭和』ね、その表現メモる(笑)",
+          "vi": "'Showa kiểu VN' nhỉ, em ghi cụm đó (cười)"
+        }
+      ]
+    },
+    {
+      "scenario": "Cà phê trứng Hà Nội",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "ハノイ限定のコーヒーって何?",
+          "vi": "Cà phê đặc sản Hà Nội là gì?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "カフェチュン(cà phê trứng — 卵コーヒー)です。生の卵黄+砂糖を泡立てて、ロブスタコーヒーの上に乗せる。ティラミスを飲んでるような味です。",
+          "vi": "Cà phê trứng ạ. Lòng đỏ trứng + đường đánh bông, đặt lên cà phê robusta. Vị như đang uống tiramisu."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "卵?コーヒーに?それ大丈夫?",
+          "vi": "Trứng? Trong cà phê? An toàn không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "最初みんな同じ反応します(笑)。1940年代、戦後ハノイで牛乳が手に入らなくて、代わりに卵黄を使ったのが起源と言われてます。",
+          "vi": "Ai cũng phản ứng vậy (cười). Có giả thuyết nguồn gốc 1940, hậu chiến Hà Nội thiếu sữa nên dùng lòng đỏ trứng thay."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "歴史あるんだ…で、味は?",
+          "vi": "Có lịch sử à... vị sao?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ふんわりカスタード+苦味のコーヒーでデザート感覚。ハノイ旧市街のCafé Giảngが発祥の地で、創業者の息子さんが今も店番してます。",
+          "vi": "Custard mềm + cà phê đắng, cảm giác như tráng miệng. Café Giảng phố cổ Hà Nội là nơi sáng tạo, con trai người sáng lập giờ vẫn trông quán."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "Café Giảng ね、絶対行く。寒い日の方が美味しそう。",
+          "vi": "Café Giảng — chắc chắn đi. Ngày lạnh chắc ngon hơn."
+        },
+        {
+          "speaker": "zun",
+          "ja": "まさに冬限定の楽しみで、ハノイの12-2月は朝5度くらいまで下がるので温かい卵コーヒーが体に染みます。",
+          "vi": "Đúng vậy, là thú vui mùa đông. HN tháng 12-2 sáng xuống 5 độ, ly trứng nóng thấm vào người ạ."
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "#2 thế giới",
+      "ja": "ロブスタ単独で見るとぶっちぎりの世界1位です。",
+      "vi": "Robusta riêng thì áp đảo số 1 thế giới.",
+      "use": "Phá định kiến"
+    },
+    {
+      "category": "Robusta",
+      "ja": "標高1000m以上のロブスタは香りが全然違います。",
+      "vi": "Robusta cao nguyên 1000m+ hương khác hẳn.",
+      "use": "Add layer"
+    },
+    {
+      "category": "Robusta",
+      "ja": "Fine Robustaってカテゴリが立って、評価が変わりつつあります。",
+      "vi": "Có 'Fine Robusta' category, đánh giá đang thay đổi.",
+      "use": "Cho specialty fan JP"
+    },
+    {
+      "category": "Phin",
+      "ja": "フィンっていう金属ドリッパーで、4-5分待ちます。",
+      "vi": "'Phin' — phin nhôm, chờ 4-5 phút.",
+      "use": "Mở topic ritual"
+    },
+    {
+      "category": "Phin",
+      "ja": "急須でお茶を入れる時間感覚に近いです。",
+      "vi": "Giống cảm giác pha trà kyusu.",
+      "use": "Bridge với JP"
+    },
+    {
+      "category": "CPSĐ",
+      "ja": "日本のエスプレッソ並みに濃くて、練乳でバランス取ります。",
+      "vi": "Đậm như espresso, sữa đặc cân lại.",
+      "use": "Mô tả vị"
+    },
+    {
+      "category": "CPSĐ",
+      "ja": "『ベトナム式昭和コーヒー』みたいな感じです。",
+      "vi": "Như 'Showa coffee kiểu VN'.",
+      "use": "Bridge meme-able"
+    },
+    {
+      "category": "Trứng",
+      "ja": "ティラミスを飲んでるような味です。",
+      "vi": "Vị như đang uống tiramisu.",
+      "use": "Mô tả gây 'wow'"
+    },
+    {
+      "category": "Trứng",
+      "ja": "1940年代、牛乳がなくて卵黄を代わりに使ったのが起源です。",
+      "vi": "Giả thuyết nguồn gốc 1940 thiếu sữa nên dùng trứng.",
+      "use": "Story layer"
+    },
+    {
+      "category": "Trứng",
+      "ja": "ハノイ旧市街のCafé Giảngが発祥の地です。",
+      "vi": "Café Giảng phố cổ HN là nơi sáng tạo.",
+      "use": "Gợi ý cụ thể"
+    },
+    {
+      "category": "Tokyo",
+      "ja": "清澄白河のフィンコーヒー、渋谷のベトちゃんが人気です。",
+      "vi": "Phin Coffee Kiyosumi-Shirakawa, Bétchan Shibuya là hot.",
+      "use": "Gợi ý cụ thể Tokyo"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "「ベトナムコーヒーってArabica?」と聞かれた時、最も適切な返答は?",
+      "options": [
+        "A. 「はい、Arabicaです」と短く答える",
+        "B. 「実はロブスタが90%以上で、ロブスタ単独では世界1位です」と事実+ポジティブな捉え方を伝える",
+        "C. 「ロブスタはインスタント用です」と否定的に答える",
+        "D. 「日本のコーヒーの方が美味しい」と話題を逸らす"
+      ],
+      "answer": "B",
+      "explain_vi": "Phá định kiến robusta = industrial bằng fact #1 world + Fine Robusta. A sai (chủ yếu robusta); C củng cố định kiến; D né topic + so sánh negative."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "フィンコーヒーの『4-5分待つ』ことを日本人に説明する時、最も響く比喩は?",
+      "options": [
+        "A. 「インスタントよりも遅い」",
+        "B. 「ハンドドリップより倍時間がかかる」",
+        "C. 「急須でお茶を入れる時間感覚に近い」",
+        "D. 「待ち時間が長くて不便」"
+      ],
+      "answer": "C",
+      "explain_vi": "Bridge với 急須茶 ritual JP đã có → slow culture. A/B chỉ so sánh máy móc; D negative."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "「卵コーヒー大丈夫?」と心配されたら、最も適切な対応は?",
+      "options": [
+        "A. 「全然大丈夫です」と一言で済ます",
+        "B. 「最初みんな同じ反応します」と笑いで安心させ、1940年代の歴史と発祥の店を紹介",
+        "C. 「日本では理解できないかも」と引く",
+        "D. 「衛生は気にしないで」と切る"
+      ],
+      "answer": "B",
+      "explain_vi": "Bắt sắc thái lo (大丈夫?) → reassure bằng tone hài + history + creator家族 → khách JP yên tâm + thấy có depth."
+    }
+  ],
+  "templates": []
+}

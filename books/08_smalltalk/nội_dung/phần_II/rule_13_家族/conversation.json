@@ -1,0 +1,155 @@
+{
+  "rule_id": "rule_13",
+  "rule_slug": "家族話の境界",
+  "title": {
+    "vi": "Gia đình — depth/limit",
+    "ja": "家族話の境界"
+  },
+  "rule_context": {
+    "ja": "家族トピックは関係性depthが必要。ズンはMatsumoto(関係1年・親しい)、Yamamoto(ペット話)、Hiroshi(家族にreserved)、Tanaka(まだ浅い)で、それぞれ異なる距離感を体現する。",
+    "vi": "Family topic cần depth quan hệ. Dũng trải qua 4 scene: Matsumoto thân→react khi khoe, Yamamoto→pet, Hiroshi reserved→biết lùi, Tanaka mới quen→KHÔNG được mở."
+  },
+  "related_rules": ["rule_03", "rule_08", "rule_17"],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "Senior自慢 — 子の合格",
+      "label_vi": "Senior khoe con đậu đại học",
+      "display_order": 1,
+      "context": {
+        "ja": "Matsumoto PMが娘の早稲田合格を自分から話題に出す。1年以上の関係性あり。",
+        "vi": "Matsumoto chủ động khoe con gái đậu Waseda. Quan hệ ≥1 năm."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_13_good_01", "speaker": "matsumoto", "speaker_role": "PM 白鷗", "gender": "male", "sentence": "ズンさん、見て。実は娘が今年、早稲田に合格してね。", "sentence_translation": "Dũng, xem này. Thật ra con gái anh năm nay đậu Waseda.", "tone": "warm"},
+        {"line_id": "rule_13_good_02", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "えっ、本当ですか!おめでとうございます!早稲田って…難関ですよね。", "sentence_translation": "Ơ, thật ạ! Chúc mừng anh! Waseda là... khó vào lắm đúng không ạ.", "tone": "cheerful"},
+        {"line_id": "rule_13_good_03", "speaker": "matsumoto", "speaker_role": "PM 白鷗", "gender": "male", "sentence": "本人が頑張ったよ。塾にも通って…国際教養学部に行くって。英語で授業らしい。", "sentence_translation": "Cháu nó cố gắng đó. Cũng đi học thêm... Sẽ vào khoa Quốc tế. Nghe nói giảng bằng tiếng Anh.", "tone": "warm"},
+        {"line_id": "rule_13_good_04", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "国際教養!すごいですね。将来、海外も視野に入れてるんですか?", "sentence_translation": "Quốc tế! Tuyệt quá. Tương lai cháu có nghĩ ra nước ngoài không ạ?", "tone": "warm"},
+        {"line_id": "rule_13_good_05", "speaker": "matsumoto", "speaker_role": "PM 白鷗", "gender": "male", "sentence": "本人は留学したいって。親としては、ちょっと寂しいけど(笑)", "sentence_translation": "Cháu nó muốn du học. Làm bố mẹ thì hơi buồn (cười).", "tone": "warm"},
+        {"line_id": "rule_13_good_06", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "お父様の気持ち、分かります。でも娘さん、立派ですね。お祝い何かされましたか?", "sentence_translation": "Em hiểu cảm xúc của anh. Nhưng cháu thật giỏi. Anh có tổ chức mừng gì không ạ?", "tone": "warm"},
+        {"line_id": "rule_13_good_07", "speaker": "matsumoto", "speaker_role": "PM 白鷗", "gender": "male", "sentence": "家族で寿司食べに行っただけ。本人は来週、友達と旅行に行くって。", "sentence_translation": "Chỉ đi ăn sushi cả nhà thôi. Cháu tuần sau đi chơi với bạn.", "tone": "warm"},
+        {"line_id": "rule_13_good_08", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "青春ですね(笑)。本当におめでとうございます。", "sentence_translation": "Tuổi trẻ thật (cười). Chúc mừng anh nhiều ạ.", "tone": "cheerful"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "ペットtopic — 一番安全",
+      "label_vi": "Pet — topic an toàn nhất",
+      "display_order": 2,
+      "context": {
+        "ja": "Zoom会議中、Yamamotoの猫が画面に映る。",
+        "vi": "Đang Zoom, mèo của Yamamoto hiện lên màn hình."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_13_good_09", "speaker": "yamamoto_kansai", "speaker_role": "大阪BDマネージャー 白鷗", "gender": "female", "sentence": "あ、すみません、うちの猫が…", "sentence_translation": "À xin lỗi, con mèo nhà em...", "tone": "warm"},
+        {"line_id": "rule_13_good_10", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "わ、可愛い!茶トラですか?お名前は?", "sentence_translation": "Ơ, đáng yêu quá! Mèo cam vằn ạ? Tên gì ạ?", "tone": "cheerful"},
+        {"line_id": "rule_13_good_11", "speaker": "yamamoto_kansai", "speaker_role": "大阪BDマネージャー 白鷗", "gender": "female", "sentence": "『たま』ってベタな名前(笑)。保護猫で、3年前から。", "sentence_translation": "Tên 'Tama' kinh điển luôn (cười). Mèo cứu hộ, 3 năm trước nhận về.", "tone": "cheerful"},
+        {"line_id": "rule_13_good_12", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "保護猫!保護猫カフェから?最近、保護活動増えてますよね。", "sentence_translation": "Mèo cứu hộ! Từ quán cà phê cứu hộ ạ? Gần đây hoạt động cứu hộ nhiều nhỉ.", "tone": "warm"},
+        {"line_id": "rule_13_good_13", "speaker": "yamamoto_kansai", "speaker_role": "大阪BDマネージャー 白鷗", "gender": "female", "sentence": "そうそう、大阪にもねこの間っていうカフェがあって、そこから。ズンさんはペット飼ってる?", "sentence_translation": "Đúng đúng, Osaka có quán Neko-no-Ma, em nhận từ đó. Dũng có nuôi pet không?", "tone": "warm"},
+        {"line_id": "rule_13_good_14", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "ハノイで実家に犬1匹、ラブラドールがいます。出張で会えなくて寂しいです。", "sentence_translation": "Ở Hà Nội nhà em có 1 chú chó Labrador. Đi công tác không gặp được, em nhớ.", "tone": "warm"},
+        {"line_id": "rule_13_good_15", "speaker": "yamamoto_kansai", "speaker_role": "大阪BDマネージャー 白鷗", "gender": "female", "sentence": "ラブラドール!大型犬は癒されるよね。今度写真見せて。", "sentence_translation": "Labrador! Chó to chữa lành đó. Lần sau cho xem ảnh nhé.", "tone": "cheerful"},
+        {"line_id": "rule_13_good_16", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "ぜひ!たまちゃんの写真ももっと見たいです。", "sentence_translation": "Vâng ạ! Em cũng muốn xem thêm ảnh bé Tama.", "tone": "cheerful"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "Reservedな反応 — lùi đúng lúc",
+      "label_vi": "Khách reserved — biết lùi",
+      "display_order": 3,
+      "context": {
+        "ja": "Hiroshi部長が家族の話に短く返す。ズンは深掘りせず、別の安全topicに。",
+        "vi": "Hiroshi reply ngắn về gia đình. Dũng catch tín hiệu, đổi sang sport family."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_13_good_17", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "広島部長、ご家族は広島にいらっしゃるんですか?", "sentence_translation": "Anh Hiroshi, gia đình anh ở Hiroshima ạ?", "tone": "warm"},
+        {"line_id": "rule_13_good_18", "speaker": "hiroshi_chugoku", "speaker_role": "関西支店長 白鷗", "gender": "male", "sentence": "ええ、妻と子ども2人。今は単身赴任なんで。", "sentence_translation": "Vâng, vợ với 2 con. Anh giờ công tác xa nhà.", "tone": "neutral"},
+        {"line_id": "rule_13_good_19", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "お子様、何歳ですか?", "sentence_translation": "Các cháu mấy tuổi ạ?", "tone": "warm"},
+        {"line_id": "rule_13_good_20", "speaker": "hiroshi_chugoku", "speaker_role": "関西支店長 白鷗", "gender": "male", "sentence": "上が高校、下が中学です。", "sentence_translation": "Đứa lớn cấp 3, đứa nhỏ cấp 2.", "tone": "neutral"},
+        {"line_id": "rule_13_good_21", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "学生のお子さん、お忙しいですね。広島では家族でカープ観戦よく行かれてました?", "sentence_translation": "Các cháu học sinh bận nhỉ. Ở Hiroshima nhà mình hay đi xem Carp không ạ?", "tone": "warm"},
+        {"line_id": "rule_13_good_22", "speaker": "hiroshi_chugoku", "speaker_role": "関西支店長 白鷗", "gender": "male", "sentence": "あ、よく行ったね。マツダスタジアムは家族の思い出いっぱい。", "sentence_translation": "À, hay đi đó. Sân Mazda đầy kỷ niệm gia đình.", "tone": "warm"}
+      ]
+    },
+    {
+      "section": "bad_example",
+      "label_ja": "新しい関係で家族深掘り — NG",
+      "label_vi": "Mới quen mà đào sâu gia đình",
+      "display_order": 4,
+      "context": {
+        "ja": "Tanakaとはまだ2-3回しか会っていない。家族topicは時期尚早。",
+        "vi": "Mới gặp Tanaka 2-3 lần. Family topic chưa đến lúc."
+      },
+      "analysis": {
+        "ja": "①関係性が浅い、②奥様の年齢は禁忌、③子どもの予定はfertility issueに触れる可能性。3重NG。",
+        "vi": "① Quan hệ chưa đủ thân, ② tuổi vợ là tabu, ③ kế hoạch sinh con có thể chạm chuyện fertility. NG ba lần."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_13_bad_01", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "田中さん、奥様おいくつですか?", "sentence_translation": "[NG] Anh Tanaka, vợ anh bao tuổi ạ?", "tone": "casual"},
+        {"line_id": "rule_13_bad_02", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "あ、まあ…年下なんで…", "sentence_translation": "À, à... vợ anh trẻ hơn...", "tone": "uncertain"},
+        {"line_id": "rule_13_bad_03", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "お子様の予定とかは?", "sentence_translation": "[NG] Anh có kế hoạch sinh con không ạ?", "tone": "casual"},
+        {"line_id": "rule_13_bad_04", "speaker": "tanaka_pmo", "speaker_role": "PMO 白鷗", "gender": "male", "sentence": "あ、ちょっと電話、すみません。", "sentence_translation": "À, em xin lỗi, có điện thoại.", "tone": "uncertain"}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"phrase_id": "rule_13_kp_01", "speaker": "zun", "sentence": "おめでとうございます!", "sentence_translation": "Chúc mừng anh!", "purpose": "React khi khách khoe con/cưới"},
+    {"phrase_id": "rule_13_kp_02", "speaker": "zun", "sentence": "素晴らしいですね、ご家族のサポートあってこそ。", "sentence_translation": "Tuyệt quá, nhờ cả gia đình hỗ trợ.", "purpose": "Khen kèm credit cho khách"},
+    {"phrase_id": "rule_13_kp_03", "speaker": "zun", "sentence": "ペットは飼っていらっしゃいますか?", "sentence_translation": "Anh/chị có nuôi pet không ạ?", "purpose": "Mở pet — luôn an toàn"},
+    {"phrase_id": "rule_13_kp_04", "speaker": "zun", "sentence": "お写真、見せていただけますか?", "sentence_translation": "Anh cho em xem ảnh được không ạ?", "purpose": "Bonding qua ảnh pet/con"},
+    {"phrase_id": "rule_13_kp_05", "speaker": "zun", "sentence": "ご家族はよく一緒にお出かけされますか?", "sentence_translation": "Cả nhà có hay đi chơi cùng nhau không ạ?", "purpose": "Mở family nhẹ — sau khi đã thân"},
+    {"phrase_id": "rule_13_kp_06", "speaker": "zun", "sentence": "家族のことは、また機会があれば。", "sentence_translation": "Chuyện gia đình em xin để dịp khác.", "purpose": "Soft block khi mình chưa muốn kể"}
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_13_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "まだ2-3回しか会っていないお客様に対して、最も適切でない質問は?",
+      "options": [
+        "A. ペットを飼っていますか?",
+        "B. 出身地はどちらですか?",
+        "C. 奥様はおいくつですか?",
+        "D. 趣味は何ですか?"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "奥様の年齢は親密度関係なく禁忌。Cが最も不適切。",
+        "vi": "Tuổi vợ = tabu bất kể độ thân. C là sai nhất."
+      }
+    },
+    {
+      "question_id": "rule_13_bjt_02",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "お客様が家族の質問に「ええ」「そうですね」と短く返す場合の意図は?",
+      "options": [
+        "A. 関心がない",
+        "B. もっと聞いて欲しい",
+        "C. 家族のことは深く話したくない",
+        "D. 質問を理解していない"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "短い相づち=やんわり拒否。深掘りせず別topicへ移る。",
+        "vi": "Reply ngắn = lùi nhẹ. Không đào sâu, chuyển topic khác."
+      }
+    },
+    {
+      "question_id": "rule_13_bjt_03",
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "お客様が「実は娘が早稲田に合格してね」と自分から話を出した場合の最適な反応は?",
+      "options": [
+        "A. 「学費高いんでしょうね」",
+        "B. 「おめでとうございます!」と祝いの気持ちを示す",
+        "C. 「うちの子も…」と自分の子の話に変える",
+        "D. 「成績どれくらいでしたか?」と詳細を聞く"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "自慢に対しては素直に祝う。学費・成績は禁忌、自分の話に変えるのも失礼。",
+        "vi": "Khoe = chúc mừng chân thành. Hỏi học phí/điểm = tabu. Chuyển sang con mình = bất lịch sự."
+      }
+    }
+  ],
+  "templates": []
+}

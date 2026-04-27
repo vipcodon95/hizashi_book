@@ -1,0 +1,91 @@
+# Rule 28 — Khi mình là người được tham vấn / 相談を受ける側
+
+> **Luận điểm.** Khi junior tham vấn, **đừng đáp án ngay**. Pattern coaching đúng: **(1) Lặp lại tóm tắt vấn đề (active listening), (2) Hỏi 仮説 của junior trước, (3) Bồi axis junior chưa nghĩ tới, (4) Để junior tự kết luận, (5) Confirm decision + ghi DR**. Trả lời thẳng = junior không học, lần sau lại tham vấn cùng vấn đề.
+>
+> 相談を受ける時：①要約復唱→②相談者の仮説確認→③欠けている観点を1つ追加→④決定は相談者に下させる→⑤DR化。即答はコーチング失敗。
+>
+> **Liên quan:** rule 25 (判断材料), rule 27 (DR), rule 34 (新人指導).
+
+---
+
+## Bối cảnh / 場面
+
+Em Linh tham vấn anh Dũng về việc chọn template email cho khách Nhật. Lần đầu Dũng trả lời thẳng → Linh ra về không học gì. Lần 2 Dũng dùng coaching pattern.
+
+---
+
+## ❌ Hội thoại XẤU — trả lời thẳng
+
+*không nghĩ · 2週間後 — Linh tham vấn cùng pattern lần nữa · 自覚*
+
+| Speaker | Câu |
+|---------|-----|
+| **リン** | 「ズンさん、Phase 2 の挨拶メール、テンプレ A と B どっちがいいですか?」 |
+| **ズン** | 「B にして。」 |
+| **リン** | 「分かりました!」 |
+|  | 「Phase 3 の挨拶メールも、A と B どっちですか?」 |
+| **ズン** | 「あ、僕がただ答えるだけだと、Linh が判断軸を学べないんだ。次から coaching mode で受けないと…」 |
+
+**Vì sao xấu:** L2 trả lời 1 từ → Linh không hiểu **tại sao** B. L4 lần sau lại tham vấn cùng kiểu = không grow. Coaching = teach how to fish, không phải give fish.
+
+---
+
+## ✅ Hội thoại TỐT — coaching pattern 5 step
+
+| Speaker | Câu |
+|---------|-----|
+| **リン** | 「ズンさん、Phase 2 の挨拶メール、テンプレ A と B どっちがいいですか?」 |
+| **ズン** | 「**①要約: AとBで迷っているということだね**【1】。**②リン自身の仮説**は?どっちに寄ってる、その理由は?」 |
+| **リン** | 「えっと、A はフォーマル度が高くて、B は親しみやすい感じです…松本様は5回目の取引なので…B 寄りかな…」 |
+| **ズン** | 「**③観点を追加すると、『Phase 2 はキックオフ局面』**で、新規スコープへの真剣さも示したい。その軸を入れると?」 |
+| **リン** | 「あ、なるほど…キックオフだとフォーマルさも残したい…**A をベースに、最後の1段落だけ親しみやすい表現に変える**のがいいかも【2】。」 |
+| **ズン** | 「**④良い結論。それで進めて**【3】。**⑤Decision Register に1行残しておいて**: 論点・検討案・採用・理由・観点【4】。来週レビューするね。」 |
+| **リン** | 「ありがとうございます!次回からこの観点で自分で判断できそうです!」 |
+
+📝 **Ghi chú:**
+- 【1】**「①要約復唱」** — active listening. Show "anh đang lắng nghe" + bắt buộc Linh confirm.
+- 【2】**「Aをベースに最後だけB」** — Linh tự nghĩ ra solution. Đây mới là điểm grow.
+- 【3】**「それで進めて」** — Dũng confirm nhưng không "thay quyết". Decision do Linh take.
+- 【4】**「DRに1行」** — đóng bằng learning artifact. Lần sau Linh có thể tham chiếu.
+
+---
+
+## 🧰 Coaching pattern 5 bước
+
+```
+① 要約復唱       — "AとBで迷っているということだね"
+② 仮説確認        — "リンの仮説は?どっち寄り、その理由は?"
+③ 観点追加       — "もう1つの軸を入れると?"
+④ 結論を相手に    — "それで進めて" (相手が結論を言う)
+⑤ DR化           — Decision Register に1行
+```
+
+---
+
+## 🎯 Câu chốt
+
+> **「相談を受ける = 答えを返す、ではない。質問で観点を補強し、相手に結論を出させる。」**
+
+---
+
+## ⚠ Tránh
+
+- 即答 1 từ kiểu 「Bにして」 — junior không học axis.
+- Đảo lại quá phũ kiểu 「自分で考えて」 → junior shut down + lần sau không tham vấn.
+- Cầm tay ép kiểu 「これしかない」 — không cho junior cơ hội nghĩ.
+- Bỏ ⑤ DR化 → tri thức bay theo gió, lần sau lại tham vấn lại cùng pattern.
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 受ける側 | うけるがわ | Bên nhận (tham vấn) |
+| 要約 | ようやく | Tóm tắt |
+| 復唱 | ふくしょう | Lặp lại |
+| 仮説 | かせつ | Giả thuyết |
+| 観点 | かんてん | Góc nhìn / axis |
+| 即答 | そくとう | Trả lời ngay |
+| コーチング | coaching | Coaching |
+| キックオフ | kickoff | Khởi động |

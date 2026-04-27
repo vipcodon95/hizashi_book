@@ -1,0 +1,90 @@
+# Rule 18 — Check-in tại lễ tân / 受付対応
+
+> **Luận điểm.** Tại lễ tân khách Nhật, tự xưng **đầy đủ 4 yếu tố**: (1) Tên cty mình (2) Họ tên đầy đủ (3) Tên 担当者 muốn gặp (4) Lý do hẹn (giờ + topic). Bow nhẹ 15° khi nói. KHÔNG hỏi "phòng số mấy" — lễ tân sẽ guide. KHÔNG đi tìm thang máy tự ý — đợi lễ tân chỉ + sign pass.
+>
+> 受付では『社名+氏名+担当者+用件(時刻+目的)』の4要素自己申告。15度お辞儀。エレベーター場所は受付指示待ち。
+>
+> **Liên quan:** rule 16 (準備), rule 17 (5分前), rule 19 (コート), rule 21 (入室).
+
+---
+
+## Bối cảnh / 場面
+
+9:54 sáng, Dũng + Tuấn bước vào lobby 白鷗 trụ sở Shinjuku. Lễ tân (女性) tại quầy. Cần check-in + nhận pass + được hướng dẫn.
+
+---
+
+## ❌ Hội thoại XẤU — thiếu mục + tự ý
+
+*đến quầy, nói tiếng Anh · không hiểu rõ Tanaka nào — 白鷗 có 5 Tanaka · thấy thang máy, đi luôn · vội*
+
+| Speaker | Câu |
+|---------|-----|
+| **トゥアン** | 「Hi, we're here for a meeting with Tanaka-san.」 |
+| **受付** | 「Tanaka...どちらの田中でしょうか？」 |
+| **ズン** | 「えっと、PMO の田中さんです。多分 Phase 3 関連…」 |
+| **受付** | 「御社名と御芳名を伺ってもよろしいでしょうか？」 |
+| **ズン** | 「あ、ティエンファットの…ズンとトゥアンです。」 |
+| **トゥアン** | 「あ、エレベーター見えた、行こう。」 |
+| **受付** | 「あの、入館証がまだ…」 |
+
+**Vì sao xấu:** (1) Tiếng Anh tại lễ tân JP corporate = không formal. (2) "Tanaka-san" mà không nói chức/phòng = lễ tân phải hỏi lại. (3) Thông tin nhỏ giọt từng câu = mất 2 phút thay vì 30 giây. (4) Tự ý đi thang máy chưa nhận pass = security vi phạm.
+
+---
+
+## ✅ Hội thoại TỐT — 4 yếu tố trong 1 câu
+
+*đến quầy, bow 15° · check sổ · ký pass, đeo lên ngực · bow 15°*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「**おはようございます**【1】。」 |
+| **受付** | 「いらっしゃいませ。」 |
+| **ズン** | 「**ティエンファットのズンとトゥアンと申します**【2】。**本日10時より、PMO部の田中様とお打ち合わせのお約束**【3】**にてお伺いしました**。」 |
+| **受付** | 「お待ちしておりました。**入館証**【4】**をお渡しいたします。お名前のサインをお願いいたします**。」 |
+| **ズン + トゥアン** | 「失礼いたします。」 |
+| **受付** | 「会議室は8階の803号室でございます。**エレベーターは右奥、左側を3号機**【5】**でお上がりください**。田中はすでにお待ちしております。」 |
+| **ズン** | 「ありがとうございます。」 |
+
+📝 **Ghi chú:**
+- 【1】**「おはようございます」** — câu chào lễ tân JP, KHÔNG「Hi」/「Hello」. Sau 11h chuyển sang「こんにちは」.
+- 【2】**社名+氏名先** — bắt đầu với "ティエンファットの…" để lễ tân biết bạn là ai.
+- 【3】**4 yếu tố trong 1 câu**: 時刻 (10時より) + 部署役職 (PMO部の田中様) + 用件 (お打ち合わせのお約束). Lễ tân không phải hỏi lại.
+- 【4】**入館証 sign + đeo** — KHÔNG để trong túi. Đeo lên ngực. Trả lại lúc về (rule 22).
+- 【5】**Đợi guide thang máy** — lễ tân chỉ rõ "3号機 left side". Tokyo big buildings có nhiều thang máy theo tầng — đi nhầm = bị block.
+
+---
+
+## 🎯 Câu chốt
+
+> **「受付は『社名+氏名+担当者+用件』の4要素を1文で・15度お辞儀・入館証着用・エレベーター指示待ち。」**
+>
+> *Lễ tân = 4 yếu tố trong 1 câu / bow 15° / đeo pass / đợi chỉ thang máy.*
+
+---
+
+## ⚠ Tránh
+
+- **Tiếng Anh** với lễ tân JP corporate → tiếng Nhật formal
+- "**Tanaka-san**" mà không có 部署 → "PMO 部の田中様"
+- **Thông tin nhỏ giọt** từng câu → 1 câu chứa 4 yếu tố
+- **Tự ý đi thang máy** chưa nhận pass → đợi guide
+- **Pass trong túi** → đeo lên ngực
+- **Quên bow** lúc chào lễ tân → bow 15° đầu + cuối
+- Lễ tân hỏi "**御芳名**" mà bí → 御芳名 = "tên quý khách". Trả lời họ tên đầy đủ.
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 受付 | うけつけ | Lễ tân |
+| 入館証 | にゅうかんしょう | Thẻ vào (pass) |
+| 御芳名 | ごほうめい | Tên quý khách (kính ngữ) |
+| 用件 | ようけん | Lý do / việc |
+| お伺い | おうかがい | Đến thăm (kính ngữ) |
+| お約束 | おやくそく | Hẹn (kính ngữ) |
+| サイン | sain | Ký |
+| ご担当 | ごたんとう | Phụ trách (kính ngữ) |
+| お打ち合わせ | おうちあわせ | Buổi họp (kính ngữ) |

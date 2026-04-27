@@ -1,0 +1,268 @@
+{
+  "rule_id": "rule_35",
+  "rule_slug": "振り返り",
+  "title": {
+    "ja": "振り返り",
+    "vi": "Self-review ceremony etiquette"
+  },
+  "rule_context": {
+    "ja": "東京 onsite + final ceremony 終了後、HCMC 帰着翌日金曜午後。フオン副部長がズン+トゥアン+ハイ+リンを集めて 5項目振り返り (良かった点・課題・次回改善・新発見・記録) を実施する場面。",
+    "vi": "Sau onsite Tokyo + final ceremony, về HCMC chiều thứ 6 hôm sau. Chị Hương phó phòng tập hợp Dũng + Tuấn + Hải + Linh, làm self-review 5 mục (điểm tốt, vấn đề, cải thiện lần sau, phát hiện mới, lưu hồ sơ)."
+  },
+  "related_rules": [
+    "rule_07",
+    "rule_30"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 振り返り skipping + 反省抽象",
+      "label_vi": "XẤU — bỏ qua self-review + phản tỉnh chung chung",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①振り返り無し=同じミス次回も発生 ②『次は気をつけます』=action 不明 ③個別ミス log 化なし=team learning ゼロ。",
+        "vi": "(1) Không self-review = lần sau lại sai y chang. (2) 'Lần sau em cẩn thận hơn' = không có action cụ thể. (3) Không log lại từng lỗi = team không học được gì."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_35_bad_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "Tokyo onsite どうだった？",
+          "sentence_translation": "Onsite Tokyo thế nào?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_35_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "全体的にOK でした。次は気をつけます。",
+          "sentence_translation": "Tổng thể OK ạ. Lần sau em cẩn thận hơn.",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_35_bad_03",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "それじゃ振り返りにならない。具体的に良かった3点・課題3点・改善 action 3点・新発見・記録、5項目で文章化して。",
+          "sentence_translation": "Vậy không gọi là self-review được. Phải cụ thể: 3 điểm tốt, 3 vấn đề, 3 action cải thiện, phát hiện mới, lưu hồ sơ — viết thành văn theo 5 mục.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 5項目で具体化 + action 化",
+      "label_vi": "TỐT — cụ thể hóa 5 mục + biến thành action",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_35_good_02",
+          "highlight_text": "良かった3点",
+          "ja": "成功要因の specific 化=他案件で再利用可能。『seat指定+pour zone+flow table』のように再現可能 pattern で書く。",
+          "vi": "Cụ thể hóa thành công = tái sử dụng cho dự án khác. Viết kiểu 'chỉ định ghế + zone rót + flow table' = pattern tái lặp được."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_35_good_04",
+          "highlight_text": "課題3点 (固有名詞+原因+影響)",
+          "ja": "『誰が何をして何の結果』のformat。後で見ても再現可能。『リンが90°お辞儀してCFOが恐縮』のように具体的。",
+          "vi": "Format 'ai làm gì → kết quả gì'. Sau đọc lại vẫn hình dung được. Cụ thể như 'Linh bow 90° làm CFO ngại'."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_35_good_06",
+          "highlight_text": "改善action 3点 (担当者+期限)",
+          "ja": "『〇〇さんが〇月〇日まで〇〇する』。担当者+期限なしの『改善』は実行されない。",
+          "vi": "'Anh OO sẽ làm OO trước OO/OO'. Không có chủ + deadline thì 'cải thiện' không bao giờ thành hiện thực."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_35_good_08",
+          "highlight_text": "新発見の言語パターン",
+          "ja": "Tokyoで初聴 phrases (例:『お通りすぎいたしましょう』『お言葉に甘えさせていただきます』)。次回 onsite用 vocabulary に追加。",
+          "vi": "Cụm lần đầu nghe ở Tokyo (vd: 'お通りすぎいたしましょう', 'お言葉に甘えさせていただきます'). Thêm vào vocabulary cho onsite lần sau."
+        },
+        {
+          "id": "5",
+          "applies_to_line": "rule_35_good_10",
+          "highlight_text": "Notion+CRM 両方記録",
+          "ja": "Notion=team learning DB. CRM=会社別履歴. 両方更新で次回担当者が再活用できる。",
+          "vi": "Notion = DB học chung của team. CRM = lịch sử theo cty. Cập nhật cả 2 = lần sau ai phụ trách cũng dùng lại được."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_35_good_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "皆様、Tokyo onsite + final ceremony おつかれさまでした。5項目で振り返りしましょう。まず良かった3点。",
+          "sentence_translation": "Cả nhóm onsite Tokyo + ceremony vất vả nhé. Mình self-review theo 5 mục. Đầu tiên 3 điểm tốt.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_35_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "①ceremony 11人 seat指定+zone別pour+flow table が機能、空glass 0件 ②お土産順序 (CFO→部長→PM→PMO) で中村CFOから個別感謝のメール ③お礼メール翌朝送信で全員から24h以内返信。",
+          "sentence_translation": "(1) Ceremony 11 người chỉ định ghế + zone rót + flow table hoạt động tốt, không có ly cạn. (2) Trao omiyage theo thứ tự (CFO → trưởng → PM → PMO) → CFO Nakamura mail cảm ơn riêng. (3) Mail cảm ơn gửi sáng hôm sau → tất cả reply trong 24h.",
+          "tone": "formal",
+          "speed_multiplier": 0.92,
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_35_good_03",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "課題3点は？",
+          "sentence_translation": "3 vấn đề thì sao?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_35_good_04",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "①リンがD1朝CFO初対面で90°bow→中村CFO『そんなに深く…』と恐縮。45°が正解 ②ハイが居酒屋で自分でpour→松本PM違和感 ③D2 14時の道中Suica残高不足で改札停止30秒。",
+          "sentence_translation": "(1) Sáng D1 Linh gặp CFO lần đầu bow 90° → CFO Nakamura ngại 'sâu vậy...'. Đúng phải 45°. (2) Hải tự rót ở izakaya → PM Matsumoto bối rối. (3) D2 14h trên đường Suica thiếu số dư, bị chặn cổng 30 giây.",
+          "tone": "formal",
+          "speed_multiplier": 0.92,
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_35_good_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "改善 action は？",
+          "sentence_translation": "Action cải thiện?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_35_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "①リン担当でbow角度 visual guide 作成、来週金曜まで ②ハイ担当で『相互pour』練習 video 共有、来週水曜まで ③Suicaは出発前残高 5,000円 minimum 規則化、checklistへ追加 (今日中)。",
+          "sentence_translation": "(1) Linh phụ trách làm visual guide bow angle, trước thứ 6 tuần sau. (2) Hải phụ trách share video luyện 'rót lẫn nhau', trước thứ 4 tuần sau. (3) Suica luật mới: số dư trước khi đi tối thiểu 5,000 yên, thêm vào checklist (trong hôm nay).",
+          "tone": "formal",
+          "speed_multiplier": 0.92,
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_35_good_07",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "新発見は？",
+          "sentence_translation": "Phát hiện mới?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_35_good_08",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "新phrase: 田中PMOの『お通りすぎいたしましょう』(隣室回避) と『お言葉に甘えさせていただきます』(招待受領)、社内 vocabulary に追加します。",
+          "sentence_translation": "Cụm mới: 'お通りすぎいたしましょう' của Tanaka PMO (đi qua phòng kế) và 'お言葉に甘えさせていただきます' (nhận lời mời). Em thêm vào vocabulary nội bộ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "4"
+          ]
+        },
+        {
+          "line_id": "rule_35_good_09",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "記録は？",
+          "sentence_translation": "Lưu hồ sơ?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_35_good_10",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Notion『 onsite playbook v2』+ CRM 白鷗社tab『2026-04 Tokyo onsite log』両方更新。次回担当者が同じ過ちをしないよう。",
+          "sentence_translation": "Update cả Notion 'onsite playbook v2' + CRM tab 白鷗 'log onsite Tokyo 2026-04'. Để lần sau ai phụ trách không lặp lỗi.",
+          "tone": "formal",
+          "annotation_ids": [
+            "5"
+          ]
+        },
+        {
+          "line_id": "rule_35_good_11",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "完璧。これがHizashi式振り返り。今後も毎 onsite/接待後にこの5項目で。",
+          "sentence_translation": "Hoàn hảo. Đây là self-review kiểu Hizashi. Sau này sau mỗi onsite / tiếp khách đều làm 5 mục này.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_35_kp_01",
+      "speaker": "fuon",
+      "sentence": "5項目で振り返りましょう: 良かった点・課題・改善action・新発見・記録。",
+      "sentence_translation": "Mình self-review theo 5 mục: điểm tốt, vấn đề, action cải thiện, phát hiện mới, lưu hồ sơ.",
+      "purpose": "5項目振り返りの宣言",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_35_kp_02",
+      "speaker": "zun",
+      "sentence": "Notion + CRM 両方更新で次回担当者が同じ過ちをしないように。",
+      "sentence_translation": "Update cả Notion + CRM để lần sau ai phụ trách không lặp lỗi.",
+      "purpose": "team learning 記録 signal",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_35_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "onsite/接待後の振り返りで最も効果的な方法は？",
+      "options": [
+        "『次は気をつけます』で終了",
+        "良かった点だけ記録",
+        "良かった点・課題・改善action(担当+期限)・新発見・記録の5項目を文章化、Notion+CRM両方更新",
+        "口頭で共有して終わり"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "5項目構造化 + 担当者&期限付きaction + 2系統記録 が再現可能な team learning。",
+        "vi": "5 mục cấu trúc + action có chủ + deadline + lưu 2 nơi = team learning tái sử dụng được."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_35_tpl_01",
+      "format": "checklist",
+      "title_ja": "Hizashi 式 5項目振り返りテンプレート",
+      "title_vi": "Template Self-Review 5 Mục Kiểu Hizashi",
+      "content_ja": "【Hizashi式 振り返り — 5項目】\nイベント: ___\n日付: ___\n参加者: ___\n記入者: ___\n\n■ 1. 良かった点 (3つ、再現可能 pattern で)\n① ___\n② ___\n③ ___\n\n■ 2. 課題 (3つ、固有名詞+原因+影響 format)\n① 誰が・何を・結果: ___\n② 誰が・何を・結果: ___\n③ 誰が・何を・結果: ___\n\n■ 3. 改善 action (3つ、担当者+期限必須)\n① 担当: ___ / 期限: ___ / 内容: ___\n② 担当: ___ / 期限: ___ / 内容: ___\n③ 担当: ___ / 期限: ___ / 内容: ___\n\n■ 4. 新発見 (言語/作法/文化)\n- 新phrase: ___\n- 新作法: ___\n- 新規顧客 trait: ___\n\n■ 5. 記録 (2系統update)\n□ Notion『〇〇 playbook』ページ更新\n□ CRM 顧客tab『〇年〇月 〇〇 log』追加\n□ team Slack #learning へ要約share\n□ 関係者へthank you マッセージ送信\n\n■ 期限\n- 振り返り会: イベント終了後 1営業日以内\n- 文章化: 3営業日以内\n- 改善action 完了: 各 action 期限通り\n\n■ 次回チェックポイント\n本振り返りを次回同種イベント前日に再読し、課題・改善 action が解消されたか確認。",
+      "content_vi": "[Template Self-Review Hizashi — 5 mục]\nSự kiện: ___\nNgày: ___\nNgười tham gia: ___\nNgười điền: ___\n\n[1] Điểm tốt (3 cái, viết kiểu pattern tái lặp được)\n(1) ___\n(2) ___\n(3) ___\n\n[2] Vấn đề (3 cái, format 'ai + làm gì + kết quả')\n(1) Ai / việc gì / kết quả: ___\n(2) Ai / việc gì / kết quả: ___\n(3) Ai / việc gì / kết quả: ___\n\n[3] Action cải thiện (3 cái, bắt buộc chủ + deadline)\n(1) Chủ: ___ / Deadline: ___ / Nội dung: ___\n(2) Chủ: ___ / Deadline: ___ / Nội dung: ___\n(3) Chủ: ___ / Deadline: ___ / Nội dung: ___\n\n[4] Phát hiện mới (ngôn ngữ / nghi thức / văn hóa)\n- Phrase mới: ___\n- Nghi thức mới: ___\n- Trait khách mới: ___\n\n[5] Lưu hồ sơ (cập nhật 2 nơi)\n[ ] Notion 'OO playbook' update\n[ ] CRM tab khách 'log OO/OO của OO' thêm vào\n[ ] Share tóm tắt qua Slack #learning\n[ ] Gửi thank-you message cho người liên quan\n\n[Deadline]\n- Họp self-review: trong 1 ngày làm việc sau event\n- Viết thành văn: trong 3 ngày làm việc\n- Action cải thiện: theo deadline từng action\n\n[Checkpoint lần sau]\nTrước event cùng loại lần sau, đọc lại self-review này, kiểm tra vấn đề + action đã giải quyết chưa.",
+      "notes_ja": "5項目を毎 onsite/接待/重要会議 後に必ず実行。担当者+期限なしの『改善』は実行されない。Notion+CRM 両方記録で team learning 蓄積。",
+      "notes_vi": "5 mục bắt buộc làm sau mỗi onsite / tiếp khách / họp quan trọng. 'Cải thiện' không có chủ + deadline = không bao giờ làm. Lưu Notion + CRM để team tích lũy kinh nghiệm."
+    }
+  ]
+}

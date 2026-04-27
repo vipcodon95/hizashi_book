@@ -1,0 +1,715 @@
+{
+  "meta": {
+    "title": "2.1.0 Mogishiken — Kính Ngữ (Keigo) Reading",
+    "title_vn": "2.1.0 Mô Phỏng Đề Thi BJT Đọc Hiểu: Kính Ngữ Tổng Quan",
+    "type": "mogishiken_dokkai",
+    "description_vn": "Mô phỏng đề thi BJT phần đọc hiểu (Part 3②③) — chủ đề kính ngữ Teineigo/Sonkeigo/Kenjougo. 5 sections, mỗi section 1 loại văn bản kinh doanh KHÁC NHAU + 4 câu hỏi đọc hiểu theo format BJT chính thức.",
+    "total_sections": 5,
+    "total_questions": 20,
+    "format_note": "Format Part 3②③ BJT: đọc văn bản → trả lời câu hỏi. Câu hỏi kiểm tra hiểu biết về kính ngữ và nội dung văn bản.",
+    "created_date": "2026-04-13",
+    "version": "2.0"
+  },
+  "sections": [
+    {
+      "section_id": 1,
+      "level": 1,
+      "level_name": "初級 / Cơ bản",
+      "document_type": "ビジネスメール",
+      "situation_vn": "Tình huống: Nhân viên viết email cho đồng nghiệp để yêu cầu thông tin. Email ngắn gọn, sử dụng Teineigo cơ bản.",
+      "passage_ja": "件名：来週の会議について\n\n田中さんへ\n\nいつもお疲れ様です。\n来週の月曜日に営業会議があります。開始時間は午前10時です。準備物として、最新の販売データが必要になります。\nお手数ですが、データを送っていただけませんか？ご不明な点がありましたら、いつでもお気軽にお尋ねください。\n\nよろしくお願いいたします。\n鈴木",
+      "word_count": 87,
+      "difficulty_note": "Email ngắn, sử dụng です/ます và お/ご prefix cơ bản (お疲れ様, お手数, ご不明). Từ vựng thông dụng.",
+      "questions": [
+        {
+          "id": "1-1",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "このメールの目的は何ですか？",
+          "question_vn": "Mục đích của email này là gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "来週の会議が中止することを知らせる",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "会議の準備物として販売データを送ってもらう",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "田中さんの連絡先を確認する",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "営業会議の参加者を増やす",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "Email rõ ràng yêu cầu (「データを送っていただけませんか？」) gửi dữ liệu bán hàng cho cuộc họp. Các lựa chọn khác không liên quan đến nội dung email."
+        },
+        {
+          "id": "1-2",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "「お手数ですが」はどんな場面で使いますか？",
+          "question_vn": "「お手数ですが」được dùng trong tình huống nào?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "相手に何か迷惑をかけるときに、丁寧に依頼する場面",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "相手が忙しいときに、無視する場面",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "相手を褒める場面",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "相手に厳しく命令する場面",
+              "vn": null
+            }
+          ],
+          "answer": "A",
+          "explanation": "「お手数ですが」là biểu hiện lịch sự dùng khi yêu cầu ai đó làm điều gì đó mà biết sẽ gây phiền toái. Nó thể hiện sự tôn trọng và nhận thức về việc gây rắc rối cho người kia."
+        },
+        {
+          "id": "1-3",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "会議の開始時間は何時ですか？",
+          "question_vn": "Giờ bắt đầu cuộc họp là mấy giờ?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "午後10時",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "午前9時",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "午前10時",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "午後2時",
+              "vn": null
+            }
+          ],
+          "answer": "C",
+          "explanation": "Văn bản nói rõ: 「開始時間は午前10時です」. Đáp án C là chính xác."
+        },
+        {
+          "id": "1-4",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "「ご不明な点がありましたら、いつでもお気軽にお尋ねください」のお気軽に（きがるに）とはどういう意味ですか？",
+          "question_vn": "「お気軽に」có ý nghĩa gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "厳しく、重くお願いする",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "気分が悪いときだけ連絡する",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "気を楽にして、遠慮なく連絡する",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "秘密にして、誰にも言わない",
+              "vn": null
+            }
+          ],
+          "answer": "C",
+          "explanation": "「お気軽に」là biểu hiện lịch sự có nghĩa là \"hãy tự tại, không cần e ngại\" khi liên hệ. Nó thể hiện thái độ mở cửa, sẵn sàng giúp đỡ."
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "level": 2,
+      "level_name": "中級基礎 / Trung bình cơ bản",
+      "document_type": "電話応対スクリプト",
+      "situation_vn": "Tình huống: Cuộc gọi điện thoại giữa nhân viên (A) và khách hàng (B). Nhân viên dùng Sonkeigo khi nói với khách, Kenjougo khi nói về công ty mình.",
+      "passage_ja": "A（営業担当）：「いつもご利用ありがとうございます。本日はどのようなご用件でしょうか？」\n\nB（顧客）：「商品の納期について確認したいのですが」\n\nA：「かしこまりました。確認させていただきます。申し訳ございませんが、注文番号をお伺いしてもよろしいでしょうか？」\n\nB：「注文番号は、ABC-2024-001です」\n\nA：「ありがとうございます。少々お待ちください。...確認いたしました。ご注文いただきました商品は、来週の木曜日にお届け予定でございます。」\n\nB：「わかりました。よろしくお願いします」",
+      "word_count": 148,
+      "difficulty_note": "Hội thoại điện thoại thực tế với Sonkeigo (いただきました, お届け) và Kenjougo (確認いたしました, 申し訳ございません). Cấu trúc tuy phức tạp hơn nhưng vẫn theo format điều hành tiêu chuẩn.",
+      "questions": [
+        {
+          "id": "2-1",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "Aさんが「申し訳ございませんが」と言ったのは、どうしてですか？",
+          "question_vn": "Tại sao nhân viên A nói \"申し訳ございません\"?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "顧客の注文番号が間違っている",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "顧客に質問をするときに、迷惑をかけるかもしれないという丁寧な表現",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "商品が壊れている",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "顧客の電話番号を知らない",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "「申し訳ございません」là biểu hiện xin lỗi trước khi yêu cầu khách cung cấp thông tin (注文番号). Đây là cách lịch sự để cho khách biết rằng yêu cầu này có thể gây phiền toái."
+        },
+        {
+          "id": "2-2",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "「お伺いしてもよろしいでしょうか」は何という敬語ですか？",
+          "question_vn": "\"お伺いしてもよろしいでしょうか\" là cách dùng kính ngữ gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "謙譲語（自社の行動を低める）",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "尊敬語（相手を尊敬する）",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "丁寧語（敬語ではない）",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "敬語ではなく、普通語",
+              "vn": null
+            }
+          ],
+          "answer": "A",
+          "explanation": "\"お伺いする\" là Kenjougo (khiêm nhường ngữ) - một hình thức của \"聞く\" (hỏi). Nhân viên dùng Kenjougo để hạ thấp hành động của mình (yêu cầu thông tin) để tôn trọng khách hàng."
+        },
+        {
+          "id": "2-3",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "商品はいつお届けしますか？",
+          "question_vn": "Sản phẩm sẽ được giao khi nào?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "来週の月曜日",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "来週の木曜日",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "今週の金曜日",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "来週の金曜日",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "Nhân viên A nói: 「来週の木曜日にお届け予定でございます」. Câu trả lời chính xác là B - Thứ Năm tuần tới."
+        },
+        {
+          "id": "2-4",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "「ご注文いただきました商品」の「いただきました」はどの敬語ですか？",
+          "question_vn": "\"いただきました\" trong \"ご注文いただきました商品\" là loại kính ngữ gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "尊敬語",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "謙譲語（「～てもらう」の謙譲語表現）",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "丁寧語",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "普通語",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "\"いただきました\" là Kenjougo - là hình thức khiêm nhường của \"もらう\" (nhận). Khi nói \"ご注文いただきました\", nhân viên thể hiện tôn trọng khách hàng bằng cách nói khách đã \"ban cho\" công ty hàng đơn hàng."
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "level": 3,
+      "level_name": "中級上級 / Trung bình cao",
+      "document_type": "社内通知・お知らせ",
+      "situation_vn": "Tình huống: Công ty gửi thông báo nội bộ trang trọng cho tất cả nhân viên về thay đổi chính sách. Sử dụng kết hợp đủ 3 loại kính ngữ.",
+      "passage_ja": "【重要なお知らせ】\n\nいつも弊社の発展にご尽力いただきありがとうございます。\n\nこの度、人事部一同より、今年度の勤務体制の改善につきまして、お知らせさせていただきます。\n\n本年4月より、以下の制度が導入されることになりました。第一に、フレックスタイム制を導入いたします。これにより、従業員の皆様がご自身のペースで業務を進めることが可能になります。第二に、リモートワークの対象者を拡大いたしますので、申請がございましたら、人事部までご連絡ください。\n\nご不明な点やご質問がおありでしたら、人事部までお気軽にお問い合わせいただきますよう、お願い申し上げます。本改革により、全社一丸となって、さらなる発展を遂行いたします。\n\n何卒、ご理解・ご協力のほど、よろしくお願いいたします。",
+      "word_count": 203,
+      "difficulty_note": "Thông báo nội bộ trang trọng với Teineigo (です/ます), Sonkeigo (ご尽力, ご不明, お気軽に), Kenjougo (いたします, 申し上げます, 遂行いたします). Mix đủ 3 loại. Có cấu trúc trang trọng như 何卒, ご理解・ご協力のほど.",
+      "questions": [
+        {
+          "id": "3-1",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "このお知らせの主な内容は何ですか？",
+          "question_vn": "Nội dung chính của thông báo này là gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "社員の給料を下げることについて",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "今年度の勤務体制の改善について",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "会社の経営難について",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "新しい社屋への引っ越しについて",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "Văn bản rõ ràng nói: 「今年度の勤務体制の改善につきまして、お知らせさせていただきます」. Đó là nội dung chính - thay đổi chính sách làm việc."
+        },
+        {
+          "id": "3-2",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "「ご尽力いただき」の「ご尽力」はどのような敬語ですか？",
+          "question_vn": "\"ご尽力\" là loại kính ngữ gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "謙譲語（自分の行動を低める）",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "尊敬語（相手の行動を敬う）",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "丁寧語",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "敬語ではない",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "\"ご尽力\" là Sonkeigo (tôn kính ngữ) - \"ご/お\" prefix + danh từ để tôn trọng hành động của đối phương. Đây là cách trang trọng để nói về nỗ lực/đóng góp của nhân viên."
+        },
+        {
+          "id": "3-3",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "導入される制度は何ですか？",
+          "question_vn": "Những chế độ nào được đưa vào áp dụng?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "給与システムと昇進制度",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "フレックスタイム制とリモートワークの拡大",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "退職システムと採用制度",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "教育訓練制度だけ",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "Văn bản nói: 「フレックスタイム制を導入いたします」và「リモートワークの対象者を拡大いたします」. Hai chế độ này được giới thiệu."
+        },
+        {
+          "id": "3-4",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "「何卒、ご理解・ご協力のほど、よろしくお願いいたします」の「何卒」はどのような表現ですか？",
+          "question_vn": "\"何卒\" là biểu hiện gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "非常に形式的で、高い敬意を込めた依頼表現",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "日常の会話で使う普通の表現",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "相手を批判する表現",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "喜びを表す表現",
+              "vn": null
+            }
+          ],
+          "answer": "A",
+          "explanation": "\"何卒（なにとぞ）\" là biểu hiện cổ điển, rất trang trọng và chính thức, thường dùng trong thư từ chính thức hay thông báo quan trọng. Nó thể hiện sự tôn kính cao độ đối với yêu cầu của mình."
+        }
+      ]
+    },
+    {
+      "section_id": 4,
+      "level": 4,
+      "level_name": "上級 / Nâng cao",
+      "document_type": "会議議事録",
+      "situation_vn": "Tình huống: Biên bản họp từ cuộc họp chiến lược công ty. Chứa lỗi kính ngữ ẩn và yêu cầu phân tích sâu sắc về việc sử dụng kính ngữ.",
+      "passage_ja": "【会議議事録】\n日時：2026年4月10日 14:00-15:30\n参加者：田中部長、佐藤課長、岡崎係長、林リーダー\n\n【議題】\n第二四半期の営業戦略について\n\n【主要な議論内容】\nまず、田中部長が市場分析の結果について説明いたしました。同部長は、現在の市場競争が激しくなっている状況をご指摘されました。これに対して、佐藤課長は新商品の開発を加速させることを提案されました。\n\n岡崎係長からは、人事面でのリソース不足について懸念が述べられました。同係長は「現在、営業チームのメンバーが不足しており、新しい戦略を実行することが難しい」とご発言されました。\n\n最後に、田中部長は以下の決定を申し上げられました。新商品開発チームを拡大し、5名の新メンバーを採用することになりました。\n\n【決定事項】\n・新商品開発チームを拡大\n・5名の追加採用を決定\n・次回会議は5月1日に開催予定",
+      "word_count": 256,
+      "difficulty_note": "Biên bản họp nâng cao với Sonkeigo (ご指摘されました, ご発言されました, 申し上げられました) dùng một cách không tự nhiên - lạm dụng \"～られました\" (bị động) cho các hành động chủ động của cấp trên. Tạo vẻ quá cứng nhắc. Điểm giáo dục: biết cách sử dụng kính ngữ đúng mức.",
+      "questions": [
+        {
+          "id": "4-1",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "この議事録の主な目的は何ですか？",
+          "question_vn": "Mục đích chính của biên bản họp này là gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "社員の個人的な意見を記録する",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "第二四半期の営業戦略についての会議内容と決定事項を記録する",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "社員を批判する",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "新商品の詳細なデザインを説明する",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "Biên bản họp ghi lại cuộc thảo luận về chiến lược bán hàng quý 2 và các quyết định đã đưa ra (mở rộng đội phát triển sản phẩm, tuyển 5 nhân viên mới)."
+        },
+        {
+          "id": "4-2",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "「同部長は、現在の市場競争が激しくなっている状況をご指摘されました」の敬語の使い方で、問題がありますか？",
+          "question_vn": "Cách dùng kính ngữ trong câu này có vấn đề không?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "いいえ、完全に正しい敬語です",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "はい。「ご指摘されました」は受動形を使いすぎて、不自然です。「ご指摘いただきました」か「指摘されました」の方がいい",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "文法的に完全に間違っている",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "敬語を全く使っていない",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "\"ご指摘されました\" kết hợp \"ご\" (Sonkeigo prefix) + \"指摘する\" (hành động chủ động) + \"られました\" (bị động). Cách này quá cứng nhắc. Tốt hơn dùng \"ご指摘いただきました\" (khách sáo chỉ ra) hoặc nếu là cấp trên, \"指摘されました\" (được chỉ ra) là tự nhiên hơn."
+        },
+        {
+          "id": "4-3",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "岡崎係長が指摘した主な問題は何ですか？",
+          "question_vn": "Vấn đề chính mà Okasaki chỉ ra là gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "市場競争が激しい",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "新商品の質が悪い",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "営業チームの人事面でのリソース不足",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "会社の経営難",
+              "vn": null
+            }
+          ],
+          "answer": "C",
+          "explanation": "Okasaki nói: \"現在、営業チームのメンバーが不足しており、新しい戦略を実行することが難しい\". Đó là vấn đề thiếu nhân sự."
+        },
+        {
+          "id": "4-4",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "「最後に、田中部長は以下の決定を申し上げられました」の敬語で、何が問題ですか？",
+          "question_vn": "Vấn đề kính ngữ trong câu này là gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "完全に正しい敬語である",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "「申し上げられました」は部長が自分の決定を述べる場面で、不自然に敬意が高すぎる。「申し上げました」の方が自然",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "敬語を全く使っていない",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "文法が間違っている",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "\"申し上げられました\" kết hợp \"申し上げます\" (Kenjougo - tôi nói humbly) + \"られました\" (bị động). Cách này tạo hiệu ứng quá khiêm nhường cho một cấp trên đang đưa ra quyết định của mình. \"申し上げました\" (tôi nói/quyết định) hoặc \"述べました\" (nói) sẽ tự nhiên hơn."
+        }
+      ]
+    },
+    {
+      "section_id": 5,
+      "level": 5,
+      "level_name": "最上級 / Cấp độ cao nhất",
+      "document_type": "申請書・依頼文書",
+      "situation_vn": "Tình huống: Tờ đơn xin phép chính thức từ nhân viên gửi công ty, yêu cầu được phép tham gia khóa đào tạo quốc tế. Sử dụng kính ngữ văn phong trang trọng nhất.",
+      "passage_ja": "申請書\n\n謹んでお申し上げます。\n\nこの度は、貴社の研修制度を活用させていただき、本年度の国際マネジメント研修への参加をお願い申し上げたくお手紙を差し上げた次第でございます。\n\n私は、現在営業部において責務を担当させていただいておりますが、グローバル化する市場環境において、さらなるスキルの向上が必須と考えております。当研修は、国際ビジネスの知見を深め、貴社への貢献をより一層高める機会になると存じます。\n\nつきましては、下記の要項についてご承認をいただき賜りますよう、伏してお願い申し上げます。\n\n【申請要項】\n・研修名：国際マネジメント研修\n・開催地：シンガポール\n・期間：2026年7月1日～8月31日\n・参加費：会社負担でお願い申し上げます\n\n何卒、本申請についてのご検討・ご了承のほど、心より切望いたしております。今後とも、弊社の発展と貴社の信頼に応えるべく、一層精進いたします。\n\n敬具\n\n営業部　太郎\n2026年4月13日",
+      "word_count": 268,
+      "difficulty_note": "Văn bản xin phép chính thức với kính ngữ cao cấp nhất: 謹んで, 伏して, 賜る, 存じます, 申し上げます, 何卒. Mix đủ loại kính ngữ. Cấu trúc câu trang trọng. Điểm học: phân biệt các mức độ của kính ngữ tùy theo mức độ trang trọng.",
+      "questions": [
+        {
+          "id": "5-1",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "この申請書の目的は何ですか？",
+          "question_vn": "Mục đích của tờ đơn này là gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "給料を上げるよう要求する",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "国際マネジメント研修への参加許可をお願いする",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "仕事を辞めることを通告する",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "新しい部門への転職を要求する",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "Văn bản rõ ràng xin phép tham gia khóa đào tạo quốc tế: 「国際マネジメント研修への参加をお願い申し上げたく」."
+        },
+        {
+          "id": "5-2",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "「謹んでお申し上げます」はどのような表現ですか？",
+          "question_vn": "\"謹んでお申し上げます\" là biểu hiện gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "日常会話で普通に使う表現",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "最も形式的で厳粛な導入表現。高い敬意を込めた正式な申し出の始まり",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "相手を批判する表現",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "喜びを表す表現",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "\"謹んで（つつしんで）\" là biểu hiện cổ điển, rất trang trọng và lễ phép, chỉ dùng trong các công văn chính thức, đơn xin phép quan trọng. Nó bộc lộ tính tôn trọng cao độ và sự trang trọng của yêu cầu."
+        },
+        {
+          "id": "5-3",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "申請者が研修に参加する理由は何ですか？",
+          "question_vn": "Lý do mà người xin tham gia khóa đào tạo là gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "会社を辞めたいから",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "グローバル化する市場環境で、スキルを向上させ、貴社への貢献をより高めるため",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "外国で休暇を取りたいから",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "給料を上げるため",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "Văn bản nói: 「グローバル化する市場環境において、さらなるスキルの向上が必須と考えております。当研修は、国際ビジネスの知見を深め、貴社への貢献をより一層高める機会」. Người xin muốn nâng cao kỹ năng và đóng góp cho công ty hơn."
+        },
+        {
+          "id": "5-4",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "「伏してお願い申し上げます」の「伏して」と「お願い申し上げます」の組み合わせはなぜ使われていますか？",
+          "question_vn": "Tại sao \"伏してお願い申し上げます\" được sử dụng?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "日常会話で普通に使う表現である",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "最も高い敬意と礼儀を込めた、正式で厳粛な要求表現。2つの古典的敬語を組み合わせることで、相手への最大限の敬意を示す",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "相手を批判する表現",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "申請者が怒っていることを示す",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "\"伏して（ふしして）\" (= đầu cúi) + \"お願い申し上げます\" (xin hành động lịch sự nhất) là kết hợp hai yếu tố cổ điển để tạo ra mức độ tôn trọng và sự lễ phép cao nhất. Chỉ dùng trong những yêu cầu rất quan trọng, chính thức, cần sự chấp thuận của cấp trên."
+        }
+      ]
+    }
+  ]
+}

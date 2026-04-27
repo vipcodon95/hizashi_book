@@ -1,0 +1,193 @@
+{
+  "rule_id": "rule_26",
+  "rule_slug": "複数案を持参",
+  "title": {
+    "ja": "複数案を持参（コスト・時間・リスク比較）",
+    "vi": "Mang sẵn nhiều phương án"
+  },
+  "rule_context": {
+    "ja": "ハイがトゥアンリーダーに API 遅延の対応案を相談する場面。1案だけ持参の悪い例から、3案 × コスト/時間/リスク比較表 + 推奨案明示の良い例へ。",
+    "vi": "Em Hải tham vấn anh Tuấn về xử lý bug performance API. Từ 1 option → 3 options matrix cost/time/risk + chỉ rõ recommend."
+  },
+  "related_rules": [
+    "rule_23",
+    "rule_25",
+    "rule_30"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 1案のみ",
+      "label_vi": "XẤU — Chỉ 1 phương án",
+      "display_order": 1,
+      "analysis": {
+        "ja": "1案のみは『判子押して』のサインで、真の相談ではない。代替案を検討した形跡がないと、判断の質を疑われる。",
+        "vi": "1 option = xin đóng dấu, không phải tham vấn thật. Không có dấu vết đã xét alternative = chất lượng phán đoán bị nghi ngờ."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_26_bad_01",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "トゥアンさん、API 遅延の件、Redis キャッシュ追加で解決したいんですが、いいですか?",
+          "sentence_translation": "Anh Tuấn, vụ API chậm, em muốn thêm Redis cache cho xong, được không ạ?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_26_bad_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "それしか考えてないの?他の選択肢は?",
+          "sentence_translation": "Em chỉ nghĩ tới cái đó thôi à? Các option khác đâu?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_26_bad_03",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "えっと、これが一番速いかと…",
+          "sentence_translation": "Ờ, em nghĩ cái này nhanh nhất...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_26_bad_04",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "Redis 追加はインフラコスト+運用コストが乗る。クエリ最適化やインデックス追加で済む可能性もある。最低3案持ってきて、コスト・時間・リスクを並べて比較。",
+          "sentence_translation": "Thêm Redis là tăng cost hạ tầng + cost vận hành. Có khi tối ưu query hoặc thêm index là xong. Mang tối thiểu 3 option đến, so sánh cost / time / risk đi.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 3案マトリクス + 推奨案",
+      "label_vi": "TỐT — 3 options matrix + recommend",
+      "display_order": 2,
+      "analysis": {
+        "ja": "3案を3軸（コスト・時間・リスク）で定量比較。推奨案 + 理由まで言語化されており、上司は分析を確認するだけで決断できる。",
+        "vi": "3 options × 3 trục định lượng. Có recommend + lý do, sếp chỉ cần verify analysis là quyết được."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_26_good_01",
+          "highlight_text": "3つ準備しました。コスト・時間・リスクで比較",
+          "ja": "切り出し1文で『3案+3軸』の構造を明示。聞き手は本格的な比較分析が始まると認識できる。",
+          "vi": "Câu mở show '3 options + 3 trục' rõ ngay. Người nghe nhận biết phân tích nghiêm túc."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_26_good_03",
+          "highlight_text": "コスト¥0、期間2日、リスク低",
+          "ja": "「ほぼ安い」「だいたい速い」ではなく、円・日・低中高で定量化。判断軸が一目で揃う。",
+          "vi": "Không 「ほぼ」「だいたい」 mà số yên / ngày / low-mid-high. Trục so sánh hiện ra ngay."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_26_good_04",
+          "highlight_text": "推奨は案B (インデックス追加)です。理由は…",
+          "ja": "推奨案を1つ明示 + 理由を1〜2行。これで「相談者の意見」と「上司の判断」が分離する。",
+          "vi": "Show 1 option recommend + lý do 1-2 dòng. Tách rõ 'ý kiến người tham vấn' và 'phán đoán của sếp'."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_26_good_01",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "トゥアンさん、API 遅延の対応案を3つ準備しました。コスト・時間・リスクで比較しております。",
+          "sentence_translation": "Anh Tuấn, em đã chuẩn bị 3 phương án xử lý API chậm. Em so sánh theo cost / time / risk ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_26_good_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "いいね、見ます。",
+          "sentence_translation": "OK, anh xem.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_26_good_03",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "案A: クエリ最適化 — コスト¥0、期間2日、リスク低(既存ロジックに影響少)。案B: インデックス追加 — コスト¥0、期間半日、リスク中(本番デプロイ時の lock 時間)。案C: Redis キャッシュ — コスト+¥3万/月、期間5日、リスク高(運用工数増 + キャッシュ不整合)。",
+          "sentence_translation": "[A] Tối ưu query: cost 0¥, 2 ngày, risk thấp (ít ảnh hưởng logic cũ). [B] Thêm index: cost 0¥, nửa ngày, risk trung (lock khi deploy production). [C] Redis cache: +30k¥/tháng, 5 ngày, risk cao (tăng cost vận hành + cache không nhất quán).",
+          "tone": "neutral",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_26_good_04",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "推奨は案B (インデックス追加)です。理由は半日で実装可能 + 既に index 候補が `EXPLAIN` で特定済み + コスト増なしのためです。リスク中はメンテナンスウィンドウで吸収可能と考えております。",
+          "sentence_translation": "Em recommend B (thêm index). Lý do: nửa ngày là xong + đã EXPLAIN ra ứng viên index + không tăng cost. Risk trung thì hấp thụ bằng maintenance window được ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_26_good_05",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "分析正しい。Bで進めて。ただ、メンテナンスウィンドウは松本様の許可が要るから、ズンに依頼してね。",
+          "sentence_translation": "Phân tích đúng. Đi với B đi. Nhưng maintenance window phải xin phép anh Matsumoto, em nhờ Dũng nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_26_kp_01",
+      "speaker": "hai",
+      "sentence": "対応案を〇つ準備しました。コスト・時間・リスクで比較しております。",
+      "sentence_translation": "Em đã chuẩn bị 〇 phương án. So sánh theo cost / time / risk ạ.",
+      "purpose": "複数案相談の切り出し",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_26_kp_02",
+      "speaker": "hai",
+      "sentence": "推奨は案〇です。理由は〇〇 + 〇〇 + 〇〇のためです。",
+      "sentence_translation": "Em recommend phương án 〇. Lý do: 〇〇 + 〇〇 + 〇〇.",
+      "purpose": "推奨案の明示",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_26_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "上司に対応策を相談する際、最も適切な準備は?",
+      "options": [
+        "1つの最善案を持参する",
+        "2〜3案をコスト・時間・リスクで定量比較し、推奨案を明示する",
+        "全ての案を網羅的に並べ、推奨は控える",
+        "上司の好みに合わせた案を1つ選ぶ"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "1案だけは『判子押して』のサインで真の相談ではない。2〜3案 × 3軸（コスト/時間/リスク）+ 推奨案明示が黄金パターン。",
+        "vi": "1 option = xin đóng dấu, không phải tham vấn thật. 2-3 options × 3 trục + show recommend là pattern chuẩn."
+      }
+    }
+  ]
+}

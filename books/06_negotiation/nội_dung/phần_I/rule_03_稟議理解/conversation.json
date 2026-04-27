@@ -1,0 +1,196 @@
+{
+  "rule_id": "rule_03",
+  "rule_slug": "稟議の理解",
+  "title": {
+    "ja": "稟議の理解",
+    "vi": "Hiểu phong cách quyết định ringi"
+  },
+  "rule_context": {
+    "ja": "Phase 3 提案後10日経過、Tuấn が即決を迫りたがるのを Hương が稟議メカニズムを説明して止める場面。",
+    "vi": "10 ngày sau pitch Phase 3, Tuấn muốn ép khách quyết ngay; chị Hương giải thích cơ chế ringi và can ngăn."
+  },
+  "related_rules": [
+    "rule_04",
+    "rule_13",
+    "rule_17"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 即決を迫る",
+      "label_vi": "XẤU — Ép khách quyết ngay",
+      "display_order": 1,
+      "analysis": {
+        "ja": "稟議が回る期間を理解せず deadline を切る。日本企業の意思決定構造に対するタブー。",
+        "vi": "Không hiểu thời lượng ringi, đặt deadline cho quy trình của khách — vi phạm cấu trúc quyết định của doanh nghiệp Nhật."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_03_bad_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "ズン、もう10日経ってる。今日大垣さんに『今週中にイエスかノーか決めてください』ってメール送ろうよ。",
+          "sentence_translation": "Dũng, 10 ngày rồi. Hôm nay gửi mail anh Ōgaki bảo 'tuần này quyết yes hay no' đi.",
+          "tone": "urgent"
+        },
+        {
+          "line_id": "rule_03_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "そうですね、待ってばかりだとうちが弱く見えるかも…",
+          "sentence_translation": "Vâng, cứ chờ thì bên em nhìn yếu thế anh nhỉ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_03_bad_03",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "待って。それ送ったら deal 死ぬ。10 日は稟議が回ってる normal な期間。「今週中に決めろ」は日本企業に対してタブー。逆に「稟議の進捗を伺ってもよろしいでしょうか」なら OK。",
+          "sentence_translation": "Khoan. Mail đó gửi đi là deal chết. 10 ngày là khoảng thời gian ringi bình thường. 'Tuần này quyết' với doanh nghiệp Nhật là điều cấm. Ngược lại 'cho phép em hỏi thăm tiến độ ringi' thì OK.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_03_bad_04",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "えっ、待つしかないんですか？",
+          "sentence_translation": "Ơ, vậy chỉ chờ thôi sao chị?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_03_bad_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "待つんじゃなくて、進捗を聞く + 追加情報を渡して稟議書を強くする手伝いをする。決めるのは相手の社内プロセス。",
+          "sentence_translation": "Không phải chờ — mà hỏi thăm tiến độ + đưa thêm thông tin để giúp ringi-sho mạnh lên. Người quyết là quy trình nội bộ phía họ.",
+          "tone": "warm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 根回し支援",
+      "label_vi": "TỐT — Support nemawashi",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_03_good_02",
+          "highlight_text": "稟議は通常 2-3 週間",
+          "ja": "金額が大きいほど長い。¥18M クラスなら 3-4 週も normal。1週で返答は逆に懸念サイン。",
+          "vi": "Hợp đồng càng lớn càng lâu. ¥18M có khi 3-4 tuần là bình thường. Trả lời trong 1 tuần ngược lại là sign 'không xét nghiêm túc'."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_03_good_02",
+          "highlight_text": "根回しフェーズ",
+          "ja": "稟議書が回る前に、社内 key person 一人ずつに非公式説明をするフェーズ。日本企業の真の決定はここ。",
+          "vi": "Trước khi ringi-sho chuyền tay, đi gặp riêng từng key person — quyết định thực sự diễn ra ở đây."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_03_good_03",
+          "highlight_text": "稟議書に添付できる材料を増やす",
+          "ja": "ROI 資料や FAQ を contact に渡す = nemawashi の弾薬を提供。直接決裁者に push しない。",
+          "vi": "Đưa ROI / FAQ cho contact = cung cấp 'đạn' cho nemawashi. KHÔNG ping trực tiếp người quyết định."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_03_good_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "ズン、10 日経つけど、もう少し待つ感じ？",
+          "sentence_translation": "Dũng, 10 ngày rồi, mình chờ thêm chút nữa hả?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_03_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "はい、稟議は通常 2-3 週間。先週松本 PM から「社内で議論中」とメッセージあったので、今は根回しフェーズと推定します。",
+          "sentence_translation": "Vâng, ringi thường 2-3 tuần ạ. Tuần trước anh Matsumoto PM có nhắn 'đang thảo luận nội bộ' nên hiện đoán là đang ở phase nemawashi ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_03_good_03",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "いいね。今やるべきは「追加 ROI 資料」と「FAQ 集」を作って松本さんに渡す。彼が稟議書に添付できる材料を増やす。",
+          "sentence_translation": "Tốt. Việc cần làm bây giờ là làm 'ROI bổ sung' và 'FAQ tổng hợp' đưa cho anh Matsumoto. Tăng material anh ấy có thể đính kèm ringi-sho.",
+          "tone": "warm",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_03_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "了解です。明日松本さんに「稟議のご検討にあたり、何か追加情報必要でしたらお声がけください」とメールします。催促ではなく support 姿勢で。",
+          "sentence_translation": "Em rõ ạ. Mai em mail anh Matsumoto 'xin liên hệ nếu cần bổ sung thông tin cho việc thảo luận ringi'. Tư thế support, không hối thúc ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_03_good_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "正解。決めるのは大垣さんでも松本さんでもなく、社内合意の総和。我々はそれを助ける。",
+          "sentence_translation": "Chuẩn. Người quyết không phải anh Ōgaki hay anh Matsumoto, mà là tổng đồng thuận nội bộ. Mình hỗ trợ chuyện đó.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_03_kp_01",
+      "speaker": "zun",
+      "sentence": "稟議のご検討にあたり、何か追加情報必要でしたらお声がけください。",
+      "sentence_translation": "Trong quá trình ringi, nếu cần bổ sung thông tin xin liên hệ em ạ.",
+      "purpose": "稟議サポートメールの定型",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_03_kp_02",
+      "speaker": "fuon",
+      "sentence": "決めるのは社内合意の総和。我々はそれを助ける。",
+      "sentence_translation": "Người quyết là tổng đồng thuận nội bộ. Mình chỉ hỗ trợ.",
+      "purpose": "稟議理解の原則",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_03_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "稟議が10日進行中の段階で、相手 PM に送るのに最も適切なメールは？",
+      "options": [
+        "「今週中にイエス・ノーをご回答ください」",
+        "「稟議の進捗、追加情報あればご遠慮なくお声がけください」",
+        "「ご返信ない場合は撤回いたします」",
+        "「他社からも引き合いがありますのでお急ぎください」"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "稟議中はサポート姿勢が正解。期限を切る・脅すのは日本企業との関係を破壊する。",
+        "vi": "Khi đang ringi, tư thế support là đúng. Đặt deadline / dọa = phá quan hệ với doanh nghiệp Nhật."
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+# Rule 20 — Đặt câu hỏi 5W1H / 質問の5W1H
+
+> **Luận điểm.** Câu hỏi vòng vo = lãng phí thời gian họp. Hỏi chuẩn business JP cần (1) **đóng khung 5W1H** rõ — who/what/when/where/why/how, (2) **1 câu hỏi 1 lần**, (3) **mở bằng** 「〜について確認させていただきたいのですが」 và **đóng bằng** 「〜でしょうか？」.
+>
+> 質問は5W1Hを絞り、1問1答が原則。「〜について確認させていただきたいのですが、〜でしょうか？」が標準形。
+>
+> **Liên quan:** Rule 19 (xin lượt), Rule 21 (clarification), Rule 28 (xin data).
+
+---
+
+## Bối cảnh / 場面
+
+Em Dũng đang nghe anh Ōgaki trình bày scope phase 2. Em muốn hỏi rõ deadline + người phụ trách phía 白鷗 nhưng đặt câu hỏi vòng vo.
+
+---
+
+## ❌ Hội thoại XẤU — câu hỏi vòng vo, gộp nhiều câu
+
+*hơi khó chịu*
+
+| Speaker | Câu |
+|---------|-----|
+| **大垣** | 「Phase 2では、新規モジュールを3つ追加予定です。」 |
+| **ズン** | 「あ、それで、いつとか誰がとか、あと何の機能で、どこにデプロイするかとか、色々お聞きしたいのですが…」 |
+| **大垣** | 「…一つずつお願いできますか？」 |
+
+**Vì sao xấu:** Hỏi 4 câu (when / who / what / where) trong 1 câu → đối phương không biết trả lời cái nào trước. 「色々」 mơ hồ → không pro.
+
+---
+
+## ✅ Hội thoại TỐT — đóng khung từng câu hỏi
+
+| Speaker | Câu |
+|---------|-----|
+| **大垣** | 「Phase 2では、新規モジュールを3つ追加予定です。」 |
+| **ズン** | 「ありがとうございます。3点、順番にお伺いしたく存じます【1】。まず、リリース予定日について確認させていただきたいのですが、いつ頃をお考えでしょうか【2】？」 |
+| **大垣** | 「7月末を目標にしています。」 |
+| **ズン** | 「承知しました。次に、白鷗様側の主担当はどなた様になりますでしょうか？」 |
+
+📝 **Ghi chú:**
+- 【1】**「3点、順番にお伺いしたく存じます」** — báo trước số câu hỏi để đối phương quản lý nhịp + biết là không lan man.
+- 【2】**「〜について確認させていただきたいのですが、〜でしょうか？」** — cấu trúc chuẩn: mở khung → câu hỏi cụ thể.
+
+---
+
+## 🎯 Câu chốt
+
+> **「〜について確認させていただきたいのですが、〜でしょうか？」**
+>
+> *Mỗi câu hỏi 1 W. Hỏi xong câu này rồi mới sang câu kế tiếp.*
+
+---
+
+## ⚠ Tránh
+
+- Gộp 3-4 câu hỏi vào 1 câu → rối.
+- Dùng 「色々」「とか」「あと」 — câu hỏi mất sắc nét.
+- Hỏi xong không đợi trả lời, nói luôn ý kiến mình.
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 順番に | じゅんばんに | Theo thứ tự |
+| お伺いする | おうかがいする | Xin được hỏi (kenjō) |
+| 主担当 | しゅたんとう | Người phụ trách chính |
+| リリース予定日 | リリースよていび | Ngày dự kiến release |
+| デプロイ | depuroi | Deploy |

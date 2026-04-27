@@ -1,0 +1,107 @@
+{
+  "rule_id": "rule_31",
+  "rule_slug": "不在時の伝言依頼",
+  "title": {
+    "ja": "不在時の伝言依頼",
+    "vi": "Nhờ chuyển lời khi người nhận vắng"
+  },
+  "rule_context": {
+    "ja": "ズンが白鷗社受付経由で松本PMに電話したが外出中。受付に伝言を依頼する場面。",
+    "vi": "Em Dũng gọi qua lễ tân Hakuō nhưng anh Matsumoto đang ra ngoài. Nhờ lễ tân chuyển lời."
+  },
+  "related_rules": [
+    "rule_16",
+    "rule_18",
+    "rule_32"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『恐れ入りますが』で前置き→所属再確認→用件→折り返し情報→電話番号の順。受付がメモしやすい流れ。",
+        "vi": "Mở 「恐れ入りますが」 → tự xưng lại → việc → thông tin liên lạc → số phone. Trật tự giúp lễ tân dễ note."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_31_good_01",
+          "speaker": "reception_hakuo",
+          "speaker_role": "受付 (白鷗株式会社)",
+          "gender": "female",
+          "sentence": "あいにく松本は外出しておりまして、本日15時に戻る予定でございます。",
+          "sentence_translation": "Đáng tiếc anh Matsumoto đang ra ngoài, dự kiến 15h hôm nay sẽ về ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_31_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "左様でございますか。それでは恐れ入りますが、伝言をお願いできますでしょうか。",
+          "sentence_translation": "Vâng em hiểu rồi ạ. Phiền chị, cho em xin nhắn lại được không ạ?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_31_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ティエンファット社の営業部、ズンと申します。明日の打ち合わせ資料を本日中にメールでお送りする旨、お伝えいただけますでしょうか。",
+          "sentence_translation": "Em là Dũng phòng kinh doanh Cty Thiên Phát ạ. Phiền chị nhắn anh Matsumoto là em sẽ gửi tài liệu họp ngày mai qua mail trong hôm nay ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_31_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご返信は明日朝でも問題ございません。電話番号は090-1234-5678でございます。",
+          "sentence_translation": "Anh Matsumoto phản hồi sáng mai cũng được ạ. Số điện thoại của em là 090-1234-5678 ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.85
+        },
+        {
+          "line_id": "rule_31_good_05",
+          "speaker": "reception_hakuo",
+          "speaker_role": "受付 (白鷗株式会社)",
+          "gender": "female",
+          "sentence": "承知いたしました。申し伝えます。",
+          "sentence_translation": "Em rõ rồi ạ. Em sẽ chuyển lời ạ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_31_kp_01",
+      "speaker": "zun",
+      "sentence": "恐れ入りますが、伝言をお願いできますでしょうか。",
+      "sentence_translation": "Phiền chị, cho em xin nhắn lại được không ạ?",
+      "purpose": "伝言依頼の標準",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_31_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "伝言を依頼する時に最も含めるべき情報は？",
+      "options": [
+        "天気",
+        "自分の所属・用件・連絡先",
+        "個人的な話",
+        "他社の噂"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "伝言依頼の3要素：所属・用件・折り返し連絡先。",
+        "vi": "3 yếu tố nhờ nhắn lời: đơn vị / việc / cách liên lạc lại."
+      }
+    }
+  ]
+}

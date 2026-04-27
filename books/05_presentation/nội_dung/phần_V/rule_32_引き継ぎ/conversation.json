@@ -1,0 +1,171 @@
+{
+  "rule_id": "rule_32",
+  "rule_slug": "共同プレゼンの引き継ぎ",
+  "title": {
+    "ja": "共同プレゼンの引き継ぎ",
+    "vi": "Co-presenter handoff"
+  },
+  "rule_context": {
+    "ja": "Phase 3 共同ピッチ。ズン (business + scope, slide 1-12) → ハー CTO (technical architecture, slide 13-18) → ズン (roadmap, slide 19-25)。",
+    "vi": "Pitch chung Phase 3. Dũng (business + scope, slide 1-12) → Hà CTO (technical architecture, slide 13-18) → Dũng (roadmap, slide 19-25)."
+  },
+  "related_rules": ["rule_09", "rule_14"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 引き継ぎ素っ気ない＋再自己紹介",
+      "label_vi": "XẤU — Handoff cộc + re-introduce",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「じゃあ次〇〇お願い」だけは bridge なし。受け継ぎ側も30秒再自己紹介で時間の無駄。",
+        "vi": "Chỉ 「Vậy tiếp, 〇〇」 là không có bridge. Người nhận lại re-introduce 30s = lãng phí time."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_32_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "以上、business overview でした。じゃあ次、ハーさんお願いします。",
+          "sentence_translation": "Xong phần business overview ạ. Vậy tiếp, anh Hà please.",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_32_bad_02",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "えっと、ティエンファット社 CTO のハーと申します。本日はよろしく…えーと、技術アーキテクチャについて…",
+          "sentence_translation": "Ờ, tôi là Hà CTO của Cty Thiên Phát. Hôm nay rất mong... ờ, về kiến trúc kỹ thuật...",
+          "tone": "uncertain",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_32_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "(心の中: 重複してる、time waste…)",
+          "sentence_translation": "(Trong lòng: trùng lặp, lãng phí thời gian...)",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — bridge＋verbal＋gesture",
+      "label_vi": "TỐT — Bridge + verbal + gesture",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_32_good_01",
+          "highlight_text": "弊社 CTO ハーよりご説明させていただきます",
+          "ja": "Bridge の3要素: ① 自分のパート締め ② 次パート announce ③ 担当者 announce。「より」で source 明示。",
+          "vi": "3 yếu tố bridge: ① đóng phần mình ② announce phần tiếp ③ announce ai. 「より」 chỉ rõ source."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_32_good_02",
+          "highlight_text": "ハー、よろしくお願いします",
+          "ja": "Verbal cue + gesture を sync。Audience の目線が自然に co-presenter へ移動。",
+          "vi": "Verbal cue + gesture sync. Audience eye line tự nhiên dời sang co-presenter."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_32_good_03",
+          "highlight_text": "ハーでございます",
+          "ja": "受け継ぎ側は最短 acknowledge → 即 content。再自己紹介は冗長。",
+          "vi": "Người nhận acknowledge ngắn nhất → vào content ngay. Re-introduce thừa."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_32_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "以上で business overview と スコープ概要を終わらせていただきました。次の技術アーキテクチャ詳細につきましては、弊社 CTO ハーよりご説明させていただきます。",
+          "sentence_translation": "Em xin phép kết thúc phần business overview và tổng quan scope ạ. Phần kiến trúc kỹ thuật chi tiết tiếp theo sẽ do anh Hà CTO bên em trình bày ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_32_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ハー、よろしくお願いします。",
+          "sentence_translation": "Anh Hà, nhờ anh ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_32_good_03",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "ハーでございます。技術アーキテクチャは3層構成ございます。スライド13 をご覧ください…",
+          "sentence_translation": "Tôi là Hà ạ. Kiến trúc kỹ thuật có cấu trúc 3 layer ạ. Mời quý vị xem slide 13...",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_32_good_04",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "以上、技術アーキテクチャでございました。次のロードマップは再度 ズンよりご説明いたします。ズンさん、お願いします。",
+          "sentence_translation": "Phần kiến trúc kỹ thuật xong ạ. Phần roadmap tiếp theo sẽ do anh Dũng trình bày lại ạ. Anh Dũng, nhờ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_32_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ズンでございます。ロードマップはスライド19 から…",
+          "sentence_translation": "Em là Dũng ạ. Roadmap em xin bắt đầu từ slide 19 ạ...",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_32_kp_01",
+      "speaker": "zun",
+      "sentence": "以上で〇〇を終わらせていただきました。次の〇〇につきましては、〇〇よりご説明させていただきます。",
+      "sentence_translation": "Em xin phép kết thúc 〇〇 ạ. Phần 〇〇 tiếp theo sẽ do 〇〇 trình bày ạ.",
+      "purpose": "Co-presenter handoff bridge 標準",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_32_kp_02",
+      "speaker": "ha_cto",
+      "sentence": "〇〇でございます。〜について、〇点ございます。",
+      "sentence_translation": "Tôi là 〇〇 ạ. Về 〜, có 〇 điểm ạ.",
+      "purpose": "Handoff 受け継ぎ最短 acknowledge",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_32_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "共同プレゼンで co-presenter への引き継ぎとして最も適切な発話は？",
+      "options": [
+        "「じゃあ次、〇〇さんお願いします」",
+        "「以上で〇〇を終わらせていただきました。次の〇〇につきましては、〇〇よりご説明させていただきます」",
+        "「〇〇さん、何か言うことある？」",
+        "(silently 受け継ぎ)"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "Bridge sentence で ① 自分のパート締め ② 次パート announce ③ 担当者 announce が3要素。Audience が次の content を予測しやすくなる。",
+        "vi": "Bridge sentence cần 3 yếu tố: ① đóng phần mình ② announce phần tiếp ③ announce ai. Audience dễ dự đoán content tiếp."
+      }
+    }
+  ]
+}

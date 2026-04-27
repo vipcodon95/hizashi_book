@@ -1,0 +1,178 @@
+{
+  "rule_id": "rule_10",
+  "rule_slug": "商談冒頭",
+  "title": {
+    "ja": "商談冒頭",
+    "vi": "Câu mở chào lịch sự"
+  },
+  "rule_context": {
+    "ja": "Phase 3 商談開始30秒。Dũng が4要素 (お礼・再紹介・相手状況・本日意図) で tone を作る場面。",
+    "vi": "30 giây đầu đàm phán Phase 3. Dũng dùng 4 yếu tố (cảm ơn / tự giới thiệu lại / acknowledge / today's intent) để set tone."
+  },
+  "related_rules": [
+    "rule_11",
+    "rule_05"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 即値段",
+      "label_vi": "XẤU — Vào thẳng giá",
+      "display_order": 1,
+      "analysis": {
+        "ja": "30秒で値段の話に入り formal tone を放棄。CFO 同席時に特に致命的。",
+        "vi": "Trong 30s đã vào giá, vứt bỏ tone formal. Có CFO ngồi cùng càng chết."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_10_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えー、本日 Phase 3 の見積 ¥19M でお持ちしました。早速ですがご検討お願いします。",
+          "sentence_translation": "Ờ, hôm nay em mang báo giá Phase 3 ¥19M ạ. Xin phép vào luôn để quý cty xem xét ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_10_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "あ…はい。早速ですね。",
+          "sentence_translation": "À... vâng. Vào nhanh nhỉ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_10_bad_03",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "…",
+          "sentence_translation": "(im lặng, sắp xếp tài liệu)",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 4要素30秒",
+      "label_vi": "TỐT — 30s với 4 yếu tố",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_10_good_01",
+          "highlight_text": "本日はお忙しい中、お時間いただきまして誠にありがとうございます",
+          "ja": "「お忙しい中」は senior層 (CFOクラス) に対して時間尊重を伝える定型。省略不可。",
+          "vi": "「お忙しい中」là câu mặc định để thể hiện tôn trọng thời gian senior (CFO). Không được bỏ."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_10_good_01",
+          "highlight_text": "隣のチーム技術リーダー、トゥアンと参りました",
+          "ja": "名刺交換していてもチームメンバーを口頭で紹介。「ウチ」を整理して紹介する。",
+          "vi": "Dù đã trao danh thiếp, vẫn miệng giới thiệu thành viên. Sắp xếp 'ウチ' rồi present."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_10_good_02",
+          "highlight_text": "先日の IR でも拝見しましたが、新年度に向けて DX 推進を加速されるとのこと",
+          "ja": "事前リサーチを冒頭で示すことで「準備して来た」を伝達。tone が一気に professional になる。",
+          "vi": "Show research ngay đầu để truyền 'em đã chuẩn bị'. Tone lập tức thành professional."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_10_good_03",
+          "highlight_text": "Phase 3 のご提案として、3 段階の選択肢をお持ちしました",
+          "ja": "本日の意図を1文で。但し金額には触れない。それは discovery 後。",
+          "vi": "Today's intent trong 1 câu, nhưng KHÔNG đụng giá. Giá đẩy về sau discovery."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_10_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本日はお忙しい中、お時間いただきまして誠にありがとうございます。改めまして、ティエンファットの BD 担当ズンと申します。隣のチーム技術リーダー、トゥアンと参りました。",
+          "sentence_translation": "Hôm nay quý anh dành thời gian trong lúc bận rộn, em xin chân thành cảm ơn ạ. Một lần nữa, em là Dũng, BD bên ティエンファット. Cùng đi với em là anh Tuấn — Tech lead ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_10_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "先日の IR でも拝見しましたが、新年度に向けて DX 推進を加速されるとのこと、私どもも Phase 2 でご協力させていただいた立場として大変心強く存じます。",
+          "sentence_translation": "Em có xem IR vừa rồi, được biết quý cty đang đẩy mạnh DX hướng tới năm tài chính mới. Là bên đã đồng hành Phase 2, chúng em thấy rất phấn khởi ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_10_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本日は Phase 3 のご提案として、3 段階の選択肢をお持ちしました。御社のご要望に沿うか、ぜひ忌憚ないご意見をいただければと存じます。",
+          "sentence_translation": "Hôm nay em mang theo 3 phương án đề xuất Phase 3 ạ. Liệu có đáp ứng được nhu cầu quý cty hay không, mong quý anh cho ý kiến thẳng thắn giúp ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "4"
+          ]
+        },
+        {
+          "line_id": "rule_10_good_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "ご丁寧にありがとうございます。では拝見しましょう。",
+          "sentence_translation": "Cảm ơn em đã chu đáo. Vậy chúng tôi xin xem nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_10_kp_01",
+      "speaker": "zun",
+      "sentence": "本日はお忙しい中、お時間いただきまして誠にありがとうございます。",
+      "sentence_translation": "Hôm nay quý anh dành thời gian trong lúc bận rộn, em xin chân thành cảm ơn ạ.",
+      "purpose": "商談冒頭の定型お礼",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_10_kp_02",
+      "speaker": "zun",
+      "sentence": "本日は3段階の選択肢をお持ちしました。忌憚ないご意見をいただければと存じます。",
+      "sentence_translation": "Hôm nay em mang 3 phương án ạ. Mong quý anh cho ý kiến thẳng thắn ạ.",
+      "purpose": "本日の意図表明",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_10_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "商談冒頭30秒の4要素に含まれないものは？",
+      "options": [
+        "お時間をいただいたことへの感謝",
+        "再自己紹介とチーム紹介",
+        "相手状況への言及 (IR・業績など)",
+        "値段と支払条件の即提示"
+      ],
+      "correct": "D",
+      "explanation": {
+        "ja": "値段は冒頭で出さない。冒頭は tone を作る30秒で、価格は discovery 後。",
+        "vi": "Giá không ra ngay đầu. 30s đầu là set tone, giá ra sau discovery."
+      }
+    }
+  ]
+}

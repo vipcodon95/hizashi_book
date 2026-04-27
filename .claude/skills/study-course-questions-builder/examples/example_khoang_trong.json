@@ -1,0 +1,67 @@
+{
+  "_schema_version": "1.0",
+  "_skill": "study-course-questions-builder",
+  "_description": "MẪU ĐIỀN CHỖ TRỐNG (khoang_trong) — ngữ pháp/từ vựng. Câu có chỗ trống ( ), chọn từ phù hợp điền vào.",
+
+  "meta": {
+    "title": "Sample Khoang Trong — N3 bunpou",
+    "title_vn": "Mẫu Điền chỗ trống",
+    "module_code": "<module_code>",
+    "total_questions": 2,
+    "focus": "N3 grammar — khoang trong",
+    "description_vn": "Điền chỗ trống — chọn từ ngữ pháp phù hợp."
+  },
+
+  "questions": [
+    {
+      "id": "q_kt_001",
+      "question_type": "khoang_trong",
+      "selection_type": "single",
+      "skill_category": "bunpou",
+      "level": "N3",
+      "sentence": "彼は明日東京へ(  )つもりです。",
+      "sentence_translation": "Anh ấy dự định (  ) Tokyo vào ngày mai.",
+      "question_jp": "(  )に入れるのに、最も適切なものを選んでください。",
+      "question_vn": "Chọn từ phù hợp nhất điền vào (  ).",
+      "choices": [
+        {"id": "1", "text": "行く", "text_translation": "đi (thể từ điển)", "is_correct": true, "order": 0},
+        {"id": "2", "text": "行った", "text_translation": "đã đi (quá khứ)", "is_correct": false, "order": 1},
+        {"id": "3", "text": "行って", "text_translation": "đi rồi (te-form)", "is_correct": false, "order": 2},
+        {"id": "4", "text": "行きながら", "text_translation": "vừa đi vừa", "is_correct": false, "order": 3}
+      ],
+      "explanation": "「~つもり」đi với động từ thể từ điển (V-る).",
+      "tip": "V-る + つもり = dự định làm V"
+    },
+    {
+      "id": "q_kt_002",
+      "question_type": "khoang_trong",
+      "selection_type": "single",
+      "skill_category": "bunpou",
+      "level": "N3",
+      "sentence": "雨が(  )ので、傘を持って行きました。",
+      "sentence_translation": "Vì (  ) mưa nên tôi mang ô đi.",
+      "question_jp": "(  )に入れるのに、最も適切なものを選んでください。",
+      "question_vn": "Chọn từ phù hợp điền vào.",
+      "choices": [
+        {"id": "1", "text": "降る", "text_translation": "rơi (thể từ điển)", "is_correct": false, "order": 0},
+        {"id": "2", "text": "降りそう", "text_translation": "có vẻ rơi", "is_correct": true, "order": 1},
+        {"id": "3", "text": "降った", "text_translation": "đã rơi", "is_correct": false, "order": 2},
+        {"id": "4", "text": "降って", "text_translation": "rơi rồi", "is_correct": false, "order": 3}
+      ],
+      "explanation": "「降りそう」biểu hiện 'có vẻ sắp xảy ra' — phù hợp với việc dự đoán mưa rồi mang ô đề phòng."
+    }
+  ],
+
+  "question_sets": [
+    {
+      "set_id": "set_khoang_trong_n3",
+      "set_type": "practice",
+      "name": "N3 Bunpou — Điền chỗ trống",
+      "description": "Bài tập điền chỗ trống N3 — 2 câu mẫu",
+      "card_count": 2,
+      "module_position": 1,
+      "reading_passage_ref": null,
+      "question_ids": ["q_kt_001", "q_kt_002"]
+    }
+  ]
+}

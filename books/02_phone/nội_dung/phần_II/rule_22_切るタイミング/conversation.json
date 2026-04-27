@@ -1,0 +1,39 @@
+{
+  "rule_id": "rule_22",
+  "rule_slug": "受話器を置くタイミング",
+  "title": {"ja": "受話器を置くタイミング", "vi": "Thứ tự gác máy: khách trước, mình sau"},
+  "rule_context": {
+    "ja": "電話を切る順序は『相手（顧客・上司）→自分』の順が鉄則。先に切ると失礼に当たる。",
+    "vi": "Thứ tự cúp máy: khách/cấp trên trước, mình sau. Cúp trước = thiếu tôn trọng."
+  },
+  "related_rules": ["rule_01", "rule_11", "rule_35"],
+  "conversations": [{
+    "section": "good_example", "label_ja": "良い例", "label_vi": "TỐT", "display_order": 1,
+    "analysis": {
+      "ja": "「失礼いたします」で締めた後、相手の切る音を確認してから2-3秒待って静かに置く。受話器を強く置く音はマナー違反。",
+      "vi": "Sau 「失礼いたします」, đợi nghe tiếng đối phương cúp + chờ 2-3 giây rồi đặt nhẹ. Đặt mạnh = vi phạm lễ nghi."
+    },
+    "conversation_lines": [
+      {"line_id": "rule_22_good_01", "speaker": "zun", "speaker_role": "BD担当", "gender": "male", "sentence": "本日はお電話ありがとうございました。失礼いたします。", "sentence_translation": "Hôm nay cảm ơn anh đã gọi điện ạ. Em xin phép cúp máy ạ.", "tone": "formal"},
+      {"line_id": "rule_22_good_02", "speaker": "matsumoto", "speaker_role": "PM (白鷗株式会社)", "gender": "male", "sentence": "では、失礼します。", "sentence_translation": "Vậy tôi xin phép trước nhé.", "tone": "formal", "pause_after_ms": 3000}
+    ]
+  }],
+  "key_phrases": [
+    {"phrase_id": "rule_22_kp_01", "speaker": "zun", "sentence": "本日はお電話ありがとうございました。失礼いたします。", "sentence_translation": "Hôm nay cảm ơn anh đã gọi ạ. Em xin phép cúp máy ạ.", "purpose": "電話終了の標準フレーズ", "slow_audio": true}
+  ],
+  "bjt_practice": [{
+    "question_id": "rule_22_bjt_01", "level": "J4", "skill": "場面把握",
+    "question_ja": "顧客との電話で、受話器を置くタイミングは？",
+    "options": [
+      "自分が先に置く",
+      "相手より先に置く",
+      "相手が置いてから2-3秒後に静かに置く",
+      "同時に置く"
+    ],
+    "correct": "C",
+    "explanation": {
+      "ja": "顧客や上司が切ってから自分が切るのが基本マナー。",
+      "vi": "Khách/cấp trên cúp trước, mình cúp sau là quy tắc cơ bản."
+    }
+  }]
+}

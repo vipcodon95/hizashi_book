@@ -1,0 +1,178 @@
+{
+  "rule_id": "rule_19",
+  "rule_slug": "価格スライドの作り方",
+  "title": {
+    "ja": "価格スライドの作り方",
+    "vi": "Pricing slide tactful"
+  },
+  "rule_context": {
+    "ja": "リハーサルでハーCTOが大垣役を演じ、ズンの裸の数字提示 vs Anchor→Tier→ROI構成 + 『高い』反論3答を比較する場面。",
+    "vi": "Trong rehearsal Hà CTO đóng vai Ōgaki. So sánh: Dũng đưa giá trần trụi vs cấu trúc Anchor→Tier→ROI + sẵn 3 điểm phản biện 「高い」."
+  },
+  "related_rules": [
+    "rule_17",
+    "rule_20"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 裸の数字＋反論未準備",
+      "label_vi": "XẤU — Số trần + chưa chuẩn bị phản biện",
+      "display_order": 1,
+      "analysis": {
+        "ja": "Anchor なしで数字だけ出すと『高い』sticker shock。ROI なしだと cost にしか聞こえない。反論未準備で freeze。",
+        "vi": "Đưa số trần không anchor → sticker shock 「đắt」. Không ROI = nghe như cost. Chưa chuẩn bị phản biện = đứng hình."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_19_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 3 のお見積りは3,200万円でございます。",
+          "sentence_translation": "Báo giá Phase 3 là 32 triệu yên ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_19_bad_02",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "高いね。Phase 2 は1,800万だったよね？",
+          "sentence_translation": "Đắt nhỉ. Phase 2 là 18 triệu mà đúng không?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_19_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと…機能が増えていますので…",
+          "sentence_translation": "Ờ... vì có thêm chức năng ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_19_bad_04",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "『機能が増えた』だけだと弱い。ROIは？投資回収期間？削減効果の金額換算は？答え3つ用意していないと、ここで折れるよ。",
+          "sentence_translation": "Chỉ 「thêm chức năng」 thì yếu. ROI thì sao? Thời gian hoàn vốn? Quy ra tiền hiệu quả cắt giảm? Không sẵn 3 đáp án là gãy đàm phán ngay đây.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — Anchor→Tier→ROI＋3点回答",
+      "label_vi": "TỐT — Anchor→Tier→ROI + 3 điểm phản biện",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_19_good_01",
+          "highlight_text": "業界平均 1案件4,000万、Phase 2 は1,800万",
+          "ja": "Anchorは業界平均＋自社過去の2点。B案3,200万を『業界平均より安く、Phase 2の延長線上』にpositioning。",
+          "vi": "Anchor gồm trung bình ngành + cty mình quá khứ. Position B案 3,200万 「rẻ hơn trung bình ngành + nối tiếp Phase 2」."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_19_good_01",
+          "highlight_text": "年間1.2億円のロス削減",
+          "ja": "ROI = 削減効果 ÷ 投資 で回収期間を計算。『投資』として frame する。",
+          "vi": "ROI = saving ÷ đầu tư để tính kỳ hoàn vốn. Frame như 「đầu tư」 chứ không phải cost."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_19_good_03",
+          "highlight_text": "3点理由がございます",
+          "ja": "『高い』反論は ALWAYS 3点で答える。1点だと薄い、5点だと希薄化。",
+          "vi": "Phản biện 「高い」 LUÔN trả 3 điểm. 1 điểm yếu, 5 điểm loãng."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_19_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "価格の前に3点ご説明します。(1) Anchor: 業界平均 1案件4,000万、Phase 2 は1,800万でした。(2) Tier: A案2,400万 / B案3,200万(推奨) / C案4,800万。(3) ROI: B案で年間1.2億円のロス削減見込み、8ヶ月で投資回収。",
+          "sentence_translation": "Trước khi báo giá em xin trình bày 3 điểm ạ. (1) Anchor: trung bình ngành 1 case 40 triệu yên, Phase 2 là 18 triệu. (2) Tier: case A 24 triệu / case B 32 triệu (recommend) / case C 48 triệu. (3) ROI: case B dự kiến giảm lỗ 120 triệu/năm, hoàn vốn 8 tháng.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_19_good_02",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "Phase 2 比で約2倍だね、なぜ？",
+          "sentence_translation": "Gần gấp đôi Phase 2 nhỉ, vì sao?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_19_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "3点理由がございます。①リアルタイム同期インフラの新規構築、②機械学習アラートの実装、③24/7サポート3年付帯。Phase 2 は基本機能のみでした。",
+          "sentence_translation": "Có 3 lý do ạ. ① Xây mới hạ tầng đồng bộ realtime, ② implement machine learning alert, ③ kèm theo 3 năm support 24/7. Phase 2 chỉ có chức năng cơ bản ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_19_good_04",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "うん、3点回答で説得力出る。Reherearsal 通った。本番もこの調子で。",
+          "sentence_translation": "Ờ, trả 3 điểm thế là có sức thuyết phục. Pass rehearsal rồi. Bữa thật giữ nhịp này nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_19_kp_01",
+      "speaker": "zun",
+      "sentence": "価格の前に3点ご説明します。Anchor、Tier、ROI でございます。",
+      "sentence_translation": "Trước báo giá em xin trình bày 3 điểm ạ. Anchor, Tier, ROI ạ.",
+      "purpose": "価格スライド導入",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_19_kp_02",
+      "speaker": "zun",
+      "sentence": "3点理由がございます。①〇〇、②〇〇、③〇〇でございます。",
+      "sentence_translation": "Có 3 lý do ạ. ① 〇〇, ② 〇〇, ③ 〇〇 ạ.",
+      "purpose": "「高い」反論への3点回答",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_19_bjt_01",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "顧客から「高いね、Phase 2の2倍」と言われた時、最も説得力ある返答は？",
+      "options": [
+        "機能が増えていますので…",
+        "3点理由がございます。①新規インフラ、②機械学習、③24/7サポート3年付帯",
+        "値引きいたします",
+        "申し訳ございません"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "「高い」反論には ALWAYS 3点理由で答える。1点は薄い、5点は希薄化、3点が説得力の sweet spot。",
+        "vi": "Phản biện 「高い」 LUÔN trả 3 điểm. 1 điểm yếu, 5 điểm loãng, 3 điểm là sweet spot thuyết phục."
+      }
+    }
+  ]
+}

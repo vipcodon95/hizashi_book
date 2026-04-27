@@ -1,0 +1,106 @@
+{
+  "rule_id": "rule_40",
+  "rule_slug": "怒っているお客様への対応",
+  "title": {
+    "ja": "怒っているお客様への対応",
+    "vi": "Khách đang giận — nghe trước, giải pháp sau"
+  },
+  "rule_context": {
+    "ja": "メール返信遅れに憤慨する顧客への電話対応。傾聴→共感→確認→解決の順を守る。",
+    "vi": "Khách giận vì mail không phản hồi 1 tuần. Theo trình tự: lắng nghe → đồng cảm → xác nhận → giải pháp."
+  },
+  "related_rules": [
+    "rule_20",
+    "rule_41",
+    "rule_45"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "途中で遮らず『はい』『左様でございましたか』で傾聴を示す。怒りの感情が落ち着いてから具体的解決策を提示。",
+        "vi": "Không cắt lời, dùng 「はい」「左様でございましたか」 để thể hiện lắng nghe. Khi cơn giận hạ nhiệt mới đưa ra giải pháp cụ thể."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_40_good_01",
+          "speaker": "unknown_caller",
+          "speaker_role": "発信者 (社外) (怒り)",
+          "gender": "neutral",
+          "sentence": "3回もメールしたのに返信がないんですよ！どうなってるんですか！",
+          "sentence_translation": "Tôi đã gửi mail 3 lần mà không có phản hồi! Là sao đây!",
+          "tone": "angry"
+        },
+        {
+          "line_id": "rule_40_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "はい...左様でございましたか。",
+          "sentence_translation": "Vâng... em hiểu rồi ạ.",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_40_good_03",
+          "speaker": "unknown_caller",
+          "speaker_role": "発信者 (社外)",
+          "gender": "neutral",
+          "sentence": "もう1週間ですよ、1週間！",
+          "sentence_translation": "Đã 1 tuần rồi đấy, 1 tuần!",
+          "tone": "angry"
+        },
+        {
+          "line_id": "rule_40_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご返信が遅くなり、本当に申し訳ございません。すぐに状況を確認の上、本日中に必ずご回答差し上げます。",
+          "sentence_translation": "Em xin lỗi vì đã trả lời chậm ạ. Em sẽ kiểm tra ngay và chắc chắn trả lời anh trong hôm nay ạ.",
+          "tone": "apologetic",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_40_good_05",
+          "speaker": "unknown_caller",
+          "speaker_role": "発信者 (社外)",
+          "gender": "neutral",
+          "sentence": "...じゃあお願いします。",
+          "sentence_translation": "...Vậy nhờ em nhé.",
+          "tone": "firm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_40_kp_01",
+      "speaker": "zun",
+      "sentence": "左様でございましたか。本当に申し訳ございません。",
+      "sentence_translation": "Vâng em hiểu rồi ạ. Em rất xin lỗi anh ạ.",
+      "purpose": "怒り客への共感＋謝罪",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_40_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "怒っているお客様への最初の対応として正しいのは？",
+      "options": [
+        "途中で説明する",
+        "傾聴し『左様でございましたか』と共感を示す",
+        "電話を切る",
+        "他の人に代わる"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "怒り客対応は『傾聴→共感→解決』の順。最初は遮らず聞く。",
+        "vi": "Trình tự: nghe → đồng cảm → giải pháp. Đầu tiên không cắt lời."
+      }
+    }
+  ]
+}

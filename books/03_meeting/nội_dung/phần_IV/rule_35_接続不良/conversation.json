@@ -1,0 +1,195 @@
+{
+  "rule_id": "rule_35",
+  "rule_slug": "接続不良対応",
+  "title": {
+    "ja": "接続不良への対応",
+    "vi": "Khi mất kết nối"
+  },
+  "rule_context": {
+    "ja": "Zoom会議でズンが進捗報告中、ベトナム側ネットが不安定で30秒フリーズ。再接続後、謝罪+last seen 確認+再開の3ステップで進行を継続する。",
+    "vi": "Họp Zoom, em Dũng đang báo cáo thì mạng lag freeze 30s. Sau rejoin: xin lỗi + confirm điểm khách thấy cuối + resume."
+  },
+  "related_rules": [
+    "rule_33",
+    "rule_38"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 復帰時に謝罪なし",
+      "label_vi": "XẤU — Quay lại không xin lỗi",
+      "display_order": 1,
+      "analysis": {
+        "ja": "突然消えて突然戻り、謝罪もlast seen確認もない。顧客は『何があったのか』『どこから話すのか』が分からず混乱。",
+        "vi": "Biến mất đột ngột rồi quay lại, không xin lỗi không confirm điểm. Khách không biết chuyện gì + không biết tiếp từ đâu."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_35_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "4月のKPIは…",
+          "sentence_translation": "KPI tháng 4 là...",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_35_bad_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ズンさん？聞こえますか？",
+          "sentence_translation": "Dũng? Có nghe không?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_35_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、戻りました。続きですが…",
+          "sentence_translation": "À, em quay lại rồi. Tiếp theo là...",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 3ステップ対応",
+      "label_vi": "TỐT — Protocol 3 bước",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_35_good_02",
+          "highlight_text": "申し訳ございません、接続が不安定です。再接続いたします。",
+          "ja": "回線が落ちる前にチャットで状況を伝えると顧客の不安を減らせる。",
+          "vi": "Báo trong chat trước khi drop → giảm lo lắng cho khách."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_35_good_04",
+          "highlight_text": "接続が不安定でございまして、お時間を頂戴してしまいました",
+          "ja": "復帰時の謝罪定型フレーズ。「お時間を頂戴」で迷惑かけたことを暗示。",
+          "vi": "Câu xin lỗi chuẩn khi rejoin. 「お時間を頂戴」 ngụ ý 'đã làm mất thời gian quý'."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_35_good_05",
+          "highlight_text": "どこまでお見せできていましたでしょうか",
+          "ja": "last seen を確認することで重複・抜けを防ぐ。",
+          "vi": "Confirm điểm last seen → tránh lặp lại / sót."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_35_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "4月のKPIは…",
+          "sentence_translation": "KPI tháng 4 là...",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_35_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（チャット）申し訳ございません、接続が不安定です。再接続いたします。",
+          "sentence_translation": "(Chat) Em xin lỗi, mạng không ổn định ạ. Em xin reconnect.",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_35_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "了解です、お待ちしています。",
+          "sentence_translation": "OK, tôi đợi nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_35_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "申し訳ございません、接続が不安定でございまして、お時間を頂戴してしまいました。",
+          "sentence_translation": "Em xin lỗi anh, mạng không ổn định nên đã làm anh mất thời gian ạ.",
+          "tone": "apologetic",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_35_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "先ほどの続きを再開する前に、4月KPIのスライドはどこまでお見せできていましたでしょうか？",
+          "sentence_translation": "Trước khi tiếp tục, em xin hỏi slide KPI tháng 4 anh đã thấy đến đâu rồi ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ],
+          "continues_previous": true
+        },
+        {
+          "line_id": "rule_35_good_06",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "『達成率82%』のところまで見えていました。",
+          "sentence_translation": "Tôi thấy đến chỗ 「tỷ lệ đạt 82%」.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_35_good_07",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。では、その続きから再開いたします。",
+          "sentence_translation": "Em cảm ơn ạ. Vậy em xin tiếp tục từ chỗ đó.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_35_kp_01",
+      "speaker": "zun",
+      "sentence": "申し訳ございません、接続が不安定でございまして、お時間を頂戴してしまいました。",
+      "sentence_translation": "Em xin lỗi, mạng không ổn định nên đã làm anh/chị mất thời gian ạ.",
+      "purpose": "再接続後の謝罪フレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_35_kp_02",
+      "speaker": "zun",
+      "sentence": "どこまでお見せできていましたでしょうか？",
+      "sentence_translation": "Em đã trình đến đâu rồi ạ?",
+      "purpose": "last seen 確認",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_35_bjt_01",
+      "level": "J3",
+      "skill": "発言聴解",
+      "question_ja": "オンライン会議で自分の回線が30秒フリーズ。再接続後の最善対応は？",
+      "options": [
+        "黙って続きから話す",
+        "「あ、戻りました」と一言で再開",
+        "「接続が不安定で時間を頂戴しました。どこまで見えていましたか？」と謝罪+last seen確認",
+        "会議を終了する"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "謝罪+last seen確認で重複/抜けを防ぐのが標準。",
+        "vi": "Xin lỗi + confirm last seen tránh lặp/sót là chuẩn."
+      }
+    }
+  ]
+}

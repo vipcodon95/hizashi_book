@@ -1,0 +1,731 @@
+{
+  "$schema_note": "Scenes JSON cho Chương 02 — Golf cuối tuần.",
+  "chapter_id": "09-02",
+  "chapter_slug": "ゴルフ",
+  "title": {
+    "vi": "Cuối tuần đi golf cùng khách",
+    "ja": "週末ゴルフ同行記"
+  },
+  "boi_canh": {
+    "vi": "Thứ 7 tháng 6/2026, sân golf Chiba (≈1.5h từ Tokyo). Matsumoto rủ Dũng + Tuấn round 18 lỗ. Khách thêm: Ōgaki. Dũng mới chơi golf 6 tháng, score chưa ổn nhưng được mời = signal trust quan trọng.",
+    "ja": "2026年6月の土曜、千葉のゴルフ場。松本PMがズン+トゥアンを18ホールラウンドに招待。大垣営業部長も合流。"
+  },
+  "bi_quyet_tong": [
+    "Golf với khách JP = 6 tiếng phi-business để build trust. Score thấp = không sao; thái độ đúng = quan trọng.",
+    "Dậy sớm cực (5h sáng) — uống cà phê sẵn, ăn nhẹ. Không được ngáp trước khách.",
+    "Etiquette > skill: ngừng nói khi người khác address bóng, repair divot, rake bunker, không đi trước người chuẩn bị đánh.",
+    "Onsen sau golf = tradition. Sách 07 đã dạy nhưng ôn lại: khăn nhỏ lên đầu, không bơi.",
+    "Score card sign cuối round — luôn cảm ơn host gọi mulligan, dù bạn không xài."
+  ],
+  "scenes": [
+    {
+      "n": 1,
+      "time": "Sat 05:30",
+      "location": "Trước khách sạn Shinjuku",
+      "setting": "Trời còn tối, đèn đường vàng. Dũng + Tuấn xuống lobby, vác bag golf thuê. Taxi đã đợi. Dũng dụi mắt liên tục.",
+      "lines": [
+        {
+          "speaker": "tuan_leader",
+          "ja": "(ベトナム語、小声)Em ngáp ít thôi nha, lát gặp khách cấm ngáp.",
+          "vi": "(tiếng Việt, nhỏ giọng) Em ngáp ít thôi nha, lát gặp khách cấm ngáp."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(あくびを噛み殺す)はい先輩…5時起きはきつい。",
+          "vi": "(nuốt cái ngáp) Vâng anh… dậy 5 giờ mệt thật."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(ベトナム語)Ăn cái này, bánh mì với cà phê đen tao mua sẵn.",
+          "vi": "(tiếng Việt) Ăn cái này, bánh mì với cà phê đen tao mua sẵn."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(ベトナム語)Cảm ơn anh.",
+          "vi": "(tiếng Việt) Cảm ơn anh."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(ベトナム語)Nhớ: lỗ 1 đánh thứ 4 vì là junior nhất + invited. Mulligan nếu được offer thì cảm ơn nhưng đừng xài quá 1 lần. Onsen sau round, sách 07 anh dạy rồi.",
+          "vi": "(tiếng Việt) Nhớ: lỗ 1 đánh thứ 4 vì là junior nhất + invited. Mulligan nếu được offer thì cảm ơn nhưng đừng xài quá 1 lần. Onsen sau round, sách 07 anh dạy rồi."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(ベトナム語)Vâng anh, em note hết.",
+          "vi": "(tiếng Việt) Vâng anh, em note hết."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Taxi chạy 1.5 tiếng tới Chiba. Dũng ngủ gật 30 phút giữa đường, Tuấn lắc tay 'dậy đi sắp tới rồi'.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Dậy sớm cho round golf JP",
+        "body": "Tee off thường 7:30-8:00 sáng. Cộng 1.5h di chuyển + 30 phút warmup → dậy 5:00-5:30. **Mẹo sống sót**: ngủ sớm tối hôm trước (22:00), uống caffeine nhẹ trước khi xuống lobby, nhai gum bạc hà — đừng để khách thấy ngáp. Bag golf thuê đặt trước qua khách sạn concierge."
+      }
+    },
+    {
+      "n": 2,
+      "time": "Sat 07:00",
+      "location": "Club house, locker room",
+      "setting": "Locker room sạch sẽ, tủ gỗ. Mùi xà phòng + cỏ cắt. Ōgaki đã đến trước, đang thay đồ. Matsumoto đến 5 phút sau.",
+      "lines": [
+        {
+          "speaker": "oogaki_sales",
+          "ja": "おはよう、ズンさん、トゥアンさん!早かったね。",
+          "vi": "Chào buổi sáng Dũng, Tuấn! Tới sớm nhỉ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "大垣さん、おはようございます。今日よろしくお願いします。",
+          "vi": "Anh Ōgaki, chào anh ạ. Hôm nay nhờ anh."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "おはようございます。",
+          "vi": "Chào anh."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng định bước thẳng vào khu locker với giày sneakers — Tuấn kéo nhẹ tay áo, chỉ xuống chân, rồi chỉ vào kệ slipper trắng.]"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(小声)ズンさん、靴脱いでスリッパね。クラブハウス内は土足NG。",
+          "vi": "(nhỏ giọng) Dũng à, cởi giày đi slipper nha. Trong club house không đi giày."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(小声)あ、すみません、知らなかった。",
+          "vi": "(nhỏ giọng) À, em xin lỗi, em không biết."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(笑って)初めて?大丈夫大丈夫、誰でも最初は分からない。ロッカーで golf shoes に履き替えてから外に出るんだ。",
+          "vi": "(cười) Lần đầu hả? Không sao không sao, ai lần đầu cũng vậy. Trong locker đổi sang golf shoes rồi mới ra ngoài."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(到着)おはよう、皆さん。今日は天気いいね、午後曇り予報だけど雨はなさそう。",
+          "vi": "(đến nơi) Chào mọi người. Hôm nay trời đẹp nhỉ, dự báo chiều có mây nhưng không mưa."
+        },
+        {
+          "speaker": "zun",
+          "ja": "松本さん、おはようございます。今日よろしくお願いします、初めての日本のゴルフ場で楽しみです。",
+          "vi": "Anh Matsumoto, chào anh ạ. Hôm nay nhờ anh, em rất mong sân golf Nhật lần đầu."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "じゃあ、コーヒー一杯飲んで、ドライビングレンジで体ほぐそうか。",
+          "vi": "Vậy uống ly cà phê đã, ra driving range khởi động nhé."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Etiquette club house JP",
+        "body": "Sân golf JP nghiêm ngặt:\n- **Cởi giày bước vào club house** — đổi slipper.\n- **Locker room** đổi sang golf shoes mới ra sân.\n- **Không** đi giày outdoor lên thảm club house.\n- Dress code: collar shirt + slacks (không quần short, không jean, không t-shirt). Nhiều sân JP từ chối khách violation."
+      }
+    },
+    {
+      "n": 3,
+      "time": "Sat 07:30",
+      "location": "Driving range warmup",
+      "setting": "Dãy bay 20 ô, mỗi ô có rổ bóng tự động. Dũng warmup 20 quả. 5 quả đầu trượt sạch.",
+      "lines": [
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Quả 1: trượt. Quả 2: trượt. Quả 3: chạm bóng nhưng đi 30m sang trái. Quả 4: trượt. Quả 5: trượt. Dũng đỏ mặt.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "あ、すみません…",
+          "vi": "Ơ, em xin lỗi…"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(隣から、笑って)気にしない気にしない、僕も最初の3年間そんな感じだったよ。リズム掴めれば変わる。",
+          "vi": "(từ ô bên, cười) Đừng để ý, đừng để ý. 3 năm đầu tôi cũng vậy. Bắt được nhịp là khác liền."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "ズンさん、力入れすぎ。腕の力じゃなくて、腰の回転で打つの。",
+          "vi": "Dũng à, gồng quá. Không phải lực tay, mà xoay hông để đánh."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng thử lại chậm hơn, tập trung xoay hông. Quả 6: bay 80m thẳng. Quả 7: bay 100m, hơi lệch phải.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "あ、ちょっと当たった!",
+          "vi": "A, trúng rồi!"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(英語混じり、励まし)Nice, that's the feel!",
+          "vi": "(pha tiếng Anh, động viên) Hay đó, đúng cảm giác đấy!"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "OK、本コースで力抜けば大丈夫。じゃあ7:55、1番ホールに行こう。",
+          "vi": "OK, ra sân thật mà thả lỏng là được. Vậy 7:55 ra hole 1."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Warmup khi mới chơi",
+        "body": "Trượt bóng warmup = OK, đừng panic. Khách JP **không judge skill** — họ đã invite biết bạn mới chơi. Họ judge **thái độ**: bạn có cười được khi trượt không, có nhận lời khuyên không, có giữ nhịp warmup không. Tip: warmup chỉ dùng 7-iron, đừng động vào driver — quả driver trượt to giữa nhiều người là thảm họa tinh thần."
+      }
+    },
+    {
+      "n": 4,
+      "time": "Sat 08:00",
+      "location": "Hole 1 — tee shot đầu tiên",
+      "setting": "Tee box hole 1, par 4, 350y. Có caddie nữ JP đi cùng. Order đánh: Matsumoto → Ōgaki → Tuấn → Dũng (junior nhất đánh cuối).",
+      "lines": [
+        {
+          "speaker": "caddie_nu",
+          "ja": "(架空) 皆様おはようございます、本日キャディーの井上と申します。よろしくお願いします。",
+          "vi": "(nhân vật phụ) Quý khách chào buổi sáng, hôm nay tôi là caddie Inoue, nhờ quý khách."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(ティーアップ、ショット、フェアウェイ中央 200y)よし。",
+          "vi": "(đặt tee, đánh, fairway giữa 200y) Tốt."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(ショット、フェアウェイ右側 220y)まあまあ。",
+          "vi": "(đánh, fairway phải 220y) Tạm ổn."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(ショット、フェアウェイ左 180y)OK。",
+          "vi": "(đánh, fairway trái 180y) OK."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng đặt tee. Tay run nhẹ. Hít thở. Vung — tiếng 'パコ' kêu lệch — bóng bay sang fairway hole 2 cách 80m.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(顔赤く)あ…OB じゃないですけど、隣のホール…すみません。",
+          "vi": "(mặt đỏ) Ơ… không phải OB mà bay sang fairway lỗ bên cạnh… em xin lỗi."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(笑って)ズンさん、最初の1打目は緊張して当然!マリガン、もう1球いいよ。",
+          "vi": "(cười) Dũng à, quả tee shot đầu lo lắng là chuyện thường! Mulligan, đánh lại 1 quả nữa."
+        },
+        {
+          "speaker": "zun",
+          "ja": "えっ、本当ですか?ありがとうございます。",
+          "vi": "Ơ, thật ạ? Cảm ơn anh."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "うん、初めての海外ゴルフ場、ホール1のマリガンは伝統みたいなものだから。気楽にね。",
+          "vi": "Ừ, sân golf nước ngoài lần đầu, mulligan hole 1 gần như là tradition rồi. Thoải mái đi."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng đặt tee thứ 2. Hít sâu. Vung — quả này bay 150y, hơi lệch phải nhưng vào fairway.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "あ、当たりました!",
+          "vi": "A, trúng rồi!"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "Nice shot ズンさん!",
+          "vi": "Nice shot Dũng!"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "じゃあそれでいこう。最初の OB ボールは、田中の名前で残しとこうか(笑)。",
+          "vi": "Vậy chơi với quả đó. Quả OB lúc nãy để tên Tanaka đi (cười)."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Mulligan = gesture trust",
+        "body": "**Mulligan** = đánh lại miễn phí, không tính score. Ở Nhật:\n- ✅ Host offer mulligan ở hole 1 cho người mới = **gesture trust**, đừng từ chối kiêu.\n- ✅ Cảm ơn rõ ràng + chỉ xài 1 lần / round (không xài lại ở hole 2-3).\n- ❌ Đừng tự ý 'tao đánh lại nhé' — phải đợi host offer.\n- 'Tee shot OB hole 1' là chuyện ai cũng từng — khách JP đã anticipate."
+      }
+    },
+    {
+      "n": 5,
+      "time": "Sat 09:30",
+      "location": "Hole 5 — par 3 signature hole",
+      "setting": "Hole 5, par 3, 150y, vượt qua hồ. Hole đẹp nhất sân, ai cũng dừng chụp ảnh. Matsumoto bảo Dũng chụp.",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "ズンさん、ここは記念に1枚撮ろう。グリーン後ろの桜、まだ少し残ってる。",
+          "vi": "Dũng à, đây chụp 1 tấm kỷ niệm đi. Hoa anh đào sau green còn sót lại chút."
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、撮ります。あ、スマホ…",
+          "vi": "Vâng, em chụp. À, điện thoại…"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng vỗ túi quần — không có. Vỗ túi áo — không có. Nhìn xuống bag golf trên cart — bỏ trong ngăn nhỏ. Cart đậu cách 50m.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "すみません、カートに置いてきました…取ってきます!",
+          "vi": "Em xin lỗi, em để ngoài cart… em chạy lấy!"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(笑って)走らないで!ゴルフ場で走ると怪我するよ。",
+          "vi": "(cười) Đừng chạy! Sân golf chạy là chấn thương đó."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng đi nhanh (không chạy) ra cart, lấy iPhone, quay lại sau 2 phút. Chụp 5 tấm.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "撮れました!皆さん、ティーボックスに集まってください。",
+          "vi": "Em chụp được rồi! Mọi người ra tee box giúp em ạ."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(ポーズ取る)はーい、チーズ。",
+          "vi": "(tạo dáng) Yeah, cheese."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "ズンさん、後で AirDrop で送って。",
+          "vi": "Dũng gửi anh qua AirDrop sau nhé."
+        },
+        {
+          "speaker": "zun",
+          "ja": "了解、松本さんにもメールで送ります。",
+          "vi": "Vâng, em gửi cả mail cho anh Matsumoto."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Chụp ảnh kỷ niệm",
+        "body": "Sân golf JP có 1-2 'signature hole' đẹp — host hay đề nghị chụp ảnh. Tip:\n- **Luôn để điện thoại trong túi quần** (không bỏ trong bag), tránh phải chạy ra cart.\n- Sau round, **gửi ảnh qua mail/Slack cho host** trong vòng 24h — gesture cảm ơn nhỏ.\n- **Đừng selfie trên green** khi nhóm sau đang chờ — chụp ở tee box hoặc trước/sau hole."
+      }
+    },
+    {
+      "n": 6,
+      "time": "Sat 11:00",
+      "location": "Hole 9 — finish front nine",
+      "setting": "Hole 9 par 5, 480y. Finish 9 hole đầu, đi vào club house ăn trưa. Dũng score front nine: +29 (par 36, score 65). Hơi xấu hổ.",
+      "lines": [
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng nhìn score card. Score 65/36. Cao nhất trong 4 người. Tuấn 48, Ōgaki 41, Matsumoto 39.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(小声)スコア悪くて、すみません…",
+          "vi": "(nhỏ giọng) Score em tệ quá, em xin lỗi…"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "ズンさん、スコアより楽しんでくれてるかが大事。今日 enjoy できてる?",
+          "vi": "Dũng à, quan trọng là cậu vui hay không, không phải score. Hôm nay enjoy không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、すごく楽しいです。Hole 5 のショット、人生で一番気持ちよかったです。",
+          "vi": "Có ạ, em vui lắm. Quả ở hole 5, là cú thoải mái nhất đời em."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "それでいい。ゴルフは最初の3年は score 気にしない。enjoy + matter improve したらいい。",
+          "vi": "Vậy là OK. Golf 3 năm đầu đừng để ý score, cứ vui và cải thiện dần là được."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "あと9ホールあるから、後半挽回しよう。お腹すいたから昼ごはん行こう。",
+          "vi": "Còn 9 hole nữa, hiệp sau cứu lại đi. Đói rồi, đi ăn trưa."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Score xấu — không sao",
+        "body": "Người mới chơi golf score 100+ là bình thường. Khách JP biết. Họ judge:\n- Bạn có **enjoy** không?\n- Bạn có **etiquette** không (rake bunker, repair divot, im khi người khác đánh)?\n- Bạn có **học hỏi** không (nhận lời khuyên Ōgaki ở scene 3)?\n\n**Tránh**: than vãn 'score em tệ' nhiều hơn 1 lần, hoặc auto-quit kiểu 'em không nên đi nữa'. Câu chuẩn: 'Hôm nay em vui lắm, lần sau em sẽ chuẩn bị tốt hơn.'"
+      }
+    },
+    {
+      "n": 7,
+      "time": "Sat 11:30",
+      "location": "Restaurant club house — bữa trưa",
+      "setting": "Restaurant nội bộ club house. Set lunch katsu-curry truyền thống. Matsumoto + Ōgaki order 1 bia mỗi người. Tuấn + Dũng order trà lúa mạch.",
+      "lines": [
+        {
+          "speaker": "oogaki_sales",
+          "ja": "ズンさん、トゥアンさん、ビール 1杯だけどう?",
+          "vi": "Dũng, Tuấn uống 1 bia không?"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(ズンに目配せ)あ、ありがとうございます、でも午後まだ 9 ホールあるので、今日は遠慮します。",
+          "vi": "(liếc Dũng) Ơ, cảm ơn anh, nhưng chiều còn 9 lỗ nên hôm nay em xin phép từ chối."
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、僕も麦茶でお願いします。後半集中したいので。",
+          "vi": "Vâng, em cũng trà lúa mạch ạ. Em muốn tập trung hiệp sau."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "OK、賢い選択。僕らはおじさんだから 1 杯くらい大丈夫(笑)。",
+          "vi": "OK, lựa chọn khôn ngoan. Tụi tôi là ojisan rồi nên 1 ly thì OK (cười)."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "ズンさん、カツカレー初めて?",
+          "vi": "Dũng ăn katsu-curry lần đầu?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ゴルフ場のカツカレーは初めてです。普通の店では何回か。",
+          "vi": "Katsu-curry sân golf thì lần đầu ạ. Quán bình thường thì vài lần rồi."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "ゴルフ場のカツカレーは『お決まり』なんだよ。なんかね、フロント9で疲れた体に染みるんだ。",
+          "vi": "Katsu-curry sân golf gần như là 'quy tắc bất thành văn'. Sau front 9 mệt, ăn rất thấm."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng ăn 1 miếng — đúng thật, ngon hơn thường. Chưa chắc do món, chắc do mệt.]"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "美味しいですね。ベトナムにもこういう『コース後の決まり料理』ないなあ、面白い文化。",
+          "vi": "Ngon thật. Việt Nam không có món 'sau course là phải ăn cái này' kiểu này nhỉ, văn hóa thú vị."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Bia bữa trưa golf — từ chối khéo",
+        "body": "Host hay offer 1 bia bữa trưa. Người mới chơi:\n- ❌ **Đừng nhận** — 9 hole sau sẽ khó tập trung + nguy hiểm khi swing.\n- ✅ **Từ chối khéo** với lý do skill: '午後まだ 9 ホールあるので集中したい' = pro reason, host accept.\n- ❌ Đừng từ chối kiểu '私はお酒飲めません' — quá tuyệt đối, host khó offer lần sau.\n- Sau round + onsen mới uống bia OK."
+      }
+    },
+    {
+      "n": 8,
+      "time": "Sat 12:30",
+      "location": "Hole 10 — tee off back nine",
+      "setting": "Sau bữa trưa 1 tiếng, ra hole 10 tee. Trời chuyển mây. Tuấn nhắc Dũng kiểm tra weather app.",
+      "lines": [
+        {
+          "speaker": "tuan_leader",
+          "ja": "(小声でズンに)ズン、weather チェックして。空が変わってきた。",
+          "vi": "(nhỏ giọng với Dũng) Dũng, check weather đi. Trời chuyển rồi."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(スマホ確認)…14時頃から雨予報、20%。一応カート覆い準備した方がいいかも。",
+          "vi": "(check điện thoại)… từ 14h dự báo mưa, 20%. Có lẽ chuẩn bị áo che cart trước cho chắc."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "ズンさん、weather チェックありがとう。caddie さんに傘あるか聞いてみて。",
+          "vi": "Dũng cảm ơn cậu check weather. Hỏi caddie xem có ô không nhé."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(キャディに) すみません、傘は何本ありますか?",
+          "vi": "(với caddie) Xin lỗi, có mấy cái ô ạ?"
+        },
+        {
+          "speaker": "caddie_nu",
+          "ja": "カート内に4本ございます、ご安心ください。",
+          "vi": "Trong cart có 4 cái, quý khách yên tâm."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "OK、じゃあ降っても続けられる。Hole 10 行こう。",
+          "vi": "OK, vậy mưa cũng chơi tiếp được. Ra hole 10 nhé."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Proactive weather check",
+        "body": "Junior trong nhóm = **weather watcher mặc định**. Check Yahoo Weather Japan / tenki.jp mỗi 1-2 hole nếu trời nghi mưa. Báo cáo ngắn cho host: '14h雨20%, 念のため傘確認しました'. Senior bị ấn tượng vì không cần nghĩ về thời tiết = giảm cognitive load."
+      }
+    },
+    {
+      "n": 9,
+      "time": "Sat 14:00",
+      "location": "Hole 14 — bunker shot",
+      "setting": "Hole 14, par 4, 380y. Approach Dũng vào bunker trước green. Lần đầu vào bunker sự nghiệp golf của Dũng.",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "(バンカーを覗いて)あ…バンカー初めて入りました。どう打つんだろう…",
+          "vi": "(nhìn bunker) Ơ… em mới vào bunker lần đầu. Đánh thế nào nhỉ…"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(近づいて)ズンさん、バンカー教えるよ。サンドウェッジね、これ。",
+          "vi": "(lại gần) Dũng à, anh dạy bunker. Sand wedge nhé, cây này."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(実演)スタンスは少し開いて、ボールの 5cm 後ろを狙う。砂を打つ感じ、ボールは『ついでに』飛ぶ。",
+          "vi": "(demo) Stance hơi mở, nhắm 5cm sau bóng. Cảm giác đánh vào cát, bóng 'tiện thể' bay theo."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ボール直接じゃなくて、砂を打つんですか?",
+          "vi": "Không đánh trực tiếp bóng mà đánh vào cát ạ?"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "そう。ボール直接打つと、砂の上を滑って遠くまで飛んじゃう。砂を打って、砂と一緒にボールを上げる。",
+          "vi": "Đúng. Đánh trực tiếp bóng là trượt trên cát, bay xa luôn. Đánh cát, lấy cát hất bóng lên."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng vào bunker, mở stance, vung — 'パサッ' tiếng cát bắn lên — bóng bật ra, bay 30m, lên green cách cờ 5m.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "出ました!",
+          "vi": "Bay ra rồi!"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(肩を叩いて)上手!初めてでこれは才能あるよ。",
+          "vi": "(vỗ vai) Giỏi! Lần đầu mà được vậy là có khiếu đó."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "バンカーから一発で出るって、結構難しいんだよ。",
+          "vi": "Ra khỏi bunker 1 nhát khá khó đó."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng cảm thấy ấm trong bụng. Lần đầu được Ōgaki vỗ vai từ Phase 1 đến giờ.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Học từ senior tại sân — moment vàng",
+        "body": "Senior dạy bạn 1 kỹ năng tại sân (bunker shot, putting line, approach club selection) = moment relationship-building strong nhất trong 6 tiếng round. Tip:\n- ✅ **Hỏi cụ thể** trước khi senior offer ('どう打つんだろう' — Dũng nói lớn cho Ōgaki nghe).\n- ✅ **Thử ngay** sau khi học — không nói 'để em tập sau'.\n- ✅ Sau khi thành công, **cảm ơn cụ thể** ('スタンスのアドバイス、効きました').\n- ❌ Đừng giả ngu để xin dạy — senior nhận ra ngay."
+      }
+    },
+    {
+      "n": 10,
+      "time": "Sat 15:30",
+      "location": "Hole 18 — finish round",
+      "setting": "Hole cuối 18, par 4. Matsumoto putt birdie từ 4m. Dũng làm caddie phụ cầm cờ pin (pin flag).",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "ズンさん、ピン抜いてもらえる?",
+          "vi": "Dũng, rút cờ pin giúp anh được không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい!",
+          "vi": "Vâng!"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng rút cờ pin, định để xuống green ngay sát hole — sai vị trí, pin sẽ làm khó khi roll bóng vào hole.]"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(優しく)ズンさん、ピンはもう少し離して、グリーンの外に置いて。グリーンの上に置くと、芝が傷む。",
+          "vi": "(nhẹ nhàng) Dũng à, cờ pin đặt xa thêm chút, đặt ngoài green. Đặt trên green sẽ làm hỏng cỏ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "あ、すみません、知らなかった。",
+          "vi": "À, em xin lỗi, em không biết."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng cầm cờ ra ngoài green, đặt nhẹ trên fringe. Matsumoto putt — bóng lăn theo line cong, vào hole.]"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(ガッツポーズ)よし!",
+          "vi": "(siết tay) Yes!"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "ナイスバーディー、松本さん!",
+          "vi": "Birdie đẹp, anh Matsumoto!"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "おめでとうございます!",
+          "vi": "Chúc mừng anh!"
+        },
+        {
+          "speaker": "zun",
+          "ja": "おめでとうございます、最終ホールでバーディーかっこいいです!",
+          "vi": "Chúc mừng anh, hole cuối birdie ngầu quá ạ!"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(ピンを刺し直して)ズンさん、ピンの置き方、後で覚えとこう。グリーンを大事にするのが日本ゴルフの基本。",
+          "vi": "(cắm cờ pin lại) Dũng à, cách đặt pin nhớ cho lần sau. Giữ green cẩn thận là cơ bản của golf Nhật."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Cờ pin etiquette",
+        "body": "Khi host putt, junior cầm cờ pin = nghi thức:\n- ✅ Rút cờ pin ra **trước khi host putt**, không sau.\n- ✅ Đặt cờ pin **ngoài green hoặc trên fringe** — không trên mặt green.\n- ✅ Sau khi bóng vào hole, **cắm cờ pin lại** trước khi rời.\n- ❌ Đừng quăng cờ pin xuống — luôn đặt nhẹ nhàng (cờ có metal, có thể làm rách green).\n- Lỗi nhỏ này host **sẽ dạy nhẹ nhàng** chứ không la — nhưng tránh được là chuyên nghiệp hơn."
+      }
+    },
+    {
+      "n": 11,
+      "time": "Sat 16:00",
+      "location": "Onsen trong club house (1.5h relax)",
+      "setting": "Sau round 18 hole, vào onsen club house. Bồn nước nóng nhỏ + sauna + nước lạnh. Cả 4 nam vào cùng. Dũng đã đọc sách 07 nhưng vẫn lúng túng.",
+      "lines": [
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng vào locker phòng thay đồ. Cởi quần áo. Cầm khăn nhỏ. Theo Tuấn ra khu rửa người trước khi vào bồn.]"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(小声、日本語)ズン、座って洗う。シャワー直接ダメ、隣に水飛ぶから。",
+          "vi": "(nhỏ giọng, tiếng Nhật) Dũng, ngồi rửa. Đứng dưới vòi không được, nước bắn người bên cạnh."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(小声)了解。",
+          "vi": "(nhỏ giọng) Vâng anh."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng ngồi ghế nhựa thấp, rửa kỹ 5 phút. Vào bồn — nước 42°C, hơi nóng. Khăn nhỏ — Dũng để trên đầu.]"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(隣の湯舟)ズンさん、ベトナムは温泉あるの?",
+          "vi": "(bồn bên cạnh) Dũng, Việt Nam có onsen không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "あ、自然温泉は北部の Sapa とか中部に少しあります。日本ほど多くないし、文化として『裸で入る』はないですね。水着で入る感じ。",
+          "vi": "À, onsen tự nhiên thì miền Bắc Sapa hoặc miền Trung có chút. Không nhiều như Nhật, văn hóa cũng không phải 'cởi đồ vào'. Mặc đồ bơi vào kiểu spa."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "なるほど、文化違うな。日本人にとって温泉は『裸の付き合い』、社会の縮図。",
+          "vi": "À, văn hóa khác nhỉ. Với người Nhật onsen là 'hadaka no tsukiai' — quan hệ trần trụi, là microcosm xã hội."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "今日初めてのゴルフ後の温泉、どう?",
+          "vi": "Onsen sau golf lần đầu, thấy sao?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "気持ちいいです。筋肉ほぐれる感覚、6 時間歩いた疲れが…抜けていく感じ。",
+          "vi": "Dễ chịu lắm anh. Cảm giác cơ mềm ra, cơn mệt 6 tiếng đi bộ… như tan đi vậy."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "それが onsen の力。だからゴルフの後は必ず温泉に入る。",
+          "vi": "Đó là sức mạnh của onsen. Vì vậy sau golf nhất định vào onsen."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "ズンさん、5 分で出よう、長くいると逆にバテる。",
+          "vi": "Dũng à, 5 phút rồi ra nhé, ngâm lâu lại đuối."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng ngâm 5 phút, ra. Sauna 8 phút. Nước lạnh 30 giây. Lặp 2 lần. Sau 1 tiếng, người nhẹ tênh.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Onsen sau golf — review từ sách 07",
+        "body": "**Ôn lại từ sách 07 (rule onsen):**\n- ✅ Ngồi ghế nhựa rửa người 5 phút trước khi vào bồn.\n- ✅ Khăn nhỏ trên đầu hoặc cạnh bồn — không nhúng vào nước.\n- ✅ Tóc dài thì cột lên.\n- ❌ Không bơi, không ngụp, không nói to.\n- ❌ Nếu có hình xăm to, **báo trước** cho host về sân onsen có chấp nhận không (nhiều sân JP cấm xăm).\n\n**Topic an toàn trong bồn**: thời tiết, cảm nhận onsen, hỏi quê khách. Tránh business."
+      }
+    },
+    {
+      "n": 12,
+      "time": "Sat 17:30",
+      "location": "Lobby club house — chia tay",
+      "setting": "Sau onsen + thay đồ + ăn nhẹ. Score card đã sign. Đứng lobby chờ taxi đến.",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "ズンさん、トゥアンさん、今日は本当にお疲れ様。楽しかった?",
+          "vi": "Dũng, Tuấn hôm nay vất vả thật. Vui không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、人生で一番楽しいゴルフでした。バンカーショットも出せて、温泉も気持ちよくて。",
+          "vi": "Có ạ, vui nhất đời em chơi golf rồi. Bunker cũng thoát được, onsen cũng thoải mái."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "ありがとうございました、誘っていただいて本当に光栄です。",
+          "vi": "Cảm ơn anh, được mời chúng em vinh dự lắm."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "実はね、来月もう1回行こうかと思ってるんだ。同じメンバーで。どう?",
+          "vi": "Thật ra tháng sau tôi định đi thêm 1 lần nữa. Cùng nhóm này. Sao cậu?"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng vui — nhưng nhớ tháng sau là sprint cuối Phase 4, schedule rất căng. Suy nghĩ 1 nhịp.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "光栄です。来月の Phase 4 スプリントの状況見て、フオン副部長に確認してから、必ずお返事します。",
+          "vi": "Vinh dự lắm ạ. Em xem tình hình sprint Phase 4 tháng sau, hỏi chị Hương rồi nhất định em sẽ trả lời anh."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "了解、無理しないで。仕事優先。日程候補だけ Slack で送っとくね。",
+          "vi": "Rõ, đừng cố. Việc ưu tiên. Tôi gửi Slack vài ngày candidate trước."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "ズンさん、バンカー、次回までに練習しておいで。来月もう1回やったらもう怖くない。",
+          "vi": "Dũng à, bunker tập trước nhé. Tháng sau làm thêm 1 lần là không sợ nữa."
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、練習場で月 2 回練習します。",
+          "vi": "Vâng, em sẽ tập sân tập 2 lần/tháng."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "じゃあ、また。気をつけて帰ってね。",
+          "vi": "Vậy hẹn gặp lại. Về cẩn thận nhé."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Khách rủ next time = signal trust deepen",
+        "body": "Host rủ 'tháng sau làm tiếp' = relationship đã sang level mới. Cách trả lời:\n- ✅ **Cảm ơn rõ ràng** ('光栄です').\n- ✅ **Không hứa cụ thể ngay** nếu chưa check schedule — chuyên nghiệp hơn câu 'はい行きます!' rồi sau đó cancel.\n- ✅ **Cam kết timeline trả lời** ('日程候補もらってからお返事します').\n- ❌ Đừng từ chối thẳng dù bận — request schedule alternative."
+      }
+    }
+  ],
+  "recap": {
+    "setting": "Trên xe taxi về Tokyo, 18:30. Dũng + Tuấn ngồi sau, mệt nhưng phấn khởi.",
+    "format": "code_block",
+    "content": "2026-06-XX  Golf round 18 hole, Chiba. Matsumoto + Ōgaki + Tuấn + em.\n\n3 điều rút ra:\n1. Mulligan host offer hole 1 = gesture trust, không phải pity.\n   → Cảm ơn rõ ràng, dùng 1 lần, không xài lại.\n2. Ōgaki dạy bunker shot tại sân = moment relationship-building strong nhất round.\n   → Senior teaching = relationship deepen, hỏi cụ thể + thử ngay + cảm ơn cụ thể.\n3. Onsen sau golf = tradition. 'Hadaka no tsukiai' — Matsumoto nói có ý nghĩa.\n   → Sau onsen mới thật sự là 1 nhóm.\n\nMistake không lặp:\n- Quên điện thoại trên cart (hole 5) → next time để túi quần.\n- Đặt cờ pin trên green (hole 18) → ngoài green / fringe.\n- Suýt đi giày sneakers vào club house → đổi slipper ngay khi vào.\n\nAction items:\n- [ ] Mai gửi ảnh hole 5 cho Matsumoto qua mail\n- [ ] Đăng ký practice range gần Shinjuku, 2 lần/tháng\n- [ ] Hỏi chị Hương về schedule tháng sau cho Phase 4 sprint\n- [ ] Trả lời Matsumoto về invitation tháng sau trong vòng 5 ngày\n\nMình:\n- Score 65 front nine + 58 back nine = 123 total. Tệ nhưng không bị judge.\n- Matsumoto rủ tháng sau = signal trust deepen, không phải lịch sự.\n- Bunker thoát 1 nhát đầu = lucky nhưng OK lấy lại self-confidence.\n- Mệt cả người nhưng đầu nhẹ. Onsen là magic."
+  }
+}

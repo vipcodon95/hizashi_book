@@ -1,0 +1,107 @@
+# Rule 27 — Thank-you slide / 謝辞スライド
+
+> **Luận điểm.** Slide cuối **không phải** "Thank You" chữ to giữa màn hình. Format chuẩn JP business: ① 「ありがとうございました」 trên cùng → ② **Recap 3 takeaways** lại 1 lần → ③ **Contact info** (presenter + co-presenter) → ④ **QR code** dẫn về deck PDF. Slide này phải lên trong khi đang đàm thoại closing — khán giả còn nhìn slide khi rời phòng → ấn tượng cuối đọng lại.
+>
+> 謝辞スライドは「Thank You」だけでは弱い。①御礼 ②3点 recap ③連絡先 ④QR で deck PDF。退室時の最後の image。
+>
+> **Liên quan:** rule 26 (closing CTA), rule 28 (followup email).
+
+---
+
+## Bối cảnh / 場面
+
+Dũng đang finalize deck. Đến slide cuối — chuẩn bị làm "Thank You" chữ to. Anh Tuấn (technical lead) review pass-by và chỉnh.
+
+---
+
+## ❌ Hội thoại XẤU — slide trống "Thank You"
+
+*nhìn qua vai*
+
+| Speaker | Câu |
+|---------|-----|
+| **トゥアン** | 「最後のスライド、『Thank You』だけ？」 |
+| **ズン** | 「はい、シンプルがいいかと…」 |
+| **トゥアン** | 「客が退室するまでこの slide が壁に映ってる時間、何分？5分以上だぞ。**情報密度ゼロ**で5分は **mottainai**。」 |
+| **ズン** | 「あ、なるほど…」 |
+
+**Vì sao xấu:** Slide cuối thường được chiếu 5-10 phút trong khi small talk + pack up. Trống = mất cơ hội reinforcement. "Thank You" tiếng Anh trên màn hình client Nhật cũng hơi off-tone.
+
+---
+
+## ✅ Hội thoại TỐT — Thank-you slide đầy đủ 4 thành phần
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「**4要素入りの謝辞スライド** に変更しました【1】。①御礼、②本日の3点 recap、③連絡先、④deck PDF の QR コード。」 |
+| **トゥアン** | 「いいね、QR は何先？Drive 直リンク？」 |
+| **ズン** | 「Drive **閲覧専用** リンクの QR です【2】。**ダウンロード可、編集不可**。Tanaka PMO 様にも同じリンク Slack で共有予定です。」 |
+| **トゥアン** | 「連絡先は弊社2名 (ズン＋ハーCTO) でいいけど、**営業時間** 書いとけよ。客が深夜メールで気を遣わない様に。」 |
+| **ズン** | 「『9:00-18:00 (JST)』追記します【3】。」 |
+
+📝 **Ghi chú:**
+- 【1】**4要素 = ① 御礼 ② Recap 3点 ③ Contact ④ QR**. Skip một là wasted slide.
+- 【2】**Drive 閲覧専用 リンク** — KHÔNG public. 閲覧 = read-only, không cho edit. QR phía dưới-phải, kích thước 4cm² đủ scan từ smartphone.
+- 【3】**営業時間 (JST) ghi rõ** — khách Nhật rất chú trọng work-life balance, biết presenter offline lúc nào → respect.
+
+---
+
+## 🎯 Câu chốt
+
+> **Thank-you slide = ① ありがとうございました ② Recap 3点 ③ Contact (2 người + 営業時間) ④ QR Drive 閲覧専用.**
+>
+> *Không slide trống. 5-10 phút chiếu cuối là cơ hội reinforce, không phải để wasted.*
+
+---
+
+## 📐 Template Thank-you slide layout
+
+```
+┌────────────────────────────────────────────┐
+│                                            │
+│   ありがとうございました                  │  ← Title 40pt, center
+│   Cảm ơn quý vị đã dành thời gian          │  ← Subtitle 24pt
+│                                            │
+│   ─────────────────────────────            │
+│                                            │
+│   【本日の3点】                              │  ← Header 28pt
+│   ① Phase 3 スコープ: 19機能              │  ← Body 22pt
+│   ② 価格: 1,200万円 (単価 -8%)             │
+│   ③ 開始 5/15 / リリース 12/15             │
+│                                            │
+│   ─────────────────────────────            │
+│                                            │
+│   【お問合せ】                              │
+│   ズン (BD)        zun@tienphat.vn        │
+│   ハー (CTO)       ha@tienphat.vn         │
+│   営業時間 9:00-18:00 (JST / Mon-Fri)    │
+│                                            │
+│                              [QR コード]   │  ← Bottom-right, 4cm²
+│                              本日のdeck PDF
+│                                            │
+└────────────────────────────────────────────┘
+```
+
+---
+
+## ⚠ Tránh
+
+- "Thank You" trống → wasted 5-10 phút screen time
+- Email cá nhân (gmail) → unprofessional → dùng cty domain
+- QR public link → ai cũng access → leak deck
+- Quên 営業時間 → khách gửi mail 22h thấy ngại
+- Photo của presenter → unnecessary, distracting
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 謝辞 | しゃじ | Lời cảm ơn |
+| 連絡先 | れんらくさき | Contact |
+| 閲覧 | えつらん | Xem (read-only) |
+| 営業時間 | えいぎょうじかん | Giờ làm việc |
+| 退室 | たいしつ | Rời phòng |
+| 情報密度 | じょうほうみつど | Mật độ thông tin |
+| 直リンク | ちょくりんく | Direct link |

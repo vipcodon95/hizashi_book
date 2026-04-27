@@ -1,0 +1,179 @@
+{
+  "rule_id": "rule_11",
+  "rule_slug": "コンテキスト設定",
+  "title": {
+    "ja": "コンテキスト設定",
+    "vi": "Set context + agenda"
+  },
+  "rule_context": {
+    "ja": "冒頭挨拶後、CFO 同席を踏まえ Phase 2 振り返り→状況確認→agenda 提示で共通認識を作る場面。",
+    "vi": "Sau câu mở, có CFO ngồi cùng nên Dũng làm recap Phase 2 → confirm tình hình → đề xuất agenda."
+  },
+  "related_rules": [
+    "rule_10",
+    "rule_17"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 振り返りなし",
+      "label_vi": "XẤU — Không recap",
+      "display_order": 1,
+      "analysis": {
+        "ja": "CFO に context を提供せず discovery 質問を始める。CFO が lost し相手部長に説明させる羽目に。",
+        "vi": "Không cho CFO context, vào discovery luôn. CFO lost, GĐKD phía họ phải đứng ra giải thích thay."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_11_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "では早速、Phase 3 のご要件についてお伺いします。最も重要視されているポイントは何でしょうか？",
+          "sentence_translation": "Vậy em xin phép vào luôn — về yêu cầu Phase 3, mục quý anh xem trọng nhất là gì ạ?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_11_bad_02",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "あ…えっと、Phase 3 って、Phase 2 はどこまで進んだんですか？",
+          "sentence_translation": "À... ờ, Phase 3 ấy à — Phase 2 đã đến đâu rồi nhỉ?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_11_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "中村さん、Phase 2 は昨年12月に完了して、次は…",
+          "sentence_translation": "Anh Nakamura, Phase 2 đã xong tháng 12 năm ngoái, tiếp theo là...",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 振り返り→状況→agenda",
+      "label_vi": "TỐT — Recap → tình hình → agenda",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_11_good_01",
+          "highlight_text": "簡単な振り返り",
+          "ja": "30-45秒の短い recap。長く語らない。CFO 等 new joiner への配慮を明示。",
+          "vi": "Recap ngắn 30-45s, không dài dòng. Show rõ là cân nhắc cho new joiner (CFO)."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_11_good_02",
+          "highlight_text": "月間 GMV +18%、運用コスト -22%",
+          "ja": "数値は「成功」より具体的。trustを瞬時に作る。",
+          "vi": "Con số cụ thể tạo trust nhanh hơn 'thành công' chung chung."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_11_good_02",
+          "highlight_text": "直近で御社側のご状況に変更はございますでしょうか",
+          "ja": "新たな制約 (人事異動・予算変更) を引き出すopen question。proactive intelの源。",
+          "vi": "Open question để moi constraint mới (luân chuyển nhân sự, đổi budget). Nguồn intel proactive."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_11_good_04",
+          "highlight_text": "Phase 3 提案の概要 10 分、(2) 御社側のご質問・ディスカッション 30 分、(3) 価格と次ステップの確認 20 分",
+          "ja": "agenda は時間配分付きで提示。相手と合意することで rule 17 (time-box) の準備。",
+          "vi": "Agenda kèm time-box. Đồng ý với khách = setup cho rule 17 (time management)."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_11_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本題に入ります前に、簡単な振り返りをさせていただきます。中村 CFO 様には Phase 2 の経緯をお伝えする意味でも。",
+          "sentence_translation": "Trước khi vào nội dung chính, xin phép em điểm lại nhanh ạ. Cũng là để truyền lại bối cảnh Phase 2 cho anh Nakamura CFO.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_11_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 2 は昨年 12 月完了、月間 GMV +18%、運用コスト -22% という成果をいただいております。Phase 3 のご相談を 3 月に賜り、今日 3 段階のご提案をお持ちしました。直近で御社側のご状況に変更はございますでしょうか？",
+          "sentence_translation": "Phase 2 hoàn thành tháng 12 năm ngoái, kết quả là GMV tháng +18%, chi phí vận hành -22% ạ. Đề xuất Phase 3 quý anh trao đổi hồi tháng 3, hôm nay em mang 3 phương án ạ. Gần đây phía quý cty có thay đổi gì không ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "2",
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_11_good_03",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "コスト圧縮の方針はより強くなっています。Phase 2 のような ROI が出る案件であれば積極的に検討します。",
+          "sentence_translation": "Phương châm nén chi phí đang mạnh lên. Nếu ROI ra như Phase 2 thì chúng tôi tích cực xem xét.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_11_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "承知しました。それを念頭に進めます。本日のagenda、案として: (1) Phase 3 提案の概要 10 分、(2) 御社側のご質問・ディスカッション 30 分、(3) 価格と次ステップの確認 20 分、合計 60 分。よろしいでしょうか？",
+          "sentence_translation": "Em rõ ạ. Em sẽ lưu ý điều đó. Agenda đề xuất hôm nay: (1) Tổng quan đề xuất Phase 3 — 10 phút, (2) Câu hỏi & thảo luận từ phía quý cty — 30 phút, (3) Xác nhận giá và bước tiếp — 20 phút, tổng 60 phút. Anh thấy ổn không ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "4"
+          ]
+        },
+        {
+          "line_id": "rule_11_good_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "結構です。",
+          "sentence_translation": "Được ạ.",
+          "tone": "neutral"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_11_kp_01",
+      "speaker": "zun",
+      "sentence": "簡単な振り返りをさせていただきます。直近で御社側のご状況に変更はございますでしょうか？",
+      "sentence_translation": "Em xin phép điểm lại nhanh ạ. Gần đây phía quý cty có thay đổi gì không ạ?",
+      "purpose": "コンテキスト設定の標準",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_11_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "コンテキスト設定の3拍として正しいものは？",
+      "options": [
+        "値段提示→交渉→契約",
+        "前回振り返り→状況確認→本日agenda提示",
+        "雑談→自慢→値引き",
+        "謝罪→譲歩→約束"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "コンテキスト設定3拍は「振り返り・状況確認・agenda」。CFO 等 new joiner にも対応。",
+        "vi": "3 nhịp set context: recap / confirm tình hình / đề xuất agenda. Bao gồm cả new joiner như CFO."
+      }
+    }
+  ]
+}

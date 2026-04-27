@@ -1,0 +1,784 @@
+{
+  "$schema_note": "Scenes JSON cho Chương 06 — Onsen retreat 1 đêm.",
+  "chapter_id": "09-06",
+  "chapter_slug": "温泉",
+  "title": {
+    "vi": "Đi onsen 1 đêm cùng khách",
+    "ja": "温泉一泊・関係づくり"
+  },
+  "boi_canh": {
+    "vi": "Tháng 1/2027, sau Tết JP. Matsumoto + Ōgaki rủ Dũng + Tuấn weekend retreat onsen Atami (1 đêm Sat-Sun). Mục tiêu: relationship deepen sau MoU Phase 5 sign. Onsen retreat = level intimate hơn golf hay dinner — overnight cùng nhau.",
+    "ja": "2027年1月、日本の正月明け。松本+大垣がズン+トゥアンを熱海温泉一泊週末リトリートに招待。フェーズ5 MoU後の関係深化が目的。"
+  },
+  "bi_quyet_tong": [
+    "Onsen overnight retreat = relationship level cao nhất ngoài wedding. Mời được = trust signal mạnh.",
+    "Ryokan etiquette nhiều rule: genkan giày, futon, kaiseki order, sake pour. Sách 07 đã dạy — onsen retreat là test thực tế.",
+    "Hình xăm: nhiều ryokan onsen cấm. Báo trước nếu có. Dũng có 1 xăm nhỏ → cần handle.",
+    "Sake nóng / lạnh: cầm chén 2 tay nhận. Không tự rót. Từ chối khéo nếu không uống.",
+    "Conversation cuối onsen 21h-22h = moment thân mật nhất 6 tháng làm việc — khách hay share chuyện gia đình."
+  ],
+  "scenes": [
+    {
+      "n": 1,
+      "time": "Sat 09:00",
+      "location": "Ga Tokyo Shinkansen platform, Tōkaidō line",
+      "setting": "Ga Tokyo platform 14, Shinkansen Kodama đi Atami (≈45 phút). Trời lạnh 6°C. Matsumoto + Ōgaki đã đợi. Dũng + Tuấn đến sau 5 phút.",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "ズンさん、トゥアンさん、おはよう!切符は?",
+          "vi": "Chào Dũng, chào Tuấn! Vé đâu?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "あ、Suica で改札通って、新幹線は車内で買おうかと…自由席で。",
+          "vi": "À, em qua cổng bằng Suica, Shinkansen tính mua trên tàu, ghế tự do…"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(優しく)あ、新幹線は事前予約推奨だよ。Kodama は空いてるから自由席でも座れるけど、念のため。次回は前日に予約しよう。",
+          "vi": "(dịu) À, Shinkansen nên đặt trước cậu nhé. Kodama vắng nên tự do cũng có ghế nhưng cho chắc. Lần sau đặt trước 1 ngày."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng đã quên đặt seat reservation tối qua. May Kodama (loại slow) không phải Nozomi, ghế thường còn. Tự nhủ ghi vào memory bank.]"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(ベトナム語、小声でズンに)Em check xem có 4 ghế cạnh nhau không?",
+          "vi": "(tiếng Việt, nhỏ giọng với Dũng) Em check xem có 4 ghế cạnh nhau không?"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(笑って)自由席は車両2-5号車。早く乗って4席確保しよう。",
+          "vi": "(cười) Tự do là toa 2-5. Lên sớm chiếm 4 ghế."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Tàu vào platform 9:15. Đoàn lên toa 3, may có 4 ghế đối diện rộng. Ngồi xuống. Nhẹ người.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Shinkansen reservation — đặt trước",
+        "body": "Khách JP default đặt seat reservation Shinkansen trước:\n- ✅ **App SmartEX** (JR Tokai) đặt trước qua app, tích hợp Suica.\n- ✅ Reserved seat = ¥530 phụ thu nhưng peace of mind.\n- ✅ **Kodama (slow, all-stop)** vắng nhất, free seat OK. **Nozomi (fast)** ngày Sat đông — bắt buộc reserve.\n- ❌ Junior trong nhóm = mặc định trách nhiệm đặt seat cho cả nhóm. Không đặt = mất face."
+      }
+    },
+    {
+      "n": 2,
+      "time": "Sat 09:45",
+      "location": "Trên Shinkansen Kodama 627, toa 3",
+      "setting": "Tàu chạy 45 phút Tokyo → Atami. Ōgaki rút bento sáng (eki-ben) lớn từ tote bag — chia cho cả 4 người.",
+      "lines": [
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(駅弁を出す)じゃーん、東京駅で買った『深川めし』。1個ずつどうぞ、車内で食べよう。",
+          "vi": "(rút bento) Tèn ten, 'Fukagawa-meshi' mua ở ga Tokyo. Mỗi người 1 hộp, ăn trên tàu."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng cứng người 1 giây — 4 hộp eki-ben ¥1,200 × 4 = ¥4,800. Ōgaki tự trả? Có nên 'bằng giá' lại sau? Không biết câu chuẩn.]"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(姿勢正して)大垣さん、お気遣いありがとうございます。お礼はホテルのコーヒーで…",
+          "vi": "(chỉnh tư thế) Anh Ōgaki, cảm ơn anh đã quan tâm. Để em đãi lại các anh ly cà phê ở khách sạn vậy ạ…"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(笑って)いやいや、これは僕のお誘いだから僕の負担で当然。ズンさんトゥアンさん、今日明日は完全に『お客さん』モードでいて。",
+          "vi": "(cười) Không không, hôm nay là tôi mời nên tôi chịu. Dũng, Tuấn, hôm nay với cả ngày mai cứ ở chế độ 'khách' hoàn toàn nhé."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(両手で受け取る)ありがとうございます、いただきます。",
+          "vi": "(2 tay nhận) Cảm ơn anh, em xin."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(自分の弁当開ける)深川めしは、東京下町の郷土料理。アサリと油揚げのご飯。江戸時代から。",
+          "vi": "(mở bento mình) Fukagawa-meshi là món địa phương khu Shitamachi Tokyo. Cơm với nghêu + đậu hũ chiên. Có từ thời Edo."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(食べる)…うわ、味濃い、白ご飯にぴったり。",
+          "vi": "(ăn)… wow, vị đậm, hợp cơm trắng."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "ベトナムのアサリ料理は?",
+          "vi": "Món nghêu Việt Nam thì?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "Nghêu hấp sả ot — レモングラスと唐辛子で蒸すやつ。ビアホイによく合います。",
+          "vi": "Nghêu hấp sả ớt — món hấp với sả và ớt đó ạ. Hợp bia hơi lắm."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "夏に屋外のビアホイで皆で食べると最高ですね。次回 HCMC visit のときぜひ。",
+          "vi": "Mùa hè ăn ở quán bia hơi ngoài trời với mọi người là tuyệt. Lần HCMC visit sau mời các anh."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(笑顔)約束だね、夏に必ず。",
+          "vi": "(cười) Hứa rồi nhé, mùa hè chắc chắn."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Eki-ben gift từ host — nhận với grace",
+        "body": "Senior host treat eki-ben / drink cho junior trên tàu = small gesture, đừng over-react:\n- ✅ **Nhận 2 tay + 'いただきます'** = chuẩn.\n- ✅ **Tuấn handle smooth** ('hứa coffee khách sạn') = light reciprocate, không heavy.\n- ✅ **Chuyển topic ngay** sang content (nội dung bento) = không dwell on debt feeling.\n- ✅ **Reciprocate sau thật** — Dũng promise 'lần sau HCMC mời ốc' = balance long-term.\n- ❌ **Không** rút ví trả lại — insult host.\n- ❌ Không kéo dài thank you 5 lần."
+      }
+    },
+    {
+      "n": 3,
+      "time": "Sat 10:30",
+      "location": "Ga Atami arrival",
+      "setting": "Atami station, không khí hơi mặn của biển. Trời nắng nhẹ nhưng lạnh 5°C. Xe ryokan đến đón. Dũng mặc thiếu — không khoác áo dày.",
+      "lines": [
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Bước ra ga, gió biển tạt mặt. Dũng mặc 1 áo sơ mi + sweater mỏng. Run.]"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(ズンを見て)あれ、ズンさん、コート持ってない?海風で寒いよ。",
+          "vi": "(nhìn Dũng) Ơ Dũng, không mang áo khoác à? Gió biển lạnh đó."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(手をこすり)あ…HCMC からの感覚で、Tokyo 6度なら何とかなるかと…海風までは想定外でした。",
+          "vi": "(xoa tay) À… cảm giác từ HCMC, em nghĩ Tokyo 6 độ chịu được… không tính tới gió biển."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(マフラー外す)はい、これ貸してあげる。僕は car に荷物用予備持ってきてるから。",
+          "vi": "(tháo khăn quàng) Đây, cậu quàng vào đi. Tôi có khăn dự phòng trong bag rồi."
+        },
+        {
+          "speaker": "zun",
+          "ja": "えっ、いえいえ、大丈夫です…",
+          "vi": "Ơ, không không, em ổn ạ…"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(優しく強引に)寒さで風邪引いたら週末台無し。素直に受けて。",
+          "vi": "(dịu nhưng kiên quyết) Lạnh cảm là phá hỏng weekend. Cứ nhận đi."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(マフラー巻きながら)ありがとうございます、すみません。",
+          "vi": "(quấn khăn) Cảm ơn anh, em xin lỗi."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(笑って)ズンさん、ベトナム南部の人が真冬の関東来るときは『ヒートテック』必須だよ。ユニクロのインナー。",
+          "vi": "(cười) Dũng à, người Nam Việt Nam đi Kanto giữa đông, 'HeatTech' là phải có nha cậu. Inner của Uniqlo."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(ベトナム語、小声)Em note nhe, mai trước về mua 3 cái về VN tặng bố mẹ.",
+          "vi": "(tiếng Việt nhỏ giọng) Em note nhe, mai trước về mua 3 cái về VN tặng bố mẹ."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "車来た、乗ろう。15分で旅館。",
+          "vi": "Xe đến rồi, lên đi. 15 phút là tới ryokan."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Mượn khăn từ senior — accept grace",
+        "body": "Senior offer help (khăn, áo, ô) = đừng từ chối kiêu:\n- ✅ **Từ chối nhẹ 1 lần** ('大丈夫です') = polite.\n- ✅ **Sau senior insist 1 lần → accept** ('ありがとうございます') — đừng lặp 3 lần.\n- ✅ **Acknowledge mistake honest** ('海風想定外でした') — cute.\n- ✅ **Học bài** — Ōgaki dạy HeatTech = local tip thật.\n- ❌ **Pretend OK** rồi run cả ngày — senior thấy còn buồn hơn.\n- Atami Jan-Feb gió biển 5-7°C cảm giác như 0°C — coat + scarf cần."
+      }
+    },
+    {
+      "n": 4,
+      "time": "Sat 11:00",
+      "location": "Ryokan check-in lobby (Ryokan 月の屋, traditional)",
+      "setting": "Ryokan truyền thống 80 năm tuổi. Lobby gỗ + thảm tatami. Bà chủ ryokan ≈65t, kimono đậm. Dũng không biết quy tắc 上がり框 (genkan), giẫm lên tatami với giày — bà chủ nhắc nhẹ.",
+      "lines": [
+        {
+          "speaker": "okami_ryokan",
+          "ja": "(架空、上品な日本語)いらっしゃいませ、お待ちしておりました。",
+          "vi": "(nhân vật phụ, tiếng Nhật trang trọng) Mời quý vị, em đã đợi."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "松本です、4名で予約しています。よろしくお願いします。",
+          "vi": "Matsumoto, đặt 4 người. Nhờ bà."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng bước vào lobby, theo Matsumoto. Có ledge gỗ thấp 30cm phân chia genkan với phần tatami trong. Dũng chưa cởi giày, bước thẳng lên — 1 chân giày dí lên tatami.]"
+        },
+        {
+          "speaker": "okami_ryokan",
+          "ja": "(優しく)あ、お客様、靴をお脱ぎになって、こちらの上がり框からどうぞ。",
+          "vi": "(dịu) Ơ thưa quý khách, phiền cởi giày, lên qua agarikamachi đây ạ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(顔赤く)あ!すみません、知らなくて。",
+          "vi": "(mặt đỏ) A! Em xin lỗi, em không biết."
+        },
+        {
+          "speaker": "okami_ryokan",
+          "ja": "(微笑む)初めてのお客様にはよくあることです。スリッパお出ししますね。",
+          "vi": "(cười) Khách lần đầu hay vậy. Em đưa slipper ạ."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(小声でズンに、ベトナム語)Em đứng ở genkan trước, cởi giày, quay mũi giày ra ngoài, rồi mới bước lên ledge.",
+          "vi": "(nhỏ giọng với Dũng tiếng Việt) Em đứng ở genkan trước, cởi giày, quay mũi giày ra ngoài, rồi mới bước lên ledge."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(ベトナム語)Vâng anh, em note rồi. Nhục.",
+          "vi": "(tiếng Việt) Vâng anh, em ghi rồi. Quê quá."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(笑って)ズンさん、僕も初めての旅館で同じ失敗した。20年前(笑)",
+          "vi": "(cười) Dũng à, ryokan lần đầu của tôi cũng fail vầy. 20 năm trước (cười)"
+        },
+        {
+          "speaker": "okami_ryokan",
+          "ja": "お部屋は2階の『松の間』です。仲居が荷物お運びします。",
+          "vi": "Phòng quý vị là 'Matsu no ma' tầng 2. Nakai (lễ tân riêng) sẽ đem đồ lên."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Genkan + agarikamachi — quy tắc cởi giày",
+        "body": "Ryokan truyền thống phân khu rõ:\n- **玄関 (genkan)** = khu thấp ngay cửa, đi giày OK.\n- **上がり框 (agarikamachi)** = ledge gỗ phân chia.\n- **Tatami / hành lang gỗ** = chân không / slipper / tabi only.\n\nQuy tắc:\n- ✅ Đứng ở genkan, cởi giày.\n- ✅ **Quay mũi giày ra ngoài** (= nghi thức cho người dọn).\n- ✅ Bước lên agarikamachi với chân không hoặc slipper ryokan.\n- ❌ **Tuyệt đối không giẫm giày lên tatami** — coi là 失礼.\n- Dũng fail = chuyện rất phổ biến lần đầu, bà chủ tốt sẽ nhắc nhẹ.\n- Tip: quan sát Matsumoto / Ōgaki, copy hành động."
+      }
+    },
+    {
+      "n": 5,
+      "time": "Sat 12:30",
+      "location": "Phòng tatami chung 'Matsu no ma' — lunch trong phòng",
+      "setting": "Phòng 16 tatami, view núi. Bàn thấp giữa phòng, 4 chỗ ngồi zabuton. Lunch kaiseki nhẹ 9 món ra trên khay. Dũng không biết tên 7/9 món.",
+      "lines": [
+        {
+          "speaker": "nakai",
+          "ja": "(架空、料理を運ぶ)お昼の懐石でございます。本日は…(各品の説明)…前菜は香箱蟹、お造りは金目鯛、煮物は冬瓜と…",
+          "vi": "(nhân vật phụ, đem đồ ăn) Kaiseki bữa trưa đây ạ. Hôm nay là… (giải thích từng món)… khai vị là cua kobako, sashimi là cá kinmedai, món ninh là bí đao và…"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng nghe — nhận ra 'kani' (cua), 'sashimi'. Còn lại blur. Mặt giữ neutral.]"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(ズンに優しく)ズンさん、料理の名前、ベトナムで言うものなくて分からないと思うけど、気にしないで。食べたい順に食べていいよ。",
+          "vi": "(dịu với Dũng) Dũng à, tên món Việt Nam không có tương đương nên không hiểu là chuyện thường. Đừng để ý. Ăn theo thứ tự thích là được."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(指差す)これ、香箱蟹。北陸の特産。蟹の身と内子と外子、3層になってる。一口で全部入れて。",
+          "vi": "(chỉ tay) Cái này là cua kobako, đặc sản vùng Hokuriku. Thịt cua, trứng trong, trứng ngoài — 3 lớp. Cho hết vào miệng 1 lần."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(一口で食べる)…おお、層ごとに味違う、面白い!",
+          "vi": "(ăn 1 miếng)… ôi, mỗi lớp vị khác nhau, thú vị!"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(順番に説明)これは『金目鯛』、伊豆半島の高級魚。お造りで脂があって…これは冬瓜の煮物、出汁が染みてる…",
+          "vi": "(giải thích từng món) Đây là 'kinmedai', cá cao cấp bán đảo Izu. Sashimi có mỡ… Đây bí đao ninh, dashi thấm đẫm…"
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "松本さん、こんなに丁寧に説明してくださって、贅沢なランチになりました。",
+          "vi": "Anh Matsumoto, anh giải thích kỹ vầy, bữa trưa thành xa xỉ."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "いやいや、知らない料理は食べてもピンと来ない。説明があると味も変わる。",
+          "vi": "Không không, món không biết ăn không cảm nhận được. Có giải thích vị cũng đổi."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng cảm nhận — Matsumoto đang dạy Dũng về kaiseki không phải pretentious. Là gesture nuôi dưỡng. Note vào memory bank.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(食べながら)松本さん、最後のこの椀、お吸い物?",
+          "vi": "(vừa ăn) Anh Matsumoto, bát cuối là osuimono?"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "そう、お吸い物。蛤の出汁、繊細。最後にゆっくり飲んで。",
+          "vi": "Đúng, osuimono. Dashi từ con hàu, tinh tế. Cuối cùng uống chậm thôi."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Kaiseki lần đầu — đừng giả vờ biết",
+        "body": "Kaiseki = 5-15 món tiny portion, mỗi món có philosophy. Lần đầu:\n- ✅ **Honest 'không biết'** = trigger senior happily explain. Matsumoto + Ōgaki dạy chi tiết.\n- ✅ **Eat order matters**: 先付 (appetizer) → お造り (sashimi) → 焚合 (simmered) → 揚げ物 (fried) → 蒸し物 (steamed) → 御飯 (rice) → お椀 (soup) → デザート. Default order kaiseki.\n- ✅ **Comment vị** sau khi ăn — host vui.\n- ✅ **Senior dạy = bonding moment** — không phải bị condescend.\n- ❌ **Đừng pretend** biết — fail nhanh hơn (như đụng câu hỏi follow-up về vùng đặc sản)."
+      }
+    },
+    {
+      "n": 6,
+      "time": "Sat 15:00",
+      "location": "Onsen ngoài trời (rotenburo) — bồn lớn nhìn ra biển",
+      "setting": "Onsen rotenburo gỗ, 5×3m, view biển Atami. Trời xám nhẹ, gió biển. Nước nóng 41°C. Dũng có 1 hình xăm nhỏ 3cm vai trái (chữ 'Mẹ' tiếng Việt, từ thời sinh viên). Đã hỏi ryokan trước — accept với band-aid che.",
+      "lines": [
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng vào phòng thay đồ. Cởi áo. Dán band-aid lớn 5×5cm lên xăm. Cầm khăn nhỏ. Ra khu rửa người.]"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Ngồi ghế nhựa thấp. Rửa người 7 phút — kỹ. Theo rule sách 07. Vào bồn — nước 41°C, hơi nóng. Khăn nhỏ trên đầu.]"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(隣の湯舟、湯気越し)ズンさん、海見える?今日少し雲あるけど、晴れてたら遠くに大島見えるんだ。",
+          "vi": "(bồn bên, qua hơi nước) Dũng có thấy biển không? Hôm nay hơi mây, lúc tạnh thấy đảo Ōshima xa."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(海を見る)…あ、見えます、雲の隙間から。何度でも入りたくなる景色。",
+          "vi": "(nhìn biển)… à, thấy rồi anh, qua khe mây. Cảnh muốn vào lại bồn nhiều lần."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(肩までつかる)ふー、極楽…昨日まで Tokyo の予算会議で疲れ切ってた、これでリセット。",
+          "vi": "(ngâm tới vai) Phù, thiên đường… hôm qua đến giờ họp ngân sách Tokyo mệt rã rời, cái này reset luôn."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(温泉に浸かりながら)これがあるから日本人は強いんですね、毎週リセットできる文化。",
+          "vi": "(ngâm trong onsen) Vì có cái này nên người Nhật mạnh nhỉ, văn hóa reset hàng tuần."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "週末温泉、現代の reset ボタン。江戸時代から続いてる。",
+          "vi": "Onsen cuối tuần, nút reset hiện đại. Từ thời Edo."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[15 phút yên lặng. Nghe tiếng nước nóng + sóng biển xa. Dũng cảm thấy 'đầu trong'. Thân nhiệt từ HCMC adjust dần.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ベトナムで自然温泉は北部の Sapa にあります、でも日本のような『裸の付き合い』文化はないですね。水着で入る spa の感覚。",
+          "vi": "Việt Nam có onsen tự nhiên ở Sa Pa miền Bắc, nhưng không có văn hóa 'hadaka no tsukiai' như Nhật. Cảm giác spa mặc đồ bơi."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "服を脱ぐ = 立場を脱ぐ、と日本では言う。社長も新人も同じ湯。",
+          "vi": "Người Nhật có câu: cởi quần áo là cởi cả địa vị. Giám đốc với nhân viên mới cũng chung một bồn nước."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "ズンさん、日本企業のオフサイトで温泉重視するの、これが理由。",
+          "vi": "Dũng à, doanh nghiệp Nhật offsite quý onsen, lý do này đó."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng hiểu sâu hơn. Trước đây nghĩ onsen = relax. Giờ thấy = ritual equalize hierarchy.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Hình xăm + onsen — báo trước",
+        "body": "Nhiều ryokan onsen JP cấm tattoo (legacy yakuza ban). Cách handle:\n- ✅ **Pre-call ryokan** check policy — Tuấn / host cty bạn đặt phòng có thể hỏi giúp.\n- ✅ **Xăm nhỏ < 5cm**: nhiều ryokan accept với band-aid che ('シール対応').\n- ✅ **Xăm to**: cần chọn ryokan tattoo-friendly (Booking.com filter), hoặc book private onsen (家族風呂).\n- ❌ Đừng giấu rồi vào — bị phát hiện = bị mời ra = embarrassing cho bạn + host.\n\nMessage onsen sâu hơn relax: '裸の付き合い' = ritual equalize hierarchy. Hiểu được = level intimacy mới với khách JP."
+      }
+    },
+    {
+      "n": 7,
+      "time": "Sat 17:00",
+      "location": "Sảnh ryokan, trà chiều với wagashi",
+      "setting": "Sảnh có tatami + tranh thư pháp + bonsai. Bà chủ phục vụ trà matcha + wagashi (kẹo Nhật). Dũng chưa quen vị matcha đắng — Matsumoto thấy.",
+      "lines": [
+        {
+          "speaker": "okami_ryokan",
+          "ja": "本日のお茶は宇治の薄茶でございます。お菓子と一緒にお召し上がりください。",
+          "vi": "Trà hôm nay là usucha Uji ạ. Mời quý vị thưởng thức cùng wagashi."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng cầm chén. 2 tay, xoay chén 90° (đã đọc rule sách 07). Uống ngụm đầu — đắng. Cố giữ mặt neutral nhưng môi nhăn nhẹ.]"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(笑って)ズンさん、お茶苦かった?",
+          "vi": "(cười) Dũng à, trà đắng à?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(正直)はい、薄茶でも初めての強さです。",
+          "vi": "(thật) Vâng, dù là usucha lần đầu em uống mạnh vầy."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "じゃあ、お菓子先に食べて。和菓子の甘さでお茶のバランス取れるから。",
+          "vi": "Vậy ăn wagashi trước. Vị ngọt wagashi balance trà."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng cắn 1 miếng wagashi — bột nếp + đậu đỏ ngọt mềm. Sau đó uống ngụm trà — vị đắng-ngọt-umami balance hoàn hảo. Khác hẳn lần đầu.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(目を見開く)あ、全然違う!和菓子と一緒だと、苦味が深みに変わる。",
+          "vi": "(mắt mở to) À, khác hẳn! Cùng wagashi, vị đắng biến thành depth."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "そう、それが茶道の基本。一つだけだと完成しない、組み合わせで完成する。",
+          "vi": "Đúng, đó là nền tảng trà đạo. Một mình thì chưa trọn vẹn, phải có nhau mới đủ đầy."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "ビジネスも同じだったり(笑)。技術だけ、営業だけ、では完成しない。",
+          "vi": "Business cũng vậy (cười). Tech mỗi mình, sales mỗi mình, không hoàn thiện."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(微笑む)Phase 5 もそうですね、白鷗とティエンファットの組み合わせ。",
+          "vi": "(cười) Phase 5 cũng vậy nhỉ, kết hợp Hakuō với Tien Phat."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "うまい比喩。来月のキックオフでズンさん、これ言ってよ。",
+          "vi": "Ẩn dụ hay. Kickoff tháng sau Dũng nói câu này nhé."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(笑って)了解、茶道とビジネスの比喩、メモします。",
+          "vi": "(cười) Vâng, ẩn dụ trà đạo với business, em note."
+        }
+      ],
+      "bi_quyet": {
+        "title": "Matcha lần đầu — wagashi là bạn",
+        "body": "Matcha (薄茶 / 濃茶) đắng intense với người mới:\n- ✅ **Wagashi (kẹo ngọt) ăn TRƯỚC trà** — không phải sau. Vị ngọt ngấm vào lưỡi → trà sau cảm giác balance hơn.\n- ✅ **2 tay nhận chén**, xoay 90° (chuyển mặt design ra phía host).\n- ✅ **Honest reaction** — Matsumoto value honest > pretend đắc đạo.\n- ✅ **Discovery moment** ('khác hẳn!') = win, host vui được dạy.\n- ✅ Câu của Matsumoto '茶道 = combination not single' = wisdom moment, note for kickoff present."
+      }
+    },
+    {
+      "n": 8,
+      "time": "Sat 19:00",
+      "location": "Phòng tatami — kaiseki dinner 12 món",
+      "setting": "Tối, phòng tatami chuẩn bị bàn thấp + 4 chỗ. Nakai bưng kaiseki ra 1 món/lần. Sake nóng (atsukan) ra round 2. Ōgaki rót cho mọi người.",
+      "lines": [
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(徳利を持つ)じゃあ、まずは温かい燗酒で乾杯しよう。ズンさん、グラス出して。",
+          "vi": "(cầm tokkuri) Vậy, đầu tiên kanpai với sake nóng. Dũng đưa chén ra."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng cầm chén o-choko bằng 2 tay (rule sách 07 + sách 08). Hơi cúi đầu.]"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(注ぐ)はい。",
+          "vi": "(rót) Đây."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ありがとうございます。",
+          "vi": "Cảm ơn anh."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng cầm tokkuri rót lại cho Ōgaki — 2 tay rót, không tự rót cho mình. Sau đó Tuấn rót cho Dũng.]"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(全員グラス持つ)じゃあ改めて、フェーズ5の成功と、今夜の出会いに、乾杯。",
+          "vi": "(mọi người cầm chén) Vậy lại lần nữa, vì thành công Phase 5 và cuộc gặp tối nay, kanpai."
+        },
+        {
+          "speaker": "all",
+          "ja": "乾杯。",
+          "vi": "Kanpai."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Sake nóng vào miệng — vị umami + alcohol nhẹ. Ấm cổ. Khác hẳn vodka VN. Dễ uống.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "燗酒、初めて飲みました。米の香りが豊かで…これ、飲みやすい。",
+          "vi": "Atsukan em mới uống lần đầu. Hương gạo nồng… dễ uống thật."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "燗酒は冬限定の楽しみ。冷やや常温とは違う表情になる。",
+          "vi": "Atsukan là niềm vui giới hạn mùa đông. Vị khác lạnh hoặc thường nhiệt."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(2杯目を注ごうとする)もう1杯どう?",
+          "vi": "(định rót ly 2) Thêm 1 ly không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(両手でグラス出す)ありがとうございます、半分だけお願いします、明日朝のため。",
+          "vi": "(2 tay đưa chén) Cảm ơn anh, nửa thôi ạ, để sáng mai tỉnh."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(笑って)賢い。じゃあ半分。",
+          "vi": "(cười) Khôn ghê. Vậy rót nửa thôi."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Kaiseki ra liên tục: tempura ebi, yakitori, nimono, stew bò Hida-Takayama. Mỗi món Matsumoto / Ōgaki giải thích vùng. 1.5 tiếng dinner.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Sake pour etiquette — 2 tay + half-cup khôn",
+        "body": "Sake nóng (atsukan) ryokan winter:\n- ✅ **2 tay cầm o-choko** nhận sake.\n- ✅ **Không tự rót** — chờ người khác rót, hoặc rót cho người khác trước.\n- ✅ **Ngửa chén nhẹ** khi nhận để dễ rót.\n- ✅ **Half-cup khi từ chối khéo** — 'sáng mai tỉnh' = pro reason. Senior accept ('khôn').\n- ❌ **Tuyệt đối không úp chén** xuống = signal 'ngừng forever' rude.\n- ❌ **Không từ chối hoàn toàn round 1** — ít nhất nhận symbol.\n- Atsukan dễ uống hơn cold sake → Dũng new to alcohol JP có thể start đây."
+      }
+    },
+    {
+      "n": 9,
+      "time": "Sat 21:00",
+      "location": "Onsen indoor lần 2 (sau dinner)",
+      "setting": "Onsen indoor nhỏ 30 phút sau dinner. Chỉ Ōgaki + Dũng còn 2 người (Matsumoto + Tuấn về phòng đọc sách). Ōgaki bắt đầu chia sẻ chuyện gia đình — lần đầu Dũng nghe senior open như vậy.",
+      "lines": [
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Onsen indoor nhỏ, ánh sáng vàng. 21h. Dũng + Ōgaki ngâm 2 góc bồn. Im lặng 5 phút. Hơi nước. Mùi hinoki.]"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(湯気越し、ゆっくり)ズンさん、家族の話、聞いてもいい?ご両親、HCMC?",
+          "vi": "(qua hơi nước, chậm) Dũng à, hỏi chuyện gia đình được không? Bố mẹ HCMC?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、両親 HCMC、父はリタイア前は教師、母は今も小さい商売しています。妹が1人、まだ大学生。",
+          "vi": "Vâng, bố mẹ HCMC, bố trước nghỉ là giáo viên, mẹ giờ vẫn buôn bán nhỏ. Em gái 1 người, vẫn đại học."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "なるほど。実はね、僕も父が教師だった。ズンさんの話、急に共感した。",
+          "vi": "À. Thật ra, bố tôi cũng là giáo viên. Nghe chuyện Dũng, đột nhiên đồng cảm."
+        },
+        {
+          "speaker": "zun",
+          "ja": "本当ですか?",
+          "vi": "Thật ạ?"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "うん、京都の高校で物理。8年前に亡くなった。68歳で、早かった。",
+          "vi": "Ừ, dạy vật lý cấp 3 Kyoto. 8 năm trước mất. 68 tuổi, sớm."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng giật mình. Ōgaki — senior 営業部長 sharp negotiator — đang share chuyện gia đình loss intimate. Dũng cần response gì?]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(声を落とす)…大垣さん、お父様のこと、お辛かったでしょうね。",
+          "vi": "(hạ giọng)… anh Ōgaki, chuyện bố anh, anh đã rất khó khăn nhỉ."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "うん。仕事忙しくて、あまり実家帰れなかった。最後の3年、もっと話せばよかったって、今でも思う。だから、ズンさんに一言。",
+          "vi": "Ừ. Công việc bận quá, ít khi về quê được. Ba năm cuối, giờ tôi vẫn cứ nghĩ — giá mà mình nói chuyện với ông nhiều hơn. Nên muốn nói Dũng một câu."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "ズンさん、Tokyo onsite が長引いて、ご両親に会いに HCMC 帰れない時期が来るかもしれない。仕事大事だけど、ご両親との時間も同じくらい。月1回は短くても帰省するか、ビデオ通話するか。後悔しないで。",
+          "vi": "Dũng à, onsite Tokyo có thể kéo dài, có thể đến giai đoạn không về HCMC gặp bố mẹ được. Công việc quan trọng nhưng thời gian với bố mẹ cũng tương đương. Tháng 1 lần dù ngắn cũng về, hoặc video call. Đừng hối tiếc."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Dũng nín lặng 5 giây. Câu Ōgaki không phải career advice — life advice. Cảm thấy quan trọng hơn promotion.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(心から)大垣さん、ありがとうございます。心に深く受け止めます。HCMC の両親、来週ビデオ電話入れます。",
+          "vi": "(thật lòng) Anh Ōgaki, em cảm ơn anh. Em xin khắc cốt ghi tâm ạ. Bố mẹ HCMC, tuần sau em video call."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(優しく)それで十分。さあ、僕は出るね、長く入りすぎた。先に部屋帰ってる。",
+          "vi": "(dịu) Vậy đủ rồi. Thôi, tôi ra đây, ngâm lâu quá. Về phòng trước."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ありがとうございました。",
+          "vi": "Cảm ơn anh."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Ōgaki ra. Dũng còn 1 mình bồn. 5 phút nữa. Nhìn trần. Nghe giọng Ōgaki vẫn vang. Cảm thấy chuyển đổi gì đó trong mối quan hệ — Ōgaki giờ không chỉ là 'khách' nữa.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Onsen 21h — moment thân mật nhất",
+        "body": "**Late onsen 1-on-1** (sau dinner, nhỏ, 2 người) = environment senior JP hay open up nhất:\n- Vì tắm trần → cởi vật chất.\n- Vì alcohol nhẹ + warm water → relax.\n- Vì ánh sáng nhỏ + hơi nước → privacy thật.\n- Vì chỉ 2 người → không audience.\n\nResponse pattern khi senior share intimate:\n- ✅ **Lower voice** — match tone.\n- ✅ **Acknowledge emotion** ('お辛かったでしょう') — không try fix.\n- ✅ **Listen don't pivot to self** — đừng kể chuyện mình ngay.\n- ✅ **When asked back** — share honest brief.\n- ✅ **Commit action** ('tuần sau em video call') — nhỏ nhưng concrete.\n- ❌ **Đừng joke** moment này.\n- ❌ **Đừng share rộng** với người khác sau (kể cả Tuấn) — privacy của Ōgaki."
+      }
+    },
+    {
+      "n": 10,
+      "time": "Sat 22:30",
+      "location": "Phòng tatami — futon",
+      "setting": "Sau onsen + thay đồ yukata. Phòng đã được nakai trải futon — 4 cái cách nhau. Matsumoto + Ōgaki phòng khác (2 phòng total). Dũng + Tuấn 1 phòng. Ngồi nói chuyện 30 phút bằng tiếng Việt.",
+      "lines": [
+        {
+          "speaker": "tuan_leader",
+          "ja": "(ベトナム語)Em mệt không?",
+          "vi": "(tiếng Việt) Em mệt không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(ベトナム語)Mệt body nhưng đầu vẫn đầy. Anh Ōgaki vừa share chuyện gia đình, lúc 21h ở onsen.",
+          "vi": "(tiếng Việt) Mệt body nhưng đầu vẫn đầy. Anh Ōgaki vừa share chuyện gia đình, lúc 21h ở onsen."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(ベトナム語)Chuyện gì anh có thể kể không?",
+          "vi": "(tiếng Việt) Chuyện gì anh có thể kể không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(ベトナム語)Anh ấy nói về bố mất 8 năm trước, advice em nhớ về VN gặp bố mẹ thường, không hối tiếc. Em thấy moment intimate, không muốn share rộng.",
+          "vi": "(tiếng Việt) Anh ấy nói về bố mất 8 năm trước, advice em nhớ về VN gặp bố mẹ thường, không hối tiếc. Em thấy moment intimate, không muốn share rộng."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(ベトナム語、頷く)OK, anh respect. Có lẽ relationship Ōgaki - em đã sang level trust mới. Note vào memory bank — không file project, file personal.",
+          "vi": "(tiếng Việt, gật) OK, anh respect. Có lẽ relationship Ōgaki - em đã sang level trust mới. Note vào memory bank — không phải mục project, mà mục personal nhé."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(ベトナム語)Vâng. Em đang nghĩ — onsen retreat ban đầu em nghĩ relax, giờ thấy retreat = container cho conversation không thể happen ở environment khác.",
+          "vi": "(tiếng Việt) Vâng. Em đang nghĩ — onsen retreat ban đầu em nghĩ relax, giờ thấy retreat = container cho conversation không thể happen ở environment khác."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(ベトナム語)Đúng. Đó là lý do người Nhật business dùng onsen offsite. Không phải perk, là tool.",
+          "vi": "(tiếng Việt) Đúng. Đó là lý do người Nhật business dùng onsen offsite. Không phải perk, là tool."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(ベトナム語)Em note rồi. Mai sáng dậy 7h ăn breakfast với cả nhóm, 11h Shinkansen về Tokyo.",
+          "vi": "(tiếng Việt) Em note rồi. Mai sáng dậy 7h ăn breakfast với cả nhóm, 11h Shinkansen về Tokyo."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(ベトナム語)Ngủ. Mai dậy ăn cơm gohan + cá nướng ngon lắm.",
+          "vi": "(tiếng Việt) Ngủ. Mai dậy ăn cơm gohan + cá nướng ngon lắm."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Tắt đèn. Futon ấm, mùi tatami nhẹ. Ngoài cửa sổ tiếng sóng biển xa. Dũng ngủ trong 5 phút.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Debrief với người cùng cty trước khi ngủ",
+        "body": "30 phút trước khi ngủ với người Việt cùng cty (Tuấn) sau onsen retreat:\n- ✅ **Process emotion** — chuyển trải nghiệm từ raw feeling sang articulated insight.\n- ✅ **Decide what to share / not share** — Tuấn respect Dũng giữ Ōgaki story riêng.\n- ✅ **Memory bank tagging**: file 'personal' vs 'project' — Ōgaki father story = personal, không vào CRM.\n- ✅ **Capture meta-insight** ('onsen = tool not perk') — apply cho future.\n- Không lảng vảng quá lâu (30 phút max) — sáng mai 7h dậy."
+      }
+    },
+    {
+      "n": 11,
+      "time": "Sun 11:00",
+      "location": "Ga Atami departure",
+      "setting": "Sáng chủ nhật, sau breakfast 7h + onsen lần 3 sáng + check-out 10:30. Ra ga Atami. Lên Shinkansen 11:15 về Tokyo. Dũng trên đường ra ga ghé vending machine, mua 1 lon cà phê hộp ¥130 — đưa Matsumoto.",
+      "lines": [
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Đứng platform, gió biển nhẹ. Matsumoto + Ōgaki + Tuấn xếp hàng chờ tàu. Dũng nhanh chân ra vending machine cách 20m, nhét ¥130, lấy 1 lon BOSS café latte ấm.]"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(松本に手渡す)松本さん、これ、新幹線で温まる用に。",
+          "vi": "(đưa Matsumoto) Anh Matsumoto, cái này, để ấm lên trên Shinkansen."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(受け取る、目細める)…ありがとう、ズンさん。気が利くね。",
+          "vi": "(nhận, cười khẽ)… cảm ơn Dũng. Cậu chu đáo thật."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(笑って)ズンさんに気を使われちゃった、嬉しいけど(笑)",
+          "vi": "(cười) Bị Dũng quan tâm, vui ghê (cười)"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(大垣にも別の缶を渡す)大垣さんにも。",
+          "vi": "(đưa Ōgaki lon khác) Của anh Ōgaki nữa."
+        },
+        {
+          "speaker": "tuan_leader",
+          "ja": "(笑って、自分のも見せる)私も持ってきました。",
+          "vi": "(cười, khoe của mình) Em cũng có."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(感心)2人とも気が利く。チームワークだね。",
+          "vi": "(ấn tượng) Cả 2 đều tinh tế. Teamwork nhỉ."
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Tàu vào platform 11:15. Lên toa 4 (đặt trước rồi — Tuấn đặt online tối qua). Ngồi xuống.]"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "(車内で缶開ける)ズンさん、温泉旅、楽しかった?",
+          "vi": "(trong tàu mở lon) Dũng à, chuyến onsen vui không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "本当に楽しかったです。日本に来て一番リラックスした週末でした。お招きいただき本当にありがとうございました。",
+          "vi": "Thực sự vui ạ. Cuối tuần thư giãn nhất từ khi sang Nhật. Cảm ơn các anh đã mời."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "また来たいね、桜の季節とか。",
+          "vi": "Muốn đến nữa, mùa hoa anh đào chẳng hạn."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "じゃあ、3月か4月に1回計画しよう。今度はトゥアンの奥さんとか、家族も呼んで?",
+          "vi": "Vậy, tháng 3 hay 4 plan 1 lần nữa. Lần sau rủ cả vợ Tuấn, gia đình cùng đi luôn được không?"
+        },
+        {
+          "speaker": "zun_inner",
+          "ja": "",
+          "vi": "[Lời mời family-level invite. Relationship đã sang chiều khác. Dũng nhìn Tuấn. Tuấn cười.]"
+        }
+      ],
+      "bi_quyet": {
+        "title": "Café ấm sáng ga — closing gesture",
+        "body": "Ngày cuối onsen retreat, sáng ra ga = moment cuối host:\n- ✅ **Vending machine cà phê hộp ¥130** = gesture nhỏ giá rẻ nhưng touching.\n- ✅ **Đưa cả 2 senior** (Matsumoto + Ōgaki) — không quên ai.\n- ✅ **Ấm — phù hợp gió biển sáng**.\n- ✅ Tuấn cũng làm cùng = team coordinated, không 1 người dúi.\n- ✅ **Senior khen 'khí lợi'** = win nhỏ, đóng vòng tròn weekend đẹp.\n\nMatsumoto invite next time + family = relationship đã sang chiều personal, không chỉ business."
+      }
+    }
+  ],
+  "recap": {
+    "setting": "Trên Shinkansen Atami → Tokyo, ghế cửa sổ. Dũng mở memory bank app trong khi Tuấn ngủ gật cạnh.",
+    "format": "code_block",
+    "content": "2027-01-XX  Atami onsen retreat 1 đêm (Sat-Sun) với Matsumoto + Ōgaki + Tuấn\n\n3 điều rút ra:\n1. Onsen retreat ≠ relax. Là TOOL chuyển level relationship.\n   Container cho conversation không thể happen ở environment khác.\n   → Khách JP business dùng onsen offsite có lý do, không phải perk.\n2. Sake cup half-cup khôn = pro reason ('sáng mai tỉnh').\n   → Senior accept + còn khen 'khôn'. Không cần từ chối hoàn toàn.\n3. Matcha + wagashi metaphor — 'combination not single'.\n   → Note for Phase 5 kickoff present. Matsumoto đã suggest.\n\nMistake không lặp:\n- Không reserve Shinkansen seat → next time đặt qua SmartEX trước 1 ngày.\n- Quên áo dày + scarf cho gió biển Atami → next time dù Tokyo 6°C cũng prep gió.\n- Giẫm giày lên tatami genkan → ôn etiquette ryokan trước onsite next time.\n- Quên hỏi ryokan policy tattoo trước → may band-aid OK.\n\n[PERSONAL — không chia sẻ]\nMoment Ōgaki onsen 21h — share chuyện bố. Advice 'gọi bố mẹ\nthường, không hối tiếc'. Ghi sâu. Tuần sau video call HCMC.\nKhông share Tuấn hay ai khác. Privacy của Ōgaki.\n\nAction items:\n- [ ] Tuần sau gọi bố mẹ HCMC video, hỏi sức khỏe — promise Ōgaki\n- [ ] Mua 3 cái HeatTech Uniqlo cho bố mẹ + em gái\n- [ ] Note metaphor matcha-wagashi cho kickoff Phase 5 deck\n- [ ] Trả lời invite Matsumoto tháng 3-4 sau khi check Phase 5 schedule\n- [ ] Mua eki-ben tốt cho lần Shinkansen với khách next time\n- [ ] Reserve Shinkansen seat — check SmartEX app, save preference\n\nMình:\n- Onsen weekend này khác hẳn 6 tháng làm việc trước. Trust deepen real.\n- Ōgaki conversation = career-defining advice ngoài career — về life.\n- Matsumoto invite family = signal bring family in, relationship\n  long-term beyond Phase 5.\n- Mệt body 8 phần, đầu nhẹ 10 phần. Onsen magic thật."
+  }
+}

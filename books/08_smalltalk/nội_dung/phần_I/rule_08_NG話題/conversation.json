@@ -1,0 +1,266 @@
+{
+  "rule_id": "08-08",
+  "rule_slug": "NG話題8選",
+  "title": {
+    "vi": "8 chủ đề cấm tuyệt đối",
+    "ja": "NG話題8選"
+  },
+  "rule_context": {
+    "luan_diem_vi": "8 vùng 'đụng là chết' trong 雑談. 1 phát ngôn sai = mất quan hệ 5 năm. Nhớ thuộc lòng + biết damage control khi team lỡ miệng.",
+    "luan_diem_ja": "雑談における『触れたら破壊』8トピック。一言で5年の関係が消える。リスト暗記 + チームが踏んだ時のリカバリー必須。",
+    "boi_canh_vi": "1.政治 / 2.宗教 / 3.給料 / 4.女性年齢 / 5.占い・血液型 / 6.社内スキャンダル / 7.JP-VN tiêu cực / 8.不倫・離婚.",
+    "boi_canh_ja": "1政治 2宗教 3給料 4女性の年齢 5占い 6スキャンダル 7日越ネガティブ比較 8不倫離婚。",
+    "muc_tieu_vi": "Né 8 NG + damage control + redirect khi khách tự mở."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "03",
+      "topic": "5 levels"
+    },
+    {
+      "book": "08",
+      "rule": "06",
+      "topic": "Chuyển topic"
+    },
+    {
+      "book": "08",
+      "rule": "13",
+      "topic": "家族話の境界"
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "BAD #3 給料 — Hải lỡ miệng, Dũng cứu",
+      "type": "bad",
+      "context_vi": "Lần đầu dinner với Matsumoto. Hải junior hỏi thẳng lương PM. Dũng phải damage control.",
+      "lines": [
+        {
+          "speaker": "hai",
+          "ja": "[NG] 松本さん、白鷗社のPMってお給料いくらぐらいもらえるんですか?ベトナムだと…",
+          "vi": "[NG] Anh Matsumoto, PM ở Hakuō lương khoảng bao nhiêu ạ? Ở Việt Nam thì..."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "いやあ、まあ…色々ですよ…",
+          "vi": "Hà, ờ... cũng tùy thôi..."
+        },
+        {
+          "speaker": "zun",
+          "ja": "すみません松本さん、ハイは入社1年でして…話は変わりますが、先ほどのプロジェクトの件で…",
+          "vi": "Em xin lỗi anh Matsumoto, Hải mới vào 1 năm... À đổi chủ đề, vụ dự án lúc nãy..."
+        }
+      ],
+      "why_bad": "Hỏi lương ở JP = tabooo đậm hơn cả VN, đặc biệt junior hỏi senior. Damage control: xin lỗi giảm nhẹ ('入社1年') + pivot bằng 話は変わりますが. KHÔNG cố giải thích thêm — càng nói càng xấu. Phòng tránh: brief team về 8 NG topics TRƯỚC dinner."
+    },
+    {
+      "scenario": "BAD #4 — confirm tuổi nữ",
+      "type": "bad",
+      "context_vi": "Yamamoto tự share '40 tuổi'. Dũng confirm số tuổi + khen 'trẻ hơn'.",
+      "lines": [
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "私、来年で40やねん。もうね、おばちゃんやで。",
+          "vi": "Chị sang năm 40. Bà cô rồi đó."
+        },
+        {
+          "speaker": "zun",
+          "ja": "[NG] え、40歳ですか?見えませんね、30代前半に見えます!",
+          "vi": "[NG] Ơ, 40 tuổi ạ? Không nhìn ra, em tưởng đầu 30!"
+        }
+      ],
+      "why_bad": "Dù khách tự share, confirm số = fix vào hồ sơ → khách regret. Khen 'trẻ hơn tuổi' = hint 'tuổi của chị có vẻ già'. Đúng: focus vào năng lượng / năng lực, không reference tuổi."
+    },
+    {
+      "scenario": "GOOD #4 — khen năng lượng thay tuổi",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "私、来年で40やねん。もうね、おばちゃんやで。",
+          "vi": "Chị sang năm 40. Bà cô rồi đó."
+        },
+        {
+          "speaker": "zun",
+          "ja": "山本さんはいつもエネルギッシュで、年齢関係なくお仕事のスピードも速いし、本当に尊敬してます。",
+          "vi": "Chị Yamamoto luôn năng động, không liên quan tuổi tác, tốc độ công việc cũng nhanh, em thật sự kính trọng ạ."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "えー、嬉しいやん!まあ、Kansaiの女はパワフルやからね。",
+          "vi": "Ô, vui thế! Phụ nữ Kansai cứng cáp lắm mà."
+        }
+      ]
+    },
+    {
+      "scenario": "BAD #7 — so sánh JP-VN tiêu cực",
+      "type": "bad",
+      "context_vi": "Tuấn say nhẹ ở izakaya, lỡ chê 'JP判断遅い'. Phá 2 năm quan hệ trong 1 câu.",
+      "lines": [
+        {
+          "speaker": "tuan_leader",
+          "ja": "[NG] いやあ、日本の会社って判断遅いですよね。ベトナムだったら3日で決まるのに、日本は3週間…",
+          "vi": "[NG] Hà, công ty Nhật ra quyết định chậm nhỉ. Ở Việt Nam 3 ngày là xong, Nhật 3 tuần..."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "…ああ、まあ、それぞれの文化やね。",
+          "vi": "...à, ờ, mỗi nơi mỗi văn hóa."
+        }
+      ],
+      "why_bad": "Một câu phá 2 năm. Khách Nhật rất nhạy với so sánh culture tiêu cực. Hàm ý 'JP kém' = đụng lòng tự trọng dân tộc + chê khách khi đang ngồi ăn cùng. Đúng: frame 'học hỏi từ JP'."
+    },
+    {
+      "scenario": "GOOD #7 — positive contrast frame",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "tuan_leader",
+          "ja": "日本の判断プロセス、本当に丁寧ですよね。ベトナムだとスピード重視で決めちゃうんですが、日本のように合意形成を大事にする文化、本当に学ぶことが多いです。",
+          "vi": "Quy trình quyết định của Nhật thật cẩn thận. Việt Nam thì hay ưu tiên tốc độ rồi quyết, văn hóa coi trọng đồng thuận như Nhật em học được nhiều."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "いや、日本も最近はね、もう少しスピードアップしたいって話もあるよ。お互い学べることあるね。",
+          "vi": "Mà gần đây Nhật cũng có ý kiến muốn nhanh hơn đó. Hai bên học được nhau."
+        }
+      ]
+    },
+    {
+      "scenario": "BAD #6 — đào sâu scandal nội bộ",
+      "type": "bad",
+      "context_vi": "Nakamura sau 2 ly bia lỡ nhắc CFO tiền nhiệm có vấn đề. Dũng đào sâu → khách hối hận đóng cửa.",
+      "lines": [
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "…まあ、うちのCFO前任者、結構問題あって辞めたんよ。詳しく言えへんけど…",
+          "vi": "...CFO tiền nhiệm bên tôi có chuyện, nghỉ. Tôi không nói chi tiết được..."
+        },
+        {
+          "speaker": "zun",
+          "ja": "[NG] え、何かあったんですか?横領とか?",
+          "vi": "[NG] Ơ, có chuyện gì ạ? Tham ô gì à?"
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "いや、まあ、忘れて。お酒の話やから。",
+          "vi": "Thôi, em quên đi. Chuyện rượu thôi."
+        }
+      ],
+      "why_bad": "Đào sâu scandal nội bộ JP = đặt khách vào tình huống bí mật. Khách regret share + flag mình 'miệng không kín'. Đúng: react tối thiểu, KHÔNG hỏi chi tiết, pivot ngay."
+    },
+    {
+      "scenario": "GOOD #6 — react tối thiểu + pivot",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "…うちのCFO前任者、結構問題あって辞めたんよ。",
+          "vi": "...CFO tiền nhiệm bên tôi có chuyện, nghỉ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "そうなんですね、大変でしたね。ところで、今日のこの料理、本当に美味しいですね。",
+          "vi": "Vậy ạ, vất vả nhỉ. À mà, món hôm nay ngon thật."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "ありがとう。そう、ここの店、本当いいよね。",
+          "vi": "Cảm ơn em. Ờ, quán này hay thật."
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "Damage control",
+      "ja": "すみません、[Tên]はまだ慣れていなくて…話は変わりますが…",
+      "vi": "Em xin lỗi, [Tên] còn chưa quen... Đổi chủ đề một chút...",
+      "use": "Khi team lỡ miệng"
+    },
+    {
+      "category": "Né câu hỏi lương",
+      "ja": "いやあ、ベトナムの平均くらいですよ。",
+      "vi": "Cũng quanh mức trung bình Việt Nam ạ.",
+      "use": "Khi khách lỡ hỏi"
+    },
+    {
+      "category": "Né câu hỏi tuổi",
+      "ja": "もう30近いですよ。ところで…",
+      "vi": "Em sắp 30 rồi ạ. À mà...",
+      "use": "Approximate + pivot"
+    },
+    {
+      "category": "Khách tự mở NG",
+      "ja": "そうですか…",
+      "vi": "...vậy ạ...",
+      "use": "Low react, không đào"
+    },
+    {
+      "category": "Khách tự mở NG",
+      "ja": "それは大変でしたね…",
+      "vi": "Vất vả nhỉ...",
+      "use": "Empathy ngắn, không hỏi"
+    },
+    {
+      "category": "Khen nữ không tuổi",
+      "ja": "[Tên]さんはいつもエネルギッシュで…",
+      "vi": "Chị [...] luôn năng động...",
+      "use": "Reference năng lượng thay tuổi"
+    },
+    {
+      "category": "JP-VN positive",
+      "ja": "日本の[特徴]、本当に丁寧ですね。",
+      "vi": "[Đặc điểm] của Nhật cẩn thận thật.",
+      "use": "Frame học hỏi"
+    },
+    {
+      "category": "JP-VN positive",
+      "ja": "[文化的差異]、お互い学べることありますね。",
+      "vi": "[Khác biệt văn hóa], hai bên học được nhau.",
+      "use": "Mutual learning frame"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "次のうち、絶対NG話題はどれですか?",
+      "options": [
+        "A. 出身地",
+        "B. 趣味",
+        "C. お給料の具体的な額",
+        "D. 食べ物"
+      ],
+      "answer": "C",
+      "explain_vi": "Lương = tabooo lớn nhất ở JP. A/B/D đều OK ở các level phù hợp."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "女性のお客様が「私、来年で40」と自分で言った時の最適な反応は?",
+      "options": [
+        "A. 「え、40ですか?見えません!30代前半に見えます!」",
+        "B. 「[Tên]さんはいつもエネルギッシュで、本当に尊敬してます」",
+        "C. 「40は人生の折り返しですね」",
+        "D. 「結婚されてますか?」"
+      ],
+      "answer": "B",
+      "explain_vi": "B = khen năng lượng/năng lực không reference tuổi. A = confirm tuổi + 'trẻ hơn' = NG. C = khẳng định tuổi. D = NG topic gia đình."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "お客様が酒の席で社内スキャンダルを匂わせた時、最も適切な対応は?",
+      "options": [
+        "A. 詳細を質問して理解を示す",
+        "B. 反応を最小限にとどめ、すぐ別の話題に転換する",
+        "C. 自社のスキャンダルも共有して仲良くなる",
+        "D. SNSで調べてみる"
+      ],
+      "answer": "B",
+      "explain_vi": "Đào sâu = khách regret share. Mình kín đáo = đáng tin. React tối thiểu + pivot ngay = level cao."
+    }
+  ],
+  "templates": []
+}

@@ -1,0 +1,198 @@
+{
+  "rule_id": "rule_40",
+  "rule_slug": "ブレスト進行",
+  "title": {
+    "ja": "ブレスト・ワークショップの進行",
+    "vi": "Brainstorming / Workshop"
+  },
+  "rule_context": {
+    "ja": "社内ワークショップでchurn率削減アイデア出し。ズンが司会で4原則（批判禁止・量重視・便乗歓迎・時間制限）を宣言、リンの初提案にトゥアンが便乗で発展させる場面。",
+    "vi": "Workshop nội bộ tìm ý tưởng giảm churn. Dũng chủ trì declare 4 rule. Linh đề xuất ý đầu, Tuấn build-on thay vì critique."
+  },
+  "related_rules": [
+    "rule_14",
+    "rule_19",
+    "rule_26"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 原則なし、シニアが批判",
+      "label_vi": "XẤU — Không rule, senior bác ý junior",
+      "display_order": 1,
+      "analysis": {
+        "ja": "ブレストの原則を宣言しないと、シニアがジュニアの意見を即否定し、心理的安全性が崩壊する。",
+        "vi": "Không tuyên bố rule → senior critique junior ngay → mất an toàn tâm lý → junior im."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_40_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "じゃあ、アイデア出してください。",
+          "sentence_translation": "Vậy, mọi người ý tưởng đi.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_40_bad_02",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "あの…ユーザーにアンケート送るのは…",
+          "sentence_translation": "Ơ... gửi survey cho user thì...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_40_bad_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "アンケート？古いよ。誰も答えないし。",
+          "sentence_translation": "Survey? Cũ rồi. Chẳng ai trả lời đâu.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 4原則宣言+便乗発展",
+      "label_vi": "TỐT — Tuyên bố 4 rule + build-on",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_40_good_01",
+          "highlight_text": "①批判禁止 ②量重視 ③便乗歓迎 ④15分タイムボックス",
+          "ja": "ブレストの4原則を冒頭で宣言。心理的安全性とゴール設定の両方を満たす。",
+          "vi": "Tuyên bố 4 rule đầu workshop. Đảm bảo an toàn tâm lý + có goal."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_40_good_05",
+          "highlight_text": "アンケートに便乗で、解約直前のユーザーだけに送る",
+          "ja": "「便乗で〜」が日本語ブレストでの build-on 標準フレーズ。",
+          "vi": "「便乗で〜」 = câu chuẩn JP để build-on idea trước."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_40_good_07",
+          "highlight_text": "タイムアップ。アイデア合計14件。次は priority 投票に移ります",
+          "ja": "time-box を厳守し、次のステップ（投票）に進むのが workshop の重要ポイント。",
+          "vi": "Giữ chặt time-box + chuyển bước (vote) là điểm quan trọng của workshop."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_40_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本日のブレスト、4原則を確認させてください。①批判禁止 ②量重視 ③便乗歓迎 ④15分タイムボックス。よろしいでしょうか？",
+          "sentence_translation": "Brainstorming hôm nay em xin confirm 4 nguyên tắc ạ. (1) không phê bình, (2) coi trọng số lượng, (3) build-on welcome, (4) time-box 15 phút. OK không ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_40_good_02",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "OK。",
+          "sentence_translation": "OK.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_40_good_03",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "ユーザーにアンケート送るのは…",
+          "sentence_translation": "Gửi survey cho user thì sao ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_40_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "アンケート、いいですね。次の方？",
+          "sentence_translation": "Survey, ý hay đấy. Tiếp theo nào?",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_40_good_05",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "アンケートに便乗で、解約直前のユーザーだけに送る、というのは？",
+          "sentence_translation": "Build-on survey ấy, gửi riêng cho user sắp hủy thì sao?",
+          "tone": "neutral",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_40_good_06",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "便乗で、退会理由を選択式にすると回答率上がるかも。",
+          "sentence_translation": "Build-on tiếp, để lý do hủy dạng trắc nghiệm thì tỷ lệ trả lời sẽ tăng đấy.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_40_good_07",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "タイムアップ。アイデア合計14件。次は priority 投票に移ります。",
+          "sentence_translation": "Hết giờ ạ. Tổng 14 ý tưởng. Tiếp theo mình chuyển sang vote priority ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_40_kp_01",
+      "speaker": "zun",
+      "sentence": "本日のブレスト、4原則を確認させてください。①批判禁止 ②量重視 ③便乗歓迎 ④タイムボックス。",
+      "sentence_translation": "Brainstorming hôm nay em xin confirm 4 nguyên tắc: (1) không phê bình, (2) coi trọng số lượng, (3) build-on welcome, (4) time-box.",
+      "purpose": "ブレスト4原則宣言フレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_40_kp_02",
+      "speaker": "tuan_leader",
+      "sentence": "〇〇に便乗で、〜というのは？",
+      "sentence_translation": "Build-on ý 〇〇, 〜 thì sao?",
+      "purpose": "build-on フレーズ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_40_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "ブレストワークショップで司会が冒頭にすべきことは？",
+      "options": [
+        "「自由にどうぞ」とだけ言う",
+        "「批判禁止・量重視・便乗歓迎・時間制限」の4原則を宣言する",
+        "シニアから順番に意見を求める",
+        "アイデアの良し悪しを即評価する"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "ブレストの心理的安全性は冒頭の4原則宣言で担保される。",
+        "vi": "An toàn tâm lý của brainstorm được bảo đảm bằng tuyên bố 4 nguyên tắc đầu phiên."
+      }
+    }
+  ]
+}

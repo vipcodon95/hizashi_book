@@ -1,0 +1,179 @@
+{
+  "rule_id": "rule_29",
+  "rule_slug": "客先への相談",
+  "title": {
+    "ja": "客先への相談",
+    "vi": "Tham vấn với khách"
+  },
+  "rule_context": {
+    "ja": "ズンが松本様に Phase 2 UAT 進め方（線形 vs 段階的）を相談する場面。Slack の casual トーンから、メールの最高敬語 + 焦点絞り + 候補打診型へ。",
+    "vi": "Em Dũng tham vấn anh Matsumoto về cách triển khai UAT Phase 2 (linear vs incremental). Từ Slack tone casual → email formal cao + focus 1 axis + hỏi 候補 thay vì áp giờ."
+  },
+  "related_rules": ["rule_24", "rule_25", "rule_30"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 社内トーン",
+      "label_vi": "XẤU — Tone nội bộ với khách",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「ちょっと相談したくて」は社内向けの casual。客先には謙譲語＋丁寧語が必須。焦点も時間枠も曖昧で相手は答えにくい。",
+        "vi": "「ちょっと相談したくて」 là casual nội bộ. Client-facing bắt buộc khiêm nhường + lịch sự. Focus và time đều mơ hồ, khách khó trả lời."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_29_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "松本様、UAT のやり方なんですけど、線形でやるか段階的でやるかちょっと相談したくて…",
+          "sentence_translation": "Anh Matsumoto, vụ cách làm UAT, linear hay incremental, em muốn hỏi chút...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_29_bad_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ズンさん、『ちょっと相談したくて』はやや軽い口調ですね。あと、何を判断材料にすべきかも示されていないと、こちらも答えようがないです。",
+          "sentence_translation": "Dũng, 「ちょっと相談したくて」 nghe hơi nhẹ. Và nếu không nêu rõ cần xét theo dữ kiện gì thì tôi cũng không trả lời được.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_29_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "すみません…",
+          "sentence_translation": "Em xin lỗi ạ...",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_29_bad_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "客先相談は形式が違います。『ご相談させていただけますでしょうか』+ 焦点 + 希望時間で。",
+          "sentence_translation": "Tham vấn client-facing format khác. 「ご相談させていただけますでしょうか」 + tiêu điểm + thời gian mong muốn.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 最高敬語 + 焦点 + 候補打診",
+      "label_vi": "TỐT — Formal cao + focus + hỏi 候補",
+      "display_order": 2,
+      "analysis": {
+        "ja": "謙譲語『ご相談させていただけますでしょうか』、焦点を1点に絞り、客の都合候補を3つ打診。客先相談の3要素が完備されている。",
+        "vi": "Khiêm nhường 「ご相談させていただけますでしょうか」, focus 1 điểm, hỏi 3 候補 thuận tiện của khách. Đủ bộ 3 yếu tố client-facing."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_29_good_01",
+          "highlight_text": "ご相談させていただけますでしょうか",
+          "ja": "謙譲語『させていただく』+ 丁寧語『でしょうか』の二重敬語。客先相談の標準。",
+          "vi": "Khiêm nhường 「させていただく」 + lịch sự 「でしょうか」 ghép đôi. Chuẩn cho tham vấn với khách."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_29_good_01",
+          "highlight_text": "御社運用チームの検証リソース確保のしやすさ",
+          "ja": "焦点を1点に絞ることで、客先は答える前提を準備しやすい。広い質問は逆に失礼。",
+          "vi": "Focus 1 điểm = khách dễ chuẩn bị premise trước khi trả lời. Câu hỏi rộng ngược lại bất lịch sự."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_29_good_01",
+          "highlight_text": "ご都合の良い候補を3つお知らせいただけますと幸いです",
+          "ja": "リスケと違い、相談では客に候補を出してもらう。時間の主導権を客に渡すのが客先流儀。",
+          "vi": "Khác với reschedule, khi tham vấn thì để khách đề xuất 候補. Trao quyền chủ động về thời gian cho khách = phong cách client-facing."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_29_good_03",
+          "highlight_text": "ご相談させていただきます",
+          "ja": "会議室入室時の正式な切り出し。「相談する」では失礼。",
+          "vi": "Câu mở chính thức khi vào phòng họp. 「相談する」 là thiếu lễ."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_29_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "松本様、お世話になっております。ティエンファットのズンでございます。件名【ご相談】Phase 2 UAT 進め方について。Phase 2 の UAT を進めるにあたり、線形(全機能一括)か段階的(機能毎リリース)かで方針を絞りきれず、ご相談させていただけますでしょうか。特にお伺いしたいのは、御社運用チームの検証リソース確保のしやすさでございます。ご都合よろしい時に15分ほどお時間頂戴できますと幸甚です。今週後半 (4/24木 PM ~ 4/26土) のうち、ご都合の良い候補を3つお知らせいただけますと幸いです。",
+          "sentence_translation": "Anh Matsumoto, em xin chào. Em Dũng bên Thiên Phát đây ạ. [Tiêu đề] [Tham vấn] Về cách triển khai UAT Phase 2. Khi triển khai UAT Phase 2, em đang phân vân giữa linear (toàn bộ chức năng 1 lần) và incremental (release theo chức năng), em xin được tham vấn anh ạ. Đặc biệt em muốn hỏi về độ thuận tiện trong việc bố trí resource kiểm thử của team vận hành bên anh ạ. Anh dành cho em 15 phút khi nào tiện ạ. Trong nửa cuối tuần này (24/4 thứ Năm chiều - 26/4 thứ Bảy), phiền anh báo giúp em 3 lựa chọn thuận tiện ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1", "2", "3"]
+        },
+        {
+          "line_id": "rule_29_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ご丁寧にありがとうございます。4/24 (木) 15:00 JST で30分いかがでしょうか。当方からも運用チームの実情をお話しします。",
+          "sentence_translation": "Cảm ơn em đã chu đáo. 24/4 thứ Năm 15:00 JST trong 30 phút có ổn không? Bên tôi cũng sẽ chia sẻ thực tế team vận hành.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_29_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "松本様、本日はお時間頂戴し誠にありがとうございます。それでは、UAT 進め方についてご相談させていただきます。",
+          "sentence_translation": "Anh Matsumoto, em cảm ơn anh đã dành thời gian hôm nay ạ. Vậy em xin phép tham vấn về cách triển khai UAT ạ.",
+          "tone": "formal",
+          "annotation_ids": ["4"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_29_kp_01",
+      "speaker": "zun",
+      "sentence": "ご相談させていただけますでしょうか。",
+      "sentence_translation": "Em xin phép được tham vấn anh/chị ạ?",
+      "purpose": "客先相談の最高敬語切り出し",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_29_kp_02",
+      "speaker": "zun",
+      "sentence": "特にお伺いしたいのは、〇〇でございます。",
+      "sentence_translation": "Đặc biệt em muốn hỏi về 〇〇 ạ.",
+      "purpose": "焦点を1点に絞るフレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_29_kp_03",
+      "speaker": "zun",
+      "sentence": "ご都合の良い候補を〇つお知らせいただけますと幸いです。",
+      "sentence_translation": "Phiền anh/chị báo giúp em 〇 lựa chọn thuận tiện ạ.",
+      "purpose": "時間枠を客に委ねる依頼",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_29_bjt_01",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "客先に相談する際、最も適切な切り出しは?",
+      "options": [
+        "ちょっと相談したいんですが",
+        "相談に乗ってもらえますか",
+        "ご相談させていただけますでしょうか",
+        "教えてください"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "客先相談は謙譲語『させていただく』+ 丁寧語『でしょうか』の二重敬語が標準。社内 casual トーンとは明確に分けるべき。",
+        "vi": "Tham vấn với khách phải khiêm nhường 「させていただく」 + lịch sự 「でしょうか」 ghép đôi. Phải tách bạch khỏi tone casual nội bộ."
+      }
+    }
+  ]
+}

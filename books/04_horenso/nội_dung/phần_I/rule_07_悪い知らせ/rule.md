@@ -1,0 +1,87 @@
+# Rule 07 — Báo cáo tin xấu / 悪い知らせの報告 (Predict→Fact→Impact→Plan→Ask)
+
+> **Luận điểm.** Tin xấu là test case khắc nghiệt nhất của Hou-Ren-Sou. Báo trễ = mất tin cậy vĩnh viễn. Báo gấp + sai cấu trúc = sếp panic. Cấu trúc chuẩn: **Predict → Fact → Impact → Plan → Ask**. Predict trước Fact để sếp định kỳ vọng. Plan trước Ask để chứng minh đã suy nghĩ.
+>
+> 悪い知らせほど早く・構造化して報告する。**Predict（予測）→ Fact（事実）→ Impact（影響）→ Plan（対応案）→ Ask（依頼）**。Predict 先出しで上司の心構えを作り、Plan を先に出すことで「丸投げ」感を避ける。
+>
+> **Liên quan:** rule 01 (kịp thời), rule 17 (urgent escalation), rule 31 (bug flow), rule 22 (相談 vs 自己決定).
+
+---
+
+## Bối cảnh / 場面
+
+22h tối Chủ Nhật — production có bug critical do Phase 2 release. Anh Tuấn phát hiện. Anh Tuấn cần báo Anh Hà CTO ngay (không đợi sáng thứ Hai). Lần đầu báo lộn xộn, panic. Lần 2 dùng PFIPA chuẩn.
+
+---
+
+## ❌ Hội thoại XẤU — báo trễ + lộn xộn + đùn đẩy
+
+*thứ 2 sáng 9h, qua Slack*
+
+| Speaker | Câu |
+|---------|-----|
+| **トゥアン** | 「ハーさん、すいません、昨夜本番で問題が起きてまして、データが…まだ調査中なんですが…どうしましょうか？」 |
+| **ハーCTO** | 「**昨夜**？なぜ今報告？影響範囲は？対応案は？」 |
+| **トゥアン** | 「えっと、影響はまだ確認中で、対応もこれから考えるところで…」 |
+| **ハーCTO** | 「11時間遅れの報告 + 状況不明 + 対応案ゼロ。これは最悪のパターンです。」 |
+
+**Vì sao xấu:** (1) Báo trễ 11 giờ — bug critical phải báo trong 30 phút. (2) Không có Predict mở đầu, sếp bị động. (3) Không có Plan, "どうしましょうか?" = đùn boss quyết.
+
+---
+
+## ✅ Hội thoại TỐT — PFIPA + báo trong 30 phút
+
+*22:30 CN, qua điện thoại*
+
+| Speaker | Câu |
+|---------|-----|
+| **トゥアン** | 「ハーさん、夜分にすみません。**緊急のご報告**です。**先にお伝えしますが、本番で critical bug が発生しております**【1】。」 |
+| **トゥアン** | 「**Fact**：22時頃、注文確定 API でデータ消失が発生。**Impact**：本日 21時以降の注文データ約30件が DB に保存されていません【2】。」 |
+| **トゥアン** | 「**Plan（対応案）**：(1) ログから30件をリストアップ、(2) 顧客に翌朝までに個別連絡、(3) 原因はトランザクション処理にあると推測、修正PRを朝までに準備します【3】。」 |
+| **トゥアン** | 「**Ask（依頼）**：松本様への第一報を 23時までに私から入れてもよろしいでしょうか。あるいはハーさんから入れる選択肢もあります【4】。」 |
+| **ハーCTO** | 「Predict から Plan まで30秒で全部入った。良い報告。第一報はあなたから入れてください。私は2時間以内に折り返します。」 |
+
+📝 **Ghi chú:**
+- 【1】**「先にお伝えしますが、〇〇が発生しております」** — Predict mở đầu = sếp định khung tâm lý "đây là tin xấu". Tránh shock.
+- 【2】**「Fact〜Impact」** — chia rõ 2 phần. Fact = chuyện gì xảy ra. Impact = ảnh hưởng cụ thể (số lượng / khách / tiền). Sếp cần Impact để escalate hay không.
+- 【3】**「Plan：(1)〜(2)〜(3)」** — 3 dòng action với owner. Show rằng đã suy nghĩ chứ không chỉ đùn.
+- 【4】**「〜してもよろしいでしょうか。あるいは〇〇という選択肢も」** — Ask đưa 2 option. Sếp Nhật ưa chọn hơn quyết từ zero.
+
+---
+
+## 🎯 Câu chốt
+
+> **「先にお伝えしますが〇〇が発生。Fact: 〇〇 / Impact: 〇〇 / Plan: ①〇〇 ②〇〇 / Ask: 〇〇してもよろしいでしょうか、あるいは〇〇」**
+>
+> *5 mệnh đề. Báo trong 30 phút từ lúc phát hiện.*
+
+---
+
+## ⚠ Tránh
+
+- 「すみません、ちょっと問題が…」 — vague, sếp không biết nặng nhẹ.
+- "どうしましょうか?" mở đầu — đùn quyết định cho sếp = sếp mất công cào lại từ đầu.
+- Đợi đến giờ làm việc mới báo — bug critical là exception. Email/Slack/phone cá nhân OK.
+- Báo Plan mà không nói deadline cụ thể (「対応します」) — không có thời hạn = không phải plan.
+
+---
+
+## 📐 Template box
+
+Xem `templates[0]` của file conversation: **悪い知らせ報告書** (incident report).
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 緊急 | きんきゅう | Khẩn cấp |
+| 発生 | はっせい | Xảy ra (sự cố) |
+| 影響範囲 | えいきょうはんい | Phạm vi ảnh hưởng |
+| 対応案 | たいおうあん | Phương án xử lý |
+| 第一報 | だいいっぽう | Báo cáo đầu tiên |
+| トランザクション | toranzakushon | Transaction |
+| データ消失 | データしょうしつ | Mất dữ liệu |
+| 復旧 | ふっきゅう | Khôi phục |
+| 折り返し | おりかえし | Gọi lại / phản hồi lại |

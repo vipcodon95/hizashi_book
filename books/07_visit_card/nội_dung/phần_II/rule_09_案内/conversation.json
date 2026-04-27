@@ -1,0 +1,209 @@
+{
+  "rule_id": "rule_09",
+  "rule_slug": "会議室へのご案内",
+  "title": {
+    "ja": "会議室へのご案内",
+    "vi": "Hướng dẫn vào phòng họp"
+  },
+  "rule_context": {
+    "ja": "ロビーお出迎え後、ズンが白鷗3名をエレベーター経由で3階会議室まで案内する場面。",
+    "vi": "Sau đón ở lobby, Dũng dẫn 3 khách 白鷗 qua thang máy lên phòng họp tầng 3."
+  },
+  "related_rules": ["rule_08", "rule_10", "rule_13"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 客の後ろ・自分先・背中見せ",
+      "label_vi": "XẤU — đi sau khách + vào trước + quay lưng",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①方向不明発話で頼りなさ露呈 ②エレベーター先入りで空間占有 ③背中で速歩→客が置き去り。3点減点。",
+        "vi": "(1) Hỏi 'đường nào' lộ thiếu chuẩn bị. (2) Vào thang trước = chiếm space. (3) Quay lưng đi nhanh = khách bị bỏ lại."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_09_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あの、どっちですかね…3階ですよね？",
+          "sentence_translation": "À, đường nào nhỉ... tầng 3 phải không ạ?",
+          "tone": "uncertain",
+          "speed_multiplier": 1.05
+        },
+        {
+          "line_id": "rule_09_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "えーと…",
+          "sentence_translation": "Ờ...",
+          "tone": "uncertain",
+          "pause_after_ms": 800
+        },
+        {
+          "line_id": "rule_09_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "3階ですね。",
+          "sentence_translation": "Tầng 3 nhỉ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_09_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "こちらです…",
+          "sentence_translation": "Bên này...",
+          "tone": "neutral",
+          "speed_multiplier": 1.1
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 斜め前・操作盤側・客先",
+      "label_vi": "TỐT — chéo trước + đứng cạnh bảng nút + khách trước",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_09_good_01",
+          "highlight_text": "こちらへどうぞ",
+          "ja": "案内発話の固定句。右手で90度方向を指し示す。",
+          "vi": "Câu cố định khi dẫn. Tay phải mở 90° chỉ hướng."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_09_good_03",
+          "highlight_text": "お先にどうぞ",
+          "ja": "エレベーター入り口で客優先。出る時は host が先にボタン押さえ続けて客が後で出る。",
+          "vi": "Cửa vào: khách trước. Cửa ra: host giữ nút trước, khách ra sau (an toàn)."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_09_good_05",
+          "highlight_text": "操作盤側に立つ",
+          "ja": "host はエレベーター内で操作盤側に立つ。客は奥(上座)。",
+          "vi": "Host đứng cạnh bảng nút trong thang. Khách đứng phía trong (上座)."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_09_good_07",
+          "highlight_text": "会議室はこちらでございます",
+          "ja": "ドアを軽くノック2回→開けて手で押さえ→客3名先に通す→自分は最後。",
+          "vi": "Gõ cửa nhẹ 2 lần → mở giữ → 3 khách vào trước → mình vào sau cùng."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_09_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "こちらへどうぞ。会議室は3階でございます。",
+          "sentence_translation": "Mời các anh đi theo hướng này ạ. Phòng họp ở tầng 3.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_09_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（エレベーター前に到着、ボタンを押して扉を押さえる）お先にどうぞ。",
+          "sentence_translation": "(đến cửa thang máy, bấm nút giữ cửa) Mời các anh vào trước ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_09_good_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "失礼します。",
+          "sentence_translation": "Xin phép.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_09_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（最後に乗り、操作盤側に立つ）3階に参ります。",
+          "sentence_translation": "(vào sau cùng, đứng cạnh bảng nút) Em đưa các anh lên tầng 3 ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_09_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご到着でございます。お先にどうぞ。",
+          "sentence_translation": "Đã đến rồi ạ. Mời các anh ra trước.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_09_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（廊下を斜め前1-2歩で案内）こちらでございます。",
+          "sentence_translation": "(dẫn ở hành lang, chéo trước 1-2 bước) Bên này ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_09_good_07",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（ノック2回→ドアを開けて押さえる）会議室はこちらでございます。",
+          "sentence_translation": "(gõ 2 lần → mở giữ cửa) Phòng họp ở đây ạ.",
+          "tone": "formal",
+          "annotation_ids": ["4"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_09_kp_01",
+      "speaker": "zun",
+      "sentence": "こちらへどうぞ。会議室は3階でございます。",
+      "sentence_translation": "Mời các anh đi theo hướng này ạ. Phòng họp ở tầng 3.",
+      "purpose": "案内開始固定句",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_09_kp_02",
+      "speaker": "zun",
+      "sentence": "お先にどうぞ。",
+      "sentence_translation": "Mời các anh trước ạ.",
+      "purpose": "エレベーター/ドア客先誘導",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_09_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "エレベーター内で host が立つ位置として最も適切なのは？",
+      "options": [
+        "中央",
+        "扉のすぐ前",
+        "操作盤側 (奥は客=上座)",
+        "客の真後ろ"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "host が操作盤を担当、客は奥(エレベーター内の上座)。",
+        "vi": "Host phụ trách bảng nút, khách đứng trong (kamiza trong thang máy)."
+      }
+    }
+  ]
+}

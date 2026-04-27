@@ -1,0 +1,157 @@
+{
+  "rule_id": "rule_15",
+  "rule_slug": "旅行・温泉",
+  "title": {
+    "vi": "Du lịch + onsen",
+    "ja": "旅行・温泉"
+  },
+  "rule_context": {
+    "ja": "ズンとハーCTOが箱根に1泊する出張+旅館予定。Ōgakiが箱根のおすすめ、Nakamuraが登別、Satoが黒川温泉を紹介する。",
+    "vi": "Dũng + Hà CTO chuẩn bị 1 đêm ở 旅館 Hakone. Ōgaki gợi ý Hakone, Nakamura kể Noboribetsu (Hokkaido), Sato kể Kurokawa (Kumamoto)."
+  },
+  "related_rules": ["rule_11", "rule_16", "rule_42"],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "箱根 旅館選び",
+      "label_vi": "Chọn ryokan Hakone",
+      "display_order": 1,
+      "context": {
+        "ja": "ミーティングのbreak中、Ōgaki部長が箱根旅館を推薦する。",
+        "vi": "Break giữa cuộc họp, Ōgaki gợi ý ryokan Hakone."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_15_good_01", "speaker": "oogaki_sales", "speaker_role": "営業部長 白鷗", "gender": "male", "sentence": "ズンさん、来週箱根に行くんでしょ?旅館はもう決めた?", "sentence_translation": "Dũng, tuần sau đi Hakone nhỉ? Đã chọn ryokan chưa?", "tone": "warm"},
+        {"line_id": "rule_15_good_02", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "まだなんです…おすすめあります?", "sentence_translation": "Chưa ạ... anh có gợi ý không?", "tone": "warm"},
+        {"line_id": "rule_15_good_03", "speaker": "oogaki_sales", "speaker_role": "営業部長 白鷗", "gender": "male", "sentence": "強羅エリアの箱根強羅花壇か、仙石原のふふ箱根、会席料理が美味しい。露天風呂付き客室、ある?", "sentence_translation": "Khu Gōra có Hakone Gōra Kadan, hoặc Sengokuhara có Fufu Hakone, kaiseki ngon. Em có muốn phòng có bồn lộ thiên riêng không?", "tone": "warm"},
+        {"line_id": "rule_15_good_04", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "初体験なので、ぜひ露天風呂付きでお願いしたいです。会席と懐石の違いって何ですか?", "sentence_translation": "Lần đầu nên em xin phòng có lộ thiên ạ. Kaiseki và kaiseki (chữ khác) khác nhau thế nào ạ?", "tone": "warm"},
+        {"line_id": "rule_15_good_05", "speaker": "oogaki_sales", "speaker_role": "営業部長 白鷗", "gender": "male", "sentence": "会席=お酒を楽しむコース料理。懐石=茶事の前の軽食、もっと侘び寂び。旅館は会席が多い。先付・前菜・お造り・煮物・焼き物・揚げ物・蒸し物・酢の物・ご飯・止め椀・水菓子、10品くらい。", "sentence_translation": "Kaiseki (会席) = course thưởng rượu. Kaiseki (懐石) = ăn nhẹ trước trà đạo, wabi-sabi hơn. Ryokan đa số là 会席. Khoảng 10 món: khai vị, sashimi, hầm, nướng, chiên, hấp, đồ chua, cơm, súp, hoa quả.", "tone": "neutral"},
+        {"line_id": "rule_15_good_06", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "10品!驚きですね。仲居さんが部屋まで運んでくれるんですよね?", "sentence_translation": "10 món! Bất ngờ quá. Cô nakai mang đến tận phòng đúng không ạ?", "tone": "warm"},
+        {"line_id": "rule_15_good_07", "speaker": "oogaki_sales", "speaker_role": "営業部長 白鷗", "gender": "male", "sentence": "そう、部屋食。あとチェックイン後すぐ温泉、夕食前にもう1回、朝起きてもう1回、これが旅館の楽しみ方。", "sentence_translation": "Đúng, ăn tại phòng. Check-in vào tắm liền, trước bữa tối tắm thêm, sáng dậy lại tắm — đó là cách hưởng ryokan.", "tone": "warm"},
+        {"line_id": "rule_15_good_08", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "3回!1泊で3回入るんですね。覚えておきます。", "sentence_translation": "3 lần! 1 đêm tắm 3 lần. Em ghi nhớ.", "tone": "cheerful"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "登別温泉 — 北海道",
+      "label_vi": "Onsen Noboribetsu — Hokkaido",
+      "display_order": 2,
+      "context": {
+        "ja": "Zoom会議の前、Nakamura CFOが先週末の温泉旅行を雑談で語る。",
+        "vi": "Trước Zoom, Nakamura CFO kể chuyến onsen cuối tuần."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_15_good_09", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "先週末、登別行ってきたよ。地獄谷、本当に湯気が上がってて、別世界。", "sentence_translation": "Cuối tuần trước anh đi Noboribetsu. Jigokudani — hơi nước bốc lên thật, như thế giới khác.", "tone": "warm"},
+        {"line_id": "rule_15_good_10", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "登別!第一滝本館は有名ですよね。5種類の泉質がある宿って聞きました。", "sentence_translation": "Noboribetsu! Daiichi Takimotokan nổi tiếng đúng không ạ. Em nghe có 5 loại nước khoáng cùng nơi.", "tone": "warm"},
+        {"line_id": "rule_15_good_11", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "滝本館まで知ってるんだ!硫黄泉・鉄泉・酸性泉・重曹泉…全部体に違う効能。白い濁り湯は美肌、茶色い鉄泉は冷え性。", "sentence_translation": "Biết cả Takimotokan! Lưu huỳnh, sắt, axit, bicarbonate... mỗi loại tác dụng khác. Nước đục trắng làm đẹp da, nước nâu sắt chữa lạnh.", "tone": "cheerful"},
+        {"line_id": "rule_15_good_12", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "泉質ごとに効能違うんですね。温泉ソムリエって資格、本当にあるんですか?", "sentence_translation": "Mỗi loại có công dụng khác nhau. Bằng 'onsen sommelier' có thật không ạ?", "tone": "warm"},
+        {"line_id": "rule_15_good_13", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "あるよ(笑)。週末で取れる入門編。北海道は洞爺湖・ニセコ・定山渓もいいよ。冬は雪見露天、最高。", "sentence_translation": "Có chứ (cười). Khóa nhập môn cuối tuần là lấy được. Hokkaido còn Tōyako, Niseko, Jōzankei cũng tốt. Mùa đông tắm ngắm tuyết tuyệt nhất.", "tone": "warm"},
+        {"line_id": "rule_15_good_14", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "雪見露天!夢ですね。外気温-5度で湯に浸かるって…", "sentence_translation": "Tắm ngắm tuyết! Là ước mơ. Ngoài -5°C mà ngâm trong nước nóng...", "tone": "cheerful"},
+        {"line_id": "rule_15_good_15", "speaker": "nakamura_cfo", "speaker_role": "CFO 白鷗", "gender": "male", "sentence": "肩から上は冷たいけど、湯の中は42度。毛細血管が広がって、めちゃくちゃ温まる。来年2月、雪まつりと一緒にどう?", "sentence_translation": "Vai trở lên lạnh, nước trong 42°C. Mao mạch giãn, ấm cực kỳ. Tháng 2 năm sau cùng lễ hội tuyết đi nhé?", "tone": "warm"},
+        {"line_id": "rule_15_good_16", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "ぜひ計画させてください!", "sentence_translation": "Vâng anh để em lên kế hoạch!", "tone": "cheerful"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "黒川温泉 — 九州",
+      "label_vi": "Onsen Kurokawa — Kyushu",
+      "display_order": 3,
+      "context": {
+        "ja": "Sato先生が九州出張中の人気観光地として黒川温泉を推奨する。",
+        "vi": "Anh Sato gợi ý Kurokawa khi nói về điểm du lịch Kyushu."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_15_good_17", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "ズンさん、九州来たら黒川温泉、絶対行ってほしいとよ。", "sentence_translation": "Dũng, đến Kyushu nhất định phải đi onsen Kurokawa.", "tone": "warm"},
+        {"line_id": "rule_15_good_18", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "黒川!入湯手形で3つの旅館の露天風呂を巡れるんですよね?", "sentence_translation": "Kurokawa! Có 'thẻ gỗ vào tắm' để đi 3 bồn lộ thiên ở 3 ryokan đúng không ạ?", "tone": "warm"},
+        {"line_id": "rule_15_good_19", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "お、知っとるか!1300円で3軒、6か月有効。村全体が一つの旅館って思想で、街並みも統一感ある。", "sentence_translation": "Ồ, biết luôn! 1300 yên 3 quán, 6 tháng hiệu lực. Triết lý 'cả làng là 1 ryokan', cảnh quan thống nhất.", "tone": "warm"},
+        {"line_id": "rule_15_good_20", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "街全体が…素敵な思想ですね。新明館の洞窟風呂、山みず木の渓流露天、有名って聞きました。", "sentence_translation": "Cả làng... triết lý đẹp. Em nghe Shinmeikan có bồn hang động, Yamamizuki có lộ thiên ven suối nổi tiếng.", "tone": "warm"},
+        {"line_id": "rule_15_good_21", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "全部押さえてる(笑)。あといこい旅館の滝の湯もよかとよ。阿蘇山とセットで行くのがおすすめ。湯布院も近いから2泊で回れる。", "sentence_translation": "Em chọn đúng hết (cười). Còn Ikoi-Ryokan có 'taki-no-yu' (nước thác) cũng tốt. Đi kèm núi Aso. Yufuin gần đó, 2 đêm là vòng được.", "tone": "warm"},
+        {"line_id": "rule_15_good_22", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "湯布院!金鱗湖の朝霧、写真で見て憧れました。由布岳見ながらの露天、最高でしょうね。", "sentence_translation": "Yufuin! Sương sớm hồ Kinrin em xem ảnh đã mê. Tắm ngắm núi Yufu chắc tuyệt.", "tone": "cheerful"},
+        {"line_id": "rule_15_good_23", "speaker": "sato_kyushu", "speaker_role": "福岡支店リード 白鷗", "gender": "male", "sentence": "ベトナムから九州、福岡空港直行便あるとよ。次回出張時に1日伸ばせば十分回れる。馬刺し・地鶏も食べないと。", "sentence_translation": "Từ Việt Nam có chuyến bay thẳng đến Fukuoka đó. Lần sau công tác kéo thêm 1 ngày là đủ. Phải ăn cả basashi với jidori.", "tone": "warm"},
+        {"line_id": "rule_15_good_24", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "黒川+湯布院+阿蘇、絶対計画します!", "sentence_translation": "Kurokawa + Yufuin + Aso, em chắc chắn sẽ lên kế hoạch!", "tone": "cheerful"}
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "Etiquette 温泉初心者",
+      "label_vi": "Etiquette onsen lần đầu",
+      "display_order": 4,
+      "context": {
+        "ja": "出発前日、Ōgakiにマナーを確認する。",
+        "vi": "Trước hôm đi 1 ngày, hỏi Ōgaki etiquette."
+      },
+      "conversation_lines": [
+        {"line_id": "rule_15_good_25", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "大垣さん、温泉初めてで…マナーで気をつけることありますか?", "sentence_translation": "Anh Ōgaki, em mới đi onsen lần đầu... có etiquette gì cần chú ý không ạ?", "tone": "warm"},
+        {"line_id": "rule_15_good_26", "speaker": "oogaki_sales", "speaker_role": "営業部長 白鷗", "gender": "male", "sentence": "いい質問。まずかけ湯、入る前に必ずお湯を体にかけて慣らす。あと洗い場で先に体を洗う、シャンプー残さない。", "sentence_translation": "Câu hỏi hay. Đầu tiên kake-yu, trước khi vào phải dội nước cho cơ thể quen. Tiếp là rửa kỹ ở chỗ rửa, không để dầu gội còn.", "tone": "neutral"},
+        {"line_id": "rule_15_good_27", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "タオルは湯船に入れちゃダメですよね?", "sentence_translation": "Khăn không được mang vào bồn đúng không ạ?", "tone": "warm"},
+        {"line_id": "rule_15_good_28", "speaker": "oogaki_sales", "speaker_role": "営業部長 白鷗", "gender": "male", "sentence": "そう、タオルは湯船の縁か頭の上。あと髪が長い人は結ぶ。湯に髪が浸からないように。", "sentence_translation": "Đúng, để rìa bồn hoặc đầu. Tóc dài phải búi. Đừng để tóc chạm nước.", "tone": "neutral"},
+        {"line_id": "rule_15_good_29", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "入れ墨、ベトナム人だと友達でアームに小さく入れてる人いるんですが…", "sentence_translation": "Xăm — bạn em có người xăm nhỏ ở tay...", "tone": "warm"},
+        {"line_id": "rule_15_good_30", "speaker": "oogaki_sales", "speaker_role": "営業部長 白鷗", "gender": "male", "sentence": "最近はタトゥー可の宿も増えてるけど、伝統的な旅館はNG多い。事前にチェック必要。シールで隠せるカバーもある。", "sentence_translation": "Gần đây có nhiều ryokan OK xăm nhưng truyền thống đa số NG. Phải check trước. Có miếng dán cover nữa.", "tone": "neutral"},
+        {"line_id": "rule_15_good_31", "speaker": "zun", "speaker_role": "BD ティエンファット", "gender": "male", "sentence": "気をつけます。あと写真撮影は当然NG?", "sentence_translation": "Em sẽ cẩn thận. Còn chụp ảnh đương nhiên NG ạ?", "tone": "warm"},
+        {"line_id": "rule_15_good_32", "speaker": "oogaki_sales", "speaker_role": "営業部長 白鷗", "gender": "male", "sentence": "脱衣所でも浴室でもNG。廊下と外だけ。あと飲酒後すぐ温泉は気をつけて、血圧上がるから。水分補給忘れずに。", "sentence_translation": "Cả phòng thay đồ lẫn phòng tắm đều NG. Chỉ hành lang với ngoài thôi. Còn vừa uống rượu vào tắm là cẩn thận, huyết áp lên. Đừng quên uống nước.", "tone": "neutral"}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"phrase_id": "rule_15_kp_01", "speaker": "zun", "sentence": "[箱根]の旅館、おすすめありますか?", "sentence_translation": "Anh có ryokan [Hakone] gợi ý không ạ?", "purpose": "Mở topic du lịch nhờ tư vấn"},
+    {"phrase_id": "rule_15_kp_02", "speaker": "zun", "sentence": "[会席と懐石]の違いって何ですか?", "sentence_translation": "Kaiseki (rượu) và kaiseki (trà) khác nhau thế nào ạ?", "purpose": "Hỏi connoisseur — khách sẽ enthuse"},
+    {"phrase_id": "rule_15_kp_03", "speaker": "zun", "sentence": "[硫黄泉/鉄泉]、効能違うんですよね。", "sentence_translation": "[Lưu huỳnh / sắt] công dụng khác nhau đúng không ạ.", "purpose": "Show kiến thức 泉質"},
+    {"phrase_id": "rule_15_kp_04", "speaker": "zun", "sentence": "[雪見露天]、いつか入ってみたいです。", "sentence_translation": "[Tắm ngắm tuyết] em rất muốn thử.", "purpose": "Trigger khách invite Hokkaido"},
+    {"phrase_id": "rule_15_kp_05", "speaker": "zun", "sentence": "初めてなので、マナー教えていただけますか?", "sentence_translation": "Lần đầu nên anh dạy em etiquette với ạ.", "purpose": "Khiêm tốn — kéo senior vào dạy"},
+    {"phrase_id": "rule_15_kp_06", "speaker": "zun", "sentence": "[かけ湯]、入る前にしますよね。", "sentence_translation": "[Kake-yu] dội trước khi vào đúng không ạ.", "purpose": "Show đã prepared trước"}
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_15_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "温泉に入る前に最初にすべきことは?",
+      "options": [
+        "A. 湯船にすぐ浸かる",
+        "B. かけ湯で体を慣らしてから洗い場で体を洗う",
+        "C. タオルを湯に入れる",
+        "D. シャンプーを湯船で使う"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "かけ湯→洗い場で体洗い→湯船。これが基本マナー。",
+        "vi": "kake-yu → rửa kỹ ở 洗い場 → mới vào bồn. Quy tắc cơ bản."
+      }
+    },
+    {
+      "question_id": "rule_15_bjt_02",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「会席料理」と「懐石料理」のニュアンスとして正しいのは?",
+      "options": [
+        "A. 同じ意味",
+        "B. 会席=お酒のコース、懐石=茶事の前の軽食",
+        "C. 懐石=お酒のコース、会席=茶事の前",
+        "D. 値段の違い"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "音は同じでも漢字が違う。旅館の食事は会席が一般的。",
+        "vi": "Đồng âm nhưng chữ khác. 旅館 đa số là 会席."
+      }
+    },
+    {
+      "question_id": "rule_15_bjt_03",
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "「黒川温泉の入湯手形」とは何ですか?",
+      "options": [
+        "A. 温泉の入場券のこと",
+        "B. 1300円で複数の旅館の露天風呂を巡れる木の札",
+        "C. 温泉ソムリエの資格証明書",
+        "D. 旅館のチェックインキー"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "黒川温泉名物。1300円・6か月有効・3軒の旅館の露天風呂を巡れる木札。",
+        "vi": "Đặc sản Kurokawa. 1300円, 6 tháng hiệu lực, vào 3 ryokan khác nhau."
+      }
+    }
+  ],
+  "templates": []
+}

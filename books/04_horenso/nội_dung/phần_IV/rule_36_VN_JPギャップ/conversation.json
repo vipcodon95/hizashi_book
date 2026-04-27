@@ -1,0 +1,201 @@
+{
+  "rule_id": "rule_36",
+  "rule_slug": "VN-JP オフショア・ギャップ",
+  "title": {
+    "ja": "VN-JP オフショア・ギャップ (報告頻度)",
+    "vi": "Bridging gap VN-JP HouRenSou"
+  },
+  "rule_context": {
+    "ja": "ズンが3日間の提案書作成タスクで沈黙を保つ場面。VN『沈黙=順調』vs JP『沈黙=問題』のカルチャーギャップを、月曜時点で reporting cadence を約束 + 中間2回 + 完成報告で解消する。",
+    "vi": "Em Dũng làm task 3 ngày soạn proposal nhưng im lặng. Khoảng cách văn hóa VN 'im lặng = ổn' vs Nhật 'im lặng = vấn đề'. Khắc phục bằng cam kết cadence từ thứ Hai + 2 trung gian + báo hoàn thành."
+  },
+  "related_rules": ["rule_02", "rule_13", "rule_21"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — VN 沈黙＝順調",
+      "label_vi": "XẤU — VN style im lặng",
+      "display_order": 1,
+      "analysis": {
+        "ja": "51時間沈黙は JP では『何か問題が起きた』と推察される。VN の『no news = good news』は完全に逆方向。",
+        "vi": "51 giờ im lặng bên Nhật suy đoán 'có vấn đề'. VN 'no news = good news' đi ngược chiều."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_36_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(月曜9:00、Slack) 承知しました。木曜中に提案書をご準備いたします。",
+          "sentence_translation": "(Thứ Hai 9:00, Slack) Em hiểu rồi ạ. Em sẽ chuẩn bị proposal trong thứ Năm ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_36_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(月曜18:00〜水曜12:00、沈黙51時間)",
+          "sentence_translation": "(Thứ Hai 18:00 - thứ Tư 12:00, im lặng 51 giờ)",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_36_bad_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "(水曜13:00、Slack DM) ズンさん、進捗いかがでしょうか?月曜以降ご連絡なく、不安に感じております。",
+          "sentence_translation": "(Thứ Tư 13:00, Slack DM) Dũng, tiến độ thế nào nhỉ? Từ thứ Hai không thấy em báo, tôi đang lo.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_36_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、すみません、順調に進めています!木曜には間違いなく…",
+          "sentence_translation": "À, em xin lỗi, em đang làm thuận lợi ạ! Thứ Năm chắc chắn ạ...",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_36_bad_05",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ズンさん、進捗があってもなくても、3日に1度は status 連絡をお願いします。VN チームから連絡が無い時、こちらは『何か問題が起きたか』と推察してしまいます。",
+          "sentence_translation": "Dũng, có tiến độ hay không, 3 ngày 1 lần phiền em update status. Khi không thấy team VN báo, bên tôi sẽ suy đoán 'có chuyện gì xảy ra'.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — JP基準+30% (cadence約束+no news報告)",
+      "label_vi": "TỐT — JP standard +30% (hứa cadence + báo no news)",
+      "display_order": 2,
+      "analysis": {
+        "ja": "月曜時点で reporting cadence を pre-commit。火曜・水曜に『ブロッカーなし、予定通り進行中』と中間報告。木曜に『お約束通り』と close the loop。JP 基準に完全適応。",
+        "vi": "Thứ Hai pre-commit cadence. Thứ Ba thứ Tư báo 'no blocker, đúng kế hoạch'. Thứ Năm 'đúng như đã hứa' close the loop. Adapt 100% chuẩn Nhật."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_36_good_01",
+          "highlight_text": "進捗共有の予定: 火曜EOD: ドラフト構成案 / 水曜EOD: コスト見積完了 / 木曜AM: 完成版送付",
+          "ja": "タスク開始時に reporting cadence を約束。客は次にいつ聞けるか即把握。",
+          "vi": "Khi bắt đầu task hứa luôn cadence. Khách biết ngay khi nào sẽ nghe tiếp."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_36_good_02",
+          "highlight_text": "ブロッカーなし、予定通り進行中",
+          "ja": "no-news report (báo 'không có tin') の核心。情報なくても1行で『順調』を伝える。これが VN→JP 適応の最重要ポイント。",
+          "vi": "Cốt lõi của 「no-news report (báo 'không có tin')」. Không có info vẫn báo 1 dòng 「đúng kế hoạch」. Đây là điểm quan trọng nhất khi adapt VN→JP."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_36_good_05",
+          "highlight_text": "月曜お約束通り、火曜・水曜に中間報告を経て本日完成",
+          "ja": "完了報告で約束遵守を明示。客は『この VN チームは確実に約束を守る』と認識。",
+          "vi": "Báo cáo hoàn thành show giữ đúng lời hứa. Khách nhận biết 'team VN này chắc chắn giữ lời'."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_36_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(月曜9:00) 松本様、承知しました。木曜中に提案書をご準備いたします。進捗共有の予定: 火曜EOD: ドラフト構成案 / 水曜EOD: コスト見積完了 / 木曜AM: 完成版送付。途中で blocker あればすぐご連絡いたします。",
+          "sentence_translation": "(Thứ Hai 9:00) Anh Matsumoto, em hiểu rồi ạ. Em sẽ chuẩn bị proposal trong thứ Năm ạ. [Lịch chia sẻ tiến độ] Thứ Ba EOD: cấu trúc draft / thứ Tư EOD: xong báo giá cost / thứ Năm sáng: gửi bản cuối. Có blocker em báo ngay ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_36_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(火曜18:00、Slack) 【中間報告 ① / 火曜EOD】ドラフト構成案完成。Phase 3 機能スコープ8項目、コスト軸は人月+ライセンスで構成予定。ブロッカーなし、予定通り進行中。明日のコスト見積完了報告は水曜 EOD に行います。",
+          "sentence_translation": "(Thứ Ba 18:00, Slack) [Trung gian 1 / Thứ Ba EOD] Xong cấu trúc draft. Scope chức năng Phase 3 có 8 mục, trục cost dự kiến gồm man-month + license. Không có blocker, đúng kế hoạch. Báo xong cost ngày mai em làm thứ Tư EOD ạ.",
+          "tone": "neutral",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_36_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "(火曜18:30) ご連絡ありがとうございます。スコープ8項目、確認しました。",
+          "sentence_translation": "(Thứ Ba 18:30) Cảm ơn em báo. 8 mục scope tôi đã xem.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_36_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(水曜18:00、Slack) 【中間報告 ② / 水曜EOD】コスト見積完了 (¥18M〜¥22M レンジ)。明日 AM 9:00 に最終版を提案書でお送りいたします。ブロッカーなし。",
+          "sentence_translation": "(Thứ Tư 18:00, Slack) [Trung gian 2 / Thứ Tư EOD] Xong báo giá cost (range ¥18M-¥22M). Sáng mai 9:00 em gửi bản cuối qua proposal ạ. Không có blocker.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_36_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(木曜8:50、メール) 松本様、Phase 3 ご提案書をお送りいたします。月曜お約束通り、火曜・水曜に中間報告を経て本日完成いたしました。ご確認のほどよろしくお願い申し上げます。",
+          "sentence_translation": "(Thứ Năm 8:50, mail) Anh Matsumoto, em xin gửi proposal Phase 3 ạ. Đúng như hứa thứ Hai, qua 2 báo cáo trung gian thứ Ba và thứ Tư, hôm nay em đã hoàn thành ạ. Phiền anh xác nhận ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_36_good_06",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "進捗の見える化、非常に分かりやすくなりました。VN チームの ホウレンソウ 進化、感謝します。",
+          "sentence_translation": "Việc hữu hình hóa tiến độ rõ hơn rất nhiều. Cảm ơn team VN đã evolve Hou-Ren-Sou.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_36_kp_01",
+      "speaker": "zun",
+      "sentence": "進捗共有の予定: 〇〇EOD: 〇〇 / 〇〇EOD: 〇〇 / 〇〇: 完成版送付。途中で blocker あればすぐご連絡いたします。",
+      "sentence_translation": "[Lịch chia sẻ tiến độ] 〇〇 EOD: 〇〇 / 〇〇 EOD: 〇〇 / 〇〇: gửi bản cuối. Có blocker em báo ngay ạ.",
+      "purpose": "タスク開始時の reporting cadence pre-commit",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_36_kp_02",
+      "speaker": "zun",
+      "sentence": "【中間報告】〇〇 / ブロッカーなし、予定通り進行中。",
+      "sentence_translation": "[Báo cáo trung gian] 〇〇 / Không có blocker, đúng kế hoạch.",
+      "purpose": "no-news report (báo 'không có tin') の定型",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_36_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "VN team が JP 客に3日間のタスクを引き受けた場合、ホウレンソウとして最も適切なのは?",
+      "options": [
+        "完成時にまとめて報告",
+        "進捗があった時のみ連絡",
+        "開始時に reporting cadence を約束し、毎日 EOD に『ブロッカーなし、予定通り』でも1行報告",
+        "Slack に一日中張り付く"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "VN『沈黙=順調』vs JP『沈黙=問題』のギャップを cadence 約束 + no-news report (báo 'không có tin') で解消する。完成時のみは JP 側に不安を与える。",
+        "vi": "Khoảng cách VN 'im lặng = ổn' vs Nhật 'im lặng = vấn đề', giải quyết bằng cam kết cadence + báo no news. Chỉ báo lúc xong = khách Nhật bất an."
+      }
+    }
+  ]
+}

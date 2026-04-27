@@ -1,0 +1,208 @@
+{
+  "rule_id": "rule_26",
+  "rule_slug": "クロージング＋CTA",
+  "title": {
+    "ja": "クロージング＋CTA",
+    "vi": "Closing với CTA"
+  },
+  "rule_context": {
+    "ja": "Phase 3 プレゼンの終盤、Q&A 後のクロージング。Recap 3点 + CTA 3点 + 次回会議の場で確定。",
+    "vi": "Cuối pitch Phase 3, sau Q&A. Recap 3 + CTA 3 + chốt lịch họp tiếp ngay tại chỗ."
+  },
+  "related_rules": ["rule_13", "rule_27", "rule_28"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — Recap・CTA なし",
+      "label_vi": "XẤU — Không recap, không CTA",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「ありがとうございました」だけ → 客は次の step が不明。田中PMO が代わりに聞く始末。",
+        "vi": "Chỉ 「cảm ơn」 → khách không biết next step. 田中 PMO phải hỏi thay = mất authority."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_26_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "以上です。本日はお時間いただきありがとうございました。",
+          "sentence_translation": "Hết rồi ạ. Hôm nay cảm ơn quý vị đã dành thời gian ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_26_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "…で、次は？",
+          "sentence_translation": "...Vậy tiếp theo?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_26_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、それは…後ほどメールで送ります…",
+          "sentence_translation": "À, cái đó... em gửi mail sau ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_26_bad_04",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO担当",
+          "gender": "male",
+          "sentence": "次回会議の日付は？",
+          "sentence_translation": "Ngày họp lần tới?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_26_bad_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと、確認して連絡します…",
+          "sentence_translation": "Ờ, em check rồi liên hệ sau ạ...",
+          "tone": "nervous"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — Recap 3＋CTA 3＋次回確定",
+      "label_vi": "TỐT — Recap 3 + CTA 3 + chốt next meeting",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_26_good_01",
+          "highlight_text": "本日のまとめ",
+          "ja": "Recap slide のヘッダー。聴衆の attention を sharpen させる signal。",
+          "vi": "Heading slide recap. Signal khiến khán giả tự động sharpen attention."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_26_good_04",
+          "highlight_text": "次のステップは3つ",
+          "ja": "CTA numbered。各 step に action + owner + deadline 必須。3点が sweet spot。",
+          "vi": "CTA numbered. Mỗi step có action + owner + deadline. 3 cái là sweet spot."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_26_good_05",
+          "highlight_text": "ご都合いかがでしょうか",
+          "ja": "次回会議をその場で確定。客が OK なら settled、NG なら週内に reschedule 可能。",
+          "vi": "Chốt lịch họp ngay tại chỗ. OK = xong, NG = reschedule trong tuần."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_26_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "では、本日のまとめをさせていただきます。",
+          "sentence_translation": "Em xin phép tóm tắt nội dung hôm nay ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_26_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "3点ございます。①Phase 3 スコープは19機能、5/15 開始 / 12/15 リリース、②価格は1200万円(Phase 2 比単価 -8%)、③責任者ペアは弊社ズン＋御社松本様でございます。",
+          "sentence_translation": "Có 3 điểm ạ. ① Scope Phase 3 = 19 chức năng, bắt đầu 15/5 / release 15/12; ② giá 12 triệu yên (đơn giá giảm 8% so Phase 2); ③ cặp owner = Dũng bên em + anh Matsumoto bên quý vị ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_26_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "次のステップは3つございます。",
+          "sentence_translation": "Next step có 3 mục ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_26_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "①今週金曜まで に SOAP 統合詳細回答メール (弊社→御社)、②5/8 (来週水曜) にスコープ最終確認会議 (60分・対面)、③5/15 までに 契約書サインインオフ (両社法務経由)。",
+          "sentence_translation": "① Trước thứ Sáu tuần này: email phản hồi chi tiết tích hợp SOAP (bên em → bên quý vị); ② 8/5 (thứ Tư tuần sau): họp chốt scope final (60 phút, gặp trực tiếp); ③ trước 15/5: sign-off hợp đồng (qua pháp chế hai bên) ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_26_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "次回会議は5月8日 14時から白鷗様会議室で予約させていただきました。ご都合いかがでしょうか？",
+          "sentence_translation": "Họp tiếp em đã giữ chỗ 14h ngày 8/5 tại phòng họp Hakuō ạ. Quý vị có thuận tiện không ạ?",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_26_good_06",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "問題ない。5/8 で進めましょう。",
+          "sentence_translation": "Không vấn đề. Đi 8/5 đi.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_26_good_07",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。本日のスライド+議事メモは24時間以内にメールでお送りいたします。本日はお時間頂戴し、誠にありがとうございました。",
+          "sentence_translation": "Em cảm ơn ạ. Slide hôm nay + memo họp em sẽ gửi mail trong vòng 24h ạ. Hôm nay xin chân thành cảm ơn quý vị đã dành thời gian ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_26_kp_01",
+      "speaker": "zun",
+      "sentence": "本日のまとめは3点ございます。①〜、②〜、③〜。",
+      "sentence_translation": "Tóm tắt hôm nay có 3 điểm ạ. ① ~, ② ~, ③ ~.",
+      "purpose": "Closing recap 3点 標準",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_26_kp_02",
+      "speaker": "zun",
+      "sentence": "次のステップは3つ。〇〇までに〇〇、〇〇までに〇〇、〇〇までに〇〇。",
+      "sentence_translation": "Next step 3 mục: trước 〇〇 thì 〇〇, trước 〇〇 thì 〇〇, trước 〇〇 thì 〇〇.",
+      "purpose": "CTA numbered 標準",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_26_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "プレゼンのクロージングで必須の構成は？",
+      "options": [
+        "「ありがとうございました」のみ",
+        "Recap 3点 + CTA (action + owner + deadline) + 次回会議確定",
+        "全スライドをもう一度見せる",
+        "Q&A に戻る"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "Recap 3点で記憶定着、CTA で次の動きを明確化、次回会議その場確定で followup を最小化。",
+        "vi": "Recap 3 = nhớ key. CTA = rõ động thái tiếp. Chốt lịch tại chỗ = giảm followup mail qua lại."
+      }
+    }
+  ]
+}

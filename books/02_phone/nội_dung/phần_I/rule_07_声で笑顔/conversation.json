@@ -1,0 +1,99 @@
+{
+  "rule_id": "rule_07",
+  "rule_slug": "声で笑顔を作る",
+  "title": {
+    "ja": "声で笑顔を作る",
+    "vi": "Smile in voice — giọng truyền cảm xúc"
+  },
+  "rule_context": {
+    "ja": "電話では実際に笑顔を作ると声に温度が乗り、相手も温かく感じる。",
+    "vi": "Trên phone khi cười thật, vocal tract thay đổi → khách cảm nhận được warmth."
+  },
+  "related_rules": [
+    "rule_06",
+    "rule_40"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 無表情で話す",
+      "label_vi": "XẤU — Nói mặt tỉnh, không cảm xúc",
+      "display_order": 1,
+      "conversation_lines": [
+        {
+          "line_id": "rule_07_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お電話ありがとうございます、ズンです。",
+          "sentence_translation": "Cảm ơn anh đã gọi, tôi là Dũng.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_07_bad_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "あ、はい、松本ですが...",
+          "sentence_translation": "À vâng, tôi là Matsumoto...",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 微笑みながら話す",
+      "label_vi": "TỐT — Cười nhẹ khi nói",
+      "display_order": 2,
+      "conversation_lines": [
+        {
+          "line_id": "rule_07_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お電話ありがとうございます！ティエンファット社のズンでございます。",
+          "sentence_translation": "Cảm ơn anh đã gọi! Tôi là Dũng bên Cty Thiên Phát ạ.",
+          "tone": "cheerful"
+        },
+        {
+          "line_id": "rule_07_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "松本です。いつもお世話になっております。",
+          "sentence_translation": "Tôi là Matsumoto. Lúc nào cũng cảm ơn bên em hỗ trợ ạ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_07_kp_01",
+      "speaker": "zun",
+      "sentence": "電話に出る前に1秒、口角を上げる。",
+      "sentence_translation": "Trước khi bốc máy, nâng góc miệng 1 giây.",
+      "purpose": "笑顔の習慣化 — 電話前のルーティン",
+      "slow_audio": false
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_07_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "電話で「声に笑顔を乗せる」とは？",
+      "options": [
+        "笑い声を出す",
+        "実際に微笑みながら話す",
+        "冗談を言う",
+        "声を高く張り上げる"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "実際の表情筋の動きが声の質を変える。",
+        "vi": "Chuyển động cơ mặt thực tế thay đổi chất giọng — khoa học, không phải tip mềm."
+      }
+    }
+  ]
+}

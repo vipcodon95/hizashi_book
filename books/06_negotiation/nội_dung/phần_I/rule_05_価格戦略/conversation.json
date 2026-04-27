@@ -1,0 +1,171 @@
+{
+  "rule_id": "rule_05",
+  "rule_slug": "価格戦略",
+  "title": {
+    "ja": "価格戦略",
+    "vi": "Định giá strategy"
+  },
+  "rule_context": {
+    "ja": "Phase 3 価格モデル決定会議。CTO + 副部長 + Tuấn + Dũng が cost-plus / value-based / anchoring を比較する。",
+    "vi": "Họp quyết mô hình giá Phase 3. CTO + chị Hương + Tuấn + Dũng so 3 mô hình cost-plus / value-based / anchoring."
+  },
+  "related_rules": ["rule_02", "rule_06", "rule_18", "rule_23"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 戦略案件にcost-plus",
+      "label_vi": "XẤU — Deal chiến lược lại dùng cost-plus",
+      "display_order": 1,
+      "analysis": {
+        "ja": "原価+利益率だけで価格決定。顧客が得るインパクト(value)を反映しないため、戦略案件で取りこぼし。",
+        "vi": "Định giá chỉ theo cost+margin. Không phản ánh value khách nhận → bỏ tiền trên bàn ở deal chiến lược."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_05_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "原価 ¥13M、利益率 25% 上乗せで ¥16.25M、切り上げ ¥16.5M で出します。",
+          "sentence_translation": "Cost ¥13M, cộng margin 25% thành ¥16.25M, làm tròn ¥16.5M ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_05_bad_02",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "Phase 3 は新機能 AI レコメンドエンジン込み、白鷗の売上 +¥80M/年見込めるんでしょ？それを ¥16.5M で売る？",
+          "sentence_translation": "Phase 3 có cả AI recommend engine, ước doanh thu Hakuō +¥80M/năm đúng không? Mà bán ¥16.5M?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_05_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと、原価ベースだとそれが妥当かと…",
+          "sentence_translation": "Dạ ờ, theo cost-base thì em thấy hợp lý ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_05_bad_04",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "Value-based で考えて。¥80M インパクトの 20% = ¥16M 程度なら value 的にお買い得感もあるけど、¥18-22M でも妥当。cost-plus は商品案件用、戦略案件には適さない。",
+          "sentence_translation": "Nghĩ theo value-based đi. Impact ¥80M × 20% ≒ ¥16M là khách thấy hời, nhưng ¥18-22M cũng vẫn hợp lý. Cost-plus dùng cho commodity, không hợp deal chiến lược.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — value-based + anchoring",
+      "label_vi": "TỐT — value-based + anchoring",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_05_good_01",
+          "highlight_text": "3 つ比較しました",
+          "ja": "cost-plus / value-based / anchoring の3モデルをbenchmarkしてから選ぶ。1つに飛びつかない。",
+          "vi": "Benchmark cả 3 mô hình rồi mới chọn. Không nhảy thẳng vào 1 cái."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_05_good_02",
+          "highlight_text": "value-based ¥19M を anchor、target ¥18M、reservation ¥15M",
+          "ja": "Anchor / Target / Reservation の3数値を別々に持つ。Anchor=出口、Target=狙い、Reservation=底。",
+          "vi": "3 con số riêng biệt: Anchor (mở), Target (mục tiêu), Reservation (đáy)."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_05_good_04",
+          "highlight_text": "ROI シート",
+          "ja": "value-basedでCFOを説得する核ツール。case study + 数値モデル付きでなければ「信じてください」止まり。",
+          "vi": "Tool lõi để thuyết phục CFO ở value-based. Không có case study + mô hình số = chỉ là 'hãy tin tôi'."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_05_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 3 価格戦略案、3 つ比較しました。",
+          "sentence_translation": "Em đã so sánh 3 phương án giá Phase 3 ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_05_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Cost-plus: ¥16.5M。Value-based: 白鷗売上 +¥80M インパクト × 20% = ¥16M、+リスクシェア込みで ¥19M。Anchoring 起点 ¥22M (Y 社水準)、譲歩で ¥18M 着地想定。推奨は value-based ¥19M を anchor、target ¥18M、reservation ¥15M です。",
+          "sentence_translation": "Cost-plus: ¥16.5M. Value-based: impact +¥80M × 20% = ¥16M, cộng risk-share thành ¥19M. Anchoring khởi ¥22M (mức Y社), nhượng bộ về ¥18M. Đề xuất: anchor ¥19M value-based, target ¥18M, reservation ¥15M ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_05_good_03",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "ROI 説明はできる？",
+          "sentence_translation": "Em giải thích được ROI không?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_05_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "はい。AI レコメンド導入で transaction 単価 +12%、white paper でモデルケース 3 社あります。CFO 中村さんへの ROI シートも作成済みです。",
+          "sentence_translation": "Vâng ạ. Triển khai AI recommend giúp transaction unit price +12%, có 3 model case trong white paper. ROI sheet cho CFO Nakamura em cũng đã làm xong ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_05_good_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "いいね。¥19M を堂々と出して、value で押す。¥18M に着地しても粗利率 26%、許容範囲。",
+          "sentence_translation": "Tốt. Em ra ¥19M một cách thẳng thắn, đẩy bằng value. Có chốt ¥18M thì gross margin 26%, vẫn nằm trong khoảng chấp nhận.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_05_kp_01",
+      "speaker": "zun",
+      "sentence": "Cost-plus / value-based / anchoring の3モデルを比較し、推奨は value-based です。",
+      "sentence_translation": "Em đã so 3 mô hình cost-plus / value-based / anchoring, đề xuất là value-based ạ.",
+      "purpose": "価格戦略提案の標準",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_05_bjt_01",
+      "level": "J1",
+      "skill": "表現読解",
+      "question_ja": "戦略案件 (新機能込み・売上+¥80M インパクト) に最も適切な価格戦略は？",
+      "options": [
+        "Cost-plus 単独",
+        "Value-based + anchoring",
+        "競合追随 (競合と同額)",
+        "市場最低価格"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "戦略案件は cost ではなく value で売る。Anchoring で交渉余地を確保しつつ ROI で正当化する。",
+        "vi": "Deal chiến lược bán theo value, không theo cost. Anchoring để có chỗ đàm phán + ROI để biện minh."
+      }
+    }
+  ]
+}

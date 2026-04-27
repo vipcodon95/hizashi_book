@@ -1,0 +1,88 @@
+{
+  "rule_id": "rule_26",
+  "rule_slug": "発信時の名乗りフォーマット",
+  "title": {
+    "ja": "発信時の名乗りフォーマット",
+    "vi": "Format giới thiệu khi gọi đi"
+  },
+  "rule_context": {
+    "ja": "ズンが白鷗社代表番号に発信。受付に対して①挨拶②自己紹介③取次依頼の3要素を実践する場面。",
+    "vi": "Em Dũng gọi vào số đại diện Hakuō. Với lễ tân, thực hiện 3 yếu tố: chào → tự xưng → nhờ nối máy."
+  },
+  "related_rules": [
+    "rule_24",
+    "rule_25",
+    "rule_27"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『と申します』で謙譲、『恐れ入りますが』で前置き、『いらっしゃいますでしょうか』で最高敬語。受付に対しても同じ礼儀を保つ。",
+        "vi": "「と申します」 khiêm nhường, 「恐れ入りますが」 lời mở rào, 「いらっしゃいますでしょうか」 kính ngữ cao. Với lễ tân vẫn giữ lễ độ."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_26_good_01",
+          "speaker": "reception_hakuo",
+          "speaker_role": "受付 (白鷗株式会社)",
+          "gender": "female",
+          "sentence": "白鷗株式会社でございます。",
+          "sentence_translation": "Cty Hakuō xin nghe ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_26_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "いつもお世話になっております。ティエンファット社、営業部のズンと申します。恐れ入りますが、松本様はいらっしゃいますでしょうか？",
+          "sentence_translation": "Em chào chị ạ. Em là Dũng, phòng kinh doanh Cty Thiên Phát ạ. Phiền chị, anh Matsumoto có ở văn phòng không ạ?",
+          "tone": "formal",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_26_good_03",
+          "speaker": "reception_hakuo",
+          "speaker_role": "受付 (白鷗株式会社)",
+          "gender": "female",
+          "sentence": "松本ですね。少々お待ちくださいませ。",
+          "sentence_translation": "Dạ anh Matsumoto đúng không ạ? Anh giữ máy chút ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_26_kp_01",
+      "speaker": "zun",
+      "sentence": "ティエンファット社、営業部のズンと申します。恐れ入りますが、〇〇様はいらっしゃいますでしょうか？",
+      "sentence_translation": "Em là Dũng phòng kinh doanh Cty Thiên Phát ạ. Phiền chị, anh/chị 〇〇 có ở văn phòng không ạ?",
+      "purpose": "発信名乗り＋取次依頼の標準",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_26_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "発信時の自己紹介で正しい謙譲表現は？",
+      "options": [
+        "でございます",
+        "と申します",
+        "ですけど",
+        "なんですが"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "発信側の自己紹介は謙譲語『と申します』。受電側は『でございます』。",
+        "vi": "Bên gọi đi tự xưng dùng khiêm nhường 「と申します」. Bên nhận máy dùng 「でございます」."
+      }
+    }
+  ]
+}

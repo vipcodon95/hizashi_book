@@ -1,0 +1,182 @@
+{
+  "rule_id": "rule_21",
+  "rule_slug": "ロードマップ可視化",
+  "title": {
+    "ja": "ロードマップ可視化",
+    "vi": "Roadmap visualization"
+  },
+  "rule_context": {
+    "ja": "ズンがテキスト型 roadmap を draft → トゥアンが Gantt + milestone + owner pair + buffer 明示の visual roadmap に直させる場面。",
+    "vi": "Dũng draft roadmap text-only. Tuấn yêu cầu sửa sang Gantt + milestone + cặp owner + buffer rõ."
+  },
+  "related_rules": [
+    "rule_17",
+    "rule_20"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — テキストのみ roadmap",
+      "label_vi": "XẤU — Roadmap chỉ text",
+      "display_order": 1,
+      "analysis": {
+        "ja": "テキストだけの roadmap は『計画があるか半信半疑』に映る。日本顧客は timeline を厳しく見る。",
+        "vi": "Roadmap chỉ text khiến khách 「bán tín bán nghi」 về việc có plan thật không. Khách Nhật scrutinize timeline rất gắt."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_21_bad_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "ズン、roadmap がただのテキスト？『5月開始、12月完了』だけ？",
+          "sentence_translation": "Dũng, roadmap chỉ là text à? Chỉ có 「bắt đầu tháng 5, xong tháng 12」?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_21_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "文章の方が説明しやすいかと…",
+          "sentence_translation": "Em nghĩ văn xuôi dễ giải thích hơn ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_21_bad_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "Roadmap は visual で見せるもの。Phase / milestone / owner / 日付 全部入る gantt-style。テキストだと客は計画があるか半信半疑。",
+          "sentence_translation": "Roadmap là phải show visual. Phase / milestone / owner / ngày — tất cả vào gantt-style. Text thì khách bán tín bán nghi 「có plan không vậy」.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_21_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ…テンプレート使いますか？",
+          "sentence_translation": "À... em dùng template ạ?",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — Gantt＋milestone＋owner＋buffer",
+      "label_vi": "TỐT — Gantt + milestone + owner + buffer",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_21_good_01",
+          "highlight_text": "Roadmap report テンプレ",
+          "ja": "Gantt + milestone table + buffer note の3点 layout が標準。",
+          "vi": "Layout chuẩn: Gantt + milestone table + buffer note."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_21_good_01",
+          "highlight_text": "◆要件 sign-off",
+          "ja": "Milestone記号: ◆重要 (sign-off, release) / ●通常 (review) / ○任意 (option)。Hierarchy を視覚化。",
+          "vi": "Ký hiệu milestone: ◆ quan trọng / ● bình thường / ○ tuỳ chọn. Visualize hierarchy."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_21_good_02",
+          "highlight_text": "owner ペア",
+          "ja": "Vendor + client から各1名。シングル owner は責任分散不可で bottleneck。",
+          "vi": "Vendor + client mỗi bên 1 người. Single owner không phân tán trách nhiệm = bottleneck."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_21_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Roadmap report テンプレで作りました。4 phase: ①要件定義(5/15-6/30) ②設計開発(7/1-9/30) ③テスト(10/1-11/15) ④リリース移行(11/16-12/15)。マイルストーン: ◆要件 sign-off (6/30 / 弊社ズン＋御社松本)、◆UAT 完了 (11/15 / 弊社トゥアン＋御社田中) など5点。",
+          "sentence_translation": "Em làm theo template Roadmap report ạ. 4 phase: ① define requirement (15/5-30/6) ② design + dev (1/7-30/9) ③ test (1/10-15/11) ④ release migrate (16/11-15/12). Milestone: ◆ sign-off requirement (30/6 / Dũng bên em + Matsumoto bên quý vị), ◆ UAT xong (15/11 / Tuấn bên em + Tanaka bên quý vị) — tổng 5 cái.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_21_good_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "いいね、各 milestone に owner ペア書いてるのが良い。Bottle neck どこ？",
+          "sentence_translation": "Tốt, viết cặp owner cho mỗi milestone là điểm hay. Bottleneck ở đâu?",
+          "tone": "neutral",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_21_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "8月の設計レビュー(設計開発 phase 中盤)。ここで承認遅延すると全体遅れる。buffer 1週間 を gantt に入れています。",
+          "sentence_translation": "Review thiết kế tháng 8 (giữa phase design + dev) ạ. Nếu approve trễ ở đây thì cả tổng trễ. Em đã cho buffer 1 tuần vào gantt rồi ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_21_good_04",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "Buffer 明示も重要。客は『ありえない』完璧 schedule を信じない。",
+          "sentence_translation": "Show buffer cũng quan trọng. Khách không tin schedule 「hoàn hảo không tưởng」 đâu.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_21_kp_01",
+      "speaker": "zun",
+      "sentence": "マイルストーン〇点、各 owner は弊社〇〇＋御社〇〇でございます。",
+      "sentence_translation": "Có 〇 milestone ạ, owner mỗi cái là 〇〇 bên em + 〇〇 bên quý vị ạ.",
+      "purpose": "Roadmap milestone宣言",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_21_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "プレゼンの roadmap で日本顧客の信頼を最も得る形式は？",
+      "options": [
+        "テキストで『5月-12月実施』とのみ記載",
+        "Gantt + milestone (日付/成果物/owner pair) + buffer 明示",
+        "全 milestone を TBD",
+        "Single owner で全フェーズ"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "Gantt visualization + milestone 3点 (日付/成果物/owner) + buffer 明示 が標準。TBD と single owner は信頼を下げる。",
+        "vi": "Visualize Gantt + 3 điểm milestone (ngày / output / owner) + buffer rõ là chuẩn. TBD + single owner làm giảm trust."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_21_tpl_01",
+      "format": "report",
+      "title_ja": "プロジェクト ロードマップ テンプレート",
+      "title_vi": "Template Roadmap Dự án",
+      "content_ja": "【プロジェクト ロードマップ】 (Phase X)\n\n■ Gantt サマリ\n                    5月  6月  7月  8月  9月  10月 11月 12月\n①要件定義 (15日)    ███\n②設計開発 (90日)         ████████████\n③テスト (45日)                          ██████\n④リリース移行(30日)                              ████\n\n■ マイルストーン (◆重要 / ●通常 / ○任意)\n| # | 記号 | 日付 | マイルストーン | 成果物 | 責任者 (vendor/client) |\n|---|-----|------|--------------|--------|----------------------|\n| 1 | ◆ | 6/30 | 要件定義 sign-off | 要件定義書 v1.0 | 〇〇 / 〇〇 |\n| 2 | ● | 8/15 | 設計レビュー | 設計書 v1.0 | 〇〇 / 〇〇 |\n| 3 | ● | 9/30 | コード完了 | β版ビルド | 〇〇 / 〇〇 |\n| 4 | ◆ | 11/15 | UAT 完了 | UATレポート | 〇〇 / 〇〇 |\n| 5 | ◆ | 12/15 | 本番リリース | リリースノート | 〇〇 / 〇〇 |\n\n■ Buffer\n- 設計レビュー後 1週間 (〇/〇-〇/〇) — スケジュール遅延吸収\n- UAT 期間に 1週間予備 (〇/〇-〇/〇)\n\n■ 前提条件 (Critical assumptions)\n- 御社のテストデータ提供は 〇/〇 までに\n- セキュリティ監査は弊社主導で 〇/〇-〇/〇 実施\n- 本番環境アクセス権限は 〇/〇 までに付与\n\n■ Risk → 対策\n- 要件変更時: change control プロセス\n- 移行失敗時: 旧環境 parallel 3ヶ月",
+      "content_vi": "[Roadmap dự án] (Phase X)\n\n[Tóm tắt Gantt]\n                    5월  6월  7월  8월  9월  10월 11월 12월\n① Define req (15 ngày)  ███\n② Design + Dev (90 ngày)     ████████████\n③ Test (45 ngày)                            ██████\n④ Release migrate (30 ngày)                          ████\n\n[Milestone] (◆ quan trọng / ● bình thường / ○ tuỳ chọn)\n| # | KH | Ngày | Milestone | Output | Owner (vendor / client) |\n|---|----|------|-----------|--------|------------------------|\n| 1 | ◆ | 30/6 | Sign-off requirement | Tài liệu req v1.0 | 〇〇 / 〇〇 |\n| 2 | ● | 15/8 | Review thiết kế | Tài liệu design v1.0 | 〇〇 / 〇〇 |\n| 3 | ● | 30/9 | Hoàn thành code | β build | 〇〇 / 〇〇 |\n| 4 | ◆ | 15/11 | UAT xong | Báo cáo UAT | 〇〇 / 〇〇 |\n| 5 | ◆ | 15/12 | Release production | Release note | 〇〇 / 〇〇 |\n\n[Buffer]\n- Sau review thiết kế 1 tuần (〇/〇-〇/〇) — hấp thụ trễ schedule\n- Trong UAT có 1 tuần dự phòng (〇/〇-〇/〇)\n\n[Điều kiện tiên quyết — Critical assumptions]\n- Test data bên quý vị cung cấp trước 〇/〇\n- Security audit do bên em chủ trì, thực hiện 〇/〇-〇/〇\n- Quyền access môi trường production cấp trước 〇/〇\n\n[Risk → đối sách]\n- Thay đổi yêu cầu: quy trình change control\n- Migrate fail: chạy song song env cũ 3 tháng",
+      "notes_ja": "Gantt は projector でも判読できるよう太め。Milestone 5±2 個。Buffer は実工期の 5-10%。前提条件は契約書にも反映。",
+      "notes_vi": "Gantt vẽ đậm để projector đọc được. Milestone 5±2 cái. Buffer 5-10% lịch thực. Điều kiện tiên quyết phải reflect vào hợp đồng."
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "rule_id": "rule_08",
+  "rule_slug": "報告書の書き方",
+  "title": {
+    "ja": "報告書の書き方 (件名/宛先/作成日/概要/詳細/結論/添付)",
+    "vi": "Cách viết houkokusho — báo cáo formal kiểu Nhật"
+  },
+  "rule_context": {
+    "ja": "ズンが Phase 2 完了報告書のドラフトをトゥアンリーダーに見せる場面。日本企業標準の7要素フォーマットを実演。",
+    "vi": "Em Dũng đưa anh Tuấn review draft báo cáo hoàn thành Phase 2. Áp dụng format 7 phần chuẩn business Nhật."
+  },
+  "related_rules": [
+    "rule_03",
+    "rule_05",
+    "rule_11"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 件名曖昧 + 概要欠落 + 添付一覧なし",
+      "label_vi": "XẤU — Tiêu đề mơ hồ, thiếu tổng quan, không có danh mục đính kèm",
+      "display_order": 1,
+      "analysis": {
+        "ja": "報告書の7要素が揃っていないと、相手は「未完成書類」として扱う。件名が曖昧だとフォルダ分類もできない。",
+        "vi": "Thiếu 7 phần thì người nhận xem như văn bản chưa hoàn chỉnh. Tiêu đề mơ hồ thì cũng không phân loại được vào folder."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_08_bad_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "ズン、報告書のドラフト見たけど…件名が「Phase 2について」？こんなの NG だよ。",
+          "sentence_translation": "Dũng, anh xem draft báo cáo... tiêu đề là 'Về Phase 2'? Cái này NG.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_08_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっ、内容には Phase 2 のこと書いてますけど…",
+          "sentence_translation": "Hả, nội dung có viết về Phase 2 mà ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_08_bad_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "件名は『何の報告か + 期間 + 宛先優先順位』で書くんだ。それと概要（300字）が無い。詳細だけだと松本様は読まずに飛ばす。",
+          "sentence_translation": "Tiêu đề viết theo 'báo cáo gì + thời gian + ưu tiên người nhận'. Còn nữa, không có phần tổng quan (300 chữ). Chỉ có chi tiết thì anh Matsumoto sẽ skip.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_08_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "概要も詳細も、似たようなことなんで…",
+          "sentence_translation": "Tổng quan với chi tiết na ná nhau, nên em...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_08_bad_05",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "概要は『3秒で読める要約』、詳細は『じっくり読む人向け』。役割が違う。それと作成日と添付一覧も無い。フォーマットを守って。",
+          "sentence_translation": "Tổng quan là 'tóm tắt đọc 3 giây', chi tiết là 'cho người đọc kỹ'. Vai trò khác nhau. Thêm nữa, không có ngày lập và danh mục đính kèm. Phải giữ đúng format.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 7要素完備",
+      "label_vi": "TỐT — Đủ 7 phần",
+      "display_order": 2,
+      "analysis": {
+        "ja": "件名で書類分類が可能、概要で経営層対応、詳細で実務層対応、添付一覧でバージョン管理が可能になる。",
+        "vi": "Tiêu đề giúp phân loại văn bản, tổng quan phục vụ cấp quản lý, chi tiết phục vụ team thực thi, danh mục đính kèm giúp quản lý version."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_08_good_01",
+          "highlight_text": "Phase 2 完了報告書（〇月〇日〜〇月〇日）",
+          "ja": "件名は「種別＋スコープ＋期間」。「〜について」は分類不能で NG。",
+          "vi": "Tiêu đề: 'loại + scope + thời gian'. 「〜について」 không phân loại được, NG."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_08_good_02",
+          "highlight_text": "概要セクションが3行で要点をまとめてる",
+          "ja": "概要は経営層向け。3秒で読み終える長さに圧縮。",
+          "vi": "Tổng quan dành cấp quản lý. Nén lại để đọc trong 3 giây."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_08_good_03",
+          "highlight_text": "添付一覧（検収書、ダッシュボード PDF、議事録）",
+          "ja": "添付ファイルは名前 + version + 日付で列挙。後で「どのファイル？」になるのを防ぐ。",
+          "vi": "File đính kèm liệt kê tên + version + ngày. Tránh sau này hỏi 'file nào?'."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_08_good_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "ズン、これ良くなった。件名「Phase 2 完了報告書（〇月〇日〜〇月〇日）」。",
+          "sentence_translation": "Dũng, lần này tốt rồi. Tiêu đề 'Báo cáo hoàn thành Phase 2 (〇/〇 - 〇/〇)' đây.",
+          "tone": "warm",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_08_good_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "概要セクションが3行で要点をまとめてる ✓。詳細は KPI と Lessons まで網羅 ✓。結論で次フェーズへの提言が入ってる ✓。",
+          "sentence_translation": "Section tổng quan tóm 3 dòng đủ ý ✓. Chi tiết bao quát cả KPI và Lessons ✓. Kết luận có đề xuất cho phase sau ✓.",
+          "tone": "warm",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_08_good_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "作成日、宛先（主：松本様、CC：大垣様、社内：ハー、フオン副部長）、添付一覧（検収書、ダッシュボード PDF、議事録）も全部揃ってる。",
+          "sentence_translation": "Ngày lập, người nhận (chính: anh Matsumoto, CC: anh Ōgaki, nội bộ: anh Hà, chị Hương), danh mục đính kèm (văn bản nghiệm thu, dashboard PDF, biên bản họp) cũng đủ hết.",
+          "tone": "warm",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_08_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。Phase 3 でも同じテンプレートを使います。",
+          "sentence_translation": "Em cảm ơn anh. Phase 3 em sẽ dùng cùng template ạ.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_08_good_05",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "うん、これは社内標準にしよう。リンに共有して。",
+          "sentence_translation": "Ừ, mình lấy cái này làm chuẩn nội bộ. Em chia sẻ cho Linh nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_08_kp_01",
+      "speaker": "zun",
+      "sentence": "件名・宛先・作成日・概要・詳細・結論・添付の7要素を必ず含めて作成いたします。",
+      "sentence_translation": "Em sẽ làm đủ 7 phần: tiêu đề, người nhận, ngày lập, tổng quan, chi tiết, kết luận, đính kèm ạ.",
+      "purpose": "報告書7要素の口頭確認",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_08_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "報告書の件名として最も適切なのは？",
+      "options": [
+        "Phase 2 について",
+        "ご報告",
+        "Phase 2 完了報告書（4月1日〜4月20日）",
+        "添付資料あります"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "件名は『書類種別＋スコープ＋期間』。「〜について」「ご報告」では分類不能。",
+        "vi": "Tiêu đề: 'loại văn bản + scope + thời gian'. 「〜について」「ご報告」 không phân loại được."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_08_tpl_01",
+      "format": "report",
+      "title_ja": "完了報告書（formal 7要素）テンプレート",
+      "title_vi": "Template báo cáo hoàn thành (formal 7 phần)",
+      "content_ja": "━━━━━━━━━━━━━━━━━━━━━━━━━\nPhase 2 完了報告書\n（対象期間：2026年4月1日〜4月20日）\n━━━━━━━━━━━━━━━━━━━━━━━━━\n\n【宛先】\n  主：白鷗株式会社 松本PM\n  CC：白鷗株式会社 大垣営業部長\n  社内：ティエンファット ハーCTO、フオン副部長\n\n【作成日】\n  2026年4月22日\n\n【作成者】\n  ティエンファット社 営業部 〇〇\n\n━━━━━━━━━━━━━━━━━━━━━━━━━\n■ 概要（Executive Summary）\n━━━━━━━━━━━━━━━━━━━━━━━━━\nPhase 2 を予定通り 4月20日に完了。納品物5点、検収完了。画面ロード時間 -67%、バグ件数 -70% を達成。Phase 3 着手は5月7日を提案。\n\n━━━━━━━━━━━━━━━━━━━━━━━━━\n■ 詳細\n━━━━━━━━━━━━━━━━━━━━━━━━━\n1. 納品物一覧\n   1-1. 要件定義書 v2.0\n   1-2. 設計書 v1.3\n   ...\n2. KPI 達成状況\n   2-1. 画面ロード：1.2秒 → 0.4秒（-67%）\n   2-2. バグ件数：週20件 → 週6件（-70%）\n   ...\n3. 振り返り（Lessons Learned）\n   ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━━\n■ 結論・提言\n━━━━━━━━━━━━━━━━━━━━━━━━━\nPhase 2 を予定通り完了。Phase 3 は5月7日キックオフを提案。仕様確認手順を着手前必須化することを Phase 3 の運営ルールに追加したい。\n\n━━━━━━━━━━━━━━━━━━━━━━━━━\n■ 添付資料\n━━━━━━━━━━━━━━━━━━━━━━━━━\n  1. 検収書（白鷗株式会社発行、2026年4月20日付）\n  2. KPI ダッシュボード（PDF、v1.0）\n  3. 第N回定例議事録（2026年4月18日）\n\n以上",
+      "content_vi": "━━━━━━━━━━━━━━━━━━━━━━━━━\nBáo cáo hoàn thành Phase 2\n(Kỳ: 1/4/2026 - 20/4/2026)\n━━━━━━━━━━━━━━━━━━━━━━━━━\n\n[Người nhận]\n  Chính: anh Matsumoto PM (Cty Hakuō)\n  CC: anh Ōgaki Giám đốc Kinh doanh (Cty Hakuō)\n  Nội bộ: anh Hà CTO, chị Hương Phó phòng (Thiên Phát)\n\n[Ngày lập]\n  22/4/2026\n\n[Người lập]\n  Phòng Kinh doanh, Thiên Phát — 〇〇\n\n━━━━━━━━━━━━━━━━━━━━━━━━━\n[Tổng quan (Executive Summary)]\n━━━━━━━━━━━━━━━━━━━━━━━━━\nPhase 2 hoàn thành đúng kế hoạch ngày 20/4. 5 deliverable, đã có nghiệm thu. Đạt -67% load time, -70% số bug. Đề xuất kick-off Phase 3 ngày 7/5.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━\n[Chi tiết]\n━━━━━━━━━━━━━━━━━━━━━━━━━\n1. Danh sách deliverable\n   1-1. Tài liệu yêu cầu v2.0\n   1-2. Tài liệu thiết kế v1.3\n   ...\n2. Trạng thái KPI\n   2-1. Load time: 1.2s → 0.4s (-67%)\n   2-2. Bug: 20/tuần → 6/tuần (-70%)\n   ...\n3. Retrospective (Lessons Learned)\n   ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━━\n[Kết luận & Đề xuất]\n━━━━━━━━━━━━━━━━━━━━━━━━━\nPhase 2 hoàn thành đúng kế hoạch. Đề xuất kick-off Phase 3 ngày 7/5. Đề xuất thêm 'bắt buộc xác nhận spec trước khi bắt tay làm' vào quy tắc vận hành Phase 3.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━\n[Tài liệu đính kèm]\n━━━━━━━━━━━━━━━━━━━━━━━━━\n  1. Văn bản nghiệm thu (Cty Hakuō phát hành, ngày 20/4/2026)\n  2. KPI dashboard (PDF, v1.0)\n  3. Biên bản họp định kỳ lần N (18/4/2026)\n\nHết.",
+      "notes_ja": "件名は1行目に大書、宛先は『主・CC・社内』を分けて書く。概要は経営層が3秒で読める長さ（200-300字）。添付は名称＋発行日／バージョンを必ず併記。",
+      "notes_vi": "Tiêu đề viết to ở dòng đầu. Người nhận chia 3 nhóm 'Chính / CC / Nội bộ'. Tổng quan đủ ngắn để cấp quản lý đọc 3 giây (200-300 chữ). Đính kèm bắt buộc ghi tên + ngày phát hành/version."
+    }
+  ]
+}

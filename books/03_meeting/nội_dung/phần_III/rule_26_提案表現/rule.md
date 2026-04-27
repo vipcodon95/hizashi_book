@@ -1,0 +1,71 @@
+# Rule 26 — Đề xuất ý tưởng mới / 提案の表現
+
+> **Luận điểm.** Đề xuất tốt = (1) **xin permission** đề xuất 「ひとつご提案させていただいてもよろしいでしょうか？」, (2) **đặt vấn đề** ngắn (3) **giải pháp** (4) **mời feedback**. Không tự ý 「私の意見では…」 ngay đầu — nghe agressive trong JP.
+>
+> 提案は「ひとつご提案させていただいてもよろしいでしょうか？」と切り出し、課題→解→意見聞きの順で。
+>
+> **Liên quan:** Rule 19 (xin lượt), Rule 23 (phản đối), Rule 27 (phản biện).
+
+---
+
+## Bối cảnh / 場面
+
+Đang họp phase 2. Em Hải (FE) thấy có thể tách backlog thành 2 sprint nhỏ thay vì 1 sprint dài → giảm rủi ro slip. Muốn đề xuất.
+
+---
+
+## ❌ Hội thoại XẤU — đề xuất aggressive
+
+*không khí lạnh*
+
+| Speaker | Câu |
+|---------|-----|
+| **ハイ** | 「私の意見では、1つの sprint じゃ無理です。2つに分けるべきです。」 |
+| **大垣** | 「…『〜べき』ですか。なるほど。」 |
+
+**Vì sao xấu:** 「〜べき」(should) trong JP business hơi mệnh lệnh khi nói với khách. 「私の意見では」 ngay đầu = ego forward.
+
+---
+
+## ✅ Hội thoại TỐT — permission + propose + invite feedback
+
+| Speaker | Câu |
+|---------|-----|
+| **ハイ** | 「ひとつご提案させていただいてもよろしいでしょうか【1】？」 |
+| **大垣** | 「どうぞ。」 |
+| **ハイ** | 「現在のバックログ規模ですと、1スプリントで完了するにはリスクがあるかと存じます。【課題】そこで、優先度別に2スプリントに分割し、第1スプリントでコア機能、第2スプリントで拡張機能、という構成はいかがでしょうか【2】？【解】皆様のご意見を頂戴できればと存じます【3】。【意見聞き】」 |
+| **大垣** | 「面白い提案ですね。スプリント1のスコープ案をいただけますか？」 |
+
+📝 **Ghi chú:**
+- 【1】**「ひとつご提案させていただいてもよろしいでしょうか？」** — xin permission. Cho đối phương cảm giác kiểm soát.
+- 【2】**「〜という構成はいかがでしょうか？」** — không nói "should" mà mời gọi "thế nào ạ?".
+- 【3】**「ご意見を頂戴できればと存じます」** — đóng bằng câu mời feedback. Tone humble.
+
+---
+
+## 🎯 Câu chốt
+
+> **「ひとつご提案させていただいてもよろしいでしょうか？〜という構成はいかがでしょうか？」**
+>
+> *Permission → 課題 → 解 → 「いかがでしょうか」. 4 bước.*
+
+---
+
+## ⚠ Tránh
+
+- 「〜べきです」 với khách Nhật → quá thẳng.
+- 「私の意見では」 đầu câu → ego forward.
+- Đề xuất mà không kèm 課題 (problem statement) → không thuyết phục.
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 提案 | ていあん | Đề xuất |
+| 構成 | こうせい | Cấu trúc / phối hợp |
+| バックログ | bakkurogu | Backlog |
+| スプリント | supurinto | Sprint |
+| 拡張機能 | かくちょうきのう | Extension feature |
+| 頂戴する | ちょうだいする | Xin nhận (kenjō) |

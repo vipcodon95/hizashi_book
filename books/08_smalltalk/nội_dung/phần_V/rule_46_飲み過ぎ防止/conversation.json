@@ -1,0 +1,126 @@
+{
+  "rule_id": "08-46",
+  "rule_slug": "飲み過ぎ防止",
+  "title": {
+    "vi": "Tránh say + dừng đúng lúc",
+    "ja": "飲み過ぎ防止"
+  },
+  "rule_context": {
+    "luan_diem_vi": "Say nặng business JP = mất uy tín 1 năm. Cần biết pace, từ chối lịch sự, rescue khách JP say. Sáng mai 9h vẫn phải sharp.",
+    "luan_diem_ja": "酔い潰れは1年信用を失う。ペース管理、上品な断り方、客の暴走rescue、翌朝9時シャープが鉄則。",
+    "boi_canh_vi": "Tháng 5/2026, dinner Phase 4 với Ōgaki/Matsumoto/Tanaka. Cuối 二次会 23:30. Sáng mai 9h họp Phase 5 brief.",
+    "boi_canh_ja": "2026年5月、フェーズ4会食、二次会23:30。翌朝9時フェーズ5ブリーフ。",
+    "muc_tieu_vi": "Master pacing + từ chối khéo + rescue khi đồng nghiệp khách say + delivery sáng hôm sau."
+  },
+  "related_rules": [
+    {"book": "08", "rule": "43", "topic": "乾杯・お酌"},
+    {"book": "08", "rule": "44", "topic": "二次会"},
+    {"book": "08", "rule": "48", "topic": "Topic LANDMINE"}
+  ],
+  "conversations": [
+    {
+      "scenario": "Từ chối thêm rượu — phrase chuẩn",
+      "type": "good",
+      "lines": [
+        {"speaker": "oogaki_sales", "ja": "ズン、もう一杯山崎いくか?", "vi": "Dũng, thêm 1 ly Yamazaki không?"},
+        {"speaker": "zun", "ja": "大垣さん、ありがとうございます。もう十分いただきました、ハイボール残っているのでこれで。", "vi": "Anh Ōgaki, em cảm ơn. Em đã đủ rồi ạ, hailbol vẫn còn nên em uống nốt thôi."},
+        {"speaker": "oogaki_sales", "ja": "OK、無理しなくていい。", "vi": "OK, không ép."},
+        {"speaker": "zun", "ja": "明日もご一緒できる体でいたいので(笑)", "vi": "Em muốn còn sức ngày mai tiếp đón anh ạ (cười)"},
+        {"speaker": "oogaki_sales", "ja": "賢明やな。じゃ俺だけもう一杯。", "vi": "Khôn đó. Vậy anh thêm một mình."}
+      ]
+    },
+    {
+      "scenario": "Đổi sang non-alcoholic mượt",
+      "type": "good",
+      "lines": [
+        {"speaker": "matsumoto", "ja": "ズン、まだ飲める?", "vi": "Dũng còn uống được không?"},
+        {"speaker": "zun", "ja": "お水でちょっと一旦休ませてください。後でまた。", "vi": "Cho em nghỉ một chút uống nước đã ạ. Lát sau lại."},
+        {"speaker": "matsumoto", "ja": "了解。", "vi": "OK."},
+        {"speaker": "zun", "ja": "すみません、お水お願いします。", "vi": "Cho em xin nước ạ."},
+        {"speaker": "zun", "ja": "ジンジャエールでいいですか?", "vi": "Em ginger ale được không ạ?"},
+        {"speaker": "matsumoto", "ja": "うん、それでいいよ。", "vi": "Ừ, được."}
+      ]
+    },
+    {
+      "scenario": "Rescue Tanaka say",
+      "type": "good",
+      "lines": [
+        {"speaker": "tanaka_pmo", "ja": "ズン!ベトナムの女の子はみんな…", "vi": "Dũng! Con gái VN ai cũng..."},
+        {"speaker": "zun", "ja": "田中さん、お水召し上がります?顔色がちょっと…", "vi": "Anh Tanaka, anh uống nước nhé? Sắc mặt anh hơi..."},
+        {"speaker": "tanaka_pmo", "ja": "あ、なんか急に回ってきた…", "vi": "À, sao tự nhiên chếnh choáng..."},
+        {"speaker": "zun", "ja": "すみません、お水とおしぼりお願いします。", "vi": "Cho em xin nước với khăn ướt ạ."},
+        {"speaker": "oogaki_sales", "ja": "田中、ペース落とせ。お水飲め。", "vi": "Tanaka, chậm lại. Uống nước đi."},
+        {"speaker": "tanaka_pmo", "ja": "はい…すみません。", "vi": "Vâng... em xin lỗi."},
+        {"speaker": "zun", "ja": "そろそろお開きにしましょうか?田中さんもタクシーで。", "vi": "Mình kết thúc nhé anh? Anh Tanaka cũng đi taxi ạ."},
+        {"speaker": "oogaki_sales", "ja": "そやな、お開きにしよう。ズン、田中をタクシー乗せてくれ。", "vi": "Phải, kết thôi. Dũng, em đưa Tanaka lên taxi giúp anh."},
+        {"speaker": "zun", "ja": "了解です。お先に失礼します。", "vi": "Vâng ạ. Em xin phép trước."}
+      ]
+    },
+    {
+      "scenario": "Sáng hôm sau — đúng giờ + sharp + báo cáo",
+      "type": "good",
+      "lines": [
+        {"speaker": "oogaki_sales", "ja": "ズン、おはよう。早いな。", "vi": "Dũng, chào em. Sớm nhỉ."},
+        {"speaker": "zun", "ja": "おはようございます、大垣さん。昨日は本当にありがとうございました。", "vi": "Chào anh Ōgaki. Hôm qua cảm ơn anh nhiều ạ."},
+        {"speaker": "oogaki_sales", "ja": "いやいや、こちらこそ。田中の件、すまんかった。", "vi": "Không, anh phải cảm ơn em chứ. Vụ Tanaka, xin lỗi em."},
+        {"speaker": "zun", "ja": "田中さんもタクシーで無事帰宅確認しました。今朝もご無事だと聞いてます。", "vi": "Em đã xác nhận anh Tanaka về an toàn bằng taxi. Sáng nay nghe nói anh ấy cũng ổn ạ."},
+        {"speaker": "oogaki_sales", "ja": "お前、しっかりしてるな。9時のミーティング、よろしく。", "vi": "Em chỉn chu thật. Họp 9h nhờ em."},
+        {"speaker": "zun", "ja": "資料、こちらに。Phase 5の検討事項、社内で先ほど確認しました。", "vi": "Tài liệu đây ạ. Phase 5 các điểm cần xem em đã xác nhận nội bộ vừa rồi."},
+        {"speaker": "oogaki_sales", "ja": "すごいな、もう動いてるんか。", "vi": "Đỉnh, em đã chạy rồi à."}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"category": "Từ chối", "ja": "[senior]さん、ありがとうございます。もう十分いただきました。", "vi": "Anh, cảm ơn anh. Em đã đủ rồi ạ.", "use": "Phrase chuẩn"},
+    {"category": "Từ chối", "ja": "明日もご一緒できる体でいたいので(笑)", "vi": "Muốn ngày mai còn sức tiếp đón anh ạ (cười).", "use": "Lý do nhẹ + hài"},
+    {"category": "Tạm nghỉ", "ja": "お水でちょっと一旦休ませてください。後でまた。", "vi": "Cho em nghỉ uống nước đã ạ. Lát lại.", "use": "Pause khéo"},
+    {"category": "Non-alc", "ja": "ジンジャエール / 烏龍茶でいいですか?", "vi": "Ginger ale / ô long được không ạ?", "use": "Resume non-alc"},
+    {"category": "Rescue", "ja": "[Tên]さん、お水召し上がります?顔色がちょっと…", "vi": "Anh, uống nước nhé? Sắc mặt anh hơi...", "use": "Cut in care concern"},
+    {"category": "Rescue", "ja": "そろそろお開きにしましょうか?", "vi": "Mình kết thúc nhé?", "use": "Khi đã quá mức"},
+    {"category": "Escort", "ja": "[Tên]さんもタクシーで。お先に失礼します。", "vi": "Anh cũng đi taxi. Em xin phép trước.", "use": "Care + close"},
+    {"category": "Sáng hôm sau", "ja": "[Tên]さんもタクシーで無事帰宅確認しました。", "vi": "Em đã xác nhận anh về an toàn bằng taxi.", "use": "Follow-up pro"},
+    {"category": "Sáng hôm sau", "ja": "資料こちらに。[topic]、社内で先ほど確認しました。", "vi": "Tài liệu đây. [topic] em đã xác nhận nội bộ.", "use": "Sharp + đã work"}
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "Senior に『もう一杯どう?』と勧められたが、もう十分の時、最も適切な返答は?",
+      "options": [
+        "A. 「飲めません」と短く断る",
+        "B. 「ありがとうございます。もう十分いただきました。明日もご一緒できる体でいたいので(笑)」と感謝+理由+ユーモア",
+        "C. 黙ってグラスを下げる",
+        "D. 「日本酒苦手で」と嘘をつく"
+      ],
+      "answer": "B",
+      "explain_vi": "Thanks + reason + humor → senior không thấy refused. A flat; C signal mơ hồ; D nói dối."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "同じ会社の田中さんが酔って不適切な発言を始めた時、最適な対応は?",
+      "options": [
+        "A. 黙って聞く",
+        "B. 「お水召し上がります?顔色がちょっと…」と気遣いの形でカットイン+話題転換",
+        "C. 「失礼ですよ」と公衆の前で叱る",
+        "D. 別の話題に強引に変える"
+      ],
+      "answer": "B",
+      "explain_vi": "Care concern cover-up = defuse + escort path. A đồng lõa; C xúc phạm đồng nghiệp; D awkward."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "翌朝の信頼回復で、最も効果的な行動は?",
+      "options": [
+        "A. 何もせず通常通り出社",
+        "B. 早めに到着+昨日の感謝+酔った同僚の帰宅確認の報告+資料準備済み",
+        "C. 二日酔いの愚痴を言う",
+        "D. 昨日のことを話題にしない"
+      ],
+      "answer": "B",
+      "explain_vi": "Sáng hôm sau = test thực sự. Sharp + thanks + escort report + work-ready = đẳng cấp. A miss; C unprofessional; D awkward."
+    }
+  ],
+  "templates": []
+}

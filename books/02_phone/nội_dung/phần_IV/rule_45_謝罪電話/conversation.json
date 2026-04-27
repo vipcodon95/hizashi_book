@@ -1,0 +1,106 @@
+{
+  "rule_id": "rule_45",
+  "rule_slug": "謝罪の電話",
+  "title": {
+    "ja": "謝罪の電話",
+    "vi": "Gọi xin lỗi — 4 bước"
+  },
+  "rule_context": {
+    "ja": "納期遅延について松本PMへ謝罪の電話。事実認め→明確謝罪→復旧策→再発防止の4ステップ。",
+    "vi": "Gọi xin lỗi anh Matsumoto vì giao hàng trễ. 4 bước: thừa nhận → xin lỗi rõ → khôi phục → cam kết."
+  },
+  "related_rules": [
+    "rule_41",
+    "rule_44"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『すべて当社の責任』で言い訳を断ち、対応策と再発防止を具体的に提示。曖昧な謝罪より誠実。",
+        "vi": "「すべて当社の責任」 dứt khoát không biện minh, đưa ra giải pháp + cam kết cụ thể. Chân thành hơn xin lỗi mơ hồ."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_45_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "先ほどはご迷惑をおかけし、誠に申し訳ございませんでした。",
+          "sentence_translation": "Vừa nãy đã gây phiền cho anh, em thành thật xin lỗi ạ.",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_45_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "弊社の確認漏れにより、納期を1日遅らせる結果となりました。全責任は弊社にございます。",
+          "sentence_translation": "Do bên em sót việc kiểm tra nên giao chậm 1 ngày. Tất cả là trách nhiệm của bên em ạ.",
+          "tone": "apologetic",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_45_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "すぐに不足分を本日中に発送し、追加コストは弊社にて負担いたします。",
+          "sentence_translation": "Em sẽ gửi phần thiếu trong hôm nay, chi phí phát sinh bên em chịu ạ.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_45_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "今後はチェック体制を二重化し、二度とこのようなことが起きないよう徹底いたします。",
+          "sentence_translation": "Từ sau bên em sẽ tăng cường cơ chế kiểm tra hai lớp, em cam kết sẽ không để tái diễn ạ.",
+          "tone": "firm",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_45_good_05",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "対応については分かりました。次回はお願いします。",
+          "sentence_translation": "Cách xử lý tôi đã hiểu. Lần sau nhờ em nhé.",
+          "tone": "firm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_45_kp_01",
+      "speaker": "zun",
+      "sentence": "全責任は弊社にございます。",
+      "sentence_translation": "Tất cả là trách nhiệm của bên em ạ.",
+      "purpose": "明確な謝罪・責任表明",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_45_bjt_01",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "謝罪電話で最も避けるべき表現は？",
+      "options": [
+        "すべて当社の責任です",
+        "申し訳ございませんでした",
+        "仕方ありませんでした",
+        "再発防止に努めます"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "『仕方ありませんでした』は責任回避表現。謝罪では使わない。",
+        "vi": "「仕方ありませんでした」 là cách đẩy lỗi cho hoàn cảnh — không dùng trong xin lỗi."
+      }
+    }
+  ]
+}

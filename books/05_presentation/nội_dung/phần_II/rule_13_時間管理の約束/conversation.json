@@ -1,0 +1,179 @@
+{
+  "rule_id": "rule_13",
+  "rule_slug": "時間管理の約束",
+  "title": {
+    "ja": "時間管理の約束",
+    "vi": "Time-keeping promise"
+  },
+  "rule_context": {
+    "ja": "プレゼン2分目で時間配分をコミットする場面。曖昧な『頑張ります』 vs 具体的な『20分+10分、20分で必ず切替』を比較。",
+    "vi": "Phút thứ 2 của pitch — commit time budget. So sánh 「cố gắng」 mơ hồ với 「20+10, switch khi đến 20」 cụ thể."
+  },
+  "related_rules": [
+    "rule_06",
+    "rule_10",
+    "rule_26"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 曖昧な時間表現",
+      "label_vi": "XẤU — Time vague",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『なるべく』『頑張って』は wish であって commitment ではない。聴衆は『時間管理が雑』と判断する。",
+        "vi": "「なるべく」「頑張って」 là wish chứ không phải commit. Audience phán đoán 「quản lý time cẩu thả」."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_13_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えーと、なるべくコンパクトにお話しします。Q&Aの時間も頑張って残します。",
+          "sentence_translation": "Ờ, em cố gắng nói gọn ạ. Em sẽ cố giữ chỗ Q&A nữa ạ.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_13_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "(……『頑張って』って具体的に何分？)",
+          "sentence_translation": "(...「Cố gắng」 cụ thể là mấy phút?)",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_13_bad_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ズンさん、本日は何時までですか？",
+          "sentence_translation": "Dũng-san, hôm nay đến mấy giờ thế?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_13_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと…30分の予定で…",
+          "sentence_translation": "Ờ... dự kiến 30 phút ạ...",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 具体的時間コミット",
+      "label_vi": "TỐT — Commit time cụ thể",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_13_good_01",
+          "highlight_text": "30分の枠でいただいております",
+          "ja": "時間は『相手からいただいた』もの。Acknowledge することで誠意が伝わる。",
+          "vi": "Thời gian là 「khách dành cho mình」. Acknowledge truyền được thiện ý."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_13_good_01",
+          "highlight_text": "必ず Q&A に切り替え",
+          "ja": "Hard commit。たとえ本編が途中でも切る。日本ビジネスは時間遵守を信頼の指標とする。",
+          "vi": "Hard commit. Dù pitch chưa xong cũng cắt. JP business coi giữ giờ = chỉ số tin cậy."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_13_good_03",
+          "highlight_text": "タイマーをセット",
+          "ja": "Visible signal。スマホ silent + 画面オン or smartwatch でカウントダウン。",
+          "vi": "Tín hiệu nhìn thấy được. Phone silent + màn hình bật hoặc smartwatch đếm ngược."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_13_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本日は30分の枠でいただいております。プレゼン20分、Q&A 10分の構成でございます。20分経過した時点で必ず Q&A に切り替えます、たとえ本編が途中でも。",
+          "sentence_translation": "Hôm nay quý vị đã dành cho em khung 30 phút ạ. Cấu trúc gồm pitch 20 phút, Q&A 10 phút. Khi đến 20 phút em chắc chắn sẽ chuyển sang Q&A, dù phần chính chưa hết.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_13_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "分かりました。",
+          "sentence_translation": "Rõ rồi.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_13_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "スマホでタイマーをセットしております。残り時間は私の方で管理いたしますので、ご安心くださいませ。",
+          "sentence_translation": "Em đã set timer trên điện thoại ạ. Thời gian còn lại em sẽ quản lý, mong quý vị cứ yên tâm ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_13_good_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "(……時間管理を意識してるな、好印象)",
+          "sentence_translation": "(...Có ý thức giữ giờ, ấn tượng tốt)",
+          "tone": "neutral"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_13_kp_01",
+      "speaker": "zun",
+      "sentence": "本日は〇分の枠でいただいております。プレゼン〇分、Q&A 〇分の構成でございます。",
+      "sentence_translation": "Hôm nay quý vị đã dành cho em khung 〇 phút ạ. Cấu trúc gồm pitch 〇 phút, Q&A 〇 phút.",
+      "purpose": "時間配分の口頭コミット",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_13_kp_02",
+      "speaker": "zun",
+      "sentence": "〇分経過した時点で必ず Q&A に切り替えます、たとえ本編が途中でも。",
+      "sentence_translation": "Đến 〇 phút em chắc chắn chuyển sang Q&A, dù phần chính chưa hết.",
+      "purpose": "Hard commit on time keeping",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_13_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "30分プレゼン枠での時間管理コミットとして最も適切なのは？",
+      "options": [
+        "なるべくコンパクトに頑張ります",
+        "プレゼン20分、Q&A 10分。20分で必ずQ&Aに切替",
+        "時間は相手次第",
+        "1時間くらいかかるかも"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "具体的時間 + hard commit + 切替トリガー が日本ビジネスの標準。曖昧表現は信頼を下げる。",
+        "vi": "Time cụ thể + hard commit + trigger switch = chuẩn JP business. Mơ hồ làm giảm tin cậy."
+      }
+    }
+  ]
+}

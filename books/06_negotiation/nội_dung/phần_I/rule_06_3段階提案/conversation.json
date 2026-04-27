@@ -1,0 +1,192 @@
+{
+  "rule_id": "rule_06",
+  "rule_slug": "3段階提案",
+  "title": {
+    "ja": "3段階提案",
+    "vi": "3-tier proposal: Good / Better / Best"
+  },
+  "rule_context": {
+    "ja": "Phase 3 提案 deck 準備。Dũng が1案で出そうとしたのを Hương が3段階(Good/Better/Best)に直すよう指示する場面。",
+    "vi": "Chuẩn bị deck Phase 3. Dũng định đưa 1 phương án, chị Hương yêu cầu sửa thành 3-tier Good/Better/Best."
+  },
+  "related_rules": ["rule_05", "rule_19", "rule_21"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 1案のみ提示",
+      "label_vi": "XẤU — Chỉ 1 phương án",
+      "display_order": 1,
+      "analysis": {
+        "ja": "1案のみだと相手が yes/no を迫られ、社内比較の余地もない。choice architecture を活かせない。",
+        "vi": "Chỉ 1 phương án ép khách binary, không có chỗ so nội bộ. Bỏ qua choice architecture."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_06_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、提案 deck draft、価格 ¥18M で1 案にまとめました。",
+          "sentence_translation": "Chị Hương, draft deck đề xuất em làm 1 phương án ¥18M ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_06_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "1 案だけ？大垣さんは社内で比較できないし、yes か no しかなくなる。no が出たら戻れない。3 段階で作り直して。",
+          "sentence_translation": "Chỉ 1 phương án? Anh Ōgaki không có gì so nội bộ, chỉ còn yes/no. No là không quay lại được. Làm lại 3-tier đi.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_06_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "3 段階だと安い方を選ばれませんか？",
+          "sentence_translation": "3 tier thì khách chọn cái rẻ thì sao chị?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_06_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "逆。中間案を一番魅力的に設計すれば、Better が選ばれる。Good は機能削減で「これじゃ意味ない」感、Best は scope 拡張で「高すぎる」感を出す。これ choice architecture。",
+          "sentence_translation": "Ngược lại. Thiết kế tier giữa hấp dẫn nhất là khách chọn Better. Good cắt feature kiểu 'cái này không đáng', Best mở rộng scope kiểu 'đắt quá'. Đó là choice architecture.",
+          "tone": "warm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — Better中心の3段階",
+      "label_vi": "TỐT — 3-tier với Better trung tâm",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_06_good_01",
+          "highlight_text": "Better を recommended 表示",
+          "ja": "「おすすめ」マーク付与で選択率+35%。視覚アンカーを忘れない。",
+          "vi": "Đánh dấu 'Recommended' tăng chọn lựa +35%. Đừng quên visual anchor."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_06_good_03",
+          "highlight_text": "AI レコメンドなし、SLA 99.5% (Better は 99.9%)、サポート営業時間のみ",
+          "ja": "Good は意図的に弱体化。「安いがニーズに届かない」を顧客に自覚させる設計。",
+          "vi": "Good cố ý làm yếu. Thiết kế để khách tự nhận 'rẻ nhưng không đủ nhu cầu'."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_06_good_05",
+          "highlight_text": "専任 SRE 1 名常駐、SLA 99.99%、24/7 サポート、優先機能開発",
+          "ja": "Best は意図的に overspec で「高すぎる」感を演出。但し fake ではなく実際に提供可能な構成。",
+          "vi": "Best cố ý overspec để cảm 'đắt quá'. Nhưng KHÔNG fake — vẫn là cấu hình thực sự cung cấp được."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_06_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "3 段階提案を作成しました。Good ¥14M / Better ¥18M / Best ¥24M。Better を recommended 表示、Good は AI engine なし basic 版、Best は専任 SRE 含む full 版です。",
+          "sentence_translation": "Em đã tạo 3-tier ạ. Good ¥14M / Better ¥18M / Best ¥24M. Better đánh dấu 'recommended', Good là bản basic không AI engine, Best là full kèm SRE chuyên trách ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_06_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "Good の機能削減は？",
+          "sentence_translation": "Phần cắt chức năng của Good là gì?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_06_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Good は AI レコメンドなし、SLA 99.5% (Better は 99.9%)、サポート営業時間のみ。白鷗の Phase 3 目的「売上 +¥80M」には実質届かない設計です。",
+          "sentence_translation": "Good không có AI recommend, SLA 99.5% (Better 99.9%), support chỉ trong giờ hành chính. Thiết kế thực chất không đạt mục tiêu Phase 3 'doanh thu +¥80M' của Hakuō ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_06_good_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "Best は？",
+          "sentence_translation": "Còn Best?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_06_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Best は専任 SRE 1 名常駐、SLA 99.99%、24/7 サポート、優先機能開発。CFO 中村さんの「コスト圧縮」トーンに照らすと「出しすぎ」感を出す設計です。",
+          "sentence_translation": "Best có 1 SRE chuyên trách túc trực, SLA 99.99%, support 24/7, ưu tiên dev feature. Đối chiếu tone 'nén chi phí' của CFO Nakamura, thiết kế để cảm 'chi quá tay' ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_06_good_06",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "完璧。Better が「現実解」に見える構造。明日のキックオフで使おう。",
+          "sentence_translation": "Hoàn hảo. Cấu trúc khiến Better hiện ra như 'phương án thực tế'. Mai kickoff dùng cái này.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_06_kp_01",
+      "speaker": "zun",
+      "sentence": "本日は Good / Better / Best の3段階でご提案させていただきます。",
+      "sentence_translation": "Hôm nay em xin được đề xuất 3-tier Good / Better / Best ạ.",
+      "purpose": "3段階提案の口頭イントロ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_06_bjt_01",
+      "level": "J1",
+      "skill": "表現読解",
+      "question_ja": "3段階提案で「Good」案を意図的に弱体化させる目的は？",
+      "options": [
+        "顧客に最安値を選ばせるため",
+        "顧客が「これではニーズに届かない」と自覚し、Better を選ぶよう誘導するため",
+        "競合に Good の価格を見せるため",
+        "原価を下げるため"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "Good の弱体化は『安いだけでは足りない』を顧客に気づかせ、Better を相対的に魅力化する choice architecture。",
+        "vi": "Làm Good yếu để khách tự nhận 'rẻ thôi không đủ', làm Better tương đối hấp dẫn — choice architecture."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_06_tpl_01",
+      "format": "report",
+      "title_ja": "3段階提案シート (Good / Better / Best)",
+      "title_vi": "3-tier Proposal Sheet (Good / Better / Best)",
+      "content_ja": "━━━ 3段階ご提案 — 〇〇プロジェクト ━━━\n御社名:〇〇 様\n提案日:〇〇年〇月〇日\n提案者:ティエンファット 〇〇\n\n┌─────────────────────────────────────────────┐\n│  【Good】 ¥〇〇M (basic)                                  │\n│  • コア機能: 〇〇                                          │\n│  • SLA: 〇〇% (営業時間サポート)                            │\n│  • 含まれない: 〇〇 / 〇〇                                  │\n│  • 適合先: PoC 用途・予算厳しい場合                           │\n└─────────────────────────────────────────────┘\n\n┌─────────────────────────────────────────────┐\n│  【Better】 ¥〇〇M  ★おすすめ★                            │\n│  • コア機能 + 〇〇 (key feature)                            │\n│  • SLA: 〇〇.〇% (24/7サポート)                            │\n│  • 含む: 〇〇 / 〇〇 / 〇〇                                  │\n│  • 適合先: 御社の Phase 〇 目的「〇〇」に最適                  │\n│  • 期待 ROI: 〇〇                                          │\n└─────────────────────────────────────────────┘\n\n┌─────────────────────────────────────────────┐\n│  【Best】 ¥〇〇M (full)                                   │\n│  • Better のすべて + 専任 SRE 常駐                          │\n│  • SLA: 〇〇.〇〇%                                          │\n│  • 含む: 優先開発枠・カスタムレポート                          │\n│  • 適合先: 大規模・ミッションクリティカル運用                    │\n└─────────────────────────────────────────────┘\n\n■ 比較表 (主要項目のみ)\n  項目        | Good   | Better | Best  \n  AI機能      | ×      | ◎      | ◎      \n  SLA         | 99.5%  | 99.9%  | 99.99% \n  サポート    | 営業時間| 24/7   | 24/7+専任\n  価格         | ¥〇M   | ¥〇M   | ¥〇M   \n\n※ Better をご選択の場合、〇月〇日着手可能",
+      "content_vi": "━━━ Đề xuất 3-tier — Dự án 〇〇 ━━━\nKhách hàng: Quý công ty 〇〇\nNgày đề xuất: 〇/〇/〇\nNgười đề xuất: ティエンファット 〇〇\n\n┌─────────────────────────────────────────────┐\n│  [Good] ¥〇〇M (basic)                                    │\n│  • Tính năng core: 〇〇                                   │\n│  • SLA: 〇〇% (support trong giờ)                          │\n│  • Không bao gồm: 〇〇 / 〇〇                              │\n│  • Phù hợp: PoC, ngân sách hạn                             │\n└─────────────────────────────────────────────┘\n\n┌─────────────────────────────────────────────┐\n│  [Better] ¥〇〇M  ★ ĐỀ XUẤT ★                          │\n│  • Core + 〇〇 (key feature)                              │\n│  • SLA: 〇〇.〇% (support 24/7)                            │\n│  • Bao gồm: 〇〇 / 〇〇 / 〇〇                              │\n│  • Phù hợp: Mục tiêu Phase 〇 '〇〇' của quý cty           │\n│  • ROI kỳ vọng: 〇〇                                       │\n└─────────────────────────────────────────────┘\n\n┌─────────────────────────────────────────────┐\n│  [Best] ¥〇〇M (full)                                     │\n│  • Toàn bộ Better + SRE chuyên trách túc trực              │\n│  • SLA: 〇〇.〇〇%                                          │\n│  • Bao gồm: ưu tiên dev feature, báo cáo custom             │\n│  • Phù hợp: vận hành quy mô lớn, mission-critical           │\n└─────────────────────────────────────────────┘\n\n■ Bảng so sánh (mục chính)\n  Mục         | Good   | Better | Best   \n  AI feature  | ×      | ◎      | ◎       \n  SLA         | 99.5%  | 99.9%  | 99.99%  \n  Support     | giờ HC | 24/7   | 24/7+SRE\n  Giá         | ¥〇M   | ¥〇M   | ¥〇M    \n\n* Chọn Better có thể khởi động từ 〇/〇.",
+      "notes_ja": "Better は「中央寄せ」「おすすめ」マーク必須。Good は意図的弱体化、Best は overspec。価格ギャップは均等にしない (decoy効果)。",
+      "notes_vi": "Better bắt buộc đặt giữa + đánh dấu 'Đề xuất'. Good cố ý yếu, Best overspec. Gap giá KHÔNG cách đều (giữ decoy)."
+    }
+  ]
+}

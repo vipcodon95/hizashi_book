@@ -1,0 +1,96 @@
+{
+  "rule_id": "rule_46",
+  "rule_slug": "お礼の電話",
+  "title": {
+    "ja": "お礼の電話",
+    "vi": "Gọi cảm ơn"
+  },
+  "rule_context": {
+    "ja": "前日のミーティングで松本PMから貴重なアドバイスを受けたお礼の電話。24時間以内・具体的・短く。",
+    "vi": "Cuộc họp hôm qua anh Matsumoto đã cho lời khuyên quý báu — gọi cảm ơn trong 24h, cụ thể, ngắn."
+  },
+  "related_rules": [
+    "rule_51",
+    "rule_35"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『API設計についての具体的アドバイス』と何への感謝かを明示。新規依頼を混ぜず3分以内で締めるのがマナー。",
+        "vi": "Nói rõ cảm ơn vì 'lời khuyên về thiết kế API' — không chung chung. Không xen yêu cầu mới, kết trong 3 phút."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_46_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "昨日はお忙しい中、貴重なお時間をいただきありがとうございました。",
+          "sentence_translation": "Hôm qua giữa lúc bận rộn anh đã dành thời gian quý báu cho em, em xin cảm ơn anh ạ.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_46_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "特にAPI設計についての具体的なアドバイスは、チームにとって大変参考になりました。",
+          "sentence_translation": "Đặc biệt lời khuyên cụ thể về thiết kế API rất bổ ích cho team em ạ.",
+          "tone": "warm",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_46_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "いえいえ、こちらこそ。実装で何かあればまたご連絡ください。",
+          "sentence_translation": "Không có gì, tôi mới phải cảm ơn. Nếu có gì trong implement em cứ liên hệ nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_46_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。引き続きよろしくお願いいたします。",
+          "sentence_translation": "Cảm ơn anh ạ. Em mong tiếp tục được anh hỗ trợ ạ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_46_kp_01",
+      "speaker": "zun",
+      "sentence": "昨日はお忙しい中、貴重なお時間をいただきありがとうございました。",
+      "sentence_translation": "Hôm qua anh bận thế mà vẫn dành thời gian quý báu cho em, em xin cảm ơn ạ.",
+      "purpose": "お礼電話の標準冒頭",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_46_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "お礼電話で避けるべき行為は？",
+      "options": [
+        "具体的に感謝を伝える",
+        "24時間以内にかける",
+        "新しい依頼を混ぜる",
+        "短くまとめる"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "お礼電話では新規依頼を混ぜると感謝の意味が薄れる。",
+        "vi": "Xen việc mới làm loãng ý nghĩa cuộc gọi cảm ơn."
+      }
+    }
+  ]
+}

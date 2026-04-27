@@ -1,0 +1,203 @@
+{
+  "rule_id": "rule_25",
+  "rule_slug": "沈黙の活用",
+  "title": {
+    "ja": "沈黙の活用",
+    "vi": "Silence as tool"
+  },
+  "rule_context": {
+    "ja": "anchor 提示後、Dũng が事前合意の signal で Tuấn を制し、7秒沈黙を保って Ōgaki から譲歩を引き出す場面。",
+    "vi": "Sau khi đưa anchor, Dũng dùng signal đã hẹn trước để chặn Tuấn, giữ im lặng 7 giây, moi nhượng bộ từ Ōgaki."
+  },
+  "related_rules": [
+    "rule_18",
+    "rule_19",
+    "rule_07"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 沈黙が我慢できず自爆",
+      "label_vi": "XẤU — Không nhịn được im lặng, tự bùng",
+      "display_order": 1,
+      "analysis": {
+        "ja": "Tuấn が沈黙4秒で口を開き、自社から値引きを提示。¥2M の譲歩が4秒で消える。",
+        "vi": "Tuấn không chịu được 4 giây im lặng, tự đề xuất giảm giá. ¥2M bốc hơi trong 4 giây."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_25_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Better tier ¥18M、ROI 4.4 倍に位置します。",
+          "sentence_translation": "Better tier ¥18M, ROI ở mức 4.4 lần ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_25_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "…",
+          "sentence_translation": "(im lặng 4 giây, suy nghĩ)",
+          "tone": "neutral",
+          "pause_after_ms": 4000
+        },
+        {
+          "line_id": "rule_25_bad_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "あの、もし価格がご懸念でしたら、scope 調整で ¥16M も可能です。",
+          "sentence_translation": "À, nếu quý anh lo về giá, điều chỉnh scope thì ¥16M cũng được ạ.",
+          "tone": "nervous"
+        },
+        {
+          "line_id": "rule_25_bad_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "あ、¥16M も可能ですか。それで進めましょう。",
+          "sentence_translation": "À, ¥16M cũng được à. Vậy chốt như thế nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_25_bad_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "…",
+          "sentence_translation": "(mặt biến sắc)",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 7秒沈黙保持",
+      "label_vi": "TỐT — Giữ im lặng 7 giây",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_25_good_07",
+          "highlight_text": "scope か contract length で調整余地あれば検討します",
+          "ja": "Ōgaki が先に話す = leverage shift。彼は『compromise の方向性』を提示。これが沈黙の力。",
+          "vi": "Ōgaki nói trước = leverage shift về Dũng. Ổng đưa hướng compromise. Đó là sức mạnh im lặng."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_25_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Better tier ¥18M、ROI 4.4 倍に位置します。",
+          "sentence_translation": "Better tier ¥18M, ROI ở mức 4.4 lần ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_25_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(右手を膝に — 事前合意signal、沈黙保持)",
+          "sentence_translation": "(đặt tay phải lên đùi — signal đã hẹn, giữ im lặng)",
+          "tone": "neutral",
+          "pause_after_ms": 1500
+        },
+        {
+          "line_id": "rule_25_good_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "…",
+          "sentence_translation": "(im lặng 1 giây)",
+          "tone": "neutral",
+          "pause_after_ms": 1000
+        },
+        {
+          "line_id": "rule_25_good_04",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "(口開きかけ、ズン signal 確認、止まる)",
+          "sentence_translation": "(định mở miệng, thấy signal Dũng, dừng lại)",
+          "tone": "neutral",
+          "pause_after_ms": 500
+        },
+        {
+          "line_id": "rule_25_good_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "…",
+          "sentence_translation": "(im lặng 3 giây)",
+          "tone": "neutral",
+          "pause_after_ms": 3000
+        },
+        {
+          "line_id": "rule_25_good_06",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "…",
+          "sentence_translation": "(im lặng tiếp, tổng 5 giây)",
+          "tone": "neutral",
+          "pause_after_ms": 2000
+        },
+        {
+          "line_id": "rule_25_good_07",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "ROI 4.4 倍はインパクトありますね。但し ¥18M は社内ハードル高めです、scope か contract length で調整余地あれば検討します。",
+          "sentence_translation": "ROI 4.4 lần có sức tác động đấy. Nhưng ¥18M trong nội bộ rào cao, nếu có dư địa điều chỉnh ở scope hay contract length thì chúng tôi xem xét.",
+          "tone": "neutral",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_25_good_08",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。それでは scope 調整案と contract length 案、両方ご用意します。",
+          "sentence_translation": "Em cảm ơn ạ. Vậy em chuẩn bị cả phương án điều chỉnh scope lẫn contract length ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_25_kp_01",
+      "speaker": "zun",
+      "sentence": "(沈黙7秒)",
+      "sentence_translation": "(Im lặng 7 giây)",
+      "purpose": "offer後の沈黙保持",
+      "slow_audio": false
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_25_bjt_01",
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "anchor を出した直後、相手が4秒間沈黙している。最適行動は？",
+      "options": [
+        "「もし高いようでしたら…」と値引きを提示",
+        "そのまま沈黙を保つ (7秒目標)",
+        "「ご質問ありませんか？」と詰問",
+        "deck を次のページにめくる"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "沈黙は思考時間。最初に話した方が leverage を失う。日本商談では7秒は normal。",
+        "vi": "Im lặng là thời gian suy nghĩ. Ai nói trước mất leverage. Đàm phán Nhật 7s là bình thường."
+      }
+    }
+  ]
+}

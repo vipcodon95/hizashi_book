@@ -1,0 +1,40 @@
+{
+  "rule_id": "rule_49",
+  "rule_slug": "留守番電話に残すメッセージ",
+  "title": {"ja": "留守番電話に残すメッセージ", "vi": "Voicemail 30 giây format"},
+  "rule_context": {
+    "ja": "松本PMが不在で留守電に切り替わった場面。30秒以内・4要素（名乗り・要件・折り返し情報・挨拶）でメッセージを残す。",
+    "vi": "Anh Matsumoto vắng, máy chuyển voicemail. Em Dũng để lại tin nhắn 30 giây với 4 yếu tố: tự xưng / việc / số gọi lại / chào."
+  },
+  "related_rules": ["rule_50", "rule_32"],
+  "conversations": [{
+    "section": "good_example", "label_ja": "良い例 (Voicemail)", "label_vi": "TỐT — Voicemail", "display_order": 1,
+    "sfx_intro": "voicemail_beep",
+    "analysis": {
+      "ja": "4要素を漏れなく30秒以内に収め、折り返し番号と対応可能時間を明示。相手は判断材料が揃っている。",
+      "vi": "Đủ 4 yếu tố trong 30 giây, có số gọi lại và giờ tiện. Đối phương đủ thông tin để quyết định."
+    },
+    "conversation_lines": [
+      {"line_id": "rule_49_good_01", "speaker": "zun", "speaker_role": "BD担当 (留守電録音)", "gender": "male", "sentence": "いつもお世話になっております。ティエンファット社、営業部のズンでございます。", "sentence_translation": "Cảm ơn anh đã hỗ trợ ạ. Em là Dũng phòng kinh doanh Cty Thiên Phát ạ.", "tone": "formal", "speed_multiplier": 0.9},
+      {"line_id": "rule_49_good_02", "speaker": "zun", "speaker_role": "BD担当", "gender": "male", "sentence": "明日の打ち合わせ資料の件でご相談したく、お電話差し上げました。", "sentence_translation": "Em gọi điện vì muốn trao đổi về tài liệu họp ngày mai ạ.", "tone": "formal"},
+      {"line_id": "rule_49_good_03", "speaker": "zun", "speaker_role": "BD担当", "gender": "male", "sentence": "お手すきの際に090-1234-5678までお電話いただけますと幸いです。本日17時まで対応可能でございます。", "sentence_translation": "Lúc nào rảnh anh gọi lại số 090-1234-5678 giúp em ạ. Hôm nay em có thể nhận máy đến 17h ạ.", "tone": "formal", "speed_multiplier": 0.85},
+      {"line_id": "rule_49_good_04", "speaker": "zun", "speaker_role": "BD担当", "gender": "male", "sentence": "失礼いたします。", "sentence_translation": "Em xin phép cúp máy ạ.", "tone": "warm"}
+    ]
+  }],
+  "key_phrases": [{
+    "phrase_id": "rule_49_kp_01", "speaker": "zun",
+    "sentence": "お手すきの際に〇〇〇〇までお電話いただけますと幸いです。",
+    "sentence_translation": "Lúc nào rảnh anh gọi lại số 〇〇 giúp em ạ.",
+    "purpose": "留守電折り返し依頼", "slow_audio": true
+  }],
+  "bjt_practice": [{
+    "question_id": "rule_49_bjt_01", "level": "J3", "skill": "場面把握",
+    "question_ja": "留守電メッセージで含めない要素は？",
+    "options": ["名乗り", "要件", "折り返し番号", "個人的な世間話"],
+    "correct": "D",
+    "explanation": {
+      "ja": "留守電は30秒・4要素（名乗り・要件・番号・挨拶）。世間話は不要。",
+      "vi": "Voicemail 30 giây 4 yếu tố. Chuyện phiếm không cần."
+    }
+  }]
+}

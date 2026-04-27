@@ -1,0 +1,119 @@
+{
+  "rule_id": "rule_49",
+  "rule_slug": "決定事項の社内管理",
+  "title": {
+    "ja": "決定事項の社内管理（CRM/Notion）",
+    "vi": "Tracking decisions trong CRM"
+  },
+  "rule_context": {
+    "ja": "Phase 2交渉会議3週間後、新人がスコープ決定について質問。ズンがNotion『決定事項一覧』を案内する。decision/source/owner/status 4フィールドで管理する場面。",
+    "vi": "3 tuần sau họp đàm phán phase 2, dev mới onboard hỏi scope. Em Dũng chỉ tới Notion 'Decisions list' với 4 trường: decision/source/owner/status."
+  },
+  "related_rules": ["rule_31", "rule_45", "rule_50"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 議事録メール捜索",
+      "label_vi": "XẤU — Tìm trong email biên bản",
+      "display_order": 1,
+      "analysis": {
+        "ja": "決定事項がメールに散在し、新人 onboarding や監査の度に15分以上のロス。",
+        "vi": "Decisions rải rác trong email → onboarding hoặc audit mất 15+ phút mỗi lần search."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_49_bad_01",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "ズンさん、Phase 2 のスコープって最終的にどう決まったんですか？",
+          "sentence_translation": "Anh Dũng, scope phase 2 cuối cùng quyết thế nào ạ?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_49_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えーと、メールどこかに議事録あったはず…",
+          "sentence_translation": "Ơ... biên bản có ở đâu đó trong email rồi...",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — Notion『決定事項一覧』",
+      "label_vi": "TỐT — Notion 'Decisions list'",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_49_good_02",
+          "highlight_text": "Notion の『決定事項一覧』に記録があります",
+          "ja": "single source of truth を持つことで質問対応が即座に。",
+          "vi": "Có 1 nguồn duy nhất → trả lời câu hỏi ngay tức thì."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_49_good_01",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "ズンさん、Phase 2 のスコープって最終的にどう決まったんですか？",
+          "sentence_translation": "Anh Dũng, scope phase 2 cuối cùng quyết thế nào ạ?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_49_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Notion の『決定事項一覧』に記録があります。リンク送りますね。",
+          "sentence_translation": "Có record trong Notion 'Decisions list' đấy. Anh gửi link nhé.",
+          "tone": "warm",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_49_good_03",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "あ、4/28会議で A 案確定、ownerはトゥアンリーダー、status: closed って書いてありますね。明確で助かります。",
+          "sentence_translation": "À, ghi rõ 'họp 28/4 chốt phương án A, owner Tuấn, status: closed'. Rõ ràng quá, em đỡ rồi.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_49_kp_01",
+      "speaker": "zun",
+      "sentence": "Notion の『決定事項一覧』に記録があります。",
+      "sentence_translation": "Có record trong Notion 'Decisions list' ạ.",
+      "purpose": "single source of truth を案内するフレーズ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_49_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "会議の決定事項を社内で最も traceable に管理する方法は？",
+      "options": [
+        "議事録メールに任せる",
+        "Notion/CRMに decision/source/owner/status の4フィールドで48時間以内に記録",
+        "口頭で伝える",
+        "個人メモ"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "single source of truthがあれば onboarding・監査・後追いが全て効率化される。",
+        "vi": "Có 1 source duy nhất → onboarding / audit / follow-up đều hiệu quả."
+      }
+    }
+  ]
+}

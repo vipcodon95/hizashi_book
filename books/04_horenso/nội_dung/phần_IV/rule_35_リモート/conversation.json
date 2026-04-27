@@ -1,0 +1,191 @@
+{
+  "rule_id": "rule_35",
+  "rule_slug": "リモートワーク時",
+  "title": {
+    "ja": "リモートワーク時のホウレンソウ",
+    "vi": "Hou-Ren-Sou khi work-from-home"
+  },
+  "rule_context": {
+    "ja": "リンが WFH の日に田中PMO から Slack 連絡が来るが集中モードで1時間気づかない場面。可視化なし→3点セット (朝会・ステータス・EOD) + カメラ ON で改善。",
+    "vi": "Linh WFH, anh Tanaka PMO gửi Slack nhưng Linh đang focus mode không thấy 1 giờ. Từ pattern xấu (không visible) → đúng (3 ritual: standup sáng + status icon + EOD log + camera on)."
+  },
+  "related_rules": ["rule_02", "rule_13", "rule_21"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 終日invisible",
+      "label_vi": "XẤU — Cả ngày không visible",
+      "display_order": 1,
+      "analysis": {
+        "ja": "WFH 日に朝会・ステータス・EOD のいずれも欠落。客先が状況を把握できず PM 経由で問い合わせが来る。",
+        "vi": "Ngày WFH thiếu cả standup / status / EOD. Khách không nắm được tình hình, phải hỏi qua PM."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_35_bad_01",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "(JP 14:00、Slack DM Linh) リンさん、ブロシュアの校正版いただけますか?",
+          "sentence_translation": "(JP 14:00, Slack DM Linh) Linh, em gửi giúp anh bản đã hiệu đính brochure ạ?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_35_bad_02",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "(15:00、Slack DM zun) ズンさん、リンさんに14:00 にメッセージしましたが返信ない。本日 WFH ですか?ステータスも分からず…",
+          "sentence_translation": "(15:00, Slack DM Dũng) Dũng, anh gửi tin cho Linh từ 14:00 mà không reply. Hôm nay Linh WFH à? Status cũng không thấy...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_35_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(Slack DM Linh) リン!田中様から連絡来てる。すぐ返信して。あと、リモートの日は朝会 + ステータス更新 + EOD ログを忘れずに。",
+          "sentence_translation": "(Slack DM Linh) Linh! Anh Tanaka đang chờ em. Reply ngay đi. Với cả, ngày WFH nhớ làm standup sáng + update status + EOD log.",
+          "tone": "urgent"
+        },
+        {
+          "line_id": "rule_35_bad_04",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "(16:00) すみません、ランチ後に集中していて見落としました…",
+          "sentence_translation": "(16:00) Em xin lỗi, sau ăn trưa em focus quá nên không thấy...",
+          "tone": "apologetic"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 3点セット + 即応",
+      "label_vi": "TỐT — 3 ritual + response nhanh",
+      "display_order": 2,
+      "analysis": {
+        "ja": "朝会 9:30 で当日計画と稼働時間を宣言。ステータスアイコンで現在の状態を可視化。EOD ログで翌日の Top 3 まで共有。客先の田中PMOは状況を把握でき、信頼が積み上がる。",
+        "vi": "Standup 9:30 tuyên bố kế hoạch ngày + giờ online. Status icon cho thấy trạng thái hiện tại. EOD log share Top 3 hôm sau. Anh Tanaka nắm tình hình, niềm tin tích lũy."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_35_good_01",
+          "highlight_text": "【Daily 4/22 WFH 🏠】Done: 〜 / Doing: 〜 / Blocked: 〜 / Next: 〜",
+          "ja": "朝会で WFH を絵文字で示しつつ DDBN 形式。1メッセージで状況一目。",
+          "vi": "Standup show WFH bằng emoji + dùng DDBN format. 1 message hiện toàn cảnh."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_35_good_01",
+          "highlight_text": "ステータス: 🟢 working until 18:00 ICT",
+          "ja": "ICT タイムゾーン明示。海外チームも稼働終了時刻を即把握できる。",
+          "vi": "Show timezone ICT. Team nước ngoài biết ngay giờ kết thúc."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_35_good_05",
+          "highlight_text": "EOD ログ … 持ち越し: なし / 明日 Top 3",
+          "ja": "1日のクロージングと翌日の予告がセット。次回開店時のスムーズな運営を支援。",
+          "vi": "Đóng ngày + xem trước hôm sau cùng lúc. Hỗ trợ vận hành mượt khi mở lại sáng mai."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_35_good_01",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "(9:30、Slack #team-daily) ①朝会 【Daily 4/22 WFH 🏠】Done: 昨日のブロシュア初稿 / Doing: 校正版 (今日中) / Blocked: なし / Next: 14:00 までに田中PMOへ送付。ステータス: 🟢 working until 18:00 ICT。",
+          "sentence_translation": "(9:30, Slack #team-daily) [1 Standup] [Daily 22/4 WFH 🏠] Done: bản đầu brochure hôm qua / Doing: bản hiệu đính (trong hôm nay) / Blocked: không / Next: gửi anh Tanaka PMO trước 14:00. Status: 🟢 working until 18:00 ICT.",
+          "tone": "neutral",
+          "annotation_ids": ["1", "2"]
+        },
+        {
+          "line_id": "rule_35_good_02",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "(11:30、Slackステータス変更) 🍱 lunch 11:30-12:30",
+          "sentence_translation": "(11:30, đổi Slack status) 🍱 lunch 11:30-12:30",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_35_good_03",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "(JP 14:00、Slack DM) リンさん、ブロシュアの校正版いただけますか?",
+          "sentence_translation": "(JP 14:00, Slack DM) Linh, em gửi giúp anh bản đã hiệu đính brochure ạ?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_35_good_04",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "(14:15) 田中様、お世話になっております。ちょうど14:00 に EAJ_v2.pdf を送付済でございます。受信ご確認いただけますでしょうか。",
+          "sentence_translation": "(14:15) Anh Tanaka, em xin chào. Em vừa gửi EAJ_v2.pdf đúng 14:00 ạ. Phiền anh xác nhận nhận được giúp em ạ?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_35_good_05",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "(18:00、Slack #team-daily) ③EOD ログ 【EOD 4/22】Done: ブロシュア校正版送付済(田中PMO 受領確認済) / 持ち越し: なし / 明日 Top 3: ① Phase3 marketing plan ② 印刷会社発注 ③ ハイ留学 announcement draft。ステータス更新: 🟢 → 🌙 EOD。",
+          "sentence_translation": "(18:00, Slack #team-daily) [3 EOD log] [EOD 22/4] Done: đã gửi bản hiệu đính brochure (anh Tanaka đã xác nhận) / Chuyển sang mai: không / Top 3 ngày mai: [1] Marketing plan Phase 3 [2] Đặt nhà in [3] Draft announcement Hải đi du học. Status: 🟢 → 🌙 EOD.",
+          "tone": "neutral",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_35_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(Slack reply) visibility 完璧。客先からも『分かりやすい』とのこと。継続して。",
+          "sentence_translation": "(Slack reply) Visibility hoàn hảo. Khách cũng nói 'rõ ràng'. Em duy trì nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_35_kp_01",
+      "speaker": "linh",
+      "sentence": "【Daily 〇/〇 WFH 🏠】Done: 〇〇 / Doing: 〇〇 / Blocked: 〇〇 / Next: 〇〇。ステータス: 🟢 working until 〇〇 ICT。",
+      "sentence_translation": "[Daily 〇/〇 WFH 🏠] Done: 〇〇 / Doing: 〇〇 / Blocked: 〇〇 / Next: 〇〇. Status: 🟢 working until 〇〇 ICT.",
+      "purpose": "リモート朝会 9:30 標準フォーマット",
+      "slow_audio": false
+    },
+    {
+      "phrase_id": "rule_35_kp_02",
+      "speaker": "linh",
+      "sentence": "【EOD 〇/〇】Done: 〇〇 / 持ち越し: 〇〇 / 明日 Top 3: 〇〇。ステータス: 🟢 → 🌙 EOD。",
+      "sentence_translation": "[EOD 〇/〇] Done: 〇〇 / Sang mai: 〇〇 / Top 3 mai: 〇〇. Status: 🟢 → 🌙 EOD.",
+      "purpose": "EOD ログ標準フォーマット",
+      "slow_audio": false
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_35_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "リモートワーク時のHou-Ren-Souで最も効果的な可視化方法は?",
+      "options": [
+        "終日 Slack に張り付く",
+        "朝会 + ステータスアイコン + EOD ログ + カメラON",
+        "メールだけで済ます",
+        "進捗は週次1回まとめて報告"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "リモートでは『見えない』が default。朝会 9:30 + ステータスアイコン + EOD ログの3点で可視化、会議はカメラ ON が標準。",
+        "vi": "Remote default 'không thấy'. 3 ritual: standup 9:30 + status icon + EOD log để hữu hình hóa, họp camera ON mặc định."
+      }
+    }
+  ]
+}

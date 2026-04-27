@@ -1,0 +1,210 @@
+{
+  "rule_id": "rule_17",
+  "rule_slug": "5-10分前到着",
+  "title": {
+    "ja": "5-10分前到着",
+    "vi": "Đến lobby 5-10 phút trước"
+  },
+  "rule_context": {
+    "ja": "10時アポ、ズン+トゥアンが白鷗本社(新宿)へ到着時刻9:55目標で逆算スケジュール。",
+    "vi": "Hẹn 10h, Dũng + Tuấn tính ngược thời gian đến trụ sở 白鷗 Shinjuku, mục tiêu 9:55."
+  },
+  "related_rules": [
+    "rule_16",
+    "rule_18"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 早すぎ30分 / 定刻=実質遅刻",
+      "label_vi": "XẤU — sớm 30 phút / đúng giờ = thực muộn",
+      "display_order": 1,
+      "analysis": {
+        "ja": "Scenario A: 30分前到着で田中PMO他meeting中surprise / Scenario B: 定刻到着→受付処理で実質8分遅刻、田中待たせる。",
+        "vi": "A: Sớm 30p → Tanaka đang họp khác bị bất ngờ. B: Đúng giờ → xử lý lễ tân = thực muộn 8 phút, Tanaka đợi."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_17_bad_01",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "ズン、もう着いた。",
+          "sentence_translation": "Dũng, em tới rồi.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_17_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "30分も前？まずいよ、田中PMOまだ会議中の可能性。",
+          "sentence_translation": "Trước 30 phút? Toi rồi, anh Tanaka có thể đang họp khác.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_17_bad_03",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "えっ、もう？…まあ、ロビーで待ってもらってください。10時に降ります。",
+          "sentence_translation": "Hả, đến rồi? ...Thôi nhờ chị bảo họ đợi lobby. 10h tôi xuống.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_17_bad_04",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "(10:08 8階会議室で)あ、いらっしゃいました。お待ちしておりました。",
+          "sentence_translation": "(10:08 phòng tầng 8) À, các anh đến rồi. Tôi đã đợi.",
+          "tone": "neutral",
+          "pause_after_ms": 600
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 9:55目標逆算+ロビー9:54入室",
+      "label_vi": "TỐT — mục tiêu 9:55 + vào lobby 9:54",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_17_good_01",
+          "highlight_text": "白鷗本社到着目標 9:55",
+          "ja": "10時開始から逆算: 受付処理2分+エレベーター3分=10時sharp会議室。",
+          "vi": "Tính ngược từ 10h: lễ tân 2p + thang máy 3p = đến phòng họp đúng 10h."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_17_good_04",
+          "highlight_text": "ロビー入室9:54",
+          "ja": "10分以上早ければ近隣で時間調整。ロビー早入りは受付/担当者surprise。",
+          "vi": "Sớm hơn 10p thì điều chỉnh ở cafe/ngoài. Vào lobby quá sớm = surprise lễ tân/担当者."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_17_good_06",
+          "highlight_text": "10時から田中様とお打ち合わせのお約束",
+          "ja": "受付申告で『社名+氏名+時刻+担当者+用件』のフル情報。次rule 18詳細。",
+          "vi": "Trình lễ tân với 'cty + tên + giờ + 担当者 + lý do' đầy đủ. Chi tiết ở rule 18."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_17_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "白鷗本社到着目標 9:55。新宿駅まで5分、駅から徒歩7分、+buffer3分 = 9:50 出発で OK。",
+          "sentence_translation": "Mục tiêu đến trụ sở 白鷗 9:55. Đến ga Shinjuku 5p, từ ga đi bộ 7p, + buffer 3p = 9:50 xuất phát OK.",
+          "tone": "neutral",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_17_good_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "了解。早すぎたら駅近のカフェで時間調整しよう。",
+          "sentence_translation": "Hiểu rồi. Nếu sớm quá thì điều chỉnh ở cafe gần ga.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_17_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(9:53 白鷗ビル前到着、1分観察)",
+          "sentence_translation": "(9:53 đến trước tòa 白鷗, quan sát 1 phút)",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_17_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(9:54 ロビー入室、受付へ)",
+          "sentence_translation": "(9:54 vào lobby, đến quầy lễ tân)",
+          "tone": "neutral",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_17_good_05",
+          "speaker": "reception_hakuo",
+          "speaker_role": "受付 (白鷗株式会社)",
+          "gender": "female",
+          "sentence": "いらっしゃいませ。",
+          "sentence_translation": "Xin chào quý khách.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_17_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ティエンファットのズンとトゥアンと申します。10時から田中様とお打ち合わせのお約束です。",
+          "sentence_translation": "Em là Dũng và Tuấn bên Cty Tiên Phát. Có hẹn họp với anh Tanaka từ 10h ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.9,
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_17_good_07",
+          "speaker": "reception_hakuo",
+          "speaker_role": "受付 (白鷗株式会社)",
+          "gender": "female",
+          "sentence": "お待ちしておりました。8階会議室へどうぞ。田中も間もなく参ります。",
+          "sentence_translation": "Em đã đợi ạ. Mời các anh lên phòng họp tầng 8 ạ. Anh Tanaka cũng sắp đến.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_17_good_08",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "ズンさん、トゥアンさん、ようこそ。",
+          "sentence_translation": "Anh Dũng, anh Tuấn, hân hạnh.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_17_kp_01",
+      "speaker": "zun",
+      "sentence": "白鷗本社到着目標 9:55、5分前ロビー入室。",
+      "sentence_translation": "Mục tiêu đến trụ sở 白鷗 9:55, vào lobby trước 5 phút.",
+      "purpose": "5-10分前到着逆算プラン",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_17_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "10:00 開始の訪問アポイント、ロビー到着時刻として最も適切なのは？",
+      "options": [
+        "9:30 (30分前)",
+        "9:55 (5分前)",
+        "10:00 (定刻)",
+        "10:05 (5分後でOK)"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "5-10分前が standard。早すぎ30分は host surprise、定刻=受付/エレベーターで実質遅刻。",
+        "vi": "Tiêu chuẩn 5-10p trước. Sớm 30p = surprise. Đúng giờ = lễ tân/thang máy = thực muộn."
+      }
+    }
+  ]
+}

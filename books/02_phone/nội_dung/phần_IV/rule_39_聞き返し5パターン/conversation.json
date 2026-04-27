@@ -1,0 +1,105 @@
+{
+  "rule_id": "rule_39",
+  "rule_slug": "聞き返しの5パターン",
+  "title": {
+    "ja": "聞き返しの5パターン",
+    "vi": "5 patterns hỏi lại từ không hiểu"
+  },
+  "rule_context": {
+    "ja": "聞き取れなかった時、何が不明かに応じて5パターンの聞き返しを使い分ける。",
+    "vi": "Khi không hiểu, tùy 'không hiểu chỗ nào' mà chọn 1 trong 5 pattern hỏi lại."
+  },
+  "related_rules": [
+    "rule_12",
+    "rule_13",
+    "rule_38"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 漢字確認パターン",
+      "label_vi": "TỐT — Pattern xác nhận kanji",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『漢字はどのようにお書きするのでしょうか』で漢字を確認。相手は『大きいに垣根の垣』のように口頭で説明。",
+        "vi": "「漢字はどのようにお書きするのでしょうか」 = hỏi cách viết kanji. Đối phương giải thích bằng lời (như '大きい + 垣根の垣')."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_39_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "うちの担当はおおがきです。",
+          "sentence_translation": "Người phụ trách bên tôi tên là Ōgaki ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_39_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "恐れ入ります。おおがき様ですね。どのような漢字でいらっしゃいますか？",
+          "sentence_translation": "Phiền anh ạ. Anh Ōgaki nhỉ. Kanji viết như thế nào ạ?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_39_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "大きいに垣根の垣で大垣です。",
+          "sentence_translation": "Là chữ '大' (lớn) ghép với '垣' (trong 垣根 - hàng rào) thành 大垣 ạ.",
+          "tone": "warm",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_39_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "大垣様、承知いたしました。",
+          "sentence_translation": "Anh Ōgaki, em rõ rồi ạ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_39_kp_01",
+      "speaker": "zun",
+      "sentence": "恐れ入りますが、もう一度お願いできますでしょうか？",
+      "sentence_translation": "Phiền anh, anh nói lại giúp em được không ạ?",
+      "purpose": "全体聞き返し",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_39_kp_02",
+      "speaker": "zun",
+      "sentence": "どのような漢字でいらっしゃいますか？",
+      "sentence_translation": "Kanji viết như thế nào ạ?",
+      "purpose": "漢字確認",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_39_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "相手の名前の漢字が分からない時の聞き方は？",
+      "options": [
+        "なんですか",
+        "もう一回",
+        "どのような漢字でいらっしゃいますか？",
+        "スペル教えて"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "丁寧形で漢字を確認するのが標準。",
+        "vi": "Cách lịch sự để xác nhận kanji."
+      }
+    }
+  ]
+}

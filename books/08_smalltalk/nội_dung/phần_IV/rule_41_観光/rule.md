@@ -1,0 +1,158 @@
+# Rule 41 — Cảnh đẹp + nightlife / 観光・夜の楽しみ
+
+> **Luận điểm.** Khách Nhật onsite có cuối tuần / ngày dư = cơ hội bạn flex local knowledge **theo audience**. Senior 60t = **Hạ Long / Sapa / Hội An**. Junior 30s = **Phú Quốc / nightlife Bùi Viện / Tạ Hiện**. Sai audience = phá trải nghiệm.
+
+---
+
+## 🧠 Tâm lý JP (4 dòng)
+
+- Senior JP thích **cảnh thiên nhiên + di sản** — họ check Lonely Planet trước.
+- Junior thích **vibe + ảnh chụp Instagram + nightlife** — fun-driven.
+- "Tạ Hiện / Bùi Viện" cần warning về **scam + tiếng ồn + chèo kéo** trước khi advise.
+- Chỉ recommend nightlife khi khách **explicit hỏi** — KHÔNG tự đề xuất với senior.
+
+---
+
+## 🎬 Bối cảnh
+
+Tháng 12/2026, dinner Tokyo. Matsumoto + couple sẽ trip 5 ngày VN tháng 1 (cool season). Tanaka + Hai (2 junior) sẽ trip riêng HN-HCM 4 ngày — có request "1 đêm Tạ Hiện". Sato senior đến Đà Nẵng + Hội An. Match per audience.
+
+---
+
+## 💬 4 Scenarios — dialogue thực chiến
+
+### 📍 Scenario 1 — Hạ Long + Sapa cho senior couple
+
+| Speaker | Câu |
+|---------|-----|
+| **松本** | 「ハノイから日帰りで行ける綺麗なとこ、ある?」 |
+| **ズン** | 「松本さんご夫婦でしたら、**ハロン湾とサパ**、両方おすすめです。性格が違って、**ハロン湾は『海の桂林』、サパは『山岳少数民族の里』**です。」 |
+| **松本** | 「両方行けるかな?」 |
+| **ズン** | 「**5日のうち、ハロン湾は1泊2日(船上泊)、サパは1泊2日(夜行寝台列車)**で組めば両方OK。**1月は霧で水墨画みたいな雰囲気**で、ハロン湾の冬限定の美しさです。」 |
+| **松本** | 「船上泊!?」 |
+| **ズン** | 「**ジャンク船(クルーズ船)で1泊**、夜は星空、朝霧の中で日の出を見る贅沢体験です。**Bhaya Cruises** か **Indochina Sails**が信頼できます。**1人150-200ドル**で食事+ガイド+部屋込み。」 |
+| **松本** | 「奥さんが絶対喜ぶやつだ。」 |
+| **ズン** | 「サパは**Bac Ha Marketの日曜マーケット**でモン族の伝統衣装が見られます。**冬は1度くらいまで下がる**ので防寒必須、**フランス植民地時代のサパ駅前のホテル(Hotel de la Coupole)**が雰囲気抜群です。」 |
+
+> **VN:** Senior couple = experiential + visual + comfort. "船上泊" + "霧水墨画" = trigger romantic.
+
+---
+
+### 📍 Scenario 2 — Phú Quốc cho couple beach
+
+| Speaker | Câu |
+|---------|-----|
+| **加藤** | 「ベトナムでビーチって、ダナン以外ある?」 |
+| **ズン** | 「**フーコック島**、ベトナム最南端のリゾート島で、**白砂+透明な海+ヤシの木+静か**、**バリ島の3分の1の値段**って評判です。」 |
+| **加藤** | 「沖縄に行く感覚?」 |
+| **ズン** | 「沖縄プラスワイルド感、です。**JW Marriott、Premier Village、InterContinental**がリゾート級。**南部のサオビーチ**(Sao Beach)が一番美しい砂浜で、**夕日が水平線に沈む方角**で、夕方一杯飲むのが至福です。」 |
+| **加藤** | 「いいね…岐阜の山育ちなんで、海憧れあるんよ(笑)」 |
+| **ズン** | 「岐阜だと海が遠いんですよね!**フーコックは胡椒栽培**でも有名で、**胡椒農園を訪ねるツアー**もあります。**生胡椒**を齧ると意外な味で、加藤さんでしたら朴葉味噌のおつまみに合いそう(笑)」 |
+| **加藤** | 「胡椒農園!それは初めて聞いた、面白い。」 |
+
+> **VN:** Match Kato (Gifu núi) → bridge "海憧れ" + add 胡椒 (specialty Phú Quốc) ↔ 朴葉味噌 (Gifu) = +Insider host.
+
+---
+
+### 📍 Scenario 3 — Bùi Viện / Tạ Hiện cho junior — kèm warning
+
+| Speaker | Câu |
+|---------|-----|
+| **田中** | 「タヒエン通り、ベトナムのナイトライフの聖地って聞いたんだけど、行ってみたい。」 |
+| **ズン** | 「タヒエンですね、行けます。**3つ事前に共有させてください**。**①音量爆音**(クラブ並み)、**②ぼったくりバー注意**、**③スリ注意**。」 |
+| **田中** | 「クラブ並み?」 |
+| **ズン** | 「**通り全体がオープンな野外クラブ**みたいな感じで、夜10時以降は会話ほぼ不可能です。**ロカルバー『Ta Hien Beer Corner』**が定番、ビール1万ドン(約50円)。」 |
+| **田中** | 「50円!?」 |
+| **ズン** | 「はい、**ビアホイ(Bia hơi)**って地ビール屋外バー文化で、**プラスチック椅子+生樽ビール**。但し**外国人価格に上がりやすい**ので、メニュー写真撮るのが安全。」 |
+| **田中** | 「写真撮るね。スリは?」 |
+| **ズン** | 「**バックパック前持ち+iPhone内ポケット**。**現金は1日分だけ**で、**カード持参しない**のが鉄則。Grab呼んで戻る時は**正規Grabかドライバー名確認**を。」 |
+| **田中** | 「全部メモ。サイゴンの方は?」 |
+| **ズン** | 「**ホーチミンはBui Vien Walking Street**、こちらも同様の警戒で。**もう少し落ち着いて飲みたいなら『Pasteur Street Brewing』のクラフトビール**、**屋上バーは『Glow Skybar』『Chill Skybar』**が安全で景色◎。」 |
+
+📝 **NG:** Đưa senior 60t đến Tạ Hiện. **OK:** Junior 30s + warning trước = pro host.
+
+---
+
+### 📍 Scenario 4 — Sapa cho senior history-mind
+
+| Speaker | Câu |
+|---------|-----|
+| **佐藤** | 「ホイアンの後、もう1日あったら何したい?九州の人間として、自然好きなんやけど。」 |
+| **ズン** | 「先生でしたら**サパ**、または**マイチャウ(Mai Châu)渓谷**がおすすめ。」 |
+| **佐藤** | 「マイチャウってあんまり聞かんね。」 |
+| **ズン** | 「サパは観光地化されてますが、**マイチャウは静かな白タイ族の村**で、**棚田・水牛・伝統高床式家屋**が残ってます。**九州の阿蘇カルデラ**ではないけれど、**山あいの集落の素朴さ**は近いです。」 |
+| **佐藤** | 「阿蘇に近いか…ええなあ。」 |
+| **ズン** | 「ハノイから車3.5時間、ホームステイで**1泊**できます。**夕食は地元の竹筒ご飯+水牛肉+米焼酎**、**夜は焚き火を囲んで歌と踊り**(白タイ族のSạp dance)。」 |
+| **佐藤** | 「焚き火と歌か…粋やね、九州の山里宿みたいやな。」 |
+| **ズン** | 「観光客少なめなので、**事前にメッセンジャーでホームステイ予約**必要です。**Mai Chau Ecolodge**か**Pom Coong村**でホストファミリー、英語OKです。」 |
+
+> **VN:** Senior natural lover → suggest **less-touristy** + **homestay** + **bridge với 阿蘇** quê khách.
+
+---
+
+## 🎯 Câu vàng copy-paste
+
+```
+■ HẠ LONG / SAPA (senior couple):
+「ハロン湾は『海の桂林』、サパは『山岳少数民族の里』です。」
+「1月は霧で水墨画みたいで、冬限定の美しさです。」
+「ジャンク船で1泊、星空+朝霧の日の出が贅沢です。」
+「Bhaya Cruises か Indochina Sails が信頼できます。」
+
+■ PHÚ QUỐC (couple beach):
+「フーコックは沖縄プラスワイルド感、バリの3分の1の値段です。」
+「サオビーチは夕日が水平線に沈む方角で、夕方一杯が至福。」
+「胡椒農園を訪ねるツアーもあります。」
+
+■ TẠ HIỆN / BÙI VIỆN (junior + warning):
+「3つ事前に共有させてください:①音量爆音、②ぼったくりバー、③スリ注意。」
+「ビアホイ — プラスチック椅子+生樽ビール、1万ドン。」
+「現金は1日分だけ、カード持参しないのが鉄則。」
+「Pasteur Street Brewing、Glow Skybar、Chill Skybarは安全で景色◎。」
+
+■ MAI CHAU (senior natural):
+「マイチャウは静かな白タイ族の村、棚田・水牛・高床式家屋が残ってます。」
+「阿蘇カルデラ近い素朴さです。」
+「Mai Chau Ecolodge か Pom Coong村のホームステイ。」
+```
+
+---
+
+## ⚠ NG — tuyệt đối tránh
+
+- Đưa senior 60t đến Tạ Hiện / Bùi Viện → mismatch + nguy hiểm scam.
+- Recommend nightlife mà không warning scam + ồn → trách nhiệm host.
+- Đưa khách couple đến party island Phú Quốc trong peak season chưa book → không có phòng.
+- Ép khách "phải đi cả Hạ Long + Sapa" 5 ngày → quá tải.
+- Push experience "ngủ homestay rural" cho khách lớn tuổi không quen → comfort issue.
+
+---
+
+## 📚 Vocab
+
+| 漢字 | よみ | Nghĩa |
+|------|------|-------|
+| ハロン湾 | ハロンわん | Vịnh Hạ Long |
+| ジャンク船 | ジャンクせん | Tàu junk cruise |
+| 棚田 | たなだ | Ruộng bậc thang |
+| 高床式家屋 | たかゆかしきかおく | Nhà sàn |
+| 少数民族 | しょうすうみんぞく | Dân tộc thiểu số |
+| ぼったくりバー | — | Bar chặt chém |
+| スリ | — | Móc túi |
+| 屋上バー | おくじょうバー | Rooftop bar |
+| ビアホイ | — | Bia hơi (đặc trưng VN street) |
+| ホームステイ | — | Homestay |
+| 胡椒農園 | こしょうのうえん | Vườn tiêu (Phú Quốc) |
+| 焚き火 | たきび | Đốt lửa trại |
+
+---
+
+## 🎓 BJT
+
+**J3 — 場面把握:** Match suggestion theo audience age + interest. Senior natural / couple romantic / junior nightlife.
+**J2 — 表現読解:** Khi khách hỏi về nightlife — biết kèm warning trước khi recommend.
+**J1 — 発言聴解:** Catch "九州の人間として自然好き" của Sato → bridge sang Mai Chau với 阿蘇 reference.
+
+---
+
+> **Hizashi Sách 08 — Rule 41 — 観光・夜の楽しみ**

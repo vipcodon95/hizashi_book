@@ -1,0 +1,194 @@
+{
+  "rule_id": "rule_05",
+  "rule_slug": "立場による順序",
+  "title": {
+    "ja": "立場による順序",
+    "vi": "Vai vế quyết định ai trao trước"
+  },
+  "rule_context": {
+    "ja": "ティエンファット側4名(リン/ズン/トゥアン/フオン副部長)と白鷗側3名(中村CFO/大垣/松本)の名刺交換マトリクス順序設定。",
+    "vi": "Sắp xếp thứ tự exchange ma trận giữa 4 người Tiên Phát (Linh/Dũng/Tuấn/Hương 副部長) và 3 người 白鷗 (Nakamura CFO/Ōgaki/Matsumoto)."
+  },
+  "related_rules": [
+    "rule_03",
+    "rule_04",
+    "rule_06"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 自社senior先頭+ ジュニア割り込み",
+      "label_vi": "XẤU — senior bên mình ra đầu + junior nhảy hàng",
+      "display_order": 1,
+      "analysis": {
+        "ja": "副部長フオンが先頭→junior先のルール違反。リンも順序を無視→組織にブリーフィングが無いと露見。",
+        "vi": "Phó phòng Hương ra đầu = vi phạm 'junior trước'. Linh nhảy hàng → lộ tổ chức không briefing."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_05_bad_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ティエンファット 営業 副部長のフオンでございます。",
+          "sentence_translation": "Tôi là Hương, Phó phòng Kinh doanh Cty Tiên Phát.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_05_bad_02",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "リンです、よろしく…",
+          "sentence_translation": "Em Linh ạ, mong được...",
+          "tone": "nervous",
+          "speed_multiplier": 1.1
+        },
+        {
+          "line_id": "rule_05_bad_03",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "中村でございます。",
+          "sentence_translation": "Tôi là Nakamura.",
+          "tone": "neutral",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_05_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "リンさん、本来は junior から先よ。トゥアンさんの後でいいの。",
+          "sentence_translation": "Linh, đáng lẽ junior phải đi trước. Em đứng sau anh Tuấn cũng được.",
+          "tone": "firm",
+          "speed_multiplier": 0.95
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — マトリクス順 briefing 済",
+      "label_vi": "TỐT — đã briefing ma trận",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_05_good_01",
+          "highlight_text": "リン → ズン → トゥアン → 私（フオン）",
+          "ja": "自社内 junior→senior 順。intern が最初、副部長が最後。",
+          "vi": "Trong nội bộ: junior trước, senior sau. Intern đầu, phó phòng cuối."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_05_good_01",
+          "highlight_text": "みんな最初に中村さんと交換",
+          "ja": "相手側最上位(CFO)から先に交換。次に部長、最後にPM。",
+          "vi": "Người cấp cao nhất bên khách (CFO) trước. Tiếp đến 部長, cuối cùng PM."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_05_good_05",
+          "highlight_text": "最後になり申し訳ございません",
+          "ja": "副部長として最後に出ることへの形式的詫び。実際は順序通り。",
+          "vi": "Câu xin lỗi mang tính nghi thức khi 副部長 ra cuối. Thực tế đúng thứ tự."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_05_good_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "順番は リン → ズン → トゥアン → 私（フオン）。相手側は中村CFOが最上位だから、みんな最初に中村さんと交換。",
+          "sentence_translation": "Thứ tự sẽ là Linh → Dũng → Tuấn → chị (Hương). Bên khách Nakamura CFO cao nhất nên cả nhóm exchange với anh Nakamura đầu tiên.",
+          "tone": "warm",
+          "speed_multiplier": 0.9,
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_05_good_02",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "ティエンファット マーケティングのリンと申します。頂戴いたします。",
+          "sentence_translation": "Em là Linh, Marketing Cty Tiên Phát. Xin nhận ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_05_good_03",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "中村でございます。",
+          "sentence_translation": "Tôi là Nakamura.",
+          "tone": "formal",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_05_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（続けて）ティエンファット 営業部 BD担当のチャン・ヴァン・ズンと申します。頂戴いたします。",
+          "sentence_translation": "(tiếp theo) Em là Trần Văn Dũng, BD phòng Kinh doanh Cty Tiên Phát. Xin nhận ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_05_good_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "最後になり申し訳ございません。営業部 副部長のフオンでございます。",
+          "sentence_translation": "Xin lỗi vì để đến cuối ạ. Tôi là Hương, Phó phòng Kinh doanh.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_05_kp_01",
+      "speaker": "fuon",
+      "sentence": "最後になり申し訳ございません。",
+      "sentence_translation": "Xin lỗi vì để đến cuối ạ.",
+      "purpose": "Senior最後発話の定型詫び",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_05_kp_02",
+      "speaker": "fuon",
+      "sentence": "順番は junior から先、相手は最上位から交換します。",
+      "sentence_translation": "Thứ tự: junior trước, bên khách thì người cấp cao nhất exchange trước.",
+      "purpose": "順序ブリーフィング",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_05_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "自社4名(intern/BD/Lead/副部長)が客側3名(CFO/部長/PM)と名刺交換する場合の順序として最も適切なのは？",
+      "options": [
+        "副部長が先頭でCFOから交換",
+        "intern → BD → Lead → 副部長 の順、各自CFOから交換",
+        "ランダムでよい",
+        "客側部長から先に交換"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "自社内junior先、相手最上位優先のマトリクス順。",
+        "vi": "Ma trận: junior bên mình trước, senior bên khách ưu tiên."
+      }
+    }
+  ]
+}

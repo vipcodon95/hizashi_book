@@ -1,0 +1,199 @@
+{
+  "_schema_version": "1.0",
+  "_skill": "study-course-questions-builder",
+  "_description": "MẪU ĐỌC HIỂU (reading). 2 passages × 4 câu/passage = 8 câu, gộp vào 1 set.",
+
+  "meta": {
+    "title": "Sample Mogishiken — Keigo Reading",
+    "title_vn": "Mẫu Mô phỏng đề thi đọc hiểu — Kính ngữ",
+    "module_code": "<must_match_build_script_MODULE_DEFS_code>",
+    "total_passages": 2,
+    "total_questions": 8,
+    "focus": "Đọc hiểu tài liệu kinh doanh",
+    "description_vn": "Mẫu file JSON cho dạng đọc hiểu — 2 đoạn văn, mỗi đoạn 4 câu hỏi."
+  },
+
+  "reading_passages": [
+    {
+      "id": "passage_001",
+      "title": "ビジネスメール",
+      "category": "email",
+      "jlpt_level": "BJT",
+      "difficulty": 1,
+      "word_count": 87,
+      "estimated_reading_time": 60,
+      "content_ja": "件名：来週の会議について\n\n田中さんへ\n\nいつもお疲れ様です。\n来週の月曜日に営業会議があります。開始時間は午前10時です。準備物として、最新の販売データが必要になります。\nお手数ですが、データを送っていただけませんか？ご不明な点がありましたら、いつでもお気軽にお尋ねください。\n\nよろしくお願いいたします。\n鈴木",
+      "translation_vn": "Tình huống: Nhân viên viết email cho đồng nghiệp để yêu cầu thông tin. Email ngắn gọn, sử dụng Teineigo cơ bản.",
+      "audio_url": null,
+      "image_url": null
+    },
+    {
+      "id": "passage_002",
+      "title": "電話応対スクリプト",
+      "category": "letter",
+      "jlpt_level": "BJT",
+      "difficulty": 2,
+      "word_count": 148,
+      "estimated_reading_time": 90,
+      "content_ja": "A（営業担当）：「いつもご利用ありがとうございます。本日はどのようなご用件でしょうか？」\n\nB（顧客）：「商品の納期について確認したいのですが」\n\nA：「かしこまりました。確認させていただきます。申し訳ございませんが、注文番号をお伺いしてもよろしいでしょうか？」\n\nB：「注文番号は、ABC-2024-001です」\n\nA：「ありがとうございます。少々お待ちください。…確認いたしました。ご注文いただきました商品は、来週の木曜日にお届け予定でございます。」\n\nB：「わかりました。よろしくお願いします」",
+      "translation_vn": "Tình huống: Cuộc gọi điện thoại giữa nhân viên (A) và khách hàng (B). Nhân viên dùng Sonkeigo khi nói với khách, Kenjougo khi nói về công ty mình.",
+      "audio_url": null,
+      "image_url": null
+    }
+  ],
+
+  "questions": [
+    {
+      "id": "q_mogi_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "BJT-1",
+      "passage_ref": "passage_001",
+      "question_jp": "このメールの目的は何ですか？",
+      "question_vn": "Mục đích của email này là gì?",
+      "choices": [
+        {"id": "A", "text": "来週の会議が中止することを知らせる", "text_translation": "Báo cuộc họp bị hủy", "is_correct": false, "order": 0},
+        {"id": "B", "text": "会議の準備物として販売データを送ってもらう", "text_translation": "Yêu cầu gửi dữ liệu bán hàng làm tài liệu chuẩn bị", "is_correct": true, "order": 1},
+        {"id": "C", "text": "田中さんの連絡先を確認する", "text_translation": "Xác nhận thông tin liên hệ của Tanaka", "is_correct": false, "order": 2},
+        {"id": "D", "text": "営業会議の参加者を増やす", "text_translation": "Tăng số người tham gia họp", "is_correct": false, "order": 3}
+      ],
+      "explanation": "Email rõ ràng yêu cầu (「データを送っていただけませんか？」) gửi dữ liệu bán hàng cho cuộc họp."
+    },
+    {
+      "id": "q_mogi_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "BJT-1",
+      "passage_ref": "passage_001",
+      "question_jp": "「お手数ですが」はどんな場面で使いますか？",
+      "question_vn": "「お手数ですが」được dùng trong tình huống nào?",
+      "choices": [
+        {"id": "A", "text": "相手に何か迷惑をかけるときに、丁寧に依頼する場面", "text_translation": "Khi yêu cầu ai đó làm điều có thể gây phiền", "is_correct": true, "order": 0},
+        {"id": "B", "text": "相手が忙しいときに、無視する場面", "text_translation": "Khi đối phương bận, bỏ qua", "is_correct": false, "order": 1},
+        {"id": "C", "text": "相手を褒める場面", "text_translation": "Khi khen đối phương", "is_correct": false, "order": 2},
+        {"id": "D", "text": "相手に厳しく命令する場面", "text_translation": "Khi ra lệnh nghiêm khắc", "is_correct": false, "order": 3}
+      ],
+      "explanation": "「お手数ですが」là biểu hiện lịch sự dùng khi yêu cầu ai đó làm điều có thể gây phiền."
+    },
+    {
+      "id": "q_mogi_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "BJT-1",
+      "passage_ref": "passage_001",
+      "question_jp": "会議の開始時間は何時ですか？",
+      "question_vn": "Giờ bắt đầu cuộc họp là mấy giờ?",
+      "choices": [
+        {"id": "A", "text": "午後10時", "text_translation": "10 giờ tối", "is_correct": false, "order": 0},
+        {"id": "B", "text": "午前9時", "text_translation": "9 giờ sáng", "is_correct": false, "order": 1},
+        {"id": "C", "text": "午前10時", "text_translation": "10 giờ sáng", "is_correct": true, "order": 2},
+        {"id": "D", "text": "午後2時", "text_translation": "2 giờ chiều", "is_correct": false, "order": 3}
+      ],
+      "explanation": "Văn bản nói rõ:「開始時間は午前10時です」."
+    },
+    {
+      "id": "q_mogi_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "BJT-1",
+      "passage_ref": "passage_001",
+      "question_jp": "「お気軽に」とはどういう意味ですか？",
+      "question_vn": "「お気軽に」có ý nghĩa gì?",
+      "choices": [
+        {"id": "A", "text": "厳しく、重くお願いする", "text_translation": "Yêu cầu nghiêm khắc, nặng nề", "is_correct": false, "order": 0},
+        {"id": "B", "text": "気分が悪いときだけ連絡する", "text_translation": "Chỉ liên lạc khi tâm trạng xấu", "is_correct": false, "order": 1},
+        {"id": "C", "text": "気を楽にして、遠慮なく連絡する", "text_translation": "Thoải mái, không e ngại", "is_correct": true, "order": 2},
+        {"id": "D", "text": "秘密にして、誰にも言わない", "text_translation": "Giữ bí mật", "is_correct": false, "order": 3}
+      ],
+      "explanation": "「お気軽に」là biểu hiện lịch sự có nghĩa 'hãy tự tại, không cần e ngại'."
+    },
+    {
+      "id": "q_mogi_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "BJT-2",
+      "passage_ref": "passage_002",
+      "question_jp": "Aさんが「申し訳ございませんが」と言ったのは、どうしてですか？",
+      "question_vn": "Tại sao nhân viên A nói「申し訳ございません」?",
+      "choices": [
+        {"id": "A", "text": "顧客の注文番号が間違っている", "text_translation": "Mã đơn hàng sai", "is_correct": false, "order": 0},
+        {"id": "B", "text": "顧客に質問をするときに、迷惑をかけるかもしれないという丁寧な表現", "text_translation": "Cách lịch sự khi sắp hỏi khách", "is_correct": true, "order": 1},
+        {"id": "C", "text": "商品が壊れている", "text_translation": "Sản phẩm bị hỏng", "is_correct": false, "order": 2},
+        {"id": "D", "text": "顧客の電話番号を知らない", "text_translation": "Không biết số điện thoại", "is_correct": false, "order": 3}
+      ],
+      "explanation": "「申し訳ございません」là biểu hiện xin lỗi trước khi yêu cầu khách cung cấp thông tin."
+    },
+    {
+      "id": "q_mogi_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "BJT-2",
+      "passage_ref": "passage_002",
+      "question_jp": "「お伺いしてもよろしいでしょうか」は何という敬語ですか？",
+      "question_vn": "「お伺いしてもよろしいでしょうか」là loại kính ngữ gì?",
+      "choices": [
+        {"id": "A", "text": "尊敬語（Sonkeigo）", "text_translation": "Tôn kính ngữ", "is_correct": false, "order": 0},
+        {"id": "B", "text": "謙譲語（Kenjougo）", "text_translation": "Khiêm nhường ngữ", "is_correct": true, "order": 1},
+        {"id": "C", "text": "丁寧語（Teineigo）のみ", "text_translation": "Chỉ Lịch sự ngữ", "is_correct": false, "order": 2},
+        {"id": "D", "text": "敬語ではない", "text_translation": "Không phải kính ngữ", "is_correct": false, "order": 3}
+      ],
+      "explanation": "「お伺いする」là Kenjougo của「聞く」(người nói tự hạ mình)."
+    },
+    {
+      "id": "q_mogi_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "BJT-2",
+      "passage_ref": "passage_002",
+      "question_jp": "商品はいつお届けしますか？",
+      "question_vn": "Sản phẩm sẽ được giao khi nào?",
+      "choices": [
+        {"id": "A", "text": "今日", "text_translation": "Hôm nay", "is_correct": false, "order": 0},
+        {"id": "B", "text": "明日", "text_translation": "Ngày mai", "is_correct": false, "order": 1},
+        {"id": "C", "text": "来週の木曜日", "text_translation": "Thứ Năm tuần sau", "is_correct": true, "order": 2},
+        {"id": "D", "text": "来月", "text_translation": "Tháng sau", "is_correct": false, "order": 3}
+      ],
+      "explanation": "Văn bản nói rõ:「来週の木曜日にお届け予定でございます」."
+    },
+    {
+      "id": "q_mogi_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "BJT-2",
+      "passage_ref": "passage_002",
+      "question_jp": "「ご注文いただきました商品」の「いただきました」はどの敬語ですか？",
+      "question_vn": "「いただきました」trong câu「ご注文いただきました」là loại kính ngữ gì?",
+      "choices": [
+        {"id": "A", "text": "尊敬語（顧客の行動を高める）", "text_translation": "Sonkeigo (nâng hành động của khách)", "is_correct": false, "order": 0},
+        {"id": "B", "text": "謙譲語（自分の側が「もらう」を低める）", "text_translation": "Kenjougo (hạ thấp việc nhận của phía mình)", "is_correct": true, "order": 1},
+        {"id": "C", "text": "丁寧語のみ", "text_translation": "Chỉ Teineigo", "is_correct": false, "order": 2},
+        {"id": "D", "text": "両方の組み合わせ", "text_translation": "Kết hợp cả hai", "is_correct": false, "order": 3}
+      ],
+      "explanation": "「いただく」là Kenjougo của「もらう」. Phía nhân viên 'nhận đơn hàng' từ khách → dùng Kenjougo."
+    }
+  ],
+
+  "question_sets": [
+    {
+      "set_id": "set_mogishiken_overall",
+      "set_type": "reading",
+      "name": "Sample Mogishiken — Mô phỏng đề thi đọc hiểu",
+      "description": "Mô phỏng đề thi BJT đọc hiểu — 8 câu, 2 bài đọc.",
+      "card_count": 8,
+      "module_position": 5,
+      "reading_passage_ref": null,
+      "question_ids": [
+        "q_mogi_001", "q_mogi_002", "q_mogi_003", "q_mogi_004",
+        "q_mogi_005", "q_mogi_006", "q_mogi_007", "q_mogi_008"
+      ]
+    }
+  ]
+}

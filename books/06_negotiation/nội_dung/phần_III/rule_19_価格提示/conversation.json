@@ -1,0 +1,163 @@
+{
+  "rule_id": "rule_19",
+  "rule_slug": "価格提示フレーズ",
+  "title": {
+    "ja": "価格提示フレーズ",
+    "vi": "Cấu trúc câu đề xuất giá"
+  },
+  "rule_context": {
+    "ja": "大垣の ¥15M counter に対し、Dũng が4要素 (Frame・Number・Justification・Trade) で ¥17.5M + 2年契約化の counter を提示する場面。",
+    "vi": "Trước counter ¥15M của Ōgaki, Dũng dùng 4-part phrase quote ¥17.5M + trade kéo hợp đồng 2 năm."
+  },
+  "related_rules": ["rule_18", "rule_20", "rule_25"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 裸の counter",
+      "label_vi": "XẤU — Counter trần",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「¥17M で」だけの裸 counter。justification も trade もなく easy concession として読まれる。",
+        "vi": "'¥17M cho' đơn thuần. Không justification + không trade, bị đọc là easy concession."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_19_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "¥18M は厳しい。¥15M でいかがですか？",
+          "sentence_translation": "¥18M căng quá. ¥15M nhé?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_19_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えーと、¥17M で。",
+          "sentence_translation": "Ờ, ¥17M ạ.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_19_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "¥17M ですか…",
+          "sentence_translation": "¥17M ạ...",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 4要素 phrase",
+      "label_vi": "TỐT — Pricing phrase 4 yếu tố",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_19_good_02",
+          "highlight_text": "ご指摘の点、もっともでございます",
+          "ja": "Bridge phrase。counterする前に相手の主張を一旦受け止める。confrontational tone を回避。",
+          "vi": "Bridge phrase: trước khi counter, đỡ lấy phát biểu của khách. Tránh tone đối đầu."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_19_good_02",
+          "highlight_text": "Phase 2 のテンプレート流用 (-工数 8%)",
+          "ja": "justification は具体数値。「ちょっと安く」では trust されない。",
+          "vi": "Justification phải có số cụ thể. 'Hơi rẻ hơn' không trust được."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_19_good_02",
+          "highlight_text": "契約期間を 2 年契約へ延長していただければ、この価格でご提供可能",
+          "ja": "trade を必ず付ける。trade なしの counter は unilateral concession。",
+          "vi": "Phải đính trade. Counter không trade là unilateral concession."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_19_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "¥18M は厳しい。¥15M でいかがですか？",
+          "sentence_translation": "¥18M căng quá. ¥15M nhé?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_19_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご指摘の点、もっともでございます。フレームとして、御社のコスト圧縮方針を踏まえ、構成を見直して再提案いたします。金額は ¥17.5M。根拠としまして、AI レコメンドエンジン coreは維持、但し dashboard カスタム部分を Phase 2 のテンプレート流用 で工数 8% 削減できます。条件として、契約期間を 2 年契約へ延長していただければ、この価格でご提供可能でございます。",
+          "sentence_translation": "Em xin tiếp thu ý kiến quý anh ạ. Frame: dựa trên phương châm nén chi phí của quý cty, em xem lại cấu thành để đề xuất lại. Số tiền: ¥17.5M. Cơ sở: giữ core AI recommend engine, nhưng phần dashboard custom dùng lại template Phase 2, giảm effort 8%. Điều kiện: nếu kéo hợp đồng lên 2 năm, em có thể cung cấp ở mức giá này ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1", "2", "3"]
+        },
+        {
+          "line_id": "rule_19_good_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "2 年契約の点、確認が必要です。",
+          "sentence_translation": "Vụ hợp đồng 2 năm cần xác nhận lại.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_19_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "もちろんです、お時間をお取りいただいて結構です。",
+          "sentence_translation": "Tất nhiên ạ, quý anh cứ dành thời gian xem xét ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_19_kp_01",
+      "speaker": "zun",
+      "sentence": "ご指摘の点、もっともでございます。〜の条件でございましたら、〜でご提供可能でございます。",
+      "sentence_translation": "Em tiếp thu ý kiến quý anh ạ. Nếu điều kiện ~ thì em có thể cung cấp ở mức ~ ạ.",
+      "purpose": "価格 counter の標準骨格",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_19_bjt_01",
+      "level": "J1",
+      "skill": "表現読解",
+      "question_ja": "価格 counter で抜けてはいけない4要素は？",
+      "options": [
+        "Frame・Number・Justification・Trade",
+        "謝罪・低姿勢・遠慮・撤回",
+        "脅し・期限・最終通告・ボーナス",
+        "感情・記憶・推測・希望"
+      ],
+      "correct": "A",
+      "explanation": {
+        "ja": "4要素はFrame(枠組み)・Number(数字)・Justification(根拠)・Trade(引き換え)。1つでも抜けるとleverage失う。",
+        "vi": "4 yếu tố: Frame / Number / Justification / Trade. Thiếu 1 là mất leverage."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_19_tpl_01",
+      "format": "checklist",
+      "title_ja": "価格提示フレーズ チェックリスト + 5シナリオ",
+      "title_vi": "Pricing phrase checklist + 5 scenarios",
+      "content_ja": "━━━ 価格提示フレーズ 4要素チェック ━━━\n\n【提示前チェック】\n  □ Frame: 相手状況を踏まえた前置き準備済み\n  □ Number: 具体的な金額確定 (anchor / target / current step どこ?)\n  □ Justification: 数値根拠 (工数・SLA・ROI 倍率) 準備済み\n  □ Trade: 引き換え条件1つ以上 (期間・scope・支払・事例)\n\n【シナリオ別 phrase 集】\n\n■ シナリオ1 — 初回 anchor (go first)\n「価格について、3 段階でご提案します。Better tier 〇〇円、anchor として Best tier 〇〇円。¥〇〇M の根拠は〇〇、御社 ROI 〇倍に位置します。」\n\n■ シナリオ2 — 「高い」への counter (rule 19 main)\n「ご指摘の点、もっともでございます。〇〇 (frame)、金額 〇〇円。根拠は 〇〇 (-工数〇%)。条件として 〇〇 をいただければ、この価格で可能です。」\n\n■ シナリオ3 — 譲歩取り下げ (rule 09 trade-back)\n「先ほどの 〇〇円のご提案は、〇〇 という前提でしたので、その前提が変わる場合は元の 〇〇円に戻させていただきます。」\n\n■ シナリオ4 — 最終 best offer\n「これが弊社として可能な最終条件でございます。〇〇円 + 〇〇 (含む)。これ以上の譲歩は粗利を割り込みますので、お受けすることが難しいです。」\n\n■ シナリオ5 — 持ち帰り (escalation)\n「ご提案いただいた条件、その場で即答致しかねます。弊社 CTO 確認の上、〇曜日までに正式回答いたします。」\n\n━━━ 当日チェック ━━━\n  □ 4要素を声に出して練習済み\n  □ 沈黙 7秒練習済み (rule 25)\n  □ Trade-back trigger 確認済み (rule 09)",
+      "content_vi": "━━━ Checklist 4 yếu tố pricing phrase ━━━\n\n[Trước khi quote]\n  □ Frame: đã chuẩn bị câu mở dựa trên tình huống khách\n  □ Number: số tiền cụ thể (anchor / target / step hiện tại?)\n  □ Justification: cơ sở số (effort / SLA / bội số ROI) sẵn sàng\n  □ Trade: ít nhất 1 điều kiện đổi (thời hạn / scope / payment / case)\n\n[5 scenarios + phrase]\n\n[1] Anchor mở đầu (go first)\n'Về giá, em đề xuất 3-tier. Better tier 〇〇¥, kèm Best tier 〇〇¥ làm anchor. Cơ sở ¥〇〇M là 〇〇, ROI quý cty 〇 lần ạ.'\n\n[2] Counter sau '高い' (chính của rule 19)\n'Em xin tiếp thu ạ. 〇〇 (frame), số tiền 〇〇¥. Cơ sở 〇〇 (-effort 〇%). Điều kiện: nếu được 〇〇, em có thể cung cấp giá này ạ.'\n\n[3] Rút lại nhượng bộ (trade-back ở rule 09)\n'Đề xuất 〇〇¥ vừa rồi dựa trên tiền đề 〇〇, nếu tiền đề thay đổi thì xin phép em quay lại mức 〇〇¥ trước ạ.'\n\n[4] Best offer cuối\n'Đây là điều kiện cuối em có thể đưa ra. 〇〇¥ + 〇〇 (bao gồm). Vượt nữa là dưới mức gross margin, em không nhận được ạ.'\n\n[5] Mang về xem xét (escalation)\n'Điều kiện quý anh đề xuất em không trả lời ngay tại chỗ được. Em xin xác nhận với CTO bên em, trả lời chính thức trước thứ 〇 ạ.'\n\n━━━ Check ngày G ━━━\n  □ Đã practice 4 yếu tố ra miệng\n  □ Đã practice im lặng 7 giây (rule 25)\n  □ Confirm trigger trade-back (rule 09)",
+      "notes_ja": "5シナリオを商談前夜に必ず音読 5回以上。沈黙7秒も体感練習。",
+      "notes_vi": "Đọc miệng 5 scenarios ít nhất 5 lần đêm trước. Practice cảm giác im lặng 7 giây."
+    }
+  ]
+}

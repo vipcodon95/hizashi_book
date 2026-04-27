@@ -1,0 +1,153 @@
+{
+  "rule_id": "rule_43",
+  "rule_slug": "会議終了挨拶",
+  "title": {
+    "ja": "会議終了の挨拶",
+    "vi": "Câu chào kết thúc"
+  },
+  "rule_context": {
+    "ja": "4月度月例会議が定刻通り終了。ズン司会が①時間感謝 ②本日のアウトプット要約 ③次のコミット ④結び の4ステップで締めくくる場面。",
+    "vi": "Họp định kỳ tháng 4 kết thúc đúng giờ. Dũng đóng họp 4 bước: cảm ơn time → tóm output → cam kết next → kết quan hệ."
+  },
+  "related_rules": ["rule_09", "rule_42", "rule_44", "rule_47"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — カジュアルすぎる",
+      "label_vi": "XẤU — Quá casual",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「お疲れ様でした」は社内・同僚向け。formal な顧客会議の締めには軽すぎる。",
+        "vi": "「お疲れ様でした」 OK với đồng nghiệp, nhưng họp formal với khách thì quá casual."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_43_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "じゃあ、お疲れ様でした！",
+          "sentence_translation": "Vậy, mọi người vất vả rồi ạ!",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_43_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "…はい、お疲れ様でした。",
+          "sentence_translation": "...Vâng, vất vả rồi.",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 4ステップで締める",
+      "label_vi": "TỐT — 4 bước đóng",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_43_good_01",
+          "highlight_text": "お忙しい中、お時間いただき誠にありがとうございました",
+          "ja": "会議冒頭の挨拶と対をなす締めの定型句。",
+          "vi": "Câu kết chuẩn business, đối xứng với câu chào mở đầu."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_43_good_04",
+          "highlight_text": "今後ともどうぞよろしくお願い申し上げます",
+          "ja": "関係継続を約束する business JP の定型結語。",
+          "vi": "Câu kết business JP cam kết duy trì quan hệ."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_43_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本日はお忙しい中、お時間いただき誠にありがとうございました。",
+          "sentence_translation": "Hôm nay anh chị bận mà vẫn dành thời gian, em xin chân thành cảm ơn ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_43_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本日はPhase 2 スコープA案の確定と、5月開発計画の合意ができました。",
+          "sentence_translation": "Hôm nay mình đã chốt scope phase 2 phương án A và đồng thuận kế hoạch dev tháng 5 ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_43_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "議事録は本日中、資料一式は明日午前中までにメールにてお送りいたします。次回は5月10日の月例会議でお会いしたく存じます。",
+          "sentence_translation": "Biên bản em gửi trong hôm nay, tài liệu trọn bộ trước trưa mai qua email ạ. Lần tới em mong gặp lại anh tại họp định kỳ ngày 10/5 ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_43_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本日は誠にありがとうございました。今後ともどうぞよろしくお願い申し上げます。",
+          "sentence_translation": "Hôm nay em xin chân thành cảm ơn ạ. Mong tiếp tục được anh chị giúp đỡ ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_43_good_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "ありがとうございました。引き続きよろしくお願いします。",
+          "sentence_translation": "Cảm ơn nhé. Tiếp tục phối hợp nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_43_kp_01",
+      "speaker": "zun",
+      "sentence": "本日はお忙しい中、お時間いただき誠にありがとうございました。",
+      "sentence_translation": "Hôm nay anh chị bận mà vẫn dành thời gian, em xin chân thành cảm ơn ạ.",
+      "purpose": "会議終了時の感謝フレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_43_kp_02",
+      "speaker": "zun",
+      "sentence": "今後ともどうぞよろしくお願い申し上げます。",
+      "sentence_translation": "Mong tiếp tục được anh/chị giúp đỡ ạ.",
+      "purpose": "関係継続の結びフレーズ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_43_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "顧客会議の締めくくりに最も適切な挨拶はどれか？",
+      "options": [
+        "じゃあ、お疲れ様でした",
+        "本日はお時間いただき誠にありがとうございました。今後ともどうぞよろしくお願い申し上げます",
+        "終わりました",
+        "また今度"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "感謝+関係継続の結びが顧客会議の formal 標準。",
+        "vi": "Cảm ơn + cam kết duy trì quan hệ là chuẩn formal cho họp khách."
+      }
+    }
+  ]
+}

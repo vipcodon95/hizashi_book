@@ -1,0 +1,181 @@
+{
+  "rule_id": "rule_14",
+  "rule_slug": "アフターケア",
+  "title": {
+    "ja": "アフターケア",
+    "vi": "After-care (theo dõi sau visit)"
+  },
+  "rule_context": {
+    "ja": "白鷗visit翌日(D+1)9:00、リンが24h memoから3要素抽出のお礼メールdraftをフオン副部長にレビュー依頼。",
+    "vi": "Sáng hôm sau (D+1) 9:00, Linh draft mail cảm ơn rút từ 24h memo, gửi review cho Hương 副部長."
+  },
+  "related_rules": [
+    "rule_07",
+    "rule_13",
+    "rule_30"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — D+3 generic 1行",
+      "label_vi": "XẤU — D+3 generic 1 dòng",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①D+3 で『昨日』と誤記 ②quote/action/personal note 全欠 ③1行汎用本文。relationship build 0%。",
+        "vi": "(1) D+3 mà ghi '昨日' sai. (2) Thiếu cả 3 yếu tố. (3) Body 1 dòng generic. Build relationship 0%."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_14_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオンさん、白鷗 visit のお礼メール、まだ送ってないですね…",
+          "sentence_translation": "Chị Hương, mail cảm ơn 白鷗 visit chưa gửi đúng không ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_14_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "あ、忘れてた。リンさん、generic で送って。",
+          "sentence_translation": "À, quên mất. Linh, em gửi generic đi.",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_14_bad_03",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "件名『昨日はありがとうございました』、本文『先日はお越しいただきありがとうございました。今後ともよろしくお願いいたします』。",
+          "sentence_translation": "Tiêu đề 'Hôm qua cảm ơn anh', body 'Hôm trước cảm ơn anh đã đến. Mong tiếp tục hợp tác'.",
+          "tone": "neutral",
+          "speed_multiplier": 1.05
+        },
+        {
+          "line_id": "rule_14_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "OK 送って。",
+          "sentence_translation": "OK gửi đi.",
+          "tone": "casual"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — D+1+3要素+senior名義",
+      "label_vi": "TỐT — D+1 + 3 yếu tố + tên senior",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_14_good_01",
+          "highlight_text": "3要素",
+          "ja": "quote(中村CFO発言引用)+action(Q3決算後再検討)+personal note(大垣部長食事感想)。relationship build の3点セット。",
+          "vi": "quote + action + personal note. 3 yếu tố build relationship."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_14_good_04",
+          "highlight_text": "私の名義で送って。署名は副部長フオン",
+          "ja": "Senior(副部長)名義でweight確保。intern送信は格下扱い。",
+          "vi": "Gửi tên senior (副部長) = weight cao. Intern gửi = bị coi nhẹ."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_14_good_04",
+          "highlight_text": "資料作成: リン",
+          "ja": "実作業はリンだが本文末尾に『資料作成: リン』記載で junior visible化。次回会話のhook作り。",
+          "vi": "Junior thực làm nên ghi 'Tài liệu: Linh' cuối body. Để khách biết Linh = hook lần gặp sau."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_14_good_01",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "フオン副部長、お礼メールdraft完成しました。3要素チェック済: ① 中村CFOの『Phase 4 予算1,500万円』引用 ② action item『Q3決算後再検討』スケジュール ③ 大垣部長のHCMC食事感想への一言。",
+          "sentence_translation": "Chị Hương, em đã xong draft mail cảm ơn ạ. Đã check 3 yếu tố: ① quote anh Nakamura CFO 'budget Phase 4 15tr yên'. ② action 'sau quyết toán Q3 review'. ③ note cá nhân về cảm tưởng đồ ăn HCMC của anh Ōgaki 部長.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_14_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "件名は『Phase 3 キックオフ御礼および議事録ご送付の件』に。長すぎず短すぎず。",
+          "sentence_translation": "Tiêu đề: 'Cảm ơn Phase 3 Kickoff và gửi biên bản'. Vừa, không dài không ngắn.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_14_good_03",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "議事録 PDF + slide deck も添付済みです。CC は中村CFO・大垣部長・松本PM の3名、To は大垣部長(代表)。",
+          "sentence_translation": "Biên bản PDF + slide deck đính kèm rồi ạ. CC 3 người Nakamura CFO + Ōgaki 部長 + Matsumoto PM, To là Ōgaki 部長 (đại diện).",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_14_good_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "私の名義で送って。署名は副部長フオン。リンの名前は『資料作成: リン』で本文に明記。",
+          "sentence_translation": "Gửi tên chị nhé. Chữ ký '副部長 Hương'. Tên Linh ghi rõ trong body 'Tài liệu: Linh'.",
+          "tone": "warm",
+          "annotation_ids": [
+            "2",
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_14_good_05",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "承知いたしました。9:30 までに送信いたします。",
+          "sentence_translation": "Em rõ ạ. Trước 9:30 em sẽ gửi.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_14_kp_01",
+      "speaker": "linh",
+      "sentence": "3要素チェック済: quote、action item、personal note。",
+      "sentence_translation": "Đã check 3 yếu tố: quote, action, personal note.",
+      "purpose": "アフターケア3要素確認",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_14_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "訪問後のお礼メールに含めるべき3要素は？",
+      "options": [
+        "天気・移動・宿泊",
+        "specific quote + action item + personal note",
+        "会社紹介・商品PR・次回提案",
+        "謝罪・釈明・改善"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "quote=傾聴証明、action=follow-up、personal note=relationship build。3点必須。",
+        "vi": "Quote = chứng minh đã nghe, action = follow-up, personal note = build relationship. 3 yếu tố bắt buộc."
+      }
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "rule_id": "rule_16",
+  "rule_slug": "各議題の時間配分",
+  "title": {
+    "ja": "各議題の時間配分",
+    "vi": "Confirm timeline mỗi mục"
+  },
+  "rule_context": {
+    "ja": "ズン司会が時計時刻で各議題の時間配分を明示。延長時の対応方針も事前共有。",
+    "vi": "Dũng confirm timeline mỗimục bằng clock-time. Báo trước flow xin phép kéo dài nếu over time."
+  },
+  "related_rules": [
+    "rule_13",
+    "rule_14",
+    "rule_29",
+    "rule_42"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 分単位のみで終了時刻不明",
+      "label_vi": "XẤU — Chỉ có 'phút', không có giờ kết thúc",
+      "display_order": 1,
+      "analysis": {
+        "ja": "分単位の所要時間しか伝えず、終了時刻を客が暗算しなければならない。",
+        "vi": "Chỉ nêu số phút, khách phải tự cộng để biết khi nào kết thúc."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_16_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "では議題1から、進捗報告 10分、課題 15分、スコープ 25分、確認 10分です。",
+          "sentence_translation": "Vângmục 1 — báo cáo tiến độ 10 phút, vấn đề 15 phút, scope 25 phút, confirm 10 phút ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_16_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "終了予定は何時？",
+          "sentence_translation": "Vậy mấy giờ kết thúc?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_16_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えーと、足し算すると…16時です。",
+          "sentence_translation": "Ơ... cộng lại thì... 16h ạ.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_16_bad_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "最初から『15:00 開始、16:00 終了』と言ってもらえれば…",
+          "sentence_translation": "Ngay từ đầu nói '15h vào, 16h xong' luôn thì hơn...",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 時刻単位＋延長方針",
+      "label_vi": "TỐT — Clock-time + plan kéo dài",
+      "display_order": 2,
+      "analysis": {
+        "ja": "開始・終了時刻と各議題の時刻範囲を明示。超過時は司会が止めて延長合意を取る方針も事前共有。",
+        "vi": "Báo giờ bắt đầu/kết thúc + clock-time mỗimục. Plan trước nếu over thìngười chủ trì dừng lại xin phép kéo dài."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_16_good_01",
+          "highlight_text": "15:00 開始、16:00 終了予定",
+          "ja": "客が次の予定を立てやすくなる重要情報。冒頭で必ず示す。",
+          "vi": "Thông tin quan trọng để khách lên lịch sau. Bắt buộc nói ngay đầu."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_16_good_02",
+          "highlight_text": "15:00〜15:10",
+          "ja": "時刻範囲で議題ごとに区切ると、超過の判断が即座にできる。",
+          "vi": "Báo theo khung clock-time → đến phút thì đánh giá over hay không được ngay."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_16_good_03",
+          "highlight_text": "延長可否をご相談",
+          "ja": "超過は事前合意がベース。会議中に勝手に延長しない。",
+          "vi": "Kéo dài phải có agreement trước. Không tự ý lấn giờ."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_16_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本日の時間配分をご確認ください。15:00 開始、16:00 終了予定でございます。",
+          "sentence_translation": "Xin các anh confirm timeline hôm nay. 15h bắt đầu, 16h dự kiến kết thúc ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_16_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "議題1: 進捗報告 15:00〜15:10。議題2: 課題対応 15:10〜15:25。議題3: スコープ協議 15:25〜15:50。議題4: 次回確認 15:50〜16:00。",
+          "sentence_translation": "Mục 1: báo cáo tiến độ 15:00-15:10. Mục 2: xử lý vấn đề 15:10-15:25. Mục 3: trao đổi scope 15:25-15:50. Mục 4: confirm tiếp 15:50-16:00 ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_16_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "もし時間が押した場合は、議題3の途中で一度止めて、延長可否をご相談させていただきます。",
+          "sentence_translation": "Nếu thời gian bị trễ thì giữamục 3 em sẽ dừng lại để xin các anh ý kiến về việc kéo dài ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_16_good_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "了解しました。その方針で進めましょう。",
+          "sentence_translation": "Anh rõ rồi. Mình theo hướng đó nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_16_kp_01",
+      "speaker": "zun",
+      "sentence": "〇〇:〇〇 開始、〇〇:〇〇 終了予定でございます。",
+      "sentence_translation": "〇〇h bắt đầu, 〇〇h dự kiến kết thúc ạ.",
+      "purpose": "全体の開始終了時刻宣言",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_16_kp_02",
+      "speaker": "zun",
+      "sentence": "時間が押した場合は、一度止めて延長可否をご相談させていただきます。",
+      "sentence_translation": "Nếu trễ giờ em sẽ dừng lại xin các anh ý kiến về việc kéo dài ạ.",
+      "purpose": "超過時の事前合意の依頼",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_16_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "各議題の時間配分を伝える最も適切な表現はどれか？",
+      "options": [
+        "進捗報告10分、課題15分です。",
+        "議題1: 進捗報告 15:00〜15:10、議題2: 課題対応 15:10〜15:25。",
+        "ざっくり1時間です。",
+        "時間は適当でいきます。"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "時刻単位で範囲を示すのが客が次の予定を立てやすい伝え方。",
+        "vi": "Báo theo clock-time giúp khách dễ lên lịch tiếp."
+      }
+    }
+  ]
+}

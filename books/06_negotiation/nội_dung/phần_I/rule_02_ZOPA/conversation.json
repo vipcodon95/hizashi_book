@@ -1,0 +1,162 @@
+{
+  "rule_id": "rule_02",
+  "rule_slug": "ZOPA — 合意可能領域",
+  "title": {
+    "ja": "ZOPA — 合意可能領域",
+    "vi": "ZOPA: Vùng có thể thỏa thuận"
+  },
+  "rule_context": {
+    "ja": "BATNA作成翌日、フオン副部長と相手側の予算上限を推定し ZOPA が存在するかマッピングする場面。",
+    "vi": "Hôm sau khi xong BATNA, Dũng cùng chị Hương map ZOPA — ước lượng budget ceiling của khách để xác nhận có vùng deal khả dĩ."
+  },
+  "related_rules": ["rule_01", "rule_08", "rule_18"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 自社側のみ",
+      "label_vi": "XẤU — Chỉ tính phía mình",
+      "display_order": 1,
+      "analysis": {
+        "ja": "相手の予算上限を推定せず anchor を出す。ZOPA 不存在の可能性を無視した賭けに近い。",
+        "vi": "Không estimate budget ceiling của khách rồi anchor luôn. Bỏ qua khả năng ZOPA = 0, gần như đánh bạc."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_02_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、目標 ¥18M、撤退 ¥15M で行きます。",
+          "sentence_translation": "Chị Hương, em đi với target ¥18M, walk-away ¥15M ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_02_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "相手の予算上限は？",
+          "sentence_translation": "Budget ceiling phía khách là bao nhiêu?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_02_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "分かりません。とりあえず ¥18M 出して反応見ます。",
+          "sentence_translation": "Em chưa biết ạ. Cứ ra ¥18M rồi xem phản ứng ạ.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_02_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "それは博打。¥18M が相手上限 ¥16M を超えていたら、その時点で ZOPA ゼロ。こっちが anchor を出す前に、相手の budget 帯を推定して。",
+          "sentence_translation": "Đó là đánh bạc. Nếu ¥18M vượt ceiling khách ¥16M là ZOPA = 0 ngay. Trước khi mình anchor, phải estimate dải budget của khách.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — ZOPA 4数値マッピング",
+      "label_vi": "TỐT — ZOPA 4 con số có nguồn",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_02_good_01",
+          "highlight_text": "ZOPA マッピング",
+          "ja": "自社 target+reservation、相手 ceiling+floor の4点を1軸に並べ、重複領域があるか確認する。",
+          "vi": "4 điểm: mình target+reservation, khách ceiling+floor — vẽ trên cùng 1 trục, kiểm tra giao nhau."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_02_good_03",
+          "highlight_text": "田中さんが Slack で漏らしていました",
+          "ja": "intel には必ず出所(誰・どこ・いつ)を明記。「感覚」だけでは譲歩計画の根拠にならない。",
+          "vi": "Intel phải có nguồn (ai/kênh/khi nào). 'Cảm giác' không thể làm cơ sở cho kế hoạch nhượng bộ."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_02_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、ZOPA マッピングを作りました。弊社 target ¥18M、reservation ¥15M。白鷗側は推定 budget ceiling ¥17M、最低期待品質ライン Phase 2 同等以上です。",
+          "sentence_translation": "Chị Hương, em đã làm ZOPA mapping ạ. Bên mình target ¥18M, reservation ¥15M. Bên Hakuō ước budget ceiling ¥17M, floor về chất lượng là tương đương Phase 2 trở lên ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_02_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "¥17M の根拠は？",
+          "sentence_translation": "Cơ sở của ¥17M là gì?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_02_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 2 が ¥14.5M でクローズ、白鷗 IT 部の年度予算は前年比 +15% と田中さんが Slack で漏らしていました。14.5 × 1.15 ≒ ¥16.7M、切り上げて ¥17M です。",
+          "sentence_translation": "Phase 2 chốt ¥14.5M, ngân sách năm phòng IT Hakuō tăng 15% — anh Tanaka có lộ trên Slack ạ. 14.5 × 1.15 ≒ ¥16.7M, làm tròn thành ¥17M ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_02_good_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ZOPA は ¥15M〜¥17M の幅 2M ある。target ¥18M は ZOPA 上限を超えてるけど、anchor として出すには適切。着地点は ¥16.5M 前後と想定して、譲歩計画に反映して。",
+          "sentence_translation": "ZOPA rộng ¥15M〜¥17M, biên độ 2M. Target ¥18M vượt ceiling chút nhưng làm anchor thì OK. Landing point dự ¥16.5M, phản ánh vào kế hoạch nhượng bộ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_02_kp_01",
+      "speaker": "zun",
+      "sentence": "ZOPA マッピングを作成しました。弊社 target は ¥18M、相手推定 ceiling は ¥17M です。",
+      "sentence_translation": "Em đã tạo ZOPA mapping. Target bên em ¥18M, ceiling ước của khách ¥17M ạ.",
+      "purpose": "ZOPA レポートの標準",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_02_kp_02",
+      "speaker": "fuon",
+      "sentence": "ZOPAゼロなら今日は交渉成立しない。4数値を必ず推定する。",
+      "sentence_translation": "ZOPA bằng 0 thì hôm nay không có deal. Bắt buộc estimate đủ 4 con số.",
+      "purpose": "ZOPA原則",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_02_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "ZOPA マッピングに必要な4数値はどれ？",
+      "options": [
+        "自社 target + 自社 reservation のみ",
+        "自社 target + reservation + 相手 ceiling + 相手 floor",
+        "自社 target + 相手 ceiling のみ",
+        "相手 ceiling + 競合価格 + 自社原価 + 利益率"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "ZOPA は両者の上下限4点で初めて存在を判定できる。自社側だけ・相手側だけでは不十分。",
+        "vi": "ZOPA cần 4 điểm (2 mình + 2 khách) mới xác định được vùng giao. Chỉ một bên không đủ."
+      }
+    }
+  ]
+}

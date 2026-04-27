@@ -1,0 +1,197 @@
+{
+  "rule_id": "rule_29",
+  "rule_slug": "オンラインプレゼン",
+  "title": {
+    "ja": "オンラインプレゼン",
+    "vi": "Online presentation"
+  },
+  "rule_context": {
+    "ja": "ズンが日曜夜にフオン副部長と Zoom rehearsal。最初は laptop 既定で setup → 5要素フルセットに修正。",
+    "vi": "Tối Chủ Nhật, Dũng rehearse Zoom với Hương. Ban đầu laptop default → fix 5 yếu tố."
+  },
+  "related_rules": ["rule_30", "rule_31"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — laptop デフォルト",
+      "label_vi": "XẤU — Laptop default",
+      "display_order": 1,
+      "analysis": {
+        "ja": "Laptop カメラ低角度＋逆光＋laptop マイク。professional 印象を全面的に下げる。",
+        "vi": "Camera laptop góc thấp + 逆光 + mic laptop. Hạ điểm professional toàn diện."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_29_bad_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ズン、カメラが下から見上げてる。ノートPC のまま？",
+          "sentence_translation": "Dũng, camera đang ngước từ dưới lên. Vẫn để laptop à?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_29_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "はい、ノート PC で…",
+          "sentence_translation": "Vâng, em để laptop ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_29_bad_03",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "double chin で見える、それと逆光! 後ろが窓、顔が真っ黒。声も小さい、laptop マイク？",
+          "sentence_translation": "Nhìn double chin lắm, với cả backlit! Sau lưng là cửa sổ, mặt đen sì. Giọng cũng nhỏ, mic laptop à?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_29_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "全部デフォルトです…",
+          "sentence_translation": "Hết default ạ...",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_29_bad_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "全部 NG。月曜まで12時間あるから揃えて。",
+          "sentence_translation": "NG hết. Còn 12 tiếng đến thứ Hai, lo set up đi.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 5要素 setup＋chat moderator",
+      "label_vi": "TỐT — Setup 5 yếu tố + chat moderator",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_29_good_01",
+          "highlight_text": "5要素 setup",
+          "ja": "①Camera 目線 ②前方 lighting ③声 +20% ④ピンマイク ⑤背景クリーン。1要素欠けると professional 印象 down。",
+          "vi": "5 yếu tố. Skip 1 = giảm professional."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_29_good_03",
+          "highlight_text": "重要 point だけ手を上げ gesture",
+          "ja": "Gesture は frame 内のみ。frame 外の動きは『ghost gesture』で audience を distract。",
+          "vi": "Gesture chỉ trong frame. Ngoài frame = ghost gesture, làm audience distract."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_29_good_05",
+          "highlight_text": "chat moderator",
+          "ja": "Co-presenter が chat 監視 → 質問を verbal で presenter に渡す。日本人は chat で質問する傾向強い。",
+          "vi": "Co-presenter monitor chat → relay câu hỏi verbal cho presenter. Người Nhật hay hỏi qua chat hơn unmute."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_29_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "5要素 setup 完了です。①外付け webcam を本棚で目線に上げ、②正面にリングライト、③背景は virtual の薄グレー、④ピンマイク、⑤声は通常 +20% 意識します。",
+          "sentence_translation": "Em đã setup 5 yếu tố ạ. ① Webcam rời kê lên kệ sách ngang mắt, ② ring light trước mặt, ③ background virtual xám nhạt, ④ mic ve áo, ⑤ giọng em chú ý nói to hơn 20% so bình thường ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_29_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "うん、顔が明るい、目線が natural。手の位置どこ？",
+          "sentence_translation": "Ờ, mặt sáng rồi, eye line natural. Tay đặt đâu?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_29_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "画面下に置いて、重要 point だけ手を上げ gesture を camera frame 内に入れます。",
+          "sentence_translation": "Em đặt dưới khung hình, chỉ những điểm quan trọng mới đưa tay lên gesture trong frame camera ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_29_good_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "いいね。あと chat 監視は誰？1人で全部見れない。",
+          "sentence_translation": "Tốt. Còn nữa, chat ai monitor? 1 người không xem hết được.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_29_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "トゥアンさんに chat moderator お願いしました。chat の質問は私が見ずトゥアンさんが verbal で「〇〇様から〜の質問が来ています」と私に渡します。",
+          "sentence_translation": "Em nhờ anh Tuấn làm chat moderator ạ. Em không xem chat, anh Tuấn relay verbal kiểu 「Anh 〇〇 vừa gửi câu hỏi 〜」 cho em ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_29_good_06",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "OK、それで月曜行こう。",
+          "sentence_translation": "OK, thứ Hai đi với setup đó.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_29_kp_01",
+      "speaker": "zun",
+      "sentence": "5要素 setup 完了です: 目線・照明・音声・マイク・背景。",
+      "sentence_translation": "Em hoàn tất setup 5 yếu tố ạ: eye line, lighting, voice, mic, background.",
+      "purpose": "オンラインプレゼン setup チェック",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_29_kp_02",
+      "speaker": "zun",
+      "sentence": "Chat の質問は〇〇さんが verbal で渡してください。",
+      "sentence_translation": "Câu hỏi từ chat phiền 〇〇 san relay verbal giúp em.",
+      "purpose": "Chat moderator 役割依頼",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_29_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "オンラインプレゼンで最も重要な物理 setup は？",
+      "options": [
+        "Laptop デフォルトで十分",
+        "①目線カメラ ②前方照明 ③ピンマイク ④背景クリーン ⑤声 +20%",
+        "Virtual background は『Star Trek』など面白いもの",
+        "Chat は presenter 自身がモニター"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "5要素全揃いで professional 印象を確保。Chat は co-presenter にモデレートさせるのが standard。",
+        "vi": "Đủ 5 yếu tố mới giữ được professional. Chat để co-presenter moderate là chuẩn."
+      }
+    }
+  ]
+}

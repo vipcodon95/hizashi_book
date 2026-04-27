@@ -1,0 +1,267 @@
+{
+  "rule_id": "rule_15",
+  "rule_slug": "早退・遅刻対応",
+  "title": {
+    "ja": "早退・遅刻対応",
+    "vi": "Khách đến sớm / muộn"
+  },
+  "rule_context": {
+    "ja": "Scenario A: 大垣9:15到着(15分早)→リン即会議室案内。Scenario B: 9:45時点未到着→ズンstatus確認電話、9:50到着時非言及で温かく迎える。",
+    "vi": "A: Ōgaki đến 9:15 (sớm 15p) → Linh dẫn vào phòng ngay. B: 9:45 chưa đến → Dũng gọi status, 9:50 đến đón ấm không đề cập muộn."
+  },
+  "related_rules": ["rule_08", "rule_12"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 早着ロビー放置・遅刻時sarcasm",
+      "label_vi": "XẤU — sớm bắt đợi lobby + muộn sarcasm",
+      "display_order": 1,
+      "analysis": {
+        "ja": "早着15分でロビー立たせ+遅刻時『もう20分』のsarcasm。両方relationship hit大。",
+        "vi": "Sớm 15p bắt đứng lobby + muộn sarcasm 'もう20分'. Cả 2 đều gây tổn hại relationship."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_15_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "すみません、早く着きすぎました。",
+          "sentence_translation": "Xin lỗi, tôi đến hơi sớm quá.",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_15_bad_02",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "あっ、9:30 ですよね？ロビーでお待ちいただけますか…",
+          "sentence_translation": "À, 9:30 đúng không ạ? Anh đợi lobby được không ạ...",
+          "tone": "uncertain",
+          "speed_multiplier": 1.05
+        },
+        {
+          "line_id": "rule_15_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "もう20分も…会議時間調整しないとですね。",
+          "sentence_translation": "Đã 20 phút rồi... phải chỉnh lại giờ họp thôi.",
+          "tone": "firm",
+          "speed_multiplier": 1.05
+        },
+        {
+          "line_id": "rule_15_bad_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "（黙って受け止める）",
+          "sentence_translation": "(im lặng tiếp thu)",
+          "tone": "neutral",
+          "pause_after_ms": 1000
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "variant_name": "early_arrival",
+      "label_ja": "良い例A — 早着即会議室案内",
+      "label_vi": "TỐT A — sớm đón vào phòng ngay",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_15_good_02",
+          "highlight_text": "会議室の準備はできておりますので、よろしければ先にお通しいたします",
+          "ja": "早着15分以上は即会議室案内が standard。ロビーで立たせるのは host失格。",
+          "vi": "Sớm 15+ phút = đón vào phòng ngay là chuẩn. Bắt đứng lobby = host fail."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_15_good_05",
+          "highlight_text": "大垣様 9:15 ご到着、会議室Aご案内済",
+          "ja": "Slack即通知でsenior準備時間確保。surprise防止。",
+          "vi": "Slack thông báo ngay = senior có thời gian chuẩn bị. Tránh surprise."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_15_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "すみません、早く着きすぎました。",
+          "sentence_translation": "Xin lỗi, tôi đến sớm quá.",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_15_good_02",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "いえいえ、お早いお越しをありがとうございます。会議室の準備はできておりますので、よろしければ先にお通しいたします。",
+          "sentence_translation": "Không không, cảm ơn anh đã đến sớm ạ. Phòng họp đã chuẩn bị xong rồi, nếu được anh cho phép em đưa vào trước ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_15_good_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "ありがとうございます、助かります。",
+          "sentence_translation": "Cảm ơn em, tôi đỡ được nhiều.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_15_good_04",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "こちらでお待ちいただけますでしょうか。お茶をお持ちいたします。",
+          "sentence_translation": "Mời anh đợi ở đây ạ. Em xin mang trà tới.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_15_good_05",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "（slackでズン+フオン宛: 大垣様 9:15 ご到着、会議室Aご案内済。お茶配膳中。）",
+          "sentence_translation": "(slack gửi Dũng + Hương: Anh Ōgaki đến 9:15, đã đưa vào phòng A. Đang phục vụ trà.)",
+          "tone": "neutral",
+          "annotation_ids": ["2"]
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "variant_name": "late_arrival",
+      "label_ja": "良い例B — 遅刻status確認・到着時非言及",
+      "label_vi": "TỐT B — gọi status muộn + đón ấm không đề cập",
+      "display_order": 3,
+      "annotations": [
+        {
+          "id": "3",
+          "applies_to_line": "rule_15_good_06",
+          "highlight_text": "何かございましたでしょうか",
+          "ja": "遅刻10分以上時のstatus確認固定句。『遅れていますか』は passive-aggressive で不可。",
+          "vi": "Câu cố định status muộn 10+ phút. '遅れていますか' là passive-aggressive, KHÔNG dùng."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_15_good_08",
+          "highlight_text": "ご無事で何よりです",
+          "ja": "『安全がpunctualityより重要』を明示し客の心理負担軽減。",
+          "vi": "Nhấn 'an toàn quan trọng hơn punctuality' = giảm áp lực tâm lý khách."
+        },
+        {
+          "id": "5",
+          "applies_to_line": "rule_15_good_10",
+          "highlight_text": "ようこそお越しくださいました",
+          "ja": "到着時は遅刻非言及で平常通り歓迎。客は内部で既に責任感じている。",
+          "vi": "Khi khách đến KHÔNG đề cập muộn, đón như bình thường. Khách đã tự chịu trách nhiệm trong lòng."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_15_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "大垣様、本日ご来訪予定の件でご確認のお電話です。何かございましたでしょうか。",
+          "sentence_translation": "Anh Ōgaki, em gọi xác nhận về buổi visit hôm nay ạ. Có chuyện gì không ạ?",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_15_good_07",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "申し訳ございません、渋滞で15分遅れます。",
+          "sentence_translation": "Xin lỗi em, tắc đường nên muộn 15 phút.",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_15_good_08",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご無事で何よりです。会議室は整っておりますので、お気をつけてお越しくださいませ。",
+          "sentence_translation": "An toàn là quan trọng nhất ạ. Phòng họp đã sẵn sàng rồi, mong anh đến cẩn thận.",
+          "tone": "warm",
+          "speed_multiplier": 0.95,
+          "annotation_ids": ["4"]
+        },
+        {
+          "line_id": "rule_15_good_09",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "申し訳ございません…",
+          "sentence_translation": "Xin lỗi em...",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_15_good_10",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ようこそお越しくださいました。お疲れさまでございます。会議室にご案内いたします。",
+          "sentence_translation": "Hân hạnh được đón anh ạ. Anh vất vả ạ. Em xin phép dẫn anh vào phòng họp.",
+          "tone": "warm",
+          "speed_multiplier": 0.95,
+          "annotation_ids": ["5"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_15_kp_01",
+      "speaker": "linh",
+      "sentence": "会議室の準備はできておりますので、よろしければ先にお通しいたします。",
+      "sentence_translation": "Phòng họp chuẩn bị xong rồi, nếu được em xin đưa vào trước ạ.",
+      "purpose": "早着客即案内固定句",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_15_kp_02",
+      "speaker": "zun",
+      "sentence": "何かございましたでしょうか。",
+      "sentence_translation": "Có chuyện gì không ạ?",
+      "purpose": "遅刻時status確認非攻撃句",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_15_kp_03",
+      "speaker": "zun",
+      "sentence": "ご無事で何よりです。お気をつけてお越しくださいませ。",
+      "sentence_translation": "An toàn là quan trọng nhất ạ. Anh đến cẩn thận.",
+      "purpose": "遅刻安心化発話",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_15_bjt_01",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "客が15分以上遅刻して到着した時、host の発話として最も不適切なのは？",
+      "options": [
+        "ようこそお越しくださいました",
+        "お疲れさまでございます",
+        "もう20分も経っていますね",
+        "会議室にご案内いたします"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "到着時は遅刻非言及が原則。passive-aggressive な発話は relationship を毀損。",
+        "vi": "Đến nơi KHÔNG đề cập muộn. Câu passive-aggressive làm hỏng relationship."
+      }
+    }
+  ]
+}

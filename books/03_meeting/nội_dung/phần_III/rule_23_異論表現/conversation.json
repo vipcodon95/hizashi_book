@@ -1,0 +1,171 @@
+{
+  "rule_id": "rule_23",
+  "rule_slug": "異論の表現",
+  "title": {
+    "ja": "異論の表現",
+    "vi": "Phản đối lịch sự"
+  },
+  "rule_context": {
+    "ja": "Phase 2交渉会議で大垣営業部長が「予算20%削減・スコープ維持」を提案。トゥアンリーダーが品質工数の観点から異論を述べ、代替案を出す場面。",
+    "vi": "Họp đàm phán phase 2. Anh Ōgaki đề xuất 'giảm 20% budget vẫn giữ scope'. Anh Tuấn phải phản đối khéo từ góc độ QA effort + đề xuất phương án thay thế."
+  },
+  "related_rules": [
+    "rule_22",
+    "rule_24",
+    "rule_27"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 直接的な「いいえ」",
+      "label_vi": "XẤU — Phản đối thẳng",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「いいえ、無理です」は交渉の余地を断ち切り、相手の面子をつぶす。日本の商談では致命傷。",
+        "vi": "「いいえ、無理です」 = chặn đường thương lượng + làm đối phương mất mặt. Trong đàm phán JP là lỗi rất nặng."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_23_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "予算を20%削減し、スコープは維持する方向でいかがでしょうか？",
+          "sentence_translation": "Hướng giảm budget 20% nhưng giữ nguyên scope, các anh thấy thế nào?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_23_bad_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "いいえ、それは無理です。",
+          "sentence_translation": "Không, cái đó không được ạ.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_23_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "…無理、ですか。",
+          "sentence_translation": "...Không được, à.",
+          "tone": "firm",
+          "speed_multiplier": 0.95
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — クッション + 観点 + 代替案",
+      "label_vi": "TỐT — Cushion + viewpoint + counter-proposal",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_23_good_02",
+          "highlight_text": "ご意見はよく分かりました",
+          "ja": "異論前の必須クッション。相手の発言を受け止めたシグナル。",
+          "vi": "Cushion bắt buộc trước khi phản đối. Tín hiệu 'tôi đã ghi nhận ý anh'."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_23_good_02",
+          "highlight_text": "観点もあるかと存じます",
+          "ja": "「相手が間違い」ではなく「別の視点もある」という言い方で面子を立てる。",
+          "vi": "Không nói 'anh sai' mà nói 'có góc nhìn khác' để giữ thể diện."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_23_good_03",
+          "highlight_text": "ご検討させていただけませんでしょうか",
+          "ja": "異論には必ず代替案を添える。これが「建設的な反対」の鉄則。",
+          "vi": "Phản đối phải kèm counter-proposal. Đây là nguyên tắc 'phản đối có tính xây dựng'."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_23_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "予算を20%削減し、スコープは維持する方向でいかがでしょうか？",
+          "sentence_translation": "Hướng giảm budget 20% nhưng giữ nguyên scope, các anh thấy thế nào?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_23_good_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "ご意見はよく分かりました。ただ、現状のスコープを維持しますと、品質保証工数の確保が難しくなる観点もあるかと存じます。",
+          "sentence_translation": "Em đã nhận được ý anh rồi ạ. Tuy nhiên nếu giữ nguyên scope hiện tại, có một góc nhìn là sẽ khó bảo đảm man-hour cho QA ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_23_good_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "もしよろしければ、スコープを優先度別に再整理し、削減案を一緒に検討させていただけませんでしょうか？",
+          "sentence_translation": "Nếu được, em xin phép sắp xếp lại scope theo độ ưu tiên rồi cùng anh xem xét phương án cắt giảm có được không ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ],
+          "continues_previous": true
+        },
+        {
+          "line_id": "rule_23_good_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "なるほど。それは理にかなっていますね。来週、優先度マトリックスを共有してください。",
+          "sentence_translation": "Vậy à. Cách đó hợp lý đấy. Tuần sau gửi tôi ma trận ưu tiên nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_23_kp_01",
+      "speaker": "tuan_leader",
+      "sentence": "ご意見はよく分かりました。ただ、〇〇という観点もあるかと存じます。",
+      "sentence_translation": "Em đã hiểu ý anh/chị ạ. Tuy nhiên cũng có góc nhìn 〇〇 ạ.",
+      "purpose": "異論を述べる標準フレーズ（クッション+観点）",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_23_kp_02",
+      "speaker": "tuan_leader",
+      "sentence": "ご検討させていただけませんでしょうか？",
+      "sentence_translation": "Phiền anh/chị xem xét cùng được không ạ?",
+      "purpose": "代替案を提示するフレーズ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_23_bjt_01",
+      "level": "J2",
+      "skill": "発言聴解",
+      "question_ja": "顧客の提案に異論がある。最も適切な切り出し方はどれか？",
+      "options": [
+        "いいえ、それは無理です",
+        "ご意見はよく分かりました。ただ、〇〇という観点もあるかと存じます",
+        "違うと思います",
+        "ちょっと待ってください、それはおかしいです"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "クッション「ご意見はよく分かりました」+ pivot「ただ」+ 観点提示が標準。他は直接的すぎる。",
+        "vi": "Cushion + pivot + viewpoint là chuẩn. Các option khác đều quá thẳng cho JP business."
+      }
+    }
+  ]
+}

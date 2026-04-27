@@ -1,0 +1,102 @@
+# Rule 16 — Demo flow / デモの流れ
+
+> **Luận điểm.** Demo trong pitch ≠ feature tour. Cấu trúc 4-step: **Setup (誰が何をしようとしている、30s) → User journey (主操作、2分) → Key moment (決め手、30s) → Recap (何が起きたか、30s)**. Tổng 3-4 phút. Tránh "全機能ツアー" — chỉ show flow giải pain.
+>
+> デモ4ステップ: Setup→User journey→Key moment→Recap。3-4分以内。全機能ツアーは禁止、痛み解消の1フローだけ。
+>
+> **Liên quan:** rule 02 (1-slide-1-message), rule 07 (Plan B), rule 31 (技術トラブル).
+
+---
+
+## Bối cảnh / 場面
+
+Tuấn (tech lead) sẽ chạy demo. Tuấn instinct là show toàn bộ feature menu (engineer mindset). Dũng coach trước rehearsal cuối.
+
+---
+
+## ❌ Hội thoại XẤU — feature tour
+
+*rehearsal*
+
+| Speaker | Câu |
+|---------|-----|
+| **トゥアン** | 「では画面紹介します。これがダッシュボード、上に検索、左にメニュー、右にカード一覧、下にフッター…」 |
+| **ズン** | 「兄さん、それ**ツアーガイド**になってる。客は**機能名を聞きに来てない**。在庫差異が解消する flow を見せたい。」 |
+| **トゥアン** | 「えっと…じゃあどう？」 |
+| **ズン** | 「**4ステップ**でやろう。Setup→User journey→Key moment→Recap。3分で。」 |
+
+**Vì sao xấu:** Feature tour = engineer mindset, KHÔNG phải buyer mindset. Buyer hỏi "giải bài toán em không?" not "menu chỗ nào?". Khách Nhật phật ý vì cảm thấy "demo không tôn trọng pain mình".
+
+---
+
+## ✅ Hội thoại TỐT — 4-step storyline
+
+| Speaker | Câu |
+|---------|-----|
+| **トゥアン** | 「**Setup**: 倉庫担当の田村さんが、季節商品の在庫差異に気づきました【1】。**User journey**: ダッシュボードでアラートを確認、原因SKUを drill-down、修正案を承認。**Key moment**【2】: 通常2時間の作業が**3分で完了**。**Recap**: 季節商品でも差異が month-end前 に検出・修正される。」 |
+| **ズン** | 「Perfect。**ナレーションは私**【3】、操作はトゥアンが、で行きましょう。」 |
+| **トゥアン** | 「了解。Key moment で2秒 pause 入れる？聴衆に効果実感させる用に。」 |
+| **ズン** | 「いいアイデア。『**ここがポイントです**』って一言入れて、2秒間。」 |
+
+📝 **Ghi chú:**
+- 【1】**Setup =「人物 + 状況 + 目的」** — Persona名 (田村さん) を入れると immersion 強. 名前なし demo は弱い.
+- 【2】**Key moment =「pain解消の瞬間」** — "通常X → 今Y" 数字対比. 1 demo 1 key moment.
+- 【3】**「ナレーションは私」** — Co-presenter 役割分担. 操作担当 と narrator 分けると flow smooth. Sách 03 rule 32 cross-ref.
+
+---
+
+## 🎯 Câu chốt
+
+> **「Setup → User journey → Key moment → Recap。3-4分。Persona 名前あり、Key moment は数字対比、ナレ＋操作は分担。」**
+>
+> *4 bước, 3-4 phút. Persona có tên, key moment có số đối chiếu, narrator + thao tác chia hai người.*
+
+---
+
+## 📐 Demo Script Template (per scenario)
+
+```
+【Setup】(30秒)
+- 主人公: 〇〇さん (役職・部門)
+- 状況: 〇〇という業務課題に直面
+- 目的: 〇〇を達成したい
+
+【User Journey】(2分)
+- ステップ1: 画面〇〇でログイン → 〇〇を確認
+- ステップ2: 〇〇を選択 → 〇〇を実行
+- ステップ3: 結果が画面に反映 → 承認
+
+【Key Moment】(30秒)
+- 通常〇〇分かかる作業が、〇〇分で完了
+- (2秒 pause + 「ここがポイントです」)
+
+【Recap】(30秒)
+- 「結果として、〇〇という効果が得られます」
+- 元の課題への対応を再確認
+- 次スライドへ繋ぐ: 「では、料金とスケジュールに移ります」
+```
+
+---
+
+## ⚠ Tránh
+
+- Feature tour ("メニューがここに、ボタンがここに")
+- Persona không tên / không context — flow tan loãng
+- Demo > 5 phút — audience zone out
+- Live API call without offline backup (xem rule 07)
+- Recap thiếu → audience không nắm "đã được gì"
+- Co-presenter improv → tech term ngược / thiếu sync
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| ナレーション | nareeshon | Narration / lồng tiếng |
+| 操作 | そうさ | Thao tác |
+| 承認 | しょうにん | Phê duyệt |
+| 検出 | けんしゅつ | Phát hiện |
+| 倉庫担当 | そうこたんとう | Phụ trách kho |
+| 効果実感 | こうかじっかん | Cảm nhận hiệu quả |
+| 対比 | たいひ | Đối chiếu |

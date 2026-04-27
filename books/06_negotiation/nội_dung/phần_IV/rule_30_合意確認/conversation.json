@@ -1,0 +1,188 @@
+{
+  "rule_id": "rule_30",
+  "rule_slug": "合意点の確認",
+  "title": {
+    "ja": "合意点の確認",
+    "vi": "Confirm point of agreement"
+  },
+  "rule_context": {
+    "ja": "Phase 3 ¥17M 合意後、商談を閉じる前に7項目を口頭で読み戻し齟齬ゼロを担保する場面。",
+    "vi": "Sau khi đàm phán Phase 3 ¥17M close, trước khi đứng dậy Dũng phải read back 7 items để zero mismatch."
+  },
+  "related_rules": ["rule_14", "rule_31", "rule_33"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 読み戻しなしで終了",
+      "label_vi": "XẤU — Đứng dậy không read back",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「概ね合意」で締めて読み戻しを省略。3日後にSLA数値の認識ズレが発覚。",
+        "vi": "Close bằng '概ね合意' rồi skip read back. 3 ngày sau Slack phát hiện SLA mismatch → seller phải back down."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_30_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "では、概ね合意ということで。",
+          "sentence_translation": "Thôi, coi như đã đại thể đồng thuận nhé.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_30_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "はい、ありがとうございます！では契約書を進めます。",
+          "sentence_translation": "Vâng, em cảm ơn ạ! Em sẽ tiến hành contract draft ạ.",
+          "tone": "cheerful"
+        },
+        {
+          "line_id": "rule_30_bad_03",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "PMO担当",
+          "gender": "male",
+          "sentence": "ズン様、契約書ドラフト拝見しました。SLA 99.9% となっていますが、当日 99.5% で合意では？",
+          "sentence_translation": "Anh Dũng, tôi đã xem contract draft. SLA ghi 99.9% nhưng hôm đó chúng ta thống nhất 99.5% mà?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_30_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっ、99.9% で合意したと記憶しているのですが…",
+          "sentence_translation": "Ơ, em nhớ là đã thống nhất 99.9% mà ạ...",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 7項目読み戻し + 24h メール",
+      "label_vi": "TỐT — Read back 7 item + commit recap mail 24h",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_30_good_02",
+          "highlight_text": "合意事項を確認させてください",
+          "ja": "クロージング読み戻しの定型句。ritual 的に必ず実施。",
+          "vi": "Câu chuẩn để set up read-back. KHÔNG optional — bắt buộc cuối mỗi đàm phán."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_30_good_03",
+          "highlight_text": "①価格",
+          "ja": "7項目: 価格 / 期間 / スコープ / SLA / 支払 / IP / 稟議。各項目が認識ズレ source。",
+          "vi": "7 items: giá / kỳ hạn / scope / SLA / thanh toán / IP / ringi schedule. Mỗi item là một nguồn mismatch tiềm tàng."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_30_good_05",
+          "highlight_text": "24時間以内に確認メールをお送りいたします",
+          "ja": "口頭読み戻し + 24h recap mail = ダブルロック。rule 31 へブリッジ。",
+          "vi": "Read back miệng + recap mail trong 24h = double lock. Bridge sang rule 31."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_30_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "では、概ね合意ということで。",
+          "sentence_translation": "Thôi, coi như đã đại thể đồng thuận nhé.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_30_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。最後に本日の合意事項を確認させてください。1点ずつ読み上げます。",
+          "sentence_translation": "Em cảm ơn ạ. Cuối cùng cho phép em xác nhận các điểm đã đồng thuận hôm nay ạ. Em đọc từng mục một.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_30_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "①価格: ¥17M (税抜)、②契約期間: 2026年7月-2028年6月の2年間、③スコープ: AI レコメンドエンジン + 専任PM + AI dashboard カスタム1機能、④SLA: 99.9%、⑤支払: 月次後払い、⑥成果物 IP: 共同所有、⑦稟議スケジュール: 御社にて5月末まで。以上で齟齬ございませんでしょうか？",
+          "sentence_translation": "①Giá: ¥17M (chưa thuế), ②Kỳ hạn: 7/2026 - 6/2028 (2 năm), ③Scope: AI recommend engine + PM chuyên trách + 1 custom feature dashboard, ④SLA: 99.9%, ⑤Thanh toán: trả sau hàng tháng, ⑥IP sản phẩm: đồng sở hữu, ⑦Lịch ringi: bên anh duyệt trong tháng 5. Tất cả không có sai lệch nào ạ?",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_30_good_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "はい、その通りです。1点だけ、支払サイトは月末締め翌月末払いでお願いします。",
+          "sentence_translation": "Đúng vậy. Chỉ có một điểm: payment cycle là chốt cuối tháng, trả cuối tháng kế tiếp giúp tôi.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_30_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "承知いたしました。月末締め翌月末払いを追記して、24時間以内に確認メールをお送りいたします。本日はありがとうございました。",
+          "sentence_translation": "Em nhận rồi ạ. Em sẽ bổ sung 'chốt cuối tháng - trả cuối tháng kế', và gửi recap mail trong vòng 24 giờ ạ. Hôm nay em cảm ơn anh nhiều ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_30_kp_01",
+      "speaker": "zun",
+      "sentence": "最後に本日の合意事項を確認させてください。",
+      "sentence_translation": "Cuối cùng cho phép em xác nhận các điểm đã đồng thuận hôm nay ạ.",
+      "purpose": "クロージング読み戻し set-up",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_30_kp_02",
+      "speaker": "zun",
+      "sentence": "以上で齟齬ございませんでしょうか？",
+      "sentence_translation": "Tất cả không có sai lệch nào ạ?",
+      "purpose": "認識合わせの最終確認",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_30_kp_03",
+      "speaker": "zun",
+      "sentence": "24時間以内に確認メールをお送りいたします。",
+      "sentence_translation": "Em sẽ gửi recap mail trong vòng 24 giờ ạ.",
+      "purpose": "Recap mail commitment",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_30_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "商談クロージングで読み戻しが必要な理由として最も適切なものは？",
+      "options": [
+        "礼儀として形式上必要だから",
+        "稟議後に認識ズレが発覚すると再交渉になり、口頭読み戻しがその予防策だから",
+        "相手にプレッシャーをかけるため",
+        "通訳の練習のため"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "稟議プロセス中に認識ズレが発覚すると修正コストが大きい。読み戻しはそのリスクを当日に解消する手段。",
+        "vi": "Trong quá trình ringi nếu phát hiện mismatch thì cost sửa cao. Read back giải quyết risk đó ngay trong ngày."
+      }
+    }
+  ]
+}

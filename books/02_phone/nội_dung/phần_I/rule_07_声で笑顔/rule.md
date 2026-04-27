@@ -1,0 +1,58 @@
+# Rule 07 — "Smile in voice" — giọng truyền cảm xúc / 声で笑顔を作る
+
+> **Luận điểm.** Phone không thấy mặt → cảm xúc phải đi qua **giọng**. Khi miệng thực sự cười, giọng có "warmth" — khách *cảm nhận* được mặc dù không thấy.
+>
+> 電話では顔が見えない → 感情は声を通じて伝わる。実際に笑顔を作って話すと声に温度が乗る。
+>
+> **Từ khóa:** **`声で笑顔`** · **Liên quan:** Rule 06, Rule 40.
+
+## Khoa học đằng sau
+
+Khi người ta cười, **vocal tract** thay đổi — formant frequency cao hơn, tone "sáng" hơn. Não người nghe nhận biết được dù không thấy mặt. Đây không phải "tip mềm" — đây là vật lý âm thanh.
+
+---
+
+## ❌ Bad — Giọng vô hồn
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** (mặt tỉnh, không cười) | 「お電話ありがとうございます、ズンです。」 |
+| **松本PM** (cảm thấy lạnh) | 「あ、はい、松本ですが...」 |
+
+→ Khách *cảm* được sự thiếu năng lượng → cuộc gọi mở đầu khô.
+
+---
+
+## ✅ Good — Cười khi nói
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** (cười nhẹ, nâng cơ má) | 「お電話ありがとうございます！ティエンファット社のズンでございます。」 |
+| **松本PM** (cảm thấy ấm) | 「松本です。いつもお世話になっております。」 |
+
+→ Khách *bắt được* sự nhiệt tình → mở đầu cuộc gọi tích cực.
+
+---
+
+## 🎯 Trick thực tế
+
+- **Đặt một tấm gương trên bàn** — khi điện thoại reo, nhìn vào gương cười 1 giây trước khi bốc.
+- **Nâng cơ má** (như khi cười nhẹ) trong suốt cuộc gọi quan trọng.
+- **Nghe lại** ghi âm — có nghe thấy "smile" trong giọng không?
+
+---
+
+## 🎯 Câu chốt
+
+> **「電話に出る前に1秒、口角を上げる」** — Trước khi bốc máy, nâng góc miệng 1 giây.
+
+---
+
+## 📚 Vocab
+
+| 漢字 | よみ | Nghĩa |
+|------|------|-------|
+| 笑顔 | えがお (egao) | Mặt cười, nụ cười |
+| 口角 | こうかく | Góc miệng |
+| 元気 | げんき | Khỏe, năng lượng |
+| 温度 | おんど | Nhiệt độ (giọng — cảm xúc) |

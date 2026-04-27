@@ -1,0 +1,84 @@
+# Rule 15 — Chốt mục tiêu output cuộc họp / 本日のゴール確認
+
+> **Luận điểm.** Sau khi giới thiệu agenda + phân vai, 司会 chốt **「本日のゴール」**: cuối họp phải **quyết được cái gì** (1-3 mục cụ thể, có thể action). Goal không rõ = họp xong "trao đổi tốt nhỉ" mà không quyết được gì.
+>
+> 議題前に『本日決めたいのは〇〇』と goal を明示。1〜3個に絞る。決定事項として議事録に記録できる粒度で書く。
+>
+> **Liên quan:** Rule 01 (output mong đợi trong agenda), Rule 13 (giới thiệu agenda), Rule 31 (đi đến quyết định), Rule 44 (action items).
+
+---
+
+## Bối cảnh / 場面
+
+司会 Dũng đã làm xong rules 09-14. Trước議題 1, chốt mục tiêu để tất cả align hướng.
+
+---
+
+## ❌ Hội thoại XẤU — goal vague
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「本日は皆様で意見交換させていただければと思います。」 |
+| **大垣** | 「ズンさん、本日 何を decide したいのか教えていただけますか。」 |
+| **ズン** | 「えーと、進捗確認と、できれば 5月のスコープも…」 |
+| **大垣** | 「『できれば』ですか…明確に決めたい点は？」 |
+
+**Vì sao xấu:** "意見交換" = "trao đổi ý kiến" nghe tốt nhưng không có output. "できれば" = chần chừ. Khách Nhật cấp cao luôn hỏi "quyết cái gì" → vague = không chuẩn bị.
+
+---
+
+## ✅ Hội thoại TỐT — goal cụ thể, 2 mục
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「本日のゴールを2点ご共有させていただきます【1】。」 |
+| **ズン** | 「1点目、5月開発スコープの合意。2点目、次回会議日程の決定でございます【2】。」 |
+| **ズン** | 「この2点を本日の議事録に決定事項として記録できる状態に持っていく、というのが本日のゴールです【3】。」 |
+| **大垣 / 松本** | 「明確で良いですね。承知しました。」 |
+
+📝 **Ghi chú:**
+- 【1】**「ゴールを〇点ご共有」** — 「ゴール」 (kata-katakana) hơn 「目標」 vì context business JP hiện đại.
+- 【2】Goal phải có động từ: **合意 / 決定 / 確認**. Tránh động từ vague như 共有 / 検討.
+- 【3】**「議事録に決定事項として記録できる状態」** — định nghĩa goal qua "ghi vào biên bản được". Khái niệm tactical, khách Nhật rất thích.
+
+---
+
+## 🎯 Câu chốt
+
+> **「本日のゴールは〇〇 — 議事録に書ける粒度で。」**
+>
+> *Goal hôm nay là 〇〇 — viết được vào biên bản dạng decision.*
+
+---
+
+## 💡 Format goal chuẩn
+
+| ❌ Vague | ✅ Cụ thể |
+|---------|----------|
+| Phase 2 について話す | Phase 2 のスコープを **合意** する |
+| 進捗を共有する | 4月の delay 2 件への **対応策を決定** する |
+| 来月のことを考える | 5月スプリントの **タスク優先順位を確定** する |
+| 検討する | 来週 **A案 / B案 のどちらに進むか決定** する |
+
+---
+
+## ⚠ Tránh
+
+- Goal vague: 「意見交換」「進捗共有」「検討」 → không quyết được.
+- Quá nhiều goal (>3) → 60分 không đủ.
+- Goal không action-able: 「Phase 2 について理解する」 → không đo được.
+- Goal lệch agenda → khách lúng túng.
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| ゴール | gooru | Mục tiêu / goal |
+| 合意 | ごうい | Thống nhất / agree |
+| 決定 | けってい | Quyết định |
+| 決定事項 | けっていじこう | Mục đã quyết |
+| 粒度 | りゅうど | Granularity / mức chi tiết |
+| 〜状態 | じょうたい | Trạng thái |
+| 持っていく | もっていく | Đưa tới |

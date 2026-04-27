@@ -1,0 +1,71 @@
+# Rule 30 — Khi senior nói câu khó hiểu / 上司・顧客の曖昧な発言
+
+> **Luận điểm.** Senior Nhật hay nói gián tiếp ("ちょっと厳しいかな…", "前向きに検討します"). Đoán bừa = sai 50%. Câu chuẩn để confirm: 「**確認させていただきたいのですが、〜という意味でしょうか？**」 — paraphrase ý suy đoán, để senior khẳng định/correct.
+>
+> 上司・顧客の曖昧発言を勝手に解釈しない。「〜という意味でしょうか？」と確認する。
+>
+> **Liên quan:** Rule 21 (clarification), Rule 24 (tóm tắt), Rule 22 (đồng ý).
+
+---
+
+## Bối cảnh / 場面
+
+Anh Matsumoto: 「来月のリリース、ちょっと厳しいかもしれませんね…」. Em Dũng cần biết là **postpone** hay là **đang lo nhưng vẫn cố** — 2 ý hoàn toàn khác. Phải hỏi lại.
+
+---
+
+## ❌ Hội thoại XẤU — đoán bừa
+
+*đoán = postpone · thực ra chỉ muốn chia sẻ lo, chưa quyết*
+
+| Speaker | Câu |
+|---------|-----|
+| **松本** | 「来月のリリース、ちょっと厳しいかもしれませんね…」 |
+| **ズン** | 「承知しました。では再来月に延期しますね。」 |
+| **松本** | 「あ、いや、まだ確定ではなくて…」 |
+
+**Vì sao xấu:** 「ちょっと厳しい」 = "hơi khó" — có thể là (a) postpone, (b) cố nhưng cần tăng resource, (c) chỉ chia sẻ feeling. Đoán = trật.
+
+---
+
+## ✅ Hội thoại TỐT — confirm ý nghĩa cụ thể
+
+| Speaker | Câu |
+|---------|-----|
+| **松本** | 「来月のリリース、ちょっと厳しいかもしれませんね…」 |
+| **ズン** | 「確認させていただきたいのですが、リリース日の延期をご検討中という意味でしょうか【1】？それとも、現スケジュールで進めるための支援が必要ということでしょうか【2】？」 |
+| **松本** | 「後者です。スケジュールは死守したいので、QAリソースを1名追加できればと。」 |
+| **ズン** | 「承知しました。本日中に追加リソースの可否を社内確認し、ご報告いたします。」 |
+
+📝 **Ghi chú:**
+- 【1】**「〜という意味でしょうか？」** — câu chuẩn confirm intent.
+- 【2】Đưa **2 cách hiểu** (A hay B) → senior dễ chọn → câu trả lời rõ.
+
+---
+
+## 🎯 Câu chốt
+
+> **「確認させていただきたいのですが、〜という意味でしょうか？それとも〜でしょうか？」**
+>
+> *Đưa 2 ý suy đoán → senior chọn → tránh đoán mò.*
+
+---
+
+## ⚠ Tránh
+
+- Đoán 1 ý duy nhất → 50% sai.
+- Hỏi lại open-ended ("どういう意味ですか？") → senior phải giải thích từ đầu.
+- Bỏ qua câu mơ hồ → sau này phát sinh.
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 曖昧 | あいまい | Mơ hồ |
+| 延期 | えんき | Hoãn / postpone |
+| 死守 | ししゅ | Giữ chặt / không thay đổi |
+| 支援 | しえん | Hỗ trợ |
+| 後者 | こうしゃ | Cái thứ 2 |
+| リソース | risōsu | Resource |

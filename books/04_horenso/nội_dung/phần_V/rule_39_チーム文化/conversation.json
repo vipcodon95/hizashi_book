@@ -1,0 +1,217 @@
+{
+  "rule_id": "rule_39",
+  "rule_slug": "チーム文化作り",
+  "title": {
+    "ja": "チーム Hou-Ren-Sou 文化作り",
+    "vi": "Xây dựng team culture Hou-Ren-Sou"
+  },
+  "rule_context": {
+    "ja": "ティエンファット leadership 会議でチーム共通 playbook の欠如を特定し、5要素 (Rituals/Dashboard/OKR/Escalation/Onboarding) の playbook v1 を策定する場面。",
+    "vi": "Cuộc họp leadership Thiên Phát phát hiện thiếu playbook chung cho team, xây Playbook v1 5 thành phần (Rituals/Dashboard/OKR/Escalation/Onboarding)."
+  },
+  "related_rules": [
+    "rule_27",
+    "rule_34",
+    "rule_38",
+    "rule_40"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — playbook 不在",
+      "label_vi": "XẤU — Không có playbook",
+      "display_order": 1,
+      "analysis": {
+        "ja": "個人 rule は知っていても、共通 playbook がないと『真似する基準』がブレ、新人 onboarding も場当たり的になる。客は『人による』と認識する。",
+        "vi": "Rule cá nhân biết, nhưng không có playbook chung thì 'chuẩn để bắt chước' lệch, onboarding junior cũng ad-hoc. Khách nhận biết 'tùy người'."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_39_bad_01",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "松本様から feedback : 『ティエンファット は人によって対応 quality が違う』。ズン と ハイ で同じ Phase 2 の話なのに、片方は丁寧、片方は雑。",
+          "sentence_translation": "Anh Matsumoto feedback: 「Thiên Phát quality theo người mà khác」. Cùng vụ Phase 2, Dũng thì chu đáo, Hải thì sơ sài.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_39_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "個人レベルでは皆 rule を知っている。でも team レベルの共通 playbook がないから、新人が真似する基準もブレる。",
+          "sentence_translation": "Cá nhân thì ai cũng biết rule. Nhưng team không có playbook chung, nên junior bắt chước cũng lệch.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_39_bad_03",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "Slack の標準 format も人によって違うし、escalation も case-by-case。これは個人の問題じゃなくてチーム文化の欠如。",
+          "sentence_translation": "Format Slack chuẩn cũng khác theo người, escalation cũng case-by-case. Đây không phải lỗi cá nhân mà thiếu văn hóa team.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_39_bad_04",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "playbook を作ろう。私とフオンが culture sponsor、トゥアンが tech ritual owner。来週中に v1 ドラフト。",
+          "sentence_translation": "Build playbook đi. Anh và chị Hương là culture sponsor, anh Tuấn là tech ritual owner. Trong tuần sau làm xong draft v1.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 5要素 playbook 完成",
+      "label_vi": "TỐT — Playbook 5 thành phần hoàn thành",
+      "display_order": 2,
+      "analysis": {
+        "ja": "Rituals/Dashboard/OKR/Escalation/Onboarding の5要素を全て measurable に。Sponsor 役割と Owner 役割を明示し、HR 評価にも反映することで culture を持続可能にする。",
+        "vi": "5 thành phần Rituals/Dashboard/OKR/Escalation/Onboarding đều measurable. Show rõ Sponsor và Owner, kết nối với HR evaluation để culture sustainable."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_39_good_01",
+          "highlight_text": "5要素構成",
+          "ja": "playbook を5要素にモジュール化。1ページ要約に収まり、誰でも全体像を把握できる。",
+          "vi": "Module hóa playbook thành 5 thành phần. Tóm tắt 1 trang, ai cũng nắm toàn cảnh."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_39_good_02",
+          "highlight_text": "response SLA、Sev1 件数、DR 数を可視化",
+          "ja": "Dashboard で数値を見える化。記憶や感覚ではなく、数値で議論できる土台。",
+          "vi": "Dashboard hữu hình hóa số. Có nền tranh luận bằng số, không phải trí nhớ / cảm giác."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_39_good_03",
+          "highlight_text": "Slack 客先 response 1h 以内 95%",
+          "ja": "OKR は具体数値+期限。「コミュニケーション改善」のような曖昧目標は culture を駆動しない。",
+          "vi": "OKR là số cụ thể + deadline. Mục tiêu mơ hồ kiểu 'cải thiện giao tiếp' không drive culture."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_39_good_05",
+          "highlight_text": "HR の評価にも反映させましょう",
+          "ja": "culture を performance に紐付け。reward なしの culture は scale しない。",
+          "vi": "Gắn culture với performance. Không reward thì culture không scale."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_39_good_01",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "(2週間後) ティエンファット Hou-Ren-Sou Playbook v1 を共有します。5要素構成です。",
+          "sentence_translation": "(2 tuần sau) Em share Thiên Phát Hou-Ren-Sou Playbook v1. Cấu trúc 5 thành phần.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_39_good_02",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "①Rituals: 朝会 Slack 9:30 (DDBN format)、週次 retro 金曜 16:00、月次 all-hands 第1月曜 10:00。②Dashboard: Notion『チーム Hou-Ren-Sou ダッシュボード』<URL>に response SLA、Sev1 件数、DR 数を可視化。",
+          "sentence_translation": "[1 Rituals] Standup Slack 9:30 (format DDBN), retro tuần 16:00 thứ Sáu, all-hands tháng 10:00 thứ Hai đầu tháng. [2 Dashboard] Notion 「Team Hou-Ren-Sou Dashboard」 <URL> hữu hình hóa response SLA, số Sev1, số DR.",
+          "tone": "neutral",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_39_good_03",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "③OKR Q2-2026: (a) Slack 客先 response 1h 以内 95% / (b) Sev1 escalation 漏れ 0件 / (c) Decision Register カバレッジ 100% (1相談1行) / (d) 自己診断 C-D ≤ 1 が team 平均。",
+          "sentence_translation": "[3 OKR Q2-2026] (a) Slack response khách trong 1h ≥ 95% / (b) Sev1 escalation sót = 0 / (c) Decision Register coverage 100% (1 tham vấn 1 dòng) / (d) Self-diagnostic C-D ≤ 1 trung bình team.",
+          "tone": "neutral",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_39_good_04",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "④Escalation Matrix: 客先 → BD owner → フオン副部長 → ハー CTO / 技術 Sev1 → 検知者 → トゥアン → ハー CTO / 経理 → ロアン経理部長 → フオン。⑤Onboarding: 新人入社後30日で Playbook 全項目に exposure、60日で自己診断初回、90日で1人立ち。",
+          "sentence_translation": "[4 Escalation Matrix] Khách → BD owner → chị Hương → anh Hà CTO / Sev1 kỹ thuật → người phát hiện → anh Tuấn → anh Hà CTO / Kế toán → chị Loan → chị Hương. [5 Onboarding] Junior sau 30 ngày tiếp cận đủ Playbook, 60 ngày làm self-diagnostic lần đầu, 90 ngày tự đứng.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_39_good_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "culture sponsor として: 月次 all-hands で『今月の Good ホウレンソウ』『今月の Lesson』を Slack 投票で選び、HR の評価にも反映させましょう。",
+          "sentence_translation": "Với vai culture sponsor: trong all-hands tháng, tổ chức vote Slack chọn 「Good Hou-Ren-Sou tháng này」 và 「Lesson tháng này」, kết nối vào HR evaluation luôn.",
+          "tone": "warm",
+          "annotation_ids": [
+            "4"
+          ]
+        },
+        {
+          "line_id": "rule_39_good_06",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "Tech ritual owner として: 朝会と Sev1 escalation drill を四半期ごとに simulation。来週から運用開始。",
+          "sentence_translation": "Với vai Tech ritual owner: standup và drill Sev1 escalation simulate mỗi quý. Tuần sau bắt đầu vận hành.",
+          "tone": "firm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_39_kp_01",
+      "speaker": "ha_cto",
+      "sentence": "Playbook v〇 を共有します。5要素構成: Rituals / Dashboard / OKR / Escalation / Onboarding。",
+      "sentence_translation": "Em share Playbook v〇. Cấu trúc 5 thành phần: Rituals / Dashboard / OKR / Escalation / Onboarding.",
+      "purpose": "Playbook 提示の宣言",
+      "slow_audio": false
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_39_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "チーム Hou-Ren-Sou Playbook の必須5要素は?",
+      "options": [
+        "Slack / Email / 電話 / Zoom / Notion",
+        "Rituals / Dashboard / OKR / Escalation matrix / Onboarding",
+        "報告 / 連絡 / 相談 / 会議 / 評価",
+        "個人rule のリスト"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "Playbook = Rituals (定期儀式) + Dashboard (可視化) + OKR (測定可能目標) + Escalation matrix (緊急時経路) + Onboarding (新人プロセス)。これがあれば quality が個人差に左右されない。",
+        "vi": "Playbook = Rituals (nghi thức định kỳ) + Dashboard (hữu hình hóa) + OKR (mục tiêu đo được) + Escalation matrix (lộ trình khẩn cấp) + Onboarding (quy trình junior). Có đủ = quality không bị lệ thuộc cá nhân."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_39_tpl_01",
+      "format": "report",
+      "title_ja": "チーム Hou-Ren-Sou Playbook (1ページ要約)",
+      "title_vi": "Team Hou-Ren-Sou Playbook (tóm tắt 1 trang)",
+      "content_ja": "【ティエンファット ホウレンソウ Playbook v1】\nLast updated: 2026-04-25\nCulture sponsor: ハー CTO + フオン副部長\nTech ritual owner: トゥアン Tech Lead\n\n──────────────────────────────────────────\n■ ① Rituals (定例)\n  - 朝会 Slack #team-daily 毎平日 9:30 (DDBN format、5分)\n  - 週次 retrospective 毎金曜 16:00-16:30 (Keep/Problem/Try)\n  - 月次 All-hands 第1月曜 10:00-11:00\n  - 四半期 Sev1 escalation drill (simulation)\n  - 会議は全て agenda + 議事録 → Notion\n\n■ ② Dashboard URL\n  - Notion『チーム Hou-Ren-Sou ダッシュボード』https://notion.so/...\n  - Slack response SLA / Sev1 件数 / DR coverage / 自己診断分布 を可視化\n  - 更新頻度: 自動週次 + 月初手動 review\n\n■ ③ OKR (Q2-2026)\n  - O: 顧客から『チーム quality が一貫している』と評価される\n    KR1: Slack 客先 response 1h 以内 95%\n    KR2: Sev1 escalation 漏れ 0件\n    KR3: Decision Register カバレッジ 100% (1相談1行)\n    KR4: 自己診断 C-D ≤ 1 が team 平均\n    KR5: 客先満足度 NPS ≥ 60\n\n■ ④ Escalation Matrix\n  - 客先トラブル: BD owner → フオン副部長 → ハー CTO\n  - 技術 Sev1: 検知者 → トゥアン → ハー CTO\n  - 経理・契約: 起票者 → ロアン経理部長 → フオン副部長\n  - 退職・休暇: 本人 → 直属 → ハー CTO + HR\n  - 全 case: Slack #escalation チャネルでトレース\n\n■ ⑤ Onboarding (90-day plan)\n  - Day 1-7: Playbook 全章読了 + 主要 Slack/Notion アクセス権付与\n  - Day 8-30: 既存 case を 5件 shadow (1-on-1 mentor 同席)\n  - Day 31-60: 主導3件、自己診断初回\n  - Day 61-90: 1人立ちタスク 1件、客先デビュー、自己診断 2回目\n  - Day 90+: regular member、月次自己診断\n\n──────────────────────────────────────────\n【Playbook の使い方】\n  - 全 member 月初 5分で再読\n  - 違反検知時はその場で Playbook §〇 を引用\n  - 月次 all-hands で『今月の Good ホウレンソウ』『今月の Lesson』を Slack 投票\n  - 投票結果は HR 評価 (Hou-Ren-Sou 評価軸20%) に反映\n  - 改訂は四半期ごと、retrospective で議論",
+      "content_vi": "[Thiên Phát Hou-Ren-Sou Playbook v1]\nCập nhật: 25/4/2026\nCulture sponsor: anh Hà CTO + chị Hương\nTech ritual owner: anh Tuấn Tech Lead\n\n──────────────────────────────────────────\n[1 Rituals (định kỳ)]\n  - Standup Slack #team-daily mỗi ngày làm việc 9:30 (format DDBN, 5 phút)\n  - Retrospective hàng tuần thứ Sáu 16:00-16:30 (Keep/Problem/Try)\n  - All-hands hàng tháng thứ Hai đầu tháng 10:00-11:00\n  - Drill Sev1 escalation hàng quý (simulation)\n  - Họp đều có agenda + minutes → Notion\n\n[2 Dashboard URL]\n  - Notion 「Team Hou-Ren-Sou Dashboard」 https://notion.so/...\n  - Hữu hình hóa: Slack response SLA / số Sev1 / DR coverage / phân bổ self-diagnostic\n  - Tần suất update: tự động hàng tuần + review thủ công đầu tháng\n\n[3 OKR (Q2-2026)]\n  - O: Khách đánh giá 'quality team nhất quán'\n    KR1: Slack response khách trong 1h ≥ 95%\n    KR2: Sev1 escalation sót = 0\n    KR3: Decision Register coverage 100% (1 tham vấn 1 dòng)\n    KR4: Self-diagnostic C-D ≤ 1 trung bình team\n    KR5: NPS khách ≥ 60\n\n[4 Escalation Matrix]\n  - Sự cố khách: BD owner → chị Hương → anh Hà CTO\n  - Sev1 kỹ thuật: người phát hiện → anh Tuấn → anh Hà CTO\n  - Kế toán / hợp đồng: người mở ticket → chị Loan → chị Hương\n  - Nghỉ việc / nghỉ phép: bản thân → trực tiếp → anh Hà CTO + HR\n  - Tất cả case: trace qua Slack channel #escalation\n\n[5 Onboarding (kế hoạch 90 ngày)]\n  - Day 1-7: Đọc xong toàn Playbook + cấp quyền Slack/Notion chính\n  - Day 8-30: Shadow 5 case có sẵn (1-on-1 cùng mentor)\n  - Day 31-60: Chủ động 3 case, self-diagnostic lần đầu\n  - Day 61-90: 1 task tự đứng, debut với khách, self-diagnostic lần 2\n  - Day 90+: Member chính thức, self-diagnostic hàng tháng\n\n──────────────────────────────────────────\n[Cách dùng Playbook]\n  - Toàn bộ member đầu tháng dành 5 phút đọc lại\n  - Phát hiện vi phạm thì trích §〇 Playbook ngay tại chỗ\n  - All-hands hàng tháng vote Slack chọn 「Good Hou-Ren-Sou tháng này」 và 「Lesson tháng này」\n  - Kết quả vote vào HR evaluation (trục Hou-Ren-Sou 20%)\n  - Revise hàng quý, thảo luận trong retrospective",
+      "notes_ja": "Playbook は『1ページに収まる』が必須条件。50ページの doc は誰も読まない。Dashboard は数値の単一参照源。OKR は四半期ごとに見直し。",
+      "notes_vi": "Bắt buộc Playbook 'gọn 1 trang'. Doc 50 trang không ai đọc. Dashboard là single source of truth cho số. OKR review mỗi quý."
+    }
+  ]
+}

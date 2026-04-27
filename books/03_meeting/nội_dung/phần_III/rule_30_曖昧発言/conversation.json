@@ -1,0 +1,159 @@
+{
+  "rule_id": "rule_30",
+  "rule_slug": "曖昧発言の確認",
+  "title": {
+    "ja": "上司・顧客の曖昧な発言の確認",
+    "vi": "Khi senior nói câu khó hiểu"
+  },
+  "rule_context": {
+    "ja": "松本PMが「来月リリース、ちょっと厳しいかも」と曖昧な発言。延期希望なのか、リソース支援要請なのか、ズンが二択で確認する場面。",
+    "vi": "Anh Matsumoto nói mơ hồ 'release tháng sau hơi khó'. Em Dũng cần phân biệt: muốn postpone hay cần thêm resource — hỏi lại bằng cách đưa 2 phương án."
+  },
+  "related_rules": [
+    "rule_21",
+    "rule_24",
+    "rule_22"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 一方的に解釈",
+      "label_vi": "XẤU — Tự đoán theo 1 hướng",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「ちょっと厳しい」は曖昧で、延期・支援要請・気持ちの共有のいずれかを意味する。勝手に延期と決めると認識ズレ。",
+        "vi": "「ちょっと厳しい」 mơ hồ — có thể là postpone / cần support / chỉ chia sẻ. Tự đoán postpone = sai."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_30_bad_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "来月のリリース、ちょっと厳しいかもしれませんね…",
+          "sentence_translation": "Release tháng sau, có vẻ hơi khó nhỉ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_30_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "承知しました。では再来月に延期しますね。",
+          "sentence_translation": "Vâng em rõ. Vậy hoãn sang tháng kia nhé ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_30_bad_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "あ、いや、まだ確定ではなくて…",
+          "sentence_translation": "À không, tôi chưa quyết...",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 二択で意図を確認",
+      "label_vi": "TỐT — Đưa 2 phương án để hỏi lại",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_30_good_02",
+          "highlight_text": "リリース日の延期をご検討中という意味でしょうか",
+          "ja": "推測の1つ目を具体化。「延期」と明示することで相手は Yes/No で答えやすい。",
+          "vi": "Cụ thể hoá ý đoán 1 (postpone). Senior dễ trả lời Yes/No."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_30_good_02",
+          "highlight_text": "現スケジュールで進めるための支援が必要ということでしょうか",
+          "ja": "推測の2つ目を提示。二択にすると相手はどちらかを選びやすい。",
+          "vi": "Đưa ý đoán 2 (cần support). 2 lựa chọn → senior dễ chọn."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_30_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "来月のリリース、ちょっと厳しいかもしれませんね…",
+          "sentence_translation": "Release tháng sau, có vẻ hơi khó nhỉ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_30_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "確認させていただきたいのですが、リリース日の延期をご検討中という意味でしょうか？それとも、現スケジュールで進めるための支援が必要ということでしょうか？",
+          "sentence_translation": "Em xin được xác nhận lại ạ — anh đang cân nhắc lùi ngày release, hay cần thêm support để giữ lịch hiện tại ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_30_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "後者です。スケジュールは死守したいので、QAリソースを1名追加できればと。",
+          "sentence_translation": "Cái sau ạ. Tôi muốn giữ lịch, nếu có thể thêm 1 QA thì tốt.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_30_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "承知しました。本日中に追加リソースの可否を社内確認し、ご報告いたします。",
+          "sentence_translation": "Vâng em rõ ạ. Em sẽ check khả năng tăng resource trong nội bộ ngay hôm nay và báo lại anh ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_30_kp_01",
+      "speaker": "zun",
+      "sentence": "確認させていただきたいのですが、〜という意味でしょうか？",
+      "sentence_translation": "Em xin được xác nhận, anh/chị có ý là 〜 phải không ạ?",
+      "purpose": "曖昧発言の意図確認",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_30_kp_02",
+      "speaker": "zun",
+      "sentence": "〜という意味でしょうか？それとも〜でしょうか？",
+      "sentence_translation": "Là ý 〜, hay là ý 〜 ạ?",
+      "purpose": "二択提示で確認",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_30_bjt_01",
+      "level": "J2",
+      "skill": "発言聴解",
+      "question_ja": "顧客が「来月のリリース、ちょっと厳しいかもしれませんね」と言った。最も適切な対応はどれか？",
+      "options": [
+        "「では延期します」と即答する",
+        "「どういう意味ですか？」と open-ended に聞く",
+        "「延期のご検討中ですか？それとも支援が必要でしょうか？」と二択で確認する",
+        "「分かりました」と何もせず流す"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "曖昧発言には推測二択で確認するのが最も精度が高い。一方解釈は誤読リスク、open-ended は相手に再説明負担。",
+        "vi": "Mơ hồ → đưa 2 lựa chọn confirm là chính xác nhất. Đoán 1 hướng có rủi ro. Open-ended bắt senior giải thích lại."
+      }
+    }
+  ]
+}

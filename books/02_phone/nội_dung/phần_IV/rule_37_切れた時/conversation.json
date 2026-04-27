@@ -1,0 +1,86 @@
+{
+  "rule_id": "rule_37",
+  "rule_slug": "切れた時のかけ直しルール",
+  "title": {
+    "ja": "切れた時のかけ直しルール",
+    "vi": "Khi line đứt — ai gọi lại trước?"
+  },
+  "rule_context": {
+    "ja": "通話が突然切れた時、発信側が即座にかけ直すのが原則。詫びの一言から再開する。",
+    "vi": "Khi line đột nhiên đứt, bên gọi đi phải gọi lại ngay. Mở lại bằng lời xin lỗi."
+  },
+  "related_rules": [
+    "rule_22",
+    "rule_32"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『お電話が途中で切れてしまい、大変失礼いたしました』で謝罪→『続きから失礼いたします』で本題復帰。",
+        "vi": "Mở lời xin lỗi 「お電話が途中で切れてしまい...」 → 「続きから失礼いたします」 quay lại nội dung."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_37_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "先ほどはお電話が途中で切れてしまい、大変失礼いたしました。",
+          "sentence_translation": "Vừa nãy line bị ngắt giữa chừng, em rất xin lỗi anh ạ.",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_37_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "いえ、こちらこそ。電波が悪かったかもしれません。",
+          "sentence_translation": "Không có gì, có thể sóng yếu ạ.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_37_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "続きから失礼いたします。先ほどの納期の件ですが…",
+          "sentence_translation": "Em xin phép tiếp tục ạ. Quay lại việc hạn giao vừa nãy...",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_37_kp_01",
+      "speaker": "zun",
+      "sentence": "お電話が途中で切れてしまい、大変失礼いたしました。",
+      "sentence_translation": "Line bị ngắt giữa chừng, em rất xin lỗi anh ạ.",
+      "purpose": "再接続時の冒頭詫び",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_37_bjt_01",
+      "level": "J4",
+      "skill": "場面把握",
+      "question_ja": "電話が突然切れた時、原則として誰がかけ直す？",
+      "options": [
+        "受電側",
+        "発信側",
+        "上司",
+        "誰でも"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "ビジネス電話の原則は『発信側がかけ直す』。",
+        "vi": "Nguyên tắc: bên gọi đi gọi lại trước."
+      }
+    }
+  ]
+}

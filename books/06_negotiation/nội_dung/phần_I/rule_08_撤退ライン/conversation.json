@@ -1,0 +1,179 @@
+{
+  "rule_id": "rule_08",
+  "rule_slug": "撤退ライン",
+  "title": {
+    "ja": "撤退ライン",
+    "vi": "Walk-away point"
+  },
+  "rule_context": {
+    "ja": "Phase 3 商談直前、ハー CTO が撤退ラインを5軸 (価格・IP・SLA・支払・責任) で復唱させる場面。",
+    "vi": "Ngay trước đàm phán Phase 3, anh Hà CTO yêu cầu Dũng đọc lại walk-away 5 trục (giá / IP / SLA / payment / liability)."
+  },
+  "related_rules": ["rule_01", "rule_07", "rule_28"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 撤退ライン=価格のみ",
+      "label_vi": "XẤU — Walk-away chỉ có giá",
+      "display_order": 1,
+      "analysis": {
+        "ja": "価格しか想定せず IP・SLA・支払・責任の侵害を見逃す。相手が非価格軸で攻めてきたら譲ってしまう。",
+        "vi": "Chỉ nghĩ tới giá, bỏ qua IP / SLA / payment / liability. Khách đánh trục phi-giá là nhượng sai chỗ."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_08_bad_01",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "ズン、撤退ライン全部読み上げて。",
+          "sentence_translation": "Dũng, đọc hết walk-away list ra.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_08_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "¥15M 以下です。",
+          "sentence_translation": "Dưới ¥15M ạ.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_08_bad_03",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "それだけ？IP は？SLA は？支払 net 30 か net 60 か？大垣さんが「価格 ¥18M でも、IP は白鷗側 100%」と言い出したらどうする？",
+          "sentence_translation": "Chỉ vậy thôi? IP? SLA? Payment net 30 hay net 60? Anh Ōgaki bảo 'giá ¥18M cũng được, nhưng IP 100% về Hakuō' thì em làm sao?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_08_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっ、それは…考えてなかったです。",
+          "sentence_translation": "Ơ, cái đó... em chưa nghĩ tới ạ.",
+          "tone": "nervous"
+        },
+        {
+          "line_id": "rule_08_bad_05",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "価格は撤退ラインの 1 軸でしかない。今すぐ 5 軸書き出せ。書けないなら今日は出ない。",
+          "sentence_translation": "Giá chỉ là 1 trong các trục walk-away. Viết ngay 5 trục. Không viết được thì hôm nay không đi.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 5軸 walk-away CTO承認",
+      "label_vi": "TỐT — Walk-away 5 trục có CTO duyệt",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_08_good_02",
+          "highlight_text": "5 軸読み上げます",
+          "ja": "価格・IP・SLA・支払・責任の5軸を必ず復唱。1軸でも漏れたら譲歩判断ミスする。",
+          "vi": "Đọc lại 5 trục: giá / IP / SLA / payment / liability. Sót 1 trục là sai khi nhượng bộ."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_08_good_02",
+          "highlight_text": "責任上限",
+          "ja": "契約金額の100%超えは撤退条件。unlimited liability は粗利を吹き飛ばす。",
+          "vi": "Vượt 100% giá hợp đồng là walk-away. Liability vô hạn thổi bay margin."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_08_good_04",
+          "highlight_text": "AI レコメンドエンジン本体・モデルパラメータは core IP として留保",
+          "ja": "IP は『どこまで譲るか』を要素別に定義。曖昧にすると後で揉める。",
+          "vi": "IP cần định nghĩa 'nhượng tới đâu' theo từng thành phần. Mơ hồ là cãi nhau về sau."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_08_good_01",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "ズン、撤退ライン全部読み上げて。",
+          "sentence_translation": "Dũng, đọc hết walk-away list ra.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_08_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "5 軸読み上げます。(1) 価格: ¥15M 未満は撤退。(2) IP: ベース技術の所有権は弊社、white-label OK だが core IP 譲渡は撤退条件。(3) SLA: 99.5% 以下は受けない、その下は罰則賠償リスクが粗利を超える。(4) 支払: net 60 まで OK、net 90 以上は撤退。(5) 責任上限: 契約金額の 100% 超えは撤退。",
+          "sentence_translation": "Em đọc 5 trục ạ. (1) Giá: dưới ¥15M là rút. (2) IP: quyền sở hữu công nghệ nền là bên em, white-label OK nhưng nhượng core IP là walk-away. (3) SLA: dưới 99.5% không nhận, dưới ngưỡng đó risk penalty vượt margin. (4) Payment: tới net 60 OK, từ net 90 trở lên là rút. (5) Liability cap: vượt 100% giá hợp đồng là rút.",
+          "tone": "formal",
+          "annotation_ids": ["1", "2"]
+        },
+        {
+          "line_id": "rule_08_good_03",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "IP の white-label と core IP の境界は？",
+          "sentence_translation": "Ranh giới white-label và core IP của em đâu?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_08_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "白鷗向けカスタマイズ部分は white-label OK。AI レコメンドエンジン本体・モデルパラメータは core IP として留保。これフオン副部長 + ハー CTO 両者承認済みです (Slack 昨日)。",
+          "sentence_translation": "Phần customize cho Hakuō white-label OK. Bản thể AI recommend engine + model parameter giữ lại làm core IP. Cả chị Hương + anh Hà CTO đã duyệt trên Slack hôm qua ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_08_good_05",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "OK、5 軸どれか破られたら「弊社 CTO に確認させてください」で持ち帰り。その場で yes は絶対言わない。",
+          "sentence_translation": "OK, vi phạm 1 trong 5 trục là dùng câu 'cho phép em xác nhận với CTO bên em' để mang về. Tuyệt đối không nói yes tại chỗ.",
+          "tone": "firm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_08_kp_01",
+      "speaker": "zun",
+      "sentence": "撤退ラインは価格・IP・SLA・支払・責任の5軸でCTO承認済みです。",
+      "sentence_translation": "Walk-away là 5 trục: giá / IP / SLA / payment / liability — CTO đã duyệt ạ.",
+      "purpose": "撤退ライン読み上げ標準",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_08_bjt_01",
+      "level": "J1",
+      "skill": "表現読解",
+      "question_ja": "撤退ライン5軸の組み合わせとして正しいのは？",
+      "options": [
+        "価格・社員数・オフィス位置・出張日数・福利厚生",
+        "価格・IP・SLA・支払条件・責任上限",
+        "価格・コーヒー予算・座席配置・服装規定・ランチ時間",
+        "価格・部長承認・部門予算・上司気分・天気"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "標準5軸は『価格・IP・SLA・支払・責任』。商務契約の主要リスク項目。",
+        "vi": "5 trục chuẩn: giá / IP / SLA / payment / liability — các mục risk chính của hợp đồng thương mại."
+      }
+    }
+  ]
+}

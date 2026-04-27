@@ -1,0 +1,187 @@
+{
+  "rule_id": "rule_12",
+  "rule_slug": "報告漏れ防止",
+  "title": {
+    "ja": "報告漏れ防止 (10項目セルフチェック)",
+    "vi": "Checklist phòng ngừa thiếu báo cáo"
+  },
+  "rule_context": {
+    "ja": "ズンが報告漏れを指摘され、フオン副部長から10項目のセルフチェックリストを共有される。週末に運用し、未返信件数や口頭→書面変換状況を可視化する。",
+    "vi": "Em Dũng bị chỉ ra báo cáo sót, chị Hương chia sẻ checklist 10 mục. Chạy cuối tuần, trực quan hóa số chưa reply và việc convert verbal sang văn bản."
+  },
+  "related_rules": ["rule_01", "rule_02", "rule_38"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 記憶ベース",
+      "label_vi": "XẤU — Dựa trí nhớ",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「と思います」「たぶん」は記憶依存の典型。週30件規模になると人間の記憶では確実に漏れる。",
+        "vi": "「と思います」「たぶん」 là typical của 'dựa trí nhớ'. Quy mô 30 communication/tuần là chắc chắn rớt."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_12_bad_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ズン、松本様から3つ問い合わせが来てる：(1) リスケの確認、(2) 検収書のExcel形式、(3) Phase 3 アジェンダ。報告した？",
+          "sentence_translation": "Dũng, anh Matsumoto có 3 câu hỏi: (1) xác nhận reschedule, (2) văn bản nghiệm thu định dạng Excel, (3) agenda Phase 3. Em báo cáo chưa?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_12_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと…リスケは伝えたと思います、Excel は…たぶん明日…アジェンダはまだ…",
+          "sentence_translation": "Ờ... reschedule em nghĩ đã báo, Excel... chắc mai... agenda thì chưa...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_12_bad_03",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "『と思います』『たぶん』が3つ。これが報告漏れの典型。毎日のチェックリスト使ってる？",
+          "sentence_translation": "'Em nghĩ', 'chắc' — 3 lần. Đây là pattern điển hình của báo cáo sót. Em có dùng checklist hàng ngày không?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_12_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "いえ、記憶でやってました…",
+          "sentence_translation": "Không ạ, em làm bằng trí nhớ thôi ạ...",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_12_bad_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "私の checklist 共有します。10項目、毎日17時にやって。",
+          "sentence_translation": "Chị share checklist của chị nhé. 10 mục, ngày nào 17h cũng làm.",
+          "tone": "warm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — チェックリスト運用",
+      "label_vi": "TỐT — Vận hành checklist",
+      "display_order": 2,
+      "analysis": {
+        "ja": "未返信件数を 0 ではなく 1 と正直に出すことで、信頼度が上がる。口頭OKを書面化する習慣で、後の「言った／言わない」も防止。",
+        "vi": "Show chưa reply là 1 thay vì 0 = trung thực, tăng tin cậy. Convert verbal OK sang văn bản để tránh tranh cãi 'đã nói / chưa nói'."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_12_good_01",
+          "highlight_text": "報告漏れチェック完了",
+          "ja": "セルフチェックを「タスク」として明示。報告の対象にする。",
+          "vi": "Đặt self-check thành 1 task có tên. Báo cáo cả việc đã chạy checklist."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_12_good_02",
+          "highlight_text": "未返信1件",
+          "ja": "0件と報告するより 1 件と正直に出す方が信頼される。0件は逆に疑わしい。",
+          "vi": "Báo 1 còn chưa thay vì 0 = đáng tin hơn. Báo 0 ngược lại đáng nghi."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_12_good_03",
+          "highlight_text": "口頭でOKもらった事項：3件、すべて書面化済",
+          "ja": "口頭合意は揮発する。書面化することで後の証跡として残る。",
+          "vi": "Thỏa thuận miệng dễ bay. Convert thành văn bản = giữ làm bằng chứng."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_12_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、今週の報告漏れチェック完了です。",
+          "sentence_translation": "Chị Hương, em đã chạy xong checklist phòng ngừa báo cáo sót tuần này ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_12_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "今週の通信件数：受信18 / 返信17 / 未返信1件：松本様 4/22 のメール『Phase 3 予算確認』。本日中に返信予定です。",
+          "sentence_translation": "Số communication tuần này: nhận 18 / đã reply 17 / chưa reply 1: mail 22/4 của anh Matsumoto 'Xác nhận budget Phase 3'. Em sẽ reply trong hôm nay ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_12_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "約束した期日：5件すべて期日内完了。口頭でOKもらった事項：3件、すべて書面化済。",
+          "sentence_translation": "Deadline đã hứa: 5 cái xong đúng hạn. Việc verbal OK: 3 cái, đã convert thành văn bản hết ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_12_good_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "素晴らしい。1件未返信を可視化できる時点で報告漏れ予防になってる。来週もこの形で。",
+          "sentence_translation": "Tuyệt. Visualize được 1 cái chưa reply nghĩa là đã ngăn được báo cáo sót rồi. Tuần sau cứ theo form này.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_12_kp_01",
+      "speaker": "zun",
+      "sentence": "今週の報告漏れチェック完了です。受信〇件／返信〇件／未返信〇件です。",
+      "sentence_translation": "Em đã chạy xong checklist tuần này. Nhận 〇 / reply 〇 / chưa reply 〇 ạ.",
+      "purpose": "週末セルフチェック報告冒頭",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_12_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "報告漏れを防止する最も効果的な方法は？",
+      "options": [
+        "記憶力を鍛える",
+        "毎日17時に10項目のセルフチェックリストを実行する",
+        "毎週末に上司に確認してもらう",
+        "返信は翌日にまとめて行う"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "週30件規模の通信は記憶では漏れる。毎日のセルフチェックリストで未返信／約束期日／口頭→書面化を可視化するのが最効率。",
+        "vi": "Quy mô 30 communication/tuần thì trí nhớ chắc chắn rớt. Checklist hàng ngày để visualize chưa-reply / deadline / verbal-sang-văn-bản là hiệu quả nhất."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_12_tpl_01",
+      "format": "checklist",
+      "title_ja": "報告漏れ防止 セルフチェック10項目",
+      "title_vi": "Checklist phòng ngừa báo cáo sót — 10 mục",
+      "content_ja": "【毎日17時／毎週金曜17時に実施】\n\n□ 1. 本日受信したメール／Slack DM はすべて確認したか？\n□ 2. 本日返信が必要なものに返信したか？（未返信件数：〇件）\n□ 3. 口頭で受けた依頼を書面（メール／Slack）に変換したか？\n□ 4. 約束した期日（社内・社外）はすべて期日内に完了したか？\n□ 5. 期日内完了が難しいものは事前にリスケ依頼したか？\n□ 6. 上司への daily 進捗報告を送ったか？（DDBN形式）\n□ 7. 顧客への進捗共有が必要なものは送ったか？\n□ 8. 悪い知らせは発生から30分以内に第一報を入れたか？\n□ 9. 検収・承認・OK は書面で取得したか？（口頭OKは書面化済か）\n□ 10. 来週／翌日の予定で先方に共有すべき変更はないか？\n\n【記録欄】\n  - 未返信件数：〇件（具体内容：〇〇）\n  - 期日達成率：〇/〇 件\n  - 口頭→書面変換件数：〇件\n  - 翌日／翌週への持ち越しタスク：〇件",
+      "content_vi": "[Chạy mỗi 17h hàng ngày / 17h thứ Sáu hàng tuần]\n\n[ ] 1. Đã đọc hết mail / Slack DM nhận hôm nay chưa?\n[ ] 2. Đã reply những cái cần reply chưa? (Số chưa reply: 〇)\n[ ] 3. Việc nhận bằng miệng đã chuyển thành văn bản (mail/Slack) chưa?\n[ ] 4. Deadline đã hứa (nội bộ + ngoại bộ) đã xong đúng hạn chưa?\n[ ] 5. Cái nào không kịp đã xin reschedule trước chưa?\n[ ] 6. Đã gửi báo cáo tiến độ daily cho sếp chưa? (Format DDBN)\n[ ] 7. Việc cần chia sẻ tiến độ cho khách đã gửi chưa?\n[ ] 8. Tin xấu đã báo cáo đầu trong vòng 30 phút từ lúc phát sinh chưa?\n[ ] 9. Nghiệm thu / phê duyệt / OK đã có văn bản chưa? (OK miệng đã convert chưa?)\n[ ] 10. Lịch ngày mai / tuần sau có thay đổi gì cần báo khách trước không?\n\n[Mục ghi chép]\n  - Số chưa reply: 〇 (nội dung: 〇〇)\n  - Tỉ lệ đạt deadline: 〇/〇\n  - Số việc verbal đã convert thành văn bản: 〇\n  - Task chuyển sang ngày/tuần sau: 〇",
+      "notes_ja": "毎日17時にアラームで実行を強制。10項目を全部「チェック」より、未対応がある項目を可視化することが目的。0件報告は逆に怪しい。",
+      "notes_vi": "Đặt alarm 17h hàng ngày để bắt buộc chạy. Mục đích không phải tick hết 10 mục mà là visualize cái nào còn pending. Báo 0 hết = đáng nghi."
+    }
+  ]
+}

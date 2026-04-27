@@ -1,0 +1,161 @@
+{
+  "rule_id": "rule_21",
+  "rule_slug": "不明点の確認",
+  "title": {
+    "ja": "不明点の確認",
+    "vi": "Xin clarification khi không hiểu"
+  },
+  "rule_context": {
+    "ja": "松本PMがRBAC（権限管理）の説明中、専門用語『クロスマトリックス』が出てくる。ズンが分からないのに『はい』と返してしまうリスクと、その場で確認すべきパターンを比較。",
+    "vi": "Anh Matsumoto đang giải thích phân quyền RBAC, dùng thuật ngữ 'クロスマトリックス'. Em Dũng dễ gật đầu cho qua nhưng đúng cách là phải hỏi lại ngay tại chỗ."
+  },
+  "related_rules": [
+    "rule_19",
+    "rule_20",
+    "rule_24"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 分からないまま頷く",
+      "label_vi": "XẤU — Gật cho qua dù không hiểu",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「承知しました」と答えた以上、相手は理解されたと信じる。後で実装が間違っていれば信頼を失う。",
+        "vi": "Đã nói 「承知しました」 = đối phương tin đã hiểu. Sau này code sai → mất uy tín, phải rework."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_21_bad_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "権限は組織階層と職務属性のクロスマトリックスで管理します。",
+          "sentence_translation": "Quyền sẽ được quản lý theo cross-matrix giữa phân cấp tổ chức và thuộc tính chức trách.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_21_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "はい、承知しました。",
+          "sentence_translation": "Vâng em rõ ạ.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_21_bad_03",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ズン、なんでその場で確認しなかったの？2週間ロスしたよ。",
+          "sentence_translation": "Dũng, sao lúc đó em không hỏi lại? Mất 2 tuần đấy.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 不明点をピンポイントで確認",
+      "label_vi": "TỐT — Chỉ điểm không hiểu, hỏi lại",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_21_good_02",
+          "highlight_text": "『クロスマトリックス』という点をもう一度ご説明いただけますでしょうか",
+          "ja": "曖昧な「全部分からない」ではなく、専門用語1つに絞って質問する。",
+          "vi": "Không nói chung chung 'không hiểu', mà chỉ rõ 1 thuật ngữ cụ thể không hiểu."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_21_good_04",
+          "highlight_text": "という認識でよろしいでしょうか",
+          "ja": "理解した内容を相手の言葉で言い直して確認するアクティブリスニングの基本。",
+          "vi": "Paraphrase lại nội dung đã hiểu để confirm. Kỹ thuật active listening chuẩn JP."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_21_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "権限は組織階層と職務属性のクロスマトリックスで管理します。",
+          "sentence_translation": "Quyền sẽ được quản lý theo cross-matrix giữa phân cấp tổ chức và thuộc tính chức trách.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_21_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "申し訳ございません、『クロスマトリックス』という点をもう一度ご説明いただけますでしょうか？",
+          "sentence_translation": "Xin lỗi anh, phần 'cross-matrix' phiền anh giải thích lại giúp em được không ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_21_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "はい。例えば、部長という階層と、経理という職務、両方を満たす人だけが見られる、という設計です。",
+          "sentence_translation": "Vâng. Ví dụ chỉ những người vừa có cấp trưởng phòng vừa có chức vụ kế toán mới được xem, là thiết kế như vậy.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_21_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。階層 AND 職務、両方の条件を満たす場合のみアクセス可、という認識でよろしいでしょうか？",
+          "sentence_translation": "Em cảm ơn ạ. Vậy là phải thoả mãn cả 2 điều kiện cấp bậc AND chức vụ thì mới truy cập được — em hiểu đúng không ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_21_kp_01",
+      "speaker": "zun",
+      "sentence": "申し訳ございません、〇〇という点をもう一度ご説明いただけますでしょうか？",
+      "sentence_translation": "Xin lỗi anh/chị, phần 〇〇 phiền giải thích lại giúp em được không ạ?",
+      "purpose": "不明点をピンポイントで確認するフレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_21_kp_02",
+      "speaker": "zun",
+      "sentence": "〜という認識でよろしいでしょうか？",
+      "sentence_translation": "Em hiểu là 〜, đúng không ạ?",
+      "purpose": "理解内容のパラフレーズ確認",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_21_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "顧客が説明した内容で1つの専門用語が分からなかった。最善の対応はどれか？",
+      "options": [
+        "とりあえず「承知しました」と返事し、後で同僚に聞く",
+        "「全部分かりません」と正直に言う",
+        "「〇〇という点をもう一度ご説明いただけますでしょうか」と該当箇所を絞って質問する",
+        "黙って頷いてやり過ごす"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "曖昧な返事は後の手戻りリスク。「全部」も非効率。該当点を絞って質問するのが業務効率と信頼の両立解。",
+        "vi": "Gật cho qua = rủi ro rework sau. 'Tất cả' = không hiệu quả. Chỉ điểm cụ thể là cách tối ưu cả hiệu suất + uy tín."
+      }
+    }
+  ]
+}

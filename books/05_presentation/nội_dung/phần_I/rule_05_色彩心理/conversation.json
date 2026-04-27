@@ -1,0 +1,154 @@
+{
+  "rule_id": "rule_05",
+  "rule_slug": "色彩心理",
+  "title": {
+    "ja": "色彩心理 JP business",
+    "vi": "Color psychology JP business"
+  },
+  "rule_context": {
+    "ja": "ズンが派手な色テンプレで作ったスライドをフオン副部長が止め、保守的なネイビー＋チャコール＋アクセント1色に絞らせる場面。",
+    "vi": "Slide Dũng làm bằng template sặc sỡ — Hương cản và yêu cầu thu về palette navy + charcoal + 1 accent."
+  },
+  "related_rules": ["rule_04", "rule_19", "rule_20"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 派手なパレット",
+      "label_vi": "XẤU — Palette sặc sỡ",
+      "display_order": 1,
+      "analysis": {
+        "ja": "赤タイトル＋多色チャートは老舗顧客に『軽薄』と映る。色は意味を持つもので、装飾に使うと信頼を損ねる。",
+        "vi": "Title đỏ + biểu đồ nhiều màu khiến khách 老舗 thấy 「nhẹ dạ」. Màu phải có ý nghĩa, dùng trang trí = mất tin."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_05_bad_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "うわ、目が痛い。タイトル赤？",
+          "sentence_translation": "Ối, chói mắt. Title đỏ à?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_05_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "目立つかと思って…緑と橙でアクセント入れました。",
+          "sentence_translation": "Em nghĩ cho nổi bật ạ... còn thêm xanh lá với cam làm accent...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_05_bad_03",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "白鷗様は老舗よ？派手な色使う相手じゃない。赤は警告とCTA専用。装飾に使うと『軽薄』に見える。",
+          "sentence_translation": "Bên Hakuō là cty lâu đời mà? Không phải đối tượng dùng màu sặc sỡ. Đỏ chỉ dành cho cảnh báo + CTA. Trang trí bằng đỏ = trông nông nổi.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_05_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、すみません…",
+          "sentence_translation": "À, em xin lỗi ạ...",
+          "tone": "apologetic"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 3色制限＋顧客カラー活用",
+      "label_vi": "TỐT — Giới hạn 3 màu + dùng màu khách",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_05_good_01",
+          "highlight_text": "3色制限",
+          "ja": "Primary + Sub + 1 Accent。それ以上は視覚ノイズ。",
+          "vi": "Primary + Sub + 1 Accent. Quá đó = visual noise."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_05_good_02",
+          "highlight_text": "白鷗ブランドカラー",
+          "ja": "顧客のコーポレートカラーをアクセントに採用するとリサーチの誠意が伝わる。",
+          "vi": "Lấy corporate color của khách làm accent — truyền được tín hiệu 「đã research kỹ」."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_05_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "色を3色制限にしました。プライマリ: ネイビー(#1E3A5F)、サブ: チャコール(#3A3A3A)、アクセント: 白鷗ブルー(#4A90C2)。背景は薄グレー。",
+          "sentence_translation": "Em đã giới hạn còn 3 màu ạ. Primary: navy (#1E3A5F), sub: charcoal (#3A3A3A), accent: xanh Hakuō (#4A90C2). Nền xám nhạt.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_05_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "いいね、白鷗ブランドカラーをアクセントに使うのは気が利いてる。CTAボタンは何色？",
+          "sentence_translation": "Ổn, lấy màu thương hiệu Hakuō làm accent thế là khéo đấy. Nút CTA màu gì?",
+          "tone": "warm",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_05_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "CTAだけオレンジ(#E67E22)で目立たせます。それ以外オレンジは使いません。",
+          "sentence_translation": "Chỉ riêng CTA dùng cam (#E67E22) cho nổi ạ. Ngoài đó không dùng cam ở đâu khác.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_05_good_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "正解。赤はリスクスライドの『高リスク』マークだけ。色に意味を持たせる。",
+          "sentence_translation": "Đúng rồi. Đỏ chỉ dành cho mark 「rủi ro cao」 ở slide rủi ro. Mỗi màu phải có nghĩa.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_05_kp_01",
+      "speaker": "zun",
+      "sentence": "色を3色制限にしました。アクセントは白鷗様のブランドカラーを採用しています。",
+      "sentence_translation": "Em đã giới hạn còn 3 màu ạ. Accent em dùng màu thương hiệu Hakuō.",
+      "purpose": "色彩設計の説明",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_05_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "日本の老舗顧客向けプレゼンで、タイトルの色として最も適切なのは？",
+      "options": [
+        "鮮やかな赤",
+        "ネオングリーン",
+        "ネイビー or チャコール",
+        "鮮やかな黄色"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "保守的なネイビー・チャコールが institution の信頼感を伝える。赤は警告・CTA専用。",
+        "vi": "Navy / charcoal truyền tín hiệu institution. Đỏ chỉ dành cho cảnh báo / CTA."
+      }
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "rule_id": "rule_22",
+  "rule_slug": "バンドリング・アンバンドリング",
+  "title": {
+    "ja": "バンドリング・アンバンドリング",
+    "vi": "Bundle / unbundle pricing"
+  },
+  "rule_context": {
+    "ja": "中村 CFO の line item 質問に対し、Dũng が unbundle 開示 + package discount で稟議書作成を支援する場面。",
+    "vi": "Trước câu hỏi line item của CFO Nakamura, Dũng unbundle + package discount để hỗ trợ ringi-sho."
+  },
+  "related_rules": [
+    "rule_21",
+    "rule_23"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — bundle固守",
+      "label_vi": "XẤU — Khăng khăng bundle",
+      "display_order": 1,
+      "analysis": {
+        "ja": "CFO の line item 開示要求を拒否。稟議書作成不能で deal が止まる。",
+        "vi": "Từ chối yêu cầu line item của CFO. Không viết được ringi-sho, deal dừng."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_22_bad_01",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "AI レコメンドエンジン単独だといくらですか？",
+          "sentence_translation": "AI recommend engine riêng giá bao nhiêu?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_22_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "すみません、Phase 3 はパッケージ提供で、単独価格は出せません。",
+          "sentence_translation": "Em xin lỗi, Phase 3 bán theo package nên không có giá riêng ạ.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_22_bad_03",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "それでは稟議書で個別 cost justify ができないので、難しいですね。",
+          "sentence_translation": "Vậy thì không justify được cost từng mục trong ringi-sho, khó đấy.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — unbundle + package discount",
+      "label_vi": "TỐT — Unbundle + package discount",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_22_good_02",
+          "highlight_text": "個別 cost を分解いたします",
+          "ja": "「unbundle して見せます」を proactive に提示。CFO が稟議書を書く tools として価値ある。",
+          "vi": "Chủ động unbundle và show. Là tool để CFO viết ringi-sho."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_22_good_02",
+          "highlight_text": "Phase 3 パッケージとしては ¥17.5M でご提供 (¥1M のパッケージディスカウント)",
+          "ja": "個別合計 > package。差額が「お得感」として認知される。値下げではなくdiscountとして表現。",
+          "vi": "Tổng line item > package. Chênh lệch tạo cảm giác 'お得感'. Diễn đạt là discount, không phải giảm giá."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_22_good_04",
+          "highlight_text": "共通基盤化で工数 5% 削減",
+          "ja": "discount に必ず数値根拠を付ける。「サービスです」では信頼されない。",
+          "vi": "Discount luôn có cơ sở số. 'Khuyến mãi cho thôi' không trust được."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_22_good_01",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "AI レコメンドエンジン単独だといくらですか？",
+          "sentence_translation": "AI recommend engine riêng giá bao nhiêu?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_22_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "個別 cost を分解いたします。AI レコメンドエンジン: ¥9M、専任 PM: ¥3M、AI dashboard: ¥3.5M、SLA 99.9% 運用: ¥3M。合計 ¥18.5M。Phase 3 パッケージとしては ¥17.5M でご提供 (¥1M のパッケージディスカウント)、そして 2 年契約継続なら不変です。",
+          "sentence_translation": "Em xin tách cost từng mục ạ. AI recommend engine: ¥9M, PM chuyên trách: ¥3M, AI dashboard: ¥3.5M, vận hành SLA 99.9%: ¥3M. Tổng ¥18.5M. Riêng Phase 3 package em cung cấp ¥17.5M (chiết khấu package ¥1M), tiếp tục hợp đồng 2 năm thì không đổi ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_22_good_03",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ディスカウント分の根拠は？",
+          "sentence_translation": "Cơ sở chiết khấu là gì?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_22_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "複数機能を同一プロジェクトで開発すると共通基盤化で工数 5% 削減できます。それを御社に還元する形。稟議書に「パッケージ価格」として明記いただければ、個別 line item は internal cost justification としてお使いいただけます。",
+          "sentence_translation": "Nhiều tính năng phát triển trong cùng dự án thì build trên nền chung giảm được 5% effort. Em chia sẻ phần đó với quý cty. Trong ringi-sho ghi rõ 'giá package', còn line item từng mục dùng làm internal cost justification ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_22_good_05",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "これなら稟議書が書きやすい。ありがとうございます。",
+          "sentence_translation": "Vậy thì ringi-sho dễ viết. Cảm ơn em.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_22_kp_01",
+      "speaker": "zun",
+      "sentence": "個別 cost を分解いたします。合計 〇〇円、パッケージとしては 〇〇円でご提供。",
+      "sentence_translation": "Em xin tách cost từng mục. Tổng 〇〇¥, theo package là 〇〇¥ ạ.",
+      "purpose": "unbundle + package 提示",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_22_bjt_01",
+      "level": "J1",
+      "skill": "表現読解",
+      "question_ja": "CFO が「個別 line item の価格を出してほしい」と言った時の最適対応は？",
+      "options": [
+        "「パッケージのみ」と拒否",
+        "unbundle 開示 + package discount で稟議書作成を支援",
+        "言われた1機能だけ抜き出して値段提示",
+        "競合の line item を出す"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "CFO は稟議書 tools が必要。unbundle 開示しつつ package discount で「お得感」も保つ両立解。",
+        "vi": "CFO cần tool viết ringi-sho. Unbundle show + package discount giữ 'お得感' = lời cả 2."
+      }
+    }
+  ]
+}

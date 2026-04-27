@@ -1,0 +1,191 @@
+# Rule 14 — Hobby — golf/baseball/sumo / 趣味
+
+> **Luận điểm.** 3 hobby quốc dân Nhật business: **ゴルフ** (business standard, dealing closes on the green) / **野球** (regional team theo quê) / **相撲** (senior love, schedule 6 場所/year). Biết match đúng hobby với từng khách = mở chìa khóa relationship.
+
+---
+
+## 🧠 Tâm lý JP (4 dòng)
+
+- **Golf** = business hobby #1. 50-60t executive Nhật chơi golf weekly. Đi golf 1 ngày = 18 holes + onsen + dinner = 8 tiếng bonding.
+- **Baseball** = regional identity. Hỏi đúng team theo quê = chạm tim.
+- **Sumo** = senior 60+ ưa thích. Biết 場所 schedule + tên 横綱 = đẳng cấp đặc biệt.
+- Hobby modern (anime/game) = match tuổi 20-30. **Senior dùng anime → khách bảo thủ sẽ không tiếp.**
+
+---
+
+## 🎬 Bối cảnh
+
+Tuần này có 3 buổi với 3 khách hobby khác nhau: ① Hiroshi mời chơi golf cuối tuần; ② Sato cuồng Sumo; ③ Yamamoto mê 阪神タイガース. Dũng phải biết speak the language của 3 hobby này.
+
+---
+
+## 💬 4 Scenarios — dialogue thực chiến
+
+### 📍 Scenario 1 — ゴルフ: được mời + cách nhận lịch sự
+
+*dinner, sau ly thứ 3 · thận trọng — chưa giỏi · impress*
+
+| Speaker | Câu |
+|---------|-----|
+| **広島** | 「ズンさん、ゴルフはやる?今度の土曜、**コンペ**【1】に出るんだけど一緒にどう?」 |
+| **ズン** | 「ありがとうございます!実は始めて1年で、**スコア110**【2】くらいです…ご迷惑にならなければ。」 |
+| **広島** | 「全然大丈夫!**プライベートコンペ**だから気楽。**ホームコース**は**広島カントリークラブ**【3】、9時スタート。」 |
+| **ズン** | 「広島カントリー…憧れのコースです。**クラブ**は持って行ったほうがいいですか?」 |
+| **広島** | 「自分のクラブあるなら持参で。**キャディバッグ**は前日に送る『**宅配ゴルフ**』使えるよ。**ドライバー**飛距離どれくらい?」 |
+| **ズン** | 「**220ヤード**くらいです、まだまだですが…」 |
+| **広島** | 「十分だよ!ベトナム人で220飛べば。**初心者にしてはいい数字**。当日はラウンド後、お風呂入って懇親会あるから、お楽しみに。」 |
+| **ズン** | 「お風呂と懇親会も!ぜひ、よろしくお願いします。」 |
+
+📝【1】 **コンペ** = competition (giải golf nội bộ / giữa công ty). 【2】 **スコア** = số gậy 18 holes. 100 = mới biết. 90 = trung bình. 80 = giỏi. 【3】 **広島カントリークラブ** = sân golf cao cấp Hiroshima.
+
+> **VN:** Vocab golf: **コンペ / スコア / ホームコース / ドライバー / ヤード / ラウンド / キャディ / 18ホール**. Khi được mời → **nhận luôn** kèm honest về level. Đừng từ chối — golf invitation = trust signal.
+
+---
+
+### 📍 Scenario 2 — 野球: 阪神タイガース (Yamamoto cuồng)
+
+*izakaya Osaka, mở tin tức · rạng rỡ · thực sự cảm phục*
+
+| Speaker | Câu |
+|---------|-----|
+| **山本** | 「ズンさん、昨日の阪神戦見た?**佐藤輝明**【1】のホームラン、すごかったわ!」 |
+| **ズン** | 「Yahooで結果だけ。**サトテル**【2】、今シーズン調子いいですよね。**4番**復帰したんですよね?」 |
+| **山本** | 「ズンさんも阪神ファンか!?『サトテル』って呼ぶの、コアファンやで(笑)」 |
+| **ズン** | 「広島の人と先日話して、カープも応援してます…でも今シーズン、阪神の調子は別格ですね。**マジック点灯**【3】、いつ頃?」 |
+| **山本** | 「うわ、マジック計算まで知っとる(笑)。今のペースなら9月中旬かな。**甲子園**【4】、観に来る?」 |
+| **ズン** | 「甲子園!夢です。**アルプススタンド**で**ジェット風船**も上げてみたいです。」 |
+| **山本** | 「ジェット風船まで!次回出張のとき、チケット取っとくわ。**六甲おろし**【5】、一緒に歌おう!」 |
+| **ズン** | 「六甲おろし、覚えていきます!」 |
+
+📝【1】 **佐藤輝明** = Sato Teruaki, slugger Hanshin Tigers. 【2】 **サトテル** = nickname fan. 【3】 **マジック点灯** = "magic number" để vô địch league. 【4】 **甲子園** = Koshien Stadium (sân nhà Hanshin). 【5】 **六甲おろし** = bài fight song của Hanshin (fan thuộc lòng).
+
+> **VN:** Baseball regional team:
+> - **Tokyo** → 巨人 / ヤクルト
+> - **Osaka** → **阪神タイガース**
+> - **Hiroshima** → **広島カープ**
+> - **Nagoya** → **中日ドラゴンズ**
+> - **Fukuoka** → **ソフトバンクホークス**
+> - **Hokkaido** → **日本ハム**
+> - **Sendai** → **楽天イーグルス**
+>
+> Match đúng team với 出身 = quy tắc vàng. Biết tên cầu thủ + nickname + fight song = elite.
+
+---
+
+### 📍 Scenario 3 — 相撲: senior love (Sato 60t)
+
+*dinner, mở TV thấy tin sumo · delighted*
+
+| Speaker | Câu |
+|---------|-----|
+| **佐藤** | 「お、今日**九州場所**【1】3日目か。**大の里**【2】今日は誰と当たるかな。」 |
+| **ズン** | 「先生、相撲お好きなんですね!**大の里**、**新横綱**になりましたよね?」 |
+| **佐藤** | 「ズンさん、相撲も知っとるか!?最近の若手で稀に見る素質。**幕内優勝**何回続いてるか覚えてる?」 |
+| **ズン** | 「先場所、先々場所と連続優勝で…3場所連続だと**全勝優勝**【3】も?」 |
+| **佐藤** | 「全勝はまだ1回だけよ。でも**横綱昇進**したばかりで、これから期待。九州場所、**福岡国際センター**【4】、毎年11月。次回、一緒に行こうか?」 |
+| **ズン** | 「ぜひ!**枡席**【5】って4人で囲むあれですか?」 |
+| **佐藤** | 「そうそう、お弁当も出る。**ちゃんこ鍋**【6】も食べないと。**断髪式**【7】とか引退試合も感慨深いとよ。」 |
+| **ズン** | 「ちゃんこ、力士の食事ですよね。**チャンコ屋**ある通り、両国に。」 |
+
+📝【1】 **6 場所/year**: 1月初場所(東京)、3月大阪、5月東京、7月名古屋、9月東京、11月**九州場所**. 【2】 **大の里** = Ōnosato — yokozuna trẻ hot 2025-26. 【3】 **全勝優勝** = thắng cả 15 trận. 【4】 **福岡国際センター** = sân Kyushu basho. 【5】 **枡席** = ô vé 4 người ngồi sàn. 【6】 **ちゃんこ鍋** = lẩu sumo. 【7】 **断髪式** = lễ cắt mái sumo nghỉ.
+
+> **VN:** Sumo vocab: **場所 / 横綱・大関・関脇 / 幕内 / 優勝 / 千秋楽 / 土俵 / 枡席 / ちゃんこ**. Senior 60t mê sumo nhưng thế hệ trẻ JP đang xa rời → ai biết = quý.
+
+---
+
+### 📍 Scenario 4 — Variant: Khách trẻ hobby modern (Tanaka 35t — chạy bộ + game)
+
+*slack, gửi link Strava*
+
+| Speaker | Câu |
+|---------|-----|
+| **田中** | 「最近、**ハーフマラソン**走り始めて。先週**東京マラソン**応募した。」 |
+| **ズン** | 「お、ランニング始めたんですか!**サブ4**【1】目指してます?」 |
+| **田中** | 「いやいや、**サブ5**でも難しい(笑)。ズンさん、走るの?」 |
+| **ズン** | 「**ハノイマラソン**毎年出てます。サブ4は1回だけ。**ペース走**より**インターバル**【2】が苦手です。」 |
+| **田中** | 「分かる、心臓潰れる(笑)。じゃあ次回、**皇居ラン**【3】一緒にどう?**5キロ周回**、ちょうどいい。」 |
+| **ズン** | 「皇居ラン!ぜひ。**ランステ**【4】使えば手ぶらでいけますね。」 |
+| **田中** | 「**Apple Watch**でルート共有しよう。あと最近はゲーム、**スプラトゥーン**やってる?」 |
+| **ズン** | 「スプラ、X帯でくすぶってます…田中さん、上手そう。」 |
+
+📝【1】 **サブ4** = sub 4 hours (full marathon < 4h). 【2】 **インターバル** = interval training. 【3】 **皇居ラン** = chạy quanh 皇居 5km. 【4】 **ランステ** (ランニングステーション) = trạm có locker + tắm cho runner.
+
+> **VN:** Khách trẻ 30t hobby modern: **ランニング / ジム / 自転車 / Switch ゲーム / Netflix / アウトドア / キャンプ**. Match đúng generation = mở relationship.
+
+---
+
+## 🎯 Câu vàng copy-paste
+
+```
+■ GOLF (được mời):
+「ありがとうございます!ご迷惑にならなければ、ぜひ。」
+「スコアは[110]くらいです、まだまだですが…」
+「ホームコース、いつか伺いたいです。」
+
+■ 野球 (theo regional):
+「[阪神戦/カープ戦]、昨日見ました!」
+「[甲子園/マツダスタジアム]、いつか行きたいです。」
+「[サトテル/鈴木誠也]、調子いいですね!」
+
+■ 相撲 (senior):
+「[今場所]、誰の調子いいですか?」
+「[大の里]、新横綱になりましたよね。」
+「[九州場所]、いつか枡席で観てみたいです。」
+
+■ HOBBY MODERN (trẻ):
+「ランニング、ペースどれくらいですか?」
+「皇居ラン、一緒にいかがですか?」
+「[スプラ/モンハン]、最近やってますか?」
+```
+
+---
+
+## ⚠ NG — tuyệt đối tránh
+
+- Mời senior 60t đi **karaoke + game center** → lệch generation.
+- Hỏi sumo với khách 30t (chưa chắc quan tâm) → trống không.
+- Hỏi tên cầu thủ team đối thủ trước fan cuồng → **言わぬが花** (im là vàng).
+- Khoe golf score đẹp giả tạo → khách phát hiện ngay.
+- Từ chối lời mời golf vì "kém" → JP coi đây là từ chối relationship. Nhận + thật thà về level.
+
+---
+
+## 📚 Vocab
+
+| 漢字 | よみ | Nghĩa |
+|------|------|-------|
+| 趣味 | しゅみ | Hobby |
+| ゴルフ | — | Golf |
+| コンペ | — | Competition (giải golf) |
+| スコア | — | Số gậy |
+| ホームコース | — | Sân golf chủ chốt |
+| ラウンド | — | 1 vòng 18 holes |
+| キャディ | — | Caddy |
+| 野球 | やきゅう | Bóng chày |
+| プロ野球 | プロやきゅう | NPB |
+| セ・パ | — | Central League / Pacific League |
+| 甲子園 | こうしえん | Sân Hanshin |
+| ホームラン | — | Home run |
+| 相撲 | すもう | Sumo |
+| 場所 | ばしょ | Giải đấu sumo (15 ngày) |
+| 横綱 | よこづな | Hạng cao nhất |
+| 大関 | おおぜき | Hạng 2 |
+| 幕内 | まくうち | Top division |
+| 千秋楽 | せんしゅうらく | Ngày cuối basho |
+| 枡席 | ますせき | Ô vé 4 người sumo |
+| ちゃんこ鍋 | ちゃんこなべ | Lẩu sumo |
+| 釣り | つり | Câu cá |
+| 登山 | とざん | Leo núi |
+| キャンプ | — | Camping (trẻ) |
+
+---
+
+## 🎓 BJT
+
+**J3 — 場面把握:** Match team baseball với 出身 đúng (Osaka→阪神 / Hiroshima→カープ).
+**J2 — 表現読解:** Nhận biết tín hiệu mời golf = trust deepening signal.
+**J1 — 発言聴解:** Catch tên 力士 / cầu thủ khi senior nhắc thoáng → react chính xác.
+
+---
+
+> **Hizashi Sách 08 — Rule 14 — 趣味**

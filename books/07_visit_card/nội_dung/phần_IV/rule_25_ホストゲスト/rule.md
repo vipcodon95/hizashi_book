@@ -1,0 +1,80 @@
+# Rule 25 — Vai trò host vs guest / ホスト・ゲストの作法
+
+> **Luận điểm.** Tiếp khách kiểu Nhật = host gánh **3 trách nhiệm trọn gói**: **order (chốt menu trước), pour (rót rượu liên tục), pay (trả tiền kín đáo)**. Khách KHÔNG làm gì cả. Chia tiền (割り勘) trong 接待 = phá hủy khái niệm. Khách tự rót cho mình = host bỏ vai.
+>
+> 接待 host = 『order・pour・pay』の3点全責任。客は何もしない。割り勘提案は接待概念崩壊。
+>
+> **Liên quan:** rule 24 (đặt dinner), rule 26 (乾杯), rule 33 (文化衝突).
+
+---
+
+## Bối cảnh / 場面
+
+Phòng riêng nhà hàng Nhật Q1, dinner bắt đầu 18:30. Bên host: Hà CTO, chị Hương phó phòng, Dũng, Tuấn. Bên guest: CFO Nakamura, Ōgaki, Matsumoto, Tanaka PMO. Đây là cú test toàn diện cho team về tinh thần host.
+
+---
+
+## ❌ Hội thoại XẤU — host bắt khách order + khách tự rót
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | （menuを大垣さんに渡す）「何にされますか？」 |
+| **大垣営業部長** | 「あ、では…どれが…」 |
+| **松本PM** | （自分のglassに自分でビールを注ぐ） |
+| **ズン** | 「じゃ、最後は割り勘で…」 |
+| **ハーCTO** | （後で）「ズン、接待は host が全責任。今日は私が請求書受け取る。次回からはorder+pour+payの3点徹底。」 |
+
+**Vì sao xấu:** (1) Mở menu hỏi 'anh chọn gì' = đẩy gánh nặng cho khách. (2) Khách tự rót cho mình = host bỏ vai chăm sóc. (3) Đề xuất chia tiền = phá cả khái niệm tiếp khách. CFO sẽ ngầm đánh giá host chưa được train.
+
+---
+
+## ✅ Hội thoại TỐT — host order trước + host rót + host trả
+
+| Speaker | Câu |
+|---------|-----|
+| **ハーCTO** | 「本日はお越しいただき、誠にありがとうございます。」 |
+| **ズン** | 「コースは事前にお決めいただきました。お飲み物は日本酒・ワイン・ノンアルご用意しております。」【1】 |
+| **トゥアンリーダー** | （瓶を両手で持ち、ラベルを上にして大垣様のglassへ）「お注ぎいたします。」【2】 |
+| **大垣営業部長** | （glassを両手で持ち上げて受ける）「恐れ入ります。」 |
+| **ズン** | （中村CFOのglassが空になりそう→すぐ pour）「中村様、もう一杯いかがでしょうか。」【3】 |
+| **中村CFO** | 「ありがとう、頂戴いたします。」 |
+| **ハーCTO** | （中座してこっそりleft、bill決済 → 戻る）「お会計はこちらで承りました。」【4】 |
+| **中村CFO** | 「ご馳走になりました、ありがとうございました。」 |
+
+📝 **Ghi chú:**
+- 【1】**Host pre-decision告知** = khách khỏi phải chọn. Không mở menu trước mặt khách. Course đã chốt qua nhà hàng từ D-2.
+- 【2】**「お注ぎいたします」** — cầm chai bằng 2 tay (hoặc tay phải + tay trái đỡ), nhãn hướng lên. Ly khách thì khách cầm 2 tay nâng đón.
+- 【3】**Host canh ly khách liên tục** = rót trước khi cạn. Hành động trước khi khách phải tự rót = score.
+- 【4】**「お会計はこちらで承りました」** — bill được host thanh toán bí mật trước khi tan tiệc, không rút ví trước mặt khách. Đây là tinh hoa tiếp khách Nhật.
+
+---
+
+## 🎯 Câu chốt
+
+> **「お注ぎいたします。」 / 「お会計はこちらで承りました。」**
+>
+> *Em xin rót ạ. / Hóa đơn bên em đã lo rồi ạ.*
+
+---
+
+## ⚠ Tránh
+
+- Đẩy menu cho khách chọn — host quyết menu từ D-2
+- Để khách tự rót cho mình — luôn rót trước cho khách
+- Cụng ly trước khi 上位 host hô kanpai
+- Đề xuất 割り勘 (chia tiền) — phá khái niệm接待
+- Mang bill về bàn để thanh toán trước mặt khách — đi ra ngoài thanh toán kín đáo
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| お注ぎいたします | おつぎいたします | Em xin rót |
+| 頂戴いたします | ちょうだいいたします | Tôi xin nhận |
+| お会計 | おかいけい | Hóa đơn |
+| 承りました | うけたまわりました | Đã nhận / đã lo |
+| ご馳走 | ごちそう | Sự thiết đãi |
+| 割り勘 | わりかん | Chia tiền (NG cho接待) |
+| 中座 | ちゅうざ | Rời bàn giữa chừng |

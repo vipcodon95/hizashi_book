@@ -1,0 +1,166 @@
+{
+  "rule_id": "rule_28",
+  "rule_slug": "事後フォローメール",
+  "title": {
+    "ja": "事後フォローメール",
+    "vi": "Post-pitch follow-up email"
+  },
+  "rule_context": {
+    "ja": "Phase 3 ピッチ終了後の同日。ズンは月曜送付を考えるが、フオン副部長が 24h ルール+2段階送付を指示。",
+    "vi": "Cùng ngày kết thúc pitch Phase 3. Dũng định để thứ Hai gửi mail. Hương yêu cầu áp 24h rule + chia 2 lần."
+  },
+  "related_rules": ["rule_24", "rule_26", "rule_27"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 月曜まで放置",
+      "label_vi": "XẤU — Để đến thứ Hai",
+      "display_order": 1,
+      "analysis": {
+        "ja": "月曜＝72h後。客は当日内に社内シェアするので、それまで資料がないと impression が薄れる。",
+        "vi": "Thứ Hai = 72h sau. Khách share nội bộ trong 24h, không có slide thì impression loãng."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_28_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、ピッチ無事終了！フォローメールは月曜送ろうと思います、週末ゆっくり書きたいので。",
+          "sentence_translation": "Chị Hương, pitch xong an toàn! Mail follow-up em định gửi thứ Hai, để cuối tuần em viết kỹ ạ.",
+          "tone": "cheerful"
+        },
+        {
+          "line_id": "rule_28_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "月曜だと72時間後。客が今夜社内シェアする時に資料無いの? 今夜送って。3行でも。",
+          "sentence_translation": "Thứ Hai là 72h sau. Khách tối nay share nội bộ mà không có tài liệu à? Tối nay gửi đi. 3 dòng cũng được.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_28_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、それは…",
+          "sentence_translation": "À, cái đó...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_28_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "24h ルール。詳細版は週末に書いて月曜 update。今夜は acknowledgment + slide PDF link だけでいい。",
+          "sentence_translation": "Quy tắc 24h. Bản chi tiết để cuối tuần viết, thứ Hai update. Tối nay chỉ cần acknowledgment + link PDF slide là đủ.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 2段階送付",
+      "label_vi": "TỐT — Gửi 2 lần",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_28_good_03",
+          "highlight_text": "持ち帰り SOAP detail 期限金曜17時 明記",
+          "ja": "持ち帰り deadline は文面に必ず明記。Email が contract substitute になり、両社で commit が見える化。",
+          "vi": "Deadline 持ち帰り phải ghi rõ trong mail. Email = thay hợp đồng nhỏ, commit hiện ra rõ giữa 2 bên."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_28_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、ピッチ終了。今夜中に acknowledgment メール送ります (slide PDF link + 持ち帰り deadline 確認のみ)。詳細 recap + 議事メモは月曜朝に send します。テンプレ使います。",
+          "sentence_translation": "Chị Hương, pitch xong rồi ạ. Tối nay em gửi mail acknowledgment trước (chỉ link PDF slide + xác nhận deadline 持ち帰り). Recap chi tiết + memo họp em send sáng thứ Hai. Em dùng template ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_28_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "いいね、その2段階で。今夜の acknowledgment は20時までに出すと安心。文面ドラフト見せて。",
+          "sentence_translation": "Tốt, đi 2 bước đó. Acknowledgment tối nay ra trước 20h là an toàn. Draft mail show chị xem nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_28_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ドラフトです。3パラ + 添付3点 + 持ち帰り SOAP detail 期限金曜17時 明記しました。",
+          "sentence_translation": "Draft đây ạ. 3 đoạn + 3 file đính kèm + ghi rõ deadline 持ち帰り SOAP detail trước 17h thứ Sáu ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_28_good_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "OK、send。月曜の詳細版にはトゥアン+ハー CTO も CC に。",
+          "sentence_translation": "OK, send đi. Bản chi tiết thứ Hai nhớ CC anh Tuấn + anh Hà CTO vào nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_28_kp_01",
+      "speaker": "zun",
+      "sentence": "本日はお忙しい中、お時間を頂き、誠にありがとうございました。",
+      "sentence_translation": "Hôm nay quý vị bận rộn vẫn dành thời gian, em xin chân thành cảm ơn ạ.",
+      "purpose": "Follow-up メール冒頭の御礼定型",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_28_kp_02",
+      "speaker": "zun",
+      "sentence": "持ち帰り事項につきましては、〇日〇時までに別メールでご回答いたします。",
+      "sentence_translation": "Về phần mang về xem xét, em sẽ phản hồi qua mail riêng trước 〇h ngày 〇 ạ.",
+      "purpose": "Follow-up メール内 持ち帰り deadline 明記",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_28_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "ピッチ後 follow-up メールの送付タイミングとして適切なのは？",
+      "options": [
+        "同日中に short acknowledgment + 翌営業日に詳細版 (2段階)",
+        "翌週月曜に詳細版1通のみ",
+        "1週間後に sammary",
+        "送らない"
+      ],
+      "correct": "A",
+      "explanation": {
+        "ja": "客は当日中に社内シェアするので、24h以内の acknowledgment が必須。詳細は翌営業日で OK。",
+        "vi": "Khách share nội bộ trong ngày, nên acknowledgment trong 24h là bắt buộc. Bản chi tiết sang ngày làm việc kế tiếp là OK."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_28_tpl_01",
+      "format": "email_followup",
+      "title_ja": "ピッチ後 follow-up メール (詳細版)",
+      "title_vi": "Mail follow-up sau pitch (bản chi tiết)",
+      "content_ja": "件名: 【御礼】Phase 3 ご提案の件 (ティエンファット ズン)\n\n白鷗株式会社\n大垣 営業部長 様\n松本 PM 様\n田中 PMO 様\n(CC: 弊社 ハー CTO、トゥアン 技術リーダー、フオン 副部長)\n\n平素より大変お世話になっております。\n弊社営業部のズンでございます。\n\n本日はお忙しい中、Phase 3 ご提案にお時間を頂き、誠にありがとうございました。\n\n【本日の合意 3点】\n① Phase 3 スコープ: 19機能 (5/15 開始 / 12/15 リリース)\n② 価格: 1,200万円 (Phase 2 比単価 -8%)\n③ 責任者ペア: 弊社ズン ＋ 御社松本様\n\n【次のステップ 3点】\n① 5/2 (今週金) 17時まで: SOAP→REST 統合詳細回答メール (弊社 → 御社)\n② 5/8 (来週水) 14時: スコープ最終確認会議 (60分・御社会議室)\n③ 5/15 まで: 契約書サインインオフ (両社法務経由)\n\n【添付資料】\n・本日のスライド (PDF) — Drive 閲覧専用 [URL]\n・議事メモ (PDF) — 同上\n\n【持ち帰り事項】\n・SOAP→REST 統合 + OAuth 2.0 フロー詳細\n 弊社 CTO ハー 確認の上、5/2 17時 までに別メールでご回答いたします\n\nご不明な点等ございましたら、いつでもご連絡くださいませ。\n引き続き何卒よろしくお願い申し上げます。\n\n────────────────────\nチャン・ヴァン・ズン (Tran Van Dung)\nティエンファット 営業部 BD担当\nTEL: +84-xx-xxxx-xxxx\nEMAIL: zun@tienphat.vn\n営業時間: 9:00-18:00 (JST / Mon-Fri)\n────────────────────",
+      "content_vi": "Subject: 【Cảm ơn】Vấn đề đề xuất Phase 3 (Thiên Phát — Dũng)\n\nKính gửi Cty Hakuō:\n  Anh Ōgaki — Trưởng phòng Kinh doanh\n  Anh Matsumoto — PM\n  Anh Tanaka — PMO\n(CC: Hà CTO, Tuấn Tech lead, Hương Phó phòng — bên em)\n\nLuôn được quý vị quan tâm, em xin cảm ơn ạ.\nEm là Dũng, BD phòng Kinh doanh Cty Thiên Phát ạ.\n\nHôm nay quý vị bận rộn vẫn dành thời gian cho buổi đề xuất Phase 3, em xin chân thành cảm ơn ạ.\n\n[3 điểm thống nhất hôm nay]\n① Scope Phase 3: 19 chức năng (bắt đầu 15/5 / release 15/12)\n② Giá: 12 triệu yên (đơn giá giảm 8% so Phase 2)\n③ Cặp owner: Dũng bên em + anh Matsumoto bên quý vị\n\n[3 next step]\n① Trước 17h 2/5 (thứ Sáu tuần này): mail phản hồi chi tiết tích hợp SOAP→REST (bên em → bên quý vị)\n② 14h 8/5 (thứ Tư tuần sau): họp chốt scope final (60 phút, phòng họp Hakuō)\n③ Trước 15/5: sign-off hợp đồng (qua pháp chế hai bên)\n\n[Tài liệu đính kèm]\n- Slide hôm nay (PDF) — link Drive read-only [URL]\n- Memo họp (PDF) — cùng link\n\n[Vấn đề mang về xem xét]\n- Tích hợp SOAP→REST + chi tiết flow OAuth 2.0\n  Em sẽ confirm với Hà CTO bên em, phản hồi qua mail riêng trước 17h ngày 2/5 ạ.\n\nNếu có điểm chưa rõ, mời quý vị liên hệ bất cứ lúc nào ạ.\nMong tiếp tục được quý vị chiếu cố ạ.\n\n────────────────────\nTrần Văn Dũng\nCty Thiên Phát — BD phòng Kinh doanh\nTEL: +84-xx-xxxx-xxxx\nEMAIL: zun@tienphat.vn\nGiờ làm việc: 9:00-18:00 (JST / T2-T6)\n────────────────────",
+      "notes_ja": "送付タイミング: ピッチ当日中に short ack (slide link + 持ち帰り deadline) → 翌営業日朝に本テンプレ送付。月曜詳細版には CTO+技術リード+副部長を CC。",
+      "notes_vi": "Thời điểm gửi: Trong ngày pitch — ack ngắn (link slide + deadline 持ち帰り) → sáng ngày làm việc kế tiếp gửi template này. Bản chi tiết thứ Hai nhớ CC CTO + tech lead + phó phòng."
+    }
+  ]
+}

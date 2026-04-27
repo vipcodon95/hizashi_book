@@ -1,0 +1,147 @@
+{
+  "rule_id": "rule_50",
+  "rule_slug": "振り返りと改善",
+  "title": {
+    "ja": "振り返りと改善（10項目チェックリスト）",
+    "vi": "Self-reflection cải tiến"
+  },
+  "rule_context": {
+    "ja": "金曜午後5時、ズンが今週の4会議を10項目チェックリスト（準備3+進行3+参加2+締め2）で振り返り、個人 diary file に記録する場面。",
+    "vi": "Chiều thứ Sáu 5pm. Em Dũng đã chủ trì 4 buổi họp tuần này. Tự reflect bằng checklist 10 items (3 chuẩn bị + 3 tiến hành + 2 tham gia + 2 kết thúc), ghi vào diary file."
+  },
+  "related_rules": ["rule_39", "rule_41", "rule_49"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 振り返りなし",
+      "label_vi": "XẤU — Không reflection",
+      "display_order": 1,
+      "analysis": {
+        "ja": "振り返りがないと同じミスが繰り返され、12週後にスキルが plateau になる。",
+        "vi": "Không reflect → lặp lỗi cũ → skill plateau sau 12 tuần."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_50_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "今週も会議たくさんあった。終わった、よかった。",
+          "sentence_translation": "Tuần này cũng nhiều họp. Xong rồi, tốt.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_50_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ズン、先月と同じミスを繰り返してるよ。振り返りしてる？",
+          "sentence_translation": "Dũng, em đang lặp lỗi tháng trước đấy. Có reflect không?",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 金曜15分振り返り",
+      "label_vi": "TỐT — Friday 15 phút reflection",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_50_good_02",
+          "highlight_text": "10項目チェックリストで",
+          "ja": "10項目に絞ることで網羅性と効率を両立。週15分で完了。",
+          "vi": "Giới hạn 10 items đạt cân bằng đầy đủ + hiệu quả. 15 phút/tuần xong."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_50_good_03",
+          "highlight_text": "来週は『発言挙手』を意識します",
+          "ja": "1〜2の具体的な改善ポイントに絞ることが継続の秘訣。",
+          "vi": "Chỉ tập trung 1-2 điểm cải tiến cụ thể là bí quyết duy trì."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_50_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（独白）金曜5時、今週の振り返りタイム。",
+          "sentence_translation": "(Độc thoại) 5h thứ Sáu, đến giờ reflect tuần này.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_50_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "10項目チェックリストで4会議をスコアリング。準備OK、進行OK、参加で『発言挙手なし』が2回、締めOK。",
+          "sentence_translation": "Score 4 buổi với 10 items. Chuẩn bị OK, tiến hành OK, tham gia có 2 lần 'không xin lượt nói', kết thúc OK.",
+          "tone": "neutral",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_50_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "来週は『発言挙手』を意識します。phone reminder設定。",
+          "sentence_translation": "Tuần sau tập trung vào 'xin lượt nói'. Đặt phone reminder.",
+          "tone": "neutral",
+          "annotation_ids": ["2"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_50_kp_01",
+      "speaker": "zun",
+      "sentence": "10項目チェックリストで今週の会議を振り返ります。",
+      "sentence_translation": "Em reflect các buổi họp tuần này bằng checklist 10 items.",
+      "purpose": "self-reflection 開始フレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_50_kp_02",
+      "speaker": "zun",
+      "sentence": "来週は『〇〇』を意識します。",
+      "sentence_translation": "Tuần sau tập trung vào '〇〇'.",
+      "purpose": "改善コミットフレーズ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_50_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "会議スキルを継続的に改善する最善の方法は？",
+      "options": [
+        "毎月の人事評価のみ",
+        "週末15分、10項目チェックリストで振り返り、1〜2点を翌週に改善",
+        "上司に毎日聞く",
+        "何もしない"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "週次の構造化された自己振り返り+具体的改善コミットがスキル plateau を防ぐ。",
+        "vi": "Reflection hàng tuần có cấu trúc + commit cải tiến cụ thể tránh được skill plateau."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_50_tpl_01",
+      "format": "checklist",
+      "title_ja": "会議スキル週次振り返りチェックリスト（10項目）",
+      "title_vi": "Checklist Self-Review Họp (10 items / tuần)",
+      "content_ja": "===========================================\n会議スキル週次振り返り — Week 〇〇 (〇/〇 - 〇/〇)\n===========================================\n\n■ 今週の会議数：〇 件\n  内訳：定例 〇／交渉 〇／1on1 〇／緊急 〇\n\n────────────────────────────\n A. 準備（Preparation）\n────────────────────────────\n  □ 1. アジェンダを24時間以上前に送付したか？\n  □ 2. 事前資料を24時間以上前に共有したか？\n  □ 3. 自社内の事前すり合わせを行ったか？\n\n────────────────────────────\n B. 進行（Facilitation）\n────────────────────────────\n  □ 4. 開始時刻を守ったか？\n  □ 5. ジュニアを含む全員の意見を引き出せたか？\n  □ 6. 各議題の time-box を守ったか？\n\n────────────────────────────\n C. 参加（Participation）\n────────────────────────────\n  □ 7. 異論前にクッション（「ご意見はよく分かりました」等）を入れたか？\n  □ 8. 相手発言を要約・確認（「〜という認識でよろしいでしょうか」）したか？\n\n────────────────────────────\n D. 締め（Closing）\n────────────────────────────\n  □ 9. アクションアイテムを Who/What/When で確認したか？\n  □ 10. 議事録を24時間以内に送付したか？\n\n────────────────────────────\n 【スコア】 〇 / 10\n────────────────────────────\n\n✅ 今週うまくいったこと：\n  - 〇〇\n  - 〇〇\n\n⚠ 改善が必要な点（最大2つ）：\n  1. 〇〇\n  2. 〇〇\n\n🎯 来週試すこと（1〜2点）：\n  - 〇〇\n  - 〇〇\n\n📝 メモ・気づき：\n  - 〇〇\n\n===========================================\n記録日：〇〇年〇月〇日（金）\n===========================================",
+      "content_vi": "===========================================\nSelf-review kỹ năng họp — Week 〇〇 (〇/〇 - 〇/〇)\n===========================================\n\n■ Số họp tuần này: 〇\n  Breakdown: định kỳ 〇 / đàm phán 〇 / 1on1 〇 / khẩn 〇\n\n────────────────────────────\n A. Chuẩn bị (Preparation)\n────────────────────────────\n  □ 1. Gửi agenda ≥ 24h trước?\n  □ 2. Share pre-read ≥ 24h trước?\n  □ 3. Pre-meeting check-in nội bộ?\n\n────────────────────────────\n B. Tiến hành (Facilitation)\n────────────────────────────\n  □ 4. Bắt đầu đúng giờ?\n  □ 5. Lắng nghe ý kiến mọi người (kể cả junior)?\n  □ 6. Giữ time-box mỗi item?\n\n────────────────────────────\n C. Tham gia (Participation)\n────────────────────────────\n  □ 7. Dùng cushion (「ご意見はよく分かりました」 etc.) trước khi phản đối?\n  □ 8. Tóm tắt + confirm hiểu đúng (「〜という認識でよろしいでしょうか」)?\n\n────────────────────────────\n D. Kết thúc (Closing)\n────────────────────────────\n  □ 9. Confirm action items với Who/What/When?\n  □ 10. Gửi biên bản trong 24h?\n\n────────────────────────────\n [Score]: 〇 / 10\n────────────────────────────\n\n✅ Đã làm tốt tuần này:\n  - 〇〇\n  - 〇〇\n\n⚠ Cần cải thiện (max 2 điểm):\n  1. 〇〇\n  2. 〇〇\n\n🎯 Tuần sau sẽ thử (1-2 điểm):\n  - 〇〇\n  - 〇〇\n\n📝 Note / nhận xét:\n  - 〇〇\n\n===========================================\nNgày ghi: 〇/〇/〇 (Thứ Sáu)\n===========================================",
+      "notes_ja": "毎週金曜午後（5pm前後）の15分で記入。スコアは絶対値より推移が重要。改善コミットは1〜2点に絞ること（多すぎると守れない）。月末に4週分を見直して傾向を把握。",
+      "notes_vi": "Mỗi chiều thứ Sáu (~5pm) dành 15 phút điền. Score xu hướng quan trọng hơn giá trị tuyệt đối. Commit cải tiến giới hạn 1-2 điểm (nhiều quá không giữ được). Cuối tháng review 4 tuần để thấy pattern."
+    }
+  ]
+}

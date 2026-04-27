@@ -1,0 +1,187 @@
+{
+  "rule_id": "rule_38",
+  "rule_slug": "自己診断",
+  "title": {
+    "ja": "Hou-Ren-Sou 自己診断15項目",
+    "vi": "Self-diagnostic Hou-Ren-Sou 15 mục"
+  },
+  "rule_context": {
+    "ja": "ズンが月末に自己診断する場面。self-bias で全A の悪い例から、Slack履歴+DRと照合した客観評価+具体的Action planの良い例へ。",
+    "vi": "Em Dũng tự chấm cuối tháng. Từ pattern xấu (toàn A self-bias) → đúng (đối chiếu Slack history + DR + lập action plan cụ thể)."
+  },
+  "related_rules": ["rule_12", "rule_39", "rule_40"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 全A self-bias",
+      "label_vi": "XẤU — Toàn A self-bias",
+      "display_order": 1,
+      "analysis": {
+        "ja": "記憶ベースで自己採点すると都合の悪い事実が抜け落ちる。Slack/DR/客先メールとの照合がない自己診断は信頼性ゼロ。",
+        "vi": "Tự chấm theo trí nhớ thì các sự kiện bất tiện rơi rớt. Tự chấm không đối chiếu Slack/DR/mail khách = độ tin cậy 0."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_38_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、4月の自己診断やりました。15項目中、A評価12個、B評価3個、C-D ゼロです。",
+          "sentence_translation": "Chị Hương, em đã tự chấm tháng 4. 15 mục: A 12, B 3, C-D 0 ạ.",
+          "tone": "cheerful"
+        },
+        {
+          "line_id": "rule_38_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "うん、見せて。ズン、③タイムリー報告 A?今月 Phase 2 障害で第一報を1時間遅らせたよね。⑦客先 tone は B?大垣様クレームで『そんなはずない』と言ったの忘れた?C-Dゼロは self-bias ね。",
+          "sentence_translation": "Ừ, đưa chị xem. Dũng, [3] Báo cáo kịp thời mà A? Phase 2 sự cố tháng này em chậm báo cáo đầu 1 giờ đó. [7] Tone với khách B? Lúc anh Ōgaki phàn nàn em nói 「そんなはずない」 (không thể nào) quên rồi à? C-D zero là self-bias rồi.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_38_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ…",
+          "sentence_translation": "À...",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_38_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "自己診断は厳しめが正解。A 多すぎる時は recalibration が必要。1ヶ月の Slack 履歴と照合してやり直し。",
+          "sentence_translation": "Tự chấm phải khắt khe mới đúng. A nhiều quá là phải recalibrate. Em đối chiếu Slack history 1 tháng rồi làm lại.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — evidence ベース + Action Plan",
+      "label_vi": "TỐT — Dựa evidence + Action Plan",
+      "display_order": 2,
+      "analysis": {
+        "ja": "Slack履歴とDRを照合し、C評価3件を具体ケースで列挙。Action plan に target数値+deadline+次回再診断日を含めることで、改善のループが完結。",
+        "vi": "Đối chiếu Slack + DR, list C-3 case cụ thể. Action plan có target số + deadline + ngày diagnostic lại = vòng cải thiện đóng kín."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_38_good_01",
+          "highlight_text": "Slack 履歴と DR を照合した結果",
+          "ja": "evidence ベース診断の宣言。主観ではなく客観。",
+          "vi": "Tuyên bố diagnostic dựa evidence. Khách quan thay vì chủ quan."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_38_good_02",
+          "highlight_text": "C評価 3 件: ③ タイムリー報告 〜 ⑦ 客先 tone 〜 ⑪ 複数案持参",
+          "ja": "C を具体的事案で列挙。改善対象が一目で見える。",
+          "vi": "List C bằng case cụ thể. Đối tượng cải thiện hiện ra ngay."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_38_good_04",
+          "highlight_text": "5月末に再診断、C 1 件以下を目標",
+          "ja": "next diagnostic の日付と target数値を明示。SMART な改善計画。",
+          "vi": "Show ngày diagnostic kế tiếp + target số. Action plan SMART."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_38_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、再診断しました。Slack 履歴と DR を照合した結果: A 7個、B 5個、C 3個、D ゼロです。",
+          "sentence_translation": "Chị Hương, em đã chấm lại. Đối chiếu Slack history + DR: A 7, B 5, C 3, D 0 ạ.",
+          "tone": "neutral",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_38_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "C評価 3 件: ③ タイムリー報告 (Phase 2 障害で第一報1時間遅延)、⑦ 客先 tone (大垣様クレーム時の defensive)、⑪ 複数案持参 (Redis 追加で1案提案で叱られた件)。",
+          "sentence_translation": "[C 3 cái] [3] Báo cáo kịp thời (Phase 2 sự cố em chậm 1 giờ) / [7] Tone với khách (defensive lúc anh Ōgaki phàn nàn) / [11] Mang nhiều phương án (vụ Redis em đề xuất 1 option bị anh Tuấn nhắc).",
+          "tone": "neutral",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_38_good_03",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "正直な評価ね。Action plan は?",
+          "sentence_translation": "Đánh giá thật rồi. Action plan thế nào?",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_38_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Action plan: ③ → rule 31 SLA を Slack pinned で常時可視, ⑦ → rule 32 4ステップを暗記、機械的に運用, ⑪ → 相談前に最低3案 + matrix を必須化。5月末に再診断、C 1 件以下を目標とします。",
+          "sentence_translation": "[Action plan] [3] → pin SLA rule 31 lên Slack để luôn nhìn thấy / [7] → thuộc 4 bước rule 32, áp dụng cơ học / [11] → bắt buộc 3 option + matrix trước khi tham vấn. Cuối tháng 5 chấm lại, target C ≤1 ạ.",
+          "tone": "neutral",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_38_good_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "素晴らしい。再診断は5月最終金曜、Decision Register に登録しておいて。",
+          "sentence_translation": "Tuyệt. Diagnostic lại thứ Sáu cuối tháng 5, em log vào Decision Register nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_38_kp_01",
+      "speaker": "zun",
+      "sentence": "Slack 履歴と DR を照合した結果: A 〇個、B 〇個、C 〇個、D 〇個です。C 評価は具体的に〇〇です。",
+      "sentence_translation": "Đối chiếu Slack history + DR: A 〇, B 〇, C 〇, D 〇. C cụ thể là 〇〇.",
+      "purpose": "evidence ベースの自己診断結果報告",
+      "slow_audio": false
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_38_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "Hou-Ren-Sou 月末自己診断で C-D 評価がゼロだった場合、最も適切な対応は?",
+      "options": [
+        "完璧なので何もしない",
+        "全Aを上司に報告して褒められる",
+        "Slack履歴・DR・客先メールと照合して再診断",
+        "翌月から診断頻度を半年に1回に下げる"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "C-Dゼロは self-bias の典型サイン。客観 evidence (Slack/DR/客先) と照合して recalibrate するのが正解。",
+        "vi": "C-D 0 là dấu hiệu điển hình self-bias. Đối chiếu evidence khách quan (Slack/DR/khách) để recalibrate là đúng."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_38_tpl_01",
+      "format": "checklist",
+      "title_ja": "Hou-Ren-Sou 自己診断 15項目チェックリスト",
+      "title_vi": "Checklist Self-diagnostic Hou-Ren-Sou 15 mục",
+      "content_ja": "【月末（毎月最終金曜EOD）に実施】\n評価: A=完全実施 / B=概ね実施 / C=一部不足 / D=未実施\n判定: 必ず Slack履歴 + Decision Register + 客先メール の3点と照合\n\n──────────────────────────────────────────\n■ 報告 (Hōkoku) — 5項目\n  □ ① 結論先出し: 報告冒頭で『結論:〇〇』と明示できているか?\n  □ ② Fact / Opinion 分離: 『事実として〜』『私見では〜』を意識して使っているか?\n  □ ③ タイムリー: 悪い知らせを発生から30分以内に第一報したか? (Sev1: 5分)\n  □ ④ 期限明示: Next action に必ず deadline が付いているか?\n  □ ⑤ 4文構造: 結論 → 事実 → 私見 → 対応 の構造で報告したか?\n\n■ 連絡 (Renraku) — 5項目\n  □ ⑥ 即時性: 客先からの連絡を24h以内に少なくとも ack しているか?\n  □ ⑦ 客先 tone: クレーム時に defensive せず、傾聴+復唱できたか?\n  □ ⑧ Channel 選択: Slack / Notion / Email / Outlook を題材ごとに使い分けたか?\n  □ ⑨ Audience 選択: @here / @channel / DM を適切に使い分けたか?\n  □ ⑩ EOD ログ: WFH 日に EOD ログを Slack に投稿したか?\n\n■ 相談 (Sōdan) — 5項目\n  □ ⑪ 複数案持参: 上司・客先相談時に最低2-3案 + pros/cons を持参したか?\n  □ ⑫ 仮説提示: 自分の仮説と理由を1〜2行で提示したか?\n  □ ⑬ 判断材料を求める: 『答えではなく見落とし観点』を聞く姿勢だったか?\n  □ ⑭ DR化: 相談で決まったことを Decision Register に1行残したか?\n  □ ⑮ 客先敬語: 客への相談で『ご相談させていただけますでしょうか』を使えたか?\n\n──────────────────────────────────────────\n【記録欄】\n  - 評価分布: A〇 / B〇 / C〇 / D〇\n  - C-D 評価の具体ケース:\n    1. 〇〇\n    2. 〇〇\n  - Action Plan (5月末再診断 target):\n    1. 〇〇\n    2. 〇〇\n  - 再診断予定日: 〇月〇日\n  - DR エントリ番号: DR-YYYY-MMDD",
+      "content_vi": "[Chạy cuối tháng (thứ Sáu cuối cùng EOD)]\nĐánh giá: A = đầy đủ / B = cơ bản / C = thiếu một phần / D = chưa làm\nXác định: BẮT BUỘC đối chiếu Slack history + Decision Register + mail khách\n\n──────────────────────────────────────────\n[Báo cáo (Hōkoku) — 5 mục]\n  [ ] [1] Kết luận trước: Mở báo cáo có 'Kết luận: 〇〇' rõ không?\n  [ ] [2] Tách Fact/Opinion: Có ý thức dùng 'Sự thật là...' và 'Theo ý em...' không?\n  [ ] [3] Kịp thời: Tin xấu báo cáo đầu trong 30 phút từ phát sinh? (Sev1: 5 phút)\n  [ ] [4] Show deadline: Next action có deadline cụ thể không?\n  [ ] [5] Cấu trúc 4 câu: Kết luận → Sự thật → Ý kiến → Cách xử lý đã làm chưa?\n\n[Liên lạc (Renraku) — 5 mục]\n  [ ] [6] Tức thì: Liên lạc khách trong 24h ít nhất ack chưa?\n  [ ] [7] Tone với khách: Lúc khiếu nại có lắng nghe + lặp lại thay vì defensive không?\n  [ ] [8] Chọn channel: Có chia Slack/Notion/Email/Outlook theo từng việc không?\n  [ ] [9] Chọn audience: @here / @channel / DM đã dùng đúng chưa?\n  [ ] [10] EOD log: Ngày WFH có post EOD log lên Slack chưa?\n\n[Tham vấn (Sōdan) — 5 mục]\n  [ ] [11] Mang nhiều phương án: Tham vấn sếp/khách có mang 2-3 option + pros/cons không?\n  [ ] [12] Giả thuyết: Có trình bày giả thuyết + lý do 1-2 dòng không?\n  [ ] [13] Hỏi dữ kiện: Có thái độ hỏi 'axis bỏ sót' thay vì 'cái nào hơn' không?\n  [ ] [14] DR hóa: Việc đã quyết có lưu 1 dòng vào Decision Register không?\n  [ ] [15] Kính ngữ với khách: Tham vấn khách có dùng 'ご相談させていただけますでしょうか' không?\n\n──────────────────────────────────────────\n[Mục ghi chép]\n  - Phân bổ đánh giá: A〇 / B〇 / C〇 / D〇\n  - Case cụ thể của C-D:\n    1. 〇〇\n    2. 〇〇\n  - Action Plan (target lần chấm sau cuối tháng 5):\n    1. 〇〇\n    2. 〇〇\n  - Ngày diagnostic lại: 〇/〇\n  - Số DR entry: DR-YYYY-MMDD",
+      "notes_ja": "評価は厳しめが正解。A 12個以上は自動的に self-bias 警告。C-D が 3項目以上なら mentor 1-on-1 を即座にセット。3ヶ月毎に推移をグラフ化して長期成長を見える化する。",
+      "notes_vi": "Chấm khắt khe mới đúng. A ≥12 = tự động cảnh báo self-bias. C-D ≥ 3 thì set 1-on-1 với mentor ngay. Mỗi 3 tháng vẽ chart xu hướng để thấy tăng trưởng dài hạn."
+    }
+  ]
+}

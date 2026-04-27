@@ -1,0 +1,74 @@
+# Rule 08 — Hook 30 giây mở / 30秒オープニング
+
+> **Luận điểm.** 30 giây đầu **quyết định attention**. Audience Nhật quyết định "có nghe nghiêm túc hay zoning out" trong nửa phút đầu. Hook phải **chạm vào pain của khán giả**, không phải "今日はお時間いただきありがとうございます…" rồi đi vòng. Cấu trúc: **Hook (10s) → Stake (10s) → Promise (10s)**.
+>
+> 最初の30秒で聴衆の集中を確保。「Hook(10s)→Stake(10s)→Promise(10s)」の構造。聴衆の痛みに直接触れる。
+>
+> **Liên quan:** rule 09 (自己紹介), rule 11 (フック3パターン), rule 13 (時間管理).
+
+---
+
+## Bối cảnh / 場面
+
+Pitch ngày D. Dũng đứng đầu phòng, Matsumoto + Ōgaki + Tanaka + 2 nhân viên Hakuō ngồi đối diện. 30 giây đầu — Dũng có 2 lựa chọn open.
+
+---
+
+## ❌ Hội thoại XẤU — generic intro 30 giây bay mất
+
+*立ち上がって · 時計を見る · ノートを見つめる*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「皆様、本日はお忙しい中お時間をいただきまして、誠にありがとうございます。ティエンファットの**ズン**と申します。本日は Phase 3 のご提案をさせていただきます。それでは、まず弊社のご紹介から…」 |
+| **大垣** | 「(……長いな)」 |
+| **松本** | 「(……早く本題)」 |
+
+**Vì sao xấu:** 30 giây của Dũng dùng hết cho lời chào generic + intro công ty → audience chưa nghe gì có giá trị, attention đã rớt. Hook = không có.
+
+---
+
+## ✅ Hội thoại TỐT — Hook → Stake → Promise
+
+*姿勢を整え · 顔を上げる · ペン構える*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「**Phase 2 で在庫差異5%を1.8%まで削減いたしました**【1】。(間2秒) しかし、季節商品で再発しております。本日30分で、その**残課題をどう解くか**【2】、Phase 3 の方向性を決めたく存じます。私、ティエンファットのズンと申します。」 |
+| **大垣** | 「(……お、ちゃんと数字から入った)」 |
+| **松本** | 「結構です、続けてください。」 |
+
+📝 **Ghi chú:**
+- 【1】**「Phase 2 で...削減」** — Hook = 数字 + 既知の事実. Audience 5秒 で 「自分の話」と認識.
+- 【2】**「残課題をどう解くか」** — Stake (今日決めること) を明示. これで「聞く理由」が生まれる.
+
+---
+
+## 🎯 Câu chốt
+
+> **「30秒 = Hook(数字 or 質問 or ストーリー) → Stake(今日決めること) → Promise(時間と output)。」**
+>
+> *30 giây = Hook (số liệu / câu hỏi / chuyện) → Stake (hôm nay quyết gì) → Promise (bao lâu + output).*
+
+---
+
+## ⚠ Tránh
+
+- "本日はお忙しい中…" mở đầu generic — bắt buộc nhưng không phải HOOK
+- Intro công ty trước Hook → audience không cảm thấy chuyện liên quan
+- Hook dài >15s → đã rơi vào "story mode", không còn punch
+- Đọc Hook từ slide → bị flat. Hook PHẢI nói thuộc lòng + eye contact
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 削減 | さくげん | Cắt giảm |
+| 再発 | さいはつ | Tái phát |
+| 残課題 | ざんかだい | Vấn đề còn lại |
+| 方向性 | ほうこうせい | Hướng đi |
+| 集中 | しゅうちゅう | Tập trung |
+| 痛み | いたみ | Pain (point) |
+| 構える | かまえる | Sẵn sàng (cầm bút etc) |

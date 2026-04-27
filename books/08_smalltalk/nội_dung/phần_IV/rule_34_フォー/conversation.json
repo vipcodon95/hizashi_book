@@ -1,0 +1,276 @@
+{
+  "rule_id": "08-34",
+  "rule_slug": "フォー",
+  "title": {
+    "vi": "Phở — câu chuyện văn hóa",
+    "ja": "フォーの話"
+  },
+  "rule_context": {
+    "luan_diem_vi": "Khách Nhật biết phở nhưng nông. Bạn = VN insider kể được Bắc/Nam, gà/bò, sáng/đêm, Bát Đàn/Pasteur = mở topic 20 phút.",
+    "luan_diem_ja": "日本のお客様はフォーを知っているが浅い。ベトナム人が北南・鶏牛・朝夜・名店の違いを語れば20分は持つ。",
+    "boi_canh_vi": "Tháng 5/2026, dinner Tokyo izakaya với Matsumoto/Nakamura/Yamamoto. Câu chuyện chuyển sang 'lần tới onsite Hà Nội ăn gì'.",
+    "boi_canh_ja": "2026年5月、東京の居酒屋で松本・中村・山本との会食。次回ハノイ出張の食事の話に。",
+    "muc_tieu_vi": "Học cách kể phở thành câu chuyện văn hóa hấp dẫn cho khách Nhật."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "11",
+      "topic": "Topic ăn — món địa phương"
+    },
+    {
+      "book": "08",
+      "rule": "35",
+      "topic": "Tết VN"
+    },
+    {
+      "book": "08",
+      "rule": "40",
+      "topic": "Nhà hàng Nhật ở VN"
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "Bắc vs Nam — phân loại tinh tế",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "ズンさん、来月ハノイ出張なんだけど、フォーって朝食でいいの?",
+          "vi": "Dũng, tháng sau tôi đi Hà Nội công tác, phở ăn sáng được không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、ハノイのフォーは朝6時から並ぶのが本場です。実は松本さん、フォーって北と南で全く別物なんですよ。",
+          "vi": "Vâng, phở Hà Nội bản gốc là 6h sáng xếp hàng ạ. Thật ra anh Matsumoto, phở Bắc và Nam là hai món hoàn toàn khác nhau ạ."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "えっ、そうなの?",
+          "vi": "Ơ, vậy à?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "ハノイ(北)は澄んだスープで、ネギと黒胡椒だけ。シンプルで出汁の旨味勝負。一方ホーチミン(南)はもやし・パクチー・ライム・チリソースを山ほど入れて、自分でカスタマイズします。",
+          "vi": "Hà Nội (Bắc) nước trong, chỉ hành và tiêu đen. Đơn giản, ăn vị nước dùng. Còn HCM (Nam) thêm giá, ngò, chanh, tương ớt đầy ụ, tự custom."
+        },
+        {
+          "speaker": "yamamoto_kansai",
+          "ja": "ほんま?それ全然知らんかった!ほな北の方が『きつね蕎麦』系で、南が『汁なし担々麺』系の味付け文化ってこと?",
+          "vi": "Thật á? Tôi chả biết luôn! Vậy là Bắc kiểu 'kitsune soba' còn Nam kiểu 'tantanmen không nước' về văn hóa nêm nhỉ?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "まさにその喩えがぴったりです!北=引き算の美学、南=足し算の楽しさ、です。",
+          "vi": "Đúng phép so sánh đó luôn ạ! Bắc = mỹ học phép trừ, Nam = niềm vui phép cộng."
+        }
+      ]
+    },
+    {
+      "scenario": "Gà vs Bò + thời điểm ăn (sáng-đêm)",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "ズンさん、フォーって牛が定番でしょ?",
+          "vi": "Dũng, phở thì bò là chuẩn nhỉ?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "実は地元ではフォーガー(鶏)もすごく人気です。ハノイの古い店だと、朝は鶏で夜は牛って使い分けする店もあります。",
+          "vi": "Thực ra ở VN phở gà cũng cực phổ biến. Quán cũ Hà Nội có nơi sáng bán gà, tối bán bò ạ."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "夜にも食べるんだ。",
+          "vi": "Tối cũng ăn à."
+        },
+        {
+          "speaker": "zun",
+          "ja": "はい、ハノイの24時間営業の屋台もあって、夜2時に酔っ払いが食べに来ます(笑)。日本でいう『締めのラーメン』のポジションです。",
+          "vi": "Vâng, Hà Nội có quán 24h, 2h sáng dân nhậu kéo đến (cười). Vị trí giống 'ramen chốt buổi nhậu' của Nhật."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "あー、それは分かるわ。札幌でも飲んだ後の味噌ラーメンが定番だから。",
+          "vi": "À, tôi hiểu. Ở Sapporo cũng vậy, nhậu xong miso ramen là chuẩn."
+        },
+        {
+          "speaker": "zun",
+          "ja": "なので、出張の時に夜食べる体験もぜひ。屋外のプラスチック椅子で食べるのが一番美味しいです。",
+          "vi": "Nên lần công tác này anh thử ăn buổi đêm nhé. Ngồi ghế nhựa vỉa hè là ngon nhất."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "プラスチック椅子!それ写真撮って妻に送るわ(笑)",
+          "vi": "Ghế nhựa! Tôi sẽ chụp gửi vợ (cười)"
+        }
+      ]
+    },
+    {
+      "scenario": "Bát Đàn vs Pasteur — gợi ý cụ thể",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "ハノイで一番のフォー屋、どこ?",
+          "vi": "Hà Nội phở ngon nhất ở đâu?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "3つ候補あります。①フォー・バッダン — 行列必至、自分でトレイ取りに行くスタイル。②フォー・ティン — 牛肉炒めスタイル、味濃いめ。③フォー・ザートゥエン — 観光客少なめ、地元ファン多い。",
+          "vi": "Có 3 ứng viên ạ. ① Phở Bát Đàn — chắc chắn xếp hàng, tự bê khay. ② Phở Thìn — bò xào, vị đậm. ③ Phở Gia Truyền — ít khách du lịch, fan local."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "最初の客なら、どれがいい?",
+          "vi": "Lần đầu thì chọn cái nào?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "最初はバッダンを朝7時に。並ぶの込みで体験です。但し、店員はぶっきらぼうなので、それも込みで楽しんで下さい(笑)",
+          "vi": "Lần đầu thì Bát Đàn 7h sáng. Xếp hàng coi như phần trải nghiệm. Nhưng nhân viên thô mộc, anh chuẩn bị tinh thần cùng vui nhé (cười)"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "あはは、築地の場外市場みたいなもんか。",
+          "vi": "Haha, kiểu chợ ngoài Tsukiji nhỉ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "まさに!ホーチミンならフォー・パスツールかフォー・ホア。こちらは席まで運んでくれて優しいです。",
+          "vi": "Đúng rồi ạ! Còn HCM thì Phở Pasteur hoặc Phở Hòa. Họ bưng tận bàn, dễ chịu hơn."
+        }
+      ]
+    },
+    {
+      "scenario": "Câu hỏi nguồn gốc — né khéo",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "oogaki_sales",
+          "ja": "フォーってフランスの影響なの?中華?",
+          "vi": "Phở là ảnh hưởng Pháp à? Hay Trung Hoa?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "色々説あって、面白いんですが今でも研究者が議論中でして…私は専門家じゃないので断言できないんですが、北部のナムディン省発祥説が有力と聞きます。",
+          "vi": "Có nhiều thuyết thú vị, nhưng đến giờ học giả vẫn tranh luận... Em không phải chuyên gia nên không dám khẳng định, nhưng nghe nói thuyết tỉnh Nam Định khởi nguồn là mạnh nhất."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "ふーん、ナムディン省ね。今度行ってみたい。",
+          "vi": "Hử, tỉnh Nam Định. Lần sau tôi muốn đi thử."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ナムディンのフォー村『コーレ村』ってのがあって、職人がほとんどそこ出身らしいです。",
+          "vi": "Nam Định có 'làng phở Cồ Lễ', nghe nói thợ nấu phần lớn xuất thân từ đó."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "面白いね、職人の村か。日本の蕎麦の信州みたいなもんだ。",
+          "vi": "Hay nhỉ, làng nghề. Giống Shinshu của soba Nhật vậy."
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "Mở topic",
+      "ja": "フォーって、北と南で全く別物なんですよ。",
+      "vi": "Phở thật ra Bắc Nam là hai món hoàn toàn khác.",
+      "use": "Câu mở chủ đạo"
+    },
+    {
+      "category": "Mở topic",
+      "ja": "ハノイのフォーは朝6時から並ぶのが本場です。",
+      "vi": "Phở Hà Nội bản gốc là 6h sáng xếp hàng.",
+      "use": "Tạo image vivid"
+    },
+    {
+      "category": "So sánh",
+      "ja": "北=引き算、南=足し算、の味付け文化です。",
+      "vi": "Bắc = phép trừ, Nam = phép cộng về nêm nếm.",
+      "use": "Phép so sánh đẳng cấp"
+    },
+    {
+      "category": "Quán HN",
+      "ja": "ハノイでしたら、フォー・バッダンを朝7時に。",
+      "vi": "Hà Nội thì Phở Bát Đàn 7h sáng ạ.",
+      "use": "Gợi ý cụ thể"
+    },
+    {
+      "category": "Quán HCM",
+      "ja": "ホーチミンでしたら、フォー・パスツールが定番です。",
+      "vi": "HCM thì Phở Pasteur là chuẩn.",
+      "use": "Gợi ý cụ thể"
+    },
+    {
+      "category": "Đêm",
+      "ja": "日本でいう『締めのラーメン』のポジションです。",
+      "vi": "Vị trí giống 'ramen chốt buổi nhậu' của Nhật.",
+      "use": "Bridge sang văn hóa JP"
+    },
+    {
+      "category": "Ghế vỉa hè",
+      "ja": "屋外のプラスチック椅子で食べるのが一番美味しいです。",
+      "vi": "Ngồi ghế nhựa vỉa hè ăn là ngon nhất.",
+      "use": "Image vivid khách nhớ lâu"
+    },
+    {
+      "category": "Né nguồn gốc",
+      "ja": "諸説あって、私は専門家じゃないですが…",
+      "vi": "Nhiều thuyết, em không phải chuyên gia...",
+      "use": "Né câu hỏi sâu nhạy cảm"
+    },
+    {
+      "category": "Né nguồn gốc",
+      "ja": "北部のナムディン省発祥説が有力と聞きます。",
+      "vi": "Nghe nói thuyết Nam Định khởi nguồn là mạnh nhất.",
+      "use": "Cho fact an toàn"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "お客様が「来月ハノイ出張」と言った時、フォーの話題に入る最も自然な切り出しは?",
+      "options": [
+        "A. 「ハノイのフォーは美味しいですよ」だけで終える",
+        "B. 「フォーって、北と南で全く別物なんですよ」と差異から入る",
+        "C. フォーの起源論争に詳しく入る",
+        "D. ベトナムの政治の話に展開する"
+      ],
+      "answer": "B",
+      "explain_vi": "Mở bằng 'phở Bắc Nam khác nhau' → tạo điểm thú vị, mở conversation 20 phút. A nông; C nhạy cảm; D NG."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「店員はぶっきらぼう」と説明する時、お客様に対して気をつけるべきことは?",
+      "options": [
+        "A. お客様が傷つかないよう絶対言わない",
+        "B. 笑いを誘いつつ事前に共有して、ショックを和らげる",
+        "C. 店員の悪口として強く非難する",
+        "D. 日本の店員と比較して劣っていると言う"
+      ],
+      "answer": "B",
+      "explain_vi": "Mention trước + tone hài → khách chuẩn bị tinh thần, không bị shock. KHÔNG so sánh negative với JP."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "「フォーってフランスの影響なの?」と聞かれた時、最も適切な返答は?",
+      "options": [
+        "A. 「はい、フランス植民地時代の影響です」と断言する",
+        "B. 「中華の影響です」と断言する",
+        "C. 「諸説あって、私は専門家じゃないですが…」と保留しつつ別の安全な事実を添える",
+        "D. 「政治の話なのでお答えできません」と拒否する"
+      ],
+      "answer": "C",
+      "explain_vi": "Nguồn gốc phở vùng nhạy cảm chính trị (thuộc địa Pháp / ảnh hưởng TQ) — né khéo bằng 諸説あり + add fact an toàn (làng nghề Cồ Lễ)."
+    }
+  ],
+  "templates": []
+}

@@ -1,0 +1,187 @@
+{
+  "rule_id": "rule_04",
+  "rule_slug": "オンライン会議のセットアップ",
+  "title": {
+    "ja": "オンライン会議のセットアップ",
+    "vi": "Setup video call (Zoom/Teams)"
+  },
+  "rule_context": {
+    "ja": "白鷗との月例会議がZoom開催に変更。ハイがDevOps担当、ズンと一緒にリンク・音声・画面共有・背景・録画の5点を30分前にテスト。",
+    "vi": "Buổi họp định kỳ với 白鷗 chuyển sang Zoom. Hải (DevOps) cùng Dũng test 5 điểm — link, audio, share screen, background, recording — trước họp 30 phút."
+  },
+  "related_rules": [
+    "rule_03",
+    "rule_33",
+    "rule_35",
+    "rule_36"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 直前で発覚するリンク不具合",
+      "label_vi": "XẤU — Lỗi link phát hiện sát giờ",
+      "display_order": 1,
+      "analysis": {
+        "ja": "前日のリンクをそのまま使い、有効期限切れ。客が入室できず5分遅延、信頼を損ねる。",
+        "vi": "Reuse link hôm trước — đã hết hạn. Khách không vào được, mở họp trễ 5 phút, mất uy tín."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_04_bad_01",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "ズン、Zoomリンクこれでいいよね？昨日のリンクそのまま使ったけど。",
+          "sentence_translation": "Dũng, link Zoom dùng cái này nhé? Anh dùng lại link hôm qua đấy.",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_04_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "待って、そのリンク24hでexpireするやつじゃない？松本様もう入れない可能性ある。",
+          "sentence_translation": "Khoan đã, link đó loại 24h hết hạn đúng không? Anh Matsumoto có khi không vào được rồi.",
+          "tone": "urgent"
+        },
+        {
+          "line_id": "rule_04_bad_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ズンさん、リンクが invalid と出ます。新しいリンクをお送りいただけますか？",
+          "sentence_translation": "Dũng, link báo invalid ạ. Em gửi giúp anh link mới nhé?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_04_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "申し訳ございません、ただ今新しいリンクをお送りします。",
+          "sentence_translation": "Em xin lỗi anh ạ, em gửi link mới ngay đây ạ.",
+          "tone": "apologetic"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 30分前テスト完了",
+      "label_vi": "TỐT — Test xong 30 phút trước",
+      "display_order": 2,
+      "analysis": {
+        "ja": "リンク有効期限・音声・画面共有を30分前に確認。背景blurと録画許可確認まで段取り。15分前に再ログインで余裕。",
+        "vi": "Check link/audio/screen share xong 30 phút trước. Cả background blur và xin phép recording cũng đã plan. Còn dư 15 phút margin để re-login."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_04_good_01",
+          "highlight_text": "テストOK",
+          "ja": "社内チームへの簡潔な技術報告表現。社外には「テストが完了しました」のほうが丁寧。",
+          "vi": "Báo cáo kỹ thuật ngắn gọn nội bộ. Với khách ngoài thì nên dùng 「テストが完了しました」 để lịch sự hơn."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_04_good_02",
+          "highlight_text": "録画は冒頭でご確認",
+          "ja": "録画は本人同意が必要（個人情報保護）。冒頭で必ず確認。",
+          "vi": "Recording phải xin phép (luật bảo vệ thông tin cá nhân). Bắt buộc hỏi đầu họp."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_04_good_01",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "ズン、Zoom新リンク発行済み、有効期限は明日まで。音声と画面共有もテストOKです。",
+          "sentence_translation": "Dũng, anh phát link Zoom mới rồi, hạn đến ngày mai. Audio với share screen cũng test OK.",
+          "tone": "neutral",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_04_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "サンキュ。背景は会社ロゴのblur設定にして。録画は冒頭で松本様にご確認しよう。",
+          "sentence_translation": "Cảm ơn anh. Background đặt blur có logo công ty nhé. Recording thì đầu họp mình xin phép anh Matsumoto.",
+          "tone": "warm",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_04_good_03",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "了解。リンクを松本様に再送し、Wi-Fi 不安定時の電話番号も併記しました。",
+          "sentence_translation": "OK em. Anh gửi lại link cho Matsumoto rồi, có ghi kèm số điện thoại phòng khi Wi-Fi yếu nữa.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_04_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "完璧。15分前に再ログインして待機しよう。",
+          "sentence_translation": "Hoàn hảo. 15 phút trước họp mình re-login đứng chờ luôn nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_04_kp_01",
+      "speaker": "hai",
+      "sentence": "新リンク発行済み、有効期限は〇〇まで。音声と画面共有もテストOKです。",
+      "sentence_translation": "Đã phát link mới, hạn đến 〇〇. Audio và share screen test OK.",
+      "purpose": "オンライン会議の事前報告",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_04_kp_02",
+      "speaker": "zun",
+      "sentence": "録画は冒頭でご確認しよう。",
+      "sentence_translation": "Recording đầu họp mình xin phép nhé.",
+      "purpose": "録画許可確認のリマインド",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_04_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "オンライン会議のセットアップで30分前に必ずテストすべき項目はどれか？",
+      "options": [
+        "リンク・音声・画面共有・背景・録画許可",
+        "出席者の食事の好み",
+        "会議終了後のレストラン",
+        "出席者のSNSアカウント"
+      ],
+      "correct": "A",
+      "explanation": {
+        "ja": "リンク・音声・画面共有・背景・録画の5点が事前確認の必須項目。",
+        "vi": "Link / audio / share screen / background / recording — 5 điểm phải check trước."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_04_tpl_01",
+      "format": "checklist",
+      "title_ja": "オンライン会議セットアップ・チェックリスト",
+      "title_vi": "Checklist Setup Online Meeting",
+      "content_ja": "■ オンライン会議セットアップ・チェックリスト（30分前完了）\n\n□ 1. ミーティングリンク発行・有効期限確認\n□ 2. 音声テスト（マイク・スピーカー両方）\n□ 3. 画面共有テスト（資料・デモ環境）\n□ 4. 背景設定（バーチャル背景 or 整理整頓）\n□ 5. 録画許可の意思確認（冒頭で発言予定）\n□ 6. 予備の連絡手段（電話番号・チャットID）\n□ 7. 配布資料の事前共有確認\n□ 8. ホスト権限・共同ホスト設定\n□ 9. 録画ファイル保存先（Drive / Notion）\n□ 10. 入室待機室（Waiting Room）有効化\n\n■ 15分前の再確認\n□ 再ログイン\n□ ヘッドセット接続\n□ 通知OFF（メール・Slack）\n□ 飲み物用意",
+      "content_vi": "[Checklist Setup Online Meeting - xong 30 phút trước]\n\n[ ] 1. Phát link + check hạn dùng\n[ ] 2. Test audio (cả mic và speaker)\n[ ] 3. Test share screen (tài liệu + demo)\n[ ] 4. Background (virtual hoặc dọn gọn phía sau)\n[ ] 5. Sẵn ý định xin phép recording đầu họp\n[ ] 6. Kênh liên lạc dự phòng (số đt / chat ID)\n[ ] 7. Confirm tài liệu đã gửi trước\n[ ] 8. Set host / co-host\n[ ] 9. Nơi save recording (Drive / Notion)\n[ ] 10. Bật Waiting Room\n\n[Check lại 15 phút trước]\n[ ] Re-login\n[ ] Cắm headset\n[ ] Tắt notification (mail / Slack)\n[ ] Chuẩn bị nước uống",
+      "notes_ja": "リンクは「ワンタイム」設定の場合再発行が必要。録画は必ず冒頭で許可を取る。",
+      "notes_vi": "Link kiểu 'one-time' phải phát mới mỗi buổi. Recording bắt buộc xin phép đầu họp."
+    }
+  ]
+}

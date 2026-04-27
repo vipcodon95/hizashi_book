@@ -1,0 +1,183 @@
+{
+  "rule_id": "rule_34",
+  "rule_slug": "自己評価",
+  "title": {
+    "ja": "自己評価",
+    "vi": "Self-review checklist"
+  },
+  "rule_context": {
+    "ja": "Phase 3 ピッチ翌朝。ズンは self-review skip して詳細メールに行こうとするが、フオンが12項目 rubric review を強要 → 3 strengths + 3 improvements + drill plan を抽出。",
+    "vi": "Sáng sau pitch Phase 3. Dũng định skip review để viết detailed mail. Hương yêu cầu 12-item rubric → extract 3 strengths + 3 improvements + drill plan."
+  },
+  "related_rules": ["rule_28", "rule_35"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — review skip",
+      "label_vi": "XẤU — Skip review",
+      "display_order": 1,
+      "analysis": {
+        "ja": "Review skip → 次の pitch も同じ間違い。「時間ない」は excuse。",
+        "vi": "Skip review → pitch sau lặp lỗi. 「時間ない」 là excuse."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_34_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、月曜の詳細メール書きます。Self-review は時間取れないので skip して大丈夫ですか？",
+          "sentence_translation": "Chị Hương, em viết detailed mail thứ Hai. Self-review thì không có time, em skip có được không ạ?",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_34_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ダメ。Self-review skip すると次の pitch も同じ間違いする。30分でいい、12項目 rubric で chấm。",
+          "sentence_translation": "Không được. Skip self-review thì pitch sau lặp đúng lỗi. 30 phút thôi, chấm theo 12-item rubric.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_34_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "30分も…",
+          "sentence_translation": "30 phút lận ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_34_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "Pitch 60分の半分を review に投資して初めて成長する。今やる。",
+          "sentence_translation": "Pitch 60 phút thì đầu tư nửa ngần đó vào review mới thực sự lớn được. Làm ngay đi.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 30分 review＋3+3＋drill",
+      "label_vi": "TỐT — 30 phút review + 3+3 + drill",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_34_good_01",
+          "highlight_text": "12項目平均 3.8/5",
+          "ja": "Quantitative score で経時比較可能。Phase 4, 5 ピッチで同 rubric 使用 → 改善曲線が見える。",
+          "vi": "Điểm số định lượng cho phép so sánh theo thời gian. Pitch Phase 4, 5 dùng cùng rubric → thấy đường cong cải thiện."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_34_good_02",
+          "highlight_text": "3 strengths…3 improvements",
+          "ja": "Equal split で negative spiral 防止。Strengths は scale up、improvements は action。",
+          "vi": "Equal split chống negative spiral. Strengths để scale up, improvements để action."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_34_good_04",
+          "highlight_text": "5/2 までに hook drill＋5/8 までに bridge phrase 暗唱完了",
+          "ja": "改善点に deadline + drill 必須。Review without action = wasted。",
+          "vi": "Improvement phải có deadline + drill cụ thể. Review không action = wasted."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_34_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Self-review 完了です。12項目平均 3.8/5。詳細はテンプレ添付。",
+          "sentence_translation": "Em xong self-review ạ. Trung bình 12 item là 3.8/5 ạ. Chi tiết em đính template ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_34_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "3 strengths: ①LASR 適用 (Q&A の難問対応)、②Plan B 切替 (ネット障害 30秒復旧)、③CTA 3点明示。3 improvements: ①hook が weak (data 提示遅い)、②大垣様の価格 challenge で bridge phrase 1秒遅れた、③closing recap に時間配分 -2分。",
+          "sentence_translation": "3 strengths: ① áp dụng LASR (xử Q&A khó), ② chuyển Plan B (sự cố net recover 30s), ③ CTA 3 điểm rõ. 3 improvements: ① hook yếu (đưa data trễ), ② phần price challenge của anh Ōgaki, bridge phrase em chậm 1 giây, ③ closing recap em phân bổ time -2 phút.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_34_good_03",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "いいね、具体的。hook の改善は次の pitch までに rule 11 再読 + 30秒 hook draft 5パターン作成。Bridge phrase は rule 25 暗唱で 0.5秒 reflex まで。",
+          "sentence_translation": "Tốt, cụ thể. Cải hook thì trước pitch sau đọc lại rule 11 + draft 5 pattern hook 30s. Bridge phrase thì học thuộc rule 25 đến mức reflex 0.5 giây.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_34_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "了解、5/2 までに hook drill + 5/8 までに bridge phrase 暗唱完了いたします。",
+          "sentence_translation": "Em rõ ạ. Trước 2/5 em làm xong hook drill, trước 8/5 thuộc xong bridge phrase ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_34_kp_01",
+      "speaker": "zun",
+      "sentence": "Self-review 12項目、平均 〇/5。3 strengths と 3 improvements を抽出いたしました。",
+      "sentence_translation": "Self-review 12 item, trung bình 〇/5 ạ. Em đã extract 3 strengths và 3 improvements ạ.",
+      "purpose": "Self-review 報告標準",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_34_kp_02",
+      "speaker": "zun",
+      "sentence": "〇〇までに〇〇 drill、〇〇までに〇〇 暗唱完了いたします。",
+      "sentence_translation": "Trước 〇〇 em làm xong drill 〇〇, trước 〇〇 em thuộc xong 〇〇 ạ.",
+      "purpose": "Improvement の deadline + drill commit",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_34_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "プレゼン後 self-review の最適 format は？",
+      "options": [
+        "Skip — 時間がもったいない",
+        "12項目 rubric (4 cụm) を1-5 chấm + 3 strengths + 3 improvements + deadline 付 drill",
+        "全部 NG として再修行",
+        "他人にだけ評価してもらう"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "Quantitative + qualitative + actionable。3+3 で negative spiral 防止、deadline 付き drill で実装。",
+        "vi": "Định lượng + định tính + actionable. 3+3 chống negative spiral, drill có deadline để execute."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_34_tpl_01",
+      "format": "checklist",
+      "title_ja": "プレゼン Self-review Rubric (12項目 / 30分)",
+      "title_vi": "Rubric Self-review Pitch (12 item / 30 phút)",
+      "content_ja": "【プレゼン Self-review チェックリスト】 (12項目 / 30分)\n\n評価: 1=要改善 / 2=不十分 / 3=平均 / 4=良好 / 5=優秀\n\n■ 準備 (Preparation) — 3項目\n□ 1. 7問チェックリスト埋めたか (rule 01)         _/5\n□ 2. 1-slide-1-message 守ったか (rule 02)        _/5\n□ 3. Plan B 用意 (PDF/handout/hotspot) (rule 07) _/5\n\n■ デリバリー (Delivery) — 4項目\n□ 4. Hook 30秒で attention 取れたか (rule 08)    _/5\n□ 5. 時間管理約束守ったか (rule 13)              _/5\n□ 6. 論理マーカー使ったか (rule 14)              _/5\n□ 7. アイコンタクト均等 (rule 30 - 50/50)        _/5\n\n■ Q&A — 3項目\n□ 8. LASR 適用 (rule 23)                         _/5\n□ 9. 持ち帰り適切 (rule 24)                      _/5\n□ 10. 敵対的質問 bridge phrase (rule 25)         _/5\n\n■ クロージング＋followup — 2項目\n□ 11. Recap 3 + CTA 3 (rule 26)                  _/5\n□ 12. 24h 内 acknowledgment メール (rule 28)     _/5\n\n────────────────────────────\n合計: __/60     平均: __/5\n\n【3 Strengths】 — 4-5点項目から\n1. ____\n2. ____\n3. ____\n\n【3 Improvements】 — 1-3点項目から\n1. ____ → drill: ____ までに ____\n2. ____ → drill: ____ までに ____\n3. ____ → drill: ____ までに ____\n\n【次回 pitch までの commit】\n- ____",
+      "content_vi": "[Checklist Self-review Pitch] (12 item / 30 phút)\n\nThang điểm: 1=cần cải thiện / 2=chưa đủ / 3=trung bình / 4=tốt / 5=xuất sắc\n\n[Chuẩn bị — Preparation] — 3 item\n- 1. Đã fill checklist 7 câu chưa (rule 01)         _/5\n- 2. Có giữ 1-slide-1-message không (rule 02)       _/5\n- 3. Có Plan B (PDF/handout/hotspot) chưa (rule 07) _/5\n\n[Delivery] — 4 item\n- 4. Hook 30 giây có lấy được attention không (rule 08)  _/5\n- 5. Có giữ time-keeping promise không (rule 13)         _/5\n- 6. Có dùng logical marker không (rule 14)              _/5\n- 7. Eye contact đều không (rule 30 - 50/50)             _/5\n\n[Q&A] — 3 item\n- 8. Áp dụng LASR (rule 23)                              _/5\n- 9. 持ち帰り phù hợp (rule 24)                          _/5\n- 10. Bridge phrase với câu hostile (rule 25)            _/5\n\n[Closing + Followup] — 2 item\n- 11. Recap 3 + CTA 3 (rule 26)                          _/5\n- 12. Mail acknowledgment trong 24h (rule 28)            _/5\n\n────────────────────────────\nTổng: __/60     Trung bình: __/5\n\n[3 Strengths] — chọn từ item 4-5 điểm\n1. ____\n2. ____\n3. ____\n\n[3 Improvements] — chọn từ item 1-3 điểm\n1. ____ → drill: trước ____ làm ____\n2. ____ → drill: trước ____ làm ____\n3. ____ → drill: trước ____ làm ____\n\n[Commit cho pitch tiếp theo]\n- ____",
+      "notes_ja": "Pitch 終了 24h 以内に実施。30分 fixed budget。Improvements には必ず deadline + drill。Phase 4, 5 でも同 rubric を使い改善曲線を tracking。",
+      "notes_vi": "Làm trong 24h sau pitch. Budget cố định 30 phút. Improvement bắt buộc kèm deadline + drill. Phase 4, 5 dùng cùng rubric để track đường cong cải thiện."
+    }
+  ]
+}

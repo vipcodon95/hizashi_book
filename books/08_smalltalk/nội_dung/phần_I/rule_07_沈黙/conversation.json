@@ -1,0 +1,274 @@
+{
+  "rule_id": "08-07",
+  "rule_slug": "沈黙の活用",
+  "title": {
+    "vi": "Khi im lặng — không panic",
+    "ja": "沈黙の活用"
+  },
+  "rule_context": {
+    "luan_diem_vi": "Người Việt sợ im lặng. Người Nhật xem 5-7 giây yên tĩnh là OK, thậm chí là dấu hiệu 信頼関係. Học 'ở im lặng cùng nhau' = superpower.",
+    "luan_diem_ja": "ベトナム人は沈黙を恐れる。日本人は5〜7秒の静けさをOKと感じ、信頼関係のサインとさえ捉える。一緒に黙っていられることは武器になる。",
+    "boi_canh_vi": "3 loại 沈黙: thoải mái (cùng im) / suy nghĩ (chờ) / khó xử (mới cần gợi).",
+    "boi_canh_ja": "3種の沈黙:心地よい(共に黙る)/ 思考中(待つ)/ 気まずい(初めて話題を振る)。",
+    "muc_tieu_vi": "Phân biệt 3 loại + phản ứng đúng. Không panic 3 giây đầu."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "05",
+      "topic": "聞き上手"
+    },
+    {
+      "book": "08",
+      "rule": "06",
+      "topic": "Chuyển topic"
+    },
+    {
+      "book": "08",
+      "rule": "01",
+      "topic": "Timing"
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "BAD — panic nhồi câu vô nghĩa",
+      "type": "bad",
+      "context_vi": "Nakamura đang thoải mái uống bia, im 5 giây. Dũng panic nhồi câu thời tiết.",
+      "lines": [
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "(im lặng 5 giây, mặt thoải mái, uống bia)",
+          "vi": "(im 5 giây, thoải mái, uống bia)"
+        },
+        {
+          "speaker": "zun",
+          "ja": "[NG] あ、あの、最近の天気どうですか?寒くなりましたよね、で、それで…",
+          "vi": "[NG] À, ờ, dạo này thời tiết thế nào ạ? Lạnh nhỉ, mà..."
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "…ああ、まあ、うん…",
+          "vi": "...à, ờ, ừ..."
+        }
+      ],
+      "why_bad": "Khách đang thưởng thức bia, im lặng thoải mái. Nhồi câu = khách phải reply lịch sự = mệt. Bị xem là 落ち着きがない."
+    },
+    {
+      "scenario": "GOOD — cùng im lặng, khách tự mở topic",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "(im 5 giây, uống bia, nhìn cửa sổ)",
+          "vi": "(im 5 giây, uống bia)"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(cùng im, gắp đồ, sip bia)",
+          "vi": "(cùng im, ăn nhẹ)"
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "いやあ、今日のビール、本当うまいね。",
+          "vi": "Hà, bia hôm nay ngon thật."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ですね、よく合いますね。",
+          "vi": "Vâng, hợp lắm ạ."
+        }
+      ]
+    },
+    {
+      "scenario": "Im lặng 'suy nghĩ' — chờ, không hối",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "大垣さん、もし将来ティエンファットと別の領域で組むとしたら、どんな分野が面白いと思われますか?",
+          "vi": "Anh Ōgaki, nếu sau này hợp tác với Thiên Phát ở lĩnh vực khác, anh nghĩ mảng nào sẽ thú vị ạ?"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(im 7 giây, nhíu mày suy nghĩ)",
+          "vi": "(im 7 giây, đang suy nghĩ)"
+        },
+        {
+          "speaker": "zun",
+          "ja": "(im, đợi, không panic)",
+          "vi": "(im, đợi)"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "うーん、そうやな…サステナブル系よ。今ESGがビジネスのコアになってきてるし、ベトナムの製造業と組めば面白いと思うわ。",
+          "vi": "Ừm, để xem... mảng sustainable. ESG đang là core business, hợp tác với manufacturing Việt Nam sẽ hay đó."
+        }
+      ]
+    },
+    {
+      "scenario": "BAD — hối khi khách đang suy nghĩ",
+      "type": "bad",
+      "context_vi": "Dũng hỏi câu sâu cần khách suy nghĩ. Khách im 7 giây thật sự cân nhắc. Dũng hối → cắt mạch.",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "…組むとしたら、どんな分野が面白いと思われますか?",
+          "vi": "...nếu hợp tác, anh nghĩ mảng nào hay ạ?"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "(im 7 giây)",
+          "vi": "(im 7 giây)"
+        },
+        {
+          "speaker": "zun",
+          "ja": "[NG] あ、いえ、難しい質問でしたら…",
+          "vi": "[NG] À, vâng, nếu câu khó thì..."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "いや、考えてたんよ。…まあ、いいや、また今度で。",
+          "vi": "Không, anh đang suy nghĩ mà... Thôi để khi khác."
+        }
+      ],
+      "why_bad": "Hối = ngắt mạch tư duy. Khách bỏ luôn câu trả lời chất lượng. Đúng: chờ 7-10 giây, im cùng."
+    },
+    {
+      "scenario": "Im lặng khó xử — khéo gợi topic",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "岐阜のご出身なんですね、初めて伺いました。",
+          "vi": "Anh quê Gifu nhỉ, lần đầu em được biết."
+        },
+        {
+          "speaker": "kato_gifu",
+          "ja": "ええ。",
+          "vi": "Vâng."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(im 8 giây — ánh mắt né nhau, body cứng = khó xử thật)",
+          "vi": "(im 8 giây — khó xử thật)"
+        },
+        {
+          "speaker": "zun",
+          "ja": "そういえば、先ほど松本さんに伺ったんですが、加藤さんは飛騨牛がお好きとか?",
+          "vi": "À nhân tiện, lúc nãy em nghe anh Matsumoto bảo anh Kato thích Hida-gyu lắm?"
+        },
+        {
+          "speaker": "kato_gifu",
+          "ja": "ああ!よくご存知で!毎月実家で食べないと落ち着かなくて…",
+          "vi": "À! Em biết kỹ thật! Mỗi tháng tôi không ăn ở nhà là không chịu được..."
+        }
+      ]
+    },
+    {
+      "scenario": "Sau topic cảm xúc — im lặng tôn trọng",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "…父が去年亡くなってね、今でも実家行くと、まだあそこに座ってるような気がして…",
+          "vi": "...Bố anh năm ngoái mất, giờ về nhà vẫn thấy như ông đang ngồi đó..."
+        },
+        {
+          "speaker": "zun",
+          "ja": "(im 5 giây cùng nhau, không nhồi câu)",
+          "vi": "(im 5 giây cùng nhau)"
+        },
+        {
+          "speaker": "zun",
+          "ja": "お父様への気持ち、よく伝わります。ご実家は今もあのままに?",
+          "vi": "Em cảm nhận được tình cảm anh dành cho bố. Nhà cũ vẫn để nguyên ạ?"
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "うん、母がいるから。月一は帰るようにしてるよ。",
+          "vi": "Ừ, có mẹ ở đó. Anh cố gắng mỗi tháng về một lần."
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "Cùng im",
+      "ja": "(không nói, gắp đồ / sip bia / nhìn cùng hướng)",
+      "vi": "(không nói, body relax)",
+      "use": "Im lặng thoải mái — superpower"
+    },
+    {
+      "category": "Sau cảm xúc",
+      "ja": "…そうでしたか…",
+      "vi": "...vậy ạ...",
+      "use": "Low tone, im 3 giây trước"
+    },
+    {
+      "category": "Sau cảm xúc",
+      "ja": "お話、ありがとうございます。",
+      "vi": "Cảm ơn anh đã chia sẻ.",
+      "use": "Tôn trọng share private"
+    },
+    {
+      "category": "Sau cảm xúc",
+      "ja": "…伝わります。",
+      "vi": "...em cảm nhận được.",
+      "use": "Empathy ngắn"
+    },
+    {
+      "category": "Thoát khó xử",
+      "ja": "そういえば、〜って…",
+      "vi": "À nhân tiện, về [...]",
+      "use": "CHỈ khi body language khách = thật khó xử"
+    },
+    {
+      "category": "Thoát khó xử",
+      "ja": "[周りの何か]、いいお店ですね。",
+      "vi": "[Khung cảnh] quán hay nhỉ.",
+      "use": "Comment khung cảnh = mở topic an toàn"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "お客様が5秒間黙ってビールを飲んでいる時、最も適切な対応は?",
+      "options": [
+        "A. すぐに新しい話題を振る",
+        "B. 一緒に黙って、料理を取ったり飲んだりする",
+        "C. 携帯を見る",
+        "D. お客様に質問する"
+      ],
+      "answer": "B",
+      "explain_vi": "Im lặng thoải mái = cùng im. Nhồi câu / xem điện thoại / hỏi = phá moment, mất điểm."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「間(ま)」の文化的意味として最も適切なものは?",
+      "options": [
+        "A. 単なる空白時間",
+        "B. 茶道や能から来る、意味のある『沈黙の美』",
+        "C. 会話の失敗",
+        "D. 西洋からの輸入概念"
+      ],
+      "answer": "B",
+      "explain_vi": "間 = thẩm mỹ JP từ trà đạo, 能, 俳句. Im lặng có ý nghĩa = nghệ thuật, không phải awkward."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "お客様が眉をひそめ、上を見ながら7秒黙っている時、本人の状態は?",
+      "options": [
+        "A. 質問に答えたくない",
+        "B. 真剣に考えている、待つべき",
+        "C. 怒っている",
+        "D. 退屈している"
+      ],
+      "answer": "B",
+      "explain_vi": "Body language = nhíu mày + nhìn xa = đang suy nghĩ thật. Hối = phá mạch. Đợi = answer chất lượng."
+    }
+  ],
+  "templates": []
+}

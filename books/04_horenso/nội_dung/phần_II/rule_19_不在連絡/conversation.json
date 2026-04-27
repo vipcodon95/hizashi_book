@@ -1,0 +1,155 @@
+{
+  "rule_id": "rule_19",
+  "rule_slug": "不在連絡",
+  "title": {
+    "ja": "不在連絡 (24時間前 / 代行 / 復帰 / 自動返信)",
+    "vi": "Báo vắng (nghỉ phép / nghỉ ốm)"
+  },
+  "rule_context": {
+    "ja": "ズンが従兄弟の結婚式で金曜休暇を取る場面。12時間前 DM の悪い例から、1週間前メール + 前日 Slack reminder + 4要素揃った良い例へ。",
+    "vi": "Em Dũng xin nghỉ thứ Sáu để dự đám cưới. Từ pattern xấu (DM trước 12h) sang đúng (mail trước 1 tuần + Slack reminder trước 1 ngày + đủ 4 yếu tố)."
+  },
+  "related_rules": [
+    "rule_14",
+    "rule_33"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 12時間前 + 代行なし",
+      "label_vi": "XẤU — Trước 12 giờ + không có cover",
+      "display_order": 1,
+      "analysis": {
+        "ja": "12時間前通知 + 代行者なし + 翌日に顧客会議。社内も顧客も巻き込んで迷惑。24時間前と4要素が必須。",
+        "vi": "Báo trước 12h + không có cover + ngày sau có họp khách. Phiền cả nội bộ lẫn khách. Cần 24h trước + đủ 4 yếu tố."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_19_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、明日の金曜、休みたいです。",
+          "sentence_translation": "Chị Hương, mai thứ Sáu em muốn nghỉ ạ.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_19_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "えっ、12時間前？明日松本様との会議があるよ。誰が代わる？",
+          "sentence_translation": "Hả, trước 12 giờ? Mai có họp với anh Matsumoto đấy. Ai thay em?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_19_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、忘れてました…",
+          "sentence_translation": "À em quên ạ...",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_19_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "休暇は24時間前 + 代行者指定 + 復帰日 + 自動返信が基本。今からじゃ松本様にも迷惑かかる。",
+          "sentence_translation": "Nghỉ phép phải trước 24h + chỉ định cover + ngày trở lại + auto reply. Bây giờ thì cả anh Matsumoto cũng bị phiền.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 1週間前メール + 前日 Slack + 4要素",
+      "label_vi": "TỐT — Mail trước 1 tuần + Slack trước 1 ngày + 4 yếu tố",
+      "display_order": 2,
+      "analysis": {
+        "ja": "1週間前に正式メール、前日に Slack リマインダーで二重通知。代行者を松本様会議とSlack 対応で分担し、復帰日 + 自動返信も明示。",
+        "vi": "Mail formal trước 1 tuần, Slack remind trước 1 ngày = thông báo 2 lớp. Cover phân công cho họp khách và Slack riêng, có ngày return + auto-reply."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_19_good_03",
+          "highlight_text": "代行：松本様会議はトゥアン、Slack/メール対応はハイ。復帰：4/29(月)朝礼から",
+          "ja": "代行を業務種別に分け、復帰タイミングまで明示。受け取り手が空白を埋めずに済む。",
+          "vi": "Phân cover theo loại việc, ghi rõ giờ return. Người nhận không phải đoán mò."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_19_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "件名「【休暇申請】4/26(金) 終日不在のご連絡」で、期間・復帰日・代行者・自動返信設定の4要素メールを1週間前にフオン副部長 + team CC で送信しました。",
+          "sentence_translation": "Em gửi mail tiêu đề '[Đơn nghỉ phép] 26/4 (T6) cả ngày', body có 4 phần: thời gian + ngày return + cover + auto-reply, gửi trước 1 tuần cho chị Hương + cc team ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_19_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "OK、休暇承認します。",
+          "sentence_translation": "OK, chị duyệt nghỉ phép.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_19_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "@here 念のため再連絡。明日4/26(金)1日不在。代行：松本様会議はトゥアン、Slack/メール対応はハイ。復帰：4/29(月)朝礼から。自動返信も設定済みです。",
+          "sentence_translation": "@here em remind lại. Mai 26/4 thứ Sáu em nghỉ cả ngày. Cover: họp anh Matsumoto là anh Tuấn, Slack/mail là anh Hải. Ngày trở lại: 朝礼 thứ Hai 29/4. Auto reply em đã set rồi ạ.",
+          "tone": "neutral",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_19_good_04",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "松本様会議の引き継ぎ資料、確認しました。任せて。",
+          "sentence_translation": "Tài liệu bàn giao cho họp anh Matsumoto anh check rồi. Cứ giao anh.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_19_kp_01",
+      "speaker": "zun",
+      "sentence": "〇月〇日(〇) 終日不在のご連絡です。代行：〇〇は〇〇、〇〇は〇〇。復帰：〇月〇日(〇) 朝礼から。自動返信設定済みです。",
+      "sentence_translation": "Em báo vắng cả ngày 〇/〇 (〇) ạ. Cover: 〇〇 là 〇〇, 〇〇 là 〇〇. Trở lại: 朝礼 〇/〇 (〇). Auto-reply em đã set ạ.",
+      "purpose": "不在連絡4要素テンプレート",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_19_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "計画的な休暇を取る際、最も適切な通知タイミングと内容は？",
+      "options": [
+        "前日の夜に Slack DM で「休みたい」と伝える",
+        "24時間以上前にメールで期間・復帰日・代行者・自動返信を明示",
+        "当日の朝にメールで一報のみ",
+        "口頭で上司にだけ伝える"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "計画休暇は最低24時間前、4要素（期間・復帰・代行・自動返信）を明示するのが基本。直前 + 口頭のみは不可。",
+        "vi": "Nghỉ có kế hoạch phải báo tối thiểu 24h trước, đủ 4 yếu tố (thời gian / return / cover / auto-reply). Sát giờ + chỉ miệng = không được."
+      }
+    }
+  ]
+}

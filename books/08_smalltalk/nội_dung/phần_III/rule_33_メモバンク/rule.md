@@ -1,0 +1,166 @@
+# Rule 33 — Memory bank — ghi nhớ specifics khách JP / 雑談メモバンク
+
+> **Luận điểm.** **AI** không thể nhớ thay bạn. Sau mỗi cuộc gặp khách Nhật, **trong vòng 24h** ghi vào CRM: **quê quán + món yêu thích + sport team + family info + lần gặp gần nhất said something**. **Trước cuộc gặp tiếp**, review 3 phút. Đây là **moat** mà cạnh tranh không vượt qua được — khách Nhật **cảm động sâu** khi đối tác nhớ "**con anh học cấp 2 chưa?**" sau 6 tháng.
+
+> **Ronten.** 雑談は記録なしには続かない。会った後24時間以内に出身地・好物・応援チーム・家族情報・前回発言をCRMに記録。次回会う前に3分復習。これが信頼の差別化。
+
+---
+
+## 🧠 Tâm lý JP
+
+- 日本人は「**覚えていてくれた**」事に異常に弱い → 顧客忠誠の核.
+- 但し「**しつこく覚えている感**」(stalker感) は逆効果 → さりげなく出す.
+- **3 ヶ月以上**経ったら「**お子様、もう中学生でしたっけ?**」と確認形で出すのがコツ.
+
+---
+
+## 🎬 Bối cảnh
+
+Tháng 3/2027. Dũng tổng kết 1 năm 雑談 thực chiến với 19 cast khách Nhật. Lập **Memory Bank Master Sheet** trong Notion + Salesforce CRM, chia 4 sections theo từng khách. Anh Hà CTO yêu cầu Dũng training cả team.
+
+---
+
+## 💬 4 Scenarios
+
+### 📍 Scenario 1 — SAU dinner: ghi memo trong taxi về
+
+*internal monologue, vừa kết thúc dinner với 中村CFO ở Sapporo · tự nhắc · cùng taxi*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | (Mở Notion, gõ ngay…) |
+| *— Memo —* | **DATE**: 2027-03-15 / **WHO**: 中村CFO 札幌 / **TOPIC**: ライラック・新庄ファイターズ・積丹ウニ. **NEW INFO**: 娘さん北海道大学2年(法学部), 来年留学予定スウェーデン. **REQUEST**: 次回札幌時、円山公園案内してくれる. **MOOD**: warm, 30分中村CFOしゃべり. |
+| **ズン** | "**3か月後**にメッセージ: お嬢様の留学準備、いかがですか?" |
+| **トゥアン** | 「ズン、何書いてるの?」 |
+| **ズン** | 「Memory bank。さっきの中村CFOの話、忘れる前に。3ヶ月後フォローアップに使う。」 |
+| **トゥアン** | 「俺もやらないと…iPhone のメモでもいいかな?」 |
+| **ズン** | 「最初はメモアプリで OK。慣れたらNotion + Salesforceに統合した方が検索効くよ。」 |
+
+> **VN:** **Trong vòng 30 phút sau dinner** = vàng cho memory. Trễ 1 ngày = mất 50% details.
+
+---
+
+### 📍 Scenario 2 — TRƯỚC cuộc gặp tiếp — review 3 phút
+
+*8:50 sáng, trước họp 9:00 với 松本PM, mở Notion 3 phút · vào phòng · natural mở · 目を見開く · 感動*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | (Đọc memo)… |
+| *— Memo cũ 2026-12 —* | 松本PM. 浅草下町, 江戸前寿司派, 月島いろは推し. **奥様**: 元 OL → 現在ペット同伴カフェ経営. **息子**: 高校2年 (16歳), 野球部. **次回ネタ**: 息子の野球部の進捗. |
+| **松本** | 「ズンさん、おはよう。」 |
+| **ズン** | 「松本さん、おはようございます。お元気ですか?**ご子息、たしか野球部ですよね、高3になられましたか?**」 |
+| **松本** | 「**覚えててくれたの**…!そう、今春から高3。来夏が**最後の甲子園予選**だから、本人もピリピリしてる。」 |
+| **ズン** | 「最後の夏、応援したくなりますね。**奥様のカフェ**もお元気ですか?」 |
+| **松本** | 「**カフェまで覚えてるの…**ズンさんは本当に**人を見てる**ね。今度妻を紹介するよ、東京来た時。」 |
+
+> **VN:** **3 phút Notion review** = unlock hour深 quan hệ. Khách JP cảm động "覚えててくれた" cấp số nhân.
+
+---
+
+### 📍 Scenario 3 — TRAINING team — Dũng dạy memo bank cho Linh + Hải
+
+*meeting room, white board*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「**Memory Bank の5要素** — 出身地 / 食 / Sport / 家族 / 前回話した内容。最低この5つ毎回ログる。」 |
+| **リン** | 「家族情報って、どこまでOKですか?ストーカーっぽくないですか?」 |
+| **ズン** | 「いい質問。**お客様が自分で語った範囲**だけ記録。プライベートを探って書くのはNG。**子供の学年**とか**奥様の職業**は、お客様が話してくれた時だけ。」 |
+| **ハイ** | 「タイミングは?」 |
+| **ズン** | 「**24時間以内**が黄金。**3日経つと忘れる**。**1週間で記憶が再構築**されて細部が変わる。だからdinner後タクシーでメモが理想。」 |
+| **リン** | 「Notion でテンプレートありますか?」 |
+| **ズン** | 「**templates field 見て**。**5要素 + 次回ネタ + Mood + Follow up date** 構造で。**Salesforce連携**もある。」 |
+| **ハイ** | 「次回ネタって?」 |
+| **ズン** | 「『**3ヶ月後にお子様の野球部様子を聞こう**』みたいな**自分宛リマインダー**。Salesforceでtask登録、3ヶ月後に通知が来る。」 |
+
+> **VN:** Training team = scale up. **5 elements + 24h rule + 自分宛 reminder** = system.
+
+---
+
+### 📍 Scenario 4 — 3 ヶ月後 follow-up message — natural reach out
+
+*LINE/email 中村CFOに 3 ヶ月後 reminder kêu · reply 2時間後 · internal — log lại*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | (Gõ message…) |
+| *— Email —* | 「**中村CFO** 件名: 札幌は桜の季節ですね. お世話になっております。3月にお会いした際、お嬢様のスウェーデン留学準備のお話を伺いました。**準備、いかがお進みでしょうか?** 春の札幌、円山公園の桜も気になっております。次回北海道へ伺う機会がございましたら、ぜひお茶をご一緒できれば嬉しく存じます。 ズン」 |
+| **中村CFO** | 「ズンさん、覚えてくれてありがとう。娘は来月出発予定で、本人も親もそわそわしています。**5月のGW**、札幌に来られそうですか?**円山公園の桜**、案内しますよ。」 |
+| **ズン** | (Memo更新: 5月GW visit 札幌候補. CFO 円山公園案内予定. 娘さん4月留学出発.) |
+
+> **VN:** Reach out 3 tháng sau với specific reference (お嬢様留学) = **chứng tỏ care thật**. Khách 反応 = warm + invitation. Cycle新 unlock.
+
+---
+
+## 🎯 Câu vàng copy-paste
+
+```
+■ MỞ MEMORY natural:
+「たしか前回、[topic]のお話を伺いましたが、その後いかがですか?」
+「[家族]、たしか[年齢]でしたね。お元気ですか?」
+「[sport team]、最近の調子いかがですか?」
+
+■ FOLLOW-UP MESSAGE 3 tháng sau:
+「お世話になっております。[前回会った日付]にお会いした際、[topic]のお話を伺いました。
+その後、いかがお進みでしょうか?」
+
+■ KHI khách kể info mới:
+「お聞きしてもよろしいですか — お嬢様、何年生でしたか?」
+(自然に確認 + ghi vào memo sau)
+
+■ KHI bị surprise (không nhớ):
+「申し訳ございません、ど忘れしました…もう一度お聞きしてもよろしいですか?」
+(thật thà > giả vờ nhớ)
+```
+
+---
+
+## 🗾 Memory Bank — 5 Elements
+
+| Element | Ghi gì | Khi nào hỏi lại |
+|---------|--------|----------------|
+| **1. 出身地** | 県・市・特産・dialect | Mở topic vùng quê khi gặp tiếp |
+| **2. 食** | món ưa, dị ứng, brand sake/shochu | Order dinner / お土産 |
+| **3. Sport** | Team野球/サッカー, ngôi sao yêu | Mùa giải / sau game lớn |
+| **4. 家族** | Vợ/chồng job, con tuổi/sở thích/学年, pet | 3-6 ヶ月一度 |
+| **5. 前回話題** | Topic phiếm + mood | Mở mở đầu mỗi cuộc gặp |
+
+---
+
+## ⚠ NG
+
+- **Ghi quá detail** (gay-cantik chi tiết, bệnh án) → stalker risk.
+- **Hỏi memo lúc đang gặp** ("ちょっと…メモ確認します") → unprofessional.
+- **Đợi 1 tuần** rồi mới ghi → quên 60%.
+- **Dùng từ「覚えていますよ!」** quá thường xuyên → giả tạo.
+- **Reach out 3-month follow-up** mà không có context cụ thể → spam.
+
+---
+
+## 📚 Vocab
+
+| 漢字 | よみ | Nghĩa |
+|------|------|-------|
+| 雑談メモバンク | ざつだんメモバンク | Memory bank trò chuyện |
+| 出身地 | しゅっしんち | Quê quán |
+| 好物 | こうぶつ | Món yêu |
+| 応援チーム | おうえんチーム | Đội ủng hộ |
+| 家族構成 | かぞくこうせい | Cấu trúc gia đình |
+| 学年 | がくねん | Lớp/cấp học |
+| ど忘れ | どわすれ | Quên đột ngột |
+| さりげなく | — | Tự nhiên không quá |
+| フォローアップ | — | Theo dõi sau |
+| リマインダー | — | Nhắc nhở |
+
+---
+
+## 🎓 BJT
+
+**J3 — 場面把握:** 24h sau dinner = lúc lý tưởng ghi memo.
+**J2 — 表現読解:** "覚えていてくれた" = niềm vui sâu khách JP. Use cẩn thận.
+**J1 — 発言聴解:** Catch khi khách nói "前にお話ししましたが" — họ ám chỉ mình nên nhớ — confirm hay khéo "thank for re-mention".
+
+---
+
+> **Hizashi Sách 08 — Rule 33 — 雑談メモバンク**

@@ -1,0 +1,85 @@
+# Rule 15 — Chọn channel: chat / mail / phone / チャネル選択
+
+> **Luận điểm.** Cùng 1 nội dung, channel sai = liên lạc thất bại. **Decision matrix 2 chiều: urgency × audience size**. Urgent + 1 người → phone. Urgent + team → Slack @here. Detail + 1 người → mail. Reference dài → Notion/Confluence.
+>
+> Channel 選択は **緊急度 × 受信者数** の2軸マトリクスで決める。間違えると速度・記録性・読まれる確率が崩れる。
+>
+> **Liên quan:** rule 09 (口頭/書面), rule 13 (即時性), rule 16 (Slack), rule 17 (緊急).
+
+---
+
+## Bối cảnh / 場面
+
+Em Linh (junior, vừa onboard) lần đầu cần chọn channel cho 4 tình huống. Em Dũng coach Linh decision matrix.
+
+---
+
+## ❌ Hội thoại XẤU — Linh chọn channel sai 4/4
+
+| Speaker | Câu |
+|---------|-----|
+| **リン** | 「ズンさん、4つ連絡があります：(1) 緊急バグ → メール、(2) 5月の休暇申請 → 電話、(3) 仕様書 v3 → Slack DM、(4) ハイ先輩への質問 → @channel に投稿。」 |
+| **ズン** | 「リンちゃん、**4つとも channel が逆**…落ち着いて。**緊急度** と **受信者数** で決まる。」 |
+| **リン** | 「えっ、全部間違いですか？」 |
+| **ズン** | 「(1) 緊急なら電話、(2) 休暇は記録要だからメール、(3) 仕様書は皆が見るから Notion、(4) 1人質問なら DM。」 |
+
+**Vì sao xấu:** Linh không có framework. Chọn theo cảm tính.
+
+---
+
+## ✅ Hội thoại TỐT — decision matrix
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「リンちゃん、**マトリクス** を覚えて【1】。」 |
+| **ズン** | 「**緊急 × 1人** → 電話。**緊急 × チーム** → Slack @here または @channel。**通常 × 1人** → メールまたは Slack DM。**通常 × チーム** → Slack #channel または定例。**長期参照 × 全員** → Notion/Confluence【2】。」 |
+| **リン** | 「なるほど。バグは緊急 × チームだから @channel ですね。」 |
+| **ズン** | 「正解。**ただし critical bug は電話で第一報、Slack でフォロー** — 二重に【3】。」 |
+| **リン** | 「2層に。覚えました。」 |
+
+📝 **Ghi chú:**
+- 【1】**Matrix có 5 ô** — Linh học 1 lần, dùng cả đời.
+- 【2】**「長期参照」** — info cần ai cũng tra cứu được sau này → wiki, không Slack (Slack info trôi nhanh).
+- 【3】**「critical bug は二重」** — exception: critical chỉ Slack có thể bị trôi → phone trước, Slack follow.
+
+---
+
+## Decision matrix tổng hợp
+
+| Urgency / Audience | 1 người | Team (~5-15) | Cả org / Khách |
+|---|---|---|---|
+| **Critical (< 1h)** | Phone → Slack DM follow | Phone (key person) → Slack @channel follow | Phone → Mail (formal) |
+| **Urgent (1-4h)** | Slack DM | Slack @here | Mail + Slack |
+| **Normal (1-2 days)** | Slack DM hoặc Mail | Slack #channel | Mail |
+| **Reference (long-term)** | Mail (lưu) | Notion/Confluence | Wiki + Mail link |
+| **Casual / chitchat** | Slack DM | Slack #random | (không) |
+
+---
+
+## 🎯 Câu chốt
+
+> **「緊急度 × 受信者数 → channel 決定。Critical は二重チャネル。Reference は wiki。」**
+
+---
+
+## ⚠ Tránh
+
+- Phone for casual updates — phá flow của người nhận, không lưu.
+- Mail cho urgent < 1h — sếp lướt mail mỗi 2-3h, trễ.
+- Slack DM cho team-level info — cả team cần biết, đừng giấu trong DM.
+- Notion link mà không gửi notification — không ai check Notion liên tục.
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| チャネル | chaneru | Channel |
+| 緊急度 | きんきゅうど | Mức độ khẩn |
+| 受信者 | じゅしんしゃ | Người nhận |
+| 通常 | つうじょう | Bình thường |
+| 長期参照 | ちょうきさんしょう | Tham khảo dài hạn |
+| 二重 | にじゅう | Hai lớp |
+| マトリクス | matorikusu | Matrix |
+| 流れる | ながれる | Trôi đi (mất tin) |

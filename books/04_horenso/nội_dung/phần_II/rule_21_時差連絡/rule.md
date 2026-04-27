@@ -1,0 +1,109 @@
+# Rule 21 — Liên lạc cross-timezone (VN-JP) / 海外チームへの時差連絡
+
+> **Luận điểm.** VN-JP cách 2 giờ (mùa hè), 4 giờ (Hokkaido). Khi chia sẻ thông tin với team Nhật, không nói "明日10時" mà nói "**10:00 JST (08:00 ICT)**". Quy tắc: **Always UTC anchor + async-first + daily handoff**.
+>
+> 海外チームへの時差連絡3原則：①時刻は必ず UTC または『JST (ICT)』併記、②async 前提（即返信を期待しない）、③ daily handoff message（VN PM 18時 → JP AM 9時の引き継ぎ）。
+>
+> **Liên quan:** rule 14 (broadcast), rule 16 (Slack), rule 20 (出張).
+
+---
+
+## Bối cảnh / 場面
+
+Em Dũng cộng tác với anh Tanaka PMO ở Hakuō. Lần đầu Dũng dùng "明日" mơ hồ + expect anh Tanaka reply trong 5 phút. Lần 2 áp dụng UTC anchor + async + daily handoff.
+
+---
+
+## ❌ Hội thoại XẤU — không UTC + expect sync reply
+
+*VN 16h thứ Hai, Slack · JP 18h, đã offline · VN 17h · JP 翌朝 9h*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「田中さん、明日10時から会議できますか？」 |
+| **田中PMO** | (không reply) |
+| **ズン** | 「田中さん？返信お待ちしています。」 |
+| **田中PMO** | 「ズンさん、おはようございます。『**明日10時**』が JP の明日 (火 10時 JST) なのか、VN の明日 (月翌日 10時 ICT = 火 12時 JST) なのか分からないです…」 |
+
+**Vì sao xấu:** L1 「明日」 mơ hồ vì 2 nước cùng đêm khác. L3 sai expectation — anh Tanaka đã offline. L4 ambiguity nữa: "10時" của VN hay JP?
+
+---
+
+## ✅ Hội thoại TỐT — UTC anchor + async + handoff
+
+| Speaker | Câu |
+|---------|-----|
+| **L1** | **ズン** *(VN 16h thứ Hai, Slack)* | 「田中さん、お疲れ様です。下記の時間帯で会議はいかがでしょうか？  
+  - **2026/4/22 (火) 10:00-11:00 JST (= 08:00-09:00 ICT)**【1】  
+  - **2026/4/22 (火) 14:00-15:00 JST (= 12:00-13:00 ICT)**  
+  ご都合が合う方を、明日の朝 (JST) までにお返事いただければ幸いです【2】。」 |
+| **L2** | **田中PMO** *(JP 翌朝 9:30)* | 「おはようございます。10:00 JST で確定でお願いします。」 |
+| **L3** | **ズン** *(VN 18h thứ Hai, EOD handoff Slack #phase3)* | 「**【EOD Handoff VN→JP】**【3】  
+  - Done today: 〇〇  
+  - Pending JP review: 〇〇 (PR link)  
+  - JP team が朝確認: ① 〇〇 ② 〇〇  
+  - 緊急時: トゥアン (+84-...) または ズン (24h reachable)」 |
+| **L4** | **田中PMO** *(JP 9:00 翌朝)* | 「Handoff 受領。① と ② を朝のうちに review します。」 |
+
+📝 **Ghi chú:**
+- 【1】**「JST (= 〇 ICT)」** — luôn ghi cả 2 timezone. Tránh "明日" / "明後日" mơ hồ.
+- 【2】**「明日の朝 (JST) までに」** — async expectation: "khi nào trước"chứ không phải "ngay lập tức".
+- 【3】**「EOD Handoff」** — VN end-of-day (18h ICT = 20h JST) là start-of-day JP hôm sau (9h JST). Bàn giao 1 message — JP team sáng đọc là biết tình hình.
+
+---
+
+## Time format chuẩn cross-timezone
+
+✅ **Đúng:**
+- 「2026/4/22 (火) 10:00 JST (= 08:00 ICT)」
+- 「明日朝 9:00 JST」
+- 「来週月曜午後 (JST 14時)」
+
+❌ **Sai:**
+- 「明日10時」 (whose 明日? whose 10?)
+- 「夕方」 (5pm VN ≠ 5pm JP)
+- 「お昼」
+
+---
+
+## Daily handoff routine
+
+```
+VN 18:00 ICT (= JP 20:00 JST) — VN team posts EOD handoff
+  ↓
+JP 09:00 JST (= VN 07:00 ICT) — JP team reads handoff, posts SOD reply
+  ↓
+JP 18:00 JST (= VN 16:00 ICT) — JP team posts EOD handoff
+  ↓
+VN 09:00 ICT (= JP 11:00 JST) — VN team reads
+```
+
+---
+
+## 🎯 Câu chốt
+
+> **「JST (ICT) 併記 / async 前提 / EOD Handoff message」 = cross-timezone 3 trụ cột。**
+
+---
+
+## ⚠ Tránh
+
+- 「明日」「来週」「夕方」 — relative time ambiguous khác timezone.
+- Expect Slack reply trong 5 phút khi đối phương đã EOD.
+- Schedule họp 8h JST (= 6h ICT) — VN chưa làm việc.
+- Bỏ daily handoff — JP team sáng dậy không biết VN team đã làm gì 12 giờ qua.
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 時差 | じさ | Múi giờ |
+| 海外チーム | かいがいチーム | Team nước ngoài |
+| 引き継ぎ | ひきつぎ | Bàn giao |
+| 併記 | へいき | Ghi cả hai |
+| 終業時 | しゅうぎょうじ | End of day |
+| 始業時 | しぎょうじ | Start of day |
+| 同期的 | どうきてき | Sync (đồng bộ) |
+| 非同期 | ひどうき | Async |

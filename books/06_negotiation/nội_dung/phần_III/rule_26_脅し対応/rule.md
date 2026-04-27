@@ -1,0 +1,82 @@
+# Rule 26 — Đối phó với threat / ultimatum / 脅し・最終通告への対応
+
+> **Luận đischuyển. Khách hard "¥15M でなければ Y 社に発注", "今週中に決めなければ" = pressure tactic. Pattern xử lý: **(1) Bridge phrase** ("ご指摘の点、もっともでございます"), **(2) Reframe + boundary** ("ただ弊社として〜は難しい"), **(3) Escalate to senior** (anh Hà CTO step in). Match cứng = lose deal; cave in = lose margin. Bridge + escalate = win-stay.
+>
+> 脅しや ultimatum は pressure tactic。Bridge phrase で受けて、reframe で boundary を示し、必要なら senior にエスカレーション。
+>
+> **Liên quan:** rule 27 (再アンカリング), rule 28 (撤退の作法), sách 04 escalation.
+
+---
+
+## Bối cảnh / 場面
+
+大垣 push hard cuối: "¥15M でなければ Y 社に発注". Dũng dùng bridge phrase, sau đó signal anh Hà CTO step in.
+
+---
+
+## ❌ Hội thoại XẤU — match cứng / cave-in
+
+*感情的 · 冷*
+
+| Speaker | Câu |
+|---------|-----|
+| **大垣** | 「¥15M でなければ、Y 社に発注します。今日決めてください。」 |
+| **ズン** | 「Y 社で本当に発注できるとは思えませんが…」 |
+| **大垣** | 「冗談ではなく事実です。」 |
+| **ズン** | 「では…¥15M で…」 |
+
+**Vì sao xấu:** Dũng vừa challenge khách (mất 顔) vừa cave-in giảm ¥3M trong 1 phút. Cả 2 lỗi cùng lúc. Walk-away ¥15M là biên, scope phải cắt mạnh nhưng Dũng không tỉnh.
+
+---
+
+## ✅ Hội thoại TỐT — bridge + boundary + senior escalation
+
+*2 秒沈黙 · 少し緩む · 電話で 5 分後到着、入室、挨拶後*
+
+| Speaker | Câu |
+|---------|-----|
+| **大垣** | 「¥15M でなければ、Y 社に発注します。今日決めてください。」 |
+| **ズン** | 「**ご指摘の点、もっともでございます**【1】。御社のご事情、十分に理解いたします。」 |
+| **ズン** | 「**ただ、弊社として ¥15M で Phase 2 同等スコープのご提供は粗利を割り込みますので、その場でのお返事は致しかねます**【2】。」 |
+| **ズン** | 「**重要なご決定ですので、弊社 CTO のハーをこの場にお呼びしてもよろしいでしょうか**【3】？技術面・条件面の両方で正式な回答ができるようにいたします。」 |
+| **大垣** | 「では CTO に来ていただいて構いません。」 |
+| **ハー CTO** | 「大垣様、ハーでございます。¥15M というご要望、伺いました。**¥15M でしたら scope は -30% (AI dashboard・専任 PM・SLA 99.9%→99.5%) となり、Phase 3 当初目的の達成度合いは 65% 程度になります**【4】。**Phase 2 同等のスコープであれば、弊社 walk-away ライン ¥15.5M、これは承認済みの最終条件**でございます。」 |
+| **大垣** | 「…CTO 同席ですと話が変わりますね。¥15.5M なら社内に持ち帰り検討します。」 |
+
+📝 **Ghi chú:**
+- 【1】**Bridge phrase** = de-escalation. KHÔNG argue ngay. "ご指摘の点、もっともでございます" = formal acknowledgment.
+- 【2】**Boundary phrase** "弊社として〜は難しい" — show position cứng nhưng tone polite.
+- 【3】**Senior escalation** "弊社 CTO をお呼びしてもよろしいでしょうか" — phải xin phép, không tự ý gọi.
+- 【4】**CTO 来ても scope-cut bằng số cụ thể** — "65% 達成度" là metric khiến khách nhận pain. CTO bring authority + new info.
+
+---
+
+## 🎯 Câu chốt
+
+> **「Bridge phrase で受け、boundary で抵抗、senior escalation で deescalate。Match も cave-in も両方避ける。」**
+>
+> *Bridge để đỡ, boundary để giữ vị thế, senior step in để de-escalate. Tránh cả match cứng lẫn cave-in.*
+
+---
+
+## ⚠ Tránh
+
+- "Y 社で本当にできるとは…" → challenge khách = mất 顔
+- "では ¥15M で" → cave-in giảm ¥3M trong 1 phút
+- Senior escalation không xin phép → bất lịch sự
+- Senior step in nhưng không bring new authority/info → useless escalation
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 脅し | おどし | Đe dọa |
+| 最終通告 | さいしゅうつうこく | Tối hậu thư |
+| ご指摘 | ごしてき | Lời nhận xét |
+| もっとも | もっとも | Có lý / hợp lý |
+| 粗利を割り込む | あらりをわりこむ | Phá ngưỡng margin |
+| 致しかねます | いたしかねます | Khó thực hiện được |
+| エスカレーション | esukarēshon | Escalation |
+| 達成度合い | たっせいどあい | Mức độ đạt được |

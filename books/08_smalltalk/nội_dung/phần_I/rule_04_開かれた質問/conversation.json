@@ -1,0 +1,250 @@
+{
+  "rule_id": "08-04",
+  "rule_slug": "開かれた質問・閉じた質問",
+  "title": {
+    "vi": "Câu hỏi mở vs đóng",
+    "ja": "開かれた質問・閉じた質問"
+  },
+  "rule_context": {
+    "luan_diem_vi": "Câu hỏi đóng (Yes/No) = chết flow 2 lượt. Câu hỏi mở (5W1H + いかがでしたか) = khách kể 30s tự nhiên. Đổi 1 chữ, đổi cả buổi 雑談.",
+    "luan_diem_ja": "閉じた質問の連発は『尋問されている感じ』。開かれた質問(5W1H・いかがでしたか)に変えるだけで、相手は自然に30秒語ってくれる。",
+    "boi_canh_vi": "3 cấp câu hỏi mở: formal いかがでしたか / standard どうでしたか / casual どう?",
+    "boi_canh_ja": "開かれた質問の3レベル:Formal『いかがでしたか』/ Standard『どうでしたか』/ Casual『どう?』",
+    "muc_tieu_vi": "Đổi reflex từ closed → open question. Combo 'đóng để xác nhận → mở để đào sâu'."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "02",
+      "topic": "8:2 rule"
+    },
+    {
+      "book": "08",
+      "rule": "05",
+      "topic": "聞き上手"
+    },
+    {
+      "book": "08",
+      "rule": "07",
+      "topic": "沈黙"
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "BAD — toàn câu hỏi đóng",
+      "type": "bad",
+      "context_vi": "Dũng hỏi Matsumoto về cuối tuần bằng 4 câu hỏi đóng liên tiếp. Khách trả 'ええ/いえ' và flow chết.",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "[NG] 松本さん、週末は良かったですか?",
+          "vi": "[NG] Anh Matsumoto, cuối tuần ổn không ạ?"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "ええ、まあ。",
+          "vi": "Ờ, cũng được."
+        },
+        {
+          "speaker": "zun",
+          "ja": "[NG] ゴルフ行きました?",
+          "vi": "[NG] Anh có đi golf không?"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "いえ。",
+          "vi": "Không."
+        },
+        {
+          "speaker": "zun",
+          "ja": "[NG] お子さんと過ごされましたか?",
+          "vi": "[NG] Anh ở với con à?"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "ええ。",
+          "vi": "Ừ."
+        },
+        {
+          "speaker": "zun",
+          "ja": "…そうですか…",
+          "vi": "...vậy ạ..."
+        }
+      ],
+      "why_bad": "4 câu đóng liên tiếp = thẩm vấn. Khách không có cơ hội kể, bạn cạn topic trong 30 giây. Đúng: 1 câu mở 'いかがでしたか' → khách kể 30 giây tự nhiên."
+    },
+    {
+      "scenario": "GOOD — câu hỏi mở → khách kể runny",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "松本さん、週末はいかがでしたか?",
+          "vi": "Anh Matsumoto, cuối tuần thế nào ạ?"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "いやあ、土曜日は娘の運動会でね、大変だったよ。リレーで一等になって、嬉しそうだった。",
+          "vi": "Hà, thứ 7 là hội thao của con gái, mệt thật. Nó về nhất chạy tiếp sức, vui ra mặt."
+        },
+        {
+          "speaker": "zun",
+          "ja": "運動会、いいですね!お嬢様、何年生でいらっしゃるんですか?",
+          "vi": "Hội thao thích nhỉ! Cháu học lớp mấy ạ?"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "小学4年。今ちょうど運動神経が伸びる時期みたいで…日曜は親父と釣り行ったよ、湾奥でシーバス。",
+          "vi": "Lớp 4. Đang đúng tuổi vận động phát triển... Chủ nhật tôi đi câu với bố, câu seabass ở vịnh."
+        },
+        {
+          "speaker": "zun",
+          "ja": "シーバスですか!普段はどちらの方面に釣りに?",
+          "vi": "Seabass ạ! Thường anh hay đi câu khu nào ạ?"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "東京湾の若洲海浜公園が多いかな。",
+          "vi": "Hay đi công viên biển Wakasu vịnh Tokyo."
+        }
+      ]
+    },
+    {
+      "scenario": "Combo — đóng xác nhận → mở đào sâu",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "中村さんは確か、先月札幌に戻られましたよね?",
+          "vi": "Anh Nakamura tháng trước có về Sapporo phải không ạ?"
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "そう、有給使って3日間。",
+          "vi": "Ừ, dùng phép nghỉ 3 ngày."
+        },
+        {
+          "speaker": "zun",
+          "ja": "3日間でどんな所、回られましたか?",
+          "vi": "3 ngày anh đi những đâu ạ?"
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "いやあ、ほとんど実家にいたよ。母親と買い物行ったり、旧友と飲んだり…でね、藻岩山に登ったんだ、夜景見に。",
+          "vi": "Hà, chủ yếu ở nhà mẹ. Đi chợ với mẹ, nhậu với bạn cũ... À, anh leo núi Moiwa ngắm dạ cảnh."
+        },
+        {
+          "speaker": "zun",
+          "ja": "藻岩山の夜景、どんな感じですか?東京タワーから見るのとずいぶん違いますか?",
+          "vi": "Dạ cảnh từ Moiwa thế nào ạ? Khác nhiều so với tháp Tokyo không ạ?"
+        }
+      ]
+    },
+    {
+      "scenario": "Mở 'có ý' — lồng context vùng miền",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "大垣さん、関西の食文化って関東と全然違いますよね。普段、東京での食事で何か物足りないなって思うこと、ありますか?",
+          "vi": "Anh Ōgaki, văn hóa ẩm thực Kansai khác Kanto hoàn toàn nhỉ. Anh ăn uống ở Tokyo có cảm thấy thiếu gì không ạ?"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "ああ、それね!うどんよ。関東のうどん、汁が黒すぎる。関西の透き通った出汁が恋しくてね。",
+          "vi": "À, có chứ! Udon. Udon Kanto nước đen quá. Tôi nhớ nước dùng trong vắt kiểu Kansai."
+        },
+        {
+          "speaker": "zun",
+          "ja": "そんなに違うんですね。東京でも関西風出汁の店、ご存知ですか?",
+          "vi": "Khác đến vậy ạ. Tokyo có quán nào nước dùng kiểu Kansai không anh biết không ạ?"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "あるよ、丸の内の『つるとんたん』とか、本格的でね。今度ご一緒しましょう。",
+          "vi": "Có chứ, 'Tsurutontan' ở Marunouchi, đúng vị lắm. Lần sau đi cùng nhé."
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "Formal mở",
+      "ja": "〜はいかがでしたか?",
+      "vi": "[Cái gì đó] thế nào ạ?",
+      "use": "Senior + khách mới"
+    },
+    {
+      "category": "Formal mở",
+      "ja": "〜について、どのようにお考えですか?",
+      "vi": "Về [vấn đề], anh nghĩ thế nào ạ?",
+      "use": "Hỏi ý kiến"
+    },
+    {
+      "category": "Standard mở",
+      "ja": "最近どうですか?",
+      "vi": "Dạo này thế nào ạ?",
+      "use": "Khách thân vừa — thay 'お元気ですか'"
+    },
+    {
+      "category": "Standard mở",
+      "ja": "〜って、どんな感じですか?",
+      "vi": "[Cái gì] cảm giác thế nào ạ?",
+      "use": "Đào sâu cảm xúc"
+    },
+    {
+      "category": "Combo",
+      "ja": "[xác nhận fact]ですよね?で、どんな具合でしたか?",
+      "vi": "[Xác nhận]... đúng chứ ạ? Mà, kết quả thế nào ạ?",
+      "use": "Đóng → mở combo"
+    },
+    {
+      "category": "Có ý",
+      "ja": "[context vùng miền]、〜って、何かありますか?",
+      "vi": "[Context], có gì [...] không ạ?",
+      "use": "Khách có nguyên cớ kể sâu"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "次のうち、開かれた質問はどれですか?",
+      "options": [
+        "A. 週末良かった?",
+        "B. ゴルフ行きました?",
+        "C. 週末はいかがでしたか?",
+        "D. お元気ですか?"
+      ],
+      "answer": "C",
+      "explain_vi": "C dùng いかがでしたか = mở. A/B/D đều là Yes/No câu hỏi đóng."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「いかがでしたか」と「良かったですか」の違いは?",
+      "options": [
+        "A. 同じ意味",
+        "B. 「いかがでしたか」は丁寧度が高く、相手に自由な答えを促す開かれた質問",
+        "C. 「良かったですか」はより丁寧",
+        "D. 関西弁の違い"
+      ],
+      "answer": "B",
+      "explain_vi": "いかがでしたか = formal mở; 良かったですか = đóng (trả lời Yes/No)."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "閉じた質問が3回連続した時、お客様が感じる本音は?",
+      "options": [
+        "A. 興味を持ってくれて嬉しい",
+        "B. 尋問されているような圧迫感",
+        "C. 親しみを感じる",
+        "D. 何も感じない"
+      ],
+      "answer": "B",
+      "explain_vi": "Câu hỏi đóng dồn dập = cảm giác 尋問. Phải break bằng câu hỏi mở + react."
+    }
+  ],
+  "templates": []
+}

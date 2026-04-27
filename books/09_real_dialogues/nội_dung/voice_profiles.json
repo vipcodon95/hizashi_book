@@ -1,0 +1,390 @@
+{
+  "$schema_note": "Voice profiles cho TTS pipeline. Map speaker key → voice traits. Trường tts_voice_hint là gợi ý cho Google/Azure/OpenAI TTS, có thể thay bằng provider khác.",
+  "version": "1.4",
+  "last_updated": "2027-04-27 (sách 09 実践会話 — thêm 4 speakers: hung_thanh_ha + inoue_hakuo + zun_inner + nhân vật phụ generic)",
+  "speakers": {
+    "zun": {
+      "name_ja": "ズン",
+      "name_vi": "em Dũng",
+      "full_name_vi": "Trần Văn Dũng",
+      "company": "ティエンファット社 / Cty Thiên Phát (Việt Nam)",
+      "role_ja": "営業部 BD担当",
+      "role_vi": "Chuyên viên BD, phòng Kinh doanh",
+      "gender": "male",
+      "age_range": "25-30",
+      "voice_traits": [
+        "polite",
+        "mid-pitch",
+        "earnest",
+        "slightly nervous with new clients"
+      ],
+      "tts_voice_hint": "ja-JP-Wavenet-D",
+      "notes": "Nhân vật chính. Là người Việt nói tiếng Nhật business — nên có chút accent VN nếu TTS có option."
+    },
+    "fuon": {
+      "name_ja": "フオン副部長",
+      "name_vi": "chị Hương",
+      "full_name_vi": "Nguyễn Thị Hương",
+      "company": "ティエンファット社",
+      "role_ja": "営業部 副部長",
+      "role_vi": "Phó phòng Kinh doanh",
+      "gender": "female",
+      "age_range": "35-40",
+      "voice_traits": [
+        "authoritative",
+        "warm with juniors",
+        "decisive on phone"
+      ],
+      "tts_voice_hint": "ja-JP-Wavenet-A"
+    },
+    "tuan_leader": {
+      "name_ja": "トゥアンリーダー",
+      "name_vi": "anh Tuấn",
+      "full_name_vi": "Lê Anh Tuấn",
+      "company": "ティエンファット社",
+      "role_ja": "技術チームリーダー",
+      "role_vi": "Tech lead",
+      "gender": "male",
+      "age_range": "30-35",
+      "voice_traits": [
+        "technical",
+        "concise",
+        "patient when explaining"
+      ],
+      "tts_voice_hint": "ja-JP-Wavenet-D"
+    },
+    "loan_keiri": {
+      "name_ja": "ロアン経理部長",
+      "name_vi": "chị Loan",
+      "full_name_vi": "Nguyễn Thị Loan",
+      "company": "ティエンファット社",
+      "role_ja": "経理部長",
+      "role_vi": "Kế toán trưởng",
+      "gender": "female",
+      "age_range": "35-40",
+      "voice_traits": [
+        "careful",
+        "detail-oriented",
+        "polite-firm"
+      ],
+      "tts_voice_hint": "ja-JP-Wavenet-B"
+    },
+    "linh": {
+      "name_ja": "リン",
+      "name_vi": "em Linh",
+      "full_name_vi": "Phạm Thị Linh",
+      "company": "ティエンファット社",
+      "role_ja": "マーケティング部インターン",
+      "role_vi": "Thực tập sinh Marketing",
+      "gender": "female",
+      "age_range": "22-25",
+      "voice_traits": [
+        "young",
+        "eager",
+        "occasionally nervous"
+      ],
+      "tts_voice_hint": "ja-JP-Wavenet-A"
+    },
+    "hai": {
+      "name_ja": "ハイ",
+      "name_vi": "em Hải",
+      "full_name_vi": "Phan Văn Hải",
+      "company": "ティエンファット社",
+      "role_ja": "FE/DevOps エンジニア",
+      "role_vi": "Kỹ sư FE / DevOps",
+      "gender": "male",
+      "age_range": "25-30",
+      "voice_traits": [
+        "casual-polite",
+        "fast-talker",
+        "tech background"
+      ],
+      "tts_voice_hint": "ja-JP-Wavenet-D"
+    },
+    "ha_cto": {
+      "name_ja": "ハー",
+      "name_vi": "anh Hà",
+      "full_name_vi": "Nguyễn Văn Hà",
+      "company": "ティエンファット社",
+      "role_ja": "CTO",
+      "role_vi": "Giám đốc Công nghệ",
+      "gender": "male",
+      "age_range": "30-35",
+      "voice_traits": [
+        "thoughtful",
+        "executive tone",
+        "selects words"
+      ],
+      "tts_voice_hint": "ja-JP-Wavenet-C"
+    },
+    "matsumoto": {
+      "name_ja": "松本PM",
+      "name_vi": "anh Matsumoto",
+      "full_name_vi": "Matsumoto Akira (松本明)",
+      "company": "白鷗株式会社 / Cty Hakuō (Nhật, khách hàng)",
+      "role_ja": "プロジェクトマネージャー",
+      "role_vi": "Project Manager",
+      "gender": "male",
+      "age_range": "45-50",
+      "voice_traits": [
+        "formal Japanese client",
+        "patient",
+        "low-mid pitch",
+        "native Japanese"
+      ],
+      "tts_voice_hint": "ja-JP-Wavenet-C",
+      "notes": "Khách hàng Nhật chính — accent native, formal level cao."
+    },
+    "reception_hakuo": {
+      "name_ja": "白鷗社 受付",
+      "name_vi": "Lễ tân Hakuō",
+      "full_name_vi": "(không tên cụ thể)",
+      "company": "白鷗株式会社",
+      "role_ja": "受付担当",
+      "role_vi": "Lễ tân",
+      "gender": "female",
+      "age_range": "25-35",
+      "voice_traits": [
+        "very polite",
+        "trained corporate voice",
+        "high pitch",
+        "native Japanese"
+      ],
+      "tts_voice_hint": "ja-JP-Wavenet-A",
+      "notes": "Người đầu tiên bắt máy khi gọi vào số đại diện 白鷗. Xuất hiện ở rule 11, 31, 55..."
+    },
+    "nakamura_cfo": {
+      "name_ja": "中村CFO",
+      "name_vi": "anh Nakamura",
+      "full_name_vi": "Nakamura (中村)",
+      "company": "白鷗株式会社",
+      "role_ja": "CFO",
+      "role_vi": "Giám đốc Tài chính",
+      "gender": "male",
+      "age_range": "50-55",
+      "voice_traits": [
+        "senior executive",
+        "deliberate pace",
+        "slow + precise"
+      ],
+      "tts_voice_hint": "ja-JP-Wavenet-C",
+      "notes": "Đã giới thiệu ở Sách 01 Rule 38. Người giới thiệu Matsumoto cho Dũng."
+    },
+    "oogaki_sales": {
+      "name_ja": "大垣 営業部長",
+      "name_vi": "anh Ōgaki",
+      "full_name_vi": "Ōgaki (大垣)",
+      "company": "白鷗株式会社",
+      "role_ja": "営業部長",
+      "role_vi": "Giám đốc Kinh doanh",
+      "gender": "male",
+      "age_range": "45-50",
+      "voice_traits": [
+        "sharp negotiator",
+        "direct",
+        "mid-low pitch",
+        "native Japanese",
+        "occasionally probing"
+      ],
+      "tts_voice_hint": "ja-JP-Wavenet-C",
+      "notes": "Mới thêm cho sách 03 Meeting. Vai đối tác đàm phán hợp đồng phase 2. Tone formal nhưng straight-to-the-point hơn Matsumoto."
+    },
+    "tanaka_pmo": {
+      "name_ja": "田中PMO",
+      "name_vi": "anh Tanaka",
+      "full_name_vi": "Tanaka (田中)",
+      "company": "白鷗株式会社",
+      "role_ja": "PMO担当",
+      "role_vi": "PMO Support",
+      "gender": "male",
+      "age_range": "30-35",
+      "voice_traits": [
+        "organized",
+        "detail-oriented",
+        "Slack-heavy communicator",
+        "polite-direct",
+        "native Japanese"
+      ],
+      "tts_voice_hint": "ja-JP-Wavenet-D",
+      "notes": "Mới thêm cho sách 04 HouRenSou. Vai tracking liên lạc qua Slack channel + check-in async. Tone formal-friendly, hay dùng tiếng Anh tech term."
+    },
+    "unknown_caller": {
+      "name_ja": "不明発信者",
+      "name_vi": "Người gọi không rõ danh tính",
+      "full_name_vi": "(placeholder)",
+      "company": "(không xác định)",
+      "role_ja": "未確認",
+      "role_vi": "Chưa xác định",
+      "gender": "neutral",
+      "age_range": "30-50",
+      "voice_traits": [
+        "varies"
+      ],
+      "tts_voice_hint": "ja-JP-Wavenet-D",
+      "notes": "Dùng cho rule wrong number, hoặc khi chưa biết người gọi là ai. BJT hay test pattern này."
+    },
+    "hiroshi_chugoku": {
+      "name_ja": "広島部長",
+      "name_vi": "anh Hiroshi (広島さん)",
+      "full_name_vi": "Hiroshi (sếp Hiroshima)",
+      "company": "白鷗株式会社",
+      "role_ja": "関西支店長",
+      "role_vi": "Giám đốc chi nhánh Kansai (gốc Hiroshima)",
+      "gender": "male",
+      "age_range": "50-55",
+      "voice_traits": [
+        "cuồng カープ",
+        "hơi giọng địa phương Chūgoku",
+        "hào hứng khi nói về okonomiyaki"
+      ],
+      "tts_voice_hint": "ja-JP-Wavenet-D",
+      "notes": "Hiroshima-ben nhẹ. Topic gold: 広島カープ, 広島お好み焼, 牡蠣, 宮島."
+    },
+    "yamamoto_kansai": {
+      "name_ja": "山本マネージャー",
+      "name_vi": "chị Yamamoto",
+      "full_name_vi": "Yamamoto Yuki",
+      "company": "白鷗株式会社",
+      "role_ja": "大阪支店 BDマネージャー",
+      "role_vi": "Manager BD chi nhánh Osaka",
+      "gender": "female",
+      "age_range": "35-40",
+      "voice_traits": [
+        "Kansai-ben tự nhiên (\"ほんま\"/\"せやな\")",
+        "food blogger",
+        "cười nhiều"
+      ],
+      "tts_voice_hint": "ja-JP-Wavenet-B",
+      "notes": "Osaka native. Kansai-ben thoải mái. Topic gold: たこ焼/お好み焼, 阪神タイガース, 食べ歩き."
+    },
+    "sato_kyushu": {
+      "name_ja": "佐藤先生",
+      "name_vi": "anh Sato",
+      "full_name_vi": "Sato Kenji",
+      "company": "白鷗株式会社",
+      "role_ja": "福岡支店リード",
+      "role_vi": "Trưởng chi nhánh Fukuoka (senior)",
+      "gender": "male",
+      "age_range": "58-62",
+      "voice_traits": [
+        "Hakata-ben nhẹ",
+        "nói chậm rãi senior",
+        "thích shochu"
+      ],
+      "tts_voice_hint": "ja-JP-Wavenet-C",
+      "notes": "Senior 60t. Hakata accent. Topic gold: 博多ラーメン, ホークス, 屋台, 焼酎. Cẩn thận keigo."
+    },
+    "kobayashi_okinawa": {
+      "name_ja": "小林さん",
+      "name_vi": "anh Kobayashi",
+      "full_name_vi": "Kobayashi Daichi",
+      "company": "白鷗株式会社",
+      "role_ja": "沖縄出張担当",
+      "role_vi": "Phụ trách công vụ Okinawa",
+      "gender": "male",
+      "age_range": "42-48",
+      "voice_traits": [
+        "relaxed",
+        "pace chậm \"沖縄時間\"",
+        "thân thiện"
+      ],
+      "tts_voice_hint": "ja-JP-Wavenet-D",
+      "notes": "Okinawa native. Văn hóa Ryūkyū riêng. Topic gold: ゴーヤチャンプル, 泡盛, 三線, 海."
+    },
+    "ito_nagoya": {
+      "name_ja": "伊藤さん",
+      "name_vi": "anh Ito",
+      "full_name_vi": "Ito Hideki",
+      "company": "白鷗株式会社",
+      "role_ja": "名古屋支店",
+      "role_vi": "Chi nhánh Nagoya",
+      "gender": "male",
+      "age_range": "45-50",
+      "voice_traits": [
+        "cẩn trọng kiểu Nagoya",
+        "mê味噌",
+        "logic"
+      ],
+      "tts_voice_hint": "ja-JP-Wavenet-D",
+      "notes": "Aichi native. Nagoya mindset (慎重・コスパ重視). Topic gold: 味噌カツ, ひつまぶし, 中日ドラゴンズ, トヨタ."
+    },
+    "kato_gifu": {
+      "name_ja": "加藤さん",
+      "name_vi": "anh Kato",
+      "full_name_vi": "Kato Susumu",
+      "company": "白鷗株式会社",
+      "role_ja": "中部協力先 担当",
+      "role_vi": "Phụ trách đối tác miền Trung (Gifu base)",
+      "gender": "male",
+      "age_range": "50-55",
+      "voice_traits": [
+        "Hida-Takayama dialect nhẹ",
+        "mê 飛騨牛",
+        "tự hào về 白川郷"
+      ],
+      "tts_voice_hint": "ja-JP-Wavenet-D",
+      "notes": "Gifu native (Hida-Takayama). Topic gold: 飛騨牛, 白川郷 (UNESCO), 関の刃物, 美濃焼, 朴葉味噌, 鵜飼."
+    },
+    "hung_thanh_ha": {
+      "name_ja": "フン",
+      "name_vi": "anh Hùng (Thanh Hà)",
+      "full_name_vi": "Phạm Quốc Hùng",
+      "company": "タインハー・ソフトウェア / Cty Thanh Hà Software (đối thủ Tien Phat, có Tokyo office)",
+      "role_ja": "東京支店 BD 部長",
+      "role_vi": "Trưởng BD chi nhánh Tokyo",
+      "gender": "male",
+      "age_range": "28-32",
+      "voice_traits": [
+        "Vietnamese accent thoải mái",
+        "JP fluent business level (5 năm Tokyo)",
+        "casual với Dũng vì bạn cũ thời sinh viên"
+      ],
+      "tts_voice_hint": "ja-JP-Wavenet-D",
+      "notes": "Mới sách 09. Bạn cũ Dũng từ thời sinh viên HCMC, sang Nhật 5 năm. Đại diện đối thủ VN tại event/triển lãm JP."
+    },
+    "inoue_hakuo": {
+      "name_ja": "井上",
+      "name_vi": "anh Inoue",
+      "full_name_vi": "Inoue (井上)",
+      "company": "白鷗株式会社",
+      "role_ja": "プロダクトマネージャー / 営業企画",
+      "role_vi": "Product Manager / Sales planning",
+      "gender": "male",
+      "age_range": "38-42",
+      "voice_traits": [
+        "Tokyo native",
+        "booth runner năng lượng cao",
+        "polite-warm",
+        "cảm ơn nhiều"
+      ],
+      "tts_voice_hint": "ja-JP-Wavenet-C",
+      "notes": "Mới sách 09. Booth lead 白鷗 cho Smart Bank Assistant. Lần đầu Dũng gặp ở chương 1 IT Week."
+    },
+    "zun_inner": {
+      "name_ja": "(ズンの内心)",
+      "name_vi": "(Dũng nội tâm)",
+      "full_name_vi": "Trần Văn Dũng — internal monologue",
+      "company": "ティエンファット社",
+      "role_ja": "narration",
+      "role_vi": "narration",
+      "gender": "male",
+      "age_range": "25-30",
+      "voice_traits": [
+        "narration mode",
+        "thoughtful",
+        "italic style trong .md"
+      ],
+      "tts_voice_hint": "skip-tts",
+      "notes": "Speaker key dành riêng cho internal monologue Dũng. Field 'ja' để rỗng, field 'vi' chứa monologue VN. Render .md là dòng italic *[Dũng nghĩ: ...]*. Skip TTS."
+    },
+    "_generic_npc_note": {
+      "name_ja": "(汎用 NPC)",
+      "name_vi": "(NPC phụ)",
+      "company": "(varies)",
+      "role_ja": "various",
+      "role_vi": "various",
+      "tts_voice_hint": "ja-JP-Wavenet-D",
+      "notes": "Sách 09 dùng nhiều NPC phụ 1-time appearance: customs_officer, reception_hotel, okami_ryokan, nakai, stage_manager, mc_wedding, wedding_staff, priest, yumi_wife, tanaka_father, friend_speech, table_guest_1/2/3, guest_1/2/3, sasaki_dev, hayashi_bd, reporter_jp, analyst_jp, konbini_staff, jal_staff, caddie_nu, moderator, all, all_jp. Đều là NPC voice generic, không cần profile riêng."
+    }
+  }
+}

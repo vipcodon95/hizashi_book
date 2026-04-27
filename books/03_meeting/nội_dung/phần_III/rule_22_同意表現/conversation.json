@@ -1,0 +1,159 @@
+{
+  "rule_id": "rule_22",
+  "rule_slug": "同意の表現5段階",
+  "title": {
+    "ja": "同意の表現（5段階）",
+    "vi": "Đồng ý lịch sự — 5 levels"
+  },
+  "rule_context": {
+    "ja": "松本PMが7月末リリースを提案。ズンは方向性は受け入れるが、スコープ内訳により時間が必要な可能性を残したい場面。「概ね同意」レベルで応答する。",
+    "vi": "Anh Matsumoto đề xuất release cuối tháng 7. Em Dũng đồng ý hướng nhưng cần kiểm tra feasibility scope. Phải dùng level 'đồng ý đại thể' chứ không full commit."
+  },
+  "related_rules": [
+    "rule_23",
+    "rule_24",
+    "rule_31"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 全てに「はい大丈夫」",
+      "label_vi": "XẤU — 'Vâng OK ạ' cho mọi thứ",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「大丈夫です」は完全同意・確約と取られる。後で遅延が起きると約束違反として信頼が下がる。",
+        "vi": "「大丈夫です」 = full commit. Khi sau đó slip → bị coi vi phạm cam kết → mất trust."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_22_bad_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "7月末リリースで進めたいと考えております。",
+          "sentence_translation": "Tôi muốn tiến hành theo hướng release cuối tháng 7.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_22_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "はい、大丈夫です。",
+          "sentence_translation": "Vâng, OK ạ.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_22_bad_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "では、その方向で確定します。",
+          "sentence_translation": "Vậy chốt theo hướng đó nhé.",
+          "tone": "formal"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 「概ね同意」レベルで応答",
+      "label_vi": "TỐT — Trả lời level 'đồng ý đại thể'",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_22_good_02",
+          "highlight_text": "方向性につきましては概ね同意でございます",
+          "ja": "5段階の Level 2「概ね同意」。方向OK・詳細確認必要のニュアンス。",
+          "vi": "Level 2 trong 5 mức: 'concept OK, chi tiết cần check'."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_22_good_02",
+          "highlight_text": "実現可否をご報告したく存じます",
+          "ja": "即決を避け、社内検討の時間を確保する常套句。",
+          "vi": "Câu chuẩn để mua thời gian check feasibility nội bộ trước khi commit."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_22_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "7月末リリースで進めたいと考えております。",
+          "sentence_translation": "Tôi muốn tiến hành theo hướng release cuối tháng 7.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_22_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "方向性につきましては概ね同意でございます。ただ、スコープの内訳によっては時間が必要な箇所もございますので、概要を確認させていただいた上で、改めて実現可否をご報告したく存じます。",
+          "sentence_translation": "Về hướng tổng thể em đồng ý đại thể ạ. Tuy nhiên tuỳ scope chi tiết có thể có phần cần thêm thời gian, em xin được kiểm tra overview rồi báo lại feasibility ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_22_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "なるほど。ではスコープを共有しますので、来週水曜までに feasibility をいただけますか？",
+          "sentence_translation": "Vậy à. Tôi sẽ share scope, Dũng cho tôi feasibility trước thứ Tư tuần sau được không?",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_22_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "承知しました。",
+          "sentence_translation": "Vâng em rõ ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_22_kp_01",
+      "speaker": "zun",
+      "sentence": "方向性につきましては概ね同意でございます。",
+      "sentence_translation": "Về hướng tổng thể em đồng ý đại thể ạ.",
+      "purpose": "Level 2: 概ね同意 の標準フレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_22_kp_02",
+      "speaker": "zun",
+      "sentence": "改めて実現可否をご報告したく存じます。",
+      "sentence_translation": "Em xin được report lại feasibility sau ạ.",
+      "purpose": "即決を避ける表現",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_22_bjt_01",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "方向性は受け入れるが、詳細は社内確認が必要。最も適切な応答はどれか？",
+      "options": [
+        "はい、大丈夫です",
+        "方向性につきましては概ね同意でございます。詳細は別途確認させてください",
+        "ちょっと無理かもしれません",
+        "全くおっしゃるとおりです"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "Aは完全同意で後でリスク。Cは弱い拒否で議論を止める。Dは完全同意で詳細確認の余地なし。Bが「概ね同意」を正確に表す。",
+        "vi": "A = full commit có rủi ro. C mơ hồ phủ định. D = full commit không kiểm tra được. B đúng level 'đồng ý đại thể'."
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "rule_id": "rule_54",
+  "rule_slug": "マイクオフ・オンの礼儀",
+  "title": {
+    "ja": "マイクオフ・オンの礼儀",
+    "vi": "Mute/unmute etiquette"
+  },
+  "rule_context": {
+    "ja": "オンライン会議で発言時のみアンミュート、終わったらミュート。発言冒頭に名乗りを付ける。",
+    "vi": "Trong họp online — phát biểu mới unmute, xong thì mute. Mở lời bằng tự xưng."
+  },
+  "related_rules": [
+    "rule_52",
+    "rule_57"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "アンミュート後0.5秒待機で音声同期確保。名乗り→質問予告→質問本文の流れ。",
+        "vi": "Sau khi unmute chờ 0.5s để âm thanh sync. Tự xưng → báo có câu hỏi → câu hỏi."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_54_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ご質問ございますでしょうか？",
+          "sentence_translation": "Có câu hỏi nào không ạ?",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_54_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当 (アンミュート後)",
+          "gender": "male",
+          "sentence": "ティエンファットのズンですが、1点よろしいでしょうか？",
+          "sentence_translation": "Em Dũng bên Thiên Phát ạ, em xin hỏi 1 điểm được không ạ?",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_54_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "はい、どうぞ。",
+          "sentence_translation": "Vâng, em hỏi đi.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_54_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "契約条件の確認をさせてください。",
+          "sentence_translation": "Em xin xác nhận điều khoản hợp đồng ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_54_kp_01",
+      "speaker": "zun",
+      "sentence": "〇〇のズンですが、1点よろしいでしょうか？",
+      "sentence_translation": "Em Dũng bên 〇〇 ạ, em xin hỏi 1 điểm được không ạ?",
+      "purpose": "アンミュート後の発言冒頭",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_54_bjt_01",
+      "level": "J4",
+      "skill": "場面把握",
+      "question_ja": "オンライン会議で発言しない時のマイクは？",
+      "options": [
+        "常にオン",
+        "ミュート",
+        "音楽流す",
+        "離席"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "発言しない時はミュートが基本マナー。雑音回避のため。",
+        "vi": "Không nói thì mute — tránh tạp âm là nguyên tắc cơ bản."
+      }
+    }
+  ]
+}

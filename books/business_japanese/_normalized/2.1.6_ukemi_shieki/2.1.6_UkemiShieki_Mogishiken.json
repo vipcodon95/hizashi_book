@@ -1,0 +1,713 @@
+{
+  "meta": {
+    "title": "2.1.6 Mogishiken — 受動・使役 Reading",
+    "title_vn": "2.1.6 Mô Phỏng Đề Thi BJT Đọc Hiểu: 受動形・使役形・使役受動形",
+    "type": "mogishiken_dokkai",
+    "description_vn": "Mô phỏng đề thi BJT phần đọc hiểu — chủ đề 受動・使役・使役受動形. 5 section với 5 loại văn bản thực tế khác nhau, 20 câu hỏi format BJT.",
+    "total_sections": 5,
+    "total_questions": 20,
+    "format_note": "Format Part 3②③ BJT — 5 loại văn bản: 社内通知、業績報告書、業務指示メール、会議議事録、業界誌記事"
+  },
+  "sections": [
+    {
+      "section_id": 1,
+      "level": 1,
+      "level_name": "初級 / Cơ bản",
+      "document_type": "社内通知",
+      "situation_vn": "Công ty thông báo về việc thay đổi lịch họp. Sử dụng thể bị động để tránh chỉ đích danh người chịu trách nhiệm.",
+      "passage_ja": "各部門の皆様へ\n\nいつもお疲れ様です。本日、重要なお知らせがございます。\n\n来月6月15日（金）に予定されていた全社会議が、システムの保守作業のため、6月22日（金）に変更されます。新しい日時と場所について、別紙の資料をご覧ください。\n\nこのご不便をおかけして申し訳ございません。何かご質問がございましたら、お気軽にお問い合わせください。\n\n総務部一同",
+      "word_count": null,
+      "difficulty_note": null,
+      "questions": [
+        {
+          "id": "1-1",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "この文書の目的は何ですか。",
+          "question_vn": "Mục đích của văn bản này là gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "全社会議の新しい議題を発表するため",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "全社会議の日程が変更されたことを通知するため",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "システムの保守作業について説明するため",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "部門ごとの会議室を割り当てるため",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "Văn bản thông báo rằng cuộc họp dự kiến ban đầu (6月15日) bị thay đổi sang 6月22日 do bảo trì hệ thống. Mục đích chính là thông báo sự thay đổi này."
+        },
+        {
+          "id": "1-2",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "「予定されていた全社会議が...変更されます」という表現から、どのようなことが分かりますか。",
+          "question_vn": "Từ biểu thức 'được dự kiến để diễn ra' ở thể bị động, ta có thể suy ra điều gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "予定の変更は会社の重要な決定である",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "会議の予定は以前から決まっていた",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "部長が自分で会議の日程を決めた",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "社員たちが新しい日程を提案した",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "Thể bị động 'られていた' chỉ ra rằng việc họp đã được lên kế hoạch trước đó. Động từ bị động ở quá khứ tiếp diễn cho thấy trạng thái đã được thiết lập sẵn."
+        },
+        {
+          "id": "1-3",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "会議の日程が変更された理由は何ですか。",
+          "question_vn": "Lý do nào dẫn đến thay đổi lịch họp?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "参加者の都合が悪くなったため",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "会議室の予約ができなくなったため",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "システムの保守作業があるため",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "新しい議題が追加されたため",
+              "vn": null
+            }
+          ],
+          "answer": "C",
+          "explanation": "Văn bản rõ ràng nêu 'システムの保守作業のため' (do bảo trì hệ thống) là lý do thay đổi ngày họp."
+        },
+        {
+          "id": "1-4",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "下線部「このご不便をおかけして申し訳ございません」という表現は、どのような意図で使われていますか。",
+          "question_vn": "Biểu thức này được sử dụng với ý định gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "社員に対して厳しい態度を示すため",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "変更の責任は誰かにあるかを明確にするため",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "変更による不便を認め、丁寧に謝罪するため",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "会議を中止することを予告するため",
+              "vn": null
+            }
+          ],
+          "answer": "C",
+          "explanation": "Câu này sử dụng 'ご不便をおかけして申し訳ございません' - là cách xin lỗi lịch sự, thừa nhận sự bất tiện gây ra cho nhân viên do sự thay đổi này."
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "level": 2,
+      "level_name": "中級基礎 / Trung cấp cơ bản",
+      "document_type": "業績報告書",
+      "situation_vn": "Báo cáo về kết quả khảo sát từ quản lý. Sử dụng によって để chỉ tác nhân trang trọng trong thể bị động, mix với các cấu trúc trang trọng.",
+      "passage_ja": "◆2026年度 顧客満足度調査 結果報告\n\n本年度、弊社によって約2,000名の顧客を対象とした満足度調査が実施されました。調査期間は2月から3月にかけて行われ、約65%の回答率が得られました。\n\n調査結果によると、製品の品質については高い評価が得られましたが、配送サービスについては改善すべき点が指摘されています。特に、配送時間の短縮がお客様からの強い要望として挙げられました。\n\n今後、これらのご指摘を踏まえて、サービス向上に向けた対策が取られる予定です。",
+      "word_count": null,
+      "difficulty_note": null,
+      "questions": [
+        {
+          "id": "2-1",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "この報告書は何について述べられていますか。",
+          "question_vn": "Báo cáo này trình bày về điều gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "2026年度の売上目標について",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "顧客満足度調査の結果について",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "新しい製品開発計画について",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "従業員の教育研修について",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "Tiêu đề và nội dung rõ ràng chỉ báo cáo kết quả điều tra mức độ hài lòng của khách hàng (顧客満足度調査)."
+        },
+        {
+          "id": "2-2",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "「弊社によって約2,000名の顧客を対象とした満足度調査が実施されました」という文について、「によって」は何を示していますか。",
+          "question_vn": "Trong câu này, 'によって' chỉ điều gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "調査の対象となった顧客の数",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "調査を行った主体（実行者）",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "調査が行われた時期",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "調査の方法や形式",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "によって sau 'nhân vật / tổ chức' trong câu bị động chỉ tác nhân / người thực hiện hành động. Ở đây, 弊社 (công ty chúng tôi) là tác nhân thực hiện khảo sát."
+        },
+        {
+          "id": "2-3",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "調査結果によると、改善が必要な点はどれですか。",
+          "question_vn": "Theo kết quả điều tra, điểm nào cần cải thiện?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "製品の品質",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "配送サービス",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "営業スタッフの対応",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "製品の価格",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "Văn bản nêu '製品の品質については高い評価が得られました' (chất lượng sản phẩm được đánh giá cao) nhưng 'dịch vụ giao hàng được chỉ ra là có điểm cần cải thiện'."
+        },
+        {
+          "id": "2-4",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "お客様からの強い要望は何ですか。",
+          "question_vn": "Yêu cầu mạnh mẽ của khách hàng là gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "製品の種類を増やすこと",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "配送時間を短縮すること",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "製品の価格を下げること",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "アフターサービスを充実させること",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "Văn bản rõ ràng nêu 'đặc biệt, việc rút ngắn thời gian giao hàng được đặt ra như một yêu cầu mạnh mẽ từ khách hàng'."
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "level": 3,
+      "level_name": "中級上級 / Trung cao",
+      "document_type": "業務指示メール",
+      "situation_vn": "Email từ quản lý giao nhiệm vụ cho nhân viên. Sử dụng 使役形 (させます) để giao việc và させていただく để xin phép một cách lịch sự.",
+      "passage_ja": "件名：来月のプロジェクトについてのお願い\n\nお疲れ様です。田中です。\n\n来月、新しいマーケティングプロジェクトが開始されます。つきましては、営業チーム全体に、このプロジェクトの準備を進めていただきたいと思っています。\n\n具体的には、以下の業務を各自で担当していただきます。\n・既存顧客へのヒアリング調査（山田さんに担当させていただきます）\n・競合他社の商品分析（鈴木さんに担当させていただきます）\n・ターゲット層の市場調査（全員で協力していただきたいです）\n\n第一回目の進捗報告は5月10日までにお願いします。何かご質問やご不明な点がございましたら、お気軽にお声がけください。\n\nよろしくお願いいたします。\n田中",
+      "word_count": null,
+      "difficulty_note": null,
+      "questions": [
+        {
+          "id": "3-1",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "このメールの目的は何ですか。",
+          "question_vn": "Mục đích của email này là gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "新しいマーケティングプロジェクトについて通知し、チームメンバーに準備を進めるよう依頼するため",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "既存顧客へのヒアリング調査の結果を報告するため",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "競合他社の商品について詳しく説明するため",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "ターゲット層を決定するための会議を開催するため",
+              "vn": null
+            }
+          ],
+          "answer": "A",
+          "explanation": "Email thông báo về dự án mới và yêu cầu đội ngũ chuẩn bị cho nó. Chủ đích chính là giao nhiệm vụ và yêu cầu chuẩn bị."
+        },
+        {
+          "id": "3-2",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "「営業チーム全体に、このプロジェクトの準備を進めていただきたい」という表現について、どのようなニュアンスが含まれていますか。",
+          "question_vn": "Biểu thức 'していただきたい' trong câu này có sắc thái gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "命令的で強制的な指示",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "お願いやリクエストで、相手の意思を尊重したもの",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "単なる情報提供",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "批判や非難の意を含んだもの",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "していただきたい là dạng lịch sự của 'xin vui lòng' (yêu cầu lịch sự). Nó thể hiện tôn trọng ý muốn của người khác, không mang tính mệnh lệnh cứng nhắc."
+        },
+        {
+          "id": "3-3",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "「山田さんに担当させていただきます」という表現は何を示していますか。",
+          "question_vn": "Biểu thức này chỉ điều gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "田中が山田さんを強制的に仕事を行わせるということ",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "山田さんが自分で仕事をすることを提案する",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "田中が敬意を持ちながら、山田さんに仕事を担当させることをお願いするということ",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "山田さんが田中に協力することを拒否するということ",
+              "vn": null
+            }
+          ],
+          "answer": "C",
+          "explanation": "させていただく là dạng tôn trọng của させる, kết hợp sự xin phép lịch sự. Nó cho thấy người nói (quản lý) tôn trọng người khác trong khi giao nhiệm vụ."
+        },
+        {
+          "id": "3-4",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "以下の業務のうち、全員で協力することが求められているのはどれですか。",
+          "question_vn": "Trong các công việc sau, việc nào yêu cầu tất cả mọi người hợp tác?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "既存顧客へのヒアリング調査",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "競合他社の商品分析",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "ターゲット層の市場調査",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "プロジェクトの準備計画",
+              "vn": null
+            }
+          ],
+          "answer": "C",
+          "explanation": "Văn bản ghi '全員で協力していただきたいです' (mong muốn mọi người hợp tác) cho công việc này. Hai công việc khác được giao cho người cụ thể."
+        }
+      ]
+    },
+    {
+      "section_id": 4,
+      "level": 4,
+      "level_name": "上級 / Cao cấp",
+      "document_type": "会議議事録",
+      "situation_vn": "Biên bản họp từ cuộc họp quyết định về dự án khẩn cấp. Sử dụng mix bị động trang trọng (られた、が取られた), させていただく (xin phép), và させられる (bị buộc, không tự nguyện).",
+      "passage_ja": "◇2026年5月 戦略会議 議事録\n【日時】2026年5月8日（木）14:00～15:30\n【参加者】代表取締役佐藤、営業部長田中、企画部長鈴木、他部門代表\n\n【報告事項】新規事業プロジェクトの進捗状況について、予期しない市場変化により3週間の遅延が生じたことが報告された。対応策として、複数の施策が講じられることが決定された。\n\nまず、企画部と営業部の責任者には、今月中に専任チーム体制を編成させていただくことを予定している。ただし、他部門のスタッフについては、やむを得ない事情により、当プロジェクトへの参加を余儀なくされることになった。参加を強制されることになるスタッフには、事前にしっかりと説明がなされる予定である。\n\n【決議】全社員による協力体制の構築が承認された。次回会議は5月22日に開催されることが予定されている。",
+      "word_count": null,
+      "difficulty_note": null,
+      "questions": [
+        {
+          "id": "4-1",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "この議事録が報告している主な問題点は何ですか。",
+          "question_vn": "Vấn đề chính được báo cáo trong biên bản là gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "プロジェクトスタッフの能力不足",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "プロジェクトの進捗遅延と市場の変化",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "企画部と営業部の対立",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "予算不足による資金の問題",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "Biên bản rõ ràng nêu rằng do sự thay đổi không lường trước trên thị trường, dự án bị chậm 3 tuần (新規事業プロジェクトの進捗状況...3週間の遅延が生じた)."
+        },
+        {
+          "id": "4-2",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "「複数の施策が講じられることが決定された」という表現で、「講じられる」という受動形が使われている理由として、最も適切なものは。",
+          "question_vn": "Tại sao dạng bị động 'được thực hiện' được sử dụng?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "誰が施策を決めたかを明確に示すため",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "施策の重要性を強調するため",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "誰によるものかを曖昧にし、客観的かつ公式的な表現にするため",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "施策が失敗する可能性を示唆するため",
+              "vn": null
+            }
+          ],
+          "answer": "C",
+          "explanation": "Dạng bị động 'được thực hiện' (講じられる) trong ngữ cảnh chính thức như biên bản họp được sử dụng để tạo vẻ khách quan, công thức hành chính, và tránh chỉ đích danh người quyết định."
+        },
+        {
+          "id": "4-3",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "「企画部と営業部の責任者には...専任チーム体制を編成させていただくことを予定している」という表現で、「させていただく」が使われている理由として、正しいものは。",
+          "question_vn": "Tại sao 'させていただく' (xin phép) được sử dụng trong câu này?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "責任者に対する敬意を示しつつ、チーム編成の実施を表現するため",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "責任者が拒否する可能性があることを示唆するため",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "チーム編成が義務ではなく、自主的な提案であることを示すため",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "企画部と営業部が全く協力できないことを示すため",
+              "vn": null
+            }
+          ],
+          "answer": "A",
+          "explanation": "させていただく là cách lịch sự để diễn đạt một hành động mà người nói (ban lãnh đạo) sẽ thực hiện với sự tôn trọng đối với người khác (trưởng phòng). Nó kết hợp xin phép và tôn trọng."
+        },
+        {
+          "id": "4-4",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "「他部門のスタッフについては...当プロジェクトへの参加を余儀なくされることになった」と「参加を強制されることになるスタッフには...説明がなされる」という二つの文で、どのような対比が表現されていますか。",
+          "question_vn": "Hai câu này thể hiện sự đối lập gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "一部のスタッフは喜んで参加し、他のスタッフは強制される",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "スタッフが参加を余儀なくされる状況と、それに対する会社からの丁寧な説明の提供",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "強制と自発性の完全な矛盾",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "説明が全く不十分であることを強調している",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "Hai câu này tạo nên một sự cân bằng: mặc dù nhân viên bị buộc tham gia (余儀なくされ / 強制される), công ty sẽ cung cấp giải thích cẩn thận trước (しっかりと説明がなされる). Điều này thể hiện tôn trọng đối với nhân viên mặc dù tình huống bắt buộc."
+        }
+      ]
+    },
+    {
+      "section_id": 5,
+      "level": 5,
+      "level_name": "最上級 / Tối cao",
+      "document_type": "業界誌・社内報の記事",
+      "situation_vn": "Bài báo từ tạp chí ngành về xu hướng chuyển đổi số trong các doanh nghiệp Nhật Bản. Sử dụng bị động trang trọng phức tạp (によって、を通じて、に基づいて) và phân tích sắc thái ngôn ngữ chuyên sâu.",
+      "passage_ja": "◆デジタル時代における企業競争力の再構築\n\n近年、急速な技術革新によってビジネス環境が劇的に変化している。多くの企業が、クラウドコンピューティングやAI導入を通じて、経営効率化を図られている一方で、一部の企業では、時代の流れに適応させられることができず、市場競争から取り残されるという悪循環に陥っている。\n\nこのような背景を踏まえ、業界全体にわたって、デジタル変革推進の重要性が広く認識されるようになった。特に、従来型のビジネスモデルに基づいて構築されてきた組織体系は、新たな競争環境に対応させられることを強いられている。経営層による戦略的投資決定により、多くの企業においては、組織再編と人材育成制度の見直しが実施されるに至っている。\n\n今後、適切な対応を講じることができた企業のみが、成長を遂行させられ、グローバル市場での競争力を維持することが見込まれている。",
+      "word_count": null,
+      "difficulty_note": null,
+      "questions": [
+        {
+          "id": "5-1",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "この記事の主要なテーマとして、最も適切なものは。",
+          "question_vn": "Chủ đề chính của bài báo này là gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "企業のAI導入による利益増加",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "デジタル時代における企業競争力の維持と再構築の必要性",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "クラウドコンピューティング技術の詳細な説明",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "従来型ビジネスモデルの優越性",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "Bài báo lập luận rằng do sự thay đổi nhanh chóng của môi trường kinh doanh, các doanh nghiệp cần tái cấu trúc khả năng cạnh tranh của mình qua chuyển đổi số."
+        },
+        {
+          "id": "5-2",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "「クラウドコンピューティングやAI導入を通じて、経営効率化が図られている」という文で、「によって」ではなく「を通じて」が使われている理由として、最も適切なものは。",
+          "question_vn": "Tại sao 'を通じて' được dùng thay vì 'によって'?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "「によって」より「を通じて」の方が敬意が高いため",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "「を通じて」は手段や方法を強調し、プロセスの重要性を示すため",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "「によって」は企業の努力を否定するため",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "両方の表現は同じ意味なので、特に違いはない",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "を通じて nhấn mạnh phương tiện / quá trình thực hiện, còn によって chỉ tác nhân trực tiếp. Ở đây, tác giả muốn nhấn mạnh rằng việc chuyển đổi số là một quá trình (を通じて) để đạt hiệu quả kinh doanh."
+        },
+        {
+          "id": "5-3",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "「従来型のビジネスモデルに基づいて構築されてきた組織体系は、新たな競争環境に対応させられることを強いられている」という複文の表現から、どのような実情が伝わってきますか。",
+          "question_vn": "Cấu trúc phức tạp này truyền đạt điều gì?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "組織は自発的かつ主体的に新しい競争環境に対応している",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "組織が旧モデルに基づいているため、新環境への対応を強制されている状況",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "新しい競争環境が形成されていない",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "組織体系の構築に失敗している",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc 'させられることを強いられている' (bị buộc phải được bắt buộc / bị ép phải thích nghi) chỉ ra rằng các tổ chức không tự nguyện mà bị buộc phải thích nghi với môi trường cạnh tranh mới do những hoàn cảnh bên ngoài."
+        },
+        {
+          "id": "5-4",
+          "level": null,
+          "level_name": null,
+          "category": "",
+          "question_jp": "「適切な対応を講じることができた企業のみが、成長を遂行させられ、グローバル市場での競争力を維持することが見込まれている」という文で、「させられ」が使われている理由として、最も適切な解釈は。",
+          "question_vn": "Tại sao 'させられ' được sử dụng trong ngữ cảnh này?",
+          "choices": [
+            {
+              "key": "A",
+              "jp": "成長が企業の強制的な義務であることを示すため",
+              "vn": null
+            },
+            {
+              "key": "B",
+              "jp": "企業が市場競争により成長を余儀なくされる（市場力の圧力）を示唆するため",
+              "vn": null
+            },
+            {
+              "key": "C",
+              "jp": "成長が失敗する可能性が高いことを示すため",
+              "vn": null
+            },
+            {
+              "key": "D",
+              "jp": "企業の成長努力が完全に無駄であることを示すため",
+              "vn": null
+            }
+          ],
+          "answer": "B",
+          "explanation": "在此文脈中，「させられ」暗示了企業被市场力所迫而不得不實現成長——這是一種必然性而非自願選擇。這反映出市場競爭環境強制企業必須增長才能生存，而不是企業主動追求成長。Ở đây, させられ chỉ ra rằng sự tăng trưởng là do áp lực thị trường (không phải tự nguyện), thể hiện tính bắt buộc của môi trường cạnh tranh."
+        }
+      ]
+    }
+  ]
+}

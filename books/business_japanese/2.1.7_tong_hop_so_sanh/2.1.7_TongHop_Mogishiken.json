@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "title": "2.1.7 Mogishiken — 総合 Reading",
+    "title_vn": "2.1.7 Mô Phỏng Đề Thi BJT Đọc Hiểu: Tổng Hợp 5 Loại Văn Bản — 授受動詞 vs 受動形/使役形",
+    "type": "mogishiken_dokkai",
+    "description_vn": "Mô phỏng đề thi BJT phần đọc hiểu (Part 3) — 5 loại văn bản khác nhau (Email, Ghi chép điện thoại, Báo cáo, Biên bản họp, Fax+Email) từ cơ bản đến nâng cao. Buộc phân biệt cấu trúc 授受動詞, 受動形, 使役形, và sắc thái cảm xúc/ý định.",
+    "total_sections": 5,
+    "total_questions": 20,
+    "format_note": "Format Part 3②③ BJT — 5 loại văn bản, 4 câu/section, KHÔNG lặp loại văn bản"
+  },
+  "sections": [
+    {
+      "section_id": 1,
+      "level": 1,
+      "level_name": "初級 / Cơ bản",
+      "document_type": "ビジネスメール",
+      "situation_vn": "Nhân viên mới gửi email cảm ơn sếp vì được nhận tài liệu hướng dẫn và được phép sử dụng nó.",
+      "passage_ja": "田中課長へ\n\nいつもお世話になっております。先日は、重要な資料をご送付いただき、ありがとうございます。\n\n早速、その資料を参考にさせていただき、新しい企画案を作成いたしました。ご指導いただきたいので、明日の会議でご報告させていただきたく存じます。\n\nよろしくお願いいたします。",
+      "word_count": 95,
+      "questions": [
+        {
+          "id": "1-1",
+          "question_ja": "「資料を参考にさせていただき」の表現として最も適切な説明は？",
+          "question_vn": "Cấu trúc 「資料を参考にさせていただき」có ý nghĩa gì?",
+          "choices": {
+            "A": "課長が私に資料を参考にするよう指示した",
+            "B": "私が資料を参考にしたことを課長に許可をもらった",
+            "C": "資料は私に参考にされてしまった",
+            "D": "課長が資料を参考にするのを手伝った"
+          },
+          "answer": "B",
+          "explanation_vn": "「させていただく」thể hiện người nói (私) thực hiện hành động nhưng xin phép/được phép từ đối phương (課長). Nghĩa: 'tôi được xin phép tham khảo tài liệu'. A sai vì 課長 không phải người chỉ thị. C sai vì không phải bị động thực sự. D sai vì không phải cấu trúc giúp đỡ."
+        },
+        {
+          "id": "1-2",
+          "question_ja": "「ご送付いただき」と「を送ってもらい」を比較した場合、正しい説明は？",
+          "question_vn": "So sánh 「ご送付いただき」và 「を送ってもらい」, nhận xét nào đúng?",
+          "choices": {
+            "A": "いただくは課長が主体で、もらうは私が主体で受け取る",
+            "B": "意味は同じだが、いただくはより敬語で丁寧な言い方である",
+            "C": "いただくは過去完了で、もらうは現在進行である",
+            "D": "両方とも同じで、文法的に区別する必要がない"
+          },
+          "answer": "B",
+          "explanation_vn": "Cả 「いただく」và 「もらう」đều thể hiện 'nhận được' từ người khác. Sự khác biệt là: いただく là cách nói lịch sự, tôn trọng (敬語), thường dùng trong kinh doanh; もらう là bình thường. Cơ bản về ý nghĩa, cả hai đều thể hiện người nói nhận hành động. A sai vì không phải sự khác biệt chủ thể."
+        },
+        {
+          "id": "1-3",
+          "question_ja": "下線部「ご報告させていただきたく存じます」は「報告させられたく存じます」に置き換えられますか。その理由は？",
+          "question_vn": "Có thể thay 「ご報告させていただきたく存じます」bằng 「報告させられたく存じます」không? Tại sao?",
+          "choices": {
+            "A": "できない。なぜなら「させられる」は不本意な強制を表すが、ここは「許可を求める」意味だから",
+            "B": "できる。両方とも同じ意味である",
+            "C": "できない。なぜなら「させられる」は過去形で、「させていただく」は未来形だから",
+            "D": "できる。「させられる」はより丁寧な表現だから"
+          },
+          "answer": "A",
+          "explanation_vn": "「させていただく」= được phép/xin phép thực hiện (tôn trọng, nhân từ); 「させられる」= bị sai khiến, bị ép buộc (không tự nguyện). Email này thể hiện ý muốn báo cáo và xin phép, không phải bị ép. Nên không thể thay thế."
+        },
+        {
+          "id": "1-4",
+          "question_ja": "メール全体の送信者の態度として最も正確なものは？",
+          "question_vn": "Dựa vào cách dùng từ ngữ, thái độ của người gửi là gì?",
+          "choices": {
+            "A": "課長に不満があり、資料の品質に疑問を持っている",
+            "B": "課長に感謝し、資料を活用できたことを報告し、さらに指導を希望している",
+            "C": "課長の指示が複雑で、理解するのに困っている",
+            "D": "会議に参加したくないので、別の提案を考えている"
+          },
+          "answer": "B",
+          "explanation_vn": "Email sử dụng: 「いただき」(cảm ơn), 「参考にさせていただき」(cảm ơn được sử dụng), 「ご指導いただきたい」(mong nhận hướng dẫn), 「報告させていただきたく」(sẵn sàng báo cáo). Tất cả đều thể hiện biết ơn, tôn trọng, và hợp tác tích cực. A, C, D đều sai."
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "level": 2,
+      "level_name": "中級基礎 / Trung cấp sơ cấp",
+      "document_type": "電話応対記録",
+      "situation_vn": "Ghi chép cuộc điện thoại giữa nhân viên bán hàng và khách hàng về yêu cầu thay đổi thời hạn giao hàng.",
+      "passage_ja": "【電話記録】日時：2月15日 14:30\n顧客「納期を1週間早めてもらえますか？」\n営業「申し訳ございませんが、その期限は難しいです。ただし、特別に対応させていただきたいのですが、5日前倒しでしたら対応できます。」\nお客様「5日であれば大丈夫です。その代わり、金額の値引きをしていただけますか？」\n営業「かしこまりました。金額については、10%の値引きでさせていただくことができます。ご迷惑をおかけいたしました。」",
+      "word_count": 152,
+      "questions": [
+        {
+          "id": "2-1",
+          "question_ja": "営業が「特別に対応させていただきたい」と言った最も適切な理由は？",
+          "question_vn": "Tại sao nhân viên kinh doanh nói 「特別に対応させていただきたい」?",
+          "choices": {
+            "A": "顧客が営業に対応するよう強制しようとしている",
+            "B": "営業が特別な対応をしたいことを顧客に提案し、許可を求めている",
+            "C": "営業は顧客の要求に全く応じたくない",
+            "D": "過去に同じ対応をさせられたことがある"
+          },
+          "answer": "B",
+          "explanation_vn": "「させていただく」= tôi được/xin phép thực hiện. Nhân viên bán hàng muốn đề xuất giải pháp khác (5 ngày thay vì 7 ngày) và xin phép khách hàng chấp thuận. A sai vì không phải bị ép buộc. C sai vì hoàn toàn ngược lại. D sai vì không liên quan."
+        },
+        {
+          "id": "2-2",
+          "question_ja": "「金額の値引きをしていただけますか」と「金額の値引きをさせていただけますか」の意味の違いは？",
+          "question_vn": "Khác biệt giữa 「をしていただけますか」và 「をさせていただけますか」là gì?",
+          "choices": {
+            "A": "意味は全く同じで、使い分ける必要がない",
+            "B": "前者は顧客が営業に値引きしてほしいと依頼する；後者は営業が値引きしたいことを顧客に許可を求める",
+            "C": "前者は敬語で、後者は普通語である",
+            "D": "前者は過去形で、後者は未来形である"
+          },
+          "answer": "B",
+          "explanation_vn": "「していただける」= yêu cầu ai đó thực hiện (người nói là người nhận lợi ích). 「させていただける」= được phép tôi thực hiện (người nói là chủ thể hành động). Trong cuộc gọi, khách hàng yêu cầu giảm giá (A tương ứng với 「していただけますか」), sau đó nhân viên bán hàng đồng ý thực hiện nó (B tương ứng với 「させていただける」)."
+        },
+        {
+          "id": "2-3",
+          "question_ja": "「金額については、10%の値引きでさせていただく」の表現から、営業の気持ちとして最も正確なものは？",
+          "question_vn": "Từ cấu trúc 「值引きでさせていただく」, cảm giác/thái độ của nhân viên là gì?",
+          "choices": {
+            "A": "顧客を支配したいという意図が強い",
+            "B": "10%の値引きが最高だと顧客に強制している",
+            "C": "値引きの提案をする権利と責任を持ち、顧客に敬意を表しながら提供する準備がある",
+            "D": "顧客は強制的に値引きを受けなければならない"
+          },
+          "answer": "C",
+          "explanation_vn": "「させていただく」thể hiện người nói có quyền/trách nhiệm thực hiện hành động và tôn trọng đối phương. Nhân viên bán hàng có thẩm quyền quyết định giảm giá, và cách nói này thể hiện sự tôn trọng khách hàng. A, B, D đều hiểu sai ý nghĩa của cấu trúc."
+        },
+        {
+          "id": "2-4",
+          "question_ja": "全体の通話記録から見ると、顧客と営業の関係において最も正確な説明は？",
+          "question_vn": "Từ toàn bộ ghi chép, mối quan hệ giữa khách hàng và nhân viên bán hàng là gì?",
+          "choices": {
+            "A": "顧客は営業に不満を持ち、別の会社に変える準備をしている",
+            "B": "営業は顧客の要求に応じるために、最善の努力をしていて、顧客も合意している",
+            "C": "顧客は営業を完全に支配している",
+            "D": "営業は顧客に逆らい、値引きを拒否している"
+          },
+          "answer": "B",
+          "explanation_vn": "Cuộc gọi cho thấy: khách hàng đề nghị (1 tuần), nhân viên bán hàng đề xuất giải pháp thay thế (5 ngày) và được khách hàng chấp thuận. Sau đó, cả hai đồng ý về giảm giá (10%). Cả hai bên đều thể hiện sự hợp tác và thỏa thuận. A sai (không có mâu thuẫn), C sai (có thương lượng), D sai (có đồng ý)."
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "level": 3,
+      "level_name": "中級上級 / Trung cấp nâng cao",
+      "document_type": "業務報告書",
+      "situation_vn": "Nhân viên dự án gửi báo cáo tiến độ hàng tuần cho quản lý dự án, chi tiết về các vấn đề gặp phải và hành động được thực hiện.",
+      "passage_ja": "【業務報告書】\nプロジェクト名：新製品開発システム\n報告日：2月16日\n\n先週の活動として、システム設計の問題点が発見されました。そのため、外部のコンサルタントに相談させていただき、改善案をいただきました。\n\n改善案に基づいて、チーム内で検討させていただくことになりました。なお、テスト期間については、管理者の許可を得て、2週間延長させていただきたく存じます。\n\n以上、よろしくお願いいたします。",
+      "word_count": 127,
+      "questions": [
+        {
+          "id": "3-1",
+          "question_ja": "「外部のコンサルタントに相談させていただき」の表現に見られる、報告者の態度は？",
+          "question_vn": "Từ cấu trúc 「相談させていただき」, thái độ của người báo cáo là gì?",
+          "choices": {
+            "A": "コンサルタントに強制的に相談させた",
+            "B": "自分たちが外部の専門家に相談することを決定し、その判断を管理者に報告している",
+            "C": "コンサルタントは必ず相談に応じなければならない",
+            "D": "報告者はコンサルタントを支配している"
+          },
+          "answer": "B",
+          "explanation_vn": "「させていただく」trong báo cáo kinh doanh thể hiện hành động chủ động của người nói (chúng tôi quyết định) nhưng xin phép/báo cáo cho cấp trên. Người báo cáo thực hiện hành động (tham vấn) và xin phép với quản lý."
+        },
+        {
+          "id": "3-2",
+          "question_ja": "「改善案に基づいて、チーム内で検討させていただく」の表現において、最も適切な説明は？",
+          "question_vn": "Cấu trúc 「検討させていただく」trong báo cáo có ý nào?",
+          "choices": {
+            "A": "チームに検討することを強制している",
+            "B": "チームが改善案を検討することを決定し、それを管理者に報告・許可を求めている",
+            "C": "管理者が検討するよう指示した",
+            "D": "検討は既に完了している"
+          },
+          "answer": "B",
+          "explanation_vn": "Trong báo cáo, 「させていただく」thể hiện: nhóm dự án sẽ thực hiện hành động (検討) và xin phép với quản lý. Đây là cách lịch sự để báo cáo hành động kế tiếp. C sai vì không phải bị chỉ thị. D sai vì 「する」là hiện tại/tương lai, không phải hoàn thành."
+        },
+        {
+          "id": "3-3",
+          "question_ja": "「テスト期間については、管理者の許可を得て、2週間延長させていただきたく存じます」は「2週間延長してもらいたく存じます」に置き換えられますか。その理由は？",
+          "question_vn": "Có thể thay 「延長させていただきたく」bằng 「延長してもらいたく」không?",
+          "choices": {
+            "A": "できない。「させていただく」は報告者（チーム）が延長を実行する主体であり、「してもらう」は管理者が延長を実行する意味だから",
+            "B": "できる。両方とも同じ意味である",
+            "C": "できない。「してもらう」はより敬語だから",
+            "D": "できる。後者のほうが自然である"
+          },
+          "answer": "A",
+          "explanation_vn": "「延長させていただく」= chúng tôi được phép/xin phép kéo dài (chúng tôi là chủ thể); 「延長してもらう」= nhận hành động kéo dài từ ai (quản lý là chủ thể). Báo cáo này thể hiện nhóm dự án muốn kéo dài kỳ hạn, nên cần dùng 「させていただく」."
+        },
+        {
+          "id": "3-4",
+          "question_ja": "この業務報告書から見ると、報告者の目的として最も正確なものは？",
+          "question_vn": "Từ báo cáo này, mục đích chính của người báo cáo là gì?",
+          "choices": {
+            "A": "問題点を隠そうとしている",
+            "B": "問題点を認識し、既に対応を開始していることを報告し、その後の管理者の支援や許可を求めている",
+            "C": "管理者に責任を転嫁しようとしている",
+            "D": "テスト期間を無限に延長したい"
+          },
+          "answer": "B",
+          "explanation_vn": "Báo cáo chi tiết: (1) phát hiện vấn đề, (2) tham vấn chuyên gia bên ngoài, (3) đưa ra giải pháp, (4) xin phép kéo dài thời gian kiểm tra. Mục đích là minh bạch về tình hình và xin sự hỗ trợ của quản lý. A sai (không ẩu), C sai (chủ động), D sai (cần lý do cụ thể)."
+        }
+      ]
+    },
+    {
+      "section_id": 4,
+      "level": 4,
+      "level_name": "上級 / Nâng cao",
+      "document_type": "会議議事録",
+      "situation_vn": "Biên bản họp của một cuộc họp quản lý dự án, thảo luận về tuyển dụng nhân sự và phân công trách nhiệm quản lý.",
+      "passage_ja": "【会議議事録】2月17日 会議名：人事配置検討会議\n\n議題：新プロジェクトの人事配置と責任体制\n出席者：田中管理職、鈴木課長、佐藤チームリーダー\n\n1. プロジェクト管理者の選出について\n田中「新しいプロジェクトマネージャーを一人置きたいのですが、誰か担当させていただける人はいますか。」\n佐藤「私が担当させてもらえますか。」\n田中「そうですね。では、佐藤さんにプロジェクト管理を任させていただきたく思います。ただし、重大な決定については、私に相談していただくことを希望します。」\n\n2. チーム体制の再編成\n鈴木「各チームの権限についても、管理者から明確な指示をしていただきたいです。」\n田中「わかりました。明確な権限設定をさせていただくことを約束いたします。」\n\n以上",
+      "word_count": 226,
+      "questions": [
+        {
+          "id": "4-1",
+          "question_ja": "田中が「誰か担当させていただける人はいますか」と言った時点での、最も適切な解釈は？",
+          "question_vn": "Khi Tanaka nói 「担当させていただける」, ý định của anh ấy là gì?",
+          "choices": {
+            "A": "田中が誰かに担当させる決定をした",
+            "B": "田中がマネージャーを配置する権限を持ち、その配置に関して参加者の同意を求めている",
+            "C": "部下は必ず任務を受け入れなければならない",
+            "D": "田中は決定を放棄し、完全に部下に委ねている"
+          },
+          "answer": "B",
+          "explanation_vn": "「させていただける」= Tanaka có thẩm quyền tiến hành (「させる」) nhưng xin phép/tham vấn với bộ phận (「いただく」). Anh ta không tuyên bố quyết định cuối cùng, mà hỏi 「いますか」để tìm người sẵn sàng. Chứng tỏ sự tôn trọng quyết định của nhân viên."
+        },
+        {
+          "id": "4-2",
+          "question_ja": "佐藤が「私が担当させてもらえますか」と言ったのに対して、田中が「では、佐藤さんにプロジェクト管理を任させていただきたく思います」と答えた理由として正確なものは？",
+          "question_vn": "Tại sao Tanaka trả lời 「任させていただきたく」thay vì 「任せます」?",
+          "choices": {
+            "A": "Tanaka không muốn để Satoh quản lý dự án",
+            "B": "Tanaka có quyền quyết định, nhưng cách nói này thể hiện tôn trọng Satoh và xin cấp trên (nếu có) hoặc những người tham dự họp chấp thuận",
+            "C": "Satoh đã từ chối yêu cầu",
+            "D": "Tanaka không có quyền đưa ra quyết định này"
+          },
+          "answer": "B",
+          "explanation_vn": "「任させていただく」= tôi được phép/xin phép giao nhiệm vụ. Mặc dù Tanaka là người quản lý có quyền quyết định, cách nói này thể hiện sự tôn trọng, lịch sự và nhận thức rằng các quyết định trong cuộc họp nên được toàn thể tham dự chấp thuận."
+        },
+        {
+          "id": "4-3",
+          "question_ja": "「重大な決定については、私に相談していただくことを希望します」の表現で、Tanaka の意図として最も適切なものは？",
+          "question_vn": "Khi Tanaka nói 「相談していただく」, ý định của anh ấy là gì?",
+          "choices": {
+            "A": "Satoh は相談せず、独自に決定する権利がある",
+            "B": "重大な決定について、Satoh が Tanaka に相談することを義務として期待している",
+            "C": "Tanaka は完全に Satoh に支配される",
+            "D": "相談することは任意で、Satoh が決めることができる"
+          },
+          "answer": "B",
+          "explanation_vn": "「していただく」= yêu cầu ai đó thực hiện hành động. Tanaka mong muốn (「希望」) Satoh liên hệ với anh ấy trước khi đưa ra quyết định quan trọng. Đây không phải bị động, mà là yêu cầu/mong đợi lịch sự. A sai (có ràng buộc), C sai (ngược lại), D sai (không phải tùy chọn)."
+        },
+        {
+          "id": "4-4",
+          "question_ja": "鈴木の「管理者から明確な指示をしていただきたいです」に対して、田中が「明確な権限設定をさせていただくことを約束」と答えた意味として最も正確なものは？",
+          "question_vn": "Tanaka trả lời bằng 「させていただく」thay vì 「します」, có ý gì?",
+          "choices": {
+            "A": "Tanaka は権限設定をしたくない",
+            "B": "Tanaka は権限設定をする責任と権限を持ち、それを実行することを約束し、かつ参加者の信頼を求めている",
+            "C": "権限設定は Suzuki の責任である",
+            "D": "Tanaka は完全に Suzuki に従う"
+          },
+          "answer": "B",
+          "explanation_vn": "「させていただく」trong bối cảnh này = tôi có trách nhiệm/quyền thực hiện (「させる」) nhưng cam kết với sự tôn trọng và tính bằng (「いただく」). Tanaka cam kết thực hiện, nhưng cách nói thể hiện anh ấy mong muốn sự tin tưởng từ nhân viên. A sai (hoàn toàn ngược lại), C sai (Tanaka có trách nhiệm), D sai (không phải hoàn toàn tuân phục)."
+        }
+      ]
+    },
+    {
+      "section_id": 5,
+      "level": 5,
+      "level_name": "最上級 / Cao cấp nhất",
+      "document_type": "複合資料（FAX＋返信メール）",
+      "situation_vn": "FAX từ khách hàng đề xuất hợp tác + Email trả lời từ công ty. Cần phân tích cả hai tài liệu cùng lúc để hiểu sắc thái.",
+      "passage_ja": "【FAX】送信日：2月18日 11:45\nTo: 営業部長 様\nFrom: ABC Marketing Ltd. 企画担当\n\n平素よりお世話になっております。\n\n今回のご提案として、貴社の新製品を弊社のマーケティングキャンペーンで紹介していただきたく、以下の内容でご検討をいただきたく存じます。\n\n【提案内容】\n・メディア掲載期間：3ヶ月\n・広告費用：月額50万円\n・弊社の営業チームに、製品説明の機会をしていただけますか。\n\n※ご不明な点がございましたら、お気軽にお電話をしていただきたく存じます。\n\n---\n\n【返信メール】送信日：2月19日 09:30\nTo: ABC Marketing Ltd. 企画担当 様\nFrom: 営業部長\n\nお世話になっております。\n\nご提案ありがとうございます。ご提案の内容については、深く検討させていただき、来週までに最終決定の連絡をさせていただきたく存じます。\n\nなお、製品説明については、当社が御社の営業チームに詳しく説明させていただくことは可能です。ただし、機会を設定させていただく前に、より詳細な提案書をいただきたいと存じます。\n\nそれでは、今後ともよろしくお願いいたします。",
+      "word_count": 289,
+      "questions": [
+        {
+          "id": "5-1",
+          "question_ja": "FAXで「貴社の新製品を弊社のマーケティングキャンペーンで紹介していただきたく」と書かれた理由として最も適切なものは？",
+          "question_vn": "FAX nói 「紹介していただきたく」, ý tưởng là gì?",
+          "choices": {
+            "A": "ABC Marketing が自社の製品を紹介する",
+            "B": "ABC Marketing は貴社に紹介することを要求し、許可を求めている",
+            "C": "貴社は紹介することを強制させられている",
+            "D": "貴社は紹介を拒否する権利がない"
+          },
+          "answer": "B",
+          "explanation_vn": "「していただきたく」= tôi yêu cầu/mong bạn thực hiện. ABC Marketing muốn công ty (貴社) giúp giới thiệu sản phẩm của họ và xin phép. Đây là lời đề nghị lịch sự, không phải yêu cầu bắt buộc. A sai (ABC Marketing không phải người giới thiệu). C, D sai (có quyền từ chối)."
+        },
+        {
+          "id": "5-2",
+          "question_ja": "FAXの「弊社の営業チームに、製品説明の機会をしていただけますか」と、返信メールの「当社が御社の営業チームに詳しく説明させていただくことは可能です」の関係として正確な説明は？",
+          "question_vn": "Khác biệt giữa 「機会をしていただけますか」(FAX) và 「説明させていただく」(Email) là gì?",
+          "choices": {
+            "A": "両方とも同じ意味で、同じ内容を指している",
+            "B": "FAXは機会を与えることを要求し、Emailは説明することを提供する。つまり、FAXは一方的な要求だが、Emailは相手の要求に応じながら、自社の条件を追加している",
+            "C": "FAXは決定であり、Emailは提案である",
+            "D": "FAXは敬語で、Emailは普通語である"
+          },
+          "answer": "B",
+          "explanation_vn": "FAX: 「機会をしていただけますか」= yêu cầu công ty tạo cơ hội cho nhóm kinh doanh của họ. Email: 「説明させていただく」= công ty sẽ tự mình giải thích cho nhóm của ABC Marketing. Đây là sự thay đổi: từ yêu cầu (FAX) thành điều kiện/đề nghị khác (Email - yêu cầu thêm tài liệu chi tiết)."
+        },
+        {
+          "id": "5-3",
+          "question_ja": "返信メールの「機会を設定させていただく前に、より詳細な提案書をいただきたいと存じます」という表現に見られる、営業部長の立場として最も適切なものは？",
+          "question_vn": "Từ cấu trúc 「機会を設定させていただく前に」, vị trí của Phó giám đốc kinh doanh là gì?",
+          "choices": {
+            "A": "ABC Marketing の要求に従うしかない",
+            "B": "ABC Marketing の申し出を検討する力を持ち、追加の条件を提出している",
+            "C": "会議をキャンセルしたい",
+            "D": "ABC Marketing に完全に支配されている"
+          },
+          "answer": "B",
+          "explanation_vn": "「設定させていただく」= công ty sẽ tạo cơ hội (có quyền/trách nhiệm). Bằng cách nói 「前に」, Phó giám đốc kinh doanh thiết lập điều kiện: trước khi tạo cơ hội, họ cần thông tin chi tiết hơn. Đây là cách thương lượng có tact, không phải từ chối hoàn toàn."
+        },
+        {
+          "id": "5-4",
+          "question_ja": "FAXの「お気軽にお電話をしていただきたく存じます」と、Emailの「深く検討させていただき、来週までに最終決定の連絡をさせていただきたく存じます」を比較した場合、送信者の気持ちとして最も正確なものは？",
+          "question_vn": "So sánh 「電話をしていただきたく」(FAX) và 「検討させていただきたく」(Email), cảm xúc của người gửi là gì?",
+          "choices": {
+            "A": "FAXは緊急性が高く、Emailは拒否を意味している",
+            "B": "FAXは相手からの連絡を待っており、Emailは相手に時間を与えながら、自社が責任を持って検討することを示している",
+            "C": "FAXは命令で、Emailは提案である",
+            "D": "FAXはより敬語で、Emailはより普通語である"
+          },
+          "answer": "B",
+          "explanation_vn": "FAX: 「電話をしていただきたく」= ABC Marketing mong công ty liên lạc nếu có thắc mắc (chờ động thái từ phía bên kia). Email: 「検討させていただき」= công ty sẽ chủ động xem xét, 「連絡をさせていただきたく」= cam kết báo cáo kết quả. Ngôn ngữ cho thấy: phía ABC Marketing chủ động đề xuất và chờ đợi; phía công ty chủ động xem xét và cam kết cập nhật tiến độ."
+        }
+      ]
+    }
+  ]
+}

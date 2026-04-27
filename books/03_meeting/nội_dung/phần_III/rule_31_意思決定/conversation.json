@@ -1,0 +1,190 @@
+{
+  "rule_id": "rule_31",
+  "rule_slug": "多数決・意思決定",
+  "title": {
+    "ja": "多数決・意思決定",
+    "vi": "Bỏ phiếu / Đi đến quyết định"
+  },
+  "rule_context": {
+    "ja": "Phase 2スコープで3案議論40分後、ズンが司会としてA案を提示し『よろしいでしょうか？異論があれば』のパターンで合意形成する場面。",
+    "vi": "Sau 40 phút bàn 3 phương án scope phase 2, em Dũng chủ trì propose A → confirm → mời phản đối → silent consent → chốt 確定."
+  },
+  "related_rules": [
+    "rule_22",
+    "rule_23",
+    "rule_44"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 司会が決断回避",
+      "label_vi": "XẤU — Chủ trì né quyết định",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「どうしましょうか」と聞き返すと誰も先に意見を出せず、結局結論なく次回送り。会議の意味がなくなる。",
+        "vi": "Hỏi 「どうしましょうか」 trống không → không ai dám propose → để lần sau → họp 40 phút vô nghĩa."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_31_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えーと、3案ありますね。どうしましょうか？",
+          "sentence_translation": "Ơ... có 3 phương án nhỉ. Mình làm thế nào ạ?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_31_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "うーん…",
+          "sentence_translation": "Hmm...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_31_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "じゃあ、また次回ということで…",
+          "sentence_translation": "Vậy thôi để lần sau ạ...",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 司会が方向提示+確認",
+      "label_vi": "TỐT — Chủ trì propose + confirm",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_31_good_01",
+          "highlight_text": "ここまでのご議論を踏まえまして、3案のうち A 案——優先度高機能のみを Phase 2 で実施——が最も現実的かと存じます",
+          "ja": "司会が議論を要約し、推奨案を提示。これがないと決断は進まない。",
+          "vi": "Chủ trì tổng hợp + propose. Không có bước này họp không kết được."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_31_good_02",
+          "highlight_text": "という方向でよろしいでしょうか",
+          "ja": "「〜方向でよろしいでしょうか」が日本式合意確認の標準形。",
+          "vi": "「〜方向でよろしいでしょうか」 = câu confirm chuẩn JP."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_31_good_02",
+          "highlight_text": "ご異論があればお聞かせください",
+          "ja": "反対の機会を明示的に与える。沈黙＝同意の慣習を成立させる前提。",
+          "vi": "Mở cửa cho phản đối. Tiền đề để áp dụng 'silent = consent'."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_31_good_06",
+          "highlight_text": "確定とさせていただきます",
+          "ja": "「確定」と明言することで議事録に決定として記載できる。",
+          "vi": "Phải nói rõ 「確定」 → ghi được vào biên bản như decision."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_31_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ここまでのご議論を踏まえまして、3案のうち A 案——優先度高機能のみを Phase 2 で実施——が最も現実的かと存じます。",
+          "sentence_translation": "Dựa trên trao đổi đến giờ, em thấy phương án A — chỉ làm các tính năng ưu tiên cao trong Phase 2 — là khả thi nhất ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_31_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "では、A 案で進めるという方向でよろしいでしょうか？ご異論があればお聞かせください。",
+          "sentence_translation": "Vậy mình đi theo phương án A có được không ạ? Nếu có ý kiến phản đối xin chia sẻ ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2",
+            "3"
+          ],
+          "continues_previous": true
+        },
+        {
+          "line_id": "rule_31_good_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長 (白鷗)",
+          "gender": "male",
+          "sentence": "私は A 案で問題ありません。",
+          "sentence_translation": "Tôi A là OK.",
+          "tone": "formal",
+          "pause_after_ms": 800
+        },
+        {
+          "line_id": "rule_31_good_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "同意します。",
+          "sentence_translation": "Tôi đồng ý.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_31_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。では、A案で確定とさせていただきます。",
+          "sentence_translation": "Em cảm ơn ạ. Vậy em xin chốt phương án A ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "4"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_31_kp_01",
+      "speaker": "zun",
+      "sentence": "では、〇案で進めるという方向でよろしいでしょうか？",
+      "sentence_translation": "Vậy mình đi theo phương án 〇 có được không ạ?",
+      "purpose": "司会の合意確認フレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_31_kp_02",
+      "speaker": "zun",
+      "sentence": "では、〇案で確定とさせていただきます。",
+      "sentence_translation": "Vậy em xin chốt phương án 〇 ạ.",
+      "purpose": "決定を明言する締めフレーズ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_31_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "司会者として議論を意思決定に持ち込む。最も適切な進め方はどれか？",
+      "options": [
+        "「どうしましょうか？」と参加者に丸投げ",
+        "「議論を踏まえA案が現実的かと存じます。A案で進める方向でよろしいでしょうか？異論があればお聞かせください」と提示・確認",
+        "強引に多数決を採る",
+        "次回に持ち越す"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "司会は議論を要約して方向を提示し、確認＋反対機会を与えるのが標準。",
+        "vi": "Chủ trì tổng hợp + propose + confirm + mời phản đối là chuẩn JP."
+      }
+    }
+  ]
+}

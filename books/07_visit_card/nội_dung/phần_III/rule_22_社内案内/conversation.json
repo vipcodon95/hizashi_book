@@ -1,0 +1,274 @@
+{
+  "rule_id": "rule_22",
+  "rule_slug": "工場・社内案内",
+  "title": {
+    "ja": "工場・社内案内",
+    "vi": "Đi quanh văn phòng / nhà máy"
+  },
+  "rule_context": {
+    "ja": "11:30 Phase 3 meeting後、田中PMOがズン+トゥアンに開発フロア+demo lab+新宿景色をtour。撮影許可+隣室回避+ガイド後追従の場面。",
+    "vi": "11:30 sau meeting Phase 3, Tanaka PMO tour Dũng + Tuấn qua tầng dev + demo lab + view Shinjuku. Xin phép chụp + tránh phòng kế + theo guide."
+  },
+  "related_rules": [
+    "rule_09",
+    "rule_21",
+    "rule_23"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 無断撮影・隣室突入",
+      "label_vi": "XẤU — chụp lén + tự ý vào phòng kế",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①無断撮影=privacy/IPリスク ②隣室突入で他client confidential情報露見=法的リスク。tour打切+incident report発生。",
+        "vi": "(1) Chụp lén = rủi ro privacy/IP. (2) Tự vào phòng kế = thấy info client khác = legal risk. Tour cắt + incident report."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_22_bad_01",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "こちらが Phase 3 開発チームです。",
+          "sentence_translation": "Đây là team dev Phase 3.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_22_bad_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "（無断でphone撮影）",
+          "sentence_translation": "(rút phone chụp không hỏi)",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_22_bad_03",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "あの…撮影は、ちょっと…",
+          "sentence_translation": "Ơ... chụp ảnh thì hơi...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_22_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、この部屋は何ですか？",
+          "sentence_translation": "À, phòng này là gì ạ?",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_22_bad_05",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "そこは、別件のmeeting中で…",
+          "sentence_translation": "Phòng đó đang họp về việc khác...",
+          "tone": "uncertain",
+          "speed_multiplier": 1.05
+        },
+        {
+          "line_id": "rule_22_bad_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、すみません！",
+          "sentence_translation": "À xin lỗi anh!",
+          "tone": "apologetic"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 後追従・撮影許可・隣室通過",
+      "label_vi": "TỐT — theo sau + xin phép chụp + đi qua phòng kế",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_22_good_02",
+          "highlight_text": "ガイド後ろ1-2歩",
+          "ja": "並走・先導NG。手は後ろ or 前で組み機器に触れない姿勢。",
+          "vi": "Đi ngang / dẫn đầu NG. Tay đặt sau hoặc khoanh trước, không sờ thiết bị."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_22_good_04",
+          "highlight_text": "お写真を撮ってもよろしいでしょうか",
+          "ja": "撮影許可固定句。purpose明示+構図条件提示で host が判断しやすい。",
+          "vi": "Câu xin phép cố định. Nói rõ purpose + đề xuất bố cục để host dễ quyết."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_22_good_08",
+          "highlight_text": "通りすぎいたしましょう",
+          "ja": "Tanakaのhint=『この部屋は入らない』。客側は無言で従う。覗くNG。",
+          "vi": "Hint của Tanaka = 'phòng này không vào'. Khách im lặng theo. KHÔNG nhìn vào."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_22_good_10",
+          "highlight_text": "建物の確認を含む可能性があれば撮影しません",
+          "ja": "Self-aware proactive。窓越し他社ビル写るリスクを host に伝え判断委ねる。",
+          "vi": "Self-aware chủ động. Báo trước rủi ro chụp được tòa khác cho host quyết."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_22_good_01",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "こちらが Phase 3 開発チームのフロアです。",
+          "sentence_translation": "Đây là tầng team dev Phase 3.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_22_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（田中PMOの後ろ1-2歩、手は後ろで組む、無接触）",
+          "sentence_translation": "(đi sau Tanaka 1-2 bước, tay khoanh sau lưng, không sờ gì)",
+          "tone": "neutral",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_22_good_03",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "Phase 3 dev team のリーダーをご紹介します。",
+          "sentence_translation": "Tôi xin giới thiệu lead team dev Phase 3.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_22_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お写真を撮ってもよろしいでしょうか？team合影として記念に。",
+          "sentence_translation": "Em xin phép chụp ảnh được không ạ? Để làm kỷ niệm chung của team ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_22_good_05",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "team の許可も取りますね。…許可出ました。dev team 全体のみ、個人特定不可の構図でお願いします。",
+          "sentence_translation": "Để tôi hỏi team đã. ...OK rồi. Chỉ team toàn cảnh, bố cục không nhận diện cá nhân nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_22_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。",
+          "sentence_translation": "Cảm ơn anh ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_22_good_07",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "（隣室cửa mở前を通る）こちらは別件のmeeting中で、お通りすぎいたしましょう。",
+          "sentence_translation": "(đi qua phòng kế cửa mở) Phòng này đang họp việc khác, mình đi qua thôi nhé.",
+          "tone": "warm",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_22_good_08",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（無言で田中の後を歩く、隣室を覗かない）",
+          "sentence_translation": "(im lặng theo Tanaka, không nhìn vào phòng kế)",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_22_good_09",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "こちらから新宿の街並みがご覧いただけます。",
+          "sentence_translation": "Từ đây các anh có thể ngắm phố Shinjuku.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_22_good_10",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "こちらの景色は撮影してもよろしいでしょうか？建物の確認を含む可能性があれば撮影しません。",
+          "sentence_translation": "Em xin phép chụp cảnh này có được không ạ? Nếu có thể chụp phải tòa khác thì em không chụp ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "4"
+          ]
+        },
+        {
+          "line_id": "rule_22_good_11",
+          "speaker": "tanaka_pmo",
+          "speaker_role": "白鷗 PMO",
+          "gender": "male",
+          "sentence": "景色だけでしたら問題ございません。",
+          "sentence_translation": "Cảnh thôi thì không sao ạ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_22_kp_01",
+      "speaker": "zun",
+      "sentence": "お写真を撮ってもよろしいでしょうか？",
+      "sentence_translation": "Em xin phép chụp ảnh được không ạ?",
+      "purpose": "撮影許可固定句",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_22_kp_02",
+      "speaker": "zun",
+      "sentence": "貴重なご案内ありがとうございました。",
+      "sentence_translation": "Cảm ơn anh đã dẫn em tham quan ạ.",
+      "purpose": "tour終了お礼",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_22_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "客先社内案内中、撮影したい時の最適な発話は？",
+      "options": [
+        "黙って撮影する",
+        "撮影後に『撮りました』と報告",
+        "事前に『お写真を撮ってもよろしいでしょうか』と許可を求める",
+        "案内終了後に許可を取る"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "事前許可必須。purpose+構図条件付きで host 判断容易に。",
+        "vi": "Bắt buộc xin trước. Kèm purpose + bố cục để host dễ quyết."
+      }
+    }
+  ]
+}

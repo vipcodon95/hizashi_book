@@ -1,0 +1,226 @@
+{
+  "rule_id": "rule_44",
+  "rule_slug": "VN-JP 交渉ギャップ",
+  "title": {
+    "ja": "VN-JP 交渉ギャップ",
+    "vi": "Khoảng cách phong cách đàm phán VN-JP"
+  },
+  "rule_context": {
+    "ja": "Phase 4 商談。Tuấn が VN style で即 10% 下げ → ratchet 動く。Dũng が JP mode (内訳 unbundle + trade 形 concession) で再構築し、Tuấn を realtime coach する場面。",
+    "vi": "Đàm phán Phase 4. Tuấn theo style VN giảm 10% phát → ratchet hiệu ứng. Dũng đưa về JP mode (unbundle + trade concession) và coach Tuấn realtime."
+  },
+  "related_rules": [
+    "rule_24",
+    "rule_26",
+    "rule_35"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — VN style 1 発 10% 下げ",
+      "label_vi": "XẤU — Style VN giảm 10% phát",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「やや高い」を direct discount request と誤解、 2 連続 concession なし trade で JP 内部 anchor が ¥15M に shift。",
+        "vi": "Hiểu nhầm 'hơi cao' là yêu cầu discount trực tiếp, concession 2 lần liên tiếp không trade → anchor nội bộ JP shift xuống ¥15M."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_44_bad_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "価格 ¥20M はやや高い印象がございます。",
+          "sentence_translation": "Giá ¥20M hơi tạo cảm giác cao ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_44_bad_02",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "では ¥18M でいかがですか？10% 下げます！",
+          "sentence_translation": "Vậy ¥18M có được không ạ? Em giảm 10%!",
+          "tone": "cheerful"
+        },
+        {
+          "line_id": "rule_44_bad_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "(沈黙、 メモを取る、 表情変化なし)",
+          "sentence_translation": "(Im lặng, ghi note, không biến sắc)",
+          "tone": "neutral",
+          "pause_after_ms": 2000
+        },
+        {
+          "line_id": "rule_44_bad_04",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "¥17M でも検討可能です…",
+          "sentence_translation": "¥17M cũng xem xét được ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_44_bad_05",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "御社 内部でじっくり再検討された後、改めてご提案頂けますでしょうか。",
+          "sentence_translation": "Bên em sau khi cân nhắc kỹ trong nội bộ, đề xuất lại giúp tôi được không.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_44_bad_06",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "Tuấn さん、 concession を 2 回続けて下げました。 弊社 negotiate ratchet として ¥15M target で社内 anchor が動いてしまいました。",
+          "sentence_translation": "Anh Tuấn giảm liên tiếp 2 lần. Bên tôi ratchet trong negotiate, anchor nội bộ đã dịch xuống mức ¥15M.",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — JP mode 内訳 unbundle + trade concession",
+      "label_vi": "TỐT — JP mode unbundle + trade concession",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_44_good_02",
+          "highlight_text": "特に気にされている内訳要素",
+          "ja": "JP「高い」を即 discount せず unbundle で discovery。4 layer 解釈の 'specific reason 欲しい' に対応。",
+          "vi": "JP 'cao' KHÔNG discount ngay, unbundle để discovery. Đáp ứng layer 'muốn biết specific reason' trong 4 layer."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_44_good_04",
+          "highlight_text": "もしどちらかをスコープ外にする trade なら",
+          "ja": "JP reciprocal pattern。1 方向大幅 discount ではなく、scope swap で価格調整。",
+          "vi": "JP reciprocal pattern. Không giảm 1 chiều mà swap scope để điều chỉnh giá."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_44_good_06",
+          "highlight_text": "JP は『高い』 ≠ 『discount せよ』。 specific reason を indirect に asking している",
+          "ja": "JP「高い」 4 layer 解釈の coaching ポイント。direct discount は (i) 真に高い場合のみ正解。",
+          "vi": "Coaching point về 4 layer của JP 'cao'. Direct discount chỉ đúng với layer (i) thực sự đắt."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_44_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "価格 ¥20M はやや高い印象がございます。",
+          "sentence_translation": "Giá ¥20M hơi tạo cảm giác cao ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_44_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご感想ありがとうございます。『高い』という印象の中で、特に気にされている内訳要素はございますでしょうか？AI engine 部分でしょうか、PM 体制でしょうか。",
+          "sentence_translation": "Em cảm ơn cảm nhận của anh ạ. Trong cảm nhận 'cao' đó, có phần breakdown nào anh đặc biệt quan tâm không ạ? Phần AI engine hay phần cơ chế PM ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_44_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "AI engine 部分、 御社 Phase 2 比 +30% の理由を伺いたい。",
+          "sentence_translation": "Phần AI engine, anh muốn nghe lý do +30% so với Phase 2 bên em.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_44_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 2 比 +30% の内訳: customer churn prediction model 追加が +20%、SLA 99.5% → 99.95% upgrade が +10% です。もしどちらかをスコープ外にする trade なら、 ¥18M に調整可能でございます。",
+          "sentence_translation": "Breakdown +30% so với Phase 2: thêm model customer churn prediction là +20%, upgrade SLA 99.5% → 99.95% là +10%. Nếu mình trade bằng cách đưa 1 trong 2 ra ngoài scope thì có thể điều chỉnh xuống ¥18M ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_44_good_05",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "なるほど、 churn prediction の必要性は社内で 議論余地あり。持ち帰り社内検討します。",
+          "sentence_translation": "Hiểu rồi, mức độ cần thiết của churn prediction có dư địa thảo luận nội bộ. Anh mang về xem.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_44_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Tuấn、 JP は『高い』 ≠ 『discount せよ』。 specific reason を indirect に asking している。VN style で即 10% 下げると ratchet 動く。next time も同じ pattern で。",
+          "sentence_translation": "Tuấn, JP 'cao' KHÔNG phải 'giảm đi'. Họ asking gián tiếp specific reason. Style VN giảm 10% phát thì ratchet xảy ra. Lần sau cùng pattern này.",
+          "tone": "warm",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_44_good_07",
+          "speaker": "tuan_leader",
+          "speaker_role": "チームリーダー",
+          "gender": "male",
+          "sentence": "了解。沈黙 2 秒で Dũng の signal 待つ pattern 学んだ。",
+          "sentence_translation": "Hiểu rồi. Anh học được pattern 'silence 2 giây chờ signal Dũng'.",
+          "tone": "neutral"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_44_kp_01",
+      "speaker": "zun",
+      "sentence": "特に気にされている内訳要素はございますでしょうか？",
+      "sentence_translation": "Có phần breakdown nào anh đặc biệt quan tâm không ạ?",
+      "purpose": "JP「高い」 unbundle reframe",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_44_kp_02",
+      "speaker": "zun",
+      "sentence": "もしどちらかをスコープ外にする trade なら、 ¥18M に調整可能でございます。",
+      "sentence_translation": "Nếu mình trade bằng cách đưa 1 trong 2 ra ngoài scope thì có thể điều chỉnh xuống ¥18M ạ.",
+      "purpose": "Reciprocal trade concession",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_44_bjt_01",
+      "level": "J1",
+      "skill": "表現読解",
+      "question_ja": "JP exec の「価格 ¥20M はやや高い印象がございます」に対する最も適切な初動は？",
+      "options": [
+        "「では ¥18M でいかがですか？」と直接 10% discount",
+        "「特に気にされている内訳要素はございますでしょうか？」と unbundle + reciprocal trade を提示",
+        "「これが市場価格です」と否定",
+        "話題を変える"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "JP「高い」は 4 layer 解釈 (内訳説明欲しいが most common)。即 discount は ratchet を動かす。unbundle + trade で JP reciprocal pattern に沿う。",
+        "vi": "JP 'cao' có 4 layer (most common là 'muốn breakdown'). Discount ngay = kích ratchet. Unbundle + trade khớp với JP reciprocal pattern."
+      }
+    }
+  ]
+}

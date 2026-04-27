@@ -1,0 +1,215 @@
+{
+  "rule_id": "rule_30",
+  "rule_slug": "ハイブリッドプレゼン",
+  "title": {
+    "ja": "ハイブリッドプレゼン",
+    "vi": "Hybrid presentation"
+  },
+  "rule_context": {
+    "ja": "Phase 3 ピッチ。大垣・田中が会議室、松本(大阪)・ハー CTO(HCMC) が online。50/50 ルールの実践。",
+    "vi": "Pitch Phase 3. Ōgaki + Tanaka offline tại phòng họp; Matsumoto (Osaka) + Hà CTO (HCMC) online. Áp dụng quy tắc 50/50."
+  },
+  "related_rules": [
+    "rule_29",
+    "rule_31"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — オンライン無視",
+      "label_vi": "XẤU — Quên người online",
+      "display_order": 1,
+      "analysis": {
+        "ja": "Greet も目線も室内のみ → online は second-class。室内質問を復唱しないので online は内容不明。",
+        "vi": "Greet + eye contact toàn offline → online thành second-class. Không repeat câu hỏi trong phòng → online không hiểu."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_30_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "大垣様、田中様、おはようございます。本日はよろしくお願いします。",
+          "sentence_translation": "Anh Ōgaki, anh Tanaka, chào buổi sáng ạ. Hôm nay rất mong được sự chiếu cố của hai anh ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_30_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "では始めます…",
+          "sentence_translation": "Vậy em xin bắt đầu ạ...",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_30_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "Phase 2 KPI の達成率は？",
+          "sentence_translation": "Tỉ lệ đạt KPI Phase 2 là bao nhiêu?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_30_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "85%です。",
+          "sentence_translation": "85% ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_30_bad_05",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社) (online)",
+          "gender": "male",
+          "sentence": "すみません、何の85%でしょうか？",
+          "sentence_translation": "Xin lỗi, 85% của cái gì ạ?",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 50/50 ルール＋復唱",
+      "label_vi": "TỐT — Quy tắc 50/50 + repeat câu hỏi",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_30_good_01",
+          "highlight_text": "まずオンラインの皆様",
+          "ja": "Greet 順序を逆転。オンラインを先にすると second-class 化を防ぐ。",
+          "vi": "Đảo thứ tự greet. Online trước = chống bị second-class hoá."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_30_good_04",
+          "highlight_text": "目線は30秒ずつ切替",
+          "ja": "30s offline → 30s camera。心の中でカウント。3分以上 online を無視しない。",
+          "vi": "30s offline → 30s camera. Đếm thầm. Không bỏ online quá 3 phút."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_30_good_06",
+          "highlight_text": "〇〇様より〜のご質問でございます",
+          "ja": "室内質問の復唱。Online は room mic で聞き取りにくい。復唱で audience 全員 sync。",
+          "vi": "Lặp câu hỏi từ phòng. Online khó nghe room mic. Repeat = sync cả audience."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_30_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "まずオンラインの皆様、おはようございます。松本様、ハー CTO、音声・映像とも問題ございませんでしょうか？",
+          "sentence_translation": "Trước tiên xin chào quý vị online ạ. Anh Matsumoto, anh Hà CTO, âm thanh và hình ảnh có vấn đề gì không ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_30_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社) (online)",
+          "gender": "male",
+          "sentence": "クリアに聞こえています、ありがとうございます。",
+          "sentence_translation": "Nghe rõ ạ, cảm ơn anh.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_30_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "大垣様、田中様、本日もよろしくお願いいたします。",
+          "sentence_translation": "Anh Ōgaki, anh Tanaka, hôm nay cũng rất mong được sự chiếu cố ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_30_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "本日のプレゼン、室内3名＋オンライン2名で進めさせていただきます。目線は30秒ずつ切替いたします。",
+          "sentence_translation": "Buổi pitch hôm nay sẽ tiến hành với 3 người trong phòng + 2 người online ạ. Em sẽ chia eye contact 30 giây / lần ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_30_good_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "Phase 2 KPI の達成率は？",
+          "sentence_translation": "Tỉ lệ đạt KPI Phase 2 là bao nhiêu?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_30_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "大垣様より『Phase 2 KPI 達成率』のご質問でございます。Phase 2 KPI 達成率は85%でございます。オンラインの松本様、聞こえていますでしょうか？",
+          "sentence_translation": "Anh Ōgaki vừa hỏi 「Tỉ lệ đạt KPI Phase 2」 ạ. Tỉ lệ đạt KPI Phase 2 là 85% ạ. Anh Matsumoto online, anh có nghe rõ không ạ?",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_30_good_07",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社) (online)",
+          "gender": "male",
+          "sentence": "はい、明確です。",
+          "sentence_translation": "Vâng, rõ ràng ạ.",
+          "tone": "neutral"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_30_kp_01",
+      "speaker": "zun",
+      "sentence": "まずオンラインの皆様、音声・映像とも問題ございませんでしょうか？",
+      "sentence_translation": "Trước tiên quý vị online, âm thanh và hình ảnh có vấn đề gì không ạ?",
+      "purpose": "ハイブリッド冒頭 online 優先 greet",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_30_kp_02",
+      "speaker": "zun",
+      "sentence": "〇〇様より〜のご質問でございます。",
+      "sentence_translation": "Anh/chị 〇〇 vừa hỏi 〜 ạ.",
+      "purpose": "室内質問の復唱パターン",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_30_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "ハイブリッドプレゼンで online audience が second-class 化しないために最も重要なのは？",
+      "options": [
+        "Online を greet する順序を最後にする",
+        "Greet online 先 + 目線 30s/30s 切替 + 室内質問の復唱",
+        "Online は chat だけ使わせる",
+        "Camera を presenter の後ろに置く"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "Online priority greet + 50/50 eye contact + 復唱 が3点セット。1つ欠けると online が無視される印象。",
+        "vi": "Greet online trước + eye contact 50/50 + repeat câu hỏi là combo 3. Thiếu 1 = online cảm thấy bị bỏ rơi."
+      }
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "rule_id": "rule_11",
+  "rule_slug": "会社の代表として答える",
+  "title": {
+    "ja": "会社の代表として答える",
+    "vi": "Đại diện công ty trả lời, không phải cá nhân"
+  },
+  "rule_context": {
+    "ja": "受電時はあなたが会社の顔。「分からない」「いない」も会社目線で言い換える。",
+    "vi": "Khi nhấc máy, bạn = bộ mặt công ty. 'Không biết' và 'vắng' phải nói theo lối đại diện."
+  },
+  "related_rules": [
+    "rule_01",
+    "rule_16"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 個人として答える",
+      "label_vi": "XẤU — Trả lời như cá nhân",
+      "display_order": 1,
+      "conversation_lines": [
+        {
+          "line_id": "rule_11_bad_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "契約書の修正版、いつもらえますか？",
+          "sentence_translation": "Hợp đồng sửa đổi khi nào em gửi cho anh được?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_11_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "私には分かりません。",
+          "sentence_translation": "Em không biết ạ.",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 会社代表として",
+      "label_vi": "TỐT — Đại diện công ty",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_11_good_02",
+          "highlight_text": "確認の上、本日中にご連絡いたします",
+          "ja": "3つのメッセージ：(1)確認する、(2)折り返す、(3)期限は本日中。",
+          "vi": "3 thông điệp: (1) sẽ check, (2) sẽ liên lạc lại, (3) trong hôm nay."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_11_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "契約書の修正版、いつもらえますか？",
+          "sentence_translation": "Hợp đồng sửa đổi khi nào em gửi được?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_11_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "確認の上、本日中にご連絡いたします。",
+          "sentence_translation": "Em xin xác nhận và liên lạc lại anh trong hôm nay ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_11_kp_01",
+      "speaker": "zun",
+      "sentence": "確認の上、〇〇までにご連絡いたします。",
+      "sentence_translation": "Em xác nhận và liên lạc lại anh/chị trước 〇〇 ạ.",
+      "purpose": "「分からない」を会社代表として言い換えるテンプレート",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_11_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "「私には分かりません」を会社代表として言い換えると？",
+      "options": [
+        "知りません",
+        "分からないです",
+        "確認の上、ご連絡いたします",
+        "他の人に聞いてください"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "会社として「確認して連絡する」が標準的回答。",
+        "vi": "Đại diện công ty: chuẩn là 「xác nhận và liên lạc lại」."
+      }
+    }
+  ]
+}

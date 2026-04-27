@@ -1,0 +1,208 @@
+{
+  "rule_id": "rule_25",
+  "rule_slug": "答えではなく判断材料",
+  "title": {
+    "ja": "答えではなく判断材料を求める",
+    "vi": "Hỏi judgment material thay vì hỏi đáp án"
+  },
+  "rule_context": {
+    "ja": "ズンが Phase 2 リリース時期（土曜深夜 vs 月曜早朝）でフオン副部長に相談。『どっちがいいですか?』から『判断材料を補強してほしい』へのシフト。",
+    "vi": "Em Dũng tham vấn chị Hương về thời điểm release Phase 2 (đêm thứ Bảy vs sáng thứ Hai). Từ 'cái nào hơn?' → 'xin chị bồi dữ kiện cho em'."
+  },
+  "related_rules": ["rule_23", "rule_26", "rule_28"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 答えを丸投げ",
+      "label_vi": "XẤU — Đẩy đáp án",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「どっちがいいですか」は判断を上司に丸投げするパターン。junior 自身の思考プロセスが見えず、上司は逆質問せざるを得ない。",
+        "vi": "「Cái nào hơn?」 là đẩy quyết định cho sếp. Tư duy của junior không hiện ra, sếp buộc phải hỏi ngược."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_25_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、Phase 2 のリリース、土曜にしますか?月曜にしますか?どっちがいいですか?",
+          "sentence_translation": "Chị Hương, release Phase 2 thứ Bảy hay thứ Hai? Cái nào hơn ạ?",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_25_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "で、あなたはどっちがいいと思ってるの?",
+          "sentence_translation": "Vậy em nghĩ cái nào hơn?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_25_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと…分からなくて…",
+          "sentence_translation": "Ờ... em chưa biết...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_25_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ズン、私が決めるんじゃない。あなたが決める。私の役割は見落としを指摘すること。仮説と判断材料を持ってきて。",
+          "sentence_translation": "Dũng, không phải chị quyết. Em quyết. Vai trò chị là chỉ ra cái em bỏ sót. Mang giả thuyết và dữ kiện đến.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — A/B 仮説 + 観点提示",
+      "label_vi": "TỐT — A/B + giả thuyết + nêu axis",
+      "display_order": 2,
+      "analysis": {
+        "ja": "A/B のメリット・デメリットを並べた上で『観点を補強してほしい』と聞く。上司は新しい観点（顧客の月曜定例）を1つ加えるだけで済み、決定権は ズン に残る。",
+        "vi": "Đưa pros/cons A và B rồi xin 'bồi axis'. Sếp chỉ cần add 1 axis mới (định kỳ thứ Hai của khách), quyền quyết định vẫn ở Dũng."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_25_good_01",
+          "highlight_text": "判断材料を補強していただきたく存じます",
+          "ja": "「答えではなく材料」という相談姿勢を1文で表現。上司は『指南役』ではなく『データ補強役』に位置付けられる。",
+          "vi": "Diễn tả tư thế 'không phải đáp án mà là dữ kiện' trong 1 câu. Sếp được định vị là 'người bồi dữ liệu' thay vì 'người phán xử'."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_25_good_03",
+          "highlight_text": "メリット = 〇〇、デメリット = 〇〇",
+          "ja": "両案のメリット・デメリットを対比形式で提示。上司は比較が一目でわかる。",
+          "vi": "Trình bày pros/cons hai phương án dạng đối chiếu. Sếp nhìn 1 phát biết so sánh."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_25_good_04",
+          "highlight_text": "観点として、お客様の月曜業務影響をどう評価すべきか",
+          "ja": "ズンが既に1つ観点を提案。上司はそれに『顧客の月曜定例会』という新しい観点を追加するだけで済む。",
+          "vi": "Dũng đã đề xuất sẵn 1 axis. Sếp chỉ cần thêm 1 axis mới ('định kỳ thứ Hai của khách')."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_25_good_06",
+          "highlight_text": "土曜深夜 + トゥアン待機体制で進めます",
+          "ja": "上司の助言を取り込んだ上で、決定は自分で下す。これが『相談』の正しい締め方。",
+          "vi": "Tích hợp gợi ý của sếp rồi tự quyết. Đây là cách đóng tham vấn đúng."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_25_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、Phase 2 リリース時期について、A『土曜深夜』とB『月曜早朝』で悩んでおります。私は B 寄りなのですが、見落としがないか判断材料を補強していただきたく存じます。",
+          "sentence_translation": "Chị Hương, về thời điểm release Phase 2 em đang phân vân giữa A 'đêm thứ Bảy' và B 'sáng thứ Hai'. Em đang nghiêng về B, nhưng không biết có bỏ sót gì không, mong chị bồi thêm dữ kiện cho em ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_25_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "うん、続けて。",
+          "sentence_translation": "Ừ, em nói tiếp.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_25_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "A 土曜深夜: メリット = ユーザー影響最小、デメリット = エンジニア稼働 + 障害時呼び出し体制が薄い。B 月曜早朝: メリット = フル体制で対応、デメリット = AM ピーク時に近く障害時の影響大。",
+          "sentence_translation": "A đêm thứ Bảy: Lợi = ảnh hưởng user tối thiểu, Hại = phải làm thêm + nếu sự cố thì khó gọi người trực. B sáng thứ Hai: Lợi = full team xử lý, Hại = gần peak AM, sự cố thì ảnh hưởng lớn.",
+          "tone": "neutral",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_25_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "過去 Phase 1 のデプロイは月曜早朝でした。観点として、お客様の月曜業務影響をどう評価すべきかがポイントかと思っております。",
+          "sentence_translation": "Phase 1 lần trước em deploy sáng thứ Hai. Theo em axis cần xét là đánh giá ảnh hưởng tới công việc thứ Hai của khách thế nào ạ.",
+          "tone": "neutral",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_25_good_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "その観点正しい。追加で、松本様サイドが月曜午前に毎週定例会あるから、リリース直後に何かあると会議中に騒ぎになる。それを考えると土曜深夜+待機体制が現実的。私は土曜推し。最終判断は ズン。",
+          "sentence_translation": "Axis đó đúng. Bổ sung: phía anh Matsumoto sáng thứ Hai có định kỳ tuần, nên release xong mà có sự cố thì họp đang ồn lên. Tính cả cái đó thì đêm thứ Bảy + trực là thực tế. Chị nghiêng đêm thứ Bảy. Quyết cuối là Dũng.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_25_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。土曜深夜 + トゥアン待機体制で進めます。",
+          "sentence_translation": "Em cảm ơn chị. Em sẽ đi với đêm thứ Bảy + chế độ trực của anh Tuấn ạ.",
+          "tone": "formal",
+          "annotation_ids": ["4"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_25_kp_01",
+      "speaker": "zun",
+      "sentence": "AとBで悩んでおります。見落としている観点はありますでしょうか?",
+      "sentence_translation": "Em phân vân giữa A và B. Có axis nào em đang bỏ sót không ạ?",
+      "purpose": "見落とし系の判断材料リクエスト",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_25_kp_02",
+      "speaker": "zun",
+      "sentence": "判断材料を補強していただきたく存じます。",
+      "sentence_translation": "Em mong chị/anh bồi thêm dữ kiện giúp em ạ.",
+      "purpose": "答えではなく材料を求める姿勢",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_25_kp_03",
+      "speaker": "zun",
+      "sentence": "過去に類似事例がございましたら、どう判断されたか伺えますでしょうか?",
+      "sentence_translation": "Nếu trước đây có case tương tự, anh/chị đã quyết thế nào em xin nghe ạ.",
+      "purpose": "経験系の判断材料リクエスト",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_25_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "上司への相談で最も適切な聞き方は?",
+      "options": [
+        "正解を教えてください",
+        "どちらがいいですか?",
+        "AとBで悩んでおります。見落としている観点はありますか?",
+        "とりあえず指示してください"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "答えを聞くのではなく『判断材料』『見落としの観点』を聞くのが相談の本質。決定権は相談者側に残る。",
+        "vi": "Không hỏi đáp án mà hỏi 'dữ kiện' 'axis bỏ sót' = bản chất tham vấn. Quyền quyết định ở phía người tham vấn."
+      }
+    }
+  ]
+}

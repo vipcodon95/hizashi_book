@@ -1,0 +1,73 @@
+{
+  "rule_id": "rule_12",
+  "rule_slug": "相手の名前を復唱で確認",
+  "title": {
+    "ja": "相手の名前を復唱で確認",
+    "vi": "Xác nhận tên đối phương"
+  },
+  "rule_context": {
+    "ja": "日本人の名字は聞き取りミスが多いため復唱必須。",
+    "vi": "Tên người Nhật dễ nghe nhầm, phải lặp lại."
+  },
+  "related_rules": [
+    "rule_13",
+    "rule_14"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "conversation_lines": [
+        {
+          "line_id": "rule_12_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "白鷗のますもとですが、ズンさんお願いします。",
+          "sentence_translation": "Tôi là Matsumoto bên Hakuō, nhờ em nối máy cho anh Dũng.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_12_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "白鷗株式会社の松本様でいらっしゃいますね。いつもお世話になっております。",
+          "sentence_translation": "Anh là Matsumoto bên Cty Hakuō đúng không ạ. Em đã đợi điện anh ạ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_12_kp_01",
+      "speaker": "zun",
+      "sentence": "〇〇様でいらっしゃいますね。",
+      "sentence_translation": "Anh/chị là 〇〇 đúng không ạ?",
+      "purpose": "名前確認の標準フレーズ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_12_bjt_01",
+      "level": "J4",
+      "skill": "表現読解",
+      "question_ja": "相手の名前を確認する最も丁寧な言い方は？",
+      "options": [
+        "お名前は？",
+        "誰ですか？",
+        "〇〇様でいらっしゃいますね",
+        "〇〇さんですか"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "「いらっしゃる」が最高の敬語。",
+        "vi": "「いらっしゃる」 là kính ngữ cao nhất."
+      }
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "rule_id": "rule_11",
+  "rule_slug": "フックの3パターン",
+  "title": {
+    "ja": "フックの3パターン (story/data/question)",
+    "vi": "Hook 3 pattern (story / data / question)"
+  },
+  "rule_context": {
+    "ja": "リン(インターン)が初プレゼン前にズンへフックパターンを相談する場面。Story/Data/Question から audience に合わせて選ぶ方法を学ぶ。",
+    "vi": "Linh (intern) tham vấn Dũng về hook pattern trước lần pitch đầu. Học cách chọn Story / Data / Question theo audience."
+  },
+  "related_rules": ["rule_08", "rule_12", "rule_18"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 不適切なパターン選択",
+      "label_vi": "XẤU — Chọn pattern không hợp",
+      "display_order": 1,
+      "analysis": {
+        "ja": "初対面・保守的相手にストーリー型は技量と rapport が必要。データ型の方が安全。",
+        "vi": "Story pattern với khách lạ + bảo thủ cần kỹ năng cao + rapport. Data pattern an toàn hơn."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_11_bad_01",
+          "speaker": "linh",
+          "speaker_role": "Marketingインターン",
+          "gender": "female",
+          "sentence": "ズン先輩、明日のプレゼン、ストーリー型でいきます。学生時代に手作業で在庫管理した話で…",
+          "sentence_translation": "Anh Dũng, mai pitch em đi pattern story. Kể chuyện thời sinh viên em quản lý kho thủ công ấy ạ...",
+          "tone": "cheerful"
+        },
+        {
+          "line_id": "rule_11_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "相手 50代の中小企業オーナー？大丈夫？ストーリー型は滑ったら30秒で終わる。データはある？",
+          "sentence_translation": "Khách là chủ SME ngoài 50 tuổi đúng không? OK không đó? Story pattern mà trượt là chết trong 30 giây luôn. Em có data không?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_11_bad_03",
+          "speaker": "linh",
+          "speaker_role": "Marketingインターン",
+          "gender": "female",
+          "sentence": "『手作業で1日3時間』みたいなデータは…",
+          "sentence_translation": "Em có dạng 「thủ công 3 tiếng/ngày」 thì có ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_11_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "それ data 型でいけるじゃん。『1日3時間の手作業を15分に圧縮』って数字で入る方が安全。",
+          "sentence_translation": "Vậy đi data luôn được mà. Vào thẳng bằng số 「nén 3 tiếng thủ công xuống 15 phút」 — an toàn hơn.",
+          "tone": "warm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — パターン選択基準を学ぶ",
+      "label_vi": "TỐT — Học tiêu chí chọn pattern",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_11_good_01",
+          "highlight_text": "3パターンの選び方",
+          "ja": "Story = rapport + skill, Data = safe default, Question = audience engaged。",
+          "vi": "Story = rapport + skill, Data = mặc định an toàn, Question = audience đã engaged."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_11_good_03",
+          "highlight_text": "驚き数字 → だからこの話",
+          "ja": "Data hook 公式: 痛み数字 + 解決数字 → audience の『自分ごと』感を生む。",
+          "vi": "Công thức data hook: số pain + số solve → tạo cảm giác 「của mình」 cho audience."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_11_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "3パターンの選び方を教えるね。(A) ストーリー型: rapport ある相手 + 自分の delivery 自信ある時。(B) データ型: 初対面 + 保守的相手。(C) 質問型: 相手が議論モードに入ってる時。",
+          "sentence_translation": "Để anh chỉ cách chọn 3 pattern nhé. (A) Story: khi đã có rapport + tự tin delivery. (B) Data: lần đầu gặp + khách bảo thủ. (C) Question: khi khách đã ở mode thảo luận.",
+          "tone": "warm",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_11_good_02",
+          "speaker": "linh",
+          "speaker_role": "Marketingインターン",
+          "gender": "female",
+          "sentence": "私の場合は B ですね。50代オーナー、初対面、保守的。",
+          "sentence_translation": "Trường hợp em là B đúng không ạ. Chủ ngoài 50 tuổi, lần đầu gặp, bảo thủ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_11_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "正解。Bは『驚き数字 → だからこの話』の流れ。『手作業で1日3時間使っているこの作業、15分に圧縮できます』 で30秒成立。",
+          "sentence_translation": "Đúng rồi. B đi theo flow 「số gây sốc → vì vậy chuyện này」. Câu 「Cái việc thủ công ngốn 3 tiếng/ngày này, có thể nén xuống 15 phút」 là đủ 30 giây.",
+          "tone": "warm",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_11_good_04",
+          "speaker": "linh",
+          "speaker_role": "Marketingインターン",
+          "gender": "female",
+          "sentence": "シンプルですね…練習します。",
+          "sentence_translation": "Đơn giản thế ạ... em sẽ luyện ạ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_11_kp_01",
+      "speaker": "zun",
+      "sentence": "〇〇に〇時間使っているこの作業、〇分に圧縮できます。",
+      "sentence_translation": "Cái việc đang ngốn 〇 tiếng cho 〇〇 này, có thể nén xuống còn 〇 phút.",
+      "purpose": "データ型 hook テンプレ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_11_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "初対面の保守的な顧客向けプレゼンで最も安全な hook パターンは？",
+      "options": [
+        "学生時代の長いストーリー",
+        "驚きの数字から入る (データ型)",
+        "鋭い修辞疑問を投げる",
+        "自社製品の機能列挙"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "保守的・初対面はデータ型が安全。Story はスキル要、Question は audience engaged 前提。",
+        "vi": "Khách bảo thủ + lần đầu = data hook an toàn. Story cần skill, Question cần audience đã engaged."
+      }
+    }
+  ]
+}

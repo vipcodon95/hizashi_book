@@ -1,0 +1,79 @@
+# Rule 10 — Báo cáo trong 朝礼 / 朝礼での報告
+
+> **Luận điểm.** 朝礼 (morning standup) Nhật business: mỗi người 30-60 giây. Vượt thời gian = làm chậm cả team. Cấu trúc tối giản: **「昨日 / 今日 / 困りごと」** — 3 dòng. Không kể chi tiết, chi tiết để 1-on-1 sau.
+>
+> 朝礼での報告は1人30〜60秒。**「昨日／今日／困りごと」** の3行で済ませる。詳細は朝礼後の個別 talk で。
+>
+> **Liên quan:** rule 02 (DDBN), rule 14 (broadcast).
+> Sách 03 (Họp) Rule 03 — 朝礼 trong họp.
+
+---
+
+## Bối cảnh / 場面
+
+Sáng thứ Hai 8:55 — 朝礼 team Phase 2. Em Dũng đến lượt báo. Lần đầu Dũng kể chi tiết 3 phút → cả team mất giờ. Anh Tuấn dạy format 3 dòng.
+
+---
+
+## ❌ Hội thoại XẤU — kể chi tiết 3 phút
+
+*主持 · 2 phút trôi qua*
+
+| Speaker | Câu |
+|---------|-----|
+| **トゥアン** | 「次、ズン。」 |
+| **ズン** | 「昨日は API のリファクタを始めて、最初は単純だと思ったんですが、〇〇のところで…ええと、それで松本様からのコメントもあって…今日は…うーん、続きを…」 |
+| **トゥアン** | 「ズン、朝礼は **30秒**。詳細は10時に1-on-1 で聞く。今は3行で。」 |
+| **ズン** | 「すみません…」 |
+
+**Vì sao xấu:** L2 quá 2 phút, không có cấu trúc, kể chuyện thay vì báo trạng thái. 朝礼 8 người × 2 phút = 16 phút → muộn cả ngày.
+
+---
+
+## ✅ Hội thoại TỐT — 3 dòng 30 giây
+
+*30 giây*
+
+| Speaker | Câu |
+|---------|-----|
+| **トゥアン** | 「次、ズン。」 |
+| **ズン** | 「**昨日**：API リファクタ 60% 完了。**今日**：残り40% + テスト着手。**困りごと**：松本様コメントの3番が解釈不明、トゥアンさんと10時に5分相談したいです【1】。」 |
+| **トゥアン** | 「了解、10時 5分 OK。次、リン。」 |
+| **リン** | 「**昨日**：マーケ資料 v3 完成。**今日**：v3 をハイ先輩にレビュー依頼。**困りごと**：なし。」 |
+
+📝 **Ghi chú:**
+- 【1】**「困りごと」** = blocker hoặc tham vấn ngắn. Không kể tự nhiên — phải có. "なし" cũng OK, miễn có nói.
+- 30 giây = 80-100 chữ tiếng Nhật. Tính toán trước.
+- Ai cần thảo luận sâu → hẹn 1-on-1 sau 朝礼, không kéo cả team.
+
+---
+
+## 🎯 Câu chốt
+
+> **「昨日：〇〇 / 今日：〇〇 / 困りごと：〇〇 (or なし)」**
+>
+> *3 dòng × 30 giây. Detail để 1-on-1.*
+
+---
+
+## ⚠ Tránh
+
+- Kể câu chuyện ("最初は〇〇だと思ったんですが…") — 朝礼 không phải nơi narrate.
+- Bỏ qua "困りごと" khi không có blocker — vẫn nói "なし" để team biết bạn đã check.
+- Hỏi trực tiếp người khác trong 朝礼 ("トゥアンさん、〇〇どうなってますか？") — phá flow của họ.
+- Đọc note dài 1 trang — soạn note 3 dòng từ trước thôi.
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 朝礼 | ちょうれい | Morning standup |
+| 昨日 | きのう | Hôm qua |
+| 今日 | きょう | Hôm nay |
+| 困りごと | こまりごと | Việc đang gặp khó / blocker |
+| リファクタ | rifakuta | Refactor |
+| 解釈 | かいしゃく | Cách hiểu / diễn giải |
+| 1-on-1 | わんおんわん | 1-on-1 talk |
+| 流れ | ながれ | Flow / dòng chảy |

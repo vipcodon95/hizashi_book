@@ -1,0 +1,240 @@
+{
+  "rule_id": "rule_12",
+  "rule_slug": "対面会議の冒頭",
+  "title": {
+    "ja": "対面会議の冒頭",
+    "vi": "Mở đầu hội nghị offline"
+  },
+  "rule_context": {
+    "ja": "9:40 着席+お茶配膳完了後、フオン副部長がPhase 3 kickoff会議を5要素冒頭で開始する場面。",
+    "vi": "9:40 sau khi khách ngồi + trà ra, Hương 副部長 mở đầu meeting Phase 3 kickoff với 5 yếu tố chuẩn."
+  },
+  "related_rules": [
+    "rule_10",
+    "rule_11",
+    "rule_13"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — slide直入・agenda紙無し",
+      "label_vi": "XẤU — vào thẳng slide + thiếu agenda giấy",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①長旅謝辞無で冷たい印象 ②agenda紙未準備で5分中断 ③intro round skipで新メンバーリン認知無し。3点減点。",
+        "vi": "(1) Không cảm ơn đường xa = lạnh. (2) Thiếu agenda giấy = gián đoạn 5 phút. (3) Bỏ intro round = không ai biết Linh."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_12_bad_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "では、Phase 3 のスコープを説明します。スライド1ご覧ください。Backend API は…",
+          "sentence_translation": "Vậy chị xin phép explain scope Phase 3. Slide 1 xin các anh xem ạ. Backend API thì...",
+          "tone": "neutral",
+          "speed_multiplier": 1.05
+        },
+        {
+          "line_id": "rule_12_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "あの、すみません、agenda はありますか？",
+          "sentence_translation": "Xin lỗi, có agenda không ạ?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_12_bad_03",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "あ、PDFを共有しました…",
+          "sentence_translation": "À, em đã share PDF rồi ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_12_bad_04",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "紙でも頂けますか？",
+          "sentence_translation": "Có thể cho bản giấy không ạ?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_12_bad_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "リンさん、agenda 5部印刷お願い…",
+          "sentence_translation": "Linh, in giúp chị 5 bản agenda...",
+          "tone": "apologetic"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 5要素冒頭",
+      "label_vi": "TỐT — 5 yếu tố mở đầu",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_12_good_01",
+          "highlight_text": "長旅の中、HCMCまでお越しいただき",
+          "ja": "12h移動への謝辞は対面会議の冒頭必須要素。これだけでgoodwill +30%。",
+          "vi": "Cảm ơn 12h di chuyển = yếu tố bắt buộc đầu meeting offline. Riêng câu này +30% goodwill."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_12_good_03",
+          "highlight_text": "agendaは皆様のお手元にございます",
+          "ja": "紙agendaを9:30までに机上配置。PDFのみは不可。日本側は手書きメモを取る。",
+          "vi": "Agenda giấy đặt sẵn từ 9:30. Chỉ PDF là KHÔNG đủ. Khách Nhật quen ghi note tay."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_12_good_04",
+          "highlight_text": "新メンバーが参加していますので、最初に簡単な自己紹介",
+          "ja": "リン(新人)を含むメンバーがいる時、30秒/人のintro roundで全員のname+role+mapping。",
+          "vi": "Khi có new face (Linh), intro round 30s/người để khớp name+role+mặt cho cả nhóm."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_12_good_06",
+          "highlight_text": "お茶のお代わり、お手洗い、いつでもお申し付けください",
+          "ja": "基本ルール明示で客が遠慮せず利用可能。長丁場会議の必須案内。",
+          "vi": "Nói rõ rule = khách thoải mái xin trà refill / WC. Bắt buộc cho meeting dài."
+        },
+        {
+          "id": "5",
+          "applies_to_line": "rule_12_good_07",
+          "highlight_text": "online比10%減速",
+          "ja": "対面はbody languageあるが、VN日本語accent処理に時間必要。スライド進行も online比10%遅く。",
+          "vi": "Offline có body language nhưng khách cần thời gian xử lý accent VN. Trình bày chậm hơn online 10%."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_12_good_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "本日はお忙しい中、また長旅の中、HCMCまでお越しいただき、誠にありがとうございます。",
+          "sentence_translation": "Hôm nay các anh bận rộn lại đường xa đến tận HCMC, em xin chân thành cảm ơn ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.9,
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_12_good_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "いえいえ、こちらこそ。",
+          "sentence_translation": "Không không, chúng tôi cũng vậy.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_12_good_03",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "本日のagendaは皆様のお手元にございます。全体9:40〜12:00、3つのトピックを予定しております。",
+          "sentence_translation": "Agenda hôm nay đã có trong tay các anh ạ. Toàn bộ 9:40 đến 12:00, dự kiến 3 chủ đề.",
+          "tone": "formal",
+          "speed_multiplier": 0.9,
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_12_good_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "本日は弊社からも新メンバーが参加していますので、最初に簡単な自己紹介を。皆様、続けてお願いします。",
+          "sentence_translation": "Hôm nay bên em có thành viên mới tham gia, xin phép tự giới thiệu trước ạ. Mong các anh cũng giới thiệu tiếp ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_12_good_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "（intro round 6名 30秒/人完了）",
+          "sentence_translation": "(intro round 6 người, 30 giây/người hoàn tất)",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_12_good_06",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "お茶のお代わり、お手洗い、いつでもお申し付けください。携帯はマナーモードでお願いいたします。",
+          "sentence_translation": "Trà refill, WC, lúc nào các anh cần cứ nói ạ. Mong các anh để điện thoại chế độ im lặng giúp em.",
+          "tone": "formal",
+          "annotation_ids": [
+            "4"
+          ]
+        },
+        {
+          "line_id": "rule_12_good_07",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "では、最初のトピック『Phase 3 スコープ確認』に入らせていただきます。",
+          "sentence_translation": "Vậy em xin phép vào chủ đề đầu 'Xác nhận scope Phase 3' ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.9,
+          "annotation_ids": [
+            "5"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_12_kp_01",
+      "speaker": "fuon",
+      "sentence": "長旅の中、HCMCまでお越しいただき、誠にありがとうございます。",
+      "sentence_translation": "Đường xa đến tận HCMC, em xin chân thành cảm ơn ạ.",
+      "purpose": "対面会議冒頭長旅謝辞",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_12_kp_02",
+      "speaker": "fuon",
+      "sentence": "お茶のお代わり、お手洗い、いつでもお申し付けください。",
+      "sentence_translation": "Trà refill, WC, lúc nào cần cứ nói ạ.",
+      "purpose": "ルール明示固定句",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_12_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "対面会議の冒頭で、online会議と異なる必須要素は？",
+      "options": [
+        "画面共有確認",
+        "音声テスト",
+        "長旅謝辞 + agenda紙 + intro round",
+        "録画許可"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "対面固有: 移動への謝辞・紙agenda・新メンバーintro round。online要素は不要。",
+        "vi": "Đặc thù offline: cảm ơn đường xa + agenda giấy + intro round. Yếu tố online không cần."
+      }
+    }
+  ]
+}

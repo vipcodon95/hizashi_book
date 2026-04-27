@@ -1,0 +1,176 @@
+{
+  "rule_id": "rule_10",
+  "rule_slug": "自己紹介の標準",
+  "title": {
+    "ja": "自己紹介の標準",
+    "vi": "Tự giới thiệu khi có người mới"
+  },
+  "rule_context": {
+    "ja": "新メンバーのリンが白鷗との会議で初めて自己紹介する場面。会社→部署→名前→役割の4要素を3文・10秒で。",
+    "vi": "Linh — thành viên mới — lần đầu tự giới thiệu trong họp với 白鷗. 4 element: Cty / phòng / tên / vai trò, gọn trong 3 câu / 10 giây."
+  },
+  "related_rules": [
+    "rule_09",
+    "rule_11",
+    "rule_12"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 学校面接風の自己紹介",
+      "label_vi": "XẤU — Tự giới thiệu kiểu phỏng vấn",
+      "display_order": 1,
+      "analysis": {
+        "ja": "年齢・出身・卒業校・趣味まで盛り込み、業務上必要ない情報が多い。客は『未熟』と感じる。",
+        "vi": "Kể tuổi, quê, trường, sở thích — không cần thiết cho business. Khách cảm thấy chưa được train."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_10_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "では、新メンバーのリンさんから自己紹介をお願いします。",
+          "sentence_translation": "Vâng, mời em Linh — thành viên mới — tự giới thiệu ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_10_bad_02",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "は、はい！リンと申します。23歳で、ハノイ出身で、ハノイ大学を卒業して、入社2ヶ月目で、よろしくお願いします！趣味は…",
+          "sentence_translation": "D... dạ! Em là Linh ạ. Em 23 tuổi, quê Hà Nội, học Đại học Hà Nội, em vào công ty được 2 tháng rồi ạ, mong được mọi người giúp đỡ! Sở thích của em là...",
+          "tone": "nervous",
+          "speed_multiplier": 1.1
+        },
+        {
+          "line_id": "rule_10_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "リンさん、業務の自己紹介は会社・部署・名前・役割でいいよ。",
+          "sentence_translation": "Linh, tự giới thiệu trong họp business chỉ cần công ty / phòng / tên / vai trò là được nhé.",
+          "tone": "warm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 4要素3文の自己紹介",
+      "label_vi": "TỐT — 4 element trong 3 câu",
+      "display_order": 2,
+      "analysis": {
+        "ja": "①会社・部署・名前→②プロジェクト内の役割→③簡潔な締め。10秒で完結。",
+        "vi": "Câu 1: Cty + phòng + tên → Câu 2: vai trò trong dự án → Câu 3: kết ngắn. Hết trong 10 giây."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_10_good_02",
+          "highlight_text": "ティエンファット社、マーケティング部のリンと申します",
+          "ja": "「会社→部署→名前」の順は崩さない。「と申します」は「です」より謙譲度高い。",
+          "vi": "Thứ tự Cty → phòng → tên không thay đổi. 「と申します」 khiêm nhường hơn 「です」."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_10_good_03",
+          "highlight_text": "および",
+          "ja": "「および」は文書語的「and」。複数の項目を formal に並べる。",
+          "vi": "「および」 là 'và' formal trong văn bản. Dùng khi liệt kê nhiều mục."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_10_good_04",
+          "highlight_text": "不慣れな点もございますが",
+          "ja": "新人の自己紹介の humble closing として最適。",
+          "vi": "Closing khiêm nhường đẹp cho người mới."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_10_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "では、新メンバーのリンさんから自己紹介をお願いします。",
+          "sentence_translation": "Vâng, mời em Linh — thành viên mới — tự giới thiệu ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_10_good_02",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "ティエンファット社、マーケティング部のリンと申します。",
+          "sentence_translation": "Em là Linh, phòng Marketing bên Thiên Phát ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_10_good_03",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "本プロジェクトでは、議事録と資料管理を担当いたします。",
+          "sentence_translation": "Trong dự án này em phụ trách biên bản và quản lý tài liệu ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_10_good_04",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "不慣れな点もございますが、何卒よろしくお願いいたします。",
+          "sentence_translation": "Em còn nhiều điều chưa thạo, rất mong mọi người chỉ bảo giúp em ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "3"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_10_kp_01",
+      "speaker": "linh",
+      "sentence": "〇〇社、〇〇部の〇〇と申します。",
+      "sentence_translation": "Em là 〇〇, phòng 〇〇 bên 〇〇 ạ.",
+      "purpose": "業務自己紹介の冒頭定型",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_10_kp_02",
+      "speaker": "linh",
+      "sentence": "本プロジェクトでは、〇〇および〇〇を担当いたします。",
+      "sentence_translation": "Trong dự án này em phụ trách 〇〇 và 〇〇 ạ.",
+      "purpose": "プロジェクト内役割の説明",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_10_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "業務会議における自己紹介に含めるべき要素はどれか？",
+      "options": [
+        "年齢・出身・趣味",
+        "会社・部署・名前・役割",
+        "卒業校・好きな食べ物",
+        "家族構成・血液型"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "業務上必要なのは『会社・部署・名前・役割』の4要素のみ。",
+        "vi": "Business chỉ cần 4 element: công ty / phòng / tên / vai trò."
+      }
+    }
+  ]
+}

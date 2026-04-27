@@ -1,0 +1,175 @@
+{
+  "rule_id": "rule_15",
+  "rule_slug": "チャネル選択",
+  "title": {
+    "ja": "チャネル選択 (chat/mail/phone マトリクス)",
+    "vi": "Chọn channel (chat/mail/phone)"
+  },
+  "rule_context": {
+    "ja": "ズンが新人リンに4つの連絡シナリオの channel 選択を coaching する場面。緊急度 × 受信者数の2軸マトリクスを教える。",
+    "vi": "Em Dũng coach em Linh (junior mới) chọn channel cho 4 scenario. Dạy decision matrix urgency × audience size."
+  },
+  "related_rules": ["rule_09", "rule_13", "rule_16", "rule_17"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — フレームワークなしで4つとも誤選択",
+      "label_vi": "XẤU — Không có framework, sai cả 4",
+      "display_order": 1,
+      "analysis": {
+        "ja": "緊急度・受信者数を考慮しないと channel 選択は感覚頼り。新人は必ずマトリクスを習得する必要がある。",
+        "vi": "Không xét urgency + audience thì chọn channel theo cảm tính. Junior phải học matrix mới chọn đúng."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_15_bad_01",
+          "speaker": "linh",
+          "speaker_role": "マーケティング部インターン",
+          "gender": "female",
+          "sentence": "ズンさん、4つ連絡があります：(1) 緊急バグ → メール、(2) 5月の休暇申請 → 電話、(3) 仕様書 v3 → Slack DM、(4) ハイ先輩への質問 → @channel に投稿。",
+          "sentence_translation": "Anh Dũng, em có 4 việc liên lạc: (1) bug khẩn → mail, (2) đơn nghỉ phép tháng 5 → điện thoại, (3) tài liệu spec v3 → Slack DM, (4) hỏi anh Hải → đăng @channel.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_15_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "リンちゃん、4つとも channel が逆…落ち着いて。緊急度と受信者数で決まる。",
+          "sentence_translation": "Linh, cả 4 đều ngược... Bình tĩnh. Quyết theo urgency + số người nhận.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_15_bad_03",
+          "speaker": "linh",
+          "speaker_role": "マーケティング部インターン",
+          "gender": "female",
+          "sentence": "えっ、全部間違いですか？",
+          "sentence_translation": "Hả, sai hết ạ?",
+          "tone": "nervous"
+        },
+        {
+          "line_id": "rule_15_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(1) 緊急なら電話、(2) 休暇は記録要だからメール、(3) 仕様書は皆が見るから Notion、(4) 1人質問なら DM。",
+          "sentence_translation": "(1) Khẩn thì gọi điện, (2) nghỉ phép cần lưu nên mail, (3) spec ai cũng xem nên Notion, (4) hỏi 1 người thì DM.",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — マトリクス + critical 例外",
+      "label_vi": "TỐT — Matrix + ngoại lệ critical",
+      "display_order": 2,
+      "analysis": {
+        "ja": "5マスのマトリクスを1度覚えれば、新人でも channel 選択を構造化できる。critical のみ二重チャネルとして扱う。",
+        "vi": "Matrix 5 ô học 1 lần là junior chọn channel có cấu trúc được. Riêng critical thì dùng 2 lớp."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_15_good_01",
+          "highlight_text": "マトリクス",
+          "ja": "5マスのフレームワークを暗記。コーチングで最も効率的な伝達方法。",
+          "vi": "Học thuộc matrix 5 ô. Cách coach hiệu quả nhất."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_15_good_02",
+          "highlight_text": "長期参照 × 全員 → Notion/Confluence",
+          "ja": "後で誰かが参照する情報は Slack ではなく wiki に置く。Slack の情報は流れる。",
+          "vi": "Info cần ai tra cứu sau này phải lên wiki, không Slack. Slack info bị trôi."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_15_good_04",
+          "highlight_text": "critical bug は電話で第一報、Slack でフォロー — 二重に",
+          "ja": "critical のみ例外。Slack だけだと流れる、電話だけだと記録が残らない。両方使う。",
+          "vi": "Critical là ngoại lệ. Chỉ Slack thì trôi, chỉ điện thoại thì không lưu. Phải dùng cả hai."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_15_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "リンちゃん、マトリクスを覚えて。",
+          "sentence_translation": "Linh, học matrix nhé.",
+          "tone": "warm",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_15_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "緊急 × 1人 → 電話。緊急 × チーム → Slack @here または @channel。通常 × 1人 → メールまたは Slack DM。通常 × チーム → Slack #channel または定例。長期参照 × 全員 → Notion/Confluence。",
+          "sentence_translation": "Khẩn x 1 người → điện thoại. Khẩn x team → Slack @here hoặc @channel. Thường x 1 người → mail hoặc Slack DM. Thường x team → Slack #channel hoặc họp định kỳ. Tham khảo dài hạn x cả nhà → Notion/Confluence.",
+          "tone": "neutral",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_15_good_03",
+          "speaker": "linh",
+          "speaker_role": "マーケティング部インターン",
+          "gender": "female",
+          "sentence": "なるほど。バグは緊急 × チームだから @channel ですね。",
+          "sentence_translation": "À hiểu rồi. Bug là khẩn x team nên @channel ạ.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_15_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "正解。ただし critical bug は電話で第一報、Slack でフォロー — 二重に。",
+          "sentence_translation": "Đúng rồi. Nhưng critical bug thì điện thoại báo đầu, Slack follow — 2 lớp.",
+          "tone": "warm",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_15_good_05",
+          "speaker": "linh",
+          "speaker_role": "マーケティング部インターン",
+          "gender": "female",
+          "sentence": "2層に。覚えました。",
+          "sentence_translation": "2 lớp. Em ghi nhớ ạ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_15_kp_01",
+      "speaker": "zun",
+      "sentence": "緊急度 × 受信者数で channel を決める。critical は電話 + Slack の二重で。",
+      "sentence_translation": "Quyết channel theo urgency × số người nhận. Critical thì 2 lớp điện thoại + Slack.",
+      "purpose": "channel 選択原則の暗記用",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_15_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "本番で critical bug が発生した場合、最も適切な channel 選択は？",
+      "options": [
+        "Slack の #general に投稿のみ",
+        "メールで詳細を送るのみ",
+        "電話で第一報、その後 Slack でフォロー",
+        "翌日の朝礼で口頭報告"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "critical のみ例外として二重チャネル：電話で即時通知（速度）+ Slack/メールで記録（audit trail）。",
+        "vi": "Critical là ngoại lệ dùng 2 lớp: điện thoại để báo ngay (tốc độ) + Slack/mail để lưu vết (audit trail)."
+      }
+    }
+  ]
+}

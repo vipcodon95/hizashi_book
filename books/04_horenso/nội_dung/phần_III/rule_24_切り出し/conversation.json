@@ -1,0 +1,179 @@
+{
+  "rule_id": "rule_24",
+  "rule_slug": "上司への切り出し",
+  "title": {
+    "ja": "上司への相談切り出し",
+    "vi": "Cách mở lời tham vấn cấp trên"
+  },
+  "rule_context": {
+    "ja": "ズンがハーCTOに AWS リージョン選定を相談する場面。廊下で捕まえる悪い例から、Slack DM で時間・トピック・緊急度を伝える良い例へ。",
+    "vi": "Em Dũng tham vấn anh Hà CTO về chọn AWS region. Từ pattern xấu (chặn ở hành lang) → đúng (Slack DM, thông báo trước thời gian + topic + urgency)."
+  },
+  "related_rules": ["rule_23", "rule_25", "rule_29"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 廊下でいきなり",
+      "label_vi": "XẤU — Chặn ở hành lang",
+      "display_order": 1,
+      "analysis": {
+        "ja": "上司の予定を確認せずに切り出すと、相手の集中を遮るかリスケされる。「ちょっと」は時間が読めず受け入れにくい。",
+        "vi": "Không check lịch sếp mà cắt ngang = phá tập trung hoặc bị reschedule. 「ちょっと」 không đo lường được thời gian, khó chấp nhận."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_24_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、ハーCTO、ちょっと…AWS リージョンの話で…",
+          "sentence_translation": "À, anh Hà CTO, một chút thôi... vụ AWS region...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_24_bad_02",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "すみません、今会議に向かう途中で…",
+          "sentence_translation": "Xin lỗi, anh đang trên đường đi họp...",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_24_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、すぐ終わります、東京と大阪どっちが…",
+          "sentence_translation": "À, em nói nhanh thôi, Tokyo hay Osaka cái nào...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_24_bad_04",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "ズン、相談は時間と話題の長さを先に伝えて。今は無理。15時以降で予定取って。",
+          "sentence_translation": "Dũng, tham vấn phải báo trước thời gian và độ dài chủ đề. Bây giờ không được. Lấy lịch sau 15h.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — Slack DM で時間・話題・緊急度",
+      "label_vi": "TỐT — Slack DM với time + topic + urgency",
+      "display_order": 2,
+      "analysis": {
+        "ja": "Slack で時間枠・トピック・緊急度・準備済資料を1メッセージで伝達。上司は判断するだけで済み、廊下で遮ることもない。",
+        "vi": "Slack 1 message gói khung thời gian + topic + urgency + tài liệu đã chuẩn bị. Sếp chỉ cần quyết, không bị chặn hành lang."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_24_good_01",
+          "highlight_text": "ご相談したいことがあるのですが、本日中に15分ほどお時間いただけますでしょうか",
+          "ja": "相談切り出しの黄金フレーズ。時間枠を「15分」と数字で示すことで上司は即計算できる。",
+          "vi": "Câu vàng để mở lời tham vấn. Chỉ rõ '15 phút' bằng số = sếp tính ngay được."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_24_good_01",
+          "highlight_text": "3社見積 + ベンチマーク結果を準備済",
+          "ja": "判断材料を1行で示すことで、相談の深さが伝わる。「準備済」が信頼感を生む。",
+          "vi": "Show dữ kiện ra quyết định trong 1 dòng = truyền tải độ sâu của tham vấn. 「準備済」 tạo cảm giác đáng tin."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_24_good_01",
+          "highlight_text": "緊急度は中(今週中の決定で間に合う)",
+          "ja": "緊急度を明示することで、上司は他案件と優先順位付けできる。「高/中/低」の3段階で十分。",
+          "vi": "Show urgency = sếp ưu tiên đúng. 3 mức cao/trung/thấp là đủ."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_24_good_03",
+          "highlight_text": "ご相談させていただきます",
+          "ja": "謙譲語の標準形。「ご相談する」では失礼に聞こえる。",
+          "vi": "Dạng khiêm nhường chuẩn. 「ご相談する」 nghe thiếu lễ."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_24_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ハーCTO、お疲れ様です。ご相談したいことがあるのですが、本日中に15分ほどお時間いただけますでしょうか?トピックは『Phase 3 の AWS リージョン選定 (東京 vs 大阪)』、判断材料として3社見積 + ベンチマーク結果を準備済です。緊急度は中(今週中の決定で間に合う)です。",
+          "sentence_translation": "Anh Hà CTO, em chào anh ạ. Em có việc muốn tham vấn, anh dành cho em 15 phút trong hôm nay được không ạ? Chủ đề là 'Chọn AWS region cho Phase 3 (Tokyo vs Osaka)', em đã chuẩn bị 3 báo giá + kết quả benchmark làm dữ kiện. Mức khẩn cấp trung bình (chốt trong tuần là kịp) ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1", "2", "3"]
+        },
+        {
+          "line_id": "rule_24_good_02",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "16時から15分なら取れます。会議室Bで。",
+          "sentence_translation": "16h anh có 15 phút. Phòng họp B nhé.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_24_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ハーCTO、お忙しい中ありがとうございます。それでは、AWSリージョン選定の件、ご相談させていただきます。",
+          "sentence_translation": "Anh Hà CTO, cảm ơn anh đã dành thời gian dù bận ạ. Vậy em xin phép tham vấn về chọn AWS region ạ.",
+          "tone": "formal",
+          "annotation_ids": ["4"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_24_kp_01",
+      "speaker": "zun",
+      "sentence": "ご相談したいことがあるのですが、〇分ほどお時間いただけますでしょうか?",
+      "sentence_translation": "Em có việc muốn tham vấn, anh/chị cho em 〇 phút được không ạ?",
+      "purpose": "上司への相談切り出し標準フレーズ",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_24_kp_02",
+      "speaker": "zun",
+      "sentence": "トピックは〇〇、判断材料として〇〇を準備済です。緊急度は〇です。",
+      "sentence_translation": "Chủ đề là 〇〇, em đã chuẩn bị 〇〇 làm dữ kiện. Mức khẩn cấp là 〇 ạ.",
+      "purpose": "切り出しに添える3要素（topic + materials + urgency）",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_24_kp_03",
+      "speaker": "zun",
+      "sentence": "ご相談させていただきます。",
+      "sentence_translation": "Em xin phép tham vấn ạ.",
+      "purpose": "会議室入室時の正式な切り出し",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_24_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "上司に相談する切り出しとして最も適切なのは?",
+      "options": [
+        "ちょっといいですか?",
+        "すぐ終わるんですけど…",
+        "ご相談したいことがあるのですが、15分ほどお時間いただけますでしょうか?",
+        "今、聞いてもらえますか?"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "切り出しには①時間枠（15分）②相談意図（ご相談したい）③謙譲語（いただけますでしょうか）の3要素が揃う必要がある。「ちょっと」「すぐ」は時間が読めない。",
+        "vi": "Câu mở cần 3 yếu tố: khung thời gian (15 phút) + ý định tham vấn (ご相談したい) + khiêm nhường (いただけますでしょうか). 「ちょっと」「すぐ」 không đo được."
+      }
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "rule_id": "08-31",
+  "rule_slug": "熊本鹿児島",
+  "title": {
+    "vi": "Kumamoto + Kagoshima — 馬刺し, くまモン, 黒豚, 西郷, 桜島",
+    "ja": "熊本・鹿児島"
+  },
+  "regional_focus": "熊本 + 鹿児島 — Kyushu Nam",
+  "rule_context": {
+    "luan_diem_vi": "熊本: 馬刺し+からし蓮根+くまモン+阿蘇. 鹿児島: 黒豚+さつま揚げ+西郷+桜島+芋焼酎. Cẩn thận知覧.",
+    "luan_diem_ja": "熊本=馬刺し+くまモン+阿蘇, 鹿児島=黒豚+西郷+桜島+芋焼酎。歴史への誇りが強い。",
+    "boi_canh_vi": "Tháng 1/2027, Dũng + Tuấn sang Kumamoto (1日) + Kagoshima (1日). 熊本城→馬刺し→Shinkansen→桜島→黒豚しゃぶしゃぶ.",
+    "boi_canh_ja": "2027年1月、ズンとトゥアンが熊本→鹿児島出張。",
+    "muc_tieu_vi": "Master 2 県 Kyushu Nam + 知覧 sensitivity."
+  },
+  "related_rules": [
+    {"book": "08", "rule": "11", "topic": "Món địa phương"},
+    {"book": "08", "rule": "12", "topic": "焼酎"}
+  ],
+  "conversations": [
+    {
+      "scenario": "熊本城 + 加藤清正 + くまモン",
+      "type": "good",
+      "lines": [
+        {"speaker": "matsumoto", "ja": "ズンさん、熊本城は加藤清正が1607年完成させた日本三名城の一つ。2016年熊本地震で大ダメージ受けたけど、復旧進んどるよ。", "vi": "Em Dũng, thành Kumamoto do Katō Kiyomasa hoàn thành 1607, 1 trong 3 lâu đài lớn Nhật. 2016 động đất tổn thất lớn, đang phục hồi."},
+        {"speaker": "zun", "ja": "清正公(せいしょこさん)、熊本県民が今でも『さん付け』で呼ぶと聞きました。朝鮮出兵から虎を連れ帰ったり、築城名人で名高い武将…", "vi": "Seishokō-san em nghe dân Kumamoto vẫn gọi 'san'. Mang hổ về từ chiến dịch Triều Tiên, nổi tiếng bậc thầy xây thành..."},
+        {"speaker": "matsumoto", "ja": "『清正公』まで…熊本県民として嬉しい!石垣は『武者返し』いう独特の反り、忍者でも登れんのよ。", "vi": "Cả 'Seishokō'... là dân Kumamoto anh vui! Tường đá 'mushagaeshi' uốn cong đặc biệt, ninja cũng không leo nổi."},
+        {"speaker": "zun", "ja": "くまモンもすごいですよね、県のPRキャラクターから世界的人気に。", "vi": "Kumamon cũng tuyệt nhỉ, từ mascot tỉnh thành nổi tiếng thế giới."},
+        {"speaker": "matsumoto", "ja": "くまモンは2010年ゆるキャラグランプリ優勝、今はLINE スタンプ・コラボ商品で経済効果1500億超え。県の誇りたい。", "vi": "Kumamon vô địch Yuru-chara GP 2010, giờ stamp LINE và collab kinh tế hơn 150 tỷ. Niềm tự hào tỉnh."},
+        {"speaker": "zun", "ja": "馬刺し、本場で食べたいです。菅乃屋さんですよね。", "vi": "Basashi em muốn ăn ở nguyên bản. Quán Suganoya nhỉ."},
+        {"speaker": "matsumoto", "ja": "菅乃屋は王道。赤身・霜降り・たてがみ(脂)・フタエゴ…部位ごとに食感違う。生姜醤油+おろしにんにくでな。", "vi": "Suganoya chuẩn. Akami, shimofuri, tategami (mỡ), futaego... mỗi phần khác. Chấm shoga shoyu + tỏi nghiền."}
+      ]
+    },
+    {
+      "scenario": "からし蓮根 + 阿蘇 + 黒川温泉",
+      "type": "good",
+      "lines": [
+        {"speaker": "matsumoto", "ja": "からし蓮根、熊本の郷土料理。蓮根の穴に辛子味噌詰めて揚げる。江戸時代、細川忠利藩主の滋養強壮食として始まった、400年の歴史たい。", "vi": "Karashi-renkon, món truyền thống Kumamoto. Nhét miso mù tạt vào lỗ củ sen rồi chiên. Thời Edo, ăn bổ cho lãnh chúa Hosokawa Tadatoshi, 400 năm."},
+        {"speaker": "zun", "ja": "辛い + 蓮根でビールに合いそうですね。", "vi": "Cay + củ sen hợp bia nhỉ."},
+        {"speaker": "matsumoto", "ja": "ピッタリ!あとだご汁、いきなり団子、辛子高菜、太平燕…熊本郷土料理多彩ばい。", "vi": "Đúng vậy! Còn dagojiru, ikinari dango, karashi takana, taipien... món Kumamoto đa dạng."},
+        {"speaker": "zun", "ja": "阿蘇山、世界最大級のカルデラですよね。", "vi": "Núi Aso, caldera lớn bậc nhất thế giới."},
+        {"speaker": "matsumoto", "ja": "東西18km南北25km、世界有数のカルデラ。阿蘇神社は2300年以上前に創建。温泉も黒川温泉が日本ベスト10常連。", "vi": "Đông tây 18km, nam bắc 25km, caldera hàng đầu thế giới. Đền Aso xây 2300+ năm. Onsen Kurokawa là top 10 Nhật."},
+        {"speaker": "zun", "ja": "黒川温泉の入湯手形(3湯廻り)、面白いシステムですよね。", "vi": "Nyūtō tegata Kurokawa (3 onsen), hệ thống hay nhỉ."},
+        {"speaker": "matsumoto", "ja": "お、入湯手形まで!1300円で3軒選べる。露天風呂ばっかり選ぶ人多いね。", "vi": "Cả nyūtō tegata! 1300 yên 3 quán. Nhiều người chọn rotenburo hết."}
+      ]
+    },
+    {
+      "scenario": "桜島 + 西郷隆盛 + 知覧",
+      "type": "good",
+      "lines": [
+        {"speaker": "matsumoto", "ja": "桜島は今でもほぼ毎日小規模噴火しとる活火山。1914年大正噴火で大隅半島と地続きになった。", "vi": "Sakurajima giờ vẫn phun trào nhỏ gần như hàng ngày. 1914 Taishō đại phun trào, nối liền với bán đảo Ōsumi."},
+        {"speaker": "zun", "ja": "降灰、生活大変じゃないですか?", "vi": "Tro rơi sinh hoạt vất vả không ạ?"},
+        {"speaker": "matsumoto", "ja": "鹿児島市民の日常たい。克灰袋(灰専用ゴミ袋)が市から配布される。『桜島さんが今日も元気じゃ』言うのが鹿児島流(笑)", "vi": "Đời thường dân Kagoshima. 'Túi chống tro' do thành phố phát. 'Sakurajima-san hôm nay cũng khỏe' kiểu Kagoshima (cười)."},
+        {"speaker": "zun", "ja": "西郷隆盛像、行きたいです。1828-1877、西南戦争で没した明治の英雄ですよね。", "vi": "Tượng Saigō Takamori em muốn đến. 1828-1877, anh hùng Minh Trị mất trong chiến tranh Tây Nam."},
+        {"speaker": "matsumoto", "ja": "1828-1877…!ズンさん、西郷どん(せごどん)に詳しい!城山で自決、49歳じゃった。鹿児島県人の魂たい。", "vi": "1828-1877...! Em rành Saigō-don! Tự sát ở Shiroyama, 49 tuổi. Linh hồn dân Kagoshima."},
+        {"speaker": "zun", "ja": "大久保利通、東郷平八郎もこの地ですよね。明治維新の中心。", "vi": "Ōkubo Toshimichi, Tōgō Heihachirō cũng đất này nhỉ. Trung tâm Minh Trị Duy Tân."},
+        {"speaker": "matsumoto", "ja": "薩摩藩から3傑+海軍元帥+いっぱい出した。朝鮮通信使が江戸時代見た薩摩示現流剣術も特筆たい。", "vi": "Phiên Satsuma sinh ra 3 kiệt + nguyên soái hải quân + nhiều người. Kiếm thuật Jigen-ryū Satsuma sứ Triều Tiên thời Edo cũng từng thán phục."},
+        {"speaker": "zun", "ja": "知覧の特攻平和会館もいつか…", "vi": "Bảo tàng Tokkō Heiwa Kaikan ở Chiran lúc nào đó..."},
+        {"speaker": "matsumoto", "ja": "知覧…ありがたいなあ、ズンさん。特攻で1036名亡くなった若い隊員たち。遺書読むと涙止まらん。次回ご一緒できるなら、朝早く静かな時間に行こう。", "vi": "Chiran... Cảm ơn em. 1036 đội viên trẻ hy sinh trong tokkō. Đọc di thư rơi nước mắt. Lần sau cùng anh, đi sáng sớm tĩnh lặng."}
+      ]
+    },
+    {
+      "scenario": "黒豚しゃぶしゃぶ + 芋焼酎前割り + 黒酢",
+      "type": "good",
+      "lines": [
+        {"speaker": "matsumoto", "ja": "鹿児島黒豚、6白(顔・しっぽ・4本足が白)が純血の証。バークシャー種で英国王室御用達にも近い品質。", "vi": "Kuro-buta Kagoshima, '6白' (mặt, đuôi, 4 chân trắng) là dấu hiệu thuần chủng. Giống Berkshire, gần chất lượng cung đình Anh."},
+        {"speaker": "zun", "ja": "柔らかさと甘み、これが純血の証なんですね。", "vi": "Mềm + ngọt là dấu hiệu thuần chủng nhỉ."},
+        {"speaker": "matsumoto", "ja": "しゃぶしゃぶでポン酢+大根おろしで食うのが鹿児島流。あとさつま揚げ!ねっとり甘い、揚立屋、月揚庵が老舗。", "vi": "Shabu-shabu chấm ponzu + củ cải nghiền là kiểu Kagoshima. Còn satsuma-age! Dẻo ngọt, Agetateya, Tsukiage-an lâu đời."},
+        {"speaker": "zun", "ja": "芋焼酎、鹿児島が99%なんですよね。", "vi": "Imo shōchū, Kagoshima 99% nhỉ."},
+        {"speaker": "matsumoto", "ja": "芋焼酎!森伊蔵・魔王・村尾で3Mって言うてな、幻のプレミアムじゃ。前割りって知っとる?", "vi": "Imo shōchū! Mori Izō, Maō, Murao gọi 3M, premium huyền thoại. Maewari biết không?"},
+        {"speaker": "zun", "ja": "前割り、前日に水で割って一晩寝かせる、まろやかになる方法ですよね。", "vi": "Maewari, hôm trước pha nước, để qua đêm, vị mượt hơn."},
+        {"speaker": "matsumoto", "ja": "前日寝かせまで!ズンさん鹿児島検定一級ばい(笑)。あと黒酢、福山町が世界唯一の壺仕込み黒酢の里たい。", "vi": "Cả 'để qua đêm'! Em đỗ Kagoshima kentei cấp 1 (cười). Còn kurozu, Fukuyama-chō là làng kurozu lên men trong vò duy nhất thế giới."},
+        {"speaker": "zun", "ja": "坂元のくろず、桷志田ですよね。", "vi": "Sakamoto Kurozu, Kakishita nhỉ."},
+        {"speaker": "matsumoto", "ja": "ズンさん、再来年もう鹿児島支店長候補で(笑)", "vi": "Em sang năm sau ứng viên trưởng chi nhánh Kagoshima (cười)."}
+      ]
+    }
+  ],
+  "key_phrases": [
+    {"category": "Kumamoto", "ja": "熊本城、加藤清正の築城、武者返しの石垣ですよね。", "vi": "Thành Kumamoto, Katō Kiyomasa xây, tường đá mushagaeshi."},
+    {"category": "Kumamoto", "ja": "くまモン、2010年ゆるキャラ優勝からですよね。", "vi": "Kumamon, từ Yuru-chara 2010."},
+    {"category": "Kumamoto", "ja": "馬刺し、菅乃屋さんで赤身とたてがみ、楽しみです。", "vi": "Basashi Suganoya, akami và tategami, em mong."},
+    {"category": "Kagoshima", "ja": "桜島、毎日噴火していても日常なんですね。", "vi": "Sakurajima, hàng ngày phun trào vẫn là đời thường."},
+    {"category": "Kagoshima", "ja": "西郷どん、城山で49歳…明治維新の魂ですね。", "vi": "Saigō-don, Shiroyama 49 tuổi... linh hồn Minh Trị."},
+    {"category": "Kagoshima", "ja": "鹿児島黒豚、6白、バークシャー種ですよね。", "vi": "Kuroniku 6 trắng, giống Berkshire nhỉ."},
+    {"category": "Kagoshima", "ja": "芋焼酎の3M、いつかは森伊蔵を…", "vi": "3M imo shōchū, lúc nào em uống Mori Izō..."},
+    {"category": "Chiran", "ja": "次回知覧特攻平和会館、ご一緒できれば光栄です。", "vi": "Lần sau Chiran Tokkō Heiwa Kaikan, được cùng anh là vinh dự."}
+  ],
+  "regional_cheatsheet": {
+    "kumamoto": {
+      "capital": "熊本市",
+      "food": ["馬刺し菅乃屋(赤身/霜降り/たてがみ/フタエゴ)", "からし蓮根(細川忠利400年)", "だご汁", "いきなり団子", "太平燕", "辛子高菜", "熊本ラーメン"],
+      "shochu": "球磨焼酎(米焼酎発祥) — 鳥飼/文蔵/萬緑/武者返し",
+      "character": "くまモン(2010ゆるキャラGP)経済効果1500億",
+      "tourism": ["熊本城(加藤清正1607)", "阿蘇カルデラ18×25km", "阿蘇神社2300年+", "黒川温泉入湯手形1300円3湯", "天草", "草千里"],
+      "festivals": ["火の国まつり(8月)", "山鹿灯籠(8/15-16)"],
+      "dialect": "肥後弁: 〜たい/ばってん/もっこす(頑固)"
+    },
+    "kagoshima": {
+      "capital": "鹿児島市",
+      "food": ["鹿児島黒豚6白バークシャー種", "さつま揚げ揚立屋/月揚庵", "鶏飯(奄美)", "しろくま", "きびなご", "がね"],
+      "kurozu": "福山町世界唯一壺仕込み — 坂元のくろず/桷志田/くすや",
+      "shochu": "芋焼酎99% — 3M(森伊蔵/魔王/村尾) + 黒霧島/白波/富乃宝山, 前割り",
+      "tourism": ["桜島", "城山+西郷終焉の地", "仙巌園", "指宿砂むし", "屋久島UNESCO 1993", "奄美UNESCO 2021", "知覧特攻平和会館"],
+      "history": ["薩摩藩", "西郷隆盛(1828-1877)", "大久保利通", "東郷平八郎", "示現流剣術"],
+      "festivals": ["おはら祭り(11/2-3)", "川内大綱引"],
+      "dialect": "薩摩弁: 〜じゃっど/ぼっけ(=とても)/あいがとさげもした(=ありがとう)",
+      "feature": "降灰日常+克灰袋+「桜島さんが今日も元気」mindset"
+    }
+  },
+  "ng_list": [
+    "「桜島は迷惑な火山」 — Kagoshima đắng",
+    "Hỏi 知覧/特攻 quá nhanh chỉ vì curious",
+    "Trêu 西郷さん",
+    "Nhầm 馬刺し熊本 ↔ 馬刺し信州 generic",
+    "「九州は全部一緒」"
+  ],
+  "vocab": [
+    {"kanji": "馬刺し", "yomi": "ばさし", "vi": "Sashimi ngựa"},
+    {"kanji": "たてがみ", "yomi": "たてがみ", "vi": "Mỡ cổ ngựa"},
+    {"kanji": "からし蓮根", "yomi": "からしれんこん", "vi": "Củ sen cay 400 năm"},
+    {"kanji": "だご汁", "yomi": "だごじる", "vi": "Súp dango"},
+    {"kanji": "太平燕", "yomi": "タイピーエン", "vi": "Mì miến Kumamoto"},
+    {"kanji": "阿蘇山", "yomi": "あそさん", "vi": "Núi Aso"},
+    {"kanji": "黒川温泉", "yomi": "くろかわおんせん", "vi": "Onsen top 10"},
+    {"kanji": "くまモン", "yomi": "くまモン", "vi": "Mascot"},
+    {"kanji": "加藤清正", "yomi": "かとうきよまさ", "vi": "Lãnh chúa 1607"},
+    {"kanji": "桜島", "yomi": "さくらじま", "vi": "Núi lửa"},
+    {"kanji": "黒豚", "yomi": "くろぶた", "vi": "Heo đen"},
+    {"kanji": "さつま揚げ", "yomi": "さつまあげ", "vi": "Chả Satsuma"},
+    {"kanji": "芋焼酎", "yomi": "いもじょうちゅう", "vi": "Shōchū khoai"},
+    {"kanji": "前割り", "yomi": "まえわり", "vi": "Pha trước"},
+    {"kanji": "西郷隆盛", "yomi": "さいごうたかもり", "vi": "Anh hùng Minh Trị"},
+    {"kanji": "城山", "yomi": "しろやま", "vi": "Nơi Saigō tự sát"},
+    {"kanji": "薩摩藩", "yomi": "さつまはん", "vi": "Phiên Satsuma"},
+    {"kanji": "知覧", "yomi": "ちらん", "vi": "Bảo tàng Tokkō"},
+    {"kanji": "黒酢", "yomi": "くろず", "vi": "Giấm đen"},
+    {"kanji": "屋久島", "yomi": "やくしま", "vi": "UNESCO 1993"}
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "鹿児島出身のお客様が「桜島さん、今日も元気で」と言った時の意図は?",
+      "options": ["A. 不平不満", "B. 噴火を親しみ込めて見る鹿児島マインド", "C. 引っ越したい", "D. 関係なし"],
+      "answer": "B",
+      "explain_vi": "Sakurajima-san = thân thiện. Mindset đặc trưng Kagoshima."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「西郷どん」の意味は?",
+      "options": ["A. 西郷さんへの薩摩弁親しみ込めた呼び方", "B. ニックネーム", "C. 軽蔑", "D. 同名異人"],
+      "answer": "A",
+      "explain_vi": "「どん」 Satsuma-ben = 「さん」 ấm cúng."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "鹿児島弁「ぼっけ美味い」 = ?",
+      "options": ["A. 全然美味しくない", "B. とても美味しい (Satsuma-ben)", "C. 普通", "D. 食べられない"],
+      "answer": "B",
+      "explain_vi": "「ぼっけ」 Satsuma = \"rất/cực\", tương đương「ぶち」 Hiroshima/「めっちゃ」 Kansai."
+    }
+  ],
+  "templates": []
+}

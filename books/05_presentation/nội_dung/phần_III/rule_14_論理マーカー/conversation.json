@@ -1,0 +1,169 @@
+{
+  "rule_id": "rule_14",
+  "rule_slug": "論理マーカー",
+  "title": {
+    "ja": "論理マーカー (まず／次に／最後に)",
+    "vi": "Logical flow markers"
+  },
+  "rule_context": {
+    "ja": "ズンが本論で3点を述べる場面。マーカーなしの連続話 vs 『〇点宣言→まず／次に／最後に→この〇点で』の3層マーカーを比較。",
+    "vi": "Body pitch — 3 luận cứ. So sánh: nói liền không marker vs cấu trúc 3 lớp 「tuyên bố số → đầu tiên/tiếp theo/cuối cùng → với 〇 điểm này」."
+  },
+  "related_rules": ["rule_03", "rule_10", "rule_15"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — マーカーなし",
+      "label_vi": "XẤU — Không markers",
+      "display_order": 1,
+      "analysis": {
+        "ja": "区切りなしで連続すると、聴衆は『今何点目』を見失う。VN訛りで一語落とすと flow ごと消える。",
+        "vi": "Nói liền tù tì không marker — audience mất track 「đang ở luận cứ mấy」. Nếu accent VN làm rớt 1-2 từ là mất luôn flow."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_14_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 3 の中身ですが、在庫管理ロジックを高度化します。リアルタイム同期も入れます。アラート機構も追加します。3年で投資回収します。",
+          "sentence_translation": "Về nội dung Phase 3, em sẽ nâng cấp logic quản lý kho. Đồng bộ realtime cũng đưa vào. Thêm cả cơ chế alert. Hoàn vốn trong 3 năm.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_14_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "待って。今いくつ言った？2つ？3つ？4つ？区切りがないと聴衆も数えられない。",
+          "sentence_translation": "Khoan. Em vừa nói mấy điểm? 2? 3? 4? Không có ngắt thì khán giả cũng không đếm được đâu.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_14_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "えっと…3つで…投資回収は別の話で…",
+          "sentence_translation": "Ờ... 3 điểm ạ... hoàn vốn là chuyện khác ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_14_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "まず／次に／最後にを入れて。3秒の追加で flow が10倍 clear になる。",
+          "sentence_translation": "Thêm 「đầu tiên / tiếp theo / cuối cùng」 vào. Thêm 3 giây mà flow rõ gấp 10 lần.",
+          "tone": "warm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 3層マーカー",
+      "label_vi": "TỐT — 3 lớp marker",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_14_good_01",
+          "highlight_text": "3点を実装いたします",
+          "ja": "Number 宣言が enumerate のアンカー。最初に『N点』と言うことで聴衆が指折り数えられる。",
+          "vi": "Tuyên bố số là anchor cho enumerate. Nói trước 「N điểm」 để audience đếm được."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_14_good_01",
+          "highlight_text": "この3点で",
+          "ja": "Recap marker。言ったことを括る。聴衆が『まとめpart』と認識する。",
+          "vi": "Recap marker. Bao gói lại những gì đã nói. Audience nhận ra 「đây là phần tổng kết」."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_14_good_03",
+          "highlight_text": "続いて",
+          "ja": "Section transition。スライド切替時に必ず使う。",
+          "vi": "Transition giữa section. Bắt buộc dùng khi đổi slide topic."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_14_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 3 では3点を実装いたします。まず1点目、在庫管理ロジックを高度化。次に2点目、リアルタイム同期。最後の3点目、アラート機構。この3点で、再発を予防いたします。",
+          "sentence_translation": "Phase 3 sẽ implement 3 điểm ạ. Đầu tiên điểm 1, nâng cấp logic quản lý kho. Tiếp theo điểm 2, đồng bộ realtime. Cuối cùng điểm 3, cơ chế alert. Với 3 điểm này, em sẽ phòng ngừa tái phát ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1", "2"]
+        },
+        {
+          "line_id": "rule_14_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "うん、これなら聴衆が指折り数えられる。投資回収は別スライドね？",
+          "sentence_translation": "Ổn rồi, thế này khán giả mới đếm được trên ngón tay. Hoàn vốn là slide khác đúng không?",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_14_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "はい、続いてスケジュールと投資回収にまいります。",
+          "sentence_translation": "Vâng, em xin chuyển sang phần schedule và hoàn vốn ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_14_good_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "『続いて』の transition も良い。スライドが切り替わる時必ず使って。",
+          "sentence_translation": "Câu transition 「続いて」 tốt đấy. Mỗi khi đổi slide section thì bắt buộc dùng nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_14_kp_01",
+      "speaker": "zun",
+      "sentence": "〇点を実装いたします。まず1点目、〇〇。次に2点目、〇〇。最後の3点目、〇〇。",
+      "sentence_translation": "Sẽ implement 〇 điểm ạ. Đầu tiên điểm 1, 〇〇. Tiếp theo điểm 2, 〇〇. Cuối cùng điểm 3, 〇〇.",
+      "purpose": "3点 enumerate の標準形",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_14_kp_02",
+      "speaker": "zun",
+      "sentence": "続いて、〇〇にまいります。",
+      "sentence_translation": "Em xin chuyển sang phần 〇〇 ạ.",
+      "purpose": "Section transition",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_14_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "本論で3点を述べる際、最も論理的に明確な表現は？",
+      "options": [
+        "〇〇します。〇〇します。〇〇します",
+        "3点ございます。まず1点目〇〇、次に2点目〇〇、最後の3点目〇〇",
+        "色々あります",
+        "そして〇〇、そして〇〇、そして〇〇"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "N点宣言→まず／次に／最後にの3層マーカーが論理を明確にする。",
+        "vi": "Cấu trúc 3 lớp 「tuyên bố N điểm → đầu tiên / tiếp theo / cuối cùng」 làm rõ logic."
+      }
+    }
+  ]
+}

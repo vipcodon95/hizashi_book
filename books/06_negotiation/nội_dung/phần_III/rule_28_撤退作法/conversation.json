@@ -1,0 +1,180 @@
+{
+  "rule_id": "rule_28",
+  "rule_slug": "撤退の作法",
+  "title": {
+    "ja": "撤退の作法",
+    "vi": "Walk away phong nhã"
+  },
+  "rule_context": {
+    "ja": "Ōgaki が ¥14M (walk-away以下) に固執。Dũng + Hà CTO が relationship を保ちつつ door open で撤退する場面。",
+    "vi": "Ōgaki khăng khăng ¥14M (dưới walk-away). Dũng + anh Hà CTO walk away mà giữ relationship + door open."
+  },
+  "related_rules": ["rule_08", "rule_26"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — emotional + passive aggressive",
+      "label_vi": "XẤU — Tình cảm + passive aggressive",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「Y社に発注ということで」と passive-aggressive。Phase 4 機会が消え、業界に悪い噂が広がる。",
+        "vi": "'Y社 sẽ đặt hàng' — passive aggressive. Mất cơ hội Phase 4, tin xấu lan trong ngành."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_28_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "最終的に ¥14M でないと無理です。",
+          "sentence_translation": "Cuối cùng không phải ¥14M là không được.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_28_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "分かりました、では今回はなしで。残念ですね。Y 社さんに発注ということで…",
+          "sentence_translation": "Em rõ ạ, vậy lần này không vậy ạ. Tiếc nhỉ. Vậy quý anh đặt Y社 ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_28_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "では失礼します。",
+          "sentence_translation": "Vậy chào em.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — neutral walk + door open",
+      "label_vi": "TỐT — Walk neutral + để cửa mở",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_28_good_02",
+          "highlight_text": "ご検討、本当にありがとうございました",
+          "ja": "撤退でも相手の時間 invest を acknowledge。これがないと relationship 終了。",
+          "vi": "Walk vẫn phải acknowledge thời gian khách đã đầu tư. Thiếu = quan hệ chấm dứt."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_28_good_03",
+          "highlight_text": "条件面で折り合いがつかず、誠に残念ではございますが、本件はここでクローズ",
+          "ja": "neutral closing language。誰のせいでもなく『条件が合わなかった』というニュアンス。",
+          "vi": "Closing trung tính. KHÔNG đổ lỗi ai, mang nuance 'không khớp điều kiện'."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_28_good_04",
+          "highlight_text": "Phase 2 でのご縁は弊社にとって大変貴重な経験",
+          "ja": "過去の協業を value 化 + 「お声がけください」で door open。6-12ヶ月後に向こうから連絡が来る可能性を残す。",
+          "vi": "Đánh giá hợp tác cũ + 'xin liên hệ' để door open. 6-12 tháng sau khách có thể quay lại."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_28_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "最終的に ¥14M でないと無理です。",
+          "sentence_translation": "Cuối cùng không phải ¥14M là không được.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_28_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご検討、本当にありがとうございました。¥14M でしたら弊社のご提供できる scope では Phase 3 当初目的の達成が困難となり、結果的に御社にご迷惑をおかけしてしまいます。",
+          "sentence_translation": "Em xin chân thành cảm ơn quý anh đã xem xét. ¥14M thì với scope bên em có thể cung cấp, đạt mục tiêu Phase 3 ban đầu khó, kết quả cuối lại làm phiền quý cty ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"],
+          "pause_after_ms": 2000
+        },
+        {
+          "line_id": "rule_28_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "今回は条件面で折り合いがつかず、誠に残念ではございますが、本件はここでクローズとさせていただければと存じます。",
+          "sentence_translation": "Lần này điều kiện chưa khớp, em thực sự rất tiếc, xin phép cho em được khép lại vụ việc tại đây ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_28_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Phase 2 でのご縁は弊社にとって大変貴重な経験でございます。今後御社の事業環境が変わり、再度ご一緒できる機会がございましたら、ぜひお声がけください。例えば Phase 4 や別案件のご相談、いつでも歓迎いたします。",
+          "sentence_translation": "Mối duyên ở Phase 2 là trải nghiệm rất quý với bên em ạ. Sau này nếu môi trường kinh doanh quý cty thay đổi, có cơ hội đồng hành lại, xin quý anh liên hệ em ạ. Ví dụ Phase 4 hay dự án khác, em luôn hoan nghênh ạ.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_28_good_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "ご丁寧にありがとうございます。今回は条件が合いませんでしたが、Phase 2 での協業は弊社としても評価しております。今後何かあれば、こちらからもお声がけします。",
+          "sentence_translation": "Cảm ơn em đã chu đáo. Lần này điều kiện chưa khớp, nhưng hợp tác Phase 2 bên tôi cũng đánh giá tốt. Sau này có việc gì, bên tôi cũng sẽ liên hệ lại.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_28_good_06",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "ありがとうございます。本日のお時間、感謝いたします。",
+          "sentence_translation": "Em cảm ơn ạ. Cảm ơn quý anh dành thời gian hôm nay ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_28_kp_01",
+      "speaker": "zun",
+      "sentence": "今回は条件面で折り合いがつかず、誠に残念ではございますが、本件はここでクローズとさせていただきます。",
+      "sentence_translation": "Lần này điều kiện chưa khớp, em rất tiếc, xin phép cho em được khép lại tại đây ạ.",
+      "purpose": "neutral walk-away closing",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_28_kp_02",
+      "speaker": "zun",
+      "sentence": "今後再度ご一緒できる機会がございましたら、ぜひお声がけください。",
+      "sentence_translation": "Sau này có cơ hội đồng hành lại, xin quý anh liên hệ em ạ.",
+      "purpose": "door open phrase",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_28_bjt_01",
+      "level": "J1+",
+      "skill": "表現読解",
+      "question_ja": "walk-away ライン以下の要求に直面した時の最適 closing は？",
+      "options": [
+        "「Y 社さんに発注ということで」と passive-aggressive で終わる",
+        "「条件面で折り合いがつかず、誠に残念」+ door open で neutral 撤退",
+        "「失敗しました」と謝罪",
+        "「永遠に取引しません」と宣言"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "撤退も商談の一部。relationship を残すことで Phase 4 や別案件の chance を保つ。",
+        "vi": "Rút cũng là một phần đàm phán. Giữ relationship để có cơ hội Phase 4 / dự án khác."
+      }
+    }
+  ]
+}

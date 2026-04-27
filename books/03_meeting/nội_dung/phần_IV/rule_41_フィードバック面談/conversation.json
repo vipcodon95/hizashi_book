@@ -1,0 +1,178 @@
+{
+  "rule_id": "rule_41",
+  "rule_slug": "フィードバック面談",
+  "title": {
+    "ja": "フィードバック面談（GROW モデル）",
+    "vi": "Performance review feedback"
+  },
+  "rule_context": {
+    "ja": "Q1終了時、フオン副部長がズンの評価面談を実施。Phase 1完遂は称賛、見積もり甘さの課題はGROWモデル（Goal/Reality/Options/Will）で改善案を共同設計する場面。",
+    "vi": "Cuối Q1, chị Hương đánh giá performance em Dũng. Khen Phase 1 thành công + dùng GROW model để giải quyết điểm yếu (estimate hơi lạc quan)."
+  },
+  "related_rules": ["rule_39", "rule_50"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 人格批判+actionableなし",
+      "label_vi": "XẤU — Phê bình tính cách, không action",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「君は楽観的すぎる」は人格批判で defensive を引き出す。次の行動も曖昧で改善につながらない。",
+        "vi": "「君は楽観的すぎる」 = phê bình tính cách → defensive. Action không cụ thể → không cải thiện."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_41_bad_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ズン、君は時々楽観的すぎるよね。デッドラインを甘く見ている。",
+          "sentence_translation": "Dũng, em đôi khi quá lạc quan đấy. Coi nhẹ deadline.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_41_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "…はい。",
+          "sentence_translation": "...Vâng ạ.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_41_bad_03",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "次から気をつけて。",
+          "sentence_translation": "Lần sau cẩn thận nhé.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — GROWモデルで構造化",
+      "label_vi": "TỐT — GROW model có cấu trúc",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_41_good_01",
+          "highlight_text": "Phase 1 launchを期日通り完遂できたこと、本当に素晴らしい成果でした",
+          "ja": "Goal: 具体的な成果から始める。lip service でなく事実ベースの賞賛。",
+          "vi": "Goal: bắt đầu bằng thành tích cụ thể. Không phải khen suông mà fact-based."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_41_good_02",
+          "highlight_text": "見積もりが20%短く設定されていた事実がありました",
+          "ja": "Reality: 「君は楽観的」ではなく「見積もりが20%短かった」と事実で述べる。",
+          "vi": "Reality: không nói 「em lạc quan」 mà nói 「estimate ngắn 20%」 = fact."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_41_good_03",
+          "highlight_text": "どちらがズンに合うと思いますか",
+          "ja": "Options: 本人に選ばせることで ownership と納得感を生む。",
+          "vi": "Options: để người đó chọn → tạo ownership + đồng thuận."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_41_good_05",
+          "highlight_text": "月末1on1で振り返りましょう",
+          "ja": "Will: 具体的なチェックインを約束。改善が放置されないよう仕組み化する。",
+          "vi": "Will: cam kết check-in cụ thể. Đảm bảo cải thiện không bị quên."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_41_good_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "ズン、Q1の振り返りをしましょう。【Goal】まず、Phase 1 launchを期日通り完遂できたこと、本当に素晴らしい成果でした。",
+          "sentence_translation": "Dũng, mình review Q1 nhé. [Goal] Trước tiên, em đã launch Phase 1 đúng hạn — thành quả rất xuất sắc.",
+          "tone": "warm",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_41_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "【Reality】一方、3月のスプリントで2件、deadline の見積もりが20%短く設定されていた事実がありました。結果として QA が逼迫しました。",
+          "sentence_translation": "[Reality] Mặt khác, trong sprint tháng 3 có 2 vụ estimate deadline ngắn 20%. Kết quả là QA bị căng.",
+          "tone": "neutral",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_41_good_03",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "【Options】今後の見積もりに、過去実績データの参照と、senior レビューを追加するアプローチが考えられます。どちらがズンに合うと思いますか？",
+          "sentence_translation": "[Options] Lần sau ước lượng có 2 hướng: tham chiếu data thực tế quá khứ, hoặc thêm senior review. Em thấy hướng nào hợp?",
+          "tone": "warm",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_41_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Senior レビューの方が即効性ありそうです。",
+          "sentence_translation": "Em thấy senior review nhanh hiệu quả hơn ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_41_good_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "【Will】では、来月から見積もり時にトゥアンリーダーの30分レビューを導入しましょう。月末1on1で振り返りましょう。",
+          "sentence_translation": "[Will] Vậy tháng sau, mỗi lần estimate em đưa anh Tuấn review 30 phút nhé. Cuối tháng 1on1 mình rà lại.",
+          "tone": "warm",
+          "annotation_ids": ["4"]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_41_kp_01",
+      "speaker": "fuon",
+      "sentence": "【Reality】〇〇という事実がありました。",
+      "sentence_translation": "[Reality] Có sự thực là 〇〇.",
+      "purpose": "事実ベースのフィードバック",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_41_kp_02",
+      "speaker": "fuon",
+      "sentence": "【Options】〜のアプローチが考えられます。どちらがズンに合うと思いますか？",
+      "sentence_translation": "[Options] Có hướng 〜. Em thấy hướng nào hợp?",
+      "purpose": "本人に選ばせる options 提示",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_41_bjt_01",
+      "level": "J2",
+      "skill": "発言聴解",
+      "question_ja": "部下にフィードバックする際、最も効果的なアプローチは？",
+      "options": [
+        "「君は〜すぎる」と性格を指摘",
+        "Goal（成果）→ Reality（事実）→ Options（選択肢）→ Will（コミット）の構造で会話",
+        "感情的に怒る",
+        "曖昧に「次から気をつけて」とだけ言う"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "GROWモデルは事実ベース・本人選択・期限つきコミットで改善を促す最も効果的なフレームワーク。",
+        "vi": "GROW: fact-based + để người đó chọn + commit có deadline = khung hiệu quả nhất."
+      }
+    }
+  ]
+}

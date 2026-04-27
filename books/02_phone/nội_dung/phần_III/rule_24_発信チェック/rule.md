@@ -1,0 +1,43 @@
+# Rule 24 — Checklist trước khi nhấn gọi / 発信前のチェックリスト
+
+> **Luận điểm.** Trước khi gọi đi, kiểm 5 mục: **(1) mục đích rõ chưa**, **(2) thời điểm gọi phù hợp**, **(3) tài liệu sẵn**, **(4) note 5W1H đã list**, **(5) môi trường yên tĩnh**.
+>
+> 発信前に5項目チェック：①目的 ②時間帯 ③資料 ④5W1Hメモ ⑤環境。
+>
+> **Liên quan:** Rule 25, Rule 26, Rule 28.
+
+## Bối cảnh
+
+Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project. Trước khi nhấn gọi tự kiểm.
+
+## Checklist
+
+| # | Mục | Câu hỏi tự kiểm |
+|---|-----|----------------|
+| 1 | 目的 | Mục đích gọi 1 câu được không? |
+| 2 | 時間帯 | Tránh 12-13h, sáng đầu tuần 9h, cuối ngày 17h+? |
+| 3 | 資料 | Tài liệu/file PDF mở sẵn chưa? |
+| 4 | 5W1H | Note When/Where/Who/What/Why/How đã viết? |
+| 5 | 環境 | Không ai nói chuyện ồn xung quanh? |
+
+## ✅ Hội thoại — internal self-check + first call
+
+*独り言 · 電話で*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「目的：4月度進捗報告。資料：開いた。メモ：書いた。環境：OK。発信。」 |
+| **ズン** | 「お世話になっております。ティエンファット社、営業部のズンでございます。松本様のお席はございますでしょうか？」 |
+
+## 🎯 Câu chốt
+
+> **「目的・時間・資料・メモ・環境」5チェック**
+
+## 📚 Vocab
+
+| 漢字 | よみ | Nghĩa |
+|------|------|-------|
+| 発信 | はっしん | Gọi đi |
+| 目的 | もくてき | Mục đích |
+| 時間帯 | じかんたい | Khung giờ |
+| 資料 | しりょう | Tài liệu |

@@ -1,0 +1,105 @@
+{
+  "rule_id": "rule_48",
+  "rule_slug": "通知のための電話",
+  "title": {
+    "ja": "通知のための電話",
+    "vi": "Gọi để thông báo / công văn miệng"
+  },
+  "rule_context": {
+    "ja": "オフィス移転を松本PMに事前通知する電話。電話で先に伝え、メールで正式確認の二段構え。",
+    "vi": "Báo trước anh Matsumoto việc chuyển văn phòng. Phone trước, mail chính thức sau."
+  },
+  "related_rules": [
+    "rule_35",
+    "rule_51"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "『1点ご通知申し上げたい件』で公式通知の予告→新住所→不変項目の整理→正式メール約束。",
+        "vi": "Mở 「1点ご通知申し上げたい件」 → địa chỉ mới → mục không đổi → cam kết gửi mail chính thức."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_48_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お世話になっております。1点ご通知申し上げたい件がございます。",
+          "sentence_translation": "Cảm ơn anh đã hỗ trợ ạ. Em có 1 việc xin được thông báo ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_48_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "来月5月1日より、弊社の新オフィスへ移転することとなりました。",
+          "sentence_translation": "Từ ngày 1/5 tháng sau, bên em sẽ chuyển sang văn phòng mới ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_48_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "住所はハノイ市バーディン区フンチエン通り123番、電話番号は変更ございません。",
+          "sentence_translation": "Địa chỉ là số 123 phố Hùng Chiến, quận Ba Đình, Hà Nội ạ. Số điện thoại không đổi ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_48_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "詳細は本日中に正式なご案内メールをお送りいたします。",
+          "sentence_translation": "Chi tiết em sẽ gửi mail thông báo chính thức trong hôm nay ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_48_good_05",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "承知しました。メールお待ちしています。",
+          "sentence_translation": "Tôi hiểu rồi. Tôi đợi mail của em.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_48_kp_01",
+      "speaker": "zun",
+      "sentence": "1点ご通知申し上げたい件がございます。",
+      "sentence_translation": "Em có 1 việc xin được thông báo ạ.",
+      "purpose": "公式通知の予告",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_48_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "公式通知の最良の伝達方法は？",
+      "options": [
+        "メールのみ",
+        "電話のみ",
+        "電話で先に伝え、メールで正式確認",
+        "口頭で軽く伝える"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "重要な公式通知は電話＋メールの二段構えが信頼性高い。",
+        "vi": "Thông báo chính thức quan trọng — phone + mail 2 lớp mới đáng tin."
+      }
+    }
+  ]
+}

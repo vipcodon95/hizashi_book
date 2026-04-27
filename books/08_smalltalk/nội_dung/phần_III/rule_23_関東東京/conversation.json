@@ -1,0 +1,371 @@
+{
+  "rule_id": "08-23",
+  "rule_slug": "関東東京",
+  "title": {
+    "vi": "Kanto/Tokyo — Shitamachi vs Yamanote",
+    "ja": "関東・東京"
+  },
+  "regional_focus": "Tokyo + Kanto (神奈川 / 埼玉 / 千葉)",
+  "rule_context": {
+    "luan_diem_vi": "Tokyo phân 下町 (Asakusa/Tsukishima/Ueno) ↔ 山の手 (Setagaya/Aoyama). 3 đội baseball: 巨人/ヤクルト/DeNA.",
+    "luan_diem_ja": "東京は下町と山の手で気質分かれる。野球は巨人(東京D)・ヤクルト(神宮)・DeNA(横浜ハマスタ)。",
+    "boi_canh_vi": "Tháng 5/2026, Dũng đi dinner với Matsumoto (Asakusa native) + Tanaka PMO (Yokohama) ở Tsukishima monjayaki, sau đó 2次会 Kanda.",
+    "boi_canh_ja": "2026年5月、ズンが松本(浅草育ち)+田中PMO(横浜)と月島もんじゃ→神田みますや。",
+    "muc_tieu_vi": "Phân biệt 下町 vs 山の手 + 3 đội baseball Tokyo + senior topics."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "11",
+      "topic": "Món địa phương"
+    },
+    {
+      "book": "08",
+      "rule": "14",
+      "topic": "Hobby baseball"
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "Mở topic Asakusa với Matsumoto",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "zun",
+          "ja": "松本さん、ご出身は浅草とお聞きしました。下町っ子ですね。",
+          "vi": "Anh Matsumoto quê Asakusa em nghe nói. Là dân Shitamachi nhỉ."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "そうそう、生まれも育ちも浅草。雷門の近くで育ったんだよ。子供の頃、浅草寺の境内で野球してた(笑)",
+          "vi": "Đúng đó, sinh và lớn ở Asakusa. Lớn lên gần Kaminarimon. Hồi nhỏ chơi bóng chày ở khuôn viên chùa Sensōji (cười)."
+        },
+        {
+          "speaker": "zun",
+          "ja": "東京っ子、3代続いてですか?",
+          "vi": "Tokyokko 3 đời ạ?"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "そう、祖父の代から。だからか、私は江戸前寿司派でね。回転寿司派の若い人とは合わないなあ(笑)",
+          "vi": "Ừ, từ đời ông nội. Có lẽ vì vậy anh phe sushi Edo-mae. Không hợp với phe sushi băng chuyền của giới trẻ (cười)."
+        },
+        {
+          "speaker": "zun",
+          "ja": "江戸前ってネタを酢で〆たり、煮切り醤油を塗ったりする伝統的な握り、ですよね。",
+          "vi": "Edo-mae là sushi truyền thống, ngâm cá trong giấm hoặc phết nikiri shoyu nhỉ."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "よく勉強してる!すきやばし次郎の話とか知ってる?今度連れて行きたいけど、なかなか予約取れなくてね。",
+          "vi": "Em nghiên cứu kỹ ghê! Biết chuyện Sukiyabashi Jiro chứ? Lần sau muốn dẫn đi nhưng đặt khó lắm."
+        }
+      ]
+    },
+    {
+      "scenario": "Tsukishima monjayaki — phân biệt với Osaka",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "もんじゃはお好み焼きとは違うから要注意ね。生地が緩い、ヘラで土手を作って中に流し込む。おこげを作るのが命。",
+          "vi": "Monja khác okonomiyaki nhé. Bột lỏng, dùng xẻng làm đê rồi đổ vào giữa. Tạo cháy mới là tinh hoa."
+        },
+        {
+          "speaker": "zun",
+          "ja": "お好み焼は分厚い、もんじゃは薄くて『食べる土手』みたいですね(笑)",
+          "vi": "Okonomiyaki dày, monja mỏng như 'đê ăn được' nhỉ (cười)."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "いいたとえ!月島はもんじゃストリートって言ってね、80軒以上ある。いろはとくうが老舗。",
+          "vi": "Ví hay đó! Tsukishima có 'monja street', hơn 80 quán. Iroha và Kuu là lâu đời."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "松本さん、関西の人にもんじゃ食べさせると『これは食べ物か?』って言われるんですよね(笑)",
+          "vi": "Anh Matsumoto, cho người Kansai ăn monja, họ bảo 'Cái này là thức ăn à?' (cười)."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "あはは、確かに見た目は…でも食べてみるとうまい!明太もちチーズが定番。",
+          "vi": "Haha, đúng là nhìn... nhưng ăn ngon thật! Mentai-mochi-cheese là chuẩn."
+        },
+        {
+          "speaker": "zun",
+          "ja": "明太+餅+チーズ、最強ですね!",
+          "vi": "Mentai + mochi + cheese, mạnh nhất!"
+        }
+      ]
+    },
+    {
+      "scenario": "Baseball — 3 đội Tokyo + Yokohama",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "ズンさん、東京の野球チーム、3つ知ってます?",
+          "vi": "Em biết 3 đội baseball Tokyo không?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "読売ジャイアンツ、ヤクルトスワローズ、それと…横浜DeNAは神奈川ですか?",
+          "vi": "Yomiuri Giants, Yakult Swallows, và... Yokohama DeNA ở Kanagawa ạ?"
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "そう、DeNAは横浜、つまり神奈川。私はDeNAファンなんですよ。ハマスタの雰囲気最高で。",
+          "vi": "Đúng, DeNA ở Yokohama, tức Kanagawa. Anh fan DeNA. Hama-stadium không khí đỉnh."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "私は古い人間だから巨人。長嶋茂雄世代だね。ON砲の時代を覚えてる。",
+          "vi": "Anh người cổ rồi nên Giants. Thế hệ Nagashima Shigeo. Còn nhớ thời ON砲 (Ō-Nagashima)."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ジャイアンツは東京ドームですよね。ヤクルトは神宮球場…私、神宮にビアガーデンで行ったことあります、試合中の球場の音が聞こえて雰囲気いいですね。",
+          "vi": "Giants ở Tokyo Dome nhỉ. Yakult ở Jingū... em từng đến Jingū beer garden, nghe tiếng sân bóng đấu hay lắm."
+        },
+        {
+          "speaker": "tanaka_pmo",
+          "ja": "神宮ね、若い人多いよ。ヤクルトの傘振りもユニーク。1点入るたびにみんな傘振るの。",
+          "vi": "Jingū nhiều người trẻ. Phất ô Yakult cũng độc đáo. Cứ ghi 1 điểm là mọi người phất ô."
+        }
+      ]
+    },
+    {
+      "scenario": "二次会 Kanda — sake old quán",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "神田はサラリーマンの聖地。みますやっていう創業1905年の老舗、行ってみよう。",
+          "vi": "Kanda là 'thánh địa salary man'. Mimasuya, quán lâu năm khai trương 1905, đi nào."
+        },
+        {
+          "speaker": "zun",
+          "ja": "121年目の店!すごいですね。",
+          "vi": "Quán năm thứ 121! Ghê thật."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "ここは菊正宗の樽酒が美味い。江戸前のあなごもある。もんじゃもいいけど、こういう古い酒場が東京の本当の味だよ。",
+          "vi": "Ở đây sake thùng Kikumasamune ngon. Có cả lươn anago Edo-mae. Monja cũng được nhưng quán cũ thế này mới là vị thật của Tokyo."
+        },
+        {
+          "speaker": "zun",
+          "ja": "神田、神保町の本屋街も近いですよね。",
+          "vi": "Kanda, gần khu sách Jinbōchō nhỉ."
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "そう、神田神保町は世界一の古書店街。私、月一で行きますよ。",
+          "vi": "Ừ, Kanda-Jinbōchō là khu sách cũ số 1 thế giới. Tôi đi tháng 1 lần."
+        },
+        {
+          "speaker": "zun",
+          "ja": "次回はぜひ案内してください!",
+          "vi": "Lần sau anh dẫn em đi với!"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "下町",
+      "ja": "松本さんは下町育ちですよね。浅草寺の近くですか?",
+      "vi": "Anh Matsumoto lớn ở Shitamachi nhỉ. Gần Sensōji ạ?"
+    },
+    {
+      "category": "下町",
+      "ja": "江戸前寿司、いつかいい店に連れて行ってください。",
+      "vi": "Sushi Edo-mae, lúc nào dẫn em đến quán hay với."
+    },
+    {
+      "category": "Monja",
+      "ja": "月島のもんじゃ、いろはとくう、どちらが好みですか?",
+      "vi": "Monja Tsukishima, Iroha và Kuu anh thích quán nào?"
+    },
+    {
+      "category": "Baseball",
+      "ja": "巨人ファンですか、ヤクルトですか、それとも横浜?",
+      "vi": "Anh fan Giants, Yakult, hay Yokohama?"
+    },
+    {
+      "category": "Baseball",
+      "ja": "東京ドーム/神宮/ハマスタ、それぞれ雰囲気違いますよね。",
+      "vi": "3 sân không khí khác nhau nhỉ."
+    },
+    {
+      "category": "神田",
+      "ja": "神田神保町の古書店街、雰囲気いいですよね。",
+      "vi": "Khu sách cũ Kanda-Jinbōchō không khí tuyệt nhỉ."
+    },
+    {
+      "category": "観光",
+      "ja": "浅草・上野・スカイツリー、王道ですよね。",
+      "vi": "Asakusa, Ueno, Skytree là chính thống."
+    }
+  ],
+  "regional_cheatsheet": {
+    "shitamachi": [
+      "浅草",
+      "上野",
+      "月島",
+      "神田",
+      "谷根千",
+      "深川"
+    ],
+    "yamanote": [
+      "青山",
+      "麻布",
+      "表参道",
+      "世田谷",
+      "目黒",
+      "恵比寿"
+    ],
+    "specialty_food": [
+      "江戸前寿司 (すきやばし次郎)",
+      "もんじゃ焼 (いろは/くう)",
+      "深川めし",
+      "ちゃんこ鍋 (両国)",
+      "神田蕎麦 (まつや)",
+      "浅草今半すき焼き"
+    ],
+    "old_shops": [
+      "みますや (神田1905)",
+      "駒形どぜう (浅草1801)",
+      "神田藪蕎麦"
+    ],
+    "baseball": [
+      "読売ジャイアンツ (東京ドーム)",
+      "東京ヤクルトスワローズ (神宮球場)",
+      "横浜DeNA (ハマスタ)",
+      "千葉ロッテ (ZOZOマリン)",
+      "西武ライオンズ (ベルーナドーム)"
+    ],
+    "festivals": [
+      "三社祭 (5月浅草)",
+      "神田祭 (5月隔年)",
+      "山王祭 (6月隔年)",
+      "隅田川花火 (7月)"
+    ],
+    "tourism": [
+      "浅草寺",
+      "スカイツリー",
+      "東京タワー",
+      "渋谷",
+      "明治神宮",
+      "豊洲市場",
+      "皇居"
+    ],
+    "books": "神田神保町 — 世界一の古書店街"
+  },
+  "ng_list": [
+    "「東京の人ってクールですよね」 — stereotype",
+    "So sánh tiêu cực 「大阪より冷たい」",
+    "Nhầm 巨人 ↔ DeNA (DeNA ở Yokohama)",
+    "「もんじゃはお好み焼の劣化版」 — chiến tranh",
+    "Hỏi senior về アニメ聖地巡礼"
+  ],
+  "vocab": [
+    {
+      "kanji": "下町",
+      "yomi": "したまち",
+      "vi": "Phố cổ Tokyo"
+    },
+    {
+      "kanji": "山の手",
+      "yomi": "やまのて",
+      "vi": "Khu cao cấp"
+    },
+    {
+      "kanji": "東京っ子",
+      "yomi": "とうきょうっこ",
+      "vi": "Tokyokko"
+    },
+    {
+      "kanji": "江戸前",
+      "yomi": "えどまえ",
+      "vi": "Phong cách Edo"
+    },
+    {
+      "kanji": "もんじゃ焼",
+      "yomi": "もんじゃやき",
+      "vi": "Monjayaki"
+    },
+    {
+      "kanji": "雷門",
+      "yomi": "かみなりもん",
+      "vi": "Kaminarimon"
+    },
+    {
+      "kanji": "神保町",
+      "yomi": "じんぼうちょう",
+      "vi": "Jinbōchō"
+    },
+    {
+      "kanji": "巨人",
+      "yomi": "きょじん",
+      "vi": "Giants"
+    },
+    {
+      "kanji": "神宮球場",
+      "yomi": "じんぐうきゅうじょう",
+      "vi": "Jingū stadium"
+    },
+    {
+      "kanji": "三社祭",
+      "yomi": "さんじゃまつり",
+      "vi": "Sanja matsuri"
+    },
+    {
+      "kanji": "ON砲",
+      "yomi": "おーえぬほう",
+      "vi": "Ō-Nagashima Giants"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "横浜出身のお客様に最も適切な野球話題は?",
+      "options": [
+        "A. 巨人軍",
+        "B. ヤクルトスワローズ",
+        "C. DeNAベイスターズ",
+        "D. 千葉ロッテ"
+      ],
+      "answer": "C",
+      "explain_vi": "Yokohama = DeNA ハマスタ. Match đúng vùng."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「下町っ子」と言うと何を意味する?",
+      "options": [
+        "A. 田舎出身",
+        "B. 浅草・上野・月島など東京旧市街育ちで気さく",
+        "C. 山の手のお嬢様",
+        "D. 関西人"
+      ],
+      "answer": "B",
+      "explain_vi": "下町っ子 = lớn ở khu phố cổ Tokyo, tính cách thẳng + tình người."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "「もんじゃとお好み焼は違う」の含みは?",
+      "options": [
+        "A. 区別すべきだという軽い注意",
+        "B. もんじゃは劣等",
+        "C. 関西人は分からない",
+        "D. 食べ物の話題終了"
+      ],
+      "answer": "A",
+      "explain_vi": "Tokyo native nhấn mạnh không gộp 2 món — lỗi phổ biến của khách nước ngoài."
+    }
+  ],
+  "templates": []
+}

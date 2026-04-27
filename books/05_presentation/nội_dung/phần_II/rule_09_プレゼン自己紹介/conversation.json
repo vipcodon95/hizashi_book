@@ -1,0 +1,149 @@
+{
+  "rule_id": "rule_09",
+  "rule_slug": "プレゼン自己紹介",
+  "title": {
+    "ja": "プレゼン自己紹介",
+    "vi": "Tự giới thiệu khi pitch"
+  },
+  "rule_context": {
+    "ja": "Hookの直後、ズンが自己紹介する場面。CVを長々と語る悪い例 vs 3文構成のタイト版を比較。",
+    "vi": "Ngay sau Hook, Dũng intro bản thân. So sánh: dump full CV vs 3-câu tight."
+  },
+  "related_rules": [
+    "rule_08",
+    "rule_32"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — CVを全部読み上げる",
+      "label_vi": "XẤU — Dump toàn bộ CV",
+      "display_order": 1,
+      "analysis": {
+        "ja": "career timeline を全部話すと40秒消費し、聴衆は本題を待ちわびる。プレゼン自己紹介は『why-me』1点で良い。",
+        "vi": "Kể career timeline mất 40 giây, audience phát chán chờ vào đề. Pitch self-intro chỉ cần 1 điểm 「why-me」."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_09_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "私、ティエンファット社の Trần Văn Dũng と申します。2024年4月に新卒入社、最初の半年は研修、次に Phase 1 の調査…Phase 2 では松本様の指導の下…現在は…",
+          "sentence_translation": "Em là Trần Văn Dũng bên cty Thiên Phát ạ. Em vào công ty tháng 4 năm 2024, nửa năm đầu training, rồi Phase 1 nghiên cứu... Phase 2 thì dưới sự chỉ bảo của anh Matsumoto... hiện tại là...",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_09_bad_02",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "(……いつ終わる)",
+          "sentence_translation": "(...Khi nào xong vậy)",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_09_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "…そして本日、Phase 3 の責任者を任されました。",
+          "sentence_translation": "...Và hôm nay, em được giao trách nhiệm chính cho Phase 3 ạ.",
+          "tone": "formal"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 3文タイトな自己紹介",
+      "label_vi": "TỐT — 3 câu tight",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_09_good_01",
+          "highlight_text": "ティエンファットのズン",
+          "ja": "ウチ ルール: 自分の会社に「社」をつけない。ティエンファット社→NG、ティエンファットのズン→OK。",
+          "vi": "Quy tắc UCHI: không thêm 「社」 cho cty mình. ティエンファット社 = NG, ティエンファットのズン = OK."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_09_good_01",
+          "highlight_text": "Phase 3 の主担当",
+          "ja": "本案件での役割を1文で。Job title ではなく role in this project。",
+          "vi": "Vai trò trong dự án này — 1 câu. Không phải job title chung mà role cụ thể trong project."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_09_good_01",
+          "highlight_text": "本案件はその継続でございます",
+          "ja": "Why-me: Phase 2 から Phase 3 への継続性 = credibility。",
+          "vi": "Why-me: tính kế thừa từ Phase 2 sang Phase 3 = credibility."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_09_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "私、ティエンファットのズンと申します。本日は Phase 3 の主担当としてご提案いたします。Phase 2 で在庫差異の削減ロジックを担当しており、本案件はその継続でございます。",
+          "sentence_translation": "Em là Dũng, bên Thiên Phát ạ. Hôm nay em xin trình bày với tư cách phụ trách chính Phase 3 ạ. Em đã phụ trách phần logic giảm sai lệch tồn kho ở Phase 2, dự án lần này là phần kế tiếp đó ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_09_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "はい、よろしくお願いします。",
+          "sentence_translation": "Vâng, mong em giúp đỡ.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_09_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "右側のトゥアンが技術リード、後ほどデモパートを担当いたします。それでは本題に入ります。",
+          "sentence_translation": "Anh Tuấn bên phải là tech lead, sẽ phụ trách phần demo sau ạ. Vậy em xin vào đề ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_09_kp_01",
+      "speaker": "zun",
+      "sentence": "本日は〇〇の主担当としてご提案いたします。〇〇を担当しており、本案件はその継続でございます。",
+      "sentence_translation": "Hôm nay em xin trình bày với tư cách phụ trách chính 〇〇 ạ. Em đang phụ trách 〇〇, dự án lần này là phần kế tiếp đó ạ.",
+      "purpose": "プレゼン自己紹介3文テンプレ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_09_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "プレゼン冒頭の自己紹介で最も適切な構成は？",
+      "options": [
+        "入社からの全 career timeline",
+        "社名＋氏名＋本案件の役割＋why-me 1点 (30秒)",
+        "資格・受賞歴の列挙",
+        "個人的な趣味の紹介"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "プレゼン自己紹介は『why-me』が1点あれば十分。30秒以内に絞る。",
+        "vi": "Pitch self-intro chỉ cần 1 điểm 「why-me」. Gói gọn trong 30 giây."
+      }
+    }
+  ]
+}

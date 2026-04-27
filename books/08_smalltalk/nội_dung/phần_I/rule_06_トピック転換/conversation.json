@@ -1,0 +1,236 @@
+{
+  "rule_id": "08-06",
+  "rule_slug": "トピック転換",
+  "title": {
+    "vi": "Chuyển topic mượt",
+    "ja": "トピック転換"
+  },
+  "rule_context": {
+    "luan_diem_vi": "3 connector cốt lõi: ところで / そういえば / 話は変わりますが — mỗi cái sắc thái khác. Đổi topic phũ = không đọc không khí.",
+    "luan_diem_ja": "3つのコア・コネクター(ところで・そういえば・話は変わりますが)を使い分ける。コネクターなしの転換は『空気読めない』。",
+    "boi_canh_vi": "ところで = formal break / そういえば = associative / 話は変わりますが = pivot rõ. Casual: あ、そうそう / 言えば.",
+    "boi_canh_ja": "ところで(改まった切替)/ そういえば(連想)/ 話は変わりますが(明確な転換)。カジュアル:あ、そうそう / 言えば。",
+    "muc_tieu_vi": "Chọn connector đúng tình huống + đóng topic cũ trước khi chuyển."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "01",
+      "topic": "Timing"
+    },
+    {
+      "book": "08",
+      "rule": "05",
+      "topic": "聞き上手"
+    },
+    {
+      "book": "08",
+      "rule": "07",
+      "topic": "沈黙"
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "そういえば — liên kết nhẹ (đọc sách cho cháu → sách)",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "…で、孫が3歳になってね、もうペラペラなんだよ。",
+          "vi": "...Cháu 3 tuổi rồi, nói trôi chảy lắm."
+        },
+        {
+          "speaker": "zun",
+          "ja": "3歳でペラペラはすごい!",
+          "vi": "3 tuổi mà nói trôi chảy thì giỏi quá!"
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "いやあ、母親(嫁)がよく読み聞かせしてくれるからね。",
+          "vi": "À, vì mẹ (con dâu) hay đọc sách cho cháu mà."
+        },
+        {
+          "speaker": "zun",
+          "ja": "そういえば中村さん、最近何か面白い本読まれましたか?",
+          "vi": "À nhân tiện anh Nakamura, dạo này anh có đọc sách gì thú vị không ạ?"
+        },
+        {
+          "speaker": "nakamura_cfo",
+          "ja": "最近?ああ、池井戸潤の新刊、銀行ものでね…",
+          "vi": "Dạo này à? À, tiểu thuyết mới của Ikeido Jun, về ngân hàng..."
+        }
+      ]
+    },
+    {
+      "scenario": "ところで — formal break",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "oogaki_sales",
+          "ja": "…で、阪神は今シーズン、本当によくやってるんよ。",
+          "vi": "...Hanshin mùa này chơi hay thật."
+        },
+        {
+          "speaker": "zun",
+          "ja": "素晴らしいですね。ところで大垣さん、来週の出張、新大阪からでしたっけ?",
+          "vi": "Tuyệt quá. À mà anh Ōgaki, công tác tuần sau từ Shin-Osaka phải không ạ?"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "ああ、そうそう、新大阪から朝イチで。",
+          "vi": "À đúng, từ Shin-Osaka chuyến sớm nhất."
+        }
+      ]
+    },
+    {
+      "scenario": "話は変わりますが — pivot 180 độ sang business",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "matsumoto",
+          "ja": "…ハロン湾、本当に綺麗でね、また行きたいわ。",
+          "vi": "...Vịnh Hạ Long thật sự đẹp, tôi muốn quay lại."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ぜひ次回ご案内させてください。話は変わりますが、先日の予算の件、少しだけお時間よろしいでしょうか?",
+          "vi": "Lần sau xin được đưa anh đi. À đổi chủ đề một chút, vụ ngân sách hôm trước, em xin một chút thời gian được không ạ?"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "ああ、はいはい、どうぞ。",
+          "vi": "À vâng vâng, em nói đi."
+        }
+      ]
+    },
+    {
+      "scenario": "BAD — cắt phũ không connector",
+      "type": "bad",
+      "context_vi": "Kato đang kể say sưa về Hida-gyu. Dũng cắt giữa chừng bằng 'そうですか' + nhảy thẳng sang business.",
+      "lines": [
+        {
+          "speaker": "kato_gifu",
+          "ja": "…で、飛騨牛のあの霜降りがね、口の中で溶けるんですよ、もう…",
+          "vi": "...Vân mỡ Hida-gyu tan trong miệng, ngon lắm..."
+        },
+        {
+          "speaker": "zun",
+          "ja": "[NG] そうですか。来週の納期どうなりましたか?",
+          "vi": "[NG] Vậy ạ. Deadline tuần sau thế nào rồi ạ?"
+        },
+        {
+          "speaker": "kato_gifu",
+          "ja": "…え、ああ…",
+          "vi": "...ơ, à..."
+        }
+      ],
+      "why_bad": "Không connector + cắt giữa câu chuyện ngon = phá nhịp + lạnh. Khách đang hứng bị vứt giữa chừng. Đúng: react ấm trước → đóng topic → connector formal + lý do."
+    },
+    {
+      "scenario": "GOOD fix — close topic + soft pivot",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "kato_gifu",
+          "ja": "…で、飛騨牛のあの霜降りがね、口の中で溶けるんですよ、もう…",
+          "vi": "...Vân mỡ Hida-gyu tan trong miệng, ngon lắm..."
+        },
+        {
+          "speaker": "zun",
+          "ja": "いやもう、想像しただけで唾が出ます。次回岐阜行く時、絶対食べたいです。",
+          "vi": "Hà, chỉ tưởng tượng đã chảy nước miếng. Lần sau đến Gifu em phải ăn cho được."
+        },
+        {
+          "speaker": "zun",
+          "ja": "そろそろお時間も気になってきましたので、話は変わりますが、来週の納期の件、少し相談させていただけますか?",
+          "vi": "Em cũng đang để ý đồng hồ, đổi chủ đề một chút, vụ deadline tuần sau em xin trao đổi một chút được không ạ?"
+        },
+        {
+          "speaker": "kato_gifu",
+          "ja": "ああ、もちろん、どうぞ。",
+          "vi": "À, tất nhiên, em nói đi."
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "そういえば",
+      "ja": "そういえば、先日おっしゃってた〜、その後…",
+      "vi": "À nhân tiện, [chi tiết] anh nói hôm trước, sau đó thế nào ạ?",
+      "use": "Liên kết nhẹ — keyword chung"
+    },
+    {
+      "category": "ところで",
+      "ja": "ところで、来週の〜どうですか?",
+      "vi": "À mà, [vấn đề] tuần sau thế nào ạ?",
+      "use": "Formal break — không cần liên kết"
+    },
+    {
+      "category": "話は変わりますが",
+      "ja": "話は変わりますが、先日の〜の件、少しお時間よろしいでしょうか?",
+      "vi": "Đổi chủ đề chút, vụ [...] hôm trước, anh có chút thời gian không ạ?",
+      "use": "Pivot rõ — chuyển sang serious"
+    },
+    {
+      "category": "Casual",
+      "ja": "あ、そうそう、〜って…",
+      "vi": "À đúng rồi, về [...]...",
+      "use": "L3-L4 — reminder casual"
+    },
+    {
+      "category": "Đóng topic",
+      "ja": "そろそろお時間気になってきましたので…",
+      "vi": "Em cũng đang để ý đồng hồ...",
+      "use": "Lý do mềm trước khi pivot"
+    },
+    {
+      "category": "Bridge",
+      "ja": "お話の途中恐縮ですが、一点だけ…",
+      "vi": "Xin lỗi cắt giữa, một điểm thôi ạ...",
+      "use": "Khi cần ngắt với formal cao"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "「ところで」と「そういえば」の違いとして正しいものは?",
+      "options": [
+        "A. 同じ意味",
+        "B. 「ところで」は連想、「そういえば」はフォーマルな転換",
+        "C. 「ところで」はフォーマルな切替、「そういえば」は連想で繋ぐ",
+        "D. どちらも雑談には使わない"
+      ],
+      "answer": "C",
+      "explain_vi": "ところで = formal break (không cần liên kết). そういえば = associative (có keyword chung)."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「話は変わりますが」の使用が最も適切な状況は?",
+      "options": [
+        "A. 雑談を続けたい時",
+        "B. カジュアルな話題を続けたい時",
+        "C. ビジネスのセンシティブな話題に明確に切り替える時",
+        "D. 沈黙を埋めるため"
+      ],
+      "answer": "C",
+      "explain_vi": "話は変わりますが = pivot rõ ràng nhất. Dùng khi cần báo hiệu topic sau khác hoàn toàn (sang business serious)."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "コネクターなしで突然話題を変えた場合、お客様の本音は?",
+      "options": [
+        "A. ありがたい、効率的",
+        "B. 自然な流れだと感じる",
+        "C. 話を遮られた・空気を読めない印象",
+        "D. 何も感じない"
+      ],
+      "answer": "C",
+      "explain_vi": "Cắt phũ không connector = khách thấy bị ngắt lời, mất điểm 空気. Phải close topic + connector + lý do mềm."
+    }
+  ],
+  "templates": []
+}

@@ -1,0 +1,168 @@
+{
+  "rule_id": "rule_04",
+  "rule_slug": "顧客リサーチ",
+  "title": {
+    "ja": "顧客リサーチ",
+    "vi": "Thu thập intel khách"
+  },
+  "rule_context": {
+    "ja": "Phase 3 交渉3日前、Hương が4軸インテル(決裁・予算・競合・業績)の準備状況を確認する場面。",
+    "vi": "3 ngày trước đàm phán Phase 3, chị Hương kiểm tra Dũng đã chuẩn bị intel 4 trục chưa."
+  },
+  "related_rules": ["rule_02", "rule_13", "rule_16"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 過去の知識頼み",
+      "label_vi": "XẤU — Dựa vào kiến thức cũ",
+      "display_order": 1,
+      "analysis": {
+        "ja": "「2年担当している」を理由に最新IR・業績変化を確認しない。情報の鮮度を軽視。",
+        "vi": "Lấy 'đã làm 2 năm' làm cớ, không update IR/business news mới. Coi nhẹ độ tươi của thông tin."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_04_bad_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "白鷗の今期 IR、見た？",
+          "sentence_translation": "IR kỳ này của Hakuō em đã xem chưa?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_04_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "IR…まだです。Phase 2 は私が担当だったので白鷗のことは知ってます。",
+          "sentence_translation": "IR... em chưa ạ. Phase 2 em phụ trách rồi nên biết Hakuō ạ.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_04_bad_03",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "Phase 2 担当 ≠ 今の白鷗を知ってる、じゃない。先月 IR で営業利益 -12%、コスト圧縮中って公表されてる。これ知らずに ¥18M 出すと「高い」って言われる準備不足。",
+          "sentence_translation": "Phụ trách Phase 2 ≠ biết Hakuō hiện tại. Tháng trước IR công bố lợi nhuận hoạt động -12%, đang nén chi phí. Không biết điều này mà ra ¥18M là sẽ bị 'đắt' — chuẩn bị thiếu.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_04_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、すみません…",
+          "sentence_translation": "À, em xin lỗi ạ...",
+          "tone": "apologetic"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 4軸インテルシート",
+      "label_vi": "TỐT — Intel sheet 4 trục",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_04_good_01",
+          "highlight_text": "4軸インテルシート",
+          "ja": "(1)決裁ライン (2)予算サイクル (3)競合 (4)直近業績 — 各軸ソース付きで管理。",
+          "vi": "(1) decision-maker (2) budget cycle (3) competitor (4) recent results — mỗi trục đều có nguồn."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_04_good_03",
+          "highlight_text": "¥10M 超は中村 CFO 決裁、それ以下は大垣部長権限",
+          "ja": "決裁権限の閾値を把握すれば、誰を説得すべきか・どこで稟議が止まるか予測できる。",
+          "vi": "Biết ngưỡng duyệt giúp dự đoán phải thuyết phục ai và ringi sẽ kẹt ở đâu."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_04_good_03",
+          "highlight_text": "新年度 IT 予算は通ったばかり",
+          "ja": "JP予算サイクルは4月-3月。Q1は新規提案受け入れやすく、Q4は closeout で硬い。",
+          "vi": "Chu kỳ ngân sách JP 4-3. Q1 dễ chấp đề xuất mới, Q4 closeout cứng."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_04_good_03",
+          "highlight_text": "Y 社がパラレルに pitch 中、見積 ¥22M との噂",
+          "ja": "競合intelは噂レベルでも明記。但し『噂』であることを明示し、情報源を残す。",
+          "vi": "Intel đối thủ ở mức tin đồn cũng ghi, nhưng phải đánh dấu là rumor + giữ nguồn."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_04_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "フオン副部長、白鷗の4軸インテルシートを更新しました。",
+          "sentence_translation": "Chị Hương, em đã cập nhật intel sheet 4 trục của Hakuō ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_04_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "読み上げて。",
+          "sentence_translation": "Em đọc lên đi.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_04_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "(1) 決裁ライン: ¥10M 超は中村 CFO 決裁、それ以下は大垣部長権限。今回 ¥18M なので CFO 通る。(2) 予算サイクル: 白鷗は 4月-3月、現在 4 月初旬で新年度 IT 予算は通ったばかり、追加要求しやすい時期。(3) 競合: 大手 SIer Y 社がパラレルに pitch 中、見積 ¥22M との噂。(4) 直近業績: 先月 IR で営業利益 -12%、コスト圧縮トーンが強いです。",
+          "sentence_translation": "(1) Decision: trên ¥10M là CFO Nakamura duyệt, dưới là quyền GĐKD Ōgaki. Lần này ¥18M nên qua CFO. (2) Budget cycle: Hakuō 4-3, hiện đầu tháng 4 — ngân sách IT năm mới vừa thông, dễ propose. (3) Đối thủ: Y社 SIer lớn đang pitch song song, có tin đồn báo giá ¥22M. (4) Kết quả gần: IR tháng trước lợi nhuận hoạt động -12%, tone nén chi phí mạnh ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2", "3", "4"]
+        },
+        {
+          "line_id": "rule_04_good_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "いいね。これで戦略決まる。Y 社 ¥22M との対比で「品質同等で安い」を強調、CFO に響く ROI 数値を全面に。利益 -12% への配慮として「段階導入で初期投資抑制可能」も用意して。",
+          "sentence_translation": "Tốt. Vậy là chiến lược chốt. Đối chiếu Y社 ¥22M để nhấn 'chất lượng ngang, rẻ hơn', số liệu ROI nhắm trúng CFO lên đầu. Cân nhắc lợi nhuận -12%, chuẩn bị thêm 'triển khai theo giai đoạn để giảm initial investment'.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_04_kp_01",
+      "speaker": "zun",
+      "sentence": "白鷗の4軸インテルシートを更新しました。決裁・予算・競合・業績の順でご報告します。",
+      "sentence_translation": "Em đã update intel sheet 4 trục của Hakuō. Em báo cáo theo thứ tự decision/budget/đối thủ/business ạ.",
+      "purpose": "顧客インテル報告の標準",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_04_bjt_01",
+      "level": "J2",
+      "skill": "場面把握",
+      "question_ja": "顧客リサーチ4軸に含まれないものは？",
+      "options": [
+        "決裁ライン (誰がいくらまで決裁できるか)",
+        "予算サイクル (年度予算のタイミング)",
+        "顧客社員の家族構成",
+        "直近業績 (IR・営業利益)"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "4軸は『決裁・予算・競合・業績』。家族構成は B2B 交渉に無関係でプライバシー侵害にもなる。",
+        "vi": "4 trục: decision/budget/đối thủ/business. Gia đình nhân viên không liên quan B2B + xâm phạm riêng tư."
+      }
+    }
+  ]
+}

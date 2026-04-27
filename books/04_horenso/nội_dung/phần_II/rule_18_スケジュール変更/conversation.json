@@ -1,0 +1,170 @@
+{
+  "rule_id": "rule_18",
+  "rule_slug": "スケジュール変更連絡",
+  "title": {
+    "ja": "スケジュール変更連絡 (リスケ)",
+    "vi": "Báo dời lịch họp"
+  },
+  "rule_context": {
+    "ja": "ズンが社内事情で松本様との定例会議をリスケする必要がある場面。3時間前 + 1候補の悪い例から、24時間前 + 3候補 + カレンダー更新責任の良い例へ。",
+    "vi": "Em Dũng cần reschedule họp định kỳ với anh Matsumoto do việc nội bộ. Từ pattern xấu (báo trước 3 giờ + 1 option) sang đúng (24h trước + 3 options + chịu trách nhiệm update lịch)."
+  },
+  "related_rules": ["rule_14"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 3時間前 + 候補1つ",
+      "label_vi": "XẤU — Trước 3 giờ + 1 option",
+      "display_order": 1,
+      "analysis": {
+        "ja": "リスケは24時間前 + 候補3つが原則。直前連絡や候補不足は相手に再調整負担を強いる。",
+        "vi": "Reschedule nguyên tắc 24h trước + 3 options. Báo sát giờ hoặc thiếu option = đẩy gánh nặng điều chỉnh sang phía khách."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_18_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "松本様、明日の14時の会議、社内事情で参加できなくなりました。来週の同じ時間でいかがでしょうか？",
+          "sentence_translation": "Anh Matsumoto, họp 14h ngày mai, vì việc nội bộ em không tham gia được. Cùng giờ tuần sau anh thấy thế nào ạ?",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_18_bad_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ズンさん、3時間前の連絡は厳しいです。それと、来週同じ時間は私が出張中です。他の候補日時はありますか？",
+          "sentence_translation": "Dũng, báo trước 3 giờ thì khó. Còn tuần sau cùng giờ thì tôi đi công tác. Có ngày khác không?",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_18_bad_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "すみません、調整して再度お送りします…",
+          "sentence_translation": "Xin lỗi, em điều chỉnh rồi gửi lại ạ...",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_18_bad_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "リスケ連絡は24時間以上前 + 候補3つが原則ですよ。",
+          "sentence_translation": "Reschedule là 24h trước + 3 options là nguyên tắc đó.",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 24時間以上前 + 候補3つ + カレンダー更新責任",
+      "label_vi": "TỐT — Trước 24h + 3 options + chịu trách nhiệm update lịch",
+      "display_order": 2,
+      "analysis": {
+        "ja": "件名でリスケと分かる、本文で謝罪・理由・候補3つ・更新責任を明示。相手の判断負担が最小化される。",
+        "vi": "Tiêu đề rõ là reschedule, body có xin lỗi + lý do + 3 option + chịu trách nhiệm update. Giảm tối đa load cho khách."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_18_good_03",
+          "highlight_text": "こちらでカレンダー更新 + 新規招待をお送りします",
+          "ja": "リスケを依頼した側が更新責任を負うのが原則。相手に二度手間を強いない。",
+          "vi": "Bên xin reschedule chịu trách nhiệm update là nguyên tắc. Không bắt khách phải làm 2 lần."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_18_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "件名「【リスケ依頼】4/23(火)14時 定例会議」で、お詫び・理由・代替候補3つ・カレンダー更新責任明示の4要素メールを24時間以上前に送信しました。",
+          "sentence_translation": "Em gửi mail tiêu đề '[Xin reschedule] Họp định kỳ 14h thứ Ba 23/4', body gồm 4 phần xin lỗi + lý do + 3 option + nhận trách nhiệm update lịch, gửi trước 24h ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_18_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "ご丁寧にありがとうございます。候補②(4/24 木 10時) で確定しましょう。",
+          "sentence_translation": "Cảm ơn em đã chu đáo. Chốt option ② (10h thứ Năm 24/4) nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_18_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ありがとうございます。こちらでカレンダー更新 + 新規招待をお送りします。会議室・Zoom リンクも変更不要です。",
+          "sentence_translation": "Em cảm ơn anh ạ. Em sẽ update lịch và gửi invite mới. Phòng họp và link Zoom không cần đổi ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_18_good_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "お手数おかけします。",
+          "sentence_translation": "Phiền em nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_18_kp_01",
+      "speaker": "zun",
+      "sentence": "直前のご連絡となり恐縮ですが、〇〇のため、当初予定の〇〇に参加できなくなりました。代替候補を3つお送りいたします。",
+      "sentence_translation": "Em xin lỗi vì thông báo sát giờ, do 〇〇 nên em không tham gia được lịch ban đầu 〇〇. Em xin gửi 3 phương án thay thế ạ.",
+      "purpose": "リスケ依頼の冒頭定型句",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_18_kp_02",
+      "speaker": "zun",
+      "sentence": "当方にてカレンダー更新および新規招待をお送りいたします。",
+      "sentence_translation": "Em sẽ update lịch và gửi invite mới ạ.",
+      "purpose": "リスケ後の更新責任明示",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_18_bjt_01",
+      "level": "J3",
+      "skill": "表現読解",
+      "question_ja": "リスケ連絡で最も避けるべきパターンは？",
+      "options": [
+        "24時間前に候補3つを送る",
+        "件名にリスケと明記する",
+        "3時間前に候補1つだけ送る",
+        "カレンダー更新を自分で行う"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "直前の連絡 + 候補不足 + カレンダー更新を相手任せはリスケ最悪パターン。24時間前 + 候補3つ + 自分で更新が原則。",
+        "vi": "Báo sát giờ + thiếu option + bắt khách tự update là pattern tệ nhất. Đúng: 24h trước + 3 option + tự update."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_18_tpl_01",
+      "format": "email_invite",
+      "title_ja": "リスケ依頼メール・テンプレート",
+      "title_vi": "Template email xin reschedule",
+      "content_ja": "件名：【リスケ依頼】〇月〇日(〇) 〇〇:〇〇 〇〇会議\n\n〇〇様\n（CC：〇〇様）\n\nお世話になっております。\nティエンファットの〇〇でございます。\n\n直前のご連絡となり恐縮ですが、〇〇のため、当初予定の〇月〇日(〇) 〇〇:〇〇〜〇〇:〇〇 の会議に参加できなくなりました。\n誠に申し訳ございません。\n\n下記の通り代替候補を3つご提案させていただきます。ご都合の良い候補をご返信いただけますと幸いです。\n\n──────────────────────\n■ 代替候補\n  ① 〇月〇日(〇) 〇〇:〇〇〜〇〇:〇〇 (JST)\n  ② 〇月〇日(〇) 〇〇:〇〇〜〇〇:〇〇 (JST)\n  ③ 〇月〇日(〇) 〇〇:〇〇〜〇〇:〇〇 (JST)\n\n■ 形式：〇〇（リンク：https://...）\n■ アジェンダ：当初の通り（変更なし）\n──────────────────────\n\nご都合よろしい候補が確定次第、当方にてカレンダー更新および新規招待をお送りいたします。\n会議室・Zoom リンクは変更不要です。\n\n何卒よろしくお願い申し上げます。",
+      "content_vi": "[Subject] [Xin reschedule] Họp 〇〇 〇:〇〇 〇/〇 (〇)\n\n[Kính gửi anh/chị 〇〇]\n(CC: anh/chị 〇〇)\n\nLúc nào cũng cảm ơn anh/chị giúp đỡ ạ. Em 〇〇 bên Thiên Phát đây ạ.\n\nEm xin lỗi vì thông báo sát giờ, do 〇〇 nên em không tham gia được lịch ban đầu 〇/〇 〇:〇〇 - 〇:〇〇 ạ.\nEm xin lỗi anh/chị ạ.\n\nEm xin đề xuất 3 phương án thay thế như dưới đây. Phiền anh/chị reply giúp em phương án thuận tiện ạ.\n\n──────────────────────\n[Phương án thay thế]\n  ① 〇/〇 (〇) 〇:〇〇 - 〇:〇〇 (JST)\n  ② 〇/〇 (〇) 〇:〇〇 - 〇:〇〇 (JST)\n  ③ 〇/〇 (〇) 〇:〇〇 - 〇:〇〇 (JST)\n\n[Hình thức] 〇〇 (link: https://...)\n[Agenda] Như ban đầu (không đổi)\n──────────────────────\n\nNgay khi anh/chị chốt phương án, em sẽ update lịch và gửi invite mới ạ.\nPhòng họp và link Zoom không cần đổi ạ.\n\nEm xin cảm ơn ạ.",
+      "notes_ja": "件名で「リスケ依頼」と明記。理由は1行で簡潔に（社内詳細は不要）。候補は最低3つ、JST 表記必須。更新責任を明示することで相手の負担を取り除く。",
+      "notes_vi": "Tiêu đề ghi rõ '[Xin reschedule]'. Lý do nói 1 dòng ngắn (không cần chi tiết nội bộ). Tối thiểu 3 option, bắt buộc kèm JST. Show rõ trách nhiệm update lịch để khách không phải lo."
+    }
+  ]
+}

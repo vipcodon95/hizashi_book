@@ -1,0 +1,119 @@
+{
+  "rule_id": "rule_08",
+  "rule_slug": "静かな環境を確保",
+  "title": {
+    "ja": "静かな環境を確保",
+    "vi": "Môi trường yên lúc gọi/nhận"
+  },
+  "rule_context": {
+    "ja": "背景音は通話品質を下げ、プロらしさを損なう。",
+    "vi": "Tiếng ồn nền làm giảm chất lượng cuộc gọi và mất chuyên nghiệp."
+  },
+  "related_rules": [
+    "rule_09",
+    "rule_33"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — カフェから電話",
+      "label_vi": "XẤU — Gọi ở café",
+      "display_order": 1,
+      "sfx_intro": "cafe_background_noise",
+      "conversation_lines": [
+        {
+          "line_id": "rule_08_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お電話ありがとうございます、ズンです。",
+          "sentence_translation": "Cảm ơn anh đã gọi, tôi là Dũng.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_08_bad_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "外にいらっしゃいますか？少し聞き取りにくいのですが...",
+          "sentence_translation": "Em đang ở ngoài à? Hơi khó nghe ạ...",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 会議室から",
+      "label_vi": "TỐT — Vào phòng họp",
+      "display_order": 2,
+      "conversation_lines": [
+        {
+          "line_id": "rule_08_good_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お電話ありがとうございます。ティエンファット社のズンでございます。",
+          "sentence_translation": "Cảm ơn anh đã gọi. Tôi là Dũng bên Cty Thiên Phát ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_08_good_02",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "松本です。",
+          "sentence_translation": "Tôi là Matsumoto.",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "section": "variant",
+      "variant_name": "outdoor_unavoidable",
+      "label_ja": "バリエーション — 外出中、避けられない場合",
+      "label_vi": "Biến thể — Bắt buộc phải nghe ở nơi ồn",
+      "display_order": 3,
+      "conversation_lines": [
+        {
+          "line_id": "rule_08_var_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "外出中で恐れ入りますが、このまま電話を受けさせていただきます。お電話が遠く聞こえる場合は、ご容赦ください。",
+          "sentence_translation": "Em đang đi ngoài nên xin lỗi anh. Em xin nhận máy luôn. Nếu line không được rõ, mong anh thông cảm ạ.",
+          "tone": "apologetic",
+          "speed_multiplier": 0.95
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_08_kp_01",
+      "speaker": "zun",
+      "sentence": "重要な電話の前は、必ず静かな場所へ。",
+      "sentence_translation": "Trước cuộc gọi quan trọng, vào nơi yên tĩnh.",
+      "purpose": "通話準備のルール",
+      "slow_audio": false
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_08_bjt_01",
+      "level": "J4",
+      "skill": "場面把握",
+      "question_ja": "重要な顧客電話を受けるのに最も適切な場所は？",
+      "options": [
+        "カフェ",
+        "車内",
+        "静かな会議室",
+        "賑やかなオープンオフィス"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "背景音のない静かな会議室が理想。",
+        "vi": "Phòng họp yên tĩnh không tiếng ồn nền là lý tưởng."
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "rule_id": "rule_21",
+  "rule_slug": "訪問先案内の電話",
+  "title": {
+    "ja": "訪問先案内の電話",
+    "vi": "Khi khách hỏi đường đến văn phòng"
+  },
+  "rule_context": {
+    "ja": "松本PMがティエンファット本社訪問のため近くから電話で道を尋ねる。ズンが目印・距離・方向を順序立てて案内する場面。",
+    "vi": "Anh Matsumoto đang gần văn phòng Thiên Phát nhưng không tìm thấy, gọi hỏi đường. Em Dũng hướng dẫn theo trình tự: điểm mốc → khoảng cách → hướng."
+  },
+  "related_rules": [
+    "rule_11",
+    "rule_24"
+  ],
+  "conversations": [
+    {
+      "section": "good_example",
+      "label_ja": "良い例",
+      "label_vi": "TỐT",
+      "display_order": 1,
+      "analysis": {
+        "ja": "現在地確認→目印（BIDV銀行）→方向（右折）→建物特徴（8階建て・看板）の順で具体的。最後に『お気をつけて』で締める。",
+        "vi": "Xác nhận vị trí → mốc (BIDV) → hướng (rẽ phải) → đặc điểm tòa nhà (8 tầng, biển hiệu). Kết bằng 「お気をつけて」 lịch sự."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_21_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "すみません、今ホアンキエム湖の北側におります。御社まではどのように行けばよろしいでしょうか？",
+          "sentence_translation": "Xin lỗi, tôi đang ở phía bắc hồ Hoàn Kiếm. Tới văn phòng các bạn đi đường nào ạ?",
+          "tone": "formal",
+          "pronunciation_hint": {
+            "ホアンキエム": "ホアン・キエム"
+          }
+        },
+        {
+          "line_id": "rule_21_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お電話ありがとうございます。湖の北側ですと、ハンバック (Hang Bac) 通りを北へ徒歩約5分でございます。途中、左手にBIDV銀行が見えてまいります。",
+          "sentence_translation": "Cảm ơn anh đã gọi ạ. Từ bắc hồ, anh đi phố Hàng Bạc về phía bắc khoảng 5 phút đi bộ. Trên đường bên trái sẽ thấy ngân hàng BIDV ạ.",
+          "tone": "warm",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_21_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "BIDVの次の角を右に曲がっていただきますと、3つ目の8階建てビルが弊社でございます。1階に『ティエンファット』の看板がございます。",
+          "sentence_translation": "Qua BIDV, anh rẽ phải ở góc đường tiếp theo, tòa nhà 8 tầng thứ 3 là văn phòng em ạ. Tầng 1 có biển hiệu 'Thiên Phát' ạ.",
+          "tone": "warm",
+          "speed_multiplier": 0.9
+        },
+        {
+          "line_id": "rule_21_good_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "BIDVの先を右、3つ目の8階建てビルですね。承知しました。",
+          "sentence_translation": "Qua BIDV rẽ phải, tòa thứ 3 cao 8 tầng nhỉ. Tôi hiểu rồi ạ.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_21_good_05",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "お気をつけてお越しください。",
+          "sentence_translation": "Anh đi cẩn thận giúp em ạ.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_21_kp_01",
+      "speaker": "zun",
+      "sentence": "〇〇を目印に、〇〇通りを徒歩約〇分でございます。",
+      "sentence_translation": "Lấy 〇〇 làm mốc, đi phố 〇〇 khoảng 〇 phút đi bộ ạ.",
+      "purpose": "道案内の標準フォーマット",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_21_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "訪問先案内で最も避けるべき表現は？",
+      "options": [
+        "BIDV銀行を目印にしてください",
+        "まっすぐ行って、適当に右に曲がってください",
+        "8階建てのビルでございます",
+        "徒歩約5分でございます"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "「適当に」は曖昧で道案内NG。具体的な目印・方向・距離が原則。",
+        "vi": "「適当に」 (đại khái) quá mơ hồ. Hướng dẫn phải cụ thể: mốc + hướng + khoảng cách."
+      }
+    }
+  ]
+}

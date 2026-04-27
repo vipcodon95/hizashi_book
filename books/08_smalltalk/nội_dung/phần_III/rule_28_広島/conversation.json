@@ -1,0 +1,522 @@
+{
+  "rule_id": "08-28",
+  "rule_slug": "広島",
+  "title": {
+    "vi": "Hiroshima — Carp + 重ね焼き + 牡蠣 + 宮島",
+    "ja": "広島"
+  },
+  "regional_focus": "広島 — 広島市 + 宮島 + 尾道 + 福山 + 西条",
+  "rule_context": {
+    "luan_diem_vi": "Hiroshima 3 niềm tự hào không đụng: Carp 熱狂応援, お好み焼 重ね焼き (vs 大阪混ぜ焼き), 牡蠣 60% + 宮島.",
+    "luan_diem_ja": "広島県人の3大誇り:カープ熱狂・お好み焼重ね焼き(大阪と別物)・牡蠣全国60%+宮島。1つ振れば1時間。",
+    "boi_canh_vi": "Tháng 10/2026, Hiroshi 部長 mời Dũng + Tuấn + Hà CTO sang Hiroshima 2 ngày. お好み村 → 流川 → 宮島 → 焼がきのはやし → マツダスタジアム.",
+    "boi_canh_ja": "2026年10月、広島部長がズン+トゥアン+ハーCTOを広島2日間招待。お好み村→流川→宮島→焼がきのはやし→マツダスタジアム。",
+    "muc_tieu_vi": "Master 3 niềm tự hào Hiroshima + cẩn thận平和topic."
+  },
+  "related_rules": [
+    {
+      "book": "08",
+      "rule": "26",
+      "topic": "Osaka お好み焼 phân biệt"
+    },
+    {
+      "book": "08",
+      "rule": "12",
+      "topic": "Sake topic 西条"
+    },
+    {
+      "book": "08",
+      "rule": "14",
+      "topic": "Baseball"
+    }
+  ],
+  "conversations": [
+    {
+      "scenario": "お好み村 — 重ね焼き 7 step + そば vs うどん + オタフク",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "ズンさん、ここがお好み村じゃ。新天地いう繁華街にあって、3階建て約20店舗集まっとるんよ。広島お好み焼の聖地じゃけぇ。",
+          "vi": "Em Dũng, đây là Okonomimura. Ở khu Shintenchi, 3 tầng khoảng 20 quán. Thánh địa okonomiyaki Hiroshima."
+        },
+        {
+          "speaker": "zun",
+          "ja": "『じゃけぇ』、広島弁ですね。25店舗もあるんですか…どこ行きますか?",
+          "vi": "'Jakē', Hiroshima-ben nhỉ. 25 quán cơ. Mình vào quán nào?"
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "麗ちゃんにしよう、ここは老舗中の老舗。創業半世紀以上。広島お好み焼の重ね焼きは、順番が命じゃ。",
+          "vi": "Reichan đi, lâu đời nhất. Khai trương hơn nửa thế kỷ. Kasaneyaki Hiroshima thì thứ tự là tinh thần."
+        },
+        {
+          "speaker": "zun",
+          "ja": "生地→キャベツ→もやし→豚バラ→そば(or うどん)→卵→ソース、ですよね。",
+          "vi": "Bột → bắp cải → giá → ba chỉ → soba (hoặc udon) → trứng → sốt nhỉ."
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "そば派かうどん派かまで知っとるかい。広島はそば派が多数、うどん派は少数派でほっこりするんよ。そばの方が炒めた香ばしさが出るけえな。",
+          "vi": "Em biết cả phe soba/udon à. Hiroshima đa số phe soba, udon ít, ấm áp. Soba thơm hơn khi xào."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ソースはオタフクソースですよね、地元ブランド。",
+          "vi": "Sốt thì Otafuku sauce nhỉ, brand địa phương."
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "オタフクね!1922年広島創業、お好み焼ソース全国シェア6割。冷蔵庫にオタフクないと広島人やない言われるくらい。",
+          "vi": "Otafuku! 1922 Hiroshima, sốt okonomiyaki 60% cả nước. Tủ lạnh không có Otafuku là không phải dân Hiroshima."
+        },
+        {
+          "speaker": "ha_cto",
+          "ja": "広島の方が大阪の方より、お好み焼へのこだわりが強い印象です。",
+          "vi": "Hiroshima có vẻ kỹ tính hơn Osaka về okonomiyaki."
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "そう感じる?広島は『焼く技術』を競う、大阪は『混ぜる材料』を競う。哲学が違うんじゃ。",
+          "vi": "Cảm thấy thế à? Hiroshima thi 'kỹ thuật nướng', Osaka thi 'nguyên liệu trộn'. Triết lý khác."
+        }
+      ]
+    },
+    {
+      "scenario": "流川 — Carp full depth",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "ズンさん、カープのこと、どれくらい知っとる?",
+          "vi": "Em Dũng, biết về Carp đến đâu?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "広島東洋カープ、1949年創設、市民球団の歴史で有名ですよね。マツダスタジアム(正式名 MAZDA Zoom-Zoom スタジアム広島)が本拠地。",
+          "vi": "Hiroshima Tōyō Carp, thành lập 1949, đội bóng dân nổi tiếng. Sân nhà MAZDA Zoom-Zoom Stadium."
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "市民球団!樽募金で球団続けた話、知っとるんか?1951年、潰れそうになったとき、広島市民が樽に募金して球団救った。あれがカープのDNAじゃけぇ。",
+          "vi": "Đội dân! Em biết chuyện quyên thùng à? 1951, đội sắp phá sản, dân Hiroshima quyên góp vào thùng cứu đội. Đó là DNA Carp."
+        },
+        {
+          "speaker": "zun",
+          "ja": "だから赤い帽子に B のマークは、広島市民にとってシンボル以上…",
+          "vi": "Vậy nên mũ đỏ chữ B với dân Hiroshima là biểu tượng hơn cả..."
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "正解!最近の新井監督もええよ。新井さん、引退してから監督就任、カープ生え抜きじゃけぇな。",
+          "vi": "Đúng! HLV Arai gần đây cũng tốt. Anh Arai, nghỉ thi đấu rồi nhận HLV, người Carp gốc."
+        },
+        {
+          "speaker": "zun",
+          "ja": "黒田博樹さんもカープ復帰の話は感動的でした。メジャー帰りで年俸激減でもカープに戻った…",
+          "vi": "Anh Kuroda Hiroki trở về Carp cũng cảm động. Từ MLB về dù lương giảm mạnh..."
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "『男気黒田』ね…広島県人みんな泣いた。2016年25年ぶり優勝、あれは黒田さんの最後のシーズンじゃった。",
+          "vi": "'Otokogi Kuroda' đó... dân Hiroshima đều khóc. 2016 vô địch sau 25 năm, là mùa cuối của anh Kuroda."
+        },
+        {
+          "speaker": "zun",
+          "ja": "鯉のぼりで球場全体が応援するジェット風船7回、いつか実体験したいです。",
+          "vi": "Cờ cá chép cả sân, bóng bay tầng 7, em muốn trải nghiệm."
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "明日、マツダスタジアム行こう!カープうどん食って、カープビール飲んで、スクワット応援しようや!",
+          "vi": "Mai đi Mazda Stadium! Ăn Carp udon, uống Carp beer, cổ vũ squat luôn!"
+        }
+      ]
+    },
+    {
+      "scenario": "宮島 — 厳島神社 + 弥山 + もみじ饅頭",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "宮島は1996年UNESCO世界遺産、日本三景の一つ。厳島神社、海の中に立つ朱塗りの大鳥居は世界的にも有名じゃ。",
+          "vi": "Miyajima là UNESCO 1996, 1 trong Nihon Sankei. Itsukushima đền, cổng đỏ giữa biển nổi tiếng thế giới."
+        },
+        {
+          "speaker": "zun",
+          "ja": "日本三景は松島(宮城)・天橋立(京都)・宮島ですよね。厳島神社は593年創建、平清盛が1168年に現在の規模に拡張した、と。",
+          "vi": "Nihon Sankei: Matsushima (Miyagi), Amanohashidate (Kyoto), Miyajima. Itsukushima xây 593, Taira no Kiyomori mở rộng 1168."
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "平清盛まで…ズンさん、ガイドブック1冊全部覚えたんか(笑)",
+          "vi": "Cả Kiyomori... Em đọc thuộc cả guidebook à (cười)."
+        },
+        {
+          "speaker": "zun",
+          "ja": "鳥居は満潮時は海に浮かんで見え、干潮時は歩いて行ける、ですよね。",
+          "vi": "Cổng triều cao thì nổi trên biển, triều thấp thì đi bộ tới được nhỉ."
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "そう、潮の時間で表情が変わる。あの鳥居は自重で立っとる、地中に埋めとらんのよ。",
+          "vi": "Đúng, theo giờ thủy triều mà đổi diện mạo. Cổng đó tự đứng bằng trọng lực, không chôn dưới đất."
+        },
+        {
+          "speaker": "ha_cto",
+          "ja": "弥山(みせん)、ロープウェイで上がれるんですよね?",
+          "vi": "Núi Misen, đi cáp được nhỉ?"
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "弥山は標高535m、1200年以上消えていない『消えずの霊火』があるんよ。広島平和記念公園の『平和の灯』もここから採火された。",
+          "vi": "Misen 535m, có 'lửa không tắt' hơn 1200 năm. Lửa 'Bình hòa chi đăng' ở công viên hòa bình Hiroshima cũng lấy từ đây."
+        },
+        {
+          "speaker": "zun",
+          "ja": "もみじ饅頭は宮島発祥ですよね、藤い屋とやまだ屋…",
+          "vi": "Momiji manjū gốc Miyajima nhỉ, Fujiya và Yamadaya..."
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "うわ、もみじ饅頭の名店まで…!藤い屋(1925年)とやまだ屋(1932年)が二大老舗。最近は揚げもみじもあるんよ、博多屋の名物。",
+          "vi": "Ồ, cả quán momiji manjū... Fujiya (1925) và Yamadaya (1932) lâu đời. Giờ có cả age-momiji, đặc sản Hakataya."
+        }
+      ]
+    },
+    {
+      "scenario": "牡蠣 + 平和記念公園 (cẩn thận) + サンフレッチェ pivot",
+      "type": "good",
+      "lines": [
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "広島の牡蠣は全国シェア60%。広島湾の海水温・栄養が完璧でな。冬12月-2月が旬、今はかきフライで食えるんよ。",
+          "vi": "Hàu Hiroshima 60% cả nước. Vịnh Hiroshima nhiệt độ và dinh dưỡng hoàn hảo. Mùa 12-2, giờ ăn được kaki-fry."
+        },
+        {
+          "speaker": "zun",
+          "ja": "生牡蠣、カキフライ、土手鍋、かきめし…広島スタイル多いですね。",
+          "vi": "Hàu sống, kaki-fry, dote-nabe, kakimeshi... nhiều style Hiroshima."
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "土手鍋は味噌で土手を作って牡蠣と豆腐入れる、広島の冬の定番じゃ。家庭料理でな、店じゃあんまり出さん。",
+          "vi": "Dote-nabe là làm 'đê' bằng miso, cho hàu + đậu phụ vào. Món gia đình mùa đông Hiroshima. Quán ít bán."
+        },
+        {
+          "speaker": "ha_cto",
+          "ja": "ところで広島は穴子も有名と聞きました。",
+          "vi": "Mà Hiroshima nổi tiếng cả lươn anago em nghe."
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "宮島の穴子飯!うえのって店、1901年創業、駅弁としても有名。さっき食えばよかった(笑)",
+          "vi": "Anagomeshi Miyajima! Quán Ueno, từ 1901, nổi tiếng cả ekiben. Lúc nãy nên ăn (cười)."
+        },
+        {
+          "speaker": "zun",
+          "ja": "広島駅のすぐ近くに平和記念公園もあると聞きました。次回、ご一緒できたら…",
+          "vi": "Em nghe gần ga Hiroshima có Heiwa Kinen Kōen. Lần sau nếu được cùng anh..."
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "…ありがとう、ズンさん。広島県人として、外の方が公園を訪れて、考えてくださること、本当に嬉しいんじゃ。原爆ドームもUNESCO世界遺産でな。毎年8月6日、市内全体が静かになる。次回、ご案内するけえな。",
+          "vi": "...Cảm ơn em. Là dân Hiroshima, người ngoài đến thăm công viên và suy ngẫm, anh thật lòng vui. Atomic Bomb Dome là UNESCO. Hàng năm 6/8 cả thành phố lặng yên. Lần sau tôi dẫn em."
+        },
+        {
+          "speaker": "zun",
+          "ja": "サンフレッチェ広島もJリーグで強豪ですよね。",
+          "vi": "Sanfrecce Hiroshima cũng mạnh ở J-League nhỉ."
+        },
+        {
+          "speaker": "hiroshi_chugoku",
+          "ja": "お、サッカーも知っとるか!サンフレッチェは毛利元就の三本の矢から命名。カープとサンフレッチェ、広島は赤と紫じゃ!",
+          "vi": "Ồ biết cả bóng đá! Sanfrecce đặt tên theo '3 mũi tên Mōri Motonari'. Carp + Sanfrecce, Hiroshima là đỏ + tím!"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "category": "Mở topic",
+      "ja": "広島さんはご地元、広島ですよね。",
+      "vi": "Anh Hiroshi quê Hiroshima nhỉ."
+    },
+    {
+      "category": "お好み焼",
+      "ja": "広島のお好み焼は重ね焼き、大阪は混ぜ焼き、別物ですよね。",
+      "vi": "Hiroshima kasaneyaki, Osaka mazeyaki, khác hẳn."
+    },
+    {
+      "category": "お好み焼",
+      "ja": "そば派とうどん派、どちら派ですか?",
+      "vi": "Phe soba hay udon ạ?"
+    },
+    {
+      "category": "お好み焼",
+      "ja": "オタフクソース、広島の冷蔵庫の必需品ですよね。",
+      "vi": "Otafuku sauce, đồ phải có trong tủ lạnh Hiroshima."
+    },
+    {
+      "category": "Carp",
+      "ja": "カープは市民球団、樽募金で救われた歴史、感動ですね。",
+      "vi": "Carp đội dân, lịch sử quyên thùng cứu đội cảm động."
+    },
+    {
+      "category": "Carp",
+      "ja": "黒田博樹さんの『男気帰国』、忘れられない…",
+      "vi": "'Otokogi kikoku' của anh Kuroda không thể quên..."
+    },
+    {
+      "category": "Miyajima",
+      "ja": "厳島神社、平清盛が1168年に拡張、日本三景の一つですよね。",
+      "vi": "Itsukushima, Kiyomori mở rộng 1168, 1 trong Nihon Sankei."
+    },
+    {
+      "category": "牡蠣",
+      "ja": "広島湾の牡蠣、全国シェア60%、12-2月が旬ですよね。",
+      "vi": "Hàu vịnh Hiroshima 60% cả nước, mùa 12-2."
+    },
+    {
+      "category": "平和",
+      "ja": "次回広島に伺う際、平和記念公園をご一緒できたら光栄です。",
+      "vi": "Lần sau đến Hiroshima, được cùng anh đi Heiwa Kinen Kōen sẽ là vinh dự."
+    }
+  ],
+  "regional_cheatsheet": {
+    "ken_capital": "広島市",
+    "main_cities": [
+      "広島市",
+      "福山市",
+      "尾道市",
+      "呉市",
+      "東広島市",
+      "三次市"
+    ],
+    "okonomiyaki": {
+      "style": "重ね焼き — 生地→キャベツ→もやし→豚→そば/うどん→卵→ソース",
+      "soba_vs_udon": "そば派多数 / うどん派少数",
+      "shops": [
+        "お好み村(新天地3階約20店)",
+        "麗ちゃん(半世紀以上)",
+        "みっちゃん(1950)",
+        "ふみちゃん",
+        "電光石火"
+      ]
+    },
+    "oyster": {
+      "share": "全国60%+",
+      "season": "12-2月",
+      "dishes": [
+        "生牡蠣",
+        "カキフライ",
+        "土手鍋(家庭)",
+        "かきめし"
+      ],
+      "shops": [
+        "焼がきのはやし(宮島)",
+        "かなわ"
+      ]
+    },
+    "other_food": [
+      "宮島穴子飯うえの 1901",
+      "尾道ラーメン",
+      "広島つけ麺",
+      "汁なし担担麺キング軒",
+      "府中味噌",
+      "瀬戸内レモン",
+      "三次ピオーネ"
+    ],
+    "sake": "西条(東広島) — 賀茂鶴/白牡丹/亀齢/千福/西條鶴/福美人/山陽鶴, 酒まつり10月",
+    "sauce": "オタフクソース 1922 全国60%",
+    "carp": {
+      "stadium": "MAZDA Zoom-Zoom スタジアム広島",
+      "founded": 1949,
+      "history": "市民球団 — 樽募金1951",
+      "manager": "新井貴浩",
+      "legends": [
+        "黒田博樹(男気帰国)",
+        "緒方孝市",
+        "山本浩二",
+        "衣笠祥雄",
+        "前田智徳"
+      ],
+      "championship": "2016-2018 3連覇",
+      "cheering": "スクワット, ジェット風船7回, 「宮島さんの神主が」"
+    },
+    "other_sport": [
+      "サンフレッチェ広島(三本の矢/毛利元就)",
+      "広島ドラゴンフライズ(B)"
+    ],
+    "unesco": [
+      "厳島神社 1996",
+      "原爆ドーム 1996"
+    ],
+    "tourism": [
+      "宮島(厳島+弥山+もみじ谷)",
+      "平和記念公園+原爆ドーム+資料館",
+      "広島城",
+      "縮景園",
+      "尾道(千光寺/猫の細道)",
+      "しまなみ海道",
+      "呉(大和ミュージアム)",
+      "鞆の浦"
+    ],
+    "festivals": [
+      "広島フラワーフェスティバル(5/3-5)",
+      "西条酒まつり(10月)",
+      "宮島水中花火(8月)",
+      "管絃祭"
+    ],
+    "dialect": "〜じゃけぇ/〜じゃ/〜けえ/〜とる/ぶち(=とても)/たちまち/えっと/やれん",
+    "peace": "8/6 8:15 黙祷, 灯篭流し, 静かに尊重"
+  },
+  "ng_list": [
+    "Nhầm 大阪混ぜ焼き ↔ 広島重ね焼き",
+    "Trêu Carp khi thua",
+    "Hỏi 平和記念公園 quá đột ngột",
+    "Gộp 広島市/福山/尾道",
+    "Khen 牡蠣 「東京の方が美味しい」",
+    "Hát 六甲おろし trước Hiroshima",
+    "Khen サンフレッチェ trên カープ trước senior"
+  ],
+  "vocab": [
+    {
+      "kanji": "重ね焼き",
+      "yomi": "かさねやき",
+      "vi": "Cách Hiroshima xếp lớp"
+    },
+    {
+      "kanji": "オタフクソース",
+      "yomi": "おたふくソース",
+      "vi": "Sốt 1922"
+    },
+    {
+      "kanji": "広島東洋カープ",
+      "yomi": "ひろしまとうようカープ",
+      "vi": "Đội bóng chày"
+    },
+    {
+      "kanji": "市民球団",
+      "yomi": "しみんきゅうだん",
+      "vi": "Đội dân"
+    },
+    {
+      "kanji": "樽募金",
+      "yomi": "たるぼきん",
+      "vi": "Quyên thùng 1951"
+    },
+    {
+      "kanji": "男気",
+      "yomi": "おとこぎ",
+      "vi": "Tinh thần đàn ông"
+    },
+    {
+      "kanji": "厳島神社",
+      "yomi": "いつくしまじんじゃ",
+      "vi": "Itsukushima UNESCO"
+    },
+    {
+      "kanji": "大鳥居",
+      "yomi": "おおとりい",
+      "vi": "Cổng đỏ giữa biển"
+    },
+    {
+      "kanji": "弥山",
+      "yomi": "みせん",
+      "vi": "Núi Miyajima 535m"
+    },
+    {
+      "kanji": "もみじ饅頭",
+      "yomi": "もみじまんじゅう",
+      "vi": "Bánh lá phong"
+    },
+    {
+      "kanji": "牡蠣",
+      "yomi": "かき",
+      "vi": "Hàu"
+    },
+    {
+      "kanji": "土手鍋",
+      "yomi": "どてなべ",
+      "vi": "Lẩu hàu+miso"
+    },
+    {
+      "kanji": "穴子飯",
+      "yomi": "あなごめし",
+      "vi": "Cơm lươn biển"
+    },
+    {
+      "kanji": "尾道ラーメン",
+      "yomi": "おのみちラーメン",
+      "vi": "Ramen Onomichi"
+    },
+    {
+      "kanji": "原爆ドーム",
+      "yomi": "げんばくドーム",
+      "vi": "Atomic Bomb Dome"
+    },
+    {
+      "kanji": "サンフレッチェ",
+      "yomi": "さんふれっちぇ",
+      "vi": "Sanfrecce 三本の矢"
+    },
+    {
+      "kanji": "賀茂鶴",
+      "yomi": "かもつる",
+      "vi": "Sake Saijō"
+    },
+    {
+      "kanji": "じゃけぇ",
+      "yomi": "じゃけぇ",
+      "vi": "Vì vậy (Hiroshima-ben)"
+    },
+    {
+      "kanji": "ぶち",
+      "yomi": "ぶち",
+      "vi": "Cực kỳ"
+    }
+  ],
+  "bjt_practice": [
+    {
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "広島出身のお客様に「お好み焼」の話で最初に確認すべきは?",
+      "options": [
+        "A. 大阪と同じですよね?",
+        "B. 広島は重ね焼き、そば派ですか? ",
+        "C. もんじゃとどっちが好き?",
+        "D. 嫌いですか?"
+      ],
+      "answer": "B",
+      "explain_vi": "重ね焼き + そば派 = depth Hiroshima."
+    },
+    {
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "「男気黒田」の含意は?",
+      "options": [
+        "A. 黒田博樹がメジャーから年俸激減でもカープに戻ったエピソード — 武士道的義理",
+        "B. 強い性格",
+        "C. ファッション",
+        "D. 関係ない"
+      ],
+      "answer": "A",
+      "explain_vi": "Kuroda 2015 từ MLB về Carp giảm lương lớn — biểu tượng 義理 Hiroshima."
+    },
+    {
+      "level": "J1",
+      "skill": "発言聴解",
+      "question_ja": "広島弁「ぶち美味い」の意味は?",
+      "options": [
+        "A. 全然美味しくない",
+        "B. とても美味しい(=めっちゃ美味い)",
+        "C. 普通",
+        "D. 食べられない"
+      ],
+      "answer": "B",
+      "explain_vi": "「ぶち」 Hiroshima-ben = 'cực kỳ', tương đương 「めっちゃ」 Kansai."
+    }
+  ],
+  "templates": []
+}

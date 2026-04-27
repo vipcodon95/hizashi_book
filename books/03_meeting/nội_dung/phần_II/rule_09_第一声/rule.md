@@ -1,0 +1,77 @@
+# Rule 09 — Câu chào mở đầu chuẩn / 会議冒頭の第一声
+
+> **Luận điểm.** Câu đầu chủ trì phải có 3 yếu tố: (1) **cảm ơn vì đã đến** 「お忙しい中お集まりいただき」, (2) **giới thiệu mình** 「司会を務めさせていただく〇〇」, (3) **vào agenda** 「早速ですが」. Thiếu 1 = cảm giác hụt hẫng.
+>
+> 会議冒頭の第一声3要素：①来場感謝 ②司会自己紹介 ③議事への移行。「本日はお忙しい中、お集まりいただきありがとうございます。」が定型。
+>
+> **Liên quan:** Rule 06 (đến đúng giờ), Rule 10 (giới thiệu khi có người mới), Rule 13 (giới thiệu agenda), Rule 14 (phân vai).
+
+---
+
+## Bối cảnh / 場面
+
+Buổi họp 4月度月例 với 白鷗 (松本PM, 大垣営業部長). Em Dũng được giao司会 (chủ trì). Đã 15:00, đủ người.
+
+---
+
+## ❌ Hội thoại XẤU — câu mở thiếu, vào nội dung luôn
+
+*15:00 · 困惑 · 慌てて*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「では、Phase 2 進捗報告から始めます。」 |
+| **松本** | *(え、ご挨拶もなく？まだ全員紹介もしていないのに？)* |
+| **大垣** | 「ズンさん、まずは皆様への一言があるかと…」 |
+| **ズン** | 「あ、すみません。本日はお集まりいただきありがとうございます…」 |
+
+**Vì sao xấu:** Bỏ qua câu mở chuẩn = bất lịch sự với khách (đặc biệt khách Nhật cấp cao). 「で、〜から始めます」 quá khô. Khách bị "shocked" ngay từ giây đầu.
+
+---
+
+## ✅ Hội thoại TỐT — 3 yếu tố đầy đủ
+
+*15:00 ちょうど · うなずく*
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「皆様、本日はお忙しい中お集まりいただき、誠にありがとうございます【1】。」 |
+| **ズン** | 「本日の司会を務めさせていただきます、ティエンファットのズンでございます【2】。」 |
+| **ズン** | 「早速ではございますが、本日のアジェンダに沿って進めさせていただきます【3】。」 |
+| **松本 / 大垣** | 「よろしくお願いいたします。」 |
+
+📝 **Ghi chú:**
+- 【1】**「お忙しい中」「誠に」** — bộ đôi tăng cấp lễ phép. Không có 「お忙しい中」 → cảm thấy thiếu. 「誠に」 mạnh hơn 「本当に」.
+- 【2】**「司会を務めさせていただきます」** — câu chuẩn người chủ trì. 「務める」 = đảm nhận. 「させていただく」 = formal hơn 「します」.
+- 【3】**「早速ではございますが」** — chuyển tiếp lịch sự từ chào sang nội dung. Cụm chuẩn business JP.
+
+---
+
+## 🎯 Câu chốt
+
+> **「本日はお忙しい中お集まりいただき、誠にありがとうございます。」**
+>
+> *Câu này là câu mặc định mở mọi cuộc họp khách Nhật. Học thuộc.*
+
+---
+
+## ⚠ Tránh
+
+- 「では始めます」 cộc lốc — không có cảm ơn.
+- Quên giới thiệu mình là 司会 → khách không biết ai chủ trì.
+- 「えーと、本日は…」 dùng filler trong câu mở → thiếu tự tin.
+- Cảm ơn xong thì cười khá lâu — vào agenda luôn, đừng kéo dài.
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 第一声 | だいいっせい | Câu mở đầu |
+| 司会 | しかい | Chủ trì / MC |
+| 務める | つとめる | Đảm nhận |
+| 早速 | さっそく | Ngay lập tức |
+| 誠に | まことに | Thật sự (formal) |
+| お集まりいただく | おあつまりいただく | (Quý vị) đã đến tham dự |
+| 〜に沿って | にそって | Theo (kế hoạch / agenda) |

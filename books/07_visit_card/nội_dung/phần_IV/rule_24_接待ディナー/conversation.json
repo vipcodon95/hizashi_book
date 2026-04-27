@@ -1,0 +1,187 @@
+{
+  "rule_id": "rule_24",
+  "rule_slug": "接待ディナーへの招待",
+  "title": {
+    "ja": "接待ディナーへの招待",
+    "vi": "Mời khách dinner formal"
+  },
+  "rule_context": {
+    "ja": "白鷗3名(大垣・松本・中村CFO)+田中PMO HCMC初日午後、ズン+ハー(CTO)が翌日18:30から D1高級和食レストラン(Q1)接待を予約・menu事前確定する場面。",
+    "vi": "Đoàn 白鷗 3 người (Ōgaki, Matsumoto, Nakamura CFO) + Tanaka PMO chiều đầu tiên tại HCMC. Dũng + Hà (CTO) đặt nhà hàng Nhật cao cấp Q1 cho mai 18:30, chốt menu trước."
+  },
+  "related_rules": ["rule_25", "rule_26", "rule_30"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 当日朝予約 + 現地でmenu選び",
+      "label_vi": "XẤU — sáng cùng ngày mới đặt + để khách tự chọn menu",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①当日予約=人気店満席で B級店舗格落ち ②menu当日選択=客側の食事制限/嫌い未把握=offensive risk ③個室未確保=会話privacy無 ④alcohol確認なし。",
+        "vi": "(1) Đặt cùng ngày = nhà hàng tốt full, phải đi quán thường = mất tầm. (2) Menu để khách chọn tại chỗ = không biết dị ứng/kiêng = risk offensive. (3) Không đặt phòng riêng = mất privacy. (4) Không hỏi rượu/bia."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_24_bad_01",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "ズン、明晩の dinner、レストラン決まった？",
+          "sentence_translation": "Dũng, dinner mai tối nhà hàng chốt chưa?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_24_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "明日の朝予約しようかと…現地でmenu見ながら大垣さん達に選んでもらおうかなと…",
+          "sentence_translation": "Em định mai sáng mới đặt... Tới nhà hàng đưa menu để anh Ōgaki và mọi người tự chọn ạ...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_24_bad_03",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "それは接待じゃない。CFO 同席で当日予約=B級店しか空いてない。menu丸投げ=客に決断負担。食事制限+alcohol確認も未だろ？",
+          "sentence_translation": "Đấy không phải tiếp khách. Có CFO mà đặt cùng ngày = chỉ còn quán B. Bắt khách tự chọn menu = đẩy gánh nặng quyết định. Dị ứng với rượu cũng chưa hỏi đúng không?",
+          "tone": "firm",
+          "speed_multiplier": 0.95
+        },
+        {
+          "line_id": "rule_24_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、すみません…",
+          "sentence_translation": "À em xin lỗi anh...",
+          "tone": "apologetic"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — D-2予約 + コース事前確定 + 食事制限確認",
+      "label_vi": "TỐT — đặt từ D-2 + chốt course trước + hỏi dị ứng",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_24_good_02",
+          "highlight_text": "個室・6名・コース 〇〇万VND/人",
+          "ja": "接待は個室必須=privacy+格。CFO同席は最高ランクcourse+wine pairingが標準。人数+1 buffer 席。",
+          "vi": "Tiếp khách = phòng riêng bắt buộc → privacy + đẳng cấp. Có CFO = course top + wine pairing là chuẩn. Số người + 1 ghế buffer."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_24_good_02",
+          "highlight_text": "食事制限事前確認済 (中村CFO: 生魚OK/甲殻類NG)",
+          "ja": "アレルギー+宗教+嫌いをD-3までに田中PMO経由で確認。当日聞くのは失礼。",
+          "vi": "Dị ứng + tôn giáo + không thích → confirm qua Tanaka PMO trước D-3. Hỏi tại chỗ = thất lễ."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_24_good_02",
+          "highlight_text": "alcohol: 日本酒+ワイン両方準備、ノンアルも",
+          "ja": "Default日本酒 + 西洋wine + ノンアル選択肢=客の自由度確保。CFOがdrinkerでなくても気を遣わせない。",
+          "vi": "Default sake + vang + nonalc → khách có lựa chọn. CFO không uống cũng không bị áp lực."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_24_good_04",
+          "highlight_text": "送迎タクシー2台手配済",
+          "ja": "ホテル↔レストラン往復=接待標準。客に自分で交通手配させない。",
+          "vi": "Hotel ↔ restaurant 2 chiều = chuẩn tiếp khách. Không để khách tự đặt xe."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_24_good_01",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "ズン、明晩の白鷗様dinner、状況共有してくれる？",
+          "sentence_translation": "Dũng, dinner đoàn 白鷗 mai tối, em cập nhật giúp anh nhé?",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_24_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "① 店: Q1の和食「〇〇」、個室・6名・コース 〇〇万VND/人 (D-2予約済) ② 食事制限事前確認済 (中村CFO: 生魚OK/甲殻類NG、松本様: 制限なし、大垣様: 軽め希望) ③ alcohol: 日本酒+ワイン両方準備、ノンアルも。",
+          "sentence_translation": "(1) Quán: nhà hàng Nhật 'OO' Q1, phòng riêng, 6 người, course OO triệu/người (đã đặt từ D-2). (2) Dị ứng đã hỏi: CFO Nakamura ăn được sashimi nhưng tránh giáp xác, anh Matsumoto không kiêng, anh Ōgaki muốn nhẹ. (3) Đồ uống: cả sake + vang + nonalc.",
+          "tone": "formal",
+          "speed_multiplier": 0.92,
+          "annotation_ids": ["1", "2", "3"]
+        },
+        {
+          "line_id": "rule_24_good_03",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "送迎は？",
+          "sentence_translation": "Xe đưa đón thì sao?",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_24_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "送迎タクシー2台手配済。18:00 ホテルロビーお迎え、18:30 レストラン到着、終了後ホテルまで送り。",
+          "sentence_translation": "Em đã đặt 2 taxi đưa đón. 18:00 đón ở lobby hotel, 18:30 đến nhà hàng, kết thúc đưa về hotel.",
+          "tone": "formal",
+          "annotation_ids": ["4"]
+        },
+        {
+          "line_id": "rule_24_good_05",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "完璧。当日はホスト側着席は私+ズン+トゥアン+フオン副部長。よろしく。",
+          "sentence_translation": "Tốt. Bên host hôm đó anh + em + Tuấn + chị Hương phó phòng. Em lo nhé.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_24_kp_01",
+      "speaker": "zun",
+      "sentence": "ささやかではございますが、お食事の席をご用意させていただきました。",
+      "sentence_translation": "Tuy đơn sơ, bên em đã chuẩn bị bàn tiệc cho quý khách ạ.",
+      "purpose": "接待invitation 固定句",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_24_kp_02",
+      "speaker": "zun",
+      "sentence": "お食事の制限などございましたら、お気軽にお知らせください。",
+      "sentence_translation": "Anh chị có dị ứng hoặc kiêng gì xin thoải mái cho em biết ạ.",
+      "purpose": "事前食事制限確認",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_24_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "CFO同席の接待ディナー準備で最も適切なのは？",
+      "options": [
+        "当日朝に予約、現地でmenu選び",
+        "前日予約、coachクラス coursesで送迎なし",
+        "D-2予約、個室・コース事前確定、食事制限確認、送迎手配",
+        "客に予約してもらう"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "接待ディナーは個室+事前menu+食事制限確認+送迎の4点セット。",
+        "vi": "Tiếp khách dinner = combo phòng riêng + menu đặt trước + hỏi dị ứng + xe đưa đón."
+      }
+    }
+  ]
+}

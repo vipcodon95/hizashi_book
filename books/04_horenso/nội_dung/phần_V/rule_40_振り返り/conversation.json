@@ -1,0 +1,221 @@
+{
+  "rule_id": "rule_40",
+  "rule_slug": "振り返りと改善",
+  "title": {
+    "ja": "週次 retrospective (KPT)",
+    "vi": "Reflection + cải tiến hàng tuần"
+  },
+  "rule_context": {
+    "ja": "金曜 16:00 のチーム retrospective。愚痴のみで Action なしの悪い例から、KPT 形式 + Action items (owner+期限+check日) + 次週冒頭で先週レビューの良い例へ。",
+    "vi": "Team retrospective 16h thứ Sáu. Từ pattern xấu (chỉ phàn nàn không action) → đúng (KPT format + Action items có owner + deadline + check date + đầu tuần sau review)."
+  },
+  "related_rules": [
+    "rule_27",
+    "rule_38",
+    "rule_39"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 愚痴のみ",
+      "label_vi": "XẤU — Chỉ phàn nàn",
+      "display_order": 1,
+      "analysis": {
+        "ja": "Problem だけが出て Keep / Try / Action items がない。来週も同じ問題が再発する。retrospective の意味がない。",
+        "vi": "Chỉ có Problem, thiếu Keep / Try / Action items. Tuần sau cùng vấn đề lặp lại. Mất ý nghĩa retrospective."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_40_bad_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "皆さん、今週どうでしたか?",
+          "sentence_translation": "Mọi người, tuần này thế nào?",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_40_bad_02",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "Phase 2 障害で疲れました…",
+          "sentence_translation": "Sự cố Phase 2 mệt quá ạ...",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_40_bad_03",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "印刷会社の件で迷いました…",
+          "sentence_translation": "Vụ nhà in em phân vân...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_40_bad_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "松本様の reply 待ちが長くて辛かった…",
+          "sentence_translation": "Đợi anh Matsumoto reply lâu mệt...",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_40_bad_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "うん、お疲れ様。来週も頑張ろう。",
+          "sentence_translation": "Ừ, mọi người vất vả. Tuần sau cố gắng tiếp nhé.",
+          "tone": "warm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — KPT + Action Items",
+      "label_vi": "TỐT — KPT + Action Items",
+      "display_order": 2,
+      "analysis": {
+        "ja": "事前記入された KPT を発表 → Action items に owner+期限+check日を明示 → 次週冒頭で review。改善のループが完結している。",
+        "vi": "KPT pre-fill rồi present → Action items rõ owner + deadline + check date → đầu tuần sau review. Vòng cải thiện đóng kín."
+      },
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_40_good_01",
+          "highlight_text": "Notion テンプレに事前記入できた人から発表",
+          "ja": "事前記入で30分の retro が密度高くなる。on-the-spot brainstorm より遥かに生産的。",
+          "vi": "Pre-fill làm 30 phút retro chất lượng cao. Năng suất hơn brainstorm tại chỗ rất nhiều."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_40_good_05",
+          "highlight_text": "owner: 〇〇、期限: 〇〇、check: 〇〇 retro",
+          "ja": "Action item の3条件: owner 1人 + 具体期限 + 次回 retro での check 約束。1つでも欠けると実行されない。",
+          "vi": "3 điều kiện của Action item: 1 owner + deadline cụ thể + cam kết check tại retro kế tiếp. Thiếu 1 cái là không thực thi."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_40_good_05",
+          "highlight_text": "Decision Register に今週分3件追加",
+          "ja": "DR と retro を統合運用。改善の証跡が組織知として残る。",
+          "vi": "Tích hợp DR với retro. Dấu vết cải thiện lưu lại thành tri thức tổ chức."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_40_good_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "Retrospective 開始。30分、KPT format。Notion テンプレに事前記入できた人から発表。",
+          "sentence_translation": "Bắt đầu retrospective. 30 phút, format KPT. Ai pre-fill xong template Notion thì present trước.",
+          "tone": "neutral",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_40_good_02",
+          "speaker": "hai",
+          "speaker_role": "FE/DevOps",
+          "gender": "male",
+          "sentence": "Keep: Phase 2 障害で SLA 通り escalation できた (5分→15分→30分)。Problem: 障害後のpost-mortem document 作成に2日かかった (24h target 未達)。Try: post-mortem テンプレを Notion に作成、初稿は 4h 以内目標。",
+          "sentence_translation": "[Keep] Sự cố Phase 2 escalate đúng SLA (5p → 15p → 30p). [Problem] Sau sự cố tài liệu post-mortem mất 2 ngày (vượt target 24h). [Try] Tạo template post-mortem trong Notion, target draft đầu trong 4h.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_40_good_03",
+          "speaker": "linh",
+          "speaker_role": "マーケティングインターン",
+          "gender": "female",
+          "sentence": "Keep: 印刷会社相談で3案 + matrix 持参できた。Problem: 自分の仮説 confidence 低めで時間かかった。Try: 仮説を最初に書いてから判断材料集める順序に変更。",
+          "sentence_translation": "[Keep] Tham vấn vụ nhà in em mang đủ 3 option + matrix. [Problem] Confidence của giả thuyết em hơi thấp nên tốn thời gian. [Try] Đổi thứ tự — viết giả thuyết trước rồi mới tập dữ kiện.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_40_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "Keep: 大垣様クレームで4ステップ運用できた。Problem: 松本様 reply 平均 8h、自分の Slack DM 頻度が少ない可能性。Try: 客先 DM を 1日2回 (10時・15時) routine 化。",
+          "sentence_translation": "[Keep] Khiếu nại anh Ōgaki em chạy đúng 4 bước. [Problem] anh Matsumoto reply trung bình 8h, có thể do em DM Slack ít. [Try] Routine khách 2 lần/ngày (10h, 15h).",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_40_good_05",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "いいね、Action items まとめ: ① post-mortem テンプレ作成 (owner: ハイ、期限: 4/30、check: 5/2 retro) / ② 仮説先出し pattern (owner: リン、期限: 5/2 retro までに3回試行) / ③ 客先 DM routine (owner: ズン、期限: 5/9 retro までに4週運用) / ④ Decision Register に今週分3件追加 (owner: ズン+リン、期限: 来週月曜)。",
+          "sentence_translation": "Tốt, tổng hợp Action items: [1] Tạo template post-mortem (owner: Hải, deadline: 30/4, check: retro 2/5) / [2] Pattern 'giả thuyết trước' (owner: Linh, deadline: thử 3 lần trước retro 2/5) / [3] Routine DM khách (owner: Dũng, deadline: chạy 4 tuần trước retro 9/5) / [4] Thêm 3 mục tuần này vào Decision Register (owner: Dũng + Linh, deadline: thứ Hai tuần sau).",
+          "tone": "warm",
+          "annotation_ids": [
+            "2",
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_40_good_06",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "次週 retro は5/2、各 Action item の進捗 review が最初の議題。お疲れ様でした。",
+          "sentence_translation": "Retro tuần sau là 2/5, review tiến độ từng Action item là agenda đầu. Mọi người vất vả.",
+          "tone": "warm"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_40_kp_01",
+      "speaker": "fuon",
+      "sentence": "30分、KPT format。Notion テンプレに事前記入できた人から発表。",
+      "sentence_translation": "30 phút, format KPT. Ai pre-fill template Notion xong thì present trước.",
+      "purpose": "retrospective 開始の facilitator フレーズ",
+      "slow_audio": false
+    },
+    {
+      "phrase_id": "rule_40_kp_02",
+      "speaker": "fuon",
+      "sentence": "Action items: 〇〇 (owner: 〇〇、期限: 〇〇、check: 次週 retro)。",
+      "sentence_translation": "Action items: 〇〇 (owner: 〇〇, deadline: 〇〇, check: retro tuần sau).",
+      "purpose": "Action items 化の定型",
+      "slow_audio": false
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_40_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "週次 retrospective で最も重要な要素は?",
+      "options": [
+        "Problem を全員が共有する",
+        "Keep / Problem / Try + owner+期限+check日付き Action items",
+        "facilitator が長く話す",
+        "全員が交代でファシリテートする"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "Problem だけでは愚痴セッションに終わる。Keep で良い習慣を強化、Try で新しい挑戦、それぞれ Action item に owner+期限+check日を付ける。次週冒頭で review することでループが完結。",
+        "vi": "Chỉ Problem thì biến thành phàn nàn. Keep củng cố thói quen tốt, Try đề xuất thử mới, mỗi cái thành Action item có owner + deadline + check date. Đầu tuần sau review để vòng cải thiện đóng kín."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_40_tpl_01",
+      "format": "checklist",
+      "title_ja": "週次 Retrospective KPT テンプレート",
+      "title_vi": "Template Retrospective hàng tuần KPT",
+      "content_ja": "【週次 Retrospective / 毎週金曜 16:00-16:30】\n参加者: ティエンファット team 全員 (mentor 含む)\nFacilitator: フオン副部長 (バックアップ: トゥアン)\nツール: Notion ページ + Slack #retro 通知\n運用: 木曜EODまでに各自 KPT を pre-fill、金曜 16:00 から発表\n\n──────────────────────────────────────────\n■ ① Keep (今週うまくいったこと — 来週も継続)\n  □ 〇〇 (具体的事案 + 数値があれば)\n  □ 〇〇\n  □ 〇〇\n\n■ ② Problem (今週の課題 — 解決すべき)\n  □ 〇〇 (具体的事案 + impact: 〇時間損失/客先影響/etc.)\n  □ 〇〇\n  □ 〇〇\n  ※ 各 Problem に対して必ず最低1つの Try を出す\n\n■ ③ Try (来週試したい改善案)\n  □ 〇〇 ← Problem ① への対策\n  □ 〇〇 ← Problem ② への対策\n  □ 〇〇 ← 新しい挑戦 (Problem 由来でなくてOK)\n\n──────────────────────────────────────────\n■ ④ Action Items (Try を実行可能形式に)\n  □ Action 1: 〇〇\n     Owner: 〇〇\n     期限: 〇月〇日 EOD\n     次回 check: 〇月〇日 retro 冒頭\n     完了基準: 〇〇 (測定可能)\n  □ Action 2: 〇〇\n     Owner: 〇〇\n     期限: 〇月〇日\n     次回 check: 〇月〇日 retro 冒頭\n     完了基準: 〇〇\n  □ Action 3: 〇〇\n     ...\n\n──────────────────────────────────────────\n■ ⑤ 先週 Action items の review (retro 冒頭で実施)\n  □ 先週 Action 1 → 完了 / 進行中 / 未着手 → 理由\n  □ 先週 Action 2 → 完了 / 進行中 / 未着手 → 理由\n  □ 先週 Action 3 → 完了 / 進行中 / 未着手 → 理由\n\n──────────────────────────────────────────\n【記録欄】\n  - 出席者: 〇〇\n  - 欠席者: 〇〇 (理由: 〇〇、catch-up: 〇〇)\n  - 次回 retro: 〇月〇日(金) 16:00\n  - Decision Register への登録 ID: DR-YYYY-MMDD-〇〇",
+      "content_vi": "[Retrospective hàng tuần / Mỗi thứ Sáu 16:00-16:30]\nThành viên: toàn team Thiên Phát (gồm mentor)\nFacilitator: chị Hương (backup: anh Tuấn)\nTool: trang Notion + Slack #retro thông báo\nVận hành: thứ Năm EOD mỗi người pre-fill KPT, thứ Sáu 16:00 present\n\n──────────────────────────────────────────\n[1 Keep (Tuần này tốt — tuần sau giữ tiếp)]\n  [ ] 〇〇 (case cụ thể + số nếu có)\n  [ ] 〇〇\n  [ ] 〇〇\n\n[2 Problem (Vấn đề tuần này — cần giải quyết)]\n  [ ] 〇〇 (case cụ thể + impact: tốn 〇 giờ / ảnh hưởng khách / etc.)\n  [ ] 〇〇\n  [ ] 〇〇\n  ※ Mỗi Problem BẮT BUỘC có ít nhất 1 Try\n\n[3 Try (Phương án thử tuần sau)]\n  [ ] 〇〇 ← Đối phó Problem [1]\n  [ ] 〇〇 ← Đối phó Problem [2]\n  [ ] 〇〇 ← Thử nghiệm mới (không cần xuất phát từ Problem)\n\n──────────────────────────────────────────\n[4 Action Items (Biến Try thành dạng thực thi được)]\n  [ ] Action 1: 〇〇\n     Owner: 〇〇\n     Deadline: 〇/〇 EOD\n     Check kế tiếp: đầu retro 〇/〇\n     Tiêu chí hoàn thành: 〇〇 (đo được)\n  [ ] Action 2: 〇〇\n     Owner: 〇〇\n     Deadline: 〇/〇\n     Check kế tiếp: đầu retro 〇/〇\n     Tiêu chí hoàn thành: 〇〇\n  [ ] Action 3: 〇〇\n     ...\n\n──────────────────────────────────────────\n[5 Review Action items tuần trước (làm đầu retro)]\n  [ ] Action 1 tuần trước → Xong / Đang làm / Chưa khởi → Lý do\n  [ ] Action 2 tuần trước → Xong / Đang làm / Chưa khởi → Lý do\n  [ ] Action 3 tuần trước → Xong / Đang làm / Chưa khởi → Lý do\n\n──────────────────────────────────────────\n[Mục ghi chép]\n  - Có mặt: 〇〇\n  - Vắng mặt: 〇〇 (lý do: 〇〇, catch-up: 〇〇)\n  - Retro tiếp theo: thứ Sáu 〇/〇 16:00\n  - ID đăng ký Decision Register: DR-YYYY-MMDD-〇〇",
+      "notes_ja": "Pre-fill が必須。on-the-spot brainstorm では30分が60分になる。Action items に owner+期限+check日が無ければ実行されない。冒頭で先週 Action review = 改善ループの完結。",
+      "notes_vi": "Pre-fill bắt buộc. Brainstorm tại chỗ thì 30 phút thành 60 phút. Action items thiếu owner + deadline + check date là không thực thi. Đầu retro review Action tuần trước = đóng kín vòng cải thiện."
+    }
+  ]
+}

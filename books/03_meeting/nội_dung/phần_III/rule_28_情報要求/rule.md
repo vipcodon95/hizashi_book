@@ -1,0 +1,74 @@
+# Rule 28 — Xin thêm thông tin / data / データ・情報を求める
+
+> **Luận điểm.** Quyết định chính xác cần data đầy đủ. Khi thiếu → xin thẳng nhưng có **lý do** + **mục đích sử dụng**: 「判断するために、〇〇のデータをいただけますでしょうか？」. Khách Nhật sẽ readily cung cấp khi biết data dùng vào đâu.
+>
+> 「判断するために、〇〇のデータをいただけますでしょうか？」— 用途を添えると相手は応じやすい。
+>
+> **Liên quan:** Rule 20 (5W1H), Rule 21 (clarification), Rule 27 (phản biện có data).
+
+---
+
+## Bối cảnh / 場面
+
+Em Dũng cần ước lượng tải hệ thống mới. Anh Matsumoto nói "lượng truy cập sẽ tăng nhiều" mà không có số. Em Dũng phải xin DAU/MAU + peak hour.
+
+---
+
+## ❌ Hội thoại XẤU — xin chung chung
+
+*không hiểu xin gì*
+
+| Speaker | Câu |
+|---------|-----|
+| **松本** | 「リリース後、アクセス数はかなり増える見込みです。」 |
+| **ズン** | 「データください。」 |
+| **松本** | 「…どのデータでしょうか？」 |
+| **ズン** | 「えーと、何でもいいんですが…」 |
+
+**Vì sao xấu:** "データください" mơ hồ. 「何でもいい」 = không pro. Khách Nhật cần specific request.
+
+---
+
+## ✅ Hội thoại TỐT — specific data + lý do
+
+*tiếp*
+
+| Speaker | Câu |
+|---------|-----|
+| **松本** | 「リリース後、アクセス数はかなり増える見込みです。」 |
+| **ズン** | 「ありがとうございます。サーバーのキャパシティ設計を進めるために【1】、3点のデータをいただけますでしょうか？」 |
+| **ズン** | 「①現状のDAU・MAU、②ピーク時間帯のリクエスト数、③想定成長率の3点でございます【2】。月次データで構いません。」 |
+| **松本** | 「分かりました。来週月曜までに共有します。」 |
+
+📝 **Ghi chú:**
+- 【1】**「〜するために、〇〇をいただけますでしょうか？」** — kèm mục đích sử dụng. Đối phương biết data dùng vào đâu → readily cung cấp.
+- 【2】**「3点のデータ」** + danh sách cụ thể → không cãi nhau "data nào". Đếm số + liệt kê = chuẩn.
+
+---
+
+## 🎯 Câu chốt
+
+> **「〜するために、〇〇のデータをいただけますでしょうか？」**
+>
+> *Mục đích + specific data = nhận được nhanh.*
+
+---
+
+## ⚠ Tránh
+
+- "データください" trống không.
+- Xin nhiều data 1 lúc mà không nói dùng làm gì → khách lo data leak.
+- Không nói deadline cần data → có thể bị chậm.
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| キャパシティ | kyapashitii | Capacity |
+| ピーク時間帯 | ピークじかんたい | Khung giờ peak |
+| DAU/MAU | DAU/MAU | Daily/Monthly Active User |
+| 想定 | そうてい | Giả định |
+| 成長率 | せいちょうりつ | Tỷ lệ tăng trưởng |
+| 月次 | げつじ | Hàng tháng |

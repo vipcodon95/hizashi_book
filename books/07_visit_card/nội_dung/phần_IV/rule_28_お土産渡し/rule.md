@@ -1,0 +1,117 @@
+# Rule 28 — Trao omiyage (quà) / お土産の渡し方
+
+> **Luận điểm.** Trao omiyage chuẩn Nhật = **(1) Lấy ra khỏi túi giấy, (2) xoay mặt chữ về phía khách, (3) đưa 2 tay, (4) câu khiêm nhường「つまらないものですが」, (5) chỉ giải thích "xuất xứ + cách dùng" (KHÔNG nói giá / brand / hiếm), (6) trao theo thứ tự senior**. Đưa cả túi + khoe giá = phá hết tinh thần Nhật.
+>
+> お土産=『袋から出す→文字向き相手→両手→つまらないもの but→産地+用途→上位者順』6点固定。
+>
+> **Liên quan:** rule 24 (đặt dinner), rule 29 (お土産受取), rule 33 (文化衝突).
+
+---
+
+## Bối cảnh / 場面
+
+Cuối bữa dinner Q1 lúc 21:00, sau trà kết thúc course. Dũng trao omiyage cà phê VN cao cấp (đóng gói riêng) + túi giấy cho Ōgaki, Matsumoto, CFO Nakamura, Tanaka PMO. Linh ngồi cạnh quan sát, đã được rehearse trước.
+
+---
+
+## ❌ Hội thoại XẤU — đưa cả túi + thuyết minh quá đà
+
+| Speaker | Câu |
+|---------|-----|
+| **ズン** | 「あ、これお土産です。」（紙袋ごと机に置く） |
+| **ズン** | 「ベトナムの高級ブランドのコーヒーで、5千円もするんですよ。」 |
+| **大垣営業部長** | （少し戸惑い）「あ、はい、ありがとうございます…」 |
+| **リン** | （後で）「ズン先輩、紙袋ごとってダメだったんですよね…？」 |
+
+**Vì sao xấu:** (1) Đưa cả túi giấy = NG. Phải lấy quà ra khỏi túi, đưa 2 tay cho khách. (2) "Brand cao cấp 5 nghìn yên đó" = khoe giá = ngược tinh thần Nhật khiêm nhường. (3) Đặt bừa lên bàn không trao tận tay từng người = thất lễ.
+
+---
+
+## ✅ Hội thoại TỐT — lấy ra khỏi túi, đưa 2 tay + 'tsumaranai mono desu ga'
+
+| Speaker | Câu |
+|---------|-----|
+| **ハーCTO** | 「それでは、ささやかではございますが、ベトナムからお土産をご用意いたしました。ズン、お渡ししてください。」 |
+| **ズン** | 「中村様、つまらないものですが、お受け取りください。」【1】 |
+| **ズン** | （紙袋から出して、文字向きを相手側にし、両手で差し出す）【2】 |
+| **ズン** | 「ベトナムの高地で取れたコーヒーで、皆様で召し上がっていただければ幸いです。」【3】 |
+| **中村CFO** | （起立気味で両手で受け取る）「頂戴いたします。お心遣いありがとうございます。」 |
+| **ズン** | （続いて大垣様 → 松本様 → 田中様の順で同じ手順）【4】 |
+| **リン** | （ズンの隣で観察、メモ）「紙袋から出す → 文字向き → 両手 → 上位者順、ですね。」 |
+
+📝 **Ghi chú:**
+- 【1】**「つまらないものですが」** — câu khiêm nhường cố định. Dù thật sự cao cấp vẫn nói "không đáng gì". Khoe giá / brand / độ hiếm = đại kỵ.
+- 【2】**Túi chỉ để mang** — lúc trao = lấy ra khỏi túi, hướng chữ về phía khách, đưa 2 tay. Túi giấy bỏ đi (kiểu Nhật).
+- 【3】**Giải thích = "xuất xứ + cách dùng"** thôi. Giá tuyệt đối không. "Cả nhà cùng dùng" = signal có thể chia trong cty.
+- 【4】**Thứ tự**: CFO Nakamura → trưởng Ōgaki → PM Matsumoto → PMO Tanaka. Trao từng người, mỗi người đứng / nhổm dậy nhận bằng 2 tay.
+
+---
+
+## 🎯 Câu chốt
+
+> **「つまらないものですが、お受け取りください。皆様で召し上がっていただければ幸いです。」**
+>
+> *Đây là chút quà mọn, mong anh nhận giúp em ạ. Mong cả nhà mình cùng thưởng thức.*
+
+---
+
+## ⚠ Tránh
+
+- Đưa cả túi giấy — NG, phải lấy ra
+- Khoe giá / brand / độ hiếm — phá tinh thần khiêm nhường
+- Đặt bừa lên bàn không trao tận tay — thất lễ
+- Giục khách mở quà tại chỗ — ép khách
+- Túi giấy logo công ty mình to chiếm hết — trông như quảng cáo
+
+---
+
+## 📐 Template — Checklist Omiyage chuẩn bị + trao
+
+```
+【お土産チェックリスト — VN出発前 + 当日渡し】
+
+■ A. Chọn quà (D-3 trước)
+□ Xuất xứ VN (cà phê / trà / bánh / thêu / sơn mài)
+□ Đóng gói riêng từng phần (chia trong cty được)
+□ HSD còn 1 tháng+
+□ Giá: 1,500-3,000 yên/người (đắt quá NG)
+□ Số lượng: 担当者数 + buffer 2
+
+■ B. Đóng gói
+□ Bao ngoài (washi / giấy nền tối)
+□ Túi giấy logo nhẹ (NG: logo to)
+
+■ C. Thời điểm trao
+□ Meeting: sau khi xong, trước rời phòng
+□ Dinner: sau trà cuối course
+□ NG: trao đầu buổi (quà nằm trên bàn cả buổi)
+
+■ D. Cách trao (từng người)
+□ (1) Lấy ra khỏi túi giấy
+□ (2) Xoay mặt chữ về phía khách
+□ (3) Đưa 2 tay
+□ (4) 「つまらないものですが」 / 「ささやかではございますが」
+□ (5) Giải thích: "xuất xứ + cách dùng" (giá NG)
+□ (6) Thứ tự senior (CFO → 部長 → PM → 担当者)
+
+■ E. NG list
+□ ✗ Đưa cả túi
+□ ✗ Khoe giá / brand
+□ ✗ Đặt bừa
+□ ✗ Giục mở quà
+□ ✗ Logo cty mình to
+```
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| お土産 | おみやげ | Quà / omiyage |
+| つまらないもの | つまらないもの | Vật không đáng gì |
+| 紙袋 | かみぶくろ | Túi giấy |
+| 差し出す | さしだす | Đưa ra |
+| 召し上がる | めしあがる | Dùng / ăn (kính ngữ) |
+| お心遣い | おこころづかい | Tấm lòng / sự quan tâm |
+| 高地 | こうち | Vùng cao |

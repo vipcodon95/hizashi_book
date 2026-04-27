@@ -1,0 +1,231 @@
+{
+  "rule_id": "rule_28",
+  "rule_slug": "お土産の渡し方",
+  "title": {
+    "ja": "お土産の渡し方",
+    "vi": "Trao omiyage (quà)"
+  },
+  "rule_context": {
+    "ja": "Q1和食レストラン dinner 終盤21:00、コース最後のお茶後。ズンが大垣・松本・中村CFOにベトナムコーヒー(個別包装)+紙袋でお土産を渡す。リンが事前リハに同席している場面。",
+    "vi": "Cuối bữa nhà hàng Nhật Q1 lúc 21:00, sau trà cuối course. Dũng trao omiyage cà phê VN (đóng gói riêng) + túi giấy cho Ōgaki, Matsumoto, CFO Nakamura. Linh ngồi cạnh học (đã được rehearse trước)."
+  },
+  "related_rules": [
+    "rule_24",
+    "rule_29",
+    "rule_33"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 紙袋ごと渡す + 中身説明 over",
+      "label_vi": "XẤU — đưa cả túi + thuyết minh quá đà",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①紙袋ごと渡す=NG。袋から出して両手で渡す ②『高級ブランドで5千円もする』=値段アピール=日本式精神に反する ③一人ずつ渡さず机にバラ置き=失礼。",
+        "vi": "(1) Đưa cả túi = NG. Phải lấy quà ra khỏi túi, đưa 2 tay. (2) 'Brand cao cấp 5 nghìn yên đó' = khoe giá = ngược tinh thần Nhật. (3) Để bừa lên bàn không trao tận tay = thất lễ."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_28_bad_01",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "あ、これお土産です。（紙袋ごと机に置く）",
+          "sentence_translation": "À, đây là omiyage. (đặt cả túi giấy lên bàn)",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_28_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ベトナムの高級ブランドのコーヒーで、5千円もするんですよ。",
+          "sentence_translation": "Cà phê brand cao cấp Việt Nam, đến 5 nghìn yên đấy ạ.",
+          "tone": "casual",
+          "speed_multiplier": 1.05
+        },
+        {
+          "line_id": "rule_28_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "白鷗 営業部長",
+          "gender": "male",
+          "sentence": "（少し戸惑い）あ、はい、ありがとうございます…",
+          "sentence_translation": "(hơi bối rối) À vâng, cảm ơn anh...",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_28_bad_04",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "（後で）ズン先輩、紙袋ごとってダメだったんですよね…？",
+          "sentence_translation": "(sau đó) Anh Dũng, đưa cả túi là không đúng phải không ạ...?",
+          "tone": "uncertain"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 袋から出して両手 + 『つまらないものですが』",
+      "label_vi": "TỐT — lấy ra khỏi túi, đưa 2 tay + 'tsumaranai mono desu ga'",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_28_good_02",
+          "highlight_text": "つまらないものですが",
+          "ja": "謙遜固定句。実際は高品質でも『つまらない』。値段・brand・希少性 アピールは禁忌。",
+          "vi": "Câu khiêm nhường cố định. Dù thật sự cao cấp vẫn nói 'không đáng gì'. Khoe giá / brand / hiếm = đại kỵ."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_28_good_03",
+          "highlight_text": "紙袋から出して、両手で",
+          "ja": "袋は持ち運び用。渡す瞬間は袋から出し、相手に文字向きで両手提示。袋は処分するのが日本式。",
+          "vi": "Túi chỉ để mang. Lúc trao = lấy ra khỏi túi, hướng chữ về phía khách, đưa 2 tay. Túi giấy bỏ đi (kiểu Nhật)."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_28_good_04",
+          "highlight_text": "ベトナムの高地で取れたコーヒーで、皆様で召し上がっていただければ",
+          "ja": "中身説明は『産地+用途』のみ。値段は絶対言わない。『皆様で=社内share可能』signal。",
+          "vi": "Giải thích = 'xuất xứ + cách dùng' thôi. Giá tuyệt đối không. 'Cả nhà cùng dùng' = signal có thể chia trong cty."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_28_good_06",
+          "highlight_text": "上位者から順番に",
+          "ja": "中村CFO → 大垣部長 → 松本PM → 田中PMOの順。一人ずつ起立礼で受領。",
+          "vi": "CFO Nakamura → trưởng Ōgaki → PM Matsumoto → PMO Tanaka. Trao từng người, mỗi người đứng lên cúi nhận."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_28_good_01",
+          "speaker": "ha_cto",
+          "speaker_role": "CTO",
+          "gender": "male",
+          "sentence": "それでは、ささやかではございますが、ベトナムからお土産をご用意いたしました。ズン、お渡ししてください。",
+          "sentence_translation": "Vậy thì, tuy đơn sơ, bên em đã chuẩn bị chút quà từ Việt Nam. Dũng, em trao đi.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_28_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "中村様、つまらないものですが、お受け取りください。",
+          "sentence_translation": "Anh Nakamura, đây là chút quà mọn, mong anh nhận giúp em ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        },
+        {
+          "line_id": "rule_28_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（紙袋から出して、文字向きを相手側にし、両手で差し出す）",
+          "sentence_translation": "(lấy quà ra khỏi túi giấy, xoay mặt chữ về phía khách, đưa 2 tay)",
+          "tone": "formal",
+          "annotation_ids": [
+            "2"
+          ]
+        },
+        {
+          "line_id": "rule_28_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ベトナムの高地で取れたコーヒーで、皆様で召し上がっていただければ幸いです。",
+          "sentence_translation": "Cà phê trồng ở vùng cao Việt Nam, mong cả nhà mình cùng thưởng thức ạ.",
+          "tone": "formal",
+          "speed_multiplier": 0.95,
+          "annotation_ids": [
+            "3"
+          ]
+        },
+        {
+          "line_id": "rule_28_good_05",
+          "speaker": "nakamura_cfo",
+          "speaker_role": "CFO (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "（起立気味で両手で受け取る）頂戴いたします。お心遣いありがとうございます。",
+          "sentence_translation": "(hơi nhổm dậy nhận bằng 2 tay) Tôi xin nhận. Cảm ơn tấm lòng các anh.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_28_good_06",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "（続いて大垣様 → 松本様 → 田中様の順で同じ手順）",
+          "sentence_translation": "(tiếp tục anh Ōgaki → anh Matsumoto → anh Tanaka theo cùng trình tự)",
+          "tone": "formal",
+          "annotation_ids": [
+            "4"
+          ]
+        },
+        {
+          "line_id": "rule_28_good_07",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "（ズンの隣で観察、メモ）紙袋から出す → 文字向き → 両手 → 上位者順、ですね。",
+          "sentence_translation": "(ngồi cạnh Dũng quan sát, ghi chú) Lấy ra khỏi túi → mặt chữ → 2 tay → trao theo thứ tự senior, ạ.",
+          "tone": "neutral"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_28_kp_01",
+      "speaker": "zun",
+      "sentence": "つまらないものですが、お受け取りください。",
+      "sentence_translation": "Đây là chút quà mọn, mong anh nhận giúp em ạ.",
+      "purpose": "お土産渡し 謙遜固定句",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_28_kp_02",
+      "speaker": "zun",
+      "sentence": "皆様で召し上がっていただければ幸いです。",
+      "sentence_translation": "Mong cả nhà mình cùng thưởng thức ạ.",
+      "purpose": "社内share signal",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_28_bjt_01",
+      "level": "J2",
+      "skill": "表現読解",
+      "question_ja": "お土産を渡す時の正しい作法は？",
+      "options": [
+        "紙袋ごと机に置く",
+        "値段とブランドをアピールする",
+        "袋から出し、文字向きを相手にし、両手で差し出し『つまらないものですが』と添える",
+        "下位者から順番に渡す"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "袋から出す → 文字向き相手 → 両手 → 謙遜固定句 → 上位者順 が4点セット。",
+        "vi": "Lấy ra khỏi túi → hướng chữ về khách → 2 tay → câu khiêm nhường → trao theo thứ tự senior — combo 4 điểm."
+      }
+    }
+  ],
+  "templates": [
+    {
+      "template_id": "rule_28_tpl_01",
+      "format": "checklist",
+      "title_ja": "お土産準備・渡し方チェックリスト",
+      "title_vi": "Checklist Chuẩn Bị + Trao Omiyage",
+      "content_ja": "【お土産チェックリスト — VN出発前 + 当日渡し】\n\n■ A. 選定 (VN出発 D-3 まで)\n□ VN由来の品 (コーヒー / 茶 / 菓子 / 刺繍 / 漆器)\n□ 個包装 (社内 share 可)\n□ 賞味期限 1ヶ月以上\n□ サイズ: 機内持込・帰国便 OK\n□ 値段帯: 1人あたり 1,500-3,000円相当 (高すぎNG)\n□ 銘柄: ___\n□ 数量: 担当者数 + buffer 2 = ___ 個\n\n■ B. 包装\n□ 個包装に外包装 (和紙 or 落ち着いた紙)\n□ 紙袋 (持ち運び用、ロゴ控えめ)\n□ ロゴ大きすぎる紙袋 NG (advertise 印象)\n\n■ C. 当日渡しタイミング\n□ Meeting: 終了後、退室前\n□ Dinner: コース最後のお茶後\n□ 開始時に渡すのは NG (会議中ずっと机に置かれる)\n\n■ D. 渡す手順 (1人ずつ)\n□ ① 紙袋から出す\n□ ② 文字向きを相手側に回転\n□ ③ 両手で差し出す\n□ ④ 『つまらないものですが』 or 『ささやかではございますが』\n□ ⑤ 中身は『産地+用途』のみ説明 (値段NG)\n□ ⑥ 上位者から順番 (CFO → 部長 → PM → 担当者)\n\n■ E. 当日 NG リスト\n□ × 紙袋ごと渡す\n□ × 値段・ブランド・希少性アピール\n□ × 一括で机にバラ置き\n□ × 開封を促す (『開けてください』NG)\n□ × 自分のロゴ大きい袋",
+      "content_vi": "[Checklist Omiyage — chuẩn bị trước VN + trao tại chỗ]\n\n[A] Chọn quà (trước khi rời VN — D-3)\n[ ] Xuất xứ VN (cà phê / trà / bánh / thêu / sơn mài)\n[ ] Đóng gói riêng từng phần (chia trong cty được)\n[ ] HSD còn 1 tháng+\n[ ] Size: mang lên máy bay / về nước OK\n[ ] Giá: tương đương 1,500-3,000 yên/người (đắt quá NG)\n[ ] Brand: ___\n[ ] Số lượng: số 担当者 + buffer 2 = ___ phần\n\n[B] Đóng gói\n[ ] Có gói riêng + bao ngoài (giấy washi / giấy nền tối)\n[ ] Túi giấy (để mang, logo nhẹ)\n[ ] Túi logo to NG (trông như quảng cáo)\n\n[C] Thời điểm trao (ngày G)\n[ ] Meeting: sau khi xong, trước khi rời phòng\n[ ] Dinner: sau trà cuối course\n[ ] Trao ngay đầu = NG (cả buổi quà nằm trên bàn)\n\n[D] Cách trao (từng người)\n[ ] (1) Lấy ra khỏi túi giấy\n[ ] (2) Xoay mặt chữ về phía khách\n[ ] (3) Đưa 2 tay\n[ ] (4) Câu cố định: 'tsumaranai mono desu ga' / 'sasayaka de wa gozaimasu ga'\n[ ] (5) Giải thích chỉ 'xuất xứ + cách dùng' (giá NG)\n[ ] (6) Trao theo thứ tự senior (CFO → trưởng → PM → 担当者)\n\n[E] Danh sách NG\n[ ] x Đưa cả túi giấy\n[ ] x Khoe giá / brand / độ hiếm\n[ ] x Đặt bừa lên bàn\n[ ] x Giục mở quà ('mở ra xem đi' = NG)\n[ ] x Túi giấy logo cty mình to chiếm hết",
+      "notes_ja": "値段アピール・開封促進・一括置きの3つが日本式omiyage最大NG。『つまらないものですが』 + 両手 + 上位者順 が黄金パターン。",
+      "notes_vi": "3 điều tối kỵ: khoe giá, giục mở, đặt bừa. 'Tsumaranai mono desu ga' + 2 tay + thứ tự senior = công thức vàng."
+    }
+  ]
+}

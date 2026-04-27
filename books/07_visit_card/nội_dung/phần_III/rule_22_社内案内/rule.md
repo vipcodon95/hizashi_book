@@ -1,0 +1,93 @@
+# Rule 22 — Đi quanh văn phòng / nhà máy / 工場・社内案内
+
+> **Luận điểm.** Khi được tour văn phòng / nhà máy: **đi sau guide 1-2 bước**, **không tự mở cửa**, **không chụp ảnh chưa được phép**, **không sờ thiết bị / monitor**, **không vào phòng kế bên dù cửa mở**. Hỏi trước khi chụp ("**お写真撮ってもよろしいでしょうか**"). Tour thường có **NDA implicit** — ngay cả không ký giấy. Vi phạm = mất hợp đồng + reputation.
+>
+> 社内案内は『ガイド後ろ1-2歩・勝手にドア開閉禁止・無断撮影禁止・機器/モニター非接触・隣室立入禁止』。撮影は事前許可必須。
+>
+> **Liên quan:** rule 09 (案内 host), rule 21 (入室), rule 23 (退室).
+
+---
+
+## Bối cảnh / 場面
+
+11:30 sáng, sau meeting Phase 3 xong, Tanaka PMO offer "ご希望でしたら、開発部のフロアもご覧ください。Phase 3 development team の environment ご覧頂けます". Dũng + Tuấn đồng ý. Tour gồm: hành lang → dev room (gặp dev team) → phòng demo lab → cửa sổ ngắm Shinjuku.
+
+---
+
+## ❌ Hội thoại XẤU — chụp lén + tự mở cửa
+
+*dẫn vào dev room · rút phone, chụp luôn không hỏi · thoáng cứng người · thấy cửa phòng kế bên đang mở, đi vào · vội theo · đã thấy whiteboard có thông tin client khác*
+
+| Speaker | Câu |
+|---------|-----|
+| **田中PMO** | 「こちらが Phase 3 開発チームです。」 |
+| **トゥアン** | *(cạch — chụp ảnh dev team)* |
+| **田中PMO** | 「あの…撮影は、ちょっと…」 |
+| **ズン** | 「あ、この部屋は何ですか？」 |
+| **田中PMO** | 「そこは、別件のmeeting中で…」 |
+| **ズン** | 「あ、すみません！」 |
+
+**Vì sao xấu:** (1) Chụp ảnh không hỏi = JP coi nghiêm trọng (privacy + IP). (2) Tự ý vào phòng cửa mở = vi phạm not-NDA implicit. (3) Có thể đã thấy info confidential client khác = legal risk. Tour kết thúc đột ngột, Tanaka phải report incident.
+
+---
+
+## ✅ Hội thoại TỐT — theo guide + xin phép
+
+*dẫn ra hành lang · đi sau Tanaka 1-2 bước, mắt quan sát nhưng KHÔNG sờ gì · mở cửa dev room · trước khi rút phone · chụp ảnh group, không zoom mặt · đi qua phòng cửa mở · theo Tanaka, KHÔNG nhìn vào, KHÔNG bước gần · đến cửa sổ · quan sát cảnh, KHÔNG chụp khi chưa hỏi*
+
+| Speaker | Câu |
+|---------|-----|
+| **田中PMO** | 「こちらが Phase 3 開発チームのフロアです。」 |
+| **ズン + トゥアン**【1】 | *(im lặng theo)* |
+| **田中PMO** | 「Phase 3 dev team のリーダーをご紹介します。」 |
+| **ズン** | 「**お写真を撮ってもよろしいでしょうか**【2】？team合影として記念に。」 |
+| **田中PMO** | 「team の許可も取りますね。…許可出ました。dev team 全体のみ、個人特定不可の構図でお願いします。」 |
+| **ズン** | 「ありがとうございます。」 |
+| **田中PMO** | 「こちらは別件のmeeting中で、通り過ぎましょう。」 |
+| **ズン + トゥアン**【3】 | *(im lặng đi qua)* |
+| **田中PMO** | 「こちらから新宿の街並みがご覧いただけます。」 |
+| **ズン** | 「**こちらの景色は撮影してもよろしいでしょうか**【4】？建物の確認を含む可能性があれば撮影しません。」 |
+| **田中PMO** | 「景色だけでしたら問題ございません。」 |
+
+📝 **Ghi chú:**
+- 【1】**Đi sau 1-2 bước** — KHÔNG đi ngang Tanaka. KHÔNG đi trước. Mắt quan sát nhưng tay không sờ thiết bị / monitor / whiteboard.
+- 【2】**「お写真を撮ってもよろしいでしょうか」** — câu cố định xin phép chụp. Nói rõ purpose ("team合影"). Chờ explicit OK.
+- 【3】**Phòng cửa mở** — KHÔNG nhìn vào dù tò mò. Đi qua nhanh. Tanaka có thể nói "通りすぎいたしましょう" (chúng ta đi qua thôi) = nhận hint không vào.
+- 【4】**Cảnh ngoài cửa sổ** — vẫn xin phép vì có thể chụp được tòa nhà khác (cty competitor) → "建物の確認を含む可能性があれば撮影しません" = self-aware proactive.
+
+---
+
+## 🎯 Câu chốt
+
+> **「社内案内は『ガイド後ろ1-2歩・無断撮影禁止・勝手にドア禁止・隣室立入禁止・写真は事前許可"よろしいでしょうか"』。」**
+>
+> *Tour văn phòng = đi sau guide / cấm chụp lén / không tự mở cửa / không vào phòng kế / xin phép chụp với "よろしいでしょうか".*
+
+---
+
+## ⚠ Tránh
+
+- **Chụp lén** dù chỉ "team selfie" → luôn xin phép trước
+- Tự **mở cửa** phòng kế → đợi guide chỉ
+- Vào **phòng cửa mở** vì tò mò → đi qua, KHÔNG nhìn vào
+- **Sờ monitor / whiteboard / thiết bị** → mắt nhìn, tay đặt sau lưng
+- Đi **trước hoặc ngang** guide → 1-2 bước phía sau
+- Hỏi "**この案件のクライアントは誰?**" về thông tin trên whiteboard → KHÔNG bao giờ
+- **Quên cảm ơn** sau tour → "貴重なご案内ありがとうございました" cuối tour
+
+---
+
+## 📚 Vocab
+
+| 漢字 / Tiếng Nhật | よみ | Nghĩa |
+|------|------|-------|
+| 工場 | こうじょう | Nhà máy |
+| 社内 | しゃない | Trong cty |
+| 案内 | あんない | Dẫn / tour |
+| 撮影 | さつえい | Chụp ảnh |
+| 許可 | きょか | Cho phép |
+| 機器 | きき | Thiết bị |
+| 隣室 | りんしつ | Phòng kế bên |
+| 立入禁止 | たちいりきんし | Cấm vào |
+| 通りすぎる | とおりすぎる | Đi qua |
+| 構図 | こうず | Bố cục (ảnh) |

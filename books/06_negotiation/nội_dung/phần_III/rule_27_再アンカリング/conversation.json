@@ -1,0 +1,177 @@
+{
+  "rule_id": "rule_27",
+  "rule_slug": "再アンカリング",
+  "title": {
+    "ja": "再アンカリング",
+    "vi": "Re-anchor sau pushback"
+  },
+  "rule_context": {
+    "ja": "持ち帰り検討後、大垣 が ¥16M を要求。Dũng は値引きせず value 再強調 + 新事実 (AI精度+18%) で再anchor する場面。",
+    "vi": "Sau khi mang về xem xét, Ōgaki ép ¥16M. Dũng KHÔNG giảm — nhắc lại value + thêm fact mới (AI +18%) để re-anchor."
+  },
+  "related_rules": ["rule_18", "rule_20", "rule_23"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — 再anchor せず即値引き",
+      "label_vi": "XẤU — Không re-anchor, giảm ngay",
+      "display_order": 1,
+      "analysis": {
+        "ja": "前日の anchor ¥18M を捨て即 ¥16M に下がる。leverage を round ごとに失う。",
+        "vi": "Vứt anchor ¥18M hôm trước, xuống ngay ¥16M. Mất leverage mỗi round."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_27_bad_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "持ち帰り検討の結果、¥16M でないと社内通せません。",
+          "sentence_translation": "Mang về xem xét xong, không phải ¥16M là không qua nội bộ.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_27_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "分かりました、¥16M で scope -10% で。",
+          "sentence_translation": "Em rõ ạ, ¥16M kèm scope -10% ạ.",
+          "tone": "uncertain"
+        },
+        {
+          "line_id": "rule_27_bad_03",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "ありがとうございます。",
+          "sentence_translation": "Cảm ơn anh.",
+          "tone": "warm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — value再強調+新事実+2 option",
+      "label_vi": "TỐT — Nhắc value + fact mới + 2 option",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_27_good_02",
+          "highlight_text": "改めて整理させていただきますと",
+          "ja": "「これから value を再強調する」のシグナル。相手にじっくり聞く準備をさせる。",
+          "vi": "Signal 'sắp restate value'. Cho khách chuẩn bị tâm thế nghe kỹ."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_27_good_03",
+          "highlight_text": "追加情報として",
+          "ja": "再anchor は単なる繰り返しではない。新事実 (AI精度+18%) を加える。",
+          "vi": "Re-anchor KHÔNG phải lặp lại. Phải thêm fact mới (AI +18%)."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_27_good_03",
+          "highlight_text": "Phase 2 比 +18% (vs. 当初提案 +12%) に拡張可能",
+          "ja": "上方修正の数値は具体的・社内検証済みであること。bluff は CFO に見抜かれる。",
+          "vi": "Số điều chỉnh tăng phải cụ thể + đã verify nội bộ. Bluff là CFO phát hiện."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_27_good_04",
+          "highlight_text": "御社の社内ハードルにも合わせる形として",
+          "ja": "再anchor は flexibility と一緒に。固守は walk-away を呼ぶ。2 option で choice 提供。",
+          "vi": "Re-anchor đi kèm flexibility. Khăng khăng là khiến khách walk. Đưa 2 option để khách chọn."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_27_good_01",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "持ち帰り検討の結果、¥16M でないと社内通せません。",
+          "sentence_translation": "Mang về xem xét xong, không phải ¥16M là không qua nội bộ.",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_27_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "ご検討ありがとうございます。改めて整理させていただきますと、¥18M はROI 4.4 倍、Payback 2.3 ヶ月、3 年 NPV ¥234M という構造で、御社の +¥80M GMV 目標達成に最も合致する設計でございます。",
+          "sentence_translation": "Em cảm ơn quý anh đã xem xét ạ. Xin phép em sắp xếp lại — ¥18M có cấu trúc ROI 4.4 lần, Payback 2.3 tháng, NPV 3 năm ¥234M, là thiết kế khớp nhất với mục tiêu +¥80M GMV của quý cty ạ.",
+          "tone": "formal",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_27_good_03",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "追加情報として、Phase 2 同等の SLA 99.9% を維持しつつ、AI レコメンドエンジンの精度を Phase 2 比 +18% (vs. 当初提案 +12%) に拡張可能との社内検証結果が出ました。これにより transaction 単価期待値は +14% に上方修正、Annual return も +¥15M/年改善見込みです。",
+          "sentence_translation": "Thông tin thêm: giữ SLA 99.9% tương đương Phase 2, độ chính xác AI recommend engine có thể mở rộng lên +18% so Phase 2 (so với đề xuất ban đầu +12%) — đã có kết quả kiểm chứng nội bộ. Theo đó kỳ vọng unit price transaction điều chỉnh tăng lên +14%, Annual return cải thiện +¥15M/năm ạ.",
+          "tone": "formal",
+          "annotation_ids": ["2", "3"]
+        },
+        {
+          "line_id": "rule_27_good_04",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "この value を踏まえつつ、御社の社内ハードルにも合わせる形として — ¥17M で scope 維持 + 2 年契約を再提案。¥16M は scope -15% (AI dashboard 2nd phase 後出し) となります。御社のご判断としていかがでしょうか？",
+          "sentence_translation": "Trên nền value đó, đồng thời khớp rào nội bộ quý cty — em tái đề xuất ¥17M giữ scope + hợp đồng 2 năm. ¥16M là scope -15% (đẩy AI dashboard sang 2nd phase). Quý anh thấy thế nào ạ?",
+          "tone": "formal",
+          "annotation_ids": ["4"]
+        },
+        {
+          "line_id": "rule_27_good_05",
+          "speaker": "oogaki_sales",
+          "speaker_role": "営業部長",
+          "gender": "male",
+          "sentence": "+18% 精度の話、稟議書に追加できます。¥17M + 2 年なら社内再協議します。",
+          "sentence_translation": "Vụ +18% độ chính xác có thể thêm vào ringi-sho. ¥17M + 2 năm thì tôi đem ra thảo luận lại nội bộ.",
+          "tone": "neutral"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_27_kp_01",
+      "speaker": "zun",
+      "sentence": "改めて整理させていただきますと、〜は〜の構造で〜を実現する設計です。",
+      "sentence_translation": "Xin phép em sắp xếp lại, ~ có cấu trúc ~ thực hiện ~ ạ.",
+      "purpose": "再anchor 開始",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_27_kp_02",
+      "speaker": "zun",
+      "sentence": "追加情報として、〜の社内検証結果が出ました。",
+      "sentence_translation": "Thông tin thêm, đã có kết quả kiểm chứng nội bộ ~ ạ.",
+      "purpose": "新事実追加",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_27_bjt_01",
+      "level": "J1",
+      "skill": "表現読解",
+      "question_ja": "前日の anchor ¥18M に対し相手が ¥16M を要求。最適 response は？",
+      "options": [
+        "即 ¥16M を受け入れる",
+        "value再強調 + 新事実 + 2 option (¥17M + 2年 / ¥16M scope-15%) を再anchor",
+        "「¥18M でなければ撤退」と硬直",
+        "「上司に聞きます」と保留"
+      ],
+      "correct": "B",
+      "explanation": {
+        "ja": "再anchor は value再強調・新事実・flexibility (2 option) のセット。即値引きは leak、硬直は walk-away を呼ぶ。",
+        "vi": "Re-anchor là combo: nhắc value + fact mới + flexibility (2 option). Giảm ngay là leak, cứng là khiến khách walk."
+      }
+    }
+  ]
+}

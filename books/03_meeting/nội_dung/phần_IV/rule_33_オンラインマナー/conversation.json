@@ -1,0 +1,152 @@
+{
+  "rule_id": "rule_33",
+  "rule_slug": "オンライン会議マナー",
+  "title": {
+    "ja": "オンライン会議のマナー（mute/unmute）",
+    "vi": "Online meeting mute/unmute etiquette"
+  },
+  "rule_context": {
+    "ja": "Zoom月例会議で新人リンが4原則（既定ミュート・発言時カメラオン・挙手機能・名乗り）を守るべき場面。守らない例と守る例を比較。",
+    "vi": "Họp Zoom định kỳ. Em Linh mới vào, cần học 4 quy tắc: mute mặc định, camera on khi nói, dùng raise-hand, tự giới thiệu tên trước khi phát biểu."
+  },
+  "related_rules": [
+    "rule_04",
+    "rule_19",
+    "rule_36"
+  ],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — ミュート無し+カメラオフ+割り込み",
+      "label_vi": "XẤU — Không mute + camera off + cắt lời",
+      "display_order": 1,
+      "analysis": {
+        "ja": "タイピング音が会議全体に響き、カメラオフで発言者が誰か分からず、割り込みも遅延で混乱を生む。",
+        "vi": "Tiếng gõ phím phát cho cả họp, camera off → không biết ai nói, cắt lời + lag online → loạn."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_33_bad_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "では、進捗報告から始めます。まずズンさんお願いします。",
+          "sentence_translation": "Vậy mình bắt đầu từ phần báo cáo tiến độ. Đầu tiên phiền Dũng nhé.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_33_bad_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "4月の進捗ですが…",
+          "sentence_translation": "Về tiến độ tháng 4...",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_33_bad_03",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "ズンさん、その数字って合ってます？",
+          "sentence_translation": "Anh Dũng, số đó đúng không ạ?",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_33_bad_04",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "…どなたでしょうか？",
+          "sentence_translation": "...Ai vậy nhỉ?",
+          "tone": "firm"
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 4原則を守る",
+      "label_vi": "TỐT — Tuân thủ 4 quy tắc",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_33_good_05",
+          "highlight_text": "リンでございます",
+          "ja": "オンラインでは声だけだと識別しにくい。発言冒頭に名乗ることで議事録作成と相互理解が容易になる。",
+          "vi": "Online chỉ nghe giọng khó identify. Tự xưng tên đầu câu giúp ghi biên bản + hiểu ai nói."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_33_good_01",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "では、進捗報告から始めます。まずズンさんお願いします。",
+          "sentence_translation": "Vậy mình bắt đầu từ phần báo cáo tiến độ. Đầu tiên phiền Dũng nhé.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_33_good_02",
+          "speaker": "zun",
+          "speaker_role": "BD担当",
+          "gender": "male",
+          "sentence": "4月の進捗ですが…",
+          "sentence_translation": "Về tiến độ tháng 4...",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_33_good_03",
+          "speaker": "matsumoto",
+          "speaker_role": "PM (白鷗株式会社)",
+          "gender": "male",
+          "sentence": "リンさん、何か質問でしょうか？",
+          "sentence_translation": "Linh có câu hỏi gì à?",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_33_good_04",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "失礼します。リンでございます。先ほどの数字について、確認させていただきたい点がございます。",
+          "sentence_translation": "Em xin phép ạ. Em là Linh ạ. Em có 1 điểm muốn xin xác nhận về số liệu vừa rồi ạ.",
+          "tone": "formal",
+          "annotation_ids": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_33_kp_01",
+      "speaker": "linh",
+      "sentence": "失礼します。〇〇でございます。〜について確認させていただきたい点がございます。",
+      "sentence_translation": "Em xin phép ạ. Em là 〇〇 ạ. Em có 1 điểm muốn xin xác nhận về 〜 ạ.",
+      "purpose": "オンライン会議で挙手後の発言開始フレーズ",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_33_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "オンライン会議で発言する際の最も適切なマナーはどれか？",
+      "options": [
+        "ミュートを解除し、カメラはオフのまま即座に話す",
+        "ミュートのまま割り込んで話す",
+        "挙手機能で発言を求め、許可後にカメラオン+ミュート解除+名乗りで発言開始",
+        "チャットで全部済ませる"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "オンライン会議の4原則（既定ミュート・発言時カメラオン・挙手機能・名乗り）を全て守る選択肢はC。",
+        "vi": "C tuân thủ cả 4 quy tắc: mute mặc định, camera on khi nói, dùng raise-hand, tự xưng tên."
+      }
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "rule_id": "rule_32",
+  "rule_slug": "お辞儀の角度",
+  "title": {
+    "ja": "お辞儀の角度",
+    "vi": "Bow angle theo cấp bậc"
+  },
+  "rule_context": {
+    "ja": "東京 onsite 出発前日、フオン副部長がリンに 4種類のお辞儀(15°会釈・30°敬礼・45°最敬礼・90°謝罪)を実演で教える場面。リンは初onsite参加で混在 situation で迷わないように習得。",
+    "vi": "Tối trước khi đi onsite Tokyo, chị Hương phó phòng demo 4 loại bow (15° eshaku xã giao, 30° keirei chính thức, 45° saikeirei kính cẩn, 90° xin lỗi nặng) cho Linh. Linh lần đầu đi onsite, học để khỏi lúng túng giữa các tình huống."
+  },
+  "related_rules": ["rule_21", "rule_23", "rule_26"],
+  "conversations": [
+    {
+      "section": "bad_example",
+      "label_ja": "悪い例 — すべて15°で済ませる",
+      "label_vi": "XẤU — bow nào cũng 15°",
+      "display_order": 1,
+      "analysis": {
+        "ja": "①CFOへの挨拶15°=軽すぎ失礼 ②謝罪も15°=反省感ゼロ ③mixed scene角度identicalで温度も serious度も伝わらない。",
+        "vi": "(1) Chào CFO bằng 15° = quá nhẹ, thất lễ. (2) Xin lỗi cũng 15° = không có vẻ ăn năn. (3) Bow giống nhau cho mọi tình huống = không truyền được nhiệt và mức nghiêm túc."
+      },
+      "conversation_lines": [
+        {
+          "line_id": "rule_32_bad_01",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "（中村CFOへ会釈程度）よろしくお願いします。",
+          "sentence_translation": "(cúi nhẹ kiểu xã giao với CFO Nakamura) Mong anh giúp đỡ ạ.",
+          "tone": "casual"
+        },
+        {
+          "line_id": "rule_32_bad_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "リン、CFO相手に15°は軽すぎ。初対面+CFOは45°最敬礼。",
+          "sentence_translation": "Linh, gặp CFO mà 15° là quá nhẹ. Lần đầu + đối tượng CFO = phải 45° saikeirei (cúi sâu kính cẩn).",
+          "tone": "firm"
+        },
+        {
+          "line_id": "rule_32_bad_03",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "（謝罪 simulation も15°）すみません！",
+          "sentence_translation": "(simulation xin lỗi cũng 15°) Em xin lỗi!",
+          "tone": "apologetic"
+        },
+        {
+          "line_id": "rule_32_bad_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "謝罪も15°じゃダメ。重大ミスは90°、軽いミスは30°。角度=反省深さの signal。",
+          "sentence_translation": "Xin lỗi mà 15° cũng không được. Sai nặng = 90°, sai nhẹ = 30°. Góc cúi = signal độ ăn năn.",
+          "tone": "firm",
+          "speed_multiplier": 0.95
+        }
+      ]
+    },
+    {
+      "section": "good_example",
+      "label_ja": "良い例 — 4角度を場面別に使い分け",
+      "label_vi": "TỐT — dùng 4 góc đúng tình huống",
+      "display_order": 2,
+      "annotations": [
+        {
+          "id": "1",
+          "applies_to_line": "rule_32_good_02",
+          "highlight_text": "15° 会釈 (eshaku)",
+          "ja": "廊下ですれ違い・社内で軽い挨拶・同僚への朝挨拶。1秒で起こす。",
+          "vi": "Đi qua nhau ở hành lang, chào nhẹ trong cty, chào sáng đồng nghiệp. Cúi 1 giây rồi ngẩng."
+        },
+        {
+          "id": "2",
+          "applies_to_line": "rule_32_good_04",
+          "highlight_text": "30° 敬礼 (keirei)",
+          "ja": "客先入退室・打合せ開始/終了・初対面同等職位。標準ビジネスお辞儀。2-3秒。",
+          "vi": "Vào/ra phòng họp khách, mở/đóng buổi họp, gặp lần đầu cùng cấp. Bow chuẩn business. 2-3 giây."
+        },
+        {
+          "id": "3",
+          "applies_to_line": "rule_32_good_06",
+          "highlight_text": "45° 最敬礼 (saikeirei)",
+          "ja": "CFO・社長・大客様への初対面・重要場面の感謝。3-4秒、深く静かに。",
+          "vi": "Lần đầu gặp CFO / GĐ / khách lớn, cảm ơn trong tình huống quan trọng. 3-4 giây, sâu và lặng."
+        },
+        {
+          "id": "4",
+          "applies_to_line": "rule_32_good_08",
+          "highlight_text": "90° 謝罪",
+          "ja": "重大trouble・契約違反級の謝罪。3秒以上維持。日本式『土下座』の手前最深お辞儀。",
+          "vi": "Xin lỗi sai nặng / vi phạm hợp đồng. Giữ 3+ giây. Mức bow sâu nhất trước khi xuống 'dogeza' (quỳ xin lỗi)."
+        }
+      ],
+      "conversation_lines": [
+        {
+          "line_id": "rule_32_good_01",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "リン、お辞儀は4種類。場面で使い分ける。実演するから真似してね。",
+          "sentence_translation": "Linh, bow có 4 loại. Tùy tình huống mà dùng. Chị làm mẫu, em theo nhé.",
+          "tone": "warm"
+        },
+        {
+          "line_id": "rule_32_good_02",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "（15°、約1秒）これが会釈。廊下ですれ違い・朝の挨拶。",
+          "sentence_translation": "(15°, khoảng 1 giây) Đây là eshaku. Đi qua hành lang, chào sáng.",
+          "tone": "neutral",
+          "annotation_ids": ["1"]
+        },
+        {
+          "line_id": "rule_32_good_03",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "（15°真似）はい、おはようございます。",
+          "sentence_translation": "(bắt chước 15°) Vâng, chào buổi sáng.",
+          "tone": "neutral"
+        },
+        {
+          "line_id": "rule_32_good_04",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "（30°、約2-3秒）これが敬礼。打合せ入退室・初対面同等職位。",
+          "sentence_translation": "(30°, khoảng 2-3 giây) Đây là keirei. Vào/ra phòng họp, gặp lần đầu cùng cấp.",
+          "tone": "formal",
+          "annotation_ids": ["2"]
+        },
+        {
+          "line_id": "rule_32_good_05",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "（30°真似、ゆっくり戻す）よろしくお願いいたします。",
+          "sentence_translation": "(bắt chước 30°, ngẩng từ từ) Mong anh chị giúp đỡ ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_32_good_06",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "（45°、約3-4秒）これが最敬礼。CFO・社長・初対面の重要顧客に。",
+          "sentence_translation": "(45°, khoảng 3-4 giây) Đây là saikeirei. Dùng với CFO, GĐ, khách quan trọng lần đầu gặp.",
+          "tone": "formal",
+          "annotation_ids": ["3"]
+        },
+        {
+          "line_id": "rule_32_good_07",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "（45°真似、深く静かに）初めまして、リンと申します。",
+          "sentence_translation": "(bắt chước 45°, sâu và lặng) Em là Linh, lần đầu gặp anh ạ.",
+          "tone": "formal"
+        },
+        {
+          "line_id": "rule_32_good_08",
+          "speaker": "fuon",
+          "speaker_role": "副部長",
+          "gender": "female",
+          "sentence": "（90°、3秒以上）これが謝罪お辞儀。重大ミス時のみ。普段の場面では絶対しない。",
+          "sentence_translation": "(90°, 3+ giây) Đây là bow xin lỗi. Chỉ dùng khi sai nặng. Tình huống bình thường tuyệt đối không bow vậy.",
+          "tone": "firm",
+          "speed_multiplier": 0.92,
+          "annotation_ids": ["4"]
+        },
+        {
+          "line_id": "rule_32_good_09",
+          "speaker": "linh",
+          "speaker_role": "アシスタント",
+          "gender": "female",
+          "sentence": "わかりました。明日CFOへの初対面は45°、お部屋の出入りは30°、廊下挨拶は15°ですね。",
+          "sentence_translation": "Em hiểu rồi. Mai gặp CFO lần đầu = 45°, vào/ra phòng = 30°, chào hành lang = 15° ạ.",
+          "tone": "formal"
+        }
+      ]
+    }
+  ],
+  "key_phrases": [
+    {
+      "phrase_id": "rule_32_kp_01",
+      "speaker": "fuon",
+      "sentence": "お辞儀は会釈15°・敬礼30°・最敬礼45°・謝罪90°の4種類。",
+      "sentence_translation": "Bow có 4 loại: eshaku 15°, keirei 30°, saikeirei 45°, xin lỗi 90°.",
+      "purpose": "4角度の summary",
+      "slow_audio": true
+    },
+    {
+      "phrase_id": "rule_32_kp_02",
+      "speaker": "fuon",
+      "sentence": "角度=温度+敬意+反省深さの signal。",
+      "sentence_translation": "Góc cúi = signal nhiệt + kính trọng + độ ăn năn.",
+      "purpose": "角度の意味",
+      "slow_audio": true
+    }
+  ],
+  "bjt_practice": [
+    {
+      "question_id": "rule_32_bjt_01",
+      "level": "J3",
+      "skill": "場面把握",
+      "question_ja": "客先CFOへの初対面お辞儀の正しい角度は？",
+      "options": [
+        "15° 会釈",
+        "30° 敬礼",
+        "45° 最敬礼",
+        "90° 謝罪お辞儀"
+      ],
+      "correct": "C",
+      "explanation": {
+        "ja": "CFOクラスの初対面は45°最敬礼。30°だと軽すぎ、90°は謝罪専用。",
+        "vi": "Lần đầu gặp CFO = 45° saikeirei. 30° hơi nhẹ, 90° chỉ dùng xin lỗi."
+      }
+    }
+  ]
+}
