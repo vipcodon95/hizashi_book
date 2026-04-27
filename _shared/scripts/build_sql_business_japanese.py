@@ -27,7 +27,7 @@ ID schema:
 
 Dùng ON CONFLICT (id) DO UPDATE để re-runnable.
 
-Đọc nguồn từ books/business_japanese/_normalized/ (đã chuẩn hoá schema A).
+Đọc nguồn từ books/10_business_japanese/_normalized/ (đã chuẩn hoá schema A).
 KHÔNG inline furigana / bunsetsu — chạy script khác sau.
 """
 
@@ -39,8 +39,8 @@ from dataclasses import dataclass
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent.parent
-NORMALIZED_DIR = ROOT / "books" / "business_japanese" / "_normalized"
-MD_SOURCE_DIR = ROOT / "books" / "business_japanese"
+NORMALIZED_DIR = ROOT / "books" / "10_business_japanese" / "_normalized"
+MD_SOURCE_DIR = ROOT / "books" / "10_business_japanese"
 SQL_OUT_DIR = ROOT / "release" / "business_japanese_sql"
 
 COURSE_ID = 8010

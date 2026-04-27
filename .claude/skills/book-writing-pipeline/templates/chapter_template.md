@@ -83,4 +83,4 @@
 
 ## Ví dụ thực tế tham khảo
 
-Xem `books/business_japanese/2.1.0_keigo_phan_loai/2.1.0_Phan_loai_Kinh_ngu.md` (đã clean box-drawing).
+Xem `books/10_business_japanese/2.1.0_keigo_phan_loai/2.1.0_Phan_loai_Kinh_ngu.md` (đã clean box-drawing).

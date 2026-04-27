@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Chuẩn hoá toàn bộ file JSON trong books/business_japanese/ về Schema A duy nhất.
+Chuẩn hoá toàn bộ file JSON trong books/10_business_japanese/ về Schema A duy nhất.
 
 Schema A (chuẩn — dùng cho mọi file BaiTap + Mogishiken):
 
@@ -49,7 +49,7 @@ Mapping từ Schema B (Group 2 — JuzuDoushi/UchiSoto/Ukemi/TongHopSoSanh):
   category_vn          → giữ; category gốc bỏ qua nếu trùng nghĩa
   level (1-4 không có level_name) → tự suy ra level_name từ map
 
-KHÔNG đụng file gốc — ghi sang books/business_japanese/_normalized/.
+KHÔNG đụng file gốc — ghi sang books/10_business_japanese/_normalized/.
 """
 
 from __future__ import annotations
@@ -59,7 +59,7 @@ import shutil
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent.parent
-SOURCE_DIR = ROOT / "books" / "business_japanese"
+SOURCE_DIR = ROOT / "books" / "10_business_japanese"
 OUT_DIR = SOURCE_DIR / "_normalized"
 
 # Suy ra level_name khi schema B không có.

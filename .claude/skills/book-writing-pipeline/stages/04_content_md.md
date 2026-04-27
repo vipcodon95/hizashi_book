@@ -21,7 +21,7 @@ template = read(".claude/skills/book-writing-pipeline/templates/chapter_template
 
 Output path: `books/<book>/<module.folder>/<module.folder_decimal>_<Name>_LyThuyet.md`
 
-Vd: `books/business_japanese/2.1.0_keigo_phan_loai/2.1.0_Phan_loai_Kinh_ngu.md`
+Vd: `books/10_business_japanese/2.1.0_keigo_phan_loai/2.1.0_Phan_loai_Kinh_ngu.md`
 
 Mỗi file phải:
 
@@ -141,5 +141,5 @@ Tổng <Y> từ. Chạy /book-next <book> để sang Stage 5 (Bài tập JSON).
 
 ## Tham khảo
 
-- Sách mẫu hoàn chỉnh: `books/business_japanese/2.1.0_keigo_phan_loai/2.1.0_Phan_loai_Kinh_ngu.md`
+- Sách mẫu hoàn chỉnh: `books/10_business_japanese/2.1.0_keigo_phan_loai/2.1.0_Phan_loai_Kinh_ngu.md`
 - Template: `templates/chapter_template.md`

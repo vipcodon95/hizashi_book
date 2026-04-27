@@ -10,7 +10,7 @@ Theo pattern course "hizashi_reading_n4" (course id=3001):
                             media_id='80160NN', in_table='curriculum_node',
                             context={'label': 'Lý thuyết', 'node_type': 'markdown_book'})
 
-Nguồn: books/business_japanese/<module_dir>/*.md (file gốc, đọc trực tiếp).
+Nguồn: books/10_business_japanese/<module_dir>/*.md (file gốc, đọc trực tiếp).
 node_content lưu nguyên markdown (đã chuẩn hoá heading qua normalize_text).
 
 Output: release/business_japanese_sql/business_japanese_theory.sql
@@ -25,7 +25,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent.parent
-SOURCE_DIR = ROOT / "books" / "business_japanese"
+SOURCE_DIR = ROOT / "books" / "10_business_japanese"
 SQL_OUT_DIR = ROOT / "release" / "business_japanese_sql"
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))

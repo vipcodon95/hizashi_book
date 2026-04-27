@@ -357,26 +357,88 @@ Nguồn schema: `HizashiWeb/backend/app/models/learning/models.py` + `study/mode
 |--------|--------|
 | `1xxxxx`-`7xxxxx` | User data — KHÔNG đụng |
 | `8001-8009` | Reserved |
-| `8010` | **business_japanese** ✓ |
-| `8020` | (next) |
-| `8030` | (next) |
+| `8010` | **10_business_japanese** ✓ (LEGACY — đã production) |
+| `8011-8099` | Sách mới — dùng FORMAT MỚI (xem dưới) |
 | `9xxxxxxx` | JLPT exams — KHÔNG đụng |
 
-### Schema ID per book (vd prefix `8010`)
+### Quy tắc thăng tiến
+
+**Course ID = `8` + STT folder (2 chữ số)** = 4 chữ số.
+
+→ Mỗi sách mới: STT folder tăng +1, course_id tự match.
+
+| Folder | course_id | Format | Note |
+|--------|-----------|--------|------|
+| `10_business_japanese` | 8010 | **LEGACY** | đã production — KHÔNG đổi |
+| `11_<next>` | 8011 | **NEW** | reserved |
+| `12_<next>` | 8012 | **NEW** | reserved |
+
+---
+
+### LEGACY format (chỉ áp dụng cho `10_business_japanese`)
+
+Đã seed production, KHÔNG migrate. Format:
 
 ```
 study_courses.id              = 8010
-study_modules.id              = 8011..8015 (consecutive)
+study_modules.id              = 8011..8015           (4-digit — collision risk)
 reading_passages.id           = 8010 + topic*100 + section          (7-digit)
                                 vd 8010101 = topic 1 section 1
 questions.id                  = 8 + topic + kind + seq:04d          (8-digit)
-                                kind: 1=BaiTap, 2=Mogishiken, 3=LuyenTap
                                 vd 81110001 = topic 1 BaiTap câu 1
 study_question_sets.id        = 8010 + 0 + topic + kind + level     (8-digit)
-                                level: 1..4 BaiTap, 0 Mogishiken gộp
                                 vd 80100111 = topic 1 BaiTap level 1
+```
+
+---
+
+### NEW format (áp dụng cho mọi sách từ `11_<book>` trở đi)
+
+Tránh collision với LEGACY: tất cả ID con của course mới có thêm digit để tách biệt.
+
+```
+study_courses.id              = 8<NN>                            (4 digits)
+                                vd folder 11_<book> → 8011
+                                vd folder 25_<book> → 8025
+
+study_modules.id              = 8<NN><pos:3d>                    (7 digits)
+                                vd 8011001 = course 8011 module 1
+                                vd 8011005 = course 8011 module 5
+                                → KHÔNG đụng 8011 (course of 11)
+                                → KHÔNG đụng 8012 (course of 12)
+
+reading_passages.id           = 8<NN>0<topic:1d><section:2d>     (8 digits)
+                                vd 80110101 = course 8011, topic 1, section 1
+                                vd 80110205 = course 8011, topic 2, section 5
+
+questions.id                  = 8<NN><topic:1d><kind:1d><seq:03d>  (8 digits)
+                                kind: 1=BaiTap, 2=Mogishiken, 3=LuyenTap
+                                vd 80111001 = course 8011, topic 1, BaiTap, câu 001
+                                Mỗi (course, topic, kind) tối đa 999 câu.
+
+study_question_sets.id        = 8<NN>0<topic:1d><kind:1d><level:1d>  (9 digits)
+                                vd 801101110 = course 8011, topic 1, BaiTap, level 1
+                                Format: 8<NN>0<topic><kind><level>
+
 junction tables               = AUTO-INCREMENT
 ```
+
+### Verify không collision
+
+| ID | LEGACY (8010) | NEW (8011) | NEW (8012) |
+|----|--------------|------------|------------|
+| `8010` | course | — | — |
+| `8011` | module 1 của 8010 | course | — |
+| `8012` | module 2 của 8010 | — | course |
+| `8011001` | — | module 1 của 8011 | — |
+| `8011005` | — | module 5 của 8011 | — |
+| `80100111` | set của 8010 | — | — |
+| `801101110` | — | set của 8011 | — |
+
+→ NEW format có **9 digits cho sets** (vs LEGACY 8 digits) → KHÔNG đụng nhau.
+→ Module NEW 7 digits (vs LEGACY 4 digits) → KHÔNG đụng.
+
+⚠️ **Khi tạo build script cho sách mới**: copy template `_shared/scripts/build_sql_business_japanese.py`, **đổi formula ID** sang NEW format trên (sửa các function `question_id()`, `passage_id()`, `question_set_id()`).
 
 ### JSON dùng symbolic ID
 

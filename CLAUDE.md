@@ -83,16 +83,87 @@ Hizashi_book/
     └── settings.json
 ```
 
-## ID Convention quan trọng
+## Quy tắc đặt tên folder + ID prefix (CHUẨN HOÁ)
 
-| Prefix | Sách | Status |
-|--------|------|--------|
-| 8010 | business_japanese | ✓ đã dùng |
-| 8020 | (next book) | reserved |
-| 8030, 8040, ... | (next) | reserved |
-| 9xxxxxxx | JLPT khoa cử | KHÔNG đụng |
+### Folder STT — tăng tuần tự +1
 
-→ Mỗi sách mới chọn prefix tiếp theo (8020, 8030, ...), KHÔNG random.
+Mỗi sách có **STT 2 chữ số** prefix folder name, tăng tuần tự khi tạo sách mới (KHÔNG group/category, chỉ để dễ nhìn khi `ls books/`):
+
+```
+books/
+├── 01_email/
+├── 02_phone/
+├── 03_meeting/
+├── 04_horenso/
+├── 05_presentation/
+├── 06_negotiation/
+├── 07_visit_card/
+├── 08_smalltalk/
+├── 09_real_dialogues/
+├── 10_business_japanese/    ← ✓ đã dùng
+├── 11_<next>/                ← sách kế tiếp dùng STT này
+└── ...
+```
+
+### ID prefix — match với STT folder
+
+Course ID = `8` + `<STT 2 chữ số>` = **4 chữ số**:
+
+| Folder | course_id | Format | Status |
+|--------|-----------|--------|--------|
+| `10_business_japanese` | **8010** | **LEGACY** (4-8 digits) | đã production — KHÔNG migrate |
+| `11_<book>` | **8011** | **NEW** (4-9 digits) | reserved |
+| `12_<book>` | **8012** | **NEW** | reserved |
+| ... | ... | NEW | ... |
+
+**LEGACY format** (chỉ `10_business_japanese`):
+```
+study_courses.id          = 8010                    (4 digits)
+study_modules.id          = 8011-8015               (4 digits — sẽ collision với new books nếu dùng cùng format)
+reading_passages.id       = 8010<topic><section>    (7 digits)
+questions.id              = 8<topic><kind><seq:04d> (8 digits)
+study_question_sets.id    = 80100<topic><kind><lv>  (8 digits)
+```
+
+**NEW format** (sách từ `11_<book>` trở đi — TRÁNH collision với LEGACY):
+```
+study_courses.id          = 8<NN>                                (4 digits)
+study_modules.id          = 8<NN><pos:3d>                        (7 digits)
+                            vd 8011001 = course 8011 module 1
+reading_passages.id       = 8<NN>0<topic:1d><section:2d>         (8 digits)
+                            vd 80110101 = course 8011, topic 1, section 1
+questions.id              = 8<NN><topic:1d><kind:1d><seq:03d>    (8 digits)
+                            vd 80111001 = course 8011, topic 1, BaiTap, câu 001
+study_question_sets.id    = 8<NN>0<topic><kind><level>           (9 digits)
+                            vd 801101110 = course 8011, topic 1, BaiTap, lv 1
+```
+
+→ Hệ thống hỗ trợ tới 90 sách (NN = 10..99).
+→ Sách cũ (LEGACY) KHÔNG sửa — đã production.
+→ Mọi sách mới dùng NEW format để không bao giờ collision với LEGACY.
+→ ID >= 9xxxxxxx KHÔNG đụng (JLPT Khoa Cử dùng).
+
+### Quy tắc khi tạo sách mới
+
+1. **Check** folder cuối cùng trong `books/` → STT = X
+2. **Tạo** folder `<X+1>_<book_name>` (vd nếu hiện tại là 10, sách mới là `11_<name>`)
+3. **course_id** = `8<X+1>` (4 digits)
+4. **Update** memory `business_japanese_seed.md` thêm dòng mới
+
+### Sách hiện có
+
+| STT | Folder | Dùng study_courses? | course_id | Status |
+|-----|--------|---------------------|-----------|--------|
+| 01 | 01_email | ❌ (dùng curricula) | — | content có |
+| 02 | 02_phone | ❌ | — | content có |
+| 03 | 03_meeting | ❌ | — | content có |
+| 04 | 04_horenso | ❌ | — | content có |
+| 05 | 05_presentation | ❌ | — | content có |
+| 06 | 06_negotiation | ❌ | — | content có |
+| 07 | 07_visit_card | ❌ | — | content có |
+| 08 | 08_smalltalk | ❌ | — | content có |
+| 09 | 09_real_dialogues | ❌ | — | content có |
+| **10** | **10_business_japanese** | ✓ | **8010** | đã seed ✓ |
 
 ## Quy tắc CRITICAL khi viết content
 

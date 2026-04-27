@@ -113,4 +113,4 @@ Chạy /book-next <book> để sang Stage 4 (Content markdown).
 ## Tham khảo
 
 - Template: `templates/chapter_template.md` — structure stage 4 sẽ apply
-- Nội dung mẫu: `books/business_japanese/2.1.0_keigo_phan_loai/2.1.0_Phan_loai_Kinh_ngu.md`
+- Nội dung mẫu: `books/10_business_japanese/2.1.0_keigo_phan_loai/2.1.0_Phan_loai_Kinh_ngu.md`
