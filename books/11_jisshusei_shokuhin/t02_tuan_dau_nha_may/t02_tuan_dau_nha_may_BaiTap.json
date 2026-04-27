@@ -1,0 +1,1741 @@
+{
+  "_schema_version": "1.0",
+  "_skill": "study-course-questions-builder",
+  "_description": "BaiTap cho T2. Tuần đầu trong nhà máy. 40 câu × 4 levels.",
+  "meta": {
+    "title": "工場での最初の一週間",
+    "title_vn": "T2. Tuần đầu trong nhà máy",
+    "module_code": "t02_tuan_dau_nha_may",
+    "total_questions": 40,
+    "focus": "Vocab thiết bị + bảo hộ + 5S + cold chain + ~てください",
+    "description_vn": "Bài tập 4 levels cho chương 2."
+  },
+  "questions": [
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l1_01",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "「工場」(こうじょう) là:",
+      "question_vn": "「工場」là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sân bay",
+          "text_translation": "Sân bay",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Nhà máy",
+          "text_translation": "Nhà máy",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Văn phòng",
+          "text_translation": "Văn phòng",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Trường học",
+          "text_translation": "Trường học",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "工場 = koujou = nhà máy."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l1_02",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "「制服」(せいふく) là:",
+      "question_vn": "「制服」là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Đồng phục",
+          "text_translation": "Đồng phục",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Sách giáo khoa",
+          "text_translation": "Sách giáo khoa",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Tiền lương",
+          "text_translation": "Tiền lương",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Khẩu trang",
+          "text_translation": "Khẩu trang",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "制服 = seifuku = đồng phục."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l1_03",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "「冷蔵」(れいぞう) の温度は:",
+      "question_vn": "Nhiệt độ「冷蔵」là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "0~10°C",
+          "text_translation": "0~10°C",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "≤ −18°C",
+          "text_translation": "≤ −18°C",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "15~25°C",
+          "text_translation": "15~25°C",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "≥ 30°C",
+          "text_translation": "≥ 30°C",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "冷蔵 reizou = 0-10°C, chuẩn 4°C cho cơm hộp."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l1_04",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "「冷凍」(れいとう) の温度は:",
+      "question_vn": "Nhiệt độ「冷凍」là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "0~10°C",
+          "text_translation": "0~10°C",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "≤ −18°C",
+          "text_translation": "≤ −18°C",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "15~25°C",
+          "text_translation": "15~25°C",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "≥ 30°C",
+          "text_translation": "≥ 30°C",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "冷凍 reitou = ≤ −18°C cho thực phẩm đông lạnh."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l1_05",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "5S の最初の S は:",
+      "question_vn": "S đầu tiên trong 5S là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "整理 (Seiri)",
+          "text_translation": null,
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "清掃 (Seisou)",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "躾 (Shitsuke)",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "整頓 (Seiton)",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Thứ tự: 整理→整頓→清掃→清潔→躾."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l1_06",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "「金属探知機」(きんぞくたんちき) の役割:",
+      "question_vn": "「金属探知機」làm gì:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Đo trọng lượng",
+          "text_translation": "Đo trọng lượng",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Phát hiện kim loại trong sản phẩm",
+          "text_translation": "Phát hiện kim loại trong sản phẩm",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Khử trùng",
+          "text_translation": "Khử trùng",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Đo nhiệt độ",
+          "text_translation": "Đo nhiệt độ",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "金属探知機 = máy dò kim loại trước đóng gói."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l1_07",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "「マスク」をつける順番:",
+      "question_vn": "Thứ tự đeo「マスク」trong 8 bước:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Bước 1",
+          "text_translation": "Bước 1",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Bước 4 (sau 帽子)",
+          "text_translation": null,
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Bước 8 (cuối)",
+          "text_translation": "Bước 8 (cuối)",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Bước 5",
+          "text_translation": "Bước 5",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Thứ tự: giày → đồng phục → mũ → khẩu trang → găng → tạp dề → ủng → air shower."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l1_08",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "「エアシャワー」の時間:",
+      "question_vn": "「エアシャワー」mất bao lâu:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "10 giây",
+          "text_translation": "10 giây",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "30 giây",
+          "text_translation": "30 giây",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "1 phút",
+          "text_translation": "1 phút",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "5 phút",
+          "text_translation": "5 phút",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Air shower 30 giây = bước cuối trước vào khu SX."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l1_09",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "「長靴」(ながぐつ) là:",
+      "question_vn": "「長靴」là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Mũ",
+          "text_translation": "Mũ",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Ủng",
+          "text_translation": "Ủng",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Khẩu trang",
+          "text_translation": "Khẩu trang",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Găng tay",
+          "text_translation": "Găng tay",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "長靴 = ủng dài, dùng trong nhà máy thực phẩm."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l1_10",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "「冷蔵庫」(れいぞうこ) là:",
+      "question_vn": "「冷蔵庫」là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Kho lạnh",
+          "text_translation": "Kho lạnh",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Phòng họp",
+          "text_translation": "Phòng họp",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Văn phòng",
+          "text_translation": "Văn phòng",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Phòng tắm",
+          "text_translation": "Phòng tắm",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "冷蔵庫 reizouko = kho lạnh."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l2_01",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "「マスクを____ ください」の____に入る正しい形:",
+      "question_vn": "「マスクを____ ください」điền:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "つけて",
+          "text_translation": null,
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "つける",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "つけた",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "つけ",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Cấu trúc ~てください = hãy ~. Te-form của つける là つけて."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l2_02",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "「ここに入____ ないでください」の____:",
+      "question_vn": "「ここに入____ ないでください」điền:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "ら",
+          "text_translation": null,
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "り",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "っ",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "る",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Phủ định mệnh lệnh ~ないでください. 入る → 入らない → 入らないでください."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l2_03",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "kho lạnh −18°C tối đa được vào bao lâu:",
+      "question_vn": "Kho lạnh −18°C tối đa:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "10 phút",
+          "text_translation": "10 phút",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "30 phút",
+          "text_translation": "30 phút",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "1 giờ",
+          "text_translation": "1 giờ",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Không giới hạn",
+          "text_translation": "Không giới hạn",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Tối đa 30 phút mỗi lần để tránh hạ thân nhiệt."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l2_04",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "Vào kho lạnh nên mặc:",
+      "question_vn": "Vào kho lạnh mặc:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Đồng phục bình thường",
+          "text_translation": "Đồng phục bình thường",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "防寒着 + găng tay 2 lớp",
+          "text_translation": null,
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Áo thun",
+          "text_translation": "Áo thun",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Áo mưa",
+          "text_translation": "Áo mưa",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "防寒着 = áo khoác chống lạnh. Găng tay 2 lớp."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l2_05",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "整頓 (Seiton) nghĩa là:",
+      "question_vn": "整頓 nghĩa là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sàng lọc",
+          "text_translation": "Sàng lọc",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Sắp xếp",
+          "text_translation": "Sắp xếp",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Vệ sinh",
+          "text_translation": "Vệ sinh",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Kỷ luật",
+          "text_translation": "Kỷ luật",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "整頓 Seiton = sắp xếp (S thứ 2 sau 整理 sàng lọc)."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l2_06",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "躾 (Shitsuke) nghĩa là:",
+      "question_vn": "躾 nghĩa là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sàng lọc",
+          "text_translation": "Sàng lọc",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Sắp xếp",
+          "text_translation": "Sắp xếp",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Vệ sinh",
+          "text_translation": "Vệ sinh",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Kỷ luật / tuân thủ",
+          "text_translation": "Kỷ luật / tuân thủ",
+          "is_correct": true,
+          "order": 3
+        }
+      ],
+      "explanation": "躾 Shitsuke = kỷ luật, S cuối cùng."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l2_07",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "Sự cố「毛髪混入」(もうはつこんにゅう) là:",
+      "question_vn": "「毛髪混入」là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Lẫn tóc trong sản phẩm",
+          "text_translation": "Lẫn tóc trong sản phẩm",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Lẫn kim loại",
+          "text_translation": "Lẫn kim loại",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Hết hàng",
+          "text_translation": "Hết hàng",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Sai nhãn",
+          "text_translation": "Sai nhãn",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Tóc rơi vào sản phẩm = sự cố nghiêm trọng → có thể recall."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l2_08",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "「大掃除」(おおそうじ) thường làm:",
+      "question_vn": "「大掃除」thường làm:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Mỗi ngày",
+          "text_translation": "Mỗi ngày",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Cuối tuần",
+          "text_translation": "Cuối tuần",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Mỗi tháng 1 lần",
+          "text_translation": "Mỗi tháng 1 lần",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Không bắt buộc",
+          "text_translation": "Không bắt buộc",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "大掃除 = dọn dẹp lớn cuối tuần, ~30 phút."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l2_09",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "Khi sempai nhắc nhở, phản ứng tốt nhất:",
+      "question_vn": "Phản ứng khi sempai nhắc:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Bào chữa",
+          "text_translation": "Bào chữa",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Im lặng",
+          "text_translation": "Im lặng",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Xin lỗi → sửa → cảm ơn",
+          "text_translation": "Xin lỗi → sửa → cảm ơn",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Khóc",
+          "text_translation": "Khóc",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Quy tắc 3 bước: xin lỗi → sửa → cảm ơn."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l2_10",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "「先輩」(せんぱい) の意味:",
+      "question_vn": "「先輩」là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Người mới",
+          "text_translation": "Người mới",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Tiền bối",
+          "text_translation": "Tiền bối",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Khách hàng",
+          "text_translation": "Khách hàng",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Sếp",
+          "text_translation": "Sếp",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "先輩 senpai = người vào trước (tiền bối)."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l3_01",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Trong ký túc, gặp Andi (TTS Indonesia) lần đầu, nên:",
+      "question_vn": "Gặp Andi lần đầu:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Im lặng vì khác nước",
+          "text_translation": "Im lặng vì khác nước",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Chào + tự giới thiệu (English/JP đơn giản)",
+          "text_translation": "Chào + tự giới thiệu (English/JP đơn giản)",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Chỉ chào tiếng Nhật formal",
+          "text_translation": "Chỉ chào tiếng Nhật formal",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Đợi anh ấy chào trước",
+          "text_translation": "Đợi anh ấy chào trước",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Cùng ký túc → chào friendly. English/JP đơn giản OK."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l3_02",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Khi áo bị lệch trong nhà máy, hậu quả nguy hiểm nhất:",
+      "question_vn": "Áo lệch trong nhà máy nguy hiểm vì:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Mất điểm với sếp",
+          "text_translation": "Mất điểm với sếp",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Tóc rơi → contamination → recall",
+          "text_translation": "Tóc rơi → contamination → recall",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Bị phạt tiền",
+          "text_translation": "Bị phạt tiền",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Không sao",
+          "text_translation": "Không sao",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Tóc rơi vào SP = contamination = có thể recall."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l3_03",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Khi Yamada-san (đồng nghiệp Nhật cùng line) chào, nên:",
+      "question_vn": "Yamada-san chào:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Im lặng",
+          "text_translation": "Im lặng",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Chào lại + tên + cười nhẹ",
+          "text_translation": "Chào lại + tên + cười nhẹ",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Cúi 90°",
+          "text_translation": "Cúi 90°",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Cười to",
+          "text_translation": "Cười to",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Đồng nghiệp cùng cấp → chào friendly + cười nhẹ + nhớ tên."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l3_04",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Lần đầu vào kho lạnh, cảm thấy lạnh quá, nên:",
+      "question_vn": "Lạnh quá trong kho lạnh:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Cố chịu vì sợ mất mặt",
+          "text_translation": "Cố chịu vì sợ mất mặt",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Báo Yamada/Satou + ra ngoài nghỉ",
+          "text_translation": "Báo Yamada/Satou + ra ngoài nghỉ",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Tự ý ra mà không báo",
+          "text_translation": "Tự ý ra mà không báo",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Tăng nhiệt độ",
+          "text_translation": "Tăng nhiệt độ",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Sức khoẻ trước hết. Báo + ra nghỉ là ĐÚNG, không xấu hổ."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l3_05",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Khi Kimura-san quát to lần đầu, cảm xúc bình thường:",
+      "question_vn": "Cảm xúc khi bị Kimura quát:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Vui vẻ chấp nhận",
+          "text_translation": "Vui vẻ chấp nhận",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Sợ + ấm ức + muốn khóc — bình thường",
+          "text_translation": "Sợ + ấm ức + muốn khóc — bình thường",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Hoàn toàn bình tĩnh",
+          "text_translation": "Hoàn toàn bình tĩnh",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Tức giận quát lại",
+          "text_translation": "Tức giận quát lại",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Cảm xúc bình thường — không xấu hổ. Sau đó kể với sempai khác."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l3_06",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Sau khi bị nhắc, cách phản ứng SAI:",
+      "question_vn": "Phản ứng SAI sau khi bị nhắc:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sửa ngay",
+          "text_translation": "Sửa ngay",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Cảm ơn",
+          "text_translation": "Cảm ơn",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Bào chữa「でも、暑くて...」",
+          "text_translation": null,
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Cẩn thận lần sau",
+          "text_translation": "Cẩn thận lần sau",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Bào chữa = càng tệ. Phải nhận trách nhiệm."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l3_07",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Đeo găng tay trước hay sau khi rửa tay?",
+      "question_vn": "Thứ tự găng tay vs rửa tay:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Trước rửa tay",
+          "text_translation": "Trước rửa tay",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Sau rửa tay 30s",
+          "text_translation": "Sau rửa tay 30s",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Cùng lúc",
+          "text_translation": "Cùng lúc",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Không cần rửa",
+          "text_translation": "Không cần rửa",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Rửa tay 30s → găng tay (bước 5 của 8 bước bảo hộ)."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l3_08",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Lý do KHÔNG dùng「了解です」 với Kimura:",
+      "question_vn": "Tại sao không「了解です」 với Kimura:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Quá ngắn",
+          "text_translation": "Quá ngắn",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Quá casual cho sempai/sếp",
+          "text_translation": "Quá casual cho sempai/sếp",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Sai ngữ pháp",
+          "text_translation": "Sai ngữ pháp",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Không có nghĩa",
+          "text_translation": "Không có nghĩa",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "「了解です」 = casual với bạn. Với sempai/sếp dùng「承知しました」 hoặc「かしこまりました」."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l3_09",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Khi rời line đi vệ sinh, cách đúng:",
+      "question_vn": "Rời line đi vệ sinh:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Đi luôn",
+          "text_translation": "Đi luôn",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Giơ tay → đợi sempai relief đến thay",
+          "text_translation": "Giơ tay → đợi sempai relief đến thay",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Nhịn cả ca",
+          "text_translation": "Nhịn cả ca",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Báo qua điện thoại",
+          "text_translation": "Báo qua điện thoại",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Quy tắc cứng: KHÔNG bỏ vị trí trống. Đợi relief."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l3_10",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Khi máy báo lỗi, bước đầu tiên:",
+      "question_vn": "Bước đầu khi máy lỗi:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Chạy đi báo sếp",
+          "text_translation": "Chạy đi báo sếp",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "BẤM NÚT DỪNG → giơ tay → báo cụm chuẩn",
+          "text_translation": "BẤM NÚT DỪNG → giơ tay → báo cụm chuẩn",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Tự sửa",
+          "text_translation": "Tự sửa",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Đợi máy tự khôi phục",
+          "text_translation": "Đợi máy tự khôi phục",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Bước 1: STOP → bước 2: signal → bước 3: báo cụm chuẩn."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l4_01",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Tại sao 5S là gốc của HACCP?",
+      "question_vn": "Tại sao 5S = gốc HACCP:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Vì 5S phổ biến",
+          "text_translation": "Vì 5S phổ biến",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Vì không 5S = không thể duy trì vệ sinh = không thể HACCP",
+          "text_translation": "Vì không 5S = không thể duy trì vệ sinh = không thể HACCP",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Vì Toyota tạo ra",
+          "text_translation": "Vì Toyota tạo ra",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Vì có 5 chữ",
+          "text_translation": "Vì có 5 chữ",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "5S = nền tảng vệ sinh + tổ chức. Không 5S thì HACCP không vận hành được."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l4_02",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Khác giữa「指導員」(shidouin) và「先輩」(senpai)?",
+      "question_vn": "指導員 vs 先輩:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Cùng nghĩa",
+          "text_translation": "Cùng nghĩa",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "指導員 = vai trò chính thức quản lý TTS; 先輩 = người vào trước (relative)",
+          "text_translation": null,
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "指導員 trẻ hơn",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "先輩 phải có chứng chỉ",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "指導員 = chỉ đạo viên, vai trò chính thức theo OTIT. 先輩 = relative seniority."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l4_03",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Tại sao Kimura-san khắt khe?",
+      "question_vn": "Lý do Kimura khắt khe:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Tính cách xấu",
+          "text_translation": "Tính cách xấu",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Vai trò trách nhiệm vệ sinh nặng nề + áp lực audit/recall",
+          "text_translation": "Vai trò trách nhiệm vệ sinh nặng nề + áp lực audit/recall",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Ghét người nước ngoài",
+          "text_translation": "Ghét người nước ngoài",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Mới được lên chức",
+          "text_translation": "Mới được lên chức",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Kimura chịu trách nhiệm vệ sinh — 1 lỗi = recall = mất công ty triệu yen. Khắt khe = professional."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l4_04",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Khi cảm thấy không công bằng vì sempai khắt khe, tốt nhất:",
+      "question_vn": "Sempai khắt khe quá:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Phàn nàn với buchou",
+          "text_translation": "Phàn nàn với buchou",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Kể với sempai khác (vd Satou) trước, hiểu ngữ cảnh",
+          "text_translation": "Kể với sempai khác (vd Satou) trước, hiểu ngữ cảnh",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Im lặng chịu đựng",
+          "text_translation": "Im lặng chịu đựng",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Quát lại",
+          "text_translation": "Quát lại",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Văn hoá Nhật: KHÔNG xung đột public. Đi qua trung gian (sempai khác)."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l4_05",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Sự khác biệt giữa「整理」 (seiri) và「整頓」 (seiton)?",
+      "question_vn": "整理 vs 整頓:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Cùng nghĩa",
+          "text_translation": "Cùng nghĩa",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "整理 = sàng lọc/bỏ thứ không cần; 整頓 = sắp xếp thứ giữ lại",
+          "text_translation": null,
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "整頓 trước 整理",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Cả 2 = vệ sinh",
+          "text_translation": "Cả 2 = vệ sinh",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "整理 = sàng lọc trước. 整頓 = sắp xếp sau. Phải làm theo thứ tự."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l4_06",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Tại sao TTS phải mặc đồng phục TRẮNG?",
+      "question_vn": "Đồng phục trắng vì:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Đẹp",
+          "text_translation": "Đẹp",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Dễ thấy bụi/vết bẩn → vệ sinh tốt hơn",
+          "text_translation": "Dễ thấy bụi/vết bẩn → vệ sinh tốt hơn",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Rẻ",
+          "text_translation": "Rẻ",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Truyền thống",
+          "text_translation": "Truyền thống",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Trắng = dễ phát hiện contamination ngay → improve vệ sinh."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l4_07",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Tóc dài nên xử lý thế nào trước vào nhà máy?",
+      "question_vn": "Tóc dài trước vào nhà máy:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Để tự nhiên",
+          "text_translation": "Để tự nhiên",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Buộc gọn + nhét hết vào mũ",
+          "text_translation": "Buộc gọn + nhét hết vào mũ",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Cắt ngắn",
+          "text_translation": "Cắt ngắn",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Xịt keo",
+          "text_translation": "Xịt keo",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Buộc + nhét hết = không 1 sợi nào lộ ra."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l4_08",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Lý do air shower 30s, không phải 10s hay 60s?",
+      "question_vn": "Tại sao air shower 30s:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Thời gian random",
+          "text_translation": "Thời gian random",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Nghiên cứu xác định 30s loại được ~95% bụi",
+          "text_translation": "Nghiên cứu xác định 30s loại được ~95% bụi",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Tiết kiệm điện",
+          "text_translation": "Tiết kiệm điện",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Theo luật",
+          "text_translation": "Theo luật",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "30s = optimal — đủ loại bụi, không quá lâu lãng phí."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l4_09",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Khi gặp sempai mới ở nhà máy:",
+      "question_vn": "Sempai mới ở nhà máy:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Đợi giới thiệu",
+          "text_translation": "Đợi giới thiệu",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Chủ động chào + tự giới thiệu nếu có cơ hội",
+          "text_translation": "Chủ động chào + tự giới thiệu nếu có cơ hội",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Chỉ cúi đầu",
+          "text_translation": "Chỉ cúi đầu",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Im lặng",
+          "text_translation": "Im lặng",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Chủ động = professional. Đợi = passive."
+    },
+    {
+      "id": "q_t02_tuan_dau_nha_may_baitap_l4_10",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Cuối ca, trách nhiệm cá nhân:",
+      "question_vn": "Cuối ca trách nhiệm:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Về luôn",
+          "text_translation": "Về luôn",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Vệ sinh khu vực mình + bàn giao + chào",
+          "text_translation": "Vệ sinh khu vực mình + bàn giao + chào",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Đợi sếp gọi",
+          "text_translation": "Đợi sếp gọi",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Nghỉ giải lao",
+          "text_translation": "Nghỉ giải lao",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Vệ sinh + bàn giao + chào = professional handoff."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_t02_tuan_dau_nha_may_baitap_level1",
+      "set_type": "practice",
+      "name": "T2. Tuần đầu trong nhà máy — Bài tập Level 1",
+      "description": "Bài tập trắc nghiệm — Level 1: N5",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": null,
+      "question_ids": [
+        "q_t02_tuan_dau_nha_may_baitap_l1_01",
+        "q_t02_tuan_dau_nha_may_baitap_l1_02",
+        "q_t02_tuan_dau_nha_may_baitap_l1_03",
+        "q_t02_tuan_dau_nha_may_baitap_l1_04",
+        "q_t02_tuan_dau_nha_may_baitap_l1_05",
+        "q_t02_tuan_dau_nha_may_baitap_l1_06",
+        "q_t02_tuan_dau_nha_may_baitap_l1_07",
+        "q_t02_tuan_dau_nha_may_baitap_l1_08",
+        "q_t02_tuan_dau_nha_may_baitap_l1_09",
+        "q_t02_tuan_dau_nha_may_baitap_l1_10"
+      ]
+    },
+    {
+      "set_id": "set_t02_tuan_dau_nha_may_baitap_level2",
+      "set_type": "practice",
+      "name": "T2. Tuần đầu trong nhà máy — Bài tập Level 2",
+      "description": "Bài tập trắc nghiệm — Level 2: N5",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": null,
+      "question_ids": [
+        "q_t02_tuan_dau_nha_may_baitap_l2_01",
+        "q_t02_tuan_dau_nha_may_baitap_l2_02",
+        "q_t02_tuan_dau_nha_may_baitap_l2_03",
+        "q_t02_tuan_dau_nha_may_baitap_l2_04",
+        "q_t02_tuan_dau_nha_may_baitap_l2_05",
+        "q_t02_tuan_dau_nha_may_baitap_l2_06",
+        "q_t02_tuan_dau_nha_may_baitap_l2_07",
+        "q_t02_tuan_dau_nha_may_baitap_l2_08",
+        "q_t02_tuan_dau_nha_may_baitap_l2_09",
+        "q_t02_tuan_dau_nha_may_baitap_l2_10"
+      ]
+    },
+    {
+      "set_id": "set_t02_tuan_dau_nha_may_baitap_level3",
+      "set_type": "practice",
+      "name": "T2. Tuần đầu trong nhà máy — Bài tập Level 3",
+      "description": "Bài tập trắc nghiệm — Level 3: N4",
+      "card_count": 10,
+      "module_position": 3,
+      "reading_passage_ref": null,
+      "question_ids": [
+        "q_t02_tuan_dau_nha_may_baitap_l3_01",
+        "q_t02_tuan_dau_nha_may_baitap_l3_02",
+        "q_t02_tuan_dau_nha_may_baitap_l3_03",
+        "q_t02_tuan_dau_nha_may_baitap_l3_04",
+        "q_t02_tuan_dau_nha_may_baitap_l3_05",
+        "q_t02_tuan_dau_nha_may_baitap_l3_06",
+        "q_t02_tuan_dau_nha_may_baitap_l3_07",
+        "q_t02_tuan_dau_nha_may_baitap_l3_08",
+        "q_t02_tuan_dau_nha_may_baitap_l3_09",
+        "q_t02_tuan_dau_nha_may_baitap_l3_10"
+      ]
+    },
+    {
+      "set_id": "set_t02_tuan_dau_nha_may_baitap_level4",
+      "set_type": "practice",
+      "name": "T2. Tuần đầu trong nhà máy — Bài tập Level 4",
+      "description": "Bài tập trắc nghiệm — Level 4: N4",
+      "card_count": 10,
+      "module_position": 4,
+      "reading_passage_ref": null,
+      "question_ids": [
+        "q_t02_tuan_dau_nha_may_baitap_l4_01",
+        "q_t02_tuan_dau_nha_may_baitap_l4_02",
+        "q_t02_tuan_dau_nha_may_baitap_l4_03",
+        "q_t02_tuan_dau_nha_may_baitap_l4_04",
+        "q_t02_tuan_dau_nha_may_baitap_l4_05",
+        "q_t02_tuan_dau_nha_may_baitap_l4_06",
+        "q_t02_tuan_dau_nha_may_baitap_l4_07",
+        "q_t02_tuan_dau_nha_may_baitap_l4_08",
+        "q_t02_tuan_dau_nha_may_baitap_l4_09",
+        "q_t02_tuan_dau_nha_may_baitap_l4_10"
+      ]
+    }
+  ]
+}

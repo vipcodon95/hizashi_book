@@ -1,0 +1,32 @@
+{
+  "_template": "Pipeline LITE — 8 stages, dialogue-only, không có exercises/SQL. Copy file này, fill các field bắt buộc.",
+
+  "pipeline_type": "lite",
+
+  "book_name": "<book_name_snake_case>",
+  "book_title_vn": "<Tên hiển thị tiếng Việt>",
+  "topic": "<Chủ đề chính của sách>",
+  "target_audience": "<Đối tượng người học/đọc>",
+  "domain_expert_role": "<Vai trò expert cho stage 7c>",
+
+  "current_stage": 1,
+
+  "stages": {
+    "01_research":      {"status": "pending", "output": null, "started_at": null, "completed_at": null},
+    "02_outline":       {"status": "pending", "output": null, "started_at": null, "completed_at": null},
+    "03_draft":         {"status": "pending", "output": null, "started_at": null, "completed_at": null},
+    "04_content_md":    {"status": "pending", "output": null, "started_at": null, "completed_at": null, "modules_done": []},
+    "05_jp_vn_review":  {"status": "pending", "output": null, "started_at": null, "completed_at": null},
+    "06_consistency":   {"status": "pending", "output": null, "started_at": null, "completed_at": null},
+    "07_council":       {"status": "pending", "outputs": [],   "started_at": null, "completed_at": null},
+    "08_finalize":      {"status": "pending", "output": null, "started_at": null, "completed_at": null}
+  },
+
+  "modules": [],
+
+  "metadata": {
+    "started_at": null,
+    "last_action": null,
+    "schema_version": "1.0-lite"
+  }
+}

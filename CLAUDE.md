@@ -11,7 +11,7 @@ Repo content cho hệ thống học tiếng Nhật **Hizashi**. Chứa:
 
 DB target: PostgreSQL local của `HizashiWeb/backend` (project anh chị em ở `/Users/binh/Documents/Project/Hizashi`).
 
-## Có 2 skill chính
+## Có 3 skill chính
 
 ### 1. `study-course-questions-builder` — tạo JSON câu hỏi
 
@@ -25,16 +25,16 @@ DB target: PostgreSQL local của `HizashiWeb/backend` (project anh chị em ở
 - Examples: `examples/example_<type>.json`
 - Validator: `scripts/validate_json.py`
 
-### 2. `book-writing-pipeline` — viết sách end-to-end
+### 2. `book-writing-pipeline` — viết sách FULL (có bài tập app)
 
-**Khi nào dùng**: Khởi tạo / tiếp tục pipeline viết 1 cuốn sách hoàn chỉnh.
+**Khi nào dùng**: Sách Hizashi cần seed vào app (Study Course có BaiTap + Mogishiken).
 
 **Đọc**: `.claude/skills/book-writing-pipeline/SKILL.md`
 
 **Pipeline 10 stages**:
 1. Research → 2. Outline → 3. Draft → 4. Content md → 5. Exercises JSON → 6. JP/VN review → 7. Consistency → 8. Module mapping → 9. Council (3 reviewers) → 10. Finalize + SQL seed
 
-**State**: `books/<book>/_pipeline/state.json` (resume-friendly, đứt session vẫn tiếp được)
+**State**: `books/<book>/_pipeline/state.json` với `pipeline_type: "full"` hoặc absent (resume-friendly)
 
 **Subagents available** (tự spawn từ stage tương ứng):
 - `book-researcher` (stage 1)
@@ -43,16 +43,36 @@ DB target: PostgreSQL local của `HizashiWeb/backend` (project anh chị em ở
 - `council-linguist` / `council-pedagogue` / `council-domain-expert` (stage 9, parallel)
 - `question-set-reviewer` (utility — review JSON câu hỏi anytime)
 
+### 3. `book-writing-pipeline-lite` — viết sách DIALOGUE-ONLY
+
+**Khi nào dùng**: Sách hội thoại pure (không seed DB app), vd "Hoa năm 2/3", "Real Dialogues", smalltalk.
+
+**Đọc**: `.claude/skills/book-writing-pipeline-lite/SKILL.md`
+
+**Pipeline 8 stages** (skip exercises + module mapping + SQL):
+1. Research → 2. Outline → 3. Draft → 4. **Content md DIALOGUE-FOCUS** (≥70% dialogue density, file `_HoiThoai.md`) → 5. JP/VN review → 6. Consistency → 7. Council (3 parallel) → 8. Finalize (apply fix, KHÔNG SQL/seed)
+
+**State**: `books/<book>/_pipeline/state.json` với **`pipeline_type: "lite"`** (BẮT BUỘC để command phân biệt)
+
+**Khác chính so với pipeline FULL**:
+- File suffix `_HoiThoai.md` thay vì `_LyThuyet.md`
+- Stage 4 enforce ≥70% dialogue, lý thuyết tối đa 30%
+- KHÔNG có JSON exercises, KHÔNG seed DB
+- 8 stages thay vì 10 → nhanh hơn ~30-40%
+- Subagents dùng giống nhau nhưng prompt focus dialogue
+
 ## Slash commands available
 
 | Command | Mục đích |
 |---------|---------|
-| `/write-book <name>` | Khởi tạo pipeline viết sách mới (hỏi metadata, tạo state.json) |
-| `/book-next <name>` | Chạy stage tiếp theo (1 stage / lần) |
-| `/book-status <name>` | Xem progress pipeline + outstanding issues |
-| `/validate-questions <file>` | Validate JSON câu hỏi |
-| `/build-questions <book>` | Build SQL từ JSON (gọi `_shared/scripts/build_sql_<book>.py`) |
-| `/seed-book <book>` | Seed SQL vào DB local |
+| `/write-book <name>` | Khởi tạo pipeline FULL (10 stages, có bài tập app) |
+| `/book-next <name>` | Chạy stage tiếp theo của pipeline FULL |
+| `/write-book-lite <name>` | Khởi tạo pipeline LITE (8 stages, dialogue-only) |
+| `/book-next-lite <name>` | Chạy stage tiếp theo của pipeline LITE |
+| `/book-status <name>` | Xem progress pipeline (auto-detect FULL vs LITE) |
+| `/validate-questions <file>` | Validate JSON câu hỏi (chỉ FULL) |
+| `/build-questions <book>` | Build SQL từ JSON (chỉ FULL) |
+| `/seed-book <book>` | Seed SQL vào DB local (chỉ FULL) |
 
 ## Hooks tự động
 
@@ -164,6 +184,7 @@ study_question_sets.id    = 8<NN>0<topic><kind><level>           (9 digits)
 | 08 | 08_smalltalk | ❌ | — | content có |
 | 09 | 09_real_dialogues | ❌ | — | content có |
 | **10** | **10_business_japanese** | ✓ | **8010** | đã seed ✓ |
+| **11** | **11_jisshusei_shokuhin** | ✓ | **8011** | đã seed ✓ (pipeline FULL) |
 
 ## Quy tắc CRITICAL khi viết content
 
@@ -191,7 +212,8 @@ Chi tiết 13 anti-patterns: xem `.claude/skills/study-course-questions-builder/
 
 | User nói | Action |
 |---------|--------|
-| "Viết sách <chủ đề>" / "tạo sách" | Skill `book-writing-pipeline` + slash command `/write-book` |
+| "Viết sách <chủ đề>" / "tạo sách" (có app + bài tập) | Skill `book-writing-pipeline` + `/write-book` |
+| "Viết sách hội thoại" / "không cần bài tập" / "dialogue book" | Skill `book-writing-pipeline-lite` + `/write-book-lite` |
 | "Tạo bài tập" / "viết JSON câu hỏi" | Skill `study-course-questions-builder`, copy từ `examples/` |
 | "Validate file JSON" | `/validate-questions <file>` |
 | "Build SQL" / "tạo SQL seed" | `/build-questions <book>` |

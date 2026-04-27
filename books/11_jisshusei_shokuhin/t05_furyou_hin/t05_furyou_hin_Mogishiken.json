@@ -1,0 +1,989 @@
+{
+  "_schema_version": "1.0",
+  "_skill": "study-course-questions-builder",
+  "_description": "Mogishiken (đọc hiểu) cho T5. Lần đầu mắc lỗi. 5 sections × 4 câu = 20 câu.",
+  "meta": {
+    "title": "初めての失敗 — Mogishiken",
+    "title_vn": "T5. Lần đầu mắc lỗi — Đọc hiểu",
+    "module_code": "t05_furyou_hin",
+    "total_questions": 20,
+    "focus": "Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why",
+    "description_vn": "Đọc hiểu 5 loại văn bản liên quan chương 5."
+  },
+  "reading_passages": [
+    {
+      "id": "passage_t05_furyou_hin_sec1",
+      "title": "初めての失敗 — プロセスシート 1",
+      "category": "notice",
+      "jlpt_level": "N4",
+      "difficulty": 2,
+      "word_count": 150,
+      "content_ja": "これは 初めての失敗 の プロセスシート です。Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why に関する内容を含みます。実習生が業務中に必要な情報をまとめています。詳細は工場のマニュアルを参照してください。",
+      "translation_vn": "Đây là Bảng quy trình của T5. Lần đầu mắc lỗi. Bao gồm nội dung liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why. Tổng hợp thông tin thực tập sinh cần biết khi làm việc. Chi tiết xem sổ tay nhà máy.",
+      "audio_url": null
+    },
+    {
+      "id": "passage_t05_furyou_hin_sec2",
+      "title": "初めての失敗 — マニュアル 2",
+      "category": "notice",
+      "jlpt_level": "N4",
+      "difficulty": 2,
+      "word_count": 150,
+      "content_ja": "これは 初めての失敗 の マニュアル です。Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why に関する内容を含みます。実習生が業務中に必要な情報をまとめています。詳細は工場のマニュアルを参照してください。",
+      "translation_vn": "Đây là Sổ tay hướng dẫn của T5. Lần đầu mắc lỗi. Bao gồm nội dung liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why. Tổng hợp thông tin thực tập sinh cần biết khi làm việc. Chi tiết xem sổ tay nhà máy.",
+      "audio_url": null
+    },
+    {
+      "id": "passage_t05_furyou_hin_sec3",
+      "title": "初めての失敗 — 報告書 3",
+      "category": "notice",
+      "jlpt_level": "N4",
+      "difficulty": 2,
+      "word_count": 150,
+      "content_ja": "これは 初めての失敗 の 報告書 です。Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why に関する内容を含みます。実習生が業務中に必要な情報をまとめています。詳細は工場のマニュアルを参照してください。",
+      "translation_vn": "Đây là Báo cáo của T5. Lần đầu mắc lỗi. Bao gồm nội dung liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why. Tổng hợp thông tin thực tập sinh cần biết khi làm việc. Chi tiết xem sổ tay nhà máy.",
+      "audio_url": null
+    },
+    {
+      "id": "passage_t05_furyou_hin_sec4",
+      "title": "初めての失敗 — 通知 4",
+      "category": "notice",
+      "jlpt_level": "N4",
+      "difficulty": 2,
+      "word_count": 150,
+      "content_ja": "これは 初めての失敗 の 通知 です。Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why に関する内容を含みます。実習生が業務中に必要な情報をまとめています。詳細は工場のマニュアルを参照してください。",
+      "translation_vn": "Đây là Thông báo của T5. Lần đầu mắc lỗi. Bao gồm nội dung liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why. Tổng hợp thông tin thực tập sinh cần biết khi làm việc. Chi tiết xem sổ tay nhà máy.",
+      "audio_url": null
+    },
+    {
+      "id": "passage_t05_furyou_hin_sec5",
+      "title": "初めての失敗 — チェックリスト 5",
+      "category": "notice",
+      "jlpt_level": "N4",
+      "difficulty": 2,
+      "word_count": 150,
+      "content_ja": "これは 初めての失敗 の チェックリスト です。Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why に関する内容を含みます。実習生が業務中に必要な情報をまとめています。詳細は工場のマニュアルを参照してください。",
+      "translation_vn": "Đây là Danh mục kiểm tra của T5. Lần đầu mắc lỗi. Bao gồm nội dung liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why. Tổng hợp thông tin thực tập sinh cần biết khi làm việc. Chi tiết xem sổ tay nhà máy.",
+      "audio_url": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_t05_furyou_hin_mogi_sec1_01",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "N4",
+      "category": "Section 1: Bảng quy trình",
+      "passage_ref": "passage_t05_furyou_hin_sec1",
+      "question_jp": "この プロセスシート の主旨は何ですか? (Q1)",
+      "question_vn": "Ý chính của Bảng quy trình này là gì? (Q1)",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sonkeigo/Kenjougo + 4 cấp xin lỗi + tracに関する情報",
+          "text_translation": "Thông tin liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trac",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "工場の歴史",
+          "text_translation": "Lịch sử nhà máy",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "社員の名前リスト",
+          "text_translation": "Danh sách tên nhân viên",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "設備の値段",
+          "text_translation": "Giá thiết bị",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "プロセスシート chứa thông tin về Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why."
+    },
+    {
+      "id": "q_t05_furyou_hin_mogi_sec1_02",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "N4",
+      "category": "Section 1: Bảng quy trình",
+      "passage_ref": "passage_t05_furyou_hin_sec1",
+      "question_jp": "この プロセスシート の主旨は何ですか? (Q2)",
+      "question_vn": "Ý chính của Bảng quy trình này là gì? (Q2)",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sonkeigo/Kenjougo + 4 cấp xin lỗi + tracに関する情報",
+          "text_translation": "Thông tin liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trac",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "工場の歴史",
+          "text_translation": "Lịch sử nhà máy",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "社員の名前リスト",
+          "text_translation": "Danh sách tên nhân viên",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "設備の値段",
+          "text_translation": "Giá thiết bị",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "プロセスシート chứa thông tin về Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why."
+    },
+    {
+      "id": "q_t05_furyou_hin_mogi_sec1_03",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "N4",
+      "category": "Section 1: Bảng quy trình",
+      "passage_ref": "passage_t05_furyou_hin_sec1",
+      "question_jp": "この プロセスシート の主旨は何ですか? (Q3)",
+      "question_vn": "Ý chính của Bảng quy trình này là gì? (Q3)",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sonkeigo/Kenjougo + 4 cấp xin lỗi + tracに関する情報",
+          "text_translation": "Thông tin liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trac",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "工場の歴史",
+          "text_translation": "Lịch sử nhà máy",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "社員の名前リスト",
+          "text_translation": "Danh sách tên nhân viên",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "設備の値段",
+          "text_translation": "Giá thiết bị",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "プロセスシート chứa thông tin về Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why."
+    },
+    {
+      "id": "q_t05_furyou_hin_mogi_sec1_04",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "N4",
+      "category": "Section 1: Bảng quy trình",
+      "passage_ref": "passage_t05_furyou_hin_sec1",
+      "question_jp": "この プロセスシート の主旨は何ですか? (Q4)",
+      "question_vn": "Ý chính của Bảng quy trình này là gì? (Q4)",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sonkeigo/Kenjougo + 4 cấp xin lỗi + tracに関する情報",
+          "text_translation": "Thông tin liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trac",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "工場の歴史",
+          "text_translation": "Lịch sử nhà máy",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "社員の名前リスト",
+          "text_translation": "Danh sách tên nhân viên",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "設備の値段",
+          "text_translation": "Giá thiết bị",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "プロセスシート chứa thông tin về Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why."
+    },
+    {
+      "id": "q_t05_furyou_hin_mogi_sec2_01",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "N4",
+      "category": "Section 2: Sổ tay hướng dẫn",
+      "passage_ref": "passage_t05_furyou_hin_sec2",
+      "question_jp": "この マニュアル の主旨は何ですか? (Q1)",
+      "question_vn": "Ý chính của Sổ tay hướng dẫn này là gì? (Q1)",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sonkeigo/Kenjougo + 4 cấp xin lỗi + tracに関する情報",
+          "text_translation": "Thông tin liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trac",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "工場の歴史",
+          "text_translation": "Lịch sử nhà máy",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "社員の名前リスト",
+          "text_translation": "Danh sách tên nhân viên",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "設備の値段",
+          "text_translation": "Giá thiết bị",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "マニュアル chứa thông tin về Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why."
+    },
+    {
+      "id": "q_t05_furyou_hin_mogi_sec2_02",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "N4",
+      "category": "Section 2: Sổ tay hướng dẫn",
+      "passage_ref": "passage_t05_furyou_hin_sec2",
+      "question_jp": "この マニュアル の主旨は何ですか? (Q2)",
+      "question_vn": "Ý chính của Sổ tay hướng dẫn này là gì? (Q2)",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sonkeigo/Kenjougo + 4 cấp xin lỗi + tracに関する情報",
+          "text_translation": "Thông tin liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trac",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "工場の歴史",
+          "text_translation": "Lịch sử nhà máy",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "社員の名前リスト",
+          "text_translation": "Danh sách tên nhân viên",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "設備の値段",
+          "text_translation": "Giá thiết bị",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "マニュアル chứa thông tin về Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why."
+    },
+    {
+      "id": "q_t05_furyou_hin_mogi_sec2_03",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "N4",
+      "category": "Section 2: Sổ tay hướng dẫn",
+      "passage_ref": "passage_t05_furyou_hin_sec2",
+      "question_jp": "この マニュアル の主旨は何ですか? (Q3)",
+      "question_vn": "Ý chính của Sổ tay hướng dẫn này là gì? (Q3)",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sonkeigo/Kenjougo + 4 cấp xin lỗi + tracに関する情報",
+          "text_translation": "Thông tin liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trac",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "工場の歴史",
+          "text_translation": "Lịch sử nhà máy",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "社員の名前リスト",
+          "text_translation": "Danh sách tên nhân viên",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "設備の値段",
+          "text_translation": "Giá thiết bị",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "マニュアル chứa thông tin về Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why."
+    },
+    {
+      "id": "q_t05_furyou_hin_mogi_sec2_04",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "N4",
+      "category": "Section 2: Sổ tay hướng dẫn",
+      "passage_ref": "passage_t05_furyou_hin_sec2",
+      "question_jp": "この マニュアル の主旨は何ですか? (Q4)",
+      "question_vn": "Ý chính của Sổ tay hướng dẫn này là gì? (Q4)",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sonkeigo/Kenjougo + 4 cấp xin lỗi + tracに関する情報",
+          "text_translation": "Thông tin liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trac",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "工場の歴史",
+          "text_translation": "Lịch sử nhà máy",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "社員の名前リスト",
+          "text_translation": "Danh sách tên nhân viên",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "設備の値段",
+          "text_translation": "Giá thiết bị",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "マニュアル chứa thông tin về Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why."
+    },
+    {
+      "id": "q_t05_furyou_hin_mogi_sec3_01",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "N4",
+      "category": "Section 3: Báo cáo",
+      "passage_ref": "passage_t05_furyou_hin_sec3",
+      "question_jp": "この 報告書 の主旨は何ですか? (Q1)",
+      "question_vn": "Ý chính của Báo cáo này là gì? (Q1)",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sonkeigo/Kenjougo + 4 cấp xin lỗi + tracに関する情報",
+          "text_translation": "Thông tin liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trac",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "工場の歴史",
+          "text_translation": "Lịch sử nhà máy",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "社員の名前リスト",
+          "text_translation": "Danh sách tên nhân viên",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "設備の値段",
+          "text_translation": "Giá thiết bị",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "報告書 chứa thông tin về Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why."
+    },
+    {
+      "id": "q_t05_furyou_hin_mogi_sec3_02",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "N4",
+      "category": "Section 3: Báo cáo",
+      "passage_ref": "passage_t05_furyou_hin_sec3",
+      "question_jp": "この 報告書 の主旨は何ですか? (Q2)",
+      "question_vn": "Ý chính của Báo cáo này là gì? (Q2)",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sonkeigo/Kenjougo + 4 cấp xin lỗi + tracに関する情報",
+          "text_translation": "Thông tin liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trac",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "工場の歴史",
+          "text_translation": "Lịch sử nhà máy",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "社員の名前リスト",
+          "text_translation": "Danh sách tên nhân viên",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "設備の値段",
+          "text_translation": "Giá thiết bị",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "報告書 chứa thông tin về Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why."
+    },
+    {
+      "id": "q_t05_furyou_hin_mogi_sec3_03",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "N4",
+      "category": "Section 3: Báo cáo",
+      "passage_ref": "passage_t05_furyou_hin_sec3",
+      "question_jp": "この 報告書 の主旨は何ですか? (Q3)",
+      "question_vn": "Ý chính của Báo cáo này là gì? (Q3)",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sonkeigo/Kenjougo + 4 cấp xin lỗi + tracに関する情報",
+          "text_translation": "Thông tin liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trac",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "工場の歴史",
+          "text_translation": "Lịch sử nhà máy",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "社員の名前リスト",
+          "text_translation": "Danh sách tên nhân viên",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "設備の値段",
+          "text_translation": "Giá thiết bị",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "報告書 chứa thông tin về Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why."
+    },
+    {
+      "id": "q_t05_furyou_hin_mogi_sec3_04",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "N4",
+      "category": "Section 3: Báo cáo",
+      "passage_ref": "passage_t05_furyou_hin_sec3",
+      "question_jp": "この 報告書 の主旨は何ですか? (Q4)",
+      "question_vn": "Ý chính của Báo cáo này là gì? (Q4)",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sonkeigo/Kenjougo + 4 cấp xin lỗi + tracに関する情報",
+          "text_translation": "Thông tin liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trac",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "工場の歴史",
+          "text_translation": "Lịch sử nhà máy",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "社員の名前リスト",
+          "text_translation": "Danh sách tên nhân viên",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "設備の値段",
+          "text_translation": "Giá thiết bị",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "報告書 chứa thông tin về Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why."
+    },
+    {
+      "id": "q_t05_furyou_hin_mogi_sec4_01",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "N4",
+      "category": "Section 4: Thông báo",
+      "passage_ref": "passage_t05_furyou_hin_sec4",
+      "question_jp": "この 通知 の主旨は何ですか? (Q1)",
+      "question_vn": "Ý chính của Thông báo này là gì? (Q1)",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sonkeigo/Kenjougo + 4 cấp xin lỗi + tracに関する情報",
+          "text_translation": "Thông tin liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trac",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "工場の歴史",
+          "text_translation": "Lịch sử nhà máy",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "社員の名前リスト",
+          "text_translation": "Danh sách tên nhân viên",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "設備の値段",
+          "text_translation": "Giá thiết bị",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "通知 chứa thông tin về Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why."
+    },
+    {
+      "id": "q_t05_furyou_hin_mogi_sec4_02",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "N4",
+      "category": "Section 4: Thông báo",
+      "passage_ref": "passage_t05_furyou_hin_sec4",
+      "question_jp": "この 通知 の主旨は何ですか? (Q2)",
+      "question_vn": "Ý chính của Thông báo này là gì? (Q2)",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sonkeigo/Kenjougo + 4 cấp xin lỗi + tracに関する情報",
+          "text_translation": "Thông tin liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trac",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "工場の歴史",
+          "text_translation": "Lịch sử nhà máy",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "社員の名前リスト",
+          "text_translation": "Danh sách tên nhân viên",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "設備の値段",
+          "text_translation": "Giá thiết bị",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "通知 chứa thông tin về Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why."
+    },
+    {
+      "id": "q_t05_furyou_hin_mogi_sec4_03",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "N4",
+      "category": "Section 4: Thông báo",
+      "passage_ref": "passage_t05_furyou_hin_sec4",
+      "question_jp": "この 通知 の主旨は何ですか? (Q3)",
+      "question_vn": "Ý chính của Thông báo này là gì? (Q3)",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sonkeigo/Kenjougo + 4 cấp xin lỗi + tracに関する情報",
+          "text_translation": "Thông tin liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trac",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "工場の歴史",
+          "text_translation": "Lịch sử nhà máy",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "社員の名前リスト",
+          "text_translation": "Danh sách tên nhân viên",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "設備の値段",
+          "text_translation": "Giá thiết bị",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "通知 chứa thông tin về Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why."
+    },
+    {
+      "id": "q_t05_furyou_hin_mogi_sec4_04",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "N4",
+      "category": "Section 4: Thông báo",
+      "passage_ref": "passage_t05_furyou_hin_sec4",
+      "question_jp": "この 通知 の主旨は何ですか? (Q4)",
+      "question_vn": "Ý chính của Thông báo này là gì? (Q4)",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sonkeigo/Kenjougo + 4 cấp xin lỗi + tracに関する情報",
+          "text_translation": "Thông tin liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trac",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "工場の歴史",
+          "text_translation": "Lịch sử nhà máy",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "社員の名前リスト",
+          "text_translation": "Danh sách tên nhân viên",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "設備の値段",
+          "text_translation": "Giá thiết bị",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "通知 chứa thông tin về Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why."
+    },
+    {
+      "id": "q_t05_furyou_hin_mogi_sec5_01",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "N4",
+      "category": "Section 5: Danh mục kiểm tra",
+      "passage_ref": "passage_t05_furyou_hin_sec5",
+      "question_jp": "この チェックリスト の主旨は何ですか? (Q1)",
+      "question_vn": "Ý chính của Danh mục kiểm tra này là gì? (Q1)",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sonkeigo/Kenjougo + 4 cấp xin lỗi + tracに関する情報",
+          "text_translation": "Thông tin liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trac",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "工場の歴史",
+          "text_translation": "Lịch sử nhà máy",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "社員の名前リスト",
+          "text_translation": "Danh sách tên nhân viên",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "設備の値段",
+          "text_translation": "Giá thiết bị",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "チェックリスト chứa thông tin về Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why."
+    },
+    {
+      "id": "q_t05_furyou_hin_mogi_sec5_02",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "N4",
+      "category": "Section 5: Danh mục kiểm tra",
+      "passage_ref": "passage_t05_furyou_hin_sec5",
+      "question_jp": "この チェックリスト の主旨は何ですか? (Q2)",
+      "question_vn": "Ý chính của Danh mục kiểm tra này là gì? (Q2)",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sonkeigo/Kenjougo + 4 cấp xin lỗi + tracに関する情報",
+          "text_translation": "Thông tin liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trac",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "工場の歴史",
+          "text_translation": "Lịch sử nhà máy",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "社員の名前リスト",
+          "text_translation": "Danh sách tên nhân viên",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "設備の値段",
+          "text_translation": "Giá thiết bị",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "チェックリスト chứa thông tin về Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why."
+    },
+    {
+      "id": "q_t05_furyou_hin_mogi_sec5_03",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "N4",
+      "category": "Section 5: Danh mục kiểm tra",
+      "passage_ref": "passage_t05_furyou_hin_sec5",
+      "question_jp": "この チェックリスト の主旨は何ですか? (Q3)",
+      "question_vn": "Ý chính của Danh mục kiểm tra này là gì? (Q3)",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sonkeigo/Kenjougo + 4 cấp xin lỗi + tracに関する情報",
+          "text_translation": "Thông tin liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trac",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "工場の歴史",
+          "text_translation": "Lịch sử nhà máy",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "社員の名前リスト",
+          "text_translation": "Danh sách tên nhân viên",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "設備の値段",
+          "text_translation": "Giá thiết bị",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "チェックリスト chứa thông tin về Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why."
+    },
+    {
+      "id": "q_t05_furyou_hin_mogi_sec5_04",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "N4",
+      "category": "Section 5: Danh mục kiểm tra",
+      "passage_ref": "passage_t05_furyou_hin_sec5",
+      "question_jp": "この チェックリスト の主旨は何ですか? (Q4)",
+      "question_vn": "Ý chính của Danh mục kiểm tra này là gì? (Q4)",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sonkeigo/Kenjougo + 4 cấp xin lỗi + tracに関する情報",
+          "text_translation": "Thông tin liên quan đến Sonkeigo/Kenjougo + 4 cấp xin lỗi + trac",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "工場の歴史",
+          "text_translation": "Lịch sử nhà máy",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "社員の名前リスト",
+          "text_translation": "Danh sách tên nhân viên",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "設備の値段",
+          "text_translation": "Giá thiết bị",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "チェックリスト chứa thông tin về Sonkeigo/Kenjougo + 4 cấp xin lỗi + trace lot + 5W1H + 5 Why."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_t05_furyou_hin_mogi_sec1",
+      "set_type": "reading",
+      "name": "T5. Lần đầu mắc lỗi — Reading Section 1: Bảng quy trình",
+      "description": "Đọc hiểu Bảng quy trình",
+      "card_count": 4,
+      "module_position": 5,
+      "reading_passage_ref": "passage_t05_furyou_hin_sec1",
+      "question_ids": [
+        "q_t05_furyou_hin_mogi_sec1_01",
+        "q_t05_furyou_hin_mogi_sec1_02",
+        "q_t05_furyou_hin_mogi_sec1_03",
+        "q_t05_furyou_hin_mogi_sec1_04"
+      ]
+    },
+    {
+      "set_id": "set_t05_furyou_hin_mogi_sec2",
+      "set_type": "reading",
+      "name": "T5. Lần đầu mắc lỗi — Reading Section 2: Sổ tay hướng dẫn",
+      "description": "Đọc hiểu Sổ tay hướng dẫn",
+      "card_count": 4,
+      "module_position": 5,
+      "reading_passage_ref": "passage_t05_furyou_hin_sec2",
+      "question_ids": [
+        "q_t05_furyou_hin_mogi_sec2_01",
+        "q_t05_furyou_hin_mogi_sec2_02",
+        "q_t05_furyou_hin_mogi_sec2_03",
+        "q_t05_furyou_hin_mogi_sec2_04"
+      ]
+    },
+    {
+      "set_id": "set_t05_furyou_hin_mogi_sec3",
+      "set_type": "reading",
+      "name": "T5. Lần đầu mắc lỗi — Reading Section 3: Báo cáo",
+      "description": "Đọc hiểu Báo cáo",
+      "card_count": 4,
+      "module_position": 5,
+      "reading_passage_ref": "passage_t05_furyou_hin_sec3",
+      "question_ids": [
+        "q_t05_furyou_hin_mogi_sec3_01",
+        "q_t05_furyou_hin_mogi_sec3_02",
+        "q_t05_furyou_hin_mogi_sec3_03",
+        "q_t05_furyou_hin_mogi_sec3_04"
+      ]
+    },
+    {
+      "set_id": "set_t05_furyou_hin_mogi_sec4",
+      "set_type": "reading",
+      "name": "T5. Lần đầu mắc lỗi — Reading Section 4: Thông báo",
+      "description": "Đọc hiểu Thông báo",
+      "card_count": 4,
+      "module_position": 5,
+      "reading_passage_ref": "passage_t05_furyou_hin_sec4",
+      "question_ids": [
+        "q_t05_furyou_hin_mogi_sec4_01",
+        "q_t05_furyou_hin_mogi_sec4_02",
+        "q_t05_furyou_hin_mogi_sec4_03",
+        "q_t05_furyou_hin_mogi_sec4_04"
+      ]
+    },
+    {
+      "set_id": "set_t05_furyou_hin_mogi_sec5",
+      "set_type": "reading",
+      "name": "T5. Lần đầu mắc lỗi — Reading Section 5: Danh mục kiểm tra",
+      "description": "Đọc hiểu Danh mục kiểm tra",
+      "card_count": 4,
+      "module_position": 5,
+      "reading_passage_ref": "passage_t05_furyou_hin_sec5",
+      "question_ids": [
+        "q_t05_furyou_hin_mogi_sec5_01",
+        "q_t05_furyou_hin_mogi_sec5_02",
+        "q_t05_furyou_hin_mogi_sec5_03",
+        "q_t05_furyou_hin_mogi_sec5_04"
+      ]
+    }
+  ]
+}

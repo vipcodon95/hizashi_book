@@ -1,0 +1,1741 @@
+{
+  "_schema_version": "1.0",
+  "_skill": "study-course-questions-builder",
+  "_description": "BaiTap cho T1. Đặt chân tới Nhật. 40 câu × 4 levels.",
+  "meta": {
+    "title": "日本に着いた日",
+    "title_vn": "T1. Đặt chân tới Nhật",
+    "module_code": "t01_dat_chan_toi_nhat",
+    "total_questions": 40,
+    "focus": "Chào hỏi + jiko-shoukai + vocab sân bay/ký túc/入社式",
+    "description_vn": "Bài tập 4 levels cho chương 1."
+  },
+  "questions": [
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l1_01",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "「はじめまして」の意味は何ですか?",
+      "question_vn": "Nghĩa của「はじめまして」là gì?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Lần đầu gặp",
+          "text_translation": "Lần đầu gặp",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Cảm ơn",
+          "text_translation": "Cảm ơn",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Tạm biệt",
+          "text_translation": "Tạm biệt",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Chào buổi tối",
+          "text_translation": "Chào buổi tối",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "「はじめまして」là cụm chào hỏi khi gặp lần đầu tiên."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l1_02",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "「ありがとうございます」の意味は?",
+      "question_vn": "Nghĩa của「ありがとうございます」?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Xin lỗi",
+          "text_translation": "Xin lỗi",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Cảm ơn (lịch sự)",
+          "text_translation": "Cảm ơn (lịch sự)",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Chào buổi sáng",
+          "text_translation": "Chào buổi sáng",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Hẹn gặp lại",
+          "text_translation": "Hẹn gặp lại",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Cụm cảm ơn lịch sự, dùng với sếp/người trên."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l1_03",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "「空港」(くうこう) là:",
+      "question_vn": "「空港」(くうこう) là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sân bay",
+          "text_translation": "Sân bay",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Nhà ga",
+          "text_translation": "Nhà ga",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Bến cảng",
+          "text_translation": "Bến cảng",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Khách sạn",
+          "text_translation": "Khách sạn",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "空港 = kuukou = sân bay."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l1_04",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "「在留カード」を持って出かける必要があるのは:",
+      "question_vn": "Cần mang「在留カード」khi nào?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Chỉ khi đi làm",
+          "text_translation": "Chỉ khi đi làm",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Mọi lúc, mọi nơi",
+          "text_translation": "Mọi lúc, mọi nơi",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Chỉ khi ra nước ngoài",
+          "text_translation": "Chỉ khi ra nước ngoài",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Không cần mang",
+          "text_translation": "Không cần mang",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "在留カード phải mang theo 24/7. Mất phải báo trong 14 ngày."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l1_05",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "「寮」(りょう) là:",
+      "question_vn": "「寮」(りょう) là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Phòng tắm",
+          "text_translation": "Phòng tắm",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Ký túc xá",
+          "text_translation": "Ký túc xá",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Văn phòng",
+          "text_translation": "Văn phòng",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Nhà ăn",
+          "text_translation": "Nhà ăn",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "寮 = ryou = ký túc xá."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l1_06",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "「お疲れさまでした」を使うのは:",
+      "question_vn": "Dùng「お疲れさまでした」khi:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Chỉ với sếp",
+          "text_translation": "Chỉ với sếp",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Với cả người trên và dưới",
+          "text_translation": "Với cả người trên và dưới",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Chỉ với khách",
+          "text_translation": "Chỉ với khách",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Chỉ trong gia đình",
+          "text_translation": "Chỉ trong gia đình",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Dùng được cho cả người trên/dưới — câu greeting + cảm ơn nỗ lực."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l1_07",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "「両替」(りょうがえ) là:",
+      "question_vn": "「両替」(りょうがえ) là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Đổi tiền",
+          "text_translation": "Đổi tiền",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Hẹn gặp",
+          "text_translation": "Hẹn gặp",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Đặt hàng",
+          "text_translation": "Đặt hàng",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Mua vé",
+          "text_translation": "Mua vé",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "両替 = đổi tiền (sân bay/ngân hàng)."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l1_08",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "「税関」(ぜいかん) là:",
+      "question_vn": "「税関」(ぜいかん) là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Lễ tân",
+          "text_translation": "Lễ tân",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Hải quan",
+          "text_translation": "Hải quan",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Cảnh sát",
+          "text_translation": "Cảnh sát",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Nhân viên y tế",
+          "text_translation": "Nhân viên y tế",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "税関 = hải quan ở sân bay."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l1_09",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "「燃えるゴミ」を出す日は普通:",
+      "question_vn": "Ngày đổ「燃えるゴミ」(rác cháy được) thường:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Mỗi ngày",
+          "text_translation": "Mỗi ngày",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Thứ 2, 4, 6",
+          "text_translation": "Thứ 2, 4, 6",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Chỉ thứ 7",
+          "text_translation": "Chỉ thứ 7",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Không cố định",
+          "text_translation": "Không cố định",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Saitama thường: 燃えるゴミ thứ 2, 4, 6."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l1_10",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "「すみません、もう一度お願いします」の意味は:",
+      "question_vn": "Nghĩa của câu này là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Xin lỗi, tạm biệt",
+          "text_translation": "Xin lỗi, tạm biệt",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Xin lỗi, xin nhắc lại lần nữa",
+          "text_translation": "Xin lỗi, xin nhắc lại lần nữa",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Xin lỗi, không có",
+          "text_translation": "Xin lỗi, không có",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Xin lỗi, tôi đi đây",
+          "text_translation": "Xin lỗi, tôi đi đây",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Câu cứu cánh khi không hiểu — KHÔNG gật bừa."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l2_01",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "自己紹介で「____ と申します」の____には何が入りますか?",
+      "question_vn": "Trong jiko-shoukai「____ と申します」, ____ là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Tên mình",
+          "text_translation": "Tên mình",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Tên sếp",
+          "text_translation": "Tên sếp",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Tên công ty",
+          "text_translation": "Tên công ty",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Số điện thoại",
+          "text_translation": "Số điện thoại",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Cấu trúc giới thiệu kenjougo: 「[Tên] と申します」."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l2_02",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "「____ から来ました」の____には何が入りますか?",
+      "question_vn": "Trong câu「____ から来ました」, ____ là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Tuổi",
+          "text_translation": "Tuổi",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Quê quán/quốc gia",
+          "text_translation": "Quê quán/quốc gia",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Ngày sinh",
+          "text_translation": "Ngày sinh",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Tên trường",
+          "text_translation": "Tên trường",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "から = từ. Từ đâu đến → quê quán/quốc gia."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l2_03",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "「よろしく____」の____に入る最も丁寧なのは:",
+      "question_vn": "「よろしく____」phần lịch sự nhất là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "お願いします",
+          "text_translation": null,
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "ね",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "だよ",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "頼む",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "「よろしくお願いします」là dạng đầy đủ + lịch sự."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l2_04",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "入社式で着る服は普通:",
+      "question_vn": "Trang phục ở 入社式 thường là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Áo thun + quần jeans",
+          "text_translation": "Áo thun + quần jeans",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Âu phục đen + sơ mi trắng",
+          "text_translation": "Âu phục đen + sơ mi trắng",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Yukata",
+          "text_translation": "Yukata",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Đồng phục công nhân",
+          "text_translation": "Đồng phục công nhân",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "入社式 = formal, mặc âu phục đen + sơ mi trắng."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l2_05",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "「ベトナム____ 来ました」の____に入るのは:",
+      "question_vn": "「ベトナム____ 来ました」điền:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "で",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "に",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "から",
+          "text_translation": null,
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "を",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "から = từ (origin). Từ Việt Nam đến."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l2_06",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "「私はホア____」の____には何が入りますか?(formal jiko-shoukai)",
+      "question_vn": "「私はホア____」điền (jiko-shoukai formal):",
+      "choices": [
+        {
+          "id": "A",
+          "text": "です",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "と申します",
+          "text_translation": null,
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "だ",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "ね",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Formal nhất = と申します (kenjougo)."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l2_07",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "社員証(しゃいんしょう) を渡されたとき:",
+      "question_vn": "Khi được trao 社員証:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Một tay nhận",
+          "text_translation": "Một tay nhận",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Hai tay nhận + cúi",
+          "text_translation": "Hai tay nhận + cúi",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Bỏ vào túi luôn",
+          "text_translation": "Bỏ vào túi luôn",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Đặt xuống bàn",
+          "text_translation": "Đặt xuống bàn",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Đồ quan trọng nhận bằng 2 tay + cúi."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l2_08",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "「乾杯」のとき新人(しんじん) はグラスを:",
+      "question_vn": "Lúc 乾杯, người mới (TTS) nâng ly:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Cao hơn sếp",
+          "text_translation": "Cao hơn sếp",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Thấp hơn sếp",
+          "text_translation": "Thấp hơn sếp",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Bằng sếp",
+          "text_translation": "Bằng sếp",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Không cần nâng",
+          "text_translation": "Không cần nâng",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "TTS năm 1 nâng ly THẤP HƠN ly sếp = sign of respect."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l2_09",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "OTIT は何の機関ですか?",
+      "question_vn": "OTIT là cơ quan gì?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Nhập cảnh",
+          "text_translation": "Nhập cảnh",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Giám sát thực tập sinh",
+          "text_translation": "Giám sát thực tập sinh",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Bảo hiểm",
+          "text_translation": "Bảo hiểm",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Thuế",
+          "text_translation": "Thuế",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "OTIT = 外国人技能実習機構 = cơ quan giám sát TTS."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l2_10",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "講習会(こうしゅうかい) は何ですか?",
+      "question_vn": "講習会 là gì?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Tiệc liên hoan",
+          "text_translation": "Tiệc liên hoan",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Buổi học bắt buộc",
+          "text_translation": "Buổi học bắt buộc",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Họp khẩn cấp",
+          "text_translation": "Họp khẩn cấp",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Khám sức khoẻ",
+          "text_translation": "Khám sức khoẻ",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "講習会 = buổi học bắt buộc 1 tháng đầu."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l3_01",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "先輩(せんぱい) が荷物を持つと言ったら、最初は:",
+      "question_vn": "Sempai đề nghị xách hành lý lần đầu, nên:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "はい、お願いします",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "自分で持ちます (lịch sự từ chối)",
+          "text_translation": null,
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "どうも (cộc)",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "いりません (cộc)",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Lần đầu nên từ chối lịch sự. Nếu đề nghị lần 2 mới nhận."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l3_02",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Linh-chị (sempai VN) chào sáng, Hoa nói:",
+      "question_vn": "Chào sempai VN buổi sáng:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "おはようございます",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "おはよう / Chào chị",
+          "text_translation": null,
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "やあ",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "もしもし",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Sempai VN cùng ký túc → casual OK. Mix Việt-Nhật được."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l3_03",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Tanaka-buchou (sếp Nhật) chào sáng:",
+      "question_vn": "Chào Tanaka-buchou buổi sáng:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "おはよう",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "おはようございます",
+          "text_translation": null,
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "どうも",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Chào sếp",
+          "text_translation": "Chào sếp",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Sếp Nhật → formal おはようございます (đầy đủ ございます)."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l3_04",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Lễ 入社式 cần đeo phụ kiện gì?",
+      "question_vn": "Phụ kiện gì OK ở 入社式?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Nhẫn cưới + đồng hồ + 1 đôi bông tai nhỏ",
+          "text_translation": "Nhẫn cưới + đồng hồ + 1 đôi bông tai nhỏ",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Vòng cổ vàng to",
+          "text_translation": "Vòng cổ vàng to",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Hoa tai dài",
+          "text_translation": "Hoa tai dài",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Vòng tay nhiều",
+          "text_translation": "Vòng tay nhiều",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Tối thiểu — nhẫn cưới (nếu có), đồng hồ, bông tai nhỏ."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l3_05",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Khi không hiểu sếp nói, KHÔNG NÊN:",
+      "question_vn": "Khi không hiểu, KHÔNG nên:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Hỏi lại",
+          "text_translation": "Hỏi lại",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Gật đầu giả vờ hiểu",
+          "text_translation": "Gật đầu giả vờ hiểu",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Nói「すみません、もう一度お願いします」",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Xin viết ra giấy",
+          "text_translation": "Xin viết ra giấy",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Gật bừa = nguy hiểm. Phải hỏi lại."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l3_06",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Buổi sáng đầu tiên ở ký túc nên:",
+      "question_vn": "Sáng đầu ở ký túc:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Ngủ thêm",
+          "text_translation": "Ngủ thêm",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Dậy sớm chuẩn bị + chào Linh chị + Andi",
+          "text_translation": "Dậy sớm chuẩn bị + chào Linh chị + Andi",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Im lặng đi làm",
+          "text_translation": "Im lặng đi làm",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Mời mọi người ăn",
+          "text_translation": "Mời mọi người ăn",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Chào hỏi bạn cùng phòng = bước đầu xây dựng mối quan hệ."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l3_07",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Ăn trưa ở 食堂 (shokudou) lần đầu:",
+      "question_vn": "Lần đầu ăn trưa ở 食堂:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Ngồi 1 mình",
+          "text_translation": "Ngồi 1 mình",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Theo Satou-senpai để học cách",
+          "text_translation": "Theo Satou-senpai để học cách",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Mang đồ ăn riêng",
+          "text_translation": "Mang đồ ăn riêng",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Skip ăn trưa",
+          "text_translation": "Skip ăn trưa",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Theo sempai = học cách + bonding."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l3_08",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Khi mất 在留カード:",
+      "question_vn": "Khi mất 在留カード:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Không sao, làm cái mới sau",
+          "text_translation": "Không sao, làm cái mới sau",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Báo cảnh sát + Sở Xuất nhập cảnh trong 14 ngày",
+          "text_translation": "Báo cảnh sát + Sở Xuất nhập cảnh trong 14 ngày",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Đợi tự tìm thấy",
+          "text_translation": "Đợi tự tìm thấy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Xin sếp xin cái mới",
+          "text_translation": "Xin sếp xin cái mới",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Luật: báo trong 14 ngày kể từ khi mất."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l3_09",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Khi đi tắm onsen, 在留カード:",
+      "question_vn": "Khi đi tắm onsen với 在留カード:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Để ở nhà",
+          "text_translation": "Để ở nhà",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Gửi tủ ở onsen",
+          "text_translation": "Gửi tủ ở onsen",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Giấu trong áo",
+          "text_translation": "Giấu trong áo",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Cầm tay",
+          "text_translation": "Cầm tay",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Phải mang theo 24/7 nhưng có thể gửi tủ khi tắm."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l3_10",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Lần đầu giới thiệu trước cả phòng SX, nên:",
+      "question_vn": "Jiko-shoukai trước cả phòng nên:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Nói nhanh, ngắn nhất có thể",
+          "text_translation": "Nói nhanh, ngắn nhất có thể",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Nói rõ ràng, cấu trúc 5 câu, cúi 30°",
+          "text_translation": "Nói rõ ràng, cấu trúc 5 câu, cúi 30°",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Thuộc bài thật dài",
+          "text_translation": "Thuộc bài thật dài",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Đọc giấy",
+          "text_translation": "Đọc giấy",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Cấu trúc chuẩn 5 câu + cúi 30° = đủ."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l4_01",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Tại sao TTS năm 1 KHÔNG được uống rượu nhiều ở 入社式?",
+      "question_vn": "Tại sao TTS năm 1 không uống nhiều?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Vì cấm theo luật",
+          "text_translation": "Vì cấm theo luật",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Vì cần tỉnh táo + đợi sếp + show kỷ luật",
+          "text_translation": "Vì cần tỉnh táo + đợi sếp + show kỷ luật",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Vì rượu Nhật đắt",
+          "text_translation": "Vì rượu Nhật đắt",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Vì có thể gây dị ứng",
+          "text_translation": "Vì có thể gây dị ứng",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Năm 1 = đang được đánh giá → giữ tỉnh táo + show kỷ luật."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l4_02",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Phân biệt 「お世話になります」 (dùng với khách/sếp) và 「よろしく」 (dùng với):",
+      "question_vn": "「よろしく」 dùng với:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sếp",
+          "text_translation": "Sếp",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Bạn / sempai gần",
+          "text_translation": "Bạn / sempai gần",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Khách hàng",
+          "text_translation": "Khách hàng",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Cảnh sát",
+          "text_translation": "Cảnh sát",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "「お世話になります」 = formal cao. 「よろしく」 = casual với bạn."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l4_03",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Khi sempai VN (Linh chị) hỏi「Hoa khoẻ không?」 trong ký túc, nên trả lời:",
+      "question_vn": "Trả lời Linh chị:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "はい、元気です (formal)",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Em khoẻ chị / 元気だよ (casual)",
+          "text_translation": null,
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "元気でございます (super formal)",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Im lặng",
+          "text_translation": "Im lặng",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Sempai VN cùng ký túc → casual."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l4_04",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Tại sao Nhật có nghi thức 入社式 long trọng?",
+      "question_vn": "Lý do 入社式 long trọng:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Giải trí cho nhân viên cũ",
+          "text_translation": "Giải trí cho nhân viên cũ",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Đánh dấu chính thức gia nhập + xây dựng cam kết",
+          "text_translation": "Đánh dấu chính thức gia nhập + xây dựng cam kết",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Bắt buộc theo luật",
+          "text_translation": "Bắt buộc theo luật",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Truyền thống cổ",
+          "text_translation": "Truyền thống cổ",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "入社式 = cam kết + xây dựng bản sắc là 'thành viên công ty'."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l4_05",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Sempai VN năm 2 (Linh chị) thường giúp gì cho TTS năm 1?",
+      "question_vn": "Linh chị giúp Hoa gì?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Giúp giặt quần áo",
+          "text_translation": "Giúp giặt quần áo",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Hướng dẫn ký túc + cuộc sống + an ủi",
+          "text_translation": "Hướng dẫn ký túc + cuộc sống + an ủi",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Cho tiền tiêu",
+          "text_translation": "Cho tiền tiêu",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Dạy tiếng Nhật chuyên sâu",
+          "text_translation": "Dạy tiếng Nhật chuyên sâu",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Sempai VN = người dẫn dắt đời sống + chỗ dựa tinh thần."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l4_06",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Khi không thể tham gia 講習会 OTIT, nên:",
+      "question_vn": "Không thể tham gia 講習会:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Bỏ qua",
+          "text_translation": "Bỏ qua",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Báo Suzuki + xin lịch khác",
+          "text_translation": "Báo Suzuki + xin lịch khác",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Tự học ở nhà",
+          "text_translation": "Tự học ở nhà",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Nhờ bạn đi giúp",
+          "text_translation": "Nhờ bạn đi giúp",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Bắt buộc — phải báo + xin lịch khác."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l4_07",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Lần đầu xa nhà, cảm xúc thường gặp:",
+      "question_vn": "Cảm xúc lần đầu xa nhà:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Phấn khích thuần tuý",
+          "text_translation": "Phấn khích thuần tuý",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Hỗn hợp: lo + nhớ nhà + hy vọng",
+          "text_translation": "Hỗn hợp: lo + nhớ nhà + hy vọng",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Buồn duy nhất",
+          "text_translation": "Buồn duy nhất",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Vô cảm",
+          "text_translation": "Vô cảm",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Bình thường có hỗn hợp cảm xúc — không xấu hổ."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l4_08",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Gọi điện về VN cho mẹ tuần đầu nên:",
+      "question_vn": "Gọi điện về tuần đầu:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Báo mọi khó khăn cho mẹ lo",
+          "text_translation": "Báo mọi khó khăn cho mẹ lo",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Báo an toàn + chia sẻ tích cực + giấu khó khăn nhỏ",
+          "text_translation": "Báo an toàn + chia sẻ tích cực + giấu khó khăn nhỏ",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Không gọi vì sợ tốn tiền",
+          "text_translation": "Không gọi vì sợ tốn tiền",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Chỉ nhắn tin",
+          "text_translation": "Chỉ nhắn tin",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Báo an toàn + tích cực — khó khăn lớn thì chia sẻ, nhỏ thì tự xử lý."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l4_09",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Khác biệt giữa 「監理団体」 (kanri dantai) và OTIT:",
+      "question_vn": "Khác giữa 監理団体 và OTIT:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Cùng cơ quan",
+          "text_translation": "Cùng cơ quan",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Kanri dantai là đoàn thể giám sát công ty cụ thể; OTIT là cơ quan chính phủ giám sát toàn quốc",
+          "text_translation": "Kanri dantai là đoàn thể giám sát công ty cụ thể; OTIT là cơ quan chính phủ giám sát toàn quốc",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Kanri dantai chỉ ở VN",
+          "text_translation": "Kanri dantai chỉ ở VN",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "OTIT chỉ check 1 lần",
+          "text_translation": "OTIT chỉ check 1 lần",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Kanri dantai = đoàn thể giám sát của 1 nhóm công ty; OTIT = cơ quan chính phủ."
+    },
+    {
+      "id": "q_t01_dat_chan_toi_nhat_baitap_l4_10",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Tuần đầu sang Nhật, ưu tiên #1 nên là:",
+      "question_vn": "Ưu tiên #1 tuần đầu:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Học tiếng Nhật cấp tốc",
+          "text_translation": "Học tiếng Nhật cấp tốc",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Quan sát + nhớ tên người + chào hỏi đúng",
+          "text_translation": "Quan sát + nhớ tên người + chào hỏi đúng",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Tìm hiểu Tokyo",
+          "text_translation": "Tìm hiểu Tokyo",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Mua sắm",
+          "text_translation": "Mua sắm",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Quan sát + nhớ tên + chào = nền tảng mối quan hệ cả năm."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_t01_dat_chan_toi_nhat_baitap_level1",
+      "set_type": "practice",
+      "name": "T1. Đặt chân tới Nhật — Bài tập Level 1",
+      "description": "Bài tập trắc nghiệm — Level 1: N5",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": null,
+      "question_ids": [
+        "q_t01_dat_chan_toi_nhat_baitap_l1_01",
+        "q_t01_dat_chan_toi_nhat_baitap_l1_02",
+        "q_t01_dat_chan_toi_nhat_baitap_l1_03",
+        "q_t01_dat_chan_toi_nhat_baitap_l1_04",
+        "q_t01_dat_chan_toi_nhat_baitap_l1_05",
+        "q_t01_dat_chan_toi_nhat_baitap_l1_06",
+        "q_t01_dat_chan_toi_nhat_baitap_l1_07",
+        "q_t01_dat_chan_toi_nhat_baitap_l1_08",
+        "q_t01_dat_chan_toi_nhat_baitap_l1_09",
+        "q_t01_dat_chan_toi_nhat_baitap_l1_10"
+      ]
+    },
+    {
+      "set_id": "set_t01_dat_chan_toi_nhat_baitap_level2",
+      "set_type": "practice",
+      "name": "T1. Đặt chân tới Nhật — Bài tập Level 2",
+      "description": "Bài tập trắc nghiệm — Level 2: N5",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": null,
+      "question_ids": [
+        "q_t01_dat_chan_toi_nhat_baitap_l2_01",
+        "q_t01_dat_chan_toi_nhat_baitap_l2_02",
+        "q_t01_dat_chan_toi_nhat_baitap_l2_03",
+        "q_t01_dat_chan_toi_nhat_baitap_l2_04",
+        "q_t01_dat_chan_toi_nhat_baitap_l2_05",
+        "q_t01_dat_chan_toi_nhat_baitap_l2_06",
+        "q_t01_dat_chan_toi_nhat_baitap_l2_07",
+        "q_t01_dat_chan_toi_nhat_baitap_l2_08",
+        "q_t01_dat_chan_toi_nhat_baitap_l2_09",
+        "q_t01_dat_chan_toi_nhat_baitap_l2_10"
+      ]
+    },
+    {
+      "set_id": "set_t01_dat_chan_toi_nhat_baitap_level3",
+      "set_type": "practice",
+      "name": "T1. Đặt chân tới Nhật — Bài tập Level 3",
+      "description": "Bài tập trắc nghiệm — Level 3: N4",
+      "card_count": 10,
+      "module_position": 3,
+      "reading_passage_ref": null,
+      "question_ids": [
+        "q_t01_dat_chan_toi_nhat_baitap_l3_01",
+        "q_t01_dat_chan_toi_nhat_baitap_l3_02",
+        "q_t01_dat_chan_toi_nhat_baitap_l3_03",
+        "q_t01_dat_chan_toi_nhat_baitap_l3_04",
+        "q_t01_dat_chan_toi_nhat_baitap_l3_05",
+        "q_t01_dat_chan_toi_nhat_baitap_l3_06",
+        "q_t01_dat_chan_toi_nhat_baitap_l3_07",
+        "q_t01_dat_chan_toi_nhat_baitap_l3_08",
+        "q_t01_dat_chan_toi_nhat_baitap_l3_09",
+        "q_t01_dat_chan_toi_nhat_baitap_l3_10"
+      ]
+    },
+    {
+      "set_id": "set_t01_dat_chan_toi_nhat_baitap_level4",
+      "set_type": "practice",
+      "name": "T1. Đặt chân tới Nhật — Bài tập Level 4",
+      "description": "Bài tập trắc nghiệm — Level 4: N4",
+      "card_count": 10,
+      "module_position": 4,
+      "reading_passage_ref": null,
+      "question_ids": [
+        "q_t01_dat_chan_toi_nhat_baitap_l4_01",
+        "q_t01_dat_chan_toi_nhat_baitap_l4_02",
+        "q_t01_dat_chan_toi_nhat_baitap_l4_03",
+        "q_t01_dat_chan_toi_nhat_baitap_l4_04",
+        "q_t01_dat_chan_toi_nhat_baitap_l4_05",
+        "q_t01_dat_chan_toi_nhat_baitap_l4_06",
+        "q_t01_dat_chan_toi_nhat_baitap_l4_07",
+        "q_t01_dat_chan_toi_nhat_baitap_l4_08",
+        "q_t01_dat_chan_toi_nhat_baitap_l4_09",
+        "q_t01_dat_chan_toi_nhat_baitap_l4_10"
+      ]
+    }
+  ]
+}

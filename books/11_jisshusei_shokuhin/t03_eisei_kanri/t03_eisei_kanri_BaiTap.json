@@ -1,0 +1,1741 @@
+{
+  "_schema_version": "1.0",
+  "_skill": "study-course-questions-builder",
+  "_description": "BaiTap cho T3. Quy tắc vệ sinh thực phẩm. 40 câu × 4 levels.",
+  "meta": {
+    "title": "食品衛生のルール",
+    "title_vn": "T3. Quy tắc vệ sinh thực phẩm",
+    "module_code": "t03_eisei_kanri",
+    "total_questions": 40,
+    "focus": "Rửa tay 30s + HACCP 7 nguyên tắc + allergen 9+19 + 検便",
+    "description_vn": "Bài tập 4 levels cho chương 3."
+  },
+  "questions": [
+    {
+      "id": "q_t03_eisei_kanri_baitap_l1_01",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "Rửa tay tối thiểu bao nhiêu giây?",
+      "question_vn": "Rửa tay tối thiểu:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "15 giây",
+          "text_translation": "15 giây",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "30 giây",
+          "text_translation": "30 giây",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "60 giây",
+          "text_translation": "60 giây",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Không giới hạn",
+          "text_translation": "Không giới hạn",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "30 giây = tối thiểu, theo HACCP standard."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l1_02",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "HACCP có bao nhiêu nguyên tắc?",
+      "question_vn": "HACCP có:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "5",
+          "text_translation": "5",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "7",
+          "text_translation": "7",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "9",
+          "text_translation": "9",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "12",
+          "text_translation": "12",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "HACCP = 7 nguyên tắc + 12 bước."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l1_03",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "「卵」(たまご) là allergen mandatory hay recommended?",
+      "question_vn": "「卵」 là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Mandatory (#1)",
+          "text_translation": "Mandatory (#1)",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Recommended",
+          "text_translation": "Recommended",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Không phải allergen",
+          "text_translation": "Không phải allergen",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Mới thêm 2026",
+          "text_translation": "Mới thêm 2026",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "卵 = trứng = #1 trong 9 mandatory."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l1_04",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "Allergen mới thêm vào 2026/4 là:",
+      "question_vn": "Mới thêm 2026/4:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "くるみ",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "カシューナッツ (cashew)",
+          "text_translation": null,
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "そば",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "ごま",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Cashew vừa được thêm vào mandatory list 4/2026."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l1_05",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "Năm 2026, allergen mandatory có:",
+      "question_vn": "Allergen mandatory 2026:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "7 chất",
+          "text_translation": "7 chất",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "8 chất",
+          "text_translation": "8 chất",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "9 chất",
+          "text_translation": "9 chất",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "28 chất",
+          "text_translation": "28 chất",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "9 mandatory + 19 recommended = 28 tổng."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l1_06",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "「検便」(けんべん) là gì:",
+      "question_vn": "「検便」là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Khám sức khoẻ tổng quát",
+          "text_translation": "Khám sức khoẻ tổng quát",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Xét nghiệm phân hàng tháng",
+          "text_translation": "Xét nghiệm phân hàng tháng",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Đo huyết áp",
+          "text_translation": "Đo huyết áp",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Test máu",
+          "text_translation": "Test máu",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "検便 = xét nghiệm phân, BẮT BUỘC hàng tháng cho NV thực phẩm."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l1_07",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "「殺菌」(さっきん) là:",
+      "question_vn": "「殺菌」là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Diệt khuẩn",
+          "text_translation": "Diệt khuẩn",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Sấy khô",
+          "text_translation": "Sấy khô",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Đông lạnh",
+          "text_translation": "Đông lạnh",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Đóng gói",
+          "text_translation": "Đóng gói",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "殺菌 sakkin = diệt khuẩn."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l1_08",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "「サニタイザー」 là:",
+      "question_vn": "「サニタイザー」 là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Máy giặt",
+          "text_translation": "Máy giặt",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Dung dịch sát khuẩn",
+          "text_translation": "Dung dịch sát khuẩn",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Khẩu trang",
+          "text_translation": "Khẩu trang",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Áo bảo hộ",
+          "text_translation": "Áo bảo hộ",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "サニタイザー = sanitizer = dung dịch sát khuẩn."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l1_09",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "Vi khuẩn nguy hiểm test trong 検便:",
+      "question_vn": "Vi khuẩn test trong 検便:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Salmonella, O-157, Shigella",
+          "text_translation": "Salmonella, O-157, Shigella",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Cúm",
+          "text_translation": "Cúm",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "HIV",
+          "text_translation": "HIV",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Lao",
+          "text_translation": "Lao",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Test 3 vi khuẩn gây ngộ độc thực phẩm: Salmonella, O-157, Shigella."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l1_10",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 1",
+      "question_jp": "Mỗi cơ sở thực phẩm BẮT BUỘC có:",
+      "question_vn": "Mỗi cơ sở phải có:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "食品衛生管理者",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "食品衛生責任者 (≥1 người)",
+          "text_translation": null,
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "HACCP coordinator",
+          "text_translation": "HACCP coordinator",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Bác sĩ",
+          "text_translation": "Bác sĩ",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "食品衛生責任者 = 1 người mỗi cơ sở, BẮT BUỘC theo luật."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l2_01",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "「えび」 là allergen #:",
+      "question_vn": "「えび」 là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Mandatory #6",
+          "text_translation": "Mandatory #6",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Recommended",
+          "text_translation": "Recommended",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Không phải",
+          "text_translation": "Không phải",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Mới thêm",
+          "text_translation": "Mới thêm",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "えび = tôm = #6 mandatory."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l2_02",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "「かに」 là:",
+      "question_vn": "「かに」 là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Cua, mandatory #7",
+          "text_translation": "Cua, mandatory #7",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Tôm",
+          "text_translation": "Tôm",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Sò",
+          "text_translation": "Sò",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Cá",
+          "text_translation": "Cá",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "かに = cua = mandatory #7."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l2_03",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "「そば」 là:",
+      "question_vn": "「そば」 là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Mì gạo",
+          "text_translation": "Mì gạo",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Kiều mạch (mandatory #4)",
+          "text_translation": "Kiều mạch (mandatory #4)",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Lúa mạch",
+          "text_translation": "Lúa mạch",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Đậu nành",
+          "text_translation": "Đậu nành",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "そば = kiều mạch (mì soba), mandatory #4."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l2_04",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "Color-coded utensils — màu cho thịt sống:",
+      "question_vn": "Màu cho thịt sống:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Đỏ",
+          "text_translation": "Đỏ",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Xanh",
+          "text_translation": "Xanh",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Vàng",
+          "text_translation": "Vàng",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Trắng",
+          "text_translation": "Trắng",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Đỏ = thịt sống. Xanh = cá. Lá = rau. Vàng = gia cầm. Trắng = chín."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l2_05",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "Khi 検便 cho kết quả dương tính:",
+      "question_vn": "検便 (+):",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Cố đi làm",
+          "text_translation": "Cố đi làm",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Báo Suzuki + nghỉ + đi viện điều trị",
+          "text_translation": "Báo Suzuki + nghỉ + đi viện điều trị",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Đợi đến cuối tháng",
+          "text_translation": "Đợi đến cuối tháng",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Test lại ngay",
+          "text_translation": "Test lại ngay",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "BẮT BUỘC nghỉ + điều trị. Cố đi làm = vi phạm luật + có thể gây ngộ độc tập thể."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l2_06",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "Bài hát ABC × 2 lần ≈ bao nhiêu giây?",
+      "question_vn": "ABC × 2 ≈:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "15s",
+          "text_translation": "15s",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "30s",
+          "text_translation": "30s",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "60s",
+          "text_translation": "60s",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "90s",
+          "text_translation": "90s",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "ABC × 2 = ~30 giây = thời gian rửa tay chuẩn."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l2_07",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "Allergen 大豆 (đậu nành) là:",
+      "question_vn": "大豆 là:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Mandatory",
+          "text_translation": "Mandatory",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Recommended",
+          "text_translation": "Recommended",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Không phải",
+          "text_translation": "Không phải",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Mới thêm",
+          "text_translation": "Mới thêm",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "大豆 = đậu nành = recommended (không bắt buộc)."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l2_08",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "Khi rửa tay, bước cuối là:",
+      "question_vn": "Bước cuối rửa tay:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Lấy xà phòng",
+          "text_translation": "Lấy xà phòng",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Cổ tay → rửa sạch xà phòng → lau khăn 1 lần (paper towel)",
+          "text_translation": "Cổ tay → rửa sạch xà phòng → lau khăn 1 lần (paper towel)",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Đầu ngón tay",
+          "text_translation": "Đầu ngón tay",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Ngón cái",
+          "text_translation": "Ngón cái",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Bước 7 = cổ tay + rửa sạch + paper towel 1 lần."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l2_09",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "HACCP nguyên tắc TTS cần tập trung:",
+      "question_vn": "TTS tập trung nguyên tắc:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "1 và 2",
+          "text_translation": "1 và 2",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "4 (Monitoring) và 5 (Kaizen)",
+          "text_translation": "4 (Monitoring) và 5 (Kaizen)",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "6 và 7",
+          "text_translation": "6 và 7",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Tất cả",
+          "text_translation": "Tất cả",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "TTS năm 1 chỉ cần tập trung #4 giám sát + #5 hành động khắc phục."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l2_10",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N5",
+      "category": "Level 2",
+      "question_jp": "HACCP 7 nguyên tắc + bao nhiêu bước?",
+      "question_vn": "HACCP có:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "5 bước",
+          "text_translation": "5 bước",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "12 bước",
+          "text_translation": "12 bước",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "20 bước",
+          "text_translation": "20 bước",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "30 bước",
+          "text_translation": "30 bước",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "7 nguyên tắc + 12 bước (5 bước chuẩn bị + 7 nguyên tắc)."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l3_01",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Khi nào BẮT BUỘC rửa tay (không thể skip)?",
+      "question_vn": "Bắt buộc rửa tay khi:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sau khi đi vệ sinh",
+          "text_translation": "Sau khi đi vệ sinh",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Mỗi 4 giờ",
+          "text_translation": "Mỗi 4 giờ",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Trước khi nghỉ",
+          "text_translation": "Trước khi nghỉ",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Sau khi nói chuyện",
+          "text_translation": "Sau khi nói chuyện",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Sau toilet là BẮT BUỘC tuyệt đối."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l3_02",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Khi vô tình chạm tóc trong ca làm:",
+      "question_vn": "Chạm tóc:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Không sao",
+          "text_translation": "Không sao",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Phải rửa tay ngay",
+          "text_translation": "Phải rửa tay ngay",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Đợi đến cuối ca",
+          "text_translation": "Đợi đến cuối ca",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Báo sếp",
+          "text_translation": "Báo sếp",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Tóc = nguồn vi khuẩn → chạm xong phải rửa tay ngay."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l3_03",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Trong dãy allergen mandatory, KHÔNG có:",
+      "question_vn": "KHÔNG có trong mandatory:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "ごま (mè)",
+          "text_translation": null,
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "くるみ",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "カシュー",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "えび",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "ごま = mè = recommended, không mandatory."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l3_04",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Quy tắc cross-contamination cốt lõi:",
+      "question_vn": "Cross-contamination prevention:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Dùng dao chung tiện hơn",
+          "text_translation": "Dùng dao chung tiện hơn",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Color-coded utensils — không dùng nhầm màu",
+          "text_translation": "Color-coded utensils — không dùng nhầm màu",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Vệ sinh sau cùng",
+          "text_translation": "Vệ sinh sau cùng",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Khẩu trang đủ",
+          "text_translation": "Khẩu trang đủ",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Color-coded utensils + vệ sinh giữa lô = cốt lõi."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l3_05",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Lý do cashew thêm vào 2026:",
+      "question_vn": "Cashew thêm vì:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Hương vị",
+          "text_translation": "Hương vị",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Nhiều ca sốc phản vệ trẻ em",
+          "text_translation": "Nhiều ca sốc phản vệ trẻ em",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Chính sách thuế",
+          "text_translation": "Chính sách thuế",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Yêu cầu xuất khẩu",
+          "text_translation": "Yêu cầu xuất khẩu",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "CAA quyết định thêm sau nhiều ca sốc phản vệ."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l3_06",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Khi sản phẩm chứa 1 trong 9 mandatory, label PHẢI:",
+      "question_vn": "Label allergen mandatory:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Optional",
+          "text_translation": "Optional",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "BẮT BUỘC ghi rõ",
+          "text_translation": "BẮT BUỘC ghi rõ",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Chỉ ghi nếu khách yêu cầu",
+          "text_translation": "Chỉ ghi nếu khách yêu cầu",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Ghi tiếng Anh",
+          "text_translation": "Ghi tiếng Anh",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Vi phạm label = recall + phạt theo luật Shokuhin Hyouji Hou."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l3_07",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Khi vào khu line allergen, dụng cụ phải:",
+      "question_vn": "Dụng cụ line allergen:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Dùng chung với line thường",
+          "text_translation": "Dùng chung với line thường",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Riêng + có khu vực riêng + nhân viên riêng",
+          "text_translation": "Riêng + có khu vực riêng + nhân viên riêng",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Vệ sinh 1 lần/ca",
+          "text_translation": "Vệ sinh 1 lần/ca",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Không cần đặc biệt",
+          "text_translation": "Không cần đặc biệt",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Allergen line = ISOLATED hoàn toàn từ line thường."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l3_08",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Khi rửa tay vội (chỉ 15s), hậu quả:",
+      "question_vn": "Rửa tay vội 15s:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Vẫn OK",
+          "text_translation": "Vẫn OK",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Vi khuẩn còn lại 30-50% → có thể contamination",
+          "text_translation": "Vi khuẩn còn lại 30-50% → có thể contamination",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Tốt vì tiết kiệm thời gian",
+          "text_translation": "Tốt vì tiết kiệm thời gian",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Không ảnh hưởng",
+          "text_translation": "Không ảnh hưởng",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Nghiên cứu: 30s loại 99.9% vi khuẩn, 15s chỉ 50-70%."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l3_09",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Khi sempai dạy mẹo (vd ABC × 2 lần), nên:",
+      "question_vn": "Sempai dạy mẹo:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Phớt lờ",
+          "text_translation": "Phớt lờ",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Cảm ơn + áp dụng + báo lại 1 tuần sau (đã cải thiện)",
+          "text_translation": "Cảm ơn + áp dụng + báo lại 1 tuần sau (đã cải thiện)",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Chỉ cảm ơn",
+          "text_translation": "Chỉ cảm ơn",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Hỏi tại sao",
+          "text_translation": "Hỏi tại sao",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Cảm ơn + áp dụng + báo lại kết quả = xây dựng lòng tin + thể hiện trân trọng."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l3_10",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 3",
+      "question_jp": "Andi cùng tập rửa tay với Hoa = ý nghĩa gì?",
+      "question_vn": "Andi tập với Hoa:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Học chung = nhanh hơn",
+          "text_translation": "Học chung = nhanh hơn",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Tình bạn ký túc + bạn cùng giám sát nhau",
+          "text_translation": "Tình bạn ký túc + bạn cùng giám sát nhau",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Tiết kiệm xà phòng",
+          "text_translation": "Tiết kiệm xà phòng",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Thi đua",
+          "text_translation": "Thi đua",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Hệ thống bạn cặp = tăng động lực + tinh thần trách nhiệm."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l4_01",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Tại sao Nhật BẮT BUỘC 検便 hàng tháng (không phải 3 tháng/lần như nhiều nước)?",
+      "question_vn": "Tại sao 検便 hàng tháng:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Văn hoá",
+          "text_translation": "Văn hoá",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Vi khuẩn có thể nhiễm bất kỳ lúc nào — tần suất cao = phát hiện sớm",
+          "text_translation": "Vi khuẩn có thể nhiễm bất kỳ lúc nào — tần suất cao = phát hiện sớm",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Tiền",
+          "text_translation": "Tiền",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Yêu cầu của ISO",
+          "text_translation": "Yêu cầu của ISO",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Tần suất cao = phát hiện sớm = ngăn bùng phát dịch."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l4_02",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Tại sao 1 sợi tóc trong cơm hộp = recall lớn?",
+      "question_vn": "1 sợi tóc = recall vì:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Khách phàn nàn",
+          "text_translation": "Khách phàn nàn",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Tóc = vi khuẩn + chỉ dấu vệ sinh kém + vi phạm lòng tin → tổn hại thương hiệu dây chuyền",
+          "text_translation": "Tóc = vi khuẩn + chỉ dấu vệ sinh kém + vi phạm lòng tin → tổn hại thương hiệu dây chuyền",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Tóc gây dị ứng",
+          "text_translation": "Tóc gây dị ứng",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Luật bắt buộc",
+          "text_translation": "Luật bắt buộc",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Dây chuyền: 1 sợi → SNS → tổn hại thương hiệu → mất khách lâu dài."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l4_03",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Khác giữa「殺菌」 và「消毒」?",
+      "question_vn": "殺菌 vs 消毒:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Cùng nghĩa",
+          "text_translation": "Cùng nghĩa",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "殺菌 = diệt vi khuẩn (quy trình); 消毒 = khử trùng (mục tiêu — giảm về mức an toàn)",
+          "text_translation": null,
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "殺菌 mạnh hơn",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "消毒 chỉ cho người",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "殺菌 = quy trình diệt. 消毒 = mục tiêu khử trùng đến mức an toàn."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l4_04",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Tại sao 19 recommended không bắt buộc nhưng công ty lớn vẫn ghi?",
+      "question_vn": "Tại sao công ty lớn ghi recommended:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Để trông pro",
+          "text_translation": "Để trông pro",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Tránh kiện tụng + thị trường quốc tế (EU/Mỹ list khác)",
+          "text_translation": "Tránh kiện tụng + thị trường quốc tế (EU/Mỹ list khác)",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Bắt buộc",
+          "text_translation": "Bắt buộc",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Tăng giá",
+          "text_translation": "Tăng giá",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Tránh kiện + xuất khẩu (EU/Mỹ có list allergen khác)."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l4_05",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Vi khuẩn nguy hiểm nhất từ 検便?",
+      "question_vn": "Vi khuẩn nguy hiểm nhất:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Salmonella",
+          "text_translation": "Salmonella",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "O-157 (có thể gây tử vong từ tiêu chảy ra máu)",
+          "text_translation": "O-157 (có thể gây tử vong từ tiêu chảy ra máu)",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Shigella",
+          "text_translation": "Shigella",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "E. coli thường",
+          "text_translation": "E. coli thường",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "O-157 = chủng E. coli sản xuất Shiga toxin, có thể gây tử vong."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l4_06",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Khi line cơm bị contaminated allergen, hậu quả:",
+      "question_vn": "Line nhiễm allergen:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Bỏ vài sản phẩm",
+          "text_translation": "Bỏ vài sản phẩm",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Dừng line + clean kỹ + có thể recall lô đã ra",
+          "text_translation": "Dừng line + clean kỹ + có thể recall lô đã ra",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Không sao",
+          "text_translation": "Không sao",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Đổi line",
+          "text_translation": "Đổi line",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Allergen contamination = serious. Có thể tử vong người dị ứng."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l4_07",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Mức độ cảnh giác allergen ở Nhật so với các nước Đông Nam Á:",
+      "question_vn": "Allergen Nhật vs ĐNA:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Nhẹ hơn",
+          "text_translation": "Nhẹ hơn",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Khắt khe hơn nhiều — luật chặt + ý thức cao",
+          "text_translation": "Khắt khe hơn nhiều — luật chặt + ý thức cao",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Bằng nhau",
+          "text_translation": "Bằng nhau",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Không quan tâm",
+          "text_translation": "Không quan tâm",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Nhật khắt khe hàng đầu thế giới về food safety."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l4_08",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Khi auditor hỏi về quy trình rửa tay, nên trả lời:",
+      "question_vn": "Auditor hỏi rửa tay:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "「30秒です」 (ngắn)",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "「30秒、7ステップで実施しております。記録もございます」 (đầy đủ)",
+          "text_translation": null,
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "「やっています」 (vague)",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "「分かりません」",
+          "text_translation": null,
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Đầy đủ + có evidence (record) = professional answer."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l4_09",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Tại sao 7 bước rửa tay theo thứ tự cố định?",
+      "question_vn": "7 bước theo thứ tự vì:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Truyền thống",
+          "text_translation": "Truyền thống",
+          "is_correct": false,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Mỗi bước cover 1 vùng → bỏ bước = thiếu vùng → vi khuẩn còn",
+          "text_translation": "Mỗi bước cover 1 vùng → bỏ bước = thiếu vùng → vi khuẩn còn",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Cho dễ nhớ",
+          "text_translation": "Cho dễ nhớ",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Theo luật",
+          "text_translation": "Theo luật",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Mỗi bước = 1 vùng tay. Bỏ bước = vùng chưa được làm sạch."
+    },
+    {
+      "id": "q_t03_eisei_kanri_baitap_l4_10",
+      "question_type": "chon_dap_an",
+      "selection_type": "single",
+      "skill_category": "vocab",
+      "level": "N4",
+      "category": "Level 4",
+      "question_jp": "Khi check label thấy có cashew nhưng không ghi cảnh báo:",
+      "question_vn": "Label thiếu cảnh báo cashew:",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Báo cáo cho buchou ngay (vi phạm luật mới 2026)",
+          "text_translation": "Báo cáo cho buchou ngay (vi phạm luật mới 2026)",
+          "is_correct": true,
+          "order": 0
+        },
+        {
+          "id": "B",
+          "text": "Thêm bút bi tự ghi vào",
+          "text_translation": "Thêm bút bi tự ghi vào",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "id": "C",
+          "text": "Bỏ qua",
+          "text_translation": "Bỏ qua",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "id": "D",
+          "text": "Đợi auditor phát hiện",
+          "text_translation": "Đợi auditor phát hiện",
+          "is_correct": false,
+          "order": 3
+        }
+      ],
+      "explanation": "Cashew là mandatory mới 2026 → báo cáo ngay = chặn recall."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_t03_eisei_kanri_baitap_level1",
+      "set_type": "practice",
+      "name": "T3. Quy tắc vệ sinh thực phẩm — Bài tập Level 1",
+      "description": "Bài tập trắc nghiệm — Level 1: N5",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": null,
+      "question_ids": [
+        "q_t03_eisei_kanri_baitap_l1_01",
+        "q_t03_eisei_kanri_baitap_l1_02",
+        "q_t03_eisei_kanri_baitap_l1_03",
+        "q_t03_eisei_kanri_baitap_l1_04",
+        "q_t03_eisei_kanri_baitap_l1_05",
+        "q_t03_eisei_kanri_baitap_l1_06",
+        "q_t03_eisei_kanri_baitap_l1_07",
+        "q_t03_eisei_kanri_baitap_l1_08",
+        "q_t03_eisei_kanri_baitap_l1_09",
+        "q_t03_eisei_kanri_baitap_l1_10"
+      ]
+    },
+    {
+      "set_id": "set_t03_eisei_kanri_baitap_level2",
+      "set_type": "practice",
+      "name": "T3. Quy tắc vệ sinh thực phẩm — Bài tập Level 2",
+      "description": "Bài tập trắc nghiệm — Level 2: N5",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": null,
+      "question_ids": [
+        "q_t03_eisei_kanri_baitap_l2_01",
+        "q_t03_eisei_kanri_baitap_l2_02",
+        "q_t03_eisei_kanri_baitap_l2_03",
+        "q_t03_eisei_kanri_baitap_l2_04",
+        "q_t03_eisei_kanri_baitap_l2_05",
+        "q_t03_eisei_kanri_baitap_l2_06",
+        "q_t03_eisei_kanri_baitap_l2_07",
+        "q_t03_eisei_kanri_baitap_l2_08",
+        "q_t03_eisei_kanri_baitap_l2_09",
+        "q_t03_eisei_kanri_baitap_l2_10"
+      ]
+    },
+    {
+      "set_id": "set_t03_eisei_kanri_baitap_level3",
+      "set_type": "practice",
+      "name": "T3. Quy tắc vệ sinh thực phẩm — Bài tập Level 3",
+      "description": "Bài tập trắc nghiệm — Level 3: N4",
+      "card_count": 10,
+      "module_position": 3,
+      "reading_passage_ref": null,
+      "question_ids": [
+        "q_t03_eisei_kanri_baitap_l3_01",
+        "q_t03_eisei_kanri_baitap_l3_02",
+        "q_t03_eisei_kanri_baitap_l3_03",
+        "q_t03_eisei_kanri_baitap_l3_04",
+        "q_t03_eisei_kanri_baitap_l3_05",
+        "q_t03_eisei_kanri_baitap_l3_06",
+        "q_t03_eisei_kanri_baitap_l3_07",
+        "q_t03_eisei_kanri_baitap_l3_08",
+        "q_t03_eisei_kanri_baitap_l3_09",
+        "q_t03_eisei_kanri_baitap_l3_10"
+      ]
+    },
+    {
+      "set_id": "set_t03_eisei_kanri_baitap_level4",
+      "set_type": "practice",
+      "name": "T3. Quy tắc vệ sinh thực phẩm — Bài tập Level 4",
+      "description": "Bài tập trắc nghiệm — Level 4: N4",
+      "card_count": 10,
+      "module_position": 4,
+      "reading_passage_ref": null,
+      "question_ids": [
+        "q_t03_eisei_kanri_baitap_l4_01",
+        "q_t03_eisei_kanri_baitap_l4_02",
+        "q_t03_eisei_kanri_baitap_l4_03",
+        "q_t03_eisei_kanri_baitap_l4_04",
+        "q_t03_eisei_kanri_baitap_l4_05",
+        "q_t03_eisei_kanri_baitap_l4_06",
+        "q_t03_eisei_kanri_baitap_l4_07",
+        "q_t03_eisei_kanri_baitap_l4_08",
+        "q_t03_eisei_kanri_baitap_l4_09",
+        "q_t03_eisei_kanri_baitap_l4_10"
+      ]
+    }
+  ]
+}
