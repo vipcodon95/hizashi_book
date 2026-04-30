@@ -1,0 +1,442 @@
+[
+  {
+    "id": "R_0312",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "夏の海",
+    "title_vi": "Biển mùa hè",
+    "topic": "nature",
+    "subtopic": "biển mùa hè",
+    "tags": ["から～にかけて", "ば～ほど", "らしい"],
+    "grammar_used": ["～から～にかけて", "～ば～ほど", "～らしい"],
+    "sentence_count": 13,
+    "text": "毎年七月から八月にかけて、私は家族と一緒に近くの海へ出かける。日本の夏らしい青い空と白い雲が広がって、見ているだけで心が軽くなる。海は南へ行けば行くほど水がきれいになると言われているらしい。今年は朝早くから昼過ぎにかけて泳いだので、肌がすっかり日に焼けた。波の音は静かに聞けば聞くほど、不思議と気持ちが落ち着いてくる。砂浜では、子どもらしい笑い声があちこちから聞こえてきて、夏の景色が一気に明るくなる。ビーチパラソルの下でかき氷を食べると、いかにも夏らしい味がして満足だ。地元の人によると、七月の中ごろから八月の終わりにかけてが一番にぎやかなシーズンらしい。海の家のスタッフの話では、日が長ければ長いほどお客さんが遅くまで残るそうだ。夕方になると、空が赤からオレンジにかけて少しずつ色を変えていく。海に沈む太陽は、見れば見るほど美しくて、写真を撮る手が止まらなかった。家族みんなが「来年もまた来たいね」と言っていて、私もその言葉らしい気持ちを共有した。夏の海は、過ごせば過ごすほど忘れられない思い出を残してくれる場所だと感じた。",
+    "translation": "Hằng năm từ tháng bảy đến tháng tám, tôi cùng gia đình ra biển gần nhà. Bầu trời xanh và mây trắng rất đúng kiểu mùa hè Nhật Bản trải rộng, chỉ nhìn thôi cũng thấy lòng nhẹ nhõm. Nghe nói biển càng đi về phía nam thì nước càng trong. Năm nay tôi bơi từ sáng sớm đến quá trưa nên da cháy nắng hoàn toàn. Tiếng sóng càng lặng nghe thì tâm trạng càng dịu lại một cách kỳ lạ. Trên bãi cát, tiếng cười rất đúng kiểu trẻ con vọng đến từ khắp nơi, làm cảnh mùa hè bừng sáng hẳn lên. Ăn đá bào dưới ô che bãi biển có vị rất đúng kiểu mùa hè và rất thoả mãn. Theo người dân địa phương, từ giữa tháng bảy đến cuối tháng tám nghe nói là mùa nhộn nhịp nhất. Theo lời nhân viên quán bãi biển, ngày càng dài thì khách càng ở lại muộn. Đến chiều tối, bầu trời dần đổi màu từ đỏ sang cam. Mặt trời lặn xuống biển càng nhìn càng đẹp, tôi không thể dừng tay chụp ảnh. Cả gia đình đều nói 'sang năm lại đến nữa nhé', và tôi cũng chia sẻ cảm giác rất đúng với câu nói đó. Tôi cảm thấy biển mùa hè là nơi càng ở lâu càng để lại những kỷ niệm khó quên.",
+    "vocabulary": [
+      {"word": "出かける", "reading": "でかける", "meaning": "đi ra ngoài, đi tới"},
+      {"word": "広がる", "reading": "ひろがる", "meaning": "trải rộng, lan ra"},
+      {"word": "日に焼ける", "reading": "ひにやける", "meaning": "bị cháy nắng, sạm da"},
+      {"word": "落ち着く", "reading": "おちつく", "meaning": "bình tĩnh, dịu lại"},
+      {"word": "砂浜", "reading": "すなはま", "meaning": "bãi cát"},
+      {"word": "景色", "reading": "けしき", "meaning": "phong cảnh"},
+      {"word": "かき氷", "reading": "かきごおり", "meaning": "đá bào"},
+      {"word": "地元", "reading": "じもと", "meaning": "địa phương, vùng quê"},
+      {"word": "海の家", "reading": "うみのいえ", "meaning": "quán bãi biển"},
+      {"word": "沈む", "reading": "しずむ", "meaning": "lặn, chìm"},
+      {"word": "思い出", "reading": "おもいで", "meaning": "kỷ niệm"}
+    ],
+    "process": [
+      {
+        "sentence": "毎年七月から八月にかけて、私は家族と一緒に近くの海へ出かける。",
+        "chunks": "毎年七月から八月にかけて / 私は家族と一緒に / 近くの海へ出かける",
+        "guide": "毎年 = mỗi năm → 七月から八月にかけて → ～から～にかけて = 'từ ~ đến ~' phạm vi thời gian rộng, không xác định ranh giới rõ → 私は家族と一緒に = tôi cùng gia đình → 近くの海へ出かける = đi tới biển gần đó → 🔒 Đóng gói: [tháng 7→8 → đi biển cùng gia đình]",
+        "translation": "Hằng năm từ tháng bảy đến tháng tám, tôi cùng gia đình ra biển gần nhà."
+      },
+      {
+        "sentence": "日本の夏らしい青い空と白い雲が広がって、見ているだけで心が軽くなる。",
+        "chunks": "日本の夏らしい青い空と白い雲が / 広がって / 見ているだけで心が軽くなる",
+        "guide": "日本の夏らしい → ～らしい = 'đúng kiểu, đặc trưng' → 'đúng kiểu mùa hè JP' → 青い空と白い雲 = trời xanh mây trắng → 広がって = trải rộng → 見ているだけで = chỉ cần nhìn thôi → 心が軽くなる = lòng nhẹ nhõm → 🔒 Đóng gói: [trời mây đặc trưng hè JP → nhìn → nhẹ lòng]",
+        "translation": "Bầu trời xanh và mây trắng rất đúng kiểu mùa hè Nhật Bản trải rộng, chỉ nhìn thôi cũng thấy lòng nhẹ nhõm."
+      },
+      {
+        "sentence": "海は南へ行けば行くほど水がきれいになると言われているらしい。",
+        "chunks": "海は / 南へ行けば行くほど / 水がきれいになると言われているらしい",
+        "guide": "海は → chủ đề biển → 南へ行けば行くほど → ～ば～ほど = 'càng ~ càng ~' → 'càng đi về phía nam càng...' → 水がきれいになる = nước trong hơn → と言われている = được nói rằng → らしい → ～らしい = 'nghe nói' phỏng đoán có căn cứ → 🔒 Đóng gói: [đi nam → nước càng trong → nghe nói vậy]",
+        "translation": "Nghe nói biển càng đi về phía nam thì nước càng trong."
+      },
+      {
+        "sentence": "今年は朝早くから昼過ぎにかけて泳いだので、肌がすっかり日に焼けた。",
+        "chunks": "今年は / 朝早くから昼過ぎにかけて / 泳いだので / 肌がすっかり日に焼けた",
+        "guide": "今年は → chủ đề năm nay → 朝早くから昼過ぎにかけて → ～から～にかけて lần thứ hai → phạm vi thời gian sáng sớm→quá trưa → 泳いだ = đã bơi → ので lý do → 肌がすっかり日に焼けた = da cháy nắng hoàn toàn → 🔒 Đóng gói: [bơi sáng→trưa → da cháy nắng]",
+        "translation": "Năm nay tôi bơi từ sáng sớm đến quá trưa nên da cháy nắng hoàn toàn."
+      },
+      {
+        "sentence": "波の音は静かに聞けば聞くほど、不思議と気持ちが落ち着いてくる。",
+        "chunks": "波の音は / 静かに聞けば聞くほど / 不思議と気持ちが落ち着いてくる",
+        "guide": "波の音は → chủ đề tiếng sóng → 静かに聞けば聞くほど → ～ば～ほど lần thứ hai → 'càng lặng nghe càng...' → 不思議と = một cách kỳ lạ → 気持ちが落ち着いてくる = tâm trạng dần dịu lại → てくる = dần dần → 🔒 Đóng gói: [lặng nghe sóng → tâm dịu lại từ từ]",
+        "translation": "Tiếng sóng càng lặng nghe thì tâm trạng càng dịu lại một cách kỳ lạ."
+      },
+      {
+        "sentence": "砂浜では、子どもらしい笑い声があちこちから聞こえてきて、夏の景色が一気に明るくなる。",
+        "chunks": "砂浜では / 子どもらしい笑い声が / あちこちから聞こえてきて / 夏の景色が一気に明るくなる",
+        "guide": "砂浜では → bối cảnh bãi cát → 子どもらしい → ～らしい lần thứ hai → 'đúng kiểu trẻ con, rất trẻ con' → 笑い声 = tiếng cười → あちこちから聞こえてきて = vọng đến từ nhiều nơi → 一気に明るくなる = bừng sáng hẳn → 🔒 Đóng gói: [tiếng cười rất trẻ con → khắp nơi → cảnh sáng lên]",
+        "translation": "Trên bãi cát, tiếng cười rất đúng kiểu trẻ con vọng đến từ khắp nơi, làm cảnh mùa hè bừng sáng hẳn lên."
+      },
+      {
+        "sentence": "ビーチパラソルの下でかき氷を食べると、いかにも夏らしい味がして満足だ。",
+        "chunks": "ビーチパラソルの下で / かき氷を食べると / いかにも夏らしい味がして / 満足だ",
+        "guide": "ビーチパラソルの下で = dưới ô bãi biển → かき氷を食べると → と điều kiện 'mỗi khi' → いかにも夏らしい → ～らしい lần thứ ba → いかにも nhấn mạnh 'đúng chất, đúng kiểu' → 味がして = có vị → 満足だ = thoả mãn → 🔒 Đóng gói: [đá bào dưới ô → vị rất đúng hè → vui]",
+        "translation": "Ăn đá bào dưới ô che bãi biển có vị rất đúng kiểu mùa hè và rất thoả mãn."
+      },
+      {
+        "sentence": "地元の人によると、七月の中ごろから八月の終わりにかけてが一番にぎやかなシーズンらしい。",
+        "chunks": "地元の人によると / 七月の中ごろから八月の終わりにかけてが / 一番にぎやかなシーズンらしい",
+        "guide": "地元の人によると = theo người địa phương → 七月の中ごろから八月の終わりにかけて → ～から～にかけて lần thứ ba → giữa tháng 7→cuối tháng 8 → が chủ ngữ → 一番にぎやかなシーズン = mùa nhộn nhịp nhất → らしい → ～らしい lần thứ tư = 'nghe nói' → 🔒 Đóng gói: [giữa T7→cuối T8 → mùa cao điểm theo lời người địa phương]",
+        "translation": "Theo người dân địa phương, từ giữa tháng bảy đến cuối tháng tám nghe nói là mùa nhộn nhịp nhất."
+      },
+      {
+        "sentence": "海の家のスタッフの話では、日が長ければ長いほどお客さんが遅くまで残るそうだ。",
+        "chunks": "海の家のスタッフの話では / 日が長ければ長いほど / お客さんが遅くまで残るそうだ",
+        "guide": "海の家のスタッフの話では = theo lời nhân viên quán bãi biển → 日が長ければ長いほど → ～ば～ほど lần thứ ba → 'ngày càng dài thì càng...' → お客さんが遅くまで残る = khách ở lại muộn → そうだ truyền tin nghe được → 🔒 Đóng gói: [ngày dài → khách ở muộn]",
+        "translation": "Theo lời nhân viên quán bãi biển, ngày càng dài thì khách càng ở lại muộn."
+      },
+      {
+        "sentence": "夕方になると、空が赤からオレンジにかけて少しずつ色を変えていく。",
+        "chunks": "夕方になると / 空が赤からオレンジにかけて / 少しずつ色を変えていく",
+        "guide": "夕方になると → と điều kiện 'cứ đến chiều' → 空が赤からオレンジにかけて → ～から～にかけて lần thứ tư → phạm vi màu sắc liên tục → 少しずつ色を変えていく = đổi màu dần → ていく hướng diễn tiến → 🔒 Đóng gói: [chiều → trời đổi đỏ→cam dần]",
+        "translation": "Đến chiều tối, bầu trời dần đổi màu từ đỏ sang cam."
+      },
+      {
+        "sentence": "海に沈む太陽は、見れば見るほど美しくて、写真を撮る手が止まらなかった。",
+        "chunks": "海に沈む太陽は / 見れば見るほど美しくて / 写真を撮る手が止まらなかった",
+        "guide": "海に沈む太陽は → chủ đề mặt trời lặn xuống biển → 見れば見るほど → ～ば～ほど lần thứ tư → 'càng nhìn càng...' → 美しくて = đẹp + nối → 写真を撮る手が止まらなかった = tay không ngừng chụp → 🔒 Đóng gói: [mặt trời lặn → càng nhìn càng đẹp → chụp không ngừng]",
+        "translation": "Mặt trời lặn xuống biển càng nhìn càng đẹp, tôi không thể dừng tay chụp ảnh."
+      },
+      {
+        "sentence": "家族みんなが「来年もまた来たいね」と言っていて、私もその言葉らしい気持ちを共有した。",
+        "chunks": "家族みんなが / 「来年もまた来たいね」と言っていて / 私もその言葉らしい気持ちを共有した",
+        "guide": "家族みんなが = cả nhà → 「来年もまた来たいね」と言っていて → と trích dẫn → 私も = tôi cũng → その言葉らしい → ～らしい lần thứ năm → 'đúng với câu nói đó' → 気持ちを共有した = chia sẻ cảm giác → 🔒 Đóng gói: [cả nhà nói muốn quay lại → tôi cũng cảm giác như vậy]",
+        "translation": "Cả gia đình đều nói 'sang năm lại đến nữa nhé', và tôi cũng chia sẻ cảm giác rất đúng với câu nói đó."
+      },
+      {
+        "sentence": "夏の海は、過ごせば過ごすほど忘れられない思い出を残してくれる場所だと感じた。",
+        "chunks": "夏の海は / 過ごせば過ごすほど / 忘れられない思い出を残してくれる場所だと感じた",
+        "guide": "夏の海は → chủ đề biển mùa hè → 過ごせば過ごすほど → ～ば～ほど lần thứ năm → 'càng ở càng...' → 忘れられない思い出 = kỷ niệm không quên → 残してくれる = để lại cho mình → 場所だと感じた = cảm thấy là nơi → 🔒 Đóng gói: [biển hè → càng ở càng nhiều kỷ niệm khó quên]",
+        "translation": "Tôi cảm thấy biển mùa hè là nơi càng ở lâu càng để lại những kỷ niệm khó quên."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0312_Q1",
+        "question": "筆者は今年、いつからいつまで泳ぎましたか。",
+        "question_vi": "Năm nay tác giả đã bơi từ khi nào đến khi nào?",
+        "answers": [
+          {"text": "夜から朝にかけて泳いだ。", "text_vi": "Bơi từ tối đến sáng.", "is_correct": false},
+          {"text": "朝早くから昼過ぎにかけて泳いだ。", "text_vi": "Bơi từ sáng sớm đến quá trưa.", "is_correct": true},
+          {"text": "昼から夕方にかけて泳いだ。", "text_vi": "Bơi từ trưa đến chiều tối.", "is_correct": false},
+          {"text": "夕方から夜にかけて泳いだ。", "text_vi": "Bơi từ chiều tối đến đêm.", "is_correct": false}
+        ],
+        "explanation": "Câu 4 nói rõ 「今年は朝早くから昼過ぎにかけて泳いだので、肌がすっかり日に焼けた」→ ～から～にかけて = từ ~ đến ~ → phạm vi thời gian sáng sớm đến quá trưa. Đây là sự thật trực tiếp."
+      },
+      {
+        "id": "R_0312_Q2",
+        "question": "地元の人によると、海が一番にぎやかな時期はいつですか。",
+        "question_vi": "Theo người địa phương, mùa biển nhộn nhịp nhất là khi nào?",
+        "answers": [
+          {"text": "六月のはじめから七月のはじめにかけて。", "text_vi": "Từ đầu tháng sáu đến đầu tháng bảy.", "is_correct": false},
+          {"text": "七月の中ごろから八月の終わりにかけて。", "text_vi": "Từ giữa tháng bảy đến cuối tháng tám.", "is_correct": true},
+          {"text": "八月から九月にかけて。", "text_vi": "Từ tháng tám đến tháng chín.", "is_correct": false},
+          {"text": "九月から十月にかけて。", "text_vi": "Từ tháng chín đến tháng mười.", "is_correct": false}
+        ],
+        "explanation": "Câu 8 nói rõ 「地元の人によると、七月の中ごろから八月の終わりにかけてが一番にぎやかなシーズンらしい」→ ～から～にかけて + らしい = từ ~ đến ~ + nghe nói → phạm vi giữa T7→cuối T8 là mùa cao điểm."
+      },
+      {
+        "id": "R_0312_Q3",
+        "question": "筆者は夏の海についてどう感じていますか。",
+        "question_vi": "Tác giả cảm thấy thế nào về biển mùa hè?",
+        "answers": [
+          {"text": "暑くて疲れるので、もう行きたくない。", "text_vi": "Vì nóng và mệt nên không muốn đi nữa.", "is_correct": false},
+          {"text": "過ごせば過ごすほど忘れられない思い出を残してくれる場所だと感じている。", "text_vi": "Cảm thấy là nơi càng ở lâu càng để lại những kỷ niệm khó quên.", "is_correct": true},
+          {"text": "人が多くて、行く意味がないと感じている。", "text_vi": "Cảm thấy đông người, không có ý nghĩa khi đi.", "is_correct": false},
+          {"text": "南の海より北の海の方が好きだと感じている。", "text_vi": "Cảm thấy thích biển phía bắc hơn biển phía nam.", "is_correct": false}
+        ],
+        "explanation": "Câu 13 trực tiếp kết luận 「夏の海は、過ごせば過ごすほど忘れられない思い出を残してくれる場所だと感じた」→ ～ば～ほど = càng ~ càng ~ → tác giả cảm thấy biển hè để lại kỷ niệm khó quên. Câu 12 cũng cho thấy cả nhà muốn quay lại."
+      }
+    ]
+  },
+  {
+    "id": "R_0313",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "水分補給の大切さ",
+    "title_vi": "Tầm quan trọng của việc bổ sung nước",
+    "topic": "health",
+    "subtopic": "uống đủ nước",
+    "tags": ["おそれがある", "がち", "ように"],
+    "grammar_used": ["～おそれがある", "～がち", "～ように"],
+    "sentence_count": 13,
+    "text": "夏になると、私たちは知らないうちに体の水分が減って、脱水症状を起こすおそれがある。特に高齢者は、のどの渇きを感じにくく、水を飲み忘れがちだと言われている。医者は「気がついたときには遅いおそれがあるので、こまめに水を飲むようにしてください」と話していた。若い人もエアコンの中にいると、汗をかかないので大丈夫だと考えがちだが、それは大きな間違いだ。室内でも乾燥して、頭痛や疲れを感じるおそれがあるそうだ。私の母も忙しい日には水を飲むのを忘れがちで、夕方になると体がだるくなるとよく言う。専門家は、一日に少なくとも一・五リットルの水を取るようにすすめている。コーヒーやお茶ばかりではなく、できるだけ水そのものを選ぶようにしたい。子どもは遊びに夢中で水分補給を後回しにしがちなので、親が声をかけることが大切だ。学校の先生も「休み時間ごとに水を飲むようにしてください」と毎日呼びかけているらしい。スポーツの後にいきなり冷たい水を一気に飲むと、お腹をこわすおそれがあるから、少しずつ飲むのがいい。水分が足りないと集中力も下がりがちで、勉強や仕事の効率にも影響する。私もこれからは、毎日決まった時間に水を飲むようにして、夏を元気に過ごしたい。",
+    "translation": "Vào mùa hè, chúng ta có nguy cơ bị giảm lượng nước trong cơ thể mà không hề biết và gây ra triệu chứng mất nước. Đặc biệt người cao tuổi thường khó cảm nhận khát và hay quên uống nước. Bác sĩ nói rằng 'khi nhận ra thì có thể đã muộn, nên hãy uống nước thường xuyên'. Người trẻ khi ở trong điều hoà cũng hay nghĩ rằng không đổ mồ hôi nên không sao, nhưng đó là một sai lầm lớn. Nghe nói ngay cả ở trong nhà cũng có thể bị khô và có nguy cơ đau đầu, mệt mỏi. Mẹ tôi vào những ngày bận cũng hay quên uống nước, và thường nói đến chiều tối thì cơ thể mệt mỏi. Chuyên gia khuyên uống ít nhất một phẩy năm lít nước mỗi ngày. Không chỉ uống cà phê hay trà, nên cố gắng chọn chính bản thân nước càng nhiều càng tốt. Trẻ em mải chơi nên hay để việc bổ sung nước lại sau, vì vậy việc bố mẹ nhắc nhở rất quan trọng. Nghe nói thầy cô ở trường cũng kêu gọi mỗi ngày 'mỗi giờ ra chơi hãy uống nước'. Sau khi vận động mà uống ngay nước lạnh một hơi thì có nguy cơ đau bụng, nên uống từ từ là tốt nhất. Khi thiếu nước thì khả năng tập trung cũng dễ bị giảm, ảnh hưởng đến hiệu quả học tập và công việc. Từ giờ tôi cũng muốn uống nước vào những giờ cố định trong ngày để trải qua mùa hè một cách khoẻ mạnh.",
+    "vocabulary": [
+      {"word": "水分", "reading": "すいぶん", "meaning": "lượng nước, độ ẩm"},
+      {"word": "脱水症状", "reading": "だっすいしょうじょう", "meaning": "triệu chứng mất nước"},
+      {"word": "高齢者", "reading": "こうれいしゃ", "meaning": "người cao tuổi"},
+      {"word": "渇き", "reading": "かわき", "meaning": "cảm giác khát, sự khô"},
+      {"word": "こまめに", "reading": "こまめに", "meaning": "thường xuyên, chu đáo"},
+      {"word": "乾燥", "reading": "かんそう", "meaning": "khô, hanh"},
+      {"word": "頭痛", "reading": "ずつう", "meaning": "đau đầu"},
+      {"word": "専門家", "reading": "せんもんか", "meaning": "chuyên gia"},
+      {"word": "後回し", "reading": "あとまわし", "meaning": "để lại sau, hoãn"},
+      {"word": "呼びかける", "reading": "よびかける", "meaning": "kêu gọi, hô hào"},
+      {"word": "集中力", "reading": "しゅうちゅうりょく", "meaning": "khả năng tập trung"},
+      {"word": "効率", "reading": "こうりつ", "meaning": "hiệu quả, năng suất"}
+    ],
+    "process": [
+      {
+        "sentence": "夏になると、私たちは知らないうちに体の水分が減って、脱水症状を起こすおそれがある。",
+        "chunks": "夏になると / 私たちは知らないうちに / 体の水分が減って / 脱水症状を起こすおそれがある",
+        "guide": "夏になると → と điều kiện 'cứ vào hè' → 私たちは知らないうちに = mà không biết → 体の水分が減って = nước trong cơ thể giảm → 脱水症状を起こすおそれがある → ～おそれがある = 'có nguy cơ' (cảnh báo điều xấu) → 🔒 Đóng gói: [hè → nước giảm âm thầm → có thể mất nước]",
+        "translation": "Vào mùa hè, chúng ta có nguy cơ bị giảm lượng nước trong cơ thể mà không hề biết và gây ra triệu chứng mất nước."
+      },
+      {
+        "sentence": "特に高齢者は、のどの渇きを感じにくく、水を飲み忘れがちだと言われている。",
+        "chunks": "特に高齢者は / のどの渇きを感じにくく / 水を飲み忘れがちだと言われている",
+        "guide": "特に高齢者は → chủ đề người già → のどの渇きを感じにくく = khó cảm nhận khát → くく dạng nối → 水を飲み忘れがち → ～がち = 'hay, thường' (xu hướng tiêu cực) → 飲み忘れがち = hay quên uống → と言われている = được nói rằng → 🔒 Đóng gói: [người già khó thấy khát → hay quên uống]",
+        "translation": "Đặc biệt người cao tuổi thường khó cảm nhận khát và hay quên uống nước."
+      },
+      {
+        "sentence": "医者は「気がついたときには遅いおそれがあるので、こまめに水を飲むようにしてください」と話していた。",
+        "chunks": "医者は / 「気がついたときには遅いおそれがあるので / こまめに水を飲むようにしてください」と話していた",
+        "guide": "医者は → chủ đề bác sĩ → 「...」と trong trích dẫn → 気がついたときには遅いおそれがある → ～おそれがある lần thứ hai → 'có nguy cơ đã muộn' → ので lý do → こまめに水を飲むようにしてください → ～ようにする = 'cố làm sao cho, để mà' → 'hãy cố uống thường xuyên' → 🔒 Đóng gói: [bác sĩ: nhận ra muộn → uống thường xuyên]",
+        "translation": "Bác sĩ nói rằng 'khi nhận ra thì có thể đã muộn, nên hãy uống nước thường xuyên'."
+      },
+      {
+        "sentence": "若い人もエアコンの中にいると、汗をかかないので大丈夫だと考えがちだが、それは大きな間違いだ。",
+        "chunks": "若い人もエアコンの中にいると / 汗をかかないので大丈夫だと / 考えがちだが / それは大きな間違いだ",
+        "guide": "若い人も → người trẻ cũng → エアコンの中にいると = ở trong điều hoà thì → 汗をかかないので大丈夫だと = vì không đổ mồ hôi nên ổn → 考えがち → ～がち lần thứ hai → 'hay nghĩ' → が tương phản → それは大きな間違いだ = đó là sai lầm lớn → 🔒 Đóng gói: [trẻ ở điều hoà → hay nghĩ ổn → nhưng sai]",
+        "translation": "Người trẻ khi ở trong điều hoà cũng hay nghĩ rằng không đổ mồ hôi nên không sao, nhưng đó là một sai lầm lớn."
+      },
+      {
+        "sentence": "室内でも乾燥して、頭痛や疲れを感じるおそれがあるそうだ。",
+        "chunks": "室内でも乾燥して / 頭痛や疲れを感じる / おそれがあるそうだ",
+        "guide": "室内でも = ngay cả trong nhà → 乾燥して = bị khô + nối → 頭痛や疲れを感じる = thấy đau đầu/mệt → や liệt kê không đầy đủ → おそれがある → ～おそれがある lần thứ ba → そうだ truyền tin nghe được → 🔒 Đóng gói: [trong nhà cũng khô → có thể đau đầu/mệt]",
+        "translation": "Nghe nói ngay cả ở trong nhà cũng có thể bị khô và có nguy cơ đau đầu, mệt mỏi."
+      },
+      {
+        "sentence": "私の母も忙しい日には水を飲むのを忘れがちで、夕方になると体がだるくなるとよく言う。",
+        "chunks": "私の母も / 忙しい日には水を飲むのを忘れがちで / 夕方になると体がだるくなるとよく言う",
+        "guide": "私の母も → mẹ tôi cũng → 忙しい日には = vào ngày bận → 水を飲むのを忘れがち → ～がち lần thứ ba → 'hay quên uống' → で nối → 夕方になると = đến chiều thì → 体がだるくなる = cơ thể uể oải → とよく言う = thường nói rằng → 🔒 Đóng gói: [mẹ ngày bận → hay quên uống → chiều mệt]",
+        "translation": "Mẹ tôi vào những ngày bận cũng hay quên uống nước, và thường nói đến chiều tối thì cơ thể mệt mỏi."
+      },
+      {
+        "sentence": "専門家は、一日に少なくとも一・五リットルの水を取るようにすすめている。",
+        "chunks": "専門家は / 一日に少なくとも一・五リットルの水を / 取るようにすすめている",
+        "guide": "専門家は → chủ đề chuyên gia → 一日に少なくとも一・五リットルの水を = ít nhất 1.5L mỗi ngày → 取るようにすすめている → ～ようにすすめる = 'khuyên hãy làm sao cho' → ～ように lần thứ hai → 🔒 Đóng gói: [chuyên gia khuyên: uống ≥1.5L/ngày]",
+        "translation": "Chuyên gia khuyên uống ít nhất một phẩy năm lít nước mỗi ngày."
+      },
+      {
+        "sentence": "コーヒーやお茶ばかりではなく、できるだけ水そのものを選ぶようにしたい。",
+        "chunks": "コーヒーやお茶ばかりではなく / できるだけ / 水そのものを選ぶようにしたい",
+        "guide": "コーヒーやお茶ばかりではなく = không chỉ cà phê và trà → ばかり nhấn 'chỉ' → ではなく phủ định → できるだけ = càng nhiều càng tốt → 水そのものを選ぶようにしたい → ～ようにしたい = 'muốn cố gắng làm sao cho' → ～ように lần thứ ba → 🔒 Đóng gói: [không chỉ cà phê/trà → muốn cố chọn nước]",
+        "translation": "Không chỉ uống cà phê hay trà, nên cố gắng chọn chính bản thân nước càng nhiều càng tốt."
+      },
+      {
+        "sentence": "子どもは遊びに夢中で水分補給を後回しにしがちなので、親が声をかけることが大切だ。",
+        "chunks": "子どもは遊びに夢中で / 水分補給を後回しにしがちなので / 親が声をかけることが大切だ",
+        "guide": "子どもは = trẻ em (chủ đề) → 遊びに夢中で = mải chơi → 水分補給を後回しにしがち → ～がち lần thứ tư → 'hay để lại sau việc bổ sung nước' → なので vì vậy → 親が声をかけることが大切 = bố mẹ nhắc rất quan trọng → 🔒 Đóng gói: [trẻ mải chơi → hay quên uống → bố mẹ phải nhắc]",
+        "translation": "Trẻ em mải chơi nên hay để việc bổ sung nước lại sau, vì vậy việc bố mẹ nhắc nhở rất quan trọng."
+      },
+      {
+        "sentence": "学校の先生も「休み時間ごとに水を飲むようにしてください」と毎日呼びかけているらしい。",
+        "chunks": "学校の先生も / 「休み時間ごとに水を飲むようにしてください」と / 毎日呼びかけているらしい",
+        "guide": "学校の先生も = thầy cô cũng → 「休み時間ごとに水を飲むようにしてください」 → trong trích dẫn → ごとに = mỗi → ようにしてください → ～ように lần thứ tư → 'hãy cố làm sao' → と毎日呼びかけている = mỗi ngày kêu gọi → らしい = nghe nói → 🔒 Đóng gói: [thầy cô kêu gọi: mỗi giờ ra chơi uống nước]",
+        "translation": "Nghe nói thầy cô ở trường cũng kêu gọi mỗi ngày 'mỗi giờ ra chơi hãy uống nước'."
+      },
+      {
+        "sentence": "スポーツの後にいきなり冷たい水を一気に飲むと、お腹をこわすおそれがあるから、少しずつ飲むのがいい。",
+        "chunks": "スポーツの後に / いきなり冷たい水を一気に飲むと / お腹をこわすおそれがあるから / 少しずつ飲むのがいい",
+        "guide": "スポーツの後に = sau vận động → いきなり = đột ngột → 一気に飲むと = uống một hơi thì → お腹をこわすおそれがある → ～おそれがある lần thứ tư → 'có nguy cơ đau bụng' → から lý do → 少しずつ飲むのがいい = nên uống từ từ → 🔒 Đóng gói: [sau thể thao → uống lạnh một hơi → có nguy cơ → uống dần]",
+        "translation": "Sau khi vận động mà uống ngay nước lạnh một hơi thì có nguy cơ đau bụng, nên uống từ từ là tốt nhất."
+      },
+      {
+        "sentence": "水分が足りないと集中力も下がりがちで、勉強や仕事の効率にも影響する。",
+        "chunks": "水分が足りないと / 集中力も下がりがちで / 勉強や仕事の効率にも影響する",
+        "guide": "水分が足りないと → と điều kiện 'nếu thiếu nước' → 集中力も下がりがち → ～がち lần thứ năm → 'hay bị giảm' → で nối → 勉強や仕事の効率にも影響する = ảnh hưởng cả hiệu quả học/làm → 🔒 Đóng gói: [thiếu nước → tập trung dễ giảm → ảnh hưởng học/làm]",
+        "translation": "Khi thiếu nước thì khả năng tập trung cũng dễ bị giảm, ảnh hưởng đến hiệu quả học tập và công việc."
+      },
+      {
+        "sentence": "私もこれからは、毎日決まった時間に水を飲むようにして、夏を元気に過ごしたい。",
+        "chunks": "私もこれからは / 毎日決まった時間に水を飲むようにして / 夏を元気に過ごしたい",
+        "guide": "私もこれからは = từ giờ tôi cũng → 毎日決まった時間に水を飲むようにして → ～ようにして lần thứ năm → 'cố gắng để uống nước vào giờ cố định' → 夏を元気に過ごしたい = muốn trải qua hè khoẻ mạnh → 🔒 Đóng gói: [tôi cố uống đúng giờ → muốn hè khoẻ]",
+        "translation": "Từ giờ tôi cũng muốn uống nước vào những giờ cố định trong ngày để trải qua mùa hè một cách khoẻ mạnh."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0313_Q1",
+        "question": "高齢者はなぜ水を飲み忘れがちだと言われていますか。",
+        "question_vi": "Tại sao người cao tuổi được cho là hay quên uống nước?",
+        "answers": [
+          {"text": "水が嫌いだから。", "text_vi": "Vì ghét nước.", "is_correct": false},
+          {"text": "のどの渇きを感じにくいから。", "text_vi": "Vì khó cảm nhận được cảm giác khát.", "is_correct": true},
+          {"text": "水を買うお金がないから。", "text_vi": "Vì không có tiền mua nước.", "is_correct": false},
+          {"text": "医者に飲まないように言われたから。", "text_vi": "Vì bị bác sĩ bảo đừng uống.", "is_correct": false}
+        ],
+        "explanation": "Câu 2 nói rõ 「特に高齢者は、のどの渇きを感じにくく、水を飲み忘れがちだと言われている」→ ～がち = hay/thường + 感じにくい = khó cảm nhận → vì khó thấy khát nên hay quên uống. Đây là sự thật trực tiếp."
+      },
+      {
+        "id": "R_0313_Q2",
+        "question": "スポーツの後に冷たい水を一気に飲むとどうなるおそれがありますか。",
+        "question_vi": "Sau khi vận động mà uống nước lạnh một hơi thì có nguy cơ gì?",
+        "answers": [
+          {"text": "頭が痛くなるおそれがある。", "text_vi": "Có nguy cơ đau đầu.", "is_correct": false},
+          {"text": "お腹をこわすおそれがある。", "text_vi": "Có nguy cơ đau bụng.", "is_correct": true},
+          {"text": "目が悪くなるおそれがある。", "text_vi": "Có nguy cơ hỏng mắt.", "is_correct": false},
+          {"text": "歯が痛くなるおそれがある。", "text_vi": "Có nguy cơ đau răng.", "is_correct": false}
+        ],
+        "explanation": "Câu 11 nói rõ 「スポーツの後にいきなり冷たい水を一気に飲むと、お腹をこわすおそれがある」→ ～おそれがある = có nguy cơ + お腹をこわす = đau bụng → đáp án trực tiếp từ bài."
+      },
+      {
+        "id": "R_0313_Q3",
+        "question": "本文から、筆者は水分補給についてどう考えていますか。",
+        "question_vi": "Từ bài đọc có thể hiểu tác giả nghĩ thế nào về việc bổ sung nước?",
+        "answers": [
+          {"text": "夏でも特に気にしなくていいと考えている。", "text_vi": "Cho rằng dù vào hè cũng không cần đặc biệt để ý.", "is_correct": false},
+          {"text": "毎日決まった時間に水を飲むようにして、健康に過ごすことが大切だと考えている。", "text_vi": "Cho rằng quan trọng là cố uống nước vào giờ cố định mỗi ngày để khoẻ mạnh.", "is_correct": true},
+          {"text": "水よりコーヒーやお茶の方がいいと考えている。", "text_vi": "Cho rằng cà phê và trà tốt hơn nước.", "is_correct": false},
+          {"text": "高齢者だけが気をつければよいと考えている。", "text_vi": "Cho rằng chỉ người cao tuổi cần để ý là đủ.", "is_correct": false}
+        ],
+        "explanation": "Câu 13 kết luận 「私もこれからは、毎日決まった時間に水を飲むようにして、夏を元気に過ごしたい」→ ～ようにする = cố làm sao cho → tác giả muốn duy trì uống nước đúng giờ. Bài cũng nhấn mạnh nhiều đối tượng cần chú ý (người già, trẻ em, người trẻ), nên đáp án 4 (chỉ người già) sai."
+      }
+    ]
+  },
+  {
+    "id": "R_0314",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "高校時代の友達と再会",
+    "title_vi": "Gặp lại bạn thời cấp ba",
+    "topic": "friendship",
+    "subtopic": "lần đầu gặp lại bạn cấp 3",
+    "tags": ["て以来", "って", "たところ"],
+    "grammar_used": ["～て以来", "～って", "～たところ"],
+    "sentence_count": 13,
+    "text": "先週の土曜日、高校を卒業して以来、十年ぶりに親友のユウタと再会した。卒業して以来、お互いに忙しくて、一度も会えていなかったのだ。SNSで「久しぶりに会わない？」ってメッセージが届いて、私はすぐ「行く行く」と返事した。待ち合わせ場所の駅前に行ってみたところ、ユウタはもう先に着いて私を待っていた。「変わったね」って言われたが、彼の方こそずいぶん大人っぽくなっていて驚いた。話を聞いてみたところ、ユウタは今、東京で建築の仕事をしているらしい。「家を設計するのって本当に面白いんだ」って楽しそうに話していた。私が「結婚したの？」って聞いてみたところ、なんと去年結婚したばかりだという。高校を出て以来、ずっと連絡を取っていなかったので、知らないことばかりで本当に驚いた。古い写真を見せてみたところ、ユウタが「これ、覚えてる」って大笑いしてくれた。文化祭の日に二人で作った焼きそばのことや、図書館で勉強した思い出を話して以来、私たちはあっという間に高校生のころに戻った気がした。別れるとき、ユウタが「これからは年に一回は絶対会おうね」って約束してくれた。あの日再会して以来、毎日の生活に少しだけ温かい気持ちが増えたように感じている。",
+    "translation": "Thứ bảy tuần trước, kể từ khi tốt nghiệp cấp ba đến nay, lần đầu tiên sau mười năm tôi gặp lại người bạn thân Yuta. Kể từ khi tốt nghiệp, hai chúng tôi đều bận, một lần cũng chưa gặp được nhau. Trên mạng xã hội có tin nhắn 'lâu rồi không gặp, đi không?' và tôi liền trả lời 'đi đi'. Khi tới điểm hẹn trước nhà ga thì Yuta đã đến trước và đang đợi tôi. Cậu ấy bảo 'cậu thay đổi nhỉ', nhưng chính cậu ấy mới là người đã trông trưởng thành hơn rất nhiều khiến tôi ngạc nhiên. Khi tôi thử hỏi chuyện, hoá ra Yuta hiện đang làm công việc kiến trúc ở Tokyo. Cậu ấy vui vẻ nói rằng 'thiết kế nhà thực sự rất thú vị đấy'. Khi tôi thử hỏi 'cậu lập gia đình chưa', không ngờ cậu ấy bảo mới cưới năm ngoái. Kể từ khi ra trường cấp ba đến nay, tôi đã không liên lạc, nên toàn là chuyện không biết và thực sự rất bất ngờ. Khi tôi thử cho cậu ấy xem ảnh cũ, Yuta cười to bảo 'cái này, vẫn nhớ'. Kể từ khi nói chuyện về món mì xào hai đứa làm trong ngày hội văn hoá và những kỷ niệm học bài ở thư viện, tôi cảm giác trong chốc lát chúng tôi đã quay về thời học sinh cấp ba. Lúc chia tay, Yuta hứa với tôi rằng 'từ nay mỗi năm nhất định gặp một lần nhé'. Kể từ ngày gặp lại hôm đó đến nay, tôi cảm thấy trong cuộc sống mỗi ngày đã có thêm một chút cảm giác ấm áp.",
+    "vocabulary": [
+      {"word": "卒業", "reading": "そつぎょう", "meaning": "tốt nghiệp"},
+      {"word": "親友", "reading": "しんゆう", "meaning": "bạn thân"},
+      {"word": "再会", "reading": "さいかい", "meaning": "gặp lại"},
+      {"word": "返事", "reading": "へんじ", "meaning": "trả lời, hồi đáp"},
+      {"word": "待ち合わせ", "reading": "まちあわせ", "meaning": "hẹn gặp"},
+      {"word": "建築", "reading": "けんちく", "meaning": "kiến trúc"},
+      {"word": "設計", "reading": "せっけい", "meaning": "thiết kế"},
+      {"word": "結婚", "reading": "けっこん", "meaning": "kết hôn"},
+      {"word": "連絡", "reading": "れんらく", "meaning": "liên lạc"},
+      {"word": "文化祭", "reading": "ぶんかさい", "meaning": "lễ hội văn hoá trường"},
+      {"word": "焼きそば", "reading": "やきそば", "meaning": "mì xào kiểu Nhật"},
+      {"word": "約束", "reading": "やくそく", "meaning": "lời hứa"}
+    ],
+    "process": [
+      {
+        "sentence": "先週の土曜日、高校を卒業して以来、十年ぶりに親友のユウタと再会した。",
+        "chunks": "先週の土曜日 / 高校を卒業して以来 / 十年ぶりに / 親友のユウタと再会した",
+        "guide": "先週の土曜日 = thứ bảy tuần trước → 高校を卒業して以来 → ～て以来 = 'kể từ khi ~ đến nay' → mốc trong quá khứ + duy trì đến hiện tại → 十年ぶりに = sau 10 năm → 親友のユウタと再会した = gặp lại bạn thân Yuta → 🔒 Đóng gói: [thứ 7 trước → từ tốt nghiệp đến nay → gặp lại sau 10 năm]",
+        "translation": "Thứ bảy tuần trước, kể từ khi tốt nghiệp cấp ba đến nay, lần đầu tiên sau mười năm tôi gặp lại người bạn thân Yuta."
+      },
+      {
+        "sentence": "卒業して以来、お互いに忙しくて、一度も会えていなかったのだ。",
+        "chunks": "卒業して以来 / お互いに忙しくて / 一度も会えていなかったのだ",
+        "guide": "卒業して以来 → ～て以来 lần thứ hai → 'kể từ khi tốt nghiệp' → お互いに忙しくて = cả hai đều bận → 一度も会えていなかった = một lần cũng chưa gặp được → のだ giải thích → 🔒 Đóng gói: [từ tốt nghiệp → cả hai bận → chưa gặp]",
+        "translation": "Kể từ khi tốt nghiệp, hai chúng tôi đều bận, một lần cũng chưa gặp được nhau."
+      },
+      {
+        "sentence": "SNSで「久しぶりに会わない？」ってメッセージが届いて、私はすぐ「行く行く」と返事した。",
+        "chunks": "SNSで / 「久しぶりに会わない？」って / メッセージが届いて / 私はすぐ「行く行く」と返事した",
+        "guide": "SNSで = trên SNS → 「久しぶりに会わない？」って → ～って = khẩu ngữ trích dẫn (=と) → ý 'rằng, là' → メッセージが届いて = tin nhắn đến + nối → 私はすぐ「行く行く」と返事した = tôi liền trả lời 'đi đi' → 🔒 Đóng gói: [SNS có tin nhắn 'gặp không' → tôi đáp 'đi đi']",
+        "translation": "Trên mạng xã hội có tin nhắn 'lâu rồi không gặp, đi không?' và tôi liền trả lời 'đi đi'."
+      },
+      {
+        "sentence": "待ち合わせ場所の駅前に行ってみたところ、ユウタはもう先に着いて私を待っていた。",
+        "chunks": "待ち合わせ場所の駅前に / 行ってみたところ / ユウタはもう先に着いて / 私を待っていた",
+        "guide": "待ち合わせ場所の駅前に = đến trước nhà ga điểm hẹn → 行ってみたところ → ～たところ = 'khi thử ~ thì' (kết quả phát hiện) → khác たら ở chỗ nhấn 'kết quả bất ngờ tại thời điểm đó' → ユウタはもう先に着いて = Yuta đã đến trước → 私を待っていた = đang đợi tôi → 🔒 Đóng gói: [đến điểm hẹn → thì Yuta đã ở đó]",
+        "translation": "Khi tới điểm hẹn trước nhà ga thì Yuta đã đến trước và đang đợi tôi."
+      },
+      {
+        "sentence": "「変わったね」って言われたが、彼の方こそずいぶん大人っぽくなっていて驚いた。",
+        "chunks": "「変わったね」って言われたが / 彼の方こそ / ずいぶん大人っぽくなっていて驚いた",
+        "guide": "「変わったね」って言われた → ～って lần thứ hai → 'bị nói rằng cậu thay đổi' → が tương phản → 彼の方こそ = chính cậu ấy mới (こそ nhấn mạnh) → ずいぶん大人っぽくなっていて = đã trở nên khá trưởng thành → 驚いた = ngạc nhiên → 🔒 Đóng gói: [cậu ấy nói tôi thay đổi → nhưng chính cậu ấy trưởng thành hơn]",
+        "translation": "Cậu ấy bảo 'cậu thay đổi nhỉ', nhưng chính cậu ấy mới là người đã trông trưởng thành hơn rất nhiều khiến tôi ngạc nhiên."
+      },
+      {
+        "sentence": "話を聞いてみたところ、ユウタは今、東京で建築の仕事をしているらしい。",
+        "chunks": "話を聞いてみたところ / ユウタは今 / 東京で建築の仕事をしているらしい",
+        "guide": "話を聞いてみたところ → ～たところ lần thứ hai → 'khi thử hỏi thì hoá ra' → kết quả phát hiện → ユウタは今 = Yuta hiện tại → 東京で建築の仕事をしている = làm kiến trúc ở Tokyo → らしい = hình như/nghe nói → 🔒 Đóng gói: [hỏi → hoá ra Yuta làm kiến trúc Tokyo]",
+        "translation": "Khi tôi thử hỏi chuyện, hoá ra Yuta hiện đang làm công việc kiến trúc ở Tokyo."
+      },
+      {
+        "sentence": "「家を設計するのって本当に面白いんだ」って楽しそうに話していた。",
+        "chunks": "「家を設計するのって / 本当に面白いんだ」って / 楽しそうに話していた",
+        "guide": "「家を設計するのって → ～って lần thứ ba (trong trích dẫn) ở đây = chủ đề khẩu ngữ (= は) → 'cái việc thiết kế nhà ấy' → 本当に面白いんだ」 = thực sự thú vị → って lần thứ tư = trích dẫn → 楽しそうに話していた = nói có vẻ vui → 🔒 Đóng gói: [Yuta vui kể: thiết kế nhà rất thú vị]",
+        "translation": "Cậu ấy vui vẻ nói rằng 'thiết kế nhà thực sự rất thú vị đấy'."
+      },
+      {
+        "sentence": "私が「結婚したの？」って聞いてみたところ、なんと去年結婚したばかりだという。",
+        "chunks": "私が「結婚したの？」って聞いてみたところ / なんと / 去年結婚したばかりだという",
+        "guide": "私が「結婚したの？」って → ～って lần thứ năm → trích dẫn câu hỏi → 聞いてみたところ → ～たところ lần thứ ba → 'thử hỏi thì' kết quả phát hiện → なんと = không ngờ (nhấn bất ngờ) → 去年結婚したばかりだという = nghe nói mới cưới năm ngoái → 🔒 Đóng gói: [hỏi cưới chưa → bất ngờ: mới cưới năm ngoái]",
+        "translation": "Khi tôi thử hỏi 'cậu lập gia đình chưa', không ngờ cậu ấy bảo mới cưới năm ngoái."
+      },
+      {
+        "sentence": "高校を出て以来、ずっと連絡を取っていなかったので、知らないことばかりで本当に驚いた。",
+        "chunks": "高校を出て以来 / ずっと連絡を取っていなかったので / 知らないことばかりで / 本当に驚いた",
+        "guide": "高校を出て以来 → ～て以来 lần thứ ba → 'từ khi ra trường cấp ba' → ずっと連絡を取っていなかった = mãi không liên lạc → ので lý do → 知らないことばかり = toàn chuyện không biết → ばかり = toàn → 本当に驚いた = thực sự bất ngờ → 🔒 Đóng gói: [từ khi tốt nghiệp không liên lạc → toàn điều mới → ngạc nhiên]",
+        "translation": "Kể từ khi ra trường cấp ba đến nay, tôi đã không liên lạc, nên toàn là chuyện không biết và thực sự rất bất ngờ."
+      },
+      {
+        "sentence": "古い写真を見せてみたところ、ユウタが「これ、覚えてる」って大笑いしてくれた。",
+        "chunks": "古い写真を見せてみたところ / ユウタが「これ、覚えてる」って / 大笑いしてくれた",
+        "guide": "古い写真を見せてみたところ → ～たところ lần thứ tư → 'khi thử cho xem ảnh cũ thì' → ユウタが「これ、覚えてる」って → ～って lần thứ sáu → trích dẫn → 大笑いしてくれた = cười to (cho mình) → くれた lợi ích cho người nói → 🔒 Đóng gói: [cho xem ảnh → Yuta nói 'vẫn nhớ' và cười to]",
+        "translation": "Khi tôi thử cho cậu ấy xem ảnh cũ, Yuta cười to bảo 'cái này, vẫn nhớ'."
+      },
+      {
+        "sentence": "文化祭の日に二人で作った焼きそばのことや、図書館で勉強した思い出を話して以来、私たちはあっという間に高校生のころに戻った気がした。",
+        "chunks": "文化祭の日に二人で作った焼きそばのことや / 図書館で勉強した思い出を話して以来 / 私たちはあっという間に / 高校生のころに戻った気がした",
+        "guide": "文化祭の日に二人で作った焼きそばのこと = chuyện món mì xào hai đứa làm ngày hội VH → や liệt kê không đầy đủ → 図書館で勉強した思い出 = kỷ niệm học ở thư viện → を話して以来 → ～て以来 lần thứ tư → 'từ khi nói về...' → あっという間に = trong chốc lát → 高校生のころに戻った気がした = cảm giác đã quay về thời cấp ba → 🔒 Đóng gói: [kể chuyện cũ → cảm giác như quay về thời học sinh]",
+        "translation": "Kể từ khi nói chuyện về món mì xào hai đứa làm trong ngày hội văn hoá và những kỷ niệm học bài ở thư viện, tôi cảm giác trong chốc lát chúng tôi đã quay về thời học sinh cấp ba."
+      },
+      {
+        "sentence": "別れるとき、ユウタが「これからは年に一回は絶対会おうね」って約束してくれた。",
+        "chunks": "別れるとき / ユウタが「これからは年に一回は絶対会おうね」って / 約束してくれた",
+        "guide": "別れるとき = lúc chia tay → ユウタが「これからは年に一回は絶対会おうね」 → trong trích dẫn → って lần thứ bảy → 約束してくれた = đã hứa (cho tôi) → くれた → 🔒 Đóng gói: [chia tay → Yuta hứa: mỗi năm gặp 1 lần]",
+        "translation": "Lúc chia tay, Yuta hứa với tôi rằng 'từ nay mỗi năm nhất định gặp một lần nhé'."
+      },
+      {
+        "sentence": "あの日再会して以来、毎日の生活に少しだけ温かい気持ちが増えたように感じている。",
+        "chunks": "あの日再会して以来 / 毎日の生活に / 少しだけ温かい気持ちが増えたように感じている",
+        "guide": "あの日再会して以来 → ～て以来 lần thứ năm → 'từ khi gặp lại hôm đó đến nay' → 毎日の生活に = trong cuộc sống mỗi ngày → 少しだけ温かい気持ち = một chút cảm giác ấm áp → 増えたように感じている = cảm thấy đã tăng lên → ように 'có vẻ như' → 🔒 Đóng gói: [từ ngày gặp lại → cuộc sống có thêm hơi ấm]",
+        "translation": "Kể từ ngày gặp lại hôm đó đến nay, tôi cảm thấy trong cuộc sống mỗi ngày đã có thêm một chút cảm giác ấm áp."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0314_Q1",
+        "question": "筆者はユウタと何年ぶりに再会しましたか。",
+        "question_vi": "Tác giả gặp lại Yuta sau bao nhiêu năm?",
+        "answers": [
+          {"text": "五年ぶり。", "text_vi": "Sau năm năm.", "is_correct": false},
+          {"text": "十年ぶり。", "text_vi": "Sau mười năm.", "is_correct": true},
+          {"text": "十五年ぶり。", "text_vi": "Sau mười lăm năm.", "is_correct": false},
+          {"text": "二十年ぶり。", "text_vi": "Sau hai mươi năm.", "is_correct": false}
+        ],
+        "explanation": "Câu 1 nói rõ 「高校を卒業して以来、十年ぶりに親友のユウタと再会した」→ ～て以来 = kể từ khi ~ + 十年ぶりに = sau 10 năm → kể từ tốt nghiệp đến gặp lại là 10 năm. Đây là sự thật trực tiếp."
+      },
+      {
+        "id": "R_0314_Q2",
+        "question": "ユウタについて分かったことは何ですか。",
+        "question_vi": "Điều tác giả biết được về Yuta là gì?",
+        "answers": [
+          {"text": "東京で先生をしていて、まだ独身だ。", "text_vi": "Đang làm giáo viên ở Tokyo và vẫn độc thân.", "is_correct": false},
+          {"text": "東京で建築の仕事をしていて、去年結婚したばかりだ。", "text_vi": "Đang làm kiến trúc ở Tokyo và mới cưới năm ngoái.", "is_correct": true},
+          {"text": "大阪で会社員をしていて、来年結婚する予定だ。", "text_vi": "Đang làm nhân viên công ty ở Osaka và dự định cưới năm sau.", "is_correct": false},
+          {"text": "外国で留学していて、まだ仕事はしていない。", "text_vi": "Đang du học ở nước ngoài và chưa đi làm.", "is_correct": false}
+        ],
+        "explanation": "Câu 6 nói 「ユウタは今、東京で建築の仕事をしているらしい」và câu 8 nói 「去年結婚したばかりだという」→ ～たところ kết hợp tiết lộ thông tin → kiến trúc ở Tokyo + mới cưới năm ngoái. Cả hai đều phải đúng để chọn đáp án này."
+      },
+      {
+        "id": "R_0314_Q3",
+        "question": "再会した後、筆者はどのように感じていますか。",
+        "question_vi": "Sau khi gặp lại, tác giả cảm thấy thế nào?",
+        "answers": [
+          {"text": "もう二度と会いたくないと感じている。", "text_vi": "Cảm thấy không muốn gặp lại nữa.", "is_correct": false},
+          {"text": "毎日の生活に少しだけ温かい気持ちが増えたように感じている。", "text_vi": "Cảm thấy trong cuộc sống mỗi ngày đã có thêm một chút cảm giác ấm áp.", "is_correct": true},
+          {"text": "高校生のころより今の方がつまらないと感じている。", "text_vi": "Cảm thấy bây giờ chán hơn thời cấp ba.", "is_correct": false},
+          {"text": "ユウタに対して悪い気持ちを持つようになったと感じている。", "text_vi": "Cảm thấy bắt đầu có cảm xúc xấu với Yuta.", "is_correct": false}
+        ],
+        "explanation": "Câu 13 trực tiếp kết luận 「あの日再会して以来、毎日の生活に少しだけ温かい気持ちが増えたように感じている」→ ～て以来 = kể từ khi đến nay + ように感じている = cảm thấy có vẻ như → tác giả thấy cuộc sống ấm hơn. Câu 12 cũng có lời hứa năm gặp 1 lần → quan hệ tích cực."
+      }
+    ]
+  }
+]

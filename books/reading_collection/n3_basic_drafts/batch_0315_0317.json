@@ -1,0 +1,444 @@
+[
+  {
+    "id": "R_0315",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "夕方のスーパー",
+    "title_vi": "Siêu thị buổi chiều tối",
+    "topic": "daily",
+    "subtopic": "đi siêu thị buổi tối",
+    "tags": ["ところに", "ことになっている", "みたいだ"],
+    "grammar_used": ["～ところに／へ／を／で", "～ことになっている", "～みたいだ"],
+    "sentence_count": 13,
+    "text": "仕事が終わって、家に帰る前に近所のスーパーに寄った。ちょうど店に着いたところに、雨が急に強く降り出した。このスーパーは夕方六時から値引きシールを貼ることになっているので、その時間を狙って来る人が多いみたいだ。お惣菜売り場をのぞいたところで、店員さんがちょうど半額のシールを貼り始めた。私が唐揚げを取ろうとしたところに、隣のおばあさんが先にかごへ入れた。少し残念だったが、すぐ別の弁当を見つけて買うことにした。レジに並んでいるところへ、近所の田中さんが声をかけてきた。「今日は混んでるね」と田中さんはちょっと疲れているみたいな顔で笑った。このスーパーでは、レジ袋は有料ということになっているので、私はいつもエコバッグを持ってくる。会計をしているところで、突然雷の音が聞こえてびっくりした。外を見ると、空はまるで夜みたいに暗くなっていた。雨がやむのを待つ間、入口のベンチに座って買った肉まんを食べた。夕方のスーパーは、忙しい一日の終わりに少しほっとできる場所みたいだ。",
+    "translation": "Sau khi tan làm, trước khi về nhà tôi ghé qua siêu thị gần nhà. Đúng lúc tôi vừa đến cửa hàng thì trời bỗng đổ mưa to. Siêu thị này theo quy định bắt đầu dán nhãn giảm giá từ sáu giờ chiều, nên có vẻ nhiều người canh đúng giờ đó tới mua. Đúng lúc tôi đang ngó qua quầy đồ ăn sẵn thì nhân viên cũng vừa bắt đầu dán nhãn giảm nửa giá. Đúng lúc tôi định lấy gà chiên thì bà cụ bên cạnh đã bỏ vào giỏ trước. Tuy hơi tiếc nhưng tôi đã tìm được một hộp cơm khác và quyết định mua. Đúng lúc tôi đang xếp hàng ở quầy thu ngân thì bác Tanaka hàng xóm chào tôi. Bác Tanaka cười với vẻ mặt có vẻ hơi mệt và nói 'hôm nay đông nhỉ'. Ở siêu thị này, theo quy định túi nilon là tính phí, nên tôi luôn mang theo túi vải. Đúng lúc tôi đang thanh toán thì bỗng nghe tiếng sấm và tôi giật mình. Nhìn ra ngoài, bầu trời tối sầm như là ban đêm. Trong lúc chờ tạnh mưa, tôi ngồi ở ghế dài cạnh cửa và ăn chiếc bánh bao thịt vừa mua. Siêu thị buổi chiều tối có vẻ là một nơi giúp ta thấy thư thả một chút sau một ngày bận rộn.",
+    "vocabulary": [
+      {"word": "近所", "reading": "きんじょ", "meaning": "gần nhà, hàng xóm"},
+      {"word": "値引き", "reading": "ねびき", "meaning": "giảm giá"},
+      {"word": "貼る", "reading": "はる", "meaning": "dán"},
+      {"word": "惣菜", "reading": "そうざい", "meaning": "đồ ăn sẵn, món phụ"},
+      {"word": "唐揚げ", "reading": "からあげ", "meaning": "gà chiên kiểu Nhật"},
+      {"word": "弁当", "reading": "べんとう", "meaning": "cơm hộp"},
+      {"word": "有料", "reading": "ゆうりょう", "meaning": "có tính phí"},
+      {"word": "会計", "reading": "かいけい", "meaning": "thanh toán"},
+      {"word": "雷", "reading": "かみなり", "meaning": "sấm sét"},
+      {"word": "肉まん", "reading": "にくまん", "meaning": "bánh bao thịt"}
+    ],
+    "process": [
+      {
+        "sentence": "仕事が終わって、家に帰る前に近所のスーパーに寄った。",
+        "chunks": "仕事が終わって / 家に帰る前に / 近所のスーパーに寄った",
+        "guide": "仕事が終わって → て nối tiếp 'sau khi tan làm' → 家に帰る前に → 前に = 'trước khi' → 近所のスーパーに寄った = ghé siêu thị gần nhà → に chỉ điểm đến → 🔒 Đóng gói: [tan làm → ghé siêu thị trước khi về]",
+        "translation": "Sau khi tan làm, trước khi về nhà tôi ghé qua siêu thị gần nhà."
+      },
+      {
+        "sentence": "ちょうど店に着いたところに、雨が急に強く降り出した。",
+        "chunks": "ちょうど店に着いたところに / 雨が急に強く降り出した",
+        "guide": "ちょうど = đúng lúc → 店に着いたところに → ～たところに = 'đúng lúc vừa~thì' → biểu hiện sự kiện khác xảy đến ngay sau → 雨が急に強く降り出した = mưa bỗng đổ to → 出した = bắt đầu → 🔒 Đóng gói: [vừa đến cửa hàng → mưa to ập đến]",
+        "translation": "Đúng lúc tôi vừa đến cửa hàng thì trời bỗng đổ mưa to."
+      },
+      {
+        "sentence": "このスーパーは夕方六時から値引きシールを貼ることになっているので、その時間を狙って来る人が多いみたいだ。",
+        "chunks": "このスーパーは / 夕方六時から値引きシールを貼ることになっているので / その時間を狙って来る人が多いみたいだ",
+        "guide": "このスーパーは → chủ đề → 夕方六時から値引きシールを貼る = 6h chiều dán nhãn giảm → ことになっている → ～ことになっている = 'theo quy định/sắp xếp' (khách quan) → ので nguyên nhân → その時間を狙って = canh đúng giờ → 来る人が多いみたいだ → ～みたいだ = 'có vẻ' (khẩu ngữ phỏng đoán) → 🔒 Đóng gói: [siêu thị quy định 6h giảm giá → có vẻ nhiều người canh giờ]",
+        "translation": "Siêu thị này theo quy định bắt đầu dán nhãn giảm giá từ sáu giờ chiều, nên có vẻ nhiều người canh đúng giờ đó tới mua."
+      },
+      {
+        "sentence": "お惣菜売り場をのぞいたところで、店員さんがちょうど半額のシールを貼り始めた。",
+        "chunks": "お惣菜売り場をのぞいたところで / 店員さんがちょうど / 半額のシールを貼り始めた",
+        "guide": "お惣菜売り場をのぞいた = ngó qua quầy đồ ăn sẵn → ところで → ～たところで = 'đúng lúc đang/vừa~' (biến thể của ところに) → 店員さんが = nhân viên → ちょうど = vừa lúc → 半額のシールを貼り始めた = bắt đầu dán nhãn nửa giá → 🔒 Đóng gói: [ngó quầy → vừa lúc nhân viên dán nhãn giảm 50%]",
+        "translation": "Đúng lúc tôi đang ngó qua quầy đồ ăn sẵn thì nhân viên cũng vừa bắt đầu dán nhãn giảm nửa giá."
+      },
+      {
+        "sentence": "私が唐揚げを取ろうとしたところに、隣のおばあさんが先にかごへ入れた。",
+        "chunks": "私が唐揚げを取ろうとしたところに / 隣のおばあさんが / 先にかごへ入れた",
+        "guide": "私が唐揚げを取ろうとした = tôi định lấy gà chiên → ようとした = vừa định làm → ところに → ～ところに lần thứ hai → đúng lúc đó có việc xen vào → 隣のおばあさんが先にかごへ入れた = bà cụ bên cạnh bỏ vào giỏ trước → 🔒 Đóng gói: [vừa định lấy → bị bà bên cạnh giành mất]",
+        "translation": "Đúng lúc tôi định lấy gà chiên thì bà cụ bên cạnh đã bỏ vào giỏ trước."
+      },
+      {
+        "sentence": "少し残念だったが、すぐ別の弁当を見つけて買うことにした。",
+        "chunks": "少し残念だったが / すぐ別の弁当を見つけて / 買うことにした",
+        "guide": "少し残念だった = hơi tiếc → が tương phản → すぐ別の弁当を見つけて = nhanh chóng tìm hộp cơm khác → 買うことにした → ～ことにした = 'tự quyết định mua' → 🔒 Đóng gói: [tiếc nhưng → tìm cơm khác → quyết định mua]",
+        "translation": "Tuy hơi tiếc nhưng tôi đã tìm được một hộp cơm khác và quyết định mua."
+      },
+      {
+        "sentence": "レジに並んでいるところへ、近所の田中さんが声をかけてきた。",
+        "chunks": "レジに並んでいるところへ / 近所の田中さんが / 声をかけてきた",
+        "guide": "レジに並んでいる = đang xếp hàng quầy thu ngân → ところへ → ～ているところへ = 'đúng lúc đang ~ thì có người đến' (へ = hướng đến) → 田中さんが声をかけてきた = bác Tanaka chào tôi → てきた = đến phía tôi → 🔒 Đóng gói: [đang xếp hàng → bác Tanaka đến chào]",
+        "translation": "Đúng lúc tôi đang xếp hàng ở quầy thu ngân thì bác Tanaka hàng xóm chào tôi."
+      },
+      {
+        "sentence": "「今日は混んでるね」と田中さんはちょっと疲れているみたいな顔で笑った。",
+        "chunks": "「今日は混んでるね」と / 田中さんはちょっと疲れているみたいな顔で / 笑った",
+        "guide": "「今日は混んでるね」と → と trích dẫn → 田中さんは → chủ đề bác Tanaka → ちょっと疲れているみたいな顔 → ～みたいな = 'có vẻ ~' bổ nghĩa cho 顔 → 'vẻ mặt như là đang mệt' → で nối → 笑った = đã cười → 🔒 Đóng gói: [bác Tanaka cười với vẻ có vẻ mệt: 'đông nhỉ']",
+        "translation": "Bác Tanaka cười với vẻ mặt có vẻ hơi mệt và nói 'hôm nay đông nhỉ'."
+      },
+      {
+        "sentence": "このスーパーでは、レジ袋は有料ということになっているので、私はいつもエコバッグを持ってくる。",
+        "chunks": "このスーパーでは / レジ袋は有料ということになっているので / 私はいつもエコバッグを持ってくる",
+        "guide": "このスーパーでは → bối cảnh nơi → レジ袋は有料 = túi nilon có phí → ということになっている → ～ことになっている lần thứ hai → 'theo quy định' (sắc thái thông báo quy định cửa hàng) → ので nguyên nhân → 私はいつもエコバッグを持ってくる = tôi luôn mang túi vải → 🔒 Đóng gói: [siêu thị quy định túi có phí → tôi luôn đem túi riêng]",
+        "translation": "Ở siêu thị này, theo quy định túi nilon là tính phí, nên tôi luôn mang theo túi vải."
+      },
+      {
+        "sentence": "会計をしているところで、突然雷の音が聞こえてびっくりした。",
+        "chunks": "会計をしているところで / 突然雷の音が聞こえて / びっくりした",
+        "guide": "会計をしている = đang thanh toán → ところで → ～ているところで = 'đúng lúc đang ~ thì' → 突然雷の音が聞こえて = bỗng nghe tiếng sấm → て nối → びっくりした = giật mình → 🔒 Đóng gói: [đang trả tiền → nghe sấm → giật mình]",
+        "translation": "Đúng lúc tôi đang thanh toán thì bỗng nghe tiếng sấm và tôi giật mình."
+      },
+      {
+        "sentence": "外を見ると、空はまるで夜みたいに暗くなっていた。",
+        "chunks": "外を見ると / 空はまるで夜みたいに / 暗くなっていた",
+        "guide": "外を見ると → と 'khi nhìn thì' → 空は = trời (chủ đề) → まるで夜みたい → ～みたい lần thứ hai → 'giống như, kiểu như' → まるで kết hợp みたい tạo so sánh mạnh → に dạng trạng từ → 暗くなっていた = đã trở nên tối → 🔒 Đóng gói: [trời tối sầm giống ban đêm]",
+        "translation": "Nhìn ra ngoài, bầu trời tối sầm như là ban đêm."
+      },
+      {
+        "sentence": "雨がやむのを待つ間、入口のベンチに座って買った肉まんを食べた。",
+        "chunks": "雨がやむのを待つ間 / 入口のベンチに座って / 買った肉まんを食べた",
+        "guide": "雨がやむのを待つ間 = trong lúc chờ mưa tạnh → のを danh hóa + 間 'trong khoảng' → 入口のベンチに座って = ngồi ở ghế cạnh cửa → て nối → 買った肉まんを食べた = ăn bánh bao đã mua → 🔒 Đóng gói: [chờ mưa tạnh → ngồi ghế → ăn bánh bao]",
+        "translation": "Trong lúc chờ tạnh mưa, tôi ngồi ở ghế dài cạnh cửa và ăn chiếc bánh bao thịt vừa mua."
+      },
+      {
+        "sentence": "夕方のスーパーは、忙しい一日の終わりに少しほっとできる場所みたいだ。",
+        "chunks": "夕方のスーパーは / 忙しい一日の終わりに / 少しほっとできる場所みたいだ",
+        "guide": "夕方のスーパーは → chủ đề tổng kết → 忙しい一日の終わりに = vào cuối ngày bận → 少しほっとできる場所 = nơi có thể thư thả chút → みたいだ → ～みたいだ lần thứ ba → 'có vẻ là' phỏng đoán cảm nhận chủ quan → 🔒 Đóng gói: [siêu thị chiều tối → có vẻ là nơi thư thả cuối ngày]",
+        "translation": "Siêu thị buổi chiều tối có vẻ là một nơi giúp ta thấy thư thả một chút sau một ngày bận rộn."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0315_Q1",
+        "question": "このスーパーでは、何時から値引きシールを貼ることになっていますか。",
+        "question_vi": "Siêu thị này theo quy định bắt đầu dán nhãn giảm giá từ mấy giờ?",
+        "answers": [
+          {"text": "夕方五時から。", "text_vi": "Từ năm giờ chiều.", "is_correct": false},
+          {"text": "夕方六時から。", "text_vi": "Từ sáu giờ chiều.", "is_correct": true},
+          {"text": "夕方七時から。", "text_vi": "Từ bảy giờ chiều.", "is_correct": false},
+          {"text": "夜八時から。", "text_vi": "Từ tám giờ tối.", "is_correct": false}
+        ],
+        "explanation": "Câu 3 nói rõ 「このスーパーは夕方六時から値引きシールを貼ることになっている」→ ～ことになっている = theo quy định cửa hàng → giờ bắt đầu giảm giá là 6h chiều. Đây là sự thật trực tiếp."
+      },
+      {
+        "id": "R_0315_Q2",
+        "question": "なぜ筆者はいつもエコバッグを持ってくるのですか。",
+        "question_vi": "Tại sao tác giả luôn mang theo túi vải?",
+        "answers": [
+          {"text": "エコバッグの方がきれいだから。", "text_vi": "Vì túi vải đẹp hơn.", "is_correct": false},
+          {"text": "店でエコバッグをくれるから。", "text_vi": "Vì cửa hàng cho túi vải.", "is_correct": false},
+          {"text": "このスーパーではレジ袋が有料ということになっているから。", "text_vi": "Vì ở siêu thị này túi nilon theo quy định là có tính phí.", "is_correct": true},
+          {"text": "母にもらったから。", "text_vi": "Vì được mẹ tặng.", "is_correct": false}
+        ],
+        "explanation": "Câu 9 trực tiếp giải thích 「レジ袋は有料ということになっているので、私はいつもエコバッグを持ってくる」→ ～ことになっている + ので = quy định + nên → lý do mang túi vải là vì túi nilon mất phí theo quy định cửa hàng."
+      },
+      {
+        "id": "R_0315_Q3",
+        "question": "筆者は夕方のスーパーをどんな場所だと感じていますか。",
+        "question_vi": "Tác giả cảm thấy siêu thị buổi chiều tối là nơi như thế nào?",
+        "answers": [
+          {"text": "うるさくて疲れる場所。", "text_vi": "Nơi ồn ào và mệt mỏi.", "is_correct": false},
+          {"text": "忙しい一日の終わりに少しほっとできる場所みたいだ。", "text_vi": "Có vẻ là nơi giúp ta thư thả chút sau một ngày bận rộn.", "is_correct": true},
+          {"text": "値段が高くて困る場所。", "text_vi": "Nơi giá đắt và khó chịu.", "is_correct": false},
+          {"text": "雷が怖くて行きたくない場所。", "text_vi": "Nơi sợ sấm nên không muốn tới.", "is_correct": false}
+        ],
+        "explanation": "Câu 13 kết luận 「夕方のスーパーは、忙しい一日の終わりに少しほっとできる場所みたいだ」→ ～みたいだ = có vẻ → đây là cảm nhận tổng kết của tác giả. Đáp án phản ánh đúng câu kết bài."
+      }
+    ]
+  },
+  {
+    "id": "R_0316",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "初めての茶会",
+    "title_vi": "Buổi trà đạo lần đầu",
+    "topic": "tradition",
+    "subtopic": "tea ceremony lần đầu",
+    "tags": ["にもとづいて", "通り／どおり", "をもとに"],
+    "grammar_used": ["～にもとづいて", "～通り／どおり", "～をもとに"],
+    "sentence_count": 13,
+    "text": "先週、友達に誘われて初めて茶会に参加した。茶道は何百年も前の伝統にもとづいて、今でも丁寧に続けられている文化だ。先生は最初に、千利休の教えにもとづいて、心を落ち着ける大切さについて話してくれた。お辞儀の仕方や歩き方も、すべて昔からの作法にもとづいて決まっているそうだ。先生の説明通りに足を運ぼうとしたが、緊張で何度も間違えてしまった。お茶を出すときも、決まった順序通りに動かなければならないので、頭が真っ白になった。先生は「心配しなくていいですよ。練習をもとに、少しずつ覚えていけばいいんです」と優しく言ってくれた。和菓子は季節の花をもとにデザインされていて、見た目もとても美しかった。お茶の苦味と和菓子の甘さの組み合わせは、まさに先生の説明通りに口の中で広がった。畳の上での座り方も、礼儀作法にもとづいて細かいルールがあった。終わってから、先生はその日の流れをもとに、私に小さなアドバイスをくれた。「今日の経験をもとに、また来てくださいね」という言葉がとても嬉しかった。本に書いてある通りに体験するのではなく、実際にやってみて初めて感じられるものがあると分かった。",
+    "translation": "Tuần trước, tôi được bạn rủ và lần đầu tham gia buổi trà đạo. Trà đạo là văn hóa được duy trì cẩn thận đến tận bây giờ dựa trên truyền thống mấy trăm năm trước. Đầu tiên, cô giáo đã nói với chúng tôi về tầm quan trọng của việc tĩnh tâm dựa trên lời dạy của Sen no Rikyuu. Cách cúi chào và cách đi lại cũng được quy định dựa trên các phép tắc từ xưa, nghe nói tất cả đều như vậy. Tôi đã cố di chuyển chân đúng như lời cô giáo giải thích nhưng vì căng thẳng nên đã nhầm nhiều lần. Khi rót trà cũng phải làm đúng theo thứ tự đã định, nên đầu tôi trắng xóa. Cô giáo dịu dàng nói 'không cần lo lắng đâu. Lấy việc luyện tập làm cơ sở, từ từ ghi nhớ là được'. Bánh wagashi được thiết kế dựa trên các loài hoa theo mùa, và bề ngoài cũng rất đẹp. Sự kết hợp giữa vị đắng của trà và vị ngọt của bánh đã lan ra trong miệng đúng như lời cô giải thích. Cách ngồi trên chiếu tatami cũng có những quy tắc tỉ mỉ dựa trên phép tắc lễ nghi. Sau khi xong, cô giáo lấy diễn biến hôm đó làm cơ sở để cho tôi vài lời khuyên nho nhỏ. Tôi rất vui khi nghe câu 'lấy trải nghiệm hôm nay làm cơ sở, hãy đến lần nữa nhé'. Tôi đã hiểu rằng có những điều không phải trải nghiệm đúng như sách viết, mà phải thật sự làm thử mới có thể cảm nhận được.",
+    "vocabulary": [
+      {"word": "茶道", "reading": "さどう", "meaning": "trà đạo"},
+      {"word": "教え", "reading": "おしえ", "meaning": "lời dạy, giáo huấn"},
+      {"word": "落ち着ける", "reading": "おちつける", "meaning": "làm cho điềm tĩnh"},
+      {"word": "お辞儀", "reading": "おじぎ", "meaning": "cúi chào"},
+      {"word": "作法", "reading": "さほう", "meaning": "phép tắc, lễ nghi"},
+      {"word": "順序", "reading": "じゅんじょ", "meaning": "thứ tự, trình tự"},
+      {"word": "和菓子", "reading": "わがし", "meaning": "bánh truyền thống Nhật"},
+      {"word": "苦味", "reading": "にがみ", "meaning": "vị đắng"},
+      {"word": "畳", "reading": "たたみ", "meaning": "chiếu tatami"},
+      {"word": "礼儀", "reading": "れいぎ", "meaning": "lễ nghi, lễ phép"}
+    ],
+    "process": [
+      {
+        "sentence": "先週、友達に誘われて初めて茶会に参加した。",
+        "chunks": "先週 / 友達に誘われて / 初めて茶会に参加した",
+        "guide": "先週 = tuần trước → 友達に誘われて = được bạn rủ → に誘われる thể bị động → て nối → 初めて茶会に参加した = lần đầu tham gia trà đạo → 🔒 Đóng gói: [tuần trước → bạn rủ → lần đầu dự trà đạo]",
+        "translation": "Tuần trước, tôi được bạn rủ và lần đầu tham gia buổi trà đạo."
+      },
+      {
+        "sentence": "茶道は何百年も前の伝統にもとづいて、今でも丁寧に続けられている文化だ。",
+        "chunks": "茶道は / 何百年も前の伝統にもとづいて / 今でも丁寧に続けられている文化だ",
+        "guide": "茶道は → chủ đề trà đạo → 何百年も前の伝統 = truyền thống mấy trăm năm trước → にもとづいて → ～にもとづいて = 'dựa trên, căn cứ vào' → 今でも丁寧に続けられている = nay vẫn được tiếp tục cẩn thận → られている bị động → 文化だ = là văn hóa → 🔒 Đóng gói: [trà đạo dựa trên truyền thống lâu đời → vẫn duy trì]",
+        "translation": "Trà đạo là văn hóa được duy trì cẩn thận đến tận bây giờ dựa trên truyền thống mấy trăm năm trước."
+      },
+      {
+        "sentence": "先生は最初に、千利休の教えにもとづいて、心を落ち着ける大切さについて話してくれた。",
+        "chunks": "先生は最初に / 千利休の教えにもとづいて / 心を落ち着ける大切さについて / 話してくれた",
+        "guide": "先生は最初に = đầu tiên cô giáo → 千利休の教え = lời dạy của Sen no Rikyuu → にもとづいて → ～にもとづいて lần thứ hai → 'dựa trên lời dạy' → 心を落ち着ける大切さについて = về tầm quan trọng của tĩnh tâm → 話してくれた = đã kể cho → 🔒 Đóng gói: [cô dựa lời Rikyuu → giảng về tĩnh tâm]",
+        "translation": "Đầu tiên, cô giáo đã nói với chúng tôi về tầm quan trọng của việc tĩnh tâm dựa trên lời dạy của Sen no Rikyuu."
+      },
+      {
+        "sentence": "お辞儀の仕方や歩き方も、すべて昔からの作法にもとづいて決まっているそうだ。",
+        "chunks": "お辞儀の仕方や歩き方も / すべて昔からの作法にもとづいて / 決まっているそうだ",
+        "guide": "お辞儀の仕方や歩き方も = cách cúi chào, cách đi cũng → や liệt kê → すべて = tất cả → 昔からの作法 = phép tắc từ xưa → にもとづいて → ～にもとづいて lần thứ ba → 決まっている = đã được định → そうだ truyền tin 'nghe nói' → 🔒 Đóng gói: [cách cúi/đi → đều quy định dựa trên phép xưa]",
+        "translation": "Cách cúi chào và cách đi lại cũng được quy định dựa trên các phép tắc từ xưa, nghe nói tất cả đều như vậy."
+      },
+      {
+        "sentence": "先生の説明通りに足を運ぼうとしたが、緊張で何度も間違えてしまった。",
+        "chunks": "先生の説明通りに / 足を運ぼうとしたが / 緊張で何度も間違えてしまった",
+        "guide": "先生の説明通り → ～通りに = 'đúng như' → 足を運ぼうとした = định di chuyển chân → うとした 'vừa định' → が tương phản → 緊張で = vì căng thẳng → 何度も間違えてしまった = đã sai nhiều lần đáng tiếc → てしまった → 🔒 Đóng gói: [định làm đúng như cô bảo → căng thẳng → sai nhiều lần]",
+        "translation": "Tôi đã cố di chuyển chân đúng như lời cô giáo giải thích nhưng vì căng thẳng nên đã nhầm nhiều lần."
+      },
+      {
+        "sentence": "お茶を出すときも、決まった順序通りに動かなければならないので、頭が真っ白になった。",
+        "chunks": "お茶を出すときも / 決まった順序通りに動かなければならないので / 頭が真っ白になった",
+        "guide": "お茶を出すときも = khi rót trà cũng → 決まった順序 = thứ tự đã định → 通りに → ～通りに lần thứ hai → 'đúng theo' → 動かなければならない = phải làm theo → ので nguyên nhân → 頭が真っ白になった = đầu trắng xóa → 🔒 Đóng gói: [phải đúng thứ tự → đầu trống rỗng]",
+        "translation": "Khi rót trà cũng phải làm đúng theo thứ tự đã định, nên đầu tôi trắng xóa."
+      },
+      {
+        "sentence": "先生は「心配しなくていいですよ。練習をもとに、少しずつ覚えていけばいいんです」と優しく言ってくれた。",
+        "chunks": "先生は / 「心配しなくていいですよ。練習をもとに、少しずつ覚えていけばいいんです」と / 優しく言ってくれた",
+        "guide": "先生は → chủ đề → 「心配しなくていいですよ」 = không cần lo → 練習をもとに → ～をもとに = 'lấy ~ làm cơ sở' → 'lấy việc luyện tập làm cơ sở' → 少しずつ覚えていけばいい = từ từ ghi nhớ là được → と trích dẫn → 優しく言ってくれた = nói dịu dàng cho tôi → 🔒 Đóng gói: [cô dịu dàng: lấy luyện tập làm cơ sở → từ từ học]",
+        "translation": "Cô giáo dịu dàng nói 'không cần lo lắng đâu. Lấy việc luyện tập làm cơ sở, từ từ ghi nhớ là được'."
+      },
+      {
+        "sentence": "和菓子は季節の花をもとにデザインされていて、見た目もとても美しかった。",
+        "chunks": "和菓子は / 季節の花をもとに / デザインされていて / 見た目もとても美しかった",
+        "guide": "和菓子は → chủ đề bánh truyền thống → 季節の花をもとに → ～をもとに lần thứ hai → 'lấy hoa theo mùa làm cơ sở' → デザインされていて = được thiết kế → されている bị động + て nối → 見た目もとても美しかった = vẻ ngoài cũng rất đẹp → 🔒 Đóng gói: [bánh thiết kế dựa trên hoa mùa → đẹp]",
+        "translation": "Bánh wagashi được thiết kế dựa trên các loài hoa theo mùa, và bề ngoài cũng rất đẹp."
+      },
+      {
+        "sentence": "お茶の苦味と和菓子の甘さの組み合わせは、まさに先生の説明通りに口の中で広がった。",
+        "chunks": "お茶の苦味と和菓子の甘さの組み合わせは / まさに先生の説明通りに / 口の中で広がった",
+        "guide": "お茶の苦味と和菓子の甘さの組み合わせは → chủ đề: kết hợp đắng + ngọt → まさに = đúng là → 先生の説明通りに → ～通りに lần thứ ba → 'đúng như cô giải thích' → 口の中で広がった = lan ra trong miệng → 🔒 Đóng gói: [đắng + ngọt lan ra đúng như cô nói]",
+        "translation": "Sự kết hợp giữa vị đắng của trà và vị ngọt của bánh đã lan ra trong miệng đúng như lời cô giải thích."
+      },
+      {
+        "sentence": "畳の上での座り方も、礼儀作法にもとづいて細かいルールがあった。",
+        "chunks": "畳の上での座り方も / 礼儀作法にもとづいて / 細かいルールがあった",
+        "guide": "畳の上での座り方も = cách ngồi trên chiếu cũng → 礼儀作法 = phép tắc lễ nghi → にもとづいて → ～にもとづいて lần thứ tư → 細かいルールがあった = có quy tắc tỉ mỉ → 🔒 Đóng gói: [cách ngồi → quy tắc dựa trên lễ nghi]",
+        "translation": "Cách ngồi trên chiếu tatami cũng có những quy tắc tỉ mỉ dựa trên phép tắc lễ nghi."
+      },
+      {
+        "sentence": "終わってから、先生はその日の流れをもとに、私に小さなアドバイスをくれた。",
+        "chunks": "終わってから / 先生はその日の流れをもとに / 私に小さなアドバイスをくれた",
+        "guide": "終わってから = sau khi xong → 先生はその日の流れ = cô lấy diễn biến hôm đó → をもとに → ～をもとに lần thứ ba → 'làm cơ sở' → 私に小さなアドバイスをくれた = cho tôi lời khuyên nhỏ → 🔒 Đóng gói: [cô dựa diễn biến hôm đó → khuyên tôi]",
+        "translation": "Sau khi xong, cô giáo lấy diễn biến hôm đó làm cơ sở để cho tôi vài lời khuyên nho nhỏ."
+      },
+      {
+        "sentence": "「今日の経験をもとに、また来てくださいね」という言葉がとても嬉しかった。",
+        "chunks": "「今日の経験をもとに、また来てくださいね」という / 言葉が / とても嬉しかった",
+        "guide": "「今日の経験をもとに、また来てくださいね」 → 今日の経験をもとに → ～をもとに lần thứ tư → 'lấy trải nghiệm hôm nay làm cơ sở' → また来てくださいね = hãy đến nữa → という言葉 = câu nói rằng → がとても嬉しかった = rất vui → 🔒 Đóng gói: [câu mời 'lấy trải nghiệm làm cơ sở, đến nữa' → tôi vui]",
+        "translation": "Tôi rất vui khi nghe câu 'lấy trải nghiệm hôm nay làm cơ sở, hãy đến lần nữa nhé'."
+      },
+      {
+        "sentence": "本に書いてある通りに体験するのではなく、実際にやってみて初めて感じられるものがあると分かった。",
+        "chunks": "本に書いてある通りに体験するのではなく / 実際にやってみて初めて / 感じられるものがあると分かった",
+        "guide": "本に書いてある通り → ～通り lần thứ tư → 'đúng như sách viết' → 体験するのではなく = không phải là trải nghiệm → のではなく phủ định nhấn mạnh → 実際にやってみて初めて = chỉ khi thật sự thử mới → 感じられるものがある = có điều cảm nhận được → と分かった = đã hiểu → 🔒 Đóng gói: [không phải đúng sách → thử mới hiểu]",
+        "translation": "Tôi đã hiểu rằng có những điều không phải trải nghiệm đúng như sách viết, mà phải thật sự làm thử mới có thể cảm nhận được."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0316_Q1",
+        "question": "先生は最初に何について話しましたか。",
+        "question_vi": "Đầu tiên cô giáo đã nói về điều gì?",
+        "answers": [
+          {"text": "和菓子の作り方について。", "text_vi": "Về cách làm bánh wagashi.", "is_correct": false},
+          {"text": "千利休の教えにもとづいて、心を落ち着ける大切さについて。", "text_vi": "Về tầm quan trọng của việc tĩnh tâm dựa trên lời dạy của Sen no Rikyuu.", "is_correct": true},
+          {"text": "畳の歴史について。", "text_vi": "Về lịch sử của chiếu tatami.", "is_correct": false},
+          {"text": "茶道の試験について。", "text_vi": "Về kỳ thi trà đạo.", "is_correct": false}
+        ],
+        "explanation": "Câu 3 nói rõ 「先生は最初に、千利休の教えにもとづいて、心を落ち着ける大切さについて話してくれた」→ ～にもとづいて = dựa trên + 最初に = đầu tiên → cô giảng về tĩnh tâm dựa lời Rikyuu."
+      },
+      {
+        "id": "R_0316_Q2",
+        "question": "和菓子は何をもとにデザインされていますか。",
+        "question_vi": "Bánh wagashi được thiết kế dựa trên cái gì?",
+        "answers": [
+          {"text": "海の生き物をもとにデザインされている。", "text_vi": "Được thiết kế dựa trên sinh vật biển.", "is_correct": false},
+          {"text": "季節の花をもとにデザインされている。", "text_vi": "Được thiết kế dựa trên các loài hoa theo mùa.", "is_correct": true},
+          {"text": "外国の絵をもとにデザインされている。", "text_vi": "Được thiết kế dựa trên tranh nước ngoài.", "is_correct": false},
+          {"text": "先生の好きな色をもとにデザインされている。", "text_vi": "Được thiết kế dựa trên màu cô giáo thích.", "is_correct": false}
+        ],
+        "explanation": "Câu 8 nói rõ 「和菓子は季節の花をもとにデザインされていて」→ ～をもとに = lấy ~ làm cơ sở → cơ sở thiết kế là hoa theo mùa. Đây là sự thật trực tiếp."
+      },
+      {
+        "id": "R_0316_Q3",
+        "question": "筆者は茶会を体験して、どんなことが分かりましたか。",
+        "question_vi": "Sau khi trải nghiệm trà đạo, tác giả đã hiểu được điều gì?",
+        "answers": [
+          {"text": "本を読むだけで茶道は十分理解できるということ。", "text_vi": "Chỉ cần đọc sách là hiểu đủ trà đạo.", "is_correct": false},
+          {"text": "茶道は若い人には合わないということ。", "text_vi": "Trà đạo không hợp với người trẻ.", "is_correct": false},
+          {"text": "本通りに体験するのではなく、実際にやってみて初めて感じられるものがあるということ。", "text_vi": "Có những điều không phải trải nghiệm đúng như sách viết, mà phải thật sự làm thử mới cảm nhận được.", "is_correct": true},
+          {"text": "先生の説明はあまり役に立たないということ。", "text_vi": "Lời cô giáo giải thích không có ích lắm.", "is_correct": false}
+        ],
+        "explanation": "Câu 13 kết luận 「本に書いてある通りに体験するのではなく、実際にやってみて初めて感じられるものがあると分かった」→ ～通り + のではなく = không phải đúng như + 初めて = chỉ khi → tác giả nhận ra phải thực hành mới hiểu, không thể chỉ qua sách."
+      }
+    ]
+  },
+  {
+    "id": "R_0317",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "地域サークルへの参加",
+    "title_vi": "Tham gia câu lạc bộ trong khu phố",
+    "topic": "social_life",
+    "subtopic": "tham gia câu lạc bộ trong cộng đồng",
+    "tags": ["をきっかけに", "を通じて／通して", "において"],
+    "grammar_used": ["～をきっかけに／にして／として", "～を通じて／通して", "～において"],
+    "sentence_count": 14,
+    "text": "去年の夏、近所の掲示板で見つけた一枚のチラシをきっかけに、私は地域のウォーキングサークルに参加することにした。引っ越してきたばかりで、新しい街において知り合いがほとんどいなかったので、誰かと話したいと思っていた時期だった。最初の集まりで、メンバーの一人が「私もここに来たことをきっかけに、近所の人と仲良くなれましたよ」と笑顔で話してくれた。サークルでは、月に二回、公園において一時間ほど歩く活動をしている。歩いている間の会話を通じて、地域の歴史や、おすすめのお店についてもたくさん知ることができた。先月の話し合いにおいて、新しい活動として子ども向けのイベントを始めることが決まった。準備の作業を通して、いろいろな世代の方と協力する楽しさを感じた。あるおじいさんは、定年退職をきっかけにこのサークルに入ったそうだ。「家にいるだけだと寂しいから、サークルを通じて人と関われるのがありがたい」と話していた。地域社会において、こうした小さな集まりがどれほど大切かを実感する場面が多い。一年間の活動を通じて、私は街への愛着がとても強くなった。先日、市の集会所において発表会が開かれ、私たちのサークルも活動を紹介した。この発表をきっかけに、新しいメンバーが三人増えた。今では、このサークルは私の生活において、なくてはならない場所になっている。",
+    "translation": "Mùa hè năm ngoái, lấy một tờ rơi tìm thấy ở bảng thông báo gần nhà làm cơ hội, tôi đã quyết định tham gia câu lạc bộ đi bộ của khu phố. Vì mới chuyển đến nên tại thành phố mới tôi gần như không có người quen, đó là thời điểm tôi đang muốn nói chuyện với ai đó. Trong buổi gặp đầu tiên, một thành viên đã cười và kể với tôi rằng 'tôi cũng nhân dịp đến đây mà thân thiết được với hàng xóm đấy'. Tại câu lạc bộ, mỗi tháng hai lần chúng tôi đi bộ khoảng một tiếng tại công viên. Thông qua những cuộc trò chuyện trong lúc đi bộ, tôi đã biết được nhiều điều về lịch sử khu phố và những cửa hàng đáng giới thiệu. Tại buổi họp tháng trước, đã quyết định bắt đầu sự kiện dành cho trẻ em như một hoạt động mới. Thông qua công việc chuẩn bị, tôi cảm nhận được niềm vui khi hợp tác với người ở nhiều thế hệ. Có một bác nói rằng nhân dịp về hưu đã tham gia câu lạc bộ này. Bác nói 'chỉ ở nhà thì cô đơn, nên việc thông qua câu lạc bộ mà gắn bó với mọi người thật đáng quý'. Tôi có nhiều dịp cảm nhận được rằng tại cộng đồng địa phương, những buổi tụ họp nhỏ như thế này quan trọng đến mức nào. Thông qua một năm hoạt động, tình yêu với khu phố của tôi đã trở nên rất mạnh mẽ. Hôm trước, một buổi giới thiệu đã được tổ chức tại hội trường thành phố, và câu lạc bộ chúng tôi cũng đã giới thiệu hoạt động. Lấy buổi giới thiệu này làm cơ hội, đã có thêm ba thành viên mới. Bây giờ, câu lạc bộ này đã trở thành nơi không thể thiếu trong cuộc sống của tôi.",
+    "vocabulary": [
+      {"word": "掲示板", "reading": "けいじばん", "meaning": "bảng thông báo"},
+      {"word": "地域", "reading": "ちいき", "meaning": "khu vực, địa phương"},
+      {"word": "集まり", "reading": "あつまり", "meaning": "buổi tụ họp, buổi gặp"},
+      {"word": "笑顔", "reading": "えがお", "meaning": "nụ cười, gương mặt cười"},
+      {"word": "活動", "reading": "かつどう", "meaning": "hoạt động"},
+      {"word": "話し合い", "reading": "はなしあい", "meaning": "buổi thảo luận, họp"},
+      {"word": "世代", "reading": "せだい", "meaning": "thế hệ"},
+      {"word": "定年退職", "reading": "ていねんたいしょく", "meaning": "về hưu (đến tuổi)"},
+      {"word": "実感", "reading": "じっかん", "meaning": "cảm nhận thực tế"},
+      {"word": "愛着", "reading": "あいちゃく", "meaning": "sự gắn bó, yêu mến"},
+      {"word": "集会所", "reading": "しゅうかいじょ", "meaning": "hội trường, nơi tụ họp"}
+    ],
+    "process": [
+      {
+        "sentence": "去年の夏、近所の掲示板で見つけた一枚のチラシをきっかけに、私は地域のウォーキングサークルに参加することにした。",
+        "chunks": "去年の夏 / 近所の掲示板で見つけた一枚のチラシをきっかけに / 私は地域のウォーキングサークルに / 参加することにした",
+        "guide": "去年の夏 = mùa hè năm ngoái → 近所の掲示板で見つけた一枚のチラシ = một tờ rơi thấy ở bảng thông báo → をきっかけに → ～をきっかけに = 'nhân dịp, lấy ~ làm cơ hội' → 私は地域のウォーキングサークルに参加することにした = tôi quyết định tham gia CLB đi bộ → ことにした tự quyết định → 🔒 Đóng gói: [tờ rơi → cơ hội → tham gia CLB]",
+        "translation": "Mùa hè năm ngoái, lấy một tờ rơi tìm thấy ở bảng thông báo gần nhà làm cơ hội, tôi đã quyết định tham gia câu lạc bộ đi bộ của khu phố."
+      },
+      {
+        "sentence": "引っ越してきたばかりで、新しい街において知り合いがほとんどいなかったので、誰かと話したいと思っていた時期だった。",
+        "chunks": "引っ越してきたばかりで / 新しい街において / 知り合いがほとんどいなかったので / 誰かと話したいと思っていた時期だった",
+        "guide": "引っ越してきたばかり = vừa mới chuyển đến → ばかり = vừa mới → で nối → 新しい街において → ～において = 'tại, ở' (formal, thay cho で) → 知り合いがほとんどいなかった = gần như không có người quen → ので nguyên nhân → 誰かと話したいと思っていた時期だった = thời điểm muốn nói chuyện với ai đó → 🔒 Đóng gói: [vừa chuyển → ở thành phố mới không quen ai → muốn trò chuyện]",
+        "translation": "Vì mới chuyển đến nên tại thành phố mới tôi gần như không có người quen, đó là thời điểm tôi đang muốn nói chuyện với ai đó."
+      },
+      {
+        "sentence": "最初の集まりで、メンバーの一人が「私もここに来たことをきっかけに、近所の人と仲良くなれましたよ」と笑顔で話してくれた。",
+        "chunks": "最初の集まりで / メンバーの一人が / 「私もここに来たことをきっかけに、近所の人と仲良くなれましたよ」と / 笑顔で話してくれた",
+        "guide": "最初の集まりで = ở buổi gặp đầu → メンバーの一人が = một thành viên → 「私もここに来たことをきっかけに」 → ～をきっかけに lần thứ hai → 'nhân dịp đến đây' → 近所の人と仲良くなれました = thân với hàng xóm được → と trích dẫn → 笑顔で話してくれた = cười kể cho tôi → 🔒 Đóng gói: [thành viên: nhân dịp đến đây → thân với hàng xóm]",
+        "translation": "Trong buổi gặp đầu tiên, một thành viên đã cười và kể với tôi rằng 'tôi cũng nhân dịp đến đây mà thân thiết được với hàng xóm đấy'."
+      },
+      {
+        "sentence": "サークルでは、月に二回、公園において一時間ほど歩く活動をしている。",
+        "chunks": "サークルでは / 月に二回 / 公園において / 一時間ほど歩く活動をしている",
+        "guide": "サークルでは → bối cảnh CLB → 月に二回 = 2 lần/tháng → 公園において → ～において lần thứ hai → 'tại công viên' (formal hơn で) → 一時間ほど歩く活動をしている = đi bộ khoảng 1 tiếng → 🔒 Đóng gói: [CLB → 2 lần/tháng → ở công viên → đi 1h]",
+        "translation": "Tại câu lạc bộ, mỗi tháng hai lần chúng tôi đi bộ khoảng một tiếng tại công viên."
+      },
+      {
+        "sentence": "歩いている間の会話を通じて、地域の歴史や、おすすめのお店についてもたくさん知ることができた。",
+        "chunks": "歩いている間の会話を通じて / 地域の歴史や / おすすめのお店についても / たくさん知ることができた",
+        "guide": "歩いている間の会話 = cuộc trò chuyện trong lúc đi → を通じて → ～を通じて = 'thông qua' (phương tiện) → 地域の歴史や = lịch sử khu phố và → おすすめのお店についても = cả về cửa hàng nên ghé → たくさん知ることができた = đã biết được nhiều → 🔒 Đóng gói: [qua trò chuyện → biết lịch sử + cửa hàng]",
+        "translation": "Thông qua những cuộc trò chuyện trong lúc đi bộ, tôi đã biết được nhiều điều về lịch sử khu phố và những cửa hàng đáng giới thiệu."
+      },
+      {
+        "sentence": "先月の話し合いにおいて、新しい活動として子ども向けのイベントを始めることが決まった。",
+        "chunks": "先月の話し合いにおいて / 新しい活動として / 子ども向けのイベントを始めることが決まった",
+        "guide": "先月の話し合いにおいて → ～において lần thứ ba → 'tại buổi họp tháng trước' (formal) → 新しい活動として = như một hoạt động mới → として 'với tư cách' → 子ども向けのイベントを始めることが決まった = quyết định bắt đầu sự kiện cho trẻ em → 🔒 Đóng gói: [buổi họp → quyết định: sự kiện trẻ em mới]",
+        "translation": "Tại buổi họp tháng trước, đã quyết định bắt đầu sự kiện dành cho trẻ em như một hoạt động mới."
+      },
+      {
+        "sentence": "準備の作業を通して、いろいろな世代の方と協力する楽しさを感じた。",
+        "chunks": "準備の作業を通して / いろいろな世代の方と / 協力する楽しさを感じた",
+        "guide": "準備の作業 = công việc chuẩn bị → を通して → ～を通して = 'thông qua' (biến thể của を通じて) → いろいろな世代の方と = với người nhiều thế hệ → 協力する楽しさを感じた = cảm nhận niềm vui hợp tác → 🔒 Đóng gói: [qua công việc chuẩn bị → thấy vui khi hợp tác đa thế hệ]",
+        "translation": "Thông qua công việc chuẩn bị, tôi cảm nhận được niềm vui khi hợp tác với người ở nhiều thế hệ."
+      },
+      {
+        "sentence": "あるおじいさんは、定年退職をきっかけにこのサークルに入ったそうだ。",
+        "chunks": "あるおじいさんは / 定年退職をきっかけに / このサークルに入ったそうだ",
+        "guide": "あるおじいさんは = có một bác → 定年退職 = về hưu → をきっかけに → ～をきっかけに lần thứ ba → 'nhân dịp về hưu' → このサークルに入った = đã vào CLB này → そうだ truyền tin 'nghe nói' → 🔒 Đóng gói: [bác → nhân dịp hưu → vào CLB]",
+        "translation": "Có một bác nói rằng nhân dịp về hưu đã tham gia câu lạc bộ này."
+      },
+      {
+        "sentence": "「家にいるだけだと寂しいから、サークルを通じて人と関われるのがありがたい」と話していた。",
+        "chunks": "「家にいるだけだと寂しいから / サークルを通じて人と関われるのがありがたい」と / 話していた",
+        "guide": "「家にいるだけだと寂しいから」 = chỉ ở nhà thì cô đơn → と điều kiện → サークルを通じて → ～を通じて lần thứ hai → 'thông qua CLB' (phương tiện) → 人と関われるのがありがたい = gắn bó với người là điều quý → と trích dẫn → 話していた = đã nói → 🔒 Đóng gói: [bác: chỉ ở nhà thì cô đơn → qua CLB → quý giá]",
+        "translation": "Bác nói 'chỉ ở nhà thì cô đơn, nên việc thông qua câu lạc bộ mà gắn bó với mọi người thật đáng quý'."
+      },
+      {
+        "sentence": "地域社会において、こうした小さな集まりがどれほど大切かを実感する場面が多い。",
+        "chunks": "地域社会において / こうした小さな集まりが / どれほど大切かを実感する場面が多い",
+        "guide": "地域社会において → ～において lần thứ tư → 'tại cộng đồng địa phương' (formal) → こうした小さな集まり = những buổi tụ họp nhỏ như vậy → どれほど大切か = quan trọng đến mức nào → を実感する = cảm nhận thực tế → 場面が多い = nhiều dịp → 🔒 Đóng gói: [tại cộng đồng → cảm nhận tụ họp nhỏ rất quan trọng]",
+        "translation": "Tôi có nhiều dịp cảm nhận được rằng tại cộng đồng địa phương, những buổi tụ họp nhỏ như thế này quan trọng đến mức nào."
+      },
+      {
+        "sentence": "一年間の活動を通じて、私は街への愛着がとても強くなった。",
+        "chunks": "一年間の活動を通じて / 私は街への愛着が / とても強くなった",
+        "guide": "一年間の活動 = hoạt động 1 năm → を通じて → ～を通じて lần thứ ba → 'thông qua, suốt' (phạm vi thời gian) → 私は街への愛着 = sự gắn bó với thành phố → がとても強くなった = đã trở nên rất mạnh → 🔒 Đóng gói: [qua 1 năm → yêu thành phố tăng]",
+        "translation": "Thông qua một năm hoạt động, tình yêu với khu phố của tôi đã trở nên rất mạnh mẽ."
+      },
+      {
+        "sentence": "先日、市の集会所において発表会が開かれ、私たちのサークルも活動を紹介した。",
+        "chunks": "先日 / 市の集会所において / 発表会が開かれ / 私たちのサークルも活動を紹介した",
+        "guide": "先日 = hôm trước → 市の集会所において → ～において lần thứ năm → 'tại hội trường thành phố' (formal) → 発表会が開かれ = buổi giới thiệu được tổ chức → かれ thể bị động → 私たちのサークルも活動を紹介した = CLB chúng tôi cũng giới thiệu hoạt động → 🔒 Đóng gói: [hội trường thành phố → buổi giới thiệu → CLB tham gia]",
+        "translation": "Hôm trước, một buổi giới thiệu đã được tổ chức tại hội trường thành phố, và câu lạc bộ chúng tôi cũng đã giới thiệu hoạt động."
+      },
+      {
+        "sentence": "この発表をきっかけに、新しいメンバーが三人増えた。",
+        "chunks": "この発表をきっかけに / 新しいメンバーが三人増えた",
+        "guide": "この発表 = buổi giới thiệu này → をきっかけに → ～をきっかけに lần thứ tư → 'lấy ~ làm cơ hội' → 新しいメンバーが三人増えた = thêm 3 thành viên mới → 🔒 Đóng gói: [buổi giới thiệu → cơ hội → tăng 3 người]",
+        "translation": "Lấy buổi giới thiệu này làm cơ hội, đã có thêm ba thành viên mới."
+      },
+      {
+        "sentence": "今では、このサークルは私の生活において、なくてはならない場所になっている。",
+        "chunks": "今では / このサークルは私の生活において / なくてはならない場所になっている",
+        "guide": "今では = bây giờ → このサークルは = CLB này → 私の生活において → ～において lần thứ sáu → 'trong cuộc sống của tôi' (formal) → なくてはならない = không thể thiếu → 場所になっている = đã trở thành nơi → 🔒 Đóng gói: [CLB → trong đời tôi → không thể thiếu]",
+        "translation": "Bây giờ, câu lạc bộ này đã trở thành nơi không thể thiếu trong cuộc sống của tôi."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0317_Q1",
+        "question": "筆者は何をきっかけにウォーキングサークルに参加しましたか。",
+        "question_vi": "Tác giả đã tham gia câu lạc bộ đi bộ nhân dịp gì?",
+        "answers": [
+          {"text": "友達からの紹介をきっかけに参加した。", "text_vi": "Nhân dịp được bạn giới thiệu mà tham gia.", "is_correct": false},
+          {"text": "近所の掲示板で見つけたチラシをきっかけに参加した。", "text_vi": "Nhân dịp tìm thấy tờ rơi ở bảng thông báo gần nhà mà tham gia.", "is_correct": true},
+          {"text": "テレビの番組をきっかけに参加した。", "text_vi": "Nhân dịp xem chương trình tivi mà tham gia.", "is_correct": false},
+          {"text": "会社の上司に勧められたことをきっかけに参加した。", "text_vi": "Nhân dịp được sếp ở công ty khuyên mà tham gia.", "is_correct": false}
+        ],
+        "explanation": "Câu 1 nói rõ 「近所の掲示板で見つけた一枚のチラシをきっかけに、私は地域のウォーキングサークルに参加することにした」→ ～をきっかけに = nhân dịp/lấy làm cơ hội → cơ hội cụ thể là tờ rơi ở bảng thông báo."
+      },
+      {
+        "id": "R_0317_Q2",
+        "question": "おじいさんはなぜサークルに入ったと話していますか。",
+        "question_vi": "Bác cụ nói lý do vào câu lạc bộ là gì?",
+        "answers": [
+          {"text": "運動をしたかったから。", "text_vi": "Vì muốn tập thể dục.", "is_correct": false},
+          {"text": "定年退職をきっかけに入り、家にいるだけだと寂しく、サークルを通じて人と関われるのがありがたいから。", "text_vi": "Nhân dịp về hưu mà vào, chỉ ở nhà thì cô đơn nên thông qua CLB gắn bó với mọi người là điều quý.", "is_correct": true},
+          {"text": "サークルが家から近かったから。", "text_vi": "Vì câu lạc bộ gần nhà.", "is_correct": false},
+          {"text": "家族に頼まれたから。", "text_vi": "Vì được gia đình nhờ.", "is_correct": false}
+        ],
+        "explanation": "Câu 8 nói 「定年退職をきっかけにこのサークルに入った」và câu 9 giải thích 「家にいるだけだと寂しいから、サークルを通じて人と関われるのがありがたい」→ ～をきっかけに + ～を通じて → cơ hội về hưu + qua CLB gắn bó. Đáp án tổng hợp đúng cả hai câu."
+      },
+      {
+        "id": "R_0317_Q3",
+        "question": "筆者は今、このサークルをどう感じていますか。",
+        "question_vi": "Bây giờ tác giả cảm thấy về câu lạc bộ này thế nào?",
+        "answers": [
+          {"text": "もうやめたいと思っている。", "text_vi": "Đang muốn nghỉ rồi.", "is_correct": false},
+          {"text": "メンバーが多すぎて困っている。", "text_vi": "Đang khó chịu vì quá nhiều thành viên.", "is_correct": false},
+          {"text": "自分の生活において、なくてはならない場所になっていると感じている。", "text_vi": "Cảm thấy đã trở thành nơi không thể thiếu trong cuộc sống của mình.", "is_correct": true},
+          {"text": "活動が忙しくて疲れていると感じている。", "text_vi": "Cảm thấy hoạt động bận rộn và mệt mỏi.", "is_correct": false}
+        ],
+        "explanation": "Câu 14 kết luận 「このサークルは私の生活において、なくてはならない場所になっている」→ ～において = trong (formal) + なくてはならない = không thể thiếu → CLB rất quan trọng với tác giả. Đây là tổng kết xuyên suốt bài về sự gắn bó."
+      }
+    ]
+  }
+]

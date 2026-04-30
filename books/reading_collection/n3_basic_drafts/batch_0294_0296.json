@@ -1,0 +1,441 @@
+[
+  {
+    "id": "R_0294",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "社内ミーティング",
+    "title_vi": "Họp nội bộ trong công ty",
+    "topic": "meeting",
+    "subtopic": "họp nhóm tại công ty",
+    "tags": ["において／における", "に対し", "ことにしている"],
+    "grammar_used": ["～において／における", "～に対し", "～ことにしている"],
+    "sentence_count": 13,
+    "text": "私の会社においては、毎週月曜日の朝に社内ミーティングを行うことにしている。会議室における雰囲気は明るく、誰でも自由に意見を言いやすい。先週のミーティングにおいて、新しいプロジェクトの進め方について話し合った。営業部の意見に対し、開発部から少し違う考え方が出された。私はいつもメモを取ることにしているので、議論の流れがあとで分かりやすい。部長は、若い社員の発言に対しても、必ず最後まで耳を傾ける人だ。会議における時間の使い方も、最近少しずつ改善されてきた。長すぎる会議に対し、短くて中身の濃いミーティングを目指す動きが広がっている。私は会議の前に必ず資料を読んでおくことにしている。準備をしておくと、議論の中で自分の意見を伝えやすくなる。新人の同僚に対し、先輩はやさしく説明してくれることが多い。社内の話し合いにおいて大切なのは、相手の意見をまず受け止めることだ。これからも、私はチームの中で積極的に発言することにしている。",
+    "translation": "Tại công ty của tôi, mỗi sáng thứ Hai hàng tuần tôi đặt thói quen tổ chức họp nội bộ. Bầu không khí trong phòng họp rất thoải mái, ai cũng dễ dàng nói lên ý kiến. Trong cuộc họp tuần trước, chúng tôi đã thảo luận về cách triển khai dự án mới. Đối với ý kiến của phòng kinh doanh, từ phòng phát triển đã đưa ra cách suy nghĩ hơi khác. Tôi luôn tự đặt thói quen ghi chép, nên sau đó dễ hiểu được mạch thảo luận. Trưởng phòng là người luôn lắng nghe đến cuối cùng cả những phát biểu của nhân viên trẻ. Cách sử dụng thời gian trong các cuộc họp cũng đã dần được cải thiện gần đây. Đối với các cuộc họp quá dài, phong trào hướng đến những cuộc họp ngắn nhưng nội dung chất đang lan rộng. Tôi tự đặt thói quen luôn đọc trước tài liệu trước cuộc họp. Khi chuẩn bị sẵn, sẽ dễ truyền đạt ý kiến của mình hơn trong quá trình thảo luận. Đối với đồng nghiệp mới, các tiền bối thường giải thích nhẹ nhàng. Trong các buổi thảo luận nội bộ, điều quan trọng là trước hết phải tiếp nhận ý kiến của đối phương. Từ giờ trở đi, tôi cũng tự đặt cho mình thói quen tích cực phát biểu trong nhóm.",
+    "vocabulary": [
+      {"word": "社内", "reading": "しゃない", "meaning": "trong công ty, nội bộ"},
+      {"word": "雰囲気", "reading": "ふんいき", "meaning": "bầu không khí"},
+      {"word": "営業部", "reading": "えいぎょうぶ", "meaning": "phòng kinh doanh"},
+      {"word": "開発部", "reading": "かいはつぶ", "meaning": "phòng phát triển"},
+      {"word": "議論", "reading": "ぎろん", "meaning": "thảo luận, tranh luận"},
+      {"word": "発言", "reading": "はつげん", "meaning": "phát biểu"},
+      {"word": "耳を傾ける", "reading": "みみをかたむける", "meaning": "lắng nghe"},
+      {"word": "改善", "reading": "かいぜん", "meaning": "cải thiện"},
+      {"word": "資料", "reading": "しりょう", "meaning": "tài liệu"},
+      {"word": "受け止める", "reading": "うけとめる", "meaning": "tiếp nhận, đón nhận"},
+      {"word": "積極的", "reading": "せっきょくてき", "meaning": "tích cực, chủ động"}
+    ],
+    "process": [
+      {
+        "sentence": "私の会社においては、毎週月曜日の朝に社内ミーティングを行うことにしている。",
+        "chunks": "私の会社においては / 毎週月曜日の朝に / 社内ミーティングを行うことにしている",
+        "guide": "私の会社においては → ～において = 'tại, ở' (formal, thay cho で) → は nhấn mạnh chủ đề bối cảnh → 毎週月曜日の朝に → bối cảnh thời gian → 行うことにしている → ～ことにしている = 'tự đặt thói quen' → 🔒 Đóng gói: [tại công ty tôi → mỗi sáng T2 → tự đặt thói quen họp]",
+        "translation": "Tại công ty của tôi, mỗi sáng thứ Hai hàng tuần tôi đặt thói quen tổ chức họp nội bộ."
+      },
+      {
+        "sentence": "会議室における雰囲気は明るく、誰でも自由に意見を言いやすい。",
+        "chunks": "会議室における雰囲気は / 明るく / 誰でも自由に意見を言いやすい",
+        "guide": "会議室における → ～における = 'tại, ở' (formal, modify danh từ phía sau) → 雰囲気 = bầu không khí → は chủ đề → 明るく = sáng/thoải mái (く dạng nối) → 誰でも自由に意見を言いやすい = ai cũng dễ tự do nói ý kiến → 🔒 Đóng gói: [bầu không khí trong phòng họp → thoải mái, dễ phát biểu]",
+        "translation": "Bầu không khí trong phòng họp rất thoải mái, ai cũng dễ dàng nói lên ý kiến."
+      },
+      {
+        "sentence": "先週のミーティングにおいて、新しいプロジェクトの進め方について話し合った。",
+        "chunks": "先週のミーティングにおいて / 新しいプロジェクトの / 進め方について話し合った",
+        "guide": "先週のミーティングにおいて → ～において lần thứ hai → 'tại buổi họp tuần trước' → 新しいプロジェクトの = của dự án mới → 進め方について = về cách triển khai → について chủ đề thảo luận → 話し合った = đã thảo luận → 🔒 Đóng gói: [họp tuần trước → bàn về cách triển khai dự án mới]",
+        "translation": "Trong cuộc họp tuần trước, chúng tôi đã thảo luận về cách triển khai dự án mới."
+      },
+      {
+        "sentence": "営業部の意見に対し、開発部から少し違う考え方が出された。",
+        "chunks": "営業部の意見に対し / 開発部から / 少し違う考え方が出された",
+        "guide": "営業部の意見に対し → ～に対し = 'đối với, ngược lại với' → biểu hiện đối tượng/sự tương phản → 開発部から = từ phòng phát triển → 少し違う考え方 = cách nghĩ hơi khác → が出された = được đưa ra (bị động) → 🔒 Đóng gói: [đối với ý kiến KD → phòng dev đưa ra ý khác]",
+        "translation": "Đối với ý kiến của phòng kinh doanh, từ phòng phát triển đã đưa ra cách suy nghĩ hơi khác."
+      },
+      {
+        "sentence": "私はいつもメモを取ることにしているので、議論の流れがあとで分かりやすい。",
+        "chunks": "私はいつもメモを取ることにしているので / 議論の流れが / あとで分かりやすい",
+        "guide": "私はいつも → chủ đề thường xuyên → メモを取ることにしている → ～ことにしている lần thứ hai → tự đặt thói quen ghi chép → ので giải thích lý do → 議論の流れ = mạch thảo luận → あとで分かりやすい = sau đó dễ hiểu → 🔒 Đóng gói: [thói quen ghi chép → sau dễ hiểu mạch họp]",
+        "translation": "Tôi luôn tự đặt thói quen ghi chép, nên sau đó dễ hiểu được mạch thảo luận."
+      },
+      {
+        "sentence": "部長は、若い社員の発言に対しても、必ず最後まで耳を傾ける人だ。",
+        "chunks": "部長は / 若い社員の発言に対しても / 必ず最後まで耳を傾ける人だ",
+        "guide": "部長は → chủ đề trưởng phòng → 若い社員の発言に対しても → ～に対し lần thứ hai + も → 'kể cả đối với phát biểu của nhân viên trẻ cũng' → 必ず最後まで = nhất định đến cuối → 耳を傾ける人だ = người chịu lắng nghe → 🔒 Đóng gói: [trưởng phòng → kể cả với người trẻ cũng lắng nghe]",
+        "translation": "Trưởng phòng là người luôn lắng nghe đến cuối cùng cả những phát biểu của nhân viên trẻ."
+      },
+      {
+        "sentence": "会議における時間の使い方も、最近少しずつ改善されてきた。",
+        "chunks": "会議における時間の使い方も / 最近 / 少しずつ改善されてきた",
+        "guide": "会議における → ～における lần thứ hai → modify 時間の使い方 = cách dùng thời gian trong họp → も = cũng → 最近 = gần đây → 少しずつ = từng chút → 改善されてきた = đã dần được cải thiện (bị động + てくる) → 🔒 Đóng gói: [cách dùng thời gian họp → dần được cải thiện]",
+        "translation": "Cách sử dụng thời gian trong các cuộc họp cũng đã dần được cải thiện gần đây."
+      },
+      {
+        "sentence": "長すぎる会議に対し、短くて中身の濃いミーティングを目指す動きが広がっている。",
+        "chunks": "長すぎる会議に対し / 短くて中身の濃いミーティングを / 目指す動きが広がっている",
+        "guide": "長すぎる会議に対し → ～に対し lần thứ ba → 'đối với/ngược lại với cuộc họp quá dài' → 短くて中身の濃いミーティング = họp ngắn nhưng nội dung chất → を目指す = hướng tới → 動きが広がっている = phong trào đang lan → 🔒 Đóng gói: [họp dài ↔ phong trào họp ngắn chất đang lan]",
+        "translation": "Đối với các cuộc họp quá dài, phong trào hướng đến những cuộc họp ngắn nhưng nội dung chất đang lan rộng."
+      },
+      {
+        "sentence": "私は会議の前に必ず資料を読んでおくことにしている。",
+        "chunks": "私は / 会議の前に必ず / 資料を読んでおくことにしている",
+        "guide": "私は → chủ đề → 会議の前に必ず = trước họp nhất định → 資料を読んでおく = đọc trước tài liệu (ておく chuẩn bị sẵn) → ことにしている → ～ことにしている lần thứ ba → tự đặt thói quen → 🔒 Đóng gói: [tự đặt thói quen đọc trước tài liệu họp]",
+        "translation": "Tôi tự đặt thói quen luôn đọc trước tài liệu trước cuộc họp."
+      },
+      {
+        "sentence": "準備をしておくと、議論の中で自分の意見を伝えやすくなる。",
+        "chunks": "準備をしておくと / 議論の中で / 自分の意見を伝えやすくなる",
+        "guide": "準備をしておく → ておく chuẩn bị → と điều kiện 'nếu thì' → 議論の中で = trong thảo luận → 自分の意見を伝えやすくなる = trở nên dễ truyền đạt ý kiến → やすく + なる = dần dễ → 🔒 Đóng gói: [chuẩn bị sẵn → dễ phát biểu hơn]",
+        "translation": "Khi chuẩn bị sẵn, sẽ dễ truyền đạt ý kiến của mình hơn trong quá trình thảo luận."
+      },
+      {
+        "sentence": "新人の同僚に対し、先輩はやさしく説明してくれることが多い。",
+        "chunks": "新人の同僚に対し / 先輩は / やさしく説明してくれることが多い",
+        "guide": "新人の同僚に対し → ～に対し lần thứ tư → 'đối với đồng nghiệp mới' → 先輩は = tiền bối → やさしく説明してくれる = giải thích nhẹ nhàng cho (くれる: làm cho người khác) → ことが多い = thường → 🔒 Đóng gói: [đối với người mới → tiền bối hay giải thích nhẹ nhàng]",
+        "translation": "Đối với đồng nghiệp mới, các tiền bối thường giải thích nhẹ nhàng."
+      },
+      {
+        "sentence": "社内の話し合いにおいて大切なのは、相手の意見をまず受け止めることだ。",
+        "chunks": "社内の話し合いにおいて / 大切なのは / 相手の意見をまず受け止めることだ",
+        "guide": "社内の話し合いにおいて → ～において lần thứ ba → 'trong các buổi thảo luận nội bộ' → 大切なのは = điều quan trọng → 相手の意見をまず受け止める = trước hết tiếp nhận ý kiến đối phương → ことだ = nominalize + đó là... → 🔒 Đóng gói: [họp nội bộ → quan trọng là tiếp nhận trước]",
+        "translation": "Trong các buổi thảo luận nội bộ, điều quan trọng là trước hết phải tiếp nhận ý kiến của đối phương."
+      },
+      {
+        "sentence": "これからも、私はチームの中で積極的に発言することにしている。",
+        "chunks": "これからも / 私はチームの中で / 積極的に発言することにしている",
+        "guide": "これからも = từ giờ trở đi cũng → 私はチームの中で = trong nhóm → 積極的に発言する = chủ động phát biểu → ことにしている → ～ことにしている lần thứ tư → tự đặt thói quen tương lai → 🔒 Đóng gói: [tự đặt quy tắc → vẫn chủ động phát biểu]",
+        "translation": "Từ giờ trở đi, tôi cũng tự đặt cho mình thói quen tích cực phát biểu trong nhóm."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0294_Q1",
+        "question": "会社では、社内ミーティングはいつ行われていますか。",
+        "question_vi": "Tại công ty, họp nội bộ được tổ chức khi nào?",
+        "answers": [
+          {"text": "毎日の朝に行われている。", "text_vi": "Được tổ chức mỗi sáng hàng ngày.", "is_correct": false},
+          {"text": "毎週月曜日の朝に行われている。", "text_vi": "Được tổ chức vào sáng thứ Hai hàng tuần.", "is_correct": true},
+          {"text": "毎月の最終金曜日に行われている。", "text_vi": "Được tổ chức vào thứ Sáu cuối mỗi tháng.", "is_correct": false},
+          {"text": "必要なときだけ行われている。", "text_vi": "Chỉ tổ chức khi cần thiết.", "is_correct": false}
+        ],
+        "explanation": "Câu 1 nói rõ 「私の会社においては、毎週月曜日の朝に社内ミーティングを行うことにしている」 → ～において = 'tại' (formal) + ことにしている = thói quen tự đặt → mỗi sáng T2 hàng tuần."
+      },
+      {
+        "id": "R_0294_Q2",
+        "question": "筆者が会議の前にしていることは何ですか。",
+        "question_vi": "Việc tác giả thường làm trước cuộc họp là gì?",
+        "answers": [
+          {"text": "他の同僚にメールを送ること。", "text_vi": "Gửi email cho đồng nghiệp khác.", "is_correct": false},
+          {"text": "コーヒーを飲むこと。", "text_vi": "Uống cà phê.", "is_correct": false},
+          {"text": "必ず資料を読んでおくこと。", "text_vi": "Nhất định đọc trước tài liệu.", "is_correct": true},
+          {"text": "会議室を掃除すること。", "text_vi": "Dọn dẹp phòng họp.", "is_correct": false}
+        ],
+        "explanation": "Câu 9 nói rõ 「私は会議の前に必ず資料を読んでおくことにしている」 → ことにしている = thói quen tự đặt + ておく = chuẩn bị sẵn → đọc trước tài liệu là việc tác giả tự đặt thành thói quen."
+      },
+      {
+        "id": "R_0294_Q3",
+        "question": "筆者は社内の話し合いで何が一番大切だと考えていますか。",
+        "question_vi": "Tác giả cho rằng điều gì là quan trọng nhất trong các buổi thảo luận nội bộ?",
+        "answers": [
+          {"text": "自分の意見を強く主張すること。", "text_vi": "Khẳng định mạnh mẽ ý kiến của mình.", "is_correct": false},
+          {"text": "上司の意見にいつも従うこと。", "text_vi": "Luôn tuân theo ý kiến của cấp trên.", "is_correct": false},
+          {"text": "会議をできるだけ短くすること。", "text_vi": "Làm cho cuộc họp càng ngắn càng tốt.", "is_correct": false},
+          {"text": "相手の意見をまず受け止めること。", "text_vi": "Trước hết phải tiếp nhận ý kiến của đối phương.", "is_correct": true}
+        ],
+        "explanation": "Câu 12 nói rõ 「社内の話し合いにおいて大切なのは、相手の意見をまず受け止めることだ」 → ～において = 'trong (formal)' + 大切なのは...ことだ = điều quan trọng là... → tiếp nhận ý kiến đối phương trước."
+      }
+    ]
+  },
+  {
+    "id": "R_0295",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "区役所からのお知らせ",
+    "title_vi": "Thông báo từ ủy ban phường",
+    "topic": "announcement",
+    "subtopic": "thông báo từ phường",
+    "tags": ["ということだ", "にもとづいて", "際は"],
+    "grammar_used": ["～ということだ", "～にもとづいて", "～際は"],
+    "sentence_count": 13,
+    "text": "今月から、区役所のサービス時間が変わるということだ。新しい制度にもとづいて、平日の窓口は午後七時まで開くことになったらしい。区役所を利用する際は、なるべく事前に電話で予約しておくとスムーズだ。市の調査結果にもとづいて、夜の利用希望者が増えていると判断されたということだ。私も先週、仕事帰りに住所変更の手続きに行ってきた。手続きをする際は、本人確認書類を必ず持って行かなければならない。新しいルールにもとづいて、外国人住民へのサポートも強化されたということだ。窓口では、英語や中国語で対応してくれる職員もいるそうだ。書類を提出する際は、記入もれがないか担当者と一緒に確認するとよい。区民からの声にもとづいて、待ち時間の表示が画面に出るようになったらしい。手続きが終わった際は、忘れずに番号札を返すように案内されている。区役所のホームページによると、土曜日も一部の業務を行っているということだ。困った際は、まず電話相談から始めると、無駄な時間が減るそうだ。",
+    "translation": "Nghe nói từ tháng này, giờ phục vụ của ủy ban phường sẽ thay đổi. Dựa trên chế độ mới, có vẻ quầy tiếp dân các ngày trong tuần sẽ mở đến bảy giờ tối. Khi sử dụng ủy ban phường, nếu đặt lịch trước qua điện thoại càng nhiều càng tốt thì sẽ trôi chảy. Nghe nói dựa trên kết quả khảo sát của thành phố, người ta đã đánh giá rằng số người mong muốn sử dụng vào buổi tối đang tăng. Tôi cũng đã đi làm thủ tục đổi địa chỉ trên đường về nhà tuần trước. Khi làm thủ tục, nhất định phải mang theo giấy tờ xác nhận cá nhân. Nghe nói dựa trên quy định mới, hỗ trợ cho cư dân người nước ngoài cũng đã được tăng cường. Tại quầy, nghe nói cũng có nhân viên có thể tiếp đón bằng tiếng Anh hoặc tiếng Trung. Khi nộp giấy tờ, cùng người phụ trách kiểm tra xem có thiếu sót gì không thì tốt. Có vẻ như dựa trên ý kiến của người dân khu phố, thời gian chờ đã được hiển thị lên màn hình. Khi làm thủ tục xong, mọi người được hướng dẫn không quên trả lại số thứ tự. Theo trang chủ của ủy ban phường, nghe nói ngày thứ Bảy cũng làm một phần các nghiệp vụ. Nghe nói khi gặp khó khăn, nếu bắt đầu từ tư vấn qua điện thoại trước thì sẽ giảm bớt thời gian lãng phí.",
+    "vocabulary": [
+      {"word": "区役所", "reading": "くやくしょ", "meaning": "ủy ban phường, văn phòng quận"},
+      {"word": "制度", "reading": "せいど", "meaning": "chế độ"},
+      {"word": "窓口", "reading": "まどぐち", "meaning": "quầy tiếp dân"},
+      {"word": "予約", "reading": "よやく", "meaning": "đặt trước, đặt chỗ"},
+      {"word": "判断", "reading": "はんだん", "meaning": "phán đoán, đánh giá"},
+      {"word": "本人確認", "reading": "ほんにんかくにん", "meaning": "xác nhận cá nhân"},
+      {"word": "強化", "reading": "きょうか", "meaning": "tăng cường, củng cố"},
+      {"word": "対応", "reading": "たいおう", "meaning": "đối ứng, tiếp đón, xử lý"},
+      {"word": "記入もれ", "reading": "きにゅうもれ", "meaning": "thiếu sót khi điền"},
+      {"word": "番号札", "reading": "ばんごうふだ", "meaning": "thẻ/phiếu số thứ tự"},
+      {"word": "業務", "reading": "ぎょうむ", "meaning": "nghiệp vụ, công việc"}
+    ],
+    "process": [
+      {
+        "sentence": "今月から、区役所のサービス時間が変わるということだ。",
+        "chunks": "今月から / 区役所のサービス時間が / 変わるということだ",
+        "guide": "今月から = từ tháng này → 区役所のサービス時間 = giờ phục vụ ủy ban → が chủ ngữ → 変わる = thay đổi → ということだ → ～ということだ = 'nghe nói rằng, có nghĩa là' → truyền đạt thông tin → 🔒 Đóng gói: [tin từ phường: từ tháng này giờ thay đổi]",
+        "translation": "Nghe nói từ tháng này, giờ phục vụ của ủy ban phường sẽ thay đổi."
+      },
+      {
+        "sentence": "新しい制度にもとづいて、平日の窓口は午後七時まで開くことになったらしい。",
+        "chunks": "新しい制度にもとづいて / 平日の窓口は / 午後七時まで開くことになったらしい",
+        "guide": "新しい制度にもとづいて → ～にもとづいて = 'dựa trên, căn cứ vào' → căn cứ chế độ mới → 平日の窓口 = quầy ngày thường → は chủ đề → 午後七時まで開くことになった = trở thành mở đến 19h → ことになる quy định khách quan → らしい phỏng đoán → 🔒 Đóng gói: [theo chế độ mới → mở đến 7h tối]",
+        "translation": "Dựa trên chế độ mới, có vẻ quầy tiếp dân các ngày trong tuần sẽ mở đến bảy giờ tối."
+      },
+      {
+        "sentence": "区役所を利用する際は、なるべく事前に電話で予約しておくとスムーズだ。",
+        "chunks": "区役所を利用する際は / なるべく事前に / 電話で予約しておくとスムーズだ",
+        "guide": "区役所を利用する際は → ～際は = 'khi, lúc' (formal, thay khi/とき) → なるべく = càng ~ càng tốt → 事前に = trước → 電話で予約しておく = đặt trước qua điện thoại (ておく chuẩn bị) → と điều kiện → スムーズだ = trôi chảy → 🔒 Đóng gói: [khi dùng → đặt trước → trôi chảy]",
+        "translation": "Khi sử dụng ủy ban phường, nếu đặt lịch trước qua điện thoại càng nhiều càng tốt thì sẽ trôi chảy."
+      },
+      {
+        "sentence": "市の調査結果にもとづいて、夜の利用希望者が増えていると判断されたということだ。",
+        "chunks": "市の調査結果にもとづいて / 夜の利用希望者が増えていると / 判断されたということだ",
+        "guide": "市の調査結果にもとづいて → ～にもとづいて lần thứ hai → căn cứ kết quả khảo sát → 夜の利用希望者が増えている = số người muốn dùng buổi tối đang tăng → と nội dung → 判断された = được đánh giá (bị động) → ということだ → ～ということだ lần thứ hai → 🔒 Đóng gói: [theo khảo sát → đánh giá tăng người dùng tối]",
+        "translation": "Nghe nói dựa trên kết quả khảo sát của thành phố, người ta đã đánh giá rằng số người mong muốn sử dụng vào buổi tối đang tăng."
+      },
+      {
+        "sentence": "私も先週、仕事帰りに住所変更の手続きに行ってきた。",
+        "chunks": "私も先週 / 仕事帰りに / 住所変更の手続きに行ってきた",
+        "guide": "私も先週 = tôi cũng tuần trước → 仕事帰りに = trên đường về sau công việc → 住所変更の手続き = thủ tục đổi địa chỉ → に行ってきた = đã đi và quay lại → 🔒 Đóng gói: [tuần trước tự thân tôi cũng đi làm thủ tục]",
+        "translation": "Tôi cũng đã đi làm thủ tục đổi địa chỉ trên đường về nhà tuần trước."
+      },
+      {
+        "sentence": "手続きをする際は、本人確認書類を必ず持って行かなければならない。",
+        "chunks": "手続きをする際は / 本人確認書類を / 必ず持って行かなければならない",
+        "guide": "手続きをする際は → ～際は lần thứ hai → 'khi làm thủ tục' → 本人確認書類を = giấy tờ xác nhận cá nhân (tân ngữ) → 必ず = nhất định → 持って行かなければならない = phải mang đi → 🔒 Đóng gói: [khi làm thủ tục → phải mang giấy tờ tùy thân]",
+        "translation": "Khi làm thủ tục, nhất định phải mang theo giấy tờ xác nhận cá nhân."
+      },
+      {
+        "sentence": "新しいルールにもとづいて、外国人住民へのサポートも強化されたということだ。",
+        "chunks": "新しいルールにもとづいて / 外国人住民へのサポートも / 強化されたということだ",
+        "guide": "新しいルールにもとづいて → ～にもとづいて lần thứ ba → căn cứ quy định mới → 外国人住民へのサポート = hỗ trợ cho cư dân nước ngoài → へ hướng đối tượng → も = cũng → 強化された = được tăng cường (bị động) → ということだ lần thứ ba → 🔒 Đóng gói: [theo rule mới → support người nước ngoài cũng tăng]",
+        "translation": "Nghe nói dựa trên quy định mới, hỗ trợ cho cư dân người nước ngoài cũng đã được tăng cường."
+      },
+      {
+        "sentence": "窓口では、英語や中国語で対応してくれる職員もいるそうだ。",
+        "chunks": "窓口では / 英語や中国語で / 対応してくれる職員もいるそうだ",
+        "guide": "窓口では → 場所 + では = tại quầy → 英語や中国語で = bằng tiếng Anh, Trung → や liệt kê không đầy đủ → 対応してくれる職員 = nhân viên tiếp đón giúp → もいる = cũng có → そうだ truyền tin → 🔒 Đóng gói: [quầy có nhân viên nói EN/CN]",
+        "translation": "Tại quầy, nghe nói cũng có nhân viên có thể tiếp đón bằng tiếng Anh hoặc tiếng Trung."
+      },
+      {
+        "sentence": "書類を提出する際は、記入もれがないか担当者と一緒に確認するとよい。",
+        "chunks": "書類を提出する際は / 記入もれがないか / 担当者と一緒に確認するとよい",
+        "guide": "書類を提出する際は → ～際は lần thứ ba → 'khi nộp giấy tờ' → 記入もれがないか = có thiếu sót không (か câu hỏi gián tiếp) → 担当者と一緒に = cùng với người phụ trách → 確認すると = nếu kiểm tra → よい = tốt → 🔒 Đóng gói: [khi nộp → cùng kiểm tra để không thiếu]",
+        "translation": "Khi nộp giấy tờ, cùng người phụ trách kiểm tra xem có thiếu sót gì không thì tốt."
+      },
+      {
+        "sentence": "区民からの声にもとづいて、待ち時間の表示が画面に出るようになったらしい。",
+        "chunks": "区民からの声にもとづいて / 待ち時間の表示が / 画面に出るようになったらしい",
+        "guide": "区民からの声にもとづいて → ～にもとづいて lần thứ tư → căn cứ ý kiến cư dân → 待ち時間の表示 = hiển thị thời gian chờ → 画面に出る = xuất hiện trên màn hình → ようになった = trở nên... → らしい phỏng đoán → 🔒 Đóng gói: [dựa ý kiến cư dân → có hiển thị thời gian chờ]",
+        "translation": "Có vẻ như dựa trên ý kiến của người dân khu phố, thời gian chờ đã được hiển thị lên màn hình."
+      },
+      {
+        "sentence": "手続きが終わった際は、忘れずに番号札を返すように案内されている。",
+        "chunks": "手続きが終わった際は / 忘れずに / 番号札を返すように案内されている",
+        "guide": "手続きが終わった際は → ～際は lần thứ tư → 'khi xong thủ tục' → 忘れずに = không quên → ずに phủ định bổ ngữ → 番号札を返すように = (như là) trả lại số thứ tự → 案内されている = được hướng dẫn (bị động) → 🔒 Đóng gói: [khi xong → trả số thứ tự là quy tắc]",
+        "translation": "Khi làm thủ tục xong, mọi người được hướng dẫn không quên trả lại số thứ tự."
+      },
+      {
+        "sentence": "区役所のホームページによると、土曜日も一部の業務を行っているということだ。",
+        "chunks": "区役所のホームページによると / 土曜日も / 一部の業務を行っているということだ",
+        "guide": "区役所のホームページによると → によると = theo (nguồn tin) → 土曜日も = thứ Bảy cũng → 一部の業務 = một phần nghiệp vụ → を行っている = đang làm → ということだ → ～ということだ lần thứ tư → 🔒 Đóng gói: [theo web phường → T7 vẫn làm 1 phần]",
+        "translation": "Theo trang chủ của ủy ban phường, nghe nói ngày thứ Bảy cũng làm một phần các nghiệp vụ."
+      },
+      {
+        "sentence": "困った際は、まず電話相談から始めると、無駄な時間が減るそうだ。",
+        "chunks": "困った際は / まず電話相談から始めると / 無駄な時間が減るそうだ",
+        "guide": "困った際は → ～際は lần thứ năm → 'khi gặp khó khăn' → まず = trước hết → 電話相談から始める = bắt đầu từ tư vấn điện thoại → と điều kiện → 無駄な時間が減る = thời gian lãng phí giảm → そうだ truyền tin → 🔒 Đóng gói: [khi khó → tư vấn ĐT trước → bớt phí thời gian]",
+        "translation": "Nghe nói khi gặp khó khăn, nếu bắt đầu từ tư vấn qua điện thoại trước thì sẽ giảm bớt thời gian lãng phí."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0295_Q1",
+        "question": "今月から、平日の区役所の窓口は何時まで開きますか。",
+        "question_vi": "Từ tháng này, quầy tiếp dân của ủy ban phường ngày trong tuần mở đến mấy giờ?",
+        "answers": [
+          {"text": "午後五時まで開く。", "text_vi": "Mở đến 5 giờ chiều.", "is_correct": false},
+          {"text": "午後六時まで開く。", "text_vi": "Mở đến 6 giờ chiều.", "is_correct": false},
+          {"text": "午後七時まで開く。", "text_vi": "Mở đến 7 giờ tối.", "is_correct": true},
+          {"text": "午後九時まで開く。", "text_vi": "Mở đến 9 giờ tối.", "is_correct": false}
+        ],
+        "explanation": "Câu 2 nói rõ 「新しい制度にもとづいて、平日の窓口は午後七時まで開くことになったらしい」 → ～にもとづいて = dựa trên + ことになった = quy định khách quan → đến 7h tối."
+      },
+      {
+        "id": "R_0295_Q2",
+        "question": "なぜ夜まで窓口を開けることになりましたか。",
+        "question_vi": "Tại sao quầy tiếp dân lại mở đến tối?",
+        "answers": [
+          {"text": "職員が増えたから。", "text_vi": "Vì nhân viên tăng lên.", "is_correct": false},
+          {"text": "市の調査結果にもとづいて、夜の利用希望者が増えていると判断されたから。", "text_vi": "Vì dựa trên kết quả khảo sát của thành phố, đã đánh giá rằng số người muốn sử dụng buổi tối đang tăng.", "is_correct": true},
+          {"text": "国の法律で決められたから。", "text_vi": "Vì luật nhà nước đã quy định.", "is_correct": false},
+          {"text": "近くの会社が頼んだから。", "text_vi": "Vì công ty gần đó nhờ.", "is_correct": false}
+        ],
+        "explanation": "Câu 4 trực tiếp giải thích 「市の調査結果にもとづいて、夜の利用希望者が増えていると判断されたということだ」 → ～にもとづいて = căn cứ vào + ということだ = nghe nói → lý do là kết quả khảo sát."
+      },
+      {
+        "id": "R_0295_Q3",
+        "question": "本文によると、区役所で手続きをする際に大切なことは何ですか。",
+        "question_vi": "Theo bài đọc, điều quan trọng khi làm thủ tục tại ủy ban phường là gì?",
+        "answers": [
+          {"text": "朝早く行って一番に並ぶこと。", "text_vi": "Đi sớm và đứng đầu hàng.", "is_correct": false},
+          {"text": "本人確認書類を必ず持って行くこと。", "text_vi": "Nhất định mang theo giấy tờ xác nhận cá nhân.", "is_correct": true},
+          {"text": "現金をたくさん用意すること。", "text_vi": "Chuẩn bị nhiều tiền mặt.", "is_correct": false},
+          {"text": "外国語の通訳を連れて行くこと。", "text_vi": "Dẫn theo phiên dịch tiếng nước ngoài.", "is_correct": false}
+        ],
+        "explanation": "Câu 6 nói rõ 「手続きをする際は、本人確認書類を必ず持って行かなければならない」 → ～際は = khi + 必ず + なければならない = nhất định phải → mang giấy tờ tùy thân là bắt buộc."
+      }
+    ]
+  },
+  {
+    "id": "R_0296",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "日本語ボランティア",
+    "title_vi": "Tình nguyện dạy tiếng Nhật",
+    "topic": "volunteer_work",
+    "subtopic": "dạy tiếng Nhật cho người nước ngoài",
+    "tags": ["として", "にとって", "ばかりでなく"],
+    "grammar_used": ["～として", "～にとって", "～ばかりでなく"],
+    "sentence_count": 13,
+    "text": "私は半年前から、地域の日本語教室でボランティアとして活動している。外国人住民にとって、日本での生活は言葉ばかりでなく、文化の違いも大きな壁になることが多い。先生としてではなく、同じ住民としてやさしく話すことを心がけている。教室には、ベトナム人やネパール人、インドネシア人など様々な人が来ている。彼らにとって、日本語を学ぶ場所は勉強ばかりでなく、心の支えにもなっているそうだ。私はサポート役として、文法を教えるだけでなく、生活の相談にものる。最近は、子どもの学校についての悩みばかりでなく、仕事の話まで出るようになってきた。私自身にとって、この活動は新しい発見の連続だ。日本人として当たり前だと思っていたことが、外国人にとっては不思議に見えることがよくある。教室の仲間として、お互いの文化を学び合えるのは本当にうれしい。日本語を教えることばかりでなく、人と人とのつながりを作ることもこの活動の魅力だ。地域の住民として、これからも長く続けていきたいと思っている。誰かにとって少しでも役に立てるなら、それが一番の喜びだ。",
+    "translation": "Từ nửa năm trước, tôi đã hoạt động với tư cách tình nguyện viên tại lớp tiếng Nhật của địa phương. Đối với cư dân người nước ngoài, cuộc sống ở Nhật không chỉ ngôn ngữ mà sự khác biệt văn hóa cũng thường trở thành bức tường lớn. Tôi không ở vai trò giáo viên, mà luôn chú tâm nói chuyện nhẹ nhàng với tư cách là cùng một người dân. Tại lớp học có nhiều người khác nhau như người Việt Nam, người Nepal, người Indonesia. Đối với họ, nghe nói nơi học tiếng Nhật không chỉ là học mà còn trở thành chỗ dựa tinh thần. Tôi với vai trò hỗ trợ, không chỉ dạy ngữ pháp mà còn lắng nghe các vấn đề trong cuộc sống. Gần đây, không chỉ những phiền lo về trường học của con cái, mà cả chuyện công việc cũng dần được nhắc đến. Đối với chính bản thân tôi, hoạt động này là một chuỗi những phát hiện mới. Những điều tôi cho là đương nhiên với tư cách là người Nhật, đối với người nước ngoài lại thường có vẻ kỳ lạ. Với tư cách là bạn cùng lớp, được học hỏi văn hóa của nhau thực sự rất vui. Sức hấp dẫn của hoạt động này không chỉ là dạy tiếng Nhật mà còn là tạo ra sự kết nối giữa người với người. Với tư cách là cư dân của khu phố, tôi muốn tiếp tục lâu dài cả sau này. Nếu có thể giúp ích dù chỉ một chút cho ai đó, thì đó chính là niềm vui lớn nhất.",
+    "vocabulary": [
+      {"word": "地域", "reading": "ちいき", "meaning": "khu vực, địa phương"},
+      {"word": "ボランティア", "reading": "ぼらんてぃあ", "meaning": "tình nguyện viên"},
+      {"word": "活動", "reading": "かつどう", "meaning": "hoạt động"},
+      {"word": "壁", "reading": "かべ", "meaning": "bức tường, rào cản"},
+      {"word": "心がける", "reading": "こころがける", "meaning": "chú tâm, để ý làm"},
+      {"word": "支え", "reading": "ささえ", "meaning": "chỗ dựa, sự nâng đỡ"},
+      {"word": "相談にのる", "reading": "そうだんにのる", "meaning": "lắng nghe lời khuyên"},
+      {"word": "悩み", "reading": "なやみ", "meaning": "nỗi lo, phiền muộn"},
+      {"word": "発見", "reading": "はっけん", "meaning": "phát hiện, khám phá"},
+      {"word": "当たり前", "reading": "あたりまえ", "meaning": "đương nhiên, hiển nhiên"},
+      {"word": "魅力", "reading": "みりょく", "meaning": "sức hấp dẫn, sức cuốn hút"},
+      {"word": "つながり", "reading": "つながり", "meaning": "sự kết nối, mối liên hệ"}
+    ],
+    "process": [
+      {
+        "sentence": "私は半年前から、地域の日本語教室でボランティアとして活動している。",
+        "chunks": "私は半年前から / 地域の日本語教室で / ボランティアとして活動している",
+        "guide": "私は半年前から → chủ đề + thời điểm bắt đầu → 地域の日本語教室で → で nơi chốn → ボランティアとして → ～として = 'với tư cách là, ở vai trò' → 活動している = đang hoạt động → 🔒 Đóng gói: [tôi → từ nửa năm → tình nguyện ở lớp JP địa phương]",
+        "translation": "Từ nửa năm trước, tôi đã hoạt động với tư cách tình nguyện viên tại lớp tiếng Nhật của địa phương."
+      },
+      {
+        "sentence": "外国人住民にとって、日本での生活は言葉ばかりでなく、文化の違いも大きな壁になることが多い。",
+        "chunks": "外国人住民にとって / 日本での生活は / 言葉ばかりでなく / 文化の違いも大きな壁になることが多い",
+        "guide": "外国人住民にとって → ～にとって = 'đối với (quan điểm)' → 日本での生活は = cuộc sống ở Nhật → 言葉ばかりでなく → ～ばかりでなく = 'không chỉ ~ mà còn' → 文化の違いも = cả khác biệt văn hóa → 大きな壁になる = trở thành rào cản lớn → 🔒 Đóng gói: [đối với người NN → không chỉ ngôn ngữ + cả văn hóa = rào cản]",
+        "translation": "Đối với cư dân người nước ngoài, cuộc sống ở Nhật không chỉ ngôn ngữ mà sự khác biệt văn hóa cũng thường trở thành bức tường lớn."
+      },
+      {
+        "sentence": "先生としてではなく、同じ住民としてやさしく話すことを心がけている。",
+        "chunks": "先生としてではなく / 同じ住民として / やさしく話すことを心がけている",
+        "guide": "先生としてではなく → ～として lần thứ hai + ではなく → 'không phải với tư cách giáo viên mà' → 同じ住民として → ～として lần thứ ba → 'với tư cách là cùng người dân' → やさしく話す = nói nhẹ nhàng → ことを心がけている = chú tâm làm điều đó → 🔒 Đóng gói: [không phải GV → mà cùng dân → nhẹ nhàng]",
+        "translation": "Tôi không ở vai trò giáo viên, mà luôn chú tâm nói chuyện nhẹ nhàng với tư cách là cùng một người dân."
+      },
+      {
+        "sentence": "教室には、ベトナム人やネパール人、インドネシア人など様々な人が来ている。",
+        "chunks": "教室には / ベトナム人やネパール人、インドネシア人など / 様々な人が来ている",
+        "guide": "教室には → 教室 + には = ở lớp học → ベトナム人やネパール人、インドネシア人など → や...など liệt kê ví dụ → 様々な人 = nhiều người khác nhau → が来ている = đang đến → 🔒 Đóng gói: [lớp → có VN/Nepal/Indo... đa dạng]",
+        "translation": "Tại lớp học có nhiều người khác nhau như người Việt Nam, người Nepal, người Indonesia."
+      },
+      {
+        "sentence": "彼らにとって、日本語を学ぶ場所は勉強ばかりでなく、心の支えにもなっているそうだ。",
+        "chunks": "彼らにとって / 日本語を学ぶ場所は / 勉強ばかりでなく / 心の支えにもなっているそうだ",
+        "guide": "彼らにとって → ～にとって lần thứ hai → 'đối với họ' → 日本語を学ぶ場所 = nơi học tiếng Nhật → は chủ đề → 勉強ばかりでなく → ～ばかりでなく lần thứ hai → 'không chỉ là học' → 心の支えにもなっている = cũng đang trở thành chỗ dựa tinh thần → そうだ truyền tin → 🔒 Đóng gói: [đối với họ → lớp = học + chỗ dựa tinh thần]",
+        "translation": "Đối với họ, nghe nói nơi học tiếng Nhật không chỉ là học mà còn trở thành chỗ dựa tinh thần."
+      },
+      {
+        "sentence": "私はサポート役として、文法を教えるだけでなく、生活の相談にものる。",
+        "chunks": "私はサポート役として / 文法を教えるだけでなく / 生活の相談にものる",
+        "guide": "私はサポート役として → ～として lần thứ tư → 'với vai trò hỗ trợ' → 文法を教えるだけでなく = không chỉ dạy ngữ pháp → だけでなく biến thể của ばかりでなく → 生活の相談にものる = lắng nghe cả tâm sự cuộc sống → 🔒 Đóng gói: [vai trò support → dạy ngữ pháp + tư vấn cuộc sống]",
+        "translation": "Tôi với vai trò hỗ trợ, không chỉ dạy ngữ pháp mà còn lắng nghe các vấn đề trong cuộc sống."
+      },
+      {
+        "sentence": "最近は、子どもの学校についての悩みばかりでなく、仕事の話まで出るようになってきた。",
+        "chunks": "最近は / 子どもの学校についての悩みばかりでなく / 仕事の話まで出るようになってきた",
+        "guide": "最近は → chủ đề thời điểm → 子どもの学校についての悩み = nỗi lo về trường con → ばかりでなく → ～ばかりでなく lần thứ ba → 'không chỉ' → 仕事の話まで = cả chuyện công việc (まで nhấn mạnh) → 出るようになってきた = đã dần được nói ra → 🔒 Đóng gói: [không chỉ chuyện con cái + cả công việc]",
+        "translation": "Gần đây, không chỉ những phiền lo về trường học của con cái, mà cả chuyện công việc cũng dần được nhắc đến."
+      },
+      {
+        "sentence": "私自身にとって、この活動は新しい発見の連続だ。",
+        "chunks": "私自身にとって / この活動は / 新しい発見の連続だ",
+        "guide": "私自身にとって → ～にとって lần thứ ba → 'đối với chính bản thân tôi' → この活動は = hoạt động này → 新しい発見の連続だ = chuỗi phát hiện mới → 連続 = liên tục → 🔒 Đóng gói: [với tôi → hoạt động = phát hiện liên tục]",
+        "translation": "Đối với chính bản thân tôi, hoạt động này là một chuỗi những phát hiện mới."
+      },
+      {
+        "sentence": "日本人として当たり前だと思っていたことが、外国人にとっては不思議に見えることがよくある。",
+        "chunks": "日本人として当たり前だと思っていたことが / 外国人にとっては / 不思議に見えることがよくある",
+        "guide": "日本人として → ～として lần thứ năm → 'với tư cách người Nhật' → 当たり前だと思っていたこと = điều tôi cho là đương nhiên → が chủ ngữ → 外国人にとっては → ～にとって lần thứ tư + は → 'đối với người nước ngoài thì' → 不思議に見える = trông kỳ lạ → ことがよくある = thường có → 🔒 Đóng gói: [JP nghĩ thường → người NN thấy lạ]",
+        "translation": "Những điều tôi cho là đương nhiên với tư cách là người Nhật, đối với người nước ngoài lại thường có vẻ kỳ lạ."
+      },
+      {
+        "sentence": "教室の仲間として、お互いの文化を学び合えるのは本当にうれしい。",
+        "chunks": "教室の仲間として / お互いの文化を / 学び合えるのは本当にうれしい",
+        "guide": "教室の仲間として → ～として lần thứ sáu → 'với tư cách bạn cùng lớp' → お互いの文化 = văn hóa của nhau → 学び合える = có thể học hỏi lẫn nhau (合う tương hỗ + える khả năng) → のは danh hóa → 本当にうれしい = thực sự vui → 🔒 Đóng gói: [vai trò bạn cùng lớp → học hỏi văn hóa lẫn nhau → vui]",
+        "translation": "Với tư cách là bạn cùng lớp, được học hỏi văn hóa của nhau thực sự rất vui."
+      },
+      {
+        "sentence": "日本語を教えることばかりでなく、人と人とのつながりを作ることもこの活動の魅力だ。",
+        "chunks": "日本語を教えることばかりでなく / 人と人とのつながりを / 作ることもこの活動の魅力だ",
+        "guide": "日本語を教えることばかりでなく → ～ばかりでなく lần thứ tư → 'không chỉ dạy tiếng Nhật' → 人と人とのつながり = sự kết nối giữa người với người → を作ることも = cả việc tạo cũng → この活動の魅力だ = sức hấp dẫn của hoạt động → 🔒 Đóng gói: [không chỉ dạy + tạo kết nối = sức hấp dẫn]",
+        "translation": "Sức hấp dẫn của hoạt động này không chỉ là dạy tiếng Nhật mà còn là tạo ra sự kết nối giữa người với người."
+      },
+      {
+        "sentence": "地域の住民として、これからも長く続けていきたいと思っている。",
+        "chunks": "地域の住民として / これからも / 長く続けていきたいと思っている",
+        "guide": "地域の住民として → ～として lần thứ bảy → 'với tư cách cư dân khu phố' → これからも = từ giờ trở đi cũng → 長く続けていきたい = muốn tiếp tục lâu dài → ていく hướng tương lai + たい muốn → と思っている = đang nghĩ → 🔒 Đóng gói: [vai trò cư dân → muốn tiếp tục lâu dài]",
+        "translation": "Với tư cách là cư dân của khu phố, tôi muốn tiếp tục lâu dài cả sau này."
+      },
+      {
+        "sentence": "誰かにとって少しでも役に立てるなら、それが一番の喜びだ。",
+        "chunks": "誰かにとって / 少しでも役に立てるなら / それが一番の喜びだ",
+        "guide": "誰かにとって → ～にとって lần thứ năm → 'đối với ai đó' → 少しでも役に立てる = có thể có ích dù chỉ chút → なら điều kiện 'nếu' → それが一番の喜びだ = đó là niềm vui lớn nhất → 🔒 Đóng gói: [nếu giúp ai đó dù chút → niềm vui lớn nhất]",
+        "translation": "Nếu có thể giúp ích dù chỉ một chút cho ai đó, thì đó chính là niềm vui lớn nhất."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0296_Q1",
+        "question": "筆者はどんな立場で日本語教室に関わっていますか。",
+        "question_vi": "Tác giả tham gia lớp tiếng Nhật với tư cách như thế nào?",
+        "answers": [
+          {"text": "学校の先生として給料をもらって教えている。", "text_vi": "Là giáo viên trường học, được trả lương để dạy.", "is_correct": false},
+          {"text": "ボランティアとして、同じ住民の立場で活動している。", "text_vi": "Là tình nguyện viên, hoạt động với tư cách cùng người dân.", "is_correct": true},
+          {"text": "外国人住民として日本語を勉強している。", "text_vi": "Là cư dân nước ngoài đang học tiếng Nhật.", "is_correct": false},
+          {"text": "区役所の職員として通訳をしている。", "text_vi": "Là nhân viên ủy ban phường làm phiên dịch.", "is_correct": false}
+        ],
+        "explanation": "Câu 1 nói 「ボランティアとして活動している」 và câu 3 bổ sung 「先生としてではなく、同じ住民としてやさしく話すことを心がけている」 → ～として = với tư cách → tác giả là tình nguyện viên + đứng ở vị trí cùng cư dân chứ không phải GV."
+      },
+      {
+        "id": "R_0296_Q2",
+        "question": "外国人住民にとって、日本での生活が大変なのはなぜですか。",
+        "question_vi": "Tại sao đối với cư dân người nước ngoài, cuộc sống ở Nhật lại vất vả?",
+        "answers": [
+          {"text": "言葉ばかりでなく、文化の違いも大きな壁になるから。", "text_vi": "Vì không chỉ ngôn ngữ mà cả khác biệt văn hóa cũng trở thành rào cản lớn.", "is_correct": true},
+          {"text": "ボランティアの先生がいないから。", "text_vi": "Vì không có giáo viên tình nguyện.", "is_correct": false},
+          {"text": "区役所が遠いから。", "text_vi": "Vì ủy ban phường ở xa.", "is_correct": false},
+          {"text": "仕事の給料が低いから。", "text_vi": "Vì lương công việc thấp.", "is_correct": false}
+        ],
+        "explanation": "Câu 2 nói rõ 「外国人住民にとって、日本での生活は言葉ばかりでなく、文化の違いも大きな壁になることが多い」 → ～にとって = đối với + ～ばかりでなく = không chỉ → ngôn ngữ + văn hóa cùng là rào cản."
+      },
+      {
+        "id": "R_0296_Q3",
+        "question": "筆者はこの活動の一番の喜びを何だと考えていますか。",
+        "question_vi": "Tác giả cho rằng niềm vui lớn nhất của hoạt động này là gì?",
+        "answers": [
+          {"text": "日本語の上手な先生になれること。", "text_vi": "Trở thành giáo viên dạy tiếng Nhật giỏi.", "is_correct": false},
+          {"text": "外国の文化を全部覚えること。", "text_vi": "Học thuộc toàn bộ văn hóa nước ngoài.", "is_correct": false},
+          {"text": "誰かにとって少しでも役に立てること。", "text_vi": "Có thể giúp ích dù chỉ một chút cho ai đó.", "is_correct": true},
+          {"text": "区役所からお金がもらえること。", "text_vi": "Được nhận tiền từ ủy ban phường.", "is_correct": false}
+        ],
+        "explanation": "Câu cuối nói rõ 「誰かにとって少しでも役に立てるなら、それが一番の喜びだ」 → ～にとって = đối với + 一番の喜び = niềm vui lớn nhất → giúp ích cho người khác là niềm vui lớn nhất, đây là kết luận tổng hợp xuyên suốt bài."
+      }
+    ]
+  }
+]

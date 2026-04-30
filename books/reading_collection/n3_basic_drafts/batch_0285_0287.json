@@ -1,0 +1,438 @@
+[
+  {
+    "id": "R_0285",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "ネット通販の便利さ",
+    "title_vi": "Sự tiện lợi của mua sắm online",
+    "topic": "online_shopping",
+    "subtopic": "mua sắm online",
+    "tags": ["わけだ", "による", "たところ"],
+    "grammar_used": ["～わけだ", "～による", "～たところ"],
+    "sentence_count": 13,
+    "text": "最近はスマートフォンで何でも買えるので、街の店に行く人が減っているわけだ。先月、私は初めて家具をネットで注文してみたところ、思ったより早く届いて驚いた。配送の速さは、最近の技術の進歩によるものだと言われている。商品が翌日に届くわけだから、わざわざ重い物を持って帰る必要がない。実際に試してみたところ、サイズも色も写真の通りで満足できた。ただ、買う前にレビューをよく読まないと、思っていた物と違う場合もあるわけだ。先日、友人が安いイヤホンを注文したところ、音がすぐに出なくなってしまったらしい。返品の手続きは、店舗による違いが大きいので注意が必要だ。トラブルの多くは、商品の説明不足によるものだと専門家は指摘している。私もある服を買ったところ、サイズが合わなくて結局返さなければならなかった。それでも、忙しい人にとってはネット通販はとても便利なわけだ。買い物の方法は、その人の生活スタイルによって変わってくるのだろう。これからもネット通販を上手に使っていきたいと思う。",
+    "translation": "Gần đây có thể mua được mọi thứ bằng điện thoại thông minh, thế thì ra số người đến cửa hàng phố đang giảm là có lý do. Tháng trước, lần đầu tiên tôi thử đặt mua đồ nội thất qua mạng thì hàng đến nhanh hơn tôi nghĩ, làm tôi rất ngạc nhiên. Người ta nói rằng tốc độ giao hàng là nhờ sự tiến bộ của công nghệ gần đây. Vì hàng đến vào ngày hôm sau, có nghĩa là không cần phải vất vả mang đồ nặng về nhà. Khi tôi thử thực tế thì kích cỡ và màu sắc đều giống ảnh, nên tôi rất hài lòng. Tuy nhiên, nếu không đọc kỹ đánh giá trước khi mua thì cũng có khi hàng khác với những gì mình nghĩ. Hôm trước, nghe nói bạn tôi đặt một chiếc tai nghe rẻ thì âm thanh không phát ra được nữa. Thủ tục hoàn trả tùy theo cửa hàng có sự khác biệt lớn, nên cần chú ý. Các chuyên gia chỉ ra rằng phần lớn rắc rối là do thiếu thông tin mô tả về sản phẩm. Tôi cũng thử mua một bộ quần áo thì kích cỡ không vừa, cuối cùng phải trả lại. Dù vậy, đối với người bận thì mua sắm online thực sự rất tiện lợi, có lẽ vì thế. Cách mua sắm có lẽ sẽ thay đổi tùy theo phong cách sống của mỗi người. Từ nay trở đi, tôi cũng muốn sử dụng mua sắm online một cách khéo léo.",
+    "vocabulary": [
+      {"word": "通販", "reading": "つうはん", "meaning": "mua hàng qua mạng/đặt hàng"},
+      {"word": "家具", "reading": "かぐ", "meaning": "đồ nội thất"},
+      {"word": "配送", "reading": "はいそう", "meaning": "vận chuyển, giao hàng"},
+      {"word": "進歩", "reading": "しんぽ", "meaning": "tiến bộ"},
+      {"word": "翌日", "reading": "よくじつ", "meaning": "ngày hôm sau"},
+      {"word": "返品", "reading": "へんぴん", "meaning": "trả lại hàng"},
+      {"word": "手続き", "reading": "てつづき", "meaning": "thủ tục"},
+      {"word": "店舗", "reading": "てんぽ", "meaning": "cửa hàng"},
+      {"word": "指摘", "reading": "してき", "meaning": "chỉ ra, chỉ trích"},
+      {"word": "結局", "reading": "けっきょく", "meaning": "rốt cuộc, cuối cùng"}
+    ],
+    "process": [
+      {
+        "sentence": "最近はスマートフォンで何でも買えるので、街の店に行く人が減っているわけだ。",
+        "chunks": "最近は / スマートフォンで何でも買えるので / 街の店に行く人が減っているわけだ",
+        "guide": "最近は → chủ đề thời gian → スマートフォンで何でも買える → で phương tiện 'bằng điện thoại' → ので nguyên nhân → 街の店に行く人が減っている = số người đến cửa hàng phố đang giảm → わけだ → ～わけだ = 'thảo nào, có nghĩa là' → kết luận hợp lý từ tiền đề → 🔒 Đóng gói: [mua bằng phone → vậy thì ra cửa hàng phố giảm khách]",
+        "translation": "Gần đây có thể mua được mọi thứ bằng điện thoại thông minh, thế thì ra số người đến cửa hàng phố đang giảm là có lý do."
+      },
+      {
+        "sentence": "先月、私は初めて家具をネットで注文してみたところ、思ったより早く届いて驚いた。",
+        "chunks": "先月 / 私は初めて家具をネットで注文してみたところ / 思ったより早く届いて驚いた",
+        "guide": "先月 = tháng trước → 私は初めて家具をネットで → で phương tiện 'qua mạng' → 注文してみた = đã thử đặt → ところ → ～たところ = 'khi thử thì' → kết quả ngay sau hành động → 思ったより早く届いて = đến nhanh hơn nghĩ → 驚いた = ngạc nhiên → 🔒 Đóng gói: [thử đặt nội thất → kết quả: đến nhanh ngạc nhiên]",
+        "translation": "Tháng trước, lần đầu tiên tôi thử đặt mua đồ nội thất qua mạng thì hàng đến nhanh hơn tôi nghĩ, làm tôi rất ngạc nhiên."
+      },
+      {
+        "sentence": "配送の速さは、最近の技術の進歩によるものだと言われている。",
+        "chunks": "配送の速さは / 最近の技術の進歩によるものだと / 言われている",
+        "guide": "配送の速さは → chủ đề tốc độ giao hàng → 最近の技術の進歩によるもの → ～による = 'do, bởi, nhờ' → chỉ nguyên nhân/căn cứ → によるものだ = 'là do' → と言われている = được nói rằng (bị động không xác định người nói) → 🔒 Đóng gói: [tốc độ giao hàng → do tiến bộ công nghệ]",
+        "translation": "Người ta nói rằng tốc độ giao hàng là nhờ sự tiến bộ của công nghệ gần đây."
+      },
+      {
+        "sentence": "商品が翌日に届くわけだから、わざわざ重い物を持って帰る必要がない。",
+        "chunks": "商品が翌日に届くわけだから / わざわざ重い物を / 持って帰る必要がない",
+        "guide": "商品が翌日に届く = hàng đến ngày hôm sau → わけだから → ～わけだ + から → 'có nghĩa là, vì vậy' → kết luận + lý do → わざわざ = vất vả/cố ý → 重い物を持って帰る必要がない = không cần mang đồ nặng về → 🔒 Đóng gói: [hàng đến ngày sau → vậy thì không cần xách nặng]",
+        "translation": "Vì hàng đến vào ngày hôm sau, có nghĩa là không cần phải vất vả mang đồ nặng về nhà."
+      },
+      {
+        "sentence": "実際に試してみたところ、サイズも色も写真の通りで満足できた。",
+        "chunks": "実際に試してみたところ / サイズも色も写真の通りで / 満足できた",
+        "guide": "実際に試してみた = đã thử thực tế → ところ → ～たところ lần thứ hai → kết quả khi thử → サイズも色も = cả size và màu → も～も liệt kê → 写真の通り = đúng như ảnh → で nối → 満足できた = đã hài lòng → 🔒 Đóng gói: [thử thực tế → size + màu đúng ảnh → hài lòng]",
+        "translation": "Khi tôi thử thực tế thì kích cỡ và màu sắc đều giống ảnh, nên tôi rất hài lòng."
+      },
+      {
+        "sentence": "ただ、買う前にレビューをよく読まないと、思っていた物と違う場合もあるわけだ。",
+        "chunks": "ただ / 買う前にレビューをよく読まないと / 思っていた物と違う場合もあるわけだ",
+        "guide": "ただ = tuy nhiên (chuyển ý nhẹ) → 買う前に = trước khi mua → レビューをよく読まないと = nếu không đọc kỹ review → と điều kiện → 思っていた物と違う = khác với cái nghĩ → 場合もある = có khi cũng có → わけだ → ～わけだ lần thứ ba → 'có nghĩa là' → 🔒 Đóng gói: [không đọc review → có khi hàng khác hình dung]",
+        "translation": "Tuy nhiên, nếu không đọc kỹ đánh giá trước khi mua thì cũng có khi hàng khác với những gì mình nghĩ."
+      },
+      {
+        "sentence": "先日、友人が安いイヤホンを注文したところ、音がすぐに出なくなってしまったらしい。",
+        "chunks": "先日 / 友人が安いイヤホンを注文したところ / 音がすぐに出なくなってしまったらしい",
+        "guide": "先日 = hôm trước → 友人が安いイヤホンを注文した = bạn đặt tai nghe rẻ → ところ → ～たところ lần thứ ba → kết quả bất ngờ sau hành động → 音がすぐに出なくなってしまった = âm không ra được → てしまった tiếc → らしい = nghe nói → 🔒 Đóng gói: [bạn đặt tai nghe rẻ → kết quả: âm không ra]",
+        "translation": "Hôm trước, nghe nói bạn tôi đặt một chiếc tai nghe rẻ thì âm thanh không phát ra được nữa."
+      },
+      {
+        "sentence": "返品の手続きは、店舗による違いが大きいので注意が必要だ。",
+        "chunks": "返品の手続きは / 店舗による違いが大きいので / 注意が必要だ",
+        "guide": "返品の手続きは → chủ đề thủ tục trả → 店舗による違い → ～による lần thứ hai → 'tùy theo, theo' → modify 違い 'khác biệt theo cửa hàng' → が大きい = lớn → ので nguyên nhân → 注意が必要だ = cần chú ý → 🔒 Đóng gói: [thủ tục trả → khác biệt theo cửa hàng → cần chú ý]",
+        "translation": "Thủ tục hoàn trả tùy theo cửa hàng có sự khác biệt lớn, nên cần chú ý."
+      },
+      {
+        "sentence": "トラブルの多くは、商品の説明不足によるものだと専門家は指摘している。",
+        "chunks": "トラブルの多くは / 商品の説明不足によるものだと / 専門家は指摘している",
+        "guide": "トラブルの多くは → chủ đề 'phần lớn rắc rối' → 商品の説明不足によるもの → ～による lần thứ ba → 'do, bởi' → によるものだ = 'là do' → と引用 → 専門家は指摘している = chuyên gia đang chỉ ra → 🔒 Đóng gói: [rắc rối → do thiếu mô tả → chuyên gia nói]",
+        "translation": "Các chuyên gia chỉ ra rằng phần lớn rắc rối là do thiếu thông tin mô tả về sản phẩm."
+      },
+      {
+        "sentence": "私もある服を買ったところ、サイズが合わなくて結局返さなければならなかった。",
+        "chunks": "私もある服を買ったところ / サイズが合わなくて / 結局返さなければならなかった",
+        "guide": "私もある服を買った = tôi cũng mua một bộ quần áo → ところ → ～たところ lần thứ tư → kết quả không như ý → サイズが合わなくて = size không vừa → て nguyên nhân → 結局返さなければならなかった = cuối cùng phải trả → 🔒 Đóng gói: [tôi mua quần áo → kết quả: size sai → phải trả lại]",
+        "translation": "Tôi cũng thử mua một bộ quần áo thì kích cỡ không vừa, cuối cùng phải trả lại."
+      },
+      {
+        "sentence": "それでも、忙しい人にとってはネット通販はとても便利なわけだ。",
+        "chunks": "それでも / 忙しい人にとっては / ネット通販はとても便利なわけだ",
+        "guide": "それでも = dù vậy → 忙しい人にとっては = đối với người bận rộn → にとって lập trường → ネット通販はとても便利 = mua online rất tiện → わけだ → ～わけだ lần thứ tư → 'thế nên, có lý do' → 🔒 Đóng gói: [dù có vấn đề → người bận → mua online tiện là có lý do]",
+        "translation": "Dù vậy, đối với người bận thì mua sắm online thực sự rất tiện lợi, có lẽ vì thế."
+      },
+      {
+        "sentence": "買い物の方法は、その人の生活スタイルによって変わってくるのだろう。",
+        "chunks": "買い物の方法は / その人の生活スタイルによって / 変わってくるのだろう",
+        "guide": "買い物の方法は → chủ đề 'cách mua sắm' → その人の生活スタイルによって → ～によって (biến thể của による) → 'tùy theo' → 変わってくる = sẽ thay đổi → のだろう = có lẽ → 🔒 Đóng gói: [cách mua → tùy lifestyle → sẽ thay đổi]",
+        "translation": "Cách mua sắm có lẽ sẽ thay đổi tùy theo phong cách sống của mỗi người."
+      },
+      {
+        "sentence": "これからもネット通販を上手に使っていきたいと思う。",
+        "chunks": "これからも / ネット通販を / 上手に使っていきたいと思う",
+        "guide": "これからも = từ giờ trở đi cũng → ネット通販を = mua sắm online (tân ngữ) → 上手に = khéo léo → 使っていきたい → ていく hướng tương lai + たい → 'muốn tiếp tục dùng' → と思う = nghĩ rằng → 🔒 Đóng gói: [muốn tiếp tục dùng online khéo léo]",
+        "translation": "Từ nay trở đi, tôi cũng muốn sử dụng mua sắm online một cách khéo léo."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0285_Q1",
+        "question": "筆者は先月、ネットで何を初めて注文しましたか。",
+        "question_vi": "Tháng trước, tác giả lần đầu đặt món gì qua mạng?",
+        "answers": [
+          {"text": "服を注文した。", "text_vi": "Đặt quần áo.", "is_correct": false},
+          {"text": "家具を注文した。", "text_vi": "Đặt đồ nội thất.", "is_correct": true},
+          {"text": "イヤホンを注文した。", "text_vi": "Đặt tai nghe.", "is_correct": false},
+          {"text": "本を注文した。", "text_vi": "Đặt sách.", "is_correct": false}
+        ],
+        "explanation": "Câu 2 nói rõ 「先月、私は初めて家具をネットで注文してみたところ」→ 初めて = lần đầu + 家具 = đồ nội thất → tác giả lần đầu đặt nội thất. Quần áo (câu 10) và tai nghe (câu 7 - bạn đặt) là những item khác."
+      },
+      {
+        "id": "R_0285_Q2",
+        "question": "なぜ重い物を持って帰る必要がないのですか。",
+        "question_vi": "Tại sao không cần phải mang đồ nặng về nhà?",
+        "answers": [
+          {"text": "店が家の近くにあるから。", "text_vi": "Vì cửa hàng ở gần nhà.", "is_correct": false},
+          {"text": "商品が翌日に届くから。", "text_vi": "Vì hàng đến vào ngày hôm sau.", "is_correct": true},
+          {"text": "自分で運ぶのが好きだから。", "text_vi": "Vì thích tự mình vận chuyển.", "is_correct": false},
+          {"text": "友人が運んでくれるから。", "text_vi": "Vì bạn vận chuyển giùm.", "is_correct": false}
+        ],
+        "explanation": "Câu 4 trực tiếp giải thích 「商品が翌日に届くわけだから、わざわざ重い物を持って帰る必要がない」→ ～わけだから = 'có nghĩa là vì vậy' → vì hàng giao đến nhà ngày hôm sau nên không cần xách đồ nặng về."
+      },
+      {
+        "id": "R_0285_Q3",
+        "question": "本文から、筆者はネット通販についてどう考えていますか。",
+        "question_vi": "Từ bài đọc, tác giả nghĩ thế nào về mua sắm online?",
+        "answers": [
+          {"text": "問題が多いので、もう使うつもりはない。", "text_vi": "Có nhiều vấn đề nên không định dùng nữa.", "is_correct": false},
+          {"text": "問題もあるが、便利なのでこれからも上手に使っていきたい。", "text_vi": "Tuy có vấn đề nhưng vì tiện nên muốn tiếp tục dùng khéo léo.", "is_correct": true},
+          {"text": "若い人にしか向かない買い物の方法だ。", "text_vi": "Là cách mua sắm chỉ phù hợp với người trẻ.", "is_correct": false},
+          {"text": "店舗で買うほうが絶対にいい。", "text_vi": "Mua ở cửa hàng tuyệt đối tốt hơn.", "is_correct": false}
+        ],
+        "explanation": "Bài thừa nhận có vấn đề (size sai - câu 10, tai nghe hỏng - câu 7) nhưng câu 11 nói 「忙しい人にとってはネット通販はとても便利なわけだ」 và câu 13 kết 「これからもネット通販を上手に使っていきたいと思う」→ tác giả công nhận cả ưu nhược + muốn dùng khéo léo. Đây là suy luận tổng hợp xuyên suốt bài."
+      }
+    ]
+  },
+  {
+    "id": "R_0286",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "油絵を描く時間",
+    "title_vi": "Thời gian vẽ tranh sơn dầu",
+    "topic": "hobby",
+    "subtopic": "vẽ tranh sơn dầu",
+    "tags": ["かけ／かける", "って", "ものか"],
+    "grammar_used": ["～かけ／かける", "～って", "～ものか"],
+    "sentence_count": 13,
+    "text": "私の趣味は油絵を描くことだ。友人に「油絵って難しくないの」とよく聞かれるが、慣れれば普通の絵と変わらない。先週末、描きかけの風景画をやっと完成させることができた。アトリエの机の上には、いつも描きかけのキャンバスが何枚も置いてある。母は「絵を描くって、本当に集中力がいるね」と感心したように言ってくれた。途中で諦めるものか、と自分に言い聞かせながら、毎日少しずつ筆を進めている。先日、絵の先生が「色って、混ぜすぎると汚くなるよ」と教えてくれた。確かに、色を混ぜかけたとき、止めるタイミングが本当に難しい。一度失敗した絵でも、捨てるものかと思って、上から塗り直すこともある。妹は「お姉ちゃんって、いつも絵のことばかり考えてるね」と笑う。それでも、描きかけの絵を見ると、続きを描かずにはいられない気持ちになる。「この趣味をやめるものか」と心の中で思いながら、また筆を取る。油絵を描く時間は、私にとって何物にも代えがたい大切な時間なのだ。",
+    "translation": "Sở thích của tôi là vẽ tranh sơn dầu. Bạn bè hay hỏi tôi rằng 'tranh sơn dầu không khó sao', nhưng khi đã quen rồi thì cũng không khác tranh bình thường. Cuối tuần trước, tôi cuối cùng đã hoàn thành được bức tranh phong cảnh đang vẽ dở. Trên bàn của xưởng vẽ luôn có vài tấm canvas đang vẽ dở được đặt sẵn. Mẹ nói với vẻ ngưỡng mộ rằng 'vẽ tranh thật là cần sự tập trung nhỉ'. Tự nhủ với mình rằng làm sao mà bỏ cuộc giữa chừng được, mỗi ngày tôi đều từ từ đưa cọ tiến lên. Hôm trước, thầy dạy vẽ đã chỉ cho tôi rằng 'màu sắc ấy, nếu trộn quá nhiều thì sẽ bẩn đó'. Quả thật, khi đang trộn dở màu sắc, thời điểm dừng lại là điều rất khó. Ngay cả với bức tranh đã từng thất bại, tôi nghĩ làm sao mà vứt được, có khi lại sơn đè lên trên. Em gái cười và nói 'chị ấy, lúc nào cũng chỉ nghĩ về tranh thôi nhỉ'. Dù vậy, mỗi khi nhìn bức tranh đang vẽ dở, tôi đều có cảm giác không thể không vẽ tiếp. Vừa nghĩ trong lòng 'không đời nào tôi bỏ sở thích này được', tôi lại cầm cọ lên. Thời gian vẽ tranh sơn dầu, đối với tôi là khoảng thời gian quý báu không gì có thể thay thế được.",
+    "vocabulary": [
+      {"word": "油絵", "reading": "あぶらえ", "meaning": "tranh sơn dầu"},
+      {"word": "風景画", "reading": "ふうけいが", "meaning": "tranh phong cảnh"},
+      {"word": "完成", "reading": "かんせい", "meaning": "hoàn thành"},
+      {"word": "アトリエ", "reading": "あとりえ", "meaning": "xưởng vẽ, atelier"},
+      {"word": "集中力", "reading": "しゅうちゅうりょく", "meaning": "sức tập trung"},
+      {"word": "感心", "reading": "かんしん", "meaning": "khâm phục, ngưỡng mộ"},
+      {"word": "諦める", "reading": "あきらめる", "meaning": "từ bỏ, bỏ cuộc"},
+      {"word": "筆", "reading": "ふで", "meaning": "cọ vẽ, bút lông"},
+      {"word": "塗り直す", "reading": "ぬりなおす", "meaning": "sơn lại, vẽ đè lên"},
+      {"word": "代えがたい", "reading": "かえがたい", "meaning": "khó thay thế"}
+    ],
+    "process": [
+      {
+        "sentence": "私の趣味は油絵を描くことだ。",
+        "chunks": "私の趣味は / 油絵を描くことだ",
+        "guide": "私の趣味は → は chủ đề 'sở thích của tôi' → 油絵を描く = vẽ tranh sơn dầu → ことだ → こと danh hóa + だ khẳng định → 🔒 Đóng gói: [sở thích của tôi = vẽ tranh sơn dầu]",
+        "translation": "Sở thích của tôi là vẽ tranh sơn dầu."
+      },
+      {
+        "sentence": "友人に「油絵って難しくないの」とよく聞かれるが、慣れれば普通の絵と変わらない。",
+        "chunks": "友人に / 「油絵って難しくないの」と / よく聞かれるが / 慣れれば普通の絵と変わらない",
+        "guide": "友人に → に chủ thể bị động → 「油絵って難しくないの」 → って → ～って = khẩu ngữ thay は (chủ đề) → 'tranh sơn dầu ấy' → 難しくないの = không khó sao → と聞かれる = bị hỏi (bị động) → が tương phản → 慣れれば = nếu quen → 普通の絵と変わらない = không khác tranh thường → 🔒 Đóng gói: [bạn hỏi: tranh dầu khó không? → quen rồi thì không khó]",
+        "translation": "Bạn bè hay hỏi tôi rằng 'tranh sơn dầu không khó sao', nhưng khi đã quen rồi thì cũng không khác tranh bình thường."
+      },
+      {
+        "sentence": "先週末、描きかけの風景画をやっと完成させることができた。",
+        "chunks": "先週末 / 描きかけの風景画を / やっと完成させることができた",
+        "guide": "先週末 = cuối tuần trước → 描きかけの → ～かけ = 'dở dang, đang làm giữa chừng' → V-ます形 + かけ → 描きかけ = đang vẽ dở → の bổ ngữ cho 風景画 → やっと = cuối cùng → 完成させることができた = đã có thể hoàn thành → 🔒 Đóng gói: [tranh phong cảnh vẽ dở → cuối cùng hoàn thành]",
+        "translation": "Cuối tuần trước, tôi cuối cùng đã hoàn thành được bức tranh phong cảnh đang vẽ dở."
+      },
+      {
+        "sentence": "アトリエの机の上には、いつも描きかけのキャンバスが何枚も置いてある。",
+        "chunks": "アトリエの机の上には / いつも描きかけのキャンバスが / 何枚も置いてある",
+        "guide": "アトリエの机の上には → には nhấn mạnh nơi → いつも = luôn → 描きかけのキャンバス → ～かけ lần thứ hai → 'canvas vẽ dở' → が何枚も = mấy tấm cũng → 置いてある = đang được đặt sẵn → てある trạng thái có chủ ý → 🔒 Đóng gói: [trên bàn xưởng → luôn có vài canvas dở dang]",
+        "translation": "Trên bàn của xưởng vẽ luôn có vài tấm canvas đang vẽ dở được đặt sẵn."
+      },
+      {
+        "sentence": "母は「絵を描くって、本当に集中力がいるね」と感心したように言ってくれた。",
+        "chunks": "母は / 「絵を描くって、本当に集中力がいるね」と / 感心したように言ってくれた",
+        "guide": "母は → chủ đề 'mẹ' → 「絵を描くって」 → ～って lần thứ hai → 'cái việc vẽ tranh ấy' (chủ đề khẩu ngữ) → 本当に集中力がいるね = thật cần sự tập trung → と引用 → 感心したように = như là khâm phục → 言ってくれた = đã nói cho tôi → 🔒 Đóng gói: [mẹ khâm phục: vẽ tranh ấy → cần tập trung]",
+        "translation": "Mẹ nói với vẻ ngưỡng mộ rằng 'vẽ tranh thật là cần sự tập trung nhỉ'."
+      },
+      {
+        "sentence": "途中で諦めるものか、と自分に言い聞かせながら、毎日少しずつ筆を進めている。",
+        "chunks": "途中で諦めるものか / と自分に言い聞かせながら / 毎日少しずつ筆を進めている",
+        "guide": "途中で = giữa chừng → 諦めるものか → ～ものか = 'làm sao mà ~ được, không đời nào' → biểu lộ quyết tâm phủ định mạnh → 'không đời nào bỏ cuộc' → と自分に言い聞かせながら = vừa tự nhủ → 毎日少しずつ筆を進めている = mỗi ngày từ từ tiến bút → 🔒 Đóng gói: [tự nhủ: không đời nào bỏ → mỗi ngày từ từ vẽ]",
+        "translation": "Tự nhủ với mình rằng làm sao mà bỏ cuộc giữa chừng được, mỗi ngày tôi đều từ từ đưa cọ tiến lên."
+      },
+      {
+        "sentence": "先日、絵の先生が「色って、混ぜすぎると汚くなるよ」と教えてくれた。",
+        "chunks": "先日 / 絵の先生が / 「色って、混ぜすぎると汚くなるよ」と教えてくれた",
+        "guide": "先日 = hôm trước → 絵の先生が = thầy vẽ (chủ ngữ) → 「色って」 → ～って lần thứ ba → 'màu sắc ấy' (chủ đề khẩu ngữ) → 混ぜすぎると = nếu trộn quá → 汚くなるよ = sẽ bẩn → と教えてくれた = đã dạy cho tôi → 🔒 Đóng gói: [thầy dạy: màu ấy → trộn quá → bẩn]",
+        "translation": "Hôm trước, thầy dạy vẽ đã chỉ cho tôi rằng 'màu sắc ấy, nếu trộn quá nhiều thì sẽ bẩn đó'."
+      },
+      {
+        "sentence": "確かに、色を混ぜかけたとき、止めるタイミングが本当に難しい。",
+        "chunks": "確かに / 色を混ぜかけたとき / 止めるタイミングが本当に難しい",
+        "guide": "確かに = quả thật → 色を混ぜかけた → ～かける = 'đang làm giữa chừng' (động từ kết thúc た có nghĩa 'lúc bắt đầu/đang trộn') → とき = lúc → 止めるタイミング = thời điểm dừng → が本当に難しい = thật khó → 🔒 Đóng gói: [đang trộn dở → thời điểm dừng khó]",
+        "translation": "Quả thật, khi đang trộn dở màu sắc, thời điểm dừng lại là điều rất khó."
+      },
+      {
+        "sentence": "一度失敗した絵でも、捨てるものかと思って、上から塗り直すこともある。",
+        "chunks": "一度失敗した絵でも / 捨てるものかと思って / 上から塗り直すこともある",
+        "guide": "一度失敗した絵でも = ngay cả tranh đã thất bại một lần → でも nhấn mạnh phạm vi rộng → 捨てるものか → ～ものか lần thứ hai → 'làm sao mà vứt được' → quyết tâm phủ định → と思って = nghĩ vậy → 上から塗り直す = sơn đè lên trên → こともある = cũng có khi → 🔒 Đóng gói: [tranh hỏng → không đời nào vứt → sơn đè lên]",
+        "translation": "Ngay cả với bức tranh đã từng thất bại, tôi nghĩ làm sao mà vứt được, có khi lại sơn đè lên trên."
+      },
+      {
+        "sentence": "妹は「お姉ちゃんって、いつも絵のことばかり考えてるね」と笑う。",
+        "chunks": "妹は / 「お姉ちゃんって、いつも絵のことばかり考えてるね」と / 笑う",
+        "guide": "妹は → chủ đề em gái → 「お姉ちゃんって」 → ～って lần thứ tư → 'chị ấy' (chủ đề khẩu ngữ) → いつも絵のことばかり考えてる = lúc nào cũng chỉ nghĩ về tranh → ばかり = chỉ → と笑う = cười nói → 🔒 Đóng gói: [em cười: chị ấy → chỉ nghĩ về tranh]",
+        "translation": "Em gái cười và nói 'chị ấy, lúc nào cũng chỉ nghĩ về tranh thôi nhỉ'."
+      },
+      {
+        "sentence": "それでも、描きかけの絵を見ると、続きを描かずにはいられない気持ちになる。",
+        "chunks": "それでも / 描きかけの絵を見ると / 続きを描かずにはいられない気持ちになる",
+        "guide": "それでも = dù vậy → 描きかけの絵 → ～かけ lần thứ ba → 'tranh đang vẽ dở' → を見ると → と điều kiện 'mỗi khi nhìn' → 続きを描かずにはいられない = không thể không vẽ tiếp → ずにはいられない nhấn mạnh không kìm được → 気持ちになる = trở thành cảm giác → 🔒 Đóng gói: [thấy tranh dở → không thể không vẽ tiếp]",
+        "translation": "Dù vậy, mỗi khi nhìn bức tranh đang vẽ dở, tôi đều có cảm giác không thể không vẽ tiếp."
+      },
+      {
+        "sentence": "「この趣味をやめるものか」と心の中で思いながら、また筆を取る。",
+        "chunks": "「この趣味をやめるものか」と / 心の中で思いながら / また筆を取る",
+        "guide": "「この趣味をやめるものか」 → ～ものか lần thứ ba → 'làm sao mà bỏ sở thích này được' → từ chối kiên quyết → と心の中で思いながら = vừa nghĩ trong lòng → ながら đồng thời → また筆を取る = lại cầm cọ → 🔒 Đóng gói: [trong lòng: không đời nào bỏ → lại cầm cọ]",
+        "translation": "Vừa nghĩ trong lòng 'không đời nào tôi bỏ sở thích này được', tôi lại cầm cọ lên."
+      },
+      {
+        "sentence": "油絵を描く時間は、私にとって何物にも代えがたい大切な時間なのだ。",
+        "chunks": "油絵を描く時間は / 私にとって / 何物にも代えがたい大切な時間なのだ",
+        "guide": "油絵を描く時間は → chủ đề 'thời gian vẽ tranh sơn dầu' → 私にとって = đối với tôi → にとって lập trường → 何物にも代えがたい = không gì thay thế được → 何物にも phạm vi tuyệt đối → 大切な時間なのだ = là thời gian quý báu (のだ giải thích) → 🔒 Đóng gói: [vẽ tranh = thời gian quý báu không thay thế được]",
+        "translation": "Thời gian vẽ tranh sơn dầu, đối với tôi là khoảng thời gian quý báu không gì có thể thay thế được."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0286_Q1",
+        "question": "筆者は先週末に何をしましたか。",
+        "question_vi": "Cuối tuần trước tác giả đã làm gì?",
+        "answers": [
+          {"text": "新しい絵を描き始めた。", "text_vi": "Bắt đầu vẽ tranh mới.", "is_correct": false},
+          {"text": "描きかけの風景画を完成させた。", "text_vi": "Hoàn thành bức tranh phong cảnh đang vẽ dở.", "is_correct": true},
+          {"text": "絵の先生に会いに行った。", "text_vi": "Đến gặp thầy dạy vẽ.", "is_correct": false},
+          {"text": "失敗した絵を捨てた。", "text_vi": "Vứt bức tranh thất bại.", "is_correct": false}
+        ],
+        "explanation": "Câu 3 nói rõ 「先週末、描きかけの風景画をやっと完成させることができた」→ 描きかけ = đang dở + 完成させる = hoàn thành → cuối tuần trước hoàn thành tranh phong cảnh đang vẽ dở. Đây là sự thật trực tiếp."
+      },
+      {
+        "id": "R_0286_Q2",
+        "question": "なぜ筆者は失敗した絵を捨てないのですか。",
+        "question_vi": "Tại sao tác giả không vứt bỏ bức tranh đã thất bại?",
+        "answers": [
+          {"text": "捨てるのがもったいないから。", "text_vi": "Vì vứt thì lãng phí.", "is_correct": false},
+          {"text": "「捨てるものか」と思って、上から塗り直すから。", "text_vi": "Vì nghĩ 'làm sao mà vứt được' và sơn đè lên trên.", "is_correct": true},
+          {"text": "母に怒られるから。", "text_vi": "Vì sẽ bị mẹ mắng.", "is_correct": false},
+          {"text": "妹がほしがるから。", "text_vi": "Vì em gái muốn.", "is_correct": false}
+        ],
+        "explanation": "Câu 9 trực tiếp giải thích 「一度失敗した絵でも、捨てるものかと思って、上から塗り直すこともある」→ ～ものか = 'làm sao mà ~ được' diễn tả từ chối kiên quyết → tác giả không đời nào vứt mà sơn đè lên trên."
+      },
+      {
+        "id": "R_0286_Q3",
+        "question": "本文から、筆者にとって油絵を描くことはどんなものだと言えますか。",
+        "question_vi": "Từ bài đọc, có thể nói việc vẽ tranh sơn dầu là gì đối với tác giả?",
+        "answers": [
+          {"text": "簡単で気軽に楽しめる遊び。", "text_vi": "Trò chơi đơn giản dễ dàng giải trí.", "is_correct": false},
+          {"text": "もうすぐやめようと思っているもの。", "text_vi": "Thứ đang định bỏ sớm.", "is_correct": false},
+          {"text": "何物にも代えがたい大切な時間で、絶対にやめたくないもの。", "text_vi": "Khoảng thời gian quý báu không gì thay thế được và tuyệt đối không muốn bỏ.", "is_correct": true},
+          {"text": "家族に頼まれて仕方なくやっていること。", "text_vi": "Việc làm bất đắc dĩ vì gia đình nhờ.", "is_correct": false}
+        ],
+        "explanation": "Câu 12 thể hiện ý chí 「『この趣味をやめるものか』と心の中で思いながら」→ ～ものか = không đời nào bỏ. Câu 13 kết luận 「私にとって何物にも代えがたい大切な時間なのだ」→ thời gian quý báu không thay thế được. Đây là suy luận tổng hợp từ ý chí xuyên suốt bài và kết luận cuối."
+      }
+    ]
+  },
+  {
+    "id": "R_0287",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "定期健診の大切さ",
+    "title_vi": "Tầm quan trọng của khám sức khỏe định kỳ",
+    "topic": "health",
+    "subtopic": "khám sức khỏe định kỳ",
+    "tags": ["おそれがある", "ないわけにはいかない", "による／により"],
+    "grammar_used": ["～おそれがある", "～ないわけにはいかない", "～による／により"],
+    "sentence_count": 13,
+    "text": "毎年一回の定期健診は、健康を守るために受けないわけにはいかない大切なものだ。会社の規則により、社員は全員必ず健診を受けることになっている。健診を受けないと、病気が早く見つからないおそれがある。先月、私の同僚は血圧が高いと言われ、医者の指示により薬を飲み始めたそうだ。年齢による体の変化は誰にでも起こるので、油断はできない。特に四十代になると、生活習慣による病気が増えるおそれがあると医者は話していた。私は仕事が忙しくても、健診の予約を入れないわけにはいかない。検査の結果により、必要な治療がすぐに分かるからだ。早期発見により命が助かることも多いと、ニュースで何度も聞いた。家族のためにも、自分の健康に責任を持たないわけにはいかない。先週、健診に行ったところ、医者から運動不足を指摘された。このまま放っておくと、心臓の病気になるおそれがあると言われ、少し怖くなった。これからは、専門家の指導により少しずつ運動を始めていきたいと思う。",
+    "translation": "Khám sức khỏe định kỳ một lần mỗi năm là điều quan trọng mà không thể không nhận để bảo vệ sức khỏe. Theo quy định của công ty, toàn bộ nhân viên đều phải đi khám sức khỏe. Nếu không khám thì có nguy cơ bệnh không được phát hiện sớm. Tháng trước, đồng nghiệp của tôi nghe nói bị huyết áp cao, và theo chỉ thị của bác sĩ đã bắt đầu uống thuốc. Sự thay đổi cơ thể do tuổi tác xảy ra với bất cứ ai, nên không thể chủ quan. Đặc biệt khi đến độ bốn mươi tuổi, bác sĩ đã nói rằng có nguy cơ bệnh do thói quen sinh hoạt sẽ tăng lên. Dù bận việc đến đâu, tôi cũng không thể không đặt lịch khám sức khỏe. Vì căn cứ vào kết quả kiểm tra, có thể biết ngay điều trị cần thiết là gì. Tôi đã nghe nhiều lần trên tin tức rằng nhờ phát hiện sớm mà có nhiều người được cứu mạng. Vì gia đình, tôi cũng không thể không có trách nhiệm với sức khỏe của bản thân. Tuần trước, khi đi khám thì bị bác sĩ chỉ ra việc thiếu vận động. Bác sĩ nói nếu cứ để như vậy thì có nguy cơ mắc bệnh tim, làm tôi hơi sợ. Từ giờ trở đi, tôi muốn bắt đầu vận động từ từ theo sự hướng dẫn của chuyên gia.",
+    "vocabulary": [
+      {"word": "定期健診", "reading": "ていきけんしん", "meaning": "khám sức khỏe định kỳ"},
+      {"word": "規則", "reading": "きそく", "meaning": "quy định, quy tắc"},
+      {"word": "血圧", "reading": "けつあつ", "meaning": "huyết áp"},
+      {"word": "指示", "reading": "しじ", "meaning": "chỉ thị, hướng dẫn"},
+      {"word": "油断", "reading": "ゆだん", "meaning": "chủ quan, lơ là"},
+      {"word": "生活習慣", "reading": "せいかつしゅうかん", "meaning": "thói quen sinh hoạt"},
+      {"word": "治療", "reading": "ちりょう", "meaning": "điều trị"},
+      {"word": "早期発見", "reading": "そうきはっけん", "meaning": "phát hiện sớm"},
+      {"word": "責任", "reading": "せきにん", "meaning": "trách nhiệm"},
+      {"word": "運動不足", "reading": "うんどうぶそく", "meaning": "thiếu vận động"},
+      {"word": "心臓", "reading": "しんぞう", "meaning": "tim"}
+    ],
+    "process": [
+      {
+        "sentence": "毎年一回の定期健診は、健康を守るために受けないわけにはいかない大切なものだ。",
+        "chunks": "毎年一回の定期健診は / 健康を守るために / 受けないわけにはいかない大切なものだ",
+        "guide": "毎年一回の定期健診は → chủ đề 'khám định kỳ 1 lần/năm' → 健康を守るために = để bảo vệ sức khỏe → ために mục đích → 受けないわけにはいかない → ～ないわけにはいかない = 'không thể không, bắt buộc phải' → 'không thể không khám' → 大切なものだ = là điều quan trọng → 🔒 Đóng gói: [khám định kỳ → bảo vệ sức khỏe → bắt buộc phải khám]",
+        "translation": "Khám sức khỏe định kỳ một lần mỗi năm là điều quan trọng mà không thể không nhận để bảo vệ sức khỏe."
+      },
+      {
+        "sentence": "会社の規則により、社員は全員必ず健診を受けることになっている。",
+        "chunks": "会社の規則により / 社員は全員必ず / 健診を受けることになっている",
+        "guide": "会社の規則により → ～により = 'theo, do, bởi' (formal, biến thể による) → 'theo quy định công ty' → 社員は全員必ず = toàn bộ nhân viên đều phải → 健診を受けることになっている → ことになっている = quy định khách quan → 🔒 Đóng gói: [theo quy định công ty → mọi nhân viên buộc phải khám]",
+        "translation": "Theo quy định của công ty, toàn bộ nhân viên đều phải đi khám sức khỏe."
+      },
+      {
+        "sentence": "健診を受けないと、病気が早く見つからないおそれがある。",
+        "chunks": "健診を受けないと / 病気が早く見つからない / おそれがある",
+        "guide": "健診を受けないと = nếu không khám → と điều kiện → 病気が早く見つからない = bệnh không được phát hiện sớm → おそれがある → ～おそれがある = 'có nguy cơ ~, e rằng' → cảnh báo nguy cơ tiêu cực → 🔒 Đóng gói: [không khám → nguy cơ: bệnh phát hiện muộn]",
+        "translation": "Nếu không khám thì có nguy cơ bệnh không được phát hiện sớm."
+      },
+      {
+        "sentence": "先月、私の同僚は血圧が高いと言われ、医者の指示により薬を飲み始めたそうだ。",
+        "chunks": "先月 / 私の同僚は血圧が高いと言われ / 医者の指示により薬を飲み始めたそうだ",
+        "guide": "先月 = tháng trước → 私の同僚は血圧が高いと言われ = đồng nghiệp bị nói huyết áp cao → 言われ bị động → 医者の指示により → ～により lần thứ hai → 'theo chỉ thị bác sĩ' → 薬を飲み始めた = đã bắt đầu uống thuốc → そうだ = nghe nói → 🔒 Đóng gói: [đồng nghiệp huyết áp cao → theo lệnh bác sĩ → uống thuốc]",
+        "translation": "Tháng trước, đồng nghiệp của tôi nghe nói bị huyết áp cao, và theo chỉ thị của bác sĩ đã bắt đầu uống thuốc."
+      },
+      {
+        "sentence": "年齢による体の変化は誰にでも起こるので、油断はできない。",
+        "chunks": "年齢による体の変化は / 誰にでも起こるので / 油断はできない",
+        "guide": "年齢による体の変化 → ～による = 'do, bởi' → 'thay đổi cơ thể do tuổi' → は chủ đề → 誰にでも起こる = xảy ra với bất cứ ai → 誰にでも phạm vi rộng → ので nguyên nhân → 油断はできない = không thể chủ quan → 🔒 Đóng gói: [thay đổi do tuổi → ai cũng có → không chủ quan]",
+        "translation": "Sự thay đổi cơ thể do tuổi tác xảy ra với bất cứ ai, nên không thể chủ quan."
+      },
+      {
+        "sentence": "特に四十代になると、生活習慣による病気が増えるおそれがあると医者は話していた。",
+        "chunks": "特に四十代になると / 生活習慣による病気が増えるおそれがあると / 医者は話していた",
+        "guide": "特に四十代になると = đặc biệt khi vào tuổi 40 → と điều kiện → 生活習慣による病気 → ～による lần thứ hai → 'bệnh do thói quen sinh hoạt' → が増える = sẽ tăng → おそれがある → ～おそれがある lần thứ hai → 'có nguy cơ tăng' → と医者は話していた = bác sĩ đã nói → 🔒 Đóng gói: [tuổi 40 → bệnh sinh hoạt có nguy cơ tăng]",
+        "translation": "Đặc biệt khi đến độ bốn mươi tuổi, bác sĩ đã nói rằng có nguy cơ bệnh do thói quen sinh hoạt sẽ tăng lên."
+      },
+      {
+        "sentence": "私は仕事が忙しくても、健診の予約を入れないわけにはいかない。",
+        "chunks": "私は仕事が忙しくても / 健診の予約を / 入れないわけにはいかない",
+        "guide": "私は = chủ đề tôi → 仕事が忙しくても = dù bận việc → ても nhượng bộ → 健診の予約 = lịch khám → を入れないわけにはいかない → ～ないわけにはいかない lần thứ hai → 'không thể không đặt' → 🔒 Đóng gói: [dù bận → buộc phải đặt lịch khám]",
+        "translation": "Dù bận việc đến đâu, tôi cũng không thể không đặt lịch khám sức khỏe."
+      },
+      {
+        "sentence": "検査の結果により、必要な治療がすぐに分かるからだ。",
+        "chunks": "検査の結果により / 必要な治療が / すぐに分かるからだ",
+        "guide": "検査の結果により → ～により lần thứ ba → 'căn cứ vào kết quả kiểm tra' → 必要な治療 = điều trị cần thiết → がすぐに分かる = biết ngay → からだ = vì (giải thích lý do) → 🔒 Đóng gói: [theo kết quả → biết ngay điều trị → đó là lý do]",
+        "translation": "Vì căn cứ vào kết quả kiểm tra, có thể biết ngay điều trị cần thiết là gì."
+      },
+      {
+        "sentence": "早期発見により命が助かることも多いと、ニュースで何度も聞いた。",
+        "chunks": "早期発見により / 命が助かることも多いと / ニュースで何度も聞いた",
+        "guide": "早期発見により → ～により lần thứ tư → 'nhờ phát hiện sớm' → 命が助かる = mạng được cứu → ことも多い = cũng nhiều → と引用 → ニュースで何度も聞いた = đã nghe nhiều lần trên tin tức → 🔒 Đóng gói: [phát hiện sớm → cứu mạng nhiều → đã nghe trên tin]",
+        "translation": "Tôi đã nghe nhiều lần trên tin tức rằng nhờ phát hiện sớm mà có nhiều người được cứu mạng."
+      },
+      {
+        "sentence": "家族のためにも、自分の健康に責任を持たないわけにはいかない。",
+        "chunks": "家族のためにも / 自分の健康に / 責任を持たないわけにはいかない",
+        "guide": "家族のためにも = vì gia đình cũng → ためにも nhấn mạnh mục đích → 自分の健康に = với sức khỏe của mình → 責任を持たないわけにはいかない → ～ないわけにはいかない lần thứ ba → 'không thể không có trách nhiệm' → 🔒 Đóng gói: [vì gia đình → buộc phải có trách nhiệm với sức khỏe]",
+        "translation": "Vì gia đình, tôi cũng không thể không có trách nhiệm với sức khỏe của bản thân."
+      },
+      {
+        "sentence": "先週、健診に行ったところ、医者から運動不足を指摘された。",
+        "chunks": "先週 / 健診に行ったところ / 医者から運動不足を指摘された",
+        "guide": "先週 = tuần trước → 健診に行った = đã đi khám → ところ = 'khi thì' (kết quả ngay sau hành động) → 医者から運動不足を指摘された = bị bác sĩ chỉ ra thiếu vận động → 指摘された bị động → 🔒 Đóng gói: [đi khám → kết quả: bác sĩ chỉ ra thiếu vận động]",
+        "translation": "Tuần trước, khi đi khám thì bị bác sĩ chỉ ra việc thiếu vận động."
+      },
+      {
+        "sentence": "このまま放っておくと、心臓の病気になるおそれがあると言われ、少し怖くなった。",
+        "chunks": "このまま放っておくと / 心臓の病気になるおそれがあると / 言われ、少し怖くなった",
+        "guide": "このまま = cứ như vậy → 放っておくと = nếu để mặc → と điều kiện → 心臓の病気になる = mắc bệnh tim → おそれがある → ～おそれがある lần thứ ba → 'có nguy cơ' → と言われ = bị nói → 少し怖くなった = hơi sợ → 🔒 Đóng gói: [nếu mặc kệ → nguy cơ bệnh tim → tôi sợ]",
+        "translation": "Bác sĩ nói nếu cứ để như vậy thì có nguy cơ mắc bệnh tim, làm tôi hơi sợ."
+      },
+      {
+        "sentence": "これからは、専門家の指導により少しずつ運動を始めていきたいと思う。",
+        "chunks": "これからは / 専門家の指導により / 少しずつ運動を始めていきたいと思う",
+        "guide": "これからは = từ giờ trở đi → 専門家の指導により → ～により lần thứ năm → 'theo hướng dẫn của chuyên gia' → 少しずつ = từng chút → 運動を始めていきたい → ていく hướng tương lai + たい → 'muốn bắt đầu vận động' → と思う = nghĩ → 🔒 Đóng gói: [từ giờ → theo chuyên gia → muốn vận động dần]",
+        "translation": "Từ giờ trở đi, tôi muốn bắt đầu vận động từ từ theo sự hướng dẫn của chuyên gia."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0287_Q1",
+        "question": "先月、筆者の同僚はどうしましたか。",
+        "question_vi": "Tháng trước đồng nghiệp của tác giả đã làm gì?",
+        "answers": [
+          {"text": "運動を始めた。", "text_vi": "Bắt đầu vận động.", "is_correct": false},
+          {"text": "血圧が高いと言われ、医者の指示により薬を飲み始めた。", "text_vi": "Bị nói huyết áp cao và theo chỉ thị bác sĩ đã bắt đầu uống thuốc.", "is_correct": true},
+          {"text": "心臓の病気になった。", "text_vi": "Đã bị bệnh tim.", "is_correct": false},
+          {"text": "健診を受けるのをやめた。", "text_vi": "Đã ngưng đi khám sức khỏe.", "is_correct": false}
+        ],
+        "explanation": "Câu 4 nói rõ 「先月、私の同僚は血圧が高いと言われ、医者の指示により薬を飲み始めたそうだ」→ により = theo chỉ thị + 飲み始めた = bắt đầu uống thuốc → đáp án đúng phản ánh chính xác sự thật trong bài."
+      },
+      {
+        "id": "R_0287_Q2",
+        "question": "なぜ筆者は仕事が忙しくても健診の予約を入れるのですか。",
+        "question_vi": "Tại sao dù bận việc tác giả vẫn đặt lịch khám?",
+        "answers": [
+          {"text": "上司に怒られるから。", "text_vi": "Vì sẽ bị cấp trên mắng.", "is_correct": false},
+          {"text": "予約しないとお金がもらえないから。", "text_vi": "Vì không đặt lịch sẽ không nhận được tiền.", "is_correct": false},
+          {"text": "検査の結果により必要な治療がすぐに分かるから。", "text_vi": "Vì căn cứ kết quả kiểm tra có thể biết ngay điều trị cần thiết.", "is_correct": true},
+          {"text": "病院が好きだから。", "text_vi": "Vì thích bệnh viện.", "is_correct": false}
+        ],
+        "explanation": "Câu 7 nói 「健診の予約を入れないわけにはいかない」 và câu 8 trực tiếp giải thích lý do 「検査の結果により、必要な治療がすぐに分かるからだ」→ により = theo + からだ = vì → biết được điều trị cần thiết là lý do tác giả buộc phải đặt lịch."
+      },
+      {
+        "id": "R_0287_Q3",
+        "question": "本文から、筆者は健診についてどのような考えを持っていると分かりますか。",
+        "question_vi": "Từ bài đọc có thể hiểu tác giả có suy nghĩ thế nào về việc khám sức khỏe?",
+        "answers": [
+          {"text": "面倒だが会社の規則だから仕方なく受けている。", "text_vi": "Phiền phức nhưng vì là quy định công ty nên bất đắc dĩ phải khám.", "is_correct": false},
+          {"text": "自分と家族のために責任を持って必ず受けるべきだと考えている。", "text_vi": "Cho rằng phải có trách nhiệm và nhất định phải đi khám vì bản thân và gia đình.", "is_correct": true},
+          {"text": "若い人には必要ないと考えている。", "text_vi": "Cho rằng người trẻ thì không cần thiết.", "is_correct": false},
+          {"text": "健診の代わりに薬を飲めばいいと考えている。", "text_vi": "Cho rằng uống thuốc thay vì khám là được.", "is_correct": false}
+        ],
+        "explanation": "Câu 1 mở 「受けないわけにはいかない大切なもの」, câu 7 「忙しくても予約を入れないわけにはいかない」, câu 10 「家族のためにも自分の健康に責任を持たないわけにはいかない」→ ～ないわけにはいかない lặp 3 lần thể hiện trách nhiệm bắt buộc + vì gia đình. Đây là suy luận tổng hợp xuyên suốt bài."
+      }
+    ]
+  }
+]

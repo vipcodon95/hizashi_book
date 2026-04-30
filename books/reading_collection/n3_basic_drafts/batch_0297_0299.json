@@ -1,0 +1,440 @@
+[
+  {
+    "id": "R_0297",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "歯医者に行く",
+    "title_vi": "Đi khám răng",
+    "topic": "health_care",
+    "subtopic": "đi khám răng",
+    "tags": ["ないことはない", "しかない", "たとたん"],
+    "grammar_used": ["～ないことはない／ないこともない", "～しかない／ほかない", "～たとたん(に)"],
+    "sentence_count": 13,
+    "text": "先週から右の奥歯がずっと痛くて、もう我慢するしかない状態になってしまった。痛み止めを飲めば少しは楽になるが、効かないことはないけれど、根本的な解決にはならない。妻に相談したところ、すぐに歯医者に行くしかないと言われた。私は子供の頃から歯医者が苦手で、行きたくないことはないが、できれば避けたい場所だ。それでも痛みに耐えられず、近所の歯科クリニックに予約の電話をかけた。受付の方は優しく、午後三時に来てくださいと言ってくれた。診察室に入ったとたん、独特の薬の匂いがして、心臓がどきどきし始めた。先生は私の口の中を見るなり、これは虫歯が進んでいますねと静かに言った。治療を始めるしかないと言われ、私は覚悟を決めてうなずいた。麻酔の注射を打たれたとたん、痛みは少し和らいだが、機械の音は本当に怖い。先生の腕は確かで、痛くないことはないが思ったほどではなかった。治療が終わったあと、これからは毎日きちんと歯を磨くほかないと反省した。健康を守るためには、面倒でも定期的に通うしかないと心から感じた。",
+    "translation": "Từ tuần trước răng hàm bên phải cứ đau mãi, đến mức tôi đã rơi vào tình trạng không còn cách nào khác ngoài chịu đựng. Uống thuốc giảm đau thì cũng đỡ một chút, không phải là không có tác dụng nhưng không giải quyết được tận gốc. Khi tôi bàn với vợ, vợ bảo chỉ còn cách đi nha sĩ ngay. Từ nhỏ tôi đã sợ nha sĩ, không phải là không muốn đi nhưng nếu được thì muốn tránh. Dù vậy, không chịu nổi cơn đau, tôi đã gọi điện đặt hẹn với phòng khám nha gần nhà. Cô lễ tân rất dịu dàng, bảo tôi đến lúc ba giờ chiều. Ngay khi bước vào phòng khám, mùi thuốc đặc trưng xộc tới khiến tim tôi bắt đầu đập thình thịch. Bác sĩ vừa nhìn vào miệng tôi đã nhẹ nhàng nói rằng sâu răng đã tiến triển rồi. Bác sĩ bảo chỉ còn cách bắt đầu điều trị, tôi đành quyết tâm gật đầu. Ngay khi bị tiêm thuốc tê, cơn đau dịu đi một chút, nhưng tiếng máy thì thực sự đáng sợ. Tay nghề bác sĩ rất chắc, không phải là không đau nhưng không đến mức như tôi tưởng. Sau khi điều trị xong, tôi đã tự kiểm điểm rằng từ giờ chỉ còn cách đánh răng cẩn thận mỗi ngày. Tôi cảm nhận từ đáy lòng rằng để giữ gìn sức khỏe, dù có phiền cũng chỉ còn cách đi khám định kỳ.",
+    "vocabulary": [
+      {"word": "奥歯", "reading": "おくば", "meaning": "răng hàm"},
+      {"word": "我慢", "reading": "がまん", "meaning": "chịu đựng, nhẫn nhịn"},
+      {"word": "痛み止め", "reading": "いたみどめ", "meaning": "thuốc giảm đau"},
+      {"word": "根本的", "reading": "こんぽんてき", "meaning": "tận gốc, cơ bản"},
+      {"word": "歯科", "reading": "しか", "meaning": "nha khoa"},
+      {"word": "診察室", "reading": "しんさつしつ", "meaning": "phòng khám"},
+      {"word": "虫歯", "reading": "むしば", "meaning": "sâu răng"},
+      {"word": "覚悟", "reading": "かくご", "meaning": "quyết tâm, sẵn sàng tâm lý"},
+      {"word": "麻酔", "reading": "ますい", "meaning": "thuốc tê, gây tê"},
+      {"word": "和らぐ", "reading": "やわらぐ", "meaning": "dịu đi, giảm bớt"},
+      {"word": "定期的", "reading": "ていきてき", "meaning": "định kỳ"}
+    ],
+    "process": [
+      {
+        "sentence": "先週から右の奥歯がずっと痛くて、もう我慢するしかない状態になってしまった。",
+        "chunks": "先週から / 右の奥歯がずっと痛くて / もう我慢するしかない状態に / なってしまった",
+        "guide": "先週から → から chỉ điểm bắt đầu → 右の奥歯がずっと痛くて → ずっと kéo dài + て nối → もう我慢するしかない → ～しかない = 'không còn cách nào khác ngoài' → 状態になってしまった → てしまった = đáng tiếc → 🔒 Đóng gói: [đau răng kéo dài → buộc phải chịu đựng]",
+        "translation": "Từ tuần trước răng hàm bên phải cứ đau mãi, đến mức tôi đã rơi vào tình trạng không còn cách nào khác ngoài chịu đựng."
+      },
+      {
+        "sentence": "痛み止めを飲めば少しは楽になるが、効かないことはないけれど、根本的な解決にはならない。",
+        "chunks": "痛み止めを飲めば / 少しは楽になるが / 効かないことはないけれど / 根本的な解決にはならない",
+        "guide": "痛み止めを飲めば → ば điều kiện 'nếu uống' → 少しは楽になるが → が tương phản → 効かないことはない → ～ないことはない = 'không phải là không' (khẳng định nhẹ) → けれど tương phản → 根本的な解決にはならない = không thành giải pháp tận gốc → 🔒 Đóng gói: [thuốc có tác dụng nhẹ nhưng không tận gốc]",
+        "translation": "Uống thuốc giảm đau thì cũng đỡ một chút, không phải là không có tác dụng nhưng không giải quyết được tận gốc."
+      },
+      {
+        "sentence": "妻に相談したところ、すぐに歯医者に行くしかないと言われた。",
+        "chunks": "妻に相談したところ / すぐに歯医者に行くしかないと / 言われた",
+        "guide": "妻に相談したところ → ～たところ = 'khi vừa làm thì' → すぐに歯医者に行くしかない → ～しかない lần thứ hai → 'chỉ còn cách đi nha' → と言われた = bị nói (thụ động) → 🔒 Đóng gói: [hỏi vợ → bị bảo: chỉ còn cách đi nha sĩ]",
+        "translation": "Khi tôi bàn với vợ, vợ bảo chỉ còn cách đi nha sĩ ngay."
+      },
+      {
+        "sentence": "私は子供の頃から歯医者が苦手で、行きたくないことはないが、できれば避けたい場所だ。",
+        "chunks": "私は子供の頃から / 歯医者が苦手で / 行きたくないことはないが / できれば避けたい場所だ",
+        "guide": "私は子供の頃から → 'từ hồi nhỏ' → 歯医者が苦手で = sợ nha sĩ + て nối → 行きたくないことはない → ～ないことはない lần thứ hai → 'không phải là không muốn đi' → が tương phản → できれば避けたい = nếu được thì muốn tránh → 🔒 Đóng gói: [sợ nha sĩ → không phải không muốn đi → nhưng muốn tránh]",
+        "translation": "Từ nhỏ tôi đã sợ nha sĩ, không phải là không muốn đi nhưng nếu được thì muốn tránh."
+      },
+      {
+        "sentence": "それでも痛みに耐えられず、近所の歯科クリニックに予約の電話をかけた。",
+        "chunks": "それでも / 痛みに耐えられず / 近所の歯科クリニックに / 予約の電話をかけた",
+        "guide": "それでも = dù vậy → 痛みに耐えられず → ず dạng phủ định 'không chịu nổi' → 近所の歯科クリニックに = đến phòng khám gần nhà → 予約の電話をかけた = đã gọi đặt hẹn → 🔒 Đóng gói: [không chịu nổi đau → gọi đặt hẹn nha]",
+        "translation": "Dù vậy, không chịu nổi cơn đau, tôi đã gọi điện đặt hẹn với phòng khám nha gần nhà."
+      },
+      {
+        "sentence": "受付の方は優しく、午後三時に来てくださいと言ってくれた。",
+        "chunks": "受付の方は優しく / 午後三時に来てくださいと / 言ってくれた",
+        "guide": "受付の方は優しく → く dạng nối tính từ → 午後三時に来てください → trong trích dẫn → と言ってくれた = đã nói cho tôi → くれる nhận hành động → 🔒 Đóng gói: [lễ tân tử tế → hẹn 3h chiều]",
+        "translation": "Cô lễ tân rất dịu dàng, bảo tôi đến lúc ba giờ chiều."
+      },
+      {
+        "sentence": "診察室に入ったとたん、独特の薬の匂いがして、心臓がどきどきし始めた。",
+        "chunks": "診察室に入ったとたん / 独特の薬の匂いがして / 心臓がどきどきし始めた",
+        "guide": "診察室に入ったとたん → ～たとたん = 'ngay khi' biểu hiện sự bất ngờ liền sau → 独特の薬の匂いがして = mùi thuốc đặc trưng + て nối → 心臓がどきどきし始めた = tim bắt đầu đập thình thịch → 🔒 Đóng gói: [vừa vào phòng → mùi thuốc → tim đập mạnh]",
+        "translation": "Ngay khi bước vào phòng khám, mùi thuốc đặc trưng xộc tới khiến tim tôi bắt đầu đập thình thịch."
+      },
+      {
+        "sentence": "先生は私の口の中を見るなり、これは虫歯が進んでいますねと静かに言った。",
+        "chunks": "先生は私の口の中を見るなり / これは虫歯が進んでいますねと / 静かに言った",
+        "guide": "先生は私の口の中を見るなり → ～なり = 'vừa ~ là ngay lập tức' (gần với たとたん) → これは虫歯が進んでいますね → trong trích dẫn → 静かに言った = nói nhẹ nhàng → 🔒 Đóng gói: [bác sĩ vừa nhìn → kết luận sâu răng]",
+        "translation": "Bác sĩ vừa nhìn vào miệng tôi đã nhẹ nhàng nói rằng sâu răng đã tiến triển rồi."
+      },
+      {
+        "sentence": "治療を始めるしかないと言われ、私は覚悟を決めてうなずいた。",
+        "chunks": "治療を始めるしかないと / 言われ / 私は覚悟を決めてうなずいた",
+        "guide": "治療を始めるしかない → ～しかない lần thứ ba → 'chỉ còn cách điều trị' → と言われ thụ động + nối → 私は覚悟を決めて = quyết tâm + て nối → うなずいた = đã gật đầu → 🔒 Đóng gói: [bị bảo phải điều trị → quyết tâm gật đầu]",
+        "translation": "Bác sĩ bảo chỉ còn cách bắt đầu điều trị, tôi đành quyết tâm gật đầu."
+      },
+      {
+        "sentence": "麻酔の注射を打たれたとたん、痛みは少し和らいだが、機械の音は本当に怖い。",
+        "chunks": "麻酔の注射を打たれたとたん / 痛みは少し和らいだが / 機械の音は本当に怖い",
+        "guide": "麻酔の注射を打たれた → 打たれる thụ động 'bị tiêm' → とたん → ～たとたん lần thứ hai → 'ngay khi' → 痛みは少し和らいだが = đau dịu đi một chút + が tương phản → 機械の音は本当に怖い = tiếng máy thì thật đáng sợ → 🔒 Đóng gói: [vừa tiêm tê → đỡ đau ngay → nhưng tiếng máy đáng sợ]",
+        "translation": "Ngay khi bị tiêm thuốc tê, cơn đau dịu đi một chút, nhưng tiếng máy thì thực sự đáng sợ."
+      },
+      {
+        "sentence": "先生の腕は確かで、痛くないことはないが思ったほどではなかった。",
+        "chunks": "先生の腕は確かで / 痛くないことはないが / 思ったほどではなかった",
+        "guide": "先生の腕は確かで = tay nghề chắc + で nối → 痛くないことはない → ～ないことはない lần thứ ba → 'không phải là không đau' (thừa nhận nhẹ) → が tương phản → 思ったほどではなかった = không đến mức như tôi tưởng → 🔒 Đóng gói: [bác sĩ giỏi → có đau nhưng không như tưởng]",
+        "translation": "Tay nghề bác sĩ rất chắc, không phải là không đau nhưng không đến mức như tôi tưởng."
+      },
+      {
+        "sentence": "治療が終わったあと、これからは毎日きちんと歯を磨くほかないと反省した。",
+        "chunks": "治療が終わったあと / これからは毎日きちんと / 歯を磨くほかないと反省した",
+        "guide": "治療が終わったあと = sau khi điều trị xong → これからは毎日きちんと = từ giờ mỗi ngày tử tế → 歯を磨くほかない → ～ほかない (đồng nghĩa しかない) = 'không còn cách nào ngoài' → と反省した = đã tự kiểm điểm → 🔒 Đóng gói: [sau điều trị → tự nhủ chỉ còn cách đánh răng kỹ]",
+        "translation": "Sau khi điều trị xong, tôi đã tự kiểm điểm rằng từ giờ chỉ còn cách đánh răng cẩn thận mỗi ngày."
+      },
+      {
+        "sentence": "健康を守るためには、面倒でも定期的に通うしかないと心から感じた。",
+        "chunks": "健康を守るためには / 面倒でも / 定期的に通うしかないと心から感じた",
+        "guide": "健康を守るためには → ためには 'để giữ gìn' → 面倒でも = dù phiền + でも nhượng bộ → 定期的に通うしかない → ～しかない lần thứ tư → 'không còn cách nào khác là đi định kỳ' → と心から感じた = cảm nhận từ đáy lòng → 🔒 Đóng gói: [vì sức khỏe → đành đi khám định kỳ]",
+        "translation": "Tôi cảm nhận từ đáy lòng rằng để giữ gìn sức khỏe, dù có phiền cũng chỉ còn cách đi khám định kỳ."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0297_Q1",
+        "question": "筆者はなぜ歯医者に予約の電話をかけましたか。",
+        "question_vi": "Tại sao tác giả đã gọi điện đặt hẹn nha sĩ?",
+        "answers": [
+          {"text": "妻に強く命令されたから。", "text_vi": "Vì bị vợ ra lệnh mạnh.", "is_correct": false},
+          {"text": "歯医者が好きになったから。", "text_vi": "Vì đã trở nên thích nha sĩ.", "is_correct": false},
+          {"text": "痛み止めだけでは根本的な解決にならず、痛みに耐えられなくなったから。", "text_vi": "Vì chỉ uống thuốc giảm đau không giải quyết tận gốc, và không chịu nổi cơn đau nữa.", "is_correct": true},
+          {"text": "定期検診の時期だったから。", "text_vi": "Vì đến kỳ khám định kỳ.", "is_correct": false}
+        ],
+        "explanation": "Câu 2 nói 「効かないことはないけれど、根本的な解決にはならない」 → ～ないことはない + 根本的な解決にはならない = thuốc có tác dụng nhưng không tận gốc. Câu 5 「痛みに耐えられず、近所の歯科クリニックに予約の電話をかけた」 → ず = không chịu nổi → đó là lý do trực tiếp gọi đặt hẹn."
+      },
+      {
+        "id": "R_0297_Q2",
+        "question": "診察室に入ったとき、筆者の体はどう反応しましたか。",
+        "question_vi": "Khi vào phòng khám, cơ thể tác giả phản ứng thế nào?",
+        "answers": [
+          {"text": "気持ちが落ち着いた。", "text_vi": "Tâm trạng trở nên bình tĩnh.", "is_correct": false},
+          {"text": "独特の薬の匂いがして、心臓がどきどきし始めた。", "text_vi": "Có mùi thuốc đặc trưng và tim bắt đầu đập thình thịch.", "is_correct": true},
+          {"text": "眠くなった。", "text_vi": "Buồn ngủ.", "is_correct": false},
+          {"text": "頭が痛くなった。", "text_vi": "Đau đầu.", "is_correct": false}
+        ],
+        "explanation": "Câu 7 nói rõ 「診察室に入ったとたん、独特の薬の匂いがして、心臓がどきどきし始めた」 → ～たとたん = ngay khi + どきどき = mô tả tim đập mạnh → đây là phản ứng cụ thể được nêu trực tiếp trong bài."
+      },
+      {
+        "id": "R_0297_Q3",
+        "question": "治療が終わったあと、筆者はどう考えましたか。",
+        "question_vi": "Sau khi điều trị xong, tác giả đã suy nghĩ thế nào?",
+        "answers": [
+          {"text": "もう二度と歯医者には行きたくないと思った。", "text_vi": "Đã nghĩ không bao giờ muốn đến nha sĩ nữa.", "is_correct": false},
+          {"text": "毎日きちんと歯を磨き、定期的に通うしかないと感じた。", "text_vi": "Cảm thấy chỉ còn cách đánh răng kỹ mỗi ngày và đi khám định kỳ.", "is_correct": true},
+          {"text": "歯医者の機械を買おうと思った。", "text_vi": "Đã nghĩ sẽ mua máy nha khoa.", "is_correct": false},
+          {"text": "もっと強い痛み止めを買いに行こうと思った。", "text_vi": "Đã nghĩ sẽ đi mua thuốc giảm đau mạnh hơn.", "is_correct": false}
+        ],
+        "explanation": "Câu 12 「これからは毎日きちんと歯を磨くほかないと反省した」 và câu 13 「定期的に通うしかないと心から感じた」 → ～ほかない và ～しかない = không còn cách khác → tác giả quyết tâm chăm sóc răng và đi khám định kỳ. Đây là kết luận tổng hợp xuyên suốt bài."
+      }
+    ]
+  },
+  {
+    "id": "R_0298",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "お土産の文化",
+    "title_vi": "Văn hóa quà lưu niệm",
+    "topic": "souvenir",
+    "subtopic": "quà lưu niệm Nhật",
+    "tags": ["をはじめ", "って", "なんか／なんて"],
+    "grammar_used": ["～をはじめ", "～って", "～など／なんか／なんて"],
+    "sentence_count": 13,
+    "text": "日本には、旅行先から職場や家族にお土産を買って帰るという独特の文化がある。京都をはじめ、奈良や大阪なんかも観光地として有名で、駅にはお菓子のお土産がたくさん並んでいる。「お土産って何を選べばいいの」と外国人の友達によく聞かれる。私はいつも、その土地でしか買えない物を選ぶといいよ、と答える。たとえば京都なら八つ橋をはじめ、抹茶味のお菓子なんかが定番だ。会社の同僚は「みんなで分けやすい個包装の物がいい」って言っていた。確かに、職場で配ることを考えると、大きいケーキなんかは少し選びにくい。北海道に出張に行ったとき、バターサンドをはじめ、チーズ味のお菓子もたくさん買った。同僚たちは「これって本当においしいね」と喜んでくれて、私もうれしかった。逆に、安すぎる物や手作りのものなんかは、相手によっては失礼になることもあるらしい。お土産って、ただの物ではなく、相手への気持ちを伝える大切な手段だと感じる。最近はデパートをはじめ、空港やネットでもお土産が買えるようになった。それでも、やっぱり現地で選んで持ち帰るのが一番、と私は思っている。",
+    "translation": "Ở Nhật có một văn hóa độc đáo là mua quà lưu niệm từ nơi du lịch về tặng cho công ty hay gia đình. Đứng đầu là Kyoto, rồi Nara, Osaka cũng là những địa điểm du lịch nổi tiếng, ở ga xếp đầy bánh kẹo lưu niệm. Bạn người nước ngoài thường hỏi tôi 'omiyage là chọn cái gì thì được nhỉ'. Tôi luôn trả lời rằng nên chọn thứ mà chỉ ở vùng đó mới mua được. Ví dụ ở Kyoto thì đứng đầu là yatsuhashi, rồi những thứ như bánh kẹo vị matcha là kinh điển. Đồng nghiệp ở công ty bảo rằng 'cứ chọn loại đóng gói riêng từng cái cho dễ chia mọi người'. Đúng là, nếu nghĩ đến việc phát ở công ty, thì những thứ như chiếc bánh ngọt to khó chọn một chút. Khi tôi đi công tác Hokkaido, tôi đã mua đứng đầu là butter sand, rồi cả nhiều bánh vị phô mai. Các đồng nghiệp đã vui vẻ nói rằng 'cái này ngon thật đó', và tôi cũng rất vui. Ngược lại, những thứ như đồ quá rẻ hay đồ tự làm, nghe nói tùy đối tượng có khi sẽ thành thất lễ. Tôi cảm thấy quà lưu niệm không chỉ là một món đồ mà là phương tiện quan trọng để truyền tải tình cảm cho đối phương. Gần đây, đứng đầu là các trung tâm thương mại, rồi cả ở sân bay hay trên mạng cũng có thể mua được quà lưu niệm. Dù vậy, tôi vẫn nghĩ chọn tại chỗ rồi mang về vẫn là tốt nhất.",
+    "vocabulary": [
+      {"word": "土産", "reading": "みやげ", "meaning": "quà lưu niệm"},
+      {"word": "観光地", "reading": "かんこうち", "meaning": "địa điểm du lịch"},
+      {"word": "八つ橋", "reading": "やつはし", "meaning": "yatsuhashi (bánh đặc sản Kyoto)"},
+      {"word": "抹茶", "reading": "まっちゃ", "meaning": "matcha, trà xanh bột"},
+      {"word": "定番", "reading": "ていばん", "meaning": "đồ kinh điển, lựa chọn quen thuộc"},
+      {"word": "個包装", "reading": "こほうそう", "meaning": "đóng gói riêng từng chiếc"},
+      {"word": "出張", "reading": "しゅっちょう", "meaning": "đi công tác"},
+      {"word": "手作り", "reading": "てづくり", "meaning": "làm bằng tay, tự làm"},
+      {"word": "失礼", "reading": "しつれい", "meaning": "thất lễ, bất lịch sự"},
+      {"word": "手段", "reading": "しゅだん", "meaning": "phương tiện, cách thức"},
+      {"word": "現地", "reading": "げんち", "meaning": "tại chỗ, địa phương đó"}
+    ],
+    "process": [
+      {
+        "sentence": "日本には、旅行先から職場や家族にお土産を買って帰るという独特の文化がある。",
+        "chunks": "日本には / 旅行先から職場や家族に / お土産を買って帰るという / 独特の文化がある",
+        "guide": "日本には → には chủ đề kèm vị trí → 旅行先から = từ nơi du lịch → 職場や家族に = cho công ty và gia đình → お土産を買って帰る = mua quà mang về → という liên kết để định nghĩa → 独特の文化がある = có văn hóa độc đáo → 🔒 Đóng gói: [JP có văn hóa mua omiyage]",
+        "translation": "Ở Nhật có một văn hóa độc đáo là mua quà lưu niệm từ nơi du lịch về tặng cho công ty hay gia đình."
+      },
+      {
+        "sentence": "京都をはじめ、奈良や大阪なんかも観光地として有名で、駅にはお菓子のお土産がたくさん並んでいる。",
+        "chunks": "京都をはじめ / 奈良や大阪なんかも / 観光地として有名で / 駅にはお菓子のお土産がたくさん並んでいる",
+        "guide": "京都をはじめ → ～をはじめ = 'đứng đầu là, ~ và những cái khác' → 奈良や大阪なんかも → ～なんか = 'những thứ như' (sắc thái khẩu ngữ) → として 'với tư cách là' → 有名で nối → 駅にはお菓子のお土産がたくさん並んでいる = ở ga xếp đầy bánh kẹo → 🔒 Đóng gói: [Kyoto + Nara + Osaka v.v. → ga đầy bánh kẹo]",
+        "translation": "Đứng đầu là Kyoto, rồi Nara, Osaka cũng là những địa điểm du lịch nổi tiếng, ở ga xếp đầy bánh kẹo lưu niệm."
+      },
+      {
+        "sentence": "「お土産って何を選べばいいの」と外国人の友達によく聞かれる。",
+        "chunks": "「お土産って何を選べばいいの」と / 外国人の友達に / よく聞かれる",
+        "guide": "「お土産って何を選べばいいの」 → trong trích dẫn → ～って = khẩu ngữ thay は/とは đưa chủ đề → 'omiyage là cái gì thì chọn được nhỉ' → と聞かれる = bị hỏi (thụ động) → 🔒 Đóng gói: [bạn nước ngoài hay hỏi: omiyage chọn gì?]",
+        "translation": "Bạn người nước ngoài thường hỏi tôi 'omiyage là chọn cái gì thì được nhỉ'."
+      },
+      {
+        "sentence": "私はいつも、その土地でしか買えない物を選ぶといいよ、と答える。",
+        "chunks": "私はいつも / その土地でしか買えない物を / 選ぶといいよと / 答える",
+        "guide": "私はいつも → chủ đề + 'luôn' → その土地でしか買えない物 → でしか～ない = 'chỉ ở đó mới~' → 選ぶといいよ → ～といい = 'nên ~ thì tốt' + よ nhấn mạnh → と答える = trả lời → 🔒 Đóng gói: [tôi luôn khuyên: chọn đồ đặc sản chỉ ở đó]",
+        "translation": "Tôi luôn trả lời rằng nên chọn thứ mà chỉ ở vùng đó mới mua được."
+      },
+      {
+        "sentence": "たとえば京都なら八つ橋をはじめ、抹茶味のお菓子なんかが定番だ。",
+        "chunks": "たとえば京都なら / 八つ橋をはじめ / 抹茶味のお菓子なんかが定番だ",
+        "guide": "たとえば京都なら → なら 'nếu là' giả định → 八つ橋をはじめ → ～をはじめ lần thứ hai → 'đứng đầu là yatsuhashi' → 抹茶味のお菓子なんか → ～なんか lần thứ hai → 'những thứ như bánh matcha' → が定番だ = là kinh điển → 🔒 Đóng gói: [Kyoto: yatsuhashi + bánh matcha = kinh điển]",
+        "translation": "Ví dụ ở Kyoto thì đứng đầu là yatsuhashi, rồi những thứ như bánh kẹo vị matcha là kinh điển."
+      },
+      {
+        "sentence": "会社の同僚は「みんなで分けやすい個包装の物がいい」って言っていた。",
+        "chunks": "会社の同僚は / 「みんなで分けやすい個包装の物がいい」って / 言っていた",
+        "guide": "会社の同僚は → chủ đề → 「みんなで分けやすい個包装の物がいい」 → trong trích dẫn → 分けやすい = dễ chia + ます型省略 形容 → って → ～って lần thứ hai = khẩu ngữ trích dẫn (= と) → 言っていた = đã nói → 🔒 Đóng gói: [đồng nghiệp: nên chọn loại đóng gói riêng]",
+        "translation": "Đồng nghiệp ở công ty bảo rằng 'cứ chọn loại đóng gói riêng từng cái cho dễ chia mọi người'."
+      },
+      {
+        "sentence": "確かに、職場で配ることを考えると、大きいケーキなんかは少し選びにくい。",
+        "chunks": "確かに / 職場で配ることを考えると / 大きいケーキなんかは / 少し選びにくい",
+        "guide": "確かに = đúng là → 職場で配ることを考えると → と điều kiện 'nếu nghĩ thì' → 大きいケーキなんか → ～なんか lần thứ ba → 'những thứ như chiếc bánh to' (sắc thái coi thường nhẹ) → 少し選びにくい = hơi khó chọn → にくい = khó làm → 🔒 Đóng gói: [phải phát ở công ty → bánh to khó chọn]",
+        "translation": "Đúng là, nếu nghĩ đến việc phát ở công ty, thì những thứ như chiếc bánh ngọt to khó chọn một chút."
+      },
+      {
+        "sentence": "北海道に出張に行ったとき、バターサンドをはじめ、チーズ味のお菓子もたくさん買った。",
+        "chunks": "北海道に出張に行ったとき / バターサンドをはじめ / チーズ味のお菓子もたくさん買った",
+        "guide": "北海道に出張に行ったとき → とき 'khi' → に出張 = đi công tác → バターサンドをはじめ → ～をはじめ lần thứ ba → チーズ味のお菓子も = bánh phô mai cũng → たくさん買った = đã mua nhiều → 🔒 Đóng gói: [Hokkaido: butter sand + bánh phô mai]",
+        "translation": "Khi tôi đi công tác Hokkaido, tôi đã mua đứng đầu là butter sand, rồi cả nhiều bánh vị phô mai."
+      },
+      {
+        "sentence": "同僚たちは「これって本当においしいね」と喜んでくれて、私もうれしかった。",
+        "chunks": "同僚たちは / 「これって本当においしいね」と / 喜んでくれて / 私もうれしかった",
+        "guide": "同僚たちは → chủ đề các đồng nghiệp → 「これって本当においしいね」 → trong trích dẫn → って → ～って lần thứ ba = khẩu ngữ chủ đề (= は) 'cái này nhỉ' → と喜んでくれて = đã vui mừng cho tôi → くれる thụ ơn → 私もうれしかった = tôi cũng vui → 🔒 Đóng gói: [đồng nghiệp khen ngon → tôi cũng vui]",
+        "translation": "Các đồng nghiệp đã vui vẻ nói rằng 'cái này ngon thật đó', và tôi cũng rất vui."
+      },
+      {
+        "sentence": "逆に、安すぎる物や手作りのものなんかは、相手によっては失礼になることもあるらしい。",
+        "chunks": "逆に / 安すぎる物や手作りのものなんかは / 相手によっては / 失礼になることもあるらしい",
+        "guide": "逆に = ngược lại → 安すぎる物や手作りのものなんか → ～なんか lần thứ tư → 'những thứ như đồ rẻ tiền hay đồ tự làm' (sắc thái coi thường) → 相手によっては = tùy đối tượng → 失礼になることもある = cũng có khi thành thất lễ → らしい = nghe nói → 🔒 Đóng gói: [đồ rẻ/tự làm → tùy người → có thể thất lễ]",
+        "translation": "Ngược lại, những thứ như đồ quá rẻ hay đồ tự làm, nghe nói tùy đối tượng có khi sẽ thành thất lễ."
+      },
+      {
+        "sentence": "お土産って、ただの物ではなく、相手への気持ちを伝える大切な手段だと感じる。",
+        "chunks": "お土産って / ただの物ではなく / 相手への気持ちを伝える / 大切な手段だと感じる",
+        "guide": "お土産って → ～って lần thứ tư = khẩu ngữ chủ đề (= とは định nghĩa) 'omiyage là...' → ただの物ではなく = không chỉ là đồ vật + ではなく → 相手への気持ちを伝える = truyền tình cảm cho đối phương → 大切な手段だと感じる = cảm thấy là phương tiện quan trọng → 🔒 Đóng gói: [omiyage = phương tiện truyền cảm xúc, không chỉ đồ]",
+        "translation": "Tôi cảm thấy quà lưu niệm không chỉ là một món đồ mà là phương tiện quan trọng để truyền tải tình cảm cho đối phương."
+      },
+      {
+        "sentence": "最近はデパートをはじめ、空港やネットでもお土産が買えるようになった。",
+        "chunks": "最近はデパートをはじめ / 空港やネットでも / お土産が買えるようになった",
+        "guide": "最近は → chủ đề thời điểm → デパートをはじめ → ～をはじめ lần thứ tư → 'đứng đầu là TTTM' → 空港やネットでも = cả sân bay và mạng → 買えるようになった = đã trở nên có thể mua → ようになる diễn tả thay đổi → 🔒 Đóng gói: [TTTM + sân bay + mạng → đều mua được]",
+        "translation": "Gần đây, đứng đầu là các trung tâm thương mại, rồi cả ở sân bay hay trên mạng cũng có thể mua được quà lưu niệm."
+      },
+      {
+        "sentence": "それでも、やっぱり現地で選んで持ち帰るのが一番、と私は思っている。",
+        "chunks": "それでも / やっぱり現地で選んで / 持ち帰るのが一番と / 私は思っている",
+        "guide": "それでも = dù vậy → やっぱり = vẫn / quả nhiên → 現地で選んで持ち帰る = chọn tại chỗ rồi mang về → のが一番 = là tốt nhất (の danh hóa) → と私は思っている = tôi vẫn đang nghĩ → 🔒 Đóng gói: [tác giả vẫn cho rằng chọn tại chỗ là nhất]",
+        "translation": "Dù vậy, tôi vẫn nghĩ chọn tại chỗ rồi mang về vẫn là tốt nhất."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0298_Q1",
+        "question": "筆者は外国人の友達にお土産選びについて何とアドバイスしていますか。",
+        "question_vi": "Tác giả khuyên người bạn nước ngoài về việc chọn quà lưu niệm như thế nào?",
+        "answers": [
+          {"text": "安いものを選ぶといい。", "text_vi": "Nên chọn đồ rẻ.", "is_correct": false},
+          {"text": "手作りのものを選ぶといい。", "text_vi": "Nên chọn đồ tự làm.", "is_correct": false},
+          {"text": "その土地でしか買えない物を選ぶといい。", "text_vi": "Nên chọn thứ mà chỉ ở vùng đó mới mua được.", "is_correct": true},
+          {"text": "デパートで買うのが一番いい。", "text_vi": "Mua ở trung tâm thương mại là tốt nhất.", "is_correct": false}
+        ],
+        "explanation": "Câu 4 nói rõ 「私はいつも、その土地でしか買えない物を選ぶといいよ、と答える」 → でしか～ない + ～といい = chỉ ở đó mới có + nên ~ → đó là lời khuyên cụ thể của tác giả. Câu 10 còn nói đồ rẻ và đồ tự làm có thể thất lễ → loại 2 đáp án sai."
+      },
+      {
+        "id": "R_0298_Q2",
+        "question": "なぜ職場で配るお土産は個包装の物がいいのですか。",
+        "question_vi": "Tại sao quà lưu niệm phát ở công ty thì đồ đóng gói riêng từng cái lại tốt?",
+        "answers": [
+          {"text": "値段が安いから。", "text_vi": "Vì giá rẻ.", "is_correct": false},
+          {"text": "見た目がきれいだから。", "text_vi": "Vì hình thức đẹp.", "is_correct": false},
+          {"text": "みんなで分けやすく、大きいケーキなどは選びにくいから。", "text_vi": "Vì dễ chia cho mọi người, còn những thứ như chiếc bánh to thì khó chọn.", "is_correct": true},
+          {"text": "賞味期限が長いから。", "text_vi": "Vì hạn sử dụng dài.", "is_correct": false}
+        ],
+        "explanation": "Câu 6 「みんなで分けやすい個包装の物がいい」って言っていた → ～って trích dẫn ý đồng nghiệp. Câu 7 bổ sung 「大きいケーキなんかは少し選びにくい」 → ～なんか + にくい = những thứ như + khó làm. Hai câu kết hợp giải thích lý do."
+      },
+      {
+        "id": "R_0298_Q3",
+        "question": "筆者はお土産についてどう考えていますか。",
+        "question_vi": "Tác giả nghĩ thế nào về quà lưu niệm?",
+        "answers": [
+          {"text": "ただの物で、特に意味はない。", "text_vi": "Chỉ là đồ vật, không có ý nghĩa gì đặc biệt.", "is_correct": false},
+          {"text": "相手への気持ちを伝える大切な手段だと感じている。", "text_vi": "Cảm thấy là phương tiện quan trọng để truyền tải tình cảm cho đối phương.", "is_correct": true},
+          {"text": "高ければ高いほどいいと思っている。", "text_vi": "Nghĩ rằng càng đắt càng tốt.", "is_correct": false},
+          {"text": "ネットで買うのが一番便利でいいと思っている。", "text_vi": "Nghĩ mua trên mạng là tiện lợi và tốt nhất.", "is_correct": false}
+        ],
+        "explanation": "Câu 11 nói trực tiếp 「お土産って、ただの物ではなく、相手への気持ちを伝える大切な手段だと感じる」 → ～って định nghĩa + ではなく phủ định + 大切な手段 = phương tiện quan trọng. Câu 13 còn nhấn 「現地で選んで持ち帰るのが一番」 → tác giả không nghĩ mạng tốt nhất."
+      }
+    ]
+  },
+  {
+    "id": "R_0299",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "かき氷の魅力",
+    "title_vi": "Sức hút của kakigori",
+    "topic": "seasonal_food",
+    "subtopic": "đồ ngọt mùa hè (kakigori)",
+    "tags": ["って", "らしい", "とか"],
+    "grammar_used": ["～って", "～らしい", "～とか"],
+    "sentence_count": 13,
+    "text": "夏になると、日本ではかき氷が人気だ。「かき氷って何」と聞かれることもあるが、簡単に言うと、細かく削った氷にシロップをかけた冷たいデザートだ。最近はいちごとか抹茶とか、いろいろな味があって選ぶのが楽しい。テレビで見たが、最近の若い人の間ではマンゴーとかタピオカ入りなんかも人気らしい。京都の老舗のかき氷は氷がふわふわで、口に入れたとたん溶けるらしい。友達は「あの店のかき氷って一度食べたら忘れられない味だよ」と話していた。値段はだいたい一杯千円くらいするとか、特別な店ではもっと高いとか聞いたことがある。私の家の近くにも、夏だけ営業するかき氷屋さんがあって、毎年通っている。店主は「氷の質と削り方で味が変わるんだよ」って教えてくれた。子供たちはやっぱり、いちごとかメロンとかの定番味が大好きらしい。最近は、塩味とかチーズ味とか、変わったかき氷も出てきて、ちょっと驚いた。SNSで見ると、見た目がきれいなかき氷ほど人気が出やすいらしい。かき氷って、ただ冷たいだけじゃなく、夏の思い出を作る食べ物なのかもしれないと感じる。",
+    "translation": "Khi vào hè, kakigori được yêu thích ở Nhật. Cũng có khi tôi bị hỏi 'kakigori là gì', nhưng nói đơn giản, đó là món tráng miệng lạnh được làm từ đá bào nhỏ rưới siro lên. Gần đây có đủ vị như dâu tây, matcha, chọn rất vui. Tôi xem trên ti vi thấy nói gần đây trong giới trẻ thì hình như những thứ như xoài hay loại có trân châu cũng được ưa chuộng. Kakigori của các quán lâu đời ở Kyoto thì đá bông xốp, nghe nói ngay khi bỏ vào miệng là tan ra. Bạn tôi đã kể rằng 'kakigori của quán đó ăn một lần là không quên được vị'. Tôi từng nghe nói giá đại khoảng một nghìn yên một cốc, hoặc ở những quán đặc biệt còn đắt hơn. Gần nhà tôi cũng có một quán kakigori chỉ mở vào hè, năm nào tôi cũng ghé. Chủ quán đã dạy tôi rằng 'chất lượng đá và cách bào sẽ làm thay đổi vị đó'. Bọn trẻ con quả nhiên hình như rất thích những vị kinh điển như dâu tây hay dưa lưới. Gần đây xuất hiện cả những kakigori lạ lùng như vị muối hay vị phô mai, tôi cũng hơi bất ngờ. Nhìn trên mạng xã hội, hình như kakigori có hình thức càng đẹp thì càng dễ nổi tiếng. Tôi cảm thấy kakigori, có lẽ không chỉ đơn thuần là đồ lạnh, mà là món ăn tạo ra kỷ niệm mùa hè.",
+    "vocabulary": [
+      {"word": "削る", "reading": "けずる", "meaning": "bào, gọt"},
+      {"word": "老舗", "reading": "しにせ", "meaning": "quán lâu đời, cửa hàng truyền thống"},
+      {"word": "ふわふわ", "reading": "ふわふわ", "meaning": "bông xốp, mềm mại"},
+      {"word": "溶ける", "reading": "とける", "meaning": "tan, chảy"},
+      {"word": "営業", "reading": "えいぎょう", "meaning": "kinh doanh, mở cửa"},
+      {"word": "店主", "reading": "てんしゅ", "meaning": "chủ quán"},
+      {"word": "質", "reading": "しつ", "meaning": "chất lượng"},
+      {"word": "定番", "reading": "ていばん", "meaning": "đồ kinh điển, lựa chọn quen thuộc"},
+      {"word": "見た目", "reading": "みため", "meaning": "vẻ ngoài, hình thức"},
+      {"word": "魅力", "reading": "みりょく", "meaning": "sức hút, sức hấp dẫn"},
+      {"word": "思い出", "reading": "おもいで", "meaning": "kỷ niệm"}
+    ],
+    "process": [
+      {
+        "sentence": "夏になると、日本ではかき氷が人気だ。",
+        "chunks": "夏になると / 日本では / かき氷が人気だ",
+        "guide": "夏になると → と điều kiện 'cứ đến hè là' → 日本では = ở Nhật (chủ đề+vị trí) → かき氷が人気だ = kakigori được ưa chuộng → 🔒 Đóng gói: [hè đến → JP → kakigori hot]",
+        "translation": "Khi vào hè, kakigori được yêu thích ở Nhật."
+      },
+      {
+        "sentence": "「かき氷って何」と聞かれることもあるが、簡単に言うと、細かく削った氷にシロップをかけた冷たいデザートだ。",
+        "chunks": "「かき氷って何」と聞かれることもあるが / 簡単に言うと / 細かく削った氷にシロップをかけた冷たいデザートだ",
+        "guide": "「かき氷って何」 → trong trích dẫn → って → ～って = khẩu ngữ chủ đề (= とは hỏi định nghĩa) 'kakigori là gì' → と聞かれることもある = cũng có khi bị hỏi → が tương phản → 簡単に言うと = nói đơn giản → 細かく削った氷にシロップをかけた冷たいデザートだ = món lạnh đá bào rưới siro → 🔒 Đóng gói: [kakigori = đá bào + siro]",
+        "translation": "Cũng có khi tôi bị hỏi 'kakigori là gì', nhưng nói đơn giản, đó là món tráng miệng lạnh được làm từ đá bào nhỏ rưới siro lên."
+      },
+      {
+        "sentence": "最近はいちごとか抹茶とか、いろいろな味があって選ぶのが楽しい。",
+        "chunks": "最近は / いちごとか抹茶とか / いろいろな味があって / 選ぶのが楽しい",
+        "guide": "最近は → chủ đề thời điểm → いちごとか抹茶とか → ～とか = 'như là, hoặc là' liệt kê ví dụ → 'như dâu, matcha v.v.' → いろいろな味があって = có đủ loại vị → 選ぶのが楽しい = việc chọn vui → 🔒 Đóng gói: [nhiều vị: dâu, matcha v.v. → chọn vui]",
+        "translation": "Gần đây có đủ vị như dâu tây, matcha, chọn rất vui."
+      },
+      {
+        "sentence": "テレビで見たが、最近の若い人の間ではマンゴーとかタピオカ入りなんかも人気らしい。",
+        "chunks": "テレビで見たが / 最近の若い人の間では / マンゴーとかタピオカ入りなんかも / 人気らしい",
+        "guide": "テレビで見たが → が dẫn nhập → 最近の若い人の間では = trong giới trẻ → マンゴーとかタピオカ入り → ～とか lần thứ hai → liệt kê → なんかも cũng → 人気らしい → ～らしい = 'nghe nói, hình như' (phỏng đoán có căn cứ) → 🔒 Đóng gói: [trên TV: giới trẻ → xoài, trân châu cũng hot]",
+        "translation": "Tôi xem trên ti vi thấy nói gần đây trong giới trẻ thì hình như những thứ như xoài hay loại có trân châu cũng được ưa chuộng."
+      },
+      {
+        "sentence": "京都の老舗のかき氷は氷がふわふわで、口に入れたとたん溶けるらしい。",
+        "chunks": "京都の老舗のかき氷は / 氷がふわふわで / 口に入れたとたん溶けるらしい",
+        "guide": "京都の老舗のかき氷は → chủ đề → 氷がふわふわで = đá bông xốp + で nối → 口に入れたとたん = ngay khi cho vào miệng → 溶けるらしい → ～らしい lần thứ hai = nghe nói → 🔒 Đóng gói: [Kyoto quán xưa → đá xốp → vào miệng tan ngay]",
+        "translation": "Kakigori của các quán lâu đời ở Kyoto thì đá bông xốp, nghe nói ngay khi bỏ vào miệng là tan ra."
+      },
+      {
+        "sentence": "友達は「あの店のかき氷って一度食べたら忘れられない味だよ」と話していた。",
+        "chunks": "友達は / 「あの店のかき氷って一度食べたら忘れられない味だよ」と / 話していた",
+        "guide": "友達は → chủ đề bạn → 「あの店のかき氷って...」 → trong trích dẫn → って → ～って lần thứ hai = khẩu ngữ chủ đề (= は) 'kakigori quán đó thì...' → 一度食べたら = một khi đã ăn → 忘れられない味だよ = vị không quên được → と話していた = đã kể → 🔒 Đóng gói: [bạn khen: kakigori quán đó vị không quên]",
+        "translation": "Bạn tôi đã kể rằng 'kakigori của quán đó ăn một lần là không quên được vị'."
+      },
+      {
+        "sentence": "値段はだいたい一杯千円くらいするとか、特別な店ではもっと高いとか聞いたことがある。",
+        "chunks": "値段は / だいたい一杯千円くらいするとか / 特別な店ではもっと高いとか / 聞いたことがある",
+        "guide": "値段は → chủ đề giá → だいたい一杯千円くらいする = tầm 1000 yên → とか → ～とか lần thứ ba (đặc biệt nghĩa 'nghe đâu là, hình như') → 特別な店ではもっと高い = quán đặc biệt còn đắt hơn → とか lần thứ tư = nghe đâu → 聞いたことがある = đã từng nghe → 🔒 Đóng gói: [nghe đâu giá ~1000 yên, đặc biệt còn đắt hơn]",
+        "translation": "Tôi từng nghe nói giá đại khoảng một nghìn yên một cốc, hoặc ở những quán đặc biệt còn đắt hơn."
+      },
+      {
+        "sentence": "私の家の近くにも、夏だけ営業するかき氷屋さんがあって、毎年通っている。",
+        "chunks": "私の家の近くにも / 夏だけ営業するかき氷屋さんがあって / 毎年通っている",
+        "guide": "私の家の近くにも → にも 'cũng ở gần nhà' → 夏だけ営業する = chỉ mở vào hè → かき氷屋さんがあって = có quán kakigori + て nối → 毎年通っている = năm nào cũng ghé → ている thói quen → 🔒 Đóng gói: [gần nhà có quán mở chỉ hè → đi đều]",
+        "translation": "Gần nhà tôi cũng có một quán kakigori chỉ mở vào hè, năm nào tôi cũng ghé."
+      },
+      {
+        "sentence": "店主は「氷の質と削り方で味が変わるんだよ」って教えてくれた。",
+        "chunks": "店主は / 「氷の質と削り方で味が変わるんだよ」って / 教えてくれた",
+        "guide": "店主は → chủ đề chủ quán → 「氷の質と削り方で味が変わるんだよ」 → trong trích dẫn → で nguyên nhân/phương tiện → 変わるんだよ giải thích → って → ～って lần thứ ba = khẩu ngữ trích dẫn (= と) → 教えてくれた = dạy cho tôi → 🔒 Đóng gói: [chủ quán dạy: chất đá + cách bào → vị thay đổi]",
+        "translation": "Chủ quán đã dạy tôi rằng 'chất lượng đá và cách bào sẽ làm thay đổi vị đó'."
+      },
+      {
+        "sentence": "子供たちはやっぱり、いちごとかメロンとかの定番味が大好きらしい。",
+        "chunks": "子供たちはやっぱり / いちごとかメロンとかの定番味が / 大好きらしい",
+        "guide": "子供たちはやっぱり → やっぱり 'quả nhiên' → いちごとかメロンとか → ～とか lần thứ năm → liệt kê 'như dâu, dưa' → の定番味 = vị kinh điển → 大好きらしい → ～らしい lần thứ ba = hình như rất thích → 🔒 Đóng gói: [trẻ con vẫn thích vị kinh điển: dâu, dưa]",
+        "translation": "Bọn trẻ con quả nhiên hình như rất thích những vị kinh điển như dâu tây hay dưa lưới."
+      },
+      {
+        "sentence": "最近は、塩味とかチーズ味とか、変わったかき氷も出てきて、ちょっと驚いた。",
+        "chunks": "最近は / 塩味とかチーズ味とか / 変わったかき氷も出てきて / ちょっと驚いた",
+        "guide": "最近は → chủ đề thời điểm → 塩味とかチーズ味とか → ～とか lần thứ sáu → liệt kê 'như muối, phô mai' → 変わったかき氷も = kakigori lạ cũng → 出てきて = đã xuất hiện ra + て nối → ちょっと驚いた = hơi bất ngờ → 🔒 Đóng gói: [vị mới lạ: muối, phô mai → bất ngờ]",
+        "translation": "Gần đây xuất hiện cả những kakigori lạ lùng như vị muối hay vị phô mai, tôi cũng hơi bất ngờ."
+      },
+      {
+        "sentence": "SNSで見ると、見た目がきれいなかき氷ほど人気が出やすいらしい。",
+        "chunks": "SNSで見ると / 見た目がきれいなかき氷ほど / 人気が出やすいらしい",
+        "guide": "SNSで見ると → と điều kiện 'khi xem' → 見た目がきれいなかき氷ほど → ～ほど = 'càng ~ càng' → 'kakigori càng đẹp' → 人気が出やすい = dễ nổi tiếng → やすい dễ → らしい → ～らしい lần thứ tư = hình như → 🔒 Đóng gói: [trên SNS: càng đẹp → càng nổi tiếng]",
+        "translation": "Nhìn trên mạng xã hội, hình như kakigori có hình thức càng đẹp thì càng dễ nổi tiếng."
+      },
+      {
+        "sentence": "かき氷って、ただ冷たいだけじゃなく、夏の思い出を作る食べ物なのかもしれないと感じる。",
+        "chunks": "かき氷って / ただ冷たいだけじゃなく / 夏の思い出を作る食べ物なのかもしれないと感じる",
+        "guide": "かき氷って → ～って lần thứ tư = khẩu ngữ định nghĩa (= とは) 'kakigori thì...' → ただ冷たいだけじゃなく = không chỉ đơn thuần lạnh → 夏の思い出を作る食べ物 = món tạo kỷ niệm hè → なのかもしれない = có lẽ là → と感じる = cảm thấy → 🔒 Đóng gói: [kakigori = không chỉ lạnh, mà tạo kỷ niệm hè]",
+        "translation": "Tôi cảm thấy kakigori, có lẽ không chỉ đơn thuần là đồ lạnh, mà là món ăn tạo ra kỷ niệm mùa hè."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0299_Q1",
+        "question": "かき氷とは何ですか。",
+        "question_vi": "Kakigori là gì?",
+        "answers": [
+          {"text": "温かいお茶にシロップを入れた飲み物。", "text_vi": "Đồ uống là trà ấm cho siro vào.", "is_correct": false},
+          {"text": "細かく削った氷にシロップをかけた冷たいデザート。", "text_vi": "Món tráng miệng lạnh là đá được bào nhỏ rưới siro lên.", "is_correct": true},
+          {"text": "凍らせた果物をそのまま食べるお菓子。", "text_vi": "Món ngọt là trái cây đông lạnh ăn nguyên cả quả.", "is_correct": false},
+          {"text": "アイスクリームの一種で、夏だけ作られる物。", "text_vi": "Một loại kem chỉ được làm vào mùa hè.", "is_correct": false}
+        ],
+        "explanation": "Câu 2 nói rõ 「簡単に言うと、細かく削った氷にシロップをかけた冷たいデザートだ」 → 細かく削った氷 = đá bào nhỏ + シロップをかけた = rưới siro + 冷たいデザート = món tráng miệng lạnh. Đây là định nghĩa trực tiếp."
+      },
+      {
+        "id": "R_0299_Q2",
+        "question": "店主によると、かき氷の味は何で変わりますか。",
+        "question_vi": "Theo chủ quán, vị của kakigori thay đổi do điều gì?",
+        "answers": [
+          {"text": "シロップの色と量で変わる。", "text_vi": "Do màu và lượng siro.", "is_correct": false},
+          {"text": "氷の質と削り方で変わる。", "text_vi": "Do chất lượng đá và cách bào.", "is_correct": true},
+          {"text": "店の場所と季節で変わる。", "text_vi": "Do địa điểm quán và mùa.", "is_correct": false},
+          {"text": "値段の高さで変わる。", "text_vi": "Do giá tiền cao hay thấp.", "is_correct": false}
+        ],
+        "explanation": "Câu 9 trích dẫn lời chủ quán 「氷の質と削り方で味が変わるんだよ」 → って (= と) khẩu ngữ trích dẫn + で chỉ phương tiện/nguyên nhân → 'do chất đá và cách bào'. Đây là sự thật trực tiếp được nói bởi chủ quán."
+      },
+      {
+        "id": "R_0299_Q3",
+        "question": "筆者はかき氷について最後にどう感じていますか。",
+        "question_vi": "Cuối cùng tác giả cảm thấy thế nào về kakigori?",
+        "answers": [
+          {"text": "ただ冷たいだけのデザートで、特別な意味はない。", "text_vi": "Chỉ là món tráng miệng đơn thuần lạnh, không có ý nghĩa gì đặc biệt.", "is_correct": false},
+          {"text": "ただ冷たいだけじゃなく、夏の思い出を作る食べ物かもしれない。", "text_vi": "Không chỉ đơn thuần là đồ lạnh, mà có lẽ là món tạo ra kỷ niệm mùa hè.", "is_correct": true},
+          {"text": "高すぎて普通の人は食べられないものだ。", "text_vi": "Quá đắt nên người thường không ăn được.", "is_correct": false},
+          {"text": "若い人にしか合わない流行のデザートだ。", "text_vi": "Là món tráng miệng thời thượng chỉ hợp với giới trẻ.", "is_correct": false}
+        ],
+        "explanation": "Câu 13 nói trực tiếp 「かき氷って、ただ冷たいだけじゃなく、夏の思い出を作る食べ物なのかもしれないと感じる」 → ～って định nghĩa + ただ～だけじゃなく = không chỉ ~ + かもしれない = có lẽ → tác giả nghĩ kakigori là món tạo kỷ niệm hè. Đây là kết luận tổng hợp xuyên suốt bài."
+      }
+    ]
+  }
+]

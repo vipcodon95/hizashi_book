@@ -1,0 +1,440 @@
+[
+  {
+    "id": "R_0264",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "公共図書館の役割",
+    "title_vi": "Vai trò của thư viện công cộng",
+    "topic": "book",
+    "subtopic": "thư viện công cộng",
+    "tags": ["にとって", "として", "はもちろん"],
+    "grammar_used": ["～にとって", "～として", "～はもちろん／もとより"],
+    "sentence_count": 13,
+    "text": "公共図書館は、多くの人にとって身近な学びの場である。本を読む人はもちろん、勉強や仕事で資料を探したい人にとっても、とても便利な施設だ。私の住む町の図書館は、地域の文化センターとしての役割も持っている。子どもから大人まで、誰にとっても無料で利用できる点が一番の魅力だ。最近は、本はもちろん、雑誌や新聞、CDやDVDまで貸し出している。司書として働く方は、本の知識が豊富で、どんな質問にも丁寧に答えてくれる。学生にとって試験前の図書館は、集中して勉強できる大切な場所だ。お年寄りはもちろん、小さな子ども連れの母親も、よく絵本コーナーを訪れている。図書館は、本を読む場所はもとより、人と人がゆるやかにつながる空間でもある。先日、地域の作家として有名な方の講演会が開かれ、多くの市民が参加した。こうしたイベントは、町の人々にとって貴重な学びの機会となる。私自身も学生として、レポート作成のために週に二回は図書館へ通っている。これからも公共図書館が、地域にとってなくてはならない存在であり続けてほしいと願っている。",
+    "translation": "Thư viện công cộng là nơi học tập gần gũi đối với nhiều người. Không chỉ với người đọc sách, mà ngay cả với những người muốn tìm tài liệu để học tập hoặc làm việc, đây cũng là một cơ sở rất tiện lợi. Thư viện ở thị trấn tôi sống còn đảm nhận vai trò là một trung tâm văn hóa của địa phương. Điểm hấp dẫn nhất là từ trẻ em đến người lớn, đối với ai cũng đều có thể sử dụng miễn phí. Gần đây, đương nhiên là sách, mà cả tạp chí, báo, CD và DVD cũng được cho mượn. Những người làm việc với tư cách là thủ thư có kiến thức về sách rất phong phú, mọi câu hỏi đều được họ trả lời một cách cẩn thận. Đối với học sinh, thư viện trước kỳ thi là nơi quan trọng để có thể tập trung học. Đương nhiên là người già, mà cả các bà mẹ dắt theo con nhỏ cũng thường xuyên ghé khu sách tranh. Thư viện không chỉ là nơi đọc sách, mà còn là không gian nơi con người kết nối nhẹ nhàng với nhau. Hôm trước, buổi diễn thuyết của một vị nổi tiếng với tư cách là nhà văn của địa phương đã được tổ chức, và rất nhiều thị dân đã tham gia. Những sự kiện như vậy trở thành cơ hội học tập quý giá đối với người dân thị trấn. Bản thân tôi với tư cách là sinh viên cũng đến thư viện một tuần hai lần để viết báo cáo. Tôi mong rằng thư viện công cộng sẽ tiếp tục là sự tồn tại không thể thiếu đối với địa phương.",
+    "vocabulary": [
+      {"word": "公共", "reading": "こうきょう", "meaning": "công cộng"},
+      {"word": "施設", "reading": "しせつ", "meaning": "cơ sở, công trình"},
+      {"word": "資料", "reading": "しりょう", "meaning": "tài liệu"},
+      {"word": "司書", "reading": "ししょ", "meaning": "thủ thư"},
+      {"word": "貸し出す", "reading": "かしだす", "meaning": "cho mượn"},
+      {"word": "豊富", "reading": "ほうふ", "meaning": "phong phú, dồi dào"},
+      {"word": "絵本", "reading": "えほん", "meaning": "sách tranh, truyện tranh thiếu nhi"},
+      {"word": "講演会", "reading": "こうえんかい", "meaning": "buổi diễn thuyết"},
+      {"word": "市民", "reading": "しみん", "meaning": "thị dân, người dân thành phố"},
+      {"word": "貴重", "reading": "きちょう", "meaning": "quý giá"},
+      {"word": "魅力", "reading": "みりょく", "meaning": "sức hấp dẫn"}
+    ],
+    "process": [
+      {
+        "sentence": "公共図書館は、多くの人にとって身近な学びの場である。",
+        "chunks": "公共図書館は / 多くの人にとって / 身近な学びの場である",
+        "guide": "公共図書館は → chủ đề → 多くの人にとって → ～にとって = 'đối với (quan điểm/lập trường)' → khác ～について (về chủ đề) → 身近な学びの場である = là nơi học tập gần gũi → 🔒 Đóng gói: [thư viện công = nơi học gần gũi đối với nhiều người]",
+        "translation": "Thư viện công cộng là nơi học tập gần gũi đối với nhiều người."
+      },
+      {
+        "sentence": "本を読む人はもちろん、勉強や仕事で資料を探したい人にとっても、とても便利な施設だ。",
+        "chunks": "本を読む人はもちろん / 勉強や仕事で資料を探したい人にとっても / とても便利な施設だ",
+        "guide": "本を読む人はもちろん → ～はもちろん = 'đương nhiên là, không nói cũng biết' → mở rộng phạm vi → 勉強や仕事で資料を探したい人にとっても → ～にとって lần thứ hai + も → 'cả đối với...' → とても便利な施設だ = là cơ sở rất tiện lợi → 🔒 Đóng gói: [không chỉ người đọc → cả người tìm tài liệu → đều thấy tiện]",
+        "translation": "Không chỉ với người đọc sách, mà ngay cả với những người muốn tìm tài liệu để học tập hoặc làm việc, đây cũng là một cơ sở rất tiện lợi."
+      },
+      {
+        "sentence": "私の住む町の図書館は、地域の文化センターとしての役割も持っている。",
+        "chunks": "私の住む町の図書館は / 地域の文化センターとしての / 役割も持っている",
+        "guide": "私の住む町の図書館は → chủ đề → 地域の文化センターとして → ～として = 'với tư cách là, ở vai trò là' → としての + 名詞 → 役割も持っている = mang cả vai trò → 🔒 Đóng gói: [thư viện địa phương → vai trò trung tâm văn hóa]",
+        "translation": "Thư viện ở thị trấn tôi sống còn đảm nhận vai trò là một trung tâm văn hóa của địa phương."
+      },
+      {
+        "sentence": "子どもから大人まで、誰にとっても無料で利用できる点が一番の魅力だ。",
+        "chunks": "子どもから大人まで / 誰にとっても / 無料で利用できる点が一番の魅力だ",
+        "guide": "子どもから大人まで = từ trẻ tới người lớn → 誰にとっても → ～にとって lần thứ hai + も → 'đối với bất kỳ ai' → 無料で利用できる点 = điểm có thể dùng miễn phí → 一番の魅力だ = sức hấp dẫn nhất → 🔒 Đóng gói: [ai cũng dùng miễn phí → là điểm hấp dẫn nhất]",
+        "translation": "Điểm hấp dẫn nhất là từ trẻ em đến người lớn, đối với ai cũng đều có thể sử dụng miễn phí."
+      },
+      {
+        "sentence": "最近は、本はもちろん、雑誌や新聞、CDやDVDまで貸し出している。",
+        "chunks": "最近は / 本はもちろん / 雑誌や新聞、CDやDVDまで貸し出している",
+        "guide": "最近は → chủ đề thời điểm → 本はもちろん → ～はもちろん lần thứ hai → 'đương nhiên là sách' → 雑誌や新聞、CDやDVDまで → liệt kê + まで 'tới cả' → mở rộng phạm vi → 貸し出している = đang cho mượn → 🔒 Đóng gói: [không chỉ sách → cả tạp chí/báo/CD/DVD đều cho mượn]",
+        "translation": "Gần đây, đương nhiên là sách, mà cả tạp chí, báo, CD và DVD cũng được cho mượn."
+      },
+      {
+        "sentence": "司書として働く方は、本の知識が豊富で、どんな質問にも丁寧に答えてくれる。",
+        "chunks": "司書として働く方は / 本の知識が豊富で / どんな質問にも丁寧に答えてくれる",
+        "guide": "司書として働く方 → ～として lần thứ hai → 'với tư cách là thủ thư' → として + 動詞 → định nghĩa vai trò → 本の知識が豊富で = kiến thức về sách phong phú → どんな質問にも丁寧に答えてくれる = trả lời mọi câu hỏi cẩn thận → くれる = làm cho mình → 🔒 Đóng gói: [thủ thư → biết nhiều → trả lời cẩn thận]",
+        "translation": "Những người làm việc với tư cách là thủ thư có kiến thức về sách rất phong phú, mọi câu hỏi đều được họ trả lời một cách cẩn thận."
+      },
+      {
+        "sentence": "学生にとって試験前の図書館は、集中して勉強できる大切な場所だ。",
+        "chunks": "学生にとって / 試験前の図書館は / 集中して勉強できる大切な場所だ",
+        "guide": "学生にとって → ～にとって lần thứ ba → 'đối với học sinh' → quan điểm cụ thể → 試験前の図書館は = thư viện trước kỳ thi → chủ đề con → 集中して勉強できる大切な場所だ = nơi quan trọng để tập trung học → 🔒 Đóng gói: [đối với học sinh → thư viện trước thi = nơi tập trung học]",
+        "translation": "Đối với học sinh, thư viện trước kỳ thi là nơi quan trọng để có thể tập trung học."
+      },
+      {
+        "sentence": "お年寄りはもちろん、小さな子ども連れの母親も、よく絵本コーナーを訪れている。",
+        "chunks": "お年寄りはもちろん / 小さな子ども連れの母親も / よく絵本コーナーを訪れている",
+        "guide": "お年寄りはもちろん → ～はもちろん lần thứ ba → 'đương nhiên người già' → 小さな子ども連れの母親も = cả mẹ dắt con nhỏ cũng → mở rộng đối tượng → よく絵本コーナーを訪れている = thường ghé khu sách tranh → 🔒 Đóng gói: [không chỉ người già → cả mẹ trẻ → đều ghé thư viện]",
+        "translation": "Đương nhiên là người già, mà cả các bà mẹ dắt theo con nhỏ cũng thường xuyên ghé khu sách tranh."
+      },
+      {
+        "sentence": "図書館は、本を読む場所はもとより、人と人がゆるやかにつながる空間でもある。",
+        "chunks": "図書館は / 本を読む場所はもとより / 人と人がゆるやかにつながる空間でもある",
+        "guide": "図書館は → chủ đề → 本を読む場所はもとより → ～はもとより = biến thể trang trọng của ～はもちろん → 'đương nhiên/dĩ nhiên là...' → 人と人がゆるやかにつながる空間でもある = cũng là không gian con người kết nối nhẹ nhàng → 🔒 Đóng gói: [thư viện → không chỉ đọc sách → còn là chỗ kết nối]",
+        "translation": "Thư viện không chỉ là nơi đọc sách, mà còn là không gian nơi con người kết nối nhẹ nhàng với nhau."
+      },
+      {
+        "sentence": "先日、地域の作家として有名な方の講演会が開かれ、多くの市民が参加した。",
+        "chunks": "先日 / 地域の作家として有名な方の講演会が開かれ / 多くの市民が参加した",
+        "guide": "先日 = hôm trước → 地域の作家として → ～として lần thứ ba → 'với tư cách là nhà văn địa phương' → 有名な方 = vị nổi tiếng → 講演会が開かれ = buổi diễn thuyết được mở (bị động) → 多くの市民が参加した = nhiều thị dân tham gia → 🔒 Đóng gói: [diễn thuyết của nhà văn địa phương → nhiều người dự]",
+        "translation": "Hôm trước, buổi diễn thuyết của một vị nổi tiếng với tư cách là nhà văn của địa phương đã được tổ chức, và rất nhiều thị dân đã tham gia."
+      },
+      {
+        "sentence": "こうしたイベントは、町の人々にとって貴重な学びの機会となる。",
+        "chunks": "こうしたイベントは / 町の人々にとって / 貴重な学びの機会となる",
+        "guide": "こうしたイベントは = những sự kiện như vậy → 町の人々にとって → ～にとって lần thứ tư → 'đối với người dân thị trấn' → 貴重な学びの機会となる = trở thành cơ hội học tập quý giá → となる = trở thành (kết quả) → 🔒 Đóng gói: [sự kiện này → đối với dân thị trấn → là cơ hội học quý]",
+        "translation": "Những sự kiện như vậy trở thành cơ hội học tập quý giá đối với người dân thị trấn."
+      },
+      {
+        "sentence": "私自身も学生として、レポート作成のために週に二回は図書館へ通っている。",
+        "chunks": "私自身も学生として / レポート作成のために / 週に二回は図書館へ通っている",
+        "guide": "私自身も学生として → ～として lần thứ tư → 'với tư cách là sinh viên' → 自身 nhấn mạnh bản thân → レポート作成のために = vì việc viết báo cáo → ために mục đích → 週に二回は図書館へ通っている = tuần đến thư viện 2 lần → 🔒 Đóng gói: [tôi với tư cách SV → đến thư viện 2 lần/tuần để viết báo cáo]",
+        "translation": "Bản thân tôi với tư cách là sinh viên cũng đến thư viện một tuần hai lần để viết báo cáo."
+      },
+      {
+        "sentence": "これからも公共図書館が、地域にとってなくてはならない存在であり続けてほしいと願っている。",
+        "chunks": "これからも公共図書館が / 地域にとって / なくてはならない存在であり続けてほしいと願っている",
+        "guide": "これからも = từ giờ trở đi cũng → 公共図書館が → chủ ngữ → 地域にとって → ～にとって lần thứ năm → 'đối với địa phương' → なくてはならない存在 = sự tồn tại không thể thiếu → であり続けてほしい = mong tiếp tục là... → と願っている = mong rằng → 🔒 Đóng gói: [mong thư viện mãi là chỗ không thể thiếu của địa phương]",
+        "translation": "Tôi mong rằng thư viện công cộng sẽ tiếp tục là sự tồn tại không thể thiếu đối với địa phương."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0264_Q1",
+        "question": "筆者の町の図書館では、何を貸し出していますか。",
+        "question_vi": "Thư viện ở thị trấn của tác giả cho mượn những gì?",
+        "answers": [
+          {"text": "本だけを貸し出している。", "text_vi": "Chỉ cho mượn sách.", "is_correct": false},
+          {"text": "本はもちろん、雑誌や新聞、CDやDVDまで貸し出している。", "text_vi": "Đương nhiên là sách, cả tạp chí, báo, CD và DVD cũng cho mượn.", "is_correct": true},
+          {"text": "教科書と問題集だけを貸し出している。", "text_vi": "Chỉ cho mượn sách giáo khoa và sách bài tập.", "is_correct": false},
+          {"text": "外国語の本だけを貸し出している。", "text_vi": "Chỉ cho mượn sách tiếng nước ngoài.", "is_correct": false}
+        ],
+        "explanation": "Câu 5 nói rõ 「本はもちろん、雑誌や新聞、CDやDVDまで貸し出している」→ ～はもちろん = đương nhiên + まで = tới cả → mở rộng phạm vi: không chỉ sách mà cả các loại media khác. Đây là sự thật trực tiếp."
+      },
+      {
+        "id": "R_0264_Q2",
+        "question": "なぜ筆者は週に二回図書館へ通っていますか。",
+        "question_vi": "Tại sao tác giả lại đến thư viện một tuần hai lần?",
+        "answers": [
+          {"text": "司書として働いているから。", "text_vi": "Vì đang làm việc với tư cách thủ thư.", "is_correct": false},
+          {"text": "学生としてレポート作成のために通っている。", "text_vi": "Với tư cách là sinh viên để viết báo cáo.", "is_correct": true},
+          {"text": "講演会に毎週出席しているから。", "text_vi": "Vì hàng tuần tham dự buổi diễn thuyết.", "is_correct": false},
+          {"text": "絵本を子どもに読み聞かせるため。", "text_vi": "Để đọc sách tranh cho trẻ em nghe.", "is_correct": false}
+        ],
+        "explanation": "Câu 12 nói rõ 「私自身も学生として、レポート作成のために週に二回は図書館へ通っている」→ ～として = với tư cách + ために = để/vì → lý do là viết báo cáo với tư cách sinh viên."
+      },
+      {
+        "id": "R_0264_Q3",
+        "question": "本文から、筆者は公共図書館をどのような場所だと考えていますか。",
+        "question_vi": "Từ bài đọc, tác giả nghĩ thư viện công cộng là nơi như thế nào?",
+        "answers": [
+          {"text": "本を読む人だけのための静かな場所。", "text_vi": "Nơi yên tĩnh chỉ dành cho người đọc sách.", "is_correct": false},
+          {"text": "学習や交流の場として、地域にとって欠かせない大切な場所。", "text_vi": "Là nơi học tập và giao lưu, không thể thiếu đối với địa phương.", "is_correct": true},
+          {"text": "若い学生だけが利用する場所。", "text_vi": "Nơi chỉ học sinh trẻ sử dụng.", "is_correct": false},
+          {"text": "もう時代に合わない古い施設。", "text_vi": "Cơ sở cũ không còn phù hợp thời đại.", "is_correct": false}
+        ],
+        "explanation": "Tác giả mô tả thư viện vừa là nơi học (câu 1, 7), vừa là trung tâm văn hóa (câu 3), vừa là không gian kết nối (câu 9), và câu cuối 「地域にとってなくてはならない存在であり続けてほしい」→ ～にとって + なくてはならない = không thể thiếu đối với địa phương. Đây là suy luận tổng hợp xuyên suốt bài."
+      }
+    ]
+  },
+  {
+    "id": "R_0265",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "ピアノを習うこと",
+    "title_vi": "Việc học chơi đàn piano",
+    "topic": "music",
+    "subtopic": "học chơi đàn piano",
+    "tags": ["てほしい", "ば～ほど", "さえ"],
+    "grammar_used": ["～てほしい／もらいたい", "～ば～ほど", "～さえ"],
+    "sentence_count": 13,
+    "text": "私は子どもの頃から、両親にピアノを習わせてほしいと頼んでいた。最初は指さえうまく動かず、簡単な曲も弾けなかった。けれども、先生に「練習すればするほど、必ず上手になりますよ」と励ましてもらった。先生には、間違えても叱らずに優しく教えてもらいたいといつも思っていた。練習は、毎日続ければ続けるほど、自分の成長を感じられるようになった。最近では、難しい曲さえ少しずつ弾けるようになってきた。母には私の演奏をもっと聴いてほしいので、週末によく家で弾いている。父にも一緒にピアノを楽しんでもらいたくて、簡単な曲を選んで聴かせている。練習時間は、長ければ長いほど良いというわけではなく、集中することが大切だと先生が教えてくれた。短い時間さえ集中して取り組めば、確かに上達が早い。発表会の日には、家族全員に来てもらいたいと願っている。練習を重ねれば重ねるほど、本番の緊張が少しずつ和らいでいく気がする。これからもピアノを通して、聴いてくれる人にとって心が温かくなる音を届けてほしいと自分自身に願っている。",
+    "translation": "Từ khi còn nhỏ, tôi đã xin bố mẹ cho mình học đàn piano. Ban đầu ngay cả ngón tay cũng không cử động trôi chảy, đến bài đơn giản tôi cũng không chơi được. Tuy nhiên, tôi đã được cô giáo động viên rằng 'càng luyện tập thì nhất định sẽ càng giỏi'. Tôi luôn mong cô giáo có sai cũng sẽ không la mà chỉ dạy nhẹ nhàng. Việc luyện tập, càng tiếp tục mỗi ngày thì càng cảm nhận được sự trưởng thành của bản thân. Gần đây, ngay cả những bản khó tôi cũng dần dần chơi được. Vì muốn mẹ nghe tôi đàn nhiều hơn, nên cuối tuần tôi thường chơi ở nhà. Tôi cũng muốn bố cùng tận hưởng đàn piano, nên chọn những bản đơn giản cho bố nghe. Cô giáo bảo rằng thời gian luyện tập không phải càng dài thì càng tốt, mà điều quan trọng là sự tập trung. Chỉ cần tập trung dù thời gian ngắn, đúng là tiến bộ sẽ nhanh hơn. Vào ngày biểu diễn, tôi mong cả gia đình đến xem. Càng luyện tập nhiều, cảm giác hồi hộp khi biểu diễn thật càng dịu đi từng chút một. Tôi mong rằng từ giờ qua đàn piano, mình có thể gửi tới những người nghe những âm thanh làm ấm lòng họ.",
+    "vocabulary": [
+      {"word": "弾く", "reading": "ひく", "meaning": "chơi (nhạc cụ dây/phím)"},
+      {"word": "励ます", "reading": "はげます", "meaning": "động viên, cổ vũ"},
+      {"word": "叱る", "reading": "しかる", "meaning": "la, mắng"},
+      {"word": "成長", "reading": "せいちょう", "meaning": "sự trưởng thành, phát triển"},
+      {"word": "演奏", "reading": "えんそう", "meaning": "biểu diễn nhạc, trình tấu"},
+      {"word": "上達", "reading": "じょうたつ", "meaning": "sự tiến bộ"},
+      {"word": "発表会", "reading": "はっぴょうかい", "meaning": "buổi biểu diễn, recital"},
+      {"word": "本番", "reading": "ほんばん", "meaning": "buổi chính thức, biểu diễn thật"},
+      {"word": "緊張", "reading": "きんちょう", "meaning": "sự hồi hộp, căng thẳng"},
+      {"word": "和らぐ", "reading": "やわらぐ", "meaning": "dịu đi, dịu xuống"}
+    ],
+    "process": [
+      {
+        "sentence": "私は子どもの頃から、両親にピアノを習わせてほしいと頼んでいた。",
+        "chunks": "私は子どもの頃から / 両親に / ピアノを習わせてほしいと頼んでいた",
+        "guide": "私は子どもの頃から → bối cảnh từ nhỏ → 両親に → đối tượng → ピアノを習わせてほしい → ～てほしい = 'muốn ai làm gì cho mình' → ở đây kết hợp với sai khiến 習わせる = 'xin được cho học' → と頼んでいた = đã xin → 🔒 Đóng gói: [từ nhỏ → xin bố mẹ cho học piano]",
+        "translation": "Từ khi còn nhỏ, tôi đã xin bố mẹ cho mình học đàn piano."
+      },
+      {
+        "sentence": "最初は指さえうまく動かず、簡単な曲も弾けなかった。",
+        "chunks": "最初は / 指さえうまく動かず / 簡単な曲も弾けなかった",
+        "guide": "最初は → giai đoạn đầu → 指さえ → ～さえ = 'ngay cả, đến cả' → nhấn mạnh điều cơ bản → うまく動かず = không cử động trôi chảy → ず phủ định nối → 簡単な曲も弾けなかった = bài đơn giản cũng không chơi được → 🔒 Đóng gói: [đầu → đến ngón tay cũng không động → bài dễ cũng không chơi nổi]",
+        "translation": "Ban đầu ngay cả ngón tay cũng không cử động trôi chảy, đến bài đơn giản tôi cũng không chơi được."
+      },
+      {
+        "sentence": "けれども、先生に「練習すればするほど、必ず上手になりますよ」と励ましてもらった。",
+        "chunks": "けれども / 先生に / 「練習すればするほど、必ず上手になりますよ」と / 励ましてもらった",
+        "guide": "けれども = tuy nhiên (tương phản) → 先生に = từ cô giáo (に nguồn hành động khi dùng với もらう) → 「練習すればするほど、必ず上手になりますよ」 trong trích dẫn → 練習すればするほど → ～ば～ほど = 'càng ~ càng ~' → 必ず上手になります = chắc chắn sẽ giỏi → 励ましてもらった = được động viên → もらう nhận hành động → 🔒 Đóng gói: [cô giáo động viên: càng luyện càng giỏi]",
+        "translation": "Tuy nhiên, tôi đã được cô giáo động viên rằng 'càng luyện tập thì nhất định sẽ càng giỏi'."
+      },
+      {
+        "sentence": "先生には、間違えても叱らずに優しく教えてもらいたいといつも思っていた。",
+        "chunks": "先生には / 間違えても叱らずに / 優しく教えてもらいたいと / いつも思っていた",
+        "guide": "先生には → đối tượng kỳ vọng → 間違えても = dù có sai → 叱らずに = không la → ずに dạng phủ định bổ ngữ → 優しく教えてもらいたい → ～てもらいたい biến thể trang trọng của ～てほしい → 'muốn được dạy nhẹ nhàng' → と思っていた = đã nghĩ → 🔒 Đóng gói: [mong cô → dù sai cũng không la → dạy dịu dàng]",
+        "translation": "Tôi luôn mong cô giáo có sai cũng sẽ không la mà chỉ dạy nhẹ nhàng."
+      },
+      {
+        "sentence": "練習は、毎日続ければ続けるほど、自分の成長を感じられるようになった。",
+        "chunks": "練習は / 毎日続ければ続けるほど / 自分の成長を感じられるようになった",
+        "guide": "練習は → chủ đề → 毎日続ければ続けるほど → ～ば～ほど lần thứ hai → 'càng tiếp tục mỗi ngày càng' → 自分の成長を感じられるようになった = đã trở nên cảm nhận được sự trưởng thành → ようになった = thay đổi trạng thái → 🔒 Đóng gói: [càng duy trì → càng cảm thấy lớn lên]",
+        "translation": "Việc luyện tập, càng tiếp tục mỗi ngày thì càng cảm nhận được sự trưởng thành của bản thân."
+      },
+      {
+        "sentence": "最近では、難しい曲さえ少しずつ弾けるようになってきた。",
+        "chunks": "最近では / 難しい曲さえ / 少しずつ弾けるようになってきた",
+        "guide": "最近では → bối cảnh thời điểm gần đây → 難しい曲さえ → ～さえ lần thứ hai → 'ngay cả bản khó' → nhấn mạnh điều bất ngờ → 少しずつ弾けるようになってきた = dần dần chơi được → ようになる + てくる → thay đổi tích lũy đến hiện tại → 🔒 Đóng gói: [gần đây → ngay cả bản khó → cũng dần chơi được]",
+        "translation": "Gần đây, ngay cả những bản khó tôi cũng dần dần chơi được."
+      },
+      {
+        "sentence": "母には私の演奏をもっと聴いてほしいので、週末によく家で弾いている。",
+        "chunks": "母には / 私の演奏をもっと聴いてほしいので / 週末によく家で弾いている",
+        "guide": "母には = đối với mẹ → 私の演奏をもっと聴いてほしい → ～てほしい lần thứ hai → 'muốn mẹ nghe tôi đàn nhiều hơn' → ので = vì lý do → 週末によく家で弾いている = cuối tuần thường chơi ở nhà → 🔒 Đóng gói: [muốn mẹ nghe → cuối tuần chơi ở nhà]",
+        "translation": "Vì muốn mẹ nghe tôi đàn nhiều hơn, nên cuối tuần tôi thường chơi ở nhà."
+      },
+      {
+        "sentence": "父にも一緒にピアノを楽しんでもらいたくて、簡単な曲を選んで聴かせている。",
+        "chunks": "父にも / 一緒にピアノを楽しんでもらいたくて / 簡単な曲を選んで聴かせている",
+        "guide": "父にも = cả với bố → 一緒にピアノを楽しんでもらいたくて → ～てもらいたい lần thứ hai → 'muốn bố cùng tận hưởng' → くて nối câu → 簡単な曲を選んで = chọn bản đơn giản → 聴かせている = đang cho nghe → 使役 → 🔒 Đóng gói: [muốn bố cùng vui → chọn bản dễ cho bố nghe]",
+        "translation": "Tôi cũng muốn bố cùng tận hưởng đàn piano, nên chọn những bản đơn giản cho bố nghe."
+      },
+      {
+        "sentence": "練習時間は、長ければ長いほど良いというわけではなく、集中することが大切だと先生が教えてくれた。",
+        "chunks": "練習時間は / 長ければ長いほど良いというわけではなく / 集中することが大切だと先生が教えてくれた",
+        "guide": "練習時間は → chủ đề → 長ければ長いほど良い → ～ば～ほど lần thứ ba → 'càng dài càng tốt' → というわけではなく = không phải là vậy → phủ định cách hiểu → 集中することが大切だ = quan trọng là tập trung → と教えてくれた = cô giáo dạy → 🔒 Đóng gói: [không phải càng dài càng tốt → quan trọng là tập trung]",
+        "translation": "Cô giáo bảo rằng thời gian luyện tập không phải càng dài thì càng tốt, mà điều quan trọng là sự tập trung."
+      },
+      {
+        "sentence": "短い時間さえ集中して取り組めば、確かに上達が早い。",
+        "chunks": "短い時間さえ / 集中して取り組めば / 確かに上達が早い",
+        "guide": "短い時間さえ → ～さえ lần thứ ba → ở đây kết hợp với điều kiện ば → 'chỉ cần (dù chỉ thời gian ngắn)' → さえ～ば cấu trúc 'chỉ cần' → 集中して取り組めば = nếu tập trung làm → 確かに上達が早い = quả thật tiến bộ nhanh → 🔒 Đóng gói: [chỉ cần ngắn + tập trung → tiến bộ nhanh]",
+        "translation": "Chỉ cần tập trung dù thời gian ngắn, đúng là tiến bộ sẽ nhanh hơn."
+      },
+      {
+        "sentence": "発表会の日には、家族全員に来てもらいたいと願っている。",
+        "chunks": "発表会の日には / 家族全員に来てもらいたいと願っている",
+        "guide": "発表会の日には = vào ngày recital → 家族全員に → đối tượng → 来てもらいたい → ～てもらいたい lần thứ ba → 'muốn cả nhà đến' → と願っている = mong rằng → 🔒 Đóng gói: [ngày biểu diễn → mong cả nhà đến]",
+        "translation": "Vào ngày biểu diễn, tôi mong cả gia đình đến xem."
+      },
+      {
+        "sentence": "練習を重ねれば重ねるほど、本番の緊張が少しずつ和らいでいく気がする。",
+        "chunks": "練習を重ねれば重ねるほど / 本番の緊張が / 少しずつ和らいでいく気がする",
+        "guide": "練習を重ねれば重ねるほど → ～ば～ほど lần thứ tư → 'càng tích lũy luyện tập càng' → 本番の緊張が = sự hồi hộp khi biểu diễn → 少しずつ和らいでいく = dịu đi từng chút → ていく hướng tương lai → 気がする = có cảm giác → 🔒 Đóng gói: [càng tập → hồi hộp càng dịu]",
+        "translation": "Càng luyện tập nhiều, cảm giác hồi hộp khi biểu diễn thật càng dịu đi từng chút một."
+      },
+      {
+        "sentence": "これからもピアノを通して、聴いてくれる人にとって心が温かくなる音を届けてほしいと自分自身に願っている。",
+        "chunks": "これからもピアノを通して / 聴いてくれる人にとって / 心が温かくなる音を届けてほしいと自分自身に願っている",
+        "guide": "これからもピアノを通して = qua đàn piano → を通して = thông qua → 聴いてくれる人にとって = đối với người nghe → 心が温かくなる音 = âm thanh làm ấm lòng → 届けてほしい → ～てほしい lần thứ ba → ở đây hướng vào bản thân → 自分自身に願っている = mong với chính mình → 🔒 Đóng gói: [tự mong → mình tiếp tục gửi âm thanh ấm lòng]",
+        "translation": "Tôi mong rằng từ giờ qua đàn piano, mình có thể gửi tới những người nghe những âm thanh làm ấm lòng họ."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0265_Q1",
+        "question": "先生は練習についてどう励ましてくれましたか。",
+        "question_vi": "Cô giáo đã động viên về việc luyện tập như thế nào?",
+        "answers": [
+          {"text": "「短い時間でいいから、毎日休んでください」と言った。", "text_vi": "Nói rằng 'thời gian ngắn cũng được, hãy nghỉ mỗi ngày'.", "is_correct": false},
+          {"text": "「練習すればするほど、必ず上手になりますよ」と励ましてくれた。", "text_vi": "Đã động viên rằng 'càng luyện tập thì nhất định sẽ càng giỏi'.", "is_correct": true},
+          {"text": "「発表会には出なくてもいいですよ」と言った。", "text_vi": "Nói rằng 'không cần phải tham gia recital cũng được'.", "is_correct": false},
+          {"text": "「ピアノは才能だから、練習は意味がない」と言った。", "text_vi": "Nói rằng 'piano là tài năng nên luyện tập không có ý nghĩa'.", "is_correct": false}
+        ],
+        "explanation": "Câu 3 nói rõ 「先生に『練習すればするほど、必ず上手になりますよ』と励ましてもらった」→ ～ば～ほど = càng ~ càng ~ + 励ましてもらった = được động viên → đây là lời cô giáo trực tiếp."
+      },
+      {
+        "id": "R_0265_Q2",
+        "question": "なぜ筆者は週末によく家でピアノを弾いていますか。",
+        "question_vi": "Tại sao tác giả thường chơi piano ở nhà vào cuối tuần?",
+        "answers": [
+          {"text": "発表会の練習場所が家だけだから。", "text_vi": "Vì chỗ luyện cho recital chỉ có ở nhà.", "is_correct": false},
+          {"text": "母に自分の演奏をもっと聴いてほしいから。", "text_vi": "Vì muốn mẹ nghe biểu diễn của mình nhiều hơn.", "is_correct": true},
+          {"text": "週末しか時間がないから。", "text_vi": "Vì chỉ cuối tuần mới có thời gian.", "is_correct": false},
+          {"text": "近所の人に聴かせるため。", "text_vi": "Để cho hàng xóm nghe.", "is_correct": false}
+        ],
+        "explanation": "Câu 7 trực tiếp giải thích 「母には私の演奏をもっと聴いてほしいので、週末によく家で弾いている」→ ～てほしい = muốn ai làm cho mình + ので = vì → lý do là muốn mẹ nghe."
+      },
+      {
+        "id": "R_0265_Q3",
+        "question": "本文から、筆者はピアノについてどのような考え方を持っていると分かりますか。",
+        "question_vi": "Từ bài đọc có thể thấy tác giả có cách nghĩ như thế nào về piano?",
+        "answers": [
+          {"text": "上手になるには才能だけが必要で、練習は重要ではない。", "text_vi": "Để giỏi chỉ cần tài năng, luyện tập không quan trọng.", "is_correct": false},
+          {"text": "練習を重ね、家族と人にも喜んでもらえる音楽を届けたいと考えている。", "text_vi": "Muốn tích lũy luyện tập và gửi đến gia đình cùng người khác âm nhạc làm họ vui.", "is_correct": true},
+          {"text": "ピアノはもう辞めたいと思っている。", "text_vi": "Đang nghĩ muốn bỏ piano luôn.", "is_correct": false},
+          {"text": "発表会に出ることだけが目的だ。", "text_vi": "Mục đích duy nhất là tham dự recital.", "is_correct": false}
+        ],
+        "explanation": "Bài thể hiện tác giả tin vào luyện tập (câu 3, 5, 12: ～ば～ほど), muốn bố mẹ cùng tận hưởng (câu 7, 8: ～てほしい/もらいたい), và câu cuối 「聴いてくれる人にとって心が温かくなる音を届けてほしい」→ ～てほしい hướng bản thân → muốn gửi âm thanh ấm lòng cho người nghe. Đây là suy luận tổng hợp."
+      }
+    ]
+  },
+  {
+    "id": "R_0266",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "ベランダ菜園の楽しみ",
+    "title_vi": "Niềm vui trồng rau ban công",
+    "topic": "gardening",
+    "subtopic": "trồng rau ban công",
+    "tags": ["ことにしています", "につれて", "かわりに"],
+    "grammar_used": ["～ことにしています", "～につれ(て)", "～かわりに"],
+    "sentence_count": 13,
+    "text": "私は去年から、毎朝ベランダの野菜に水をやることにしています。マンション暮らしで広い庭が持てないかわりに、小さなベランダで菜園を楽しんでいる。最初に植えたのはミニトマトで、苗が育つにつれて毎日の楽しみが増えていった。種から育てるのは時間がかかるかわりに、芽が出たときの喜びはとても大きい。土の状態は、季節が進むにつれて変わるので、こまめに様子を見ることにしています。夏が近づくにつれて、トマトの実が少しずつ赤く色づいていった。ある朝、虫がついているのを見つけたので、農薬を使うかわりに手で取り除くことにしています。野菜が成長するにつれて、私自身も植物への理解が深まってきた気がする。家族で外食する回数を減らすかわりに、ベランダで採れた野菜を使った料理を食卓に出すようにしている。子どもたちも、収穫を手伝う日が増えるにつれて、野菜を残さず食べるようになった。冬には葉物野菜にかえて、寒さに強いほうれん草を育てることにしています。忙しい日々の中で、自然と触れ合う時間が減るかわりに、ベランダ菜園が私に小さな癒しを与えてくれる。これからも季節の移り変わりにつれて、新しい野菜に挑戦していきたいと思っている。",
+    "translation": "Từ năm ngoái, tôi tự đặt cho mình thói quen mỗi sáng tưới nước cho rau ở ban công. Sống ở chung cư không có vườn rộng, nhưng bù lại tôi tận hưởng việc làm vườn nhỏ ở ban công. Cây đầu tiên trồng là cà chua bi, và cùng với việc cây con lớn lên, niềm vui mỗi ngày cũng tăng theo. Trồng từ hạt thì mất thời gian, nhưng đổi lại niềm vui khi mầm nhú lên rất lớn. Tình trạng đất thay đổi cùng với việc mùa chuyển dịch, nên tôi tự đặt thói quen quan sát thường xuyên. Cùng với việc mùa hè đến gần, quả cà chua dần dần chuyển sang màu đỏ. Một buổi sáng, vì phát hiện có sâu bám, nên thay vì dùng thuốc sâu, tôi tự đặt thói quen bắt bằng tay. Cùng với việc rau lớn lên, tôi cảm thấy bản thân cũng hiểu thực vật sâu hơn. Thay vì giảm số lần cả nhà đi ăn ngoài, tôi cố gắng đem rau hái từ ban công lên bàn ăn dưới dạng món ăn. Cùng với việc số ngày các con phụ thu hoạch tăng lên, các con cũng bắt đầu ăn rau không bỏ thừa. Mùa đông, thay cho rau lá thường, tôi tự đặt thói quen trồng cải bó xôi chịu lạnh. Trong những ngày bận rộn, thời gian tiếp xúc thiên nhiên giảm đi, nhưng bù lại vườn ban công đem đến cho tôi sự an ủi nhỏ. Tôi muốn tiếp tục thử thách với các loại rau mới cùng với sự chuyển mùa.",
+    "vocabulary": [
+      {"word": "菜園", "reading": "さいえん", "meaning": "vườn rau"},
+      {"word": "苗", "reading": "なえ", "meaning": "cây con, cây giống"},
+      {"word": "種", "reading": "たね", "meaning": "hạt giống"},
+      {"word": "芽", "reading": "め", "meaning": "mầm cây"},
+      {"word": "色づく", "reading": "いろづく", "meaning": "chuyển màu, lên màu"},
+      {"word": "農薬", "reading": "のうやく", "meaning": "thuốc trừ sâu, thuốc bảo vệ thực vật"},
+      {"word": "取り除く", "reading": "とりのぞく", "meaning": "loại bỏ, bắt đi"},
+      {"word": "収穫", "reading": "しゅうかく", "meaning": "thu hoạch"},
+      {"word": "葉物野菜", "reading": "はものやさい", "meaning": "rau ăn lá"},
+      {"word": "ほうれん草", "reading": "ほうれんそう", "meaning": "cải bó xôi, rau bina"},
+      {"word": "癒し", "reading": "いやし", "meaning": "sự an ủi, chữa lành tâm hồn"},
+      {"word": "移り変わり", "reading": "うつりかわり", "meaning": "sự chuyển dời, biến đổi"}
+    ],
+    "process": [
+      {
+        "sentence": "私は去年から、毎朝ベランダの野菜に水をやることにしています。",
+        "chunks": "私は去年から / 毎朝 / ベランダの野菜に / 水をやることにしています",
+        "guide": "私は去年から → bối cảnh thời gian → 毎朝 = mỗi sáng → ベランダの野菜に = cho rau ban công → に hướng đối tượng → 水をやる = tưới nước → ことにしています → ～ことにしています = 'tự đặt thói quen cho bản thân' → khác ことになっている (quy định) → 🔒 Đóng gói: [từ năm ngoái → tự đặt thói quen tưới rau ban công mỗi sáng]",
+        "translation": "Từ năm ngoái, tôi tự đặt cho mình thói quen mỗi sáng tưới nước cho rau ở ban công."
+      },
+      {
+        "sentence": "マンション暮らしで広い庭が持てないかわりに、小さなベランダで菜園を楽しんでいる。",
+        "chunks": "マンション暮らしで / 広い庭が持てないかわりに / 小さなベランダで菜園を楽しんでいる",
+        "guide": "マンション暮らしで = sống ở chung cư → 広い庭が持てない = không thể có vườn rộng → かわりに → ～かわりに = 'thay vì, đổi lại, bù lại' → ở đây nghĩa 'bù lại' → 小さなベランダで菜園を楽しんでいる = tận hưởng vườn nhỏ ở ban công → 🔒 Đóng gói: [không có vườn → bù lại có ban công]",
+        "translation": "Sống ở chung cư không có vườn rộng, nhưng bù lại tôi tận hưởng việc làm vườn nhỏ ở ban công."
+      },
+      {
+        "sentence": "最初に植えたのはミニトマトで、苗が育つにつれて毎日の楽しみが増えていった。",
+        "chunks": "最初に植えたのは / ミニトマトで / 苗が育つにつれて / 毎日の楽しみが増えていった",
+        "guide": "最初に植えたのはミニトマト = cây đầu là cà chua bi → で nối → 苗が育つにつれて → ～につれて = 'cùng với việc, càng ~ thì càng' → diễn tả thay đổi song song → 毎日の楽しみが増えていった = niềm vui hằng ngày tăng dần → ていった hướng quá khứ tích lũy → 🔒 Đóng gói: [cây con lớn → niềm vui tăng theo]",
+        "translation": "Cây đầu tiên trồng là cà chua bi, và cùng với việc cây con lớn lên, niềm vui mỗi ngày cũng tăng theo."
+      },
+      {
+        "sentence": "種から育てるのは時間がかかるかわりに、芽が出たときの喜びはとても大きい。",
+        "chunks": "種から育てるのは / 時間がかかるかわりに / 芽が出たときの喜びはとても大きい",
+        "guide": "種から育てるのは = việc trồng từ hạt → chủ đề → 時間がかかる = mất thời gian → かわりに → ～かわりに lần thứ hai → 'đổi lại' → 芽が出たときの喜び = niềm vui khi mầm nhú → はとても大きい = rất lớn → 🔒 Đóng gói: [trồng từ hạt mất thời gian → đổi lại niềm vui rất lớn]",
+        "translation": "Trồng từ hạt thì mất thời gian, nhưng đổi lại niềm vui khi mầm nhú lên rất lớn."
+      },
+      {
+        "sentence": "土の状態は、季節が進むにつれて変わるので、こまめに様子を見ることにしています。",
+        "chunks": "土の状態は / 季節が進むにつれて変わるので / こまめに様子を見ることにしています",
+        "guide": "土の状態は → chủ đề → 季節が進むにつれて → ～につれて lần thứ hai → 'cùng với việc mùa chuyển' → 変わる = thay đổi → ので vì → こまめに = thường xuyên → 様子を見ることにしています → ～ことにしています lần thứ hai → 🔒 Đóng gói: [đất thay đổi theo mùa → tự đặt thói quen quan sát kỹ]",
+        "translation": "Tình trạng đất thay đổi cùng với việc mùa chuyển dịch, nên tôi tự đặt thói quen quan sát thường xuyên."
+      },
+      {
+        "sentence": "夏が近づくにつれて、トマトの実が少しずつ赤く色づいていった。",
+        "chunks": "夏が近づくにつれて / トマトの実が / 少しずつ赤く色づいていった",
+        "guide": "夏が近づくにつれて → ～につれて lần thứ ba → 'cùng với việc mùa hè đến' → トマトの実が = quả cà chua → 少しずつ赤く色づいていった = dần chuyển đỏ → ていった diễn tả tích lũy → 🔒 Đóng gói: [hè đến → cà chua chuyển đỏ dần]",
+        "translation": "Cùng với việc mùa hè đến gần, quả cà chua dần dần chuyển sang màu đỏ."
+      },
+      {
+        "sentence": "ある朝、虫がついているのを見つけたので、農薬を使うかわりに手で取り除くことにしています。",
+        "chunks": "ある朝 / 虫がついているのを見つけたので / 農薬を使うかわりに / 手で取り除くことにしています",
+        "guide": "ある朝 = một sáng nọ → 虫がついている = có sâu bám → のを見つけたので = vì phát hiện → 農薬を使うかわりに → ～かわりに lần thứ ba → 'thay vì dùng thuốc' → 手で取り除く = bắt bằng tay → ことにしています → ～ことにしています lần thứ ba → 🔒 Đóng gói: [thay vì thuốc → tự đặt thói quen bắt sâu bằng tay]",
+        "translation": "Một buổi sáng, vì phát hiện có sâu bám, nên thay vì dùng thuốc sâu, tôi tự đặt thói quen bắt bằng tay."
+      },
+      {
+        "sentence": "野菜が成長するにつれて、私自身も植物への理解が深まってきた気がする。",
+        "chunks": "野菜が成長するにつれて / 私自身も / 植物への理解が深まってきた気がする",
+        "guide": "野菜が成長するにつれて → ～につれて lần thứ tư → 'cùng với việc rau lớn' → 私自身も = bản thân tôi cũng → 植物への理解が深まってきた = hiểu cây cối sâu hơn → てきた tích lũy đến hiện tại → 気がする = có cảm giác → 🔒 Đóng gói: [rau lớn → tôi cũng hiểu thực vật hơn]",
+        "translation": "Cùng với việc rau lớn lên, tôi cảm thấy bản thân cũng hiểu thực vật sâu hơn."
+      },
+      {
+        "sentence": "家族で外食する回数を減らすかわりに、ベランダで採れた野菜を使った料理を食卓に出すようにしている。",
+        "chunks": "家族で外食する回数を減らすかわりに / ベランダで採れた野菜を使った料理を / 食卓に出すようにしている",
+        "guide": "家族で外食する回数を減らす = giảm số lần ăn ngoài → かわりに → ～かわりに lần thứ tư → ở đây nghĩa 'thay vì/bù lại' → ベランダで採れた野菜を使った料理 = món ăn dùng rau hái từ ban công → 食卓に出すようにしている = cố gắng đem lên bàn → ようにしている = cố gắng làm thường xuyên → 🔒 Đóng gói: [giảm ăn ngoài → bù lại đem rau nhà lên bàn]",
+        "translation": "Thay vì giảm số lần cả nhà đi ăn ngoài, tôi cố gắng đem rau hái từ ban công lên bàn ăn dưới dạng món ăn."
+      },
+      {
+        "sentence": "子どもたちも、収穫を手伝う日が増えるにつれて、野菜を残さず食べるようになった。",
+        "chunks": "子どもたちも / 収穫を手伝う日が増えるにつれて / 野菜を残さず食べるようになった",
+        "guide": "子どもたちも → cả các con → 収穫を手伝う日が増えるにつれて → ～につれて lần thứ năm → 'cùng với việc số ngày phụ thu hoạch tăng' → 野菜を残さず食べるようになった = đã trở nên ăn rau không bỏ thừa → ようになった thay đổi trạng thái → 🔒 Đóng gói: [con phụ thu hoạch nhiều hơn → ăn rau hết]",
+        "translation": "Cùng với việc số ngày các con phụ thu hoạch tăng lên, các con cũng bắt đầu ăn rau không bỏ thừa."
+      },
+      {
+        "sentence": "冬には葉物野菜にかえて、寒さに強いほうれん草を育てることにしています。",
+        "chunks": "冬には / 葉物野菜にかえて / 寒さに強いほうれん草を育てることにしています",
+        "guide": "冬には → bối cảnh mùa đông → 葉物野菜にかえて → ～にかえて = biến thể của ～かわりに 'thay cho, đổi sang' → 寒さに強いほうれん草 = cải bó xôi chịu lạnh → 育てることにしています → ～ことにしています lần thứ tư → 🔒 Đóng gói: [đông → thay rau lá thường → trồng cải bó xôi]",
+        "translation": "Mùa đông, thay cho rau lá thường, tôi tự đặt thói quen trồng cải bó xôi chịu lạnh."
+      },
+      {
+        "sentence": "忙しい日々の中で、自然と触れ合う時間が減るかわりに、ベランダ菜園が私に小さな癒しを与えてくれる。",
+        "chunks": "忙しい日々の中で / 自然と触れ合う時間が減るかわりに / ベランダ菜園が私に小さな癒しを与えてくれる",
+        "guide": "忙しい日々の中で = trong những ngày bận → 自然と触れ合う時間が減る = thời gian tiếp xúc thiên nhiên giảm → かわりに → ～かわりに lần thứ năm → 'bù lại' → ベランダ菜園が私に小さな癒しを与えてくれる = vườn ban công cho tôi sự an ủi → くれる người khác làm cho mình → 🔒 Đóng gói: [bận → thiếu thiên nhiên → bù lại vườn ban công an ủi]",
+        "translation": "Trong những ngày bận rộn, thời gian tiếp xúc thiên nhiên giảm đi, nhưng bù lại vườn ban công đem đến cho tôi sự an ủi nhỏ."
+      },
+      {
+        "sentence": "これからも季節の移り変わりにつれて、新しい野菜に挑戦していきたいと思っている。",
+        "chunks": "これからも / 季節の移り変わりにつれて / 新しい野菜に挑戦していきたいと思っている",
+        "guide": "これからも = từ giờ trở đi cũng → 季節の移り変わりにつれて → ～につれて lần thứ sáu → ở dạng rút gọn 'cùng với sự chuyển mùa' → 新しい野菜に挑戦していきたい = muốn thử thách rau mới → ていきたい hướng tương lai + たい → 🔒 Đóng gói: [muốn theo mùa → thử rau mới tiếp tục]",
+        "translation": "Tôi muốn tiếp tục thử thách với các loại rau mới cùng với sự chuyển mùa."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0266_Q1",
+        "question": "筆者は虫を見つけたときどう対応することにしていますか。",
+        "question_vi": "Tác giả đã đặt thói quen xử lý thế nào khi phát hiện sâu?",
+        "answers": [
+          {"text": "強い農薬をたくさん使って退治することにしている。", "text_vi": "Đã đặt thói quen dùng nhiều thuốc sâu mạnh để diệt.", "is_correct": false},
+          {"text": "農薬を使うかわりに、手で取り除くことにしている。", "text_vi": "Thay vì dùng thuốc sâu, đặt thói quen bắt bằng tay.", "is_correct": true},
+          {"text": "野菜をすぐに捨てることにしている。", "text_vi": "Đã đặt thói quen vứt rau đi ngay.", "is_correct": false},
+          {"text": "そのまま放っておくことにしている。", "text_vi": "Đã đặt thói quen cứ để nguyên không làm gì.", "is_correct": false}
+        ],
+        "explanation": "Câu 7 nói rõ 「農薬を使うかわりに手で取り除くことにしています」→ ～かわりに = thay vì + ～ことにしている = tự đặt thói quen → tác giả chọn cách tự nhiên thay cho hóa chất."
+      },
+      {
+        "id": "R_0266_Q2",
+        "question": "なぜ子どもたちは野菜を残さず食べるようになりましたか。",
+        "question_vi": "Tại sao các con lại bắt đầu ăn rau không bỏ thừa?",
+        "answers": [
+          {"text": "親に厳しく叱られたから。", "text_vi": "Vì bị bố mẹ la mắng nghiêm khắc.", "is_correct": false},
+          {"text": "学校で野菜の大切さを教わったから。", "text_vi": "Vì được học ở trường về sự quan trọng của rau.", "is_correct": false},
+          {"text": "収穫を手伝う日が増えるにつれて、野菜への関わりが深まったから。", "text_vi": "Vì cùng với việc số ngày phụ thu hoạch tăng lên, sự gắn bó với rau cũng sâu hơn.", "is_correct": true},
+          {"text": "野菜をたくさん買うようになったから。", "text_vi": "Vì bắt đầu mua nhiều rau.", "is_correct": false}
+        ],
+        "explanation": "Câu 10 nói rõ 「子どもたちも、収穫を手伝う日が増えるにつれて、野菜を残さず食べるようになった」→ ～につれて = cùng với việc + ようになった = thay đổi trạng thái → việc các con tham gia thu hoạch song song với việc ăn rau hết. Bài không nói bị mắng hay học ở trường."
+      },
+      {
+        "id": "R_0266_Q3",
+        "question": "本文から、筆者にとってベランダ菜園はどのような存在だと考えられますか。",
+        "question_vi": "Từ bài đọc, có thể nghĩ vườn ban công đối với tác giả là sự tồn tại như thế nào?",
+        "answers": [
+          {"text": "食費を節約するためだけの手段。", "text_vi": "Chỉ là phương tiện để tiết kiệm tiền ăn.", "is_correct": false},
+          {"text": "忙しい毎日に小さな癒しと家族とのつながりをくれる大切な場所。", "text_vi": "Nơi quan trọng đem lại sự an ủi nhỏ và sự gắn kết gia đình trong những ngày bận rộn.", "is_correct": true},
+          {"text": "プロの農家になるための練習場所。", "text_vi": "Chỗ luyện tập để trở thành nông dân chuyên nghiệp.", "is_correct": false},
+          {"text": "近所に自慢するための飾り。", "text_vi": "Trang trí để khoe với hàng xóm.", "is_correct": false}
+        ],
+        "explanation": "Bài cho thấy nhiều khía cạnh: niềm vui khi cây lớn (câu 3), món ăn cho gia đình (câu 9), con cái thay đổi thói quen ăn (câu 10), và đặc biệt câu 12 「ベランダ菜園が私に小さな癒しを与えてくれる」→ ～かわりに + 癒しを与えてくれる = bù lại đem an ủi → tổng hợp ý nghĩa: nơi an ủi và kết nối gia đình. Đây là suy luận tổng hợp xuyên suốt bài."
+      }
+    ]
+  }
+]

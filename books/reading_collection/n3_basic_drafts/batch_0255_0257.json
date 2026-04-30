@@ -1,0 +1,437 @@
+[
+  {
+    "id": "R_0255",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "梅雨の季節",
+    "title_vi": "Mùa mưa Nhật Bản",
+    "topic": "weather",
+    "subtopic": "mùa mưa Nhật Bản",
+    "tags": ["から～にかけて", "がち", "みたいだ"],
+    "grammar_used": ["～から～にかけて", "～がち", "～みたいだ"],
+    "sentence_count": 13,
+    "text": "日本では六月から七月にかけて、梅雨と呼ばれる長い雨の季節がある。この時期は毎日のように雨が降り、空はずっと曇りがちで、気持ちまで暗くなりがちだ。洗濯物もなかなか乾かず、部屋の中に干すしかない日が続く。湿気が多いので、食べ物もすぐに悪くなりがちだから、注意が必要だ。今年の梅雨は例年より長くなるみたいだ。天気予報によると、今週末から来週にかけて、強い雨が降る日が多いらしい。私の友人は雨が苦手で、最近少し元気がないみたいだ。しかし、梅雨にもいいところがある。あじさいの花がきれいに咲き、緑がいっそう濃く見えるからだ。傘をさして散歩すると、いつもとは違う景色が見えるみたいで、新しい発見がある。子供のころ、私は雨の日を楽しみにしていた。長靴をはいて水たまりで遊ぶのが大好きだったからだ。大人になった今でも、梅雨の音を聞くと、少し心が落ち着くような気がする。",
+    "translation": "Ở Nhật Bản, từ tháng sáu đến tháng bảy có một mùa mưa dài được gọi là tsuyu. Trong khoảng thời gian này hầu như ngày nào trời cũng mưa, bầu trời lúc nào cũng có vẻ u ám, và tâm trạng cũng thường trở nên u tối theo. Quần áo giặt cũng khó khô, nên có những ngày liên tiếp chỉ còn cách phơi trong nhà. Vì độ ẩm cao nên đồ ăn cũng hay bị hỏng nhanh, cần phải cẩn thận. Mùa mưa năm nay có vẻ sẽ kéo dài hơn mọi năm. Theo dự báo thời tiết, từ cuối tuần này đến tuần sau, nghe nói sẽ có nhiều ngày mưa to. Bạn của tôi không thích mưa, gần đây có vẻ hơi kém vui. Tuy nhiên, mùa mưa cũng có những điểm tốt. Đó là vì hoa cẩm tú cầu nở rất đẹp, và cây xanh trông càng đậm màu hơn. Khi che ô đi dạo, có vẻ như nhìn thấy phong cảnh khác hẳn ngày thường, và có những phát hiện mới. Hồi còn nhỏ, tôi rất mong những ngày mưa. Vì tôi đã rất thích đi ủng và chơi ở những vũng nước. Ngay cả bây giờ khi đã lớn, khi nghe tiếng mưa mùa tsuyu, tôi vẫn cảm thấy lòng mình lắng dịu lại đôi chút.",
+    "vocabulary": [
+      {"word": "梅雨", "reading": "つゆ", "meaning": "mùa mưa (Nhật Bản, tháng 6-7)"},
+      {"word": "湿気", "reading": "しっけ", "meaning": "độ ẩm, hơi nước trong không khí"},
+      {"word": "例年", "reading": "れいねん", "meaning": "mọi năm, năm thường"},
+      {"word": "天気予報", "reading": "てんきよほう", "meaning": "dự báo thời tiết"},
+      {"word": "あじさい", "reading": "あじさい", "meaning": "hoa cẩm tú cầu"},
+      {"word": "景色", "reading": "けしき", "meaning": "phong cảnh, cảnh sắc"},
+      {"word": "発見", "reading": "はっけん", "meaning": "sự phát hiện, khám phá"},
+      {"word": "長靴", "reading": "ながぐつ", "meaning": "ủng cao su, giày bốt"},
+      {"word": "水たまり", "reading": "みずたまり", "meaning": "vũng nước"},
+      {"word": "落ち着く", "reading": "おちつく", "meaning": "lắng dịu, bình tĩnh, ổn định"}
+    ],
+    "process": [
+      {
+        "sentence": "日本では六月から七月にかけて、梅雨と呼ばれる長い雨の季節がある。",
+        "chunks": "日本では / 六月から七月にかけて / 梅雨と呼ばれる / 長い雨の季節がある",
+        "guide": "日本では → bối cảnh nơi chốn → 六月から七月にかけて → ～から～にかけて = 'từ ~ đến ~' → chỉ phạm vi thời gian liên tục → 🔒 Đóng gói: [tháng 6 đến tháng 7] → 梅雨と呼ばれる → 'được gọi là tsuyu' → と呼ばれる là cấu trúc bị động định nghĩa → 長い雨の季節がある → 'có mùa mưa dài'. Câu mở giới thiệu mùa.",
+        "translation": "Ở Nhật Bản, từ tháng sáu đến tháng bảy có một mùa mưa dài được gọi là tsuyu."
+      },
+      {
+        "sentence": "この時期は毎日のように雨が降り、空はずっと曇りがちで、気持ちまで暗くなりがちだ。",
+        "chunks": "この時期は / 毎日のように雨が降り / 空はずっと曇りがちで / 気持ちまで暗くなりがちだ",
+        "guide": "この時期は → chủ đề 'thời kỳ này' → 毎日のように → 'như thể ngày nào cũng' → 雨が降り nối câu → 空はずっと曇りがちで → ～がち = 'hay, thường (tiêu cực)' → 'trời hay u ám' → で nối tiếp → 気持ちまで暗くなりがちだ → ～がち lần 2 → まで nhấn mạnh 'đến cả tâm trạng cũng' → 🔒 Đóng gói: [trời u ám → tâm trạng u ám theo].",
+        "translation": "Trong khoảng thời gian này hầu như ngày nào trời cũng mưa, bầu trời lúc nào cũng có vẻ u ám, và tâm trạng cũng thường trở nên u tối theo."
+      },
+      {
+        "sentence": "洗濯物もなかなか乾かず、部屋の中に干すしかない日が続く。",
+        "chunks": "洗濯物も / なかなか乾かず / 部屋の中に干すしかない日が / 続く",
+        "guide": "洗濯物も → も nối thêm khó khăn → なかなか乾かず → 'mãi không khô' → ず = không (văn viết) nối câu → 部屋の中に干す → 'phơi trong phòng' → しかない = 'chỉ còn cách...' → 日が続く → 'những ngày tiếp diễn' → 🔒 Đóng gói: [đồ giặt không khô → phải phơi trong nhà liên tục].",
+        "translation": "Quần áo giặt cũng khó khô, nên có những ngày liên tiếp chỉ còn cách phơi trong nhà."
+      },
+      {
+        "sentence": "湿気が多いので、食べ物もすぐに悪くなりがちだから、注意が必要だ。",
+        "chunks": "湿気が多いので / 食べ物も / すぐに悪くなりがちだから / 注意が必要だ",
+        "guide": "湿気が多いので → ので nguyên nhân → 'vì độ ẩm cao' → 食べ物も → も nối thêm vấn đề → すぐに悪くなりがちだ → ～がち lần 3 → 'hay nhanh hỏng' → から nối kết quả → 注意が必要だ → 'cần cẩn thận' → 🔒 Đóng gói: [độ ẩm cao → đồ ăn dễ hỏng → phải cẩn thận].",
+        "translation": "Vì độ ẩm cao nên đồ ăn cũng hay bị hỏng nhanh, cần phải cẩn thận."
+      },
+      {
+        "sentence": "今年の梅雨は例年より長くなるみたいだ。",
+        "chunks": "今年の梅雨は / 例年より / 長くなるみたいだ",
+        "guide": "今年の梅雨は → chủ đề 'mùa mưa năm nay' → 例年より → 'so với mọi năm' → より so sánh → 長くなる → 'trở nên dài hơn' → みたいだ → ～みたいだ = 'có vẻ, hình như' → suy đoán dựa trên thông tin → 🔒 Đóng gói: [mùa mưa năm nay có vẻ dài hơn].",
+        "translation": "Mùa mưa năm nay có vẻ sẽ kéo dài hơn mọi năm."
+      },
+      {
+        "sentence": "天気予報によると、今週末から来週にかけて、強い雨が降る日が多いらしい。",
+        "chunks": "天気予報によると / 今週末から来週にかけて / 強い雨が降る日が多いらしい",
+        "guide": "天気予報によると → 'theo dự báo' nguồn thông tin → 今週末から来週にかけて → ～から～にかけて lần 2 → 'từ cuối tuần này đến tuần sau' → 🔒 Đóng gói: [phạm vi thời gian dự báo] → 強い雨が降る日 → 'những ngày mưa to' → が多い → 'nhiều' → らしい → 'nghe nói, có vẻ' (dựa trên nguồn).",
+        "translation": "Theo dự báo thời tiết, từ cuối tuần này đến tuần sau, nghe nói sẽ có nhiều ngày mưa to."
+      },
+      {
+        "sentence": "私の友人は雨が苦手で、最近少し元気がないみたいだ。",
+        "chunks": "私の友人は / 雨が苦手で / 最近少し / 元気がないみたいだ",
+        "guide": "私の友人は → chủ đề 'bạn tôi' → 雨が苦手で → 'không thích mưa' → が để chỉ đối tượng cảm xúc → で nối tiếp → 最近少し → 'gần đây hơi' → 元気がないみたいだ → ～みたいだ lần 2 → suy đoán từ quan sát: 'có vẻ không khỏe' → 🔒 Đóng gói: [bạn không thích mưa → có vẻ kém vui].",
+        "translation": "Bạn của tôi không thích mưa, gần đây có vẻ hơi kém vui."
+      },
+      {
+        "sentence": "しかし、梅雨にもいいところがある。",
+        "chunks": "しかし / 梅雨にも / いいところがある",
+        "guide": "しかし → tương phản với câu trước → 梅雨にも → に chỉ nơi/đối tượng + も nhấn mạnh 'cả mùa mưa cũng' → いいところがある → 'có điểm tốt' → 🔒 Đóng gói: [chuyển hướng: mùa mưa có mặt tích cực]. Câu pivot điểm nhìn.",
+        "translation": "Tuy nhiên, mùa mưa cũng có những điểm tốt."
+      },
+      {
+        "sentence": "あじさいの花がきれいに咲き、緑がいっそう濃く見えるからだ。",
+        "chunks": "あじさいの花が / きれいに咲き / 緑がいっそう濃く見える / からだ",
+        "guide": "あじさいの花が → chủ ngữ 'hoa cẩm tú cầu' → きれいに咲き → 'nở đẹp' → き nối câu → 緑がいっそう → 'cây xanh càng' → いっそう = càng thêm → 濃く見える → 'trông đậm hơn' → からだ → 'là vì' → giải thích lý do câu trước → 🔒 Đóng gói: [hoa cẩm tú cầu nở đẹp + cây xanh đậm = lý do mùa mưa có mặt tốt].",
+        "translation": "Đó là vì hoa cẩm tú cầu nở rất đẹp, và cây xanh trông càng đậm màu hơn."
+      },
+      {
+        "sentence": "傘をさして散歩すると、いつもとは違う景色が見えるみたいで、新しい発見がある。",
+        "chunks": "傘をさして散歩すると / いつもとは違う景色が見えるみたいで / 新しい発見がある",
+        "guide": "傘をさして → 'che ô' → さす là động từ chuyên cho ô → 散歩すると → と điều kiện 'khi đi dạo thì' → いつもとは違う景色 → 'phong cảnh khác thường ngày' → 見えるみたいで → ～みたいだ lần 3 → みたい+で nối câu → 'có vẻ nhìn thấy được' → 新しい発見がある → 'có phát hiện mới' → 🔒 Đóng gói: [che ô đi dạo → thấy cảnh khác → có phát hiện mới].",
+        "translation": "Khi che ô đi dạo, có vẻ như nhìn thấy phong cảnh khác hẳn ngày thường, và có những phát hiện mới."
+      },
+      {
+        "sentence": "子供のころ、私は雨の日を楽しみにしていた。",
+        "chunks": "子供のころ / 私は / 雨の日を / 楽しみにしていた",
+        "guide": "子供のころ → 'hồi nhỏ' bối cảnh thời gian quá khứ → 私は → chủ đề chuyển sang bản thân → 雨の日を → 'ngày mưa' tân ngữ → 楽しみにしていた → 'đã mong chờ' → 楽しみにする = mong chờ + ていた quá khứ tiếp diễn → 🔒 Đóng gói: [hồi nhỏ tác giả mong ngày mưa]. Chuyển kỷ niệm.",
+        "translation": "Hồi còn nhỏ, tôi rất mong những ngày mưa."
+      },
+      {
+        "sentence": "長靴をはいて水たまりで遊ぶのが大好きだったからだ。",
+        "chunks": "長靴をはいて / 水たまりで遊ぶのが / 大好きだったからだ",
+        "guide": "長靴をはいて → 'mang ủng vào' → はく là động từ chuyên cho giày → 水たまりで遊ぶのが → で nơi chốn + のが danh hóa → 'việc chơi ở vũng nước' → 大好きだったからだ → 'là vì đã rất thích' → からだ giải thích lý do câu trước → 🔒 Đóng gói: [thích chơi vũng nước → là lý do mong ngày mưa].",
+        "translation": "Vì tôi đã rất thích đi ủng và chơi ở những vũng nước."
+      },
+      {
+        "sentence": "大人になった今でも、梅雨の音を聞くと、少し心が落ち着くような気がする。",
+        "chunks": "大人になった今でも / 梅雨の音を聞くと / 少し心が落ち着くような気がする",
+        "guide": "大人になった今でも → 'ngay cả bây giờ khi đã lớn' → でも nhấn mạnh dù vậy → 梅雨の音を聞くと → と điều kiện 'khi nghe tiếng mưa' → 少し心が落ち着く → 'lòng lắng dịu đôi chút' → ような気がする → 'cảm giác như' → 🔒 Đóng gói: [bây giờ vẫn cảm thấy lòng dịu khi nghe mưa]. Câu kết khép lại bài bằng cảm xúc.",
+        "translation": "Ngay cả bây giờ khi đã lớn, khi nghe tiếng mưa mùa tsuyu, tôi vẫn cảm thấy lòng mình lắng dịu lại đôi chút."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0255_Q1",
+        "question": "梅雨はいつごろの季節ですか。",
+        "question_vi": "Mùa tsuyu là khoảng thời gian nào?",
+        "answers": [
+          {"text": "三月から四月にかけてです。", "text_vi": "Từ tháng ba đến tháng tư.", "is_correct": false},
+          {"text": "六月から七月にかけてです。", "text_vi": "Từ tháng sáu đến tháng bảy.", "is_correct": true},
+          {"text": "九月から十月にかけてです。", "text_vi": "Từ tháng chín đến tháng mười.", "is_correct": false},
+          {"text": "十二月から二月にかけてです。", "text_vi": "Từ tháng mười hai đến tháng hai.", "is_correct": false}
+        ],
+        "explanation": "Câu 1 nói rõ 「日本では六月から七月にかけて、梅雨と呼ばれる長い雨の季節がある」 → ～から～にかけて = từ ~ đến ~ → mùa tsuyu kéo dài từ tháng 6 đến tháng 7."
+      },
+      {
+        "id": "R_0255_Q2",
+        "question": "なぜ梅雨の時期は食べ物に注意が必要なのですか。",
+        "question_vi": "Tại sao trong mùa tsuyu cần cẩn thận với đồ ăn?",
+        "answers": [
+          {"text": "値段が高くなるから。", "text_vi": "Vì giá trở nên đắt hơn.", "is_correct": false},
+          {"text": "湿気が多くて、食べ物が悪くなりがちだから。", "text_vi": "Vì độ ẩm cao và đồ ăn hay bị hỏng.", "is_correct": true},
+          {"text": "店が閉まっていることが多いから。", "text_vi": "Vì các cửa hàng thường đóng cửa.", "is_correct": false},
+          {"text": "新鮮な野菜が少ないから。", "text_vi": "Vì có ít rau tươi.", "is_correct": false}
+        ],
+        "explanation": "Câu 4 nói 「湿気が多いので、食べ物もすぐに悪くなりがちだから、注意が必要だ」 → ので chỉ nguyên nhân + ～がち = hay xảy ra (tiêu cực) → vì độ ẩm cao đồ ăn dễ hỏng nên cần cẩn thận."
+      },
+      {
+        "id": "R_0255_Q3",
+        "question": "筆者は梅雨についてどう考えていますか。",
+        "question_vi": "Tác giả nghĩ thế nào về mùa tsuyu?",
+        "answers": [
+          {"text": "嫌な季節なので早く終わってほしい。", "text_vi": "Là mùa khó chịu nên muốn nó kết thúc sớm.", "is_correct": false},
+          {"text": "不便なところもあるが、美しさや懐かしい思い出もあって心が落ち着く季節だ。", "text_vi": "Có những điểm bất tiện nhưng cũng có vẻ đẹp và kỷ niệm gợi nhớ khiến lòng lắng dịu.", "is_correct": true},
+          {"text": "全く意味のない季節だ。", "text_vi": "Là mùa hoàn toàn vô nghĩa.", "is_correct": false},
+          {"text": "夏より暑くて大変な季節だ。", "text_vi": "Là mùa nóng và khó chịu hơn cả mùa hè.", "is_correct": false}
+        ],
+        "explanation": "Tác giả nêu mặt tiêu cực (câu 2-4: u ám, đồ giặt không khô, đồ ăn hỏng) nhưng câu 8 chuyển ý 「梅雨にもいいところがある」, câu 9 nói hoa cẩm tú cầu đẹp, câu 13 kết bằng 「心が落ち着くような気がする」 → tác giả vừa thấy bất tiện vừa thấy vẻ đẹp và sự yên bình."
+      }
+    ]
+  },
+  {
+    "id": "R_0256",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "映画館の楽しみ",
+    "title_vi": "Niềm vui ở rạp chiếu phim",
+    "topic": "entertainment",
+    "subtopic": "rạp chiếu phim",
+    "tags": ["について", "ほど", "てくる"],
+    "grammar_used": ["～について", "～ほど", "～てくる"],
+    "sentence_count": 13,
+    "text": "私は映画について話すのが大好きだ。最近は家でも簡単に映画が見られるようになってきたが、それでも映画館で見る楽しさには勝てない。大きなスクリーンと迫力のある音は、家のテレビでは想像できないほどすばらしい。先週、友達と新しい映画を見に行った。物語が進むにつれて、登場人物の気持ちがだんだん伝わってきた。最後の場面では、涙が出るほど感動してしまった。映画について友達と語り合うのも、映画館に行く楽しみの一つだ。帰り道、私たちは登場人物の選択について真剣に話した。最近、映画の作り方も少しずつ変わってきたらしい。ストーリーだけでなく、映像技術についても進化が早く、見るたびに新しい発見がある。私が子供のころには考えられないほど、映像が美しくなってきた。これからも、月に一度は映画館に行くつもりだ。映画について深く考えることは、自分の人生について考えることにもつながると感じている。",
+    "translation": "Tôi rất thích nói chuyện về phim ảnh. Gần đây ở nhà cũng đã có thể xem phim một cách dễ dàng, nhưng dù vậy vẫn không thể bằng niềm vui khi xem ở rạp chiếu phim. Màn hình lớn và âm thanh mạnh mẽ tuyệt vời đến mức khó tưởng tượng được nếu chỉ xem TV ở nhà. Tuần trước, tôi đã đi xem một bộ phim mới với bạn bè. Cùng với việc câu chuyện tiến triển, cảm xúc của các nhân vật dần dần truyền đến tôi. Ở cảnh cuối, tôi đã xúc động đến mức rơi nước mắt. Việc chia sẻ về phim với bạn bè cũng là một trong những niềm vui khi đến rạp. Trên đường về, chúng tôi đã thảo luận nghiêm túc về những lựa chọn của các nhân vật. Gần đây, cách làm phim cũng có vẻ đang dần thay đổi. Không chỉ cốt truyện mà cả về kỹ thuật hình ảnh, sự tiến hóa cũng diễn ra nhanh, và mỗi lần xem đều có phát hiện mới. Hình ảnh đã trở nên đẹp đến mức khó hình dung được hồi tôi còn nhỏ. Từ giờ trở đi, tôi cũng dự định mỗi tháng đi rạp một lần. Tôi cảm thấy việc suy nghĩ sâu về phim ảnh cũng kết nối với việc suy nghĩ về cuộc đời của chính mình.",
+    "vocabulary": [
+      {"word": "迫力", "reading": "はくりょく", "meaning": "sức mạnh, sức cuốn hút (âm thanh, hình ảnh)"},
+      {"word": "想像", "reading": "そうぞう", "meaning": "tưởng tượng, hình dung"},
+      {"word": "登場人物", "reading": "とうじょうじんぶつ", "meaning": "nhân vật trong tác phẩm"},
+      {"word": "場面", "reading": "ばめん", "meaning": "cảnh, tình huống"},
+      {"word": "感動", "reading": "かんどう", "meaning": "cảm động, xúc động"},
+      {"word": "語り合う", "reading": "かたりあう", "meaning": "thảo luận, chia sẻ với nhau"},
+      {"word": "選択", "reading": "せんたく", "meaning": "sự lựa chọn"},
+      {"word": "映像", "reading": "えいぞう", "meaning": "hình ảnh (phim, video)"},
+      {"word": "技術", "reading": "ぎじゅつ", "meaning": "kỹ thuật, công nghệ"},
+      {"word": "進化", "reading": "しんか", "meaning": "sự tiến hóa, phát triển"}
+    ],
+    "process": [
+      {
+        "sentence": "私は映画について話すのが大好きだ。",
+        "chunks": "私は / 映画について / 話すのが / 大好きだ",
+        "guide": "私は → chủ đề → 映画について → ～について = 'về, liên quan đến' → 'về phim ảnh' → chỉ chủ đề của hành động → 話すのが → 話す + のが danh hóa = 'việc nói' → 大好きだ → 'rất thích' → 🔒 Đóng gói: [tôi rất thích nói về phim]. Câu mở giới thiệu sở thích.",
+        "translation": "Tôi rất thích nói chuyện về phim ảnh."
+      },
+      {
+        "sentence": "最近は家でも簡単に映画が見られるようになってきたが、それでも映画館で見る楽しさには勝てない。",
+        "chunks": "最近は / 家でも簡単に映画が見られるようになってきたが / それでも / 映画館で見る楽しさには勝てない",
+        "guide": "最近は → 'gần đây' → 家でも → 'ở nhà cũng' → 簡単に映画が見られる → 'có thể xem phim dễ dàng' → ようになってきた → ～てくる = 'dần dần xảy ra theo thời gian' → 'đã dần trở nên có thể' → が tương phản → それでも → 'dù vậy' → 映画館で見る楽しさには勝てない → 'không thắng được niềm vui xem ở rạp' → 🔒 Đóng gói: [xem nhà tiện rồi → nhưng rạp vẫn hơn].",
+        "translation": "Gần đây ở nhà cũng đã có thể xem phim một cách dễ dàng, nhưng dù vậy vẫn không thể bằng niềm vui khi xem ở rạp chiếu phim."
+      },
+      {
+        "sentence": "大きなスクリーンと迫力のある音は、家のテレビでは想像できないほどすばらしい。",
+        "chunks": "大きなスクリーンと迫力のある音は / 家のテレビでは / 想像できないほどすばらしい",
+        "guide": "大きなスクリーンと → 'màn hình lớn và' → 迫力のある音 → 'âm thanh có sức mạnh' → は chủ đề → 家のテレビでは → 'với TV ở nhà thì' → 想像できないほど → ～ほど = 'đến mức' → 'đến mức không tưởng tượng nổi' → すばらしい → 'tuyệt vời' → 🔒 Đóng gói: [màn hình + âm thanh rạp = tuyệt vời đến mức TV không tưởng nổi].",
+        "translation": "Màn hình lớn và âm thanh mạnh mẽ tuyệt vời đến mức khó tưởng tượng được nếu chỉ xem TV ở nhà."
+      },
+      {
+        "sentence": "先週、友達と新しい映画を見に行った。",
+        "chunks": "先週 / 友達と / 新しい映画を / 見に行った",
+        "guide": "先週 → bối cảnh thời gian quá khứ → 友達と → と đồng hành 'cùng bạn' → 新しい映画を → 'phim mới' tân ngữ → 見に行った → 'đi xem' → V-に行く mục đích di chuyển → 🔒 Đóng gói: [tuần trước đi xem phim với bạn]. Câu chuyển sang trải nghiệm cụ thể.",
+        "translation": "Tuần trước, tôi đã đi xem một bộ phim mới với bạn bè."
+      },
+      {
+        "sentence": "物語が進むにつれて、登場人物の気持ちがだんだん伝わってきた。",
+        "chunks": "物語が進むにつれて / 登場人物の気持ちが / だんだん伝わってきた",
+        "guide": "物語が進むにつれて → ～につれて = 'cùng với việc, càng ~ thì càng' → 'cùng với việc câu chuyện tiến triển' → 登場人物の気持ちが → 'cảm xúc nhân vật' chủ ngữ → だんだん伝わってきた → ～てくる lần 2 → 'dần dần truyền đến' → だんだん nhấn mạnh quá trình → 🔒 Đóng gói: [phim tiến → cảm xúc dần thấm].",
+        "translation": "Cùng với việc câu chuyện tiến triển, cảm xúc của các nhân vật dần dần truyền đến tôi."
+      },
+      {
+        "sentence": "最後の場面では、涙が出るほど感動してしまった。",
+        "chunks": "最後の場面では / 涙が出るほど / 感動してしまった",
+        "guide": "最後の場面では → 'ở cảnh cuối' → では nhấn mạnh nơi/thời điểm → 涙が出るほど → ～ほど lần 2 → 'đến mức rơi nước mắt' → 感動してしまった → 'đã xúc động' → てしまった = không kìm được → 🔒 Đóng gói: [cảnh cuối → xúc động đến rơi nước mắt].",
+        "translation": "Ở cảnh cuối, tôi đã xúc động đến mức rơi nước mắt."
+      },
+      {
+        "sentence": "映画について友達と語り合うのも、映画館に行く楽しみの一つだ。",
+        "chunks": "映画について / 友達と語り合うのも / 映画館に行く楽しみの一つだ",
+        "guide": "映画について → ～について lần 2 → 'về phim' → 友達と語り合う → 'thảo luận với bạn' → 語り合う = nói chuyện qua lại → のも danh hóa + も nhấn mạnh 'việc đó cũng' → 映画館に行く楽しみの一つだ → 'là một trong những niềm vui đi rạp' → 🔒 Đóng gói: [thảo luận với bạn = một niềm vui đi rạp].",
+        "translation": "Việc chia sẻ về phim với bạn bè cũng là một trong những niềm vui khi đến rạp."
+      },
+      {
+        "sentence": "帰り道、私たちは登場人物の選択について真剣に話した。",
+        "chunks": "帰り道 / 私たちは / 登場人物の選択について / 真剣に話した",
+        "guide": "帰り道 → 'đường về' bối cảnh → 私たちは → chủ đề 'chúng tôi' → 登場人物の選択について → ～について lần 3 → 'về sự lựa chọn của nhân vật' → 真剣に話した → 'đã nói chuyện nghiêm túc' → 🔒 Đóng gói: [đường về thảo luận nghiêm túc về lựa chọn của nhân vật].",
+        "translation": "Trên đường về, chúng tôi đã thảo luận nghiêm túc về những lựa chọn của các nhân vật."
+      },
+      {
+        "sentence": "最近、映画の作り方も少しずつ変わってきたらしい。",
+        "chunks": "最近 / 映画の作り方も / 少しずつ変わってきたらしい",
+        "guide": "最近 → 'gần đây' → 映画の作り方も → 'cách làm phim cũng' → も nối thêm → 少しずつ → 'dần dần một chút' → 変わってきた → ～てくる lần 3 → 'đang thay đổi (theo thời gian)' → らしい → 'có vẻ, nghe nói' → 🔒 Đóng gói: [cách làm phim đang thay đổi dần].",
+        "translation": "Gần đây, cách làm phim cũng có vẻ đang dần thay đổi."
+      },
+      {
+        "sentence": "ストーリーだけでなく、映像技術についても進化が早く、見るたびに新しい発見がある。",
+        "chunks": "ストーリーだけでなく / 映像技術についても / 進化が早く / 見るたびに新しい発見がある",
+        "guide": "ストーリーだけでなく → 'không chỉ cốt truyện' → 映像技術についても → ～について lần 4 + も = 'cả về kỹ thuật hình ảnh cũng' → 進化が早く → 'tiến hóa nhanh' → く nối câu → 見るたびに → 'mỗi lần xem' → たびに → 新しい発見がある → 'có phát hiện mới' → 🔒 Đóng gói: [cốt truyện + kỹ thuật cùng tiến → mỗi lần xem là một khám phá].",
+        "translation": "Không chỉ cốt truyện mà cả về kỹ thuật hình ảnh, sự tiến hóa cũng diễn ra nhanh, và mỗi lần xem đều có phát hiện mới."
+      },
+      {
+        "sentence": "私が子供のころには考えられないほど、映像が美しくなってきた。",
+        "chunks": "私が子供のころには / 考えられないほど / 映像が美しくなってきた",
+        "guide": "私が子供のころには → 'hồi tôi còn nhỏ' bối cảnh quá khứ → 考えられないほど → ～ほど lần 3 → 'đến mức không thể nghĩ tới' → 映像が美しくなってきた → ～てくる lần 4 → 'hình ảnh đã trở nên đẹp (theo thời gian)' → 🔒 Đóng gói: [hình ảnh đẹp đến mức hồi nhỏ không tưởng được].",
+        "translation": "Hình ảnh đã trở nên đẹp đến mức khó hình dung được hồi tôi còn nhỏ."
+      },
+      {
+        "sentence": "これからも、月に一度は映画館に行くつもりだ。",
+        "chunks": "これからも / 月に一度は / 映画館に行くつもりだ",
+        "guide": "これからも → 'từ giờ trở đi cũng' → も nhấn mạnh tiếp diễn → 月に一度は → 'một lần mỗi tháng' → に chỉ tần suất → 映画館に行くつもりだ → 'dự định đi rạp' → つもりだ = ý định → 🔒 Đóng gói: [dự định đi rạp 1 lần/tháng]. Câu chuyển sang quyết tâm.",
+        "translation": "Từ giờ trở đi, tôi cũng dự định mỗi tháng đi rạp một lần."
+      },
+      {
+        "sentence": "映画について深く考えることは、自分の人生について考えることにもつながると感じている。",
+        "chunks": "映画について深く考えることは / 自分の人生について考えることにも / つながると感じている",
+        "guide": "映画について深く考えること → ～について lần 5 → 'việc suy nghĩ sâu về phim' → は chủ đề → 自分の人生について → ～について lần 6 → 'về cuộc đời mình' → 考えることにも → 'cả việc suy nghĩ' → にも 'cả đến' → つながると → 'kết nối, dẫn đến' + と trích dẫn → 感じている → 'đang cảm thấy' → 🔒 Đóng gói: [suy nghĩ về phim = suy nghĩ về cuộc đời]. Câu kết khái quát.",
+        "translation": "Tôi cảm thấy việc suy nghĩ sâu về phim ảnh cũng kết nối với việc suy nghĩ về cuộc đời của chính mình."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0256_Q1",
+        "question": "筆者はなぜ映画館で映画を見るのが好きなのですか。",
+        "question_vi": "Tại sao tác giả thích xem phim ở rạp?",
+        "answers": [
+          {"text": "家にテレビがないから。", "text_vi": "Vì ở nhà không có TV.", "is_correct": false},
+          {"text": "大きなスクリーンと迫力のある音が、家では想像できないほどすばらしいから。", "text_vi": "Vì màn hình lớn và âm thanh mạnh tuyệt vời đến mức không thể tưởng tượng được ở nhà.", "is_correct": true},
+          {"text": "映画館はチケットが安いから。", "text_vi": "Vì rạp chiếu phim có vé rẻ.", "is_correct": false},
+          {"text": "友達がいつも誘ってくれるから。", "text_vi": "Vì bạn luôn rủ đi.", "is_correct": false}
+        ],
+        "explanation": "Câu 3 nói 「大きなスクリーンと迫力のある音は、家のテレビでは想像できないほどすばらしい」 → ～ほど = đến mức + すばらしい = tuyệt vời → màn hình và âm thanh ở rạp tuyệt vời đến mức TV nhà không sánh được."
+      },
+      {
+        "id": "R_0256_Q2",
+        "question": "最後の場面で筆者はどうなりましたか。",
+        "question_vi": "Ở cảnh cuối tác giả đã trở nên như thế nào?",
+        "answers": [
+          {"text": "退屈して眠ってしまった。", "text_vi": "Đã chán và ngủ mất.", "is_correct": false},
+          {"text": "涙が出るほど感動した。", "text_vi": "Đã xúc động đến mức rơi nước mắt.", "is_correct": true},
+          {"text": "怒って映画館を出た。", "text_vi": "Đã tức giận rời khỏi rạp.", "is_correct": false},
+          {"text": "笑いすぎて疲れた。", "text_vi": "Đã cười quá nhiều đến mệt.", "is_correct": false}
+        ],
+        "explanation": "Câu 6 nói 「最後の場面では、涙が出るほど感動してしまった」 → ～ほど = đến mức + 感動した = xúc động → cảnh cuối khiến tác giả xúc động đến rơi nước mắt. てしまった diễn tả sự không kìm được."
+      },
+      {
+        "id": "R_0256_Q3",
+        "question": "筆者は映画について深く考えることをどう感じていますか。",
+        "question_vi": "Tác giả cảm nhận thế nào về việc suy nghĩ sâu về phim ảnh?",
+        "answers": [
+          {"text": "時間の無駄だと思っている。", "text_vi": "Cho rằng đó là việc lãng phí thời gian.", "is_correct": false},
+          {"text": "自分の人生について考えることにもつながると感じている。", "text_vi": "Cảm thấy nó cũng kết nối với việc suy nghĩ về cuộc đời mình.", "is_correct": true},
+          {"text": "専門家しかできないと思っている。", "text_vi": "Nghĩ rằng chỉ chuyên gia mới làm được.", "is_correct": false},
+          {"text": "子供には難しすぎると考えている。", "text_vi": "Cho rằng quá khó với trẻ em.", "is_correct": false}
+        ],
+        "explanation": "Câu cuối (câu 13) nói 「映画について深く考えることは、自分の人生について考えることにもつながると感じている」 → ～について = về + つながる = kết nối → tác giả tin rằng suy nghĩ về phim chính là suy nghĩ về cuộc đời, cho thấy ý nghĩa sâu sắc của việc xem phim."
+      }
+    ]
+  },
+  {
+    "id": "R_0257",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "季節の衣替え",
+    "title_vi": "Thay đổi tủ quần áo theo mùa",
+    "topic": "daily_routine",
+    "subtopic": "sắp xếp tủ quần áo theo mùa",
+    "tags": ["ことになっています", "ように", "とおり"],
+    "grammar_used": ["～ことになっています", "～ように", "～とおり／どおり"],
+    "sentence_count": 13,
+    "text": "日本では、六月と十月に衣替えをすることになっています。これは昔からの習慣で、学校や会社では決まった日に制服を変えることになっている。私は毎年、母から教わったとおりに、季節ごとに洋服を整理している。まず、夏服と冬服を分けて、すぐに取り出せるように箱を用意する。古いものや着なくなったものは、リサイクルに出すことになっている。整理するときは、洗濯してから片付けるようにしている。母の言うとおり、清潔にしてから収納したほうが、来年気持ちよく着られる。先月、久しぶりに実家に帰ったとき、母と一緒に衣替えをした。母の手順どおりにやってみると、思ったよりずっと早く終わった。整理した後、棚を見やすくなるようにラベルを貼った。これで、来年も計画どおりに作業ができるはずだ。衣替えはただの片付けではなく、季節の変化を感じる大切な時間になっています。母が話してくれたとおり、丁寧にやれば心まで整うような気がする。",
+    "translation": "Ở Nhật Bản, theo quy định, người ta thay đổi tủ quần áo vào tháng sáu và tháng mười. Đây là phong tục từ xưa, ở trường học và công ty thì việc thay đồng phục được quy định vào ngày cố định. Mỗi năm, tôi sắp xếp quần áo theo mùa đúng như mẹ đã chỉ dạy. Trước tiên, tôi tách riêng đồ mùa hè và đồ mùa đông, chuẩn bị các hộp sao cho có thể lấy ra ngay. Những đồ cũ và đồ không còn mặc nữa thì theo quy định sẽ đem đi tái chế. Khi sắp xếp, tôi cố gắng giặt rồi mới cất đi. Đúng như lời mẹ nói, làm sạch rồi mới cất thì sang năm mặc lại sẽ thấy dễ chịu. Tháng trước, khi lâu rồi mới về nhà mẹ, tôi đã cùng mẹ làm việc thay đồ theo mùa. Khi làm thử đúng theo trình tự của mẹ, mọi thứ kết thúc sớm hơn nhiều so với dự đoán. Sau khi sắp xếp xong, tôi đã dán nhãn lên kệ sao cho dễ nhìn. Như vậy, sang năm nữa chắc chắn cũng có thể làm việc đúng theo kế hoạch. Việc thay đổi đồ theo mùa không chỉ là dọn dẹp đơn thuần mà đã trở thành khoảng thời gian quan trọng để cảm nhận sự thay đổi của mùa. Đúng như mẹ đã kể, nếu làm cẩn thận thì có cảm giác như cả tâm hồn cũng được sắp xếp gọn gàng.",
+    "vocabulary": [
+      {"word": "衣替え", "reading": "ころもがえ", "meaning": "việc đổi quần áo theo mùa"},
+      {"word": "習慣", "reading": "しゅうかん", "meaning": "phong tục, thói quen"},
+      {"word": "制服", "reading": "せいふく", "meaning": "đồng phục"},
+      {"word": "整理", "reading": "せいり", "meaning": "sắp xếp, dọn dẹp"},
+      {"word": "リサイクル", "reading": "リサイクル", "meaning": "tái chế"},
+      {"word": "清潔", "reading": "せいけつ", "meaning": "sạch sẽ"},
+      {"word": "収納", "reading": "しゅうのう", "meaning": "cất giữ, thu nạp vào kho"},
+      {"word": "手順", "reading": "てじゅん", "meaning": "trình tự, các bước"},
+      {"word": "棚", "reading": "たな", "meaning": "kệ, giá đựng đồ"},
+      {"word": "丁寧", "reading": "ていねい", "meaning": "cẩn thận, tỉ mỉ"}
+    ],
+    "process": [
+      {
+        "sentence": "日本では、六月と十月に衣替えをすることになっています。",
+        "chunks": "日本では / 六月と十月に / 衣替えをする / ことになっています",
+        "guide": "日本では → bối cảnh nơi chốn → 六月と十月に → 'vào tháng 6 và tháng 10' → 衣替えをする → 'thực hiện việc đổi đồ theo mùa' → ことになっています → ～ことになっている = 'theo quy định/sắp xếp khách quan' → khác với ことにする (tự quyết) → 🔒 Đóng gói: [Nhật Bản có quy định đổi đồ tháng 6 và 10]. Câu mở giới thiệu phong tục.",
+        "translation": "Ở Nhật Bản, theo quy định, người ta thay đổi tủ quần áo vào tháng sáu và tháng mười."
+      },
+      {
+        "sentence": "これは昔からの習慣で、学校や会社では決まった日に制服を変えることになっている。",
+        "chunks": "これは / 昔からの習慣で / 学校や会社では / 決まった日に制服を変えることになっている",
+        "guide": "これは → 'điều này' chỉ lại câu trước → 昔からの習慣で → 'là phong tục từ xưa' → で nối câu → 学校や会社では → 'ở trường học và công ty' → や liệt kê → 決まった日に → 'vào ngày cố định' → 制服を変えることになっている → ～ことになっている lần 2 → quy định khách quan → 🔒 Đóng gói: [trường + công ty: đổi đồng phục theo ngày quy định].",
+        "translation": "Đây là phong tục từ xưa, ở trường học và công ty thì việc thay đồng phục được quy định vào ngày cố định."
+      },
+      {
+        "sentence": "私は毎年、母から教わったとおりに、季節ごとに洋服を整理している。",
+        "chunks": "私は / 毎年 / 母から教わったとおりに / 季節ごとに洋服を整理している",
+        "guide": "私は → chủ đề chuyển sang bản thân → 毎年 → 'mỗi năm' → 母から教わったとおりに → ～とおりに = 'đúng như, theo như' → 'đúng như mẹ đã dạy' → 教わる = được dạy → 季節ごとに → 'theo từng mùa' → ごとに = mỗi → 洋服を整理している → 'đang sắp xếp quần áo' → 🔒 Đóng gói: [tôi sắp xếp đồ đúng cách mẹ dạy].",
+        "translation": "Mỗi năm, tôi sắp xếp quần áo theo mùa đúng như mẹ đã chỉ dạy."
+      },
+      {
+        "sentence": "まず、夏服と冬服を分けて、すぐに取り出せるように箱を用意する。",
+        "chunks": "まず / 夏服と冬服を分けて / すぐに取り出せるように / 箱を用意する",
+        "guide": "まず → 'trước tiên' chỉ thứ tự → 夏服と冬服を分けて → 'tách đồ hè và đồ đông' → て nối → すぐに取り出せるように → ～ように = 'để mà, sao cho' → 'sao cho có thể lấy ra ngay' → 取り出せる là dạng khả năng → 箱を用意する → 'chuẩn bị hộp' → 🔒 Đóng gói: [tách đồ hè/đông + chuẩn bị hộp dễ lấy].",
+        "translation": "Trước tiên, tôi tách riêng đồ mùa hè và đồ mùa đông, chuẩn bị các hộp sao cho có thể lấy ra ngay."
+      },
+      {
+        "sentence": "古いものや着なくなったものは、リサイクルに出すことになっている。",
+        "chunks": "古いものや / 着なくなったものは / リサイクルに出すことになっている",
+        "guide": "古いものや → 'đồ cũ và' → や liệt kê → 着なくなったもの → 'đồ không còn mặc' → なくなった = không còn (V-なくなる) → は chủ đề → リサイクルに出す → 'đem đi tái chế' → ことになっている → ～ことになっている lần 3 → quy định/sắp xếp → 🔒 Đóng gói: [đồ cũ + không mặc → tái chế (theo quy định)].",
+        "translation": "Những đồ cũ và đồ không còn mặc nữa thì theo quy định sẽ đem đi tái chế."
+      },
+      {
+        "sentence": "整理するときは、洗濯してから片付けるようにしている。",
+        "chunks": "整理するときは / 洗濯してから / 片付けるようにしている",
+        "guide": "整理するときは → 'khi sắp xếp' → ときは bối cảnh → 洗濯してから → 'sau khi giặt' → てから = sau khi → 片付けるようにしている → ～ように lần 2 + している → 'cố gắng cất đi' → ようにしている = thói quen cố gắng làm → 🔒 Đóng gói: [thói quen: giặt rồi mới cất].",
+        "translation": "Khi sắp xếp, tôi cố gắng giặt rồi mới cất đi."
+      },
+      {
+        "sentence": "母の言うとおり、清潔にしてから収納したほうが、来年気持ちよく着られる。",
+        "chunks": "母の言うとおり / 清潔にしてから収納したほうが / 来年気持ちよく着られる",
+        "guide": "母の言うとおり → ～とおり lần 2 → 'đúng như mẹ nói' → 清潔にしてから → 'làm sạch rồi mới' → 清潔にする = làm cho sạch → 収納したほうが → 'cất đi thì hơn' → V-たほうが so sánh khuyến nghị → 来年気持ちよく着られる → 'sang năm có thể mặc dễ chịu' → 着られる khả năng → 🔒 Đóng gói: [sạch trước → cất → năm sau dễ mặc].",
+        "translation": "Đúng như lời mẹ nói, làm sạch rồi mới cất thì sang năm mặc lại sẽ thấy dễ chịu."
+      },
+      {
+        "sentence": "先月、久しぶりに実家に帰ったとき、母と一緒に衣替えをした。",
+        "chunks": "先月 / 久しぶりに実家に帰ったとき / 母と一緒に衣替えをした",
+        "guide": "先月 → bối cảnh thời gian → 久しぶりに → 'lâu rồi mới' → 実家に帰ったとき → 'khi về nhà mẹ' → とき điểm thời gian → 母と一緒に → 'cùng với mẹ' → 衣替えをした → 'đã làm việc đổi đồ' → 🔒 Đóng gói: [tháng trước về nhà mẹ + cùng đổi đồ]. Câu chuyển sang trải nghiệm cụ thể.",
+        "translation": "Tháng trước, khi lâu rồi mới về nhà mẹ, tôi đã cùng mẹ làm việc thay đồ theo mùa."
+      },
+      {
+        "sentence": "母の手順どおりにやってみると、思ったよりずっと早く終わった。",
+        "chunks": "母の手順どおりに / やってみると / 思ったよりずっと早く終わった",
+        "guide": "母の手順どおりに → ～どおり (どおり = biến âm của とおり) lần 3 → 'đúng theo trình tự của mẹ' → やってみると → 'khi thử làm' → と điều kiện → 思ったより → 'so với nghĩ' so sánh → ずっと早く → 'sớm hơn nhiều' → ずっと nhấn mạnh → 終わった → 'đã kết thúc' → 🔒 Đóng gói: [làm theo cách mẹ → nhanh bất ngờ].",
+        "translation": "Khi làm thử đúng theo trình tự của mẹ, mọi thứ kết thúc sớm hơn nhiều so với dự đoán."
+      },
+      {
+        "sentence": "整理した後、棚を見やすくなるようにラベルを貼った。",
+        "chunks": "整理した後 / 棚を見やすくなるように / ラベルを貼った",
+        "guide": "整理した後 → 'sau khi sắp xếp xong' → 棚を見やすくなる → 'kệ trở nên dễ nhìn' → 見やすい + なる = trở nên dễ nhìn → ように → ～ように lần 3 = 'sao cho, để mà' → ラベルを貼った → 'đã dán nhãn' → 🔒 Đóng gói: [dán nhãn → để kệ dễ nhìn].",
+        "translation": "Sau khi sắp xếp xong, tôi đã dán nhãn lên kệ sao cho dễ nhìn."
+      },
+      {
+        "sentence": "これで、来年も計画どおりに作業ができるはずだ。",
+        "chunks": "これで / 来年も / 計画どおりに作業ができるはずだ",
+        "guide": "これで → 'với cách này, như vậy' chỉ lại việc dán nhãn → 来年も → 'năm sau cũng' → 計画どおりに → ～どおり lần 4 → 'đúng theo kế hoạch' → 作業ができる → 'có thể làm việc' → はずだ → 'chắc chắn, lẽ ra' → 🔒 Đóng gói: [dán nhãn rồi → năm sau làm theo kế hoạch chắc OK].",
+        "translation": "Như vậy, sang năm nữa chắc chắn cũng có thể làm việc đúng theo kế hoạch."
+      },
+      {
+        "sentence": "衣替えはただの片付けではなく、季節の変化を感じる大切な時間になっています。",
+        "chunks": "衣替えは / ただの片付けではなく / 季節の変化を感じる / 大切な時間になっています",
+        "guide": "衣替えは → chủ đề lớn 'việc đổi đồ' → ただの片付けではなく → 'không chỉ là dọn dẹp đơn thuần' → ただの = chỉ là + ではなく phủ định nối câu → 季節の変化を感じる → 'cảm nhận sự thay đổi của mùa' → 大切な時間になっています → 'đã trở thành khoảng thời gian quan trọng' → 🔒 Đóng gói: [đổi đồ ≠ dọn → là cảm nhận mùa]. Câu khái quát ý nghĩa.",
+        "translation": "Việc thay đổi đồ theo mùa không chỉ là dọn dẹp đơn thuần mà đã trở thành khoảng thời gian quan trọng để cảm nhận sự thay đổi của mùa."
+      },
+      {
+        "sentence": "母が話してくれたとおり、丁寧にやれば心まで整うような気がする。",
+        "chunks": "母が話してくれたとおり / 丁寧にやれば / 心まで整うような気がする",
+        "guide": "母が話してくれたとおり → ～とおり lần 5 → 'đúng như mẹ đã kể' → してくれた = mẹ kể cho mình → 丁寧にやれば → 'nếu làm cẩn thận' → ば điều kiện → 心まで整う → 'cả tâm hồn cũng được sắp xếp' → まで nhấn mạnh 'đến cả' → ような気がする → 'có cảm giác như' → 🔒 Đóng gói: [làm cẩn thận → tâm cũng gọn]. Câu kết tinh thần.",
+        "translation": "Đúng như mẹ đã kể, nếu làm cẩn thận thì có cảm giác như cả tâm hồn cũng được sắp xếp gọn gàng."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0257_Q1",
+        "question": "日本では衣替えはいつすることになっていますか。",
+        "question_vi": "Theo quy định ở Nhật, việc đổi quần áo theo mùa được làm vào lúc nào?",
+        "answers": [
+          {"text": "三月と九月にすることになっています。", "text_vi": "Theo quy định làm vào tháng ba và tháng chín.", "is_correct": false},
+          {"text": "六月と十月にすることになっています。", "text_vi": "Theo quy định làm vào tháng sáu và tháng mười.", "is_correct": true},
+          {"text": "毎月一回することになっています。", "text_vi": "Theo quy định làm mỗi tháng một lần.", "is_correct": false},
+          {"text": "好きなときにすることになっています。", "text_vi": "Theo quy định làm bất cứ lúc nào.", "is_correct": false}
+        ],
+        "explanation": "Câu 1 nói rõ 「日本では、六月と十月に衣替えをすることになっています」 → ～ことになっている = quy định khách quan → việc đổi đồ được quy định vào tháng 6 và tháng 10."
+      },
+      {
+        "id": "R_0257_Q2",
+        "question": "なぜ筆者は洗濯してから収納するようにしているのですか。",
+        "question_vi": "Tại sao tác giả cố gắng giặt rồi mới cất đồ đi?",
+        "answers": [
+          {"text": "時間が余っているから。", "text_vi": "Vì có thời gian thừa.", "is_correct": false},
+          {"text": "清潔にしておけば、来年気持ちよく着られるから。", "text_vi": "Vì làm sạch rồi mới cất thì sang năm mặc lại sẽ thấy dễ chịu.", "is_correct": true},
+          {"text": "洗濯機を新しくしたから。", "text_vi": "Vì mới mua máy giặt mới.", "is_correct": false},
+          {"text": "母に怒られるから。", "text_vi": "Vì sợ bị mẹ mắng.", "is_correct": false}
+        ],
+        "explanation": "Câu 7 giải thích 「母の言うとおり、清潔にしてから収納したほうが、来年気持ちよく着られる」 → ～とおり = đúng như + V-たほうが = nên làm hơn → giặt sạch rồi cất giúp năm sau mặc lại dễ chịu, đó là bí quyết mẹ truyền."
+      },
+      {
+        "id": "R_0257_Q3",
+        "question": "筆者にとって衣替えはどんな意味がありますか。",
+        "question_vi": "Đối với tác giả, việc đổi quần áo theo mùa có ý nghĩa gì?",
+        "answers": [
+          {"text": "ただの面倒な家事である。", "text_vi": "Chỉ là một việc nhà phiền phức.", "is_correct": false},
+          {"text": "ただの片付けではなく、季節の変化を感じ、心まで整うような大切な時間である。", "text_vi": "Không chỉ là dọn dẹp đơn thuần mà là khoảng thời gian quan trọng để cảm nhận mùa và sắp xếp cả tâm hồn.", "is_correct": true},
+          {"text": "母を喜ばせるためだけの作業である。", "text_vi": "Chỉ là công việc để làm mẹ vui.", "is_correct": false},
+          {"text": "学校から強制された義務である。", "text_vi": "Là nghĩa vụ bị nhà trường ép buộc.", "is_correct": false}
+        ],
+        "explanation": "Câu 12 nói 「衣替えはただの片付けではなく、季節の変化を感じる大切な時間になっています」 và câu cuối nhấn mạnh 「丁寧にやれば心まで整うような気がする」 → tổng hợp: tác giả thấy đây không chỉ là dọn dẹp mà là dịp cảm nhận mùa và sắp xếp tâm hồn."
+      }
+    ]
+  }
+]

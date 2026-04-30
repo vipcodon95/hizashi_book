@@ -1,0 +1,439 @@
+[
+  {
+    "id": "R_0276",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "お弁当作り",
+    "title_vi": "Việc làm cơm bento",
+    "topic": "cooking",
+    "subtopic": "tự nấu cơm bento",
+    "tags": ["とともに", "ようになっている", "さえ"],
+    "grammar_used": ["～とともに", "～ようになっている", "～さえ"],
+    "sentence_count": 13,
+    "text": "去年から、私は毎朝自分でお弁当を作ることにしている。会社の同僚が始めたのとともに、私もやってみようと思ったのがきっかけだ。最初はご飯さえうまく炊けなくて、何度も失敗してしまった。でも、続けていくうちに料理の本も少しずつ読めるようになってきた。最近のお弁当箱は、ご飯とおかずの場所がきちんと分かれるようになっている。だから、慣れていない人でも見た目をきれいに作りやすい。私の冷蔵庫には、卵さえあれば何かしら作れるように、いつも卵を多めに置いている。仕事が忙しくなるとともに、朝の時間がますます短くなってきた。それでも、夜のうちにおかずを少し用意しておくと、朝は詰めるだけでいいようになっている。野菜さえ前の日に切っておけば、朝の作業はとても楽になる。最近は、家族の弁当も作るようになり、料理の楽しさが広がるとともに、家族との会話も増えてきた。お弁当を開けたときに「おいしそう」と言われるのが、何よりの楽しみだ。これからも、無理のない範囲でお弁当作りを続けていきたい。",
+    "translation": "Từ năm ngoái, tôi đã quyết định mỗi sáng tự làm cơm bento. Đồng nghiệp ở công ty bắt đầu, đồng thời tôi cũng nghĩ thử làm xem, đó là cơ duyên. Lúc đầu ngay cả cơm cũng không nấu được ngon, tôi đã thất bại nhiều lần. Nhưng cứ tiếp tục thì tôi cũng dần đọc được sách dạy nấu ăn từng chút một. Hộp cơm bento gần đây được thiết kế sao cho phần cơm và phần đồ ăn kèm được chia rõ ràng. Vì vậy, ngay cả người chưa quen cũng dễ làm cho hình thức đẹp. Trong tủ lạnh nhà tôi, để chỉ cần có trứng là có thể làm được món gì đó, lúc nào cũng có sẵn nhiều trứng. Cùng với việc công việc trở nên bận rộn, thời gian buổi sáng cũng ngày càng ngắn lại. Dù vậy, nếu chuẩn bị sẵn một ít món ăn từ tối hôm trước, sáng hôm sau được thiết kế sao cho chỉ cần xếp vào hộp là xong. Chỉ cần cắt sẵn rau từ hôm trước thì công việc buổi sáng sẽ trở nên rất nhẹ nhàng. Gần đây tôi cũng làm cả cơm cho gia đình, cùng với niềm vui nấu ăn lan rộng, các cuộc trò chuyện với gia đình cũng tăng lên. Khi mở hộp cơm ra mà được khen 'trông ngon thật', đó là niềm vui hơn bất cứ điều gì. Từ giờ trở đi, tôi cũng muốn tiếp tục làm cơm bento trong phạm vi không gắng sức.",
+    "vocabulary": [
+      {"word": "弁当", "reading": "べんとう", "meaning": "cơm hộp, bento"},
+      {"word": "同僚", "reading": "どうりょう", "meaning": "đồng nghiệp"},
+      {"word": "炊く", "reading": "たく", "meaning": "nấu (cơm)"},
+      {"word": "おかず", "reading": "おかず", "meaning": "món ăn kèm"},
+      {"word": "冷蔵庫", "reading": "れいぞうこ", "meaning": "tủ lạnh"},
+      {"word": "詰める", "reading": "つめる", "meaning": "xếp vào, nhồi vào"},
+      {"word": "範囲", "reading": "はんい", "meaning": "phạm vi"},
+      {"word": "見た目", "reading": "みため", "meaning": "hình thức bên ngoài"},
+      {"word": "多め", "reading": "おおめ", "meaning": "nhiều hơn (chút), dư ra"},
+      {"word": "きっかけ", "reading": "きっかけ", "meaning": "cơ duyên, sự kiện khởi đầu"}
+    ],
+    "process": [
+      {
+        "sentence": "去年から、私は毎朝自分でお弁当を作ることにしている。",
+        "chunks": "去年から / 私は毎朝 / 自分でお弁当を / 作ることにしている",
+        "guide": "去年から → から chỉ điểm khởi đầu → 私は毎朝 → chủ đề + thời gian → 自分で = tự mình → お弁当を作ることにしている → ～ことにしている = thói quen tự đặt → 🔒 Đóng gói: [từ năm ngoái → tự làm bento mỗi sáng = thói quen]",
+        "translation": "Từ năm ngoái, tôi đã quyết định mỗi sáng tự làm cơm bento."
+      },
+      {
+        "sentence": "会社の同僚が始めたのとともに、私もやってみようと思ったのがきっかけだ。",
+        "chunks": "会社の同僚が始めたのとともに / 私もやってみようと思ったのが / きっかけだ",
+        "guide": "会社の同僚が始めたの → の danh hóa → とともに → ～とともに = 'cùng với, đồng thời với' → 私もやってみよう = tôi cũng thử làm xem → と思った = đã nghĩ → のがきっかけだ = đó là lý do bắt đầu → 🔒 Đóng gói: [đồng nghiệp bắt đầu → đồng thời tôi cũng thử = duyên]",
+        "translation": "Đồng nghiệp ở công ty bắt đầu, đồng thời tôi cũng nghĩ thử làm xem, đó là cơ duyên."
+      },
+      {
+        "sentence": "最初はご飯さえうまく炊けなくて、何度も失敗してしまった。",
+        "chunks": "最初は / ご飯さえうまく炊けなくて / 何度も失敗してしまった",
+        "guide": "最初は → chủ đề thời điểm đầu → ご飯さえ → ～さえ = 'ngay cả ~' (sắc thái 'cái đơn giản nhất cũng không được') → うまく炊けなくて = không nấu được ngon → 何度も失敗してしまった = đã thất bại nhiều lần → 🔒 Đóng gói: [ban đầu → ngay cả cơm cũng không nấu được → thất bại nhiều]",
+        "translation": "Lúc đầu ngay cả cơm cũng không nấu được ngon, tôi đã thất bại nhiều lần."
+      },
+      {
+        "sentence": "でも、続けていくうちに料理の本も少しずつ読めるようになってきた。",
+        "chunks": "でも / 続けていくうちに / 料理の本も少しずつ / 読めるようになってきた",
+        "guide": "でも tương phản → 続けていくうちに = trong khi tiếp tục → 料理の本も = sách dạy nấu ăn cũng → 少しずつ = từng chút → 読めるようになってきた = đã dần dần đọc được → ようになる + てくる → 🔒 Đóng gói: [tiếp tục → dần đọc được sách nấu ăn]",
+        "translation": "Nhưng cứ tiếp tục thì tôi cũng dần đọc được sách dạy nấu ăn từng chút một."
+      },
+      {
+        "sentence": "最近のお弁当箱は、ご飯とおかずの場所がきちんと分かれるようになっている。",
+        "chunks": "最近のお弁当箱は / ご飯とおかずの場所が / きちんと分かれるようになっている",
+        "guide": "最近のお弁当箱は → chủ đề → ご飯とおかずの場所が = vị trí cơm và đồ ăn kèm → きちんと分かれる = chia rõ ràng → ようになっている → ～ようになっている = 'được thiết kế sao cho' (trạng thái cấu trúc khách quan, khác ことにしている tự đặt) → 🔒 Đóng gói: [hộp bento gần đây → được thiết kế phân khu rõ]",
+        "translation": "Hộp cơm bento gần đây được thiết kế sao cho phần cơm và phần đồ ăn kèm được chia rõ ràng."
+      },
+      {
+        "sentence": "だから、慣れていない人でも見た目をきれいに作りやすい。",
+        "chunks": "だから / 慣れていない人でも / 見た目をきれいに / 作りやすい",
+        "guide": "だから = vì vậy → 慣れていない人でも = ngay cả người chưa quen → でも nhấn mạnh → 見た目をきれいに = hình thức cho đẹp → 作りやすい = dễ làm → やすい dễ → 🔒 Đóng gói: [thiết kế tốt → người không quen cũng dễ làm đẹp]",
+        "translation": "Vì vậy, ngay cả người chưa quen cũng dễ làm cho hình thức đẹp."
+      },
+      {
+        "sentence": "私の冷蔵庫には、卵さえあれば何かしら作れるように、いつも卵を多めに置いている。",
+        "chunks": "私の冷蔵庫には / 卵さえあれば何かしら作れるように / いつも卵を多めに置いている",
+        "guide": "私の冷蔵庫には → chủ đề + に địa điểm → 卵さえあれば → ～さえ～ば = 'chỉ cần có ~ thì' → điều kiện tối thiểu → 何かしら作れる = làm được cái gì đó → ように mục đích → いつも卵を多めに置いている = lúc nào cũng để dư trứng → 🔒 Đóng gói: [chỉ cần có trứng → làm được gì đó → luôn để dư trứng]",
+        "translation": "Trong tủ lạnh nhà tôi, để chỉ cần có trứng là có thể làm được món gì đó, lúc nào cũng có sẵn nhiều trứng."
+      },
+      {
+        "sentence": "仕事が忙しくなるとともに、朝の時間がますます短くなってきた。",
+        "chunks": "仕事が忙しくなるとともに / 朝の時間が / ますます短くなってきた",
+        "guide": "仕事が忙しくなる = công việc bận rộn → とともに → ～とともに lần thứ hai → 'cùng với, đồng thời theo' → biểu hiện hai sự thay đổi đi cùng → 朝の時間がますます短くなってきた = thời gian sáng ngày càng ngắn → ますます = ngày càng → 🔒 Đóng gói: [bận hơn → đồng thời thời gian sáng ngắn dần]",
+        "translation": "Cùng với việc công việc trở nên bận rộn, thời gian buổi sáng cũng ngày càng ngắn lại."
+      },
+      {
+        "sentence": "それでも、夜のうちにおかずを少し用意しておくと、朝は詰めるだけでいいようになっている。",
+        "chunks": "それでも / 夜のうちにおかずを少し用意しておくと / 朝は詰めるだけでいいようになっている",
+        "guide": "それでも = dù vậy → 夜のうちに = trong tối → おかずを少し用意しておく → ておく chuẩn bị sẵn → と điều kiện 'thì' → 朝は詰めるだけでいい = sáng chỉ cần xếp vào là được → ようになっている → ～ようになっている lần thứ hai → 'được sắp đặt sao cho' (hệ thống hóa tự nhiên) → 🔒 Đóng gói: [chuẩn bị tối → sáng chỉ xếp = vận hành như cấu trúc sẵn]",
+        "translation": "Dù vậy, nếu chuẩn bị sẵn một ít món ăn từ tối hôm trước, sáng hôm sau được thiết kế sao cho chỉ cần xếp vào hộp là xong."
+      },
+      {
+        "sentence": "野菜さえ前の日に切っておけば、朝の作業はとても楽になる。",
+        "chunks": "野菜さえ前の日に切っておけば / 朝の作業は / とても楽になる",
+        "guide": "野菜さえ → ～さえ lần thứ ba → ở đây 'chỉ cần ~ thôi' (hàm ý ít cũng đủ) → 前の日に切っておけば = chỉ cần cắt sẵn hôm trước → ば điều kiện → 朝の作業はとても楽になる = công việc sáng rất nhẹ → 🔒 Đóng gói: [chỉ cần cắt rau hôm trước → sáng nhẹ nhàng]",
+        "translation": "Chỉ cần cắt sẵn rau từ hôm trước thì công việc buổi sáng sẽ trở nên rất nhẹ nhàng."
+      },
+      {
+        "sentence": "最近は、家族の弁当も作るようになり、料理の楽しさが広がるとともに、家族との会話も増えてきた。",
+        "chunks": "最近は / 家族の弁当も作るようになり / 料理の楽しさが広がるとともに / 家族との会話も増えてきた",
+        "guide": "最近は → chủ đề thời điểm → 家族の弁当も作るようになり = đã trở nên làm cả bento gia đình → 料理の楽しさが広がる = niềm vui nấu ăn lan ra → とともに → ～とともに lần thứ ba → đồng thời → 家族との会話も増えてきた = trò chuyện gia đình cũng tăng → 🔒 Đóng gói: [làm bento gia đình → vui nấu ăn lan + nói chuyện tăng]",
+        "translation": "Gần đây tôi cũng làm cả cơm cho gia đình, cùng với niềm vui nấu ăn lan rộng, các cuộc trò chuyện với gia đình cũng tăng lên."
+      },
+      {
+        "sentence": "お弁当を開けたときに「おいしそう」と言われるのが、何よりの楽しみだ。",
+        "chunks": "お弁当を開けたときに / 「おいしそう」と言われるのが / 何よりの楽しみだ",
+        "guide": "お弁当を開けたときに = khi mở bento → 「おいしそう」 → そう dáng vẻ 'trông ngon' → と言われる = được người ta nói (bị động) → のが → の danh hóa + が → 何よりの楽しみだ = niềm vui hơn cả → 🔒 Đóng gói: [được khen 'trông ngon' = niềm vui lớn nhất]",
+        "translation": "Khi mở hộp cơm ra mà được khen 'trông ngon thật', đó là niềm vui hơn bất cứ điều gì."
+      },
+      {
+        "sentence": "これからも、無理のない範囲でお弁当作りを続けていきたい。",
+        "chunks": "これからも / 無理のない範囲で / お弁当作りを続けていきたい",
+        "guide": "これからも = từ giờ trở đi cũng → 無理のない範囲で = trong phạm vi không gắng sức → で phương tiện/giới hạn → お弁当作りを続けていきたい = muốn tiếp tục làm bento → ていく hướng tương lai + たい muốn → 🔒 Đóng gói: [trong sức mình → muốn tiếp tục làm bento]",
+        "translation": "Từ giờ trở đi, tôi cũng muốn tiếp tục làm cơm bento trong phạm vi không gắng sức."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0276_Q1",
+        "question": "筆者がお弁当を作り始めたきっかけは何ですか。",
+        "question_vi": "Cơ duyên để tác giả bắt đầu làm cơm bento là gì?",
+        "answers": [
+          {"text": "テレビ番組を見たから。", "text_vi": "Vì đã xem chương trình truyền hình.", "is_correct": false},
+          {"text": "会社の同僚が始めたのとともに、自分もやってみようと思ったから。", "text_vi": "Vì đồng nghiệp ở công ty bắt đầu, đồng thời mình cũng nghĩ thử làm xem.", "is_correct": true},
+          {"text": "お金を節約したかったから。", "text_vi": "Vì muốn tiết kiệm tiền.", "is_correct": false},
+          {"text": "家族に頼まれたから。", "text_vi": "Vì được gia đình nhờ.", "is_correct": false}
+        ],
+        "explanation": "Câu 2 nói rõ 「会社の同僚が始めたのとともに、私もやってみようと思ったのがきっかけだ」→ ～とともに = đồng thời với + きっかけだ = là cơ duyên → đồng nghiệp khởi xướng và tác giả cũng theo."
+      },
+      {
+        "id": "R_0276_Q2",
+        "question": "最近のお弁当箱について本文ではどう書かれていますか。",
+        "question_vi": "Bài đọc viết thế nào về hộp cơm bento gần đây?",
+        "answers": [
+          {"text": "値段が高くて買いにくい。", "text_vi": "Giá đắt nên khó mua.", "is_correct": false},
+          {"text": "ご飯とおかずの場所がきちんと分かれるようになっている。", "text_vi": "Được thiết kế sao cho phần cơm và phần đồ ăn kèm được chia rõ ràng.", "is_correct": true},
+          {"text": "プラスチック製だけになった。", "text_vi": "Chỉ còn loại làm bằng nhựa.", "is_correct": false},
+          {"text": "サイズがどんどん小さくなっている。", "text_vi": "Kích thước ngày càng nhỏ đi.", "is_correct": false}
+        ],
+        "explanation": "Câu 5 nói 「ご飯とおかずの場所がきちんと分かれるようになっている」→ ～ようになっている = được thiết kế sao cho → mô tả cấu trúc khách quan của hộp bento. Câu 6 cũng bổ sung là người chưa quen cũng dễ làm đẹp."
+      },
+      {
+        "id": "R_0276_Q3",
+        "question": "筆者は朝の作業を楽にするために、どんな工夫をしていますか。",
+        "question_vi": "Tác giả đã làm gì để công việc buổi sáng trở nên nhẹ nhàng?",
+        "answers": [
+          {"text": "毎朝五時に起きること。", "text_vi": "Dậy lúc năm giờ mỗi sáng.", "is_correct": false},
+          {"text": "朝ごはんを食べないこと。", "text_vi": "Không ăn sáng.", "is_correct": false},
+          {"text": "夜のうちにおかずを用意しておき、野菜も前の日に切っておくこと。", "text_vi": "Chuẩn bị sẵn món ăn từ tối hôm trước và cắt rau sẵn từ hôm trước.", "is_correct": true},
+          {"text": "コンビニのお弁当を買うこと。", "text_vi": "Mua bento ở cửa hàng tiện lợi.", "is_correct": false}
+        ],
+        "explanation": "Câu 9 nói 「夜のうちにおかずを少し用意しておくと、朝は詰めるだけでいいようになっている」 và câu 10 bổ sung 「野菜さえ前の日に切っておけば、朝の作業はとても楽になる」→ ～さえ～ば = chỉ cần ~ là đủ → đây là 2 cách giúp sáng nhẹ nhàng."
+      }
+    ]
+  },
+  {
+    "id": "R_0277",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "夏の果物",
+    "title_vi": "Hoa quả mùa hè",
+    "topic": "seasonal_food",
+    "subtopic": "hoa quả mùa hè",
+    "tags": ["から～にかけて", "らしい", "とは／というのは"],
+    "grammar_used": ["～から～にかけて", "～らしい", "～とは／というのは"],
+    "sentence_count": 13,
+    "text": "日本の夏の果物といえば、すいかや桃、ぶどうなどがすぐに思い浮かぶ。これらは六月末から八月にかけて、店先にたくさん並ぶ。「旬」というのは、その食べ物が一年で一番おいしい時期のことを言う。たとえば、桃の旬は七月から八月にかけてで、香りが強くて甘みも濃い。すいかは大きくて重く、夏らしい果物の代表だと言える。最近は、皮が薄くて食べやすい新しい品種も出ているらしい。「品種改良」というのは、味や形を良くするために果物を少しずつ変えていく技術のことだ。山梨県や長野県では、八月から九月にかけてぶどうの収穫が一番忙しいらしい。観光客が果物狩りを楽しむ姿も、いかにも夏らしい風景だ。私の祖父によると、昔の夏は今ほど暑くなかったから、果物の味も少し違ったらしい。「地球温暖化」というのは、地球全体の気温が長い時間をかけて上がっていく現象のことだそうだ。夏の果物を食べるとは、ただおいしさを楽しむだけでなく、季節を感じる大切な習慣でもある。これからも、その時期だけのおいしさを味わいたいと思う。",
+    "translation": "Nhắc đến hoa quả mùa hè Nhật Bản, ngay lập tức nghĩ đến dưa hấu, đào, nho và những thứ khác. Những loại này được bày rất nhiều ở cửa tiệm từ cuối tháng 6 đến tháng 8. Cái gọi là 'mùa vụ' nghĩa là thời kỳ một thứ đồ ăn ngon nhất trong năm. Ví dụ, mùa của đào là từ tháng 7 đến tháng 8, hương thơm mạnh và vị ngọt cũng đậm. Dưa hấu to và nặng, có thể nói là loại quả tiêu biểu rất đúng kiểu mùa hè. Gần đây, nghe nói cũng có những giống mới có vỏ mỏng và dễ ăn. Cái gọi là 'cải tiến giống' nghĩa là kỹ thuật thay đổi từng chút một để cải thiện vị và hình dáng của hoa quả. Tại tỉnh Yamanashi và Nagano, nghe nói việc thu hoạch nho bận rộn nhất là từ tháng 8 đến tháng 9. Hình ảnh khách du lịch tận hưởng việc hái hoa quả cũng là cảnh sắc rất đúng kiểu mùa hè. Theo ông tôi, nghe nói mùa hè ngày xưa không nóng như bây giờ nên vị hoa quả cũng hơi khác. Cái gọi là 'sự nóng lên toàn cầu' nghĩa là hiện tượng nhiệt độ toàn bộ trái đất tăng lên qua thời gian dài. Việc ăn hoa quả mùa hè không chỉ là tận hưởng vị ngon, mà còn là một thói quen quan trọng để cảm nhận mùa. Tôi nghĩ từ giờ trở đi cũng muốn thưởng thức vị ngon chỉ có ở thời điểm đó.",
+    "vocabulary": [
+      {"word": "桃", "reading": "もも", "meaning": "đào (quả)"},
+      {"word": "旬", "reading": "しゅん", "meaning": "mùa, mùa vụ ngon nhất"},
+      {"word": "甘み", "reading": "あまみ", "meaning": "vị ngọt"},
+      {"word": "品種", "reading": "ひんしゅ", "meaning": "giống, chủng loại"},
+      {"word": "改良", "reading": "かいりょう", "meaning": "cải tiến, cải tạo"},
+      {"word": "収穫", "reading": "しゅうかく", "meaning": "thu hoạch"},
+      {"word": "果物狩り", "reading": "くだものがり", "meaning": "việc hái hoa quả"},
+      {"word": "風景", "reading": "ふうけい", "meaning": "phong cảnh, cảnh sắc"},
+      {"word": "祖父", "reading": "そふ", "meaning": "ông nội/ngoại"},
+      {"word": "温暖化", "reading": "おんだんか", "meaning": "sự nóng lên (khí hậu)"},
+      {"word": "現象", "reading": "げんしょう", "meaning": "hiện tượng"}
+    ],
+    "process": [
+      {
+        "sentence": "日本の夏の果物といえば、すいかや桃、ぶどうなどがすぐに思い浮かぶ。",
+        "chunks": "日本の夏の果物といえば / すいかや桃、ぶどうなどが / すぐに思い浮かぶ",
+        "guide": "日本の夏の果物といえば → ～といえば = 'nhắc đến ~ thì' → đặt chủ đề liên tưởng → すいかや桃、ぶどうなど → や liệt kê 'nào là, và' → すぐに思い浮かぶ = nghĩ ra ngay → 🔒 Đóng gói: [hoa quả hè JP → dưa hấu/đào/nho]",
+        "translation": "Nhắc đến hoa quả mùa hè Nhật Bản, ngay lập tức nghĩ đến dưa hấu, đào, nho và những thứ khác."
+      },
+      {
+        "sentence": "これらは六月末から八月にかけて、店先にたくさん並ぶ。",
+        "chunks": "これらは / 六月末から八月にかけて / 店先にたくさん並ぶ",
+        "guide": "これらは → chủ đề những thứ vừa nói → 六月末から八月にかけて → ～から～にかけて = 'từ ~ đến ~' phạm vi rộng → 店先にたくさん並ぶ = bày nhiều ở trước cửa tiệm → 🔒 Đóng gói: [những thứ này → cuối T6 → T8 → bày đầy tiệm]",
+        "translation": "Những loại này được bày rất nhiều ở cửa tiệm từ cuối tháng 6 đến tháng 8."
+      },
+      {
+        "sentence": "「旬」というのは、その食べ物が一年で一番おいしい時期のことを言う。",
+        "chunks": "「旬」というのは / その食べ物が一年で一番おいしい時期のことを / 言う",
+        "guide": "「旬」というのは → ～というのは = 'cái gọi là ~ thì, ~ nghĩa là' → định nghĩa khái niệm → その食べ物が一年で一番おいしい時期 = thời kỳ thức ăn đó ngon nhất trong năm → のことを言う = (nói tới) chính việc đó → 🔒 Đóng gói: [shun = thời điểm ngon nhất trong năm]",
+        "translation": "Cái gọi là 'mùa vụ' nghĩa là thời kỳ một thứ đồ ăn ngon nhất trong năm."
+      },
+      {
+        "sentence": "たとえば、桃の旬は七月から八月にかけてで、香りが強くて甘みも濃い。",
+        "chunks": "たとえば / 桃の旬は七月から八月にかけてで / 香りが強くて甘みも濃い",
+        "guide": "たとえば = ví dụ → 桃の旬は = mùa của đào → 七月から八月にかけて → ～から～にかけて lần thứ hai → phạm vi tháng → で nối câu → 香りが強くて = hương mạnh → 甘みも濃い = vị ngọt cũng đậm → 🔒 Đóng gói: [đào shun T7→T8 → thơm + ngọt đậm]",
+        "translation": "Ví dụ, mùa của đào là từ tháng 7 đến tháng 8, hương thơm mạnh và vị ngọt cũng đậm."
+      },
+      {
+        "sentence": "すいかは大きくて重く、夏らしい果物の代表だと言える。",
+        "chunks": "すいかは大きくて重く / 夏らしい果物の代表だと / 言える",
+        "guide": "すいかは = dưa hấu → 大きくて重く = to + nặng → 夏らしい → ～らしい = 'đúng kiểu, đúng chất' (đặc trưng tiêu biểu) → 夏らしい果物 = quả đúng chất mùa hè → 代表だと言える = có thể nói là tiêu biểu → 🔒 Đóng gói: [dưa hấu = đại diện quả 'đúng chất hè']",
+        "translation": "Dưa hấu to và nặng, có thể nói là loại quả tiêu biểu rất đúng kiểu mùa hè."
+      },
+      {
+        "sentence": "最近は、皮が薄くて食べやすい新しい品種も出ているらしい。",
+        "chunks": "最近は / 皮が薄くて食べやすい新しい品種も / 出ているらしい",
+        "guide": "最近は → chủ đề thời điểm → 皮が薄くて食べやすい = vỏ mỏng và dễ ăn → 新しい品種も = giống mới cũng → 出ているらしい → ～らしい lần thứ hai → ở đây nghĩa 'nghe nói' (phỏng đoán có căn cứ) → 🔒 Đóng gói: [gần đây nghe nói → giống mới vỏ mỏng]",
+        "translation": "Gần đây, nghe nói cũng có những giống mới có vỏ mỏng và dễ ăn."
+      },
+      {
+        "sentence": "「品種改良」というのは、味や形を良くするために果物を少しずつ変えていく技術のことだ。",
+        "chunks": "「品種改良」というのは / 味や形を良くするために / 果物を少しずつ変えていく技術のことだ",
+        "guide": "「品種改良」というのは → ～というのは lần thứ hai → định nghĩa → 味や形を良くするために = để cải thiện vị và hình → ために mục đích → 果物を少しずつ変えていく技術 = kỹ thuật thay đổi từng chút quả → ことだ = chính là việc/cái → 🔒 Đóng gói: [hinshu kairyou = kỹ thuật thay đổi quả từng chút để tốt hơn]",
+        "translation": "Cái gọi là 'cải tiến giống' nghĩa là kỹ thuật thay đổi từng chút một để cải thiện vị và hình dáng của hoa quả."
+      },
+      {
+        "sentence": "山梨県や長野県では、八月から九月にかけてぶどうの収穫が一番忙しいらしい。",
+        "chunks": "山梨県や長野県では / 八月から九月にかけて / ぶどうの収穫が一番忙しいらしい",
+        "guide": "山梨県や長野県では → chủ đề + で địa điểm → 八月から九月にかけて → ～から～にかけて lần thứ ba → phạm vi tháng → ぶどうの収穫が一番忙しい = thu hoạch nho bận nhất → らしい → ～らしい lần thứ ba → 'nghe nói' → 🔒 Đóng gói: [Yamanashi/Nagano → T8→T9 → thu hoạch nho bận]",
+        "translation": "Tại tỉnh Yamanashi và Nagano, nghe nói việc thu hoạch nho bận rộn nhất là từ tháng 8 đến tháng 9."
+      },
+      {
+        "sentence": "観光客が果物狩りを楽しむ姿も、いかにも夏らしい風景だ。",
+        "chunks": "観光客が果物狩りを楽しむ姿も / いかにも夏らしい / 風景だ",
+        "guide": "観光客が果物狩りを楽しむ姿も = hình ảnh khách hái quả → いかにも = thật là, đúng là (nhấn mạnh) → 夏らしい → ～らしい lần thứ tư → 'đúng chất mùa hè' (đặc trưng) → 風景だ = là cảnh sắc → 🔒 Đóng gói: [khách hái quả = cảnh đúng chất hè]",
+        "translation": "Hình ảnh khách du lịch tận hưởng việc hái hoa quả cũng là cảnh sắc rất đúng kiểu mùa hè."
+      },
+      {
+        "sentence": "私の祖父によると、昔の夏は今ほど暑くなかったから、果物の味も少し違ったらしい。",
+        "chunks": "私の祖父によると / 昔の夏は今ほど暑くなかったから / 果物の味も少し違ったらしい",
+        "guide": "私の祖父によると = theo ông tôi → によると nguồn tin → 昔の夏は今ほど暑くなかった = mùa hè xưa không nóng bằng nay → から lý do → 果物の味も少し違った = vị quả cũng hơi khác → らしい → ～らしい lần thứ năm → 'nghe nói' → 🔒 Đóng gói: [ông kể: hè xưa mát hơn → vị quả khác]",
+        "translation": "Theo ông tôi, nghe nói mùa hè ngày xưa không nóng như bây giờ nên vị hoa quả cũng hơi khác."
+      },
+      {
+        "sentence": "「地球温暖化」というのは、地球全体の気温が長い時間をかけて上がっていく現象のことだそうだ。",
+        "chunks": "「地球温暖化」というのは / 地球全体の気温が長い時間をかけて上がっていく / 現象のことだそうだ",
+        "guide": "「地球温暖化」というのは → ～というのは lần thứ ba → định nghĩa thuật ngữ → 地球全体の気温が = nhiệt độ toàn trái đất → 長い時間をかけて上がっていく = tăng dần qua thời gian dài → 現象のことだ = chính là hiện tượng → そうだ truyền tin 'nghe nói' → 🔒 Đóng gói: [nóng lên toàn cầu = nhiệt độ trái đất tăng dần lâu dài]",
+        "translation": "Cái gọi là 'sự nóng lên toàn cầu' nghĩa là hiện tượng nhiệt độ toàn bộ trái đất tăng lên qua thời gian dài."
+      },
+      {
+        "sentence": "夏の果物を食べるとは、ただおいしさを楽しむだけでなく、季節を感じる大切な習慣でもある。",
+        "chunks": "夏の果物を食べるとは / ただおいしさを楽しむだけでなく / 季節を感じる大切な習慣でもある",
+        "guide": "夏の果物を食べるとは → ～とは = '~ nghĩa là, việc ~' (định nghĩa hành động/khái niệm) → ただ～だけでなく = không chỉ ~ mà → おいしさを楽しむ = tận hưởng vị ngon → 季節を感じる大切な習慣でもある = cũng là thói quen quan trọng cảm nhận mùa → 🔒 Đóng gói: [ăn quả hè = không chỉ ngon mà còn cảm nhận mùa]",
+        "translation": "Việc ăn hoa quả mùa hè không chỉ là tận hưởng vị ngon, mà còn là một thói quen quan trọng để cảm nhận mùa."
+      },
+      {
+        "sentence": "これからも、その時期だけのおいしさを味わいたいと思う。",
+        "chunks": "これからも / その時期だけのおいしさを / 味わいたいと思う",
+        "guide": "これからも = từ giờ trở đi cũng → その時期だけの = chỉ riêng thời kỳ đó → おいしさを = vị ngon → 味わいたいと思う = nghĩ là muốn thưởng thức → 🔒 Đóng gói: [muốn tiếp tục nếm vị ngon đặc trưng từng mùa]",
+        "translation": "Tôi nghĩ từ giờ trở đi cũng muốn thưởng thức vị ngon chỉ có ở thời điểm đó."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0277_Q1",
+        "question": "桃の旬はいつごろですか。",
+        "question_vi": "Mùa của đào là vào khoảng khi nào?",
+        "answers": [
+          {"text": "五月から六月にかけて。", "text_vi": "Từ tháng 5 đến tháng 6.", "is_correct": false},
+          {"text": "七月から八月にかけて。", "text_vi": "Từ tháng 7 đến tháng 8.", "is_correct": true},
+          {"text": "九月から十月にかけて。", "text_vi": "Từ tháng 9 đến tháng 10.", "is_correct": false},
+          {"text": "十一月から十二月にかけて。", "text_vi": "Từ tháng 11 đến tháng 12.", "is_correct": false}
+        ],
+        "explanation": "Câu 4 nói rõ 「桃の旬は七月から八月にかけてで、香りが強くて甘みも濃い」→ ～から～にかけて = từ ~ đến ~ → mùa đào ngon nhất rơi vào T7-T8."
+      },
+      {
+        "id": "R_0277_Q2",
+        "question": "「品種改良」とは、どんな技術のことですか。",
+        "question_vi": "'Cải tiến giống' là kỹ thuật thế nào?",
+        "answers": [
+          {"text": "果物を冷蔵庫で長く保存する技術。", "text_vi": "Kỹ thuật bảo quản hoa quả lâu trong tủ lạnh.", "is_correct": false},
+          {"text": "味や形を良くするために、果物を少しずつ変えていく技術。", "text_vi": "Kỹ thuật thay đổi hoa quả từng chút một để cải thiện vị và hình dáng.", "is_correct": true},
+          {"text": "外国から新しい果物を輸入する技術。", "text_vi": "Kỹ thuật nhập khẩu hoa quả mới từ nước ngoài.", "is_correct": false},
+          {"text": "果物の値段を安くする技術。", "text_vi": "Kỹ thuật làm giá hoa quả rẻ đi.", "is_correct": false}
+        ],
+        "explanation": "Câu 7 định nghĩa rõ 「『品種改良』というのは、味や形を良くするために果物を少しずつ変えていく技術のことだ」→ ～というのは = nghĩa là → định nghĩa trực tiếp khái niệm 品種改良."
+      },
+      {
+        "id": "R_0277_Q3",
+        "question": "筆者は夏の果物を食べることについてどう考えていますか。",
+        "question_vi": "Tác giả nghĩ thế nào về việc ăn hoa quả mùa hè?",
+        "answers": [
+          {"text": "ただ太る原因なので、控えるべきだ。", "text_vi": "Chỉ là nguyên nhân béo nên nên hạn chế.", "is_correct": false},
+          {"text": "おいしさだけを目的にすればよい。", "text_vi": "Chỉ cần lấy vị ngon làm mục đích là đủ.", "is_correct": false},
+          {"text": "おいしさを楽しむだけでなく、季節を感じる大切な習慣でもある。", "text_vi": "Không chỉ tận hưởng vị ngon mà còn là thói quen quan trọng để cảm nhận mùa.", "is_correct": true},
+          {"text": "高すぎるので、買わない方がいい。", "text_vi": "Quá đắt nên không nên mua.", "is_correct": false}
+        ],
+        "explanation": "Câu 12 trực tiếp nói 「夏の果物を食べるとは、ただおいしさを楽しむだけでなく、季節を感じる大切な習慣でもある」→ ～とは = ~ nghĩa là + ただ～だけでなく = không chỉ ~ mà còn → đây là quan điểm tổng kết của tác giả."
+      }
+    ]
+  },
+  {
+    "id": "R_0278",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "小学校の卒業式",
+    "title_vi": "Lễ tốt nghiệp tiểu học",
+    "topic": "school_life",
+    "subtopic": "lễ tốt nghiệp tiểu học",
+    "tags": ["際に", "として", "をこめて"],
+    "grammar_used": ["～際に", "～として", "～をこめて"],
+    "sentence_count": 13,
+    "text": "三月のある朝、私は娘の小学校の卒業式に参加した。式場に入る際に、先生方が一人ひとりにやさしく声をかけてくださった。私は保護者として、後ろの席から子供たちの姿を見守った。校長先生は心をこめて、六年間の思い出を一つずつ話してくださった。子供たちは、感謝をこめた歌を歌い、聞いている保護者の目にも涙が浮かんだ。卒業証書を受け取る際に、娘は緊張した顔で背中をまっすぐ伸ばした。担任の先生は、クラス代表として一人ずつ名前を読み上げた。私は親として、娘がここまで成長したことを心から誇りに思った。式の最後に、子供たちは在校生に向けて感謝をこめてお辞儀をした。卒業生として最後の挨拶をする際に、娘の声は少し震えていた。校門を出る際に、友達同士で写真を撮り合う姿がたくさん見られた。先生方は、一人の教育者としていつも子供を大切にしてくださったのだと感じた。これからも、感謝をこめてあの日のことを忘れずにいたいと思う。",
+    "translation": "Một buổi sáng tháng ba, tôi đã tham dự lễ tốt nghiệp tiểu học của con gái. Khi vào hội trường, các thầy cô đã ân cần lên tiếng với từng người một. Tôi với tư cách là phụ huynh, từ ghế phía sau đã dõi theo hình ảnh các em nhỏ. Thầy hiệu trưởng đã kể lại từng kỷ niệm của sáu năm với tất cả tấm lòng. Các em nhỏ đã hát một bài hát gửi gắm lòng biết ơn, và mắt các bậc phụ huynh nghe cũng rưng rưng nước mắt. Khi nhận bằng tốt nghiệp, con gái tôi đã giữ gương mặt căng thẳng và thẳng lưng lên. Thầy chủ nhiệm với tư cách là đại diện lớp, đã đọc tên từng em một. Tôi với tư cách là cha mẹ, đã thật sự tự hào trong lòng vì con gái đã trưởng thành đến như vậy. Cuối buổi lễ, các em nhỏ đã cúi chào với tất cả lòng biết ơn hướng về các em đang còn học. Khi với tư cách là học sinh tốt nghiệp đọc lời chào cuối cùng, giọng con gái tôi hơi run. Khi ra khỏi cổng trường, có thể thấy nhiều cảnh bạn bè chụp ảnh cho nhau. Tôi cảm nhận rằng các thầy cô với tư cách là một người làm giáo dục đã luôn quan tâm đến các em. Từ giờ trở đi, tôi muốn không quên ngày hôm đó với tất cả lòng biết ơn.",
+    "vocabulary": [
+      {"word": "卒業式", "reading": "そつぎょうしき", "meaning": "lễ tốt nghiệp"},
+      {"word": "式場", "reading": "しきじょう", "meaning": "hội trường nghi lễ"},
+      {"word": "保護者", "reading": "ほごしゃ", "meaning": "phụ huynh, người giám hộ"},
+      {"word": "校長", "reading": "こうちょう", "meaning": "hiệu trưởng"},
+      {"word": "卒業証書", "reading": "そつぎょうしょうしょ", "meaning": "bằng tốt nghiệp"},
+      {"word": "緊張", "reading": "きんちょう", "meaning": "căng thẳng, hồi hộp"},
+      {"word": "担任", "reading": "たんにん", "meaning": "(thầy cô) chủ nhiệm"},
+      {"word": "誇り", "reading": "ほこり", "meaning": "niềm tự hào"},
+      {"word": "在校生", "reading": "ざいこうせい", "meaning": "học sinh đang học (chưa tốt nghiệp)"},
+      {"word": "震える", "reading": "ふるえる", "meaning": "run rẩy, run"},
+      {"word": "教育者", "reading": "きょういくしゃ", "meaning": "người làm giáo dục, nhà giáo"}
+    ],
+    "process": [
+      {
+        "sentence": "三月のある朝、私は娘の小学校の卒業式に参加した。",
+        "chunks": "三月のある朝 / 私は / 娘の小学校の卒業式に参加した",
+        "guide": "三月のある朝 = một buổi sáng tháng 3 → bối cảnh thời gian → 私は → chủ đề → 娘の小学校の卒業式に = lễ tốt nghiệp tiểu học của con gái → 参加した = đã tham dự → 🔒 Đóng gói: [T3 sáng → tôi đến lễ tốt nghiệp con]",
+        "translation": "Một buổi sáng tháng ba, tôi đã tham dự lễ tốt nghiệp tiểu học của con gái."
+      },
+      {
+        "sentence": "式場に入る際に、先生方が一人ひとりにやさしく声をかけてくださった。",
+        "chunks": "式場に入る際に / 先生方が一人ひとりに / やさしく声をかけてくださった",
+        "guide": "式場に入る際に → ～際に = 'khi, lúc' (trang trọng hơn とき) → 先生方 = các thầy cô (kính ngữ phức) → 一人ひとりに = đến từng người → やさしく声をかけてくださった = ân cần lên tiếng (cho tôi/chúng tôi) → くださった kính ngữ → 🔒 Đóng gói: [lúc vào hội trường → thầy cô ân cần chào từng người]",
+        "translation": "Khi vào hội trường, các thầy cô đã ân cần lên tiếng với từng người một."
+      },
+      {
+        "sentence": "私は保護者として、後ろの席から子供たちの姿を見守った。",
+        "chunks": "私は保護者として / 後ろの席から / 子供たちの姿を見守った",
+        "guide": "私は保護者として → ～として = 'với tư cách là, ở vai trò' → 保護者として = với tư cách phụ huynh → 後ろの席から = từ ghế phía sau → 子供たちの姿を見守った = dõi theo các con → 🔒 Đóng gói: [tôi (vai phụ huynh) → từ ghế sau → dõi theo các con]",
+        "translation": "Tôi với tư cách là phụ huynh, từ ghế phía sau đã dõi theo hình ảnh các em nhỏ."
+      },
+      {
+        "sentence": "校長先生は心をこめて、六年間の思い出を一つずつ話してくださった。",
+        "chunks": "校長先生は心をこめて / 六年間の思い出を / 一つずつ話してくださった",
+        "guide": "校長先生は = thầy hiệu trưởng → 心をこめて → ～をこめて = 'với tất cả ~, gửi gắm' → 心をこめて = với cả tấm lòng → 六年間の思い出を = kỷ niệm 6 năm → 一つずつ = từng cái → 話してくださった = đã kể (kính ngữ) → 🔒 Đóng gói: [hiệu trưởng → cả tấm lòng → kể từng kỷ niệm 6 năm]",
+        "translation": "Thầy hiệu trưởng đã kể lại từng kỷ niệm của sáu năm với tất cả tấm lòng."
+      },
+      {
+        "sentence": "子供たちは、感謝をこめた歌を歌い、聞いている保護者の目にも涙が浮かんだ。",
+        "chunks": "子供たちは / 感謝をこめた歌を歌い / 聞いている保護者の目にも涙が浮かんだ",
+        "guide": "子供たちは = các em → 感謝をこめた → ～をこめて lần thứ hai (dạng こめた modifier) → 'gửi gắm lòng biết ơn' → 歌を歌い = hát bài hát + 連用形 nối → 聞いている保護者の目にも = trong mắt phụ huynh đang nghe cũng → 涙が浮かんだ = nước mắt rưng rưng → 🔒 Đóng gói: [trẻ hát bài gửi lòng biết ơn → phụ huynh khóc]",
+        "translation": "Các em nhỏ đã hát một bài hát gửi gắm lòng biết ơn, và mắt các bậc phụ huynh nghe cũng rưng rưng nước mắt."
+      },
+      {
+        "sentence": "卒業証書を受け取る際に、娘は緊張した顔で背中をまっすぐ伸ばした。",
+        "chunks": "卒業証書を受け取る際に / 娘は緊張した顔で / 背中をまっすぐ伸ばした",
+        "guide": "卒業証書を受け取る際に → ～際に lần thứ hai → 'lúc nhận bằng' → 娘は緊張した顔で = con gái với gương mặt căng → で trạng thái → 背中をまっすぐ伸ばした = thẳng lưng lên → 🔒 Đóng gói: [lúc nhận bằng → con căng + thẳng lưng]",
+        "translation": "Khi nhận bằng tốt nghiệp, con gái tôi đã giữ gương mặt căng thẳng và thẳng lưng lên."
+      },
+      {
+        "sentence": "担任の先生は、クラス代表として一人ずつ名前を読み上げた。",
+        "chunks": "担任の先生は / クラス代表として / 一人ずつ名前を読み上げた",
+        "guide": "担任の先生は = thầy chủ nhiệm → クラス代表として → ～として lần thứ hai → 'với tư cách đại diện lớp' → 一人ずつ = từng người → 名前を読み上げた = đọc tên lên → 🔒 Đóng gói: [thầy chủ nhiệm (vai đại diện lớp) → đọc tên từng em]",
+        "translation": "Thầy chủ nhiệm với tư cách là đại diện lớp, đã đọc tên từng em một."
+      },
+      {
+        "sentence": "私は親として、娘がここまで成長したことを心から誇りに思った。",
+        "chunks": "私は親として / 娘がここまで成長したことを / 心から誇りに思った",
+        "guide": "私は親として → ～として lần thứ ba → 'với tư cách cha mẹ' → 娘がここまで成長したことを = việc con đã trưởng thành đến đây → 心から = từ trong lòng → 誇りに思った = đã thấy tự hào → 🔒 Đóng gói: [tôi (vai cha mẹ) → tự hào con đã trưởng thành]",
+        "translation": "Tôi với tư cách là cha mẹ, đã thật sự tự hào trong lòng vì con gái đã trưởng thành đến như vậy."
+      },
+      {
+        "sentence": "式の最後に、子供たちは在校生に向けて感謝をこめてお辞儀をした。",
+        "chunks": "式の最後に / 子供たちは在校生に向けて / 感謝をこめてお辞儀をした",
+        "guide": "式の最後に = cuối buổi lễ → 子供たちは = các em → 在校生に向けて = hướng về học sinh đang còn học → 感謝をこめて → ～をこめて lần thứ ba → 'với cả lòng biết ơn' → お辞儀をした = đã cúi chào → 🔒 Đóng gói: [cuối lễ → trẻ cúi chào em khoá dưới với lòng biết ơn]",
+        "translation": "Cuối buổi lễ, các em nhỏ đã cúi chào với tất cả lòng biết ơn hướng về các em đang còn học."
+      },
+      {
+        "sentence": "卒業生として最後の挨拶をする際に、娘の声は少し震えていた。",
+        "chunks": "卒業生として / 最後の挨拶をする際に / 娘の声は少し震えていた",
+        "guide": "卒業生として → ～として lần thứ tư → 'với tư cách học sinh tốt nghiệp' → 最後の挨拶をする際に → ～際に lần thứ ba → 'lúc đọc lời chào cuối' → 娘の声は少し震えていた = giọng con hơi run → 🔒 Đóng gói: [lúc con (vai HS tốt nghiệp) đọc lời chào → giọng run]",
+        "translation": "Khi với tư cách là học sinh tốt nghiệp đọc lời chào cuối cùng, giọng con gái tôi hơi run."
+      },
+      {
+        "sentence": "校門を出る際に、友達同士で写真を撮り合う姿がたくさん見られた。",
+        "chunks": "校門を出る際に / 友達同士で / 写真を撮り合う姿がたくさん見られた",
+        "guide": "校門を出る際に → ～際に lần thứ tư → 'lúc ra cổng trường' → 友達同士で = giữa bạn bè với nhau → 同士 = lẫn nhau → 写真を撮り合う = chụp ảnh cho nhau → 撮り合う = hành động qua lại → 姿がたくさん見られた = thấy được nhiều cảnh → 🔒 Đóng gói: [lúc ra cổng → bạn bè chụp ảnh cho nhau nhiều]",
+        "translation": "Khi ra khỏi cổng trường, có thể thấy nhiều cảnh bạn bè chụp ảnh cho nhau."
+      },
+      {
+        "sentence": "先生方は、一人の教育者としていつも子供を大切にしてくださったのだと感じた。",
+        "chunks": "先生方は / 一人の教育者として / いつも子供を大切にしてくださったのだと感じた",
+        "guide": "先生方は = các thầy cô → 一人の教育者として → ～として lần thứ năm → 'với tư cách một người làm giáo dục' → いつも子供を大切にしてくださった = luôn quan tâm các em (kính ngữ) → のだ giải thích → と感じた = tôi cảm thấy → 🔒 Đóng gói: [thầy cô (vai nhà giáo dục) → luôn coi trọng học sinh]",
+        "translation": "Tôi cảm nhận rằng các thầy cô với tư cách là một người làm giáo dục đã luôn quan tâm đến các em."
+      },
+      {
+        "sentence": "これからも、感謝をこめてあの日のことを忘れずにいたいと思う。",
+        "chunks": "これからも / 感謝をこめて / あの日のことを忘れずにいたいと思う",
+        "guide": "これからも = từ giờ trở đi cũng → 感謝をこめて → ～をこめて lần thứ tư → 'với cả lòng biết ơn' → あの日のことを = về ngày hôm đó → 忘れずに = không quên → ずに dạng phủ định bổ ngữ → いたいと思う = nghĩ là muốn giữ → 🔒 Đóng gói: [muốn giữ lòng biết ơn + không quên ngày đó]",
+        "translation": "Từ giờ trở đi, tôi muốn không quên ngày hôm đó với tất cả lòng biết ơn."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0278_Q1",
+        "question": "筆者はどんな立場で卒業式に参加しましたか。",
+        "question_vi": "Tác giả đã tham dự lễ tốt nghiệp với tư cách gì?",
+        "answers": [
+          {"text": "教師として参加した。", "text_vi": "Tham dự với tư cách giáo viên.", "is_correct": false},
+          {"text": "保護者・親として参加した。", "text_vi": "Tham dự với tư cách phụ huynh, cha mẹ.", "is_correct": true},
+          {"text": "在校生の代表として参加した。", "text_vi": "Tham dự với tư cách đại diện học sinh đang học.", "is_correct": false},
+          {"text": "学校の事務員として参加した。", "text_vi": "Tham dự với tư cách nhân viên hành chính trường.", "is_correct": false}
+        ],
+        "explanation": "Câu 3 nói 「私は保護者として、後ろの席から子供たちの姿を見守った」 và câu 8 lặp lại 「私は親として」 → ～として = với tư cách → tác giả là phụ huynh/cha mẹ. Câu 1 cũng nói rõ là 'lễ tốt nghiệp của con gái tôi'."
+      },
+      {
+        "id": "R_0278_Q2",
+        "question": "卒業証書を受け取る際に、娘はどんな様子でしたか。",
+        "question_vi": "Lúc nhận bằng tốt nghiệp, con gái tác giả ra sao?",
+        "answers": [
+          {"text": "笑いながら受け取った。", "text_vi": "Vừa cười vừa nhận.", "is_correct": false},
+          {"text": "泣きながら受け取った。", "text_vi": "Vừa khóc vừa nhận.", "is_correct": false},
+          {"text": "緊張した顔で背中をまっすぐ伸ばした。", "text_vi": "Giữ gương mặt căng thẳng và thẳng lưng lên.", "is_correct": true},
+          {"text": "下を向いて受け取った。", "text_vi": "Cúi đầu xuống mà nhận.", "is_correct": false}
+        ],
+        "explanation": "Câu 6 nói rõ 「卒業証書を受け取る際に、娘は緊張した顔で背中をまっすぐ伸ばした」→ ～際に = lúc + 緊張した顔 + 背中をまっすぐ → đáp án đúng tả nguyên văn cảnh đó."
+      },
+      {
+        "id": "R_0278_Q3",
+        "question": "本文全体から、筆者がこの卒業式についてどう感じていることが分かりますか。",
+        "question_vi": "Từ toàn bài, có thể hiểu tác giả cảm thấy thế nào về lễ tốt nghiệp này?",
+        "answers": [
+          {"text": "退屈だったので早く帰りたかった。", "text_vi": "Cảm thấy chán nên muốn về sớm.", "is_correct": false},
+          {"text": "形式的で意味がなかったと感じた。", "text_vi": "Cảm thấy chỉ là hình thức và không có ý nghĩa.", "is_correct": false},
+          {"text": "娘の成長を誇りに思い、感謝をこめて忘れずにいたい大切な日だと感じた。", "text_vi": "Cảm thấy tự hào về sự trưởng thành của con và đó là ngày quan trọng muốn không quên với cả tấm lòng biết ơn.", "is_correct": true},
+          {"text": "先生方に少し不満があった。", "text_vi": "Có chút không hài lòng với các thầy cô.", "is_correct": false}
+        ],
+        "explanation": "Câu 8 「娘がここまで成長したことを心から誇りに思った」 + câu 12 「先生方は…子供を大切にしてくださったのだと感じた」 + câu 13 「感謝をこめてあの日のことを忘れずにいたい」→ ～をこめて = với cả ~ → tác giả vừa tự hào vừa biết ơn, coi đó là ngày quan trọng. Đây là kết luận tổng hợp xuyên suốt bài."
+      }
+    ]
+  }
+]

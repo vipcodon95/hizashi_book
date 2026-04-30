@@ -1,0 +1,439 @@
+[
+  {
+    "id": "R_0252",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "朝の習慣",
+    "title_vi": "Thói quen buổi sáng",
+    "topic": "lifestyle",
+    "subtopic": "thói quen buổi sáng",
+    "tags": ["ことにしています", "てくる", "について"],
+    "grammar_used": ["～ことにしています", "～てくる", "～について"],
+    "sentence_count": 13,
+    "text": "私は毎朝六時に起きることにしています。社会人になってから、朝の時間の使い方について真剣に考えるようになった。最初はなかなか早く起きられなかったが、続けているうちに体が慣れてきた。起きたらまず、コップ一杯の水を飲むことにしています。それから、十分くらい簡単なストレッチをする。最近、朝のニュースについてよく目を通すようになってきた。世の中の動きについて知っておくと、仕事の会話にも役立つからだ。朝ごはんはなるべく和食にすることにしています。ご飯と味噌汁を食べると、午前中ずっと元気が続いてくる気がする。家を出る前に、その日の予定について手帳を確認するのも習慣だ。こうした朝の習慣を続けてくると、一日の質が大きく変わってきた。慌てずに行動できるようになってきたのが、一番の変化だと感じている。朝の過ごし方について、これからも工夫していきたい。",
+    "translation": "Tôi tự đặt cho mình thói quen mỗi sáng dậy lúc sáu giờ. Từ khi đi làm, tôi bắt đầu suy nghĩ nghiêm túc về cách sử dụng thời gian buổi sáng. Ban đầu rất khó dậy sớm, nhưng cứ duy trì thì cơ thể dần dần quen. Sau khi dậy, trước tiên tôi đặt thói quen uống một cốc nước đầy. Sau đó, tôi giãn cơ đơn giản khoảng mười phút. Gần đây tôi cũng dần dần bắt đầu xem qua tin tức buổi sáng. Vì biết về những chuyển động của xã hội thì có ích cho cả những cuộc trò chuyện ở công ty. Tôi tự đặt thói quen ăn sáng kiểu Nhật càng nhiều càng tốt. Khi ăn cơm với canh miso, tôi có cảm giác sức lực kéo dài suốt buổi sáng. Trước khi rời nhà, kiểm tra sổ tay về lịch trình ngày hôm đó cũng là một thói quen. Khi tôi tiếp tục những thói quen buổi sáng này, chất lượng một ngày dần dần thay đổi rất nhiều. Tôi cảm thấy thay đổi lớn nhất là việc tôi đã trở nên hành động không vội vàng. Về cách tận hưởng buổi sáng, tôi muốn tiếp tục cải thiện trong tương lai.",
+    "vocabulary": [
+      {"word": "社会人", "reading": "しゃかいじん", "meaning": "người đi làm, người trưởng thành"},
+      {"word": "真剣", "reading": "しんけん", "meaning": "nghiêm túc, thật sự"},
+      {"word": "慣れる", "reading": "なれる", "meaning": "quen, làm quen"},
+      {"word": "目を通す", "reading": "めをとおす", "meaning": "lướt qua, đọc qua"},
+      {"word": "動き", "reading": "うごき", "meaning": "chuyển động, biến động"},
+      {"word": "和食", "reading": "わしょく", "meaning": "đồ ăn kiểu Nhật"},
+      {"word": "味噌汁", "reading": "みそしる", "meaning": "canh miso"},
+      {"word": "手帳", "reading": "てちょう", "meaning": "sổ tay"},
+      {"word": "工夫", "reading": "くふう", "meaning": "cải tiến, sáng kiến"},
+      {"word": "慌てる", "reading": "あわてる", "meaning": "vội vàng, hấp tấp"}
+    ],
+    "process": [
+      {
+        "sentence": "私は毎朝六時に起きることにしています。",
+        "chunks": "私は / 毎朝六時に / 起きることにしています",
+        "guide": "私は → chủ đề tác giả → 毎朝六時に → bối cảnh thời gian → 起きることにしています → ～ことにしている = 'tự đặt thói quen cho bản thân' → khác ことになっている (quy định khách quan) → 🔒 Đóng gói: [tác giả tự quy định dậy 6h mỗi sáng]",
+        "translation": "Tôi tự đặt cho mình thói quen mỗi sáng dậy lúc sáu giờ."
+      },
+      {
+        "sentence": "社会人になってから、朝の時間の使い方について真剣に考えるようになった。",
+        "chunks": "社会人になってから / 朝の時間の使い方について / 真剣に / 考えるようになった",
+        "guide": "社会人になってから → から chỉ điểm khởi đầu thời gian → 朝の時間の使い方について → ～について = 'về, liên quan đến' → chủ đề suy nghĩ → 真剣に = nghiêm túc → 考えるようになった = 'bắt đầu trở nên suy nghĩ' → 🔒 Đóng gói: [đi làm → bắt đầu suy nghĩ về thời gian sáng]",
+        "translation": "Từ khi đi làm, tôi bắt đầu suy nghĩ nghiêm túc về cách sử dụng thời gian buổi sáng."
+      },
+      {
+        "sentence": "最初はなかなか早く起きられなかったが、続けているうちに体が慣れてきた。",
+        "chunks": "最初は / なかなか早く起きられなかったが / 続けているうちに / 体が慣れてきた",
+        "guide": "最初は → chủ đề thời điểm đầu → なかなか～なかった = 'mãi không' → が tương phản → 続けているうちに = 'trong khi tiếp tục' → 体が慣れてきた → ～てくる = 'dần dần xảy ra theo thời gian' → 慣れてきた = 'dần dần quen' → 🔒 Đóng gói: [ban đầu khó → duy trì → cơ thể dần quen]",
+        "translation": "Ban đầu rất khó dậy sớm, nhưng cứ duy trì thì cơ thể dần dần quen."
+      },
+      {
+        "sentence": "起きたらまず、コップ一杯の水を飲むことにしています。",
+        "chunks": "起きたらまず / コップ一杯の水を / 飲むことにしています",
+        "guide": "起きたら → ～たら điều kiện 'sau khi dậy' → まず = trước tiên → コップ一杯の水を → tân ngữ → 飲むことにしています → ～ことにしている lần thứ hai → 🔒 Đóng gói: [dậy → uống một cốc nước là thói quen tự đặt]",
+        "translation": "Sau khi dậy, trước tiên tôi đặt thói quen uống một cốc nước đầy."
+      },
+      {
+        "sentence": "それから、十分くらい簡単なストレッチをする。",
+        "chunks": "それから / 十分くらい / 簡単なストレッチをする",
+        "guide": "それから = sau đó (nối tiếp hành động) → 十分くらい = khoảng 10 phút → くらい xấp xỉ → 簡単なストレッチをする = giãn cơ đơn giản → 🔒 Đóng gói: [sau khi uống nước → giãn cơ 10 phút]",
+        "translation": "Sau đó, tôi giãn cơ đơn giản khoảng mười phút."
+      },
+      {
+        "sentence": "最近、朝のニュースについてよく目を通すようになってきた。",
+        "chunks": "最近 / 朝のニュースについて / よく目を通すようになってきた",
+        "guide": "最近 = gần đây → 朝のニュースについて → ～について lần thứ hai → đối tượng quan tâm → よく目を通す = thường lướt qua → ようになってきた = 'dần dần trở nên...' → kết hợp ようになる + てくる → diễn tả thay đổi từ từ trong thời gian gần → 🔒 Đóng gói: [gần đây → bắt đầu xem tin tức buổi sáng]",
+        "translation": "Gần đây tôi cũng dần dần bắt đầu xem qua tin tức buổi sáng."
+      },
+      {
+        "sentence": "世の中の動きについて知っておくと、仕事の会話にも役立つからだ。",
+        "chunks": "世の中の動きについて / 知っておくと / 仕事の会話にも役立つからだ",
+        "guide": "世の中の動きについて → ～について lần thứ ba → biết về điều gì → 知っておく → ておく = chuẩn bị sẵn → と điều kiện 'nếu thì' → 仕事の会話にも役立つ = có ích cả cho trò chuyện công việc → からだ = 'là vì' giải thích lý do → 🔒 Đóng gói: [biết về xã hội → có ích cho công việc]",
+        "translation": "Vì biết về những chuyển động của xã hội thì có ích cho cả những cuộc trò chuyện ở công ty."
+      },
+      {
+        "sentence": "朝ごはんはなるべく和食にすることにしています。",
+        "chunks": "朝ごはんは / なるべく和食に / することにしています",
+        "guide": "朝ごはんは → chủ đề bữa sáng → なるべく = càng ~ càng tốt → 和食に → ～にする = chọn cái gì → することにしています → ～ことにしている lần thứ ba → 🔒 Đóng gói: [bữa sáng → cố gắng ăn đồ Nhật → thói quen tự đặt]",
+        "translation": "Tôi tự đặt thói quen ăn sáng kiểu Nhật càng nhiều càng tốt."
+      },
+      {
+        "sentence": "ご飯と味噌汁を食べると、午前中ずっと元気が続いてくる気がする。",
+        "chunks": "ご飯と味噌汁を食べると / 午前中ずっと / 元気が続いてくる気がする",
+        "guide": "ご飯と味噌汁を食べると → と điều kiện 'mỗi khi' → 午前中ずっと = suốt buổi sáng → 元気が続いてくる → ～てくる lần thứ hai → 'sức lực dần dần kéo đến/duy trì' → 気がする = có cảm giác → 🔒 Đóng gói: [ăn cơm + canh miso → sức lực dần kéo đến cả buổi sáng]",
+        "translation": "Khi ăn cơm với canh miso, tôi có cảm giác sức lực kéo dài suốt buổi sáng."
+      },
+      {
+        "sentence": "家を出る前に、その日の予定について手帳を確認するのも習慣だ。",
+        "chunks": "家を出る前に / その日の予定について / 手帳を確認するのも習慣だ",
+        "guide": "家を出る前に → 前に = trước khi → その日の予定について → ～について lần thứ tư → đối tượng kiểm tra → 手帳を確認するのも → のも = cả việc... cũng → 習慣だ = là thói quen → 🔒 Đóng gói: [trước khi ra khỏi nhà → kiểm tra lịch ngày → cũng là thói quen]",
+        "translation": "Trước khi rời nhà, kiểm tra sổ tay về lịch trình ngày hôm đó cũng là một thói quen."
+      },
+      {
+        "sentence": "こうした朝の習慣を続けてくると、一日の質が大きく変わってきた。",
+        "chunks": "こうした朝の習慣を / 続けてくると / 一日の質が大きく変わってきた",
+        "guide": "こうした = những thói quen như vậy → 続けてくると → 続けてくる + と → 'duy trì kéo dài đến hiện tại thì...' → 一日の質が大きく変わってきた → ～てくる lần thứ ba → 'chất lượng đã dần dần thay đổi lớn' → 🔒 Đóng gói: [duy trì thói quen → chất lượng ngày dần thay đổi]",
+        "translation": "Khi tôi tiếp tục những thói quen buổi sáng này, chất lượng một ngày dần dần thay đổi rất nhiều."
+      },
+      {
+        "sentence": "慌てずに行動できるようになってきたのが、一番の変化だと感じている。",
+        "chunks": "慌てずに / 行動できるようになってきたのが / 一番の変化だと感じている",
+        "guide": "慌てずに = không vội → ずに dạng phủ định bổ ngữ → 行動できるようになってきた → ようになる + てくる lần thứ hai → 'đã dần dần trở nên có thể hành động' → のが danh hóa → 一番の変化だと感じている = cảm thấy là thay đổi lớn nhất → 🔒 Đóng gói: [hành động không vội → là thay đổi lớn nhất]",
+        "translation": "Tôi cảm thấy thay đổi lớn nhất là việc tôi đã trở nên hành động không vội vàng."
+      },
+      {
+        "sentence": "朝の過ごし方について、これからも工夫していきたい。",
+        "chunks": "朝の過ごし方について / これからも / 工夫していきたい",
+        "guide": "朝の過ごし方について → ～について lần thứ năm → đối tượng cải tiến → これからも = từ giờ trở đi cũng → 工夫していきたい → ていく hướng tương lai + たい muốn → 'muốn tiếp tục cải tiến' → 🔒 Đóng gói: [về cách sống buổi sáng → vẫn muốn cải tiến tiếp]",
+        "translation": "Về cách tận hưởng buổi sáng, tôi muốn tiếp tục cải thiện trong tương lai."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0252_Q1",
+        "question": "筆者は朝起きてから最初に何をすることにしていますか。",
+        "question_vi": "Tác giả đã đặt thói quen làm gì đầu tiên sau khi dậy?",
+        "answers": [
+          {"text": "朝のニュースを見ること。", "text_vi": "Xem tin tức buổi sáng.", "is_correct": false},
+          {"text": "コップ一杯の水を飲むこと。", "text_vi": "Uống một cốc nước đầy.", "is_correct": true},
+          {"text": "簡単なストレッチをすること。", "text_vi": "Giãn cơ đơn giản.", "is_correct": false},
+          {"text": "手帳を確認すること。", "text_vi": "Kiểm tra sổ tay.", "is_correct": false}
+        ],
+        "explanation": "Câu 4 nói rõ 「起きたらまず、コップ一杯の水を飲むことにしています」 → まず = trước tiên + ことにしています = thói quen tự đặt → uống nước là việc đầu tiên. Stretching xảy ra sau đó (câu 5: それから)."
+      },
+      {
+        "id": "R_0252_Q2",
+        "question": "なぜ筆者は朝のニュースを見るようになりましたか。",
+        "question_vi": "Tại sao tác giả lại bắt đầu xem tin tức buổi sáng?",
+        "answers": [
+          {"text": "テレビを見るのが好きだから。", "text_vi": "Vì thích xem ti vi.", "is_correct": false},
+          {"text": "世の中の動きを知っておくと仕事の会話に役立つから。", "text_vi": "Vì biết về chuyển động xã hội sẽ có ích cho trò chuyện công việc.", "is_correct": true},
+          {"text": "ニュースが面白いから。", "text_vi": "Vì tin tức thú vị.", "is_correct": false},
+          {"text": "上司に頼まれたから。", "text_vi": "Vì được cấp trên nhờ.", "is_correct": false}
+        ],
+        "explanation": "Câu 7 trực tiếp giải thích 「世の中の動きについて知っておくと、仕事の会話にも役立つからだ」 → からだ = là vì → lý do là biết tình hình xã hội giúp ích cho trò chuyện công việc."
+      },
+      {
+        "id": "R_0252_Q3",
+        "question": "筆者は朝の習慣を続けてきて、最も大きな変化は何だと感じていますか。",
+        "question_vi": "Tác giả cảm thấy thay đổi lớn nhất sau khi duy trì thói quen buổi sáng là gì?",
+        "answers": [
+          {"text": "和食が好きになったこと。", "text_vi": "Trở nên thích đồ ăn Nhật.", "is_correct": false},
+          {"text": "朝早く起きるのが楽しくなったこと。", "text_vi": "Trở nên thích thú với việc dậy sớm.", "is_correct": false},
+          {"text": "慌てずに行動できるようになってきたこと。", "text_vi": "Đã dần dần trở nên có thể hành động không vội vàng.", "is_correct": true},
+          {"text": "ニュースに詳しくなったこと。", "text_vi": "Trở nên thông thạo tin tức.", "is_correct": false}
+        ],
+        "explanation": "Câu 12 nói rõ 「慌てずに行動できるようになってきたのが、一番の変化だと感じている」→ 一番の変化 = thay đổi lớn nhất → việc hành động không vội vàng. Đây là kết luận tổng hợp xuyên suốt bài về ý nghĩa của thói quen buổi sáng."
+      }
+    ]
+  },
+  {
+    "id": "R_0253",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "日本の朝ごはん",
+    "title_vi": "Bữa sáng kiểu Nhật",
+    "topic": "food",
+    "subtopic": "bữa sáng kiểu Nhật",
+    "tags": ["ような／ように", "らしい", "から～にかけて"],
+    "grammar_used": ["～ような／ように", "～らしい", "～から～にかけて"],
+    "sentence_count": 13,
+    "text": "日本の朝ごはんは、白いご飯と味噌汁、焼き魚、納豆のような昔ながらの組み合わせがよく知られている。江戸時代から明治時代にかけて、こうしたスタイルが家庭の食卓に広まったらしい。地域によっては、関東から関西にかけて少しずつ味付けが変わるのも面白い。たとえば、関東の味噌汁は色が濃く、関西の味噌汁は薄いような色をしている。最近の若い人は、パンとコーヒーのような洋風の朝ごはんを選ぶ人が増えてきたらしい。それでも、年配の方の中には毎朝必ずご飯を食べる、いかにも日本人らしい習慣を守る人も多い。旅館に泊まると、朝六時から九時にかけて伝統的な和朝食が用意されている。焼き魚や卵焼き、海苔のような小鉢がたくさん並ぶ姿は、まるで美術品のように美しい。観光客は、こうした日本らしい朝食をとても喜ぶそうだ。私の祖母も、若い頃から年を取った今にかけてずっと和食の朝ごはんを大切にしている。「朝ごはんは一日の力のもとだよ」と祖母らしい言葉でよく話してくれる。日本の朝ごはんには、健康だけでなく文化のような深い意味があると感じる。これからも、この伝統が次の世代にかけて続いていってほしいと思う。",
+    "translation": "Bữa sáng Nhật Bản nổi tiếng với sự kết hợp truyền thống như cơm trắng, canh miso, cá nướng và natto. Nghe nói từ thời Edo đến thời Meiji, kiểu bữa ăn như vậy đã lan rộng trong các gia đình. Tùy theo địa phương, vị nêm cũng dần thay đổi từ vùng Kanto đến vùng Kansai, điều đó cũng thú vị. Ví dụ, canh miso vùng Kanto có màu đậm, còn canh miso vùng Kansai có màu giống như nhạt hơn. Nghe nói số người trẻ gần đây chọn bữa sáng kiểu Tây như bánh mì với cà phê đang dần tăng lên. Dù vậy, trong số người lớn tuổi vẫn có nhiều người giữ thói quen rất đúng kiểu người Nhật là sáng nào cũng phải ăn cơm. Khi nghỉ ở ryokan, từ sáu giờ đến chín giờ sáng có chuẩn bị bữa sáng truyền thống kiểu Nhật. Hình ảnh nhiều đĩa nhỏ như cá nướng, trứng cuộn, rong biển bày ra trông đẹp như tác phẩm nghệ thuật. Nghe nói khách du lịch rất vui khi ăn bữa sáng đúng kiểu Nhật như vậy. Bà tôi cũng từ thời trẻ đến bây giờ già rồi vẫn luôn coi trọng bữa sáng kiểu Nhật. Bà thường nói với tôi bằng câu nói rất đúng kiểu của bà rằng 'bữa sáng là nguồn sức lực cho cả ngày đó'. Tôi cảm thấy bữa sáng Nhật Bản không chỉ tốt cho sức khỏe mà còn có ý nghĩa sâu sắc giống như văn hóa. Tôi mong rằng truyền thống này sẽ tiếp tục từ đây kéo dài đến các thế hệ sau.",
+    "vocabulary": [
+      {"word": "納豆", "reading": "なっとう", "meaning": "natto, đậu nành lên men"},
+      {"word": "昔ながら", "reading": "むかしながら", "meaning": "(theo) lối xưa, truyền thống"},
+      {"word": "食卓", "reading": "しょくたく", "meaning": "bàn ăn, mâm cơm"},
+      {"word": "味付け", "reading": "あじつけ", "meaning": "cách nêm nếm, vị"},
+      {"word": "年配", "reading": "ねんぱい", "meaning": "lớn tuổi, đứng tuổi"},
+      {"word": "旅館", "reading": "りょかん", "meaning": "nhà trọ truyền thống Nhật"},
+      {"word": "卵焼き", "reading": "たまごやき", "meaning": "trứng cuộn"},
+      {"word": "海苔", "reading": "のり", "meaning": "rong biển khô"},
+      {"word": "小鉢", "reading": "こばち", "meaning": "đĩa nhỏ, bát nhỏ"},
+      {"word": "美術品", "reading": "びじゅつひん", "meaning": "tác phẩm nghệ thuật"},
+      {"word": "祖母", "reading": "そぼ", "meaning": "bà nội, bà ngoại"}
+    ],
+    "process": [
+      {
+        "sentence": "日本の朝ごはんは、白いご飯と味噌汁、焼き魚、納豆のような昔ながらの組み合わせがよく知られている。",
+        "chunks": "日本の朝ごはんは / 白いご飯と味噌汁、焼き魚、納豆のような / 昔ながらの組み合わせが / よく知られている",
+        "guide": "日本の朝ごはんは → chủ đề → 白いご飯と味噌汁、焼き魚、納豆のような → ～のような = 'như, giống như' → liệt kê ví dụ → 昔ながらの組み合わせ = sự kết hợp truyền thống → がよく知られている = thường được biết đến → 🔒 Đóng gói: [bữa sáng JP = combo cơm/canh/cá/natto kiểu xưa]",
+        "translation": "Bữa sáng Nhật Bản nổi tiếng với sự kết hợp truyền thống như cơm trắng, canh miso, cá nướng và natto."
+      },
+      {
+        "sentence": "江戸時代から明治時代にかけて、こうしたスタイルが家庭の食卓に広まったらしい。",
+        "chunks": "江戸時代から明治時代にかけて / こうしたスタイルが / 家庭の食卓に広まったらしい",
+        "guide": "江戸時代から明治時代にかけて → ～から～にかけて = 'từ ~ đến ~' → phạm vi thời gian rộng → こうしたスタイル = kiểu như vậy → 広まった = đã lan rộng → らしい → ～らしい = 'nghe nói' phỏng đoán có căn cứ → 🔒 Đóng gói: [thời Edo→Meiji → kiểu này lan trong gia đình]",
+        "translation": "Nghe nói từ thời Edo đến thời Meiji, kiểu bữa ăn như vậy đã lan rộng trong các gia đình."
+      },
+      {
+        "sentence": "地域によっては、関東から関西にかけて少しずつ味付けが変わるのも面白い。",
+        "chunks": "地域によっては / 関東から関西にかけて / 少しずつ味付けが変わるのも面白い",
+        "guide": "地域によっては = tùy theo địa phương → 関東から関西にかけて → ～から～にかけて lần thứ hai → phạm vi không gian → 少しずつ味付けが変わる = vị thay đổi từng chút → のも面白い = việc đó cũng thú vị → 🔒 Đóng gói: [Kanto→Kansai → vị thay đổi dần → thú vị]",
+        "translation": "Tùy theo địa phương, vị nêm cũng dần thay đổi từ vùng Kanto đến vùng Kansai, điều đó cũng thú vị."
+      },
+      {
+        "sentence": "たとえば、関東の味噌汁は色が濃く、関西の味噌汁は薄いような色をしている。",
+        "chunks": "たとえば / 関東の味噌汁は色が濃く / 関西の味噌汁は薄いような色をしている",
+        "guide": "たとえば = ví dụ → 関東の味噌汁は色が濃く → く dạng nối → 関西の味噌汁は薄いような色 → ～ような = 'giống như, kiểu như' → ような modify 色 → をしている = mang (màu) → 🔒 Đóng gói: [Kanto đậm / Kansai có màu kiểu nhạt]",
+        "translation": "Ví dụ, canh miso vùng Kanto có màu đậm, còn canh miso vùng Kansai có màu giống như nhạt hơn."
+      },
+      {
+        "sentence": "最近の若い人は、パンとコーヒーのような洋風の朝ごはんを選ぶ人が増えてきたらしい。",
+        "chunks": "最近の若い人は / パンとコーヒーのような洋風の朝ごはんを / 選ぶ人が増えてきたらしい",
+        "guide": "最近の若い人は → chủ đề → パンとコーヒーのような → ～のような lần thứ hai → ví dụ cụ thể bữa sáng kiểu Tây → 洋風の朝ごはん = bữa sáng kiểu Tây → 増えてきた = dần tăng → らしい lần thứ hai → 🔒 Đóng gói: [người trẻ → chọn bữa sáng kiểu Tây → đang tăng]",
+        "translation": "Nghe nói số người trẻ gần đây chọn bữa sáng kiểu Tây như bánh mì với cà phê đang dần tăng lên."
+      },
+      {
+        "sentence": "それでも、年配の方の中には毎朝必ずご飯を食べる、いかにも日本人らしい習慣を守る人も多い。",
+        "chunks": "それでも / 年配の方の中には / 毎朝必ずご飯を食べる / いかにも日本人らしい習慣を守る人も多い",
+        "guide": "それでも = dù vậy → 年配の方の中には = trong số người lớn tuổi → 毎朝必ずご飯を食べる = sáng nào cũng ăn cơm → いかにも日本人らしい → ～らしい lần thứ ba → ở đây nghĩa 'đúng kiểu, đúng chất' → 'đúng chất người Nhật' → 習慣を守る人も多い = có nhiều người giữ thói quen → 🔒 Đóng gói: [tương phản → người lớn tuổi vẫn giữ kiểu Nhật]",
+        "translation": "Dù vậy, trong số người lớn tuổi vẫn có nhiều người giữ thói quen rất đúng kiểu người Nhật là sáng nào cũng phải ăn cơm."
+      },
+      {
+        "sentence": "旅館に泊まると、朝六時から九時にかけて伝統的な和朝食が用意されている。",
+        "chunks": "旅館に泊まると / 朝六時から九時にかけて / 伝統的な和朝食が用意されている",
+        "guide": "旅館に泊まると → と điều kiện 'nếu thì' → 朝六時から九時にかけて → ～から～にかけて lần thứ ba → phạm vi giờ → 伝統的な和朝食 = bữa sáng kiểu Nhật truyền thống → 用意されている = được chuẩn bị (bị động) → 🔒 Đóng gói: [ở ryokan → 6h→9h → có sẵn bữa sáng JP]",
+        "translation": "Khi nghỉ ở ryokan, từ sáu giờ đến chín giờ sáng có chuẩn bị bữa sáng truyền thống kiểu Nhật."
+      },
+      {
+        "sentence": "焼き魚や卵焼き、海苔のような小鉢がたくさん並ぶ姿は、まるで美術品のように美しい。",
+        "chunks": "焼き魚や卵焼き、海苔のような小鉢が / たくさん並ぶ姿は / まるで美術品のように美しい",
+        "guide": "焼き魚や卵焼き、海苔のような小鉢 → ～のような lần thứ ba → liệt kê ví dụ đĩa nhỏ → たくさん並ぶ姿 = hình ảnh bày nhiều → まるで美術品のように → ～ように lần này 'như là, kiểu như' → まるで kết hợp ように tạo so sánh mạnh → 美しい = đẹp → 🔒 Đóng gói: [đĩa nhỏ kiểu cá/trứng/rong → đẹp như tác phẩm nghệ thuật]",
+        "translation": "Hình ảnh nhiều đĩa nhỏ như cá nướng, trứng cuộn, rong biển bày ra trông đẹp như tác phẩm nghệ thuật."
+      },
+      {
+        "sentence": "観光客は、こうした日本らしい朝食をとても喜ぶそうだ。",
+        "chunks": "観光客は / こうした日本らしい朝食を / とても喜ぶそうだ",
+        "guide": "観光客は → chủ đề khách du lịch → こうした日本らしい → ～らしい lần thứ tư → 'đúng kiểu Nhật' → 朝食を = bữa sáng (tân ngữ) → 喜ぶそうだ = nghe nói rất vui → そうだ truyền tin → 🔒 Đóng gói: [khách → vui với bữa sáng đúng kiểu Nhật]",
+        "translation": "Nghe nói khách du lịch rất vui khi ăn bữa sáng đúng kiểu Nhật như vậy."
+      },
+      {
+        "sentence": "私の祖母も、若い頃から年を取った今にかけてずっと和食の朝ごはんを大切にしている。",
+        "chunks": "私の祖母も / 若い頃から年を取った今にかけて / ずっと和食の朝ごはんを大切にしている",
+        "guide": "私の祖母も → chủ đề bà tôi cũng → 若い頃から年を取った今にかけて → ～から～にかけて lần thứ tư → phạm vi thời gian cả đời → ずっと = mãi → 和食の朝ごはんを大切にしている = coi trọng bữa sáng kiểu Nhật → 🔒 Đóng gói: [bà → từ trẻ tới giờ → vẫn coi trọng bữa sáng JP]",
+        "translation": "Bà tôi cũng từ thời trẻ đến bây giờ già rồi vẫn luôn coi trọng bữa sáng kiểu Nhật."
+      },
+      {
+        "sentence": "「朝ごはんは一日の力のもとだよ」と祖母らしい言葉でよく話してくれる。",
+        "chunks": "「朝ごはんは一日の力のもとだよ」と / 祖母らしい言葉で / よく話してくれる",
+        "guide": "「朝ごはんは一日の力のもとだよ」と → と trích dẫn lời → 祖母らしい言葉 → ～らしい lần thứ năm → 'đúng kiểu của bà, rất bà' → 言葉で = bằng câu nói → 話してくれる = nói cho tôi nghe → 🔒 Đóng gói: [bà nói câu rất đặc trưng: bữa sáng = nguồn sức]",
+        "translation": "Bà thường nói với tôi bằng câu nói rất đúng kiểu của bà rằng 'bữa sáng là nguồn sức lực cho cả ngày đó'."
+      },
+      {
+        "sentence": "日本の朝ごはんには、健康だけでなく文化のような深い意味があると感じる。",
+        "chunks": "日本の朝ごはんには / 健康だけでなく / 文化のような深い意味があると感じる",
+        "guide": "日本の朝ごはんには → chủ đề → 健康だけでなく = không chỉ sức khỏe → 文化のような → ～のような lần thứ tư → 'như là văn hóa' → 深い意味があると感じる = cảm thấy có ý nghĩa sâu → 🔒 Đóng gói: [bữa sáng JP → sức khỏe + ý nghĩa kiểu văn hóa]",
+        "translation": "Tôi cảm thấy bữa sáng Nhật Bản không chỉ tốt cho sức khỏe mà còn có ý nghĩa sâu sắc giống như văn hóa."
+      },
+      {
+        "sentence": "これからも、この伝統が次の世代にかけて続いていってほしいと思う。",
+        "chunks": "これからも / この伝統が / 次の世代にかけて続いていってほしいと思う",
+        "guide": "これからも = từ giờ trở đi cũng → この伝統が = truyền thống này (chủ ngữ) → 次の世代にかけて → ～にかけて lần thứ năm (rút gọn từ から～にかけて, hàm ý đến phạm vi thế hệ sau) → 続いていってほしい = mong sẽ tiếp tục → 🔒 Đóng gói: [mong truyền thống đi tiếp tới thế hệ sau]",
+        "translation": "Tôi mong rằng truyền thống này sẽ tiếp tục từ đây kéo dài đến các thế hệ sau."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0253_Q1",
+        "question": "旅館では、朝食は何時から何時まで用意されていますか。",
+        "question_vi": "Tại ryokan, bữa sáng được chuẩn bị từ mấy giờ đến mấy giờ?",
+        "answers": [
+          {"text": "朝五時から八時まで。", "text_vi": "Từ năm giờ đến tám giờ sáng.", "is_correct": false},
+          {"text": "朝六時から九時まで。", "text_vi": "Từ sáu giờ đến chín giờ sáng.", "is_correct": true},
+          {"text": "朝七時から十時まで。", "text_vi": "Từ bảy giờ đến mười giờ sáng.", "is_correct": false},
+          {"text": "朝八時から十一時まで。", "text_vi": "Từ tám giờ đến mười một giờ sáng.", "is_correct": false}
+        ],
+        "explanation": "Câu 7 nói rõ 「朝六時から九時にかけて伝統的な和朝食が用意されている」→ ～から～にかけて = từ ~ đến ~ → phạm vi thời gian 6h-9h sáng. Đây là sự thật trực tiếp trong bài."
+      },
+      {
+        "id": "R_0253_Q2",
+        "question": "なぜ若い人の間で洋風の朝ごはんが増えてきたと言われていますか。",
+        "question_vi": "Tại sao bữa sáng kiểu Tây nghe nói lại tăng lên trong giới trẻ?",
+        "answers": [
+          {"text": "和食より安いから。", "text_vi": "Vì rẻ hơn đồ ăn Nhật.", "is_correct": false},
+          {"text": "洋食の方が体にいいから。", "text_vi": "Vì đồ Tây tốt cho sức khỏe hơn.", "is_correct": false},
+          {"text": "本文には具体的な理由は書かれていないが、若い人がパンとコーヒーのような洋風の朝食を選ぶ人が増えてきたらしい。", "text_vi": "Bài không nêu lý do cụ thể, chỉ nói nghe nói số người trẻ chọn bữa sáng kiểu Tây như bánh mì cà phê đang dần tăng.", "is_correct": true},
+          {"text": "和食が嫌いだから。", "text_vi": "Vì ghét đồ ăn Nhật.", "is_correct": false}
+        ],
+        "explanation": "Câu 5 chỉ nói 「パンとコーヒーのような洋風の朝ごはんを選ぶ人が増えてきたらしい」 → らしい = nghe nói (phỏng đoán) → bài chỉ ghi nhận xu hướng tăng, không nêu nguyên nhân. Đáp án đúng phản ánh chính xác điều bài đã nói."
+      },
+      {
+        "id": "R_0253_Q3",
+        "question": "筆者は日本の朝ごはんについてどう感じていますか。",
+        "question_vi": "Tác giả cảm thấy thế nào về bữa sáng Nhật Bản?",
+        "answers": [
+          {"text": "古くて、もう必要ないと感じている。", "text_vi": "Cảm thấy cũ kỹ, không còn cần thiết nữa.", "is_correct": false},
+          {"text": "健康だけでなく、文化のような深い意味があると感じている。", "text_vi": "Cảm thấy không chỉ tốt cho sức khỏe mà còn mang ý nghĩa sâu sắc như văn hóa.", "is_correct": true},
+          {"text": "外国人にしか喜ばれない料理だと感じている。", "text_vi": "Cảm thấy chỉ có người nước ngoài mới thích.", "is_correct": false},
+          {"text": "毎朝食べるのは大変だと感じている。", "text_vi": "Cảm thấy mỗi sáng ăn rất vất vả.", "is_correct": false}
+        ],
+        "explanation": "Câu 12 trực tiếp nói 「健康だけでなく文化のような深い意味があると感じる」 → ～だけでなく = không chỉ + のような = giống như → tác giả thấy bữa sáng JP có ý nghĩa văn hóa. Câu cuối cũng khẳng định mong muốn truyền thống tiếp tục."
+      }
+    ]
+  },
+  {
+    "id": "R_0254",
+    "level": 5,
+    "level_label": "N3_basic",
+    "jlpt": "N3",
+    "title": "通勤電車の混雑",
+    "title_vi": "Sự đông đúc của tàu điện đi làm",
+    "topic": "transport",
+    "subtopic": "đi tàu điện đông đúc",
+    "tags": ["だらけ", "ぎみ", "ものだから"],
+    "grammar_used": ["～だらけ", "～ぎみ", "～ものだから"],
+    "sentence_count": 13,
+    "text": "東京の通勤電車は、朝八時頃になるといつも人だらけで、乗るのが大変だ。私の家は会社から遠いものだから、毎日一時間以上電車に乗らなければならない。最近は寝不足ぎみで、電車の中で立ったままうとうとしてしまう日もある。先週、雨の日にホームに着いたら、傘を持った人だらけで、足元がびしょびしょだった。電車のドアが開いたとたん、人が一気に押し込まれて、私はカバンを落としそうになった。カバンが汚れだらけになってしまったものだから、家に帰ってすぐ洗わなければならなかった。最近、体調も疲れぎみで、長い通勤が前より辛く感じる。会社の同僚も「最近残業ぎみで、通勤がきつい」と話していた。先日、満員電車の中で具合が悪くなった人がいて、駅員が急いで助けに来た。電車が遅れるものだから、約束の時間に間に合わないこともある。窓の外を見ると、ホームは傘やカバンや人だらけで、まるで戦場のようだ。それでも、毎朝この電車に乗らなければ仕事に行けないものだから、頑張って続けるしかない。最近は、少しでも空いている時間に乗れるよう、出勤時間を早めぎみにしている人も増えてきた。",
+    "translation": "Tàu điện đi làm ở Tokyo cứ đến khoảng tám giờ sáng là luôn đầy ắp người, lên tàu rất vất vả. Vì nhà tôi xa công ty, nên mỗi ngày phải đi tàu hơn một tiếng. Gần đây tôi hơi thiếu ngủ, nên có hôm đứng trong tàu mà cứ gà gật. Tuần trước, ngày mưa khi tới sân ga, đầy người cầm ô, dưới chân ướt sũng. Ngay khi cửa tàu mở, người bị đẩy ùa vào, tôi suýt làm rơi cặp. Vì cặp bị bẩn đầy bụi nên về nhà phải giặt ngay. Gần đây cơ thể cũng có vẻ hơi mệt, hành trình đi làm dài cảm thấy khó khăn hơn trước. Đồng nghiệp ở công ty cũng nói rằng 'gần đây hơi tăng ca, đi làm cực'. Hôm trước, có người bị mệt trong tàu chật cứng, nhân viên ga vội vã đến giúp. Vì tàu bị muộn nên cũng có khi không kịp giờ hẹn. Nhìn ra ngoài cửa sổ, sân ga toàn ô, cặp và người, cứ như chiến trường vậy. Dù vậy, vì mỗi sáng không lên chuyến tàu này thì không đi làm được, nên đành cố gắng tiếp tục. Gần đây, số người dịch giờ đi làm sớm hơn một chút để đi vào giờ vắng cũng đang tăng lên.",
+    "vocabulary": [
+      {"word": "通勤", "reading": "つうきん", "meaning": "đi làm, đi đến chỗ làm"},
+      {"word": "混雑", "reading": "こんざつ", "meaning": "sự đông đúc, hỗn loạn"},
+      {"word": "寝不足", "reading": "ねぶそく", "meaning": "thiếu ngủ"},
+      {"word": "うとうと", "reading": "うとうと", "meaning": "gà gật, lơ mơ buồn ngủ"},
+      {"word": "押し込む", "reading": "おしこむ", "meaning": "đẩy vào, nhồi vào"},
+      {"word": "汚れ", "reading": "よごれ", "meaning": "bụi bẩn, vết bẩn"},
+      {"word": "同僚", "reading": "どうりょう", "meaning": "đồng nghiệp"},
+      {"word": "残業", "reading": "ざんぎょう", "meaning": "tăng ca, làm thêm giờ"},
+      {"word": "具合", "reading": "ぐあい", "meaning": "tình trạng (sức khỏe)"},
+      {"word": "駅員", "reading": "えきいん", "meaning": "nhân viên nhà ga"},
+      {"word": "戦場", "reading": "せんじょう", "meaning": "chiến trường"}
+    ],
+    "process": [
+      {
+        "sentence": "東京の通勤電車は、朝八時頃になるといつも人だらけで、乗るのが大変だ。",
+        "chunks": "東京の通勤電車は / 朝八時頃になると / いつも人だらけで / 乗るのが大変だ",
+        "guide": "東京の通勤電車は → chủ đề → 朝八時頃になると → と điều kiện 'cứ đến' → いつも人だらけ → ～だらけ = 'đầy, toàn là' (sắc thái tiêu cực) → 人だらけ = đầy người → で nối → 乗るのが大変だ = lên tàu vất vả → 🔒 Đóng gói: [tàu Tokyo 8h sáng → đầy người → khó lên]",
+        "translation": "Tàu điện đi làm ở Tokyo cứ đến khoảng tám giờ sáng là luôn đầy ắp người, lên tàu rất vất vả."
+      },
+      {
+        "sentence": "私の家は会社から遠いものだから、毎日一時間以上電車に乗らなければならない。",
+        "chunks": "私の家は会社から遠いものだから / 毎日一時間以上 / 電車に乗らなければならない",
+        "guide": "私の家は会社から遠い = nhà xa công ty → ものだから → ～ものだから = 'bởi vì (biện hộ)' → giải thích lý do với sắc thái 'không phải lỗi tôi' → 毎日一時間以上電車に乗らなければならない = mỗi ngày phải đi tàu hơn 1 tiếng → 🔒 Đóng gói: [vì nhà xa → phải đi tàu >1h]",
+        "translation": "Vì nhà tôi xa công ty, nên mỗi ngày phải đi tàu hơn một tiếng."
+      },
+      {
+        "sentence": "最近は寝不足ぎみで、電車の中で立ったままうとうとしてしまう日もある。",
+        "chunks": "最近は / 寝不足ぎみで / 電車の中で立ったまま / うとうとしてしまう日もある",
+        "guide": "最近は → chủ đề thời điểm → 寝不足ぎみ → ～ぎみ = 'hơi, có vẻ' (xu hướng tiêu cực nhẹ) → 寝不足ぎみ = hơi thiếu ngủ → で nối → 立ったまま = đứng nguyên → うとうとしてしまう日もある = có hôm gà gật mất → 🔒 Đóng gói: [hơi thiếu ngủ → gà gật ngay khi đứng trên tàu]",
+        "translation": "Gần đây tôi hơi thiếu ngủ, nên có hôm đứng trong tàu mà cứ gà gật."
+      },
+      {
+        "sentence": "先週、雨の日にホームに着いたら、傘を持った人だらけで、足元がびしょびしょだった。",
+        "chunks": "先週 / 雨の日にホームに着いたら / 傘を持った人だらけで / 足元がびしょびしょだった",
+        "guide": "先週 = tuần trước → 雨の日にホームに着いたら → たら 'sau khi đến' → 傘を持った人だらけ → ～だらけ lần thứ hai → 'đầy người cầm ô' (tiêu cực: chật chội) → で nối → 足元がびしょびしょだった = chân ướt sũng → 🔒 Đóng gói: [ngày mưa → sân ga đầy người cầm ô → ướt sũng]",
+        "translation": "Tuần trước, ngày mưa khi tới sân ga, đầy người cầm ô, dưới chân ướt sũng."
+      },
+      {
+        "sentence": "電車のドアが開いたとたん、人が一気に押し込まれて、私はカバンを落としそうになった。",
+        "chunks": "電車のドアが開いたとたん / 人が一気に押し込まれて / 私はカバンを落としそうになった",
+        "guide": "電車のドアが開いたとたん → ～たとたん = 'ngay khi' → biểu hiện sự bất ngờ liền sau hành động → 人が一気に押し込まれて = người ùa vào (bị động) → 私はカバンを落としそうになった = suýt làm rơi cặp → 🔒 Đóng gói: [cửa mở → người tràn vào → suýt rơi cặp]",
+        "translation": "Ngay khi cửa tàu mở, người bị đẩy ùa vào, tôi suýt làm rơi cặp."
+      },
+      {
+        "sentence": "カバンが汚れだらけになってしまったものだから、家に帰ってすぐ洗わなければならなかった。",
+        "chunks": "カバンが汚れだらけになってしまったものだから / 家に帰ってすぐ / 洗わなければならなかった",
+        "guide": "カバンが汚れだらけになってしまった → ～だらけ lần thứ ba → 'đầy bụi bẩn' (tiêu cực) → てしまった = điều đáng tiếc → ものだから → ～ものだから lần thứ hai → giải thích/biện hộ → 洗わなければならなかった = đã phải giặt → 🔒 Đóng gói: [cặp đầy bẩn → vì vậy phải giặt ngay]",
+        "translation": "Vì cặp bị bẩn đầy bụi nên về nhà phải giặt ngay."
+      },
+      {
+        "sentence": "最近、体調も疲れぎみで、長い通勤が前より辛く感じる。",
+        "chunks": "最近 / 体調も疲れぎみで / 長い通勤が / 前より辛く感じる",
+        "guide": "最近 = gần đây → 体調も疲れぎみ → ～ぎみ lần thứ hai → 疲れぎみ = hơi mệt → で nối → 長い通勤が = đi làm dài (chủ ngữ) → 前より辛く感じる = cảm thấy cực hơn trước → 🔒 Đóng gói: [hơi mệt → đi làm cảm thấy khổ hơn]",
+        "translation": "Gần đây cơ thể cũng có vẻ hơi mệt, hành trình đi làm dài cảm thấy khó khăn hơn trước."
+      },
+      {
+        "sentence": "会社の同僚も「最近残業ぎみで、通勤がきつい」と話していた。",
+        "chunks": "会社の同僚も / 「最近残業ぎみで、通勤がきつい」と / 話していた",
+        "guide": "会社の同僚も = đồng nghiệp cũng → 「最近残業ぎみで、通勤がきつい」 → trong trích dẫn → 残業ぎみ → ～ぎみ lần thứ ba → 'hơi tăng ca' → と話していた = đã nói → 🔒 Đóng gói: [đồng nghiệp cũng than: hơi tăng ca → đi làm cực]",
+        "translation": "Đồng nghiệp ở công ty cũng nói rằng 'gần đây hơi tăng ca, đi làm cực'."
+      },
+      {
+        "sentence": "先日、満員電車の中で具合が悪くなった人がいて、駅員が急いで助けに来た。",
+        "chunks": "先日 / 満員電車の中で / 具合が悪くなった人がいて / 駅員が急いで助けに来た",
+        "guide": "先日 = hôm trước → 満員電車の中で = trong tàu chật cứng → 具合が悪くなった人がいて = có người bị mệt → て nối tiếp → 駅員が急いで助けに来た = nhân viên ga vội đến giúp → に来た = đến để (mục đích) → 🔒 Đóng gói: [tàu chật → có người mệt → nhân viên ga đến cứu]",
+        "translation": "Hôm trước, có người bị mệt trong tàu chật cứng, nhân viên ga vội vã đến giúp."
+      },
+      {
+        "sentence": "電車が遅れるものだから、約束の時間に間に合わないこともある。",
+        "chunks": "電車が遅れるものだから / 約束の時間に / 間に合わないこともある",
+        "guide": "電車が遅れる = tàu bị muộn → ものだから → ～ものだから lần thứ ba → biện hộ 'vì lý do khách quan' → 約束の時間に = giờ hẹn → 間に合わないこともある = cũng có khi không kịp → 🔒 Đóng gói: [tàu muộn → đôi khi trễ hẹn → không phải tại tôi]",
+        "translation": "Vì tàu bị muộn nên cũng có khi không kịp giờ hẹn."
+      },
+      {
+        "sentence": "窓の外を見ると、ホームは傘やカバンや人だらけで、まるで戦場のようだ。",
+        "chunks": "窓の外を見ると / ホームは傘やカバンや人だらけで / まるで戦場のようだ",
+        "guide": "窓の外を見ると → と 'khi nhìn thì' → ホームは傘やカバンや人だらけ → ～だらけ lần thứ tư → liệt kê や 'nào là' → 'đầy ô, cặp, người' → で nối → まるで戦場のようだ = giống như chiến trường → 🔒 Đóng gói: [sân ga đầy ô/cặp/người → như chiến trường]",
+        "translation": "Nhìn ra ngoài cửa sổ, sân ga toàn ô, cặp và người, cứ như chiến trường vậy."
+      },
+      {
+        "sentence": "それでも、毎朝この電車に乗らなければ仕事に行けないものだから、頑張って続けるしかない。",
+        "chunks": "それでも / 毎朝この電車に乗らなければ仕事に行けないものだから / 頑張って続けるしかない",
+        "guide": "それでも = dù vậy → 毎朝この電車に乗らなければ仕事に行けない = không lên tàu thì không đi làm được → ものだから → ～ものだから lần thứ tư → biện hộ → 頑張って続けるしかない = đành cố tiếp tục → しかない = không còn cách khác → 🔒 Đóng gói: [vì buộc phải đi → đành cố]",
+        "translation": "Dù vậy, vì mỗi sáng không lên chuyến tàu này thì không đi làm được, nên đành cố gắng tiếp tục."
+      },
+      {
+        "sentence": "最近は、少しでも空いている時間に乗れるよう、出勤時間を早めぎみにしている人も増えてきた。",
+        "chunks": "最近は / 少しでも空いている時間に乗れるよう / 出勤時間を早めぎみにしている人も増えてきた",
+        "guide": "最近は → chủ đề thời điểm → 少しでも空いている時間に乗れるよう = để có thể đi giờ vắng dù chỉ chút → よう mục đích → 出勤時間を早めぎみにしている → ～ぎみ lần thứ tư → 'làm sớm hơn một chút' → 増えてきた = đang dần tăng → 🔒 Đóng gói: [người dịch giờ đi làm sớm hơn → đang tăng]",
+        "translation": "Gần đây, số người dịch giờ đi làm sớm hơn một chút để đi vào giờ vắng cũng đang tăng lên."
+      }
+    ],
+    "comprehension": [
+      {
+        "id": "R_0254_Q1",
+        "question": "雨の日のホームの様子はどうでしたか。",
+        "question_vi": "Quang cảnh sân ga ngày mưa thế nào?",
+        "answers": [
+          {"text": "人が少なくて静かだった。", "text_vi": "Ít người và yên tĩnh.", "is_correct": false},
+          {"text": "傘を持った人だらけで、足元がびしょびしょだった。", "text_vi": "Đầy người cầm ô và dưới chân ướt sũng.", "is_correct": true},
+          {"text": "電車が止まっていて誰もいなかった。", "text_vi": "Tàu dừng và không ai cả.", "is_correct": false},
+          {"text": "外国人観光客が多かった。", "text_vi": "Nhiều khách du lịch nước ngoài.", "is_correct": false}
+        ],
+        "explanation": "Câu 4 nói rõ 「傘を持った人だらけで、足元がびしょびしょだった」→ ～だらけ = đầy + びしょびしょ = ướt sũng → mô tả trực tiếp cảnh sân ga ngày mưa với hình ảnh ô và nước."
+      },
+      {
+        "id": "R_0254_Q2",
+        "question": "なぜ筆者はカバンをすぐ洗わなければならなかったのですか。",
+        "question_vi": "Tại sao tác giả phải giặt cặp ngay?",
+        "answers": [
+          {"text": "カバンが古かったから。", "text_vi": "Vì cặp đã cũ.", "is_correct": false},
+          {"text": "カバンを買い替えたかったから。", "text_vi": "Vì muốn mua cặp mới.", "is_correct": false},
+          {"text": "電車で押されてカバンが汚れだらけになってしまったから。", "text_vi": "Vì bị đẩy trên tàu nên cặp bị bẩn đầy bụi.", "is_correct": true},
+          {"text": "上司に汚いと言われたから。", "text_vi": "Vì cấp trên nói cặp bẩn.", "is_correct": false}
+        ],
+        "explanation": "Câu 5 nói tác giả 「カバンを落としそうになった」 sau khi bị đẩy, và câu 6 giải thích 「カバンが汚れだらけになってしまったものだから、家に帰ってすぐ洗わなければならなかった」→ ～だらけ + ～ものだから = đầy bụi + biện hộ → đó là lý do phải giặt ngay."
+      },
+      {
+        "id": "R_0254_Q3",
+        "question": "本文から、筆者の毎日の通勤について何が分かりますか。",
+        "question_vi": "Từ bài đọc có thể hiểu được điều gì về chuyện đi làm hàng ngày của tác giả?",
+        "answers": [
+          {"text": "通勤がとても楽しい毎日になっている。", "text_vi": "Việc đi làm trở thành niềm vui mỗi ngày.", "is_correct": false},
+          {"text": "辛い状況だが、仕事に行くために頑張って続けている。", "text_vi": "Tình huống vất vả nhưng vẫn cố tiếp tục để đi làm.", "is_correct": true},
+          {"text": "もうすぐ会社を辞めるつもりだ。", "text_vi": "Sắp định nghỉ việc.", "is_correct": false},
+          {"text": "通勤を完全にやめて在宅勤務にした。", "text_vi": "Đã hoàn toàn ngừng đi làm và làm việc tại nhà.", "is_correct": false}
+        ],
+        "explanation": "Bài mô tả nhiều khó khăn (人だらけ、寝不足ぎみ、疲れぎみ、戦場のよう) nhưng câu 12 kết luận 「毎朝この電車に乗らなければ仕事に行けないものだから、頑張って続けるしかない」→ ～ものだから + しかない = vì lý do bắt buộc + không còn cách khác → tác giả vẫn cố tiếp tục dù vất vả. Đây là suy luận tổng hợp xuyên suốt bài."
+      }
+    ]
+  }
+]
