@@ -158,31 +158,31 @@
       },
       {
         "id": "R_0071_Q2",
-        "question": "おじいちゃんは写真を撮った後、何をしたいと言いましたか。",
-        "question_vi": "Sau khi chụp ảnh, ông nội nói muốn làm gì?",
+        "question": "おじいちゃんはなぜスマートフォンの写真撮影をそんなに好きになったと思いますか。",
+        "question_vi": "Tại sao ông nội lại say mê chụp ảnh bằng điện thoại thông minh đến vậy?",
         "answers": [
           {
-            "text": "もっとたくさん撮りたいと言いました。",
-            "text_vi": "Nói muốn chụp thêm nhiều nữa.",
+            "text": "スマートフォンが新しくて高かったから、大切にしています。",
+            "text_vi": "Vì điện thoại mới và đắt nên giữ gìn cẩn thận.",
             "is_correct": false
           },
           {
-            "text": "友達にも見せたいと言いました。",
-            "text_vi": "Nói muốn cho bạn bè xem nữa.",
+            "text": "きれいに撮れた喜びと、友達や家族と思い出を共有したいという気持ちがあるからです。",
+            "text_vi": "Vì niềm vui chụp được đẹp và muốn chia sẻ kỷ niệm với bạn bè, gia đình.",
             "is_correct": true
           },
           {
-            "text": "新しいスマートフォンを買いたいと言いました。",
-            "text_vi": "Nói muốn mua điện thoại mới.",
+            "text": "孫が毎日使い方を教えてくれるから、楽しいです。",
+            "text_vi": "Vì cháu mỗi ngày dạy cách dùng nên vui.",
             "is_correct": false
           },
           {
-            "text": "写真を消したいと言いました。",
-            "text_vi": "Nói muốn xóa ảnh.",
+            "text": "写真を撮ることが仕事になったからです。",
+            "text_vi": "Vì chụp ảnh đã trở thành công việc.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 8 nói rõ 「友達にも見せたい」→ たい thể hiện mong muốn → にも 'cho bạn bè cũng' = muốn khoe ảnh cho bạn bè."
+        "explanation": "Câu 7 nói 「とてもきれいに撮れました」→ thành công tạo niềm vui. Câu 8 nói 「友達にも見せたい」→ muốn chia sẻ. Câu 9-10 cho thấy ông chụp mỗi ngày, cả ảnh bà nội → suy luận: động lực là niềm vui chụp đẹp + muốn kết nối với người thân."
       },
       {
         "id": "R_0071_Q3",
@@ -238,11 +238,12 @@
       "～ましょう",
       "～たり～たりします",
       "～と思います",
-      "～た形+ことがあります"
+      "～た形+ことがあります",
+      "〜そうです（伝聞）"
     ],
     "sentence_count": 11,
     "text": "毎年7月7日は七夕です。家族みんなで短冊に願いを書きます。姉は「いい大学に入りたい」と書きました。私は「日本語が上手になりたい」と書きました。短冊を書いてから、笹の葉に飾りました。母は毎年そうめんを作っています。父は星の話をしてくれました。織姫と彦星は1年に1回だけ会えるそうです。食べたり話したりして、楽しい夜でした。来年もみんなでお祝いしましょう。七夕は家族の大切な行事だと思います。",
-    "translation": "Hàng năm ngày 7 tháng 7 là lễ Tanabata. Cả gia đình cùng viết điều ước lên thẻ giấy. Chị gái viết: \"Muốn vào đại học tốt\". Tôi viết: \"Muốn giỏi tiếng Nhật\". Sau khi viết thẻ giấy, chúng tôi treo lên cành tre. Mẹ hàng năm đều làm mì somen. Bố kể cho chúng tôi nghe chuyện về các vì sao. Nghe nói nàng Orihime và chàng Hikoboshi mỗi năm chỉ được gặp nhau một lần. Chúng tôi vừa ăn vừa nói chuyện, là một đêm vui. Năm sau cũng cùng nhau tổ chức lễ nhé. Tôi nghĩ Tanabata là sự kiện quan trọng của gia đình.",
+    "translation": "Hàng năm ngày 7 tháng 7 là lễ Tanabata. Cả gia đình cùng viết điều ước lên thẻ giấy. Chị gái viết: \"Muốn vào đại học tốt\". Tôi viết: \"Muốn giỏi tiếng Nhật\". Sau khi viết thẻ giấy, chúng tôi treo lên cành tre. Mẹ hàng năm đều làm mì somen. Bố kể cho chúng tôi nghe chuyện về các vì sao. Nghe nói nàng Orihime và chàng Hikoboshi mỗi năm chỉ được gặp nhau một lần. Có ăn, có trò chuyện, là một đêm rất vui. Năm sau cũng cùng nhau tổ chức lễ nhé. Tôi nghĩ Tanabata là sự kiện quan trọng của gia đình.",
     "vocabulary": [
       {
         "word": "七夕",
@@ -338,7 +339,7 @@
         "sentence": "食べたり話したりして、楽しい夜でした。",
         "chunks": "食べたり / 話したり / して / 楽しい夜でした",
         "guide": "たり...たりして liệt kê hành động đại diện: ăn, nói chuyện (và các việc khác) → でした quá khứ",
-        "translation": "Chúng tôi vừa ăn vừa nói chuyện, là một đêm vui."
+        "translation": "Có ăn, có trò chuyện, là một đêm rất vui."
       },
       {
         "sentence": "来年もみんなでお祝いしましょう。",
@@ -384,31 +385,31 @@
       },
       {
         "id": "R_0072_Q2",
-        "question": "七夕の日に何を食べますか。",
-        "question_vi": "Ngày Tanabata ăn gì?",
+        "question": "この家族が七夕に毎年そうめんを食べる理由として、最も考えられることは何ですか。",
+        "question_vi": "Lý do gia đình này mỗi năm ăn mì somen vào dịp Tanabata có thể là gì?",
         "answers": [
           {
-            "text": "お寿司を食べます。",
-            "text_vi": "Ăn sushi.",
+            "text": "そうめんが一番安いから、毎年買っています。",
+            "text_vi": "Vì mì somen rẻ nhất nên năm nào cũng mua.",
             "is_correct": false
           },
           {
-            "text": "お餅を食べます。",
-            "text_vi": "Ăn bánh mochi.",
-            "is_correct": false
-          },
-          {
-            "text": "そうめんを食べます。",
-            "text_vi": "Ăn mì somen.",
+            "text": "七夕の伝統的な食べ物で、家族の行事として毎年続けているからです。",
+            "text_vi": "Vì là món ăn truyền thống của Tanabata, gia đình duy trì như một lễ tục hàng năm.",
             "is_correct": true
           },
           {
-            "text": "ケーキを食べます。",
-            "text_vi": "Ăn bánh kem.",
+            "text": "お母さんがそうめんしか作れないからです。",
+            "text_vi": "Vì mẹ chỉ biết nấu mì somen.",
+            "is_correct": false
+          },
+          {
+            "text": "お姉さんがそうめんが好きだから、毎年作っています。",
+            "text_vi": "Vì chị gái thích mì somen nên năm nào cũng nấu.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 6 nói 「母は毎年そうめんを作っています」→ ています cho thấy đây là thói quen hàng năm → món ăn ngày Tanabata là mì somen."
+        "explanation": "Câu 6 nói 「母は毎年そうめんを作っています」→ 毎年 + ています = thói quen lặp đi lặp lại. Kết hợp câu 10 「来年もみんなでお祝いしましょう」→ suy luận: đây là truyền thống gia đình, ăn somen vào Tanabata là phong tục Nhật Bản (somen trắng gợi Ngân Hà), không phải lý do kinh tế hay sở thích cá nhân."
       },
       {
         "id": "R_0072_Q3",
@@ -463,11 +464,13 @@
       "～たいです",
       "～ない形+ないでください",
       "～た形+ことがあります",
-      "～と思います"
+      "～と思います",
+      "〜ながら",
+      "〜のおかげで"
     ],
     "sentence_count": 11,
-    "text": "私の学校にはいろいろな授業があります。その中で、理科が一番面白いと思います。田中先生は実験をしながら教えてくれます。先週、水の実験をしました。先生は「教科書を見ないでください」と言いました。自分で考えて、答えを見つけました。クラスのみんなも「すごい！」と言っていました。私は将来、科学者になりたいです。理科の授業のおかげで、勉強が好きになりました。毎週の理科の時間をとても楽しみにしています。こんな授業がもっとあったらいいと思います。",
-    "translation": "Trường tôi có nhiều môn học khác nhau. Trong đó, tôi nghĩ môn khoa học tự nhiên là thú vị nhất. Thầy Tanaka dạy bằng cách vừa làm thí nghiệm. Tuần trước, chúng tôi đã làm thí nghiệm về nước. Thầy nói: \"Đừng nhìn sách giáo khoa\". Tự mình suy nghĩ và tìm ra đáp án. Mọi người trong lớp cũng nói: \"Tuyệt vời!\". Tôi muốn trở thành nhà khoa học trong tương lai. Nhờ tiết khoa học, tôi đã trở nên thích học. Tôi rất mong chờ giờ khoa học mỗi tuần. Tôi nghĩ nếu có nhiều tiết học như vậy hơn thì tốt.",
+    "text": "私の学校にはいろいろな授業があります。その中で、理科が一番面白いと思います。田中先生は実験をしながら説明してくれます。先週、水の実験をしました。先生は「教科書を見ないでください」と言いました。自分で考えて、答えを見つけました。クラスのみんなも「すごい！」と言っていました。私は将来、科学者になりたいです。理科の授業のおかげで、勉強が好きになりました。毎週の理科の時間をとても楽しみにしています。こんな授業がもっとあったらいいと思います。",
+    "translation": "Trường tôi có nhiều môn học khác nhau. Trong đó, tôi nghĩ môn khoa học tự nhiên là thú vị nhất. Thầy Tanaka vừa làm thí nghiệm vừa giải thích cho chúng tôi. Tuần trước, chúng tôi đã làm thí nghiệm về nước. Thầy nói: \"Đừng nhìn sách giáo khoa\". Tự mình suy nghĩ và tìm ra đáp án. Mọi người trong lớp ai cũng đều khen \"tuyệt vời!\". Tôi muốn trở thành nhà khoa học trong tương lai. Nhờ tiết khoa học, tôi đã trở nên thích học. Tôi rất mong chờ giờ khoa học mỗi tuần. Tôi nghĩ nếu có nhiều tiết học như vậy hơn thì tốt.",
     "vocabulary": [
       {
         "word": "理科",
@@ -519,10 +522,10 @@
         "translation": "Trong đó, tôi nghĩ môn khoa học tự nhiên là thú vị nhất."
       },
       {
-        "sentence": "田中先生は実験をしながら教えてくれます。",
-        "chunks": "田中先生は / 実験をしながら / 教えてくれます",
-        "guide": "は chủ đề → を đối tượng + ながら đồng thời → てくれます = làm cho (thể hiện biết ơn thầy)",
-        "translation": "Thầy Tanaka dạy bằng cách vừa làm thí nghiệm."
+        "sentence": "田中先生は実験をしながら説明してくれます。",
+        "chunks": "田中先生は / 実験をしながら / 説明してくれます",
+        "guide": "は chủ đề → を đối tượng + ながら đồng thời: vừa thí nghiệm vừa giải thích → てくれます = làm cho (thể hiện biết ơn thầy)",
+        "translation": "Thầy Tanaka vừa làm thí nghiệm vừa giải thích cho chúng tôi."
       },
       {
         "sentence": "先週、水の実験をしました。",
@@ -545,8 +548,8 @@
       {
         "sentence": "クラスのみんなも「すごい！」と言っていました。",
         "chunks": "クラスのみんなも / すごい / と言っていました",
-        "guide": "の liên kết → も 'cũng' → と trích dẫn → ていました đang nói (quá khứ tiếp diễn)",
-        "translation": "Mọi người trong lớp cũng nói: \"Tuyệt vời!\"."
+        "guide": "の liên kết → も 'cũng' → と trích dẫn → ていました liên tục khen ngợi (quá khứ tiếp diễn)",
+        "translation": "Mọi người trong lớp ai cũng đều khen \"tuyệt vời!\"."
       },
       {
         "sentence": "私は将来、科学者になりたいです。",
@@ -596,7 +599,7 @@
           },
           {
             "text": "映画を見ました。",
-            "text_vi": "Xem phim.",
+            "text_vi": "Đi xem phim.",
             "is_correct": false
           }
         ],
@@ -641,8 +644,8 @@
             "is_correct": false
           },
           {
-            "text": "先生が実験をしながら教えてくれて、自分で考えられるから好きです。",
-            "text_vi": "Thích vì thầy dạy bằng thí nghiệm và tự mình suy nghĩ được.",
+            "text": "先生が実験をしながら説明してくれて、自分で考えられるから好きです。",
+            "text_vi": "Thích vì thầy vừa làm thí nghiệm vừa giải thích, và tự mình suy nghĩ được.",
             "is_correct": true
           },
           {
@@ -656,7 +659,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 3 nói thầy 「実験をしながら教えてくれます」, câu 5-6 cho thấy thầy để học sinh tự suy nghĩ → suy luận: lý do thích là vì phương pháp dạy tự do, thực hành."
+        "explanation": "Câu 3 nói thầy 「実験をしながら説明してくれます」, câu 5-6 cho thấy thầy để học sinh tự suy nghĩ → suy luận: lý do thích là vì phương pháp dạy tự do, thực hành."
       }
     ]
   },
@@ -683,11 +686,14 @@
       "～ないでください",
       "～たいです",
       "～と思います",
-      "～ましょう"
+      "～ましょう",
+      "〜なければなりません",
+      "〜ても",
+      "〜（よ）うと思います"
     ],
-    "sentence_count": 11,
-    "text": "一番仲のいい友達のゆきちゃんが来月、大阪に引っ越します。お父さんの仕事で転校しなければなりません。ゆきちゃんは「本当は行きたくない」と泣いていました。私も悲しくて、泣いてしまいました。でも、ゆきちゃんに「忘れないでね」と言いました。クラスのみんなでお別れ会をしましょうと決めました。手紙やプレゼントも準備しています。離れても、ずっと友達でいたいです。夏休みに会いに行こうと思います。きっと大阪でも新しい友達ができると思います。ゆきちゃん、元気でね。",
-    "translation": "Bạn thân nhất của tôi, Yuki, tháng sau sẽ chuyển đến Osaka. Vì công việc của bố nên bạn ấy phải chuyển trường. Yuki vừa khóc vừa nói: \"Thật ra mình không muốn đi\". Tôi cũng buồn quá nên đã khóc mất. Nhưng tôi đã nói với Yuki: \"Đừng quên nhé\". Cả lớp quyết định tổ chức tiệc chia tay. Chúng tôi đang chuẩn bị thư và quà. Dù xa nhau, tôi vẫn muốn mãi là bạn. Tôi định kỳ nghỉ hè sẽ đi gặp bạn ấy. Tôi chắc chắn ở Osaka bạn ấy cũng sẽ có bạn mới. Yuki, giữ gìn sức khỏe nhé.",
+    "sentence_count": 12,
+    "text": "一番仲のいい友達のゆきちゃんが来月、大阪に引っ越します。お父さんの仕事で転校しなければなりません。ゆきちゃんは「本当は行きたくない」と泣いていました。私も悲しくて、泣いてしまいました。でも、ゆきちゃんに「忘れないでね」と言いました。クラスのみんなでお別れ会をしましょうと決めました。手紙やプレゼントも準備しています。みんなで寄せ書きも書きました。離れても、ずっと友達でいたいです。夏休みに会いに行こうと思います。きっと大阪でも新しい友達ができると思います。ゆきちゃん、元気でね。",
+    "translation": "Bạn thân nhất của tôi, Yuki, tháng sau sẽ chuyển đến Osaka. Vì công việc của bố nên bạn ấy phải chuyển trường. Yuki vừa khóc vừa nói: \"Thật ra mình không muốn đi\". Tôi cũng buồn quá nên đã khóc mất. Nhưng tôi đã nói với Yuki: \"Đừng quên nhé\". Cả lớp quyết định tổ chức tiệc chia tay. Chúng tôi đang chuẩn bị thư và quà. Mọi người cũng cùng nhau viết lưu bút. Dù xa nhau, tôi vẫn muốn mãi là bạn. Tôi định kỳ nghỉ hè sẽ đi gặp bạn ấy. Tôi chắc chắn ở Osaka bạn ấy cũng sẽ có bạn mới. Yuki, giữ gìn sức khỏe nhé.",
     "vocabulary": [
       {
         "word": "仲のいい",
@@ -723,6 +729,11 @@
         "word": "離れても",
         "reading": "はなれても",
         "meaning": "dù xa nhau"
+      },
+      {
+        "word": "寄せ書き",
+        "reading": "よせがき",
+        "meaning": "lưu bút (nhiều người cùng viết)"
       }
     ],
     "process": [
@@ -767,6 +778,12 @@
         "chunks": "手紙や / プレゼントも / 準備しています",
         "guide": "や liệt kê không đầy đủ → も thêm vào → ています đang tiến hành",
         "translation": "Chúng tôi đang chuẩn bị thư và quà."
+      },
+      {
+        "sentence": "みんなで寄せ書きも書きました。",
+        "chunks": "みんなで / 寄せ書きも / 書きました",
+        "guide": "で cùng nhau → も thêm vào (ngoài thư và quà, còn lưu bút nữa) → 書きました viết (quá khứ)",
+        "translation": "Mọi người cũng cùng nhau viết lưu bút."
       },
       {
         "sentence": "離れても、ずっと友達でいたいです。",
@@ -886,7 +903,7 @@
     "level_label": "N4_basic",
     "jlpt": "N4",
     "title": "文化祭の準備",
-    "title_vi": "CLB văn nghệ chuẩn bị văn hóa tế",
+    "title_vi": "Chuẩn bị lễ hội văn hóa",
     "topic": "school",
     "subtopic": "câu lạc bộ",
     "tags": [
@@ -904,11 +921,12 @@
       "～ましょう",
       "～たいです",
       "～なければなりません",
-      "～と思います"
+      "～と思います",
+      "〜てもらいたいです"
     ],
     "sentence_count": 11,
-    "text": "来週の土曜日に文化祭があります。私たちの演劇部は「桃太郎」をします。毎日、放課後に練習しています。部長は「台詞を覚えなければなりません」と言いました。私は桃太郎の役です。衣装も自分たちで作っています。先生は「本番では失敗してはいけません」と言いました。でも、みんなで楽しくやりましょうと話しました。お客さんにも楽しんでもらいたいです。昨日のリハーサルはうまくいきました。きっと本番も大丈夫だと思います。",
-    "translation": "Thứ bảy tuần sau có lễ hội văn hóa. Câu lạc bộ kịch của chúng tôi sẽ diễn vở \"Momotaro\". Mỗi ngày sau giờ học chúng tôi đều luyện tập. Trưởng nhóm nói: \"Phải học thuộc lời thoại\". Tôi đóng vai Momotaro. Trang phục cũng do chúng tôi tự làm. Thầy nói: \"Trong buổi diễn chính thức không được thất bại\". Nhưng chúng tôi đã nói với nhau: cùng nhau vui vẻ làm nhé. Tôi muốn khán giả cũng được vui. Buổi tổng duyệt hôm qua diễn ra suôn sẻ. Tôi nghĩ chắc chắn buổi diễn chính thức cũng sẽ ổn.",
+    "text": "来週の土曜日に文化祭があります。私たちの演劇部は「桃太郎」をします。毎日、放課後に練習しています。部長は「台詞を覚えなければなりません」と言いました。私は桃太郎の役です。衣装も自分たちで作っています。先生は「失敗を恐れないでやりましょう」と言いました。でも、みんなで楽しくやりましょうと話しました。お客さんにも楽しんでもらいたいです。昨日のリハーサルはうまくいきました。きっと本番も大丈夫だと思います。",
+    "translation": "Thứ bảy tuần sau có lễ hội văn hóa. Câu lạc bộ kịch của chúng tôi sẽ diễn vở \"Momotaro\". Mỗi ngày sau giờ học chúng tôi đều luyện tập. Trưởng nhóm nói: \"Phải học thuộc lời thoại\". Tôi đóng vai Momotaro. Trang phục cũng do chúng tôi tự làm. Thầy nói: \"Đừng sợ thất bại, cứ làm hết mình nào\". Nhưng chúng tôi đã nói với nhau: cùng nhau vui vẻ làm nhé. Tôi muốn khán giả cũng được vui. Buổi tổng duyệt hôm qua diễn ra suôn sẻ. Tôi nghĩ chắc chắn buổi diễn chính thức cũng sẽ ổn.",
     "vocabulary": [
       {
         "word": "文化祭",
@@ -984,10 +1002,10 @@
         "translation": "Trang phục cũng do chúng tôi tự làm."
       },
       {
-        "sentence": "先生は「本番では失敗してはいけません」と言いました。",
-        "chunks": "先生は / 本番では / 失敗してはいけません / と言いました",
-        "guide": "は chủ đề → では phạm vi → てはいけません cấm (không được làm) → と trích dẫn",
-        "translation": "Thầy nói: \"Trong buổi diễn chính thức không được thất bại\"."
+        "sentence": "先生は「失敗を恐れないでやりましょう」と言いました。",
+        "chunks": "先生は / 失敗を / 恐れないで / やりましょう / と言いました",
+        "guide": "は chủ đề → を đối tượng sợ → ないで đừng... → ましょう rủ rê cùng làm → と trích dẫn",
+        "translation": "Thầy nói: \"Đừng sợ thất bại, cứ làm hết mình nào\"."
       },
       {
         "sentence": "でも、みんなで楽しくやりましょうと話しました。",
@@ -1124,11 +1142,13 @@
       "～なければなりません",
       "～てみます",
       "～ないでください",
-      "～と思います"
+      "～と思います",
+      "〜（よ）うと思います",
+      "〜たら"
     ],
     "sentence_count": 11,
-    "text": "来月、初めてJLPTのN5を受けます。毎日、漢字や文法を勉強しています。リスニングが一番難しいです。先生は「あきらめないでください」と言ってくれました。友達のリンさんも一緒に受けます。二人で図書館で勉強しています。リンさんは「絶対合格したい」と言っていました。私も合格しなければなりません。試験の前の日は早く寝ようと思います。緊張していますが、頑張ってみます。合格したら、次はN4に挑戦したいです。",
-    "translation": "Tháng sau, tôi sẽ thi JLPT N5 lần đầu tiên. Mỗi ngày tôi đang học chữ Hán và ngữ pháp. Phần nghe là khó nhất. Thầy đã nói với tôi: \"Đừng bỏ cuộc\". Bạn Linh cũng thi cùng. Hai đứa cùng học ở thư viện. Linh nói: \"Nhất định muốn đỗ\". Tôi cũng phải đỗ. Tôi định đêm trước ngày thi sẽ ngủ sớm. Tôi hồi hộp nhưng sẽ thử cố gắng. Nếu đỗ, tiếp theo tôi muốn thử sức N4.",
+    "text": "7月に、初めてJLPTのN5を受けます。毎日、漢字や文法を勉強しています。リスニングが一番難しいです。先生は「あきらめないでください」と言ってくれました。友達のリンさんも一緒に受けます。二人で図書館で勉強しています。リンさんは「絶対合格したい」と言っていました。私も合格しなければなりません。試験の前の日は早く寝ようと思います。緊張していますが、頑張ってみます。合格したら、次はN4に挑戦したいです。",
+    "translation": "Tháng 7 này, tôi sẽ thi JLPT N5 lần đầu tiên. Mỗi ngày tôi đang học chữ Hán và ngữ pháp. Phần nghe là khó nhất. Thầy đã nói với tôi: \"Đừng bỏ cuộc\". Bạn Linh cũng thi cùng. Hai đứa cùng học ở thư viện. Linh nói: \"Nhất định muốn đỗ\". Tôi cũng phải đỗ. Tôi định đêm trước ngày thi sẽ ngủ sớm. Tôi hồi hộp nhưng sẽ thử cố gắng. Nếu đỗ, tiếp theo tôi muốn thử sức N4.",
     "vocabulary": [
       {
         "word": "受けます",
@@ -1168,10 +1188,10 @@
     ],
     "process": [
       {
-        "sentence": "来月、初めてJLPTのN5を受けます。",
-        "chunks": "来月 / 初めて / JLPTのN5を / 受けます",
-        "guide": "来月 thời gian → 初めて lần đầu tiên → の liên kết → を đối tượng → 受けます thi",
-        "translation": "Tháng sau, tôi sẽ thi JLPT N5 lần đầu tiên."
+        "sentence": "7月に、初めてJLPTのN5を受けます。",
+        "chunks": "7月に / 初めて / JLPTのN5を / 受けます",
+        "guide": "7月に thời điểm cụ thể (kỳ thi JLPT tháng 7) → 初めて lần đầu tiên → の liên kết → を đối tượng → 受けます thi",
+        "translation": "Tháng 7 này, tôi sẽ thi JLPT N5 lần đầu tiên."
       },
       {
         "sentence": "毎日、漢字や文法を勉強しています。",
@@ -1345,11 +1365,12 @@
       "～たいです",
       "～ましょう",
       "～てよかった",
-      "～と思います"
+      "～と思います",
+      "〜ても"
     ],
-    "sentence_count": 12,
-    "text": "今日は卒業式です。3年間、この学校で勉強しました。最初は友達がいなくて、寂しかったです。でも、クラスメートが話しかけてくれました。一緒に勉強したり、遊んだりしました。先生たちにもたくさんのことを教えてもらいました。文化祭や体育祭の思い出もたくさんあります。この学校に来てよかったと思います。卒業しても、みんなのことを忘れません。高校でも頑張りたいです。最後に、先生方、ありがとうございました。みんな、また会いましょう。",
-    "translation": "Hôm nay là lễ tốt nghiệp. Suốt 3 năm, tôi đã học ở trường này. Lúc đầu không có bạn, rất cô đơn. Nhưng các bạn cùng lớp đã bắt chuyện với tôi. Chúng tôi cùng nhau học và chơi. Các thầy cô cũng đã dạy cho tôi nhiều điều. Cũng có rất nhiều kỷ niệm về lễ hội văn hóa và hội thể thao. Tôi nghĩ thật may mắn khi đã đến trường này. Dù tốt nghiệp, tôi cũng không quên mọi người. Tôi muốn cố gắng ở trường cấp ba nữa. Cuối cùng, xin cảm ơn các thầy cô. Mọi người, hẹn gặp lại nhé.",
+    "sentence_count": 13,
+    "text": "今日は卒業式です。私は卒業生代表として答辞を読みました。3年間、この学校で勉強しました。最初は友達がいなくて、寂しかったです。でも、クラスメートが話しかけてくれました。一緒に勉強したり、遊んだりしました。先生たちにもたくさんのことを教えてもらいました。文化祭や体育祭の思い出もたくさんあります。この学校に来てよかったと思います。卒業しても、みんなのことを忘れません。高校でも頑張りたいです。最後に、先生方、ありがとうございました。みんな、また会いましょう。",
+    "translation": "Hôm nay là lễ tốt nghiệp. Tôi đọc lời đáp từ với tư cách đại diện học sinh tốt nghiệp. Suốt 3 năm, tôi đã học ở trường này. Lúc đầu không có bạn, rất cô đơn. Nhưng các bạn cùng lớp đã bắt chuyện với tôi. Chúng tôi cùng nhau học và chơi. Các thầy cô cũng đã dạy cho tôi nhiều điều. Cũng có rất nhiều kỷ niệm về lễ hội văn hóa và hội thể thao. Tôi nghĩ thật may mắn khi đã đến trường này. Dù tốt nghiệp, tôi cũng không quên mọi người. Tôi muốn cố gắng ở trường cấp ba nữa. Cuối cùng, xin cảm ơn các thầy cô. Mọi người, hẹn gặp lại nhé.",
     "vocabulary": [
       {
         "word": "卒業式",
@@ -1380,6 +1401,11 @@
         "word": "先生方",
         "reading": "せんせいがた",
         "meaning": "các thầy cô (kính ngữ)"
+      },
+      {
+        "word": "答辞",
+        "reading": "とうじ",
+        "meaning": "lời đáp từ (bài phát biểu đại diện học sinh)"
       }
     ],
     "process": [
@@ -1388,6 +1414,12 @@
         "chunks": "今日は / 卒業式です",
         "guide": "は chủ đề → です khẳng định. Câu mở đầu bài phát biểu",
         "translation": "Hôm nay là lễ tốt nghiệp."
+      },
+      {
+        "sentence": "私は卒業生代表として答辞を読みました。",
+        "chunks": "私は / 卒業生代表として / 答辞を / 読みました",
+        "guide": "は chủ đề → として tư cách/vai trò → を đối tượng → 読みました đọc (quá khứ). Làm rõ vai trò người kể trong lễ",
+        "translation": "Tôi đọc lời đáp từ với tư cách đại diện học sinh tốt nghiệp."
       },
       {
         "sentence": "3年間、この学校で勉強しました。",
@@ -1519,13 +1551,13 @@
         "question_vi": "\"Tôi\" nghĩ gì về trường này?",
         "answers": [
           {
-            "text": "あまりいい学校ではなかったと思っています。",
-            "text_vi": "Nghĩ là không phải trường tốt lắm.",
+            "text": "あまりいい学校ではなかったので、卒業してよかったと思っています。",
+            "text_vi": "Nghĩ là trường không tốt lắm nên tốt nghiệp thì mừng.",
             "is_correct": false
           },
           {
-            "text": "勉強だけの学校だったと思っています。",
-            "text_vi": "Nghĩ là trường chỉ có học.",
+            "text": "友達もいなくて、勉強だけの大変な学校だったと思っています。",
+            "text_vi": "Nghĩ là không có bạn, chỉ học, là trường vất vả.",
             "is_correct": false
           },
           {
@@ -1534,8 +1566,8 @@
             "is_correct": true
           },
           {
-            "text": "早く卒業したかったと思っています。",
-            "text_vi": "Nghĩ là muốn tốt nghiệp sớm.",
+            "text": "楽しいことは何もなくて、早く卒業したかったと思っています。",
+            "text_vi": "Nghĩ là không có gì vui, muốn tốt nghiệp sớm.",
             "is_correct": false
           }
         ],
@@ -1567,11 +1599,12 @@
       "～たり～たりしました",
       "～たいです",
       "～てよかった",
-      "～と思います"
+      "～と思います",
+      "〜たいと思います"
     ],
     "sentence_count": 12,
     "text": "先月、クラスのみんなで奈良に修学旅行に行きました。朝早くバスに乗って、3時間かかりました。最初に東大寺に行きました。大仏はとても大きくて、びっくりしました。鹿せんべいを買って、鹿にあげてみました。鹿がたくさん来て、少し怖かったです。お昼は奈良公園でお弁当を食べました。午後は春日大社を見たり、お土産を買ったりしました。友達と写真もたくさん撮りました。帰りのバスではみんな疲れて寝ていました。とても楽しい旅行で、また行きたいと思います。奈良に行ってよかったです。",
-    "translation": "Tháng trước, cả lớp đã đi du lịch trường đến Nara. Sáng sớm lên xe buýt, mất 3 tiếng. Đầu tiên chúng tôi đi đến chùa Todaiji. Tượng Phật lớn rất to, tôi rất ngạc nhiên. Tôi mua bánh senbei và thử cho hươu ăn. Hươu đến rất nhiều, hơi sợ. Buổi trưa chúng tôi ăn cơm hộp ở công viên Nara. Buổi chiều chúng tôi tham quan đền Kasuga Taisha và mua quà lưu niệm. Tôi cũng chụp rất nhiều ảnh với bạn bè. Trên xe buýt về, mọi người mệt nên ngủ hết. Là chuyến đi rất vui, tôi nghĩ muốn đi lại lần nữa. Thật may đã đi Nara.",
+    "translation": "Tháng trước, cả lớp đã đi du lịch trường đến Nara. Sáng sớm lên xe buýt, mất 3 tiếng. Đầu tiên chúng tôi đi đến chùa Todaiji. Tượng Phật lớn rất to, tôi rất ngạc nhiên. Tôi mua bánh senbei và thử cho hươu ăn. Hươu đến rất nhiều, hơi sợ. Buổi trưa chúng tôi ăn cơm hộp ở công viên Nara. Buổi chiều chúng tôi tham quan đền Kasuga Taisha và mua quà lưu niệm. Tôi cũng chụp rất nhiều ảnh với bạn bè. Trên xe buýt về, mọi người mệt nên ngủ hết. Đây là chuyến đi rất vui và tôi muốn đi lại lần nữa. Thật may đã đi Nara.",
     "vocabulary": [
       {
         "word": "修学旅行",
@@ -1673,8 +1706,8 @@
       {
         "sentence": "とても楽しい旅行で、また行きたいと思います。",
         "chunks": "とても楽しい旅行で / また / 行きたい / と思います",
-        "guide": "で nối câu → また lần nữa → たい mong muốn → と思います ý kiến",
-        "translation": "Là chuyến đi rất vui, tôi nghĩ muốn đi lại lần nữa."
+        "guide": "で nối câu (tóm kết) → また lần nữa → たいと思います mong muốn + ý kiến kết hợp",
+        "translation": "Đây là chuyến đi rất vui và tôi muốn đi lại lần nữa."
       },
       {
         "sentence": "奈良に行ってよかったです。",
@@ -1714,31 +1747,31 @@
       },
       {
         "id": "R_0078_Q2",
-        "question": "鹿にせんべいをあげた時、どうなりましたか。",
-        "question_vi": "Khi cho hươu ăn bánh senbei thì sao?",
+        "question": "怖い経験もあったのに、なぜ旅行は「とても楽しい」と感じましたか。",
+        "question_vi": "Dù có trải nghiệm đáng sợ, tại sao chuyến đi vẫn cảm thấy \"rất vui\"?",
         "answers": [
           {
-            "text": "鹿は逃げてしまいました。",
-            "text_vi": "Hươu chạy mất.",
+            "text": "怖いことがなかったから、楽しかったです。",
+            "text_vi": "Vì không có gì đáng sợ nên vui.",
             "is_correct": false
           },
           {
-            "text": "鹿がたくさん来て、少し怖かったです。",
-            "text_vi": "Hươu đến nhiều, hơi sợ.",
+            "text": "クラスみんなで一緒に体験して、思い出がたくさんできたからです。",
+            "text_vi": "Vì cùng trải nghiệm với cả lớp và tạo được nhiều kỷ niệm.",
             "is_correct": true
           },
           {
-            "text": "鹿は食べませんでした。",
-            "text_vi": "Hươu không ăn.",
+            "text": "東大寺の大仏がとても大きくて感動したから楽しかったです。",
+            "text_vi": "Vì tượng Phật ở Todaiji rất to và cảm động nên vui.",
             "is_correct": false
           },
           {
-            "text": "鹿は1匹だけ来ました。",
-            "text_vi": "Chỉ có một con hươu đến.",
+            "text": "お弁当がとてもおいしかったので、旅行が楽しかったです。",
+            "text_vi": "Vì cơm hộp rất ngon nên chuyến đi vui.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 6 nói 「鹿がたくさん来て、少し怖かったです」→ が chủ ngữ + て形 nối nguyên nhân = hươu đến nhiều nên hơi sợ."
+        "explanation": "Dù câu 6 nói 「少し怖かった」(hơi sợ hươu), nhưng câu 8-9 cho thấy đi tham quan + mua quà + chụp ảnh với bạn, câu 10 mọi người mệt nên ngủ → suy luận: chuyến đi vui vì có nhiều hoạt động, trải nghiệm cùng bạn bè, không phải vì không có điều đáng sợ."
       },
       {
         "id": "R_0078_Q3",
@@ -1794,11 +1827,13 @@
       "～たいです",
       "～なければなりません",
       "～ないでください",
-      "～と思います"
+      "～と思います",
+      "可能形（〜られる）",
+      "〜そうです（伝聞）"
     ],
     "sentence_count": 11,
-    "text": "今日、コンビニのアルバイトの面接に行きました。初めての面接なので、とても緊張しました。母は「自信を持ってください」と言ってくれました。面接官は「なぜここで働きたいですか」と聞きました。私は「接客を学びたいです」と答えました。「週に何日働けますか」と聞かれました。「平日は学校があるので、土日に働きたいです」と言いました。面接官は「遅刻しないでくださいね」と言いました。結果は来週メールで連絡するそうです。受かったら、一生懸命頑張らなければなりません。いい結果が来ると思います。",
-    "translation": "Hôm nay tôi đã đi phỏng vấn làm thêm ở cửa hàng tiện lợi. Vì là lần phỏng vấn đầu tiên nên rất hồi hộp. Mẹ nói với tôi: \"Hãy tự tin\". Người phỏng vấn hỏi: \"Tại sao muốn làm việc ở đây?\". Tôi trả lời: \"Tôi muốn học cách phục vụ khách hàng\". Tôi được hỏi: \"Một tuần làm được mấy ngày?\". Tôi nói: \"Ngày thường có trường nên muốn làm thứ bảy, chủ nhật\". Người phỏng vấn nói: \"Đừng đi muộn nhé\". Kết quả sẽ liên lạc bằng email tuần sau. Nếu đỗ, tôi phải cố gắng hết sức. Tôi nghĩ sẽ có kết quả tốt.",
+    "text": "今日、コンビニのアルバイトの面接に行きました。初めての面接なので、とても緊張しました。母は「自信を持ってください」と言ってくれました。面接官は「なぜここで働きたいですか」と聞きました。私は「接客を学びたいです」と答えました。「週に何日働けますか」と聞かれました。「平日は学校があるので、土日に働きたいです」と言いました。面接官は「遅刻しないでくださいね」と言いました。結果は2〜3日後に電話で連絡するそうです。受かったら、一生懸命頑張らなければなりません。いい結果が来ると思います。",
+    "translation": "Hôm nay tôi đã đi phỏng vấn làm thêm ở cửa hàng tiện lợi. Vì là lần phỏng vấn đầu tiên nên rất hồi hộp. Mẹ nói với tôi: \"Hãy tự tin\". Người phỏng vấn hỏi: \"Tại sao muốn làm việc ở đây?\". Tôi trả lời: \"Tôi muốn học cách phục vụ khách hàng\". Tôi được hỏi: \"Một tuần làm được mấy ngày?\". Tôi nói: \"Ngày thường có trường nên muốn làm thứ bảy, chủ nhật\". Người phỏng vấn nói: \"Đừng đi muộn nhé\". Nghe nói kết quả sẽ gọi điện thông báo trong vòng 2-3 ngày. Nếu đỗ, tôi phải cố gắng hết sức. Tôi nghĩ sẽ có kết quả tốt.",
     "vocabulary": [
       {
         "word": "面接",
@@ -1886,10 +1921,10 @@
         "translation": "Người phỏng vấn nói: \"Đừng đi muộn nhé\"."
       },
       {
-        "sentence": "結果は来週メールで連絡するそうです。",
-        "chunks": "結果は / 来週 / メールで / 連絡するそうです",
-        "guide": "は chủ đề → 来週 thời gian → で phương tiện → そうです nghe nói, truyền đạt",
-        "translation": "Kết quả sẽ liên lạc bằng email tuần sau."
+        "sentence": "結果は2〜3日後に電話で連絡するそうです。",
+        "chunks": "結果は / 2〜3日後に / 電話で / 連絡するそうです",
+        "guide": "は chủ đề → 2〜3日後に thời gian cụ thể → で phương tiện (điện thoại) → そうです nghe nói (truyền văn)",
+        "translation": "Nghe nói kết quả sẽ gọi điện thông báo trong vòng 2-3 ngày."
       },
       {
         "sentence": "受かったら、一生懸命頑張らなければなりません。",
@@ -1935,59 +1970,59 @@
       },
       {
         "id": "R_0079_Q2",
-        "question": "「私」はいつ働きたいと言いましたか。",
-        "question_vi": "\"Tôi\" nói muốn làm khi nào?",
+        "question": "「私」はなぜ土日に働きたいと言いましたか。",
+        "question_vi": "Tại sao \"tôi\" nói muốn làm vào thứ bảy, chủ nhật?",
         "answers": [
           {
-            "text": "毎日働きたいと言いました。",
-            "text_vi": "Nói muốn làm mỗi ngày.",
+            "text": "土日の方が給料が高いからです。",
+            "text_vi": "Vì lương cuối tuần cao hơn.",
             "is_correct": false
           },
           {
-            "text": "平日に働きたいと言いました。",
-            "text_vi": "Nói muốn làm ngày thường.",
+            "text": "友達も土日に働いているからです。",
+            "text_vi": "Vì bạn bè cũng làm cuối tuần.",
             "is_correct": false
           },
           {
-            "text": "土日に働きたいと言いました。",
-            "text_vi": "Nói muốn làm thứ bảy, chủ nhật.",
+            "text": "平日は学校があるので、土日しか働けないからです。",
+            "text_vi": "Vì ngày thường có trường nên chỉ có thể làm cuối tuần.",
             "is_correct": true
           },
           {
-            "text": "夏休みだけ働きたいと言いました。",
-            "text_vi": "Nói muốn làm chỉ kỳ nghỉ hè.",
+            "text": "コンビニが土日だけ開いているからです。",
+            "text_vi": "Vì cửa hàng tiện lợi chỉ mở cuối tuần.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 7 trích dẫn 「平日は学校があるので、土日に働きたいです」→ ので nguyên nhân → に thời điểm = muốn làm cuối tuần."
+        "explanation": "Câu 7 trích dẫn 「平日は学校があるので、土日に働きたいです」→ ので chỉ nguyên nhân: có trường ngày thường → 働けない khả năng bị hạn chế → suy luận: cuối tuần là lựa chọn duy nhất khả thi, không phải vì lương hay lý do khác."
       },
       {
         "id": "R_0079_Q3",
-        "question": "「私」は面接の結果についてどう思っていますか。",
-        "question_vi": "\"Tôi\" nghĩ gì về kết quả phỏng vấn?",
+        "question": "もし面接に受からなかったら、「私」はどうすると思いますか。",
+        "question_vi": "Nếu không qua phỏng vấn, \"tôi\" sẽ làm gì?",
         "answers": [
           {
-            "text": "たぶん落ちたと思っています。",
-            "text_vi": "Nghĩ là chắc trượt rồi.",
+            "text": "もうアルバイトを探さないと思います。",
+            "text_vi": "Chắc sẽ không tìm việc làm thêm nữa.",
             "is_correct": false
           },
           {
-            "text": "わからないと思っています。",
-            "text_vi": "Nghĩ là không biết.",
-            "is_correct": false
-          },
-          {
-            "text": "いい結果が来ると思っています。",
-            "text_vi": "Nghĩ là sẽ có kết quả tốt.",
+            "text": "すぐに別のアルバイトを探すか、学校に集中すると思います。",
+            "text_vi": "Chắc sẽ tìm việc khác hoặc tập trung vào việc học.",
             "is_correct": true
           },
           {
-            "text": "もう一度面接したいと思っています。",
-            "text_vi": "Nghĩ là muốn phỏng vấn lại.",
+            "text": "面接官に文句を言いに行くと思います。",
+            "text_vi": "Chắc sẽ đến phàn nàn với người phỏng vấn.",
+            "is_correct": false
+          },
+          {
+            "text": "家族に怒ると思います。",
+            "text_vi": "Chắc sẽ nổi giận với gia đình.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu cuối nói 「いい結果が来ると思います」+ câu 10 nói nếu đỗ sẽ cố gắng → suy luận: lạc quan về kết quả, tin mình sẽ được nhận."
+        "explanation": "Văn bản không nói rõ, nhưng câu 7 nói 「平日は学校があるので」→ học vẫn là ưu tiên. Câu 10 nói 受かったら頑張る → hàm ý nếu không đỗ, cuộc sống tiếp tục. Suy luận hợp lý nhất: tìm việc khác hoặc tập trung học, phù hợp với thái độ tích cực của nhân vật."
       }
     ]
   },
@@ -1996,8 +2031,8 @@
     "level": 3,
     "level_label": "N4_basic",
     "jlpt": "N4",
-    "title": "日本人の同僚",
-    "title_vi": "Đồng nghiệp người Nhật",
+    "title": "日本人の先輩",
+    "title_vi": "Tiền bối người Nhật",
     "topic": "work",
     "subtopic": "đồng nghiệp",
     "tags": [
@@ -2016,16 +2051,18 @@
       "～たいです",
       "～ないでください",
       "～てみます",
-      "～と思います"
+      "～と思います",
+      "〜たことがあります",
+      "〜のおかげで"
     ],
     "sentence_count": 11,
-    "text": "私はベトナム人で、日本のレストランで働いています。先月、新しい同僚の田中さんが来ました。田中さんは私に日本語の敬語を教えてくれます。最初は「お客様」や「かしこまりました」が難しかったです。でも、田中さんは「間違えてもいいですよ、心配しないでください」と言ってくれました。田中さんにベトナム料理の作り方を教えてみました。田中さんは「フォーがとてもおいしい！」と喜んでいました。休みの日に一緒にカラオケに行ったこともあります。田中さんのおかげで、日本語がだんだん上手になっています。もっと日本語を勉強して、将来はレストランのマネージャーになりたいです。いい同僚に出会えてよかったと思います。",
-    "translation": "Tôi là người Việt Nam, đang làm việc ở nhà hàng Nhật Bản. Tháng trước, đồng nghiệp mới là anh Tanaka đã đến. Anh Tanaka dạy cho tôi kính ngữ tiếng Nhật. Lúc đầu, \"quý khách\" hay \"vâng, tôi hiểu rồi\" rất khó. Nhưng anh Tanaka nói: \"Sai cũng không sao, đừng lo lắng\". Tôi đã thử dạy anh Tanaka cách nấu món Việt Nam. Anh Tanaka vui mừng nói: \"Phở rất ngon!\". Cũng có lần nghỉ chúng tôi đi karaoke cùng nhau. Nhờ anh Tanaka, tiếng Nhật của tôi dần dần giỏi lên. Tôi muốn học thêm tiếng Nhật, tương lai trở thành quản lý nhà hàng. Tôi nghĩ thật may đã gặp được đồng nghiệp tốt.",
+    "text": "私はベトナム人で、日本のレストランで働いています。職場には先輩の田中さんがいます。田中さんは私に日本語の敬語を教えてくれます。最初は「お客様」や「かしこまりました」が難しかったです。でも、田中さんは「間違えてもいいですよ、心配しないでください」と言ってくれました。田中さんにベトナム料理の作り方を教えてみました。田中さんは「フォーがとてもおいしい！」と喜んでいました。休みの日に一緒にカラオケに行ったこともあります。田中さんのおかげで、日本語がだんだん上手になっています。もっと日本語を勉強して、将来はレストランのマネージャーになりたいです。いい先輩に出会えてよかったと思います。",
+    "translation": "Tôi là người Việt Nam, đang làm việc ở nhà hàng Nhật Bản. Ở chỗ làm có anh Tanaka là tiền bối. Anh Tanaka dạy cho tôi kính ngữ tiếng Nhật. Lúc đầu, \"quý khách\" hay \"vâng, tôi hiểu rồi\" rất khó. Nhưng anh Tanaka nói: \"Sai cũng không sao, đừng lo lắng\". Tôi đã thử dạy anh Tanaka cách nấu món Việt Nam. Anh Tanaka vui mừng nói: \"Phở rất ngon!\". Cũng có lần nghỉ chúng tôi đi karaoke cùng nhau. Nhờ anh Tanaka, tiếng Nhật của tôi dần dần giỏi lên. Tôi muốn học thêm tiếng Nhật, tương lai trở thành quản lý nhà hàng. Tôi nghĩ thật may đã gặp được tiền bối tốt.",
     "vocabulary": [
       {
-        "word": "同僚",
-        "reading": "どうりょう",
-        "meaning": "đồng nghiệp"
+        "word": "先輩",
+        "reading": "せんぱい",
+        "meaning": "tiền bối, đàn anh/chị đi trước"
       },
       {
         "word": "敬語",
@@ -2066,10 +2103,10 @@
         "translation": "Tôi là người Việt Nam, đang làm việc ở nhà hàng Nhật Bản."
       },
       {
-        "sentence": "先月、新しい同僚の田中さんが来ました。",
-        "chunks": "先月 / 新しい同僚の / 田中さんが / 来ました",
-        "guide": "先月 thời gian → の liên kết → が chủ ngữ mới → 来ました đến",
-        "translation": "Tháng trước, đồng nghiệp mới là anh Tanaka đã đến."
+        "sentence": "職場には先輩の田中さんがいます。",
+        "chunks": "職場には / 先輩の / 田中さんが / います",
+        "guide": "には chủ đề + nơi chốn → の liên kết 'tiền bối' + 'Tanaka' → が chủ ngữ → います tồn tại",
+        "translation": "Ở chỗ làm có anh Tanaka là tiền bối."
       },
       {
         "sentence": "田中さんは私に日本語の敬語を教えてくれます。",
@@ -2120,10 +2157,10 @@
         "translation": "Tôi muốn học thêm tiếng Nhật, tương lai trở thành quản lý nhà hàng."
       },
       {
-        "sentence": "いい同僚に出会えてよかったと思います。",
-        "chunks": "いい同僚に / 出会えてよかった / と思います",
+        "sentence": "いい先輩に出会えてよかったと思います。",
+        "chunks": "いい先輩に / 出会えてよかった / と思います",
         "guide": "に đối tượng gặp → 出会えて khả năng gặp được + よかった may mắn → と思います ý kiến. Câu kết bày tỏ lòng biết ơn",
-        "translation": "Tôi nghĩ thật may đã gặp được đồng nghiệp tốt."
+        "translation": "Tôi nghĩ thật may đã gặp được tiền bối tốt."
       }
     ],
     "comprehension": [
@@ -2189,13 +2226,13 @@
         "question_vi": "Mối quan hệ giữa \"tôi\" và anh Tanaka như thế nào?",
         "answers": [
           {
-            "text": "仕事だけの関係で、あまり話しません。",
-            "text_vi": "Chỉ là quan hệ công việc, không nói chuyện nhiều.",
+            "text": "仕事のことだけ話す関係で、プライベートでは会いません。",
+            "text_vi": "Chỉ nói chuyện công việc, ngoài giờ làm không gặp nhau.",
             "is_correct": false
           },
           {
-            "text": "田中さんは厳しい先輩で、怖いです。",
-            "text_vi": "Anh Tanaka là tiền bối nghiêm khắc, đáng sợ.",
+            "text": "田中さんは厳しい先輩で、いつも怒っています。",
+            "text_vi": "Anh Tanaka là tiền bối nghiêm khắc, lúc nào cũng mắng.",
             "is_correct": false
           },
           {
@@ -2204,12 +2241,12 @@
             "is_correct": true
           },
           {
-            "text": "あまり仲がよくないです。",
-            "text_vi": "Không thân lắm.",
+            "text": "最初は仲がよかったけど、最近あまり話さなくなりました。",
+            "text_vi": "Ban đầu thân nhưng gần đây ít nói chuyện hơn.",
             "is_correct": false
           }
         ],
-        "explanation": "Tanaka dạy kính ngữ (câu 3), 'tôi' dạy nấu ăn (câu 6), cùng đi karaoke (câu 8), cuối bài nói 「いい同僚に出会えてよかった」→ suy luận: quan hệ tốt, hỗ trợ lẫn nhau cả trong và ngoài công việc."
+        "explanation": "Tanaka dạy kính ngữ (câu 3), 'tôi' dạy nấu ăn (câu 6), cùng đi karaoke (câu 8), cuối bài nói 「いい先輩に出会えてよかった」→ suy luận: quan hệ tốt, hỗ trợ lẫn nhau cả trong và ngoài công việc."
       }
     ]
   }

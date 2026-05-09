@@ -95,7 +95,7 @@
       {
         "sentence": "地図も書きました。",
         "chunks": "地図も / 書きました",
-        "guide": "も 'cũng, còn... nữa' → ました làm giúp cho tôi. Nhân viên không chỉ chỉ đường mà còn vẽ bản đồ",
+        "guide": "も 'cũng, còn... nữa' → 書きました vẽ/viết bản đồ giúp cho tôi. Nhân viên không chỉ chỉ đường mà còn vẽ bản đồ",
         "translation": "Họ còn vẽ bản đồ cho tôi nữa."
       },
       {
@@ -166,7 +166,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 5 nói 「店員さんに道を聞きました」(hỏi đường) và câu 7 nói 「地図も書いてくれました」(còn vẽ bản đồ) → も cho thấy nhân viên làm cả 2 việc."
+        "explanation": "Câu 5 nói 「店員さんに道を聞きました」(hỏi đường) và câu 7 nói 「地図も書きました」(còn vẽ bản đồ) → も cho thấy nhân viên làm cả 2 việc."
       }
     ]
   },
@@ -199,8 +199,8 @@
       "～から～まで"
     ],
     "sentence_count": 10,
-    "text": "先月、大阪に旅行に行きました。東京から大阪まで新幹線で行きました。大阪の食べ物はとてもおいしかったです。たこ焼きを食べました。お好み焼きも食べました。たこ焼きはお好み焼きよりおいしかったです。大阪城にも行きました。大阪城はとても大きかったです。写真をたくさん撮りました。大阪はとても楽しい町でした。",
-    "translation": "Tháng trước, tôi đi du lịch Osaka. Tôi đi từ Tokyo đến Osaka bằng tàu shinkansen. Đồ ăn ở Osaka rất ngon. Tôi ăn takoyaki. Tôi cũng ăn okonomiyaki. Takoyaki ngon hơn okonomiyaki. Tôi cũng đi thành Osaka. Thành Osaka rất lớn. Tôi chụp rất nhiều ảnh. Osaka là một thành phố rất vui.",
+    "text": "先月、大阪に旅行に行きました。東京から大阪まで新幹線で行きました。大阪の食べ物はとてもおいしかったです。たこ焼きを食べました。お好み焼きも食べました。たこ焼きはお好み焼きよりおいしかったです。大阪城にも行きました。大阪城はとても大きかったです。写真をたくさん撮りました。大阪はとても楽しかったです。",
+    "translation": "Tháng trước, tôi đi du lịch Osaka. Tôi đi từ Tokyo đến Osaka bằng tàu shinkansen. Đồ ăn ở Osaka rất ngon. Tôi ăn takoyaki. Tôi cũng ăn okonomiyaki. Takoyaki ngon hơn okonomiyaki. Tôi cũng đi thành Osaka. Thành Osaka rất lớn. Tôi chụp rất nhiều ảnh. Osaka rất vui.",
     "vocabulary": [
       {
         "word": "旅行",
@@ -284,10 +284,10 @@
         "translation": "Tôi chụp rất nhiều ảnh."
       },
       {
-        "sentence": "大阪はとても楽しい町でした。",
-        "chunks": "大阪は / とても / 楽しい町でした",
-        "guide": "は chủ đề → とても nhấn mạnh → 楽しい町でした đánh giá tổng kết: thành phố vui",
-        "translation": "Osaka là một thành phố rất vui."
+        "sentence": "大阪はとても楽しかったです。",
+        "chunks": "大阪は / とても / 楽しかったです",
+        "guide": "は chủ đề → とても nhấn mạnh → 楽しかったです tính từ quá khứ: câu kết tổng kết cảm nhận",
+        "translation": "Osaka rất vui."
       }
     ],
     "comprehension": [
@@ -336,7 +336,7 @@
           },
           {
             "text": "同じぐらいおいしかったです。",
-            "text_vi": "Ngon ngang nhau.",
+            "text_vi": "Ngon tương đương nhau.",
             "is_correct": false
           },
           {
@@ -375,8 +375,8 @@
       "～で食べます"
     ],
     "sentence_count": 9,
-    "text": "私はすしが大好きです。いろいろなすしの中で、サーモンが一番好きです。マグロも好きですが、サーモンよりおいしくないです。毎月、家族と回転ずしに行きます。父はエビが好きです。母はたまごのすしだけ食べます。私はいつもサーモンを5皿食べます。回転ずしは安くておいしいです。すしは日本で一番おいしい食べ物です。",
-    "translation": "Tôi rất thích sushi. Trong các loại sushi, tôi thích cá hồi nhất. Tôi cũng thích cá ngừ, nhưng không ngon bằng cá hồi. Hàng tháng, tôi đi ăn sushi băng chuyền với gia đình. Bố thích tôm. Mẹ chỉ ăn sushi trứng thôi. Tôi luôn ăn 5 đĩa cá hồi. Sushi băng chuyền vừa rẻ vừa ngon. Sushi là món ăn ngon nhất ở Nhật.",
+    "text": "私はすしが大好きです。いろいろなすしの中で、サーモンが一番好きです。マグロも好きですが、サーモンよりおいしくないです。毎月、家族と回転ずしに行きます。父はエビが好きです。母はたまごのすしだけ食べます。私はいつもサーモンを5皿食べます。回転ずしは安くておいしいです。すしは私の大好きな日本の食べ物です。",
+    "translation": "Tôi rất thích sushi. Trong các loại sushi, tôi thích cá hồi nhất. Tôi cũng thích cá ngừ, nhưng không ngon bằng cá hồi. Hàng tháng, tôi đi ăn sushi băng chuyền với gia đình. Bố thích tôm. Mẹ chỉ ăn sushi trứng thôi. Tôi luôn ăn 5 đĩa cá hồi. Sushi băng chuyền vừa rẻ vừa ngon. Sushi là món ăn Nhật mà tôi yêu thích nhất.",
     "vocabulary": [
       {
         "word": "サーモン",
@@ -454,10 +454,10 @@
         "translation": "Sushi băng chuyền vừa rẻ vừa ngon."
       },
       {
-        "sentence": "すしは日本で一番おいしい食べ物です。",
-        "chunks": "すしは / 日本で / 一番おいしい / 食べ物です",
-        "guide": "は chủ đề → で phạm vi → 一番 nhất → kết luận tổng kết bài",
-        "translation": "Sushi là món ăn ngon nhất ở Nhật."
+        "sentence": "すしは私の大好きな日本の食べ物です。",
+        "chunks": "すしは / 私の / 大好きな / 日本の食べ物です",
+        "guide": "は chủ đề → 私の大好きな 'mà tôi yêu thích' → câu kết bày tỏ cảm nhận cá nhân, không khẳng định tuyệt đối",
+        "translation": "Sushi là món ăn Nhật mà tôi yêu thích nhất."
       }
     ],
     "comprehension": [
@@ -487,35 +487,35 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 2 nói 「サーモンが一番好きです」→ が + 一番 = thích nhất là cá hồi. ⚠️ Bẫy: エビ là bố thích, たまご là mẹ ăn."
+        "explanation": "Câu 2 nói 「サーモンが一番好きです」→ が + 一番 = thích nhất là cá hồi. Bẫy: エビ là bố thích, たまご là mẹ ăn."
       },
       {
         "id": "R_0053_Q2",
-        "question": "お母さんはどんなすしを食べますか。",
-        "question_vi": "Mẹ ăn loại sushi nào?",
+        "question": "家族の中で、誰が一番すしをたくさん食べると思いますか。",
+        "question_vi": "Trong gia đình, bạn nghĩ ai ăn sushi nhiều nhất?",
         "answers": [
           {
-            "text": "サーモンだけ食べます。",
-            "text_vi": "Chỉ ăn cá hồi.",
+            "text": "父です。エビのすしをたくさん食べます。",
+            "text_vi": "Bố. Bố ăn nhiều sushi tôm.",
             "is_correct": false
           },
           {
-            "text": "たまごのすしだけ食べます。",
-            "text_vi": "Chỉ ăn sushi trứng.",
+            "text": "母です。いろいろなすしを食べます。",
+            "text_vi": "Mẹ. Mẹ ăn nhiều loại sushi.",
+            "is_correct": false
+          },
+          {
+            "text": "この人です。いつもサーモンを5皿食べます。",
+            "text_vi": "Người này. Luôn ăn 5 đĩa cá hồi.",
             "is_correct": true
           },
           {
-            "text": "エビのすしだけ食べます。",
-            "text_vi": "Chỉ ăn sushi tôm.",
-            "is_correct": false
-          },
-          {
-            "text": "何でも食べます。",
-            "text_vi": "Ăn gì cũng được.",
+            "text": "みんな同じぐらい食べます。",
+            "text_vi": "Mọi người ăn ngang nhau.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 6 nói 「母はたまごのすしだけ食べます」→ だけ giới hạn = mẹ chỉ ăn sushi trứng thôi."
+        "explanation": "Câu 7 nói 「私はいつもサーモンを5皿食べます」→ 5皿 là con số cụ thể và nhiều. Câu 6 nói mẹ だけ (chỉ) ăn 1 loại → ngụ ý ít. Bố không có số lượng đề cập → suy luận: người kể ăn nhiều nhất."
       }
     ]
   },
@@ -544,13 +544,13 @@
       "～になりました"
     ],
     "sentence_count": 10,
-    "text": "今日はみそ汁を作ります。まず、水を鍋に入れます。次に、豆腐を小さく切ります。わかめも使います。水がお湯になりました。お湯にだしを入れます。それから、豆腐とわかめを入れます。最後に、みそを入れます。みそは最後に入れます。みそ汁は朝から晩まで飲みます。",
-    "translation": "Hôm nay tôi nấu canh miso. Trước tiên, cho nước vào nồi. Tiếp theo, cắt đậu phụ nhỏ. Cũng dùng rong biển wakame. Nước đã sôi thành nước nóng. Cho bột dashi vào nước nóng. Sau đó, cho đậu phụ và wakame vào. Cuối cùng, cho miso vào. Miso thì cho vào cuối cùng. Canh miso uống từ sáng đến tối.",
+    "text": "今日はみそ汁を作ります。まず、水を鍋に入れます。次に、豆腐を小さく切ります。わかめも使います。水がお湯になりました。お湯にだしを入れます。それから、豆腐とわかめを入れます。最後に、みそを入れます。みそは最後に入れます。みそ汁は毎日朝ごはんに飲みます。",
+    "translation": "Hôm nay tôi nấu canh miso. Trước tiên, cho nước vào nồi. Tiếp theo, cắt đậu phụ nhỏ. Cũng dùng rong biển wakame. Nước đã sôi thành nước nóng. Cho bột dashi vào nước nóng. Sau đó, cho đậu phụ và wakame vào. Cuối cùng, cho miso vào. Miso thì cho vào cuối cùng. Canh miso uống vào bữa sáng mỗi ngày.",
     "vocabulary": [
       {
         "word": "みそ汁",
         "reading": "みそしる",
-        "meaning": "canh miso"
+        "meaning": "súp miso"
       },
       {
         "word": "鍋",
@@ -629,10 +629,10 @@
         "translation": "Miso thì cho vào cuối cùng."
       },
       {
-        "sentence": "みそ汁は朝から晩まで飲みます。",
-        "chunks": "みそ汁は / 朝から / 晩まで / 飲みます",
-        "guide": "は chủ đề → から bắt đầu → まで kết thúc → 飲みます uống. Câu kết: canh miso uống suốt ngày",
-        "translation": "Canh miso uống từ sáng đến tối."
+        "sentence": "みそ汁は毎日朝ごはんに飲みます。",
+        "chunks": "みそ汁は / 毎日 / 朝ごはんに / 飲みます",
+        "guide": "は chủ đề → 毎日 mỗi ngày → に thời điểm 'bữa sáng' → 飲みます uống. Câu kết: thói quen uống canh miso buổi sáng",
+        "translation": "Canh miso uống vào bữa sáng mỗi ngày."
       }
     ],
     "comprehension": [
@@ -720,8 +720,8 @@
       "～も～ます"
     ],
     "sentence_count": 10,
-    "text": "金曜日に友達とラーメン屋に行きました。店の前に人がたくさんいました。30分ぐらい待ちました。やっと店に入りました。私はみそラーメンを注文しました。友達はしょうゆラーメンを注文しました。ラーメンはとても熱かったです。でも、とてもおいしかったです。ぎょうざも食べました。あの店のラーメンは800円からです。",
-    "translation": "Thứ sáu, tôi đi quán ramen với bạn. Trước cửa hàng có rất nhiều người. Chờ khoảng 30 phút. Cuối cùng cũng vào được cửa hàng. Tôi gọi ramen miso. Bạn tôi gọi ramen nước tương. Ramen rất nóng. Nhưng rất ngon. Tôi cũng ăn gyoza. Ramen ở quán đó giá từ 800 yên.",
+    "text": "金曜日に友達とラーメン屋に行きました。店の前に人がたくさんいました。30分ぐらい待ちました。やっと店に入りました。私はみそラーメンを注文しました。友達はしょうゆラーメンを注文しました。ラーメンはとても熱かったです。でも、とてもおいしかったです。ぎょうざも食べました。あの店のラーメンは1000円からです。",
+    "translation": "Thứ sáu, tôi đi quán ramen với bạn. Trước cửa hàng có rất nhiều người. Chờ khoảng 30 phút. Cuối cùng cũng vào được cửa hàng. Tôi gọi ramen miso. Bạn tôi gọi ramen nước tương. Ramen rất nóng. Nhưng rất ngon. Tôi cũng ăn gyoza. Ramen ở quán đó giá từ 1000 yên.",
     "vocabulary": [
       {
         "word": "ラーメン屋",
@@ -805,10 +805,10 @@
         "translation": "Tôi cũng ăn gyoza."
       },
       {
-        "sentence": "あの店のラーメンは800円からです。",
-        "chunks": "あの店のラーメンは / 800円からです",
+        "sentence": "あの店のラーメンは1000円からです。",
+        "chunks": "あの店のラーメンは / 1000円からです",
         "guide": "の liên kết → は chủ đề → から 'từ' (giá khởi điểm) → です khẳng định",
-        "translation": "Ramen ở quán đó giá từ 800 yên."
+        "translation": "Ramen ở quán đó giá từ 1000 yên."
       }
     ],
     "comprehension": [
@@ -866,7 +866,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 5 nói 「私はみそラーメンを注文しました」→ は chỉ chủ đề 'tôi' → gọi ramen miso. ⚠️ Bẫy: しょうゆラーメン là bạn gọi (câu 6)."
+        "explanation": "Câu 5 nói 「私はみそラーメンを注文しました」→ は chỉ chủ đề 'tôi' → gọi ramen miso. Bẫy: しょうゆラーメン là bạn gọi (câu 6)."
       }
     ]
   },
@@ -1036,7 +1036,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 3 nói 「和菓子はあんこで作ります」→ で chỉ nguyên liệu = đậu đỏ. ⚠️ Bẫy: クリーム và チョコレート là nguyên liệu của 洋菓子 (câu 4)."
+        "explanation": "Câu 3 nói 「和菓子はあんこで作ります」→ で chỉ nguyên liệu = đậu đỏ. Bẫy: クリーム và チョコレート là nguyên liệu của 洋菓子 (câu 4)."
       }
     ]
   },
@@ -1063,9 +1063,9 @@
       "～で食べます",
       "～も～ます"
     ],
-    "sentence_count": 10,
-    "text": "日本では食事の前に「いただきます」と言います。食事の後に「ごちそうさまでした」と言います。はしで食べます。はしは右手で持ちます。ごはんは左手で持ちます。はしをごはんに立てません。それはとても悪いです。みそ汁もはしで飲みます。スプーンは使いません。日本の食事のマナーは大切です。",
-    "translation": "Ở Nhật, trước bữa ăn nói \"itadakimasu\". Sau bữa ăn nói \"gochisousama deshita\". Ăn bằng đũa. Đũa cầm bằng tay phải. Cơm cầm bằng tay trái. Không cắm đũa vào cơm. Điều đó rất xấu. Canh miso cũng uống bằng đũa. Không dùng thìa. Quy tắc ăn uống ở Nhật rất quan trọng.",
+    "sentence_count": 12,
+    "text": "日本では食事の前に「いただきます」と言います。食事の後に「ごちそうさまでした」と言います。はしで食べます。はしは右手で持ちます。ごはんのちゃわんは左手で持ちます。はしをごはんに立てません。それはとても悪いです。はしからはしへ食べ物を渡しません。みそ汁はおわんを持って飲みます。具(ぐ)ははしで食べます。スプーンは使いません。日本の食事のマナーは大切です。",
+    "translation": "Ở Nhật, trước bữa ăn nói \"itadakimasu\". Sau bữa ăn nói \"gochisousama deshita\". Ăn bằng đũa. Đũa cầm bằng tay phải. Chén cơm cầm bằng tay trái. Không cắm đũa vào cơm. Điều đó rất xấu. Không chuyền đồ ăn từ đũa sang đũa. Canh miso uống bằng cách nâng bát lên. Cái trong canh thì dùng đũa ăn. Không dùng thìa. Quy tắc ăn uống ở Nhật rất quan trọng.",
     "vocabulary": [
       {
         "word": "食事",
@@ -1083,9 +1083,14 @@
         "meaning": "đũa"
       },
       {
-        "word": "右手",
-        "reading": "みぎて",
-        "meaning": "tay phải"
+        "word": "ちゃわん",
+        "reading": "ちゃわん",
+        "meaning": "chén cơm"
+      },
+      {
+        "word": "おわん",
+        "reading": "おわん",
+        "meaning": "bát canh"
       },
       {
         "word": "大切",
@@ -1119,10 +1124,10 @@
         "translation": "Đũa cầm bằng tay phải."
       },
       {
-        "sentence": "ごはんは左手で持ちます。",
-        "chunks": "ごはんは / 左手で / 持ちます",
-        "guide": "は chuyển chủ đề → で tay trái. Đối lập với câu trước: đũa phải, cơm trái",
-        "translation": "Cơm cầm bằng tay trái."
+        "sentence": "ごはんのちゃわんは左手で持ちます。",
+        "chunks": "ごはんのちゃわんは / 左手で / 持ちます",
+        "guide": "の liên kết → は chủ đề rõ ràng 'chén cơm' → で tay trái. Đối lập với câu trước: đũa phải, chén trái",
+        "translation": "Chén cơm cầm bằng tay trái."
       },
       {
         "sentence": "はしをごはんに立てません。",
@@ -1137,10 +1142,22 @@
         "translation": "Điều đó rất xấu."
       },
       {
-        "sentence": "みそ汁もはしで飲みます。",
-        "chunks": "みそ汁も / はしで / 飲みます",
-        "guide": "も 'cũng' → で phương tiện → 飲みます uống. Điểm thú vị: canh cũng dùng đũa",
-        "translation": "Canh miso cũng uống bằng đũa."
+        "sentence": "はしからはしへ食べ物を渡しません。",
+        "chunks": "はしから / はしへ / 食べ物を / 渡しません",
+        "guide": "から điểm xuất phát → へ điểm đến → を đối tượng → 渡しません phủ định: không chuyền đồ ăn từ đũa sang đũa (tabu tang lễ)",
+        "translation": "Không chuyền đồ ăn từ đũa sang đũa."
+      },
+      {
+        "sentence": "みそ汁はおわんを持って飲みます。",
+        "chunks": "みそ汁は / おわんを / 持って / 飲みます",
+        "guide": "は chủ đề → を đối tượng 'bát canh' → 持って nâng lên cầm → 飲みます uống. Cách đúng: nâng bát lên uống",
+        "translation": "Canh miso uống bằng cách nâng bát lên."
+      },
+      {
+        "sentence": "具(ぐ)ははしで食べます。",
+        "chunks": "具は / はしで / 食べます",
+        "guide": "は chủ đề 'cái trong canh' → で phương tiện đũa → 食べます ăn. Phân biệt: nước canh uống bằng bát, cái dùng đũa",
+        "translation": "Cái trong canh thì dùng đũa ăn."
       },
       {
         "sentence": "スプーンは使いません。",
@@ -1182,12 +1199,12 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 4 nói 「はしは右手で持ちます」→ で chỉ phương tiện/bộ phận = tay phải. ⚠️ Bẫy: 左手 là cầm cơm (câu 5), không phải đũa."
+        "explanation": "Câu 4 nói 「はしは右手で持ちます」→ で chỉ phương tiện/bộ phận = tay phải. Bẫy: 左手 là cầm chén cơm (câu 5), không phải đũa."
       },
       {
         "id": "R_0057_Q2",
-        "question": "みそ汁は何で飲みますか。",
-        "question_vi": "Canh miso uống bằng gì?",
+        "question": "みそ汁はどうやって飲みますか。",
+        "question_vi": "Canh miso uống như thế nào?",
         "answers": [
           {
             "text": "スプーンで飲みます。",
@@ -1195,22 +1212,22 @@
             "is_correct": false
           },
           {
-            "text": "フォークで飲みます。",
-            "text_vi": "Uống bằng dĩa.",
+            "text": "はしで飲みます。",
+            "text_vi": "Uống bằng đũa.",
             "is_correct": false
           },
           {
-            "text": "はしで飲みます。",
-            "text_vi": "Uống bằng đũa.",
+            "text": "おわんを持って飲みます。",
+            "text_vi": "Nâng bát lên uống.",
             "is_correct": true
           },
           {
-            "text": "コップで飲みます。",
-            "text_vi": "Uống bằng cốc.",
+            "text": "コップに入れて飲みます。",
+            "text_vi": "Đổ vào cốc uống.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 8 nói 「みそ汁もはしで飲みます」→ も 'cũng' = canh cũng dùng đũa, và câu 9 khẳng định 「スプーンは使いません」= không dùng thìa."
+        "explanation": "Câu 9 nói 「みそ汁はおわんを持って飲みます」→ おわんを持って = nâng bát lên cầm mà uống. Câu 11 khẳng định 「スプーンは使いません」= không dùng thìa."
       }
     ]
   },
@@ -1241,8 +1258,8 @@
       "～に行きます"
     ],
     "sentence_count": 10,
-    "text": "日曜日に上野動物園に行きました。動物園にはいろいろな動物がいます。パンダが一番人気です。パンダはとてもかわいかったです。ぞうも見ました。ぞうはパンダより大きかったです。きりんは首がとても長かったです。さるは木の上で遊んでいました。ペンギンは水の中で泳いでいました。動物園は子供も大人も楽しいです。",
-    "translation": "Chủ nhật, tôi đi sở thú Ueno. Sở thú có rất nhiều loại động vật. Gấu trúc được yêu thích nhất. Gấu trúc rất dễ thương. Tôi cũng xem voi. Voi to hơn gấu trúc. Hươu cao cổ có cổ rất dài. Khỉ đang chơi trên cây. Chim cánh cụt đang bơi trong nước. Sở thú thì trẻ em cũng người lớn cũng vui.",
+    "text": "日曜日に上野動物園に行きました。動物園にはいろいろな動物がいます。パンダが一番人気です。パンダはとてもかわいかったです。ぞうも見ました。ぞうはパンダより大きいです。きりんは首がとても長かったです。さるは木の上で遊んでいました。ペンギンは水の中で泳いでいました。動物園は子供にも大人にも人気です。",
+    "translation": "Chủ nhật, tôi đi sở thú Ueno. Sở thú có rất nhiều loại động vật. Gấu trúc được yêu thích nhất. Gấu trúc rất dễ thương. Tôi cũng xem voi. Voi to hơn gấu trúc. Hươu cao cổ có cổ rất dài. Khỉ đang chơi trên cây. Chim cánh cụt đang bơi trong nước. Sở thú được cả trẻ em lẫn người lớn yêu thích.",
     "vocabulary": [
       {
         "word": "動物園",
@@ -1257,7 +1274,7 @@
       {
         "word": "ぞう",
         "reading": "ぞう",
-        "meaning": "voi"
+        "meaning": "con voi (động vật)"
       },
       {
         "word": "きりん",
@@ -1302,9 +1319,9 @@
         "translation": "Tôi cũng xem voi."
       },
       {
-        "sentence": "ぞうはパンダより大きかったです。",
-        "chunks": "ぞうは / パンダより / 大きかったです",
-        "guide": "は chủ đề → より so sánh → 大きかったです to hơn. Cấu trúc A は B より ～",
+        "sentence": "ぞうはパンダより大きいです。",
+        "chunks": "ぞうは / パンダより / 大きいです",
+        "guide": "は chủ đề → より so sánh → 大きいです to hơn (hiện tại). Cấu trúc A は B より ～. Voi luôn to hơn gấu trúc",
         "translation": "Voi to hơn gấu trúc."
       },
       {
@@ -1326,10 +1343,10 @@
         "translation": "Chim cánh cụt đang bơi trong nước."
       },
       {
-        "sentence": "動物園は子供も大人も楽しいです。",
-        "chunks": "動物園は / 子供も / 大人も / 楽しいです",
-        "guide": "は chủ đề → も...も 'cả A lẫn B' → 楽しいです vui. Câu kết tổng kết",
-        "translation": "Sở thú thì trẻ em cũng người lớn cũng vui."
+        "sentence": "動物園は子供にも大人にも人気です。",
+        "chunks": "動物園は / 子供にも / 大人にも / 人気です",
+        "guide": "は chủ đề → にも...にも 'cả A lẫn B' (trợ từ に chỉ đối tượng) → 人気です được yêu thích. Câu kết tổng kết",
+        "translation": "Sở thú được cả trẻ em lẫn người lớn yêu thích."
       }
     ],
     "comprehension": [
@@ -1378,7 +1395,7 @@
           },
           {
             "text": "同じぐらいです。",
-            "text_vi": "To ngang nhau.",
+            "text_vi": "To tương đương nhau.",
             "is_correct": false
           },
           {
@@ -1387,7 +1404,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 6 nói 「ぞうはパンダより大きかったです」→ より so sánh = voi to hơn gấu trúc."
+        "explanation": "Câu 6 nói 「ぞうはパンダより大きいです」→ より so sánh = voi to hơn gấu trúc."
       }
     ]
   },
@@ -1565,7 +1582,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 7 nói 「母は泳ぎませんでした」(không bơi) và câu 8 nói 「母は砂浜で本を読みました」→ で nơi hành động = đọc sách trên bãi cát. ⚠️ Bẫy: 泳ぎました là câu sai vì bài nói rõ mẹ KHÔNG bơi."
+        "explanation": "Câu 7 nói 「母は泳ぎませんでした」(không bơi) và câu 8 nói 「母は砂浜で本を読みました」→ で nơi hành động = đọc sách trên bãi cát. Bẫy: 泳ぎました là câu sai vì bài nói rõ mẹ KHÔNG bơi."
       }
     ]
   },
@@ -1598,8 +1615,8 @@
       "～も～ます"
     ],
     "sentence_count": 10,
-    "text": "昨日、父と東京ドームに野球の試合を見に行きました。試合は6時から始まりました。席はとても良かったです。グラウンドが近かったです。選手はとても速く走りました。ホームランも出ました。みんなで大きい声を出しました。やきそばを食べました。ビールも飲みました。試合は9時まで続きました。私のチームが勝ちました。",
-    "translation": "Hôm qua, tôi đi xem trận bóng chày ở Tokyo Dome với bố. Trận đấu bắt đầu từ 6 giờ. Chỗ ngồi rất tốt. Sân gần. Cầu thủ chạy rất nhanh. Cũng có cú home run. Mọi người cùng hét lớn. Tôi cũng ăn yakisoba. Cũng uống bia. Trận đấu kéo dài đến 9 giờ. Đội của tôi đã thắng.",
+    "text": "昨日、父と東京ドームに野球の試合を見に行きました。試合は6時から始まりました。席はとても良かったです。グラウンドが近かったです。選手はとても速く走りました。ホームランも出ました。みんなで大きい声を出しました。やきそばを食べました。試合は9時まで続きました。私のチームが勝ちました。",
+    "translation": "Hôm qua, tôi đi xem trận bóng chày ở Tokyo Dome với bố. Trận đấu bắt đầu từ 6 giờ. Chỗ ngồi rất tốt. Sân gần. Cầu thủ chạy rất nhanh. Cũng có cú home run. Mọi người cùng hét lớn. Tôi ăn yakisoba. Trận đấu kéo dài đến 9 giờ. Đội của tôi đã thắng.",
     "vocabulary": [
       {
         "word": "野球",
@@ -1667,14 +1684,14 @@
       {
         "sentence": "みんなで大きい声を出しました。",
         "chunks": "みんなで / 大きい声を / 出しました",
-        "guide": "で 'cùng nhau' (みんなで) → を đối tượng → 出しました phát ra tiếng",
+        "guide": "で chỉ nhóm thực hiện hành động (みんな = mọi người), không phải 'cùng nhau' (đó là 一緒に) → を đối tượng → 出しました phát ra tiếng",
         "translation": "Mọi người cùng hét lớn."
       },
       {
         "sentence": "やきそばを食べました。",
-        "chunks": " / やきそばも / 食べました",
-        "guide": "と liệt kê → も 'cũng' → ngoài xem còn ăn uống",
-        "translation": "Tôi cũng ăn yakisoba."
+        "chunks": "やきそばを / 食べました",
+        "guide": "を đối tượng trực tiếp → 食べました ăn yakisoba",
+        "translation": "Tôi ăn yakisoba."
       },
       {
         "sentence": "試合は9時まで続きました。",

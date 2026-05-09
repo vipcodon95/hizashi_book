@@ -202,7 +202,7 @@
       {
         "word": "楽しい",
         "reading": "たのしい",
-        "meaning": "vui"
+        "meaning": "vui, thú vị"
       }
     ],
     "process": [
@@ -333,8 +333,8 @@
       "～が好きです"
     ],
     "sentence_count": 7,
-    "text": "私の趣味は折り紙です。きれいな紙で動物を作ります。鶴が一番好きです。赤い紙と青い紙をよく使います。毎日一つ作ります。今、部屋に折り紙の鶴が百あります。友達にも折り紙をあげます。",
-    "translation": "Sở thích của tôi là origami. Tôi dùng giấy đẹp để làm động vật. Tôi thích hạc giấy nhất. Tôi hay dùng giấy đỏ và giấy xanh. Mỗi ngày tôi làm một con. Bây giờ trong phòng tôi có một trăm con hạc origami. Tôi cũng tặng origami cho bạn bè.",
+    "text": "私の趣味は折り紙です。きれいな紙で動物を作ります。鶴が一番好きです。赤い紙とピンクの紙をよく使います。毎日一つ作ります。今、部屋に折り紙の鶴が百羽あります。友達にも折り紙をあげます。",
+    "translation": "Sở thích của tôi là origami. Tôi dùng giấy đẹp để làm động vật. Tôi thích hạc giấy nhất. Tôi hay dùng giấy đỏ và giấy hồng. Mỗi ngày tôi làm một con. Bây giờ trong phòng tôi có một trăm con hạc origami. Tôi cũng tặng origami cho bạn bè.",
     "vocabulary": [
       {
         "word": "趣味",
@@ -357,9 +357,9 @@
         "meaning": "nhất"
       },
       {
-        "word": "百",
-        "reading": "ひゃく",
-        "meaning": "một trăm"
+        "word": "羽",
+        "reading": "わ",
+        "meaning": "con (đơn vị đếm chim)"
       }
     ],
     "process": [
@@ -382,10 +382,10 @@
         "translation": "Tôi thích hạc giấy nhất."
       },
       {
-        "sentence": "赤い紙と青い紙をよく使います。",
-        "chunks": "赤い紙と / 青い紙を / よく / 使います",
-        "guide": "と liệt kê 'giấy đỏ' + 'giấy xanh' → を đối tượng → よく bổ sung tần suất → 使います hành động",
-        "translation": "Tôi hay dùng giấy đỏ và giấy xanh."
+        "sentence": "赤い紙とピンクの紙をよく使います。",
+        "chunks": "赤い紙と / ピンクの紙を / よく / 使います",
+        "guide": "と liệt kê 'giấy đỏ' + 'giấy hồng' → を đối tượng → よく bổ sung tần suất → 使います hành động",
+        "translation": "Tôi hay dùng giấy đỏ và giấy hồng."
       },
       {
         "sentence": "毎日一つ作ります。",
@@ -394,9 +394,9 @@
         "translation": "Mỗi ngày tôi làm một con."
       },
       {
-        "sentence": "今、部屋に折り紙の鶴が百あります。",
-        "chunks": "今 / 部屋に / 折り紙の鶴が / 百 / あります",
-        "guide": "今 thời gian hiện tại → に chỉ nơi tồn tại 'trong phòng' → の liên kết 'origami' + 'hạc' → が chủ ngữ tồn tại → 百 số lượng → あります xác nhận",
+        "sentence": "今、部屋に折り紙の鶴が百羽あります。",
+        "chunks": "今 / 部屋に / 折り紙の鶴が / 百羽 / あります",
+        "guide": "今 thời gian hiện tại → に chỉ nơi tồn tại 'trong phòng' → の liên kết 'origami' + 'hạc' → が chủ ngữ tồn tại → 百羽 số lượng (羽 = đơn vị đếm chim) → あります xác nhận",
         "translation": "Bây giờ trong phòng tôi có một trăm con hạc origami."
       },
       {
@@ -437,31 +437,31 @@
       },
       {
         "id": "R_0023_Q2",
-        "question": "部屋に鶴はいくつありますか。",
-        "question_vi": "Trong phòng có bao nhiêu con hạc?",
+        "question": "この人はなぜ鶴をたくさん作りますか。",
+        "question_vi": "Tại sao người này làm nhiều hạc origami?",
         "answers": [
           {
-            "text": "十あります。",
-            "text_vi": "Có mười con.",
+            "text": "売るために作ります。",
+            "text_vi": "Làm để bán.",
             "is_correct": false
           },
           {
-            "text": "五十あります。",
-            "text_vi": "Có năm mươi con.",
-            "is_correct": false
-          },
-          {
-            "text": "百あります。",
-            "text_vi": "Có một trăm con.",
+            "text": "好きで毎日作り、友達にもあげます。",
+            "text_vi": "Vì thích, mỗi ngày làm một con và tặng cho bạn bè.",
             "is_correct": true
           },
           {
-            "text": "二百あります。",
-            "text_vi": "Có hai trăm con.",
+            "text": "学校の宿題です。",
+            "text_vi": "Là bài tập về nhà của trường.",
+            "is_correct": false
+          },
+          {
+            "text": "部屋をかざるためだけです。",
+            "text_vi": "Chỉ để trang trí phòng.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 6 nói 「部屋に折り紙の鶴が百あります」→ に chỉ nơi + が chủ ngữ tồn tại = 100 con hạc trong phòng."
+        "explanation": "Câu 3 nói 「鶴が一番好きです」, câu 5 nói 「毎日一つ作ります」, câu 7 nói 「友達にも折り紙をあげます」→ kết hợp: vì thích nên làm mỗi ngày và còn tặng cho bạn."
       }
     ]
   },
@@ -492,8 +492,8 @@
       "～で～を撮ります"
     ],
     "sentence_count": 7,
-    "text": "私の趣味は写真です。花の写真を撮ります。日曜日に公園に行きます。公園にきれいな花がたくさんあります。赤い花と白い花が好きです。カメラは小さいカメラを使います。写真はとてもきれいです。",
-    "translation": "Sở thích của tôi là chụp ảnh. Tôi chụp ảnh hoa. Chủ nhật tôi đi công viên. Ở công viên có rất nhiều hoa đẹp. Tôi thích hoa đỏ và hoa trắng. Máy ảnh thì tôi dùng máy ảnh nhỏ. Ảnh rất đẹp.",
+    "text": "私の趣味は写真です。花の写真を撮ります。日曜日に公園に行きます。公園にきれいな花がたくさんあります。赤い花と白い花が好きです。小さいカメラを使います。写真はとてもきれいです。",
+    "translation": "Sở thích của tôi là chụp ảnh. Tôi chụp ảnh hoa. Chủ nhật tôi đi công viên. Ở công viên có rất nhiều hoa đẹp. Tôi thích hoa đỏ và hoa trắng. Tôi dùng máy ảnh nhỏ. Ảnh rất đẹp.",
     "vocabulary": [
       {
         "word": "写真",
@@ -548,10 +548,10 @@
         "translation": "Tôi thích hoa đỏ và hoa trắng."
       },
       {
-        "sentence": "カメラは小さいカメラを使います。",
-        "chunks": "カメラは / 小さいカメラを / 使います",
-        "guide": "は đặt chủ đề 'máy ảnh' → を đối tượng cụ thể 'máy ảnh nhỏ' → 使います hành động",
-        "translation": "Máy ảnh thì tôi dùng máy ảnh nhỏ."
+        "sentence": "小さいカメラを使います。",
+        "chunks": "小さいカメラを / 使います",
+        "guide": "を đối tượng 'máy ảnh nhỏ' → 使います hành động sử dụng. Chủ ngữ lược bỏ (vẫn là 'tôi')",
+        "translation": "Tôi dùng máy ảnh nhỏ."
       },
       {
         "sentence": "写真はとてもきれいです。",
@@ -804,8 +804,8 @@
       "～で寝ます"
     ],
     "sentence_count": 8,
-    "text": "私の家に猫がいます。名前はミケです。ミケは三歳です。白と茶色の猫です。ミケは魚が好きです。毎日魚を食べます。昼はソファーの上で寝ます。ミケはとてもかわいいです。",
-    "translation": "Nhà tôi có một con mèo. Tên là Mike. Mike ba tuổi. Là con mèo trắng và nâu. Mike thích cá. Mỗi ngày nó ăn cá. Buổi trưa nó ngủ trên ghế sofa. Mike rất dễ thương.",
+    "text": "私の家に猫がいます。名前はミケです。ミケは三歳です。白と茶色の猫です。ミケは魚が好きです。毎日魚を食べます。昼間はソファーの上で寝ます。ミケはとてもかわいいです。",
+    "translation": "Nhà tôi có một con mèo. Tên là Mike. Mike ba tuổi. Là con mèo trắng và nâu. Mike thích cá. Mỗi ngày nó ăn cá. Ban ngày nó ngủ trên ghế sofa. Mike rất dễ thương.",
     "vocabulary": [
       {
         "word": "猫",
@@ -871,10 +871,10 @@
         "translation": "Mỗi ngày nó ăn cá."
       },
       {
-        "sentence": "昼はソファーの上で寝ます。",
-        "chunks": "昼は / ソファーの上で / 寝ます",
-        "guide": "は chỉ thời gian 'buổi trưa' → の liên kết 'sofa' + 'trên' → で chỉ nơi hành động → 寝ます hành động ngủ",
-        "translation": "Buổi trưa nó ngủ trên ghế sofa."
+        "sentence": "昼間はソファーの上で寝ます。",
+        "chunks": "昼間は / ソファーの上で / 寝ます",
+        "guide": "昼間は 'ban ngày' (昼間 = cả buổi ban ngày, tự nhiên hơn 昼) → の liên kết 'sofa' + 'trên' → で chỉ nơi hành động → 寝ます hành động ngủ",
+        "translation": "Ban ngày nó ngủ trên ghế sofa."
       },
       {
         "sentence": "ミケはとてもかわいいです。",
@@ -914,31 +914,31 @@
       },
       {
         "id": "R_0026_Q2",
-        "question": "ミケは何が好きですか。",
-        "question_vi": "Mike thích gì?",
+        "question": "ミケは昼間どこで寝ますか。",
+        "question_vi": "Ban ngày Mike ngủ ở đâu?",
         "answers": [
           {
-            "text": "肉が好きです。",
-            "text_vi": "Thích thịt.",
+            "text": "床で寝ます。",
+            "text_vi": "Ngủ dưới sàn.",
             "is_correct": false
           },
           {
-            "text": "魚が好きです。",
-            "text_vi": "Thích cá.",
+            "text": "ソファーの上で寝ます。",
+            "text_vi": "Ngủ trên ghế sofa.",
             "is_correct": true
           },
           {
-            "text": "野菜が好きです。",
-            "text_vi": "Thích rau.",
+            "text": "ベッドの上で寝ます。",
+            "text_vi": "Ngủ trên giường.",
             "is_correct": false
           },
           {
-            "text": "ミルクが好きです。",
-            "text_vi": "Thích sữa.",
+            "text": "窓の近くで寝ます。",
+            "text_vi": "Ngủ gần cửa sổ.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 5 nói 「ミケは魚が好きです」→ が chỉ đối tượng yêu thích = thích cá."
+        "explanation": "Câu 7 nói 「昼間はソファーの上で寝ます」→ で chỉ nơi hành động = ngủ trên sofa. Phải đọc câu 7 để biết nơi, không chỉ biết thời gian."
       }
     ]
   },
@@ -960,11 +960,12 @@
     ],
     "grammar_used": [
       "～は～です",
-      "～の～"
+      "～の～",
+      "～が～ます"
     ],
     "sentence_count": 8,
-    "text": "日本には四つの季節があります。春と夏と秋と冬です。春は暖かいです。桜がきれいです。夏は暑いです。海で泳ぎます。秋は涼しいです。冬は寒いです。",
-    "translation": "Nhật Bản có bốn mùa. Đó là xuân, hạ, thu và đông. Mùa xuân ấm áp. Hoa anh đào đẹp. Mùa hè nóng. Mọi người bơi ở biển. Mùa thu mát mẻ. Mùa đông lạnh.",
+    "text": "日本には四つの季節があります。春と夏と秋と冬です。春は暖かいです。桜がきれいです。夏は暑いです。夏は海で泳ぎます。秋は紅葉がきれいです。冬は雪が降ります。",
+    "translation": "Nhật Bản có bốn mùa. Đó là xuân, hạ, thu và đông. Mùa xuân ấm áp. Hoa anh đào đẹp. Mùa hè nóng. Mùa hè bơi ở biển. Mùa thu lá đỏ đẹp. Mùa đông tuyết rơi.",
     "vocabulary": [
       {
         "word": "季節",
@@ -982,14 +983,14 @@
         "meaning": "ấm áp"
       },
       {
-        "word": "涼しい",
-        "reading": "すずしい",
-        "meaning": "mát mẻ"
+        "word": "紅葉",
+        "reading": "こうよう",
+        "meaning": "lá đỏ mùa thu"
       },
       {
-        "word": "泳ぎます",
-        "reading": "およぎます",
-        "meaning": "bơi"
+        "word": "雪",
+        "reading": "ゆき",
+        "meaning": "tuyết"
       }
     ],
     "process": [
@@ -1024,22 +1025,22 @@
         "translation": "Mùa hè nóng."
       },
       {
-        "sentence": "海で泳ぎます。",
-        "chunks": "海で / 泳ぎます",
-        "guide": "で chỉ nơi hành động 'ở biển' → 泳ぎます hành động bơi. Câu nối tiếp mùa hè",
-        "translation": "Mọi người bơi ở biển."
+        "sentence": "夏は海で泳ぎます。",
+        "chunks": "夏は / 海で / 泳ぎます",
+        "guide": "夏は đặt chủ đề rõ ràng 'mùa hè' → で chỉ nơi hành động 'ở biển' → 泳ぎます hành động bơi. Chủ đề 夏は = hoạt động của mùa hè",
+        "translation": "Mùa hè bơi ở biển."
       },
       {
-        "sentence": "秋は涼しいです。",
-        "chunks": "秋は / 涼しいです",
-        "guide": "は chuyển chủ đề → 'mùa thu' → 涼しいです tính chất mát mẻ",
-        "translation": "Mùa thu mát mẻ."
+        "sentence": "秋は紅葉がきれいです。",
+        "chunks": "秋は / 紅葉が / きれいです",
+        "guide": "は chuyển chủ đề → 'mùa thu' → が chủ ngữ 'lá đỏ' → きれいです tính chất đẹp. 紅葉 = lá cây chuyển màu đỏ/vàng mùa thu Nhật",
+        "translation": "Mùa thu lá đỏ đẹp."
       },
       {
-        "sentence": "冬は寒いです。",
-        "chunks": "冬は / 寒いです",
-        "guide": "は chuyển chủ đề → 'mùa đông' → 寒いです tính chất lạnh. Kết thúc bằng mùa cuối",
-        "translation": "Mùa đông lạnh."
+        "sentence": "冬は雪が降ります。",
+        "chunks": "冬は / 雪が / 降ります",
+        "guide": "は chuyển chủ đề → 'mùa đông' → が chủ ngữ 'tuyết' → 降ります hành động rơi. Câu kết thúc bằng mùa cuối",
+        "translation": "Mùa đông tuyết rơi."
       }
     ],
     "comprehension": [
@@ -1097,7 +1098,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Sau câu 5 「夏は暑いです」, câu 6 nối tiếp 「海で泳ぎます」→ で chỉ nơi = bơi ở biển vào mùa hè."
+        "explanation": "Câu 6 nói 「夏は海で泳ぎます」→ 夏は chỉ rõ mùa hè + で chỉ nơi = bơi ở biển vào mùa hè."
       }
     ]
   },
@@ -1128,8 +1129,8 @@
       "～で～をします"
     ],
     "sentence_count": 7,
-    "text": "学校の前に大きい桜の木があります。春に花が咲きます。花はピンク色です。とてもきれいです。学生は桜の下でお弁当を食べます。私も友達と桜を見ます。桜は日本の花です。",
-    "translation": "Trước trường có một cây hoa anh đào lớn. Mùa xuân hoa nở. Hoa màu hồng. Rất đẹp. Học sinh ăn cơm hộp dưới gốc anh đào. Tôi cũng ngắm hoa anh đào với bạn bè. Hoa anh đào là loài hoa của Nhật Bản.",
+    "text": "学校の前に大きい桜の木があります。春に花が咲きます。花はピンク色です。とてもきれいです。家族は桜の下でお弁当を食べます。私も友達と桜を見ます。桜は日本の花です。",
+    "translation": "Trước trường có một cây hoa anh đào lớn. Mùa xuân hoa nở. Hoa màu hồng. Rất đẹp. Cả gia đình ăn cơm hộp dưới gốc anh đào. Tôi cũng ngắm hoa anh đào với bạn bè. Hoa anh đào là loài hoa của Nhật Bản.",
     "vocabulary": [
       {
         "word": "桜",
@@ -1183,15 +1184,15 @@
         "translation": "Rất đẹp."
       },
       {
-        "sentence": "学生は桜の下でお弁当を食べます。",
-        "chunks": "学生は / 桜の下で / お弁当を / 食べます",
-        "guide": "は chủ đề 'học sinh' → の liên kết 'anh đào' + 'dưới' → で chỉ nơi hành động → を đối tượng 'cơm hộp' → 食べます hành động",
-        "translation": "Học sinh ăn cơm hộp dưới gốc anh đào."
+        "sentence": "家族は桜の下でお弁当を食べます。",
+        "chunks": "家族は / 桜の下で / お弁当を / 食べます",
+        "guide": "は chủ đề 'gia đình' (花見 = ngắm hoa, thường là gia đình/bạn bè đi cùng nhau) → の liên kết 'anh đào' + 'dưới' → で chỉ nơi hành động → を đối tượng 'cơm hộp' → 食べます hành động",
+        "translation": "Cả gia đình ăn cơm hộp dưới gốc anh đào."
       },
       {
         "sentence": "私も友達と桜を見ます。",
         "chunks": "私も / 友達と / 桜を / 見ます",
-        "guide": "も 'cũng' → giống học sinh khác → と chỉ đối tác 'bạn bè' → を đối tượng → 見ます hành động ngắm",
+        "guide": "も 'cũng' → giống gia đình khác → と chỉ đối tác 'bạn bè' → を đối tượng → 見ます hành động ngắm",
         "translation": "Tôi cũng ngắm hoa anh đào với bạn bè."
       },
       {
@@ -1232,31 +1233,31 @@
       },
       {
         "id": "R_0028_Q2",
-        "question": "学生は桜の下で何をしますか。",
-        "question_vi": "Học sinh làm gì dưới gốc anh đào?",
+        "question": "桜の下で何をしますか。また、誰がしますか。",
+        "question_vi": "Ai làm gì dưới gốc anh đào?",
         "answers": [
           {
-            "text": "勉強をします。",
-            "text_vi": "Học bài.",
+            "text": "学生が勉強をします。",
+            "text_vi": "Học sinh học bài.",
             "is_correct": false
           },
           {
-            "text": "写真を撮ります。",
-            "text_vi": "Chụp ảnh.",
-            "is_correct": false
-          },
-          {
-            "text": "お弁当を食べます。",
-            "text_vi": "Ăn cơm hộp.",
+            "text": "家族がお弁当を食べます。",
+            "text_vi": "Gia đình ăn cơm hộp.",
             "is_correct": true
           },
           {
-            "text": "歌を歌います。",
-            "text_vi": "Hát.",
+            "text": "子供が桜の写真を撮ります。",
+            "text_vi": "Trẻ em chụp ảnh hoa anh đào.",
+            "is_correct": false
+          },
+          {
+            "text": "友達と歌を歌います。",
+            "text_vi": "Hát cùng bạn bè.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 5 nói 「学生は桜の下でお弁当を食べます」→ で chỉ nơi + を đối tượng = ăn cơm hộp dưới gốc anh đào."
+        "explanation": "Câu 5 nói 「家族は桜の下でお弁当を食べます」→ 家族は chủ đề + で chỉ nơi + を đối tượng = gia đình ăn cơm hộp dưới gốc anh đào (花見 - lễ ngắm hoa anh đào)."
       }
     ]
   },
@@ -1266,7 +1267,7 @@
     "level_label": "N5_basic",
     "jlpt": "N5",
     "title": "東京",
-    "title_vi": "Tokyo",
+    "title_vi": "Tokyo (Đông Kinh)",
     "topic": "geography",
     "subtopic": "thành phố",
     "tags": [
@@ -1285,8 +1286,8 @@
       "～も～"
     ],
     "sentence_count": 8,
-    "text": "東京は日本の首都です。とても大きい町です。人がたくさんいます。東京に東京タワーがあります。スカイツリーもあります。東京で買い物をします。おいしいレストランもたくさんあります。東京はとてもにぎやかです。",
-    "translation": "Tokyo là thủ đô của Nhật Bản. Là thành phố rất lớn. Có rất nhiều người. Ở Tokyo có tháp Tokyo. Cũng có Sky Tree. Ở Tokyo mọi người mua sắm. Cũng có rất nhiều nhà hàng ngon. Tokyo rất nhộn nhịp.",
+    "text": "東京は日本の首都です。とても大きい町です。人がたくさんいます。東京に東京タワーがあります。スカイツリーもあります。東京には電車がたくさんあります。東京でよく買い物をします。東京はとてもにぎやかです。",
+    "translation": "Tokyo là thủ đô của Nhật Bản. Là thành phố rất lớn. Có rất nhiều người. Ở Tokyo có tháp Tokyo. Cũng có Sky Tree. Tokyo có rất nhiều tàu điện. Ở Tokyo hay mua sắm. Tokyo rất nhộn nhịp.",
     "vocabulary": [
       {
         "word": "首都",
@@ -1304,9 +1305,9 @@
         "meaning": "tháp Tokyo"
       },
       {
-        "word": "買い物",
-        "reading": "かいもの",
-        "meaning": "mua sắm"
+        "word": "電車",
+        "reading": "でんしゃ",
+        "meaning": "tàu điện"
       },
       {
         "word": "にぎやか",
@@ -1346,16 +1347,16 @@
         "translation": "Cũng có Sky Tree."
       },
       {
-        "sentence": "東京で買い物をします。",
-        "chunks": "東京で / 買い物を / します",
-        "guide": "で chỉ nơi hành động 'ở Tokyo' → を đối tượng 'mua sắm' → します hành động",
-        "translation": "Ở Tokyo mọi người mua sắm."
+        "sentence": "東京には電車がたくさんあります。",
+        "chunks": "東京には / 電車が / たくさん / あります",
+        "guide": "には nhấn mạnh nơi chốn 'ở Tokyo' → が chủ ngữ 'tàu điện' → たくさん số lượng → あります xác nhận. 電車 là đặc trưng nổi bật của Tokyo",
+        "translation": "Tokyo có rất nhiều tàu điện."
       },
       {
-        "sentence": "おいしいレストランもたくさんあります。",
-        "chunks": "おいしいレストランも / たくさん / あります",
-        "guide": "も 'cũng' → ngoài mua sắm, còn có nhà hàng → たくさん số lượng → あります xác nhận",
-        "translation": "Cũng có rất nhiều nhà hàng ngon."
+        "sentence": "東京でよく買い物をします。",
+        "chunks": "東京で / よく / 買い物を / します",
+        "guide": "で chỉ nơi hành động 'ở Tokyo' → よく tần suất 'thường xuyên' → を đối tượng 'mua sắm' → します hành động",
+        "translation": "Ở Tokyo hay mua sắm."
       },
       {
         "sentence": "東京はとてもにぎやかです。",
@@ -1404,8 +1405,8 @@
             "is_correct": false
           },
           {
-            "text": "東京タワーとスカイツリーがあります。",
-            "text_vi": "Có tháp Tokyo và Sky Tree.",
+            "text": "東京タワーとスカイツリーと電車がたくさんあります。",
+            "text_vi": "Có tháp Tokyo, Sky Tree và rất nhiều tàu điện.",
             "is_correct": true
           },
           {
@@ -1419,7 +1420,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 4 nói 「東京タワーがあります」và câu 5 thêm 「スカイツリーもあります」→ も = cũng có → hai công trình nổi tiếng."
+        "explanation": "Câu 4 「東京タワーがあります」, câu 5 「スカイツリーもあります」, câu 6 「電車がたくさんあります」→ も = cũng có → ba điểm đặc trưng của Tokyo."
       }
     ]
   },
@@ -1452,7 +1453,7 @@
     ],
     "sentence_count": 8,
     "text": "友達のゆきさんのふるさとは長野です。長野は山の町です。ゆきさんの家の近くに川があります。川に魚がいます。夏にゆきさんの家に行きます。川で泳ぎます。おばあさんのごはんはとてもおいしいです。長野はとても静かです。",
-    "translation": "Quê của bạn tôi là Yuki ở Nagano. Nagano là thành phố ở vùng núi. Gần nhà Yuki có một con sông. Trong sông có cá. Mùa hè tôi đến nhà Yuki. Tôi bơi ở sông. Cơm bà nấu rất ngon. Nagano rất yên tĩnh.",
+    "translation": "Quê của Yuki, bạn tôi, là Nagano. Nagano là thành phố ở vùng núi. Gần nhà Yuki có một con sông. Trong sông có cá. Mùa hè tôi đến nhà Yuki. Tôi bơi ở sông. Cơm bà nấu rất ngon. Nagano rất yên tĩnh.",
     "vocabulary": [
       {
         "word": "ふるさと",
@@ -1484,8 +1485,8 @@
       {
         "sentence": "友達のゆきさんのふるさとは長野です。",
         "chunks": "友達のゆきさんの / ふるさとは / 長野です",
-        "guide": "の liên kết 'bạn' + 'Yuki' → の liên kết tiếp 'quê hương' → は chủ đề → です khẳng định = Nagano",
-        "translation": "Quê của bạn tôi là Yuki ở Nagano."
+        "guide": "の liên kết 'bạn' + 'Yuki' (の có thể chồng nhiều lớp = sở hữu lồng: 'bạn tôi là Yuki') → の tiếp theo liên kết 'quê hương' → は chủ đề → です khẳng định = Nagano",
+        "translation": "Quê của Yuki, bạn tôi, là Nagano."
       },
       {
         "sentence": "長野は山の町です。",
@@ -1561,31 +1562,31 @@
       },
       {
         "id": "R_0030_Q2",
-        "question": "ゆきさんの家の近くに何がありますか。",
-        "question_vi": "Gần nhà Yuki có gì?",
+        "question": "ゆきさんのふるさとで何をしますか。",
+        "question_vi": "Ở quê Yuki làm những gì?",
         "answers": [
           {
-            "text": "海があります。",
-            "text_vi": "Có biển.",
+            "text": "海で泳ぎます。",
+            "text_vi": "Bơi ở biển.",
             "is_correct": false
           },
           {
-            "text": "湖があります。",
-            "text_vi": "Có hồ.",
-            "is_correct": false
-          },
-          {
-            "text": "川があります。",
-            "text_vi": "Có sông.",
+            "text": "川で泳いで、おばあさんのごはんを食べます。",
+            "text_vi": "Bơi ở sông và ăn cơm bà nấu.",
             "is_correct": true
           },
           {
-            "text": "公園があります。",
-            "text_vi": "Có công viên.",
+            "text": "山に登ります。",
+            "text_vi": "Leo núi.",
+            "is_correct": false
+          },
+          {
+            "text": "買い物をします。",
+            "text_vi": "Mua sắm.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 3 nói 「ゆきさんの家の近くに川があります」→ に chỉ nơi + が chủ ngữ tồn tại = gần nhà có sông."
+        "explanation": "Câu 6 nói 「川で泳ぎます」, câu 7 nói 「おばあさんのごはんはとてもおいしいです」→ kết hợp hai câu: ở quê Yuki bơi ở sông và thưởng thức cơm bà nấu."
       }
     ]
   }

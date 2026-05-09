@@ -22,8 +22,8 @@
       "～を～ます"
     ],
     "sentence_count": 7,
-    "text": "私は毎朝6時に起きます。顔を洗って、歯をみがきます。朝ごはんはパンと牛乳です。7時に家を出ます。学校まで歩いて行きます。学校は家から近いです。朝の散歩は気持ちがいいです。",
-    "translation": "Tôi thức dậy lúc 6 giờ mỗi sáng. Rửa mặt rồi đánh răng. Bữa sáng là bánh mì và sữa. 7 giờ tôi ra khỏi nhà. Tôi đi bộ đến trường. Trường gần nhà. Đi bộ buổi sáng rất dễ chịu.",
+    "text": "私は毎朝6時に起きます。顔を洗って、歯をみがきます。朝ごはんはパンと牛乳です。7時に家を出ます。学校まで歩いて行きます。学校は家から近いです。朝の空気は気持ちがいいです。",
+    "translation": "Tôi thức dậy lúc 6 giờ mỗi sáng. Rửa mặt rồi đánh răng. Bữa sáng là bánh mì và sữa. 7 giờ tôi ra khỏi nhà. Tôi đi bộ đến trường. Trường gần nhà. Không khí buổi sáng rất dễ chịu.",
     "vocabulary": [
       {
         "word": "毎朝",
@@ -41,9 +41,9 @@
         "meaning": "sữa bò"
       },
       {
-        "word": "散歩",
-        "reading": "さんぽ",
-        "meaning": "đi dạo"
+        "word": "空気",
+        "reading": "くうき",
+        "meaning": "không khí"
       },
       {
         "word": "気持ち",
@@ -79,7 +79,7 @@
       {
         "sentence": "学校まで歩いて行きます。",
         "chunks": "学校まで / 歩いて / 行きます",
-        "guide": "まで chỉ điểm đến 'trường' → て nối phương tiện 'đi bộ' + 'đi'",
+        "guide": "まで chỉ giới hạn/đến tận 'trường' → て nối phương tiện 'đi bộ' + 'đi'",
         "translation": "Tôi đi bộ đến trường."
       },
       {
@@ -89,10 +89,10 @@
         "translation": "Trường gần nhà."
       },
       {
-        "sentence": "朝の散歩は気持ちがいいです。",
-        "chunks": "朝の散歩は / 気持ちが / いいです",
-        "guide": "の liên kết 'sáng' + 'đi dạo' → は chủ đề → が chỉ 'cảm giác' → です khẳng định 'tốt'",
-        "translation": "Đi bộ buổi sáng rất dễ chịu."
+        "sentence": "朝の空気は気持ちがいいです。",
+        "chunks": "朝の空気は / 気持ちが / いいです",
+        "guide": "の liên kết 'sáng' + 'không khí' → は chủ đề. Đây là cấu trúc 'Xは Yが ADJ': X = 朝の空気, Y = 気持ち → meaning 'không khí buổi sáng thì cảm giác (của nó) tốt'. Pattern Xは Yが ADJ rất phổ biến trong tiếng Nhật.",
+        "translation": "Không khí buổi sáng rất dễ chịu."
       }
     ],
     "comprehension": [
@@ -150,7 +150,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 5 nói 「学校まで歩いて行きます」→ まで chỉ điểm đến + 歩いて = đi bộ. Câu 6 bổ sung lý do: trường gần nhà nên đi bộ được."
+        "explanation": "Câu 5 nói 「学校まで歩いて行きます」→ まで chỉ giới hạn/đến tận + 歩いて = đi bộ. Câu 6 bổ sung lý do: trường gần nhà nên đi bộ được."
       }
     ]
   },
@@ -332,8 +332,8 @@
       "～と～"
     ],
     "sentence_count": 7,
-    "text": "土曜日にスーパーへ行きます。母と一緒に行きます。スーパーは駅の近くです。野菜と肉を買います。りんごも買います。全部で1500円です。荷物は母と半分です。",
-    "translation": "Thứ Bảy tôi đi siêu thị. Tôi đi cùng mẹ. Siêu thị ở gần ga. Mua rau và thịt. Cũng mua táo nữa. Tổng cộng 1500 yên. Đồ đạc tôi với mẹ chia đôi.",
+    "text": "土曜日にスーパーへ行きます。母と一緒に行きます。スーパーは駅の近くです。野菜と肉を買います。りんごも買います。全部で1500円です。荷物は母と半分ずつ持ちます。",
+    "translation": "Thứ Bảy tôi đi siêu thị. Tôi đi cùng mẹ. Siêu thị ở gần ga. Mua rau và thịt. Cũng mua táo nữa. Tổng cộng 1500 yên. Tôi và mẹ mỗi người xách một nửa.",
     "vocabulary": [
       {
         "word": "土曜日",
@@ -371,7 +371,7 @@
       {
         "sentence": "母と一緒に行きます。",
         "chunks": "母と / 一緒に / 行きます",
-        "guide": "と cùng với 'mẹ' → に cách thức 'cùng nhau' → ます 'đi'",
+        "guide": "と cùng với 'mẹ' → 一緒に là phó từ 'cùng nhau' (一緒 + に → adverb) → ます 'đi'",
         "translation": "Tôi đi cùng mẹ."
       },
       {
@@ -395,14 +395,14 @@
       {
         "sentence": "全部で1500円です。",
         "chunks": "全部で / 1500円です",
-        "guide": "で chỉ phạm vi 'tổng cộng' → です khẳng định '1500 yên'",
+        "guide": "で chỉ tổng hợp/tổng cộng 'tất cả' → です khẳng định '1500 yên'",
         "translation": "Tổng cộng 1500 yên."
       },
       {
-        "sentence": "荷物は母と半分です。",
-        "chunks": "荷物は / 母と / 半分です",
-        "guide": "は chủ đề 'đồ đạc' → と cùng với 'mẹ' → です khẳng định 'chia đôi'",
-        "translation": "Đồ đạc tôi với mẹ chia đôi."
+        "sentence": "荷物は母と半分ずつ持ちます。",
+        "chunks": "荷物は / 母と / 半分ずつ / 持ちます",
+        "guide": "は chủ đề 'đồ đạc' → と cùng với 'mẹ' → ずつ chỉ phân chia đều 'mỗi người một nửa' → ます 'xách'",
+        "translation": "Tôi và mẹ mỗi người xách một nửa."
       }
     ],
     "comprehension": [
@@ -499,7 +499,7 @@
       {
         "word": "集める",
         "reading": "あつめる",
-        "meaning": "thu gom"
+        "meaning": "thu thập, sưu tầm"
       },
       {
         "word": "拭く",
@@ -545,7 +545,7 @@
       {
         "sentence": "本をきれいに並べます。",
         "chunks": "本を / きれいに / 並べます",
-        "guide": "を đối tượng 'sách' → に cách thức 'ngay ngắn' → ます 'xếp'",
+        "guide": "を đối tượng 'sách' → きれいに là dạng adverb của na-adj 'きれい' (đẹp/gọn → 'ngay ngắn') → ます 'xếp'",
         "translation": "Tôi xếp sách ngay ngắn."
       },
       {
@@ -644,9 +644,9 @@
       "～で～ます",
       "～と～"
     ],
-    "sentence_count": 7,
-    "text": "今日は私が晩ごはんを作ります。メニューは卵焼きとみそしるです。まず、卵を3つ割ります。フライパンで焼きます。次に、みそしるを作ります。豆腐とわかめを入れます。6時に晩ごはんを食べます。",
-    "translation": "Hôm nay tôi nấu cơm tối. Thực đơn là trứng chiên và canh miso. Trước tiên, đập 3 quả trứng. Chiên bằng chảo. Tiếp theo, nấu canh miso. Cho đậu phụ và rong biển vào. 6 giờ ăn cơm tối.",
+    "sentence_count": 8,
+    "text": "今日は私が晩ごはんを作ります。メニューは卵焼きとみそしるです。まず、卵を3つ割ります。フライパンで焼きます。ご飯もたきます。次に、みそしるを作ります。豆腐とわかめを入れます。6時に晩ごはんを食べます。",
+    "translation": "Hôm nay tôi nấu cơm tối. Thực đơn là trứng chiên và canh miso. Trước tiên, đập 3 quả trứng. Chiên bằng chảo. Cũng nấu cơm trắng. Tiếp theo, nấu canh miso. Cho đậu phụ và rong biển vào. 6 giờ ăn cơm tối.",
     "vocabulary": [
       {
         "word": "晩ごはん",
@@ -700,6 +700,12 @@
         "translation": "Chiên bằng chảo."
       },
       {
+        "sentence": "ご飯もたきます。",
+        "chunks": "ご飯も / たきます",
+        "guide": "も 'cũng' → ngoài trứng chiên, cũng nấu 'cơm trắng' → ます 'nấu cơm'",
+        "translation": "Cũng nấu cơm trắng."
+      },
+      {
         "sentence": "次に、みそしるを作ります。",
         "chunks": "次に / みそしるを / 作ります",
         "guide": "次に 'tiếp theo' → を đối tượng 'canh miso' → ます 'nấu'",
@@ -745,7 +751,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 6 nói 「豆腐とわかめを入れます」→ と liệt kê đầy đủ: đậu phụ và rong biển. Đáp án A nhầm trứng (trứng dùng cho 卵焼き, không phải みそしる)."
+        "explanation": "Câu 7 nói 「豆腐とわかめを入れます」→ と liệt kê đầy đủ: đậu phụ và rong biển. Đáp án A nhầm trứng (trứng dùng cho 卵焼き, không phải みそしる)."
       },
       {
         "id": "R_0005_Q2",
@@ -800,13 +806,22 @@
       "～を～ます",
       "～に～ます",
       "～で～ます",
-      "～ません",
-      "～のが好きです"
+      "～ません"
     ],
-    "sentence_count": 8,
-    "text": "私は毎日日記を書きます。夜、寝る前に書きます。今日あったことを書きます。楽しいことも悲しいことも書きます。日記はノートに書きます。パソコンでは書きません。手で書くのが好きです。もう3年書いています。",
-    "translation": "Tôi viết nhật ký mỗi ngày. Viết vào buổi tối, trước khi ngủ. Viết về những chuyện xảy ra hôm nay. Chuyện vui cũng viết, chuyện buồn cũng viết. Nhật ký viết trên vở. Không viết trên máy tính. Tôi thích viết bằng tay. Đã viết được 3 năm rồi.",
+    "sentence_count": 7,
+    "text": "私の毎日の習慣を紹介します。朝6時に起きます。顔を洗って、朝ごはんを食べます。毎日日記を書きます。日記はノートに書きます。パソコンでは書きません。夜は10時に寝ます。",
+    "translation": "Tôi xin giới thiệu thói quen hàng ngày của tôi. Tôi thức dậy lúc 6 giờ sáng. Rửa mặt rồi ăn sáng. Tôi viết nhật ký mỗi ngày. Nhật ký viết trên vở. Không viết trên máy tính. Buổi tối tôi ngủ lúc 10 giờ.",
     "vocabulary": [
+      {
+        "word": "習慣",
+        "reading": "しゅうかん",
+        "meaning": "thói quen"
+      },
+      {
+        "word": "紹介",
+        "reading": "しょうかい",
+        "meaning": "giới thiệu"
+      },
       {
         "word": "日記",
         "reading": "にっき",
@@ -816,47 +831,37 @@
         "word": "寝る",
         "reading": "ねる",
         "meaning": "ngủ"
-      },
-      {
-        "word": "楽しい",
-        "reading": "たのしい",
-        "meaning": "vui vẻ"
-      },
-      {
-        "word": "悲しい",
-        "reading": "かなしい",
-        "meaning": "buồn"
       }
     ],
     "process": [
       {
-        "sentence": "私は毎日日記を書きます。",
-        "chunks": "私は / 毎日 / 日記を / 書きます",
-        "guide": "は chủ đề 'tôi' → 毎日 'mỗi ngày' → を đối tượng 'nhật ký' → ます 'viết'",
+        "sentence": "私の毎日の習慣を紹介します。",
+        "chunks": "私の / 毎日の習慣を / 紹介します",
+        "guide": "の liên kết 'tôi' + 'hàng ngày' + 'thói quen' → を đối tượng → ます 'giới thiệu'",
+        "translation": "Tôi xin giới thiệu thói quen hàng ngày của tôi."
+      },
+      {
+        "sentence": "朝6時に起きます。",
+        "chunks": "朝6時に / 起きます",
+        "guide": "に chỉ thời điểm 'buổi sáng 6 giờ' → ます 'thức dậy'",
+        "translation": "Tôi thức dậy lúc 6 giờ sáng."
+      },
+      {
+        "sentence": "顔を洗って、朝ごはんを食べます。",
+        "chunks": "顔を / 洗って / 朝ごはんを / 食べます",
+        "guide": "を đối tượng 'mặt' → て nối hành động liên tiếp → を đối tượng 'bữa sáng' → ます 'ăn'",
+        "translation": "Rửa mặt rồi ăn sáng."
+      },
+      {
+        "sentence": "毎日日記を書きます。",
+        "chunks": "毎日 / 日記を / 書きます",
+        "guide": "毎日 'mỗi ngày' → を đối tượng 'nhật ký' → ます 'viết'",
         "translation": "Tôi viết nhật ký mỗi ngày."
-      },
-      {
-        "sentence": "夜、寝る前に書きます。",
-        "chunks": "夜 / 寝る前に / 書きます",
-        "guide": "夜 'buổi tối' → 前に thời điểm 'trước khi ngủ' → ます 'viết'",
-        "translation": "Viết vào buổi tối, trước khi ngủ."
-      },
-      {
-        "sentence": "今日あったことを書きます。",
-        "chunks": "今日あったことを / 書きます",
-        "guide": "あったこと 'chuyện đã xảy ra' + を đối tượng → ます 'viết'",
-        "translation": "Viết về những chuyện xảy ra hôm nay."
-      },
-      {
-        "sentence": "楽しいことも悲しいことも書きます。",
-        "chunks": "楽しいことも / 悲しいことも / 書きます",
-        "guide": "も...も = 'cả...cả...' → chuyện vui cũng viết, chuyện buồn cũng viết",
-        "translation": "Chuyện vui cũng viết, chuyện buồn cũng viết."
       },
       {
         "sentence": "日記はノートに書きます。",
         "chunks": "日記は / ノートに / 書きます",
-        "guide": "は chủ đề 'nhật ký' → に chỉ nơi 'vở' → ます 'viết'",
+        "guide": "は chủ đề 'nhật ký' → に chỉ đích/nơi đến (viết LÊN/VÀO vở) → ます 'viết'",
         "translation": "Nhật ký viết trên vở."
       },
       {
@@ -866,16 +871,10 @@
         "translation": "Không viết trên máy tính."
       },
       {
-        "sentence": "手で書くのが好きです。",
-        "chunks": "手で / 書くのが / 好きです",
-        "guide": "で phương tiện 'tay' → の biến 'viết' thành danh từ → が đối tượng yêu thích → 好きです 'thích'",
-        "translation": "Tôi thích viết bằng tay."
-      },
-      {
-        "sentence": "もう3年書いています。",
-        "chunks": "もう3年 / 書いています",
-        "guide": "もう 'đã' + 3年 '3 năm' → ています diễn tả trạng thái tiếp diễn 'đang viết (từ 3 năm trước)'",
-        "translation": "Đã viết được 3 năm rồi."
+        "sentence": "夜は10時に寝ます。",
+        "chunks": "夜は / 10時に / 寝ます",
+        "guide": "は chủ đề 'buổi tối' → に thời điểm '10 giờ' → ます 'ngủ'",
+        "translation": "Buổi tối tôi ngủ lúc 10 giờ."
       }
     ],
     "comprehension": [
@@ -895,8 +894,8 @@
             "is_correct": false
           },
           {
-            "text": "夜、寝る前に書きます。",
-            "text_vi": "Viết buổi tối, trước khi ngủ.",
+            "text": "毎日書きます。",
+            "text_vi": "Viết mỗi ngày.",
             "is_correct": true
           },
           {
@@ -905,7 +904,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 2 nói 「夜、寝る前に書きます」→ 前に chỉ thời điểm = trước khi ngủ, vào buổi tối."
+        "explanation": "Câu 4 nói 「毎日日記を書きます」→ 毎日 = mỗi ngày. Bài không nói thời điểm cụ thể trong ngày."
       },
       {
         "id": "R_0006_Q2",
@@ -963,8 +962,8 @@
       "～は～です"
     ],
     "sentence_count": 8,
-    "text": "今日は日曜日です。天気はとてもいいです。午前中、公園へ行きます。公園で友だちとサッカーをします。お昼はおにぎりを食べます。午後、うちで映画を見ます。夜はお風呂に入ります。今日はとても楽しい一日です。",
-    "translation": "Hôm nay là chủ nhật. Thời tiết rất đẹp. Buổi sáng đi đến công viên. Chơi bóng đá với bạn ở công viên. Bữa trưa ăn cơm nắm. Buổi chiều xem phim ở nhà. Buổi tối tắm. Hôm nay là một ngày rất vui.",
+    "text": "今日は日曜日です。天気はとてもいいです。午前中、公園へ行きます。公園で友だちとキャッチボールをします。お昼はおにぎりを食べます。午後、うちで映画を見ます。夜はお風呂に入ります。今日はとても楽しい一日です。",
+    "translation": "Hôm nay là chủ nhật. Thời tiết rất đẹp. Buổi sáng đi đến công viên. Chơi ném bóng với bạn ở công viên. Bữa trưa ăn cơm nắm. Buổi chiều xem phim ở nhà. Buổi tối tắm. Hôm nay là một ngày rất vui.",
     "vocabulary": [
       {
         "word": "天気",
@@ -989,7 +988,7 @@
       {
         "word": "映画",
         "reading": "えいが",
-        "meaning": "phim"
+        "meaning": "phim ảnh"
       }
     ],
     "process": [
@@ -1012,10 +1011,10 @@
         "translation": "Buổi sáng đi đến công viên."
       },
       {
-        "sentence": "公園で友だちとサッカーをします。",
-        "chunks": "公園で / 友だちと / サッカーを / します",
-        "guide": "で nơi chốn 'công viên' → と cùng với 'bạn' → を đối tượng 'bóng đá' → ます 'chơi'",
-        "translation": "Chơi bóng đá với bạn ở công viên."
+        "sentence": "公園で友だちとキャッチボールをします。",
+        "chunks": "公園で / 友だちと / キャッチボールを / します",
+        "guide": "で nơi chốn 'công viên' → と cùng với 'bạn' → を đối tượng 'ném bóng' → ます 'chơi'",
+        "translation": "Chơi ném bóng với bạn ở công viên."
       },
       {
         "sentence": "お昼はおにぎりを食べます。",
@@ -1032,7 +1031,7 @@
       {
         "sentence": "夜はお風呂に入ります。",
         "chunks": "夜は / お風呂に / 入ります",
-        "guide": "は chủ đề 'buổi tối' → に chỉ nơi 'bồn tắm' → ます 'vào, tắm'",
+        "guide": "は chủ đề 'buổi tối' → に chỉ đích (vào). お風呂に入る là set phrase = đi tắm (vào bồn tắm) → ます 'vào'",
         "translation": "Buổi tối tắm."
       },
       {
@@ -1054,8 +1053,8 @@
             "is_correct": false
           },
           {
-            "text": "公園でサッカーをします。",
-            "text_vi": "Chơi bóng đá ở công viên.",
+            "text": "公園でキャッチボールをします。",
+            "text_vi": "Chơi ném bóng ở công viên.",
             "is_correct": true
           },
           {
@@ -1069,7 +1068,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 3 nói 「午前中、公園へ行きます」và câu 4 「公園で友だちとサッカーをします」→ buổi sáng đi công viên chơi bóng đá. Xem phim là buổi chiều (câu 6)."
+        "explanation": "Câu 3 nói 「午前中、公園へ行きます」và câu 4 「公園で友だちとキャッチボールをします」→ buổi sáng đi công viên chơi ném bóng. Xem phim là buổi chiều (câu 6)."
       },
       {
         "id": "R_0007_Q2",
@@ -1129,6 +1128,21 @@
     "translation": "Gia đình tôi có 5 người. Có bố, mẹ, anh trai và em gái. Bố là nhân viên ngân hàng. Mẹ làm việc ở tiệm hoa. Anh trai là sinh viên đại học. Anh học ở trường đại học tại Tokyo. Em gái là học sinh tiểu học. Em gái cũng thích hoa.",
     "vocabulary": [
       {
+        "word": "父",
+        "reading": "ちち",
+        "meaning": "bố (khiêm tốn, khi nói với người ngoài)"
+      },
+      {
+        "word": "母",
+        "reading": "はは",
+        "meaning": "mẹ (khiêm tốn, khi nói với người ngoài)"
+      },
+      {
+        "word": "兄",
+        "reading": "あに",
+        "meaning": "anh trai (khiêm tốn)"
+      },
+      {
         "word": "銀行員",
         "reading": "ぎんこういん",
         "meaning": "nhân viên ngân hàng"
@@ -1159,7 +1173,7 @@
       {
         "sentence": "父と母と兄と妹がいます。",
         "chunks": "父と / 母と / 兄と / 妹が / います",
-        "guide": "と liệt kê đầy đủ (4 người) → が chủ ngữ tồn tại → います (người)",
+        "guide": "と liệt kê đầy đủ (4 người) → が chủ ngữ tồn tại → います (người). Lưu ý: 父・母・兄・妹 là cách nói khiêm tốn khi giới thiệu gia đình mình với người ngoài.",
         "translation": "Có bố, mẹ, anh trai và em gái."
       },
       {
@@ -1195,14 +1209,14 @@
       {
         "sentence": "妹も花が好きです。",
         "chunks": "妹も / 花が / 好きです",
-        "guide": "も → 'cũng' → em gái giống mẹ (mẹ ở tiệm hoa) → が đối tượng 'hoa' → 好きです 'thích'",
+        "guide": "も 'cũng' → が đối tượng 'hoa' → 好きです 'thích'. も chỉ em gái thích hoa, tương tự ai đó trong gia đình.",
         "translation": "Em gái cũng thích hoa."
       }
     ],
     "comprehension": [
       {
         "id": "R_0008_Q1",
-        "question": "お母さんはどこで働いていますか。",
+        "question": "母はどこで働いていますか。",
         "question_vi": "Mẹ làm việc ở đâu?",
         "answers": [
           {
@@ -1226,7 +1240,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 4 nói 「母は花屋で働いています」→ で chỉ nơi chốn = tiệm hoa. Ngân hàng là nơi bố làm việc (câu 3), không phải mẹ."
+        "explanation": "Câu 4 nói 「母は花屋で働いています」→ で chỉ nơi chốn = tiệm hoa. Ngân hàng là nơi bố làm việc (câu 3), không phải mẹ. Lưu ý câu hỏi dùng 母 (giống text), không dùng お母さん."
       },
       {
         "id": "R_0008_Q2",
@@ -1284,8 +1298,8 @@
       "～と～ます"
     ],
     "sentence_count": 8,
-    "text": "今日は母の誕生日です。母は45歳になります。私は父とケーキを買います。ケーキ屋で大きいケーキを選びます。花も買います。赤いバラです。夜、家でパーティーをします。母はとてもうれしいです。",
-    "translation": "Hôm nay là sinh nhật mẹ. Mẹ tròn 45 tuổi. Tôi cùng bố mua bánh kem. Chọn chiếc bánh kem to ở tiệm bánh. Cũng mua hoa nữa. Là hoa hồng đỏ. Buổi tối tổ chức tiệc ở nhà. Mẹ rất vui.",
+    "text": "今日は母の誕生日です。母は45歳になります。私は父とケーキを買います。ケーキ屋で大きいケーキを選びます。花も買います。ピンクのバラです。夜、家でパーティーをします。母はとてもうれしいです。",
+    "translation": "Hôm nay là sinh nhật mẹ. Mẹ tròn 45 tuổi. Tôi cùng bố mua bánh kem. Chọn chiếc bánh kem to ở tiệm bánh. Cũng mua hoa nữa. Là hoa hồng hồng. Buổi tối tổ chức tiệc ở nhà. Mẹ rất vui.",
     "vocabulary": [
       {
         "word": "誕生日",
@@ -1299,13 +1313,13 @@
       },
       {
         "word": "バラ",
-        "reading": "ばら",
-        "meaning": "hoa hồng"
+        "meaning": "hoa hồng",
+        "reading": ""
       },
       {
         "word": "パーティー",
-        "reading": "ぱーてぃー",
-        "meaning": "tiệc, bữa tiệc"
+        "meaning": "tiệc, bữa tiệc",
+        "reading": ""
       },
       {
         "word": "うれしい",
@@ -1345,10 +1359,10 @@
         "translation": "Cũng mua hoa nữa."
       },
       {
-        "sentence": "赤いバラです。",
-        "chunks": "赤いバラです",
-        "guide": "赤い 'đỏ' + バラ 'hoa hồng' → です khẳng định. Bổ sung chi tiết cho câu trước",
-        "translation": "Là hoa hồng đỏ."
+        "sentence": "ピンクのバラです。",
+        "chunks": "ピンクのバラです",
+        "guide": "ピンク 'hồng' + の liên kết + バラ 'hoa hồng' → です khẳng định. Bổ sung chi tiết cho câu trước",
+        "translation": "Là hoa hồng hồng."
       },
       {
         "sentence": "夜、家でパーティーをします。",
@@ -1390,7 +1404,7 @@
             "is_correct": true
           }
         ],
-        "explanation": "Câu 3 nói 「私は父とケーキを買います」→ と chỉ người đi cùng = bố. Mẹ không đi vì đây là quà bất ngờ cho sinh nhật mẹ."
+        "explanation": "Câu 3 nói 「私は父とケーキを買います」→ と chỉ người đi cùng = bố."
       },
       {
         "id": "R_0009_Q2",
@@ -1405,12 +1419,12 @@
           {
             "text": "赤いバラです。",
             "text_vi": "Hoa hồng đỏ.",
-            "is_correct": true
+            "is_correct": false
           },
           {
             "text": "ピンクのバラです。",
             "text_vi": "Hoa hồng hồng.",
-            "is_correct": false
+            "is_correct": true
           },
           {
             "text": "黄色いバラです。",
@@ -1418,7 +1432,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 5 nói 「花も買います」và câu 6 bổ sung 「赤いバラです」→ 赤い = đỏ. Các đáp án khác đều là hoa hồng nhưng khác màu."
+        "explanation": "Câu 5 nói 「花も買います」và câu 6 bổ sung 「ピンクのバラです」→ ピンク = màu hồng. Hoa hồng hồng phù hợp để tặng mẹ."
       }
     ]
   },
@@ -1458,8 +1472,8 @@
       },
       {
         "word": "ミルク",
-        "reading": "みるく",
-        "meaning": "sữa"
+        "meaning": "sữa công thức (cho em bé, khác 牛乳)",
+        "reading": ""
       },
       {
         "word": "おもちゃ",
@@ -1499,7 +1513,7 @@
       {
         "sentence": "毎日ミルクを飲みます。",
         "chunks": "毎日 / ミルクを / 飲みます",
-        "guide": "毎日 'mỗi ngày' → を đối tượng 'sữa' → ます 'uống'",
+        "guide": "毎日 'mỗi ngày' → を đối tượng 'sữa' → ます 'uống'. ミルク = sữa công thức cho em bé (khác với 牛乳 = sữa bò)",
         "translation": "Mỗi ngày uống sữa."
       },
       {

@@ -23,8 +23,8 @@
       "～を～ます"
     ],
     "sentence_count": 7,
-    "text": "私のおじいさんとおばあさんは北海道に住んでいます。おじいさんは75歳です。おばあさんは72歳です。おじいさんは魚が好きです。毎日海で魚をとります。おばあさんは料理が上手です。おばあさんの料理はとてもおいしいです。",
-    "translation": "Ông và bà tôi sống ở Hokkaido. Ông năm nay 75 tuổi. Bà năm nay 72 tuổi. Ông thích cá. Mỗi ngày ông bắt cá ở biển. Bà nấu ăn rất giỏi. Món ăn của bà rất ngon.",
+    "text": "私のおじいさんとおばあさんは北海道に住んでいます。おじいさんは75歳です。おばあさんは72歳です。おじいさんは魚が好きです。毎日海で魚を釣ります。おばあさんは料理が上手です。おばあさんの料理はとてもおいしいです。",
+    "translation": "Ông và bà tôi sống ở Hokkaido. Ông năm nay 75 tuổi. Bà năm nay 72 tuổi. Ông thích cá. Mỗi ngày ông câu cá ở biển. Bà nấu ăn rất giỏi. Món ăn của bà rất ngon.",
     "vocabulary": [
       {
         "word": "北海道",
@@ -78,10 +78,10 @@
         "translation": "Ông thích cá."
       },
       {
-        "sentence": "毎日海で魚をとります。",
-        "chunks": "毎日 / 海で / 魚を / とります",
-        "guide": "毎日 thời gian → で nơi hành động → を đối tượng → とります hành động",
-        "translation": "Mỗi ngày ông bắt cá ở biển."
+        "sentence": "毎日海で魚を釣ります。",
+        "chunks": "毎日 / 海で / 魚を / 釣ります",
+        "guide": "毎日 thời gian → で nơi hành động → を đối tượng → 釣ります câu cá",
+        "translation": "Mỗi ngày ông câu cá ở biển."
       },
       {
         "sentence": "おばあさんは料理が上手です。",
@@ -136,8 +136,8 @@
             "is_correct": false
           },
           {
-            "text": "海で魚をとります。",
-            "text_vi": "Bắt cá ở biển.",
+            "text": "海で魚を釣ります。",
+            "text_vi": "Câu cá ở biển.",
             "is_correct": true
           },
           {
@@ -151,7 +151,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 5 nói 「毎日海で魚をとります」→ で chỉ nơi hành động (biển), を chỉ đối tượng (cá) → ông bắt cá ở biển mỗi ngày."
+        "explanation": "Câu 5 nói 「毎日海で魚を釣ります」→ で chỉ nơi hành động (biển), を chỉ đối tượng (cá) → ông câu cá ở biển mỗi ngày."
       }
     ]
   },
@@ -179,9 +179,9 @@
       "～に行きます",
       "～と～ます"
     ],
-    "sentence_count": 7,
-    "text": "1月1日はお正月です。私は家族とお正月を過ごします。朝、おせち料理を食べます。おせち料理はとてもきれいです。午後、家族と神社に行きます。神社でお参りをします。お正月はとても楽しいです。",
-    "translation": "Ngày 1 tháng 1 là Tết. Tôi đón Tết cùng gia đình. Buổi sáng, chúng tôi ăn osechi. Osechi rất đẹp. Buổi chiều, tôi đi đền thần cùng gia đình. Ở đền thần, chúng tôi cầu nguyện. Tết rất vui.",
+    "sentence_count": 8,
+    "text": "1月1日はお正月です。私は家族とお正月を過ごします。朝、おせち料理を食べます。おせち料理はとてもきれいです。おじいさんやおばあさんからお年玉をもらいます。午後、家族と神社に初詣に行きます。神社でお参りをします。お正月はとても楽しいです。",
+    "translation": "Ngày 1 tháng 1 là Tết. Tôi đón Tết cùng gia đình. Buổi sáng, chúng tôi ăn osechi. Osechi rất đẹp. Tôi nhận tiền lì xì từ ông bà. Buổi chiều, tôi cùng gia đình đi hái lộc đầu năm ở đền thần. Ở đền thần, chúng tôi cầu nguyện. Tết rất vui.",
     "vocabulary": [
       {
         "word": "お正月",
@@ -194,19 +194,19 @@
         "meaning": "món ăn truyền thống ngày Tết"
       },
       {
-        "word": "神社",
-        "reading": "じんじゃ",
-        "meaning": "đền thần"
+        "word": "お年玉",
+        "reading": "おとしだま",
+        "meaning": "lì xì (tiền mừng tuổi đầu năm)"
+      },
+      {
+        "word": "初詣",
+        "reading": "はつもうで",
+        "meaning": "đi viếng đền đầu năm"
       },
       {
         "word": "お参り",
         "reading": "おまいり",
         "meaning": "cầu nguyện, viếng đền"
-      },
-      {
-        "word": "過ごします",
-        "reading": "すごします",
-        "meaning": "trải qua, đón"
       }
     ],
     "process": [
@@ -235,10 +235,16 @@
         "translation": "Osechi rất đẹp."
       },
       {
-        "sentence": "午後、家族と神社に行きます。",
-        "chunks": "午後 / 家族と / 神社に / 行きます",
-        "guide": "午後 thời gian → と cùng ai → に đích đến → 行きます đi",
-        "translation": "Buổi chiều, tôi đi đền thần cùng gia đình."
+        "sentence": "おじいさんやおばあさんからお年玉をもらいます。",
+        "chunks": "おじいさんや / おばあさんから / お年玉を / もらいます",
+        "guide": "や liệt kê không đầy đủ → から nguồn gốc/từ ai → を đối tượng → もらいます nhận",
+        "translation": "Tôi nhận tiền lì xì từ ông bà."
+      },
+      {
+        "sentence": "午後、家族と神社に初詣に行きます。",
+        "chunks": "午後 / 家族と / 神社に / 初詣に / 行きます",
+        "guide": "午後 thời gian → と cùng ai → に đích đến (神社) → に mục đích (初詣) → 行きます đi",
+        "translation": "Buổi chiều, tôi cùng gia đình đi hái lộc đầu năm ở đền thần."
       },
       {
         "sentence": "神社でお参りをします。",
@@ -308,7 +314,7 @@
             "is_correct": true
           }
         ],
-        "explanation": "Câu 5 nói 「午後、家族と神社に行きます」→ に chỉ đích đến = đền thần. ⚠️ Bẫy: お寺 (chùa Phật) khác 神社 (đền Thần đạo)."
+        "explanation": "Câu 6 nói 「午後、家族と神社に初詣に行きます」→ に chỉ đích đến = đền thần. Bẫy: お寺 (chùa Phật) khác 神社 (đền Thần đạo)."
       }
     ]
   },
@@ -343,8 +349,8 @@
     "vocabulary": [
       {
         "word": "クラス",
-        "reading": "くらす",
-        "meaning": "lớp học"
+        "meaning": "lớp học",
+        "reading": ""
       },
       {
         "word": "学生",
@@ -466,7 +472,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 5 nói 「漢字を勉強します」và câu 6 nói 「ひらがなも勉強します」→ も = 'cũng' → học cả chữ Hán và hiragana. ⚠️ Bẫy: đáp án B chỉ nói chữ Hán, thiếu hiragana."
+        "explanation": "Câu 5 nói 「漢字を勉強します」và câu 6 nói 「ひらがなも勉強します」→ も = 'cũng' → học cả chữ Hán và hiragana. Bẫy: đáp án B chỉ nói chữ Hán, thiếu hiragana."
       }
     ]
   },
@@ -507,8 +513,8 @@
       },
       {
         "word": "ベトナム人",
-        "reading": "べとなむじん",
-        "meaning": "người Việt Nam"
+        "meaning": "người Việt Nam",
+        "reading": ""
       },
       {
         "word": "いっしょに",
@@ -543,7 +549,7 @@
       {
         "sentence": "私たちは毎日いっしょに学校に行きます。",
         "chunks": "私たちは / 毎日 / いっしょに / 学校に / 行きます",
-        "guide": "は chủ đề → 毎日 thời gian → に đích đến → 行きます đi",
+        "guide": "は chủ đề → 毎日 thời gian → いっしょに là phó từ: 一緒 (danh từ) + に → adverb 'cùng nhau' → に đích đến → 行きます đi",
         "translation": "Mỗi ngày chúng tôi cùng nhau đến trường."
       },
       {
@@ -655,8 +661,8 @@
     "vocabulary": [
       {
         "word": "サッカー部",
-        "reading": "さっかーぶ",
-        "meaning": "câu lạc bộ bóng đá"
+        "meaning": "câu lạc bộ bóng đá",
+        "reading": ""
       },
       {
         "word": "練習",
@@ -665,23 +671,18 @@
       },
       {
         "word": "グラウンド",
-        "reading": "ぐらうんど",
-        "meaning": "sân (thể thao)"
+        "meaning": "sân (thể thao)",
+        "reading": ""
       },
       {
         "word": "コーチ",
-        "reading": "こーち",
-        "meaning": "huấn luyện viên"
+        "meaning": "huấn luyện viên",
+        "reading": ""
       },
       {
-        "word": "厳しい",
-        "reading": "きびしい",
-        "meaning": "nghiêm khắc"
-      },
-      {
-        "word": "厳しい",
-        "reading": "きびしい",
-        "meaning": "nghiêm khắc"
+        "word": "学生",
+        "reading": "がくせい",
+        "meaning": "học sinh, sinh viên"
       }
     ],
     "process": [
@@ -822,8 +823,8 @@
       },
       {
         "word": "テスト",
-        "reading": "てすと",
-        "meaning": "bài thi"
+        "meaning": "bài thi",
+        "reading": ""
       },
       {
         "word": "図書館",
@@ -887,7 +888,7 @@
       {
         "sentence": "佐藤さんはとてもていねいに教えます。",
         "chunks": "佐藤さんは / とても / ていねいに / 教えます",
-        "guide": "は chủ đề → とても rất → ていねいに cách thức → 教えます dạy",
+        "guide": "は chủ đề → とても rất → ていねいに là dạng adverb của na-adj 丁寧 (丁寧 + に → 'một cách cẩn thận') → 教えます dạy",
         "translation": "Bạn Sato dạy rất cẩn thận."
       }
     ],
@@ -975,9 +976,9 @@
       "～に～ます",
       "～と～ます"
     ],
-    "sentence_count": 7,
-    "text": "今日は卒業式です。卒業式は体育館であります。私は友だちと写真をとります。先生にお礼を言います。母は花を持って来ます。母の花はとてもきれいです。今日はうれしいですが、少しさびしいです。",
-    "translation": "Hôm nay là lễ tốt nghiệp. Lễ tốt nghiệp diễn ra ở nhà thi đấu. Tôi chụp ảnh với bạn bè. Tôi nói lời cảm ơn với thầy cô. Mẹ mang hoa đến. Hoa của mẹ rất đẹp. Hôm nay vui nhưng hơi buồn.",
+    "sentence_count": 8,
+    "text": "今日は卒業式です。卒業式は体育館であります。私は友だちと写真をとります。先生にお礼を言います。母は花束を持ってきます。学校の桜がきれいです。母の花束はとてもきれいです。今日はうれしいですが、少しさびしいです。",
+    "translation": "Hôm nay là lễ tốt nghiệp. Lễ tốt nghiệp diễn ra ở nhà thi đấu. Tôi chụp ảnh với bạn bè. Tôi nói lời cảm ơn với thầy cô. Mẹ mang bó hoa đến. Hoa anh đào trong trường rất đẹp. Bó hoa của mẹ rất đẹp. Hôm nay vui nhưng hơi buồn.",
     "vocabulary": [
       {
         "word": "卒業式",
@@ -995,14 +996,14 @@
         "meaning": "ảnh, hình"
       },
       {
-        "word": "お礼",
-        "reading": "おれい",
-        "meaning": "lời cảm ơn"
+        "word": "花束",
+        "reading": "はなたば",
+        "meaning": "bó hoa"
       },
       {
-        "word": "さびしい",
-        "reading": "さびしい",
-        "meaning": "buồn, cô đơn"
+        "word": "桜",
+        "reading": "さくら",
+        "meaning": "hoa anh đào"
       }
     ],
     "process": [
@@ -1031,16 +1032,22 @@
         "translation": "Tôi nói lời cảm ơn với thầy cô."
       },
       {
-        "sentence": "母は花を持って来ます。",
-        "chunks": "母は / 花を / 持って来ます",
-        "guide": "は chủ đề 'mẹ' → を đối tượng → 持って来ます mang đến",
-        "translation": "Mẹ mang hoa đến."
+        "sentence": "母は花束を持ってきます。",
+        "chunks": "母は / 花束を / 持ってきます",
+        "guide": "は chủ đề 'mẹ' → を đối tượng (花束 bó hoa) → 持ってきます (持って+きます) mang đến",
+        "translation": "Mẹ mang bó hoa đến."
       },
       {
-        "sentence": "母の花はとてもきれいです。",
-        "chunks": "母の花は / とても / きれいです",
-        "guide": "の liên kết 'mẹ' + 'hoa' → は chủ đề → とても rất → きれいです đẹp",
-        "translation": "Hoa của mẹ rất đẹp."
+        "sentence": "学校の桜がきれいです。",
+        "chunks": "学校の桜が / きれいです",
+        "guide": "の liên kết 'trường' + '桜' → が chủ ngữ → きれいです đẹp. 3月の卒業式 thường có hoa anh đào",
+        "translation": "Hoa anh đào trong trường rất đẹp."
+      },
+      {
+        "sentence": "母の花束はとてもきれいです。",
+        "chunks": "母の花束は / とても / きれいです",
+        "guide": "の liên kết 'mẹ' + '花束' → は chủ đề → とても rất → きれいです đẹp",
+        "translation": "Bó hoa của mẹ rất đẹp."
       },
       {
         "sentence": "今日はうれしいですが、少しさびしいです。",
@@ -1094,8 +1101,8 @@
             "is_correct": false
           },
           {
-            "text": "花を持って来ます。",
-            "text_vi": "Mang hoa đến.",
+            "text": "花束を持って来ます。",
+            "text_vi": "Mang bó hoa đến.",
             "is_correct": true
           },
           {
@@ -1104,7 +1111,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 5 nói 「母は花を持って来ます」→ を chỉ đối tượng mang = hoa."
+        "explanation": "Câu 5 nói 「母は花束を持ってきます」→ を chỉ đối tượng mang = bó hoa (花束)."
       }
     ]
   },
@@ -1114,7 +1121,7 @@
     "level_label": "N5_basic",
     "jlpt": "N5",
     "title": "遠足",
-    "title_vi": "Chuyến đi học tập",
+    "title_vi": "Buổi dã ngoại",
     "topic": "school",
     "subtopic": "kỷ niệm",
     "tags": [
@@ -1136,8 +1143,8 @@
       "～でした"
     ],
     "sentence_count": 8,
-    "text": "先週、クラスで遠足に行きました。京都に行きました。バスで2時間かかりました。京都でお寺を見ました。金閣寺はとてもきれいでした。友だちとおべんとうを食べました。おみやげも買いました。とても楽しい一日でした。",
-    "translation": "Tuần trước, cả lớp đi chuyến đi học tập. Chúng tôi đi Kyoto. Đi xe buýt mất 2 tiếng. Ở Kyoto, chúng tôi ngắm chùa. Chùa Kinkakuji rất đẹp. Tôi ăn cơm hộp với bạn bè. Tôi cũng mua quà lưu niệm. Đó là một ngày rất vui.",
+    "text": "先週、クラスで遠足に行きました。近くの公園に行きました。バスで30分かかりました。公園で動物を見ました。動物はとてもかわいかったです。友だちとお弁当を食べました。みんなでゲームもしました。とても楽しい一日でした。",
+    "translation": "Tuần trước, cả lớp đi dã ngoại. Chúng tôi đi công viên gần đây. Đi xe buýt mất 30 phút. Ở công viên, chúng tôi ngắm động vật. Động vật rất đáng yêu. Tôi ăn cơm hộp với bạn bè. Mọi người cũng chơi trò chơi cùng nhau. Đó là một ngày rất vui.",
     "vocabulary": [
       {
         "word": "遠足",
@@ -1145,19 +1152,19 @@
         "meaning": "chuyến đi học tập, dã ngoại"
       },
       {
-        "word": "京都",
-        "reading": "きょうと",
-        "meaning": "Kyoto (tên thành phố)"
+        "word": "公園",
+        "reading": "こうえん",
+        "meaning": "công viên"
       },
       {
-        "word": "金閣寺",
-        "reading": "きんかくじ",
-        "meaning": "chùa Kinkakuji (chùa Vàng)"
+        "word": "動物",
+        "reading": "どうぶつ",
+        "meaning": "động vật"
       },
       {
-        "word": "おみやげ",
-        "reading": "おみやげ",
-        "meaning": "quà lưu niệm"
+        "word": "かわいい",
+        "reading": "かわいい",
+        "meaning": "đáng yêu, dễ thương"
       },
       {
         "word": "一日",
@@ -1170,43 +1177,43 @@
         "sentence": "先週、クラスで遠足に行きました。",
         "chunks": "先週 / クラスで / 遠足に / 行きました",
         "guide": "先週 thời gian → で nhóm/đơn vị → に đích đến/mục đích → 行きました đã đi",
-        "translation": "Tuần trước, cả lớp đi chuyến đi học tập."
+        "translation": "Tuần trước, cả lớp đi dã ngoại."
       },
       {
-        "sentence": "京都に行きました。",
-        "chunks": "京都に / 行きました",
-        "guide": "に đích đến → 行きました đã đi",
-        "translation": "Chúng tôi đi Kyoto."
+        "sentence": "近くの公園に行きました。",
+        "chunks": "近くの公園に / 行きました",
+        "guide": "の liên kết 'gần' + '公園' → に đích đến → 行きました đã đi",
+        "translation": "Chúng tôi đi công viên gần đây."
       },
       {
-        "sentence": "バスで2時間かかりました。",
-        "chunks": "バスで / 2時間 / かかりました",
-        "guide": "で phương tiện → 2時間 thời lượng → かかりました mất (thời gian)",
-        "translation": "Đi xe buýt mất 2 tiếng."
+        "sentence": "バスで30分かかりました。",
+        "chunks": "バスで / 30分 / かかりました",
+        "guide": "で phương tiện → 30分 thời lượng → かかりました mất (thời gian)",
+        "translation": "Đi xe buýt mất 30 phút."
       },
       {
-        "sentence": "京都でお寺を見ました。",
-        "chunks": "京都で / お寺を / 見ました",
+        "sentence": "公園で動物を見ました。",
+        "chunks": "公園で / 動物を / 見ました",
         "guide": "で nơi hành động → を đối tượng → 見ました đã xem",
-        "translation": "Ở Kyoto, chúng tôi ngắm chùa."
+        "translation": "Ở công viên, chúng tôi ngắm động vật."
       },
       {
-        "sentence": "金閣寺はとてもきれいでした。",
-        "chunks": "金閣寺は / とても / きれいでした",
-        "guide": "は chủ đề → とても rất → きれいでした đẹp (quá khứ)",
-        "translation": "Chùa Kinkakuji rất đẹp."
+        "sentence": "動物はとてもかわいかったです。",
+        "chunks": "動物は / とても / かわいかったです",
+        "guide": "は chủ đề → とても rất → かわいかったです đáng yêu (quá khứ của i-adj かわいい)",
+        "translation": "Động vật rất đáng yêu."
       },
       {
-        "sentence": "友だちとおべんとうを食べました。",
-        "chunks": "友だちと / おべんとうを / 食べました",
+        "sentence": "友だちとお弁当を食べました。",
+        "chunks": "友だちと / お弁当を / 食べました",
         "guide": "と cùng ai → を đối tượng → 食べました đã ăn",
         "translation": "Tôi ăn cơm hộp với bạn bè."
       },
       {
-        "sentence": "おみやげも買いました。",
-        "chunks": "おみやげも / 買いました",
-        "guide": "も 'cũng' → ngoài ăn uống, còn mua quà nữa",
-        "translation": "Tôi cũng mua quà lưu niệm."
+        "sentence": "みんなでゲームもしました。",
+        "chunks": "みんなで / ゲームも / しました",
+        "guide": "で nhóm (mọi người cùng) → も 'cũng' → ngoài ăn uống, còn chơi game nữa → しました đã làm",
+        "translation": "Mọi người cũng chơi trò chơi cùng nhau."
       },
       {
         "sentence": "とても楽しい一日でした。",
@@ -1219,49 +1226,49 @@
       {
         "id": "R_0018_Q1",
         "question": "遠足でどこに行きましたか。",
-        "question_vi": "Chuyến đi học tập đi đâu?",
+        "question_vi": "Chuyến dã ngoại đi đâu?",
         "answers": [
           {
-            "text": "東京に行きました。",
-            "text_vi": "Đi Tokyo.",
+            "text": "山に行きました。",
+            "text_vi": "Đi núi.",
             "is_correct": false
           },
           {
-            "text": "大阪に行きました。",
-            "text_vi": "Đi Osaka.",
+            "text": "海に行きました。",
+            "text_vi": "Đi biển.",
             "is_correct": false
           },
           {
-            "text": "京都に行きました。",
-            "text_vi": "Đi Kyoto.",
+            "text": "近くの公園に行きました。",
+            "text_vi": "Đi công viên gần đây.",
             "is_correct": true
           },
           {
-            "text": "奈良に行きました。",
-            "text_vi": "Đi Nara.",
+            "text": "動物園に行きました。",
+            "text_vi": "Đi vườn thú.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 2 nói 「京都に行きました」→ に chỉ đích đến = Kyoto."
+        "explanation": "Câu 2 nói 「近くの公園に行きました」→ に chỉ đích đến = công viên gần đây."
       },
       {
         "id": "R_0018_Q2",
-        "question": "京都で何を見ましたか。",
-        "question_vi": "Ở Kyoto xem gì?",
+        "question": "公園で何を見ましたか。",
+        "question_vi": "Ở công viên xem gì?",
         "answers": [
           {
-            "text": "山を見ました。",
-            "text_vi": "Xem núi.",
+            "text": "花を見ました。",
+            "text_vi": "Đi ngắm hoa.",
             "is_correct": false
           },
           {
-            "text": "お寺を見ました。",
-            "text_vi": "Xem chùa.",
+            "text": "動物を見ました。",
+            "text_vi": "Xem động vật.",
             "is_correct": true
           },
           {
-            "text": "お城を見ました。",
-            "text_vi": "Xem lâu đài.",
+            "text": "山を見ました。",
+            "text_vi": "Xem núi.",
             "is_correct": false
           },
           {
@@ -1270,7 +1277,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 4 nói 「京都でお寺を見ました」→ で nơi hành động (Kyoto), を đối tượng (chùa) → xem chùa ở Kyoto."
+        "explanation": "Câu 4 nói 「公園で動物を見ました」→ で nơi hành động (công viên), を đối tượng (động vật) → xem động vật ở công viên."
       }
     ]
   },
@@ -1310,8 +1317,8 @@
       },
       {
         "word": "プール",
-        "reading": "ぷーる",
-        "meaning": "bể bơi"
+        "meaning": "bể bơi",
+        "reading": ""
       },
       {
         "word": "駅",
@@ -1326,7 +1333,7 @@
       {
         "word": "速く",
         "reading": "はやく",
-        "meaning": "nhanh"
+        "meaning": "một cách nhanh"
       }
     ],
     "process": [
@@ -1363,7 +1370,7 @@
       {
         "sentence": "鈴木先生はとても速く泳ぎます。",
         "chunks": "鈴木先生は / とても / 速く / 泳ぎます",
-        "guide": "は chủ đề → とても rất → 速く cách thức → 泳ぎます bơi",
+        "guide": "は chủ đề → とても rất → 速く là dạng adverb của i-adj 速い (速い → 速く, い → く) → 泳ぎます bơi",
         "translation": "Thầy Suzuki bơi rất nhanh."
       },
       {
@@ -1478,8 +1485,8 @@
       },
       {
         "word": "ギター",
-        "reading": "ぎたー",
-        "meaning": "đàn guitar"
+        "meaning": "đàn guitar",
+        "reading": ""
       },
       {
         "word": "弾きます",
@@ -1586,7 +1593,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 6 nói 「まだ上手ではありません」→ まだ = 'vẫn chưa' + ではありません phủ định = chưa giỏi. ⚠️ Bẫy: đáp án D sai vì câu 5 nói rõ có chơi guitar (ギターも弾きます)."
+        "explanation": "Câu 6 nói 「まだ上手ではありません」→ まだ = 'vẫn chưa' + ではありません phủ định = chưa giỏi. Bẫy: đáp án D sai vì câu 5 nói rõ có chơi guitar (ギターも弾きます)."
       }
     ]
   }

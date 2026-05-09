@@ -50,7 +50,7 @@
       {
         "word": "マイク",
         "reading": "マイク",
-        "meaning": "micro"
+        "meaning": "micro thu âm"
       },
       {
         "word": "工事",
@@ -202,31 +202,31 @@
       },
       {
         "id": "R_0121_Q3",
-        "question": "この人は次のオンライン会議のために何をしようと思っていますか。",
-        "question_vi": "Người này định làm gì cho cuộc họp online lần sau?",
+        "question": "この経験から学んだ一番大切なことは何ですか。",
+        "question_vi": "Bài học quan trọng nhất rút ra từ trải nghiệm này là gì?",
         "answers": [
           {
-            "text": "新しいパソコンを買おうと思っています。",
-            "text_vi": "Định mua máy tính mới.",
+            "text": "オンライン会議はしないほうがいいということです。",
+            "text_vi": "Không nên họp online.",
             "is_correct": false
           },
           {
-            "text": "会社に行って会議をしようと思っています。",
-            "text_vi": "Định đến công ty để họp.",
-            "is_correct": false
-          },
-          {
-            "text": "イヤホンを使おうと思っています。",
-            "text_vi": "Định dùng tai nghe.",
+            "text": "事前に機材を確認して準備することが大切だということです。",
+            "text_vi": "Quan trọng là kiểm tra thiết bị và chuẩn bị kỹ trước.",
             "is_correct": true
           },
           {
-            "text": "静かな喫茶店で会議をしようと思っています。",
-            "text_vi": "Định họp ở quán cà phê yên tĩnh.",
+            "text": "カメラよりマイクのほうが重要だということです。",
+            "text_vi": "Micro quan trọng hơn camera.",
+            "is_correct": false
+          },
+          {
+            "text": "静かな場所でないと仕事はできないということです。",
+            "text_vi": "Không ở chỗ yên tĩnh thì không làm việc được.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 10 nói rõ 「次からはイヤホンを使おうと思います」→ うと思う diễn tả ý định = 'định dùng tai nghe' từ lần sau."
+        "explanation": "Bài nêu 3 sự cố liên tiếp (camera đóng nắp, micro tắt, tiếng ồn lọt vào) — đều là vấn đề có thể tránh nếu kiểm tra trước. Câu 11 kết luận: 'muốn cố gắng quen với họp online sớm' → bài học là cần chuẩn bị kỹ thiết bị và môi trường trước khi họp."
       }
     ]
   },
@@ -253,9 +253,9 @@
       "～なければならない",
       "～ことになっている"
     ],
-    "sentence_count": 13,
-    "text": "田中部長、お疲れ様です。突然のメールで申し訳ありません。来週の月曜日に休みをいただけませんか。実は、母が来週手術を受けることになっています。私が病院に付き添わなければなりません。父は仕事があるので、行くことができません。姉も遠くに住んでいるので、来られません。手術は朝9時からの予定です。午後には終わるはずですが、母のそばにいたいと思います。火曜日には出社するつもりです。月曜日の会議の資料は金曜日までに準備しておきます。何かあれば、メールで連絡していただけませんか。ご迷惑をおかけしますが、よろしくお願いいたします。",
-    "translation": "Trưởng phòng Tanaka, anh vất vả rồi ạ. Xin lỗi vì email đột ngột. Tuần sau thứ Hai, tôi có thể xin nghỉ được không ạ? Thực ra, mẹ tôi sẽ phẫu thuật vào tuần sau. Tôi phải đi cùng mẹ đến bệnh viện. Bố tôi có việc nên không thể đi được. Chị gái cũng sống xa nên không đến được. Ca phẫu thuật dự kiến từ 9 giờ sáng. Buổi chiều chắc sẽ xong, nhưng tôi muốn ở bên cạnh mẹ. Tôi dự định sẽ đi làm lại vào thứ Ba. Tài liệu cho cuộc họp thứ Hai, tôi sẽ chuẩn bị xong trước thứ Sáu. Nếu có gì, xin anh liên lạc qua email giúp tôi ạ. Xin lỗi vì gây phiền, mong anh chấp nhận.",
+    "sentence_count": 14,
+    "text": "田中部長、お疲れ様です。営業部のリンです。突然のメールで申し訳ありません。来週の月曜日に休みをいただけませんか。実は、母が来週手術を受けることになっています。私が病院に付き添わなければなりません。父は仕事があるので、行くことができません。姉も遠くに住んでいるので、来られません。手術は朝9時からの予定です。午後には終わるはずですが、母のそばにいたいと思います。火曜日には出社するつもりです。月曜日の会議の資料は金曜日までに準備しておきます。何かあれば、メールでご連絡いただければ幸いです。ご迷惑をおかけしますが、よろしくお願いいたします。",
+    "translation": "Trưởng phòng Tanaka, anh vất vả rồi ạ. Em là Linh, phòng kinh doanh. Xin lỗi vì email đột ngột. Tuần sau thứ Hai, tôi có thể xin nghỉ được không ạ? Thực ra, mẹ tôi sẽ phẫu thuật vào tuần sau. Tôi phải đi cùng mẹ đến bệnh viện. Bố tôi có việc nên không thể đi được. Chị gái cũng sống xa nên không đến được. Ca phẫu thuật dự kiến từ 9 giờ sáng. Buổi chiều chắc sẽ xong, nhưng tôi muốn ở bên cạnh mẹ. Tôi dự định sẽ đi làm lại vào thứ Ba. Tài liệu cho cuộc họp thứ Hai, tôi sẽ chuẩn bị xong trước thứ Sáu. Nếu có gì, kính nhờ anh liên lạc qua email ạ. Xin lỗi vì gây phiền, mong anh chấp nhận.",
     "vocabulary": [
       {
         "word": "部長",
@@ -299,6 +299,12 @@
         "chunks": "田中部長 / お疲れ様です",
         "guide": "Lời chào đầu email công việc. お疲れ様です = 'anh/chị vất vả rồi' → cách chào phổ biến ở công ty Nhật.",
         "translation": "Trưởng phòng Tanaka, anh vất vả rồi ạ."
+      },
+      {
+        "sentence": "営業部のリンです。",
+        "chunks": "営業部の / リンです",
+        "guide": "の liên kết → です khẳng định. 自己紹介 tự giới thiệu tên và phòng ban —礼儀 (lễ nghi) khi gửi email cho cấp trên.",
+        "translation": "Em là Linh, phòng kinh doanh."
       },
       {
         "sentence": "突然のメールで申し訳ありません。",
@@ -361,10 +367,10 @@
         "translation": "Tài liệu cho cuộc họp thứ Hai, tôi sẽ chuẩn bị xong trước thứ Sáu."
       },
       {
-        "sentence": "何かあれば、メールで連絡していただけませんか。",
-        "chunks": "何かあれば / メールで / 連絡していただけませんか",
-        "guide": "ば điều kiện → で phương tiện → ていただけませんか yêu cầu lịch sự → 'xin liên lạc qua email'",
-        "translation": "Nếu có gì, xin anh liên lạc qua email giúp tôi ạ."
+        "sentence": "何かあれば、メールでご連絡いただければ幸いです。",
+        "chunks": "何かあれば / メールで / ご連絡いただければ / 幸いです",
+        "guide": "ば điều kiện → で phương tiện → ご～いただければ幸いです cách xin lịch sự nhất (khiêm nhường hơn ていただけませんか) → 'kính nhờ liên lạc qua email'",
+        "translation": "Nếu có gì, kính nhờ anh liên lạc qua email ạ."
       },
       {
         "sentence": "ご迷惑をおかけしますが、よろしくお願いいたします。",
@@ -395,8 +401,8 @@
             "is_correct": false
           },
           {
-            "text": "旅行に行く予定があるからです。",
-            "text_vi": "Vì có kế hoạch đi du lịch.",
+            "text": "子供の学校の行事があるからです。",
+            "text_vi": "Vì có sự kiện ở trường của con.",
             "is_correct": false
           }
         ],
@@ -480,11 +486,12 @@
       "～ことになった",
       "～と思う",
       "～ために",
-      "～てくれた"
+      "～てくれた",
+      "～(ら)れる (受身)"
     ],
     "sentence_count": 13,
-    "text": "今日、部長に呼ばれました。来月からリーダーになることになったと言われました。とても驚きましたが、うれしかったです。この会社に入って3年になります。最初は仕事が難しくて、毎日失敗ばかりしていました。でも、先輩がいつも優しく教えてくれました。少しずつ仕事を覚えて、去年は大きなプロジェクトを任されました。そのプロジェクトが成功して、チームのみんなに認められたと思います。リーダーになったら、後輩のために自分も優しい先輩になりたいです。チームをもっとよくするために努力したいです。まだ不安もありますが、頑張ろうと思います。家に帰って、家族にすぐ報告しました。みんなとても喜んでくれました。",
-    "translation": "Hôm nay, tôi được trưởng phòng gọi. Ông ấy nói từ tháng sau tôi sẽ được làm trưởng nhóm. Tôi rất ngạc nhiên nhưng vui lắm. Tôi vào công ty này đã 3 năm. Lúc đầu công việc khó, ngày nào cũng toàn mắc lỗi. Nhưng tiền bối luôn tận tình chỉ bảo cho tôi. Dần dần tôi học được công việc, năm ngoái tôi được giao phụ trách dự án lớn. Dự án đó thành công, tôi nghĩ mọi người trong nhóm đã công nhận tôi. Khi làm trưởng nhóm, tôi muốn trở thành tiền bối tốt cho hậu bối. Tôi muốn nỗ lực để làm cho nhóm tốt hơn nữa. Vẫn còn lo lắng nhưng tôi sẽ cố gắng. Về nhà, tôi báo ngay cho gia đình. Mọi người rất vui cho tôi.",
+    "text": "今日、部長に呼ばれました。来月から主任になると言われました。とても驚きましたが、うれしかったです。この会社に入って3年になります。最初は仕事が難しくて、毎日失敗ばかりしていました。でも、先輩がいつも優しく教えてくれました。少しずつ仕事を覚えて、去年は大きなプロジェクトを任されました。そのプロジェクトが成功して、チームのみんなに認められたと思います。主任になったら、後輩のために自分も優しい先輩になりたいです。チームをもっとよくするために努力したいです。まだ不安もありますが、頑張ろうと思います。家に帰って、家族にすぐ報告しました。みんなとても喜んでくれました。",
+    "translation": "Hôm nay, tôi được trưởng phòng gọi. Tôi được nói rằng từ tháng sau sẽ lên chức tổ trưởng (主任). Tôi rất ngạc nhiên nhưng vui lắm. Tôi vào công ty này đã 3 năm. Lúc đầu công việc khó, ngày nào cũng toàn mắc lỗi. Nhưng tiền bối luôn tận tình chỉ bảo cho tôi. Dần dần tôi học được công việc, năm ngoái tôi được giao phụ trách dự án lớn. Dự án đó thành công, tôi nghĩ mọi người trong nhóm đã công nhận tôi. Khi lên chức tổ trưởng, tôi muốn trở thành tiền bối tốt cho hậu bối. Tôi muốn nỗ lực để làm cho nhóm tốt hơn nữa. Vẫn còn lo lắng nhưng tôi sẽ cố gắng. Về nhà, tôi báo ngay cho gia đình. Mọi người rất vui cho tôi.",
     "vocabulary": [
       {
         "word": "昇進",
@@ -535,10 +542,10 @@
         "translation": "Hôm nay, tôi được trưởng phòng gọi."
       },
       {
-        "sentence": "来月からリーダーになることになったと言われました。",
-        "chunks": "来月から / リーダーになる / ことになったと / 言われました",
-        "guide": "から thời điểm bắt đầu → ことになった quyết định từ bên ngoài (công ty quyết) → と trích dẫn → 言われました bị động",
-        "translation": "Ông ấy nói từ tháng sau tôi sẽ được làm trưởng nhóm."
+        "sentence": "来月から主任になると言われました。",
+        "chunks": "来月から / 主任に / なると / 言われました",
+        "guide": "から thời điểm bắt đầu → に trạng thái mới → なる biến đổi → と trích dẫn → 言われました bị động (受身) 'được nói rằng'. 主任 = tổ trưởng, chức danh chính thức trong công ty Nhật.",
+        "translation": "Tôi được nói rằng từ tháng sau sẽ lên chức tổ trưởng (主任)."
       },
       {
         "sentence": "とても驚きましたが、うれしかったです。",
@@ -577,10 +584,10 @@
         "translation": "Dự án đó thành công, tôi nghĩ mọi người trong nhóm đã công nhận tôi."
       },
       {
-        "sentence": "リーダーになったら、後輩のために自分も優しい先輩になりたいです。",
-        "chunks": "リーダーになったら / 後輩のために / 自分も / 優しい先輩に / なりたいです",
+        "sentence": "主任になったら、後輩のために自分も優しい先輩になりたいです。",
+        "chunks": "主任になったら / 後輩のために / 自分も / 優しい先輩に / なりたいです",
         "guide": "たら điều kiện → ために mục đích 'vì/cho' → も 'cũng' (giống tiền bối đã giúp mình) → たい mong muốn",
-        "translation": "Khi làm trưởng nhóm, tôi muốn trở thành tiền bối tốt cho hậu bối."
+        "translation": "Khi lên chức tổ trưởng, tôi muốn trở thành tiền bối tốt cho hậu bối."
       },
       {
         "sentence": "チームをもっとよくするために努力したいです。",
@@ -657,8 +664,8 @@
             "is_correct": true
           },
           {
-            "text": "先輩がリーダーを辞めたからです。",
-            "text_vi": "Vì tiền bối đã nghỉ chức trưởng nhóm.",
+            "text": "入社して一番まじめに働いていたからです。",
+            "text_vi": "Vì làm việc chăm chỉ nhất từ khi vào công ty.",
             "is_correct": false
           }
         ],
@@ -666,31 +673,31 @@
       },
       {
         "id": "R_0123_Q3",
-        "question": "この人はリーダーになったら、どんなリーダーになりたいですか。",
-        "question_vi": "Khi làm trưởng nhóm, người này muốn trở thành trưởng nhóm như thế nào?",
+        "question": "昇進に対するこの人の気持ちから、どんな性格だとわかりますか。",
+        "question_vi": "Qua cảm xúc của người này với việc thăng chức, bạn thấy họ có tính cách như thế nào?",
         "answers": [
           {
-            "text": "厳しいリーダーになりたいです。",
-            "text_vi": "Muốn làm trưởng nhóm nghiêm khắc.",
+            "text": "自信があって、心配はしない人です。",
+            "text_vi": "Tự tin, không lo lắng.",
             "is_correct": false
           },
           {
-            "text": "後輩に優しい先輩になりたいです。",
-            "text_vi": "Muốn trở thành tiền bối tốt với hậu bối.",
+            "text": "うれしいけど、不安もあって、責任感が強い人です。",
+            "text_vi": "Vui nhưng cũng lo, là người có tinh thần trách nhiệm cao.",
             "is_correct": true
           },
           {
-            "text": "もっと大きなプロジェクトをしたいです。",
-            "text_vi": "Muốn làm dự án lớn hơn.",
+            "text": "昇進に興味がなくて、仕事より家族が大事な人です。",
+            "text_vi": "Không quan tâm thăng chức, coi gia đình quan trọng hơn.",
             "is_correct": false
           },
           {
-            "text": "早く部長になりたいです。",
-            "text_vi": "Muốn nhanh chóng lên trưởng phòng.",
+            "text": "野心が強くて、早く出世したい人です。",
+            "text_vi": "Tham vọng lớn, muốn thăng tiến nhanh.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 9 nói 「後輩のために自分も優しい先輩になりたいです」→ ために mục đích 'cho hậu bối' + cũng muốn tử tế như tiền bối đã giúp mình (câu 6: てくれた)."
+        "explanation": "Câu 3 thể hiện cảm xúc kép: vui (うれしい) nhưng câu 11 thừa nhận còn lo (不安もある). Câu 9-10 cho thấy muốn trở thành tiền bối tốt cho hậu bối → tinh thần trách nhiệm cao, không chỉ nghĩ đến bản thân."
       }
     ]
   },
@@ -796,7 +803,7 @@
       {
         "sentence": "「大変でも、好きなことをしたほうがいい」と言われました。",
         "chunks": "「大変でも / 好きなことを / したほうがいい」と / 言われました",
-        "guide": "ても nhượng bộ 'dù... vẫn' → ほうがいい lời khuyên → と trích dẫn → 言われた bị động. Lời khuyên thúc đẩy quyết định.",
+        "guide": "でも nhượng bộ 'dù... vẫn' (な-adj/danh từ + でも — khác với V-て+も: vd 行っても). 大変 là な-adj nên dùng でも, không phải ても → ほうがいい lời khuyên → と trích dẫn → 言われた bị động.",
         "translation": "Bạn ấy nói \"Dù khó khăn, nên làm điều mình thích\"."
       },
       {
@@ -853,8 +860,8 @@
             "is_correct": true
           },
           {
-            "text": "上司と仲が悪いからです。",
-            "text_vi": "Vì quan hệ xấu với sếp.",
+            "text": "毎日同じことの繰り返しで、成長できないと感じたからです。",
+            "text_vi": "Vì cảm thấy mỗi ngày cứ lặp đi lặp lại, không phát triển được.",
             "is_correct": false
           },
           {
@@ -867,59 +874,59 @@
       },
       {
         "id": "R_0124_Q2",
-        "question": "友達のデザイナーは何と言いましたか。",
-        "question_vi": "Bạn nhà thiết kế đã nói gì?",
+        "question": "友達のデザイナーの言葉が、この人の決断に役立った理由は何ですか。",
+        "question_vi": "Tại sao lời nói của bạn nhà thiết kế lại giúp người này đưa ra quyết định?",
         "answers": [
           {
-            "text": "「安定した仕事を続けたほうがいい」と言いました。",
-            "text_vi": "\"Nên tiếp tục công việc ổn định.\"",
+            "text": "デザインの仕事の具体的なやり方を教えてくれたからです。",
+            "text_vi": "Vì chỉ cụ thể cách làm công việc thiết kế.",
             "is_correct": false
           },
           {
-            "text": "「デザインの仕事は難しいからやめたほうがいい」と言いました。",
-            "text_vi": "\"Công việc thiết kế khó nên bỏ đi.\"",
-            "is_correct": false
-          },
-          {
-            "text": "「大変でも、好きなことをしたほうがいい」と言いました。",
-            "text_vi": "\"Dù khó khăn, nên làm điều mình thích.\"",
+            "text": "同じ立場から「好きなことをしたほうがいい」と背中を押してくれたからです。",
+            "text_vi": "Vì từ cùng lĩnh vực, bạn đã khuyến khích \"nên làm điều mình thích\".",
             "is_correct": true
           },
           {
-            "text": "「もう少し考えたほうがいい」と言いました。",
-            "text_vi": "\"Nên suy nghĩ thêm chút nữa.\"",
+            "text": "転職しても給料が下がらないと保証してくれたからです。",
+            "text_vi": "Vì đảm bảo chuyển việc lương không giảm.",
+            "is_correct": false
+          },
+          {
+            "text": "一緒に新しい会社を作ろうと誘ってくれたからです。",
+            "text_vi": "Vì rủ cùng lập công ty mới.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 7 trích dẫn trực tiếp 「大変でも、好きなことをしたほうがいい」→ ても nhượng bộ + ほうがいい lời khuyên = 'dù khó vẫn nên làm điều thích'."
+        "explanation": "Câu 7 trích dẫn 「大変でも、好きなことをしたほうがいい」— lời này từ người bạn thực tế làm design (không phải ai không biết ngành) và khích lệ dù khó vẫn theo đuổi. Câu 8 nói 'nghe câu đó, có thêm can đảm' → 勇気が出た = bạn đã tiếp thêm dũng khí để quyết định."
       },
       {
         "id": "R_0124_Q3",
-        "question": "この人は会社を辞めた後、何をするつもりですか。",
-        "question_vi": "Sau khi nghỉ việc, người này định làm gì?",
+        "question": "この人の将来に対する態度はどれですか。",
+        "question_vi": "Thái độ của người này về tương lai là như thế nào?",
         "answers": [
           {
-            "text": "すぐにデザイナーとして働くつもりです。",
-            "text_vi": "Định làm nhà thiết kế ngay.",
+            "text": "全く不安がなくて、自信に満ちています。",
+            "text_vi": "Hoàn toàn không lo, đầy tự tin.",
             "is_correct": false
           },
           {
-            "text": "外国に留学するつもりです。",
-            "text_vi": "Định du học nước ngoài.",
-            "is_correct": false
-          },
-          {
-            "text": "デザインの学校に通うつもりです。",
-            "text_vi": "Định đi học trường thiết kế.",
+            "text": "不安はあるけど、具体的に準備して前向きに進んでいます。",
+            "text_vi": "Có lo lắng nhưng đang chuẩn bị cụ thể và tiến về phía trước một cách tích cực.",
             "is_correct": true
           },
           {
-            "text": "友達のデザイナーと一緒に仕事するつもりです。",
-            "text_vi": "Định làm việc cùng bạn nhà thiết kế.",
+            "text": "家族に反対されているので、あきらめようとしています。",
+            "text_vi": "Vì gia đình phản đối nên đang định bỏ cuộc.",
+            "is_correct": false
+          },
+          {
+            "text": "変えたい気持ちはあるが、まだ何も行動していません。",
+            "text_vi": "Muốn thay đổi nhưng chưa hành động gì.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 9-10 nói 「デザインの学校に通うために、貯金もしています」và 「来年の4月から学校に通おうと思っています」→ kế hoạch rõ ràng: đi học trường thiết kế."
+        "explanation": "Câu 11 thừa nhận 「不安はありますが」→ có lo lắng. Nhưng câu 9 'đang tiết kiệm tiền' và câu 10 'đã có kế hoạch từ tháng 4' → hành động cụ thể. Câu 13 'gia đình ủng hộ'. Suy ra: lo nhưng đang tích cực chuẩn bị."
       }
     ]
   },
@@ -947,8 +954,8 @@
       "～と思う"
     ],
     "sentence_count": 13,
-    "text": "去年から、フリーランスとして働いています。会社を辞めた時、自由になれるとうれしく思いました。今は自分で時間を決めることができます。朝、ゆっくり起きてもいいし、好きなカフェで仕事をすることもできます。でも、最近寂しいと感じるようになりました。会社にいた時は、同僚と毎日話していたのに、今は一人で仕事をしています。困った時に相談する人もいません。先週、一日中誰とも話さなかった日がありました。その時、人とのつながりが大切だと強く感じました。それで、コワーキングスペースに行くことにしました。そこで同じフリーランスの人たちと知り合いになりました。自由は大切だけど、人とのつながりも必要だと思います。来月からは週に2回、コワーキングスペースで働こうと思っています。",
-    "translation": "Từ năm ngoái, tôi làm việc tự do (freelance). Khi nghỉ việc ở công ty, tôi vui vì nghĩ sẽ được tự do. Bây giờ tôi có thể tự quyết định thời gian. Sáng có thể dậy muộn, cũng có thể làm việc ở quán cà phê mình thích. Nhưng gần đây tôi bắt đầu cảm thấy cô đơn. Khi ở công ty, tôi nói chuyện với đồng nghiệp mỗi ngày, thế mà bây giờ làm việc một mình. Khi gặp khó khăn cũng không có ai để hỏi. Tuần trước, có ngày cả ngày tôi không nói chuyện với ai. Lúc đó, tôi cảm nhận mạnh mẽ rằng sự kết nối với mọi người rất quan trọng. Vì thế, tôi quyết định đi đến không gian làm việc chung. Ở đó tôi quen được những người freelance khác. Tự do là quan trọng, nhưng sự kết nối với mọi người cũng cần thiết. Từ tháng sau tôi định làm việc ở không gian làm việc chung 2 lần một tuần.",
+    "text": "去年から、フリーランスとして働いています。会社を辞めた時、自由になれるとうれしく思いました。今は自分で時間を決めることができます。朝、ゆっくり起きてもいいし、好きなカフェで仕事をすることもできます。でも、最近寂しいと感じるようになりました。会社にいた時は、同僚と毎日話していたのに、今は一人で仕事をしています。困った時に相談する人もいません。先週、一日中誰とも話さなかった日がありました。その時、人とのつながりが大切だと強く感じました。それで、コワーキングスペースに行くことにしました。そこでフリーランス仲間と知り合いになりました。自由は大切だけど、人とのつながりも必要だと思います。来月からは週に2回、コワーキングスペースで働こうと思っています。",
+    "translation": "Từ năm ngoái, tôi làm việc tự do (freelance). Khi nghỉ việc ở công ty, tôi vui vì nghĩ sẽ được tự do. Bây giờ tôi có thể tự quyết định thời gian. Sáng có thể dậy muộn, cũng có thể làm việc ở quán cà phê mình thích. Nhưng gần đây tôi bắt đầu cảm thấy cô đơn. Khi ở công ty, tôi nói chuyện với đồng nghiệp mỗi ngày, thế mà bây giờ làm việc một mình. Khi gặp khó khăn cũng không có ai để hỏi. Tuần trước, có ngày cả ngày tôi không nói chuyện với ai. Lúc đó, tôi cảm nhận mạnh mẽ rằng sự kết nối với mọi người rất quan trọng. Vì thế, tôi quyết định đi đến không gian làm việc chung. Ở đó tôi quen được những người bạn freelance. Tự do là quan trọng, nhưng sự kết nối với mọi người cũng cần thiết. Từ tháng sau tôi định làm việc ở không gian làm việc chung 2 lần một tuần.",
     "vocabulary": [
       {
         "word": "フリーランス",
@@ -1020,7 +1027,7 @@
       {
         "sentence": "会社にいた時は、同僚と毎日話していたのに、今は一人で仕事をしています。",
         "chunks": "会社にいた時は / 同僚と毎日話していたのに / 今は / 一人で / 仕事をしています",
-        "guide": "のに nghịch lý mạnh 'thế mà' → は đối lập hai thời điểm: trước (公司) vs bây giờ (一人). Nỗi buồn so sánh.",
+        "guide": "のに nhượng bộ kiểu 'nghịch lý — dù kỳ vọng A mà kết quả lại B' (concessive のに: diễn tả sự thật trái kỳ vọng/so sánh buồn, khác với のに gợi ý/nuối tiếc ở R_0126) → は đối lập hai thời điểm. Nỗi buồn khi so sánh.",
         "translation": "Khi ở công ty, tôi nói chuyện với đồng nghiệp mỗi ngày, thế mà bây giờ làm việc một mình."
       },
       {
@@ -1048,10 +1055,10 @@
         "translation": "Vì thế, tôi quyết định đi đến không gian làm việc chung."
       },
       {
-        "sentence": "そこで同じフリーランスの人たちと知り合いになりました。",
-        "chunks": "そこで / 同じフリーランスの人たちと / 知り合いになりました",
-        "guide": "そこで ở đó → と cùng với → になった biến đổi trạng thái → quen biết thêm người mới",
-        "translation": "Ở đó tôi quen được những người freelance khác."
+        "sentence": "そこでフリーランス仲間と知り合いになりました。",
+        "chunks": "そこで / フリーランス仲間と / 知り合いになりました",
+        "guide": "そこで ở đó → 仲間 bạn đồng hành/cùng hoàn cảnh (collocation tự nhiên hơn '同じ人たち') → と cùng với → になった biến đổi trạng thái → quen biết thêm người mới",
+        "translation": "Ở đó tôi quen được những người bạn freelance khác."
       },
       {
         "sentence": "自由は大切だけど、人とのつながりも必要だと思います。",
@@ -1173,17 +1180,13 @@
       "～ために",
       "～ことにした",
       "～たら",
-      "～ようになった"
+      "～ようになった",
+      "～てみる"
     ],
     "sentence_count": 14,
-    "text": "私は趣味でアクセサリーを作っています。友達にあげたら、「かわいい！売ったらいいのに」と言われました。最初は冗談だと思いましたが、だんだん本気で考えるようになりました。ネットショップを開くために、いろいろ調べました。写真の撮り方、値段の決め方、送り方など、覚えることがたくさんありました。3か月準備して、やっとショップを開くことにしました。最初の1か月は全然売れませんでした。諦めそうになりましたが、もう少し頑張ろうと思いました。でも、SNSで写真を載せてみたら、少しずつ注文が来るようになりました。今は月に10個ぐらい売れています。お客さんから「かわいい」というメッセージをもらうと、とてもうれしいです。リピーターのお客さんも増えてきました。まだ儲けは少ないですが、好きなことを仕事にできて幸せです。将来はもっと種類を増やしたいと思っています。",
-    "translation": "Tôi làm phụ kiện như một sở thích. Khi tặng bạn, bạn nói \"Dễ thương quá! Bán đi thì tốt biết mấy\". Lúc đầu tôi nghĩ chỉ là đùa thôi, nhưng dần dần bắt đầu suy nghĩ nghiêm túc. Để mở cửa hàng online, tôi đã tìm hiểu nhiều thứ. Cách chụp ảnh, cách định giá, cách gửi hàng... có rất nhiều thứ phải học. Sau 3 tháng chuẩn bị, cuối cùng tôi quyết định mở cửa hàng. Tháng đầu tiên hoàn toàn không bán được gì. Suýt bỏ cuộc, nhưng tôi nghĩ hãy cố thêm chút nữa. Nhưng khi thử đăng ảnh lên mạng xã hội, đơn hàng dần dần bắt đầu đến. Bây giờ mỗi tháng bán được khoảng 10 cái. Khi nhận được tin nhắn \"dễ thương\" từ khách hàng, tôi rất vui. Khách hàng quay lại mua cũng ngày càng nhiều. Tuy lợi nhuận còn ít, nhưng tôi hạnh phúc vì biến điều mình thích thành công việc. Tương lai tôi muốn tăng thêm nhiều loại sản phẩm.",
+    "text": "私は趣味でアクセサリーを作っています。友達にあげたら、「かわいい！売ったらいいのに」と言われました。最初は冗談だと思いましたが、だんだん本気で考えるようになりました。ネットショップを開くために、いろいろ調べました。写真の撮り方、値段の決め方、送り方など、覚えることがたくさんありました。3か月準備して、BASEというサービスで店を作りました。最初の1か月は全然売れませんでした。諦めそうになりましたが、もう少し頑張ろうと思いました。でも、SNSで写真を載せてみたら、少しずつ注文が来るようになりました。今は月に10個ぐらい売れています。お客さんから「かわいい」というメッセージをもらうと、とてもうれしいです。リピーターのお客さんも増えてきました。まだ儲けは少ないですが、好きなことを仕事にできて幸せです。将来はもっと種類を増やしたいと思っています。",
+    "translation": "Tôi làm phụ kiện như một sở thích. Khi tặng bạn, bạn nói \"Dễ thương quá! Bán đi thì tốt biết mấy\". Lúc đầu tôi nghĩ chỉ là đùa thôi, nhưng dần dần bắt đầu suy nghĩ nghiêm túc. Để mở cửa hàng online, tôi đã tìm hiểu nhiều thứ. Cách chụp ảnh, cách định giá, cách gửi hàng... có rất nhiều thứ phải học. Sau 3 tháng chuẩn bị, tôi tạo cửa hàng trên dịch vụ tên là BASE. Tháng đầu tiên hoàn toàn không bán được gì. Suýt bỏ cuộc, nhưng tôi nghĩ hãy cố thêm chút nữa. Nhưng khi thử đăng ảnh lên mạng xã hội, đơn hàng dần dần bắt đầu đến. Bây giờ mỗi tháng bán được khoảng 10 cái. Khi nhận được tin nhắn \"dễ thương\" từ khách hàng, tôi rất vui. Khách hàng quay lại mua cũng ngày càng nhiều. Tuy lợi nhuận còn ít, nhưng tôi hạnh phúc vì biến điều mình thích thành công việc. Tương lai tôi muốn tăng thêm nhiều loại sản phẩm.",
     "vocabulary": [
-      {
-        "word": "アクセサリー",
-        "reading": "アクセサリー",
-        "meaning": "phụ kiện, trang sức"
-      },
       {
         "word": "冗談",
         "reading": "じょうだん",
@@ -1218,6 +1221,11 @@
         "word": "リピーター",
         "reading": "リピーター",
         "meaning": "khách hàng quay lại"
+      },
+      {
+        "word": "諦める",
+        "reading": "あきらめる",
+        "meaning": "bỏ cuộc, từ bỏ"
       }
     ],
     "process": [
@@ -1230,7 +1238,7 @@
       {
         "sentence": "友達にあげたら、「かわいい！売ったらいいのに」と言われました。",
         "chunks": "友達にあげたら / 「かわいい！売ったらいいのに」と / 言われました",
-        "guide": "たら điều kiện thực tế 'khi tặng' → のに nuối tiếc/gợi ý 'bán đi thì tốt biết mấy' → 言われた bị động",
+        "guide": "たら điều kiện thực tế 'khi tặng' → のに nuối tiếc/gợi ý kiểu 'tiếc thật, sao không... nhỉ' (regret-suggestion のに: khác với concessive のに ở R_0125 — ở đây người nói gợi ý việc chưa làm, ngụ ý 'đáng tiếc vì không làm') → 言われた bị động",
         "translation": "Khi tặng bạn, bạn nói \"Dễ thương quá! Bán đi thì tốt biết mấy\"."
       },
       {
@@ -1252,10 +1260,10 @@
         "translation": "Cách chụp ảnh, cách định giá, cách gửi hàng... có rất nhiều thứ phải học."
       },
       {
-        "sentence": "3か月準備して、やっとショップを開くことにしました。",
-        "chunks": "3か月準備して / やっと / ショップを / 開くことにしました",
-        "guide": "て nối → やっと cuối cùng (sau nỗ lực) → ことにした quyết định cá nhân → quyết tâm sau chuẩn bị lâu",
-        "translation": "Sau 3 tháng chuẩn bị, cuối cùng tôi quyết định mở cửa hàng."
+        "sentence": "3か月準備して、BASEというサービスで店を作りました。",
+        "chunks": "3か月準備して / BASEというサービスで / 店を / 作りました",
+        "guide": "て nối → という trích dẫn tên 'dịch vụ tên là BASE' → で phương tiện/nền tảng → 作りました hành động hoàn thành. BASE = nền tảng thương mại điện tử phổ biến tại Nhật.",
+        "translation": "Sau 3 tháng chuẩn bị, tôi tạo cửa hàng trên dịch vụ tên là BASE."
       },
       {
         "sentence": "最初の1か月は全然売れませんでした。",
@@ -1416,9 +1424,9 @@
       "～ために",
       "～と思う"
     ],
-    "sentence_count": 13,
-    "text": "来月、友達と東北地方を旅行するつもりです。東北に行くのは初めてなので、とても楽しみです。まず、仙台に行って、牛タンを食べたいです。仙台は牛タンが有名だと聞きました。次の日は、松島を見に行くことにしました。松島は日本三景の一つで、海の中にたくさんの島があるそうです。3日目は山形に移動して、温泉に入る予定です。おいしい果物も食べたいと思っています。旅行のために、新幹線のチケットをもう予約しました。ホテルも2か所予約しました。全部で3泊4日の旅行です。天気がよければ、きれいな景色が見られると思います。初めての東北旅行なので、たくさん写真を撮るつもりです。",
-    "translation": "Tháng sau, tôi dự định đi du lịch vùng Tohoku với bạn. Đây là lần đầu đi Tohoku nên rất háo hức. Trước tiên, tôi muốn đi Sendai ăn lưỡi bò. Tôi nghe nói Sendai nổi tiếng về lưỡi bò. Ngày tiếp theo, tôi quyết định đi xem Matsushima. Nghe nói Matsushima là một trong ba cảnh đẹp nhất Nhật Bản, có rất nhiều đảo nhỏ trên biển. Ngày thứ 3, dự kiến di chuyển đến Yamagata và tắm suối nước nóng. Tôi cũng muốn ăn trái cây ngon. Để chuẩn bị cho chuyến đi, tôi đã đặt vé tàu Shinkansen rồi. Khách sạn cũng đã đặt 2 chỗ. Tổng cộng là chuyến đi 3 đêm 4 ngày. Nếu thời tiết đẹp, tôi nghĩ sẽ được ngắm cảnh đẹp. Vì là lần đầu đi Tohoku, tôi dự định chụp thật nhiều ảnh.",
+    "sentence_count": 14,
+    "text": "来月、友達と東北地方を旅行するつもりです。東北に行くのは初めてなので、とても楽しみです。まず、仙台に行って、牛タンを食べたいです。仙台は牛タンが有名だと聞きました。次の日は、松島を見に行くことにしました。松島は日本三景の一つで、海の中にたくさんの島があるそうです。3日目は山形に移動して、温泉に入る予定です。4日目は福島の温泉に泊まる予定です。おいしい果物も食べたいと思っています。旅行のために、新幹線のチケットをもう予約しました。ホテルも2か所予約しました。全部で3泊4日の旅行です。天気がよければ、きれいな景色が見られると思います。初めての東北旅行なので、たくさん写真を撮るつもりです。",
+    "translation": "Tháng sau, tôi dự định đi du lịch vùng Tohoku với bạn. Đây là lần đầu đi Tohoku nên rất háo hức. Trước tiên, tôi muốn đi Sendai ăn lưỡi bò. Tôi nghe nói Sendai nổi tiếng về lưỡi bò. Ngày tiếp theo, tôi quyết định đi xem Matsushima. Nghe nói Matsushima là một trong ba cảnh đẹp nhất Nhật Bản, có rất nhiều đảo nhỏ trên biển. Ngày thứ 3, dự kiến di chuyển đến Yamagata và tắm suối nước nóng. Ngày thứ 4, dự kiến nghỉ ở suối nước nóng Fukushima. Tôi cũng muốn ăn trái cây ngon. Để chuẩn bị cho chuyến đi, tôi đã đặt vé tàu Shinkansen rồi. Khách sạn cũng đã đặt 2 chỗ. Tổng cộng là chuyến đi 3 đêm 4 ngày. Nếu thời tiết đẹp, tôi nghĩ sẽ được ngắm cảnh đẹp. Vì là lần đầu đi Tohoku, tôi dự định chụp thật nhiều ảnh.",
     "vocabulary": [
       {
         "word": "東北地方",
@@ -1490,7 +1498,7 @@
       {
         "sentence": "松島は日本三景の一つで、海の中にたくさんの島があるそうです。",
         "chunks": "松島は / 日本三景の一つで / 海の中に / たくさんの島が / あるそうです",
-        "guide": "は chủ đề → で nối (tính từ な bỏ な+で) → に vị trí → が chủ ngữ tồn tại → そうだ nghe nói. Kiến thức về điểm đến.",
+        "guide": "は chủ đề → 一つで: danh từ + で (te-form của copula だ → で, dùng để nối mệnh đề, khác với な-adj) → に vị trí → が chủ ngữ tồn tại → そうだ nghe nói. Kiến thức về điểm đến.",
         "translation": "Nghe nói Matsushima là một trong ba cảnh đẹp nhất Nhật Bản, có rất nhiều đảo nhỏ trên biển."
       },
       {
@@ -1498,6 +1506,12 @@
         "chunks": "3日目は / 山形に移動して / 温泉に / 入る予定です",
         "guide": "は chuyển thời gian → に đích đến → て nối → に đích đến → 予定 dự kiến. Kế hoạch ngày 3.",
         "translation": "Ngày thứ 3, dự kiến di chuyển đến Yamagata và tắm suối nước nóng."
+      },
+      {
+        "sentence": "4日目は福島の温泉に泊まる予定です。",
+        "chunks": "4日目は / 福島の / 温泉に / 泊まる予定です",
+        "guide": "は chuyển thời gian → の liên kết → に đích đến → 泊まる 'ở lại qua đêm' → 予定 dự kiến. Kế hoạch ngày 4, hoàn thiện lịch trình Tohoku (仙台→松島→山形→福島).",
+        "translation": "Ngày thứ 4, dự kiến nghỉ ở suối nước nóng Fukushima."
       },
       {
         "sentence": "おいしい果物も食べたいと思っています。",
@@ -1567,59 +1581,59 @@
       },
       {
         "id": "R_0127_Q2",
-        "question": "2日目にどこに行きますか。",
-        "question_vi": "Ngày thứ 2 đi đâu?",
+        "question": "この人が3日目に山形を選んだ理由として、正しいものはどれですか。",
+        "question_vi": "Lý do người này chọn Yamagata vào ngày thứ 3 là gì?",
         "answers": [
           {
-            "text": "仙台で牛タンを食べに行きます。",
-            "text_vi": "Đi Sendai ăn lưỡi bò.",
+            "text": "山形が東北で一番有名な場所だからです。",
+            "text_vi": "Vì Yamagata là nơi nổi tiếng nhất Tohoku.",
             "is_correct": false
           },
           {
-            "text": "松島を見に行きます。",
-            "text_vi": "Đi xem Matsushima.",
+            "text": "温泉に入りたくて、おいしい果物も食べたいからです。",
+            "text_vi": "Vì muốn tắm suối nước nóng và ăn trái cây ngon.",
             "is_correct": true
           },
           {
-            "text": "山形の温泉に行きます。",
-            "text_vi": "Đi suối nước nóng Yamagata.",
+            "text": "仙台から一番近い場所だからです。",
+            "text_vi": "Vì là nơi gần Sendai nhất.",
             "is_correct": false
           },
           {
-            "text": "東京に帰ります。",
-            "text_vi": "Về Tokyo.",
+            "text": "ホテルが安くて予約しやすいからです。",
+            "text_vi": "Vì khách sạn rẻ, dễ đặt.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 3 nói 'まず仙台' (ngày 1), câu 5 nói 「次の日は、松島を見に行くことにしました」→ 次の日 = ngày tiếp theo = ngày 2 đi Matsushima."
+        "explanation": "Câu 7 nói 「3日目は山形に移動して、温泉に入る予定です」và câu 9 「おいしい果物も食べたいと思っています」→ 山形 nổi tiếng về onsen và trái cây (đặc biệt đào, anh đào). Người này chọn Yamagata vì muốn tận hưởng cả hai."
       },
       {
         "id": "R_0127_Q3",
-        "question": "この人は旅行の準備をもうしましたか。",
-        "question_vi": "Người này đã chuẩn bị cho chuyến đi chưa?",
+        "question": "この人はどんな旅行者だと思いますか。",
+        "question_vi": "Bạn nghĩ người này là kiểu du khách như thế nào?",
         "answers": [
           {
-            "text": "まだ何も準備していません。",
-            "text_vi": "Chưa chuẩn bị gì cả.",
+            "text": "計画を立てないで、自由に旅行するタイプです。",
+            "text_vi": "Kiểu đi tùy hứng, không lên kế hoạch.",
             "is_correct": false
           },
           {
-            "text": "チケットだけ予約しました。",
-            "text_vi": "Chỉ mới đặt vé thôi.",
-            "is_correct": false
-          },
-          {
-            "text": "チケットもホテルも予約しました。",
-            "text_vi": "Đã đặt cả vé lẫn khách sạn.",
+            "text": "事前にきちんと計画を立てて、準備する慎重なタイプです。",
+            "text_vi": "Kiểu cẩn thận, lên kế hoạch kỹ và chuẩn bị chu đáo từ trước.",
             "is_correct": true
           },
           {
-            "text": "友達に準備を頼みました。",
-            "text_vi": "Nhờ bạn chuẩn bị.",
+            "text": "旅行より食事を楽しむことだけに興味があるタイプです。",
+            "text_vi": "Kiểu chỉ quan tâm đến ẩm thực, không quan tâm tham quan.",
+            "is_correct": false
+          },
+          {
+            "text": "お金をあまり使いたくない、節約タイプです。",
+            "text_vi": "Kiểu tiết kiệm, không muốn tiêu nhiều tiền.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 9 nói 「新幹線のチケットをもう予約しました」(もう = đã rồi) và câu 10 「ホテルも2か所予約しました」→ も = cũng → đã đặt cả vé lẫn khách sạn."
+        "explanation": "Bài cho thấy người này đã: lên lịch chi tiết từng ngày (仙台→松島→山形→福島), đặt vé Shinkansen trước (もう予約), đặt khách sạn 2 chỗ, tìm hiểu địa danh (日本三景). Tất cả chi tiết chuẩn bị kỹ lưỡng → suy ra đây là người du lịch cẩn thận, lên kế hoạch chi tiết."
       }
     ]
   },
@@ -1647,8 +1661,8 @@
       "～と思う"
     ],
     "sentence_count": 14,
-    "text": "来週の旅行で、ホテルにするか民泊にするか迷っています。ホテルは民泊より高いですが、サービスがいいです。フロントがあるので、困った時にすぐ相談することができます。部屋もきれいで、タオルやシャンプーも準備されています。一方、民泊はホテルより安いです。キッチンがあるので、自分で料理を作ることもできます。地元の生活を体験できるのも魅力です。でも、民泊はチェックインが難しいことがあります。前に一度、鍵の場所がわからなくて困ったことがあります。友達は「初めての場所なら、ホテルのほうがいい」と言っています。確かに、知らない場所では安心なほうがいいと思います。でも、民泊のほうが面白い経験ができるのに、もったいないとも思います。今回は安全のためにホテルにすることにしました。次はぜひ民泊を試してみたいです。",
-    "translation": "Chuyến đi tuần sau, tôi đang phân vân chọn khách sạn hay nhà dân. Khách sạn đắt hơn nhà dân, nhưng dịch vụ tốt. Có quầy lễ tân nên khi gặp khó khăn có thể hỏi ngay. Phòng cũng sạch đẹp, khăn tắm và dầu gội đều được chuẩn bị sẵn. Mặt khác, nhà dân rẻ hơn khách sạn. Có bếp nên cũng có thể tự nấu ăn. Được trải nghiệm cuộc sống địa phương cũng là điểm hấp dẫn. Nhưng nhà dân đôi khi check-in khó khăn. Trước đây có lần tôi không biết chỗ để chìa khóa, rất bối rối. Bạn tôi nói \"Nếu là nơi lần đầu đến thì nên chọn khách sạn\". Đúng là ở nơi lạ, nên chọn cái an tâm hơn. Nhưng tôi cũng nghĩ nhà dân có thể có trải nghiệm thú vị hơn, bỏ qua thì phí. Lần này vì an toàn nên tôi quyết định chọn khách sạn. Lần sau nhất định muốn thử nhà dân.",
+    "text": "来週の旅行で、ホテルにするか民泊にするか迷っています。ホテルは民泊より高いですが、サービスがいいです。フロントがあるので、困った時にすぐ相談することができます。部屋もきれいで、タオルやシャンプーも準備されています。一方、民泊はホテルより安いです。キッチンがあるので、自分で料理を作ることもできます。地元の生活を体験できるのも魅力です。でも、民泊はチェックインが難しいことがあります。前に一度、スマートロックの使い方がわからなくて困ったことがあります。友達は「初めての場所なら、ホテルのほうがいい」と言っています。確かに、知らない場所では安心なほうがいいと思います。でも、民泊のほうが面白い経験ができるのに、もったいないとも思います。今回は安全のためにホテルにすることにしました。次はぜひ民泊を試してみたいです。",
+    "translation": "Chuyến đi tuần sau, tôi đang phân vân chọn khách sạn hay nhà dân. Khách sạn đắt hơn nhà dân, nhưng dịch vụ tốt. Có quầy lễ tân nên khi gặp khó khăn có thể hỏi ngay. Phòng cũng sạch đẹp, khăn tắm và dầu gội đều được chuẩn bị sẵn. Mặt khác, nhà dân rẻ hơn khách sạn. Có bếp nên cũng có thể tự nấu ăn. Được trải nghiệm cuộc sống địa phương cũng là điểm hấp dẫn. Nhưng nhà dân đôi khi check-in khó khăn. Trước đây có lần tôi không biết cách dùng khóa thông minh, rất bối rối. Bạn tôi nói \"Nếu là nơi lần đầu đến thì nên chọn khách sạn\". Đúng là ở nơi lạ, nên chọn cái an tâm hơn. Nhưng tôi cũng nghĩ nhà dân có thể có trải nghiệm thú vị hơn, bỏ qua thì phí. Lần này vì an toàn nên tôi quyết định chọn khách sạn. Lần sau nhất định muốn thử nhà dân.",
     "vocabulary": [
       {
         "word": "民泊",
@@ -1656,9 +1670,9 @@
         "meaning": "nhà dân cho thuê (kiểu Airbnb)"
       },
       {
-        "word": "迷っています",
-        "reading": "まよっています",
-        "meaning": "đang phân vân"
+        "word": "迷う",
+        "reading": "まよう",
+        "meaning": "phân vân, do dự"
       },
       {
         "word": "フロント",
@@ -1681,9 +1695,9 @@
         "meaning": "sức hấp dẫn"
       },
       {
-        "word": "鍵",
-        "reading": "かぎ",
-        "meaning": "chìa khóa"
+        "word": "スマートロック",
+        "reading": "スマートロック",
+        "meaning": "khóa thông minh (dùng điện thoại thay chìa khóa)"
       },
       {
         "word": "安心",
@@ -1741,10 +1755,10 @@
         "translation": "Nhưng nhà dân đôi khi check-in khó khăn."
       },
       {
-        "sentence": "前に一度、鍵の場所がわからなくて困ったことがあります。",
-        "chunks": "前に一度 / 鍵の場所が / わからなくて / 困ったことがあります",
-        "guide": "前に trước đây → が chủ ngữ → なくて nguyên nhân phủ định → ことがある kinh nghiệm quá khứ. Ví dụ cụ thể.",
-        "translation": "Trước đây có lần tôi không biết chỗ để chìa khóa, rất bối rối."
+        "sentence": "前に一度、スマートロックの使い方がわからなくて困ったことがあります。",
+        "chunks": "前に一度 / スマートロックの / 使い方が / わからなくて / 困ったことがあります",
+        "guide": "前に trước đây → の liên kết → 使い方 cách dùng → が chủ ngữ → なくて nguyên nhân phủ định → ことがある kinh nghiệm quá khứ. スマートロック = khóa thông minh, phổ biến trong 民泊hiện đại.",
+        "translation": "Trước đây có lần tôi không biết cách dùng khóa thông minh, rất bối rối."
       },
       {
         "sentence": "友達は「初めての場所なら、ホテルのほうがいい」と言っています。",
@@ -1822,8 +1836,8 @@
             "is_correct": false
           },
           {
-            "text": "鍵の場所がわからなかったことです。",
-            "text_vi": "Không biết chỗ để chìa khóa.",
+            "text": "スマートロックの使い方がわからなかったことです。",
+            "text_vi": "Không biết cách dùng khóa thông minh.",
             "is_correct": true
           },
           {
@@ -1832,35 +1846,35 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 9 nói rõ 「鍵の場所がわからなくて困ったことがあります」→ ことがある kinh nghiệm = đã từng không biết chỗ để chìa khóa."
+        "explanation": "Câu 9 nói rõ 「スマートロックの使い方がわからなくて困ったことがあります」→ ことがある kinh nghiệm = đã từng không biết cách dùng khóa thông minh."
       },
       {
         "id": "R_0128_Q3",
-        "question": "この人は今回どうして民泊にしませんでしたか。",
-        "question_vi": "Lần này tại sao người này không chọn nhà dân?",
+        "question": "この文章によると、日本の旅行に慣れていない人にはどちらがおすすめですか。",
+        "question_vi": "Theo bài này, người chưa quen du lịch Nhật Bản nên chọn cái nào?",
         "answers": [
           {
-            "text": "民泊が高すぎるからです。",
-            "text_vi": "Vì nhà dân quá đắt.",
+            "text": "民泊のほうがいいです。安くて面白い経験ができるからです。",
+            "text_vi": "Nên chọn nhà dân. Vì rẻ và có trải nghiệm thú vị.",
             "is_correct": false
           },
           {
-            "text": "友達が嫌だと言ったからです。",
-            "text_vi": "Vì bạn nói không thích.",
-            "is_correct": false
-          },
-          {
-            "text": "安全のためにホテルにしたからです。",
-            "text_vi": "Vì chọn khách sạn để an toàn.",
+            "text": "ホテルのほうがいいです。安心で困った時に相談できるからです。",
+            "text_vi": "Nên chọn khách sạn. Vì an tâm và có thể hỏi khi gặp khó khăn.",
             "is_correct": true
           },
           {
-            "text": "民泊が全部満室だったからです。",
-            "text_vi": "Vì nhà dân hết phòng.",
+            "text": "どちらでもいいです。値段で決めればいいからです。",
+            "text_vi": "Cái nào cũng được. Cứ chọn theo giá.",
+            "is_correct": false
+          },
+          {
+            "text": "民泊のほうがいいです。キッチンがあって便利だからです。",
+            "text_vi": "Nên chọn nhà dân. Vì có bếp tiện lợi.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 13 nói 「今回は安全のためにホテルにすることにしました」→ ために mục đích = vì an toàn mà chọn khách sạn. Lý do không phải giá hay bạn bè phản đối."
+        "explanation": "Câu 10 bạn khuyên 「初めての場所なら、ホテルのほうがいい」và câu 13 người viết đồng ý chọn khách sạn vì 安全. Câu 3 nêu lý do: ホテルはフロントがあるので困った時にすぐ相談できる → phù hợp cho người chưa quen."
       }
     ]
   },
@@ -1888,8 +1902,8 @@
       "～と思う"
     ],
     "sentence_count": 14,
-    "text": "京都に旅行に来ました。ホテルの人に金閣寺への行き方を聞きました。バスで行けば30分ぐらいだと教えてくれました。電車だと乗り換えが必要ですが、時間は同じぐらいだそうです。バスのほうが乗り換えがないので楽だと思いました。でも、朝のバスは混んでいても降りられないことがあると言われました。それを聞いたら、少し心配になりました。結局、行きはバスで行くことにしました。バス停で待っていたら、バスが来ましたが、本当に満員でした。なんとか乗れましたが、立ったままで大変でした。帰りは電車にしました。乗り換えは1回ありましたが、座ることができました。疲れている時は、電車のほうがいいと思いました。次に京都に来たら、電車を使おうと思います。",
-    "translation": "Tôi đến Kyoto du lịch. Tôi hỏi nhân viên khách sạn cách đi đến chùa Kinkakuji. Họ chỉ cho tôi rằng đi xe buýt khoảng 30 phút. Nghe nói đi tàu điện phải đổi tàu nhưng thời gian cũng tương đương. Tôi nghĩ xe buýt thoải mái hơn vì không cần đổi xe. Nhưng họ cũng nói xe buýt buổi sáng dù đông cũng có khi không xuống được. Nghe xong, tôi hơi lo. Cuối cùng, lượt đi tôi chọn xe buýt. Đang đợi ở trạm xe buýt thì xe đến, nhưng thật sự chật cứng. Tôi lên được nhưng phải đứng suốt, rất vất vả. Lượt về tôi chọn tàu điện. Phải đổi tàu 1 lần nhưng được ngồi. Khi mệt, tôi nghĩ tàu điện tốt hơn. Lần sau đến Kyoto, tôi định đi tàu điện.",
+    "text": "京都に旅行に来ました。ホテルの人に金閣寺への行き方を聞きました。バスで行けば30分ぐらいだと教えてくれました。電車だと乗り換えが必要ですが、時間は同じぐらいだそうです。バスのほうが乗り換えがないので楽だと思いました。でも、朝のバスは混んでいても降りられないことがあると言われました。それを聞いたら、少し心配になりました。結局、行きはバスで行くことにしました。バス停で待っていたら、バスが来ましたが、本当に満員でした。なんとか乗れましたが、立ちっぱなしで大変でした。帰りは電車にしました。乗り換えは1回ありましたが、座ることができました。疲れている時は、電車のほうがいいと思いました。次に京都に来たら、電車を使おうと思います。",
+    "translation": "Tôi đến Kyoto du lịch. Tôi hỏi nhân viên khách sạn cách đi đến chùa Kinkakuji. Họ chỉ cho tôi rằng đi xe buýt khoảng 30 phút. Nghe nói đi tàu điện phải đổi tàu nhưng thời gian cũng tương đương. Tôi nghĩ xe buýt thoải mái hơn vì không cần đổi xe. Nhưng họ cũng nói xe buýt buổi sáng dù đông cũng có khi không xuống được. Nghe xong, tôi hơi lo. Cuối cùng, lượt đi tôi chọn xe buýt. Đang đợi ở trạm xe buýt thì xe đến, nhưng thật sự chật cứng. Tôi lên được nhưng phải đứng mãi không nghỉ, rất vất vả. Lượt về tôi chọn tàu điện. Phải đổi tàu 1 lần nhưng được ngồi. Khi mệt, tôi nghĩ tàu điện tốt hơn. Lần sau đến Kyoto, tôi định đi tàu điện.",
     "vocabulary": [
       {
         "word": "金閣寺",
@@ -1917,9 +1931,9 @@
         "meaning": "bằng cách nào đó"
       },
       {
-        "word": "立ったまま",
-        "reading": "たったまま",
-        "meaning": "đứng suốt, cứ đứng"
+        "word": "立ちっぱなし",
+        "reading": "たちっぱなし",
+        "meaning": "đứng mãi không nghỉ (っぱなし = trạng thái kéo dài liên tục)"
       }
     ],
     "process": [
@@ -1978,10 +1992,10 @@
         "translation": "Đang đợi ở trạm xe buýt thì xe đến, nhưng thật sự chật cứng."
       },
       {
-        "sentence": "なんとか乗れましたが、立ったままで大変でした。",
-        "chunks": "なんとか乗れましたが / 立ったまま / で / 大変でした",
-        "guide": "なんとか bằng mọi cách → が nối ngược → まま trạng thái giữ nguyên 'cứ đứng' → 大変 vất vả",
-        "translation": "Tôi lên được nhưng phải đứng suốt, rất vất vả."
+        "sentence": "なんとか乗れましたが、立ちっぱなしで大変でした。",
+        "chunks": "なんとか乗れましたが / 立ちっぱなしで / 大変でした",
+        "guide": "なんとか bằng mọi cách → が nối ngược → っぱなし trạng thái kéo dài liên tục không dứt 'đứng mãi không nghỉ' (tự nhiên hơn 'ったまま') → 大変 vất vả",
+        "translation": "Tôi lên được nhưng phải đứng mãi không nghỉ, rất vất vả."
       },
       {
         "sentence": "帰りは電車にしました。",
@@ -2039,31 +2053,31 @@
       },
       {
         "id": "R_0129_Q2",
-        "question": "行きのバスはどうでしたか。",
-        "question_vi": "Xe buýt lượt đi thế nào?",
+        "question": "この文章によると、電車のほうがバスより向いているのはどんな人ですか。",
+        "question_vi": "Theo bài này, ai phù hợp đi tàu điện hơn xe buýt?",
         "answers": [
           {
-            "text": "空いていて、座れました。",
-            "text_vi": "Vắng, được ngồi.",
+            "text": "お金を節約したい人です。",
+            "text_vi": "Người muốn tiết kiệm tiền.",
             "is_correct": false
           },
           {
-            "text": "バスが来なくて、長く待ちました。",
-            "text_vi": "Xe buýt không đến, phải chờ lâu.",
-            "is_correct": false
-          },
-          {
-            "text": "満員で、立ったままで大変でした。",
-            "text_vi": "Chật cứng, phải đứng suốt rất vất vả.",
+            "text": "疲れていて、座って移動したい人です。",
+            "text_vi": "Người mệt và muốn ngồi di chuyển.",
             "is_correct": true
           },
           {
-            "text": "道が混んでいて、1時間かかりました。",
-            "text_vi": "Đường đông, mất 1 tiếng.",
+            "text": "たくさんの荷物を持っている人です。",
+            "text_vi": "Người mang nhiều hành lý.",
+            "is_correct": false
+          },
+          {
+            "text": "乗り換えが嫌いな人です。",
+            "text_vi": "Người không thích đổi phương tiện.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 8 nói 「本当に満員でした」và câu 9 「立ったままで大変でした」→ まま trạng thái giữ nguyên = phải đứng suốt, rất vất vả."
+        "explanation": "Câu 12 nói 「疲れている時は、電車のほうがいいと思いました」→ ほうがいい = tốt hơn khi mệt. Bài cũng nói tàu có thể ngồi (câu 11: 座ることができました) dù phải đổi tàu → phù hợp với người cần ngồi nghỉ ngơi."
       },
       {
         "id": "R_0129_Q3",
@@ -2191,7 +2205,7 @@
       {
         "sentence": "スーパーの野菜よりずっとおいしかったです。",
         "chunks": "スーパーの野菜より / ずっと / おいしかったです",
-        "guide": "より so sánh hơn → ずっt hơn rất nhiều → おいしかった ngon. Nhấn mạnh sự khác biệt.",
+        "guide": "より so sánh hơn → ずっと hơn rất nhiều → おいしかった ngon. Nhấn mạnh sự khác biệt.",
         "translation": "Ngon hơn rau siêu thị rất nhiều."
       },
       {

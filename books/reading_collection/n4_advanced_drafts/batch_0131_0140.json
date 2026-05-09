@@ -24,7 +24,7 @@
     ],
     "sentence_count": 13,
     "text": "先月、家族と沖縄に旅行に行きました。天気予報を見ないで出かけてしまいました。二日目に大きい台風が来ました。ホテルから出ることができませんでした。せっかく沖縄に来たのに、海で泳ぐことができませんでした。子供たちはとても悲しそうでした。ホテルの中でトランプをしなければなりませんでした。三日目もずっと雨でした。飛行機も飛ばなかったので、もう一泊することになりました。四日目にやっと台風が去りました。空がとてもきれいでした。最後の日に少しだけ海で泳ぐことができました。天気予報を見てから旅行の計画を立てなければならないと思いました。",
-    "translation": "Tháng trước, tôi đã đi du lịch Okinawa cùng gia đình. Tôi đã lỡ ra ngoài mà không xem dự báo thời tiết. Ngày thứ hai, một cơn bão lớn đến. Chúng tôi không thể ra khỏi khách sạn. Đã tốn công đến Okinawa mà lại không thể bơi ở biển. Bọn trẻ trông rất buồn. Chúng tôi phải chơi bài trong khách sạn. Ngày thứ ba cũng mưa suốt. Vì máy bay cũng không bay được nên chúng tôi phải ở thêm một đêm nữa. Ngày thứ tư, bão cuối cùng cũng đi qua. Bầu trời rất đẹp. Ngày cuối cùng, chúng tôi đã có thể bơi ở biển được một chút. Tôi đã nghĩ rằng phải xem dự báo thời tiết rồi mới lên kế hoạch du lịch.",
+    "translation": "Tháng trước, tôi đã đi du lịch Okinawa cùng gia đình. Tôi đã lỡ đi (du lịch) mà không xem dự báo thời tiết. Ngày thứ hai, một cơn bão lớn đến. Chúng tôi không thể ra khỏi khách sạn. Đã tốn công đến Okinawa mà lại không thể bơi ở biển. Bọn trẻ trông rất buồn. Chúng tôi phải chơi bài trong khách sạn. Ngày thứ ba cũng mưa suốt. Vì máy bay cũng không bay được nên chúng tôi phải ở thêm một đêm nữa. Ngày thứ tư, bão cuối cùng cũng đi qua. Bầu trời rất đẹp. Ngày cuối cùng, chúng tôi đã có thể bơi ở biển được một chút. Tôi đã nghĩ rằng phải xem dự báo thời tiết rồi mới lên kế hoạch du lịch.",
     "vocabulary": [
       {
         "word": "天気予報",
@@ -44,7 +44,7 @@
       {
         "word": "悲しそう",
         "reading": "かなしそう",
-        "meaning": "trông buồn"
+        "meaning": "悲しい + そう (suffix conjecture) — trông có vẻ buồn"
       },
       {
         "word": "トランプ",
@@ -78,7 +78,7 @@
         "sentence": "天気予報を見ないで出かけてしまいました。",
         "chunks": "天気予報を / 見ないで / 出かけてしまいました",
         "guide": "を đối tượng → ないで 'không làm mà...' → てしまいました hối tiếc: đã lỡ đi mà không xem",
-        "translation": "Tôi đã lỡ ra ngoài mà không xem dự báo thời tiết."
+        "translation": "Tôi đã lỡ đi (du lịch) mà không xem dự báo thời tiết."
       },
       {
         "sentence": "二日目に大きい台風が来ました。",
@@ -407,31 +407,31 @@
       },
       {
         "id": "R_0132_Q2",
-        "question": "小町通りで何をしましたか。",
-        "question_vi": "Ở phố Komachi đã làm gì?",
+        "question": "どうして筆者は何回も鎌倉に行くのですか。",
+        "question_vi": "Tại sao tác giả đến Kamakura nhiều lần như vậy?",
         "answers": [
           {
-            "text": "お土産を買いました。",
-            "text_vi": "Mua quà lưu niệm.",
+            "text": "大仏が好きだからです。",
+            "text_vi": "Vì thích Đại Phật.",
             "is_correct": false
           },
           {
-            "text": "コロッケやお団子を食べたりしました。",
-            "text_vi": "Ăn croquette, dango các thứ.",
+            "text": "東京から近くて、何回行っても新しい楽しさがあるからです。",
+            "text_vi": "Vì gần Tokyo và mỗi lần đến đều có niềm vui mới.",
             "is_correct": true
           },
           {
-            "text": "写真をたくさん撮りました。",
-            "text_vi": "Chụp rất nhiều ảnh.",
+            "text": "友達が鎌倉に住んでいるからです。",
+            "text_vi": "Vì bạn sống ở Kamakura.",
             "is_correct": false
           },
           {
-            "text": "着物を着てみました。",
-            "text_vi": "Thử mặc kimono.",
+            "text": "安い電車で行けるからです。",
+            "text_vi": "Vì đi tàu rẻ.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 7-8 nói 「小町通りで食べ歩きをしました。コロッケを食べたり、お団子を食べたりしました」→ たり...たりする liệt kê: ăn croquette và dango."
+        "explanation": "Câu 1 nói 「三回行ったことがあります」và câu 12 nói 「鎌倉は何回行っても楽しいと思います」→ kết hợp hai câu: đã đi nhiều lần vì mỗi lần đều vui (食べ歩き, đền, cảnh đẹp). Câu hỏi Apply: suy luận nguyên nhân đi lại nhiều lần."
       },
       {
         "id": "R_0132_Q3",
@@ -486,8 +486,8 @@
       "～ので"
     ],
     "sentence_count": 14,
-    "text": "先週の月曜日から熱が出ました。火曜日に三十九度になったので、病院に行きました。医者は「インフルエンザですね」と言いました。薬を五日分もらいました。医者に「お風呂に入らないでください」と言われました。「会社に行かないでください。一週間は休まなければなりません」とも言われました。水曜日と木曜日はずっと寝ていました。金曜日に少し元気になりました。熱も下がりました。土曜日に少し散歩してもいいかと医者に聞きました。「短い散歩なら大丈夫です」と言われました。日曜日に近くの公園を散歩しました。月曜日からまた会社に行くことができました。インフルエンザの時は薬を飲んでからゆっくり休むことが大切だと思いました。",
-    "translation": "Từ thứ Hai tuần trước, tôi bị sốt. Thứ Ba sốt lên 39 độ nên tôi đi bệnh viện. Bác sĩ nói \"Bạn bị cúm rồi\". Tôi được cho thuốc 5 ngày. Bác sĩ dặn \"Đừng tắm\". Bác sĩ cũng nói \"Đừng đi làm. Phải nghỉ một tuần\". Thứ Tư và thứ Năm tôi nằm ngủ suốt. Thứ Sáu tôi khỏe hơn một chút. Sốt cũng hạ rồi. Thứ Bảy tôi hỏi bác sĩ có thể đi dạo một chút được không. Bác sĩ nói \"Đi dạo ngắn thì không sao\". Chủ Nhật tôi đi dạo ở công viên gần nhà. Từ thứ Hai tôi đã có thể đi làm lại. Tôi nghĩ rằng khi bị cúm, điều quan trọng là uống thuốc rồi nghỉ ngơi.",
+    "text": "先週の月曜日から熱が出ました。火曜日に三十九度になったので、病院に行きました。医者は「インフルエンザですね」と言いました。薬を五日分もらいました。医者に「お風呂に入らないでください」と言われました。「会社に行かないでください。少なくとも一週間は休まなければなりません」とも言われました。水曜日と木曜日はずっと寝ていました。金曜日に少し元気になりました。熱も下がりました。土曜日に少し散歩してもいいかと医者に聞きました。「短い散歩なら大丈夫です」と言われました。日曜日に近くの公園を散歩しました。月曜日からまた会社に行くことができました。インフルエンザの時は薬を飲んでからゆっくり休むことが大切だと思いました。",
+    "translation": "Từ thứ Hai tuần trước, tôi bị sốt. Thứ Ba sốt lên 39 độ nên tôi đi bệnh viện. Bác sĩ nói \"Bạn bị cúm rồi\". Tôi được cho thuốc 5 ngày. Bác sĩ dặn \"Đừng tắm\". Bác sĩ cũng nói \"Đừng đi làm. Phải nghỉ ít nhất một tuần\". Thứ Tư và thứ Năm tôi nằm ngủ suốt. Thứ Sáu tôi khỏe hơn một chút. Sốt cũng hạ rồi. Thứ Bảy tôi hỏi bác sĩ có thể đi dạo một chút được không. Bác sĩ nói \"Đi dạo ngắn thì không sao\". Chủ Nhật tôi đi dạo ở công viên gần nhà. Từ thứ Hai tôi đã có thể đi làm lại. Tôi nghĩ rằng khi bị cúm, điều quan trọng là uống thuốc rồi nghỉ ngơi.",
     "vocabulary": [
       {
         "word": "熱",
@@ -557,10 +557,10 @@
         "translation": "Bác sĩ dặn \"Đừng tắm\"."
       },
       {
-        "sentence": "「会社に行かないでください。一週間は休まなければなりません」とも言われました。",
-        "chunks": "「会社に行かないでください / 一週間は / 休まなければなりません」とも / 言われました",
-        "guide": "ないでください cấm → なければなりません bắt buộc → とも 'cũng nói rằng'. Hai lệnh từ bác sĩ",
-        "translation": "Bác sĩ cũng nói \"Đừng đi làm. Phải nghỉ một tuần\"."
+        "sentence": "「会社に行かないでください。少なくとも一週間は休まなければなりません」とも言われました。",
+        "chunks": "「会社に行かないでください / 少なくとも一週間は / 休まなければなりません」とも / 言われました",
+        "guide": "ないでください cấm → 少なくとも ít nhất → なければなりません bắt buộc → とも 'cũng nói rằng'. Hai lệnh từ bác sĩ. 少なくとも phản ánh thực tế y tế: cúm cần ít nhất 1 tuần mới đủ thời gian phục hồi và tránh lây",
+        "translation": "Bác sĩ cũng nói \"Đừng đi làm. Phải nghỉ ít nhất một tuần\"."
       },
       {
         "sentence": "水曜日と木曜日はずっと寝ていました。",
@@ -583,7 +583,7 @@
       {
         "sentence": "土曜日に少し散歩してもいいかと医者に聞きました。",
         "chunks": "土曜日に / 少し散歩してもいいかと / 医者に / 聞きました",
-        "guide": "に thời điểm → てもいいか xin phép → と trích dẫn → に đối tượng hỏi. Hỏi xin phép bác sĩ",
+        "guide": "に thời điểm → [V-てもいい]+か = embedded question (聞く takes か-clause indirectly), không phải direct yêu cầu xin phép → と trích dẫn clause → に đối tượng hỏi. Hỏi bác sĩ gián tiếp",
         "translation": "Thứ Bảy tôi hỏi bác sĩ có thể đi dạo một chút được không."
       },
       {
@@ -638,35 +638,35 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 5-6 nói 「お風呂に入らないでください」và「一週間は休まなければなりません」→ ないでください = đừng tắm, なければなりません = phải nghỉ 1 tuần."
+        "explanation": "Câu 5-6 nói 「お風呂に入らないでください」và「少なくとも一週間は休まなければなりません」→ ないでください = đừng tắm, なければなりません = phải nghỉ ít nhất 1 tuần."
       },
       {
         "id": "R_0133_Q2",
-        "question": "筆者はいつから会社に行けるようになりましたか。",
-        "question_vi": "Tác giả có thể đi làm lại từ khi nào?",
+        "question": "どうして医者は会社を休ませましたか。",
+        "question_vi": "Tại sao bác sĩ bắt nghỉ làm?",
         "answers": [
           {
-            "text": "金曜日から行けました。",
-            "text_vi": "Đi được từ thứ Sáu.",
+            "text": "インフルエンザは薬だけで治るからです。",
+            "text_vi": "Vì cúm chỉ cần thuốc là khỏi.",
             "is_correct": false
           },
           {
-            "text": "土曜日から行けました。",
-            "text_vi": "Đi được từ thứ Bảy.",
-            "is_correct": false
-          },
-          {
-            "text": "日曜日から行けました。",
-            "text_vi": "Đi được từ Chủ Nhật.",
-            "is_correct": false
-          },
-          {
-            "text": "次の月曜日から行けました。",
-            "text_vi": "Đi được từ thứ Hai tuần sau.",
+            "text": "インフルエンザは人にうつりやすく、体が回復するために時間が必要だからです。",
+            "text_vi": "Vì cúm dễ lây sang người khác và cơ thể cần thời gian phục hồi.",
             "is_correct": true
+          },
+          {
+            "text": "会社のルールでインフルエンザは休まなければならないからです。",
+            "text_vi": "Vì nội quy công ty quy định phải nghỉ khi bị cúm.",
+            "is_correct": false
+          },
+          {
+            "text": "お風呂に入れないから仕事ができないからです。",
+            "text_vi": "Vì không tắm được nên không làm việc được.",
+            "is_correct": false
           }
         ],
-        "explanation": "Câu cuối cùng trước kết luận nói 「月曜日からまた会社に行くことができました」→ ことができました = có thể đi làm lại từ thứ Hai (tuần sau)."
+        "explanation": "Bài nói 「少なくとも一週間は休まなければなりません」→ suy luận causality: cúm (インフルエンザ) là bệnh truyền nhiễm dễ lây, cơ thể cần thời gian đủ để phục hồi hoàn toàn. Câu hỏi Apply: phân tích nguyên nhân từ kiến thức y tế trong bài."
       },
       {
         "id": "R_0133_Q3",
@@ -720,8 +720,8 @@
       "～ために"
     ],
     "sentence_count": 13,
-    "text": "去年の四月から、健康のためにジョギングを始めました。最初は一キロも走ることができませんでした。すぐ疲れてしまったからです。でも毎日少しずつ走っていました。三か月後、五キロ走ることができるようになりました。友達が「来年の三月にマラソン大会があるよ。一緒に出ない？」と言いました。マラソンのために、もっと練習することにしました。冬はとても寒かったですが、毎朝走っていました。一月には十キロ走ることができるようになりました。三月のマラソン大会の日、とても緊張しました。でもゴールまで走ることができました。タイムは遅かったですが、最後まで走れてとてもうれしかったです。続けることが一番大切だと思いました。",
-    "translation": "Từ tháng Tư năm ngoái, tôi bắt đầu chạy bộ vì sức khỏe. Lúc đầu, tôi không thể chạy nổi một cây số. Vì tôi mệt ngay. Nhưng mỗi ngày tôi cứ chạy dần dần. Sau ba tháng, tôi đã có thể chạy được năm cây số. Bạn tôi nói \"Tháng Ba năm sau có giải marathon đấy. Cùng tham gia không?\". Vì marathon, tôi quyết định tập nhiều hơn. Mùa đông rất lạnh, nhưng sáng nào tôi cũng chạy. Tháng Một, tôi đã có thể chạy được mười cây số. Ngày thi marathon tháng Ba, tôi rất hồi hộp. Nhưng tôi đã có thể chạy đến đích. Thời gian chạy chậm, nhưng chạy được đến cuối nên tôi rất vui. Tôi nghĩ kiên trì là điều quan trọng nhất.",
+    "text": "去年の四月から、健康のためにジョギングを始めました。最初は一キロも走ることができませんでした。すぐ疲れてしまったからです。でも毎日少しずつ走っていました。三か月後、五キロ走ることができるようになりました。友達が「来年の三月にハーフマラソン大会があるよ。一緒に出ない？」と言いました。ハーフマラソンのために、もっと練習することにしました。冬はとても寒かったですが、毎朝走っていました。一月には十キロ走ることができるようになりました。三月のハーフマラソン大会の日、とても緊張しました。でもゴールまで走ることができました。タイムは遅かったですが、最後まで走れてとてもうれしかったです。続けることが一番大切だと思いました。",
+    "translation": "Từ tháng Tư năm ngoái, tôi bắt đầu chạy bộ vì sức khỏe. Lúc đầu, tôi không thể chạy nổi một cây số. Vì tôi mệt ngay. Nhưng mỗi ngày tôi cứ chạy dần dần. Sau ba tháng, tôi đã có thể chạy được năm cây số. Bạn tôi nói \"Tháng Ba năm sau có giải half marathon đấy. Cùng tham gia không?\". Vì half marathon, tôi quyết định tập nhiều hơn. Mùa đông rất lạnh, nhưng sáng nào tôi cũng chạy. Tháng Một, tôi đã có thể chạy được mười cây số. Ngày thi half marathon tháng Ba, tôi rất hồi hộp. Nhưng tôi đã có thể chạy đến đích. Thời gian chạy chậm, nhưng chạy được đến cuối nên tôi rất vui. Tôi nghĩ kiên trì là điều quan trọng nhất.",
     "vocabulary": [
       {
         "word": "健康",
@@ -744,9 +744,9 @@
         "meaning": "dần dần, từng chút một"
       },
       {
-        "word": "マラソン大会",
-        "reading": "マラソンたいかい",
-        "meaning": "giải marathon"
+        "word": "ハーフマラソン大会",
+        "reading": "ハーフマラソンたいかい",
+        "meaning": "giải half marathon (21km)"
       },
       {
         "word": "練習",
@@ -796,16 +796,16 @@
         "translation": "Sau ba tháng, tôi đã có thể chạy được năm cây số."
       },
       {
-        "sentence": "友達が「来年の三月にマラソン大会があるよ。一緒に出ない？」と言いました。",
-        "chunks": "友達が / 「来年の三月に / マラソン大会がある / 一緒に出ない？」と / 言いました",
+        "sentence": "友達が「来年の三月にハーフマラソン大会があるよ。一緒に出ない？」と言いました。",
+        "chunks": "友達が / 「来年の三月に / ハーフマラソン大会がある / 一緒に出ない？」と / 言いました",
         "guide": "が chủ ngữ → に thời điểm → がある tồn tại → 出ない? rủ rè bằng phủ định → と trích dẫn",
-        "translation": "Bạn tôi nói \"Tháng Ba năm sau có giải marathon đấy. Cùng tham gia không?\"."
+        "translation": "Bạn tôi nói \"Tháng Ba năm sau có giải half marathon đấy. Cùng tham gia không?\"."
       },
       {
-        "sentence": "マラソンのために、もっと練習することにしました。",
-        "chunks": "マラソンのために / もっと / 練習することにしました",
+        "sentence": "ハーフマラソンのために、もっと練習することにしました。",
+        "chunks": "ハーフマラソンのために / もっと / 練習することにしました",
         "guide": "ために mục đích → もっと nhiều hơn → ことにしました quyết định cá nhân",
-        "translation": "Vì marathon, tôi quyết định tập nhiều hơn."
+        "translation": "Vì half marathon, tôi quyết định tập nhiều hơn."
       },
       {
         "sentence": "冬はとても寒かったですが、毎朝走っていました。",
@@ -820,10 +820,10 @@
         "translation": "Tháng Một, tôi đã có thể chạy được mười cây số."
       },
       {
-        "sentence": "三月のマラソン大会の日、とても緊張しました。",
-        "chunks": "三月のマラソン大会の日 / とても / 緊張しました",
+        "sentence": "三月のハーフマラソン大会の日、とても緊張しました。",
+        "chunks": "三月のハーフマラソン大会の日 / とても / 緊張しました",
         "guide": "の liên kết thời gian → とても rất → 緊張しました hồi hộp. Chuyển sang ngày thi",
-        "translation": "Ngày thi marathon tháng Ba, tôi rất hồi hộp."
+        "translation": "Ngày thi half marathon tháng Ba, tôi rất hồi hộp."
       },
       {
         "sentence": "でもゴールまで走ることができました。",
@@ -899,7 +899,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 6-7: bạn rủ thi marathon → 「マラソンのために、もっと練習することにしました」→ ために = mục đích: vì marathon nên quyết định tập thêm."
+        "explanation": "Câu 6-7: bạn rủ thi half marathon → 「ハーフマラソンのために、もっと練習することにしました」→ ために = mục đích: vì half marathon nên quyết định tập thêm."
       },
       {
         "id": "R_0134_Q3",
@@ -1151,7 +1151,7 @@
           },
           {
             "text": "野菜がおいしかったことです。",
-            "text_vi": "Rau ngon.",
+            "text_vi": "Rau củ ngon miệng.",
             "is_correct": false
           }
         ],
@@ -1180,7 +1180,8 @@
       "～ないほうがいい",
       "～ようにする",
       "～と",
-      "～ので"
+      "～ので",
+      "～たら"
     ],
     "sentence_count": 12,
     "text": "最近、仕事が忙しくて、ストレスがたまっています。頭が痛くなったり、夜眠れなかったりします。友達に相談したら、いろいろなアドバイスをもらいました。「寝る前にスマホを見ないほうがいいよ」と言われました。「週に一回は運動したほうがいいよ」とも言われました。それから、毎日少し散歩するようにしました。お風呂にゆっくり入るようにもしました。好きな音楽を聞くと、気持ちが落ち着きます。甘いものを食べすぎないほうがいいと聞いたので、お菓子も減らしました。一か月続けたら、よく眠れるようになりました。頭痛も少なくなりました。ストレスがある時は、小さいことから生活を変えてみたほうがいいと思います。",
@@ -1332,31 +1333,31 @@
       },
       {
         "id": "R_0136_Q2",
-        "question": "一か月後、筆者の体はどうなりましたか。",
-        "question_vi": "Sau một tháng, cơ thể tác giả thay đổi thế nào?",
+        "question": "どうしてアドバイスは効果がありましたか。",
+        "question_vi": "Tại sao những lời khuyên lại có hiệu quả?",
         "answers": [
           {
-            "text": "何も変わりませんでした。",
-            "text_vi": "Không có gì thay đổi.",
+            "text": "高い薬を飲んだからです。",
+            "text_vi": "Vì uống thuốc đắt tiền.",
             "is_correct": false
           },
           {
-            "text": "もっとストレスがたまりました。",
-            "text_vi": "Stress tích tụ nhiều hơn.",
+            "text": "一つだけのアドバイスに集中したからです。",
+            "text_vi": "Vì tập trung vào một lời khuyên duy nhất.",
             "is_correct": false
           },
           {
-            "text": "よく眠れるようになって、頭痛も少なくなりました。",
-            "text_vi": "Ngủ ngon hơn, đau đầu cũng ít đi.",
+            "text": "複数の方法を組み合わせて毎日続けたからです。",
+            "text_vi": "Vì áp dụng đa dạng phương pháp và duy trì mỗi ngày.",
             "is_correct": true
           },
           {
-            "text": "体重が増えてしまいました。",
-            "text_vi": "Cân nặng tăng lên.",
+            "text": "仕事をやめてストレスの原因をなくしたからです。",
+            "text_vi": "Vì nghỉ việc để xóa bỏ nguyên nhân stress.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 10 「よく眠れるようになりました」và câu 11 「頭痛も少なくなりました」→ ようになりました = thay đổi tích cực: ngủ được + bớt đau đầu."
+        "explanation": "Bài cho thấy nhiều phương pháp kết hợp: đi dạo, tắm thư thả, nghe nhạc, giảm đồ ngọt, không xem điện thoại trước ngủ → 「一か月続けたら」kiên trì 1 tháng → ngủ ngon + bớt đau đầu. Câu hỏi Apply: phân tích nguyên nhân hiệu quả = đa dạng phương pháp + duy trì habit hằng ngày."
       },
       {
         "id": "R_0136_Q3",
@@ -1409,7 +1410,8 @@
       "～てしまう",
       "～ようにしたい",
       "～と",
-      "～ても"
+      "～ても",
+      "～ようと思う"
     ],
     "sentence_count": 12,
     "text": "私はいつも夜遅くまで起きています。十二時に寝ようと思っても、気がつくと二時になっています。仕事が終わって家に帰ると、まずスマホを見てしまいます。SNSを見ていると、時間がすぐ経ってしまいます。動画も一つ見ると、次の動画も見たくなってしまいます。お風呂に入るのも遅くなるので、寝る時間がどんどん遅くなります。朝は目覚まし時計が鳴っても、なかなか起きることができません。会社に遅刻しそうになったことも何回かあります。このままではいけないと思います。今月から、十一時にスマホを止めるようにしたいです。寝る前に本を読むようにしたいとも思っています。早く寝て、朝すっきり起きられるようになりたいです。",
@@ -1438,7 +1440,7 @@
       {
         "word": "動画",
         "reading": "どうが",
-        "meaning": "video"
+        "meaning": "video, đoạn phim"
       },
       {
         "word": "目覚まし時計",
@@ -1466,7 +1468,7 @@
       {
         "sentence": "十二時に寝ようと思っても、気がつくと二時になっています。",
         "chunks": "十二時に / 寝ようと思っても / 気がつくと / 二時になっています",
-        "guide": "ようと思っても dù định → と điều kiện tự nhiên: khi nhận ra → になっています đã thành 2h. ても thể hiện sự bất lực",
+        "guide": "ようと思っても dù định → 気がつくと là idiom set phrase = 'khi nhận ra' (không phải と conditional thuần) → になっています đã thành 2h. ても thể hiện sự bất lực",
         "translation": "Dù nghĩ sẽ ngủ lúc 12 giờ, nhưng khi nhận ra thì đã 2 giờ rồi."
       },
       {
@@ -1638,11 +1640,12 @@
       "～てくれる",
       "～と思う",
       "～ので",
-      "～ても"
+      "～ても",
+      "～たら"
     ],
     "sentence_count": 13,
-    "text": "私は三年前にベトナムから日本に来ました。最初は日本語が全然わからなくて、毎日大変でした。友達もいなかったので、休みの日は一人でアパートにいました。時々、ベトナムに帰りたくなりました。ある寒い夜、とても寂しくなって、母に電話しました。母は「大丈夫？ちゃんと食べている？」と聞いてくれました。母の声を聞いたら、涙が出てしまいました。母は「つらい時は、いつでも電話していいからね」と言ってくれました。その言葉を聞いて、もう少し頑張ろうと思いました。それから、日本語学校で友達を作ることにしました。今は日本語も上手になって、友達もたくさんできました。でも今でも時々母の声が聞きたくなります。家族がいてくれるだけで強くなれると思います。",
-    "translation": "Tôi đến Nhật từ Việt Nam ba năm trước. Lúc đầu không hiểu tiếng Nhật gì cả, mỗi ngày đều vất vả. Vì không có bạn nên ngày nghỉ chỉ ở một mình trong căn hộ. Thỉnh thoảng tôi muốn về Việt Nam. Một đêm lạnh, tôi rất cô đơn và gọi điện cho mẹ. Mẹ hỏi \"Con ổn không? Có ăn uống đàng hoàng không?\". Nghe giọng mẹ, nước mắt tôi chảy mất. Mẹ nói \"Khi nào khó khăn thì gọi điện bất cứ lúc nào cũng được nhé\". Nghe lời đó, tôi nghĩ sẽ cố gắng thêm một chút. Từ đó, tôi quyết định kết bạn ở trường tiếng Nhật. Bây giờ tiếng Nhật đã giỏi hơn, bạn bè cũng nhiều. Nhưng đến bây giờ thỉnh thoảng tôi vẫn muốn nghe giọng mẹ. Tôi nghĩ chỉ cần có gia đình ở bên là mình mạnh mẽ hơn.",
+    "text": "私は三年前にベトナムから日本に来ました。最初は日本語が全然わからなくて、毎日大変でした。友達もいなかったので、休みの日は一人でアパートにいました。時々、ベトナムに帰りたくなりました。ある寒い夜、とても寂しくなって、LINEで母に電話しました。母は「大丈夫？ちゃんと食べている？」と聞いてくれました。母の声を聞いたら、涙が出てしまいました。母は「つらい時は、いつでも電話していいからね」と言ってくれました。その言葉を聞いて、もう少し頑張ろうと思いました。それから、日本語学校で友達を作ることにしました。今は日本語も上手になって、友達もたくさんできました。でも今でも時々母の声が聞きたくなります。家族がいてくれるだけで強くなれると思います。",
+    "translation": "Tôi đến Nhật từ Việt Nam ba năm trước. Lúc đầu không hiểu tiếng Nhật gì cả, mỗi ngày đều vất vả. Vì không có bạn nên ngày nghỉ chỉ ở một mình trong căn hộ. Thỉnh thoảng tôi muốn về Việt Nam. Một đêm lạnh, tôi rất cô đơn và gọi LINE cho mẹ. Mẹ hỏi \"Con ổn không? Có ăn uống đàng hoàng không?\". Nghe giọng mẹ, nước mắt tôi chảy mất. Mẹ nói \"Khi nào khó khăn thì gọi điện bất cứ lúc nào cũng được nhé\". Nghe lời đó, tôi nghĩ sẽ cố gắng thêm một chút. Từ đó, tôi quyết định kết bạn ở trường tiếng Nhật. Bây giờ tiếng Nhật đã giỏi hơn, bạn bè cũng nhiều. Nhưng đến bây giờ thỉnh thoảng tôi vẫn muốn nghe giọng mẹ. Tôi nghĩ chỉ cần có gia đình ở bên là mình mạnh mẽ hơn.",
     "vocabulary": [
       {
         "word": "寂しい",
@@ -1701,10 +1704,10 @@
         "translation": "Thỉnh thoảng tôi muốn về Việt Nam."
       },
       {
-        "sentence": "ある寒い夜、とても寂しくなって、母に電話しました。",
-        "chunks": "ある寒い夜 / とても / 寂しくなって / 母に / 電話しました",
-        "guide": "ある một (không xác định) → くなって trở nên cô đơn → に đối tượng gọi. て nối nguyên nhân-hành động",
-        "translation": "Một đêm lạnh, tôi rất cô đơn và gọi điện cho mẹ."
+        "sentence": "ある寒い夜、とても寂しくなって、LINEで母に電話しました。",
+        "chunks": "ある寒い夜 / とても / 寂しくなって / LINEで / 母に / 電話しました",
+        "guide": "ある một (không xác định, đây là 連体詞, khác ある động từ tồn tại) → くなって trở nên cô đơn → LINEで bằng LINE (phương tiện gọi phổ biến 2026) → に đối tượng gọi. て nối nguyên nhân-hành động",
+        "translation": "Một đêm lạnh, tôi rất cô đơn và gọi LINE cho mẹ."
       },
       {
         "sentence": "母は「大丈夫？ちゃんと食べている？」と聞いてくれました。",
@@ -1782,7 +1785,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 5 nói 「ある寒い夜、とても寂しくなって、母に電話しました」→ くなって = trở nên cô đơn, て nối nguyên nhân: cô đơn nên gọi điện."
+        "explanation": "Câu 5 nói 「ある寒い夜、とても寂しくなって、LINEで母に電話しました」→ くなって = trở nên cô đơn, て nối nguyên nhân: cô đơn nên gọi LINE cho mẹ."
       },
       {
         "id": "R_0138_Q2",
@@ -1865,8 +1868,8 @@
       "～と思う"
     ],
     "sentence_count": 13,
-    "text": "日本では季節によって食べるものが違います。春になると、桜を見ながらお花見弁当を食べることがあります。桜餅という和菓子もこの時期に食べます。夏は暑いので、冷たいそうめんやかき氷が人気です。私は夏になると、よくスイカを食べています。秋は食欲の秋と言われています。秋刀魚や栗やきのこなど、おいしいものがたくさんあります。秋刀魚を焼いている匂いがすると、秋が来たなと思います。冬は寒い時に鍋料理を食べます。家族や友達と一緒に鍋を囲むのは、とても楽しいです。お正月にはおせち料理やお雑煮を食べます。日本の食文化は季節と深く関係していると思います。季節の食べ物を食べると、その季節をもっと楽しむことができます。",
-    "translation": "Ở Nhật, đồ ăn thay đổi theo mùa. Khi mùa xuân đến, đôi khi tôi ăn cơm hộp ngắm hoa anh đào. Có loại bánh gọi là sakura mochi cũng ăn vào thời kỳ này. Mùa hè nóng nên mì somen lạnh và đá bào rất được ưa chuộng. Tôi hay ăn dưa hấu khi mùa hè đến. Mùa thu được gọi là mùa ăn ngon. Có rất nhiều đồ ngon như cá sanma, hạt dẻ, nấm. Khi ngửi thấy mùi sanma nướng, tôi cảm thấy mùa thu đã đến. Mùa đông, khi trời lạnh thì ăn lẩu. Quây quần ăn lẩu cùng gia đình hay bạn bè rất vui. Tết thì ăn osechi và ozoni. Tôi nghĩ văn hóa ẩm thực Nhật có liên quan sâu sắc đến mùa. Khi ăn đồ ăn theo mùa, ta có thể tận hưởng mùa đó nhiều hơn.",
+    "text": "日本では季節によって食べるものが違います。春になると、桜を見ながらお花見弁当を食べることがあります。桜餅という和菓子もこの時期に食べます。夏は暑いので、冷たいそうめんやかき氷が人気です。私は夏になると、よくスイカを食べています。秋は食欲の秋と言われています。秋刀魚や栗やきのこなど、おいしいものがたくさんあります。秋刀魚を焼いている匂いがすると、秋が来たなと思います。冬の寒い日には鍋料理を食べます。家族や友達と一緒に鍋を囲むのは、とても楽しいです。お正月にはおせち料理やお雑煮を食べます。日本の食文化は季節と深く関係していると思います。季節の食べ物を食べると、その季節をもっと楽しむことができます。",
+    "translation": "Ở Nhật, đồ ăn thay đổi theo mùa. Khi mùa xuân đến, đôi khi tôi ăn cơm hộp ngắm hoa anh đào. Có loại bánh gọi là sakura mochi cũng ăn vào thời kỳ này. Mùa hè nóng nên mì somen lạnh và đá bào rất được ưa chuộng. Tôi hay ăn dưa hấu khi mùa hè đến. Mùa thu được gọi là mùa thu — mùa thèm ăn (食欲の秋). Có rất nhiều đồ ngon như cá sanma, hạt dẻ, nấm. Khi ngửi thấy mùi sanma nướng, tôi cảm thấy mùa thu đã đến. Những ngày đông lạnh thì ăn lẩu. Quây quần ăn lẩu cùng gia đình hay bạn bè rất vui. Tết thì ăn osechi và ozoni. Tôi nghĩ văn hóa ẩm thực Nhật có liên quan sâu sắc đến mùa. Khi ăn đồ ăn theo mùa, ta có thể tận hưởng mùa đó nhiều hơn.",
     "vocabulary": [
       {
         "word": "季節",
@@ -1943,8 +1946,8 @@
       {
         "sentence": "秋は食欲の秋と言われています。",
         "chunks": "秋は / 食欲の秋と / 言われています",
-        "guide": "は chủ đề → と言われている được gọi là (bị động). Kiến thức văn hóa: mùa thu = mùa ăn ngon",
-        "translation": "Mùa thu được gọi là mùa ăn ngon."
+        "guide": "は chủ đề → と言われている được gọi là (bị động). 食欲の秋 là cliché Nhật: 〜の秋 (mùa của...) — có cả 読書の秋 (mùa đọc sách), スポーツの秋 (mùa thể thao). 食欲 = thèm ăn/cảm giác muốn ăn",
+        "translation": "Mùa thu được gọi là mùa thu — mùa thèm ăn (食欲の秋)."
       },
       {
         "sentence": "秋刀魚や栗やきのこなど、おいしいものがたくさんあります。",
@@ -1959,10 +1962,10 @@
         "translation": "Khi ngửi thấy mùi sanma nướng, tôi cảm thấy mùa thu đã đến."
       },
       {
-        "sentence": "冬は寒い時に鍋料理を食べます。",
-        "chunks": "冬は / 寒い時に / 鍋料理を / 食べます",
-        "guide": "は chủ đề mùa → 時に khi → を đối tượng. とき = thời điểm: khi lạnh thì ăn lẩu",
-        "translation": "Mùa đông, khi trời lạnh thì ăn lẩu."
+        "sentence": "冬の寒い日には鍋料理を食べます。",
+        "chunks": "冬の寒い日には / 鍋料理を / 食べます",
+        "guide": "の liên kết → 寒い日 ngày lạnh (chính xác hơn, không redundant như '冬は寒い時') → には nhấn mạnh dịp → を đối tượng. Diễn đạt tự nhiên hơn",
+        "translation": "Những ngày đông lạnh thì ăn lẩu."
       },
       {
         "sentence": "家族や友達と一緒に鍋を囲むのは、とても楽しいです。",
@@ -2098,8 +2101,8 @@
       "～ので"
     ],
     "sentence_count": 13,
-    "text": "先月、大阪出身の友達にたこ焼きの作り方を教えてもらいました。まず、たこ焼き機を買いました。材料はタコ、小麦粉、卵、天かす、ねぎです。友達のレシピ通りに作ってみました。でも、最初はうまくひっくり返すことができませんでした。丸くならなくて、全部つぶれてしまいました。形は悪かったですが、味は意外とおいしかったです。次の週、もう一回作ってみました。動画を見ながら練習したので、前より上手にできました。三回目にやっときれいな丸いたこ焼きを作ることができました。友達に写真を見せたら、「大阪人と同じくらい上手だね」と言ってくれました。うれしかったので、今度は会社の人にもたこ焼きを作ってあげたいです。料理は失敗してもあきらめないで続けることが大切だと思いました。",
-    "translation": "Tháng trước, tôi được một người bạn quê Osaka dạy cách làm takoyaki. Đầu tiên, tôi mua máy làm takoyaki. Nguyên liệu gồm bạch tuộc, bột mì, trứng, tenkasu, hành lá. Tôi thử làm theo công thức của bạn. Nhưng lúc đầu không thể lật được. Không tròn được, tất cả đều bị bẹp hết. Hình dáng xấu, nhưng bất ngờ là vị lại ngon. Tuần sau tôi thử làm lần nữa. Vì vừa xem video vừa tập nên làm giỏi hơn lần trước. Lần thứ ba, cuối cùng tôi cũng làm được takoyaki tròn đẹp. Khi cho bạn xem ảnh, bạn nói \"Giỏi ngang người Osaka luôn đấy\". Vì vui nên lần tới tôi muốn làm takoyaki cho đồng nghiệp ăn. Tôi nghĩ nấu ăn dù thất bại cũng không nên bỏ cuộc, kiên trì là quan trọng.",
+    "text": "先月、大阪出身の友達にたこ焼きの作り方を教えてもらいました。まず、たこ焼き機を買いました。材料はタコ、小麦粉、卵、天かす、ねぎです。友達のレシピ通りに作ってみました。でも、最初はうまくひっくり返すことができませんでした。丸くならなくて、全部つぶれてしまいました。形は悪かったですが、ソース、マヨネーズ、青のり、かつお節をかけて食べたら、味は意外とおいしかったです。次の週、もう一回作ってみました。動画を見ながら練習したので、前より上手にできました。三回目にやっときれいな丸いたこ焼きを作ることができました。友達に写真を見せたら、「大阪人と同じくらい上手だね」と言ってくれました。うれしかったので、今度は会社の人にもたこ焼きを作ってあげたいです。料理は失敗してもあきらめないで続けることが大切だと思いました。",
+    "translation": "Tháng trước, tôi được một người bạn quê Osaka dạy cách làm takoyaki. Đầu tiên, tôi mua máy làm takoyaki. Nguyên liệu gồm bạch tuộc, bột mì, trứng, tenkasu, hành lá. Tôi thử làm theo công thức của bạn. Nhưng lúc đầu không thể lật được. Không tròn được, tất cả đều bị bẹp hết. Hình dáng xấu, nhưng khi rưới sốt, mayonnaise, rong biển xanh và cá bào lên ăn thì vị bất ngờ lại ngon. Tuần sau tôi thử làm lần nữa. Vì vừa xem video vừa tập nên làm giỏi hơn lần trước. Lần thứ ba, cuối cùng tôi cũng làm được takoyaki tròn đẹp. Khi cho bạn xem ảnh, bạn nói \"Giỏi ngang người Osaka luôn đấy\". Vì vui nên lần tới tôi muốn làm takoyaki cho đồng nghiệp ăn. Tôi nghĩ nấu ăn dù thất bại cũng không nên bỏ cuộc, kiên trì là quan trọng.",
     "vocabulary": [
       {
         "word": "たこ焼き",
@@ -2134,7 +2137,7 @@
       {
         "word": "意外と",
         "reading": "いがいと",
-        "meaning": "bất ngờ, ngoài dự kiến"
+        "meaning": "bất ngờ, ngoài dự kiến (adverb form)"
       },
       {
         "word": "失敗",
@@ -2180,10 +2183,10 @@
         "translation": "Không tròn được, tất cả đều bị bẹp hết."
       },
       {
-        "sentence": "形は悪かったですが、味は意外とおいしかったです。",
-        "chunks": "形は / 悪かったですが / 味は / 意外と / おいしかったです",
-        "guide": "は...が...は so sánh: hình thì xấu NHƯNG vị thì ngon. 意外と bất ngờ",
-        "translation": "Hình dáng xấu, nhưng bất ngờ là vị lại ngon."
+        "sentence": "形は悪かったですが、ソース、マヨネーズ、青のり、かつお節をかけて食べたら、味は意外とおいしかったです。",
+        "chunks": "形は / 悪かったですが / ソース、マヨネーズ、青のり、かつお節を / かけて / 食べたら / 味は / 意外と / おいしかったです",
+        "guide": "は...が...は so sánh: hình thì xấu NHƯNG → かけて rưới lên → たら khi ăn thì → 意外と (adverb form) bất ngờ. Toppings thực tế của たこ焼き: ソース, マヨネーズ, 青のり, かつお節",
+        "translation": "Hình dáng xấu, nhưng khi rưới sốt, mayonnaise, rong biển xanh và cá bào lên ăn thì vị bất ngờ lại ngon."
       },
       {
         "sentence": "次の週、もう一回作ってみました。",

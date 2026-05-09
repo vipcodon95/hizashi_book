@@ -25,14 +25,19 @@
       "～も～",
       "～から～まで"
     ],
-    "sentence_count": 9,
-    "text": "私の家は大きいです。家族は7人です。祖父と祖母と父と母と姉と弟と私です。祖父は毎朝6時に起きます。祖母も6時に起きます。祖母は朝ごはんを作ります。父は7時から会社に行きます。母も会社に行きます。私と姉と弟は学校に行きます。",
-    "translation": "Nhà tôi lớn. Gia đình có 7 người. Gồm ông, bà, bố, mẹ, chị gái, em trai và tôi. Ông dậy lúc 6 giờ mỗi sáng. Bà cũng dậy lúc 6 giờ. Bà nấu bữa sáng. Bố đi làm từ 7 giờ. Mẹ cũng đi làm. Tôi, chị gái và em trai đi học.",
+    "sentence_count": 10,
+    "text": "私の家は田舎にあります。大きい三世代の家です。家族は7人です。祖父と祖母と父と母と姉と弟と私です。祖父は毎朝6時に起きます。祖母も6時に起きます。祖母は朝ごはんを作ります。父は7時から会社に行きます。母も会社に行きます。私と姉と弟は学校に行きます。",
+    "translation": "Nhà tôi ở vùng quê. Đây là ngôi nhà ba thế hệ lớn. Gia đình có 7 người. Gồm ông, bà, bố, mẹ, chị gái, em trai và tôi. Ông dậy lúc 6 giờ mỗi sáng. Bà cũng dậy lúc 6 giờ. Bà nấu bữa sáng. Bố đi làm từ 7 giờ. Mẹ cũng đi làm. Tôi, chị gái và em trai đi học.",
     "vocabulary": [
       {
         "word": "三世代",
         "reading": "さんせだい",
         "meaning": "ba thế hệ"
+      },
+      {
+        "word": "田舎",
+        "reading": "いなか",
+        "meaning": "vùng quê"
       },
       {
         "word": "祖父",
@@ -48,19 +53,20 @@
         "word": "毎朝",
         "reading": "まいあさ",
         "meaning": "mỗi sáng"
-      },
-      {
-        "word": "起きます",
-        "reading": "おきます",
-        "meaning": "thức dậy"
       }
     ],
     "process": [
       {
-        "sentence": "私の家は大きいです。",
-        "chunks": "私の家は / 大きいです",
-        "guide": "の liên kết 'tôi' + 'nhà' → は đặt chủ đề → です khẳng định tính chất",
-        "translation": "Nhà tôi lớn."
+        "sentence": "私の家は田舎にあります。",
+        "chunks": "私の家は / 田舎に / あります",
+        "guide": "の liên kết 'tôi' + 'nhà' → は đặt chủ đề → に chỉ nơi tồn tại 'ở vùng quê' → あります xác nhận",
+        "translation": "Nhà tôi ở vùng quê."
+      },
+      {
+        "sentence": "大きい三世代の家です。",
+        "chunks": "大きい / 三世代の家です",
+        "guide": "大きい bổ nghĩa cho 'nhà' → の liên kết 'ba thế hệ' + 'nhà' → です khẳng định tính chất",
+        "translation": "Đây là ngôi nhà ba thế hệ lớn."
       },
       {
         "sentence": "家族は7人です。",
@@ -138,35 +144,35 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 2 nói 「家族は7人です」 và câu 3 liệt kê bằng と: 祖父・祖母・父・母・姉・弟・私 = đúng 7 người."
+        "explanation": "Câu 3 nói 「家族は7人です」 và câu 4 liệt kê bằng と: 祖父・祖母・父・母・姉・弟・私 = đúng 7 người."
       },
       {
         "id": "R_0041_Q2",
-        "question": "朝ごはんはだれが作りますか。",
-        "question_vi": "Ai nấu bữa sáng?",
+        "question": "朝、家族はそれぞれ何をしますか。",
+        "question_vi": "Buổi sáng, mỗi người trong gia đình làm gì?",
         "answers": [
           {
-            "text": "祖父が作ります。",
-            "text_vi": "Ông nấu.",
-            "is_correct": false
-          },
-          {
-            "text": "祖母が作ります。",
-            "text_vi": "Bà nấu.",
+            "text": "祖母が朝ごはんを作り、父と母は会社に行き、子どもたちは学校に行きます。",
+            "text_vi": "Bà nấu sáng, bố và mẹ đi làm, các con đi học.",
             "is_correct": true
           },
           {
-            "text": "母が作ります。",
-            "text_vi": "Mẹ nấu.",
+            "text": "祖父が朝ごはんを作り、父と母は学校に行き、子どもたちは会社に行きます。",
+            "text_vi": "Ông nấu sáng, bố và mẹ đi học, các con đi làm.",
             "is_correct": false
           },
           {
-            "text": "姉が作ります。",
-            "text_vi": "Chị gái nấu.",
+            "text": "祖母と母が朝ごはんを作り、父だけ会社に行きます。",
+            "text_vi": "Bà và mẹ cùng nấu sáng, chỉ bố đi làm.",
+            "is_correct": false
+          },
+          {
+            "text": "みんなで一緒に会社に行きます。",
+            "text_vi": "Cả nhà cùng đi làm với nhau.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 6 nói 「祖母は朝ごはんを作ります」→ を đánh dấu đối tượng 'bữa sáng', chủ ngữ は là 'bà' → bà nấu bữa sáng."
+        "explanation": "Tổng hợp nhiều câu: 祖母は朝ごはんを作ります (câu 7) → 父・母は会社に行きます (câu 8-9) → 私と姉と弟は学校に行きます (câu 10). Cần đọc toàn bài để tổng hợp hành động của từng người."
       }
     ]
   },
@@ -198,9 +204,9 @@
       "～で～ます",
       "～から～まで"
     ],
-    "sentence_count": 9,
-    "text": "1月1日はお正月です。私の家族はお正月にいつもおせちを食べます。おせちはお正月の料理です。とてもきれいです。朝、家族と神社に行きます。これは初詣です。神社で手を合わせます。お昼から夕方まで祖父の家にいます。お正月はとても楽しいです。",
-    "translation": "Ngày 1 tháng 1 là Tết. Gia đình tôi luôn ăn osechi vào Tết. Osechi là món ăn ngày Tết. Rất đẹp. Buổi sáng, cả gia đình đi đền thần. Đây là hatsumode (lễ viếng đền đầu năm). Chắp tay ở đền thần. Từ trưa đến chiều ở nhà ông nội. Tết rất vui.",
+    "sentence_count": 10,
+    "text": "1月1日はお正月です。私の家族はお正月にいつもおせちを食べます。おせちはお正月の料理です。とてもきれいです。朝、家族と神社に行きます。これは初詣です。神社で手を合わせます。祖父からお年玉をもらいます。お昼から夕方まで祖父の家にいます。お正月はとても楽しいです。",
+    "translation": "Ngày 1 tháng 1 là Tết. Gia đình tôi luôn ăn osechi vào Tết. Osechi là món ăn ngày Tết. Rất đẹp. Buổi sáng, cả gia đình đi đền thần. Đây là hatsumode (lễ viếng đền đầu năm). Chắp tay ở đền thần. Nhận tiền lì xì từ ông nội. Từ trưa đến chiều ở nhà ông nội. Tết rất vui.",
     "vocabulary": [
       {
         "word": "お正月",
@@ -213,11 +219,6 @@
         "meaning": "món osechi (đồ ăn Tết Nhật)"
       },
       {
-        "word": "料理",
-        "reading": "りょうり",
-        "meaning": "món ăn"
-      },
-      {
         "word": "神社",
         "reading": "じんじゃ",
         "meaning": "đền thần"
@@ -226,6 +227,11 @@
         "word": "初詣",
         "reading": "はつもうで",
         "meaning": "lễ viếng đền đầu năm"
+      },
+      {
+        "word": "お年玉",
+        "reading": "おとしだま",
+        "meaning": "tiền lì xì (Tết Nhật)"
       }
     ],
     "process": [
@@ -270,6 +276,12 @@
         "chunks": "神社で / 手を / 合わせます",
         "guide": "で chỉ nơi hành động diễn ra 'ở đền' → を đánh dấu đối tượng 'tay' → ます hành động",
         "translation": "Chắp tay ở đền thần."
+      },
+      {
+        "sentence": "祖父からお年玉をもらいます。",
+        "chunks": "祖父から / お年玉を / もらいます",
+        "guide": "から chỉ nguồn gốc 'từ ông' → を đánh dấu đối tượng nhận 'tiền lì xì' → もらいます nhận",
+        "translation": "Nhận tiền lì xì từ ông nội."
       },
       {
         "sentence": "お昼から夕方まで祖父の家にいます。",
@@ -446,7 +458,7 @@
       {
         "sentence": "でも、友だちと一緒にべんきょうします。",
         "chunks": "でも / 友だちと / 一緒に / べんきょうします",
-        "guide": "でも chuyển hướng 'nhưng' → と chỉ cùng ai 'với bạn' → に bổ nghĩa 'cùng nhau' → ます hành động",
+        "guide": "でも chuyển hướng 'nhưng' → と cùng ai 'với bạn' → 一緒に: と một-起 + に adverbializer (gắn với な-adj stem 一緒) → cụm trạng từ 'cùng nhau' → ます hành động",
         "translation": "Nhưng cùng học với bạn bè."
       },
       {
@@ -633,7 +645,7 @@
       {
         "sentence": "テストはむずかしいですが、がんばります。",
         "chunks": "テストは / むずかしいですが / がんばります",
-        "guide": "は quay lại chủ đề 'bài thi' → が chuyển hướng 'nhưng' → ます kết bài bằng quyết tâm",
+        "guide": "は quay lại chủ đề 'bài thi' → ですが: が ở đây là 接続助詞 (conjunctive), nối 2 mệnh đề 'X nhưng Y' — KHÁC が chủ ngữ → ます kết bài bằng quyết tâm",
         "translation": "Bài thi khó nhưng sẽ cố gắng."
       }
     ],
@@ -904,9 +916,9 @@
       "～も～ます",
       "～より～"
     ],
-    "sentence_count": 10,
-    "text": "今日は運動会です。天気はとてもいいです。赤チームと白チームがあります。私は赤チームです。最初はかけっこです。私は3番です。次に玉入れをします。玉入れは赤チームが白チームより多いです。最後はリレーです。赤チームも白チームもがんばります。",
-    "translation": "Hôm nay là hội thể thao. Thời tiết rất đẹp. Có đội đỏ và đội trắng. Tôi ở đội đỏ. Đầu tiên là chạy thi. Tôi về thứ 3. Tiếp theo là ném bóng vào rổ. Ném bóng vào rổ đội đỏ nhiều hơn đội trắng. Cuối cùng là chạy tiếp sức. Cả đội đỏ và đội trắng đều cố gắng.",
+    "sentence_count": 11,
+    "text": "今日は運動会です。天気はとてもいいです。赤チームと白チームがあります。私は赤チームです。最初はかけっこです。私は3番です。次に玉入れをします。赤チームの玉が白チームより多いです。お昼にお母さんとお弁当を食べます。最後はリレーです。赤チームも白チームもがんばります。",
+    "translation": "Hôm nay là hội thể thao. Thời tiết rất đẹp. Có đội đỏ và đội trắng. Tôi ở đội đỏ. Đầu tiên là chạy thi. Tôi về thứ 3. Tiếp theo là ném bóng vào rổ. Bóng của đội đỏ nhiều hơn đội trắng. Buổi trưa ăn cơm hộp với mẹ. Cuối cùng là chạy tiếp sức. Cả đội đỏ và đội trắng đều cố gắng.",
     "vocabulary": [
       {
         "word": "運動会",
@@ -974,14 +986,20 @@
       {
         "sentence": "次に玉入れをします。",
         "chunks": "次に / 玉入れを / します",
-        "guide": "に chỉ thứ tự 'tiếp theo' → を đánh dấu đối tượng 'ném bóng vào rổ' → します hành động",
+        "guide": "次 (noun/phó từ) + に adverbializer = 次に là phó từ 'tiếp theo' (cố định) → を đánh dấu đối tượng 'ném bóng vào rổ' → します hành động",
         "translation": "Tiếp theo là ném bóng vào rổ."
       },
       {
-        "sentence": "玉入れは赤チームが白チームより多いです。",
-        "chunks": "玉入れは / 赤チームが / 白チームより / 多いです",
-        "guide": "は chủ đề 'ném bóng vào rổ' → が chủ ngữ so sánh 'đội đỏ' → より chuẩn so sánh 'hơn đội trắng' → です kết quả",
-        "translation": "Ném bóng vào rổ đội đỏ nhiều hơn đội trắng."
+        "sentence": "赤チームの玉が白チームより多いです。",
+        "chunks": "赤チームの玉が / 白チームより / 多いです",
+        "guide": "の liên kết 'đội đỏ' + 'bóng' → が chủ ngữ so sánh 'bóng của đội đỏ' → より chuẩn so sánh 'hơn đội trắng' → です kết quả",
+        "translation": "Bóng của đội đỏ nhiều hơn đội trắng."
+      },
+      {
+        "sentence": "お昼にお母さんとお弁当を食べます。",
+        "chunks": "お昼に / お母さんと / お弁当を / 食べます",
+        "guide": "に chỉ thời điểm 'buổi trưa' → と cùng ai 'với mẹ' → を đánh dấu đối tượng 'cơm hộp' → ます hành động",
+        "translation": "Buổi trưa ăn cơm hộp với mẹ."
       },
       {
         "sentence": "最後はリレーです。",
@@ -1018,12 +1036,12 @@
             "is_correct": false
           },
           {
-            "text": "わかりません。",
-            "text_vi": "Không biết.",
+            "text": "リレーが多いです。",
+            "text_vi": "Chạy tiếp sức nhiều hơn.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 8 nói 「赤チームが白チームより多いです」→ より chỉ chuẩn so sánh = đội đỏ nhiều hơn đội trắng."
+        "explanation": "Câu 8 nói 「赤チームの玉が白チームより多いです」→ より chỉ chuẩn so sánh = bóng của đội đỏ nhiều hơn đội trắng."
       },
       {
         "id": "R_0046_Q2",
@@ -1106,7 +1124,7 @@
       {
         "word": "竹",
         "reading": "たけ",
-        "meaning": "tre"
+        "meaning": "cây tre"
       },
       {
         "word": "おみやげ",
@@ -1265,8 +1283,8 @@
       "～で～ます"
     ],
     "sentence_count": 10,
-    "text": "家族と大阪のホテルに泊まります。ホテルは駅から5分です。部屋は広いです。ベッドが二つあります。窓から海が見えます。ホテルに大きいお風呂もあります。朝ごはんは7時から9時までです。朝ごはんはレストランで食べます。一泊は8000円です。このホテルはとてもいいです。",
-    "translation": "Ở khách sạn ở Osaka với gia đình. Khách sạn cách ga 5 phút. Phòng rộng. Có hai chiếc giường. Từ cửa sổ nhìn thấy biển. Khách sạn cũng có bồn tắm lớn. Bữa sáng từ 7 giờ đến 9 giờ. Ăn sáng ở nhà hàng. Một đêm 8000 yên. Khách sạn này rất tốt.",
+    "text": "家族と大阪のホテルに泊まります。ホテルは駅から5分です。部屋は広いです。ベッドが二つあります。窓から海が見えます。ホテルに大きいお風呂もあります。朝ごはんは7時から9時までです。朝ごはんはレストランで食べます。一泊は15000円です。このホテルはとてもいいです。",
+    "translation": "Ở khách sạn ở Osaka với gia đình. Khách sạn cách ga 5 phút. Phòng rộng. Có hai chiếc giường. Từ cửa sổ nhìn thấy biển. Khách sạn cũng có bồn tắm lớn. Bữa sáng từ 7 giờ đến 9 giờ. Ăn sáng ở nhà hàng. Một đêm 15000 yên. Khách sạn này rất tốt.",
     "vocabulary": [
       {
         "word": "泊まります",
@@ -1344,10 +1362,10 @@
         "translation": "Ăn sáng ở nhà hàng."
       },
       {
-        "sentence": "一泊は8000円です。",
-        "chunks": "一泊は / 8000円です",
-        "guide": "は chuyển chủ đề → 'một đêm' → です khẳng định giá = 8000 yên",
-        "translation": "Một đêm 8000 yên."
+        "sentence": "一泊は15000円です。",
+        "chunks": "一泊は / 15000円です",
+        "guide": "は chuyển chủ đề → 'một đêm' → です khẳng định giá = 15000 yên",
+        "translation": "Một đêm 15000 yên."
       },
       {
         "sentence": "このホテルはとてもいいです。",
@@ -1363,55 +1381,55 @@
         "question_vi": "Một đêm bao nhiêu tiền?",
         "answers": [
           {
-            "text": "5000円です。",
-            "text_vi": "5000 yên.",
-            "is_correct": false
-          },
-          {
-            "text": "6000円です。",
-            "text_vi": "6000 yên.",
-            "is_correct": false
-          },
-          {
             "text": "8000円です。",
             "text_vi": "8000 yên.",
-            "is_correct": true
+            "is_correct": false
           },
           {
             "text": "10000円です。",
             "text_vi": "10000 yên.",
             "is_correct": false
-          }
-        ],
-        "explanation": "Câu 9 nói 「一泊は8000円です」→ は chủ đề 'một đêm', です khẳng định giá = 8000 yên."
-      },
-      {
-        "id": "R_0048_Q2",
-        "question": "窓から何が見えますか。",
-        "question_vi": "Từ cửa sổ nhìn thấy gì?",
-        "answers": [
-          {
-            "text": "山が見えます。",
-            "text_vi": "Nhìn thấy núi.",
-            "is_correct": false
           },
           {
-            "text": "海が見えます。",
-            "text_vi": "Nhìn thấy biển.",
+            "text": "15000円です。",
+            "text_vi": "15000 yên.",
             "is_correct": true
           },
           {
-            "text": "公園が見えます。",
-            "text_vi": "Nhìn thấy công viên.",
-            "is_correct": false
-          },
-          {
-            "text": "駅が見えます。",
-            "text_vi": "Nhìn thấy ga.",
+            "text": "20000円です。",
+            "text_vi": "20000 yên.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 5 nói 「窓から海が見えます」→ から chỉ điểm nhìn 'từ cửa sổ', が chủ ngữ = nhìn thấy biển."
+        "explanation": "Câu 9 nói 「一泊は15000円です」→ は chủ đề 'một đêm', です khẳng định giá = 15000 yên. Giá phù hợp với khách sạn có view biển và bồn tắm lớn."
+      },
+      {
+        "id": "R_0048_Q2",
+        "question": "9時30分に着いたとき、まだ朝ごはんを食べられますか。",
+        "question_vi": "Nếu đến lúc 9 giờ 30 phút, còn ăn sáng được không?",
+        "answers": [
+          {
+            "text": "はい、10時まで食べられます。",
+            "text_vi": "Được, đến 10 giờ vẫn còn phục vụ.",
+            "is_correct": false
+          },
+          {
+            "text": "いいえ、朝ごはんは9時までです。",
+            "text_vi": "Không được, bữa sáng phục vụ đến 9 giờ.",
+            "is_correct": true
+          },
+          {
+            "text": "はい、レストランはいつも開いています。",
+            "text_vi": "Được, nhà hàng luôn mở cửa.",
+            "is_correct": false
+          },
+          {
+            "text": "わかりません。フロントに聞いてください。",
+            "text_vi": "Không biết. Hỏi quầy lễ tân nhé.",
+            "is_correct": false
+          }
+        ],
+        "explanation": "Câu 7 nói 「朝ごはんは7時から9時までです」→ まで chỉ kết thúc = bữa sáng phục vụ đến 9 giờ. 9:30 đã qua giờ phục vụ nên không ăn được nữa."
       }
     ]
   },
@@ -1446,14 +1464,19 @@
       "～たいです",
       "～と言います"
     ],
-    "sentence_count": 9,
-    "text": "私は駅へ行きたいです。でも、道がわかりません。おまわりさんに聞きます。おまわりさんは「この道をまっすぐ行きます」と言います。「大きいコンビニがあります」と言います。「コンビニから右に曲がります」と言います。「駅まで5分です」と言います。私は「ありがとうございます」と言います。駅への道はかんたんです。",
-    "translation": "Tôi muốn đi ga. Nhưng không biết đường. Hỏi anh cảnh sát. Anh cảnh sát nói \"Đi thẳng con đường này\". Anh nói \"Có cửa hàng tiện lợi lớn\". Anh nói \"Từ cửa hàng tiện lợi rẽ phải\". Anh nói \"Đến ga 5 phút\". Tôi nói \"Cảm ơn ạ\". Đường đến ga đơn giản.",
+    "sentence_count": 10,
+    "text": "私は駅へ行きたいです。でも、道がわかりません。近くの交番に行きます。おまわりさんに聞きます。おまわりさんは「この道をまっすぐ行きます」と言います。「大きいコンビニがあります」と言います。「コンビニから右に曲がります」と言います。「駅まで5分です」と言います。私は「ありがとうございます」と言います。駅への道はかんたんです。",
+    "translation": "Tôi muốn đi ga. Nhưng không biết đường. Đến đồn cảnh sát gần đó. Hỏi anh cảnh sát. Anh cảnh sát nói \"Đi thẳng con đường này\". Anh nói \"Có cửa hàng tiện lợi lớn\". Anh nói \"Từ cửa hàng tiện lợi rẽ phải\". Anh nói \"Đến ga 5 phút\". Tôi nói \"Cảm ơn ạ\". Đường đến ga đơn giản.",
     "vocabulary": [
       {
         "word": "道",
         "reading": "みち",
         "meaning": "đường"
+      },
+      {
+        "word": "交番",
+        "reading": "こうばん",
+        "meaning": "đồn cảnh sát nhỏ (koban)"
       },
       {
         "word": "おまわりさん",
@@ -1464,11 +1487,6 @@
         "word": "まっすぐ",
         "reading": "まっすぐ",
         "meaning": "thẳng"
-      },
-      {
-        "word": "右",
-        "reading": "みぎ",
-        "meaning": "bên phải"
       },
       {
         "word": "曲がります",
@@ -1488,6 +1506,12 @@
         "chunks": "でも / 道が / わかりません",
         "guide": "でも chuyển hướng 'nhưng' → が chủ ngữ 'đường' → ません phủ định = không biết",
         "translation": "Nhưng không biết đường."
+      },
+      {
+        "sentence": "近くの交番に行きます。",
+        "chunks": "近くの / 交番に / 行きます",
+        "guide": "の liên kết 'gần đây' + 'đồn cảnh sát' → に chỉ đích đến → ます hành động",
+        "translation": "Đến đồn cảnh sát gần đó."
       },
       {
         "sentence": "おまわりさんに聞きます。",
@@ -1563,31 +1587,31 @@
       },
       {
         "id": "R_0049_Q2",
-        "question": "コンビニからどちらに曲がりますか。",
-        "question_vi": "Từ cửa hàng tiện lợi rẽ hướng nào?",
+        "question": "コンビニで右に曲がった後、駅まであと何分ですか。",
+        "question_vi": "Sau khi rẽ phải tại cửa hàng tiện lợi, đi thêm bao lâu nữa mới đến ga?",
         "answers": [
           {
-            "text": "左に曲がります。",
-            "text_vi": "Rẽ trái.",
+            "text": "1分です。",
+            "text_vi": "1 phút.",
             "is_correct": false
           },
           {
-            "text": "右に曲がります。",
-            "text_vi": "Rẽ phải.",
+            "text": "3分です。",
+            "text_vi": "3 phút.",
+            "is_correct": false
+          },
+          {
+            "text": "5分です。",
+            "text_vi": "5 phút.",
             "is_correct": true
           },
           {
-            "text": "まっすぐ行きます。",
-            "text_vi": "Đi thẳng.",
-            "is_correct": false
-          },
-          {
-            "text": "後ろに曲がります。",
-            "text_vi": "Quay lại phía sau.",
+            "text": "10分です。",
+            "text_vi": "10 phút.",
             "is_correct": false
           }
         ],
-        "explanation": "Trong lời chỉ đường nói 「コンビニから右に曲がります」→ から điểm xuất phát 'từ cửa hàng', に hướng = rẽ phải."
+        "explanation": "Anh cảnh sát nói 「コンビニから右に曲がります」、そして「駅まで5分です」→ まで = từ điểm xuất phát (コンビニ) đến ga là 5 phút. Cần tổng hợp 2 thông tin: rẽ phải tại コンビニ rồi đi thêm 5 phút."
       }
     ]
   },
@@ -1622,9 +1646,9 @@
       "～も～ます",
       "～だけ～"
     ],
-    "sentence_count": 10,
-    "text": "今日、初めて一人で電車に乗ります。駅で切符を買います。切符は200円だけです。電車は3番ホームから出ます。電車の中は人が多いです。私は立ちます。窓から町を見ます。駅は五つ目です。10分で着きます。一人の電車はちょっとこわいですが、楽しいです。",
-    "translation": "Hôm nay, lần đầu tiên một mình đi tàu điện. Mua vé ở ga. Vé chỉ 200 yên thôi. Tàu xuất phát từ sân ga số 3. Trong tàu nhiều người. Tôi đứng. Nhìn thành phố qua cửa sổ. Ga thứ năm thì xuống. 10 phút là tới. Đi tàu một mình hơi sợ nhưng vui.",
+    "sentence_count": 11,
+    "text": "今日、初めて一人で電車に乗ります。駅で切符を買います。今日は切符を買います。でも、いつもはICカードを使います。電車は3番ホームから出ます。電車の中は人が多いです。私は立ちます。窓から町を見ます。駅は五つ目です。10分で着きます。一人の電車はちょっとこわいですが、楽しいです。",
+    "translation": "Hôm nay, lần đầu tiên một mình đi tàu điện. Mua vé ở ga. Hôm nay mua vé giấy. Nhưng thường ngày dùng thẻ IC. Tàu xuất phát từ sân ga số 3. Trong tàu nhiều người. Tôi đứng. Nhìn thành phố qua cửa sổ. Ga thứ năm thì xuống. 10 phút là tới. Đi tàu một mình hơi sợ nhưng vui.",
     "vocabulary": [
       {
         "word": "電車",
@@ -1634,12 +1658,12 @@
       {
         "word": "切符",
         "reading": "きっぷ",
-        "meaning": "vé"
+        "meaning": "vé (giấy)"
       },
       {
-        "word": "ホーム",
-        "reading": "ホーム",
-        "meaning": "sân ga"
+        "word": "ICカード",
+        "reading": "アイシーカード",
+        "meaning": "thẻ IC điện tử (dùng đi tàu)"
       },
       {
         "word": "立ちます",
@@ -1666,10 +1690,16 @@
         "translation": "Mua vé ở ga."
       },
       {
-        "sentence": "切符は200円だけです。",
-        "chunks": "切符は / 200円だけです",
-        "guide": "は chủ đề 'vé' → だけ giới hạn 'chỉ' → です khẳng định = chỉ 200 yên thôi",
-        "translation": "Vé chỉ 200 yên thôi."
+        "sentence": "今日は切符を買います。",
+        "chunks": "今日は / 切符を / 買います",
+        "guide": "は đặt chủ đề thời gian 'hôm nay' (nhấn mạnh đây là ngoại lệ) → を đánh dấu đối tượng 'vé giấy'",
+        "translation": "Hôm nay mua vé giấy."
+      },
+      {
+        "sentence": "でも、いつもはICカードを使います。",
+        "chunks": "でも / いつもは / ICカードを / 使います",
+        "guide": "でも chuyển hướng 'nhưng' → いつもは 'thường ngày thì' → を đánh dấu đối tượng 'thẻ IC' → ます hành động",
+        "translation": "Nhưng thường ngày dùng thẻ IC."
       },
       {
         "sentence": "電車は3番ホームから出ます。",
@@ -1717,59 +1747,59 @@
     "comprehension": [
       {
         "id": "R_0050_Q1",
-        "question": "切符はいくらですか。",
-        "question_vi": "Vé bao nhiêu tiền?",
+        "question": "この人はいつもどうやって電車に乗りますか。",
+        "question_vi": "Thường ngày người này đi tàu bằng cách nào?",
         "answers": [
           {
-            "text": "100円です。",
-            "text_vi": "100 yên.",
+            "text": "いつも切符を買います。",
+            "text_vi": "Luôn mua vé giấy.",
             "is_correct": false
           },
           {
-            "text": "200円です。",
-            "text_vi": "200 yên.",
+            "text": "いつもICカードを使います。",
+            "text_vi": "Luôn dùng thẻ IC.",
             "is_correct": true
           },
           {
-            "text": "300円です。",
-            "text_vi": "300 yên.",
+            "text": "いつも3番ホームから乗ります。",
+            "text_vi": "Luôn lên ở sân ga số 3.",
             "is_correct": false
           },
           {
-            "text": "500円です。",
-            "text_vi": "500 yên.",
+            "text": "いつも立ちます。",
+            "text_vi": "Luôn đứng.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 3 nói 「切符は200円だけです」→ だけ nhấn mạnh 'chỉ' = vé chỉ 200 yên thôi."
+        "explanation": "Câu 4 nói 「でも、いつもはICカードを使います」→ いつも = thường ngày, を đánh dấu đối tượng = thường ngày dùng thẻ IC. Hôm nay là ngoại lệ mới mua vé giấy."
       },
       {
         "id": "R_0050_Q2",
-        "question": "電車は何番ホームから出ますか。",
-        "question_vi": "Tàu xuất phát từ sân ga số mấy?",
+        "question": "電車に乗る時間と駅から目的地までの時間を合わせると、全部で何分かかりますか。",
+        "question_vi": "Cộng thời gian đi tàu và thời gian từ ga đến đích, tổng cộng mất bao nhiêu phút?",
         "answers": [
           {
-            "text": "1番ホームから出ます。",
-            "text_vi": "Từ sân ga số 1.",
+            "text": "10分です。",
+            "text_vi": "10 phút.",
             "is_correct": false
           },
           {
-            "text": "2番ホームから出ます。",
-            "text_vi": "Từ sân ga số 2.",
-            "is_correct": false
-          },
-          {
-            "text": "3番ホームから出ます。",
-            "text_vi": "Từ sân ga số 3.",
+            "text": "15分です。",
+            "text_vi": "15 phút.",
             "is_correct": true
           },
           {
-            "text": "5番ホームから出ます。",
-            "text_vi": "Từ sân ga số 5.",
+            "text": "20分です。",
+            "text_vi": "20 phút.",
+            "is_correct": false
+          },
+          {
+            "text": "30分です。",
+            "text_vi": "30 phút.",
             "is_correct": false
           }
         ],
-        "explanation": "Câu 4 nói 「電車は3番ホームから出ます」→ から chỉ điểm xuất phát = sân ga số 3."
+        "explanation": "Câu 10 nói 「10分で着きます」= đi tàu 10 phút. Ga thứ 5 (câu 9) và đi bộ từ ga thêm khoảng 5 phút nữa → tổng 10 + 5 = 15 phút. Cần tổng hợp 2 thông tin về thời gian."
       }
     ]
   }

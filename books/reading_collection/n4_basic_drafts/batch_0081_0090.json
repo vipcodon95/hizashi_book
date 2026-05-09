@@ -13,19 +13,19 @@
       "ので",
       "と思います",
       "なければなりません",
-      "てみます"
+      "てくれました"
     ],
     "grammar_used": [
       "～てから",
       "～ので",
       "～と思います",
       "～なければなりません",
-      "～てみます",
+      "～てくれました",
       "～ています"
     ],
     "sentence_count": 11,
-    "text": "今日は初めての会議がありました。朝早く起きて、スーツを着てから会社に行きました。会議は10時からなので、資料を準備しなければなりませんでした。先輩が「大丈夫だよ」と言ってくれました。会議室に入って、自己紹介をしました。最初はとても緊張していました。でも、先輩が横にいたので、少し安心しました。自分の意見も言ってみました。部長は「いい意見ですね」と言いました。会議は1時間で終わりました。次の会議も頑張ろうと思います。",
-    "translation": "Hôm nay có cuộc họp đầu tiên. Tôi dậy sớm, mặc vest rồi đi đến công ty. Vì cuộc họp từ 10 giờ nên phải chuẩn bị tài liệu. Tiền bối nói \"Không sao đâu\". Tôi vào phòng họp và tự giới thiệu bản thân. Lúc đầu tôi rất hồi hộp. Nhưng vì có tiền bối ngồi bên cạnh nên hơi yên tâm. Tôi cũng thử nói ý kiến của mình. Trưởng phòng nói \"Ý kiến hay đấy\". Cuộc họp kết thúc sau 1 tiếng. Tôi nghĩ cuộc họp tiếp theo cũng sẽ cố gắng.",
+    "text": "今日は初めての会議がありました。朝早く起きて、スーツを着てから会社に行きました。会議は10時からなので、資料を準備しなければなりませんでした。先輩が「大丈夫だよ」と言ってくれました。会議室に入って、自己紹介をしました。最初はとても緊張していました。でも、先輩が横にいたので、少し安心しました。議事録を取りました。部長は「いい意見ですね」と言いました。会議は1時間で終わりました。次の会議も頑張ろうと思います。",
+    "translation": "Hôm nay có cuộc họp đầu tiên. Tôi dậy sớm, mặc vest rồi đi đến công ty. Vì cuộc họp từ 10 giờ nên phải chuẩn bị tài liệu. Tiền bối nói \"Không sao đâu\". Tôi vào phòng họp và tự giới thiệu bản thân. Lúc đầu tôi rất hồi hộp. Nhưng vì có tiền bối ngồi bên cạnh nên hơi yên tâm. Tôi đã ghi biên bản cuộc họp. Trưởng phòng nói \"Ý kiến hay đấy\". Cuộc họp kết thúc sau 1 tiếng. Tôi nghĩ cuộc họp tiếp theo cũng sẽ cố gắng.",
     "vocabulary": [
       {
         "word": "会議",
@@ -61,6 +61,11 @@
         "word": "部長",
         "reading": "ぶちょう",
         "meaning": "trưởng phòng"
+      },
+      {
+        "word": "議事録",
+        "reading": "ぎじろく",
+        "meaning": "biên bản cuộc họp"
       }
     ],
     "process": [
@@ -107,10 +112,10 @@
         "translation": "Nhưng vì có tiền bối ngồi bên cạnh nên hơi yên tâm."
       },
       {
-        "sentence": "自分の意見も言ってみました。",
-        "chunks": "自分の意見も / 言ってみました",
-        "guide": "の liên kết 'mình' + 'ý kiến' → も 'cũng' → てみました thử làm. てみる = thử làm lần đầu",
-        "translation": "Tôi cũng thử nói ý kiến của mình."
+        "sentence": "議事録を取りました。",
+        "chunks": "議事録を / 取りました",
+        "guide": "を đối tượng 'biên bản họp' → 取りました ghi lại. 議事録を取る = ghi biên bản → vai trò phù hợp của người mới vào",
+        "translation": "Tôi đã ghi biên bản cuộc họp."
       },
       {
         "sentence": "部長は「いい意見ですね」と言いました。",
@@ -244,7 +249,7 @@
     ],
     "sentence_count": 11,
     "text": "来週の月曜日に休みたいので、上司にメールを書きました。まず「お疲れ様です」と書きました。それから、理由を説明しました。母が病院に行かなければならないので、一緒に行きたいです。午前中だけ休んでもいいですかと聞きました。午後からは出社できると思います。メールを書いてから、もう一度読みました。敬語が正しいか少し心配でした。でも、先輩に見てもらいました。先輩は「大丈夫ですよ」と言ってくれました。安心してメールを送りました。",
-    "translation": "Vì muốn nghỉ vào thứ Hai tuần sau nên tôi đã viết email cho sếp. Đầu tiên viết \"Xin chào anh/chị\". Sau đó, giải thích lý do. Vì mẹ phải đi bệnh viện nên muốn đi cùng. Tôi hỏi có thể chỉ nghỉ buổi sáng được không. Tôi nghĩ từ buổi chiều có thể đến công ty. Sau khi viết email, tôi đọc lại một lần nữa. Hơi lo không biết kính ngữ có đúng không. Nhưng tôi đã nhờ tiền bối xem giúp. Tiền bối nói \"Không sao đâu\". Tôi yên tâm gửi email.",
+    "translation": "Vì muốn nghỉ vào thứ Hai tuần sau nên tôi đã viết email cho sếp. Đầu tiên viết \"Cảm ơn anh đã vất vả\" (lời chào chuẩn trong công ty Nhật). Sau đó, giải thích lý do. Vì mẹ phải đi bệnh viện nên muốn đi cùng. Tôi hỏi có thể chỉ nghỉ buổi sáng được không. Tôi nghĩ từ buổi chiều có thể đến công ty. Sau khi viết email, tôi đọc lại một lần nữa. Hơi lo không biết kính ngữ có đúng không. Nhưng tôi đã nhờ tiền bối xem giúp. Tiền bối nói \"Không sao đâu\". Tôi yên tâm gửi email.",
     "vocabulary": [
       {
         "word": "上司",
@@ -292,8 +297,8 @@
       {
         "sentence": "まず「お疲れ様です」と書きました。",
         "chunks": "まず / 「お疲れ様です」と / 書きました",
-        "guide": "まず 'đầu tiên' → と trích dẫn nội dung viết. お疲れ様です = câu chào chuẩn trong công ty",
-        "translation": "Đầu tiên viết \"Xin chào anh/chị\"."
+        "guide": "まず 'đầu tiên' → と trích dẫn nội dung viết. お疲れ様です = lời chào chuẩn trong email/văn phòng Nhật (nghĩa gốc: 'cảm ơn anh/chị đã vất vả'), KHÔNG dịch là 'xin chào'",
+        "translation": "Đầu tiên viết \"Cảm ơn anh đã vất vả\" (lời chào chuẩn trong công ty Nhật)."
       },
       {
         "sentence": "それから、理由を説明しました。",
@@ -523,7 +528,7 @@
       {
         "sentence": "チームは5人で、私がリーダーです。",
         "chunks": "チームは / 5人で / 私が / リーダーです",
-        "guide": "は chủ đề 'nhóm' → で trạng thái '5 người' → が nhấn mạnh 'tôi' là người mới → リーダー trưởng nhóm",
+        "guide": "は chủ đề 'nhóm' → で trạng thái '5 người' → が dùng để identify chủ ngữ trong cấu trúc giới thiệu vai trò (XはY、ZがWです): 'tôi' được xác định là trưởng nhóm → リーダー",
         "translation": "Nhóm có 5 người, tôi là trưởng nhóm."
       },
       {
@@ -679,9 +684,9 @@
       "～ています",
       "～てから"
     ],
-    "sentence_count": 11,
-    "text": "私は3年間この会社で働いていました。仕事は忙しかったですが、同僚はみんなやさしかったです。でも、子供の時からの夢がありました。料理人になりたかったです。毎晩、仕事が終わってから、料理の勉強をしていました。去年、料理の学校を見つけました。来月から通うことにしました。会社を辞めるのは寂しいですが、夢のために頑張ろうと思います。上司も「応援しています」と言ってくれました。新しい生活が楽しみです。ありがとうございました。",
-    "translation": "Tôi đã làm việc ở công ty này 3 năm. Công việc bận nhưng đồng nghiệp ai cũng tốt bụng. Tuy nhiên, tôi có ước mơ từ nhỏ. Tôi muốn trở thành đầu bếp. Mỗi tối sau khi hết việc, tôi học nấu ăn. Năm ngoái, tôi tìm được trường dạy nấu ăn. Tôi quyết định sẽ đi học từ tháng sau. Nghỉ công ty thì buồn nhưng tôi sẽ cố gắng vì ước mơ. Sếp cũng nói \"Tôi ủng hộ\". Tôi rất mong chờ cuộc sống mới. Cảm ơn mọi người.",
+    "sentence_count": 12,
+    "text": "私は3年間この会社で働いていました。仕事は忙しかったですが、同僚はみんなやさしかったです。でも、子供の時からの夢がありました。料理人になりたかったです。毎晩、仕事が終わってから、料理の勉強をしていました。去年、料理の学校を見つけました。来月から通うことにしました。辞める前に、同僚に仕事を引き継ぎます。会社を辞めるのは寂しいですが、夢のために頑張ろうと思います。上司も「応援しています」と言ってくれました。新しい生活が楽しみです。ありがとうございました。",
+    "translation": "Tôi đã làm việc ở công ty này 3 năm. Công việc bận nhưng đồng nghiệp ai cũng tốt bụng. Tuy nhiên, tôi có ước mơ từ nhỏ. Tôi muốn trở thành đầu bếp. Mỗi tối sau khi hết việc, tôi học nấu ăn. Năm ngoái, tôi tìm được trường dạy nấu ăn. Tôi quyết định sẽ đi học từ tháng sau. Trước khi nghỉ, tôi sẽ bàn giao công việc cho đồng nghiệp. Nghỉ công ty thì buồn nhưng tôi sẽ cố gắng vì ước mơ. Sếp cũng nói \"Tôi ủng hộ\". Tôi rất mong chờ cuộc sống mới. Cảm ơn mọi người.",
     "vocabulary": [
       {
         "word": "同僚",
@@ -717,6 +722,11 @@
         "word": "楽しみ",
         "reading": "たのしみ",
         "meaning": "mong chờ, kỳ vọng"
+      },
+      {
+        "word": "引継ぎ",
+        "reading": "ひきつぎ",
+        "meaning": "bàn giao công việc"
       }
     ],
     "process": [
@@ -761,6 +771,12 @@
         "chunks": "来月から / 通うことにしました",
         "guide": "から điểm bắt đầu → ことにしました tự mình quyết định. Khác ことになりました = người khác quyết",
         "translation": "Tôi quyết định sẽ đi học từ tháng sau."
+      },
+      {
+        "sentence": "辞める前に、同僚に仕事を引き継ぎます。",
+        "chunks": "辞める前に / 同僚に / 仕事を / 引き継ぎます",
+        "guide": "前に trước khi → に người nhận → を đối tượng 'công việc' → 引き継ぎます bàn giao. 引継ぎ = hành động quan trọng trước khi nghỉ việc",
+        "translation": "Trước khi nghỉ, tôi sẽ bàn giao công việc cho đồng nghiệp."
       },
       {
         "sentence": "会社を辞めるのは寂しいですが、夢のために頑張ろうと思います。",
@@ -870,7 +886,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 8 nói 「会社を辞めるのは寂しいですが、夢のために頑張ろうと思います」→ が = nhưng → vừa buồn vừa quyết tâm. Phải đọc cả vế trước (buồn) và vế sau (cố gắng) của が."
+        "explanation": "Câu 9 nói 「会社を辞めるのは寂しいですが、夢のために頑張ろうと思います」→ が = nhưng → vừa buồn vừa quyết tâm. Phải đọc cả vế trước (buồn) và vế sau (cố gắng) của が."
       }
     ]
   },
@@ -897,9 +913,9 @@
       "～と思います",
       "～ので"
     ],
-    "sentence_count": 11,
-    "text": "今日はリモートワークの日です。家で仕事ができるので、電車に乗らなくてもいいです。朝はゆっくり起きて、コーヒーを飲んでから仕事を始めました。パソコンでメールをチェックして、オンライン会議に出ました。お昼は自分で作ったサンドイッチを食べました。午後も報告書を書いていました。でも、一人で仕事をしているので、少し寂しいと思う時もあります。夕方5時に仕事が終わりました。通勤時間がないので、すぐに夕飯の準備ができます。リモートワークは便利ですが、たまには会社に行きたいです。家で仕事をするのも悪くないと思います。",
-    "translation": "Hôm nay là ngày làm việc từ xa. Vì có thể làm việc ở nhà nên không cần đi tàu. Sáng dậy thong thả, uống cà phê rồi bắt đầu làm việc. Kiểm tra email trên máy tính rồi tham gia họp trực tuyến. Bữa trưa ăn sandwich tự làm. Buổi chiều cũng đang viết báo cáo. Nhưng vì làm việc một mình nên đôi khi thấy hơi buồn. Chiều 5 giờ hết việc. Vì không có thời gian đi lại nên có thể chuẩn bị bữa tối ngay. Làm việc từ xa tiện lợi nhưng thỉnh thoảng cũng muốn đi công ty. Tôi nghĩ làm việc ở nhà cũng không tệ.",
+    "sentence_count": 12,
+    "text": "うちの会社は週に2日リモートワークができます。今日はリモートワークの日です。家で仕事ができるので、電車に乗らなくてもいいです。朝はゆっくり起きて、コーヒーを飲んでから仕事を始めました。パソコンでメールをチェックして、Web会議に出ました。お昼は自分で作ったサンドイッチを食べました。午後も報告書を書いていました。でも、一人で仕事をしているので、少し寂しいと思う時もあります。夕方5時に仕事が終わりました。通勤時間がないので、すぐに夕飯の準備ができます。リモートワークは便利ですが、たまには会社に行きたいです。家で仕事をするのも悪くないと思います。",
+    "translation": "Công ty tôi có thể làm việc từ xa 2 ngày mỗi tuần. Hôm nay là ngày làm việc từ xa. Vì có thể làm việc ở nhà nên không cần đi tàu. Sáng dậy thong thả, uống cà phê rồi bắt đầu làm việc. Kiểm tra email trên máy tính rồi tham gia họp online. Bữa trưa ăn sandwich tự làm. Buổi chiều cũng đang viết báo cáo. Nhưng vì làm việc một mình nên đôi khi thấy hơi buồn. Chiều 5 giờ hết việc. Vì không có thời gian đi lại nên có thể chuẩn bị bữa tối ngay. Làm việc từ xa tiện lợi nhưng thỉnh thoảng cũng muốn đi công ty. Tôi nghĩ làm việc ở nhà cũng không tệ.",
     "vocabulary": [
       {
         "word": "リモートワーク",
@@ -934,6 +950,12 @@
     ],
     "process": [
       {
+        "sentence": "うちの会社は週に2日リモートワークができます。",
+        "chunks": "うちの会社は / 週に2日 / リモートワークができます",
+        "guide": "は chủ đề 'công ty tôi' → に tần suất 'mỗi tuần 2 ngày' → ことができます có thể. 週に = mỗi tuần (tần suất)",
+        "translation": "Công ty tôi có thể làm việc từ xa 2 ngày mỗi tuần."
+      },
+      {
         "sentence": "今日はリモートワークの日です。",
         "chunks": "今日は / リモートワークの日です",
         "guide": "は chủ đề 'hôm nay' → の liên kết 'làm việc từ xa' + 'ngày' → です khẳng định",
@@ -952,10 +974,10 @@
         "translation": "Sáng dậy thong thả, uống cà phê rồi bắt đầu làm việc."
       },
       {
-        "sentence": "パソコンでメールをチェックして、オンライン会議に出ました。",
-        "chunks": "パソコンで / メールを / チェックして / オンライン会議に / 出ました",
-        "guide": "で công cụ 'máy tính' → を đối tượng → て nối → に tham gia → 出ました ra/tham gia",
-        "translation": "Kiểm tra email trên máy tính rồi tham gia họp trực tuyến."
+        "sentence": "パソコンでメールをチェックして、Web会議に出ました。",
+        "chunks": "パソコンで / メールを / チェックして / Web会議に / 出ました",
+        "guide": "で công cụ 'máy tính' → を đối tượng → て nối → に tham gia → 出ました ra/tham gia. Web会議 = họp trực tuyến qua phần mềm",
+        "translation": "Kiểm tra email trên máy tính rồi tham gia họp online."
       },
       {
         "sentence": "お昼は自分で作ったサンドイッチを食べました。",
@@ -1027,7 +1049,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 5 nói 「自分で作ったサンドイッチを食べました」→ で = tự mình + た bổ nghĩa = sandwich 'tự mình làm'."
+        "explanation": "Câu 6 nói 「自分で作ったサンドイッチを食べました」→ で = tự mình + た bổ nghĩa = sandwich 'tự mình làm'."
       },
       {
         "id": "R_0085_Q2",
@@ -1055,7 +1077,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 7 nói 「一人で仕事をしているので、少し寂しい」→ ので = vì làm việc một mình → nên hơi buồn."
+        "explanation": "Câu 8 nói 「一人で仕事をしているので、少し寂しい」→ ので = vì làm việc một mình → nên hơi buồn."
       },
       {
         "id": "R_0085_Q3",
@@ -1083,7 +1105,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 10-11 cho thấy: 「便利ですが、たまには会社に行きたい」+ 「悪くないと思います」→ đánh giá cân bằng: tiện, không tệ, nhưng thỉnh thoảng muốn đi công ty. Phải tổng hợp 2 câu cuối."
+        "explanation": "Câu 11-12 cho thấy: 「便利ですが、たまには会社に行きたい」+ 「悪くないと思います」→ đánh giá cân bằng: tiện, không tệ, nhưng thỉnh thoảng muốn đi công ty. Phải tổng hợp 2 câu cuối."
       }
     ]
   },
@@ -1112,7 +1134,7 @@
     ],
     "sentence_count": 11,
     "text": "私はずっとカフェを開きたいと思っていました。去年、駅の近くにいい場所を見つけました。小さいですが、窓が大きくて明るい店です。カフェの名前は「ひだまり」にしました。メニューはコーヒーとケーキだけにすることにしました。毎朝5時に起きて、ケーキを焼いています。お客さんは最初は少なかったです。でも、SNSに写真を載せてから、だんだんお客さんが増えました。常連のお客さんもできました。「おいしいですね」と言われると、とても嬉しいです。このカフェを開いてよかったと思います。",
-    "translation": "Tôi đã luôn muốn mở quán cà phê. Năm ngoái, tôi tìm được một vị trí tốt gần ga. Nhỏ nhưng cửa sổ lớn và sáng sủa. Tôi đặt tên quán là \"Hidamari\" (Nắng ấm). Tôi quyết định chỉ có cà phê và bánh trong thực đơn. Mỗi sáng dậy lúc 5 giờ để nướng bánh. Lúc đầu khách ít. Nhưng sau khi đăng ảnh lên mạng xã hội, khách dần dần tăng lên. Cũng đã có khách quen. Khi được nói \"Ngon quá\", tôi rất vui. Tôi nghĩ đã mở quán cà phê này thật tốt.",
+    "translation": "Tôi đã luôn muốn mở quán cà phê. Năm ngoái, tôi tìm được một vị trí tốt gần ga. Nhỏ nhưng cửa sổ lớn và sáng sủa. Tôi đặt tên quán là \"Hidamari\" (Nơi nắng nhẹ chiếu vào). Tôi quyết định chỉ có cà phê và bánh trong thực đơn. Mỗi sáng dậy lúc 5 giờ để nướng bánh. Lúc đầu khách ít. Nhưng sau khi đăng ảnh lên mạng xã hội, khách dần dần tăng lên. Cũng đã có khách quen. Khi được nói \"Ngon quá\", tôi rất vui. Tôi nghĩ đã mở quán cà phê này thật tốt.",
     "vocabulary": [
       {
         "word": "場所",
@@ -1167,8 +1189,8 @@
       {
         "sentence": "カフェの名前は「ひだまり」にしました。",
         "chunks": "カフェの名前は / 「ひだまり」に / しました",
-        "guide": "の liên kết → は chủ đề → にする quyết định chọn = 'đặt tên là'",
-        "translation": "Tôi đặt tên quán là \"Hidamari\" (Nắng ấm)."
+        "guide": "の liên kết → は chủ đề → にする quyết định chọn = 'đặt tên là'. ひだまり = nơi nắng nhẹ chiếu vào, gợi cảm giác ấm áp dễ chịu",
+        "translation": "Tôi đặt tên quán là \"Hidamari\" (Nơi nắng nhẹ chiếu vào)."
       },
       {
         "sentence": "メニューはコーヒーとケーキだけにすることにしました。",
@@ -1539,8 +1561,8 @@
       "～てから"
     ],
     "sentence_count": 12,
-    "text": "先週、家族と旅館に泊まりました。旅館は山の中にあって、とても静かでした。部屋に入ると、畳の部屋で、布団が敷いてありました。窓から山が見えました。夕飯は部屋で食べることができました。料理は地元の魚や野菜を使った和食でした。食べてから、温泉に入りました。露天風呂からは星が見えました。お風呂の後、浴衣を着て散歩したりお茶を飲んだりしました。朝は鳥の声で目が覚めました。朝ご飯も部屋で食べてもらいました。日本の旅館はすばらしいと思いました。",
-    "translation": "Tuần trước, tôi cùng gia đình nghỉ ở ryokan. Ryokan nằm trong núi, rất yên tĩnh. Vào phòng thì là phòng tatami, futon đã trải sẵn. Từ cửa sổ nhìn thấy núi. Bữa tối có thể ăn trong phòng. Món ăn là washoku dùng cá và rau địa phương. Ăn xong rồi đi tắm onsen. Từ bồn tắm ngoài trời nhìn thấy sao. Sau khi tắm, mặc yukata rồi đi dạo, uống trà. Sáng thức dậy vì tiếng chim. Bữa sáng cũng được phục vụ trong phòng. Tôi nghĩ ryokan Nhật Bản thật tuyệt vời.",
+    "text": "先週、家族と旅館に泊まりました。旅館は山の中にあって、とても静かでした。部屋に入ると、畳の部屋で、布団が敷いてありました。窓から山が見えました。夕飯は部屋で食べることができました。料理は地元の魚や野菜を使った和食でした。食べてから、温泉に入りました。露天風呂からは星が見えました。お風呂の後、浴衣を着て散歩したりお茶を飲んだりしました。朝は鳥の声で目が覚めました。朝ご飯も部屋に運んでもらいました。日本の旅館はすばらしいと思いました。",
+    "translation": "Tuần trước, tôi cùng gia đình nghỉ ở ryokan. Ryokan nằm trong núi, rất yên tĩnh. Vào phòng thì là phòng tatami, futon đã trải sẵn. Từ cửa sổ nhìn thấy núi. Bữa tối có thể ăn trong phòng. Món ăn là washoku dùng cá và rau địa phương. Ăn xong rồi đi tắm onsen. Từ bồn tắm ngoài trời nhìn thấy sao. Sau khi tắm, mặc yukata rồi đi dạo, uống trà. Sáng thức dậy vì tiếng chim. Bữa sáng cũng được mang đến phòng. Tôi nghĩ ryokan Nhật Bản thật tuyệt vời.",
     "vocabulary": [
       {
         "word": "旅館",
@@ -1640,10 +1662,10 @@
         "translation": "Sáng thức dậy vì tiếng chim."
       },
       {
-        "sentence": "朝ご飯も部屋で食べてもらいました。",
-        "chunks": "朝ご飯も / 部屋で / 食べてもらいました",
-        "guide": "も 'cũng' (giống bữa tối) → で nơi chốn → てもらいました được phục vụ (nhờ/được người khác làm)",
-        "translation": "Bữa sáng cũng được phục vụ trong phòng."
+        "sentence": "朝ご飯も部屋に運んでもらいました。",
+        "chunks": "朝ご飯も / 部屋に / 運んでもらいました",
+        "guide": "も 'cũng' (giống bữa tối) → に đích đến 'đến phòng' → 運んでもらいました được người ta mang đến (nhờ mang). 運ぶ = mang vận chuyển → てもらう = được làm cho",
+        "translation": "Bữa sáng cũng được mang đến phòng."
       },
       {
         "sentence": "日本の旅館はすばらしいと思いました。",
@@ -1721,7 +1743,7 @@
           },
           {
             "text": "テレビを見ました。",
-            "text_vi": "Xem tivi.",
+            "text_vi": "Đã xem tivi.",
             "is_correct": false
           },
           {
@@ -1760,7 +1782,7 @@
       "～てもらいました",
       "～たら",
       "～ことができました",
-      "～ています",
+      "～ていました",
       "～てから"
     ],
     "sentence_count": 11,
@@ -1814,7 +1836,7 @@
       {
         "sentence": "渋谷は人がとても多くて、どこに行けばいいかわかりませんでした。",
         "chunks": "渋谷は / 人がとても多くて / どこに行けばいいか / わかりませんでした",
-        "guide": "は chủ đề → が chủ ngữ + くて nối lý do 'đông' → ば điều kiện + か nghi vấn gián tiếp → わかりません không biết",
+        "guide": "は chủ đề → が chủ ngữ + くて nối lý do 'đông' → どこに行けばいいか: 〜ばいい = nên làm gì cho đúng (advice/suggestion), idiom cố định, không tách thành ば + いい riêng lẻ + か nghi vấn gián tiếp → わかりません không biết",
         "translation": "Shibuya đông người quá, không biết phải đi đâu."
       },
       {
@@ -1874,7 +1896,7 @@
         "answers": [
           {
             "text": "地図を持っていなかったから。",
-            "text_vi": "Vì không mang bản đồ.",
+            "text_vi": "Vì không mang bản đồ theo.",
             "is_correct": false
           },
           {
@@ -1883,13 +1905,13 @@
             "is_correct": true
           },
           {
-            "text": "スマホが壊れたから。",
-            "text_vi": "Vì điện thoại hỏng.",
+            "text": "スマホの地図が使えなかったから。",
+            "text_vi": "Vì không dùng được bản đồ điện thoại.",
             "is_correct": false
           },
           {
-            "text": "友達が場所を間違えたから。",
-            "text_vi": "Vì bạn nhầm chỗ.",
+            "text": "友達が待ち合わせの場所を間違えたから。",
+            "text_vi": "Vì bạn nhầm chỗ hẹn gặp.",
             "is_correct": false
           }
         ],
@@ -1977,9 +1999,9 @@
       "～ています",
       "～てから"
     ],
-    "sentence_count": 12,
-    "text": "日本に来て初めて温泉に行きました。友達が温泉のルールを教えてくれました。まず、お風呂に入る前に体を洗わなければなりません。タオルをお湯に入れてはいけません。最初はちょっと恥ずかしかったです。でも、友達と一緒だったので、勇気を出して入ってみました。お湯はとても熱かったですが、だんだん慣れました。体がぽかぽかになって、とても気持ちよかったです。露天風呂では山の景色を見ながらお湯に入りました。お風呂から出てから、冷たい牛乳を飲みました。温泉はとてもいい経験だったと思いました。また行きたいです。",
-    "translation": "Tôi đến Nhật và lần đầu tiên đi onsen. Bạn đã dạy tôi quy tắc onsen. Trước tiên, trước khi vào bồn phải rửa người. Không được để khăn vào nước nóng. Lúc đầu hơi xấu hổ. Nhưng vì đi cùng bạn nên lấy hết dũng khí thử vào. Nước rất nóng nhưng dần dần quen. Cơ thể ấm áp, rất dễ chịu. Ở bồn tắm ngoài trời, vừa ngắm cảnh núi vừa ngâm mình. Ra khỏi bồn rồi uống sữa lạnh. Tôi nghĩ onsen là trải nghiệm rất tốt. Muốn đi lại lần nữa.",
+    "sentence_count": 13,
+    "text": "日本に来て初めて温泉に行きました。友達が温泉のルールを教えてくれました。まず、お風呂に入る前に体を洗わなければなりません。タオルをお湯に入れてはいけません。入れ墨がある人は入れません。最初はちょっと恥ずかしかったです。でも、友達と一緒だったので、勇気を出して入ってみました。お湯はとても熱かったですが、だんだん慣れました。体がぽかぽかになって、とても気持ちよかったです。露天風呂では山の景色を見ながらお湯に入りました。お風呂から出てから、冷たい牛乳を飲みました。温泉はとてもいい経験だったと思いました。また行きたいです。",
+    "translation": "Tôi đến Nhật và lần đầu tiên đi onsen. Bạn đã dạy tôi quy tắc onsen. Trước tiên, trước khi vào bồn phải rửa người. Không được để khăn vào nước nóng. Người có hình xăm không được vào. Lúc đầu hơi xấu hổ. Nhưng vì đi cùng bạn nên lấy hết dũng khí thử vào. Nước rất nóng nhưng dần dần quen. Cơ thể ấm áp, rất dễ chịu. Ở bồn tắm ngoài trời, vừa ngắm cảnh núi vừa ngâm mình. Ra khỏi bồn rồi uống sữa lạnh. Tôi nghĩ onsen là trải nghiệm rất tốt. Muốn đi lại lần nữa.",
     "vocabulary": [
       {
         "word": "温泉",
@@ -2015,6 +2037,11 @@
         "word": "気持ちいい",
         "reading": "きもちいい",
         "meaning": "dễ chịu, thoải mái"
+      },
+      {
+        "word": "入れ墨",
+        "reading": "いれずみ",
+        "meaning": "hình xăm"
       }
     ],
     "process": [
@@ -2041,6 +2068,12 @@
         "chunks": "タオルを / お湯に / 入れてはいけません",
         "guide": "を đối tượng 'khăn' → に nơi 'nước nóng' → てはいけません cấm, không được làm",
         "translation": "Không được để khăn vào nước nóng."
+      },
+      {
+        "sentence": "入れ墨がある人は入れません。",
+        "chunks": "入れ墨が / ある人は / 入れません",
+        "guide": "が chủ ngữ 'hình xăm' → ある có → người có hình xăm は chủ đề → 入れません không được vào. Quy tắc quan trọng của hầu hết onsen Nhật",
+        "translation": "Người có hình xăm không được vào."
       },
       {
         "sentence": "最初はちょっと恥ずかしかったです。",
@@ -2146,7 +2179,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 1 nói 「初めて温泉に行きました」(lần đầu) và câu 5 nói 「最初はちょっと恥ずかしかった」(lúc đầu hơi xấu hổ) → vì lần đầu trải nghiệm nên ngại ngùng."
+        "explanation": "Câu 1 nói 「初めて温泉に行きました」(lần đầu) và câu 6 nói 「最初はちょっと恥ずかしかった」(lúc đầu hơi xấu hổ) → vì lần đầu trải nghiệm nên ngại ngùng."
       },
       {
         "id": "R_0090_Q3",
@@ -2174,7 +2207,7 @@
             "is_correct": false
           }
         ],
-        "explanation": "Câu 11 nói 「とてもいい経験だったと思いました」và câu 12 nói 「また行きたいです」→ phải tổng hợp 2 câu: trải nghiệm tốt + muốn quay lại."
+        "explanation": "Câu 12 nói 「とてもいい経験だったと思いました」và câu 13 nói 「また行きたいです」→ phải tổng hợp 2 câu: trải nghiệm tốt + muốn quay lại."
       }
     ]
   }
