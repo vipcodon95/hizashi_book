@@ -8,7 +8,7 @@
 
 ---
 
-## Scene 1 — Sáng KQ Osaka U · 5/3
+## Tình huống 1 — Sáng KQ Osaka U · 5/3
 
 | Speaker | Lời thoại |
 |---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-## Scene 2 — Báo Tanaka · 9:30
+## Tình huống 2 — Báo Tanaka · 9:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -35,13 +35,13 @@
 
 ---
 
-## Scene 3 — Báo cohort · 10:00
+## Tình huống 3 — Báo cả nhóm · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
 | Đại | (LINE Yamada) <ruby>大阪大<rt>おおさかだい</rt></ruby><ruby>合格<rt>ごうかく</rt></ruby>!<br>*(Đỗ!)* |
 | Yamada | おめでとう!!! 25%の<ruby>合格率<rt>ごうかくりつ</rt></ruby>を<ruby>突破<rt>とっぱ</rt></ruby>!<br>*(Mừng! Phá vòng 25%!)* |
-| (Cohort group) | <br> |
+| (Cả nhóm) | <br> |
 | Bahra | （<ruby>既読<rt>きどく</rt></ruby>）すごい!<br>*(Tuyệt!)* |
 | Rim | (VN) Anh!!! Mừng quá!<br>*(Mừng!)* |
 | Yifan | （<ruby>既読<rt>きどく</rt></ruby>）<ruby>後輩<rt>こうはい</rt></ruby>として<ruby>誇<rt>ほこ</rt></ruby>らしいです!<br>*(Tự hào với tư cách hậu bối!)* |
@@ -50,7 +50,7 @@
 
 ---
 
-## Scene 4 — Suzuki Lawson congratulation · 18:00
+## Tình huống 4 — Suzuki Lawson congratulation · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -64,7 +64,7 @@
 
 ---
 
-## Scene 5 — Trường tiếng farewell · 20/3
+## Tình huống 5 — Trường tiếng farewell · 20/3
 
 | Speaker | Lời thoại |
 |---|---|
@@ -77,11 +77,11 @@
 | Yamada | アウン — <ruby>立命館<rt>りつめいかん</rt></ruby><br>*(Aung — Ritsumeikan.)* |
 | Yamada | バーラ — <ruby>1<rt>いち</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>余分<rt>よぶん</rt></ruby><ruby>残<rt>のこ</rt></ruby>る<br>*(Bahra — ở thêm 1 năm.)* |
 | Yamada | <ruby>5<rt>ご</rt></ruby><ruby>カ国<rt>かこく</rt></ruby>5つの<ruby>進路<rt>しんろ</rt></ruby>。<ruby>素晴<rt>すば</rt></ruby>らしい!<br>*(5 nước 5 hướng đi tuyệt vời!)* |
-| Cast | （<ruby>泣<rt>な</rt></ruby>く）<br>*(Khóc.)* |
+| Nhân vật | （<ruby>泣<rt>な</rt></ruby>く）<br>*(Khóc.)* |
 
 ---
 
-## Scene 6 — Đại speech farewell · 20/3 stage
+## Tình huống 6 — Đại speech farewell · 20/3 stage
 
 | Speaker | Lời thoại |
 |---|---|
@@ -98,11 +98,11 @@
 | Đại | <ruby>4<rt>し</rt></ruby><ruby>月<rt>がつ</rt></ruby>から<ruby>大阪大<rt>おおさかだい</rt></ruby><ruby>基礎工学部<rt>きそこうがくぶ</rt></ruby><ruby>情報科学科<rt>じょうほうかがくか</rt></ruby>です。<ruby>新<rt>あたら</rt></ruby>しい<ruby>章<rt>しょう</rt></ruby>の<ruby>始<rt>はじ</rt></ruby>まりです。<br>*(Từ tháng 4 vào khoa Information Science (基礎工学部) ĐH Osaka. Chương mới bắt đầu.)* |
 | Đại | みなさん<ruby>本当<rt>ほんとう</rt></ruby>にありがとうございました!<br>*(Cảm ơn!)* |
 | Đại | （<ruby>礼<rt>れい</rt></ruby><ruby>深<rt>ふか</rt></ruby>く）<br>*(Cúi sâu.)* |
-| Cast | （<ruby>拍手<rt>はくしゅ</rt></ruby><ruby>長<rt>なが</rt></ruby>く）<br>*(Vỗ dài.)* |
+| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby><ruby>長<rt>なが</rt></ruby>く）<br>*(Vỗ dài.)* |
 
 ---
 
-## Scene 7 — Yamada hand certificate · 20/3 ceremony
+## Tình huống 7 — Yamada hand certificate · 20/3 ceremony
 
 | Speaker | Lời thoại |
 |---|---|
@@ -115,7 +115,7 @@
 
 ---
 
-## Scene 8 — Tanaka final dinner · 22/3
+## Tình huống 8 — Tanaka final dinner · 22/3
 
 | Speaker | Lời thoại |
 |---|---|
@@ -129,7 +129,7 @@
 
 ---
 
-## Scene 9 — 4/4/2026 — Vào ĐH Osaka day 1 · sáng
+## Tình huống 9 — 4/4/2026 — Vào ĐH Osaka day 1 · sáng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -142,7 +142,7 @@
 
 ---
 
-## Scene 10 — Đêm reflect closure · 4/4
+## Tình huống 10 — Đêm reflect closure · 4/4
 
 | Speaker | Lời thoại |
 |---|---|
@@ -165,7 +165,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -193,7 +193,7 @@
 ## Bí quyết chương
 
 - **Triple closure**: Đỗ + farewell + ngày 1 ĐH = 3 cú emotional.
-- **5 path 5 quốc cohort**: Diversity outcomes — Bắc Kinh + Yonsei + Ritsumeikan + Osaka.
+- **5 con đường 5 quốc**: Kết quả đa dạng — Bắc Kinh + Yonsei + Ritsumeikan + Osaka.
 - **Đại đại diện speech**: Public speak thành thạo từ sách 19 — payoff.
 - **最優秀 SV award 100k**: Reward effort 2 năm.
 - **Tony+Yumi maintain bond**: Gia đình 2 vĩnh viễn.

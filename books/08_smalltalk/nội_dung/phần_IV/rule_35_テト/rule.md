@@ -34,7 +34,7 @@ Cuối tháng 1/2026 (gần Tết VN — mùng 1 = 17/2/2026, năm Ngọ 午年)
 | **松本** | 「日本のお盆+正月を一緒にした感じ?」 |
 | **ズン** | 「まさにそのイメージです!帰省ラッシュも激しくて、新幹線にあたる**南北統一鉄道**が満員になります。」 |
 
-> **VN:** Bridge "Tết = お盆 + 正月" → khách Nhật instant hiểu scale + tình cảm.
+> **VN:** So sánh "Tết = お盆 + 正月" → khách Nhật ngay lập tức hiểu được quy mô + tình cảm.
 
 ---
 
@@ -128,7 +128,7 @@ Cuối tháng 1/2026 (gần Tết VN — mùng 1 = 17/2/2026, năm Ngọ 午年)
 - So sánh "Bắc ăn Tết khác Nam" theo hướng **chính trị / lịch sử** → chỉ stick **ẩm thực + hoa**.
 - Hỏi "lì xì bao nhiêu" / khoe lì xì lớn → văn hóa khoe tiền JP né.
 - Nói "ngày xưa Pháp/Mỹ ép VN bỏ Tết" → vùng nhạy cảm, KHÔNG.
-- Quên explain mechanism âm-dương → khách lẫn với 中国春節 → mất "VN insider".
+- Quên giải thích cơ chế âm-dương → khách lẫn với 中国春節 → mất lợi thế "người am hiểu VN".
 
 ---
 
@@ -153,7 +153,7 @@ Cuối tháng 1/2026 (gần Tết VN — mùng 1 = 17/2/2026, năm Ngọ 午年)
 ## 🎓 BJT
 
 **J3 — 場面把握:** Khi khách hỏi "祝日何の?" → biết explain "旧正月 = Tết, không phải 1/1".
-**J2 — 表現読解:** Bridge "Tết = お盆 + 正月" — tạo image instant cho khách.
+**J2 — 表現読解:** So sánh "Tết = お盆 + 正月" — tạo hình ảnh tức thì trong đầu khách.
 **J1 — 発言聴解:** Né khéo câu chuyển sang Tết Mậu Thân / chính trị → giữ topic ở văn hóa gia đình.
 
 ---

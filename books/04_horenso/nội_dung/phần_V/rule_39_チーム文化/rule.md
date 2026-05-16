@@ -1,6 +1,6 @@
 # Rule 39 — Xây dựng team culture Hou-Ren-Sou / チーム文化作り
 
-> **Luận điểm.** Hou-Ren-Sou cá nhân ≠ Hou-Ren-Sou team. Mỗi cá nhân tốt nhưng team không có **chung playbook** thì khách Nhật vẫn cảm nhận "không nhất quán". Team-level cần **5 thành phần playbook**: **(1) Rituals fixed** (daily standup 9:30, weekly retro thứ Sáu, monthly all-hands), **(2) Dashboard URL** (single source for status — Notion / Confluence link), **(3) OKR / KPI Hou-Ren-Sou** (vd: response SLA 95%, no missed Sev1 escalation, DR coverage 100%), **(4) Escalation matrix** (ai escalate ai khi nào), **(5) Onboarding** (rule 34 nhân lên cấp team). Team Lead (Hà CTO + Hương) là culture sponsor.
+> **Luận điểm.** Hou-Ren-Sou cá nhân ≠ Hou-Ren-Sou team. Mỗi cá nhân tốt nhưng team không có **chung playbook** thì khách Nhật vẫn cảm nhận "không nhất quán". Team-level cần **5 thành phần playbook**: **(1) Rituals fixed** (daily standup 9:30, weekly retro thứ Sáu, monthly all-hands), **(2) Dashboard URL** (single source for status — Notion / Confluence link), **(3) OKR / KPI Hou-Ren-Sou** (vd: response SLA 95%, no missed Sev1 escalation, DR coverage 100%), **(4) Escalation matrix** (ai escalate ai khi nào), **(5) Onboarding** (rule 34 nhân lên cấp team). Team Lead (Hà CTO + Hương) là người bảo trợ văn hóa.
 >
 > チーム文化5要素：①Rituals (朝会9:30、週次retro、月次all-hands)②Dashboard URL ③OKR (response SLA 95%、Sev1 escalation 漏れ0、DR coverage 100%)④Escalation matrix ⑤Onboarding playbook。
 >

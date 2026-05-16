@@ -4,11 +4,11 @@
 
 ## Bối cảnh
 
-Tháng 11/2028. Saitama Foods vừa ký hợp đồng OEM với Lawson — sản xuất bento Việt Nam (callback T7 sách 12). Lawson cử team kiểm tra: Lawson Quality Manager + 2 staff. Audit standards convenience store khắt khe hơn ramen brand thông thường: traceability, allergen, temperature log, foreign-body inspection. Hoa là lead auditor host, Tanaka quan sát từ phòng riêng.
+Tháng 11/2028. Saitama Foods vừa ký hợp đồng OEM với Lawson — sản xuất bento Việt Nam (callback T7 sách 12). Lawson cử team kiểm tra: Lawson Quality Manager + 2 staff. Tiêu chuẩn kiểm tra của chuỗi tiện lợi khắt khe hơn ramen brand thông thường: traceability, allergen, temperature log, foreign-body inspection. Hoa là người dẫn cuộc kiểm tra, Tanaka quan sát từ phòng riêng.
 
 ---
 
-## Scene 1 — Tanaka brief Hoa · 7:30 văn phòng
+## Tình huống 1 — Tanaka brief Hoa · 7:30 văn phòng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -25,7 +25,7 @@ Tháng 11/2028. Saitama Foods vừa ký hợp đồng OEM với Lawson — sản
 
 ---
 
-## Scene 2 — Suzuki nhắc nhở · 8:00
+## Tình huống 2 — Suzuki nhắc nhở · 8:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -42,7 +42,7 @@ Tháng 11/2028. Saitama Foods vừa ký hợp đồng OEM với Lawson — sản
 
 ---
 
-## Scene 3 — Mai cổ vũ · 8:30
+## Tình huống 3 — Mai cổ vũ · 8:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -59,7 +59,7 @@ Tháng 11/2028. Saitama Foods vừa ký hợp đồng OEM với Lawson — sản
 
 ---
 
-## Scene 4 — Lawson team đến · 9:00 cổng
+## Tình huống 4 — Lawson team đến · 9:00 cổng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -77,7 +77,7 @@ Tháng 11/2028. Saitama Foods vừa ký hợp đồng OEM với Lawson — sản
 
 ---
 
-## Scene 5 — Tour nhà máy mở đầu · 9:15
+## Tình huống 5 — Tour nhà máy mở đầu · 9:15
 
 | Speaker | Lời thoại |
 |---|---|
@@ -93,7 +93,7 @@ Tháng 11/2028. Saitama Foods vừa ký hợp đồng OEM với Lawson — sản
 
 ---
 
-## Scene 6 — Vào line tour · 9:45
+## Tình huống 6 — Vào line tour · 9:45
 
 | Speaker | Lời thoại |
 |---|---|
@@ -110,7 +110,7 @@ Tháng 11/2028. Saitama Foods vừa ký hợp đồng OEM với Lawson — sản
 
 ---
 
-## Scene 7 — Allergen check · 10:30
+## Tình huống 7 — Allergen check · 10:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -127,7 +127,7 @@ Tháng 11/2028. Saitama Foods vừa ký hợp đồng OEM với Lawson — sản
 
 ---
 
-## Scene 8 — Traceability test · 11:00
+## Tình huống 8 — Traceability test · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -145,7 +145,7 @@ Tháng 11/2028. Saitama Foods vừa ký hợp đồng OEM với Lawson — sản
 
 ---
 
-## Scene 9 — Foreign body inspection · 11:30 line
+## Tình huống 9 — Foreign body inspection · 11:30 line
 
 | Speaker | Lời thoại |
 |---|---|
@@ -162,7 +162,7 @@ Tháng 11/2028. Saitama Foods vừa ký hợp đồng OEM với Lawson — sản
 
 ---
 
-## Scene 10 — Hỏi staff · 12:00 line đóng gói
+## Tình huống 10 — Hỏi staff · 12:00 line đóng gói
 
 | Speaker | Lời thoại |
 |---|---|
@@ -180,7 +180,7 @@ Tháng 11/2028. Saitama Foods vừa ký hợp đồng OEM với Lawson — sản
 
 ---
 
-## Scene 11 — Trưa break · 12:30 phòng họp
+## Tình huống 11 — Trưa break · 12:30 phòng họp
 
 | Speaker | Lời thoại |
 |---|---|
@@ -195,7 +195,7 @@ Tháng 11/2028. Saitama Foods vừa ký hợp đồng OEM với Lawson — sản
 
 ---
 
-## Scene 12 — Records review · 13:30 phòng họp
+## Tình huống 12 — Records review · 13:30 phòng họp
 
 | Speaker | Lời thoại |
 |---|---|
@@ -212,7 +212,7 @@ Tháng 11/2028. Saitama Foods vừa ký hợp đồng OEM với Lawson — sản
 
 ---
 
-## Scene 13 — Sasaki: 1 finding nhỏ · 14:30
+## Tình huống 13 — Sasaki: 1 finding nhỏ · 14:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -228,7 +228,7 @@ Tháng 11/2028. Saitama Foods vừa ký hợp đồng OEM với Lawson — sản
 
 ---
 
-## Scene 14 — Sasaki tổng kết · 15:00
+## Tình huống 14 — Sasaki tổng kết · 15:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -245,7 +245,7 @@ Tháng 11/2028. Saitama Foods vừa ký hợp đồng OEM với Lawson — sản
 
 ---
 
-## Scene 15 — Tanaka đến + Sasaki khen Hoa · 15:15
+## Tình huống 15 — Tanaka đến + Sasaki khen Hoa · 15:15
 
 | Speaker | Lời thoại |
 |---|---|
@@ -261,7 +261,7 @@ Tháng 11/2028. Saitama Foods vừa ký hợp đồng OEM với Lawson — sản
 
 ---
 
-## Scene 16 — Sau khi Lawson về · 17:00 phòng staff
+## Tình huống 16 — Sau khi Lawson về · 17:00 phòng staff
 
 | Speaker | Lời thoại |
 |---|---|
@@ -284,11 +284,11 @@ Tháng 11/2028. Saitama Foods vừa ký hợp đồng OEM với Lawson — sản
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
-| 監査 | かんさ | Audit |
+| 監査 | かんさ | Kiểm tra |
 | 品質管理部 | ひんしつかんりぶ | Phòng QM |
 | トレーサビリティ | とれーさびりてぃ | Traceability |
 | 異物混入 | いぶつこんにゅう | Trộn dị vật |

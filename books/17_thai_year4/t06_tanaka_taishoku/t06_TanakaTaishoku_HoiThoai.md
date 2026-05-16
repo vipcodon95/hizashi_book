@@ -4,21 +4,21 @@
 
 ---
 
-## Scene 1 — Tanaka announce 朝礼 · 8:30
+## Tình huống 1 — Tanaka announce 朝礼 · 8:30
 
 | Speaker | Lời thoại |
 |---|---|
 | Tanaka | みなさん、お<ruby>知<rt>し</rt></ruby>らせがあります。<br>*(Tôi có một thông báo gửi tới mọi người.)* |
-| Cast | （<ruby>注目<rt>ちゅうもく</rt></ruby>）<br>*(Chú ý.)* |
+| Nhân vật | （<ruby>注目<rt>ちゅうもく</rt></ruby>）<br>*(Chú ý.)* |
 | Tanaka | <ruby>9<rt>く</rt></ruby><ruby>月<rt>がつ</rt></ruby><ruby>末<rt>まつ</rt></ruby>をもって<ruby>定年退職<rt>ていねんたいしょく</rt></ruby>いたします。<br>*(Cuối tháng 9 tôi sẽ chính thức nghỉ hưu.)* |
-| Cast | えっ！<br>*(Ơ!)* |
+| Nhân vật | えっ！<br>*(Ơ!)* |
 | Tanaka | <ruby>30<rt>さんじゅう</rt></ruby><ruby>年間<rt>ねんかん</rt></ruby>、<ruby>本当<rt>ほんとう</rt></ruby>にお<ruby>世話<rt>せわ</rt></ruby>になりました。<br>*(Ba mươi năm qua, tôi vô cùng cảm ơn các bạn.)* |
 | Tanaka | <ruby>後任<rt>こうにん</rt></ruby>の<ruby>工場長<rt>こうじょうちょう</rt></ruby>はカワカミさんです。<br>*(Người kế nhiệm chức 工場長 là anh Kawakami.)* |
-| Cast | （<ruby>頷<rt>うなず</rt></ruby>く）<br>*(Gật đầu.)* |
+| Nhân vật | （<ruby>頷<rt>うなず</rt></ruby>く）<br>*(Gật đầu.)* |
 
 ---
 
-## Scene 2 — Thái shock · 9:00
+## Tình huống 2 — Thái shock · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -30,7 +30,7 @@
 
 ---
 
-## Scene 3 — Tanaka 1on1 · 14:00
+## Tình huống 3 — Tanaka 1on1 · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -44,7 +44,7 @@
 
 ---
 
-## Scene 4 — Tanaka future · 14:30
+## Tình huống 4 — Tanaka future · 14:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -57,7 +57,7 @@
 
 ---
 
-## Scene 5 — Cohort discusses · 19:00
+## Tình huống 5 — Cohort discusses · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -69,7 +69,7 @@
 
 ---
 
-## Scene 6 — Đêm · 22:00
+## Tình huống 6 — Đêm · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -80,7 +80,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

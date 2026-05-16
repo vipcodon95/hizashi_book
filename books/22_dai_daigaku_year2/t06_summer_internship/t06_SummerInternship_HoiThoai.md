@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Day 1 onboarding
+## Tình huống 1 — Day 1 onboarding
 
 | Speaker | Lời thoại |
 |---|---|
@@ -16,7 +16,7 @@
 
 ---
 
-## Scene 2 — Tech stack overview
+## Tình huống 2 — Tech stack overview
 
 | Speaker | Lời thoại |
 |---|---|
@@ -30,7 +30,7 @@
 
 ---
 
-## Scene 3 — Plugin project — meeting room reservation tracker
+## Tình huống 3 — Plugin project — meeting room reservation tracker
 
 | Speaker | Lời thoại |
 |---|---|
@@ -40,7 +40,7 @@
 
 ---
 
-## Scene 4 — Daily standup + code review
+## Tình huống 4 — Daily standup + code review
 
 | Speaker | Lời thoại |
 |---|---|
@@ -51,7 +51,7 @@
 
 ---
 
-## Scene 5 — Cybozu culture · 5/8
+## Tình huống 5 — Cybozu culture · 5/8
 
 | Speaker | Lời thoại |
 |---|---|
@@ -62,7 +62,7 @@
 
 ---
 
-## Scene 6 — Final present + offer hint · 14/8
+## Tình huống 6 — Final present + offer hint · 14/8
 
 | Speaker | Lời thoại |
 |---|---|
@@ -76,7 +76,7 @@
 
 ---
 
-## Scene 7 — Stipend ¥150k + reflect
+## Tình huống 7 — Stipend ¥150k + reflect
 
 | Speaker | Lời thoại |
 |---|---|
@@ -88,7 +88,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

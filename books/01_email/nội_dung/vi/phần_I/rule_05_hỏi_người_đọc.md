@@ -2,13 +2,13 @@
 
 > **Luận điểm.** Trước khi bấm Send, dừng 10 giây và tự trả lời một câu duy nhất: *"Sau khi đọc mail này, tôi muốn người đọc làm **chính xác** cái gì?"*. Nếu câu trả lời không phải một **động từ cụ thể** — *duyệt*, *chọn 1 trong 3*, *ký*, *gọi cho em Dũng trước 15h* — thì mail chưa sẵn sàng gửi.
 >
-> Từ khóa của rule này: **"CTA rõ"** (call-to-action rõ).
+> Từ khóa của rule này: **"yêu cầu hành động rõ"** (call-to-action).
 
 ## Bối cảnh
 
 Em Linh — thực tập sinh bên Marketing — viết mail đầu tiên gửi sếp chị Hương, đề xuất ý tưởng chiến dịch mạng xã hội cho Dự án Bình Minh.
 
-## Ví dụ XẤU — mail không có CTA
+## Ví dụ XẤU — mail không có yêu cầu hành động
 
 > Chị Hương ạ,
 >
@@ -18,7 +18,7 @@ Em Linh — thực tập sinh bên Marketing — viết mail đầu tiên gửi 
 
 **Vì sao chưa ổn.** Chị Hương đọc xong không biết mình cần làm gì. *Đọc để biết? Chọn một hướng? Góp ý nội dung? Duyệt để Linh bắt tay làm?* Mail này gần như chắc chắn sẽ nằm trong hộp "đọc sau" vô thời hạn — không phải vì chị không quan tâm, mà vì chị không biết chị đang phải *hành động* gì.
 
-## Ví dụ TỐT — CTA rõ, deadline rõ
+## Ví dụ TỐT — yêu cầu hành động rõ, deadline rõ
 
 > Chị Hương ạ,
 >
@@ -35,7 +35,7 @@ Em Linh — thực tập sinh bên Marketing — viết mail đầu tiên gửi 
 
 ## Biến thể — Khi không cần người đọc làm gì
 
-Nếu CTA của bạn thật sự là "đọc để biết, không cần phản hồi", **hãy nói thẳng điều đó**:
+Nếu yêu cầu hành động của bạn thật sự là "đọc để biết, không cần phản hồi", **hãy nói thẳng điều đó**:
 
 > "Mail này chỉ để chị nắm thông tin, em không cần chị phản hồi."
 
@@ -45,4 +45,4 @@ Một câu nhỏ này cứu chị Hương khỏi áp lực "có phải mình đa
 
 > **"Em xin chị/anh [động từ cụ thể] [cái gì cụ thể] trước [ngày cụ thể] để em [mục đích cụ thể]."**
 
-*Dùng khi:* mọi mail có yêu cầu hành động. Bốn ô *cụ thể* là bốn kiểm tra bắt buộc — nếu điền được cả bốn, CTA của bạn đã rõ.
+*Dùng khi:* mọi mail có yêu cầu hành động. Bốn ô *cụ thể* là bốn kiểm tra bắt buộc — nếu điền được cả bốn, yêu cầu hành động của bạn đã rõ.

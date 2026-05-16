@@ -6,7 +6,7 @@
 
 ## 🧠 Tâm lý JP (4 dòng)
 
-- Khách JP onsite VN tránh tiếng Anh, tránh menu lạ — quay về 和食 **để recharge tinh thần**.
+- Khách JP onsite VN tránh tiếng Anh, tránh menu lạ — quay về 和食 **để nạp lại năng lượng tinh thần**.
 - "Chef người Nhật" = level 1 trust. "Chef VN train ở Nhật" = level 2. "Chuỗi VN" = level 3.
 - Sai khi gợi ý nhà hàng "VN-style sushi" cho khách JP đã ở VN 5 ngày — họ cần **authentic**.
 - Senior thường thích **tonkatsu / unagi / sushi** (món họ tin tưởng). Junior linh hoạt hơn.
@@ -54,7 +54,7 @@ Tháng 11/2026, Matsumoto + Tanaka onsite Hà Nội 5 ngày. Đến ngày 3 — 
 | **ズン** | 「あと**Izakaya Hokkai(居酒屋北海)**は北海道海産メインで、**いくら丼+ホタテバター**あります。**日本人客6割、駐在員家族も多い**ので、ガヤガヤ感も本物です。」 |
 | **田中** | 「ホタテバターって(笑)、北海道感やばい。今夜行こう。」 |
 
-📝 **Pattern host:** mention "東京の○分の1" giá (giá rẻ là điểm hấp dẫn JP onsite, không phải arrogance vì chính khách hỏi).
+📝 **Cách làm của host:** đề cập "東京の○分の1" giá (giá rẻ là điểm hấp dẫn JP onsite, không phải kiêu ngạo vì chính khách hỏi).
 
 ---
 
@@ -73,7 +73,7 @@ Tháng 11/2026, Matsumoto + Tanaka onsite Hà Nội 5 ngày. Đến ngày 3 — 
 | **広島** | 「広島焼きあるんか!?それ絶対行く!」 |
 | **ズン** | 「明日の夜、19時で予約取りますね。」 |
 
-> **VN:** Match audience! Hiroshi = Hiroshima native + senior → 広島焼 thật ở HCM = topic vàng. Anticipate quê khách + book ngay = đẳng cấp host.
+> **VN:** Chọn đúng đối tượng! Hiroshi = Hiroshima native + senior → 広島焼 thật ở HCM = topic vàng. Anticipate quê khách + book ngay = đẳng cấp host.
 
 ---
 
@@ -92,7 +92,7 @@ Tháng 11/2026, Matsumoto + Tanaka onsite Hà Nội 5 ngày. Đến ngày 3 — 
 | **トゥアン** | 「ドレスコードまで気回せるの、さすが。」 |
 | **ズン** | 「お客様に当日"靴脱ぐの?ジャケット要る?"って戸惑わせないように、です。」 |
 
-> **VN:** Deal closing dinner = full host mode. Dress code + room type + chef background pre-brief = professional. Đây là rule 1 strikes-out cho BD.
+> **VN:** Bữa tối chốt hợp đồng = vai trò chủ nhà hoàn chỉnh. Dress code + room type + brief chef background trước = chuyên nghiệp. Đây là lỗi chí mạng cho BD.
 
 ---
 
@@ -123,8 +123,8 @@ Tháng 11/2026, Matsumoto + Tanaka onsite Hà Nội 5 ngày. Đến ngày 3 — 
 ## ⚠ NG — tuyệt đối tránh
 
 - Gợi ý "VN-style sushi" cho khách JP đã 3-5 ngày trong VN → họ cần authentic, không cần fusion.
-- Gợi ý nhà hàng đông tourist nói tiếng Anh tới chef → khách JP awkward.
-- Quên mention price range / dress code → khách shock when bill / outfit sai.
+- Gợi ý nhà hàng đông khách du lịch nói tiếng Anh tới chef → khách JP không thoải mái.
+- Quên đề cập price range / dress code → khách bất ngờ khi tính tiền / mặc sai trang phục.
 - Đặt nhà hàng quá đắt cho casual dinner → ép khách / lãng phí.
 - Quên anticipate "Hiroshima native → 広島焼" / "Hokkaido → ホタテ" → mất cơ hội regional match.
 

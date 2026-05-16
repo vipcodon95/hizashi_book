@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Hamada visit · 11/2026
+## Tình huống 1 — Hamada visit · 11/2026
 
 | Speaker | Lời thoại |
 |---|---|
@@ -18,7 +18,7 @@
 
 ---
 
-## Scene 2 — Praise letter content · 14:00
+## Tình huống 2 — Praise letter content · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -28,7 +28,7 @@
 
 ---
 
-## Scene 3 — Tanaka (嘱託) congratulation · 16:00
+## Tình huống 3 — Tanaka (嘱託) congratulation · 16:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -41,21 +41,21 @@
 
 ---
 
-## Scene 4 — 朝礼 announce · sáng hôm sau
+## Tình huống 4 — 朝礼 announce · sáng hôm sau
 
 | Speaker | Lời thoại |
 |---|---|
 | Kawakami | みなさん、トヨタから<ruby>感謝状<rt>かんしゃじょう</rt></ruby>を<ruby>頂<rt>いただ</rt></ruby>きました！<br>*(Mọi người, chúng ta vừa nhận thư cảm ơn từ Toyota!)* |
-| Cast | （<ruby>大<rt>おお</rt></ruby>きく<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay to.)* |
+| Nhân vật | （<ruby>大<rt>おお</rt></ruby>きく<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay to.)* |
 | Kawakami | タイ<ruby>係長<rt>かかりちょう</rt></ruby>に<ruby>個人<rt>こじん</rt></ruby><ruby>感謝状<rt>かんしゃじょう</rt></ruby>です。<ruby>当社<rt>とうしゃ</rt></ruby><ruby>初<rt>はじ</rt></ruby>めての<ruby>快挙<rt>かいきょ</rt></ruby>です。<br>*(Thư cảm ơn cá nhân gửi tới Trưởng nhóm Thái. Là kỳ tích đầu tiên của công ty ta.)* |
-| Cast | （<ruby>歓声<rt>かんせい</rt></ruby>）<br>*(Hoan hô.)* |
+| Nhân vật | （<ruby>歓声<rt>かんせい</rt></ruby>）<br>*(Hoan hô.)* |
 | Thái | チームの<ruby>5<rt>ご</rt></ruby><ruby>名<rt>めい</rt></ruby>のおかげです。<br>*(Đều là nhờ 5 thành viên trong nhóm ạ.)* |
 | Sakurai | （<ruby>頷<rt>うなず</rt></ruby>く）<br>*(Gật đầu.)* |
 | Long, Hùng, Adi, Yamamoto | （<ruby>嬉<rt>うれ</rt></ruby>しそう）<br>*(Vui ra mặt.)* |
 
 ---
 
-## Scene 5 — Báo Mai · 22:00
+## Tình huống 5 — Báo Mai · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -68,7 +68,7 @@
 
 ---
 
-## Scene 6 — Đêm · 23:00
+## Tình huống 6 — Đêm · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -79,7 +79,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

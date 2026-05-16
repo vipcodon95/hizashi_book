@@ -1,6 +1,6 @@
 # Rule 43 — Câu chào kết thúc / 会議終了の挨拶
 
-> **Luận điểm.** Họp xong cần đóng formally. Câu chuẩn: 「**本日はお時間いただき誠にありがとうございました**」. Cấu trúc: (1) **Cảm ơn time** → (2) **Tóm 1 dòng output** → (3) **Cam kết next** → (4) **Greeting cuối**. Không "じゃあ、お疲れ様でした" thẳng — quá casual với khách Nhật.
+> **Luận điểm.** Họp xong cần đóng một cách trang trọng. Câu chuẩn: 「**本日はお時間いただき誠にありがとうございました**」. Cấu trúc: (1) **Cảm ơn time** → (2) **Tóm 1 dòng output** → (3) **Cam kết next** → (4) **Greeting cuối**. Không "じゃあ、お疲れ様でした" thẳng — quá casual với khách Nhật.
 >
 > 終了挨拶：①時間への感謝 ②本日のアウトプット要約 ③次のコミット ④結びの挨拶。
 >
@@ -23,7 +23,7 @@ Họp định kỳ tháng 4 vừa kết thúc đúng giờ với output rõ ràn
 | **ズン** | 「じゃあ、お疲れ様でした！」 |
 | **大垣** | 「…はい、お疲れ様でした。」 |
 
-**Vì sao xấu:** 「お疲れ様でした」 OK với đồng nghiệp, nhưng với khách Nhật + sau formal meeting → quá casual. Không có thank-you + summary.
+**Vì sao xấu:** 「お疲れ様でした」 OK với đồng nghiệp, nhưng với khách Nhật + sau buổi họp trang trọng → quá casual. Không có lời cảm ơn + phần tóm tắt.
 
 ---
 

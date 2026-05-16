@@ -1,14 +1,14 @@
 # Sách 13 · T11. Quyết định stay/go — Saitama là nhà (留まる選択)
 
-> **Mục tiêu nhân vật:** Hoa formalize quyết định: STAY Saitama. Từ chối Tokyo Foods (Kinoshita). Báo Suzuki + Tanaka. Bàn cast + xin lời khuyên cuối. Cast emotion. Mai khóc. Hoa accept Tanaka offer leader role.
+> **Mục tiêu nhân vật:** Hoa chính thức hoá quyết định: Ở lại Saitama. Từ chối Tokyo Foods (Kinoshita). Báo Suzuki + Tanaka. Bàn cast + xin lời khuyên cuối. Cast emotion. Mai khóc. Hoa nhận lời Tanaka đề xuất vai trò trưởng nhóm.
 
 ## Bối cảnh
 
-Tháng 2/2029. Mẹ về Việt Nam được 1 tuần. Hoa quyết định trong lòng nhưng cần formalize. Deadline Suzuki: cuối tháng 2 phải báo 受入機関. Deadline Tanaka: cuối tháng 2 trả lời leader role. Deadline Kinoshita: 28/2.
+Tháng 2/2029. Mẹ về Việt Nam được 1 tuần. Hoa quyết định trong lòng nhưng cần chính thức hoá. Hạn chót của Suzuki: cuối tháng 2 phải báo 受入機関. Hạn chót của Tanaka: cuối tháng 2 trả lời vai trò trưởng nhóm. Hạn chót của Kinoshita: 28/2.
 
 ---
 
-## Scene 1 — Sáng nhật ký · 6:30 phòng riêng
+## Tình huống 1 — Sáng nhật ký · 6:30 phòng riêng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -25,7 +25,7 @@ Tháng 2/2029. Mẹ về Việt Nam được 1 tuần. Hoa quyết định trong
 
 ---
 
-## Scene 2 — Hỏi Satou (sempai-VN cũ) · 8:00 phòng staff
+## Tình huống 2 — Hỏi Satou (sempai-VN cũ) · 8:00 phòng staff
 
 | Speaker | Lời thoại |
 |---|---|
@@ -47,7 +47,7 @@ Tháng 2/2029. Mẹ về Việt Nam được 1 tuần. Hoa quyết định trong
 
 ---
 
-## Scene 3 — Hỏi Mai+Trang · 12:30 trưa
+## Tình huống 3 — Hỏi Mai+Trang · 12:30 trưa
 
 | Speaker | Lời thoại |
 |---|---|
@@ -70,7 +70,7 @@ Tháng 2/2029. Mẹ về Việt Nam được 1 tuần. Hoa quyết định trong
 
 ---
 
-## Scene 4 — Mai nói thật · 13:00
+## Tình huống 4 — Mai nói thật · 13:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -85,7 +85,7 @@ Tháng 2/2029. Mẹ về Việt Nam được 1 tuần. Hoa quyết định trong
 
 ---
 
-## Scene 5 — Suzuki LINE · 15:00
+## Tình huống 5 — Suzuki LINE · 15:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -99,7 +99,7 @@ Tháng 2/2029. Mẹ về Việt Nam được 1 tuần. Hoa quyết định trong
 
 ---
 
-## Scene 6 — Kimura điện thoại · 19:00 (Tokyo)
+## Tình huống 6 — Kimura điện thoại · 19:00 (Tokyo)
 
 | Speaker | Lời thoại |
 |---|---|
@@ -120,7 +120,7 @@ Tháng 2/2029. Mẹ về Việt Nam được 1 tuần. Hoa quyết định trong
 
 ---
 
-## Scene 7 — Linh LINE call · 21:00
+## Tình huống 7 — Linh LINE call · 21:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -141,7 +141,7 @@ Tháng 2/2029. Mẹ về Việt Nam được 1 tuần. Hoa quyết định trong
 
 ---
 
-## Scene 8 — Sáng đến Suzuki · 14:00 hôm sau, văn phòng
+## Tình huống 8 — Sáng đến Suzuki · 14:00 hôm sau, văn phòng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -160,7 +160,7 @@ Tháng 2/2029. Mẹ về Việt Nam được 1 tuần. Hoa quyết định trong
 
 ---
 
-## Scene 9 — Tanaka offer chính thức · 15:00
+## Tình huống 9 — Tanaka offer chính thức · 15:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -180,7 +180,7 @@ Tháng 2/2029. Mẹ về Việt Nam được 1 tuần. Hoa quyết định trong
 
 ---
 
-## Scene 10 — Tanaka mời ăn cơm · 17:00
+## Tình huống 10 — Tanaka mời ăn cơm · 17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -194,7 +194,7 @@ Tháng 2/2029. Mẹ về Việt Nam được 1 tuần. Hoa quyết định trong
 
 ---
 
-## Scene 11 — Gọi Kinoshita từ chối · 19:00
+## Tình huống 11 — Gọi Kinoshita từ chối · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -213,7 +213,7 @@ Tháng 2/2029. Mẹ về Việt Nam được 1 tuần. Hoa quyết định trong
 
 ---
 
-## Scene 12 — Cơm tối nhà Tanaka · 20:00
+## Tình huống 12 — Cơm tối nhà Tanaka · 20:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -232,7 +232,7 @@ Tháng 2/2029. Mẹ về Việt Nam được 1 tuần. Hoa quyết định trong
 
 ---
 
-## Scene 13 — Báo Mai+Trang · 22:00 phòng staff
+## Tình huống 13 — Báo Mai+Trang · 22:00 phòng staff
 
 | Speaker | Lời thoại |
 |---|---|
@@ -253,7 +253,7 @@ Tháng 2/2029. Mẹ về Việt Nam được 1 tuần. Hoa quyết định trong
 
 ---
 
-## Scene 14 — Đêm nhật ký · 23:00
+## Tình huống 14 — Đêm nhật ký · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -270,7 +270,7 @@ Tháng 2/2029. Mẹ về Việt Nam được 1 tuần. Hoa quyết định trong
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -1,6 +1,6 @@
 # Rule 20 — Đối phó với "高い" / 「高い」への対応
 
-> **Luận điểm.** "高い (đắt)" = signal khách quan tâm, KHÔNG phải reject. Pattern xử lý 3 bước: **(1) Acknowledge** ("ご指摘の点、もっともでございます"), **(2) Reframe** (chuyển từ price sang value/ROI/cost-of-inaction), **(3) Option** (đưa scenario điều chỉnh có trade). Nhảy giảm giá ngay = leak value.
+> **Luận điểm.** "高い (đắt)" = signal khách quan tâm, KHÔNG phải reject. Pattern xử lý 3 bước: **(1) Ghi nhận** ("ご指摘の点、もっともでございます"), **(2) Đổi góc nhìn** (chuyển từ price sang value/ROI/chi phí khi không hành động), **(3) Option** (đưa scenario điều chỉnh có trade). Nhảy giảm giá ngay = rò giá trị.
 >
 > 「高い」は購買意欲のサイン、reject ではない。3ステップ (Acknowledge → Reframe → Option) で対応。即値引きは弱さ暴露。
 >
@@ -25,7 +25,7 @@
 | **中村CFO** | 「…¥16M でも高い。」 |
 | **ズン** | 「では ¥15M…」 |
 
-**Vì sao xấu:** Phản xạ giảm 1.5M trong 5 giây = signal "còn dư địa". CFO sẽ push tiếp xuống ¥13M. Mất 2M+ chỉ vì panic. Không acknowledge, không reframe.
+**Vì sao xấu:** Phản xạ giảm 1.5M trong 5 giây = signal "còn dư địa". CFO sẽ push tiếp xuống ¥13M. Mất 2M+ chỉ vì mất bình tĩnh. Không ghi nhận, không đổi góc nhìn.
 
 ---
 
@@ -42,8 +42,8 @@
 | **中村CFO** | 「(A) の 2 年契約案、社内で持ち帰り検討します。」 |
 
 📝 **Ghi chú:**
-- 【1】**Acknowledge first** — không jump vào defense. Câu "ご指摘の点、もっともでございます" universal.
-- 【2】**Reframe phrase** "別の角度から" — chuyển từ "high price" sang "cost of inaction" / "ROI compare".
+- 【1】**Ghi nhận trước** — không jump vào defense. Câu "ご指摘の点、もっともでございます" universal.
+- 【2】**Câu đổi góc nhìn** "別の角度から" — chuyển từ "high price" sang "chi phí khi không hành động" / "ROI compare".
 - 【3】**Reframe bằng số cụ thể** — 2,400 時間, ¥730K/月, ¥1.2M/月, net +¥470K/月. CFO trust số.
 - 【4】**Option phải 3, không phải 1** — choice architecture. Khách chọn thay vì reject toàn bộ.
 
@@ -53,7 +53,7 @@
 
 > **「『高い』は購買意欲。Acknowledge → Reframe → 3 Option の3拍。即値引きは弱さの暴露。」**
 >
-> *"Đắt" là dấu mua. Acknowledge → Reframe → 3 Option — 3 nhịp. Giảm ngay = phơi bày yếu thế.*
+> *"Đắt" là dấu mua. Ghi nhận → Đổi góc nhìn → 3 Option — 3 nhịp. Giảm ngay = phơi bày yếu thế.*
 
 ---
 
@@ -61,7 +61,7 @@
 
 - 即値引き → leak value, push tiếp
 - Argue lại "高くないですよ" → confrontational, mất 顔
-- Reframe mơ hồ "value があります" → CFO không trust
+- Đổi góc nhìn mơ hồ "value があります" → CFO không trust
 - Đưa 1 option duy nhất → khách chỉ có yes/no
 
 ---

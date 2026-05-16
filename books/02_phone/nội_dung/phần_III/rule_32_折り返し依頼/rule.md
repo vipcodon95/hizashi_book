@@ -1,4 +1,4 @@
-# Rule 32 — Xin gọi lại — folder back template / 折り返しの依頼
+# Rule 32 — Xin gọi lại — mẫu nhờ gọi lại / 折り返しの依頼
 
 > **Luận điểm.** Khi nhờ gọi lại, **đề xuất khung giờ thuận tiện cho đối phương**, không phải mình. Cộng thêm **phương án thay thế** (mail) nếu không tiện.
 >

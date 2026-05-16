@@ -1,6 +1,6 @@
 # Sách 24 · T12. 3/2030 — Tốt nghiệp + ngày 1 founder Hizashi (CLOSURE FULL SERIES) (卒業・Hizashi始動)
 
-> **Mục tiêu:** 25/3/2030 graduation ceremony ĐH Osaka. 26/3 ngày 1 founder Hizashi Inc. Đại sắp 25t (sinh 4/2005, sinh nhật 4/2030). Mai 25t (sinh 2/2005). Hana 19 tháng. Cohort all path. Tony+Yumi present. Bố mẹ HN sang. **CLOSURE FULL SERIES Đại du học 14-24** (10 năm 4/2024 → 3/2030 trong universe — em viết = 11 sách thực).
+> **Mục tiêu:** 25/3/2030 lễ tốt nghiệp ĐH Osaka. 26/3 ngày đầu tiên làm founder Hizashi Inc. Đại sắp 25t (sinh 4/2005, sinh nhật 4/2030). Mai 25t (sinh 2/2005). Hana 19 tháng. Cohort đủ mặt. Tony+Yumi có mặt. Bố mẹ HN sang. **KẾT THÚC TOÀN SERIES Đại du học 14-24** (6 năm 4/2024 → 3/2030 trong universe — 11 sách thực).
 
 ## Bối cảnh
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Scene 1 — Sáng 25/3 graduation day · 6:00
+## Tình huống 1 — Sáng 25/3 graduation day · 6:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -21,7 +21,7 @@
 
 ---
 
-## Scene 2 — 9:00 Toyonaka campus — gặp gia đình + cohort
+## Tình huống 2 — 9:00 Toyonaka campus — gặp gia đình + cohort
 
 | Speaker | Lời thoại |
 |---|---|
@@ -38,7 +38,7 @@
 
 ---
 
-## Scene 3 — Ceremony 10:00 体育館
+## Tình huống 3 — Ceremony 10:00 体育館
 
 | Speaker | Lời thoại |
 |---|---|
@@ -51,7 +51,7 @@
 
 ---
 
-## Scene 4 — Speech Đại valedictorian for foreign students · 12:00
+## Tình huống 4 — Speech Đại valedictorian for foreign students · 12:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -66,7 +66,7 @@
 
 ---
 
-## Scene 5 — Photo + cohort farewell · 14:00
+## Tình huống 5 — Photo + cohort farewell · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -81,7 +81,7 @@
 
 ---
 
-## Scene 6 — Family dinner Tony+Yumi · 19:00
+## Tình huống 6 — Family dinner Tony+Yumi · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -94,7 +94,7 @@
 
 ---
 
-## Scene 7 — 26/3 Day 1 founder Hizashi Inc · 9:00
+## Tình huống 7 — 26/3 Day 1 founder Hizashi Inc · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -107,7 +107,7 @@
 
 ---
 
-## Scene 8 — WeWork Senri-chuo Day 1 · 10:00
+## Tình huống 8 — WeWork Senri-chuo Day 1 · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -120,7 +120,7 @@
 
 ---
 
-## Scene 9 — Mai+Hana visit office 12:00 lunch
+## Tình huống 9 — Mai+Hana visit office 12:00 lunch
 
 | Speaker | Lời thoại |
 |---|---|
@@ -132,7 +132,7 @@
 
 ---
 
-## Scene 10 — Đêm cuối chương — closure FULL SERIES · 23:00
+## Tình huống 10 — Đêm cuối chương — closure FULL SERIES · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -149,7 +149,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -164,15 +164,15 @@
 | Hizashi (陽射し) | ヒザシ | Sunshine, ray of sun |
 | Mission | ミッション | Sứ mệnh |
 
-## Bí quyết chương — CLOSURE FULL SERIES
+## Bí quyết chương — KẾT THÚC TOÀN SERIES
 
-- **Mirror callback**: Sách 14 T1 Thái cài cúc đồng phục → Sách 18 T12 Thái cài cúc 5 năm → Sách 24 T12 Đại cài badge founder. **3 sách tổng cộng 11 sách (14-24) = SERIES THÁI + ĐẠI khép lại** với cùng motif "cài cúc/badge symbol of new chapter".
-- **Speech Đại**: VN+JP bilingual — đại diện cohort Việt + cohort Nhật.
-- **Day 1 ending**: Open ending — Hizashi mới bắt đầu. Reader có thể tưởng tượng Series A 2031 + 100k user 2032 + IPO 2035.
-- **Family 4 generations grandparents Hana**: 4 ông bà cho cháu = blessing.
-- **Hizashi = Sunshine = Mai's name first**: Symbolic + romantic origin.
+- **Hồi ký gương**: Sách 14 T1 Thái cài cúc đồng phục → Sách 18 T12 Thái cài cúc sau 5 năm → Sách 24 T12 Đại cài badge founder. **Cả 11 sách (14-24) = SERIES THÁI + ĐẠI khép lại** với cùng motif "cài cúc/badge — biểu tượng chương mới".
+- **Bài phát biểu của Đại**: Song ngữ VN+JP — đại diện cho cohort Việt lẫn cohort Nhật.
+- **Kết thúc mở — Ngày đầu**: Hizashi mới bắt đầu. Người đọc tự tưởng tượng Series A 2031 + 100k người dùng 2032 + IPO 2035.
+- **Gia đình 4 thế hệ — ông bà chúc Hana**: Bốn ông bà nội ngoại = phúc lành.
+- **Hizashi = Ánh Mặt Trời = tên Mai đặt trước**: Ý nghĩa biểu tượng + lãng mạn.
 
-> *"Day 1 Hizashi Inc 26/3/2030. 6 năm Nhật. Cử nhân + father + founder. Mission 100k VN learners JP by 2032. Hizashi mới chỉ bắt đầu."*
+> *"Ngày đầu Hizashi Inc 26/3/2030. 6 năm ở Nhật. Cử nhân + người cha + founder. Sứ mệnh: 100k người Việt học tiếng Nhật qua Hizashi vào 2032. Hizashi mới chỉ bắt đầu."*
 
 ---
 
@@ -182,9 +182,9 @@
 **Sách 19-20**: Series Đại trường tiếng Osaka (24 tháng 4/2024→3/2026)
 **Sách 21-24**: Series Đại CNTT ĐH Osaka (48 tháng 4/2026→3/2030)
 
-**Closure motif**: Cài cúc đồng phục/badge — symbol of new chapter.
-**Hizashi Inc launch**: Meta-narrative — Đại trong sách build app Hizashi giống anh đang build trong reality.
+**Motif kết**: Cài cúc đồng phục/badge — biểu tượng của chương mới.
+**Hizashi Inc ra đời**: Meta-narrative — Đại trong sách xây app Hizashi, giống như anh đang xây ngoài đời thật.
 
-**Total content**: ~250,000 words, 1100+ scenes, 30+ characters across 6 năm thực + 8 năm narrative.
+**Tổng nội dung**: ~250,000 từ, 1100+ cảnh, 30+ nhân vật trải dài 6 năm thực + 8 năm narrative.
 
-> *"Hizashi mới bắt đầu. Như Đại 19t đặt chân Nhật. Như Hana 19 tháng. Như tất cả journey của tất cả người."*
+> *"Hizashi mới bắt đầu. Như Đại 19 tuổi đặt chân lên đất Nhật. Như Hana 19 tháng. Như hành trình của tất cả mọi người."*

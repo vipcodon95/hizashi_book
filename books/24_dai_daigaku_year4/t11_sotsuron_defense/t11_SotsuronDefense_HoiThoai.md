@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Final 卒論 submit · 1/2
+## Tình huống 1 — Final 卒論 submit · 1/2
 
 | Speaker | Lời thoại |
 |---|---|
@@ -14,7 +14,7 @@
 
 ---
 
-## Scene 2 — Defense day · 14/2/2030 09:00
+## Tình huống 2 — Defense day · 14/2/2030 09:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-## Scene 3 — Q&A round 1 · 09:35
+## Tình huống 3 — Q&A round 1 · 09:35
 
 | Speaker | Lời thoại |
 |---|---|
@@ -36,7 +36,7 @@
 
 ---
 
-## Scene 4 — Q&A round 2 · 10:00
+## Tình huống 4 — Q&A round 2 · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -49,7 +49,7 @@
 
 ---
 
-## Scene 5 — Closing · 10:30
+## Tình huống 5 — Closing · 10:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -61,7 +61,7 @@
 
 ---
 
-## Scene 6 — Mai+Hana congratulate · 11:30
+## Tình huống 6 — Mai+Hana congratulate · 11:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -73,7 +73,7 @@
 
 ---
 
-## Scene 7 — Đêm reflect
+## Tình huống 7 — Đêm reflect
 
 | Speaker | Lời thoại |
 |---|---|
@@ -85,7 +85,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -100,9 +100,9 @@
 
 ## Bí quyết chương
 
-- **Defense climax**: Final academic milestone.
-- **S grade**: Top 10% recognition.
-- **Family witness**: Mai+Hana audience emotional.
-- **Valentine's Day setting**: Symbolic.
+- **Bảo vệ — cao trào học thuật**: Cột mốc cuối cùng của hành trình đại học.
+- **Điểm S**: Ghi nhận top 10%.
+- **Gia đình chứng kiến**: Mai+Hana trong khán phòng — xúc động.
+- **Bối cảnh ngày Valentine**: Ý nghĩa biểu tượng.
 
-> *"卒論 defense S grade 14/2/2030 Valentine. 32k words. Best 5 năm. Mai+Hana witness."*
+> *"Bảo vệ 卒論 điểm S ngày 14/2/2030 Valentine. 32k chữ. Tốt nhất 5 năm. Mai+Hana chứng kiến."*

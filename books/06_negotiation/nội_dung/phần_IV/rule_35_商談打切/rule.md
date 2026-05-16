@@ -1,6 +1,6 @@
 # Rule 35 — Negotiation walk-away gracefully / 商談打ち切り
 
-> **Luận điểm.** Khi terms không thể bridge → walk away. KHÔNG nói 「お断りします」 cứng. Câu chuẩn: 「**条件面で折り合いがつかず、今回は誠に残念ながら見送りとさせていただきます**」 + 「**ご縁がございましたら**」 maintain relationship door. JP business: relationship dài hạn quan trọng hơn deal đơn lẻ — walk away phong nhã = next opportunity.
+> **Luận điểm.** Khi terms không thể thỏa thuận được → walk away. KHÔNG nói 「お断りします」 cứng. Câu chuẩn: 「**条件面で折り合いがつかず、今回は誠に残念ながら見送りとさせていただきます**」 + 「**ご縁がございましたら**」 maintain relationship door. JP business: relationship dài hạn quan trọng hơn deal đơn lẻ — walk away phong nhã = next opportunity.
 >
 > 条件 bridge 不可で打ち切る場合、「お断り」 cứng は relationship 切断。「条件面で折り合いがつかず」+「ご縁がございましたら」で dignity 保持し関係維持。
 >
@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Phase 3 round 4: 大垣 push final ¥14M (dưới walk-away ¥15M của Hà CTO). Dũng đã trade scope, ROI reframe — không bridge được. Phải walk-away phong nhã, giữ door cho Phase 4 năm sau.
+Phase 3 round 4: 大垣 push final ¥14M (dưới walk-away ¥15M của Hà CTO). Dũng đã trade scope, đổi góc nhìn ROI — không tìm được điểm chung. Phải walk-away phong nhã, giữ door cho Phase 4 năm sau.
 
 ---
 
@@ -74,7 +74,7 @@ Phase 3 round 4: 大垣 push final ¥14M (dưới walk-away ¥15M của Hà CTO)
 | 漢字 / Tiếng Nhật | よみ | Nghĩa |
 |------|------|-------|
 | 打ち切り | うちきり | Hủy, dừng |
-| 折り合いがつかず | おりあいがつかず | Không bridge được điều kiện |
+| 折り合いがつかず | おりあいがつかず | Không khớp được điều kiện |
 | 見送り | みおくり | Tạm hoãn / không tiến hành |
 | 原価構造 | げんかこうぞう | Cấu trúc giá thành |
 | ご縁 | ごえん | Duyên / connection |

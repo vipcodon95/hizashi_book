@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Hana đi chập chững · 5/6/2029
+## Tình huống 1 — Hana đi chập chững · 5/6/2029
 
 | Speaker | Lời thoại |
 |---|---|
@@ -15,7 +15,7 @@
 
 ---
 
-## Scene 2 — Mai future discussion · 10/6 weekend
+## Tình huống 2 — Mai future discussion · 10/6 weekend
 
 | Speaker | Lời thoại |
 |---|---|
@@ -30,7 +30,7 @@
 
 ---
 
-## Scene 3 — Linh-Anh cưới Sato announce · 15/6
+## Tình huống 3 — Linh-Anh cưới Sato announce · 15/6
 
 | Speaker | Lời thoại |
 |---|---|
@@ -43,7 +43,7 @@
 
 ---
 
-## Scene 4 — Linh-Anh wedding Nagoya · 25/7
+## Tình huống 4 — Linh-Anh wedding Nagoya · 25/7
 
 | Speaker | Lời thoại |
 |---|---|
@@ -57,7 +57,7 @@
 
 ---
 
-## Scene 5 — Đêm reflect
+## Tình huống 5 — Đêm reflect
 
 | Speaker | Lời thoại |
 |---|---|
@@ -67,7 +67,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -79,8 +79,8 @@
 
 ## Bí quyết chương
 
-- **Hana growing**: Family thread.
-- **Mai future plan**: Aligned với Hizashi.
-- **Linh-Anh wedding**: Family expanding 3-gen Việt-Nhật.
+- **Hana lớn lên**: Sợi chỉ gia đình xuyên suốt.
+- **Kế hoạch tương lai của Mai**: Phù hợp với hướng đi của Hizashi.
+- **Đám cưới Linh-Anh**: Gia đình mở rộng — 3 thế hệ Việt-Nhật.
 
-> *"Hana 10 tháng đi. Mai plan 5 năm Nhật → VN. Linh-Anh cưới Sato Nagoya. Family aligned."*
+> *"Hana 10 tháng biết đi. Mai dự tính 5 năm ở Nhật → về VN. Linh-Anh cưới Sato tại Nagoya. Gia đình đồng thuận."*

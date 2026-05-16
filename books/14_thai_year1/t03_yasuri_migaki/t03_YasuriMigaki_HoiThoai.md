@@ -8,7 +8,7 @@ Tuần 2-3/5/2022. Thái ngồi bàn 仕上げ với 1 phôi practice (NAK80, 10
 
 ---
 
-## Scene 1 — Suzuki giao phôi · 8:45 phòng 仕上げ
+## Tình huống 1 — Suzuki giao phôi · 8:45 phòng 仕上げ
 
 | Speaker | Lời thoại |
 |---|---|
@@ -24,7 +24,7 @@ Tuần 2-3/5/2022. Thái ngồi bàn 仕上げ với 1 phôi practice (NAK80, 10
 
 ---
 
-## Scene 2 — Suzuki demo cấp 1 · 9:00
+## Tình huống 2 — Suzuki demo cấp 1 · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -41,7 +41,7 @@ Tuần 2-3/5/2022. Thái ngồi bàn 仕上げ với 1 phôi practice (NAK80, 10
 
 ---
 
-## Scene 3 — Thái thử cấp 1 · 10:00
+## Tình huống 3 — Thái thử cấp 1 · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -56,7 +56,7 @@ Tuần 2-3/5/2022. Thái ngồi bàn 仕上げ với 1 phôi practice (NAK80, 10
 
 ---
 
-## Scene 4 — Thái rush · 14:00 chiều
+## Tình huống 4 — Thái rush · 14:00 chiều
 
 | Speaker | Lời thoại |
 |---|---|
@@ -70,7 +70,7 @@ Tuần 2-3/5/2022. Thái ngồi bàn 仕上げ với 1 phôi practice (NAK80, 10
 
 ---
 
-## Scene 5 — Defect lộ ra · 16:30
+## Tình huống 5 — Defect lộ ra · 16:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -87,7 +87,7 @@ Tuần 2-3/5/2022. Thái ngồi bàn 仕上げ với 1 phôi practice (NAK80, 10
 
 ---
 
-## Scene 6 — Suzuki mắng · 16:45
+## Tình huống 6 — Suzuki mắng · 16:45
 
 | Speaker | Lời thoại |
 |---|---|
@@ -103,7 +103,7 @@ Tuần 2-3/5/2022. Thái ngồi bàn 仕上げ với 1 phôi practice (NAK80, 10
 
 ---
 
-## Scene 7 — Putra an ủi · 19:00 ký túc
+## Tình huống 7 — Putra an ủi · 19:00 ký túc
 
 | Speaker | Lời thoại |
 |---|---|
@@ -119,7 +119,7 @@ Tuần 2-3/5/2022. Thái ngồi bàn 仕上げ với 1 phôi practice (NAK80, 10
 
 ---
 
-## Scene 8 — Đêm nhật ký + Mai LINE · 22:00
+## Tình huống 8 — Đêm nhật ký + Mai LINE · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -136,7 +136,7 @@ Tuần 2-3/5/2022. Thái ngồi bàn 仕上げ với 1 phôi practice (NAK80, 10
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -106,8 +106,8 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 
 | Cấp | Tiếng Nhật | Khi dùng |
 |---|---|---|
-| Casual | ありがとう | Bạn |
-| Polite | ありがとうございます | Đồng nghiệp |
+| Thân mật | ありがとう | Bạn |
+| Lịch sự | ありがとうございます | Đồng nghiệp |
 | Formal | <ruby>誠<rt>まこと</rt></ruby>にありがとうございます | Khách / sếp |
 | Super formal | <ruby>心<rt>こころ</rt></ruby>より<ruby>感謝<rt>かんしゃ</rt></ruby><ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます | Speech, thư cảm ơn |
 
@@ -127,7 +127,7 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 
 ### 5.1 Bảng đầy đủ
 
-| Cảm xúc | Casual | Polite |
+| Cảm xúc | Thân mật | Lịch sự |
 |---|---|---|
 | Vui | <ruby>嬉<rt>うれ</rt></ruby>しい | <ruby>嬉<rt>うれ</rt></ruby>しいです |
 | Thích | <ruby>好<rt>す</rt></ruby>き | <ruby>好<rt>す</rt></ruby>きです |

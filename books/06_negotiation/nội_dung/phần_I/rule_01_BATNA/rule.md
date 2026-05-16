@@ -1,6 +1,6 @@
 # Rule 01 — BATNA: Phương án thay thế tốt nhất / BATNA — 交渉決裂時の代替案
 
-> **Luận điểm.** Vào đàm phán mà KHÔNG có **BATNA** (Best Alternative To Negotiated Agreement) = vào với 0 leverage. Khách Nhật cảm nhận được người không có "lựa chọn khác" qua tone giọng → push hard. Định nghĩa BATNA cụ thể TRƯỚC khi vào phòng đàm phán: con số, thời điểm, đối tác thay thế.
+> **Luận điểm.** Vào đàm phán mà KHÔNG có **BATNA** (Best Alternative To Negotiated Agreement) = vào với 0 đòn bẩy. Khách Nhật cảm nhận được người không có "lựa chọn khác" qua giọng nói → push hard. Định nghĩa BATNA cụ thể TRƯỚC khi vào phòng đàm phán: con số, thời điểm, đối tác thay thế.
 >
 > 交渉に入る前に **BATNA**(交渉決裂時の代替案) を必ず数値化する。曖昧なBATNAを持って交渉に入ると、相手はこちらに代替案がないことを声色で察知し、攻めに転じる。
 >
@@ -43,7 +43,7 @@ Tháng 5/2026, Phase 3 với 白鷗 vào round đàm phán giá lần 1. Anh Hà
 
 📝 **Ghi chú:**
 - 【1】**「BATNA 3 シナリオ」** — A (deal as-is), B (counter-offer prepared), C (walk-away). Mỗi scenario phải có **con số + điều kiện + người đã approve**.
-- 【2】**シナリオB phải có internal financial validation** — không chỉ "cảm giác". Profit margin maintained ≥ 20% là internal threshold.
+- 【2】**シナリオB phải có xác thực tài chính nội bộ** — không chỉ "cảm giác". Profit margin maintained ≥ 20% là internal threshold.
 - 【3】**シナリオC walk-away cần real alternative** — không phải bluff. X 社 MoU thật → Dũng vào phòng với confidence.
 
 ---

@@ -1,14 +1,14 @@
-# Sách 18 · T12. 5 năm closure — Bonenkai cuối + open SSW2 prep (5年閉幕)
+# Sách 18 · T12. Tổng kết 5 năm — Bonenkai cuối + chuẩn bị SSW2 (5年閉幕)
 
-> **Mục tiêu:** 3/2027 cuối. Bonenkai năm 5. Cast đầy đủ. Thái speech 5 năm: cảm ơn → phản tỉnh → mục tiêu 課長/工場長/SSW2/永住. Mai có mặt. Tanaka đậm tay tặng cuốn 設計手帳 thứ 5 (cuốn cuối series). Cuối: Thái cài cúc đồng phục mới (係長 badge gold).
+> **Mục tiêu:** 3/2027 cuối. Bonenkai năm 5. Mọi người đủ mặt. Thái speech 5 năm: cảm ơn → phản tỉnh → mục tiêu 課長/工場長/SSW2/永住. Mai có mặt. Tanaka đậm tay tặng cuốn 設計手帳 thứ 5 (cuốn cuối series). Cuối: Thái cài cúc đồng phục mới (係長 badge gold).
 
 ## Bối cảnh
 
-3/2027 cuối tháng. 60 tháng từ 5/2022. Thái 28 tuổi, 設計係長 1 năm, có Mai vợ, apartment 1LDK Anjo. Bonenkai năm 5 izakaya quen. Cast đầy: Tanaka (嘱託), vợ Tanaka, Kawakami (工場長), Sakurai, Long, Hùng, Adi, Yamamoto + Linh-chị + Linh-Anh + Mai. Putra (LINE từ Jakarta) + Marco (LINE từ Manila) + Suzuki (LINE).
+3/2027 cuối tháng. 60 tháng từ 5/2022. Thái 28 tuổi, 設計係長 1 năm, có Mai vợ, căn hộ 1LDK Anjo. Bonenkai năm 5 izakaya quen. Mọi người đủ mặt: Tanaka (嘱託), vợ Tanaka, Kawakami (工場長), Sakurai, Long, Hùng, Adi, Yamamoto + Linh-chị + Linh-Anh + Mai. Putra (LINE từ Jakarta) + Marco (LINE từ Manila) + Suzuki (LINE).
 
 ---
 
-## Scene 1 — Sáng cuối TTS · 6:30 apartment
+## Tình huống 1 — Sáng cuối TTS · 6:30 căn hộ
 
 | Speaker | Lời thoại |
 |---|---|
@@ -22,7 +22,7 @@
 
 ---
 
-## Scene 2 — Đồng phục · 7:00
+## Tình huống 2 — Đồng phục · 7:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -34,7 +34,7 @@
 
 ---
 
-## Scene 3 — Apartment goodbye TTS contract · 8:00
+## Tình huống 3 — Căn hộ · tạm biệt hợp đồng TTS · 8:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -46,7 +46,7 @@
 
 ---
 
-## Scene 4 — Đến izakaya · 18:00
+## Tình huống 4 — Đến izakaya · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -59,7 +59,7 @@
 
 ---
 
-## Scene 5 — Linh-chị + Linh-Anh + Mai trio · 18:30
+## Tình huống 5 — Linh-chị + Linh-Anh + Mai trio · 18:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -71,7 +71,7 @@
 
 ---
 
-## Scene 6 — Putra + Marco + Suzuki video · 19:00
+## Tình huống 6 — Putra + Marco + Suzuki video · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -86,7 +86,7 @@
 
 ---
 
-## Scene 7 — Thái speech 5 năm · 20:00
+## Tình huống 7 — Thái speech 5 năm · 20:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -111,7 +111,7 @@
 
 ---
 
-## Scene 8 — Tanaka tặng cuốn 設計手帳 thứ 5 · 21:00
+## Tình huống 8 — Tanaka tặng cuốn 設計手帳 thứ 5 · 21:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -128,7 +128,7 @@
 
 ---
 
-## Scene 9 — Sáng 1/4/2027 — đầu năm 6 · 6:30 apartment
+## Tình huống 9 — Sáng 1/4/2027 — đầu năm 6 · 6:30 căn hộ
 
 | Speaker | Lời thoại |
 |---|---|
@@ -151,7 +151,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

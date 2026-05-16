@@ -11,7 +11,7 @@
 
 ---
 
-## Scene 1 — Demo Thanh Hà Honmachi office · 10:00
+## Tình huống 1 — Demo Thanh Hà Honmachi office · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -24,7 +24,7 @@
 
 ---
 
-## Scene 2 — Demo enterprise dashboard · 10:30
+## Tình huống 2 — Demo enterprise dashboard · 10:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -36,7 +36,7 @@
 
 ---
 
-## Scene 3 — Pricing negotiation · 11:30
+## Tình huống 3 — Pricing negotiation · 11:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -49,7 +49,7 @@
 
 ---
 
-## Scene 4 — Sign contract + champagne · 12:30
+## Tình huống 4 — Sign contract + champagne · 12:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -62,7 +62,7 @@
 
 ---
 
-## Scene 5 — Mai 12-week ultrasound · Senri-chuo Maternity 14:00
+## Tình huống 5 — Mai 12-week ultrasound · Senri-chuo Maternity 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -82,7 +82,7 @@
 
 ---
 
-## Scene 6 — Báo Hana về em trai · Tối 19:00 nhà
+## Tình huống 6 — Báo Hana về em trai · Tối 19:00 nhà
 
 | Speaker | Lời thoại |
 |---|---|
@@ -99,7 +99,7 @@
 
 ---
 
-## Scene 7 — Đêm reflect · 22:00
+## Tình huống 7 — Đêm reflect · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -111,7 +111,7 @@
 
 ---
 
-## Scene 8 — Cofounder dinner ăn mừng · Cuối tuần
+## Tình huống 8 — Cofounder dinner ăn mừng · Cuối tuần
 
 | Speaker | Lời thoại |
 |---|---|
@@ -125,31 +125,31 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
-| 業務提携 | ぎょうむていけい | Business partnership |
-| 契約書 | けいやくしょ | Contract document |
-| 年契約 | ねんけいやく | Year contract |
-| 前払い | まえばらい | Pre-payment |
-| 割引 | わりびき | Discount |
-| ARR | エーアールアール | Annual Recurring Revenue |
-| ダッシュボード | ダッシュボード | Dashboard |
-| 業界用語集 | ぎょうかいようごしゅう | Industry glossary |
-| カスタマイズ | カスタマイズ | Customization |
-| 男の子 | おとこのこ | Boy |
-| 性別 | せいべつ | Gender |
-| 予定日 | よていび | Due date |
-| 第二子 | だいにし | Second child |
+| 業務提携 | ぎょうむていけい | Hợp tác kinh doanh |
+| 契約書 | けいやくしょ | Hợp đồng |
+| 年契約 | ねんけいやく | Hợp đồng theo năm |
+| 前払い | まえばらい | Trả trước |
+| 割引 | わりびき | Chiết khấu |
+| ARR | エーアールアール | Doanh thu định kỳ hàng năm |
+| ダッシュボード | ダッシュボード | Bảng điều khiển |
+| 業界用語集 | ぎょうかいようごしゅう | Bộ thuật ngữ chuyên ngành |
+| カスタマイズ | カスタマイズ | Tuỳ chỉnh |
+| 男の子 | おとこのこ | Bé trai |
+| 性別 | せいべつ | Giới tính |
+| 予定日 | よていび | Ngày dự sinh |
+| 第二子 | だいにし | Con thứ hai |
 
 ## Bí quyết chương
 
-- **First B2B contract sign on demo day** = unusually fast (Takahashi-san trust + warm relationship)
-- **Year contract 10% discount + pre-payment** = standard SaaS B2B incentive
-- **Industry glossary customization** = key Enterprise differentiator
-- **¥45k/m × 30 dev = ¥486k/year × discount = ¥486k** (Thanh Hà specific math)
-- **12-week ultrasound = first time gender confirm** Japan standard
-- **Tên Đông cho bé trai** = season + cultural meaning Vietnamese
+- **Ký hợp đồng B2B đầu tiên ngay ngày demo** = hiếm gặp (niềm tin từ Takahashi-san + quan hệ gắn bó)
+- **Hợp đồng năm, giảm 10% + trả trước** = ưu đãi chuẩn SaaS B2B
+- **Tuỳ chỉnh bộ thuật ngữ chuyên ngành** = điểm khác biệt then chốt của gói Enterprise
+- **¥45k/tháng × 30 dev = ¥486k/năm sau giảm giá** (phép tính riêng của Thanh Hà)
+- **Siêu âm 12 tuần = lần đầu xác định giới tính** — thông lệ Nhật Bản
+- **Tên Đông cho bé trai** = mùa đông + ý nghĩa văn hóa Việt Nam
 
-> *"First B2B sign Thanh Hà Enterprise ¥486k/year. Mai 12w siêu âm bé TRAI. Tên Đông. Hana sẽ làm chị lớn. Cofounder dinner ăn mừng. Cuộc đời 26t đẹp ghê."*
+> *"Ký B2B đầu tiên Thanh Hà Enterprise ¥486k/năm. Mai 12w siêu âm bé TRAI. Tên Đông. Hana sẽ làm chị lớn. Bữa tối ăn mừng cùng cofounder. Cuộc đời 26t đẹp ghê."*

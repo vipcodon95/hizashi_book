@@ -18,7 +18,7 @@
 | 誤字 | ごじ | Lỗi typo | rule_01 |
 | ご一行 | ごいっこう | Đoàn (formal) | rule_01 |
 | 印刷 | いんさつ | In ấn | rule_01 |
-| ダブルチェック | daburu chekku | Double check | rule_01 |
+| ダブルチェック | daburu chekku | Kiểm tra hai lượt | rule_01 |
 | 頂戴いたします | ちょうだいいたします | Xin nhận (kính ngữ khi nhận đồ) | rule_02 |
 | 受け取る | うけとる | Nhận | rule_02 |
 | 両手 | りょうて | Hai tay | rule_02 |

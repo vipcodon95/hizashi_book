@@ -40,7 +40,7 @@ Sau khi giới thiệu người tham dự + agenda, em Dũng phân vai. Tự xá
 
 📝 **Ghi chú:**
 - 【1】**「役割をご確認させていただきます」** — câu transition lịch sự. 「ご確認」 dùng được vì 確認 là về thông tin chung, không phải own action.
-- 【2】**「本日中にドラフトを共有」** — commit timeline cho biên bản (link rule 45). Khách Nhật đặc biệt thích vì biết được "khi nào nhận biên bản".
+- 【2】**「本日中にドラフトを共有」** — cam kết thời hạn cho biên bản (link rule 45). Khách Nhật đặc biệt thích vì biết được "khi nào nhận biên bản".
 
 ---
 
@@ -66,7 +66,7 @@ Sau khi giới thiệu người tham dự + agenda, em Dũng phân vai. Tự xá
 ## ⚠ Tránh
 
 - Chủ trì + người ghi biên bản cùng 1 người → chủ trì phải tập trung điều phối, không kịp ghi.
-- 書記 là junior chưa từng viết biên bản → biên bản missing key decisions.
+- 書記 là nhân viên trẻ chưa từng viết biên bản → biên bản thiếu các quyết định quan trọng.
 - Không công bố 書記 trước議題 → khách hoang mang.
 - 書記 ghi tay thay vì laptop → không kịp tốc độ họp.
 

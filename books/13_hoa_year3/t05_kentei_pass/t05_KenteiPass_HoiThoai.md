@@ -8,7 +8,7 @@ Tháng 8/2028. Saitama nóng đỉnh điểm 36°C. Tanaka đã đăng ký cho H
 
 ---
 
-## Scene 1 — Sáng thi · 6:00 phòng staff
+## Tình huống 1 — Sáng thi · 6:00 phòng staff
 
 | Speaker | Lời thoại |
 |---|---|
@@ -22,7 +22,7 @@ Tháng 8/2028. Saitama nóng đỉnh điểm 36°C. Tanaka đã đăng ký cho H
 
 ---
 
-## Scene 2 — Suzuki dặn dò · 6:30 văn phòng
+## Tình huống 2 — Suzuki dặn dò · 6:30 văn phòng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -39,7 +39,7 @@ Tháng 8/2028. Saitama nóng đỉnh điểm 36°C. Tanaka đã đăng ký cho H
 
 ---
 
-## Scene 3 — Examiner đến · 8:00 cổng
+## Tình huống 3 — Examiner đến · 8:00 cổng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -53,7 +53,7 @@ Tháng 8/2028. Saitama nóng đỉnh điểm 36°C. Tanaka đã đăng ký cho H
 
 ---
 
-## Scene 4 — Mục 1 cân nguyên liệu · 8:30 line A
+## Tình huống 4 — Mục 1 cân nguyên liệu · 8:30 line A
 
 | Speaker | Lời thoại |
 |---|---|
@@ -69,7 +69,7 @@ Tháng 8/2028. Saitama nóng đỉnh điểm 36°C. Tanaka đã đăng ký cho H
 
 ---
 
-## Scene 5 — Mục 2 đóng gói · 9:30 line đóng gói
+## Tình huống 5 — Mục 2 đóng gói · 9:30 line đóng gói
 
 | Speaker | Lời thoại |
 |---|---|
@@ -85,7 +85,7 @@ Tháng 8/2028. Saitama nóng đỉnh điểm 36°C. Tanaka đã đăng ký cho H
 
 ---
 
-## Scene 6 — Mục 3 ghi chép vệ sinh · 10:30 phòng QC
+## Tình huống 6 — Mục 3 ghi chép vệ sinh · 10:30 phòng QC
 
 | Speaker | Lời thoại |
 |---|---|
@@ -100,7 +100,7 @@ Tháng 8/2028. Saitama nóng đỉnh điểm 36°C. Tanaka đã đăng ký cho H
 
 ---
 
-## Scene 7 — Câu hỏi miệng · 11:00 phòng QC
+## Tình huống 7 — Câu hỏi miệng · 11:00 phòng QC
 
 | Speaker | Lời thoại |
 |---|---|
@@ -122,7 +122,7 @@ Tháng 8/2028. Saitama nóng đỉnh điểm 36°C. Tanaka đã đăng ký cho H
 
 ---
 
-## Scene 8 — Mai cổ vũ · 12:00 phòng staff trưa
+## Tình huống 8 — Mai cổ vũ · 12:00 phòng staff trưa
 
 | Speaker | Lời thoại |
 |---|---|
@@ -139,7 +139,7 @@ Tháng 8/2028. Saitama nóng đỉnh điểm 36°C. Tanaka đã đăng ký cho H
 
 ---
 
-## Scene 9 — Examiner phản hồi · 13:00 phòng họp
+## Tình huống 9 — Examiner phản hồi · 13:00 phòng họp
 
 | Speaker | Lời thoại |
 |---|---|
@@ -159,7 +159,7 @@ Tháng 8/2028. Saitama nóng đỉnh điểm 36°C. Tanaka đã đăng ký cho H
 
 ---
 
-## Scene 10 — Tanaka biết kết quả sơ bộ · 14:00 văn phòng
+## Tình huống 10 — Tanaka biết kết quả sơ bộ · 14:00 văn phòng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -175,7 +175,7 @@ Tháng 8/2028. Saitama nóng đỉnh điểm 36°C. Tanaka đã đăng ký cho H
 
 ---
 
-## Scene 11 — Suzuki + Tanaka khen Hoa · 15:00 văn phòng
+## Tình huống 11 — Suzuki + Tanaka khen Hoa · 15:00 văn phòng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -191,7 +191,7 @@ Tháng 8/2028. Saitama nóng đỉnh điểm 36°C. Tanaka đã đăng ký cho H
 
 ---
 
-## Scene 12 — LINE báo Linh + Andi · 18:00 ký túc
+## Tình huống 12 — LINE báo Linh + Andi · 18:00 ký túc
 
 | Speaker | Lời thoại |
 |---|---|
@@ -207,7 +207,7 @@ Tháng 8/2028. Saitama nóng đỉnh điểm 36°C. Tanaka đã đăng ký cho H
 
 ---
 
-## Scene 13 — Mẹ điện thoại · 20:00 phòng riêng
+## Tình huống 13 — Mẹ điện thoại · 20:00 phòng riêng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -225,7 +225,7 @@ Tháng 8/2028. Saitama nóng đỉnh điểm 36°C. Tanaka đã đăng ký cho H
 
 ---
 
-## Scene 14 — Đêm nhật ký · 22:00 phòng riêng
+## Tình huống 14 — Đêm nhật ký · 22:00 phòng riêng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -239,7 +239,7 @@ Tháng 8/2028. Saitama nóng đỉnh điểm 36°C. Tanaka đã đăng ký cho H
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -260,6 +260,6 @@ Tháng 8/2028. Saitama nóng đỉnh điểm 36°C. Tanaka đã đăng ký cho H
 - **Ghi chép = điểm thưởng**: Examiner khen "ghi chép cao hơn 3級". Hoa làm việc thật — không học để thi.
 - **Khuyên thi 2級 cao hơn**: Examiner mở cửa cho Hoa vượt cấp. Hoa khôn ngoan: chưa quyết, ưu tiên SSW1.
 - **Mẹ qua thăm**: Setup cho T10 — climax emotional cao nhất sách 13.
-- **Bandura**: Mai quan sát Hoa thi → năm sau Mai sẽ thi tự tin hơn vì có "model" gần.
+- **Bandura**: Mai quan sát Hoa thi → năm sau Mai sẽ thi tự tin hơn vì có "hình mẫu" gần.
 
 > *"良好修了。Đây không chỉ là 1 chữ trong giấy. Đây là 3 năm sống thật ở Nhật."*

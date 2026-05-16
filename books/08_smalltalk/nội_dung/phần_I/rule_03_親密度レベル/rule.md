@@ -16,7 +16,7 @@
 
 5 cấp độ với 4 topic clusters cho từng cấp:
 
-| Level | Mức quan hệ | Topic an toàn | Ví dụ khách |
+| Cấp | Mức quan hệ | Topic an toàn | Ví dụ khách |
 |-------|-------------|--------------|-------------|
 | **L1** | Mới gặp / formal | 天気・移動・季節 | 大垣 lần đầu |
 | **L2** | Đã làm việc 1-2 dự án | + 出身地・食・観光 | 松本 (đã 1 năm) |
@@ -57,7 +57,7 @@
 
 📝【1】 L2 = đã được khách share quê 1 lần trước → mình reference + mở rộng. KHÔNG nhảy thẳng vào "ご家族は?" — chưa đến cấp.
 
-> **VN:** Ở L2, "thức ăn của quê" là topic gold. Sau khi mở được, khách thường tự nguyện mời mình lần sau cùng đi ăn → leo lên L3.
+> **VN:** Ở L2, "thức ăn của quê" là chủ đề vàng. Sau khi mở được, khách thường tự nguyện mời mình lần sau cùng đi ăn → leo lên L3.
 
 ---
 

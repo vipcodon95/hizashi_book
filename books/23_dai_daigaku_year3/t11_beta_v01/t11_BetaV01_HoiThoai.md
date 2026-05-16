@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Sprint 1: Backend + DB · 5-15/1
+## Tình huống 1 — Sprint 1: Backend + DB · 5-15/1
 
 | Speaker | Lời thoại |
 |---|---|
@@ -17,7 +17,7 @@
 
 ---
 
-## Scene 2 — Sprint 2: Mobile Flutter · 20/1-5/2
+## Tình huống 2 — Sprint 2: Mobile Flutter · 20/1-5/2
 
 | Speaker | Lời thoại |
 |---|---|
@@ -28,7 +28,7 @@
 
 ---
 
-## Scene 3 — Sprint 3: AI tutor + RAG · 10-20/2
+## Tình huống 3 — Sprint 3: AI tutor + RAG · 10-20/2
 
 | Speaker | Lời thoại |
 |---|---|
@@ -37,7 +37,7 @@
 
 ---
 
-## Scene 4 — Beta launch · 25/2
+## Tình huống 4 — Beta launch · 25/2
 
 | Speaker | Lời thoại |
 |---|---|
@@ -48,7 +48,7 @@
 
 ---
 
-## Scene 5 — Iteration weeks 1-4 · 25/2-25/3
+## Tình huống 5 — Iteration weeks 1-4 · 25/2-25/3
 
 | Speaker | Lời thoại |
 |---|---|
@@ -58,7 +58,7 @@
 
 ---
 
-## Scene 6 — Đêm reflect · 30/3
+## Tình huống 6 — Đêm reflect · 30/3
 
 | Speaker | Lời thoại |
 |---|---|
@@ -70,7 +70,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -10,7 +10,7 @@
 
 ---
 
-## Scene 1 — Why Flutter · 9:00
+## Tình huống 1 — Why Flutter · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -22,7 +22,7 @@
 
 ---
 
-## Scene 2 — Dart language intro
+## Tình huống 2 — Dart language intro
 
 | Speaker | Lời thoại |
 |---|---|
@@ -32,7 +32,7 @@
 
 ---
 
-## Scene 3 — First Flutter app · counter
+## Tình huống 3 — First Flutter app · counter
 
 | Speaker | Lời thoại |
 |---|---|
@@ -44,7 +44,7 @@
 
 ---
 
-## Scene 4 — Mai vocabulary tracker app · weekend project
+## Tình huống 4 — Mai vocabulary tracker app · weekend project
 
 | Speaker | Lời thoại |
 |---|---|
@@ -55,7 +55,7 @@
 
 ---
 
-## Scene 5 — Mai dùng app + feedback
+## Tình huống 5 — Mai dùng app + feedback
 
 | Speaker | Lời thoại |
 |---|---|
@@ -67,7 +67,7 @@
 
 ---
 
-## Scene 6 — Đêm reflect
+## Tình huống 6 — Đêm reflect
 
 | Speaker | Lời thoại |
 |---|---|
@@ -78,7 +78,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

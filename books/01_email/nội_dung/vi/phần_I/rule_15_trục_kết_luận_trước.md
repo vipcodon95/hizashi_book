@@ -1,6 +1,6 @@
 # Rule 15 — Thân mail đi theo trục Kết luận → Lý do → Chi tiết, không ngược lại
 
-> **Luận điểm.** Khi viết báo chí có khái niệm **"kim tự tháp ngược"** (*inverted pyramid*): đưa thông tin quan trọng nhất lên đầu, thông tin bổ sung xuống đuôi. Email chuyên nghiệp đi theo đúng logic đó — **Kết luận trước, Lý do giữa, Chi tiết cuối**. Người bận đọc đến đâu cũng đủ hiểu để hành động.
+> **Luận điểm.** Khi viết báo chí có khái niệm **"kim tự tháp ngược"**: đưa thông tin quan trọng nhất lên đầu, thông tin bổ sung xuống đuôi. Email chuyên nghiệp đi theo đúng logic đó — **Kết luận trước, Lý do giữa, Chi tiết cuối**. Người bận đọc đến đâu cũng đủ hiểu để hành động.
 >
 > Từ khóa của rule này: **"kim tự tháp ngược"**.
 

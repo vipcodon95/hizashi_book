@@ -10,7 +10,7 @@
 
 ---
 
-## Scene 1 — Project assigned · 11/11
+## Tình huống 1 — Project assigned · 11/11
 
 | Speaker | Lời thoại |
 |---|---|
@@ -19,7 +19,7 @@
 
 ---
 
-## Scene 2 — Brainstorm + spec · 12/11
+## Tình huống 2 — Brainstorm + spec · 12/11
 
 | Speaker | Lời thoại |
 |---|---|
@@ -35,7 +35,7 @@
 
 ---
 
-## Scene 3 — Architecture + sprint plan · 14/11
+## Tình huống 3 — Architecture + sprint plan · 14/11
 
 | Speaker | Lời thoại |
 |---|---|
@@ -50,7 +50,7 @@
 
 ---
 
-## Scene 4 — Daily standup + crisis · 25/11
+## Tình huống 4 — Daily standup + crisis · 25/11
 
 | Speaker | Lời thoại |
 |---|---|
@@ -64,7 +64,7 @@
 
 ---
 
-## Scene 5 — Production launch · 12/12
+## Tình huống 5 — Production launch · 12/12
 
 | Speaker | Lời thoại |
 |---|---|
@@ -77,7 +77,7 @@
 
 ---
 
-## Scene 6 — Final present · 22/12
+## Tình huống 6 — Final present · 22/12
 
 | Speaker | Lời thoại |
 |---|---|
@@ -88,7 +88,7 @@
 
 ---
 
-## Scene 7 — Đêm reflect
+## Tình huống 7 — Đêm reflect
 
 | Speaker | Lời thoại |
 |---|---|
@@ -99,7 +99,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

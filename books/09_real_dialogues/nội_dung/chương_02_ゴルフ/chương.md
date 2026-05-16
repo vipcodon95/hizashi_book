@@ -16,7 +16,7 @@
 
 ---
 
-## Scene 1 — Sat 05:30 · Trước khách sạn Shinjuku
+## Tình huống 1 — Sat 05:30 · Trước khách sạn Shinjuku
 
 *Trời còn tối, đèn đường vàng. Dũng + Tuấn xuống lobby, vác bag golf thuê. Taxi đã đợi. Dũng dụi mắt liên tục.*
 
@@ -39,7 +39,7 @@ Tee off thường 7:30-8:00 sáng. Cộng 1.5h di chuyển + 30 phút warmup →
 
 ---
 
-## Scene 2 — Sat 07:00 · Club house, locker room
+## Tình huống 2 — Sat 07:00 · Club house, locker room
 
 *Locker room sạch sẽ, tủ gỗ. Mùi xà phòng + cỏ cắt. Ōgaki đã đến trước, đang thay đồ. Matsumoto đến 5 phút sau.*
 
@@ -72,7 +72,7 @@ Sân golf JP nghiêm ngặt:
 
 ---
 
-## Scene 3 — Sat 07:30 · Driving range warmup
+## Tình huống 3 — Sat 07:30 · Driving range warmup
 
 *Dãy bay 20 ô, mỗi ô có rổ bóng tự động. Dũng warmup 20 quả. 5 quả đầu trượt sạch.*
 
@@ -100,7 +100,7 @@ Trượt bóng warmup = OK, đừng panic. Khách JP **không judge skill** — 
 
 ---
 
-## Scene 4 — Sat 08:00 · Hole 1 — tee shot đầu tiên
+## Tình huống 4 — Sat 08:00 · Hole 1 — tee shot đầu tiên
 
 *Tee box hole 1, par 4, 350y. Có caddie nữ JP đi cùng. Order đánh: Matsumoto → Ōgaki → Tuấn → Dũng (junior nhất đánh cuối).*
 
@@ -140,7 +140,7 @@ Trượt bóng warmup = OK, đừng panic. Khách JP **không judge skill** — 
 
 ---
 
-## Scene 5 — Sat 09:30 · Hole 5 — par 3 signature hole
+## Tình huống 5 — Sat 09:30 · Hole 5 — par 3 signature hole
 
 *Hole 5, par 3, 150y, vượt qua hồ. Hole đẹp nhất sân, ai cũng dừng chụp ảnh. Matsumoto bảo Dũng chụp.*
 
@@ -176,7 +176,7 @@ Sân golf JP có 1-2 'signature hole' đẹp — host hay đề nghị chụp �
 
 ---
 
-## Scene 6 — Sat 11:00 · Hole 9 — finish front nine
+## Tình huống 6 — Sat 11:00 · Hole 9 — finish front nine
 
 *Hole 9 par 5, 480y. Finish 9 hole đầu, đi vào club house ăn trưa. Dũng score front nine: +29 (par 36, score 65). Hơi xấu hổ.*
 
@@ -194,7 +194,7 @@ Sân golf JP có 1-2 'signature hole' đẹp — host hay đề nghị chụp �
 ### 💡 Bí quyết — Score xấu — không sao
 
 Người mới chơi golf score 100+ là bình thường. Khách JP biết. Họ judge:
-- Bạn có **enjoy** không?
+- Bạn có **thực sự vui** không?
 - Bạn có **etiquette** không (rake bunker, repair divot, im khi người khác đánh)?
 - Bạn có **học hỏi** không (nhận lời khuyên Ōgaki ở scene 3)?
 
@@ -203,7 +203,7 @@ Người mới chơi golf score 100+ là bình thường. Khách JP biết. Họ
 
 ---
 
-## Scene 7 — Sat 11:30 · Restaurant club house — bữa trưa
+## Tình huống 7 — Sat 11:30 · Restaurant club house — bữa trưa
 
 *Restaurant nội bộ club house. Set lunch katsu-curry truyền thống. Matsumoto + Ōgaki order 1 bia mỗi người. Tuấn + Dũng order trà lúa mạch.*
 
@@ -235,7 +235,7 @@ Host hay offer 1 bia bữa trưa. Người mới chơi:
 
 ---
 
-## Scene 8 — Sat 12:30 · Hole 10 — tee off back nine
+## Tình huống 8 — Sat 12:30 · Hole 10 — tee off back nine
 
 *Sau bữa trưa 1 tiếng, ra hole 10 tee. Trời chuyển mây. Tuấn nhắc Dũng kiểm tra weather app.*
 
@@ -251,12 +251,12 @@ Host hay offer 1 bia bữa trưa. Người mới chơi:
 
 ### 💡 Bí quyết — Proactive weather check
 
-Junior trong nhóm = **weather watcher mặc định**. Check Yahoo Weather Japan / tenki.jp mỗi 1-2 hole nếu trời nghi mưa. Báo cáo ngắn cho host: '14h雨20%, 念のため傘確認しました'. Senior bị ấn tượng vì không cần nghĩ về thời tiết = giảm cognitive load.
+Junior trong nhóm = **người theo dõi thời tiết mặc định**. Check Yahoo Weather Japan / tenki.jp mỗi 1-2 hole nếu trời nghi mưa. Báo cáo ngắn cho host: '14h雨20%, 念のため傘確認しました'. Senior bị ấn tượng vì không cần nghĩ về thời tiết = giảm cognitive load.
 
 
 ---
 
-## Scene 9 — Sat 14:00 · Hole 14 — bunker shot
+## Tình huống 9 — Sat 14:00 · Hole 14 — bunker shot
 
 *Hole 14, par 4, 380y. Approach Dũng vào bunker trước green. Lần đầu vào bunker sự nghiệp golf của Dũng.*
 
@@ -290,7 +290,7 @@ Senior dạy bạn 1 kỹ năng tại sân (bunker shot, putting line, approach 
 
 ---
 
-## Scene 10 — Sat 15:30 · Hole 18 — finish round
+## Tình huống 10 — Sat 15:30 · Hole 18 — finish round
 
 *Hole cuối 18, par 4. Matsumoto putt birdie từ 4m. Dũng làm caddie phụ cầm cờ pin (pin flag).*
 
@@ -329,7 +329,7 @@ Khi host putt, junior cầm cờ pin = nghi thức:
 
 ---
 
-## Scene 11 — Sat 16:00 · Onsen trong club house (1.5h relax)
+## Tình huống 11 — Sat 16:00 · Onsen trong club house (1.5h relax)
 
 *Sau round 18 hole, vào onsen club house. Bồn nước nóng nhỏ + sauna + nước lạnh. Cả 4 nam vào cùng. Dũng đã đọc sách 07 nhưng vẫn lúng túng.*
 
@@ -369,7 +369,7 @@ Khi host putt, junior cầm cờ pin = nghi thức:
 
 ---
 
-## Scene 12 — Sat 17:30 · Lobby club house — chia tay
+## Tình huống 12 — Sat 17:30 · Lobby club house — chia tay
 
 *Sau onsen + thay đồ + ăn nhẹ. Score card đã sign. Đứng lobby chờ taxi đến.*
 

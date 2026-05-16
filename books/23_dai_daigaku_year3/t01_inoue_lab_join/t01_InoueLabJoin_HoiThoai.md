@@ -10,7 +10,7 @@
 
 ---
 
-## Scene 1 — First lab visit · 1/4 9:00
+## Tình huống 1 — First lab visit · 1/4 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -21,7 +21,7 @@
 
 ---
 
-## Scene 2 — Lab tour + 12 members intro · 10:00
+## Tình huống 2 — Lab tour + 12 members intro · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -33,7 +33,7 @@
 
 ---
 
-## Scene 3 — Đại's research direction discussion · 14:00
+## Tình huống 3 — Đại's research direction discussion · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -48,7 +48,7 @@
 
 ---
 
-## Scene 4 — First weekly seminar · 7/4 thứ 6
+## Tình huống 4 — First weekly seminar · 7/4 thứ 6
 
 | Speaker | Lời thoại |
 |---|---|
@@ -61,7 +61,7 @@
 
 ---
 
-## Scene 5 — Mai 6 tháng thai update · 12/4
+## Tình huống 5 — Mai 6 tháng thai update · 12/4
 
 | Speaker | Lời thoại |
 |---|---|
@@ -71,7 +71,7 @@
 
 ---
 
-## Scene 6 — Đêm reflect · 30/4
+## Tình huống 6 — Đêm reflect · 30/4
 
 | Speaker | Lời thoại |
 |---|---|
@@ -82,7 +82,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

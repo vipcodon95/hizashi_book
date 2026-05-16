@@ -1,6 +1,6 @@
 # Rule 12 — Discovery questions: 5 categories / ディスカバリー質問
 
-> **Luận điểm.** Trước khi đề xuất giá, hỏi 5 category: **(1) Pain** (vấn đề thực sự), **(2) Goal** (đích đến), **(3) Budget**, **(4) Timeline**, **(5) Decision** (ai duyệt, quy trình). Bỏ qua 1 category = đoán → khả năng cao quote sai. Tỉ lệ deal won tăng 2-3x với discovery đầy đủ.
+> **Luận điểm.** Trước khi đề xuất giá, hỏi 5 category: **(1) Pain** (vấn đề thực sự), **(2) Goal** (đích đến), **(3) Budget** (ngân sách), **(4) Timeline** (thời hạn), **(5) Decision** (ai duyệt, quy trình). Bỏ qua 1 category = đoán → khả năng cao quote sai. Tỉ lệ deal won tăng 2-3x với discovery đầy đủ.
 >
 > 価格提示前に必ず5カテゴリ (Pain/Goal/Budget/Timeline/Decision) を質問。1つでも飛ばすと当てずっぽう提案になる。
 >
@@ -56,7 +56,7 @@ Sau context setting (rule 11), Dũng vào discovery 30 phút. Đây là phần d
 
 > **「Pain・Goal・Budget・Timeline・Decision の5観点を必ずカバー。1つ飛ばすと当てずっぽう。」**
 >
-> *5 trục Pain/Goal/Budget/Timeline/Decision — bỏ 1 trục = đoán mò.*
+> *5 trục Vấn đề/Mục tiêu/Ngân sách/Thời hạn/Người quyết định (Pain/Goal/Budget/Timeline/Decision) — bỏ 1 trục = đoán mò.*
 
 ---
 

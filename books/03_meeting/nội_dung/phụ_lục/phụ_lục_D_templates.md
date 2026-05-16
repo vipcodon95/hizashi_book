@@ -444,7 +444,7 @@ E-mail: 〇〇
 
 ## Checklist (3 mẫu)
 
-### Rule 03 — Checklist Setup Phòng Họp
+### Rule 03 — Checklist Chuẩn bị Phòng Họp
 
 *JP: 会議室セットアップ・チェックリスト*
 
@@ -472,7 +472,7 @@ E-mail: 〇〇
 **Bản Việt placeholder:**
 
 ```
-[Checklist Setup Phòng Họp - hoàn thành trước 17h hôm trước]
+[Checklist Chuẩn bị Phòng Họp - hoàn thành trước 17h hôm trước]
 
 [ ] 1. Confirm đặt phòng (cho dôi 2 ghế so với số người)
 [ ] 2. Test projector (cắm thực tế)
@@ -495,7 +495,7 @@ E-mail: 〇〇
 📝 **Ghi chú VN:** Lý tưởng là xong trước 17h hôm trước. Hôm họp có sub-checklist riêng để check lại 10 phút trước.
 📝 **Ghi chú JP:** 前日17時までに完了するのが理想。当日10分前に最終確認のサブチェックリストを別建てで実施する。
 
-### Rule 04 — Checklist Setup Online Meeting
+### Rule 04 — Checklist Thiết lập Online Meeting
 
 *JP: オンライン会議セットアップ・チェックリスト*
 
@@ -523,7 +523,7 @@ E-mail: 〇〇
 **Bản Việt placeholder:**
 
 ```
-[Checklist Setup Online Meeting - xong 30 phút trước]
+[Checklist Thiết lập Online Meeting - xong 30 phút trước]
 
 [ ] 1. Phát link + check hạn dùng
 [ ] 2. Test audio (cả mic và speaker)
@@ -623,13 +623,13 @@ Self-review kỹ năng họp — Week 〇〇 (〇/〇 - 〇/〇)
 ────────────────────────────
   □ 1. Gửi agenda ≥ 24h trước?
   □ 2. Share pre-read ≥ 24h trước?
-  □ 3. Pre-meeting check-in nội bộ?
+  □ 3. Kiểm tra nội bộ trước họp?
 
 ────────────────────────────
  B. Tiến hành (Facilitation)
 ────────────────────────────
   □ 4. Bắt đầu đúng giờ?
-  □ 5. Lắng nghe ý kiến mọi người (kể cả junior)?
+  □ 5. Lắng nghe ý kiến mọi người (kể cả nhân viên trẻ)?
   □ 6. Giữ time-box mỗi item?
 
 ────────────────────────────

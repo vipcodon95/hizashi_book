@@ -1,6 +1,6 @@
 # Rule 37 — Khí hậu 3 miền VN / 3地域気候
 
-> **Luận điểm.** "VN nóng quanh năm" = nhận thức sai phổ biến của khách Nhật. **Hà Nội có 4 mùa thật**, **Đà Nẵng-Huế hứng bão và lũ tháng 10**, **HCM 2 mùa mưa-khô**. Bạn kể được 3 miền khí hậu = khách Nhật chuẩn bị quần áo onsite đúng + có topic sâu để bridge với 4 mùa JP.
+> **Luận điểm.** "VN nóng quanh năm" = nhận thức sai phổ biến của khách Nhật. **Hà Nội có 4 mùa thật**, **Đà Nẵng-Huế hứng bão và lũ tháng 10**, **HCM 2 mùa mưa-khô**. Bạn kể được 3 miền khí hậu = khách Nhật chuẩn bị quần áo onsite đúng + có topic sâu để kết nối với 4 mùa JP.
 
 ---
 
@@ -71,7 +71,7 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị ons
 | **山本** | 「現地の人の動き方ってのが分かるね、メモる。気温は?」 |
 | **ズン** | 「**ホーチミンは年間27-32度ほぼ一定**で、ハノイみたいな温度差はないです。**11-1月の乾季・朝晩涼しめ**が、出張ベストシーズン。」 |
 
-> **VN:** Pattern "12時外回り / 夕方屋内" = kiến thức local insider khách JP cực thích — vì it actionable.
+> **VN:** Quy luật "12時外回り / 夕方屋内" = kiến thức người địa phương khách JP cực thích — vì áp dụng được ngay.
 
 ---
 
@@ -88,7 +88,7 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị ons
 | **松本** | 「なるほど、東京と那覇くらい文化違うのか。」 |
 | **ズン** | 「まさにそういうイメージです、近いと思います!」 |
 
-> **VN:** "Hà Nội ↔ HCM = Tokyo ↔ Naha" bridge clever cho khách Okinawa-quan-tâm scene.
+> **VN:** "Hà Nội ↔ HCM = Tokyo ↔ Naha" kết nối khéo léo cho khách Okinawa quan tâm.
 
 ---
 
@@ -123,7 +123,7 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị ons
 
 - "VN nóng quanh năm, dễ chịu" → sai, gây khách mặc sai onsite tháng 1 HN.
 - Bão miền Trung → mention Aid / chính trị quốc gia → vùng cấm.
-- "JP có 4 mùa thật, VN không có" → arrogance, sai (HN có).
+- "JP có 4 mùa thật, VN không có" → kiêu ngạo, sai (HN có).
 - Khoe "VN có cái Nhật không có" hoặc ngược lại → so sánh negative.
 - Không cảnh báo trước về bão khi khách lên kế hoạch onsite tháng 9-11 → trách nhiệm.
 
@@ -149,9 +149,9 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị ons
 
 ## 🎓 BJT
 
-**J3 — 場面把握:** Khi khách hỏi onsite tháng X → biết advise quần áo + tránh bão / mưa.
+**J3 — 場面把握:** Khi khách hỏi onsite tháng X → biết tư vấn quần áo + tránh bão / mưa.
 **J2 — 表現読解:** Bridge "Hà Nội ↔ HCM = Tokyo ↔ Naha" — sắc thái cultural distance trong cùng 1 nước.
-**J1 — 発言聴解:** Catch khi khách Okinawa nói "台風慣れてる" → bridge sang miền Trung VN tương đồng = +depth.
+**J1 — 発言聴解:** Catch khi khách Okinawa nói "台風慣れてる" → kết nối sang miền Trung VN tương đồng = thêm chiều sâu.
 
 ---
 

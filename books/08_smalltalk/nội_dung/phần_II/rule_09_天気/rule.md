@@ -90,7 +90,7 @@
 
 📝【1】 **真冬日** (まふゆび) = ngày mà cả nhiệt độ cao nhất cũng dưới 0°C. **冬日** (ふゆび) = ngày min < 0°C. Hokkaido / Tohoku winter 標準語.
 
-> **VN:** Vocab **真冬日 / 冬日 / 雪まつり** = senior-level. Khách Hokkaido sẽ rất impress khi người Việt biết → mời đi 雪まつり ngay.
+> **VN:** Vocab **真冬日 / 冬日 / 雪まつり** = senior-level. Khách Hokkaido sẽ rất ấn tượng khi người Việt biết → mời đi 雪まつり ngay.
 
 ---
 

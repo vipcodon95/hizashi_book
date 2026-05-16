@@ -6,7 +6,7 @@
 
 ## 🧠 Tâm lý JP (3 dòng)
 
-- 沈黙 (chinmoku) ≠ awkward. Trong văn hóa JP, im lặng = đang suy nghĩ kỹ / đang thưởng thức khoảnh khắc / đã thoải mái không cần lấp.
+- 沈黙 (chinmoku) ≠ khó xử. Trong văn hóa JP, im lặng = đang suy nghĩ kỹ / đang thưởng thức khoảnh khắc / đã thoải mái không cần lấp.
 - "間" (ma — khoảng trống có ý nghĩa) là thẩm mỹ JP từ 茶道, 能, 俳句 → vào cả conversation.
 - Người Việt nhồi chữ vô nghĩa khi im lặng = bị xem là "落ち着きがない" (không vững).
 
@@ -20,7 +20,7 @@
 |------|---------|--------------|
 | **Im lặng "thoải mái"** | Khách thư giãn, gắp đồ ăn, uống bia chậm | Cùng im, không lấp |
 | **Im lặng "suy nghĩ"** | Khách nhíu mày, nhìn xa | Chờ — TUYỆT ĐỐI không hối |
-| **Im lặng "khó xử"** | Khách lúng túng, tránh ánh mắt | Mới cần khéo gợi topic mới |
+| **Im lặng "ngượng ngùng"** | Khách lúng túng, tránh ánh mắt | Mới cần khéo gợi topic mới |
 
 ---
 
@@ -73,9 +73,9 @@
 
 ---
 
-### 📍 Scenario 3 — Im lặng "khó xử" — đây mới cần khéo
+### 📍 Scenario 3 — Im lặng "ngượng ngùng" — đây mới cần khéo
 
-*lần đầu gặp 加藤, sau 30 giây giới thiệu danh thiếp · cả hai im lặng 8 giây — không khí lúng túng, ánh mắt né nhau · catch tín hiệu khó xử → nhẹ nhàng gợi · rạng rỡ*
+*lần đầu gặp 加藤, sau 30 giây giới thiệu danh thiếp · cả hai im lặng 8 giây — không khí lúng túng, ánh mắt né nhau · bắt tín hiệu lúng túng → nhẹ nhàng gợi · rạng rỡ*
 
 | Speaker | Câu |
 |---------|-----|
@@ -85,7 +85,7 @@
 | **ズン** | 「**そういえば、先ほど松本さんに伺ったんですが、加藤さんは飛騨牛がお好きとか?**」【1】 |
 | **加藤** | 「ああ!よくご存知で!毎月実家で食べないと落ち着かなくて…」 |
 
-📝【1】 Phân biệt "im lặng thoải mái" vs "im lặng khó xử" — qua **body language** (ánh mắt né, body cứng, không nhìn nhau). Khi đó MỚI cần gợi mở.
+📝【1】 Phân biệt "im lặng thoải mái" vs "im lặng ngượng ngùng" — qua **body language** (ánh mắt né, body cứng, không nhìn nhau). Khi đó MỚI cần gợi mở.
 
 > **VN:** Sai phổ biến: nhầm im lặng thoải mái thành khó xử → vội nhồi. Đúng là quan sát body language khách trước khi quyết định.
 
@@ -153,7 +153,7 @@ KHÔNG: 「あ、いえ、大丈夫です」 / 「難しいですよね…」
 | 落ち着く | おちつく | Bình tĩnh, vững |
 | 落ち着きがない | おちつきがない | Không vững, lăng xăng (negative) |
 | 信頼関係 | しんらいかんけい | Quan hệ tin cậy |
-| 気まずい | きまずい | Khó xử, awkward |
+| 気まずい | きまずい | Khó xử, lúng túng |
 | 余韻 | よいん | Dư âm (cảm xúc còn lại) |
 | 茶道 | さどう | Trà đạo (nguồn của 間) |
 
@@ -162,7 +162,7 @@ KHÔNG: 「あ、いえ、大丈夫です」 / 「難しいですよね…」
 ## 🎓 BJT
 
 **J3 — 場面把握:** Phân biệt 3 loại im lặng (thoải mái / suy nghĩ / khó xử) qua body language.
-**J2 — 表現読解:** Hiểu thẩm mỹ "間" — khi nào im là nghệ thuật, khi nào im là awkward.
+**J2 — 表現読解:** Hiểu thẩm mỹ "間" — khi nào im là nghệ thuật, khi nào im là lúng túng.
 **J1 — 発言聴解:** Catch micro-signal trên mặt khách trong 5 giây im lặng → quyết định có nên gợi topic hay không.
 
 ---

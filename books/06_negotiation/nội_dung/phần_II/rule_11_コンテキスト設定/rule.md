@@ -1,6 +1,6 @@
 # Rule 11 — Set context + agenda / コンテキスト設定
 
-> **Luận điểm.** Sau câu mở chào (rule 10), set **shared context** trong 60-90s: (1) recap 2-3 điểm key từ meeting trước, (2) confirm nothing changed/something changed phía khách, (3) đề xuất agenda hôm nay. Bỏ qua → khách CFO senior bị "lost", tone xuống.
+> **Luận điểm.** Sau câu mở chào (rule 10), set **shared context** trong 60-90s: (1) recap 2-3 điểm key từ meeting trước, (2) confirm nothing changed/something changed phía khách, (3) đề xuất agenda hôm nay. Bỏ qua → khách CFO senior bị "lost", bầu không khí xuống.
 >
 > 冒頭挨拶後、60-90秒で共通コンテキストを設定する: 前回ハイライト recap → 状況確認 → 本日 agenda 提示。CFO 同席など senior 入りでは特に重要。
 >
@@ -24,7 +24,7 @@ Sau câu mở (rule 10), Dũng vào phần thứ 2 — set context. 中村 CFO m
 | **中村CFO** | 「あ…えっと、Phase 3 って、Phase 2 はどこまで進んだんですか？」 |
 | **大垣** | 「中村さん、Phase 2 は昨年12月に完了して、次は…」 |
 
-**Vì sao xấu:** CFO không có context Phase 2. Dũng vào discovery question luôn → CFO bị lost → 大垣 phải bridge thay → tốn 5 phút và mất control. Lý ra Dũng phải proactively recap.
+**Vì sao xấu:** CFO không có context Phase 2. Dũng vào discovery question luôn → CFO bị lost → 大垣 phải giải thích thay → tốn 5 phút và mất control. Lý ra Dũng phải proactively recap.
 
 ---
 
@@ -57,8 +57,8 @@ Sau câu mở (rule 10), Dũng vào phần thứ 2 — set context. 中村 CFO m
 ## ⚠ Tránh
 
 - Vào discovery luôn không recap → senior khách bị lost
-- Recap dài lê thê (3 phút) → tốn budget time
-- Quên hỏi "状況変更ありますか" → bỏ lỡ early intel về budget cut, restructuring
+- Recap dài lê thê (3 phút) → tốn quỹ thời gian
+- Quên hỏi "状況変更ありますか" → bỏ lỡ thông tin sớm về cắt ngân sách, cơ cấu lại
 - Agenda không có time-box → buổi đàm phán lê thê
 
 ---

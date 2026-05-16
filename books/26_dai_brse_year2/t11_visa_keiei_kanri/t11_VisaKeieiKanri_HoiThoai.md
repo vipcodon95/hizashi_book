@@ -12,7 +12,7 @@
 
 ---
 
-## Scene 1 — Lawyer Suzuki visa consult · 5/2 14:00 office
+## Tình huống 1 — Lawyer Suzuki visa consult · 5/2 14:00 office
 
 | Speaker | Lời thoại |
 |---|---|
@@ -25,7 +25,7 @@
 
 ---
 
-## Scene 2 — Documents prep + apply submit · 12/2
+## Tình huống 2 — Documents prep + apply submit · 12/2
 
 | Speaker | Lời thoại |
 |---|---|
@@ -36,7 +36,7 @@
 
 ---
 
-## Scene 3 — Office daily · 15/2 standup
+## Tình huống 3 — Office daily · 15/2 standup
 
 | Speaker | Lời thoại |
 |---|---|
@@ -48,7 +48,7 @@
 
 ---
 
-## Scene 4 — Mai postpartum check · 18/2 Senri-chuo Maternity
+## Tình huống 4 — Mai postpartum check · 18/2 Senri-chuo Maternity
 
 | Speaker | Lời thoại |
 |---|---|
@@ -61,7 +61,7 @@
 
 ---
 
-## Scene 5 — Đại Seoul TOPIK partnership trip · 25/2 thứ Tư
+## Tình huống 5 — Đại Seoul TOPIK partnership trip · 25/2 thứ Tư
 
 | Speaker | Lời thoại |
 |---|---|
@@ -75,7 +75,7 @@
 
 ---
 
-## Scene 6 — Đại visa approval letter · 5/3
+## Tình huống 6 — Đại visa approval letter · 5/3
 
 | Speaker | Lời thoại |
 |---|---|
@@ -86,7 +86,7 @@
 
 ---
 
-## Scene 7 — Đại+Mai celebrate · 5/3 22:00
+## Tình huống 7 — Đại+Mai celebrate · 5/3 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -101,7 +101,7 @@
 
 ---
 
-## Scene 8 — Đêm reflect · 22:30
+## Tình huống 8 — Đêm reflect · 22:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -110,29 +110,29 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
-| 経営・管理ビザ | けいえいかんりビザ | Business Manager visa |
-| 高度専門職 | こうどせんもんしょく | Highly Skilled Foreign Professional |
-| 在留カード | ざいりゅうカード | Residence card |
-| 入国管理局 | にゅうこくかんりきょく | Immigration Bureau |
-| 永住権 | えいじゅうけん | Permanent residence |
-| 家族滞在 | かぞくたいざい | Dependent visa |
-| 履歴事項全部証明書 | りれきじこうぜんぶしょうめいしょ | Company registration cert |
-| 雇用契約書 | こようけいやくしょ | Labor contract |
-| 確定申告書 | かくていしんこくしょ | Tax declaration |
-| パートナーシップ | パートナーシップ | Partnership |
-| 産後 | さんご | Postpartum |
-| 体重復帰 | たいじゅうふっき | Weight recovery |
+| 経営・管理ビザ | けいえいかんりビザ | Visa quản lý kinh doanh |
+| 高度専門職 | こうどせんもんしょく | Lao động tay nghề cao |
+| 在留カード | ざいりゅうカード | Thẻ cư trú |
+| 入国管理局 | にゅうこくかんりきょく | Cục quản lý xuất nhập cảnh |
+| 永住権 | えいじゅうけん | Quyền thường trú |
+| 家族滞在 | かぞくたいざい | Visa người thân phụ thuộc |
+| 履歴事項全部証明書 | りれきじこうぜんぶしょうめいしょ | Giấy chứng nhận đăng ký công ty |
+| 雇用契約書 | こようけいやくしょ | Hợp đồng lao động |
+| 確定申告書 | かくていしんこくしょ | Tờ khai thuế |
+| パートナーシップ | パートナーシップ | Hợp tác |
+| 産後 | さんご | Hậu sản (sau sinh) |
+| 体重復帰 | たいじゅうふっき | Hồi phục cân nặng |
 
 ## Bí quyết chương
 
-- **経営・管理 visa requirements**: ¥5M+ capital + business operating + employees + office + clean docs
-- **Anri portfolio + Series A proof = fast track 3w vs 6-8w estimate**
-- **TOPIK Korea Foundation partnership** = official endorsement + co-marketing huge value
-- **永住権 timeline**: 経営・管理 5 năm liên tục → eligible 2037
-- **Postpartum 2 tháng pace**: Walk + yoga OK; full exercise 4 tháng; work return 2-3 tháng
+- **Điều kiện visa 経営・管理**: vốn ¥5M+ + doanh nghiệp đang hoạt động + nhân viên + văn phòng + hồ sơ sạch
+- **Hồ sơ Anri + chứng minh Series A = ưu tiên xử lý 3 tuần thay vì ước tính 6-8 tuần**
+- **Hợp tác TOPIK Korea Foundation** = chứng nhận chính thức + đồng tiếp thị giá trị lớn
+- **Lộ trình 永住権**: 経営・管理 5 năm liên tục → đủ điều kiện năm 2037
+- **Nhịp hồi phục 2 tháng hậu sản**: đi bộ + yoga ổn; vận động đầy đủ sau 4 tháng; đi làm lại sau 2-3 tháng
 
-> *"経営・管理 visa APPROVED 5 năm! TOPIK Korea partnership pending. MRR Feb ¥6.5M. Office Umeda Center productive. Mai postpartum 2 tháng on track. Bé Đông 2.5 tháng khoẻ. 3rd con long-term plan 2034-2035."*
+> *"Visa 経営・管理 ĐƯỢC DUYỆT 5 năm! Hợp tác TOPIK Korea đang chờ kết quả. MRR tháng 2 ¥6,5M. Văn phòng Umeda Center hoạt động tốt. Mai 2 tháng hậu sản đúng tiến độ. Bé Đông 2,5 tháng khoẻ. Kế hoạch con thứ 3 dài hạn 2034-2035."*

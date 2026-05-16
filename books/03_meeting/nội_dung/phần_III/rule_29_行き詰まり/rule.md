@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Họp đàm phán phase 2. Anh Ōgaki yêu cầu giảm 20%, anh Hà (CTO) chỉ đồng ý 10%. Cả 2 bên đã trao đổi 30 phút mà không nhúc nhích. Em Dũng (chủ trì) cần defuse situation.
+Họp đàm phán phase 2. Anh Ōgaki yêu cầu giảm 20%, anh Hà (CTO) chỉ đồng ý 10%. Cả 2 bên đã trao đổi 30 phút mà không nhúc nhích. Em Dũng (chủ trì) cần hạ nhiệt tình huống.
 
 ---
 
@@ -30,7 +30,7 @@ Họp đàm phán phase 2. Anh Ōgaki yêu cầu giảm 20%, anh Hà (CTO) chỉ
 
 ---
 
-## ✅ Hội thoại TỐT — defuse + 持ち帰り
+## ✅ Hội thoại TỐT — hạ nhiệt + 持ち帰り
 
 *sau 30 phút · tiếp · nhìn Dũng, gật đầu*
 
@@ -45,7 +45,7 @@ Họp đàm phán phase 2. Anh Ōgaki yêu cầu giảm 20%, anh Hà (CTO) chỉ
 
 📝 **Ghi chú:**
 - 【1】**「本日この場で結論を出すのは難しいかと存じます」** — phán đoán deadlock một cách neutral. Không đổ lỗi bên nào.
-- 【2】**「一度持ち帰って、別途ご相談する形でいかがでしょうか？」** — câu chuẩn defuse deadlock.
+- 【2】**「一度持ち帰って、別途ご相談する形でいかがでしょうか？」** — câu chuẩn tháo gỡ bế tắc.
 - 【3】**「来週水曜までに修正案をお出しいたします」** — kèm deadline + commit re-propose để khách yên tâm.
 
 ---
@@ -54,15 +54,15 @@ Họp đàm phán phase 2. Anh Ōgaki yêu cầu giảm 20%, anh Hà (CTO) chỉ
 
 > **「本日この場で結論を出すのは難しいかと存じます。一度持ち帰って、別途ご相談する形でいかがでしょうか？」**
 >
-> *Defuse + 持ち帰り + deadline + re-propose = 4 bước thoát deadlock.*
+> *Hạ nhiệt + 持ち帰り + deadline + re-propose = 4 bước thoát deadlock.*
 
 ---
 
 ## ⚠ Tránh
 
 - Ép quyết khi cả 2 bên đã căng → relationship damage.
-- Tự đề xuất con số "妥協" mà chưa consult cấp trên mình → mất face nội bộ.
-- 持ち帰り mà không kèm deadline → khách lo bị "ghosted".
+- Tự đề xuất con số "妥協" mà chưa hỏi ý kiến cấp trên → mất face nội bộ.
+- 持ち帰り mà không kèm deadline → khách lo bị bỏ lơ, không nhận phản hồi.
 
 ---
 

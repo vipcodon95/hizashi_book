@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Sau khi review BATNA xong (rule 01), Hương yêu cầu Dũng thêm **ZOPA mapping** — ước lượng budget ceiling của 白鷗 dựa trên Phase 2 actual + intel từ Tanaka PMO. Dũng vào meeting room nhỏ với Hương sáng thứ Ba.
+Sau khi review BATNA xong (rule 01), Hương yêu cầu Dũng thêm **ZOPA mapping** — ước lượng budget ceiling của 白鷗 dựa trên Phase 2 actual + thông tin từ Tanaka PMO. Dũng vào meeting room nhỏ với Hương sáng thứ Ba.
 
 ---
 
@@ -38,7 +38,7 @@ Sau khi review BATNA xong (rule 01), Hương yêu cầu Dũng thêm **ZOPA mappi
 
 📝 **Ghi chú:**
 - 【1】**ZOPA マッピング = 4 con số:** mình *target* + *reservation*, khách *ceiling* + *floor*. Vẽ trên 1 trục, kiểm tra có giao nhau không.
-- 【2】**Intel khách phải có nguồn cụ thể** — ai nói, ở đâu (Slack/họp/website), khi nào. Tránh "tôi đoán" thuần.
+- 【2】**Thông tin từ khách phải có nguồn cụ thể** — ai nói, ở đâu (Slack/họp/website), khi nào. Tránh "tôi đoán" thuần.
 - Anchor giá có thể **vượt ZOPA ceiling một chút** (target ¥18M > ¥17M) — đây là chủ ý để có dư địa nhượng bộ. Nhưng nếu vượt quá xa → khách offended, walk-away.
 
 ---
@@ -55,7 +55,7 @@ Sau khi review BATNA xong (rule 01), Hương yêu cầu Dũng thêm **ZOPA mappi
 
 - Chỉ tính giá phía mình, bỏ qua estimate phía khách → vào phòng mù
 - Estimate khách dựa trên "linh cảm" thay vì intel cụ thể (Slack, Phase trước, IR report)
-- Quên kiểm tra **floor** khách (chất lượng tối thiểu) — nhiều deal vỡ vì scope chứ không phải giá
+- Quên kiểm tra **mức sàn** của khách (chất lượng tối thiểu) — nhiều deal vỡ vì scope chứ không phải giá
 - Anchor vượt ZOPA ceiling quá xa (>20%) → khách cảm thấy bị xúc phạm
 
 ---

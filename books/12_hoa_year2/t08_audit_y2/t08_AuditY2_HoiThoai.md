@@ -10,7 +10,7 @@ Tháng 11/2027. Audit thường niên của khách hàng (siêu thị イオン 
 
 ---
 
-## Scene 1 — Họp toàn phòng SX 1 tuần trước · 9:00
+## Tình huống 1 — Họp toàn phòng SX 1 tuần trước · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -26,7 +26,7 @@ Tháng 11/2027. Audit thường niên của khách hàng (siêu thị イオン 
 
 ---
 
-## Scene 2 — Sau họp · Hoa và Mai
+## Tình huống 2 — Sau họp · Hoa và Mai
 
 | Speaker | Lời thoại |
 |---|---|
@@ -43,7 +43,7 @@ Tháng 11/2027. Audit thường niên của khách hàng (siêu thị イオン 
 
 ---
 
-## Scene 3 — Tối · Hoa hướng dẫn Mai
+## Tình huống 3 — Tối · Hoa hướng dẫn Mai
 
 | Speaker | Lời thoại |
 |---|---|
@@ -61,7 +61,7 @@ Tháng 11/2027. Audit thường niên của khách hàng (siêu thị イオン 
 
 ---
 
-## Scene 4 — Mai luyện cụm số 5
+## Tình huống 4 — Mai luyện cụm số 5
 
 | Speaker | Lời thoại |
 |---|---|
@@ -78,7 +78,7 @@ Tháng 11/2027. Audit thường niên của khách hàng (siêu thị イオン 
 
 ---
 
-## Scene 5 — Hoa dạy Mai cách đi với khách
+## Tình huống 5 — Hoa dạy Mai cách đi với khách
 
 | Speaker | Lời thoại |
 |---|---|
@@ -94,7 +94,7 @@ Tháng 11/2027. Audit thường niên của khách hàng (siêu thị イオン 
 
 ---
 
-## Scene 6 — Hôm trước audit · Diễn tập
+## Tình huống 6 — Hôm trước audit · Diễn tập
 
 | Speaker | Lời thoại |
 |---|---|
@@ -111,7 +111,7 @@ Tháng 11/2027. Audit thường niên của khách hàng (siêu thị イオン 
 
 ---
 
-## Scene 7 — Sáng audit · Mai chuẩn bị
+## Tình huống 7 — Sáng audit · Mai chuẩn bị
 
 | Speaker | Lời thoại |
 |---|---|
@@ -129,7 +129,7 @@ Tháng 11/2027. Audit thường niên của khách hàng (siêu thị イオン 
 
 ---
 
-## Scene 8 — Auditor đến · 9:00
+## Tình huống 8 — Auditor đến · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -142,7 +142,7 @@ Tháng 11/2027. Audit thường niên của khách hàng (siêu thị イオン 
 
 ---
 
-## Scene 9 — Mai dẫn auditor · 10:30, khu đóng gói
+## Tình huống 9 — Mai dẫn auditor · 10:30, khu đóng gói
 
 | Speaker | Lời thoại |
 |---|---|
@@ -161,7 +161,7 @@ Tháng 11/2027. Audit thường niên của khách hàng (siêu thị イオン 
 
 ---
 
-## Scene 10 — AI vision system demo
+## Tình huống 10 — AI vision system demo
 
 | Speaker | Lời thoại |
 |---|---|
@@ -178,7 +178,7 @@ Tháng 11/2027. Audit thường niên của khách hàng (siêu thị イオン 
 
 ---
 
-## Scene 11 — Auditor khen Mai
+## Tình huống 11 — Auditor khen Mai
 
 | Speaker | Lời thoại |
 |---|---|
@@ -193,7 +193,7 @@ Tháng 11/2027. Audit thường niên của khách hàng (siêu thị イオン 
 
 ---
 
-## Scene 12 — Closing meeting · 16:00
+## Tình huống 12 — Closing meeting · 16:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -209,7 +209,7 @@ Tháng 11/2027. Audit thường niên của khách hàng (siêu thị イオン 
 
 ---
 
-## Scene 13 — Sau audit · Mai và Hoa
+## Tình huống 13 — Sau audit · Mai và Hoa
 
 | Speaker | Lời thoại |
 |---|---|
@@ -226,7 +226,7 @@ Tháng 11/2027. Audit thường niên của khách hàng (siêu thị イオン 
 
 ---
 
-## Scene 14 — Tối · 食堂 nhỏ ăn mừng
+## Tình huống 14 — Tối · 食堂 nhỏ ăn mừng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -243,7 +243,7 @@ Tháng 11/2027. Audit thường niên của khách hàng (siêu thị イオン 
 
 ---
 
-## Scene 15 — Hoa viết nhật ký
+## Tình huống 15 — Hoa viết nhật ký
 
 | Speaker | Lời thoại |
 |---|---|
@@ -257,7 +257,7 @@ Tháng 11/2027. Audit thường niên của khách hàng (siêu thị イオン 
 
 ---
 
-## Scene 16 — Tin nhắn LINE Andi
+## Tình huống 16 — Tin nhắn LINE Andi
 
 | Speaker | Lời thoại |
 |---|---|

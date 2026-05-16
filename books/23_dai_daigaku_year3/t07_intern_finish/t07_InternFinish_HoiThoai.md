@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Phát biểu cuối kỳ trước executive · 28/9/2028
+## Tình huống 1 — Phát biểu cuối kỳ trước executive · 28/9/2028
 
 | Speaker | Lời thoại |
 |---|---|
@@ -19,7 +19,7 @@
 
 ---
 
-## Scene 2 — HR đề cập 内定 · 30/9
+## Tình huống 2 — HR đề cập 内定 · 30/9
 
 | Speaker | Lời thoại |
 |---|---|
@@ -32,7 +32,7 @@
 
 ---
 
-## Scene 3 — 送別会 + quà GitHub Pro lifetime
+## Tình huống 3 — 送別会 + quà GitHub Pro lifetime
 
 | Speaker | Lời thoại |
 |---|---|
@@ -43,7 +43,7 @@
 
 ---
 
-## Scene 4 — Đại suy nghĩ về 内定 · cuối tuần
+## Tình huống 4 — Đại suy nghĩ về 内定 · cuối tuần
 
 | Speaker | Lời thoại |
 |---|---|
@@ -55,7 +55,7 @@
 
 ---
 
-## Scene 5 — Đêm reflect
+## Tình huống 5 — Đêm reflect
 
 | Speaker | Lời thoại |
 |---|---|
@@ -66,7 +66,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

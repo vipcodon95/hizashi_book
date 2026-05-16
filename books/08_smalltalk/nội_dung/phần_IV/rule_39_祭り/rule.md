@@ -6,8 +6,8 @@
 
 ## 🧠 Tâm lý JP (4 dòng)
 
-- 祭り JP = một trong 3 topic JP cảm xúc nhất (cùng 食 + 故郷). Bridge với VN festivals = mở conversation gold.
-- Trung thu VN = "Tết của trẻ con" gần lăng kính tâm tình của Obon JP (gia đình + ánh trăng) → bridge tự nhiên.
+- 祭り JP = một trong 3 topic JP cảm xúc nhất (cùng 食 + 故郷). Kết nối với lễ hội VN = mở chủ đề hội thoại vàng.
+- Trung thu VN = "Tết của trẻ con" gần lăng kính tâm tình của Obon JP (gia đình + ánh trăng) → kết nối tự nhiên.
 - 2/9 (Quốc Khánh) là **dây nhạy** — chỉ dùng nếu khách hỏi, focus vào **nghỉ lễ + bắn pháo hoa**, KHÔNG sa đà chính trị.
 - Senior JP rất thích nghe "tradition that survived" — múa rồng, đèn ông sao, bánh trung thu.
 
@@ -35,7 +35,7 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng zoom c
 | **ズン** | 「**バインチュンチュー(Bánh Trung Thu)**、表面にお花の模様で、中身は**蓮の実、カラスミ卵黄、緑豆あん、カスタード**等。**カラスミ入り**は日本人結構衝撃受けます(笑)。」 |
 | **松本** | 「カラスミ?それは食べてみたい!」 |
 
-> **VN:** Bridge "Trung thu = Tết trẻ con / Obon = lễ tổ tiên" → khách Nhật instant phân biệt + thấy fascinating.
+> **VN:** So sánh "Trung thu = Tết trẻ con / Obon = lễ tổ tiên" → khách Nhật lập tức phân biệt được + thấy thú vị.
 
 ---
 
@@ -122,7 +122,7 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng zoom c
 
 - 2/9 → "戦勝記念日" / 戦争 / 米国敗退 → vùng cấm chính trị tuyệt đối.
 - 30/4 (Reunification Day) cũng tránh nói sâu — focus 連休 only nếu có.
-- Khoe "VN festival hơn JP" → arrogance.
+- Khoe "VN festival hơn JP" → kiêu ngạo.
 - "Bắc-Nam 100 con" theo lăng kính chính trị → giữ ở mức 神話.
 - Mô tả múa rồng / Lân là "TQ traditions" → nhạy cảm, focus VN local development.
 

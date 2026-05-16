@@ -4,7 +4,7 @@
 
 ## Sách song ngữ Việt-Nhật cho người Việt làm với khách Nhật
 
-40 rules dạy 3 trụ cột giao tiếp công việc Nhật: 報告 (báo cáo) · 連絡 (liên lạc) · 相談 (tham vấn). Đặc biệt critical cho offshore IT teams VN làm việc với khách Nhật.
+40 rules dạy 3 trụ cột giao tiếp công việc Nhật: 報告 (báo cáo) · 連絡 (liên lạc) · 相談 (tham vấn). Đặc biệt thiết yếu cho offshore IT teams VN làm việc với khách Nhật.
 
 **Đối tượng:** Dev/PM/BD VN, ôn BJT J3-J2.
 
@@ -16,7 +16,7 @@
 | II | 連絡 (Renraku — Liên lạc) | 9 |
 | III | 相談 (Sōdan — Tham vấn) | 9 |
 | IV | Tình huống đặc biệt | 6 |
-| V | Tools + Best Practice | 4 |
+| V | Tools + Thực hành tốt nhất | 4 |
 
 **Phụ lục:** A (script template), B (vocab), C (BJT practice), D (templates 10+ mẫu).
 

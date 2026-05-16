@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Giao việc · 9:00
+## Tình huống 1 — Giao việc · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -15,7 +15,7 @@
 
 ---
 
-## Scene 2 — Phân tích bằng Moldex3D · 10:00
+## Tình huống 2 — Phân tích bằng Moldex3D · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -27,7 +27,7 @@
 
 ---
 
-## Scene 3 — Mô phỏng lại · 14:00
+## Tình huống 3 — Mô phỏng lại · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -39,7 +39,7 @@
 
 ---
 
-## Scene 4 — Thử khuôn + xác nhận · sau 9/2024
+## Tình huống 4 — Thử khuôn + xác nhận · sau 9/2024
 
 | Speaker | Lời thoại |
 |---|---|
@@ -52,7 +52,7 @@
 
 ---
 
-## Scene 5 — Mai gọi · 22:00
+## Tình huống 5 — Mai gọi · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -65,7 +65,7 @@
 
 ---
 
-## Scene 6 — Đêm · 23:00
+## Tình huống 6 — Đêm · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -75,7 +75,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

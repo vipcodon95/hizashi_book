@@ -1,6 +1,6 @@
 # Rule 22 — Đi quanh văn phòng / nhà máy / 工場・社内案内
 
-> **Luận điểm.** Khi được tour văn phòng / nhà máy: **đi sau guide 1-2 bước**, **không tự mở cửa**, **không chụp ảnh chưa được phép**, **không sờ thiết bị / monitor**, **không vào phòng kế bên dù cửa mở**. Hỏi trước khi chụp ("**お写真撮ってもよろしいでしょうか**"). Tour thường có **NDA implicit** — ngay cả không ký giấy. Vi phạm = mất hợp đồng + reputation.
+> **Luận điểm.** Khi được tour văn phòng / nhà máy: **đi sau guide 1-2 bước**, **không tự mở cửa**, **không chụp ảnh chưa được phép**, **không sờ thiết bị / monitor**, **không vào phòng kế bên dù cửa mở**. Hỏi trước khi chụp ("**お写真撮ってもよろしいでしょうか**"). Tour thường có **NDA implicit** — ngay cả không ký giấy. Vi phạm = mất hợp đồng + uy tín.
 >
 > 社内案内は『ガイド後ろ1-2歩・勝手にドア開閉禁止・無断撮影禁止・機器/モニター非接触・隣室立入禁止』。撮影は事前許可必須。
 >
@@ -21,7 +21,7 @@
 | Speaker | Câu |
 |---------|-----|
 | **田中PMO** | 「こちらが Phase 3 開発チームです。」 |
-| **トゥアン** | *(cạch — chụp ảnh dev team)* |
+| **トゥアン** | *(cạch — chụp ảnh nhóm phát triển)* |
 | **田中PMO** | 「あの…撮影は、ちょっと…」 |
 | **ズン** | 「あ、この部屋は何ですか？」 |
 | **田中PMO** | 「そこは、別件のmeeting中で…」 |

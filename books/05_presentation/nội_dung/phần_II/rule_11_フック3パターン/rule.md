@@ -1,6 +1,6 @@
 # Rule 11 — Hook 3 patterns / フックの3パターン (story / data / question)
 
-> **Luận điểm.** 3 pattern hook chính: **(A) Story** (anecdote 30s), **(B) Data** (số shock), **(C) Question** (câu hỏi rhetorical). Pick 1 theo audience + topic. Khách Nhật conservative thường response best với **(B) Data** (an toàn) > (C) Question > (A) Story (rủi ro hơi US-style nếu không khéo).
+> **Luận điểm.** 3 pattern hook chính: **(A) Story** (câu chuyện ngắn, 30s), **(B) Data** (số shock), **(C) Question** (câu hỏi rhetorical). Pick 1 theo audience + topic. Khách Nhật conservative thường response best với **(B) Data** (an toàn) > (C) Question > (A) Story (rủi ro hơi US-style nếu không khéo).
 >
 > 3パターン: ストーリー/データ/質問。聴衆×テーマで選ぶ。日本顧客にはデータ型が一番安全、次に質問型、ストーリー型は技量次第。
 >

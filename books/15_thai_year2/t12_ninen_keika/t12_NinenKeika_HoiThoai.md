@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Tanaka mensetsu · 14:00
+## Tình huống 1 — Tanaka mensetsu · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -20,7 +20,7 @@
 
 ---
 
-## Scene 2 — Promotion announce · 14:30
+## Tình huống 2 — Promotion announce · 14:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -34,7 +34,7 @@
 
 ---
 
-## Scene 3 — Plan năm 3 · 15:00
+## Tình huống 3 — Plan năm 3 · 15:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -47,7 +47,7 @@
 
 ---
 
-## Scene 4 — Cohort izakaya · 19:00
+## Tình huống 4 — Cohort izakaya · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -61,7 +61,7 @@
 
 ---
 
-## Scene 5 — Mai gọi · 22:00
+## Tình huống 5 — Mai gọi · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -78,7 +78,7 @@
 
 ---
 
-## Scene 6 — Linh-chị reflection · 23:00
+## Tình huống 6 — Linh-chị reflection · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -91,7 +91,7 @@
 
 ---
 
-## Scene 7 — Đêm reflect cuối năm 2 · 23:30
+## Tình huống 7 — Đêm reflect cuối năm 2 · 23:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -110,7 +110,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

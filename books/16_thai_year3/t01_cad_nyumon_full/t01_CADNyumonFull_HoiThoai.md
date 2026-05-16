@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Sáng đầu ở phòng thiết kế · 8:30
+## Tình huống 1 — Sáng đầu ở phòng thiết kế · 8:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -15,7 +15,7 @@
 
 ---
 
-## Scene 2 — Dự án đầu · 9:00
+## Tình huống 2 — Dự án đầu · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -27,7 +27,7 @@
 
 ---
 
-## Scene 3 — Mở file có sẵn · 9:30
+## Tình huống 3 — Mở file có sẵn · 9:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -40,7 +40,7 @@
 
 ---
 
-## Scene 4 — Build lại + kiểm · 10:30
+## Tình huống 4 — Build lại + kiểm · 10:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -54,7 +54,7 @@
 
 ---
 
-## Scene 5 — Nộp cuối tuần · 17:00
+## Tình huống 5 — Nộp cuối tuần · 17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -66,7 +66,7 @@
 
 ---
 
-## Scene 6 — Đêm · 22:00
+## Tình huống 6 — Đêm · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -76,7 +76,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -1,4 +1,4 @@
-# Rule 03 — Đặt phòng + Setup hậu cần / 会議室予約・設備確認
+# Rule 03 — Đặt phòng + Chuẩn bị hậu cần / 会議室予約・設備確認
 
 > **Luận điểm.** Phòng họp thiếu projector / dây HDMI / mạng / nước = 5 phút đầu tan biến vì loay hoay. Trước họp 1 ngày phải có **checklist 7 mục**: phòng đủ chỗ, projector test OK, HDMI/USB-C, Wi-Fi password, white board + bút, nước/茶, biển tên (name plate).
 >
@@ -10,11 +10,11 @@
 
 ## Bối cảnh / 場面
 
-Em Linh (mới onboard, được Dũng mentor) được giao đặt phòng + check setup cho buổi họp với 白鷗 vào thứ Ba. Linh báo Dũng "đã đặt phòng rồi" — Dũng kiểm tra lại.
+Em Linh (mới gia nhập, được Dũng mentor) được giao đặt phòng + kiểm tra thiết bị cho buổi họp với 白鷗 vào thứ Ba. Linh báo Dũng "đã đặt phòng rồi" — Dũng kiểm tra lại.
 
 ---
 
-## ❌ Hội thoại XẤU — chỉ đặt phòng, không check setup
+## ❌ Hội thoại XẤU — chỉ đặt phòng, không kiểm tra thiết bị
 
 *当日朝、部屋に入って*
 
@@ -25,7 +25,7 @@ Em Linh (mới onboard, được Dũng mentor) được giao đặt phòng + che
 | **リン** | 「あっ、部屋を予約しただけで…プロジェクターがあるかは…」 |
 | **ズン** | 「HDMIケーブルがない。リンさん、急ぎ総務に借りに行って！松本様あと10分で来る。」 |
 
-**Vì sao xấu:** "Đặt phòng" ≠ "Setup họp". Junior thường chỉ làm 1 bước rồi báo done. Đến hôm họp khách Nhật vào → phải chạy đi tìm cable = lỗi mất mặt nghiêm trọng với khách.
+**Vì sao xấu:** "Đặt phòng" ≠ "Setup họp". Nhân viên trẻ thường chỉ làm 1 bước rồi báo xong. Đến hôm họp khách Nhật vào → phải chạy đi tìm cable = lỗi mất mặt nghiêm trọng với khách.
 
 ---
 
@@ -52,7 +52,7 @@ Em Linh (mới onboard, được Dũng mentor) được giao đặt phòng + che
 
 ---
 
-## 📐 Checklist Setup Phòng Họp (xem `conversation.json:templates[0]`)
+## 📐 Checklist Chuẩn bị Phòng Họp (xem `conversation.json:templates[0]`)
 
 ```
 ■ 会議室セットアップ・チェックリスト（前日17時までに完了）

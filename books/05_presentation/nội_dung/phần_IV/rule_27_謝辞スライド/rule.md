@@ -50,7 +50,7 @@ Dũng đang finalize deck. Đến slide cuối — chuẩn bị làm "Thank You"
 
 > **Thank-you slide = ① ありがとうございました ② Recap 3点 ③ Contact (2 người + 営業時間) ④ QR Drive 閲覧専用.**
 >
-> *Không slide trống. 5-10 phút chiếu cuối là cơ hội reinforce, không phải để wasted.*
+> *Không slide trống. 5-10 phút chiếu cuối là cơ hội reinforce, không phải để lãng phí.*
 
 ---
 
@@ -86,7 +86,7 @@ Dũng đang finalize deck. Đến slide cuối — chuẩn bị làm "Thank You"
 
 ## ⚠ Tránh
 
-- "Thank You" trống → wasted 5-10 phút screen time
+- "Thank You" trống → lãng phí 5-10 phút screen time
 - Email cá nhân (gmail) → unprofessional → dùng cty domain
 - QR public link → ai cũng access → leak deck
 - Quên 営業時間 → khách gửi mail 22h thấy ngại

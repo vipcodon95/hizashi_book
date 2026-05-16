@@ -16,7 +16,7 @@
 
 ---
 
-## Scene 1 — Fri 18:45 · Trước izakaya Shinbashi
+## Tình huống 1 — Fri 18:45 · Trước izakaya Shinbashi
 
 *Đèn đỏ izakaya treo trước cửa. Trời đông Tokyo lạnh ≈5°C. 5 người Thiên Phát tập trung trước cửa, đếm số người. Linh mặc đầm đen + áo khoác dày, run nhẹ vì lạnh.*
 
@@ -42,7 +42,7 @@ Junior lần đầu bonenkai = nervous cao. Senior coach trước (3 phút trư�
 
 ---
 
-## Scene 2 — Fri 19:00 · Tatami room izakaya
+## Tình huống 2 — Fri 19:00 · Tatami room izakaya
 
 *Phòng tatami private 17 chỗ. Bàn dài thấp 2 hàng. Cuối phòng (xa cửa) là kamiza dành senior nhất. Đoàn JP đến cùng lúc. Bắt đầu vào chỗ.*
 
@@ -77,7 +77,7 @@ Quy tắc:
 
 ---
 
-## Scene 3 — Fri 19:10 · Bàn tatami
+## Tình huống 3 — Fri 19:10 · Bàn tatami
 
 *Order đồ uống đầu tiên — 'toriaezu beer' (bia trước đã). Linh không uống bia. Yamamoto phát hiện ngay.*
 
@@ -107,7 +107,7 @@ JP modern (2020s+) — **không ép uống** đã thành phổ biến. Junior t�
 
 ---
 
-## Scene 4 — Fri 19:20 · Bàn tatami
+## Tình huống 4 — Fri 19:20 · Bàn tatami
 
 *Mọi người có ly. Nakamura CFO đứng lên speech 2 phút khai mạc.*
 
@@ -145,7 +145,7 @@ Speech reply tip:
 
 ---
 
-## Scene 5 — Fri 19:40 · Bàn tatami
+## Tình huống 5 — Fri 19:40 · Bàn tatami
 
 *Đồ ăn ra liên tục: edamame, karaage, sashimi, đậu hũ, salad. Hải đói, ăn nhanh. Tuấn nhắc nhẹ.*
 
@@ -179,7 +179,7 @@ Junior đói + nervous → ăn nhanh là phản xạ tự nhiên. Cách xử lý
 
 ---
 
-## Scene 6 — Fri 20:00 · Bàn tatami
+## Tình huống 6 — Fri 20:00 · Bàn tatami
 
 *Round 2 đồ uống, không khí mở. Sato (Fukuoka, 60t) gọi shochu, mời Dũng 1 ly nhỏ. Sách 08 dạy không từ chối senior.*
 
@@ -215,7 +215,7 @@ Sách 08 đã dạy. Reinforce ở đây:
 
 ---
 
-## Scene 7 — Fri 20:30 · Bàn tatami
+## Tình huống 7 — Fri 20:30 · Bàn tatami
 
 *Tanaka mở điện thoại khoe ảnh con trai 5 tuổi. Dũng nhớ chuyện sticker robot từ chương 01 — kéo Linh vào câu chuyện.*
 
@@ -252,7 +252,7 @@ Junior nervous = thường im. Senior cùng cty có nhiệm vụ **kéo junior v
 
 ---
 
-## Scene 8 — Fri 21:00 · Bàn tatami
+## Tình huống 8 — Fri 21:00 · Bàn tatami
 
 *Yamamoto kể chuyện hài Osaka. Joke Kansai-ben Linh không hiểu 30%. Hải ghé tai dịch nhanh.*
 
@@ -282,7 +282,7 @@ Kansai-ben / Hakata-ben / Hokkaido-ben có thể khó cho người N3-N2:
 
 ---
 
-## Scene 9 — Fri 21:30 · Bàn tatami
+## Tình huống 9 — Fri 21:30 · Bàn tatami
 
 *Ōgaki kéo Tuấn nói chuyện business nhỏ giọng. Hint Phase 5. Hương ra hiệu Tuấn không deep.*
 
@@ -319,7 +319,7 @@ Senior khách (như Ōgaki) đôi khi hint business ở bonenkai vì:
 
 ---
 
-## Scene 10 — Fri 22:00 · Cửa izakaya — niji-kai (tăng 2)
+## Tình huống 10 — Fri 22:00 · Cửa izakaya — niji-kai (tăng 2)
 
 *Bonenkai chính kết thúc. Một nửa đoàn JP rủ tăng 2 karaoke. Hương quyết định ai đi.*
 
@@ -352,7 +352,7 @@ Tăng 2 sau bonenkai = không bắt buộc. Quyết định:
 
 ---
 
-## Scene 11 — Fri 22:30 · Trên đường đi karaoke (5 phút walk)
+## Tình huống 11 — Fri 22:30 · Trên đường đi karaoke (5 phút walk)
 
 *Phố Shinbashi đêm 12, đèn neon, gió lạnh. Đoàn 10 người đi bộ chia thành các nhóm nhỏ. Matsumoto chậm bước cạnh Dũng.*
 
@@ -405,7 +405,7 @@ Response pattern:
 3 điều rút ra:
 1. Bonenkai = nơi seniority lỏng hơn meeting — Sato 60t mời 1 ly,
    Yamamoto chủ động cứu Linh — không phải 'sếp mời' formal.
-   → Junior cùng cty cần chủ động cover cho rookie nhất.
+   → Junior cùng cty cần chủ động cover cho người mới nhất.
 2. Linh đã 'pass' bài đầu tiên — biết Gundam, biết khen Kansai-ben.
    → Mentor Linh proactively cho event tới: cho cô ấy 1-2 topic an toàn để start.
 3. Matsumoto question 'Tokyo onsite 6 tháng?' = inflection point.
@@ -421,7 +421,7 @@ Action items:
 - [ ] Hôm nay gửi mail cảm ơn Sato + hint sẽ liên lạc khi đi Fukuoka
 - [ ] Tuần tới book 1-on-1 với Hương về proposal Tokyo onsite 6 tháng
 - [ ] Gọi điện mẹ chiều nay, mở topic 'có thể sang Nhật nửa năm'
-- [ ] Brief Linh + Hải debrief sáng thứ 2: cái gì ổn, cái gì improve
+- [ ] Tổng kết với Linh + Hải sáng thứ 2: cái gì ổn, cái gì cần cải thiện
 
 Mình:
 - Đêm qua nhớ là đêm đặc biệt. Matsumoto offer onsite 6 tháng.

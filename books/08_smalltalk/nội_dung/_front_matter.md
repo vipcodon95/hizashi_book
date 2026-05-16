@@ -40,7 +40,7 @@ Mỗi rule **NGẮN** ở phần lý thuyết, **DÀI** ở phần hội thoại
 
 ---
 
-## 🎬 Cast 19 nhân vật
+## 🎬 Dàn nhân vật (19 người)
 
 **Cty Thiên Phát (VN, ティエンファット社)** — em Dũng (ズン), chị Hương (フオン副部長), anh Tuấn (トゥアンリーダー), chị Loan (ロアン経理部長), em Linh (リン), em Hải (ハイ), anh Hà CTO (ハー).
 
@@ -51,7 +51,7 @@ Mỗi rule **NGẮN** ở phần lý thuyết, **DÀI** ở phần hội thoại
 - chị Yamamoto マネージャー (Osaka — takoyaki, Hanshin Tigers)
 - anh Sato 先生 (Fukuoka — Hawks, ramen)
 - anh Kobayashi (Okinawa — Ryūkyū culture)
-- anh Ito (Nagoya — miso, Toyota mindset)
+- anh Ito (Nagoya — miso, tư duy Toyota)
 - anh Kato (Gifu — Hida beef, Shirakawa-go, 関の刃物)
 
 ---
@@ -62,7 +62,7 @@ Mỗi rule **NGẮN** ở phần lý thuyết, **DÀI** ở phần hội thoại
 2. **Bối cảnh** (2-3 câu — ai, lúc nào, mục tiêu)
 3. **Tâm lý JP** (3-5 dòng — tại sao quan trọng)
 4. **3-4 hội thoại scenarios** (đây là phần CHÍNH)
-5. **Câu vàng copy-paste** (5-10 câu sẵn dùng)
+5. **Câu vàng dùng ngay** (5-10 câu sẵn dùng)
 6. **NG list** (3-5 câu cấm)
 
 Mỗi rule có file `rule.md` (lý thuyết + dialogue) và `conversation.json` (data hóa cho TTS sau này).

@@ -14,7 +14,7 @@ Phase 3 round 2, 大垣 + 田中 PMO 在京、Tiên Phát side ハノイ → Zoo
 
 ---
 
-## ❌ Hội thoại XẤU — eye contact lỏng + sa lầy silence
+## ❌ Hội thoại XẤU — nhìn lơ đãng qua camera + sa lầy silence
 
 | | Speaker | Câu (Zoom) |
 |--|---------|-----|
@@ -59,7 +59,7 @@ Phase 3 round 2, 大垣 + 田中 PMO 在京、Tiên Phát side ハノイ → Zoo
 
 ## ⚠ Tránh
 
-- 画面下の note を見ながら anchor 提示 → eye contact 0
+- 画面下の note を見ながら anchor 提示 → giao tiếp bằng mắt = 0
 - 画面共有を session 全部 ON → 顔が見えず human connection 切れる
 - Online silence 7 giây 維持 → "audio disconnect" assume される
 - 「聞こえてますか?」 を 2 秒目で connect-check → anchor effect 即消滅

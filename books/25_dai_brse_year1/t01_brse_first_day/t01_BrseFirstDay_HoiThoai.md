@@ -11,7 +11,7 @@
 
 ---
 
-## Scene 1 — Sáng nhà · 6:30
+## Tình huống 1 — Sáng nhà · 6:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -26,7 +26,7 @@
 
 ---
 
-## Scene 2 — Tàu Hankyu Senri-chuo → Honmachi · 7:50
+## Tình huống 2 — Tàu Hankyu Senri-chuo → Honmachi · 7:50
 
 | Speaker | Lời thoại |
 |---|---|
@@ -37,7 +37,7 @@
 
 ---
 
-## Scene 3 — Office Thanh Hà 5F · 8:50
+## Tình huống 3 — Office Thanh Hà 5F · 8:50
 
 | Speaker | Lời thoại |
 |---|---|
@@ -49,7 +49,7 @@
 
 ---
 
-## Scene 4 — Phòng họp + sếp Tanaka introduction · 9:00
+## Tình huống 4 — Phòng họp + sếp Tanaka introduction · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -65,7 +65,7 @@
 
 ---
 
-## Scene 5 — Tour office + giới thiệu cohort BrSE · 9:30
+## Tình huống 5 — Tour office + giới thiệu cohort BrSE · 9:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -80,7 +80,7 @@
 
 ---
 
-## Scene 6 — Bữa trưa cohort BrSE · 12:00
+## Tình huống 6 — Bữa trưa cohort BrSE · 12:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -96,7 +96,7 @@
 
 ---
 
-## Scene 7 — Setup máy + first task · 14:00
+## Tình huống 7 — Setup máy + first task · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -109,7 +109,7 @@
 
 ---
 
-## Scene 8 — End of day + về nhà · 18:00
+## Tình huống 8 — End of day + về nhà · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -123,7 +123,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -141,10 +141,10 @@
 
 ## Bí quyết chương
 
-- **BrSE = cầu nối JP↔VN**: Spec translation + client meeting + PM coordination + code review bilingual
-- **Dual-track Day 1**: BrSE intern (sáng-chiều) + Hizashi founder (tối-cuối tuần)
-- **Lương BrSE intern ¥280k/tháng** (28man) là realistic intern level VN outsourcing tại Osaka
-- **Zero overtime policy** = key cho dual-track sustainability
-- **Cohort BrSE VN tại Nhật** (8 người, 26-32t) = peer support network
+- **BrSE = cầu nối JP↔VN**: dịch tài liệu spec + họp với client + điều phối PM + code review song ngữ
+- **Hai vai song song ngay từ Ngày đầu**: BrSE intern (sáng-chiều) + Hizashi founder (tối-cuối tuần)
+- **Lương BrSE intern ¥280k/tháng** (28man) là mức thực tế của intern VN outsourcing tại Osaka
+- **Chính sách không tăng ca** = chìa khóa để duy trì hai vai bền vững
+- **Nhóm BrSE VN tại Nhật** (8 người, 26-32t) = mạng lưới hỗ trợ đồng môn
 
-> *"Day 1 BrSE Thanh Hà Solutions Honmachi. Tanaka-san sếp tử tế. 8 BrSE cohort. ¥280k + zero ot. Hana Day 1 nhà trẻ Senri-chuo. Tối nay Hizashi standup. Cuộc đời mình giờ 2 vai song hành."*
+> *"Ngày đầu làm BrSE ở Thanh Hà Solutions Honmachi. Sếp Tanaka tử tế. 8 anh em BrSE. ¥280k + không tăng ca. Hana ngày đầu nhà trẻ Senri-chuo. Tối nay standup Hizashi. Cuộc đời mình giờ 2 vai song hành."*

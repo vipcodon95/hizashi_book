@@ -18,7 +18,7 @@
     {
       "section": "bad_example",
       "label_ja": "悪い例 — 自社senior先頭+ ジュニア割り込み",
-      "label_vi": "XẤU — senior bên mình ra đầu + junior nhảy hàng",
+      "label_vi": "XẤU — cấp trên bên mình ra đầu + nhân viên trẻ nhảy hàng",
       "display_order": 1,
       "analysis": {
         "ja": "副部長フオンが先頭→junior先のルール違反。リンも順序を無視→組織にブリーフィングが無いと露見。",
@@ -77,7 +77,7 @@
           "applies_to_line": "rule_05_good_01",
           "highlight_text": "リン → ズン → トゥアン → 私（フオン）",
           "ja": "自社内 junior→senior 順。intern が最初、副部長が最後。",
-          "vi": "Trong nội bộ: junior trước, senior sau. Intern đầu, phó phòng cuối."
+          "vi": "Trong nội bộ: nhân viên trẻ trước, cấp trên sau. Intern đầu, phó phòng cuối."
         },
         {
           "id": "2",
@@ -187,7 +187,7 @@
       "correct": "B",
       "explanation": {
         "ja": "自社内junior先、相手最上位優先のマトリクス順。",
-        "vi": "Ma trận: junior bên mình trước, senior bên khách ưu tiên."
+        "vi": "Ma trận: nhân viên trẻ bên mình trước, cấp cao bên khách ưu tiên."
       }
     }
   ]

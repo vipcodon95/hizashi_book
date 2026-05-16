@@ -3,11 +3,11 @@
   "rule_slug": "アクションアイテム確認",
   "title": {
     "ja": "アクションアイテムの確認",
-    "vi": "Confirm action items + owner"
+    "vi": "Confirm việc cần làm + người phụ trách"
   },
   "rule_context": {
     "ja": "Phase 2会議終了5分前、ズンが4件のアクションアイテムを Who/What/When で読み上げ、各 owner に音声で confirm を取る場面。",
-    "vi": "5 phút trước khi tan họp Phase 2, Dũng đọc rõ 4 action items với Who/What/When, và xin owner confirm bằng tiếng nói."
+    "vi": "5 phút trước khi tan họp Phase 2, Dũng đọc rõ 4 việc cần làm với Who/What/When, và xin người phụ trách confirm bằng tiếng nói."
   },
   "related_rules": [
     "rule_31",
@@ -64,7 +64,7 @@
           "speaker_role": "BD担当",
           "gender": "male",
           "sentence": "会議終了前に、本日のアクションアイテムを確認させていただきます。4件ございます。",
-          "sentence_translation": "Trước khi kết thúc, em xin được rà lại action items hôm nay ạ. Có 4 item ạ.",
+          "sentence_translation": "Trước khi kết thúc, em xin được rà lại các việc cần làm hôm nay ạ. Có 4 mục ạ.",
           "tone": "formal",
           "annotation_ids": [
             "1"
@@ -135,7 +135,7 @@
       "phrase_id": "rule_44_kp_01",
       "speaker": "zun",
       "sentence": "本日のアクションアイテムを確認させていただきます。〇件ございます。",
-      "sentence_translation": "Em xin được rà lại action items hôm nay ạ. Có 〇 item ạ.",
+      "sentence_translation": "Em xin được rà lại các việc cần làm hôm nay ạ. Có 〇 mục ạ.",
       "purpose": "アクション確認のオープナー",
       "slow_audio": true
     },

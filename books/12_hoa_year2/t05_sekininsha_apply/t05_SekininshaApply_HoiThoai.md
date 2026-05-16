@@ -10,7 +10,7 @@ Tháng 8/2027. Sau sự cố nhỏ T4, Hoa quyết tâm chuyên nghiệp hoá. E
 
 ---
 
-## Scene 1 — Văn phòng Suzuki · 13:00
+## Tình huống 1 — Văn phòng Suzuki · 13:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -26,7 +26,7 @@ Tháng 8/2027. Sau sự cố nhỏ T4, Hoa quyết tâm chuyên nghiệp hoá. E
 
 ---
 
-## Scene 2 — Suzuki giải thích khoá
+## Tình huống 2 — Suzuki giải thích khoá
 
 | Speaker | Lời thoại |
 |---|---|
@@ -44,7 +44,7 @@ Tháng 8/2027. Sau sự cố nhỏ T4, Hoa quyết tâm chuyên nghiệp hoá. E
 
 ---
 
-## Scene 3 — Suzuki gọi Kondo-sensei (overheard by Hoa)
+## Tình huống 3 — Suzuki gọi Kondo-sensei (overheard by Hoa)
 
 | Speaker | Lời thoại |
 |---|---|
@@ -59,7 +59,7 @@ Tháng 8/2027. Sau sự cố nhỏ T4, Hoa quyết tâm chuyên nghiệp hoá. E
 
 ---
 
-## Scene 4 — Phòng Hoa · tối, chuẩn bị câu hỏi cho Kondo-sensei
+## Tình huống 4 — Phòng Hoa · tối, chuẩn bị câu hỏi cho Kondo-sensei
 
 | Speaker | Lời thoại |
 |---|---|
@@ -73,7 +73,7 @@ Tháng 8/2027. Sau sự cố nhỏ T4, Hoa quyết tâm chuyên nghiệp hoá. E
 
 ---
 
-## Scene 5 — Tuần sau · Zoom với Kondo-sensei
+## Tình huống 5 — Tuần sau · Zoom với Kondo-sensei
 
 | Speaker | Lời thoại |
 |---|---|
@@ -86,7 +86,7 @@ Tháng 8/2027. Sau sự cố nhỏ T4, Hoa quyết tâm chuyên nghiệp hoá. E
 
 ---
 
-## Scene 6 — Q&A với Kondo
+## Tình huống 6 — Q&A với Kondo
 
 | Speaker | Lời thoại |
 |---|---|
@@ -104,7 +104,7 @@ Tháng 8/2027. Sau sự cố nhỏ T4, Hoa quyết tâm chuyên nghiệp hoá. E
 
 ---
 
-## Scene 7 — Cuối Zoom — Kondo dạy mindset
+## Tình huống 7 — Cuối Zoom — Kondo dạy mindset
 
 | Speaker | Lời thoại |
 |---|---|
@@ -121,7 +121,7 @@ Tháng 8/2027. Sau sự cố nhỏ T4, Hoa quyết tâm chuyên nghiệp hoá. E
 
 ---
 
-## Scene 8 — Hoa đăng ký online
+## Tình huống 8 — Hoa đăng ký online
 
 | Speaker | Lời thoại |
 |---|---|
@@ -133,7 +133,7 @@ Tháng 8/2027. Sau sự cố nhỏ T4, Hoa quyết tâm chuyên nghiệp hoá. E
 
 ---
 
-## Scene 9 — Mai vào phòng, hỏi chuyện
+## Tình huống 9 — Mai vào phòng, hỏi chuyện
 
 | Speaker | Lời thoại |
 |---|---|
@@ -150,7 +150,7 @@ Tháng 8/2027. Sau sự cố nhỏ T4, Hoa quyết tâm chuyên nghiệp hoá. E
 
 ---
 
-## Scene 10 — Tối · Hoa download textbook
+## Tình huống 10 — Tối · Hoa download textbook
 
 | Speaker | Lời thoại |
 |---|---|
@@ -163,7 +163,7 @@ Tháng 8/2027. Sau sự cố nhỏ T4, Hoa quyết tâm chuyên nghiệp hoá. E
 
 ---
 
-## Scene 11 — Tin nhắn LINE Linh chị
+## Tình huống 11 — Tin nhắn LINE Linh chị
 
 | Speaker | Lời thoại |
 |---|---|
@@ -178,7 +178,7 @@ Tháng 8/2027. Sau sự cố nhỏ T4, Hoa quyết tâm chuyên nghiệp hoá. E
 
 ---
 
-## Scene 12 — Hoa viết nhật ký
+## Tình huống 12 — Hoa viết nhật ký
 
 | Speaker | Lời thoại |
 |---|---|
@@ -219,4 +219,4 @@ Tháng 8/2027. Sau sự cố nhỏ T4, Hoa quyết tâm chuyên nghiệp hoá. E
 
 ## ✨ Câu chốt
 
-> *"Apply chứng chỉ chuyên ngành = bước đầu tiên để mình không chỉ là 'TTS làm việc' mà là 'người chuyên môn'."*
+> *"Đăng ký chứng chỉ chuyên ngành = bước đầu tiên để mình không chỉ là 'TTS làm việc' mà là 'người chuyên môn'."*

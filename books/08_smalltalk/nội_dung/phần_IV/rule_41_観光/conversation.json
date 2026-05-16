@@ -6,11 +6,11 @@
     "ja": "観光・夜の楽しみ"
   },
   "rule_context": {
-    "luan_diem_vi": "JP có cuối tuần / ngày dư = cơ hội flex local theo audience. Senior 60t = Hạ Long/Sapa/Hội An. Junior = Phú Quốc/nightlife. Sai audience = phá trải nghiệm.",
+    "luan_diem_vi": "JP có cuối tuần / ngày dư = cơ hội giới thiệu địa phương theo đối tượng. Senior 60t = Hạ Long/Sapa/Hội An. Junior = Phú Quốc/nightlife. Sai đối tượng = phá trải nghiệm.",
     "luan_diem_ja": "客の世代と興味でおすすめ先を変える。シニア=ハロン湾・サパ、若手=フーコック・ナイトライフ。ミスマッチは禁物。",
-    "boi_canh_vi": "Tháng 12/2026, dinner Tokyo. Matsumoto couple 5 ngày VN, Tanaka+Hai junior trip 4 ngày 'muốn Tạ Hiện', Sato senior natural lover.",
+    "boi_canh_vi": "Tháng 12/2026, dinner Tokyo. Matsumoto couple 5 ngày VN, Tanaka+Hai junior trip 4 ngày 'muốn Tạ Hiện', Sato senior mê thiên nhiên.",
     "boi_canh_ja": "2026年12月、東京会食。松本夫婦5日VN、田中・ハイ若手4日(タヒエン希望)、佐藤シニア自然派。",
-    "muc_tieu_vi": "Học cách match cảnh đẹp + nightlife theo audience JP, kèm warning khi cần."
+    "muc_tieu_vi": "Học cách gợi ý cảnh đẹp + nightlife phù hợp từng đối tượng khách JP, kèm cảnh báo khi cần."
   },
   "related_rules": [
     {
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "scenario": "Mai Châu cho Sato senior natural",
+      "scenario": "Mai Châu cho Sato senior mê thiên nhiên",
       "type": "good",
       "lines": [
         {
@@ -294,7 +294,7 @@
         "D. ホームステイ4泊"
       ],
       "answer": "B",
-      "explain_vi": "Senior couple = scenic + experiential + comfort. A nightlife sai audience; C beach + nightlife trẻ; D quá rural cho người không quen."
+      "explain_vi": "Senior couple = scenic + experiential + comfort. A nightlife sai đối tượng; C beach + nightlife trẻ; D quá hẻo lánh cho người chưa quen."
     },
     {
       "level": "J2",

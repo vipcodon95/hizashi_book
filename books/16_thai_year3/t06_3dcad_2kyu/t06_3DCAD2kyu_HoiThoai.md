@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Ôn nước rút · 11/2024
+## Tình huống 1 — Ôn nước rút · 11/2024
 
 | Speaker | Lời thoại |
 |---|---|
@@ -15,7 +15,7 @@
 
 ---
 
-## Scene 2 — Sáng thi · 12/2024
+## Tình huống 2 — Sáng thi · 12/2024
 
 | Speaker | Lời thoại |
 |---|---|
@@ -27,7 +27,7 @@
 
 ---
 
-## Scene 3 — Sau thi · chiều
+## Tình huống 3 — Sau thi · chiều
 
 | Speaker | Lời thoại |
 |---|---|
@@ -38,7 +38,7 @@
 
 ---
 
-## Scene 4 — Kết quả 1 tháng sau · 1/2025
+## Tình huống 4 — Kết quả 1 tháng sau · 1/2025
 
 | Speaker | Lời thoại |
 |---|---|
@@ -49,7 +49,7 @@
 
 ---
 
-## Scene 5 — Kawakami lên kế hoạch 1 級 · 1/2025
+## Tình huống 5 — Kawakami lên kế hoạch 1 級 · 1/2025
 
 | Speaker | Lời thoại |
 |---|---|
@@ -60,7 +60,7 @@
 
 ---
 
-## Scene 6 — Đêm · 22:00
+## Tình huống 6 — Đêm · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -70,7 +70,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

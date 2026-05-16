@@ -8,7 +8,7 @@ Tháng 7/2022. Thái sau 2 tháng đã quen workshop cơ bản. Sakurai dạy op
 
 ---
 
-## Scene 1 — Sự cố · 14:30 phòng MC
+## Tình huống 1 — Sự cố · 14:30 phòng MC
 
 | Speaker | Lời thoại |
 |---|---|
@@ -24,7 +24,7 @@ Tháng 7/2022. Thái sau 2 tháng đã quen workshop cơ bản. Sakurai dạy op
 
 ---
 
-## Scene 2 — Suzuki gọi · 14:35
+## Tình huống 2 — Suzuki gọi · 14:35
 
 | Speaker | Lời thoại |
 |---|---|
@@ -39,7 +39,7 @@ Tháng 7/2022. Thái sau 2 tháng đã quen workshop cơ bản. Sakurai dạy op
 
 ---
 
-## Scene 3 — Sakurai giải thích · 15:00
+## Tình huống 3 — Sakurai giải thích · 15:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -53,7 +53,7 @@ Tháng 7/2022. Thái sau 2 tháng đã quen workshop cơ bản. Sakurai dạy op
 
 ---
 
-## Scene 4 — Thái viết HH report · 16:00
+## Tình huống 4 — Thái viết HH report · 16:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -67,7 +67,7 @@ Tháng 7/2022. Thái sau 2 tháng đã quen workshop cơ bản. Sakurai dạy op
 
 ---
 
-## Scene 5 — Suzuki review · 17:00
+## Tình huống 5 — Suzuki review · 17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -82,7 +82,7 @@ Tháng 7/2022. Thái sau 2 tháng đã quen workshop cơ bản. Sakurai dạy op
 
 ---
 
-## Scene 6 — 朝礼 chia sẻ HH · 8:30 hôm sau
+## Tình huống 6 — 朝礼 chia sẻ HH · 8:30 hôm sau
 
 | Speaker | Lời thoại |
 |---|---|
@@ -92,12 +92,12 @@ Tháng 7/2022. Thái sau 2 tháng đã quen workshop cơ bản. Sakurai dạy op
 | Thái | <ruby>原因<rt>げんいん</rt></ruby>は<ruby>急<rt>いそ</rt></ruby>ぎ＋<ruby>意識<rt>いしき</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>。<br>*(Nguyên nhân vội + thiếu ý thức.)* |
 | Thái | <ruby>対策<rt>たいさく</rt></ruby>：<ruby>急<rt>いそ</rt></ruby>がない、<ruby>1<rt>いち</rt></ruby>m<ruby>離<rt>はな</rt></ruby>れる、<ruby>通路<rt>つうろ</rt></ruby>ラインを<ruby>守<rt>まも</rt></ruby>る。<br>*(Đối sách: không vội, cách 1m, đi đúng vạch hành lang.)* |
 | Thái | <ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ありませんでした。<br>*(Em xin lỗi.)* |
-| Cast | （<ruby>拍手<rt>はくしゅ</rt></ruby><ruby>軽<rt>かる</rt></ruby>く）<br>*(Vỗ tay nhẹ.)* |
+| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby><ruby>軽<rt>かる</rt></ruby>く）<br>*(Vỗ tay nhẹ.)* |
 | Tanaka | タイ<ruby>君<rt>くん</rt></ruby>、<ruby>正直<rt>しょうじき</rt></ruby>に<ruby>共有<rt>きょうゆう</rt></ruby>ありがとう。みんなも<ruby>気<rt>き</rt></ruby>を<ruby>付<rt>つ</rt></ruby>けて。<br>*(Thái, cảm ơn chia sẻ thẳng. Mọi người cũng cẩn thận.)* |
 
 ---
 
-## Scene 7 — Cast khen sau briefing · 8:50
+## Tình huống 7 — Cast khen sau briefing · 8:50
 
 | Speaker | Lời thoại |
 |---|---|
@@ -111,7 +111,7 @@ Tháng 7/2022. Thái sau 2 tháng đã quen workshop cơ bản. Sakurai dạy op
 
 ---
 
-## Scene 8 — Đêm reflect · 22:00
+## Tình huống 8 — Đêm reflect · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -126,7 +126,7 @@ Tháng 7/2022. Thái sau 2 tháng đã quen workshop cơ bản. Sakurai dạy op
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -1,10 +1,10 @@
-# Sách 20 · T9. ĐH Osaka research + open campus (大学リサーチ)
+# Sách 20 · T9. Tìm hiểu ĐH Osaka + open campus (大学リサーチ)
 
-> **Mục tiêu nhân vật:** 9-10/2025. Đại research ĐH chi tiết. **BƯỚC NGOẶT**: Sau 1 năm tiếp xúc tour app + speech contest tech + Linh-Anh code Python, Đại quyết định đổi nguyện vọng từ 経済学部 sang **基礎工学部 情報科学科** (Information Science). Open campus 9/2025 ở Osaka U + Kobe U + Osaka Inst of Tech. Talk professors AI/NLP/Web. Thu thập info cho 志望理由書.
+> **Mục tiêu nhân vật:** 9-10/2025. Đại tìm hiểu ĐH chi tiết. **BƯỚC NGOẶT**: Sau 1 năm tiếp xúc tour app + speech contest tech + Linh-Anh code Python, Đại quyết định đổi nguyện vọng từ 経済学部 sang **基礎工学部 情報科学科** (Information Science). Open campus 9/2025 ở Osaka U + Kobe U + Osaka Inst of Tech. Talk professors AI/NLP/Web. Thu thập info cho 志望理由書.
 
 ---
 
-## Scene 1 — Open Campus Osaka U · 9/2025 weekend
+## Tình huống 1 — Open Campus Osaka U · 9/2025 weekend
 
 | Speaker | Lời thoại |
 |---|---|
@@ -15,7 +15,7 @@
 
 ---
 
-## Scene 2 — Info session · 13:00
+## Tình huống 2 — Info session · 13:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -29,7 +29,7 @@
 
 ---
 
-## Scene 3 — Individual consultation · 14:30
+## Tình huống 3 — Individual consultation · 14:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -48,7 +48,7 @@
 
 ---
 
-## Scene 4 — Open Kobe U · weekend sau
+## Tình huống 4 — Open Kobe U · weekend sau
 
 | Speaker | Lời thoại |
 |---|---|
@@ -61,7 +61,7 @@
 
 ---
 
-## Scene 5 — 志望理由書 prep brainstorm · 21:00 ký túc
+## Tình huống 5 — 志望理由書 prep brainstorm · 21:00 ký túc
 
 | Speaker | Lời thoại |
 |---|---|
@@ -79,7 +79,7 @@
 
 ---
 
-## Scene 6 — Yamada review draft · 1 tuần sau
+## Tình huống 6 — Yamada review draft · 1 tuần sau
 
 | Speaker | Lời thoại |
 |---|---|
@@ -94,7 +94,7 @@
 
 ---
 
-## Scene 7 — Research professors Osaka U · weekend
+## Tình huống 7 — Research professors Osaka U · weekend
 
 | Speaker | Lời thoại |
 |---|---|
@@ -107,7 +107,7 @@
 
 ---
 
-## Scene 8 — Mock 入試 essay · 20:00
+## Tình huống 8 — Mock 入試 essay · 20:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -119,7 +119,7 @@
 
 ---
 
-## Scene 9 — 面接 mock · 19:00 weekend
+## Tình huống 9 — 面接 mock · 19:00 weekend
 
 | Speaker | Lời thoại |
 |---|---|
@@ -133,7 +133,7 @@
 
 ---
 
-## Scene 10 — Đêm reflect · 22:00
+## Tình huống 10 — Đêm reflect · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -146,12 +146,12 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
-| 大学リサーチ | だいがくリサーチ | ĐH research |
-| Open campus | オープンキャンパス | Open campus |
+| 大学リサーチ | だいがくリサーチ | Tìm hiểu ĐH |
+| Open campus | オープンキャンパス | Ngày hội mở cửa trường |
 | 留学生枠 | りゅうがくせいわく | Slot du học |
 | 競争率5:1 | きょうそうりつごたいいち | 5:1 |
 | 個別相談 | こべつそうだん | Bàn riêng |

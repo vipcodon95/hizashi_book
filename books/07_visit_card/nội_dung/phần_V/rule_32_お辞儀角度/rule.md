@@ -53,7 +53,7 @@ Tối trước khi đi onsite Tokyo, chị Hương phó phòng demo 4 loại bow
 
 > **「お辞儀は会釈15°・敬礼30°・最敬礼45°・謝罪90°の4種類。角度=温度+敬意+反省深さの signal。」**
 >
-> *Bow có 4 loại: eshaku 15°, keirei 30°, saikeirei 45°, xin lỗi 90°. Góc cúi = signal nhiệt + kính trọng + độ ăn năn.*
+> *Bow có 4 loại: eshaku 15°, keirei 30°, saikeirei 45°, xin lỗi 90°. Góc cúi = tín hiệu nhiệt + kính trọng + độ ăn năn.*
 
 ---
 

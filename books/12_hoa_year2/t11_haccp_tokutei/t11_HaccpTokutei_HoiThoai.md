@@ -10,7 +10,7 @@ Tháng 2/2028. Chứng chỉ HACCP coordinator gửi về. Suzuki gọi Hoa lên
 
 ---
 
-## Scene 1 — Sáng · Hoa nhận chứng chỉ qua bưu điện
+## Tình huống 1 — Sáng · Hoa nhận chứng chỉ qua bưu điện
 
 | Speaker | Lời thoại |
 |---|---|
@@ -23,7 +23,7 @@ Tháng 2/2028. Chứng chỉ HACCP coordinator gửi về. Suzuki gọi Hoa lên
 
 ---
 
-## Scene 2 — Hoa khoe Mai
+## Tình huống 2 — Hoa khoe Mai
 
 | Speaker | Lời thoại |
 |---|---|
@@ -38,7 +38,7 @@ Tháng 2/2028. Chứng chỉ HACCP coordinator gửi về. Suzuki gọi Hoa lên
 
 ---
 
-## Scene 3 — Văn phòng Suzuki · 14:00
+## Tình huống 3 — Văn phòng Suzuki · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -54,7 +54,7 @@ Tháng 2/2028. Chứng chỉ HACCP coordinator gửi về. Suzuki gọi Hoa lên
 
 ---
 
-## Scene 4 — Suzuki giải thích process SSW1
+## Tình huống 4 — Suzuki giải thích process SSW1
 
 | Speaker | Lời thoại |
 |---|---|
@@ -70,7 +70,7 @@ Tháng 2/2028. Chứng chỉ HACCP coordinator gửi về. Suzuki gọi Hoa lên
 
 ---
 
-## Scene 5 — Lộ trình chi tiết
+## Tình huống 5 — Lộ trình chi tiết
 
 | Speaker | Lời thoại |
 |---|---|
@@ -85,7 +85,7 @@ Tháng 2/2028. Chứng chỉ HACCP coordinator gửi về. Suzuki gọi Hoa lên
 
 ---
 
-## Scene 6 — Hoa hỏi về lộ trình xa
+## Tình huống 6 — Hoa hỏi về lộ trình xa
 
 | Speaker | Lời thoại |
 |---|---|
@@ -103,7 +103,7 @@ Tháng 2/2028. Chứng chỉ HACCP coordinator gửi về. Suzuki gọi Hoa lên
 
 ---
 
-## Scene 7 — Hoa hỏi về Mai
+## Tình huống 7 — Hoa hỏi về Mai
 
 | Speaker | Lời thoại |
 |---|---|
@@ -119,7 +119,7 @@ Tháng 2/2028. Chứng chỉ HACCP coordinator gửi về. Suzuki gọi Hoa lên
 
 ---
 
-## Scene 8 — Hoa cảm xúc
+## Tình huống 8 — Hoa cảm xúc
 
 | Speaker | Lời thoại |
 |---|---|
@@ -135,7 +135,7 @@ Tháng 2/2028. Chứng chỉ HACCP coordinator gửi về. Suzuki gọi Hoa lên
 
 ---
 
-## Scene 9 — Hoa và Mai · tối ăn cơm
+## Tình huống 9 — Hoa và Mai · tối ăn cơm
 
 | Speaker | Lời thoại |
 |---|---|
@@ -151,7 +151,7 @@ Tháng 2/2028. Chứng chỉ HACCP coordinator gửi về. Suzuki gọi Hoa lên
 
 ---
 
-## Scene 10 — Tin nhắn Andi
+## Tình huống 10 — Tin nhắn Andi
 
 | Speaker | Lời thoại |
 |---|---|
@@ -167,7 +167,7 @@ Tháng 2/2028. Chứng chỉ HACCP coordinator gửi về. Suzuki gọi Hoa lên
 
 ---
 
-## Scene 11 — Phòng Hoa · viết kế hoạch
+## Tình huống 11 — Phòng Hoa · viết kế hoạch
 
 | Speaker | Lời thoại |
 |---|---|
@@ -182,11 +182,11 @@ Tháng 2/2028. Chứng chỉ HACCP coordinator gửi về. Suzuki gọi Hoa lên
 
 ---
 
-## Scene 12 — Hoa viết nhật ký
+## Tình huống 12 — Hoa viết nhật ký
 
 | Speaker | Lời thoại |
 |---|---|
-| Hoa | 2<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>。HACCP <ruby>認定証<rt>にんていしょう</rt></ruby>。<br>*(20/2. Cert HACCP.)* |
+| Hoa | 2<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>。HACCP <ruby>認定証<rt>にんていしょう</rt></ruby>。<br>*(20/2. Chứng chỉ HACCP.)* |
 | Hoa | <ruby>鈴木<rt>すずき</rt></ruby>さんと10<ruby>年計画<rt>ねんけいかく</rt></ruby>を<ruby>立<rt>た</rt></ruby>てた。<br>*(Lên kế hoạch 10 năm với anh Suzuki.)* |
 | Hoa | SSW1 → SSW2 → <ruby>永住権<rt>えいじゅうけん</rt></ruby>。<br>*(SSW1 → SSW2 → vĩnh trú.)* |
 | Hoa | 35<ruby>歳<rt>さい</rt></ruby>で<ruby>永住<rt>えいじゅう</rt></ruby>。<ruby>大<rt>おお</rt></ruby>きい<ruby>夢<rt>ゆめ</rt></ruby>。<br>*(35 tuổi vĩnh trú. Mơ lớn.)* |

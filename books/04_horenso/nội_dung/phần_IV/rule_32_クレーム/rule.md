@@ -1,6 +1,6 @@
 # Rule 32 — Khi khách phàn nàn — escalation / クレームのエスカレーション
 
-> **Luận điểm.** Khách Nhật phàn nàn (クレーム) hiếm khi ngay từ đầu. Khi đã nói "**困っております**" / "**改善いただきたい**" / "**いかがでしょうか?**" với tone formal là dấu hiệu đã chịu đựng lâu. Junior nhận khiếu nại thường có 2 lỗi: **(1) Defensive ngay** ("không phải lỗi mình" hoặc "đó là do anh báo trễ") **(2) Hứa luôn** ("em sẽ xử lý ngay" mà chưa verify). Pattern đúng: **(1) Lắng nghe đầy đủ + 復唱 (lặp lại) khẳng định đã hiểu**, **(2) Xin lỗi pre-verification ("ご不便をおかけし誠に申し訳ございません" — không nhận lỗi cụ thể)**, **(3) Senior verify + plan**, **(4) Reply chính thức trong 24h với phương án**.
+> **Luận điểm.** Khách Nhật phàn nàn (クレーム) hiếm khi ngay từ đầu. Khi đã nói "**困っております**" / "**改善いただきたい**" / "**いかがでしょうか?**" với tone formal là dấu hiệu đã chịu đựng lâu. Junior nhận khiếu nại thường có 2 lỗi: **(1) Phản bác ngay** ("không phải lỗi mình" hoặc "đó là do anh báo trễ") **(2) Hứa luôn** ("em sẽ xử lý ngay" mà chưa verify). Pattern đúng: **(1) Lắng nghe đầy đủ + 復唱 (lặp lại) khẳng định đã hiểu**, **(2) Xin lỗi pre-verification ("ご不便をおかけし誠に申し訳ございません" — không nhận lỗi cụ thể)**, **(3) Senior verify + plan**, **(4) Reply chính thức trong 24h với phương án**.
 >
 > クレーム対応4ステップ：①傾聴+復唱→②事実確認前のお詫び→③上位者と検証+対応案→④24h以内の正式回答。即否定も即約束もNG。
 >

@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Trial 2 · 9:00
+## Tình huống 1 — Trial 2 · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -15,7 +15,7 @@
 
 ---
 
-## Scene 2 — Shot + warpage · 10:30
+## Tình huống 2 — Shot + warpage · 10:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -28,7 +28,7 @@
 
 ---
 
-## Scene 3 — Kawakami review · 11:00
+## Tình huống 3 — Kawakami review · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -42,7 +42,7 @@
 
 ---
 
-## Scene 4 — Welding · ngày 2
+## Tình huống 4 — Welding · ngày 2
 
 | Speaker | Lời thoại |
 |---|---|
@@ -55,7 +55,7 @@
 
 ---
 
-## Scene 5 — Re-machining + trial 3 · ngày 4
+## Tình huống 5 — Re-machining + trial 3 · ngày 4
 
 | Speaker | Lời thoại |
 |---|---|
@@ -70,7 +70,7 @@
 
 ---
 
-## Scene 6 — Kawakami khen · 17:00
+## Tình huống 6 — Kawakami khen · 17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -83,7 +83,7 @@
 
 ---
 
-## Scene 7 — Đêm · 22:00
+## Tình huống 7 — Đêm · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -94,7 +94,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

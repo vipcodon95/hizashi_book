@@ -1,6 +1,6 @@
 # Rule 38 — Self-diagnostic Hou-Ren-Sou / 自己診断
 
-> **Luận điểm.** Hou-Ren-Sou là **kỹ năng**, không phải nhân cách — phải **đo định kỳ** mới biết tiến hay lùi. Self-diagnostic checklist 15 mục, chia 3 nhóm × 5 item: **(1) 報告 5 mục** (kết luận trước, fact/opinion, kịp thời, deadline, cấu trúc), **(2) 連絡 5 mục** (即時, channel chọn đúng, audience đúng, broadcast vs DM, EOD log), **(3) 相談 5 mục** (準備, 仮説, 複数案, 客先 tone, DR化). Chấm tự A/B/C/D mỗi cuối tháng. C-D dưới 3 = OK; ≥ 3 = trigger 1-on-1 với mentor + action plan.
+> **Luận điểm.** Hou-Ren-Sou là **kỹ năng**, không phải nhân cách — phải **đo định kỳ** mới biết tiến hay lùi. Self-diagnostic checklist 15 mục, chia 3 nhóm × 5 item: **(1) 報告 5 mục** (kết luận trước, fact/opinion, kịp thời, deadline, cấu trúc), **(2) 連絡 5 mục** (即時, channel chọn đúng, audience đúng, broadcast vs DM, EOD log), **(3) 相談 5 mục** (準備, 仮説, 複数案, 客先 tone, DR化). Chấm tự A/B/C/D mỗi cuối tháng. C-D dưới 3 = OK; ≥ 3 = kích hoạt 1-on-1 với mentor + action plan.
 >
 > 自己診断15項目: 報告5・連絡5・相談5。月末A〜D評価、C-D が3以上で mentor 1-on-1。3ヶ月毎に推移をグラフ化。
 >

@@ -1,6 +1,6 @@
 # Rule 18 — Khi có người vắng mặt / 欠席者の対応
 
-> **Luận điểm.** Khi có người không đến: 司会 phải **公表 ngay đầu họp**: (1) ai vắng, (2) lý do **ngắn gọn** (không kể chi tiết private), (3) **plan share lại biên bản**, (4) nếu cần input của họ → **持ち帰り** confirm sau. Cấm "vẫn quyết tiếp" mà không nói gì.
+> **Luận điểm.** Khi có người không đến: 司会 phải **公表 ngay đầu họp**: (1) ai vắng, (2) lý do **ngắn gọn** (không kể chi tiết riêng tư), (3) **plan share lại biên bản**, (4) nếu cần input của họ → **持ち帰り** confirm sau. Cấm "vẫn quyết tiếp" mà không nói gì.
 >
 > 欠席者の対応：①氏名公表 ②簡潔な理由 ③議事録の共有方針 ④input 必要なら持ち帰り合意。黙って進めるのは禁。
 >
@@ -42,7 +42,7 @@ Trước nội dung 1, em Linh báo Dũng: chị Hương副部長 bị sốt sá
 
 📝 **Ghi chú:**
 - 【1】**「弊社 副部長のフオンは体調不良のため欠席」** — 内 (uchi) drop title prefix. Lý do ngắn 「体調不良」 đủ rồi, không kể "sốt 38度" hay "đi bệnh viện".
-- 【2】**「議事録は本日中に〇〇へ共有」** — commit timeline. Liên kết rule 45 + rule 48.
+- 【2】**「議事録は本日中に〇〇へ共有」** — cam kết thời hạn. Liên kết rule 45 + rule 48.
 - 【3】**「方向性合意までとさせていただき、最終確定は…」** — flag rằng quyết định cuối cần người vắng confirm. Đây là cách tránh "quyết hớ rồi rút lại".
 
 ---
@@ -60,7 +60,7 @@ Trước nội dung 1, em Linh báo Dũng: chị Hương副部長 bị sốt sá
 - Không 公表 → khách tự phát hiện = mất uy tín.
 - Kể chi tiết lý do (bệnh / việc cá nhân) → không cần thiết.
 - Quyết "thay" người vắng nếu không có authority → quyết bị rút lại = thất hứa.
-- Quên gửi biên bản cho người vắng → họ không catch up được (rule 48).
+- Quên gửi biên bản cho người vắng → họ không bắt kịp được (rule 48).
 
 ---
 

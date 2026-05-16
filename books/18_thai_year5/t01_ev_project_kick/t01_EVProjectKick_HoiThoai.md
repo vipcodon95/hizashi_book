@@ -8,7 +8,7 @@
 
 ---
 
-## Scene 1 — Kawakami brief · 9:00
+## Tình huống 1 — Kawakami brief · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -22,7 +22,7 @@
 
 ---
 
-## Scene 2 — Team formation · 10:00
+## Tình huống 2 — Team formation · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -35,7 +35,7 @@
 
 ---
 
-## Scene 3 — Gặp Yamamoto · 11:00
+## Tình huống 3 — Gặp Yamamoto · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -49,7 +49,7 @@
 
 ---
 
-## Scene 4 — Spec review · 14:00 phòng họp
+## Tình huống 4 — Xem xét thông số kỹ thuật · 14:00 phòng họp
 
 | Speaker | Lời thoại |
 |---|---|
@@ -63,7 +63,7 @@
 
 ---
 
-## Scene 5 — Project plan · 15:00
+## Tình huống 5 — Kế hoạch dự án · 15:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -78,7 +78,7 @@
 
 ---
 
-## Scene 6 — Đêm · 22:00
+## Tình huống 6 — Đêm · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -89,7 +89,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

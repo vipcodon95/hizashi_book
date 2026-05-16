@@ -11,7 +11,7 @@
 
 ## Bối cảnh / 場面
 
-Sau khi nhận danh thiếp Ōgaki (rule 02), Dũng tự giới thiệu và trao danh thiếp cho Ōgaki. Đây là first contact, Dũng cần set the tone formal cho cả meeting.
+Sau khi nhận danh thiếp Ōgaki (rule 02), Dũng tự giới thiệu và trao danh thiếp cho Ōgaki. Đây là first contact, Dũng cần định tông formal cho cả meeting.
 
 ---
 

@@ -8,12 +8,12 @@ Cuối tháng 7/2024. Tenjin Matsuri ngày 24-25/7 (1000 năm lịch sử). Nhó
 
 ---
 
-## Scene 1 — Yamada-sensei giới thiệu lễ hội · 13:00 lớp
+## Tình huống 1 — Yamada-sensei giới thiệu lễ hội · 13:00 lớp
 
 | Speaker | Lời thoại |
 |---|---|
 | Yamada | みなさん、<ruby>来週<rt>らいしゅう</rt></ruby><ruby>天神祭<rt>てんじんまつり</rt></ruby>。<br>*(Tuần sau Tenjin Matsuri.)* |
-| Cast | （<ruby>注目<rt>ちゅうもく</rt></ruby>）<br>*(Chú ý.)* |
+| Nhân vật | （<ruby>注目<rt>ちゅうもく</rt></ruby>）<br>*(Chú ý.)* |
 | Yamada | <ruby>大阪<rt>おおさか</rt></ruby><ruby>三大<rt>さんだい</rt></ruby><ruby>夏祭<rt>なつまつ</rt></ruby>り<ruby>第<rt>だい</rt></ruby><ruby>1<rt>いち</rt></ruby>。<ruby>1000<rt>せん</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>歴史<rt>れきし</rt></ruby>。<br>*(Top 1 lễ Osaka. 1000 năm.)* |
 | Yamada | <ruby>主<rt>しゅ</rt></ruby>な<ruby>行事<rt>ぎょうじ</rt></ruby>:<br>*(Sự kiện chính:)* |
 | Yamada | <ruby>24<rt>にじゅうよっ</rt></ruby><ruby>日<rt>か</rt></ruby>:<ruby>宵宮<rt>よみや</rt></ruby> (đêm trước)<br>*(24: đêm trước.)* |
@@ -23,7 +23,7 @@ Cuối tháng 7/2024. Tenjin Matsuri ngày 24-25/7 (1000 năm lịch sử). Nhó
 
 ---
 
-## Scene 2 — Plan với cohort · 14:00 cafe sau lớp
+## Tình huống 2 — Lên kế hoạch với cả nhóm · 14:00 cafe sau lớp
 
 | Speaker | Lời thoại |
 |---|---|
@@ -40,7 +40,7 @@ Cuối tháng 7/2024. Tenjin Matsuri ngày 24-25/7 (1000 năm lịch sử). Nhó
 
 ---
 
-## Scene 3 — Yukata fitting shop · 16:00 25/7
+## Tình huống 3 — Yukata fitting shop · 16:00 25/7
 
 | Speaker | Lời thoại |
 |---|---|
@@ -59,7 +59,7 @@ Cuối tháng 7/2024. Tenjin Matsuri ngày 24-25/7 (1000 năm lịch sử). Nhó
 
 ---
 
-## Scene 4 — Selfie + ra Tenmangu · 16:30
+## Tình huống 4 — Selfie + ra Tenmangu · 16:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -72,7 +72,7 @@ Cuối tháng 7/2024. Tenjin Matsuri ngày 24-25/7 (1000 năm lịch sử). Nhó
 
 ---
 
-## Scene 5 — Đến Tenmangu · 17:30
+## Tình huống 5 — Đến Tenmangu · 17:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -87,7 +87,7 @@ Cuối tháng 7/2024. Tenjin Matsuri ngày 24-25/7 (1000 năm lịch sử). Nhó
 
 ---
 
-## Scene 6 — 陸渡御 parade · 18:00
+## Tình huống 6 — 陸渡御 parade · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -101,7 +101,7 @@ Cuối tháng 7/2024. Tenjin Matsuri ngày 24-25/7 (1000 năm lịch sử). Nhó
 
 ---
 
-## Scene 7 — Đến sông + 船渡御 boats · 19:00
+## Tình huống 7 — Đến sông + 船渡御 boats · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -115,11 +115,11 @@ Cuối tháng 7/2024. Tenjin Matsuri ngày 24-25/7 (1000 năm lịch sử). Nhó
 
 ---
 
-## Scene 8 — Hanabi 19:30 · pháo bông 5000 phát
+## Tình huống 8 — Hanabi 19:30 · pháo bông 5000 phát
 
 | Speaker | Lời thoại |
 |---|---|
-| Cast | （<ruby>河川敷<rt>かせんじき</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>る）<br>*(Ngồi bờ sông.)* |
+| Nhân vật | （<ruby>河川敷<rt>かせんじき</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>る）<br>*(Ngồi bờ sông.)* |
 | Đại | （<ruby>携帯<rt>けいたい</rt></ruby>のカメラを<ruby>準備<rt>じゅんび</rt></ruby>）<br>*(Chuẩn bị máy ảnh điện thoại.)* |
 | (Loa) | <ruby>奉納<rt>ほうのう</rt></ruby><ruby>花火<rt>はなび</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めます！<br>*(Bắt đầu pháo bông dâng lễ!)* |
 | Hanabi | （<ruby>大<rt>おお</rt></ruby>きな<ruby>音<rt>おと</rt></ruby>と<ruby>赤<rt>あか</rt></ruby>・<ruby>緑<rt>みどり</rt></ruby>・<ruby>青<rt>あお</rt></ruby>・<ruby>金色<rt>きんいろ</rt></ruby>）<br>*(Tiếng nổ lớn + đỏ-xanh-lục-vàng kim.)* |
@@ -132,7 +132,7 @@ Cuối tháng 7/2024. Tenjin Matsuri ngày 24-25/7 (1000 năm lịch sử). Nhó
 
 ---
 
-## Scene 9 — Sau hanabi + về · 21:30
+## Tình huống 9 — Sau hanabi + về · 21:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -147,7 +147,7 @@ Cuối tháng 7/2024. Tenjin Matsuri ngày 24-25/7 (1000 năm lịch sử). Nhó
 
 ---
 
-## Scene 10 — Trả yukata + về Tanaka · 23:00
+## Tình huống 10 — Trả yukata + về Tanaka · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -164,7 +164,7 @@ Cuối tháng 7/2024. Tenjin Matsuri ngày 24-25/7 (1000 năm lịch sử). Nhó
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

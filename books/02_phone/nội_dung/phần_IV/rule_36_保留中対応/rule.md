@@ -1,4 +1,4 @@
-# Rule 36 — Đừng để hold quá im — voice fill / 保留中の対応
+# Rule 36 — Đừng để hold quá im — lấp im lặng / 保留中の対応
 
 > **Luận điểm.** Hold máy quá 30 giây mà im lặng = khách lo "có còn line không". Cứ 30 giây quay lại line nói **「お待たせしております」** một lần.
 >

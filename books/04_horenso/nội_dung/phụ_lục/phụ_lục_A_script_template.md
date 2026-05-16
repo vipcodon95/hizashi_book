@@ -607,7 +607,7 @@
 
 
 
-## Phần V — Voicemail, Online & Best Practice
+## Phần V — Voicemail, Online & Thực hành tốt nhất
 
 ### Rule 37 — Chọn channel: Slack / Notion / Email / Slack / Notion / Email — チャネル選択
 

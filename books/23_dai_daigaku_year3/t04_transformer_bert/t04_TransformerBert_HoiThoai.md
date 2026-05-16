@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Attention paper · 12/5
+## Tình huống 1 — Attention paper · 12/5
 
 | Speaker | Lời thoại |
 |---|---|
@@ -15,7 +15,7 @@
 
 ---
 
-## Scene 2 — Multi-head + positional encoding
+## Tình huống 2 — Multi-head + positional encoding
 
 | Speaker | Lời thoại |
 |---|---|
@@ -24,7 +24,7 @@
 
 ---
 
-## Scene 3 — BERT explained · 19/5
+## Tình huống 3 — BERT explained · 19/5
 
 | Speaker | Lời thoại |
 |---|---|
@@ -36,7 +36,7 @@
 
 ---
 
-## Scene 4 — Đại fine-tune BERT-Japan · weekend
+## Tình huống 4 — Đại fine-tune BERT-Japan · weekend
 
 | Speaker | Lời thoại |
 |---|---|
@@ -47,7 +47,7 @@
 
 ---
 
-## Scene 5 — GPT vs BERT difference
+## Tình huống 5 — GPT vs BERT difference
 
 | Speaker | Lời thoại |
 |---|---|
@@ -57,7 +57,7 @@
 
 ---
 
-## Scene 6 — Đêm + Hana 1 tháng
+## Tình huống 6 — Đêm + Hana 1 tháng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -69,7 +69,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

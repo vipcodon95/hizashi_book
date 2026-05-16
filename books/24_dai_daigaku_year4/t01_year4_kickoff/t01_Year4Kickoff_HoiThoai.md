@@ -1,6 +1,6 @@
 # Sách 24 · T1. 4/2029 — Year 4 kickoff. Hizashi v0.5 dev intensive (4年生開始)
 
-> **Mục tiêu:** 4/2029. Đại 24t năm 4 ĐH. Cuối cùng. Hizashi từ v0.1 (5 user) scale → v0.5 (50 user beta). 卒研 final year. Yamada-senpai sang M2 lab head dày dặn. Mai làm part-time tour guide JP-VN ¥1500/h.
+> **Mục tiêu:** 4/2029. Đại 24t năm 4 ĐH. Chặng cuối cùng. Hizashi từ v0.1 (5 người dùng) mở rộng → v0.5 (50 người dùng beta). 卒研 năm cuối. Yamada-senpai lên M2 phụ trách lab. Mai làm tour guide bán thời gian JP-VN ¥1500/h.
 
 ## Bối cảnh
 
@@ -11,7 +11,7 @@
 
 ---
 
-## Scene 1 — Inoue Lab year 4 kickoff · 1/4/2029
+## Tình huống 1 — Inoue Lab year 4 kickoff · 1/4/2029
 
 | Speaker | Lời thoại |
 |---|---|
@@ -22,7 +22,7 @@
 
 ---
 
-## Scene 2 — Đại trình Hizashi roadmap · 14:00
+## Tình huống 2 — Đại trình Hizashi roadmap · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -35,7 +35,7 @@
 
 ---
 
-## Scene 3 — Yamada-senpai M2 mentor expanded
+## Tình huống 3 — Yamada-senpai M2 mentor expanded
 
 | Speaker | Lời thoại |
 |---|---|
@@ -46,7 +46,7 @@
 
 ---
 
-## Scene 4 — Mai tour guide first job · 5/4
+## Tình huống 4 — Mai tour guide first job · 5/4
 
 | Speaker | Lời thoại |
 |---|---|
@@ -56,7 +56,7 @@
 
 ---
 
-## Scene 5 — Hana milestones · weekend
+## Tình huống 5 — Hana milestones · weekend
 
 | Speaker | Lời thoại |
 |---|---|
@@ -67,7 +67,7 @@
 
 ---
 
-## Scene 6 — Đêm reflect
+## Tình huống 6 — Đêm reflect
 
 | Speaker | Lời thoại |
 |---|---|
@@ -78,7 +78,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -93,9 +93,9 @@
 
 ## Bí quyết chương
 
-- **Year 4 final**: Emotional + intense.
-- **Yamada co-author**: Setup IPSJ paper T5.
-- **Mai tour guide**: Realistic income for VN N2+English background.
-- **Hana milestones**: Family thread.
+- **Năm 4 chặng cuối**: Vừa xúc động vừa áp lực.
+- **Yamada đồng tác giả**: Dọn đường cho paper IPSJ tháng 5.
+- **Mai làm tour guide**: Thu nhập thực tế phù hợp bạn N2 người Việt.
+- **Cột mốc của Hana**: Sợi chỉ gia đình xuyên suốt.
 
-> *"Year 4 kickoff. Hizashi v0.5 → v1.0. Yamada co-author. Mai first tour. Hana 8 tháng đứng."*
+> *"Khởi động năm 4. Hizashi v0.5 → v1.0. Yamada đồng tác giả. Mai chuyến tour đầu tiên. Hana 8 tháng biết đứng."*

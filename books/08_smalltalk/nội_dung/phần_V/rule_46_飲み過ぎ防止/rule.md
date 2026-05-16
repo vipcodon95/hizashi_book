@@ -51,7 +51,7 @@ Tháng 5/2026, dinner Phase 4 với Ōgaki + Matsumoto + Tanaka. Đến cuối �
 | **ズン** | 「**ジンジャエール**でいいですか?」 |
 | **松本** | 「うん、それでいいよ。」 |
 
-📝 **Pattern an toàn:** "**水で一旦休む**" → 15 phút uống nước → quay lại với non-alcoholic (ginger ale / oolong / 烏龍茶) → cuối buổi không bị kéo say. Senior JP modern hoàn toàn OK với điều này.
+📝 **Cách an toàn:** "**水で一旦休む**" → 15 phút uống nước → quay lại với đồ uống không cồn (ginger ale / oolong / 烏龍茶) → cuối buổi không bị kéo say. Senior JP hiện đại hoàn toàn OK với điều này.
 
 ---
 
@@ -71,7 +71,7 @@ Tháng 5/2026, dinner Phase 4 với Ōgaki + Matsumoto + Tanaka. Đến cuối �
 | **大垣** | 「そやな、お開きにしよう。ズン、田中をタクシー乗せてくれ。」 |
 | **ズン** | 「了解です。お先に失礼します。」 |
 
-📝【1】 **Cut in with care concern** — KHÔNG là "stop talking", mà "your face color is off → water" → defuse + change topic. Sau đó **escort to taxi** + có thể text PM team báo "Tanaka về an toàn". Đây là rescue cho ĐỒNG NGHIỆP của khách → +đẳng cấp.
+📝【1】 **Ngắt nhẹ bằng quan tâm sức khỏe** — KHÔNG phải "im đi", mà "mặt anh trông mệt → nước" → giải tỏa + chuyển chủ đề. Sau đó **tiễn lên taxi** + có thể nhắn PM team báo "Tanaka về an toàn". Đây là gỡ cho ĐỒNG NGHIỆP của khách → +đẳng cấp.
 
 ---
 
@@ -144,7 +144,7 @@ Tháng 5/2026, dinner Phase 4 với Ōgaki + Matsumoto + Tanaka. Đến cuối �
 | 烏龍茶 | ウーロンちゃ | Trà ô long (non-alc default) |
 | お開き | おひらき | Kết thúc buổi |
 | 顔色 | かおいろ | Sắc mặt |
-| おしぼり | — | Khăn ướt (rescue tool) |
+| おしぼり | — | Khăn ướt (dùng khi cần gỡ tình huống) |
 | 賢明 | けんめい | Khôn ngoan (compliment senior thường nói) |
 
 ---
@@ -153,7 +153,7 @@ Tháng 5/2026, dinner Phase 4 với Ōgaki + Matsumoto + Tanaka. Đến cuối �
 
 **J3 — 場面把握:** Phrase chuẩn từ chối "もう十分いただきました" + lý do nhẹ + hài.
 **J2 — 表現読解:** Sắc thái "大丈夫?" của senior khi mình từ chối — không phải đang ép, mà là confirm care.
-**J1 — 発言聴解:** Catch khi đồng nghiệp JP say + slip topic xấu → cut in care concern + escort.
+**J1 — 発言聴解:** Catch khi đồng nghiệp JP say + slip topic xấu → ngắt nhẹ bằng quan tâm + tiễn về.
 
 ---
 

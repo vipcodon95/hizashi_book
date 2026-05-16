@@ -43,7 +43,7 @@ Trong meeting nội bộ ティエンファット, Tuấn lo lắng vì sau pitc
 📝 **Ghi chú:**
 - 【1】**Ringi cycle 2-3 週間 normal** —契約金額が大きいほど長い (¥18M なら 3-4 週). 1 週で返ってきたら逆に「真剣に検討してない」サイン.
 - 【2】**根回し (nemawashi)** = đi gặp riêng từng key person trước khi văn bản chính thức (ringi-sho) chuyền tay. Đây là không chính thức nhưng quyết định chính.
-- 【3】**Support nemawashi** = đưa cho contact (Matsumoto) tài liệu/argument để họ nói với key persons khác. KHÔNG phải gọi điện hối thúc.
+- 【3】**Hỗ trợ nemawashi** = đưa cho contact (Matsumoto) tài liệu/argument để họ nói với các nhân vật then chốt khác. KHÔNG phải gọi điện hối thúc.
 
 ---
 

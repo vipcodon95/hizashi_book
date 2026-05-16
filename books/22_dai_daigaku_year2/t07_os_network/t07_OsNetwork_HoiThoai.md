@@ -10,7 +10,7 @@
 
 ---
 
-## Scene 1 — OS lecture: Process vs Thread · 9:00
+## Tình huống 1 — OS lecture: Process vs Thread · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -22,7 +22,7 @@
 
 ---
 
-## Scene 2 — Memory management · 11:00
+## Tình huống 2 — Memory management · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -32,7 +32,7 @@
 
 ---
 
-## Scene 3 — Network OSI 7 layers · 14:00
+## Tình huống 3 — Network OSI 7 layers · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -48,7 +48,7 @@
 
 ---
 
-## Scene 4 — TCP vs UDP + HTTP · 16:00
+## Tình huống 4 — TCP vs UDP + HTTP · 16:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -59,7 +59,7 @@
 
 ---
 
-## Scene 5 — DNS deep · evening
+## Tình huống 5 — DNS deep · evening
 
 | Speaker | Lời thoại |
 |---|---|
@@ -69,7 +69,7 @@
 
 ---
 
-## Scene 6 — Linux dual-boot Ubuntu setup · weekend
+## Tình huống 6 — Linux dual-boot Ubuntu setup · weekend
 
 | Speaker | Lời thoại |
 |---|---|
@@ -80,7 +80,7 @@
 
 ---
 
-## Scene 7 — Mai N2 prep start · Yamato School
+## Tình huống 7 — Mai N2 prep start · Yamato School
 
 | Speaker | Lời thoại |
 |---|---|
@@ -90,7 +90,7 @@
 
 ---
 
-## Scene 8 — Đêm reflect
+## Tình huống 8 — Đêm reflect
 
 | Speaker | Lời thoại |
 |---|---|
@@ -100,7 +100,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

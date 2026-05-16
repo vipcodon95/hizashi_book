@@ -1,4 +1,4 @@
-# Rule 24 — Mời khách dinner formal / 接待ディナーへの招待
+# Rule 24 — Mời khách bữa ăn tối trang trọng / 接待ディナーへの招待
 
 > **Luận điểm.** Tiếp khách (接待) cấp CFO không phải "rủ ăn tối". Combo bắt buộc: **đặt nhà hàng từ D-2 + phòng riêng + course chốt trước + hỏi dị ứng / kiêng / rượu + xe đưa đón 2 chiều**. Đặt cùng ngày = chỉ còn quán B = mất tầm. Để khách tự chọn menu = đẩy gánh nặng quyết định.
 >
@@ -38,7 +38,7 @@
 | **ハーCTO** | 「完璧。当日はホスト側着席は私+ズン+トゥアン+フオン副部長。よろしく。」 |
 
 📝 **Ghi chú:**
-- 【1】**Phòng riêng + course chốt trước** = privacy + đẳng cấp. Có CFO = course top + wine pairing là chuẩn. Số người + 1 ghế buffer.
+- 【1】**Phòng riêng + course chốt trước** = privacy + đẳng cấp. Có CFO = course top + wine pairing là chuẩn. Số người + 1 ghế dự phòng.
 - 【2】**Confirm dị ứng / tôn giáo / không thích** qua Tanaka PMO trước D-3. Hỏi tại chỗ = thất lễ. Note rõ từng người.
 - 【3】**Default sake + vang + nonalc** → khách có lựa chọn. CFO không uống cũng không bị áp lực.
 - 【4】**Hotel ↔ restaurant 2 chiều** = chuẩn tiếp khách. Không để khách tự đặt xe — mất tầm host.

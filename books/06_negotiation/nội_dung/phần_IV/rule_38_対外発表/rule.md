@@ -1,6 +1,6 @@
 # Rule 38 — Public PR release joint approval / 対外発表
 
-> **Luận điểm.** PR release announce contract = excellent marketing for cả 2 bên — nhưng JP business **cực kỳ sensitive** với wording. Bắt buộc: (a) **joint approval** từ both legal + PR depts, (b) tránh exact ¥ figure (dùng "数千万円規模"), (c) tên client trong câu sau Tiên Phát (KHÔNG đặt 白鷗 đầu giả "勝った" tone), (d) embargo 同日同時刻 release.
+> **Luận điểm.** PR release announce contract = excellent marketing for cả 2 bên — nhưng JP business **cực kỳ nhạy cảm** với cách dùng từ. Bắt buộc: (a) **joint approval** từ both legal + PR depts, (b) tránh exact ¥ figure (dùng "数千万円規模"), (c) tên client trong câu sau Tiên Phát (KHÔNG đặt 白鷗 đầu giả "勝った" tone), (d) embargo 同日同時刻 release.
 >
 > 対外 PR は両社 legal + PR の joint approval 必須。金額明示は避け「数千万円規模」, embargo 同時 release が日本流。
 >
@@ -14,7 +14,7 @@ Phase 3 Pricing ¥17M — milestone. Marketing Hizashi muốn release. Linh (Mar
 
 ---
 
-## ❌ Hội thoại XẤU — solo release + exact figure
+## ❌ Hội thoại XẤU — phát hành riêng một bên + ghi chính xác số tiền
 
 *Slack Dũng · 忙しく流し読み · 電話 angry · 青*
 
@@ -61,7 +61,7 @@ Phase 3 Pricing ¥17M — milestone. Marketing Hizashi muốn release. Linh (Mar
 
 ## ⚠ Tránh
 
-- Solo release → relationship dent immediate
+- Phát hành riêng một bên → relationship dent immediate
 - ¥ exact figure → 競合に予算 exposed → 来年 budget cut risk
 - 白鷗 名前先 (例: 「白鷗株式会社、ティエンファット社と…」) → 「ティエンファットが selected vendor」 dynamic に逆 (謙虚さ的 OK だが embedded marketing 効果 reduced)
 - Embargo 1 日ズレ → "うちが先" 感
@@ -80,7 +80,7 @@ Phase 3 Pricing ¥17M — milestone. Marketing Hizashi muốn release. Linh (Mar
 | 同時 release | どうじリリース | Cùng lúc release |
 | Joint quote | ジョイントクオート | Trích dẫn chung |
 | 体裁 | ていさい | Hình thức / dáng vẻ |
-| 文言 | もんごん | Câu chữ / wording |
+| 文言 | もんごん | Câu chữ / cách dùng từ |
 
 ---
 

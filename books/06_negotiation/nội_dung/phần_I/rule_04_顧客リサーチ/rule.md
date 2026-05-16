@@ -55,7 +55,7 @@
 ## ⚠ Tránh
 
 - "Tôi đã làm với khách 2 năm rồi nên biết" → quá khứ ≠ hiện tại
-- Bỏ qua IR công khai (publicly available) — đây là free intel
+- Bỏ qua IR công khai (có thể tra cứu tự do) — đây là thông tin miễn phí
 - Không xác định decision-maker threshold (¥X trở lên thì ai duyệt)
 - Coi competitor intel là "nice to have" — thực ra là core của định giá
 

@@ -94,7 +94,7 @@
 - 🇯🇵 12時-13時は昼休みで発信NG。
 - 🇻🇳 12-13h là giờ nghỉ trưa, không nên gọi.
 
-### J4.6 (từ rule_36 — Đừng để hold quá im — voice fill)
+### J4.6 (từ rule_36 — Đừng để hold quá im — lấp im lặng)
 
 **Skill:** 場面把握
 
@@ -505,7 +505,7 @@
 - 🇯🇵 伝言依頼の3要素：所属・用件・折り返し連絡先。
 - 🇻🇳 3 yếu tố nhờ nhắn lời: đơn vị / việc / cách liên lạc lại.
 
-### J3.22 (từ rule_32 — Xin gọi lại — folder back template)
+### J3.22 (từ rule_32 — Xin gọi lại — mẫu nhờ gọi lại)
 
 **Skill:** 表現読解
 
@@ -743,7 +743,7 @@
 - 🇯🇵 視覚情報を言葉で補い、話速を下げて理解を促す。
 - 🇻🇳 Bổ sung thông tin hình bằng lời, nói chậm để dễ hiểu.
 
-### J3.36 (từ rule_55 — Cross-border online meeting)
+### J3.36 (từ rule_55 — Họp online quốc tế)
 
 **Skill:** 場面把握
 
@@ -760,7 +760,7 @@
 - 🇯🇵 時差・言語の共有が国際会議の出発点。
 - 🇻🇳 Múi giờ + ngôn ngữ là điểm xuất phát của họp quốc tế.
 
-### J3.37 (từ rule_57 — Take floor in conference call — interrupt khéo)
+### J3.37 (từ rule_57 — Giành lượt phát biểu trong họp online — interrupt khéo)
 
 **Skill:** 場面把握
 
@@ -794,7 +794,7 @@
 - 🇯🇵 5要素でCRM管理が組織として最良。
 - 🇻🇳 Quản lý 5 yếu tố trên CRM là tốt nhất cho tổ chức.
 
-### J3.39 (từ rule_60 — Self-diagnostic — phone skills checklist)
+### J3.39 (từ rule_60 — Tự chấm điểm — bảng kiểm kỹ năng điện thoại)
 
 **Skill:** 場面把握
 
@@ -831,7 +831,7 @@
 - 🇯🇵 「話しにくい」と言うと相手も身構える。冷静に結論先行で。
 - 🇻🇳 「話しにくい」làm khách cũng căng. Phải bình tĩnh, kết luận trước.
 
-### J2.2 (từ rule_18 — 5 yếu tố bắt buộc khi take message)
+### J2.2 (từ rule_18 — 5 yếu tố bắt buộc khi ghi lời nhắn)
 
 **Skill:** 場面把握
 

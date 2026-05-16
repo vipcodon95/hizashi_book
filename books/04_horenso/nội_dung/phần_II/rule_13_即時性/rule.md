@@ -1,6 +1,6 @@
 # Rule 13 — Nguyên tắc liên lạc tức thì / 連絡の即時性原則
 
-> **Luận điểm.** Liên lạc trễ = liên lạc sai. **"Information delayed = information wrong"**. Trong Hou-Ren-Sou, 連絡 (sharing thông tin) có giá trị giảm theo cấp số mũ theo thời gian. Biết 1 thông tin → share trong **15 phút** với người liên quan. Để 1 ngày = giá trị giảm 80%.
+> **Luận điểm.** Liên lạc trễ = liên lạc sai. **"Thông tin trễ = thông tin sai"** (Information delayed = information wrong). Trong Hou-Ren-Sou, 連絡 (sharing thông tin) có giá trị giảm theo cấp số mũ theo thời gian. Biết 1 thông tin → share trong **15 phút** với người liên quan. Để 1 ngày = giá trị giảm 80%.
 >
 > 連絡は鮮度がすべて。**「遅れた情報は誤った情報と同じ」**。知ったら15分以内に共有。1日寝かせると価値は80%消える。
 >

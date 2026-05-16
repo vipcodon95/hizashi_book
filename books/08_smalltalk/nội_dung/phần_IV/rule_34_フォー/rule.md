@@ -1,6 +1,6 @@
 # Rule 34 — Phở — câu chuyện văn hóa / フォーの話
 
-> **Luận điểm.** Khách Nhật ai cũng biết "phở" — nhưng mức độ hiểu sâu chỉ tới đó. Bạn = "VN insider" → kể được **Bắc vs Nam, gà vs bò, sáng vs đêm, Bát Đàn vs Pasteur** = mở topic kéo dài 20 phút mà khách Nhật say sưa nghe.
+> **Luận điểm.** Khách Nhật ai cũng biết "phở" — nhưng mức độ hiểu sâu chỉ tới đó. Bạn = người am hiểu ẩm thực VN → kể được **Bắc vs Nam, gà vs bò, sáng vs đêm, Bát Đàn vs Pasteur** = mở topic kéo dài 20 phút mà khách Nhật say sưa nghe.
 
 ---
 
@@ -15,7 +15,7 @@
 
 ## 🎬 Bối cảnh
 
-Tháng 5/2026, dinner Tokyo izakaya với Matsumoto / Nakamura / Yamamoto (Osaka). Câu chuyện dạo quanh chuyển sang "lần tới onsite Hà Nội nên ăn gì" → Dũng có 15 phút để đưa khách vào "phở rabbit hole" hấp dẫn.
+Tháng 5/2026, dinner Tokyo izakaya với Matsumoto / Nakamura / Yamamoto (Osaka). Câu chuyện dạo quanh chuyển sang "lần tới onsite Hà Nội nên ăn gì" → Dũng có 15 phút để đưa khách vào hành trình khám phá phở đầy hấp dẫn.
 
 ---
 
@@ -34,7 +34,7 @@ Tháng 5/2026, dinner Tokyo izakaya với Matsumoto / Nakamura / Yamamoto (Osaka
 | **山本** | 「ほんま?それ全然知らんかった!ほな北の方が"きつね蕎麦"系で、南が"汁なし担々麺"系の味付け文化ってこと?」 |
 | **ズン** | 「まさにその喩えがぴったりです!**北=引き算の美学、南=足し算の楽しさ**、です。」 |
 
-📝 **Pattern vàng:** so sánh phở Bắc-Nam với 食 culture JP họ đã biết (蕎麦 vs 担々麺) → khách "Aha!" instant.
+📝 **Công thức vàng:** so sánh phở Bắc-Nam với văn hóa ẩm thực JP họ đã biết (蕎麦 vs 担々麺) → khách "Aha!" ngay lập tức.
 
 ---
 

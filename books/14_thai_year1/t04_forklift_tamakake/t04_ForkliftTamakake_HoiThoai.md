@@ -8,7 +8,7 @@ Tháng 6/2022. Tanaka muốn Thái+Putra+1 senior Nhật (Sakurai, 25 tuổi) đ
 
 ---
 
-## Scene 1 — Tanaka thông báo · 8:30 朝礼 thứ 2
+## Tình huống 1 — Tanaka thông báo · 8:30 朝礼 thứ 2
 
 | Speaker | Lời thoại |
 |---|---|
@@ -23,7 +23,7 @@ Tháng 6/2022. Tanaka muốn Thái+Putra+1 senior Nhật (Sakurai, 25 tuổi) đ
 
 ---
 
-## Scene 2 — Sakurai tự giới thiệu · 12:30 食堂
+## Tình huống 2 — Sakurai tự giới thiệu · 12:30 食堂
 
 | Speaker | Lời thoại |
 |---|---|
@@ -39,7 +39,7 @@ Tháng 6/2022. Tanaka muốn Thái+Putra+1 senior Nhật (Sakurai, 25 tuổi) đ
 
 ---
 
-## Scene 3 — Train Meitetsu · 7:00 sáng thứ 2 đi học
+## Tình huống 3 — Train Meitetsu · 7:00 sáng thứ 2 đi học
 
 | Speaker | Lời thoại |
 |---|---|
@@ -54,19 +54,19 @@ Tháng 6/2022. Tanaka muốn Thái+Putra+1 senior Nhật (Sakurai, 25 tuổi) đ
 
 ---
 
-## Scene 4 — Forklift instructor · 9:00 trung tâm
+## Tình huống 4 — Forklift instructor · 9:00 trung tâm
 
 | Speaker | Lời thoại |
 |---|---|
 | Instructor | みなさん、おはよう！フォークリフト<ruby>運転<rt>うんてん</rt></ruby><ruby>技能講習<rt>ぎのうこうしゅう</rt></ruby><ruby>始<rt>はじ</rt></ruby>めます。<br>*(Mọi người, chào! Bắt đầu khoá kỹ năng forklift.)* |
-| Cast | おはようございます！<br>*(Chào!)* |
+| Nhân vật | おはようございます！<br>*(Chào!)* |
 | Instructor | <ruby>4<rt>よっ</rt></ruby><ruby>日間<rt>かかん</rt></ruby>、<ruby>合計<rt>ごうけい</rt></ruby><ruby>31<rt>さんじゅういち</rt></ruby><ruby>時間<rt>じかん</rt></ruby>。<ruby>学科<rt>がっか</rt></ruby><ruby>11<rt>じゅういち</rt></ruby><ruby>時間<rt>じかん</rt></ruby>＋<ruby>実技<rt>じつぎ</rt></ruby><ruby>20<rt>にじゅう</rt></ruby><ruby>時間<rt>じかん</rt></ruby>。<br>*(4 ngày, 31 giờ. Lý thuyết 11h + thực hành 20h.)* |
 | Instructor | <ruby>修了試験<rt>しゅうりょうしけん</rt></ruby><ruby>4<rt>よん</rt></ruby><ruby>日目<rt>かめ</rt></ruby>。<ruby>合格<rt>ごうかく</rt></ruby><ruby>率<rt>りつ</rt></ruby><ruby>95<rt>きゅうじゅうご</rt></ruby>%。<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>。<br>*(Thi cuối ngày 4. Tỷ lệ đỗ 95%. Yên tâm.)* |
 | Thái | （<ruby>ホッ<rt></rt></ruby>とする）<br>*(Thở phào.)* |
 
 ---
 
-## Scene 5 — Học lý thuyết · 10:30
+## Tình huống 5 — Học lý thuyết · 10:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -80,7 +80,7 @@ Tháng 6/2022. Tanaka muốn Thái+Putra+1 senior Nhật (Sakurai, 25 tuổi) đ
 
 ---
 
-## Scene 6 — Thực hành ngày 3 · 14:00
+## Tình huống 6 — Thực hành ngày 3 · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -99,7 +99,7 @@ Tháng 6/2022. Tanaka muốn Thái+Putra+1 senior Nhật (Sakurai, 25 tuổi) đ
 
 ---
 
-## Scene 7 — 修了試験 + đỗ · ngày 4 chiều
+## Tình huống 7 — 修了試験 + đỗ · ngày 4 chiều
 
 | Speaker | Lời thoại |
 |---|---|
@@ -115,7 +115,7 @@ Tháng 6/2022. Tanaka muốn Thái+Putra+1 senior Nhật (Sakurai, 25 tuổi) đ
 
 ---
 
-## Scene 8 — Tama-kake xong + về xưởng · 1 tuần sau
+## Tình huống 8 — Tama-kake xong + về xưởng · 1 tuần sau
 
 | Speaker | Lời thoại |
 |---|---|
@@ -131,7 +131,7 @@ Tháng 6/2022. Tanaka muốn Thái+Putra+1 senior Nhật (Sakurai, 25 tuổi) đ
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

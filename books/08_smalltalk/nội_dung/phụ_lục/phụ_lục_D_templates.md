@@ -60,7 +60,7 @@
 **REQUEST/PROMISE** (mình hứa làm gì): 
 **MOOD** (warm/neutral/cool/stressed): 
 **NEXT HOOK** (3ヶ月後): 
-**FOLLOW-UP TASK** (Salesforce / Notion):
+**VIỆC CẦN LÀM TIẾP THEO** (Salesforce / Notion):
 ```
 
 ### Pre-Meeting 3-Min Review Checklist
@@ -159,7 +159,7 @@
 ```
 
 ### Template 6
-*Trước mỗi họp / call / dinner. 3 phút review CRM.*
+*Trước mỗi họp / call / dinner. 3 phút ôn lại kho ghi nhớ.*
 
 ```markdown
 # 🔍 Pre-meeting 3-min review — [Khách] — [Date]
@@ -179,7 +179,7 @@
 - [ ] 今日 mở topic gì để start ấm áp?
   - 例: 「お嬢様の受験、いかがですか?」
   - 例: 「広島カープのドラフト、見られました?」
-- [ ] Mention được 1 fact mới (NHK / 47News / Tabelog) liên quan quê khách?
+- [ ] Mention được 1 thông tin mới (NHK / 47News / Tabelog) liên quan quê khách?
 - [ ] 避けるべき topic 今日:
 
 ## ✅ READY — go in
@@ -233,8 +233,8 @@
 
 ---
 
-## 💡 Pattern noted (để cập nhật vào playbook cá nhân)
-- (vd: 'お酌 + label hướng senior = nodding warm' → confirm pattern works)
+## 💡 Công thức nhận ra (để cập nhật vào playbook cá nhân)
+- (vd: 'お酌 + label hướng senior = nodding warm' → confirm công thức hiệu quả)
 ```
 
 ### Template 8

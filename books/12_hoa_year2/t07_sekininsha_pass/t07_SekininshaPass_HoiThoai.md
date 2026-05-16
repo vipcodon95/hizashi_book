@@ -10,7 +10,7 @@
 
 ---
 
-## Scene 1 — Sáng sớm · phòng Hoa, 5:00
+## Tình huống 1 — Sáng sớm · phòng Hoa, 5:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -21,7 +21,7 @@
 
 ---
 
-## Scene 2 — Bếp ký túc · 6:00
+## Tình huống 2 — Bếp ký túc · 6:00
 
 Mai đang nấu gì đó.
 
@@ -40,7 +40,7 @@ Mai đang nấu gì đó.
 
 ---
 
-## Scene 3 — Phòng họp nhà máy · 9:00, bắt đầu thi
+## Tình huống 3 — Phòng họp nhà máy · 9:00, bắt đầu thi
 
 | Speaker | Lời thoại |
 |---|---|
@@ -53,7 +53,7 @@ Mai đang nấu gì đó.
 
 ---
 
-## Scene 4 — Hoa nội tâm trong khi học
+## Tình huống 4 — Hoa nội tâm trong khi học
 
 | Speaker | Lời thoại |
 |---|---|
@@ -65,7 +65,7 @@ Mai đang nấu gì đó.
 
 ---
 
-## Scene 5 — Trưa · Mai mang cơm lên
+## Tình huống 5 — Trưa · Mai mang cơm lên
 
 | Speaker | Lời thoại |
 |---|---|
@@ -82,7 +82,7 @@ Mai đang nấu gì đó.
 
 ---
 
-## Scene 6 — Chiều · 食品衛生学 + 食品衛生法 · 13:00-17:00
+## Tình huống 6 — Chiều · 食品衛生学 + 食品衛生法 · 13:00-17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -96,7 +96,7 @@ Mai đang nấu gì đó.
 
 ---
 
-## Scene 7 — 16:30 · Final test
+## Tình huống 7 — 16:30 · Final test
 
 | Speaker | Lời thoại |
 |---|---|
@@ -111,11 +111,11 @@ Mai đang nấu gì đó.
 
 ---
 
-## Scene 8 — 17:00 · Kết quả ngay
+## Tình huống 8 — 17:00 · Kết quả ngay
 
 | Speaker | Lời thoại |
 |---|---|
-| Hoa | *(bấm Submit)*<br> |
+| Hoa | *(bấm Nộp bài)*<br> |
 | Hoa | *(màn hình loading)* ...<br> |
 | Hoa | <ruby>結果<rt>けっか</rt></ruby>:18/20。<ruby>合格<rt>ごうかく</rt></ruby>!<br>*(Kết quả: 18/20. Đậu!)* |
 | Hoa | やった!!!<br>*(Tuyệt vời!!!)* |
@@ -127,12 +127,12 @@ Mai đang nấu gì đó.
 
 ---
 
-## Scene 9 — Cả phòng SX biết tin · 17:30
+## Tình huống 9 — Cả phòng SX biết tin · 17:30
 
 | Speaker | Lời thoại |
 |---|---|
 | Suzuki | みんな、ホアさんが<ruby>食品衛生責任者<rt>しょくひんえいせいせきにんしゃ</rt></ruby><ruby>合格<rt>ごうかく</rt></ruby>しました!<br>*(Mọi người, Hoa-san đậu Sekininsha!)* |
-| Cast | おお〜!<br>*(Ô~!)* |
+| Nhân vật | おお〜!<br>*(Ô~!)* |
 | Tanaka | おめでとう!<br>*(Chúc mừng!)* |
 | Satou | やったね、ホアさん!<br>*(Tuyệt, Hoa-san!)* |
 | Yamada | <ruby>本当<rt>ほんとう</rt></ruby>に<ruby>頑張<rt>がんば</rt></ruby>った!<br>*(Thực sự cố gắng!)* |
@@ -143,12 +143,12 @@ Mai đang nấu gì đó.
 
 ---
 
-## Scene 10 — 食堂 19:00 · Mai dự tiệc
+## Tình huống 10 — 食堂 19:00 · Mai dự tiệc
 
 | Speaker | Lời thoại |
 |---|---|
 | Tanaka | みんな、<ruby>乾杯<rt>かんぱい</rt></ruby>!<br>*(Mọi người, cạn ly!)* |
-| Cast | <ruby>乾杯<rt>かんぱい</rt></ruby>!<br>*(Cạn ly!)* |
+| Nhân vật | <ruby>乾杯<rt>かんぱい</rt></ruby>!<br>*(Cạn ly!)* |
 | Mai | ホア<ruby>姉<rt>ねえ</rt></ruby>さん、おめでとうございます!<br>*(Chị Hoa, chúc mừng!)* |
 | Hoa | ありがとう、マイさん。<ruby>応援弁当<rt>おうえんべんとう</rt></ruby>のおかげ。<br>*(Cảm ơn Mai-san. Nhờ cơm hộp cổ vũ.)* |
 | Mai | え?<br>*(Ơ?)* |
@@ -160,7 +160,7 @@ Mai đang nấu gì đó.
 
 ---
 
-## Scene 11 — Mai và Hoa, riêng
+## Tình huống 11 — Mai và Hoa, riêng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -176,7 +176,7 @@ Mai đang nấu gì đó.
 
 ---
 
-## Scene 12 — Hoa nói chuyện với Kimura
+## Tình huống 12 — Hoa nói chuyện với Kimura
 
 | Speaker | Lời thoại |
 |---|---|
@@ -193,7 +193,7 @@ Mai đang nấu gì đó.
 
 ---
 
-## Scene 13 — Tối ký túc · Hoa cập nhật LINE Andi/Linh
+## Tình huống 13 — Tối ký túc · Hoa cập nhật LINE Andi/Linh
 
 | Speaker | Lời thoại |
 |---|---|
@@ -209,7 +209,7 @@ Mai đang nấu gì đó.
 
 ---
 
-## Scene 14 — Hoa viết nhật ký
+## Tình huống 14 — Hoa viết nhật ký
 
 | Speaker | Lời thoại |
 |---|---|
@@ -242,7 +242,7 @@ Mai đang nấu gì đó.
 ## 💡 Bí quyết end-chapter
 
 - 食品衛生責任者 thi cấu trúc: 6h học (3 môn) + 30 phút thi 20 câu trắc nghiệm
-- Pass: 60%+ (12/20). Hoa được 90% — thừa
+- Đỗ: 60%+ (12/20). Hoa được 90% — thừa
 - Văn hoá Nhật: ăn mừng cùng cast = xây dựng quan hệ + tạo động lực cho kohai
 - Khi đỗ chứng chỉ → tiếp tục bước tiếp (lộ trình rõ): HACCP → N3 → SSW1
 - Sempai đỗ chứng chỉ = công ty công nhận + kohai có gương theo

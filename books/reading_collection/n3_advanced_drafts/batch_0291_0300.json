@@ -98,97 +98,113 @@
         "sentence": "近年、ロボット技術の急速な発展によって、私たちの社会は大きく変化しつつある。",
         "chunks": "近年 / ロボット技術の急速な発展によって / 私たちの社会は大きく変化しつつある",
         "guide": "近年 → 'những năm gần đây' → によって → 💡 によって = do, vì (nguyên nhân/tác nhân) → 🔒 Đóng gói: [ロボット技術の急速な発展によって] = 'do sự phát triển nhanh chóng của công nghệ robot' → ⚠️ つつある = đang trong quá trình (trang trọng, biến đổi liên tục hơn ている)",
-        "translation": "Những năm gần đây, do sự phát triển nhanh chóng của công nghệ robot, xã hội của chúng ta đang thay đổi mạnh mẽ."
+        "translation": "Những năm gần đây, do sự phát triển nhanh chóng của công nghệ robot, xã hội của chúng ta đang thay đổi mạnh mẽ.",
+        "example_id": 80274003593
       },
       {
         "sentence": "かつては人間だけが担っていた仕事の一部を、今ではロボットが代わりに行うようになってきた。",
         "chunks": "かつては人間だけが担っていた仕事の一部を / 今ではロボットが代わりに / 行うようになってきた",
         "guide": "かつては → 'xưa kia, trước đây' (tương phản với 今では) → 🔒 Đóng gói: [かつては人間だけが担っていた仕事の一部] = 'một phần công việc mà trước đây chỉ con người đảm nhận' → ⚠️ を担う = đảm nhận, gánh vác X (を đối tượng đảm nhận) → ようになってきた = dần dần bắt đầu trở nên",
-        "translation": "Một phần công việc mà trước đây chỉ con người mới đảm nhận, nay robot đã bắt đầu thực hiện thay."
+        "translation": "Một phần công việc mà trước đây chỉ con người mới đảm nhận, nay robot đã bắt đầu thực hiện thay.",
+        "example_id": 80274003594
       },
       {
         "sentence": "特に危険な環境での作業や、単純な動作を繰り返す仕事においては、ロボットの活躍が目覚ましい。",
         "chunks": "特に危険な環境での作業や / 単純な動作を繰り返す仕事においては / ロボットの活躍が目覚ましい",
         "guide": "特に → 'đặc biệt là' → や liệt kê không đầy đủ → においては → 💡 においては = trong lĩnh vực/trường hợp... (trang trọng, chỉ phạm vi) → 🔒 Đóng gói: [単純な動作を繰り返す仕事] = 'công việc lặp đi lặp lại các thao tác đơn giản' → 目覚ましい → ⚠️ 目覚ましい = nổi bật, đáng chú ý (tính từ trang trọng)",
-        "translation": "Đặc biệt trong các công việc ở môi trường nguy hiểm và các công việc lặp đi lặp lại các thao tác đơn giản, sự hoạt động của robot rất đáng chú ý."
+        "translation": "Đặc biệt trong các công việc ở môi trường nguy hiểm và các công việc lặp đi lặp lại các thao tác đơn giản, sự hoạt động của robot rất đáng chú ý.",
+        "example_id": 80274003595
       },
       {
         "sentence": "高温の工場内での作業や、深海での調査、あるいは放射線が強い場所での点検など、人間には困難な仕事をロボットが担うことで、労働者の安全を守ることができる。",
         "chunks": "高温の工場内での作業や、深海での調査、あるいは放射線が強い場所での点検など / 人間には困難な仕事をロボットが担うことで / 労働者の安全を守ることができる",
         "guide": "あるいは → 'hoặc là' → など → 'vân vân, v.v.' → 🔒 Đóng gói: [高温の工場内での作業や〜点検など、人間には困難な仕事] = 'các công việc khó khăn đối với con người như làm việc nhà máy nhiệt cao, khảo sát biển sâu, v.v.' → をロボットが担うことで → ⚠️ を担う = đảm nhận X + ことで = thông qua việc đó → 💡 kết quả: bảo vệ an toàn người lao động",
-        "translation": "Robot đảm nhận các công việc khó khăn đối với con người như làm việc trong nhà máy có nhiệt độ cao, khảo sát dưới biển sâu, hay kiểm tra những nơi có bức xạ mạnh, nhờ đó có thể bảo vệ sự an toàn của người lao động."
+        "translation": "Robot đảm nhận các công việc khó khăn đối với con người như làm việc trong nhà máy có nhiệt độ cao, khảo sát dưới biển sâu, hay kiểm tra những nơi có bức xạ mạnh, nhờ đó có thể bảo vệ sự an toàn của người lao động.",
+        "example_id": 80274003596
       },
       {
         "sentence": "また、工場の生産ラインでは、ロボットが正確さと速さで人間を大きく上回り、製品の品質向上にも貢献している。",
         "chunks": "また / 工場の生産ラインでは / ロボットが正確さと速さで人間を大きく上回り / 製品の品質向上にも貢献している",
         "guide": "また → 'ngoài ra' → では → biểu thị phạm vi/bối cảnh → 正確さと速さで → で biểu thị phương tiện/cách thức → 🔒 Đóng gói: [正確さと速さで人間を大きく上回る] = 'vượt xa con người về độ chính xác và tốc độ' → にも貢献する → 💡 に貢献する = đóng góp vào X (に đích đến của đóng góp)",
-        "translation": "Ngoài ra, trong dây chuyền sản xuất của nhà máy, robot vượt xa con người về độ chính xác và tốc độ, đồng thời cũng đóng góp vào việc nâng cao chất lượng sản phẩm."
+        "translation": "Ngoài ra, trong dây chuyền sản xuất của nhà máy, robot vượt xa con người về độ chính xác và tốc độ, đồng thời cũng đóng góp vào việc nâng cao chất lượng sản phẩm.",
+        "example_id": 80274003597
       },
       {
         "sentence": "しかし、ロボットが人間の仕事をすべて置き換えるわけではなく、人間とロボットが互いの強みを生かして協力することが重要だと考えられている。",
         "chunks": "しかし / ロボットが人間の仕事をすべて置き換えるわけではなく / 人間とロボットが互いの強みを生かして協力することが重要だと考えられている",
         "guide": "しかし → chuyển ý tương phản → わけではなく → 💡 わけではない = không có nghĩa là (phủ định nhận định tuyệt đối) → 🔒 Đóng gói: [人間とロボットが互いの強みを生かして協力すること] = 'việc con người và robot hợp tác với nhau tận dụng thế mạnh của nhau' → ⚠️ と協力する = hợp tác cùng X (と biểu thị đối tác) → と考えられている = người ta cho rằng (bị động thể hiện quan điểm chung)",
-        "translation": "Tuy nhiên, không có nghĩa là robot sẽ thay thế tất cả công việc của con người, và người ta cho rằng điều quan trọng là con người và robot hợp tác với nhau, tận dụng thế mạnh của nhau."
+        "translation": "Tuy nhiên, không có nghĩa là robot sẽ thay thế tất cả công việc của con người, và người ta cho rằng điều quan trọng là con người và robot hợp tác với nhau, tận dụng thế mạnh của nhau.",
+        "example_id": 80274003598
       },
       {
         "sentence": "ロボットが得意とすることは反復作業や重作業だが、創造性や感情的な判断が必要な場面では、人間の能力が不可欠だ。",
         "chunks": "ロボットが得意とすることは反復作業や重作業だが / 創造性や感情的な判断が必要な場面では / 人間の能力が不可欠だ",
         "guide": "得意とすること → 💡 を得意とする = giỏi về X → こと danh từ hóa → は→だが → 🔒 Đóng gói: [ロボットが得意とすること] = 'thứ mà robot giỏi' → が tương phản → では nhấn mạnh phạm vi → ⚠️ 不可欠 = không thể thiếu (強い必要性)",
-        "translation": "Robot giỏi về công việc lặp đi lặp lại và công việc nặng nhọc, nhưng trong những tình huống cần sự sáng tạo và phán đoán cảm xúc, năng lực của con người là không thể thiếu."
+        "translation": "Robot giỏi về công việc lặp đi lặp lại và công việc nặng nhọc, nhưng trong những tình huống cần sự sáng tạo và phán đoán cảm xúc, năng lực của con người là không thể thiếu.",
+        "example_id": 80274003599
       },
       {
         "sentence": "医療の現場では、ロボットが手術を補助し、人間の医師がより精度の高い治療を行えるようになった。",
         "chunks": "医療の現場では / ロボットが手術を補助し / 人間の医師がより精度の高い治療を行えるようになった",
         "guide": "医療の現場では → では biểu thị bối cảnh cụ thể → 🔒 Đóng gói: [ロボットが手術を補助し] = 'robot hỗ trợ phẫu thuật' → 💡 を補助する = hỗ trợ X, trợ giúp X → し hình nối → ようになった = trở nên có thể (thay đổi nhờ công nghệ)",
-        "translation": "Tại hiện trường y tế, robot đã hỗ trợ phẫu thuật, giúp các bác sĩ có thể thực hiện điều trị với độ chính xác cao hơn."
+        "translation": "Tại hiện trường y tế, robot đã hỗ trợ phẫu thuật, giúp các bác sĩ có thể thực hiện điều trị với độ chính xác cao hơn.",
+        "example_id": 80274003600
       },
       {
         "sentence": "介護の分野でも、ロボットが身体的なサポートを担うことで、介護士は患者とのコミュニケーションや心のケアに集中できるようになっている。",
         "chunks": "介護の分野でも / ロボットが身体的なサポートを担うことで / 介護士は患者とのコミュニケーションや心のケアに集中できるようになっている",
         "guide": "でも → 'cả trong lĩnh vực...cũng' → 🔒 Đóng gói: [ロボットが身体的なサポートを担うことで] = 'thông qua việc robot đảm nhận hỗ trợ thể chất' → を担う = đảm nhận → ことで = nguyên nhân dẫn đến kết quả → に集中できる → 💡 に集中する = tập trung vào X (に đích tập trung)",
-        "translation": "Trong lĩnh vực chăm sóc người cao tuổi cũng vậy, bằng cách để robot đảm nhận việc hỗ trợ thể chất, các nhân viên chăm sóc có thể tập trung vào giao tiếp với bệnh nhân và chăm sóc tinh thần."
+        "translation": "Trong lĩnh vực chăm sóc người cao tuổi cũng vậy, bằng cách để robot đảm nhận việc hỗ trợ thể chất, các nhân viên chăm sóc có thể tập trung vào giao tiếp với bệnh nhân và chăm sóc tinh thần.",
+        "example_id": 80274003601
       },
       {
         "sentence": "近年は生成AIと組み合わせた協働ロボットや、介護ロボットの普及も進んでいる。",
         "chunks": "近年は / 生成AIと組み合わせた協働ロボットや / 介護ロボットの普及も / 進んでいる",
         "guide": "近年は → 'những năm gần đây' (dấu hiệu xu hướng mới) → 🔒 Đóng gói: [生成AIと組み合わせた協働ロボット] = 'robot cộng tác kết hợp với AI tạo sinh' → や liệt kê không đầy đủ → も = cũng (có) thêm vào các phát triển trước → 💡 生成AI = generative AI, AI tạo sinh → ⚠️ 普及も進む = sự phổ biến cũng tiến triển",
-        "translation": "Những năm gần đây, robot cộng tác kết hợp AI tạo sinh và robot chăm sóc người cao tuổi cũng ngày càng phổ biến hơn."
+        "translation": "Những năm gần đây, robot cộng tác kết hợp AI tạo sinh và robot chăm sóc người cao tuổi cũng ngày càng phổ biến hơn.",
+        "example_id": 80274003602
       },
       {
         "sentence": "こうした協働のあり方は、ロボットが人間の弱点を補い、人間がロボットの限界を補うという相互補完の関係だ。",
         "chunks": "こうした協働のあり方は / ロボットが人間の弱点を補い、人間がロボットの限界を補うという / 相互補完の関係だ",
         "guide": "こうした → 'kiểu như vậy, cách như vậy' (tổng kết) → 🔒 Đóng gói: [協働のあり方] = 'cách thức hợp tác' → ⚠️ を補う = bù đắp X, bổ sung X (を đối tượng được bù đắp) → という → nội dung định nghĩa → 💡 相互補完 = bổ sung lẫn nhau (= mỗi bên bù đắp cho bên kia)",
-        "translation": "Cách thức hợp tác như vậy là mối quan hệ bổ sung lẫn nhau, trong đó robot bù đắp điểm yếu của con người và con người bù đắp giới hạn của robot."
+        "translation": "Cách thức hợp tác như vậy là mối quan hệ bổ sung lẫn nhau, trong đó robot bù đắp điểm yếu của con người và con người bù đắp giới hạn của robot.",
+        "example_id": 80274003603
       },
       {
         "sentence": "一方で、ロボットの普及によって失われる仕事もあり、社会全体でその変化に対応する必要がある。",
         "chunks": "一方で / ロボットの普及によって失われる仕事もあり / 社会全体でその変化に対応する必要がある",
         "guide": "一方で → 💡 一方で = mặt khác (đưa ra khía cạnh tương phản) → によって → do, vì (nguyên nhân) → 🔒 Đóng gói: [ロボットの普及によって失われる仕事] = 'các công việc bị mất đi do sự phổ biến của robot' → も → cũng (có) — liệt kê thêm sự thật song song → ⚠️ 対応する必要がある = cần phải thích ứng (必要がある = có sự cần thiết)",
-        "translation": "Mặt khác, cũng có những công việc bị mất đi do sự phổ biến của robot, và toàn xã hội cần phải thích ứng với sự thay đổi đó."
+        "translation": "Mặt khác, cũng có những công việc bị mất đi do sự phổ biến của robot, và toàn xã hội cần phải thích ứng với sự thay đổi đó.",
+        "example_id": 80274003604
       },
       {
         "sentence": "新たな技術に適応するための教育や再訓練の仕組みを整えることが、これからの社会には欠かせない。",
         "chunks": "新たな技術に適応するための教育や再訓練の仕組みを整えることが / これからの社会には / 欠かせない",
         "guide": "新たな → 'mới, mới mẻ' (trang trọng hơn 新しい) → ための → 'để, nhằm mục đích' → 🔒 Đóng gói: [新たな技術に適応するための教育や再訓練の仕組みを整えること] = 'việc xây dựng cơ chế giáo dục và đào tạo lại để thích nghi với công nghệ mới' → ⚠️ 欠かせない = không thể thiếu (âm → 欠かす = thiếu, bỏ qua)",
-        "translation": "Việc xây dựng cơ chế giáo dục và đào tạo lại để thích nghi với công nghệ mới là điều không thể thiếu đối với xã hội tương lai."
+        "translation": "Việc xây dựng cơ chế giáo dục và đào tạo lại để thích nghi với công nghệ mới là điều không thể thiếu đối với xã hội tương lai.",
+        "example_id": 80274003605
       },
       {
         "sentence": "ロボットと人間が共存する社会を実現するには、技術の進化だけでなく、人間側の意識改革も求められる。",
         "chunks": "ロボットと人間が共存する社会を実現するには / 技術の進化だけでなく / 人間側の意識改革も求められる",
         "guide": "🔒 Đóng gói: [ロボットと人間が共存する社会を実現するには] = 'để thực hiện xã hội con người và robot cùng chung sống' → には = để...thì cần... → だけでなく → không chỉ...mà còn → ⚠️ 求められる = bị yêu cầu, được đòi hỏi (bị động nhẹ = xã hội đòi hỏi) → 💡 意識改革 = cải cách nhận thức, không chỉ cải cách kỹ thuật",
-        "translation": "Để thực hiện được một xã hội mà robot và con người cùng chung sống, không chỉ cần sự tiến bộ của công nghệ mà còn cần cả sự thay đổi nhận thức từ phía con người."
+        "translation": "Để thực hiện được một xã hội mà robot và con người cùng chung sống, không chỉ cần sự tiến bộ của công nghệ mà còn cần cả sự thay đổi nhận thức từ phía con người.",
+        "example_id": 80274003606
       },
       {
         "sentence": "テクノロジーはあくまでも手段であり、それをどのように社会に役立てるかを決めるのは、最終的には人間自身だ。",
         "chunks": "テクノロジーはあくまでも手段であり / それをどのように社会に役立てるかを決めるのは / 最終的には人間自身だ",
         "guide": "あくまでも → 💡 あくまでも = về bản chất, suy cho cùng (nhấn mạnh bản chất không thay đổi dù hoàn cảnh thế nào) → 🔒 Đóng gói: [それをどのように社会に役立てるかを決めるのは] = 'việc quyết định sử dụng nó như thế nào cho xã hội' → ⚠️ のは～だ: cấu trúc nhấn mạnh chủ ngữ → 最終的には = cuối cùng → 人間自身 = chính bản thân con người",
-        "translation": "Công nghệ dù sao cũng chỉ là phương tiện, và người cuối cùng quyết định sẽ sử dụng nó như thế nào cho xã hội chính là bản thân con người."
+        "translation": "Công nghệ dù sao cũng chỉ là phương tiện, và người cuối cùng quyết định sẽ sử dụng nó như thế nào cho xã hội chính là bản thân con người.",
+        "example_id": 80274003607
       },
       {
         "sentence": "ロボットとの協力関係を深めることで、人間はより豊かで安全な未来を築いていくことができると信じている。",
         "chunks": "ロボットとの協力関係を深めることで / 人間はより豊かで安全な未来を / 築いていくことができると信じている",
         "guide": "🔒 Đóng gói: [ロボットとの協力関係を深めることで] = 'thông qua việc tăng cường mối quan hệ hợp tác với robot' → と協力する → 💡 との協力関係 = mối quan hệ hợp tác với X (と biểu thị đối tác) → ことで nguyên nhân → 築いていく → 💡 築く = xây dựng (trang trọng) → いく = tiếp tục hướng về tương lai → と信じている = tin rằng (kết luận lạc quan)",
-        "translation": "Tôi tin rằng bằng cách tăng cường mối quan hệ hợp tác với robot, con người có thể xây dựng một tương lai phong phú và an toàn hơn."
+        "translation": "Tôi tin rằng bằng cách tăng cường mối quan hệ hợp tác với robot, con người có thể xây dựng một tương lai phong phú và an toàn hơn.",
+        "example_id": 80274003608
       }
     ],
     "comprehension": [
@@ -200,25 +216,30 @@
           {
             "text": "創造性が必要な芸術や設計の仕事。",
             "text_vi": "Công việc nghệ thuật và thiết kế cần sự sáng tạo.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003441
           },
           {
             "text": "患者との感情的なコミュニケーションが必要な仕事。",
             "text_vi": "Công việc cần giao tiếp cảm xúc với bệnh nhân.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003442
           },
           {
             "text": "危険な環境での作業や単純な動作を繰り返す仕事。",
             "text_vi": "Công việc ở môi trường nguy hiểm và công việc lặp đi lặp lại các thao tác đơn giản.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003443
           },
           {
             "text": "複雑な倫理的判断を必要とする政治的な仕事。",
             "text_vi": "Công việc chính trị cần phán đoán đạo đức phức tạp.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003444
           }
         ],
-        "explanation": "Câu 3 nêu rõ: 「特に危険な環境での作業や、単純な動作を繰り返す仕事においては、ロボットの活躍が目覚ましい」→ においては = đặc biệt trong lĩnh vực đó → câu 7 cũng xác nhận robot giỏi 反復作業 nhưng yếu về 創造性 (đáp án A/B)."
+        "explanation": "Câu 3 nêu rõ: 「特に危険な環境での作業や、単純な動作を繰り返す仕事においては、ロボットの活躍が目覚ましい」→ においては = đặc biệt trong lĩnh vực đó → câu 7 cũng xác nhận robot giỏi 反復作業 nhưng yếu về 創造性 (đáp án A/B).",
+        "question_id": 802720861
       },
       {
         "id": "R_0291_Q2",
@@ -228,25 +249,30 @@
           {
             "text": "ロボットが人間よりすべての面で優れているから。",
             "text_vi": "Vì robot vượt trội hơn con người ở mọi mặt.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003445
           },
           {
             "text": "互いの強みを生かすことで、どちらか一方だけではできないことが実現できるから。",
             "text_vi": "Vì bằng cách tận dụng thế mạnh của nhau, có thể thực hiện những điều mà chỉ một bên không thể làm được.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003446
           },
           {
             "text": "ロボットに感情的なサポートを任せる方が効率的だから。",
             "text_vi": "Vì giao cho robot hỗ trợ cảm xúc thì hiệu quả hơn.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003447
           },
           {
             "text": "法律によってロボットの使用が義務付けられているから。",
             "text_vi": "Vì pháp luật quy định bắt buộc phải sử dụng robot.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003448
           }
         ],
-        "explanation": "Câu 6 nêu: 「ロボットが人間の仕事をすべて置き換えるわけではなく、人間とロボットが互いの強みを生かして協力することが重要」→ なぜ = vì sao? → 互いの強みを生かす = tận dụng thế mạnh của nhau, mỗi bên bù đắp điểm yếu cho bên kia → câu 11 xác nhận: 相互補完の関係 (quan hệ bổ sung lẫn nhau)."
+        "explanation": "Câu 6 nêu: 「ロボットが人間の仕事をすべて置き換えるわけではなく、人間とロボットが互いの強みを生かして協力することが重要」→ なぜ = vì sao? → 互いの強みを生かす = tận dụng thế mạnh của nhau, mỗi bên bù đắp điểm yếu cho bên kia → câu 11 xác nhận: 相互補完の関係 (quan hệ bổ sung lẫn nhau).",
+        "question_id": 802720862
       },
       {
         "id": "R_0291_Q3",
@@ -256,25 +282,30 @@
           {
             "text": "患者の心のケアやカウンセリング。",
             "text_vi": "Chăm sóc tinh thần và tư vấn tâm lý cho bệnh nhân.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003449
           },
           {
             "text": "身体的なサポートを担い、介護士が心のケアに集中できるようにする。",
             "text_vi": "Đảm nhận hỗ trợ thể chất để nhân viên chăm sóc có thể tập trung vào chăm sóc tinh thần.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003450
           },
           {
             "text": "患者の心のケアを補助し、介護士の負担を軽減する。",
             "text_vi": "Hỗ trợ chăm sóc tinh thần bệnh nhân và giảm nhẹ gánh nặng cho nhân viên chăm sóc.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003451
           },
           {
             "text": "介護施設の記録管理や情報処理を担当する。",
             "text_vi": "Đảm nhận quản lý hồ sơ và xử lý thông tin của cơ sở chăm sóc.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003452
           }
         ],
-        "explanation": "Câu 9 nêu rõ: 「ロボットが身体的なサポートを担うことで、介護士は患者とのコミュニケーションや心のケアに集中できるようになっている」→ を担う = đảm nhận + ことで = thông qua đó → nhân viên chăm sóc được giải phóng để tập trung chăm sóc tinh thần. ⚠️ Bẫy: đáp án A nhầm lẫn vai trò của robot (thể chất) với vai trò của nhân viên (tinh thần)."
+        "explanation": "Câu 9 nêu rõ: 「ロボットが身体的なサポートを担うことで、介護士は患者とのコミュニケーションや心のケアに集中できるようになっている」→ を担う = đảm nhận + ことで = thông qua đó → nhân viên chăm sóc được giải phóng để tập trung chăm sóc tinh thần. ⚠️ Bẫy: đáp án A nhầm lẫn vai trò của robot (thể chất) với vai trò của nhân viên (tinh thần).",
+        "question_id": 802720863
       },
       {
         "id": "R_0291_Q4",
@@ -284,27 +315,34 @@
           {
             "text": "テクノロジーはそれ自体が目的であり、進化を止めるべきではない。",
             "text_vi": "Công nghệ tự thân là mục đích, và không nên dừng sự tiến hóa lại.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003453
           },
           {
             "text": "テクノロジーはあくまでも手段であり、それをどう活かすかは人間が決める。",
             "text_vi": "Công nghệ dù sao cũng chỉ là phương tiện, và con người mới là người quyết định sử dụng nó thế nào.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003454
           },
           {
             "text": "テクノロジーの発展によって人間の役割は大きく変わっていく傾向がある。",
             "text_vi": "Sự phát triển công nghệ có xu hướng làm thay đổi lớn vai trò của con người.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003455
           },
           {
             "text": "テクノロジーに頼りすぎることは危険であり、使用を制限すべきだ。",
             "text_vi": "Phụ thuộc quá nhiều vào công nghệ là nguy hiểm, và nên hạn chế sử dụng.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003456
           }
         ],
-        "explanation": "Câu 14 là luận điểm cốt lõi: 「テクノロジーはあくまでも手段であり、それをどのように社会に役立てるかを決めるのは、最終的には人間自身だ」→ あくまでも手段 = chỉ là phương tiện + 人間自身 = chính con người quyết định → đây là thông điệp trung tâm của toàn bài."
+        "explanation": "Câu 14 là luận điểm cốt lõi: 「テクノロジーはあくまでも手段であり、それをどのように社会に役立てるかを決めるのは、最終的には人間自身だ」→ あくまでも手段 = chỉ là phương tiện + 人間自身 = chính con người quyết định → đây là thông điệp trung tâm của toàn bài.",
+        "question_id": 802720864
       }
-    ]
+    ],
+    "reading_passage_id": 802700291,
+    "question_set_id": 802710291
   },
   {
     "id": "R_0292",
@@ -399,97 +437,113 @@
         "sentence": "毎年冬になると、各地でさまざまな祭りが開かれる。",
         "chunks": "毎年 / 冬になると / 各地で / さまざまな祭りが / 開かれる",
         "guide": "🔒 Đóng gói: 「毎年冬になると」= 'mỗi năm khi mùa đông đến' → điều kiện thời gian → が chủ ngữ → 開かれる thể bị động 'được mở'. 💡 と sau động từ biến hóa = điều kiện tự nhiên, lặp lại.",
-        "translation": "Mỗi năm khi mùa đông đến, nhiều lễ hội khác nhau được tổ chức ở khắp nơi."
+        "translation": "Mỗi năm khi mùa đông đến, nhiều lễ hội khác nhau được tổ chức ở khắp nơi.",
+        "example_id": 80274003609
       },
       {
         "sentence": "これらの祭りは、寒い季節の人々の生活を彩る大切な行事だ。",
         "chunks": "これらの祭りは / 寒い季節の人々の生活を / 彩る / 大切な行事だ",
         "guide": "🔒 Đóng gói: 「これらの祭りは」= 'những lễ hội này' → を chỉ tân ngữ → 彩る = 'tô điểm' → 💡 を彩る: tân ngữ + 彩る = tô điểm cho đối tượng nào đó. ⚠️ 行事 ≠ お祭り: 行事 là sự kiện chính thức, nghi lễ.",
-        "translation": "Những lễ hội này là sự kiện quan trọng tô điểm cho cuộc sống của người dân trong mùa lạnh."
+        "translation": "Những lễ hội này là sự kiện quan trọng tô điểm cho cuộc sống của người dân trong mùa lạnh.",
+        "example_id": 80274003610
       },
       {
         "sentence": "色とりどりの提灯や飾りが町を明るく照らし、人々に温かさと活気をもたらす。",
         "chunks": "色とりどりの提灯や飾りが / 町を明るく照らし / 人々に / 温かさと活気を / もたらす",
         "guide": "🔒 Đóng gói: 「色とりどりの提灯や飾りが」= 'đèn lồng và trang trí đủ màu sắc' → が chủ ngữ → や liệt kê không đầy đủ → 照らし (て形 lược) nối 2 hành động liên tiếp. 💡 に + もたらす = mang lại cho ai đó.",
-        "translation": "Đèn lồng và trang trí đủ màu sắc thắp sáng thị trấn, mang lại sự ấm áp và sức sống cho mọi người."
+        "translation": "Đèn lồng và trang trí đủ màu sắc thắp sáng thị trấn, mang lại sự ấm áp và sức sống cho mọi người.",
+        "example_id": 80274003611
       },
       {
         "sentence": "地域の祭りの多くは、何百年も前から続く伝統に根ざした文化的な行事である。",
         "chunks": "地域の祭りの多くは / 何百年も前から続く伝統に / 根ざした / 文化的な行事である",
         "guide": "🔒 Đóng gói: 「地域の祭りの多くは」= 'nhiều lễ hội địa phương' → に + 根ざした = 'bắt nguồn từ' → 💡 ～に根ざした: danh từ + に + 根ざした = có gốc rễ trong, bắt nguồn từ. である = thể trang trọng của だ.",
-        "translation": "Nhiều lễ hội địa phương là sự kiện văn hóa bắt nguồn từ truyền thống kéo dài hàng trăm năm."
+        "translation": "Nhiều lễ hội địa phương là sự kiện văn hóa bắt nguồn từ truyền thống kéo dài hàng trăm năm.",
+        "example_id": 80274003612
       },
       {
         "sentence": "先祖が残した習わしや儀式は、今も変わらず受け継がれている。",
         "chunks": "先祖が残した習わしや儀式は / 今も / 変わらず / 受け継がれている",
         "guide": "🔒 Đóng gói: 「先祖が残した習わしや儀式は」= 'phong tục và nghi lễ tổ tiên để lại' → 受け継がれている: thể bị động tiến diễn = 'đang được kế thừa'. ⚠️ 今も + 変わらず = nhấn mạnh 'vẫn không thay đổi cho đến tận bây giờ'.",
-        "translation": "Những phong tục và nghi lễ tổ tiên để lại vẫn được kế thừa không thay đổi cho đến ngày nay."
+        "translation": "Những phong tục và nghi lễ tổ tiên để lại vẫn được kế thừa không thay đổi cho đến ngày nay.",
+        "example_id": 80274003613
       },
       {
         "sentence": "こうした伝統は、地域の人々にとって自分たちのアイデンティティの一部となっている。",
         "chunks": "こうした伝統は / 地域の人々にとって / 自分たちのアイデンティティの一部と / なっている",
         "guide": "🔒 Đóng gói: 「にとって」= 'đối với' → báo hiệu quan điểm/lập trường của ai → と + なっている = 'đã trở thành'. 💡 ～にとって～は: dùng để nêu góc nhìn của chủ thể.",
-        "translation": "Những truyền thống đó đã trở thành một phần bản sắc của người dân địa phương."
+        "translation": "Những truyền thống đó đã trở thành một phần bản sắc của người dân địa phương.",
+        "example_id": 80274003614
       },
       {
         "sentence": "祭りの準備は数ヶ月前から始まり、地域の人々が一丸となって取り組む。",
         "chunks": "祭りの準備は / 数ヶ月前から始まり / 地域の人々が / 一丸となって / 取り組む",
         "guide": "🔒 Đóng gói: 「数ヶ月前から始まり」= 'bắt đầu từ vài tháng trước' → 始まり (て形 lược) nối 2 mệnh đề → 一丸となって: thành ngữ 'cùng đoàn kết thành một khối'. 💡 取り組む = nỗ lực giải quyết/thực hiện.",
-        "translation": "Việc chuẩn bị lễ hội bắt đầu từ vài tháng trước, và người dân địa phương cùng nhau nỗ lực thực hiện."
+        "translation": "Việc chuẩn bị lễ hội bắt đầu từ vài tháng trước, và người dân địa phương cùng nhau nỗ lực thực hiện.",
+        "example_id": 80274003615
       },
       {
         "sentence": "子どもから老人まで、全員が何らかの形で祭りに参加する。",
         "chunks": "子どもから老人まで / 全員が / 何らかの形で / 祭りに参加する",
         "guide": "🔒 Đóng gói: 「子どもから老人まで」= 'từ trẻ em đến người già' → から～まで chỉ phạm vi bao quát → 何らかの形で = 'theo một cách nào đó'. 💡 全員が + から～まで = nhấn mạnh tính toàn diện.",
-        "translation": "Từ trẻ em đến người già, tất cả đều tham gia lễ hội theo một cách nào đó."
+        "translation": "Từ trẻ em đến người già, tất cả đều tham gia lễ hội theo một cách nào đó.",
+        "example_id": 80274003616
       },
       {
         "sentence": "この共同作業こそが、地域の絆を深める大きな力となっている。",
         "chunks": "この共同作業こそが / 地域の絆を / 深める / 大きな力と / なっている",
         "guide": "⚠️ こそ = trợ từ nhấn mạnh 'chính là, chính điều đó' → が thêm sau こそ = nhấn mạnh chủ ngữ → 🔒 Đóng gói: 「この共同作業こそが」= 'chính công việc tập thể này'. 💡 絆を深める = thắt chặt sợi dây gắn kết.",
-        "translation": "Chính công việc tập thể này là sức mạnh lớn giúp thắt chặt sợi dây gắn kết cộng đồng."
+        "translation": "Chính công việc tập thể này là sức mạnh lớn giúp thắt chặt sợi dây gắn kết cộng đồng.",
+        "example_id": 80274003617
       },
       {
         "sentence": "祭りの中心には、地域を守るとされる神社や寺があることが多い。",
         "chunks": "祭りの中心には / 地域を守ると / される / 神社や寺が / あることが多い",
         "guide": "🔒 Đóng gói: 「地域を守るとされる」= 'được cho là bảo hộ vùng đất' → とされる: thể thụ động của とする = 'được xem là, được cho là'. ⚠️ には chỉ vị trí cụ thể được nhấn mạnh. 💡 あることが多い = 'thường có, hay có'.",
-        "translation": "Ở trung tâm lễ hội thường có đền thần hoặc chùa được xem là nơi bảo hộ vùng đất."
+        "translation": "Ở trung tâm lễ hội thường có đền thần hoặc chùa được xem là nơi bảo hộ vùng đất.",
+        "example_id": 80274003618
       },
       {
         "sentence": "神聖な儀式が執り行われ、一年の平和と豊かさが祈られる。",
         "chunks": "神聖な儀式が / 執り行われ / 一年の平和と豊かさが / 祈られる",
         "guide": "🔒 Đóng gói: 「神聖な儀式が」= 'các nghi lễ trang nghiêm' → 執り行われ: bị động của 執り行う 'tiến hành' → て形 lược nối 2 bị động liên tiếp. ⚠️ 祈られる ≠ 祈る: bị động = 'được cầu nguyện' (cầu nguyện một cách trang trọng).",
-        "translation": "Các nghi lễ trang nghiêm được tiến hành, cầu nguyện cho sự bình yên và thịnh vượng của một năm."
+        "translation": "Các nghi lễ trang nghiêm được tiến hành, cầu nguyện cho sự bình yên và thịnh vượng của một năm.",
+        "example_id": 80274003619
       },
       {
         "sentence": "冬の祭りは、その土地の歴史と文化を象徴する重要な存在として広く認識されている。",
         "chunks": "冬の祭りは / その土地の歴史と文化を / 象徴する / 重要な存在として / 広く認識されている",
         "guide": "🔒 Đóng gói: 「その土地の歴史と文化を象徴する」= 'tượng trưng cho lịch sử và văn hóa vùng đất' → として = 'với tư cách là, như là' → 💡 ～を象徴する: を + 象徴する = tượng trưng cho đối tượng nào. 認識されている = thể bị động tiến diễn.",
-        "translation": "Lễ hội mùa đông được công nhận rộng rãi là biểu tượng quan trọng của lịch sử và văn hóa vùng đất đó."
+        "translation": "Lễ hội mùa đông được công nhận rộng rãi là biểu tượng quan trọng của lịch sử và văn hóa vùng đất đó.",
+        "example_id": 80274003620
       },
       {
         "sentence": "札幌雪まつりやなまはげなど有名な祭りもあるが、担い手不足やオーバーツーリズムも課題となっている。",
         "chunks": "札幌雪まつりやなまはげなど有名な祭りもあるが / 担い手不足やオーバーツーリズムも / 課題となっている",
         "guide": "🔒 Đóng gói: [札幌雪まつりやなまはげなど有名な祭り] = 'các lễ hội nổi tiếng như Lễ hội Tuyết Sapporo và Namahage' → など liệt kê không đầy đủ → が tương phản → 💡 担い手不足 = thiếu người kế thừa/duy trì (担い手 = người gánh vác, 不足 = thiếu) → ⚠️ オーバーツーリズム = du lịch quá tải (overcrowding by tourists) → 課題となっている = đang trở thành thách thức",
-        "translation": "Cũng có những lễ hội nổi tiếng như Lễ hội Tuyết Sapporo và Namahage, nhưng tình trạng thiếu người kế thừa và du lịch quá tải cũng đang trở thành thách thức."
+        "translation": "Cũng có những lễ hội nổi tiếng như Lễ hội Tuyết Sapporo và Namahage, nhưng tình trạng thiếu người kế thừa và du lịch quá tải cũng đang trở thành thách thức.",
+        "example_id": 80274003621
       },
       {
         "sentence": "観光客にとっても、地域固有の祭りは貴重な文化体験の機会だ。",
         "chunks": "観光客にとっても / 地域固有の祭りは / 貴重な文化体験の / 機会だ",
         "guide": "🔒 Đóng gói: 「観光客にとっても」= 'đối với cả du khách' → も sau にとって = mở rộng phạm vi 'cũng' → 固有の = 'đặc trưng, riêng có'. 💡 も báo hiệu: ngoài người địa phương, du khách cũng được hưởng lợi.",
-        "translation": "Đối với du khách, lễ hội đặc trưng của địa phương cũng là cơ hội trải nghiệm văn hóa quý giá."
+        "translation": "Đối với du khách, lễ hội đặc trưng của địa phương cũng là cơ hội trải nghiệm văn hóa quý giá.",
+        "example_id": 80274003622
       },
       {
         "sentence": "近年は海外からの訪問者も増え、祭りの国際的な価値が高まっている。",
         "chunks": "近年は / 海外からの訪問者も / 増え / 祭りの国際的な価値が / 高まっている",
         "guide": "🔒 Đóng gói: 「海外からの訪問者も」= 'khách từ nước ngoài cũng' → も nhấn mạnh thêm đối tượng → 増え (て形 lược) = nguyên nhân/điều kiện → 高まっている: tiến diễn 'đang được nâng cao'. 💡 近年は = 'những năm gần đây' dùng để nêu xu hướng mới.",
-        "translation": "Những năm gần đây, số lượng khách từ nước ngoài cũng tăng lên, và giá trị quốc tế của lễ hội ngày càng được nâng cao."
+        "translation": "Những năm gần đây, số lượng khách từ nước ngoài cũng tăng lên, và giá trị quốc tế của lễ hội ngày càng được nâng cao.",
+        "example_id": 80274003623
       },
       {
         "sentence": "地域の人々は、この伝統を次の世代へと誇りを持って伝えていくつもりだ。",
         "chunks": "地域の人々は / この伝統を / 次の世代へと / 誇りを持って / 伝えていくつもりだ",
         "guide": "🔒 Đóng gói: 「次の世代へと」= 'đến thế hệ tiếp theo' → へと nhấn mạnh hướng/đích đến → 誇りを持って = 'với niềm tự hào' → 💡 ～つもりだ = ý định/kế hoạch. 伝えていく = truyền đi và tiếp tục vào tương lai (方向性).",
-        "translation": "Người dân địa phương có ý định truyền lại truyền thống này cho thế hệ tiếp theo với niềm tự hào."
+        "translation": "Người dân địa phương có ý định truyền lại truyền thống này cho thế hệ tiếp theo với niềm tự hào.",
+        "example_id": 80274003624
       }
     ],
     "comprehension": [
@@ -501,25 +555,30 @@
           {
             "text": "政府が定めた新しい規則に根ざしている。",
             "text_vi": "Bắt nguồn từ các quy định mới do chính phủ đặt ra.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003457
           },
           {
             "text": "何百年も前から続く伝統に根ざした文化的な行事だ。",
             "text_vi": "Là sự kiện văn hóa bắt nguồn từ truyền thống kéo dài hàng trăm năm.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003458
           },
           {
             "text": "観光客を呼ぶための現代的な企画に根ざしている。",
             "text_vi": "Bắt nguồn từ kế hoạch hiện đại nhằm thu hút khách du lịch.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003459
           },
           {
             "text": "海外からの文化的な影響に根ざしている。",
             "text_vi": "Bắt nguồn từ ảnh hưởng văn hóa từ nước ngoài.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003460
           }
         ],
-        "explanation": "Câu 4 nêu rõ 「何百年も前から続く伝統に根ざした文化的な行事である」→ ～に根ざした = bắt nguồn từ truyền thống lâu đời hàng trăm năm. Câu 5 tiếp tục khẳng định 「先祖が残した習わし」được kế thừa đến nay."
+        "explanation": "Câu 4 nêu rõ 「何百年も前から続く伝統に根ざした文化的な行事である」→ ～に根ざした = bắt nguồn từ truyền thống lâu đời hàng trăm năm. Câu 5 tiếp tục khẳng định 「先祖が残した習わし」được kế thừa đến nay.",
+        "question_id": 802720865
       },
       {
         "id": "R_0292_Q2",
@@ -529,25 +588,30 @@
           {
             "text": "祭りが観光収入をもたらし、地域が豊かになるから。",
             "text_vi": "Vì lễ hội mang lại doanh thu du lịch và làm giàu cho địa phương.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003461
           },
           {
             "text": "準備から当日まで、子どもから老人まで全員が一丸となって取り組む共同作業があるから。",
             "text_vi": "Vì có công việc tập thể mà từ trẻ em đến người già cùng nhau đoàn kết thực hiện, từ khâu chuẩn bị đến ngày diễn ra.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003462
           },
           {
             "text": "地元の特産品や料理が販売され、経済効果があるから。",
             "text_vi": "Vì đặc sản địa phương và ẩm thực được bày bán, tạo ra hiệu quả kinh tế.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003463
           },
           {
             "text": "神社や寺での儀式が地域の安全を守ると信じられているから。",
             "text_vi": "Vì người ta tin rằng các nghi lễ tại đền chùa bảo vệ sự an toàn của địa phương.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003464
           }
         ],
-        "explanation": "Câu 7 nêu 「祭りの準備は数ヶ月前から始まり、地域の人々が一丸となって取り組む」, câu 8 bổ sung 「子どもから老人まで全員が何らかの形で祭りに参加する」và câu 9 kết luận 「この共同作業こそが、地域の絆を深める大きな力となっている」→ こそが nhấn mạnh: chính công việc tập thể là nguyên nhân."
+        "explanation": "Câu 7 nêu 「祭りの準備は数ヶ月前から始まり、地域の人々が一丸となって取り組む」, câu 8 bổ sung 「子どもから老人まで全員が何らかの形で祭りに参加する」và câu 9 kết luận 「この共同作業こそが、地域の絆を深める大きな力となっている」→ こそが nhấn mạnh: chính công việc tập thể là nguyên nhân.",
+        "question_id": 802720866
       },
       {
         "id": "R_0292_Q3",
@@ -557,25 +621,30 @@
           {
             "text": "経済的な利益をもたらすだけの商業的なイベントだ。",
             "text_vi": "Chỉ là sự kiện thương mại mang lại lợi ích kinh tế.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003465
           },
           {
             "text": "主に観光客のための商業的なイベントとして位置付けられている。",
             "text_vi": "Được định vị chủ yếu là sự kiện thương mại dành cho khách du lịch.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003466
           },
           {
             "text": "その土地の歴史と文化を象徴する重要な存在として広く認識されている。",
             "text_vi": "Được công nhận rộng rãi là biểu tượng quan trọng của lịch sử và văn hóa vùng đất.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003467
           },
           {
             "text": "子どもたちのための季節のイベントに過ぎない。",
             "text_vi": "Chỉ là sự kiện theo mùa dành cho trẻ em.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003468
           }
         ],
-        "explanation": "Câu 12 nêu rõ 「冬の祭りは、その土地の歴史と文化を象徴する重要な存在として広く認識されている」→ ～を象徴する = tượng trưng cho lịch sử và văn hóa, として広く認識される = được công nhận rộng rãi là."
+        "explanation": "Câu 12 nêu rõ 「冬の祭りは、その土地の歴史と文化を象徴する重要な存在として広く認識されている」→ ～を象徴する = tượng trưng cho lịch sử và văn hóa, として広く認識される = được công nhận rộng rãi là.",
+        "question_id": 802720867
       },
       {
         "id": "R_0292_Q4",
@@ -585,27 +654,34 @@
           {
             "text": "冬の祭りが観光業に与える経済的な影響と地域の雇用効果について説明している。",
             "text_vi": "Giải thích tác động kinh tế và hiệu quả tạo việc làm của lễ hội mùa đông đối với ngành du lịch.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003469
           },
           {
             "text": "冬の祭りが地域文化の象徴として、人々の生活を彩り、伝統を次世代に繋ぐ役割を持つことを述べている。",
             "text_vi": "Trình bày vai trò của lễ hội mùa đông như một biểu tượng văn hóa địa phương, tô điểm cuộc sống và kết nối truyền thống cho thế hệ sau.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003470
           },
           {
             "text": "冬の祭りにおける宗教的な儀式の由来と種類を地域別に詳しく紹介している。",
             "text_vi": "Giới thiệu chi tiết nguồn gốc và các loại nghi lễ tôn giáo trong lễ hội mùa đông theo từng vùng.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003471
           },
           {
             "text": "冬の祭りの担い手不足が深刻化する現状と廃止の是非について議論している。",
             "text_vi": "Thảo luận về tình trạng thiếu hụt người duy trì lễ hội mùa đông ngày càng trầm trọng và việc có nên bãi bỏ hay không.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003472
           }
         ],
-        "explanation": "Bài văn đề cập đến 3 khía cạnh chính: (1) 祭りが生活を彩る (câu 1-3), (2) 伝統に根ざした祭り (câu 4-6), (3) 地域の絆・象徴としての役割 (câu 7-15). Câu cuối nêu rõ ý định 「次の世代へと伝えていく」→ chủ đề bao quát là vai trò văn hóa-cộng đồng của lễ hội."
+        "explanation": "Bài văn đề cập đến 3 khía cạnh chính: (1) 祭りが生活を彩る (câu 1-3), (2) 伝統に根ざした祭り (câu 4-6), (3) 地域の絆・象徴としての役割 (câu 7-15). Câu cuối nêu rõ ý định 「次の世代へと伝えていく」→ chủ đề bao quát là vai trò văn hóa-cộng đồng của lễ hội.",
+        "question_id": 802720868
       }
-    ]
+    ],
+    "reading_passage_id": 802700292,
+    "question_set_id": 802710292
   },
   {
     "id": "R_0293",
@@ -706,97 +782,113 @@
         "sentence": "現代社会では、プラスチックごみの問題が深刻な環境問題となっている。",
         "chunks": "現代社会では / プラスチックごみの問題が / 深刻な環境問題と / なっている",
         "guide": "🔒 Đóng gói: 「現代社会では」= 'trong xã hội hiện đại' → では = trợ từ chỉ phạm vi/bối cảnh → が chủ ngữ → と + なっている = 'đã trở thành'. 💡 ～が問題となる: chủ ngữ + が + 問題となる = trở thành vấn đề.",
-        "translation": "Trong xã hội hiện đại, vấn đề rác thải nhựa đã trở thành vấn đề môi trường nghiêm trọng."
+        "translation": "Trong xã hội hiện đại, vấn đề rác thải nhựa đã trở thành vấn đề môi trường nghiêm trọng.",
+        "example_id": 80274003625
       },
       {
         "sentence": "毎年何百万トンものプラスチックが海や川に流れ込み、生態系に大きなダメージを与えている。",
         "chunks": "毎年何百万トンもの / プラスチックが / 海や川に / 流れ込み / 生態系に / 大きなダメージを / 与えている",
         "guide": "🔒 Đóng gói: 「毎年何百万トンもの」= 'hàng triệu tấn mỗi năm' → も sau số lượng = nhấn mạnh số lượng lớn → や liệt kê không đầy đủ → 流れ込み (て形 lược). ⚠️ 何百万 = hàng triệu (何 + số + 万).",
-        "translation": "Hàng triệu tấn nhựa đổ vào biển và sông mỗi năm, gây tổn hại lớn cho hệ sinh thái."
+        "translation": "Hàng triệu tấn nhựa đổ vào biển và sông mỗi năm, gây tổn hại lớn cho hệ sinh thái.",
+        "example_id": 80274003626
       },
       {
         "sentence": "このまま対策を取らなければ、将来の世代に深刻な影響を残すことになる。",
         "chunks": "このまま / 対策を取らなければ / 将来の世代に / 深刻な影響を / 残すことになる",
         "guide": "⚠️ ～なければ = thể điều kiện phủ định 'nếu không' → 🔒 Đóng gói: 「このまま対策を取らなければ」= 'nếu cứ như vậy mà không có biện pháp đối phó' → 💡 ～ことになる = sẽ dẫn đến tình huống là... (kết quả tự nhiên/tất yếu).",
-        "translation": "Nếu không có biện pháp đối phó ngay, điều này sẽ để lại ảnh hưởng nghiêm trọng cho thế hệ tương lai."
+        "translation": "Nếu không có biện pháp đối phó ngay, điều này sẽ để lại ảnh hưởng nghiêm trọng cho thế hệ tương lai.",
+        "example_id": 80274003627
       },
       {
         "sentence": "プラスチックの使用量を削減するために、世界各国で様々な政策が導入されている。",
         "chunks": "プラスチックの使用量を / 削減するために / 世界各国で / 様々な政策が / 導入されている",
         "guide": "🔒 Đóng gói: 「削減するために」= 'để cắt giảm' → ために chỉ mục đích → を + 削減する: tân ngữ + 削減する = cắt giảm đối tượng nào. 💡 導入されている: bị động tiến diễn = 'đang được áp dụng'.",
-        "translation": "Để giảm lượng sử dụng nhựa, nhiều chính sách khác nhau đã được áp dụng ở các quốc gia trên thế giới."
+        "translation": "Để giảm lượng sử dụng nhựa, nhiều chính sách khác nhau đã được áp dụng ở các quốc gia trên thế giới.",
+        "example_id": 80274003628
       },
       {
         "sentence": "レジ袋の有料化やストローの廃止は、プラスチックの消費を削減する効果的な手段として知られている。",
         "chunks": "レジ袋の有料化や / ストローの廃止は / プラスチックの消費を / 削減する / 効果的な手段として / 知られている",
         "guide": "🔒 Đóng gói: 「レジ袋の有料化やストローの廃止は」= 'việc thu phí túi nilon và bãi bỏ ống hút' → は chủ đề → として知られている = 'được biết đến là'. ⚠️ として ≠ と: として = với tư cách là (vai trò/định danh).",
-        "translation": "Việc thu phí túi nilon và bãi bỏ ống hút được biết đến là biện pháp hiệu quả giảm tiêu thụ nhựa."
+        "translation": "Việc thu phí túi nilon và bãi bỏ ống hút được biết đến là biện pháp hiệu quả giảm tiêu thụ nhựa.",
+        "example_id": 80274003629
       },
       {
         "sentence": "日本でも2020年のレジ袋有料化や2022年のプラスチック資源循環促進法など、対策が進められている。",
         "chunks": "日本でも / 2020年のレジ袋有料化や2022年のプラスチック資源循環促進法など / 対策が進められている",
         "guide": "でも → 'ngay cả ở Nhật' (nhấn mạnh Nhật cũng không ngoại lệ) → 🔒 Đóng gói: [2020年のレジ袋有料化や2022年のプラスチック資源循環促進法] = '2020 thu phí túi nilon và Luật Tuần hoàn Tài nguyên Nhựa 2022' → など liệt kê không đầy đủ → 💡 プラスチック資源循環促進法 = luật cụ thể năm 2022 của Nhật, yêu cầu giảm nhựa toàn chuỗi → ⚠️ 進められている = đang được thúc đẩy (bị động tiến diễn)",
-        "translation": "Ở Nhật Bản cũng vậy, các biện pháp đang được thúc đẩy như việc thu phí túi nilon năm 2020 và Luật Thúc đẩy Tuần hoàn Tài nguyên Nhựa năm 2022."
+        "translation": "Ở Nhật Bản cũng vậy, các biện pháp đang được thúc đẩy như việc thu phí túi nilon năm 2020 và Luật Thúc đẩy Tuần hoàn Tài nguyên Nhựa năm 2022.",
+        "example_id": 80274003630
       },
       {
         "sentence": "企業も再利用可能な素材への切り替えに取り組んでいる。",
         "chunks": "企業も / 再利用可能な素材への / 切り替えに / 取り組んでいる",
         "guide": "🔒 Đóng gói: 「再利用可能な素材への切り替え」= 'việc chuyển sang vật liệu có thể tái sử dụng' → 🔒 đóng gói toàn cụm → に + 取り組む = 'nỗ lực giải quyết/thực hiện việc gì'. 💡 も = 'cũng', ngầm ý: không chỉ chính phủ mà doanh nghiệp cũng vậy.",
-        "translation": "Các doanh nghiệp cũng đang nỗ lực chuyển sang vật liệu có thể tái sử dụng."
+        "translation": "Các doanh nghiệp cũng đang nỗ lực chuyển sang vật liệu có thể tái sử dụng.",
+        "example_id": 80274003631
       },
       {
         "sentence": "国際的な環境団体や研究機関も、プラスチック汚染の解決に積極的に取り組んでいる。",
         "chunks": "国際的な環境団体や / 研究機関も / プラスチック汚染の解決に / 積極的に / 取り組んでいる",
         "guide": "🔒 Đóng gói: 「国際的な環境団体や研究機関も」= 'các tổ chức môi trường quốc tế và cơ quan nghiên cứu cũng' → や liệt kê không đầy đủ + も nhấn mạnh thêm chủ thể → 積極的に = 'một cách tích cực'. 💡 ～に取り組む: に + 取り組む = nỗ lực giải quyết vấn đề cụ thể.",
-        "translation": "Các tổ chức môi trường quốc tế và cơ quan nghiên cứu cũng đang tích cực giải quyết ô nhiễm nhựa."
+        "translation": "Các tổ chức môi trường quốc tế và cơ quan nghiên cứu cũng đang tích cực giải quyết ô nhiễm nhựa.",
+        "example_id": 80274003632
       },
       {
         "sentence": "海岸の清掃活動や啓発キャンペーンが世界中で行われ、多くの人々の意識を変えつつある。",
         "chunks": "海岸の清掃活動や / 啓発キャンペーンが / 世界中で行われ / 多くの人々の意識を / 変えつつある",
         "guide": "🔒 Đóng gói: 「海岸の清掃活動や啓発キャンペーン」= 'hoạt động dọn dẹp bờ biển và chiến dịch nâng cao nhận thức' → 行われ (て形 lược) → 💡 ～つつある = đang trong quá trình, dần dần thay đổi (tiến trình chưa hoàn thành).",
-        "translation": "Các hoạt động dọn dẹp bờ biển và chiến dịch nâng cao nhận thức được tiến hành trên toàn thế giới, đang dần thay đổi nhận thức của nhiều người."
+        "translation": "Các hoạt động dọn dẹp bờ biển và chiến dịch nâng cao nhận thức được tiến hành trên toàn thế giới, đang dần thay đổi nhận thức của nhiều người.",
+        "example_id": 80274003633
       },
       {
         "sentence": "しかし、個人の取り組みだけでは限界があり、政府や企業の協力が不可欠だ。",
         "chunks": "しかし / 個人の取り組みだけでは / 限界があり / 政府や企業の協力が / 不可欠だ",
         "guide": "⚠️ しかし = nhưng → đảo chiều luận điểm → 🔒 Đóng gói: 「個人の取り組みだけでは」= 'chỉ bằng nỗ lực cá nhân thôi thì' → だけでは = 'chỉ riêng... thì không đủ' (ngầm ý phủ định). 💡 不可欠だ = không thể thiếu, cần thiết tuyệt đối.",
-        "translation": "Tuy nhiên, nỗ lực cá nhân đơn thuần có giới hạn, và sự hợp tác của chính phủ và doanh nghiệp là không thể thiếu."
+        "translation": "Tuy nhiên, nỗ lực cá nhân đơn thuần có giới hạn, và sự hợp tác của chính phủ và doanh nghiệp là không thể thiếu.",
+        "example_id": 80274003634
       },
       {
         "sentence": "プラスチック汚染は今や国境を越えた問題となっており、一国だけで解決できるものではない。",
         "chunks": "プラスチック汚染は / 今や / 国境を越えた問題と / なっており / 一国だけで / 解決できるものではない",
         "guide": "🔒 Đóng gói: 「今や国境を越えた問題となっており」= 'hiện đã trở thành vấn đề vượt qua biên giới' → 💡 今や = nhấn mạnh sự thay đổi đến thời điểm hiện tại. ⚠️ ～ものではない = không thể, không nên (phủ định mạnh về khả năng).",
-        "translation": "Ô nhiễm nhựa hiện đã vượt qua biên giới quốc gia và trở thành vấn đề toàn cầu, không thể giải quyết bởi một quốc gia đơn lẻ."
+        "translation": "Ô nhiễm nhựa hiện đã vượt qua biên giới quốc gia và trở thành vấn đề toàn cầu, không thể giải quyết bởi một quốc gia đơn lẻ.",
+        "example_id": 80274003635
       },
       {
         "sentence": "海洋プラスチックは海流によって世界中に運ばれ、どの国も無関係でいられない状況だ。",
         "chunks": "海洋プラスチックは / 海流によって / 世界中に / 運ばれ / どの国も / 無関係でいられない状況だ",
         "guide": "🔒 Đóng gói: 「海流によって世界中に運ばれ」= 'được các dòng hải lưu mang đến khắp thế giới' → によって: chủ thể của hành động bị động. 💡 どの国も + ない = 'không quốc gia nào' (phủ định toàn bộ). ⚠️ 無関係でいられない = không thể đứng ngoài, không thể vô can.",
-        "translation": "Nhựa đại dương được các dòng hải lưu mang đến khắp nơi trên thế giới, và không quốc gia nào có thể đứng ngoài tình trạng này."
+        "translation": "Nhựa đại dương được các dòng hải lưu mang đến khắp nơi trên thế giới, và không quốc gia nào có thể đứng ngoài tình trạng này.",
+        "example_id": 80274003636
       },
       {
         "sentence": "特に、マイクロプラスチックが食物連鎖に入り込んでいることが深刻な問題として注目されている。",
         "chunks": "特に / マイクロプラスチックが / 食物連鎖に入り込んでいること / が / 深刻な問題として / 注目されている",
         "guide": "🔒 Đóng gói: 「マイクロプラスチックが食物連鎖に入り込んでいること」= toàn bộ mệnh đề này làm chủ ngữ → こと nominalizes cả mệnh đề → が chủ ngữ → として = 'với tư cách là'. 💡 注目されている = đang được chú ý (bị động tiến diễn).",
-        "translation": "Đặc biệt, việc vi nhựa xâm nhập vào chuỗi thức ăn đang được chú ý như một vấn đề nghiêm trọng."
+        "translation": "Đặc biệt, việc vi nhựa xâm nhập vào chuỗi thức ăn đang được chú ý như một vấn đề nghiêm trọng.",
+        "example_id": 80274003637
       },
       {
         "sentence": "これらの微小なプラスチック粒子は、魚介類を通じて人間の体内にも入り込む可能性がある。",
         "chunks": "これらの微小なプラスチック粒子は / 魚介類を通じて / 人間の体内にも / 入り込む / 可能性がある",
         "guide": "🔒 Đóng gói: 「これらの微小なプラスチック粒子は」= 'các hạt nhựa siêu nhỏ này' → を通じて = 'thông qua' (phương tiện/con đường) → 💡 ～可能性がある = có khả năng, có thể xảy ra. も sau に = nhấn mạnh thêm 'kể cả trong cơ thể người'.",
-        "translation": "Các hạt nhựa siêu nhỏ này có khả năng xâm nhập vào cơ thể người thông qua hải sản."
+        "translation": "Các hạt nhựa siêu nhỏ này có khả năng xâm nhập vào cơ thể người thông qua hải sản.",
+        "example_id": 80274003638
       },
       {
         "sentence": "科学者たちは、マイクロプラスチックが人体に与える長期的な影響を調査している。",
         "chunks": "科学者たちは / マイクロプラスチックが / 人体に与える / 長期的な影響を / 調査している",
         "guide": "🔒 Đóng gói: 「マイクロプラスチックが人体に与える長期的な影響」= toàn bộ cụm này là tân ngữ của 調査している → 修飾語 (mệnh đề quan hệ) + 長期的な影響 → を chỉ tân ngữ. 💡 長期的な = mang tính lâu dài (dài hạn).",
-        "translation": "Các nhà khoa học đang điều tra ảnh hưởng lâu dài của vi nhựa đối với cơ thể người."
+        "translation": "Các nhà khoa học đang điều tra ảnh hưởng lâu dài của vi nhựa đối với cơ thể người.",
+        "example_id": 80274003639
       },
       {
         "sentence": "私たち一人ひとりが意識を変え、プラスチックへの依存を減らすことが、この問題を解決する第一歩だ。",
         "chunks": "私たち一人ひとりが / 意識を変え / プラスチックへの依存を / 減らすこと / が / この問題を解決する / 第一歩だ",
         "guide": "🔒 Đóng gói: 「私たち一人ひとりが意識を変え、プラスチックへの依存を減らすこと」= toàn bộ hành động làm chủ ngữ → こと nominalizes → が chủ ngữ → 💡 一人ひとりが = 'mỗi người một' nhấn mạnh trách nhiệm cá nhân. 第一歩だ = bước đầu tiên, câu kết luận mạnh.",
-        "translation": "Mỗi người trong chúng ta thay đổi ý thức và giảm sự phụ thuộc vào nhựa chính là bước đầu tiên để giải quyết vấn đề này."
+        "translation": "Mỗi người trong chúng ta thay đổi ý thức và giảm sự phụ thuộc vào nhựa chính là bước đầu tiên để giải quyết vấn đề này.",
+        "example_id": 80274003640
       }
     ],
     "comprehension": [
@@ -808,25 +900,30 @@
           {
             "text": "経済活動に大きなダメージを与えている。",
             "text_vi": "Gây tổn hại lớn cho các hoạt động kinh tế.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003473
           },
           {
             "text": "生態系に大きなダメージを与えている。",
             "text_vi": "Gây tổn hại lớn cho hệ sinh thái.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003474
           },
           {
             "text": "観光業に大きな悪影響を与えている。",
             "text_vi": "Gây ảnh hưởng xấu lớn đến ngành du lịch.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003475
           },
           {
             "text": "農業や漁業だけに影響を与えている。",
             "text_vi": "Chỉ ảnh hưởng đến nông nghiệp và ngư nghiệp.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003476
           }
         ],
-        "explanation": "Câu 2 nêu rõ 「毎年何百万トンものプラスチックが海や川に流れ込み、生態系に大きなダメージを与えている」→ 生態系 = hệ sinh thái là đối tượng bị ảnh hưởng trực tiếp."
+        "explanation": "Câu 2 nêu rõ 「毎年何百万トンものプラスチックが海や川に流れ込み、生態系に大きなダメージを与えている」→ 生態系 = hệ sinh thái là đối tượng bị ảnh hưởng trực tiếp.",
+        "question_id": 802720869
       },
       {
         "id": "R_0293_Q2",
@@ -836,25 +933,30 @@
           {
             "text": "プラスチックの製造を完全に禁止している。",
             "text_vi": "Cấm hoàn toàn việc sản xuất nhựa.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003477
           },
           {
             "text": "プラスチック製品の輸入に高い関税をかけている。",
             "text_vi": "Đánh thuế cao vào hàng nhập khẩu có sản phẩm nhựa.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003478
           },
           {
             "text": "レジ袋の有料化やストローの廃止などの政策が導入されている。",
             "text_vi": "Các chính sách như thu phí túi nilon và bãi bỏ ống hút đã được áp dụng.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003479
           },
           {
             "text": "プラスチックを使う企業に罰金を科している。",
             "text_vi": "Phạt tiền các doanh nghiệp sử dụng nhựa.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003480
           }
         ],
-        "explanation": "Câu 4 đề cập đến 「様々な政策が導入されている」và câu 5 cụ thể hóa: 「レジ袋の有料化やストローの廃止は、プラスチックの消費を削減する効果的な手段として知られている」→ đây là các biện pháp được đề cập trực tiếp trong bài."
+        "explanation": "Câu 4 đề cập đến 「様々な政策が導入されている」và câu 5 cụ thể hóa: 「レジ袋の有料化やストローの廃止は、プラスチックの消費を削減する効果的な手段として知られている」→ đây là các biện pháp được đề cập trực tiếp trong bài.",
+        "question_id": 802720870
       },
       {
         "id": "R_0293_Q3",
@@ -864,25 +966,30 @@
           {
             "text": "マイクロプラスチックは分解に数百年かかるからだ。",
             "text_vi": "Vì vi nhựa mất hàng trăm năm để phân hủy.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003481
           },
           {
             "text": "食物連鎖に入り込み、人間の体内にも入る可能性があるからだ。",
             "text_vi": "Vì xâm nhập vào chuỗi thức ăn và có khả năng vào cả cơ thể người.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003482
           },
           {
             "text": "マイクロプラスチックは海の色を変えてしまうからだ。",
             "text_vi": "Vì vi nhựa làm thay đổi màu của đại dương.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003483
           },
           {
             "text": "マイクロプラスチックは目に見えないので測定できないからだ。",
             "text_vi": "Vì vi nhựa không thể nhìn thấy nên không thể đo lường.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003484
           }
         ],
-        "explanation": "Câu 12 nêu 「マイクロプラスチックが食物連鎖に入り込んでいることが深刻な問題として注目されている」và câu 13 bổ sung 「魚介類を通じて人間の体内にも入り込む可能性がある」→ hai lý do này kết hợp giải thích tại sao vi nhựa đặc biệt nguy hiểm."
+        "explanation": "Câu 12 nêu 「マイクロプラスチックが食物連鎖に入り込んでいることが深刻な問題として注目されている」và câu 13 bổ sung 「魚介類を通じて人間の体内にも入り込む可能性がある」→ hai lý do này kết hợp giải thích tại sao vi nhựa đặc biệt nguy hiểm.",
+        "question_id": 802720871
       },
       {
         "id": "R_0293_Q4",
@@ -892,27 +999,34 @@
           {
             "text": "プラスチック問題は技術の進歩によって自然に解決される。",
             "text_vi": "Vấn đề nhựa sẽ tự nhiên được giải quyết nhờ tiến bộ công nghệ.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003485
           },
           {
             "text": "個人・企業・政府がそれぞれの立場で取り組まなければ、真の解決はない。",
             "text_vi": "Nếu không có cá nhân, doanh nghiệp và chính phủ cùng hành động theo vai trò của mình, sẽ không có giải pháp thực sự.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003486
           },
           {
             "text": "プラスチックは今すぐ全面禁止にすべきだ。",
             "text_vi": "Nhựa nên được cấm toàn bộ ngay lập tức.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003487
           },
           {
             "text": "日本は他国と比べてプラスチック対策が遅れている。",
             "text_vi": "Nhật Bản đang tụt hậu so với các nước khác về biện pháp đối phó với nhựa.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003488
           }
         ],
-        "explanation": "Bài văn nêu: cá nhân (câu 16: 一人ひとりが意識を変え) + doanh nghiệp (câu 7: 企業も取り組んでいる) + chính phủ/quốc tế (câu 4-6: 世界各国で政策が導入、日本でも法律) + ngay cả một quốc gia cũng không thể giải quyết một mình (câu 11: 一国だけで解決できるものではない). Tác giả ngụ ý rằng cần nỗ lực đồng bộ từ tất cả các tầng — không có giải pháp đơn lẻ nào là đủ."
+        "explanation": "Bài văn nêu: cá nhân (câu 16: 一人ひとりが意識を変え) + doanh nghiệp (câu 7: 企業も取り組んでいる) + chính phủ/quốc tế (câu 4-6: 世界各国で政策が導入、日本でも法律) + ngay cả một quốc gia cũng không thể giải quyết một mình (câu 11: 一国だけで解決できるものではない). Tác giả ngụ ý rằng cần nỗ lực đồng bộ từ tất cả các tầng — không có giải pháp đơn lẻ nào là đủ.",
+        "question_id": 802720872
       }
-    ]
+    ],
+    "reading_passage_id": 802700293,
+    "question_set_id": 802710293
   },
   {
     "id": "R_0294",
@@ -1007,91 +1121,106 @@
         "sentence": "幸福とは何か、という問いに対して、科学者たちは長年にわたって研究を続けてきた。",
         "chunks": "幸福とは何か / という問いに対して / 科学者たちは / 長年にわたって / 研究を続けてきた",
         "guide": "🔒 Đóng gói: 「幸福とは何か、という問い」= 'câu hỏi hạnh phúc là gì' → という = nominalizer trích dẫn câu hỏi → に対して = 'đối với, đáp lại'. 💡 ～にわたって = 'kéo dài trong phạm vi thời gian'. ～てきた = hành động tiếp diễn từ quá khứ đến hiện tại.",
-        "translation": "Trước câu hỏi hạnh phúc là gì, các nhà khoa học đã tiếp tục nghiên cứu trong nhiều năm."
+        "translation": "Trước câu hỏi hạnh phúc là gì, các nhà khoa học đã tiếp tục nghiên cứu trong nhiều năm.",
+        "example_id": 80274003641
       },
       {
         "sentence": "近年の研究によって、幸福感はいくつかの社会的・心理的要因と強く相関することが明らかになった。",
         "chunks": "近年の研究によって / 幸福感は / いくつかの社会的・心理的要因と / 強く相関すること / が / 明らかになった",
         "guide": "🔒 Đóng gói: 「近年の研究によって」= 'nhờ các nghiên cứu gần đây' → によって = phương tiện/nguyên nhân → 🔒 Đóng gói: 「幸福感は～と強く相関すること」= toàn bộ mệnh đề làm chủ ngữ → 💡 ～と相関する: と + 相関する = tương quan với. ～ことが明らかになった = được làm rõ.",
-        "translation": "Nhờ các nghiên cứu gần đây, người ta đã làm rõ rằng cảm giác hạnh phúc tương quan mạnh với một số yếu tố xã hội và tâm lý."
+        "translation": "Nhờ các nghiên cứu gần đây, người ta đã làm rõ rằng cảm giác hạnh phúc tương quan mạnh với một số yếu tố xã hội và tâm lý.",
+        "example_id": 80274003642
       },
       {
         "sentence": "特に、人間関係の質と幸福度が高い相関を示すことは、多くの研究が一致して指摘している。",
         "chunks": "特に / 人間関係の質と幸福度が / 高い相関を示すこと / は / 多くの研究が / 一致して指摘している",
         "guide": "🔒 Đóng gói: 「人間関係の質と幸福度が高い相関を示すこと」= toàn bộ mệnh đề làm chủ đề (は) → こと nominalizes mệnh đề. ⚠️ 多くの研究が一致して = 'nhiều nghiên cứu đồng thuận' → nhấn mạnh sự đồng thuận khoa học. 💡 ～を示す = cho thấy, chứng minh.",
-        "translation": "Đặc biệt, nhiều nghiên cứu đồng thuận chỉ ra rằng chất lượng các mối quan hệ con người và mức độ hạnh phúc cho thấy tương quan cao."
+        "translation": "Đặc biệt, nhiều nghiên cứu đồng thuận chỉ ra rằng chất lượng các mối quan hệ con người và mức độ hạnh phúc cho thấy tương quan cao.",
+        "example_id": 80274003643
       },
       {
         "sentence": "お金や地位が幸福と結びつくかどうかについては、研究者の間でも議論が続いている。",
         "chunks": "お金や地位が / 幸福と結びつくかどうか / については / 研究者の間でも / 議論が続いている",
         "guide": "🔒 Đóng gói: 「お金や地位が幸福と結びつくかどうか」= toàn bộ câu hỏi gián tiếp → については = 'về vấn đề' (chủ đề được bình luận). ⚠️ かどうか = 'liệu có hay không' (câu hỏi Yes/No gián tiếp). 💡 結びつく = gắn kết, liên kết với nhau. 研究者の間でも = 'ngay cả trong giới nghiên cứu' → も nhấn mạnh.",
-        "translation": "Về việc tiền bạc và địa vị có gắn kết với hạnh phúc hay không, cuộc thảo luận vẫn tiếp diễn ngay cả trong giới nghiên cứu."
+        "translation": "Về việc tiền bạc và địa vị có gắn kết với hạnh phúc hay không, cuộc thảo luận vẫn tiếp diễn ngay cả trong giới nghiên cứu.",
+        "example_id": 80274003644
       },
       {
         "sentence": "一定の収入まではお金と幸福が関連するが、それ以上になると相関が弱まるという結果が多くの研究で示されている。",
         "chunks": "一定の収入までは / お金と幸福が関連するが / それ以上になると / 相関が弱まる / という結果が / 多くの研究で示されている",
         "guide": "🔒 Đóng gói: 「一定の収入まではお金と幸福が関連するが、それ以上になると相関が弱まる」= nội dung kết quả được trích dẫn → という + 結果 = 'kết quả là...' → 示されている: bị động tiến diễn. ⚠️ まで + が = phạm vi điều kiện, が ở đây = nhưng (đảo ngược). 💡 関連する = có liên quan (rộng hơn 相関する).",
-        "translation": "Nhiều nghiên cứu cho thấy rằng tiền bạc và hạnh phúc có liên quan đến một mức thu nhập nhất định, nhưng sau đó tương quan giảm dần."
+        "translation": "Nhiều nghiên cứu cho thấy rằng tiền bạc và hạnh phúc có liên quan đến một mức thu nhập nhất định, nhưng sau đó tương quan giảm dần.",
+        "example_id": 80274003645
       },
       {
         "sentence": "つまり、基本的な生活が満たされれば、それ以上の富が幸福をもたらすとは限らないのだ。",
         "chunks": "つまり / 基本的な生活が / 満たされれば / それ以上の富が / 幸福をもたらすとは限らない / のだ",
         "guide": "⚠️ つまり = 'nói cách khác, tức là' → tóm tắt luận điểm vừa nêu → 🔒 Đóng gói: 「基本的な生活が満たされれば」= 'nếu cuộc sống cơ bản được thỏa mãn' → 💡 ～とは限らない = không nhất thiết, không chắc là (phủ định toàn bộ). のだ = nhấn mạnh giải thích.",
-        "translation": "Nói cách khác, một khi cuộc sống cơ bản được đáp ứng, sự giàu có hơn nữa chưa chắc đã mang lại hạnh phúc."
+        "translation": "Nói cách khác, một khi cuộc sống cơ bản được đáp ứng, sự giàu có hơn nữa chưa chắc đã mang lại hạnh phúc.",
+        "example_id": 80274003646
       },
       {
         "sentence": "幸福の感じ方は、文化や個人によって大きく異なることも研究が示している。",
         "chunks": "幸福の感じ方は / 文化や個人によって / 大きく異なること / も / 研究が示している",
         "guide": "🔒 Đóng gói: 「幸福の感じ方は」= 'cách cảm nhận hạnh phúc' → は chủ đề → によって + 異なる = 'khác nhau tùy theo'. 💡 ～によって異なる: theo ai/cái gì mà có sự khác biệt. も = nhấn mạnh 'điều này cũng' (thêm vào các phát hiện trước).",
-        "translation": "Nghiên cứu cũng chỉ ra rằng cách cảm nhận hạnh phúc khác nhau rất nhiều tùy theo văn hóa và cá nhân."
+        "translation": "Nghiên cứu cũng chỉ ra rằng cách cảm nhận hạnh phúc khác nhau rất nhiều tùy theo văn hóa và cá nhân.",
+        "example_id": 80274003647
       },
       {
         "sentence": "例えば、集団主義的な社会では他者との調和が幸福感に強く影響するのに対し、個人主義的な社会では個人的な達成感がより重視される。",
         "chunks": "例えば / 集団主義的な社会では / 他者との調和が / 幸福感に強く影響する / のに対し / 個人主義的な社会では / 個人的な達成感が / より重視される",
         "guide": "⚠️ のに対し = 'trong khi đó, ngược lại' → đối lập 2 tình huống → 🔒 Đóng gói: 「集団主義的な社会では他者との調和が幸福感に強く影響する」= vế 1 → 🔒 Đóng gói: 「個人主義的な社会では個人的な達成感がより重視される」= vế 2. 💡 に影響する = ảnh hưởng đến.",
-        "translation": "Ví dụ, trong các xã hội theo chủ nghĩa tập thể, sự hòa hợp với người khác ảnh hưởng mạnh đến cảm giác hạnh phúc, trong khi ở các xã hội theo chủ nghĩa cá nhân, cảm giác thành tựu cá nhân được coi trọng hơn."
+        "translation": "Ví dụ, trong các xã hội theo chủ nghĩa tập thể, sự hòa hợp với người khác ảnh hưởng mạnh đến cảm giác hạnh phúc, trong khi ở các xã hội theo chủ nghĩa cá nhân, cảm giác thành tựu cá nhân được coi trọng hơn.",
+        "example_id": 80274003648
       },
       {
         "sentence": "同じ出来事でも、幸福への影響は人によって異なる場合が多い。",
         "chunks": "同じ出来事でも / 幸福への影響は / 人によって / 異なる場合が多い",
         "guide": "🔒 Đóng gói: 「同じ出来事でも」= 'ngay cả cùng một sự kiện' → でも sau danh từ = 'ngay cả' (nhấn mạnh ngoại lệ) → 人によって異なる = 'khác nhau tùy người'. 💡 ～場合が多い = 'thường là, hay xảy ra trường hợp'.",
-        "translation": "Ngay cả cùng một sự kiện, ảnh hưởng đến hạnh phúc cũng thường khác nhau tùy người."
+        "translation": "Ngay cả cùng một sự kiện, ảnh hưởng đến hạnh phúc cũng thường khác nhau tùy người.",
+        "example_id": 80274003649
       },
       {
         "sentence": "健康と幸福の関係も、研究者たちが注目してきた重要なテーマだ。",
         "chunks": "健康と幸福の関係も / 研究者たちが / 注目してきた / 重要なテーマだ",
         "guide": "🔒 Đóng gói: 「健康と幸福の関係も」= 'mối quan hệ giữa sức khỏe và hạnh phúc cũng' → も mở rộng chủ đề mới → 注目してきた: ～てきた = tiếp diễn từ quá khứ đến hiện tại. 💡 Câu này chuyển sang chủ đề mới (sức khỏe) nhờ も.",
-        "translation": "Mối quan hệ giữa sức khỏe và hạnh phúc cũng là chủ đề quan trọng mà các nhà nghiên cứu đã chú ý."
+        "translation": "Mối quan hệ giữa sức khỏe và hạnh phúc cũng là chủ đề quan trọng mà các nhà nghiên cứu đã chú ý.",
+        "example_id": 80274003650
       },
       {
         "sentence": "身体的な健康と幸福感が関係があることは広く知られているが、精神的な健康との相関はさらに強いことが最新の研究で示されている。",
         "chunks": "身体的な健康と幸福感が関係があること / は / 広く知られているが / 精神的な健康との相関は / さらに強いことが / 最新の研究で示されている",
         "guide": "⚠️ が ở giữa câu = 'nhưng' (đảo chiều nhẹ, không mâu thuẫn hoàn toàn) → 🔒 Đóng gói vế 1: 「身体的な健康と幸福感が関係があること」= điều đã biết (関係がある = có mối liên hệ) → 🔒 Đóng gói vế 2: 「精神的な健康との相関はさらに強い」= thông tin mới, mạnh hơn. 💡 さらに = 'còn hơn nữa, thậm chí'.",
-        "translation": "Mối liên hệ giữa sức khỏe thể chất và cảm giác hạnh phúc được biết đến rộng rãi, nhưng các nghiên cứu mới nhất cho thấy tương quan với sức khỏe tinh thần còn mạnh hơn nữa."
+        "translation": "Mối liên hệ giữa sức khỏe thể chất và cảm giác hạnh phúc được biết đến rộng rãi, nhưng các nghiên cứu mới nhất cho thấy tương quan với sức khỏe tinh thần còn mạnh hơn nữa.",
+        "example_id": 80274003651
       },
       {
         "sentence": "また、運動習慣が幸福感を高めることも、多くのデータが示す興味深い事実だ。",
         "chunks": "また / 運動習慣が幸福感を高めること / も / 多くのデータが示す / 興味深い事実だ",
         "guide": "🔒 Đóng gói: 「運動習慣が幸福感を高めること」= toàn bộ mệnh đề → こと nominalizes → も = 'cũng' (thêm vào danh sách phát hiện) → 多くのデータが示す = mệnh đề quan hệ sửa đổi 興味深い事実. 💡 また = 'ngoài ra' để thêm thông tin cùng chủ đề.",
-        "translation": "Ngoài ra, thói quen tập thể dục giúp tăng cảm giác hạnh phúc cũng là sự thật thú vị mà nhiều dữ liệu chứng minh."
+        "translation": "Ngoài ra, thói quen tập thể dục giúp tăng cảm giác hạnh phúc cũng là sự thật thú vị mà nhiều dữ liệu chứng minh.",
+        "example_id": 80274003652
       },
       {
         "sentence": "研究者たちが最も驚いた発見の一つは、幸福感は遺伝的な要因とも相関するという点だ。",
         "chunks": "研究者たちが最も驚いた / 発見の一つは / 幸福感は遺伝的な要因とも / 相関する / という点だ",
         "guide": "🔒 Đóng gói: 「研究者たちが最も驚いた発見の一つは」= 'một trong những phát hiện khiến các nhà nghiên cứu ngạc nhiên nhất' → mệnh đề quan hệ sửa 発見 → という点だ = 'là điểm rằng...' (chỉ ra nội dung cụ thể). ⚠️ とも = 'cũng với' (ngầm ý ngoài các yếu tố khác đã biết).",
-        "translation": "Một trong những phát hiện khiến các nhà nghiên cứu ngạc nhiên nhất là cảm giác hạnh phúc cũng tương quan với các yếu tố di truyền."
+        "translation": "Một trong những phát hiện khiến các nhà nghiên cứu ngạc nhiên nhất là cảm giác hạnh phúc cũng tương quan với các yếu tố di truyền.",
+        "example_id": 80274003653
       },
       {
         "sentence": "同じ環境に置かれても、幸福を感じやすい人とそうでない人がいることが、双子研究によって明らかになっている。",
         "chunks": "同じ環境に置かれても / 幸福を感じやすい人と / そうでない人がいること / が / 双子研究によって / 明らかになっている",
         "guide": "⚠️ ～ても = 'ngay cả khi, dù' (nhượng bộ) → 🔒 Đóng gói: 「幸福を感じやすい人とそうでない人がいること」= toàn bộ làm chủ ngữ → が + 明らかになっている = 'đã được làm rõ'. 💡 双子研究 = nghiên cứu trên cặp sinh đôi (phương pháp kiểm chứng di truyền vs môi trường).",
-        "translation": "Việc ngay cả khi đặt trong cùng môi trường, có người dễ cảm thấy hạnh phúc và có người thì không, đã được làm rõ qua nghiên cứu trên cặp sinh đôi."
+        "translation": "Việc ngay cả khi đặt trong cùng môi trường, có người dễ cảm thấy hạnh phúc và có người thì không, đã được làm rõ qua nghiên cứu trên cặp sinh đôi.",
+        "example_id": 80274003654
       },
       {
         "sentence": "しかし、遺伝だけが幸福を決めるのではなく、日々の行動や思考の習慣によっても大きく変わることを研究は示している。",
         "chunks": "しかし / 遺伝だけが幸福を決めるのではなく / 日々の行動や思考の習慣によっても / 大きく変わること / を / 研究は示している",
         "guide": "⚠️ しかし = nhưng → đảo chiều từ 'di truyền có vai trò' sang 'nhưng không phải tất cả' → 🔒 Đóng gói: 「～のではなく」= 'không phải là, mà là' (phủ định để dẫn vào khẳng định mới) → によっても = 'cũng tùy theo' (も nhấn mạnh thêm nhân tố). 💡 ～を示している: tân ngữ + 示している = chứng minh, chỉ ra (câu kết luận).",
-        "translation": "Tuy nhiên, nghiên cứu cho thấy không chỉ di truyền quyết định hạnh phúc, mà thói quen hành động và suy nghĩ hàng ngày cũng có thể thay đổi hạnh phúc rất nhiều."
+        "translation": "Tuy nhiên, nghiên cứu cho thấy không chỉ di truyền quyết định hạnh phúc, mà thói quen hành động và suy nghĩ hàng ngày cũng có thể thay đổi hạnh phúc rất nhiều.",
+        "example_id": 80274003655
       }
     ],
     "comprehension": [
@@ -1103,25 +1232,30 @@
           {
             "text": "お金や社会的な地位との相関が最も高い。",
             "text_vi": "Tương quan với tiền bạc và địa vị xã hội là cao nhất.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003489
           },
           {
             "text": "身体的な健康との相関が最も高い。",
             "text_vi": "Tương quan với sức khỏe thể chất là cao nhất.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003490
           },
           {
             "text": "人間関係の質との相関が高いことが多くの研究で指摘されている。",
             "text_vi": "Nhiều nghiên cứu chỉ ra rằng tương quan với chất lượng các mối quan hệ con người là cao.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003491
           },
           {
             "text": "遺伝的な要因との関係が強い傾向があると研究で示されている。",
             "text_vi": "Nghiên cứu cho thấy có xu hướng mối liên hệ với yếu tố di truyền là mạnh.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003492
           }
         ],
-        "explanation": "Câu 3 nêu rõ 「人間関係の質と幸福度が高い相関を示すことは、多くの研究が一致して指摘している」→ 多くの研究が一致して = sự đồng thuận của nhiều nghiên cứu là bằng chứng mạnh nhất. ⚠️ Bẫy: câu 11 đề cập sức khỏe tinh thần có tương quan mạnh, nhưng câu 3 là điều được nhiều nghiên cứu đồng thuận nhất."
+        "explanation": "Câu 3 nêu rõ 「人間関係の質と幸福度が高い相関を示すことは、多くの研究が一致して指摘している」→ 多くの研究が一致して = sự đồng thuận của nhiều nghiên cứu là bằng chứng mạnh nhất. ⚠️ Bẫy: câu 11 đề cập sức khỏe tinh thần có tương quan mạnh, nhưng câu 3 là điều được nhiều nghiên cứu đồng thuận nhất.",
+        "question_id": 802720873
       },
       {
         "id": "R_0294_Q2",
@@ -1131,25 +1265,30 @@
           {
             "text": "お金より人間関係の方が入手しやすいから。",
             "text_vi": "Vì các mối quan hệ con người dễ có được hơn tiền bạc.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003493
           },
           {
             "text": "多くの研究が一致して、人間関係の質と幸福度が高い相関を示すと指摘しているから。",
             "text_vi": "Vì nhiều nghiên cứu đồng thuận chỉ ra rằng chất lượng các mối quan hệ con người và mức độ hạnh phúc có tương quan cao.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003494
           },
           {
             "text": "集団主義の社会では人間関係が唯一の幸福の源だから。",
             "text_vi": "Vì trong xã hội tập thể, các mối quan hệ con người là nguồn hạnh phúc duy nhất.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003495
           },
           {
             "text": "遺伝的な要因よりも人間関係の影響が強いと証明されたから。",
             "text_vi": "Vì đã được chứng minh rằng ảnh hưởng của các mối quan hệ mạnh hơn yếu tố di truyền.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003496
           }
         ],
-        "explanation": "Câu 3 nêu rõ 「人間関係の質と幸福度が高い相関を示すことは、多くの研究が一致して指摘している」→ なぜ = vì sao? → vì có sự đồng thuận khoa học mạnh: 多くの研究が一致して = nhiều nghiên cứu cùng nhất trí. ⚠️ Bẫy: đáp án C dùng từ 「唯一」(duy nhất) — cực đoan, bài không có nội dung đó."
+        "explanation": "Câu 3 nêu rõ 「人間関係の質と幸福度が高い相関を示すことは、多くの研究が一致して指摘している」→ なぜ = vì sao? → vì có sự đồng thuận khoa học mạnh: 多くの研究が一致して = nhiều nghiên cứu cùng nhất trí. ⚠️ Bẫy: đáp án C dùng từ 「唯一」(duy nhất) — cực đoan, bài không có nội dung đó.",
+        "question_id": 802720874
       },
       {
         "id": "R_0294_Q3",
@@ -1159,25 +1298,30 @@
           {
             "text": "どちらの社会でも、お金と健康が幸福感に最も強く影響する。",
             "text_vi": "Ở cả hai loại xã hội, tiền bạc và sức khỏe ảnh hưởng mạnh nhất đến cảm giác hạnh phúc.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003497
           },
           {
             "text": "集団主義的な社会では他者との調和が、個人主義的な社会では個人的な達成感がより重視される。",
             "text_vi": "Ở xã hội tập thể, sự hòa hợp với người khác được coi trọng; ở xã hội cá nhân, cảm giác thành tựu cá nhân được coi trọng hơn.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003498
           },
           {
             "text": "集団主義的な社会の方が、個人主義的な社会より幸福度が高い。",
             "text_vi": "Xã hội tập thể có mức độ hạnh phúc cao hơn xã hội cá nhân.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003499
           },
           {
             "text": "個人主義的な社会では、幸福感は遺伝にのみ左右される。",
             "text_vi": "Ở xã hội cá nhân, cảm giác hạnh phúc chỉ bị chi phối bởi di truyền.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003500
           }
         ],
-        "explanation": "Câu 8 giải thích rõ bằng 例えば: 「集団主義的な社会では他者との調和が幸福感に強く影響するのに対し、個人主義的な社会では個人的な達成感がより重視される」→ のに対し = cấu trúc đối lập 2 tình huống rõ ràng."
+        "explanation": "Câu 8 giải thích rõ bằng 例えば: 「集団主義的な社会では他者との調和が幸福感に強く影響するのに対し、個人主義的な社会では個人的な達成感がより重視される」→ のに対し = cấu trúc đối lập 2 tình huống rõ ràng.",
+        "question_id": 802720875
       },
       {
         "id": "R_0294_Q4",
@@ -1187,27 +1331,34 @@
           {
             "text": "幸福感は主に遺伝で決まり、日々の習慣の影響は比較的小さい。",
             "text_vi": "Cảm giác hạnh phúc chủ yếu được quyết định bởi di truyền, và ảnh hưởng của thói quen hàng ngày tương đối nhỏ.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003501
           },
           {
             "text": "遺伝と幸福は全く相関しないことが双子研究で明らかになった。",
             "text_vi": "Nghiên cứu trên cặp sinh đôi đã làm rõ rằng di truyền và hạnh phúc hoàn toàn không tương quan.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003502
           },
           {
             "text": "幸福感は遺伝とも相関するが、日々の行動や思考の習慣によっても大きく変わる。",
             "text_vi": "Cảm giác hạnh phúc tương quan với di truyền, nhưng cũng thay đổi rất nhiều tùy theo thói quen hành động và suy nghĩ hàng ngày.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003503
           },
           {
             "text": "遺伝よりも経済的な状況の方が幸福感に大きな影響を与える。",
             "text_vi": "Tình trạng kinh tế ảnh hưởng đến cảm giác hạnh phúc nhiều hơn di truyền.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003504
           }
         ],
-        "explanation": "Câu 13 xác nhận 「幸福感は遺伝的な要因とも相関する」và câu 14 chứng minh bằng nghiên cứu sinh đôi. Tuy nhiên, câu 15 (câu cuối) đảo chiều bằng しかし: 「遺伝だけが幸福を決めるのではなく、日々の行動や思考の習慣によっても大きく変わる」→ ～のではなく = không chỉ di truyền, thói quen hàng ngày cũng có thể thay đổi."
+        "explanation": "Câu 13 xác nhận 「幸福感は遺伝的な要因とも相関する」và câu 14 chứng minh bằng nghiên cứu sinh đôi. Tuy nhiên, câu 15 (câu cuối) đảo chiều bằng しかし: 「遺伝だけが幸福を決めるのではなく、日々の行動や思考の習慣によっても大きく変わる」→ ～のではなく = không chỉ di truyền, thói quen hàng ngày cũng có thể thay đổi.",
+        "question_id": 802720876
       }
-    ]
+    ],
+    "reading_passage_id": 802700294,
+    "question_set_id": 802710294
   },
   {
     "id": "R_0295",
@@ -1308,97 +1459,113 @@
         "sentence": "両親が田舎に住んでいるため、私はいつも遠くから二人の健康を見守っている。",
         "chunks": "両親が田舎に住んでいるため / 私はいつも / 遠くから二人の健康を見守っている",
         "guide": "🔒 Đóng gói: [両親が田舎に住んでいるため] = 'vì bố mẹ sống ở quê' → ため = nguyên nhân/lý do (trang trọng) → 遠くから → 💡 から chỉ xuất phát điểm: từ xa → を見守る = theo dõi, trông chừng X (với tình cảm quan tâm)",
-        "translation": "Vì bố mẹ sống ở quê, tôi luôn theo dõi sức khỏe của hai người từ xa."
+        "translation": "Vì bố mẹ sống ở quê, tôi luôn theo dõi sức khỏe của hai người từ xa.",
+        "example_id": 80274003656
       },
       {
         "sentence": "年を取るにつれて体の不調が増えてきた両親のことが、毎日気になって仕方がない。",
         "chunks": "年を取るにつれて体の不調が増えてきた両親のことが / 毎日気になって仕方がない",
         "guide": "🔒 Đóng gói: [年を取るにつれて体の不調が増えてきた両親のこと] = 'chuyện bố mẹ ngày càng có nhiều vấn đề sức khỏe khi tuổi tác tăng' → につれて → 💡 につれて = cùng với, theo mức độ X tăng lên → ⚠️ 気になって仕方がない = lo không thôi, không sao không lo được (仕方がない = không cách nào khác)",
-        "translation": "Tôi lo lắng không thôi mỗi ngày về bố mẹ, những người ngày càng có nhiều vấn đề sức khỏe hơn khi tuổi tác tăng lên."
+        "translation": "Tôi lo lắng không thôi mỗi ngày về bố mẹ, những người ngày càng có nhiều vấn đề sức khỏe hơn khi tuổi tác tăng lên.",
+        "example_id": 80274003657
       },
       {
         "sentence": "最近では、スマートフォンのアプリを活用して、父の血圧や母の歩数をリアルタイムで確認できるようになった。",
         "chunks": "最近では / スマートフォンのアプリを活用して / 父の血圧や母の歩数を / リアルタイムで確認できるようになった",
         "guide": "を活用して → 💡 を活用する = tận dụng X (hiệu quả) → や liệt kê không đầy đủ: 血圧 ya 歩数... → 🔒 Đóng gói: [父の血圧や母の歩数] = 'huyết áp của bố và số bước chân của mẹ' → ⚠️ ようになった = trở nên có thể (biến đổi trạng thái, trước không thể nay có thể)",
-        "translation": "Gần đây, nhờ tận dụng ứng dụng trên điện thoại thông minh, tôi có thể kiểm tra huyết áp của bố và số bước chân của mẹ theo thời gian thực."
+        "translation": "Gần đây, nhờ tận dụng ứng dụng trên điện thoại thông minh, tôi có thể kiểm tra huyết áp của bố và số bước chân của mẹ theo thời gian thực.",
+        "example_id": 80274003658
       },
       {
         "sentence": "玄関に取り付けたカメラを活用することで、両親が無事に出かけたり帰ってきたりする様子を確認することができる。",
         "chunks": "玄関に取り付けたカメラを活用することで / 両親が無事に出かけたり帰ってきたりする様子を / 確認することができる",
         "guide": "🔒 Đóng gói: [玄関に取り付けたカメラ] = 'camera gắn ở cửa ra vào' → を活用することで → 💡 ことで = bằng cách làm X → たり～たりする → ⚠️ たり～たりする = liệt kê hành động không đầy đủ (ra ngoài này, về nhà nọ...)",
-        "translation": "Bằng cách tận dụng camera gắn ở cửa ra vào, tôi có thể xem bố mẹ ra ngoài và trở về nhà an toàn."
+        "translation": "Bằng cách tận dụng camera gắn ở cửa ra vào, tôi có thể xem bố mẹ ra ngoài và trở về nhà an toàn.",
+        "example_id": 80274003659
       },
       {
         "sentence": "最初は両親がカメラを嫌がっていたが、慣れてからは安心感があると言うようになった。",
         "chunks": "最初は両親がカメラを嫌がっていたが / 慣れてからは / 安心感があると言うようになった",
         "guide": "⚠️ が tương phản: ban đầu không thích NHƯNG... → 慣れてからは → 💡 てから = sau khi làm xong → 🔒 Đóng gói: [安心感があると言うようになった] = 'trở nên nói rằng cảm thấy yên tâm' → ようになった = thay đổi trạng thái (trước không nói, nay nói)",
-        "translation": "Ban đầu bố mẹ không thích camera, nhưng sau khi quen rồi thì nói rằng cảm thấy yên tâm hơn."
+        "translation": "Ban đầu bố mẹ không thích camera, nhưng sau khi quen rồi thì nói rằng cảm thấy yên tâm hơn.",
+        "example_id": 80274003660
       },
       {
         "sentence": "毎週日曜日には必ずビデオ通話で繋がり、顔を見ながら近況を話し合う時間を大切にしている。",
         "chunks": "毎週日曜日には必ずビデオ通話で繋がり / 顔を見ながら近況を話し合う時間を / 大切にしている",
         "guide": "で繋がり → 💡 で chỉ phương tiện: kết nối bằng video call → ながら = vừa...vừa... (đồng thời) → 🔒 Đóng gói: [顔を見ながら近況を話し合う時間] = 'khoảng thời gian vừa nhìn mặt nhau vừa nói chuyện về tình hình gần đây' → を大切にしている = trân trọng X (thói quen)",
-        "translation": "Mỗi Chủ nhật tôi nhất định kết nối qua video call, trân trọng khoảng thời gian vừa nhìn mặt nhau vừa nói chuyện về tình hình gần đây."
+        "translation": "Mỗi Chủ nhật tôi nhất định kết nối qua video call, trân trọng khoảng thời gian vừa nhìn mặt nhau vừa nói chuyện về tình hình gần đây.",
+        "example_id": 80274003661
       },
       {
         "sentence": "画面越しでも表情や声のトーンから体調の変化に気づくことができるため、安心感が高まった。",
         "chunks": "画面越しでも / 表情や声のトーンから / 体調の変化に気づくことができるため / 安心感が高まった",
         "guide": "画面越しでも → 💡 越し = qua, xuyên qua (barrier) → でも = ngay cả khi... → から → ⚠️ から chỉ nguồn: từ nét mặt và giọng → 🔒 Đóng gói: [体調の変化に気づくこと] = 'việc nhận ra sự thay đổi sức khỏe' → ため = nguyên nhân → 高まった = tăng lên, cao lên",
-        "translation": "Dù qua màn hình, tôi vẫn có thể nhận ra sự thay đổi sức khỏe qua nét mặt và giọng nói, nên cảm giác yên tâm tăng lên."
+        "translation": "Dù qua màn hình, tôi vẫn có thể nhận ra sự thay đổi sức khỏe qua nét mặt và giọng nói, nên cảm giác yên tâm tăng lên.",
+        "example_id": 80274003662
       },
       {
         "sentence": "離れて暮らしていても、技術を活用することで心理的な距離は縮まると実感している。",
         "chunks": "離れて暮らしていても / 技術を活用することで / 心理的な距離は縮まると実感している",
         "guide": "ていても → 💡 ていても = dù đang... (nhượng bộ, đối lập) → を活用することで = bằng cách tận dụng công nghệ → 🔒 Đóng gói: [心理的な距離は縮まる] = 'khoảng cách tâm lý được rút ngắn' → と実感している = thực sự cảm nhận rằng (と trích dẫn nội dung cảm nhận)",
-        "translation": "Dù sống cách xa, tôi thực sự cảm nhận được rằng tận dụng công nghệ có thể rút ngắn khoảng cách tâm lý."
+        "translation": "Dù sống cách xa, tôi thực sự cảm nhận được rằng tận dụng công nghệ có thể rút ngắn khoảng cách tâm lý.",
+        "example_id": 80274003663
       },
       {
         "sentence": "しかし、どれだけ便利な道具があっても、直接会って手を握ることには及ばないとも感じる。",
         "chunks": "しかし / どれだけ便利な道具があっても / 直接会って手を握ることには及ばない / とも感じる",
         "guide": "しかし → chuyển ý tương phản → どれだけ～ても → 💡 どれだけ～ても = dù...đến mức nào đi nữa → 🔒 Đóng gói: [直接会って手を握ること] = 'việc gặp trực tiếp và nắm tay nhau' → ⚠️ には及ばない = không bằng, không sánh được với X → phân tích: に là object marker chỉ đích so sánh (điều được so sánh tới), は là trợ từ nhấn mạnh chủ đề; 及ばない = không đạt đến, không bằng được",
-        "translation": "Tuy nhiên, dù có công cụ tiện lợi đến đâu, tôi cũng cảm thấy không gì bằng được gặp trực tiếp và nắm tay nhau."
+        "translation": "Tuy nhiên, dù có công cụ tiện lợi đến đâu, tôi cũng cảm thấy không gì bằng được gặp trực tiếp và nắm tay nhau.",
+        "example_id": 80274003664
       },
       {
         "sentence": "帰省するたびに両親の老いを実感し、もっと側にいてあげたいという気持ちが強くなる。",
         "chunks": "帰省するたびに / 両親の老いを実感し / もっと側にいてあげたいという気持ちが強くなる",
         "guide": "たびに → 💡 たびに = mỗi khi, mỗi lần (lặp lại) → 両親の老いを実感し → ⚠️ 老い = sự già đi (danh từ từ động từ 老いる) → 🔒 Đóng gói: [もっと側にいてあげたいという気持ち] = 'cảm giác muốn ở bên cạnh họ hơn nữa' → という nối mệnh đề với danh từ",
-        "translation": "Mỗi lần về thăm nhà, tôi lại cảm nhận rõ sự già đi của bố mẹ và càng muốn ở bên cạnh họ hơn."
+        "translation": "Mỗi lần về thăm nhà, tôi lại cảm nhận rõ sự già đi của bố mẹ và càng muốn ở bên cạnh họ hơn.",
+        "example_id": 80274003665
       },
       {
         "sentence": "それでも仕事や生活の事情でなかなか帰れない日々が続く中、テクノロジーだけが自分を両親と繋げてくれている。",
         "chunks": "それでも仕事や生活の事情でなかなか帰れない日々が続く中 / テクノロジーだけが / 自分を両親と繋げてくれている",
         "guide": "それでも = dù vậy, tuy nhiên → 🔒 Đóng gói: [仕事や生活の事情でなかなか帰れない日々が続く中] = 'trong lúc những ngày không thể về vì công việc và hoàn cảnh sống cứ tiếp diễn' → ⚠️ だけが = chỉ có...mới (だけ nhấn mạnh duy nhất) → 自分を両親と繋げてくれている → 💡 を～と繋げる = kết nối X với Y",
-        "translation": "Dù vậy, những ngày không thể về vì công việc và hoàn cảnh sống cứ tiếp diễn, chỉ có công nghệ mới kết nối tôi với bố mẹ."
+        "translation": "Dù vậy, những ngày không thể về vì công việc và hoàn cảnh sống cứ tiếp diễn, chỉ có công nghệ mới kết nối tôi với bố mẹ.",
+        "example_id": 80274003666
       },
       {
         "sentence": "緊急時に備えて、近所の方にも両親の様子を気にかけてもらえるようお願いしてある。",
         "chunks": "緊急時に備えて / 近所の方にも両親の様子を / 気にかけてもらえるようお願いしてある",
         "guide": "緊急時に備えて → 💡 に備えて = để phòng trường hợp X, chuẩn bị cho X → 近所の方にも → も nhấn mạnh: cả người hàng xóm nữa → 🔒 Đóng gói: [気にかけてもらえるようお願いしてある] = 'đã nhờ (họ) giúp quan tâm' → ⚠️ てある = trạng thái kết quả của hành động đã thực hiện trước đó (cố ý)",
-        "translation": "Để phòng trường hợp khẩn cấp, tôi đã nhờ hàng xóm quan tâm đến tình hình của bố mẹ."
+        "translation": "Để phòng trường hợp khẩn cấp, tôi đã nhờ hàng xóm quan tâm đến tình hình của bố mẹ.",
+        "example_id": 80274003667
       },
       {
         "sentence": "日本では介護保険制度や郵便局のみまもりサービスなど、家族を支える仕組みも整っている。",
         "chunks": "日本では / 介護保険制度や郵便局のみまもりサービスなど / 家族を支える仕組みも / 整っている",
         "guide": "では → phạm vi cụ thể: ở Nhật → 🔒 Đóng gói: [介護保険制度] = 'chế độ bảo hiểm chăm sóc' (介護 = chăm sóc người cao tuổi, 保険 = bảo hiểm) → 💡 郵便局のみまもりサービス = dịch vụ theo dõi người cao tuổi của bưu điện Nhật (nhân viên bưu điện ghé thăm định kỳ) → など liệt kê không đầy đủ → ⚠️ 整っている = đã được xây dựng/chuẩn bị xong (trạng thái hoàn chỉnh)",
-        "translation": "Ở Nhật Bản, các cơ chế hỗ trợ gia đình như chế độ bảo hiểm chăm sóc và dịch vụ theo dõi của bưu điện cũng đã được xây dựng sẵn."
+        "translation": "Ở Nhật Bản, các cơ chế hỗ trợ gia đình như chế độ bảo hiểm chăm sóc và dịch vụ theo dõi của bưu điện cũng đã được xây dựng sẵn.",
+        "example_id": 80274003668
       },
       {
         "sentence": "地域のつながりと最新技術を組み合わせることで、より安全な見守り体制が作れると思っている。",
         "chunks": "地域のつながりと最新技術を組み合わせることで / より安全な見守り体制が / 作れると思っている",
         "guide": "🔒 Đóng gói: [地域のつながりと最新技術を組み合わせること] = 'việc kết hợp mối liên kết trong cộng đồng và công nghệ hiện đại' → ことで = bằng cách làm X → ⚠️ より = hơn nữa, càng... (so sánh hơn không tường minh) → と思っている = đang nghĩ rằng (quan điểm hiện tại, tiếp diễn)",
-        "translation": "Tôi nghĩ rằng bằng cách kết hợp mối liên kết trong cộng đồng và công nghệ hiện đại, có thể tạo ra hệ thống chăm sóc theo dõi an toàn hơn."
+        "translation": "Tôi nghĩ rằng bằng cách kết hợp mối liên kết trong cộng đồng và công nghệ hiện đại, có thể tạo ra hệ thống chăm sóc theo dõi an toàn hơn.",
+        "example_id": 80274003669
       },
       {
         "sentence": "遠くにいても、できることを一つひとつ積み重ねていくことが大切だ。",
         "chunks": "遠くにいても / できることを一つひとつ / 積み重ねていくことが大切だ",
         "guide": "いても → 💡 ても = dù...đi nữa (nhượng bộ) → 🔒 Đóng gói: [できること] = 'những gì mình có thể làm' (こと danh hóa) → 一つひとつ = từng cái một, lần lượt → 積み重ねていく → 💡 ていく = tiếp tục làm và tiến về phía trước → ことが大切だ = điều quan trọng là...",
-        "translation": "Dù ở xa, điều quan trọng là tích lũy từng việc nhỏ mà mình có thể làm."
+        "translation": "Dù ở xa, điều quan trọng là tích lũy từng việc nhỏ mà mình có thể làm.",
+        "example_id": 80274003670
       },
       {
         "sentence": "離れていても家族の絆は変わらないと信じながら、今日も画面の向こうの笑顔を見守っている。",
         "chunks": "離れていても家族の絆は変わらないと信じながら / 今日も画面の向こうの笑顔を / 見守っている",
         "guide": "ていても → dù cách xa đi nữa → 🔒 Đóng gói: [家族の絆は変わらないと信じながら] = 'vừa tin rằng sợi dây gắn kết gia đình không thay đổi' → と信じる → と trích dẫn nội dung niềm tin → ながら = vừa làm X vừa làm Y → ⚠️ 画面の向こう = phía bên kia màn hình (向こう = phía bên kia, xa hơn) → を見守っている = đang theo dõi",
-        "translation": "Tin rằng dù cách xa thì sợi dây gắn kết gia đình vẫn không thay đổi, hôm nay tôi cũng đang dõi nhìn nụ cười phía bên kia màn hình."
+        "translation": "Tin rằng dù cách xa thì sợi dây gắn kết gia đình vẫn không thay đổi, hôm nay tôi cũng đang dõi nhìn nụ cười phía bên kia màn hình.",
+        "example_id": 80274003671
       }
     ],
     "comprehension": [
@@ -1410,25 +1577,30 @@
           {
             "text": "スマートフォンのアプリとカメラ",
             "text_vi": "Ứng dụng điện thoại thông minh và camera",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003505
           },
           {
             "text": "週に一度の直接訪問",
             "text_vi": "Thăm trực tiếp mỗi tuần một lần",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003506
           },
           {
             "text": "病院の定期健診レポート",
             "text_vi": "Báo cáo khám sức khỏe định kỳ từ bệnh viện",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003507
           },
           {
             "text": "近所の人からの電話連絡",
             "text_vi": "Liên lạc qua điện thoại từ người hàng xóm",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003508
           }
         ],
-        "explanation": "Bài có \"đã có thể kiểm tra huyết áp của bố và số bước chân của mẹ theo thời gian thực qua ứng dụng smartphone\" và \"qua việc sử dụng camera lắp ở cửa ra vào... có thể kiểm tra\". Vì dùng cả app và camera nên đáp án ① đúng."
+        "explanation": "Bài có \"đã có thể kiểm tra huyết áp của bố và số bước chân của mẹ theo thời gian thực qua ứng dụng smartphone\" và \"qua việc sử dụng camera lắp ở cửa ra vào... có thể kiểm tra\". Vì dùng cả app và camera nên đáp án ① đúng.",
+        "question_id": 802720877
       },
       {
         "id": "R_0295_Q2",
@@ -1438,25 +1610,30 @@
           {
             "text": "カメラに賛成し、すぐ使い始めた",
             "text_vi": "Đồng ý với camera và bắt đầu sử dụng ngay",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003509
           },
           {
             "text": "カメラを嫌がっていた",
             "text_vi": "Không thích camera",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003510
           },
           {
             "text": "カメラの存在を知らなかった",
             "text_vi": "Không biết về sự tồn tại của camera",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003511
           },
           {
             "text": "カメラを自分で設置したかった",
             "text_vi": "Muốn tự mình lắp đặt camera",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003512
           }
         ],
-        "explanation": "Bài có \"lúc đầu bố mẹ không thích camera, nhưng sau khi quen đã nói thấy yên tâm\". Lúc đầu không thích, sau khi quen đã chấp nhận, nên đáp án ② đúng."
+        "explanation": "Bài có \"lúc đầu bố mẹ không thích camera, nhưng sau khi quen đã nói thấy yên tâm\". Lúc đầu không thích, sau khi quen đã chấp nhận, nên đáp án ② đúng.",
+        "question_id": 802720878
       },
       {
         "id": "R_0295_Q3",
@@ -1466,25 +1643,30 @@
           {
             "text": "テクノロジーがあれば離れていても直接会うのと同じくらい安心できる。",
             "text_vi": "Nếu có công nghệ thì dù ở xa cũng có thể yên tâm như gặp trực tiếp.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003513
           },
           {
             "text": "テクノロジーは心理的距離を縮めてくれるが、直接のつながりに完全に取って代わることはできない。",
             "text_vi": "Công nghệ giúp rút ngắn khoảng cách tâm lý nhưng không thể hoàn toàn thay thế kết nối trực tiếp.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003514
           },
           {
             "text": "テクノロジーよりも近所の人への依頼の方が効果的だ。",
             "text_vi": "Nhờ hàng xóm giúp hiệu quả hơn là dùng công nghệ.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003515
           },
           {
             "text": "テクノロジーは高齢者には使いにくいため、別の方法を考えるべきだ。",
             "text_vi": "Vì công nghệ khó dùng với người cao tuổi, nên cần nghĩ đến phương pháp khác.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003516
           }
         ],
-        "explanation": "Câu 8 nêu 「技術を活用することで心理的な距離は縮まると実感している」→ công nghệ có ích. Nhưng câu 9 đảo chiều: 「直接会って手を握ることには及ばない」→ không thể thay thế hoàn toàn. Kết hợp hai ý suy ra: tác giả đánh giá công nghệ là hỗ trợ hữu ích nhưng có giới hạn — đáp án B."
+        "explanation": "Câu 8 nêu 「技術を活用することで心理的な距離は縮まると実感している」→ công nghệ có ích. Nhưng câu 9 đảo chiều: 「直接会って手を握ることには及ばない」→ không thể thay thế hoàn toàn. Kết hợp hai ý suy ra: tác giả đánh giá công nghệ là hỗ trợ hữu ích nhưng có giới hạn — đáp án B.",
+        "question_id": 802720879
       },
       {
         "id": "R_0295_Q4",
@@ -1494,27 +1676,34 @@
           {
             "text": "両親の近くに引っ越す計画を立てた",
             "text_vi": "Lập kế hoạch chuyển đến gần bố mẹ",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003517
           },
           {
             "text": "専門の介護サービスを契約した",
             "text_vi": "Ký hợp đồng dịch vụ chăm sóc chuyên nghiệp",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003518
           },
           {
             "text": "近所の方に両親の様子を気にかけてもらうよう頼んだ",
             "text_vi": "Nhờ hàng xóm quan tâm đến tình hình của bố mẹ",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003519
           },
           {
             "text": "両親に緊急連絡アプリをインストールした",
             "text_vi": "Cài đặt ứng dụng liên lạc khẩn cấp cho bố mẹ",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003520
           }
         ],
-        "explanation": "Bài có \"để chuẩn bị cho tình huống khẩn cấp, đã nhờ hàng xóm để mắt giúp đến tình hình bố mẹ\". Việc tận dụng kết nối cộng đồng — đáp án ③ — là đúng."
+        "explanation": "Bài có \"để chuẩn bị cho tình huống khẩn cấp, đã nhờ hàng xóm để mắt giúp đến tình hình bố mẹ\". Việc tận dụng kết nối cộng đồng — đáp án ③ — là đúng.",
+        "question_id": 802720880
       }
-    ]
+    ],
+    "reading_passage_id": 802700295,
+    "question_set_id": 802710295
   },
   {
     "id": "R_0296",
@@ -1609,97 +1798,113 @@
         "sentence": "私が入社してから十年以上が経つが、この会社の文化は少しも変わっていないように感じる。",
         "chunks": "私が入社してから十年以上が経つが / この会社の文化は / 少しも変わっていないように感じる",
         "guide": "🔒 Đóng gói: [私が入社してから十年以上が経つ] = 'đã hơn mười năm kể từ khi tôi vào công ty' → が tương phản → ⚠️ 少しも～ない = chẳng...chút nào (phủ định tuyệt đối) → ように感じる → 💡 ように = cảm thấy như là, dường như (chủ quan)",
-        "translation": "Đã hơn mười năm kể từ khi tôi vào công ty, nhưng tôi cảm thấy văn hóa của công ty này chẳng thay đổi chút nào."
+        "translation": "Đã hơn mười năm kể từ khi tôi vào công ty, nhưng tôi cảm thấy văn hóa của công ty này chẳng thay đổi chút nào.",
+        "example_id": 80274003672
       },
       {
         "sentence": "創業者の理念が社内のあらゆるところに根付いており、それが今も組織全体の行動指針となっている。",
         "chunks": "創業者の理念が社内のあらゆるところに根付いており / それが今も / 組織全体の行動指針となっている",
         "guide": "🔒 Đóng gói: [創業者の理念] = 'triết lý của người sáng lập' → あらゆるところに = khắp nơi, mọi chỗ → ⚠️ が根付く = ăn sâu, bén rễ (chủ ngữ + が) → ており = đang ở trạng thái... (kết nối câu, trang trọng) → 💡 となっている = đang trở thành, đang đóng vai trò là",
-        "translation": "Triết lý của người sáng lập đã ăn sâu vào khắp nơi trong nội bộ công ty, và đó vẫn đang là phương châm hành động của cả tổ chức cho đến nay."
+        "translation": "Triết lý của người sáng lập đã ăn sâu vào khắp nơi trong nội bộ công ty, và đó vẫn đang là phương châm hành động của cả tổ chức cho đến nay.",
+        "example_id": 80274003673
       },
       {
         "sentence": "毎朝のミーティングで全員が目標を確認する習慣も、創業時から続いてきた文化の一つだ。",
         "chunks": "毎朝のミーティングで全員が目標を確認する習慣も / 創業時から続いてきた / 文化の一つだ",
         "guide": "🔒 Đóng gói: [毎朝のミーティングで全員が目標を確認する習慣] = 'thói quen mỗi sáng cả công ty cùng xác nhận mục tiêu' → も nhấn mạnh: cả điều đó nữa → 創業時から → 💡 から chỉ điểm xuất phát thời gian: từ lúc thành lập → 続いてきた = đã được duy trì (từ quá khứ đến hiện tại, きた biểu thị tiến trình về phía người nói)",
-        "translation": "Thói quen mỗi sáng cả công ty cùng xác nhận mục tiêu cũng là một trong những văn hóa được duy trì từ ngày thành lập."
+        "translation": "Thói quen mỗi sáng cả công ty cùng xác nhận mục tiêu cũng là một trong những văn hóa được duy trì từ ngày thành lập.",
+        "example_id": 80274003674
       },
       {
         "sentence": "こうした日々の慣習が積み重なることで、組織としての一体感が形成されていく。",
         "chunks": "こうした日々の慣習が積み重なることで / 組織としての一体感が / 形成されていく",
         "guide": "こうした → 'những (điều) như vậy' → 🔒 Đóng gói: [こうした日々の慣習が積み重なること] = 'việc những thói quen hàng ngày như vậy được tích lũy' → ことで = bằng cách / do việc X → として → 💡 として = với tư cách là, trong vai trò là → ⚠️ 形成されていく = được hình thành dần dần (受身 + いく = tiến trình)",
-        "translation": "Chính sự tích lũy của những thói quen hàng ngày như vậy đã hình thành nên sự đoàn kết như một tổ chức."
+        "translation": "Chính sự tích lũy của những thói quen hàng ngày như vậy đã hình thành nên sự đoàn kết như một tổ chức.",
+        "example_id": 80274003675
       },
       {
         "sentence": "文化は目に見えないものだが、働いている人々の行動や言葉の端々ににじみ出てくる。",
         "chunks": "文化は目に見えないものだが / 働いている人々の行動や言葉の端々に / にじみ出てくる",
         "guide": "🔒 Đóng gói: [目に見えないもの] = 'thứ không thể nhìn thấy bằng mắt' → が tương phản → 💡 端々 = từng góc khuất, từng chi tiết → に → chỉ nơi chốn xuất hiện → ⚠️ にじみ出てくる = lộ ra, hiện ra rõ rệt qua (にじむ = thấm, hiện ra nhẹ → 出てくる = xuất hiện ra ngoài; ở đây mang nghĩa tích cực: văn hóa được thể hiện rõ ra)",
-        "translation": "Văn hóa là thứ vô hình, nhưng nó lộ ra, hiện ra rõ rệt qua từng hành động và lời nói của những người đang làm việc."
+        "translation": "Văn hóa là thứ vô hình, nhưng nó lộ ra, hiện ra rõ rệt qua từng hành động và lời nói của những người đang làm việc.",
+        "example_id": 80274003676
       },
       {
         "sentence": "新入社員が入ってきたとき、先輩社員の振る舞いを見て自然とその文化を学んでいく様子が興味深い。",
         "chunks": "新入社員が入ってきたとき / 先輩社員の振る舞いを見て / 自然とその文化を学んでいく様子が興味深い",
         "guide": "🔒 Đóng gói: [新入社員が入ってきたとき] = 'khi nhân viên mới vào' → を見て → て = nguyên nhân/cách thức → 自然と = một cách tự nhiên, không cố ý → 学んでいく → 💡 ていく = học hỏi dần và tiến về phía trước → 様子が興味深い = cảnh đó thật thú vị",
-        "translation": "Thật thú vị khi nhìn cảnh nhân viên mới vào công ty tự nhiên học hỏi văn hóa đó qua việc quan sát cách ứng xử của các tiền bối."
+        "translation": "Thật thú vị khi nhìn cảnh nhân viên mới vào công ty tự nhiên học hỏi văn hóa đó qua việc quan sát cách ứng xử của các tiền bối.",
+        "example_id": 80274003677
       },
       {
         "sentence": "上層部から現場の社員まで、全員がこの文化の形成に関わっているという意識が浸透している。",
         "chunks": "上層部から現場の社員まで / 全員がこの文化の形成に関わっているという意識が / 浸透している",
         "guide": "から～まで → 💡 から～まで = từ X đến Y (phạm vi toàn bộ) → 🔒 Đóng gói: [この文化の形成に関わっているという意識] = 'ý thức rằng mình có liên quan đến việc hình thành văn hóa này' → ⚠️ に関わる = liên quan đến X (に chỉ đối tượng liên quan) → 浸透している = đang thấm nhuần, lan rộng",
-        "translation": "Ý thức rằng tất cả mọi người từ cấp trên cho đến nhân viên hiện trường đều có liên quan đến việc hình thành văn hóa này đã thấm nhuần rộng rãi."
+        "translation": "Ý thức rằng tất cả mọi người từ cấp trên cho đến nhân viên hiện trường đều có liên quan đến việc hình thành văn hóa này đã thấm nhuần rộng rãi.",
+        "example_id": 80274003678
       },
       {
         "sentence": "誰か一人が文化を作るのではなく、組織に関わるすべての人が少しずつ積み上げていくものだと思う。",
         "chunks": "誰か一人が文化を作るのではなく / 組織に関わるすべての人が / 少しずつ積み上げていくものだと思う",
         "guide": "のではなく → 💡 のではなく = không phải là... (phủ định, rồi đưa ra điều đúng hơn) → 🔒 Đóng gói: [組織に関わるすべての人] = 'tất cả những người liên quan đến tổ chức' → ⚠️ に関わる = có liên quan đến X → ものだ = đó là điều (bản chất), thể hiện niềm tin/nguyên tắc",
-        "translation": "Tôi nghĩ không phải một người nào đó tạo ra văn hóa, mà là tất cả những người liên quan đến tổ chức cùng nhau xây dựng từng chút một."
+        "translation": "Tôi nghĩ không phải một người nào đó tạo ra văn hóa, mà là tất cả những người liên quan đến tổ chức cùng nhau xây dựng từng chút một.",
+        "example_id": 80274003679
       },
       {
         "sentence": "一方で、時代の変化に対応するために文化をアップデートすることも必要だという声も上がっている。",
         "chunks": "一方で / 時代の変化に対応するために / 文化をアップデートすることも必要だという声も上がっている",
         "guide": "一方で = mặt khác (đưa ra quan điểm đối lập) → ために → 💡 ために = để (mục đích, với động từ thể từ điển) → 🔒 Đóng gói: [文化をアップデートすることも必要だという声] = 'ý kiến rằng cũng cần phải cập nhật văn hóa' → という + 名詞 nối nội dung → ⚠️ も...も = cả...cũng (ở đây: không chỉ việc giữ gìn mà cũng cần...) → 声が上がる = có ý kiến nổi lên",
-        "translation": "Mặt khác, cũng có ý kiến rằng cần phải cập nhật văn hóa để thích ứng với sự thay đổi của thời đại."
+        "translation": "Mặt khác, cũng có ý kiến rằng cần phải cập nhật văn hóa để thích ứng với sự thay đổi của thời đại.",
+        "example_id": 80274003680
       },
       {
         "sentence": "近年は働き方改革やテレワークの普及、男性育休の浸透など、会社文化も大きく変化している。",
         "chunks": "近年は / 働き方改革やテレワークの普及 / 男性育休の浸透など / 会社文化も大きく変化している",
         "guide": "近年は → 'những năm gần đây' → 🔒 Đóng gói: [働き方改革] = 'cải cách cách làm việc' (chính sách Nhật từ 2018) → や liệt kê không đầy đủ → 💡 テレワーク = làm việc từ xa (remote work) → 💡 男性育休の浸透 = sự thấm nhuần nghỉ phép nuôi con cho nam giới → など bổ sung → ⚠️ も大きく変化している = cũng đang thay đổi lớn (も nhấn mạnh: ngay cả văn hóa công ty cũng vậy)",
-        "translation": "Những năm gần đây, văn hóa công ty cũng đang thay đổi lớn với cải cách cách làm việc, sự phổ biến của làm việc từ xa và sự thấm nhuần của chính sách nghỉ phép nuôi con cho nam giới."
+        "translation": "Những năm gần đây, văn hóa công ty cũng đang thay đổi lớn với cải cách cách làm việc, sự phổ biến của làm việc từ xa và sự thấm nhuần của chính sách nghỉ phép nuôi con cho nam giới.",
+        "example_id": 80274003681
       },
       {
         "sentence": "長年にわたって大切にされてきた価値観を守りながら、新しい発想を取り入れるバランスが求められる。",
         "chunks": "長年にわたって大切にされてきた価値観を守りながら / 新しい発想を取り入れる / バランスが求められる",
         "guide": "長年にわたって → 💡 にわたって = trải dài suốt, qua nhiều (thời gian/phạm vi) → 🔒 Đóng gói: [長年にわたって大切にされてきた価値観] = 'những giá trị đã được trân trọng suốt nhiều năm' → ながら = vừa giữ gìn vừa... → ⚠️ バランスが求められる = sự cân bằng được đòi hỏi (受身 thể hiện yêu cầu xã hội)",
-        "translation": "Người ta cần sự cân bằng giữa việc gìn giữ những giá trị đã được trân trọng qua nhiều năm và tiếp thu những ý tưởng mới."
+        "translation": "Người ta cần sự cân bằng giữa việc gìn giữ những giá trị đã được trân trọng qua nhiều năm và tiếp thu những ý tưởng mới.",
+        "example_id": 80274003682
       },
       {
         "sentence": "リーダーの役割は、古い文化の良い部分を残しつつ変化を恐れない姿勢を見せることだと思う。",
         "chunks": "リーダーの役割は / 古い文化の良い部分を残しつつ / 変化を恐れない姿勢を見せること / だと思う",
         "guide": "🔒 Đóng gói: [古い文化の良い部分] = 'những phần tốt của văn hóa cũ' → を残しつつ → 💡 つつ = vừa...vừa (đồng thời, trang trọng hơn ながら) → 🔒 Đóng gói: [変化を恐れない姿勢] = 'thái độ không sợ thay đổi' → を見せること = việc thể hiện X → だと思う = tôi nghĩ rằng đó là",
-        "translation": "Tôi nghĩ vai trò của nhà lãnh đạo là vừa giữ lại những phần tốt của văn hóa cũ vừa thể hiện thái độ không sợ thay đổi."
+        "translation": "Tôi nghĩ vai trò của nhà lãnh đạo là vừa giữ lại những phần tốt của văn hóa cũ vừa thể hiện thái độ không sợ thay đổi.",
+        "example_id": 80274003683
       },
       {
         "sentence": "組織文化は一朝一夕には変えられないが、リーダーの言動が大きな影響を与えることは確かだ。",
         "chunks": "組織文化は一朝一夕には変えられないが / リーダーの言動が / 大きな影響を与えることは確かだ",
         "guide": "一朝一夕には → 💡 一朝一夕 = trong một sớm một chiều (thành ngữ, thường đi với phủ định) → には強調: không thể thay đổi ngay được → が tương phản → 🔒 Đóng gói: [リーダーの言動が大きな影響を与えること] = 'việc lời nói và hành động của lãnh đạo có ảnh hưởng lớn' → は確かだ = điều đó chắc chắn",
-        "translation": "Văn hóa tổ chức không thể thay đổi trong một sớm một chiều, nhưng chắc chắn rằng lời nói và hành động của người lãnh đạo có ảnh hưởng lớn."
+        "translation": "Văn hóa tổ chức không thể thay đổi trong một sớm một chiều, nhưng chắc chắn rằng lời nói và hành động của người lãnh đạo có ảnh hưởng lớn.",
+        "example_id": 80274003684
       },
       {
         "sentence": "私自身も、後輩たちにこの会社の良さを伝えることで文化の継承に関わっていきたいと思っている。",
         "chunks": "私自身も / 後輩たちにこの会社の良さを伝えることで / 文化の継承に関わっていきたいと思っている",
         "guide": "私自身も → も nhấn mạnh: bản thân tôi cũng → 🔒 Đóng gói: [この会社の良さを伝えること] = 'việc truyền đạt những điều tốt đẹp của công ty này' → ことで = bằng cách X → に関わっていきたい → ⚠️ に関わる = liên quan đến, tham gia vào X → ていきたい = muốn tiếp tục làm (ý chí hướng tới tương lai)",
-        "translation": "Bản thân tôi cũng muốn tham gia vào việc kế thừa văn hóa bằng cách truyền đạt những điều tốt đẹp của công ty này cho các đàn em."
+        "translation": "Bản thân tôi cũng muốn tham gia vào việc kế thừa văn hóa bằng cách truyền đạt những điều tốt đẹp của công ty này cho các đàn em.",
+        "example_id": 80274003685
       },
       {
         "sentence": "文化とは制度や規則ではなく、人と人との関わりの中から生まれる生きたものだ。",
         "chunks": "文化とは / 制度や規則ではなく / 人と人との関わりの中から / 生まれる生きたものだ",
         "guide": "とは → 💡 とは = (định nghĩa) văn hóa là... (trang trọng hơn は) → ではなく = không phải là... → 🔒 Đóng gói: [人と人との関わりの中] = 'trong mối quan hệ giữa người với người' → から = từ X (nguồn gốc) → ⚠️ 生きたもの = thứ sống động, sinh động (生きた là dạng quá khứ của 生きる làm tính từ)",
-        "translation": "Văn hóa không phải là chế độ hay quy tắc, mà là thứ sống động được sinh ra trong mối quan hệ giữa người với người."
+        "translation": "Văn hóa không phải là chế độ hay quy tắc, mà là thứ sống động được sinh ra trong mối quan hệ giữa người với người.",
+        "example_id": 80274003686
       },
       {
         "sentence": "これからも変化と伝統のバランスを保ちながら、この文化を次の世代へとつないでいきたい。",
         "chunks": "これからも変化と伝統のバランスを保ちながら / この文化を / 次の世代へとつないでいきたい",
         "guide": "これからも → 'từ nay trở đi cũng' → 🔒 Đóng gói: [変化と伝統のバランスを保ちながら] = 'vừa giữ cân bằng giữa thay đổi và truyền thống' → ながら = vừa làm X vừa... → 次の世代へと → 💡 へと = hướng về X (chỉ phương hướng rõ nét) → ⚠️ つないでいきたい = muốn kết nối/dẫn dắt tiếp → いきたい = muốn tiếp tục hướng về phía trước",
-        "translation": "Từ nay trở đi, tôi cũng muốn vừa giữ cân bằng giữa thay đổi và truyền thống, vừa kết nối văn hóa này đến thế hệ tiếp theo."
+        "translation": "Từ nay trở đi, tôi cũng muốn vừa giữ cân bằng giữa thay đổi và truyền thống, vừa kết nối văn hóa này đến thế hệ tiếp theo.",
+        "example_id": 80274003687
       }
     ],
     "comprehension": [
@@ -1711,25 +1916,30 @@
           {
             "text": "入社してから大きく変わったと感じている",
             "text_vi": "Cảm thấy đã thay đổi nhiều kể từ khi vào công ty",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003521
           },
           {
             "text": "創業者の理念が今も根付いていると感じている",
             "text_vi": "Cảm thấy triết lý của người sáng lập vẫn còn ăn sâu đến tận hôm nay",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003522
           },
           {
             "text": "文化が弱くなってきていると感じている",
             "text_vi": "Cảm thấy văn hóa đang trở nên yếu đi",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003523
           },
           {
             "text": "自分が文化を作り上げたと感じている",
             "text_vi": "Cảm thấy mình đã tạo ra văn hóa",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003524
           }
         ],
-        "explanation": "Bài có \"cảm giác văn hóa công ty này không thay đổi chút nào\" và \"lý tưởng của người sáng lập đã ăn sâu vào mọi ngóc ngách công ty và đến giờ vẫn là kim chỉ nam hành động cho cả tổ chức\". Tác giả cảm thấy không đổi và nêu lý do là lý tưởng của người sáng lập ăn sâu, nên ② đúng."
+        "explanation": "Bài có \"cảm giác văn hóa công ty này không thay đổi chút nào\" và \"lý tưởng của người sáng lập đã ăn sâu vào mọi ngóc ngách công ty và đến giờ vẫn là kim chỉ nam hành động cho cả tổ chức\". Tác giả cảm thấy không đổi và nêu lý do là lý tưởng của người sáng lập ăn sâu, nên ② đúng.",
+        "question_id": 802720881
       },
       {
         "id": "R_0296_Q2",
@@ -1739,25 +1949,30 @@
           {
             "text": "リーダー一人が決めて作るものだ",
             "text_vi": "Là thứ do một người lãnh đạo quyết định và tạo ra",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003525
           },
           {
             "text": "会社の規則や制度によって作られる",
             "text_vi": "Được tạo ra bởi các quy tắc và chế độ của công ty",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003526
           },
           {
             "text": "組織に関わるすべての人が少しずつ積み上げていくものだ",
             "text_vi": "Là thứ tất cả những người liên quan đến tổ chức cùng nhau xây dựng từng chút một",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003527
           },
           {
             "text": "新入社員が持ち込む新しい発想で作られる",
             "text_vi": "Được tạo ra bởi những ý tưởng mới mà nhân viên mới mang vào",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003528
           }
         ],
-        "explanation": "Bài có \"không phải một cá nhân nào tạo ra văn hóa, mà là tất cả những ai liên quan đến tổ chức cùng tích lũy từng chút một\". Cũng có \"văn hóa không phải là chế độ hay quy định, mà là thực thể sống sinh ra từ mối liên kết giữa người với người\", nên ③ đúng."
+        "explanation": "Bài có \"không phải một cá nhân nào tạo ra văn hóa, mà là tất cả những ai liên quan đến tổ chức cùng tích lũy từng chút một\". Cũng có \"văn hóa không phải là chế độ hay quy định, mà là thực thể sống sinh ra từ mối liên kết giữa người với người\", nên ③ đúng.",
+        "question_id": 802720882
       },
       {
         "id": "R_0296_Q3",
@@ -1767,25 +1982,30 @@
           {
             "text": "古い文化はすべて捨てて新しくすべきだ",
             "text_vi": "Nên bỏ hết văn hóa cũ và làm mới hoàn toàn",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003529
           },
           {
             "text": "文化は変えてはいけない",
             "text_vi": "Không được thay đổi văn hóa",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003530
           },
           {
             "text": "良い部分を残しながら変化を取り入れるバランスが大切だ",
             "text_vi": "Quan trọng là giữ cân bằng giữa việc giữ lại phần tốt và tiếp thu thay đổi",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003531
           },
           {
             "text": "リーダーだけがアップデートを決める権限を持つべきだ",
             "text_vi": "Chỉ người lãnh đạo mới nên có quyền quyết định cập nhật",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003532
           }
         ],
-        "explanation": "Bài có \"cần sự cân bằng giữa giữ những giá trị được trân trọng nhiều năm và đưa vào ý tưởng mới\" và \"thái độ giữ phần tốt của văn hóa cũ đồng thời không sợ thay đổi\". Lập trường cân bằng cả hai là quan trọng, nên ③ đúng."
+        "explanation": "Bài có \"cần sự cân bằng giữa giữ những giá trị được trân trọng nhiều năm và đưa vào ý tưởng mới\" và \"thái độ giữ phần tốt của văn hóa cũ đồng thời không sợ thay đổi\". Lập trường cân bằng cả hai là quan trọng, nên ③ đúng.",
+        "question_id": 802720883
       },
       {
         "id": "R_0296_Q4",
@@ -1795,27 +2015,34 @@
           {
             "text": "会社の規則を書き直すことで文化を守る",
             "text_vi": "Bảo vệ văn hóa bằng cách viết lại quy tắc công ty",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003533
           },
           {
             "text": "後輩たちに会社の良さを伝えることで文化の継承に関わる",
             "text_vi": "Tham gia vào việc kế thừa văn hóa bằng cách truyền đạt những điều tốt của công ty cho đàn em",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003534
           },
           {
             "text": "新しいリーダーを育てることが最優先だ",
             "text_vi": "Ưu tiên hàng đầu là đào tạo người lãnh đạo mới",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003535
           },
           {
             "text": "社内の慣習をすべて文書化することだ",
             "text_vi": "Là ghi lại toàn bộ thói quen trong công ty thành tài liệu",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003536
           }
         ],
-        "explanation": "Bài có \"bản thân tôi cũng muốn tham gia kế thừa văn hóa bằng cách truyền lại những điểm tốt của công ty này cho đàn em\". Tác giả nêu vai trò của mình là tham gia kế thừa qua việc truyền cho đàn em, nên ② đúng."
+        "explanation": "Bài có \"bản thân tôi cũng muốn tham gia kế thừa văn hóa bằng cách truyền lại những điểm tốt của công ty này cho đàn em\". Tác giả nêu vai trò của mình là tham gia kế thừa qua việc truyền cho đàn em, nên ② đúng.",
+        "question_id": 802720884
       }
-    ]
+    ],
+    "reading_passage_id": 802700296,
+    "question_set_id": 802710296
   },
   {
     "id": "R_0297",
@@ -1910,91 +2137,106 @@
         "sentence": "子どもの頃から本を読む習慣があったが、大人になってからその大切さをより深く感じるようになった。",
         "chunks": "子どもの頃から本を読む習慣があったが / 大人になってから / その大切さをより深く感じるようになった",
         "guide": "🔒 Đóng gói: [子どもの頃から本を読む習慣] = 'thói quen đọc sách từ hồi còn nhỏ' → から = từ (điểm xuất phát thời gian) → が tương phản → 大人になってから → 💡 てから = sau khi... → ⚠️ ようになった = trở nên (biến đổi trạng thái: trước không cảm nhận sâu, nay cảm nhận sâu)",
-        "translation": "Tôi có thói quen đọc sách từ hồi còn nhỏ, nhưng sau khi trưởng thành, tôi càng cảm nhận sâu sắc hơn sự quan trọng của điều đó."
+        "translation": "Tôi có thói quen đọc sách từ hồi còn nhỏ, nhưng sau khi trưởng thành, tôi càng cảm nhận sâu sắc hơn sự quan trọng của điều đó.",
+        "example_id": 80274003688
       },
       {
         "sentence": "本を読むことで、自分が直接経験できないような出来事や場所、人の生き方に触れることができる。",
         "chunks": "本を読むことで / 自分が直接経験できないような出来事や場所 / 人の生き方に触れることができる",
         "guide": "を読むことで → 💡 ことで = bằng cách X → 🔒 Đóng gói: [自分が直接経験できないような出来事や場所、人の生き方] = 'những sự kiện, địa điểm và cách sống mà mình không thể trực tiếp trải nghiệm' → ような修飾 → ⚠️ に触れる = tiếp xúc, chạm đến X (に chỉ đối tượng tiếp xúc)",
-        "translation": "Bằng cách đọc sách, ta có thể tiếp xúc với những sự kiện, địa điểm và cách sống của con người mà mình không thể trực tiếp trải nghiệm."
+        "translation": "Bằng cách đọc sách, ta có thể tiếp xúc với những sự kiện, địa điểm và cách sống của con người mà mình không thể trực tiếp trải nghiệm.",
+        "example_id": 80274003689
       },
       {
         "sentence": "物語の登場人物と一緒に喜んだり悲しんだりすることで、人の感情や心理への理解が深まっていく。",
         "chunks": "物語の登場人物と一緒に喜んだり悲しんだりすることで / 人の感情や心理への理解が / 深まっていく",
         "guide": "🔒 Đóng gói: [物語の登場人物と一緒に喜んだり悲しんだりすること] = 'việc cùng vui cùng buồn với nhân vật trong câu chuyện' → たり～たりする = liệt kê các hành động xen kẽ → ことで = bằng cách X → ⚠️ を深める ≠ 深まる: を深める = làm sâu thêm (chủ động), 深まる = trở nên sâu sắc (tự phát) → いく = dần dần",
-        "translation": "Qua việc cùng vui cùng buồn với các nhân vật trong câu chuyện, sự hiểu biết về cảm xúc và tâm lý con người ngày càng sâu sắc hơn."
+        "translation": "Qua việc cùng vui cùng buồn với các nhân vật trong câu chuyện, sự hiểu biết về cảm xúc và tâm lý con người ngày càng sâu sắc hơn.",
+        "example_id": 80274003690
       },
       {
         "sentence": "また、専門書や歴史書を通して、知らなかった分野の知識が視野を広げてくれる。",
         "chunks": "また / 専門書や歴史書を通して / 知らなかった分野の知識が / 視野を広げてくれる",
         "guide": "また = ngoài ra, thêm vào đó → を通して → 💡 を通して = thông qua X (phương tiện, trung gian) → 🔒 Đóng gói: [知らなかった分野の知識] = 'kiến thức về những lĩnh vực mà mình chưa biết' → 視野を広げてくれる → ⚠️ を広げる = mở rộng X (chủ động tác động) → くれる = làm cho tôi (ơn huệ từ phía sách)",
-        "translation": "Ngoài ra, thông qua sách chuyên môn và sách lịch sử, kiến thức về những lĩnh vực mà mình chưa biết mở rộng tầm nhìn cho ta."
+        "translation": "Ngoài ra, thông qua sách chuyên môn và sách lịch sử, kiến thức về những lĩnh vực mà mình chưa biết mở rộng tầm nhìn cho ta.",
+        "example_id": 80274003691
       },
       {
         "sentence": "ただ情報を得るだけでなく、本との対話によって自分の考えが整理され、新しい視点が生まれることもある。",
         "chunks": "ただ情報を得るだけでなく / 本との対話によって / 自分の考えが整理され / 新しい視点が生まれることもある",
         "guide": "だけでなく → 💡 だけでなく = không chỉ...mà còn → 🔒 Đóng gói: [本との対話] = 'sự đối thoại với sách' → によって → 💡 によって = nhờ vào, thông qua (phương tiện/nguyên nhân) → ⚠️ 整理される = được sắp xếp (受身 tự phát) → こともある = đôi khi cũng có trường hợp",
-        "translation": "Không chỉ đơn giản là thu thập thông tin, mà qua việc đối thoại với sách, suy nghĩ của mình cũng được sắp xếp và những góc nhìn mới đôi khi cũng nảy sinh."
+        "translation": "Không chỉ đơn giản là thu thập thông tin, mà qua việc đối thoại với sách, suy nghĩ của mình cũng được sắp xếp và những góc nhìn mới đôi khi cũng nảy sinh.",
+        "example_id": 80274003692
       },
       {
         "sentence": "特に、自分と全く違う価値観を持つ人物の物語を読んだとき、それまで当然だと思っていた自分の常識を見直すきっかけになる。",
         "chunks": "特に / 自分と全く違う価値観を持つ人物の物語を読んだとき / それまで当然だと思っていた自分の常識を / 見直すきっかけになる",
         "guide": "特に = đặc biệt → 🔒 Đóng gói: [自分と全く違う価値観を持つ人物の物語] = 'câu chuyện của người có quan điểm hoàn toàn khác mình' → を読んだとき = khi đọc X → ⚠️ それまで = cho đến lúc đó, trước đó → 🔒 Đóng gói: [当然だと思っていた自分の常識] = 'những điều thường thức mà mình từng cho là hiển nhiên' → を見直すきっかけになる → 💡 きっかけになる = trở thành cơ hội để...",
-        "translation": "Đặc biệt, khi đọc câu chuyện của một người có quan điểm hoàn toàn khác với mình, đó trở thành cơ hội để xem lại những điều thường thức của bản thân mà mình từng cho là hiển nhiên."
+        "translation": "Đặc biệt, khi đọc câu chuyện của một người có quan điểm hoàn toàn khác với mình, đó trở thành cơ hội để xem lại những điều thường thức của bản thân mà mình từng cho là hiển nhiên.",
+        "example_id": 80274003693
       },
       {
         "sentence": "本は読む人に、自分では気づかなかった感情や思いに気づかせてくれる不思議な力を持っている。",
         "chunks": "本は読む人に / 自分では気づかなかった感情や思いに気づかせてくれる / 不思議な力を持っている",
         "guide": "本は読む人に → に = đối tượng nhận → 🔒 Đóng gói: [自分では気づかなかった感情や思い] = 'những cảm xúc và suy nghĩ mà chính mình chưa từng nhận ra' → ⚠️ に気づかせてくれる = khiến nhận ra X, làm cho nhận ra (気づく → 気づかせる sai khiến → くれる ơn huệ) → 不思議な力を持っている = có sức mạnh kỳ diệu",
-        "translation": "Sách có sức mạnh kỳ diệu giúp người đọc nhận ra những cảm xúc và suy nghĩ mà chính mình chưa từng nhận ra."
+        "translation": "Sách có sức mạnh kỳ diệu giúp người đọc nhận ra những cảm xúc và suy nghĩ mà chính mình chưa từng nhận ra.",
+        "example_id": 80274003694
       },
       {
         "sentence": "ある小説を読んだとき、主人公の悩みが自分の過去の経験と重なり、涙が出るほど共感したことがある。",
         "chunks": "ある小説を読んだとき / 主人公の悩みが自分の過去の経験と重なり / 涙が出るほど共感したことがある",
         "guide": "ある小説 → 'một cuốn tiểu thuyết nào đó' (ある = một...nào đó) → 🔒 Đóng gói: [主人公の悩みが自分の過去の経験と重なり] = 'nỗi trăn trở của nhân vật chính trùng khớp với trải nghiệm quá khứ của mình' → と重なる = trùng với, chồng lên X → ⚠️ ほど = đến mức (chỉ mức độ) → たことがある = đã từng có lần (kinh nghiệm quá khứ)",
-        "translation": "Khi đọc một cuốn tiểu thuyết, nỗi trăn trở của nhân vật chính trùng khớp với trải nghiệm trong quá khứ của tôi, và có lần tôi đã đồng cảm đến mức rơi nước mắt."
+        "translation": "Khi đọc một cuốn tiểu thuyết, nỗi trăn trở của nhân vật chính trùng khớp với trải nghiệm trong quá khứ của tôi, và có lần tôi đã đồng cảm đến mức rơi nước mắt.",
+        "example_id": 80274003695
       },
       {
         "sentence": "そのとき初めて、自分がずっと抱えていた感情に名前をつけることができたように感じた。",
         "chunks": "そのとき初めて / 自分がずっと抱えていた感情に / 名前をつけることができたように感じた",
         "guide": "そのとき初めて → 💡 初めて = lần đầu tiên (trang trọng, nhấn mạnh) → 🔒 Đóng gói: [自分がずっと抱えていた感情] = 'cảm xúc mà mình đã ôm ấp mãi' → ⚠️ 抱える = ôm ấp, mang trong lòng (thường dùng với lo lắng, cảm xúc) → に名前をつける = đặt tên cho X → ように感じた = cảm thấy như là (chủ quan)",
-        "translation": "Vào lúc đó, lần đầu tiên tôi cảm thấy như mình có thể đặt tên cho cảm xúc mà mình đã ôm ấp mãi."
+        "translation": "Vào lúc đó, lần đầu tiên tôi cảm thấy như mình có thể đặt tên cho cảm xúc mà mình đã ôm ấp mãi.",
+        "example_id": 80274003696
       },
       {
         "sentence": "本を通して自分自身をより深く知ることができるというのは、読書の大きな醍醐味の一つだと思う。",
         "chunks": "本を通して自分自身をより深く知ることができるというのは / 読書の大きな醍醐味の一つだと思う",
         "guide": "を通して → 💡 を通して = thông qua, qua trung gian X → 🔒 Đóng gói: [本を通して自分自身をより深く知ることができること] = 'việc có thể hiểu bản thân mình sâu sắc hơn qua sách' → というのは → というのは = điều mà tôi nói là, thứ gọi là (danh hóa mệnh đề) → ⚠️ 醍醐味 = điều thú vị nhất, tinh túy (từ Phật giáo, nghĩa gốc: vị ngon nhất)",
-        "translation": "Tôi nghĩ rằng việc có thể hiểu bản thân mình sâu sắc hơn thông qua sách là một trong những điều thú vị lớn nhất của việc đọc sách."
+        "translation": "Tôi nghĩ rằng việc có thể hiểu bản thân mình sâu sắc hơn thông qua sách là một trong những điều thú vị lớn nhất của việc đọc sách.",
+        "example_id": 80274003697
       },
       {
         "sentence": "忙しい日々の中でも、読書の時間を作ることで心が落ち着き、日常のストレスから少し距離を置くことができる。",
         "chunks": "忙しい日々の中でも / 読書の時間を作ることで / 心が落ち着き / 日常のストレスから少し距離を置くことができる",
         "guide": "の中でも → 💡 でも = ngay cả trong hoàn cảnh... → を作ることで = bằng cách tạo ra thời gian → 🔒 Đóng gói: [読書の時間を作ること] = 'việc tạo thời gian đọc sách' → 心が落ち着く = tâm hồn bình lại (tự phát) → ⚠️ 距離を置く = đặt khoảng cách, tạo khoảng cách với X (から = nguồn tách ra khỏi)",
-        "translation": "Dù trong những ngày bận rộn, bằng cách tạo thời gian đọc sách, tâm hồn bình lại và có thể đặt một khoảng cách nhỏ với stress hàng ngày."
+        "translation": "Dù trong những ngày bận rộn, bằng cách tạo thời gian đọc sách, tâm hồn bình lại và có thể đặt một khoảng cách nhỏ với stress hàng ngày.",
+        "example_id": 80274003698
       },
       {
         "sentence": "最近は電子書籍も普及しており、いつでもどこでも読めるようになったことで、読書のハードルが下がったと感じる。",
         "chunks": "最近は電子書籍も普及しており / いつでもどこでも読めるようになったことで / 読書のハードルが下がったと感じる",
         "guide": "も普及しており → も = cũng (điều đó cũng); ており = đang ở trạng thái (kết nối câu) → いつでもどこでも = bất cứ lúc nào, bất cứ đâu → ようになった = trở nên có thể → 🔒 Đóng gói: [いつでもどこでも読めるようになったこと] = 'việc trở nên có thể đọc bất cứ lúc nào đâu' → ことで = do điều đó → ⚠️ ハードルが下がる = rào cản thấp xuống (mượn từ tiếng Anh 'hurdle')",
-        "translation": "Gần đây sách điện tử cũng phổ biến, và tôi cảm thấy rào cản đọc sách đã thấp xuống vì có thể đọc bất cứ lúc nào, bất cứ đâu."
+        "translation": "Gần đây sách điện tử cũng phổ biến, và tôi cảm thấy rào cản đọc sách đã thấp xuống vì có thể đọc bất cứ lúc nào, bất cứ đâu.",
+        "example_id": 80274003699
       },
       {
         "sentence": "しかし、紙の本を手に取って読む感触は独特で、電子書籍とは違う集中力を生み出すとも感じている。",
         "chunks": "しかし / 紙の本を手に取って読む感触は独特で / 電子書籍とは違う集中力を / 生み出すとも感じている",
         "guide": "しかし → tương phản, chuyển ý → 🔒 Đóng gói: [紙の本を手に取って読む感触] = 'cảm giác cầm sách giấy trên tay và đọc' → 独特で → 独特 = độc đáo, đặc trưng riêng → 💡 とは違う = khác với X (とは chỉ đối tượng so sánh) → ⚠️ とも感じている = cũng cảm thấy rằng (と trích dẫn nội dung; も = cũng, ngoài điều đã nói)",
-        "translation": "Tuy nhiên, cảm giác cầm sách giấy trên tay và đọc rất độc đáo, và tôi cũng cảm thấy nó tạo ra sự tập trung khác với sách điện tử."
+        "translation": "Tuy nhiên, cảm giác cầm sách giấy trên tay và đọc rất độc đáo, và tôi cũng cảm thấy nó tạo ra sự tập trung khác với sách điện tử.",
+        "example_id": 80274003700
       },
       {
         "sentence": "どちらの形式であれ、本を読む習慣を持つことが大切だ。",
         "chunks": "どちらの形式であれ / 本を読む習慣を持つことが / 大切だ",
         "guide": "どちらの形式であれ → 💡 であれ = dù là, bất kể là X hay Y (điều kiện nhượng bộ, trang trọng) → 🔒 Đóng gói: [本を読む習慣を持つこと] = 'việc có thói quen đọc sách' → ことが大切だ = điều quan trọng là... (こと danh hóa mệnh đề làm chủ ngữ)",
-        "translation": "Dù là hình thức nào, điều quan trọng là có thói quen đọc sách."
+        "translation": "Dù là hình thức nào, điều quan trọng là có thói quen đọc sách.",
+        "example_id": 80274003701
       },
       {
         "sentence": "これからも本との出会いを大切にし、自分の世界をどこまでも広げていきたい。",
         "chunks": "これからも本との出会いを大切にし / 自分の世界を / どこまでも広げていきたい",
         "guide": "これからも = từ nay trở đi cũng → 🔒 Đóng gói: [本との出会い] = 'những cuộc gặp gỡ với sách' → を大切にし → し = nối hai hành động song song → 自分の世界を広げる → ⚠️ を広げる = mở rộng X (chủ động) → どこまでも = đến tận cùng, không giới hạn → ていきたい = muốn tiếp tục làm (hướng về phía trước)",
-        "translation": "Từ nay trở đi, tôi cũng muốn trân trọng những cuộc gặp gỡ với sách và mở rộng thế giới của mình ra thật xa."
+        "translation": "Từ nay trở đi, tôi cũng muốn trân trọng những cuộc gặp gỡ với sách và mở rộng thế giới của mình ra thật xa.",
+        "example_id": 80274003702
       }
     ],
     "comprehension": [
@@ -2006,25 +2248,30 @@
           {
             "text": "外国語や文学の語学力が自然と向上する",
             "text_vi": "Năng lực ngôn ngữ ngoại ngữ và văn học tự nhiên được nâng cao",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003537
           },
           {
             "text": "登場人物と共感することで人の感情や心理への理解が深まる",
             "text_vi": "Sự hiểu biết về cảm xúc và tâm lý con người sâu sắc hơn nhờ đồng cảm với nhân vật",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003538
           },
           {
             "text": "物語を繰り返し読むことで記憶力が鍛えられる",
             "text_vi": "Trí nhớ được rèn luyện khi đọc đi đọc lại câu chuyện nhiều lần",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003539
           },
           {
             "text": "知らない分野の専門知識が効率よく身につく",
             "text_vi": "Tích lũy được kiến thức chuyên môn về lĩnh vực chưa biết một cách hiệu quả",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003540
           }
         ],
-        "explanation": "Bài có \"qua việc cùng vui buồn với nhân vật trong câu chuyện, hiểu biết về cảm xúc và tâm lý con người dần sâu sắc hơn\". Lợi ích sâu sắc qua đồng cảm với nhân vật là điểm được nêu, nên ② đúng. Còn ④ là lợi ích của sách chuyên môn và lịch sử, không phải của truyện."
+        "explanation": "Bài có \"qua việc cùng vui buồn với nhân vật trong câu chuyện, hiểu biết về cảm xúc và tâm lý con người dần sâu sắc hơn\". Lợi ích sâu sắc qua đồng cảm với nhân vật là điểm được nêu, nên ② đúng. Còn ④ là lợi ích của sách chuyên môn và lịch sử, không phải của truyện.",
+        "question_id": 802720885
       },
       {
         "id": "R_0297_Q2",
@@ -2034,25 +2281,30 @@
           {
             "text": "大人になると語彙が増えて読む速度が速くなり、より多くの本を読めるようになるから。",
             "text_vi": "Vì khi trưởng thành, vốn từ tăng lên và tốc độ đọc nhanh hơn, có thể đọc được nhiều sách hơn.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003541
           },
           {
             "text": "直接経験できない出来事や人の生き方に触れることで、感情や視野が広がる体験ができるから。",
             "text_vi": "Vì có thể có trải nghiệm mở rộng cảm xúc và tầm nhìn thông qua tiếp xúc với những sự kiện và cách sống mà mình không thể trực tiếp trải nghiệm.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003542
           },
           {
             "text": "大人は子どもより読書に使える時間が多く、本の内容を深く理解できるから。",
             "text_vi": "Vì người lớn có nhiều thời gian để đọc sách hơn trẻ em và có thể hiểu nội dung sâu sắc hơn.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003543
           },
           {
             "text": "本を読むことで専門知識が身につき、仕事や日常生活に役立つようになるから。",
             "text_vi": "Vì đọc sách giúp tích lũy kiến thức chuyên môn, trở nên hữu ích cho công việc và cuộc sống hàng ngày.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003544
           }
         ],
-        "explanation": "Câu 1 nêu 「大人になってからその大切さをより深く感じるようになった」→ なぜ? → câu 2: 「自分が直接経験できないような出来事や場所、人の生き方に触れることができる」và câu 3: 「人の感情や心理への理解が深まっていく」→ đọc sách mở rộng trải nghiệm và hiểu biết mà cuộc sống thực tế không cho phép."
+        "explanation": "Câu 1 nêu 「大人になってからその大切さをより深く感じるようになった」→ なぜ? → câu 2: 「自分が直接経験できないような出来事や場所、人の生き方に触れることができる」và câu 3: 「人の感情や心理への理解が深まっていく」→ đọc sách mở rộng trải nghiệm và hiểu biết mà cuộc sống thực tế không cho phép.",
+        "question_id": 802720886
       },
       {
         "id": "R_0297_Q3",
@@ -2062,25 +2314,30 @@
           {
             "text": "電子書籍よりも紙の本のほうが価値があると考えている",
             "text_vi": "Cho rằng sách giấy có giá trị hơn sách điện tử",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003545
           },
           {
             "text": "読書の形式よりも、読む習慣そのものを大切にしている",
             "text_vi": "Coi trọng bản thân thói quen đọc sách hơn là hình thức đọc",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003546
           },
           {
             "text": "電子書籍は本当の読書とは言えないと思っている",
             "text_vi": "Cho rằng sách điện tử không thể gọi là đọc sách thực sự",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003547
           },
           {
             "text": "どちらの形式も同じ効果があると研究で証明されたと主張している",
             "text_vi": "Cho rằng nghiên cứu đã chứng minh cả hai hình thức có cùng hiệu quả",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003548
           }
         ],
-        "explanation": "Câu 12-13 mô tả đặc điểm riêng của sách điện tử và sách giấy một cách cân bằng, không ủng hộ bên nào, rồi câu 14 kết luận 「どちらの形式であれ」= 'dù là hình thức nào'. Từ đó có thể suy ra rằng đối với tác giả, điều quan trọng là thói quen đọc sách chứ không phải hình thức — đây là suy luận vượt ra ngoài những gì được nói trực tiếp trong bài."
+        "explanation": "Câu 12-13 mô tả đặc điểm riêng của sách điện tử và sách giấy một cách cân bằng, không ủng hộ bên nào, rồi câu 14 kết luận 「どちらの形式であれ」= 'dù là hình thức nào'. Từ đó có thể suy ra rằng đối với tác giả, điều quan trọng là thói quen đọc sách chứ không phải hình thức — đây là suy luận vượt ra ngoài những gì được nói trực tiếp trong bài.",
+        "question_id": 802720887
       },
       {
         "id": "R_0297_Q4",
@@ -2090,27 +2347,34 @@
           {
             "text": "できるだけ多くの本を速く読むべきだ",
             "text_vi": "Nên đọc càng nhiều sách càng nhanh càng tốt",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003549
           },
           {
             "text": "紙の本だけが本当の読書だ",
             "text_vi": "Chỉ có sách giấy mới là đọc sách thực sự",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003550
           },
           {
             "text": "読書は視野を広げ、自己理解を深め、心を豊かにしてくれる",
             "text_vi": "Đọc sách mở rộng tầm nhìn, làm sâu thêm hiểu biết về bản thân và làm phong phú tâm hồn",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003551
           },
           {
             "text": "専門書を読まないと知識が増えない",
             "text_vi": "Không đọc sách chuyên môn thì kiến thức không tăng lên được",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003552
           }
         ],
-        "explanation": "Xuyên suốt bài, tác giả nêu đọc sách \"mở rộng tầm nhìn\", \"đào sâu hiểu biết về cảm xúc con người\", \"giúp nhận ra những cảm xúc bản thân chưa nhận thấy\", \"lòng được thanh thản\"—có giá trị đa chiều. Tổng hợp các điều này, đáp án ③ \"mở rộng tầm nhìn, đào sâu hiểu mình, làm phong phú trái tim\" là phù hợp nhất."
+        "explanation": "Xuyên suốt bài, tác giả nêu đọc sách \"mở rộng tầm nhìn\", \"đào sâu hiểu biết về cảm xúc con người\", \"giúp nhận ra những cảm xúc bản thân chưa nhận thấy\", \"lòng được thanh thản\"—có giá trị đa chiều. Tổng hợp các điều này, đáp án ③ \"mở rộng tầm nhìn, đào sâu hiểu mình, làm phong phú trái tim\" là phù hợp nhất.",
+        "question_id": 802720888
       }
-    ]
+    ],
+    "reading_passage_id": 802700297,
+    "question_set_id": 802710297
   },
   {
     "id": "R_0298",
@@ -2211,97 +2475,113 @@
         "sentence": "忍耐力は生まれつき持っているものではなく、日々の積み重ねによって鍛えられるものだと私は信じている。",
         "chunks": "忍耐力は / 生まれつき持っているものではなく / 日々の積み重ねによって鍛えられるものだと / 私は信じている",
         "guide": "は chủ đề → ではなく → 💡 ではなく = không phải là... mà → によって → 💡 によって = nhờ vào, bằng cách (phương tiện) → 🔒 Đóng gói: [日々の積み重ねによって鍛えられるもの] = 'thứ được rèn luyện qua tích lũy hàng ngày' → ～と信じている = tin rằng",
-        "translation": "Tôi tin rằng sức chịu đựng không phải là thứ bẩm sinh mà có, mà được rèn luyện qua sự tích lũy hàng ngày."
+        "translation": "Tôi tin rằng sức chịu đựng không phải là thứ bẩm sinh mà có, mà được rèn luyện qua sự tích lũy hàng ngày.",
+        "example_id": 80274003703
       },
       {
         "sentence": "最初は小さな不便にもすぐに苦しみを感じ、自分の忍耐力のなさを痛感することが多かった。",
         "chunks": "最初は / 小さな不便にもすぐに苦しみを感じ / 自分の忍耐力のなさを / 痛感することが多かった",
         "guide": "最初は → 'ban đầu, so với sau này' → にも → も nhấn mạnh: ngay cả với cái nhỏ → 🔒 Đóng gói: [自分の忍耐力のなさ] = 'sự thiếu kiên nhẫn của bản thân' → 💡 痛感する = thấm thía, nhận ra một cách sâu sắc",
-        "translation": "Ban đầu, tôi thường cảm thấy khổ sở ngay cả với những bất tiện nhỏ và thường xuyên nhận ra sự thiếu kiên nhẫn của bản thân."
+        "translation": "Ban đầu, tôi thường cảm thấy khổ sở ngay cả với những bất tiện nhỏ và thường xuyên nhận ra sự thiếu kiên nhẫn của bản thân.",
+        "example_id": 80274003704
       },
       {
         "sentence": "しかし、あえて不快な状況に身を置くことで、少しずつ耐える力が育っていくことに気づいた。",
         "chunks": "しかし / あえて不快な状況に身を置くことで / 少しずつ耐える力が育っていくことに / 気づいた",
         "guide": "しかし → chuyển ý tương phản → あえて → 💡 あえて = cố tình, chủ động (dù biết khó) → ことで → 💡 ことで = bằng cách làm X → 🔒 Đóng gói: [あえて不快な状況に身を置くこと] = 'việc cố tình đặt mình vào tình huống khó chịu' → ⚠️ 育っていく = lớn lên, phát triển dần (いく = hướng về phía trước)",
-        "translation": "Tuy nhiên, tôi nhận ra rằng bằng cách cố tình đặt mình vào những tình huống khó chịu, sức chịu đựng dần dần được phát triển."
+        "translation": "Tuy nhiên, tôi nhận ra rằng bằng cách cố tình đặt mình vào những tình huống khó chịu, sức chịu đựng dần dần được phát triển.",
+        "example_id": 80274003705
       },
       {
         "sentence": "たとえば、寒い朝に温かい布団から出る習慣を続けることも、忍耐を鍛える立派なトレーニングになる。",
         "chunks": "たとえば / 寒い朝に温かい布団から出る習慣を続けることも / 忍耐を鍛える立派なトレーニングになる",
         "guide": "たとえば → dẫn ví dụ cụ thể → 🔒 Đóng gói: [寒い朝に温かい布団から出る習慣を続けること] = 'việc duy trì thói quen rời khỏi chăn ấm vào buổi sáng lạnh' → も → cũng (ngay cả việc nhỏ đó cũng) → 💡 を鍛える = rèn luyện X (を là đối tượng rèn luyện)",
-        "translation": "Ví dụ, duy trì thói quen rời khỏi chăn ấm vào buổi sáng lạnh cũng là một bài tập rèn luyện sự kiên nhẫn xứng đáng."
+        "translation": "Ví dụ, duy trì thói quen rời khỏi chăn ấm vào buổi sáng lạnh cũng là một bài tập rèn luyện sự kiên nhẫn xứng đáng.",
+        "example_id": 80274003706
       },
       {
         "sentence": "毎日の通勤時間に読書をするなど、退屈に感じる時間を有意義に過ごす工夫も助けになった。",
         "chunks": "毎日の通勤時間に読書をするなど / 退屈に感じる時間を有意義に過ごす工夫も / 助けになった",
         "guide": "など → liệt kê không đầy đủ (còn nhiều ví dụ khác) → 🔒 Đóng gói: [退屈に感じる時間を有意義に過ごす工夫] = 'cách khéo léo sử dụng thời gian nhàm chán một cách có ý nghĩa' → も → cũng → 💡 助けになった = trở nên hữu ích, giúp ích",
-        "translation": "Việc khéo léo sử dụng những khoảng thời gian nhàm chán một cách có ý nghĩa, chẳng hạn như đọc sách trong lúc đi làm hàng ngày, cũng rất hữu ích."
+        "translation": "Việc khéo léo sử dụng những khoảng thời gian nhàm chán một cách có ý nghĩa, chẳng hạn như đọc sách trong lúc đi làm hàng ngày, cũng rất hữu ích.",
+        "example_id": 80274003707
       },
       {
         "sentence": "困難に耐えることは苦痛を我慢することだけではなく、その経験を自分の力へと変えるプロセスだと学んだ。",
         "chunks": "困難に耐えることは / 苦痛を我慢することだけではなく / その経験を自分の力へと変えるプロセスだと / 学んだ",
         "guide": "に耐える → 💡 に耐える = chịu đựng X (に là đối tượng chịu đựng) → だけではなく → không chỉ là...mà → 🔒 Đóng gói: [その経験を自分の力へと変えるプロセス] = 'quá trình biến trải nghiệm đó thành sức mạnh của bản thân' → ⚠️ へと変える = biến thành (へと nhấn mạnh hướng chuyển đổi mạnh hơn に)",
-        "translation": "Tôi đã học được rằng chịu đựng khó khăn không chỉ là nhẫn nhịn đau khổ, mà là quá trình biến những trải nghiệm đó thành sức mạnh của bản thân."
+        "translation": "Tôi đã học được rằng chịu đựng khó khăn không chỉ là nhẫn nhịn đau khổ, mà là quá trình biến những trải nghiệm đó thành sức mạnh của bản thân.",
+        "example_id": 80274003708
       },
       {
         "sentence": "一時的な不快感に耐えることで、長期的な目標に向かって進む力が身につく。",
         "chunks": "一時的な不快感に耐えることで / 長期的な目標に向かって進む力が / 身につく",
         "guide": "に耐えることで → ことで = bằng cách chịu đựng → 🔒 Đóng gói: [一時的な不快感に耐えること] = 'việc chịu đựng cảm giác khó chịu nhất thời' → 💡 に向かって = hướng về phía → 💡 身につく = thấm nhuần vào bản thân, có được (tự nhiên, không cưỡng ép)",
-        "translation": "Bằng cách chịu đựng sự khó chịu nhất thời, ta có được sức mạnh để tiến về phía mục tiêu dài hạn."
+        "translation": "Bằng cách chịu đựng sự khó chịu nhất thời, ta có được sức mạnh để tiến về phía mục tiêu dài hạn.",
+        "example_id": 80274003709
       },
       {
         "sentence": "失敗したとき、すぐに諦めずに何度も挑戦し続けることも忍耐力を鍛える重要な方法だ。",
         "chunks": "失敗したとき / すぐに諦めずに何度も挑戦し続けることも / 忍耐力を鍛える重要な方法だ",
         "guide": "したとき → thời điểm xảy ra → ずに → 💡 ずに = không làm X mà (phủ định đi kèm) → 🔒 Đóng gói: [すぐに諦めずに何度も挑戦し続けること] = 'việc không bỏ cuộc ngay mà tiếp tục thử nhiều lần' → も = cũng → を鍛える → rèn luyện sức kiên nhẫn",
-        "translation": "Khi thất bại, không bỏ cuộc ngay mà tiếp tục thử nhiều lần cũng là phương pháp quan trọng để rèn luyện sự kiên nhẫn."
+        "translation": "Khi thất bại, không bỏ cuộc ngay mà tiếp tục thử nhiều lần cũng là phương pháp quan trọng để rèn luyện sự kiên nhẫn.",
+        "example_id": 80274003710
       },
       {
         "sentence": "人間関係においても、相手のペースに合わせて待つことが必要な場面は少なくない。",
         "chunks": "人間関係においても / 相手のペースに合わせて待つことが必要な場面は / 少なくない",
         "guide": "においても → 💡 において = trong lĩnh vực, trong phạm vi (formal) + も = cũng → 🔒 Đóng gói: [相手のペースに合わせて待つことが必要な場面] = 'những tình huống cần đợi theo nhịp độ của đối phương' → ⚠️ 少なくない = không ít (phủ định kép → khẳng định nhấn mạnh: rất nhiều)",
-        "translation": "Trong các mối quan hệ, cũng không ít tình huống cần phải đợi, nhường nhịn theo nhịp độ của đối phương."
+        "translation": "Trong các mối quan hệ, cũng không ít tình huống cần phải đợi, nhường nhịn theo nhịp độ của đối phương.",
+        "example_id": 80274003711
       },
       {
         "sentence": "そのような場面で焦らず冷静でいられるようになったとき、自分の成長を実感できた。",
         "chunks": "そのような場面で / 焦らず冷静でいられるようになったとき / 自分の成長を実感できた",
         "guide": "そのような → chỉ về tình huống vừa nhắc → 焦らず → ずに thể rút gọn → 💡 焦らず = không vội vàng → ようになった → 💡 ようになる = trở nên có thể (thay đổi từ không thể sang có thể) → 🔒 Đóng gói: [焦らず冷静でいられるようになったとき] = 'khi có thể bình tĩnh và không vội vàng'",
-        "translation": "Khi có thể bình tĩnh và không vội vàng trong những tình huống như vậy, tôi mới thực sự cảm nhận được sự trưởng thành của mình."
+        "translation": "Khi có thể bình tĩnh và không vội vàng trong những tình huống như vậy, tôi mới thực sự cảm nhận được sự trưởng thành của mình.",
+        "example_id": 80274003712
       },
       {
         "sentence": "逆境に置かれたとき、それを単なる試練ではなく自分を高めるチャンスへと変える視点が大切だ。",
         "chunks": "逆境に置かれたとき / それを単なる試練ではなく自分を高めるチャンスへと変える視点が / 大切だ",
         "guide": "逆境に置かれたとき → 置かれる = bị đặt vào (bị động) → 🔒 Đóng gói: [単なる試練ではなく自分を高めるチャンス] = 'không chỉ là thử thách đơn thuần mà còn là cơ hội nâng cao bản thân' → ⚠️ へと変える → へと nhấn mạnh hướng chuyển hóa → 💡 視点 = góc nhìn, quan điểm",
-        "translation": "Khi rơi vào nghịch cảnh, quan trọng là phải có cách nhìn biến đó không chỉ là thử thách mà còn là cơ hội để nâng cao bản thân."
+        "translation": "Khi rơi vào nghịch cảnh, quan trọng là phải có cách nhìn biến đó không chỉ là thử thách mà còn là cơ hội để nâng cao bản thân.",
+        "example_id": 80274003713
       },
       {
         "sentence": "忍耐力が高まると、物事に対してより落ち着いた判断ができるようになり、周囲からの信頼も増す。",
         "chunks": "忍耐力が高まると / 物事に対してより落ち着いた判断ができるようになり / 周囲からの信頼も増す",
         "guide": "が高まると → と = điều kiện tự nhiên (nếu A thì B xảy ra tự nhiên) → 🔒 Đóng gói: [物事に対してより落ち着いた判断] = 'những phán đoán bình tĩnh hơn về mọi việc' → ようになり → ようになる + て形 (liên kết) → 💡 周囲からの信頼 = sự tin tưởng từ những người xung quanh",
-        "translation": "Khi sức chịu đựng tăng lên, ta có thể đưa ra những quyết định bình tĩnh hơn về mọi việc và sự tin tưởng từ những người xung quanh cũng tăng lên."
+        "translation": "Khi sức chịu đựng tăng lên, ta có thể đưa ra những quyết định bình tĩnh hơn về mọi việc và sự tin tưởng từ những người xung quanh cũng tăng lên.",
+        "example_id": 80274003714
       },
       {
         "sentence": "小さな我慢の積み重ねが、やがて大きな精神的な強さへと変わっていく。",
         "chunks": "小さな我慢の積み重ねが / やがて大きな精神的な強さへと / 変わっていく",
         "guide": "が chủ ngữ → 🔒 Đóng gói: [小さな我慢の積み重ね] = 'sự tích lũy những lần nhẫn nhịn nhỏ' → やがて → 💡 やがて = rồi sẽ, dần dần (chỉ thời gian trong tương lai) → へと変わる → ⚠️ 変わる ≠ 変える: 変わる = tự thay đổi (nội động từ), 変える = làm thay đổi (ngoại động từ) → いく = tiếp diễn",
-        "translation": "Những lần nhẫn nhịn nhỏ tích lũy dần sẽ biến thành sức mạnh tinh thần lớn lao."
+        "translation": "Những lần nhẫn nhịn nhỏ tích lũy dần sẽ biến thành sức mạnh tinh thần lớn lao.",
+        "example_id": 80274003715
       },
       {
         "sentence": "ただし、過剰な我慢は燃え尽き症候群やうつ病の原因にもなり得るため、注意も必要だ。",
         "chunks": "ただし / 過剰な我慢は / 燃え尽き症候群やうつ病の原因にもなり得るため / 注意も必要だ",
         "guide": "ただし → 💡 ただし = tuy nhiên, nhưng lưu ý rằng (đặt điều kiện giới hạn, cẩn thận hơn しかし) → ⚠️ 過剰な = quá mức, thái quá → 🔒 Đóng gói: [燃え尽き症候群やうつ病の原因] = 'nguyên nhân gây hội chứng kiệt sức hoặc trầm cảm' → にもなり得る → 💡 なり得る = có thể trở thành (形 của なりうる) → ため = vì vậy, do đó → も必要だ = cũng cần thiết",
-        "translation": "Tuy nhiên, nhẫn nhịn quá mức có thể trở thành nguyên nhân gây ra hội chứng kiệt sức hoặc trầm cảm, vì vậy cũng cần chú ý."
+        "translation": "Tuy nhiên, nhẫn nhịn quá mức có thể trở thành nguyên nhân gây ra hội chứng kiệt sức hoặc trầm cảm, vì vậy cũng cần chú ý.",
+        "example_id": 80274003716
       },
       {
         "sentence": "今でも完璧に忍耐できるわけではないが、以前より確実に粘り強くなったと感じている。",
         "chunks": "今でも完璧に忍耐できるわけではないが / 以前より確実に粘り強くなったと / 感じている",
         "guide": "今でも → 'ngay cả bây giờ' → ⚠️ わけではない = phủ định một phần (partial negation): không phải là (như đã suy ra) — ở đây ngầm phủ nhận giả thiết 'hoàn toàn kiên nhẫn được rồi' → が tương phản → 以前より → 💡 より = hơn (so sánh) → 🔒 Đóng gói: [以前より確実に粘り強くなったと感じている] = 'cảm thấy đã trở nên bền bỉ hơn so với trước một cách chắc chắn'",
-        "translation": "Ngay cả bây giờ tôi vẫn chưa thể kiên nhẫn hoàn hảo, nhưng tôi cảm thấy mình đã trở nên bền bỉ hơn so với trước."
+        "translation": "Ngay cả bây giờ tôi vẫn chưa thể kiên nhẫn hoàn hảo, nhưng tôi cảm thấy mình đã trở nên bền bỉ hơn so với trước.",
+        "example_id": 80274003717
       },
       {
         "sentence": "忍耐を鍛える旅は終わりのないものかもしれないが、その過程こそが自分を深く成長させてくれるのだと思う。",
         "chunks": "忍耐を鍛える旅は / 終わりのないものかもしれないが / その過程こそが / 自分を深く成長させてくれるのだと思う",
         "guide": "は chủ đề → かもしれない = có lẽ (không chắc chắn) → が tương phản → ⚠️ こそ → 💡 こそ = chính là (nhấn mạnh đặc biệt) → 🔒 Đóng gói: [その過程こそ] = 'chính quá trình đó' → させてくれる = làm (cho tôi) — ân huệ từ bên ngoài → のだと思う = suy nghĩ, kết luận",
-        "translation": "Hành trình rèn luyện sự kiên nhẫn có thể không có hồi kết, nhưng tôi nghĩ chính quá trình đó mới là thứ giúp bản thân trưởng thành sâu sắc."
+        "translation": "Hành trình rèn luyện sự kiên nhẫn có thể không có hồi kết, nhưng tôi nghĩ chính quá trình đó mới là thứ giúp bản thân trưởng thành sâu sắc.",
+        "example_id": 80274003718
       }
     ],
     "comprehension": [
@@ -2313,25 +2593,30 @@
           {
             "text": "毎日長時間の瞑想と深呼吸をして、心を落ち着かせるようにしている。",
             "text_vi": "Thiền định và hít thở sâu nhiều giờ mỗi ngày để giữ tâm bình tĩnh.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003553
           },
           {
             "text": "あえて不快な状況に身を置き、退屈な時間を有意義に過ごすよう工夫している。",
             "text_vi": "Cố tình đặt mình vào tình huống khó chịu và khéo léo sử dụng thời gian nhàm chán một cách có ý nghĩa.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003554
           },
           {
             "text": "忍耐力の向上に特化した専門家のコーチングを定期的に受けている。",
             "text_vi": "Thường xuyên nhận huấn luyện từ chuyên gia chuyên về nâng cao sức chịu đựng.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003555
           },
           {
             "text": "日常生活の中で不便なことや不快なことをできるだけ避けるようにしている。",
             "text_vi": "Cố gắng tránh những điều bất tiện và khó chịu trong cuộc sống hàng ngày càng nhiều càng tốt.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003556
           }
         ],
-        "explanation": "Câu 3 nói 「あえて不快な状況に身を置くことで」và câu 5 nói 「退屈に感じる時間を有意義に過ごす工夫も助けになった」→ cả hai đều là phương pháp cụ thể mà tác giả thực hành. ⚠️ Bẫy: câu 4 đề cập đến việc rời khỏi chăn ấm chỉ là ví dụ (たとえば), không phải câu trả lời đầy đủ."
+        "explanation": "Câu 3 nói 「あえて不快な状況に身を置くことで」và câu 5 nói 「退屈に感じる時間を有意義に過ごす工夫も助けになった」→ cả hai đều là phương pháp cụ thể mà tác giả thực hành. ⚠️ Bẫy: câu 4 đề cập đến việc rời khỏi chăn ấm chỉ là ví dụ (たとえば), không phải câu trả lời đầy đủ.",
+        "question_id": 802720889
       },
       {
         "id": "R_0298_Q2",
@@ -2341,25 +2626,30 @@
           {
             "text": "苦痛を我慢するだけの行為だ。",
             "text_vi": "Chỉ là hành động nhẫn nhịn đau khổ.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003557
           },
           {
             "text": "弱さを克服するための特別な才能が必要だ。",
             "text_vi": "Cần có tài năng đặc biệt để vượt qua điểm yếu.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003558
           },
           {
             "text": "経験を自分の力へと変えるプロセスだ。",
             "text_vi": "Là quá trình biến trải nghiệm thành sức mạnh của bản thân.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003559
           },
           {
             "text": "短期的な目標を達成するための手段だ。",
             "text_vi": "Là phương tiện để đạt được mục tiêu ngắn hạn.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003560
           }
         ],
-        "explanation": "Câu 6 nói rõ 「困難に耐えることは苦痛を我慢することだけではなく、その経験を自分の力へと変えるプロセスだと学んだ」→ không chỉ nhẫn nhịn mà còn là quá trình biến đổi trải nghiệm. ⚠️ Bẫy: đáp án A chỉ nói được một nửa ý của câu (phần ではなく bị bỏ đi)."
+        "explanation": "Câu 6 nói rõ 「困難に耐えることは苦痛を我慢することだけではなく、その経験を自分の力へと変えるプロセスだと学んだ」→ không chỉ nhẫn nhịn mà còn là quá trình biến đổi trải nghiệm. ⚠️ Bẫy: đáp án A chỉ nói được một nửa ý của câu (phần ではなく bị bỏ đi).",
+        "question_id": 802720890
       },
       {
         "id": "R_0298_Q3",
@@ -2369,25 +2659,30 @@
           {
             "text": "落ち着いた判断ができるようになる。",
             "text_vi": "Có thể đưa ra những quyết định bình tĩnh hơn.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003561
           },
           {
             "text": "周囲からの信頼が増す。",
             "text_vi": "Sự tin tưởng từ những người xung quanh tăng lên.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003562
           },
           {
             "text": "すべての失敗を防げるようになる。",
             "text_vi": "Có thể ngăn ngừa tất cả các thất bại.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003563
           },
           {
             "text": "大きな精神的な強さが生まれる。",
             "text_vi": "Sức mạnh tinh thần lớn lao được hình thành.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003564
           }
         ],
-        "explanation": "Câu 12 đề cập đến 'phán đoán bình tĩnh' và 'tăng sự tin tưởng'. Câu 13 đề cập đến 'sức mạnh tinh thần lớn lao'. Nhưng không có câu nào nói về việc 'ngăn ngừa tất cả thất bại' — thực ra câu 14 còn thừa nhận bản thân vẫn chưa hoàn hảo. Đây là câu hỏi suy luận, cần đọc kỹ để tránh bẫy."
+        "explanation": "Câu 12 đề cập đến 'phán đoán bình tĩnh' và 'tăng sự tin tưởng'. Câu 13 đề cập đến 'sức mạnh tinh thần lớn lao'. Nhưng không có câu nào nói về việc 'ngăn ngừa tất cả thất bại' — thực ra câu 14 còn thừa nhận bản thân vẫn chưa hoàn hảo. Đây là câu hỏi suy luận, cần đọc kỹ để tránh bẫy.",
+        "question_id": 802720891
       },
       {
         "id": "R_0298_Q4",
@@ -2397,27 +2692,34 @@
           {
             "text": "できる限り逆境を避けるべきだ。",
             "text_vi": "Nên tránh nghịch cảnh càng nhiều càng tốt.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003565
           },
           {
             "text": "逆境は自分を高めるチャンスへと変えられる。",
             "text_vi": "Nghịch cảnh có thể được biến thành cơ hội để nâng cao bản thân.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003566
           },
           {
             "text": "逆境は才能のある人だけが乗り越えられる。",
             "text_vi": "Chỉ người có tài năng mới có thể vượt qua nghịch cảnh.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003567
           },
           {
             "text": "逆境は単なる試練であり、成長とは関係がない。",
             "text_vi": "Nghịch cảnh chỉ là thử thách đơn thuần và không liên quan đến sự trưởng thành.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003568
           }
         ],
-        "explanation": "Câu 11 nói 「逆境に置かれたとき、それを単なる試練ではなく自分を高めるチャンスへと変える視点が大切だ」→ quan điểm của tác giả là biến nghịch cảnh thành cơ hội nâng cao bản thân. ⚠️ Bẫy: đáp án D nói ngược lại ý tác giả (単なる試練 = chỉ là thử thách), nhưng câu 11 dùng ではなく để phủ định điều đó."
+        "explanation": "Câu 11 nói 「逆境に置かれたとき、それを単なる試練ではなく自分を高めるチャンスへと変える視点が大切だ」→ quan điểm của tác giả là biến nghịch cảnh thành cơ hội nâng cao bản thân. ⚠️ Bẫy: đáp án D nói ngược lại ý tác giả (単なる試練 = chỉ là thử thách), nhưng câu 11 dùng ではなく để phủ định điều đó.",
+        "question_id": 802720892
       }
-    ]
+    ],
+    "reading_passage_id": 802700298,
+    "question_set_id": 802710298
   },
   {
     "id": "R_0299",
@@ -2518,97 +2820,113 @@
         "sentence": "教室の中で習ったことと、実際の場面で役立つことの間には、思ったより大きな差があることに気づいたのは、社会人になってからだった。",
         "chunks": "教室の中で習ったことと / 実際の場面で役立つことの間には / 思ったより大きな差があることに気づいたのは / 社会人になってからだった",
         "guide": "🔒 Đóng gói: [教室の中で習ったこと] + [実際の場面で役立つこと] → の間には = 'giữa... và...' → 気づいたのは...だった → 💡 のは...だった = chính là lúc...mới nhận ra (nhấn mạnh thời điểm) → ⚠️ 社会人になってから = sau khi trở thành người đi làm (から = sau điểm mốc)",
-        "translation": "Tôi nhận ra rằng có khoảng cách lớn hơn tưởng tượng giữa những gì học được trong lớp và những gì thực sự hữu ích trong thực tế — và điều đó chỉ xảy ra sau khi tôi đi làm."
+        "translation": "Tôi nhận ra rằng có khoảng cách lớn hơn tưởng tượng giữa những gì học được trong lớp và những gì thực sự hữu ích trong thực tế — và điều đó chỉ xảy ra sau khi tôi đi làm.",
+        "example_id": 80274003719
       },
       {
         "sentence": "学校では理論や知識を学ぶが、それを現実の問題に当てはめるには別の力が必要だ。",
         "chunks": "学校では理論や知識を学ぶが / それを現実の問題に当てはめるには / 別の力が必要だ",
         "guide": "では → 💡 では = trong phạm vi đó (học ở trường) → が tương phản → ⚠️ には → 💡 には = để làm X (mục đích + điều kiện) → 🔒 Đóng gói: [それを現実の問題に当てはめること] = 'việc áp dụng điều đó vào vấn đề thực tế' → 別の力 = loại năng lực khác",
-        "translation": "Ở trường học lý thuyết và kiến thức, nhưng để áp dụng chúng vào vấn đề thực tế cần một loại năng lực khác."
+        "translation": "Ở trường học lý thuyết và kiến thức, nhưng để áp dụng chúng vào vấn đề thực tế cần một loại năng lực khác.",
+        "example_id": 80274003720
       },
       {
         "sentence": "実際の経験から得られる学びは、教科書には書かれていない生きた知識だ。",
         "chunks": "実際の経験から得られる学びは / 教科書には書かれていない生きた知識だ",
         "guide": "から得られる → 💡 から得る = thu được từ X (から chỉ nguồn gốc) → 🔒 Đóng gói: [実際の経験から得られる学び] = 'bài học thu được từ kinh nghiệm thực tế' → は chủ đề → ⚠️ 書かれていない → 書かれる (bị động) + いない = không được viết → 💡 生きた知識 = kiến thức sống động (ẩn dụ)",
-        "translation": "Những bài học thu được từ kinh nghiệm thực tế là kiến thức sống động không được viết trong sách giáo khoa."
+        "translation": "Những bài học thu được từ kinh nghiệm thực tế là kiến thức sống động không được viết trong sách giáo khoa.",
+        "example_id": 80274003721
       },
       {
         "sentence": "たとえば、職場でのコミュニケーションの取り方は、実際に人と接しながら少しずつ身につけていくものだ。",
         "chunks": "たとえば / 職場でのコミュニケーションの取り方は / 実際に人と接しながら / 少しずつ身につけていくものだ",
         "guide": "たとえば → dẫn ví dụ cụ thể → 🔒 Đóng gói: [職場でのコミュニケーションの取り方] = 'cách giao tiếp tại nơi làm việc' → ながら → 💡 ながら = vừa làm X vừa làm Y (đồng thời) → 💡 身につけていく = tích lũy dần dần (いく = tiếp diễn theo thời gian) → ものだ = đó là bản chất vốn vậy",
-        "translation": "Ví dụ, cách giao tiếp ở nơi làm việc là thứ được tích lũy dần dần trong khi thực sự tiếp xúc với người khác."
+        "translation": "Ví dụ, cách giao tiếp ở nơi làm việc là thứ được tích lũy dần dần trong khi thực sự tiếp xúc với người khác.",
+        "example_id": 80274003722
       },
       {
         "sentence": "失敗を恐れず試みることで、自分の弱点を発見し、それを改善するきっかけを得ることができる。",
         "chunks": "失敗を恐れず試みることで / 自分の弱点を発見し / それを改善するきっかけを / 得ることができる",
         "guide": "恐れず → ずに thể rút gọn = không sợ → ことで → 💡 ことで = bằng cách làm X → 🔒 Đóng gói: [失敗を恐れず試みること] = 'việc không ngại thất bại mà thử nghiệm' → きっかけを得る → 💡 きっかけ = cơ hội, dịp, chất xúc tác → を得る = có được",
-        "translation": "Bằng cách không ngại thất bại mà thử nghiệm, ta có thể khám phá điểm yếu của mình và tìm được cơ hội cải thiện nó."
+        "translation": "Bằng cách không ngại thất bại mà thử nghiệm, ta có thể khám phá điểm yếu của mình và tìm được cơ hội cải thiện nó.",
+        "example_id": 80274003723
       },
       {
         "sentence": "経験から得た教訓を次の行動に生かすことで、同じ失敗を繰り返さずに済む。",
         "chunks": "経験から得た教訓を / 次の行動に生かすことで / 同じ失敗を繰り返さずに済む",
         "guide": "から得た → 💡 から得る = thu được từ X → 🔒 Đóng gói: [経験から得た教訓] = 'bài học rút ra từ kinh nghiệm' → に生かす → 💡 に生かす = đem áp dụng vào X, phát huy vào X (に chỉ đích đến của việc áp dụng) → ⚠️ 繰り返さずに済む → ずに済む = có thể không làm X (tránh được)",
-        "translation": "Bằng cách đem những bài học rút ra từ kinh nghiệm áp dụng vào hành động tiếp theo, ta có thể tránh lặp lại cùng một sai lầm."
+        "translation": "Bằng cách đem những bài học rút ra từ kinh nghiệm áp dụng vào hành động tiếp theo, ta có thể tránh lặp lại cùng một sai lầm.",
+        "example_id": 80274003724
       },
       {
         "sentence": "また、困難な状況を乗り越えることで、問題解決能力が自然と養われていく。",
         "chunks": "また / 困難な状況を乗り越えることで / 問題解決能力が自然と / 養われていく",
         "guide": "また → thêm vào điểm tiếp theo → 🔒 Đóng gói: [困難な状況を乗り越えること] = 'việc vượt qua tình huống khó khăn' → ことで = bằng cách đó → ⚠️ 養われていく → 養われる = được nuôi dưỡng (bị động) + いく = dần dần theo thời gian → 💡 自然と = tự nhiên, không cưỡng ép",
-        "translation": "Ngoài ra, bằng cách vượt qua những tình huống khó khăn, năng lực giải quyết vấn đề tự nhiên được nuôi dưỡng."
+        "translation": "Ngoài ra, bằng cách vượt qua những tình huống khó khăn, năng lực giải quyết vấn đề tự nhiên được nuôi dưỡng.",
+        "example_id": 80274003725
       },
       {
         "sentence": "理論だけを学んでいても、実践の場でどう動けばよいかがわからないことは多い。",
         "chunks": "理論だけを学んでいても / 実践の場でどう動けばよいかが / わからないことは多い",
         "guide": "だけを → 💡 だけ = chỉ (giới hạn) → ていても → ても = dù cho, ngay cả khi → 🔒 Đóng gói: [実践の場でどう動けばよいか] = 'phải hành động như thế nào trong thực tiễn' → が chủ ngữ của わからない → 💡 わからないことは多い = có nhiều điều không biết",
-        "translation": "Chỉ học lý thuyết, thường sẽ không biết phải hành động như thế nào trong thực tiễn."
+        "translation": "Chỉ học lý thuyết, thường sẽ không biết phải hành động như thế nào trong thực tiễn.",
+        "example_id": 80274003726
       },
       {
         "sentence": "一方、経験だけに頼ることも危険で、理論的な裏付けがあってこそ経験は深まる。",
         "chunks": "一方 / 経験だけに頼ることも危険で / 理論的な裏付けがあってこそ / 経験は深まる",
         "guide": "一方 → 💡 一方 = mặt khác (chuyển sang góc nhìn đối lập) → だけに頼る = chỉ dựa vào → ⚠️ あってこそ → 💡 てこそ = chính nhờ có... mới (nhấn mạnh điều kiện không thể thiếu) → 🔒 Đóng gói: [理論的な裏付けがあってこそ] = 'chính nhờ có nền tảng lý thuyết mới'",
-        "translation": "Mặt khác, chỉ dựa vào kinh nghiệm cũng nguy hiểm, và chính nhờ có nền tảng lý thuyết mà kinh nghiệm mới được làm sâu sắc thêm."
+        "translation": "Mặt khác, chỉ dựa vào kinh nghiệm cũng nguy hiểm, và chính nhờ có nền tảng lý thuyết mà kinh nghiệm mới được làm sâu sắc thêm.",
+        "example_id": 80274003727
       },
       {
         "sentence": "したがって、理論と実践を組み合わせながら学ぶことが、最も効果的な方法だと言える。",
         "chunks": "したがって / 理論と実践を組み合わせながら学ぶことが / 最も効果的な方法だと言える",
         "guide": "したがって → 💡 したがって = vì vậy, do đó (kết luận logic) → と liệt kê đầy đủ (lý thuyết VÀ thực hành, thiếu một cái cũng không xong) → ながら → vừa kết hợp vừa học → 🔒 Đóng gói: [理論と実践を組み合わせながら学ぶこと] = 'việc học bằng cách kết hợp lý thuyết và thực hành' → と言える = có thể nói rằng",
-        "translation": "Vì vậy, có thể nói rằng học bằng cách kết hợp lý thuyết và thực hành là phương pháp hiệu quả nhất."
+        "translation": "Vì vậy, có thể nói rằng học bằng cách kết hợp lý thuyết và thực hành là phương pháp hiệu quả nhất.",
+        "example_id": 80274003728
       },
       {
         "sentence": "私自身も、仕事をしながら学び、学びながら仕事をするというサイクルの中で成長してきた。",
         "chunks": "私自身も / 仕事をしながら学び / 学びながら仕事をするというサイクルの中で / 成長してきた",
         "guide": "自身も → 'bản thân mình cũng' (tự chỉ) → ながら liên tiếp 2 lần → 💡 対句 (đối ngẫu): 仕事しながら学び ↔ 学びながら仕事 → 🔒 Đóng gói: [仕事をしながら学び、学びながら仕事をするというサイクル] = 'vòng tuần hoàn vừa làm vừa học, vừa học vừa làm' → てきた = đã (tiếp tục đến hiện tại)",
-        "translation": "Bản thân tôi cũng đã trưởng thành trong vòng tuần hoàn vừa làm vừa học, vừa học vừa làm."
+        "translation": "Bản thân tôi cũng đã trưởng thành trong vòng tuần hoàn vừa làm vừa học, vừa học vừa làm.",
+        "example_id": 80274003729
       },
       {
         "sentence": "最初は慣れないことばかりで戸惑ったが、繰り返すうちに自然と体が覚えていった。",
         "chunks": "最初は慣れないことばかりで戸惑ったが / 繰り返すうちに / 自然と体が覚えていった",
         "guide": "最初は → tương phản với hiện tại → ばかりで → 💡 ばかり = toàn là, chỉ toàn → が tương phản → うちに → 💡 うちに = trong khoảng thời gian đó → 🔒 Đóng gói: [繰り返すうちに] = 'trong khi lặp đi lặp lại' → 💡 体が覚えていった = cơ thể dần dần ghi nhớ (cơ thể tự học, không phải ý thức)",
-        "translation": "Ban đầu toàn là những thứ không quen, tôi bị bối rối, nhưng qua nhiều lần lặp lại, cơ thể tự nhiên ghi nhớ."
+        "translation": "Ban đầu toàn là những thứ không quen, tôi bị bối rối, nhưng qua nhiều lần lặp lại, cơ thể tự nhiên ghi nhớ.",
+        "example_id": 80274003730
       },
       {
         "sentence": "経験から得たものは記憶に残りやすく、長期的な学びとして定着しやすいという特徴がある。",
         "chunks": "経験から得たものは / 記憶に残りやすく / 長期的な学びとして定着しやすいという / 特徴がある",
         "guide": "から得たもの → từ kinh nghiệm mà thu được → は chủ đề → 💡 やすい = dễ làm X (tiếp vĩ ngữ nối với mạch căn từ) → 🔒 Đóng gói: [長期的な学びとして定着しやすい] = 'dễ định hình thành bài học dài hạn' → という → 💡 という = mang nội dung (nối mệnh đề với danh từ) → 特徴がある = có đặc điểm",
-        "translation": "Những gì thu được từ kinh nghiệm có đặc điểm là dễ lưu lại trong ký ức và dễ định hình thành bài học dài hạn."
+        "translation": "Những gì thu được từ kinh nghiệm có đặc điểm là dễ lưu lại trong ký ức và dễ định hình thành bài học dài hạn.",
+        "example_id": 80274003731
       },
       {
         "sentence": "近年は「リスキリング」や「学び直し」が注目され、社会人が新たなスキルを身につける機会も広がっている。",
         "chunks": "近年は「リスキリング」や「学び直し」が注目され / 社会人が新たなスキルを身につける機会も / 広がっている",
         "guide": "近年は → 'gần đây' (chỉ xu hướng hiện đại) → 🔒 Đóng gói: [「リスキリング」や「学び直し」] = 'reskilling và học lại' — リスキリング = học kỹ năng mới để thích nghi, 学び直し = học lại những gì đã học → が注目され → 注目される = được chú ý (bị động) → ⚠️ 社会人 = người đang đi làm (phân biệt với 学生) → 新たな = mới (trang trọng hơn 新しい) → 広がっている = đang mở rộng (tiến hành)",
-        "translation": "Gần đây, 'reskilling' (đào tạo lại kỹ năng) và 'học lại' đang được chú ý, và cơ hội để người đi làm tích lũy kỹ năng mới cũng đang mở rộng."
+        "translation": "Gần đây, 'reskilling' (đào tạo lại kỹ năng) và 'học lại' đang được chú ý, và cơ hội để người đi làm tích lũy kỹ năng mới cũng đang mở rộng.",
+        "example_id": 80274003732
       },
       {
         "sentence": "こうした実践的な学びを大切にすることで、単なる知識ではなく、本当の意味での実力を身につけることができる。",
         "chunks": "こうした実践的な学びを大切にすることで / 単なる知識ではなく / 本当の意味での実力を / 身につけることができる",
         "guide": "こうした → 'như vậy, như đã nói' → を大切にする = trân trọng, coi trọng X → ことで = bằng cách → ではなく = không phải là... mà → 🔒 Đóng gói: [本当の意味での実力] = 'thực lực theo đúng nghĩa thực sự' → 💡 身につける = tích lũy vào bản thân (để dùng được, khác với 覚える = nhớ)",
-        "translation": "Bằng cách trân trọng những bài học thực tiễn như vậy, ta có thể tích lũy được thực lực thực sự chứ không chỉ là kiến thức suông."
+        "translation": "Bằng cách trân trọng những bài học thực tiễn như vậy, ta có thể tích lũy được thực lực thực sự chứ không chỉ là kiến thức suông.",
+        "example_id": 80274003733
       },
       {
         "sentence": "どんな小さな経験も無駄にせず、そこから何かを学ぼうとする姿勢こそが、真の学習者の条件だと信じている。",
         "chunks": "どんな小さな経験も無駄にせず / そこから何かを学ぼうとする姿勢こそが / 真の学習者の条件だと信じている",
         "guide": "どんな～も → 💡 どんな～も = dù... đến đâu cũng (bao quát tất cả) → ずに = không lãng phí → 🔒 Đóng gói: [そこから何かを学ぼうとする姿勢] = 'thái độ luôn cố gắng học điều gì đó từ đó' → こそが → ⚠️ こそ nhấn mạnh: chính điều đó mới là → 💡 真の = thực sự, chân chính",
-        "translation": "Tôi tin rằng thái độ không lãng phí bất kỳ trải nghiệm nhỏ nào và luôn cố gắng học điều gì đó từ đó chính là điều kiện của một người học thực sự."
+        "translation": "Tôi tin rằng thái độ không lãng phí bất kỳ trải nghiệm nhỏ nào và luôn cố gắng học điều gì đó từ đó chính là điều kiện của một người học thực sự.",
+        "example_id": 80274003734
       }
     ],
     "comprehension": [
@@ -2620,25 +2938,30 @@
           {
             "text": "試験や資格取得には教室の知識のほうが実践より役立つ。",
             "text_vi": "Kiến thức học trong lớp hữu ích hơn thực hành khi thi cử và lấy chứng chỉ.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003569
           },
           {
             "text": "経験から得る知識は教科書に書かれていない生きた知識だ。",
             "text_vi": "Kiến thức từ kinh nghiệm là kiến thức sống động không có trong sách giáo khoa.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003570
           },
           {
             "text": "場面によって異なるが、どちらも同じくらい役に立つ。",
             "text_vi": "Tùy tình huống nhưng cả hai đều hữu ích như nhau.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003571
           },
           {
             "text": "教室での学習は繰り返しが多いため、知識が記憶に残りやすい。",
             "text_vi": "Vì học trong lớp có nhiều lần lặp lại nên kiến thức dễ lưu lại trong ký ức.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003572
           }
         ],
-        "explanation": "Câu 3 nói 「実際の経験から得られる学びは、教科書には書かれていない生きた知識だ」→ từ khóa là 生きた知識 (kiến thức sống động) và 書かれていない (không được viết). ⚠️ Bẫy: câu 13 nói kinh nghiệm dễ nhớ, nhưng đó là đặc điểm của kiến thức từ kinh nghiệm, không phải của kiến thức từ sách."
+        "explanation": "Câu 3 nói 「実際の経験から得られる学びは、教科書には書かれていない生きた知識だ」→ từ khóa là 生きた知識 (kiến thức sống động) và 書かれていない (không được viết). ⚠️ Bẫy: câu 13 nói kinh nghiệm dễ nhớ, nhưng đó là đặc điểm của kiến thức từ kinh nghiệm, không phải của kiến thức từ sách.",
+        "question_id": 802720893
       },
       {
         "id": "R_0299_Q2",
@@ -2648,25 +2971,30 @@
           {
             "text": "経験は授業より楽しいので、集中力が高まるから。",
             "text_vi": "Vì kinh nghiệm thú vị hơn bài học nên sự tập trung tăng cao.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003573
           },
           {
             "text": "経験は記憶に残りやすく、失敗や試みを通じて実際の行動力が養われるから。",
             "text_vi": "Vì kinh nghiệm dễ lưu lại trong ký ức và năng lực hành động thực tế được nuôi dưỡng qua thất bại và thử nghiệm.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003574
           },
           {
             "text": "教室での学びは内容が難しすぎて理解できないことが多いから。",
             "text_vi": "Vì nội dung học trong lớp thường quá khó để hiểu.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003575
           },
           {
             "text": "経験は短時間で多くの知識を得られるから。",
             "text_vi": "Vì kinh nghiệm giúp thu được nhiều kiến thức trong thời gian ngắn.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003576
           }
         ],
-        "explanation": "Câu 13 nói 「経験から得たものは記憶に残りやすく、長期的な学びとして定着しやすい」→ dễ nhớ. Câu 5-6 nói trải nghiệm thất bại và thử nghiệm giúp phát hiện điểm yếu và tránh lặp lại sai lầm → năng lực hành động thực tế. Cả hai lý do này giải thích tại sao kinh nghiệm giúp bài học được tích lũy sâu hơn."
+        "explanation": "Câu 13 nói 「経験から得たものは記憶に残りやすく、長期的な学びとして定着しやすい」→ dễ nhớ. Câu 5-6 nói trải nghiệm thất bại và thử nghiệm giúp phát hiện điểm yếu và tránh lặp lại sai lầm → năng lực hành động thực tế. Cả hai lý do này giải thích tại sao kinh nghiệm giúp bài học được tích lũy sâu hơn.",
+        "question_id": 802720894
       },
       {
         "id": "R_0299_Q3",
@@ -2676,25 +3004,30 @@
           {
             "text": "理論のほうが大切で、経験は補助的なものだと考えている",
             "text_vi": "Cho rằng lý thuyết quan trọng hơn và kinh nghiệm chỉ là bổ trợ",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003577
           },
           {
             "text": "理論と経験を対等に組み合わせることを重視しているが、経験の具体的な価値をより詳しく語っている",
             "text_vi": "Coi trọng việc kết hợp lý thuyết và kinh nghiệm ngang nhau, nhưng nói chi tiết hơn về giá trị cụ thể của kinh nghiệm",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003578
           },
           {
             "text": "経験だけがすべてで、理論は学ぶ必要がないと伝えている",
             "text_vi": "Truyền đạt rằng chỉ kinh nghiệm là tất cả và không cần học lý thuyết",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003579
           },
           {
             "text": "どちらも大切ではなく、専門家に学ぶことが最善だと考えている",
             "text_vi": "Cho rằng cả hai đều không quan trọng và học từ chuyên gia là tốt nhất",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003580
           }
         ],
-        "explanation": "Bài viết nêu cả lý thuyết lẫn kinh nghiệm đều cần thiết (câu 10), nhưng xét về dung lượng và chi tiết: câu 3-7 mô tả nhiều lợi ích cụ thể của kinh nghiệm (生きた知識, 弱点発見, 問題解決能力...), câu 12-13 chia sẻ kinh nghiệm cá nhân về rèn luyện qua thực tế. Trong khi lý thuyết chỉ được đề cập gián tiếp qua 裏付け. Có thể suy ra tác giả ủng hộ cả hai nhưng dành nhiều sự chú ý hơn cho giá trị của kinh nghiệm."
+        "explanation": "Bài viết nêu cả lý thuyết lẫn kinh nghiệm đều cần thiết (câu 10), nhưng xét về dung lượng và chi tiết: câu 3-7 mô tả nhiều lợi ích cụ thể của kinh nghiệm (生きた知識, 弱点発見, 問題解決能力...), câu 12-13 chia sẻ kinh nghiệm cá nhân về rèn luyện qua thực tế. Trong khi lý thuyết chỉ được đề cập gián tiếp qua 裏付け. Có thể suy ra tác giả ủng hộ cả hai nhưng dành nhiều sự chú ý hơn cho giá trị của kinh nghiệm.",
+        "question_id": 802720895
       },
       {
         "id": "R_0299_Q4",
@@ -2704,27 +3037,34 @@
           {
             "text": "幅広いジャンルの本を多く読んで、理論的な知識を積み上げること。",
             "text_vi": "Đọc nhiều sách đa dạng thể loại để tích lũy kiến thức lý thuyết.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003581
           },
           {
             "text": "実績を証明するために専門的な資格や学位を積極的に取得すること。",
             "text_vi": "Tích cực đạt được các chứng chỉ và bằng cấp chuyên môn để chứng minh năng lực.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003582
           },
           {
             "text": "どんな小さな経験も無駄にせず、そこから何かを学ぼうとする姿勢を持つこと。",
             "text_vi": "Có thái độ không lãng phí bất kỳ trải nghiệm nhỏ nào và luôn cố gắng học điều gì đó từ đó.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003583
           },
           {
             "text": "自分が尊敬する優秀な教師や専門家から直接指導を受け続けること。",
             "text_vi": "Tiếp tục nhận hướng dẫn trực tiếp từ giáo viên giỏi và chuyên gia mà mình tôn trọng.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003584
           }
         ],
-        "explanation": "Câu cuối (câu 15) nói 「どんな小さな経験も無駄にせず、そこから何かを学ぼうとする姿勢こそが、真の学習者の条件だと信じている」→ こそが nhấn mạnh chính điều này mới là điều kiện. ⚠️ Bẫy: bài viết nói đến sách và giáo viên trong văn cảnh khác, không phải là điều kiện của người học thực sự."
+        "explanation": "Câu cuối (câu 15) nói 「どんな小さな経験も無駄にせず、そこから何かを学ぼうとする姿勢こそが、真の学習者の条件だと信じている」→ こそが nhấn mạnh chính điều này mới là điều kiện. ⚠️ Bẫy: bài viết nói đến sách và giáo viên trong văn cảnh khác, không phải là điều kiện của người học thực sự.",
+        "question_id": 802720896
       }
-    ]
+    ],
+    "reading_passage_id": 802700299,
+    "question_set_id": 802710299
   },
   {
     "id": "R_0300",
@@ -2825,97 +3165,113 @@
         "sentence": "ジェンダー平等とは、男女が同じ権利と機会を持ち、お互いを尊重しながら共に生きる社会を実現することだ。",
         "chunks": "ジェンダー平等とは / 男女が同じ権利と機会を持ち / お互いを尊重しながら共に生きる社会を / 実現することだ",
         "guide": "とは → 💡 とは = định nghĩa, có nghĩa là (giới thiệu khái niệm) → 🔒 Đóng gói: [男女が同じ権利と機会を持ち、お互いを尊重しながら共に生きる社会] = 'xã hội mà nam nữ có quyền và cơ hội như nhau, cùng tôn trọng nhau và sống cùng nhau' → を実現する = thực hiện X (を đối tượng)",
-        "translation": "Bình đẳng giới là việc thực hiện một xã hội mà nam và nữ có quyền và cơ hội như nhau, cùng tôn trọng nhau và sống cùng nhau."
+        "translation": "Bình đẳng giới là việc thực hiện một xã hội mà nam và nữ có quyền và cơ hội như nhau, cùng tôn trọng nhau và sống cùng nhau.",
+        "example_id": 80274003735
       },
       {
         "sentence": "しかし、真の意味でのジェンダー平等を実現するためには、長い時間と社会全体の努力が必要だ。",
         "chunks": "しかし / 真の意味でのジェンダー平等を実現するためには / 長い時間と社会全体の努力が / 必要だ",
         "guide": "しかし → chuyển ý tương phản (lý tưởng ↔ thực tế) → ためには → 💡 ためには = để làm X thì cần (chỉ điều kiện cho mục đích) → 🔒 Đóng gói: [真の意味でのジェンダー平等を実現すること] = 'việc thực hiện bình đẳng giới theo đúng nghĩa' → が必要だ = cần thiết",
-        "translation": "Tuy nhiên, để thực hiện bình đẳng giới theo đúng nghĩa, cần có nhiều thời gian và nỗ lực của toàn xã hội."
+        "translation": "Tuy nhiên, để thực hiện bình đẳng giới theo đúng nghĩa, cần có nhiều thời gian và nỗ lực của toàn xã hội.",
+        "example_id": 80274003736
       },
       {
         "sentence": "日本でも職場や家庭において、まだ多くの不平等が残っているという現実がある。",
         "chunks": "日本でも / 職場や家庭において / まだ多くの不平等が残っているという / 現実がある",
         "guide": "でも → 'ngay cả ở Nhật' → において → 💡 において = trong lĩnh vực, trong phạm vi (formal) → や liệt kê không đầy đủ → 🔒 Đóng gói: [まだ多くの不平等が残っているという現実] = 'thực tế rằng vẫn còn nhiều bất bình đẳng' → ⚠️ という → nối mệnh đề với danh từ hiện実",
-        "translation": "Ở Nhật Bản cũng có thực tế là vẫn còn nhiều bất bình đẳng tại nơi làm việc và trong gia đình."
+        "translation": "Ở Nhật Bản cũng có thực tế là vẫn còn nhiều bất bình đẳng tại nơi làm việc và trong gia đình.",
+        "example_id": 80274003737
       },
       {
         "sentence": "たとえば、管理職に占める女性の割合は依然として低く、育児や家事の負担が女性に偏っているという問題が指摘されている。",
         "chunks": "たとえば / 管理職に占める女性の割合は依然として低く / 育児や家事の負担が女性に偏っているという問題が / 指摘されている",
         "guide": "たとえば → dẫn ví dụ cụ thể → 🔒 Đóng gói: [管理職に占める女性の割合] = 'tỷ lệ phụ nữ chiếm trong các vị trí quản lý' → 依然として → 💡 依然として = vẫn như cũ, vẫn còn → ⚠️ 偏っている = đang thiên lệch (trạng thái) → 指摘されている = đang được chỉ ra (bị động liên tục)",
-        "translation": "Ví dụ, tỷ lệ phụ nữ trong các vị trí quản lý vẫn còn thấp, và vấn đề gánh nặng chăm sóc con cái và việc nhà thiên về phụ nữ đang được chỉ ra."
+        "translation": "Ví dụ, tỷ lệ phụ nữ trong các vị trí quản lý vẫn còn thấp, và vấn đề gánh nặng chăm sóc con cái và việc nhà thiên về phụ nữ đang được chỉ ra.",
+        "example_id": 80274003738
       },
       {
         "sentence": "こうした現状を変えるために、法律や制度の整備だけでなく、人々の意識そのものを変えることが求められる。",
         "chunks": "こうした現状を変えるために / 法律や制度の整備だけでなく / 人々の意識そのものを変えることが / 求められる",
         "guide": "ために → mục đích: để thay đổi → だけでなく = không chỉ...mà còn → 🔒 Đóng gói: [人々の意識そのものを変えること] = 'việc thay đổi chính ý thức của người dân' → ⚠️ が求められる → 💡 が求められる = được đòi hỏi, được yêu cầu (bị động + hàm ý xã hội cần thiết)",
-        "translation": "Để thay đổi hiện trạng này, không chỉ cần xây dựng pháp luật và chế độ, mà còn cần thay đổi chính ý thức của người dân."
+        "translation": "Để thay đổi hiện trạng này, không chỉ cần xây dựng pháp luật và chế độ, mà còn cần thay đổi chính ý thức của người dân.",
+        "example_id": 80274003739
       },
       {
         "sentence": "意識の変化は一朝一夕には起きないが、教育や日常的な対話によって少しずつ進めることができる。",
         "chunks": "意識の変化は一朝一夕には起きないが / 教育や日常的な対話によって / 少しずつ進めることができる",
         "guide": "一朝一夕には → 💡 一朝一夕 = thành ngữ: chỉ sau một sớm một chiều → には nhấn mạnh phạm vi phủ định → が tương phản → によって → 💡 によって = thông qua, nhờ vào (phương tiện) → 🔒 Đóng gói: [教育や日常的な対話によって] = 'thông qua giáo dục và đối thoại hàng ngày'",
-        "translation": "Sự thay đổi trong nhận thức không xảy ra chỉ sau một sớm một chiều, nhưng có thể tiến hành dần dần thông qua giáo dục và đối thoại hàng ngày."
+        "translation": "Sự thay đổi trong nhận thức không xảy ra chỉ sau một sớm một chiều, nhưng có thể tiến hành dần dần thông qua giáo dục và đối thoại hàng ngày.",
+        "example_id": 80274003740
       },
       {
         "sentence": "特に、次の世代を担う子どもたちに対して、性別に関係なく夢を持ち挑戦できるという価値観を伝えることが重要だ。",
         "chunks": "特に / 次の世代を担う子どもたちに対して / 性別に関係なく夢を持ち挑戦できるという価値観を / 伝えることが重要だ",
         "guide": "特に → nhấn mạnh điểm quan trọng đặc biệt → 🔒 Đóng gói: [次の世代を担う子どもたち] = 'trẻ em gánh vác thế hệ tiếp theo' → に対して → 💡 に対して = đối với (đối tượng nhận hành động) → ⚠️ 関係なく = bất kể, không liên quan đến → という価値観 → giá trị quan rằng...",
-        "translation": "Đặc biệt, quan trọng là truyền đạt cho trẻ em — thế hệ gánh vác tương lai — giá trị rằng bất kể giới tính, ai cũng có thể có ước mơ và thử thách."
+        "translation": "Đặc biệt, quan trọng là truyền đạt cho trẻ em — thế hệ gánh vác tương lai — giá trị rằng bất kể giới tính, ai cũng có thể có ước mơ và thử thách.",
+        "example_id": 80274003741
       },
       {
         "sentence": "職場においても、育児休暇の取得促進や柔軟な働き方の導入によって、男女が共に仕事と家庭を両立できる環境を整えることが必要だ。",
         "chunks": "職場においても / 育児休暇の取得促進や柔軟な働き方の導入によって / 男女が共に仕事と家庭を両立できる環境を / 整えることが必要だ",
         "guide": "においても = trong phạm vi đó cũng → 🔒 Đóng gói: [育児休暇の取得促進や柔軟な働き方の導入] = 'việc thúc đẩy nghỉ phép nuôi con và áp dụng cách làm việc linh hoạt' → によって → phương tiện → 🔒 Đóng gói: [男女が共に仕事と家庭を両立できる環境] = 'môi trường để nam nữ cùng cân bằng công việc và gia đình' → 整える = xây dựng, sắp xếp",
-        "translation": "Tại nơi làm việc, cũng cần tạo môi trường để nam và nữ cùng có thể cân bằng công việc và gia đình, thông qua việc thúc đẩy nghỉ phép nuôi con và áp dụng cách làm việc linh hoạt."
+        "translation": "Tại nơi làm việc, cũng cần tạo môi trường để nam và nữ cùng có thể cân bằng công việc và gia đình, thông qua việc thúc đẩy nghỉ phép nuôi con và áp dụng cách làm việc linh hoạt.",
+        "example_id": 80274003742
       },
       {
         "sentence": "2024年の男性育休取得率は約4割に達し、2023年には「LGBT理解増進法」も成立するなど、制度面での前進も見られる。",
         "chunks": "2024年の男性育休取得率は約4割に達し / 2023年には「LGBT理解増進法」も成立するなど / 制度面での前進も見られる",
         "guide": "🔒 Đóng gói: [男性育休取得率] = 'tỷ lệ nam giới nghỉ phép nuôi con' → 約4割 → 💡 割 = phần mười (4割 ≈ 40%) → に達し → に達する = đạt đến mức X → ⚠️ LGBT理解増進法 = Luật xúc tiến hiểu biết về LGBT (2023年成立) → も成立するなど → など = liệt kê ví dụ không đầy đủ → 💡 制度面 = mặt chế độ, về phương diện thể chế → 前進が見られる = có thể thấy sự tiến bộ",
-        "translation": "Tỷ lệ nam giới nghỉ phép nuôi con năm 2024 đạt khoảng 40%, và vào năm 2023 'Luật xúc tiến hiểu biết về LGBT' cũng được thông qua, cho thấy những tiến bộ về mặt chế độ."
+        "translation": "Tỷ lệ nam giới nghỉ phép nuôi con năm 2024 đạt khoảng 40%, và vào năm 2023 'Luật xúc tiến hiểu biết về LGBT' cũng được thông qua, cho thấy những tiến bộ về mặt chế độ.",
+        "example_id": 80274003743
       },
       {
         "sentence": "また、メディアが描く男女の役割に関するイメージも、人々の意識に大きな影響を与えるため、その表現には注意が必要だ。",
         "chunks": "また / メディアが描く男女の役割に関するイメージも / 人々の意識に大きな影響を与えるため / その表現には注意が必要だ",
         "guide": "また → thêm điểm tiếp theo → 🔒 Đóng gói: [メディアが描く男女の役割に関するイメージ] = 'hình ảnh về vai trò nam nữ mà truyền thông khắc họa' → も = cũng (cộng thêm yếu tố nữa) → ため → 💡 ため = vì, do đó (nguyên nhân lý giải) → ⚠️ には注意が必要 = cần chú ý (には nhấn mạnh phạm vi cần chú ý)",
-        "translation": "Ngoài ra, vì hình ảnh về vai trò của nam nữ mà truyền thông khắc họa cũng ảnh hưởng lớn đến nhận thức của người dân, nên cần chú ý đến cách biểu đạt đó."
+        "translation": "Ngoài ra, vì hình ảnh về vai trò của nam nữ mà truyền thông khắc họa cũng ảnh hưởng lớn đến nhận thức của người dân, nên cần chú ý đến cách biểu đạt đó.",
+        "example_id": 80274003744
       },
       {
         "sentence": "ジェンダー平等は女性だけのための問題ではなく、社会全体が豊かになるための課題だという認識が広まってきている。",
         "chunks": "ジェンダー平等は / 女性だけのための問題ではなく / 社会全体が豊かになるための課題だという / 認識が広まってきている",
         "guide": "は chủ đề → だけのための = chỉ dành cho → ではなく = không phải...mà → 🔒 Đóng gói: [社会全体が豊かになるための課題] = 'thách thức để toàn xã hội trở nên phong phú' → という認識 → nhận thức rằng... → 💡 広まってきている = đang dần lan rộng (tiếp diễn đến hiện tại)",
-        "translation": "Nhận thức rằng bình đẳng giới không chỉ là vấn đề của phụ nữ mà là thách thức để toàn xã hội trở nên phong phú hơn đang dần lan rộng."
+        "translation": "Nhận thức rằng bình đẳng giới không chỉ là vấn đề của phụ nữ mà là thách thức để toàn xã hội trở nên phong phú hơn đang dần lan rộng.",
+        "example_id": 80274003745
       },
       {
         "sentence": "男性もまた、固定化された性別役割から解放されることで、より自由に自分らしい生き方を選べるようになる。",
         "chunks": "男性もまた / 固定化された性別役割から解放されることで / より自由に自分らしい生き方を / 選べるようになる",
         "guide": "もまた → 💡 もまた = cũng vậy, cũng thế (nhấn mạnh thêm đối tượng) → 🔒 Đóng gói: [固定化された性別役割から解放されること] = 'việc được giải phóng khỏi các vai trò giới tính cố định' → ことで = bằng cách → 💡 自分らしい = theo cách của chính mình → ようになる = trở nên có thể",
-        "translation": "Nam giới cũng, khi được giải phóng khỏi các vai trò giới tính cố định, sẽ có thể tự do hơn trong việc chọn lối sống theo cách của chính mình."
+        "translation": "Nam giới cũng, khi được giải phóng khỏi các vai trò giới tính cố định, sẽ có thể tự do hơn trong việc chọn lối sống theo cách của chính mình.",
+        "example_id": 80274003746
       },
       {
         "sentence": "一人ひとりが日常の小さな行動から変わることが、社会全体の変化へとつながっていく。",
         "chunks": "一人ひとりが日常の小さな行動から変わることが / 社会全体の変化へと / つながっていく",
         "guide": "一人ひとりが → 💡 一人ひとり = từng người, mỗi cá nhân → 🔒 Đóng gói: [一人ひとりが日常の小さな行動から変わること] = 'việc từng người thay đổi từ những hành động nhỏ hàng ngày' → ⚠️ へとつながる → へと nhấn mạnh hướng kết nối → つながっていく = dẫn đến, lan rộng ra (いく = tiếp diễn)",
-        "translation": "Việc từng người thay đổi từ những hành động nhỏ hàng ngày sẽ dẫn đến sự thay đổi của toàn xã hội."
+        "translation": "Việc từng người thay đổi từ những hành động nhỏ hàng ngày sẽ dẫn đến sự thay đổi của toàn xã hội.",
+        "example_id": 80274003747
       },
       {
         "sentence": "ジェンダー平等を実現するための具体的な行動が、あらゆる立場の人から求められている。",
         "chunks": "ジェンダー平等を実現するための / 具体的な行動が / あらゆる立場の人から / 求められている",
         "guide": "を実現するための → 💡 ための = dành để, nhằm mục đích → 🔒 Đóng gói: [ジェンダー平等を実現するための具体的な行動] = 'hành động cụ thể nhằm thực hiện bình đẳng giới' → が chủ ngữ → あらゆる → 💡 あらゆる = tất cả mọi, mọi loại → ⚠️ から求められている = đang được đòi hỏi từ (から chỉ nguồn gốc + bị động liên tục)",
-        "translation": "Hành động cụ thể để thực hiện bình đẳng giới đang được đòi hỏi từ người ở mọi vị trí."
+        "translation": "Hành động cụ thể để thực hiện bình đẳng giới đang được đòi hỏi từ người ở mọi vị trí.",
+        "example_id": 80274003748
       },
       {
         "sentence": "変化は決して簡単ではないが、諦めずに対話を続け、行動を積み重ねることが変革への道だ。",
         "chunks": "変化は決して簡単ではないが / 諦めずに対話を続け / 行動を積み重ねることが / 変革への道だ",
         "guide": "決して～ない → 💡 決して～ない = tuyệt đối không, nhất định không (nhấn mạnh phủ định) → が tương phản → 諦めずに → ずに = không bỏ cuộc mà → 🔒 Đóng gói: [諦めずに対話を続け、行動を積み重ねること] = 'việc tiếp tục đối thoại và tích lũy hành động mà không bỏ cuộc' → ⚠️ への道 = con đường dẫn đến X (への = chỉ hướng đến)",
-        "translation": "Sự thay đổi chắc chắn không dễ dàng, nhưng tiếp tục đối thoại mà không bỏ cuộc và tích lũy hành động chính là con đường đến sự đổi thay."
+        "translation": "Sự thay đổi chắc chắn không dễ dàng, nhưng tiếp tục đối thoại mà không bỏ cuộc và tích lũy hành động chính là con đường đến sự đổi thay.",
+        "example_id": 80274003749
       },
       {
         "sentence": "誰もが自分らしく生きられる社会を実現するために、私たち一人ひとりが主体的に関わっていく必要がある。",
         "chunks": "誰もが自分らしく生きられる社会を実現するために / 私たち一人ひとりが / 主体的に関わっていく必要がある",
         "guide": "誰もが → 💡 誰もが = tất cả mọi người, ai cũng → 🔒 Đóng gói: [誰もが自分らしく生きられる社会を実現するために] = 'để thực hiện một xã hội mà mọi người đều có thể sống theo cách của mình' → 私たち一人ひとりが → nhấn mạnh từng cá nhân trong tập thể → 💡 主体的に = một cách chủ động → 必要がある = cần thiết phải",
-        "translation": "Để thực hiện một xã hội mà mọi người đều có thể sống theo cách của mình, từng người trong chúng ta cần chủ động tham gia."
+        "translation": "Để thực hiện một xã hội mà mọi người đều có thể sống theo cách của mình, từng người trong chúng ta cần chủ động tham gia.",
+        "example_id": 80274003750
       }
     ],
     "comprehension": [
@@ -2927,25 +3283,30 @@
           {
             "text": "法律や制度の整備を進めるだけで社会は変わっていく。",
             "text_vi": "Xã hội sẽ thay đổi chỉ bằng cách thúc đẩy xây dựng pháp luật và chế độ.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003585
           },
           {
             "text": "ジェンダー平等は主に女性が積極的に動くことで実現できる。",
             "text_vi": "Bình đẳng giới có thể được thực hiện chủ yếu khi phụ nữ chủ động hành động.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003586
           },
           {
             "text": "法律や制度の整備だけでなく、人々の意識そのものを変えることが求められる。",
             "text_vi": "Không chỉ cần xây dựng pháp luật và chế độ, mà còn cần thay đổi chính ý thức của người dân.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003587
           },
           {
             "text": "メディアの表現を規制・管理することで意識の変化が自然に生まれる。",
             "text_vi": "Sự thay đổi trong nhận thức sẽ tự nhiên xuất hiện bằng cách kiểm soát và quản lý cách biểu đạt của truyền thông.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003588
           }
         ],
-        "explanation": "Câu 5 nói 「法律や制度の整備だけでなく、人々の意識そのものを変えることが求められる」→ だけでなく (không chỉ...mà còn) cho thấy cần cả hai: pháp luật/chế độ VÀ thay đổi ý thức. ⚠️ Bẫy: đáp án A chỉ đúng một nửa (chỉ đề cập đến pháp luật, bỏ qua yếu tố ý thức)."
+        "explanation": "Câu 5 nói 「法律や制度の整備だけでなく、人々の意識そのものを変えることが求められる」→ だけでなく (không chỉ...mà còn) cho thấy cần cả hai: pháp luật/chế độ VÀ thay đổi ý thức. ⚠️ Bẫy: đáp án A chỉ đúng một nửa (chỉ đề cập đến pháp luật, bỏ qua yếu tố ý thức).",
+        "question_id": 802720897
       },
       {
         "id": "R_0300_Q2",
@@ -2955,25 +3316,30 @@
           {
             "text": "ジェンダー平等は女性だけが取り組むべき問題だという認識。",
             "text_vi": "Nhận thức rằng bình đẳng giới là vấn đề chỉ phụ nữ mới nên giải quyết.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003589
           },
           {
             "text": "ジェンダー平等は社会全体が豊かになるための課題だという認識。",
             "text_vi": "Nhận thức rằng bình đẳng giới là thách thức để toàn xã hội trở nên phong phú hơn.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003590
           },
           {
             "text": "ジェンダー平等は法律で解決できるという認識。",
             "text_vi": "Nhận thức rằng bình đẳng giới có thể được giải quyết bằng pháp luật.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003591
           },
           {
             "text": "ジェンダー平等はすでに達成されているという認識。",
             "text_vi": "Nhận thức rằng bình đẳng giới đã được đạt được.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003592
           }
         ],
-        "explanation": "Câu 10 nói 「ジェンダー平等は女性だけのための問題ではなく、社会全体が豊かになるための課題だという認識が広まってきている」→ từ khóa quan trọng là 広まってきている (đang lan rộng) và 社会全体が豊かになる (toàn xã hội trở nên phong phú). ⚠️ Bẫy: đáp án A là điều tác giả phủ định (ではなく)."
+        "explanation": "Câu 10 nói 「ジェンダー平等は女性だけのための問題ではなく、社会全体が豊かになるための課題だという認識が広まってきている」→ từ khóa quan trọng là 広まってきている (đang lan rộng) và 社会全体が豊かになる (toàn xã hội trở nên phong phú). ⚠️ Bẫy: đáp án A là điều tác giả phủ định (ではなく).",
+        "question_id": 802720898
       },
       {
         "id": "R_0300_Q3",
@@ -2983,25 +3349,30 @@
           {
             "text": "職場での昇進機会が増え、管理職に就きやすくなる。",
             "text_vi": "Cơ hội thăng tiến tại nơi làm việc tăng lên và dễ đảm nhận vị trí quản lý hơn.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003593
           },
           {
             "text": "固定化された性別役割から解放され、より自由に自分らしい生き方を選べるようになる。",
             "text_vi": "Được giải phóng khỏi các vai trò giới tính cố định và có thể tự do hơn trong việc chọn lối sống theo cách của chính mình.",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003594
           },
           {
             "text": "育児休暇が取りやすくなり、家庭と仕事を両立する機会が広がる。",
             "text_vi": "Dễ xin nghỉ phép nuôi con hơn và cơ hội cân bằng gia đình và công việc mở rộng.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003595
           },
           {
             "text": "職場での賃金格差が縮まり、待遇や福利厚生が全体的に改善される。",
             "text_vi": "Khoảng cách tiền lương tại nơi làm việc thu hẹp lại và đãi ngộ cũng như phúc lợi tổng thể được cải thiện.",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003596
           }
         ],
-        "explanation": "Câu 11 nói 「男性もまた、固定化された性別役割から解放されることで、より自由に自分らしい生き方を選べるようになる」→ đây là lợi ích cụ thể dành cho nam giới được đề cập trong bài. ⚠️ Bẫy: đáp án C và D là những điều hợp lý nhưng KHÔNG được đề cập trong bài."
+        "explanation": "Câu 11 nói 「男性もまた、固定化された性別役割から解放されることで、より自由に自分らしい生き方を選べるようになる」→ đây là lợi ích cụ thể dành cho nam giới được đề cập trong bài. ⚠️ Bẫy: đáp án C và D là những điều hợp lý nhưng KHÔNG được đề cập trong bài.",
+        "question_id": 802720899
       },
       {
         "id": "R_0300_Q4",
@@ -3011,26 +3382,33 @@
           {
             "text": "困難を認めつつも諦めない姿勢から、筆者は変化に対して楽観的かつ行動的だと推測できる",
             "text_vi": "Từ thái độ không bỏ cuộc dù thừa nhận khó khăn, có thể suy ra tác giả lạc quan và chủ động đối với sự thay đổi",
-            "is_correct": true
+            "is_correct": true,
+            "questions_answer_id": 80273003597
           },
           {
             "text": "変化は難しいと述べていることから、筆者はジェンダー平等の実現を諦めていると推測できる",
             "text_vi": "Từ việc nói thay đổi khó khăn, có thể suy ra tác giả đã bỏ cuộc việc thực hiện bình đẳng giới",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003598
           },
           {
             "text": "筆者は変化を求めているが、その責任はすべて政府にあると考えていると推測できる",
             "text_vi": "Có thể suy ra tác giả muốn thay đổi nhưng cho rằng trách nhiệm hoàn toàn thuộc về chính phủ",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003599
           },
           {
             "text": "困難だという認識から、筆者は現状に満足していると推測できる",
             "text_vi": "Từ nhận thức về sự khó khăn, có thể suy ra tác giả hài lòng với hiện trạng",
-            "is_correct": false
+            "is_correct": false,
+            "questions_answer_id": 80273003600
           }
         ],
-        "explanation": "Câu 15 nói 「変化は決して簡単ではない」→ thừa nhận khó khăn, nhưng tiếp ngay 「諦めずに対話を続け、行動を積み重ねることが変革への道だ」và câu 16 「主体的に関わっていく必要がある」→ không bỏ cuộc, kêu gọi hành động chủ động. Từ sự đối lập này có thể suy ra tác giả lạc quan và hành động ngay cả trước khó khăn — đây là suy luận vượt ra ngoài những gì được nói trực tiếp."
+        "explanation": "Câu 15 nói 「変化は決して簡単ではない」→ thừa nhận khó khăn, nhưng tiếp ngay 「諦めずに対話を続け、行動を積み重ねることが変革への道だ」và câu 16 「主体的に関わっていく必要がある」→ không bỏ cuộc, kêu gọi hành động chủ động. Từ sự đối lập này có thể suy ra tác giả lạc quan và hành động ngay cả trước khó khăn — đây là suy luận vượt ra ngoài những gì được nói trực tiếp.",
+        "question_id": 802720900
       }
-    ]
+    ],
+    "reading_passage_id": 802700300,
+    "question_set_id": 802710300
   }
 ]

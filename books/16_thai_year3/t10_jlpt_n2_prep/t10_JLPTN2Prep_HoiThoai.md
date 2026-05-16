@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Buổi kèm đầu của chị Linh · 11:00 chủ nhật
+## Tình huống 1 — Buổi kèm đầu của chị Linh · 11:00 chủ nhật
 
 | Speaker | Lời thoại |
 |---|---|
@@ -17,7 +17,7 @@
 
 ---
 
-## Scene 2 — Đào sâu từ vựng kanji · 12:00
+## Tình huống 2 — Đào sâu từ vựng kanji · 12:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -29,7 +29,7 @@
 
 ---
 
-## Scene 3 — Luyện đọc · cuối tuần thứ 2
+## Tình huống 3 — Luyện đọc · cuối tuần thứ 2
 
 | Speaker | Lời thoại |
 |---|---|
@@ -41,7 +41,7 @@
 
 ---
 
-## Scene 4 — Đề thử lần 1 · cuối tuần thứ 4
+## Tình huống 4 — Đề thử lần 1 · cuối tuần thứ 4
 
 | Speaker | Lời thoại |
 |---|---|
@@ -52,7 +52,7 @@
 
 ---
 
-## Scene 5 — Đề thử lần 2 · cuối tuần thứ 5
+## Tình huống 5 — Đề thử lần 2 · cuối tuần thứ 5
 
 | Speaker | Lời thoại |
 |---|---|
@@ -63,7 +63,7 @@
 
 ---
 
-## Scene 6 — Đêm trước thi · 6/2025
+## Tình huống 6 — Đêm trước thi · 6/2025
 
 | Speaker | Lời thoại |
 |---|---|
@@ -75,7 +75,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

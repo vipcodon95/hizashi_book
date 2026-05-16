@@ -7,9 +7,9 @@
 ## 🧠 Tâm lý JP (4 dòng)
 
 - JP du lịch chuẩn bị kỹ — đa số đã đọc Lonely Planet / るるぶ trước. Bạn cần khác guidebook.
-- "Đặc trưng 1 câu mỗi thành phố" = framework JP rất thích (vì vậy guidebook mới bán chạy).
+- "Đặc trưng 1 câu mỗi thành phố" = khuôn mẫu JP rất thích (vì vậy guidebook mới bán chạy).
 - Senior 50t+ thích văn hóa cổ + history → Hà Nội + Hội An.
-- Junior 30s thích nightlife + foodie → HCM + Đà Nẵng.
+- Junior 30s thích cuộc vui về đêm + người mê ẩm thực → HCM + Đà Nẵng.
 - "Tránh suggest chỗ tourist trap" = +20 điểm.
 
 ---
@@ -85,7 +85,7 @@ Tháng 6/2026, dinner Tokyo. Matsumoto đi cùng vợ HN-HCM-Đà Nẵng-Hội A
 | **ズン** | 「**Sài Gòn Saigon Bar(Caravelleホテル屋上)**が静かで上品、シニアには最適。**戦時中、海外特派員が集まった歴史のあるバー**でもあります。」 |
 | **佐藤** | 「歴史とつながるバーね、それは粋やね。任せた、行ってみる。」 |
 
-📝 **Senior chỉ 1 ngày:** Stick history + premium dining (KHÔNG nightlife trẻ trung Bùi Viện).
+📝 **Senior chỉ 1 ngày:** Bám sát lịch sử + ăn uống cao cấp (KHÔNG khu vui đêm trẻ trung Bùi Viện).
 
 ---
 
@@ -116,9 +116,9 @@ Tháng 6/2026, dinner Tokyo. Matsumoto đi cùng vợ HN-HCM-Đà Nẵng-Hội A
 
 ## ⚠ NG — tuyệt đối tránh
 
-- Suggest **Bùi Viện street** cho senior 60t → quá ồn / nightlife trẻ.
-- Suggest 戦争証跡博物館 mà KHÔNG advise context → khách shock.
-- Tourist trap rõ (ví dụ: Hoan Kiem food trên TripAdvisor top 1) → không impress.
+- Suggest **Bùi Viện street** cho senior 60t → quá ồn / khu vui đêm không phù hợp.
+- Suggest 戦争証跡博物館 mà KHÔNG giải thích trước → khách bất ngờ.
+- Bẫy du lịch rõ ràng (ví dụ: Hoan Kiem food trên TripAdvisor top 1) → không gây ấn tượng.
 - Quên cảnh báo về scammers ở Bùi Viện / phố Tây → trách nhiệm.
 - Không match audience (Yamamoto food vs Sato senior vs Matsumoto couple).
 
@@ -144,8 +144,8 @@ Tháng 6/2026, dinner Tokyo. Matsumoto đi cùng vợ HN-HCM-Đà Nẵng-Hội A
 
 ## 🎓 BJT
 
-**J3 — 場面把握:** Match suggestion theo audience: senior history / junior nightlife / couple culture / blogger food.
-**J2 — 表現読解:** Phân biệt khi advise "重い" (戦争博物館) — khách JP cần warning trước.
+**J3 — 場面把握:** Match gợi ý theo đối tượng: senior lịch sử / junior cuộc vui đêm / couple văn hóa / blogger ẩm thực.
+**J2 — 表現読解:** Phân biệt khi tư vấn "重い" (戦争博物館) — khách JP cần được cảnh báo trước.
 **J1 — 発言聴解:** Catch sắc thái "重そうやな" của Sato → reassure rồi vẫn recommend nếu phù hợp generation.
 
 ---

@@ -1,10 +1,10 @@
 # Sách 24 · T2. 5/2029 — 内定 Mercari Tokyo + Cybozu Osaka + LY Corp Fukuoka (内定3社)
 
-> **Mục tiêu:** 5/2029. 就活 final results. 3 công ty 内定: Mercari ¥7M Tokyo, Cybozu ¥6.7M Osaka (cam kết từ T7 sách 23), LY Corporation Fukuoka ¥6.5M. CyberAgent reject final round (culture fit). LY Corp Osaka pending. Decision postponed → T8 sách 24 (12/2029).
+> **Mục tiêu:** 5/2029. Kết quả 就活. 3 công ty 内定: Mercari ¥7M Tokyo, Cybozu ¥6.7M Osaka (cam kết từ T7 sách 23), LY Corporation Fukuoka ¥6.5M. CyberAgent loại ở vòng cuối (văn hoá không phù hợp). LY Corp Osaka còn chờ. Quyết định lùi → T8 sách 24 (12/2029).
 
 ---
 
-## Scene 1 — Mercari onsite Tokyo · 5/4
+## Tình huống 1 — Mercari onsite Tokyo · 5/4
 
 | Speaker | Lời thoại |
 |---|---|
@@ -17,7 +17,7 @@
 
 ---
 
-## Scene 2 — Mercari 内定 result · 12/4
+## Tình huống 2 — Mercari 内定 result · 12/4
 
 | Speaker | Lời thoại |
 |---|---|
@@ -28,7 +28,7 @@
 
 ---
 
-## Scene 3 — LY Corp Fukuoka onsite · 18/4
+## Tình huống 3 — LY Corp Fukuoka onsite · 18/4
 
 | Speaker | Lời thoại |
 |---|---|
@@ -39,7 +39,7 @@
 
 ---
 
-## Scene 4 — LINE 内定 + CyberAgent reject
+## Tình huống 4 — LINE 内定 + CyberAgent reject
 
 | Speaker | Lời thoại |
 |---|---|
@@ -49,7 +49,7 @@
 
 ---
 
-## Scene 5 — Decision matrix start
+## Tình huống 5 — Decision matrix start
 
 | Speaker | Lời thoại |
 |---|---|
@@ -63,7 +63,7 @@
 
 ---
 
-## Scene 6 — Mai discussion
+## Tình huống 6 — Mai discussion
 
 | Speaker | Lời thoại |
 |---|---|
@@ -76,7 +76,7 @@
 
 ---
 
-## Scene 7 — Đêm reflect
+## Tình huống 7 — Đêm reflect
 
 | Speaker | Lời thoại |
 |---|---|
@@ -88,7 +88,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -105,8 +105,8 @@
 
 ## Bí quyết chương
 
-- **3 内定 realistic top SV**: Mercari + Cybozu + LY Corp Fukuoka pattern.
-- **Decision matrix 5 options**: Cybozu vs startup setup main tension.
-- **Mai support Hizashi**: Critical character moment — vợ supportive.
+- **3 内定 thực tế cho sinh viên giỏi**: Mercari + Cybozu + LY Corp Fukuoka — bức tranh điển hình.
+- **Ma trận quyết định 5 lựa chọn**: Căng thẳng chính xoay quanh Cybozu hay startup.
+- **Mai ủng hộ Hizashi**: Khoảnh khắc quan trọng của nhân vật — người vợ đứng sau.
 
-> *"3 内定 ¥6.5-7M + Hizashi startup option. Decision 12/2029. Mai supportive."*
+> *"3 内定 ¥6.5-7M + lựa chọn startup Hizashi. Quyết định 12/2029. Mai ủng hộ."*

@@ -1,6 +1,6 @@
 # Rule 31 — Tech failure recovery / 技術トラブル復旧
 
-> **Luận điểm.** Khi projector chết / internet down / Zoom freeze giữa pitch — **3-step recovery**: ① **Acknowledge bình tĩnh** (5 giây): "申し訳ございません、技術トラブルが発生しております" ② **Switch nhanh sang Plan B** (Plan B đã prep ở rule 07: PDF backup, mobile hotspot, paper handout) ③ **Entertain** (verbal ngay phần next slide) trong khi recover. Tuyệt đối **không panic** trên mặt — khán giả Nhật xem panic = "cty không reliable trong production crisis".
+> **Luận điểm.** Khi projector chết / internet down / Zoom freeze giữa pitch — **3-step recovery**: ① **Acknowledge bình tĩnh** (5 giây): "申し訳ございません、技術トラブルが発生しております" ② **Switch nhanh sang Plan B** (Plan B đã prep ở rule 07: PDF backup, mobile hotspot, paper handout (tài liệu phát tay)) ③ **Entertain** (verbal ngay phần next slide) trong khi recover. Tuyệt đối **không panic** trên mặt — khán giả Nhật xem panic = "cty không reliable trong production crisis".
 >
 > 技術トラブルは acknowledge (5秒で) → switch Plan B → entertain (verbal で次 slide 内容を語る) の3ステップ。Panic 表情は『本番障害も同じ』と暗示。
 >

@@ -11,7 +11,7 @@
 
 ---
 
-## Scene 1 — Vào PC lab · 12:55
+## Tình huống 1 — Vào PC lab · 12:55
 
 | Speaker | Lời thoại |
 |---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-## Scene 2 — Watanabe intro Python · 13:00
+## Tình huống 2 — Watanabe intro Python · 13:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -37,7 +37,7 @@
 
 ---
 
-## Scene 3 — First code Hello World · 13:15
+## Tình huống 3 — First code Hello World · 13:15
 
 | Speaker | Lời thoại |
 |---|---|
@@ -51,7 +51,7 @@
 
 ---
 
-## Scene 4 — Variables + types · 13:30
+## Tình huống 4 — Variables + types · 13:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -67,7 +67,7 @@
 
 ---
 
-## Scene 5 — if/else logic · 13:50
+## Tình huống 5 — if/else logic · 13:50
 
 | Speaker | Lời thoại |
 |---|---|
@@ -81,7 +81,7 @@
 
 ---
 
-## Scene 6 — for loop + list · 14:15
+## Tình huống 6 — for loop + list · 14:15
 
 | Speaker | Lời thoại |
 |---|---|
@@ -96,7 +96,7 @@
 
 ---
 
-## Scene 7 — Yamada senpai cameo · 14:50
+## Tình huống 7 — Yamada senpai cameo · 14:50
 
 | Speaker | Lời thoại |
 |---|---|
@@ -110,7 +110,7 @@
 
 ---
 
-## Scene 8 — Đêm code thêm + LINE Yamato · 22:00
+## Tình huống 8 — Đêm code thêm + LINE Yamato · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -125,7 +125,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

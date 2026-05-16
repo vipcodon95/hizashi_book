@@ -8,12 +8,12 @@ JLPT 1 năm 2 đợt: tháng 7 và 12. Đại đăng ký đợt 12. Trường ti
 
 ---
 
-## Scene 1 — Yamada plan prep · 13:30 lớp 9/2024
+## Tình huống 1 — Yamada plan prep · 13:30 lớp 9/2024
 
 | Speaker | Lời thoại |
 |---|---|
 | Yamada | みなさん、<ruby>12<rt>じゅうに</rt></ruby><ruby>月<rt>がつ</rt></ruby>のJLPT N3を<ruby>受<rt>う</rt></ruby>けますか？<br>*(Mọi người thi N3 tháng 12 chứ?)* |
-| Cast | はい！<br>*(Vâng!)* |
+| Nhân vật | はい！<br>*(Vâng!)* |
 | Yamada | <ruby>10<rt>じゅっ</rt></ruby><ruby>週間<rt>しゅうかん</rt></ruby>の<ruby>集中<rt>しゅうちゅう</rt></ruby>プログラムです:<br>*(Chương trình tăng cường 10 tuần:)* |
 | Yamada | <ruby>1<rt>いっ</rt></ruby>-<ruby>3<rt>さん</rt></ruby><ruby>週<rt>しゅう</rt></ruby>:<ruby>文字<rt>もじ</rt></ruby>・<ruby>語彙<rt>ごい</rt></ruby> (<ruby>漢字<rt>かんじ</rt></ruby><ruby>600<rt>ろっぴゃく</rt></ruby> ＋ <ruby>語彙<rt>ごい</rt></ruby><ruby>1500<rt>せんごひゃく</rt></ruby>)<br>*(Tuần 1-3: chữ + từ vựng.)* |
 | Yamada | <ruby>4<rt>よん</rt></ruby>-<ruby>6<rt>ろく</rt></ruby><ruby>週<rt>しゅう</rt></ruby>:<ruby>文法<rt>ぶんぽう</rt></ruby> (N3 <ruby>文法<rt>ぶんぽう</rt></ruby><ruby>100<rt>ひゃく</rt></ruby><ruby>項目<rt>こうもく</rt></ruby>)<br>*(Tuần 4-6: 100 điểm ngữ pháp.)* |
@@ -24,7 +24,7 @@ JLPT 1 năm 2 đợt: tháng 7 và 12. Đại đăng ký đợt 12. Trường ti
 
 ---
 
-## Scene 2 — Đại + Tuấn study group · 19:00 cafe weekend
+## Tình huống 2 — Đại + Tuấn study group · 19:00 cafe weekend
 
 | Speaker | Lời thoại |
 |---|---|
@@ -38,7 +38,7 @@ JLPT 1 năm 2 đợt: tháng 7 và 12. Đại đăng ký đợt 12. Trường ti
 
 ---
 
-## Scene 3 — Vocab drill · weekend 1
+## Tình huống 3 — Vocab drill · weekend 1
 
 | Speaker | Lời thoại |
 |---|---|
@@ -54,12 +54,12 @@ JLPT 1 năm 2 đợt: tháng 7 và 12. Đại đăng ký đợt 12. Trường ti
 
 ---
 
-## Scene 4 — Mock 1 · 6 tuần sau lớp
+## Tình huống 4 — Mock 1 · 6 tuần sau lớp
 
 | Speaker | Lời thoại |
 |---|---|
 | Yamada | <ruby>本日<rt>ほんじつ</rt></ruby>はMock <ruby>1<rt>いち</rt></ruby>。<ruby>本物<rt>ほんもの</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ<ruby>形式<rt>けいしき</rt></ruby>です。<br>*(Hôm nay là đề mô phỏng số 1. Định dạng giống đề thật.)* |
-| Cast | はい！<br>*(Vâng!)* |
+| Nhân vật | はい！<br>*(Vâng!)* |
 | Yamada | <ruby>文字<rt>もじ</rt></ruby>・<ruby>語彙<rt>ごい</rt></ruby><ruby>30<rt>さんじゅっ</rt></ruby><ruby>分<rt>ぷん</rt></ruby>、<ruby>文法<rt>ぶんぽう</rt></ruby>・<ruby>読解<rt>どっかい</rt></ruby><ruby>70<rt>ななじゅっ</rt></ruby><ruby>分<rt>ぷん</rt></ruby>、<ruby>聴解<rt>ちょうかい</rt></ruby><ruby>40<rt>よんじゅっ</rt></ruby><ruby>分<rt>ぷん</rt></ruby>です。<ruby>始<rt>はじ</rt></ruby>めてください。<br>*(Chữ-Từ vựng 30 phút, Ngữ pháp-Đọc 70 phút, Nghe 40 phút. Bắt đầu nào.)* |
 | Đại | （<ruby>解<rt>と</rt></ruby>く）<br>*(Làm bài.)* |
 | Đại | (VN, nội tâm) Từ vựng OK. Ngữ pháp khó. Bài đọc số 3 không hiểu.<br>*(Bài 3 không hiểu.)* |
@@ -67,7 +67,7 @@ JLPT 1 năm 2 đợt: tháng 7 và 12. Đại đăng ký đợt 12. Trường ti
 
 ---
 
-## Scene 5 — Mock 1 result · 1 tuần sau
+## Tình huống 5 — Mock 1 result · 1 tuần sau
 
 | Speaker | Lời thoại |
 |---|---|
@@ -83,7 +83,7 @@ JLPT 1 năm 2 đợt: tháng 7 và 12. Đại đăng ký đợt 12. Trường ti
 
 ---
 
-## Scene 6 — Linh-chị Nagoya ghé Osaka tutor · 11/2024 weekend
+## Tình huống 6 — Linh-chị Nagoya ghé Osaka tutor · 11/2024 weekend
 
 | Speaker | Lời thoại |
 |---|---|
@@ -102,7 +102,7 @@ JLPT 1 năm 2 đợt: tháng 7 và 12. Đại đăng ký đợt 12. Trường ti
 
 ---
 
-## Scene 7 — Mock 2 · 4 tuần sau Mock 1
+## Tình huống 7 — Mock 2 · 4 tuần sau Mock 1
 
 | Speaker | Lời thoại |
 |---|---|
@@ -116,7 +116,7 @@ JLPT 1 năm 2 đợt: tháng 7 và 12. Đại đăng ký đợt 12. Trường ti
 
 ---
 
-## Scene 8 — Mock 3 + last sprint · 11/2024 cuối
+## Tình huống 8 — Mock 3 + chặng nước rút cuối · 11/2024 cuối
 
 | Speaker | Lời thoại |
 |---|---|
@@ -132,7 +132,7 @@ JLPT 1 năm 2 đợt: tháng 7 và 12. Đại đăng ký đợt 12. Trường ti
 
 ---
 
-## Scene 9 — Đêm trước thi · 30/11/2024
+## Tình huống 9 — Đêm trước thi · 30/11/2024
 
 | Speaker | Lời thoại |
 |---|---|
@@ -149,7 +149,7 @@ JLPT 1 năm 2 đợt: tháng 7 và 12. Đại đăng ký đợt 12. Trường ti
 
 ---
 
-## Scene 10 — Sáng thi + đỗ kết quả · 1/12/2024 + 1/2025
+## Tình huống 10 — Sáng thi + đỗ kết quả · 1/12/2024 + 1/2025
 
 | Speaker | Lời thoại |
 |---|---|
@@ -174,7 +174,7 @@ JLPT 1 năm 2 đợt: tháng 7 và 12. Đại đăng ký đợt 12. Trường ti
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -20,13 +20,13 @@ Tham khảo. 1 scenario "applying input vào dinner" + breakdown 5 nguồn.
 
 ## 📋 5 NGUỒN CHÍNH — 雑談ネタ
 
-| # | Nguồn | URL/App | Frequency | Note |
+| # | Nguồn | Địa chỉ/App | Tần suất | Ghi chú |
 |---|-------|---------|-----------|------|
-| 1 | **NHK ニュース** | nhk.or.jp/news/ | Daily, 5 phút morning | Trực tiếp + topic an toàn (thiên tai / 季節 / 文化) |
-| 2 | **日経新聞 (Nikkei)** | nikkei.com | Weekly, 15 phút | Business + economy. Senior đối tác đều đọc |
-| 3 | **Yahoo!Japan ranking** | news.yahoo.co.jp/ranking | Daily, 3 phút | "What everyone is talking about" today |
-| 4 | **47News regional** | 47news.jp | Weekly, by prefecture | Match theo quê khách (Hokkaido / Kansai / Kyushu) |
-| 5 | **TV bangumi recap** | (Twitter/X "ブラタモリ" "鶴瓶の家族に乾杯") | Weekly | Senior topic, regional culture |
+| 1 | **NHK ニュース** | nhk.or.jp/news/ | Hàng ngày, 5 phút sáng | Trực tiếp + topic an toàn (thiên tai / 季節 / 文化) |
+| 2 | **日経新聞 (Nikkei)** | nikkei.com | Hàng tuần, 15 phút | Business + economy. Senior đối tác đều đọc |
+| 3 | **Yahoo!Japan ranking** | news.yahoo.co.jp/ranking | Hàng ngày, 3 phút | "Cả Nhật đang nói gì" hôm nay |
+| 4 | **47News regional** | 47news.jp | Hàng tuần, theo tỉnh | Match theo quê khách (Hokkaido / Kansai / Kyushu) |
+| 5 | **TV bangumi recap** | (Twitter/X "ブラタモリ" "鶴瓶の家族に乾杯") | Hàng tuần | Topic senior, văn hóa địa phương |
 
 ---
 
@@ -56,20 +56,20 @@ Tham khảo. 1 scenario "applying input vào dinner" + breakdown 5 nguồn.
 | **中村** | 「11月でこれは異常やね。雪まつりも雪は問題なさそうやけど、来月のフェーズ5のキックオフ、ハノイで助かるよ(笑)」 |
 | **ズン** | 「ハノイでお迎えします、暖かくしておきます(笑)」 |
 
-📝 **Pattern:** **5 phút sáng → 1 fact** = rất ấn tượng senior JP. "観測史上最も早い積雪" = NHK vocab chuẩn, không phải Google translate.
+📝 **Công thức:** **5 phút sáng → 1 thông tin mới** = rất ấn tượng senior JP. "観測史上最も早い積雪" = NHK vocab chuẩn, không phải Google translate.
 
 ---
 
 ### 📍 Scenario 2 — Routine 30 phút/tuần — breakdown
 
-| | Note | Detail |
+| | Ghi chú | Chi tiết |
 |--|------|--------|
-| **Mon AM** | NHK News app, 5 phút | Top 5 headlines, screenshot 1 fact thú vị |
+| **Mon AM** | NHK News app, 5 phút | Top 5 headlines, chụp màn hình 1 thông tin thú vị |
 | **Wed AM** | 日経 news, 15 phút | Business top 3 + ngành liên quan khách (FinTech / Manufacturing) |
 | **Fri AM** | 47News check quê khách thân, 5 phút | "Hiroshima Carp 試合結果", "Hokkaido 雪状況" |
 | **Sun PM** | Yahoo ranking + TV bangumi recap, 5 phút | "今週何がバズってる?" |
 
-**Output:** 1 file Notes / Notion: **"今週ネタ"** với 5-10 bullet — có thể reference trong dinner / call tuần đó.
+**Output:** 1 file Notes / Notion: **"今週ネタ"** với 5-10 điểm — có thể tham khảo trong dinner / call tuần đó.
 
 **Template:**
 
@@ -121,7 +121,7 @@ Tham khảo. 1 scenario "applying input vào dinner" + breakdown 5 nguồn.
 ## ⚠ NG khi dùng input
 
 - Nói **fact sai** (đọc lướt mà không verify) → mất uy tín hơn không biết.
-- Show off với **5 fact / 1 buổi** → arrogant. **1-2 fact** là vừa đủ.
+- Khoe **5 thông tin / 1 buổi** → kiêu ngạo. **1-2 thông tin** là vừa đủ.
 - Mention **dark news** (sự kiện thiên tai gây thương vong / scandal) cho senior → check tone của họ trước.
 - Quá tự tin → "私もNHK毎日見てます" → khách nghi.
 - KHÔNG check trước **vùng quê khách** weather/news → miss cơ hội regional.

@@ -375,7 +375,7 @@
 
 ## Phần IV — Tình huống khó
 
-### Rule 24 — Mời khách dinner formal / 接待ディナーへの招待
+### Rule 24 — Mời khách bữa ăn tối trang trọng / 接待ディナーへの招待
 
 **ズン (em Dũng):**
 
@@ -544,7 +544,7 @@
 
 > 🇯🇵 「角度=温度+敬意+反省深さの signal。」
 >
-> 🇻🇳 *Góc cúi = signal nhiệt + kính trọng + độ ăn năn.*
+> 🇻🇳 *Góc cúi = tín hiệu nhiệt + kính trọng + độ ăn năn.*
 >
 > 📝 _角度の意味_
 
@@ -568,18 +568,18 @@
 > 📝 _即返し回避 + 将来 return 約束_
 
 
-### Rule 34 — Onsite Nhật lần đầu — survival kit / 初訪問 Survival Kit
+### Rule 34 — Onsite Nhật lần đầu — bộ đồ thiết yếu / 初訪問 Survival Kit
 
 **トゥアンリーダー (anh Tuấn):**
 
 > 🇯🇵 「Survival Kit は現金・IC card・スーツ・お土産・天気・Wifi の6カテゴリで整理。」
 >
-> 🇻🇳 *Survival kit chia 6 nhóm: cash, IC card, suit, omiyage, thời tiết, Wi-Fi.*
+> 🇻🇳 *Bộ đồ thiết yếu chia 6 nhóm: tiền mặt, IC card, vest, omiyage, thời tiết, Wi-Fi.*
 >
 > 📝 _6カテゴリ summary_
 
 
-### Rule 35 — Self-review ceremony etiquette / 振り返り
+### Rule 35 — Tự đánh giá ceremony etiquette / 振り返り
 
 **フオン副部長 (chị Hương):**
 

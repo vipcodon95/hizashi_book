@@ -10,7 +10,7 @@
 
 ---
 
-## Scene 1 — Kawasaki-san intro · 10:00
+## Tình huống 1 — Kawasaki-san intro · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -21,7 +21,7 @@
 
 ---
 
-## Scene 2 — Branch + merge · 10:30
+## Tình huống 2 — Branch + merge · 10:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -35,7 +35,7 @@
 
 ---
 
-## Scene 3 — Conflict resolution · 11:00
+## Tình huống 3 — Conflict resolution · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -48,7 +48,7 @@
 
 ---
 
-## Scene 4 — Rebase vs Merge · 11:30
+## Tình huống 4 — Rebase vs Merge · 11:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -60,7 +60,7 @@
 
 ---
 
-## Scene 5 — GitHub Flow · 13:00
+## Tình huống 5 — GitHub Flow · 13:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -75,7 +75,7 @@
 
 ---
 
-## Scene 6 — First open source PR · 14:30
+## Tình huống 6 — First open source PR · 14:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -90,7 +90,7 @@
 
 ---
 
-## Scene 7 — Real PR — Hugo theme · 18:00
+## Tình huống 7 — Real PR — Hugo theme · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -106,7 +106,7 @@
 
 ---
 
-## Scene 8 — Đêm reflect · 23:00
+## Tình huống 8 — Đêm reflect · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -118,7 +118,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -8,7 +8,7 @@ Cuối tháng 3/2029. Hôm 30/3 — bonenkai năm 3 + farewell TTS. Tổ chức 
 
 ---
 
-## Scene 1 — Sáng cuối TTS · 6:30 phòng riêng
+## Tình huống 1 — Sáng cuối TTS · 6:30 phòng riêng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -24,7 +24,7 @@ Cuối tháng 3/2029. Hôm 30/3 — bonenkai năm 3 + farewell TTS. Tổ chức 
 
 ---
 
-## Scene 2 — Mai+Trang sáng · 7:00 phòng staff
+## Tình huống 2 — Mai+Trang sáng · 7:00 phòng staff
 
 | Speaker | Lời thoại |
 |---|---|
@@ -43,7 +43,7 @@ Cuối tháng 3/2029. Hôm 30/3 — bonenkai năm 3 + farewell TTS. Tổ chức 
 
 ---
 
-## Scene 3 — Linh đến Saitama · 11:00 ga
+## Tình huống 3 — Linh đến Saitama · 11:00 ga
 
 | Speaker | Lời thoại |
 |---|---|
@@ -66,7 +66,7 @@ Cuối tháng 3/2029. Hôm 30/3 — bonenkai năm 3 + farewell TTS. Tổ chức 
 
 ---
 
-## Scene 4 — Andi đến từ Nagoya · 13:00
+## Tình huống 4 — Andi đến từ Nagoya · 13:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -85,7 +85,7 @@ Cuối tháng 3/2029. Hôm 30/3 — bonenkai năm 3 + farewell TTS. Tổ chức 
 
 ---
 
-## Scene 5 — Trên đường izakaya · 17:30
+## Tình huống 5 — Trên đường izakaya · 17:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -101,14 +101,14 @@ Cuối tháng 3/2029. Hôm 30/3 — bonenkai năm 3 + farewell TTS. Tổ chức 
 
 ---
 
-## Scene 6 — Cast đến đầy đủ · 18:00
+## Tình huống 6 — Cast đến đầy đủ · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
 | Tanaka | みんなお<ruby>疲<rt>つか</rt></ruby>れさま！<br>*(Mọi người vất vả!)* |
-| Cast | お<ruby>疲<rt>つか</rt></ruby>れさまです！<br>*(Vất vả!)* |
+| Nhân vật | お<ruby>疲<rt>つか</rt></ruby>れさまです！<br>*(Vất vả!)* |
 | Tanaka | <ruby>本日<rt>ほんじつ</rt></ruby><ruby>特別<rt>とくべつ</rt></ruby>ゲスト：ホアさんの<ruby>姉<rt>ねえ</rt></ruby>さんリンさん、ご<ruby>主人<rt>しゅじん</rt></ruby>のトゥアンさん、お<ruby>子<rt>こ</rt></ruby>さんのボーちゃん、そしてアンディさん！<br>*(Khách đặc biệt: chị Linh em Hoa, chồng Tuấn, con Bo, và Andi!)* |
-| Cast | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
+| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
 | Linh | (VN, đứng chào) Cảm ơn các anh chị. Em rất biết ơn 3 năm qua đã chăm chị em.<br>*(Cảm ơn.)* |
 | Hoa | （<ruby>翻訳<rt>ほんやく</rt></ruby>）<br>*(Dịch.)* |
 | Tanaka | こちらこそ。リンさん、トゥアンさん、ボーちゃん、ようこそ<ruby>埼玉<rt>さいたま</rt></ruby>へ！<br>*(Tôi cũng vậy. Linh-san, Tuấn-san, Bo-chan, hoan nghênh đến Saitama!)* |
@@ -118,7 +118,7 @@ Cuối tháng 3/2029. Hôm 30/3 — bonenkai năm 3 + farewell TTS. Tổ chức 
 
 ---
 
-## Scene 7 — 乾杯 · 18:15
+## Tình huống 7 — 乾杯 · 18:15
 
 | Speaker | Lời thoại |
 |---|---|
@@ -127,14 +127,14 @@ Cuối tháng 3/2029. Hôm 30/3 — bonenkai năm 3 + farewell TTS. Tổ chức 
 | Tanaka | <ruby>1<rt>いち</rt></ruby>：<ruby>年末<rt>ねんまつ</rt></ruby><ruby>年始<rt>ねんし</rt></ruby><ruby>会<rt>かい</rt></ruby>。<br>*(1: Tiệc cuối năm.)* |
 | Tanaka | <ruby>2<rt>に</rt></ruby>：ホアさんTTS<ruby>3<rt>さん</rt></ruby><ruby>年契約<rt>ねんけいやく</rt></ruby><ruby>満了<rt>まんりょう</rt></ruby>＆SSW1<ruby>移行<rt>いこう</rt></ruby><ruby>祝<rt>いわ</rt></ruby>い。<br>*(2: Mừng Hoa hoàn thành 3 năm TTS + chuyển SSW1.)* |
 | Tanaka | <ruby>3<rt>さん</rt></ruby>：ホアさん<ruby>新<rt>あたら</rt></ruby>しいリーダー<ruby>就任<rt>しゅうにん</rt></ruby><ruby>祝<rt>いわ</rt></ruby>い。<br>*(3: Mừng Hoa nhậm chức leader mới.)* |
-| Cast | （<ruby>拍手<rt>はくしゅ</rt></ruby><ruby>大<rt>おお</rt></ruby>きく）<br>*(Vỗ tay to.)* |
+| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby><ruby>大<rt>おお</rt></ruby>きく）<br>*(Vỗ tay to.)* |
 | Tanaka | グラス<ruby>持<rt>も</rt></ruby>って...<ruby>乾杯<rt>かんぱい</rt></ruby>！<br>*(Cầm cốc... 乾杯!)* |
-| Cast | <ruby>乾杯<rt>かんぱい</rt></ruby>！<br>*(乾杯!)* |
+| Nhân vật | <ruby>乾杯<rt>かんぱい</rt></ruby>！<br>*(乾杯!)* |
 | Linh | (VN) Cạn!<br>*(Cạn!)* |
 
 ---
 
-## Scene 8 — Hoa speech · 19:00
+## Tình huống 8 — Hoa speech · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -155,11 +155,11 @@ Cuối tháng 3/2029. Hôm 30/3 — bonenkai năm 3 + farewell TTS. Tổ chức 
 | Hoa | <ruby>4<rt>し</rt></ruby><ruby>月<rt>がつ</rt></ruby><ruby>1<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby>、SSW1<ruby>＆<rt>アンド</rt></ruby>リーダー<ruby>就任<rt>しゅうにん</rt></ruby>。<ruby>責任<rt>せきにん</rt></ruby><ruby>重<rt>おも</rt></ruby>い。でも<ruby>怖<rt>こわ</rt></ruby>くない。みんなが<ruby>支<rt>ささ</rt></ruby>えてくれるから。<br>*(1/4, nhậm SSW1 + leader. Trách nhiệm nặng. Nhưng không sợ. Vì mọi người ủng hộ.)* |
 | Hoa | （<ruby>頭<rt>あたま</rt></ruby><ruby>下<rt>さ</rt></ruby>げる<ruby>深<rt>ふか</rt></ruby>く）<br>*(Cúi đầu sâu.)* |
 | Hoa | <ruby>3<rt>さん</rt></ruby><ruby>年間<rt>ねんかん</rt></ruby>、<ruby>本当<rt>ほんとう</rt></ruby>にありがとうございました。<br>*(3 năm, thật sự cảm ơn.)* |
-| Cast | （<ruby>拍手<rt>はくしゅ</rt></ruby><ruby>大<rt>おお</rt></ruby>きく、<ruby>長<rt>なが</rt></ruby>く）<br>*(Vỗ tay to, dài.)* |
+| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby><ruby>大<rt>おお</rt></ruby>きく、<ruby>長<rt>なが</rt></ruby>く）<br>*(Vỗ tay to, dài.)* |
 
 ---
 
-## Scene 9 — Tanaka tặng cuốn sổ tay 指導員 thứ 3 · 19:30
+## Tình huống 9 — Tanaka tặng cuốn sổ tay 指導員 thứ 3 · 19:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -177,7 +177,7 @@ Cuối tháng 3/2029. Hôm 30/3 — bonenkai năm 3 + farewell TTS. Tổ chức 
 
 ---
 
-## Scene 10 — Linh surprise · 20:00
+## Tình huống 10 — Linh surprise · 20:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -194,11 +194,11 @@ Cuối tháng 3/2029. Hôm 30/3 — bonenkai năm 3 + farewell TTS. Tổ chức 
 | Hoa | （<ruby>翻訳<rt>ほんやく</rt></ruby>）<br>*(Dịch.)* |
 | Tanaka | こちらこそ、ホアさんは<ruby>娘<rt>むすめ</rt></ruby><ruby>同様<rt>どうよう</rt></ruby>です。<br>*(Tôi cũng vậy, Hoa-san như con gái.)* |
 | Bố Hoa | (VN) Cảm ơn! Cảm ơn!<br>*(Cảm ơn.)* |
-| Cast | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
+| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
 
 ---
 
-## Scene 11 — Mai+Trang tặng quà · 20:30
+## Tình huống 11 — Mai+Trang tặng quà · 20:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -214,7 +214,7 @@ Cuối tháng 3/2029. Hôm 30/3 — bonenkai năm 3 + farewell TTS. Tổ chức 
 
 ---
 
-## Scene 12 — Andi speech · 21:00
+## Tình huống 12 — Andi speech · 21:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -225,16 +225,16 @@ Cuối tháng 3/2029. Hôm 30/3 — bonenkai năm 3 + farewell TTS. Tổ chức 
 | Andi | <ruby>来年<rt>らいねん</rt></ruby><ruby>俺<rt>おれ</rt></ruby>もSSW1<ruby>移行<rt>いこう</rt></ruby>。<br>*(Sang năm anh cũng chuyển SSW1.)* |
 | Andi | <ruby>同期<rt>どうき</rt></ruby>として、これからも<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>頑張<rt>がんば</rt></ruby>ろう！<br>*(Là 同期, từ giờ tiếp tục cùng cố lên nhé!)* |
 | Hoa | （<ruby>頷<rt>うなず</rt></ruby>く<ruby>強<rt>つよ</rt></ruby>く）<br>*(Gật mạnh.)* |
-| Cast | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
+| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
 
 ---
 
-## Scene 13 — Bo nhảy với cast · 21:30
+## Tình huống 13 — Bo nhảy với cast · 21:30
 
 | Speaker | Lời thoại |
 |---|---|
 | Bo | （<ruby>大<rt>おお</rt></ruby>きい<ruby>声<rt>こえ</rt></ruby>）どんどん！<br>*(To. Đông đông!)* |
-| Cast | （<ruby>笑<rt>わら</rt></ruby>う）<br>*(Cười.)* |
+| Nhân vật | （<ruby>笑<rt>わら</rt></ruby>う）<br>*(Cười.)* |
 | Vợ Tanaka | ボーちゃん、<ruby>可愛<rt>かわい</rt></ruby>い！<br>*(Bo, dễ thương!)* |
 | Bo | （<ruby>歩<rt>ある</rt></ruby>き<ruby>回<rt>まわ</rt></ruby>る）<br>*(Đi loanh quanh.)* |
 | Tanaka | （Bo を<ruby>抱<rt>だ</rt></ruby>く）<br>*(Bế Bo.)* |
@@ -247,12 +247,12 @@ Cuối tháng 3/2029. Hôm 30/3 — bonenkai năm 3 + farewell TTS. Tổ chức 
 
 ---
 
-## Scene 14 — Nhảy karaoke cast · 22:00
+## Tình huống 14 — Nhảy karaoke cast · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
 | Yamada | カラオケ<ruby>始<rt>はじ</rt></ruby>めよう！<br>*(Karaoke bắt đầu!)* |
-| Cast | おお！<br>*(Ô!)* |
+| Nhân vật | おお！<br>*(Ô!)* |
 | Yamada | （<ruby>歌<rt>うた</rt></ruby>う）<br>*(Hát.)* |
 | Hoa | (VN, Linh) Yamada hát hay quá!<br>*(Hát hay.)* |
 | Linh | (VN) Vâng!<br>*(Vâng.)* |
@@ -261,12 +261,12 @@ Cuối tháng 3/2029. Hôm 30/3 — bonenkai năm 3 + farewell TTS. Tổ chức 
 | Trang | <ruby>3<rt>さん</rt></ruby><ruby>人<rt>にん</rt></ruby>で！<br>*(3 đứa!)* |
 | Hoa | （<ruby>立<rt>た</rt></ruby>つ）<br>*(Đứng.)* |
 | 3 người (Hoa+Mai+Trang) | （<ruby>歌<rt>うた</rt></ruby>う：<ruby>糸<rt>いと</rt></ruby> by <ruby>中島<rt>なかじま</rt></ruby>みゆき）<br>*(Hát: 糸 - Nakajima Miyuki.)* |
-| Cast | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
+| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
 | Tanaka | <ruby>素晴<rt>すば</rt></ruby>らしい！<br>*(Tuyệt!)* |
 
 ---
 
-## Scene 15 — Tanaka khoá speech · 23:00
+## Tình huống 15 — Tanaka khoá speech · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -283,7 +283,7 @@ Cuối tháng 3/2029. Hôm 30/3 — bonenkai năm 3 + farewell TTS. Tổ chức 
 
 ---
 
-## Scene 16 — Sáng 1/4 — SSW1 ngày đầu · 6:00 phòng riêng
+## Tình huống 16 — Sáng 1/4 — SSW1 ngày đầu · 6:00 phòng riêng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -300,7 +300,7 @@ Cuối tháng 3/2029. Hôm 30/3 — bonenkai năm 3 + farewell TTS. Tổ chức 
 
 ---
 
-## Scene 17 — Đến công ty · 7:30
+## Tình huống 17 — Đến công ty · 7:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -319,15 +319,15 @@ Cuối tháng 3/2029. Hôm 30/3 — bonenkai năm 3 + farewell TTS. Tổ chức 
 
 ---
 
-## Scene 18 — Tanaka chào sáng SSW1 · 8:00 line A
+## Tình huống 18 — Tanaka chào sáng SSW1 · 8:00 line A
 
 | Speaker | Lời thoại |
 |---|---|
 | Tanaka | みんな、<ruby>朝礼<rt>ちょうれい</rt></ruby>。<br>*(Cả nhà, briefing sáng.)* |
-| Cast | （<ruby>整列<rt>せいれつ</rt></ruby>）<br>*(Xếp hàng.)* |
+| Nhân vật | （<ruby>整列<rt>せいれつ</rt></ruby>）<br>*(Xếp hàng.)* |
 | Tanaka | <ruby>本日<rt>ほんじつ</rt></ruby>から<ruby>新<rt>あたら</rt></ruby>しいリーダーを<ruby>紹介<rt>しょうかい</rt></ruby>。<br>*(Từ hôm nay giới thiệu leader mới.)* |
 | Tanaka | グエン・ティ・ホアさん。SSW1＆<ruby>製造部<rt>せいぞうぶ</rt></ruby>リーダー。<br>*(Nguyễn Thị Hoa-san. SSW1 + Leader phòng sản xuất.)* |
-| Cast | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
+| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
 | Tanaka | ホアさん、<ruby>一言<rt>ひとこと</rt></ruby>。<br>*(Hoa-san, 1 lời.)* |
 | Hoa | （<ruby>立<rt>た</rt></ruby>つ）<br>*(Đứng.)* |
 | Hoa | みなさん、おはようございます。<br>*(Các bạn, chào.)* |
@@ -336,15 +336,15 @@ Cuối tháng 3/2029. Hôm 30/3 — bonenkai năm 3 + farewell TTS. Tổ chức 
 | Hoa | <ruby>後輩<rt>こうはい</rt></ruby>のマイ＋チャンを<ruby>大切<rt>たいせつ</rt></ruby>にする。<br>*(Sẽ chăm sóc kohai Mai+Trang.)* |
 | Hoa | <ruby>今後<rt>こんご</rt></ruby>とも<ruby>宜<rt>よろ</rt></ruby>しくお<ruby>願<rt>ねが</rt></ruby>いします。<br>*(Mong tiếp tục được hợp tác.)* |
 | Hoa | （<ruby>頭<rt>あたま</rt></ruby><ruby>下<rt>さ</rt></ruby>げる<ruby>深<rt>ふか</rt></ruby>く）<br>*(Cúi đầu sâu.)* |
-| Cast | （<ruby>拍手<rt>はくしゅ</rt></ruby><ruby>大<rt>おお</rt></ruby>きく）<br>*(Vỗ tay to.)* |
+| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby><ruby>大<rt>おお</rt></ruby>きく）<br>*(Vỗ tay to.)* |
 | Tanaka | では、<ruby>本日<rt>ほんじつ</rt></ruby>のお<ruby>仕事<rt>しごと</rt></ruby><ruby>始<rt>はじ</rt></ruby>めましょう。<br>*(Vậy, bắt đầu việc hôm nay.)* |
-| Cast | お<ruby>願<rt>ねが</rt></ruby>いします！<br>*(Mong nhờ!)* |
+| Nhân vật | お<ruby>願<rt>ねが</rt></ruby>いします！<br>*(Mong nhờ!)* |
 | Hoa | （<ruby>胸<rt>むね</rt></ruby>のバッジ<ruby>触<rt>ふ</rt></ruby>る）<br>*(Chạm badge ngực.)* |
 | Hoa | (VN, nội tâm) SSW1 ngày đầu tiên. Ở lại Saitama. Đi tiếp thôi.<br>*(Đi tiếp.)* |
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -11,7 +11,7 @@
 
 ---
 
-## Scene 1 — 6:00 sáng dậy chuẩn bị · Apt Senri-chuo
+## Tình huống 1 — 6:00 sáng dậy chuẩn bị · Apt Senri-chuo
 
 | Speaker | Lời thoại |
 |---|---|
@@ -25,7 +25,7 @@
 
 ---
 
-## Scene 2 — WeWork 23F war room setup · 8:00
+## Tình huống 2 — WeWork 23F war room setup · 8:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -36,7 +36,7 @@
 
 ---
 
-## Scene 3 — 9:00 TechCrunch JP article live ·
+## Tình huống 3 — 9:00 TechCrunch JP article live ·
 
 | Speaker | Lời thoại |
 |---|---|
@@ -47,7 +47,7 @@
 
 ---
 
-## Scene 4 — 10:00 5 influencers post simultaneously ·
+## Tình huống 4 — 10:00 5 influencers post simultaneously ·
 
 | Speaker | Lời thoại |
 |---|---|
@@ -61,7 +61,7 @@
 
 ---
 
-## Scene 5 — 12:00 Trưa burger break · WeWork lounge
+## Tình huống 5 — 12:00 Trưa burger break · WeWork lounge
 
 | Speaker | Lời thoại |
 |---|---|
@@ -75,7 +75,7 @@
 
 ---
 
-## Scene 6 — 14:00 LINE từ Yamada-senpai + cohort · 
+## Tình huống 6 — 14:00 LINE từ Yamada-senpai + cohort · 
 
 | Speaker | Lời thoại |
 |---|---|
@@ -88,7 +88,7 @@
 
 ---
 
-## Scene 7 — 18:00 ProductHunt approach (12:01 PT prep) ·
+## Tình huống 7 — 18:00 ProductHunt approach (12:01 PT prep) ·
 
 | Speaker | Lời thoại |
 |---|---|
@@ -101,7 +101,7 @@
 
 ---
 
-## Scene 8 — 12/11 4:01 sáng ProductHunt launch · WeWork
+## Tình huống 8 — 12/11 4:01 sáng ProductHunt launch · WeWork
 
 | Speaker | Lời thoại |
 |---|---|
@@ -115,7 +115,7 @@
 
 ---
 
-## Scene 9 — 24h sau launch summary · 11/11 24:00
+## Tình huống 9 — 24h sau launch summary · 11/11 24:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -126,7 +126,7 @@
 
 ---
 
-## Scene 10 — Đêm về nhà ăn mừng family · 23:00
+## Tình huống 10 — Đêm về nhà ăn mừng family · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -142,7 +142,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -159,11 +159,11 @@
 
 ## Bí quyết chương
 
-- **Launch day pattern**: TechCrunch JP morning + influencer simultaneous + ProductHunt evening
-- **5 influencer ¥1M total spend** → reach 460k + 534 sign-up + 187 paid = LTV ROI 8x
-- **Server stress test 10k passed** → real launch traffic 5k peak handled stable
-- **#1 Product of the Day ProductHunt** = standard "winning" benchmark indie launch
-- **Mai support + family ăn mừng** → personal moment cũng quan trọng như business
-- **Em-2 wish** → foreshadow sách 26 Mai pregnancy
+- **Nhịp D-day**: TechCrunch JP buổi sáng + influencer đăng đồng thời + ProductHunt buổi tối
+- **5 influencer tổng chi ¥1M** → tiếp cận 460k người + 534 đăng ký + 187 trả phí = ROI theo LTV 8 lần
+- **Kiểm thử tải 10k đã qua** → đỉnh lưu lượng thực tế 5k người xử lý ổn định
+- **#1 Product of the Day ProductHunt** = thước đo "thắng" chuẩn cho indie launch
+- **Mai ủng hộ + gia đình ăn mừng** → khoảnh khắc cá nhân quan trọng không kém chuyện kinh doanh
+- **Ước có em-2** → báo trước cốt truyện sách 26 — Mai có thai
 
-> *"Hizashi v1.0 LAUNCH 11/11/2030. 534 sign-ups + 187 paid trong 24h. PH #1. TechCrunch + Yahoo + 8 publications. MRR ¥548k +50%. Đại+Tuấn+Aiko đỉnh điểm. Mai+Hana ăn mừng. Wish em-2."*
+> *"Hizashi v1.0 ra mắt 11/11/2030. 534 đăng ký + 187 trả phí trong 24h. PH #1. TechCrunch + Yahoo + 8 tờ báo đưa tin. MRR ¥548k +50%. Đại+Tuấn+Aiko đỉnh điểm. Mai+Hana ăn mừng. Ước có em bé thứ hai."*

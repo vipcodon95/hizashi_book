@@ -25,7 +25,7 @@
 | **ズン** | 「あ、でも顧客優先かと…」 |
 | **トゥアン** | 「**Plan を持たずに顧客に告げると 'どうするんですか'と詰められて、そこで初めて社内で議論することになる**。最悪。社内で固めてから顧客へ。」 |
 
-**Vì sao xấu:** Việt thường nghĩ "khách trước". Nhật business: chain of command trước, Plan trước, rồi báo khách. Báo khách trước Plan = khách hỏi "phương án?" → embarass.
+**Vì sao xấu:** Việt thường nghĩ "khách trước". Nhật business: chain of command trước, Plan trước, rồi báo khách. Báo khách trước Plan = khách hỏi "phương án?" → mất mặt.
 
 ---
 
@@ -70,7 +70,7 @@
 - Báo khách Nhật trước khi có Plan — họ hỏi "Plan は?" → bạn tê liệt.
 - Skip cấp trung gian, gọi thẳng C-level đầu tiên — direct boss bị bypassed = mất thiện cảm.
 - Không có timeline (dài nhất bao lâu nữa giải quyết) — khách không biết kỳ vọng.
-- Slack #public trước khi đã thông báo người key — họ đọc Slack mới biết = embarass.
+- Slack #public trước khi đã thông báo người key — họ đọc Slack mới biết = mất mặt.
 
 ---
 

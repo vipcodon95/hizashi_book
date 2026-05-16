@@ -12,7 +12,7 @@
 
 ---
 
-## Scene 1 — Sáng thứ 7 đến venue · 8:30
+## Tình huống 1 — Sáng thứ 7 đến venue · 8:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-## Scene 2 — Opening ceremony 9:00
+## Tình huống 2 — Opening ceremony 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -36,7 +36,7 @@
 
 ---
 
-## Scene 3 — Brainstorm idea · 9:30-11:00
+## Tình huống 3 — Brainstorm idea · 9:30-11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -51,7 +51,7 @@
 
 ---
 
-## Scene 4 — Architecture design · 11:30
+## Tình huống 4 — Architecture design · 11:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -69,7 +69,7 @@
 
 ---
 
-## Scene 5 — Coding intensive Saturday · 12:00 → midnight
+## Tình huống 5 — Coding intensive Saturday · 12:00 → midnight
 
 | Speaker | Lời thoại |
 |---|---|
@@ -83,7 +83,7 @@
 
 ---
 
-## Scene 6 — Crisis 2:00 AM Sunday — DB schema bug
+## Tình huống 6 — Crisis 2:00 AM Sunday — DB schema bug
 
 | Speaker | Lời thoại |
 |---|---|
@@ -97,7 +97,7 @@
 
 ---
 
-## Scene 7 — Final push Sunday · 14:00
+## Tình huống 7 — Final push Sunday · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -111,7 +111,7 @@
 
 ---
 
-## Scene 8 — Judging round 1 · 15:00
+## Tình huống 8 — Judging round 1 · 15:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -125,7 +125,7 @@
 
 ---
 
-## Scene 9 — Award ceremony · 17:00
+## Tình huống 9 — Award ceremony · 17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -139,7 +139,7 @@
 
 ---
 
-## Scene 10 — Đêm reflect + LINE Mai · 21:00
+## Tình huống 10 — Đêm reflect + LINE Mai · 21:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -154,7 +154,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

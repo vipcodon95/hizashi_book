@@ -42,7 +42,7 @@ Sáng hôm sau visit (ngày D+1, 9:00). Linh đã làm xong 24h memo (rule 07). 
 | **リン** | 「承知いたしました。9:30 までに送信いたします。」 |
 
 📝 **Ghi chú:**
-- 【1】**3要素必須** — quote + action + personal note. Quote = chứng minh "tôi nghe và nhớ". Action = chuyển sang follow-up cụ thể. Personal note = build relationship (tránh feedback meeting purely).
+- 【1】**3要素必須** — quote + action + personal note. Quote = chứng minh "tôi nghe và nhớ". Hành động = chuyển sang follow-up cụ thể. Ghi chú cá nhân = xây dựng quan hệ (tránh feedback meeting purely).
 - 【2】**Senior 名義で送る** — email từ Hương (副部長) > từ Linh (intern). Khách Nhật weight email theo cấp người gửi.
 - 【3】**Linh credit trong body** — junior làm thực sự nhưng senior gửi → ghi "資料作成: リン" để Linh được visible với khách (build cho future).
 

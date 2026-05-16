@@ -8,7 +8,7 @@ Tháng 8/2022. Sau HH report, Tanaka thấy Thái có khả năng public speak. 
 
 ---
 
-## Scene 1 — Tanaka chỉ định · 8:30 朝礼 thứ 2
+## Tình huống 1 — Tanaka chỉ định · 8:30 朝礼 thứ 2
 
 | Speaker | Lời thoại |
 |---|---|
@@ -20,7 +20,7 @@ Tháng 8/2022. Sau HH report, Tanaka thấy Thái có khả năng public speak. 
 
 ---
 
-## Scene 2 — Sakurai dạy keigo · 12:30 食堂
+## Tình huống 2 — Sakurai dạy keigo · 12:30 食堂
 
 | Speaker | Lời thoại |
 |---|---|
@@ -35,7 +35,7 @@ Tháng 8/2022. Sau HH report, Tanaka thấy Thái có khả năng public speak. 
 
 ---
 
-## Scene 3 — Putra giúp tập đêm · 21:00 phòng
+## Tình huống 3 — Putra giúp tập đêm · 21:00 phòng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -51,7 +51,7 @@ Tháng 8/2022. Sau HH report, Tanaka thấy Thái có khả năng public speak. 
 
 ---
 
-## Scene 4 — Sáng thứ 5 lo · 7:00
+## Tình huống 4 — Sáng thứ 5 lo · 7:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -63,7 +63,7 @@ Tháng 8/2022. Sau HH report, Tanaka thấy Thái có khả năng public speak. 
 
 ---
 
-## Scene 5 — 8:30 朝礼 thứ 5
+## Tình huống 5 — 8:30 朝礼 thứ 5
 
 | Speaker | Lời thoại |
 |---|---|
@@ -71,15 +71,15 @@ Tháng 8/2022. Sau HH report, Tanaka thấy Thái có khả năng public speak. 
 | Thái | （<ruby>前<rt>まえ</rt></ruby>に<ruby>出<rt>で</rt></ruby>る）<br>*(Bước ra.)* |
 | Thái | （<ruby>深呼吸<rt>しんこきゅう</rt></ruby>）<br>*(Hít sâu.)* |
 | Thái | <ruby>本日<rt>ほんじつ</rt></ruby>のKY<ruby>当番<rt>とうばん</rt></ruby>のグエンです！<br>*(KY hôm nay Nguyễn!)* |
-| Cast | （<ruby>注目<rt>ちゅうもく</rt></ruby>）<br>*(Nhìn.)* |
+| Nhân vật | （<ruby>注目<rt>ちゅうもく</rt></ruby>）<br>*(Nhìn.)* |
 | Thái | <ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>注意点<rt>ちゅういてん</rt></ruby>は<ruby>金型<rt>かながた</rt></ruby><ruby>運搬<rt>うんぱん</rt></ruby><ruby>時<rt>じ</rt></ruby>の<ruby>玉掛<rt>たまか</rt></ruby>け<ruby>確認<rt>かくにん</rt></ruby>です。<br>*(Lưu ý hôm nay kiểm đai treo khuôn.)* |
 | Thái | <ruby>金型<rt>かながた</rt></ruby>は<ruby>重<rt>おも</rt></ruby>く、<ruby>玉掛<rt>たまか</rt></ruby>け<ruby>失敗<rt>しっぱい</rt></ruby>すると<ruby>大事故<rt>だいじこ</rt></ruby>になります。<br>*(Khuôn nặng, tama-kake fail là tai nạn lớn.)* |
 | Thái | <ruby>本日<rt>ほんじつ</rt></ruby>もご<ruby>安全<rt>あんぜん</rt></ruby>に。よろしくお<ruby>願<rt>ねが</rt></ruby>いします！<br>*(Hôm nay an toàn. Mong hợp tác!)* |
-| Cast | （<ruby>拍手<rt>はくしゅ</rt></ruby><ruby>大<rt>おお</rt></ruby>きく）<br>*(Vỗ tay to.)* |
+| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby><ruby>大<rt>おお</rt></ruby>きく）<br>*(Vỗ tay to.)* |
 
 ---
 
-## Scene 6 — Sau briefing được khen · 8:45
+## Tình huống 6 — Sau briefing được khen · 8:45
 
 | Speaker | Lời thoại |
 |---|---|
@@ -94,7 +94,7 @@ Tháng 8/2022. Sau HH report, Tanaka thấy Thái có khả năng public speak. 
 
 ---
 
-## Scene 7 — Linh-chị LINE · 19:00
+## Tình huống 7 — Linh-chị LINE · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -110,7 +110,7 @@ Tháng 8/2022. Sau HH report, Tanaka thấy Thái có khả năng public speak. 
 
 ---
 
-## Scene 8 — Đêm reflect · 22:00
+## Tình huống 8 — Đêm reflect · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -124,7 +124,7 @@ Tháng 8/2022. Sau HH report, Tanaka thấy Thái có khả năng public speak. 
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

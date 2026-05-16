@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-司会 Dũng đã làm xong rules 09-14. Trước議題 1, chốt mục tiêu để tất cả align hướng.
+司会 Dũng đã làm xong rules 09-14. Trước議題 1, chốt mục tiêu để tất cả thống nhất hướng đi.
 
 ---
 

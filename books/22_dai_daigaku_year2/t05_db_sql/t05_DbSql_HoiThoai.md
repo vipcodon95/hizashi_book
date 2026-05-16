@@ -9,7 +9,7 @@
 
 ---
 
-## Scene 1 — ER diagram · 9:00
+## Tình huống 1 — ER diagram · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -20,7 +20,7 @@
 
 ---
 
-## Scene 2 — Normalization · 11:00
+## Tình huống 2 — Normalization · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -33,7 +33,7 @@
 
 ---
 
-## Scene 3 — JOIN types · 14:00
+## Tình huống 3 — JOIN types · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -44,7 +44,7 @@
 
 ---
 
-## Scene 4 — ACID + Transaction · 16:00
+## Tình huống 4 — ACID + Transaction · 16:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -54,7 +54,7 @@
 
 ---
 
-## Scene 5 — Index + EXPLAIN · 18:00
+## Tình huống 5 — Index + EXPLAIN · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -64,7 +64,7 @@
 
 ---
 
-## Scene 6 — Đêm + Mai N2 prep update
+## Tình huống 6 — Đêm + Mai N2 prep update
 
 | Speaker | Lời thoại |
 |---|---|
@@ -75,7 +75,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

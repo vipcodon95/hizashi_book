@@ -25,7 +25,7 @@ Phase 4 round 3, 大垣 thay 中村 CFO + 大垣 + Tiên Phát luật sư on cal
 | (1 時間後 Slack 報告) **ズン** | 「Hà CTO、Phase 4 indemnity 無制限で合意しました。」 |
 | **ハー CTO** | 「**何故 escalate しなかった？取締役会上限規定を超える。今すぐ撤回交渉**。社長 escalate も必要。」 |
 
-**Vì sao xấu:** (a) T2 (権限外) recognize されず Dũng が即決, (b) T3 (ultimatum tone) も recognize されず, (c) Hà CTO 取締役会規定知らず → Tiên Phát 法的に bind 不可 → renegotiate = trust dent. Escalation skip = career-defining mistake.
+**Vì sao xấu:** (a) T2 (権限外) recognize されず Dũng が即決, (b) T3 (ultimatum tone) も recognize されず, (c) Hà CTO 取締役会規定知らず → Tiên Phát 法的に không có hiệu lực ràng buộc → renegotiate = trust dent. Escalation skip = career-defining mistake.
 
 ---
 
@@ -64,7 +64,7 @@ Phase 4 round 3, 大垣 thay 中村 CFO + 大垣 + Tiên Phát luật sư on cal
 
 ## ⚠ Tránh
 
-- 権限外 (T2) を即決 → 取締役会で法的に bind 不可、 撤回 → trust dent
+- 権限外 (T2) を即決 → 取締役会で法的に không có hiệu lực ràng buộc、 撤回 → trust dent
 - "今ここで決めてください" pressure に屈する → 5 分 buffer 必ず request
 - Escalate するが session 退出 → ownership lost
 - Slack で senior に "どうしましょう?" 漠然と → 30 秒で trigger / 数値 / urgency まとめる

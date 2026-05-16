@@ -16,7 +16,7 @@
 
 ---
 
-## Scene 1 — Sun 22:00 · Sân bay Narita arrival, terminal 1
+## Tình huống 1 — Sun 22:00 · Sân bay Narita arrival, terminal 1
 
 *Dũng vừa hạ cánh từ HCMC, đi qua immigration. Va-li bị giữ lại ở hải quan kiểm tra bất ngờ — có 1 bịch hạt điều rang VN to chưa khai báo.*
 
@@ -50,7 +50,7 @@ JP nghiêm với thực phẩm vào nước:
 
 ---
 
-## Scene 2 — Sun 23:30 · Hotel check-in Shinjuku (business hotel APA)
+## Tình huống 2 — Sun 23:30 · Hotel check-in Shinjuku (business hotel APA)
 
 *Lobby APA Shinjuku Gyoen-mae. Dũng kéo va-li mệt, đặt passport lên quầy. Lễ tân nữ trẻ cười chuyên nghiệp.*
 
@@ -86,7 +86,7 @@ Từ vựng hotel cần thuộc lòng: 禁煙室, 喫煙室, ツインルーム,
 
 ---
 
-## Scene 3 — Mon 08:30 · Sảnh Hakuō Tokyo HQ (Shimbashi area)
+## Tình huống 3 — Mon 08:30 · Sảnh Hakuō Tokyo HQ (Shimbashi area)
 
 *Tòa nhà 18 tầng, sảnh đại marble. Dũng đến sớm 30 phút. Ra security gate đăng ký visitor pass.*
 
@@ -122,7 +122,7 @@ Cty JP lớn (>500 nhân viên) thường yêu cầu ID khi cấp visitor pass:
 
 ---
 
-## Scene 4 — Mon 09:00 · Conference room Hakuō, kickoff Phase 5
+## Tình huống 4 — Mon 09:00 · Conference room Hakuō, kickoff Phase 5
 
 *Phòng họp 12 chỗ, projector, bàn dài. Matsumoto + Ōgaki + Inoue + Tanaka + 2 senior dev đã ngồi. Dũng vào 5 phút trước, đặt laptop. Matsumoto đề nghị Dũng present 5 phút intro.*
 
@@ -150,7 +150,7 @@ Cty JP lớn (>500 nhân viên) thường yêu cầu ID khi cấp visitor pass:
 
 ### 💡 Bí quyết — Present surprise sáng đầu tiên
 
-Khách JP đôi khi ask present mà không pre-notify — test khả năng improvise:
+Khách JP đôi khi yêu cầu present mà không báo trước — test khả năng ứng biến:
 - ✅ **Luôn chuẩn bị 1 deck '3-5 slide intro'** sẵn trước mỗi onsite — phòng case này.
 - ✅ Cấu trúc 'rule of 3' — 3 điểm Phase 4 + 3 điểm Phase 5. Dễ nhớ + dễ trình bày.
 - ✅ **Số liệu cụ thể** ('2 tuần early', '5 engineer') > general statement.
@@ -160,7 +160,7 @@ Khách JP đôi khi ask present mà không pre-notify — test khả năng impro
 
 ---
 
-## Scene 5 — Mon 12:30 · Cafeteria Hakuō (tầng 2)
+## Tình huống 5 — Mon 12:30 · Cafeteria Hakuō (tầng 2)
 
 *Cafeteria nhân viên, set lunch ¥600. Tanaka kéo Dũng ngồi cùng bàn 4 người với 2 colleagues mới.*
 
@@ -190,7 +190,7 @@ Tanaka recommend Edo-Tokyo Museum = local tip thật, note vào memory bank.
 
 ---
 
-## Scene 6 — Tue 14:00 · Tokyo office floor 8 — engineering team
+## Tình huống 6 — Tue 14:00 · Tokyo office floor 8 — engineering team
 
 *Tour around office. Matsumoto dẫn Dũng giới thiệu 5 senior engineers chưa từng meet. Đến bàn anh Itoki (Nagoya gốc).*
 
@@ -224,7 +224,7 @@ Senior tech (Itoki) hỏi câu sâu hơn BD scope của Dũng. Cách response:
 
 ---
 
-## Scene 7 — Wed 19:00 · Izakaya Roppongi với Matsumoto + 2 colleagues
+## Tình huống 7 — Wed 19:00 · Izakaya Roppongi với Matsumoto + 2 colleagues
 
 *Izakaya 鳥茂 ở Roppongi, dinner 4 người: Matsumoto + Tanaka + Sasaki + Dũng. Course omakase. Otsukuri (sashimi sống) ra món thứ 3 — có uni (cầu gai sống), Dũng chưa quen.*
 
@@ -266,7 +266,7 @@ Khách JP order món lạ (uni, natto, ankimo) cho khách nước ngoài thử =
 
 ---
 
-## Scene 8 — Thu 10:00 · Phòng Nakamura CFO
+## Tình huống 8 — Thu 10:00 · Phòng Nakamura CFO
 
 *Phòng riêng CFO, 1-on-1 30 phút. Bàn gỗ to, tranh thư pháp treo tường. Nakamura mời cà phê. Câu hỏi senior level.*
 
@@ -301,7 +301,7 @@ Câu CFO 'cậu cảm thấy thế nào về team' = test maturity. Cách respon
 
 ---
 
-## Scene 9 — Thu 18:00 · Convenience store FamilyMart gần hotel
+## Tình huống 9 — Thu 18:00 · Convenience store FamilyMart gần hotel
 
 *Sau 1 ngày dài. Dũng mệt, không đi dinner với khách hôm nay. Vào FamilyMart mua đồ ăn tối ăn trong phòng.*
 
@@ -338,7 +338,7 @@ Câu CFO 'cậu cảm thấy thế nào về team' = test maturity. Cách respon
 
 ---
 
-## Scene 10 — Fri 09:30 · Conference room — closing meeting
+## Tình huống 10 — Fri 09:30 · Conference room — closing meeting
 
 *Tổng kết tuần. Matsumoto + Ōgaki + Tanaka + Dũng. Schedule next visit. Ōgaki hint Dũng quay lại sớm.*
 
@@ -346,7 +346,7 @@ Câu CFO 'cậu cảm thấy thế nào về team' = test maturity. Cách respon
 |---------|-----|
 | **松本PM** | 「ズンさん、1週間お疲れ様でした。今週どうだった?」<br>*Dũng tuần này vất vả. Tuần này thế nào?* |
 | **ズン** | 「本当に充実した1週間でした。月曜のキックオフから木曜の中村CFO 1-on-1 まで、学ぶこと多すぎて整理が追いつきません。土曜の機内でゆっくり振り返ります。」<br>*Một tuần thực sự đầy ắp. Từ kickoff thứ 2 đến 1-on-1 với anh Nakamura thứ 5, học nhiều quá em chưa kịp tổng kết. Thứ 7 trên máy bay em sẽ review kỹ.* |
-| **大垣 営業部長** | 「ズンさん、Phase 5 の準備期間中にもう一度来られない?10月の前半とか。Slack チャンネル提案、こっちで face-to-face で詰めたい。」<br>*Dũng à, trong period chuẩn bị Phase 5 qua thêm 1 lần nữa được không? Đầu tháng 10 chẳng hạn. Đề xuất Slack channel mình muốn close face-to-face.* |
+| **大垣 営業部長** | 「ズンさん、Phase 5 の準備期間中にもう一度来られない?10月の前半とか。Slack チャンネル提案、こっちで face-to-face で詰めたい。」<br>*Dũng à, trong period chuẩn bị Phase 5 qua thêm 1 lần nữa được không? Đầu tháng 10 chẳng hạn. Đề xuất Slack channel mình muốn bàn trực tiếp.* |
 
 *[Lời mời rõ rệt. Nhưng schedule 10/1-15 đã book full meeting Phase 5 prep ở HCMC. Không hứa ngay.]*
 
@@ -355,7 +355,7 @@ Câu CFO 'cậu cảm thấy thế nào về team' = test maturity. Cách respon
 | **ズン** | 「ありがとうございます、嬉しいです。10月前半は実は HCMC で Phase 5 prep の集中期間で、フオン副部長と一度相談させてください。月曜日の朝までにはお返事します。」<br>*Cảm ơn anh, em vui ạ. Đầu tháng 10 thật ra ở HCMC là thời gian intensive prep Phase 5, để em bàn với chị Hương. Sáng thứ 2 em trả lời.* |
 | **大垣 営業部長** | 「了解、無理しないで。代わりに10月後半でも全然OKだから。」<br>*Rõ, đừng cố. Hậu tháng 10 thay thế cũng OK toàn.* |
 | **松本PM** | 「ズンさん、今週の収穫を簡単にシェアしてもらえる?」<br>*Dũng share ngắn thu hoạch tuần này được không?* |
-| **ズン** | 「3点に絞ります。(1) 伊藤さんの質問から、tech depth で会話できる準備をすべきと痛感。(2) 中村CFO との 1-on-1 で、外部視点の価値を実感。(3) 月曜のサプライズプレゼンで、即答力の練習が必要と気づきました。」<br>*Em chọn 3 điểm. (1) Từ câu hỏi anh Itoki, em thấy phải chuẩn bị conversational depth tech. (2) 1-on-1 với anh Nakamura giúp em cảm nhận giá trị 'góc nhìn từ ngoài'. (3) Bài present surprise thứ 2 dạy em phải luyện improv response.* |
+| **ズン** | 「3点に絞ります。(1) 伊藤さんの質問から、tech depth で会話できる準備をすべきと痛感。(2) 中村CFO との 1-on-1 で、外部視点の価値を実感。(3) 月曜のサプライズプレゼンで、即答力の練習が必要と気づきました。」<br>*Em chọn 3 điểm. (1) Từ câu hỏi anh Itoki, em thấy phải chuẩn bị conversational depth tech. (2) 1-on-1 với anh Nakamura giúp em cảm nhận giá trị 'góc nhìn từ ngoài'. (3) Bài present surprise thứ 2 dạy em phải luyện khả năng ứng biến.* |
 | **田中PMO** | 「整理が早い。来週の月曜にレポート送ってもらえる?」<br>*Tổng kết nhanh ghê. Tuần sau thứ 2 gửi report cho mình được không?* |
 | **ズン** | 「了解、月曜の朝に送ります。」<br>*Rõ, sáng thứ 2 em gửi.* |
 
@@ -364,7 +364,7 @@ Câu CFO 'cậu cảm thấy thế nào về team' = test maturity. Cách respon
 
 Cuối tuần onsite host muốn thấy:
 - ✅ **Concrete takeaways** — 'rule of 3' (3 điểm) > vague 'em học nhiều'.
-- ✅ **Self-aware** — pointer điểm yếu (improv response, tech depth) = mature.
+- ✅ **Self-aware** — pointer điểm yếu (khả năng ứng biến, tech depth) = mature.
 - ✅ **Defer invitations với reason cụ thể** — không hứa, không từ chối thẳng.
 - ✅ **Cam kết deliverable** (report thứ 2) — close loop concrete.
 - Host JP cực giá trị junior 'biết tự reflect' > junior 'tự khen'.
@@ -372,7 +372,7 @@ Cuối tuần onsite host muốn thấy:
 
 ---
 
-## Scene 11 — Fri 12:00 · Sảnh chia tay Hakuō HQ
+## Tình huống 11 — Fri 12:00 · Sảnh chia tay Hakuō HQ
 
 *Inoue + Tanaka tiễn ra cửa, đưa omiyage cho team Tien Phat. Bag nặng ≈3kg bánh kẹo Tokyo.*
 
@@ -409,7 +409,7 @@ Khách JP đưa omiyage chia tay cho team home country = standard. Bonus moment 
 
 ---
 
-## Scene 12 — Fri 19:00 · Don Quijote Shinjuku
+## Tình huống 12 — Fri 19:00 · Don Quijote Shinjuku
 
 *Mua omiyage tự cho gia đình + bạn HCMC. Don Quijote 6 tầng, đủ thứ. Dũng làm list 10 món, đi vòng 1.5 tiếng.*
 
@@ -437,7 +437,7 @@ Khách JP đưa omiyage chia tay cho team home country = standard. Bonus moment 
 
 Last day onsite = mua omiyage cho gia đình + bạn HCMC. Hack:
 - ✅ **Chuẩn bị list 10 món + budget trước** từ Tokyo Day 2 — không impulse-buy ngày cuối.
-- ✅ **Don Quijote / Loft / Tokyo Station shop** = one-stop, đủ giá.
+- ✅ **Don Quijote / Loft / Tokyo Station shop** = mua một chỗ, đủ giá.
 - ✅ **Tax-free for tourist** > ¥5,000/store/day → tiết kiệm 8%.
 - ✅ **Cắt bớt khi over budget** — chia ưu tiên (gia đình > bạn thân > team) — không try to please all.
 - ✅ **Royce / KitKat matcha / Tokyo Banana** là default an toàn.
@@ -446,7 +446,7 @@ Last day onsite = mua omiyage cho gia đình + bạn HCMC. Hack:
 
 ---
 
-## Scene 13 — Sat 06:00 · Hotel check-out → Narita Express
+## Tình huống 13 — Sat 06:00 · Hotel check-out → Narita Express
 
 *Check-out 6:00 sáng. Bus shuttle chưa chạy → đi taxi đến ga Shinjuku. N'EX 6:45 đến Narita 8:15. Va-li ≈23.5kg (limit 23).*
 
@@ -484,7 +484,7 @@ Limit 23kg JAL/VN/ANA cho economy. Trick:
 
 ---
 
-## Scene 14 — Sat 14:00 · Trên máy bay JAL về HCMC
+## Tình huống 14 — Sat 14:00 · Trên máy bay JAL về HCMC
 
 *Ghế cửa sổ, hàng 22A. Dũng mở memory bank app trên iPhone, viết note tổng tuần. Internal monologue dài — không có dialogue ngoài.*
 
@@ -512,7 +512,7 @@ Tuần onsite intensive = thông tin overload. **Reflect ngay trên máy bay v�
 - Memory còn fresh — đến HCMC + Monday office sẽ blur lại.
 - ✅ **Format checklist + 5 wins + 5 mistakes** — concrete, dễ retrieve sau.
 - ✅ **1 self-promise** cho next visit — hành động cụ thể.
-- ✅ Tải sẵn 1 video / podcast học liên quan — biến flight thành productive hour.
+- ✅ Tải sẵn 1 video / podcast học liên quan — biến chuyến bay thành giờ học hiệu quả.
 - ❌ Đừng nhậu trên máy bay nếu định viết note serious.
 
 
@@ -526,7 +526,7 @@ Tuần onsite intensive = thông tin overload. **Reflect ngay trên máy bay v�
 2026-09-XX  Onsite Tokyo Week 1 (Mon-Fri @ Hakuō HQ)
 
 5 wins:
-1. Mon kickoff present surprise — improv 5 phút OK với rule of 3.
+1. Mon kickoff present surprise — ứng biến 5 phút OK với rule of 3.
 2. Tue Itoki Bedrock question — honest 'sẽ check rồi mail' = trust earned.
 3. Thu Nakamura 1-on-1 — observation về Slack channels được CFO
    ask deck đề xuất Phase 5. Promotion signal.

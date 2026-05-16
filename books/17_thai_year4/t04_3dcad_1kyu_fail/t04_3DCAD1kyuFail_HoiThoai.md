@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Sáng thi · 12/2025
+## Tình huống 1 — Sáng thi · 12/2025
 
 | Speaker | Lời thoại |
 |---|---|
@@ -14,7 +14,7 @@
 
 ---
 
-## Scene 2 — Thi xong · chiều
+## Tình huống 2 — Thi xong · chiều
 
 | Speaker | Lời thoại |
 |---|---|
@@ -24,7 +24,7 @@
 
 ---
 
-## Scene 3 — Kết quả 1 tháng sau · 1/2026
+## Tình huống 3 — Kết quả 1 tháng sau · 1/2026
 
 | Speaker | Lời thoại |
 |---|---|
@@ -34,7 +34,7 @@
 
 ---
 
-## Scene 4 — Sakurai an ủi · 17:00
+## Tình huống 4 — Sakurai an ủi · 17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -47,7 +47,7 @@
 
 ---
 
-## Scene 5 — Mai gọi · 22:00
+## Tình huống 5 — Mai gọi · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -60,7 +60,7 @@
 
 ---
 
-## Scene 6 — Đêm · 23:00
+## Tình huống 6 — Đêm · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -71,7 +71,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

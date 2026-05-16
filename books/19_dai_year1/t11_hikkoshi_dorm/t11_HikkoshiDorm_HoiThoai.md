@@ -8,7 +8,7 @@
 
 ---
 
-## Scene 1 — Đại nói chuyện với Tanaka · 19:00 cơm tối
+## Tình huống 1 — Đại nói chuyện với Tanaka · 19:00 cơm tối
 
 | Speaker | Lời thoại |
 |---|---|
@@ -25,7 +25,7 @@
 
 ---
 
-## Scene 2 — Tanaka phản ứng · 19:30
+## Tình huống 2 — Tanaka phản ứng · 19:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -39,7 +39,7 @@
 
 ---
 
-## Scene 3 — Apply ký túc + sign contract · 1 tuần sau
+## Tình huống 3 — Nộp đơn ký túc xá + ký hợp đồng · 1 tuần sau
 
 | Speaker | Lời thoại |
 |---|---|
@@ -58,7 +58,7 @@
 
 ---
 
-## Scene 4 — Đóng gói + Tony chở · sáng 1/4
+## Tình huống 4 — Đóng gói + Tony chở · sáng 1/4
 
 | Speaker | Lời thoại |
 |---|---|
@@ -74,7 +74,7 @@
 
 ---
 
-## Scene 5 — Đến ký túc + gặp Bahra · 11:00
+## Tình huống 5 — Đến ký túc + gặp Bahra · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -89,7 +89,7 @@
 
 ---
 
-## Scene 6 — Tour ký túc + 4 người tầng · 11:30
+## Tình huống 6 — Tham quan ký túc xá + 4 người tầng · 11:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -107,7 +107,7 @@
 
 ---
 
-## Scene 7 — Unpack + sắp · 14:00
+## Tình huống 7 — Dọn đồ vào phòng · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -124,7 +124,7 @@
 
 ---
 
-## Scene 8 — Cơm tối với 4 người · 19:00
+## Tình huống 8 — Cơm tối với 4 người · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -144,13 +144,13 @@
 
 ---
 
-## Scene 9 — Đêm 1 ký túc · 23:00
+## Tình huống 9 — Đêm 1 ký túc · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
-| Đại | (VN, nhật ký) 1/4/2025. Day 1 ký túc.<br>*(Day 1.)* |
+| Đại | (VN, nhật ký) 1/4/2025. Ngày đầu ký túc xá.<br>*(Ngày đầu.)* |
 | Đại | (VN) Tanaka 12 tháng kết. Tony+Yumi gia đình thứ 2.<br>*(Family 2.)* |
-| Đại | (VN) Cohort mới: Bahra (Mông), Rim (VN), John (Mỹ). 4 quốc.<br>*(4 quốc.)* |
+| Đại | (VN) Nhóm mới: Bahra (Mông), Rim (VN), John (Mỹ). 4 quốc.<br>*(4 quốc.)* |
 | Đại | (VN) Phòng riêng đầu. Tự lập từ giờ.<br>*(Tự lập.)* |
 | Đại | (VN) 4 万 tiền nhà + 1 万 tiện ích = 5 万. Còn 70 万 baito - 5 = 65 万 chi tiêu.<br>*(Ngân sách.)* |
 | Đại | (VN) Mẹ đỡ gánh. Em không cần gửi tiền về từ 4/2025 trở đi.<br>*(Đỡ mẹ.)* |
@@ -158,7 +158,7 @@
 
 ---
 
-## Scene 10 — Sáng day 2 + Yumi LINE · 7:00
+## Tình huống 10 — Sáng day 2 + Yumi LINE · 7:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -173,7 +173,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

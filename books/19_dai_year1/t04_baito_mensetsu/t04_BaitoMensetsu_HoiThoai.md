@@ -8,7 +8,7 @@
 
 ---
 
-## Scene 1 — Yamada-sensei khuyên · 17:00
+## Tình huống 1 — Yamada-sensei khuyên · 17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -25,7 +25,7 @@
 
 ---
 
-## Scene 2 — CV writing · 21:00 phòng Tanaka
+## Tình huống 2 — Chuẩn bị CV · 21:00 phòng Tanaka
 
 | Speaker | Lời thoại |
 |---|---|
@@ -45,7 +45,7 @@
 
 ---
 
-## Scene 3 — Apply 5 cửa hàng · 1 tuần
+## Tình huống 3 — Nộp đơn 5 cửa hàng · 1 tuần
 
 | Speaker | Lời thoại |
 |---|---|
@@ -65,7 +65,7 @@
 
 ---
 
-## Scene 4 — Yamada coach 面接 vocab · 18:00 sau giờ học
+## Tình huống 4 — Yamada coach 面接 vocab · 18:00 sau giờ học
 
 | Speaker | Lời thoại |
 |---|---|
@@ -83,7 +83,7 @@
 
 ---
 
-## Scene 5 — Tanaka practice · 21:00 nhà
+## Tình huống 5 — Tanaka practice · 21:00 nhà
 
 | Speaker | Lời thoại |
 |---|---|
@@ -100,7 +100,7 @@
 
 ---
 
-## Scene 6 — Sáng phỏng vấn · 13:30 (sau giờ học)
+## Tình huống 6 — Sáng phỏng vấn · 13:30 (sau giờ học)
 
 | Speaker | Lời thoại |
 |---|---|
@@ -113,7 +113,7 @@
 
 ---
 
-## Scene 7 — Suzuki tenchou xuất hiện · 13:35
+## Tình huống 7 — Suzuki tenchou xuất hiện · 13:35
 
 | Speaker | Lời thoại |
 |---|---|
@@ -129,7 +129,7 @@
 
 ---
 
-## Scene 8 — Sift discussion · 13:45
+## Tình huống 8 — Bàn lịch ca · 13:45
 
 | Speaker | Lời thoại |
 |---|---|
@@ -144,7 +144,7 @@
 
 ---
 
-## Scene 9 — Difficult question · 13:55
+## Tình huống 9 — Difficult question · 13:55
 
 | Speaker | Lời thoại |
 |---|---|
@@ -159,7 +159,7 @@
 
 ---
 
-## Scene 10 — Báo Tony+Yumi+mẹ · 22:00
+## Tình huống 10 — Báo Tony+Yumi+mẹ · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -177,7 +177,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

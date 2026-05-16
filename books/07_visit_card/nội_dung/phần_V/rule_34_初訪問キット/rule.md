@@ -1,6 +1,6 @@
-# Rule 34 — Onsite Nhật lần đầu — survival kit / 初訪問 Survival Kit
+# Rule 34 — Onsite Nhật lần đầu — bộ đồ thiết yếu / 初訪問 Survival Kit
 
-> **Luận điểm.** Onsite Tokyo lần đầu = đừng nghĩ "tới rồi mua". Phân biệt rõ **thứ phải xong tại VN** vs **thứ mua tại Nhật**. 6 nhóm: **cash · IC card · suit · omiyage · thời tiết · Wi-Fi**. Sai nhớ: **omiyage / cash / mạng = bắt buộc xong tại VN**. Đến Narita không có cash = không mua được Suica = không đi taxi được = thảm họa ngày 1.
+> **Luận điểm.** Onsite Tokyo lần đầu = đừng nghĩ "tới rồi mua". Phân biệt rõ **thứ phải xong tại VN** vs **thứ mua tại Nhật**. 6 nhóm: **tiền mặt · IC card · vest · omiyage · thời tiết · Wi-Fi**. Sai nhớ: **omiyage / tiền mặt / mạng = bắt buộc xong tại VN**. Đến Narita không có tiền mặt = không mua được Suica = không đi taxi được = thảm họa ngày 1.
 >
 > Survival Kit = 現金・IC card・スーツ・お土産・天気・Wifi の6カテゴリ。VN出発前 vs 現地調達 を区別。
 >
@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-D-2 trước onsite Tokyo, Hải (lần đầu đi onsite) check survival kit với Tuấn (lead). Hải nghĩ "tới Nhật mua cũng được" → Tuấn phải sửa lại từng món.
+D-2 trước onsite Tokyo, Hải (lần đầu đi onsite) check bộ đồ thiết yếu với Tuấn (lead). Hải nghĩ "tới Nhật mua cũng được" → Tuấn phải sửa lại từng món.
 
 ---
 
@@ -22,7 +22,7 @@ D-2 trước onsite Tokyo, Hải (lần đầu đi onsite) check survival kit v�
 | **ハイ** | 「現金は現地ATMで引きます。スーツは spray でいいかな。お土産は Narita 空港で見ます。」 |
 | **トゥアンリーダー** | 「全部NG。①日本ATMはVN cardを多く拒否、空港着いた時点で taxi 必要 ②sprayでwrinkleは取れない ③Narita のお土産=brand微妙+brand不揃い。Survival kit 整理しよう。」 |
 
-**Vì sao xấu:** (1) Đến không có tiền mặt = ATM Nhật từ chối thẻ VN nhiều = không mua được IC card sân bay = không đi taxi được. (2) Không phòng nhăn suit = ngày đầu mất tầm. (3) Omiyage chưa có, định mua sân bay = brand không ổn, không đồng bộ — pattern fail giống rule_16.
+**Vì sao xấu:** (1) Đến không có tiền mặt = ATM Nhật từ chối thẻ VN nhiều = không mua được IC card sân bay = không đi taxi được. (2) Không phòng nhăn vest = ngày đầu mất tầm. (3) Omiyage chưa có, định mua sân bay = brand không ổn, không đồng bộ — pattern fail giống rule_16.
 
 ---
 
@@ -38,7 +38,7 @@ D-2 trước onsite Tokyo, Hải (lần đầu đi onsite) check survival kit v�
 📝 **Ghi chú:**
 - 【1】**Cash 5 man yen — đổi trước ở VN** (sân bay / ngân hàng). Đến Narita mua được IC card + đi taxi luôn. ATM Nhật hay từ chối thẻ VN.
 - 【2】**Suica mua tại quầy xanh JR Narita** (deposit 2,000 yên + 3,000 yên dư). iPhone hỗ trợ thì setup eSIM Suica trước càng tốt.
-- 【3】**Hanger + kỹ thuật xếp suit trong vali** (gập tay áo vào trong tránh nhăn). Đến hotel treo lên + steam mini ngay.
+- 【3】**Hanger + kỹ thuật xếp vest trong vali** (gập tay áo vào trong tránh nhăn). Đến hotel treo lên + máy hấp nhỏ ngay.
 - 【4】**Omiyage chuẩn bị từ VN** — cà phê / trà / bánh brand cao cấp, đóng gói riêng. Mua tại Narita = mất tâm (trùng rule 16).
 - 【5】**Tokyo tháng 4-5 sáng tối lạnh + mưa bất ngờ** → ô gấp + cardigan / áo khoác mỏng cần ngay từ chiều ngày 1.
 - 【6】**Pocket Wi-Fi / eSIM ký trước khi rời VN** — sân bay cũng có nhưng ngày đầu cần online map + Slack ngay = tránh sự cố.
@@ -49,7 +49,7 @@ D-2 trước onsite Tokyo, Hải (lần đầu đi onsite) check survival kit v�
 
 > **「Survival Kit は現金・IC card・スーツ・お土産・天気・Wifi の6カテゴリで整理。」**
 >
-> *Survival kit chia 6 nhóm: cash, IC card, suit, omiyage, thời tiết, Wi-Fi.*
+> *Bộ đồ thiết yếu chia 6 nhóm: tiền mặt, IC card, vest, omiyage, thời tiết, Wi-Fi.*
 
 ---
 
@@ -59,7 +59,7 @@ D-2 trước onsite Tokyo, Hải (lần đầu đi onsite) check survival kit v�
 - Mua omiyage tại Narita — brand không ổn, mất tâm
 - Suit chỉ xịt spray chống nhăn — không hết được
 - Đặt Wi-Fi tại Narita — ngày đầu cần map + Slack ngay khi xuống máy bay
-- Quên hanger / steamer mini — sáng D1 mặc suit nhăn
+- Quên hanger / máy hấp nhỏ — sáng D1 mặc vest nhăn
 
 ---
 

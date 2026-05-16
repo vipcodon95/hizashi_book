@@ -1,6 +1,6 @@
 # Rule 26 — Đối phó với threat / ultimatum / 脅し・最終通告への対応
 
-> **Luận đischuyển. Khách hard "¥15M でなければ Y 社に発注", "今週中に決めなければ" = pressure tactic. Pattern xử lý: **(1) Bridge phrase** ("ご指摘の点、もっともでございます"), **(2) Reframe + boundary** ("ただ弊社として〜は難しい"), **(3) Escalate to senior** (anh Hà CTO step in). Match cứng = lose deal; cave in = lose margin. Bridge + escalate = win-stay.
+> **Luận điểm.** Khách hard "¥15M でなければ Y 社に発注", "今週中に決めなければ" = pressure tactic. Pattern xử lý: **(1) Câu chuyển** ("ご指摘の点、もっともでございます"), **(2) Đổi góc nhìn + giữ ranh giới** ("ただ弊社として〜は難しい"), **(3) Escalate to senior** (anh Hà CTO step in). Match cứng = lose deal; nhượng bộ quá mức = lose margin. Câu chuyển + escalate = giữ được lợi thế.
 >
 > 脅しや ultimatum は pressure tactic。Bridge phrase で受けて、reframe で boundary を示し、必要なら senior にエスカレーション。
 >
@@ -44,8 +44,8 @@
 | **大垣** | 「…CTO 同席ですと話が変わりますね。¥15.5M なら社内に持ち帰り検討します。」 |
 
 📝 **Ghi chú:**
-- 【1】**Bridge phrase** = de-escalation. KHÔNG argue ngay. "ご指摘の点、もっともでございます" = formal acknowledgment.
-- 【2】**Boundary phrase** "弊社として〜は難しい" — show position cứng nhưng tone polite.
+- 【1】**Câu chuyển** = hạ nhiệt. KHÔNG argue ngay. "ご指摘の点、もっともでございます" = ghi nhận chính thức.
+- 【2】**Câu giữ ranh giới** "弊社として〜は難しい" — show position cứng nhưng giọng điệu lịch sự.
 - 【3】**Senior escalation** "弊社 CTO をお呼びしてもよろしいでしょうか" — phải xin phép, không tự ý gọi.
 - 【4】**CTO 来ても scope-cut bằng số cụ thể** — "65% 達成度" là metric khiến khách nhận pain. CTO bring authority + new info.
 
@@ -53,16 +53,16 @@
 
 ## 🎯 Câu chốt
 
-> **「Bridge phrase で受け、boundary で抵抗、senior escalation で deescalate。Match も cave-in も両方避ける。」**
+> **「Bridge phrase で受け、boundary で抵抗、senior escalation で de-escalate。Match も cave-in も両方避ける。」**
 >
-> *Bridge để đỡ, boundary để giữ vị thế, senior step in để de-escalate. Tránh cả match cứng lẫn cave-in.*
+> *Câu chuyển để đỡ, giữ ranh giới để giữ vị thế, senior step in để hạ nhiệt. Tránh cả match cứng lẫn nhượng bộ quá mức.*
 
 ---
 
 ## ⚠ Tránh
 
 - "Y 社で本当にできるとは…" → challenge khách = mất 顔
-- "では ¥15M で" → cave-in giảm ¥3M trong 1 phút
+- "では ¥15M で" → nhượng bộ quá mức, giảm ¥3M trong 1 phút
 - Senior escalation không xin phép → bất lịch sự
 - Senior step in nhưng không bring new authority/info → useless escalation
 

@@ -1,6 +1,6 @@
 # Rule 37 — Internal kickoff hand-off / 社内キックオフ
 
-> **Luận điểm.** Sau ký, phase delivery do Tanaka PMO + Tuấn drive — KHÔNG phải Dũng. Nhưng Dũng owns hand-off: **(1) Negotiation context summary** (tại sao ¥17M, scope mỗi phần đến từ trade nào), **(2) Khách side personality map** (Ōgaki direct, Tanaka detail), **(3) Open promises** (mọi commitment miệng còn nợ). Skip hand-off → delivery team rediscover, redo work, cost time.
+> **Luận điểm.** Sau ký, phase bàn giao do Tanaka PMO + Tuấn drive — KHÔNG phải Dũng. Nhưng Dũng chịu trách nhiệm bàn giao: **(1) Negotiation context summary** (tại sao ¥17M, scope mỗi phần đến từ trade nào), **(2) Hồ sơ nhân sự phía khách** (Ōgaki trực tiếp, Tanaka chi tiết), **(3) Open promises** (mọi commitment miệng còn nợ). Skip bàn giao → delivery team rediscover, redo work, tốn thời gian.
 >
 > 商談 → delivery 引き継ぎでは、価格・スコープの背景、相手 personality、口頭 commitment を文書化して PMO + Tech Lead に渡す。
 >
@@ -10,11 +10,11 @@
 
 ## Bối cảnh / 場面
 
-Phase 3 ký xong thứ Hai. Thứ Tư có internal kickoff: Tuấn (Tech Lead delivery), Tanaka PMO 白鷗 join async, Dũng hand-off. Nếu Dũng chỉ "contract attach, có gì hỏi" → tuần thứ 2 Tuấn sẽ Slack "scope item này từ đâu ra?" và Ōgaki Slack lại Dũng → spiral.
+Phase 3 ký xong thứ Hai. Thứ Tư có internal kickoff: Tuấn (Tech Lead delivery), Tanaka PMO 白鷗 join async, Dũng bàn giao. Nếu Dũng chỉ "contract attach, có gì hỏi" → tuần thứ 2 Tuấn sẽ Slack "scope item này từ đâu ra?" và Ōgaki Slack lại Dũng → vòng xoáy leo thang.
 
 ---
 
-## ❌ Hội thoại XẤU — hand-off lỏng, không context
+## ❌ Hội thoại XẤU — bàn giao lỏng, không context
 
 | | Speaker | Câu (社内 MTG) |
 |--|---------|-----|
@@ -28,7 +28,7 @@ Phase 3 ký xong thứ Hai. Thứ Tư có internal kickoff: Tuấn (Tech Lead de
 
 ---
 
-## ✅ Hội thoại TỐT — 30 phút structured hand-off + doc
+## ✅ Hội thoại TỐT — 30 phút bàn giao có cấu trúc + doc
 
 *MTG 開始 · ① context · ② personality · ③ open promises · Slack 同期*
 
@@ -42,7 +42,7 @@ Phase 3 ký xong thứ Hai. Thứ Tư có internal kickoff: Tuấn (Tech Lead de
 | **田中PMO** | 「ズン様、ありがとうございました。tomorrow 朝、Tuấn さんと初回 sync 設定します。引継ぎ doc 拝見しました【4】、 personality map 助かります。」 |
 
 📝 **Ghi chú:**
-- 【1】**3 セクション structure** — context / personality / promises. それぞれ 8-10 分.
+- 【1】**Cấu trúc 3 phần** — context / hồ sơ nhân sự / promises. それぞれ 8-10 分.
 - 【2】**「交渉的 NG」 vs 「技術的可能」** = delivery team が知らないと shortcut で SLA 落とす可能性. Tradeoff の歴史を共有.
 - 【3】**口頭 commitment 必ず文書化**. 「ついで」「次回も」 は契約外でも顧客記憶。Tanaka PMO 知らないと将来 nibble (rule 29) source.
 - 【4】**Pre-share doc + 同期 read** = MTG が確認の場になる、 discovery の場ではない.
@@ -53,17 +53,17 @@ Phase 3 ký xong thứ Hai. Thứ Tư có internal kickoff: Tuấn (Tech Lead de
 
 > **「ハンドオフ 3 セクション (context / personality / open promises) + 事前 doc 共有 = delivery team 立ち上がり -2 週間。」**
 >
-> *Hand-off 3 sections + pre-share doc = delivery team start sớm 2 tuần.*
+> *Bàn giao 3 phần + pre-share doc = delivery team start sớm 2 tuần.*
 
 ---
 
 ## ⚠ Tránh
 
 - 「contract 読んでください」 only → context loss 100%
-- Personality map skip → delivery team が "なぜ Ōgaki さん厳しい" 自学。1 ヶ月コスト
+- Hồ sơ nhân sự skip → delivery team が "なぜ Ōgaki さん厳しい" 自学。1 ヶ月コスト
 - 口頭 commitment 文書化忘れ → 顧客から急に "あれは" 引用 → contract 外なのに対応せざるを得ず
-- Hand-off MTG なし、Slack DM のみ → 文脈が search でき even retrievable
-- Hand-off 後も Dũng が delivery 質問対応続ける → ownership が曖昧, Tuấn 育たず
+- Không có buổi bàn giao, chỉ Slack DM → 文脈が search でき even retrievable
+- Sau bàn giao Dũng が delivery 質問対応続ける → trách nhiệm が曖昧, Tuấn 育たず
 
 ---
 

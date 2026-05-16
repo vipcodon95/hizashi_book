@@ -14,7 +14,7 @@
 
 > "Anh Matsumoto,
 >
-> Em viết để follow up về phụ lục hợp đồng em gửi anh thứ Ba 13/05. **Em không chắc mail có vào spam của anh không, hoặc có thể anh đang bận với đợt đóng quý**.
+> Em viết để nhắc lại về phụ lục hợp đồng em gửi anh thứ Ba 13/05. **Em không chắc mail có vào spam của anh không, hoặc có thể anh đang bận với đợt đóng quý**.
 >
 > Em vẫn đang giữ bản nháp sẵn sàng cho anh. Anh có thể cho em biết:
 > - Nếu anh cần thêm thời gian → em có thể đợi đến **thứ Sáu 17/05**.

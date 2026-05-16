@@ -69,7 +69,7 @@ App có thể render template như download-ready box (copy clipboard hoặc t�
 ## Cast mới so với sách 02
 
 - **大垣 営業部長 / anh Ōgaki** — Sales head bên 白鷗株式会社, vai đối tác đàm phán hợp đồng phase 2. Tone formal nhưng straight-to-the-point hơn Matsumoto.
-- **em Linh / リン** — đã có trong cast sách 02 nhưng bắt đầu **active** từ sách 03 (Dũng mentor lần đầu).
+- **em Linh / リン** — đã có trong cast sách 02 nhưng bắt đầu **xuất hiện** từ sách 03 (Dũng mentor lần đầu).
 
 ---
 

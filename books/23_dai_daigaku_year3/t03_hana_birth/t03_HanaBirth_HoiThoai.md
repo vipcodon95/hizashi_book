@@ -9,7 +9,7 @@
 
 ---
 
-## Scene 1 — Sáng 5/8 — Mai bắt đầu đẻ · 4:00 AM
+## Tình huống 1 — Sáng 5/8 — Mai bắt đầu đẻ · 4:00 AM
 
 | Speaker | Lời thoại |
 |---|---|
@@ -21,7 +21,7 @@
 
 ---
 
-## Scene 2 — Sinh + first cry · 6:30 AM
+## Tình huống 2 — Sinh + first cry · 6:30 AM
 
 | Speaker | Lời thoại |
 |---|---|
@@ -36,7 +36,7 @@
 
 ---
 
-## Scene 3 — LINE family · 8:00 AM
+## Tình huống 3 — LINE family · 8:00 AM
 
 | Speaker | Lời thoại |
 |---|---|
@@ -49,7 +49,7 @@
 
 ---
 
-## Scene 4 — Tony+Yumi visit · 9:00 AM
+## Tình huống 4 — Tony+Yumi visit · 9:00 AM
 
 | Speaker | Lời thoại |
 |---|---|
@@ -61,7 +61,7 @@
 
 ---
 
-## Scene 5 — Cohort visit + Yamada · 7/5
+## Tình huống 5 — Cohort visit + Yamada · 7/5
 
 | Speaker | Lời thoại |
 |---|---|
@@ -73,7 +73,7 @@
 
 ---
 
-## Scene 6 — Mẹ Đại sang Nhật · 12/8
+## Tình huống 6 — Mẹ Đại sang Nhật · 12/8
 
 | Speaker | Lời thoại |
 |---|---|
@@ -85,7 +85,7 @@
 
 ---
 
-## Scene 7 — Đêm reflect
+## Tình huống 7 — Đêm reflect
 
 | Speaker | Lời thoại |
 |---|---|
@@ -96,7 +96,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

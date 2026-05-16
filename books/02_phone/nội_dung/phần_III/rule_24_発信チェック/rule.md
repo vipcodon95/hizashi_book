@@ -20,7 +20,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 | 4 | 5W1H | Note When/Where/Who/What/Why/How đã viết? |
 | 5 | 環境 | Không ai nói chuyện ồn xung quanh? |
 
-## ✅ Hội thoại — internal self-check + first call
+## ✅ Hội thoại — tự kiểm nội bộ + cuộc gọi đầu
 
 *独り言 · 電話で*
 

@@ -10,7 +10,7 @@
 
 ---
 
-## Scene 1 — Phòng Hoa · 5:00 sáng
+## Tình huống 1 — Phòng Hoa · 5:00 sáng
 
 Hoa nhìn sổ tay 指導員 Tanaka tặng, đọc lại ghi chú đã chuẩn bị 2 tuần.
 
@@ -24,7 +24,7 @@ Hoa nhìn sổ tay 指導員 Tanaka tặng, đọc lại ghi chú đã chuẩn b
 
 ---
 
-## Scene 2 — Bếp ký túc · 5:30
+## Tình huống 2 — Bếp ký túc · 5:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -43,7 +43,7 @@ Hoa nhìn sổ tay 指導員 Tanaka tặng, đọc lại ghi chú đã chuẩn b
 
 ---
 
-## Scene 3 — Nhà máy phòng thay đồ · 6:30
+## Tình huống 3 — Nhà máy phòng thay đồ · 6:30
 
 Hoa chuẩn bị sẵn đồng phục cho Mai.
 
@@ -61,7 +61,7 @@ Hoa chuẩn bị sẵn đồng phục cho Mai.
 
 ---
 
-## Scene 4 — Hoa demo 10 bước
+## Tình huống 4 — Hoa demo 10 bước
 
 | Speaker | Lời thoại |
 |---|---|
@@ -79,7 +79,7 @@ Hoa chuẩn bị sẵn đồng phục cho Mai.
 
 ---
 
-## Scene 5 — Tiếp 10 bước
+## Tình huống 5 — Tiếp 10 bước
 
 | Speaker | Lời thoại |
 |---|---|
@@ -96,7 +96,7 @@ Hoa chuẩn bị sẵn đồng phục cho Mai.
 
 ---
 
-## Scene 6 — Mai thử mặc — sai bước găng tay
+## Tình huống 6 — Mai thử mặc — sai bước găng tay
 
 | Speaker | Lời thoại |
 |---|---|
@@ -114,7 +114,7 @@ Hoa chuẩn bị sẵn đồng phục cho Mai.
 
 ---
 
-## Scene 7 — Bồn rửa tay · 7:00, demo 二度洗い
+## Tình huống 7 — Bồn rửa tay · 7:00, demo 二度洗い
 
 | Speaker | Lời thoại |
 |---|---|
@@ -134,7 +134,7 @@ Hoa chuẩn bị sẵn đồng phục cho Mai.
 
 ---
 
-## Scene 8 — Mai thử rửa lần 1 — 15 giây
+## Tình huống 8 — Mai thử rửa lần 1 — 15 giây
 
 | Speaker | Lời thoại |
 |---|---|
@@ -151,7 +151,7 @@ Hoa chuẩn bị sẵn đồng phục cho Mai.
 
 ---
 
-## Scene 9 — Kimura đi qua quan sát
+## Tình huống 9 — Kimura đi qua quan sát
 
 Kimura âm thầm đứng xa quan sát Hoa dạy Mai.
 
@@ -171,7 +171,7 @@ Kimura âm thầm đứng xa quan sát Hoa dạy Mai.
 
 ---
 
-## Scene 10 — Mai rửa lần 2 — đủ 30 giây
+## Tình huống 10 — Mai rửa lần 2 — đủ 30 giây
 
 | Speaker | Lời thoại |
 |---|---|
@@ -190,7 +190,7 @@ Kimura âm thầm đứng xa quan sát Hoa dạy Mai.
 
 ---
 
-## Scene 11 — Trưa · 食堂
+## Tình huống 11 — Trưa · 食堂
 
 | Speaker | Lời thoại |
 |---|---|
@@ -205,7 +205,7 @@ Kimura âm thầm đứng xa quan sát Hoa dạy Mai.
 
 ---
 
-## Scene 12 — Chiều · 9 allergen
+## Tình huống 12 — Chiều · 9 allergen
 
 Hoa dẫn Mai đến phòng QC, bảng dán 9 allergen.
 
@@ -223,7 +223,7 @@ Hoa dẫn Mai đến phòng QC, bảng dán 9 allergen.
 
 ---
 
-## Scene 13 — 検便 explanation
+## Tình huống 13 — 検便 explanation
 
 | Speaker | Lời thoại |
 |---|---|
@@ -242,7 +242,7 @@ Hoa dẫn Mai đến phòng QC, bảng dán 9 allergen.
 
 ---
 
-## Scene 14 — Cuối ca · 17:30
+## Tình huống 14 — Cuối ca · 17:30
 
 Mai mệt rõ. Hoa nhận ra.
 
@@ -260,7 +260,7 @@ Mai mệt rõ. Hoa nhận ra.
 
 ---
 
-## Scene 15 — Tối ký túc · Mai cảm ơn Hoa
+## Tình huống 15 — Tối ký túc · Mai cảm ơn Hoa
 
 | Speaker | Lời thoại |
 |---|---|
@@ -277,7 +277,7 @@ Mai mệt rõ. Hoa nhận ra.
 
 ---
 
-## Scene 16 — Phòng Hoa · 22:00, viết nhật ký
+## Tình huống 16 — Phòng Hoa · 22:00, viết nhật ký
 
 | Speaker | Lời thoại |
 |---|---|

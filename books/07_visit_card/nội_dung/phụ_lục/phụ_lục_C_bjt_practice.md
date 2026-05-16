@@ -247,7 +247,7 @@
 - 🇯🇵 起立 → 正式bow → ドア前で再bow が日本式退室の3点セット。最後の印象=最大記憶。
 - 🇻🇳 Đứng dậy → bow chính thức → trước cửa bow lần 2 = combo退室 Nhật. Ấn tượng cuối ăn sâu nhất.
 
-### J3.15 (từ rule_24 — Mời khách dinner formal)
+### J3.15 (từ rule_24 — Mời khách bữa ăn tối trang trọng)
 
 **Skill:** 場面把握
 
@@ -315,7 +315,7 @@
 - 🇯🇵 CFOクラスの初対面は45°最敬礼。30°だと軽すぎ、90°は謝罪専用。
 - 🇻🇳 Lần đầu gặp CFO = 45° saikeirei. 30° hơi nhẹ, 90° chỉ dùng xin lỗi.
 
-### J3.19 (từ rule_34 — Onsite Nhật lần đầu — survival kit)
+### J3.19 (từ rule_34 — Onsite Nhật lần đầu — bộ đồ thiết yếu)
 
 **Skill:** 場面把握
 
@@ -590,7 +590,7 @@
 - 🇯🇵 VN流『自分でやる/俺が払う/即返し』は日本式相互ケアと衝突。譲って次回 host を申し出るのが正解。
 - 🇻🇳 Kiểu VN 'tự làm/để em trả/đáp lễ ngay' xung đột với kiểu Nhật chăm sóc lẫn nhau. Đúng là nhường, hẹn lần sau mình mời.
 
-### J2.16 (từ rule_35 — Self-review ceremony etiquette)
+### J2.16 (từ rule_35 — Tự đánh giá ceremony etiquette)
 
 **Skill:** 場面把握
 

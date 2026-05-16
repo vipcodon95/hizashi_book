@@ -10,7 +10,7 @@ Cuối tháng 3/2028. Năm tài khoá đóng. Linh chị từ Việt Nam qua ch�
 
 ---
 
-## Scene 1 — Sân bay Narita · 14:00, đón Linh
+## Tình huống 1 — Sân bay Narita · 14:00, đón Linh
 
 | Speaker | Lời thoại |
 |---|---|
@@ -27,7 +27,7 @@ Cuối tháng 3/2028. Năm tài khoá đóng. Linh chị từ Việt Nam qua ch�
 
 ---
 
-## Scene 2 — Trên xe về Saitama
+## Tình huống 2 — Trên xe về Saitama
 
 | Speaker | Lời thoại |
 |---|---|
@@ -42,7 +42,7 @@ Cuối tháng 3/2028. Năm tài khoá đóng. Linh chị từ Việt Nam qua ch�
 
 ---
 
-## Scene 3 — Ký túc · 16:00, Mai và Putri đợi
+## Tình huống 3 — Ký túc · 16:00, Mai và Putri đợi
 
 | Speaker | Lời thoại |
 |---|---|
@@ -57,7 +57,7 @@ Cuối tháng 3/2028. Năm tài khoá đóng. Linh chị từ Việt Nam qua ch�
 
 ---
 
-## Scene 4 — Hôm sau · Linh đến nhà máy thăm cast
+## Tình huống 4 — Hôm sau · Linh đến nhà máy thăm cast
 
 | Speaker | Lời thoại |
 |---|---|
@@ -65,7 +65,7 @@ Cuối tháng 3/2028. Năm tài khoá đóng. Linh chị từ Việt Nam qua ch�
 | Linh | <ruby>田中部長<rt>たなかぶちょう</rt></ruby>、お<ruby>元気<rt>げんき</rt></ruby>でしたか?<br>*(Anh Tanaka, khoẻ không?)* |
 | Tanaka | <ruby>元気<rt>げんき</rt></ruby>です。リンさんは?<br>*(Khoẻ. Linh-san thì sao?)* |
 | Linh | ベトナムで<ruby>結婚<rt>けっこん</rt></ruby>しました。<br>*(Em cưới ở Việt Nam rồi.)* |
-| Cast | え!?おめでとう!<br>*(Ơ!? Chúc mừng!)* |
+| Nhân vật | え!?おめでとう!<br>*(Ơ!? Chúc mừng!)* |
 | Linh | ありがとうございます。<br>*(Cảm ơn ạ.)* |
 | Hoa | リン<ruby>姉<rt>ねえ</rt></ruby>さん、<ruby>結婚<rt>けっこん</rt></ruby>!?<br>*(Chị Linh, cưới?!)* |
 | Linh | <ruby>3<rt>さん</rt></ruby>か<ruby>月前<rt>げつまえ</rt></ruby>。<br>*(3 tháng trước.)* |
@@ -74,7 +74,7 @@ Cuối tháng 3/2028. Năm tài khoá đóng. Linh chị từ Việt Nam qua ch�
 
 ---
 
-## Scene 5 — Kimura đặc biệt với Linh
+## Tình huống 5 — Kimura đặc biệt với Linh
 
 | Speaker | Lời thoại |
 |---|---|
@@ -90,7 +90,7 @@ Cuối tháng 3/2028. Năm tài khoá đóng. Linh chị từ Việt Nam qua ch�
 
 ---
 
-## Scene 6 — Andi từ Nagoya · sân bay Haneda
+## Tình huống 6 — Andi từ Nagoya · sân bay Haneda
 
 | Speaker | Lời thoại |
 |---|---|
@@ -105,7 +105,7 @@ Cuối tháng 3/2028. Năm tài khoá đóng. Linh chị từ Việt Nam qua ch�
 
 ---
 
-## Scene 7 — Ký túc · 4 cô gái + Linh tụ họp
+## Tình huống 7 — Ký túc · 4 cô gái + Linh tụ họp
 
 | Speaker | Lời thoại |
 |---|---|
@@ -121,14 +121,14 @@ Cuối tháng 3/2028. Năm tài khoá đóng. Linh chị từ Việt Nam qua ch�
 
 ---
 
-## Scene 8 — Bonenkai · 居酒屋 19:00
+## Tình huống 8 — Bonenkai · 居酒屋 19:00
 
 Cast đầy đủ: Tanaka, Satou, Suzuki, Yamada, Takahashi, Kimura, Hoa, Mai, Putri, Linh, Andi.
 
 | Speaker | Lời thoại |
 |---|---|
 | Tanaka | みんな、<ruby>2<rt>に</rt></ruby><ruby>年目<rt>ねんめ</rt></ruby>お<ruby>疲<rt>つか</rt></ruby>れさまでした。<ruby>乾杯<rt>かんぱい</rt></ruby>!<br>*(Mọi người, năm 2 vất vả rồi. Cạn ly!)* |
-| Cast | <ruby>乾杯<rt>かんぱい</rt></ruby>!<br>*(Cạn ly!)* |
+| Nhân vật | <ruby>乾杯<rt>かんぱい</rt></ruby>!<br>*(Cạn ly!)* |
 | Linh | <ruby>本日<rt>ほんじつ</rt></ruby>はお<ruby>邪魔<rt>じゃま</rt></ruby>します。<br>*(Hôm nay em xin làm phiền.)* |
 | Andi | <ruby>本日<rt>ほんじつ</rt></ruby>もよろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。<br>*(Hôm nay xin nhờ mọi người.)* |
 | Tanaka | リンさん、アンディさん、<ruby>遠<rt>とお</rt></ruby>くから<ruby>来<rt>き</rt></ruby>てくれてありがとう。<br>*(Linh-san, Andi-san, cảm ơn đã đến từ xa.)* |
@@ -136,7 +136,7 @@ Cast đầy đủ: Tanaka, Satou, Suzuki, Yamada, Takahashi, Kimura, Hoa, Mai, P
 
 ---
 
-## Scene 9 — Trong tiệc · cast hỏi Linh
+## Tình huống 9 — Trong tiệc · cast hỏi Linh
 
 | Speaker | Lời thoại |
 |---|---|
@@ -144,16 +144,16 @@ Cast đầy đủ: Tanaka, Satou, Suzuki, Yamada, Takahashi, Kimura, Hoa, Mai, P
 | Linh | <ruby>食品工場<rt>しょくひんこうじょう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。<ruby>日本<rt>にほん</rt></ruby>で<ruby>習<rt>なら</rt></ruby>ったことを<ruby>活<rt>い</rt></ruby>かしています。<br>*(Em làm ở nhà máy thực phẩm. Vận dụng những gì học ở Nhật.)* |
 | Satou | <ruby>素晴<rt>すば</rt></ruby>らしい!<br>*(Tuyệt!)* |
 | Linh | <ruby>結婚<rt>けっこん</rt></ruby>もしました。<ruby>主人<rt>しゅじん</rt></ruby>はベトナム<ruby>人<rt>じん</rt></ruby>。<br>*(Cũng cưới rồi. Chồng Việt Nam.)* |
-| Cast | おお〜!<br>*(Ô~!)* |
+| Nhân vật | おお〜!<br>*(Ô~!)* |
 | Linh | <ruby>来年<rt>らいねん</rt></ruby><ruby>子供<rt>こども</rt></ruby>が<ruby>生<rt>う</rt></ruby>まれます。<br>*(Năm sau sinh con.)* |
-| Cast | わー!おめでとう!<br>*(Wow! Chúc mừng!)* |
+| Nhân vật | わー!おめでとう!<br>*(Wow! Chúc mừng!)* |
 | Hoa | リン<ruby>姉<rt>ねえ</rt></ruby>さん、お<ruby>母<rt>かあ</rt></ruby>さん!<br>*(Chị Linh, làm mẹ!)* |
 | Linh | はい... <ruby>不安<rt>ふあん</rt></ruby>。<br>*(Vâng... lo.)* |
 | Tanaka | <ruby>大丈夫<rt>だいじょうぶ</rt></ruby>。リンさんは<ruby>強<rt>つよ</rt></ruby>い。<br>*(Không sao. Linh-san mạnh mẽ.)* |
 
 ---
 
-## Scene 10 — Hoa speech 2 năm · 21:00
+## Tình huống 10 — Hoa speech 2 năm · 21:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -164,7 +164,7 @@ Cast đầy đủ: Tanaka, Satou, Suzuki, Yamada, Takahashi, Kimura, Hoa, Mai, P
 
 ---
 
-## Scene 11 — Hoa speech tiếp
+## Tình huống 11 — Hoa speech tiếp
 
 | Speaker | Lời thoại |
 |---|---|
@@ -176,7 +176,7 @@ Cast đầy đủ: Tanaka, Satou, Suzuki, Yamada, Takahashi, Kimura, Hoa, Mai, P
 
 ---
 
-## Scene 12 — Hoa speech tiếp
+## Tình huống 12 — Hoa speech tiếp
 
 | Speaker | Lời thoại |
 |---|---|
@@ -184,14 +184,14 @@ Cast đầy đủ: Tanaka, Satou, Suzuki, Yamada, Takahashi, Kimura, Hoa, Mai, P
 | Hoa | <ruby>来年<rt>らいねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>、<ruby>絶対<rt>ぜったい</rt></ruby><ruby>合格<rt>ごうかく</rt></ruby>します。<br>*(Tháng 12 năm sau, nhất định đậu.)* |
 | Hoa | 3つ<ruby>目<rt>め</rt></ruby>:<ruby>来年<rt>らいねん</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby>。N3 <ruby>合格<rt>ごうかく</rt></ruby>と SSW1 <ruby>準備<rt>じゅんび</rt></ruby>。<br>*(Thứ 3: mục tiêu năm sau. Đậu N3 và chuẩn bị SSW1.)* |
 | Hoa | 2029<ruby>年<rt>ねん</rt></ruby>4<ruby>月<rt>がつ</rt></ruby>に<ruby>特定技能<rt>とくていぎのう</rt></ruby>1<ruby>号<rt>ごう</rt></ruby>。それから<ruby>長<rt>なが</rt></ruby>く<ruby>日本<rt>にほん</rt></ruby>に。<br>*(Tháng 4/2029 SSW1. Rồi ở Nhật lâu.)* |
-| Cast | おお〜!<br>*(Ô~!)* |
+| Nhân vật | おお〜!<br>*(Ô~!)* |
 | Hoa | みなさん、これからもよろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。<br>*(Mọi người, sau này cũng nhờ mọi người.)* |
 | Hoa | <ruby>本当<rt>ほんとう</rt></ruby>にありがとうございました。<br>*(Thực sự cảm ơn.)* |
 | *(vỗ tay)* | <br> |
 
 ---
 
-## Scene 13 — Tanaka tặng Hoa kỷ vật
+## Tình huống 13 — Tanaka tặng Hoa kỷ vật
 
 | Speaker | Lời thoại |
 |---|---|
@@ -208,7 +208,7 @@ Cast đầy đủ: Tanaka, Satou, Suzuki, Yamada, Takahashi, Kimura, Hoa, Mai, P
 
 ---
 
-## Scene 14 — Kimura tặng Hoa bento tự làm
+## Tình huống 14 — Kimura tặng Hoa bento tự làm
 
 | Speaker | Lời thoại |
 |---|---|
@@ -223,7 +223,7 @@ Cast đầy đủ: Tanaka, Satou, Suzuki, Yamada, Takahashi, Kimura, Hoa, Mai, P
 
 ---
 
-## Scene 15 — Linh và Hoa, riêng
+## Tình huống 15 — Linh và Hoa, riêng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -238,21 +238,21 @@ Cast đầy đủ: Tanaka, Satou, Suzuki, Yamada, Takahashi, Kimura, Hoa, Mai, P
 
 ---
 
-## Scene 16 — 一本締め · 22:00
+## Tình huống 16 — 一本締め · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
 | Tanaka | では、<ruby>2<rt>に</rt></ruby><ruby>年目<rt>ねんめ</rt></ruby>の<ruby>締<rt>し</rt></ruby>めに、<ruby>一本締<rt>いっぽんじ</rt></ruby>め!<br>*(Vậy, để kết năm 2, 一本締め!)* |
 | Tanaka | お<ruby>手<rt>て</rt></ruby>を<ruby>拝借<rt>はいしゃく</rt></ruby>!<br>*(Mượn tay nhé!)* |
-| Cast | *(đứng dậy, giơ tay)*<br> |
+| Nhân vật | *(đứng dậy, giơ tay)*<br> |
 | Tanaka | いよーお!<br>*(Iyo~!)* |
-| Cast | パン!<br>*(Pán!)* |
+| Nhân vật | パン!<br>*(Pán!)* |
 | Tanaka | ありがとうございました!<br>*(Cảm ơn!)* |
-| Cast | お<ruby>疲<rt>つか</rt></ruby>れさまでした!<br>*(Vất vả rồi!)* |
+| Nhân vật | お<ruby>疲<rt>つか</rt></ruby>れさまでした!<br>*(Vất vả rồi!)* |
 
 ---
 
-## Scene 17 — Sáng hôm sau · Linh chuẩn bị về VN
+## Tình huống 17 — Sáng hôm sau · Linh chuẩn bị về VN
 
 | Speaker | Lời thoại |
 |---|---|
@@ -268,7 +268,7 @@ Cast đầy đủ: Tanaka, Satou, Suzuki, Yamada, Takahashi, Kimura, Hoa, Mai, P
 
 ---
 
-## Scene 18 — Hoa viết nhật ký · cuối năm 2
+## Tình huống 18 — Hoa viết nhật ký · cuối năm 2
 
 | Speaker | Lời thoại |
 |---|---|

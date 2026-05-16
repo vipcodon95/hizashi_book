@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Tech doc kickoff · 1/12/2028
+## Tình huống 1 — Khởi động viết tài liệu kỹ thuật · 1/12/2028
 
 | Speaker | Lời thoại |
 |---|---|
@@ -13,7 +13,7 @@
 
 ---
 
-## Scene 2 — Architecture diagram
+## Tình huống 2 — Architecture diagram
 
 | Speaker | Lời thoại |
 |---|---|
@@ -21,7 +21,7 @@
 
 ---
 
-## Scene 3 — DB schema · 5/12
+## Tình huống 3 — DB schema · 5/12
 
 | Speaker | Lời thoại |
 |---|---|
@@ -30,7 +30,7 @@
 
 ---
 
-## Scene 4 — API endpoints · 8/12
+## Tình huống 4 — API endpoints · 8/12
 
 | Speaker | Lời thoại |
 |---|---|
@@ -38,7 +38,7 @@
 
 ---
 
-## Scene 5 — Cost projection · 10/12
+## Tình huống 5 — Dự toán chi phí · 10/12
 
 | Speaker | Lời thoại |
 |---|---|
@@ -53,7 +53,7 @@
 
 ---
 
-## Scene 6 — Đêm reflect · 22/12
+## Tình huống 6 — Đêm reflect · 22/12
 
 | Speaker | Lời thoại |
 |---|---|
@@ -65,7 +65,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

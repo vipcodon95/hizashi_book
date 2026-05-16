@@ -11,7 +11,7 @@
 
 ---
 
-## Scene 1 — Mai test pregnancy + bác sĩ · 5/1/2028
+## Tình huống 1 — Mai test pregnancy + bác sĩ · 5/1/2028
 
 | Speaker | Lời thoại |
 |---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-## Scene 2 — Báo Tony+Yumi · 8/1 chiều
+## Tình huống 2 — Báo Tony+Yumi · 8/1 chiều
 
 | Speaker | Lời thoại |
 |---|---|
@@ -35,7 +35,7 @@
 
 ---
 
-## Scene 3 — Báo bố mẹ HN + Linh-Anh · 9/1 LINE
+## Tình huống 3 — Báo bố mẹ HN + Linh-Anh · 9/1 LINE
 
 | Speaker | Lời thoại |
 |---|---|
@@ -47,7 +47,7 @@
 
 ---
 
-## Scene 4 — Mai pause Yamato School · 12/1
+## Tình huống 4 — Mai pause Yamato School · 12/1
 
 | Speaker | Lời thoại |
 |---|---|
@@ -58,7 +58,7 @@
 
 ---
 
-## Scene 5 — Cohort celebrate · 14/1 weekend
+## Tình huống 5 — Cohort celebrate · 14/1 weekend
 
 | Speaker | Lời thoại |
 |---|---|
@@ -71,7 +71,7 @@
 
 ---
 
-## Scene 6 — Đại reflect work-life balance · 20/1
+## Tình huống 6 — Đại reflect work-life balance · 20/1
 
 | Speaker | Lời thoại |
 |---|---|
@@ -83,7 +83,7 @@
 
 ---
 
-## Scene 7 — Đêm reflect
+## Tình huống 7 — Đêm reflect
 
 | Speaker | Lời thoại |
 |---|---|
@@ -94,7 +94,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

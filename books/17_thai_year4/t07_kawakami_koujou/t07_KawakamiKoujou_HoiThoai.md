@@ -4,20 +4,20 @@
 
 ---
 
-## Scene 1 — Kawakami announce · 8:30 朝礼
+## Tình huống 1 — Kawakami announce · 8:30 朝礼
 
 | Speaker | Lời thoại |
 |---|---|
 | Tanaka | <ruby>本日<rt>ほんじつ</rt></ruby>よりカワカミさんが<ruby>工場長<rt>こうじょうちょう</rt></ruby><ruby>代理<rt>だいり</rt></ruby>になります。<br>*(Từ hôm nay anh Kawakami sẽ là quyền 工場長.)* |
-| Cast | はい！<br>*(Vâng!)* |
+| Nhân vật | はい！<br>*(Vâng!)* |
 | Tanaka | <ruby>9<rt>く</rt></ruby><ruby>月<rt>がつ</rt></ruby>に<ruby>正式<rt>せいしき</rt></ruby><ruby>就任<rt>しゅうにん</rt></ruby>です。<br>*(Tháng 9 sẽ chính thức nhậm chức.)* |
 | Tanaka | <ruby>設計課長代理<rt>せっけいかちょうだいり</rt></ruby>はタイ<ruby>君<rt>くん</rt></ruby>に<ruby>任<rt>まか</rt></ruby>せます。<br>*(Quyền trưởng phòng thiết kế giao cho Tai-kun.)* |
-| Cast | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
+| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
 | Thái | えっ！？<br>*(Ơ!?)* |
 
 ---
 
-## Scene 2 — Kawakami brief Thái · 9:00
+## Tình huống 2 — Kawakami brief Thái · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -29,7 +29,7 @@
 
 ---
 
-## Scene 3 — Daily new role · 1 tuần sau
+## Tình huống 3 — Daily new role · 1 tuần sau
 
 | Speaker | Lời thoại |
 |---|---|
@@ -42,7 +42,7 @@
 
 ---
 
-## Scene 4 — First leadership decision · 14:00
+## Tình huống 4 — First leadership decision · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -55,7 +55,7 @@
 
 ---
 
-## Scene 5 — Mai gọi · 22:00
+## Tình huống 5 — Mai gọi · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -67,7 +67,7 @@
 
 ---
 
-## Scene 6 — Đêm · 23:00
+## Tình huống 6 — Đêm · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -78,7 +78,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -1,4 +1,4 @@
-# Rule 55 — Cross-border online meeting / 国際オンライン会議
+# Rule 55 — Họp online quốc tế / 国際オンライン会議
 
 > **Luận điểm.** Họp online quốc tế: **(1) hỏi múi giờ + ngôn ngữ chính** ngay đầu, **(2) nói chậm hơn cả người Nhật bản xứ**, **(3) tránh từ lóng/bóng gió**, **(4) confirm hiểu sau mỗi vấn đề lớn.
 >

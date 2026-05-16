@@ -11,7 +11,7 @@
 
 ---
 
-## Scene 1 — Đại 育休 ngày cuối · 14/1 22:00 nhà
+## Tình huống 1 — Đại 育休 ngày cuối · 14/1 22:00 nhà
 
 | Speaker | Lời thoại |
 |---|---|
@@ -25,7 +25,7 @@
 
 ---
 
-## Scene 2 — Đại Day 1 quay lại · 15/1 9:30 WeWork
+## Tình huống 2 — Đại Day 1 quay lại · 15/1 9:30 WeWork
 
 | Speaker | Lời thoại |
 |---|---|
@@ -39,7 +39,7 @@
 
 ---
 
-## Scene 3 — 5 hires onboarding · 20/1 thứ Hai
+## Tình huống 3 — 5 hires onboarding · 20/1 thứ Hai
 
 | Speaker | Lời thoại |
 |---|---|
@@ -54,7 +54,7 @@
 
 ---
 
-## Scene 4 — Office Umeda Center move-in · 1/2 thứ Bảy
+## Tình huống 4 — Office Umeda Center move-in · 1/2 thứ Bảy
 
 | Speaker | Lời thoại |
 |---|---|
@@ -69,7 +69,7 @@
 
 ---
 
-## Scene 5 — Mai+Đông + Hana visit office · 7/2 chiều cuối tuần
+## Tình huống 5 — Mai+Đông + Hana visit office · 7/2 chiều cuối tuần
 
 | Speaker | Lời thoại |
 |---|---|
@@ -85,7 +85,7 @@
 
 ---
 
-## Scene 6 — Mai recovery + nhật ký · 15/2 22:00
+## Tình huống 6 — Mai recovery + nhật ký · 15/2 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -98,7 +98,7 @@
 
 ---
 
-## Scene 7 — End January reflect · 28/2 23:00
+## Tình huống 7 — End January reflect · 28/2 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -107,7 +107,7 @@
 
 ---
 
-## Scene 8 — Đêm Đại+Mai talk future · 23:30
+## Tình huống 8 — Đêm Đại+Mai talk future · 23:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -121,27 +121,27 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
-| 育休復帰 | いくきゅうふっき | Return from paternity leave |
-| オフィス拡張 | オフィスかくちょう | Office expansion |
-| Move-in | ムーブイン | Move-in (office) |
-| HQ | ホンシャ | Headquarters |
-| 採用 | さいよう | Recruitment |
-| シニアバックエンド | シニアバックエンド | Senior backend |
-| マーケティングマネージャー | マーケティングマネージャー | Marketing Manager |
-| Operations | オペレーションズ | Operations |
-| 産後復帰 | さんごふっき | Postpartum return to work |
-| 育児休業 | いくじきゅうぎょう | Childcare leave |
+| 育休復帰 | いくきゅうふっき | Quay lại làm việc sau nghỉ chăm con |
+| オフィス拡張 | オフィスかくちょう | Mở rộng văn phòng |
+| Move-in | ムーブイン | Dọn vào (văn phòng) |
+| HQ | ホンシャ | Trụ sở chính |
+| 採用 | さいよう | Tuyển dụng |
+| シニアバックエンド | シニアバックエンド | Lập trình viên backend cấp cao |
+| マーケティングマネージャー | マーケティングマネージャー | Quản lý marketing |
+| Operations | オペレーションズ | Vận hành |
+| 産後復帰 | さんごふっき | Quay lại làm việc sau sinh |
+| 育児休業 | いくじきゅうぎょう | Nghỉ chăm con |
 
 ## Bí quyết chương
 
-- **育休 4 tuần passed without issue**: Founder rest = company resilience test
-- **5 hires onboard Q1**: 3 backend (KR+ZH+JP) + 1 marketing + 1 ops = balanced team scale
-- **Office WeWork → riêng**: Identity milestone + 25 desks runway 12-18 tháng growth
-- **Mai postpartum part-time return 4/2032**: Pace tự chọn — không stress
-- **3rd child plan**: Long-term vision align between spouse
+- **育休 4 tuần trôi qua suôn sẻ**: Founder nghỉ = bài kiểm tra sức bền của công ty
+- **5 nhân viên mới onboard Q1**: 3 backend (KR+ZH+JP) + 1 marketing + 1 vận hành = mở rộng team cân bằng
+- **Office WeWork → văn phòng riêng**: cột mốc định hình bản sắc + 25 bàn làm việc đủ cho 12-18 tháng tăng trưởng
+- **Mai quay lại bán thời gian hậu sản 4/2032**: nhịp độ tự chọn — không áp lực
+- **Kế hoạch con thứ 3**: hai vợ chồng đồng thuận tầm nhìn dài hạn
 
-> *"育休 1 tháng done. 5 hires onboard, team 10. Office Umeda Center 8F move-in. Bé Đông 1-2 tháng khoẻ. Mai 80% recovery, plan part-time 4/2032. MRR Jan ¥6M. 3rd child long-term plan agreed."*
+> *"育休 1 tháng xong. 5 nhân viên mới onboard, team 10. Dọn vào văn phòng Umeda Center 8F. Bé Đông 1-2 tháng khoẻ. Mai hồi phục 80%, kế hoạch bán thời gian 4/2032. MRR tháng 1 ¥6M. Đã thống nhất kế hoạch con thứ 3 dài hạn."*

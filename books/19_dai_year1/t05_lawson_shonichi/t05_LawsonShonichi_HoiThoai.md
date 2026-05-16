@@ -8,7 +8,7 @@ Lawson Namba — cửa hàng 800m² cạnh ga JR Namba. 1 ca 4 nhân viên. Đ�
 
 ---
 
-## Scene 1 — Sáng đầu chuẩn bị · 17:30 phòng
+## Tình huống 1 — Sáng đầu chuẩn bị · 17:30 phòng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -20,7 +20,7 @@ Lawson Namba — cửa hàng 800m² cạnh ga JR Namba. 1 ca 4 nhân viên. Đ�
 
 ---
 
-## Scene 2 — Đến cửa hàng · 17:55
+## Tình huống 2 — Đến cửa hàng · 17:55
 
 | Speaker | Lời thoại |
 |---|---|
@@ -31,7 +31,7 @@ Lawson Namba — cửa hàng 800m² cạnh ga JR Namba. 1 ca 4 nhân viên. Đ�
 
 ---
 
-## Scene 3 — Gặp Tanaka-kun + Park · 18:00
+## Tình huống 3 — Gặp Tanaka-kun + Park · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -44,7 +44,7 @@ Lawson Namba — cửa hàng 800m² cạnh ga JR Namba. 1 ca 4 nhân viên. Đ�
 
 ---
 
-## Scene 4 — Manual greetings + 6 cụm cốt lõi · 18:10
+## Tình huống 4 — Manual greetings + 6 cụm cốt lõi · 18:10
 
 | Speaker | Lời thoại |
 |---|---|
@@ -61,7 +61,7 @@ Lawson Namba — cửa hàng 800m² cạnh ga JR Namba. 1 ca 4 nhân viên. Đ�
 
 ---
 
-## Scene 5 — Hướng dẫn quầy thu ngân · 18:30
+## Tình huống 5 — Hướng dẫn quầy thu ngân · 18:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -75,7 +75,7 @@ Lawson Namba — cửa hàng 800m² cạnh ga JR Namba. 1 ca 4 nhân viên. Đ�
 
 ---
 
-## Scene 6 — First customer · 19:00
+## Tình huống 6 — First customer · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -96,7 +96,7 @@ Lawson Namba — cửa hàng 800m² cạnh ga JR Namba. 1 ca 4 nhân viên. Đ�
 
 ---
 
-## Scene 7 — Thuốc lá lúng túng · 20:00
+## Tình huống 7 — Thuốc lá lúng túng · 20:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -115,7 +115,7 @@ Lawson Namba — cửa hàng 800m² cạnh ga JR Namba. 1 ca 4 nhân viên. Đ�
 
 ---
 
-## Scene 8 — Lỗi + Park hỗ trợ · 20:30
+## Tình huống 8 — Lỗi + Park hỗ trợ · 20:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -132,7 +132,7 @@ Lawson Namba — cửa hàng 800m² cạnh ga JR Namba. 1 ca 4 nhân viên. Đ�
 
 ---
 
-## Scene 9 — Bento heat + Suzuki feedback · 21:30
+## Tình huống 9 — Bento heat + Suzuki feedback · 21:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -153,7 +153,7 @@ Lawson Namba — cửa hàng 800m² cạnh ga JR Namba. 1 ca 4 nhân viên. Đ�
 
 ---
 
-## Scene 10 — 22h kết shift + Tanaka-kun chat · 22:00
+## Tình huống 10 — 22h kết shift + Tanaka-kun chat · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -173,7 +173,7 @@ Lawson Namba — cửa hàng 800m² cạnh ga JR Namba. 1 ca 4 nhân viên. Đ�
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

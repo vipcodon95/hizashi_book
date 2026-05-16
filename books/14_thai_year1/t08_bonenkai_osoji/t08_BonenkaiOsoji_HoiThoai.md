@@ -8,19 +8,19 @@
 
 ---
 
-## Scene 1 — 大掃除 sáng · 8:30
+## Tình huống 1 — 大掃除 sáng · 8:30
 
 | Speaker | Lời thoại |
 |---|---|
 | Tanaka | みなさん、<ruby>本日<rt>ほんじつ</rt></ruby>は<ruby>大掃除<rt>おおそうじ</rt></ruby>です。<ruby>1<rt>いち</rt></ruby><ruby>年間<rt>ねんかん</rt></ruby>の<ruby>感謝<rt>かんしゃ</rt></ruby>を<ruby>込<rt>こ</rt></ruby>めて。<br>*(Mọi người, hôm nay là ngày đại vệ sinh. Mang theo lòng biết ơn 1 năm.)* |
-| Cast | はい！<br>*(Vâng!)* |
+| Nhân vật | はい！<br>*(Vâng!)* |
 | Tanaka | <ruby>各班<rt>かくはん</rt></ruby><ruby>担当<rt>たんとう</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>。<ruby>仕上<rt>しあ</rt></ruby>げ<ruby>班<rt>はん</rt></ruby>はタイ<ruby>君<rt>くん</rt></ruby>とプトラ<ruby>君<rt>くん</rt></ruby>＋スズキさん。<br>*(Mỗi tổ phụ trách khu. Tổ hoàn thiện: Thái + Putra + Suzuki.)* |
 | Thái | はい！<br>*(Vâng!)* |
 | Suzuki | <ruby>磨<rt>みが</rt></ruby>き<ruby>機械<rt>きかい</rt></ruby>と<ruby>道具棚<rt>どうぐだな</rt></ruby><ruby>整理<rt>せいり</rt></ruby>。<br>*(Máy mài + tủ đồ nghề.)* |
 
 ---
 
-## Scene 2 — Vệ sinh chi tiết · 11:00
+## Tình huống 2 — Vệ sinh chi tiết · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -34,7 +34,7 @@
 
 ---
 
-## Scene 3 — Trưa cùng cast · 12:30 食堂
+## Tình huống 3 — Trưa cùng cast · 12:30 食堂
 
 | Speaker | Lời thoại |
 |---|---|
@@ -42,16 +42,16 @@
 | Suzuki | <ruby>仕上<rt>しあ</rt></ruby>げ<ruby>班<rt>はん</rt></ruby><ruby>順調<rt>じゅんちょう</rt></ruby>。<ruby>夕方<rt>ゆうがた</rt></ruby><ruby>終<rt>お</rt></ruby>わる。<br>*(Tổ hoàn thiện thuận. Chiều xong.)* |
 | Operator MC | <ruby>機械加工室<rt>きかいかこうしつ</rt></ruby>もうちょっと。<br>*(Phòng MC còn chút.)* |
 | Tanaka | <ruby>5<rt>ご</rt></ruby><ruby>時<rt>じ</rt></ruby><ruby>終<rt>お</rt></ruby>わって、<ruby>居酒屋<rt>いざかや</rt></ruby><ruby>6<rt>ろく</rt></ruby><ruby>時<rt>じ</rt></ruby>から。<br>*(5h xong, izakaya 6h.)* |
-| Cast | はい！<br>*(Vâng!)* |
+| Nhân vật | はい！<br>*(Vâng!)* |
 
 ---
 
-## Scene 4 — Đến izakaya · 18:00 鳥貴族 Anjo
+## Tình huống 4 — Đến izakaya · 18:00 鳥貴族 Anjo
 
 | Speaker | Lời thoại |
 |---|---|
 | Tanaka | みなさん、<ruby>1<rt>いち</rt></ruby><ruby>年間<rt>ねんかん</rt></ruby>お<ruby>疲<rt>つか</rt></ruby>れさまでした！<br>*(Mọi người, 1 năm vất vả!)* |
-| Cast | お<ruby>疲<rt>つか</rt></ruby>れさまでした！<br>*(Vất vả!)* |
+| Nhân vật | お<ruby>疲<rt>つか</rt></ruby>れさまでした！<br>*(Vất vả!)* |
 | Tanaka | <ruby>本日<rt>ほんじつ</rt></ruby>のメンバー：タナカ、スズキ、カワカミ、サクライ、タイ、プトラ、その<ruby>他<rt>ほか</rt></ruby>。<br>*(Thành viên hôm nay: Tanaka, Suzuki, Kawakami, Sakurai, Thái, Putra, và những người khác.)* |
 | Tanaka | タイ<ruby>君<rt>くん</rt></ruby>とプトラ<ruby>君<rt>くん</rt></ruby>、<ruby>初<rt>はじ</rt></ruby>めての<ruby>忘年会<rt>ぼうねんかい</rt></ruby>！<br>*(Thái và Putra, tiệc tất niên đầu!)* |
 | 2人 | はい！<br>*(Vâng!)* |
@@ -62,7 +62,7 @@
 
 ---
 
-## Scene 5 — Kawakami chief design ngồi cạnh Thái · 18:30
+## Tình huống 5 — Kawakami chief design ngồi cạnh Thái · 18:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -79,12 +79,12 @@
 
 ---
 
-## Scene 6 — 乾杯 + Suzuki rót bia · 19:00
+## Tình huống 6 — 乾杯 + Suzuki rót bia · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
 | Tanaka | <ruby>乾杯<rt>かんぱい</rt></ruby>！<br>*(Cạn!)* |
-| Cast | <ruby>乾杯<rt>かんぱい</rt></ruby>！<br>*(Cạn!)* |
+| Nhân vật | <ruby>乾杯<rt>かんぱい</rt></ruby>！<br>*(Cạn!)* |
 | Suzuki | （<ruby>瓶<rt>びん</rt></ruby><ruby>持<rt>も</rt></ruby>つ）タイ<ruby>君<rt>くん</rt></ruby>、<ruby>注<rt>つ</rt></ruby>ぐよ。<br>*(Cầm chai. Thái, rót cho nhé.)* |
 | Thái | （グラスを<ruby>両手<rt>りょうて</rt></ruby>で<ruby>差<rt>さ</rt></ruby>し<ruby>出<rt>だ</rt></ruby>す）ありがとうございます。<br>*(Đưa cốc bằng hai tay. Cảm ơn anh.)* |
 | Suzuki | <ruby>両手<rt>りょうて</rt></ruby>でいいね！<ruby>日本<rt>にほん</rt></ruby>の<ruby>礼儀<rt>れいぎ</rt></ruby>。<br>*(Hai tay được đấy! Lễ nghi Nhật.)* |
@@ -95,7 +95,7 @@
 
 ---
 
-## Scene 7 — Tanaka speech 1 năm · 20:00
+## Tình huống 7 — Tanaka speech 1 năm · 20:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -106,11 +106,11 @@
 | Tanaka | <ruby>来年<rt>らいねん</rt></ruby><ruby>2<rt>に</rt></ruby><ruby>月<rt>がつ</rt></ruby>からCAD<ruby>研修<rt>けんしゅう</rt></ruby>。<ruby>3<rt>さん</rt></ruby><ruby>月<rt>がつ</rt></ruby><ruby>機械加工<rt>きかいかこう</rt></ruby><ruby>3<rt>さん</rt></ruby><ruby>級<rt>きゅう</rt></ruby>。<br>*(Sang 2 sang CAD đào tạo. Tháng 3 thi 機械加工 3級.)* |
 | Thái | はい！<br>*(Vâng!)* |
 | Tanaka | <ruby>1<rt>いち</rt></ruby><ruby>年間<rt>ねんかん</rt></ruby>ありがとう。<ruby>来年<rt>らいねん</rt></ruby>もよろしく！<br>*(1 năm cảm ơn. Sang năm mong giúp đỡ!)* |
-| Cast | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
+| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
 
 ---
 
-## Scene 8 — Đêm về ký túc · 23:00
+## Tình huống 8 — Đêm về ký túc · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -127,7 +127,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -41,7 +41,7 @@ Em Linh (intern Marketing) gặp vấn đề: nhà cung cấp print brochure bá
 📝 **Ghi chú:**
 - 【1】**「事前に状況・参考事例・仮説をまとめてあります」** — 1 câu mở đã show 3 bộ vật liệu. Sếp biết ngay là tham vấn nghiêm túc.
 - 【2】**①5W1H** — Linh đã có sẵn date/time/quantity/reason. Sếp không phải hỏi lại.
-- 【3】**②3 case** — internal precedent + alternative options đã call. Đây là phần khó nhất nhưng critical: show đã tự research.
+- 【3】**②3 case** — internal precedent + alternative options đã call. Đây là phần khó nhất nhưng then chốt: show đã tự research.
 - 【4】**③仮説 + 自分にない権限** — Linh đề xuất phương án + nói rõ tại sao tham vấn (権限). Đây không phải 丸投げ mà là tham vấn để duyệt.
 
 ---

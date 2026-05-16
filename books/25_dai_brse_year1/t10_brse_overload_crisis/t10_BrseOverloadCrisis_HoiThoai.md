@@ -12,7 +12,7 @@
 
 ---
 
-## Scene 1 — Thứ Hai sáng standup Thanh Hà · 9:00
+## Tình huống 1 — Thứ Hai sáng standup Thanh Hà · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -26,7 +26,7 @@
 
 ---
 
-## Scene 2 — Tối Hizashi standup · Thứ Hai 21:00
+## Tình huống 2 — Tối Hizashi standup · Thứ Hai 21:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -41,7 +41,7 @@
 
 ---
 
-## Scene 3 — Mai phát hiện Đại mệt · Thứ Tư 23:30
+## Tình huống 3 — Mai phát hiện Đại mệt · Thứ Tư 23:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -55,7 +55,7 @@
 
 ---
 
-## Scene 4 — Thứ Năm sáng forced rest · 9:00
+## Tình huống 4 — Thứ Năm sáng forced rest · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -70,7 +70,7 @@
 
 ---
 
-## Scene 5 — Mai weekend recovery + reflection · Thứ Bảy 14/12
+## Tình huống 5 — Mai weekend recovery + reflection · Thứ Bảy 14/12
 
 | Speaker | Lời thoại |
 |---|---|
@@ -85,7 +85,7 @@
 
 ---
 
-## Scene 6 — Tuần sau Đại trở lại · Thứ Hai 16/12 9:00
+## Tình huống 6 — Tuần sau Đại trở lại · Thứ Hai 16/12 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -96,7 +96,7 @@
 
 ---
 
-## Scene 7 — Hizashi MRR check · Cuối tháng 12 31/12
+## Tình huống 7 — Hizashi MRR check · Cuối tháng 12 31/12
 
 | Speaker | Lời thoại |
 |---|---|
@@ -109,7 +109,7 @@
 
 ---
 
-## Scene 8 — Tối 31/12 NYE family · 22:00
+## Tình huống 8 — Tối 31/12 NYE family · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -123,7 +123,7 @@
 
 ---
 
-## Scene 9 — Reflect cá nhân · 23:30
+## Tình huống 9 — Reflect cá nhân · 23:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -132,7 +132,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -150,10 +150,10 @@
 
 ## Bí quyết chương
 
-- **Crisis trifecta**: Thanh Hà urgent + Hizashi growth + BD pipeline → 80h/tuần 過労 (burnout)
-- **Mai = phanh khẩn cấp**: Vợ phát hiện sớm hơn co-founder + ép nghỉ
-- **4 lời hứa 境界線 (boundary)**: ngủ 7h / Chủ Nhật không laptop / sáng Thứ Ba+Năm ở nhà / nghỉ Thanh Hà nếu MRR ≥ target
-- **MRR ¥1.5M = profitable threshold**: Cover 100% burn → quit day job sustainable
-- **LTV/CAC 27.7x**: Excellent SaaS unit economics threshold (>3x = healthy, >10x = exceptional)
+- **Ba mặt trận cùng lúc**: Thanh Hà khẩn cấp + Hizashi tăng trưởng + BD pipeline → 80h/tuần → 過労 (kiệt sức)
+- **Mai = phanh khẩn cấp**: Vợ phát hiện sớm hơn cả co-founder và ép nghỉ ngơi
+- **4 lời hứa 境界線 (ranh giới cá nhân)**: ngủ 7h / Chủ Nhật không laptop / sáng Thứ Ba+Năm ở nhà / nghỉ Thanh Hà nếu MRR ≥ mục tiêu
+- **MRR ¥1.5M = ngưỡng có lãi**: bù đắp 100% burn rate → có thể nghỉ việc chính một cách bền vững
+- **LTV/CAC 27.7 lần**: chỉ số SaaS xuất sắc (>3 lần = khoẻ, >10 lần = ngoại hạng)
 
-> *"Crisis 12/2030. Burnout signal. Mai forced rest 2 ngày → recovery. 4 boundary promises. MRR ¥1.5M target achieved cuối năm. Quit Thanh Hà 4/2031 plan. 2031 = full-time Hizashi + bé 2 + Series A."*
+> *"Khủng hoảng 12/2030. Dấu hiệu kiệt sức. Mai ép nghỉ 2 ngày → hồi phục. 4 lời hứa ranh giới cá nhân. MRR ¥1.5M đạt mục tiêu cuối năm. Kế hoạch nghỉ Thanh Hà 4/2031. 2031 = Hizashi toàn thời gian + bé 2 + Series A."*

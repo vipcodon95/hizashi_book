@@ -23,7 +23,7 @@ Tháng 6/2026, sau dinner Phase 4 closing. 二次会 chuyển sang karaoke phòn
 
 ### 📍 Scenario 1 — Kick-off karaoke: bài đầu phòng
 
-*Karaoke vào phòng, drinks ra · senior, đặt drink · KHÔNG để senior hát đầu — junior hát first warmup · chọn bài safe, upbeat, generation neutral — Mr. Children『シーソーゲーム』 — 90s nhưng radio hit, ai cũng biết · end của bài*
+*Karaoke vào phòng, drinks ra · senior, đặt drink · KHÔNG để senior hát đầu — junior hát đầu để khởi động phòng · chọn bài an toàn, vui, phù hợp mọi thế hệ — Mr. Children『シーソーゲーム』 — 90s nhưng radio hit, ai cũng biết · end của bài*
 
 | Speaker | Câu |
 |---------|-----|
@@ -35,13 +35,13 @@ Tháng 6/2026, sau dinner Phase 4 closing. 二次会 chuyển sang karaoke phòn
 | **ズン** | 「日本語ばかり練習してます(笑)。次、大垣さんいかがですか?」 |
 | **大垣** | 「俺な、サザンの『TSUNAMI』。」 |
 
-📝 **Pattern vàng:** Junior hát đầu **để warmup phòng**, chọn bài **upbeat + 90s** (an toàn, hầu hết JP biết). Sau đó **defer** sang senior với suggestion nhẹ.
+📝 **Công thức vàng:** Junior hát đầu **để khởi động phòng**, chọn bài **vui, nhịp nhanh + 90s** (an toàn, hầu hết JP biết). Sau đó nhường mic sang senior với gợi ý nhẹ.
 
 ---
 
 ### 📍 Scenario 2 — Match Showa cho senior 55t
 
-*60s — cuối bài 'TSUNAMI' · cầm mic, suggest deep cut · Osaka, mê 80s idol · 年齢層直撃 · stand + mock dancing · ライブ感 — 一気に親密度UP*
+*60s — cuối bài 'TSUNAMI' · cầm mic, gợi ý bài ít biết nhưng đúng gu · Osaka, mê 80s idol · 年齢層直撃 · stand + mock dancing · ライブ感 — 一気に親密度UP*
 
 | Speaker | Câu |
 |---------|-----|
@@ -67,7 +67,7 @@ Tháng 6/2026, sau dinner Phase 4 closing. 二次会 chuyển sang karaoke phòn
 | **ズン** | 🎤 |
 | **田中** | (hát together) |
 
-📝【1】 **平成 hits cho 30-40t:** Mr. Children / スピッツ / B'z / ミスチル / aiko / 宇多田ヒカル / コブクロ / ゆず / レミオロメン / EXILE / GReeeeN. **Avoid:** SMAP (chia tay rồi awkward) / J-rap (taste hard).
+📝【1】 **平成 hits cho 30-40t:** Mr. Children / スピッツ / B'z / ミスチル / aiko / 宇多田ヒカル / コブクロ / ゆず / レミオロメン / EXILE / GReeeeN. **Avoid:** SMAP (chia tay rồi lúng túng) / J-rap (khó khớp gu).
 
 ---
 
@@ -86,7 +86,7 @@ Tháng 6/2026, sau dinner Phase 4 closing. 二次会 chuyển sang karaoke phòn
 | **ズン** | 「『木に名前を刻んだ少年』っていう恋の歌で、最近VNで流行りました。」 |
 | **大垣** | 「言語違っても、メロディの良さは伝わるんやな。ハイさん、上手かった!」 |
 
-📝 **Junior VN ở karaoke JP:** không cần ép hát JP. **VN song with Japanese explanation** = thú vị + breaking ice. Suggest **bài có giai điệu dễ catch** (Mỹ Tâm / Sơn Tùng / Hà Anh Tuấn / Phan Mạnh Quỳnh).
+📝 **Junior VN ở karaoke JP:** không cần ép hát JP. **Bài VN kèm giải thích cho khách JP** = thú vị + phá băng tự nhiên. Gợi ý **bài có giai điệu dễ cảm nhận** (Mỹ Tâm / Sơn Tùng / Hà Anh Tuấn / Phan Mạnh Quỳnh).
 
 ---
 
@@ -133,8 +133,8 @@ Tháng 6/2026, sau dinner Phase 4 closing. 二次会 chuyển sang karaoke phòn
 
 - **Bài English pop khó hát** (Whitney Houston / Mariah Carey) → vocal yếu ai cũng nghe được.
 - **Bài quá dark** (椎名林檎 nội tâm sâu) → phá không khí.
-- **Bài tình cảm 1-1** với khách opposite gender → awkward signal.
-- **Bài chống nắng** (隠れ名曲 không ai biết) → khách không follow theo.
+- **Bài tình cảm 1-1** với khách khác giới → tín hiệu ngại ngùng.
+- **Bài quá kén** (隠れ名曲 không ai biết) → khách không hát theo được.
 - **Hát quá nhiều** liên tục 3-4 bài → không nhường mic.
 - **Refuse hát** hoàn toàn → "thiếu hợp tác".
 
@@ -150,7 +150,7 @@ Tháng 6/2026, sau dinner Phase 4 closing. 二次会 chuyển sang karaoke phòn
 | 一体感 | いったいかん | Cảm giác hòa nhập |
 | 鉄板 | てっぱん | "Chắc chắn hay" (idiom) |
 | 隠れ名曲 | かくれめいきょく | Bài hay nhưng không ai biết (nguy hiểm) |
-| 直撃 | ちょくげき | "Hit thẳng" (đúng audience) |
+| 直撃 | ちょくげき | "Chạm đúng gu" (đúng đối tượng) |
 | 空気作る | くうきつくる | Tạo không khí |
 | Showa歌謡 | しょうわかよう | Nhạc Showa truyền thống |
 | 平成ヒット | へいせいヒット | Hit thời Heisei (1989-2019) |
@@ -161,7 +161,7 @@ Tháng 6/2026, sau dinner Phase 4 closing. 二次会 chuyển sang karaoke phòn
 
 **J3 — 場面把握:** Junior hát đầu để warmup. Chọn bài 90s upbeat an toàn.
 **J2 — 表現読解:** Suggest bài cho senior — biết match generation (Showa idol cho 50-60t).
-**J1 — 発言聴解:** Catch khi junior VN nervous → rescue bằng VN song + bridge JP.
+**J1 — 発言聴解:** Catch khi junior VN nervous → gỡ bằng bài VN + kết nối với JP.
 
 ---
 

@@ -8,7 +8,7 @@ Tháng 10/2028. JFE (Japan Food Engineering) Food EXPO tại Tokyo Big Sight, Od
 
 ---
 
-## Scene 1 — Sáng đi sớm · 6:00 ga Saitama
+## Tình huống 1 — Sáng đi sớm · 6:00 ga Saitama
 
 | Speaker | Lời thoại |
 |---|---|
@@ -21,7 +21,7 @@ Tháng 10/2028. JFE (Japan Food Engineering) Food EXPO tại Tokyo Big Sight, Od
 
 ---
 
-## Scene 2 — Trên train · 7:00 Saikyo line
+## Tình huống 2 — Trên train · 7:00 Saikyo line
 
 | Speaker | Lời thoại |
 |---|---|
@@ -35,7 +35,7 @@ Tháng 10/2028. JFE (Japan Food Engineering) Food EXPO tại Tokyo Big Sight, Od
 
 ---
 
-## Scene 3 — Đến Big Sight · 8:30
+## Tình huống 3 — Đến Big Sight · 8:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -49,7 +49,7 @@ Tháng 10/2028. JFE (Japan Food Engineering) Food EXPO tại Tokyo Big Sight, Od
 
 ---
 
-## Scene 4 — Đăng ký + bước vào hall · 9:00
+## Tình huống 4 — Đăng ký + bước vào hall · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -62,7 +62,7 @@ Tháng 10/2028. JFE (Japan Food Engineering) Food EXPO tại Tokyo Big Sight, Od
 
 ---
 
-## Scene 5 — Xem máy mới · 10:00 hall đông 1
+## Tình huống 5 — Xem máy mới · 10:00 hall đông 1
 
 | Speaker | Lời thoại |
 |---|---|
@@ -80,7 +80,7 @@ Tháng 10/2028. JFE (Japan Food Engineering) Food EXPO tại Tokyo Big Sight, Od
 
 ---
 
-## Scene 6 — Gặp 同期 từ HACCP khoá · 11:30 cafe area
+## Tình huống 6 — Gặp 同期 từ HACCP khoá · 11:30 cafe area
 
 | Speaker | Lời thoại |
 |---|---|
@@ -96,7 +96,7 @@ Tháng 10/2028. JFE (Japan Food Engineering) Food EXPO tại Tokyo Big Sight, Od
 
 ---
 
-## Scene 7 — Yang giới thiệu friend · 11:45
+## Tình huống 7 — Yang giới thiệu friend · 11:45
 
 | Speaker | Lời thoại |
 |---|---|
@@ -114,7 +114,7 @@ Tháng 10/2028. JFE (Japan Food Engineering) Food EXPO tại Tokyo Big Sight, Od
 
 ---
 
-## Scene 8 — Trưa 4 người · 12:30 food court
+## Tình huống 8 — Trưa 4 người · 12:30 food court
 
 | Speaker | Lời thoại |
 |---|---|
@@ -131,7 +131,7 @@ Tháng 10/2028. JFE (Japan Food Engineering) Food EXPO tại Tokyo Big Sight, Od
 
 ---
 
-## Scene 9 — Lee gọi recruiter · 13:30
+## Tình huống 9 — Lee gọi recruiter · 13:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -149,7 +149,7 @@ Tháng 10/2028. JFE (Japan Food Engineering) Food EXPO tại Tokyo Big Sight, Od
 
 ---
 
-## Scene 10 — Gặp recruiter Kinoshita · 14:00 booth Tokyo Foods
+## Tình huống 10 — Gặp recruiter Kinoshita · 14:00 booth Tokyo Foods
 
 | Speaker | Lời thoại |
 |---|---|
@@ -165,7 +165,7 @@ Tháng 10/2028. JFE (Japan Food Engineering) Food EXPO tại Tokyo Big Sight, Od
 
 ---
 
-## Scene 11 — Kinoshita pitch tiếp · 14:15
+## Tình huống 11 — Kinoshita pitch tiếp · 14:15
 
 | Speaker | Lời thoại |
 |---|---|
@@ -182,7 +182,7 @@ Tháng 10/2028. JFE (Japan Food Engineering) Food EXPO tại Tokyo Big Sight, Od
 
 ---
 
-## Scene 12 — Hoa lúng túng · 14:30 cafe
+## Tình huống 12 — Hoa lúng túng · 14:30 cafe
 
 | Speaker | Lời thoại |
 |---|---|
@@ -200,7 +200,7 @@ Tháng 10/2028. JFE (Japan Food Engineering) Food EXPO tại Tokyo Big Sight, Od
 
 ---
 
-## Scene 13 — Gặp lại Kondo · 15:00 hall tây
+## Tình huống 13 — Gặp lại Kondo · 15:00 hall tây
 
 | Speaker | Lời thoại |
 |---|---|
@@ -220,7 +220,7 @@ Tháng 10/2028. JFE (Japan Food Engineering) Food EXPO tại Tokyo Big Sight, Od
 
 ---
 
-## Scene 14 — Train về · 18:00
+## Tình huống 14 — Train về · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -240,7 +240,7 @@ Tháng 10/2028. JFE (Japan Food Engineering) Food EXPO tại Tokyo Big Sight, Od
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -256,7 +256,7 @@ Tháng 10/2028. JFE (Japan Food Engineering) Food EXPO tại Tokyo Big Sight, Od
 
 ## Bí quyết chương
 
-- **Networking thật**: Yang+Lee là 同期 từ HACCP khoá. Mạng nhỏ nhưng giá trị.
+- **Xây dựng quan hệ thật**: Yang+Lee là 同期 từ HACCP khoá. Mạng nhỏ nhưng giá trị.
 - **Recruiter lịch sự**: Kinoshita không ép. Đưa danh thiếp + thời hạn cân nhắc 1 tháng.
 - **Kondo neutral**: Không cản, không ủng hộ. Chỉ "đừng quyết chỉ vì lương" — câu khoá.
 - **Kondo's story = mirror**: 20 năm trước Tanaka dạy Kondo. Sau Hoa cũng thành Kondo? Mở câu hỏi cho T11.

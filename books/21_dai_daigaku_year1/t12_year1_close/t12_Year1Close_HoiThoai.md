@@ -10,7 +10,7 @@
 
 ---
 
-## Scene 1 — Sushi izakaya cohort dinner · 19:00
+## Tình huống 1 — Sushi izakaya cohort dinner · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -22,7 +22,7 @@
 
 ---
 
-## Scene 2 — Year 1 stats summary · 19:30
+## Tình huống 2 — Year 1 stats summary · 19:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -41,7 +41,7 @@
 
 ---
 
-## Scene 3 — Year 2 plan + lab tour roadmap · 20:00
+## Tình huống 3 — Year 2 plan + lab tour roadmap · 20:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -55,7 +55,7 @@
 
 ---
 
-## Scene 4 — Mai sang Nhật countdown · 20:30
+## Tình huống 4 — Mai sang Nhật countdown · 20:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -70,7 +70,7 @@
 
 ---
 
-## Scene 5 — Tony+Yumi farewell dinner · 27/4 thứ 6
+## Tình huống 5 — Tony+Yumi farewell dinner · 27/4 thứ 6
 
 | Speaker | Lời thoại |
 |---|---|
@@ -84,7 +84,7 @@
 
 ---
 
-## Scene 6 — Move-out dorm + apt setup · 30/4
+## Tình huống 6 — Move-out dorm + apt setup · 30/4
 
 | Speaker | Lời thoại |
 |---|---|
@@ -98,7 +98,7 @@
 
 ---
 
-## Scene 7 — Mai arrival Kansai 2/5/2027 · 14:00
+## Tình huống 7 — Mai arrival Kansai 2/5/2027 · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -112,7 +112,7 @@
 
 ---
 
-## Scene 8 — Đêm reflect cuối T12 · 23:30 apt Senri-chuo
+## Tình huống 8 — Đêm reflect cuối T12 · 23:30 apt Senri-chuo
 
 | Speaker | Lời thoại |
 |---|---|
@@ -126,7 +126,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

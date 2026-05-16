@@ -1,6 +1,6 @@
 # Rule 34 — Mentoring Hou-Ren-Sou cho junior mới / 新人指導
 
-> **Luận điểm.** Junior mới (intern, fresh hire 1-3 tháng) có 2 vấn đề kinh điển: **(1) Quá rụt rè** → không dám 報告 / 連絡 vì sợ làm phiền sếp, **(2) Quá thoáng** → 質問 mỗi 5 phút trong DM. Mentor phải build **2 cấu trúc cố định**: **(a) Weekly 1-on-1** (30 phút Thứ Sáu, structured agenda), **(b) Slack Office Hour** (1 khung giờ cố định/ngày, vd 14:00-15:00 mentor sẵn sàng). Cộng với **(c) Mentor expectations** rõ ràng từ tuần 1: "Có gì hỏi là tốt, đừng ngại / nhưng critical incident thì @ tôi ngay không cần đợi office hour".
+> **Luận điểm.** Junior mới (intern, fresh hire 1-3 tháng) có 2 vấn đề kinh điển: **(1) Quá rụt rè** → không dám 報告 / 連絡 vì sợ làm phiền sếp, **(2) Quá thoáng** → 質問 mỗi 5 phút trong DM. Mentor phải build **2 cấu trúc cố định**: **(a) Weekly 1-on-1** (30 phút Thứ Sáu, structured agenda), **(b) Slack Giờ tiếp câu hỏi** (1 khung giờ cố định/ngày, vd 14:00-15:00 mentor sẵn sàng). Cộng với **(c) Mentor expectations** rõ ràng từ tuần 1: "Có gì hỏi là tốt, đừng ngại / nhưng sự cố nghiêm trọng thì @ tôi ngay không cần đợi giờ tiếp câu hỏi".
 >
 > 新人指導の3点セット：①Weekly 1-on-1 (金曜30分)②Slack Office Hour (毎日1枠)③期待値 explicit (聞いてOK / 緊急は即連絡)。
 >

@@ -3,11 +3,11 @@
   "rule_slug": "録音・文字起こしの許可",
   "title": {
     "ja": "録音・文字起こしの許可",
-    "vi": "Xin phép ghi âm / transcribe"
+    "vi": "Xin phép ghi âm / chuyển giọng thành văn bản"
   },
   "rule_context": {
     "ja": "オンライン会議冒頭で録音とAI文字起こしの許可を全員から得る場面。日本のプライバシー意識は高い。",
-    "vi": "Đầu họp online xin phép tất cả về việc ghi âm + AI transcribe. Người Nhật rất nghiêm về privacy."
+    "vi": "Đầu họp online xin phép tất cả về việc ghi âm + AI chuyển giọng thành văn bản. Người Nhật rất nghiêm về privacy."
   },
   "related_rules": [
     "rule_52",
@@ -21,7 +21,7 @@
       "display_order": 1,
       "analysis": {
         "ja": "目的（議事録作成）→手段（録音＋文字起こし）→許可確認の順。透明性が信頼を築く。",
-        "vi": "Mục đích (làm biên bản) → phương tiện (ghi âm + transcribe) → xin phép. Minh bạch tạo lòng tin."
+        "vi": "Mục đích (làm biên bản) → phương tiện (ghi âm + chuyển giọng thành văn bản) → xin phép. Minh bạch tạo lòng tin."
       },
       "conversation_lines": [
         {
@@ -30,7 +30,7 @@
           "speaker_role": "BD担当",
           "gender": "male",
           "sentence": "本日のミーティングですが、議事録作成のため録音と自動文字起こしをさせていただきたく存じます。",
-          "sentence_translation": "Buổi họp hôm nay, em xin phép ghi âm và auto-transcribe để làm biên bản ạ.",
+          "sentence_translation": "Buổi họp hôm nay, em xin phép ghi âm và tự động chuyển giọng thành văn bản để làm biên bản ạ.",
           "tone": "formal",
           "speed_multiplier": 0.95
         },
@@ -69,7 +69,7 @@
       "phrase_id": "rule_56_kp_01",
       "speaker": "zun",
       "sentence": "録音と自動文字起こしをさせていただきたく存じます。ご了承いただけますでしょうか？",
-      "sentence_translation": "Em xin phép ghi âm và auto-transcribe ạ. Anh/chị có đồng ý không ạ?",
+      "sentence_translation": "Em xin phép ghi âm và tự động chuyển giọng thành văn bản ạ. Anh/chị có đồng ý không ạ?",
       "purpose": "録音許可の標準フレーズ",
       "slow_audio": true
     }
@@ -89,7 +89,7 @@
       "correct": "B",
       "explanation": {
         "ja": "録音もAI文字起こしも事前許可が必須。日本のプライバシー意識は高い。",
-        "vi": "Cả ghi âm lẫn AI transcribe đều cần xin trước. Nhật rất nghiêm về privacy."
+        "vi": "Cả ghi âm lẫn AI chuyển giọng thành văn bản đều cần xin trước. Nhật rất nghiêm về privacy."
       }
     }
   ]

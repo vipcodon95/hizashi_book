@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Weekly meeting Mon · 8:30
+## Tình huống 1 — Họp nhóm thứ Hai hàng tuần · 8:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -19,7 +19,7 @@
 
 ---
 
-## Scene 2 — Yamamoto 1on1 · 14:00
+## Tình huống 2 — Yamamoto 1on1 · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -32,7 +32,7 @@
 
 ---
 
-## Scene 3 — Long+Hùng 1on1 · 17:00
+## Tình huống 3 — Long+Hùng 1on1 · 17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -45,7 +45,7 @@
 
 ---
 
-## Scene 4 — Adi magaki master · 18:00
+## Tình huống 4 — Adi magaki master · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -57,7 +57,7 @@
 
 ---
 
-## Scene 5 — Sakurai feedback · 20:00
+## Tình huống 5 — Sakurai feedback · 20:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -69,7 +69,7 @@
 
 ---
 
-## Scene 6 — Đêm · 22:00
+## Tình huống 6 — Đêm · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -80,7 +80,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

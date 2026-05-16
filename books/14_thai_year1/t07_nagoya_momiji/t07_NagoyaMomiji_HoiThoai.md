@@ -8,7 +8,7 @@
 
 ---
 
-## Scene 1 — Sáng đi · 9:00 ga Anjo
+## Tình huống 1 — Sáng đi · 9:00 ga Anjo
 
 | Speaker | Lời thoại |
 |---|---|
@@ -20,7 +20,7 @@
 
 ---
 
-## Scene 2 — Linh-chị đón · 10:00 大須観音
+## Tình huống 2 — Linh-chị đón · 10:00 大須観音
 
 | Speaker | Lời thoại |
 |---|---|
@@ -35,7 +35,7 @@
 
 ---
 
-## Scene 3 — 大須商店街 · 10:30
+## Tình huống 3 — 大須商店街 · 10:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -49,7 +49,7 @@
 
 ---
 
-## Scene 4 — Quán miso katsu · 12:00
+## Tình huống 4 — Quán miso katsu · 12:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -58,11 +58,11 @@
 | Sakurai | <ruby>赤<rt>あか</rt></ruby>みそ<ruby>濃<rt>こ</rt></ruby>い、<ruby>愛知<rt>あいち</rt></ruby><ruby>独特<rt>どくとく</rt></ruby>。<br>*(Miso đỏ đậm, đặc trưng Aichi.)* |
 | Putra | インドネシアになし。<br>*(Indonesia không có.)* |
 | Linh | みんな<ruby>愛知<rt>あいち</rt></ruby>に<ruby>来<rt>き</rt></ruby>たから<ruby>食<rt>た</rt></ruby>べる<ruby>権利<rt>けんり</rt></ruby>ある！<br>*(Đến Aichi rồi có quyền ăn!)* |
-| Cast | （<ruby>笑<rt>わら</rt></ruby>う）<br>*(Cười.)* |
+| Nhân vật | （<ruby>笑<rt>わら</rt></ruby>う）<br>*(Cười.)* |
 
 ---
 
-## Scene 5 — Linh-chị share kinh nghiệm · 13:00 quán cafe
+## Tình huống 5 — Linh-chị share kinh nghiệm · 13:00 quán cafe
 
 | Speaker | Lời thoại |
 |---|---|
@@ -79,7 +79,7 @@
 
 ---
 
-## Scene 6 — Linh khuyên Thái · 13:30
+## Tình huống 6 — Linh khuyên Thái · 13:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -94,7 +94,7 @@
 
 ---
 
-## Scene 7 — 紅葉 公園 · 15:00 鶴舞公園
+## Tình huống 7 — 紅葉 公園 · 15:00 鶴舞公園
 
 | Speaker | Lời thoại |
 |---|---|
@@ -109,7 +109,7 @@
 
 ---
 
-## Scene 8 — Về Anjo · 19:00 train
+## Tình huống 8 — Về Anjo · 19:00 train
 
 | Speaker | Lời thoại |
 |---|---|
@@ -123,7 +123,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

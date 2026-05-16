@@ -1,6 +1,6 @@
-# Sách 19 · T2. 学校初日 — Class division test (学校初日)
+# Sách 19 · T2. 学校初日 — Bài kiểm tra phân lớp (学校初日)
 
-> **Mục tiêu nhân vật:** 5/4/2024. Đại đi trường tiếng đầu tiên. Class division test (writing 30 phút + speaking 10 phút). Được chia vào lớp B-2 (N3 prep). Gặp 同期: Yifan (Trung), Sumi (Hàn), Aung (Myanmar), Linh+Tuấn (VN cùng homestay khu).
+> **Mục tiêu nhân vật:** 5/4/2024. Đại đi trường tiếng đầu tiên. Bài kiểm tra phân lớp (viết 30 phút + nói 10 phút). Được chia vào lớp B-2 (N3 prep). Gặp 同期: Yifan (Trung), Sumi (Hàn), Aung (Myanmar), Linh+Tuấn (VN cùng homestay khu).
 
 ## Bối cảnh
 
@@ -8,7 +8,7 @@ Trường Kansai Gogo Gakuin. Quận Shitennoji Osaka. 800 SV total. Class divis
 
 ---
 
-## Scene 1 — Sáng dậy đầu · 6:30 nhà Tanaka
+## Tình huống 1 — Sáng dậy đầu · 6:30 nhà Tanaka
 
 | Speaker | Lời thoại |
 |---|---|
@@ -23,7 +23,7 @@ Trường Kansai Gogo Gakuin. Quận Shitennoji Osaka. 800 SV total. Class divis
 
 ---
 
-## Scene 2 — Tony chỉ đường tới trường · 8:00
+## Tình huống 2 — Tony chỉ đường tới trường · 8:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -40,7 +40,7 @@ Trường Kansai Gogo Gakuin. Quận Shitennoji Osaka. 800 SV total. Class divis
 
 ---
 
-## Scene 3 — Đường tới trường · 8:30
+## Tình huống 3 — Đường tới trường · 8:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -53,7 +53,7 @@ Trường Kansai Gogo Gakuin. Quận Shitennoji Osaka. 800 SV total. Class divis
 
 ---
 
-## Scene 4 — Sảnh trường + receptionist · 8:50
+## Tình huống 4 — Sảnh trường + receptionist · 8:50
 
 | Speaker | Lời thoại |
 |---|---|
@@ -66,7 +66,7 @@ Trường Kansai Gogo Gakuin. Quận Shitennoji Osaka. 800 SV total. Class divis
 
 ---
 
-## Scene 5 — Orientation hall + gặp đồng hương · 9:00
+## Tình huống 5 — Orientation hall + gặp đồng hương · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -88,12 +88,12 @@ Trường Kansai Gogo Gakuin. Quận Shitennoji Osaka. 800 SV total. Class divis
 
 ---
 
-## Scene 6 — Hiệu trưởng speech · 9:30
+## Tình huống 6 — Hiệu trưởng speech · 9:30
 
 | Speaker | Lời thoại |
 |---|---|
 | 校長 (Principal) | みなさん、おはようございます！<ruby>関西<rt>かんさい</rt></ruby><ruby>語言<rt>ごげん</rt></ruby><ruby>学院<rt>がくいん</rt></ruby><ruby>校長<rt>こうちょう</rt></ruby><ruby>木下<rt>きのした</rt></ruby>です。<br>*(Mọi người, chào! Hiệu trưởng Kinoshita.)* |
-| Cast | おはようございます！<br>*(Chào!)* |
+| Nhân vật | おはようございます！<br>*(Chào!)* |
 | Kinoshita | <ruby>本日<rt>ほんじつ</rt></ruby>は<ruby>新入生<rt>しんにゅうせい</rt></ruby><ruby>80名<rt>はちじゅうめい</rt></ruby>、<ruby>15<rt>じゅうご</rt></ruby>カ<ruby>国<rt>こく</rt></ruby>から<ruby>集<rt>あつ</rt></ruby>まりました。<br>*(Hôm nay có 80 tân sinh viên đến từ 15 nước.)* |
 | Kinoshita | <ruby>2年間<rt>にねんかん</rt></ruby>の<ruby>留学<rt>りゅうがく</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby>は<ruby>3<rt>みっ</rt></ruby>つです。<br>*(Mục tiêu của 2 năm du học gồm 3 điều.)* |
 | Kinoshita | ①JLPT N2<ruby>合格<rt>ごうかく</rt></ruby>。<br>*(① Đỗ JLPT N2.)* |
@@ -103,7 +103,7 @@ Trường Kansai Gogo Gakuin. Quận Shitennoji Osaka. 800 SV total. Class divis
 
 ---
 
-## Scene 7 — Yamada-sensei intro chủ nhiệm tương lai · 10:30
+## Tình huống 7 — Yamada-sensei intro chủ nhiệm tương lai · 10:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -112,12 +112,12 @@ Trường Kansai Gogo Gakuin. Quận Shitennoji Osaka. 800 SV total. Class divis
 | Yamada | <ruby>40歳<rt>よんじゅっさい</rt></ruby>、<ruby>東京大学<rt>とうきょうだいがく</rt></ruby><ruby>言語学部<rt>げんごがくぶ</rt></ruby><ruby>卒業<rt>そつぎょう</rt></ruby>。<ruby>教師<rt>きょうし</rt></ruby><ruby>歴<rt>れき</rt></ruby><ruby>15年<rt>じゅうごねん</rt></ruby>です。<br>*(40 tuổi, tốt nghiệp Khoa Ngôn ngữ ĐH Tokyo. 15 năm đứng lớp.)* |
 | Yamada | <ruby>厳<rt>きび</rt></ruby>しいですが、<ruby>愛情<rt>あいじょう</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>指導<rt>しどう</rt></ruby>します。<br>*(Tôi nghiêm khắc nhưng dạy bằng cả tấm lòng.)* |
 | Yamada | <ruby>2年後<rt>にねんご</rt></ruby>に<ruby>大学<rt>だいがく</rt></ruby>に<ruby>受<rt>う</rt></ruby>かれるよう、みんなを<ruby>引<rt>ひ</rt></ruby>っ<ruby>張<rt>ぱ</rt></ruby>っていきますよ。<br>*(Hai năm nữa các em đỗ đại học, tôi sẽ kéo các em đi.)* |
-| Cast | （<ruby>頷<rt>うなず</rt></ruby>く）<br>*(Gật đầu.)* |
+| Nhân vật | （<ruby>頷<rt>うなず</rt></ruby>く）<br>*(Gật đầu.)* |
 | Yamada | <ruby>本日<rt>ほんじつ</rt></ruby>のテストは<ruby>1時<rt>いちじ</rt></ruby>からです。<br>*(Bài kiểm tra hôm nay bắt đầu từ 1 giờ.)* |
 
 ---
 
-## Scene 8 — Class division test · 13:00
+## Tình huống 8 — Bài kiểm tra phân lớp · 13:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -130,7 +130,7 @@ Trường Kansai Gogo Gakuin. Quận Shitennoji Osaka. 800 SV total. Class divis
 
 ---
 
-## Scene 9 — Speaking individual · 14:00
+## Tình huống 9 — Speaking individual · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -153,7 +153,7 @@ Trường Kansai Gogo Gakuin. Quận Shitennoji Osaka. 800 SV total. Class divis
 
 ---
 
-## Scene 10 — Sau test + về với Tuấn · 16:00
+## Tình huống 10 — Sau test + về với Tuấn · 16:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -173,7 +173,7 @@ Trường Kansai Gogo Gakuin. Quận Shitennoji Osaka. 800 SV total. Class divis
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -10,7 +10,7 @@
 
 ---
 
-## Scene 1 — Lab tour intro · 1/2/2028
+## Tình huống 1 — Lab tour intro · 1/2/2028
 
 | Speaker | Lời thoại |
 |---|---|
@@ -19,7 +19,7 @@
 
 ---
 
-## Scene 2 — Inoue Lab visit · 8/2
+## Tình huống 2 — Inoue Lab visit · 8/2
 
 | Speaker | Lời thoại |
 |---|---|
@@ -37,7 +37,7 @@
 
 ---
 
-## Scene 3 — Watanabe Lab visit · 12/2
+## Tình huống 3 — Watanabe Lab visit · 12/2
 
 | Speaker | Lời thoại |
 |---|---|
@@ -47,7 +47,7 @@
 
 ---
 
-## Scene 4 — Suzuki Lab + Sato Lab quick tour
+## Tình huống 4 — Suzuki Lab + Sato Lab quick tour
 
 | Speaker | Lời thoại |
 |---|---|
@@ -57,7 +57,7 @@
 
 ---
 
-## Scene 5 — Application + Interview · 15/3
+## Tình huống 5 — Application + Interview · 15/3
 
 | Speaker | Lời thoại |
 |---|---|
@@ -75,7 +75,7 @@
 
 ---
 
-## Scene 6 — Result + cohort lab assignment · 1/4
+## Tình huống 6 — Result + cohort lab assignment · 1/4
 
 | Speaker | Lời thoại |
 |---|---|
@@ -88,7 +88,7 @@
 
 ---
 
-## Scene 7 — Đêm reflect
+## Tình huống 7 — Đêm reflect
 
 | Speaker | Lời thoại |
 |---|---|
@@ -100,7 +100,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

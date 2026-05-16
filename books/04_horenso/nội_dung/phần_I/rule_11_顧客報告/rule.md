@@ -1,6 +1,6 @@
 # Rule 11 — Báo cáo cho khách hàng quan trọng / 重要顧客への報告
 
-> **Luận điểm.** Báo cáo cho khách Nhật quan trọng (PM, Giám đốc) phải có **3 layer khác báo cáo nội bộ**: (1) tone formal cao hơn 1 bậc, (2) **không jargon** kỹ thuật chưa giải thích, (3) **bỏ title đồng nghiệp Việt** (ウチ・ソト) — gọi "弊社のトゥアン" chứ không "トゥアンリーダー".
+> **Luận điểm.** Báo cáo cho khách Nhật quan trọng (PM, Giám đốc) phải có **3 lớp khác báo cáo nội bộ**: (1) tone formal cao hơn 1 bậc, (2) **không jargon** kỹ thuật chưa giải thích, (3) **bỏ title đồng nghiệp Việt** (ウチ・ソト) — gọi "弊社のトゥアン" chứ không "トゥアンリーダー".
 >
 > 重要顧客報告の3層差：①敬語ワンランク上、②未説明のジャーゴン禁止、③ウチ・ソト原則で社内同僚の役職敬称を外す（「弊社のトゥアン」）。
 >

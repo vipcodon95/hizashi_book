@@ -30,7 +30,7 @@ Em Dũng phát hiện 3 rủi ro ở Dự án Bình Minh và cần chị Hương
 >
 > - Anh Khoa (FE) xin nghỉ từ 05/05, chưa có người thay.
 > - API bên Hakuō trễ 1 tuần so với cam kết.
-> - Scope bị mở rộng do feedback từ team CS của khách.
+> - Phạm vi dự án bị mở rộng do phản hồi từ team CS của khách.
 >
 > Em đề xuất họp 30 phút với chị + anh Tuấn trong các khung sau:
 >

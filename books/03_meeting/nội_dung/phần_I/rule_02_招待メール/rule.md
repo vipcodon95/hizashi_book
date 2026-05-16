@@ -4,7 +4,7 @@
 >
 > 会議招待メールの必須要素：①件名（会議名＋日付）②目的1行 ③アジェンダ添付 ④出欠の返信期限。返信期限がないと当日まで参加者が確定しない。
 >
-> **Liên quan:** Rule 01 (agenda 5W1H), Rule 05 (distribute tài liệu), Rule 18 (xử lý người vắng).
+> **Liên quan:** Rule 01 (agenda 5W1H), Rule 05 (gửi tài liệu trước), Rule 18 (xử lý người vắng).
 > Sách 01 (Email) Rule 09 (subject họp), Rule 14 (CC chuẩn).
 
 ---
@@ -93,7 +93,7 @@ Sau khi chị Hương review xong agenda (rule 01), em Dũng được giao gửi
 - Subject vague kiểu「会議について」「ご相談」 → khách không phân biệt priority.
 - Không attach agenda → khách phải hỏi lại = mất 1 vòng email.
 - Không deadline RSVP → đến hôm họp không biết ai đến.
-- Gửi mail mời < 3 ngày trước họp → khách Nhật chưa kịp align lịch nội bộ.
+- Gửi mail mời < 3 ngày trước họp → khách Nhật chưa kịp đồng bộ lịch nội bộ.
 
 ---
 

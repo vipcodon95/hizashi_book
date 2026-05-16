@@ -1,6 +1,6 @@
 # Rule 35 — Hou-Ren-Sou khi work-from-home / リモートワーク時
 
-> **Luận điểm.** Remote work làm "vô hình" status của mỗi member — sếp không nhìn thấy ai đang làm gì. Khắc phục bằng **3 visibility ritual**: **(1) Daily standup async** (Slack 9:30, 1 message DDBN format), **(2) Status icon Slack** (🟢working / 🟡away / 🔴focus / 🟣meeting), **(3) End-of-Day log** (1 dòng EOD review trên Slack #daily-log). Thêm: **camera on trong họp** (mặc định, không "今日はちょっと…"), **respond time SLA** trong giờ làm việc 1 giờ.
+> **Luận điểm.** Remote work làm "vô hình" status của mỗi member — sếp không nhìn thấy ai đang làm gì. Khắc phục bằng **3 thói quen tạo hiện diện**: **(1) Daily standup async** (Slack 9:30, 1 message DDBN format), **(2) Status icon Slack** (🟢working / 🟡away / 🔴focus / 🟣meeting), **(3) End-of-Day log** (1 dòng EOD review trên Slack #daily-log). Thêm: **camera on trong họp** (mặc định, không "今日はちょっと…"), **respond time SLA** trong giờ làm việc 1 giờ.
 >
 > リモート可視化3点：①Slack 9:30 朝会 (DDBN) ②ステータスアイコン更新 ③EOD ログ。会議中はカメラON、Slack返信SLAは1時間以内。
 >
@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Em Linh WFH thứ Tư 22/4 (vì sửa chữa nhà). Lần đầu Linh "im lặng" cả ngày. Lần 2 áp 3 visibility ritual.
+Em Linh WFH thứ Tư 22/4 (vì sửa chữa nhà). Lần đầu Linh "im lặng" cả ngày. Lần 2 áp 3 thói quen tạo hiện diện.
 
 ---
 
@@ -30,7 +30,7 @@ Em Linh WFH thứ Tư 22/4 (vì sửa chữa nhà). Lần đầu Linh "im lặng
 
 ---
 
-## ✅ Hội thoại TỐT — 3 visibility ritual + camera on
+## ✅ Hội thoại TỐT — 3 thói quen tạo hiện diện + camera on
 
 *9:30, Slack #team-daily · 11:30, Slackステータス変更 · JP 14:00, Slack DM Linh · 14:15、returns from focus mode · 18:00, Slack #team-daily · Slack reply*
 

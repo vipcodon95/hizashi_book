@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Paper writing intensive · 6-7/2029
+## Tình huống 1 — Paper writing intensive · 6-7/2029
 
 | Speaker | Lời thoại |
 |---|---|
@@ -12,7 +12,7 @@
 
 ---
 
-## Scene 2 — Inoue review · 25/7
+## Tình huống 2 — Inoue review · 25/7
 
 | Speaker | Lời thoại |
 |---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-## Scene 3 — Submit + accept · 30/7
+## Tình huống 3 — Submit + accept · 30/7
 
 | Speaker | Lời thoại |
 |---|---|
@@ -34,7 +34,7 @@
 
 ---
 
-## Scene 4 — Conference Kyoto · 25-27/8
+## Tình huống 4 — Conference Kyoto · 25-27/8
 
 | Speaker | Lời thoại |
 |---|---|
@@ -45,7 +45,7 @@
 
 ---
 
-## Scene 5 — Award announce · 27/8 evening
+## Tình huống 5 — Award announce · 27/8 evening
 
 | Speaker | Lời thoại |
 |---|---|
@@ -57,7 +57,7 @@
 
 ---
 
-## Scene 6 — Đêm reflect
+## Tình huống 6 — Đêm reflect
 
 | Speaker | Lời thoại |
 |---|---|
@@ -68,7 +68,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -83,8 +83,8 @@
 
 ## Bí quyết chương
 
-- **Real conference paper structure**: Realistic academic flow.
-- **Best Student Paper Award**: Major credibility moment.
-- **Q&A insights become roadmap**: Real research feedback loop.
+- **Cấu trúc paper hội thảo thực tế**: Luồng học thuật chân thực.
+- **Best Student Paper Award**: Khoảnh khắc khẳng định uy tín lớn.
+- **Phản hồi Q&A thành lộ trình**: Vòng lặp nghiên cứu-cải tiến thực sự.
 
-> *"IPSJ-NL Kyoto. Hizashi paper Best Student Paper Award. Academic credibility ✓."*
+> *"IPSJ-NL Kyoto. Paper Hizashi đạt Best Student Paper Award. Uy tín học thuật — đã có."*

@@ -1,6 +1,6 @@
 # Rule 50 — Memory bank — duy trì lâu dài / 関係維持の記憶バンク
 
-> **Luận điểm.** Sau mỗi cuộc gặp, **30 phút ghi memory bank** = đầu tư đắt nhất + ROI cao nhất trong career với khách Nhật. **Trước mỗi cuộc gặp, 3 phút review** = senior cảm thấy "anh ấy nhớ tôi" — đó là moat AI không thay thế.
+> **Luận điểm.** Sau mỗi cuộc gặp, **30 phút ghi kho ghi nhớ** = đầu tư có giá trị nhất + lợi suất cao nhất trong career với khách Nhật. **Trước mỗi cuộc gặp, 3 phút ôn lại** = senior cảm thấy "anh ấy nhớ tôi" — đó là lợi thế không ai bắt chước được.
 
 ---
 
@@ -8,8 +8,8 @@
 
 - Senior JP **nhớ chi tiết** về đối tác — và **expect** đối tác nhớ về họ.
 - "Tuần trước anh kể về cháu 5 tuổi, hôm nay cháu sao rồi?" = câu nói cảm động nhất với senior 60t.
-- Memory bank = **CRM cá nhân** — không phải CRM công ty (mà CRM công ty hiếm khi capture chi tiết relationship).
-- Junior nhớ chi tiết = **moat** thật sự — vì AI tools không có context private bữa dinner đêm hôm.
+- Kho ghi nhớ = **sổ tay quan hệ cá nhân** — không phải phần mềm CRM công ty (mà CRM công ty hiếm khi ghi được chi tiết relationship).
+- Junior nhớ chi tiết = **lợi thế thực sự** — vì AI không có ngữ cảnh bữa dinner riêng tư đêm hôm.
 
 ---
 
@@ -35,7 +35,7 @@ Tham khảo. 1 scenario "applying memory bank" + 1 scenario "ghi memory bank nga
 | **ズン** | 「3か月前で大変な時期ですよね。ご家族でサポート、大変ですね。」 |
 | **大垣** | 「妻が一番気合い入っとるわ(笑)。じゃ、今日のキックオフ、よろしく。」 |
 
-📝【1】 **3 phút review CRM trước họp = senior cảm thấy "anh ấy nhớ tôi".** Cụ thể fact (受験 + 来月) đã được Ōgaki kể 2 tháng trước — junior nhớ 30 ngày sau = đẳng cấp. **Đây là moat duy nhất AI không thay thế được.**
+📝【1】 **3 phút ôn lại kho ghi nhớ trước họp = senior cảm thấy "anh ấy nhớ tôi".** Chi tiết cụ thể (受験 + 来月) đã được Ōgaki kể 2 tháng trước — junior nhớ lại = đẳng cấp. **Đây là lợi thế duy nhất AI không thay thế được.**
 
 ---
 
@@ -76,7 +76,7 @@ Tham khảo. 1 scenario "applying memory bank" + 1 scenario "ghi memory bank nga
 - **Không** ghi memory bank → trí nhớ rò rỉ → 6 tháng sau gặp lại = "ai vậy?".
 - Ghi quá generic ("Ōgaki = Osaka") → useless. Phải **chi tiết** (受験 / 牡蠣 NG / 桂米朝 fan).
 - Reference fact **sai** ("お嬢様の受験うまくいかれましたか?" mà thực ra là 息子) → còn tệ hơn không nhớ.
-- Mention chi tiết **quá riêng tư** mà chưa thân (sức khỏe vợ, lương) → invasive.
+- Mention chi tiết **quá riêng tư** mà chưa thân (sức khỏe vợ, lương) → tò mò thái quá.
 - Lưu memory bank **ở chỗ không secure** → leak personal info khách.
 
 ---

@@ -1,10 +1,10 @@
-# Sách 23 · T5. Cybozu internship 6/2028 — RAG project kickoff (Cybozu長期インターン)
+# Sách 23 · T5. Cybozu internship 6/2028 — RAG project khởi động (Cybozu長期インターン)
 
 > **Mục tiêu:** 6/2028. Cybozu Osaka R&D long internship 3 tháng (6-9/2028). Project: RAG system cho Kintone document search. Stipend ¥250k/月 × 3 = ¥750k. Mentor Inomata-san (intern coordinator T6 sách 22). Đại hybrid 3 ngày office + 2 remote (vì Hana sinh).
 
 ---
 
-## Scene 1 — Day 1 onboarding · 1/6/2028
+## Tình huống 1 — Day 1 onboarding · 1/6/2028
 
 | Speaker | Lời thoại |
 |---|---|
@@ -13,7 +13,7 @@
 
 ---
 
-## Scene 2 — RAG architecture overview
+## Tình huống 2 — RAG architecture overview
 
 | Speaker | Lời thoại |
 |---|---|
@@ -25,7 +25,7 @@
 
 ---
 
-## Scene 3 — Tech stack pick · 5/6
+## Tình huống 3 — Tech stack pick · 5/6
 
 | Speaker | Lời thoại |
 |---|---|
@@ -36,7 +36,7 @@
 
 ---
 
-## Scene 4 — Build embedding pipeline · weeks 2-4
+## Tình huống 4 — Build embedding pipeline · weeks 2-4
 
 | Speaker | Lời thoại |
 |---|---|
@@ -45,7 +45,7 @@
 
 ---
 
-## Scene 5 — Semantic search implementation · weeks 4-6
+## Tình huống 5 — Semantic search implementation · weeks 4-6
 
 | Speaker | Lời thoại |
 |---|---|
@@ -54,7 +54,7 @@
 
 ---
 
-## Scene 6 — Hana 1 tháng + remote week
+## Tình huống 6 — Hana 1 tháng + remote week
 
 | Speaker | Lời thoại |
 |---|---|
@@ -65,7 +65,7 @@
 
 ---
 
-## Scene 7 — Đêm reflect
+## Tình huống 7 — Đêm reflect
 
 | Speaker | Lời thoại |
 |---|---|
@@ -76,7 +76,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

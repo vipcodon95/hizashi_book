@@ -1,10 +1,10 @@
 # Sách 24 · T10. 1/2030 — Pre-seed ¥30M Anri + DG. Incorporate Hizashi Inc. (法人設立)
 
-> **Mục tiêu:** 1/2030. Sign Anri term sheet ¥25M + DG Daiichi (Aichi-tech) ¥5M = ¥30M total. Incorporate Hizashi Inc. tại Osaka. Office: WeWork Senri-chuo (¥40k/month membership). Setup business banking + payroll. Tony angel ¥1M chính thức convertible note.
+> **Mục tiêu:** 1/2030. Ký term sheet Anri ¥25M + DG Daiichi (Aichi-tech) ¥5M = ¥30M tổng cộng. Thành lập Hizashi Inc. tại Osaka. Văn phòng: WeWork Senri-chuo (¥40k/tháng). Thiết lập tài khoản doanh nghiệp + bảng lương. Tony angel ¥1M chính thức convertible note.
 
 ---
 
-## Scene 1 — Anri term sheet sign · 8/1/2030
+## Tình huống 1 — Anri term sheet sign · 8/1/2030
 
 | Speaker | Lời thoại |
 |---|---|
@@ -16,7 +16,7 @@
 
 ---
 
-## Scene 2 — Incorporate Hizashi Inc · 15/1
+## Tình huống 2 — Incorporate Hizashi Inc · 15/1
 
 | Speaker | Lời thoại |
 |---|---|
@@ -27,7 +27,7 @@
 
 ---
 
-## Scene 3 — Office setup WeWork Senri-chuo · 20/1
+## Tình huống 3 — Office setup WeWork Senri-chuo · 20/1
 
 | Speaker | Lời thoại |
 |---|---|
@@ -38,7 +38,7 @@
 
 ---
 
-## Scene 4 — Banking + payroll · 25/1
+## Tình huống 4 — Banking + payroll · 25/1
 
 | Speaker | Lời thoại |
 |---|---|
@@ -51,7 +51,7 @@
 
 ---
 
-## Scene 5 — Đêm reflect
+## Tình huống 5 — Đêm reflect
 
 | Speaker | Lời thoại |
 |---|---|
@@ -62,7 +62,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -81,8 +81,8 @@
 
 ## Bí quyết chương
 
-- **Real KK incorporation process**: Realistic Japan startup mechanics.
-- **DG Daiichi added**: Aichi-tech co-investor — bridge với Aichi (Toyota Boshoku, Tony Anjō).
-- **22 month runway**: Realistic ¥30M / ¥16.5M burn.
+- **Quy trình thành lập KK thực tế**: Cơ chế startup Nhật Bản chân thực.
+- **DG Daiichi tham gia**: Nhà đồng đầu tư từ Aichi — cầu nối với Aichi (Toyota Boshoku, Tony Anjō).
+- **Đường băng 22 tháng**: Tính toán thực tế ¥30M chia ¥16.5M chi phí mỗi tháng.
 
-> *"Hizashi Inc INCORPORATE 15/1/2030. ¥31M raised. WeWork Senri-chuo. 22m runway. Day 1 founder."*
+> *"Hizashi Inc thành lập 15/1/2030. Gọi vốn ¥31M. WeWork Senri-chuo. Đường băng 22 tháng. Ngày đầu làm founder."*

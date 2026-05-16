@@ -3,7 +3,7 @@
   "rule_slug": "曖昧発言の確認",
   "title": {
     "ja": "上司・顧客の曖昧な発言の確認",
-    "vi": "Khi senior nói câu khó hiểu"
+    "vi": "Khi cấp trên nói câu khó hiểu"
   },
   "rule_context": {
     "ja": "松本PMが「来月リリース、ちょっと厳しいかも」と曖昧な発言。延期希望なのか、リソース支援要請なのか、ズンが二択で確認する場面。",
@@ -65,14 +65,14 @@
           "applies_to_line": "rule_30_good_02",
           "highlight_text": "リリース日の延期をご検討中という意味でしょうか",
           "ja": "推測の1つ目を具体化。「延期」と明示することで相手は Yes/No で答えやすい。",
-          "vi": "Cụ thể hoá ý đoán 1 (postpone). Senior dễ trả lời Yes/No."
+          "vi": "Cụ thể hoá ý đoán 1 (postpone). Cấp trên dễ trả lời Yes/No."
         },
         {
           "id": "2",
           "applies_to_line": "rule_30_good_02",
           "highlight_text": "現スケジュールで進めるための支援が必要ということでしょうか",
           "ja": "推測の2つ目を提示。二択にすると相手はどちらかを選びやすい。",
-          "vi": "Đưa ý đoán 2 (cần support). 2 lựa chọn → senior dễ chọn."
+          "vi": "Đưa ý đoán 2 (cần hỗ trợ). 2 lựa chọn → cấp trên dễ chọn."
         }
       ],
       "conversation_lines": [
@@ -152,7 +152,7 @@
       "correct": "C",
       "explanation": {
         "ja": "曖昧発言には推測二択で確認するのが最も精度が高い。一方解釈は誤読リスク、open-ended は相手に再説明負担。",
-        "vi": "Mơ hồ → đưa 2 lựa chọn confirm là chính xác nhất. Đoán 1 hướng có rủi ro. Open-ended bắt senior giải thích lại."
+        "vi": "Mơ hồ → đưa 2 lựa chọn confirm là chính xác nhất. Đoán 1 hướng có rủi ro. Câu hỏi mở bắt cấp trên giải thích lại."
       }
     }
   ]

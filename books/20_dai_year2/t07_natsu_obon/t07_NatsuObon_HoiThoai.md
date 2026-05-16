@@ -8,7 +8,7 @@
 
 ---
 
-## Scene 1 — Sáng đón Centrair · 10/8 13:30
+## Tình huống 1 — Sáng đón Centrair · 10/8 13:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-## Scene 2 — Train về Osaka · 14:30
+## Tình huống 2 — Train về Osaka · 14:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -37,7 +37,7 @@
 
 ---
 
-## Scene 3 — Đến Tanaka · 17:00
+## Tình huống 3 — Đến Tanaka · 17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -53,7 +53,7 @@
 
 ---
 
-## Scene 4 — Cơm tối với Tanaka · 19:00
+## Tình huống 4 — Cơm tối với Tanaka · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -61,7 +61,7 @@
 | Mẹ | (VN, ăn) Y như nhà! Hương vị giống quá!<br>*(Y nhà!)* |
 | Yumi | (cảm động) <ruby>嬉<rt>うれ</rt></ruby>しい！<br>*(Vui!)* |
 | Tony | （<ruby>赤<rt>あか</rt></ruby>ワイン<ruby>注<rt>つ</rt></ruby>ぐ）<ruby>乾杯<rt>かんぱい</rt></ruby>！<br>*(Rót vang đỏ. Cạn!)* |
-| Cast | <ruby>乾杯<rt>かんぱい</rt></ruby>！<br>*(Cạn!)* |
+| Nhân vật | <ruby>乾杯<rt>かんぱい</rt></ruby>！<br>*(Cạn!)* |
 | Bố | (VN, ăn) Cháu Đại may mắn có anh chị.<br>*(May.)* |
 | Đại | (VN) Vâng bố. Như bố mẹ thứ hai của con.<br>*(Bố mẹ 2.)* |
 | Tony | （<ruby>笑<rt>わら</rt></ruby>う）<ruby>私<rt>わたし</rt></ruby>たち<ruby>息子<rt>むすこ</rt></ruby>がいないんです。ダイ<ruby>君<rt>くん</rt></ruby>が<ruby>来<rt>き</rt></ruby>てくれて<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>幸<rt>しあわ</rt></ruby>せです。<br>*(Cười. Chúng tôi không có con trai. Đại đến chúng tôi rất hạnh phúc.)* |
@@ -69,7 +69,7 @@
 
 ---
 
-## Scene 5 — Day 2: Osaka tour - Đotonbori · 11/8 sáng
+## Tình huống 5 — Day 2: Osaka tour - Đotonbori · 11/8 sáng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -83,7 +83,7 @@
 
 ---
 
-## Scene 6 — Day 3: Lawson + trường tour · 12/8
+## Tình huống 6 — Day 3: Lawson + trường tour · 12/8
 
 | Speaker | Lời thoại |
 |---|---|
@@ -99,7 +99,7 @@
 
 ---
 
-## Scene 7 — Day 4: Kyoto · 13/8
+## Tình huống 7 — Day 4: Kyoto · 13/8
 
 | Speaker | Lời thoại |
 |---|---|
@@ -117,7 +117,7 @@
 
 ---
 
-## Scene 8 — Day 5: Nara · 14/8
+## Tình huống 8 — Day 5: Nara · 14/8
 
 | Speaker | Lời thoại |
 |---|---|
@@ -136,7 +136,7 @@
 
 ---
 
-## Scene 9 — Day 6: Obon festival 15/8 · trở về Osaka
+## Tình huống 9 — Day 6: Obon festival 15/8 · trở về Osaka
 
 | Speaker | Lời thoại |
 |---|---|
@@ -155,7 +155,7 @@
 
 ---
 
-## Scene 10 — Day 7: Tiễn · 17/8 sáng Centrair
+## Tình huống 10 — Day 7: Tiễn · 17/8 sáng Centrair
 
 | Speaker | Lời thoại |
 |---|---|
@@ -171,7 +171,7 @@
 
 ---
 
-## Scene 11 — Đêm Đại 1 mình ký túc · 22:00
+## Tình huống 11 — Đêm Đại 1 mình ký túc · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -185,7 +185,7 @@
 
 ---
 
-## Scene 12 — Sáng day 1 Đại trở lại · 18/8
+## Tình huống 12 — Sáng day 1 Đại trở lại · 18/8
 
 | Speaker | Lời thoại |
 |---|---|
@@ -197,7 +197,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

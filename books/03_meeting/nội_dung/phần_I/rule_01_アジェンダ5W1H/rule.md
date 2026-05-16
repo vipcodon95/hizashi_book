@@ -1,6 +1,6 @@
 # Rule 01 — Lập agenda chuẩn 5W1H / アジェンダ作成の5W1H
 
-> **Luận điểm.** Agenda thiếu = họp lan man. Agenda chuẩn phải có 5 yếu tố 5W1H: **(1) Mục đích — Why**, **(2) Nội dung — What**, **(3) Người tham dự — Who**, **(4) Thời lượng — How long**, **(5) Output mong đợi — What outcome**. Thiếu 1 trong 5 = họp dễ overrun + không quyết được gì.
+> **Luận điểm.** Agenda thiếu = họp lan man. Agenda chuẩn phải có 5 yếu tố 5W1H: **(1) Mục đích — Why**, **(2) Nội dung — What**, **(3) Người tham dự — Who**, **(4) Thời lượng — How long**, **(5) Output mong đợi — What outcome**. Thiếu 1 trong 5 = họp dễ kéo dài quá giờ + không quyết được gì.
 >
 > アジェンダの5要素：①目的 ②議題 ③出席者 ④所要時間 ⑤期待されるアウトプット。1つでも欠けると会議は迷走する。
 >
@@ -26,7 +26,7 @@ Cuối quý 1, em Dũng được giao tổ chức buổi họp định kỳ thá
 | **ズン** | 「はい、進捗報告と次のタスクを話そうかと…」 |
 | **フオン** | 「目的は？何を決める会議？時間は？大垣さんも入る？資料は？……これじゃ会議が始まらないよ。」 |
 
-**Vì sao xấu:** Agenda chỉ có "議題" mà thiếu **mục đích / output / thời lượng / người tham dự / chuẩn bị**. Khách Nhật nhận được sẽ không biết phải prepare gì → họp đến nơi mới hỏi → mất 15-30 phút đầu mới vào việc.
+**Vì sao xấu:** Agenda chỉ có "議題" mà thiếu **mục đích / output / thời lượng / người tham dự / chuẩn bị**. Khách Nhật nhận được sẽ không biết phải chuẩn bị gì → họp đến nơi mới hỏi → mất 15-30 phút đầu mới vào việc.
 
 ---
 

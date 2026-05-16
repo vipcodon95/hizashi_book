@@ -625,7 +625,7 @@
 
 **Giải thích / 解説:**
 - 🇯🇵 Critical 障害は『発見即報告』が原則。原因が分からなくても Fact / Impact / 暫定 Plan を30分以内に第一報する。
-- 🇻🇳 Sự cố critical nguyên tắc 'phát hiện = báo ngay'. Chưa rõ nguyên nhân vẫn phải báo Fact / Impact / Plan tạm trong 30 phút.
+- 🇻🇳 Sự cố nghiêm trọng nguyên tắc 'phát hiện = báo ngay'. Chưa rõ nguyên nhân vẫn phải báo Fact / Impact / Plan tạm trong 30 phút.
 
 ### J2.2 (từ rule_11 — Báo cáo cho khách hàng quan trọng)
 

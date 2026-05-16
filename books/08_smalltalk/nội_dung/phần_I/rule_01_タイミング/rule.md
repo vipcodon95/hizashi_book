@@ -6,7 +6,7 @@
 
 ## 🧠 Tâm lý JP (3 dòng)
 
-- Người Nhật phân vùng "業務モード ↔ 雑談モード" rõ ràng. Nhảy mode sai = nguy hiểm.
+- Người Nhật phân vùng "業務モード ↔ 雑談モード" rõ ràng. Nhảy trạng thái sai = nguy hiểm.
 - 雑談 đúng lúc = "biết đọc không khí" (空気を読む) — đẳng cấp cao trong văn hóa.
 - Khách Nhật đang stress / chuẩn bị quyết định lớn = **tuyệt đối không** đẩy chuyện phiếm.
 
@@ -20,7 +20,7 @@ Tuần đầu tháng 5/2026, Dũng + Tuấn onsite Tokyo 3 ngày làm việc v�
 
 ## 💬 4 Scenarios — dialogue thực chiến
 
-### 📍 Scenario 1 — Cửa sổ vàng #1: TRƯỚC khi họp (5 phút buffer)
+### 📍 Scenario 1 — Cửa sổ vàng #1: TRƯỚC khi họp (5 phút chờ đệm)
 
 *8:55, đứng đợi 大垣 vào phòng họp 9:00*
 
@@ -80,7 +80,7 @@ Tuần đầu tháng 5/2026, Dũng + Tuấn onsite Tokyo 3 ngày làm việc v�
 
 ❌ **Vì sao XẤU:** Khách đang chờ counter-offer của mình. Cắt ngang bằng baseball = không đọc không khí, mất uy tín đàm phán.
 
-✅ **Đúng:** Im lặng, đợi Tuấn xong tính → trả lời nghiêm túc về giá → SAU KHI chốt deal mới mở "Phù, vụ giá xong rồi! Mà nhân tiện anh Ōgaki — mùa này 阪神 thế nào?"
+✅ **Đúng:** Im lặng, đợi Tuấn xong tính → trả lời nghiêm túc về giá → SAU KHI chốt hợp đồng mới mở "Phù, vụ giá xong rồi! Mà nhân tiện anh Ōgaki — mùa này 阪神 thế nào?"
 
 ---
 
@@ -109,11 +109,11 @@ Tuần đầu tháng 5/2026, Dũng + Tuấn onsite Tokyo 3 ngày làm việc v�
 
 ## ⚠ NG — tuyệt đối tránh
 
-- Mở 雑談 **giữa lúc đang đàm phán giá / kỹ thuật core** → mất uy tín.
+- Mở 雑談 **giữa lúc đang đàm phán giá / kỹ thuật cốt lõi** → mất uy tín.
 - "Tán" ngay **lần đầu gặp chưa giao danh thiếp** → bị xem là "なれなれしい" (suồng sã).
 - Nói chuyện phiếm khi khách **rõ ràng đang stress** (vừa nhận tin xấu, đang suy nghĩ) → ép họ phải reply lịch sự = thêm gánh.
 - 雑談 **quá dài trước họp** (>5 phút) → trễ giờ business = mất điểm professional.
-- Topic 雑談 trong **conference room đang ghi âm** → nguy cơ rò rỉ thông tin nội bộ.
+- Topic 雑談 trong **phòng họp đang ghi âm** → nguy cơ rò rỉ thông tin nội bộ.
 
 ---
 
@@ -122,7 +122,7 @@ Tuần đầu tháng 5/2026, Dũng + Tuấn onsite Tokyo 3 ngày làm việc v�
 | 漢字 | よみ | Nghĩa |
 |------|------|-------|
 | 雑談 | ざつだん | Trò chuyện phiếm |
-| タイミング | — | Timing |
+| タイミング | — | Thời điểm |
 | 空気を読む | くうきをよむ | Đọc không khí (cực kỳ quan trọng JP) |
 | あるある | — | "Chuyện thường gặp" (slang nhẹ) |
 | 連休 | れんきゅう | Kỳ nghỉ liên tiếp (Golden Week) |

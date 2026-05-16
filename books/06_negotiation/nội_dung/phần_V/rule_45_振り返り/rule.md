@@ -48,8 +48,8 @@ Phase 3 ¥17M ký xong, Phase 4 với new client cũng vừa kết thúc round 1
 - 【1】**5 セクション固定 template** = retro skip / surface-level 防止. counterfactual は最も学習量多い.
 - 【2】**Counterfactual = 「もし〜していれば」** で具体的 alternative を spell out. 抽象な反省ではなく concrete next-time action.
 - 【3】**Pattern recognition** = 1 回ではなく across vụ. cultural default だと判明すれば team-level intervention.
-- 【4】**3 commit max** — 多すぎると adhere できず, 少なすぎると change なし.
-- 【5】**Follow-up retro 3 ヶ月後** = commit が habit 化したか測定. これがないと commit は wishlist.
+- 【4】**3 commit max** — 多すぎると tuân thủ không nổi, 少なすぎると change なし.
+- 【5】**Follow-up retro 3 ヶ月後** = commit が habit 化したか測定. これがないと commit は danh sách ước muốn rỗng.
 
 ---
 
@@ -64,10 +64,10 @@ Phase 3 ¥17M ký xong, Phase 4 với new client cũng vừa kết thúc round 1
 ## ⚠ Tránh
 
 - Retro skip → 同じ lesson 3-4 vụ で repeat
-- Generic 「次回 頑張ります」 commit → adherence 0
+- Generic 「次回 頑張ります」 commit → mức độ tuân thủ = 0
 - Counterfactual section skip → lesson が abstract
-- Commit 10 個 list → 1 個も adhere できない、3 個 max
-- Follow-up retro なし → commit は wishlist
+- Commit 10 個 list → không tuân thủ được dù 1 cái、3 個 max
+- Follow-up retro なし → commit は danh sách ước muốn rỗng
 - Retro が blame session 化 → psychological safety なくなり honest input 消失
 - Retro doc を save しない → 半年後検索不可、 同じ retro 繰り返し
 

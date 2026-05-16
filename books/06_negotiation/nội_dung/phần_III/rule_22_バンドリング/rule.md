@@ -53,7 +53,7 @@
 
 ## ⚠ Tránh
 
-- Bundle-only refuse → CFO không write được ringi
+- Bundle-only refuse → CFO không soạn được ringi
 - Unbundle mà tổng KHÔNG bằng package → khách hỏi tại sao 不一致
 - Discount không có 根拠 → trust mất
 - Unbundle với tất cả khách → sometimes bundle-only better (đặc biệt khi client price-sensitive trên line items)
@@ -70,5 +70,5 @@
 | パッケージディスカウント | pakkēji disukaunto | Package discount |
 | 共通基盤化 | きょうつうきばんか | Build trên nền chung |
 | 還元 | かんげん | Hoàn lại / chia sẻ |
-| ラインアイテム | rain'aitemu | Line item |
+| ラインアイテム | rain'aitemu | Dòng ngân sách / hạng mục |
 | 稟議書 | りんぎしょ | Tài liệu ringi |

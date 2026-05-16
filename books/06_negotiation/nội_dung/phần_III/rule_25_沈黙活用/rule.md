@@ -1,6 +1,6 @@
 # Rule 25 — Silence as tool / 沈黙の活用
 
-> **Luận điểm.** Sau khi đưa offer, **đếm 7 giây im lặng**. Người Việt thường lấp khoảng lặng (cultural discomfort) → tự talk down giá. Khách Nhật quen với 沈黙 → ai phá im lặng trước = mất leverage. Practice trước gương.
+> **Luận điểm.** Sau khi đưa offer, **đếm 7 giây im lặng**. Người Việt thường lấp khoảng lặng (cultural discomfort) → tự talk down giá. Khách Nhật quen với 沈黙 → ai phá im lặng trước = mất lợi thế. Practice trước gương.
 >
 > Offer 後 7 秒沈黙ルール。最初に話した方が譲歩する。日本商談文化では沈黙は思考時間で当然。
 >
@@ -65,7 +65,7 @@ Trong phòng đàm phán, sau khi Dũng quote ¥18M anchor (rule 18), 大垣 im 
 
 - 自分から 1-3 秒で口を開く → 自爆
 - "あの、もし高いようでしたら…" — suicide phrase, KHÔNG bao giờ tự cung cấp 値引き option
-- Nhìn xuống / fidget khi im lặng → khách đọc là "anh đang lo"
+- Nhìn xuống / bồn chồn khi im lặng → khách đọc là "anh đang lo"
 - Practice không đủ → trong phòng tay run
 
 ---

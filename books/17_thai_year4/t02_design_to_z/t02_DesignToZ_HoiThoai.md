@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Mid-month progress · 6/2025
+## Tình huống 1 — Mid-month progress · 6/2025
 
 | Speaker | Lời thoại |
 |---|---|
@@ -15,7 +15,7 @@
 
 ---
 
-## Scene 2 — CAM coordinate · 7/2025
+## Tình huống 2 — CAM coordinate · 7/2025
 
 | Speaker | Lời thoại |
 |---|---|
@@ -26,7 +26,7 @@
 
 ---
 
-## Scene 3 — Machining intensive · 8/2025
+## Tình huống 3 — Machining intensive · 8/2025
 
 | Speaker | Lời thoại |
 |---|---|
@@ -39,7 +39,7 @@
 
 ---
 
-## Scene 4 — First trial · 9/2025
+## Tình huống 4 — First trial · 9/2025
 
 | Speaker | Lời thoại |
 |---|---|
@@ -52,7 +52,7 @@
 
 ---
 
-## Scene 5 — Fix gate position · 9/2025 cuối
+## Tình huống 5 — Fix gate position · 9/2025 cuối
 
 | Speaker | Lời thoại |
 |---|---|
@@ -64,7 +64,7 @@
 
 ---
 
-## Scene 6 — Hamada accept · 9/2025 cuối tháng
+## Tình huống 6 — Hamada accept · 9/2025 cuối tháng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -78,7 +78,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

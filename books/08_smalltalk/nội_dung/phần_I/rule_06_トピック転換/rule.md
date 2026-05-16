@@ -20,7 +20,7 @@
 |-----------|----------|---------|
 | **ところで** | Formal break, hơi chính thức | Khi cần đổi topic rõ, có khoảng cách |
 | **そういえば** | Associative ("nhân tiện nhớ ra") | Khi topic mới có liên kết nhẹ với cũ |
-| **話は変わりますが** | Pivot rất rõ ràng | Khi topic mới hoàn toàn khác |
+| **話は変わりますが** | Chuyển chủ đề rõ ràng nhất | Khi topic mới hoàn toàn khác |
 | **(そう)言えば** | Casual hơn そういえば | L3-L4 |
 | **あ、そうそう** | Casual reminder | L3-L4 |
 
@@ -62,9 +62,9 @@
 
 ---
 
-### 📍 Scenario 3 — 話は変わりますが: Pivot 180 độ — formal nhất
+### 📍 Scenario 3 — 話は変わりますが: Chuyển 180 độ — formal nhất
 
-*cần đổi sang vấn đề business sensitive · chuyển mode sang serious*
+*cần đổi sang vấn đề business sensitive · chuyển sang tông nghiêm túc*
 
 | Speaker | Câu |
 |---------|-----|
@@ -72,7 +72,7 @@
 | **ズン** | 「ぜひ次回ご案内させてください。**話は変わりますが**、先日の予算の件、少しだけお時間よろしいでしょうか?」【3】 |
 | **松本** | 「ああ、はいはい、どうぞ。」 |
 
-📝【3】 「話は変わりますが」 = pivot rõ ràng nhất, formal cao. Báo hiệu "topic sau khác hoàn toàn". Dùng khi:
+📝【3】 「話は変わりますが」 = chuyển chủ đề rõ ràng nhất, formal cao. Báo hiệu "topic sau khác hoàn toàn". Dùng khi:
 - Chuyển từ 雑談 → business serious.
 - Chuyển sang topic nhạy cảm cần khách concentrate.
 - Khi không có liên kết tự nhiên giữa 2 topic.
@@ -131,7 +131,7 @@
 「いやあ、楽しいお話ありがとうございます。[connector]…」
 「そろそろお時間気になってきましたので、[connector]…」
 
-■ Bridge từ casual → business:
+■ Bắc cầu từ không khí thân mật → business:
 「お話の途中恐縮ですが、一点だけ…」
 ```
 
@@ -164,7 +164,7 @@
 ## 🎓 BJT
 
 **J3 — 場面把握:** Chọn connector đúng cho ngữ cảnh (formal vs casual, có liên kết vs không).
-**J2 — 表現読解:** Phân biệt sắc thái 3 connector chính + nhận biết bridge close-topic trước khi pivot.
+**J2 — 表現読解:** Phân biệt sắc thái 3 connector chính + nhận biết câu chuyển đề trước khi chuyển chủ đề.
 **J1 — 発言聴解:** Catch tín hiệu "topic đã cạn" (im lặng dài, react cụt) → biết khi nào pivot.
 
 ---

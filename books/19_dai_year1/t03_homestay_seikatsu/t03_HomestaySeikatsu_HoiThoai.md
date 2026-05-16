@@ -8,7 +8,7 @@
 
 ---
 
-## Scene 1 — Sáng quy tắc bát đũa · 7:00
+## Tình huống 1 — Sáng quy tắc bát đũa · 7:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -24,7 +24,7 @@
 
 ---
 
-## Scene 2 — いただきます ritual · 7:30
+## Tình huống 2 — いただきます ritual · 7:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -46,7 +46,7 @@
 
 ---
 
-## Scene 3 — ごちそうさま + rửa bát · 8:00
+## Tình huống 3 — ごちそうさま + rửa bát · 8:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -64,7 +64,7 @@
 
 ---
 
-## Scene 4 — Tách rác lesson · weekend
+## Tình huống 4 — Tách rác lesson · weekend
 
 | Speaker | Lời thoại |
 |---|---|
@@ -83,7 +83,7 @@
 
 ---
 
-## Scene 5 — Tắm Nhật quy tắc · weekend tối
+## Tình huống 5 — Tắm Nhật quy tắc · weekend tối
 
 | Speaker | Lời thoại |
 |---|---|
@@ -101,7 +101,7 @@
 
 ---
 
-## Scene 6 — Yumi dạy nấu okonomi-yaki · chủ nhật
+## Tình huống 6 — Yumi dạy nấu okonomi-yaki · chủ nhật
 
 | Speaker | Lời thoại |
 |---|---|
@@ -120,7 +120,7 @@
 
 ---
 
-## Scene 7 — Đại dạy phở VN · weekend sau
+## Tình huống 7 — Đại dạy phở VN · weekend sau
 
 | Speaker | Lời thoại |
 |---|---|
@@ -137,7 +137,7 @@
 
 ---
 
-## Scene 8 — Tủ lạnh kanji bảng · 1 tuần sau
+## Tình huống 8 — Tủ lạnh kanji bảng · 1 tuần sau
 
 | Speaker | Lời thoại |
 |---|---|
@@ -152,7 +152,7 @@
 
 ---
 
-## Scene 9 — Bữa cuối tháng — feedback · 30/4
+## Tình huống 9 — Bữa cuối tháng — feedback · 30/4
 
 | Speaker | Lời thoại |
 |---|---|
@@ -169,7 +169,7 @@
 
 ---
 
-## Scene 10 — Đêm nhật ký + Mai gọi · 22:00
+## Tình huống 10 — Đêm nhật ký + Mai gọi · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -186,7 +186,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -7,7 +7,7 @@
   },
   "rule_context": {
     "ja": "プレゼン前日にハイDevOpsが立ち寄り、ズンの single-point-of-failure (Dropboxのみ＋ライブAPIデモ) を発見。Plan Bチェックリストで5点揃えさせる場面。",
-    "vi": "Hôm trước pitch, Hải DevOps phát hiện setup của Dũng có quá nhiều single point of failure (Dropbox only + live API demo). Bắt Dũng làm theo checklist Plan B 5 điểm."
+    "vi": "Hôm trước pitch, Hải DevOps phát hiện cách chuẩn bị của Dũng có quá nhiều điểm chết đơn lẻ (Dropbox only + live API demo). Bắt Dũng làm theo checklist Plan B 5 điểm."
   },
   "related_rules": [
     "rule_01",
@@ -75,7 +75,7 @@
     {
       "section": "good_example",
       "label_ja": "良い例 — Plan B 5点揃え",
-      "label_vi": "TỐT — Setup đủ 5 điểm Plan B",
+      "label_vi": "TỐT — Chuẩn bị đủ 5 điểm Plan B",
       "display_order": 2,
       "annotations": [
         {

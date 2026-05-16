@@ -36,7 +36,7 @@
           "speaker_role": "BD担当",
           "gender": "male",
           "sentence": "えっ、財布？それから5枚？大垣さん・松本様・中村CFO 3人 + 通訳 + 我々 4人 + buffer = 最低 14枚必要だよ。それと、財布じゃなくて専用ケース。今すぐ印刷部屋へ。",
-          "sentence_translation": "Hả, ví? Mới 5 tờ? Anh Ōgaki, anh Matsumoto, anh Nakamura CFO = 3 người, thêm thông dịch, bên mình 4 người, cộng buffer = tối thiểu 14 tờ. Với lại không phải ví, phải là hộp riêng. Em qua phòng in ngay.",
+          "sentence_translation": "Hả, ví? Mới 5 tờ? Anh Ōgaki, anh Matsumoto, anh Nakamura CFO = 3 người, thêm thông dịch, bên mình 4 người, cộng dự phòng = tối thiểu 14 tờ. Với lại không phải ví, phải là hộp riêng. Em qua phòng in ngay.",
           "tone": "firm",
           "speed_multiplier": 1.05
         },
@@ -79,14 +79,14 @@
           "applies_to_line": "rule_01_good_03",
           "highlight_text": "14枚 + buffer 6枚 = 20枚",
           "ja": "人数×2倍 + buffer 6枚。surprise 招待者対応可能。",
-          "vi": "Số người × 2 + buffer 6 tờ. Phòng trường hợp khách dẫn thêm interpreter/exec."
+          "vi": "Số người × 2 + dự phòng 6 tờ. Phòng trường hợp khách dẫn thêm interpreter/exec."
         },
         {
           "id": "3",
           "applies_to_line": "rule_01_good_03",
           "highlight_text": "誤字チェック senior",
           "ja": "技術リーダーや先輩の必須ダブルチェック。誤字は永久に印象に残る。",
-          "vi": "Senior phải double-check. Typo = khách nhớ mãi không quên."
+          "vi": "Cấp trên phải kiểm tra lại. Typo = khách nhớ mãi không quên."
         }
       ],
       "conversation_lines": [
@@ -115,7 +115,7 @@
           "speaker_role": "アシスタント",
           "gender": "female",
           "sentence": "① 専用ケース: 名刺入れ持参済 ② 両面 JP/EN: 印刷完了 (見本写真) ③ 数: 14枚 + buffer 6枚 = 20枚 ④ 誤字チェック: トゥアン先輩にダブルチェック済。",
-          "sentence_translation": "① Hộp riêng: hộp danh thiếp đã có. ② 2 mặt JP/EN: đã in (ảnh mẫu đính kèm). ③ Số lượng: 14 + buffer 6 = 20 tờ. ④ Check typo: anh Tuấn double-check rồi ạ.",
+          "sentence_translation": "① Hộp riêng: hộp danh thiếp đã có. ② 2 mặt JP/EN: đã in (ảnh mẫu đính kèm). ③ Số lượng: 14 + dự phòng 6 = 20 tờ. ④ Check typo: anh Tuấn kiểm tra lại rồi ạ.",
           "tone": "formal",
           "speed_multiplier": 0.95,
           "annotation_ids": ["2", "3"]
@@ -176,7 +176,7 @@
       "title_ja": "名刺準備 4条件チェックリスト",
       "title_vi": "Checklist 4 Điều Kiện Chuẩn Bị Danh Thiếp",
       "content_ja": "【名刺準備チェックリスト — 訪問/来客 前日午後までに完了】\n\n□ ① 専用ケース\n   - 名刺入れ持参 (財布NG)\n   - ケース内汚れなし\n   - 替えケース 1個 (バックアップ)\n\n□ ② 両面印刷\n   - JP 面: 漢字フルネーム + ふりがな + 役職\n   - EN 面: Romaji name + Title + Company\n   - 両面の対応関係チェック (役職 mismatch なし)\n\n□ ③ 数量\n   - 必要数: 出席者 × 2 倍\n     計算: ___ 人 × 2 = ___ 枚\n   - Buffer: + ___ 枚 (surprise 招待者 + interpreter)\n   - 合計: ___ 枚\n\n□ ④ 誤字チェック\n   - 自分でチェック\n   - Senior (Tech Lead / 副部長) ダブルチェック\n   - チェック日時 + チェック者: ___\n\n□ 当日持参チェック (出発前)\n   - ケース 中身確認\n   - スーツ右ポケット定位置\n   - 名刺取り出し練習 (3秒以内)",
-      "content_vi": "[Checklist 4 Điều Kiện Chuẩn Bị Danh Thiếp — hoàn tất chiều hôm trước event]\n\n□ ① Hộp riêng\n   - Mang hộp đựng danh thiếp (KHÔNG ví)\n   - Hộp sạch không bẩn\n   - Hộp dự phòng 1 cái (backup)\n\n□ ② In 2 mặt\n   - Mặt JP: tên kanji + furigana + chức vụ\n   - Mặt EN: tên romaji + title + company\n   - Check 2 mặt khớp nhau (chức vụ không lệch)\n\n□ ③ Số lượng\n   - Cần thiết: số người × 2 lần\n     Tính: ___ người × 2 = ___ tờ\n   - Buffer: + ___ tờ (phòng surprise + interpreter)\n   - Tổng: ___ tờ\n\n□ ④ Check typo\n   - Tự check\n   - Senior (Tech Lead / Phó phòng) double-check\n   - Ngày giờ + người check: ___\n\n□ Check sáng ngày G (trước khi xuất phát)\n   - Mở hộp xem có đủ\n   - Để túi áo phải vị trí cố định\n   - Tập rút danh thiếp (trong 3 giây)",
+      "content_vi": "[Checklist 4 Điều Kiện Chuẩn Bị Danh Thiếp — hoàn tất chiều hôm trước event]\n\n□ ① Hộp riêng\n   - Mang hộp đựng danh thiếp (KHÔNG ví)\n   - Hộp sạch không bẩn\n   - Hộp dự phòng 1 cái (backup)\n\n□ ② In 2 mặt\n   - Mặt JP: tên kanji + furigana + chức vụ\n   - Mặt EN: tên romaji + title + company\n   - Check 2 mặt khớp nhau (chức vụ không lệch)\n\n□ ③ Số lượng\n   - Cần thiết: số người × 2 lần\n     Tính: ___ người × 2 = ___ tờ\n   - Dự phòng: + ___ tờ (phòng surprise + interpreter)\n   - Tổng: ___ tờ\n\n□ ④ Check typo\n   - Tự check\n   - Cấp trên (Tech Lead / Phó phòng) kiểm tra hai lượt\n   - Ngày giờ + người check: ___\n\n□ Check sáng ngày G (trước khi xuất phát)\n   - Mở hộp xem có đủ\n   - Để túi áo phải vị trí cố định\n   - Tập rút danh thiếp (trong 3 giây)",
       "notes_ja": "前日午後までに完成必須。当日朝発見トラブルは印象悪。",
       "notes_vi": "Bắt buộc hoàn tất chiều hôm trước. Sáng ngày G mới phát hiện thiếu = ấn tượng xấu."
     }

@@ -8,7 +8,7 @@
 
 ---
 
-## Scene 1 — Tanaka assign · 9:00
+## Tình huống 1 — Tanaka assign · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -21,7 +21,7 @@
 
 ---
 
-## Scene 2 — Spec review · 10:00
+## Tình huống 2 — Spec review · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -35,7 +35,7 @@
 
 ---
 
-## Scene 3 — Initial design · 14:00
+## Tình huống 3 — Initial design · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -48,7 +48,7 @@
 
 ---
 
-## Scene 4 — Mid-week review · 1 tuần sau
+## Tình huống 4 — Mid-week review · 1 tuần sau
 
 | Speaker | Lời thoại |
 |---|---|
@@ -61,7 +61,7 @@
 
 ---
 
-## Scene 5 — Putra notice · 22:00
+## Tình huống 5 — Putra notice · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -74,18 +74,18 @@
 
 ---
 
-## Scene 6 — Đêm · 23:00
+## Tình huống 6 — Đêm · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
 | Thái | (VN, nhật ký) Tháng 5/2025. Lead đầu tiên.<br>*(Lead đầu.)* |
 | Thái | (VN) Console box cho Toyota Tier-1. Khách Hamada. Hạn ba tháng.<br>*(Ba tháng.)* |
-| Thái | (VN) Áp lực nhưng háo hức. Đúng nghĩa designer rồi.<br>*(Designer thực thụ.)* |
+| Thái | (VN) Áp lực nhưng háo hức. Đúng nghĩa kỹ sư thiết kế rồi.<br>*(Designer thực thụ.)* |
 | Thái | (VN) Putra cổ vũ mình. Sang năm anh ấy về.<br>*(Putra cổ vũ.)* |
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

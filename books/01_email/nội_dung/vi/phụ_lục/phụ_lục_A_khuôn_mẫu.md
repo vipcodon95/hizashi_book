@@ -14,7 +14,7 @@ Kính gửi anh Matsumoto,
 Em cảm ơn anh đã dành thời gian cho buổi họp sáng nay tại văn phòng
 Hakuō. Buổi họp rất hiệu quả — em đã nắm được rõ 3 điểm chính:
 
-1. Timeline mới: deliver phase 1 trước 30/05
+1. Timeline mới: giao phase 1 trước 30/05
 2. Ngân sách điều chỉnh: ¥7,500,000
 3. Yêu cầu bảo mật: thêm SAST và DAST
 
@@ -61,11 +61,11 @@ Dũng
 ## 3. Mail nhắc deadline lịch sự với khách hàng đang chậm
 
 ```
-Tiêu đề: [Re: Bình Minh] Follow up về review thiết kế — trước 17/05
+Tiêu đề: [Re: Bình Minh] Nhắc về review thiết kế — trước 17/05
 
 Anh Matsumoto,
 
-Em viết để follow up nhẹ về bản thiết kế v2 em gửi anh thứ Tư 14/05.
+Em viết để nhắc nhẹ về bản thiết kế v2 em gửi anh thứ Tư 14/05.
 Em không chắc mail có vào spam không, hoặc có thể anh đang bận
 với đợt đóng tháng.
 
@@ -179,7 +179,7 @@ chính và người phụ trách:
 
 1. [Anh Tuấn] — Phát triển module M3 — trước 30/05.
 2. [Chị Loan] — Làm PO với An Khang 78tr — trước 25/05.
-3. [Dũng] — Gửi update cho Hakuō sau mỗi Sprint (2 tuần/lần).
+3. [Dũng] — Gửi cập nhật cho Hakuō sau mỗi Sprint (2 tuần/lần).
 
 Các quyết định phụ và thảo luận chi tiết ở file biên bản (4 trang).
 
@@ -278,14 +278,14 @@ Phạm vi:
 - TikTok: 2 clip/tuần, quay với Marketing team.
 
 Deliverables:
-- Content calendar: trước 15/05 (chị review).
+- Lịch nội dung: trước 15/05 (chị review).
 - Mỗi bài: chuẩn bị 2 ngày trước ngày đăng (em xem trước khi đăng).
-- Report số liệu hàng tuần: thứ Hai.
+- Báo cáo số liệu hàng tuần: thứ Hai.
 
 Hỗ trợ:
 - Budget quảng cáo: 20tr, em tự phân bổ.
 - Designer: anh Hưng support, em liên hệ trực tiếp.
-- Daily check-in với chị 15p/ngày, 09:30.
+- Họp nhanh hàng ngày với chị 15p/ngày, 09:30.
 
 Em có câu hỏi gì, reply mail hoặc gặp chị trực tiếp trước 14/05.
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Scene 1 — Sáng dậy · 6:00
+## Tình huống 1 — Sáng dậy · 6:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -24,7 +24,7 @@
 
 ---
 
-## Scene 2 — Đi xe đạp · 7:30
+## Tình huống 2 — Đi xe đạp · 7:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -39,7 +39,7 @@
 
 ---
 
-## Scene 3 — Đến cổng + thẻ · 7:50
+## Tình huống 3 — Đến cổng + thẻ · 7:50
 
 | Speaker | Lời thoại |
 |---|---|
@@ -54,37 +54,37 @@
 
 ---
 
-## Scene 4 — 朝礼 + 体操 · 8:30 sân xưởng
+## Tình huống 4 — 朝礼 + 体操 · 8:30 sân xưởng
 
 | Speaker | Lời thoại |
 |---|---|
 | Tanaka | みなさん、おはようございます！<br>*(Mọi người, chào!)* |
-| Cast | おはようございます！<br>*(Chào!)* |
+| Nhân vật | おはようございます！<br>*(Chào!)* |
 | Tanaka | <ruby>本日<rt>ほんじつ</rt></ruby>から<ruby>新人<rt>しんじん</rt></ruby>のグエン・タイさん。ベトナムから。<br>*(Từ hôm nay tân binh Nguyễn Thái-san. Từ Việt Nam.)* |
-| Cast | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
+| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
 | Thái | （<ruby>立<rt>た</rt></ruby>つ）<ruby>初<rt>はじ</rt></ruby>めまして、グエン・ヴァン・タイです。<ruby>金型<rt>かながた</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>します。よろしくお<ruby>願<rt>ねが</rt></ruby>いします！<br>*(Lần đầu, Nguyễn Văn Thái. Em sẽ học khuôn. Mong giúp đỡ!)* |
-| Cast | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
+| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
 | Tanaka | <ruby>体操<rt>たいそう</rt></ruby><ruby>始<rt>はじ</rt></ruby>めます！<br>*(Tập thể dục bắt đầu!)* |
-| Cast | （ラジオ<ruby>体操<rt>たいそう</rt></ruby>）<br>*(Tập radio taisou.)* |
+| Nhân vật | （ラジオ<ruby>体操<rt>たいそう</rt></ruby>）<br>*(Tập radio taisou.)* |
 | Thái | (VN, internal) Tập thể dục công ty? Lạ.<br>*(Lạ.)* |
 
 ---
 
-## Scene 5 — KY宣言 · 8:40
+## Tình huống 5 — KY宣言 · 8:40
 
 | Speaker | Lời thoại |
 |---|---|
 | Tanaka | KY<ruby>宣言<rt>せんげん</rt></ruby>！<br>*(KY tuyên ngôn!)* |
-| Cast | <ruby>本日<rt>ほんじつ</rt></ruby>もご<ruby>安全<rt>あんぜん</rt></ruby>に！ゼロ<ruby>災害<rt>さいがい</rt></ruby>！<br>*(Hôm nay an toàn! Zero tai nạn!)* |
+| Nhân vật | <ruby>本日<rt>ほんじつ</rt></ruby>もご<ruby>安全<rt>あんぜん</rt></ruby>に！ゼロ<ruby>災害<rt>さいがい</rt></ruby>！<br>*(Hôm nay an toàn! Zero tai nạn!)* |
 | Tanaka | <ruby>本日<rt>ほんじつ</rt></ruby>のKYポイント：<ruby>金型<rt>かながた</rt></ruby><ruby>運搬<rt>うんぱん</rt></ruby><ruby>時<rt>じ</rt></ruby>の<ruby>玉掛<rt>たまか</rt></ruby>け<ruby>確認<rt>かくにん</rt></ruby>。<br>*(KY hôm nay: kiểm tra đai treo khi vận chuyển khuôn.)* |
-| Cast | はい！<br>*(Vâng!)* |
+| Nhân vật | はい！<br>*(Vâng!)* |
 | Tanaka | <ruby>解散<rt>かいさん</rt></ruby>！<br>*(Giải tán!)* |
 | Putra | （Thái に）KYは<ruby>危険予知<rt>きけんよち</rt></ruby>。<ruby>毎朝<rt>まいあさ</rt></ruby>。<br>*(Putra nói với Thái. KY là dự đoán nguy hiểm. Sáng nào cũng có.)* |
 | Thái | <ruby>分<rt>わ</rt></ruby>かった。<br>*(Hiểu rồi.)* |
 
 ---
 
-## Scene 6 — Tanaka tour xưởng · 9:00
+## Tình huống 6 — Tanaka tour xưởng · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -100,7 +100,7 @@
 
 ---
 
-## Scene 7 — Gặp Suzuki sempai · 10:00 phòng 仕上げ
+## Tình huống 7 — Gặp Suzuki sempai · 10:00 phòng 仕上げ
 
 | Speaker | Lời thoại |
 |---|---|
@@ -117,7 +117,7 @@
 
 ---
 
-## Scene 8 — Trưa cùng Putra · 12:30 食堂
+## Tình huống 8 — Trưa cùng Putra · 12:30 食堂
 
 | Speaker | Lời thoại |
 |---|---|
@@ -133,7 +133,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Kawakami giới thiệu · 9:00
+## Tình huống 1 — Kawakami giới thiệu · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -16,7 +16,7 @@
 
 ---
 
-## Scene 2 — Difference deep · 10:00
+## Tình huống 2 — Difference deep · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -29,7 +29,7 @@
 
 ---
 
-## Scene 3 — Design parts · 11:00
+## Tình huống 3 — Design parts · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -41,7 +41,7 @@
 
 ---
 
-## Scene 4 — MAGMA simulation · 14:00
+## Tình huống 4 — MAGMA simulation · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -53,7 +53,7 @@
 
 ---
 
-## Scene 5 — Project end · 11/2025
+## Tình huống 5 — Project end · 11/2025
 
 | Speaker | Lời thoại |
 |---|---|
@@ -64,7 +64,7 @@
 
 ---
 
-## Scene 6 — Đêm · 22:00
+## Tình huống 6 — Đêm · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -73,7 +73,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

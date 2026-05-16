@@ -87,7 +87,7 @@ Em Dũng được anh Hà CTO cử sang Tokyo 3 ngày để demo Phase 2 cho anh
 
 ## ⚠ Tránh
 
-- Báo công tác như báo nghỉ ("3 日不在") — công tác là **work travel**, vẫn cần report.
+- Báo công tác như báo nghỉ ("3 日不在") — đi công tác vẫn cần report.
 - Bỏ "expected deliverables" — sếp không biết kỳ vọng gì từ chuyến đi.
 - "電話に出れません" — công tác vẫn nên reachable trừ giờ họp/di chuyển.
 - Bỏ daily check-in — sếp/team mất visibility 3 ngày.

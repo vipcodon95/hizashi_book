@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Sáng day 1 · 8:00
+## Tình huống 1 — Sáng Ngày 1 · 8:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -17,7 +17,7 @@
 
 ---
 
-## Scene 2 — Method analysis · 14:00
+## Tình huống 2 — Method analysis · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -27,7 +27,7 @@
 
 ---
 
-## Scene 3 — Machine analysis · 16:00
+## Tình huống 3 — Machine analysis · 16:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -38,7 +38,7 @@
 
 ---
 
-## Scene 4 — Material + Man · 17:00
+## Tình huống 4 — Material + Man · 17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -50,7 +50,7 @@
 
 ---
 
-## Scene 5 — Plan fix · 18:00
+## Tình huống 5 — Kế hoạch khắc phục · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -63,7 +63,7 @@
 
 ---
 
-## Scene 6 — Đêm · 22:00
+## Tình huống 6 — Đêm · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -74,7 +74,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -10,7 +10,7 @@
 
 ---
 
-## Scene 1 — Phòng ký túc · 5:30 sáng
+## Tình huống 1 — Phòng ký túc · 5:30 sáng
 
 Hoa đứng trước gương cài cúc đồng phục mới. Trên bàn có cuốn sổ tay 指導員 Tanaka tặng cuối năm 1.
 
@@ -23,7 +23,7 @@ Hoa đứng trước gương cài cúc đồng phục mới. Trên bàn có cu�
 
 ---
 
-## Scene 2 — Bếp ký túc · 6:00 sáng
+## Tình huống 2 — Bếp ký túc · 6:00 sáng
 
 Linh chị đã về VN. Hoa nấu mì gói một mình. Putri đi qua.
 
@@ -42,7 +42,7 @@ Linh chị đã về VN. Hoa nấu mì gói một mình. Putri đi qua.
 
 ---
 
-## Scene 3 — Trạm xe buýt · 6:30 sáng
+## Tình huống 3 — Trạm xe buýt · 6:30 sáng
 
 Hoa đi với Satou-senpai. Trời lạnh đầu xuân.
 
@@ -59,14 +59,14 @@ Hoa đi với Satou-senpai. Trời lạnh đầu xuân.
 
 ---
 
-## Scene 4 — Phòng họp nhà máy · 9:00
+## Tình huống 4 — Phòng họp nhà máy · 9:00
 
 Toàn phòng SX tập hợp. Tanaka đứng trước, Suzuki cầm tài liệu. Cast cũ đầy đủ.
 
 | Speaker | Lời thoại |
 |---|---|
 | Tanaka | <ruby>皆<rt>みな</rt></ruby>さん、おはようございます。<br>*(Mọi người, chào buổi sáng.)* |
-| Cast | おはようございます。<br>*(Chào buổi sáng.)* |
+| Nhân vật | おはようございます。<br>*(Chào buổi sáng.)* |
 | Tanaka | <ruby>本日<rt>ほんじつ</rt></ruby>4<ruby>月<rt>がつ</rt></ruby>1<ruby>日<rt>にち</rt></ruby>から、<ruby>新<rt>あたら</rt></ruby>しい<ruby>制度<rt>せいど</rt></ruby>「<ruby>育成就労<rt>いくせいしゅうろう</rt></ruby>」が<ruby>施行<rt>しこう</rt></ruby>されます。<br>*(Từ hôm nay 1/4, chế độ mới "Ikusei Shuurou" được thi hành.)* |
 | Tanaka | <ruby>鈴木<rt>すずき</rt></ruby>さん、お<ruby>願<rt>ねが</rt></ruby>いします。<br>*(Anh Suzuki, mời anh.)* |
 | Suzuki | はい。<ruby>今<rt>いま</rt></ruby>までの「<ruby>技能実習<rt>ぎのうじっしゅう</rt></ruby>」が「<ruby>育成就労<rt>いくせいしゅうろう</rt></ruby>」に<ruby>変<rt>か</rt></ruby>わります。<br>*(Vâng. "Thực tập sinh kỹ năng" trước đây sẽ đổi thành "Ikusei Shuurou".)* |
@@ -77,7 +77,7 @@ Toàn phòng SX tập hợp. Tanaka đứng trước, Suzuki cầm tài liệu. 
 
 ---
 
-## Scene 5 — Q&A sau họp
+## Tình huống 5 — Q&A sau họp
 
 | Speaker | Lời thoại |
 |---|---|
@@ -99,7 +99,7 @@ Toàn phòng SX tập hợp. Tanaka đứng trước, Suzuki cầm tài liệu. 
 
 ---
 
-## Scene 6 — Hành lang sau họp
+## Tình huống 6 — Hành lang sau họp
 
 Hoa đi với Yamada-san về line.
 
@@ -115,7 +115,7 @@ Hoa đi với Yamada-san về line.
 
 ---
 
-## Scene 7 — Line cơm hộp · 10:00
+## Tình huống 7 — Line cơm hộp · 10:00
 
 Bắt đầu ca làm. Hoa và Satou đứng cùng vị trí topping.
 
@@ -133,7 +133,7 @@ Bắt đầu ca làm. Hoa và Satou đứng cùng vị trí topping.
 
 ---
 
-## Scene 8 — Trưa · 食堂
+## Tình huống 8 — Trưa · 食堂
 
 | Speaker | Lời thoại |
 |---|---|
@@ -150,7 +150,7 @@ Bắt đầu ca làm. Hoa và Satou đứng cùng vị trí topping.
 
 ---
 
-## Scene 9 — Văn phòng Suzuki · 13:30
+## Tình huống 9 — Văn phòng Suzuki · 13:30
 
 Hoa đến hỏi thêm về Mai.
 
@@ -171,7 +171,7 @@ Hoa đến hỏi thêm về Mai.
 
 ---
 
-## Scene 10 — Phòng Tanaka-buchou · 15:00
+## Tình huống 10 — Phòng Tanaka-buchou · 15:00
 
 Tanaka gọi Hoa lên phòng riêng.
 
@@ -194,7 +194,7 @@ Tanaka gọi Hoa lên phòng riêng.
 
 ---
 
-## Scene 11 — Cuối ca · cửa nhà máy
+## Tình huống 11 — Cuối ca · cửa nhà máy
 
 Hoa đang về thì Kimura đi tới.
 
@@ -215,7 +215,7 @@ Hoa đang về thì Kimura đi tới.
 
 ---
 
-## Scene 12 — Ký túc bếp chung · 19:00
+## Tình huống 12 — Ký túc bếp chung · 19:00
 
 Hoa nấu cơm, Putri rủ ăn cùng.
 
@@ -238,7 +238,7 @@ Hoa nấu cơm, Putri rủ ăn cùng.
 
 ---
 
-## Scene 13 — Phòng Hoa · 21:00 — Gọi điện về VN
+## Tình huống 13 — Phòng Hoa · 21:00 — Gọi điện về VN
 
 Hoa gọi điện về cho mẹ qua Zalo.
 
@@ -260,7 +260,7 @@ Hoa gọi điện về cho mẹ qua Zalo.
 
 ---
 
-## Scene 14 — Phòng Hoa · 22:00 — Viết nhật ký
+## Tình huống 14 — Phòng Hoa · 22:00 — Viết nhật ký
 
 Hoa lấy cuốn sổ tay 指導員 của Tanaka tặng. Mở trang trắng.
 

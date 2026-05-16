@@ -1,6 +1,6 @@
 # Rule 40 — Multi-party negotiation / 多者間交渉
 
-> **Luận điểm.** Khi 中村 CFO + 大垣 + 松本 PM **cùng tham gia** 1 phiên = 3 stakeholders, 3 priorities. **CFO** = giá / ROI, **営業部長** = total deal / relationship, **PM** = scope / timeline. Trả lời chỉ 1 người = 2 người disengage. Pattern: **(1) Identify từng concern**, **(2) Address parallel** (1 câu cho mỗi role), **(3) Address senior cuối cùng** (CFO).
+> **Luận điểm.** Khi 中村 CFO + 大垣 + 松本 PM **cùng tham gia** 1 phiên = 3 stakeholders, 3 priorities. **CFO** = giá / ROI, **営業部長** = total deal / relationship, **PM** = scope / timeline. Trả lời chỉ 1 người = 2 người mất kết nối. Pattern: **(1) Identify từng concern**, **(2) Address song song** (1 câu cho mỗi role), **(3) Address senior cuối cùng** (CFO).
 >
 > 多者間交渉では役割別 concern (CFO=ROI、営業=total deal、PM=scope) を識別し、各人に並列 address。最後に senior (CFO) に回す。
 >
@@ -50,7 +50,7 @@ Phase 3 final round, executive review: 中村 CFO + 大垣 + 松本 PM joined Ti
 - 【1】**「3 点まとめてお答えいたします」** = signal 全部 address. 1 人 ignored 不安を解消.
 - 【2】**Order: junior → senior** (松本 → 大垣 → 中村 CFO). Senior 最後 = "trumps the pyramid" of value (松本の technical detail → 大垣の total deal → CFO の ROI). 各層に response.
 - 【3】**CFO 質問は最後 + most detailed**. CFO は「自分の質問が most important で answered last」 と feel する.
-- **目線移動 + 浅い bow** = 各人に address している nonverbal signal. 1 人 fixed gaze は他 2 人 disengage.
+- **目線移動 + 浅い bow** = tín hiệu phi ngôn ngữ cho thấy đang address từng người. 1 人 fixed gaze は他 2 人 mất kết nối.
 
 ---
 
@@ -58,17 +58,17 @@ Phase 3 final round, executive review: 中村 CFO + 大垣 + 松本 PM joined Ti
 
 > **「多者間 = 並列 address。junior → senior 順、CFO 最後 + detail 最大。1 人 ignored は 2 人を失う。」**
 >
-> *Multi-party = address parallel. Junior → senior, CFO cuối cùng + detail nhiều nhất. Skip 1 = mất 2.*
+> *Đa bên = address song song. Junior → senior, CFO cuối cùng + detail nhiều nhất. Skip 1 = mất 2.*
 
 ---
 
 ## ⚠ Tránh
 
-- 1 人 (highest title) chỉ trả lời → 2 人 disengage = ringi 反対 source
+- 1 人 (highest title) chỉ trả lời → 2 人 mất kết nối = ringi 反対 source
 - Senior 先 (CFO 最初) → junior の質問は dilute される
 - "あとで個別に" 流す → 当日の trust momentum lost
 - 全員に同じ depth で答える → CFO 質問は detail 多めにすべき
-- 目線固定 → nonverbal で sideline 感
+- 目線固定 → tín hiệu phi ngôn ngữ cho thấy có người bị bỏ qua
 
 ---
 

@@ -1,10 +1,10 @@
-# Sách 20 · T2. N2 prep + EJU intro (N2EJU開始)
+# Sách 20 · T2. Ôn thi N2 + giới thiệu EJU (N2EJU開始)
 
-> **Mục tiêu:** 5/2025. N2 prep intensive. Yamada giới thiệu EJU format chi tiết. Mock EJU 1 — 480/800 (target 540 ĐH Osaka).
+> **Mục tiêu:** 5/2025. Ôn thi N2 cường độ cao. Yamada giới thiệu định dạng EJU chi tiết. Mock EJU 1 — 480/800 (target 540 ĐH Osaka).
 
 ---
 
-## Scene 1 — Yamada EJU intro chi tiết · 13:30
+## Tình huống 1 — Yamada giới thiệu EJU chi tiết · 13:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -19,7 +19,7 @@
 
 ---
 
-## Scene 2 — Mock EJU 1 · weekend
+## Tình huống 2 — Mock EJU 1 · weekend
 
 | Speaker | Lời thoại |
 |---|---|
@@ -35,7 +35,7 @@
 
 ---
 
-## Scene 3 — Tổng hợp prep books · 18:00
+## Tình huống 3 — Tổng hợp prep books · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -51,7 +51,7 @@
 
 ---
 
-## Scene 4 — Bahra study Th3 · 19:00
+## Tình huống 4 — Bahra study Th3 · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -63,7 +63,7 @@
 
 ---
 
-## Scene 5 — Linh visit Đại dorm · weekend
+## Tình huống 5 — Linh visit Đại dorm · weekend
 
 | Speaker | Lời thoại |
 |---|---|
@@ -80,7 +80,7 @@
 
 ---
 
-## Scene 6 — Lawson 上司 promotion · 18:00
+## Tình huống 6 — Lawson 上司 promotion · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -96,7 +96,7 @@
 
 ---
 
-## Scene 7 — Đêm reflect · 22:00
+## Tình huống 7 — Đêm reflect · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -108,7 +108,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -133,4 +133,4 @@
 | 完璧 | かんぺき | Hoàn |
 | 8jou | はちじょう | 8 jou |
 
-> *"EJU intro. Mock 480. Lawson promotion 1200 yên. N2 prep."*
+> *"Giới thiệu EJU. Mock 480. Lawson promotion 1200 yên. Ôn thi N2."*

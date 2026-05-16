@@ -106,7 +106,7 @@
 
 ### Thúc nhẹ (có deadline)
 - "Em xin phép theo dõi lại về…"
-- "Em viết để follow up về mail ngày…"
+- "Em viết để nhắc lại về mail ngày…"
 - "Em nhắc lại để chị không lỡ deadline…"
 
 ### Thúc có áp lực nhẹ

@@ -1,4 +1,4 @@
-# Rule 33 — Memory bank — ghi nhớ specifics khách JP / 雑談メモバンク
+# Rule 33 — Kho ghi nhớ — ghi nhớ chi tiết cụ thể về khách JP / 雑談メモバンク
 
 > **Luận điểm.** **AI** không thể nhớ thay bạn. Sau mỗi cuộc gặp khách Nhật, **trong vòng 24h** ghi vào CRM: **quê quán + món yêu thích + sport team + family info + lần gặp gần nhất said something**. **Trước cuộc gặp tiếp**, review 3 phút. Đây là **moat** mà cạnh tranh không vượt qua được — khách Nhật **cảm động sâu** khi đối tác nhớ "**con anh học cấp 2 chưa?**" sau 6 tháng.
 
@@ -16,7 +16,7 @@
 
 ## 🎬 Bối cảnh
 
-Tháng 3/2027. Dũng tổng kết 1 năm 雑談 thực chiến với 19 cast khách Nhật. Lập **Memory Bank Master Sheet** trong Notion + Salesforce CRM, chia 4 sections theo từng khách. Anh Hà CTO yêu cầu Dũng training cả team.
+Tháng 3/2027. Dũng tổng kết 1 năm 雑談 thực chiến với 19 cast khách Nhật. Lập **Bảng kho ghi nhớ tổng hợp** trong Notion + Salesforce CRM, chia 4 sections theo từng khách. Anh Hà CTO yêu cầu Dũng training cả team.
 
 ---
 
@@ -116,7 +116,7 @@ Tháng 3/2027. Dũng tổng kết 1 năm 雑談 thực chiến với 19 cast kh�
 
 ---
 
-## 🗾 Memory Bank — 5 Elements
+## 🗾 Kho ghi nhớ — 5 yếu tố
 
 | Element | Ghi gì | Khi nào hỏi lại |
 |---------|--------|----------------|

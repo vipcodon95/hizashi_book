@@ -10,7 +10,7 @@
 
 ---
 
-## Scene 1 — Tanaka Hiroshi interview · 14:00 WeWork
+## Tình huống 1 — Tanaka Hiroshi interview · 14:00 WeWork
 
 | Speaker | Lời thoại |
 |---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-## Scene 2 — Tech interview Tanaka · 15:00
+## Tình huống 2 — Tech interview Tanaka · 15:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -36,7 +36,7 @@
 
 ---
 
-## Scene 3 — Sakura Yamada UI interview · 17:00
+## Tình huống 3 — Sakura Yamada UI interview · 17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -52,7 +52,7 @@
 
 ---
 
-## Scene 4 — Burn rate update · Tối standup
+## Tình huống 4 — Burn rate update · Tối standup
 
 | Speaker | Lời thoại |
 |---|---|
@@ -62,7 +62,7 @@
 
 ---
 
-## Scene 5 — Onboarding Day 1 cả 2 · Thứ Hai 22/7
+## Tình huống 5 — Onboarding Day 1 cả 2 · Thứ Hai 22/7
 
 | Speaker | Lời thoại |
 |---|---|
@@ -75,7 +75,7 @@
 
 ---
 
-## Scene 6 — Mai prenatal class · Thứ Sáu 26/7 chiều
+## Tình huống 6 — Mai prenatal class · Thứ Sáu 26/7 chiều
 
 | Speaker | Lời thoại |
 |---|---|
@@ -91,7 +91,7 @@
 
 ---
 
-## Scene 7 — End July reflection · 31/7
+## Tình huống 7 — End July reflection · 31/7
 
 | Speaker | Lời thoại |
 |---|---|
@@ -102,7 +102,7 @@
 
 ---
 
-## Scene 8 — Đêm Đại+Mai · 22:00
+## Tình huống 8 — Đêm Đại+Mai · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -115,29 +115,29 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
-| 採用 | さいよう | Recruitment/hire |
-| 新卒 | しんそつ | Fresh grad |
-| シニア | シニア | Senior |
-| ジュニア | ジュニア | Junior |
-| 給与 | きゅうよ | Salary |
-| RSU | アールエスユー | Restricted Stock Units |
-| 社会保険 | しゃかいほけん | Social insurance |
-| オンボーディング | オンボーディング | Onboarding |
-| 出産前教室 | しゅっさんまえきょうしつ | Prenatal class |
-| 会陰マッサージ | えいんマッサージ | Perineum massage |
-| 第三 trimester | だいさんトライメスター | 3rd trimester |
+| 採用 | さいよう | Tuyển dụng |
+| 新卒 | しんそつ | Sinh viên mới ra trường |
+| シニア | シニア | Cấp cao |
+| ジュニア | ジュニア | Cấp thấp |
+| 給与 | きゅうよ | Lương |
+| RSU | アールエスユー | Cổ phiếu hạn chế (Restricted Stock Units) |
+| 社会保険 | しゃかいほけん | Bảo hiểm xã hội |
+| オンボーディング | オンボーディング | Hội nhập nhân viên mới |
+| 出産前教室 | しゅっさんまえきょうしつ | Lớp học tiền sản |
+| 会陰マッサージ | えいんマッサージ | Massage tầng sinh môn |
+| 第三 trimester | だいさんトライメスター | Tam cá nguyệt thứ ba |
 
 ## Bí quyết chương
 
-- **First hire pattern**: Senior leader hire (Tanaka từ Tuấn cohort) + Junior fresh grad (Sakura từ Aiko mentor pipeline)
-- **Hire economics**: ¥9M base + RSU 0.5% / ¥4.5M base + RSU 0.2% — standard JP startup early-stage
-- **Burn rate jump 88%** (¥1.6M → ¥3M) khi hire 2 senior+junior
-- **39 months runway with cash flow**: Pre-seed cash + cash flow positive = healthy growth runway
-- **Onboarding 5-day plan**: HR + architecture + code + task + 1:1
-- **Husband prenatal class participation** = JP modern father standard
+- **Mô hình tuyển dụng đầu tiên**: thuê lãnh đạo cấp cao (Tanaka từ cùng khoá với Tuấn) + sinh viên mới ra trường (Sakura từ pipeline mentor của Aiko)
+- **Chi phí tuyển dụng**: ¥9M cơ bản + RSU 0,5% / ¥4,5M cơ bản + RSU 0,2% — chuẩn startup Nhật giai đoạn sớm
+- **Tỷ lệ burn rate tăng 88%** (¥1,6M → ¥3M) khi thuê 2 người cấp senior+junior
+- **Runway 39 tháng cùng dòng tiền dương**: tiền pre-seed + cash flow positive = đường băng tăng trưởng lành mạnh
+- **Kế hoạch onboarding 5 ngày**: HR + kiến trúc + code + giao việc + 1:1
+- **Chồng tham gia lớp tiền sản** = tiêu chuẩn người cha hiện đại ở Nhật
 
-> *"First 2 hires onboard! Tanaka senior backend ¥9M + Sakura UI junior ¥4.5M. Team 5 người. Burn ¥3M, runway 39m. v2.0 launch 1/8 tuần sau. Mai 5 tháng thai khoẻ. Hana 35 tháng sắp 3 tuổi."*
+> *"2 nhân viên đầu tiên onboard! Tanaka senior backend ¥9M + Sakura UI junior ¥4,5M. Team 5 người. Burn ¥3M, runway 39 tháng. v2.0 ra mắt 1/8 tuần sau. Mai 5 tháng thai khoẻ. Hana 35 tháng sắp 3 tuổi."*

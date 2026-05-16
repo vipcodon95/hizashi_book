@@ -14,7 +14,7 @@
 | II | Tiếp khách tại VN / 来客対応 | 8 |
 | III | Thăm văn phòng khách JP / 訪問 | 8 |
 | IV | Tiếp đãi · Bữa ăn · Omiyage | 7 |
-| V | Tình huống đặc biệt + Self-improve | 5 |
+| V | Tình huống đặc biệt + Tự cải thiện | 5 |
 
 **Phụ lục:** A (script), B (vocab), C (BJT 35 câu), D (templates 5 mẫu).
 

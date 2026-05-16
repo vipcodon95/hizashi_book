@@ -11,7 +11,7 @@
 
 ---
 
-## Scene 1 — Sáng thứ Bảy 9:00 WeWork
+## Tình huống 1 — Sáng thứ Bảy 9:00 WeWork
 
 | Speaker | Lời thoại |
 |---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-## Scene 2 — Đại migrate BGE-M3 · 11:00
+## Tình huống 2 — Đại migrate BGE-M3 · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -35,7 +35,7 @@
 
 ---
 
-## Scene 3 — User feedback session · 14:00
+## Tình huống 3 — User feedback session · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -46,7 +46,7 @@
 
 ---
 
-## Scene 4 — Aiko present dark mode design · 16:00
+## Tình huống 4 — Aiko present dark mode design · 16:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -57,7 +57,7 @@
 
 ---
 
-## Scene 5 — Mid-week BrSE update · Thứ Tư 18:30
+## Tình huống 5 — Mid-week BrSE update · Thứ Tư 18:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -69,7 +69,7 @@
 
 ---
 
-## Scene 6 — Cuối tuần v0.8 release · Thứ Bảy 21:00
+## Tình huống 6 — Cuối tuần v0.8 release · Thứ Bảy 21:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -83,7 +83,7 @@
 
 ---
 
-## Scene 7 — User feedback flow in · Sunday 11:00
+## Tình huống 7 — User feedback flow in · Sunday 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -94,7 +94,7 @@
 
 ---
 
-## Scene 8 — Đại reflect tối Chủ nhật · 22:00
+## Tình huống 8 — Đại reflect tối Chủ nhật · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -104,7 +104,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -121,10 +121,10 @@
 
 ## Bí quyết chương
 
-- **Sprint 14 ngày**: 7 day dev + 7 day polish/QA pattern indie
-- **BGE-M3 vs E5**: +6.5% retrieval cho 15ms latency trade-off
-- **Dark mode = killer feature** (92% adoption sau release)
-- **User feedback driven**: 5 user interview/week → roadmap input
-- **MRR growth 160% WoW** (30→78) v0.7→v0.8
+- **Sprint 14 ngày**: 7 ngày phát triển + 7 ngày hoàn thiện/kiểm thử — nhịp chuẩn của indie startup
+- **BGE-M3 vs E5**: tăng 6.5% khả năng tìm kiếm, chấp nhận đánh đổi thêm 15ms độ trễ
+- **Dark mode = tính năng đột phá** (92% người dùng bật ngay sau khi ra mắt)
+- **Phát triển theo phản hồi người dùng**: phỏng vấn 5 người/tuần → đưa vào lộ trình sản phẩm
+- **MRR tăng 160% so với tuần trước** (30→78 user trả phí) từ v0.7 lên v0.8
 
-> *"Sprint v0.8 ship 5 features. Paid 30→78, MRR ¥76k. Aiko dark mode tokens đẹp. Cohort founder rhythm tốt. Tuần tới Tokyo client meeting solo — stretch zone."*
+> *"Sprint v0.8 ra mắt 5 tính năng. Paid 30→78, MRR ¥76k. Aiko thiết kế dark mode tokens đẹp. Nhịp làm việc 3 founder tốt. Tuần tới họp solo với client Tokyo — vùng thử thách mới."*

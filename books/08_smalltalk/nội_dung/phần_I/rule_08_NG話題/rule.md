@@ -39,7 +39,7 @@
 | **松本** | 「いやあ、まあ…色々ですよ…」 |
 | **ズン** | 「すみません松本さん、ハイは入社1年でして…**話は変わりますが**、先ほどのプロジェクトの件で…」【1】 |
 
-📝【1】 **Damage control:** xin lỗi giảm nhẹ ("入社1年" = mới vào), pivot ngay bằng「話は変わりますが」. KHÔNG cố giải thích thêm — càng nói càng xấu.
+📝【1】 **Xử lý tình huống:** xin lỗi giảm nhẹ ("入社1年" = mới vào), chuyển đề ngay bằng「話は変わりますが」. KHÔNG cố giải thích thêm — càng nói càng xấu.
 
 ❌ **Vì sao XẤU:** Hỏi lương ở JP = tabooo đậm hơn cả VN. Đặc biệt junior hỏi senior. Khách phải né khéo = bị làm khó.
 
@@ -102,7 +102,7 @@
 | **ズン** | 「え、何かあったんですか?横領とか?」 |
 | **中村** | 「いや、まあ、忘れて。お酒の話やから。」 |
 
-❌ Đào sâu scandal nội bộ JP = đặt khách vào tình huống bí mật. Khách regret share, mình bị flag "miệng không kín".
+❌ Đào sâu scandal nội bộ JP = đặt khách vào tình huống bí mật. Khách regret share, mình bị đánh giá "miệng không kín".
 
 | | Speaker | Câu (GOOD) |
 |--|---------|-----|
@@ -110,14 +110,14 @@
 | L2 | **ズン** *(GOOD — không đào, react ngắn, đóng topic)* | 「**そうなんですね、大変でしたね。**」【3】(im 3 giây) **「ところで、今日のこの料理、本当に美味しいですね。」** |
 | L3 | **中村** *(thấy mình kín đáo → tin tưởng hơn)* | 「ありがとう。そう、ここの店、本当いいよね。」 |
 
-📝【3】 React tối thiểu, KHÔNG hỏi chi tiết, pivot ngay. **Mình kín = mình đáng tin.** Lần sau khách sẽ share những thứ thật sự matter.
+📝【3】 React tối thiểu, KHÔNG hỏi chi tiết, chuyển đề ngay. **Mình kín = mình đáng tin.** Lần sau khách sẽ share những thứ thật sự matter.
 
 ---
 
 ## 🎯 Câu vàng copy-paste
 
 ```
-■ DAMAGE CONTROL khi team mình lỡ miệng:
+■ XỬ LÝ TÌNH HUỐNG khi team mình lỡ miệng:
 「すみません、[Tên]はまだ慣れていなくて…話は変わりますが…」
 「失礼しました。[connector] 別の話なんですが…」
 
@@ -174,7 +174,7 @@
 
 ## 🎓 BJT
 
-**J3 — 場面把握:** Nhận biết 8 vùng NG + cách damage control khi team lỡ miệng.
+**J3 — 場面把握:** Nhận biết 8 vùng NG + cách xử lý tình huống khi team lỡ miệng.
 **J2 — 表現読解:** Phân biệt khen "trẻ hơn tuổi" (NG) vs khen năng lượng / năng lực (OK).
 **J1 — 発言聴解:** Khi khách lỡ chạm topic NG, react tối thiểu + pivot — KHÔNG đào sâu.
 

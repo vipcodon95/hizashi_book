@@ -8,7 +8,7 @@ Tháng 5/2022. Thái (23, Hà Nội) tốt nghiệp ĐH Bách Khoa cơ khí 2 th
 
 ---
 
-## Scene 1 — Centrair arrival · 14:30
+## Tình huống 1 — Centrair arrival · 14:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -23,7 +23,7 @@ Tháng 5/2022. Thái (23, Hà Nội) tốt nghiệp ĐH Bách Khoa cơ khí 2 th
 
 ---
 
-## Scene 2 — Tanaka đón · 15:30 sảnh
+## Tình huống 2 — Tanaka đón · 15:30 sảnh
 
 | Speaker | Lời thoại |
 |---|---|
@@ -38,7 +38,7 @@ Tháng 5/2022. Thái (23, Hà Nội) tốt nghiệp ĐH Bách Khoa cơ khí 2 th
 
 ---
 
-## Scene 3 — Trên xe ra Anjo · 16:00 cao tốc
+## Tình huống 3 — Trên xe ra Anjo · 16:00 cao tốc
 
 | Speaker | Lời thoại |
 |---|---|
@@ -55,7 +55,7 @@ Tháng 5/2022. Thái (23, Hà Nội) tốt nghiệp ĐH Bách Khoa cơ khí 2 th
 
 ---
 
-## Scene 4 — Đến ký túc · 17:30 Anjo Shinmei-cho
+## Tình huống 4 — Đến ký túc · 17:30 Anjo Shinmei-cho
 
 | Speaker | Lời thoại |
 |---|---|
@@ -71,7 +71,7 @@ Tháng 5/2022. Thái (23, Hà Nội) tốt nghiệp ĐH Bách Khoa cơ khí 2 th
 
 ---
 
-## Scene 5 — Gặp Putra · 18:00 phòng 201
+## Tình huống 5 — Gặp Putra · 18:00 phòng 201
 
 | Speaker | Lời thoại |
 |---|---|
@@ -87,7 +87,7 @@ Tháng 5/2022. Thái (23, Hà Nội) tốt nghiệp ĐH Bách Khoa cơ khí 2 th
 
 ---
 
-## Scene 6 — Putra giới thiệu phòng · 18:30
+## Tình huống 6 — Putra giới thiệu phòng · 18:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -104,7 +104,7 @@ Tháng 5/2022. Thái (23, Hà Nội) tốt nghiệp ĐH Bách Khoa cơ khí 2 th
 
 ---
 
-## Scene 7 — Đêm gọi mẹ · 22:00 (giờ VN 20:00)
+## Tình huống 7 — Đêm gọi mẹ · 22:00 (giờ VN 20:00)
 
 | Speaker | Lời thoại |
 |---|---|
@@ -122,7 +122,7 @@ Tháng 5/2022. Thái (23, Hà Nội) tốt nghiệp ĐH Bách Khoa cơ khí 2 th
 
 ---
 
-## Scene 8 — Đêm trước ngày đầu · 23:30 phòng 201
+## Tình huống 8 — Đêm trước ngày đầu · 23:30 phòng 201
 
 | Speaker | Lời thoại |
 |---|---|
@@ -136,7 +136,7 @@ Tháng 5/2022. Thái (23, Hà Nội) tốt nghiệp ĐH Bách Khoa cơ khí 2 th
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -144,7 +144,7 @@ Tháng 5/2022. Thái (23, Hà Nội) tốt nghiệp ĐH Bách Khoa cơ khí 2 th
 | 入管 | にゅうかん | Cục xuất nhập cảnh |
 | 就労 | しゅうろう | Đi làm |
 | 金型 | かながた | Khuôn (mold) |
-| 二次サプライヤー | にじサプライヤー | Tier-2 supplier |
+| 二次サプライヤー | にじサプライヤー | Nhà cung cấp cấp 2 (Tier-2) |
 | キャビコア | キャビコア | Cavity-core |
 | 寮 | りょう | Ký túc xá |
 | 同室 | どうしつ | Cùng phòng |

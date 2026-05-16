@@ -8,12 +8,12 @@ Yamada-sensei muốn lớp B trao đổi văn hoá. Chu kỳ 2 tuần. Đại tu
 
 ---
 
-## Scene 1 — Yamada giao đề · 14:30 sau lớp
+## Tình huống 1 — Yamada giao đề · 14:30 sau lớp
 
 | Speaker | Lời thoại |
 |---|---|
 | Yamada | みなさん、<ruby>来月<rt>らいげつ</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby><ruby>交流<rt>こうりゅう</rt></ruby>プロジェクト。<br>*(Tháng sau project trao đổi văn hoá.)* |
-| Cast | （<ruby>注目<rt>ちゅうもく</rt></ruby>）<br>*(Chú ý.)* |
+| Nhân vật | （<ruby>注目<rt>ちゅうもく</rt></ruby>）<br>*(Chú ý.)* |
 | Yamada | <ruby>各<rt>かく</rt></ruby><ruby>自<rt>じ</rt></ruby><ruby>祖国<rt>そこく</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby><ruby>10<rt>じゅっ</rt></ruby><ruby>分<rt>ぷん</rt></ruby>プレゼン＋5<ruby>分<rt>ぷん</rt></ruby>Q&A。<br>*(Mỗi người 10 phút thuyết trình + 5 phút Q&A.)* |
 | Yamada | <ruby>15<rt>じゅうご</rt></ruby><ruby>分<rt>ぷん</rt></ruby><ruby>合計<rt>ごうけい</rt></ruby>です。パワーポイント<ruby>必須<rt>ひっす</rt></ruby>です。<br>*(Tổng 15 phút. Bắt buộc dùng PowerPoint.)* |
 | Yamada | <ruby>順番<rt>じゅんばん</rt></ruby>:<ruby>第<rt>だい</rt></ruby><ruby>1<rt>いっ</rt></ruby><ruby>週<rt>しゅう</rt></ruby>スミさん(<ruby>韓国<rt>かんこく</rt></ruby>)、<ruby>第<rt>だい</rt></ruby><ruby>2<rt>に</rt></ruby><ruby>週<rt>しゅう</rt></ruby>イーファンさん(<ruby>中国<rt>ちゅうごく</rt></ruby>)、<ruby>第<rt>だい</rt></ruby><ruby>3<rt>さん</rt></ruby><ruby>週<rt>しゅう</rt></ruby>ダイ<ruby>君<rt>くん</rt></ruby>(ベトナム)、<ruby>第<rt>だい</rt></ruby><ruby>4<rt>よん</rt></ruby><ruby>週<rt>しゅう</rt></ruby>アウン<ruby>君<rt>くん</rt></ruby>(ミャンマー)。<br>*(Thứ tự: tuần 1 Sumi, tuần 2 Yifan, tuần 3 Đại, tuần 4 Aung.)* |
@@ -21,7 +21,7 @@ Yamada-sensei muốn lớp B trao đổi văn hoá. Chu kỳ 2 tuần. Đại tu
 
 ---
 
-## Scene 2 — Yamada hướng dẫn cấu trúc · 14:45
+## Tình huống 2 — Yamada hướng dẫn cấu trúc · 14:45
 
 | Speaker | Lời thoại |
 |---|---|
@@ -36,7 +36,7 @@ Yamada-sensei muốn lớp B trao đổi văn hoá. Chu kỳ 2 tuần. Đại tu
 
 ---
 
-## Scene 3 — Brainstorm chủ đề · 18:00 nhà Tanaka
+## Tình huống 3 — Đặt ý tưởng cho chủ đề · 18:00 nhà Tanaka
 
 | Speaker | Lời thoại |
 |---|---|
@@ -53,7 +53,7 @@ Yamada-sensei muốn lớp B trao đổi văn hoá. Chu kỳ 2 tuần. Đại tu
 
 ---
 
-## Scene 4 — Slide outline · 21:00
+## Tình huống 4 — Slide outline · 21:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -73,7 +73,7 @@ Yamada-sensei muốn lớp B trao đổi văn hoá. Chu kỳ 2 tuần. Đại tu
 
 ---
 
-## Scene 5 — Sumi presentation tuần 1 — Đại observe · 13:30
+## Tình huống 5 — Sumi presentation tuần 1 — Đại observe · 13:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -82,7 +82,7 @@ Yamada-sensei muốn lớp B trao đổi văn hoá. Chu kỳ 2 tuần. Đại tu
 | Sumi | （<ruby>導入<rt>どうにゅう</rt></ruby>）<ruby>毎年<rt>まいとし</rt></ruby><ruby>11<rt>じゅういち</rt></ruby><ruby>月<rt>がつ</rt></ruby>に<ruby>家族<rt>かぞく</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まり、<ruby>100<rt>ひゃっ</rt></ruby><ruby>個<rt>こ</rt></ruby>の<ruby>白菜<rt>はくさい</rt></ruby>を<ruby>漬<rt>つ</rt></ruby>けます。<br>*(Tháng 11 hằng năm gia đình tụ tập, ngâm 100 cải thảo.)* |
 | Đại | (VN, nội tâm) Sumi nói chậm và rõ. Quan sát học hỏi.<br>*(Học.)* |
 | Sumi | （<ruby>15<rt>じゅうご</rt></ruby><ruby>分後<rt>ふんご</rt></ruby>に<ruby>終<rt>お</rt></ruby>わる）<br>*(15 phút sau kết thúc.)* |
-| Cast | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
+| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
 | Yamada | スミさん、<ruby>素晴<rt>すば</rt></ruby>らしいです！Q&A の<ruby>時間<rt>じかん</rt></ruby>です:<br>*(Sumi tuyệt vời! Đến giờ Q&A.)* |
 | Yifan | キムチは<ruby>毎日<rt>まいにち</rt></ruby><ruby>食<rt>た</rt></ruby>べますか？<br>*(Bạn ăn kimchi mỗi ngày à?)* |
 | Sumi | はい、<ruby>毎食<rt>まいしょく</rt></ruby><ruby>食<rt>た</rt></ruby>べます。<br>*(Vâng, mỗi bữa đều ăn.)* |
@@ -90,7 +90,7 @@ Yamada-sensei muốn lớp B trao đổi văn hoá. Chu kỳ 2 tuần. Đại tu
 
 ---
 
-## Scene 6 — Tập speech với Tony tuần 2 · 21:00
+## Tình huống 6 — Tập speech với Tony tuần 2 · 21:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -106,7 +106,7 @@ Yamada-sensei muốn lớp B trao đổi văn hoá. Chu kỳ 2 tuần. Đại tu
 
 ---
 
-## Scene 7 — Đêm trước presentation · 22:00 1 ngày trước
+## Tình huống 7 — Đêm trước presentation · 22:00 1 ngày trước
 
 | Speaker | Lời thoại |
 |---|---|
@@ -121,7 +121,7 @@ Yamada-sensei muốn lớp B trao đổi văn hoá. Chu kỳ 2 tuần. Đại tu
 
 ---
 
-## Scene 8 — Sáng presentation · 13:25 lớp B
+## Tình huống 8 — Sáng presentation · 13:25 lớp B
 
 | Speaker | Lời thoại |
 |---|---|
@@ -129,14 +129,14 @@ Yamada-sensei muốn lớp B trao đổi văn hoá. Chu kỳ 2 tuần. Đại tu
 | Đại | （<ruby>立<rt>た</rt></ruby>つ）<br>*(Đứng.)* |
 | Đại | （<ruby>深呼吸<rt>しんこきゅう</rt></ruby>）<br>*(Hít sâu.)* |
 | Đại | みなさん、こんにちは！<br>*(Chào mọi người!)* |
-| Cast | こんにちは！<br>*(Chào!)* |
+| Nhân vật | こんにちは！<br>*(Chào!)* |
 | Đại | <ruby>本日<rt>ほんじつ</rt></ruby>のテーマはベトナムのテトです！<br>*(Đề tài hôm nay là Tết Việt Nam!)* |
 | Đại | （スライド<ruby>1<rt>いち</rt></ruby><ruby>表示<rt>ひょうじ</rt></ruby>）<br>*(Hiện slide 1.)* |
 | Đại | (VN, nội tâm) Mọi người nhìn chăm chú.<br>*(Tập trung.)* |
 
 ---
 
-## Scene 9 — Presentation main content · 13:30-13:42
+## Tình huống 9 — Presentation main content · 13:30-13:42
 
 | Speaker | Lời thoại |
 |---|---|
@@ -158,11 +158,11 @@ Yamada-sensei muốn lớp B trao đổi văn hoá. Chu kỳ 2 tuần. Đại tu
 | Đại | （スライド<ruby>11<rt>じゅういち</rt></ruby> - cảm tưởng）<br>*(S11.)* |
 | Đại | <ruby>2025<rt>にせんにじゅうご</rt></ruby><ruby>年<rt>ねん</rt></ruby>のテトは<ruby>初<rt>はじ</rt></ruby>めて<ruby>家<rt>いえ</rt></ruby>から<ruby>離<rt>はな</rt></ruby>れます。<ruby>少<rt>すこ</rt></ruby>し<ruby>寂<rt>さび</rt></ruby>しいです。でも<ruby>大阪<rt>おおさか</rt></ruby>でベトナムの<ruby>友達<rt>ともだち</rt></ruby>と<ruby>祝<rt>いわ</rt></ruby>う<ruby>予定<rt>よてい</rt></ruby>です。<br>*(2025 lần đầu Tết xa nhà. Hơi buồn. Nhưng dự định ăn với bạn Việt ở Osaka.)* |
 | Đại | （スライド<ruby>12<rt>じゅうに</rt></ruby>）まとめ：<ruby>家族<rt>かぞく</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>＋<ruby>新<rt>あたら</rt></ruby>しい<ruby>年<rt>とし</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>願<rt>ねが</rt></ruby>い。ご<ruby>清聴<rt>せいちょう</rt></ruby>ありがとうございました！<br>*(Tổng kết: gia đình quan trọng + năm mới ước nguyện mới. Cảm ơn đã lắng nghe!)* |
-| Cast | （<ruby>拍手<rt>はくしゅ</rt></ruby><ruby>大<rt>おお</rt></ruby>きく）<br>*(Vỗ tay to.)* |
+| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby><ruby>大<rt>おお</rt></ruby>きく）<br>*(Vỗ tay to.)* |
 
 ---
 
-## Scene 10 — Q&A · 13:42-13:47
+## Tình huống 10 — Q&A · 13:42-13:47
 
 | Speaker | Lời thoại |
 |---|---|
@@ -176,11 +176,11 @@ Yamada-sensei muốn lớp B trao đổi văn hoá. Chu kỳ 2 tuần. Đại tu
 | Yamada | <ruby>最後<rt>さいご</rt></ruby>の<ruby>1<rt>ひと</rt></ruby>つ:ベトナム<ruby>北部<rt>ほくぶ</rt></ruby>と<ruby>南部<rt>なんぶ</rt></ruby>のテトは<ruby>違<rt>ちが</rt></ruby>いますか？<br>*(Cuối 1: Tết Bắc Nam khác nhau không?)* |
 | Đại | はい！<ruby>北部<rt>ほくぶ</rt></ruby>は<ruby>桃<rt>もも</rt></ruby>の<ruby>花<rt>はな</rt></ruby>とバインチュン。<ruby>南部<rt>なんぶ</rt></ruby>は<ruby>黄色<rt>きいろ</rt></ruby>いホアマイ（<ruby>日本<rt>にほん</rt></ruby>の<ruby>梅<rt>うめ</rt></ruby>とは<ruby>違<rt>ちが</rt></ruby>う、Ochna integerrima）とバインテット。<ruby>気候<rt>きこう</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>うからです。<br>*(Vâng! Bắc: hoa đào + bánh chưng. Nam: hoa mai vàng (Ochna integerrima, khác hoa mơ Nhật) + bánh tét. Vì khí hậu khác.)* |
 | Yamada | （<ruby>頷<rt>うなず</rt></ruby>く）よく<ruby>調<rt>しら</rt></ruby>べましたね。<br>*(Gật. Tra cứu kỹ đấy.)* |
-| Cast | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
+| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
 
 ---
 
-## Scene 11 — Yamada feedback + chấm · 14:00
+## Tình huống 11 — Yamada feedback + chấm · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -197,7 +197,7 @@ Yamada-sensei muốn lớp B trao đổi văn hoá. Chu kỳ 2 tuần. Đại tu
 
 ---
 
-## Scene 12 — Đêm reflect · 22:00
+## Tình huống 12 — Đêm reflect · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -213,7 +213,7 @@ Yamada-sensei muốn lớp B trao đổi văn hoá. Chu kỳ 2 tuần. Đại tu
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

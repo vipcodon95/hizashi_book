@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Prep cuối · 5/2026
+## Tình huống 1 — Prep cuối · 5/2026
 
 | Speaker | Lời thoại |
 |---|---|
@@ -14,7 +14,7 @@
 
 ---
 
-## Scene 2 — Sáng thi · 6/2026
+## Tình huống 2 — Sáng thi · 6/2026
 
 | Speaker | Lời thoại |
 |---|---|
@@ -25,7 +25,7 @@
 
 ---
 
-## Scene 3 — Sau thi · chiều
+## Tình huống 3 — Sau thi · chiều
 
 | Speaker | Lời thoại |
 |---|---|
@@ -34,7 +34,7 @@
 
 ---
 
-## Scene 4 — 1 tháng sau kết quả · 7/2026
+## Tình huống 4 — 1 tháng sau kết quả · 7/2026
 
 | Speaker | Lời thoại |
 |---|---|
@@ -45,7 +45,7 @@
 
 ---
 
-## Scene 5 — Cohort izakaya · 19:00
+## Tình huống 5 — Cohort izakaya · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -56,7 +56,7 @@
 
 ---
 
-## Scene 6 — Đêm · 22:00
+## Tình huống 6 — Đêm · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -66,7 +66,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

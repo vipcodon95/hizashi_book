@@ -11,7 +11,7 @@
 
 ---
 
-## Scene 1 — D-day morning · 1/8/2031 8:00
+## Tình huống 1 — D-day morning · 1/8/2031 8:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -22,7 +22,7 @@
 
 ---
 
-## Scene 2 — WeWork war room v2.0 · 9:00
+## Tình huống 2 — WeWork war room v2.0 · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -35,7 +35,7 @@
 
 ---
 
-## Scene 3 — Launch 10:00 · Real-time monitor
+## Tình huống 3 — Launch 10:00 · Real-time monitor
 
 | Speaker | Lời thoại |
 |---|---|
@@ -48,7 +48,7 @@
 
 ---
 
-## Scene 4 — Trưa burger break · 12:00
+## Tình huống 4 — Trưa burger break · 12:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -58,7 +58,7 @@
 
 ---
 
-## Scene 5 — Hana 3 tuổi mini party · 5/8/2031 thứ Tư 18:00
+## Tình huống 5 — Hana 3 tuổi mini party · 5/8/2031 thứ Tư 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -75,7 +75,7 @@
 
 ---
 
-## Scene 6 — Cuối tuần 1 v2.0 stats · Chủ nhật 8/8
+## Tình huống 6 — Cuối tuần 1 v2.0 stats · Chủ nhật 8/8
 
 | Speaker | Lời thoại |
 |---|---|
@@ -86,7 +86,7 @@
 
 ---
 
-## Scene 7 — Cuối tháng 8 stats · 31/8
+## Tình huống 7 — Cuối tháng 8 stats · 31/8
 
 | Speaker | Lời thoại |
 |---|---|
@@ -96,7 +96,7 @@
 
 ---
 
-## Scene 8 — Đêm reflect · 31/8 23:00
+## Tình huống 8 — Đêm reflect · 31/8 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -107,28 +107,28 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
-| マルチリージョン | マルチリージョン | Multi-region |
-| ローンチ | ローンチ | Launch |
-| 韓国市場 | かんこくしじょう | Korean market |
-| 中国市場 | ちゅうごくしじょう | Chinese market |
-| サインアップ | サインアップ | Sign-up |
-| 有料転換 | ゆうりょうてんかん | Paid conversion |
-| 黒字化 | くろじか | Profitable |
-| ARR | エーアールアール | Annual Recurring Revenue |
-| Net positive | ネットポジティブ | Net positive cash flow |
-| プラットフォーム | プラットフォーム | Platform |
-| 36Kr | サンジューロックケーアール | Chinese tech media |
+| マルチリージョン | マルチリージョン | Đa vùng (triển khai đa khu vực) |
+| ローンチ | ローンチ | Ra mắt |
+| 韓国市場 | かんこくしじょう | Thị trường Hàn Quốc |
+| 中国市場 | ちゅうごくしじょう | Thị trường Trung Quốc |
+| サインアップ | サインアップ | Đăng ký tài khoản |
+| 有料転換 | ゆうりょうてんかん | Chuyển đổi sang trả phí |
+| 黒字化 | くろじか | Đạt lợi nhuận dương |
+| ARR | エーアールアール | Doanh thu định kỳ hàng năm |
+| Net positive | ネットポジティブ | Dòng tiền dương ròng |
+| プラットフォーム | プラットフォーム | Nền tảng |
+| 36Kr | サンジューロックケーアール | Kênh truyền thông công nghệ Trung Quốc |
 
 ## Bí quyết chương
 
-- **Ra mắt đa khu vực**: AWS Tokyo + Seoul + Singapore 3 region cho độ trễ thấp
-- **Chu kỳ PR 2 đa ngôn ngữ**: TechCrunch JP + Platum KR + 36Kr ZH + 8 influencer
+- **Ra mắt đa khu vực**: AWS Tokyo + Seoul + Singapore 3 vùng cho độ trễ thấp
+- **Chiến dịch truyền thông đa ngôn ngữ vòng 2**: TechCrunch JP + Platum KR + 36Kr ZH + 8 influencer
 - **Phân bố đăng ký theo thị trường**: KR 50% > ZH 32% > VN 15% > JP 4% (thế hệ K-pop Hàn học JP bùng nổ)
 - **MRR ¥5M = đạt mục tiêu Q3 sớm 4 tháng**: tăng trưởng cộng hưởng nhờ đa ngôn ngữ
-- **Net positive ¥2M/tháng**: duy trì vô hạn → Series A để tăng tốc, không phải sống còn
+- **Dòng tiền dương ¥2M/tháng**: duy trì vô hạn → Series A để tăng tốc, không phải vì tồn tại
 
-> *"Ra mắt v2.0 ngày 1/8. Thị trường KR+ZH bùng nổ 8,2k tuần 1. Cuối tháng MRR ¥5M (mục tiêu Q3 sớm 4 tháng). Net positive ¥2M/tháng. Hana 3 tuổi tiệc Doraemon. Pitch Series A sẵn sàng cho tháng 9."*
+> *"Ra mắt v2.0 ngày 1/8. Thị trường KR+ZH bùng nổ 8,2k tuần 1. Cuối tháng MRR ¥5M (đạt mục tiêu Q3 sớm 4 tháng). Dòng tiền dương ¥2M/tháng. Hana 3 tuổi tiệc Doraemon. Pitch Series A sẵn sàng cho tháng 9."*

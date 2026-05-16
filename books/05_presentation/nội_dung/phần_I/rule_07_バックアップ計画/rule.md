@@ -1,6 +1,6 @@
 # Rule 07 — Backup plan (Plan B) / バックアップ計画
 
-> **Luận điểm.** Pre-pitch checklist phải có **5 backup**: ① PDF deck (USB + cloud), ② demo offline (local DB / mock), ③ mobile hotspot, ④ HDMI / USB-C / VGA adapter trio, ⑤ printed handout 5 bản. Tech failure không phải "nếu" mà là "khi nào". Plan B chuẩn bị trước = recovery 2 phút thay vì 15 phút.
+> **Luận điểm.** Pre-pitch checklist phải có **5 backup**: ① PDF deck (USB + cloud), ② demo offline (local DB / mock — dữ liệu giả lập), ③ mobile hotspot, ④ HDMI / USB-C / VGA adapter trio, ⑤ printed handout (tài liệu phát tay) 5 bản. Tech failure không phải "nếu" mà là "khi nào". Plan B chuẩn bị trước = recovery 2 phút thay vì 15 phút.
 >
 > プレゼン直前チェックリスト5点: ①PDFバックアップ、②オフラインデモ、③モバイルテザリング、④アダプタ3種、⑤印刷配布5部。トラブルは『if』ではなく『when』。準備済みなら2分で復旧。
 >

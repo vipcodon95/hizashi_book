@@ -48,16 +48,16 @@ Hà CTO + Hương + Dũng họp 30 phút quyết mô hình giá Phase 3. Tuấn 
 
 > **「Cost-plusは商品向け、戦略案件はvalue-based+anchoring。3モデル比較してから選ぶ。」**
 >
-> *Cost-plus cho commodity, deal chiến lược dùng value-based + anchoring. So 3 mô hình rồi chọn.*
+> *Cost-plus cho hàng phổ thông, deal chiến lược dùng value-based + anchoring. So 3 mô hình rồi chọn.*
 
 ---
 
 ## ⚠ Tránh
 
 - Mặc định cost-plus cho mọi deal → bỏ tiền trên bàn ở deal chiến lược
-- Anchor giá trên trời mà không có ROI backup → khách walk
-- Quên validate粗利率 floor (vd: 20%) khi tính reservation
-- Không có whitepaper / case study → value-based khó thuyết phục CFO Nhật
+- Anchor giá trên trời mà không có dữ liệu ROI dự phòng → khách walk
+- Quên validate粗利率 sàn (vd: 20%) khi tính reservation
+- Không có tài liệu kỹ thuật / tình huống thực tế → value-based khó thuyết phục CFO Nhật
 
 ---
 
@@ -70,6 +70,6 @@ Hà CTO + Hương + Dũng họp 30 phút quyết mô hình giá Phase 3. Tuấn 
 | 粗利率 | あらりりつ | Gross margin |
 | 価値ベース | かちベース | Value-based |
 | 戦略案件 | せんりゃくあんけん | Deal chiến lược |
-| 商品案件 | しょうひんあんけん | Commodity deal |
+| 商品案件 | しょうひんあんけん | Deal hàng hóa phổ thông |
 | アンカー | ankā | Anchor (giá mở) |
 | インパクト | impakuto | Impact (tác động) |

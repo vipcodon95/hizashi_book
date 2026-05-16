@@ -16,7 +16,7 @@
 
 ---
 
-## Scene 1 — Tue tuần trước 09:00 · Office Thiên Phát quận 7
+## Tình huống 1 — Tue tuần trước 09:00 · Office Thiên Phát quận 7
 
 *Dũng vừa nhận thiệp mời từ Tanaka qua mail courier. Mở thiệp formal — gold trim, calligraphy. Dũng chưa biết gì về kekkonshiki. Hỏi Hương coach.*
 
@@ -51,7 +51,7 @@ Quan trọng: invite kekkonshiki = signal 'in family', không phải casual.
 
 ---
 
-## Scene 2 — Sat 11:30 · Lobby chapel khách sạn Imperial Tokyo
+## Tình huống 2 — Sat 11:30 · Lobby chapel khách sạn Imperial Tokyo
 
 *Imperial Tokyo (high-end hotel) chapel wedding venue. Lobby trang trọng, reception desk có 2 staff nữ kimono. Dũng đến đúng giờ. Ký sổ + đưa goshugi. Bị bug: tờ tiền 10,000 chưa gấp đôi (rule).*
 
@@ -97,7 +97,7 @@ Goshugi rules detail:
 
 ---
 
-## Scene 3 — Sat 12:00 · Chapel — wedding ceremony Christian style
+## Tình huống 3 — Sat 12:00 · Chapel — wedding ceremony Christian style
 
 *Chapel kiểu Tây style, ghế gỗ + ô vòm + cửa sổ kính màu. ≈80 khách ngồi 2 hàng ghế dài. Music organ. Dũng ngồi hàng 5 bên phải. Lễ Christian style 30 phút (Nhật phổ biến dù không công giáo).*
 
@@ -133,7 +133,7 @@ JP modern wedding 70% Christian style (không phải công giáo, là 'aesthetic
 
 ---
 
-## Scene 4 — Sat 13:00 · Reception hall — bắt đầu speech
+## Tình huống 4 — Sat 13:00 · Reception hall — bắt đầu speech
 
 *Reception hall lớn 80 chỗ, bàn round 8 người/bàn. Trang trí hoa trắng + nến. Set lunch French course 7 món. Speech bố mẹ + sếp Tanaka (Nakamura CFO bên 白鷗) mở màn.*
 
@@ -175,12 +175,12 @@ Wedding JP có 3-5 speeches dài 5-10 phút, nhiều emotion peak:
 - ✅ Lau nước mắt với khăn tay (mang theo) — không dùng napkin bàn.
 - ❌ **Không** check phone trong speech.
 - ❌ **Không** chen vào speech với câu của mình.
-- Speech bố Tanaka về Tanaka khi nhỏ = window vào con người mới của Tanaka — bonus context cho Dũng.
+- Speech bố Tanaka về Tanaka khi nhỏ = cánh cửa vào con người thật của Tanaka — bonus context cho Dũng.
 
 
 ---
 
-## Scene 5 — Sat 14:00 · Bàn round 8 người
+## Tình huống 5 — Sat 14:00 · Bàn round 8 người
 
 *Course French lunch 7 món. Dũng cùng bàn 6 người không quen — bạn của Tanaka từ thời đại học + 1 đồng nghiệp Hakuō Dũng chưa gặp. Tự intro vòng tròn. 1 người ngạc nhiên 'Việt Nam à?'.*
 
@@ -217,7 +217,7 @@ Wedding bàn round = 8 người không quen. Junior tactic:
 
 ---
 
-## Scene 6 — Sat 15:00 · Bàn round
+## Tình huống 6 — Sat 15:00 · Bàn round
 
 *Cake cutting + cake feeding ceremony. Dũng take video cho Tanaka + Yumi qua iPhone. Sẽ gửi qua Slack sau.*
 
@@ -266,7 +266,7 @@ Photo session với cô dâu chú rể tại bàn = 1-2 phút brief moment:
 
 ---
 
-## Scene 7 — Sat 15:30 · Bàn round
+## Tình huống 7 — Sat 15:30 · Bàn round
 
 *Speech bạn bè cô dâu chú rể (3 người). 1 speech rất hài Kansai-ben — Dũng không hiểu hết nhưng cười theo timing đúng.*
 
@@ -304,7 +304,7 @@ Wedding speech bạn bè thường có Kansai-ben / Hakata-ben joke. Junior khô
 
 ---
 
-## Scene 8 — Sat 16:00 · Hành lang reception — break 15 phút
+## Tình huống 8 — Sat 16:00 · Hành lang reception — break 15 phút
 
 *Reception nghỉ break. Khách ra hành lang stretch + bathroom. Matsumoto + Ōgaki cùng Dũng đứng cạnh cửa sổ view Tokyo. Matsumoto hỏi cảm xúc thật.*
 
@@ -343,7 +343,7 @@ Break giữa wedding = senior hay open up real-talk:
 
 ---
 
-## Scene 9 — Sat 17:00 · Reception cuối — bouquet toss
+## Tình huống 9 — Sat 17:00 · Reception cuối — bouquet toss
 
 *Cuối reception. Bouquet toss + bird song release outdoor garden. Dũng đứng góc xa, không tham gia (nam, lại khách nước ngoài). Quan sát thôi.*
 
@@ -378,7 +378,7 @@ Bouquet toss = ritual nội bộ Nhật:
 
 ---
 
-## Scene 10 — Sat 17:30 · Cửa reception — chia tay Tanaka + Yumi
+## Tình huống 10 — Sat 17:30 · Cửa reception — chia tay Tanaka + Yumi
 
 *Đoàn khách lần lượt ra về, nhận hikidemono (bag quà cảm ơn). Hikidemono nặng ≈2kg. Dũng cẩn thận xếp vào carry-on, lo về VN bị x-ray.*
 
@@ -414,7 +414,7 @@ Hikidemono (引出物) = quà cảm ơn cô dâu chú rể đưa cuối wedding:
 
 ---
 
-## Scene 11 — Sat 19:00 · Pub Ginza — niji-kai sau wedding
+## Tình huống 11 — Sat 19:00 · Pub Ginza — niji-kai sau wedding
 
 *Pub kiểu British style ở Ginza, nhỏ ấm cúng. 4 người: Matsumoto + Ōgaki + Inoue + Dũng. Tanaka đến 30 phút sau, ở 1 tiếng rồi về. Không khí relax sau wedding. Dũng được hỏi nhiều về cuộc sống ở HCMC, lần đầu kể chuyện gia đình mình với khách JP.*
 
@@ -423,7 +423,7 @@ Hikidemono (引出物) = quà cảm ơn cô dâu chú rể đưa cuối wedding:
 | **松本PM** | 「(ビール乾杯)じゃあ、ズンさん、長い1日お疲れ。」<br>*(kanpai bia) Vậy, Dũng vất vả ngày dài.* |
 | **全員** | 「お疲れ様!」<br>*Vất vả!* |
 | **井上** | 「ズンさん、結婚式どう感じた?」<br>*Dũng cảm thấy đám cưới sao?* |
-| **ズン** | 「(本気で)…正直、文化衝撃でした。良い意味で。日本の家族の表現、温かさのレイヤー、自分の VN のスタイルとも違うし、教科書で読んだのとも違いました。」<br>*(thật) … honest, văn hóa shock. Theo nghĩa tốt. Cách thể hiện gia đình của Nhật, layer ấm áp, khác cả cách Việt Nam của em lẫn sách giáo khoa em đọc.* |
+| **ズン** | 「(本気で)…正直、文化衝撃でした。良い意味で。日本の家族の表現、温かさのレイヤー、自分の VN のスタイルとも違うし、教科書で読んだのとも違いました。」<br>*(thật) … honest, sốc văn hóa. Theo nghĩa tốt. Cách thể hiện gia đình của Nhật, layer ấm áp, khác cả cách Việt Nam của em lẫn sách giáo khoa em đọc.* |
 | **大垣 営業部長** | 「ズンさん、ベトナムの結婚式、自分の妹さんとか、最近あった?」<br>*Dũng à, đám cưới Việt Nam của em gái em chẳng hạn, gần đây có không?* |
 | **ズン** | 「妹はまだ大学生で結婚先。両親の結婚式の話、よく聞きました。1980年代、貧しかった時代、皆で助け合ってやった。お米とお肉持ち寄って、村全体で1日宴会。」<br>*Em gái còn đại học, kết hôn còn xa. Chuyện đám cưới bố mẹ em hay nghe. Thập niên 80, thời nghèo, mọi người tụ giúp nhau. Mang gạo với thịt tới, cả làng tổ chức 1 ngày tiệc.* |
 | **松本PM** | 「へえ、村全体で。日本もかつてはそうだった、戦後すぐの時代。今はホテルになっちゃった。」<br>*Cả làng à. Nhật trước cũng vậy, ngay sau chiến tranh. Giờ thành khách sạn.* |
@@ -452,11 +452,11 @@ Hikidemono (引出物) = quà cảm ơn cô dâu chú rể đưa cuối wedding:
 
 ### 💡 Bí quyết — Niji-kai sau wedding — share gia đình mình
 
-Niji-kai sau wedding = relationship đã sang level 'family-acquaintance':
+Niji-kai sau wedding = relationship đã sang tầng 'quen biết như gia đình':
 - ✅ **Senior ask về family bạn** = signal genuine interest, không small talk.
 - ✅ **Share family chi tiết cụ thể** — bố hobby thư pháp, mẹ dậy 5h, em gái IT — cá nhân hóa hơn 'gia đình em ổn'.
-- ✅ **Vulnerable share** — câu chuyện đám cưới bố mẹ thập niên 80 = window vào lịch sử personal, deepen relationship.
-- ✅ **Tanaka invite meet parents** = relationship cuối chương sang level 'sẽ vào nhà nhau'. Career-defining moment.
+- ✅ **Vulnerable share** — câu chuyện đám cưới bố mẹ thập niên 80 = cánh cửa vào lịch sử cá nhân, deepen relationship.
+- ✅ **Tanaka invite meet parents** = relationship cuối chương sang tầng 'sẽ vào nhà nhau'. Khoảnh khắc định hình sự nghiệp.
 - ✅ **Reciprocate invitation** — Dũng promise báo bố mẹ + welcome.
 - Niji-kai short (1 tiếng) post-wedding = ideal — không kéo dài cho new groom.
 
@@ -475,10 +475,10 @@ Niji-kai sau wedding = relationship đã sang level 'family-acquaintance':
    Matsumoto explain '80 khách, ngoài cty hầu như family — em VN duy nhất'.
    → Đây là proof không phải 'business friendship' nữa, là 'human friendship'.
 2. Speech bố Tanaka khóc → Dũng khóc theo. Emotion universal, không cần
-   hiểu tiếng Nhật hết. Wedding window vào history family Nhật.
+   hiểu tiếng Nhật hết. Đám cưới — cánh cửa vào lịch sử gia đình Nhật.
    → Văn hóa Nhật ấm hơn nhiều mức bạn bè VN từng kể.
 3. Niji-kai Tanaka invite gặp bố mẹ Dũng năm sau HCMC.
-   → Relationship sang chiều 'family-to-family'. Career-defining.
+   → Relationship sang chiều 'gia đình qua lại'. Dấu mốc định hình sự nghiệp.
 
 3 mistakes không lặp:
 1. Goshugi tiền hướng sai → ôn rule next wedding (đã 4-5 năm tới?).

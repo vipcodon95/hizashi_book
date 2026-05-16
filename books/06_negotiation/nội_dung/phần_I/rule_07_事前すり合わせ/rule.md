@@ -1,6 +1,6 @@
 # Rule 07 — Pre-meeting alignment nội bộ / 事前社内すり合わせ
 
-> **Luận điểm.** Trước khi đối diện khách, **internal team phải align 100%**: ai nói gì, ai im khi nào, walk-away được approve, concession ladder thống nhất. Khách Nhật phát hiện disagreement nội bộ trong 5 phút → leverage để chia rẽ.
+> **Luận điểm.** Trước khi đối diện khách, **internal team phải align 100%**: ai nói gì, ai im khi nào, walk-away được approve, concession ladder thống nhất. Khách Nhật phát hiện disagreement nội bộ trong 5 phút → đòn bẩy để chia rẽ.
 >
 > 商談前の社内すり合わせは『誰が何を言う・誰がいつ黙る・撤退ライン承認・譲歩順序』を全員一致させる作業。社内の不一致を相手に見られたら leverage 取られる。
 >
@@ -24,7 +24,7 @@ Sáng đàm phán Phase 3 lúc 9:00, đàm phán 14:00 với 大垣 + 中村 CFO
 | **L4** | **大垣** *(微笑)* | 「あ、トゥアンさんは ¥16M でいけるんですね。じゃあそれでお願いします。」 |
 | **L5** | **ズン** *(顔色変)* | 「いえ、ちょっと…社内確認を…」 |
 
-**Vì sao xấu:** Tuấn không biết walk-away ¥15M, không biết concession ladder. Tự ý quote ¥16M trong phòng → 大垣 chốt ngay. Dũng mất control. Phải align trước: **Tuấn KHÔNG được quote giá**, chỉ Dũng quote, Tuấn answer technical.
+**Vì sao xấu:** Tuấn không biết walk-away ¥15M, không biết concession ladder. Tự ý quote ¥16M trong phòng → 大垣 chốt ngay. Dũng mất control. Phải align trước: **Tuấn KHÔNG được quote giá**, chỉ Dũng quote, Tuấn trả lời phần kỹ thuật.
 
 ---
 
@@ -58,7 +58,7 @@ Sáng đàm phán Phase 3 lúc 9:00, đàm phán 14:00 với 大垣 + 中村 CFO
 
 ## ⚠ Tránh
 
-- "Improvise trong phòng cũng được" → 大垣 sharp đọc được trong 3 phút
+- "Ứng biến trong phòng cũng được" → 大垣 sharp đọc được trong 3 phút
 - Tuấn (technical) quote giá → mất control vĩnh viễn
 - Quên thống nhất escalation phrase → khách hỏi khó, mỗi người trả lời khác
 - Không có physical signal → trong phòng không thể "ssh" miệng nhau

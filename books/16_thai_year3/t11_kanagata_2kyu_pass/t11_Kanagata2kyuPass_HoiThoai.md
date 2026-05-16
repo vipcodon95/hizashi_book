@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Sáng thi 金型 2 級 · 3/2025
+## Tình huống 1 — Sáng thi 金型 2 級 · 3/2025
 
 | Speaker | Lời thoại |
 |---|---|
@@ -13,7 +13,7 @@
 
 ---
 
-## Scene 2 — Thực hành 4 tiếng (立フライス手加工) · ngày thi
+## Tình huống 2 — Thực hành 4 tiếng (立フライス手加工) · ngày thi
 
 | Speaker | Lời thoại |
 |---|---|
@@ -25,7 +25,7 @@
 
 ---
 
-## Scene 3 — N2 prep tiếp tục · 4/2025
+## Tình huống 3 — N2 prep tiếp tục · 4/2025
 
 | Speaker | Lời thoại |
 |---|---|
@@ -36,7 +36,7 @@
 
 ---
 
-## Scene 4 — Kết quả 金型 2 級 · 4/2025
+## Tình huống 4 — Kết quả 金型 2 級 · 4/2025
 
 | Speaker | Lời thoại |
 |---|---|
@@ -50,7 +50,7 @@
 
 ---
 
-## Scene 5 — Báo tin cho đồng nghiệp · 12:30
+## Tình huống 5 — Báo tin cho đồng nghiệp · 12:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -62,7 +62,7 @@
 
 ---
 
-## Scene 6 — Mai gọi · 22:00
+## Tình huống 6 — Mai gọi · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -76,7 +76,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

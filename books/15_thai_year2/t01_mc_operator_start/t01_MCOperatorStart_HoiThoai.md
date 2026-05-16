@@ -8,7 +8,7 @@
 
 ---
 
-## Scene 1 — Sáng đầu MC · 8:30
+## Tình huống 1 — Sáng đầu MC · 8:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -21,7 +21,7 @@
 
 ---
 
-## Scene 2 — Setup phôi · 9:00
+## Tình huống 2 — Setup phôi · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -35,7 +35,7 @@
 
 ---
 
-## Scene 3 — NC program load · 10:00
+## Tình huống 3 — NC program load · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -49,7 +49,7 @@
 
 ---
 
-## Scene 4 — Chạy MC lần đầu · 10:30
+## Tình huống 4 — Chạy MC lần đầu · 10:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -63,7 +63,7 @@
 
 ---
 
-## Scene 5 — 1 cái xong · 10:35
+## Tình huống 5 — 1 cái xong · 10:35
 
 | Speaker | Lời thoại |
 |---|---|
@@ -75,7 +75,7 @@
 
 ---
 
-## Scene 6 — 10 cái xong · 12:00
+## Tình huống 6 — 10 cái xong · 12:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -88,7 +88,7 @@
 
 ---
 
-## Scene 7 — Đêm reflect · 22:00
+## Tình huống 7 — Đêm reflect · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -102,7 +102,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

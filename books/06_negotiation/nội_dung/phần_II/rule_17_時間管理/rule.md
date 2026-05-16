@@ -14,7 +14,7 @@ Discovery rule 12-16 đã ngốn 30 phút (đúng agenda). Dũng cần soft tran
 
 ---
 
-## ❌ Hội thoại XẤU — cứng nhắc cắt + để overrun
+## ❌ Hội thoại XẤU — cứng nhắc cắt + để chạy quá giờ
 
 *時計見て · 微妙に*
 
@@ -26,7 +26,7 @@ Discovery rule 12-16 đã ngốn 30 phút (đúng agenda). Dũng cần soft tran
 
 **Vì sao xấu:** Cứng "終わりですので、次へ進みます" = lạnh, mất relationship. 大垣 cảm "không được nghe". Cũng không acknowledge câu hỏi quan trọng của khách.
 
-**Pattern XẤU 2** (ngược lại): để discovery overrun → 60 phút mà chưa đến giá → kết thúc deals chưa quote → next meeting cần lại.
+**Pattern XẤU 2** (ngược lại): để discovery chạy quá giờ → 60 phút mà chưa đến giá → kết thúc deals chưa quote → next meeting cần lại.
 
 ---
 
@@ -41,7 +41,7 @@ Discovery rule 12-16 đã ngốn 30 phút (đúng agenda). Dũng cần soft tran
 | **ズン** | 「**お時間 30 分経過、agenda 通りに進んでおります**【3】。提案は3 段階でご用意しております…」 |
 
 📝 **Ghi chú:**
-- 【1】**Park question chứ không bỏ** — "next phaseで詳しく" = honor question + control time. Khách feel respected.
+- 【1】**Tạm gác câu hỏi chứ không bỏ** — "next phaseで詳しく" = honor question + control time. Khách feel respected.
 - 【2】**「そろそろ〜よろしいでしょうか」** = soft transition phrase. Khác với "終わりですので".
 - 【3】**Time check vocal** — gọi tên agenda progress giúp cả 2 bên track time. Cũng là tactic để control.
 
@@ -51,15 +51,15 @@ Discovery rule 12-16 đã ngốn 30 phút (đúng agenda). Dũng cần soft tran
 
 > **「『そろそろ次へ』+ 質問は park。固い『時間ですので』は relationship 傷つける。」**
 >
-> *"Có lẽ giờ chuyển sang phần tiếp..." + park câu hỏi. KHÔNG cứng "đã hết giờ". Cứng = hại relationship.*
+> *"Có lẽ giờ chuyển sang phần tiếp..." + tạm gác câu hỏi. KHÔNG cứng "đã hết giờ". Cứng = hại relationship.*
 
 ---
 
 ## ⚠ Tránh
 
 - 「時間ですので切ります」cứng → khách lạnh
-- Để discovery overrun 50 phút → không đến giá
-- Park question rồi quên không quay lại trong Q&A → khách feel fobbed off
+- Để discovery chạy quá 50 phút → không đến giá
+- Tạm gác câu hỏi rồi quên không quay lại trong Q&A → khách cảm thấy bị phớt lờ
 - Không gọi tên agenda time check → cả 2 bên drift
 
 ---

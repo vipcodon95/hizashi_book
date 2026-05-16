@@ -17,7 +17,7 @@
     {
       "section": "bad_example",
       "label_ja": "悪い例 — 乾杯前飲み + glass 上位者より高い",
-      "label_vi": "XẤU — uống trước khi hô + ly cao hơn senior",
+      "label_vi": "XẤU — uống trước khi hô + ly cao hơn cấp trên",
       "display_order": 1,
       "analysis": {
         "ja": "①発声前に飲み始める=order崩壊 ②glassを CFO より高く合わせる=上下逆転 ③カチン音と共に強く合わせる=glass破損リスク+下品。",
@@ -73,14 +73,14 @@
           "applies_to_line": "rule_26_good_01",
           "highlight_text": "host 側 senior が発声",
           "ja": "乾杯発声権=host 側最上位 (今回はハーCTO)。客側が先に言うのは違和感。",
-          "vi": "Quyền hô kanpai = senior bên host (hôm nay là Hà CTO). Khách hô trước = sai."
+          "vi": "Quyền hô kanpai = cấp cao nhất bên host (hôm nay là Hà CTO). Khách hô trước = sai."
         },
         {
           "id": "2",
           "applies_to_line": "rule_26_good_03",
           "highlight_text": "中村CFOのglassより僅かに低く",
           "ja": "上位者glassより低く=尊敬。同位なら同じ高さ。下位者は最も低く。",
-          "vi": "Thấp hơn ly senior = tỏ kính trọng. Cùng cấp = ngang. Cấp dưới = thấp nhất."
+          "vi": "Thấp hơn ly cấp trên = tỏ kính trọng. Cùng cấp = ngang. Cấp dưới = thấp nhất."
         },
         {
           "id": "3",
@@ -170,7 +170,7 @@
       "phrase_id": "rule_26_kp_02",
       "speaker": "zun",
       "sentence": "（glassを上位者より低く合わせる）",
-      "sentence_translation": "(hạ ly thấp hơn ly senior)",
+      "sentence_translation": "(hạ ly thấp hơn ly cấp trên)",
       "purpose": "乾杯時 glass 高さ ルール",
       "slow_audio": true
     }
@@ -190,7 +190,7 @@
       "correct": "C",
       "explanation": {
         "ja": "上位者より低く=尊敬。音は立てず軽く触れる。",
-        "vi": "Thấp hơn senior = kính trọng. Không kêu, chạm nhẹ thôi."
+        "vi": "Thấp hơn cấp trên = kính trọng. Không kêu, chạm nhẹ thôi."
       }
     }
   ]

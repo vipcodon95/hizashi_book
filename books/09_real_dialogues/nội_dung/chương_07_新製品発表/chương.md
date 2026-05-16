@@ -16,7 +16,7 @@
 
 ---
 
-## Scene 1 — Day-1 18:00 · Hotel Pacifico Yokohama event hall — dry run rehearsal cuối
+## Tình huống 1 — Day-1 18:00 · Hotel Pacifico Yokohama event hall — dry run rehearsal cuối
 
 *Hall lớn 500 chỗ, sân khấu cao + LED screen 4K. Day-1 dry run với crew technical + Inoue + Matsumoto. Dũng test mic phần intro 5 phút. Mic bị rè ở phút 3.*
 
@@ -64,7 +64,7 @@ Dry run hôm trước event = chỗ để mọi thứ fail SAFE:
 
 ---
 
-## Scene 2 — Day-1 22:00 · Phòng khách sạn Dũng (Pacifico Hotel)
+## Tình huống 2 — Day-1 22:00 · Phòng khách sạn Dũng (Pacifico Hotel)
 
 *Phòng business hotel Pacifico tầng 18, view bay Yokohama đêm. Dũng mở laptop review slide cuối. Internal monologue — không có dialogue ngoài.*
 
@@ -81,13 +81,13 @@ Dry run hôm trước event = chỗ để mọi thứ fail SAFE:
 *[Lên giường 22:45. Tắt đèn. Não vẫn chạy slide. Đếm thở 4-7-8 (kỹ thuật ngủ học từ Tuấn). 5 phút sau ngủ.]*
 
 
-### 💡 Bí quyết — Đêm trước stage — pre-flight checklist
+### 💡 Bí quyết — Đêm trước stage — danh sách kiểm tra trước giờ G
 
 Đêm trước event lớn = manage anxiety + final prep:
 - ✅ **Run slide thật** đứng + nói lớn (không silent read) — bắt awkward transitions.
 - ✅ **Time với phone stopwatch** — over time = cut, không over.
 - ✅ **Watch 1 reference TED/keynote** in cùng ngôn ngữ — học rhythm.
-- ✅ **Communicate teammate** (Tuấn HCMC) — close loop, anchor support.
+- ✅ **Communicate teammate** (Tuấn HCMC) — close loop, điểm tựa tinh thần.
 - ✅ **Sleep tech** (4-7-8 breathing, no caffeine after 18h) — ngủ là priority.
 - ❌ **Đừng over-rehearse** — mệt voice + mất spontaneity.
 - ❌ **Đừng nhậu calm nerve** — counter-productive.
@@ -95,7 +95,7 @@ Dry run hôm trước event = chỗ để mọi thứ fail SAFE:
 
 ---
 
-## Scene 3 — Day 0 07:30 · Lobby khách sạn — breakfast
+## Tình huống 3 — Day 0 07:30 · Lobby khách sạn — breakfast
 
 *Buffet sáng hotel, bánh + cà phê + trứng + ham. Dũng không ăn được vì căng thẳng. Tuấn vừa đến từ Tokyo, ép Dũng uống 1 ly trà ấm.*
 
@@ -122,15 +122,15 @@ Tuấn đã đến đúng lúc, vai trò mentor sáng event:
 - ✅ **Không ép ăn** — appetite dạ dày stress là chuyện sinh học, ép = phản tác dụng.
 - ✅ **Trà ấm > cà phê** — caffeine + nervousness = tay run + heart racing.
 - ✅ **3 reminders cụ thể** — pause slide 3-4 / mic fail script / 'cứ là mày'.
-- ✅ **Vỗ vai cuối** = body language anchor.
+- ✅ **Vỗ vai cuối** = ngôn ngữ cơ thể tạo điểm chốt.
 - ✅ Tuấn thực hiện role 'second pilot' — Dũng là pilot chính, Tuấn backup.
 
 
 ---
 
-## Scene 4 — Day 0 08:30 · Backstage event hall
+## Tình huống 4 — Day 0 08:30 · Hậu trường event hall
 
-*Backstage chật, full crew technical + organizers + speakers waiting. Dũng đến check slot. Slide deck version mới chưa được upload lên screen. IT staff hỗ trợ 10 phút.*
+*Hậu trường chật, full crew technical + organizers + speakers waiting. Dũng đến check slot. Slide deck version mới chưa được upload lên screen. IT staff hỗ trợ 10 phút.*
 
 | Speaker | Câu |
 |---------|-----|
@@ -167,7 +167,7 @@ Tech glitch trước stage = thường gặp. Cách convert thành positive:
 
 ---
 
-## Scene 5 — Day 0 09:00 · Hành lang event hall — meet khách JP đến sớm
+## Tình huống 5 — Day 0 09:00 · Hành lang event hall — meet khách JP đến sớm
 
 *Hành lang ngoài hall trong lúc CFO opening đang chạy. Dũng đứng ngoài. 1 reporter analyst nhận ra Dũng từ pre-event PR — kéo riêng hỏi câu surprise về cost.*
 
@@ -192,7 +192,7 @@ Tech glitch trước stage = thường gặp. Cách convert thành positive:
 | Speaker | Câu |
 |---------|-----|
 | **ズン** | 「(松本に小声)松本さん、日経クロステックの田所さん、Q&A でコスト質問予定。事前にヒアップだけ。」<br>*(với Matsumoto nhỏ giọng) Anh Matsumoto, anh Tadokoro của Nikkei XTECH, dự định hỏi cost ở Q&A. Em báo trước anh.* |
-| **松本PM** | 「(感謝の目)ありがとう、ズンさん、ナイス heads up。」<br>*(mắt cảm kích) Cảm ơn Dũng, nice heads up.* |
+| **松本PM** | 「(感謝の目)ありがとう、ズンさん、ナイス heads up。」<br>*(mắt cảm kích) Cảm ơn Dũng, báo trước hay đó.* |
 
 
 ### 💡 Bí quyết — Reporter ambush — deflect to right session
@@ -201,7 +201,7 @@ Reporter / analyst hay 'pre-event ambush' để câu trả lời cá nhân (some
 - ✅ **Acknowledge + redirect** — không refuse, redirect to right session.
 - ✅ **Specify chính xác**: 'Q&A 11:30' + 'anh Matsumoto trả lời' = họ biết exactly khi nào.
 - ✅ **Frame your scope**: 'session em là 5 phút intro' = clear boundary.
-- ✅ **Heads up senior** ngay sau (Matsumoto) — đừng để Matsumoto bị surprise lúc 11:30.
+- ✅ **Báo trước senior** ngay sau (Matsumoto) — đừng để Matsumoto bị surprise lúc 11:30.
 - ❌ **Đừng give random number** — pháp lý + PR risk.
 - ❌ **Đừng cold reject** — reporter sẽ ghim, viết tiêu cực.
 - Reporter khen 'プロな対応' = tone respectful sẽ continue.
@@ -209,7 +209,7 @@ Reporter / analyst hay 'pre-event ambush' để câu trả lời cá nhân (some
 
 ---
 
-## Scene 6 — Day 0 10:00 · Stage — opening ceremony
+## Tình huống 6 — Day 0 10:00 · Stage — opening ceremony
 
 *Hall đầy ≈200 chỗ. Nakamura CFO opening 10 phút. Dũng ngồi front row chuẩn bị lên sau. Nakamura có nhắc tên Tien Phat + Dũng cá nhân — Dũng bất ngờ.*
 
@@ -245,7 +245,7 @@ Senior khách (Nakamura CFO) call out tên cá nhân + đứng lên trước aud
 
 ---
 
-## Scene 7 — Day 0 10:30 · Stage — Dũng intro 5 phút
+## Tình huống 7 — Day 0 10:30 · Stage — Dũng intro 5 phút
 
 *Dũng lên stage. Spotlight. Mic mới (đã test). Slide latest. Phút 2 — Dũng quên 1 từ tiếng Nhật chuyên môn ('inference latency'). Improvise English. Khán giả cười nhẹ thông cảm.*
 
@@ -295,7 +295,7 @@ Quên từ giữa present = chuyện ai cũng từng. Cách handle gold:
 
 ---
 
-## Scene 8 — Day 0 11:30 · Stage — Q&A panel session
+## Tình huống 8 — Day 0 11:30 · Stage — Q&A panel session
 
 *Panel 4 người: Matsumoto + Tuấn + Ōgaki + Dũng. 30 phút Q&A. Reporter Tadokoro hỏi câu cost (báo trước rồi). 1 câu khác từ analyst — câu technical Dũng ngại trả lời. Tuấn ra hiệu mắt, Dũng mạnh dạn answer.*
 
@@ -334,7 +334,7 @@ Panel 4 người, Q&A 30 phút = juggle ai answer câu nào:
 
 ---
 
-## Scene 9 — Day 0 12:30 · Networking lunch buffet
+## Tình huống 9 — Day 0 12:30 · Networking lunch buffet
 
 *Hall sub: buffet lunch + 30 bàn đứng. Dũng + Tuấn đi vòng giới thiệu. Nhiều business card đưa ra cùng lúc — Dũng không kịp nhớ tên, ghi tay vào sổ giữa các cuộc.*
 
@@ -375,7 +375,7 @@ Panel 4 người, Q&A 30 phút = juggle ai answer câu nào:
 
 ---
 
-## Scene 10 — Day 0 15:00 · Booth demo — Dũng phụ Inoue
+## Tình huống 10 — Day 0 15:00 · Booth demo — Dũng phụ Inoue
 
 *Booth demo sub-hall, ≈30m². Inoue lead demo. Dũng phụ — phát flyer, chụp ảnh, support customer hỏi. 1 khách thử dùng demo nhưng app crash. Inoue + Dũng phối hợp restart.*
 
@@ -420,7 +420,7 @@ Demo crash trước customer = recoverable nếu handle right:
 
 ---
 
-## Scene 11 — Day 0 18:00 · Reception party event
+## Tình huống 11 — Day 0 18:00 · Reception party event
 
 *Tiệc tối closing 2 tiếng tại hall sub. Bia + sake + canape. Dũng giữ tỉnh để còn nhớ tên. Matsumoto + Ōgaki + Inoue + 50 khách. Casual hơn lunch.*
 
@@ -457,7 +457,7 @@ Reception sau event = casual hơn business meeting → senior nói thẳng quy�
 
 ---
 
-## Scene 12 — Day 0 22:00 · Phòng khách sạn Dũng (Pacifico)
+## Tình huống 12 — Day 0 22:00 · Phòng khách sạn Dũng (Pacifico)
 
 *Sau reception. Dũng về phòng. Mệt body 9 phần, mind hưng phấn 10 phần. Mở Notes app viết long memory bank entry.*
 
@@ -484,8 +484,8 @@ Event 'bản lề' (turning point) cần record richer memory bank:
 - ✅ **Identify 3 moments huge** — không list 20, focus 3 quan trọng nhất.
 - ✅ **Capture EMOTION** không chỉ EVENT — 'cảm giác bước qua cánh cửa' = future-self sẽ nhớ này, không nhớ logistics.
 - ✅ **Acknowledge mentor** (Tuấn) — message ngay tối, không để morning.
-- ✅ **Connect with family** — gọi mẹ 5 phút, anchor identity ngoài career.
-- ✅ **Tomorrow follow-up list** ngay — mới fresh.
+- ✅ **Connect with family** — gọi mẹ 5 phút, giữ vững bản thân ngoài career.
+- ✅ **Lập danh sách tiếp nối ngày mai** ngay — mới fresh.
 - ✅ **Sleep priority** — không stay up celebrate 2h.
 - Event lớn = learning peak. Note rich = compound interest cho career.
 
@@ -516,7 +516,7 @@ Event 'bản lề' (turning point) cần record richer memory bank:
 Action items week tới:
 - [ ] Today: gửi mail Sato (Kanto Bank) demo schedule
 - [ ] Today: gửi spec production env cho khách demo crash
-- [ ] This week: follow-up mail 20 leads (8 lunch + 12 reception)
+- [ ] This week: gửi mail tiếp nối 20 leads (8 lunch + 12 reception)
 - [ ] This week: scan namecards vào CRM (Salesforce)
 - [ ] This week: 1-on-1 với Hương về Tokyo onsite 6 tháng
 - [ ] This week: family call HCMC bố mẹ về Tokyo onsite plan

@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Sakurai assign · 8:30
+## Tình huống 1 — Sakurai assign · 8:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -16,7 +16,7 @@
 
 ---
 
-## Scene 2 — Setup precision · 9:30
+## Tình huống 2 — Setup precision · 9:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -29,7 +29,7 @@
 
 ---
 
-## Scene 3 — Phay precision · 11:00
+## Tình huống 3 — Phay precision · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -42,7 +42,7 @@
 
 ---
 
-## Scene 4 — Đo CMM · 15:30
+## Tình huống 4 — Đo CMM · 15:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -56,7 +56,7 @@
 
 ---
 
-## Scene 5 — Kawakami Moldex3D · 17:30
+## Tình huống 5 — Kawakami Moldex3D · 17:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -71,7 +71,7 @@
 
 ---
 
-## Scene 6 — Discuss với Putra · 22:00
+## Tình huống 6 — Discuss với Putra · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -84,7 +84,7 @@
 
 ---
 
-## Scene 7 — Đêm reflect · 22:30
+## Tình huống 7 — Đêm reflect · 22:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -95,7 +95,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

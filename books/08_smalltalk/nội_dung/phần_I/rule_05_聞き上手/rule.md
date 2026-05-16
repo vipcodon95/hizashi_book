@@ -66,11 +66,11 @@
 
 📝【2】 Summarize = "cô đặc lại trong 1 câu" những gì khách kể → chứng tỏ mình thật sự nghe + xử lý thông tin.
 
-📝【3】 Follow-up "what did you feel" = đẳng cấp cao. Bring topic từ "fact" sang "cảm xúc" → khách mở lòng → quan hệ leo bậc.
+📝【3】 Follow-up "what did you feel" = đẳng cấp cao. Chuyển từ "thông tin" sang "cảm xúc" → khách mở lòng → quan hệ leo bậc.
 
 ---
 
-### 📍 Scenario 3 — Không cướp lời (anti-pattern)
+### 📍 Scenario 3 — Không cướp lời (cách làm sai)
 
 *NG — cướp lời · im — bỏ ý định kể trải nghiệm*
 
@@ -110,7 +110,7 @@
 | **中村** | 「もちろん。家中、写真と動画だらけよ。」 |
 | **ズン** | 「**先ほどのじいじの話、本当に温かいエピソードでした。**ところで…」 |
 
-📝【4】 Combo summarize → follow-up "奥様は?" = mở rộng câu chuyện sang vợ → khách kể tiếp đoạn dài. Đẳng cấp 聞き上手 master.
+📝【4】 Kết hợp summarize → follow-up "奥様は?" = mở rộng câu chuyện sang vợ → khách kể tiếp đoạn dài. Đẳng cấp 聞き上手 master.
 
 ---
 

@@ -1,6 +1,6 @@
 # Rule 07 — Pre-meeting check-in nội bộ / 事前すり合わせ
 
-> **Luận điểm.** Trước họp khách 30 phút phải có **「事前すり合わせ」** (pre-alignment) trong team mình: (1) ai nói cái gì (役割分担), (2) chỗ có thể conflict ý kiến nội bộ → align trước, (3) red lines (giá / scope không được nhượng).
+> **Luận điểm.** Trước họp khách 30 phút phải có **「事前すり合わせ」** (pre-alignment) trong team mình: (1) ai nói cái gì (役割分担), (2) chỗ có thể conflict ý kiến nội bộ → thống nhất trước, (3) ranh giới không nhượng (giá / scope).
 >
 > 客との会議の30分前に内部すり合わせ：①誰が何を話すか ②内部で意見が割れる論点を先に統一 ③譲れない条件（価格・スコープ）の確認。
 >
@@ -25,7 +25,7 @@ Họp đàm phán phase 2 với 大垣営業部長 + 松本PM. Chị Hương (�
 | **トゥアン** | 「いや待って…技術的に5月15日は厳しいです。テストフェーズで2週間必要で…」 |
 | **大垣** | 「お二人で意見が違うようですね。社内で先に話し合っていただいたほうが…」 |
 
-**Vì sao xấu:** BD reflexively "がんばります" trong khi tech chưa OK = team không align nội bộ. Khách nhìn thấy conflict = mất tin tưởng. Phải giải quyết trong nội bộ TRƯỚC khi vào họp.
+**Vì sao xấu:** BD reflexively "がんばります" trong khi tech chưa OK = team chưa thống nhất nội bộ. Khách nhìn thấy conflict = mất tin tưởng. Phải giải quyết trong nội bộ TRƯỚC khi vào họp.
 
 ---
 
@@ -41,8 +41,8 @@ Họp đàm phán phase 2 với 大垣営業部長 + 松本PM. Chị Hương (�
 | **ズン** | 「承知しました。Plan B として『5月15日要望なら追加リソース3人分の見積もり』も用意しておきます。」 |
 
 📝 **Ghi chú:**
-- 【1】**「現実的なライン」** = "đường giới hạn realistic". Cụm tech lead / management dùng nhiều khi align trước họp.
-- 【2】**「即答せず」** = "đừng trả lời ngay". Chỉ thị quan trọng cho junior khi vào họp đàm phán.
+- 【1】**「現実的なライン」** = "đường giới hạn realistic". Cụm tech lead / management dùng nhiều khi thống nhất trước họp.
+- 【2】**「即答せず」** = "đừng trả lời ngay". Chỉ thị quan trọng cho nhân viên cấp dưới khi vào họp đàm phán.
 
 ---
 
@@ -57,9 +57,9 @@ Họp đàm phán phase 2 với 大垣営業部長 + 松本PM. Chị Hương (�
 ## ⚠ Tránh
 
 - BD reflexively "がんばります" mà chưa hỏi tech → tech lập tức bị đặt vào tình huống khó.
-- Không xác định red line giá / scope → đàm phán xong mới phát hiện vượt giới hạn.
-- すり合わせ làm 5 phút trước họp ở hành lang → không đủ thời gian align.
-- Junior nói nhiều hơn senior trong すり合わせ → senior chưa kịp set chiến lược.
+- Không xác định ranh giới không nhượng về giá / scope → đàm phán xong mới phát hiện vượt giới hạn.
+- すり合わせ làm 5 phút trước họp ở hành lang → không đủ thời gian thống nhất.
+- Nhân viên trẻ nói nhiều hơn cấp trên trong すり合わせ → cấp trên chưa kịp định chiến lược.
 
 ---
 

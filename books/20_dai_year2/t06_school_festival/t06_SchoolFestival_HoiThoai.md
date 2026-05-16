@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Yamada brief festival · 13:30
+## Tình huống 1 — Yamada brief festival · 13:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -12,14 +12,14 @@
 | Yamada | <ruby>各<rt>かく</rt></ruby><ruby>国<rt>くに</rt></ruby>のグループが<ruby>一<rt>ひと</rt></ruby>つずつブースを<ruby>出<rt>だ</rt></ruby>します。<br>*(Mỗi nhóm theo quốc gia ra một gian.)* |
 | Yamada | <ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>と<ruby>文化<rt>ぶんか</rt></ruby>ステージとゲーム。<br>*(Đồ ăn, sân khấu văn hoá, trò chơi.)* |
 | Yamada | <ruby>収益<rt>しゅうえき</rt></ruby>はクラスの<ruby>旅行<rt>りょこう</rt></ruby><ruby>資金<rt>しきん</rt></ruby>になります。<br>*(Lợi nhuận làm quỹ đi chơi của lớp.)* |
-| Cast | おお！<br>*(Ô!)* |
+| Nhân vật | おお！<br>*(Ô!)* |
 | Yamada | ベトナム<ruby>人<rt>じん</rt></ruby><ruby>10<rt>じゅう</rt></ruby><ruby>名<rt>めい</rt></ruby><ruby>近<rt>ちか</rt></ruby>くいますね。リーダーは？<br>*(Người Việt khoảng 10 người nhỉ. Trưởng nhóm?)* |
 | (Cast Việt) | ダイ<ruby>君<rt>くん</rt></ruby>！<br>*(Đại!)* |
 | Đại | え！？はい！<br>*(Ơ! Vâng!)* |
 
 ---
 
-## Scene 2 — Plan họp Việt cohort · 18:00
+## Tình huống 2 — Họp nhóm Việt lên kế hoạch · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -36,11 +36,11 @@
 | Đại | (VN) Cà phê 300 × 100 = 30000<br>*(.)* |
 | Đại | (VN) Gỏi cuốn 500 × 50 = 25000<br>*(.)* |
 | Đại | (VN) Doanh thu tổng 190000. Chi phí 60000. Lãi 130000.<br>*(Lãi 130k.)* |
-| Cast | （<ruby>歓声<rt>かんせい</rt></ruby>）<br>*(Hoan hô.)* |
+| Nhân vật | （<ruby>歓声<rt>かんせい</rt></ruby>）<br>*(Hoan hô.)* |
 
 ---
 
-## Scene 3 — Mua nguyên liệu · weekend
+## Tình huống 3 — Mua nguyên liệu · weekend
 
 | Speaker | Lời thoại |
 |---|---|
@@ -54,7 +54,7 @@
 
 ---
 
-## Scene 4 — Đêm trước festival · prep · 22:00
+## Tình huống 4 — Đêm trước festival · prep · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -68,7 +68,7 @@
 
 ---
 
-## Scene 5 — Sáng festival 9:00 · 設営 booth
+## Tình huống 5 — Sáng festival 9:00 · 設営 booth
 
 | Speaker | Lời thoại |
 |---|---|
@@ -80,7 +80,7 @@
 
 ---
 
-## Scene 6 — Mở cửa + first customer · 10:00
+## Tình huống 6 — Mở cửa + first customer · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -94,7 +94,7 @@
 
 ---
 
-## Scene 7 — Peak hour 12:00-13:30 · busy
+## Tình huống 7 — Peak hour 12:00-13:30 · busy
 
 | Speaker | Lời thoại |
 |---|---|
@@ -109,7 +109,7 @@
 
 ---
 
-## Scene 8 — Stage performance — VN dance · 14:30
+## Tình huống 8 — Stage performance — VN dance · 14:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -124,7 +124,7 @@
 
 ---
 
-## Scene 9 — Đếm tiền cuối ngày · 17:00
+## Tình huống 9 — Đếm tiền cuối ngày · 17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -140,7 +140,7 @@
 
 ---
 
-## Scene 10 — Báo Tony+Yumi · 22:00
+## Tình huống 10 — Báo Tony+Yumi · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -155,7 +155,7 @@
 
 ---
 
-## Scene 11 — Class trip plan · weekend sau
+## Tình huống 11 — Class trip plan · weekend sau
 
 | Speaker | Lời thoại |
 |---|---|
@@ -170,7 +170,7 @@
 
 ---
 
-## Scene 12 — Reflect · ký túc
+## Tình huống 12 — Reflect · ký túc
 
 | Speaker | Lời thoại |
 |---|---|
@@ -181,7 +181,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

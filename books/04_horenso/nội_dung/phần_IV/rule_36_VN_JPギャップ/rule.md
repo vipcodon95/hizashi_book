@@ -1,6 +1,6 @@
 # Rule 36 — Bridging gap VN-JP HouRenSou / VN-JP オフショア・ギャップ
 
-> **Luận điểm.** VN văn hóa giao tiếp **"less = better"**: không có news = mọi thứ ổn, báo nhiều = phiền sếp. Nhật ngược lại — **"silence = problem"**: không có 報告 = sếp lo "team đang giấu". Đây là cause #1 của xích mích offshore. Adapt: **VN team phải overshoot 報告 freq theo Nhật standard**: daily standup không skip + status update mỗi 4 giờ trong incident + báo cáo 3 lần (start / middle / end) cho task >1 ngày. Cụ thể quy tắc: **"Nhật normal" = "VN +30% reporting"**. Và **chủ động báo "no news"** — 「現在進行中で、ブロッカーなしです」.
+> **Luận điểm.** VN văn hóa giao tiếp **"less = better"**: không có news = mọi thứ ổn, báo nhiều = phiền sếp. Nhật ngược lại — **"silence = problem"**: không có 報告 = sếp lo "team đang giấu". Đây là cause #1 của xích mích offshore. Adapt: **VN team phải vượt mức tần suất 報告 theo chuẩn Nhật**: daily standup không skip + status update mỗi 4 giờ trong incident + báo cáo 3 lần (start / middle / end) cho task >1 ngày. Cụ thể quy tắc: **"Nhật normal" = "VN +30% reporting"**. Và **chủ động báo "no news"** — 「現在進行中で、ブロッカーなしです」.
 >
 > VN『less = better』vs JP『silence = problem』。VN side は報告頻度を JP 基準まで増やす + 『進捗あり/なし問わず定期報告』+『no news 報告』を含める。
 >

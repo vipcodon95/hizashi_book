@@ -1,10 +1,10 @@
-# Sách 20 · T3. Baito Lawson nâng senior — Train kohai (バイト上級)
+# Sách 20 · T3. Baito Lawson nâng senior — Kèm đàn em (バイト上級)
 
-> **Mục tiêu:** 6/2025. Đại senior staff. Train kohai mới Hùng (VN, vừa apply Lawson). Đại trải role mentor lần đầu.
+> **Mục tiêu:** 6/2025. Đại senior staff. Kèm đàn em mới Hùng (VN, vừa nộp đơn Lawson). Đại trải role mentor lần đầu.
 
 ---
 
-## Scene 1 — Hùng đầu shift Lawson · 18:00
+## Tình huống 1 — Hùng đầu shift Lawson · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -18,7 +18,7 @@
 
 ---
 
-## Scene 2 — Đại train Hùng — 6 chào · 18:15
+## Tình huống 2 — Đại train Hùng — 6 chào · 18:15
 
 | Speaker | Lời thoại |
 |---|---|
@@ -35,7 +35,7 @@
 
 ---
 
-## Scene 3 — POS train · 18:30
+## Tình huống 3 — POS train · 18:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -50,7 +50,7 @@
 
 ---
 
-## Scene 4 — First customer Hùng nervous · 19:00
+## Tình huống 4 — First customer Hùng nervous · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -69,7 +69,7 @@
 
 ---
 
-## Scene 5 — Cigarette + 20+ check · 20:00
+## Tình huống 5 — Cigarette + 20+ check · 20:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -85,7 +85,7 @@
 
 ---
 
-## Scene 6 — Suzuki feedback Hùng · 22:00
+## Tình huống 6 — Suzuki feedback Hùng · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -98,7 +98,7 @@
 
 ---
 
-## Scene 7 — Hùng ăn bento support sau shift · 22:30
+## Tình huống 7 — Hùng ăn bento support sau shift · 22:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -113,7 +113,7 @@
 
 ---
 
-## Scene 8 — Cohort dinner ký túc · 23:30
+## Tình huống 8 — Bữa tối cả nhóm ký túc · 23:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -126,7 +126,7 @@
 
 ---
 
-## Scene 9 — Đêm reflect · 0:30
+## Tình huống 9 — Đêm reflect · 0:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -137,7 +137,7 @@
 
 ---
 
-## Scene 10 — Sáng ngủ dậy · 6:30
+## Tình huống 10 — Sáng ngủ dậy · 6:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -147,12 +147,12 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
 | 上級 | じょうきゅう | Trên |
-| 新人研修 | しんじんけんしゅう | Train tân binh |
+| 新人研修 | しんじんけんしゅう | Đào tạo tân binh |
 | メンター | メンター | Mentor |
 | 復唱 | ふくしょう | Lặp |
 | 顔色 | かおいろ | Sắc mặt |
@@ -162,4 +162,4 @@
 | 同志社 | どうししゃ | Doshisha |
 | Adult | アダルト | Adult |
 
-> *"Train Hùng. Cycle mentor. Cohort 4 quốc cooking."*
+> *"Kèm Hùng. Vòng kèm cặp. Nhóm 4 quốc nấu ăn."*

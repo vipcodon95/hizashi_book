@@ -118,7 +118,7 @@ Tháng 9. 6 tháng đã qua kể từ khi Hoa sang Nhật. Suzuki-shidouin tổ 
 
 ### 4.2 お~いたします (kenjougo cao)
 
-**Cấu trúc**: お + [Verb stem] + いたします
+**Cấu trúc**: お + [gốc động từ] + いたします
 
 | Bình thường | お~いたします |
 |---|---|
@@ -243,7 +243,7 @@ Thi 特定技能2号 evaluation test
 > *(Nói thật được là tốt. Mục tiêu tiếp theo?)*
 >
 > **Hoa**: 3つございます。N4 <ruby>合格<rt>ごうかく</rt></ruby>を12<ruby>月<rt>がつ</rt></ruby>に、<ruby>確認<rt>かくにん</rt></ruby>リスト<ruby>毎日<rt>まいにち</rt></ruby><ruby>使用<rt>しよう</rt></ruby>、それから<ruby>食品衛生責任者<rt>しょくひんえいせいせきにんしゃ</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めたいと<ruby>考<rt>かんが</rt></ruby>えております。
-> *(Có 3. N4 đậu vào 12, dùng checklist hàng ngày, và bắt đầu học Sekininsha.)*
+> *(Có 3. N4 đậu vào 12, dùng bảng kiểm hàng ngày, và bắt đầu học Sekininsha.)*
 >
 > **Suzuki**: <ruby>食品衛生責任者<rt>しょくひんえいせいせきにんしゃ</rt></ruby>! いい<ruby>目標<rt>もくひょう</rt></ruby>。<ruby>講習会<rt>こうしゅうかい</rt></ruby>は6<ruby>時間<rt>じかん</rt></ruby>だけで、<ruby>外国人<rt>がいこくじん</rt></ruby>でも<ruby>受<rt>う</rt></ruby>けられる。<ruby>来年<rt>らいねん</rt></ruby>3<ruby>月<rt>がつ</rt></ruby>くらいに<ruby>埼玉<rt>さいたま</rt></ruby>でやるはず。<ruby>調<rt>しら</rt></ruby>べておくね。
 > *(Sekininsha! Mục tiêu hay. Khoá học chỉ 6 tiếng, người nước ngoài cũng thi được. Tháng 3 năm sau có ở Saitama. Tôi sẽ tra giúp.)*

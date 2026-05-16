@@ -10,7 +10,7 @@
 
 ---
 
-## Scene 1 — 関空 Mai arrival 2/5 14:00
+## Tình huống 1 — 関空 Mai arrival 2/5 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-## Scene 2 — Senri-chuo apt setup · 17:00
+## Tình huống 2 — Senri-chuo apt setup · 17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -36,7 +36,7 @@
 
 ---
 
-## Scene 3 — 4/5 Toyonaka City Hall — 在留カード · 9:00
+## Tình huống 3 — 4/5 Toyonaka City Hall — 在留カード · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -51,7 +51,7 @@
 
 ---
 
-## Scene 4 — 国民健康保険 + Yucho bank · 11:00
+## Tình huống 4 — 国民健康保険 + Yucho bank · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -64,7 +64,7 @@
 
 ---
 
-## Scene 5 — Sushi nướng welcome Mai bởi cohort · 10/5 thứ 7 19:00
+## Tình huống 5 — Sushi nướng welcome Mai bởi cohort · 10/5 thứ 7 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -79,7 +79,7 @@
 
 ---
 
-## Scene 6 — Mai daily life · 15-30/5
+## Tình huống 6 — Mai daily life · 15-30/5
 
 | Speaker | Lời thoại |
 |---|---|
@@ -90,7 +90,7 @@
 
 ---
 
-## Scene 7 — Linh-Anh em gái Đại visit Senri · 25/5
+## Tình huống 7 — Linh-Anh em gái Đại visit Senri · 25/5
 
 | Speaker | Lời thoại |
 |---|---|
@@ -106,7 +106,7 @@
 
 ---
 
-## Scene 8 — Đêm reflect · 30/5
+## Tình huống 8 — Đêm reflect · 30/5
 
 | Speaker | Lời thoại |
 |---|---|
@@ -117,7 +117,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -36,7 +36,7 @@
 | 15 | Chuyển máy khi người nhận có mặt | 担当者がいる場合の取次ぎ |
 | 16 | 4 pattern xử lý khi người nhận vắng | 担当者不在の4パターン |
 | 17 | Hold tối đa 1 phút | 保留は1分以内 |
-| 18 | 5 yếu tố bắt buộc khi take message | 伝言メモの5要素 |
+| 18 | 5 yếu tố bắt buộc khi ghi lời nhắn | 伝言メモの5要素 |
 | 19 | Xử lý wrong number lịch sự | 間違い電話への対応 |
 | 20 | Bước đầu xử lý phàn nàn qua phone | クレーム電話の最初の対応 |
 | 21 | Khi khách hỏi đường đến văn phòng | 訪問先案内の電話 |
@@ -59,7 +59,7 @@
 | 29 | Yêu cầu lặp lại điểm quan trọng | 重要事項の復唱を依頼 |
 | 30 | Đề xuất chuyển kênh khi phone không đủ | 電話で済まない時の提案 |
 | 31 | Nhờ chuyển lời khi người nhận vắng | 不在時の伝言依頼 |
-| 32 | Xin gọi lại — folder back template | 折り返しの依頼 |
+| 32 | Xin gọi lại — mẫu nhờ gọi lại | 折り返しの依頼 |
 | 33 | Cuộc gọi quốc tế — múi giờ + chậm hơn | 国際電話の留意点 |
 | 34 | Cách nói trong cuộc gọi khẩn | 緊急電話の言い回し |
 | 35 | Review summary trước khi cúp máy | 電話を切る前の確認 |
@@ -72,7 +72,7 @@
 
 | # | Tiêu đề VN | Tiêu đề JP |
 |---|-----------|-----------|
-| 36 | Đừng để hold quá im — voice fill | 保留中の対応 |
+| 36 | Đừng để hold quá im — lấp im lặng | 保留中の対応 |
 | 37 | Khi line đứt — ai gọi lại trước? | 切れた時のかけ直しルール |
 | 38 | Khi nghe không rõ — "お電話が遠いようですが" | 聞き取れない時の言い方 |
 | 39 | 5 patterns hỏi lại từ không hiểu | 聞き返しの5パターン |
@@ -100,12 +100,12 @@
 | 52 | Conference call / Zoom / Teams — phone version | オンライン会議の電話作法 |
 | 53 | Tone giọng khi share màn hình | 画面共有時の声の使い方 |
 | 54 | Mute/unmute etiquette | マイクオフ・オンの礼儀 |
-| 55 | Cross-border online meeting | 国際オンライン会議 |
+| 55 | Họp online quốc tế | 国際オンライン会議 |
 | 56 | Xin phép ghi âm / transcribe | 録音・文字起こしの許可 |
-| 57 | Take floor in conference call — interrupt khéo | 電話会議で発言を取る |
+| 57 | Giành lượt phát biểu trong họp online — interrupt khéo | 電話会議で発言を取る |
 | 58 | Hybrid meeting — vừa offline vừa online | ハイブリッド会議 |
 | 59 | Quản lý lịch sử cuộc gọi & ghi chú | 電話履歴の管理 |
-| 60 | Self-diagnostic — phone skills checklist | 電話力の自己診断 |
+| 60 | Tự chấm điểm — bảng kiểm kỹ năng điện thoại | 電話力の自己診断 |
 
 ---
 

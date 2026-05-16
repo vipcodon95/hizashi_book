@@ -3,7 +3,7 @@
   "rule_slug": "バグ発見時",
   "title": {
     "ja": "バグ発見時のホウレンソウ",
-    "vi": "Phát hiện bug — Hou-Ren-Sou flow"
+    "vi": "Phát hiện bug — Quy trình Hou-Ren-Sou"
   },
   "rule_context": {
     "ja": "ハイが production API のエラー急増を検知。1人で抱え込む悪い例から、5分→15分→30分→60分の SLA に沿った escalation chain（Hai → Tuấn → Hà CTO → 松本様）への良い例へ。",
@@ -58,7 +58,7 @@
           "speaker_role": "チームリーダー",
           "gender": "male",
           "sentence": "なんで1時間も黙ってた!?客に既に Twitter で晒されてるよ。フローを守って: 検知5分以内に #incident チャネル投稿。1人で抱え込むな。",
-          "sentence_translation": "Sao em im 1 tiếng vậy!? Khách đã đăng trên Twitter rồi. Tuân flow đi: phát hiện trong 5 phút phải post #incident channel. Đừng tự ôm.",
+          "sentence_translation": "Sao em im 1 tiếng vậy!? Khách đã đăng trên Twitter rồi. Tuân quy trình đi: phát hiện trong 5 phút phải post #incident channel. Đừng tự ôm.",
           "tone": "angry"
         }
       ]

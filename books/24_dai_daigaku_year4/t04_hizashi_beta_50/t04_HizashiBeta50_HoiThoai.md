@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Marketing soft launch · 1/7
+## Tình huống 1 — Marketing soft launch · 1/7
 
 | Speaker | Lời thoại |
 |---|---|
@@ -14,7 +14,7 @@
 
 ---
 
-## Scene 2 — User personas
+## Tình huống 2 — User personas
 
 | Speaker | Lời thoại |
 |---|---|
@@ -26,7 +26,7 @@
 
 ---
 
-## Scene 3 — Top features used
+## Tình huống 3 — Top features used
 
 | Speaker | Lời thoại |
 |---|---|
@@ -35,7 +35,7 @@
 
 ---
 
-## Scene 4 — Retention analysis
+## Tình huống 4 — Retention analysis
 
 | Speaker | Lời thoại |
 |---|---|
@@ -44,7 +44,7 @@
 
 ---
 
-## Scene 5 — Feedback prioritization
+## Tình huống 5 — Feedback prioritization
 
 | Speaker | Lời thoại |
 |---|---|
@@ -53,7 +53,7 @@
 
 ---
 
-## Scene 6 — Đêm reflect
+## Tình huống 6 — Đêm reflect
 
 | Speaker | Lời thoại |
 |---|---|
@@ -64,7 +64,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -77,8 +77,8 @@
 
 ## Bí quyết chương
 
-- **50 beta cohort**: Match Đại's prediction T9 sách 23.
-- **76% retention week 4**: Realistic excellent SaaS metric.
-- **Business JP request**: Setup Linh-Anh + cohort use case.
+- **50 người dùng beta**: Đúng như Đại dự đoán T9 sách 23.
+- **Giữ chân 76% tuần thứ 4**: Chỉ số SaaS xuất sắc, rất thực tế.
+- **Yêu cầu tiếng Nhật thương mại**: Mở đường cho tình huống Linh-Anh và nhóm người dùng tiếp theo.
 
-> *"Hizashi v0.7. 50 beta. Retention 76%. AI Tutor killer feature. v0.8 next."*
+> *"Hizashi v0.7. 50 người dùng beta. Tỉ lệ giữ chân 76%. AI Tutor — tính năng đột phá. v0.8 tiếp theo."*

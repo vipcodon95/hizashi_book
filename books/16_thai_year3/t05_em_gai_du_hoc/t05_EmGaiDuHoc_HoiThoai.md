@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Em sang · 10/2024 ngày 1
+## Tình huống 1 — Em sang · 10/2024 ngày 1
 
 | Speaker | Lời thoại |
 |---|---|
@@ -17,7 +17,7 @@
 
 ---
 
-## Scene 2 — Phòng KTX của em · 17:00 Nanzan
+## Tình huống 2 — Phòng KTX của em · 17:00 Nanzan
 
 | Speaker | Lời thoại |
 |---|---|
@@ -31,7 +31,7 @@
 
 ---
 
-## Scene 3 — Đi cùng chị Linh · cuối tuần
+## Tình huống 3 — Đi cùng chị Linh · cuối tuần
 
 | Speaker | Lời thoại |
 |---|---|
@@ -45,7 +45,7 @@
 
 ---
 
-## Scene 4 — Mai gọi · 22:00
+## Tình huống 4 — Mai gọi · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -59,7 +59,7 @@
 
 ---
 
-## Scene 5 — Tanaka 工場長 trò chuyện · tuần sau
+## Tình huống 5 — Tanaka 工場長 trò chuyện · tuần sau
 
 | Speaker | Lời thoại |
 |---|---|
@@ -71,7 +71,7 @@
 
 ---
 
-## Scene 6 — Đêm · 22:30
+## Tình huống 6 — Đêm · 22:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -82,7 +82,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

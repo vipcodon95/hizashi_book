@@ -45,7 +45,7 @@
           "speaker_role": "CTO",
           "gender": "male",
           "sentence": "24時間以内が原則。3日後では鮮度切れ。To別+CC上司で一通ずつ書け。BCC一括NG。",
-          "sentence_translation": "Nguyên tắc trong 24h. 3 ngày sau là mất độ tươi rồi. To gửi riêng từng người + CC senior, viết từng mail một. BCC chung NG.",
+          "sentence_translation": "Nguyên tắc trong 24h. 3 ngày sau là mất độ tươi rồi. To gửi riêng từng người + CC cấp trên, viết từng mail một. BCC chung NG.",
           "tone": "firm",
           "speed_multiplier": 0.95
         },
@@ -71,7 +71,7 @@
           "applies_to_line": "rule_30_good_02",
           "highlight_text": "翌朝8時、24h以内",
           "ja": "理想は翌朝出社後すぐ。日付跨ぎ前=新鮮+几帳面 signal。",
-          "vi": "Lý tưởng = sáng hôm sau vừa đến cty. Trước khi sang ngày mới = tươi + signal chỉn chu."
+          "vi": "Lý tưởng = sáng hôm sau vừa đến cty. Trước khi sang ngày mới = tươi + dấu hiệu chỉn chu."
         },
         {
           "id": "2",
@@ -85,14 +85,14 @@
           "applies_to_line": "rule_30_good_02",
           "highlight_text": "和牛のご感想・登山のお話",
           "ja": "具体的な dinner 話題を1-2点引用=『ちゃんと聞いていた』signal。Memorable個別性で温度up。",
-          "vi": "Trích 1-2 điểm cụ thể từ buổi dinner = signal 'tôi nghe kỹ'. Cá nhân hóa đáng nhớ → tăng nhiệt."
+          "vi": "Trích 1-2 điểm cụ thể từ buổi dinner = dấu hiệu 'tôi nghe kỹ'. Cá nhân hóa đáng nhớ → tăng nhiệt."
         },
         {
           "id": "4",
           "applies_to_line": "rule_30_good_04",
           "highlight_text": "次回はぜひ当方からも",
           "ja": "次回行為を約束=relation継続の意志 signal。具体的時期(『5月』)書ければ尚良い。",
-          "vi": "Hứa hẹn lần sau = signal muốn duy trì quan hệ. Có mốc cụ thể ('tháng 5') càng tốt."
+          "vi": "Hứa hẹn lần sau = dấu hiệu muốn duy trì quan hệ. Có mốc cụ thể ('tháng 5') càng tốt."
         }
       ],
       "conversation_lines": [

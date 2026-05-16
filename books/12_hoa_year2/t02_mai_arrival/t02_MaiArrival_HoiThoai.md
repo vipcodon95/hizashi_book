@@ -10,7 +10,7 @@ Sáng 15 tháng 5 năm 2027. Chuyến bay VN203 (cùng chuyến mà Hoa đi 1 n�
 
 ---
 
-## Scene 1 — Trên tàu Narita Express · 5:00 sáng
+## Tình huống 1 — Trên tàu Narita Express · 5:00 sáng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -25,7 +25,7 @@ Sáng 15 tháng 5 năm 2027. Chuyến bay VN203 (cùng chuyến mà Hoa đi 1 n�
 
 ---
 
-## Scene 2 — Cửa ra Narita · 6:45
+## Tình huống 2 — Cửa ra Narita · 6:45
 
 | Speaker | Lời thoại |
 |---|---|
@@ -40,7 +40,7 @@ Sáng 15 tháng 5 năm 2027. Chuyến bay VN203 (cùng chuyến mà Hoa đi 1 n�
 
 ---
 
-## Scene 3 — Mai xuất hiện
+## Tình huống 3 — Mai xuất hiện
 
 Một cô gái nhỏ nhắn, tóc buộc đuôi ngựa, mặc áo khoác mỏng, kéo vali to. Mắt đỏ vì khóc trên máy bay.
 
@@ -58,7 +58,7 @@ Một cô gái nhỏ nhắn, tóc buộc đuôi ngựa, mặc áo khoác mỏng,
 
 ---
 
-## Scene 4 — Trên xe về Saitama · 7:30
+## Tình huống 4 — Trên xe về Saitama · 7:30
 
 Hoa ngồi cạnh Mai ở ghế sau. Suzuki lái.
 
@@ -78,7 +78,7 @@ Hoa ngồi cạnh Mai ở ghế sau. Suzuki lái.
 
 ---
 
-## Scene 5 — Trên xe · 8:30, Mai ngủ gật
+## Tình huống 5 — Trên xe · 8:30, Mai ngủ gật
 
 Suzuki nói nhỏ với Hoa.
 
@@ -95,7 +95,7 @@ Suzuki nói nhỏ với Hoa.
 
 ---
 
-## Scene 6 — Đến ký túc · 10:30
+## Tình huống 6 — Đến ký túc · 10:30
 
 Putri đứng đợi ở cửa với 1 hộp bánh.
 
@@ -113,7 +113,7 @@ Putri đứng đợi ở cửa với 1 hộp bánh.
 
 ---
 
-## Scene 7 — Phòng Mai · 11:00
+## Tình huống 7 — Phòng Mai · 11:00
 
 Hoa giúp Mai dỡ vali. Phòng cũ của Linh chị.
 
@@ -132,7 +132,7 @@ Hoa giúp Mai dỡ vali. Phòng cũ của Linh chị.
 
 ---
 
-## Scene 8 — Bếp ký túc · 12:00 trưa
+## Tình huống 8 — Bếp ký túc · 12:00 trưa
 
 3 cô gái ăn bún Putri làm.
 
@@ -149,7 +149,7 @@ Hoa giúp Mai dỡ vali. Phòng cũ của Linh chị.
 
 ---
 
-## Scene 9 — Hoa dạy Mai dùng máy giặt · 14:00
+## Tình huống 9 — Hoa dạy Mai dùng máy giặt · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -168,7 +168,7 @@ Hoa giúp Mai dỡ vali. Phòng cũ của Linh chị.
 
 ---
 
-## Scene 10 — Hoa dạy Mai lịch đổ rác · 14:30
+## Tình huống 10 — Hoa dạy Mai lịch đổ rác · 14:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -187,7 +187,7 @@ Hoa giúp Mai dỡ vali. Phòng cũ của Linh chị.
 
 ---
 
-## Scene 11 — Mai gọi điện về VN · 18:00
+## Tình huống 11 — Mai gọi điện về VN · 18:00
 
 Hoa nghe loáng thoáng từ phòng kế bên.
 
@@ -203,7 +203,7 @@ Hoa nghe loáng thoáng từ phòng kế bên.
 
 ---
 
-## Scene 12 — Hoa và Mai · 19:00, ăn tối
+## Tình huống 12 — Hoa và Mai · 19:00, ăn tối
 
 Putri đi học tiếng Nhật buổi tối. Hai cô gái Việt Nam ăn cơm nhỏ.
 
@@ -225,7 +225,7 @@ Putri đi học tiếng Nhật buổi tối. Hai cô gái Việt Nam ăn cơm nh
 
 ---
 
-## Scene 13 — Phòng Mai · 21:00
+## Tình huống 13 — Phòng Mai · 21:00
 
 Hoa đến gõ cửa Mai trước khi ngủ.
 
@@ -245,7 +245,7 @@ Hoa đến gõ cửa Mai trước khi ngủ.
 
 ---
 
-## Scene 14 — Phòng Hoa · 21:30
+## Tình huống 14 — Phòng Hoa · 21:30
 
 Hoa tin nhắn Linh chị qua LINE.
 
@@ -264,7 +264,7 @@ Hoa tin nhắn Linh chị qua LINE.
 
 ---
 
-## Scene 15 — Phòng Hoa · 22:00, viết nhật ký
+## Tình huống 15 — Phòng Hoa · 22:00, viết nhật ký
 
 | Speaker | Lời thoại |
 |---|---|
@@ -279,7 +279,7 @@ Hoa tin nhắn Linh chị qua LINE.
 
 ---
 
-## Scene 16 — 5:30 sáng hôm sau · cửa nhà
+## Tình huống 16 — 5:30 sáng hôm sau · cửa nhà
 
 Mai đứng đợi sẵn ở cửa, ngạc nhiên thấy Hoa đã chuẩn bị.
 

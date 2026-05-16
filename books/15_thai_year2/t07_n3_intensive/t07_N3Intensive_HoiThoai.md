@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Linh tutor đầu · sáng chủ nhật 11:00
+## Tình huống 1 — Linh tutor đầu · sáng chủ nhật 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -17,7 +17,7 @@
 
 ---
 
-## Scene 2 — Listening practice · 12:30
+## Tình huống 2 — Listening practice · 12:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -30,7 +30,7 @@
 
 ---
 
-## Scene 3 — Schedule chi tiết · 14:00
+## Tình huống 3 — Schedule chi tiết · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -44,7 +44,7 @@
 
 ---
 
-## Scene 4 — Tuần 3 reading drill · 11/2023 cuối tháng
+## Tình huống 4 — Tuần 3 reading drill · 11/2023 cuối tháng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -58,7 +58,7 @@
 
 ---
 
-## Scene 5 — Mock test cuối tuần 5 · 12/2023
+## Tình huống 5 — Mock test cuối tuần 5 · 12/2023
 
 | Speaker | Lời thoại |
 |---|---|
@@ -72,7 +72,7 @@
 
 ---
 
-## Scene 6 — Tanaka motivation · 12/2023
+## Tình huống 6 — Tanaka motivation · 12/2023
 
 | Speaker | Lời thoại |
 |---|---|
@@ -85,7 +85,7 @@
 
 ---
 
-## Scene 7 — Đêm trước thi · 22:00
+## Tình huống 7 — Đêm trước thi · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -98,7 +98,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

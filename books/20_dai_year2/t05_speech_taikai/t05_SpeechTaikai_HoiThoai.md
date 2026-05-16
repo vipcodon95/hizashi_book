@@ -8,7 +8,7 @@ Trường Kansai Gogo Gakuin tổ chức cuộc thi hùng biện hàng năm. Th�
 
 ---
 
-## Scene 1 — Yamada thông báo · 13:30
+## Tình huống 1 — Yamada thông báo · 13:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -16,7 +16,7 @@ Trường Kansai Gogo Gakuin tổ chức cuộc thi hùng biện hàng năm. Th�
 | Yamada | テーマは「なぜ<ruby>私<rt>わたし</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>学<rt>まな</rt></ruby>ぶのか」です。<br>*(Đề: tại sao tôi học tiếng Nhật.)* |
 | Yamada | <ruby>5<rt>ご</rt></ruby><ruby>分<rt>ふん</rt></ruby>の<ruby>暗記<rt>あんき</rt></ruby>スピーチです。<br>*(Bài 5 phút thuộc lòng.)* |
 | Yamada | <ruby>賞金<rt>しょうきん</rt></ruby>は<ruby>1<rt>いち</rt></ruby><ruby>位<rt>い</rt></ruby><ruby>30000<rt>さんまん</rt></ruby><ruby>円<rt>えん</rt></ruby>、<ruby>2<rt>に</rt></ruby><ruby>位<rt>い</rt></ruby><ruby>20000<rt>にまん</rt></ruby><ruby>円<rt>えん</rt></ruby>、<ruby>3<rt>さん</rt></ruby><ruby>位<rt>い</rt></ruby><ruby>10000<rt>いちまん</rt></ruby><ruby>円<rt>えん</rt></ruby>です。<br>*(Tiền thưởng: nhất 30000, nhì 20000, ba 10000 yên.)* |
-| Cast | （<ruby>注目<rt>ちゅうもく</rt></ruby>）<br>*(Chú ý.)* |
+| Nhân vật | （<ruby>注目<rt>ちゅうもく</rt></ruby>）<br>*(Chú ý.)* |
 | Yifan | <ruby>応募<rt>おうぼ</rt></ruby>します！<br>*(Tôi đăng ký!)* |
 | Sumi | <ruby>僕<rt>ぼく</rt></ruby>も！<br>*(Tôi cũng!)* |
 | Đại | （<ruby>考<rt>かんが</rt></ruby>える）...<br>*(Suy nghĩ.)* |
@@ -25,7 +25,7 @@ Trường Kansai Gogo Gakuin tổ chức cuộc thi hùng biện hàng năm. Th�
 
 ---
 
-## Scene 2 — Brainstorm topic · 18:00 ký túc
+## Tình huống 2 — Đặt ý tưởng cho chủ đề · 18:00 ký túc
 
 | Speaker | Lời thoại |
 |---|---|
@@ -42,7 +42,7 @@ Trường Kansai Gogo Gakuin tổ chức cuộc thi hùng biện hàng năm. Th�
 
 ---
 
-## Scene 3 — Speech draft · weekend
+## Tình huống 3 — Bản nháp bài hùng biện · cuối tuần
 
 | Speaker | Lời thoại |
 |---|---|
@@ -56,7 +56,7 @@ Trường Kansai Gogo Gakuin tổ chức cuộc thi hùng biện hàng năm. Th�
 
 ---
 
-## Scene 4 — Yamada review draft · cuối tuần
+## Tình huống 4 — Yamada xem xét bản nháp · cuối tuần
 
 | Speaker | Lời thoại |
 |---|---|
@@ -70,7 +70,7 @@ Trường Kansai Gogo Gakuin tổ chức cuộc thi hùng biện hàng năm. Th�
 
 ---
 
-## Scene 5 — Tony+Yumi tutor speech · 19:00 nhà Tanaka
+## Tình huống 5 — Tony+Yumi tutor speech · 19:00 nhà Tanaka
 
 | Speaker | Lời thoại |
 |---|---|
@@ -85,7 +85,7 @@ Trường Kansai Gogo Gakuin tổ chức cuộc thi hùng biện hàng năm. Th�
 
 ---
 
-## Scene 6 — Practice 10 lần · 1 tuần
+## Tình huống 6 — Practice 10 lần · 1 tuần
 
 | Speaker | Lời thoại |
 |---|---|
@@ -99,7 +99,7 @@ Trường Kansai Gogo Gakuin tổ chức cuộc thi hùng biện hàng năm. Th�
 
 ---
 
-## Scene 7 — Đêm trước contest · 22:00
+## Tình huống 7 — Đêm trước contest · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -113,7 +113,7 @@ Trường Kansai Gogo Gakuin tổ chức cuộc thi hùng biện hàng năm. Th�
 
 ---
 
-## Scene 8 — Sáng contest · 13:00 ホール
+## Tình huống 8 — Sáng contest · 13:00 ホール
 
 | Speaker | Lời thoại |
 |---|---|
@@ -127,7 +127,7 @@ Trường Kansai Gogo Gakuin tổ chức cuộc thi hùng biện hàng năm. Th�
 
 ---
 
-## Scene 9 — Đại speech turn · 13:30
+## Tình huống 9 — Đại speech turn · 13:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -145,7 +145,7 @@ Trường Kansai Gogo Gakuin tổ chức cuộc thi hùng biện hàng năm. Th�
 
 ---
 
-## Scene 10 — Q&A judge · 13:36
+## Tình huống 10 — Q&A judge · 13:36
 
 | Speaker | Lời thoại |
 |---|---|
@@ -157,7 +157,7 @@ Trường Kansai Gogo Gakuin tổ chức cuộc thi hùng biện hàng năm. Th�
 
 ---
 
-## Scene 11 — Result · 16:00
+## Tình huống 11 — Result · 16:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -169,14 +169,14 @@ Trường Kansai Gogo Gakuin tổ chức cuộc thi hùng biện hàng năm. Th�
 | Đại | （<ruby>立<rt>た</rt></ruby>つ、<ruby>嬉<rt>うれ</rt></ruby>しい）<br>*(Đứng, vui.)* |
 | Hiệu trưởng | <ruby>第<rt>だい</rt></ruby><ruby>1<rt>いち</rt></ruby><ruby>位<rt>い</rt></ruby>:イーファンさん（<ruby>中国<rt>ちゅうごく</rt></ruby>）！<br>*(Hạng 1: Yifan!)* |
 | Yifan | （<ruby>立<rt>た</rt></ruby>つ）<br>*(Đứng.)* |
-| Cast | （<ruby>拍手<rt>はくしゅ</rt></ruby><ruby>大<rt>おお</rt></ruby>きく）<br>*(Vỗ to.)* |
+| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby><ruby>大<rt>おお</rt></ruby>きく）<br>*(Vỗ to.)* |
 | Đại | (VN, độc thoại) Hạng 2! Hai mươi nghìn yên cộng trải nghiệm thật.<br>*(2! 20k!)* |
 | Yifan | （Đại に）おめでとう！<br>*(Chúc mừng!)* |
 | Đại | <ruby>君<rt>きみ</rt></ruby>もおめでとう！<br>*(Cậu cũng chúc mừng nhé!)* |
 
 ---
 
-## Scene 12 — Đêm reflect + báo · 22:00
+## Tình huống 12 — Đêm reflect + báo · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -191,7 +191,7 @@ Trường Kansai Gogo Gakuin tổ chức cuộc thi hùng biện hàng năm. Th�
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

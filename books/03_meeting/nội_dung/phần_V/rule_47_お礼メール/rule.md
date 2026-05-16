@@ -2,7 +2,7 @@
 
 > **Luận điểm.** Sau họp quan trọng (đàm phán, kick-off, lần đầu gặp), cần **email cảm ơn riêng** trong 24h, KHÁC với biên bản. Body 4 phần: (1) **cảm ơn time**, (2) **3 điểm chính ấn tượng**, (3) **next step cụ thể**, (4) **closing quan hệ**. Subject: 「**御礼：〇月〇日の打合せ**」.
 >
-> お礼メール構成：①感謝 ②3つの key takeaway ③次のステップ ④結語。議事録とは別送。
+> お礼メール構成：①感謝 ②3つの điểm chính rút ra ③次のステップ ④結語。議事録とは別送。
 >
 > **Liên quan:** Rule 02 (mời họp), Rule 45 (biên bản), Rule 49 (CRM tracking).
 > Sách 01 (Email) Rule 25-32 (mail tổng quát).
@@ -17,13 +17,13 @@ Họp đàm phán phase 2 đầu tiên với anh Ōgaki vừa xong. Đây là l�
 
 ## ❌ Hội thoại XẤU — không gửi follow-up + chỉ gửi biên bản
 
-*chỉ gửi biên bản, không có thank-you mail · với chị Hương 1 tuần sau*
+*chỉ gửi biên bản, không có email cảm ơn · với chị Hương 1 tuần sau*
 
 | Speaker | Câu |
 |---------|-----|
 | **大垣** | 「ズンさんは議事録だけで、初対面のお礼もないですね…」 |
 
-**Vì sao xấu:** Khách Nhật rất quý "お礼の文化". Lần đầu gặp + không có thank-you mail = personal connection yếu.
+**Vì sao xấu:** Khách Nhật rất quý "お礼の文化". Lần đầu gặp + không có email cảm ơn = kết nối cá nhân yếu.
 
 ---
 
@@ -39,7 +39,7 @@ Họp đàm phán phase 2 đầu tiên với anh Ōgaki vừa xong. Đây là l�
 
 📝 **Phân biệt với biên bản:**
 - 議事録 = formal record (8 elements, structured).
-- お礼メール = personal touch (warm, ngắn ~150 từ JP).
+- お礼メール = chạm cảm xúc cá nhân (warm, ngắn ~150 từ JP).
 - Cả 2 gửi trong 24h.
 
 ---
@@ -52,7 +52,7 @@ Họp đàm phán phase 2 đầu tiên với anh Ōgaki vừa xong. Đây là l�
 
 ## ⚠ Tránh
 
-- Chỉ gửi biên bản, bỏ qua thank-you mail.
+- Chỉ gửi biên bản, bỏ qua email cảm ơn.
 - Subject 「ありがとうございました」 trống không.
 - Follow-up mail dài như biên bản.
 - Quên next step → khách không biết phải chờ gì.

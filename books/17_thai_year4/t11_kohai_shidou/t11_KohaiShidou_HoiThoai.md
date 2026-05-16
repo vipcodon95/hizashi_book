@@ -4,19 +4,19 @@
 
 ---
 
-## Scene 1 — Tanaka (嘱託) announce · 8:30
+## Tình huống 1 — Tanaka (嘱託) announce · 8:30
 
 | Speaker | Lời thoại |
 |---|---|
 | Tanaka | <ruby>本日<rt>ほんじつ</rt></ruby>、<ruby>新人<rt>しんじん</rt></ruby>が<ruby>3<rt>さん</rt></ruby><ruby>名<rt>めい</rt></ruby><ruby>到着<rt>とうちゃく</rt></ruby>します。<br>*(Hôm nay có ba bạn mới đến.)* |
-| Cast | （<ruby>注目<rt>ちゅうもく</rt></ruby>）<br>*(Chú ý.)* |
+| Nhân vật | （<ruby>注目<rt>ちゅうもく</rt></ruby>）<br>*(Chú ý.)* |
 | Tanaka | ロンとフン（ベトナムTTS）、それからアディ（インドネシアSSW1）です。<br>*(Long và Hùng (TTS Việt Nam), và Adi (SSW1 Indonesia).)* |
 | Tanaka | <ruby>指導員<rt>しどういん</rt></ruby>はタイ<ruby>君<rt>くん</rt></ruby>に<ruby>任<rt>まか</rt></ruby>せます。<br>*(Người hướng dẫn giao cho Tai-kun.)* |
 | Thái | はい！<br>*(Vâng ạ!)* |
 
 ---
 
-## Scene 2 — Gặp 3 kohai · 9:00
+## Tình huống 2 — Gặp 3 kohai · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -31,7 +31,7 @@
 
 ---
 
-## Scene 3 — Onboarding tour · 10:00
+## Tình huống 3 — Onboarding tour · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -44,7 +44,7 @@
 
 ---
 
-## Scene 4 — Pep talk · 12:30 食堂
+## Tình huống 4 — Pep talk · 12:30 食堂
 
 | Speaker | Lời thoại |
 |---|---|
@@ -60,7 +60,7 @@
 
 ---
 
-## Scene 5 — Sakurai notice · 18:00
+## Tình huống 5 — Sakurai notice · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -71,7 +71,7 @@
 
 ---
 
-## Scene 6 — Đêm · 22:00
+## Tình huống 6 — Đêm · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -82,7 +82,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

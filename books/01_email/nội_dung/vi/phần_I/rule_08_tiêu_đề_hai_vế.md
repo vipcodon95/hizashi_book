@@ -29,7 +29,7 @@ Chị Hương sắp đi công tác 3 ngày và chỉ còn 10 phút trước khi 
 
 > Chị Hương,
 >
-> Vì hai việc này phụ thuộc nhau (scope review sẽ chốt budget), em gộp trong một mail, chia làm 2 phần:
+> Vì hai việc này phụ thuộc nhau (phạm vi review sẽ chốt budget), em gộp trong một mail, chia làm 2 phần:
 >
 > **Phần 1 — Budget 80 triệu phát sinh**
 > (3 dòng tóm tắt + file đính kèm)

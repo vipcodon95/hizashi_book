@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Vào lắp ráp · 9:00
+## Tình huống 1 — Vào lắp ráp · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -15,7 +15,7 @@
 
 ---
 
-## Scene 2 — Ràng buộc Mate · 9:30
+## Tình huống 2 — Ràng buộc Mate · 9:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -26,7 +26,7 @@
 
 ---
 
-## Scene 3 — Bản vẽ 2D · 10:30
+## Tình huống 3 — Bản vẽ 2D · 10:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -38,7 +38,7 @@
 
 ---
 
-## Scene 4 — Ký hiệu độ nhám bề mặt · 11:00
+## Tình huống 4 — Ký hiệu độ nhám bề mặt · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -49,7 +49,7 @@
 
 ---
 
-## Scene 5 — Bảng BOM · 14:00
+## Tình huống 5 — Bảng BOM · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -61,7 +61,7 @@
 
 ---
 
-## Scene 6 — Đêm · 22:00
+## Tình huống 6 — Đêm · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -71,7 +71,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

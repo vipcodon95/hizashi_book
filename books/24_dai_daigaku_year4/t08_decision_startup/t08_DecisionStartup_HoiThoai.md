@@ -1,10 +1,10 @@
 # Sách 24 · T8. 12/2029 — DECISION: từ chối Mercari, chọn STARTUP Hizashi (大決断)
 
-> **Mục tiêu:** 12/2029. THE DECISION. Anri Tokyo meeting confirm pre-seed ¥30M. Mercari deadline cuối tháng. Đại 5 ngày cân nhắc. Mai+Tony+Yumi+Inoue+Yamada talk. CHỌN: từ chối Mercari + Cybozu + LINE → STARTUP Hizashi với pre-seed Anri ¥30M.
+> **Mục tiêu:** 12/2029. QUYẾT ĐỊNH LỚN. Anri Tokyo xác nhận pre-seed ¥30M. Deadline Mercari cuối tháng. Đại 5 ngày cân nhắc. Trao đổi với Mai+Tony+Yumi+Inoue+Yamada. LỰA CHỌN: từ chối Mercari + Cybozu + LINE → chọn STARTUP Hizashi với pre-seed Anri ¥30M.
 
 ---
 
-## Scene 1 — Anri Tokyo meeting · 5/12/2029
+## Tình huống 1 — Anri Tokyo meeting · 5/12/2029
 
 | Speaker | Lời thoại |
 |---|---|
@@ -17,7 +17,7 @@
 
 ---
 
-## Scene 2 — Discussion với Mai · 8/12
+## Tình huống 2 — Discussion với Mai · 8/12
 
 | Speaker | Lời thoại |
 |---|---|
@@ -31,7 +31,7 @@
 
 ---
 
-## Scene 3 — Discussion với Tony+Yumi · 10/12 thứ 6
+## Tình huống 3 — Discussion với Tony+Yumi · 10/12 thứ 6
 
 | Speaker | Lời thoại |
 |---|---|
@@ -41,7 +41,7 @@
 
 ---
 
-## Scene 4 — Inoue final advice · 11/12
+## Tình huống 4 — Inoue final advice · 11/12
 
 | Speaker | Lời thoại |
 |---|---|
@@ -54,7 +54,7 @@
 
 ---
 
-## Scene 5 — Final decision · 12/12 đêm
+## Tình huống 5 — Final decision · 12/12 đêm
 
 | Speaker | Lời thoại |
 |---|---|
@@ -70,7 +70,7 @@
 
 ---
 
-## Scene 6 — Mai react
+## Tình huống 6 — Mai react
 
 | Speaker | Lời thoại |
 |---|---|
@@ -82,7 +82,7 @@
 
 ---
 
-## Scene 7 — Đêm reflect — biggest decision
+## Tình huống 7 — Đêm reflect — biggest decision
 
 | Speaker | Lời thoại |
 |---|---|
@@ -95,7 +95,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -109,8 +109,8 @@
 
 ## Bí quyết chương
 
-- **THE DECISION**: Climax full series.
-- **Family support critical**: Mai+Tony+Inoue advice.
-- **Now or never logic**: Inoue's 20-year regret = motivation.
+- **QUYẾT ĐỊNH LỚN**: Cao trào của toàn series.
+- **Gia đình ủng hộ là yếu tố then chốt**: Mai+Tony+Inoue cho lời khuyên.
+- **Lý lẽ "bây giờ hoặc không bao giờ"**: 20 năm tiếc nuối của Inoue = động lực.
 
-> *"THE DECISION 12/12/2029. Decline 4 ¥7M offers. Accept Anri ¥30M. Hizashi startup OFFICIAL!"*
+> *"QUYẾT ĐỊNH LỚN 12/12/2029. Từ chối 4 lời mời ¥7M. Nhận Anri ¥30M. Hizashi startup CHÍNH THỨC!"*

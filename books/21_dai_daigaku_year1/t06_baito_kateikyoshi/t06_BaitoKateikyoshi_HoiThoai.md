@@ -14,7 +14,7 @@
 
 ---
 
-## Scene 1 — Quyết định nghỉ Lawson · 28/6/2026
+## Tình huống 1 — Quyết định nghỉ Lawson · 28/6/2026
 
 | Speaker | Lời thoại |
 |---|---|
@@ -25,7 +25,7 @@
 
 ---
 
-## Scene 2 — Setup PreSchool app + first match · 1/7
+## Tình huống 2 — Setup PreSchool app + first match · 1/7
 
 | Speaker | Lời thoại |
 |---|---|
@@ -38,7 +38,7 @@
 
 ---
 
-## Scene 3 — Buổi đầu với Linh-Anh · 5/7 9:00
+## Tình huống 3 — Buổi đầu với Linh-Anh · 5/7 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -53,7 +53,7 @@
 
 ---
 
-## Scene 4 — Tuấn em call · 12/7
+## Tình huống 4 — Tuấn em call · 12/7
 
 | Speaker | Lời thoại |
 |---|---|
@@ -67,7 +67,7 @@
 
 ---
 
-## Scene 5 — Project pandas Linh-Anh: monthly report · 27/7
+## Tình huống 5 — Project pandas Linh-Anh: monthly report · 27/7
 
 | Speaker | Lời thoại |
 |---|---|
@@ -80,7 +80,7 @@
 
 ---
 
-## Scene 6 — Income summary cuối hè · 30/8
+## Tình huống 6 — Income summary cuối hè · 30/8
 
 | Speaker | Lời thoại |
 |---|---|
@@ -94,7 +94,7 @@
 
 ---
 
-## Scene 7 — Yamato + Aiko visit dorm Đại · 1/9
+## Tình huống 7 — Yamato + Aiko visit dorm Đại · 1/9
 
 | Speaker | Lời thoại |
 |---|---|
@@ -108,7 +108,7 @@
 
 ---
 
-## Scene 8 — Đêm reflect + LINE Mai · 22:00
+## Tình huống 8 — Đêm reflect + LINE Mai · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -123,7 +123,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -150,4 +150,4 @@
 - **Pandas real-life apply**: Linh-Anh tăng lương ¥10k/tháng từ pandas — show value của tech skill.
 - **Hack U setup**: T7 sẽ là first hackathon — team Đại + Yamato + Aiko đã định.
 
-> *"Switch baito. ¥2500/h gia sư. Linh-Anh apply pandas Toyota Boshoku — ROI 10x. Hack U sắp tới."*
+> *"Switch baito. ¥2500/h gia sư. Linh-Anh apply pandas Toyota Boshoku — lợi nhuận 10x. Hack U sắp tới."*

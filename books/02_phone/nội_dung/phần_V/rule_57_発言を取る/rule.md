@@ -1,4 +1,4 @@
-# Rule 57 — Take floor in conference call — interrupt khéo / 電話会議で発言を取る
+# Rule 57 — Giành lượt phát biểu trong họp online — interrupt khéo / 電話会議で発言を取る
 
 > **Luận điểm.** Khi muốn xen lời trong họp online → **đợi câu kết của người trước**, dùng câu chuẩn 「恐れ入ります」 + tự xưng. Tránh cắt lời.
 >

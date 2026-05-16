@@ -12,7 +12,7 @@
 
 ---
 
-## Scene 1 — Lin Wei mentor session · 1/2/2027 thứ 7
+## Tình huống 1 — Lin Wei mentor session · 1/2/2027 thứ 7
 
 | Speaker | Lời thoại |
 |---|---|
@@ -31,7 +31,7 @@
 
 ---
 
-## Scene 2 — 科目B (algorithm) deep dive · 8/2
+## Tình huống 2 — 科目B (algorithm) deep dive · 8/2
 
 | Speaker | Lời thoại |
 |---|---|
@@ -46,7 +46,7 @@
 
 ---
 
-## Scene 3 — 科目A 暗記 (memorization) · 15/2
+## Tình huống 3 — 科目A 暗記 (memorization) · 15/2
 
 | Speaker | Lời thoại |
 |---|---|
@@ -64,7 +64,7 @@
 
 ---
 
-## Scene 4 — Mock test 1 · 1/3
+## Tình huống 4 — Mock test 1 · 1/3
 
 | Speaker | Lời thoại |
 |---|---|
@@ -76,7 +76,7 @@
 
 ---
 
-## Scene 5 — Linh-Anh em gái LINE · 5/3
+## Tình huống 5 — Linh-Anh em gái LINE · 5/3
 
 | Speaker | Lời thoại |
 |---|---|
@@ -90,7 +90,7 @@
 
 ---
 
-## Scene 6 — Final week prep · 8-14/4
+## Tình huống 6 — Final week prep · 8-14/4
 
 | Speaker | Lời thoại |
 |---|---|
@@ -102,7 +102,7 @@
 
 ---
 
-## Scene 7 — 15/4 thi FE · 9:30 Prometric Umeda
+## Tình huống 7 — 15/4 thi FE · 9:30 Prometric Umeda
 
 | Speaker | Lời thoại |
 |---|---|
@@ -121,7 +121,7 @@
 
 ---
 
-## Scene 8 — Đêm + KQ · 23:00
+## Tình huống 8 — Đêm + KQ · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -138,7 +138,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -163,8 +163,8 @@
 - **Lin Wei mentor**: TQ FE share 95% syllabus với JP — realistic shortcut cho cohort.
 - **Anki 500 cards + 過去問 5 năm**: Real prep strategy cho FE.
 - **Mirror Prometric Umeda**: Same venue EJU sách 20 — narrative continuity.
-- **Linh-Anh callback**: Pandas Toyota Boshoku đã tăng lương — Đại tutor có ROI.
+- **Linh-Anh callback**: Pandas Toyota Boshoku đã tăng lương — Đại tutor đem lại kết quả rõ ràng.
 - **CBT immediate result**: Format mới từ 2023 — biết KQ ngay.
-- **Closure year 1**: FE PASS = symbolic milestone trước Mai sang.
+- **Khép lại năm 1**: FE PASS = symbolic milestone trước Mai sang.
 
-> *"FE PASS! 科目A 85%, 科目B 80%. Cohort win với Yamato. Lin Wei mentor invaluable. 2 tuần nữa Mai sang."*
+> *"FE PASS! 科目A 85%, 科目B 80%. Cohort win với Yamato. Lin Wei kèm — vô giá. 2 tuần nữa Mai sang."*

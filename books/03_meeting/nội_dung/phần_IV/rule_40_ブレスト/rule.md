@@ -1,6 +1,6 @@
 # Rule 40 — Brainstorming / Workshop / ブレストの進行
 
-> **Luận điểm.** Brainstorming Nhật khác Mỹ: vẫn có "no judgment" rule nhưng cần **chủ trì rõ ràng** + **time-box** + **build-on**. 4 nguyên tắc: (1) **批判禁止** (no critique), (2) **量重視** (quantity > quality lúc đầu), (3) **便乗歓迎** (build on), (4) **時間制限** (time-box). Junior cũng được phát biểu equal.
+> **Luận điểm.** Brainstorming Nhật khác Mỹ: vẫn có "no judgment" rule nhưng cần **chủ trì rõ ràng** + **time-box** + **build-on**. 4 nguyên tắc: (1) **批判禁止** (no critique), (2) **量重視** (quantity > quality lúc đầu), (3) **便乗歓迎** (build on), (4) **時間制限** (time-box). Nhân viên trẻ cũng được phát biểu bình đẳng.
 >
 > ブレスト4原則：批判禁止・量重視・便乗歓迎・時間制限。司会が冒頭に明示する。
 >
@@ -14,7 +14,7 @@ Workshop nội bộ tìm ý tưởng giảm churn rate. Em Dũng chủ trì, có
 
 ---
 
-## ❌ Hội thoại XẤU — không có rule, junior bị shut down
+## ❌ Hội thoại XẤU — không có rule, nhân viên trẻ bị chặn ý kiến
 
 *rụt rè · cắt ngang · im luôn cả phiên*
 
@@ -25,7 +25,7 @@ Workshop nội bộ tìm ý tưởng giảm churn rate. Em Dũng chủ trì, có
 | **トゥアン** | 「アンケート？古いよ。誰も答えないし。」 |
 | **リン** | 「…」 |
 
-**Vì sao xấu:** Không có rule "no critique" → senior bác ý junior → junior shutdown → mất diversity ý tưởng.
+**Vì sao xấu:** Không có rule "no critique" → cấp trên bác ý nhân viên trẻ → nhân viên trẻ bị dập tắt → mất đa dạng ý tưởng.
 
 ---
 
@@ -59,7 +59,7 @@ Workshop nội bộ tìm ý tưởng giảm churn rate. Em Dũng chủ trì, có
 ## ⚠ Tránh
 
 - "じゃあ、自由に" mơ hồ → không ai dám nói trước.
-- Senior critique junior idea → kill diversity.
+- Cấp trên phủ nhận ý kiến nhân viên trẻ → triệt tiêu sự đa dạng.
 - Không time-box → workshop trôi 2 tiếng không kết quả.
 - Quên 「便乗歓迎」 → ý tưởng rời rạc, không phát triển.
 

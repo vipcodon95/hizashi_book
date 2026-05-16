@@ -22,7 +22,7 @@
       "display_order": 1,
       "analysis": {
         "ja": "①host(自社)先で『客先』原則違反 ②junior客先で hierarchy 無視 ③左側配膳で利き手妨害。3点減点。",
-        "vi": "(1) Host trước = vi phạm 'khách trước'. (2) Junior khách trước senior = sai cấp. (3) Đặt trái = chắn tay phải uống."
+        "vi": "(1) Host trước = vi phạm 'khách trước'. (2) Nhân viên trẻ bên khách được phục vụ trước cấp trên = sai cấp bậc. (3) Đặt trái = chắn tay phải uống."
       },
       "conversation_lines": [
         {
@@ -101,7 +101,7 @@
           "applies_to_line": "rule_11_good_04",
           "highlight_text": "中村→大垣→松本→フオン→ズン→トゥアン",
           "ja": "客最上位中央→客右→客左→host senior→host junior。約90秒で6名完了。",
-          "vi": "Senior khách trung tâm → khách phải → khách trái → senior host → host junior. ~90 giây cho 6 người."
+          "vi": "Cấp cao nhất bên khách (trung tâm) → khách phải → khách trái → cấp trên bên host → nhân viên trẻ bên host. ~90 giây cho 6 người."
         },
         {
           "id": "4",
@@ -207,7 +207,7 @@
       "correct": "B",
       "explanation": {
         "ja": "客最上位優先→客内hierarchy→host内hierarchy順。右側両手配置。",
-        "vi": "Senior khách trước → hierarchy khách → hierarchy host. Đặt bên phải 2 tay."
+        "vi": "Cấp cao nhất bên khách trước → thứ bậc khách → thứ bậc host. Đặt bên phải 2 tay."
       }
     }
   ]

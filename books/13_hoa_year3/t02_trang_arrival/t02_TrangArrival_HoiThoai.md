@@ -10,7 +10,7 @@
 
 ---
 
-## Scene 1 — Hoa coach Mai · 1 tuần trước, ký túc
+## Tình huống 1 — Hoa coach Mai · 1 tuần trước, ký túc
 
 | Speaker | Lời thoại |
 |---|---|
@@ -27,7 +27,7 @@
 
 ---
 
-## Scene 2 — Sáng đón Trang · Narita · 6:45
+## Tình huống 2 — Sáng đón Trang · Narita · 6:45
 
 | Speaker | Lời thoại |
 |---|---|
@@ -45,7 +45,7 @@
 
 ---
 
-## Scene 3 — Trên xe về Saitama
+## Tình huống 3 — Trên xe về Saitama
 
 | Speaker | Lời thoại |
 |---|---|
@@ -62,7 +62,7 @@
 
 ---
 
-## Scene 4 — Mai code-switching VN-JP cho Trang
+## Tình huống 4 — Mai code-switching VN-JP cho Trang
 
 | Speaker | Lời thoại |
 |---|---|
@@ -78,7 +78,7 @@
 
 ---
 
-## Scene 5 — Đến ký túc · 10:30, Putri đón
+## Tình huống 5 — Đến ký túc · 10:30, Putri đón
 
 | Speaker | Lời thoại |
 |---|---|
@@ -95,7 +95,7 @@
 
 ---
 
-## Scene 6 — Phòng Trang · Mai dạy
+## Tình huống 6 — Phòng Trang · Mai dạy
 
 | Speaker | Lời thoại |
 |---|---|
@@ -113,7 +113,7 @@
 
 ---
 
-## Scene 7 — Hoa khen Mai sau scene · ngoài hành lang
+## Tình huống 7 — Hoa khen Mai sau scene · ngoài hành lang
 
 | Speaker | Lời thoại |
 |---|---|
@@ -127,7 +127,7 @@
 
 ---
 
-## Scene 8 — Trưa · 4 cô gái nấu cơm chung
+## Tình huống 8 — Trưa · 4 cô gái nấu cơm chung
 
 | Speaker | Lời thoại |
 |---|---|
@@ -143,7 +143,7 @@
 
 ---
 
-## Scene 9 — Sáng hôm sau · Trang vào nhà máy lần đầu
+## Tình huống 9 — Sáng hôm sau · Trang vào nhà máy lần đầu
 
 | Speaker | Lời thoại |
 |---|---|
@@ -156,7 +156,7 @@
 
 ---
 
-## Scene 10 — Tanaka chào Trang
+## Tình huống 10 — Tanaka chào Trang
 
 | Speaker | Lời thoại |
 |---|---|
@@ -170,7 +170,7 @@
 
 ---
 
-## Scene 11 — Cast cũ chào Trang
+## Tình huống 11 — Cast cũ chào Trang
 
 | Speaker | Lời thoại |
 |---|---|
@@ -185,7 +185,7 @@
 
 ---
 
-## Scene 12 — Mai dạy Trang quy trình bảo hộ
+## Tình huống 12 — Mai dạy Trang quy trình bảo hộ
 
 | Speaker | Lời thoại |
 |---|---|
@@ -201,7 +201,7 @@
 
 ---
 
-## Scene 13 — Sai bước · Trang đeo găng tay sớm
+## Tình huống 13 — Sai bước · Trang đeo găng tay sớm
 
 | Speaker | Lời thoại |
 |---|---|
@@ -217,7 +217,7 @@
 
 ---
 
-## Scene 14 — Kimura đi qua, observe
+## Tình huống 14 — Kimura đi qua, observe
 
 | Speaker | Lời thoại |
 |---|---|
@@ -230,7 +230,7 @@
 
 ---
 
-## Scene 15 — Hoa và Mai · cuối ngày
+## Tình huống 15 — Hoa và Mai · cuối ngày
 
 | Speaker | Lời thoại |
 |---|---|
@@ -245,7 +245,7 @@
 
 ---
 
-## Scene 16 — Hoa viết nhật ký
+## Tình huống 16 — Hoa viết nhật ký
 
 | Speaker | Lời thoại |
 |---|---|

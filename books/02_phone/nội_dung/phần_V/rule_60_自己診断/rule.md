@@ -1,4 +1,4 @@
-# Rule 60 — Self-diagnostic — phone skills checklist / 電話力の自己診断
+# Rule 60 — Tự chấm điểm — bảng kiểm kỹ năng điện thoại / 電話力の自己診断
 
 > **Luận điểm.** Cuối sách: tự chấm điểm 10 điểm phone skill từ rule 1 đến 59. Đánh dấu mục yếu → ôn lại rule tương ứng. **Phone skill = practice, not theory**.
 >
@@ -6,7 +6,7 @@
 >
 > **Liên quan:** Rule 01, Rule 35.
 
-## ✅ 10-item Self-Diagnostic
+## ✅ 10 câu tự chấm
 
 | # | Câu hỏi tự chấm | ✓/✗ | Rule liên quan |
 |---|----------------|------|----------------|
@@ -18,7 +18,7 @@
 | 6 | Tôi đề xuất "30秒ピッチ" được khi gọi đi? | | Rule 28 |
 | 7 | Tôi nói "お電話が遠いようですが" thay vì "声が小さい"? | | Rule 38 |
 | 8 | Tôi xử lý phàn nàn theo 5 bước? | | Rule 41 |
-| 9 | Tôi gửi follow-up mail trong 1h sau gọi quan trọng? | | Rule 51 |
+| 9 | Tôi gửi mail tóm tắt trong 1h sau gọi quan trọng? | | Rule 51 |
 | 10 | Tôi mute khi không nói trong online meeting? | | Rule 54 |
 
 ## Self-grading

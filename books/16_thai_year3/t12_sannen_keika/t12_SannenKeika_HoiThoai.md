@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Tanaka 工場長 phỏng vấn · 14:00
+## Tình huống 1 — Tanaka 工場長 phỏng vấn · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -19,7 +19,7 @@
 
 ---
 
-## Scene 2 — Lên 設計者 junior · 14:30
+## Tình huống 2 — Lên 設計者 junior · 14:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -32,7 +32,7 @@
 
 ---
 
-## Scene 3 — Kế hoạch năm 4 · 15:00
+## Tình huống 3 — Kế hoạch năm 4 · 15:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -45,7 +45,7 @@
 
 ---
 
-## Scene 4 — Cùng đồng nghiệp ở izakaya · 19:00
+## Tình huống 4 — Cùng đồng nghiệp ở izakaya · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -58,7 +58,7 @@
 
 ---
 
-## Scene 5 — Mai + Linh-Anh · 22:00
+## Tình huống 5 — Mai + Linh-Anh · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -72,7 +72,7 @@
 
 ---
 
-## Scene 6 — Đêm chiêm nghiệm · 23:00
+## Tình huống 6 — Đêm chiêm nghiệm · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -80,7 +80,7 @@
 | Thái | (VN) Thành tích năm 3:<br>*(Năm 3:)* |
 | Thái | (VN) - 3D CAD 2 級<br>*(2 級.)* |
 | Thái | (VN) - 金型製作 2 級<br>*(2 級.)* |
-| Thái | (VN) - N2 prep (thi 7/2025 — đẩy sang sách 17)<br>*(N2 còn chờ.)* |
+| Thái | (VN) - Ôn N2 (thi 7/2025 — đẩy sang sách 17)<br>*(N2 còn chờ.)* |
 | Thái | (VN) - Tự thiết kế kênh nước + lần đầu gặp Hamada (Toyota Tier-1)<br>*(Hamada.)* |
 | Thái | (VN) - Em gái sang Nhật du học<br>*(Em gái.)* |
 | Thái | (VN) - Hẹn cưới Mai cụ thể vào 2026<br>*(2026.)* |
@@ -90,7 +90,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

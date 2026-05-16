@@ -1,6 +1,6 @@
 # Rule 19 — Anime/manga (cẩn thận) / アニメ・漫画
 
-> **Luận điểm.** Anime topic = **vũ khí 2 lưỡi**. Với khách 30-40t = **bonding ngay**. Với senior 50-60t bảo thủ = **phản tác dụng** (xem là "hobby trẻ con"). Quy tắc: **đợi khách mở trước**, hoặc nhắc đến **作品 senior level** (ジブリ / 名探偵コナン / サザエさん) làm cầu nối.
+> **Luận điểm.** Anime topic = **vũ khí 2 lưỡi**. Với khách 30-40t = **gắn kết ngay**. Với senior 50-60t bảo thủ = **phản tác dụng** (xem là "hobby trẻ con"). Quy tắc: **đợi khách mở trước**, hoặc nhắc đến **作品 senior level** (ジブリ / 名探偵コナン / サザエさん) làm cầu nối.
 
 ---
 
@@ -15,13 +15,13 @@
 
 ## 🎬 Bối cảnh
 
-Dũng dùng anime topic 4 cách: ① bonding tốt với Tanaka 35t qua 鬼滅; ② cẩn thận với Sato 60t — chỉ nhắc ジブリ; ③ mở mới với Yamamoto qua 名探偵コナン (universal); ④ Linh (intern) overshare 推し với senior — bị nhắc.
+Dũng dùng anime topic 4 cách: ① gắn kết tốt với Tanaka 35t qua 鬼滅; ② cẩn thận với Sato 60t — chỉ nhắc ジブリ; ③ mở mới với Yamamoto qua 名探偵コナン (universal); ④ Linh (intern) overshare 推し với senior — bị nhắc.
 
 ---
 
 ## 💬 4 Scenarios — dialogue thực chiến
 
-### 📍 Scenario 1 — Bonding tốt: Tanaka 35t qua 鬼滅
+### 📍 Scenario 1 — Gắn kết tốt: Tanaka 35t qua 鬼滅
 
 *Slack, sticker 禰豆子*
 
@@ -38,7 +38,7 @@ Dũng dùng anime topic 4 cách: ① bonding tốt với Tanaka 35t qua 鬼滅; 
 
 📝【1】 **鬼滅の刃** = Demon Slayer. 【2】 **無限城編** = arc cuối. 【3】 **炭治郎** = nhân chính. 【4】 **煉獄杏寿郎** = Rengoku, Hashira lửa. 【5】 **柱** = Hashira (top 9 demon slayer). 【6】 **冨岡義勇** = Hashira nước. 【7】 **LiSA** = ca sĩ chủ đề. 【8】 **炎** = bài Mugen Train. 【9】 **呪術廻戦** = Jujutsu Kaisen. 【10】 **チェンソーマン** = Chainsaw Man. 【11】 **進撃の巨人** = Attack on Titan. 【12】 **エレン** = nhân chính 進撃. 【13】 **サン** = nhân nữ もののけ姫.
 
-> **VN:** Anime modern (鬼滅 / 呪術 / 進撃) = **bonding mạnh** với 30-40t. Vocab: **柱 / 主題歌 / 最終回 / 劇場版 / OP/ED**. Biết **Studio Ghibli + Studio MAPPA + Studio TRIGGER** = level chuyên.
+> **VN:** Anime modern (鬼滅 / 呪術 / 進撃) = **gắn kết mạnh** với 30-40t. Vocab: **柱 / 主題歌 / 最終回 / 劇場版 / OP/ED**. Biết **Studio Ghibli + Studio MAPPA + Studio TRIGGER** = level chuyên.
 
 ---
 

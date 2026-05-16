@@ -69,7 +69,7 @@ Tháng 6/2026, Dũng + Hà CTO bay xuống Nagoya gặp 伊藤さん để bàn 
 | **ha_cto** | 「東京の客先と比べて、決定速度はどうですか?」 |
 | **ito_nagoya** | 「**遅め**です(笑)決めるまで時間かかるけど、決めたら長く付き合う。10年単位の取引が普通ですよ。」 |
 
-> **VN:** Toyota mindset = **慎重 + コスパ + 長期** + ghét "派手な営業". Critical insight cho approach commercial.
+> **VN:** Tư duy Toyota = **慎重 + コスパ + 長期** + ghét "派手な営業". Nhận định quan trọng cho approach commercial.
 
 ---
 
@@ -133,7 +133,7 @@ Tháng 6/2026, Dũng + Hà CTO bay xuống Nagoya gặp 伊藤さん để bàn 
 | **Du lịch** | 名古屋城 (金鯱), 熱田神宮, 大須商店街, 犬山城, 徳川美術館, **トヨタ博物館 + 産業技術記念館** |
 | **温泉** | 蒲郡温泉, 三谷温泉 |
 | **Dialect (名古屋弁)** | 「〜だがや」「〜やがね」「えらい」(=疲れた), 「みゃーみゃー」 (image hài, ít dùng thật) |
-| **Mindset** | **慎重 / コスパ重視 / 実績重視 / 長期取引** — Toyota DNA |
+| **Tư duy** | **慎重 / コスパ重視 / 実績重視 / 長期取引** — Toyota DNA |
 | **Famous figures** | 織田信長, 豊臣秀吉, 徳川家康 (3 anh hùng戦国 đều出身愛知周辺), イチロー (西春出身) |
 
 ---

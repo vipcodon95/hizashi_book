@@ -1,4 +1,4 @@
-# Rule 04 — Báo cáo trung gian / 中間報告 (interim 25/50/75% milestones)
+# Rule 04 — Báo cáo trung gian / 中間報告 (25/50/75% milestones)
 
 > **Luận điểm.** Việc dài 1+ tuần phải có **báo cáo trung gian** ở mốc 25/50/75%. Đợi xong mới báo = "ngâm tin". Sếp không biết tiến độ thực = không can thiệp được khi sai hướng.
 >

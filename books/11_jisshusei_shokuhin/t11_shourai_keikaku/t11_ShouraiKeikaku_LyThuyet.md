@@ -17,7 +17,7 @@ Tháng 2. Sau crisis recall (T10), Hoa quyết tâm trở thành chuyên gia v�
 | Cấp | Tiếng Nhật | Khi dùng |
 |---|---|---|
 | Casual | <ruby>将来<rt>しょうらい</rt></ruby>〜したい | Bạn / sempai gần |
-| Polite | <ruby>将来<rt>しょうらい</rt></ruby>〜したいです | Đồng nghiệp |
+| Lịch sự | <ruby>将来<rt>しょうらい</rt></ruby>〜したいです | Đồng nghiệp |
 | Formal | <ruby>将来<rt>しょうらい</rt></ruby>〜したいと<ruby>思<rt>おも</rt></ruby>います | Cấp trên |
 | Super formal | <ruby>将来<rt>しょうらい</rt></ruby>〜たいと<ruby>考<rt>かんが</rt></ruby>えております | Mensetsu / xin lời khuyên |
 
@@ -48,7 +48,7 @@ Tháng 2. Sau crisis recall (T10), Hoa quyết tâm trở thành chuyên gia v�
 | Cấp | Tiếng Nhật | Khi dùng |
 |---|---|---|
 | Casual | アドバイスください | Bạn |
-| Polite | アドバイスをお<ruby>願<rt>ねが</rt></ruby>いします | Đồng nghiệp |
+| Lịch sự | アドバイスをお<ruby>願<rt>ねが</rt></ruby>いします | Đồng nghiệp |
 | Formal | アドバイスをいただけますでしょうか | Cấp trên |
 | Super formal | ご<ruby>教示<rt>きょうじ</rt></ruby>いただけますでしょうか | Khách / chuyên gia |
 

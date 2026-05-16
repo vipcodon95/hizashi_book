@@ -11,7 +11,7 @@
 
 ---
 
-## Scene 1 — Linear algebra lecture · 9:00
+## Tình huống 1 — Linear algebra lecture · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -25,7 +25,7 @@
 
 ---
 
-## Scene 2 — Calculus lecture · 11:00
+## Tình huống 2 — Calculus lecture · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -38,7 +38,7 @@
 
 ---
 
-## Scene 3 — Sau giờ — Aiko cầu cứu · 16:30
+## Tình huống 3 — Sau giờ — Aiko cầu cứu · 16:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -51,7 +51,7 @@
 
 ---
 
-## Scene 4 — Lin Wei khoe top score · 17:30
+## Tình huống 4 — Lin Wei khoe top score · 17:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -64,7 +64,7 @@
 
 ---
 
-## Scene 5 — 微積分 numpy practice · evening
+## Tình huống 5 — 微積分 numpy practice · evening
 
 | Speaker | Lời thoại |
 |---|---|
@@ -78,7 +78,7 @@
 
 ---
 
-## Scene 6 — Group ôn 微積分 với Aiko + Yamato · weekend
+## Tình huống 6 — Group ôn 微積分 với Aiko + Yamato · weekend
 
 | Speaker | Lời thoại |
 |---|---|
@@ -93,7 +93,7 @@
 
 ---
 
-## Scene 7 — LINE Mai + bố mẹ HN · 22:00
+## Tình huống 7 — LINE Mai + bố mẹ HN · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -107,7 +107,7 @@
 
 ---
 
-## Scene 8 — Đêm reflect · 23:30
+## Tình huống 8 — Đêm reflect · 23:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -119,7 +119,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

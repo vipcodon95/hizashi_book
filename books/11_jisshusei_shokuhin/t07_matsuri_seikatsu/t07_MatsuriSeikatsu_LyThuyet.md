@@ -221,7 +221,7 @@ Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có 
 - 「ちょっとよろしいでしょうか」 = câu mở chuẩn khi muốn xin gì
 - 「~たいんですが、よろしいでしょうか」 = cấu trúc xin phép lịch sự nhất
 - Hoa nói lý do "東京に友達" → không bắt buộc nhưng được lòng
-- 「<ruby>書<rt>か</rt></ruby>かせていただきます」 = saseteitadakimasu form — siêu humble
+- 「<ruby>書<rt>か</rt></ruby>かせていただきます」 = saseteitadakimasu form — cực kỳ khiêm nhường
 
 ---
 
@@ -236,7 +236,7 @@ Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có 
 | <ruby>所得税<rt>しょとくぜい</rt></ruby>って<ruby>何<rt>なに</rt></ruby>?(với khách) | <ruby>所得税<rt>しょとくぜい</rt></ruby> = thuế TN |
 | (Hỏi cơ bản với khách) | (Tự học trước) |
 | <ruby>有休<rt>ゆうきゅう</rt></ruby>は<ruby>権利<rt>けんり</rt></ruby>だから! (đòi) | <ruby>有休<rt>ゆうきゅう</rt></ruby>を<ruby>取<rt>と</rt></ruby>りたいんですが (xin) |
-| (Đúng luật nhưng văn hoá xấu) | (Polite phù hợp) |
+| (Đúng luật nhưng văn hoá xấu) | (Lịch sự phù hợp) |
 
 ---
 

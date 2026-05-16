@@ -6,11 +6,11 @@
 
 ## Bối cảnh
 
-Tháng 6/2028. Hoa đặt 2 mục tiêu: 技能検定3級 (8/2028) + N3 (12/2028). Mỗi tối học 2 tiếng. Mai dạy Trang vệ sinh — Hoa quan sát + advise.
+Tháng 6/2028. Hoa đặt 2 mục tiêu: 技能検定3級 (8/2028) + N3 (12/2028). Mỗi tối học 2 tiếng. Mai dạy Trang vệ sinh — Hoa quan sát + góp ý.
 
 ---
 
-## Scene 1 — Phòng Hoa · 21:00, học
+## Tình huống 1 — Phòng Hoa · 21:00, học
 
 | Speaker | Lời thoại |
 |---|---|
@@ -21,7 +21,7 @@ Tháng 6/2028. Hoa đặt 2 mục tiêu: 技能検定3級 (8/2028) + N3 (12/2028
 
 ---
 
-## Scene 2 — Phòng Suzuki · 14:00
+## Tình huống 2 — Phòng Suzuki · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -38,7 +38,7 @@ Tháng 6/2028. Hoa đặt 2 mục tiêu: 技能検定3級 (8/2028) + N3 (12/2028
 
 ---
 
-## Scene 3 — Suzuki tiếp · chi tiết thi
+## Tình huống 3 — Suzuki tiếp · chi tiết thi
 
 | Speaker | Lời thoại |
 |---|---|
@@ -54,7 +54,7 @@ Tháng 6/2028. Hoa đặt 2 mục tiêu: 技能検定3級 (8/2028) + N3 (12/2028
 
 ---
 
-## Scene 4 — Mai dạy Trang vệ sinh · Hoa shadow
+## Tình huống 4 — Mai dạy Trang vệ sinh · Hoa shadow
 
 | Speaker | Lời thoại |
 |---|---|
@@ -71,7 +71,7 @@ Tháng 6/2028. Hoa đặt 2 mục tiêu: 技能検定3級 (8/2028) + N3 (12/2028
 
 ---
 
-## Scene 5 — Hoa advise Mai sau scene
+## Tình huống 5 — Hoa góp ý cho Mai sau tình huống
 
 | Speaker | Lời thoại |
 |---|---|
@@ -86,7 +86,7 @@ Tháng 6/2028. Hoa đặt 2 mục tiêu: 技能検定3級 (8/2028) + N3 (12/2028
 
 ---
 
-## Scene 6 — Tối · Hoa học N3 với Mai cùng phòng
+## Tình huống 6 — Tối · Hoa học N3 với Mai cùng phòng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -102,7 +102,7 @@ Tháng 6/2028. Hoa đặt 2 mục tiêu: 技能検定3級 (8/2028) + N3 (12/2028
 
 ---
 
-## Scene 7 — Trưa · Trang khen Mai
+## Tình huống 7 — Trưa · Trang khen Mai
 
 | Speaker | Lời thoại |
 |---|---|
@@ -117,7 +117,7 @@ Tháng 6/2028. Hoa đặt 2 mục tiêu: 技能検定3級 (8/2028) + N3 (12/2028
 
 ---
 
-## Scene 8 — Hoa luyện 技能検定 · Satou giúp
+## Tình huống 8 — Hoa luyện 技能検定 · Satou giúp
 
 | Speaker | Lời thoại |
 |---|---|
@@ -133,7 +133,7 @@ Tháng 6/2028. Hoa đặt 2 mục tiêu: 技能検定3級 (8/2028) + N3 (12/2028
 
 ---
 
-## Scene 9 — Tối · 4 cô gái ăn cơm Trang nấu
+## Tình huống 9 — Tối · 4 cô gái ăn cơm Trang nấu
 
 | Speaker | Lời thoại |
 |---|---|
@@ -148,7 +148,7 @@ Tháng 6/2028. Hoa đặt 2 mục tiêu: 技能検定3級 (8/2028) + N3 (12/2028
 
 ---
 
-## Scene 10 — Hoa nội tâm · viết nhật ký
+## Tình huống 10 — Hoa nội tâm · viết nhật ký
 
 | Speaker | Lời thoại |
 |---|---|
@@ -160,7 +160,7 @@ Tháng 6/2028. Hoa đặt 2 mục tiêu: 技能検定3級 (8/2028) + N3 (12/2028
 
 ---
 
-## Scene 11 — Cuối tuần · luyện với Satou
+## Tình huống 11 — Cuối tuần · luyện với Satou
 
 | Speaker | Lời thoại |
 |---|---|
@@ -174,7 +174,7 @@ Tháng 6/2028. Hoa đặt 2 mục tiêu: 技能検定3級 (8/2028) + N3 (12/2028
 
 ---
 
-## Scene 12 — Suzuki + Hoa · cuối tuần check progress
+## Tình huống 12 — Suzuki + Hoa · cuối tuần check progress
 
 | Speaker | Lời thoại |
 |---|---|
@@ -190,7 +190,7 @@ Tháng 6/2028. Hoa đặt 2 mục tiêu: 技能検定3級 (8/2028) + N3 (12/2028
 
 ---
 
-## Scene 13 — Tin nhắn Linh chị
+## Tình huống 13 — Tin nhắn Linh chị
 
 | Speaker | Lời thoại |
 |---|---|
@@ -207,7 +207,7 @@ Tháng 6/2028. Hoa đặt 2 mục tiêu: 技能検定3級 (8/2028) + N3 (12/2028
 
 ---
 
-## Scene 14 — Hoa viết nhật ký cuối tháng
+## Tình huống 14 — Hoa viết nhật ký cuối tháng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -240,4 +240,4 @@ Tháng 6/2028. Hoa đặt 2 mục tiêu: 技能検定3級 (8/2028) + N3 (12/2028
 
 ## ✨ Câu chốt
 
-> *"Học cho mình + dạy cho người khác = double track. Cả hai đều quan trọng cho năm 3."*
+> *"Học cho mình + dạy cho người khác = song song hai hướng. Cả hai đều quan trọng cho năm 3."*

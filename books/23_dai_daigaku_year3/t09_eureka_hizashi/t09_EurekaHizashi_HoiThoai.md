@@ -9,7 +9,7 @@
 
 ---
 
-## Scene 1 — Sáng nhà — Mai struggle với 教材 N2 · 5/11/2028
+## Tình huống 1 — Sáng nhà — Mai struggle với 教材 N2 · 5/11/2028
 
 | Speaker | Lời thoại |
 |---|---|
@@ -21,7 +21,7 @@
 
 ---
 
-## Scene 2 — Linh-Anh visit + share Toyota struggle · 7/11 weekend
+## Tình huống 2 — Linh-Anh visit + share Toyota struggle · 7/11 weekend
 
 | Speaker | Lời thoại |
 |---|---|
@@ -33,7 +33,7 @@
 
 ---
 
-## Scene 3 — LINE bố mẹ HN talk · 8/11 19:00
+## Tình huống 3 — LINE bố mẹ HN talk · 8/11 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -44,7 +44,7 @@
 
 ---
 
-## Scene 4 — EUREKA moment · 11/11 chiều thứ 7
+## Tình huống 4 — Khoảnh khắc bừng sáng · 11/11 chiều thứ 7
 
 | Speaker | Lời thoại |
 |---|---|
@@ -58,7 +58,7 @@
 
 ---
 
-## Scene 5 — Brainstorm features · cùng tối
+## Tình huống 5 — Brainstorm features · cùng tối
 
 | Speaker | Lời thoại |
 |---|---|
@@ -75,7 +75,7 @@
 
 ---
 
-## Scene 6 — Inoue 1on1 next morning · 12/11
+## Tình huống 6 — Inoue 1on1 next morning · 12/11
 
 | Speaker | Lời thoại |
 |---|---|
@@ -87,7 +87,7 @@
 
 ---
 
-## Scene 7 — Cohort celebration + Tony+Yumi · weekend 18/11
+## Tình huống 7 — Cohort celebration + Tony+Yumi · weekend 18/11
 
 | Speaker | Lời thoại |
 |---|---|
@@ -102,7 +102,7 @@
 
 ---
 
-## Scene 8 — Đêm reflect — biggest decision of life
+## Tình huống 8 — Đêm reflect — biggest decision of life
 
 | Speaker | Lời thoại |
 |---|---|
@@ -115,7 +115,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

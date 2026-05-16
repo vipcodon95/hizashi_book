@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Kawakami duyệt nghỉ phép · 9:00
+## Tình huống 1 — Kawakami duyệt nghỉ phép · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -16,7 +16,7 @@
 
 ---
 
-## Scene 2 — Visa 家族滞在 prep · 14:00
+## Tình huống 2 — Visa 家族滞在 prep · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -30,7 +30,7 @@
 
 ---
 
-## Scene 3 — Linh-chị tutor visa · 18:00
+## Tình huống 3 — Linh-chị tutor visa · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -43,7 +43,7 @@
 
 ---
 
-## Scene 4 — Apply visa · cuối 1/2027
+## Tình huống 4 — Apply visa · cuối 1/2027
 
 | Speaker | Lời thoại |
 |---|---|
@@ -56,7 +56,7 @@
 
 ---
 
-## Scene 5 — Sân bay đi VN · cuối 1/2027
+## Tình huống 5 — Sân bay đi VN · cuối 1/2027
 
 | Speaker | Lời thoại |
 |---|---|
@@ -68,7 +68,7 @@
 
 ---
 
-## Scene 6 — Đêm trước cưới · 1/2027 ở HN
+## Tình huống 6 — Đêm trước cưới · 1/2027 ở HN
 
 | Speaker | Lời thoại |
 |---|---|
@@ -82,7 +82,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

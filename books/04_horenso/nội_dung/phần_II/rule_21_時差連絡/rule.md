@@ -1,6 +1,6 @@
 # Rule 21 — Liên lạc cross-timezone (VN-JP) / 海外チームへの時差連絡
 
-> **Luận điểm.** VN-JP cách 2 giờ (mùa hè), 4 giờ (Hokkaido). Khi chia sẻ thông tin với team Nhật, không nói "明日10時" mà nói "**10:00 JST (08:00 ICT)**". Quy tắc: **Always UTC anchor + async-first + daily handoff**.
+> **Luận điểm.** VN-JP cách 2 giờ (mùa hè), 4 giờ (Hokkaido). Khi chia sẻ thông tin với team Nhật, không nói "明日10時" mà nói "**10:00 JST (08:00 ICT)**". Quy tắc: **Luôn ghi giờ UTC/JST kèm, ưu tiên async, bàn giao cuối ngày**.
 >
 > 海外チームへの時差連絡3原則：①時刻は必ず UTC または『JST (ICT)』併記、②async 前提（即返信を期待しない）、③ daily handoff message（VN PM 18時 → JP AM 9時の引き継ぎ）。
 >

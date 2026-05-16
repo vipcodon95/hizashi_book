@@ -4,7 +4,7 @@
 >
 > 訪問は『24h前確認・スーツ濃色ネクタイ・ルート+30分buffer・ICカード/現金1万・お土産』の5点を前日完了。
 >
-> **Liên quan:** rule 17 (5分前到着), rule 28 (omiyage), rule 34 (initial onsite survival kit).
+> **Liên quan:** rule 17 (5分前到着), rule 28 (omiyage), rule 34 (initial onsite bộ đồ thiết yếu).
 
 ---
 
@@ -26,7 +26,7 @@ Dũng + Tuấn lần đầu đi onsite Tokyo cho 白鷗 office tại Shinjuku, P
 | **ズン** | 「**白鷗本社は CFO 同席だぞ。スーツ濃紺+ネクタイ必須**。お土産は？」 |
 | **トゥアン** | 「えっ、お土産も？空港で買えばいいかな…」 |
 
-**Vì sao xấu:** D-1 17:00 mà chưa confirm địa chỉ + outfit + omiyage = miss multiple lanes. Mai sáng confirm = Tanaka PMO không kịp prep phòng + receptionist guide. Outfit "ジャケットだけ" với CFO meeting = lộ unprofessional.
+**Vì sao xấu:** D-1 17:00 mà chưa confirm địa chỉ + outfit + omiyage = miss multiple lanes. Mai sáng confirm = Tanaka PMO không kịp prep phòng + receptionist guide. Outfit "ジャケットだけ" với CFO meeting = lộ không chuyên nghiệp.
 
 ---
 
@@ -44,7 +44,7 @@ Dũng + Tuấn lần đầu đi onsite Tokyo cho 白鷗 office tại Shinjuku, P
 
 📝 **Ghi chú:**
 - 【1】**24h前確認メール** — confirm: 時間/人数/場所/agenda。Format: 「明日10時のお打ち合わせの件、ティエンファットのトゥアン・ズン2名でお伺いいたします。受付対応のご手配をお願いいたします」.
-- 【2】**Dress code** — JP 大手 default = suit đậm (濃紺 / 黒). Cravate đơn sắc. Áo trắng. Tránh: shirt màu / jacket-only / chinos.
+- 【2】**Dress code** — JP 大手 default = suit đậm (濃紺 / 黒). Cravate đơn sắc. Áo trắng. Tránh: shirt màu / chỉ áo vest / chinos.
 - 【3】**Route + 30 phút buffer** — Tokyo subway peak hour delay 5-15 phút thường. Calculate route + add 30 phút. Đến lobby trước 5-10 phút (rule 17).
 - 【4】**IC card + cash** — Suica/Pasmo charge sẵn. Cash 1 man yen cho taxi emergency. Card Visa nhiều shop nhỏ Tokyo không nhận.
 - 【5】**Omiyage** — chuẩn bị từ VN, KHÔNG mua tại sân bay Narita (giảm tâm). Brand uy tín, 6 hộp = 1 cho đoàn 大垣 + 1 cho 中村 + 1 cho 松本 + 1 cho 田中 + 2 buffer.

@@ -1,4 +1,4 @@
-# Rule 08 — Chuẩn bị Plan B + counter-arguments / 想定問答集の準備
+# Rule 08 — Chuẩn bị Plan B + phản biện / 想定問答集の準備
 
 > **Luận điểm.** Khách Nhật giỏi đặt **「想定外の質問」** (câu hỏi bất ngờ). Trước họp phải có **想定問答集 (Q&A list)** liệt kê 3-5 câu khách dễ hỏi + script trả lời sẵn. Bonus: 1-2 câu hỏi khó nhất → có **Plan B**.
 >
@@ -25,7 +25,7 @@ Sáng thứ Ba, 1 tiếng trước họp đàm phán phase 2. Em Dũng đã có 
 | **ハー** | 「客は『価格を10%下げられないか』『納期を2週間早められないか』『他社事例は』を必ず聞くよ。回答用意してる？」 |
 | **ズン** | 「す、すみません、これから準備します…」 |
 
-**Vì sao xấu:** Junior thường nghĩ "agenda + 資料 đủ rồi". Nhưng khách Nhật giỏi đẩy câu hỏi ngoài agenda. Không chuẩn bị = trong họp panic + im lặng + 「持ち帰ります」.
+**Vì sao xấu:** Nhân viên trẻ thường nghĩ "agenda + 資料 đủ rồi". Nhưng khách Nhật giỏi đẩy câu hỏi ngoài agenda. Không chuẩn bị = trong họp lúng túng + im lặng + 「持ち帰ります」.
 
 ---
 
@@ -40,7 +40,7 @@ Sáng thứ Ba, 1 tiếng trước họp đàm phán phase 2. Em Dũng đã có 
 
 📝 **Ghi chú:**
 - 【1】**「Plan B として〜も用意済み」** — 「用意済み」 = "đã chuẩn bị xong". Cụm gọn của business JP. Cấp trên hỏi "có chưa?" → trả lời 「〜済みです」 là đẹp nhất.
-- 【2】**「方針で統一済み」** = "đã thống nhất phương châm". Báo cáo cấp trên rằng "không phải chỉ tôi nghĩ vậy mà cả team đã align".
+- 【2】**「方針で統一済み」** = "đã thống nhất phương châm". Báo cáo cấp trên rằng "không phải chỉ tôi nghĩ vậy mà cả team đã thống nhất".
 
 ---
 
@@ -81,10 +81,10 @@ A5. ペア体制で運営しており、引き継ぎ docs を都度更新。空�
 
 ## ⚠ Tránh
 
-- 想定問答集 chỉ trong đầu, không viết ra → vào họp panic là quên.
+- 想定問答集 chỉ trong đầu, không viết ra → vào họp lúng túng là quên.
 - Chỉ chuẩn bị câu hỏi dễ → khách hỏi câu khó là 「持ち帰ります」.
 - Plan B cũng không có → "5月15日無理です" → đàm phán dừng.
-- Trả lời chưa align với senior → senior phải bồi thêm = mất uy tín BD.
+- Trả lời chưa thống nhất với cấp trên → cấp trên phải bồi thêm = mất uy tín BD.
 
 ---
 

@@ -1,4 +1,4 @@
-# Rule 35 — Self-review ceremony etiquette / 振り返り
+# Rule 35 — Tự đánh giá ceremony etiquette / 振り返り
 
 > **Luận điểm.** Sau mỗi onsite / 接待 / event quan trọng, **Hizashi式 self-review = 5 mục cấu trúc**: **(1) 3 điểm tốt (kiểu pattern tái lặp được), (2) 3 vấn đề (format "ai + làm gì + kết quả"), (3) 3 action cải thiện (CHỦ + DEADLINE bắt buộc), (4) phát hiện mới (phrase / nghi thức / khách trait), (5) lưu hồ sơ Notion + CRM 2 nơi**. "Lần sau em cẩn thận hơn" = không phải self-review.
 >
@@ -22,7 +22,7 @@ Sau onsite Tokyo + final ceremony, về HCMC chiều thứ 6 hôm sau. Chị Hư
 | **ズン** | 「全体的にOK でした。次は気をつけます。」 |
 | **フオン副部長** | 「それじゃ振り返りにならない。具体的に良かった3点・課題3点・改善 action 3点・新発見・記録、5項目で文章化して。」 |
 
-**Vì sao xấu:** (1) Không self-review = lần sau lại sai y chang. (2) "Lần sau em cẩn thận hơn" = không có action cụ thể, không ai chịu trách nhiệm, không có deadline. (3) Không log lại từng lỗi = team không học được gì = mỗi onsite reset từ 0.
+**Vì sao xấu:** (1) Không self-review = lần sau lại sai y chang. (2) "Lần sau em cẩn thận hơn" = không có action cụ thể, không ai chịu trách nhiệm, không có deadline. (3) Không ghi lại từng lỗi = team không học được gì = mỗi onsite reset từ 0.
 
 ---
 
@@ -64,7 +64,7 @@ Sau onsite Tokyo + final ceremony, về HCMC chiều thứ 6 hôm sau. Chị Hư
 - Kết "lần sau em cẩn thận hơn" — không có action cụ thể
 - Chỉ ghi điểm tốt — không học được vấn đề
 - Action không có chủ + deadline — không bao giờ thực hiện
-- Self-review chỉ qua lời nói, không văn bản — 1 tháng sau quên hết
+- Tự đánh giá chỉ qua lời nói, không văn bản — 1 tháng sau quên hết
 - Lưu 1 nơi (chỉ Notion / chỉ CRM) — chia tách team learning vs customer history
 
 ---

@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Marco announce · 12/2026
+## Tình huống 1 — Marco announce · 12/2026
 
 | Speaker | Lời thoại |
 |---|---|
@@ -17,7 +17,7 @@
 
 ---
 
-## Scene 2 — 送別会 · 12/2026 cuối tháng
+## Tình huống 2 — 送別会 · 12/2026 cuối tháng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -30,7 +30,7 @@
 
 ---
 
-## Scene 3 — Marco gives torch · 21:00
+## Tình huống 3 — Marco gives torch · 21:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -44,7 +44,7 @@
 
 ---
 
-## Scene 4 — Sân bay tiễn · 1/2027 đầu
+## Tình huống 4 — Sân bay tiễn · 1/2027 đầu
 
 | Speaker | Lời thoại |
 |---|---|
@@ -55,7 +55,7 @@
 
 ---
 
-## Scene 5 — Phòng vắng · 22:00
+## Tình huống 5 — Phòng vắng · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -66,7 +66,7 @@
 
 ---
 
-## Scene 6 — Đêm · 23:00
+## Tình huống 6 — Đêm · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -77,7 +77,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

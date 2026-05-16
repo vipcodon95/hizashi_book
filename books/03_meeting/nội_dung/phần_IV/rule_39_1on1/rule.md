@@ -1,6 +1,6 @@
 # Rule 39 — 1-on-1 với cấp trên Nhật / 1on1ミーティング
 
-> **Luận điểm.** 1on1 (1 đối 1) với senior Nhật KHÔNG phải casual chat. Cấu trúc 4 phần: (1) **Progress** — gì đã làm, (2) **Challenges** — gì đang vướng, (3) **Ask** — cần gì từ senior, (4) **Next steps**. Junior chuẩn bị note trước, senior nhận note. Câu chuẩn mở: 「**本日の1on1、4点ご報告と1点ご相談がございます**」.
+> **Luận điểm.** 1on1 (1 đối 1) với cấp trên Nhật KHÔNG phải casual chat. Cấu trúc 4 phần: (1) **Progress** — gì đã làm, (2) **Challenges** — gì đang vướng, (3) **Ask** — cần gì từ cấp trên, (4) **Next steps**. Nhân viên cấp dưới chuẩn bị note trước, cấp trên nhận note. Câu chuẩn mở: 「**本日の1on1、4点ご報告と1点ご相談がございます**」.
 >
 > 1on1構成：①進捗 ②課題 ③相談したいこと ④次のステップ。雑談ではなく構造化された対話。
 >
@@ -26,7 +26,7 @@ Em Dũng có 1on1 hàng tuần với chị Hương (Phó phòng) — buổi đ�
 | **ズン** | 「うーん、Phase 2 とかが…大変です。」 |
 | **フオン** | 「ズン、次回はメモ準備してきて。」 |
 
-**Vì sao xấu:** Không chuẩn bị → 1on1 trở thành chat lan man → senior không hỗ trợ được → phí 30 phút.
+**Vì sao xấu:** Không chuẩn bị → 1on1 trở thành chat lan man → cấp trên không hỗ trợ được → phí 30 phút.
 
 ---
 
@@ -44,7 +44,7 @@ Em Dũng có 1on1 hàng tuần với chị Hương (Phó phòng) — buổi đ�
 | **ズン** | 「ありがとうございます。**【次のステップ】**フオン副部長からのご回答後、QAリーダーと工数再見積もりを実施いたします。」 |
 
 📝 **Ghi chú:**
-- 【1】**「4点ご報告と1点ご相談がございます」** — báo trước số item → senior biết time budget cần dành.
+- 【1】**「4点ご報告と1点ご相談がございます」** — báo trước số item → cấp trên biết cần dành bao nhiêu thời gian.
 - 【2】**「ご相談」** rõ ràng — KHÔNG nói "có lẽ", "không biết". Hỏi thẳng "có thể assign 1 QA không?".
 
 ---
@@ -59,9 +59,9 @@ Em Dũng có 1on1 hàng tuần với chị Hương (Phó phòng) — buổi đ�
 
 ## ⚠ Tránh
 
-- 1on1 không chuẩn bị note → senior phải hỏi từng câu.
+- 1on1 không chuẩn bị note → cấp trên phải hỏi từng câu.
 - 「色々」「大変」 không cụ thể.
-- Nói challenges mà không kèm "Ask" → senior không biết phải support gì.
+- Nói challenges mà không kèm "Ask" → cấp trên không biết phải hỗ trợ gì.
 
 ---
 

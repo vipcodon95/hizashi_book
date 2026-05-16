@@ -8,7 +8,7 @@
 
 ---
 
-## Scene 1 — Đêm trước thi · 22:00 phòng riêng
+## Tình huống 1 — Đêm trước thi · 22:00 phòng riêng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-## Scene 2 — Sáng thi · 7:30 phòng staff
+## Tình huống 2 — Sáng thi · 7:30 phòng staff
 
 | Speaker | Lời thoại |
 |---|---|
@@ -39,7 +39,7 @@
 
 ---
 
-## Scene 3 — Train đi · 8:00
+## Tình huống 3 — Train đi · 8:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -55,7 +55,7 @@
 
 ---
 
-## Scene 4 — Đến Saitama University · 8:45
+## Tình huống 4 — Đến Saitama University · 8:45
 
 | Speaker | Lời thoại |
 |---|---|
@@ -74,7 +74,7 @@
 
 ---
 
-## Scene 5 — Vào phòng thi · 9:00
+## Tình huống 5 — Vào phòng thi · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -89,7 +89,7 @@
 
 ---
 
-## Scene 6 — Listening section · 11:30
+## Tình huống 6 — Listening section · 11:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -103,7 +103,7 @@
 
 ---
 
-## Scene 7 — Sau khi thi · 14:00 sảnh
+## Tình huống 7 — Sau khi thi · 14:00 sảnh
 
 | Speaker | Lời thoại |
 |---|---|
@@ -124,7 +124,7 @@
 
 ---
 
-## Scene 8 — Ăn mừng tại izakaya · 17:00
+## Tình huống 8 — Ăn mừng tại izakaya · 17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -141,7 +141,7 @@
 
 ---
 
-## Scene 9 — Báo Tanaka · 21:00 LINE
+## Tình huống 9 — Báo Tanaka · 21:00 LINE
 
 | Speaker | Lời thoại |
 |---|---|
@@ -158,7 +158,7 @@
 
 ---
 
-## Scene 10 — 1 tháng sau, kiểm kết quả · 1/2029 sáng
+## Tình huống 10 — 1 tháng sau, kiểm kết quả · 1/2029 sáng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -177,7 +177,7 @@
 
 ---
 
-## Scene 11 — Báo cast · 9:00 LINE group
+## Tình huống 11 — Báo cast · 9:00 LINE group
 
 | Speaker | Lời thoại |
 |---|---|
@@ -193,7 +193,7 @@
 
 ---
 
-## Scene 12 — Hoa nhật ký đêm · 22:00
+## Tình huống 12 — Hoa nhật ký đêm · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -208,7 +208,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

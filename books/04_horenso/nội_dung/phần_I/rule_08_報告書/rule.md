@@ -45,7 +45,7 @@ Sau Phase 2 hoàn thành, em Dũng cần soạn 報告書 chính thức gửi an
 
 📝 **Ghi chú:**
 - 【1】**「〇〇 完了報告書（〇月〇日〜〇月〇日）」** — 件名 phải có loại văn bản + scope thời gian. Không 「〇〇について」.
-- 【2】**概要 (executive summary)** = 3-5 dòng. CEO/PM lướt là nắm. 詳細 dành cho người implement.
+- 【2】**概要 (tóm tắt cho lãnh đạo)** = 3-5 dòng. CEO/PM lướt là nắm. 詳細 dành cho người implement.
 - 【3】**添付一覧** = liệt kê tên + version + ngày của từng file đính kèm. Tránh lẫn version về sau.
 
 ---

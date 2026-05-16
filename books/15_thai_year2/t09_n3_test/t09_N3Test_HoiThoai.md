@@ -8,7 +8,7 @@
 
 ---
 
-## Scene 1 — Sáng thi · 12/2023
+## Tình huống 1 — Sáng thi · 12/2023
 
 | Speaker | Lời thoại |
 |---|---|
@@ -20,7 +20,7 @@
 
 ---
 
-## Scene 2 — Trong phòng thi · 9:30
+## Tình huống 2 — Trong phòng thi · 9:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -33,7 +33,7 @@
 
 ---
 
-## Scene 3 — Listening test · 11:30
+## Tình huống 3 — Listening test · 11:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -46,7 +46,7 @@
 
 ---
 
-## Scene 4 — Sau thi · 16:00
+## Tình huống 4 — Sau thi · 16:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -59,7 +59,7 @@
 
 ---
 
-## Scene 5 — 1 tháng sau kết quả · 1/2024
+## Tình huống 5 — 1 tháng sau kết quả · 1/2024
 
 | Speaker | Lời thoại |
 |---|---|
@@ -73,7 +73,7 @@
 
 ---
 
-## Scene 6 — Báo · 9:00
+## Tình huống 6 — Báo · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -86,7 +86,7 @@
 
 ---
 
-## Scene 7 — Đêm reflect · 22:00
+## Tình huống 7 — Đêm reflect · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -98,7 +98,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

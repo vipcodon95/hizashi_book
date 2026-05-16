@@ -11,7 +11,7 @@
 
 ---
 
-## Scene 1 — Sân bay Kansai → Nội Bài · 8/1 sáng
+## Tình huống 1 — Sân bay Kansai → Nội Bài · 8/1 sáng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -24,7 +24,7 @@
 
 ---
 
-## Scene 2 — Nội Bài đón Mai · 8/1 16:00 GMT+7
+## Tình huống 2 — Nội Bài đón Mai · 8/1 16:00 GMT+7
 
 | Speaker | Lời thoại |
 |---|---|
@@ -40,7 +40,7 @@
 
 ---
 
-## Scene 3 — Lễ ăn hỏi 12/1 · nhà Mai
+## Tình huống 3 — Lễ ăn hỏi 12/1 · nhà Mai
 
 | Speaker | Lời thoại |
 |---|---|
@@ -56,7 +56,7 @@
 
 ---
 
-## Scene 4 — Sáng cưới 14/1 · khách sạn Daewoo
+## Tình huống 4 — Sáng cưới 14/1 · khách sạn Daewoo
 
 | Speaker | Lời thoại |
 |---|---|
@@ -70,7 +70,7 @@
 
 ---
 
-## Scene 5 — Speech Đại + Mai · 11:00
+## Tình huống 5 — Speech Đại + Mai · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -84,7 +84,7 @@
 
 ---
 
-## Scene 6 — Tony+Yumi video chúc · 12:30
+## Tình huống 6 — Tony+Yumi video chúc · 12:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -102,7 +102,7 @@
 
 ---
 
-## Scene 7 — Tiệc cưới + nhảy · 14:00
+## Tình huống 7 — Tiệc cưới + nhảy · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -117,7 +117,7 @@
 
 ---
 
-## Scene 8 — Đêm tân hôn · 22:00
+## Tình huống 8 — Đêm tân hôn · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -131,7 +131,7 @@
 
 ---
 
-## Scene 9 — 17/1 chào tạm biệt sân bay Nội Bài · 6:00
+## Tình huống 9 — 17/1 chào tạm biệt sân bay Nội Bài · 6:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -144,7 +144,7 @@
 
 ---
 
-## Scene 10 — Đêm về Osaka + nhật ký · 17/1 23:00
+## Tình huống 10 — Đêm về Osaka + nhật ký · 17/1 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -160,7 +160,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

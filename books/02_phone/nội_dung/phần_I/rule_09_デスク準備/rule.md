@@ -1,6 +1,6 @@
 # Rule 09 — Setup bàn trước cuộc gọi quan trọng / 重要電話前のデスク準備
 
-> **Luận điểm.** Trước cuộc gọi quan trọng (5+ phút, có quyết định), setup bàn 30 giây: **bút + giấy + lịch + tài liệu liên quan + cốc nước**.
+> **Luận điểm.** Trước cuộc gọi quan trọng (5+ phút, có quyết định), sắp xếp bàn 30 giây: **bút + giấy + lịch + tài liệu liên quan + cốc nước**.
 >
 > 重要通話の前に30秒のデスク準備：ペン+メモ+カレンダー+資料+水。
 >

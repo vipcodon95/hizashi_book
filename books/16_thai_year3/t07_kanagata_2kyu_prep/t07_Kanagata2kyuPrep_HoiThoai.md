@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Sakurai phân tích sự khác biệt · 17:30
+## Tình huống 1 — Sakurai phân tích sự khác biệt · 17:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -16,7 +16,7 @@
 
 ---
 
-## Scene 2 — Nội dung phần thực hành · 18:00
+## Tình huống 2 — Nội dung phần thực hành · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -28,7 +28,7 @@
 
 ---
 
-## Scene 3 — Tự luyện một mình · 1 tuần sau
+## Tình huống 3 — Tự luyện một mình · 1 tuần sau
 
 | Speaker | Lời thoại |
 |---|---|
@@ -42,7 +42,7 @@
 
 ---
 
-## Scene 4 — Ôn lý thuyết · 22:00 ký túc
+## Tình huống 4 — Ôn lý thuyết · 22:00 ký túc
 
 | Speaker | Lời thoại |
 |---|---|
@@ -55,7 +55,7 @@
 
 ---
 
-## Scene 5 — Sakurai động viên · 2 tuần trước thi
+## Tình huống 5 — Sakurai động viên · 2 tuần trước thi
 
 | Speaker | Lời thoại |
 |---|---|
@@ -68,7 +68,7 @@
 
 ---
 
-## Scene 6 — Đêm · 22:30
+## Tình huống 6 — Đêm · 22:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -78,7 +78,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

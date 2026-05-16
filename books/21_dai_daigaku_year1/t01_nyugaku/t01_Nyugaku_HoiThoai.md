@@ -12,7 +12,7 @@
 
 ---
 
-## Scene 1 — Sáng tàu Hankyu Toyonaka · 7:30
+## Tình huống 1 — Sáng tàu Hankyu Toyonaka · 7:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -25,7 +25,7 @@
 
 ---
 
-## Scene 2 — Ga 石橋阪大前 · 8:15
+## Tình huống 2 — Ga 石橋阪大前 · 8:15
 
 | Speaker | Lời thoại |
 |---|---|
@@ -37,7 +37,7 @@
 
 ---
 
-## Scene 3 — Trên đường lên đồi cơ sở Toyonaka · 8:30
+## Tình huống 3 — Trên đường lên đồi cơ sở Toyonaka · 8:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -51,7 +51,7 @@
 
 ---
 
-## Scene 4 — Vào 体育館 · 8:45
+## Tình huống 4 — Vào 体育館 · 8:45
 
 | Speaker | Lời thoại |
 |---|---|
@@ -64,7 +64,7 @@
 
 ---
 
-## Scene 5 — Lễ nhập học 9:00 · 体育館
+## Tình huống 5 — Lễ nhập học 9:00 · 体育館
 
 | Speaker | Lời thoại |
 |---|---|
@@ -76,7 +76,7 @@
 
 ---
 
-## Scene 6 — Phân khoa 情報科学科 → 教室 · 11:30
+## Tình huống 6 — Phân khoa 情報科学科 → 教室 · 11:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -90,7 +90,7 @@
 
 ---
 
-## Scene 7 — Vào B301 — gặp Lin Wei + Aiko + Rajesh · 12:00
+## Tình huống 7 — Vào B301 — gặp Lin Wei + Aiko + Rajesh · 12:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -105,7 +105,7 @@
 
 ---
 
-## Scene 8 — Yamato giới thiệu AtCoder + nhắn cuối ngày · 16:00
+## Tình huống 8 — Yamato giới thiệu AtCoder + nhắn cuối ngày · 16:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -121,7 +121,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -1,6 +1,6 @@
 # Rule 34 — Hybrid meeting cân bằng / ハイブリッド会議の運営
 
-> **Luận điểm.** Hybrid (1 nửa offline + 1 nửa online) DỄ làm phía online cảm thấy "second-class". Chủ trì PHẢI: (1) **chủ động hỏi phía online** trước phía offline ở mỗi agenda item, (2) **summary lại** cho online khi offline trao đổi nhanh, (3) **dùng mic chuyên dụng** cho phòng họp.
+> **Luận điểm.** Hybrid (1 nửa offline + 1 nửa online) DỄ làm phía online cảm thấy "second-class". Chủ trì PHẢI: (1) **chủ động hỏi phía online** trước phía offline ở mỗi agenda item, (2) **tóm tắt lại** cho online khi offline trao đổi nhanh, (3) **dùng mic chuyên dụng** cho phòng họp.
 >
 > ハイブリッド会議では司会がオンライン参加者に最初に発言機会を与える。「online first」原則。
 >
@@ -46,7 +46,7 @@ Họp phase 2: 4 người tại văn phòng VN (Dũng, Tuấn, Hải, Hà), 2 ng
 
 📝 **Ghi chú:**
 - 【1】**「まずオンラインでご参加の〇〇様、〇〇様、ご意見を…」** — chủ động mời online TRƯỚC. Đây là "online first" rule.
-- 【2】**「今の〇〇さんの発言を要約いたしますと〜」** — khi offline trao đổi qua lại nhanh, summary lại cho online. Tránh online "fall behind".
+- 【2】**「今の〇〇さんの発言を要約いたしますと〜」** — khi offline trao đổi qua lại nhanh, tóm tắt lại cho online. Tránh online "fall behind".
 
 ---
 
@@ -60,7 +60,7 @@ Họp phase 2: 4 người tại văn phòng VN (Dũng, Tuấn, Hải, Hà), 2 ng
 
 - Hỏi offline trước → online cảm giác là "phụ".
 - Trao đổi nhanh giữa offline mà không qua mic chính.
-- Quên summary → online lost context.
+- Quên tóm tắt → online mất ngữ cảnh.
 
 ---
 

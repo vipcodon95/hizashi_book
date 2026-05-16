@@ -44,7 +44,7 @@ Tháng 6/2026, đoàn 大垣 + 松本 + 中村 (3 người 白鷗) đến HCMC v
 📝 **Ghi chú:**
 - 【1】**「4条件チェック」** — name card check trước event tối thiểu chiều hôm trước. Sáng cùng ngày = quá muộn nếu cần in lại.
 - 【2】**人数×2倍 + buffer** — phòng trường hợp khách dẫn theo người chưa biết (interpreter/đồng nghiệp). 6枚 buffer = 1 lần exchange-fail mà không panic.
-- 【3】**誤字チェック senior** — Tuấn (tech lead) double-check. Một typo = nhớ mãi cả đời.
+- 【3】**誤字チェック senior** — Tuấn (tech lead) kiểm tra lại. Một typo = nhớ mãi cả đời.
 
 ---
 
@@ -76,4 +76,4 @@ Tháng 6/2026, đoàn 大垣 + 松本 + 中村 (3 người 白鷗) đến HCMC v
 | 誤字 | ごじ | Lỗi typo |
 | ご一行 | ごいっこう | Đoàn (formal) |
 | 印刷 | いんさつ | In ấn |
-| ダブルチェック | daburu chekku | Double check |
+| ダブルチェック | daburu chekku | Kiểm tra hai lượt |

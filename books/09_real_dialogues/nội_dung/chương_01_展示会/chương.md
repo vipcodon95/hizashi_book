@@ -16,7 +16,7 @@
 
 ---
 
-## Scene 1 — 08:30 · Cổng đông Tokyo Big Sight (ga Kokusai-Tenjijō, Yurikamome line)
+## Tình huống 1 — 08:30 · Cổng đông Tokyo Big Sight (ga Kokusai-Tenjijō, Yurikamome line)
 
 *Trời nắng sớm, gió biển hơi lạnh. Đám đông áo sơ mi xếp hàng trước máy in badge. Dũng đến trước 10 phút — nhưng đứng nhầm cổng Tây thay vì cổng Đông.*
 
@@ -44,12 +44,12 @@
 
 ### 💡 Bí quyết — Chào đầu ngày
 
-Đầu ngày triển lãm (08:30-09:00) khách thường vẫn còn 'business mode sáng sớm' — chưa relax. Chào ngắn gọn, **báo cáo trạng thái nhanh** ('anh Tuấn sắp đến', 'anh Ōgaki 9:00 đến'), KHÔNG mở topic phiếm như 'tối qua ngủ ngon không' — dành cho buổi trưa. Ngoài ra, **đến đúng cổng** quan trọng hơn đến sớm 10 phút — Tokyo Big Sight có 4 cổng, đọc kỹ email confirm trước.
+Đầu ngày triển lãm (08:30-09:00) khách thường vẫn còn 'chế độ công việc buổi sáng' — chưa thư giãn. Chào ngắn gọn, **báo cáo trạng thái nhanh** ('anh Tuấn sắp đến', 'anh Ōgaki 9:00 đến'), KHÔNG mở topic phiếm như 'tối qua ngủ ngon không' — dành cho buổi trưa. Ngoài ra, **đến đúng cổng** quan trọng hơn đến sớm 10 phút — Tokyo Big Sight có 4 cổng, đọc kỹ email confirm trước.
 
 
 ---
 
-## Scene 2 — 09:00 · Khu Registration + Badge (Sảnh entrance Hall West)
+## Tình huống 2 — 09:00 · Khu Registration + Badge (Sảnh entrance Hall West)
 
 *Dòng người ùa qua máy quét QR. Dũng đã pre-register tuần trước. Tanaka PMO đứng cạnh máy in, đã đeo badge sẵn.*
 
@@ -87,7 +87,7 @@ Triển lãm Nhật phân **3 màu lanyard**: Đỏ/Vàng = Exhibitor, Xanh = Vi
 
 ---
 
-## Scene 3 — 09:30 · Booth AWS Japan (Hall East 1, gian lớn 200m²)
+## Tình huống 3 — 09:30 · Booth AWS Japan (Hall East 1, gian lớn 200m²)
 
 *Booth AWS rộng, màn hình LED quanh tường, demo Bedrock + Strands Agents. ≈30 visitor JP đứng xem. Đoàn 5 người vào trong xem demo 'AI Agent for legacy migration'. Demo engineer là chị Yamada (≈30 tuổi).*
 
@@ -132,7 +132,7 @@ Bạn không cần biết tất cả. **1 câu hỏi sắc** đủ để khách 
 
 ---
 
-## Scene 4 — 10:30 · Booth Thanh Hà Software (Hall East 3, ≈50m²)
+## Tình huống 4 — 10:30 · Booth Thanh Hà Software (Hall East 3, ≈50m²)
 
 *Booth Thanh Hà Software treo cờ VN nhỏ, brochure tiếng JP+VN. Dũng nhận ra anh Hùng — BD trưởng Thanh Hà Tokyo, bạn cũ thời sinh viên ở HCMC, đã sang Nhật 5 năm.*
 
@@ -173,7 +173,7 @@ Triển lãm IT lớn ở Tokyo có nhiều cty VN cùng dự. Khả năng cao b
 
 ---
 
-## Scene 5 — 11:30 · Game booth của 1 cty SaaS VN-JP joint venture (Hall West 2, ≈30m²)
+## Tình huống 5 — 11:30 · Game booth của 1 cty SaaS VN-JP joint venture (Hall West 2, ≈30m²)
 
 *Quầy có game đơn giản: quay vòng số, trúng được tote bag / sticker / sock USB. Đám đông xếp hàng ngắn. Dũng + Tanaka thử chơi cùng. Matsumoto + Ōgaki ngồi nghỉ ghế gần đó.*
 
@@ -204,14 +204,14 @@ Triển lãm IT lớn ở Tokyo có nhiều cty VN cùng dự. Khả năng cao b
 Game booth phát quà = cơ hội **xây thiện cảm cá nhân** không liên quan business.
 
 - Trúng quà → **luôn hỏi khách có ai cần** (con/vợ/cha mẹ) trước khi tự cầm về.
-- **Bonus huge**: nếu trước đó từng nghe khách kể chi tiết gia đình (Tanaka có con trai mê robot) → **liên kết quà với chi tiết đó** = khách cảm động vì 'mình nhớ'. Trí nhớ chi tiết về gia đình khách = vũ khí mạnh nhất trong relationship-building.
+- **Bonus huge**: nếu trước đó từng nghe khách kể chi tiết gia đình (Tanaka có con trai mê robot) → **liên kết quà với chi tiết đó** = khách cảm động vì 'mình nhớ'. Trí nhớ chi tiết về gia đình khách = vũ khí mạnh nhất trong xây dựng quan hệ.
 - Khách Nhật rất nhớ chi tiết 'junior bên đối tác cho con tôi cái sticker robot ở IT Week' — hiệu quả trust **cao hơn 10 cuộc họp business** với chi phí 0¥.
 - Đừng tham gom 5-6 cái cùng booth — bị xem là 'ぐいぐい来る' (suồng sã).
 
 
 ---
 
-## Scene 6 — 12:30 · Food court trong Hall South
+## Tình huống 6 — 12:30 · Food court trong Hall South
 
 *12 quầy ăn nhanh: ramen, soba, bento, curry, donburi. Hàng dài. Đoàn chia ra: Matsumoto + Tanaka đi ramen, Ōgaki đi soba, Dũng + Tuấn đi bento. Hẹn 15 phút sau gặp ở khu ghế dài giữa.*
 
@@ -267,7 +267,7 @@ Bữa trưa = **cửa sổ vàng nhất** trong ngày để chuyển từ 'busin
 
 ---
 
-## Scene 7 — 14:00 · Keynote Hall — Andrew Ng (qua video link từ Stanford)
+## Tình huống 7 — 14:00 · Keynote Hall — Andrew Ng (qua video link từ Stanford)
 
 *Hall lớn ≈2000 chỗ, keynote 'Generative AI in Enterprise — 2026 Outlook'. Đoàn ngồi gần lối đi giữa, mỗi người nhận 1 tai nghe phiên dịch JP. Keynote 45 phút.*
 
@@ -305,7 +305,7 @@ Khách dẫn bạn nghe keynote = bạn được **chia sẻ 'frame tư duy' c�
 
 ---
 
-## Scene 8 — 15:30 · Booth của 白鷗 (Hall East 5, gian medium ≈80m²)
+## Tình huống 8 — 15:30 · Booth của 白鷗 (Hall East 5, gian medium ≈80m²)
 
 *Booth Hakuō demo 'Smart Bank Assistant' — AI cho ngân hàng địa phương JP. Booth lead là anh Inoue (40t, Tokyo, Dũng lần đầu gặp). ≈10 visitor xem demo. Matsumoto giới thiệu Dũng với Inoue.*
 
@@ -354,7 +354,7 @@ Khi khách JP có booth, bạn **đến không phải là khách** — bạn là
 
 ---
 
-## Scene 9 — 17:00 · Souvenir corner Tokyo Big Sight + Convenience store
+## Tình huống 9 — 17:00 · Souvenir corner Tokyo Big Sight + Convenience store
 
 *5 người tập trung lại sau khi booth Hakuō đóng cửa 17:00. Mệt nhưng vui. Đi qua khu souvenir gần lối ra Đông.*
 
@@ -373,7 +373,7 @@ Khi khách JP có booth, bạn **đến không phải là khách** — bạn là
 
 | Speaker | Câu |
 |---------|-----|
-| **トゥアンリーダー** | 「(小声で日本語、念のため)ズンさん、みんなに渡すのはオーバーだよ。シンプルに、松本さんに小さく1個でいい。」<br>*(thì thầm tiếng Nhật cho chắc) Dũng à, tặng cả 3 là overdo. Đơn giản, đưa Matsumoto 1 cái nhỏ là đủ.* |
+| **トゥアンリーダー** | 「(小声で日本語、念のため)ズンさん、みんなに渡すのはオーバーだよ。シンプルに、松本さんに小さく1個でいい。」<br>*(thì thầm tiếng Nhật cho chắc) Dũng à, tặng cả 3 là quá đà. Đơn giản, đưa Matsumoto 1 cái nhỏ là đủ.* |
 | **ズン** | 「(小声)あ、そうですね、すみません。」<br>*(thì thầm) À, đúng rồi anh, em xin lỗi.* |
 
 *[Dũng mua: 1 hộp ¥1,500 (28 cái) cho team HCMC + 1 hộp ¥1,200 cho gia đình Tuấn (Tuấn nhờ). Anh Matsumoto, Ōgaki, Tanaka đứng đợi 5 phút bên ngoài. Khi Dũng quay ra, mở hộp lấy 1 cái nhỏ riêng đưa Matsumoto.]*
@@ -394,7 +394,7 @@ Khi đi cùng khách 1 ngày, **mua omiyage cho chính mình mang về VN** = b�
 
 NHƯNG: **1 chiếc rất nhỏ** (1 cái individually wrapped trong hộp 28 cái) đưa cho **1 senior** + nói '今日のお礼' = **gesture nhỏ — impact lớn**. Tổng chi phí: ≈50¥. Khách JP nhớ rất lâu.
 
-**Đừng đưa cả 3** = overdo, phá tinh tế. Chỉ 1 senior cao nhất (hoặc người host chính). Tuấn đã ra hiệu cứu Dũng kịp.
+**Đừng đưa cả 3** = quá đà, phá tinh tế. Chỉ 1 senior cao nhất (hoặc người host chính). Tuấn đã ra hiệu cứu Dũng kịp.
 
 Nguyên tắc:
 - ✅ **1 cái individually wrapped** (đặc trưng đồ ngọt JP).
@@ -403,7 +403,7 @@ Nguyên tắc:
 
 ---
 
-## Scene 10 — 18:00 · Ga Shinbashi — chia tay
+## Tình huống 10 — 18:00 · Ga Shinbashi — chia tay
 
 *Đi Yurikamome line từ Big Sight về Shinbashi (≈25 phút). Cả 5 đứng cùng wagon. Đến Shinbashi: Matsumoto + Tanaka về Yokohama (Tōkaidō), Ōgaki về Marunouchi (Yamanote), Dũng + Tuấn về Shinjuku (Yamanote — cùng hướng Ōgaki nửa đường).*
 

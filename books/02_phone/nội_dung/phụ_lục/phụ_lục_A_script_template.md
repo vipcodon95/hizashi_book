@@ -231,7 +231,7 @@
 > 📝 _保留長引いた時の標準対応_
 
 
-### Rule 18 — 5 yếu tố bắt buộc khi take message / 伝言メモの5要素
+### Rule 18 — 5 yếu tố bắt buộc khi ghi lời nhắn / 伝言メモの5要素
 
 **ズン (em Dũng):**
 
@@ -396,7 +396,7 @@
 > 📝 _伝言依頼の標準_
 
 
-### Rule 32 — Xin gọi lại — folder back template / 折り返しの依頼
+### Rule 32 — Xin gọi lại — mẫu nhờ gọi lại / 折り返しの依頼
 
 **ズン (em Dũng):**
 
@@ -443,7 +443,7 @@
 
 ## Phần IV — Tình huống khó
 
-### Rule 36 — Đừng để hold quá im — voice fill / 保留中の対応
+### Rule 36 — Đừng để hold quá im — lấp im lặng / 保留中の対応
 
 **ズン (em Dũng):**
 
@@ -625,7 +625,7 @@
 
 > 🇯🇵 「本日中にフォローアップメールでまとめてお送りいたします。」
 >
-> 🇻🇳 *Em sẽ tổng hợp gửi mail follow-up trong hôm nay ạ.*
+> 🇻🇳 *Em sẽ tổng hợp gửi mail tóm tắt trong hôm nay ạ.*
 >
 > 📝 _通話後の文書化約束_
 
@@ -663,7 +663,7 @@
 > 📝 _アンミュート後の発言冒頭_
 
 
-### Rule 55 — Cross-border online meeting / 国際オンライン会議
+### Rule 55 — Họp online quốc tế / 国際オンライン会議
 
 **ズン (em Dũng):**
 
@@ -680,12 +680,12 @@
 
 > 🇯🇵 「録音と自動文字起こしをさせていただきたく存じます。ご了承いただけますでしょうか？」
 >
-> 🇻🇳 *Em xin phép ghi âm và auto-transcribe ạ. Anh/chị có đồng ý không ạ?*
+> 🇻🇳 *Em xin phép ghi âm và tự động chuyển giọng thành văn bản ạ. Anh/chị có đồng ý không ạ?*
 >
 > 📝 _録音許可の標準フレーズ_
 
 
-### Rule 57 — Take floor in conference call — interrupt khéo / 電話会議で発言を取る
+### Rule 57 — Giành lượt phát biểu trong họp online — interrupt khéo / 電話会議で発言を取る
 
 **ズン (em Dũng):**
 
@@ -718,7 +718,7 @@
 > 📝 _通話履歴管理の報告_
 
 
-### Rule 60 — Self-diagnostic — phone skills checklist / 電話力の自己診断
+### Rule 60 — Tự chấm điểm — bảng kiểm kỹ năng điện thoại / 電話力の自己診断
 
 **フオン副部長 (chị Hương):**
 

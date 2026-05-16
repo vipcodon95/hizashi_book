@@ -7,7 +7,7 @@
   },
   "rule_context": {
     "ja": "CFO の「高い」push back に対し、Acknowledge→Reframe(運用工数削減 ROI)→3 Option パターンで対応する場面。",
-    "vi": "Trước push back 'đắt' của CFO, Dũng dùng pattern Acknowledge→Reframe(ROI giảm effort vận hành)→3 Option."
+    "vi": "Trước push back 'đắt' của CFO, Dũng dùng pattern Ghi nhận→Đổi góc nhìn(ROI giảm effort vận hành)→3 Option."
   },
   "related_rules": [
     "rule_19",
@@ -75,14 +75,14 @@
           "applies_to_line": "rule_20_good_02",
           "highlight_text": "ご指摘の点、もっともでございます",
           "ja": "Acknowledge phrase。即反論せず一旦受け止める。defense tone を回避。",
-          "vi": "Câu acknowledge. KHÔNG phản bác ngay, đỡ trước. Tránh tone phòng thủ."
+          "vi": "Câu ghi nhận. KHÔNG phản bác ngay, đỡ trước. Tránh sắc thái phòng thủ."
         },
         {
           "id": "2",
           "applies_to_line": "rule_20_good_03",
           "highlight_text": "ただ少し別の角度から",
           "ja": "Reframe phrase。価格議論から ROI / cost-of-inaction 議論へ転換。",
-          "vi": "Câu reframe. Chuyển từ tranh luận giá sang ROI / cost-of-inaction."
+          "vi": "Câu đổi góc nhìn. Chuyển từ tranh luận giá sang ROI / cost-of-inaction."
         },
         {
           "id": "3",
@@ -184,7 +184,7 @@
       "correct": "B",
       "explanation": {
         "ja": "「高い」は購買意欲のサイン。3step (Ack→Reframe→Option) で leverage を保ちつつ deal を進める。",
-        "vi": "'Đắt' là sign quan tâm. 3 step (Ack→Reframe→Option) giữ leverage và đẩy deal."
+        "vi": "'Đắt' là sign quan tâm. 3 step (Ghi nhận→Đổi góc nhìn→Option) giữ đòn bẩy và đẩy deal."
       }
     }
   ],

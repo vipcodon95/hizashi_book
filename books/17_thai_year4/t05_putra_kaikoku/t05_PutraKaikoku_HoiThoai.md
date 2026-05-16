@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — 1 tháng trước · 1/2026
+## Tình huống 1 — 1 tháng trước · 1/2026
 
 | Speaker | Lời thoại |
 |---|---|
@@ -18,7 +18,7 @@
 
 ---
 
-## Scene 2 — Plan after Indonesia · 22:00
+## Tình huống 2 — Plan after Indonesia · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -31,7 +31,7 @@
 
 ---
 
-## Scene 3 — 送別会 · 2/2026 cuối tháng
+## Tình huống 3 — 送別会 · 2/2026 cuối tháng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -44,7 +44,7 @@
 
 ---
 
-## Scene 4 — Sân bay · 2/2026 cuối
+## Tình huống 4 — Sân bay · 2/2026 cuối
 
 | Speaker | Lời thoại |
 |---|---|
@@ -57,7 +57,7 @@
 
 ---
 
-## Scene 5 — Phòng vắng · 22:00
+## Tình huống 5 — Phòng vắng · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -70,7 +70,7 @@
 
 ---
 
-## Scene 6 — Đêm · 23:00
+## Tình huống 6 — Đêm · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -81,7 +81,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

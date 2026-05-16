@@ -6,11 +6,11 @@
 
 ## Bối cảnh
 
-Tháng 7/2028. Line cơm hộp gặp sự cố lớn nhất 3 năm: nhiễm chéo cashew (sót nhãn, 1200 hộp đã chạy qua line trước khi phát hiện — chưa xuất kho). Hoa dẫn dắt — bình tĩnh, RCA, xử lý nội bộ. Mai+Trang quan sát.
+Tháng 7/2028. Line cơm hộp gặp sự cố lớn nhất 3 năm: nhiễm chéo cashew (sót nhãn, 1200 hộp đã chạy qua line trước khi phát hiện — chưa xuất kho). Hoa dẫn dắt — bình tĩnh, phân tích nguyên nhân gốc (RCA), xử lý nội bộ. Mai+Trang quan sát.
 
 ---
 
-## Scene 1 — Line · 13:00, Hoa phát hiện
+## Tình huống 1 — Line · 13:00, Hoa phát hiện
 
 | Speaker | Lời thoại |
 |---|---|
@@ -23,7 +23,7 @@ Tháng 7/2028. Line cơm hộp gặp sự cố lớn nhất 3 năm: nhiễm ché
 
 ---
 
-## Scene 2 — Hoa bấm dừng line + báo Tanaka khẩn
+## Tình huống 2 — Hoa bấm dừng line + báo Tanaka khẩn
 
 | Speaker | Lời thoại |
 |---|---|
@@ -38,7 +38,7 @@ Tháng 7/2028. Line cơm hộp gặp sự cố lớn nhất 3 năm: nhiễm ché
 
 ---
 
-## Scene 3 — Hoa coordinate · Mai+Trang đến
+## Tình huống 3 — Hoa coordinate · Mai+Trang đến
 
 | Speaker | Lời thoại |
 |---|---|
@@ -53,7 +53,7 @@ Tháng 7/2028. Line cơm hộp gặp sự cố lớn nhất 3 năm: nhiễm ché
 
 ---
 
-## Scene 4 — Tanaka đến, họp khẩn
+## Tình huống 4 — Tanaka đến, họp khẩn
 
 | Speaker | Lời thoại |
 |---|---|
@@ -67,7 +67,7 @@ Tháng 7/2028. Line cơm hộp gặp sự cố lớn nhất 3 năm: nhiễm ché
 
 ---
 
-## Scene 5 — Hoa coordinate cast
+## Tình huống 5 — Hoa coordinate cast
 
 | Speaker | Lời thoại |
 |---|---|
@@ -82,7 +82,7 @@ Tháng 7/2028. Line cơm hộp gặp sự cố lớn nhất 3 năm: nhiễm ché
 
 ---
 
-## Scene 6 — Cast bắt tay vào việc
+## Tình huống 6 — Cast bắt tay vào việc
 
 | Speaker | Lời thoại |
 |---|---|
@@ -95,7 +95,7 @@ Tháng 7/2028. Line cơm hộp gặp sự cố lớn nhất 3 năm: nhiễm ché
 
 ---
 
-## Scene 7 — 1 giờ sau · progress check
+## Tình huống 7 — 1 giờ sau · progress check
 
 | Speaker | Lời thoại |
 |---|---|
@@ -111,12 +111,12 @@ Tháng 7/2028. Line cơm hộp gặp sự cố lớn nhất 3 năm: nhiễm ché
 
 ---
 
-## Scene 8 — 2 giờ sau · xong
+## Tình huống 8 — 2 giờ sau · xong
 
 | Speaker | Lời thoại |
 |---|---|
 | Hoa | <ruby>全件解決<rt>ぜんけんかいけつ</rt></ruby>!<br>*(Xong hết!)* |
-| Cast | やった!<br>*(Tuyệt!)* |
+| Nhân vật | やった!<br>*(Tuyệt!)* |
 | Tanaka | みんな、お<ruby>疲<rt>つか</rt></ruby>れさま。<br>*(Mọi người, vất vả rồi.)* |
 | Tanaka | ホアさん、<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>指揮<rt>しき</rt></ruby>。<br>*(Hoa-san, chỉ huy tuyệt vời.)* |
 | Hoa | みんなのおかげです。<br>*(Nhờ mọi người.)* |
@@ -125,7 +125,7 @@ Tháng 7/2028. Line cơm hộp gặp sự cố lớn nhất 3 năm: nhiễm ché
 
 ---
 
-## Scene 9 — Mai và Trang sau crisis
+## Tình huống 9 — Mai và Trang sau crisis
 
 | Speaker | Lời thoại |
 |---|---|
@@ -139,7 +139,7 @@ Tháng 7/2028. Line cơm hộp gặp sự cố lớn nhất 3 năm: nhiễm ché
 
 ---
 
-## Scene 10 — 5 Why hôm sau
+## Tình huống 10 — 5 Why hôm sau
 
 | Speaker | Lời thoại |
 |---|---|
@@ -154,7 +154,7 @@ Tháng 7/2028. Line cơm hộp gặp sự cố lớn nhất 3 năm: nhiễm ché
 
 ---
 
-## Scene 11 — Hoa nội tâm cuối ngày
+## Tình huống 11 — Hoa nội tâm cuối ngày
 
 | Speaker | Lời thoại |
 |---|---|
@@ -165,7 +165,7 @@ Tháng 7/2028. Line cơm hộp gặp sự cố lớn nhất 3 năm: nhiễm ché
 
 ---
 
-## Scene 12 — Tanaka gọi Hoa lên phòng
+## Tình huống 12 — Tanaka gọi Hoa lên phòng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -181,7 +181,7 @@ Tháng 7/2028. Line cơm hộp gặp sự cố lớn nhất 3 năm: nhiễm ché
 
 ---
 
-## Scene 13 — Tối ký túc · Mai và Hoa
+## Tình huống 13 — Tối ký túc · Mai và Hoa
 
 | Speaker | Lời thoại |
 |---|---|
@@ -196,7 +196,7 @@ Tháng 7/2028. Line cơm hộp gặp sự cố lớn nhất 3 năm: nhiễm ché
 
 ---
 
-## Scene 14 — Hoa viết nhật ký
+## Tình huống 14 — Hoa viết nhật ký
 
 | Speaker | Lời thoại |
 |---|---|
@@ -225,8 +225,8 @@ Tháng 7/2028. Line cơm hộp gặp sự cố lớn nhất 3 năm: nhiễm ché
 | クラスII | class II | Mức II recall |
 
 ## 💡 Bí quyết
-- Crisis manager = bình tĩnh + phân vai rõ + check progress mỗi giờ
-- Class II label miss: nếu chưa xuất hàng = sửa label, không cần recall
+- Người xử lý khủng hoảng = bình tĩnh + phân vai rõ + kiểm tra tiến độ mỗi giờ
+- Sót nhãn Mức II: nếu chưa xuất hàng = dán lại nhãn, không cần thu hồi
 - Sempai bậc cao = company-wide impact, không chỉ team
 
 ## ✨ Câu chốt

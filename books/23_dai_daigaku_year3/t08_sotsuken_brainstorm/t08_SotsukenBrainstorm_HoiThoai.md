@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Inoue 1on1 · 5/10/2028
+## Tình huống 1 — Inoue 1on1 · 5/10/2028
 
 | Speaker | Lời thoại |
 |---|---|
@@ -17,7 +17,7 @@
 
 ---
 
-## Scene 2 — Đại weighing trade-offs
+## Tình huống 2 — Đại weighing trade-offs
 
 | Speaker | Lời thoại |
 |---|---|
@@ -28,7 +28,7 @@
 
 ---
 
-## Scene 3 — Discuss với Yamada-senpai
+## Tình huống 3 — Discuss với Yamada-senpai
 
 | Speaker | Lời thoại |
 |---|---|
@@ -38,7 +38,7 @@
 
 ---
 
-## Scene 4 — Mai tạm hoãn N2 + tình hình ôn lại
+## Tình huống 4 — Mai tạm hoãn N2 + tình hình ôn lại
 
 | Speaker | Lời thoại |
 |---|---|
@@ -50,7 +50,7 @@
 
 ---
 
-## Scene 5 — Đêm reflect
+## Tình huống 5 — Đêm reflect
 
 | Speaker | Lời thoại |
 |---|---|
@@ -61,7 +61,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

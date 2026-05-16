@@ -11,7 +11,7 @@
 
 ---
 
-## Scene 1 — Sáng nhà · Đưa Hana đi nhà trẻ 8:00
+## Tình huống 1 — Sáng nhà · Đưa Hana đi nhà trẻ 8:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -25,7 +25,7 @@
 
 ---
 
-## Scene 2 — Office sáng + Đại announce 育休 plan · 10:00
+## Tình huống 2 — Office sáng + Đại announce 育休 plan · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -38,7 +38,7 @@
 
 ---
 
-## Scene 3 — Series A outreach email · Trưa 12:00
+## Tình huống 3 — Series A outreach email · Trưa 12:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -48,7 +48,7 @@
 
 ---
 
-## Scene 4 — Bố mẹ HN announce visit · LINE family 21:00
+## Tình huống 4 — Bố mẹ HN announce visit · LINE family 21:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -62,7 +62,7 @@
 
 ---
 
-## Scene 5 — Mai check-up 26 weeks · Senri-chuo Maternity 14:00
+## Tình huống 5 — Mai check-up 26 weeks · Senri-chuo Maternity 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -75,7 +75,7 @@
 
 ---
 
-## Scene 6 — Anri Sato-san meeting Tokyo · 10/9 14:00
+## Tình huống 6 — Anri Sato-san meeting Tokyo · 10/9 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -89,7 +89,7 @@
 
 ---
 
-## Scene 7 — Đại về tàu Shinkansen · 18:00
+## Tình huống 7 — Đại về tàu Shinkansen · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -101,7 +101,7 @@
 
 ---
 
-## Scene 8 — Đêm Đại+Mai · 22:00
+## Tình huống 8 — Đêm Đại+Mai · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -114,28 +114,28 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
-| 育児休業 | いくじきゅうぎょう | Paternity leave |
-| 育休 | いくきゅう | Paternity leave (short) |
-| 父親 | ちちおや | Father |
-| Term sheet | タームシート | Term sheet |
-| Due diligence | デューディリジェンス | Due diligence |
-| J-KISS | ジェイキス | Japan Keep It Simple Security |
-| 妊娠中期 | にんしんちゅうき | 2nd trimester pregnancy |
-| 第三 trimester | だいさんトライメスター | 3rd trimester |
-| Postpartum | サンゴ | Sau sinh |
-| 回復 | かいふく | Recovery |
-| パテルニティリーブ | パテルニティリーブ | Paternity leave |
+| 育児休業 | いくじきゅうぎょう | Nghỉ chăm con (của bố) |
+| 育休 | いくきゅう | Nghỉ chăm con (viết tắt) |
+| 父親 | ちちおや | Người cha |
+| Term sheet | タームシート | Bản điều khoản đầu tư sơ bộ |
+| Due diligence | デューディリジェンス | Thẩm định đầu tư |
+| J-KISS | ジェイキス | Công cụ chuyển đổi đầu tư đơn giản hoá tại Nhật |
+| 妊娠中期 | にんしんちゅうき | Tam cá nguyệt thứ hai |
+| 第三 trimester | だいさんトライメスター | Tam cá nguyệt thứ ba |
+| Postpartum | サンゴ | Hậu sản (sau sinh) |
+| 回復 | かいふく | Hồi phục |
+| パテルニティリーブ | パテルニティリーブ | Nghỉ thai sản của bố |
 
 ## Bí quyết chương
 
-- **育児休業 1 tháng paternity leave** = Hizashi culture statement (Mercari/Cybozu inheritance)
-- **Anri lead confirmation trong meeting đầu** = pre-seed loyalty premium
-- **Term sheet 2w + DD 4w + close 8w = 30/11** before Christmas baby
-- **Hizashi policy paternity 1m + maternity 6m** vượt JP minimum (paternity 4w + maternity 14w)
-- **4 ông bà gather Christmas baby** = family expanding event multi-generational
+- **Nghỉ chăm con của bố 1 tháng (育児休業)** = tuyên bố về văn hoá Hizashi (kế thừa từ Mercari/Cybozu)
+- **Anri xác nhận lead ngay buổi gặp đầu** = phần thưởng nhờ pre-seed loyalty
+- **Term sheet 2 tuần + DD 4 tuần + close 8 tuần = 30/11** trước khi bé Christmas ra đời
+- **Chính sách Hizashi: nghỉ chăm con bố 1 tháng + nghỉ thai sản 6 tháng** vượt mức tối thiểu Nhật (bố 4 tuần + mẹ 14 tuần)
+- **4 ông bà tụ về đón bé Christmas** = sự kiện gia đình đa thế hệ đặc biệt
 
-> *"Mai 6 tháng thai. Đại 育休 1 tháng plan 12/2031. Bố mẹ HN announce visit 1 tháng. Anri Sato-san xác nhận lead Series A ¥120M (10%) trong meeting đầu. Close 30/11. Series A funded BEFORE bé Đông sinh."*
+> *"Mai 6 tháng thai. Đại kế hoạch 育休 1 tháng 12/2031. Bố mẹ HN thông báo sang Nhật 1 tháng. Anri Sato-san xác nhận lead Series A ¥120M (10%) ngay buổi gặp đầu. Close 30/11. Series A có tiền TRƯỚC khi bé Đông sinh."*

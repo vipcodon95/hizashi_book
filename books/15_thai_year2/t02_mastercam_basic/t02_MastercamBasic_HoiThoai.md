@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Suzuki giới thiệu Mastercam · 17:30 設計室
+## Tình huống 1 — Suzuki giới thiệu Mastercam · 17:30 設計室
 
 | Speaker | Lời thoại |
 |---|---|
@@ -16,7 +16,7 @@
 
 ---
 
-## Scene 2 — Toolpath generation · 18:00
+## Tình huống 2 — Toolpath generation · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -29,7 +29,7 @@
 
 ---
 
-## Scene 3 — Simulation 3D · 18:30
+## Tình huống 3 — Simulation 3D · 18:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -42,7 +42,7 @@
 
 ---
 
-## Scene 4 — G-code post · 19:00
+## Tình huống 4 — G-code post · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -56,7 +56,7 @@
 
 ---
 
-## Scene 5 — 1 tuần thực hành · 6/2023 cuối
+## Tình huống 5 — 1 tuần thực hành · 6/2023 cuối
 
 | Speaker | Lời thoại |
 |---|---|
@@ -70,7 +70,7 @@
 
 ---
 
-## Scene 6 — Sakurai discusses · 12:30
+## Tình huống 6 — Sakurai discusses · 12:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -84,7 +84,7 @@
 
 ---
 
-## Scene 7 — Đêm Mai · 22:00
+## Tình huống 7 — Đêm Mai · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -97,7 +97,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

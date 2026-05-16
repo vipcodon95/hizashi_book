@@ -10,7 +10,7 @@ Tháng 1/2028. Sau Tết Nguyên Đán + 正月 Nhật. Tinh thần ai cũng cò
 
 ---
 
-## Scene 1 — Sáng đầu tháng 1 · Bếp ký túc
+## Tình huống 1 — Sáng đầu tháng 1 · Bếp ký túc
 
 | Speaker | Lời thoại |
 |---|---|
@@ -25,7 +25,7 @@ Tháng 1/2028. Sau Tết Nguyên Đán + 正月 Nhật. Tinh thần ai cũng cò
 
 ---
 
-## Scene 2 — Nhà máy · 9:00, Putri đứng line đông lạnh
+## Tình huống 2 — Nhà máy · 9:00, Putri đứng line đông lạnh
 
 | Speaker | Lời thoại |
 |---|---|
@@ -40,7 +40,7 @@ Tháng 1/2028. Sau Tết Nguyên Đán + 正月 Nhật. Tinh thần ai cũng cò
 
 ---
 
-## Scene 3 — 10:30 · Putri phát hiện lỗi
+## Tình huống 3 — 10:30 · Putri phát hiện lỗi
 
 | Speaker | Lời thoại |
 |---|---|
@@ -57,7 +57,7 @@ Tháng 1/2028. Sau Tết Nguyên Đán + 正月 Nhật. Tinh thần ai cũng cò
 
 ---
 
-## Scene 4 — Mai gọi Hoa
+## Tình huống 4 — Mai gọi Hoa
 
 | Speaker | Lời thoại |
 |---|---|
@@ -72,7 +72,7 @@ Tháng 1/2028. Sau Tết Nguyên Đán + 正月 Nhật. Tinh thần ai cũng cò
 
 ---
 
-## Scene 5 — Putri chuẩn bị báo Tanaka
+## Tình huống 5 — Putri chuẩn bị báo Tanaka
 
 | Speaker | Lời thoại |
 |---|---|
@@ -88,7 +88,7 @@ Tháng 1/2028. Sau Tết Nguyên Đán + 正月 Nhật. Tinh thần ai cũng cò
 
 ---
 
-## Scene 6 — Phòng Tanaka · 11:00
+## Tình huống 6 — Phòng Tanaka · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -105,7 +105,7 @@ Tháng 1/2028. Sau Tết Nguyên Đán + 正月 Nhật. Tinh thần ai cũng cò
 
 ---
 
-## Scene 7 — Takahashi QC kiểm tra
+## Tình huống 7 — Takahashi QC kiểm tra
 
 | Speaker | Lời thoại |
 |---|---|
@@ -121,7 +121,7 @@ Tháng 1/2028. Sau Tết Nguyên Đán + 正月 Nhật. Tinh thần ai cũng cò
 
 ---
 
-## Scene 8 — 5 Why với Putri + Hoa + Takahashi
+## Tình huống 8 — 5 Why với Putri + Hoa + Takahashi
 
 | Speaker | Lời thoại |
 |---|---|
@@ -140,7 +140,7 @@ Tháng 1/2028. Sau Tết Nguyên Đán + 正月 Nhật. Tinh thần ai cũng cò
 
 ---
 
-## Scene 9 — Trưa · 食堂, 3 cô gái ăn cơm
+## Tình huống 9 — Trưa · 食堂, 3 cô gái ăn cơm
 
 | Speaker | Lời thoại |
 |---|---|
@@ -156,7 +156,7 @@ Tháng 1/2028. Sau Tết Nguyên Đán + 正月 Nhật. Tinh thần ai cũng cò
 
 ---
 
-## Scene 10 — Chiều · Putri hỗ trợ Hoa với checklist mới
+## Tình huống 10 — Chiều · Putri hỗ trợ Hoa với checklist mới
 
 | Speaker | Lời thoại |
 |---|---|
@@ -172,7 +172,7 @@ Tháng 1/2028. Sau Tết Nguyên Đán + 正月 Nhật. Tinh thần ai cũng cò
 
 ---
 
-## Scene 11 — Tối ký túc · 3 đứa nấu cơm Indo
+## Tình huống 11 — Tối ký túc · 3 đứa nấu cơm Indo
 
 | Speaker | Lời thoại |
 |---|---|
@@ -187,7 +187,7 @@ Tháng 1/2028. Sau Tết Nguyên Đán + 正月 Nhật. Tinh thần ai cũng cò
 
 ---
 
-## Scene 12 — Sau ăn · trò chuyện về văn hoá xin lỗi
+## Tình huống 12 — Sau ăn · trò chuyện về văn hoá xin lỗi
 
 | Speaker | Lời thoại |
 |---|---|
@@ -202,7 +202,7 @@ Tháng 1/2028. Sau Tết Nguyên Đán + 正月 Nhật. Tinh thần ai cũng cò
 
 ---
 
-## Scene 13 — Tin nhắn LINE Linh chị
+## Tình huống 13 — Tin nhắn LINE Linh chị
 
 | Speaker | Lời thoại |
 |---|---|
@@ -218,7 +218,7 @@ Tháng 1/2028. Sau Tết Nguyên Đán + 正月 Nhật. Tinh thần ai cũng cò
 
 ---
 
-## Scene 14 — Hoa viết nhật ký
+## Tình huống 14 — Hoa viết nhật ký
 
 | Speaker | Lời thoại |
 |---|---|

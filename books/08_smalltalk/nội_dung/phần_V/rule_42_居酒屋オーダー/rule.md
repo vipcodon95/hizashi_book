@@ -1,13 +1,13 @@
-# Rule 42 — Izakaya order flow / 居酒屋オーダー
+# Rule 42 — Trình tự gọi món tại izakaya / 居酒屋オーダー
 
-> **Luận điểm.** Order izakaya có **flow chuẩn 4 bước**: ① **とりあえずビール** → ② **mồi (お通し+刺身/枝豆)** → ③ **main (焼鳥+揚げ物+焼き魚)** → ④ **締め (ご飯/麺類)**. Nếu là người trẻ nhất bàn, **bạn = order role default**. Người Việt sai vì order tất cả 1 lần như VN restaurant.
+> **Luận điểm.** Order izakaya có **trình tự chuẩn 4 bước**: ① **とりあえずビール** → ② **mồi (お通し+刺身/枝豆)** → ③ **main (焼鳥+揚げ物+焼き魚)** → ④ **締め (ご飯/麺類)**. Nếu là người trẻ nhất bàn, **bạn = vai trò gọi món mặc định**. Người Việt sai vì order tất cả 1 lần như VN restaurant.
 
 ---
 
 ## 🧠 Tâm lý JP (4 dòng)
 
 - Izakaya = **drink + food cùng tiến độ**, không phải "ăn xong rồi uống".
-- Order **theo nhịp** (small batch, hỏi thêm) = pro. Order **1 lần hết** = "ngoại quốc cảm giác".
+- Order **theo nhịp** (từng đợt nhỏ, hỏi thêm) = chuyên nghiệp. Order **1 lần hết** = "cảm giác người ngoại quốc".
 - Khi **junior nhất bàn = order**, đó là 1 trong những signal "biết quy tắc" mà senior nhìn vào.
 - Lưu ý **アレルギー / 苦手食材** — hỏi trước thay vì để khách phát hiện trên bàn.
 
@@ -36,7 +36,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff tại izakaya Tokyo Yurakucho. Có 5 n
 | **ズン** | 「**生ビール5つ、お願いします**。あと**お通しに加えて、枝豆と冷奴をすぐに**お願いできますか?」 |
 | **店員** | 「かしこまりました。」 |
 
-📝 **Pattern vàng:** "とりあえずビール" = phrase mặc định. Không hỏi từng người (mất thời gian, không đọc không khí). Junior nhất hỏi senior 1 lần, sau đó order chung. **Mồi (枝豆+冷奴)** order ngay = bàn có cái nhâm khi chờ.
+📝 **Công thức vàng:** "とりあえずビール" = phrase mặc định. Không hỏi từng người (mất thời gian, không đọc không khí). Junior nhất hỏi senior 1 lần, sau đó order chung. **Mồi (枝豆+冷奴)** order ngay = bàn có cái nhâm khi chờ.
 
 ---
 
@@ -56,7 +56,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff tại izakaya Tokyo Yurakucho. Có 5 n
 | **ズン** | 「あ、**生牡蠣は外していただけますか**?」 |
 | **店員** | 「かしこまりました。」 |
 
-📝【1】 **Pre-check allergy + 苦手** = pro move. Sau đó tự handle với 店員 (không bắt khách lặp lại). Memory bank "Matsumoto = no 生牡蠣" ghi vào CRM.
+📝【1】 **Hỏi trước dị ứng + 苦手** = nước đi chuyên nghiệp. Sau đó tự xử lý với 店員 (không bắt khách lặp lại). Ghi vào kho ghi nhớ "Matsumoto = no 生牡蠣".
 
 ---
 
@@ -77,7 +77,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff tại izakaya Tokyo Yurakucho. Có 5 n
 | **大垣** | 「あ、俺**生ビールもう一杯**で。」 |
 | **ズン** | 「すみません、**生ビールもう1杯追加**お願いします。」 |
 
-📝 **Pattern:** Drink switch ở wave 2 = chuẩn flow JP (bia đầu tiên → sake / shochu / hailbol). KHÔNG ép senior chuyển nếu họ vẫn muốn bia (Ōgaki).
+📝 **Công thức:** Chuyển đồ uống ở đợt 2 = chuẩn nhịp JP (bia đầu tiên → sake / shochu / hailbol). KHÔNG ép senior chuyển nếu họ vẫn muốn bia (Ōgaki).
 
 ---
 
@@ -133,7 +133,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff tại izakaya Tokyo Yurakucho. Có 5 n
 - Order **tất cả 1 lần** rồi không gọi thêm → "外人っぽい" / cảm giác không thoải mái.
 - Hỏi từng người drink **5 lần riêng lẻ** → mất thời gian, không đọc không khí.
 - **Quên お通し / 枝豆** ngay đầu → bàn trống = không có đệm.
-- Order món nặng (とんかつ / ステーキ) ở **締め** giai đoạn → phá flow.
+- Order món nặng (とんかつ / ステーキ) ở **締め** giai đoạn → phá nhịp.
 - Không hỏi **アレルギー / 苦手** trước → khách bị đặt vào tình huống "tôi ghét cái này nhưng đã order rồi".
 - Junior nhất bàn **không order** mà ngồi yên → bị xem là "気が利かない".
 
@@ -164,7 +164,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff tại izakaya Tokyo Yurakucho. Có 5 n
 
 **J3 — 場面把握:** Junior ở izakaya = order role, biết flow 4 bước.
 **J2 — 表現読解:** Phân biệt khi senior nói "**まとめてくれ**" (gộp bill mình trả) vs "**割り勘**" (chia đều) — xử lý phù hợp.
-**J1 — 発言聴解:** Catch 苦手 ngay khi khách thoáng nói (松本: "生牡蠣だけは…") → ghi vào CRM + xử lý không lặp lại với khách.
+**J1 — 発言聴解:** Catch 苦手 ngay khi khách thoáng nói (松本: "生牡蠣だけは…") → ghi vào kho ghi nhớ + xử lý không lặp lại với khách.
 
 ---
 

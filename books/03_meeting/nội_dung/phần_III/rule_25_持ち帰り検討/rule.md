@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Anh Ōgaki đột ngột yêu cầu giảm giá 15% ngay trong họp. Em Dũng không có authority quyết và cần consult chị Hương + anh Hà. Phải xin "持ち帰り" khéo léo.
+Anh Ōgaki đột ngột yêu cầu giảm giá 15% ngay trong họp. Em Dũng không có authority quyết và cần hỏi ý kiến chị Hương + anh Hà. Phải xin "持ち帰り" khéo léo.
 
 ---
 

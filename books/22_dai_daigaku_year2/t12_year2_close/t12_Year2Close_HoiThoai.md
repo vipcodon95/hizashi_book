@@ -1,4 +1,4 @@
-# Sách 22 · T12. Year 2 closure — prep year 3 lab + family (2年経過)
+# Sách 22 · T12. Năm 2 khép lại — prep year 3 lab + family (2年経過)
 
 > **Mục tiêu:** 4/2028 cuối. Year 2 ĐH khép. Đại 23t. Mai 23t (4 tháng thai, sinh 2/2005). Năm 2 stats: GPA 3.82, AP cert prep, 1 hackathon win, Cybozu intern, OsakaU CS Hub launch, FE → Year 3 plan: Inoue Lab join + Cybozu long intern 6-9/2028 + Hana sinh 8/2028.
 
@@ -9,7 +9,7 @@
 
 ---
 
-## Scene 1 — Cohort dinner · 25/4
+## Tình huống 1 — Cohort dinner · 25/4
 
 | Speaker | Lời thoại |
 |---|---|
@@ -21,7 +21,7 @@
 
 ---
 
-## Scene 2 — Year 2 stats summary
+## Tình huống 2 — Year 2 stats summary
 
 | Speaker | Lời thoại |
 |---|---|
@@ -41,7 +41,7 @@
 
 ---
 
-## Scene 3 — Year 3 plan announcement · 19:30
+## Tình huống 3 — Year 3 plan announcement · 19:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -58,7 +58,7 @@
 
 ---
 
-## Scene 4 — Mai update + Tony+Yumi · 27/4 thứ 6
+## Tình huống 4 — Mai update + Tony+Yumi · 27/4 thứ 6
 
 | Speaker | Lời thoại |
 |---|---|
@@ -70,7 +70,7 @@
 
 ---
 
-## Scene 5 — Đêm cuối T12 · 30/4 23:00
+## Tình huống 5 — Đêm cuối T12 · 30/4 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -82,7 +82,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

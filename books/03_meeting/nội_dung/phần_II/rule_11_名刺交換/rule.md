@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Buổi họp đầu tiên của em Linh với 大垣営業部長. Lần đầu Linh trao danh thiếp với khách Nhật cấp cao. Dũng đã brief trước.
+Buổi họp đầu tiên của em Linh với 大垣営業部長. Lần đầu Linh trao danh thiếp với khách Nhật cấp cao. Dũng đã dặn trước.
 
 ---
 

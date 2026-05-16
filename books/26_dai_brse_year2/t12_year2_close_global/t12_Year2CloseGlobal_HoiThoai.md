@@ -10,7 +10,7 @@
 
 ---
 
-## Scene 1 — Office sáng all hands · 25/3/2032 9:30
+## Tình huống 1 — Office sáng all hands · 25/3/2032 9:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -22,7 +22,7 @@
 
 ---
 
-## Scene 2 — Year 2 stats final · 31/3 standup
+## Tình huống 2 — Year 2 stats final · 31/3 standup
 
 | Speaker | Lời thoại |
 |---|---|
@@ -31,7 +31,7 @@
 
 ---
 
-## Scene 3 — TOPIK partnership signed celebration · Khoảnh khắc 15/3 in retrospect
+## Tình huống 3 — TOPIK partnership signed celebration · Khoảnh khắc 15/3 in retrospect
 
 | Speaker | Lời thoại |
 |---|---|
@@ -41,7 +41,7 @@
 
 ---
 
-## Scene 4 — Series B prep discuss · Cuối tháng 3
+## Tình huống 4 — Series B prep discuss · Cuối tháng 3
 
 | Speaker | Lời thoại |
 |---|---|
@@ -53,7 +53,7 @@
 
 ---
 
-## Scene 5 — Mai start part-time tour guide · 1/4/2032
+## Tình huống 5 — Mai start part-time tour guide · 1/4/2032
 
 | Speaker | Lời thoại |
 |---|---|
@@ -67,7 +67,7 @@
 
 ---
 
-## Scene 6 — Đại Year 2 personal reflection · 31/3 23:00 nhật ký
+## Tình huống 6 — Đại Year 2 personal reflection · 31/3 23:00 nhật ký
 
 | Speaker | Lời thoại |
 |---|---|
@@ -75,7 +75,7 @@
 
 ---
 
-## Scene 7 — Đêm Đại+Mai+Hana+Đông 4 người · 23:30
+## Tình huống 7 — Đêm Đại+Mai+Hana+Đông 4 người · 23:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -91,7 +91,7 @@
 
 ---
 
-## Scene 8 — Year 2 closure quote · 31/3/2032 23:55
+## Tình huống 8 — Year 2 closure quote · 31/3/2032 23:55
 
 | Speaker | Lời thoại |
 |---|---|
@@ -99,28 +99,28 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
-| Year 2 close | イヤートゥークローズ | Year 2 close |
-| ARR | エーアールアール | Annual Recurring Revenue |
-| Series B | シリーズビー | Series B funding |
-| IPO | アイピーオー | Initial Public Offering |
-| 上場 | じょうじょう | Listing (stock market) |
-| 東京スタンダード | とうきょうスタンダード | Tokyo Standard market |
-| パートタイム復帰 | パートタイムふっき | Part-time return |
-| 第3子計画 | だいさんしけいかく | 3rd child plan |
-| Hizashi family | ヒザシファミリー | Hizashi family (people + community) |
-| Parallel growth | パラレルグロース | Parallel growth |
+| Year 2 close | イヤートゥークローズ | Khép lại năm 2 |
+| ARR | エーアールアール | Doanh thu định kỳ hàng năm |
+| Series B | シリーズビー | Vòng gọi vốn Series B |
+| IPO | アイピーオー | Phát hành cổ phiếu lần đầu ra công chúng |
+| 上場 | じょうじょう | Niêm yết (thị trường chứng khoán) |
+| 東京スタンダード | とうきょうスタンダード | Sàn Tokyo Standard |
+| パートタイム復帰 | パートタイムふっき | Quay lại làm việc bán thời gian |
+| 第3子計画 | だいさんしけいかく | Kế hoạch con thứ 3 |
+| Hizashi family | ヒザシファミリー | Cộng đồng Hizashi (nhân viên + người dùng) |
+| Parallel growth | パラレルグロース | Tăng trưởng song song |
 
 ## Bí quyết chương
 
-- **Year 2 stats: 5x ARR growth** (¥18M → ¥87.9M) trong 12 tháng = compound multi-language + Series A
-- **TOPIK partnership 47% sign-up jump KR market** = strategic partnership multiplier
-- **52 months runway theoretical** = Series A oversubscribed + cash flow positive
-- **Series B prep timeline 9 months** post Series A close = healthy pace
-- **Đại Year 2 lessons 10 points distilled** = founder maturity Year 2 reflection
-- **Hizashi family + Hizashi company parallel growth** = personal + business align long-term
+- **Thống kê Year 2: tăng trưởng ARR 5 lần** (¥18M → ¥87.9M) trong 12 tháng = cộng hưởng đa ngôn ngữ + Series A
+- **Hợp tác TOPIK giúp đăng ký thị trường Hàn tăng 47%** = đòn bẩy nhân từ quan hệ đối tác chiến lược
+- **Runway lý thuyết 52 tháng** = Series A vượt mức đăng ký + dòng tiền dương
+- **Lịch trình chuẩn bị Series B 9 tháng** sau close Series A = nhịp độ lành mạnh
+- **10 bài học Year 2 của Đại** = phản ánh sự trưởng thành của founder năm 2
+- **Hizashi gia đình + Hizashi công ty tăng trưởng song song** = cá nhân và kinh doanh cùng hướng dài hạn
 
-> *"Year 2 close: ARR ¥87.9M (5x), team 10, Series A ¥230M funded, TOPIK signed, 経営・管理 visa 5y. Đông sinh 18/12, Hana 3.7t. Mai start part-time 1/4/2032. Year 3 plan Series B ¥800M + 25 team. Series Đại sách 14-26 closure. Cuộc đời mình tươi đẹp."*
+> *"Khép lại Year 2: ARR ¥87.9M (5x), team 10, Series A ¥230M, TOPIK đã ký, visa 経営・管理 5 năm. Đông sinh 18/12, Hana 3,7 tuổi. Mai bắt đầu bán thời gian 1/4/2032. Kế hoạch Year 3: Series B ¥800M + team 25 người. Khép lại series Đại sách 14-26. Cuộc đời mình tươi đẹp."*

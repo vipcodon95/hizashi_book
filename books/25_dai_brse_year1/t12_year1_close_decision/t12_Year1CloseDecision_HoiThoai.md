@@ -10,7 +10,7 @@
 
 ---
 
-## Scene 1 — Sáng 25/3 Mai test pregnancy · 7:00
+## Tình huống 1 — Sáng 25/3 Mai test pregnancy · 7:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -27,7 +27,7 @@
 
 ---
 
-## Scene 2 — Đại báo Hizashi cofounder · Standup 21:00
+## Tình huống 2 — Đại báo Hizashi cofounder · Standup 21:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -40,7 +40,7 @@
 
 ---
 
-## Scene 3 — Hizashi MRR check · Cuối March
+## Tình huống 3 — Hizashi MRR check · Cuối March
 
 | Speaker | Lời thoại |
 |---|---|
@@ -50,7 +50,7 @@
 
 ---
 
-## Scene 4 — Farewell Thanh Hà 送別会 izakaya Honmachi · 31/3 19:00
+## Tình huống 4 — Farewell Thanh Hà 送別会 izakaya Honmachi · 31/3 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -69,7 +69,7 @@
 
 ---
 
-## Scene 5 — Cohort 2nd round bar · 21:30
+## Tình huống 5 — Cohort 2nd round bar · 21:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -83,7 +83,7 @@
 
 ---
 
-## Scene 6 — Đại về nhà 23:00
+## Tình huống 6 — Đại về nhà 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -95,7 +95,7 @@
 
 ---
 
-## Scene 7 — Year 1 reflection deep · 23:30 nhật ký
+## Tình huống 7 — Year 1 reflection deep · 23:30 nhật ký
 
 | Speaker | Lời thoại |
 |---|---|
@@ -104,7 +104,7 @@
 
 ---
 
-## Scene 8 — 1/4/2031 sáng — Hizashi full-time Day 1 · 8:00
+## Tình huống 8 — 1/4/2031 sáng — Hizashi full-time Day 1 · 8:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -118,7 +118,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -137,11 +137,11 @@
 
 ## Bí quyết chương
 
-- **Mai pregnancy positive 25/3/2031**: Foreshadow sách 26 plot
-- **Year 1 stats summary**: BrSE + Hizashi + Family + Personal 4 dimensions
-- **¥120M revenue Đại đóng góp Thanh Hà** = ROI cho Thanh Hà cho việc trả ¥4.86M (12 tháng intern + BD BrSE)
-- **送別会 cohort 14 người + 2nd round**: Network sustain post-quit
-- **Day 1 full-time CEO bữa sáng đặc biệt**: Family ritual quan trọng
-- **Closure Year 1 → Year 2 mở đầu sách 26**: Series cohesive
+- **Mai có thai 25/3/2031**: báo trước cốt truyện sách 26
+- **Tổng kết Năm 1**: 4 chiều BrSE + Hizashi + Gia đình + Cá nhân
+- **¥120M doanh thu Đại đóng góp cho Thanh Hà** = hoàn toàn xứng với ¥4.86M chi phí nhân sự 12 tháng
+- **送別会 14 người + tiếp tục buổi 2**: duy trì mạng lưới quan hệ sau khi nghỉ việc
+- **Bữa sáng đặc biệt Ngày đầu CEO toàn thời gian**: nghi lễ gia đình quan trọng
+- **Khép Năm 1 → mở đầu sách 26**: mạch truyện liền mạch
 
-> *"Year 1 sau ĐH closure. Mai pregnant bé 2! Hizashi MRR ¥2.01M. Quit Thanh Hà 31/3 farewell 14 người. ¥120M revenue đóng góp. 4 boundary promises maintained. Day 1 full-time CEO 1/4/2031. Mai cravat đỏ. Sách 26 mở đầu."*
+> *"Khép Năm 1 sau đại học. Mai có thai bé 2! Hizashi MRR ¥2.01M. Nghỉ Thanh Hà 31/3 tiệc chia tay 14 người. Đóng góp ¥120M doanh thu. 4 lời hứa ranh giới cá nhân giữ vững. Ngày đầu CEO toàn thời gian 1/4/2031. Mai trao cà vạt đỏ. Sách 26 mở đầu."*

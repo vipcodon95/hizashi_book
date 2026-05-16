@@ -9,14 +9,14 @@
 ## 💡 Bí quyết tổng
 
 - Host khách JP khó hơn đi onsite Nhật. Vai trò ngược: bạn là người plan + execute mọi thứ.
-- Khách JP shock nhẹ với HCMC: traffic, nhiệt độ, đồ ăn cay, cúp điện. Coach trước qua mail.
+- Khách JP ngạc nhiên / choáng nhẹ với HCMC: traffic, nhiệt độ, đồ ăn cay, cúp điện. Coach trước qua mail.
 - MoU Phase 5 sign trong day 3 — formal ceremony nhỏ, không over the top.
 - Cân bằng business / cultural experience — không over schedule, để khách tự choose 1-2 hoạt động cuối ngày.
 - Junior trong cty bạn (Linh, Hải) là 'inside team' — coach họ về khách như Tuấn coach Dũng ở các chương trước.
 
 ---
 
-## Scene 1 — Mon 18:00 · Sân bay Tân Sơn Nhất arrival, terminal 2
+## Tình huống 1 — Mon 18:00 · Sân bay Tân Sơn Nhất arrival, terminal 2
 
 *Dũng + Linh đến đón, cầm bảng đón A4 in laser. Trời HCMC nóng 32°C tháng 11. Đoàn JP từ cửa quốc tế ra, mặt mệt. Bảng đón Dũng cầm có lỗi typo '白鵬' thay vì '白鷗' (sumo champion vs Hakuō company).*
 
@@ -62,9 +62,9 @@ Cty Nhật phổ biến hay confuse kanji:
 
 ---
 
-## Scene 2 — Mon 19:30 · Xe van 8 chỗ từ sân bay về quận 1 (45 phút giờ tan tầm)
+## Tình huống 2 — Mon 19:30 · Xe van 8 chỗ từ sân bay về quận 1 (45 phút giờ tan tầm)
 
-*Xe Innova Toyota của cty thuê, máy lạnh mạnh. Đoàn JP ngồi đầy. Traffic 18:30 sân bay TSN → quận 1 đông kinh khủng. Mật độ xe máy shock người Nhật.*
+*Xe Innova Toyota của cty thuê, máy lạnh mạnh. Đoàn JP ngồi đầy. Traffic 18:30 sân bay TSN → quận 1 đông kinh khủng. Mật độ xe máy khiến người Nhật choáng.*
 
 | Speaker | Câu |
 |---------|-----|
@@ -80,15 +80,15 @@ Cty Nhật phổ biến hay confuse kanji:
 | **ズン** | 「はい、ホテルから徒歩5分のレストラン予約してます。20:30開始、軽めで、明日に響かないよう設計してます。」<br>*Vâng, em đặt nhà hàng cách khách sạn đi bộ 5 phút. 20:30 bắt đầu, nhẹ thôi, thiết kế để không ảnh hưởng ngày mai.* |
 
 
-### 💡 Bí quyết — Khách JP shock với HCMC — anticipate + explain calm
+### 💡 Bí quyết — Khách JP choáng với HCMC — anticipate + explain calm
 
-Khách JP first time HCMC thường shock 3 thứ:
+Khách JP first time HCMC thường choáng 3 thứ:
 1. **Mật độ xe máy** — explain con số (7 triệu) + an toàn ngầm.
 2. **Nhiệt độ + độ ẩm** — báo trước qua mail, nhắc dress code.
 3. **Cúp điện** (sẽ scene 4) — báo trước.
 
 Cách handle:
-- ✅ **Pre-trip mail** 1 tuần trước, attached PDF 'HCMC Survival Tips' — preempt shock.
+- ✅ **Pre-trip mail** 1 tuần trước, attached PDF 'HCMC Survival Tips' — preempt bất ngờ.
 - ✅ **In-moment**: cười + giải thích calm — không apologize cho Việt Nam.
 - ✅ **Khi khách hỏi**, share **văn hóa logic** (không phải defend hay critique). Dũng giải thích 'nhịp ngầm' = đúng tone.
 - ❌ Đừng over-apologize 'Việt Nam underdeveloped sorry' — khách JP coi là disrespect cho VN.
@@ -96,7 +96,7 @@ Cách handle:
 
 ---
 
-## Scene 3 — Mon 20:30 · Welcome dinner — Quán Cuc Gach Quan (quận 1)
+## Tình huống 3 — Mon 20:30 · Welcome dinner — Quán Cuc Gach Quan (quận 1)
 
 *Nhà hàng Việt truyền thống decoration sàn nhà cổ, đèn vàng. Hương + Tuấn + Hà CTO + Dũng + Linh đại diện Thiên Phát. Order menu chuẩn: gỏi cuốn, cá kho, canh chua, cơm. Tanaka ăn chay (lần đầu Dũng biết).*
 
@@ -148,7 +148,7 @@ Mistake Dũng = không ask dietary trước. Cần improve:
 
 ---
 
-## Scene 4 — Tue 09:00 · Văn phòng Thiên Phát quận 7
+## Tình huống 4 — Tue 09:00 · Văn phòng Thiên Phát quận 7
 
 *Office tầng 12 tòa Saigon Pearl. Tour office 1 tiếng. Đến phòng meeting lớn 11:00 — đột ngột mất điện 5 phút (cúp điện luân phiên). Máy phát chạy lại sau 3 phút.*
 
@@ -185,8 +185,8 @@ Mistake Dũng = không ask dietary trước. Cần improve:
 
 Cúp điện HCMC là chuyện thật, nhiều khách JP sẽ encounter. Cách handle:
 - ✅ **Pre-brief in welcome packet**: 'HCMC monthly planned outage — our office has backup generator, AWS Singapore for production server.'
-- ✅ **In-moment calm**: Hà CTO + Dũng calm explain → khách shock turn into ấn tượng (Matsumoto: 'quen rồi nhỉ').
-- ✅ **Pivot to BCP narrative**: 'mỗi tháng simulation, Phase 5 trên AWS Singapore' = BCP story.
+- ✅ **In-moment calm**: Hà CTO + Dũng calm explain → khách choáng turn into ấn tượng (Matsumoto: 'quen rồi nhỉ').
+- ✅ **Chuyển hướng sang câu chuyện BCP**: 'mỗi tháng simulation, Phase 5 trên AWS Singapore' = BCP story.
 - ✅ **Junior ngoài lề support** (Linh đèn pin + trà) = team coordination tốt.
 - ❌ Đừng panic / over-apologize — biến vấn đề bình thường thành crisis.
 
@@ -195,7 +195,7 @@ Cúp điện = unique selling point cho VN cty: 'BCP-tested infrastructure'.
 
 ---
 
-## Scene 5 — Tue 11:00 · Phòng họp lớn
+## Tình huống 5 — Tue 11:00 · Phòng họp lớn
 
 *Workshop Phase 5 kickoff 2 tiếng. Slide deck Tuấn chuẩn bị tiếng Anh — đoàn JP đề nghị JP. Dũng phải dịch live giữa chừng.*
 
@@ -240,7 +240,7 @@ Khách đề nghị translate live = uncomfortable nhưng important moment:
 
 ---
 
-## Scene 6 — Tue 12:30 · Phở quán bình dân gần office
+## Tình huống 6 — Tue 12:30 · Phở quán bình dân gần office
 
 *Quán phở 2 tầng, bàn nhựa đỏ. Đoàn JP + Dũng + Linh + Tuấn ngồi tầng 2. Order phở bò + 1 phở gà cho Tanaka (chay không có nên Hương đề xuất Tanaka order phở chay sang quán khác — Tanaka từ chối, ăn bún rau).*
 
@@ -270,7 +270,7 @@ Dẫn khách JP quán bình dân thay vì restaurant cao cấp = dấu hiệu tr
 
 ---
 
-## Scene 7 — Tue 18:00 · Rooftop bar Saigon Saigon (Caravelle Hotel) view sông Saigon
+## Tình huống 7 — Tue 18:00 · Rooftop bar Saigon Saigon (Caravelle Hotel) view sông Saigon
 
 *Rooftop bar nổi tiếng quận 1, view rooftop 360°. Đoàn JP + Hương + Dũng + Tuấn order beer + cocktail. Trời mưa to bất ngờ 18:30 — phải dồn vào trong, không view nữa.*
 
@@ -295,10 +295,10 @@ Dẫn khách JP quán bình dân thay vì restaurant cao cấp = dấu hiệu tr
 *[19:15 mưa tạnh hẳn. Đoàn ra rooftop lại — mặt trời lặn rực rỡ ngang Saigon River. Không có cầu vồng nhưng sky orange-pink. Đoàn JP đứng chụp ảnh 10 phút.]*
 
 
-### 💡 Bí quyết — Mưa bất ngờ = pivot smooth
+### 💡 Bí quyết — Mưa bất ngờ = chuyển hướng khéo
 
 Weather chaos không control được — control mức response:
-- ✅ **Hương + Tuấn pivot ngay** — vào trong, đặt khăn + trà ấm. 30 giây action.
+- ✅ **Hương + Tuấn chuyển hướng ngay** — vào trong, đặt khăn + trà ấm. 30 giây action.
 - ✅ **Frame positive**: 'mưa Việt Nam ngắn + ấm' = unique experience, không complaint.
 - ✅ **Promise recovery** ('lát nữa quay lại view') — gives khách hope, ko stuck negative.
 - ✅ **Không over-apologize** — Hương 'xin lỗi' 1 câu là đủ, không lặp.
@@ -307,7 +307,7 @@ Weather chaos không control được — control mức response:
 
 ---
 
-## Scene 8 — Wed 08:30 · Văn phòng Thiên Phát — phòng họp tech
+## Tình huống 8 — Wed 08:30 · Văn phòng Thiên Phát — phòng họp tech
 
 *Day 2. Deep dive technical. Hai (DevOps Tien Phat) + Sasaki (dev Hakuō) bàn về AWS architecture. Tanaka không follow tech English kịp — Dũng phải pause translate giữa chừng.*
 
@@ -343,7 +343,7 @@ Tech meeting với khách JP có 2 nhóm: senior tech (Sasaki) + senior PM (Tana
 
 ---
 
-## Scene 9 — Wed 12:00 · Cơm tấm quán bình dân gần office
+## Tình huống 9 — Wed 12:00 · Cơm tấm quán bình dân gần office
 
 *Lunch street food. Cơm tấm sườn nướng + chả + bì. Hayashi (sales junior 28t Tokyo) ăn cay không hợp — nước mắm chấm hơi ngọt cay. Dũng gọi nước dừa cứu.*
 
@@ -383,7 +383,7 @@ Khách JP first time street food → đôi khi gặp accident cay. Cách handle:
 
 ---
 
-## Scene 10 — Wed 15:00 · Phòng Hà CTO — meeting executive
+## Tình huống 10 — Wed 15:00 · Phòng Hà CTO — meeting executive
 
 *1-on-1 Matsumoto + Hà CTO 1 tiếng. Dũng làm note-taker, lần đầu vào meeting executive level. Bàn 2 ghế đối diện. Dũng ngồi góc, gõ MacBook.*
 
@@ -425,7 +425,7 @@ Junior được vào executive meeting làm note-taker = signal trust + opportun
 
 ---
 
-## Scene 11 — Wed 19:00 · Bia Saigon street stall quận 4, hải sản
+## Tình huống 11 — Wed 19:00 · Bia Saigon street stall quận 4, hải sản
 
 *Quán hải sản bình dân quận 4, ghế nhựa, bàn inox. Bia Saigon đỏ. Đoàn ăn ốc + nghêu + cua rang me. Matsumoto thử ốc hương — cay nhẹ, mê.*
 
@@ -455,7 +455,7 @@ Day 1 dinner (Cuc Gach) = formal. Day 2 dinner (street stall) = informal trust s
 
 ---
 
-## Scene 12 — Thu 09:00 · Phòng họp lớn Thiên Phát
+## Tình huống 12 — Thu 09:00 · Phòng họp lớn Thiên Phát
 
 *Day 3, MoU Phase 5 ceremony. Setup: cờ VN + cờ JP nhỏ trên bàn, 2 cuốn MoU bilingual đã in. Hương đứng đọc highlights MoU 5 phút trước khi sign. Đoàn JP + cty Thiên Phát 10 người formal.*
 
@@ -493,7 +493,7 @@ Sign MoU = moment quan trọng nhưng không cần over the top:
 
 ---
 
-## Scene 13 — Thu 17:00 · Sân bay Tân Sơn Nhất departure
+## Tình huống 13 — Thu 17:00 · Sân bay Tân Sơn Nhất departure
 
 *Tiễn đoàn. Dũng + Linh + Tuấn + Hương ra sân bay. Đoàn JP check-in xong, đi vào security. Dũng đưa omiyage cuối cho Matsumoto — cà phê G7 + bánh dừa Bến Tre. Matsumoto hơi lúng túng vì 'hôm trước Hương đã đưa rồi'.*
 
@@ -543,7 +543,7 @@ Mistake Dũng = không coordinate omiyage với Hương. Bài học:
 2026-11-XX  Host 白鷗 5名 visit HCMC 3 days
 
 5 wins:
-1. Cúp điện Tue 11h — Hà CTO + em pivot calm, BCP narrative,
+1. Cúp điện Tue 11h — Hà CTO + em chuyển hướng bình tĩnh, câu chuyện BCP,
    Matsumoto ấn tượng 'quen rồi nhỉ'.
 2. MoU Thu 09h sign smooth, ceremony 30 phút, không over.
 3. Wed 19h street stall ốc hương — Matsumoto mê,
@@ -564,7 +564,7 @@ Mistake Dũng = không coordinate omiyage với Hương. Bài học:
 Action items week tới:
 - [ ] Mai gửi mail report 3 days cho tất cả 5 khách JP + Hà CTO
 - [ ] Note dietary form template cho host pre-trip — share team
-- [ ] Note BCP narrative — viết case study 1-page bán cho khách JP khác
+- [ ] Note câu chuyện BCP — viết case study 1-page bán cho khách JP khác
 - [ ] Send ảnh Linh chụp ceremony cho team Hakuō (download Google Drive)
 - [ ] Follow up MoU Phase 5 — kickoff schedule formal tuần sau
 - [ ] Đặt Cuc Gach Quan + Saigon Saigon cho lần khách JP visit kế

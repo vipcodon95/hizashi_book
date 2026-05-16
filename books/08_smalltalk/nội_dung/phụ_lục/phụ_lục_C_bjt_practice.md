@@ -246,7 +246,7 @@
 - D. 「日本のコーヒーの方が美味しい」と話題を逸らす
 
 **Đáp án:** B
-**Giải thích:** Phá định kiến robusta = industrial bằng fact #1 world + Fine Robusta. A sai (chủ yếu robusta); C củng cố định kiến; D né topic + so sánh negative.
+**Giải thích:** Phá định kiến robusta = industrial bằng thông tin #1 thế giới + Fine Robusta. A sai (chủ yếu robusta); C củng cố định kiến; D né topic + so sánh negative.
 
 **J3-25** *(Rule 08, 場面把握)*: 「来年1月にハノイ出張、半袖でいいよね?」と聞かれたら最も適切な返答は?
 
@@ -256,7 +256,7 @@
 - D. 「日本の冬よりは暖かいですよ」と曖昧にする
 
 **Đáp án:** B
-**Giải thích:** Phá định kiến rõ ràng + advise concrete = trách nhiệm với khách. A/C/D dẫn đến khách mặc sai onsite.
+**Giải thích:** Phá định kiến rõ ràng + lời khuyên cụ thể = trách nhiệm với khách. A/C/D dẫn đến khách mặc sai onsite.
 
 **J3-26** *(Rule 08, 場面把握)*: Foodブロガーの客がホーチミン3日間の予定を聞いた時、最も良い構成は?
 
@@ -266,7 +266,7 @@
 - D. ブイビエンストリートで毎晩
 
 **Đáp án:** B
-**Giải thích:** Match audience food blogger = market + local + cafe trend. A senior; C nhầm city; D nightlife trẻ.
+**Giải thích:** Match đối tượng food blogger = market + local + cafe trend. A senior; C nhầm city; D khu phố đêm trẻ.
 
 **J3-27** *(Rule 08, 場面把握)*: 「9月2日は何の祝日?」と聞かれた時、最も適切な返答は?
 
@@ -276,7 +276,7 @@
 - D. 「特に意味はないです」
 
 **Đáp án:** B
-**Giải thích:** Stick fact + 連休 + 帰省 + bridge SW. A vùng cấm chính trị; C né cứng nhắc; D nói dối.
+**Giải thích:** Thông tin cụ thể + 連休 + 帰省 + kết nối với SW. A vùng cấm chính trị; C né cứng nhắc; D nói dối.
 
 **J3-28** *(Rule 08, 場面把握)*: ハノイ出張中の若手客が『居酒屋っぽいところある?』と言った時、最も適切な提案は?
 
@@ -296,7 +296,7 @@
 - D. ホームステイ4泊
 
 **Đáp án:** B
-**Giải thích:** Senior couple = scenic + experiential + comfort. A nightlife sai audience; C beach + nightlife trẻ; D quá rural cho người không quen.
+**Giải thích:** Senior couple = scenic + experiential + comfort. A khu phố đêm sai đối tượng; C beach + khu phố đêm trẻ; D quá rural cho người không quen.
 
 **J3-30** *(Rule 08, 場面把握)*: 5名で居酒屋に座った直後、最若手として最も適切な行動は?
 
@@ -306,7 +306,7 @@
 - D. 全員に1人ずつ何が飲みたいか聞き続ける
 
 **Đáp án:** B
-**Giải thích:** Junior = order role, confirm 1 lần + pattern mặc định 'とりあえずビール' + mồi ngay. A self-focus; C miss role; D mất thời gian + 空気読めない.
+**Giải thích:** Junior = vai trò gọi món, confirm 1 lần + công thức mặc định 'とりあえずビール' + mồi ngay. A self-focus; C miss role; D mất thời gian + 空気読めない.
 
 **J3-31** *(Rule 08, 場面把握)*: 乾杯の時、最若手として最も適切なグラスの位置は?
 
@@ -326,7 +326,7 @@
 - D. 「いや、もう疲れたので」と私的理由で断る
 
 **Đáp án:** B
-**Giải thích:** Junior scan + report + defer = pro. A miss bonding; C tự đề xuất sai role; D thiếu sức bền.
+**Giải thích:** Junior nhìn bàn + báo lại + nhường senior = chuyên nghiệp. A miss bonding; C tự đề xuất sai role; D thiếu sức bền.
 
 **J3-33** *(Rule 08, 場面把握)*: カラオケに入ったばかりの時、最若手の最適な行動は?
 
@@ -336,7 +336,7 @@
 - D. 英語の難しい曲を選ぶ
 
 **Đáp án:** B
-**Giải thích:** Junior warmup phòng = pro. Bài 90s safe + ai cũng biết. A senior phải start awkward; C không hợp tác; D hát yếu hơn.
+**Giải thích:** Junior khởi động phòng = chuyên nghiệp. Bài 90s an toàn + ai cũng biết. A senior phải start lúng túng; C không hợp tác; D hát yếu hơn.
 
 **J3-34** *(Rule 08, 場面把握)*: Senior に『もう一杯どう?』と勧められたが、もう十分の時、最も適切な返答は?
 
@@ -386,7 +386,7 @@
 - D. 自分の会社の業績を確認
 
 **Đáp án:** B
-**Giải thích:** 3 min CRM review = top investment. A miss; C miss; D miss audience prep.
+**Giải thích:** 3 phút ôn kho ghi nhớ = đầu tư hàng đầu. A miss; C miss; D sai đối tượng.
 
 **J3-39** *(Rule 08, 場面把握)*: 雑談セッション後の振り返り、最適なフレームは?
 
@@ -396,7 +396,7 @@
 - D. 何もしない
 
 **Đáp án:** B
-**Giải thích:** Framework concrete = actionable. A vague; C binary; D miss skill compound.
+**Giải thích:** Khuôn mẫu cụ thể = áp dụng được ngay. A vague; C binary; D miss skill compound.
 
 **J3-40** *(Rule 09, 場面把握)*: 東京で7月、湿度80%・気温33度の日に最も適切な天気の表現はどれですか?
 
@@ -778,7 +778,7 @@
 - D. 「中国の真似です」
 
 **Đáp án:** B
-**Giải thích:** So sánh trục tâm điểm (祖先 vs 次世代) → khách Nhật instant phân biệt. A sai; C arrogant; D nhạy cảm.
+**Giải thích:** So sánh trục tâm điểm (祖先 vs 次世代) → khách Nhật instant phân biệt. A sai; C kiêu ngạo; D nhạy cảm.
 
 **J2-28** *(Rule 08, 表現読解)*: 広島出身のお客様にHCMの和食を勧める時、最も加点になるのは?
 
@@ -808,7 +808,7 @@
 - D. 「日本人は何でも食べると思ってました」と返す
 
 **Đáp án:** B
-**Giải thích:** Acknowledge + handle silently với 店員 = pro. Memory bank ghi vào CRM. A miss; C overreact; D xúc phạm.
+**Giải thích:** Acknowledge + handle silently với 店員 = chuyên nghiệp. Ghi vào kho ghi nhớ. A miss; C overreact; D xúc phạm.
 
 **J2-31** *(Rule 08, 表現読解)*: お客様のグラスが残り1/3になった時の最適な行動は?
 
@@ -848,7 +848,7 @@
 - D. 別の話題に強引に変える
 
 **Đáp án:** B
-**Giải thích:** Care concern cover-up = defuse + escort path. A đồng lõa; C xúc phạm đồng nghiệp; D awkward.
+**Giải thích:** Ngắt nhẹ bằng quan tâm = giải tỏa + mở đường tiễn về. A đồng lõa; C xúc phạm đồng nghiệp; D ngượng ngùng.
 
 **J2-35** *(Rule 08, 表現読解)*: 出身地について深掘りする時の最適なfollow-upは?
 
@@ -878,7 +878,7 @@
 - D. ベトナムの天気を長く話す
 
 **Đáp án:** B
-**Giải thích:** Exact NHK vocab + care concern → đẳng cấp 'biết Nhật thật'. A flat; C self-talk; D miss audience.
+**Giải thích:** Exact NHK vocab + quan tâm sức khỏe → đẳng cấp 'biết Nhật thật'. A flat; C self-talk; D sai đối tượng.
 
 **J2-38** *(Rule 08, 表現読解)*: memory bankを活用する時のNG行為は?
 
@@ -888,7 +888,7 @@
 - D. プライベートすぎる質問をする
 
 **Đáp án:** B
-**Giải thích:** Trick câu: 全 NG nhưng B (overdo) ít rõ nhất. Pattern dùng 1-2 fact = vừa đủ. (B/C/D đều NG, chọn B vì rõ là 'over-use')
+**Giải thích:** Trick câu: 全 NG nhưng B (overdo) ít rõ nhất. Công thức dùng 1-2 thông tin = vừa đủ. (B/C/D đều NG, chọn B vì rõ là 'over-use')
 
 **J2-39** *(Rule 08, 表現読解)*: MISS項目の書き方として最適なのは?
 
@@ -898,7 +898,7 @@
 - D. 「次は完璧にする」
 
 **Đáp án:** B
-**Giải thích:** Concrete fact + concrete next action = actionable. A/D vague; C demotivate.
+**Giải thích:** Chi tiết cụ thể + hành động cụ thể = áp dụng được ngay. A/D vague; C demotivate.
 
 **J2-40** *(Rule 09, 表現読解)*: 北海道出身のお客様に「梅雨入りしましたか?」と聞いた場合、最も予想される反応は?
 
@@ -1330,7 +1330,7 @@
 - D. お酒のおかわりを店員に頼む
 
 **Đáp án:** B
-**Giải thích:** Senior 内心 hé lộ = moment quý → listen, react gọn, KHÔNG cướp lời. A phá; C arrogant; D miss moment.
+**Giải thích:** Senior 内心 hé lộ = moment quý → listen, react gọn, KHÔNG cướp lời. A phá; C kiêu ngạo; D miss moment.
 
 **J1-33** *(Rule 08, 発言聴解)*: ベトナム人junior が『日本の歌歌えない』と言った時、最適な対応は?
 
@@ -1340,7 +1340,7 @@
 - D. 自分がもう一曲歌う
 
 **Đáp án:** B
-**Giải thích:** Junior VN nervous → bridge VN song + explain → khách JP thấy thú vị. A skip miss bonding; C pressure; D ép junior tan.
+**Giải thích:** Junior VN nervous → kết nối bằng bài VN + giải thích → khách JP thấy thú vị. A skip miss bonding; C pressure; D ép junior tan.
 
 **J1-34** *(Rule 08, 発言聴解)*: 翌朝の信頼回復で、最も効果的な行動は?
 
@@ -1350,7 +1350,7 @@
 - D. 昨日のことを話題にしない
 
 **Đáp án:** B
-**Giải thích:** Sáng hôm sau = test thực sự. Sharp + thanks + escort report + work-ready = đẳng cấp. A miss; C unprofessional; D awkward.
+**Giải thích:** Sáng hôm sau = test thực sự. Sharp + thanks + báo cáo đã tiễn + work-ready = đẳng cấp. A miss; C unprofessional; D ngượng ngùng.
 
 **J1-35** *(Rule 08, 発言聴解)*: 5分で複数のGOLD topicを使う時の最適なbridgeパターンは?
 
@@ -1360,7 +1360,7 @@
 - D. 沈黙する
 
 **Đáp án:** B
-**Giải thích:** Bridge giữa topic khi flat → flow tự nhiên. A có thể dead-end; C không bonding; D awkward.
+**Giải thích:** Chuyển giữa topic khi nhịp chậm → mạch tự nhiên. A có thể dead-end; C không gắn kết; D ngượng ngùng.
 
 **J1-36** *(Rule 08, 発言聴解)*: ベトナム人junior が日本人女性のお客様に年齢を聞いた時、最適なrescueは?
 
@@ -1370,7 +1370,7 @@
 - D. 完全に無視する
 
 **Đáp án:** B
-**Giải thích:** Educate VN khéo + bridge văn hóa = save 3 bên. A xúc phạm junior; C đổ thêm dầu; D awkward.
+**Giải thích:** Giải thích khéo cho junior VN + chuyển sang chủ đề văn hóa = save 3 bên. A xúc phạm junior; C đổ thêm dầu; D ngượng ngùng.
 
 **J1-37** *(Rule 08, 発言聴解)*: 1回の雑談で、ニュースから引用するfact数として最適なのは?
 
@@ -1380,7 +1380,7 @@
 - D. 10個以上
 
 **Đáp án:** B
-**Giải thích:** 1-2 fact = vừa đủ + audience nhớ. A khoe; C miss cơ hội; D arrogant.
+**Giải thích:** 1-2 thông tin = vừa đủ + đối tượng nhớ. A khoe; C miss cơ hội; D kiêu ngạo.
 
 **J1-38** *(Rule 08, 発言聴解)*: 半年前のお客様の発言を正確にreferenceできた時の効果は?
 
@@ -1390,7 +1390,7 @@
 - D. 効果はない
 
 **Đáp án:** B
-**Giải thích:** Long memory + accurate = senior cảm nhận sâu sắc. Đây là moat #1.
+**Giải thích:** Long memory + accurate = senior cảm nhận sâu sắc. Đây là lợi thế #1.
 
 **J1-39** *(Rule 08, 発言聴解)*: 100回 dinner後、累積効果として最も期待されるのは?
 

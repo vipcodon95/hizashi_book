@@ -1,6 +1,6 @@
 # Rule 48 — Topic LANDMINE / 地雷話題
 
-> **Luận điểm.** 10 topic LANDMINE — chạm vào = nổ. Nguy hiểm hơn cả là **tỏ ra biết** mà thực sự **không hiểu nuance**. Khi khách hỏi, biết **né khéo bằng phrase chuẩn**. Khi đồng nghiệp VN sắp chạm, **rescue ngay** trước khi khách phản ứng.
+> **Luận điểm.** 10 topic LANDMINE — chạm vào = nổ. Nguy hiểm hơn cả là **tỏ ra biết** mà thực sự **không hiểu sắc thái**. Khi khách hỏi, biết **né khéo bằng câu chuẩn**. Khi đồng nghiệp VN sắp chạm, **gỡ ngay** trước khi khách phản ứng.
 
 ---
 
@@ -39,7 +39,7 @@ Tham khảo. 2 scenarios — 1 ví dụ né khéo khi khách thử test, 1 ví d
 
 ### 📍 Scenario 1 — Khi khách thử test: chính trị TQ
 
-*夜 の 二次会, hơi say · né khéo · không push · bridge sang sport · grateful for topic shift*
+*夜 の 二次会, hơi say · né khéo · không push · chuyển sang sport · grateful for topic shift*
 
 | Speaker | Câu |
 |---------|-----|
@@ -49,18 +49,18 @@ Tham khảo. 2 scenarios — 1 ví dụ né khéo khi khách thử test, 1 ví d
 | **ズン** | 「いえいえ、**そういえば、大垣さんが以前おっしゃってた阪神の話**、今シーズンどうですか?」 |
 | **大垣** | 「あー、阪神な、今年は…(20分không khí trở lại)」 |
 
-📝【1】 **Phrase chuẩn né chính trị:** "私、政治はあまり詳しくないので…" + "色んな見方あって" + "普通の市民なので". 3 layer = né mà không xúc phạm. **Sau đó bridge sang topic thân thuộc khách** ngay (sport / quê).
+📝【1】 **Câu chuẩn né chính trị:** "私、政治はあまり詳しくないので…" + "色んな見方あって" + "普通の市民なので". 3 lớp = né mà không xúc phạm. **Sau đó chuyển sang topic thân thuộc khách** ngay (sport / quê).
 
 ---
 
 ### 📍 Scenario 2 — Rescue đồng nghiệp VN suýt nổ landmine #1 (tuổi PN)
 
-*28t junior VN, casual · face freezes 0.5s · rescue ngay, cut in · realizes · gracious · bridge an toàn · curious, mood recovers · reset*
+*28t junior VN, casual · face freezes 0.5s · gỡ ngay, ngắt vào · realizes · gracious · chuyển sang chủ đề an toàn · curious, mood recovers · reset*
 
 | Speaker | Câu |
 |---------|-----|
 | **ハイ** | 「山本さん、女性で活躍されてて素晴らしいですね。**おいくつくらいでらっしゃるんですか?**」 |
-| **山本** | 「あー、まあ…(awkward laugh)」 |
+| **山本** | 「あー、まあ…(cười ngượng)」 |
 | **ズン**【1】 | 「**ハイ、ベトナムでは普通の質問だけど、日本では女性に年齢を聞くのは控える文化なんだよ**。」 |
 | **ハイ** | 「あ、すみません!失礼しました、山本さん…」 |
 | **山本** | 「いえいえ、文化の違いですね。**ベトナムでは普通なんですか?**」 |
@@ -68,7 +68,7 @@ Tham khảo. 2 scenarios — 1 ví dụ né khéo khi khách thử test, 1 ví d
 | **山本** | 「へえ、呼び方変わるんですか!?それは知らなかった。」 |
 | **ハイ** | 「これからは気をつけます、ありがとうございます。」 |
 
-📝【1】 **Rescue 3 bước:** ① Cut in giải thích cho **đồng nghiệp VN** (không trách công khai), ② **Educate gently bằng "ở VN bình thường, ở JP khác"**, ③ **Bridge sang topic an toàn** (cultural exchange) để cả 3 bên có topic mới.
+📝【1】 **Gỡ tình huống 3 bước:** ① Ngắt vào giải thích cho **đồng nghiệp VN** (không trách công khai), ② **Giải thích nhẹ nhàng bằng "ở VN bình thường, ở JP khác"**, ③ **Chuyển sang chủ đề an toàn** (trao đổi văn hóa) để cả 3 bên có topic mới.
 
 ---
 
@@ -113,7 +113,7 @@ Tham khảo. 2 scenarios — 1 ví dụ né khéo khi khách thử test, 1 ví d
 - **KHÔNG** giải thích thêm / bào chữa → đào sâu hố.
 - **Im lặng 1 giây** → "話変わりますが…" → đổi sang topic mới.
 - **Sáng hôm sau** mail nhẹ "昨日は色々お話できて楽しかったです" → reset không khí.
-- **Học bài** — ghi vào CRM "topic này khách X dị ứng" → không lặp lại.
+- **Học bài** — ghi vào kho ghi nhớ "topic này khách X dị ứng" → không lặp lại.
 
 ---
 
@@ -139,7 +139,7 @@ Tham khảo. 2 scenarios — 1 ví dụ né khéo khi khách thử test, 1 ví d
 
 **J3 — 場面把握:** Nhận biết 10 LANDMINE topics + có phrase né chuẩn.
 **J2 — 表現読解:** Bắt sắc thái "0.5 giây freeze" của khách → đã chạm landmine, đổi topic ngay.
-**J1 — 発言聴解:** Rescue đồng nghiệp VN khi suýt nổ — educate khéo + bridge an toàn không trách công khai.
+**J1 — 発言聴解:** Gỡ cho đồng nghiệp VN khi suýt nổ — giải thích khéo + chuyển chủ đề an toàn, không trách công khai.
 
 ---
 

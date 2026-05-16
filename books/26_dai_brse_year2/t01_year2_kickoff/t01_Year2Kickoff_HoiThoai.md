@@ -11,7 +11,7 @@
 
 ---
 
-## Scene 1 — Bữa sáng đặc biệt · 7:30
+## Tình huống 1 — Bữa sáng đặc biệt · 7:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -25,7 +25,7 @@
 
 ---
 
-## Scene 2 — WeWork 23F sáng · 9:30
+## Tình huống 2 — WeWork 23F sáng · 9:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -38,7 +38,7 @@
 
 ---
 
-## Scene 3 — Day 1 Đại work flow · 10:30
+## Tình huống 3 — Day 1 Đại work flow · 10:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -48,7 +48,7 @@
 
 ---
 
-## Scene 4 — Mai OB clinic chiều · 15:30
+## Tình huống 4 — Mai OB clinic chiều · 15:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -64,7 +64,7 @@
 
 ---
 
-## Scene 5 — User research call · 17:00 WeWork
+## Tình huống 5 — User research call · 17:00 WeWork
 
 | Speaker | Lời thoại |
 |---|---|
@@ -78,7 +78,7 @@
 
 ---
 
-## Scene 6 — Đêm Đại+Mai discuss · 22:00
+## Tình huống 6 — Đêm Đại+Mai discuss · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -92,7 +92,7 @@
 
 ---
 
-## Scene 7 — Email Takahashi-san · 22:30
+## Tình huống 7 — Email Takahashi-san · 22:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -102,7 +102,7 @@
 
 ---
 
-## Scene 8 — Day 1 reflect · 23:30
+## Tình huống 8 — Day 1 reflect · 23:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -113,29 +113,29 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
-| フルタイム | フルタイム | Full-time |
-| CEO | シーイーオー | Chief Executive Officer |
-| 創業者 | そうぎょうしゃ | Founder |
-| 産婦人科 | さんふじんか | OB clinic |
-| 胎児 | たいじ | Fetus |
-| 心拍確認 | しんぱくかくにん | Heartbeat confirm |
-| 普通分娩 | ふつうぶんべん | Normal delivery |
-| ユーザーリサーチ | ユーザーリサーチ | User research |
-| Enterprise plan | エンタープライズプラン | Enterprise plan |
-| 業務提携 | ぎょうむていけい | Business partnership |
-| 多言語化 | たげんごか | Multi-language expansion |
-| OKR | オーケーアール | Objectives & Key Results |
+| フルタイム | フルタイム | Toàn thời gian |
+| CEO | シーイーオー | Giám đốc điều hành |
+| 創業者 | そうぎょうしゃ | Người sáng lập |
+| 産婦人科 | さんふじんか | Phòng khám sản phụ khoa |
+| 胎児 | たいじ | Thai nhi |
+| 心拍確認 | しんぱくかくにん | Xác nhận tim thai |
+| 普通分娩 | ふつうぶんべん | Sinh thường |
+| ユーザーリサーチ | ユーザーリサーチ | Nghiên cứu người dùng |
+| Enterprise plan | エンタープライズプラン | Gói dành cho doanh nghiệp |
+| 業務提携 | ぎょうむていけい | Hợp tác kinh doanh |
+| 多言語化 | たげんごか | Mở rộng đa ngôn ngữ |
+| OKR | オーケーアール | Mục tiêu và kết quả then chốt |
 
 ## Bí quyết chương
 
-- **Day 1 full-time founder cảm xúc**: lạ + tự do + responsibility heavy
-- **Year 2 OKR**: 4 quarters plan (v2.0 → first hire → Series A → Office expand)
-- **User research 5 calls/tuần** = standard founder discipline để stay close customer
-- **B2B Enterprise insight + Thanh Hà partnership**: Foreshadow first B2B customer
-- **Mai dự sinh 25/12/2031**: Series A close trước Christmas baby = perfect timing
+- **Day 1 full-time founder cảm xúc**: lạ + tự do + trách nhiệm nặng nề
+- **Year 2 OKR**: kế hoạch 4 quý (v2.0 → first hire → Series A → mở rộng văn phòng)
+- **Gọi điện nghiên cứu người dùng 5 lần/tuần** = kỷ luật chuẩn của founder để gần gũi khách hàng
+- **Insight B2B Enterprise + hợp tác Thanh Hà**: báo hiệu trước khách hàng B2B đầu tiên
+- **Mai dự sinh 25/12/2031**: Series A close trước bé Christmas = thời điểm hoàn hảo
 
-> *"Day 1 Hizashi full-time CEO. Mai 7w thai bé Christmas. Hana 32 tháng đi nhà trẻ. v2.0 Q1 plan. 5 user research → B2B insight. Thanh Hà Enterprise pitch sent. 30m runway. Year 2 mở đầu."*
+> *"Day 1 Hizashi full-time CEO. Mai 7w thai bé Christmas. Hana 32 tháng đi nhà trẻ. v2.0 Q1 plan. 5 lần gọi nghiên cứu người dùng → insight B2B. Đã gửi pitch hợp tác Thanh Hà Enterprise. Runway 30 tháng. Year 2 mở đầu."*

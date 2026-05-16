@@ -1,6 +1,6 @@
 # Rule 34 — Formal signature request / 調印依頼
 
-> **Luận điểm.** Final contract OK 2 bên → bước formal request signature. Câu chuẩn JP business: 「**ご署名・ご捺印いただけますでしょうか**」. KHÔNG được dùng "サイン" casual hay 「契約書送ります」 dry. Phải đi kèm: (a) lý do timing, (b) suggested method (eSignature vs print/seal), (c) deadline rõ.
+> **Luận điểm.** Final contract OK 2 bên → bước formal request signature. Câu chuẩn JP business: 「**ご署名・ご捺印いただけますでしょうか**」. KHÔNG được dùng "サイン" thông thường hay 「契約書送ります」 dry. Phải đi kèm: (a) lý do timing, (b) suggested method (eSignature vs print/seal), (c) deadline rõ.
 >
 > 最終契約合意後、調印依頼は決まり文句「ご署名・ご捺印いただけますでしょうか」で。timing・方法・期限 を 1 メールで明示する。
 >
@@ -39,7 +39,7 @@ Final contract v3 sau 3 round terms negotiation đã OK. Hà CTO ký bên Tiên 
 | **L6** | (16:30) **DocuSign 完了通知** → **ズン** *(Slack Hương)* | 「Phase 3 契約締結完了しました。Hà CTO + 大垣様 両社捺印済【4】。」 |
 
 📝 **Ghi chú:**
-- 【1】**「ご署名・ご捺印いただけますでしょうか」** = 調印依頼の決まり文句. 「サイン」 casual NG.
+- 【1】**「ご署名・ご捺印いただけますでしょうか」** = 調印依頼の決まり文句. 「サイン」 không trang trọng (casual) NG.
 - 【2】**Deadline 明示 + 理由 (キックオフ日)** = 急かしではなく合理的. 期限 1 週間以上余裕を持つ.
 - 【3】**2 method 提示** = 紙印鑑文化と eSignature 普及の混在期。選ばせると自分の都合で動ける.
 - 【4】**両社捺印済 = closure**. 内部 Slack で完了報告 → rule 37 internal kickoff へ.
@@ -56,7 +56,7 @@ Final contract v3 sau 3 round terms negotiation đã OK. Hà CTO ký bên Tiên 
 
 ## ⚠ Tránh
 
-- 「サイン」 casual → 商務文書では NG, 「ご署名・ご捺印」を使う
+- 「サイン」 không trang trọng → 商務文書では NG, 「ご署名・ご捺印」を使う
 - 件名「契約書」のみ → urgency 0
 - Deadline なし → 1-2 ヶ月放置
 - Single method (紙のみ / eSignature のみ) → 古い印鑑文化 or 新派どちらも逃す

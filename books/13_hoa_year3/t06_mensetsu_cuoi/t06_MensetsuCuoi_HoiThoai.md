@@ -8,7 +8,7 @@ Tháng 9/2028. Mensetsu cuối cùng của Hoa với tư cách TTS. Suzuki là c
 
 ---
 
-## Scene 1 — Sáng đến văn phòng · 9:00 Omiya
+## Tình huống 1 — Sáng đến văn phòng · 9:00 Omiya
 
 | Speaker | Lời thoại |
 |---|---|
@@ -20,7 +20,7 @@ Tháng 9/2028. Mensetsu cuối cùng của Hoa với tư cách TTS. Suzuki là c
 
 ---
 
-## Scene 2 — Tổng kết 3 năm · 9:15
+## Tình huống 2 — Tổng kết 3 năm · 9:15
 
 | Speaker | Lời thoại |
 |---|---|
@@ -35,7 +35,7 @@ Tháng 9/2028. Mensetsu cuối cùng của Hoa với tư cách TTS. Suzuki là c
 
 ---
 
-## Scene 3 — Vào chủ đề SSW1 · 9:30
+## Tình huống 3 — Vào chủ đề SSW1 · 9:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -54,7 +54,7 @@ Tháng 9/2028. Mensetsu cuối cùng của Hoa với tư cách TTS. Suzuki là c
 
 ---
 
-## Scene 4 — Bàn 受入機関 · 10:00
+## Tình huống 4 — Bàn 受入機関 · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -71,7 +71,7 @@ Tháng 9/2028. Mensetsu cuối cùng của Hoa với tư cách TTS. Suzuki là c
 
 ---
 
-## Scene 5 — Suzuki nhả option khác · 10:15
+## Tình huống 5 — Suzuki nhả option khác · 10:15
 
 | Speaker | Lời thoại |
 |---|---|
@@ -88,7 +88,7 @@ Tháng 9/2028. Mensetsu cuối cùng của Hoa với tư cách TTS. Suzuki là c
 
 ---
 
-## Scene 6 — Timeline cụ thể · 10:45
+## Tình huống 6 — Timeline cụ thể · 10:45
 
 | Speaker | Lời thoại |
 |---|---|
@@ -103,7 +103,7 @@ Tháng 9/2028. Mensetsu cuối cùng của Hoa với tư cách TTS. Suzuki là c
 
 ---
 
-## Scene 7 — Hỏi về 5 năm SSW1 · 11:15
+## Tình huống 7 — Hỏi về 5 năm SSW1 · 11:15
 
 | Speaker | Lời thoại |
 |---|---|
@@ -119,7 +119,7 @@ Tháng 9/2028. Mensetsu cuối cùng của Hoa với tư cách TTS. Suzuki là c
 
 ---
 
-## Scene 8 — 永住権 timeline · 11:45
+## Tình huống 8 — 永住権 timeline · 11:45
 
 | Speaker | Lời thoại |
 |---|---|
@@ -142,7 +142,7 @@ Tháng 9/2028. Mensetsu cuối cùng của Hoa với tư cách TTS. Suzuki là c
 
 ---
 
-## Scene 9 — Trưa cùng Suzuki · 12:30 quán định shoku
+## Tình huống 9 — Trưa cùng Suzuki · 12:30 quán định shoku
 
 | Speaker | Lời thoại |
 |---|---|
@@ -161,7 +161,7 @@ Tháng 9/2028. Mensetsu cuối cùng của Hoa với tư cách TTS. Suzuki là c
 
 ---
 
-## Scene 10 — Bàn về Mai · 13:30 quay lại văn phòng
+## Tình huống 10 — Bàn về Mai · 13:30 quay lại văn phòng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -178,7 +178,7 @@ Tháng 9/2028. Mensetsu cuối cùng của Hoa với tư cách TTS. Suzuki là c
 
 ---
 
-## Scene 11 — Kết thúc · 16:00
+## Tình huống 11 — Kết thúc · 16:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -193,7 +193,7 @@ Tháng 9/2028. Mensetsu cuối cùng của Hoa với tư cách TTS. Suzuki là c
 
 ---
 
-## Scene 12 — Trên train về · 17:30
+## Tình huống 12 — Trên train về · 17:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -209,7 +209,7 @@ Tháng 9/2028. Mensetsu cuối cùng của Hoa với tư cách TTS. Suzuki là c
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -225,10 +225,10 @@ Tháng 9/2028. Mensetsu cuối cùng của Hoa với tư cách TTS. Suzuki là c
 
 ## Bí quyết chương
 
-- **Suzuki nhả option転職**: Không ép. Cho thông tin cân bằng. Hoa có quyền chọn.
-- **Timeline 永住権 chính xác**: 2044 (post-fix sách 12). Suzuki giải thích TTS+SSW1 không tính 就労資格.
-- **3 thế hệ TTS-Ikusei**: Hoa SSW1, Mai năm 2 Ikusei, Trang năm 1 Ikusei. Setup cho T11+T12.
-- **Hoa đợi mẹ**: T6 setup T10. Mẹ là factor quyết định stay/go.
-- **Bandura**: Suzuki = mentor lý tính (cho thông tin), khác Tanaka mentor cảm xúc (cho ơn).
+- **Suzuki gợi ý hướng 転職**: Không ép. Cho thông tin cân bằng. Hoa có quyền chọn.
+- **Mốc thời gian 永住権 chính xác**: 2044 (sau hiệu chỉnh sách 12). Suzuki giải thích TTS+SSW1 không tính 就労資格.
+- **3 thế hệ TTS-Ikusei**: Hoa SSW1, Mai năm 2 Ikusei, Trang năm 1 Ikusei. Chuẩn bị cho T11+T12.
+- **Hoa đợi mẹ**: T6 mở đường cho T10. Mẹ là yếu tố quyết định ở lại hay về.
+- **Bandura**: Suzuki = người dẫn dắt lý tính (cho thông tin), khác Tanaka dẫn dắt cảm xúc (cho ơn nghĩa).
 
-> *"Lương vs cast. Tiền vs nhà. Đường dài vs gần. Quyết khó."*
+> *"Lương và sự nghiệp. Tiền và nhà cửa. Đường dài và đường gần. Quyết khó."*

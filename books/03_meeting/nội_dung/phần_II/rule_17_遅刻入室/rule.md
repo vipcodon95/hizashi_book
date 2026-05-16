@@ -25,7 +25,7 @@ Anh Tuấn (tech lead) bị kẹt ở meeting trước. Báo Dũng qua Slack r�
 | **トゥアン** | 「あ、でもさっき自分が報告する話、もう終わってます？」 |
 | **大垣** | *(進行が止まった…)* |
 
-**Vì sao xấu:** Vào ầm ĩ + xin update giữa họp → cả phòng phải dừng lại để brief. Mất 2-3 phút của khách. 「すみませんすみません」 lặp lại nhiều = không professional.
+**Vì sao xấu:** Vào ầm ĩ + xin update giữa họp → cả phòng phải dừng lại để brief. Mất 2-3 phút của khách. 「すみませんすみません」 lặp lại nhiều = không chuyên nghiệp.
 
 ---
 
@@ -42,7 +42,7 @@ Anh Tuấn (tech lead) bị kẹt ở meeting trước. Báo Dũng qua Slack r�
 
 📝 **Ghi chú:**
 - 【1】**「失礼いたします、遅れて申し訳ございません」** — Câu duy nhất nói khi vào. Đầy đủ rồi. Không thêm "前の会議が…" (excuse) → chia sẻ lý do qua chat ngoài giờ.
-- 【2】**「無言で資料を開き、議事に追いつく」** — đến trễ là trách nhiệm tự catch up, không phiền cả phòng.
+- 【2】**「無言で資料を開き、議事に追いつく」** — đến trễ là trách nhiệm tự theo kịp nội dung, không phiền cả phòng.
 - 【3】**「お続けください」** — cụm khiêm nhường để司会 tiếp tục. Tránh 「続けてください」 (mệnh lệnh).
 
 ---
@@ -62,7 +62,7 @@ Anh Tuấn (tech lead) bị kẹt ở meeting trước. Báo Dũng qua Slack r�
 | Biết sẽ trễ | Nhắn 司会 qua chat: "〇分遅れます、進めてください" |
 | Vào phòng | Mở cửa nhẹ, gấp người chào |
 | Câu chào | 「失礼いたします、遅れて申し訳ございません」 |
-| Ngồi xuống | Im lặng, mở tài liệu, catch up |
+| Ngồi xuống | Im lặng, mở tài liệu, theo kịp nội dung |
 | Sau họp | Cảm ơn 司会 + xin lỗi đối tác (nếu cần thêm) |
 
 ---

@@ -8,7 +8,7 @@
 
 ---
 
-## Scene 1 — Kawakami giao tutorial · 17:30 設計室
+## Tình huống 1 — Kawakami giao tutorial · 17:30 設計室
 
 | Speaker | Lời thoại |
 |---|---|
@@ -24,7 +24,7 @@
 
 ---
 
-## Scene 2 — Bắt đầu sketch · 17:45
+## Tình huống 2 — Bắt đầu sketch · 17:45
 
 | Speaker | Lời thoại |
 |---|---|
@@ -41,7 +41,7 @@
 
 ---
 
-## Scene 3 — Phức tạp hơn · 18:00
+## Tình huống 3 — Phức tạp hơn · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -56,7 +56,7 @@
 
 ---
 
-## Scene 4 — Misumi standard library · 18:15
+## Tình huống 4 — Misumi standard library · 18:15
 
 | Speaker | Lời thoại |
 |---|---|
@@ -72,7 +72,7 @@
 
 ---
 
-## Scene 5 — 1 tuần sau Thái cố · 18:30 1 tuần sau
+## Tình huống 5 — 1 tuần sau Thái cố · 18:30 1 tuần sau
 
 | Speaker | Lời thoại |
 |---|---|
@@ -88,7 +88,7 @@
 
 ---
 
-## Scene 6 — Suzuki làm magaki ban đêm cùng · 18:45
+## Tình huống 6 — Suzuki làm magaki ban đêm cùng · 18:45
 
 | Speaker | Lời thoại |
 |---|---|
@@ -103,7 +103,7 @@
 
 ---
 
-## Scene 7 — Putra hỏi về CAD · 21:00 phòng
+## Tình huống 7 — Putra hỏi về CAD · 21:00 phòng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -119,7 +119,7 @@
 
 ---
 
-## Scene 8 — Đêm reflect + plan N3 · 22:30
+## Tình huống 8 — Đêm reflect + plan N3 · 22:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -133,7 +133,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -425,7 +425,7 @@
 
 - **A) 同日中に short acknowledgment + 翌営業日に詳細版 (2段階)**
 - B) 翌週月曜に詳細版1通のみ
-- C) 1週間後に sammary
+- C) 1週間後に summary
 - D) 送らない
 
 **Đáp án:** A

@@ -3,11 +3,11 @@
   "rule_slug": "自己評価",
   "title": {
     "ja": "自己評価",
-    "vi": "Self-review checklist"
+    "vi": "Tự đánh giá sau pitch"
   },
   "rule_context": {
     "ja": "Phase 3 ピッチ翌朝。ズンは self-review skip して詳細メールに行こうとするが、フオンが12項目 rubric review を強要 → 3 strengths + 3 improvements + drill plan を抽出。",
-    "vi": "Sáng sau pitch Phase 3. Dũng định skip review để viết detailed mail. Hương yêu cầu 12-item rubric → extract 3 strengths + 3 improvements + drill plan."
+    "vi": "Sáng sau pitch Phase 3. Dũng định bỏ qua tự đánh giá để viết mail chi tiết. Hương yêu cầu chấm 12 tiêu chí → rút ra 3 điểm mạnh + 3 điểm cần cải thiện + kế hoạch luyện."
   },
   "related_rules": ["rule_28", "rule_35"],
   "conversations": [
@@ -27,7 +27,7 @@
           "speaker_role": "BD担当",
           "gender": "male",
           "sentence": "フオン副部長、月曜の詳細メール書きます。Self-review は時間取れないので skip して大丈夫ですか？",
-          "sentence_translation": "Chị Hương, em viết detailed mail thứ Hai. Self-review thì không có time, em skip có được không ạ?",
+          "sentence_translation": "Chị Hương, em viết mail chi tiết thứ Hai. Tự đánh giá thì không có thời gian, em bỏ qua được không ạ?",
           "tone": "casual"
         },
         {
@@ -36,7 +36,7 @@
           "speaker_role": "副部長",
           "gender": "female",
           "sentence": "ダメ。Self-review skip すると次の pitch も同じ間違いする。30分でいい、12項目 rubric で chấm。",
-          "sentence_translation": "Không được. Skip self-review thì pitch sau lặp đúng lỗi. 30 phút thôi, chấm theo 12-item rubric.",
+          "sentence_translation": "Không được. Bỏ tự đánh giá thì pitch sau lặp đúng lỗi. 30 phút thôi, chấm theo 12 tiêu chí.",
           "tone": "firm"
         },
         {
@@ -70,7 +70,7 @@
           "applies_to_line": "rule_34_good_01",
           "highlight_text": "12項目平均 3.8/5",
           "ja": "Quantitative score で経時比較可能。Phase 4, 5 ピッチで同 rubric 使用 → 改善曲線が見える。",
-          "vi": "Điểm số định lượng cho phép so sánh theo thời gian. Pitch Phase 4, 5 dùng cùng rubric → thấy đường cong cải thiện."
+          "vi": "Điểm số định lượng cho phép so sánh theo thời gian. Pitch Phase 4, 5 dùng cùng bảng tiêu chí → thấy đường cong cải thiện."
         },
         {
           "id": "2",
@@ -84,7 +84,7 @@
           "applies_to_line": "rule_34_good_04",
           "highlight_text": "5/2 までに hook drill＋5/8 までに bridge phrase 暗唱完了",
           "ja": "改善点に deadline + drill 必須。Review without action = wasted。",
-          "vi": "Improvement phải có deadline + drill cụ thể. Review không action = wasted."
+          "vi": "Điểm cần cải thiện phải có deadline + drill cụ thể. Đánh giá không hành động = lãng phí."
         }
       ],
       "conversation_lines": [
@@ -94,7 +94,7 @@
           "speaker_role": "BD担当",
           "gender": "male",
           "sentence": "Self-review 完了です。12項目平均 3.8/5。詳細はテンプレ添付。",
-          "sentence_translation": "Em xong self-review ạ. Trung bình 12 item là 3.8/5 ạ. Chi tiết em đính template ạ.",
+          "sentence_translation": "Em xong tự đánh giá ạ. Trung bình 12 tiêu chí là 3.8/5 ạ. Chi tiết em đính template ạ.",
           "tone": "formal",
           "annotation_ids": ["1"]
         },
@@ -136,7 +136,7 @@
       "phrase_id": "rule_34_kp_01",
       "speaker": "zun",
       "sentence": "Self-review 12項目、平均 〇/5。3 strengths と 3 improvements を抽出いたしました。",
-      "sentence_translation": "Self-review 12 item, trung bình 〇/5 ạ. Em đã extract 3 strengths và 3 improvements ạ.",
+      "sentence_translation": "Tự đánh giá 12 tiêu chí, trung bình 〇/5 ạ. Em đã rút ra 3 điểm mạnh và 3 điểm cần cải thiện ạ.",
       "purpose": "Self-review 報告標準",
       "slow_audio": true
     },
@@ -173,11 +173,11 @@
       "template_id": "rule_34_tpl_01",
       "format": "checklist",
       "title_ja": "プレゼン Self-review Rubric (12項目 / 30分)",
-      "title_vi": "Rubric Self-review Pitch (12 item / 30 phút)",
+      "title_vi": "Bảng Tiêu Chí Tự Đánh Giá Pitch (12 mục / 30 phút)",
       "content_ja": "【プレゼン Self-review チェックリスト】 (12項目 / 30分)\n\n評価: 1=要改善 / 2=不十分 / 3=平均 / 4=良好 / 5=優秀\n\n■ 準備 (Preparation) — 3項目\n□ 1. 7問チェックリスト埋めたか (rule 01)         _/5\n□ 2. 1-slide-1-message 守ったか (rule 02)        _/5\n□ 3. Plan B 用意 (PDF/handout/hotspot) (rule 07) _/5\n\n■ デリバリー (Delivery) — 4項目\n□ 4. Hook 30秒で attention 取れたか (rule 08)    _/5\n□ 5. 時間管理約束守ったか (rule 13)              _/5\n□ 6. 論理マーカー使ったか (rule 14)              _/5\n□ 7. アイコンタクト均等 (rule 30 - 50/50)        _/5\n\n■ Q&A — 3項目\n□ 8. LASR 適用 (rule 23)                         _/5\n□ 9. 持ち帰り適切 (rule 24)                      _/5\n□ 10. 敵対的質問 bridge phrase (rule 25)         _/5\n\n■ クロージング＋followup — 2項目\n□ 11. Recap 3 + CTA 3 (rule 26)                  _/5\n□ 12. 24h 内 acknowledgment メール (rule 28)     _/5\n\n────────────────────────────\n合計: __/60     平均: __/5\n\n【3 Strengths】 — 4-5点項目から\n1. ____\n2. ____\n3. ____\n\n【3 Improvements】 — 1-3点項目から\n1. ____ → drill: ____ までに ____\n2. ____ → drill: ____ までに ____\n3. ____ → drill: ____ までに ____\n\n【次回 pitch までの commit】\n- ____",
-      "content_vi": "[Checklist Self-review Pitch] (12 item / 30 phút)\n\nThang điểm: 1=cần cải thiện / 2=chưa đủ / 3=trung bình / 4=tốt / 5=xuất sắc\n\n[Chuẩn bị — Preparation] — 3 item\n- 1. Đã fill checklist 7 câu chưa (rule 01)         _/5\n- 2. Có giữ 1-slide-1-message không (rule 02)       _/5\n- 3. Có Plan B (PDF/handout/hotspot) chưa (rule 07) _/5\n\n[Delivery] — 4 item\n- 4. Hook 30 giây có lấy được attention không (rule 08)  _/5\n- 5. Có giữ time-keeping promise không (rule 13)         _/5\n- 6. Có dùng logical marker không (rule 14)              _/5\n- 7. Eye contact đều không (rule 30 - 50/50)             _/5\n\n[Q&A] — 3 item\n- 8. Áp dụng LASR (rule 23)                              _/5\n- 9. 持ち帰り phù hợp (rule 24)                          _/5\n- 10. Bridge phrase với câu hostile (rule 25)            _/5\n\n[Closing + Followup] — 2 item\n- 11. Recap 3 + CTA 3 (rule 26)                          _/5\n- 12. Mail acknowledgment trong 24h (rule 28)            _/5\n\n────────────────────────────\nTổng: __/60     Trung bình: __/5\n\n[3 Strengths] — chọn từ item 4-5 điểm\n1. ____\n2. ____\n3. ____\n\n[3 Improvements] — chọn từ item 1-3 điểm\n1. ____ → drill: trước ____ làm ____\n2. ____ → drill: trước ____ làm ____\n3. ____ → drill: trước ____ làm ____\n\n[Commit cho pitch tiếp theo]\n- ____",
+      "content_vi": "[Checklist Tự Đánh Giá Pitch] (12 mục / 30 phút)\n\nThang điểm: 1=cần cải thiện / 2=chưa đủ / 3=trung bình / 4=tốt / 5=xuất sắc\n\n[Chuẩn bị — Preparation] — 3 mục\n- 1. Đã điền checklist 7 câu chưa (rule 01)                _/5\n- 2. Có giữ 1-slide-1-message không (rule 02)              _/5\n- 3. Có Plan B (PDF/tài liệu phát tay/hotspot) chưa (rule 07) _/5\n\n[Delivery] — 4 item\n- 4. Hook 30 giây có lấy được attention không (rule 08)  _/5\n- 5. Có giữ time-keeping promise không (rule 13)         _/5\n- 6. Có dùng logical marker không (rule 14)              _/5\n- 7. Eye contact đều không (rule 30 - 50/50)             _/5\n\n[Q&A] — 3 item\n- 8. Áp dụng LASR (rule 23)                              _/5\n- 9. 持ち帰り phù hợp (rule 24)                          _/5\n- 10. Bridge phrase với câu hostile (rule 25)            _/5\n\n[Closing + Followup] — 2 item\n- 11. Recap 3 + CTA 3 (rule 26)                          _/5\n- 12. Mail acknowledgment trong 24h (rule 28)            _/5\n\n────────────────────────────\nTổng: __/60     Trung bình: __/5\n\n[3 Strengths] — chọn từ item 4-5 điểm\n1. ____\n2. ____\n3. ____\n\n[3 Improvements] — chọn từ item 1-3 điểm\n1. ____ → drill: trước ____ làm ____\n2. ____ → drill: trước ____ làm ____\n3. ____ → drill: trước ____ làm ____\n\n[Commit cho pitch tiếp theo]\n- ____",
       "notes_ja": "Pitch 終了 24h 以内に実施。30分 fixed budget。Improvements には必ず deadline + drill。Phase 4, 5 でも同 rubric を使い改善曲線を tracking。",
-      "notes_vi": "Làm trong 24h sau pitch. Budget cố định 30 phút. Improvement bắt buộc kèm deadline + drill. Phase 4, 5 dùng cùng rubric để track đường cong cải thiện."
+      "notes_vi": "Làm trong 24h sau pitch. Cố định 30 phút. Điểm cần cải thiện bắt buộc kèm deadline + drill. Phase 4, 5 dùng cùng bảng tiêu chí để theo dõi đường cong cải thiện."
     }
   ]
 }

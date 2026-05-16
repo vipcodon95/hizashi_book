@@ -23,7 +23,7 @@ Sáng hôm sau, PM Matsumoto bên 白鷗 sang văn phòng HCMC mang theo yokan T
 | **松本PM** | （少し戸惑い）「あ、まあ…」 |
 | **フオン副部長** | （後でリンに）「リン、お土産は『頂戴いたします』だけで、その場で開けない。値段は絶対 NG。」 |
 
-**Vì sao xấu:** (1) Mở quà tại chỗ = thất lễ (signal "tôi quan tâm vật chất hơn tấm lòng"). (2) Hỏi giá = NG cấp tối đa. (3) Khen "trông ngon" / "Toraya nổi tiếng" tại chỗ = nông. Đúng = mở sau giờ làm việc + thank-you mail trong 24h.
+**Vì sao xấu:** (1) Mở quà tại chỗ = thất lễ (tín hiệu "tôi quan tâm vật chất hơn tấm lòng"). (2) Hỏi giá = NG cấp tối đa. (3) Khen "trông ngon" / "Toraya nổi tiếng" tại chỗ = nông. Đúng = mở sau giờ làm việc + thank-you mail trong 24h.
 
 ---
 
@@ -42,7 +42,7 @@ Sáng hôm sau, PM Matsumoto bên 白鷗 sang văn phòng HCMC mang theo yokan T
 📝 **Ghi chú:**
 - 【1】**「頂戴いたします」** — câu nhận cố định, formal hơn 「ありがとう」. Đi kèm bow 30°. Nhổm dậy nhẹ nếu đang ngồi.
 - 【2】**Đặt 2 tay → đặt lên phía 上座 (kamiza) của bàn đàng hoàng**. Để dưới sàn = NG. Để góc bàn lăn lóc = NG.
-- 【3】**「皆でいただきます」** = báo sẽ chia → tôn trọng ý người gửi ('cả nhà mình'). Mang về nhà ăn riêng = signal sai.
+- 【3】**「皆でいただきます」** = báo sẽ chia → tôn trọng ý người gửi ('cả nhà mình'). Mang về nhà ăn riêng = dấu hiệu sai.
 - 【4】**Mail cảm ơn trong 24h** = follow-up chính thức. Bình luận chất lượng viết trong mail tử tế, không phải tại bàn.
 
 ---
@@ -57,7 +57,7 @@ Sáng hôm sau, PM Matsumoto bên 白鷗 sang văn phòng HCMC mang theo yokan T
 
 ## ⚠ Tránh
 
-- Mở quà tại chỗ — signal "quan tâm vật chất"
+- Mở quà tại chỗ — tín hiệu "quan tâm vật chất"
 - Hỏi giá / nơi mua — taboo cấp cao nhất
 - Bình luận chất lượng "trông ngon quá" tại bàn — nông
 - Nhận 1 tay / để dưới chân / để bừa lên bàn — thất lễ

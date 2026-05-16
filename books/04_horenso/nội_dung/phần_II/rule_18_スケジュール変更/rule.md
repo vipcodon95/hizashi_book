@@ -12,7 +12,7 @@
 
 ## Bối cảnh / 場面
 
-Em Dũng phát hiện thứ Hai 9h: họp với anh Matsumoto thứ Ba 14h trùng họp nội bộ critical. Cần reschedule. Lần đầu Dũng báo trễ + chỉ 1 option mới. Lần 2 đúng cấu trúc.
+Em Dũng phát hiện thứ Hai 9h: họp với anh Matsumoto thứ Ba 14h trùng họp nội bộ quan trọng. Cần reschedule. Lần đầu Dũng báo trễ + chỉ 1 option mới. Lần 2 đúng cấu trúc.
 
 ---
 

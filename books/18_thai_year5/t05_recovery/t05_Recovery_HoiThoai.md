@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Welding · day 1
+## Tình huống 1 — Hàn đắp · Ngày 1
 
 | Speaker | Lời thoại |
 |---|---|
@@ -15,7 +15,7 @@
 
 ---
 
-## Scene 2 — Re-machining · day 2
+## Tình huống 2 — Gia công lại · Ngày 2
 
 | Speaker | Lời thoại |
 |---|---|
@@ -26,7 +26,7 @@
 
 ---
 
-## Scene 3 — Re-trial · day 5
+## Tình huống 3 — Thử khuôn lại · Ngày 5
 
 | Speaker | Lời thoại |
 |---|---|
@@ -40,7 +40,7 @@
 
 ---
 
-## Scene 4 — CMM measure · day 6
+## Tình huống 4 — Đo CMM · Ngày 6
 
 | Speaker | Lời thoại |
 |---|---|
@@ -50,7 +50,7 @@
 
 ---
 
-## Scene 5 — Hamada satisfied · day 7
+## Tình huống 5 — Hamada hài lòng · Ngày 7
 
 | Speaker | Lời thoại |
 |---|---|
@@ -59,7 +59,7 @@
 
 ---
 
-## Scene 6 — Đêm · 22:00
+## Tình huống 6 — Đêm · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -70,7 +70,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

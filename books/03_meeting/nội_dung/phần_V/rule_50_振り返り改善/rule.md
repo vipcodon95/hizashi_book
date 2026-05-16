@@ -1,6 +1,6 @@
 # Rule 50 — Self-reflection cải tiến / 振り返りと改善
 
-> **Luận điểm.** Sau mỗi tuần có nhiều họp, dành **15 phút Friday afternoon** để nhìn lại: gì work, gì cần đổi. Dùng **10-item checklist** (準備/進行/参加/締め). Ghi vào **diary file riêng** — không gửi ai. Mục đích: kỹ năng họp tăng từng tuần, không bị plateau.
+> **Luận điểm.** Sau mỗi tuần có nhiều họp, dành **15 phút Friday afternoon** để nhìn lại: gì work, gì cần đổi. Dùng **10-item checklist** (準備/進行/参加/締め). Ghi vào **diary file riêng** — không gửi ai. Mục đích: kỹ năng họp tăng từng tuần, không bị đình trệ.
 >
 > 週末15分の振り返り：10項目チェックリストで会議スキルを継続改善。日記形式で個人ファイルに記録。
 >
@@ -20,7 +20,7 @@ Friday 5pm. Em Dũng đã chủ trì 4 buổi họp tuần này. Mở file `meet
 |---|---|---|
 | Week 1 | 「終わった、よかった」 | Không học gì mới |
 | Week 4 | Cùng mistake lặp lại — agenda send 2h trước | Khách lại complain |
-| Week 12 | Skills plateau, performance review ko cải thiện |
+| Week 12 | Kỹ năng giậm chân, performance review ko cải thiện |
 
 ---
 
@@ -31,11 +31,11 @@ Friday 5pm. Em Dũng đã chủ trì 4 buổi họp tuần này. Mở file `meet
 **A. Chuẩn bị (3 items)**
 - [ ] Agenda gửi ≥24h trước?
 - [ ] Tài liệu pre-read send ≥24h?
-- [ ] Pre-meeting check-in nội bộ?
+- [ ] Kiểm tra nội bộ trước họp?
 
 **B. Tiến hành (3 items)**
 - [ ] Bắt đầu đúng giờ?
-- [ ] Tất cả ý kiến được nghe (kể cả junior)?
+- [ ] Tất cả ý kiến được nghe (kể cả nhân viên trẻ)?
 - [ ] Time-box mỗi item respected?
 
 **C. Tham gia (2 items)**
@@ -54,7 +54,7 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 
 ✅ Đã làm tốt:
   - Agenda gửi 48h trước cho Phase 2 negot
-  - Cushion + counter-proposal khi anh Ōgaki yêu cầu 20%
+  - Dùng cushion + đề xuất đối lại khi anh Ōgaki yêu cầu 20%
 
 ⚠ Cần cải thiện:
   - Họp định kỳ thứ 4 — quên xin lượt nói (cắt lời anh Matsumoto)
@@ -75,7 +75,7 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 
 ## ⚠ Tránh
 
-- Không reflect → skills plateau.
+- Không reflect → kỹ năng đình trệ.
 - Reflect chung chung "tốt/không tốt" → không actionable.
 - Quá nhiều thay đổi 1 lần → confused. 1-2 thay đổi/tuần đủ.
 

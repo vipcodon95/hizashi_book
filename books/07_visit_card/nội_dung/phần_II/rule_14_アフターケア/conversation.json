@@ -18,11 +18,11 @@
     {
       "section": "bad_example",
       "label_ja": "悪い例 — D+3 generic 1行",
-      "label_vi": "XẤU — D+3 generic 1 dòng",
+      "label_vi": "XẤU — D+3 một dòng sáo rỗng",
       "display_order": 1,
       "analysis": {
         "ja": "①D+3 で『昨日』と誤記 ②quote/action/personal note 全欠 ③1行汎用本文。relationship build 0%。",
-        "vi": "(1) D+3 mà ghi '昨日' sai. (2) Thiếu cả 3 yếu tố. (3) Body 1 dòng generic. Build relationship 0%."
+        "vi": "(1) D+3 mà ghi '昨日' sai. (2) Thiếu cả 3 yếu tố. (3) Body 1 dòng sáo rỗng. Xây dựng quan hệ 0%."
       },
       "conversation_lines": [
         {
@@ -40,7 +40,7 @@
           "speaker_role": "副部長",
           "gender": "female",
           "sentence": "あ、忘れてた。リンさん、generic で送って。",
-          "sentence_translation": "À, quên mất. Linh, em gửi generic đi.",
+          "sentence_translation": "À, quên mất. Linh, em gửi bài sáo rỗng đi.",
           "tone": "casual"
         },
         {
@@ -67,7 +67,7 @@
     {
       "section": "good_example",
       "label_ja": "良い例 — D+1+3要素+senior名義",
-      "label_vi": "TỐT — D+1 + 3 yếu tố + tên senior",
+      "label_vi": "TỐT — D+1 + 3 yếu tố + tên cấp trên",
       "display_order": 2,
       "annotations": [
         {
@@ -75,14 +75,14 @@
           "applies_to_line": "rule_14_good_01",
           "highlight_text": "3要素",
           "ja": "quote(中村CFO発言引用)+action(Q3決算後再検討)+personal note(大垣部長食事感想)。relationship build の3点セット。",
-          "vi": "quote + action + personal note. 3 yếu tố build relationship."
+          "vi": "trích dẫn + action + ghi chú cá nhân. 3 yếu tố xây dựng quan hệ."
         },
         {
           "id": "2",
           "applies_to_line": "rule_14_good_04",
           "highlight_text": "私の名義で送って。署名は副部長フオン",
           "ja": "Senior(副部長)名義でweight確保。intern送信は格下扱い。",
-          "vi": "Gửi tên senior (副部長) = weight cao. Intern gửi = bị coi nhẹ."
+          "vi": "Gửi tên cấp trên (副部長) = trọng lượng cao. Intern gửi = bị coi nhẹ."
         },
         {
           "id": "3",
@@ -174,7 +174,7 @@
       "correct": "B",
       "explanation": {
         "ja": "quote=傾聴証明、action=follow-up、personal note=relationship build。3点必須。",
-        "vi": "Quote = chứng minh đã nghe, action = follow-up, personal note = build relationship. 3 yếu tố bắt buộc."
+        "vi": "Trích dẫn = chứng minh đã nghe, action = liên lạc tiếp, ghi chú cá nhân = xây dựng quan hệ. 3 yếu tố bắt buộc."
       }
     }
   ]

@@ -29,9 +29,9 @@ Tháng 8, ca chiều. Hoa quên bước kiểm tra màu cơm trước đóng gó
 
 | Nhóm | Tiếng Nhật | Romaji | Mục đích |
 |---|---|---|---|
-| <ruby>丁寧語<rt>ていねいご</rt></ruby> | Teineigo | Polite | Lịch sự cơ bản (です/ます) |
-| <ruby>尊敬語<rt>そんけいご</rt></ruby> | Sonkeigo | Honorific | Nâng người khác lên |
-| <ruby>謙譲語<rt>けんじょうご</rt></ruby> | Kenjougo | Humble | Hạ mình xuống |
+| <ruby>丁寧語<rt>ていねいご</rt></ruby> | Teineigo | Lịch sự | Lịch sự cơ bản (です/ます) |
+| <ruby>尊敬語<rt>そんけいご</rt></ruby> | Sonkeigo | Tôn kính ngữ | Nâng người khác lên |
+| <ruby>謙譲語<rt>けんじょうご</rt></ruby> | Kenjougo | Khiêm nhường ngữ | Hạ mình xuống |
 
 ### 2.2 Quy tắc dùng
 
@@ -87,7 +87,7 @@ Chủ ngữ là MÌNH → Kenjougo
 
 > 「<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。トッピングの<ruby>確認<rt>かくにん</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れてしまいました。<ruby>注意不足<rt>ちゅういぶそく</rt></ruby>でございます。<ruby>今後<rt>こんご</rt></ruby>、<ruby>確認<rt>かくにん</rt></ruby>リストを<ruby>使<rt>つか</rt></ruby>って<ruby>再発防止<rt>さいはつぼうし</rt></ruby>に<ruby>努<rt>つと</rt></ruby>めます。」
 
-*(Em xin lỗi. Em đã quên bước kiểm tra topping. Là do em thiếu chú ý. Từ nay em sẽ dùng checklist để ngăn tái phạm.)*
+*(Em xin lỗi. Em đã quên bước kiểm tra topping. Là do em thiếu chú ý. Từ nay em sẽ dùng bảng kiểm để ngăn tái phạm.)*
 
 > 💡 KHÔNG bào chữa "vì máy hỏng / vì bận" → biến cớ = càng tệ hơn lỗi.
 
@@ -192,13 +192,13 @@ Q3: Tại sao hộp bị nứt mà không phát hiện?
 A3: Vì không kiểm tra hộp trước khi dùng
 
 Q4: Tại sao Hoa không kiểm tra hộp?
-A4: Vì không có checklist bắt buộc
+A4: Vì không có bảng kiểm bắt buộc
 
-Q5: Tại sao không có checklist?
+Q5: Tại sao không có bảng kiểm?
 A5: Vì SOP cũ không yêu cầu
 
 → ROOT CAUSE (nguyên nhân gốc): SOP thiếu bước kiểm tra hộp
-→ KAIZEN: Cập nhật SOP, in checklist mới, tập huấn lại
+→ KAIZEN: Cập nhật SOP, in bảng kiểm mới, tập huấn lại
 ```
 
 > 💡 5 Why không phải để đổ lỗi cá nhân — mà để sửa hệ thống.

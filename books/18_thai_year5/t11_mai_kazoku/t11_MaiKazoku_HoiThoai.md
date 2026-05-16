@@ -1,10 +1,10 @@
 # Sách 18 · T11. Cưới + Mai sang Nhật 家族滞在 (結婚・家族来日)
 
-> **Mục tiêu:** 2-5/2027. Cưới ở Hà Nội (200 khách). Mai 3 tháng đợi visa. 5/2027 Mai sang Anjo. Apartment 1LDK Anjo. Đời mới.
+> **Mục tiêu:** 2-5/2027. Cưới ở Hà Nội (200 khách). Mai 3 tháng đợi visa. 5/2027 Mai sang Anjo. Căn hộ 1LDK Anjo. Đời mới.
 
 ---
 
-## Scene 1 — Đám cưới Hà Nội · 2/2027
+## Tình huống 1 — Đám cưới Hà Nội · 2/2027
 
 | Speaker | Lời thoại |
 |---|---|
@@ -19,7 +19,7 @@
 
 ---
 
-## Scene 2 — Đêm cưới · 22:00
+## Tình huống 2 — Đêm cưới · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -32,7 +32,7 @@
 
 ---
 
-## Scene 3 — Tuần trăng mật + về Nhật · 2/2027 cuối
+## Tình huống 3 — Tuần trăng mật + về Nhật · 2/2027 cuối
 
 | Speaker | Lời thoại |
 |---|---|
@@ -44,7 +44,7 @@
 
 ---
 
-## Scene 4 — Visa approved · 4/2027
+## Tình huống 4 — Visa approved · 4/2027
 
 | Speaker | Lời thoại |
 |---|---|
@@ -55,7 +55,7 @@
 
 ---
 
-## Scene 5 — Centrair đón Mai · 5/2027
+## Tình huống 5 — Centrair đón Mai · 5/2027
 
 | Speaker | Lời thoại |
 |---|---|
@@ -67,7 +67,7 @@
 
 ---
 
-## Scene 6 — Apartment 1LDK Anjo · 17:00
+## Tình huống 6 — Căn hộ 1LDK Anjo · 17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -78,7 +78,7 @@
 
 ---
 
-## Scene 7 — Tanaka + cohort dinner · ngày 3 sau Mai sang
+## Tình huống 7 — Bữa tối cả nhóm với Tanaka · ngày 3 sau Mai sang
 
 | Speaker | Lời thoại |
 |---|---|
@@ -91,7 +91,7 @@
 
 ---
 
-## Scene 8 — Đêm reflect · 23:00
+## Tình huống 8 — Đêm reflect · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -103,7 +103,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

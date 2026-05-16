@@ -1,6 +1,6 @@
 # Rule 06 — 3-tier proposal: Good / Better / Best / 3段階提案
 
-> **Luận điểm.** Đưa **1 giá duy nhất** = khách bị bắt yes/no. Đưa **3 tier (Good / Better / Best)** = khách compare nội bộ → choice architecture nghiêng về Better (decoy effect). 95% khách Nhật sẽ chọn middle tier nếu cấu trúc đúng.
+> **Luận điểm.** Đưa **1 giá duy nhất** = khách bị bắt yes/no. Đưa **3 tier (Good / Better / Best)** = khách compare nội bộ → kiến trúc lựa chọn (choice architecture) nghiêng về Better (hiệu ứng mồi / decoy effect). 95% khách Nhật sẽ chọn middle tier nếu cấu trúc đúng.
 >
 > 1価格提示は yes/no を迫る。3段階提案 (Good/Better/Best) は社内比較を促し、**中間案 (Better) が選ばれる確率を高める**。Phase 3 のような戦略案件は必ず 3 段階で出す。
 >
@@ -39,9 +39,9 @@ Họp với Hà CTO + Hương + Tuấn xong, Dũng cần soạn proposal deck. H
 | **フオン** | 「完璧。**Better が『現実解』に見える構造**。明日のキックオフで使おう。」 |
 
 📝 **Ghi chú:**
-- 【1】**Recommended 表示** — chữ "おすすめ"/"推奨" trên Better tile, nghiên cứu UX cho thấy +35% conversion.
+- 【1】**Recommended 表示** — chữ "おすすめ"/"推奨" trên ô Better, nghiên cứu trải nghiệm người dùng cho thấy +35% conversion.
 - 【2】**Good intentional weakness** — KHÔNG phải Good là "rẻ và OK", phải là "rẻ nhưng thiếu cái khách cần" → khách tự loại.
-- 【3】**Best intentional excess** — overspec để Better thành "vừa phải". Best vẫn phải là deal nếu khách chọn (không phải fake option).
+- 【3】**Best intentional excess** — overspec để Better thành "vừa phải". Best vẫn phải là deal nếu khách chọn (không phải lựa chọn giả / fake option).
 
 ---
 

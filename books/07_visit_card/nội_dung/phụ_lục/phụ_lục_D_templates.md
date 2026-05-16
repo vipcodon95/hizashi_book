@@ -128,7 +128,7 @@ E-mail: 〇〇
 
 □ ④ Check typo
    - Tự check
-   - Senior (Tech Lead / Phó phòng) double-check
+   - Senior (Tech Lead / Phó phòng) kiểm tra hai lượt
    - Ngày giờ + người check: ___
 
 □ Check sáng ngày G (trước khi xuất phát)

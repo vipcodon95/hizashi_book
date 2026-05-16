@@ -11,7 +11,7 @@
 
 ## Bối cảnh / 場面
 
-Em Linh — junior mới, lần đầu tham dự họp với khách 白鷗. Thường có thói quen "tới đúng giờ" theo VN style. Dũng nhắc trước.
+Em Linh — nhân viên mới, lần đầu tham dự họp với khách 白鷗. Thường có thói quen "tới đúng giờ" theo VN style. Dũng nhắc trước.
 
 ---
 
@@ -60,7 +60,7 @@ Em Linh — junior mới, lần đầu tham dự họp với khách 白鷗. Thư
 - "Đúng 15:00 ra khỏi bàn làm việc" → đến phòng họp 15:02 = trễ.
 - Online: 14:59 mới click join Zoom → loading mất 30s = vào lúc 15:00:30 = trễ.
 - "Đường tắc" / "thang máy chậm" — không phải lý do chấp nhận được. Phải plan dư 10 phút.
-- Đến trước 30 phút → cũng không tốt: phòng có khi đang setup, gây phiền.
+- Đến trước 30 phút → cũng không tốt: phòng có khi đang chuẩn bị, gây phiền.
 
 ---
 

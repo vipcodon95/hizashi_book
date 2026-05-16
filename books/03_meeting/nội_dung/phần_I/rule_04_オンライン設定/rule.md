@@ -1,4 +1,4 @@
-# Rule 04 — Setup video call (Zoom/Teams) / オンライン会議のセットアップ
+# Rule 04 — Thiết lập video call (Zoom/Teams) / オンライン会議のセットアップ
 
 > **Luận điểm.** Online meeting fail thường ở 5 điểm: (1) link sai/expire, (2) audio không nghe, (3) share screen không thấy, (4) background lộ thông tin nội bộ, (5) ghi âm chưa xin phép. Mỗi mục test trước họp 30 phút.
 >

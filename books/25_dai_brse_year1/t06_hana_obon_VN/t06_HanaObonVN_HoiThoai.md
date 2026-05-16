@@ -12,7 +12,7 @@
 
 ---
 
-## Scene 1 — Sân bay KIX departure · 13:00
+## Tình huống 1 — Sân bay KIX departure · 13:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -25,7 +25,7 @@
 
 ---
 
-## Scene 2 — Nội Bài arrival · 17:45
+## Tình huống 2 — Nội Bài arrival · 17:45
 
 | Speaker | Lời thoại |
 |---|---|
@@ -39,7 +39,7 @@
 
 ---
 
-## Scene 3 — Apt Hàng Bạc · 19:00
+## Tình huống 3 — Apt Hàng Bạc · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -52,7 +52,7 @@
 
 ---
 
-## Scene 4 — Cơm tối + Tony+Yumi LINE · 20:00
+## Tình huống 4 — Cơm tối + Tony+Yumi LINE · 20:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -66,7 +66,7 @@
 
 ---
 
-## Scene 5 — Sáng thứ Ba — Tony+Yumi đến apt Hàng Bạc · 9:00
+## Tình huống 5 — Sáng thứ Ba — Tony+Yumi đến apt Hàng Bạc · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -81,7 +81,7 @@
 
 ---
 
-## Scene 6 — Đại Hizashi remote sáng · Sáng 6:00 hằng ngày
+## Tình huống 6 — Đại Hizashi remote sáng · Sáng 6:00 hằng ngày
 
 | Speaker | Lời thoại |
 |---|---|
@@ -94,7 +94,7 @@
 
 ---
 
-## Scene 7 — Cuối tuần family trip Hạ Long · Thứ Bảy 13/8
+## Tình huống 7 — Cuối tuần family trip Hạ Long · Thứ Bảy 13/8
 
 | Speaker | Lời thoại |
 |---|---|
@@ -110,7 +110,7 @@
 
 ---
 
-## Scene 8 — Trở về Osaka · 17/8 thứ Bảy chiều
+## Tình huống 8 — Trở về Osaka · 17/8 thứ Bảy chiều
 
 | Speaker | Lời thoại |
 |---|---|
@@ -125,7 +125,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -141,10 +141,10 @@
 
 ## Bí quyết chương
 
-- **Obon = 1 tuần nghỉ chuẩn JP** cho gia đình du lịch hoặc về quê
-- **Hai bên ông bà gặp nhau** lần đầu — cột mốc gia đình đa quốc tịch
+- **Obon = 1 tuần nghỉ chuẩn Nhật** cho gia đình du lịch hoặc về quê
+- **Hai bên ông bà gặp nhau lần đầu** — cột mốc quan trọng của gia đình đa quốc tịch
 - **Đi Hạ Long 8 người** — khoảnh khắc gắn kết, ký ức cả đời
-- **Đại làm Hizashi từ xa 4h sáng**: Mô hình song hành duy trì được cả khi đi du lịch
-- **Hana 22 tháng nhận biết 4 ông bà**: Hình thành bản sắc song ngữ, song văn hoá
+- **Đại làm Hizashi từ xa 4 tiếng mỗi sáng**: mô hình làm song song duy trì được ngay cả khi đi du lịch
+- **Hana 22 tháng nhận biết 4 ông bà**: hình thành bản sắc song ngữ, song văn hoá
 
-> *"Một tuần Obon ở Hà Nội. Tony với Yumi gặp bố mẹ Hà Nội. Đi Hạ Long tám người. Hana biết gọi bà ngoại với ông ngoại với bà nội với ông nội. Đại làm Hizashi từ xa 4h sáng vẫn kịp ra v0.9 Stripe. Hai gia đình thực sự hợp nhất."*
+> *"Một tuần Obon ở Hà Nội. Tony với Yumi gặp bố mẹ Hà Nội. Đi Hạ Long tám người. Hana biết gọi bà ngoại, ông ngoại, bà nội, ông nội. Đại làm Hizashi từ xa 4 tiếng mỗi sáng vẫn kịp ra v0.9 tích hợp Stripe. Hai gia đình thực sự hợp nhất."*

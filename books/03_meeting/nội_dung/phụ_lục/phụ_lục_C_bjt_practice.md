@@ -63,7 +63,7 @@
 - 🇯🇵 「ご返信いただけますと幸いです」が依頼を丁寧に伝える定型句。他は命令調・カジュアルすぎ。
 - 🇻🇳 「ご返信いただけますと幸いです」 là cụm lịch sự chuẩn để xin reply. Các option khác hoặc mệnh lệnh, hoặc casual quá.
 
-### J3.3 (từ rule_03 — Đặt phòng + Setup hậu cần)
+### J3.3 (từ rule_03 — Đặt phòng + Chuẩn bị hậu cần)
 
 **Skill:** 場面把握
 
@@ -78,9 +78,9 @@
 
 **Giải thích / 解説:**
 - 🇯🇵 設備チェックリストは会議運営に必要な物品のみ。出席者の嗜好は別件。
-- 🇻🇳 Checklist setup chỉ liên quan thiết bị họp. Sở thích cá nhân không thuộc checklist.
+- 🇻🇳 Checklist chuẩn bị phòng chỉ liên quan thiết bị họp. Sở thích cá nhân không thuộc checklist.
 
-### J3.4 (từ rule_04 — Setup video call (Zoom/Teams))
+### J3.4 (từ rule_04 — Thiết lập video call (Zoom/Teams))
 
 **Skill:** 場面把握
 
@@ -97,7 +97,7 @@
 - 🇯🇵 リンク・音声・画面共有・背景・録画の5点が事前確認の必須項目。
 - 🇻🇳 Link / audio / share screen / background / recording — 5 điểm phải check trước.
 
-### J3.5 (từ rule_05 — Distribute tài liệu trước 24h)
+### J3.5 (từ rule_05 — Gửi tài liệu trước 24h)
 
 **Skill:** 表現読解
 
@@ -435,7 +435,7 @@
 
 **Giải thích / 解説:**
 - 🇯🇵 1on1は構造化された対話の場。進捗→課題→相談→次の構成で上司の支援を最大化できる。
-- 🇻🇳 1on1 là chỗ trao đổi có cấu trúc. Progress → Challenge → Ask → Next tối ưu hỗ trợ từ senior.
+- 🇻🇳 1on1 là chỗ trao đổi có cấu trúc. Progress → Challenge → Ask → Next tối ưu hỗ trợ từ cấp trên.
 
 ### J3.25 (từ rule_42 — Đột xuất kết thúc sớm vì thiếu thời gian)
 
@@ -554,7 +554,7 @@
 
 **Giải thích / 解説:**
 - 🇯🇵 single source of truthがあれば onboarding・監査・後追いが全て効率化される。
-- 🇻🇳 Có 1 source duy nhất → onboarding / audit / follow-up đều hiệu quả.
+- 🇻🇳 Có 1 source duy nhất → tiếp nhận nhân viên mới / audit / follow-up đều hiệu quả.
 
 ### J3.32 (từ rule_50 — Self-reflection cải tiến)
 
@@ -571,12 +571,12 @@
 
 **Giải thích / 解説:**
 - 🇯🇵 週次の構造化された自己振り返り+具体的改善コミットがスキル plateau を防ぐ。
-- 🇻🇳 Reflection hàng tuần có cấu trúc + commit cải tiến cụ thể tránh được skill plateau.
+- 🇻🇳 Tự nhìn lại hàng tuần có cấu trúc + cam kết cải tiến cụ thể giúp kỹ năng không bị đình trệ.
 
 
 ## Level J2 (17 câu)
 
-### J2.1 (từ rule_07 — Pre-meeting check-in nội bộ)
+### J2.1 (từ rule_07 — Kiểm tra nội bộ trước họp)
 
 **Skill:** 場面把握
 
@@ -593,7 +593,7 @@
 - 🇯🇵 事前すり合わせは、客との会議で社内が一枚岩であることを保証するための内部準備。
 - 🇻🇳 事前すり合わせ là chuẩn bị nội bộ để khi gặp khách thì cả team đồng nhất.
 
-### J2.2 (từ rule_08 — Chuẩn bị Plan B + counter-arguments)
+### J2.2 (từ rule_08 — Chuẩn bị Plan B + phản biện)
 
 **Skill:** 表現読解
 
@@ -727,7 +727,7 @@
 
 **Giải thích / 解説:**
 - 🇯🇵 受け止め+具体的数値+事実ベースで反論するのが最も説得力がある。
-- 🇻🇳 Ghi nhận + số cụ thể + fact-based là cách phản biện thuyết phục nhất.
+- 🇻🇳 Ghi nhận + số cụ thể + dựa trên sự thật là cách phản biện thuyết phục nhất.
 
 ### J2.10 (từ rule_29 — Khi gặp deadlock)
 
@@ -746,7 +746,7 @@
 - 🇯🇵 司会者の独断は内部信頼を損ね、強引採決は関係を壊す。冷却期間+期限つき再提案が最善。
 - 🇻🇳 Chủ trì tự quyết = mất uy tín nội bộ. Ép vote = phá quan hệ. Cool-off + deadline tái đề xuất = tối ưu.
 
-### J2.11 (từ rule_30 — Khi senior nói câu khó hiểu)
+### J2.11 (từ rule_30 — Khi cấp trên nói câu khó hiểu)
 
 **Skill:** 発言聴解
 
@@ -761,7 +761,7 @@
 
 **Giải thích / 解説:**
 - 🇯🇵 曖昧発言には推測二択で確認するのが最も精度が高い。一方解釈は誤読リスク、open-ended は相手に再説明負担。
-- 🇻🇳 Mơ hồ → đưa 2 lựa chọn confirm là chính xác nhất. Đoán 1 hướng có rủi ro. Open-ended bắt senior giải thích lại.
+- 🇻🇳 Mơ hồ → đưa 2 lựa chọn confirm là chính xác nhất. Đoán 1 hướng có rủi ro. Open-ended bắt cấp trên giải thích lại.
 
 ### J2.12 (từ rule_34 — Hybrid meeting cân bằng online/offline)
 
@@ -778,7 +778,7 @@
 
 **Giải thích / 解説:**
 - 🇯🇵 ハイブリッドはオンライン側が情報非対称になりやすいため、online first + 要約共有がバランスを取る。
-- 🇻🇳 Hybrid dễ bất cân xứng thông tin với online → online first + summary là cách cân bằng.
+- 🇻🇳 Hybrid dễ bất cân xứng thông tin với online → online first + tóm tắt là cách cân bằng.
 
 ### J2.13 (từ rule_37 — Crisis meeting họp gấp)
 
@@ -846,7 +846,7 @@
 
 **Giải thích / 解説:**
 - 🇯🇵 GROWモデルは事実ベース・本人選択・期限つきコミットで改善を促す最も効果的なフレームワーク。
-- 🇻🇳 GROW: fact-based + để người đó chọn + commit có deadline = khung hiệu quả nhất.
+- 🇻🇳 GROW: dựa trên sự thật + để người đó chọn + cam kết có deadline = khung hiệu quả nhất.
 
 ### J2.17 (từ rule_46 — Format biên bản chuẩn (extended))
 

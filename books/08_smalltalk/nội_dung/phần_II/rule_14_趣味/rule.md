@@ -6,7 +6,7 @@
 
 ## 🧠 Tâm lý JP (4 dòng)
 
-- **Golf** = business hobby #1. 50-60t executive Nhật chơi golf weekly. Đi golf 1 ngày = 18 holes + onsen + dinner = 8 tiếng bonding.
+- **Golf** = business hobby #1. 50-60t executive Nhật chơi golf weekly. Đi golf 1 ngày = 18 holes + onsen + dinner = 8 tiếng gắn kết.
 - **Baseball** = regional identity. Hỏi đúng team theo quê = chạm tim.
 - **Sumo** = senior 60+ ưa thích. Biết 場所 schedule + tên 横綱 = đẳng cấp đặc biệt.
 - Hobby modern (anime/game) = match tuổi 20-30. **Senior dùng anime → khách bảo thủ sẽ không tiếp.**

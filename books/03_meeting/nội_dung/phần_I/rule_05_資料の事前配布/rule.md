@@ -1,4 +1,4 @@
-# Rule 05 — Distribute tài liệu trước 24h / 資料の事前配布
+# Rule 05 — Gửi tài liệu trước 24h / 資料の事前配布
 
 > **Luận điểm.** Tài liệu họp gửi đúng lúc khách bước vào phòng = khách Nhật không kịp pre-read = họp trở thành **phiên đọc tài liệu**, không phải họp ra quyết định. Quy chuẩn: **24h trước**, format **PDF (file size < 5MB)**, ghi rõ **version (v1.0/v1.1)**, kèm **dòng "ご一読のうえご参加ください"**.
 >
@@ -51,7 +51,7 @@ Họp với 白鷗 chiều thứ Ba 15:00. Em Dũng đang viết draft 資料 (s
 
 > **「24時間前・PDF・バージョン番号・差分明示 — 4点で資料配布。」**
 >
-> *24h trước, PDF, có version, highlight diff — 4 điểm chuẩn distribute tài liệu.*
+> *24h trước, PDF, có version, highlight diff — 4 điểm chuẩn gửi tài liệu trước họp.*
 
 ---
 

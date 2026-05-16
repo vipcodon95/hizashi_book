@@ -1,6 +1,6 @@
 # Rule 16 — Confirm decision authority / 決裁者確認
 
-> **Luận điểm.** Tỉnh táo: ai trong phòng là **真の決裁者**, ai chỉ là gatekeeper. Câu hỏi chuẩn: "最終決裁は〜様でいらっしゃいますでしょうか？" + "ご決裁の前に、技術検証や予算審議など、どのようなステップが残っていらっしゃいますか？" Bỏ sót → quote sai người, mất thời gian.
+> **Luận điểm.** Tỉnh táo: ai trong phòng là **真の決裁者**, ai chỉ là người gác cửa (gatekeeper). Câu hỏi chuẩn: "最終決裁は〜様でいらっしゃいますでしょうか？" + "ご決裁の前に、技術検証や予算審議など、どのようなステップが残っていらっしゃいますか？" Bỏ sót → quote sai người, mất thời gian.
 >
 > 商談中、誰が真の決裁者で誰が gatekeeper か必ず確認。「最終決裁は〜様でしょうか」+「決裁前のステップは何が残っていますか」の2段階質問。
 >
@@ -57,7 +57,7 @@ Trong discovery Decision step (rule 12), Dũng đã hỏi sơ "ai duyệt". Bây
 ## ⚠ Tránh
 
 - Đoán decision-maker → quote sai người
-- Hỏi "ai duyệt" mà không hỏi "còn step gì" → biết tên nhưng không biết cách
+- Hỏi "ai duyệt" mà không hỏi "còn bước nào" → biết tên nhưng không biết cách
 - Senior khách (CFO) ngồi đó mà nhìn về phía 部長 → mất 顔
 - Quên repeat back ステップ → khách không feel committed timeline
 

@@ -8,7 +8,7 @@
 
 ---
 
-## Scene 1 — 元日 sáng · 8:00 phòng 201
+## Tình huống 1 — 元日 sáng · 8:00 phòng 201
 
 | Speaker | Lời thoại |
 |---|---|
@@ -20,7 +20,7 @@
 
 ---
 
-## Scene 2 — Gọi mẹ + Mai · 9:00 (giờ VN 7:00)
+## Tình huống 2 — Gọi mẹ + Mai · 9:00 (giờ VN 7:00)
 
 | Speaker | Lời thoại |
 |---|---|
@@ -39,7 +39,7 @@
 
 ---
 
-## Scene 3 — Đi Nagoya nhà Linh-chị · ngày 3/1
+## Tình huống 3 — Đi Nagoya nhà Linh-chị · ngày 3/1
 
 | Speaker | Lời thoại |
 |---|---|
@@ -54,7 +54,7 @@
 
 ---
 
-## Scene 4 — Linh kể về 永住 · 14:00
+## Tình huống 4 — Linh kể về 永住 · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -71,12 +71,12 @@
 
 ---
 
-## Scene 5 — Trở lại workshop · 4/1
+## Tình huống 5 — Trở lại workshop · 4/1
 
 | Speaker | Lời thoại |
 |---|---|
 | Tanaka | みなさん、<ruby>明<rt>あ</rt></ruby>けましておめでとうございます！<br>*(Mọi người, chúc mừng năm mới!)* |
-| Cast | <ruby>明<rt>あ</rt></ruby>けましておめでとうございます！<br>*(Năm mới!)* |
+| Nhân vật | <ruby>明<rt>あ</rt></ruby>けましておめでとうございます！<br>*(Năm mới!)* |
 | Tanaka | <ruby>本年<rt>ほんねん</rt></ruby>もよろしくお<ruby>願<rt>ねが</rt></ruby>いします！<br>*(Năm nay mong giúp đỡ!)* |
 | Thái | <ruby>本年<rt>ほんねん</rt></ruby>もよろしくお<ruby>願<rt>ねが</rt></ruby>いします！<br>*(Lặp.)* |
 | Sakurai | タイ<ruby>君<rt>くん</rt></ruby>、<ruby>正月<rt>しょうがつ</rt></ruby>どうだった？<br>*(Thái, năm mới sao?)* |
@@ -88,7 +88,7 @@
 
 ---
 
-## Scene 6 — Tanaka đề nghị · 5/1
+## Tình huống 6 — Tanaka đề nghị · 5/1
 
 | Speaker | Lời thoại |
 |---|---|
@@ -103,7 +103,7 @@
 
 ---
 
-## Scene 7 — Tết VN ở phòng · 22/1 sáng
+## Tình huống 7 — Tết VN ở phòng · 22/1 sáng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -119,7 +119,7 @@
 
 ---
 
-## Scene 8 — Đêm Tết kết thúc · 23:00
+## Tình huống 8 — Đêm Tết kết thúc · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -133,7 +133,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

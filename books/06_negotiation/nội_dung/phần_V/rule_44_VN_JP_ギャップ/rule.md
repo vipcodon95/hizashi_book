@@ -1,6 +1,6 @@
 # Rule 44 — VN-JP negotiation gap / VN-JP 交渉ギャップ
 
-> **Luận điểm.** VN style: **直接 (direct)**, "Giảm 10% thì OK?", concession 1 lần lớn. JP style: **間接 (indirect)**, 「条件面で…」「持ち帰りでも…」, concession nhỏ + reciprocal. VN BD đem direct style vào phòng JP → khách Nhật thấy 「無礼」 hoặc 「未熟」. JP exec đem indirect style sang VN → VN BD thấy "không quyết được", "vòng vo". Hizashi VN BD cần code-switch: **directness 30% lower + concession reciprocal pattern**.
+> **Luận điểm.** VN style: **直接 (direct)**, "Giảm 10% thì OK?", concession 1 lần lớn. JP style: **間接 (indirect)**, 「条件面で…」「持ち帰りでも…」, concession nhỏ + reciprocal. VN BD đem direct style vào phòng JP → khách Nhật thấy 「無礼」 hoặc 「未熟」. JP exec đem indirect style sang VN → VN BD thấy "không quyết được", "vòng vo". Hizashi VN BD cần chuyển đổi phong cách: **directness 30% lower + concession reciprocal pattern**.
 >
 > VN は直接、JP は間接。concession も VN は 1 回大きく、JP は小刻み reciprocal。混在せずに JP mode で運用、 VN-style memo は内部用に分離。
 >
@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Phase 4 với client mới (manufacturing JP, Tokyo HQ). Tuấn Tech Lead support — Tuấn ít kinh nghiệm với JP exec, bring VN style vào. Dũng cần code-switch chính mình + coach Tuấn realtime.
+Phase 4 với client mới (manufacturing JP, Tokyo HQ). Tuấn Tech Lead support — Tuấn ít kinh nghiệm với JP exec, bring VN style vào. Dũng cần chuyển đổi phong cách chính mình + coach Tuấn realtime.
 
 ---
 
@@ -63,7 +63,7 @@ Phase 4 với client mới (manufacturing JP, Tokyo HQ). Tuấn Tech Lead suppor
 
 ## ⚠ Tránh
 
-- 「では下げます」即決 → ratchet effect で next round もっと下げを期待される
+- 「では下げます」即決 → hiệu ứng leo thang một chiều (ratchet effect) で next round もっと下げを期待される
 - 2 連続 concession なし trade → 内部 anchor が大幅 shift
 - 「やっぱり ¥18M で OK ですか？」直接 closing question → JP exec 「未熟」 perception
 - VN style threat language ("もう limit です") → JP は relationship signal として読む、 negative

@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Thử khuôn lần đầu · 10/2026
+## Tình huống 1 — Thử khuôn lần đầu · 10/2026
 
 | Speaker | Lời thoại |
 |---|---|
@@ -16,7 +16,7 @@
 
 ---
 
-## Scene 2 — Defect lộ · 10:30
+## Tình huống 2 — Lỗi sản phẩm bị phát hiện · 10:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -29,7 +29,7 @@
 
 ---
 
-## Scene 3 — Kawakami emergency · 11:00
+## Tình huống 3 — Kawakami emergency · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -42,7 +42,7 @@
 
 ---
 
-## Scene 4 — Hamada call · 14:00
+## Tình huống 4 — Hamada call · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -55,7 +55,7 @@
 
 ---
 
-## Scene 5 — Team emergency huddle · 16:00
+## Tình huống 5 — Họp khẩn cả nhóm · 16:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -69,7 +69,7 @@
 
 ---
 
-## Scene 6 — Đêm overtime · 23:00
+## Tình huống 6 — Đêm overtime · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -81,7 +81,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

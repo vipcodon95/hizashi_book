@@ -8,7 +8,7 @@
 
 ---
 
-## Scene 1 — Sáng tập trung Tennoji · 7:30
+## Tình huống 1 — Sáng tập trung Tennoji · 7:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -26,7 +26,7 @@
 
 ---
 
-## Scene 2 — Bus + Linh chat · 8:30
+## Tình huống 2 — Bus + Linh chat · 8:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -39,7 +39,7 @@
 
 ---
 
-## Scene 3 — Kinkaku-ji · 9:30
+## Tình huống 3 — Kinkaku-ji · 9:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -54,7 +54,7 @@
 
 ---
 
-## Scene 4 — Ryoan-ji 枯山水 · 11:00
+## Tình huống 4 — Ryoan-ji 枯山水 · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -69,7 +69,7 @@
 
 ---
 
-## Scene 5 — Nishiki Market · 12:30
+## Tình huống 5 — Nishiki Market · 12:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -83,7 +83,7 @@
 
 ---
 
-## Scene 6 — Quán yu-doufu · 12:50
+## Tình huống 6 — Quán yu-doufu · 12:50
 
 | Speaker | Lời thoại |
 |---|---|
@@ -98,7 +98,7 @@
 
 ---
 
-## Scene 7 — Fushimi Inari · 14:30
+## Tình huống 7 — Fushimi Inari · 14:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -117,7 +117,7 @@
 
 ---
 
-## Scene 8 — Kiyomizu · 16:30
+## Tình huống 8 — Kiyomizu · 16:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -135,7 +135,7 @@
 
 ---
 
-## Scene 9 — Bus về Osaka · 18:00
+## Tình huống 9 — Bus về Osaka · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -145,13 +145,13 @@
 | Yifan | （<ruby>横<rt>よこ</rt></ruby>から）<ruby>京都<rt>きょうと</rt></ruby><ruby>毎月<rt>まいつき</rt></ruby><ruby>来<rt>く</rt></ruby>たい。<br>*(Bên. Mỗi tháng đến.)* |
 | Sumi | <ruby>俺<rt>おれ</rt></ruby>も！<br>*(Tôi cũng!)* |
 | Yamada | (loa bus) みなさん、<ruby>本日<rt>ほんじつ</rt></ruby>お<ruby>疲<rt>つか</rt></ruby>れさま！<br>*(Vất vả!)* |
-| Cast | お<ruby>疲<rt>つか</rt></ruby>れさまでした！<br>*(Vất vả!)* |
+| Nhân vật | お<ruby>疲<rt>つか</rt></ruby>れさまでした！<br>*(Vất vả!)* |
 | Yamada | <ruby>来週<rt>らいしゅう</rt></ruby><ruby>感想文<rt>かんそうぶん</rt></ruby><ruby>提出<rt>ていしゅつ</rt></ruby>。<ruby>500<rt>ごひゃく</rt></ruby><ruby>字<rt>じ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>。<br>*(Tuần sau nộp cảm tưởng văn ≥500 chữ.)* |
 | Đại | (VN, internal) 500 chữ. Em viết về Kinkaku + Fushimi.<br>*(500.)* |
 
 ---
 
-## Scene 10 — Đêm reflect + email mẹ · 22:00
+## Tình huống 10 — Đêm reflect + email mẹ · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -167,7 +167,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

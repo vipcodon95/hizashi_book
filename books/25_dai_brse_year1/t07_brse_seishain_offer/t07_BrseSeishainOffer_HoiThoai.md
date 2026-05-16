@@ -11,7 +11,7 @@
 
 ---
 
-## Scene 1 — Office Thanh Hà 6F · 14:00 phòng họp riêng
+## Tình huống 1 — Office Thanh Hà 6F · 14:00 phòng họp riêng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -24,7 +24,7 @@
 
 ---
 
-## Scene 2 — Takahashi propose 正社員 · 14:15
+## Tình huống 2 — Takahashi propose 正社員 · 14:15
 
 | Speaker | Lời thoại |
 |---|---|
@@ -36,7 +36,7 @@
 
 ---
 
-## Scene 3 — Đại honest decline · 14:30
+## Tình huống 3 — Đại honest decline · 14:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -48,7 +48,7 @@
 
 ---
 
-## Scene 4 — Takahashi propose alternative · 14:45
+## Tình huống 4 — Takahashi propose alternative · 14:45
 
 | Speaker | Lời thoại |
 |---|---|
@@ -60,7 +60,7 @@
 
 ---
 
-## Scene 5 — Tối Đại standup Hizashi · 21:00
+## Tình huống 5 — Tối Đại standup Hizashi · 21:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -73,7 +73,7 @@
 
 ---
 
-## Scene 6 — Đêm Đại+Mai discussion · 22:30
+## Tình huống 6 — Đêm Đại+Mai discussion · 22:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -87,7 +87,7 @@
 
 ---
 
-## Scene 7 — Mai sáng email Takahashi · Thứ Sáu 9:00
+## Tình huống 7 — Mai sáng email Takahashi · Thứ Sáu 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -98,7 +98,7 @@
 
 ---
 
-## Scene 8 — Tối phản chiếu · 22:00
+## Tình huống 8 — Tối phản chiếu · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -108,7 +108,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -126,10 +126,10 @@
 
 ## Bí quyết chương
 
-- **Mẫu từ chối lời mời 正社員**: Lý do chân thành (trách nhiệm founder Hizashi) + lịch sự + chờ đề xuất thay thế
+- **Cách từ chối lời mời 正社員**: Lý do chân thành (trách nhiệm founder Hizashi) + lịch sự + chờ đề xuất thay thế
 - **CEO Takahashi điều chỉnh hình thức**: BD BrSE 3 ngày = đôi bên cùng có lợi cho cả công ty và founder
-- **Bàn với gia đình trước**: Mai là người liên quan + thời gian cho Hana = quyết định gia đình
-- **¥350k 3 ngày > ¥280k 5 ngày**: Năng suất theo giờ cao hơn + Hizashi 4 ngày
-- **Sáng thứ Ba+Năm ở nhà với Hana**: "Giai đoạn vàng cha mẹ chơi với con 22 tháng"
+- **Bàn với gia đình trước**: Mai là người liên quan + thời gian cho Hana = quyết định chung
+- **¥350k 3 ngày > ¥280k 5 ngày**: Năng suất theo giờ cao hơn + Hizashi được thêm 4 ngày mỗi tuần
+- **Sáng thứ Ba+Năm ở nhà với Hana**: giai đoạn vàng cha mẹ chơi cùng con 22 tháng tuổi
 
-> *"CEO Takahashi mời 正社員 ¥5.5M, từ chối. BD BrSE 3 ngày/tuần ¥350k đã nhận. Mai ủng hộ 100%. Hizashi tăng 30% năng suất. Hana có bố sáng thứ Ba+Năm. 1/10/2030 bắt đầu vai trò mới. Tuần sau chuẩn bị ra mắt v1.0."*
+> *"CEO Takahashi mời 正社員 ¥5.5M, từ chối. Nhận BD BrSE 3 ngày/tuần ¥350k. Mai ủng hộ 100%. Hizashi tăng thêm 30% năng suất. Hana có bố ở nhà sáng thứ Ba+Năm. 1/10/2030 bắt đầu vai trò mới. Tuần sau chuẩn bị ra mắt v1.0."*

@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — N2 KQ 8/2025 · 9:00
+## Tình huống 1 — N2 KQ 8/2025 · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -20,7 +20,7 @@
 
 ---
 
-## Scene 2 — Báo gia đình + Tanaka · 10:00
+## Tình huống 2 — Báo gia đình + Tanaka · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -34,7 +34,7 @@
 
 ---
 
-## Scene 3 — EJU 2 KQ 12/2025 · 9:30 (4 tháng sau)
+## Tình huống 3 — EJU 2 KQ 12/2025 · 9:30 (4 tháng sau)
 
 | Speaker | Lời thoại |
 |---|---|
@@ -49,7 +49,7 @@
 
 ---
 
-## Scene 4 — Cohort 報告 dorm dinner · 19:00
+## Tình huống 4 — Báo tin cả nhóm · bữa tối ký túc · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -60,11 +60,11 @@
 | Đại | <ruby>4<rt>よん</rt></ruby><ruby>カ国<rt>かこく</rt></ruby>の<ruby>応援<rt>おうえん</rt></ruby>のおかげです。<br>*(Nhờ 4 nước cổ vũ.)* |
 | Bahra | <ruby>俺<rt>おれ</rt></ruby>はN2を6<ruby>月<rt>がつ</rt></ruby>2026<ruby>年<rt>ねん</rt></ruby>に<ruby>受<rt>う</rt></ruby>けます。<br>*(Tôi thi N2 tháng 6/2026.)* |
 | Rim | (VN) Em đăng ký Kyoto 12/2026.<br>*(12/2026.)* |
-| Cohort cheer · cùng nhau<br> | <br> |
+| Cả nhóm chúc mừng · cùng nhau<br> | <br> |
 
 ---
 
-## Scene 5 — Linh news N3 dec · 13/12
+## Tình huống 5 — Linh báo đỗ N3 tháng 12 · 13/12
 
 | Speaker | Lời thoại |
 |---|---|
@@ -75,7 +75,7 @@
 
 ---
 
-## Scene 6 — Tony+Yumi 祝い dinner · 19:00 weekend
+## Tình huống 6 — Tony+Yumi 祝い dinner · 19:00 weekend
 
 | Speaker | Lời thoại |
 |---|---|
@@ -88,7 +88,7 @@
 
 ---
 
-## Scene 7 — Bahra mừng + present · sau dinner
+## Tình huống 7 — Bahra mừng + present · sau dinner
 
 | Speaker | Lời thoại |
 |---|---|
@@ -100,7 +100,7 @@
 
 ---
 
-## Scene 8 — 12/12-15 apply Osaka U · ngày apply
+## Tình huống 8 — 12/12-15 apply Osaka U · ngày apply
 
 | Speaker | Lời thoại |
 |---|---|
@@ -115,7 +115,7 @@
 
 ---
 
-## Scene 9 — Apply Kobe + Kansai · cùng tuần
+## Tình huống 9 — Apply Kobe + Kansai · cùng tuần
 
 | Speaker | Lời thoại |
 |---|---|
@@ -126,7 +126,7 @@
 
 ---
 
-## Scene 10 — Đêm reflect cuối 12/2025 · 23:00
+## Tình huống 10 — Đêm reflect cuối 12/2025 · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -138,7 +138,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Contract draft v1 Tiên Phát gửi 大垣. Bên 白鷗 legal trả về v2 với (a) indemnity cap unlimited, (b) IP toàn bộ thuộc 白鷗 (kể cả reusable component). Hà CTO phản đối — Dũng cần đàm phán 3 vòng để đạt cap = ¥17M + IP split clause.
+Contract draft v1 Tiên Phát gửi 大垣. Bên 白鷗 legal trả về v2 với (a) indemnity cap unlimited, (b) IP toàn bộ thuộc 白鷗 (kể cả reusable component). Hà CTO phản đối — Dũng cần đàm phán 3 vòng để đạt cap = ¥17M + điều khoản phân chia IP (IP split clause).
 
 ---
 
@@ -25,11 +25,11 @@ Contract draft v1 Tiên Phát gửi 大垣. Bên 白鷗 legal trả về v2 vớ
 | (1 ヶ月後 contract 締結、Tuấn 知る) **トゥアン** | 「ズン、これ **無制限損害賠償** じゃないか…1 件 bug で会社潰れるぞ。」 |
 | **ハー CTO** | 「これ legal レビュー通したのか？ **撤回交渉**を今すぐかけるしかない。」 |
 
-**Vì sao xấu:** Indemnity unlimited = 1 production incident có thể dẫn đến ¥100M+ claim — Tiên Phát phá sản. IP toàn bộ thuộc 白鷗 = reusable AI component không thể dùng cho khách khác → Phase 4 mất margin. Đây là 2 fatal mistakes.
+**Vì sao xấu:** Indemnity unlimited = 1 production incident có thể dẫn đến ¥100M+ claim — Tiên Phát phá sản. IP toàn bộ thuộc 白鷗 = reusable AI component không thể dùng cho khách khác → Phase 4 mất margin. Đây là 2 sai sót nghiêm trọng.
 
 ---
 
-## ✅ Hội thoại TỐT — fine-tune 3 điểm với data + escalation
+## ✅ Hội thoại TỐT — tinh chỉnh 3 điểm với data + escalation
 
 *沈黙 5秒 → メモ*
 
@@ -45,7 +45,7 @@ Contract draft v1 Tiên Phát gửi 大垣. Bên 白鷗 legal trả về v2 vớ
 📝 **Ghi chú:**
 - 【1】**「ただし」 + 「持ち帰り検討」** — 即決 NO ではなく escalation バッファ。日本流 disagree 礼儀.
 - 【2】**Hà CTO walk-away line 明確** = 3 点。これ未満なら本当に撤退。曖昧なら negotiation で flip される.
-- 【3】**「業界標準」 framing** = 個人主張ではなく市場 norm. 受け入れ confidence 高い.
+- 【3】**「業界標準」 framing** = 個人主張ではなく市場 norm. Độ tin cậy cao hơn khi dùng "chuẩn ngành".
 
 ---
 

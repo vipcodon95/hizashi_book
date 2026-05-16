@@ -2,7 +2,7 @@
 
 *Sách song ngữ Việt-Nhật về 3 trụ cột giao tiếp công việc Nhật: 報告 (báo cáo) · 連絡 (liên lạc) · 相談 (tham vấn).*
 
-**Đối tượng:** Dev/PM/BD VN làm offshore với khách Nhật. Critical cho ôn BJT J3-J2.
+**Đối tượng:** Dev/PM/BD VN làm offshore với khách Nhật. Thiết yếu cho ôn BJT J3-J2.
 
 ## Cấu trúc
 
@@ -43,7 +43,7 @@ python3 scripts/review_book.py
 ## Roadmap
 
 - ✅ v1.0 — 40 rules + 4 phụ lục + front matter
-- ✅ v1.1 — Sau 3 review pass (JP keigo + VN + native JP)
+- ✅ v1.1 — Sau 3 vòng đánh giá (JP keigo + VN + native JP)
 - 🔜 v1.2+ — TTS audio + native JP human review
 
 ---

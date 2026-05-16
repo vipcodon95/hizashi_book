@@ -10,7 +10,7 @@ Tháng 9/2027. Đã 6 tháng từ T1 (1/4/2027). Suzuki tổ chức 中間面接
 
 ---
 
-## Scene 1 — Phòng Hoa · 19:00 buổi tối hôm trước
+## Tình huống 1 — Phòng Hoa · 19:00 buổi tối hôm trước
 
 | Speaker | Lời thoại |
 |---|---|
@@ -28,7 +28,7 @@ Tháng 9/2027. Đã 6 tháng từ T1 (1/4/2027). Suzuki tổ chức 中間面接
 
 ---
 
-## Scene 2 — Hoa hướng dẫn Mai cụm trình bày
+## Tình huống 2 — Hoa hướng dẫn Mai cụm trình bày
 
 | Speaker | Lời thoại |
 |---|---|
@@ -44,7 +44,7 @@ Tháng 9/2027. Đã 6 tháng từ T1 (1/4/2027). Suzuki tổ chức 中間面接
 
 ---
 
-## Scene 3 — Sáng hôm sau · Mai mensetsu trước
+## Tình huống 3 — Sáng hôm sau · Mai mensetsu trước
 
 Hoa đợi ngoài hành lang. Mai vào phòng Suzuki.
 
@@ -62,7 +62,7 @@ Hoa đợi ngoài hành lang. Mai vào phòng Suzuki.
 
 ---
 
-## Scene 4 — Hoa vào phòng Suzuki
+## Tình huống 4 — Hoa vào phòng Suzuki
 
 | Speaker | Lời thoại |
 |---|---|
@@ -77,7 +77,7 @@ Hoa đợi ngoài hành lang. Mai vào phòng Suzuki.
 
 ---
 
-## Scene 5 — Suzuki tiếp
+## Tình huống 5 — Suzuki tiếp
 
 | Speaker | Lời thoại |
 |---|---|
@@ -92,7 +92,7 @@ Hoa đợi ngoài hành lang. Mai vào phòng Suzuki.
 
 ---
 
-## Scene 6 — Suzuki bàn lộ trình SSW1
+## Tình huống 6 — Suzuki bàn lộ trình SSW1
 
 | Speaker | Lời thoại |
 |---|---|
@@ -109,7 +109,7 @@ Hoa đợi ngoài hành lang. Mai vào phòng Suzuki.
 
 ---
 
-## Scene 7 — Suzuki khen + advice
+## Tình huống 7 — Suzuki khen + advice
 
 | Speaker | Lời thoại |
 |---|---|
@@ -126,7 +126,7 @@ Hoa đợi ngoài hành lang. Mai vào phòng Suzuki.
 
 ---
 
-## Scene 8 — Hành lang sau mensetsu — Mai đợi
+## Tình huống 8 — Hành lang sau mensetsu — Mai đợi
 
 | Speaker | Lời thoại |
 |---|---|
@@ -141,7 +141,7 @@ Hoa đợi ngoài hành lang. Mai vào phòng Suzuki.
 
 ---
 
-## Scene 9 — Trưa · 食堂 với Linh chị qua LINE
+## Tình huống 9 — Trưa · 食堂 với Linh chị qua LINE
 
 | Speaker | Lời thoại |
 |---|---|
@@ -156,7 +156,7 @@ Hoa đợi ngoài hành lang. Mai vào phòng Suzuki.
 
 ---
 
-## Scene 10 — Tối · Hoa ăn cơm với Mai và Putri
+## Tình huống 10 — Tối · Hoa ăn cơm với Mai và Putri
 
 | Speaker | Lời thoại |
 |---|---|
@@ -173,7 +173,7 @@ Hoa đợi ngoài hành lang. Mai vào phòng Suzuki.
 
 ---
 
-## Scene 11 — Hoa gọi điện về VN
+## Tình huống 11 — Hoa gọi điện về VN
 
 | Speaker | Lời thoại |
 |---|---|
@@ -189,7 +189,7 @@ Hoa đợi ngoài hành lang. Mai vào phòng Suzuki.
 
 ---
 
-## Scene 12 — Hoa viết nhật ký
+## Tình huống 12 — Hoa viết nhật ký
 
 | Speaker | Lời thoại |
 |---|---|
@@ -221,9 +221,9 @@ Hoa đợi ngoài hành lang. Mai vào phòng Suzuki.
 ## 💡 Bí quyết end-chapter
 
 - Mensetsu năm 2 = role sempai. Trình bày: 後輩指導 + chứng chỉ + N3 + tương lai dài hạn
-- Cụm "~に挑戦したいと考えております" = formal aspirational chuẩn cho mensetsu
+- Cụm "~に挑戦したいと考えております" = trang trọng thể hiện nguyện vọng, chuẩn cho buổi phỏng vấn
 - N3 = miễn thi SSW1 飲食料品製造業 → ưu tiên cao nhất
-- Coach kohai trước mensetsu = chỉ pattern câu, luyện vài lần
+- Hướng dẫn kohai trước mensetsu = chỉ pattern câu, luyện vài lần
 - "無理しないで" — sempai cũng cần giới hạn
 
 ---

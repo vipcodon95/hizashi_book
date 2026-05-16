@@ -1,6 +1,6 @@
 # Rule 10 — Câu mở chào lịch sự / 商談冒頭
 
-> **Luận điểm.** 30 giây đầu của đàm phán = anchor cho cả buổi. Câu mở phải có 4 phần: **(1) Cảm ơn thời gian**, **(2) Tự giới thiệu lại nếu có đa người**, **(3) Acknowledge tình hình khách**, **(4) Nói rõ today's intent ngắn**. Đi thẳng vào bargain = mất tone formal.
+> **Luận điểm.** 30 giây đầu của đàm phán = anchor cho cả buổi. Câu mở phải có 4 phần: **(1) Cảm ơn thời gian**, **(2) Tự giới thiệu lại nếu có đa người**, **(3) Ghi nhận tình hình khách**, **(4) Nói rõ mục tiêu hôm nay ngắn gọn**. Đi thẳng vào bargain = mất giọng điệu trang trọng.
 >
 > 商談冒頭の30秒は全体のtoneを決める。4要素必須: お礼・再自己紹介・相手状況への言及・本日の意図。直で値段の話に入るのは粗野。
 >
@@ -41,7 +41,7 @@
 - 【1】**お礼が最初** — 「お忙しい中」必ず付ける。CFO クラスにはこの一言で「あなたの時間を尊重」を伝える.
 - 【2】**再自己紹介 + チームメンバー紹介** — 名刺交換しているが、口頭でも明示. 特に CFO 同席時.
 - 【3】**相手状況への言及 (IR / 業績 / 季節)** — 顧客リサーチ (rule 04) の成果をここで使う. "anh/chị nhớ đến tình hình bên em" tone Nhật quan trọng.
-- 【4】**本日の意図を1文で**: "3 段階の選択肢" — KHÔNG quote giá ngay, để discovery đi trước.
+- 【4】**Mục tiêu hôm nay gói trong 1 câu**: "3 段階の選択肢" — KHÔNG quote giá ngay, để discovery đi trước.
 
 ---
 
@@ -49,7 +49,7 @@
 
 > **「商談冒頭30秒は4要素 (お礼・再紹介・相手状況・本日意図)。値段は冒頭に出さない。」**
 >
-> *30s mở đàm phán cần 4 yếu tố: cảm ơn / tự giới thiệu lại / acknowledge khách / today's intent. KHÔNG quote giá ngay đầu.*
+> *30s mở đàm phán cần 4 yếu tố: cảm ơn / tự giới thiệu lại / ghi nhận tình hình khách / mục tiêu hôm nay. KHÔNG quote giá ngay đầu.*
 
 ---
 

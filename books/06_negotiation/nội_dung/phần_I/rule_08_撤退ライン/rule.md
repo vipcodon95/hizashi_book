@@ -41,7 +41,7 @@ Sáng đàm phán Phase 3, sau alignment meeting. Hà CTO yêu cầu Dũng đọ
 📝 **Ghi chú:**
 - 【1】**5 軸 walk-away** — 価格 / IP / SLA / 支払 / 責任上限. Một số vụ thêm: 競業避止、再委託禁止 etc.
 - 【2】**責任上限 (liability cap)** — thường = 契約金額の 100%. Khách JP đôi khi đòi unlimited → walk-away ngay.
-- 【3】**Core IP vs white-label** — định nghĩa rõ ranh giới. AI engine bản thể vs customization layer.
+- 【3】**Core IP vs white-label** — định nghĩa rõ ranh giới. AI engine bản thể vs lớp tùy chỉnh.
 
 ---
 

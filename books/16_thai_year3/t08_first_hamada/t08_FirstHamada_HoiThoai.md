@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Kawakami dặn dò · 8:30
+## Tình huống 1 — Kawakami dặn dò · 8:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -17,7 +17,7 @@
 
 ---
 
-## Scene 2 — Sakurai dạy kính ngữ trang trọng · 9:00
+## Tình huống 2 — Sakurai dạy kính ngữ trang trọng · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -30,7 +30,7 @@
 
 ---
 
-## Scene 3 — Hamada đến · 10:00
+## Tình huống 3 — Hamada đến · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -44,7 +44,7 @@
 
 ---
 
-## Scene 4 — Hamada xem dự án · 10:15
+## Tình huống 4 — Hamada xem dự án · 10:15
 
 | Speaker | Lời thoại |
 |---|---|
@@ -57,7 +57,7 @@
 
 ---
 
-## Scene 5 — Hamada nhận xét · 11:00
+## Tình huống 5 — Hamada nhận xét · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -71,7 +71,7 @@
 
 ---
 
-## Scene 6 — Đêm · 22:00
+## Tình huống 6 — Đêm · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -82,7 +82,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

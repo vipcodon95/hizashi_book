@@ -7,7 +7,7 @@
   },
   "rule_context": {
     "ja": "重要通話後、1時間以内にフォローアップメールを送る約束を電話の最後で明示する場面。",
-    "vi": "Sau cuộc gọi quan trọng, cuối điện thoại nói rõ sẽ gửi mail follow-up trong 1h."
+    "vi": "Sau cuộc gọi quan trọng, cuối điện thoại nói rõ sẽ gửi mail tóm tắt trong 1h."
   },
   "related_rules": [
     "rule_35",
@@ -30,7 +30,7 @@
           "speaker_role": "BD担当",
           "gender": "male",
           "sentence": "先ほどの内容、本日中にフォローアップメールでまとめてお送りいたします。ご確認のほどよろしくお願いいたします。",
-          "sentence_translation": "Nội dung vừa rồi em sẽ tổng hợp gửi mail follow-up trong hôm nay. Phiền anh xác nhận giúp em ạ.",
+          "sentence_translation": "Nội dung vừa rồi em sẽ tổng hợp gửi mail tóm tắt trong hôm nay. Phiền anh xác nhận giúp em ạ.",
           "tone": "formal",
           "speed_multiplier": 0.95
         },
@@ -51,7 +51,7 @@
       "phrase_id": "rule_51_kp_01",
       "speaker": "zun",
       "sentence": "本日中にフォローアップメールでまとめてお送りいたします。",
-      "sentence_translation": "Em sẽ tổng hợp gửi mail follow-up trong hôm nay ạ.",
+      "sentence_translation": "Em sẽ tổng hợp gửi mail tóm tắt trong hôm nay ạ.",
       "purpose": "通話後の文書化約束",
       "slow_audio": true
     }

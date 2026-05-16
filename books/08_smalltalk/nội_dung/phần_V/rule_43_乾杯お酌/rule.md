@@ -78,7 +78,7 @@ Tháng 5/2026, dinner Phase 4 closing tại izakaya Tokyo. Cùng cast với rule
 
 ### 📍 Scenario 4 — Vùng cấm: ép uống "trăm phần trăm" kiểu VN
 
-*VN style — well-meaning nhưng NG · awkward, không quen 一気飲み · rescue ngay · notice · nhẹ · bridge khéo*
+*VN style — với ý tốt nhưng NG · lúng túng, không quen 一気飲み · gỡ ngay · notice · nhẹ · chuyển khéo*
 
 | Speaker | Câu |
 |---------|-----|
@@ -89,7 +89,7 @@ Tháng 5/2026, dinner Phase 4 closing tại izakaya Tokyo. Cùng cast với rule
 | **松本** | 「いえいえ、文化の違い面白いですね。**100%**って表現、覚えましたよ(笑)」 |
 | **ズン** | 「松本さんがいつかハノイに来られた時、ぜひ"100%"してください(笑)。今日は**獺祭ペース**でゆっくりと。」 |
 
-📝 **Cảnh báo:** VN "1, 2, 3 dô" / 100% = phong tục VN không **ép** sang JP. Senior JP không quen có thể buộc phải nhậu = mất sức lực + cảm giác không thoải mái. **Bridge**: "100% là VN style, ペース là JP style — both nghệ thuật".
+📝 **Cảnh báo:** VN "1, 2, 3 dô" / 100% = phong tục VN không **ép** sang JP. Senior JP không quen có thể buộc phải nhậu = mất sức lực + cảm giác không thoải mái. **Bắc cầu**: "100% là VN style, ペース là JP style — cả hai đều là nghệ thuật".
 
 ---
 
@@ -153,7 +153,7 @@ Tháng 5/2026, dinner Phase 4 closing tại izakaya Tokyo. Cùng cast với rule
 
 **J3 — 場面把握:** Ly junior thấp hơn ly senior khi 乾杯. Notice ly trống senior → rót ngay.
 **J2 — 表現読解:** Phân biệt "強要" (ép) vs "勧める" (mời) — không vượt qua line.
-**J1 — 発言聴解:** Bridge khi đồng nghiệp VN sai sót お酌 protocol → rescue khéo, không trách công khai.
+**J1 — 発言聴解:** Kết nối khi đồng nghiệp VN sai sót お酌 protocol → gỡ khéo, không trách công khai.
 
 ---
 

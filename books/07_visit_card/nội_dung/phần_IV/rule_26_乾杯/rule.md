@@ -23,7 +23,7 @@ Phòng riêng nhà hàng Q1, mọi người vừa ngồi xong lúc 18:35. Hà CT
 | **ズン** | （自分のglassを中村CFOのglassより高く合わせる、カチンと音）「乾杯！」 |
 | **中村CFO** | （沈黙、軽く頷く） |
 
-**Vì sao xấu:** (1) Uống trước khi có hô = phá thứ tự. (2) Ly cao hơn ly CFO = đảo trên dưới (signal "tôi cao hơn anh"). (3) Cụng mạnh kêu 'cốp' = vỡ ly + phản cảm. CFO im lặng = đã chấm điểm âm.
+**Vì sao xấu:** (1) Uống trước khi có hô = phá thứ tự. (2) Ly cao hơn ly CFO = đảo trên dưới (ngầm nói "tôi cao hơn anh"). (3) Cụng mạnh kêu 'cốp' = vỡ ly + phản cảm. CFO im lặng = đã chấm điểm âm.
 
 ---
 

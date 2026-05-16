@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Pitch Tuấn · 14/12
+## Tình huống 1 — Pitch Tuấn · 14/12
 
 | Speaker | Lời thoại |
 |---|---|
@@ -17,7 +17,7 @@
 
 ---
 
-## Scene 2 — Pitch Aiko · 14/12
+## Tình huống 2 — Pitch Aiko · 14/12
 
 | Speaker | Lời thoại |
 |---|---|
@@ -32,7 +32,7 @@
 
 ---
 
-## Scene 3 — Tuấn YES · 17/12
+## Tình huống 3 — Tuấn YES · 17/12
 
 | Speaker | Lời thoại |
 |---|---|
@@ -42,7 +42,7 @@
 
 ---
 
-## Scene 4 — Aiko YES · 18/12
+## Tình huống 4 — Aiko YES · 18/12
 
 | Speaker | Lời thoại |
 |---|---|
@@ -52,7 +52,7 @@
 
 ---
 
-## Scene 5 — Founders dinner · 22/12
+## Tình huống 5 — Founders dinner · 22/12
 
 | Speaker | Lời thoại |
 |---|---|
@@ -66,7 +66,7 @@
 
 ---
 
-## Scene 6 — Đêm reflect
+## Tình huống 6 — Đêm reflect
 
 | Speaker | Lời thoại |
 |---|---|
@@ -78,7 +78,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -93,8 +93,8 @@
 
 ## Bí quyết chương
 
-- **2 cofounders complementary**: VN biz (Tuấn) + JP design (Aiko). Bridge cohort callback.
-- **Cap table realistic**: 60/25/15 + Anri 15% = 51/21/13/15.
-- **Hana name 3**: Đại + Tuấn (anh) + Aiko (chị).
+- **2 cofounder bổ trợ nhau**: Mảng kinh doanh VN (Tuấn) + thiết kế Nhật (Aiko). Gắn kết với nhóm nhân vật cũ.
+- **Cơ cấu cổ phần thực tế**: 60/25/15 + Anri 15% = 51/21/13/15.
+- **Hana gọi "anh Tuấn anh, chị Aiko"**: Đại + Tuấn (anh) + Aiko (chị).
 
-> *"Cofounders Tuấn + Aiko YES! Cap table 51/21/13/15 (Đại/Tuấn/Aiko/Anri). Hizashi team formed."*
+> *"Cofounder Tuấn + Aiko — đồng ý! Cơ cấu cổ phần 51/21/13/15 (Đại/Tuấn/Aiko/Anri). Đội Hizashi thành hình."*

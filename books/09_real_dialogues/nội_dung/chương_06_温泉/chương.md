@@ -16,7 +16,7 @@
 
 ---
 
-## Scene 1 — Sat 09:00 · Ga Tokyo Shinkansen platform, Tōkaidō line
+## Tình huống 1 — Sat 09:00 · Ga Tokyo Shinkansen platform, Tōkaidō line
 
 *Ga Tokyo platform 14, Shinkansen Kodama đi Atami (≈45 phút). Trời lạnh 6°C. Matsumoto + Ōgaki đã đợi. Dũng + Tuấn đến sau 5 phút.*
 
@@ -47,7 +47,7 @@ Khách JP default đặt seat reservation Shinkansen trước:
 
 ---
 
-## Scene 2 — Sat 09:45 · Trên Shinkansen Kodama 627, toa 3
+## Tình huống 2 — Sat 09:45 · Trên Shinkansen Kodama 627, toa 3
 
 *Tàu chạy 45 phút Tokyo → Atami. Ōgaki rút bento sáng (eki-ben) lớn từ tote bag — chia cho cả 4 người.*
 
@@ -83,7 +83,7 @@ Senior host treat eki-ben / drink cho junior trên tàu = small gesture, đừng
 
 ---
 
-## Scene 3 — Sat 10:30 · Ga Atami arrival
+## Tình huống 3 — Sat 10:30 · Ga Atami arrival
 
 *Atami station, không khí hơi mặn của biển. Trời nắng nhẹ nhưng lạnh 5°C. Xe ryokan đến đón. Dũng mặc thiếu — không khoác áo dày.*
 
@@ -115,7 +115,7 @@ Senior offer help (khăn, áo, ô) = đừng từ chối kiêu:
 
 ---
 
-## Scene 4 — Sat 11:00 · Ryokan check-in lobby (Ryokan 月の屋, traditional)
+## Tình huống 4 — Sat 11:00 · Ryokan check-in lobby (Ryokan 月の屋, traditional)
 
 *Ryokan truyền thống 80 năm tuổi. Lobby gỗ + thảm tatami. Bà chủ ryokan ≈65t, kimono đậm. Dũng không biết quy tắc 上がり框 (genkan), giẫm lên tatami với giày — bà chủ nhắc nhẹ.*
 
@@ -155,7 +155,7 @@ Quy tắc:
 
 ---
 
-## Scene 5 — Sat 12:30 · Phòng tatami chung 'Matsu no ma' — lunch trong phòng
+## Tình huống 5 — Sat 12:30 · Phòng tatami chung 'Matsu no ma' — lunch trong phòng
 
 *Phòng 16 tatami, view núi. Bàn thấp giữa phòng, 4 chỗ ngồi zabuton. Lunch kaiseki nhẹ 9 món ra trên khay. Dũng không biết tên 7/9 món.*
 
@@ -194,7 +194,7 @@ Kaiseki = 5-15 món tiny portion, mỗi món có philosophy. Lần đầu:
 
 ---
 
-## Scene 6 — Sat 15:00 · Onsen ngoài trời (rotenburo) — bồn lớn nhìn ra biển
+## Tình huống 6 — Sat 15:00 · Onsen ngoài trời (rotenburo) — bồn lớn nhìn ra biển
 
 *Onsen rotenburo gỗ, 5×3m, view biển Atami. Trời xám nhẹ, gió biển. Nước nóng 41°C. Dũng có 1 hình xăm nhỏ 3cm vai trái (chữ 'Mẹ' tiếng Việt, từ thời sinh viên). Đã hỏi ryokan trước — accept với band-aid che.*
 
@@ -234,7 +234,7 @@ Message onsen sâu hơn relax: '裸の付き合い' = ritual equalize hierarchy.
 
 ---
 
-## Scene 7 — Sat 17:00 · Sảnh ryokan, trà chiều với wagashi
+## Tình huống 7 — Sat 17:00 · Sảnh ryokan, trà chiều với wagashi
 
 *Sảnh có tatami + tranh thư pháp + bonsai. Bà chủ phục vụ trà matcha + wagashi (kẹo Nhật). Dũng chưa quen vị matcha đắng — Matsumoto thấy.*
 
@@ -274,7 +274,7 @@ Matcha (薄茶 / 濃茶) đắng intense với người mới:
 
 ---
 
-## Scene 8 — Sat 19:00 · Phòng tatami — kaiseki dinner 12 món
+## Tình huống 8 — Sat 19:00 · Phòng tatami — kaiseki dinner 12 món
 
 *Tối, phòng tatami chuẩn bị bàn thấp + 4 chỗ. Nakai bưng kaiseki ra 1 món/lần. Sake nóng (atsukan) ra round 2. Ōgaki rót cho mọi người.*
 
@@ -323,7 +323,7 @@ Sake nóng (atsukan) ryokan winter:
 
 ---
 
-## Scene 9 — Sat 21:00 · Onsen indoor lần 2 (sau dinner)
+## Tình huống 9 — Sat 21:00 · Onsen indoor lần 2 (sau dinner)
 
 *Onsen indoor nhỏ 30 phút sau dinner. Chỉ Ōgaki + Dũng còn 2 người (Matsumoto + Tuấn về phòng đọc sách). Ōgaki bắt đầu chia sẻ chuyện gia đình — lần đầu Dũng nghe senior open như vậy.*
 
@@ -360,7 +360,7 @@ Sake nóng (atsukan) ryokan winter:
 
 **Late onsen 1-on-1** (sau dinner, nhỏ, 2 người) = environment senior JP hay open up nhất:
 - Vì tắm trần → cởi vật chất.
-- Vì alcohol nhẹ + warm water → relax.
+- Vì alcohol nhẹ + warm water → thư giãn.
 - Vì ánh sáng nhỏ + hơi nước → privacy thật.
 - Vì chỉ 2 người → không audience.
 
@@ -376,7 +376,7 @@ Response pattern khi senior share intimate:
 
 ---
 
-## Scene 10 — Sat 22:30 · Phòng tatami — futon
+## Tình huống 10 — Sat 22:30 · Phòng tatami — futon
 
 *Sau onsen + thay đồ yukata. Phòng đã được nakai trải futon — 4 cái cách nhau. Matsumoto + Ōgaki phòng khác (2 phòng total). Dũng + Tuấn 1 phòng. Ngồi nói chuyện 30 phút bằng tiếng Việt.*
 
@@ -388,7 +388,7 @@ Response pattern khi senior share intimate:
 | **ズン** | 「(ベトナム語)Anh ấy nói về bố mất 8 năm trước, advice em nhớ về VN gặp bố mẹ thường, không hối tiếc. Em thấy moment intimate, không muốn share rộng.」<br>*(tiếng Việt) Anh ấy nói về bố mất 8 năm trước, advice em nhớ về VN gặp bố mẹ thường, không hối tiếc. Em thấy moment intimate, không muốn share rộng.* |
 | **トゥアンリーダー** | 「(ベトナム語、頷く)OK, anh respect. Có lẽ relationship Ōgaki - em đã sang level trust mới. Note vào memory bank — không file project, file personal.」<br>*(tiếng Việt, gật) OK, anh respect. Có lẽ relationship Ōgaki - em đã sang level trust mới. Note vào memory bank — không phải mục project, mà mục personal nhé.* |
 | **ズン** | 「(ベトナム語)Vâng. Em đang nghĩ — onsen retreat ban đầu em nghĩ relax, giờ thấy retreat = container cho conversation không thể happen ở environment khác.」<br>*(tiếng Việt) Vâng. Em đang nghĩ — onsen retreat ban đầu em nghĩ relax, giờ thấy retreat = container cho conversation không thể happen ở environment khác.* |
-| **トゥアンリーダー** | 「(ベトナム語)Đúng. Đó là lý do người Nhật business dùng onsen offsite. Không phải perk, là tool.」<br>*(tiếng Việt) Đúng. Đó là lý do người Nhật business dùng onsen offsite. Không phải perk, là tool.* |
+| **トゥアンリーダー** | 「(ベトナム語)Đúng. Đó là lý do người Nhật business dùng onsen offsite. Không phải perk, là tool.」<br>*(tiếng Việt) Đúng. Đó là lý do người Nhật business dùng onsen offsite. Không phải phúc lợi thêm, mà là công cụ.* |
 | **ズン** | 「(ベトナム語)Em note rồi. Mai sáng dậy 7h ăn breakfast với cả nhóm, 11h Shinkansen về Tokyo.」<br>*(tiếng Việt) Em note rồi. Mai sáng dậy 7h ăn breakfast với cả nhóm, 11h Shinkansen về Tokyo.* |
 | **トゥアンリーダー** | 「(ベトナム語)Ngủ. Mai dậy ăn cơm gohan + cá nướng ngon lắm.」<br>*(tiếng Việt) Ngủ. Mai dậy ăn cơm gohan + cá nướng ngon lắm.* |
 
@@ -401,13 +401,13 @@ Response pattern khi senior share intimate:
 - ✅ **Process emotion** — chuyển trải nghiệm từ raw feeling sang articulated insight.
 - ✅ **Decide what to share / not share** — Tuấn respect Dũng giữ Ōgaki story riêng.
 - ✅ **Memory bank tagging**: file 'personal' vs 'project' — Ōgaki father story = personal, không vào CRM.
-- ✅ **Capture meta-insight** ('onsen = tool not perk') — apply cho future.
+- ✅ **Capture meta-insight** ('onsen = công cụ, không phải phúc lợi thêm') — apply cho future.
 - Không lảng vảng quá lâu (30 phút max) — sáng mai 7h dậy.
 
 
 ---
 
-## Scene 11 — Sun 11:00 · Ga Atami departure
+## Tình huống 11 — Sun 11:00 · Ga Atami departure
 
 *Sáng chủ nhật, sau breakfast 7h + onsen lần 3 sáng + check-out 10:30. Ra ga Atami. Lên Shinkansen 11:15 về Tokyo. Dũng trên đường ra ga ghé vending machine, mua 1 lon cà phê hộp ¥130 — đưa Matsumoto.*
 
@@ -458,7 +458,7 @@ Matsumoto invite next time + family = relationship đã sang chiều personal, k
 3 điều rút ra:
 1. Onsen retreat ≠ relax. Là TOOL chuyển level relationship.
    Container cho conversation không thể happen ở environment khác.
-   → Khách JP business dùng onsen offsite có lý do, không phải perk.
+   → Khách JP business dùng onsen offsite có lý do, không phải phúc lợi thêm.
 2. Sake cup half-cup khôn = pro reason ('sáng mai tỉnh').
    → Senior accept + còn khen 'khôn'. Không cần từ chối hoàn toàn.
 3. Matcha + wagashi metaphor — 'combination not single'.
@@ -485,7 +485,7 @@ Action items:
 
 Mình:
 - Onsen weekend này khác hẳn 6 tháng làm việc trước. Trust deepen real.
-- Ōgaki conversation = career-defining advice ngoài career — về life.
+- Ōgaki conversation = lời khuyên định hình sự nghiệp ngoài career — về cuộc đời.
 - Matsumoto invite family = signal bring family in, relationship
   long-term beyond Phase 5.
 - Mệt body 8 phần, đầu nhẹ 10 phần. Onsen magic thật.

@@ -10,7 +10,7 @@
 
 ---
 
-## Scene 1 — DOM + JavaScript event · 9:00
+## Tình huống 1 — DOM + JavaScript event · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -20,7 +20,7 @@
 
 ---
 
-## Scene 2 — React intro · 14:00
+## Tình huống 2 — React intro · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -31,7 +31,7 @@
 
 ---
 
-## Scene 3 — useEffect + API call · 16:00
+## Tình huống 3 — useEffect + API call · 16:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -41,7 +41,7 @@
 
 ---
 
-## Scene 4 — Personal portfolio project · weekend
+## Tình huống 4 — Personal portfolio project · weekend
 
 | Speaker | Lời thoại |
 |---|---|
@@ -55,7 +55,7 @@
 
 ---
 
-## Scene 5 — Cohort show portfolios · 27/7
+## Tình huống 5 — Cohort show portfolios · 27/7
 
 | Speaker | Lời thoại |
 |---|---|
@@ -67,7 +67,7 @@
 
 ---
 
-## Scene 6 — Đêm reflect
+## Tình huống 6 — Đêm reflect
 
 | Speaker | Lời thoại |
 |---|---|
@@ -77,7 +77,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

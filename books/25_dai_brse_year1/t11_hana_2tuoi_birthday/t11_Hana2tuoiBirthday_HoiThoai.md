@@ -12,7 +12,7 @@
 
 ---
 
-## Scene 1 — Sáng 25/1 prep birthday · 9:00
+## Tình huống 1 — Sáng 25/1 prep birthday · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -25,7 +25,7 @@
 
 ---
 
-## Scene 2 — Tony+Yumi đến · 11:00
+## Tình huống 2 — Tony+Yumi đến · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -39,7 +39,7 @@
 
 ---
 
-## Scene 3 — Trưa cơm sukiyaki + chat · 12:30
+## Tình huống 3 — Trưa cơm sukiyaki + chat · 12:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -54,7 +54,7 @@
 
 ---
 
-## Scene 4 — Birthday cake + Hana speech · 14:00
+## Tình huống 4 — Birthday cake + Hana speech · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -70,7 +70,7 @@
 
 ---
 
-## Scene 5 — Đại báo quit Thanh Hà · LINE Tanaka 1/2/2031
+## Tình huống 5 — Đại báo quit Thanh Hà · LINE Tanaka 1/2/2031
 
 | Speaker | Lời thoại |
 |---|---|
@@ -83,7 +83,7 @@
 
 ---
 
-## Scene 6 — Anh em trong cohort BrSE farewell prep · Tuần cuối 3/2031
+## Tình huống 6 — Anh em trong cohort BrSE farewell prep · Tuần cuối 3/2031
 
 | Speaker | Lời thoại |
 |---|---|
@@ -96,7 +96,7 @@
 
 ---
 
-## Scene 7 — Tony+Yumi trở lại Aichi · 31/1 chiều
+## Tình huống 7 — Tony+Yumi trở lại Aichi · 31/1 chiều
 
 | Speaker | Lời thoại |
 |---|---|
@@ -110,7 +110,7 @@
 
 ---
 
-## Scene 8 — Tối reflect Đại+Mai · 22:00
+## Tình huống 8 — Tối reflect Đại+Mai · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -123,7 +123,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -141,11 +141,11 @@
 
 ## Bí quyết chương
 
-- **Hana 2.5 tuổi sinh nhật muộn**: Family timing flexibility
-- **Tony+Yumi gift box gỗ Nara handmade**: Lifestyle quality + lifetime keepsake
-- **Hana wish "Em!"**: Toddler 2.5 tuổi đã đoán được parent intent (Mai ngừng pill 2 tuần)
-- **Đại quit Thanh Hà notice 2 tháng trước**: Japanese business etiquette ≥1 tháng (2 tháng = courtesy)
-- **Tanaka offer advisory**: Japanese business relationship maintenance pattern
-- **Cohort BrSE 送別会 farewell party**: Business custom standard
+- **Sinh nhật Hana 2.5 tuổi làm muộn**: linh hoạt lịch gia đình theo từng dịp
+- **Quà gỗ Nara handmade của Tony+Yumi**: chất lượng cuộc sống + kỷ vật gắn bó cả đời
+- **Hana ước "Em!"**: bé 2.5 tuổi đã đoán được ý định của cha mẹ (Mai mới ngừng thuốc 2 tuần)
+- **Báo nghỉ Thanh Hà trước 2 tháng**: phép lịch sự trong văn hoá kinh doanh Nhật (tối thiểu 1 tháng, 2 tháng là chu đáo)
+- **Tanaka đề xuất vai trò cố vấn**: phong cách duy trì quan hệ kinh doanh theo chuẩn Nhật
+- **Tiệc 送別会 của nhóm BrSE**: thông lệ kinh doanh chuẩn
 
-> *"Hana 2.5 tuổi muộn birthday + Tony+Yumi 1 tuần. Hana wish có em. Mai ngừng pill 1 tháng. Đại quit Thanh Hà 31/3/2031 notice 2 tháng. Tanaka offer advisory. Cohort 送別会 prep. Cuộc sống chuyển giai đoạn."*
+> *"Sinh nhật muộn Hana 2.5 tuổi + Tony+Yumi ở lại 1 tuần. Hana ước có em. Mai ngừng thuốc 1 tháng. Đại báo nghỉ Thanh Hà 31/3/2031 trước 2 tháng. Tanaka đề xuất vai cố vấn. Nhóm BrSE chuẩn bị 送別会. Cuộc sống đang chuyển giai đoạn."*

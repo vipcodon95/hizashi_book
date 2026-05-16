@@ -12,7 +12,7 @@ Sách dạy cách dẫn dắt + tham gia họp với khách Nhật / đồng ngh
 
 Cast lõi như sách 02. Bổ sung scenarios mới:
 
-- **Em Linh / リン (アシスタント)** — bắt đầu active, được Dũng mentor
+- **Em Linh / リン (アシスタント)** — bắt đầu xuất hiện, được Dũng mentor
 - **Anh Hà / ハー (CTO)** — tham gia họp chiến lược
 - **Mới: 大垣 営業部長 (Ōgaki, 白鷗)** — sales head bên 白鷗, xuất hiện trong họp đàm phán hợp đồng
 
@@ -38,12 +38,12 @@ Bối cảnh sách 03: Quý 2/2026, dự án phase 2 với 白鷗株式会社 đ
 |---|--------|--------|-------|
 | 01 | Lập agenda chuẩn 5W1H | アジェンダ作成の5W1H | Agenda phải có: Mục đích / Nội dung / Người tham dự / Thời lượng / Output mong đợi |
 | 02 | Gửi thông báo họp đúng cách | 会議招待メールの書き方 | Email mời họp: subject rõ, attach agenda, deadline RSVP |
-| 03 | Đặt phòng + Setup hậu cần | 会議室予約・設備確認 | Phòng họp: capacity, projector, dây mạng, nước, white board |
-| 04 | Setup video call (Zoom/Teams) | オンライン会議のセットアップ | Test link, audio, share screen, background, ghi âm permission |
-| 05 | Distribute tài liệu trước 24h | 資料の事前配布 | Tài liệu pre-read: gửi 24h trước, format PDF, version control |
+| 03 | Đặt phòng + Chuẩn bị hậu cần | 会議室予約・設備確認 | Phòng họp: capacity, projector, dây mạng, nước, white board |
+| 04 | Thiết lập video call (Zoom/Teams) | オンライン会議のセットアップ | Test link, audio, share screen, background, ghi âm permission |
+| 05 | Gửi tài liệu trước 24h | 資料の事前配布 | Tài liệu pre-read: gửi 24h trước, format PDF, version control |
 | 06 | Tới sớm 5 phút (オン・タイム文化) | 5分前到着の文化 | Văn hóa Nhật: tới đúng giờ = trễ. Đến trước 5 phút |
-| 07 | Pre-meeting check-in nội bộ | 事前すり合わせ | Họp nhỏ team mình trước họp khách: align position, role split |
-| 08 | Chuẩn bị Plan B + counter-arguments | 想定問答集の準備 | List 3-5 câu hỏi khách dễ hỏi + chuẩn bị trả lời sẵn |
+| 07 | Kiểm tra nội bộ trước họp | 事前すり合わせ | Họp nhỏ team mình trước họp khách: thống nhất lập trường, phân vai |
+| 08 | Chuẩn bị Plan B + phản biện | 想定問答集の準備 | List 3-5 câu hỏi khách dễ hỏi + chuẩn bị trả lời sẵn |
 
 ---
 
@@ -79,7 +79,7 @@ Bối cảnh sách 03: Quý 2/2026, dự án phase 2 với 白鷗株式会社 đ
 | 27 | Phản biện có cơ sở | 根拠を伴った反論 | Cấu trúc: ghi nhận + nhưng + dữ liệu + đề xuất khác |
 | 28 | Xin thêm thông tin / data | データ・情報を求める | "判断するために、〇〇のデータをいただけますでしょうか？" |
 | 29 | Khi gặp deadlock | 行き詰まった場合 | "一度持ち帰って、別途ご相談する形でいかがでしょうか" |
-| 30 | Khi senior nói câu khó hiểu | 上司・顧客の曖昧な発言 | Cách hỏi lại nhẹ: "確認させていただきたいのですが..." |
+| 30 | Khi cấp trên nói câu khó hiểu | 上司・顧客の曖昧な発言 | Cách hỏi lại nhẹ: "確認させていただきたいのですが..." |
 | 31 | Bỏ phiếu / Đi đến quyết định | 多数決・意思決定 | "では、A案で進めるという方向でよろしいでしょうか？" |
 | 32 | Hoãn quyết định ("mang về") | 結論先送りの伝え方 | "本件は持ち帰り、来週までにご回答いたします" |
 
@@ -95,7 +95,7 @@ Bối cảnh sách 03: Quý 2/2026, dự án phase 2 với 白鷗株式会社 đ
 | 36 | Chia sẻ màn hình | 画面共有の声かけ | "画面を共有させていただきます" - confirm thấy / đợi 2-3s |
 | 37 | Crisis meeting — họp gấp | 緊急会議の運営 | Cấu trúc: 30 phút max, fact → impact → action → owner |
 | 38 | Postpone / cancel meeting last-minute | 直前のリスケ | Câu xin lỗi: "急遽申し訳ございませんが、本日の会議を..." |
-| 39 | 1-on-1 check-in với cấp trên Nhật | 1on1ミーティング | Bố cục: progress → challenges → ask → next steps |
+| 39 | 1-on-1 trao đổi định kỳ với cấp trên Nhật | 1on1ミーティング | Bố cục: progress → challenges → ask → next steps |
 | 40 | Brainstorming / Workshop format | ブレストの進行 | Rule: no judgment, build on ideas, time-box, sticky notes |
 | 41 | Performance review (gentle feedback) | フィードバック面談 | Sandwich: positive → area → growth path. Tone JP-friendly |
 | 42 | Đột xuất kết thúc sớm vì thiếu thời gian | 時間切れの締め方 | "お時間が来てしまいましたので、続きは別途〜" |
@@ -112,7 +112,7 @@ Bối cảnh sách 03: Quý 2/2026, dự án phase 2 với 白鷗株式会社 đ
 | 46 | Format biên bản chuẩn | 議事録のフォーマット | Template chuẩn industry — sẽ kèm trong rule này |
 | 47 | Follow-up email cảm ơn | お礼メール | Trong vòng 24h: cảm ơn + tóm tắt 3 điểm chính + next step |
 | 48 | Cập nhật người vắng mặt | 欠席者へのフィードバック | Đảm bảo người vắng nhận đủ info + có cơ hội comment |
-| 49 | Tracking decisions trong CRM | 決定事項の社内管理 | Lưu vào hệ thống nội bộ (Slack/Notion/CRM): traceable |
+| 49 | Tracking decisions trong CRM | 決定事項の社内管理 | Lưu vào hệ thống nội bộ (Slack/Notion/CRM): dễ tra cứu |
 | 50 | Self-reflection + cải tiến | 振り返りと改善 | Cuối tuần: nhật ký họp — gì work, gì cần đổi cho lần sau |
 
 ---

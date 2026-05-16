@@ -1,6 +1,6 @@
-# Rule 18 — 5 yếu tố bắt buộc khi take message / 伝言メモの5要素
+# Rule 18 — 5 yếu tố bắt buộc khi ghi lời nhắn / 伝言メモの5要素
 
-> **Luận điểm.** Một bản take-message hoàn chỉnh có 5 yếu tố: **(1) ai gọi**, **(2) công ty/phòng**, **(3) số gọi lại**, **(4) nội dung**, **(5) thời điểm gọi**. Thiếu 1 trong 5 = ghi chú vô dụng.
+> **Luận điểm.** Một bản ghi lời nhắn hoàn chỉnh có 5 yếu tố: **(1) ai gọi**, **(2) công ty/phòng**, **(3) số gọi lại**, **(4) nội dung**, **(5) thời điểm gọi**. Thiếu 1 trong 5 = ghi chú vô dụng.
 >
 > 伝言メモの必須5要素：①誰が ②どの会社・部署 ③折り返し番号 ④用件 ⑤発信時刻。
 >

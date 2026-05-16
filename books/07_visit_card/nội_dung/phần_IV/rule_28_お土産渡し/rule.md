@@ -42,7 +42,7 @@ Cuối bữa dinner Q1 lúc 21:00, sau trà kết thúc course. Dũng trao omiya
 📝 **Ghi chú:**
 - 【1】**「つまらないものですが」** — câu khiêm nhường cố định. Dù thật sự cao cấp vẫn nói "không đáng gì". Khoe giá / brand / độ hiếm = đại kỵ.
 - 【2】**Túi chỉ để mang** — lúc trao = lấy ra khỏi túi, hướng chữ về phía khách, đưa 2 tay. Túi giấy bỏ đi (kiểu Nhật).
-- 【3】**Giải thích = "xuất xứ + cách dùng"** thôi. Giá tuyệt đối không. "Cả nhà cùng dùng" = signal có thể chia trong cty.
+- 【3】**Giải thích = "xuất xứ + cách dùng"** thôi. Giá tuyệt đối không. "Cả nhà cùng dùng" = dấu hiệu có thể chia trong cty.
 - 【4】**Thứ tự**: CFO Nakamura → trưởng Ōgaki → PM Matsumoto → PMO Tanaka. Trao từng người, mỗi người đứng / nhổm dậy nhận bằng 2 tay.
 
 ---

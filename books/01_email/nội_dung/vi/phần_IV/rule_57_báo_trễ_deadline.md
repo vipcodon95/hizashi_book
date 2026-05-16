@@ -22,7 +22,7 @@
 >
 > **Biện pháp bù:**
 > - Em sẽ gửi chị bản draft sớm thứ Sáu 16/05 để chị có thể review trước, không bị dồn vào thứ Hai.
-> - Em xin schedule 15 phút họp với chị sáng thứ Ba 20/05 để walk through những điểm quan trọng.
+> - Em xin đặt lịch 15 phút họp với chị sáng thứ Ba 20/05 để trình bày những điểm quan trọng.
 >
 > Nếu chị cần em hoàn thành đúng 15/05 bằng cách khác (giảm scope, xin hỗ trợ), chị cho em biết — em sẵn sàng điều chỉnh.
 >

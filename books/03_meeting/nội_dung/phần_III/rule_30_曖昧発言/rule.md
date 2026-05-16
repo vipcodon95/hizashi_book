@@ -1,6 +1,6 @@
-# Rule 30 — Khi senior nói câu khó hiểu / 上司・顧客の曖昧な発言
+# Rule 30 — Khi cấp trên nói câu khó hiểu / 上司・顧客の曖昧な発言
 
-> **Luận điểm.** Senior Nhật hay nói gián tiếp ("ちょっと厳しいかな…", "前向きに検討します"). Đoán bừa = sai 50%. Câu chuẩn để confirm: 「**確認させていただきたいのですが、〜という意味でしょうか？**」 — paraphrase ý suy đoán, để senior khẳng định/correct.
+> **Luận điểm.** Cấp trên / khách Nhật hay nói gián tiếp ("ちょっと厳しいかな…", "前向きに検討します"). Đoán bừa = sai 50%. Câu chuẩn để confirm: 「**確認させていただきたいのですが、〜という意味でしょうか？**」 — paraphrase ý suy đoán, để cấp trên khẳng định/correct.
 >
 > 上司・顧客の曖昧発言を勝手に解釈しない。「〜という意味でしょうか？」と確認する。
 >
@@ -39,7 +39,7 @@ Anh Matsumoto: 「来月のリリース、ちょっと厳しいかもしれま�
 
 📝 **Ghi chú:**
 - 【1】**「〜という意味でしょうか？」** — câu chuẩn confirm intent.
-- 【2】Đưa **2 cách hiểu** (A hay B) → senior dễ chọn → câu trả lời rõ.
+- 【2】Đưa **2 cách hiểu** (A hay B) → cấp trên dễ chọn → câu trả lời rõ.
 
 ---
 
@@ -47,14 +47,14 @@ Anh Matsumoto: 「来月のリリース、ちょっと厳しいかもしれま�
 
 > **「確認させていただきたいのですが、〜という意味でしょうか？それとも〜でしょうか？」**
 >
-> *Đưa 2 ý suy đoán → senior chọn → tránh đoán mò.*
+> *Đưa 2 ý suy đoán → cấp trên chọn → tránh đoán mò.*
 
 ---
 
 ## ⚠ Tránh
 
 - Đoán 1 ý duy nhất → 50% sai.
-- Hỏi lại open-ended ("どういう意味ですか？") → senior phải giải thích từ đầu.
+- Hỏi lại open-ended ("どういう意味ですか？") → cấp trên phải giải thích từ đầu.
 - Bỏ qua câu mơ hồ → sau này phát sinh.
 
 ---

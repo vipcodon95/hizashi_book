@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Đào sâu catalog Misumi · 9:00
+## Tình huống 1 — Đào sâu catalog Misumi · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -15,7 +15,7 @@
 
 ---
 
-## Scene 2 — Các nhóm chính · 9:30
+## Tình huống 2 — Các nhóm chính · 9:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -29,7 +29,7 @@
 
 ---
 
-## Scene 3 — Tính giá thành · 10:30
+## Tình huống 3 — Tính giá thành · 10:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -41,7 +41,7 @@
 
 ---
 
-## Scene 4 — Đặt hàng trực tuyến · 14:00
+## Tình huống 4 — Đặt hàng trực tuyến · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -52,7 +52,7 @@
 
 ---
 
-## Scene 5 — Sakurai trao đổi · 12:30
+## Tình huống 5 — Sakurai trao đổi · 12:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -64,7 +64,7 @@
 
 ---
 
-## Scene 6 — Đêm · 22:00
+## Tình huống 6 — Đêm · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -74,7 +74,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

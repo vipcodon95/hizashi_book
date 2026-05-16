@@ -1,6 +1,6 @@
 # Rule 41 — Performance review feedback / フィードバック面談
 
-> **Luận điểm.** Feedback Nhật KHÔNG dùng "shit sandwich" thẳng tuột. Dùng **GROW model** + tone "growth-oriented": (1) **G**oal đã đạt gì, (2) **R**eality — gì cần cải thiện (factual, không cảm xúc), (3) **O**ptions — phương án phát triển, (4) **W**ill — commitment đôi bên. Tránh 「君は…」 personal.
+> **Luận điểm.** Feedback Nhật KHÔNG dùng "shit sandwich" thẳng tuột. Dùng **GROW model** + tone **định hướng phát triển**: (1) **G**oal đã đạt gì, (2) **R**eality — gì cần cải thiện (factual, không cảm xúc), (3) **O**ptions — phương án phát triển, (4) **W**ill — commitment đôi bên. Tránh 「君は…」 personal.
 >
 > フィードバックはGROW（Goal/Reality/Options/Will）モデルで。事実ベース、人格批判なし。
 >
@@ -40,23 +40,23 @@ Cuối Q1, chị Hương đánh giá performance em Dũng. Có điểm tốt (Ph
 
 📝 **Ghi chú:**
 - 【1】**Goal — bắt đầu bằng thành tích cụ thể** (Phase 1 launch). Không phải lip service mà cụ thể.
-- 【2】**Reality — fact-based, không personal** ("見積もりが20%短く設定されていた事実" thay vì "君は甘い").
+- 【2】**Reality — dựa trên sự thật, không mang tính cá nhân** ("見積もりが20%短く設定されていた事実" thay vì "君は甘い").
 - 【3】**Options — đưa cho ngươi đó chọn** → ownership.
-- 【4】**Will — commitment cụ thể** + check-in date.
+- 【4】**Will — commitment cụ thể** + ngày kiểm tra tiến độ.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **GROW: Goal → Reality (fact, không personal) → Options (cho chọn) → Will (commit + check-in).**
+> **GROW: Goal → Reality (sự thật, không cá nhân) → Options (cho chọn) → Will (cam kết + ngày kiểm tra).**
 
 ---
 
 ## ⚠ Tránh
 
-- 「君は〜すぎる」 personal trait → defensive.
+- 「君は〜すぎる」 nhận xét tính cách cá nhân → người nghe bị động, phòng thủ.
 - Feedback không kèm options → không cải thiện được.
-- Không có check-in date → feedback bị quên.
+- Không có ngày kiểm tra tiến độ → feedback bị quên.
 
 ---
 

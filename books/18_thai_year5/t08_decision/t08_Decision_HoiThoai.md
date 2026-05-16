@@ -1,10 +1,10 @@
-# Sách 18 · T8. Decision: stay vs về VN (決断)
+# Sách 18 · T8. Quyết định: ở lại hay về VN (決断)
 
 > **Mục tiêu:** 12/2026. Mẹ về rồi. Thái cân nhắc 3 lựa chọn cho 5 năm tới: (a) ở lại Anjo + xin vĩnh trú (永住) năm 2032, (b) về Việt Nam làm chuyên gia tư vấn cho doanh nghiệp FDI Nhật ở Bắc Ninh, (c) chuyển sang công ty Nhật khác lương cao hơn. Hỏi ý kiến mọi người.
 
 ---
 
-## Scene 1 — Sáng nhật ký · 6:30
+## Tình huống 1 — Sáng nhật ký · 6:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -16,7 +16,7 @@
 
 ---
 
-## Scene 2 — Bàn Tanaka (嘱託) · 9:00
+## Tình huống 2 — Bàn Tanaka (嘱託) · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -28,7 +28,7 @@
 
 ---
 
-## Scene 3 — Bàn Kawakami (工場長) · 14:00
+## Tình huống 3 — Bàn Kawakami (工場長) · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -40,7 +40,7 @@
 
 ---
 
-## Scene 4 — Linh-chị + Linh-Anh · 19:00 dinner
+## Tình huống 4 — Linh-chị + Linh-Anh · 19:00 dinner
 
 | Speaker | Lời thoại |
 |---|---|
@@ -53,7 +53,7 @@
 
 ---
 
-## Scene 5 — Mai gọi · 22:00
+## Tình huống 5 — Mai gọi · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -67,7 +67,7 @@
 
 ---
 
-## Scene 6 — Quyết định · weekend
+## Tình huống 6 — Quyết định · weekend
 
 | Speaker | Lời thoại |
 |---|---|
@@ -82,7 +82,7 @@
 
 ---
 
-## Scene 7 — Báo cast · sáng thứ 2
+## Tình huống 7 — Báo cast · sáng thứ 2
 
 | Speaker | Lời thoại |
 |---|---|
@@ -94,7 +94,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

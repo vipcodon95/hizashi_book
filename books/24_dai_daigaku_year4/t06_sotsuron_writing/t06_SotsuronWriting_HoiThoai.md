@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Plan + structure · 1/9
+## Tình huống 1 — Plan + structure · 1/9
 
 | Speaker | Lời thoại |
 |---|---|
@@ -13,7 +13,7 @@
 
 ---
 
-## Scene 2 — Daily routine · 5/9
+## Tình huống 2 — Daily routine · 5/9
 
 | Speaker | Lời thoại |
 |---|---|
@@ -21,7 +21,7 @@
 
 ---
 
-## Scene 3 — Mid-write crisis · 25/9
+## Tình huống 3 — Mid-write crisis · 25/9
 
 | Speaker | Lời thoại |
 |---|---|
@@ -31,7 +31,7 @@
 
 ---
 
-## Scene 4 — Hana 1 tuổi sinh nhật · 5/8 (mid-write)
+## Tình huống 4 — Hana 1 tuổi sinh nhật · 5/8 (mid-write)
 
 | Speaker | Lời thoại |
 |---|---|
@@ -44,7 +44,7 @@
 
 ---
 
-## Scene 5 — Yamada review chapter 1-4 · 15/10
+## Tình huống 5 — Yamada review chapter 1-4 · 15/10
 
 | Speaker | Lời thoại |
 |---|---|
@@ -54,7 +54,7 @@
 
 ---
 
-## Scene 6 — Đêm reflect · 30/10
+## Tình huống 6 — Đêm reflect · 30/10
 
 | Speaker | Lời thoại |
 |---|---|
@@ -65,7 +65,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -78,8 +78,8 @@
 
 ## Bí quyết chương
 
-- **Daily routine intense**: Realistic SV năm 4 + family + project.
-- **Hana 1 tuổi**: Family pause moment.
-- **Yamada review**: Mentor support.
+- **Lịch sinh hoạt dày đặc**: Phản ánh thực tế sinh viên năm 4 — vừa học vừa lo gia đình vừa làm dự án.
+- **Hana tròn 1 tuổi**: Khoảnh khắc gia đình tạm dừng mọi thứ.
+- **Yamada review bản thảo**: Người thầy đồng hành.
 
-> *"卒論 writing intensive 60% done. Hana 1 tuổi pause. Yamada review. 30k chữ approaching."*
+> *"Viết 卒論 cật lực — đạt 60%. Hana tròn 1 tuổi, tạm nghỉ. Yamada xem bản thảo. Sắp đến 30k chữ."*

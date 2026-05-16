@@ -12,7 +12,7 @@
 
 ---
 
-## Scene 1 — Sáng đi học từ apt mới · 7:30
+## Tình huống 1 — Sáng đi học từ apt mới · 7:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -26,7 +26,7 @@
 
 ---
 
-## Scene 2 — Web技術 I lecture 1 · 9:00
+## Tình huống 2 — Web技術 I lecture 1 · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -39,7 +39,7 @@
 
 ---
 
-## Scene 3 — CSS responsive · 11:00
+## Tình huống 3 — CSS responsive · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -51,7 +51,7 @@
 
 ---
 
-## Scene 4 — JavaScript intro · 14:00
+## Tình huống 4 — JavaScript intro · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -64,7 +64,7 @@
 
 ---
 
-## Scene 5 — DB入門 lecture · 16:00
+## Tình huống 5 — DB入門 lecture · 16:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -77,7 +77,7 @@
 
 ---
 
-## Scene 6 — Cohort Yamada-senpai farewell + Mai homestay visit Tony · 19:00 thứ 6
+## Tình huống 6 — Cohort Yamada-senpai farewell + Mai homestay visit Tony · 19:00 thứ 6
 
 | Speaker | Lời thoại |
 |---|---|
@@ -89,7 +89,7 @@
 
 ---
 
-## Scene 7 — CN ăn tối Tanaka · gặp Mai lần đầu
+## Tình huống 7 — CN ăn tối Tanaka · gặp Mai lần đầu
 
 | Speaker | Lời thoại |
 |---|---|
@@ -102,7 +102,7 @@
 
 ---
 
-## Scene 8 — Đêm reflect · 23:00 apt
+## Tình huống 8 — Đêm reflect · 23:00 apt
 
 | Speaker | Lời thoại |
 |---|---|
@@ -114,7 +114,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

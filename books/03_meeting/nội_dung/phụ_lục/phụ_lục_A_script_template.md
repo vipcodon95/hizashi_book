@@ -47,7 +47,7 @@
 > 📝 _RSVP期限を伝える定型句_
 
 
-### Rule 03 — Đặt phòng + Setup hậu cần / 会議室予約・設備確認
+### Rule 03 — Đặt phòng + Chuẩn bị hậu cần / 会議室予約・設備確認
 
 **リン (em Linh):**
 
@@ -85,7 +85,7 @@
 > 📝 _録画許可確認のリマインド_
 
 
-### Rule 05 — Distribute tài liệu trước 24h / 資料の事前配布
+### Rule 05 — Gửi tài liệu trước 24h / 資料の事前配布
 
 **ズン (em Dũng):**
 
@@ -123,7 +123,7 @@
 > 📝 _会議開始の宣言_
 
 
-### Rule 07 — Pre-meeting check-in nội bộ / 事前すり合わせ
+### Rule 07 — Kiểm tra nội bộ trước họp / 事前すり合わせ
 
 **フオン副部長 (chị Hương):**
 
@@ -142,7 +142,7 @@
 > 📝 _BDに即答を避けさせる指示_
 
 
-### Rule 08 — Chuẩn bị Plan B + counter-arguments / 想定問答集の準備
+### Rule 08 — Chuẩn bị Plan B + phản biện / 想定問答集の準備
 
 **ズン (em Dũng):**
 
@@ -156,7 +156,7 @@
 
 > 🇯🇵 「即値引きには応じない方針で〇〇と統一済みです。」
 >
-> 🇻🇳 *Phương châm không giảm giá ngay, em đã align với 〇〇 ạ.*
+> 🇻🇳 *Phương châm không giảm giá ngay, em đã thống nhất với 〇〇 ạ.*
 >
 > 📝 _交渉方針の社内統一を示す_
 
@@ -428,7 +428,7 @@
 
 > 🇯🇵 「改めて実現可否をご報告したく存じます。」
 >
-> 🇻🇳 *Em xin được report lại feasibility sau ạ.*
+> 🇻🇳 *Em xin được báo lại tính khả thi sau ạ.*
 >
 > 📝 _即決を避ける表現_
 
@@ -555,7 +555,7 @@
 >
 > 🇻🇳 *Em e là khó kết luận tại đây hôm nay. Hai bên mang về và bàn riêng có được không ạ?*
 >
-> 📝 _デッドロックを defuse する標準フレーズ_
+> 📝 _デッドロックを hạ nhiệt する標準フレーズ_
 
 **ズン (em Dũng):**
 
@@ -566,7 +566,7 @@
 > 📝 _次のアクション+期限を約束_
 
 
-### Rule 30 — Khi senior nói câu khó hiểu / 上司・顧客の曖昧な発言の確認
+### Rule 30 — Khi cấp trên nói câu khó hiểu / 上司・顧客の曖昧な発言の確認
 
 **ズン (em Dũng):**
 

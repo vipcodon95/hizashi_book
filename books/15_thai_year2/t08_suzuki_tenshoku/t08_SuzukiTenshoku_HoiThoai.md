@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Suzuki gọi Thái · 17:00
+## Tình huống 1 — Suzuki gọi Thái · 17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -18,7 +18,7 @@
 
 ---
 
-## Scene 2 — Thái phản ứng · 17:15
+## Tình huống 2 — Thái phản ứng · 17:15
 
 | Speaker | Lời thoại |
 |---|---|
@@ -31,21 +31,21 @@
 
 ---
 
-## Scene 3 — Tanaka announce 朝礼 · 1 tuần sau
+## Tình huống 3 — Tanaka announce 朝礼 · 1 tuần sau
 
 | Speaker | Lời thoại |
 |---|---|
 | Tanaka | みなさん、<ruby>残念<rt>ざんねん</rt></ruby>なお<ruby>知<rt>し</rt></ruby>らせがあります。<br>*(Mọi người, có tin buồn.)* |
-| Cast | （<ruby>注目<rt>ちゅうもく</rt></ruby>）<br>*(Chăm chú nghe.)* |
+| Nhân vật | （<ruby>注目<rt>ちゅうもく</rt></ruby>）<br>*(Chăm chú nghe.)* |
 | Tanaka | スズキさんが<ruby>3<rt>さん</rt></ruby><ruby>月<rt>がつ</rt></ruby><ruby>末<rt>まつ</rt></ruby>で<ruby>退職<rt>たいしょく</rt></ruby>します。<br>*(Anh Suzuki nghỉ việc vào cuối tháng 3.)* |
-| Cast | えっ！<br>*(Ơ!)* |
+| Nhân vật | えっ！<br>*(Ơ!)* |
 | Tanaka | <ruby>10<rt>じゅう</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>勤務<rt>きんむ</rt></ruby>。<ruby>感謝<rt>かんしゃ</rt></ruby>します。<ruby>3<rt>さん</rt></ruby><ruby>月<rt>がつ</rt></ruby>に<ruby>送別会<rt>そうべつかい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>きます。<br>*(Làm việc 10 năm. Xin cảm ơn anh. Tháng 3 sẽ tổ chức tiệc tiễn.)* |
 | Sakurai | （<ruby>横<rt>よこ</rt></ruby>のタイに）スズキさんが<ruby>転職<rt>てんしょく</rt></ruby>？<br>*(Quay sang Thái. Anh Suzuki chuyển việc à?)* |
 | Thái | はい...<br>*(Vâng...)* |
 
 ---
 
-## Scene 4 — Kawakami sẽ thay · 18:00
+## Tình huống 4 — Kawakami sẽ thay · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -57,7 +57,7 @@
 
 ---
 
-## Scene 5 — Putra discuss · 21:00
+## Tình huống 5 — Putra discuss · 21:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -72,7 +72,7 @@
 
 ---
 
-## Scene 6 — 送別会 + Suzuki · 3/2024 cuối
+## Tình huống 6 — 送別会 + Suzuki · 3/2024 cuối
 
 | Speaker | Lời thoại |
 |---|---|
@@ -87,7 +87,7 @@
 
 ---
 
-## Scene 7 — Đêm reflect · 22:00
+## Tình huống 7 — Đêm reflect · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -100,7 +100,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

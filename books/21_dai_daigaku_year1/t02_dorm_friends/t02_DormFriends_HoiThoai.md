@@ -12,7 +12,7 @@
 
 ---
 
-## Scene 1 — Sáng dọn vào dorm · 9:00
+## Tình huống 1 — Sáng dọn vào dorm · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -26,7 +26,7 @@
 
 ---
 
-## Scene 2 — Vào phòng 305 · 9:30
+## Tình huống 2 — Vào phòng 305 · 9:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -39,7 +39,7 @@
 
 ---
 
-## Scene 3 — Lin Wei knock · 10:30
+## Tình huống 3 — Lin Wei knock · 10:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -54,7 +54,7 @@
 
 ---
 
-## Scene 4 — Nitori Toyonaka · 14:30
+## Tình huống 4 — Nitori Toyonaka · 14:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -69,7 +69,7 @@
 
 ---
 
-## Scene 5 — Cafe sau Nitori — discuss laptop · 16:30
+## Tình huống 5 — Cafe sau Nitori — discuss laptop · 16:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -84,7 +84,7 @@
 
 ---
 
-## Scene 6 — Setup phòng tối + cài VSCode + Git · 20:00
+## Tình huống 6 — Setup phòng tối + cài VSCode + Git · 20:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -101,7 +101,7 @@
 
 ---
 
-## Scene 7 — LINE Mai + bố mẹ HN · 22:00
+## Tình huống 7 — LINE Mai + bố mẹ HN · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -116,7 +116,7 @@
 
 ---
 
-## Scene 8 — Đêm reflect · 23:30
+## Tình huống 8 — Đêm reflect · 23:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -129,7 +129,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

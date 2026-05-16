@@ -12,7 +12,7 @@
 
 ---
 
-## Scene 1 — Sáng thứ Hai sau GW · 9:00
+## Tình huống 1 — Sáng thứ Hai sau GW · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -24,7 +24,7 @@
 
 ---
 
-## Scene 2 — Đọc spec JP 25 trang · 10:00-12:00
+## Tình huống 2 — Đọc spec JP 25 trang · 10:00-12:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -35,7 +35,7 @@
 
 ---
 
-## Scene 3 — Trưa quán phở chị Hương · 12:30
+## Tình huống 3 — Trưa quán phở chị Hương · 12:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -49,7 +49,7 @@
 
 ---
 
-## Scene 4 — Chiều dịch + Confluence · 14:00-17:00
+## Tình huống 4 — Chiều dịch + Confluence · 14:00-17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -58,7 +58,7 @@
 
 ---
 
-## Scene 5 — Trang 3 DB schema · 16:00
+## Tình huống 5 — Trang 3 DB schema · 16:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -68,7 +68,7 @@
 
 ---
 
-## Scene 6 — Cuối tuần submit + Thanh review · Thứ Sáu 17:30
+## Tình huống 6 — Cuối tuần submit + Thanh review · Thứ Sáu 17:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -83,7 +83,7 @@
 
 ---
 
-## Scene 7 — Reflect tối thứ Bảy · 22:00 Hizashi standup
+## Tình huống 7 — Reflect tối thứ Bảy · 22:00 Hizashi standup
 
 | Speaker | Lời thoại |
 |---|---|
@@ -96,7 +96,7 @@
 
 ---
 
-## Scene 8 — Chủ nhật family time · 10:00
+## Tình huống 8 — Chủ nhật family time · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -110,7 +110,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -128,10 +128,10 @@
 
 ## Bí quyết chương
 
-- **BrSE first task pattern**: Đọc cả đoạn JP → hiểu intent → viết lại VN tự nhiên cho dev (không dịch word-by-word)
-- **Glossary cá nhân**: BrSE 1 năm cần build 500+ technical terms manufacturing/IT
-- **Confluence format**: Bảng + giải thích cột + screenshot mockup link
-- **Cohort BrSE share Notion glossary**: Network effect VN BrSE community
-- **Sunday no laptop**: Family priority, prevent burnout
+- **Cách làm BrSE lần đầu**: Đọc cả đoạn tiếng Nhật → hiểu ý → viết lại tiếng Việt tự nhiên cho dev (không dịch từng chữ)
+- **Bộ thuật ngữ cá nhân**: BrSE 1 năm cần tích lũy 500+ từ kỹ thuật ngành sản xuất/IT
+- **Định dạng Confluence**: Bảng + giải thích từng cột + link ảnh chụp mockup
+- **Nhóm BrSE chia sẻ Notion glossary**: Hiệu ứng mạng lưới cộng đồng BrSE Việt
+- **Chủ Nhật không laptop**: Ưu tiên gia đình, phòng kiệt sức
 
-> *"First BrSE task done. B+ feedback từ Thanh. Cohort tử tế share glossary. Hizashi BGE-M3 research. Chủ nhật park với Hana. Pattern dual-track sustain được."*
+> *"Xong task BrSE đầu tiên. Feedback B+ từ anh Thanh. Nhóm BrSE tử tế chia sẻ glossary. Nghiên cứu BGE-M3 cho Hizashi. Chủ Nhật đi công viên với Hana. Nhịp hai vai song song duy trì được."*

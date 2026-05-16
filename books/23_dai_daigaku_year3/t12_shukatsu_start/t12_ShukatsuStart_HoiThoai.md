@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Year 3 stats summary · 25/3/2029
+## Tình huống 1 — Year 3 stats summary · 25/3/2029
 
 | Speaker | Lời thoại |
 |---|---|
@@ -20,7 +20,7 @@
 
 ---
 
-## Scene 2 — Cohort year 3 stats
+## Tình huống 2 — Cohort year 3 stats
 
 | Speaker | Lời thoại |
 |---|---|
@@ -31,7 +31,7 @@
 
 ---
 
-## Scene 3 — 就活 strategy · 27/3
+## Tình huống 3 — 就活 strategy · 27/3
 
 | Speaker | Lời thoại |
 |---|---|
@@ -50,7 +50,7 @@
 
 ---
 
-## Scene 4 — Mercari coding test · 30/3
+## Tình huống 4 — Mercari coding test · 30/3
 
 | Speaker | Lời thoại |
 |---|---|
@@ -64,7 +64,7 @@
 
 ---
 
-## Scene 5 — Mai N2 result · 23/3
+## Tình huống 5 — Mai N2 result · 23/3
 
 | Speaker | Lời thoại |
 |---|---|
@@ -75,7 +75,7 @@
 
 ---
 
-## Scene 6 — Đêm cuối T12 — Year 3 close
+## Tình huống 6 — Đêm cuối T12 — Year 3 close
 
 | Speaker | Lời thoại |
 |---|---|
@@ -87,7 +87,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -8,7 +8,7 @@
 
 ---
 
-## Scene 1 — Tanaka đăng ký · 8:30 朝礼
+## Tình huống 1 — Tanaka đăng ký · 8:30 朝礼
 
 | Speaker | Lời thoại |
 |---|---|
@@ -21,7 +21,7 @@
 
 ---
 
-## Scene 2 — Sakurai dạy practice · 17:30
+## Tình huống 2 — Sakurai dạy practice · 17:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -36,7 +36,7 @@
 
 ---
 
-## Scene 3 — Học科 lý thuyết · 21:00 ký túc
+## Tình huống 3 — Học科 lý thuyết · 21:00 ký túc
 
 | Speaker | Lời thoại |
 |---|---|
@@ -50,7 +50,7 @@
 
 ---
 
-## Scene 4 — Sáng thi · 7:30
+## Tình huống 4 — Sáng thi · 7:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -65,7 +65,7 @@
 
 ---
 
-## Scene 5 — Học科 morning · 9:00
+## Tình huống 5 — Học科 morning · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -80,7 +80,7 @@
 
 ---
 
-## Scene 6 — 実技 phay NC · 13:00
+## Tình huống 6 — 実技 phay NC · 13:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -97,7 +97,7 @@
 
 ---
 
-## Scene 7 — 1 tháng sau kết quả · 4/2023
+## Tình huống 7 — 1 tháng sau kết quả · 4/2023
 
 | Speaker | Lời thoại |
 |---|---|
@@ -114,7 +114,7 @@
 
 ---
 
-## Scene 8 — Báo VN + Linh-chị · 22:00
+## Tình huống 8 — Báo VN + Linh-chị · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -131,7 +131,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

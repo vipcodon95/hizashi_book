@@ -10,7 +10,7 @@
 
 ---
 
-## Scene 1 — Array vs Linked List · Lecture 1
+## Tình huống 1 — Array vs Linked List · Lecture 1
 
 | Speaker | Lời thoại |
 |---|---|
@@ -22,7 +22,7 @@
 
 ---
 
-## Scene 2 — Stack & Queue · Lecture 2
+## Tình huống 2 — Stack & Queue · Lecture 2
 
 | Speaker | Lời thoại |
 |---|---|
@@ -35,7 +35,7 @@
 
 ---
 
-## Scene 3 — Hash Table · Lecture 3
+## Tình huống 3 — Hash Table · Lecture 3
 
 | Speaker | Lời thoại |
 |---|---|
@@ -48,7 +48,7 @@
 
 ---
 
-## Scene 4 — Tree & Binary Search Tree · Lecture 4
+## Tình huống 4 — Tree & Binary Search Tree · Lecture 4
 
 | Speaker | Lời thoại |
 |---|---|
@@ -59,7 +59,7 @@
 
 ---
 
-## Scene 5 — Heap & Priority Queue · Lecture 5
+## Tình huống 5 — Heap & Priority Queue · Lecture 5
 
 | Speaker | Lời thoại |
 |---|---|
@@ -71,7 +71,7 @@
 
 ---
 
-## Scene 6 — AtCoder weekly · 1/11
+## Tình huống 6 — AtCoder weekly · 1/11
 
 | Speaker | Lời thoại |
 |---|---|
@@ -85,7 +85,7 @@
 
 ---
 
-## Scene 7 — Tony+Yumi visit + family dinner · 11/11 thứ 6
+## Tình huống 7 — Tony+Yumi visit + family dinner · 11/11 thứ 6
 
 | Speaker | Lời thoại |
 |---|---|
@@ -98,7 +98,7 @@
 
 ---
 
-## Scene 8 — Đêm reflect + LINE Mai · 23:00
+## Tình huống 8 — Đêm reflect + LINE Mai · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -112,7 +112,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

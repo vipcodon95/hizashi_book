@@ -1,6 +1,6 @@
 # Sách 25 · T8. 10/2030 — Hizashi v1.0 launch prep: PR + ProductHunt + influencer (v1.0準備)
 
-> **Mục tiêu:** 10/2030. Đại bắt đầu BD BrSE 3 days/tuần (1/10). Hizashi 4 days/tuần dồn vào v1.0 launch prep 11/11/2030. Plan: TechCrunch JP exclusive interview + ProductHunt launch + 5 influencer JP+VN partnership + landing page redesign + payment Stripe live + email marketing 3000 list.
+> **Mục tiêu:** 10/2030. Đại bắt đầu BD BrSE 3 ngày/tuần (1/10). Hizashi 4 ngày/tuần dồn vào chuẩn bị ra mắt v1.0 ngày 11/11/2030. Kế hoạch: phỏng vấn độc quyền TechCrunch JP + ra mắt trên ProductHunt + hợp tác 5 influencer JP+VN + thiết kế lại landing page + kích hoạt thanh toán Stripe + danh sách email 3.000 người.
 
 ## Bối cảnh
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Scene 1 — Sáng thứ Hai 1/10 BD role Day 1 · 9:00
+## Tình huống 1 — Sáng thứ Hai 1/10 BD role Day 1 · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-## Scene 2 — Tối Hizashi launch plan brainstorm · 21:00
+## Tình huống 2 — Tối Hizashi launch plan brainstorm · 21:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -34,7 +34,7 @@
 
 ---
 
-## Scene 3 — Email outreach influencer · Thứ Tư 16/10
+## Tình huống 3 — Email outreach influencer · Thứ Tư 16/10
 
 | Speaker | Lời thoại |
 |---|---|
@@ -45,7 +45,7 @@
 
 ---
 
-## Scene 4 — TechCrunch JP interview prep · Thứ Tư 30/10
+## Tình huống 4 — TechCrunch JP interview prep · Thứ Tư 30/10
 
 | Speaker | Lời thoại |
 |---|---|
@@ -56,7 +56,7 @@
 
 ---
 
-## Scene 5 — Landing page redesign reveal · Thứ Năm 24/10
+## Tình huống 5 — Landing page redesign reveal · Thứ Năm 24/10
 
 | Speaker | Lời thoại |
 |---|---|
@@ -68,7 +68,7 @@
 
 ---
 
-## Scene 6 — Stripe payment go-live · Thứ Sáu 25/10
+## Tình huống 6 — Stripe payment go-live · Thứ Sáu 25/10
 
 | Speaker | Lời thoại |
 |---|---|
@@ -80,7 +80,7 @@
 
 ---
 
-## Scene 7 — Soft launch internal · Thứ Bảy 8/11
+## Tình huống 7 — Soft launch internal · Thứ Bảy 8/11
 
 | Speaker | Lời thoại |
 |---|---|
@@ -94,7 +94,7 @@
 
 ---
 
-## Scene 8 — D-day - 1 prep · Chủ nhật 10/11 23:00
+## Tình huống 8 — D-day - 1 prep · Chủ nhật 10/11 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -107,7 +107,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -128,10 +128,10 @@
 
 ## Bí quyết chương
 
-- **Chuẩn bị ra mắt 6 tuần**: 1-2 hoàn thiện, 3 báo chí, 4 landing, 5 truyền thông, 6 D-day
-- **Định giá influencer**: ¥200k tài trợ + 1 năm premium = chuẩn YouTuber JP 100-200k subs
-- **TechCrunch JP giới thiệu qua VC**: Lợi thế founder trong danh mục Anri
-- **Ra mắt nội bộ 50 người**: Kiểm thử toàn luồng + thu lỗi trước khi ra mắt công khai
-- **Kiểm thử tải 10k đồng thời + p95 320ms**: Ngưỡng sẵn sàng production
+- **Chuẩn bị ra mắt 6 tuần**: tuần 1-2 hoàn thiện, tuần 3 báo chí, tuần 4 landing page, tuần 5 truyền thông, tuần 6 D-day
+- **Chi phí hợp tác influencer**: ¥200k tài trợ + 1 năm premium = mức chuẩn cho YouTuber Nhật 100-200k người theo dõi
+- **Kết nối TechCrunch JP qua VC**: lợi thế của founder trong danh mục đầu tư của Anri
+- **Ra mắt nội bộ 50 người**: kiểm thử toàn bộ luồng + thu thập lỗi trước khi ra mắt công khai
+- **Kiểm thử tải 10k đồng thời + p95 320ms**: ngưỡng xác nhận sẵn sàng cho môi trường production
 
-> *"6 tuần chuẩn bị xong. 5 influencer đã chốt. Phỏng vấn TechCrunch đã đặt lịch. Stripe live. Ra mắt nội bộ tỉ lệ chuyển đổi 47%. Kiểm thử tải 10k đồng thời đã qua. Mai 11/11 là D-day. Em ngủ sớm. Hizashi v1.0 sẵn sàng."*
+> *"6 tuần chuẩn bị xong. 5 influencer đã chốt. Phỏng vấn TechCrunch đã đặt lịch. Stripe live. Ra mắt nội bộ tỉ lệ chuyển đổi 47%. Kiểm thử tải 10k đồng thời đã qua. Mai 11/11 là D-day. Đi ngủ sớm. Hizashi v1.0 sẵn sàng."*

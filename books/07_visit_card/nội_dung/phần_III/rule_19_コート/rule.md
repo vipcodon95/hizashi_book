@@ -26,7 +26,7 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 | **トゥアン** | 「あ、すみません、ちょっと暑くて…」 |
 | **田中PMO** | 「(本来は入室前脱ぐマナー…)」 |
 
-**Vì sao xấu:** (1) Vào phòng họp với coat = mang "bụi đường" vào không gian. (2) Cởi sau khi ngồi = "tôi nóng/mệt" signaling = thiếu chuẩn bị. (3) Tanaka phải đề nghị cầm coat → host bị shift task không cần thiết.
+**Vì sao xấu:** (1) Vào phòng họp với coat = mang "bụi đường" vào không gian. (2) Cởi sau khi ngồi = phát tín hiệu "tôi nóng/mệt" = thiếu chuẩn bị. (3) Tanaka phải đề nghị cầm coat → host bị shift task không cần thiết.
 
 ---
 
@@ -46,7 +46,7 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 
 📝 **Ghi chú:**
 - 【1】**Cởi trước cửa phòng họp** — KHÔNG sau khi ngồi. Tốt nhất: cởi ngay trước cửa tòa nhà (nếu lobby ấm) hoặc cửa phòng họp (nếu hành lang lạnh).
-- 【2】**Gấp 2 lần, tay trái** — fold inside-out (mặt trong ra ngoài, mặt ngoài ẩn). Đặt trên cẳng tay trái (tay phải sẵn sàng bow / nhận danh thiếp / mở cửa).
+- 【2】**Gấp 2 lần, tay trái** — gấp úp vào trong (mặt trong ra ngoài, mặt ngoài ẩn). Đặt trên cẳng tay trái (tay phải sẵn sàng bow / nhận danh thiếp / mở cửa).
 - 【3】**Cầm coat lúc bow** — coat đã ở tay trái = bow / shake hand / mở cửa = tay phải tự do. Vào phòng không lúng túng.
 
 ---
@@ -61,7 +61,7 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 
 ## ⚠ Tránh
 
-- **Cởi sau khi ngồi** → "tôi mệt/nóng" signaling
+- **Cởi sau khi ngồi** → phát tín hiệu "tôi mệt/nóng"
 - Vào phòng họp **mặc coat** → mang "bụi đường" vào
 - Cầm coat **tay phải** → tay phải bị bận = không bow/shake hand được
 - **Đặt coat trên ghế** chưa được mời → đợi host chỉ chỗ (hanger / chair)

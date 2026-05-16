@@ -10,7 +10,7 @@
 
 ---
 
-## Scene 1 — Lecture Big O · 9:00
+## Tình huống 1 — Lecture Big O · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -26,7 +26,7 @@
 
 ---
 
-## Scene 2 — Sorting algorithms · 10:30
+## Tình huống 2 — Sorting algorithms · 10:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -39,7 +39,7 @@
 
 ---
 
-## Scene 3 — Binary search · 13:00
+## Tình huống 3 — Binary search · 13:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -51,7 +51,7 @@
 
 ---
 
-## Scene 4 — AtCoder ABC weekly Saturday · 21:00
+## Tình huống 4 — AtCoder ABC weekly Saturday · 21:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -68,7 +68,7 @@
 
 ---
 
-## Scene 5 — BFS self-study · Sunday morning
+## Tình huống 5 — BFS self-study · Sunday morning
 
 | Speaker | Lời thoại |
 |---|---|
@@ -79,7 +79,7 @@
 
 ---
 
-## Scene 6 — Lin Wei show off Cyan rating · Monday
+## Tình huống 6 — Lin Wei show off Cyan rating · Monday
 
 | Speaker | Lời thoại |
 |---|---|
@@ -93,7 +93,7 @@
 
 ---
 
-## Scene 7 — Reflection: Algorithm path map · Wednesday
+## Tình huống 7 — Suy ngẫm: Algorithm path map · Wednesday
 
 | Speaker | Lời thoại |
 |---|---|
@@ -108,7 +108,7 @@
 
 ---
 
-## Scene 8 — Đêm reflect + LINE Mai · 22:30
+## Tình huống 8 — Đêm reflect + LINE Mai · 22:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -122,7 +122,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

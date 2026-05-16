@@ -26,7 +26,7 @@ Email có độ trễ. Mail gửi đi có thể được đọc sau 1 giờ, 1 n
 
 **Dấu hiệu nhận biết:**
 - "Nếu không chốt trong __ giờ tới thì __."
-- Vấn đề đang block bạn *ngay lúc này*.
+- Vấn đề đang cản trở bạn *ngay lúc này*.
 - Khách hàng đang đợi ở đầu dây bên kia.
 
 **Ví dụ:** Khách hàng đang bay vào TP.HCM tối nay, Dũng cần biết có đón sân bay không. Đây là câu hỏi cần câu trả lời trong 5 phút, không phải 5 giờ. → Gọi anh Tuấn ngay.

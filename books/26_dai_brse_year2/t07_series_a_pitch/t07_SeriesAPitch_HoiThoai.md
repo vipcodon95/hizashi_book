@@ -11,7 +11,7 @@
 
 ---
 
-## Scene 1 — JAFCO pitch Tokyo · 17/9 14:00
+## Tình huống 1 — JAFCO pitch Tokyo · 17/9 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -26,7 +26,7 @@
 
 ---
 
-## Scene 2 — DG Daiwa pitch Osaka · 22/9 15:00
+## Tình huống 2 — DG Daiwa pitch Osaka · 22/9 15:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -39,7 +39,7 @@
 
 ---
 
-## Scene 3 — WiL pitch · 28/9 (online Tokyo+SV)
+## Tình huống 3 — WiL pitch · 28/9 (online Tokyo+SV)
 
 | Speaker | Lời thoại |
 |---|---|
@@ -52,7 +52,7 @@
 
 ---
 
-## Scene 4 — Round summary update · 1/10 standup
+## Tình huống 4 — Round summary update · 1/10 standup
 
 | Speaker | Lời thoại |
 |---|---|
@@ -65,7 +65,7 @@
 
 ---
 
-## Scene 5 — Mai 30 weeks check + concerns · Senri-chuo Maternity 6/10
+## Tình huống 5 — Mai 30 weeks check + concerns · Senri-chuo Maternity 6/10
 
 | Speaker | Lời thoại |
 |---|---|
@@ -80,7 +80,7 @@
 
 ---
 
-## Scene 6 — Đại adjust schedule · Tối 22:00
+## Tình huống 6 — Đại adjust schedule · Tối 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -90,7 +90,7 @@
 
 ---
 
-## Scene 7 — Term sheet final draft · 25/10
+## Tình huống 7 — Term sheet final draft · 25/10
 
 | Speaker | Lời thoại |
 |---|---|
@@ -100,7 +100,7 @@
 
 ---
 
-## Scene 8 — Cuối tháng 10 reflection · 31/10
+## Tình huống 8 — Cuối tháng 10 reflection · 31/10
 
 | Speaker | Lời thoại |
 |---|---|
@@ -110,28 +110,28 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
-| Series A | シリーズエー | Series A funding round |
-| Term sheet | タームシート | Term sheet |
-| Lead investor | リードインベスター | Lead investor |
-| Co-invest | コインベスト | Co-investment |
-| Oversubscribed | オーバーサブスクライブ | Oversubscribed |
-| Cap table | キャップテーブル | Capitalization table |
-| Dilution | 希薄化 (きはくか) | Dilution |
-| Liquidation preference | 残余財産分配優先権 | Liquidation preference |
-| Anti-dilution | 希薄化防止条項 | Anti-dilution |
-| 妊娠高血圧 | にんしんこうけつあつ | Gestational hypertension |
-| 塩分制限 | えんぶんせいげん | Salt restriction |
+| Series A | シリーズエー | Vòng gọi vốn Series A |
+| Term sheet | タームシート | Bản điều khoản đầu tư sơ bộ |
+| Lead investor | リードインベスター | Nhà đầu tư dẫn đầu |
+| Co-invest | コインベスト | Đồng đầu tư |
+| Oversubscribed | オーバーサブスクライブ | Vượt mức đăng ký |
+| Cap table | キャップテーブル | Bảng phân bổ cổ phần |
+| Dilution | 希薄化 (きはくか) | Pha loãng cổ phần |
+| Liquidation preference | 残余財産分配優先権 | Quyền ưu tiên phân chia tài sản khi thanh lý |
+| Anti-dilution | 希薄化防止条項 | Điều khoản chống pha loãng |
+| 妊娠高血圧 | にんしんこうけつあつ | Cao huyết áp thai kỳ |
+| 塩分制限 | えんぶんせいげん | Hạn chế muối trong ăn uống |
 
 ## Bí quyết chương
 
-- **Series A pitch velocity**: 8 weeks vs industry 6 months = pre-seed loyalty + traction premium
-- **Round oversubscribed ¥230M / ¥200M target** = strong demand, founder negotiating power
-- **Cap table post Series A**: Founders 69.3% combined, dilution healthy 18-19% per founder
-- **Cao huyết áp thai kỳ nhẹ** = realistic concern + Đại adjust schedule family-first
-- **Schedule adjustment 50h→35h** + sáng tối nấu ít muối + massage = tangible support actions
+- **Tốc độ pitch Series A**: 8 tuần so với trung bình ngành 6 tháng = phần thưởng nhờ pre-seed loyalty + traction
+- **Vòng gọi vốn vượt mức đăng ký ¥230M / mục tiêu ¥200M** = nhu cầu cao, founder có sức thương lượng
+- **Bảng cổ phần sau Series A**: Founders giữ tổng cộng 69,3%, pha loãng lành mạnh 18-19% mỗi founder
+- **Cao huyết áp thai kỳ nhẹ** = lo ngại thực tế + Đại điều chỉnh lịch ưu tiên gia đình
+- **Điều chỉnh lịch 50h→35h** + sáng tối nấu ít muối + massage = hành động hỗ trợ thiết thực
 
-> *"Series A pitch tour 6 weeks DONE. ¥230M oversubscribed (Anri lead + JAFCO + DG + WiL). Close target 30/11. Mai 30w cao huyết áp nhẹ — Đại giảm hours family-first. Sign term sheet 1/11. 育休 start 15/12. Bé Đông due 25/12."*
+> *"Vòng pitch Series A 6 tuần XONG. ¥230M vượt mức đăng ký (Anri lead + JAFCO + DG + WiL). Mục tiêu close 30/11. Mai 30w cao huyết áp nhẹ — Đại giảm giờ làm ưu tiên gia đình. Ký term sheet 1/11. 育休 bắt đầu 15/12. Bé Đông dự sinh 25/12."*

@@ -45,7 +45,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 ❌ 3 MISS
 1. 一次会 STEP 2: hỏi allergy quá muộn (sau 1st sashimi) → Matsumoto suýt ăn 牡蠣. NEXT: hỏi NGAY khi mở menu.
 2. 二次会 ベルトラム: khi Ōgaki hé lộ Phase 5 chi tiết, mình thiếu enthusiasm response, chỉ nói "光栄です". NEXT: thêm 1 specific question để show engagement.
-3. カラオケ Yamamoto đề nghị mình sing 1 nữa, từ chối "もう十分" → có thể phá flow vui. NEXT: 1 song nữa (90s safe) cho không khí.
+3. カラオケ Yamamoto đề nghị mình sing 1 nữa, từ chối "もう十分" → có thể phá nhịp vui. NEXT: 1 song nữa (90s safe) cho không khí.
 
 🔁 3 FOLLOW-UP
 1. Send Ōgaki link 桂米朝 'jigokubakkyō' theo lời hứa Tuần trước → mai mail ngay sáng.
@@ -61,7 +61,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 
 ---
 
-### 📍 Scenario 2 — Practice routine: 30 phút/tuần dry-run
+### 📍 Scenario 2 — Practice routine: 30 phút/tuần luyện tập thử
 
 | | Time | Action |
 |--|------|--------|
@@ -71,7 +71,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 | L4 | (5 min) | Compare với reference, identify 1 từ phát âm yếu |
 | L5 | **Mon morning** | Apply trong call thực với khách → notice if used = +1 to bank |
 
-📝 Pattern: **Sách 08 = 51 rules → 1 năm = 51 tuần = 1 rule/tuần dry-run.** Sau 1 năm = master toàn bộ.
+📝 Công thức: **Sách 08 = 51 rules → 1 năm = 51 tuần = 1 rule/tuần luyện tập thử.** Sau 1 năm = nắm toàn bộ.
 
 ---
 
@@ -100,7 +100,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - **Không** review (skip) → sau 1 năm vẫn lặp lỗi cũ.
 - Self-review **quá tự ái** ("hôm nay tôi giỏi nhất") → miss miss.
 - Self-review **quá tự trách** ("tôi tệ quá") → demotivate, không actionable.
-- Review **không actionable** ("phải tốt hơn lần sau") — phải concrete: "lần sau hỏi allergy ngay khi mở menu".
+- Review **không áp dụng được** ("phải tốt hơn lần sau") — phải cụ thể: "lần sau hỏi allergy ngay khi mở menu".
 - Skip step **3 follow-up** → mất uy tín "thất hứa".
 
 ---
@@ -114,7 +114,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 | 改善 | かいぜん | Cải tiến (kaizen) |
 | 上々 | じょうじょう | Rất tốt |
 | 改善点 | かいぜんてん | Điểm cần cải tiến |
-| ドライラン | — | Dry run (practice) |
+| ドライラン | — | Luyện tập thử (trước khi dùng thật) |
 | 反省 | はんせい | Tự kiểm điểm |
 | 学び | まなび | Bài học rút ra |
 

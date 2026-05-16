@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Filter result · 1/2026
+## Tình huống 1 — Filter result · 1/2026
 
 | Speaker | Lời thoại |
 |---|---|
@@ -18,7 +18,7 @@
 
 ---
 
-## Scene 2 — Yamada essay drill · 1/2026
+## Tình huống 2 — Yamada essay drill · 1/2026
 
 | Speaker | Lời thoại |
 |---|---|
@@ -31,7 +31,7 @@
 
 ---
 
-## Scene 3 — Đại 面接 mock với Tony · 1/2026 cuối tháng
+## Tình huống 3 — Đại 面接 mock với Tony · 1/2026 cuối tháng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -45,7 +45,7 @@
 
 ---
 
-## Scene 4 — Sáng 5/2/2026 — đến Osaka U · 8:00
+## Tình huống 4 — Sáng 5/2/2026 — đến Osaka U · 8:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -57,7 +57,7 @@
 
 ---
 
-## Scene 5 — Test 9:00 — Essay topic · 9:00
+## Tình huống 5 — Test 9:00 — Essay topic · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -69,7 +69,7 @@
 
 ---
 
-## Scene 6 — Toán 20 phút · 10:00
+## Tình huống 6 — Toán 20 phút · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -81,7 +81,7 @@
 
 ---
 
-## Scene 7 — Lunch break + lo · 11:00
+## Tình huống 7 — Lunch break + lo · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -93,7 +93,7 @@
 
 ---
 
-## Scene 8 — 面接 entrance · 13:00
+## Tình huống 8 — 面接 entrance · 13:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -107,7 +107,7 @@
 
 ---
 
-## Scene 9 — 面接 30 phút · 13:00-13:30
+## Tình huống 9 — 面接 30 phút · 13:00-13:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -124,7 +124,7 @@
 
 ---
 
-## Scene 10 — Sau面接 + về · 14:00
+## Tình huống 10 — Sau面接 + về · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -137,7 +137,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

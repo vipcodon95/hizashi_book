@@ -1,10 +1,10 @@
 # Sách 20 · T4. Tour guide arubaito + tiếng Anh (観光バイト)
 
-> **Mục tiêu:** 6/2025. Đại apply baito 2nd: tour guide cuối tuần qua app "Tomodachi". Lương 2500 yên/giờ. 4-6h/weekend dẫn khách quốc tế Osaka. Practice tiếng Anh + tiếng Nhật.
+> **Mục tiêu:** 6/2025. Đại đăng ký baito thứ 2: hướng dẫn du lịch cuối tuần qua app "Tomodachi". Lương 2500 yên/giờ. 4-6h/weekend dẫn khách quốc tế Osaka. Practice tiếng Anh + tiếng Nhật.
 
 ---
 
-## Scene 1 — Rim giới thiệu app · 21:00
+## Tình huống 1 — Rim giới thiệu app · 21:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -19,7 +19,7 @@
 
 ---
 
-## Scene 2 — Apply Tomodachi · cuối tuần
+## Tình huống 2 — Đăng ký app Tomodachi · cuối tuần
 
 | Speaker | Lời thoại |
 |---|---|
@@ -32,7 +32,7 @@
 
 ---
 
-## Scene 3 — Train ngày đầu · weekend
+## Tình huống 3 — Đào tạo ngày đầu · weekend
 
 | Speaker | Lời thoại |
 |---|---|
@@ -45,7 +45,7 @@
 
 ---
 
-## Scene 4 — First gig book · 1 tuần sau
+## Tình huống 4 — Nhận đặt chỗ đầu tiên · 1 tuần sau
 
 | Speaker | Lời thoại |
 |---|---|
@@ -57,7 +57,7 @@
 
 ---
 
-## Scene 5 — Saturday tour · 10:00
+## Tình huống 5 — Saturday tour · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -71,7 +71,7 @@
 
 ---
 
-## Scene 6 — Takoyaki stall · 10:30
+## Tình huống 6 — Takoyaki stall · 10:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -86,7 +86,7 @@
 
 ---
 
-## Scene 7 — Osaka Castle area + history · 12:00
+## Tình huống 7 — Osaka Castle area + history · 12:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -101,7 +101,7 @@
 
 ---
 
-## Scene 8 — Cuối tour + tip · 14:00
+## Tình huống 8 — Cuối tour + tip · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -116,7 +116,7 @@
 
 ---
 
-## Scene 9 — Báo Rim · 18:00
+## Tình huống 9 — Báo Rim · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -128,7 +128,7 @@
 
 ---
 
-## Scene 10 — Đêm · 23:00
+## Tình huống 10 — Đêm · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -140,7 +140,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -149,7 +149,7 @@
 | 2500円/時 | にせんごひゃくえん/じ | 2500/h |
 | 登録 | とうろく | Đăng ký |
 | 得意分野 | とくいぶんや | Sở trường |
-| 研修 | けんしゅう | Train |
+| 研修 | けんしゅう | Đào tạo |
 | 安全第1 | あんぜんだいいち | An toàn 1 |
 | 時間厳守 | じかんげんしゅ | Đúng giờ |
 | 誠実応対 | せいじつおうたい | Thành thật |
@@ -160,7 +160,7 @@
 | 豊臣秀吉 | とよとみひでよし | Toyotomi Hideyoshi |
 | Tip | チップ | Tip |
 | 鯉 | こい | Cá chép |
-| Insist | インシスト | Insist |
+| Insist | インシスト | Khăng khăng |
 | 入試 | にゅうし | Thi vào |
 
 > *"Tour guide first. 15000 yên 4h. English real life. Network expand."*

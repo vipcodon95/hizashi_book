@@ -2,7 +2,7 @@
 
 *Hizashi Teams. 2026.*
 
-Sách dạy 報告 (báo cáo) · 連絡 (liên lạc) · 相談 (tham vấn) — 3 trụ cột giao tiếp công việc Nhật. Đặc biệt critical cho offshore IT teams VN làm việc với khách Nhật.
+Sách dạy 報告 (báo cáo) · 連絡 (liên lạc) · 相談 (tham vấn) — 3 trụ cột giao tiếp công việc Nhật. Đặc biệt thiết yếu cho offshore IT teams VN làm việc với khách Nhật.
 
 **Đối tượng:** Dev/PM/BD VN đang làm offshore với Nhật, ôn BJT J3-J2 場面把握 + 表現読解.
 
@@ -13,7 +13,7 @@ Sách dạy 報告 (báo cáo) · 連絡 (liên lạc) · 相談 (tham vấn) �
 Cast như sách 03, **bổ sung scenario mới**:
 
 - **Em Linh (リン)** trở thành onboarding case study — Dũng mentor Hou-Ren-Sou cho Linh
-- **Bug critical Phase 2** ở rule_31 — incident response live
+- **Lỗi nghiêm trọng Phase 2** ở rule_31 — incident response live
 - **Anh Hà (CTO)** active hơn — escalation path
 - **Mới:** 田中 PMO (白鷗 PMO support) — tracking liên lạc qua Slack channel
 
@@ -27,7 +27,7 @@ Cast như sách 03, **bổ sung scenario mới**:
 | II | 連絡 (Renraku — Liên lạc) | 9 |
 | III | 相談 (Sōdan — Tham vấn) | 9 |
 | IV | Hou-Ren-Sou trong tình huống đặc biệt | 6 |
-| V | Tools + Best Practice | 4 |
+| V | Tools + Thực hành tốt nhất | 4 |
 
 ---
 
@@ -91,11 +91,11 @@ Cast như sách 03, **bổ sung scenario mới**:
 | 33 | Báo nghỉ việc / nghỉ dài hạn | 退職・休暇のホウレンソウ | Notice timing, handover plan, documentation |
 | 34 | Mentoring Hou-Ren-Sou cho junior mới | 新人指導 | Dũng mentor Linh: 1-on-1 weekly + Slack hour |
 | 35 | Hou-Ren-Sou khi work-from-home | リモートワーク時 | Daily standup, status visibility, end-of-day log |
-| 36 | Bridging gap VN-JP HouRenSou | VN-JP オフショア・ギャップ | VN có xu hướng "less = better"; Nhật ngược lại. Adapt |
+| 36 | Bridging gap VN-JP HouRenSou | VN-JP オフショア・ギャップ | VN có xu hướng "less = better"; Nhật ngược lại. Thích nghi |
 
 ---
 
-## Phần V — Tools + Best Practice — 4 rules
+## Phần V — Tools + Thực hành tốt nhất — 4 rules
 
 | # | Tên VN | Tên JP | Brief |
 |---|--------|--------|-------|

@@ -1,6 +1,6 @@
 # Rule 59 — Quản lý lịch sử cuộc gọi & ghi chú / 電話履歴の管理
 
-> **Luận điểm.** Mọi cuộc gọi business cần lưu lại: **(1) ngày giờ**, **(2) đối phương + cty**, **(3) tóm tắt 5W1H**, **(4) action items**, **(5) follow-up status**. Lưu trên CRM hoặc file Excel cá nhân.
+> **Luận điểm.** Mọi cuộc gọi business cần lưu lại: **(1) ngày giờ**, **(2) đối phương + cty**, **(3) tóm tắt 5W1H**, **(4) việc cần làm**, **(5) trạng thái theo dõi**. Lưu trên CRM hoặc file Excel cá nhân.
 >
 > 通話履歴は5要素で記録：日時・相手・内容・タスク・進捗。CRMまたはエクセルで保管。
 >

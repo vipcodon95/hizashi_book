@@ -1,6 +1,6 @@
 # Rule 36 — Cà phê Việt / ベトナムコーヒー
 
-> **Luận điểm.** Khách Nhật uống quen ドリップ Arabica. Bạn = "VN insider" có thể kể: VN = **#2 thế giới**, robusta-dominant, **phin filter** chậm 4 phút, **cà phê sữa đá** đậm gấp đôi cà phê Tokyo, và **cà phê trứng Hà Nội** = trải nghiệm "wow" họ chưa biết.
+> **Luận điểm.** Khách Nhật uống quen ドリップ Arabica. Bạn = người trong cuộc có thể kể: VN = **#2 thế giới**, robusta-dominant, **phin filter** chậm 4 phút, **cà phê sữa đá** đậm gấp đôi cà phê Tokyo, và **cà phê trứng Hà Nội** = trải nghiệm "wow" họ chưa biết.
 
 ---
 
@@ -51,7 +51,7 @@ Tháng 5/2026, dinner café Tokyo sau họp. Yamamoto (Osaka, food blogger) hỏ
 | **ズン** | 「Tokyoだと**清澄白河の『フィンコーヒー』**が本格派です。あと**渋谷の『ベトちゃん』**は人気店で、店員さんもベトナム人で本物の雰囲気。」 |
 | **山本** | 「メモった!週末行ってみる。」 |
 
-📝【1】 Phin metal drip rất chậm (4-5 phút). Slow ritual = match đẹp với 急須茶 culture JP → bridge tốt.
+📝【1】 Phin metal drip rất chậm (4-5 phút). Nghi thức chậm này tương đồng đẹp với văn hóa 急須茶 JP → kết nối tự nhiên.
 
 ---
 
@@ -67,7 +67,7 @@ Tháng 5/2026, dinner café Tokyo sau họp. Yamamoto (Osaka, food blogger) hỏ
 | **ズン** | 「ニュアンス近いです!ただ**練乳の質感**が違って、**コクが濃い**。ホーチミンの**Trung Nguyên Legend**で本格的に飲めます。あとTokyoでは**コンドミニアムカフェ系**で再現してる店も増えてきました。」 |
 | **山本** | 「『ベトナム式昭和』ね、その表現メモる(笑)」 |
 
-> **VN:** Bridge cà phê sữa đá ↔ "昭和コーヒー" của JP → khách Kansai food blogger có image instant + meme-able phrase.
+> **VN:** Bắc cầu cà phê sữa đá ↔ "昭和コーヒー" của JP → khách Kansai blogger ẩm thực có hình ảnh tức thì + câu nói dễ nhớ dễ kể lại.
 
 ---
 
@@ -120,7 +120,7 @@ Tháng 5/2026, dinner café Tokyo sau họp. Yamamoto (Osaka, food blogger) hỏ
 
 ## ⚠ NG — tuyệt đối tránh
 
-- "Cà phê VN > Starbucks" → khách JP coi là arrogance, đa số họ thích Starbucks.
+- "Cà phê VN > Starbucks" → khách JP coi là kiêu ngạo, đa số họ thích Starbucks.
 - Chỉ nói "robusta" mà không explain elevation / Fine Robusta → khách giữ định kiến "industrial".
 - Push uống đặc đến **3 phin** ngày → khách JP không quen caffeine cao có thể chóng mặt thực sự.
 - So sánh negative với JP cà phê / cà phê Tokyo → vùng cấm.
@@ -140,7 +140,7 @@ Tháng 5/2026, dinner café Tokyo sau họp. Yamamoto (Osaka, food blogger) hỏ
 | 練乳 | れんにゅう | Sữa đặc |
 | カフェスアダー | — | Cà phê sữa đá |
 | カフェチュン | — | Cà phê trứng |
-| 急須 | きゅうす | Ấm trà JP (bridge ritual) |
+| 急須 | きゅうす | Ấm trà JP (điểm kết nối với nghi thức phin) |
 | 昭和コーヒー | しょうわコーヒー | Cà phê kiểu Showa retro JP |
 | 旧市街 | きゅうしがい | Phố cổ |
 
@@ -149,7 +149,7 @@ Tháng 5/2026, dinner café Tokyo sau họp. Yamamoto (Osaka, food blogger) hỏ
 ## 🎓 BJT
 
 **J3 — 場面把握:** Khi khách JP nói "Arabica?" → kéo về "Robusta + Fine Robusta" để phá định kiến.
-**J2 — 表現読解:** Bridge "phin = 急須でお茶 ritual" — sắc thái slow culture.
+**J2 — 表現読解:** Kết nối "phin = nghi thức 急須でお茶" — sắc thái slow culture.
 **J1 — 発言聴解:** Catch khi khách hỏi cà phê trứng "大丈夫?" (lo vệ sinh) → reassure bằng history + chỗ uống an toàn.
 
 ---

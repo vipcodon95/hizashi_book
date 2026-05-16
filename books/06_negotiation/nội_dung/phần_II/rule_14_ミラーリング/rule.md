@@ -39,7 +39,7 @@ Sau khi đào constraint của IT lead (rule 13), Dũng tiếp tục discovery. 
 
 📝 **Ghi chú:**
 - 【1】**「つまり、〜とのご認識でよろしいでしょうか」** = mặc định mirror phrase. Đảm bảo khách correct nếu sai.
-- 【2】**Mirror back nuance khách thêm vào** ("超えなくて大丈夫" → "超過不要") — phải bắt được nuance, KHÔNG paraphrase quá.
+- 【2】**Mirror back sắc thái khách thêm vào** ("超えなくて大丈夫" → "超過不要") — phải bắt được sắc thái tinh tế, KHÔNG paraphrase quá.
 - Mirror tại chỗ tốn 10 giây nhưng tiết kiệm ngày làm proposal sai.
 
 ---
@@ -55,7 +55,7 @@ Sau khi đào constraint của IT lead (rule 13), Dũng tiếp tục discovery. 
 ## ⚠ Tránh
 
 - Paraphrase quá xa nguyên văn → khách không recognize → thấy mình "không nghe"
-- Mirror chỉ những gì mình thích, bỏ qua nuance khó (vd: "超えなくて大丈夫" mà mirror thành "+15% 以上目指す")
+- Mirror chỉ những gì mình thích, bỏ qua sắc thái khó (vd: "超えなくて大丈夫" mà mirror thành "+15% 以上目指す")
 - Mirror sau 30 phút → không kịp correct
 - Mirror ra dạng câu hỏi đóng yes/no liên tục → tone interrogation. Đan với open question.
 

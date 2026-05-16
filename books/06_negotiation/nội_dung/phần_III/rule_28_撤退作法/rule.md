@@ -24,7 +24,7 @@ Round 4: 大垣 + 中村 CFO push xuống ¥14M (dưới walk-away ¥15.5M). Hà
 | **ズン** | 「分かりました、では今回はなしで。残念ですね。Y 社さんに発注ということで…」 |
 | **大垣** | 「では失礼します。」 |
 
-**Vì sao xấu:** "残念" + reference Y社 = passive aggressive. Door closed. Phase 4 không có cơ hội. Tone "失敗" rõ ràng.
+**Vì sao xấu:** "残念" + reference Y社 = thái độ thù địch gián tiếp. Door closed. Phase 4 không có cơ hội. Tone "失敗" rõ ràng.
 
 ---
 
@@ -58,7 +58,7 @@ Round 4: 大垣 + 中村 CFO push xuống ¥14M (dưới walk-away ¥15.5M). Hà
 
 ## ⚠ Tránh
 
-- "Y 社さんに" reference passive-aggressive → door closed
+- "Y 社さんに" reference thái độ thù địch gián tiếp → door closed
 - Express anger/frustration → unprofessional, tin lan ra
 - "失敗" / "ダメ" tone → khách Nhật ghi nhớ + truyền tai
 - Quên door-open phrase → không có Phase 4 chance

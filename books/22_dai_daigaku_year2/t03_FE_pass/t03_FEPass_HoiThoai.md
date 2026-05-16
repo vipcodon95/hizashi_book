@@ -10,7 +10,7 @@
 
 ---
 
-## Scene 1 — FE result · 5/6 9:00
+## Tình huống 1 — FE result · 5/6 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-## Scene 2 — Osaka.rb invitation · 10/6
+## Tình huống 2 — Osaka.rb invitation · 10/6
 
 | Speaker | Lời thoại |
 |---|---|
@@ -36,7 +36,7 @@
 
 ---
 
-## Scene 3 — 15/6 Osaka.rb meetup · 19:00
+## Tình huống 3 — 15/6 Osaka.rb meetup · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -49,7 +49,7 @@
 
 ---
 
-## Scene 4 — Networking 21:00 — meet Cybozu engineer
+## Tình huống 4 — Networking 21:00 — meet Cybozu engineer
 
 | Speaker | Lời thoại |
 |---|---|
@@ -62,7 +62,7 @@
 
 ---
 
-## Scene 5 — Đêm reflect · 23:30
+## Tình huống 5 — Đêm reflect · 23:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -74,7 +74,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -10,7 +10,7 @@ Tháng 12/2027. Sau Sekininsha, Hoa đăng ký HACCP coordinator. Khoá 3 ngày 
 
 ---
 
-## Scene 1 — Phòng Tanaka · 14:00
+## Tình huống 1 — Phòng Tanaka · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -28,7 +28,7 @@ Tháng 12/2027. Sau Sekininsha, Hoa đăng ký HACCP coordinator. Khoá 3 ngày 
 
 ---
 
-## Scene 2 — Suzuki giúp Hoa đăng ký
+## Tình huống 2 — Suzuki giúp Hoa đăng ký
 
 | Speaker | Lời thoại |
 |---|---|
@@ -45,7 +45,7 @@ Tháng 12/2027. Sau Sekininsha, Hoa đăng ký HACCP coordinator. Khoá 3 ngày 
 
 ---
 
-## Scene 3 — Mai phấn khích nghe tin
+## Tình huống 3 — Mai phấn khích nghe tin
 
 | Speaker | Lời thoại |
 |---|---|
@@ -60,7 +60,7 @@ Tháng 12/2027. Sau Sekininsha, Hoa đăng ký HACCP coordinator. Khoá 3 ngày 
 
 ---
 
-## Scene 4 — Sáng ngày 1 · JHTC trung tâm Tokyo
+## Tình huống 4 — Sáng ngày 1 · JHTC trung tâm Tokyo
 
 | Speaker | Lời thoại |
 |---|---|
@@ -75,7 +75,7 @@ Tháng 12/2027. Sau Sekininsha, Hoa đăng ký HACCP coordinator. Khoá 3 ngày 
 
 ---
 
-## Scene 5 — Jiko-shoukai 6 learners
+## Tình huống 5 — Jiko-shoukai 6 learners
 
 | Speaker | Lời thoại |
 |---|---|
@@ -83,7 +83,7 @@ Tháng 12/2027. Sau Sekininsha, Hoa đăng ký HACCP coordinator. Khoá 3 ngày 
 | Learner 1 | <ruby>東京<rt>とうきょう</rt></ruby>のパン<ruby>工場<rt>こうじょう</rt></ruby>から<ruby>来<rt>き</rt></ruby>ました、<ruby>山本<rt>やまもと</rt></ruby>です。<br>*(Tôi từ nhà máy bánh Tokyo, Yamamoto.)* |
 | Learner 2 | <ruby>千葉<rt>ちば</rt></ruby>の<ruby>水産加工<rt>すいさんかこう</rt></ruby>、<ruby>佐々木<rt>ささき</rt></ruby>です。<br>*(Chế biến hải sản Chiba, Sasaki.)* |
 | Hoa | <ruby>埼玉<rt>さいたま</rt></ruby>のお<ruby>弁当工場<rt>べんとうこうじょう</rt></ruby>から<ruby>参<rt>まい</rt></ruby>りました、ホアと<ruby>申<rt>もう</rt></ruby>します。ベトナム<ruby>出身<rt>しゅっしん</rt></ruby>です。<br>*(Tôi đến từ nhà máy cơm hộp Saitama, em là Hoa. Người Việt Nam.)* |
-| Cast | おー!<br>*(Ô!)* |
+| Nhân vật | おー!<br>*(Ô!)* |
 | Sasaki | ベトナム!<ruby>日本語<rt>にほんご</rt></ruby><ruby>上手<rt>じょうず</rt></ruby>!<br>*(Việt Nam! Tiếng Nhật giỏi!)* |
 | Hoa | ありがとうございます。<ruby>勉強中<rt>べんきょうちゅう</rt></ruby>です。<br>*(Cảm ơn ạ. Đang học.)* |
 | Yamamoto | <ruby>食品衛生責任者<rt>しょくひんえいせいせきにんしゃ</rt></ruby>はもう?<br>*(Sekininsha có chưa?)* |
@@ -92,7 +92,7 @@ Tháng 12/2027. Sau Sekininsha, Hoa đăng ký HACCP coordinator. Khoá 3 ngày 
 
 ---
 
-## Scene 6 — Sáng ngày 1 · HACCP 7 nguyên tắc deep
+## Tình huống 6 — Sáng ngày 1 · HACCP 7 nguyên tắc deep
 
 | Speaker | Lời thoại |
 |---|---|
@@ -107,7 +107,7 @@ Tháng 12/2027. Sau Sekininsha, Hoa đăng ký HACCP coordinator. Khoá 3 ngày 
 
 ---
 
-## Scene 7 — Trưa ngày 1 · Networking
+## Tình huống 7 — Trưa ngày 1 · Networking
 
 | Speaker | Lời thoại |
 |---|---|
@@ -125,14 +125,14 @@ Tháng 12/2027. Sau Sekininsha, Hoa đăng ký HACCP coordinator. Khoá 3 ngày 
 
 ---
 
-## Scene 8 — Chiều ngày 1 · Workshop nghiên cứu tình huống
+## Tình huống 8 — Chiều ngày 1 · Workshop nghiên cứu tình huống
 
 | Speaker | Lời thoại |
 |---|---|
 | Kondo | <ruby>本日<rt>ほんじつ</rt></ruby>のケーススタディ:お<ruby>弁当工場<rt>べんとうこうじょう</rt></ruby>の<ruby>異物混入<rt>いぶつこんにゅう</rt></ruby>。<br>*(Case study hôm nay: nhiễm dị vật ở nhà máy cơm hộp.)* |
 | Kondo | ホアさん、<ruby>当事者<rt>とうじしゃ</rt></ruby>として<ruby>意見<rt>いけん</rt></ruby>を?<br>*(Hoa-san, ý kiến với tư cách người trong cuộc?)* |
 | Hoa | はい。<ruby>去年<rt>きょねん</rt></ruby>10<ruby>月<rt>がつ</rt></ruby>、<ruby>当社<rt>とうしゃ</rt></ruby>でも<ruby>同<rt>おな</rt></ruby>じことが<ruby>起<rt>お</rt></ruby>きました。<br>*(Vâng. Tháng 10 năm ngoái, công ty em cũng có vụ tương tự.)* |
-| Cast | おお...<br>*(Ô...)* |
+| Nhân vật | おお...<br>*(Ô...)* |
 | Hoa | <ruby>原因<rt>げんいん</rt></ruby>は<ruby>原料容器<rt>げんりょうようき</rt></ruby>の<ruby>破損<rt>はそん</rt></ruby>。<ruby>解決策<rt>かいけつさく</rt></ruby>は<ruby>容器<rt>ようき</rt></ruby>チェックリスト。<br>*(Nguyên nhân là hộp nguyên liệu nứt. Giải pháp là checklist hộp.)* |
 | Kondo | <ruby>素晴<rt>すば</rt></ruby>らしい!リアルケース。<br>*(Tuyệt! Case thật.)* |
 | Yamamoto | チェックリスト、<ruby>共有<rt>きょうゆう</rt></ruby>できますか?<br>*(Có thể chia sẻ checklist không?)* |
@@ -140,7 +140,7 @@ Tháng 12/2027. Sau Sekininsha, Hoa đăng ký HACCP coordinator. Khoá 3 ngày 
 
 ---
 
-## Scene 9 — Tối ngày 1 · Khách sạn
+## Tình huống 9 — Tối ngày 1 · Khách sạn
 
 | Speaker | Lời thoại |
 |---|---|
@@ -156,7 +156,7 @@ Tháng 12/2027. Sau Sekininsha, Hoa đăng ký HACCP coordinator. Khoá 3 ngày 
 
 ---
 
-## Scene 10 — Ngày 2 · Document & record management
+## Tình huống 10 — Ngày 2 · Document & record management
 
 | Speaker | Lời thoại |
 |---|---|
@@ -171,7 +171,7 @@ Tháng 12/2027. Sau Sekininsha, Hoa đăng ký HACCP coordinator. Khoá 3 ngày 
 
 ---
 
-## Scene 11 — Ngày 3 · Bài thi cuối + chứng chỉ
+## Tình huống 11 — Ngày 3 · Bài thi cuối + chứng chỉ
 
 | Speaker | Lời thoại |
 |---|---|
@@ -183,11 +183,11 @@ Tháng 12/2027. Sau Sekininsha, Hoa đăng ký HACCP coordinator. Khoá 3 ngày 
 | Hoa | <ruby>合格<rt>ごうかく</rt></ruby>!<br>*(Đậu!)* |
 | Kondo | おめでとう、ホアさん!<br>*(Chúc mừng, Hoa-san!)* |
 | Sasaki | みんな<ruby>合格<rt>ごうかく</rt></ruby>したね!<br>*(Mọi người đều đậu nhỉ!)* |
-| Cast | やった!<br>*(Tuyệt!)* |
+| Nhân vật | やった!<br>*(Tuyệt!)* |
 
 ---
 
-## Scene 12 — Sau khoá · Cast trao LINE
+## Tình huống 12 — Sau khoá · Cast trao LINE
 
 | Speaker | Lời thoại |
 |---|---|
@@ -196,7 +196,7 @@ Tháng 12/2027. Sau Sekininsha, Hoa đăng ký HACCP coordinator. Khoá 3 ngày 
 | Yamamoto | お<ruby>弁当工場<rt>べんとうこうじょう</rt></ruby>のケーススタディ、<ruby>勉強<rt>べんきょう</rt></ruby>になった。<br>*(Case study nhà máy cơm hộp, học được nhiều.)* |
 | Hoa | こちらこそ、パン<ruby>工場<rt>こうじょう</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>、<ruby>面白<rt>おもしろ</rt></ruby>かった。<br>*(Em cũng vậy, chuyện nhà máy bánh thú vị.)* |
 | Kondo | みなさん、お<ruby>疲<rt>つか</rt></ruby>れさまでした。<br>*(Mọi người, vất vả rồi.)* |
-| Cast | お<ruby>疲<rt>つか</rt></ruby>れさまでした!<br>*(Vất vả rồi!)* |
+| Nhân vật | お<ruby>疲<rt>つか</rt></ruby>れさまでした!<br>*(Vất vả rồi!)* |
 | Kondo | ホアさん、ベトナム<ruby>初<rt>はじ</rt></ruby>のHACCP コーディネーター?<br>*(Hoa-san, người Việt đầu tiên có HACCP coordinator?)* |
 | Hoa | え?<ruby>本当<rt>ほんとう</rt></ruby>に?<br>*(Ơ? Thật ạ?)* |
 | Kondo | <ruby>少<rt>すく</rt></ruby>なくともJHTC では。<br>*(Ít nhất ở JHTC.)* |
@@ -204,7 +204,7 @@ Tháng 12/2027. Sau Sekininsha, Hoa đăng ký HACCP coordinator. Khoá 3 ngày 
 
 ---
 
-## Scene 13 — Tối ngày 3 · Hoa về Saitama
+## Tình huống 13 — Tối ngày 3 · Hoa về Saitama
 
 | Speaker | Lời thoại |
 |---|---|
@@ -216,7 +216,7 @@ Tháng 12/2027. Sau Sekininsha, Hoa đăng ký HACCP coordinator. Khoá 3 ngày 
 
 ---
 
-## Scene 14 — Hoa về kể Mai
+## Tình huống 14 — Hoa về kể Mai
 
 | Speaker | Lời thoại |
 |---|---|
@@ -252,8 +252,8 @@ Tháng 12/2027. Sau Sekininsha, Hoa đăng ký HACCP coordinator. Khoá 3 ngày 
 
 - HACCP coordinator = 3 ngày × 8h + bài thi cuối 30 câu (đậu 70%)
 - Lệ phí ¥60,000-70,000 — công ty thường trợ cấp 50% nếu đã có Sekininsha
-- Networking với 同期 → LINE QR thay vì card (cho TTS chưa có card)
-- Case study: chia sẻ vụ thật của công ty mình → instructor + đồng kỳ ấn tượng
+- Xây dựng quan hệ với 同期 → LINE QR thay vì card (cho TTS chưa có card)
+- Chia sẻ tình huống thật của công ty mình → instructor + đồng kỳ ấn tượng
 - Khoá cao cấp + người nước ngoài hiếm → cơ hội mở rộng network ngành
 
 ---

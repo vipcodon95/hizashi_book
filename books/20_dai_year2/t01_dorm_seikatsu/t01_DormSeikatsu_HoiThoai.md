@@ -1,10 +1,10 @@
-# Sách 20 · T1. Ký túc daily life — 4 quốc cohort (寮生活)
+# Sách 20 · T1. Cuộc sống hàng ngày ở ký túc — nhóm bạn 4 quốc (寮生活)
 
-> **Mục tiêu nhân vật:** 4-5/2025. Đại settled ký túc 1 tháng. Daily routine 4 quốc cohort: Bahra (Mongolia), Rim (VN — sempai N2), John (Mỹ), Đại. Tự nấu cơm, tách rác, study group đêm.
+> **Mục tiêu nhân vật:** 4-5/2025. Đại ổn định ở ký túc 1 tháng. Sinh hoạt hàng ngày nhóm bạn 4 quốc: Bahra (Mongolia), Rim (VN — sempai N2), John (Mỹ), Đại. Tự nấu cơm, tách rác, study group đêm.
 
 ---
 
-## Scene 1 — Sáng tự nấu · 6:30
+## Tình huống 1 — Sáng tự nấu · 6:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -20,7 +20,7 @@
 
 ---
 
-## Scene 2 — Tách rác Osaka system · 7:30
+## Tình huống 2 — Tách rác Osaka system · 7:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -36,7 +36,7 @@
 
 ---
 
-## Scene 3 — Đến trường + lớp B advanced · 9:00
+## Tình huống 3 — Đến trường + lớp B advanced · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -51,7 +51,7 @@
 
 ---
 
-## Scene 4 — N2 first lesson · 9:15
+## Tình huống 4 — N2 first lesson · 9:15
 
 | Speaker | Lời thoại |
 |---|---|
@@ -68,7 +68,7 @@
 
 ---
 
-## Scene 5 — Trưa cohort · 12:30
+## Tình huống 5 — Trưa cả nhóm · 12:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -83,7 +83,7 @@
 
 ---
 
-## Scene 6 — Bahra study buddy · 18:00 ký túc
+## Tình huống 6 — Bahra study buddy · 18:00 ký túc
 
 | Speaker | Lời thoại |
 |---|---|
@@ -98,7 +98,7 @@
 
 ---
 
-## Scene 7 — Yumi LINE · 21:00
+## Tình huống 7 — Yumi LINE · 21:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -113,7 +113,7 @@
 
 ---
 
-## Scene 8 — Tony birthday Friday · 19:00
+## Tình huống 8 — Tony birthday Friday · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -129,7 +129,7 @@
 
 ---
 
-## Scene 9 — Mẹ LINE Đại sang năm về Tết · 22:00
+## Tình huống 9 — Mẹ LINE Đại sang năm về Tết · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -147,7 +147,7 @@
 
 ---
 
-## Scene 10 — Đêm ký túc · 23:30
+## Tình huống 10 — Đêm ký túc · 23:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -160,7 +160,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

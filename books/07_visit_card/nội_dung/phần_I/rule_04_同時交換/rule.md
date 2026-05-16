@@ -29,7 +29,7 @@ Sau khi Linh + Dũng đã exchange với Ōgaki riêng từng người (rule 02-
 
 ---
 
-## ✅ Hội thoại TỐT — right-give-low, left-receive-high
+## ✅ Hội thoại TỐT — tay phải trao thấp, tay trái nhận cao
 
 *tay phải chìa danh thiếp **của mình** xuống thấp【1】, tay trái sẵn nhận ở trên · cũng đồng thời: phải chìa thấp, trái nhận cao · sau khi nhận bằng tay trái, đảo sang phải, đỡ 2 tay nâng ngang ngực*
 

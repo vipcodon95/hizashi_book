@@ -33,9 +33,9 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 | **ズン** | 「ご長男もスキーを継がれたんですね。素敵です。週末は中村さんも一緒に?」 |
 | **中村** | 「いやあ、もう膝がねえ…でも孫が3歳になったら…」 |
 
-📝【1】 **Pattern vàng:** lặp lại keyword khách (オウム返し) + thêm 1 câu hỏi đào sâu. Đây là 80/20 chuẩn — bạn nói 1 câu, khách nói 3-4 câu.
+📝【1】 **Công thức vàng:** lặp lại keyword khách (オウム返し) + thêm 1 câu hỏi đào sâu. Đây là 80/20 chuẩn — bạn nói 1 câu, khách nói 3-4 câu.
 
-> **VN:** Dũng chỉ thả 3 câu hỏi mở. 中村-san kể 80% — về quê, con trai, cháu. Cuối buổi Dũng có 5 fact mới ghi vào memory bank → lần sau gặp dùng tiếp.
+> **VN:** Dũng chỉ thả 3 câu hỏi mở. 中村-san kể 80% — về quê, con trai, cháu. Cuối buổi Dũng có 5 thông tin mới ghi vào kho ghi nhớ → lần sau gặp dùng tiếp.
 
 ---
 
@@ -89,7 +89,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 | **ズン** | 「**大垣さんもお嬢様いらっしゃるんですよね、たしか高校生**でしたっけ?」【3】 |
 | **大垣** | 「よく覚えてるね!来年大学受験で、もう大変よ…」 |
 
-📝【3】 Khi senior đang lái câu chuyện, junior junior khác (Dũng) **không cướp**. Đợi flow → bắc cầu để khách lớn nhất bàn (Ōgaki) cũng được nói. Đây là 80/20 multi-party.
+📝【3】 Khi senior đang lái câu chuyện, junior junior khác (Dũng) **không cướp**. Đợi nhịp → bắc cầu để khách lớn nhất bàn (Ōgaki) cũng được nói. Đây là 80/20 nhiều người.
 
 ---
 
@@ -122,7 +122,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 - **Cướp lời** khi khách đang kể (kể cả "sai sót nhỏ trong dữ kiện") → mất uy tín nghe.
 - **Đáp gọn lỏn 1 từ** rồi im → khách phải tự lo lái topic = mệt cho khách.
 - **Hỏi lại đúng câu hỏi vừa được hỏi** ("ズンさんは?" → "中村さんは?") như echo → vô hồn. Phải answer + đá ngược.
-- **So sánh "ở VN thì…"** liên tục khi khách kể về JP → phá flow của khách.
+- **So sánh "ở VN thì…"** liên tục khi khách kể về JP → phá mạch chuyện của khách.
 
 ---
 

@@ -11,7 +11,7 @@
 
 ---
 
-## Scene 1 — Term sheet sign ceremony · 1/11 14:00 WeWork
+## Tình huống 1 — Term sheet sign ceremony · 1/11 14:00 WeWork
 
 | Speaker | Lời thoại |
 |---|---|
@@ -26,7 +26,7 @@
 
 ---
 
-## Scene 2 — DD launch tech audit · 5/11
+## Tình huống 2 — DD launch tech audit · 5/11
 
 | Speaker | Lời thoại |
 |---|---|
@@ -38,7 +38,7 @@
 
 ---
 
-## Scene 3 — Legal DD · Lawyer Suzuki Tokyo · 12/11
+## Tình huống 3 — Legal DD · Lawyer Suzuki Tokyo · 12/11
 
 | Speaker | Lời thoại |
 |---|---|
@@ -48,7 +48,7 @@
 
 ---
 
-## Scene 4 — Customer reference 5 calls · 15-22/11
+## Tình huống 4 — Customer reference 5 calls · 15-22/11
 
 | Speaker | Lời thoại |
 |---|---|
@@ -59,7 +59,7 @@
 
 ---
 
-## Scene 5 — Mai 35 weeks check · 19/11 Senri-chuo
+## Tình huống 5 — Mai 35 weeks check · 19/11 Senri-chuo
 
 | Speaker | Lời thoại |
 |---|---|
@@ -71,7 +71,7 @@
 
 ---
 
-## Scene 6 — DD audit results · 25/11
+## Tình huống 6 — DD audit results · 25/11
 
 | Speaker | Lời thoại |
 |---|---|
@@ -83,7 +83,7 @@
 
 ---
 
-## Scene 7 — Đại final week prep close · 28/11
+## Tình huống 7 — Đại final week prep close · 28/11
 
 | Speaker | Lời thoại |
 |---|---|
@@ -95,7 +95,7 @@
 
 ---
 
-## Scene 8 — Đêm reflect · 28/11 23:00
+## Tình huống 8 — Đêm reflect · 28/11 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -104,29 +104,29 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
-| Due Diligence | デューディリジェンス | Due Diligence |
-| 監査 | かんさ | Audit |
-| ペネトレーションテスト | ペネトレーションテスト | Penetration test |
-| GDPR | ジーディーピーアール | GDPR (EU privacy) |
-| APPI | エーピーピーアイ | APPI (Japan privacy law) |
-| 定款 | ていかん | Articles of incorporation |
-| 株主名簿 | かぶぬしめいぼ | Shareholder ledger |
-| 取締役会 | とりしまりやくかい | Board of directors |
-| Customer reference | カスタマーリファレンス | Customer reference |
-| NPS | エヌピーエス | Net Promoter Score |
-| 立ち会い分娩 | たちあいぶんべん | Husband-attended birth |
-| 陣痛 | じんつう | Labor contractions |
+| Due Diligence | デューディリジェンス | Thẩm định đầu tư |
+| 監査 | かんさ | Kiểm toán |
+| ペネトレーションテスト | ペネトレーションテスト | Kiểm thử xâm nhập bảo mật |
+| GDPR | ジーディーピーアール | Quy định bảo vệ dữ liệu EU |
+| APPI | エーピーピーアイ | Luật bảo vệ thông tin cá nhân Nhật Bản |
+| 定款 | ていかん | Điều lệ công ty |
+| 株主名簿 | かぶぬしめいぼ | Sổ đăng ký cổ đông |
+| 取締役会 | とりしまりやくかい | Hội đồng quản trị |
+| Customer reference | カスタマーリファレンス | Phỏng vấn xác nhận khách hàng |
+| NPS | エヌピーエス | Chỉ số khuyến nghị ròng |
+| 立ち会い分娩 | たちあいぶんべん | Sinh có chồng đồng hành |
+| 陣痛 | じんつう | Cơn co chuyển dạ |
 
 ## Bí quyết chương
 
-- **DD 4 phases**: Tech + Legal + Financial + Commercial parallel 4 weeks
-- **Customer reference 5 calls** = strongest social proof Series A
-- **NPS 67 healthy SaaS threshold** (>50 = good, >70 = excellent)
-- **Trademark 4 countries** (JP+KR+ZH+VN) = international brand protection
-- **Husband-attended birth + 育休 1 month** = JP modern father standard
+- **Thẩm định 4 hạng mục**: Kỹ thuật + Pháp lý + Tài chính + Thương mại song song 4 tuần
+- **5 cuộc gọi khách hàng tham chiếu** = bằng chứng xã hội mạnh nhất trong Series A
+- **NPS 67 đạt ngưỡng SaaS lành mạnh** (>50 = tốt, >70 = xuất sắc)
+- **Đăng ký nhãn hiệu 4 quốc gia** (JP+KR+ZH+VN) = bảo vệ thương hiệu quốc tế
+- **Chồng vào phòng sinh + 育休 1 tháng** = tiêu chuẩn người cha hiện đại Nhật Bản
 
-> *"Term sheet signed 1/11. DD 4 weeks done. APPROVED 25/11. Close 30/11 confirmed. Mai 35w huyết áp ổn. Bố mẹ + Tony+Yumi book vé sang. 育休 start 15/12. Bé Đông due 25/12. Em sẵn sàng cho 30/11."*
+> *"Ký term sheet 1/11. Thẩm định 4 tuần xong. PHÊ DUYỆT 25/11. Xác nhận close 30/11. Mai 35w huyết áp ổn. Bố mẹ + Tony+Yumi đặt vé sang. 育休 bắt đầu 15/12. Bé Đông dự sinh 25/12. Sẵn sàng cho 30/11."*

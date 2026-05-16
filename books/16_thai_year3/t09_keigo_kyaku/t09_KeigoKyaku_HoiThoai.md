@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Email đầu · 9:00
+## Tình huống 1 — Email đầu · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -16,7 +16,7 @@
 
 ---
 
-## Scene 2 — Phân biệt 3 loại kính ngữ · 10:00
+## Tình huống 2 — Phân biệt 3 loại kính ngữ · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -28,7 +28,7 @@
 
 ---
 
-## Scene 3 — Điện thoại với Hamada · 14:00
+## Tình huống 3 — Điện thoại với Hamada · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -43,7 +43,7 @@
 
 ---
 
-## Scene 4 — Lỗi kính ngữ · 1 tuần sau
+## Tình huống 4 — Lỗi kính ngữ · 1 tuần sau
 
 | Speaker | Lời thoại |
 |---|---|
@@ -57,7 +57,7 @@
 
 ---
 
-## Scene 5 — Kawakami nhận xét · 17:00
+## Tình huống 5 — Kawakami nhận xét · 17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -71,7 +71,7 @@
 
 ---
 
-## Scene 6 — Đêm · 22:00
+## Tình huống 6 — Đêm · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -82,7 +82,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

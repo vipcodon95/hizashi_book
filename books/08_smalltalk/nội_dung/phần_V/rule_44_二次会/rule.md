@@ -1,12 +1,12 @@
 # Rule 44 — 一次会・二次会・締め / 一次会・二次会
 
-> **Luận điểm.** Buổi nhậu JP có **3 lớp**: **一次会 (ăn izakaya 2-2.5h) → 二次会 (bar / karaoke / 2nd round, 1-1.5h) → 締め (ramen / ochazuke shop, 30-45 phút)**. Junior phải biết **khi nào về**, **khi nào ở lại**, **read the room**. Sai = mất cơ hội bonding hoặc bị xem là "thiếu sức bền".
+> **Luận điểm.** Buổi nhậu JP có **3 lớp**: **一次会 (ăn izakaya 2-2.5h) → 二次会 (bar / karaoke / 2nd round, 1-1.5h) → 締め (ramen / ochazuke shop, 30-45 phút)**. Junior phải biết **khi nào về**, **khi nào ở lại**, **đọc không khí bàn**. Sai = mất cơ hội gắn kết hoặc bị xem là "thiếu sức bền".
 
 ---
 
 ## 🧠 Tâm lý JP (4 dòng)
 
-- 一次会 = formal half. **二次会 = real bonding** — nơi senior hé lộ chuyện thật.
+- 一次会 = nửa formal. **二次会 = gắn kết thật sự** — nơi senior hé lộ chuyện thật.
 - "Tôi xin phép về trước" sau 一次会 = OK lý do thuyết phục, nhưng **mất cơ hội**.
 - "Còn ở lại 二次会" = signal commitment + relationship investment.
 - 締め (ラーメン 23-24h) = optional cho người trẻ — senior 60t thường rời sau 二次会.
@@ -35,7 +35,7 @@ Tháng 5/2026, dinner Phase 4 closing đang ở giai đoạn cuối 一次会 iz
 | **ズン** | 「**大垣さん、お店のご案内をお願いします。**」 |
 | **大垣** | 「銀座一丁目の『**ベルトラム**』。古いウイスキーバーで、店長と仲良いんだ。」 |
 
-📝 **Pattern:** Junior **không tự đề xuất 二次会** — đợi senior. Khi senior rủ, **scan bàn xem ai về ai ở** rồi confirm cho senior. **Escort khách về** (Matsumoto) trước khi đi 二次会 = pro.
+📝 **Công thức:** Junior **không tự đề xuất 二次会** — đợi senior. Khi senior rủ, **nhìn quanh bàn xem ai về ai ở** rồi confirm cho senior. **Tiễn khách về** (Matsumoto) trước khi đi 二次会 = chuyên nghiệp.
 
 ---
 
@@ -94,7 +94,7 @@ Tháng 5/2026, dinner Phase 4 closing đang ở giai đoạn cuối 一次会 iz
 | **ズン** | 「**今日も貴重なお話、ありがとうございました**。Phase 5の件、社内で準備します。」 |
 | **大垣** | 「ズン、お疲れ。」 |
 
-📝 **締め = optional but signal commitment cho junior.** "ハノイにも締め麺 文化ある" = bridge khéo + show interest. **Escort senior to taxi** = polished close.
+📝 **締め = tùy chọn nhưng thể hiện sự đồng hành của junior.** "ハノイにも締め麺 文化ある" = kết nối khéo + thể hiện quan tâm. **Tiễn senior lên taxi** = kết thúc trọn vẹn.
 
 ---
 
@@ -127,7 +127,7 @@ Tháng 5/2026, dinner Phase 4 closing đang ở giai đoạn cuối 一次会 iz
 - Xin về 一次会 mà không có **lý do thuyết phục** → "thiếu sức bền".
 - Cướp lời / change topic khi senior 二次会 đang hé lộ thật.
 - Drink quá đà ở 二次会 → ngày mai họp lờ đờ = mất uy tín thực sự.
-- Không **escort senior to taxi** ở cuối → kết thúc lửng.
+- Không **tiễn senior lên taxi** ở cuối → kết thúc lửng.
 - 締め lái khách "phải đi" → option, không ép.
 
 ---

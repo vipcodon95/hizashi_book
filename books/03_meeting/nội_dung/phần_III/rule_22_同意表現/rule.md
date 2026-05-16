@@ -24,7 +24,7 @@ Anh Matsumoto đề xuất "deploy phase 2 vào cuối tháng 7". Em Dũng cảm
 | **ズン** | 「はい、大丈夫です。」 |
 | **松本** | 「では、その方向で確定します。」 |
 
-**Vì sao xấu:** Nói "はい、大丈夫です" = full commit. Khi sau đó slip → vi phạm cam kết. Lẽ ra phải nói "concept đồng ý, nhưng cần check feasibility".
+**Vì sao xấu:** Nói "はい、大丈夫です" = full commit. Khi sau đó slip → vi phạm cam kết. Lẽ ra phải nói "concept đồng ý, nhưng cần kiểm tra tính khả thi".
 
 ---
 
@@ -45,7 +45,7 @@ Anh Matsumoto đề xuất "deploy phase 2 vào cuối tháng 7". Em Dũng cảm
 - **Level 5 — 異論あり** 「ご意見はよく分かりました。ただ〜」 (xem rule 23)
 
 【1】**「概ね同意」**(おおむねどうい) — đồng ý phần lớn nhưng có 1-2 điểm cần check.
-【2】**「フィージビリティをご報告したく存じます」** — không cam kết ngay, mua thời gian feasibility check.
+【2】**「フィージビリティをご報告したく存じます」** — không cam kết ngay, mua thời gian kiểm tra khả thi.
 
 ---
 

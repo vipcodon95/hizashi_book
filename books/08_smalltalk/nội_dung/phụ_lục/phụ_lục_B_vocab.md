@@ -8,7 +8,7 @@
 
 | Kanji/JP | よみ | Nghĩa | Rule |
 |---|---|---|---|
-| タイミング | — | Timing | 08 |
+| タイミング | — | Thời điểm | 08 |
 | あるある | — | "Chuyện thường gặp" (slang nhẹ) | 08 |
 | なれなれしい | — | Suồng sã, thân quá mức không phù hợp | 08 |
 | いかがでしたか | — | "Như thế nào ạ?" — formal mở | 08 |
@@ -92,7 +92,7 @@
 | ランタン | — | Đèn lồng (Hội An signature) | 08 |
 | ルーフトップバー | — | Rooftop bar | 08 |
 | サンライズ | — | Bình minh | 08 |
-| シルバーウィーク | — | Tuần nghỉ tháng 9 JP (bridge) | 08 |
+| シルバーウィーク | — | Tuần nghỉ tháng 9 JP (điểm kết nối) | 08 |
 | カラスミ | — | Trứng cá muối (= trứng muối VN bridge) | 08 |
 | おまかせ | — | Combo chef chọn | 08 |
 | カウンター | — | Quầy ăn (chef đối diện) | 08 |
@@ -107,12 +107,12 @@
 | カラオケ | — | Karaoke | 08 |
 | デュエット | — | Hát đôi | 08 |
 | ジンジャエール | — | Ginger ale | 08 |
-| おしぼり | — | Khăn ướt (rescue tool) | 08 |
+| おしぼり | — | Khăn ướt (dùng khi cần gỡ tình huống) | 08 |
 | ドラフト | — | Draft (NPB) | 08 |
 | バズる | — | Đang viral | 08 |
 | スランプ | — | Slump | 08 |
 | PDCA | — | Plan-Do-Check-Action (JP business standard) | 08 |
-| ドライラン | — | Dry run (practice) | 08 |
+| ドライラン | — | Luyện tập thử (trước khi dùng thật) | 08 |
 | カラッと晴れた | — | Nắng khô (kiểu Hokkaido) | 09 |
 | ザンギ | — | Gà chiên Hokkaido | 11 |
 | ロック | — | On the rocks | 12 |
@@ -269,7 +269,7 @@
 | 気まずい | きまずい | Khó xử, awkward | 08 |
 | 旧市街 | きゅうしがい | Phố cổ | 08 |
 | 旧正月 | きゅうしょうがつ | Tết âm lịch (= Tết VN) | 08 |
-| 急須 | きゅうす | Ấm trà JP (bridge ritual) | 08 |
+| 急須 | きゅうす | Ấm trà JP (điểm kết nối với nghi thức phin) | 08 |
 | 給料 | きゅうりょう | Lương | 08 |
 | 旧暦 | きゅうれき | Âm lịch | 08 |
 | 共通テスト | きょうつうテスト | Kỳ thi chung (universal entrance test) | 08 |
@@ -475,7 +475,7 @@
 | 中部高原 | ちゅうぶこうげん | Cao nguyên Trung phần (Buôn Ma Thuột, Đà Lạt) | 08 |
 | 美ら海水族館 | ちゅらうみすいぞくかん | Aquarium | 08 |
 | 提灯 | ちょうちん | Đèn lồng | 08 |
-| 直撃 | ちょくげき | "Hit thẳng" (đúng audience) | 08 |
+| 直撃 | ちょくげき | "Chạm đúng gu" (đúng đối tượng) | 08 |
 | 知覧 | ちらん | Bảo tàng tokkō | 08 |
 | 散り際 | ちりぎわ | Lúc tàn rơi | 16 |
 | 沈黙 | ちんもく | Im lặng | 08 |

@@ -1,6 +1,6 @@
 # Rule 33 — Tránh culture clash VN-JP / 文化衝突の回避
 
-> **Luận điểm.** 3 thói quen Việt Nam xung đột thẳng với kiểu Nhật khi tiếp khách: **(1) "Em tự rót cho em" → kiểu Nhật phải rót cho nhau (相互ケア), (2) "Để em trả" với người mời → mất face người mời, (3) "Đáp lễ quà ngay" → signal "tôi nợ" tạo gánh nặng**. Đúng cách = nhường, hẹn lần sau mình mời lại / đáp lễ ở dịp khác.
+> **Luận điểm.** 3 thói quen Việt Nam xung đột thẳng với kiểu Nhật khi tiếp khách: **(1) "Em tự rót cho em" → kiểu Nhật phải rót cho nhau (相互ケア), (2) "Để em trả" với người mời → mất face người mời, (3) "Đáp lễ quà ngay" → tín hiệu "tôi nợ" tạo gánh nặng**. Đúng cách = nhường, hẹn lần sau mình mời lại / đáp lễ ở dịp khác.
 >
 > VN流『自分でやる/俺が払う/即返し』 vs JP『相互pour/招待者支払い/別日返し』。後者を follow が正解。
 >
@@ -25,7 +25,7 @@ Ngày 3 onsite Tokyo buổi tối, Tanaka PMO + PM Matsumoto rủ Dũng + Tuấn
 | **田中PMO** | 「あ、今日は私が誘ったので…」 (face損なう) |
 | **ズン** | （鞄から即お返しのgiftを取り出す）「これ、お返しに…」 |
 
-**Vì sao xấu:** (1) Tự rót cho mình = phá kiểu Nhật chăm sóc lẫn nhau (Matsumoto đề xuất rót cho mình mà bị từ chối). (2) Thấy bill rút thẻ trước khi người mời rút = mất mặt người mời (Tanaka PMO). (3) Đáp lễ quà ngay = signal "tôi nợ phải trả ngay" = tạo cảm giác gánh nặng.
+**Vì sao xấu:** (1) Tự rót cho mình = phá kiểu Nhật chăm sóc lẫn nhau (Matsumoto đề xuất rót cho mình mà bị từ chối). (2) Thấy bill rút thẻ trước khi người mời rút = mất mặt người mời (Tanaka PMO). (3) Đáp lễ quà ngay = tín hiệu "tôi nợ phải trả ngay" = tạo cảm giác gánh nặng.
 
 ---
 
@@ -46,7 +46,7 @@ Ngày 3 onsite Tokyo buổi tối, Tanaka PMO + PM Matsumoto rủ Dũng + Tuấn
 📝 **Ghi chú:**
 - 【1】**Đảo ngược "mình tự rót cho mình" kiểu VN**. Kiểu Nhật = chăm sóc lẫn nhau: rót cho đối phương → đối phương rót lại cho mình. Đó là nhịp相互ケア.
 - 【2】**Giữ thể diện người mời** — kìm "để em trả" kiểu VN, để người mời trả theo kiểu Nhật. Thay vào đó **đề xuất lần sau mình mời lại** = win-win.
-- 【3】**Đáp lễ ngay = signal "tôi nợ phải trả"** → kiểu Nhật là cách thời gian, "lần sau" / "tháng sau" = return tự nhiên không tạo gánh nặng tâm lý.
+- 【3】**Đáp lễ ngay = tín hiệu "tôi nợ phải trả"** → kiểu Nhật là cách thời gian, "lần sau" / "tháng sau" = return tự nhiên không tạo gánh nặng tâm lý.
 - 【4】**「ご馳走になりました」** — câu cố định lúc tạm biệt người mời. Sáng hôm sau gửi mail cảm ơn lần nữa = hoàn hảo.
 
 ---
@@ -63,7 +63,7 @@ Ngày 3 onsite Tokyo buổi tối, Tanaka PMO + PM Matsumoto rủ Dũng + Tuấn
 
 - Tự rót cho ly mình khi đối phương đề nghị rót — phá相互ケア
 - Tranh trả tiền với người mời — mất face người mời
-- Đáp lễ quà / bữa ăn ngay trong cùng dịp — signal "tôi nợ"
+- Đáp lễ quà / bữa ăn ngay trong cùng dịp — tín hiệu "tôi nợ"
 - Từ chối mạnh "không không em không nhận đâu" — phá thiện chí
 - Quên gửi thank-you mail sáng hôm sau — mất follow-up
 

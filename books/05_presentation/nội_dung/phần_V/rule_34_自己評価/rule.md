@@ -1,6 +1,6 @@
 # Rule 34 — Self-review checklist / 自己評価
 
-> **Luận điểm.** Sau pitch (trong vòng 24h), self-review **bằng 12-item rubric** chia 4 cụm: Preparation (3) / Delivery (4) / Q&A (3) / Closing+Followup (2). Mỗi item chấm 1-5. Tự kết luận **3 strengths + 3 improvements**. Skip self-review = lặp cùng lỗi pitch tiếp. Khách Nhật value "改善志向" — review record tự nó là đầu tư.
+> **Luận điểm.** Sau pitch (trong vòng 24h), self-review **bằng 12-item rubric (bảng tiêu chí đánh giá)** chia 4 cụm: Preparation (3) / Delivery (4) / Q&A (3) / Closing+Followup (2). Mỗi item chấm 1-5. Tự kết luận **3 strengths + 3 improvements**. Skip self-review = lặp cùng lỗi pitch tiếp. Khách Nhật value "改善志向" — review record tự nó là đầu tư.
 >
 > ピッチ後24h以内に12項目 rubric self-review (準備3+デリバリー4+Q&A3+クロージング2)。3 strengths + 3 improvements を抽出。改善志向は日本顧客が高く評価。
 >

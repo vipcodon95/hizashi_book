@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Suzuki giao job · 8:30
+## Tình huống 1 — Suzuki giao job · 8:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -17,7 +17,7 @@
 
 ---
 
-## Scene 2 — Mount khuôn · 9:30
+## Tình huống 2 — Mount khuôn · 9:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -31,7 +31,7 @@
 
 ---
 
-## Scene 3 — 樹脂 setup · 10:30
+## Tình huống 3 — 樹脂 setup · 10:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -46,7 +46,7 @@
 
 ---
 
-## Scene 4 — First shot · 11:00
+## Tình huống 4 — First shot · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -62,7 +62,7 @@
 
 ---
 
-## Scene 5 — Defect ヒケ · 11:15
+## Tình huống 5 — Defect ヒケ · 11:15
 
 | Speaker | Lời thoại |
 |---|---|
@@ -76,7 +76,7 @@
 
 ---
 
-## Scene 6 — Shot lần 2 + 3 · 11:30-12:00
+## Tình huống 6 — Shot lần 2 + 3 · 11:30-12:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -90,7 +90,7 @@
 
 ---
 
-## Scene 7 — Đêm reflect · 22:00
+## Tình huống 7 — Đêm reflect · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -101,7 +101,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -1,14 +1,14 @@
-# Sách 19 · T12. 1年経過 — Plan năm 2 + ĐH research (1年経過)
+# Sách 19 · T12. 1年経過 — Kế hoạch năm 2 + tìm hiểu ĐH (1年経過)
 
-> **Mục tiêu nhân vật:** 4/2025 cuối. Yamada-sensei mensetsu cá nhân + Đại research ĐH (Osaka U + Kobe U + Kansai U). Mock JLPT N2 đầu — 110/180 (gần đỗ). Plan năm 2 chi tiết.
+> **Mục tiêu nhân vật:** 4/2025 cuối. Yamada-sensei mensetsu cá nhân + Đại tìm hiểu ĐH (Osaka U + Kobe U + Kansai U). Mock JLPT N2 đầu — 110/180 (gần đỗ). Kế hoạch năm 2 chi tiết.
 
 ## Bối cảnh
 
-4/2025 cuối tháng. Đại N3 đỗ + 1 tháng ký túc. Yamada mensetsu mỗi học viên 1on1 30 phút. Đại bắt đầu research ĐH cho năm 2.
+4/2025 cuối tháng. Đại N3 đỗ + 1 tháng ký túc. Yamada mensetsu mỗi học viên 1on1 30 phút. Đại bắt đầu tìm hiểu ĐH cho năm 2.
 
 ---
 
-## Scene 1 — Yamada mensetsu · 14:00
+## Tình huống 1 — Yamada mensetsu · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-## Scene 2 — N2 mock test result · 14:30
+## Tình huống 2 — N2 mock test result · 14:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -39,7 +39,7 @@
 
 ---
 
-## Scene 3 — ĐH discussion · 15:00
+## Tình huống 3 — ĐH discussion · 15:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -53,7 +53,7 @@
 
 ---
 
-## Scene 4 — Yamada explain ĐH 留学生 path · 15:15
+## Tình huống 4 — Yamada explain ĐH 留学生 path · 15:15
 
 | Speaker | Lời thoại |
 |---|---|
@@ -68,7 +68,7 @@
 
 ---
 
-## Scene 5 — EJU prep + N2 trade-off · 15:45
+## Tình huống 5 — EJU prep + N2 trade-off · 15:45
 
 | Speaker | Lời thoại |
 |---|---|
@@ -82,11 +82,11 @@
 
 ---
 
-## Scene 6 — ĐH Osaka research · 19:00 ký túc
+## Tình huống 6 — Tìm hiểu ĐH Osaka · 19:00 ký túc
 
 | Speaker | Lời thoại |
 |---|---|
-| Đại | (VN, internal) ĐH Osaka kinh tế research:<br>*(Research:)* |
+| Đại | (VN, internal) Tìm hiểu ĐH Osaka kinh tế:<br>*(Tìm hiểu:)* |
 | Đại | (VN) <ruby>大阪大学<rt>おおさかだいがく</rt></ruby><ruby>経済学部<rt>けいざいがくぶ</rt></ruby>:<br>*(ĐH Osaka kinh tế:)* |
 | Đại | (VN) - 学費 535.800 yên/năm (quốc lập rẻ)<br>*(- 535k yên/năm.)* |
 | Đại | (VN) - Học bổng du học sinh 50 万 (điều kiện GPA + N2)<br>*(- Học bổng 500k.)* |
@@ -100,7 +100,7 @@
 
 ---
 
-## Scene 7 — Rim mentor · 21:00 kitchen
+## Tình huống 7 — Rim mentor · 21:00 kitchen
 
 | Speaker | Lời thoại |
 |---|---|
@@ -118,7 +118,7 @@
 
 ---
 
-## Scene 8 — Plan năm 2 detail · 22:00
+## Tình huống 8 — Kế hoạch năm 2 chi tiết · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -136,7 +136,7 @@
 
 ---
 
-## Scene 9 — Tony+Yumi dinner thứ 6 · 19:00
+## Tình huống 9 — Tony+Yumi dinner thứ 6 · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -152,12 +152,12 @@
 
 ---
 
-## Scene 10 — Đêm reflect cuối năm 1 · 23:00
+## Tình huống 10 — Đêm reflect cuối năm 1 · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
 | Đại | (VN, nhật ký) 30/4/2025. 12 tháng Osaka.<br>*(12 tháng.)* |
-| Đại | (VN) Achievements năm 1:<br>*(Year 1:)* |
+| Đại | (VN) Thành tựu năm 1:<br>*(Năm 1:)* |
 | Đại | (VN) - JLPT N3 110/180<br>*(- N3.)* |
 | Đại | (VN) - Tenjin Matsuri + Dã ngoại Kyoto + Hatsumode<br>*(- 文化.)* |
 | Đại | (VN) - Lawson Namba 10 tháng baito<br>*(- Lawson.)* |
@@ -167,14 +167,14 @@
 | Đại | (VN) - EJU 6+11/2025 (mục tiêu 350/450)<br>*(- EJU.)* |
 | Đại | (VN) - JLPT N2 7/2025 (mục tiêu 140)<br>*(- N2.)* |
 | Đại | (VN) - 志望理由書 1500 chữ JP<br>*(- 志望理由書.)* |
-| Đại | (VN) - ĐH Osaka 経済学部 application 12/2025<br>*(- Apply.)* |
+| Đại | (VN) - Nộp đơn ĐH Osaka 経済学部 12/2025<br>*(- Nộp đơn.)* |
 | Đại | (VN) - 合格発表 2-3/2026<br>*(- KQ.)* |
 | Đại | (VN) Mục tiêu cuối: bước vào ĐH 4/2026.<br>*(4/2026.)* |
 | Đại | <ruby>頑張<rt>がんば</rt></ruby>る！<br>*(Cố!)* |
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

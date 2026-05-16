@@ -1,6 +1,6 @@
 # Rule 49 — Tracking decisions trong CRM / 決定事項の社内管理
 
-> **Luận điểm.** Decisions từ họp PHẢI lưu vào hệ thống nội bộ (Notion/Slack/CRM) trong **48h** với 4 trường: **(1) Decision**, **(2) Source meeting + date**, **(3) Owner**, **(4) Status (open/closed)**. Mục đích: traceable cho audit + onboarding nhân viên mới + tránh "đã quyết rồi vẫn cãi lại".
+> **Luận điểm.** Decisions từ họp PHẢI lưu vào hệ thống nội bộ (Notion/Slack/CRM) trong **48h** với 4 trường: **(1) Decision**, **(2) Source meeting + date**, **(3) Owner**, **(4) Status (open/closed)**. Mục đích: có thể tra cứu cho audit + tiếp nhận nhân viên mới + tránh "đã quyết rồi vẫn cãi lại".
 >
 > 決定事項は48時間以内にNotion/CRMに記録：①decision ②会議源 ③owner ④status の4フィールド。
 >
@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-3 tuần sau buổi đàm phán phase 2, có thành viên dev mới onboard. Hỏi "scope phase 2 chốt thế nào?". Em Dũng cần chỉ tới CRM record.
+3 tuần sau buổi đàm phán phase 2, có thành viên dev mới gia nhập. Hỏi "scope phase 2 chốt thế nào?". Em Dũng cần chỉ tới CRM record.
 
 ---
 
@@ -22,7 +22,7 @@
 | **ズン** | 「えーと、メールどこかに議事録あったはず…」 *(15 phút search)* |
 | **新人** | 「…」 |
 
-**Vì sao xấu:** Decision không có "single source of truth". Mỗi lần ai hỏi → search email → mất 15 phút. Onboarding inefficient.
+**Vì sao xấu:** Decision không có "single source of truth". Mỗi lần ai hỏi → search email → mất 15 phút. Quy trình tiếp nhận nhân viên mới kém hiệu quả.
 
 ---
 

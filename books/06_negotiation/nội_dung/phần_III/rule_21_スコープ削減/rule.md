@@ -40,8 +40,8 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 
 📝 **Ghi chú:**
 - 【1】**「スコープ調整が必要」** — câu chuyển từ price negotiation sang scope negotiation. Giữ leverage.
-- 【2】**Cắt feature có thể "後出し" Phase 4** — KHÔNG mất khách, chỉ delay revenue. Khách ringi dễ pass hơn.
-- 【3】**"Unit price 同等"** = key sentence. CFO/部長 cần "internal explanation": "không bị giảm giá, chỉ giảm scope".
+- 【2】**Cắt feature có thể đẩy về sau (後出し) Phase 4** — KHÔNG mất khách, chỉ lùi thời gian thu. Khách ringi dễ pass hơn.
+- 【3】**"Đơn giá tương đương (unit price 同等)"** = key sentence. CFO/部長 cần "internal explanation": "không bị giảm giá, chỉ giảm scope".
 
 ---
 
@@ -49,7 +49,7 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 
 > **「価格でなく scope を交渉軸にする。Unit price 維持で総額調整、粗利率を守る。」**
 >
-> *Đàm phán scope, KHÔNG đàm phán giá đơn vị. Giữ unit price, điều chỉnh tổng tiền, bảo vệ margin.*
+> *Đàm phán scope, KHÔNG đàm phán đơn giá. Giữ đơn giá, điều chỉnh tổng tiền, bảo vệ margin.*
 
 ---
 

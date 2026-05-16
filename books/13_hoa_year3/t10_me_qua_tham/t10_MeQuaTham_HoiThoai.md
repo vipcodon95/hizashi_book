@@ -8,7 +8,7 @@ Tháng 1/2029. Mẹ Hoa (52 tuổi, lần đầu rời Việt Nam) bay từ Hà 
 
 ---
 
-## Scene 1 — Sáng đón mẹ · 5:30 Saitama
+## Tình huống 1 — Sáng đón mẹ · 5:30 Saitama
 
 | Speaker | Lời thoại |
 |---|---|
@@ -21,7 +21,7 @@ Tháng 1/2029. Mẹ Hoa (52 tuổi, lần đầu rời Việt Nam) bay từ Hà 
 
 ---
 
-## Scene 2 — Narita arrival · 9:30 ga đến
+## Tình huống 2 — Narita arrival · 9:30 ga đến
 
 | Speaker | Lời thoại |
 |---|---|
@@ -39,7 +39,7 @@ Tháng 1/2029. Mẹ Hoa (52 tuổi, lần đầu rời Việt Nam) bay từ Hà 
 
 ---
 
-## Scene 3 — Train về Saitama · 11:00 Narita Express
+## Tình huống 3 — Train về Saitama · 11:00 Narita Express
 
 | Speaker | Lời thoại |
 |---|---|
@@ -56,7 +56,7 @@ Tháng 1/2029. Mẹ Hoa (52 tuổi, lần đầu rời Việt Nam) bay từ Hà 
 
 ---
 
-## Scene 4 — Đến phòng Hoa · 14:00 ký túc
+## Tình huống 4 — Đến phòng Hoa · 14:00 ký túc
 
 | Speaker | Lời thoại |
 |---|---|
@@ -74,7 +74,7 @@ Tháng 1/2029. Mẹ Hoa (52 tuổi, lần đầu rời Việt Nam) bay từ Hà 
 
 ---
 
-## Scene 5 — Tối với Mai+Trang · 19:00 phòng staff
+## Tình huống 5 — Tối với Mai+Trang · 19:00 phòng staff
 
 | Speaker | Lời thoại |
 |---|---|
@@ -92,7 +92,7 @@ Tháng 1/2029. Mẹ Hoa (52 tuổi, lần đầu rời Việt Nam) bay từ Hà 
 
 ---
 
-## Scene 6 — Sáng vào nhà máy · 9:00 lễ
+## Tình huống 6 — Sáng vào nhà máy · 9:00 lễ
 
 | Speaker | Lời thoại |
 |---|---|
@@ -110,7 +110,7 @@ Tháng 1/2029. Mẹ Hoa (52 tuổi, lần đầu rời Việt Nam) bay từ Hà 
 
 ---
 
-## Scene 7 — Vợ Tanaka đến · 9:30
+## Tình huống 7 — Vợ Tanaka đến · 9:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -128,7 +128,7 @@ Tháng 1/2029. Mẹ Hoa (52 tuổi, lần đầu rời Việt Nam) bay từ Hà 
 
 ---
 
-## Scene 8 — Tour nhà máy · 10:30
+## Tình huống 8 — Tour nhà máy · 10:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -147,7 +147,7 @@ Tháng 1/2029. Mẹ Hoa (52 tuổi, lần đầu rời Việt Nam) bay từ Hà 
 
 ---
 
-## Scene 9 — Trưa với cast · 12:00 phòng staff
+## Tình huống 9 — Trưa với cast · 12:00 phòng staff
 
 | Speaker | Lời thoại |
 |---|---|
@@ -166,7 +166,7 @@ Tháng 1/2029. Mẹ Hoa (52 tuổi, lần đầu rời Việt Nam) bay từ Hà 
 
 ---
 
-## Scene 10 — Tanaka tặng quà mẹ · 13:30
+## Tình huống 10 — Tanaka tặng quà mẹ · 13:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -183,7 +183,7 @@ Tháng 1/2029. Mẹ Hoa (52 tuổi, lần đầu rời Việt Nam) bay từ Hà 
 
 ---
 
-## Scene 11 — Suzuki tặng quà mẹ · 14:00
+## Tình huống 11 — Suzuki tặng quà mẹ · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -201,7 +201,7 @@ Tháng 1/2029. Mẹ Hoa (52 tuổi, lần đầu rời Việt Nam) bay từ Hà 
 
 ---
 
-## Scene 12 — Asakusa hôm sau · 11:00
+## Tình huống 12 — Asakusa hôm sau · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -219,7 +219,7 @@ Tháng 1/2029. Mẹ Hoa (52 tuổi, lần đầu rời Việt Nam) bay từ Hà 
 
 ---
 
-## Scene 13 — Senso-ji · 12:00
+## Tình huống 13 — Senso-ji · 12:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -234,7 +234,7 @@ Tháng 1/2029. Mẹ Hoa (52 tuổi, lần đầu rời Việt Nam) bay từ Hà 
 
 ---
 
-## Scene 14 — Quyết định stay/go bàn với mẹ · 18:00 cơm tối
+## Tình huống 14 — Quyết định stay/go bàn với mẹ · 18:00 cơm tối
 
 | Speaker | Lời thoại |
 |---|---|
@@ -253,7 +253,7 @@ Tháng 1/2029. Mẹ Hoa (52 tuổi, lần đầu rời Việt Nam) bay từ Hà 
 
 ---
 
-## Scene 15 — Hoa quyết định · 19:30
+## Tình huống 15 — Hoa quyết định · 19:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -272,7 +272,7 @@ Tháng 1/2029. Mẹ Hoa (52 tuổi, lần đầu rời Việt Nam) bay từ Hà 
 
 ---
 
-## Scene 16 — Kawagoe day trip · sáng tuần 3
+## Tình huống 16 — Kawagoe day trip · sáng tuần 3
 
 | Speaker | Lời thoại |
 |---|---|
@@ -288,7 +288,7 @@ Tháng 1/2029. Mẹ Hoa (52 tuổi, lần đầu rời Việt Nam) bay từ Hà 
 
 ---
 
-## Scene 17 — Đêm trước mẹ về · 21:00
+## Tình huống 17 — Đêm trước mẹ về · 21:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -306,7 +306,7 @@ Tháng 1/2029. Mẹ Hoa (52 tuổi, lần đầu rời Việt Nam) bay từ Hà 
 
 ---
 
-## Scene 18 — Tiễn mẹ Narita · sáng 12/2
+## Tình huống 18 — Tiễn mẹ Narita · sáng 12/2
 
 | Speaker | Lời thoại |
 |---|---|
@@ -328,7 +328,7 @@ Tháng 1/2029. Mẹ Hoa (52 tuổi, lần đầu rời Việt Nam) bay từ Hà 
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -26,7 +26,7 @@ Phase 3 ký + PR release thứ Năm. Chiều thứ Sáu Dũng có 1 giờ — se
 | **リン** | 「ズン先輩、私は今 別案件で…」 |
 | (背景: Linh は Phase 3 PR を 3 日 overtime で作成、感謝された記憶 specific になし) |  |
 
-**Vì sao xấu:** Generic "お疲れ様" = 全員に同じ = 個別貢献 invisible。Junior は「自分の effort 認識されてない」と感じる → 次のお願い時に冷たい response。Loyalty drift。
+**Vì sao xấu:** Generic "お疲れ様" = 全員に同じ = 個別貢献 không được thấy。Junior は「自分の effort 認識されてない」と感じる → 次のお願い時に冷たい response。Loyalty suy giảm。
 
 ---
 
@@ -65,7 +65,7 @@ Phase 3 ký + PR release thứ Năm. Chiều thứ Sáu Dũng có 1 giờ — se
 
 - 「みんなお疲れ様」 1 行で済ませる → junior 心が冷める
 - Junior の貢献を generic 化 (「PR 作ってくれてありがとう」) → 詳細な effort が見えない
-- Senior だけ thank → junior は "自分は invisible" と感じる
+- Senior だけ thank → junior は "自分は âm thầm, không ai thấy" と感じる
 - 全体 post 先 → 個別 DM の重みが減る
 - 経理・法務 などの support function 忘れ → これら 1 mistake で会社が潰れる職種
 

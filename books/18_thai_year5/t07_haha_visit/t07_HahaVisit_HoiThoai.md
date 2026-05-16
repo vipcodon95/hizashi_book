@@ -8,7 +8,7 @@
 
 ---
 
-## Scene 1 — Centrair đón mẹ · sáng 12/2026
+## Tình huống 1 — Centrair đón mẹ · sáng 12/2026
 
 | Speaker | Lời thoại |
 |---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-## Scene 2 — Anjo phòng ký túc · 17:00
+## Tình huống 2 — Anjo phòng ký túc · 17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -36,7 +36,7 @@
 
 ---
 
-## Scene 3 — Tanaka đón mẹ · ngày 2 sáng
+## Tình huống 3 — Tanaka đón mẹ · ngày 2 sáng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -48,7 +48,7 @@
 
 ---
 
-## Scene 4 — Vợ Tanaka làm phở · trưa
+## Tình huống 4 — Vợ Tanaka làm phở · trưa
 
 | Speaker | Lời thoại |
 |---|---|
@@ -61,7 +61,7 @@
 
 ---
 
-## Scene 5 — Linh-chị + Linh-Anh + mẹ Nagoya · ngày 5
+## Tình huống 5 — Linh-chị + Linh-Anh + mẹ Nagoya · ngày 5
 
 | Speaker | Lời thoại |
 |---|---|
@@ -73,7 +73,7 @@
 
 ---
 
-## Scene 6 — Hamada visit + mẹ · ngày 7
+## Tình huống 6 — Hamada visit + mẹ · ngày 7
 
 | Speaker | Lời thoại |
 |---|---|
@@ -86,7 +86,7 @@
 
 ---
 
-## Scene 7 — Mẹ về VN · 2 tuần sau
+## Tình huống 7 — Mẹ về VN · 2 tuần sau
 
 | Speaker | Lời thoại |
 |---|---|
@@ -100,7 +100,7 @@
 
 ---
 
-## Scene 8 — Đêm · 23:00
+## Tình huống 8 — Đêm · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -112,7 +112,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -8,7 +8,7 @@
 
 ---
 
-## Scene 1 — Tanaka mensetsu · 14:00 phòng họp
+## Tình huống 1 — Tanaka mensetsu · 14:00 phòng họp
 
 | Speaker | Lời thoại |
 |---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-## Scene 2 — Plan năm 2 · 14:30
+## Tình huống 2 — Plan năm 2 · 14:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -40,7 +40,7 @@
 
 ---
 
-## Scene 3 — Lương tăng · 15:00
+## Tình huống 3 — Lương tăng · 15:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -55,7 +55,7 @@
 
 ---
 
-## Scene 4 — Cohort izakaya · 19:00 鳥貴族 cuối tuần
+## Tình huống 4 — Cohort izakaya · 19:00 鳥貴族 cuối tuần
 
 | Speaker | Lời thoại |
 |---|---|
@@ -71,7 +71,7 @@
 
 ---
 
-## Scene 5 — Putra news · 20:00
+## Tình huống 5 — Putra news · 20:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -86,7 +86,7 @@
 
 ---
 
-## Scene 6 — Mai message · 22:00
+## Tình huống 6 — Mai message · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -105,7 +105,7 @@
 
 ---
 
-## Scene 7 — Mai gửi áo · 1 tuần sau
+## Tình huống 7 — Mai gửi áo · 1 tuần sau
 
 | Speaker | Lời thoại |
 |---|---|
@@ -123,7 +123,7 @@
 
 ---
 
-## Scene 8 — Đêm cuối năm 1 · 23:00
+## Tình huống 8 — Đêm cuối năm 1 · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -145,7 +145,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

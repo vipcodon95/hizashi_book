@@ -10,7 +10,7 @@
 
 ---
 
-## Scene 1 — Close Day morning · 30/11 9:00 WeWork
+## Tình huống 1 — Close Day morning · 30/11 9:00 WeWork
 
 | Speaker | Lời thoại |
 |---|---|
@@ -21,7 +21,7 @@
 
 ---
 
-## Scene 2 — 10:00 Final docs sign + bank wire
+## Tình huống 2 — 10:00 Final docs sign + bank wire
 
 | Speaker | Lời thoại |
 |---|---|
@@ -38,7 +38,7 @@
 
 ---
 
-## Scene 3 — Champagne + chụp ảnh historic moment · 11:00
+## Tình huống 3 — Champagne + chụp ảnh historic moment · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -50,7 +50,7 @@
 
 ---
 
-## Scene 4 — PR release embargo lift · 1/12 9:00
+## Tình huống 4 — PR release embargo lift · 1/12 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -64,7 +64,7 @@
 
 ---
 
-## Scene 5 — Board kickoff meeting · 2/12 14:00 WeWork
+## Tình huống 5 — Board kickoff meeting · 2/12 14:00 WeWork
 
 | Speaker | Lời thoại |
 |---|---|
@@ -76,7 +76,7 @@
 
 ---
 
-## Scene 6 — Đại 育休 start sớm! · 15/12
+## Tình huống 6 — Đại 育休 start sớm! · 15/12
 
 | Speaker | Lời thoại |
 |---|---|
@@ -87,7 +87,7 @@
 
 ---
 
-## Scene 7 — Bé Đông sinh sớm 18/12 (1 tuần sớm dự sinh)! · 4:30 sáng
+## Tình huống 7 — Bé Đông sinh sớm 18/12 (1 tuần sớm dự sinh)! · 4:30 sáng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -103,7 +103,7 @@
 
 ---
 
-## Scene 8 — Bé Đông sinh · 7:30 sáng 18/12/2031
+## Tình huống 8 — Bé Đông sinh · 7:30 sáng 18/12/2031
 
 | Speaker | Lời thoại |
 |---|---|
@@ -118,7 +118,7 @@
 
 ---
 
-## Scene 9 — Bố mẹ + Tony+Yumi + Hana đến · 9:00
+## Tình huống 9 — Bố mẹ + Tony+Yumi + Hana đến · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -132,30 +132,30 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
-| クロージング | クロージング | Closing |
-| 銀行送金 | ぎんこうそうきん | Bank wire transfer |
-| 着金 | ちゃっきん | Money received |
-| 取締役会 | とりしまりやくかい | Board of directors |
-| 代行CEO | だいこうシーイーオー | Acting CEO |
-| 立ち会い分娩 | たちあいぶんべん | Husband-attended birth |
-| 子宮口 | しきゅうこう | Cervix |
-| 分娩室 | ぶんべんしつ | Delivery room |
-| 破水 | はすい | Water breaking |
-| 陣痛 | じんつう | Labor contractions |
-| 男の子 | おとこのこ | Baby boy |
-| 第二子 | だいにし | Second child |
-| 育休 | いくきゅう | Paternity leave |
+| クロージング | クロージング | Chốt hợp đồng đầu tư |
+| 銀行送金 | ぎんこうそうきん | Chuyển khoản ngân hàng |
+| 着金 | ちゃっきん | Tiền đã vào tài khoản |
+| 取締役会 | とりしまりやくかい | Hội đồng quản trị |
+| 代行CEO | だいこうシーイーオー | Quyền Giám đốc điều hành |
+| 立ち会い分娩 | たちあいぶんべん | Sinh có chồng đồng hành |
+| 子宮口 | しきゅうこう | Cổ tử cung |
+| 分娩室 | ぶんべんしつ | Phòng sinh |
+| 破水 | はすい | Vỡ ối |
+| 陣痛 | じんつう | Cơn co chuyển dạ |
+| 男の子 | おとこのこ | Bé trai |
+| 第二子 | だいにし | Con thứ hai |
+| 育休 | いくきゅう | Nghỉ chăm con (của bố) |
 
 ## Bí quyết chương
 
-- **Series A close + bé Đông sinh trong 18 ngày**: Compressed mega life events
-- **Bank wire ¥230M Mizuho Hizashi corporate account**: Real money in
-- **Board kickoff meeting #1**: 2 founders + 2 lead investors + 1 independent (5 seats standard Series A)
-- **Đại 育休 start sớm 15/12** trước due date 25/12 — bé Đông đến sớm 7 ngày
-- **4 ông bà gather hospital**: Multi-generational family event peak
+- **Series A close + bé Đông sinh trong 18 ngày**: chuỗi sự kiện lớn dồn dập
+- **Chuyển khoản ¥230M vào tài khoản pháp nhân Mizuho của Hizashi**: tiền thật đã về
+- **Cuộc họp Hội đồng quản trị đầu tiên #1**: 2 founders + 2 nhà đầu tư dẫn đầu + 1 độc lập (5 ghế — chuẩn Series A)
+- **Đại bắt đầu 育休 sớm 15/12** trước ngày dự sinh 25/12 — bé Đông đến sớm 7 ngày
+- **4 ông bà tụ về bệnh viện**: sự kiện gia đình đa thế hệ đỉnh điểm
 
-> *"Series A CLOSE 30/11 ¥230M arrived Mizuho. PR TechCrunch JP exclusive 1/12. Board kickoff 2/12. Đại 育休 start 15/12. Bé Đông sinh sớm 18/12 (3kg, bé trai). 7 family members hospital. 18 ngày 2 mega life events."*
+> *"Series A CLOSE 30/11 ¥230M đã về tài khoản Mizuho. Bài PR TechCrunch JP độc quyền 1/12. Họp Hội đồng quản trị 2/12. Đại 育休 bắt đầu 15/12. Bé Đông sinh sớm 18/12 (3kg, bé trai). 7 thành viên gia đình ở bệnh viện. 18 ngày 2 sự kiện lớn."*

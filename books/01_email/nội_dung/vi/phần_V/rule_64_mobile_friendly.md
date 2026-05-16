@@ -4,7 +4,7 @@
 >
 > Từ khóa: **"mobile first"**.
 
-## Checklist mobile-friendly
+## Danh sách kiểm tra mobile-friendly
 
 1. **Dòng ≤50 ký tự** (Rule 58).
 2. **Block 2-5 dòng** (Rule 59).

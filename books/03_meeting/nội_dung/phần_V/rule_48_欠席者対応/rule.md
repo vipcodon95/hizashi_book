@@ -1,6 +1,6 @@
 # Rule 48 — Cập nhật người vắng mặt / 欠席者へのフィードバック
 
-> **Luận điểm.** Người vắng (đã báo trước) PHẢI nhận đủ info + có cơ hội comment. Quy trình: (1) **gửi biên bản** trong 24h như mọi người, (2) **kèm câu mở** acknowledge "không dự được", (3) **đề xuất 15 phút catch-up** nếu có topic quan trọng. Không bao giờ "skip" người vắng.
+> **Luận điểm.** Người vắng (đã báo trước) PHẢI nhận đủ info + có cơ hội comment. Quy trình: (1) **gửi biên bản** trong 24h như mọi người, (2) **kèm câu mở** ghi nhận "không dự được", (3) **đề xuất 15 phút trao đổi bù** nếu có topic quan trọng. Không bao giờ bỏ qua người vắng.
 >
 > 欠席者には議事録+catch-up提案で情報非対称を解消。「いなかったから」と切り捨てない。
 >
@@ -23,11 +23,11 @@ Chị Loan (Kế toán trưởng) đã báo trước không dự được họp 
 | **ズン** |  |
 | **ロアン** | 「ズン、議事録読んだけど、QA増員の件、私の意見も聞いてほしかった…」 |
 
-**Vì sao xấu:** Forward thuần → ngụ ý "đọc đi, OK?" mà không acknowledge người này có insight quan trọng (kế toán = budget owner).
+**Vì sao xấu:** Forward thuần → ngụ ý "đọc đi, OK?" mà không ghi nhận người này có đóng góp quan trọng (kế toán = budget owner).
 
 ---
 
-## ✅ Cách TỐT — acknowledge + offer catch-up
+## ✅ Cách TỐT — ghi nhận + đề xuất trao đổi bù
 
 *viết mail riêng cho chị Loan*
 
@@ -43,13 +43,13 @@ Chị Loan (Kế toán trưởng) đã báo trước không dự được họp 
 - 【1】**Mail riêng** — không CC tất cả group. Personal acknowledgment.
 - 【2】**「ご都合つかずお出ましいただけなかった」** — formal ack vắng mặt, không trách.
 - 【3】**Chỉ rõ items relevant** — không làm chị Loan đọc cả biên bản. "items 6 và 7 cần ý chị".
-- 【4】**Đề xuất 15 phút catch-up** — bridge information gap.
+- 【4】**Đề xuất 15 phút trao đổi bù** — thu hẹp khoảng cách thông tin.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **欠席者 = mail riêng + ack + items relevant + 15 phút catch-up đề xuất.**
+> **欠席者 = mail riêng + ghi nhận vắng + items liên quan + đề xuất 15 phút trao đổi bù.**
 
 ---
 

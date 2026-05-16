@@ -68,7 +68,7 @@ Sau bow đón ở lobby (rule 08), Dũng dẫn 3 khách 大垣 + 中村 + 松本
 - Đứng **giữa** thang máy / chắn cửa → đứng cạnh bảng nút
 - **Không gõ cửa** phòng họp dù phòng trống → luôn gõ 2 lần
 - Mở cửa rồi **bước vào trước** khách → giữ cửa, khách vào trước
-- **Im lặng** suốt đường đi → có thể chêm "weather" / "Tokyo はいかがでしたか" small talk nhẹ
+- **Im lặng** suốt đường đi → có thể chêm "thời tiết" / "Tokyo はいかがでしたか" small talk nhẹ
 
 ---
 

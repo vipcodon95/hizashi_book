@@ -10,7 +10,7 @@
 
 ---
 
-## Scene 1 — Phòng Hoa · 5:00 sáng
+## Tình huống 1 — Phòng Hoa · 5:00 sáng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -21,7 +21,7 @@
 
 ---
 
-## Scene 2 — Bếp ký túc · 5:30
+## Tình huống 2 — Bếp ký túc · 5:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -40,7 +40,7 @@
 
 ---
 
-## Scene 3 — Trạm xe buýt · 6:30, gặp Putri
+## Tình huống 3 — Trạm xe buýt · 6:30, gặp Putri
 
 | Speaker | Lời thoại |
 |---|---|
@@ -55,15 +55,15 @@
 
 ---
 
-## Scene 4 — Phòng họp nhà máy · 9:00
+## Tình huống 4 — Phòng họp nhà máy · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
 | Tanaka | <ruby>皆<rt>みな</rt></ruby>さん、おはようございます。<ruby>2028<rt>に</rt></ruby><ruby>年度<rt>ねんど</rt></ruby><ruby>始<rt>はじ</rt></ruby>まりました。<br>*(Mọi người, chào. Năm tài khoá 2028 bắt đầu.)* |
-| Cast | おはようございます。<br>*(Chào.)* |
+| Nhân vật | おはようございます。<br>*(Chào.)* |
 | Tanaka | <ruby>今年<rt>ことし</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きい<ruby>変化<rt>へんか</rt></ruby>:ホアさんが<ruby>3<rt>さん</rt></ruby><ruby>年目<rt>ねんめ</rt></ruby><ruby>最終<rt>さいしゅう</rt></ruby><ruby>年<rt>ねん</rt></ruby>。<br>*(Năm nay có thay đổi lớn: Hoa-san năm 3 cuối.)* |
 | Tanaka | <ruby>来年<rt>らいねん</rt></ruby>4<ruby>月<rt>がつ</rt></ruby>から SSW1 として<ruby>勤務<rt>きんむ</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けてもらう<ruby>予定<rt>よてい</rt></ruby>です。<br>*(Tháng 4 năm sau dự định sẽ tiếp tục với tư cách SSW1.)* |
-| Cast | おお〜!<br>*(Ô~!)* |
+| Nhân vật | おお〜!<br>*(Ô~!)* |
 | Hoa | ありがとうございます。<br>*(Cảm ơn anh.)* |
 | Tanaka | あと、<ruby>5<rt>ご</rt></ruby><ruby>月<rt>がつ</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>後輩<rt>こうはい</rt></ruby>:チャンさん、ベトナムから。<ruby>育成就労<rt>いくせいしゅうろう</rt></ruby>。<br>*(Còn nữa, tháng 5 có kohai mới: Trang-san, từ Việt Nam. Ikusei.)* |
 | Mai | え!?<br>*(Ơ!?)* |
@@ -73,7 +73,7 @@
 
 ---
 
-## Scene 5 — Hành lang sau họp · Mai và Hoa
+## Tình huống 5 — Hành lang sau họp · Mai và Hoa
 
 | Speaker | Lời thoại |
 |---|---|
@@ -90,7 +90,7 @@
 
 ---
 
-## Scene 6 — Trưa · 食堂, Hoa với Satou
+## Tình huống 6 — Trưa · 食堂, Hoa với Satou
 
 | Speaker | Lời thoại |
 |---|---|
@@ -107,7 +107,7 @@
 
 ---
 
-## Scene 7 — Phòng Suzuki · 14:00
+## Tình huống 7 — Phòng Suzuki · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -124,7 +124,7 @@
 
 ---
 
-## Scene 8 — Suzuki gợi ý 転職 option
+## Tình huống 8 — Suzuki gợi ý 転職 option
 
 | Speaker | Lời thoại |
 |---|---|
@@ -140,7 +140,7 @@
 
 ---
 
-## Scene 9 — Cuối ca · Kimura đến
+## Tình huống 9 — Cuối ca · Kimura đến
 
 | Speaker | Lời thoại |
 |---|---|
@@ -156,7 +156,7 @@
 
 ---
 
-## Scene 10 — Kimura và Hoa, riêng
+## Tình huống 10 — Kimura và Hoa, riêng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -170,7 +170,7 @@
 
 ---
 
-## Scene 11 — Tối ký túc · 4 cô gái (Hoa, Mai, Putri, sẽ thêm Trang T2)
+## Tình huống 11 — Tối ký túc · 4 cô gái (Hoa, Mai, Putri, sẽ thêm Trang T2)
 
 | Speaker | Lời thoại |
 |---|---|
@@ -186,7 +186,7 @@
 
 ---
 
-## Scene 12 — Hoa gọi điện về VN cho mẹ
+## Tình huống 12 — Hoa gọi điện về VN cho mẹ
 
 | Speaker | Lời thoại |
 |---|---|
@@ -203,7 +203,7 @@
 
 ---
 
-## Scene 13 — Hoa nội tâm, tối
+## Tình huống 13 — Hoa nội tâm, tối
 
 | Speaker | Lời thoại |
 |---|---|
@@ -214,7 +214,7 @@
 
 ---
 
-## Scene 14 — Viết nhật ký
+## Tình huống 14 — Viết nhật ký
 
 | Speaker | Lời thoại |
 |---|---|

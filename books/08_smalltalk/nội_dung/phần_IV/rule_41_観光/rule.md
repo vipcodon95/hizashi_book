@@ -1,15 +1,15 @@
-# Rule 41 — Cảnh đẹp + nightlife / 観光・夜の楽しみ
+# Rule 41 — Cảnh đẹp + cuộc vui đêm / 観光・夜の楽しみ
 
-> **Luận điểm.** Khách Nhật onsite có cuối tuần / ngày dư = cơ hội bạn flex local knowledge **theo audience**. Senior 60t = **Hạ Long / Sapa / Hội An**. Junior 30s = **Phú Quốc / nightlife Bùi Viện / Tạ Hiện**. Sai audience = phá trải nghiệm.
+> **Luận điểm.** Khách Nhật onsite có cuối tuần / ngày dư = cơ hội bạn thể hiện am hiểu địa phương **theo đối tượng**. Senior 60t = **Hạ Long / Sapa / Hội An**. Junior 30s = **Phú Quốc / khu phố đêm Bùi Viện / Tạ Hiện**. Sai đối tượng = phá trải nghiệm.
 
 ---
 
 ## 🧠 Tâm lý JP (4 dòng)
 
 - Senior JP thích **cảnh thiên nhiên + di sản** — họ check Lonely Planet trước.
-- Junior thích **vibe + ảnh chụp Instagram + nightlife** — fun-driven.
-- "Tạ Hiện / Bùi Viện" cần warning về **scam + tiếng ồn + chèo kéo** trước khi advise.
-- Chỉ recommend nightlife khi khách **explicit hỏi** — KHÔNG tự đề xuất với senior.
+- Junior thích **không khí + ảnh chụp Instagram + khu phố đêm** — thích vui là chính.
+- "Tạ Hiện / Bùi Viện" cần cảnh báo về **lừa đảo + tiếng ồn + chèo kéo** trước khi gợi ý.
+- Chỉ gợi ý khu phố đêm khi khách **chủ động hỏi** — KHÔNG tự đề xuất với senior.
 
 ---
 
@@ -34,7 +34,7 @@ Tháng 12/2026, dinner Tokyo. Matsumoto + couple sẽ trip 5 ngày VN tháng 1 (
 | **松本** | 「奥さんが絶対喜ぶやつだ。」 |
 | **ズン** | 「サパは**Bac Ha Marketの日曜マーケット**でモン族の伝統衣装が見られます。**冬は1度くらいまで下がる**ので防寒必須、**フランス植民地時代のサパ駅前のホテル(Hotel de la Coupole)**が雰囲気抜群です。」 |
 
-> **VN:** Senior couple = experiential + visual + comfort. "船上泊" + "霧水墨画" = trigger romantic.
+> **VN:** Senior couple = trải nghiệm + thị giác + thoải mái. "船上泊" + "霧水墨画" = gợi cảm giác lãng mạn.
 
 ---
 
@@ -50,7 +50,7 @@ Tháng 12/2026, dinner Tokyo. Matsumoto + couple sẽ trip 5 ngày VN tháng 1 (
 | **ズン** | 「岐阜だと海が遠いんですよね!**フーコックは胡椒栽培**でも有名で、**胡椒農園を訪ねるツアー**もあります。**生胡椒**を齧ると意外な味で、加藤さんでしたら朴葉味噌のおつまみに合いそう(笑)」 |
 | **加藤** | 「胡椒農園!それは初めて聞いた、面白い。」 |
 
-> **VN:** Match Kato (Gifu núi) → bridge "海憧れ" + add 胡椒 (specialty Phú Quốc) ↔ 朴葉味噌 (Gifu) = +Insider host.
+> **VN:** Match Kato (Gifu núi) → kết nối "海憧れ" + add 胡椒 (specialty Phú Quốc) ↔ 朴葉味噌 (Gifu) = thể hiện am hiểu địa phương.
 
 ---
 
@@ -86,7 +86,7 @@ Tháng 12/2026, dinner Tokyo. Matsumoto + couple sẽ trip 5 ngày VN tháng 1 (
 | **佐藤** | 「焚き火と歌か…粋やね、九州の山里宿みたいやな。」 |
 | **ズン** | 「観光客少なめなので、**事前にメッセンジャーでホームステイ予約**必要です。**Mai Chau Ecolodge**か**Pom Coong村**でホストファミリー、英語OKです。」 |
 
-> **VN:** Senior natural lover → suggest **less-touristy** + **homestay** + **bridge với 阿蘇** quê khách.
+> **VN:** Senior yêu thiên nhiên → gợi ý **ít du lịch đại trà** + **homestay** + **kết nối với 阿蘇** quê khách.
 
 ---
 
@@ -120,8 +120,8 @@ Tháng 12/2026, dinner Tokyo. Matsumoto + couple sẽ trip 5 ngày VN tháng 1 (
 
 ## ⚠ NG — tuyệt đối tránh
 
-- Đưa senior 60t đến Tạ Hiện / Bùi Viện → mismatch + nguy hiểm scam.
-- Recommend nightlife mà không warning scam + ồn → trách nhiệm host.
+- Đưa senior 60t đến Tạ Hiện / Bùi Viện → sai đối tượng + nguy hiểm bị lừa đảo.
+- Gợi ý khu phố đêm mà không cảnh báo lừa đảo + ồn → trách nhiệm host.
 - Đưa khách couple đến party island Phú Quốc trong peak season chưa book → không có phòng.
 - Ép khách "phải đi cả Hạ Long + Sapa" 5 ngày → quá tải.
 - Push experience "ngủ homestay rural" cho khách lớn tuổi không quen → comfort issue.
@@ -149,9 +149,9 @@ Tháng 12/2026, dinner Tokyo. Matsumoto + couple sẽ trip 5 ngày VN tháng 1 (
 
 ## 🎓 BJT
 
-**J3 — 場面把握:** Match suggestion theo audience age + interest. Senior natural / couple romantic / junior nightlife.
-**J2 — 表現読解:** Khi khách hỏi về nightlife — biết kèm warning trước khi recommend.
-**J1 — 発言聴解:** Catch "九州の人間として自然好き" của Sato → bridge sang Mai Chau với 阿蘇 reference.
+**J3 — 場面把握:** Match gợi ý theo đối tượng (tuổi + sở thích). Senior thiên nhiên / couple lãng mạn / junior cuộc vui đêm.
+**J2 — 表現読解:** Khi khách hỏi về khu phố đêm — biết kèm cảnh báo trước khi gợi ý.
+**J1 — 発言聴解:** Catch "九州の人間として自然好き" của Sato → kết nối sang Mai Chau với 阿蘇 reference.
 
 ---
 

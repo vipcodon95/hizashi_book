@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Họp Zoom định kỳ tháng 4. Em Linh (junior, mới vào) là một trong 8 người tham dự. Chưa quen quy tắc online meeting Nhật.
+Họp Zoom định kỳ tháng 4. Em Linh (nhân viên mới) là một trong 8 người tham dự. Chưa quen quy tắc online meeting Nhật.
 
 ---
 

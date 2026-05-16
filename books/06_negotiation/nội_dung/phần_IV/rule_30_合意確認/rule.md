@@ -1,6 +1,6 @@
 # Rule 30 — Confirm point of agreement / 合意点の確認
 
-> **Luận điểm.** Cuối phiên đàm phán, KHÔNG được kết thúc bằng "じゃあそれで". Phải **read back** từng item agreed: giá, scope, timeline, condition. Trong văn hóa 稟議, missing 1 item = sau ringi sẽ phát hiện gap → renegotiate. Read back = lock-in trước khi out of room.
+> **Luận điểm.** Cuối phiên đàm phán, KHÔNG được kết thúc bằng "じゃあそれで". Phải **read back** từng item agreed: giá, scope, timeline, condition. Trong văn hóa 稟議, missing 1 item = sau ringi sẽ phát hiện gap → renegotiate. Read back = chốt chắc trước khi ra khỏi phòng họp.
 >
 > 商談クロージングでは「合意事項の読み戻し」が必須。価格・スコープ・スケジュール・条件を一項目ずつ確認することで、稟議に上げた後の認識ズレを防ぐ。
 >
@@ -52,7 +52,7 @@ Round 3 đàm phán Phase 3 vừa close ¥17M + 2 năm + dashboard. Trước khi
 
 > **「合意の口頭読み戻し + 24時間以内 recap メール = ダブルロック。」**
 >
-> *Read back miệng + recap mail trong 24h = khóa kép. Skip = renegotiate.*
+> *Read back miệng + recap mail trong 24h = chốt kép. Skip = renegotiate.*
 
 ---
 

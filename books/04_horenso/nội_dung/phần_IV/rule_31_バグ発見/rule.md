@@ -1,6 +1,6 @@
 # Rule 31 — Phát hiện bug — Hou-Ren-Sou flow / バグ発見時
 
-> **Luận điểm.** Bug critical (production down / data corruption / security) là tình huống áp lực đỉnh. Phải có **escalation flow định trước**: **(1) Detect → ngay** **(2) Slack #incident channel + tag Tuấn (Tech lead)** trong **5 phút**, **(3) Tuấn xác nhận severity → escalate Hà CTO** trong **15 phút**, **(4) Hà CTO + Dũng cùng draft thông báo + escalate Matsumoto** trong **30 phút**, **(5) Investigation + ETA** trong **60 phút**, **(6) Resolve + post-mortem** trong **24h**. Time limit per step = SLA team. Bỏ qua step = "đi tắt" → bê trễ chuỗi.
+> **Luận điểm.** Bug critical (production down / data corruption / security) là tình huống áp lực đỉnh. Phải có **quy trình xử lý leo thang định trước**: **(1) Detect → ngay** **(2) Slack #incident channel + tag Tuấn (Tech lead)** trong **5 phút**, **(3) Tuấn xác nhận severity → escalate Hà CTO** trong **15 phút**, **(4) Hà CTO + Dũng cùng draft thông báo + escalate Matsumoto** trong **30 phút**, **(5) Investigation + ETA** trong **60 phút**, **(6) Resolve + post-mortem** trong **24h**. Time limit per step = SLA team. Bỏ qua step = "đi tắt" → bê trễ chuỗi.
 >
 > インシデント発見時の時間SLA：①検知0分→②Slack #incident + Tech lead 5分→③CTO 15分→④客通知 30分→⑤ETA 60分→⑥解決+post-mortem 24h。各ステップを飛ばすと連鎖遅延。
 >

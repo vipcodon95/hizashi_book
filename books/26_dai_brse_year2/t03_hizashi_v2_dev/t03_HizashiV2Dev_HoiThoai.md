@@ -11,7 +11,7 @@
 
 ---
 
-## Scene 1 — Sprint kickoff WeWork · Thứ Hai 15/5 9:30
+## Tình huống 1 — Sprint kickoff WeWork · Thứ Hai 15/5 9:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -22,7 +22,7 @@
 
 ---
 
-## Scene 2 — Korean content writer onboarding · Tuần 2
+## Tình huống 2 — Korean content writer onboarding · Tuần 2
 
 | Speaker | Lời thoại |
 |---|---|
@@ -33,7 +33,7 @@
 
 ---
 
-## Scene 3 — Aiko UI mockup KR+ZH expansion · Tuần 3
+## Tình huống 3 — Aiko UI mockup KR+ZH expansion · Tuần 3
 
 | Speaker | Lời thoại |
 |---|---|
@@ -44,7 +44,7 @@
 
 ---
 
-## Scene 4 — Series A pitch deck draft · Tuần 4
+## Tình huống 4 — Series A pitch deck draft · Tuần 4
 
 | Speaker | Lời thoại |
 |---|---|
@@ -55,7 +55,7 @@
 
 ---
 
-## Scene 5 — Mai 16 weeks update · Tuần 5
+## Tình huống 5 — Mai 16 weeks update · Tuần 5
 
 | Speaker | Lời thoại |
 |---|---|
@@ -69,7 +69,7 @@
 
 ---
 
-## Scene 6 — Content QA review session · Tuần 5 cuối
+## Tình huống 6 — Content QA review session · Tuần 5 cuối
 
 | Speaker | Lời thoại |
 |---|---|
@@ -82,7 +82,7 @@
 
 ---
 
-## Scene 7 — Tuấn backend stress test · Tuần 6
+## Tình huống 7 — Tuấn backend stress test · Tuần 6
 
 | Speaker | Lời thoại |
 |---|---|
@@ -95,7 +95,7 @@
 
 ---
 
-## Scene 8 — End sprint reflection · 30/6 thứ Bảy
+## Tình huống 8 — End sprint reflection · 30/6 thứ Bảy
 
 | Speaker | Lời thoại |
 |---|---|
@@ -106,29 +106,29 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
-| 多言語化 | たげんごか | Multi-language expansion |
-| マルチテナント | マルチテナント | Multi-tenant |
-| i18n | アイエイティーンエヌ | Internationalization |
-| 韓国語 | かんこくご | Korean |
-| 中国語 | ちゅうごくご | Chinese |
-| 簡体字 | かんたいじ | Simplified Chinese |
-| 繁体字 | はんたいじ | Traditional Chinese |
-| 自己ホスト | じこホスト | Self-hosted |
-| ファインチューン | ファインチューン | Fine-tune |
-| ストレステスト | ストレステスト | Stress test |
-| pitch deck | ピッチデック | Pitch deck |
-| TAM | ティーエーエム | Total Addressable Market |
+| 多言語化 | たげんごか | Mở rộng đa ngôn ngữ |
+| マルチテナント | マルチテナント | Đa thuê bao (kiến trúc phần mềm) |
+| i18n | アイエイティーンエヌ | Quốc tế hoá phần mềm |
+| 韓国語 | かんこくご | Tiếng Hàn |
+| 中国語 | ちゅうごくご | Tiếng Trung |
+| 簡体字 | かんたいじ | Chữ giản thể |
+| 繁体字 | はんたいじ | Chữ phồn thể |
+| 自己ホスト | じこホスト | Tự host |
+| ファインチューン | ファインチューン | Tinh chỉnh mô hình |
+| ストレステスト | ストレステスト | Kiểm thử tải |
+| pitch deck | ピッチデック | Bộ slide thuyết trình gọi vốn |
+| TAM | ティーエーエム | Tổng dung lượng thị trường có thể tiếp cận |
 
 ## Bí quyết chương
 
-- **6-week sprint pattern**: 3 tracks parallel + content + tech + business
-- **Content writer rate ¥20k/day Asia tier 1** standard freelance
-- **BGE-M3 self-hosted Modal.com 5x cheaper than OpenAI ada @ scale**: Cost optimization
-- **Multi-tenant backend refactor before Series A**: Investor deep diligence ready
-- **Pitch deck 12 slides Anri-style**: Story → Problem → Solution → Traction → Tech → Market → Team → Use of funds → Ask → Investors → Roadmap
+- **Mô hình sprint 6 tuần**: 3 luồng song song — nội dung + kỹ thuật + kinh doanh
+- **Mức thù lao biên tập viên ¥20k/ngày — chuẩn Asia Tier 1** cho freelance
+- **BGE-M3 tự host trên Modal.com rẻ hơn 5 lần OpenAI ada ở quy mô lớn**: tối ưu chi phí
+- **Refactor backend multi-tenant trước Series A**: sẵn sàng cho kiểm tra thẩm định kỹ lưỡng của nhà đầu tư
+- **Pitch deck 12 slides phong cách Anri**: Câu chuyện → Vấn đề → Giải pháp → Traction → Công nghệ → Thị trường → Đội ngũ → Phân bổ vốn → Yêu cầu gọi vốn → Nhà đầu tư → Lộ trình
 
-> *"v2.0 sprint 6 weeks. Multi-tenant backend + 3-lang UI + 17.5k KR+ZH content + Series A deck + 50k stress test pass. Mai bé Đông 16w đá. Aiko design KR-ZH UI đẹp. v2.0 launch 1/8/2031."*
+> *"Sprint v2.0 6 tuần. Backend multi-tenant + UI 3 ngôn ngữ + 17,5k nội dung KR+ZH + pitch deck Series A + stress test 50k pass. Mai bé Đông 16w đá. Aiko thiết kế UI KR-ZH đẹp. v2.0 ra mắt 1/8/2031."*

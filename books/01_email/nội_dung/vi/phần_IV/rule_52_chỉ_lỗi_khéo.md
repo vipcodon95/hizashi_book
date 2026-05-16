@@ -14,7 +14,7 @@
 
 > "Anh Matsumoto, em không chắc em hiểu đúng — **số này là 80 triệu hay 800 triệu anh nhỉ?** Em muốn xác nhận trước khi đưa vào hợp đồng."
 
-Anh Matsumoto tự sửa mà không mất thể diện. Nếu đúng là 800tr thì anh xác nhận, nếu 80tr thì anh cảm ơn đã catch.
+Anh Matsumoto tự sửa mà không mất thể diện. Nếu đúng là 800tr thì anh xác nhận, nếu 80tr thì anh cảm ơn em đã phát hiện ra.
 
 ## Các mẫu câu
 

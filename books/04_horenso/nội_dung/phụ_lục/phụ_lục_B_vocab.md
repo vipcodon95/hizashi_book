@@ -296,7 +296,7 @@
 | 適応 | てきおう | Thích nghi | rule_36 |
 
 
-## Phần V — Voicemail, Online & Best Practice
+## Phần V — Voicemail, Online & Thực hành tốt nhất
 
 | 漢字 / Tiếng Nhật | Cách đọc (Romaji) | Nghĩa Việt | Lần đầu xuất hiện |
 |------|------|------|------|

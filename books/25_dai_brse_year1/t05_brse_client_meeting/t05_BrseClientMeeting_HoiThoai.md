@@ -12,7 +12,7 @@
 
 ---
 
-## Scene 1 — Tàu Shinkansen Osaka→Tokyo · 8:30
+## Tình huống 1 — Tàu Shinkansen Osaka→Tokyo · 8:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -26,7 +26,7 @@
 
 ---
 
-## Scene 2 — Otemachi NTT building · 13:30
+## Tình huống 2 — Otemachi NTT building · 13:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -39,7 +39,7 @@
 
 ---
 
-## Scene 3 — Phòng họp 38F view Tokyo Tower · 14:00
+## Tình huống 3 — Phòng họp 38F view Tokyo Tower · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -53,7 +53,7 @@
 
 ---
 
-## Scene 4 — Tech stack discussion · 14:30
+## Tình huống 4 — Tech stack discussion · 14:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -66,7 +66,7 @@
 
 ---
 
-## Scene 5 — Schedule align · 15:30
+## Tình huống 5 — Schedule align · 15:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -77,7 +77,7 @@
 
 ---
 
-## Scene 6 — End meeting + thanks · 16:00
+## Tình huống 6 — End meeting + thanks · 16:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -90,7 +90,7 @@
 
 ---
 
-## Scene 7 — Tàu về Osaka · 17:30
+## Tình huống 7 — Tàu về Osaka · 17:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -104,7 +104,7 @@
 
 ---
 
-## Scene 8 — Đêm về nhà · 22:00
+## Tình huống 8 — Đêm về nhà · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -118,7 +118,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -138,8 +138,8 @@
 
 - **Chuẩn bị họp khách hàng solo**: nội dung họp + kịch bản + đề xuất kỹ thuật viết sẵn → tập dượt 3 ngày
 - **Tự giới thiệu chuẩn business JP**: "[Công ty]の[Tên]と申します。本日はよろしくお願いいたします。"
-- **Trình tự đề xuất tech stack**: Backend → DB → Embedding → LLM → Frontend → Triển khai
-- **Background Hizashi = uy tín**: Tư cách founder giúp khách tin tưởng đề xuất BrSE
-- **Trải nghiệm stress 7/10 → 3/10**: Vượt qua lần solo đầu, tự tin được xây dựng
+- **Thứ tự đề xuất tech stack**: Backend → DB → Embedding → LLM → Frontend → triển khai
+- **Nền tảng Hizashi = uy tín**: Tư cách founder giúp client tin tưởng đề xuất BrSE
+- **Mức căng thẳng 7/10 → 3/10**: Vượt qua lần solo đầu, tự tin được xây dựng từ thực chiến
 
-> *"Lần solo Tokyo client meeting đầu tiên thành công. Yamamoto+Suzuki đồng ý đề xuất. Dự án ¥45M. Background Hizashi tăng uy tín. Thưởng ¥50k. Hana+Mai đợi đêm. Bún chả Hà Nội ăn mừng."*
+> *"Lần đầu họp solo với client ở Tokyo thành công. Yamamoto+Suzuki đồng ý đề xuất. Dự án ¥45M. Nền tảng Hizashi tăng uy tín. Thưởng ¥50k. Hana+Mai đợi đêm. Bún chả Hà Nội ăn mừng."*

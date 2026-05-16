@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Suzuki giới thiệu EDM · 9:00
+## Tình huống 1 — Suzuki giới thiệu EDM · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -17,7 +17,7 @@
 
 ---
 
-## Scene 2 — Electrode chuẩn bị · 9:30
+## Tình huống 2 — Electrode chuẩn bị · 9:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -30,7 +30,7 @@
 
 ---
 
-## Scene 3 — KY warning · 10:00
+## Tình huống 3 — KY warning · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -43,7 +43,7 @@
 
 ---
 
-## Scene 4 — Setup parameter · 10:30
+## Tình huống 4 — Setup parameter · 10:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -57,7 +57,7 @@
 
 ---
 
-## Scene 5 — Phóng điện · 11:00
+## Tình huống 5 — Phóng điện · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -70,7 +70,7 @@
 
 ---
 
-## Scene 6 — 6 giờ sau check · 17:00
+## Tình huống 6 — 6 giờ sau check · 17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -83,7 +83,7 @@
 
 ---
 
-## Scene 7 — Đêm Putra · 22:00
+## Tình huống 7 — Đêm Putra · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -97,7 +97,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

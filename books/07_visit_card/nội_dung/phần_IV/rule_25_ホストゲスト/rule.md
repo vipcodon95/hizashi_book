@@ -42,7 +42,7 @@ Phòng riêng nhà hàng Nhật Q1, dinner bắt đầu 18:30. Bên host: Hà CT
 | **中村CFO** | 「ご馳走になりました、ありがとうございました。」 |
 
 📝 **Ghi chú:**
-- 【1】**Host pre-decision告知** = khách khỏi phải chọn. Không mở menu trước mặt khách. Course đã chốt qua nhà hàng từ D-2.
+- 【1】**Thông báo quyết định trước của chủ nhà** = khách khỏi phải chọn. Không mở menu trước mặt khách. Course đã chốt qua nhà hàng từ D-2.
 - 【2】**「お注ぎいたします」** — cầm chai bằng 2 tay (hoặc tay phải + tay trái đỡ), nhãn hướng lên. Ly khách thì khách cầm 2 tay nâng đón.
 - 【3】**Host canh ly khách liên tục** = rót trước khi cạn. Hành động trước khi khách phải tự rót = score.
 - 【4】**「お会計はこちらで承りました」** — bill được host thanh toán bí mật trước khi tan tiệc, không rút ví trước mặt khách. Đây là tinh hoa tiếp khách Nhật.

@@ -220,7 +220,7 @@ Tháng 12, cuối năm. Công ty triển khai SP mới: 「ベトナム<ruby>風
 
 ### Phân tích
 
-- Hoa **xin phép** trước khi nói personal opinion → polite
+- Hoa **xin phép** trước khi nói personal opinion → lịch sự
 - **Có cấu trúc**: 4 nguyên liệu (overview) → đề xuất từng cái
 - Khi bị Yamada thử thách → **CẢM ƠN** trước rồi mới đáp → văn hoá Nhật
 - Đề xuất concrete (V1 vs V2 với half+xì dầu) → actionable
@@ -236,7 +236,7 @@ Tháng 12, cuối năm. Công ty triển khai SP mới: 「ベトナム<ruby>風
 | <ruby>意見<rt>いけん</rt></ruby>を<ruby>言<rt>い</rt></ruby>うだけ | <ruby>意見<rt>いけん</rt></ruby> + <ruby>理由<rt>りゆう</rt></ruby> + <ruby>リスク<rt>りすく</rt></ruby> |
 | (Vague) | (Có cấu trúc) |
 | <ruby>反論<rt>はんろん</rt></ruby> ngay khi bị thử thách | ご<ruby>指摘<rt>してき</rt></ruby>ありがとうございます + giải thích |
-| (Defensive) | (Polite + chuyển tiếp) |
+| (Defensive) | (Lịch sự + chuyển tiếp) |
 | <ruby>遅刻<rt>ちこく</rt></ruby> 5 phút | <ruby>到着<rt>とうちゃく</rt></ruby> 5 phút trước |
 | (Cấm kỵ ở meeting Nhật) | (Đúng văn hoá) |
 

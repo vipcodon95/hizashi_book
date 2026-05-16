@@ -27,7 +27,7 @@ Cast như sách 06 + scenario:
 | II | Tiếp khách tại văn phòng VN (来客対応) | 8 |
 | III | Thăm văn phòng khách JP (訪問) | 8 |
 | IV | Tiếp đãi · Bữa ăn · Omiyage | 7 |
-| V | Tình huống đặc biệt + Self-improve | 5 |
+| V | Tình huống đặc biệt + Tự cải thiện | 5 |
 
 ---
 
@@ -79,7 +79,7 @@ Cast như sách 06 + scenario:
 
 | # | Tên VN | Tên JP | Brief |
 |---|--------|--------|-------|
-| 24 | Mời khách dinner formal | 接待ディナーへの招待 | Restaurant traditional, choose menu trước |
+| 24 | Mời khách bữa ăn tối trang trọng | 接待ディナーへの招待 | Restaurant traditional, choose menu trước |
 | 25 | Vai trò host vs guest | ホスト・ゲストの作法 | Host order, host pour, host pay |
 | 26 | Cụng ly 乾杯 chuẩn | 乾杯のマナー | Hold lower than senior glass |
 | 27 | Cuộc trò chuyện không công việc | 雑談トピック | Safe topics, avoid politics/religion |
@@ -96,8 +96,8 @@ Cast như sách 06 + scenario:
 | 31 | Khách Nhật đoàn lớn 5+ người | 5名以上の対応 | Manage seat + drink + flow |
 | 32 | Bow angle theo cấp bậc | お辞儀の角度 | 15° / 30° / 45° / 90° tùy context |
 | 33 | Tránh culture clash VN-JP | 文化衝突の回避 | Pour drink, pay bill, gift back |
-| 34 | Onsite Nhật lần đầu — survival kit | 初訪問 Survival | Yen cash, IC card, weather kit, business attire [TEMPLATE: checklist] |
-| 35 | Self-review ceremony etiquette | 振り返り | After each event: notes + improve [TEMPLATE: checklist] |
+| 34 | Onsite Nhật lần đầu — bộ đồ thiết yếu | 初訪問 Survival | Yen cash, IC card, weather kit, business attire [TEMPLATE: checklist] |
+| 35 | Tự đánh giá ceremony etiquette | 振り返り | After each event: notes + improve [TEMPLATE: checklist] |
 
 ---
 

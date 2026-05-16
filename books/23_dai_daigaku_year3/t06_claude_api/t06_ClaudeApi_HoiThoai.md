@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Claude API basics
+## Tình huống 1 — Claude API basics
 
 | Speaker | Lời thoại |
 |---|---|
@@ -13,7 +13,7 @@
 
 ---
 
-## Scene 2 — Prompt engineering principles
+## Tình huống 2 — Prompt engineering principles
 
 | Speaker | Lời thoại |
 |---|---|
@@ -27,7 +27,7 @@
 
 ---
 
-## Scene 3 — RAG full pipeline implementation
+## Tình huống 3 — RAG full pipeline implementation
 
 | Speaker | Lời thoại |
 |---|---|
@@ -35,7 +35,7 @@
 
 ---
 
-## Scene 4 — LangChain demo
+## Tình huống 4 — LangChain demo
 
 | Speaker | Lời thoại |
 |---|---|
@@ -45,7 +45,7 @@
 
 ---
 
-## Scene 5 — デモ nội bộ · 25/8
+## Tình huống 5 — デモ nội bộ · 25/8
 
 | Speaker | Lời thoại |
 |---|---|
@@ -55,7 +55,7 @@
 
 ---
 
-## Scene 6 — Đêm reflect
+## Tình huống 6 — Đêm reflect
 
 | Speaker | Lời thoại |
 |---|---|
@@ -66,7 +66,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

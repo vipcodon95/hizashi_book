@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — PyTorch install · 8/4
+## Tình huống 1 — PyTorch install · 8/4
 
 | Speaker | Lời thoại |
 |---|---|
@@ -14,7 +14,7 @@
 
 ---
 
-## Scene 2 — Tensor basics
+## Tình huống 2 — Tensor basics
 
 | Speaker | Lời thoại |
 |---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-## Scene 3 — Autograd intuition
+## Tình huống 3 — Autograd intuition
 
 | Speaker | Lời thoại |
 |---|---|
@@ -32,7 +32,7 @@
 
 ---
 
-## Scene 4 — First NN: MNIST classifier
+## Tình huống 4 — First NN: MNIST classifier
 
 | Speaker | Lời thoại |
 |---|---|
@@ -43,7 +43,7 @@
 
 ---
 
-## Scene 5 — Mai check-up + Tony+Yumi prep · 25/4
+## Tình huống 5 — Mai check-up + Tony+Yumi prep · 25/4
 
 | Speaker | Lời thoại |
 |---|---|
@@ -54,7 +54,7 @@
 
 ---
 
-## Scene 6 — Đêm reflect
+## Tình huống 6 — Đêm reflect
 
 | Speaker | Lời thoại |
 |---|---|
@@ -64,7 +64,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

@@ -8,7 +8,7 @@
 
 ---
 
-## Scene 1 — Sân bay Nội Bài tiễn · 4:00
+## Tình huống 1 — Sân bay Nội Bài tiễn · 4:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -26,7 +26,7 @@
 
 ---
 
-## Scene 2 — Trên máy bay · 8:00 (giờ VN)
+## Tình huống 2 — Trên máy bay · 8:00 (giờ VN)
 
 | Speaker | Lời thoại |
 |---|---|
@@ -46,7 +46,7 @@
 
 ---
 
-## Scene 3 — Kansai Airport landing · 13:30
+## Tình huống 3 — Kansai Airport landing · 13:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -57,7 +57,7 @@
 
 ---
 
-## Scene 4 — Nhập cảnh + visa stamp · 14:00
+## Tình huống 4 — Nhập cảnh + visa stamp · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -77,7 +77,7 @@
 
 ---
 
-## Scene 5 — Sảnh đến — gặp staff trường · 14:30
+## Tình huống 5 — Sảnh đến — gặp staff trường · 14:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -94,7 +94,7 @@
 
 ---
 
-## Scene 6 — Trên Nankai Express · 15:30
+## Tình huống 6 — Trên Nankai Express · 15:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -110,7 +110,7 @@
 
 ---
 
-## Scene 7 — Đổi tàu Namba · 16:30
+## Tình huống 7 — Đổi tàu Namba · 16:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -125,7 +125,7 @@
 
 ---
 
-## Scene 8 — Đến Tennoji · 17:00
+## Tình huống 8 — Đến Tennoji · 17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -137,7 +137,7 @@
 
 ---
 
-## Scene 9 — Đến nhà Tanaka · 17:15
+## Tình huống 9 — Đến nhà Tanaka · 17:15
 
 | Speaker | Lời thoại |
 |---|---|
@@ -157,7 +157,7 @@
 
 ---
 
-## Scene 10 — Phòng Đại + cơm tối · 19:00
+## Tình huống 10 — Phòng Đại + cơm tối · 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -185,7 +185,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

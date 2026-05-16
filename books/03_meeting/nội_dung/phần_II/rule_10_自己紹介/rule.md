@@ -25,7 +25,7 @@ Buổi họp đầu tiên của em Linh (vừa join project) với 白鷗. Khi �
 | **ズン** | 「リンさん、業務の自己紹介は会社・部署・名前・役割でいいよ。」 |
 | **大垣** | *(まだ慣れていない感じだな)* |
 
-**Vì sao xấu:** Tự giới thiệu kiểu **学校面接** (phỏng vấn vào trường) → khách Nhật cảm thấy "junior chưa được train". Tuổi / quê / trường / sở thích = không cần. Mất 30s mà không cho khách thông tin business.
+**Vì sao xấu:** Tự giới thiệu kiểu **学校面接** (phỏng vấn vào trường) → khách Nhật cảm thấy "nhân viên mới chưa được đào tạo". Tuổi / quê / trường / sở thích = không cần. Mất 30s mà không cho khách thông tin business.
 
 ---
 

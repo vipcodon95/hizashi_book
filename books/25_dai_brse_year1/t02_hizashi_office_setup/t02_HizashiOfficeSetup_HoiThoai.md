@@ -12,7 +12,7 @@
 
 ---
 
-## Scene 1 — WeWork Umeda 23F first day · 4/4/2030 thứ Sáu 19:00
+## Tình huống 1 — WeWork Umeda 23F first day · 4/4/2030 thứ Sáu 19:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -26,7 +26,7 @@
 
 ---
 
-## Scene 2 — Standup pattern thiết lập · 21:00
+## Tình huống 2 — Standup pattern thiết lập · 21:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -42,7 +42,7 @@
 
 ---
 
-## Scene 3 — Hana đi nhà trẻ Senri-chuo Day 1 update · LINE Mai 21:30
+## Tình huống 3 — Hana đi nhà trẻ Senri-chuo Day 1 update · LINE Mai 21:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -54,7 +54,7 @@
 
 ---
 
-## Scene 4 — Cost projection brainstorm · 22:00
+## Tình huống 4 — Cost projection brainstorm · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -68,7 +68,7 @@
 
 ---
 
-## Scene 5 — Pizza arrival + casual chat · 22:30
+## Tình huống 5 — Pizza arrival + casual chat · 22:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -84,7 +84,7 @@
 
 ---
 
-## Scene 6 — Đại về nhà 23:00
+## Tình huống 6 — Đại về nhà 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -98,7 +98,7 @@
 
 ---
 
-## Scene 7 — Reflect cuối ngày · 23:30
+## Tình huống 7 — Reflect cuối ngày · 23:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -108,7 +108,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -124,10 +124,10 @@
 
 ## Bí quyết chương
 
-- **WeWork Umeda 23F**: Office startup standard Osaka — community + flex desks + meeting rooms
-- **Standup pattern 21:00**: Daily 15 min, 3 câu hỏi (làm gì hôm nay/mai/blocker)
-- **Burn rate ¥1.32M + Runway 22.7m**: Math chuẩn pre-seed startup
-- **Pricing ¥980/tháng**: SaaS standard JP cho language learning app
-- **Đại lương kép**: ¥280k BrSE + ¥150k Hizashi = ¥430k cá nhân (cover apt + Hana + tiết kiệm)
+- **WeWork Umeda 23F**: Văn phòng startup chuẩn Osaka — cộng đồng, bàn linh hoạt, phòng họp đặt qua app
+- **Lịch standup 21:00**: Mỗi ngày 15 phút, 3 câu hỏi (hôm nay/mai/vướng mắc)
+- **Burn rate ¥1.32M + Runway 22.7 tháng**: Tính toán chuẩn cho startup pre-seed
+- **Giá ¥980/tháng**: Chuẩn SaaS Nhật cho ứng dụng học ngôn ngữ
+- **Đại lương kép**: ¥280k BrSE + ¥150k Hizashi = ¥430k cá nhân (lo được apt + Hana + tiết kiệm)
 
-> *"WeWork Umeda 23F. Standup 21:00 thiết lập. Burn ¥1.32M, runway 22.7 tháng. Hana Day 1 nhà trẻ ngoan. Mai cho con ngủ. Tuấn+Aiko cofounder hết mình. Pattern dual-track formed."*
+> *"WeWork Umeda 23F. Standup 21:00 đã thiết lập. Burn ¥1.32M, runway 22.7 tháng. Hana ngày đầu nhà trẻ ngoan. Mai cho con ngủ. Tuấn+Aiko cofounder hết mình. Nhịp hai vai song song đã hình thành."*

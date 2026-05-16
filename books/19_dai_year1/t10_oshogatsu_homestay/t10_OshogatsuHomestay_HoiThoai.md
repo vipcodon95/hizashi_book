@@ -8,7 +8,7 @@
 
 ---
 
-## Scene 1 — 大掃除 28/12 · 9:00
+## Tình huống 1 — 大掃除 28/12 · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -22,7 +22,7 @@
 
 ---
 
-## Scene 2 — Vệ sinh chi tiết · 14:00
+## Tình huống 2 — Vệ sinh chi tiết · 14:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -37,7 +37,7 @@
 
 ---
 
-## Scene 3 — 鏡餅 + おせち料理 prep · 30/12
+## Tình huống 3 — 鏡餅 + おせち料理 prep · 30/12
 
 | Speaker | Lời thoại |
 |---|---|
@@ -54,7 +54,7 @@
 
 ---
 
-## Scene 4 — 31/12 大晦日 + 紅白歌合戦 · 21:00
+## Tình huống 4 — 31/12 大晦日 + 紅白歌合戦 · 21:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -71,7 +71,7 @@
 
 ---
 
-## Scene 5 — 1/1 sáng + 初日 sunrise + おせち breakfast · 7:00
+## Tình huống 5 — 1/1 sáng + 初日 sunrise + おせち breakfast · 7:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -90,7 +90,7 @@
 
 ---
 
-## Scene 6 — 初詣 hatsumode Sumiyoshi · 10:00
+## Tình huống 6 — 初詣 hatsumode Sumiyoshi · 10:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -107,7 +107,7 @@
 
 ---
 
-## Scene 7 — おみくじ + お守り · 11:00
+## Tình huống 7 — おみくじ + お守り · 11:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -127,7 +127,7 @@
 
 ---
 
-## Scene 8 — Lì xì お年玉 · 12:00 nhà
+## Tình huống 8 — Lì xì お年玉 · 12:00 nhà
 
 | Speaker | Lời thoại |
 |---|---|
@@ -142,7 +142,7 @@
 
 ---
 
-## Scene 9 — Tết VN 29/1 · cohort phở · 18:00
+## Tình huống 9 — Tết VN 29/1 · cohort phở · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -161,7 +161,7 @@
 
 ---
 
-## Scene 10 — Đêm reflect · 23:00
+## Tình huống 10 — Đêm reflect · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -175,7 +175,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

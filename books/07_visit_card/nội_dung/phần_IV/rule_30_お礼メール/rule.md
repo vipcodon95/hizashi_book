@@ -38,10 +38,10 @@ Sáng sau dinner Q1 lúc 8:30. Dũng cần gửi thank-you mail tới Ōgaki, Ma
 | **ハーCTO** | 「完璧。8時に送信して、午後にハーから中村CFOへ補足の謝意メールも送る。」 |
 
 📝 **Ghi chú:**
-- 【1】**Lý tưởng = sáng hôm sau vừa đến cty 8-9h** — trước khi sang ngày mới = tươi + signal chỉn chu. 24h là giới hạn cứng.
+- 【1】**Lý tưởng = sáng hôm sau vừa đến cty 8-9h** — trước khi sang ngày mới = tươi + dấu hiệu chỉn chu. 24h là giới hạn cứng.
 - 【2】**To = cá nhân từng người. CC = sếp mình + thư ký khách / Tanaka PMO. BCC = đại kỵ** — khách Nhật check header thấy BCC sẽ giảm điểm.
-- 【3】**Trích 1-2 điểm cụ thể từ buổi dinner** = signal "tôi nghe kỹ". Cá nhân hóa đáng nhớ → tăng nhiệt. Mỗi mail có 1-2 chi tiết riêng cho người đó.
-- 【4】**Hứa hẹn lần sau với timeline cụ thể** ("tháng 5", "mùa hoa anh đào") = signal muốn duy trì quan hệ.
+- 【3】**Trích 1-2 điểm cụ thể từ buổi dinner** = dấu hiệu "tôi nghe kỹ". Cá nhân hóa đáng nhớ → tăng nhiệt. Mỗi mail có 1-2 chi tiết riêng cho người đó.
+- 【4】**Hứa hẹn lần sau với timeline cụ thể** ("tháng 5", "mùa hoa anh đào") = tín hiệu muốn duy trì quan hệ.
 
 ---
 
@@ -59,7 +59,7 @@ Sáng sau dinner Q1 lúc 8:30. Dũng cần gửi thank-you mail tới Ōgaki, Ma
 - BCC nhiều người chung 1 mail — mất cá nhân hóa
 - Chỉ 1 dòng "hôm qua cảm ơn anh" — không có nhiệt
 - Không trích chủ đề cụ thể — giống form mail
-- Hẹn lần sau mơ hồ "khi có dịp" — không có signal duy trì
+- Hẹn lần sau mơ hồ "khi có dịp" — không có tín hiệu duy trì
 
 ---
 

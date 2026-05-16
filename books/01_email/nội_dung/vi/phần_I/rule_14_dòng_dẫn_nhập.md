@@ -60,7 +60,7 @@ Biến thể:
 
 ## Biến thể — Khi dẫn nhập có thể rút xuống 1 câu
 
-Nếu mail rất ngắn (≤5 dòng) và CTA đã nằm ngay trong dòng dẫn nhập, không cần 2 câu:
+Nếu mail rất ngắn (≤5 dòng) và yêu cầu hành động đã nằm ngay trong dòng dẫn nhập, không cần 2 câu:
 
 > "Em xin chị duyệt giúp em phát sinh 80 triệu Bình Minh (file đính kèm), trước 15/05."
 

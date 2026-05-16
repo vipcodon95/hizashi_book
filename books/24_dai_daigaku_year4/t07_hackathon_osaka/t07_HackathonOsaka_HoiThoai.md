@@ -1,10 +1,10 @@
 # Sách 24 · T7. 11/2029 — Hackathon Osaka giải nhì + Anri VC chú ý (関西ハッカソン・VC)
 
-> **Mục tiêu:** 11/2029. Kansai Hackathon — annual 200+ teams. Đại bring Hizashi (already production-tested) → giải nhì + Anri VC partner Sato-san chú ý. Casual chat sau event → invite chính thức 12/2029.
+> **Mục tiêu:** 11/2029. Kansai Hackathon — giải thường niên 200+ đội. Đại mang Hizashi (đã chạy thực tế) → giải nhì + Anri VC partner Sato-san chú ý. Nói chuyện thân mật sau event → lời mời chính thức 12/2029.
 
 ---
 
-## Scene 1 — Kansai Hackathon decide · 5/11
+## Tình huống 1 — Kansai Hackathon decide · 5/11
 
 | Speaker | Lời thoại |
 |---|---|
@@ -14,7 +14,7 @@
 
 ---
 
-## Scene 2 — 18-19/11 Hackathon weekend
+## Tình huống 2 — 18-19/11 Hackathon weekend
 
 | Speaker | Lời thoại |
 |---|---|
@@ -24,7 +24,7 @@
 
 ---
 
-## Scene 3 — Final present · 19/11 17:00
+## Tình huống 3 — Final present · 19/11 17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -34,7 +34,7 @@
 
 ---
 
-## Scene 4 — Award · 17:30
+## Tình huống 4 — Award · 17:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -44,7 +44,7 @@
 
 ---
 
-## Scene 5 — Anri VC partner approach · 18:30
+## Tình huống 5 — Anri VC partner approach · 18:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -58,7 +58,7 @@
 
 ---
 
-## Scene 6 — Đêm reflect
+## Tình huống 6 — Đêm reflect
 
 | Speaker | Lời thoại |
 |---|---|
@@ -69,7 +69,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
@@ -83,8 +83,8 @@
 
 ## Bí quyết chương
 
-- **Hackathon advantage**: Production-tested wins.
-- **Anri VC chú ý**: Real Anri profile (Mercari + UUUM angel investor).
-- **Pre-seed ¥30M offer**: Setup decision T8.
+- **Lợi thế hackathon**: Sản phẩm đã chạy thực tế thì thắng.
+- **Anri VC để ý**: Hồ sơ thực (nhà đầu tư thiên thần Mercari + UUUM).
+- **Đề nghị pre-seed ¥30M**: Dọn đường cho quyết định T8.
 
-> *"Kansai Hackathon. Hizashi giải nhì ¥250k. Anri VC offer ¥30M pre-seed. Decision next."*
+> *"Kansai Hackathon. Hizashi giải nhì ¥250k. Anri VC đề nghị pre-seed ¥30M. Quyết định sắp tới."*

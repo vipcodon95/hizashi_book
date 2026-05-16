@@ -7,7 +7,7 @@
   },
   "rule_context": {
     "ja": "リンが初めて白鷗との会議に参加。ズンが日本の『5分前行動』文化を教える。定刻到着＝遅刻、5分前＝定時。",
-    "vi": "Linh lần đầu dự họp với 白鷗. Dũng dạy văn hóa 'đến trước 5 phút' của Nhật. Đến đúng giờ = trễ, trước 5 phút = on-time."
+    "vi": "Linh lần đầu dự họp với 白鷗. Dũng dạy văn hóa 'đến trước 5 phút' của Nhật. Đến đúng giờ = trễ, trước 5 phút = đúng giờ."
   },
   "related_rules": [
     "rule_03",
@@ -66,7 +66,7 @@
     {
       "section": "good_example",
       "label_ja": "良い例 — 5分前完了＋10分前最終チェック",
-      "label_vi": "TỐT — 5 phút trước xong setup + check lại lần cuối 10 phút",
+      "label_vi": "TỐT — 5 phút trước xong chuẩn bị + check lại lần cuối 10 phút",
       "display_order": 2,
       "analysis": {
         "ja": "14:50 に最終チェック完了、14:55 客の到着、15:00 ちょうどに開始宣言。日本式段取りのお手本。",
@@ -167,7 +167,7 @@
       "correct": "B",
       "explanation": {
         "ja": "5分前が日本式の『定時』。30分前は迷惑、定刻は実質遅刻。",
-        "vi": "5 phút trước là 'on-time' theo Nhật. 30 phút quá sớm gây phiền, đúng giờ thì thành trễ."
+        "vi": "5 phút trước là 'đúng giờ' theo Nhật. 30 phút quá sớm gây phiền, đúng giờ thì thành trễ."
       }
     }
   ]

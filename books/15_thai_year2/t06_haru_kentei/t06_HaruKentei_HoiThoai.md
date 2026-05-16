@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Sakurai về sau thi · 18:00
+## Tình huống 1 — Sakurai về sau thi · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -17,7 +17,7 @@
 
 ---
 
-## Scene 2 — Suzuki an ủi · 18:30
+## Tình huống 2 — Suzuki an ủi · 18:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -30,7 +30,7 @@
 
 ---
 
-## Scene 3 — Thái suy nghĩ · 21:00 phòng
+## Tình huống 3 — Thái suy nghĩ · 21:00 phòng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -44,7 +44,7 @@
 
 ---
 
-## Scene 4 — Sakurai phục hồi · 1 tuần sau
+## Tình huống 4 — Sakurai phục hồi · 1 tuần sau
 
 | Speaker | Lời thoại |
 |---|---|
@@ -56,7 +56,7 @@
 
 ---
 
-## Scene 5 — Practice cùng · 18:30
+## Tình huống 5 — Practice cùng · 18:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -67,7 +67,7 @@
 
 ---
 
-## Scene 6 — Linh-chị visit weekend · 11/2023
+## Tình huống 6 — Linh-chị visit weekend · 11/2023
 
 | Speaker | Lời thoại |
 |---|---|
@@ -82,7 +82,7 @@
 
 ---
 
-## Scene 7 — Đêm · 22:00
+## Tình huống 7 — Đêm · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -93,7 +93,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

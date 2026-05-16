@@ -10,7 +10,7 @@ Tháng 7/2027. Mai chính thức đứng line topping được 3 tuần. Một c
 
 ---
 
-## Scene 1 — Line topping · 14:30
+## Tình huống 1 — Line topping · 14:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -26,7 +26,7 @@ Tháng 7/2027. Mai chính thức đứng line topping được 3 tuần. Một c
 
 ---
 
-## Scene 2 — Hoa bấm nút dừng + báo Satou
+## Tình huống 2 — Hoa bấm nút dừng + báo Satou
 
 | Speaker | Lời thoại |
 |---|---|
@@ -43,7 +43,7 @@ Tháng 7/2027. Mai chính thức đứng line topping được 3 tuần. Một c
 
 ---
 
-## Scene 3 — Mai khóc sau khi dừng line
+## Tình huống 3 — Mai khóc sau khi dừng line
 
 | Speaker | Lời thoại |
 |---|---|
@@ -62,7 +62,7 @@ Tháng 7/2027. Mai chính thức đứng line topping được 3 tuần. Một c
 
 ---
 
-## Scene 4 — Phòng Tanaka · 15:30
+## Tình huống 4 — Phòng Tanaka · 15:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -78,7 +78,7 @@ Tháng 7/2027. Mai chính thức đứng line topping được 3 tuần. Một c
 
 ---
 
-## Scene 5 — Tanaka tiếp
+## Tình huống 5 — Tanaka tiếp
 
 | Speaker | Lời thoại |
 |---|---|
@@ -94,7 +94,7 @@ Tháng 7/2027. Mai chính thức đứng line topping được 3 tuần. Một c
 
 ---
 
-## Scene 6 — Hành lang sau phòng Tanaka
+## Tình huống 6 — Hành lang sau phòng Tanaka
 
 | Speaker | Lời thoại |
 |---|---|
@@ -111,7 +111,7 @@ Tháng 7/2027. Mai chính thức đứng line topping được 3 tuần. Một c
 
 ---
 
-## Scene 7 — 5 Why analysis sáng hôm sau · 9:00
+## Tình huống 7 — 5 Why analysis sáng hôm sau · 9:00
 
 Phòng họp nhỏ. Satou + Hoa + Mai.
 
@@ -133,7 +133,7 @@ Phòng họp nhỏ. Satou + Hoa + Mai.
 
 ---
 
-## Scene 8 — Hoa và Satou làm checklist · trưa
+## Tình huống 8 — Hoa và Satou làm checklist · trưa
 
 | Speaker | Lời thoại |
 |---|---|
@@ -148,7 +148,7 @@ Phòng họp nhỏ. Satou + Hoa + Mai.
 
 ---
 
-## Scene 9 — Mai gặp Kimura ngoài hành lang
+## Tình huống 9 — Mai gặp Kimura ngoài hành lang
 
 | Speaker | Lời thoại |
 |---|---|
@@ -166,7 +166,7 @@ Phòng họp nhỏ. Satou + Hoa + Mai.
 
 ---
 
-## Scene 10 — Tối ký túc · Mai ăn cơm với Hoa và Putri
+## Tình huống 10 — Tối ký túc · Mai ăn cơm với Hoa và Putri
 
 | Speaker | Lời thoại |
 |---|---|
@@ -184,7 +184,7 @@ Phòng họp nhỏ. Satou + Hoa + Mai.
 
 ---
 
-## Scene 11 — Ký túc · Mai gọi điện về VN
+## Tình huống 11 — Ký túc · Mai gọi điện về VN
 
 | Speaker | Lời thoại |
 |---|---|
@@ -200,7 +200,7 @@ Phòng họp nhỏ. Satou + Hoa + Mai.
 
 ---
 
-## Scene 12 — Phòng Hoa · 21:00
+## Tình huống 12 — Phòng Hoa · 21:00
 
 Mai gõ cửa Hoa.
 
@@ -220,7 +220,7 @@ Mai gõ cửa Hoa.
 
 ---
 
-## Scene 13 — Sáng hôm sau · line topping
+## Tình huống 13 — Sáng hôm sau · line topping
 
 | Speaker | Lời thoại |
 |---|---|
@@ -236,7 +236,7 @@ Mai gõ cửa Hoa.
 
 ---
 
-## Scene 14 — Cuối ngày · Hoa viết nhật ký
+## Tình huống 14 — Cuối ngày · Hoa viết nhật ký
 
 | Speaker | Lời thoại |
 |---|---|

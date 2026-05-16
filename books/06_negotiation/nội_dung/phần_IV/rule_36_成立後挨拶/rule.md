@@ -1,6 +1,6 @@
 # Rule 36 — Post-deal greeting (conservative) / 商談成立後の挨拶
 
-> **Luận điểm.** Sau ký xong, KHÔNG nên hype "ありがとうございます！！" 3 dấu chấm than. JP business: tone conservative, focus 「**身が引き締まる**」 (cảm nhận trọng trách) thay vì celebration. Hype = "未熟" perception. Câu chuẩn: 「**身の引き締まる思いです**」 + 「期待にお応えできるよう」 commit.
+> **Luận điểm.** Sau ký xong, KHÔNG nên thổi phồng "ありがとうございます！！" 3 dấu chấm than. JP business: giọng điệu chừng mực, focus 「**身が引き締まる**」 (cảm nhận trọng trách) thay vì ăn mừng. Phô trương quá = "未熟" perception. Câu chuẩn: 「**身の引き締まる思いです**」 + 「期待にお応えできるよう」 commit.
 >
 > 商談成立後の挨拶は控えめに。「ありがとうございます！！」は未熟な印象。「身の引き締まる思い」「期待に応える」が大人の表現。
 >
@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-DocuSign 完了通知 16:30。Dũng vui vẻ. Cần gửi thank-you mail cho 大垣. Đây là first impression cho phase delivery — quá hype = lo. Quá dry = lạnh. Cần "身が引き締まる" tone.
+DocuSign 完了通知 16:30。Dũng vui vẻ. Cần gửi thank-you mail cho 大垣. Đây là ấn tượng đầu cho giai đoạn bàn giao — quá phô trương = lo ngại. Quá dry = lạnh. Cần "身が引き締まる" tone.
 
 ---
 
@@ -23,7 +23,7 @@ DocuSign 完了通知 16:30。Dũng vui vẻ. Cần gửi thank-you mail cho 大
 | **L3** | (大垣 内部 PM 田中 に転送) **大垣 メモ** | 「ティエンファットの BD ちょっと若いな。**delivery が大丈夫か少し不安**。田中さん、初回 weekly でしっかり grip お願い。」 |
 | **L4** | (Tanaka PMO 内部 Slack) **田中** | 「了解しました。最初は厳しめに review します。」 |
 
-**Vì sao xấu:** 3 dấu chấm than + 「嬉しいです」 emotional expression → JP exec đọc thấy "学生っぽい". Khách trở nên **defensive** ngay từ đầu phase delivery — Tanaka PMO sẽ scrutinize mỗi report. Project khó hơn 30%.
+**Vì sao xấu:** 3 dấu chấm than + 「嬉しいです」 emotional expression → JP exec đọc thấy "学生っぽい". Khách trở nên **defensive** ngay từ đầu giai đoạn bàn giao — Tanaka PMO sẽ soi xét kỹ từng report. Project khó hơn 30%.
 
 ---
 
@@ -50,15 +50,15 @@ DocuSign 完了通知 16:30。Dũng vui vẻ. Cần gửi thank-you mail cho 大
 
 > **「ありがとうございます！！ ❌ → 身の引き締まる思いです ✅。Hype = 未熟、commit = 大人。」**
 >
-> *Hype 3 chấm than = "non". Conservative + commit = "trưởng thành".*
+> *Phô trương 3 chấm than = "non". Chừng mực + cam kết = "trưởng thành".*
 
 ---
 
 ## ⚠ Tránh
 
 - 「！！」 多用 → JP exec mail で完全 NG
-- 「嬉しい」 / 「最高です」 emotional → 学生レベル
-- Casual な感謝 「サンキューです！」 → 即終了 relationship
+- 「嬉しい」 / 「最高です」 cảm xúc → 学生レベル
+- Cảm ơn thông thường 「サンキューです！」 → 即終了 relationship
 - 即 next step push (「次のフェーズも is お願いします!」) → desperate. Phase 3 delivery が先
 - Reply 待たずに follow-up 連発 → 静寂を尊重
 

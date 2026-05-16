@@ -56,7 +56,7 @@ Tham khảo. 1 scenario chính + 1 scenario "khi không biết nói gì" rescue.
 
 ### 📍 Scenario 2 — Rescue khi mất ý: 4 topic GOLD nhanh
 
-*Dũng + Sato (60t senior, lần đầu chính thức) trong hành lang đợi họp 5 phút · awkward — cần mở topic ngay, rút #1 thời tiết · bridge sang #2 食 · eyes light · bridge sang #6 sport · 他のメンバー到着、自然に商談モードへ*
+*Dũng + Sato (60t senior, lần đầu chính thức) trong hành lang đợi họp 5 phút · im lặng ngượng — cần mở topic ngay, rút #1 thời tiết · chuyển sang #2 食 · eyes light · chuyển sang #6 sport · 他のメンバー到着、自然に商談モードへ*
 
 | Speaker | Câu |
 |---------|-----|
@@ -67,7 +67,7 @@ Tham khảo. 1 scenario chính + 1 scenario "khi không biết nói gì" rescue.
 | **ズン** | 「ありがとうございます!**ホークス、今シーズン調子いいって聞きました**。佐藤さんもファンですか?」 |
 | **佐藤** | 「もちろん!今年はチャンスやね。ペイペイドーム行ったことある?」 |
 | **ズン** | 「まだないんです。一度行ってみたいです。」 |
-📝 **Pattern rescue:** Khi mất ý → topic #1 thời tiết → bridge sang #2 食 → bridge sang #6 sport → 5 phút trôi qua tự nhiên. **3 topic GOLD = 5 phút đầy đủ.**
+📝 **Công thức gỡ tình huống:** Khi mất ý → topic #1 thời tiết → chuyển sang #2 食 → chuyển sang #6 sport → 5 phút trôi qua tự nhiên. **3 topic GOLD = 5 phút đầy đủ.**
 
 ---
 
@@ -93,7 +93,7 @@ Tham khảo. 1 scenario chính + 1 scenario "khi không biết nói gì" rescue.
 - Dùng #9 (お子さん) hoặc #10 (健康) với khách **chưa thân** → too personal.
 - Lặp lại **cùng 1 topic** với cùng khách 3 lần liên tiếp → "không nhớ đã hỏi rồi".
 - Hỏi follow-up **bị bỏ trống** (khách đáp ngắn + không enthusiasm) → đổi sang topic khác ngay.
-- Hỏi follow-up **quá riêng tư** mà chưa đủ thân (sức khỏe, gia đình) → bị xem là invasive.
+- Hỏi follow-up **quá riêng tư** mà chưa đủ thân (sức khỏe, gia đình) → bị xem là tò mò thái quá.
 
 ---
 

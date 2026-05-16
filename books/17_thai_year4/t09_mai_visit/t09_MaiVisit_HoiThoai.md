@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Centrair đón Mai · sáng
+## Tình huống 1 — Centrair đón Mai · sáng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -17,7 +17,7 @@
 
 ---
 
-## Scene 2 — Anjo room · 17:00
+## Tình huống 2 — Anjo room · 17:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -29,7 +29,7 @@
 
 ---
 
-## Scene 3 — Tour công ty · ngày 3
+## Tình huống 3 — Tour công ty · ngày 3
 
 | Speaker | Lời thoại |
 |---|---|
@@ -41,7 +41,7 @@
 
 ---
 
-## Scene 4 — Kyoto trip · ngày 7-8
+## Tình huống 4 — Kyoto trip · ngày 7-8
 
 | Speaker | Lời thoại |
 |---|---|
@@ -57,7 +57,7 @@
 
 ---
 
-## Scene 5 — Linh-chị + Linh-Anh dinner · ngày 10
+## Tình huống 5 — Linh-chị + Linh-Anh dinner · ngày 10
 
 | Speaker | Lời thoại |
 |---|---|
@@ -70,7 +70,7 @@
 
 ---
 
-## Scene 6 — Mai về · ngày 14 sân bay
+## Tình huống 6 — Mai về · ngày 14 sân bay
 
 | Speaker | Lời thoại |
 |---|---|
@@ -83,7 +83,7 @@
 
 ---
 
-## Scene 7 — Đêm về · 22:00
+## Tình huống 7 — Đêm về · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -94,7 +94,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

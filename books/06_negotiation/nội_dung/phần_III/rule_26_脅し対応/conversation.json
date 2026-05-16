@@ -3,7 +3,7 @@
   "rule_slug": "脅し・最終通告への対応",
   "title": {
     "ja": "脅し・最終通告への対応",
-    "vi": "Đối phó với threat / ultimatum"
+    "vi": "Đối phó với lời đe / ultimatum"
   },
   "rule_context": {
     "ja": "Ōgaki が「¥15M でなければY社」と最終通告。Dũng が bridge phrase で受け、ハー CTO をエスカレーションする場面。",
@@ -18,7 +18,7 @@
       "display_order": 1,
       "analysis": {
         "ja": "脅しに challenge して相手の顔を潰す上、その直後に cave-in。最悪の二重失敗。",
-        "vi": "Vừa challenge khách (mất 顔) vừa cave-in. Sai cả hai phía cùng lúc."
+        "vi": "Vừa phản bác khách (mất 顔) vừa nhượng bộ quá mức. Sai cả hai phía cùng lúc."
       },
       "conversation_lines": [
         {
@@ -70,7 +70,7 @@
           "applies_to_line": "rule_26_good_02",
           "highlight_text": "ご指摘の点、もっともでございます",
           "ja": "Bridge phrase。脅しに対しても一旦受け止めることでtoneを下げる。confrontationalにしない。",
-          "vi": "Bridge phrase. Trước threat cũng đỡ trước để hạ tone, KHÔNG làm thành đối đầu."
+          "vi": "Bridge phrase. Trước lời đe cũng đỡ trước để hạ giọng, KHÔNG làm thành đối đầu."
         },
         {
           "id": "2",
@@ -199,7 +199,7 @@
       "correct": "B",
       "explanation": {
         "ja": "脅しは pressure tactic。bridge で de-escalate、boundary でこちらの限度を示し、senior escalation で新権威を持ち込む。",
-        "vi": "Threat là pressure tactic. Bridge để de-escalate, boundary show giới hạn, senior escalate đưa authority mới vào."
+        "vi": "Lời đe là pressure tactic. Bridge để de-escalate, boundary show giới hạn, senior escalate đưa authority mới vào."
       }
     }
   ]

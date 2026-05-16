@@ -456,7 +456,7 @@
 | Phin | フィンっていう金属ドリッパーで、4-5分待ちます。 | 'Phin' — phin nhôm, chờ 4-5 phút. | Mở topic ritual |
 | Phin | 急須でお茶を入れる時間感覚に近いです。 | Giống cảm giác pha trà kyusu. | Bridge với JP |
 | CPSĐ | 日本のエスプレッソ並みに濃くて、練乳でバランス取ります。 | Đậm như espresso, sữa đặc cân lại. | Mô tả vị |
-| CPSĐ | 『ベトナム式昭和コーヒー』みたいな感じです。 | Như 'Showa coffee kiểu VN'. | Bridge meme-able |
+| CPSĐ | 『ベトナム式昭和コーヒー』みたいな感じです。 | Như 'Showa coffee kiểu VN'. | Câu nói dễ nhớ dễ kể lại |
 | Trứng | ティラミスを飲んでるような味です。 | Vị như đang uống tiramisu. | Mô tả gây 'wow' |
 | Trứng | 1940年代、牛乳がなくて卵黄を代わりに使ったのが起源です。 | Giả thuyết nguồn gốc 1940 thiếu sữa nên dùng trứng. | Story layer |
 | Trứng | ハノイ旧市街のCafé Giảngが発祥の地です。 | Café Giảng phố cổ HN là nơi sáng tạo. | Gợi ý cụ thể |
@@ -468,13 +468,13 @@
 |---|---|---|---|
 | HN | ハノイは1月だと10度切ること多いです、ダウンジャケット要ります。 | HN tháng 1 thường <10°C, cần áo phao. | Phá định kiến quan trọng |
 | HN | 暖房がない家が多いので、屋内も寒く感じます。 | Nhà ít có sưởi nên trong nhà cũng lạnh. | Practical info |
-| HN | 春(3-4月)と秋(10-11月)が出張ベストシーズンです。 | Xuân và thu là mùa onsite tốt nhất. | Advise concrete |
-| Trung | 9-11月は台風シーズンで、フエ・ダナン・ホイアンが弱いです。 | 9-11 mùa bão, Huế-ĐN-HA yếu. | Advise an toàn |
+| HN | 春(3-4月)と秋(10-11月)が出張ベストシーズンです。 | Xuân và thu là mùa onsite tốt nhất. | Lời khuyên cụ thể |
+| Trung | 9-11月は台風シーズンで、フエ・ダナン・ホイアンが弱いです。 | 9-11 mùa bão, Huế-ĐN-HA yếu. | Cảnh báo an toàn |
 | Trung | 沖縄と中部VNはほぼ同じ緯度で、台風の通り道が似てます。 | Okinawa và Trung VN cùng vĩ độ. | Bridge với khách Okinawa |
 | HCM | 強く30分降ってサッと止むスコール型です。 | Mưa mạnh 30 phút rồi tạnh kiểu rào. | Mô tả mưa |
-| HCM | 雨は夕方4-6時に多いので、その時間は屋内予定がコツ。 | Mưa hay chiều 4-6h, sắp lịch trong nhà. | Practical insider |
+| HCM | 雨は夕方4-6時に多いので、その時間は屋内予定がコツ。 | Mưa hay chiều 4-6h, sắp lịch trong nhà. | Bí quyết người địa phương |
 | HCM | 年間27-32度ほぼ一定、温度差はないです。 | Cả năm 27-32, không chênh. | Phân biệt với HN |
-| Bridge | 東京と那覇くらい文化違うイメージです。 | Khác văn hóa như Tokyo-Naha. | Bridge với khách Okinawa/Tokyo |
+| Bridge | 東京と那覇くらい文化違うイメージです。 | Khác văn hóa như Tokyo-Naha. | Kết nối với khách Okinawa/Tokyo |
 
 ### Rule 08 — Thành phố khách Nhật quan tâm / 注目都市
 
@@ -487,8 +487,8 @@
 | DN pitch | ダナンは『発展する近代ビーチ都市』。 | ĐN là 'thành phố biển hiện đại đang phát triển'. | 1-line |
 | HA pitch | ホイアンは『夜のランタンの世界遺産』。 | HA là 'di sản đèn lồng buổi tối'. | 1-line |
 | HA | 夜が本番なので、夕方着ホイアン泊がベストです。 | Tối là chính, nên check-in chiều ngủ HA. | Practical advice |
-| Senior | Sài Gòn Saigon Bar(Caravelle屋上)はシニアに最適、歴史も。 | Saigon Saigon Bar Caravelle hợp senior, có lịch sử. | Match audience |
-| Warning | 戦争証跡博物館は重いですが、外せない場所です。 | Bảo tàng Chứng tích nặng nhưng không thể thiếu. | Warning before recommend |
+| Senior | Sài Gòn Saigon Bar(Caravelle屋上)はシニアに最適、歴史も。 | Saigon Saigon Bar Caravelle hợp senior, có lịch sử. | Match đối tượng |
+| Warning | 戦争証跡博物館は重いですが、外せない場所です。 | Bảo tàng Chứng tích nặng nhưng không thể thiếu. | Cảnh báo trước khi gợi ý |
 
 ### Rule 08 — Lễ hội VN / ベトナムの祭り
 
@@ -580,7 +580,7 @@
 
 | Category | JP | VN | Use |
 |---|---|---|---|
-| Kick-off | まず私から行かせていただきます。皆さんの空気作れたら(笑) | Em xin hát đầu để tạo không khí (cười). | Junior warmup phòng |
+| Kick-off | まず私から行かせていただきます。皆さんの空気作れたら(笑) | Em xin hát đầu để tạo không khí (cười). | Junior khởi động phòng |
 | Suggest senior | [senior]さん、もし良ければ松田聖子の『青い珊瑚礁』、いかがですか? | Nếu được thì 'Aoi Sangoshou' Matsuda Seiko, anh hát không? | Match Showa |
 | Showa hits | サザンの『TSUNAMI』、いきましょう! | 'TSUNAMI' của Southern All Stars, đi anh! | Bài 鉄板 50-60t |
 | J-pop | Mr. Children『innocent world』、いかがですか? | 'innocent world' Mr. Children? | Match 30-40t |
@@ -597,7 +597,7 @@
 | Từ chối | 明日もご一緒できる体でいたいので(笑) | Muốn ngày mai còn sức tiếp đón anh ạ (cười). | Lý do nhẹ + hài |
 | Tạm nghỉ | お水でちょっと一旦休ませてください。後でまた。 | Cho em nghỉ uống nước đã ạ. Lát lại. | Pause khéo |
 | Non-alc | ジンジャエール / 烏龍茶でいいですか? | Ginger ale / ô long được không ạ? | Resume non-alc |
-| Rescue | [Tên]さん、お水召し上がります?顔色がちょっと… | Anh, uống nước nhé? Sắc mặt anh hơi... | Cut in care concern |
+| Rescue | [Tên]さん、お水召し上がります?顔色がちょっと… | Anh, uống nước nhé? Sắc mặt anh hơi... | Ngắt nhẹ bằng quan tâm |
 | Rescue | そろそろお開きにしましょうか? | Mình kết thúc nhé? | Khi đã quá mức |
 | Escort | [Tên]さんもタクシーで。お先に失礼します。 | Anh cũng đi taxi. Em xin phép trước. | Care + close |
 | Sáng hôm sau | [Tên]さんもタクシーで無事帰宅確認しました。 | Em đã xác nhận anh về an toàn bằng taxi. | Follow-up pro |

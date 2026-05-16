@@ -135,8 +135,8 @@ Tuần đầu chính thức làm việc. 6:30 sáng Hoa cùng Linh-chị và And
 | Cấp độ | Ví dụ | Khi dùng |
 |---|---|---|
 | Casual (mệnh lệnh thô) | <ruby>洗<rt>あら</rt></ruby>え! | KHÔNG dùng trong nhà máy |
-| Polite request | <ruby>洗<rt>あら</rt></ruby>ってください | Dùng phổ biến, OK với sempai/đồng nghiệp |
-| Polite gentle | <ruby>洗<rt>あら</rt></ruby>っていただけますか | Lịch sự hơn, dùng với sếp/khách |
+| Yêu cầu lịch sự | <ruby>洗<rt>あら</rt></ruby>ってください | Dùng phổ biến, OK với sempai/đồng nghiệp |
+| Lịch sự nhẹ nhàng | <ruby>洗<rt>あら</rt></ruby>っていただけますか | Lịch sự hơn, dùng với sếp/khách |
 | Suggestion | <ruby>洗<rt>あら</rt></ruby>ったほうがいいですよ | Lời khuyên, không bắt buộc |
 
 ---
@@ -209,7 +209,7 @@ Tuần đầu chính thức làm việc. 6:30 sáng Hoa cùng Linh-chị và And
 - **5S**: 整理・整頓・清掃・清潔・躾 — gốc của vệ sinh thực phẩm
 - **Cold chain**: Reizou 4°C / Reitou −18°C / vào kho ≤30 phút
 - **Bị nhắc nhở**: Xin lỗi → sửa ngay → cảm ơn (KHÔNG bào chữa)
-- **~てください**: Mệnh lệnh chuẩn nhà máy, polite, OK với mọi đồng nghiệp
+- **~てください**: Mệnh lệnh chuẩn nhà máy, lịch sự, OK với mọi đồng nghiệp
 
 > **Quy tắc vàng:** *Trong tuần đầu, an toàn + vệ sinh quan trọng hơn tốc độ. Sai chậm còn hơn sai nhanh.*
 

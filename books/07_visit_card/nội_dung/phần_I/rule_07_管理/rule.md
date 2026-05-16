@@ -45,7 +45,7 @@ Tối cùng ngày event 大垣 + 松本 + 中村 visit, Dũng yêu cầu Linh x�
 📝 **Ghi chú:**
 - 【1】**24時間ルール** — não người quên 70% context sau 24h. Nhập trong cùng ngày = giữ chi tiết. Sau 3 ngày = generic mới.
 - 【2】**Memo bối cảnh 1 dòng/người** — không cần dài. Format: "Topic họ quan tâm + comment đặc trưng họ nói + follow-up nào". Đủ để 6 tháng sau gặp lại = nhớ ngay context.
-- 【3】**Specific quote** — "Phase 4 予算上限 1,500万円 で気にしている" >> "Phase 4 quan tâm" — câu cụ thể giúp follow-up email reference đúng = chứng minh "tôi nghe và nhớ".
+- 【3】**Câu trích dẫn cụ thể** — "Phase 4 予算上限 1,500万円 で気にしている" >> "Phase 4 quan tâm" — câu cụ thể giúp follow-up email reference đúng = chứng minh "tôi nghe và nhớ".
 
 ---
 

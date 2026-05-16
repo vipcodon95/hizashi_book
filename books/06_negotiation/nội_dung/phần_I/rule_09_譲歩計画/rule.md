@@ -1,6 +1,6 @@
 # Rule 09 — Concession plan / 譲歩計画
 
-> **Luận điểm.** Concession plan = **trước khi vào phòng**, viết ra: nhượng cái gì, theo thứ tự nào, đổi lấy cái gì. Mỗi nhượng bộ phải kèm **trade ngược** (rule 24). Nếu không có plan, sẽ nhượng theo cảm xúc → leak value khoảng 15-25%.
+> **Luận điểm.** Concession plan = **trước khi vào phòng**, viết ra: nhượng cái gì, theo thứ tự nào, đổi lấy cái gì. Mỗi nhượng bộ phải kèm **đánh đổi ngược** (rule 24). Nếu không có plan, sẽ nhượng theo cảm xúc → rò giá trị khoảng 15-25%.
 >
 > 譲歩は事前にladder化する: **何を・どの順番で・何と引き換えに**。各譲歩に必ず trade を付与する。計画なしの譲歩は感情ベースになり、価値漏洩 (15-25%) を起こす。
 >
@@ -40,7 +40,7 @@ Tối hôm trước đàm phán, Hương review concession plan cuối của Dũ
 📝 **Ghi chú:**
 - 【1】**5 ladder + trade per step** — 譲歩の各段に必ず引き換え条件を1つ以上.
 - 【2】**Trade options 例**: 契約期間延長, scope giảm, payment terms (net 60→net 30), 事例公開, 競合排除条項, 専属期間, 紹介料, 追加機能後出し.
-- 【3】**Trade-back 原則**: trade 拒否されたら譲歩も取り下げる. これがないと unilateral concession になる.
+- 【3】**Nguyên tắc đánh đổi ngược (trade-back)**: trade 拒否されたら譲歩も取り下げる. これがないと unilateral concession になる.
 
 ---
 
@@ -48,7 +48,7 @@ Tối hôm trước đàm phán, Hương review concession plan cuối của Dũ
 
 > **「譲歩はladder化、各段にtrade、trade拒否されたら譲歩も取り下げる。」**
 >
-> *Nhượng bộ ladder, mỗi nấc có trade, trade bị từ chối thì rút lại nhượng bộ.*
+> *Nhượng bộ theo bậc thang, mỗi nấc có điều kiện đổi, điều kiện bị từ chối thì rút lại nhượng bộ.*
 
 ---
 
@@ -56,7 +56,7 @@ Tối hôm trước đàm phán, Hương review concession plan cuối của Dũ
 
 - Nhượng giá thuần "1M ずつ" → tự kill margin
 - Trade quên cho mỗi step → khách lấy không
-- Quên "trade-back" rule → bị bóc trade riêng, giữ lại nhượng bộ
+- Quên nguyên tắc đánh đổi ngược → bị bóc trade riêng, giữ lại nhượng bộ
 - Concession quá nhanh (¥19→¥17 trong 5 phút) → khách đoán còn dư địa lớn → push tới ¥14M
 
 ---

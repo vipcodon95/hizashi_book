@@ -1,6 +1,6 @@
 # Rule 04 — Câu hỏi mở vs đóng / 開かれた質問・閉じた質問
 
-> **Luận điểm.** Câu hỏi đóng (有/無, はい/いいえ) = chết flow trong 2 lượt. Câu hỏi mở (5W1H + いかがでしたか) = khách kể 30 giây tự nhiên. Đổi 1 chữ — đổi cả buổi 雑談.
+> **Luận điểm.** Câu hỏi đóng (有/無, はい/いいえ) = mạch đứt trong 2 lượt. Câu hỏi mở (5W1H + いかがでしたか) = khách kể 30 giây tự nhiên. Đổi 1 chữ — đổi cả buổi 雑談.
 
 ---
 
@@ -18,9 +18,9 @@
 
 | Mức | Pattern | Ví dụ |
 |-----|---------|-------|
-| **Formal** | 〜いかがでしたか / 〜いかがですか | 「週末はいかがでしたか?」 |
-| **Standard** | 〜どうでしたか / 〜どんな[感じ] | 「週末はどうでしたか?」 |
-| **Casual** | 〜どう?(L4-L5 only) | 「週末どうだった?」 |
+| **Trang trọng** | 〜いかがでしたか / 〜いかがですか | 「週末はいかがでしたか?」 |
+| **Thông thường** | 〜どうでしたか / 〜どんな[感じ] | 「週末はどうでしたか?」 |
+| **Thân mật** | 〜どう?(L4-L5 only) | 「週末どうだった?」 |
 
 → Ngược lại với câu hỏi đóng ("週末良かった?") = khách trả "うん" + im → bạn phải đẻ topic mới.
 
@@ -42,7 +42,7 @@
 | **松本** | 「ええ。」 |
 | **ズン** | 「…そうですか…」 |
 
-❌ **Vì sao XẤU:** 4 câu hỏi đóng = khách trả 4 lần "Yes/No" + "ええ" → flow chết. Khách không có cơ hội kể chuyện. Bạn cạn topic trong 30 giây.
+❌ **Vì sao XẤU:** 4 câu hỏi đóng = khách trả 4 lần "Yes/No" + "ええ" → mạch đứt. Khách không có cơ hội kể chuyện. Bạn cạn topic trong 30 giây.
 
 ---
 
@@ -65,9 +65,9 @@
 
 ---
 
-### 📍 Scenario 3 — Edge: Khi cần xác nhận sự kiện (đóng OK) → ngay sau đó mở
+### 📍 Scenario 3 — Trường hợp đặc biệt: Khi cần xác nhận sự kiện (đóng OK) → ngay sau đó mở
 
-*đóng — xác nhận fact · mở ngay — đào sâu*
+*đóng — xác nhận thông tin · mở ngay — đào sâu*
 
 | Speaker | Câu |
 |---------|-----|
@@ -77,7 +77,7 @@
 | **中村** | 「いやあ、ほとんど実家にいたよ。母親と買い物行ったり、旧友と飲んだり…でね、**藻岩山**に登ったんだ、夜景見に。」 |
 | **ズン** | 「**藻岩山の夜景、どんな感じですか?**東京タワーから見るのとずいぶん違いますか?」 |
 
-📝【2】 Pattern combo: "đóng để xác nhận" → "mở để đào". Đừng cứ đóng-đóng-đóng. Đóng = setup, mở = trận đấu chính.
+📝【2】 Kết hợp: "đóng để xác nhận" → "mở để đào". Đừng cứ đóng-đóng-đóng. Đóng = setup, mở = trận đấu chính.
 
 ---
 
@@ -125,10 +125,10 @@
 
 ## ⚠ NG — tuyệt đối tránh
 
-- **3 câu hỏi đóng liên tiếp** → khách cảm thấy "bị thẩm vấn" → flow chết.
+- **3 câu hỏi đóng liên tiếp** → khách cảm thấy "bị thẩm vấn" → mạch đứt.
 - "**お元気ですか?**" với khách thân → công thức cứng, khách đáp 「元気です」 và hết. (Thay bằng「最近どうですか?」)
 - **Câu hỏi mở quá rộng** ("人生どうですか?") → khách không biết bắt đầu từ đâu.
-- **Câu hỏi mở dồn dập 3-4 câu** không có react ở giữa → giống interview.
+- **Câu hỏi mở dồn dập 3-4 câu** không có react ở giữa → giống phỏng vấn.
 - **Hỏi rồi không lắng nghe**, đợi tới lượt mình tiếp → khách đọc ra ngay.
 
 ---

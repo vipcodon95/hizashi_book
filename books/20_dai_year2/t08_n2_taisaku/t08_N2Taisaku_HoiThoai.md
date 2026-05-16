@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — N2 thi sáng · 7/2025
+## Tình huống 1 — N2 thi sáng · 7/2025
 
 | Speaker | Lời thoại |
 |---|---|
@@ -18,7 +18,7 @@
 
 ---
 
-## Scene 2 — EJU 6/2025 đợt 1 (flashback) · ~13:00
+## Tình huống 2 — EJU 6/2025 đợt 1 (flashback) · ~13:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -28,7 +28,7 @@
 
 ---
 
-## Scene 3 — EJU prep intensive 8-10/2025 · 21:00
+## Tình huống 3 — Ôn thi EJU cường độ cao 8-10/2025 · 21:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -43,7 +43,7 @@
 
 ---
 
-## Scene 4 — Mock EJU 2 · 10/2025 cuối tháng
+## Tình huống 4 — Mock EJU 2 · 10/2025 cuối tháng
 
 | Speaker | Lời thoại |
 |---|---|
@@ -57,7 +57,7 @@
 
 ---
 
-## Scene 5 — EJU 2 sáng · 11/2025
+## Tình huống 5 — EJU 2 sáng · 11/2025
 
 | Speaker | Lời thoại |
 |---|---|
@@ -68,7 +68,7 @@
 
 ---
 
-## Scene 6 — EJU 2 môn còn · cùng ngày
+## Tình huống 6 — EJU 2 môn còn · cùng ngày
 
 | Speaker | Lời thoại |
 |---|---|
@@ -83,7 +83,7 @@
 
 ---
 
-## Scene 7 — Sau EJU + Lawson tour weekly · 11/2025 cuối
+## Tình huống 7 — Sau EJU + Lawson tour weekly · 11/2025 cuối
 
 | Speaker | Lời thoại |
 |---|---|
@@ -96,7 +96,7 @@
 
 ---
 
-## Scene 8 — Linh báo Đại N4 đỗ · 12/2025
+## Tình huống 8 — Linh báo Đại N4 đỗ · 12/2025
 
 | Speaker | Lời thoại |
 |---|---|
@@ -109,7 +109,7 @@
 
 ---
 
-## Scene 9 — Tuấn báo N3 đỗ · 12/2025
+## Tình huống 9 — Tuấn báo N3 đỗ · 12/2025
 
 | Speaker | Lời thoại |
 |---|---|
@@ -121,7 +121,7 @@
 
 ---
 
-## Scene 10 — Đêm reflect · 23:00
+## Tình huống 10 — Đêm reflect · 23:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -133,7 +133,7 @@
 
 ---
 
-## Vocab tóm tắt
+## Bảng từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

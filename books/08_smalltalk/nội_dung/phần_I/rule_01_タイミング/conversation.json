@@ -6,9 +6,9 @@
     "ja": "雑談のタイミング"
   },
   "rule_context": {
-    "luan_diem_vi": "雑談 không tùy hứng — có 4 cửa sổ vàng (trước họp / sau họp / di chuyển / izakaya) và 3 vùng cấm (đang negotiation, khách stress, lần đầu gặp).",
+    "luan_diem_vi": "雑談 không tùy hứng — có 4 cửa sổ vàng (trước họp / sau họp / di chuyển / izakaya) và 3 vùng cấm (đang đàm phán, khách căng thẳng, lần đầu gặp).",
     "luan_diem_ja": "雑談には『黄金の4タイミング(会議前・後・移動中・居酒屋)』と『3禁止ゾーン(交渉中・お客様ストレス時・初対面前)』がある。",
-    "boi_canh_vi": "Tháng 5/2026, Dũng + Tuấn onsite Tokyo 3 ngày làm việc với Ōgaki / Matsumoto / Nakamura. Lịch dày, dinner 2 buổi.",
+    "boi_canh_vi": "Tháng 5/2026, Dũng + Tuấn công tác tại Tokyo 3 ngày làm việc với Ōgaki / Matsumoto / Nakamura. Lịch dày, ăn tối 2 buổi.",
     "boi_canh_ja": "2026年5月、ズンとトゥアンが東京出張3日間、大垣・松本・中村と打ち合わせ + 会食2回。",
     "muc_tieu_vi": "Học cách nhận biết 4 cửa sổ vàng và 3 vùng cấm để 'tán' đúng lúc."
   },
@@ -36,7 +36,7 @@
   ],
   "conversations": [
     {
-      "scenario": "TRƯỚC HỌP (5 phút buffer)",
+      "scenario": "TRƯỚC HỌP (5 phút trống)",
       "type": "good",
       "lines": [
         {
@@ -52,7 +52,7 @@
         {
           "speaker": "zun",
           "ja": "あはは、それは『新幹線あるある』ですね。今日のキックオフ、よろしくお願いします。",
-          "vi": "Haha, đúng là 'chuyện thường gặp trên Shinkansen' ạ. Hôm nay kickoff nhờ anh."
+          "vi": "Haha, đúng là 'chuyện thường gặp trên Shinkansen' ạ. Hôm nay buổi khởi động nhờ anh."
         },
         {
           "speaker": "oogaki_sales",
@@ -139,7 +139,7 @@
           "vi": "...ờ, à... thì..."
         }
       ],
-      "why_bad": "Khách đang chờ counter-offer của mình. Cắt ngang bằng baseball = không đọc không khí, mất uy tín đàm phán. Đúng: im lặng đợi Tuấn xong tính → trả lời nghiêm túc về giá → SAU KHI chốt deal mới mở topic baseball."
+      "why_bad": "Khách đang chờ lời chào giá lại của mình. Cắt ngang bằng baseball = không đọc không khí, mất uy tín đàm phán. Đúng: im lặng đợi Tuấn xong tính → trả lời nghiêm túc về giá → SAU KHI chốt deal mới mở topic baseball."
     }
   ],
   "key_phrases": [
@@ -165,31 +165,31 @@
       "category": "Sau họp",
       "ja": "本日もありがとうございました。",
       "vi": "Hôm nay cảm ơn anh nhiều.",
-      "use": "Đóng business mode chính thức"
+      "use": "Kết thúc phần công việc chính thức"
     },
     {
       "category": "Sau họp",
       "ja": "ご出身の[地名]、もう[季節]の季節ですか?",
       "vi": "Quê anh ở [địa danh], sắp tới mùa [...] chưa ạ?",
-      "use": "Mở regional — KEY pattern"
+      "use": "Mở chủ đề vùng miền — công thức then chốt"
     },
     {
       "category": "Taxi",
       "ja": "松本さんのおすすめのお店、ありますか?",
       "vi": "Anh có quán nào gợi ý không ạ?",
-      "use": "Mở food topic an toàn"
+      "use": "Mở chủ đề ẩm thực an toàn"
     },
     {
       "category": "Taxi",
       "ja": "お休みの日は何をされていますか?",
       "vi": "Cuối tuần anh hay làm gì ạ?",
-      "use": "Mở hobby — dùng cho khách thân"
+      "use": "Mở chủ đề sở thích — dùng cho khách thân"
     },
     {
       "category": "Izakaya",
       "ja": "お疲れ様でした、まずは乾杯しましょう!",
       "vi": "Hôm nay vất vả rồi, đầu tiên là cạn ly đã!",
-      "use": "Mở dinner mode"
+      "use": "Mở không khí bữa tối"
     },
     {
       "category": "Izakaya",

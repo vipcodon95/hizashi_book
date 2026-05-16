@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Sáng đi · 7:00
+## Tình huống 1 — Sáng đi · 7:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -16,7 +16,7 @@
 
 ---
 
-## Scene 2 — Trên xe · 8:00
+## Tình huống 2 — Trên xe · 8:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -28,7 +28,7 @@
 
 ---
 
-## Scene 3 — Đến nhà máy Hamada · 9:30
+## Tình huống 3 — Đến nhà máy Hamada · 9:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -40,7 +40,7 @@
 
 ---
 
-## Scene 4 — Họp dài · 10:00-15:00
+## Tình huống 4 — Họp dài · 10:00-15:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -52,7 +52,7 @@
 
 ---
 
-## Scene 5 — Tour nhà máy Hamada · 15:30
+## Tình huống 5 — Tour nhà máy Hamada · 15:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -65,7 +65,7 @@
 
 ---
 
-## Scene 6 — Về Anjo · 18:00
+## Tình huống 6 — Về Anjo · 18:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -78,7 +78,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|

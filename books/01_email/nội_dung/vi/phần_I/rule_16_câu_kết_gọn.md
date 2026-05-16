@@ -28,7 +28,7 @@ Dũng vừa trình bày xong phần thân mail xin duyệt phát sinh. Giờ đ�
 
 > Em cảm ơn chị và mong chị phản hồi trước thứ Năm 15/05.
 
-Làm đủ ba việc: tóm CTA (phản hồi), deadline (15/05), cảm ơn.
+Làm đủ ba việc: tóm yêu cầu hành động (phản hồi), deadline (15/05), cảm ơn.
 
 ### Mẫu 2 — Trang trọng hơn (mail gửi lên cao, khách hàng quan trọng)
 
@@ -40,7 +40,7 @@ Thêm: mở đường giải trình, nhấn mạnh sẵn sàng hỗ trợ.
 
 > Em cảm ơn chị. Chị xem giúp em trước 15/05 nhé.
 
-Vẫn có đủ CTA + deadline + cảm ơn, chỉ cô đọng hơn.
+Vẫn có đủ yêu cầu hành động + deadline + cảm ơn, chỉ cô đọng hơn.
 
 ## Bộ công cụ câu kết theo tình huống
 
@@ -63,6 +63,6 @@ Cả "nội dung" và "cảm ơn" nằm trong 1 câu. Mail *đóng cửa* vẫn 
 
 ## Câu chốt mang đi
 
-> **"Câu kết tóm CTA, cảm ơn, mở đường. Một đến hai câu. Không dấu ba chấm, không 'Thanks' cụt."**
+> **"Câu kết tóm yêu cầu hành động, cảm ơn, mở đường. Một đến hai câu. Không dấu ba chấm, không 'Thanks' cụt."**
 
 *Dùng khi:* trước chữ ký. Đây là câu cuối cùng người đọc thấy — nó quyết định dư vị còn đọng lại sau khi đóng mail.

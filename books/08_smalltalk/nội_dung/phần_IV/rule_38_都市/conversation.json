@@ -6,11 +6,11 @@
     "ja": "注目都市"
   },
   "rule_context": {
-    "luan_diem_vi": "JP đi VN thường tới HN cổ kính / HCM năng động / ĐN biển / HA phố cổ. Mỗi nơi cần 1 câu pitch + 1 quán + 1 view. Match audience.",
+    "luan_diem_vi": "JP đi VN thường tới HN cổ kính / HCM năng động / ĐN biển / HA phố cổ. Mỗi nơi cần 1 câu pitch + 1 quán + 1 view. Chọn theo đối tượng.",
     "luan_diem_ja": "日本人がよく行くのは古都ハノイ・活気あるHCM・ダナンビーチ・ホイアン世界遺産。1都市1ピッチ+お店+ビュー、客層に合わせる。",
-    "boi_canh_vi": "Tháng 6/2026, dinner Tokyo. Matsumoto couple 7 ngày, Yamamoto 3 ngày food, Sato senior 1 ngày HCM transit. 3 audience khác nhau.",
+    "boi_canh_vi": "Tháng 6/2026, dinner Tokyo. Matsumoto couple 7 ngày, Yamamoto 3 ngày food, Sato senior 1 ngày HCM transit. 3 đối tượng khác nhau.",
     "boi_canh_ja": "2026年6月、東京会食。松本(夫婦7日)、山本(3日グルメ)、佐藤(1日HCM乗継)の3客層。",
-    "muc_tieu_vi": "Học cách match suggestion thành phố theo audience JP."
+    "muc_tieu_vi": "Học cách gợi ý thành phố phù hợp theo từng đối tượng khách JP."
   },
   "related_rules": [
     {
@@ -257,7 +257,7 @@
       "category": "Senior",
       "ja": "Sài Gòn Saigon Bar(Caravelle屋上)はシニアに最適、歴史も。",
       "vi": "Saigon Saigon Bar Caravelle hợp senior, có lịch sử.",
-      "use": "Match audience"
+      "use": "Chọn theo đối tượng"
     },
     {
       "category": "Warning",
@@ -278,7 +278,7 @@
         "D. ブイビエンストリートで毎晩"
       ],
       "answer": "B",
-      "explain_vi": "Match audience food blogger = market + local + cafe trend. A senior; C nhầm city; D nightlife trẻ."
+      "explain_vi": "Phù hợp đối tượng food blogger = market + local + cafe trend. A dành senior; C nhầm city; D nightlife trẻ."
     },
     {
       "level": "J2",

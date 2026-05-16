@@ -1,6 +1,6 @@
 # Rule 42 — Translator-mediated negotiation / 通訳介在
 
-> **Luận điểm.** Khi Linh học interpret join phiên đàm phán: 4 rules cần follow. **(1) Pace** = câu ngắn 15-25 字 max, KHÔNG run-on, **(2) Pause sau câu** ≥ 2 giây cho Linh dịch, **(3) Speaker đứng sát translator nhưng nhìn KHÁCH** (không nhìn translator), **(4) Pre-brief** translator về key terms (BATNA, ZOPA, indemnity) trước phiên — translator được biết term đặc thù trước. Skip 1 trong 4 → translator overload, mistranslation = số tiền sai.
+> **Luận điểm.** Khi Linh học interpret join phiên đàm phán: 4 rules cần follow. **(1) Pace** = câu ngắn 15-25 字 max, KHÔNG nói liên tục không ngắt, **(2) Pause sau câu** ≥ 2 giây cho Linh dịch, **(3) Speaker đứng sát translator nhưng nhìn KHÁCH** (không nhìn translator), **(4) Pre-brief** translator về key terms (BATNA, ZOPA, indemnity) trước phiên — translator được biết term đặc thù trước. Skip 1 trong 4 → translator overload, mistranslation = số tiền sai.
 >
 > 通訳介在交渉では (a) 短い文 (b) 文末で 2 秒 pause (c) 相手を見る (d) 用語事前 brief。これらを守らないと通訳精度低下 = 数値ズレ → 商務 dispute。
 >
@@ -14,7 +14,7 @@ Phase 4 scoping với 1 client mới (Hà Nội office, JP exec không tiếng A
 
 ---
 
-## ❌ Hội thoại XẤU — run-on Japanese, no pause, no pre-brief
+## ❌ Hội thoại XẤU — câu tiếng Nhật quá dài, không ngắt, không pre-brief
 
 *早口、 1 文 80 字 · panic、 30 字までしかメモ取れず · 訂正 · VN client へ · 困*
 
@@ -49,7 +49,7 @@ Phase 4 scoping với 1 client mới (Hà Nội office, JP exec không tiếng A
 | (商談後) **ズン** | 「お疲れ様。99.95% 区切り発音 + indemnity term pre-brief で精度 high。次回も同じ pattern で。」 |
 
 📝 **Ghi chú:**
-- 【1】**Pre-brief 30 分** = key terms list + 数値 sensitive points + speaker style. Translator が cold start で interpret する精度は -30%.
+- 【1】**Pre-brief 30 分** = key terms list + 数値 sensitive points + speaker style. Translator vào không có thông tin gì trước (cold start) thì độ chính xác giảm -30%.
 - 【2】**数値の区切り発音** (「99.95% = きゅうきゅう・きゅうご」) = mistranslation prevention. 3 と 5 / 9 と 4 は Vietnamese で類似音.
 - 【3】**Speaker は client を直視** (Linh ではなく). Linh は ear-shot 距離で stand. 相手は "Dũng と直接話している" 感.
 - **Linh の interpret 中は Dũng 沈黙 + 頷き**。 next sentence の preview を考えない、 listening focus.
@@ -66,7 +66,7 @@ Phase 4 scoping với 1 client mới (Hà Nội office, JP exec không tiếng A
 
 ## ⚠ Tránh
 
-- 1 文 80 字以上 → translator memory buffer 超え
+- Câu quá dài 80 字以上 → translator memory buffer 超え
 - 数値早口 (「99.95%」 一気に) → 3/5/9 混同 risk
 - Speaker が translator を見ながら話す → 客は "translation だ" と意識し心離れる
 - Pre-brief なしで technical term 使用 → translator improv ミス

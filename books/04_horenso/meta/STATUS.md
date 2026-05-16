@@ -17,7 +17,7 @@
 | II | 連絡 (Liên lạc) | 9 | ✅ |
 | III | 相談 (Tham vấn) | 9 | ✅ |
 | IV | Tình huống đặc biệt | 6 | ✅ |
-| V | Tools + Best Practice | 4 | ✅ |
+| V | Tools + Thực hành tốt nhất | 4 | ✅ |
 
 **Tổng tiến độ:** **40/40 rules (100%)** — v1.1.
 

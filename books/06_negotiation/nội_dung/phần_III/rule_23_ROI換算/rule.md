@@ -76,4 +76,4 @@
 | 上振れ | うわぶれ | Vượt dự kiến |
 | 第三者監査 | だいさんしゃかんさ | Third-party audit |
 | 取締役会 | とりしまりやくかい | HĐQT |
-| 控制された外挿 | せいぎょされたがいそう | Controlled extrapolation |
+| 控制された外挿 | せいぎょされたがいそう | Ngoại suy có kiểm soát |

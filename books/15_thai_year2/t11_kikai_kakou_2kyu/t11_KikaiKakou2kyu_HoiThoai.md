@@ -4,7 +4,7 @@
 
 ---
 
-## Scene 1 — Sáng thi · 7:30
+## Tình huống 1 — Sáng thi · 7:30
 
 | Speaker | Lời thoại |
 |---|---|
@@ -15,7 +15,7 @@
 
 ---
 
-## Scene 2 — 学科 · 9:00
+## Tình huống 2 — 学科 · 9:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -28,7 +28,7 @@
 
 ---
 
-## Scene 3 — 実技 MC · 13:00
+## Tình huống 3 — 実技 MC · 13:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -43,7 +43,7 @@
 
 ---
 
-## Scene 4 — Sau thi · 16:00
+## Tình huống 4 — Sau thi · 16:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -54,7 +54,7 @@
 
 ---
 
-## Scene 5 — 1 tháng sau kết quả · 4/2024
+## Tình huống 5 — 1 tháng sau kết quả · 4/2024
 
 | Speaker | Lời thoại |
 |---|---|
@@ -69,20 +69,20 @@
 
 ---
 
-## Scene 6 — Tanaka announce 朝礼 · 1 tuần sau
+## Tình huống 6 — Tanaka announce 朝礼 · 1 tuần sau
 
 | Speaker | Lời thoại |
 |---|---|
 | Tanaka | <ruby>本日<rt>ほんじつ</rt></ruby>、<ruby>2<rt>に</rt></ruby><ruby>名<rt>めい</rt></ruby>の<ruby>合格<rt>ごうかく</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>します！<br>*(Hôm nay xin công bố 2 người đỗ!)* |
 | Tanaka | サクライ<ruby>君<rt>くん</rt></ruby>、<ruby>機械加工<rt>きかいかこう</rt></ruby><ruby>1<rt>いっ</rt></ruby><ruby>級<rt>きゅう</rt></ruby>！<br>*(Sakurai, 機械加工 cấp 1!)* |
-| Cast | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
+| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
 | Tanaka | タイ<ruby>君<rt>くん</rt></ruby>、<ruby>機械加工<rt>きかいかこう</rt></ruby><ruby>2<rt>に</rt></ruby><ruby>級<rt>きゅう</rt></ruby>！<br>*(Thái, 機械加工 cấp 2!)* |
-| Cast | （<ruby>拍手<rt>はくしゅ</rt></ruby><ruby>大<rt>おお</rt></ruby>きく）<br>*(Vỗ tay lớn.)* |
+| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby><ruby>大<rt>おお</rt></ruby>きく）<br>*(Vỗ tay lớn.)* |
 | Tanaka | タイ<ruby>君<rt>くん</rt></ruby>は<ruby>外国人<rt>がいこくじん</rt></ruby>で<ruby>2<rt>に</rt></ruby><ruby>年<rt>ねん</rt></ruby>で<ruby>2<rt>に</rt></ruby><ruby>級<rt>きゅう</rt></ruby>。<ruby>稀<rt>まれ</rt></ruby>な<ruby>例<rt>れい</rt></ruby>です！<br>*(Thái là người nước ngoài, 2 năm đã đỗ cấp 2. Trường hợp hiếm có!)* |
 
 ---
 
-## Scene 7 — Đêm · 22:00
+## Tình huống 7 — Đêm · 22:00
 
 | Speaker | Lời thoại |
 |---|---|
@@ -93,7 +93,7 @@
 
 ---
 
-## Vocab
+## Từ vựng
 
 | Từ | Kana | Nghĩa |
 |---|---|---|
