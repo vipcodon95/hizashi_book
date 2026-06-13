@@ -20,7 +20,7 @@ Em Dũng phát hiện thứ Hai 9h: họp với anh Matsumoto thứ Ba 14h trùn
 
 *thứ Ba 11h, mail · reply 13h*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「松本様、明日の14時の会議、社内事情で参加できなくなりました。来週の同じ時間でいかがでしょうか？」 |
 | **松本PM** | 「ズンさん、3時間前の連絡は厳しいです。それと、来週同じ時間は私が出張中です。**他の候補日時** はありますか？」 |
@@ -35,7 +35,7 @@ Em Dũng phát hiện thứ Hai 9h: họp với anh Matsumoto thứ Ba 14h trùn
 
 *thứ 2 9:30, mail · 11h · 11:05*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「件名：【リスケ依頼】4/23(火)14時 定例会議」(body — see template) |
 | **松本PM** | 「ご丁寧にありがとうございます。**候補②(4/24 木 10時)** で確定しましょう。」 |

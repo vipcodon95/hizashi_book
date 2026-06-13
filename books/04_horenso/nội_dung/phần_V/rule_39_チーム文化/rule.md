@@ -16,7 +16,7 @@ Cuộc họp leadership ティエンファット tháng 4. Anh Hà CTO + chị H
 
 ## ❌ Hội thoại XẤU — không có playbook chung
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハーCTO** | 「松本様から feedback : 『ティエンファット は人によって対応 quality が違う』。ズン と ハイ で同じ Phase 2 の話なのに、片方は丁寧、片方は雑。」 |
 | **フオン** | 「個人レベルでは皆 rule を知っている。でも team レベルの **共通 playbook がない**から、新人が真似する基準もブレる。」 |
@@ -31,10 +31,10 @@ Cuộc họp leadership ティエンファット tháng 4. Anh Hà CTO + chị H
 
 *2週間後 leadership 会議*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハーCTO** | 「ティエンファット Hou-Ren-Sou Playbook v1 を共有します。**5要素構成**【1】です。」 |
-| **ハーCTO** | 「**①Rituals**: 朝会 Slack 9:30 (DDBN format)、週次 retro 金曜 16:00、月次 all-hands 第1月曜 10:00。**②Dashboard**: Notion『チーム Hou-Ren-Sou ダッシュボード』<URL>に response SLA、Sev1 件数、DR 数を可視化【2】。」 |
+| **ハーCTO** | 「**①Rituals**: 朝会 Slack 9:30 (DDBN format)、週次 retro 金曜 16:00、月次 all-hands 第1月曜 10:00。**②Dashboard**: Notion『チーム Hou-Ren-Sou ダッシュボード』〈URL〉に response SLA、Sev1 件数、DR 数を可視化【2】。」 |
 | **ハーCTO** | 「**③OKR Q2-2026**: (a) Slack 客先 response 1h 以内 95% / (b) Sev1 escalation 漏れ 0件 / (c) Decision Register カバレッジ 100% (1相談1行) / (d) 自己診断 C-D ≤ 1 が team 平均【3】。」 |
 | **ハーCTO** | 「**④Escalation Matrix**: 客先 → BD owner → フオン副部長 → ハー CTO / 技術 Sev1 → 検知者 → トゥアン → ハー CTO / 経理 → ロアン経理部長 → フオン。**⑤Onboarding**: 新人入社後30日で Playbook 全項目に exposure、60日で自己診断初回、90日で1人立ち。」 |
 | **フオン** | 「culture sponsor として: 月次 all-hands で『今月の Good ホウレンソウ』『今月の Lesson』を Slack 投票で選び、HR の評価にも反映させましょう【4】。」 |

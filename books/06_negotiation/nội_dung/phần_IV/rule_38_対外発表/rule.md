@@ -18,7 +18,7 @@ Phase 3 Pricing ¥17M — milestone. Marketing Hizashi muốn release. Linh (Mar
 
 *Slack Dũng · 忙しく流し読み · 電話 angry · 青*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | 「ズン先輩、Phase 3 締結 PR draft できました! ¥17M deal 強調しています! 明日 publish OK ですか?」 |
 | **ズン** | 「OK、進めて。」 |
@@ -34,7 +34,7 @@ Phase 3 Pricing ¥17M — milestone. Marketing Hizashi muốn release. Linh (Mar
 
 *Dũng + Hương に draft 共有 · 大垣にメール · Slack Hương*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | 「フオン副部長、ズン先輩、Phase 3 締結 PR ドラフト v1 です。**金額は『数千万円規模』表記**【1】、白鷗様の名前は弊社 名前の後段に配置しています。joint approval 想定。」 |
 | **フオン** | 「いいね。次に **白鷗 PR 部にメール → 田中 PMO 経由で大垣様に paralel 共有**【2】、両社 legal レビュー後に embargo date を decide。」 |

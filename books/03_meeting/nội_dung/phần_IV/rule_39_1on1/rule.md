@@ -18,7 +18,7 @@ Em Dũng có 1on1 hàng tuần với chị Hương (Phó phòng) — buổi đ�
 
 *15 phút trôi qua không có thông tin*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **フオン** | 「ズン、最近どう？」 |
 | **ズン** | 「えーと、まあまあです。なんか色々忙しくて…」 |
@@ -34,7 +34,7 @@ Em Dũng có 1on1 hàng tuần với chị Hương (Phó phòng) — buổi đ�
 
 *mở Notion note*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン副部長、本日の1on1、4点ご報告と1点ご相談がございます【1】。」 |
 | **ズン** | 「**【進捗】**①Phase 2のスコープ協議完了、A案で確定 ②議事録は本日中送付予定 ③松本様より追加要件3件受領、対応中」 |

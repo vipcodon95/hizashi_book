@@ -22,7 +22,7 @@ Sau khi Linh + Dũng + Tuấn exchange xong với 大垣, đến giờ exchange 
 
 *bước lên trước, chìa danh thiếp với 中村 CFO · thấy thế cũng vội bước lên, exchange với 松本 trước cả Tuấn và Dũng · im lặng nhận, ánh mắt thoáng nhìn Hương · sau, thì thầm với Linh*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **フオン副部長** | 「ティエンファット 営業 副部長のフオンでございます。」 |
 | **リン** | 「リンです、よろしく…」 |
@@ -37,7 +37,7 @@ Sau khi Linh + Dũng + Tuấn exchange xong với 大垣, đến giờ exchange 
 
 *briefing trước event · bắt đầu, exchange với 中村 CFO trước · lần lượt exchange với 中村, sau đó với 大垣, rồi với 松本【3】 · cuối cùng, chìa với 中村 CFO*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **フオン副部長** | 「順番は **リン → ズン → トゥアン → 私（フオン）**【1】。相手側は中村CFOが最上位だから、**みんな最初に中村さんと交換**【2】。」 |
 | **リン** | 「ティエンファット マーケティングのリンと申します。頂戴いたします。」 |

@@ -16,7 +16,7 @@ Sau khi review BATNA xong (rule 01), Hương yêu cầu Dũng thêm **ZOPA mappi
 
 ## ❌ Hội thoại XẤU — chỉ tính giá phía mình, không estimate phía khách
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン副部長、目標 ¥18M、撤退 ¥15M で行きます。」 |
 | **フオン** | 「相手の予算上限は？」 |
@@ -29,7 +29,7 @@ Sau khi review BATNA xong (rule 01), Hương yêu cầu Dũng thêm **ZOPA mappi
 
 ## ✅ Hội thoại TỐT — ZOPA mapping 4 số + cross-check intel
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン副部長、ZOPA マッピングを作りました【1】。弊社 target ¥18M、reservation ¥15M。白鷗側は推定 budget ceiling ¥17M、最低期待品質ライン Phase 2 同等以上。」 |
 | **フオン** | 「¥17M の根拠は？」 |

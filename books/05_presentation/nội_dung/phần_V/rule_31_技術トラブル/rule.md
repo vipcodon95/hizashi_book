@@ -18,7 +18,7 @@ Pitch Phase 3 phút 12. Đang share slide 8 (pricing) — đột nhiên cty 白�
 
 *thấy projector mất, panic mặt · loay hoay 30 giây, IT helpdesk gọi · 60s sau · 暗い silence 2 phút trong khi Dũng tìm file*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「あ、あ、画面が…えっ、ネット…えっ…」 |
 | **ズン** | 「すみません、ちょっと…IT 確認してます…」 |
@@ -33,7 +33,7 @@ Pitch Phase 3 phút 12. Đang share slide 8 (pricing) — đột nhiên cty 白�
 
 *projector mất, 3 giây deep breath, voice steady · rút USB, ra USB-C HDMI dongle, plug local — đã prep · co-presenter, gọi mobile hotspot · không có slide hiện, vẫn verbal · 45 giây sau*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「**申し訳ございません、ネットワークトラブルが発生しております**【1】。**5秒で復旧手順に切り替え** させていただきます。」 — Acknowledge |
 | **ズン** | 「**ローカル PDF に切替中** です。同時にお手元の **印刷ハンドアウト** もご確認いただけますでしょうか【2】。」 — Switch Plan B |

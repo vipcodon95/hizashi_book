@@ -18,7 +18,7 @@ Chị Loan (Kế toán trưởng) đã báo trước không dự được họp 
 
 *forward biên bản, no body text · 2 ngày sau*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** |  |
 | **ロアン** | 「ズン、議事録読んだけど、QA増員の件、私の意見も聞いてほしかった…」 |
@@ -31,7 +31,7 @@ Chị Loan (Kế toán trưởng) đã báo trước không dự được họp 
 
 *viết mail riêng cho chị Loan*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「ロアン経理部長、お世話になっております。ズンでございます【1】。」 |
 | **ズン** | 「本日の Phase 2 交渉会議、ご都合つかずお出ましいただけなかったこと、改めて承知しております【2】。」 |

@@ -12,8 +12,8 @@
 | CTO | Chief Technology Officer | Giám đốc công nghệ |
 | DLC | Downloadable Content | Nội dung tải thêm trong game |
 | ED | Ending | Nhạc kết thúc anime — dùng cặp OP/ED |
-| ESG | Environmental, Social, Governance | Khung đánh giá phát triển bền vững doanh nghiệp |
-| FE | Front-End | Lập trình phía giao diện người dùng |
+| ESG | Environmental, Social, Governance | Bộ tiêu chí đánh giá phát triển bền vững của doanh nghiệp |
+| FE | Front-End | Lập trình giao diện phía người dùng |
 | GP | Grand Prix | Giải đua / giải vô địch lớn |
 | GW | Golden Week | Tuần lễ vàng Nhật Bản (cuối tháng 4 — đầu tháng 5) |
 | HLV | Huấn luyện viên | Viết tắt tiếng Việt chỉ huấn luyện viên thể thao |
@@ -30,9 +30,9 @@
 | PM | Project Manager | Quản lý dự án |
 | PMO | Project Management Office | Bộ phận hỗ trợ điều phối quản lý dự án |
 | POC | Proof of Concept | Thử nghiệm kiểm chứng tính khả thi |
-| PR | Public Relations | Quan hệ công chúng / quảng bá hình ảnh |
-| PT | Personal Training | Tập luyện cùng huấn luyện viên cá nhân |
-| ROI | Return on Investment | Tỉ suất hoàn vốn đầu tư |
+| PR | Public Relations | Quan hệ công chúng |
+| PT | Personal Training | Tập cùng huấn luyện viên cá nhân |
+| ROI | Return on Investment | Tỷ suất hoàn vốn đầu tư |
 | SNS | Social Networking Service | Mạng xã hội (cách dùng phổ biến ở Nhật) |
 | SW | Silver Week | Tuần lễ bạc Nhật Bản (kỳ nghỉ lễ tháng 9) |
 | UNESCO | United Nations Educational, Scientific and Cultural Organization | Tổ chức Giáo dục, Khoa học và Văn hóa Liên Hợp Quốc |

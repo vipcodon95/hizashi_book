@@ -25,7 +25,7 @@ Dũng đang lo về relationship với Sato 60t (ho nhiều trong meeting), Naka
 
 *Zoom với Sato 60t, thấy ho 3 lần · cuối meeting · impress*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「先生、本日もありがとうございました。**お体、大丈夫ですか?**最近お忙しそうで…」 |
 | **佐藤** | 「ああ、ズンさんが心配してくれるとは。実は先週から**喉の調子**が悪くて、**喉飴**【1】手放せん。」 |
@@ -45,7 +45,7 @@ Dũng đang lo về relationship với Sato 60t (ho nhiều trong meeting), Naka
 
 *dinner, gọi rượu*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **中村** | 「ズンさん、実は先週**人間ドック**【1】受けてきてね。」 |
 | **ズン** | 「人間ドックお疲れ様でした。結果はいかがでした?」 |
@@ -66,7 +66,7 @@ Dũng đang lo về relationship với Sato 60t (ho nhiều trong meeting), Naka
 
 *Slack, gửi photo gym*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **山本** | 「最近**パーソナルトレーニング**【1】始めてん。週2ペース。」 |
 | **ズン** | 「お、**ジム**ですか!**痩せる**目的ですか、それとも**筋トレ**?」 |
@@ -87,7 +87,7 @@ Dũng đang lo về relationship với Sato 60t (ho nhiều trong meeting), Naka
 
 *intern 22t, gặp Yamamoto lần đầu, vô ý · cười nhưng uncomfortable · không catch, tệ tiếp · rõ ràng đẩy lùi · cứu nguy, đổi topic · thoải mái lại*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | 「山本マネージャー、**おいくつですか?**お肌すごく綺麗で…」 |
 | **山本** | 「あ、まあ、内緒(笑)。年齢の話はちょっとね…」 |

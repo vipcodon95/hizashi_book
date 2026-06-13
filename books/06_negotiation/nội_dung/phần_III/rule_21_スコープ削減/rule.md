@@ -18,7 +18,7 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 
 *計算なし*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「中村 CFO は 2 年契約 OK、但し 1 年契約版だと ¥16M でいけませんか？」 |
 | **ズン** | 「えーと、では ¥16M で。」 |
@@ -30,7 +30,7 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 
 ## ✅ Hội thoại TỐT — counter bằng scope cut
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「中村 CFO は 2 年契約 OK、但し 1 年契約版だと ¥16M でいけませんか？」 |
 | **ズン** | 「ご検討ありがとうございます。1 年契約 + ¥16M でしたら、**スコープ調整が必要**【1】になります。具体的には、AI dashboard カスタム部分 (-工数 ¥1M) + 専任 PM 半常駐化 (-工数 ¥0.5M) を Phase 4 に後出し【2】、これで ¥16M、SLA 99.5% (Better は 99.9%) も同時調整。」 |

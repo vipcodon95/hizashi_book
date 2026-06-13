@@ -19,7 +19,7 @@ Chiều thứ Hai. Em Dũng vừa demo Phase 2 với khách Matsumoto xong, cầ
 
 *2 phút sau*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン副部長、Phase 2デモの件で…えっと、まず最初に環境構築から始めて、それからモック画面を見せたんですが、そこで松本様が画面遷移について質問があり、それに対してこちらから〜」 |
 | **フオン** | 「で、結局どうなったの？OK だったの？NG だったの？」 |
@@ -32,7 +32,7 @@ Chiều thứ Hai. Em Dũng vừa demo Phase 2 với khách Matsumoto xong, cầ
 
 ## ✅ Hội thoại TỐT — 結論先出し + fact/opinion phân biệt
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン副部長、Phase 2デモのご報告です。**結論：概ね合格、ただし画面遷移の1点は再検討が必要**です【1】。」 |
 | **フオン** | 「うん、続けて。」 |

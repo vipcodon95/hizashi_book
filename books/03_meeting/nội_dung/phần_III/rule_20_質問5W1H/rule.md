@@ -18,7 +18,7 @@ Em Dũng đang nghe anh Ōgaki trình bày scope phase 2. Em muốn hỏi rõ de
 
 *hơi khó chịu*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「Phase 2では、新規モジュールを3つ追加予定です。」 |
 | **ズン** | 「あ、それで、いつとか誰がとか、あと何の機能で、どこにデプロイするかとか、色々お聞きしたいのですが…」 |
@@ -30,7 +30,7 @@ Em Dũng đang nghe anh Ōgaki trình bày scope phase 2. Em muốn hỏi rõ de
 
 ## ✅ Hội thoại TỐT — đóng khung từng câu hỏi
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「Phase 2では、新規モジュールを3つ追加予定です。」 |
 | **ズン** | 「ありがとうございます。3点、順番にお伺いしたく存じます【1】。まず、リリース予定日について確認させていただきたいのですが、いつ頃をお考えでしょうか【2】？」 |

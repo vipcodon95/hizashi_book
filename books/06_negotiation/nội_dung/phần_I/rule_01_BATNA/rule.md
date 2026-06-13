@@ -19,7 +19,7 @@ Tháng 5/2026, Phase 3 với 白鷗 vào round đàm phán giá lần 1. Anh Hà
 
 *Slack 9:00, hỏi Hương*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン副部長、明日 Phase 3 の価格交渉です。¥18M で出すんですが、もし大垣さんが下げてと言ったらどこまで下げますか？」 |
 | **フオン** | 「BATNA は？」 |
@@ -34,7 +34,7 @@ Tháng 5/2026, Phase 3 với 白鷗 vào round đàm phán giá lần 1. Anh Hà
 
 *Slack 9:00 · file 開く*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン副部長、Phase 3 価格交渉の **BATNA 3 シナリオ**を作成しました【1】。レビューいただけますでしょうか？」 |
 | **フオン** | 「シナリオA(成立): ¥18M、target、shake hand。シナリオB(再交渉): ¥16.5M + scope -10%、ハー CTO 承認済。シナリオC(walk-away): ¥15M 以下なら撤退、別案件 X 社の話進める。これは具体的でいいね。」 |

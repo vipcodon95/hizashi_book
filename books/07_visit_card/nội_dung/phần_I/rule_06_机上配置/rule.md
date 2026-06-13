@@ -18,7 +18,7 @@ Sau lobby exchange, đoàn vào phòng họp. Ōgaki - Nakamura - Matsumoto ng�
 
 *vào phòng họp, đặt 3 danh thiếp xếp chồng góc bàn · 15 phút sau, gọi nhầm · thoáng nhíu mày · thì thầm với Linh*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | *(im lặng đặt chồng)* |
 | **ズン** | 「えっと、**松本部長**…あ、すみません、**大垣部長**でした…」 |
@@ -33,7 +33,7 @@ Sau lobby exchange, đoàn vào phòng họp. Ōgaki - Nakamura - Matsumoto ng�
 
 *vào phòng họp, đặt 3 danh thiếp **theo đúng vị trí 3 khách ngồi**【1】 · nhìn lướt danh thiếp trước mặt, gọi đúng · 15 phút sau, hỏi 大垣 · cuối meeting, sau khi khách đứng dậy*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | *(thì thầm tự nhắc) 「中村CFO…大垣部長…松本PM…」* |
 | **ズン** | 「**中村CFO**、本日の最初のご質問は…」 |

@@ -16,7 +16,7 @@ Hà CTO + Hương + Dũng họp 30 phút quyết mô hình giá Phase 3. Tuấn 
 
 ## ❌ Hội thoại XẤU — chọn cost-plus thuần cho deal chiến lược
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「原価 ¥13M、利益率 25% 上乗せで ¥16.25M、切り上げ ¥16.5M で出します。」 |
 | **ハー CTO** | 「Phase 3 は新機能 AI レコメンドエンジン込み、白鷗の売上 +¥80M/年見込めるんでしょ？それを ¥16.5M で売る？」 |
@@ -29,7 +29,7 @@ Hà CTO + Hương + Dũng họp 30 phút quyết mô hình giá Phase 3. Tuấn 
 
 ## ✅ Hội thoại TỐT — value-based + anchoring kết hợp
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「Phase 3 価格戦略案、3 つ比較しました【1】。」 |
 | **ズン** | 「Cost-plus: ¥16.5M。Value-based: 白鷗売上 +¥80M インパクト × 20% = ¥16M、+リスクシェア込みで ¥19M。Anchoring 起点 ¥22M (Y 社水準)、譲歩で ¥18M 着地想定。**推奨は value-based ¥19M を anchor、target ¥18M、reservation ¥15M**【2】。」 |

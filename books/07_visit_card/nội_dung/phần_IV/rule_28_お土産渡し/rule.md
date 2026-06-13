@@ -16,7 +16,7 @@ Cuối bữa dinner Q1 lúc 21:00, sau trà kết thúc course. Dũng trao omiya
 
 ## ❌ Hội thoại XẤU — đưa cả túi + thuyết minh quá đà
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「あ、これお土産です。」（紙袋ごと机に置く） |
 | **ズン** | 「ベトナムの高級ブランドのコーヒーで、5千円もするんですよ。」 |
@@ -29,7 +29,7 @@ Cuối bữa dinner Q1 lúc 21:00, sau trà kết thúc course. Dũng trao omiya
 
 ## ✅ Hội thoại TỐT — lấy ra khỏi túi, đưa 2 tay + 'tsumaranai mono desu ga'
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハーCTO** | 「それでは、ささやかではございますが、ベトナムからお土産をご用意いたしました。ズン、お渡ししてください。」 |
 | **ズン** | 「中村様、つまらないものですが、お受け取りください。」【1】 |

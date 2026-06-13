@@ -18,7 +18,7 @@ Họp Zoom, em Dũng cần share slide báo cáo. Đợi đến lượt mình.
 
 *share luôn · thực ra đang loading slow · tưởng đối phương đang đọc · sau 1 phút*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「これが4月のKPIです。」 |
 | **松本** | 「…」 |
@@ -33,7 +33,7 @@ Họp Zoom, em Dũng cần share slide báo cáo. Đợi đến lượt mình.
 
 *chờ 2-3s · sau khi giải thích xong*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「これより、4月KPIレポートの画面を共有させていただきます【1】。」 |
 | 【2】 |  |

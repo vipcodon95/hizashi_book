@@ -16,7 +16,7 @@ Slide 5 của Dũng = chart so sánh Phase 1 vs Phase 2 vs Phase 3 forecast. Dũ
 
 ## ❌ Hội thoại XẤU — wrong chart type + missing source
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハーCTO** | 「ズン、これ**3D pie chart 7色**？比較なのに pie 使うのは間違い。」 |
 | **ズン** | 「カラフルで目立つかと…」 |
@@ -30,7 +30,7 @@ Slide 5 của Dũng = chart so sánh Phase 1 vs Phase 2 vs Phase 3 forecast. Dũ
 
 ## ✅ Hội thoại TỐT — right chart + clear source
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「**水平棒グラフ**に変更【1】、3 phase 比較で `差異率` をX軸に。色は2色のみ(白鷗ブルー＋グレー)、Phase 3 のみアクセント。」 |
 | **ハーCTO** | 「いい。Footer は？」 |

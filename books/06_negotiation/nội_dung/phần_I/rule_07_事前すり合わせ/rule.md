@@ -16,7 +16,7 @@ Sáng đàm phán Phase 3 lúc 9:00, đàm phán 14:00 với 大垣 + 中村 CFO
 
 ## ❌ Hội thoại XẤU — không align trước, mâu thuẫn trong phòng
 
-| | Speaker | Câu (in-meeting với khách) |
+| | Vai | Câu (in-meeting với khách) |
 |--|---------|-----|
 | **L1** | **大垣** | 「¥18M は高いですね。¥15M でいかがでしょう？」 |
 | **L2** | **ズン** | 「¥15M ですか…ちょっと持ち帰り…」 |
@@ -30,7 +30,7 @@ Sáng đàm phán Phase 3 lúc 9:00, đàm phán 14:00 với 大垣 + 中村 CFO
 
 ## ✅ Hội thoại TỐT — pre-meeting alignment 60 phút
 
-| | Speaker | Câu (in-meeting nội bộ 9:00) |
+| | Vai | Câu (in-meeting nội bộ 9:00) |
 |--|---------|-----|
 | **L1** | **フオン** | 「14:00 商談、最終すり合わせ。**役割確認**【1】: ズン主導 + 価格発言担当、トゥアンさん技術質問のみ、ハー CTO は escalation 必要時のみ発言。」 |
 | **L2** | **ハー CTO** | 「価格発言は誰がしてもいけない。ズン以外は『社内確認させてください』で受ける。」 |

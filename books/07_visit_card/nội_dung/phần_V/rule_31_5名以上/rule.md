@@ -16,7 +16,7 @@ Trong onsite Tokyo, final ceremony tại trụ sở 白鷗. Bên 白鷗 6 ngư�
 
 ## ❌ Hội thoại XẤU — ngồi tự do + tự quản drink + không có flow
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハーCTO** | 「ズン、明日のceremony seat layoutは？」 |
 | **ズン** | 「あ、自由着席で…大丈夫かと…」 |
@@ -30,7 +30,7 @@ Trong onsite Tokyo, final ceremony tại trụ sở 白鷗. Bên 白鷗 6 ngư�
 
 ## ✅ Hội thoại TỐT — ghế chỉ định + chia zone rót + flow 30 phút
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハーCTO** | 「ズン、明日 11名 ceremony 準備状況を共有して。」 |
 | **ズン** | 「① seat layout: 中村CFOが上座中央、両側に大垣様・松本様。下座側中央にハーCTO、両側にフオン副部長・トゥアン。席札+席次表をテーブル中央に【1】【2】。」 |

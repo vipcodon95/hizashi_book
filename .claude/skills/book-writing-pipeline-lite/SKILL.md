@@ -16,7 +16,7 @@ description: Pipeline 8 giai đoạn viết sách Hizashi DIALOGUE-ONLY (không 
 | Stage 10: Apply fix + build SQL + seed DB | ⚠️ Modify: chỉ apply fix, KHÔNG SQL/seed |
 | Output: SQL + JSON + markdown | Output: chỉ markdown (.md) + ePub-ready |
 
-→ Pipeline LITE focus 100% vào **hội thoại / story / cast / dialogue density**.
+→ Pipeline LITE focus 100% vào **hội thoại tiếng Nhật nghiệp vụ thực tế / story / cast** (≥90% lượt thoại là tiếng Nhật người học sẽ dùng khi đi làm; ≤1 scene tiếng Việt/chương).
 
 ## Khi nào dùng
 
@@ -84,14 +84,18 @@ Chi tiết từng stage: xem `stages/01_research.md` ... `stages/08_finalize.md`
 
 ### Stage 4 đặc thù LITE (DIALOGUE FOCUS)
 
+> ⚠️ Đây là **sách dạy tiếng Nhật**, không phải tiểu thuyết. Trọng tâm hay BỊ LẪN — đọc kỹ `stages/04_content_md_dialogue.md` mục "TRỌNG TÂM CỐT LÕI" trước khi viết.
+
 Khác biệt chính:
 - **File suffix**: `_HoiThoai.md` (không phải `_LyThuyet.md`)
-- **Density**: ≥ 70% nội dung là DIALOGUE (Speaker: ...). Lý thuyết / vocab / box bí quyết tối đa 30%.
-- **Số scene/chương**: Mỗi chương 8-15 scene hội thoại, mỗi scene 5-15 lượt nói.
-- **Cast continuity**: Bám sát cast đã định nghĩa trong `state.book_design.supporting_cast`. Mỗi nhân vật có tone/quirk riêng nhất quán.
-- **Show, don't tell**: Kiến thức ngành / văn hoá truyền tải QUA hành động + lời nói của nhân vật, không phải bullet point.
+- **Density**: ≥ **90%** lượt thoại là **HỘI THOẠI TIẾNG NHẬT NGHIỆP VỤ THỰC TẾ** (nhân vật ↔ đồng nghiệp/cấp trên/khách bằng tiếng Nhật + ruby + dịch Việt). Scene tiếng Việt thuần (tâm sự đồng hương/gọi nhà) **≤ 1 scene/chương**. Mục đích #1: người học học được mẫu câu họ sẽ DÙNG khi đi làm.
+- **Từ chuyên môn** xuất hiện trong ngữ cảnh hội thoại (hỏi-đáp), KHÔNG liệt kê khô.
+- **Số scene/chương**: 8-15 scene (sách nghề nghiệp ~12 tình huống), mỗi scene 5-15 lượt.
+- **Cast continuity**: bám `state.book_design.supporting_cast`; tone nhất quán; tuổi khớp timeline; tuyến phụ (gia đình/hôn nhân...) PHẢI chốt với user trước khi viết.
+- **Ruby furigana**: cú pháp đúng tuyệt đối (đếm `<ruby>`==`</ruby>`). Lỗi ruby là lỗi nặng & hay gặp nhất.
+- **Spawn subagent**: viết lại chương phải XÓA file cũ; verify ĐỘC LẬP sau mỗi batch (không tin subagent tự báo OK).
 
-Xem `templates/chapter_template_dialogue.md` cho structure chuẩn.
+Sách mẫu chuẩn: `books/27_kaigo/t01_rainichi_shock/t01_RainichiShock_HoiThoai.md`. Xem `templates/chapter_template_dialogue.md` + `stages/04_content_md_dialogue.md` cho structure & quy tắc đầy đủ.
 
 ---
 
@@ -171,7 +175,7 @@ Stage 4 là **Main Claude** trực tiếp (dialogue cần xuyên suốt context 
 ## Anti-patterns
 
 ❌ Stage 4 viết kiểu giáo trình lý thuyết (textbook) — phải DIALOGUE-DRIVEN
-❌ Mật độ dialogue < 70% nội dung
+❌ Mật độ hội thoại tiếng Nhật nghiệp vụ < 90%, hoặc >1 scene tiếng Việt/chương
 ❌ Cast nhân vật không nhất quán giữa các chương (tone, voice, quirk)
 ❌ Lý thuyết block dài → phá nhịp đọc
 ❌ "Tell" thay vì "Show" văn hoá / kiến thức ngành

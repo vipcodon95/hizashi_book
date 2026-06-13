@@ -24,7 +24,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 
 *rót bia cho 中村, mở câu hỏi · react ngắn → đào sâu · rạng rỡ kể tiếp 5 phút về gia đình*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「中村さん、北海道のご出身でしたよね。**札幌のどちらですか?**」 |
 | **中村** | 「南区の真駒内ってとこ。冬はスキー場が裏山なんだよ。」 |
@@ -43,7 +43,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 
 *NG — 自分語り 2 phút · gật lịch sự, mắt bắt đầu lờ đờ · vẫn tiếp · tự cứu — đổi topic*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **中村** | 「ズンさんはご出身どちら?」 |
 | **ズン** | 「ハノイです。ハノイは1000年の都で、僕の家は旧市街の近くにあって、父は元軍人で、母は…あ、それで僕は大学が…」 |
@@ -61,7 +61,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 
 *thật sự tò mò · trả lời thật + ngắn · đá ngược ngay*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **中村** | 「ズンさん、奥様もハノイ?お子さんは?」 |
 | **ズン** | 「妻もハノイです。子供はまだですが、来年あたり…と話しています。」 |
@@ -79,7 +79,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 
 *hỏi Tuấn · KHÔNG cướp lời — chờ Tuấn xong · lúc Tuấn dừng tự nhiên → bắc cầu sang Ōgaki · vui*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「トゥアンさん、お休みの日は何してるの?」 |
 | **トゥアン** | 「最近は娘とサッカーを始めまして…」 |

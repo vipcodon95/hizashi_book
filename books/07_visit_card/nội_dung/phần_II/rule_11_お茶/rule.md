@@ -18,7 +18,7 @@ Sau khi 3 khách ngồi 上座 (rule 10), Linh (intern, làm task hospitality) r
 
 *bưng khay 6 cốc, đến đặt cốc cho Dũng (host BD) trước, từ phía trái · thoáng lúng túng · quay lại, đặt cho Matsumoto (junior khách) trước Nakamura · nhận sau cùng, im lặng nhận · thì thầm sau*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | 「ズン先輩、お茶です。」 |
 | **ズン** | 「あ、リンさん、まずお客様から…」 |
@@ -34,7 +34,7 @@ Sau khi 3 khách ngồi 上座 (rule 10), Linh (intern, làm task hospitality) r
 
 *bưng khay 6 cốc trà nóng, vào phòng cúi nhẹ · đến chỗ Nakamura đầu tiên, đặt cốc bên phải Nakamura, hai tay · tiếp tục theo thứ tự: 大垣 (上座 phải) → 松本 (上座 trái) → フオン副部長 (下座 giữa) → ズン → トゥアン · sau khi đặt xong, lui ra cửa, bow*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | 「**お茶をお持ちいたしました。失礼いたします**【1】。」 |
 | **リン**【2】 | 「中村CFO、どうぞ。」 |

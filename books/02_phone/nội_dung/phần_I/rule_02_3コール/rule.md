@@ -19,7 +19,7 @@ Sáng thứ Hai, văn phòng đông. Anh Matsumoto gọi vào số bàn em Dũng
 
 > 📞 *(reo 5 hồi, em Dũng cuối cùng bốc máy)*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「お電話ありがとうございます。ティエンファット社のズンでございます。」 |
 | **松本PM** | 「(im lặng 1 giây)... お世話になっております。」 |
@@ -32,7 +32,7 @@ Sáng thứ Hai, văn phòng đông. Anh Matsumoto gọi vào số bàn em Dũng
 
 > 📞 *(reo 4 hồi, em Dũng bốc máy)*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「お電話ありがとうございます。お待たせいたしました【1】、ティエンファット社のズンでございます。」 |
 | **松本PM** | 「お世話になっております。白鷗の松本です。」 |
@@ -44,7 +44,7 @@ Sáng thứ Hai, văn phòng đông. Anh Matsumoto gọi vào số bàn em Dũng
 
 ## 🔄 Biến thể — Khi đang dở việc lớn không thể bốc
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハイ (đồng nghiệp đỡ)** | 「お電話ありがとうございます。ティエンファット社のハイでございます。ズンが席を外しておりますが、よろしければご用件を承ります。」 |
 

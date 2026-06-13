@@ -25,7 +25,7 @@ Tháng 5/2026, dinner café Tokyo sau họp. Yamamoto (Osaka, food blogger) hỏ
 
 *specialty coffee fan · 意外*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中** | 「ズンさん、ベトナムってコーヒー大国なんだよね。Arabica?」 |
 | **ズン** | 「実は**ロブスタが90%以上**なんです。世界2位の生産量で、**ロブスタ単独で見るとぶっちぎりの世界1位**【1】。」 |
@@ -41,7 +41,7 @@ Tháng 5/2026, dinner café Tokyo sau họp. Yamamoto (Osaka, food blogger) hỏ
 
 ### 📍 Scenario 2 — Phin filter + ritual
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **山本** | 「ベトナムのコーヒー店、お洒落な所多いって聞くけど、淹れ方ってどんな?」 |
 | **ズン** | 「**フィン(Phin)**って小さなアルミの**金属ドリッパー**を使います。カップに直接乗せて、**お湯を注いで4-5分待つ**【1】。」 |
@@ -57,7 +57,7 @@ Tháng 5/2026, dinner café Tokyo sau họp. Yamamoto (Osaka, food blogger) hỏ
 
 ### 📍 Scenario 3 — Cà phê sữa đá (món "đậm gấp đôi" hấp dẫn JP)
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **山本** | 「現地で一番ポピュラーなのって?」 |
 | **ズン** | 「**カフェスアダー(cà phê sữa đá)** — 練乳ブラックコーヒーアイス、です。**一杯のコーヒー量は日本の半分**ですが、**濃さは日本のエスプレッソ並み**で、練乳でバランス取ります。」 |
@@ -75,7 +75,7 @@ Tháng 5/2026, dinner café Tokyo sau họp. Yamamoto (Osaka, food blogger) hỏ
 
 *目を丸く*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中** | 「ハノイ限定のコーヒーって何?」 |
 | **ズン** | 「**カフェチュン(cà phê trứng — 卵コーヒー)**です。**生の卵黄+砂糖を泡立てて、ロブスタコーヒーの上に乗せる**。**ティラミスを飲んでる**ような味です。」 |

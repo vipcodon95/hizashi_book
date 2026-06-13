@@ -18,7 +18,7 @@ Em Linh (intern Marketing) đã onboarding 2 tuần. Anh Dũng nhận trách nhi
 
 *thứ Hai 9:00, Slack DM zun · thứ Hai 9:30 · thứ Hai 10:15 · thứ Hai 16:00、Linh đã DM 8 lần · observer*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | 「ズンさん、ブロシュアの色について…」 |
 | **リン** | 「ズンさん、フォントは…」 |
@@ -34,7 +34,7 @@ Em Linh (intern Marketing) đã onboarding 2 tuần. Anh Dũng nhận trách nhi
 
 *月曜朝、Linh と1-on-1*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「リン、君のサポート体制を整えました。**3つ説明します**【1】。」 |
 | **ズン** | 「**①Weekly 1-on-1**: 毎週金曜 16:00-16:30、固定で。アジェンダ:この週の Done / Doing / Blocked / 質問 + 来週の Top 3 タスク。事前に Notion テンプレに記入【2】。」 |

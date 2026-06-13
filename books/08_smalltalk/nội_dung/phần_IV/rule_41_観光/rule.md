@@ -23,7 +23,7 @@ Tháng 12/2026, dinner Tokyo. Matsumoto + couple sẽ trip 5 ngày VN tháng 1 (
 
 ### 📍 Scenario 1 — Hạ Long + Sapa cho senior couple
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本** | 「ハノイから日帰りで行ける綺麗なとこ、ある?」 |
 | **ズン** | 「松本さんご夫婦でしたら、**ハロン湾とサパ**、両方おすすめです。性格が違って、**ハロン湾は『海の桂林』、サパは『山岳少数民族の里』**です。」 |
@@ -40,7 +40,7 @@ Tháng 12/2026, dinner Tokyo. Matsumoto + couple sẽ trip 5 ngày VN tháng 1 (
 
 ### 📍 Scenario 2 — Phú Quốc cho couple beach
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **加藤** | 「ベトナムでビーチって、ダナン以外ある?」 |
 | **ズン** | 「**フーコック島**、ベトナム最南端のリゾート島で、**白砂+透明な海+ヤシの木+静か**、**バリ島の3分の1の値段**って評判です。」 |
@@ -56,7 +56,7 @@ Tháng 12/2026, dinner Tokyo. Matsumoto + couple sẽ trip 5 ngày VN tháng 1 (
 
 ### 📍 Scenario 3 — Bùi Viện / Tạ Hiện cho junior — kèm warning
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中** | 「タヒエン通り、ベトナムのナイトライフの聖地って聞いたんだけど、行ってみたい。」 |
 | **ズン** | 「タヒエンですね、行けます。**3つ事前に共有させてください**。**①音量爆音**(クラブ並み)、**②ぼったくりバー注意**、**③スリ注意**。」 |
@@ -75,7 +75,7 @@ Tháng 12/2026, dinner Tokyo. Matsumoto + couple sẽ trip 5 ngày VN tháng 1 (
 
 ### 📍 Scenario 4 — Sapa cho senior history-mind
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **佐藤** | 「ホイアンの後、もう1日あったら何したい?九州の人間として、自然好きなんやけど。」 |
 | **ズン** | 「先生でしたら**サパ**、または**マイチャウ(Mai Châu)渓谷**がおすすめ。」 |

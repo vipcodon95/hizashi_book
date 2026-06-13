@@ -25,7 +25,7 @@ Dũng + Hà CTO onsite Tokyo + Osaka 5 ngày. Dinner mỗi tối với khách qu
 
 *izakaya Osaka, đã uống 2 ly · cười · thận trọng + ngoại giao · rạng rỡ · không chịu*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **山本** | 「ズンさん、お好み焼きは大阪派?広島派?」 |
 | **広島** | 「これは戦争になるで(笑)」 |
@@ -45,7 +45,7 @@ Dũng + Hà CTO onsite Tokyo + Osaka 5 ngày. Dinner mỗi tối với khách qu
 
 *dinner Gifu, 加藤さん dẫn đến quán Hida-Takayama · 自慢気 · càng vui*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「加藤さん、本日はありがとうございます。**飛騨牛**【1】、ずっと食べたかったんです。」 |
 | **加藤** | 「岐阜の宝やからな。**A5ランク**の霜降りは、口の中で溶けるよ。あ、これ**朴葉味噌**【2】、ご飯と一緒に食べてみて。」 |
@@ -66,7 +66,7 @@ Dũng + Hà CTO onsite Tokyo + Osaka 5 ngày. Dinner mỗi tối với khách qu
 
 *Nagoya dinner · điềm tĩnh kiểu Nagoya · impress · cười nhẹ*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「伊藤さん、名古屋飯は**赤味噌**文化って聞きましたが…」 |
 | **伊藤** | 「そうですね。**八丁味噌**【1】が基本。味噌カツ、味噌煮込みうどん、土手煮…全部赤味噌。」 |
@@ -87,7 +87,7 @@ Dũng + Hà CTO onsite Tokyo + Osaka 5 ngày. Dinner mỗi tối với khách qu
 
 *dinner Tokyo, Nakamura order · nostalgic*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「中村CFO、北海道のおすすめ料理、何ですか?」 |
 | **中村** | 「うーん、難しいな。海も山もあるからね。**海鮮**なら**ウニ**【1】**イクラ**【2】が圧倒的。**石狩鍋**は冬の定番。」 |

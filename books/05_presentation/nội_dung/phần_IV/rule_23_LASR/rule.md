@@ -18,7 +18,7 @@ Q&A pitch Phase 3. Anh Matsumoto hỏi câu phức tạp 2 vế: "scope phase 3 
 
 *L1 chưa kết, đã trả lời · lê thê 2 phút · 困惑*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本** | 「Phase 3 のスコープは Phase 2 と重複しないか？重複したら誰が調整するのか？」 |
 | **ズン** | 「えっと、重複しないと思います。設計の段階で…あ、いや、重複する部分は…うーんと、トゥアンさんが…」 |
@@ -33,7 +33,7 @@ Q&A pitch Phase 3. Anh Matsumoto hỏi câu phức tạp 2 vế: "scope phase 3 
 
 *待つまで完了 — L*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本** | 「Phase 3 のスコープは Phase 2 と重複しないか？重複したら誰が調整するのか？」 |
 | **ズン** | 「**ご質問ありがとうございます**【1】。**ご質問の趣旨は『Phase 2 / 3 のスコープ重複の有無』と『重複時の調整責任者』の2点と理解しました**【2】、よろしいでしょうか？」 — A |

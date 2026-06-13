@@ -25,7 +25,7 @@ Dũng vừa được giới thiệu 4 thành viên mới của 白鷗 (Hiroshi/Y
 
 *sau 名刺交換, ngồi xuống · rạng rỡ*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「広島部長、改めまして、よろしくお願いいたします。**ご出身は広島でいらっしゃいますか?**」 |
 | **広島部長** | 「お、よく分かったね。名刺の名前で?(笑)そう、生まれも育ちも広島市。今は単身赴任で大阪にいるんですよ。」 |
@@ -44,7 +44,7 @@ Dũng vừa được giới thiệu 4 thành viên mới của 白鷗 (Hiroshi/Y
 
 *20:00 khách sạn, mở Notion CRM · Notion entry · tự nhủ · Wikipedia + Yahoo Japan check 30 phút · ghi vào CRM*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | "Hôm nay gặp 4 khách mới. Phải ghi ngay." |
 | ** | **広島部長** — Quê: 広島市. Sport: カープ (野球). Đặc sản: お好み焼 (vs 大阪 — khác layout), 牡蠣, もみじ饅頭. Du lịch: 宮島 / 平和記念公園. 単身赴任 ở 大阪. |
@@ -60,7 +60,7 @@ Dũng vừa được giới thiệu 4 thành viên mới của 白鷗 (Hiroshi/Y
 
 *zoom call 1 tuần sau, mở đầu · bất ngờ + vui · thực sự surprise*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「広島部長、お疲れ様です。**先週の阪神戦、カープ勝ちましたよね!**」 |
 | **広島部長** | 「ズンさん、見てたの?(笑)8回の逆転、痺れたよ!まさかベトナムから観戦?」 |
@@ -79,7 +79,7 @@ Dũng vừa được giới thiệu 4 thành viên mới của 白鷗 (Hiroshi/Y
 
 *gặp Kobayashi lần đầu · thoải mái*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「小林さん、ご出身はどちらですか?」 |
 | **小林** | 「沖縄、那覇です。実は本土の文化とちょっと違うんですよ。」 |

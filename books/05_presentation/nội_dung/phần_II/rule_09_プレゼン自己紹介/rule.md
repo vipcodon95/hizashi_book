@@ -18,7 +18,7 @@ Sau Hook, Dũng đến phần intro. Phòng có Matsumoto đã quen Dũng nhưng
 
 *時計 · 40秒経過*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「私、ティエンファット社の Trần Văn Dũng と申します。2024年4月に新卒入社、最初の半年は研修、次に Phase 1 の調査…Phase 2 では松本様の指導の下…現在は…」 |
 | **大垣** | 「(……いつ終わる)」 |
@@ -30,7 +30,7 @@ Sau Hook, Dũng đến phần intro. Phòng có Matsumoto đã quen Dũng nhưng
 
 ## ✅ Hội thoại TỐT — 3 câu tight
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「私、ティエンファットのズンと申します【1】。本日は **Phase 3 の主担当**としてご提案いたします【2】。Phase 2 で**在庫差異の削減ロジック**を担当しており、本案件はその継続でございます【3】。」 |
 | **松本** | 「はい、よろしくお願いします。」 |

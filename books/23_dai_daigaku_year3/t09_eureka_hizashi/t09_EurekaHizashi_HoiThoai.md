@@ -1,143 +1,244 @@
-# Sách 23 · T9. EUREKA 11/2028 — quyết định 卒研 = Hizashi (EUREKA・Hizashi決定)
+# Sách đại học CS năm 3 · T9. EUREKA — Hizashi ra đời
 
-> **Mục tiêu:** 11/2028. Đại EUREKA moment — Hana 3 tháng + Mai N2 prep + Linh-Anh ở Toyota Boshoku đang tự học JP cao + bố mẹ HN khoe Đại "biết tiếng Nhật giỏi" — Đại realize: Hizashi không chỉ cho Mai mà CỘNG ĐỒNG VN tại Nhật + tại VN học JP. 卒研 confirmed = Hizashi: hệ thống học tiếng Nhật toàn diện cho người Việt.
+> **Mục tiêu nhân vật:** Đại 23 tuổi, sinh viên CS năm 3 ĐH Osaka, tháng 11/2028, đang ở Toyonaka cùng Mai (vợ, đang ôn N2) và bé Hana 3 tháng. Học 5-6 mẫu hội thoại tiếng Nhật của sinh viên CS chuẩn bị 卒研: (1) báo cáo ý tưởng với 教授, (2) xin phê duyệt 卒研テーマ, (3) brainstorm features cùng senpai bằng JP IT mix, (4) trình bày user research findings, (5) hẹn cohort 祝賀会, (6) từ chối nhã nhặn lời đề nghị đầu tư của bác homestay.
+
+---
 
 ## Bối cảnh
 
-- Tháng 11 — autumn. Hana 3 tháng. Mai vẫn pause Yamato School. Linh-Anh thăm cuối tuần.
-- Đại đã có Cybozu offer. Decision Cybozu vs Hizashi startup looming (sách 24).
+Tháng 11/2028. Mùa thu Osaka, lá phong đỏ rực ở công viên Senri. Đại đang học năm 3 lab Inoue (NLP), vừa qua intern Cybozu mùa hè, đã có 内定 ¥6,7M. Mai (23 tuổi) tạm nghỉ Yamato School để chăm Hana (3 tháng). Linh-Anh — em gái Đại, đang làm Toyota Boshoku — cuối tuần ghé thăm và than về tiếng Nhật công sở yếu. Bố ở Hà Nội nhắn LINE hỏi giúp con bác Tâm tìm app học JLPT. Bốn dữ liệu cộng lại → Đại nảy ra ý tưởng "Hizashi" — app học tiếng Nhật cho người Việt. Chương này tập trung các mẫu câu: báo cáo ý tưởng/xin phê duyệt 卒研、brainstorm bằng JP IT, cảm ơn senpai, từ chối nhã nhặn đề nghị đầu tư.
 
 ---
 
-## Tình huống 1 — Sáng nhà — Mai struggle với 教材 N2 · 5/11/2028
+## Tình huống 1 — Phòng khách Toyonaka · 7:30 sáng 5/11, Mai hỏi điểm ngữ pháp N2
 
-| Speaker | Lời thoại |
+*Mai ngồi ở bàn bếp, mở quyển 新完全マスター N2 文法, mặt nhíu mày.*
+
+| Vai | Lời thoại |
 |---|---|
-| Mai | (VN, bực) Anh ơi! Quyển 新完全マスター N2 文法 này khó quá. Em đọc 5 lần vẫn không phân biệt được `〜ものを` với `〜ものの` khác nhau ở chỗ nào.<br>*(Sách khó.)* |
-| Đại | (VN) Để anh giảng cho em.<br>*(Giải thích.)* |
-| Đại | (whiteboard) `〜ものを` = tiếc nuối / chỉ trích (lẽ ra nên làm X nhưng đã không làm). `〜ものの` = tuy nhiên (X có xảy ra nhưng kết quả ngoài mong đợi).<br>*(Khác biệt.)* |
-| Mai | (VN) À em hiểu rồi! Tại sách giải thích bằng tiếng Nhật — không phải tiếng Việt nên em đọc mãi không vào!<br>*(Vỡ lẽ.)* |
-| Đại | (VN, nghĩ thầm) Đúng thật. Giáo trình tiếng Nhật cho người Việt đa số dịch tiếng Nhật sang tiếng Anh chứ không sang tiếng Việt. Khoảng trống thị trường đây rồi.<br>*(Gap.)* |
+| Mai | (VN) Anh ơi, em đọc 5 lần vẫn không phân biệt được `〜ものを` với `〜ものの`. Sách giải thích bằng tiếng Nhật, em hiểu được mỗi chỗ ví dụ. |
+| Đại | (VN) Để anh giảng. `〜ものを` = tiếc nuối, kiểu "lẽ ra X, mà lại không". Còn `〜ものの` = "tuy X nhưng kết quả lại Y". |
+| Mai | (VN) À! Vì sao sách không viết một câu tiếng Việt như anh vừa nói nhỉ? Em đọc 5 phút là xong, đằng này mất cả tối. |
+| Đại | (VN, ngẫm) Đúng thật. Sách N2 cho người Việt thì hiếm, mà sách Nhật-Anh thì nhiều. Người Việt mình bị ép học qua tiếng Anh. |
+| Mai | (VN) Bao giờ anh ra trường làm app giúp em với. Em là người dùng đầu tiên đấy. |
+| Đại | (VN, cười) Anh ghi nhớ rồi. |
 
 ---
 
-## Tình huống 2 — Linh-Anh visit + share Toyota struggle · 7/11 weekend
+## Tình huống 2 — Phòng khách · 14:00 thứ Bảy 7/11, Linh-Anh sang chơi than tiếng Nhật công sở
 
-| Speaker | Lời thoại |
+*Linh-Anh bế Hana, ngồi sofa cùng Mai. Đại pha trà.*
+
+| Vai | Lời thoại |
 |---|---|
-| Linh-Anh | (VN) Anh chị ơi! Em qua thăm bé Hana đây.<br>*(Thăm.)* |
-| Linh-Anh | (VN, hơi bức bối khi nói chuyện) Em làm Toyota Boshoku 2 năm rồi mà tiếng Nhật công sở em vẫn yếu. Sếp nói nhanh là em không nghe kịp.<br>*(Yếu.)* |
-| Đại | (VN) Em có N3 rồi mà. Cần lên N2 với học thêm tiếng Nhật thương mại cụ thể nữa.<br>*(N2 + thương mại.)* |
-| Linh-Anh | (VN) Em đang tìm app hoặc website nào dạy tiếng Nhật cho người Việt bài bản. Toàn trang dạy chung chung — chẳng có trang nào theo ngữ cảnh Việt cả.<br>*(Không có.)* |
-| Đại | (VN, nghĩ thầm) Linh-Anh với Mai gặp đúng cùng một vấn đề. Cộng thêm Tuấn em (cohort sách 19-20) cũng đang chuyển hướng sang IT, cần từ vựng tiếng Nhật ngành CNTT.<br>*(Mẫu hình lặp lại.)* |
+| Linh-Anh | (VN) Anh chị ơi, em vào Toyota Boshoku 2 năm rồi mà tiếng Nhật công sở vẫn yếu lắm. Sếp nói trong họp là em nghe được 60%. |
+| Đại | (VN) Em N3 rồi nhỉ. Cần lên N2 cộng với 敬語 thương mại — kiểu báo cáo, đàm phán. |
+| Linh-Anh | (VN) Em tìm trên mạng cả tháng. App dạy chung chung thì nhiều, mà dạy cho người Việt làm văn phòng Nhật theo ngữ cảnh thực thì không có. |
+| Mai | (VN) Em cũng vậy. Sách hay mà cứ bằng tiếng Nhật. |
+| Đại | (VN, nghĩ trong đầu — không nói thành lời) *Mai. Linh-Anh. Hai người. Cùng một vấn đề.* |
+| Linh-Anh | (VN) Anh học CS, anh làm app đi anh. Em đăng ký đầu tiên. |
 
 ---
 
-## Tình huống 3 — LINE bố mẹ HN talk · 8/11 19:00
+## Tình huống 3 — Phòng làm việc Đại · 19:00 8/11, LINE bố từ Hà Nội
 
-| Speaker | Lời thoại |
+*Đại ngồi trước MacBook, vừa code vừa nghe Hana ngủ trong cũi. LINE bố nhảy lên.*
+
+| Vai | Lời thoại |
 |---|---|
-| Bố | (LINE VN) Đại ơi! Bác Tâm hôm trước hỏi bố là Đại học gì bên Nhật. Bố khoe luôn "Học Đại học Osaka khoa CNTT, tiếng Nhật N2 giỏi lắm".<br>*(Bố khoe.)* |
-| Bố | (VN) Bác Tâm nhờ bố hỏi hộ: con bác Tâm 18 tuổi muốn du học Nhật, có app nào dạy JLPT từ đầu cho người mới bắt đầu không?<br>*(Người mới hỏi.)* |
-| Đại | (VN, gõ tin nhắn rồi xoá) Con chưa rõ có app nào tốt cho cộng đồng người Việt mình. Để con tìm hiểu rồi báo bác sau ạ.<br>*(Tìm hiểu.)* |
-| Đại | (VN, nghĩ thầm) Thêm một dữ liệu nữa. Người mới ở Việt Nam cũng cần. Cộng đồng học tiếng Nhật của người Việt khoảng 20-30 nghìn người (du học sinh + thực tập sinh + người ở Việt Nam).<br>*(Thị trường!)* |
+| Bố | (LINE VN) Đại ơi. Hôm trước bác Tâm sang chơi, bố khoe con học Đại học Osaka khoa CNTT, N2 giỏi. |
+| Bố | (LINE VN) Bác nhờ con tìm hộ: con bác 18 tuổi muốn du học Nhật, có app nào dạy JLPT N5 cho người mới bắt đầu không. |
+| Đại | (LINE VN) Con tìm hiểu rồi báo bác sau ạ. |
+| Đại | (VN, lẩm bẩm một mình — viết vào sổ tay, không nói ra) *Mai N2. Linh-Anh thương mại. Bác Tâm N5. Tuấn em sách 19-20 đang chuyển ngành IT. Bốn người. Một thị trường.* |
 
 ---
 
-## Tình huống 4 — Khoảnh khắc bừng sáng · 11/11 chiều thứ 7
+## Tình huống 4 — Công viên Senri · 16:00 11/11, gọi điện Mai báo "EUREKA"
 
-| Speaker | Lời thoại |
+*Đại đi dạo công viên một mình giữa lá phong đỏ. Bỗng đứng sựng lại, lấy điện thoại bấm gọi Mai.*
+
+| Vai | Lời thoại |
 |---|---|
-| Đại | (VN, nghĩ thầm, đi bộ quanh công viên Senri) Mình vừa nhìn ra 4 dữ liệu:<br>1. Mai vật lộn với phần giải thích ngữ pháp N2<br>2. Linh-Anh cần tiếng Nhật thương mại theo ngữ cảnh Việt<br>3. Bác Tâm hỏi app cho người Việt mới bắt đầu<br>4. Tuấn em chuyển hướng CNTT, cần từ vựng tiếng Nhật ngành IT<br>*(4 dữ liệu.)* |
-| Đại | (VN) Tất cả đều cần: **HỆ THỐNG HỌC TIẾNG NHẬT TOÀN DIỆN CHO NGƯỜI VIỆT**.<br>*(Toàn diện.)* |
-| Đại | (VN) Hizashi = Sunshine = Ánh nắng (tên Mai đã từng đề xuất một lần nói chuyện) — sự khởi đầu của một ngày học.<br>*(Tên Hizashi.)* |
-| Đại | (VN, chạy về nhà, hào hứng) Mai ơi!!! Anh nghĩ ra rồi!<br>*(Mai!)* |
-| Mai | (VN, đang cho Hana ăn) Gì thế anh?<br>*(Gì?)* |
-| Đại | (VN) Hizashi! Anh sẽ xây dựng hệ thống học tiếng Nhật toàn diện cho người Việt — cho Mai, Linh-Anh, Tuấn, bác Tâm, cộng đồng hơn 20 nghìn người Việt tại Nhật và hơn 10 nghìn người Việt ở Việt Nam đang học tiếng Nhật. Đề tài 卒研 chính là MVP Hizashi!<br>*(Hizashi!)* |
-| Mai | (VN, ôm cả Hana lẫn Đại) Em ủng hộ! Em sẽ làm người dùng thử số 1!<br>*(Ủng hộ!)* |
+| Đại | (điện thoại, VN, hơi run) Mai! Anh nghĩ ra rồi! |
+| Mai | (VN, tiếng Hana khóc ở phía sau) Anh sao thế? Bình tĩnh đã. |
+| Đại | (VN) Đề tài 卒研 của anh. Anh sẽ làm hệ thống học tiếng Nhật toàn diện cho người Việt. Tên là **Hizashi** — ánh nắng mai. Cho Mai, Linh-Anh, con bác Tâm, Tuấn em — cả cộng đồng. |
+| Mai | (VN, cười) Hizashi… cái tên em đề nghị hồi tháng 6 đúng không? |
+| Đại | (VN) Đúng rồi. Anh về ngay đây. |
+| Mai | (VN) Em chờ. Em sẽ là beta tester số 1. |
 
 ---
 
-## Tình huống 5 — Brainstorm features · cùng tối
+## Tình huống 5 — Phòng làm việc nhà · 21:00 cùng tối, brainstorm 8 features lên whiteboard
 
-| Speaker | Lời thoại |
+*Mai cho Hana bú xong, ngồi cạnh Đại. Đại đứng trước whiteboard nhỏ treo tường, viết liên tục.*
+
+| Vai | Lời thoại |
 |---|---|
-| Đại | (whiteboard) Tính năng Hizashi v0.1:<br>*(v0.1.)* |
-| Đại | 1. **Study Course system**: Khoá học N5→N1, lý thuyết markdown + hội thoại ví dụ Việt thực tế.<br> |
-| Đại | 2. **Question Set**: Hơn 20 loại câu hỏi: chon_dap_an, kanji_yomi, reading_passage, listening, writing.<br> |
-| Đại | 3. **AI Tutor (Claude API)**: Hỏi đáp 24/7. Giải thích ngữ pháp Việt-Nhật.<br> |
-| Đại | 4. **SRS (Spaced Repetition)**: Thẻ từ vựng + kanji. Thuật toán kiểu Anki.<br> |
-| Đại | 5. **Reading Passage**: Bài đọc N3-N1 kèm chú giải inline + câu hỏi đọc hiểu.<br> |
-| Đại | 6. **Mogishiken**: Đề thi thử JLPT đầy đủ + phân tích kết quả.<br> |
-| Đại | 7. **Voice TTS + ghi âm phản hồi**: Luyện phát âm.<br> |
-| Đại | 8. **Ví dụ ngữ cảnh Việt**: Ví dụ ngữ pháp dùng tình huống Việt (gia đình, baito, học hành...).<br> |
-| Mai | (VN, ngồi bên) Số 8 quan trọng nhất! Đây đúng là thứ em đang thiếu.<br>*(Số 8!)* |
+| Đại | (VN, vừa viết) Anh nghĩ ra 8 module chính. Một, **Study Course** — khóa N5→N1 bằng markdown tiếng Việt. |
+| Mai | (VN) Có tiếng Việt giải thích là quan trọng nhất. |
+| Đại | (VN) Hai, **Question Set** — 20 dạng câu hỏi: chọn đáp án, kanji yomi, đọc hiểu, nghe. Ba, **AI Tutor** dùng Claude API, hỏi đáp 24/7 bằng tiếng Việt. |
+| Mai | (VN) Cái thứ ba em mong nhất. Nửa đêm em không hiểu ngữ pháp, hỏi ai bây giờ. |
+| Đại | (VN) Bốn, **SRS** — thẻ từ vựng kiểu Anki. Năm, **Reading Passage** N3→N1 chú giải inline. Sáu, **Mogishiken** đề thi thử. Bảy, **TTS + ghi âm** luyện phát âm. Tám, **ví dụ ngữ pháp dùng tình huống Việt** — gia đình, baito, học hành. |
+| Mai | (VN) Số 8 hay nhất. Em thấy mình trong đó. |
 
 ---
 
-## Tình huống 6 — Inoue 1on1 next morning · 12/11
+## Tình huống 6 — Văn phòng Inoue-sensei · 10:00 12/11, báo cáo 卒研テーマ và xin phê duyệt
 
-| Speaker | Lời thoại |
+*Đại gõ cửa văn phòng tầng 4 khoa CS. Đem theo bản tóm tắt 2 trang in màu.*
+
+| Vai | Lời thoại |
 |---|---|
-| Inoue | グエンさん、<ruby>卒研<rt>そつけん</rt></ruby>テーマは<ruby>決<rt>き</rt></ruby>まりましたか？<br>*(Quyết định chưa?)* |
-| Đại | はい、<ruby>先生<rt>せんせい</rt></ruby>！「Hizashi」――ベトナム<ruby>人<rt>じん</rt></ruby><ruby>向<rt>む</rt></ruby>けの<ruby>適応的<rt>てきおうてき</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby><ruby>学習<rt>がくしゅう</rt></ruby>システムです。<ruby>機能<rt>きのう</rt></ruby>は8つ、モバイルとウェブの<ruby>両方<rt>りょうほう</rt></ruby>、Claude APIとRAGを<ruby>使<rt>つか</rt></ruby>います。<br>*(Tầm nhìn Hizashi.)* |
-| Inoue | <ruby>素晴<rt>すば</rt></ruby>らしい！<ruby>目的<rt>もくてき</rt></ruby>が<ruby>明確<rt>めいかく</rt></ruby>で、<ruby>動機<rt>どうき</rt></ruby>も<ruby>強<rt>つよ</rt></ruby>く、<ruby>市場<rt>しじょう</rt></ruby>ニーズもしっかりしている。<ruby>正式<rt>せいしき</rt></ruby>に<ruby>承認<rt>しょうにん</rt></ruby>します！<br>*(Tuyệt! Phê duyệt!)* |
-| Đại | (LINE Yamada) <ruby>俺<rt>おれ</rt></ruby>の<ruby>卒研<rt>そつけん</rt></ruby>はHizashiに<ruby>決<rt>き</rt></ruby>まった！<ruby>多言語<rt>たげんご</rt></ruby>NLPの<ruby>共同研究<rt>きょうどうけんきゅう</rt></ruby>、<ruby>大歓迎<rt>だいかんげい</rt></ruby>！<br>*(Hizashi!)* |
-| Yamada | (LINE) すげぇ！じゃあ<ruby>俺<rt>おれ</rt></ruby>はerror detectionモジュール<ruby>担当<rt>たんとう</rt></ruby>を<ruby>提案<rt>ていあん</rt></ruby>するよ！<br>*(Tuyệt! Tớ phụ trách module error detection!)* |
+| Đại | (gõ cửa) <ruby>失礼<rt>しつれい</rt></ruby>します。<br>*(Cháu xin phép vào ạ.)* |
+| Inoue | グエンくん、どうぞ。<ruby>卒研<rt>そつけん</rt></ruby>テーマは<ruby>決<rt>き</rt></ruby>まりましたか？<br>*(Vào đi. Đề tài tốt nghiệp quyết chưa?)* |
+| Đại | はい、<ruby>決<rt>き</rt></ruby>まりました。テーマは「Hizashi」――ベトナム<ruby>人<rt>じん</rt></ruby><ruby>向<rt>む</rt></ruby>けの<ruby>適応的<rt>てきおうてき</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby><ruby>学習<rt>がくしゅう</rt></ruby>システムです。<br>*(Tên Hizashi — hệ thống học tiếng Nhật thích ứng cho người Việt.)* |
+| Inoue | <ruby>動機<rt>どうき</rt></ruby>を<ruby>聞<rt>き</rt></ruby>かせてください。<br>*(Cho thầy nghe động lực.)* |
+| Đại | <ruby>妻<rt>つま</rt></ruby>、<ruby>従妹<rt>いとこ</rt></ruby>、ベトナムの<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>、<ruby>後輩<rt>こうはい</rt></ruby>――この4<ruby>人<rt>にん</rt></ruby>が<ruby>同<rt>おな</rt></ruby>じ<ruby>問題<rt>もんだい</rt></ruby>を<ruby>抱<rt>かか</rt></ruby>えています。「<ruby>説明<rt>せつめい</rt></ruby>がベトナム<ruby>語<rt>ご</rt></ruby>ではない」――この<ruby>市場<rt>しじょう</rt></ruby>のギャップを<ruby>埋<rt>う</rt></ruby>めたいんです。<br>*(Bốn người cùng vấn đề: thiếu giải thích tiếng Việt. Cháu muốn lấp khoảng trống thị trường này.)* |
+| Inoue | <ruby>技術<rt>ぎじゅつ</rt></ruby>スタックは？<br>*(Stack kỹ thuật?)* |
+| Đại | Flutter モバイルアプリ、FastAPI バックエンド、PostgreSQL に pgvector を<ruby>追加<rt>ついか</rt></ruby>、Claude API でチューターを<ruby>実装<rt>じっそう</rt></ruby>します。RAG で<ruby>文法<rt>ぶんぽう</rt></ruby><ruby>説明<rt>せつめい</rt></ruby>を<ruby>検索<rt>けんさく</rt></ruby>します。<br>*(Flutter + FastAPI + Postgres pgvector + Claude API. RAG cho giải thích ngữ pháp.)* |
+| Inoue | <ruby>目的<rt>もくてき</rt></ruby>が<ruby>明確<rt>めいかく</rt></ruby>で、<ruby>動機<rt>どうき</rt></ruby>も<ruby>強<rt>つよ</rt></ruby>い、<ruby>市場<rt>しじょう</rt></ruby>ニーズもあります。<ruby>正式<rt>せいしき</rt></ruby>に<ruby>承認<rt>しょうにん</rt></ruby>します。<br>*(Mục tiêu rõ, động lực mạnh, có nhu cầu thị trường. Thầy chính thức phê duyệt.)* |
+| Đại | <ruby>本当<rt>ほんとう</rt></ruby>にありがとうございます！<ruby>頑張<rt>がんば</rt></ruby>ります。<br>*(Cháu cảm ơn thầy rất nhiều!)* |
 
 ---
 
-## Tình huống 7 — Cohort celebration + Tony+Yumi · weekend 18/11
+## Tình huống 7 — Hành lang lab · 10:30, hỏi lại Inoue điểm chưa hiểu về scope
 
-| Speaker | Lời thoại |
+*Đi ra khỏi văn phòng được vài bước, Đại quay lại gõ cửa.*
+
+| Vai | Lời thoại |
 |---|---|
-| Yamato | <ruby>祝賀会<rt>しゅくがかい</rt></ruby>だ！Hizashiのビジョン、<ruby>全力<rt>ぜんりょく</rt></ruby>で<ruby>応援<rt>おうえん</rt></ruby>するぞ！<br>*(Tiệc mừng! Ủng hộ Hizashi!)* |
-| Aiko | UI/UXは<ruby>無料<rt>むりょう</rt></ruby>で<ruby>支援<rt>しえん</rt></ruby>するよ！Figmaのモックアップ<ruby>作<rt>つく</rt></ruby>るね！<br>*(UI miễn phí! Figma mockup!)* |
-| Lin Wei | (English) Backend code review on me — free of charge!<br>*(Review miễn phí!)* |
-| Rajesh | (English) I'll handle DevOps and AWS infra — free!<br>*(DevOps miễn phí!)* |
-| Đại | みんな、<ruby>本当<rt>ほんとう</rt></ruby>にありがとう！<ruby>家族<rt>かぞく</rt></ruby>のような<ruby>仲間<rt>なかま</rt></ruby>だ。<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>作<rt>つく</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げてみせる！<br>*(Cảm ơn cả nhà! Nhất định xây xong!)* |
-| Tony | (Osaka-ben, Mai và Hana ngồi cạnh) わしも<ruby>投資家<rt>とうしか</rt></ruby>みたいなことしたるわ！Hizashiのシードに¥1M<ruby>出<rt>だ</rt></ruby>すで！<br>*(Tớ làm angel! Đầu tư seed Hizashi 1 triệu yên!)* |
-| Đại | (VN, choáng) Anh Tony! Em cảm ơn nhưng em chưa có kế hoạch nhận vốn từ nhà đầu tư đâu ạ.<br>*(Choáng.)* |
-| Tony | (Osaka-ben) <ruby>気<rt>き</rt></ruby>にせんでええ。<ruby>家族同然<rt>かぞくどうぜん</rt></ruby>やからな。<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>時<rt>とき</rt></ruby>はいつでも<ruby>言<rt>い</rt></ruby>うてや！<br>*(Đừng lo. Như người nhà. Cần lúc nào cứ nói!)* |
+| Đại | <ruby>先生<rt>せんせい</rt></ruby>、<ruby>一<rt>ひと</rt></ruby>つだけ<ruby>確認<rt>かくにん</rt></ruby>させてください。<ruby>卒研<rt>そつけん</rt></ruby>のスコープはMVPでよろしいですか、それともプロダクトレベルまで<ruby>求<rt>もと</rt></ruby>められますか？<br>*(Cháu xác nhận một việc. Scope tốt nghiệp dừng ở MVP hay phải đến mức product?)* |
+| Inoue | <ruby>卒論<rt>そつろん</rt></ruby>としてはMVPで<ruby>十分<rt>じゅうぶん</rt></ruby>です。ただし、5<ruby>人<rt>にん</rt></ruby>のベータユーザーの<ruby>定量<rt>ていりょう</rt></ruby>データ――<ruby>学習<rt>がくしゅう</rt></ruby><ruby>時間<rt>じかん</rt></ruby>、<ruby>正答率<rt>せいとうりつ</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>――を<ruby>必<rt>かなら</rt></ruby>ず<ruby>取<rt>と</rt></ruby>ってください。<br>*(Luận văn MVP là đủ. Nhưng phải có dữ liệu định lượng từ 5 beta user: thời gian học, tỉ lệ trả lời đúng theo thời gian.)* |
+| Đại | <ruby>定量<rt>ていりょう</rt></ruby>データ――というのは、<ruby>具体的<rt>ぐたいてき</rt></ruby>には<ruby>毎日<rt>まいにち</rt></ruby>のログでしょうか？<br>*(Định lượng — tức là log mỗi ngày phải không ạ?)* |
+| Inoue | はい、デイリーログでいいです。<ruby>後<rt>あと</rt></ruby>で<ruby>分析<rt>ぶんせき</rt></ruby>できる<ruby>形<rt>かたち</rt></ruby>で。<br>*(Daily log là được. Lưu ở dạng phân tích được sau.)* |
+| Đại | <ruby>分<rt>わ</rt></ruby>かりました。ありがとうございます。<br>*(Cháu hiểu rồi. Cảm ơn thầy.)* |
 
 ---
 
-## Tình huống 8 — Đêm reflect — biggest decision of life
+## Tình huống 8 — Lab seminar room · 14:00 12/11, mời Yamada-senpai cùng làm module error detection
 
-| Speaker | Lời thoại |
+*Yamada-senpai đang gõ code trong góc lab.*
+
+| Vai | Lời thoại |
 |---|---|
-| Đại | (VN, nhật ký) 11/11/2028. Khoảnh khắc EUREKA. Hizashi đã chốt = đề tài 卒研 + sứ mệnh đời mình.<br>*(EUREKA.)* |
-| Đại | (VN) 4 dữ liệu: Mai + Linh-Anh + Tuấn + con bác Tâm. Thị trường hơn 30 nghìn người Việt đang học tiếng Nhật.<br>*(Thị trường.)* |
-| Đại | (VN) Thầy Inoue đã duyệt. Yamada hợp tác. Cohort ủng hộ. Anh Tony đề nghị làm angel.<br>*(Hậu thuẫn.)* |
-| Đại | (VN) 1,5 năm tới: phát triển 卒研 → MVP → 学会 → bảo vệ → lựa chọn Cybozu chính thức hay startup Hizashi.<br>*(Lộ trình.)* |
-| Đại | (VN) Truy ngược lại: từ T8 sách 22 (Mai làm app vocab tracker) → T11 sách 22 (thầy Inoue nhắc tên "Hizashi") → bây giờ EUREKA.<br>*(Truy ngược.)* |
-| Đại | (VN) Bé Hana 3 tháng. 16 tháng nữa anh tốt nghiệp. Hizashi sẽ là cả cuộc đời anh.<br>*(Cuộc đời.)* |
+| Đại | <ruby>山田<rt>やまだ</rt></ruby>さん、ちょっといいですか？<br>*(Anh Yamada, em hỏi một chút được không?)* |
+| Yamada | おう、グエン。どうした？<br>*(Ờ, Đại. Sao thế?)* |
+| Đại | さっき<ruby>井上<rt>いのうえ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>に<ruby>卒研<rt>そつけん</rt></ruby>テーマを<ruby>承認<rt>しょうにん</rt></ruby>してもらいました。Hizashi です。<br>*(Thầy Inoue vừa duyệt đề tài. Hizashi.)* |
+| Yamada | おめでとう！で、<ruby>俺<rt>おれ</rt></ruby>に<ruby>何<rt>なに</rt></ruby>か<ruby>手伝<rt>てつだ</rt></ruby>えることある？<br>*(Chúc mừng! Có gì giúp được không?)* |
+| Đại | はい、error detection モジュール――<ruby>多言語<rt>たげんご</rt></ruby>NLPで、ベトナム<ruby>人<rt>じん</rt></ruby><ruby>学習者<rt>がくしゅうしゃ</rt></ruby>が<ruby>間違<rt>まちが</rt></ruby>えやすい<ruby>助詞<rt>じょし</rt></ruby>の<ruby>検出<rt>けんしゅつ</rt></ruby>を<ruby>共同研究<rt>きょうどうけんきゅう</rt></ruby>させていただけませんか？<br>*(Module error detection — phát hiện trợ từ người Việt hay sai, anh em cùng nghiên cứu được không?)* |
+| Yamada | おもしろい！<ruby>俺<rt>おれ</rt></ruby>の<ruby>修論<rt>しゅうろん</rt></ruby>テーマと<ruby>重<rt>かさ</rt></ruby>なる。<ruby>大歓迎<rt>だいかんげい</rt></ruby>。<br>*(Hay! Trùng đề tài thạc sĩ của anh. Hoan nghênh.)* |
+| Đại | <ruby>本当<rt>ほんとう</rt></ruby>ですか？ありがとうございます！<br>*(Thật ạ? Cảm ơn anh!)* |
+| Yamada | <ruby>来週<rt>らいしゅう</rt></ruby>までに baseline architecture を<ruby>送<rt>おく</rt></ruby>って。レビューする。<br>*(Tuần sau gửi anh baseline architecture. Anh review.)* |
 
 ---
 
-## Bảng từ vựng
+## Tình huống 9 — Quán izakaya gần Senri-Chuo · 19:00 18/11, cohort celebration
 
-| Từ | Kana | Nghĩa |
-|---|---|---|
-| 適応的言語学習 | てきおうてきげんごがくしゅう | Adaptive language learning |
-| Study Course | スタディコース | Course system |
-| Question Set | クエスチョンセット | Bộ câu hỏi |
-| AI Tutor | エーアイチューター | AI dạy kèm |
-| SRS | エスアールエス | Spaced Repetition System |
-| Reading Passage | リーディングパッセージ | Bài đọc hiểu |
-| Mogishiken | もぎしけん | Đề thi thử |
-| TTS | ティーティーエス | Text-to-Speech |
-| 動機 | どうき | Motivation |
-| 市場ニーズ | しじょうニーズ | Market needs |
-| Beta tester | ベータテスター | Beta tester |
-| Angel investor | エンジェルインベスター | Tony's offer |
-| Hizashi | ヒザシ / 陽射し | Sunshine / Ray of sun |
+*Yamato, Aiko, Lin Wei, Rajesh, Mai bế Hana, Đại — 6 người + 1 em bé ngồi bàn dài.*
+
+| Vai | Lời thoại |
+|---|---|
+| Yamato | <ruby>祝賀会<rt>しゅくがかい</rt></ruby>だ！グエンの<ruby>卒研<rt>そつけん</rt></ruby>テーマ<ruby>承認<rt>しょうにん</rt></ruby>、おめでとう！<ruby>乾杯<rt>かんぱい</rt></ruby>！<br>*(Tiệc mừng! Chúc mừng Đại được duyệt đề tài! Cạn ly!)* |
+| Cả nhóm | かんぱーい！<br>*(Cạn ly!)* |
+| Aiko | UI/UXは<ruby>無料<rt>むりょう</rt></ruby>でやるよ！Figmaのモックアップ8<ruby>画面<rt>がめん</rt></ruby><ruby>分<rt>ぶん</rt></ruby>、<ruby>来月<rt>らいげつ</rt></ruby>までに<ruby>渡<rt>わた</rt></ruby>す。<br>*(UI/UX miễn phí! 8 màn hình Figma tháng sau giao.)* |
+| Lin Wei | (English) Backend code review on me — free of charge. Pull request 来たらレビューする。<br>*(Anh review backend miễn phí.)* |
+| Rajesh | (English) DevOps と AWS infra は<ruby>俺<rt>おれ</rt></ruby>が<ruby>担当<rt>たんとう</rt></ruby>するよ。Render の<ruby>設定<rt>せってい</rt></ruby>も<ruby>手伝<rt>てつだ</rt></ruby>う。<br>*(DevOps AWS để anh lo. Cấu hình Render anh giúp.)* |
+| Đại | みんな、<ruby>本当<rt>ほんとう</rt></ruby>にありがとう。<ruby>家族<rt>かぞく</rt></ruby>みたいだ。<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>作<rt>つく</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げます。<br>*(Mọi người, thật sự cảm ơn. Như gia đình. Em nhất định hoàn thành.)* |
+| Mai | (cúi đầu) <ruby>夫<rt>おっと</rt></ruby>がお<ruby>世話<rt>せわ</rt></ruby>になります。よろしくお<ruby>願<rt>ねが</rt></ruby>いします。<br>*(Nhờ mọi người chăm sóc chồng em.)* |
+
+---
+
+## Tình huống 10 — Quán izakaya tiếp · 20:30, Tony đề nghị angel investment ¥1M
+
+*Tony và Yumi vừa từ Tennoji lên thăm Hana, ngồi bàn bên cạnh. Tony nghe được câu chuyện Hizashi, chuyển sang ngồi cùng.*
+
+| Vai | Lời thoại |
+|---|---|
+| Tony | (Osaka-ben) ダイくん、わしも<ruby>投資家<rt>とうしか</rt></ruby>みたいなことしたるわ！Hizashi のシードに¥1M<ruby>出<rt>だ</rt></ruby>すで！<br>*(Đại ơi, chú làm angel investor cho cháu! Bỏ 1 triệu yên vào seed Hizashi!)* |
+| Đại | (cúi đầu) トニーさん、お<ruby>気持<rt>きも</rt></ruby>ちは<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>嬉<rt>うれ</rt></ruby>しいです。ただ、<ruby>今<rt>いま</rt></ruby>はまだ<ruby>学生<rt>がくせい</rt></ruby>で、<ruby>卒研<rt>そつけん</rt></ruby>の<ruby>段階<rt>だんかい</rt></ruby>なので、<ruby>正式<rt>せいしき</rt></ruby>な<ruby>投資<rt>とうし</rt></ruby>はお<ruby>受<rt>う</rt></ruby>けできません。<br>*(Chú Tony, cháu thật sự cảm động. Nhưng giờ cháu vẫn là sinh viên, đang ở giai đoạn tốt nghiệp, chưa thể nhận đầu tư chính thức được.)* |
+| Tony | (Osaka-ben) <ruby>気<rt>き</rt></ruby>にせんでええ。<ruby>家族同然<rt>かぞくどうぜん</rt></ruby>やからな。<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>時<rt>とき</rt></ruby>はいつでも<ruby>言<rt>い</rt></ruby>うてや。<br>*(Đừng ngại. Như người nhà mà. Khi nào cần cứ nói.)* |
+| Đại | ありがとうございます。<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>設立<rt>せつりつ</rt></ruby>するタイミングになったら、<ruby>真<rt>ま</rt></ruby>っ<ruby>先<rt>さき</rt></ruby>にご<ruby>相談<rt>そうだん</rt></ruby>させてください。<br>*(Cảm ơn chú. Khi nào lập công ty, cháu xin được hỏi ý kiến chú đầu tiên.)* |
+| Yumi | (Osaka-ben) パパ、ダイくんは<ruby>真面目<rt>まじめ</rt></ruby>やからな。<ruby>急<rt>いそ</rt></ruby>がせんといて。<br>*(Bố ơi, Đại nghiêm túc lắm, đừng giục.)* |
+
+---
+
+## Tình huống 11 — Tàu Hankyu về Toyonaka · 22:00, Mai chia sẻ cảm xúc
+
+*Đại bế Hana, Mai ngồi cạnh trong toa vắng.*
+
+| Vai | Lời thoại |
+|---|---|
+| Mai | (VN, nhỏ giọng) Anh ơi. Hôm nay em hơi xúc động. Mọi người Nhật, Trung, Ấn — không ai cùng máu mà thương anh thế. |
+| Đại | (VN) Ừ. Anh cũng vậy. Aiko làm UI miễn phí, Lin Wei review code, Rajesh lo DevOps. Tự nhiên anh thấy Hizashi không phải của riêng anh. |
+| Mai | (VN) Còn anh Tony 1 triệu yên. Anh từ chối hay thật, em hồi hộp gần chết. |
+| Đại | (VN) Phải từ chối khéo. Mình mới sinh viên, nhận tiền vào là thành nghĩa vụ liền. Đợi đúng lúc đã. |
+| Mai | (VN) Em ủng hộ. Mà anh… mai em bắt đầu đăng ký N2 tháng 7 năm sau. Em cũng phải cố lên. |
+| Đại | (VN) Em vừa nuôi Hana vừa ôn N2 — anh phục sát đất. |
+
+---
+
+## Tình huống 12 — Bàn làm việc nhà · 23:30 cùng đêm, nhật ký + LINE Tuấn em
+
+*Đại mở sổ tay viết, rồi cầm điện thoại nhắn Tuấn em (cohort cũ sách 19-20, hiện chuyển sang ngành CNTT ở Kobe).*
+
+| Vai | Lời thoại |
+|---|---|
+| Đại | (LINE VN, gửi Tuấn em) Tuấn ơi, anh mới chốt đề tài tốt nghiệp: làm app học tiếng Nhật cho người Việt, tên Hizashi. Anh đang cần beta tester ngành IT — em có hứng không? |
+| Tuấn em | (LINE VN) Anh ơi, em đăng ký đầu tiên! Em đang khổ với từ vựng IT tiếng Nhật. Pull request, デプロイ, リファクタリング — em phải tra từng từ. |
+| Đại | (LINE VN) Đó! Module "IT vocabulary" anh thêm vào v0.2. Em sẵn sàng góp ý nhé. |
+| Tuấn em | (LINE VN) Sẵn sàng anh. Bao giờ cho thử em báo cáo từng tuần một lần. |
+| Đại | (LINE VN) Cảm ơn em. Chúc ngủ ngon. |
+
+---
+
+## Đọng lại chương 9
+
+Một tuần đổi đời. Đại học được mẫu câu báo cáo 卒研テーマ với 教授: **「テーマは〜です。動機は〜です」** rồi **「正式に承認していただけますか」**. Khi chưa rõ scope, hỏi lại bằng **「〜というのは、具体的には〜でしょうか」** — kỹ năng hỏi lại không sợ mất mặt. Mời senpai cùng làm: **「〜を共同研究させていただけませんか」**. Cảm ơn cohort hỗ trợ miễn phí: **「家族みたいだ。本当にありがとう」**. Quan trọng nhất là cách **từ chối nhã nhặn đề nghị đầu tư của bác Tony**: **「お気持ちは嬉しいですが、今はまだ〜の段階なので、お受けできません」** + cam kết **「タイミングになったら、真っ先にご相談させてください」** — vừa giữ thể diện vừa giữ quan hệ. Bên ngôn ngữ Việt, Mai và Linh-Anh là người cùng cho Đại thấy "market gap" thật. Hizashi sinh ra từ 4 dữ liệu thực, không phải bàn giấy.
+
+> Từ vựng & mẫu câu chương này: 卒研テーマ・適応的日本語学習・動機・市場ニーズ・正式に承認・〜というのは・共同研究させていただけませんか・お気持ちは嬉しいですが・お受けできません・真っ先にご相談・乾杯・家族同然・お世話になります・スコープ・MVP・定量データ・デイリーログ・ベータユーザー
 
 ## Bí quyết chương
 
-- **EUREKA moment**: Climax sách 23. 4 datapoints converge.
-- **Hizashi = name reveal**: Mai đã đặt tên trước.
-- **Tony angel ¥1M**: Setup possibility cho seed funding sách 24.
-- **8 features**: Đây chính là Hizashi anh đang build trong life thực!
+- **報告 + 承認 = pattern keigo cố định**: vào → 「失礼します」、ra → 「ありがとうございました」. Báo cáo gói gọn 3 câu: テーマ / 動機 / スタック.
+- **Hỏi lại không phải dốt — là cẩn thận**: 「〜というのは？」 / 「具体的には〜でしょうか」 — senpai và sensei đánh giá cao người hỏi lại đúng chỗ.
+- **Từ chối tiền của người thân**: KHÔNG dùng いいえ. Dùng cấu trúc **嬉しい → 状況説明 → お受けできない → 将来の相談**. Đây là pattern keigo cứu vớt nhiều mối quan hệ.
+- **JP IT mix**: pull request, RAG, MVP, FastAPI giữ tiếng Anh, bọc bằng JP đầy đủ ruby — đây là cách kỹ sư Nhật thật sự nói chuyện.
 
-> *"EUREKA. Hizashi confirmed = 卒研 + life mission. 4 datapoints converge. Tony angel offer ¥1M. Cuộc đời Đại có direction."*
+## Bảng từ vựng chương
+
+| Từ | Cách đọc | Hán Việt | Nghĩa tiếng Việt |
+|---|---|---|---|
+| 文法 | ぶんぽう | VĂN PHÁP | Ngữ pháp |
+| 後輩 | こうはい | HẬU BỐI | Đàn em |
+| 従妹 | いとこ | TÒNG MUỘI | Em họ gái |
+| 近所 | きんじょ | CẬN SỞ | Hàng xóm |
+| 抱える | かかえる | BÃO | Mang vác, gánh |
+| 市場 | しじょう | THỊ TRƯỜNG | Thị trường |
+| 埋める | うめる | MAI | Lấp đầy |
+| 技術 | ぎじゅつ | KỸ THUẬT | Công nghệ |
+| 追加 | ついか | TRUY GIA | Thêm vào |
+| スコープ | — | — | Scope |
+| 求める | もとめる | CẦU | Yêu cầu |
+| 卒論 | そつろん | TỐT LUẬN | Luận văn tốt nghiệp |
+| 十分 | じゅうぶん | THẬP PHÂN | Đầy đủ |
+| 必ず | かならず | TẤT | Chắc chắn |
+| 正答率 | せいとうりつ | CHÍNH ĐÁP SUẤT | Tỷ lệ trả lời đúng |
+| 変化 | へんか | BIẾN HOÁ | Sự thay đổi |
+| 重なる | かさなる | TRÙNG | Trùng nhau |
+| 祝賀会 | しゅくがかい | CHÚC HẠ HỘI | Tiệc mừng |
+| 設定 | せってい | THIẾT ĐỊNH | Cài đặt |
+| 投資家 | とうしか | ĐẦU TƯ GIA | Nhà đầu tư |
+| 投資 | とうし | ĐẦU TƯ | Đầu tư |
+| 段階 | だんかい | ĐOẠN GIAI | Giai đoạn |
+| 受ける | うける | THỤ | Nhận |
+| 家族同然 | かぞくどうぜん | GIA TỘC ĐỒNG NHIÊN | Như người nhà |
+| 真っ先 | まっさき | CHÂN TIÊN | Đầu tiên |
+| 設立 | せつりつ | THIẾT LẬP | Thành lập |
+| 急がせる | いそがせる | CẤP | Giục giã |
+| 真面目 | まじめ | CHÂN DIỆN MỤC | Nghiêm túc |
+| 義務 | ぎむ | NGHĨA VỤ | Nghĩa vụ |
+| 適応的 | てきおうてき | THÍCH ỨNG ĐÍCH | Thích ứng |
+| 仲良く | なかよく | TRỌNG LƯƠNG | Thân thiết |
+| ベータユーザー | — | — | Beta user |
+| デイリーログ | — | — | Daily log |
+| 定量データ | ていりょうデータ | ĐỊNH LƯỢNG — | Dữ liệu định lượng |

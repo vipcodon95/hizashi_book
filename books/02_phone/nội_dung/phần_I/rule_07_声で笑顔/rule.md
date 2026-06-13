@@ -14,7 +14,7 @@ Khi người ta cười, **vocal tract** thay đổi — formant frequency cao h
 
 ## ❌ Bad — Giọng vô hồn
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** (mặt tỉnh, không cười) | 「お電話ありがとうございます、ズンです。」 |
 | **松本PM** (cảm thấy lạnh) | 「あ、はい、松本ですが...」 |
@@ -25,7 +25,7 @@ Khi người ta cười, **vocal tract** thay đổi — formant frequency cao h
 
 ## ✅ Good — Cười khi nói
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** (cười nhẹ, nâng cơ má) | 「お電話ありがとうございます！ティエンファット社のズンでございます。」 |
 | **松本PM** (cảm thấy ấm) | 「松本です。いつもお世話になっております。」 |

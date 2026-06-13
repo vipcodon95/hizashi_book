@@ -18,7 +18,7 @@
 
 *đến quầy, nói tiếng Anh · không hiểu rõ Tanaka nào — 白鷗 có 5 Tanaka · thấy thang máy, đi luôn · vội*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアン** | 「Hi, we're here for a meeting with Tanaka-san.」 |
 | **受付** | 「Tanaka...どちらの田中でしょうか？」 |
@@ -36,7 +36,7 @@
 
 *đến quầy, bow 15° · check sổ · ký pass, đeo lên ngực · bow 15°*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「**おはようございます**【1】。」 |
 | **受付** | 「いらっしゃいませ。」 |

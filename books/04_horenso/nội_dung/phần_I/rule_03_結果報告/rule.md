@@ -16,7 +16,7 @@ Demo Phase 2 với khách Matsumoto vừa kết thúc. Em Dũng cần báo cáo 
 
 ## ❌ Hội thoại XẤU — chỉ có Result, thiếu Goal/Cause/Action
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン副部長、Phase 2デモ、概ねOKでした。指摘も少なかったです。」 |
 | **フオン** | 「『概ねOK』って何と比較して？目標は何だった？」 |
@@ -30,7 +30,7 @@ Demo Phase 2 với khách Matsumoto vừa kết thúc. Em Dũng cần báo cáo 
 
 ## ✅ Hội thoại TỐT — full GRCA
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン副部長、Phase 2デモのご報告です。**目標**は『松本様から書面で承認をいただく』ことでした【1】。」 |
 | **ズン** | 「**結果**：書面承認は明日いただける見込み。指摘は3件のみで、致命的なものはございません【2】。」 |

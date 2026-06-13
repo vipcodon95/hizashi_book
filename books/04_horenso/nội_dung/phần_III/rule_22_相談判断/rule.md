@@ -20,7 +20,7 @@ Lần đầu Dũng tham vấn cả 2 → chị Hương cau mày. Lần 2 áp dec
 
 ## ❌ Hội thoại XẤU — tham vấn cả việc nhỏ
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン副部長、ご相談です。FEのローカルブランチで `userId` を `user_id` にリネームしたいのですが、よろしいでしょうか?」 |
 | **フオン** | 「それ、私に聞くこと?ローカル・未マージ・あなた1人の作業範囲でしょ?」 |
@@ -33,7 +33,7 @@ Lần đầu Dũng tham vấn cả 2 → chị Hương cau mày. Lần 2 áp dec
 
 ## ✅ Hội thoại TỐT — phân loại theo decision tree
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン副部長、判断軸に従って2件を整理しました。1件は事後報告、1件はご相談です【1】。」 |
 | **フオン** | 「うん、聞きます。」 |

@@ -18,7 +18,7 @@ Anh Tanaka PMO (Hakuō) gửi Slack DM hỏi 4 việc khác nhau cho Dũng. Dũn
 
 *Slack DM · Slack thread, dài*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中PMO** | 「ズンさん、4点ご相談です:① Phase3 公式提案書、②本日の Phase2 障害 ETA、③契約書改定案 v3、④来週水曜 14時の会議候補。」 |
 | **ズン** | 「① はい、提案書はこちらです [PDF添付20MB] / ② ETA は今 15:30 / ③ 契約書改定案は… (3000文字) / ④ 14時OKです」 |
@@ -32,14 +32,14 @@ Anh Tanaka PMO (Hakuō) gửi Slack DM hỏi 4 việc khác nhau cho Dũng. Dũn
 
 *Slack DM · Slack reply · 15:25 Slack · 17:50 メール · 18:05 Slack · 18:15 Outlook*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中PMO** | 「ズンさん、4点ご相談です:① Phase3 公式提案書、②本日の Phase2 障害 ETA、③契約書改定案 v3、④来週水曜 14時の会議候補。」 |
 | **ズン** | 「田中様、4点それぞれ最適な手段で対応いたします【1】:**① 提案書 → 本日18時までに正式メールで送付**(松本様CC)/**② ETA → 今 Slack で即答: 15:30 復旧見込み**【2】/**③ 契約書改定 → Notion ページで共有**(編集権付与済URL)【3】/**④ 会議候補 → 別途 Outlook 招待を送付**【4】。」 |
 | **田中PMO** | 「整理ありがとうございます。Slack で全部やられると煩雑だったので助かります。」 |
 | **ズン** | 「**②即答** ETA: rollback 15:30 完了、復旧確認 15:45 見込み。」 |
 | **ズン** | 「件名: 【ご提案】Phase 3 拡張開発のご提案書送付の件 ... [PDF添付6MB]」 |
-| **ズン** | 「**③Notion** 契約書改定案 v3 を Notion で共有しました: <URL> 編集権あり、コメント歓迎です。」 |
+| **ズン** | 「**③Notion** 契約書改定案 v3 を Notion で共有しました: 〈URL〉 編集権あり、コメント歓迎です。」 |
 | **ズン** | 「**④Invite** Phase 3 進捗会議 4/29(水) 14:00-15:00 JST」 |
 
 📝 **Ghi chú:**

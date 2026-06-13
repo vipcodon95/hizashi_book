@@ -16,7 +16,7 @@ Ngày 3 onsite Tokyo buổi tối, Tanaka PMO + PM Matsumoto rủ Dũng + Tuấn
 
 ## ❌ Hội thoại XẤU — làm thẳng theo kiểu VN
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本PM** | 「ズンさん、もう一杯どうぞ。」 |
 | **ズン** | （自分で自分のglassに注ぐ）「あ、自分でやります。」 |
@@ -31,7 +31,7 @@ Ngày 3 onsite Tokyo buổi tối, Tanaka PMO + PM Matsumoto rủ Dũng + Tuấn
 
 ## ✅ Hội thoại TỐT — rót lẫn nhau + nhường người mời trả + đáp lễ ngày khác
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本PM** | 「ズンさん、もう一杯どうぞ。」 |
 | **ズン** | 「ありがとうございます。松本様、お注ぎします。」（瓶を両手で持ち、松本のglassへ）【1】 |

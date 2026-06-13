@@ -18,7 +18,7 @@ Phase 3 pitch đã xong + self-review xong. Cuối tháng 5, Linh (intern Market
 
 *Slack Hương sau pitch*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | 「フオン副部長、私の pitch 終わりました。Self-review もしました、合計42/60 でした。」 |
 | **フオン** | 「いいね、自分で review はできた。**でも solo は限界**。group retro やったか？」 |
@@ -33,7 +33,7 @@ Phase 3 pitch đã xong + self-review xong. Cuối tháng 5, Linh (intern Market
 
 *group retro 開始 · mentor perspective · peer*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **フオン** | 「リンの初 pitch retro, 30分。Linh **Self-review 結果** から start。」 |
 | **リン** | 「合計42/60。3 strengths: ①hook story 良かった、②time-keeping 守った、③Q&A 持ち帰り formal で対応。3 improvements: ①logical marker 弱、②声 small、③closing CTA 1点だけ。」 |

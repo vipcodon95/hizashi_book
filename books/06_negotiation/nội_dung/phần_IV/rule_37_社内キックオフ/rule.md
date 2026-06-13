@@ -16,7 +16,7 @@ Phase 3 ký xong thứ Hai. Thứ Tư có internal kickoff: Tuấn (Tech Lead de
 
 ## ❌ Hội thoại XẤU — bàn giao lỏng, không context
 
-| | Speaker | Câu (社内 MTG) |
+| | Vai | Câu (社内 MTG) |
 |--|---------|-----|
 | **L1** | **ズン** *(15分 MTG)* | 「トゥアン、Phase 3 contract attach しました。SOW 通りに進めてください。質問あれば Slack で。」 |
 | **L2** | **トゥアン** | 「OK、分かった。」 |
@@ -32,7 +32,7 @@ Phase 3 ký xong thứ Hai. Thứ Tư có internal kickoff: Tuấn (Tech Lead de
 
 *MTG 開始 · ① context · ② personality · ③ open promises · Slack 同期*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「Phase 3 内部キックオフ、30 分です。本日のアジェンダは **3 セクション**【1】: ①交渉 context、②白鷗側 personality map、③open promises。事前に hand-off doc 共有済み。質問はその場で。」 |
 | **ズン** | 「**価格 ¥17M は Phase 2 比 +24%**、内訳は AI レコメンド + 専任 PM + dashboard customization 1 機能。trade で 2 年契約を取った代わりに、契約期間中 SLA 99.9% commit。なので **SLA 99.5% に落とすことは交渉的に NG**【2】、技術的に可能でも避ける。」 |

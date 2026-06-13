@@ -18,7 +18,7 @@ Q&A Phase 3. Anh Ōgaki hỏi câu technical chi tiết về protocol API integr
 
 *không biết, đoán · impression: không reliable*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「弊社レガシーの SOAP API、Phase 3 で REST に統合できますか？認証は OAuth 2.0 ですが対応可能ですか？」 |
 | **ズン** | 「えっと、たぶんできると思います。OAuth 2.0 は標準なので…」 |
@@ -32,7 +32,7 @@ Q&A Phase 3. Anh Ōgaki hỏi câu technical chi tiết về protocol API integr
 
 ## ✅ Hội thoại TỐT — honest 持ち帰り + deadline + ghi chép
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「弊社レガシーの SOAP API、Phase 3 で REST に統合できますか？認証は OAuth 2.0 ですが対応可能ですか？」 |
 | **ズン** | 「**ご質問ありがとうございます**。**正直に申し上げますと**、SOAP→REST 統合の technical detail は **私の方で即答できかねます**【1】。」 |

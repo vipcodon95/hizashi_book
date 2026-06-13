@@ -19,7 +19,7 @@ Em Dũng báo cáo Phase 2 status cho anh Matsumoto qua phone (định kỳ 2 tu
 
 *phone, formal level thường*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「松本さん、Phase 2 のステータスを共有します。**トゥアンリーダー**が言うには、リファクタは順調で、CI/CD パイプラインも回ってます【1】。レイテンシも下がりました。」 |
 | **松本PM** | 「すみません、『**トゥアンリーダー**』とは？それと『CI/CDパイプライン』『レイテンシ』って…技術用語は分かるよう説明していただけますか？」 |
@@ -34,7 +34,7 @@ Em Dũng báo cáo Phase 2 status cho anh Matsumoto qua phone (định kỳ 2 tu
 
 *phone, formal cao*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「松本様、お時間頂戴し申し訳ございません。Phase 2 進捗の **ご報告**でございます【1】。」 |
 | **ズン** | 「**結論**：予定通り進捗、画面ロードは1.2秒から0.4秒まで改善。**弊社のトゥアン**【2】が技術検証を完了し、自動テストの仕組み(CI/CD)も整いました【3】。」 |

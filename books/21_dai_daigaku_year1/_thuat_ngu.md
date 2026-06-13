@@ -4,7 +4,7 @@
 
 | Viết tắt | Dạng đầy đủ | Nghĩa tiếng Việt |
 |----------|-------------|------------------|
-| AC | Accepted | Kết quả "chấp nhận" trong AtCoder / OJ — đã vượt qua tất cả test case |
+| AC | Accepted | Kết quả "đúng" trên AtCoder / OJ — bài đã vượt toàn bộ test case |
 | AES | Advanced Encryption Standard | Thuật toán mã hoá đối xứng tiêu chuẩn |
 | AP | 応用情報技術者試験 (Applied Information Technology Engineer Examination) | Chứng chỉ CNTT quốc gia Nhật cấp trên FE |
 | API | Application Programming Interface | Giao diện lập trình ứng dụng |
@@ -19,7 +19,7 @@
 | DFS | Depth-First Search | Thuật toán duyệt đồ thị theo chiều sâu (dùng stack / đệ quy) |
 | DevOps | Development + Operations | Phương pháp tích hợp phát triển và vận hành phần mềm |
 | DP | Dynamic Programming | Quy hoạch động |
-| DVCS | Distributed Version Control System | Hệ thống quản lý phiên bản phân tán (vd Git) |
+| DVCS | Distributed Version Control System | Hệ thống quản lý phiên bản phân tán — mỗi máy lưu toàn bộ lịch sử (vd Git) |
 | ERP | Enterprise Resource Planning | Hệ thống hoạch định nguồn lực doanh nghiệp |
 | FE | 基本情報技術者試験 (Fundamental Information Technology Engineer Examination) | Chứng chỉ CNTT quốc gia Nhật cấp cơ bản, do IPA cấp |
 | FIFO | First In First Out | Vào trước ra trước — nguyên lý hoạt động của Queue |
@@ -32,7 +32,7 @@
 | JS | JavaScript | Ngôn ngữ lập trình web (phía trình duyệt và Node.js phía server) |
 | JSON | JavaScript Object Notation | Định dạng trao đổi dữ liệu phổ biến trong API |
 | LIFO | Last In First Out | Vào sau ra trước — nguyên lý hoạt động của Stack |
-| LGTM | Looks Good To Me | Cụm từ phê duyệt PR trên GitHub ("Tôi thấy OK") |
+| LGTM | Looks Good To Me | Bình luận duyệt PR trên GitHub — nghĩa là "trông ổn, tôi approve" |
 | LLM | Large Language Model | Mô hình ngôn ngữ lớn (vd GPT, Claude) |
 | ML | Machine Learning | Học máy |
 | NLP | Natural Language Processing | Xử lý ngôn ngữ tự nhiên |
@@ -43,7 +43,7 @@
 | OSI | Open Systems Interconnection | Mô hình OSI 7 tầng — chuẩn phân tầng mạng |
 | OSS | Open Source Software | Phần mềm mã nguồn mở |
 | PaaS | Platform as a Service | Nền tảng điện toán đám mây dạng dịch vụ (vd Heroku) |
-| PERT | Program Evaluation and Review Technique | Kỹ thuật đánh giá và xem xét chương trình — công cụ lập lịch dự án |
+| PERT | Program Evaluation and Review Technique | Kỹ thuật lập kế hoạch và kiểm soát tiến độ dự án bằng sơ đồ mạng |
 | PM | Project Manager / Project Management | Quản lý dự án |
 | PR | Pull Request | Yêu cầu gộp code vào nhánh chính trên GitHub |
 | RSA | Rivest–Shamir–Adleman | Thuật toán mã hoá bất đối xứng phổ biến |
@@ -52,10 +52,10 @@
 | SQL | Structured Query Language | Ngôn ngữ truy vấn cơ sở dữ liệu quan hệ |
 | SRE | Site Reliability Engineer | Kỹ sư đảm bảo độ tin cậy hệ thống |
 | SSH | Secure Shell | Giao thức kết nối từ xa an toàn (cũng dùng để xác thực GitHub) |
-| SSW1 | 特定技能1号 (Specified Skilled Worker Level 1) | Visa "Kỹ năng đặc định loại 1" tại Nhật |
+| SSW1 | 特定技能1号 (Specified Skilled Worker Level 1) | Visa Kỹ năng đặc định loại 1 tại Nhật; thời hạn tối đa 5 năm |
 | TA | Teaching Assistant | Trợ giảng |
 | TCP | Transmission Control Protocol | Giao thức truyền tải có kết nối, đảm bảo thứ tự gói tin |
-| TLE | Time Limit Exceeded | Vượt quá giới hạn thời gian — lỗi thường gặp ở AtCoder |
+| TLE | Time Limit Exceeded | Hết giới hạn thời gian chạy — lỗi thường gặp khi code chưa tối ưu trên AtCoder |
 | UDP | User Datagram Protocol | Giao thức truyền tải không kết nối, nhanh hơn TCP |
 | UI | User Interface | Giao diện người dùng |
 | URL | Uniform Resource Locator | Địa chỉ tài nguyên trên web |

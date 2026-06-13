@@ -18,7 +18,7 @@ Họp định kỳ tháng 4 đã xong lúc 16h. Em Dũng cần gửi biên bản
 
 *3 ngày sau · chat Dũng · gửi tới CC chị Hương*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本** | 「ズンさん、先週の議事録、まだですか？」 |
 | **ズン** | 「すみません、明日送ります…」 |
@@ -32,7 +32,7 @@ Họp định kỳ tháng 4 đã xong lúc 16h. Em Dũng cần gửi biên bản
 
 *viết biên bản 17h, gửi 18h cùng ngày · email · body · tiếp · reply 翌朝*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** |  |
 | **ズン** | 「Subject: 【議事録】4月度月例会議 (4月28日)」 |

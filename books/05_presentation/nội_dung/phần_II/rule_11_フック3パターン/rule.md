@@ -16,7 +16,7 @@ Tuần trước pitch, Linh (intern) sắp pitch lần đầu cho 1 SME khách n
 
 ## ❌ Hội thoại XẤU — pick wrong pattern
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | 「ズン先輩、明日のプレゼン、ストーリー型でいきます。学生時代に手作業で在庫管理した話で…」 |
 | **ズン** | 「相手 50代の中小企業オーナー？大丈夫？ストーリー型は**滑ったら30秒で終わる**。データはある？」 |
@@ -29,7 +29,7 @@ Tuần trước pitch, Linh (intern) sắp pitch lần đầu cho 1 SME khách n
 
 ## ✅ Hội thoại TỐT — match pattern to audience
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「3パターンの選び方を教えるね【1】。**(A) ストーリー型**: rapport ある相手 + 自分の delivery 自信ある時。**(B) データ型**: 初対面 + 保守的相手。**(C) 質問型**: 相手が議論モードに入ってる時。」 |
 | **リン** | 「私の場合は B ですね。50代オーナー、初対面、保守的。」 |

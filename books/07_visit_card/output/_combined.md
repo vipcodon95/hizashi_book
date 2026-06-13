@@ -21,7 +21,7 @@ lang: vi
 | II | Tiếp khách tại VN / 来客対応 | 8 |
 | III | Thăm văn phòng khách JP / 訪問 | 8 |
 | IV | Tiếp đãi · Bữa ăn · Omiyage | 7 |
-| V | Tình huống đặc biệt + Self-improve | 5 |
+| V | Tình huống đặc biệt + Tự cải thiện | 5 |
 
 **Phụ lục:** A (script), B (vocab), C (BJT 35 câu), D (templates 5 mẫu).
 
@@ -90,7 +90,7 @@ Tháng 6/2026, đoàn 大垣 + 松本 + 中村 (3 người 白鷗) đến HCMC v
 📝 **Ghi chú:**
 - 【1】**「4条件チェック」** — name card check trước event tối thiểu chiều hôm trước. Sáng cùng ngày = quá muộn nếu cần in lại.
 - 【2】**人数×2倍 + buffer** — phòng trường hợp khách dẫn theo người chưa biết (interpreter/đồng nghiệp). 6枚 buffer = 1 lần exchange-fail mà không panic.
-- 【3】**誤字チェック senior** — Tuấn (tech lead) double-check. Một typo = nhớ mãi cả đời.
+- 【3】**誤字チェック senior** — Tuấn (tech lead) kiểm tra lại. Một typo = nhớ mãi cả đời.
 
 ---
 
@@ -122,7 +122,7 @@ Tháng 6/2026, đoàn 大垣 + 松本 + 中村 (3 người 白鷗) đến HCMC v
 | 誤字 | ごじ | Lỗi typo |
 | ご一行 | ごいっこう | Đoàn (formal) |
 | 印刷 | いんさつ | In ấn |
-| ダブルチェック | daburu chekku | Double check |
+| ダブルチェック | daburu chekku | Kiểm tra hai lượt |
 
 
 # Rule 02 — Nhận danh thiếp 2 tay / 名刺の受け取り方
@@ -219,7 +219,7 @@ Tháng 6/2026, đoàn 大垣 + 松本 + 中村 (3 người 白鷗) đến HCMC v
 
 ## Bối cảnh / 場面
 
-Sau khi nhận danh thiếp Ōgaki (rule 02), Dũng tự giới thiệu và trao danh thiếp cho Ōgaki. Đây là first contact, Dũng cần set the tone formal cho cả meeting.
+Sau khi nhận danh thiếp Ōgaki (rule 02), Dũng tự giới thiệu và trao danh thiếp cho Ōgaki. Đây là first contact, Dũng cần định tông formal cho cả meeting.
 
 ---
 
@@ -318,7 +318,7 @@ Sau khi Linh + Dũng đã exchange với Ōgaki riêng từng người (rule 02-
 
 ---
 
-## ✅ Hội thoại TỐT — right-give-low, left-receive-high
+## ✅ Hội thoại TỐT — tay phải trao thấp, tay trái nhận cao
 
 *tay phải chìa danh thiếp **của mình** xuống thấp【1】, tay trái sẵn nhận ở trên · cũng đồng thời: phải chìa thấp, trái nhận cao · sau khi nhận bằng tay trái, đảo sang phải, đỡ 2 tay nâng ngang ngực*
 
@@ -583,7 +583,7 @@ Tối cùng ngày event 大垣 + 松本 + 中村 visit, Dũng yêu cầu Linh x�
 📝 **Ghi chú:**
 - 【1】**24時間ルール** — não người quên 70% context sau 24h. Nhập trong cùng ngày = giữ chi tiết. Sau 3 ngày = generic mới.
 - 【2】**Memo bối cảnh 1 dòng/người** — không cần dài. Format: "Topic họ quan tâm + comment đặc trưng họ nói + follow-up nào". Đủ để 6 tháng sau gặp lại = nhớ ngay context.
-- 【3】**Specific quote** — "Phase 4 予算上限 1,500万円 で気にしている" >> "Phase 4 quan tâm" — câu cụ thể giúp follow-up email reference đúng = chứng minh "tôi nghe và nhớ".
+- 【3】**Câu trích dẫn cụ thể** — "Phase 4 予算上限 1,500万円 で気にしている" >> "Phase 4 quan tâm" — câu cụ thể giúp follow-up email reference đúng = chứng minh "tôi nghe và nhớ".
 
 ---
 
@@ -801,7 +801,7 @@ Sau bow đón ở lobby (rule 08), Dũng dẫn 3 khách 大垣 + 中村 + 松本
 - Đứng **giữa** thang máy / chắn cửa → đứng cạnh bảng nút
 - **Không gõ cửa** phòng họp dù phòng trống → luôn gõ 2 lần
 - Mở cửa rồi **bước vào trước** khách → giữ cửa, khách vào trước
-- **Im lặng** suốt đường đi → có thể chêm "weather" / "Tokyo はいかがでしたか" small talk nhẹ
+- **Im lặng** suốt đường đi → có thể chêm "thời tiết" / "Tokyo はいかがでしたか" small talk nhẹ
 
 ---
 
@@ -1225,7 +1225,7 @@ Sáng hôm sau visit (ngày D+1, 9:00). Linh đã làm xong 24h memo (rule 07). 
 | **リン** | 「承知いたしました。9:30 までに送信いたします。」 |
 
 📝 **Ghi chú:**
-- 【1】**3要素必須** — quote + action + personal note. Quote = chứng minh "tôi nghe và nhớ". Action = chuyển sang follow-up cụ thể. Personal note = build relationship (tránh feedback meeting purely).
+- 【1】**3要素必須** — quote + action + personal note. Quote = chứng minh "tôi nghe và nhớ". Hành động = chuyển sang follow-up cụ thể. Ghi chú cá nhân = xây dựng quan hệ (tránh feedback meeting purely).
 - 【2】**Senior 名義で送る** — email từ Hương (副部長) > từ Linh (intern). Khách Nhật weight email theo cấp người gửi.
 - 【3】**Linh credit trong body** — junior làm thực sự nhưng senior gửi → ghi "資料作成: リン" để Linh được visible với khách (build cho future).
 
@@ -1389,7 +1389,7 @@ Sáng hôm sau visit (ngày D+1, 9:00). Linh đã làm xong 24h memo (rule 07). 
 >
 > 訪問は『24h前確認・スーツ濃色ネクタイ・ルート+30分buffer・ICカード/現金1万・お土産』の5点を前日完了。
 >
-> **Liên quan:** rule 17 (5分前到着), rule 28 (omiyage), rule 34 (initial onsite survival kit).
+> **Liên quan:** rule 17 (5分前到着), rule 28 (omiyage), rule 34 (initial onsite bộ đồ thiết yếu).
 
 ---
 
@@ -1411,7 +1411,7 @@ Dũng + Tuấn lần đầu đi onsite Tokyo cho 白鷗 office tại Shinjuku, P
 | **ズン** | 「**白鷗本社は CFO 同席だぞ。スーツ濃紺+ネクタイ必須**。お土産は？」 |
 | **トゥアン** | 「えっ、お土産も？空港で買えばいいかな…」 |
 
-**Vì sao xấu:** D-1 17:00 mà chưa confirm địa chỉ + outfit + omiyage = miss multiple lanes. Mai sáng confirm = Tanaka PMO không kịp prep phòng + receptionist guide. Outfit "ジャケットだけ" với CFO meeting = lộ unprofessional.
+**Vì sao xấu:** D-1 17:00 mà chưa confirm địa chỉ + outfit + omiyage = miss multiple lanes. Mai sáng confirm = Tanaka PMO không kịp prep phòng + receptionist guide. Outfit "ジャケットだけ" với CFO meeting = lộ không chuyên nghiệp.
 
 ---
 
@@ -1429,7 +1429,7 @@ Dũng + Tuấn lần đầu đi onsite Tokyo cho 白鷗 office tại Shinjuku, P
 
 📝 **Ghi chú:**
 - 【1】**24h前確認メール** — confirm: 時間/人数/場所/agenda。Format: 「明日10時のお打ち合わせの件、ティエンファットのトゥアン・ズン2名でお伺いいたします。受付対応のご手配をお願いいたします」.
-- 【2】**Dress code** — JP 大手 default = suit đậm (濃紺 / 黒). Cravate đơn sắc. Áo trắng. Tránh: shirt màu / jacket-only / chinos.
+- 【2】**Dress code** — JP 大手 default = suit đậm (濃紺 / 黒). Cravate đơn sắc. Áo trắng. Tránh: shirt màu / chỉ áo vest / chinos.
 - 【3】**Route + 30 phút buffer** — Tokyo subway peak hour delay 5-15 phút thường. Calculate route + add 30 phút. Đến lobby trước 5-10 phút (rule 17).
 - 【4】**IC card + cash** — Suica/Pasmo charge sẵn. Cash 1 man yen cho taxi emergency. Card Visa nhiều shop nhỏ Tokyo không nhận.
 - 【5】**Omiyage** — chuẩn bị từ VN, KHÔNG mua tại sân bay Narita (giảm tâm). Brand uy tín, 6 hộp = 1 cho đoàn 大垣 + 1 cho 中村 + 1 cho 松本 + 1 cho 田中 + 2 buffer.
@@ -1732,7 +1732,7 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 | **トゥアン** | 「あ、すみません、ちょっと暑くて…」 |
 | **田中PMO** | 「(本来は入室前脱ぐマナー…)」 |
 
-**Vì sao xấu:** (1) Vào phòng họp với coat = mang "bụi đường" vào không gian. (2) Cởi sau khi ngồi = "tôi nóng/mệt" signaling = thiếu chuẩn bị. (3) Tanaka phải đề nghị cầm coat → host bị shift task không cần thiết.
+**Vì sao xấu:** (1) Vào phòng họp với coat = mang "bụi đường" vào không gian. (2) Cởi sau khi ngồi = phát tín hiệu "tôi nóng/mệt" = thiếu chuẩn bị. (3) Tanaka phải đề nghị cầm coat → host bị shift task không cần thiết.
 
 ---
 
@@ -1752,7 +1752,7 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 
 📝 **Ghi chú:**
 - 【1】**Cởi trước cửa phòng họp** — KHÔNG sau khi ngồi. Tốt nhất: cởi ngay trước cửa tòa nhà (nếu lobby ấm) hoặc cửa phòng họp (nếu hành lang lạnh).
-- 【2】**Gấp 2 lần, tay trái** — fold inside-out (mặt trong ra ngoài, mặt ngoài ẩn). Đặt trên cẳng tay trái (tay phải sẵn sàng bow / nhận danh thiếp / mở cửa).
+- 【2】**Gấp 2 lần, tay trái** — gấp úp vào trong (mặt trong ra ngoài, mặt ngoài ẩn). Đặt trên cẳng tay trái (tay phải sẵn sàng bow / nhận danh thiếp / mở cửa).
 - 【3】**Cầm coat lúc bow** — coat đã ở tay trái = bow / shake hand / mở cửa = tay phải tự do. Vào phòng không lúng túng.
 
 ---
@@ -1767,7 +1767,7 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 
 ## ⚠ Tránh
 
-- **Cởi sau khi ngồi** → "tôi mệt/nóng" signaling
+- **Cởi sau khi ngồi** → phát tín hiệu "tôi mệt/nóng"
 - Vào phòng họp **mặc coat** → mang "bụi đường" vào
 - Cầm coat **tay phải** → tay phải bị bận = không bow/shake hand được
 - **Đặt coat trên ghế** chưa được mời → đợi host chỉ chỗ (hanger / chair)
@@ -1970,7 +1970,7 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 
 # Rule 22 — Đi quanh văn phòng / nhà máy / 工場・社内案内
 
-> **Luận điểm.** Khi được tour văn phòng / nhà máy: **đi sau guide 1-2 bước**, **không tự mở cửa**, **không chụp ảnh chưa được phép**, **không sờ thiết bị / monitor**, **không vào phòng kế bên dù cửa mở**. Hỏi trước khi chụp ("**お写真撮ってもよろしいでしょうか**"). Tour thường có **NDA implicit** — ngay cả không ký giấy. Vi phạm = mất hợp đồng + reputation.
+> **Luận điểm.** Khi được tour văn phòng / nhà máy: **đi sau guide 1-2 bước**, **không tự mở cửa**, **không chụp ảnh chưa được phép**, **không sờ thiết bị / monitor**, **không vào phòng kế bên dù cửa mở**. Hỏi trước khi chụp ("**お写真撮ってもよろしいでしょうか**"). Tour thường có **NDA implicit** — ngay cả không ký giấy. Vi phạm = mất hợp đồng + uy tín.
 >
 > 社内案内は『ガイド後ろ1-2歩・勝手にドア開閉禁止・無断撮影禁止・機器/モニター非接触・隣室立入禁止』。撮影は事前許可必須。
 >
@@ -1991,7 +1991,7 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 | Speaker | Câu |
 |---------|-----|
 | **田中PMO** | 「こちらが Phase 3 開発チームです。」 |
-| **トゥアン** | *(cạch — chụp ảnh dev team)* |
+| **トゥアン** | *(cạch — chụp ảnh nhóm phát triển)* |
 | **田中PMO** | 「あの…撮影は、ちょっと…」 |
 | **ズン** | 「あ、この部屋は何ですか？」 |
 | **田中PMO** | 「そこは、別件のmeeting中で…」 |
@@ -2152,7 +2152,7 @@ Trụ sở 白鷗 Tokyo, meeting + tour Phase 3 kickoff vừa xong lúc 12:30. D
 
 # Phần IV — Tiếp đãi · Bữa ăn · Omiyage
 
-# Rule 24 — Mời khách dinner formal / 接待ディナーへの招待
+# Rule 24 — Mời khách bữa ăn tối trang trọng / 接待ディナーへの招待
 
 > **Luận điểm.** Tiếp khách (接待) cấp CFO không phải "rủ ăn tối". Combo bắt buộc: **đặt nhà hàng từ D-2 + phòng riêng + course chốt trước + hỏi dị ứng / kiêng / rượu + xe đưa đón 2 chiều**. Đặt cùng ngày = chỉ còn quán B = mất tầm. Để khách tự chọn menu = đẩy gánh nặng quyết định.
 >
@@ -2192,7 +2192,7 @@ Trụ sở 白鷗 Tokyo, meeting + tour Phase 3 kickoff vừa xong lúc 12:30. D
 | **ハーCTO** | 「完璧。当日はホスト側着席は私+ズン+トゥアン+フオン副部長。よろしく。」 |
 
 📝 **Ghi chú:**
-- 【1】**Phòng riêng + course chốt trước** = privacy + đẳng cấp. Có CFO = course top + wine pairing là chuẩn. Số người + 1 ghế buffer.
+- 【1】**Phòng riêng + course chốt trước** = privacy + đẳng cấp. Có CFO = course top + wine pairing là chuẩn. Số người + 1 ghế dự phòng.
 - 【2】**Confirm dị ứng / tôn giáo / không thích** qua Tanaka PMO trước D-3. Hỏi tại chỗ = thất lễ. Note rõ từng người.
 - 【3】**Default sake + vang + nonalc** → khách có lựa chọn. CFO không uống cũng không bị áp lực.
 - 【4】**Hotel ↔ restaurant 2 chiều** = chuẩn tiếp khách. Không để khách tự đặt xe — mất tầm host.
@@ -2298,7 +2298,7 @@ Phòng riêng nhà hàng Nhật Q1, dinner bắt đầu 18:30. Bên host: Hà CT
 | **中村CFO** | 「ご馳走になりました、ありがとうございました。」 |
 
 📝 **Ghi chú:**
-- 【1】**Host pre-decision告知** = khách khỏi phải chọn. Không mở menu trước mặt khách. Course đã chốt qua nhà hàng từ D-2.
+- 【1】**Thông báo quyết định trước của chủ nhà** = khách khỏi phải chọn. Không mở menu trước mặt khách. Course đã chốt qua nhà hàng từ D-2.
 - 【2】**「お注ぎいたします」** — cầm chai bằng 2 tay (hoặc tay phải + tay trái đỡ), nhãn hướng lên. Ly khách thì khách cầm 2 tay nâng đón.
 - 【3】**Host canh ly khách liên tục** = rót trước khi cạn. Hành động trước khi khách phải tự rót = score.
 - 【4】**「お会計はこちらで承りました」** — bill được host thanh toán bí mật trước khi tan tiệc, không rút ví trước mặt khách. Đây là tinh hoa tiếp khách Nhật.
@@ -2361,7 +2361,7 @@ Phòng riêng nhà hàng Q1, mọi người vừa ngồi xong lúc 18:35. Hà CT
 | **ズン** | （自分のglassを中村CFOのglassより高く合わせる、カチンと音）「乾杯！」 |
 | **中村CFO** | （沈黙、軽く頷く） |
 
-**Vì sao xấu:** (1) Uống trước khi có hô = phá thứ tự. (2) Ly cao hơn ly CFO = đảo trên dưới (signal "tôi cao hơn anh"). (3) Cụng mạnh kêu 'cốp' = vỡ ly + phản cảm. CFO im lặng = đã chấm điểm âm.
+**Vì sao xấu:** (1) Uống trước khi có hô = phá thứ tự. (2) Ly cao hơn ly CFO = đảo trên dưới (ngầm nói "tôi cao hơn anh"). (3) Cụng mạnh kêu 'cốp' = vỡ ly + phản cảm. CFO im lặng = đã chấm điểm âm.
 
 ---
 
@@ -2541,7 +2541,7 @@ Cuối bữa dinner Q1 lúc 21:00, sau trà kết thúc course. Dũng trao omiya
 📝 **Ghi chú:**
 - 【1】**「つまらないものですが」** — câu khiêm nhường cố định. Dù thật sự cao cấp vẫn nói "không đáng gì". Khoe giá / brand / độ hiếm = đại kỵ.
 - 【2】**Túi chỉ để mang** — lúc trao = lấy ra khỏi túi, hướng chữ về phía khách, đưa 2 tay. Túi giấy bỏ đi (kiểu Nhật).
-- 【3】**Giải thích = "xuất xứ + cách dùng"** thôi. Giá tuyệt đối không. "Cả nhà cùng dùng" = signal có thể chia trong cty.
+- 【3】**Giải thích = "xuất xứ + cách dùng"** thôi. Giá tuyệt đối không. "Cả nhà cùng dùng" = dấu hiệu có thể chia trong cty.
 - 【4】**Thứ tự**: CFO Nakamura → trưởng Ōgaki → PM Matsumoto → PMO Tanaka. Trao từng người, mỗi người đứng / nhổm dậy nhận bằng 2 tay.
 
 ---
@@ -2641,7 +2641,7 @@ Sáng hôm sau, PM Matsumoto bên 白鷗 sang văn phòng HCMC mang theo yokan T
 | **松本PM** | （少し戸惑い）「あ、まあ…」 |
 | **フオン副部長** | （後でリンに）「リン、お土産は『頂戴いたします』だけで、その場で開けない。値段は絶対 NG。」 |
 
-**Vì sao xấu:** (1) Mở quà tại chỗ = thất lễ (signal "tôi quan tâm vật chất hơn tấm lòng"). (2) Hỏi giá = NG cấp tối đa. (3) Khen "trông ngon" / "Toraya nổi tiếng" tại chỗ = nông. Đúng = mở sau giờ làm việc + thank-you mail trong 24h.
+**Vì sao xấu:** (1) Mở quà tại chỗ = thất lễ (tín hiệu "tôi quan tâm vật chất hơn tấm lòng"). (2) Hỏi giá = NG cấp tối đa. (3) Khen "trông ngon" / "Toraya nổi tiếng" tại chỗ = nông. Đúng = mở sau giờ làm việc + thank-you mail trong 24h.
 
 ---
 
@@ -2660,7 +2660,7 @@ Sáng hôm sau, PM Matsumoto bên 白鷗 sang văn phòng HCMC mang theo yokan T
 📝 **Ghi chú:**
 - 【1】**「頂戴いたします」** — câu nhận cố định, formal hơn 「ありがとう」. Đi kèm bow 30°. Nhổm dậy nhẹ nếu đang ngồi.
 - 【2】**Đặt 2 tay → đặt lên phía 上座 (kamiza) của bàn đàng hoàng**. Để dưới sàn = NG. Để góc bàn lăn lóc = NG.
-- 【3】**「皆でいただきます」** = báo sẽ chia → tôn trọng ý người gửi ('cả nhà mình'). Mang về nhà ăn riêng = signal sai.
+- 【3】**「皆でいただきます」** = báo sẽ chia → tôn trọng ý người gửi ('cả nhà mình'). Mang về nhà ăn riêng = dấu hiệu sai.
 - 【4】**Mail cảm ơn trong 24h** = follow-up chính thức. Bình luận chất lượng viết trong mail tử tế, không phải tại bàn.
 
 ---
@@ -2675,7 +2675,7 @@ Sáng hôm sau, PM Matsumoto bên 白鷗 sang văn phòng HCMC mang theo yokan T
 
 ## ⚠ Tránh
 
-- Mở quà tại chỗ — signal "quan tâm vật chất"
+- Mở quà tại chỗ — tín hiệu "quan tâm vật chất"
 - Hỏi giá / nơi mua — taboo cấp cao nhất
 - Bình luận chất lượng "trông ngon quá" tại bàn — nông
 - Nhận 1 tay / để dưới chân / để bừa lên bàn — thất lễ
@@ -2736,10 +2736,10 @@ Sáng sau dinner Q1 lúc 8:30. Dũng cần gửi thank-you mail tới Ōgaki, Ma
 | **ハーCTO** | 「完璧。8時に送信して、午後にハーから中村CFOへ補足の謝意メールも送る。」 |
 
 📝 **Ghi chú:**
-- 【1】**Lý tưởng = sáng hôm sau vừa đến cty 8-9h** — trước khi sang ngày mới = tươi + signal chỉn chu. 24h là giới hạn cứng.
+- 【1】**Lý tưởng = sáng hôm sau vừa đến cty 8-9h** — trước khi sang ngày mới = tươi + dấu hiệu chỉn chu. 24h là giới hạn cứng.
 - 【2】**To = cá nhân từng người. CC = sếp mình + thư ký khách / Tanaka PMO. BCC = đại kỵ** — khách Nhật check header thấy BCC sẽ giảm điểm.
-- 【3】**Trích 1-2 điểm cụ thể từ buổi dinner** = signal "tôi nghe kỹ". Cá nhân hóa đáng nhớ → tăng nhiệt. Mỗi mail có 1-2 chi tiết riêng cho người đó.
-- 【4】**Hứa hẹn lần sau với timeline cụ thể** ("tháng 5", "mùa hoa anh đào") = signal muốn duy trì quan hệ.
+- 【3】**Trích 1-2 điểm cụ thể từ buổi dinner** = dấu hiệu "tôi nghe kỹ". Cá nhân hóa đáng nhớ → tăng nhiệt. Mỗi mail có 1-2 chi tiết riêng cho người đó.
+- 【4】**Hứa hẹn lần sau với timeline cụ thể** ("tháng 5", "mùa hoa anh đào") = tín hiệu muốn duy trì quan hệ.
 
 ---
 
@@ -2757,7 +2757,7 @@ Sáng sau dinner Q1 lúc 8:30. Dũng cần gửi thank-you mail tới Ōgaki, Ma
 - BCC nhiều người chung 1 mail — mất cá nhân hóa
 - Chỉ 1 dòng "hôm qua cảm ơn anh" — không có nhiệt
 - Không trích chủ đề cụ thể — giống form mail
-- Hẹn lần sau mơ hồ "khi có dịp" — không có signal duy trì
+- Hẹn lần sau mơ hồ "khi có dịp" — không có tín hiệu duy trì
 
 ---
 
@@ -2946,7 +2946,7 @@ Tối trước khi đi onsite Tokyo, chị Hương phó phòng demo 4 loại bow
 
 > **「お辞儀は会釈15°・敬礼30°・最敬礼45°・謝罪90°の4種類。角度=温度+敬意+反省深さの signal。」**
 >
-> *Bow có 4 loại: eshaku 15°, keirei 30°, saikeirei 45°, xin lỗi 90°. Góc cúi = signal nhiệt + kính trọng + độ ăn năn.*
+> *Bow có 4 loại: eshaku 15°, keirei 30°, saikeirei 45°, xin lỗi 90°. Góc cúi = tín hiệu nhiệt + kính trọng + độ ăn năn.*
 
 ---
 
@@ -2975,7 +2975,7 @@ Tối trước khi đi onsite Tokyo, chị Hương phó phòng demo 4 loại bow
 
 # Rule 33 — Tránh culture clash VN-JP / 文化衝突の回避
 
-> **Luận điểm.** 3 thói quen Việt Nam xung đột thẳng với kiểu Nhật khi tiếp khách: **(1) "Em tự rót cho em" → kiểu Nhật phải rót cho nhau (相互ケア), (2) "Để em trả" với người mời → mất face người mời, (3) "Đáp lễ quà ngay" → signal "tôi nợ" tạo gánh nặng**. Đúng cách = nhường, hẹn lần sau mình mời lại / đáp lễ ở dịp khác.
+> **Luận điểm.** 3 thói quen Việt Nam xung đột thẳng với kiểu Nhật khi tiếp khách: **(1) "Em tự rót cho em" → kiểu Nhật phải rót cho nhau (相互ケア), (2) "Để em trả" với người mời → mất face người mời, (3) "Đáp lễ quà ngay" → tín hiệu "tôi nợ" tạo gánh nặng**. Đúng cách = nhường, hẹn lần sau mình mời lại / đáp lễ ở dịp khác.
 >
 > VN流『自分でやる/俺が払う/即返し』 vs JP『相互pour/招待者支払い/別日返し』。後者を follow が正解。
 >
@@ -3000,7 +3000,7 @@ Ngày 3 onsite Tokyo buổi tối, Tanaka PMO + PM Matsumoto rủ Dũng + Tuấn
 | **田中PMO** | 「あ、今日は私が誘ったので…」 (face損なう) |
 | **ズン** | （鞄から即お返しのgiftを取り出す）「これ、お返しに…」 |
 
-**Vì sao xấu:** (1) Tự rót cho mình = phá kiểu Nhật chăm sóc lẫn nhau (Matsumoto đề xuất rót cho mình mà bị từ chối). (2) Thấy bill rút thẻ trước khi người mời rút = mất mặt người mời (Tanaka PMO). (3) Đáp lễ quà ngay = signal "tôi nợ phải trả ngay" = tạo cảm giác gánh nặng.
+**Vì sao xấu:** (1) Tự rót cho mình = phá kiểu Nhật chăm sóc lẫn nhau (Matsumoto đề xuất rót cho mình mà bị từ chối). (2) Thấy bill rút thẻ trước khi người mời rút = mất mặt người mời (Tanaka PMO). (3) Đáp lễ quà ngay = tín hiệu "tôi nợ phải trả ngay" = tạo cảm giác gánh nặng.
 
 ---
 
@@ -3021,7 +3021,7 @@ Ngày 3 onsite Tokyo buổi tối, Tanaka PMO + PM Matsumoto rủ Dũng + Tuấn
 📝 **Ghi chú:**
 - 【1】**Đảo ngược "mình tự rót cho mình" kiểu VN**. Kiểu Nhật = chăm sóc lẫn nhau: rót cho đối phương → đối phương rót lại cho mình. Đó là nhịp相互ケア.
 - 【2】**Giữ thể diện người mời** — kìm "để em trả" kiểu VN, để người mời trả theo kiểu Nhật. Thay vào đó **đề xuất lần sau mình mời lại** = win-win.
-- 【3】**Đáp lễ ngay = signal "tôi nợ phải trả"** → kiểu Nhật là cách thời gian, "lần sau" / "tháng sau" = return tự nhiên không tạo gánh nặng tâm lý.
+- 【3】**Đáp lễ ngay = tín hiệu "tôi nợ phải trả"** → kiểu Nhật là cách thời gian, "lần sau" / "tháng sau" = return tự nhiên không tạo gánh nặng tâm lý.
 - 【4】**「ご馳走になりました」** — câu cố định lúc tạm biệt người mời. Sáng hôm sau gửi mail cảm ơn lần nữa = hoàn hảo.
 
 ---
@@ -3038,7 +3038,7 @@ Ngày 3 onsite Tokyo buổi tối, Tanaka PMO + PM Matsumoto rủ Dũng + Tuấn
 
 - Tự rót cho ly mình khi đối phương đề nghị rót — phá相互ケア
 - Tranh trả tiền với người mời — mất face người mời
-- Đáp lễ quà / bữa ăn ngay trong cùng dịp — signal "tôi nợ"
+- Đáp lễ quà / bữa ăn ngay trong cùng dịp — tín hiệu "tôi nợ"
 - Từ chối mạnh "không không em không nhận đâu" — phá thiện chí
 - Quên gửi thank-you mail sáng hôm sau — mất follow-up
 
@@ -3057,9 +3057,9 @@ Ngày 3 onsite Tokyo buổi tối, Tanaka PMO + PM Matsumoto rủ Dũng + Tuấn
 | 相互 | そうご | Lẫn nhau / hỗ tương |
 
 
-# Rule 34 — Onsite Nhật lần đầu — survival kit / 初訪問 Survival Kit
+# Rule 34 — Onsite Nhật lần đầu — bộ đồ thiết yếu / 初訪問 Survival Kit
 
-> **Luận điểm.** Onsite Tokyo lần đầu = đừng nghĩ "tới rồi mua". Phân biệt rõ **thứ phải xong tại VN** vs **thứ mua tại Nhật**. 6 nhóm: **cash · IC card · suit · omiyage · thời tiết · Wi-Fi**. Sai nhớ: **omiyage / cash / mạng = bắt buộc xong tại VN**. Đến Narita không có cash = không mua được Suica = không đi taxi được = thảm họa ngày 1.
+> **Luận điểm.** Onsite Tokyo lần đầu = đừng nghĩ "tới rồi mua". Phân biệt rõ **thứ phải xong tại VN** vs **thứ mua tại Nhật**. 6 nhóm: **tiền mặt · IC card · vest · omiyage · thời tiết · Wi-Fi**. Sai nhớ: **omiyage / tiền mặt / mạng = bắt buộc xong tại VN**. Đến Narita không có tiền mặt = không mua được Suica = không đi taxi được = thảm họa ngày 1.
 >
 > Survival Kit = 現金・IC card・スーツ・お土産・天気・Wifi の6カテゴリ。VN出発前 vs 現地調達 を区別。
 >
@@ -3069,7 +3069,7 @@ Ngày 3 onsite Tokyo buổi tối, Tanaka PMO + PM Matsumoto rủ Dũng + Tuấn
 
 ## Bối cảnh / 場面
 
-D-2 trước onsite Tokyo, Hải (lần đầu đi onsite) check survival kit với Tuấn (lead). Hải nghĩ "tới Nhật mua cũng được" → Tuấn phải sửa lại từng món.
+D-2 trước onsite Tokyo, Hải (lần đầu đi onsite) check bộ đồ thiết yếu với Tuấn (lead). Hải nghĩ "tới Nhật mua cũng được" → Tuấn phải sửa lại từng món.
 
 ---
 
@@ -3081,7 +3081,7 @@ D-2 trước onsite Tokyo, Hải (lần đầu đi onsite) check survival kit v�
 | **ハイ** | 「現金は現地ATMで引きます。スーツは spray でいいかな。お土産は Narita 空港で見ます。」 |
 | **トゥアンリーダー** | 「全部NG。①日本ATMはVN cardを多く拒否、空港着いた時点で taxi 必要 ②sprayでwrinkleは取れない ③Narita のお土産=brand微妙+brand不揃い。Survival kit 整理しよう。」 |
 
-**Vì sao xấu:** (1) Đến không có tiền mặt = ATM Nhật từ chối thẻ VN nhiều = không mua được IC card sân bay = không đi taxi được. (2) Không phòng nhăn suit = ngày đầu mất tầm. (3) Omiyage chưa có, định mua sân bay = brand không ổn, không đồng bộ — pattern fail giống rule_16.
+**Vì sao xấu:** (1) Đến không có tiền mặt = ATM Nhật từ chối thẻ VN nhiều = không mua được IC card sân bay = không đi taxi được. (2) Không phòng nhăn vest = ngày đầu mất tầm. (3) Omiyage chưa có, định mua sân bay = brand không ổn, không đồng bộ — pattern fail giống rule_16.
 
 ---
 
@@ -3097,7 +3097,7 @@ D-2 trước onsite Tokyo, Hải (lần đầu đi onsite) check survival kit v�
 📝 **Ghi chú:**
 - 【1】**Cash 5 man yen — đổi trước ở VN** (sân bay / ngân hàng). Đến Narita mua được IC card + đi taxi luôn. ATM Nhật hay từ chối thẻ VN.
 - 【2】**Suica mua tại quầy xanh JR Narita** (deposit 2,000 yên + 3,000 yên dư). iPhone hỗ trợ thì setup eSIM Suica trước càng tốt.
-- 【3】**Hanger + kỹ thuật xếp suit trong vali** (gập tay áo vào trong tránh nhăn). Đến hotel treo lên + steam mini ngay.
+- 【3】**Hanger + kỹ thuật xếp vest trong vali** (gập tay áo vào trong tránh nhăn). Đến hotel treo lên + máy hấp nhỏ ngay.
 - 【4】**Omiyage chuẩn bị từ VN** — cà phê / trà / bánh brand cao cấp, đóng gói riêng. Mua tại Narita = mất tâm (trùng rule 16).
 - 【5】**Tokyo tháng 4-5 sáng tối lạnh + mưa bất ngờ** → ô gấp + cardigan / áo khoác mỏng cần ngay từ chiều ngày 1.
 - 【6】**Pocket Wi-Fi / eSIM ký trước khi rời VN** — sân bay cũng có nhưng ngày đầu cần online map + Slack ngay = tránh sự cố.
@@ -3108,7 +3108,7 @@ D-2 trước onsite Tokyo, Hải (lần đầu đi onsite) check survival kit v�
 
 > **「Survival Kit は現金・IC card・スーツ・お土産・天気・Wifi の6カテゴリで整理。」**
 >
-> *Survival kit chia 6 nhóm: cash, IC card, suit, omiyage, thời tiết, Wi-Fi.*
+> *Bộ đồ thiết yếu chia 6 nhóm: tiền mặt, IC card, vest, omiyage, thời tiết, Wi-Fi.*
 
 ---
 
@@ -3118,7 +3118,7 @@ D-2 trước onsite Tokyo, Hải (lần đầu đi onsite) check survival kit v�
 - Mua omiyage tại Narita — brand không ổn, mất tâm
 - Suit chỉ xịt spray chống nhăn — không hết được
 - Đặt Wi-Fi tại Narita — ngày đầu cần map + Slack ngay khi xuống máy bay
-- Quên hanger / steamer mini — sáng D1 mặc suit nhăn
+- Quên hanger / máy hấp nhỏ — sáng D1 mặc vest nhăn
 
 ---
 
@@ -3186,7 +3186,7 @@ D-2 trước onsite Tokyo, Hải (lần đầu đi onsite) check survival kit v�
 | 残高 | ざんだか | Số dư |
 
 
-# Rule 35 — Self-review ceremony etiquette / 振り返り
+# Rule 35 — Tự đánh giá ceremony etiquette / 振り返り
 
 > **Luận điểm.** Sau mỗi onsite / 接待 / event quan trọng, **Hizashi式 self-review = 5 mục cấu trúc**: **(1) 3 điểm tốt (kiểu pattern tái lặp được), (2) 3 vấn đề (format "ai + làm gì + kết quả"), (3) 3 action cải thiện (CHỦ + DEADLINE bắt buộc), (4) phát hiện mới (phrase / nghi thức / khách trait), (5) lưu hồ sơ Notion + CRM 2 nơi**. "Lần sau em cẩn thận hơn" = không phải self-review.
 >
@@ -3210,7 +3210,7 @@ Sau onsite Tokyo + final ceremony, về HCMC chiều thứ 6 hôm sau. Chị Hư
 | **ズン** | 「全体的にOK でした。次は気をつけます。」 |
 | **フオン副部長** | 「それじゃ振り返りにならない。具体的に良かった3点・課題3点・改善 action 3点・新発見・記録、5項目で文章化して。」 |
 
-**Vì sao xấu:** (1) Không self-review = lần sau lại sai y chang. (2) "Lần sau em cẩn thận hơn" = không có action cụ thể, không ai chịu trách nhiệm, không có deadline. (3) Không log lại từng lỗi = team không học được gì = mỗi onsite reset từ 0.
+**Vì sao xấu:** (1) Không self-review = lần sau lại sai y chang. (2) "Lần sau em cẩn thận hơn" = không có action cụ thể, không ai chịu trách nhiệm, không có deadline. (3) Không ghi lại từng lỗi = team không học được gì = mỗi onsite reset từ 0.
 
 ---
 
@@ -3252,7 +3252,7 @@ Sau onsite Tokyo + final ceremony, về HCMC chiều thứ 6 hôm sau. Chị Hư
 - Kết "lần sau em cẩn thận hơn" — không có action cụ thể
 - Chỉ ghi điểm tốt — không học được vấn đề
 - Action không có chủ + deadline — không bao giờ thực hiện
-- Self-review chỉ qua lời nói, không văn bản — 1 tháng sau quên hết
+- Tự đánh giá chỉ qua lời nói, không văn bản — 1 tháng sau quên hết
 - Lưu 1 nơi (chỉ Notion / chỉ CRM) — chia tách team learning vs customer history
 
 ---
@@ -3698,7 +3698,7 @@ vấn đề + action đã giải quyết chưa.
 
 ## Phần IV — Tình huống khó
 
-### Rule 24 — Mời khách dinner formal / 接待ディナーへの招待
+### Rule 24 — Mời khách bữa ăn tối trang trọng / 接待ディナーへの招待
 
 **ズン (em Dũng):**
 
@@ -3867,7 +3867,7 @@ vấn đề + action đã giải quyết chưa.
 
 > 🇯🇵 「角度=温度+敬意+反省深さの signal。」
 >
-> 🇻🇳 *Góc cúi = signal nhiệt + kính trọng + độ ăn năn.*
+> 🇻🇳 *Góc cúi = tín hiệu nhiệt + kính trọng + độ ăn năn.*
 >
 > 📝 _角度の意味_
 
@@ -3891,18 +3891,18 @@ vấn đề + action đã giải quyết chưa.
 > 📝 _即返し回避 + 将来 return 約束_
 
 
-### Rule 34 — Onsite Nhật lần đầu — survival kit / 初訪問 Survival Kit
+### Rule 34 — Onsite Nhật lần đầu — bộ đồ thiết yếu / 初訪問 Survival Kit
 
 **トゥアンリーダー (anh Tuấn):**
 
 > 🇯🇵 「Survival Kit は現金・IC card・スーツ・お土産・天気・Wifi の6カテゴリで整理。」
 >
-> 🇻🇳 *Survival kit chia 6 nhóm: cash, IC card, suit, omiyage, thời tiết, Wi-Fi.*
+> 🇻🇳 *Bộ đồ thiết yếu chia 6 nhóm: tiền mặt, IC card, vest, omiyage, thời tiết, Wi-Fi.*
 >
 > 📝 _6カテゴリ summary_
 
 
-### Rule 35 — Self-review ceremony etiquette / 振り返り
+### Rule 35 — Tự đánh giá ceremony etiquette / 振り返り
 
 **フオン副部長 (chị Hương):**
 
@@ -3944,7 +3944,7 @@ vấn đề + action đã giải quyết chưa.
 | 誤字 | ごじ | Lỗi typo | rule_01 |
 | ご一行 | ごいっこう | Đoàn (formal) | rule_01 |
 | 印刷 | いんさつ | In ấn | rule_01 |
-| ダブルチェック | daburu chekku | Double check | rule_01 |
+| ダブルチェック | daburu chekku | Kiểm tra hai lượt | rule_01 |
 | 頂戴いたします | ちょうだいいたします | Xin nhận (kính ngữ khi nhận đồ) | rule_02 |
 | 受け取る | うけとる | Nhận | rule_02 |
 | 両手 | りょうて | Hai tay | rule_02 |
@@ -4463,7 +4463,7 @@ vấn đề + action đã giải quyết chưa.
 - 🇯🇵 起立 → 正式bow → ドア前で再bow が日本式退室の3点セット。最後の印象=最大記憶。
 - 🇻🇳 Đứng dậy → bow chính thức → trước cửa bow lần 2 = combo退室 Nhật. Ấn tượng cuối ăn sâu nhất.
 
-### J3.15 (từ rule_24 — Mời khách dinner formal)
+### J3.15 (từ rule_24 — Mời khách bữa ăn tối trang trọng)
 
 **Skill:** 場面把握
 
@@ -4531,7 +4531,7 @@ vấn đề + action đã giải quyết chưa.
 - 🇯🇵 CFOクラスの初対面は45°最敬礼。30°だと軽すぎ、90°は謝罪専用。
 - 🇻🇳 Lần đầu gặp CFO = 45° saikeirei. 30° hơi nhẹ, 90° chỉ dùng xin lỗi.
 
-### J3.19 (từ rule_34 — Onsite Nhật lần đầu — survival kit)
+### J3.19 (từ rule_34 — Onsite Nhật lần đầu — bộ đồ thiết yếu)
 
 **Skill:** 場面把握
 
@@ -4806,7 +4806,7 @@ vấn đề + action đã giải quyết chưa.
 - 🇯🇵 VN流『自分でやる/俺が払う/即返し』は日本式相互ケアと衝突。譲って次回 host を申し出るのが正解。
 - 🇻🇳 Kiểu VN 'tự làm/để em trả/đáp lễ ngay' xung đột với kiểu Nhật chăm sóc lẫn nhau. Đúng là nhường, hẹn lần sau mình mời.
 
-### J2.16 (từ rule_35 — Self-review ceremony etiquette)
+### J2.16 (từ rule_35 — Tự đánh giá ceremony etiquette)
 
 **Skill:** 場面把握
 
@@ -4963,7 +4963,7 @@ E-mail: 〇〇
 
 □ ④ Check typo
    - Tự check
-   - Senior (Tech Lead / Phó phòng) double-check
+   - Senior (Tech Lead / Phó phòng) kiểm tra hai lượt
    - Ngày giờ + người check: ___
 
 □ Check sáng ngày G (trước khi xuất phát)

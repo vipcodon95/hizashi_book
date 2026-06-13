@@ -18,7 +18,7 @@
 
 *dẫn vào dev room · rút phone, chụp luôn không hỏi · thoáng cứng người · thấy cửa phòng kế bên đang mở, đi vào · vội theo · đã thấy whiteboard có thông tin client khác*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中PMO** | 「こちらが Phase 3 開発チームです。」 |
 | **トゥアン** | *(cạch — chụp ảnh nhóm phát triển)* |
@@ -35,7 +35,7 @@
 
 *dẫn ra hành lang · đi sau Tanaka 1-2 bước, mắt quan sát nhưng KHÔNG sờ gì · mở cửa dev room · trước khi rút phone · chụp ảnh group, không zoom mặt · đi qua phòng cửa mở · theo Tanaka, KHÔNG nhìn vào, KHÔNG bước gần · đến cửa sổ · quan sát cảnh, KHÔNG chụp khi chưa hỏi*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中PMO** | 「こちらが Phase 3 開発チームのフロアです。」 |
 | **ズン + トゥアン**【1】 | *(im lặng theo)* |

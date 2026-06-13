@@ -18,7 +18,7 @@ Anh Ōgaki đột ngột yêu cầu giảm giá 15% ngay trong họp. Em Dũng k
 
 *không có authority nhưng muốn close deal · về công ty, chị Hương phát hiện 15% = lỗ → yêu cầu Dũng renegotiate · khi Dũng quay lại đàm*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「もし15%の値引きが可能であれば、本日中に契約を進めたいのですが。」 |
 | **ズン** | 「はい、それで問題ありません！」 |
@@ -32,7 +32,7 @@ Anh Ōgaki đột ngột yêu cầu giảm giá 15% ngay trong họp. Em Dũng k
 
 *tiếp*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「もし15%の値引きが可能であれば、本日中に契約を進めたいのですが。」 |
 | **ズン** | 「ご提案いただきありがとうございます。15%という大きなご要望でございますので、一度持ち帰って社内で検討させていただけませんでしょうか【1】？」 |

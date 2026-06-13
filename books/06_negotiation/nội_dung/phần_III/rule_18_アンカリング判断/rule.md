@@ -18,7 +18,7 @@ Sau soft transition (rule 17), Dũng vào phase 価格. Tuấn whisper "để h�
 
 *小声 · 同意 · 困*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアン** | 「ズン、こっちが先に値段出すと足元見られる。先に向こうに言わせよう。」 |
 | **ズン** | 「では大垣様、Phase 3 の **予算感はおいくらでしたら検討可能でしょうか**？」 |
@@ -33,7 +33,7 @@ Sau soft transition (rule 17), Dũng vào phase 価格. Tuấn whisper "để h�
 
 *deck slide 価格表 · 沈黙2秒 · 沈黙保持 5秒*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「価格について、本日 3 段階でご提案させていただいております。**まずは Better tier — ¥18M、Anchor として Best tier ¥24M も併せて**【1】、ご検討の materialとしてお持ちしました。」 |
 | **ズン** | 「**¥18M の根拠は**、Phase 2 比 +24%、AI レコメンドエンジンの開発工数 + 専任 PM + SLA 99.9% を含めた構成。**御社の +¥80M GMV インパクトに対し ROI 4.4 倍**【2】に位置します。」 |

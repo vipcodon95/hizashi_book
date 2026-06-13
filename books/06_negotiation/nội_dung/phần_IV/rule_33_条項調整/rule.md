@@ -18,7 +18,7 @@ Contract draft v1 Tiên Phát gửi 大垣. Bên 白鷗 legal trả về v2 vớ
 
 *legal redline 共有 · 早く close したい · 急に call*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「ズン様、弊社 legal からの修正版です。**indemnity は無制限**、IP は **当社帰属** でお願いします。」 |
 | **ズン** | 「承知しました、それで進めます。」 |
@@ -33,7 +33,7 @@ Contract draft v1 Tiên Phát gửi 大垣. Bên 白鷗 legal trả về v2 vớ
 
 *沈黙 5秒 → メモ*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「indemnity 無制限、IP 当社帰属でお願いします。」 |
 | **ズン** | 「ご要望承知しました。**ただし**【1】**、indemnity 無制限は弊社 legal および取締役会上限規定 (年契約額) を超えるため、本日中に持ち帰り検討させてください**。」 |

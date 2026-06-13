@@ -18,7 +18,7 @@
 
 *dẫn vào, đi ra · ngồi luôn vào ghế 上座 ở giữa, xa cửa · rút phone, scroll · mở laptop, gõ ầm ầm · bước vào, thấy 2 người đang ngồi 上座 + phone + laptop*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中PMO** | 「中村CFOが間もなく来ます。お掛けになってお待ちください。」 |
 | **トゥアン** | 「お、いい席だね。」 |
@@ -34,7 +34,7 @@
 
 *dẫn vào, chỉ tay · quan sát layout: 上座 xa cửa = chỗ Nakamura, 下座 gần cửa = chỗ mình · thoáng cười · ngồi 下座 cạnh cửa, lưng thẳng, tay trên gối · KHÔNG phone, KHÔNG laptop · bước vào sau 5 phút · đứng dậy ngay, bow 30°*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中PMO** | 「**中村CFOが間もなく来ます**。お掛けになってお待ちください。」 |
 | **ズン** | 「**ありがとうございます。下座でお待ちいたします**【1】。」 |

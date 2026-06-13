@@ -41,7 +41,7 @@ Tham khảo. 1 scenario chính + 1 scenario "khi không biết nói gì" rescue.
 
 *taxi với Hiroshi-san · follow-up #1 · rạng rỡ*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「広島さん、ご出身は確か広島でしたよね?」 |
 | **広島** | 「そう、広島の安佐南区。」 |
@@ -58,7 +58,7 @@ Tham khảo. 1 scenario chính + 1 scenario "khi không biết nói gì" rescue.
 
 *Dũng + Sato (60t senior, lần đầu chính thức) trong hành lang đợi họp 5 phút · im lặng ngượng — cần mở topic ngay, rút #1 thời tiết · chuyển sang #2 食 · eyes light · chuyển sang #6 sport · 他のメンバー到着、自然に商談モードへ*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「**今朝は冷えますね**。福岡もこんな感じでしたか?」 |
 | **佐藤** | 「いや、福岡はまだ暖かい方ばい。10度切ることないけんね。」 |

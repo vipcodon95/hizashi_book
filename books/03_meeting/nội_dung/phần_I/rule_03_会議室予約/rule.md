@@ -18,7 +18,7 @@ Em Linh (mới gia nhập, được Dũng mentor) được giao đặt phòng + 
 
 *当日朝、部屋に入って*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | 「ズン先輩、火曜の会議室、3階の会議室Aを押さえました。」 |
 | **ズン** | 「OK、設備は確認した？プロジェクター、ケーブル、Wi-Fi…」 |
@@ -31,7 +31,7 @@ Em Linh (mới gia nhập, được Dũng mentor) được giao đặt phòng + 
 
 ## ✅ Hội thoại TỐT — checklist 7 mục đầy đủ
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | 「ズン先輩、火曜の会議室Aを予約し、設備チェックリストも完了しました【1】。」 |
 | **ズン** | 「ありがとう。プロジェクター・HDMI・Wi-Fiは？」 |

@@ -25,7 +25,7 @@ Tháng 5/2026, dinner Phase 4 closing đang ở giai đoạn cuối 一次会 iz
 
 *21:30, 一次会 đang đóng · scan bàn nhanh — Tuấn OK, Tanaka OK, Matsumoto đã đặt taxi nói "今日はここで"… · rời · escort Matsumoto ra cửa, sau đó quay lại bàn · quay vào*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「ズン、二次会どうする?この近くに俺のお気に入りのバーがあるんだが…」 |
 | **ズン** | 「**松本さんは今日はここまで**って先ほど。**残り4名で二次会、ぜひ**お願いします。」 |
@@ -43,7 +43,7 @@ Tháng 5/2026, dinner Phase 4 closing đang ở giai đoạn cuối 一次会 iz
 
 *ベルトラム, 22:00, không khí trầm hơn izakaya · order whisky cho cả bàn — tone thân hơn · kể chuyện riêng tư hơn · listen — không cướp lời · nodes carefully · thân thiết*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「ズンも飲める?山崎12年で乾杯。」 |
 | **ズン** | 「ありがとうございます。ウイスキーは詳しくないんですが、是非。」 |
@@ -63,7 +63,7 @@ Tháng 5/2026, dinner Phase 4 closing đang ở giai đoạn cuối 一次会 iz
 
 *23:00, ベルトラム, Tuấn đã có vợ + con nhỏ + sáng mai bay sớm · carefully — turn to Ōgaki · turn to Tanaka, Dũng · stand up, escort to door · out at door*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアン** | 「大垣さん、本当に申し訳ないんですが、**明日6時の便で大阪へ**戻ることになっておりまして、**先に失礼させていただいてもよろしいでしょうか?**」【1】 |
 | **大垣** | 「あ、明日朝早いか。OK、お疲れ様。気をつけて。」 |
@@ -83,7 +83,7 @@ Tháng 5/2026, dinner Phase 4 closing đang ở giai đoạn cuối 一次会 iz
 
 *23:50, 二次会 vừa chốt · check Ōgaki energy · 00:20, ラーメン店, ăn nhanh 15 phút · slurp xong · stand outside, escort senior to taxi · in taxi, smile*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「最後、ラーメン行く?銀座の『**むぎとオリーブ**』、24時間営業や。」 |
 | **田中** | 「行きましょう!」 |

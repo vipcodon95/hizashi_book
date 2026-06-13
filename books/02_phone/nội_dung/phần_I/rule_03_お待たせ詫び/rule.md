@@ -30,7 +30,7 @@ Anh Matsumoto gọi nhiều lần, có khi line bận, có khi em Dũng để ho
 
 > 📞 *(em Dũng bốc máy sau khi để khách hold 2 phút)*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「お待たせしました、ズンです。」 |
 
@@ -42,7 +42,7 @@ Anh Matsumoto gọi nhiều lần, có khi line bận, có khi em Dũng để ho
 
 > 📞 *(sau hold 2 phút)*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「大変お待たせし、申し訳ございません【1】。ティエンファット社のズンでございます。」 |
 | **松本PM** | 「いえ、こちらこそ。」 |
@@ -56,7 +56,7 @@ Anh Matsumoto gọi nhiều lần, có khi line bận, có khi em Dũng để ho
 
 > Khách phải gọi 3 lần mới thông
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「大変お待たせし、誠に申し訳ございません。何度もお電話いただきありがとうございます。」 |
 

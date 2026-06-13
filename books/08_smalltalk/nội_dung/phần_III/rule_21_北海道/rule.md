@@ -24,7 +24,7 @@ Tháng 5/2026, Dũng + chị Hương được mời lên **Sapporo offsite** 2 n
 
 ### 📍 Scenario 1 — Trước khi đến Hokkaido (chuẩn bị, taxi sân bay Haneda)
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「中村CFO、いよいよ明日札幌ですね。私、北海道は初めてなので楽しみで…」 |
 | **nakamura_cfo** | 「お、初めて?それは羨ましいなあ。ちょうど今、ライラックが咲き始める頃でね。札幌の5月は一番気持ちいい季節ですよ。」 |
@@ -41,7 +41,7 @@ Tháng 5/2026, Dũng + chị Hương được mời lên **Sapporo offsite** 2 n
 
 *ngồi xuống quầy*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **nakamura_cfo** | 「ズンさん、札幌ラーメンといえば**味噌**が王道だけど、今日は**白樺山荘**にしよう。30年通ってる店です。」 |
 | **ズン** | 「味噌ラーメン、楽しみです。トッピングは何がおすすめですか?」 |
@@ -56,7 +56,7 @@ Tháng 5/2026, Dũng + chị Hương được mời lên **Sapporo offsite** 2 n
 
 ### 📍 Scenario 3 — Sáng hôm sau, chợ 二条市場 ăn 海鮮丼
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「すごい、ウニとイクラがこんなに山盛りで…日本ハムファイターズの帽子の方も多いですね。」 |
 | **nakamura_cfo** | 「お、気付いた?**ファイターズ**は北海道の誇りだからね。**新庄監督**の頃から地元との繋がりがすごく強いんですよ。」 |
@@ -73,7 +73,7 @@ Tháng 5/2026, Dũng + chị Hương được mời lên **Sapporo offsite** 2 n
 
 *NG · hơi cau mày · panic*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「中村CFO、東北の方って雪が多くて大変ですよね…」 |
 | **nakamura_cfo** | 「あ、ズンさん…北海道は**東北じゃない**んですよ。本州ですらない、別の島です(苦笑)」 |

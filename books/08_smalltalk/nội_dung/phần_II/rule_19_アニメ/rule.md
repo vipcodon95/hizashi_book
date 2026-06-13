@@ -25,7 +25,7 @@ Dũng dùng anime topic 4 cách: ① gắn kết tốt với Tanaka 35t qua 鬼�
 
 *Slack, sticker 禰豆子*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中** | 「最近**鬼滅の刃**【1】の続編、**無限城編**【2】はじまったな。」 |
 | **ズン** | 「劇場版!?待ってました。**炭治郎**【3】の成長と**煉獄さん**【4】の死、本当に泣きました…」 |
@@ -46,7 +46,7 @@ Dũng dùng anime topic 4 cách: ① gắn kết tốt với Tanaka 35t qua 鬼�
 
 *dinner, mở topic an toàn*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「先生、**ジブリ**【1】の作品、お好きですか?」 |
 | **佐藤** | 「ジブリは家族で見たね。孫が**となりのトトロ**【2】大好きで、何回も見せられた(笑)。」 |
@@ -67,7 +67,7 @@ Dũng dùng anime topic 4 cách: ① gắn kết tốt với Tanaka 35t qua 鬼�
 
 *dinner Osaka, casual*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「山本さん、**名探偵コナン**【1】見ますか?」 |
 | **山本** | 「コナン!?毎年4月の劇場版、家族で見に行くで(笑)。今年は**100万ドルの五稜星**【2】、北海道編。」 |
@@ -88,7 +88,7 @@ Dũng dùng anime topic 4 cách: ① gắn kết tốt với Tanaka 35t qua 鬼�
 
 *initiated lần đầu meeting với Sato · không biết · không catch · politely lùi · 救援 · thoải mái lại*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | 「佐藤先生、最近**呪術廻戦**【1】見ました!**五条悟**【2】、めっちゃイケメンで…」 |
 | **佐藤** | 「呪術…?ジョジョ…?(siamese face)」 |

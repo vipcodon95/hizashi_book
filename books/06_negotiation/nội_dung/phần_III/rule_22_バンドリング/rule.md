@@ -16,7 +16,7 @@
 
 ## ❌ Hội thoại XẤU — bundle cứng đầu, mất cơ hội justify
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **中村CFO** | 「AI レコメンドエンジン単独だといくらですか？」 |
 | **ズン** | 「すみません、Phase 3 はパッケージ提供で、単独価格は出せません。」 |
@@ -28,7 +28,7 @@
 
 ## ✅ Hội thoại TỐT — strategic unbundle với "package discount"
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **中村CFO** | 「AI レコメンドエンジン単独だといくらですか？」 |
 | **ズン** | 「**個別 cost を分解いたします**【1】。AI レコメンドエンジン: ¥9M、専任 PM: ¥3M、AI dashboard: ¥3.5M、SLA 99.9% 運用: ¥3M。**合計 ¥18.5M**。**Phase 3 パッケージとしては ¥17.5M でご提供 (¥1M のパッケージディスカウント)**【2】、そして 2 年契約継続なら不変。」 |

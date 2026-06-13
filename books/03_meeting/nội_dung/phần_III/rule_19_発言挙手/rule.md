@@ -18,7 +18,7 @@ Họp định kỳ tháng 4 đang đi vào phần báo cáo tiến độ. Anh Ma
 
 *cắt ngang · dừng, hơi khựng*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本** | 「4月の進捗ですが、API連携の部分で…」 |
 | **ズン** | 「あ、その部分なんですけど、数字が違うと思います。」 |
@@ -33,7 +33,7 @@ Họp định kỳ tháng 4 đang đi vào phần báo cáo tiến độ. Anh Ma
 
 *đợi câu kết thúc, giơ tay nhẹ*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本** | 「4月の進捗ですが、API連携の部分で予定通り進んでおります。」 |
 | **ズン** | 「恐れ入りますが、一点よろしいでしょうか？【1】」 |

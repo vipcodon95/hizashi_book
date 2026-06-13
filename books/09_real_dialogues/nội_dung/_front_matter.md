@@ -83,7 +83,7 @@ Không có rule cứng. Khi nào cần lưu ý, sách chèn **💡 Bí quyết**
    - 1 đoạn *italic* mô tả khung cảnh
    - Dialogue 2-dòng-format (JP rồi VN italic)
    - Internal monologue Dũng *[Dũng nghĩ: ...]* italic riêng
-   - **💡 Bí quyết — <topic>** (nếu cần) sau scene
+   - **💡 Bí quyết — 〈topic〉** (nếu cần) sau scene
 5. **🌅 Recap** cuối chương — Dũng note vào memory bank app, code-block
 
 ---

@@ -33,7 +33,7 @@
 
 *em Hải, lần đầu dinner với 松本 · cứng đơ 1 giây, sau đó cười gượng · bắt sai → CỨU GẤP*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハイ** | 「松本さん、白鷗社のPMって**お給料いくらぐらい**もらえるんですか?ベトナムだと…」 |
 | **松本** | 「いやあ、まあ…色々ですよ…」 |
@@ -51,14 +51,14 @@
 
 *tự share · NG version 1 — confirm tuổi*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **山本(Osaka)** | 「私、来年で40やねん。もうね、おばちゃんやで(笑)」 |
 | **ズン** | 「え、40歳ですか?見えませんね、30代前半に見えます!」 |
 
 ❌ **Vì sao XẤU:** Dù khách tự nói tuổi, mình confirm số = **fix** số đó vào hồ sơ → khách sau này regret share. Compliment "trẻ hơn tuổi" = hint "tuổi của chị có vẻ già" = fail.
 
-| | Speaker | Câu (GOOD) |
+| | Vai | Câu (GOOD) |
 |--|---------|-----|
 | L1 | **山本** | 「私、来年で40やねん。もうね、おばちゃんやで(笑)」 |
 | L2 | **ズン** *(GOOD — không confirm tuổi, focus vào năng lượng)* | 「**山本さんはいつもエネルギッシュで、年齢関係なくお仕事のスピードも速いし、本当に尊敬してます。**」【2】 |
@@ -72,7 +72,7 @@
 
 *say nhẹ tại izakaya, NG · cười gượng, mất điểm Tuấn ngay tức thì*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアン** | 「いやあ、**日本の会社って判断遅いですよね**。ベトナムだったら3日で決まるのに、日本は3週間…」 |
 | **大垣** | 「…ああ、まあ、それぞれの文化やね。」 |
@@ -83,7 +83,7 @@
 
 ✅ **Đúng — chuyển sang positive contrast:**
 
-| | Speaker | Câu (GOOD) |
+| | Vai | Câu (GOOD) |
 |--|---------|-----|
 | L1 | **トゥアン** | 「**日本の判断プロセス、本当に丁寧ですよね。** ベトナムだとスピード重視で決めちゃうんですが、日本のように合意形成を大事にする文化、本当に学ぶことが多いです。」 |
 | L2 | **大垣** | 「いや、日本も最近はね、もう少しスピードアップしたいって話もあるよ。お互い学べることあるね。」 |
@@ -96,7 +96,7 @@
 
 *2 ly bia, vô tình share · NG — đào sâu · hối hận, đóng cửa*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **中村** | 「…まあ、うちのCFO前任者、結構問題あって辞めたんよ。詳しく言えへんけど…」 |
 | **ズン** | 「え、何かあったんですか?横領とか?」 |
@@ -104,7 +104,7 @@
 
 ❌ Đào sâu scandal nội bộ JP = đặt khách vào tình huống bí mật. Khách regret share, mình bị đánh giá "miệng không kín".
 
-| | Speaker | Câu (GOOD) |
+| | Vai | Câu (GOOD) |
 |--|---------|-----|
 | L1 | **中村** | 「…うちのCFO前任者、結構問題あって辞めたんよ。」 |
 | L2 | **ズン** *(GOOD — không đào, react ngắn, đóng topic)* | 「**そうなんですね、大変でしたね。**」【3】(im 3 giây) **「ところで、今日のこの料理、本当に美味しいですね。」** |

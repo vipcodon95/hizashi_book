@@ -18,7 +18,7 @@ Tối cùng ngày event 大垣 + 松本 + 中村 visit, Dũng yêu cầu Linh x�
 
 *3 ngày sau event*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「リンさん、先週の名刺、CRMに入れた？」 |
 | **リン** | 「あ、まだです、今週やります…」 |
@@ -34,7 +34,7 @@ Tối cùng ngày event 大垣 + 松本 + 中村 visit, Dũng yêu cầu Linh x�
 
 *20:00 tối cùng ngày event*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「リンさん、6枚名刺の処理プラン共有して。」 |
 | **リン** | 「① CRM 入力: 今夜中【1】 ② 文脈メモ: 各人 1 行【2】 ③ Cloud スキャン: Google Drive 共有フォルダ ④ Follow-up: 明朝 9:00 ズン先輩経由送信。」 |

@@ -16,7 +16,7 @@ Sau review của Hương, Dũng cộng thêm 4 slide phụ "for safety" → quay
 
 ## ❌ Hội thoại XẤU — slide creep
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハーCTO** | 「ズン、最終版14枚？前回10枚って言ってたよね？」 |
 | **ズン** | 「あ、念のため4枚追加しました。バックアップ的に…」 |
@@ -29,7 +29,7 @@ Sau review của Hương, Dũng cộng thêm 4 slide phụ "for safety" → quay
 
 ## ✅ Hội thoại TỐT — strict 10-12
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「10-20-30ルールで再 audit しました【1】。本編10枚、appendix 5枚は質問対応用（必要なら出す）。」 |
 | **ハーCTO** | 「いいね、appendix 分離は正しい。本編10枚 × 2分 = 20分、自己紹介+背景3分、Q&A 7分の枠で30分内。」 |

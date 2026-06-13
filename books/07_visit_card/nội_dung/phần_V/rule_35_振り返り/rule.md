@@ -16,7 +16,7 @@ Sau onsite Tokyo + final ceremony, về HCMC chiều thứ 6 hôm sau. Chị Hư
 
 ## ❌ Hội thoại XẤU — bỏ qua self-review + phản tỉnh chung chung
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **フオン副部長** | 「Tokyo onsite どうだった？」 |
 | **ズン** | 「全体的にOK でした。次は気をつけます。」 |
@@ -28,7 +28,7 @@ Sau onsite Tokyo + final ceremony, về HCMC chiều thứ 6 hôm sau. Chị Hư
 
 ## ✅ Hội thoại TỐT — cụ thể hóa 5 mục + biến thành action
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **フオン副部長** | 「皆様、Tokyo onsite + final ceremony おつかれさまでした。5項目で振り返りしましょう。まず良かった3点。」 |
 | **ズン** | 「①ceremony 11人 seat指定+zone別pour+flow table が機能、空glass 0件 ②お土産順序 (CFO→部長→PM→PMO) で中村CFOから個別感謝のメール ③お礼メール翌朝送信で全員から24h以内返信。」【1】 |

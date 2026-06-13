@@ -18,7 +18,7 @@ Sau phần intro + agenda, Dũng đến phần promise time. 2 cách: implicit (
 
 *顔を上げる*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「えーと、なるべくコンパクトにお話しします。Q&Aの時間も**頑張って**残します。」 |
 | **大垣** | 「(……『頑張って』って具体的に何分？)」 |
@@ -31,7 +31,7 @@ Sau phần intro + agenda, Dũng đến phần promise time. 2 cách: implicit (
 
 ## ✅ Hội thoại TỐT — explicit time promise
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「**本日は30分の枠**でいただいております【1】。プレゼン20分、Q&A 10分の構成でございます。**20分経過した時点で必ず Q&A に切り替え**ます【2】、たとえ本編が途中でも。」 |
 | **松本** | 「分かりました。」 |

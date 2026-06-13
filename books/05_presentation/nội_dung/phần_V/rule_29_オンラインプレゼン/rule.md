@@ -18,7 +18,7 @@ Chủ Nhật. Dũng test Zoom với chị Hương trước pitch online sáng th
 
 *Zoom*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **フオン** | 「ズン、カメラが下から見上げてる。ノートPC のまま？」 |
 | **ズン** | 「はい、ノート PC で…」 |
@@ -34,7 +34,7 @@ Chủ Nhật. Dũng test Zoom với chị Hương trước pitch online sáng th
 
 *re-setup, gọi lại*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「**5要素 setup** 完了です【1】。①外付け webcam を本棚で目線に上げ、②正面にリングライト、③背景は virtual の薄グレー、④ピンマイク、⑤声は通常 +20% 意識します。」 |
 | **フオン** | 「うん、顔が明るい、目線が natural。**手の位置** どこ？」 |

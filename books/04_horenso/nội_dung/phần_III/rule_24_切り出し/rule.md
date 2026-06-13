@@ -18,7 +18,7 @@ Em Dũng cần tham vấn anh Hà CTO về việc chọn AWS region cho producti
 
 *bắt anh Hà ở hành lang · đang vội đi họp*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「あ、ハーCTO、ちょっと…AWS リージョンの話で…」 |
 | **ハーCTO** | 「すみません、今会議に向かう途中で…」 |
@@ -33,7 +33,7 @@ Em Dũng cần tham vấn anh Hà CTO về việc chọn AWS region cho producti
 
 *Slack DM 14:30 · Slack 14:45 · 16時、会議室B*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「ハーCTO、お疲れ様です。**ご相談したいことがあるのですが、本日中に15分ほどお時間いただけますでしょうか?**【1】 トピックは『Phase 3 の AWS リージョン選定 (東京 vs 大阪)』、判断材料として **3社見積 + ベンチマーク結果を準備済**です【2】。緊急度は中(今週中の決定で間に合う)です【3】。」 |
 | **ハーCTO** | 「16時から15分なら取れます。会議室Bで。」 |

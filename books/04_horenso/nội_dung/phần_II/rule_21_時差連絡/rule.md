@@ -18,7 +18,7 @@ Em Dũng cộng tác với anh Tanaka PMO ở Hakuō. Lần đầu Dũng dùng "
 
 *VN 16h thứ Hai, Slack · JP 18h, đã offline · VN 17h · JP 翌朝 9h*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「田中さん、明日10時から会議できますか？」 |
 | **田中PMO** | (không reply) |
@@ -31,7 +31,7 @@ Em Dũng cộng tác với anh Tanaka PMO ở Hakuō. Lần đầu Dũng dùng "
 
 ## ✅ Hội thoại TỐT — UTC anchor + async + handoff
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **L1** | **ズン** *(VN 16h thứ Hai, Slack)* | 「田中さん、お疲れ様です。下記の時間帯で会議はいかがでしょうか？  
   - **2026/4/22 (火) 10:00-11:00 JST (= 08:00-09:00 ICT)**【1】  

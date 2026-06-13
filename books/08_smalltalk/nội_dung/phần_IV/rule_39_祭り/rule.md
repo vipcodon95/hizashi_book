@@ -23,7 +23,7 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng zoom c
 
 ### 📍 Scenario 1 — Trung thu (Tết Thiếu Nhi) — bridge với Obon
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本** | 「ズンさん、9月7日は祝日?」 |
 | **ズン** | 「祝日ではないですが、**中秋節(Tết Trung Thu)**で、**ベトナムの子供のお祭り**です。」 |
@@ -41,7 +41,7 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng zoom c
 
 ### 📍 Scenario 2 — Lễ Hùng Vương (Quốc giỗ — 10/3 âm)
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **加藤** | 「ベトナムの建国記念日みたいなのって、いつ?」 |
 | **ズン** | 「**フンヴオン王の命日(Giỗ Tổ Hùng Vương)**、旧暦3月10日です。**4000年前の伝説の初代王様の命日**で、毎年祝日になります。」 |
@@ -59,7 +59,7 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng zoom c
 
 *tone trung tính, fact only · focus vào hiện tại, không quá khứ*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **佐藤** | 「9月2日は何の祝日?」 |
 | **ズン** | 「**ベトナム独立記念日**で、**国民の祝日**です。**ハノイのバーディン広場で式典**、**夜は花火**があります。」 |
@@ -76,7 +76,7 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng zoom c
 
 ### 📍 Scenario 4 — So sánh festival JP-VN (multi-festival)
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **山本** | 「VNのお祭りって、関西の祭りに似たの何かあるん?」 |
 | **ズン** | 「いくつか面白い対応関係あります。**①端午の節句(5/5) → VNの『テト・ドアンゴー(Tết Đoan Ngọ)』**は同じ日付ですが、**鯉のぼりじゃなくて"虫殺しの日"**です。」 |

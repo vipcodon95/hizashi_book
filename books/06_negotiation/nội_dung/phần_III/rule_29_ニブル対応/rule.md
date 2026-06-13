@@ -16,7 +16,7 @@ Sau Phase 3 chốt ¥17M + 2 năm + dashboard kèm trade (rule 24), 田中 PMO S
 
 ## ❌ Hội thoại XẤU — accept nibble miễn phí
 
-| | Speaker | Câu (Slack) |
+| | Vai | Câu (Slack) |
 |--|---------|-----|
 | **L1** | **田中PMO** | 「ズン様、お世話になっております。Phase 3 contract draft 確認しましたが、ついでに social engineer 部署向け training 1 日無料で追加可能でしょうか？」 |
 | **L2** | **ズン** | 「分かりました、サービスで含めます。」 |
@@ -29,7 +29,7 @@ Sau Phase 3 chốt ¥17M + 2 năm + dashboard kèm trade (rule 24), 田中 PMO S
 
 ## ✅ Hội thoại TỐT — trade reset + protect agreement
 
-| | Speaker | Câu (Slack) |
+| | Vai | Câu (Slack) |
 |--|---------|-----|
 | **L1** | **田中PMO** | 「ズン様、Phase 3 contract draft 確認しました。ついでに social engineer 部署向け training 1 日無料で追加可能でしょうか？」 |
 | **L2** | **ズン** | 「**お声がけありがとうございます**【1】。training 1 日 (¥0.4M 相当) は当初の契約 scope 外となります。**社内 training をご希望でしたら、以下 2 案**【2】**: (A) 有償で ¥0.4M 追加、(B) 既存 scope 内で AI dashboard カスタムを 1 機能 trade、トータル金額不変。」 |

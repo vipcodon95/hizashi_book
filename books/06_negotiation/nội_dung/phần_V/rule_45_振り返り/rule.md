@@ -18,7 +18,7 @@ Phase 3 ¥17M ký xong, Phase 4 với new client cũng vừa kết thúc round 1
 
 *Phase 3 と同じ retro 学習なし · 青*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | (1 ヶ月後 Phase 5 商談、 同じ pattern) **大垣** | 「価格 ¥22M は高い印象が…」 |
 | **ズン** | 「では ¥20M でいかがでしょうか…」 |
@@ -33,7 +33,7 @@ Phase 3 ¥17M ký xong, Phase 4 với new client cũng vừa kết thúc round 1
 
 *retro 開始、 5 セクション template 共有 · ① worked · ② didn't · ② didn't · ③ Counterfactual · ④ Pattern · ⑤ Next commit、 doc 化*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **フオン** | 「Phase 3 + Phase 4 R1 retro 1 時間。テンプレ 5 セクション【1】: ①What worked ②What didn't ③Counterfactual ④Pattern ⑤Next commit。Dũng から start。」 |
 | **ズン** | 「Phase 3: BATNA 3 シナリオ + recap mail 24h + LOI → 本契約 2 段階で **predictable progress**。Phase 4 R1: JP「高い」を unbundle で reframe 成功。」 |

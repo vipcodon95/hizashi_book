@@ -30,7 +30,7 @@
 
 *uống bia, nhìn ra cửa sổ · NG bản 1 — panic nhồi · bị làm phiền*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **中村** | 「…(im lặng 5 giây, mặt thoải mái)」 |
 | **ズン** | 「あ、あの、最近の天気どうですか?寒くなりましたよね、で、それで…」 |
@@ -38,7 +38,7 @@
 
 ❌ **Vì sao XẤU:** Khách đang thưởng thức bia, đang relax. 5 giây im lặng là OK. Nhồi câu = khách phải reply lịch sự = mệt cho khách.
 
-| | Speaker | Câu (GOOD) |
+| | Vai | Câu (GOOD) |
 |--|---------|-----|
 | L1 | **中村** *(uống bia, nhìn cửa sổ)* | 「…(im lặng 5 giây)」 |
 | L2 | **ズン** *(cùng im, gắp đồ, sip bia)* | 「…(im 5 giây)」 |
@@ -53,7 +53,7 @@
 
 *nhíu mày, nhìn lên trần — đang suy nghĩ thật · NG — hối · bị cắt mạch suy nghĩ*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「大垣さん、もし将来ティエンファットと別の領域で組むとしたら、どんな分野が面白いと思われますか?」 |
 | **大垣** | 「…(im 7 giây)」 |
@@ -62,7 +62,7 @@
 
 ❌ Hối khi khách đang suy nghĩ = ngắt mạch tư duy + ép họ trả lời nhanh = không có deep answer.
 
-| | Speaker | Câu (GOOD) |
+| | Vai | Câu (GOOD) |
 |--|---------|-----|
 | L1 | **ズン** | 「…組むとしたら、どんな分野が面白いと思われますか?」 |
 | L2 | **大垣** *(im 7 giây, suy nghĩ)* | 「…(im)」 |
@@ -77,7 +77,7 @@
 
 *lần đầu gặp 加藤, sau 30 giây giới thiệu danh thiếp · cả hai im lặng 8 giây — không khí lúng túng, ánh mắt né nhau · bắt tín hiệu lúng túng → nhẹ nhàng gợi · rạng rỡ*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「岐阜のご出身なんですね、初めて伺いました。」 |
 | **加藤** | 「ええ。」 |
@@ -95,7 +95,7 @@
 
 *kể chuyện cha mới mất năm trước, giọng trầm · im lặng 5 giây · KHÔNG nhồi câu, KHÔNG ép cười, ngồi cùng khoảnh khắc · sau khi đủ "間"*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **中村** | 「…父が去年亡くなってね、今でも実家行くと、まだあそこに座ってるような気がして…」 |
 | ** |  |

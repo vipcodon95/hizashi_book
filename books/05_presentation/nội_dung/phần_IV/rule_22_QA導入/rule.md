@@ -18,7 +18,7 @@ Cuối pitch Phase 3 cho 大垣 + 松本 + 田中. Dũng vừa kết thúc body,
 
 *slide cuối · 2秒沈黙 · 後で松本に小声*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「以上です。質問ありますか？」 |
 |  | *(Dũng nervous, lấp ngay)* |
@@ -33,7 +33,7 @@ Cuối pitch Phase 3 cho 大垣 + 松本 + 田中. Dũng vừa kết thúc body,
 
 *slide Q&A · 7秒沈黙、Dũng giữ eye contact với 3 người, không lấp · 挙手*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「以上で本論を終わらせていただきます。**ご質問・ご意見をいただけますでしょうか**【1】。**どんな点でも構いません**。」 |
 | 【2】 |  |

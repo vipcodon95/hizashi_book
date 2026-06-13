@@ -19,7 +19,7 @@ Sau khi fill xong 7問, Dũng quay lại với draft 15 slide. Mỗi slide có t
 
 *share screen*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン副部長、スライド10枚に絞りました。タイトルご確認ください。」 |
 | **フオン** | 「『Phase 3 について』『システム構成について』… 全部『〜について』？それ**テーマ**でしょう？で、結局**何が言いたい**の？」 |
@@ -32,7 +32,7 @@ Sau khi fill xong 7問, Dũng quay lại với draft 15 slide. Mỗi slide có t
 
 ## ✅ Hội thoại TỐT — title là kết luận
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン副部長、タイトルを全部**結論型**に書き直しました【1】。10枚お願いします。」 |
 | **フオン** | 「『Phase 3 で在庫差異を月平均5%→1%に削減』… うん、これなら**タイトルだけ読めば結論が分かる**。本文は何？」 |

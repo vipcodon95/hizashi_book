@@ -25,7 +25,7 @@ Dũng tham gia 4 buổi nhậu khác nhau trong 2 tuần: izakaya với Nakamura
 
 *銀座 sake bar, mở menu · impress · rạng rỡ*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **中村** | 「ズンさん、日本酒は飲める?」 |
 | **ズン** | 「はい、最近勉強中で…**新潟の久保田**【1】、一度飲んで感動しました。すっきりしてて。」 |
@@ -46,7 +46,7 @@ Dũng tham gia 4 buổi nhậu khác nhau trong 2 tuần: izakaya với Nakamura
 
 *屋台 Hakata, đặt 1 chai 焼酎*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **佐藤** | 「ズンさん、九州は焼酎やけん。日本酒より焼酎よ。」 |
 | **ズン** | 「はい、**麦焼酎**【1】と**芋焼酎**【2】、違いを教えてください。」 |
@@ -67,7 +67,7 @@ Dũng tham gia 4 buổi nhậu khác nhau trong 2 tuần: izakaya với Nakamura
 
 *Brooklyn-style craft beer pub Shibuya*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中** | 「ズンさん、最近のクラフトビール飲む?」 |
 | **ズン** | 「はい、**ヤッホーブルーイング**【1】の**よなよなエール**、よく飲みます。」 |
@@ -88,7 +88,7 @@ Dũng tham gia 4 buổi nhậu khác nhau trong 2 tuần: izakaya với Nakamura
 
 *沖縄料理店 Tokyo, đặt 1 chai 泡盛*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **小林** | 「ズンさん、沖縄に来たら泡盛は外せないよ。」 |
 | **ズン** | 「**泡盛**【1】、**米から作る**って聞きましたが、日本酒と違いますか?」 |

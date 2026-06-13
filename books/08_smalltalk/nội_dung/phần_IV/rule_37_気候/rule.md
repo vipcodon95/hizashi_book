@@ -25,7 +25,7 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị ons
 
 *意外*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本** | 「ズンさん、来年1月にハノイ出張なんだけど、半袖でいいよね?」 |
 | **ズン** | 「いえ、**ハノイは1月の寒波で10度切ることもあります**。**ダウンジャケット要ります**。」 |
@@ -44,7 +44,7 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị ons
 
 *Okinawa · check ngay weather*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **小林** | 「ダナンの出張、来週にしようか今週にしようか迷ってて。今って大丈夫?」 |
 | **ズン** | 「**今週は台風12号**が南シナ海に発生したばかりで、**ダナンに金曜接近**の予報です。来週の方が確実に安全です。」 |
@@ -60,7 +60,7 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị ons
 
 ### 📍 Scenario 3 — HCM 2 mùa mưa khô
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **山本** | 「来月ホーチミン、雨季だよね?ずっと降ってんの?」 |
 | **ズン** | 「**降り続ける雨**ではなく、**一日1〜2回、強く30分降ってサッと止む**スコール型です。」 |
@@ -77,7 +77,7 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị ons
 
 ### 📍 Scenario 4 — So sánh với 4 mùa Nhật + bridge
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本** | 「日本の四季文化って、ベトナムの人にはピンと来ない?」 |
 | **ズン** | 「**ハノイ出身者には四季は分かります**。私も小さい頃**桃の花の春、ロータスの夏、菊の秋、菊酒の冬**って母から教わって育ちました。」 |

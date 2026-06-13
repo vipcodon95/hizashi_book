@@ -18,7 +18,7 @@ Em Dũng cần tham vấn anh Matsumoto về việc nên dùng 線形 (linear) h
 
 *Slack DM*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「松本様、UAT のやり方なんですけど、線形でやるか段階的でやるかちょっと相談したくて…」 |
 | **松本PM** | 「ズンさん、『ちょっと相談したくて…』は文末を切る不完全文で、客先ではかなり失礼に当たります。それに、何を判断材料にすべきかも示されていないと、こちらも答えようがありません。」 |
@@ -31,7 +31,7 @@ Em Dũng cần tham vấn anh Matsumoto về việc nên dùng 線形 (linear) h
 
 ## ✅ Hội thoại TỐT — formal client tone
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **L1** | **ズン** *(メール)* | 「松本様、お世話になっております。ティエンファットのズンでございます。  
   **件名:【ご相談】Phase 2 UAT 進め方について**  

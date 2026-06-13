@@ -18,7 +18,7 @@ Trụ sở 白鷗 Tokyo, meeting + tour Phase 3 kickoff vừa xong lúc 12:30. D
 
 *vẫn ngồi*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中PMO** | 「本日はありがとうございました。」 |
 | **ズン** | 「はい、ありがとうございました。じゃ、帰ります。」 |
@@ -32,7 +32,7 @@ Trụ sở 白鷗 Tokyo, meeting + tour Phase 3 kickoff vừa xong lúc 12:30. D
 
 ## ✅ Hội thoại TỐT — đứng dậy → bow 30° → trước cửa bow lần 2
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中PMO** | 「本日はお越しいただき、誠にありがとうございました。」 |
 | **ズン** | （椅子を引いて起立、鞄は左手、お辞儀30°）「こちらこそ、貴重なお時間をありがとうございました。」【1】 |

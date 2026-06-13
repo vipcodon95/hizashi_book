@@ -24,7 +24,7 @@ Tuần đầu tháng 5/2026, Dũng + Tuấn onsite Tokyo 3 ngày làm việc v�
 
 *8:55, đứng đợi 大垣 vào phòng họp 9:00*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「大垣部長、おはようございます。今朝は冷えますね。**昨日のホテル、お休みになれましたか?**」 |
 | **大垣** | 「ああズンさん、おはよう。実はね、新大阪からの新幹線で爆睡してしまって、ホテル着いたら逆に目が冴えちゃって(笑)」 |
@@ -41,7 +41,7 @@ Tuần đầu tháng 5/2026, Dũng + Tuấn onsite Tokyo 3 ngày làm việc v�
 
 *11:30, vừa kết thúc họp, đi cùng 中村 CFO ra hành lang*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「中村CFO、本日もありがとうございました。**北海道は、もうそろそろ桜の季節ですか?**」 |
 | **中村** | 「いやあ、東京とは1か月遅れでね。札幌は5月の連休がやっと見頃ですよ。ズンさん、桜は見たことある?」 |
@@ -57,7 +57,7 @@ Tuần đầu tháng 5/2026, Dũng + Tuấn onsite Tokyo 3 ngày làm việc v�
 
 *13:30, ngồi taxi cùng 松本 đến nhà hàng dinner*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「松本さん、午後は本社の方も合流されるんですよね?」 |
 | **松本** | 「うん、CTOも来るよ。ところでズンさん、東京は何回目?」 |
@@ -73,7 +73,7 @@ Tuần đầu tháng 5/2026, Dũng + Tuấn onsite Tokyo 3 ngày làm việc v�
 
 *14:00 họp giá Phase 4, bầu không khí căng. 大垣 vừa đề xuất giảm 8% — Tuấn đang tính lại · KHÔNG NÊN — vô duyên cắt mạch · ngắc ngứ*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「あ、そういえば大垣さん、阪神今シーズン調子いいですよね!」 |
 | **大垣** | 「…え、ああ…まあ…(と、内心:今その話?)」 |

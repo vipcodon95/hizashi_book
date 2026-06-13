@@ -18,7 +18,7 @@ Sau khi giới thiệu người tham dự + agenda, em Dũng phân vai. Tự xá
 
 *挙手 · 振り返って · 困惑*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「では、議題1から入ります。」 |
 | **大垣** | 「すみません、本日の書記はどなたでしょうか？決定事項は誰が記録？」 |
@@ -31,7 +31,7 @@ Sau khi giới thiệu người tham dự + agenda, em Dũng phân vai. Tự xá
 
 ## ✅ Hội thoại TỐT — Công bố vai trò trước nội dung
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「議題に入る前に、本日の役割をご確認させていただきます【1】。」 |
 | **ズン** | 「司会は私ズンが務めます。書記はリンが担当し、議事録は本日中にドラフトを共有いたします【2】。」 |

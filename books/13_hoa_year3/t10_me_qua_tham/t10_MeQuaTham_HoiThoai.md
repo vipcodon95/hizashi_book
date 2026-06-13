@@ -1,354 +1,297 @@
-# Sách 13 · T10. Mẹ qua thăm Nhật — CLIMAX 3 năm (母来日)
+# Sách thực tập sinh thực phẩm · T10. Mẹ qua thăm Nhật (母来日)
 
-> **Mục tiêu nhân vật:** Mẹ Hoa sang Nhật lần đầu — visa 短期滞在 90 ngày. Hoa đón ở Narita. Mẹ gặp tất cả cast. Tanaka đãi mẹ bento Việt Nam (callback T7 sách 12). Mẹ đi Tokyo + Asakusa + Kawagoe. Mẹ về VN. Đây là khoảnh khắc emotional cao nhất 3 năm series — Hoa chứng kiến mẹ tự hào.
+> **Mục tiêu nhân vật:** Hoa (năm 3, thực tập sinh chế biến thực phẩm tại Saitama) đón mẹ sang Nhật thăm 4 tuần. Học các mẫu hội thoại tiếng Nhật khi đóng vai trò **phiên dịch gia đình–công ty**: giới thiệu người thân với cấp trên (<ruby>母<rt>はは</rt></ruby>のグエン・ティ・ランです), nhận quà và đáp lễ thay mẹ (お土産・恐れ入ります), hỏi lại lễ phép khi chưa hiểu thuật ngữ (〜というのは？), nhờ người lạ giúp đỡ ngoài đường (<ruby>写真<rt>しゃしん</rt></ruby><ruby>撮<rt>と</rt></ruby>っていただけますか), xin nghỉ phép có lý do gia đình (<ruby>有給<rt>ゆうきゅう</rt></ruby>を<ruby>取<rt>と</rt></ruby>らせていただきます), quan sát cấp trên Tanaka cách tiếp đón khách Việt Nam.
+
+---
 
 ## Bối cảnh
 
-Tháng 1/2029. Mẹ Hoa (52 tuổi, lần đầu rời Việt Nam) bay từ Hà Nội → Narita ngày 15/1, ở 4 tuần (về 12/2). Hoa xin nghỉ 4 ngày trong tuần đầu để dẫn mẹ. Bố ở nhà với Linh (Linh đã có chồng + con 1 tuổi).
+Tháng 1 năm 2029. Hoa đã làm việc 3 năm tại nhà máy chế biến thực phẩm Saitama, trình độ tiếng Nhật N3. Mẹ Hoa (52 tuổi) lần đầu rời Việt Nam, sang thăm 4 tuần (15/1–12/2). Hoa xin nghỉ 4 ngày có lương để dẫn mẹ đi và đưa mẹ vào nhà máy gặp anh Tanaka chủ xưởng. Chương này tập trung các mẫu câu **phiên dịch giữa gia đình và đồng nghiệp Nhật**, **tiếp đón khách**, **nhờ giúp đỡ ngoài đường**, và **xin nghỉ phép có lý do**.
 
 ---
 
-## Tình huống 1 — Sáng đón mẹ · 5:30 Saitama
+## Tình huống 1 — Sân bay Narita · 9:30, xin lỗi nhân viên hàng không khi tìm mẹ
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Hoa | <ruby>母<rt>はは</rt></ruby>のフライト<ruby>9<rt>く</rt></ruby><ruby>時<rt>じ</rt></ruby><ruby>30<rt>さんじゅっ</rt></ruby><ruby>分<rt>ぷん</rt></ruby><ruby>到着<rt>とうちゃく</rt></ruby>。<br>*(Chuyến bay mẹ 9:30 đến.)* |
-| Hoa | <ruby>京成線<rt>けいせいせん</rt></ruby><ruby>使<rt>つか</rt></ruby>って<ruby>成田<rt>なりた</rt></ruby>まで<ruby>2<rt>に</rt></ruby><ruby>時間<rt>じかん</rt></ruby>。<ruby>余裕<rt>よゆう</rt></ruby><ruby>持<rt>も</rt></ruby>って<ruby>出発<rt>しゅっぱつ</rt></ruby>。<br>*(Đi Keisei line đến Narita 2 tiếng. Đi sớm cho dư.)* |
-| Hoa | (VN) Tay run.<br>*(Tay run.)* |
-| Hoa | （<ruby>携帯<rt>けいたい</rt></ruby>）<br>*(Điện thoại.)* |
-| Linh | （LINE）<ruby>姉<rt>ねえ</rt></ruby>ちゃん、<ruby>母<rt>はは</rt></ruby><ruby>無事<rt>ぶじ</rt></ruby><ruby>到着<rt>とうちゃく</rt></ruby>するように。<br>*(Chị, mong mẹ đến nơi an toàn.)* |
-| Hoa | （<ruby>返信<rt>へんしん</rt></ruby>）うん。<br>*(Trả lời. Ừ.)* |
+| Hoa | （<ruby>到着<rt>とうちゃく</rt></ruby>ロビーで<ruby>待<rt>ま</rt></ruby>ちながら<ruby>案内<rt>あんない</rt></ruby><ruby>係<rt>がかり</rt></ruby>に<ruby>声<rt>こえ</rt></ruby>をかける）すみません、ベトナム<ruby>航空<rt>こうくう</rt></ruby><ruby>VN<rt>ブイエヌ</rt></ruby><ruby>200<rt>にひゃく</rt></ruby><ruby>便<rt>びん</rt></ruby>はもう<ruby>到着<rt>とうちゃく</rt></ruby>しましたか？<br>*(Đợi ở sảnh đến, hỏi nhân viên hướng dẫn. Xin lỗi, chuyến VN200 của Vietnam Airlines đã đến chưa ạ?)* |
+| 案内係 | はい、<ruby>9<rt>く</rt></ruby><ruby>時<rt>じ</rt></ruby><ruby>25<rt>にじゅうご</rt></ruby><ruby>分<rt>ふん</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby>しました。<ruby>入国<rt>にゅうこく</rt></ruby><ruby>審査<rt>しんさ</rt></ruby>に<ruby>30<rt>さんじゅっ</rt></ruby><ruby>分<rt>ぷん</rt></ruby>ぐらいかかります。<br>*(Vâng, đã đến lúc 9:25. Thủ tục nhập cảnh mất khoảng 30 phút.)* |
+| Hoa | <ruby>母<rt>はは</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えに<ruby>来<rt>き</rt></ruby>ました。<ruby>初<rt>はじ</rt></ruby>めての<ruby>来日<rt>らいにち</rt></ruby>なので、ちょっと<ruby>心配<rt>しんぱい</rt></ruby>しています。<br>*(Em đến đón mẹ. Mẹ em lần đầu sang Nhật nên em hơi lo.)* |
+| 案内係 | <ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですよ。<ruby>出口<rt>でぐち</rt></ruby>は<ruby>一<rt>ひと</rt></ruby>つしかありません。ここで<ruby>待<rt>ま</rt></ruby>っていれば<ruby>必<rt>かなら</rt></ruby>ず<ruby>会<rt>あ</rt></ruby>えます。<br>*(Không sao đâu. Lối ra chỉ có một thôi. Đợi ở đây nhất định sẽ gặp được.)* |
+| Hoa | ありがとうございます。<ruby>安心<rt>あんしん</rt></ruby>しました。<br>*(Em cảm ơn ạ. Em yên tâm rồi.)* |
 
 ---
 
-## Tình huống 2 — Narita arrival · 9:30 ga đến
+## Tình huống 2 — Sảnh đến Narita · 10:00, gặp mẹ sau 3 năm (chuyển VN ↔ JP)
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Hoa | （<ruby>到着<rt>とうちゃく</rt></ruby>ロビーで<ruby>待<rt>ま</rt></ruby>つ）<br>*(Đợi ở sảnh đến.)* |
-| Hoa | <ruby>VN200<rt>ブイエヌにひゃく</rt></ruby><ruby>便<rt>びん</rt></ruby><ruby>到着<rt>とうちゃく</rt></ruby>...<br>*(Chuyến VN200 đến...)* |
-| Hoa | （<ruby>母<rt>はは</rt></ruby>を<ruby>探<rt>さが</rt></ruby>す）<br>*(Tìm mẹ.)* |
-| Hoa | （<ruby>3<rt>さん</rt></ruby><ruby>年間<rt>ねんかん</rt></ruby><ruby>会<rt>あ</rt></ruby>っていない<ruby>母<rt>はは</rt></ruby>...）<br>*(3 năm chưa gặp mẹ...)* |
-| Mẹ Hoa | (VN) Hoa! Con ơi!<br>*(Mẹ.)* |
-| Hoa | <ruby>母<rt>かあ</rt></ruby>さん！<br>*(Mẹ ơi!)* |
-| Hoa | (VN) Mẹ! Mẹ ơi!<br>*(Khóc.)* |
-| Mẹ Hoa | (VN) Con gầy đi! Sao gầy quá vậy?<br>*(Sao gầy.)* |
-| Hoa | (VN) Không gầy đâu mẹ. Mẹ đi đường có mệt không?<br>*(Không gầy.)* |
-| Mẹ Hoa | (VN) Hơi mệt. Nhưng nhìn thấy con là khoẻ rồi.<br>*(Khoẻ rồi.)* |
-| Hoa | (VN) Mẹ đi với con. Em mua sẵn vé Narita Express về Saitama.<br>*(Đi với con.)* |
+| Mẹ Hoa | (tiếng Việt, kéo vali ra) Hoa! Con ơi! |
+| Hoa | (tiếng Việt, chạy lại ôm) Mẹ! Mẹ đi đường có mệt không? |
+| Mẹ Hoa | (tiếng Việt) Hơi mệt. Nhưng nhìn thấy con là khoẻ rồi. Sao con gầy thế? |
+| Hoa | (tiếng Việt) Con không gầy đâu mẹ, do áo mùa đông thôi. Mẹ đưa vali con kéo cho. |
+| Hoa | <ruby>母<rt>かあ</rt></ruby>さん、ここから<ruby>成田<rt>なりた</rt></ruby>エクスプレスに<ruby>乗<rt>の</rt></ruby>って<ruby>埼玉<rt>さいたま</rt></ruby>まで<ruby>帰<rt>かえ</rt></ruby>ります。<br>*(Mẹ ơi, từ đây mình đi Narita Express về Saitama.)* |
+| Mẹ Hoa | (tiếng Việt) Con cứ nói tiếng Nhật thoải mái. Mẹ chưa hiểu nhưng vui khi nghe. |
+| Hoa | (tiếng Việt) Vâng. Đi tàu khoảng 2 tiếng. Mẹ ngủ một giấc nhé. |
 
 ---
 
-## Tình huống 3 — Train về Saitama · 11:00 Narita Express
+## Tình huống 3 — Trên Narita Express · 11:00, dạy mẹ vài câu tiếng Nhật cơ bản
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Mẹ Hoa | (VN) Tàu đẹp quá. Sạch sẽ.<br>*(Tàu đẹp.)* |
-| Hoa | (VN) Đây là tàu nhanh, vé đắt. Bình thường con đi tàu thường.<br>*(Tàu đắt.)* |
-| Mẹ Hoa | (VN) Cảnh ngoài đẹp. Ruộng nhỏ nhưng vuông vắn.<br>*(Cảnh đẹp.)* |
-| Hoa | (VN) Mùa đông Nhật lạnh. Có lúc xuống 0 độ.<br>*(Lạnh.)* |
-| Mẹ Hoa | (VN) Mẹ mang áo dày rồi.<br>*(Áo dày.)* |
-| Hoa | (VN) Mẹ này, tối nay ăn gì? Con đặt sẵn cơm Việt.<br>*(Cơm Việt.)* |
-| Mẹ Hoa | (VN) Mẹ muốn ăn cơm Nhật. Sang Nhật mà ăn cơm Việt thì uổng.<br>*(Cơm Nhật.)* |
-| Hoa | (VN) Tốt! Mai mình đi sushi.<br>*(Sushi.)* |
-| Mẹ Hoa | (VN) Sushi! Mẹ chỉ ăn 1 lần ở quê. Không ngon.<br>*(Sushi quê.)* |
-| Hoa | (VN) Sushi Nhật khác hẳn. Mẹ sẽ thích.<br>*(Khác hẳn.)* |
+| Mẹ Hoa | (tiếng Việt) Mai mẹ gặp anh Tanaka. Con dạy mẹ vài câu chào đi. |
+| Hoa | (tiếng Việt) Vâng. Câu đầu tiên là "Xin chào, rất hân hạnh": <ruby>初<rt>はじ</rt></ruby>めまして、よろしくお<ruby>願<rt>ねが</rt></ruby>いします。<br>*(Hajimemashite, yoroshiku onegai shimasu.)* |
+| Mẹ Hoa | (tiếng Việt) Hajimemashite... yoroshiku... khó quá. |
+| Hoa | (tiếng Việt) Không sao mẹ, chỉ cần "Hajimemashite" + cúi đầu là được. Con sẽ dịch hết. |
+| Hoa | あと、ありがとうございます (cảm ơn) と すみません (xin lỗi / xin nhờ). この<ruby>二<rt>ふた</rt></ruby>つだけで<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。<br>*(Còn nữa, arigatou gozaimasu và sumimasen. Chỉ hai câu này là đủ ạ.)* |
+| Mẹ Hoa | (tiếng Việt) Arigatou. Sumimasen. Mẹ nhớ rồi. |
+| Hoa | (tiếng Việt) Mẹ giỏi quá. Tới Saitama là dùng được luôn. |
 
 ---
 
-## Tình huống 4 — Đến phòng Hoa · 14:00 ký túc
+## Tình huống 4 — Trước cổng nhà máy · 8:50 hôm sau, Hoa xin phép cấp trên đưa mẹ vào
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Hoa | (VN) Đây là phòng của con. Nhỏ thôi.<br>*(Phòng nhỏ.)* |
-| Mẹ Hoa | (VN) Ô! Phòng đẹp! Sạch sẽ! Có toilet riêng!<br>*(Phòng đẹp.)* |
-| Hoa | (VN) Vâng. Công ty cấp.<br>*(Công ty cấp.)* |
-| Mẹ Hoa | (VN) (Sờ giường.) Nệm tốt. Ấm.<br>*(Nệm tốt.)* |
-| Hoa | (VN) Mẹ ngủ đây với con. Có 1 giường nhưng to. Đủ 2 người.<br>*(Ngủ chung.)* |
-| Mẹ Hoa | (VN) Như hồi con bé. Mẹ vui.<br>*(Hồi nhỏ.)* |
-| Mẹ Hoa | (VN) Hoa, ảnh ai trên bàn?<br>*(Ảnh ai.)* |
-| Hoa | (VN) Đó là mọi người trong công ty. Anh Tanaka chủ xưởng, anh Suzuki, anh Kondo, Mai, Trang.<br>*(Mọi người.)* |
-| Mẹ Hoa | (VN) Ai dạy con tốt nhất?<br>*(Ai tốt nhất.)* |
-| Hoa | (VN) Tanaka. Như bố thứ 2.<br>*(Bố thứ 2.)* |
-| Mẹ Hoa | (VN) Mẹ phải gặp anh ấy. Cảm ơn anh ấy.<br>*(Phải gặp.)* |
+| Hoa | <ruby>鈴木<rt>すずき</rt></ruby><ruby>主任<rt>しゅにん</rt></ruby>、おはようございます。<ruby>本日<rt>ほんじつ</rt></ruby>、<ruby>母<rt>はは</rt></ruby>が<ruby>工場<rt>こうじょう</rt></ruby><ruby>見学<rt>けんがく</rt></ruby>にまいります。よろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。<br>*(Anh chủ nhiệm Suzuki, chào buổi sáng. Hôm nay mẹ em tới tham quan nhà máy. Mong anh giúp đỡ ạ.)* |
+| Suzuki | おはよう。<ruby>田中<rt>たなか</rt></ruby><ruby>工場長<rt>こうじょうちょう</rt></ruby>から<ruby>聞<rt>き</rt></ruby>いていますよ。<ruby>9<rt>く</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>玄関<rt>げんかん</rt></ruby>でお<ruby>迎<rt>むか</rt></ruby>えします。<br>*(Chào em. Tôi nghe từ trưởng nhà máy Tanaka rồi. 9 giờ tôi ra đón ở sảnh.)* |
+| Hoa | ありがとうございます。<ruby>母<rt>はは</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby>がわからないので、<ruby>私<rt>わたし</rt></ruby>が<ruby>通訳<rt>つうやく</rt></ruby>します。<br>*(Em cảm ơn ạ. Mẹ em không biết tiếng Nhật nên em sẽ phiên dịch.)* |
+| Suzuki | はい、<ruby>了解<rt>りょうかい</rt></ruby>です。<ruby>今日<rt>きょう</rt></ruby>と<ruby>明日<rt>あした</rt></ruby>は<ruby>有給<rt>ゆうきゅう</rt></ruby><ruby>休暇<rt>きゅうか</rt></ruby>ですね。<br>*(Vâng, tôi rõ. Hôm nay và mai em nghỉ phép có lương đúng không?)* |
+| Hoa | はい、<ruby>申請書<rt>しんせいしょ</rt></ruby>を<ruby>先週<rt>せんしゅう</rt></ruby><ruby>提出<rt>ていしゅつ</rt></ruby>しました。<ruby>4<rt>よっ</rt></ruby><ruby>日間<rt>かかん</rt></ruby><ruby>有給<rt>ゆうきゅう</rt></ruby>を<ruby>取<rt>と</rt></ruby>らせていただきます。<br>*(Vâng, đơn em đã nộp tuần trước rồi. Em xin nghỉ phép có lương 4 ngày ạ.)* |
+| Suzuki | <ruby>家族<rt>かぞく</rt></ruby>の<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>時間<rt>じかん</rt></ruby>ですから、ゆっくり<ruby>過<rt>す</rt></ruby>ごしてください。<br>*(Đây là thời gian quan trọng với gia đình, em hãy thư thả nhé.)* |
 
 ---
 
-## Tình huống 5 — Tối với Mai+Trang · 19:00 phòng staff
+## Tình huống 5 — Sảnh nhà máy · 9:00, giới thiệu mẹ với anh Tanaka (kỹ năng phiên dịch)
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Mai | <ruby>初<rt>はじ</rt></ruby>めまして！マイです！<br>*(Lần đầu gặp! Em Mai!)* |
-| Trang | <ruby>初<rt>はじ</rt></ruby>めまして、チャンです！<br>*(Lần đầu gặp, em Trang!)* |
-| Mẹ Hoa | (VN) Chào hai cháu! Bằng tiếng Việt được không?<br>*(Tiếng Việt.)* |
-| Mai | (VN) Có ạ! Em là Mai từ Hà Nam.<br>*(Mai Hà Nam.)* |
-| Trang | (VN) Em là Trang Đà Nẵng.<br>*(Trang Đà Nẵng.)* |
-| Mẹ Hoa | (VN) Hai cháu đẹp quá!<br>*(Đẹp quá.)* |
-| Mai | (VN) Cô! Hoa sempai dạy bọn cháu mọi thứ. Bọn cháu rất biết ơn.<br>*(Biết ơn.)* |
-| Mẹ Hoa | (VN) Hoa kể về 2 cháu nhiều lắm. Mẹ vui vì 3 đứa thân nhau.<br>*(Vui 3 đứa.)* |
-| Trang | (VN) Cô có gì cần giúp ở Nhật cứ bảo bọn cháu.<br>*(Giúp.)* |
-| Mẹ Hoa | (VN) Cảm ơn các cháu. Con gái mẹ may mắn có 2 cô em như vậy.<br>*(May mắn.)* |
-| Mai | （<ruby>少<rt>すこ</rt></ruby>し<ruby>泣<rt>な</rt></ruby>く）<br>*(Hơi khóc.)* |
+| Tanaka | （<ruby>玄関<rt>げんかん</rt></ruby>で<ruby>笑顔<rt>えがお</rt></ruby>で）お<ruby>母<rt>かあ</rt></ruby>さん、<ruby>遠路<rt>えんろ</rt></ruby>はるばるようこそおいでくださいました。<br>*(Đứng ở sảnh, mỉm cười. Chào bác, hoan nghênh bác đã từ xa đến.)* |
+| Hoa | <ruby>母<rt>かあ</rt></ruby>さん、こちらが<ruby>田中<rt>たなか</rt></ruby><ruby>工場長<rt>こうじょうちょう</rt></ruby>です。(tiếng Việt) Mẹ ơi, đây là anh Tanaka chủ xưởng. Anh nói "Hoan nghênh bác từ xa đến". |
+| Mẹ Hoa | (cúi đầu) はじめまして。(tiếng Việt) Cảm ơn anh đã chăm sóc con tôi 3 năm qua. |
+| Hoa | （<ruby>通訳<rt>つうやく</rt></ruby>）<ruby>母<rt>はは</rt></ruby>が「<ruby>3<rt>さん</rt></ruby><ruby>年間<rt>ねんかん</rt></ruby><ruby>娘<rt>むすめ</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にしてくださってありがとうございます」と<ruby>申<rt>もう</rt></ruby>しております。<br>*(Phiên dịch. Mẹ em nói "Cảm ơn anh đã chăm sóc con gái tôi suốt 3 năm".)* |
+| Tanaka | こちらこそ、ホアさんは<ruby>当社<rt>とうしゃ</rt></ruby>の<ruby>宝<rt>たから</rt></ruby>です。お<ruby>母<rt>かあ</rt></ruby>さんのおかげで<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>娘<rt>むすめ</rt></ruby>さんに<ruby>育<rt>そだ</rt></ruby>てていただきました。<br>*(Tôi mới phải cảm ơn, Hoa-san là kho báu của công ty. Nhờ bác mà chúng tôi có một cô con gái tuyệt vời.)* |
+| Hoa | (tiếng Việt) Mẹ ơi, anh ấy nói con là "kho báu của công ty", và cảm ơn mẹ đã nuôi con. |
+| Mẹ Hoa | (tiếng Việt, rưng rưng) Anh khen quá. |
+| Hoa | <ruby>母<rt>はは</rt></ruby>が「<ruby>恐<rt>おそ</rt></ruby>れ<ruby>入<rt>い</rt></ruby>ります」と<ruby>申<rt>もう</rt></ruby>しております。<br>*(Mẹ em nói "Bác quá khen rồi".)* |
 
 ---
 
-## Tình huống 6 — Sáng vào nhà máy · 9:00 lễ
+## Tình huống 6 — Phòng họp · 9:30, hỏi lại lễ phép khi vợ Tanaka nói về bento
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Hoa | <ruby>母<rt>かあ</rt></ruby>さん、<ruby>会社<rt>かいしゃ</rt></ruby><ruby>到着<rt>とうちゃく</rt></ruby>。<br>*(Mẹ, đến công ty.)* |
-| Mẹ Hoa | (VN) Đây là chỗ con làm 3 năm.<br>*(Chỗ làm 3 năm.)* |
-| Hoa | (VN) Vâng. Tanaka chủ xưởng đợi.<br>*(Tanaka đợi.)* |
-| Tanaka | （<ruby>玄関<rt>げんかん</rt></ruby>）いらっしゃいませ！<br>*(Xin chào!)* |
-| Hoa | <ruby>母<rt>はは</rt></ruby>のグエン・ティ・ランです。<br>*(Đây mẹ em Nguyễn Thị Lan.)* |
-| Tanaka | <ruby>初<rt>はじ</rt></ruby>めまして、タナカです。<ruby>遠路<rt>えんろ</rt></ruby>はるばるようこそ！<br>*(Lần đầu gặp, Tanaka. Hoan nghênh chị từ xa đến!)* |
-| Mẹ Hoa | (VN, qua Hoa dịch) Cảm ơn anh đã chăm sóc con tôi 3 năm qua.<br>*(Cảm ơn.)* |
-| Hoa | （<ruby>通訳<rt>つうやく</rt></ruby>）<br>*(Dịch.)* |
-| Tanaka | こちらこそ。ホアさんは<ruby>当社<rt>とうしゃ</rt></ruby>の<ruby>宝<rt>たから</rt></ruby>です。<br>*(Tôi cũng vậy. Hoa-san là kho báu của công ty.)* |
-| Mẹ Hoa | (VN) Anh khen quá.<br>*(Khen quá.)* |
-| Tanaka | <ruby>家内<rt>かない</rt></ruby>もすぐ<ruby>来<rt>く</rt></ruby>る。<br>*(Vợ tôi cũng tới ngay.)* |
+| Vợ Tanaka | <ruby>初<rt>はじ</rt></ruby>めまして、<ruby>田中<rt>たなか</rt></ruby><ruby>美智子<rt>みちこ</rt></ruby>と<ruby>申<rt>もう</rt></ruby>します。<ruby>本日<rt>ほんじつ</rt></ruby>はベトナム<ruby>風<rt>ふう</rt></ruby>のお<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>いたしました。<br>*(Rất hân hạnh, tôi là Tanaka Michiko. Hôm nay tôi đã chuẩn bị bento kiểu Việt Nam ạ.)* |
+| Hoa | (tiếng Việt) Mẹ, đây là vợ anh Tanaka. Chị ấy nói đã chuẩn bị bento kiểu Việt. |
+| Mẹ Hoa | (tiếng Việt) Trời, chu đáo quá. Chị ấy biết nấu món Việt sao? |
+| Hoa | すみません、「ベトナム<ruby>風<rt>ふう</rt></ruby>」というのは、どんな<ruby>料理<rt>りょうり</rt></ruby>ですか？<ruby>母<rt>はは</rt></ruby>に<ruby>説明<rt>せつめい</rt></ruby>したいです。<br>*(Xin lỗi, "kiểu Việt Nam" là món gì ạ? Em muốn giải thích cho mẹ.)* |
+| Vợ Tanaka | <ruby>豚肉<rt>ぶたにく</rt></ruby><ruby>炒<rt>いた</rt></ruby>めと<ruby>生<rt>なま</rt></ruby><ruby>春巻<rt>はるま</rt></ruby>きです。<ruby>去年<rt>きょねん</rt></ruby>ホアさんから<ruby>作<rt>つく</rt></ruby>り<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えていただきました。<br>*(Thịt heo xào và gỏi cuốn. Năm ngoái tôi được Hoa-san dạy cách làm.)* |
+| Hoa | (tiếng Việt) Là thịt heo xào với gỏi cuốn mẹ ạ. Con dạy chị ấy năm ngoái. |
+| Mẹ Hoa | (tiếng Việt) Con dạy người Nhật nấu món Việt? Mẹ tự hào quá. |
+| Hoa | <ruby>母<rt>はは</rt></ruby>がとても<ruby>感激<rt>かんげき</rt></ruby>しております。<ruby>本当<rt>ほんとう</rt></ruby>にありがとうございます。<br>*(Mẹ em rất xúc động ạ. Em xin cảm ơn rất nhiều.)* |
 
 ---
 
-## Tình huống 7 — Vợ Tanaka đến · 9:30
+## Tình huống 7 — Phòng đóng gói · 10:30, quan sát Tanaka giới thiệu Mai+Trang (đàn em)
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Vợ Tanaka | <ruby>初<rt>はじ</rt></ruby>めまして、タナカ<ruby>美智子<rt>みちこ</rt></ruby>です。<br>*(Lần đầu gặp, Tanaka Michiko.)* |
-| Mẹ Hoa | (VN) Chào chị! Cảm ơn chị đã quan tâm con tôi.<br>*(Cảm ơn chị.)* |
-| Vợ Tanaka | （<ruby>笑顔<rt>えがお</rt></ruby>）ホアさんは<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>娘<rt>むすめ</rt></ruby>さん。<br>*(Mỉm cười. Hoa-san thật sự là con gái tuyệt vời.)* |
-| Hoa | （<ruby>翻訳<rt>ほんやく</rt></ruby>）<br>*(Dịch.)* |
-| Mẹ Hoa | (VN) Chị có con không?<br>*(Có con không.)* |
-| Vợ Tanaka | <ruby>息子<rt>むすこ</rt></ruby><ruby>1<rt>ひと</rt></ruby><ruby>人<rt>り</rt></ruby>。<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いている。<br>*(1 con trai. Làm ở Tokyo.)* |
-| Mẹ Hoa | (VN) Hoa kể chị nấu bento Việt Nam cho công ty.<br>*(Bento Việt.)* |
-| Vợ Tanaka | （<ruby>少<rt>すこ</rt></ruby>し<ruby>恥<rt>は</rt></ruby>ずかしい）<br>*(Hơi xấu hổ.)* |
-| Vợ Tanaka | ホアさんに<ruby>教<rt>おし</rt></ruby>えてもらった<ruby>料理<rt>りょうり</rt></ruby>を<ruby>真似<rt>まね</rt></ruby>しているだけ。<br>*(Chỉ bắt chước món Hoa-san dạy.)* |
-| Mẹ Hoa | (VN) Chị giỏi! Tôi muốn ăn thử.<br>*(Muốn ăn.)* |
-| Vợ Tanaka | <ruby>本日<rt>ほんじつ</rt></ruby><ruby>昼<rt>ひる</rt></ruby><ruby>準備<rt>じゅんび</rt></ruby>しています。<br>*(Trưa hôm nay tôi chuẩn bị.)* |
+| Tanaka | お<ruby>母<rt>かあ</rt></ruby>さん、こちらが<ruby>新人<rt>しんじん</rt></ruby>のマイさんとチャンさんです。<ruby>二人<rt>ふたり</rt></ruby>ともホアさんの<ruby>後輩<rt>こうはい</rt></ruby>です。<br>*(Bác ơi, đây là hai bạn mới Mai và Trang. Cả hai đều là đàn em của Hoa-san.)* |
+| Mai | <ruby>初<rt>はじ</rt></ruby>めまして、マイです！<ruby>ホア先輩<rt>せんぱい</rt></ruby>にいつもお<ruby>世話<rt>せわ</rt></ruby>になっています。<br>*(Rất hân hạnh, em Mai ạ! Lúc nào cũng được chị Hoa giúp đỡ.)* |
+| Trang | チャンと<ruby>申<rt>もう</rt></ruby>します。よろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。<br>*(Em tên là Trang. Mong cô giúp đỡ ạ.)* |
+| Hoa | (tiếng Việt) Mẹ, đây là Mai với Trang. Hai đứa là đàn em của con, con dạy chúng nó. |
+| Mẹ Hoa | (tiếng Việt) Hai cháu nói tiếng Nhật được luôn nhỉ. Cô cảm ơn các cháu thân với Hoa. |
+| Mai | (tiếng Việt) Cô! Chị Hoa dạy bọn cháu mọi thứ — từ cách đóng gói đến cách viết báo cáo. Bọn cháu rất biết ơn. |
+| Tanaka | （<ruby>横<rt>よこ</rt></ruby>から）ホアさんは「<ruby>教<rt>おし</rt></ruby>え<ruby>方<rt>かた</rt></ruby>」が<ruby>上手<rt>じょうず</rt></ruby>です。<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>叱<rt>しか</rt></ruby>らずに、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>えてくれます。<br>*(Bên cạnh. Hoa-san dạy rất khéo. Không la mắng khi sai mà cùng suy nghĩ với đàn em.)* |
+| Hoa | (tiếng Việt) Anh Tanaka khen con dạy đàn em không la mắng, cùng suy nghĩ. |
+| Mẹ Hoa | (tiếng Việt) Anh dạy con tôi như vậy. Con tôi mới biết dạy lại em. |
 
 ---
 
-## Tình huống 8 — Tour nhà máy · 10:30
+## Tình huống 8 — Asakusa · 11:00 hôm sau, nhờ người lạ chụp ảnh giúp
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Hoa | <ruby>母<rt>かあ</rt></ruby>さん、<ruby>工場<rt>こうじょう</rt></ruby><ruby>見学<rt>けんがく</rt></ruby>。<br>*(Mẹ, tour nhà máy.)* |
-| Mẹ Hoa | (VN) Sạch quá. Như bệnh viện.<br>*(Sạch.)* |
-| Hoa | (VN) Đây là phòng đóng gói. Con làm chỗ này.<br>*(Phòng đóng gói.)* |
-| Mai | （<ruby>働<rt>はたら</rt></ruby>く）<br>*(Đang làm.)* |
-| Trang | （<ruby>働<rt>はたら</rt></ruby>く）<br>*(Đang làm.)* |
-| Mẹ Hoa | (VN) Hai cháu nó kia.<br>*(Hai cháu.)* |
-| Hoa | (VN) Vâng. Mai+Trang đang làm. Con dạy 2 em.<br>*(Dạy 2 em.)* |
-| Mẹ Hoa | (VN) Con đã thành sempai. Mẹ tự hào.<br>*(Tự hào.)* |
-| Hoa | (VN) Mẹ này, đây là phòng QC. Suzuki chủ nhiệm sẽ giới thiệu.<br>*(Phòng QC.)* |
-| Suzuki | （<ruby>挨拶<rt>あいさつ</rt></ruby>）<ruby>初<rt>はじ</rt></ruby>めまして、スズキです。<br>*(Chào, Suzuki.)* |
-| Mẹ Hoa | (VN, dịch qua Hoa) Hoa kể anh giúp giấy tờ SSW1. Cảm ơn anh.<br>*(Cảm ơn Suzuki.)* |
-| Suzuki | <ruby>当然<rt>とうぜん</rt></ruby>のこと。ホアさんは<ruby>努力家<rt>どりょくか</rt></ruby>。<br>*(Việc đương nhiên. Hoa-san chăm chỉ.)* |
+| Mẹ Hoa | (tiếng Việt) Cổng đỏ to quá! Như trong phim! |
+| Hoa | (tiếng Việt) Đây là Kaminarimon — cổng nổi tiếng nhất Tokyo. Mẹ đứng dưới đèn lồng để con chụp nhé. |
+| Mẹ Hoa | (tiếng Việt) Con đứng cùng đi. Mẹ muốn có ảnh hai mẹ con. |
+| Hoa | （<ruby>通行人<rt>つうこうにん</rt></ruby>に<ruby>声<rt>こえ</rt></ruby>をかける）すみません、お<ruby>忙<rt>いそが</rt></ruby>しいところ<ruby>恐<rt>おそ</rt></ruby>れ<ruby>入<rt>い</rt></ruby>ります。<ruby>母<rt>はは</rt></ruby>と<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>っていただけませんか？<br>*(Bắt chuyện với người qua đường. Xin lỗi đã làm phiền lúc anh bận. Anh chụp giúp tôi với mẹ một tấm được không ạ?)* |
+| Người qua đường | はい、いいですよ。<ruby>携帯<rt>けいたい</rt></ruby><ruby>貸<rt>か</rt></ruby>してください。<ruby>雷門<rt>かみなりもん</rt></ruby>を<ruby>背景<rt>はいけい</rt></ruby>に<ruby>入<rt>い</rt></ruby>れますね。<br>*(Vâng, được ạ. Đưa điện thoại đây. Tôi lấy Kaminarimon làm phông nhé.)* |
+| Hoa | ありがとうございます。<ruby>母<rt>はは</rt></ruby>がベトナムから<ruby>初<rt>はじ</rt></ruby>めて<ruby>来<rt>き</rt></ruby>たんです。<br>*(Cảm ơn anh. Mẹ em lần đầu sang Nhật từ Việt Nam.)* |
+| Người qua đường | あら、それは<ruby>記念<rt>きねん</rt></ruby>ですね。はい、チーズ！<br>*(Ô, vậy là kỷ niệm rồi. Nào, cười nào!)* |
+| Hoa | ありがとうございました。<ruby>助<rt>たす</rt></ruby>かりました。<br>*(Em cảm ơn ạ. Anh giúp em quá.)* |
+| Mẹ Hoa | (tiếng Việt) Con nói tiếng Nhật trôi chảy quá. Mẹ tự hào. |
 
 ---
 
-## Tình huống 9 — Trưa với cast · 12:00 phòng staff
+## Tình huống 9 — Quán sushi Asakusa · 13:00, gọi món + hỏi nguyên liệu cho mẹ
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Vợ Tanaka | （ベトナム<ruby>風<rt>ふう</rt></ruby><ruby>弁当<rt>べんとう</rt></ruby>を<ruby>並<rt>なら</rt></ruby>べる）<br>*(Bày bento kiểu Việt.)* |
-| Mẹ Hoa | (VN) Ô! Như cơm nhà!<br>*(Cơm nhà.)* |
-| Vợ Tanaka | <ruby>豚肉<rt>ぶたにく</rt></ruby><ruby>炒<rt>いた</rt></ruby>めとライスペーパーロール。<br>*(Heo xào và gỏi cuốn.)* |
-| Mẹ Hoa | (VN ăn) Ngon! Vị giống! Giống mẹ nấu!<br>*(Giống mẹ nấu.)* |
-| Vợ Tanaka | （<ruby>嬉<rt>うれ</rt></ruby>しい）<br>*(Vui.)* |
-| Hoa | (VN) Vợ Tanaka học rất nghiêm.<br>*(Học nghiêm.)* |
-| Tanaka | お<ruby>母<rt>かあ</rt></ruby>さん、ホアさんが<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>初日<rt>しょにち</rt></ruby>を<ruby>覚<rt>おぼ</rt></ruby>えてる。<br>*(Mẹ, tôi nhớ ngày đầu Hoa đến công ty.)* |
-| Hoa | （<ruby>翻訳<rt>ほんやく</rt></ruby>）<br>*(Dịch.)* |
-| Tanaka | <ruby>緊張<rt>きんちょう</rt></ruby>して<ruby>顔<rt>かお</rt></ruby><ruby>赤<rt>あか</rt></ruby>かった。<ruby>日本語<rt>にほんご</rt></ruby>もまだまだ。<br>*(Hồi hộp mặt đỏ. Tiếng Nhật còn yếu.)* |
-| Tanaka | <ruby>3<rt>さん</rt></ruby><ruby>年後<rt>ねんご</rt></ruby>、<ruby>監査<rt>かんさ</rt></ruby><ruby>担当<rt>たんとう</rt></ruby>で<ruby>大手<rt>おおて</rt></ruby>のローソンを<ruby>合格<rt>ごうかく</rt></ruby>させた。<br>*(3 năm sau, em làm trưởng kiểm tra, đỗ kỳ kiểm tra của Lawson hãng lớn.)* |
-| Mẹ Hoa | (VN) Anh khen nhiều quá. Mẹ tự hào con quá.<br>*(Mẹ tự hào.)* |
-| Tanaka | <ruby>事実<rt>じじつ</rt></ruby>です。<br>*(Sự thật.)* |
+| Nhân viên | いらっしゃいませ。<ruby>何名様<rt>なんめいさま</rt></ruby>ですか？<br>*(Mời quý khách. Mấy người ạ?)* |
+| Hoa | <ruby>二名<rt>にめい</rt></ruby>です。<ruby>母<rt>はは</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めて<ruby>寿司<rt>すし</rt></ruby>を<ruby>食<rt>た</rt></ruby>べるので、おすすめを<ruby>教<rt>おし</rt></ruby>えていただけますか？<br>*(Hai người ạ. Mẹ em lần đầu ăn sushi, anh giới thiệu giúp món nào ngon được không?)* |
+| Nhân viên | <ruby>初心者<rt>しょしんしゃ</rt></ruby>でしたら、<ruby>玉子<rt>たまご</rt></ruby>・サーモン・えびのセットがおすすめです。<ruby>生<rt>なま</rt></ruby>が<ruby>苦手<rt>にがて</rt></ruby>でも<ruby>食<rt>た</rt></ruby>べやすいです。<br>*(Người mới ăn thì em xin gợi ý set trứng - cá hồi - tôm. Người không quen đồ sống cũng dễ ăn.)* |
+| Hoa | すみません、「<ruby>生<rt>なま</rt></ruby>が<ruby>苦手<rt>にがて</rt></ruby>」というのは、<ruby>生魚<rt>なまざかな</rt></ruby>が<ruby>食<rt>た</rt></ruby>べられない<ruby>人<rt>ひと</rt></ruby>という<ruby>意味<rt>いみ</rt></ruby>ですか？<br>*(Xin lỗi, "không quen đồ sống" có nghĩa là người không ăn được cá sống phải không ạ?)* |
+| Nhân viên | はい、そういう<ruby>意味<rt>いみ</rt></ruby>です。<br>*(Vâng, đúng nghĩa đó ạ.)* |
+| Hoa | では、そのセットを<ruby>二<rt>ふた</rt></ruby>つお<ruby>願<rt>ねが</rt></ruby>いします。あと、<ruby>温<rt>あたた</rt></ruby>かいお<ruby>茶<rt>ちゃ</rt></ruby>もいただけますか？<br>*(Vậy cho em hai set đó ạ. Và cho em thêm trà nóng được không?)* |
+| Mẹ Hoa | (tiếng Việt, sau khi ăn) Cá hồi ngon quá. Khác hẳn sushi mẹ ăn hồi ở quê. |
+| Hoa | (tiếng Việt) Vâng. Sushi Nhật làm bằng cá tươi cùng ngày. |
 
 ---
 
-## Tình huống 10 — Tanaka tặng quà mẹ · 13:30
+## Tình huống 10 — Phòng họp công ty · 14:00 tuần sau, Tanaka tặng quà mẹ
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Tanaka | お<ruby>母<rt>かあ</rt></ruby>さん、<ruby>少<rt>すこ</rt></ruby>しお<ruby>土産<rt>みやげ</rt></ruby>。<br>*(Mẹ, có quà nhỏ.)* |
-| Mẹ Hoa | (VN) Quà gì? Không cần đâu.<br>*(Không cần.)* |
-| Tanaka | （<ruby>箱<rt>はこ</rt></ruby><ruby>渡<rt>わた</rt></ruby>す）<br>*(Đưa hộp.)* |
-| Mẹ Hoa | (VN, mở) Ô! Khăn lụa Nhật!<br>*(Khăn lụa.)* |
-| Vợ Tanaka | <ruby>京都<rt>きょうと</rt></ruby>の<ruby>絹<rt>きぬ</rt></ruby>。<br>*(Tơ Kyoto.)* |
-| Mẹ Hoa | (VN) Đẹp quá. Cảm ơn anh chị.<br>*(Đẹp.)* |
-| Tanaka | お<ruby>母<rt>かあ</rt></ruby>さんの<ruby>大事<rt>だいじ</rt></ruby>な<ruby>娘<rt>むすめ</rt></ruby>さんを<ruby>3<rt>さん</rt></ruby><ruby>年間<rt>ねんかん</rt></ruby><ruby>預<rt>あず</rt></ruby>かりました。<ruby>感謝<rt>かんしゃ</rt></ruby>です。<br>*(Đã giữ con gái quý của mẹ 3 năm. Cảm ơn.)* |
-| Mẹ Hoa | (VN, qua dịch) Tôi mới phải cảm ơn anh chị. Tôi chỉ sinh con. Anh chị dạy con tôi.<br>*(Cảm ơn anh chị.)* |
-| Hoa | （<ruby>涙<rt>なみだ</rt></ruby>）<br>*(Nước mắt.)* |
-| Tanaka | （<ruby>涙<rt>なみだ</rt></ruby>を<ruby>拭<rt>ふ</rt></ruby>く）<br>*(Lau nước mắt.)* |
+| Tanaka | お<ruby>母<rt>かあ</rt></ruby>さん、<ruby>本日<rt>ほんじつ</rt></ruby>はささやかですが、お<ruby>土産<rt>みやげ</rt></ruby>をご<ruby>用意<rt>ようい</rt></ruby>いたしました。<br>*(Bác ơi, hôm nay tôi có chút quà nhỏ ạ.)* |
+| Hoa | (tiếng Việt) Mẹ ơi, anh Tanaka tặng quà. |
+| Mẹ Hoa | (tiếng Việt) Trời, không cần đâu mà. |
+| Tanaka | （<ruby>箱<rt>はこ</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>す）<ruby>京都<rt>きょうと</rt></ruby>の<ruby>絹<rt>きぬ</rt></ruby>のスカーフです。お<ruby>母<rt>かあ</rt></ruby>さんに<ruby>似合<rt>にあ</rt></ruby>うと<ruby>思<rt>おも</rt></ruby>います。<br>*(Đưa hộp. Là khăn lụa Kyoto. Tôi nghĩ sẽ hợp với bác.)* |
+| Mẹ Hoa | (tiếng Việt, mở hộp) Đẹp quá! Cảm ơn anh chị nhiều. |
+| Hoa | <ruby>母<rt>はは</rt></ruby>が「とても<ruby>嬉<rt>うれ</rt></ruby>しい、<ruby>本当<rt>ほんとう</rt></ruby>にありがとうございます」と<ruby>申<rt>もう</rt></ruby>しております。<br>*(Mẹ em nói "Tôi vui lắm, xin cảm ơn rất nhiều".)* |
+| Tanaka | お<ruby>母<rt>かあ</rt></ruby>さんの<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>娘<rt>むすめ</rt></ruby>さんを<ruby>3<rt>さん</rt></ruby><ruby>年間<rt>ねんかん</rt></ruby><ruby>預<rt>あず</rt></ruby>からせていただきました。<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちです。<br>*(Tôi đã được giữ con gái quý của bác suốt 3 năm. Đây là lòng biết ơn của tôi.)* |
+| Mẹ Hoa | (tiếng Việt, qua Hoa dịch) Tôi mới phải cảm ơn anh. Tôi chỉ sinh con. Anh và mọi người đã dạy con tôi nên người. |
+| Hoa | <ruby>母<rt>はは</rt></ruby>は「<ruby>私<rt>わたし</rt></ruby>は<ruby>娘<rt>むすめ</rt></ruby>を<ruby>産<rt>う</rt></ruby>んだだけです。<ruby>育<rt>そだ</rt></ruby>ててくださったのは<ruby>皆様<rt>みなさま</rt></ruby>です」と<ruby>申<rt>もう</rt></ruby>しております。<br>*(Mẹ em nói "Tôi chỉ sinh con thôi. Người dạy dỗ là quý vị".)* |
 
 ---
 
-## Tình huống 11 — Suzuki tặng quà mẹ · 14:00
+## Tình huống 11 — Phòng họp · 14:30, Suzuki giao hồ sơ đánh giá hạng A
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Suzuki | お<ruby>母<rt>かあ</rt></ruby>さん、<ruby>私<rt>わたし</rt></ruby>からも。<br>*(Mẹ, từ tôi nữa.)* |
-| Mẹ Hoa | (VN) Anh cũng có quà?<br>*(Anh cũng có.)* |
-| Suzuki | （<ruby>書類<rt>しょるい</rt></ruby><ruby>渡<rt>わた</rt></ruby>す）<br>*(Đưa giấy.)* |
-| Mẹ Hoa | (VN) Đây là gì?<br>*(Gì.)* |
-| Hoa | (VN) ...Đây là...<br>*(Là...)* |
-| Suzuki | ホアさんの<ruby>3<rt>さん</rt></ruby><ruby>年間<rt>ねんかん</rt></ruby>の<ruby>評価<rt>ひょうか</rt></ruby><ruby>記録<rt>きろく</rt></ruby>。<ruby>監督<rt>かんとく</rt></ruby><ruby>団体<rt>だんたい</rt></ruby><ruby>側<rt>がわ</rt></ruby>から。<br>*(Hồ sơ đánh giá 3 năm của Hoa-san. Từ tổ chức giám sát.)* |
-| Hoa | （<ruby>翻訳<rt>ほんやく</rt></ruby>）<br>*(Dịch.)* |
-| Mẹ Hoa | (VN) Đánh giá cao nhất. Hạng A.<br>*(Hạng A.)* |
-| Suzuki | <ruby>過去<rt>かこ</rt></ruby><ruby>10<rt>じゅう</rt></ruby><ruby>年<rt>ねん</rt></ruby>で<ruby>3<rt>さん</rt></ruby><ruby>名<rt>めい</rt></ruby>のみ。<br>*(10 năm qua chỉ 3 người.)* |
-| Mẹ Hoa | (VN, khóc) Hoa con...<br>*(Hoa con.)* |
-| Hoa | (VN) Mẹ đừng khóc...<br>*(Đừng khóc.)* |
+| Suzuki | お<ruby>母<rt>かあ</rt></ruby>さん、<ruby>私<rt>わたし</rt></ruby>からも<ruby>一<rt>ひと</rt></ruby>つお<ruby>渡<rt>わた</rt></ruby>ししたいものがあります。<br>*(Bác ơi, tôi cũng có một thứ muốn giao cho bác.)* |
+| Hoa | (tiếng Việt) Mẹ, anh Suzuki cũng có gì đó cho mẹ. |
+| Suzuki | （<ruby>書類<rt>しょるい</rt></ruby><ruby>渡<rt>わた</rt></ruby>す）<ruby>監督<rt>かんとく</rt></ruby><ruby>団体<rt>だんたい</rt></ruby>からホアさんの<ruby>3<rt>さん</rt></ruby><ruby>年間<rt>ねんかん</rt></ruby>の<ruby>評価<rt>ひょうか</rt></ruby><ruby>記録<rt>きろく</rt></ruby>です。<br>*(Đưa hồ sơ. Đây là hồ sơ đánh giá 3 năm của Hoa-san từ tổ chức giám sát.)* |
+| Hoa | すみません、「<ruby>評価<rt>ひょうか</rt></ruby><ruby>記録<rt>きろく</rt></ruby>」というのは、<ruby>具体的<rt>ぐたいてき</rt></ruby>にどんな<ruby>書類<rt>しょるい</rt></ruby>ですか？<br>*(Xin lỗi, "hồ sơ đánh giá" cụ thể là loại giấy tờ gì ạ?)* |
+| Suzuki | <ruby>技能実習生<rt>ぎのうじっしゅうせい</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>ぶり・<ruby>勤怠<rt>きんたい</rt></ruby>・<ruby>日本語<rt>にほんご</rt></ruby><ruby>能力<rt>のうりょく</rt></ruby>を<ruby>総合<rt>そうごう</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby>したものです。ホアさんはAランクです。<ruby>過去<rt>かこ</rt></ruby><ruby>10<rt>じゅう</rt></ruby><ruby>年<rt>ねん</rt></ruby>で<ruby>3<rt>さん</rt></ruby><ruby>名<rt>めい</rt></ruby>のみ。<br>*(Là tài liệu đánh giá tổng hợp công việc, chuyên cần và năng lực tiếng Nhật của thực tập sinh. Hoa-san hạng A. 10 năm qua chỉ có 3 người.)* |
+| Hoa | (tiếng Việt, run giọng) Mẹ... con được đánh giá hạng A. 10 năm qua chỉ 3 người. |
+| Mẹ Hoa | (tiếng Việt, khóc, ôm Hoa) Hoa con... mẹ tự hào. |
+| Hoa | <ruby>鈴木<rt>すずき</rt></ruby><ruby>主任<rt>しゅにん</rt></ruby>、<ruby>母<rt>はは</rt></ruby>がとても<ruby>感激<rt>かんげき</rt></ruby>しております。<ruby>本当<rt>ほんとう</rt></ruby>にありがとうございます。<br>*(Anh Suzuki, mẹ em xúc động lắm. Em xin cảm ơn anh rất nhiều.)* |
 
 ---
 
-## Tình huống 12 — Asakusa hôm sau · 11:00
+## Tình huống 12 — Phòng Hoa · 21:00 đêm trước mẹ về, bàn việc chọn công ty SSW1
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Hoa | <ruby>浅草<rt>あさくさ</rt></ruby><ruby>到着<rt>とうちゃく</rt></ruby>。<br>*(Đến Asakusa.)* |
-| Mẹ Hoa | (VN) Đẹp! Như phim! Cổng đỏ to!<br>*(Như phim.)* |
-| Hoa | (VN) Đây Kaminarimon. Cổng nổi tiếng nhất Tokyo.<br>*(Kaminarimon.)* |
-| Mẹ Hoa | (VN) Mẹ chụp ảnh nhé!<br>*(Chụp ảnh.)* |
-| Hoa | （<ruby>母<rt>はは</rt></ruby>を<ruby>撮<rt>と</rt></ruby>る）<br>*(Chụp mẹ.)* |
-| Mẹ Hoa | (VN) Mẹ với con cùng chụp.<br>*(Cùng chụp.)* |
-| Hoa | （<ruby>通行人<rt>つうこうにん</rt></ruby>に<ruby>頼<rt>たの</rt></ruby>む）すみません、<ruby>写真<rt>しゃしん</rt></ruby><ruby>撮<rt>と</rt></ruby>っていただけますか？<br>*(Nhờ người qua. Xin lỗi, chụp ảnh giúp được không?)* |
-| Stranger | はい！<br>*(Vâng!)* |
-| Mẹ Hoa | (VN) Hoa, con nói tiếng Nhật giỏi quá. Mẹ tự hào.<br>*(Giỏi quá.)* |
-| Hoa | (VN) 3 năm mẹ.<br>*(3 năm.)* |
-| Mẹ Hoa | (VN) Cám ơn con cố gắng.<br>*(Cố gắng.)* |
+| Hoa | (tiếng Việt) Mẹ ơi, con có chuyện muốn hỏi mẹ. |
+| Mẹ Hoa | (tiếng Việt) Nói đi con. |
+| Hoa | (tiếng Việt) Con có 2 lời mời SSW1. Một ở Saitama — anh Tanaka mời ở lại làm trưởng nhóm. Một ở Tokyo — công ty lớn hơn, lương ban đầu cao hơn 50.000 yên. |
+| Mẹ Hoa | (tiếng Việt) Mẹ hỏi con một câu. Con cảm thấy đâu là nhà? |
+| Hoa | (tiếng Việt) Saitama. Anh Tanaka, anh Suzuki, vợ anh Tanaka, Mai, Trang... |
+| Mẹ Hoa | (tiếng Việt) Vậy con còn phân vân làm gì. |
+| Hoa | (tiếng Việt) Còn tiền mẹ ạ. |
+| Mẹ Hoa | (tiếng Việt) Hoa, mẹ ở quê 30 năm, mẹ học một điều: tiền mất rồi sẽ kiếm lại. Người mất rồi không lấy lại. |
+| Hoa | (tiếng Việt, khóc) Vâng. |
+| Mẹ Hoa | (tiếng Việt) Anh Tanaka như bố thứ hai của con. Mai, Trang như em gái. Đó là gia đình Nhật của con. Đừng bỏ. |
+| Hoa | (tiếng Việt) Mai con sẽ báo anh Suzuki ạ. Con sẽ ở lại Saitama. |
+| Mẹ Hoa | (tiếng Việt) Mẹ tự hào vì con biết quyết. |
 
 ---
 
-## Tình huống 13 — Senso-ji · 12:00
+## Tình huống 13 — Phòng họp · sáng hôm sau 9:00, Hoa báo Suzuki quyết định ở lại
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Hoa | <ruby>浅草寺<rt>せんそうじ</rt></ruby>。<ruby>東京<rt>とうきょう</rt></ruby><ruby>最古<rt>さいこ</rt></ruby>の<ruby>寺<rt>てら</rt></ruby>。<br>*(Senso-ji. Chùa cổ nhất Tokyo.)* |
-| Mẹ Hoa | (VN) Mẹ thắp hương được không?<br>*(Thắp hương.)* |
-| Hoa | (VN) Có. Mua nhang ở đây.<br>*(Mua nhang.)* |
-| Mẹ Hoa | (VN, đặt nhang vào お線香) Cầu cho cả nhà bình an. Hoa và Linh đều khoẻ.<br>*(Cầu nhà.)* |
-| Hoa | (VN) Mẹ này, cầu cho mẹ khoẻ trước.<br>*(Mẹ khoẻ.)* |
-| Mẹ Hoa | (VN) Mẹ vẫn khoẻ. Mẹ nhường cho con.<br>*(Mẹ nhường.)* |
-| Hoa | (VN, khóc nhẹ) Mẹ ơi...<br>*(Mẹ ơi.)* |
-| Mẹ Hoa | (VN) Đừng khóc trước Phật.<br>*(Đừng khóc.)* |
+| Hoa | <ruby>鈴木<rt>すずき</rt></ruby><ruby>主任<rt>しゅにん</rt></ruby>、<ruby>少<rt>すこ</rt></ruby>しお<ruby>時間<rt>じかん</rt></ruby>よろしいでしょうか。<ruby>特定<rt>とくてい</rt></ruby><ruby>技能<rt>ぎのう</rt></ruby><ruby>1<rt>いち</rt></ruby><ruby>号<rt>ごう</rt></ruby>の<ruby>件<rt>けん</rt></ruby>でご<ruby>報告<rt>ほうこく</rt></ruby>があります。<br>*(Anh Suzuki, anh cho em một chút thời gian được không ạ. Em có báo cáo về vụ visa kỹ năng đặc định 1.)* |
+| Suzuki | はい、どうぞ。<br>*(Vâng, mời em.)* |
+| Hoa | <ruby>母<rt>はは</rt></ruby>と<ruby>相談<rt>そうだん</rt></ruby>した<ruby>結果<rt>けっか</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>はお<ruby>断<rt>ことわ</rt></ruby>りして、<ruby>当社<rt>とうしゃ</rt></ruby>に<ruby>残<rt>のこ</rt></ruby>らせていただきたいと<ruby>考<rt>かんが</rt></ruby>えております。<br>*(Sau khi bàn với mẹ, em đã từ chối công ty Tokyo và muốn ở lại công ty mình ạ.)* |
+| Suzuki | そうですか。ご<ruby>家族<rt>かぞく</rt></ruby>とよく<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>って<ruby>決<rt>き</rt></ruby>めたのは<ruby>素晴<rt>すば</rt></ruby>らしいです。<ruby>田中<rt>たなか</rt></ruby><ruby>工場長<rt>こうじょうちょう</rt></ruby>も<ruby>喜<rt>よろこ</rt></ruby>びます。<br>*(Vậy à. Bàn bạc kỹ với gia đình rồi quyết là tuyệt vời. Trưởng nhà máy Tanaka cũng sẽ vui.)* |
+| Hoa | <ruby>給料<rt>きゅうりょう</rt></ruby>より、ここの<ruby>皆様<rt>みなさま</rt></ruby>と<ruby>働<rt>はたら</rt></ruby>き<ruby>続<rt>つづ</rt></ruby>けたい<ruby>気持<rt>きも</rt></ruby>ちが<ruby>強<rt>つよ</rt></ruby>いです。<br>*(So với lương, em thấy muốn được tiếp tục làm với mọi người ở đây hơn.)* |
+| Suzuki | <ruby>必要<rt>ひつよう</rt></ruby>な<ruby>書類<rt>しょるい</rt></ruby>は<ruby>来週<rt>らいしゅう</rt></ruby>から<ruby>準備<rt>じゅんび</rt></ruby>しましょう。<br>*(Giấy tờ cần thiết tuần sau mình bắt đầu chuẩn bị nhé.)* |
+| Hoa | はい、よろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。<br>*(Vâng, em xin nhờ anh ạ.)* |
 
 ---
 
-## Tình huống 14 — Quyết định stay/go bàn với mẹ · 18:00 cơm tối
+## Tình huống 14 — Cổng ra Narita · 10:00 sáng 12/2, tiễn mẹ về Việt Nam
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Hoa | <ruby>母<rt>かあ</rt></ruby>さん、<ruby>大事<rt>だいじ</rt></ruby>な<ruby>話<rt>はなし</rt></ruby>。<br>*(Mẹ, chuyện quan trọng.)* |
-| Mẹ Hoa | (VN) Nói đi.<br>*(Nói đi.)* |
-| Hoa | (VN) Con có 2 lời mời SSW1. Một ở Saitama công ty hiện tại — anh Tanaka mời làm trưởng nhóm, lương cộng 30.000 yên. Một ở Tokyo — công ty lớn lương cộng 30.000 yên. Con phải chọn.<br>*(2 lời.)* |
-| Mẹ Hoa | (VN) Lương Tokyo cao hơn?<br>*(Cao hơn.)* |
-| Hoa | (VN) Khoảng bằng. Tokyo ban đầu cao hơn 50.000 yên. Nhưng Saitama làm trưởng nhóm cũng tăng. Trừ tiền nhà Tokyo cao, chênh nhau khoảng 30.000-50.000 yên/tháng.<br>*(Chênh nhỏ.)* |
-| Mẹ Hoa | (VN) Mẹ hỏi 1 câu. Con cảm thấy đâu là nhà?<br>*(Đâu là nhà.)* |
-| Hoa | (VN) Saitama. Anh Tanaka, anh Suzuki, vợ anh Tanaka, Mai, Trang.<br>*(Saitama.)* |
-| Mẹ Hoa | (VN) Vậy còn hỏi gì.<br>*(Hỏi gì.)* |
-| Hoa | (VN) Nhưng tiền?<br>*(Tiền?)* |
-| Mẹ Hoa | (VN) Hoa, mẹ ở quê 30 năm. Mẹ học 1 điều: tiền thì mất rồi sẽ kiếm lại. Người thì mất rồi không lấy lại.<br>*(Người không lấy lại.)* |
-| Hoa | (VN, khóc) Vâng.<br>*(Vâng.)* |
-| Mẹ Hoa | (VN) Anh Tanaka như bố thứ hai của con. Mai và Trang như em gái. Đây là gia đình Nhật của con. Đừng bỏ.<br>*(Đừng bỏ.)* |
+| Hoa | <ruby>母<rt>かあ</rt></ruby>さん、チェックイン<ruby>終<rt>お</rt></ruby>わりましたね。<br>*(Mẹ ơi, check-in xong rồi nhỉ.)* |
+| Mẹ Hoa | (tiếng Việt) Ừ. 4 tuần trôi nhanh quá. |
+| Hoa | (tiếng Việt) Mẹ này, đây là bento Việt vợ anh Tanaka làm để mẹ ăn trên máy bay. |
+| Mẹ Hoa | (tiếng Việt) Trời, chị ấy chu đáo quá. |
+| Hoa | (tiếng Việt) Mẹ về thay con cảm ơn chị ấy nhé. Lần sau mẹ sang, con dạy mẹ nói "ありがとうございました" cho thành thạo. |
+| Mẹ Hoa | (tiếng Việt) Hoa, mẹ thấy con trưởng thành lắm. Mẹ yên tâm về con. |
+| Hoa | (tiếng Việt, khóc) Mẹ giữ sức khoẻ. 5 năm sau hết SSW1 con sẽ về thăm mẹ với bố. |
+| Mẹ Hoa | (tiếng Việt) Ừ. Hạnh phúc quan trọng hơn thành công, đừng quên. |
+| Hoa | (tiếng Việt) Vâng. |
+| Mẹ Hoa | (tiếng Việt, ôm Hoa lần cuối) Mẹ đi đây. Hàng tuần video call mẹ nhé. |
+| Hoa | (tiếng Việt) Vâng. Mẹ đi cẩn thận. |
 
 ---
 
-## Tình huống 15 — Hoa quyết định · 19:30
+## Đọng lại chương 10
 
-| Speaker | Lời thoại |
-|---|---|
-| Hoa | (VN) Con sẽ ở lại Saitama.<br>*(Ở lại.)* |
-| Mẹ Hoa | (VN) Tốt.<br>*(Tốt.)* |
-| Hoa | (VN) Mai con báo anh Suzuki và từ chối Tokyo.<br>*(Báo Suzuki.)* |
-| Mẹ Hoa | (VN) Mẹ tự hào con quyết được.<br>*(Tự hào.)* |
-| Hoa | (VN) Mẹ này, có chuyện này con muốn hỏi nữa.<br>*(Còn.)* |
-| Mẹ Hoa | (VN) Gì.<br>*(Gì.)* |
-| Hoa | (VN) Sau SSW1 5 năm là SSW2. SSW2 con có thể đón mẹ với bố sang Nhật ở chung.<br>*(Đón sang.)* |
-| Mẹ Hoa | (VN) (Im) ...<br>*(Im.)* |
-| Hoa | (VN) Mẹ có muốn không?<br>*(Muốn không.)* |
-| Mẹ Hoa | (VN) Mẹ phải bàn với bố. Linh có cháu nhỏ. Bỏ Linh mẹ không yên.<br>*(Linh có con.)* |
-| Hoa | (VN) Vâng. Còn 5 năm để suy nghĩ.<br>*(5 năm.)* |
-| Mẹ Hoa | (VN) Nhưng nếu được... mẹ muốn.<br>*(Mẹ muốn.)* |
+Trong 4 tuần mẹ qua thăm, Hoa lần đầu trải nghiệm vai trò **phiên dịch gia đình–công ty** và học được hàng loạt mẫu câu trang trọng: **giới thiệu người thân với cấp trên** (<ruby>母<rt>はは</rt></ruby>のグエン・ティ・ランです・こちらが<ruby>田中<rt>たなか</rt></ruby><ruby>工場長<rt>こうじょうちょう</rt></ruby>です), **chuyển lời gián tiếp** (<ruby>母<rt>はは</rt></ruby>が「〜」と<ruby>申<rt>もう</rt></ruby>しております), **xin nghỉ phép có lý do gia đình** (<ruby>有給<rt>ゆうきゅう</rt></ruby>を<ruby>取<rt>と</rt></ruby>らせていただきます), **nhận quà và đáp lễ** (<ruby>恐<rt>おそ</rt></ruby>れ<ruby>入<rt>い</rt></ruby>ります・<ruby>感激<rt>かんげき</rt></ruby>しております), **nhờ người lạ giúp đỡ ngoài đường** (<ruby>写真<rt>しゃしん</rt></ruby><ruby>撮<rt>と</rt></ruby>っていただけませんか), **hỏi lại lễ phép thuật ngữ chưa hiểu** (〜というのは？・どんな<ruby>意味<rt>いみ</rt></ruby>ですか), **báo cáo quyết định công việc** (お<ruby>断<rt>ことわ</rt></ruby>りして<ruby>当社<rt>とうしゃ</rt></ruby>に<ruby>残<rt>のこ</rt></ruby>らせていただきたいです). Qua việc quan sát anh Tanaka đón tiếp mẹ và vợ anh nấu bento Việt, Hoa nhận ra **văn hoá tiếp đãi khách Nhật** rất trọng nghi lễ — quà 3 lớp, cách chuyển lời gián tiếp, cách dùng kính ngữ với người lớn tuổi. Cuối cùng câu mẹ dặn "tiền mất kiếm lại được, người mất không lấy lại" giúp Hoa quyết định ở lại Saitama thay vì chạy theo lương cao Tokyo.
 
----
-
-## Tình huống 16 — Kawagoe day trip · sáng tuần 3
-
-| Speaker | Lời thoại |
-|---|---|
-| Hoa | <ruby>川越<rt>かわごえ</rt></ruby>。<ruby>小江戸<rt>こえど</rt></ruby>と<ruby>呼<rt>よ</rt></ruby>ばれる。<br>*(Kawagoe. Gọi là Edo nhỏ.)* |
-| Mẹ Hoa | (VN) Như xưa! Nhà gỗ!<br>*(Nhà gỗ.)* |
-| Hoa | (VN) Thời Edo. 200 năm trước.<br>*(200 năm.)* |
-| Mẹ Hoa | (VN) Đẹp. Mẹ chưa từng thấy nhà gỗ thế này.<br>*(Chưa từng.)* |
-| Hoa | (VN) Mẹ này, mua bánh nhé. Bánh khoai.<br>*(Bánh khoai.)* |
-| Mẹ Hoa | (VN) Cái gì đây?<br>*(Gì.)* |
-| Hoa | (VN) Bánh khoai. Đặc sản Kawagoe.<br>*(Bánh khoai.)* |
-| Mẹ Hoa | (VN) (ăn) Ngọt nhẹ. Ngon. Mua mang về cho Linh.<br>*(Mang về.)* |
-| Hoa | (VN) Vâng. Gói riêng.<br>*(Gói.)* |
-
----
-
-## Tình huống 17 — Đêm trước mẹ về · 21:00
-
-| Speaker | Lời thoại |
-|---|---|
-| Mẹ Hoa | (VN) Mai mẹ về Việt Nam.<br>*(Mai về.)* |
-| Hoa | (VN) Vâng.<br>*(Vâng.)* |
-| Mẹ Hoa | (VN) 4 tuần trôi nhanh.<br>*(Trôi nhanh.)* |
-| Hoa | (VN) Vâng. Con không muốn mẹ về.<br>*(Không muốn.)* |
-| Mẹ Hoa | (VN) Mẹ phải về. Bố và Linh đợi.<br>*(Phải về.)* |
-| Hoa | (VN) Con biết.<br>*(Biết.)* |
-| Mẹ Hoa | (VN) Hoa, mẹ thấy con đã trưởng thành. Mẹ yên tâm.<br>*(Trưởng thành.)* |
-| Hoa | (VN) Mẹ này, con sẽ chăm chỉ làm việc. 5 năm sau đón mẹ sang.<br>*(5 năm.)* |
-| Mẹ Hoa | (VN) Mẹ chờ. Nhưng đừng quên: hạnh phúc quan trọng hơn thành công.<br>*(Hạnh phúc.)* |
-| Hoa | (VN, khóc) Vâng.<br>*(Vâng.)* |
-| Mẹ Hoa | (VN, ôm Hoa) Con của mẹ.<br>*(Con của mẹ.)* |
-
----
-
-## Tình huống 18 — Tiễn mẹ Narita · sáng 12/2
-
-| Speaker | Lời thoại |
-|---|---|
-| Hoa | <ruby>VN201<rt>ブイエヌにひゃくいち</rt></ruby><ruby>便<rt>びん</rt></ruby> <ruby>10<rt>じゅう</rt></ruby><ruby>時<rt>じ</rt></ruby><ruby>30<rt>さんじゅっ</rt></ruby><ruby>分<rt>ぷん</rt></ruby><ruby>出発<rt>しゅっぱつ</rt></ruby>。<br>*(VN201 10:30 cất cánh.)* |
-| Mẹ Hoa | (VN) Mẹ đã check-in.<br>*(Check-in.)* |
-| Hoa | (VN) Mẹ này, đây kẹo bento Việt Nam vợ Tanaka làm. Mang về.<br>*(Bento Việt.)* |
-| Mẹ Hoa | (VN) Cảm ơn vợ Tanaka giúp mẹ.<br>*(Cảm ơn.)* |
-| Hoa | (VN) Vâng.<br>*(Vâng.)* |
-| Mẹ Hoa | (VN, ôm Hoa lần cuối) Mẹ đi.<br>*(Đi.)* |
-| Hoa | (VN, khóc to) Mẹ! Mẹ đi cẩn thận!<br>*(Cẩn thận.)* |
-| Mẹ Hoa | (VN) Mẹ về sẽ video call. Hàng tuần.<br>*(Hàng tuần.)* |
-| Hoa | (VN) Vâng.<br>*(Vâng.)* |
-| Mẹ Hoa | (VN) Hoa, mẹ tự hào về con. Anh Tanaka, anh Suzuki, Mai, Trang — họ là gia đình con. Hãy yêu thương họ tốt.<br>*(Yêu họ.)* |
-| Hoa | (VN) Vâng.<br>*(Vâng.)* |
-| Mẹ Hoa | (VN, bước vào cổng) Tạm biệt!<br>*(Tạm biệt.)* |
-| Hoa | （<ruby>母<rt>はは</rt></ruby>が<ruby>消<rt>き</rt></ruby>えるまで<ruby>立<rt>た</rt></ruby>っている）<br>*(Đứng đến khi mẹ khuất.)* |
-| Hoa | (VN, một mình) ...<br>*(Một mình.)* |
-| Hoa | (VN) Saitama. Mình ở lại.<br>*(Ở lại.)* |
-
----
-
-## Bảng từ vựng
-
-| Từ | Kana | Nghĩa |
-|---|---|---|
-| 短期滞在 | たんきたいざい | Lưu trú ngắn hạn |
-| 来日 | らいにち | Sang Nhật |
-| 遠路はるばる | えんろはるばる | Từ xa đến |
-| 遠路 | えんろ | Đường xa |
-| 京都の絹 | きょうとのきぬ | Tơ Kyoto |
-| 評価記録 | ひょうかきろく | Hồ sơ đánh giá |
-| 浅草寺 | せんそうじ | Senso-ji |
-| 雷門 | かみなりもん | Kaminarimon (Cổng sấm) |
-| 小江戸 | こえど | Edo nhỏ (biệt danh Kawagoe) |
+> Từ vựng & mẫu câu chương này: <ruby>来日<rt>らいにち</rt></ruby>・<ruby>短期滞在<rt>たんきたいざい</rt></ruby>・<ruby>遠路<rt>えんろ</rt></ruby>はるばる・<ruby>通訳<rt>つうやく</rt></ruby>・<ruby>有給<rt>ゆうきゅう</rt></ruby><ruby>休暇<rt>きゅうか</rt></ruby>・<ruby>申請書<rt>しんせいしょ</rt></ruby>・<ruby>工場見学<rt>こうじょうけんがく</rt></ruby>・<ruby>後輩<rt>こうはい</rt></ruby>・<ruby>恐<rt>おそ</rt></ruby>れ<ruby>入<rt>い</rt></ruby>ります・<ruby>感激<rt>かんげき</rt></ruby>しております・<ruby>評価<rt>ひょうか</rt></ruby><ruby>記録<rt>きろく</rt></ruby>・Aランク・<ruby>監督<rt>かんとく</rt></ruby><ruby>団体<rt>だんたい</rt></ruby>・<ruby>特定<rt>とくてい</rt></ruby><ruby>技能<rt>ぎのう</rt></ruby><ruby>1<rt>いち</rt></ruby><ruby>号<rt>ごう</rt></ruby>・<ruby>京都<rt>きょうと</rt></ruby>の<ruby>絹<rt>きぬ</rt></ruby>・<ruby>雷門<rt>かみなりもん</rt></ruby>・<ruby>浅草寺<rt>せんそうじ</rt></ruby>・〜と<ruby>申<rt>もう</rt></ruby>しております・〜というのは？・<ruby>写真<rt>しゃしん</rt></ruby><ruby>撮<rt>と</rt></ruby>っていただけませんか・<ruby>有給<rt>ゆうきゅう</rt></ruby>を<ruby>取<rt>と</rt></ruby>らせていただきます・お<ruby>断<rt>ことわ</rt></ruby>りして<ruby>残<rt>のこ</rt></ruby>らせていただきたいです
 
 ## Bí quyết chương
 
 - **CLIMAX EMOTIONAL**: Mẹ qua thăm = đỉnh cao 3 năm sách 11+12+13.
-- **Triple bridge**: Mẹ Hoa ↔ Tanaka (cảm ơn nuôi con), Mẹ Hoa ↔ Vợ Tanaka (bento), Mẹ Hoa ↔ Mai+Trang (em gái).
-- **Mẹ giải lời**: "Tiền mất kiếm lại được. Người mất không lấy lại". Câu chốt giúp Hoa quyết stay.
-- **Quà 3 lớp**: Tanaka tặng khăn lụa, Vợ Tanaka tặng bento, Suzuki tặng hồ sơ đánh giá hạng A.
-- **Câu mẹ**: "Hạnh phúc quan trọng hơn thành công" — định hướng cho 5 năm tới.
-- **5 năm tới**: SSW2 → đón bố mẹ sang. Mở cánh cửa cho thế hệ tiếp theo.
+- **Triple bridge**: Mẹ Hoa ↔ Tanaka (cảm ơn nuôi con), Mẹ Hoa ↔ Vợ Tanaka (bento), Mẹ Hoa ↔ Mai+Trang (đàn em).
+- **Câu mẹ chốt**: "Tiền mất kiếm lại được. Người mất không lấy lại" → giúp Hoa quyết stay Saitama.
+- **5 năm tới**: SSW1 → SSW2 → mở đường đón bố mẹ sang Nhật.
 
-> *"Mẹ về Việt Nam. Tôi ở lại Saitama. Khoảnh khắc tiễn mẹ — biết rõ nhà của mình ở đâu."*
+---
+
+## Bảng từ vựng chương
+
+| Từ | Cách đọc | Hán Việt | Nghĩa tiếng Việt |
+|---|---|---|---|
+| 案内係 | あんないがかり | ÁN NỘI HỆ | nhân viên hướng dẫn |
+| 航空 | こうくう | HÀNG KHÔNG | hàng không |
+| 入国審査 | にゅうこくしんさ | NHẬP QUỐC THẨM TRA | thủ tục nhập cảnh |
+| 迎 | むかえ | NGHÊNH | đón |
+| 来日 | らいにち | LAI NHẬT | sang Nhật |
+| 心配 | しんぱい | TÂM PHỐI | lo lắng |
+| 出口 | でぐち | XUẤT KHẨU | lối ra |
+| 安心 | あんしん | AN TÂM | yên tâm |
+| 工場 | こうじょう | CÔNG TRƯỜNG | nhà máy |
+| 見学 | けんがく | KIẾN HỌC | tham quan |
+| 玄関 | げんかん | HUYỀN QUAN | sảnh, cửa chính |
+| 通訳 | つうやく | THÔNG DỊCH | phiên dịch |
+| 有給休暇 | ゆうきゅうきゅうか | HỮU CẤP HƯU HẠ | nghỉ phép có lương |
+| 申請書 | しんせいしょ | THÂN THỈNH THƯ | đơn xin |
+| 家族 | かぞく | GIA TỘC | gia đình |
+| 大切 | たいせつ | ĐẠI THIẾT | quan trọng |
+| 遠路 | えんろ | VIỄN LỘ | đường xa |
+| 宝 | たから | BẢO | kho báu |
+| 育 | そだてる | DỤC | nuôi dạy |
+| 恐れ入 | おそれい | KHỦNG NHẬP | quá khen, cảm tạ |
+| 風 | ふう | PHONG | kiểu |
+| 料理 | りょうり | LIỆU LÝ | món ăn |
+| 豚肉 | ぶたにく | ĐỒN NHỤC | thịt heo |
+| 春巻 | はるまき | XUÂN QUYỂN | nem cuốn |
+| 感激 | かんげき | CẢM KÍCH | xúc động |
+| 教 | おしえ | GIÁO | dạy |
+| 叱 | しか | XÍCH | la mắng |
+| 通行人 | つうこうにん | THÔNG HÀNH NHÂN | người qua đường |
+| 写真 | しゃしん | TẢ CHÂN | ảnh |
+| 背景 | はいけい | BỐI CẢNH | phông nền |
+| 記念 | きねん | KỶ NIỆM | kỷ niệm |
+| 寿司 | すし | THỌ TƯ | sushi |
+| 初心者 | しょしんしゃ | SƠ TÂM GIẢ | người mới |
+| 玉子 | たまご | NGỌC TỬ | trứng |
+| 生 | なま | SINH | tươi sống |
+| 苦手 | にがて | KHỔ THỦ | không quen |
+| 生魚 | なまざかな | SINH NGƯ | cá sống |
+| 土産 | みやげ | THỔ SẢN | quà |
+| 用意 | ようい | DỤNG Ý | chuẩn bị |
+| 絹 | きぬ | QUYÊN | lụa |
+| 似合 | にあ | TỰ HỢP | hợp với |
+| 預 | あずか | DỰ | gửi gắm |
+| 産 | う | SẢN | sinh |
+| 皆様 | みなさま | GIAI DẠNG | quý vị |
+| 監督団体 | かんとくだんたい | GIÁM ĐỐC ĐOÀN THỂ | tổ chức giám sát |
+| 評価記録 | ひょうかきろく | BÌNH GIÁ KÝ LỤC | hồ sơ đánh giá |
+| 具体的 | ぐたいてき | CỤ THỂ ĐÍCH | cụ thể |
+| 勤怠 | きんたい | CẦN ĐÃI | chuyên cần |
+| 能力 | のうりょく | NĂNG LỰC | năng lực |
+| 総合 | そうごう | TỔNG HỢP | tổng hợp |
+| 特定技能 | とくていぎのう | ĐẶC ĐỊNH KỸ NĂNG | kỹ năng đặc định |
+| 断 | ことわ | ĐOẠN | từ chối |
+| 残 | のこ | TÀN | ở lại |
+| 必要 | ひつよう | TẤT YẾU | cần thiết |

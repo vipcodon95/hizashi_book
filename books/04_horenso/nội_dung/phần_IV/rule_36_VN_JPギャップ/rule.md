@@ -18,7 +18,7 @@ Em Dũng đang làm 1 task 3 ngày: build proposal Phase 3 cost. Lần đầu D�
 
 *Slack thứ Hai 9:00, sau khi nhận task từ Matsumoto · thứ Hai 18:00 - thứ Tư 12:00 — silence, Dũng đang làm · thứ Tư 13:00, Slack DM · panic*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「承知しました。木曜中に提案書をご準備いたします。」 |
 |  | (im lặng 51 giờ) |
@@ -34,7 +34,7 @@ Em Dũng đang làm 1 task 3 ngày: build proposal Phase 3 cost. Lần đầu D�
 
 *thứ Hai 9:00 · 火曜 18:00, Slack · 火曜 18:30 · 水曜 18:00, Slack · 木曜 8:50, メール*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「松本様、承知しました。木曜中に提案書をご準備いたします。**進捗共有の予定:**【1】 火曜EOD: ドラフト構成案 / 水曜EOD: コスト見積完了 / 木曜AM: 完成版送付。途中で blocker あればすぐご連絡いたします。」 |
 | **ズン** | 「**【中間報告 ① / 火曜EOD】** ドラフト構成案完成。Phase 3 機能スコープ8項目、コスト軸は人月+ライセンスで構成予定。**ブロッカーなし、予定通り進行中**【2】。明日のコスト見積完了報告は水曜 EOD に行います。」 |

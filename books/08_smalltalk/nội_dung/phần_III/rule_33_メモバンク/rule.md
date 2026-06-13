@@ -26,7 +26,7 @@ Tháng 3/2027. Dũng tổng kết 1 năm 雑談 thực chiến với 19 cast kh�
 
 *internal monologue, vừa kết thúc dinner với 中村CFO ở Sapporo · tự nhắc · cùng taxi*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | (Mở Notion, gõ ngay…) |
 | *— Memo —* | **DATE**: 2027-03-15 / **WHO**: 中村CFO 札幌 / **TOPIC**: ライラック・新庄ファイターズ・積丹ウニ. **NEW INFO**: 娘さん北海道大学2年(法学部), 来年留学予定スウェーデン. **REQUEST**: 次回札幌時、円山公園案内してくれる. **MOOD**: warm, 30分中村CFOしゃべり. |
@@ -44,7 +44,7 @@ Tháng 3/2027. Dũng tổng kết 1 năm 雑談 thực chiến với 19 cast kh�
 
 *8:50 sáng, trước họp 9:00 với 松本PM, mở Notion 3 phút · vào phòng · natural mở · 目を見開く · 感動*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | (Đọc memo)… |
 | *— Memo cũ 2026-12 —* | 松本PM. 浅草下町, 江戸前寿司派, 月島いろは推し. **奥様**: 元 OL → 現在ペット同伴カフェ経営. **息子**: 高校2年 (16歳), 野球部. **次回ネタ**: 息子の野球部の進捗. |
@@ -62,7 +62,7 @@ Tháng 3/2027. Dũng tổng kết 1 năm 雑談 thực chiến với 19 cast kh�
 
 *meeting room, white board*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「**Memory Bank の5要素** — 出身地 / 食 / Sport / 家族 / 前回話した内容。最低この5つ毎回ログる。」 |
 | **リン** | 「家族情報って、どこまでOKですか?ストーカーっぽくないですか?」 |
@@ -82,7 +82,7 @@ Tháng 3/2027. Dũng tổng kết 1 năm 雑談 thực chiến với 19 cast kh�
 
 *LINE/email 中村CFOに 3 ヶ月後 reminder kêu · reply 2時間後 · internal — log lại*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | (Gõ message…) |
 | *— Email —* | 「**中村CFO** 件名: 札幌は桜の季節ですね. お世話になっております。3月にお会いした際、お嬢様のスウェーデン留学準備のお話を伺いました。**準備、いかがお進みでしょうか?** 春の札幌、円山公園の桜も気になっております。次回北海道へ伺う機会がございましたら、ぜひお茶をご一緒できれば嬉しく存じます。 ズン」 |

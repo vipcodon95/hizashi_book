@@ -25,7 +25,7 @@
 
 *12:00, đứng dậy ngay sau khi nói "では本日はこれで" · tự ra cửa · đứng tại phòng họp, vẫy tay · quay đầu thoáng nhíu mày*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **フオン副部長** | 「お疲れさまでした。気をつけて帰ってください。」 |
 | **大垣 + 中村 + 松本** | 「では失礼します。」 |
@@ -40,7 +40,7 @@
 
 *12:00, đứng dậy, bow 30° · dẫn đoàn xuống thang máy → lobby → cửa · tại lobby, đã book taxi sẵn, taxi đến · lên xe, vẫy · bow 45°, đứng yên cho đến khi xe đi khuất khỏi tầm mắt【3】 · xe khuất → 3 người mới đứng thẳng, vào trong*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **フオン副部長** | 「**本日は誠にありがとうございました。ロビーまでお見送りさせていただきます**【1】。」 |
 | **大垣** | 「ご丁寧に、恐縮です。」 |

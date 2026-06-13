@@ -1,309 +1,308 @@
-# Sách 12 · T1. Năm mới — Chế độ Ikusei Shuurou bắt đầu (新制度の朝)
+# Sách thực tập sinh thực phẩm · T1. Năm thứ hai dưới chế độ mới (新制度の朝・育成就労開始)
 
-> **Mục tiêu nhân vật:** Hoa bước vào năm 2 đúng ngày chế độ 育成就労 thi hành. Hoa cảm nhận lần đầu trách nhiệm sempai khi Tanaka báo sắp có kohai VN mới sang.
+> **Mục tiêu nhân vật:** Hoa (22 tuổi, Hà Nội) bước vào năm 2 tại nhà máy cơm hộp Aichi đúng ngày 育成就労 thi hành. Học các mẫu hội thoại tiếng Nhật của sempai năm 2: chào hỏi đầu năm tài khoá (新年度のご挨拶), nghe thông báo chính sách trong phòng họp và xác nhận lại (〜ということですね), đặt câu hỏi lễ phép trong Q&A (質問してもよろしいでしょうか), nhận chỉ thị từ 部長 và đáp 承知しました, hỏi lại khi chưa hiểu từ chuyên ngành (〜というのは？), cảm ơn 先輩 chỉ bảo (ご指導ありがとうございます).
 
 ---
 
 ## Bối cảnh
 
-1 tháng 4 năm 2027. Năm tài khoá Nhật bắt đầu. Cũng là ngày chế độ **育成就労 (Ikusei Shuurou)** chính thức thay thế **技能実習 (Gino Jisshu)**. Hoa đã ở Nhật tròn 1 năm, lên năm 2 — nhưng vẫn thuộc chế độ TTS cũ vì nhập 4/2026. Sáng nay nhà máy có buổi họp toàn phòng SX để Suzuki giải thích chế độ mới.
+Ngày 1 tháng 4 năm 2027. Năm tài khoá mới bắt đầu, cũng là ngày chế độ **育成就労 (いくせいしゅうろう)** chính thức thay **技能実習 (ぎのうじっしゅう)**. Hoa đã ở Nhật tròn 1 năm, làm dây chuyền topping cơm hộp tại nhà máy thực phẩm Aichi, trình độ tiếng Nhật N5+. Hoa vẫn thuộc TTS cũ vì nhập cảnh 4/2026, còn kohai Mai sắp sang sẽ thuộc chế độ mới. Chương này tập trung các mẫu câu giao tiếp năm 2: chào năm mới tài khoá, nghe và xác nhận thông báo chính sách trong họp toàn xưởng, nhận lệnh chỉ đạo kohai từ 部長, và xin lời khuyên từ 先輩.
 
 ---
 
-## Tình huống 1 — Phòng ký túc · 5:30 sáng
+## Tình huống 1 — Bếp ký túc · 6:00, chào năm tài khoá mới với đồng nghiệp Indonesia
 
-Hoa đứng trước gương cài cúc đồng phục mới. Trên bàn có cuốn sổ tay 指導員 Tanaka tặng cuối năm 1.
-
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Hoa | <ruby>2<rt>に</rt></ruby><ruby>年目<rt>ねんめ</rt></ruby>か...<br>*(Năm thứ 2 rồi à...)* |
-| Hoa | <ruby>1<rt>いち</rt></ruby><ruby>年前<rt>ねんまえ</rt></ruby>の<ruby>今日<rt>きょう</rt></ruby>、<ruby>初<rt>はじ</rt></ruby>めて<ruby>制服<rt>せいふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>た。<br>*(1 năm trước hôm nay, lần đầu mặc đồng phục.)* |
-| Hoa | <ruby>今日<rt>きょう</rt></ruby>から、<ruby>後輩<rt>こうはい</rt></ruby>ができるかもしれない。<br>*(Từ hôm nay, có thể đã có kohai rồi.)* |
-| Hoa | <ruby>頑張<rt>がんば</rt></ruby>ろう。<br>*(Cố lên.)* |
-
----
-
-## Tình huống 2 — Bếp ký túc · 6:00 sáng
-
-Linh chị đã về VN. Hoa nấu mì gói một mình. Putri đi qua.
-
-| Speaker | Lời thoại |
-|---|---|
-| Putri | ホアちゃん、おはよう!<br>*(Hoa-chan, chào buổi sáng!)* |
-| Hoa | おはよう、プトゥリ。<ruby>早<rt>はや</rt></ruby>いね。<br>*(Chào buổi sáng, Putri. Sớm nhỉ.)* |
-| Putri | <ruby>今日<rt>きょう</rt></ruby>から<ruby>新<rt>あたら</rt></ruby>しい<ruby>制度<rt>せいど</rt></ruby>でしょう?ドキドキ。<br>*(Hôm nay là chế độ mới phải không? Hồi hộp ghê.)* |
-| Hoa | プトゥリも<ruby>育成就労<rt>いくせいしゅうろう</rt></ruby>?<br>*(Putri cũng là Ikusei Shuurou à?)* |
-| Putri | ううん、<ruby>私<rt>わたし</rt></ruby>は<ruby>特定技能<rt>とくていぎのう</rt></ruby>。<ruby>去年<rt>きょねん</rt></ruby>から。<br>*(Không, tôi là Tokutei Ginou. Từ năm ngoái rồi.)* |
-| Hoa | あ、そうだった。<ruby>私<rt>わたし</rt></ruby>は<ruby>技能実習<rt>ぎのうじっしゅう</rt></ruby>のまま。<br>*(À, đúng rồi. Tôi vẫn là TTS.)* |
+| Putri | ホアちゃん、おはよう! <ruby>新年度<rt>しんねんど</rt></ruby>おめでとう。<br>*(Hoa-chan, chào buổi sáng! Chúc mừng năm tài khoá mới.)* |
+| Hoa | おはよう、プトゥリ。<ruby>新年度<rt>しんねんど</rt></ruby>おめでとう。<ruby>早<rt>はや</rt></ruby>いね。<br>*(Chào buổi sáng, Putri. Chúc mừng năm tài khoá mới. Sớm nhỉ.)* |
+| Putri | <ruby>今日<rt>きょう</rt></ruby>から<ruby>新<rt>あたら</rt></ruby>しい<ruby>制度<rt>せいど</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まるでしょう?ドキドキ。<br>*(Hôm nay chế độ mới bắt đầu phải không? Hồi hộp ghê.)* |
+| Hoa | プトゥリも<ruby>育成就労<rt>いくせいしゅうろう</rt></ruby>になるの?<br>*(Putri cũng sẽ thành Ikusei Shuurou à?)* |
+| Putri | ううん、<ruby>私<rt>わたし</rt></ruby>は<ruby>特定技能<rt>とくていぎのう</rt></ruby>のままです。<ruby>去年<rt>きょねん</rt></ruby>から<ruby>変<rt>か</rt></ruby>わっていません。<br>*(Không, tôi vẫn là Tokutei Ginou. Từ năm ngoái không đổi.)* |
+| Hoa | あ、そうだったね。<ruby>私<rt>わたし</rt></ruby>は<ruby>技能実習<rt>ぎのうじっしゅう</rt></ruby>のまま、<ruby>契約<rt>けいやく</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>までです。<br>*(À, đúng rồi. Tôi vẫn là TTS, đến hết hợp đồng.)* |
 | Putri | ホアちゃん、<ruby>2<rt>に</rt></ruby><ruby>年目<rt>ねんめ</rt></ruby>おめでとう!<br>*(Hoa-chan, chúc mừng năm thứ 2!)* |
-| Hoa | ありがとう。プトゥリは<ruby>仕事<rt>しごと</rt></ruby>、<ruby>慣<rt>な</rt></ruby>れた?<br>*(Cảm ơn. Putri quen việc chưa?)* |
-| Putri | うん、もう1<ruby>年半<rt>ねんはん</rt></ruby>。でも、まだ<ruby>失敗<rt>しっぱい</rt></ruby>する。<br>*(Ừ, đã 1 năm rưỡi rồi. Nhưng vẫn còn sai.)* |
-| Hoa | <ruby>同<rt>おな</rt></ruby>じだね。<br>*(Giống nhau nhỉ.)* |
+| Hoa | ありがとう。プトゥリは<ruby>仕事<rt>しごと</rt></ruby>にもう<ruby>慣<rt>な</rt></ruby>れた?<br>*(Cảm ơn. Putri quen việc chưa?)* |
+| Putri | うん、もう<ruby>1<rt>いち</rt></ruby><ruby>年半<rt>ねんはん</rt></ruby>。でも、まだ<ruby>失敗<rt>しっぱい</rt></ruby>することがあります。<br>*(Ừ, đã 1 năm rưỡi rồi. Nhưng vẫn có lúc sai.)* |
+| Hoa | <ruby>同<rt>おな</rt></ruby>じだね。<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>頑張<rt>がんば</rt></ruby>ろう。<br>*(Giống nhau nhỉ. Cùng cố gắng nhé.)* |
 
 ---
 
-## Tình huống 3 — Trạm xe buýt · 6:30 sáng
+## Tình huống 2 — Trạm xe buýt · 6:30, chào sempai và hỏi đáp về kohai mới
 
-Hoa đi với Satou-senpai. Trời lạnh đầu xuân.
-
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Satou | おはよう、ホアさん。<ruby>早<rt>はや</rt></ruby>いね。<br>*(Chào Hoa-san. Sớm nhỉ.)* |
-| Hoa | おはようございます、<ruby>佐藤<rt>さとう</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>。<br>*(Chào buổi sáng anh Satou.)* |
-| Satou | <ruby>今日<rt>きょう</rt></ruby>から<ruby>2<rt>に</rt></ruby><ruby>年目<rt>ねんめ</rt></ruby>だね、おめでとう。<br>*(Từ hôm nay là năm thứ 2 rồi nhỉ, chúc mừng.)* |
+| Hoa | おはようございます、<ruby>佐藤<rt>さとう</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>。<ruby>新年度<rt>しんねんど</rt></ruby>もよろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。<br>*(Chào buổi sáng anh Satou. Năm tài khoá mới mong anh chỉ bảo ạ.)* |
+| Satou | おはよう、ホアさん。こちらこそよろしく。<ruby>今日<rt>きょう</rt></ruby>から<ruby>2<rt>に</rt></ruby><ruby>年目<rt>ねんめ</rt></ruby>だね、おめでとう。<br>*(Chào Hoa-san. Anh cũng vậy. Từ hôm nay là năm thứ 2 rồi nhỉ, chúc mừng.)* |
 | Hoa | ありがとうございます。<ruby>少<rt>すこ</rt></ruby>し<ruby>緊張<rt>きんちょう</rt></ruby>します。<br>*(Cảm ơn anh. Em hơi căng thẳng.)* |
-| Satou | <ruby>新<rt>あたら</rt></ruby>しい<ruby>制度<rt>せいど</rt></ruby>のこと?<br>*(Chuyện chế độ mới à?)* |
-| Hoa | はい。それと、<ruby>後輩<rt>こうはい</rt></ruby>のこと、<ruby>聞<rt>き</rt></ruby>きました。<br>*(Vâng. Và chuyện kohai, em nghe rồi.)* |
-| Satou | あ、マイさんね。<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>もサポートするから。<br>*(À, Mai-san nhỉ. Không sao, anh cũng sẽ hỗ trợ.)* |
-| Hoa | <ruby>佐藤<rt>さとう</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>がいて、<ruby>安心<rt>あんしん</rt></ruby>します。<br>*(Có anh Satou, em yên tâm.)* |
+| Satou | <ruby>新<rt>あたら</rt></ruby>しい<ruby>制度<rt>せいど</rt></ruby>のことが<ruby>気<rt>き</rt></ruby>になりますか?<br>*(Em đang lo về chế độ mới à?)* |
+| Hoa | はい。それと、<ruby>後輩<rt>こうはい</rt></ruby>のことも<ruby>聞<rt>き</rt></ruby>きました。<br>*(Vâng. Và chuyện kohai em cũng nghe rồi.)* |
+| Satou | あ、マイさんのことね。<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>もサポートするからね。<br>*(À, chuyện Mai-san nhỉ. Không sao, anh cũng sẽ hỗ trợ.)* |
+| Hoa | <ruby>佐藤<rt>さとう</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>がいてくださって、<ruby>安心<rt>あんしん</rt></ruby>します。<ruby>本当<rt>ほんとう</rt></ruby>にありがとうございます。<br>*(Có anh Satou, em yên tâm. Em thực sự cảm ơn ạ.)* |
+| Satou | <ruby>困<rt>こま</rt></ruby>ったら、いつでも<ruby>聞<rt>き</rt></ruby>いてくださいね。<br>*(Có gì khó cứ hỏi anh bất cứ lúc nào nhé.)* |
+| Hoa | はい、<ruby>承知<rt>しょうち</rt></ruby>しました。<br>*(Vâng, em rõ ạ.)* |
 
 ---
 
-## Tình huống 4 — Phòng họp nhà máy · 9:00
+## Tình huống 3 — Phòng họp nhà máy · 9:00, nghe 部長 và 監理員 giải thích chế độ mới
 
-Toàn phòng SX tập hợp. Tanaka đứng trước, Suzuki cầm tài liệu. Cast cũ đầy đủ.
-
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Tanaka | <ruby>皆<rt>みな</rt></ruby>さん、おはようございます。<br>*(Mọi người, chào buổi sáng.)* |
-| Nhân vật | おはようございます。<br>*(Chào buổi sáng.)* |
-| Tanaka | <ruby>本日<rt>ほんじつ</rt></ruby>4<ruby>月<rt>がつ</rt></ruby>1<ruby>日<rt>にち</rt></ruby>から、<ruby>新<rt>あたら</rt></ruby>しい<ruby>制度<rt>せいど</rt></ruby>「<ruby>育成就労<rt>いくせいしゅうろう</rt></ruby>」が<ruby>施行<rt>しこう</rt></ruby>されます。<br>*(Từ hôm nay 1/4, chế độ mới "Ikusei Shuurou" được thi hành.)* |
-| Tanaka | <ruby>鈴木<rt>すずき</rt></ruby>さん、お<ruby>願<rt>ねが</rt></ruby>いします。<br>*(Anh Suzuki, mời anh.)* |
-| Suzuki | はい。<ruby>今<rt>いま</rt></ruby>までの「<ruby>技能実習<rt>ぎのうじっしゅう</rt></ruby>」が「<ruby>育成就労<rt>いくせいしゅうろう</rt></ruby>」に<ruby>変<rt>か</rt></ruby>わります。<br>*(Vâng. "Thực tập sinh kỹ năng" trước đây sẽ đổi thành "Ikusei Shuurou".)* |
-| Suzuki | <ruby>大事<rt>だいじ</rt></ruby>な<ruby>点<rt>てん</rt></ruby>は3つあります。<br>*(Có 3 điểm quan trọng.)* |
-| Suzuki | 1つ<ruby>目<rt>め</rt></ruby>:<ruby>期間<rt>きかん</rt></ruby>は3<ruby>年間<rt>ねんかん</rt></ruby>です。<br>*(Thứ 1: thời hạn 3 năm.)* |
-| Suzuki | 2つ<ruby>目<rt>め</rt></ruby>:1<ruby>年後<rt>ねんご</rt></ruby>から<ruby>転籍<rt>てんせき</rt></ruby>(<ruby>会社<rt>かいしゃ</rt></ruby><ruby>変<rt>か</rt></ruby>え)が<ruby>可能<rt>かのう</rt></ruby>になります。<br>*(Thứ 2: sau 1 năm có thể chuyển công ty.)* |
-| Suzuki | 3つ<ruby>目<rt>め</rt></ruby>:<ruby>監理団体<rt>かんりだんたい</rt></ruby>は「<ruby>監理支援機関<rt>かんりしえんきかん</rt></ruby>」に<ruby>名前<rt>なまえ</rt></ruby>が<ruby>変<rt>か</rt></ruby>わります。<br>*(Thứ 3: 監理団体 đổi tên thành 監理支援機関.)* |
+| Tanaka | <ruby>皆<rt>みな</rt></ruby>さん、おはようございます。<ruby>新年度<rt>しんねんど</rt></ruby>もよろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。<br>*(Mọi người, chào buổi sáng. Năm tài khoá mới mong mọi người chỉ giáo.)* |
+| Cả phòng | おはようございます。よろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。<br>*(Chào buổi sáng. Mong được chỉ giáo.)* |
+| Tanaka | <ruby>本日<rt>ほんじつ</rt></ruby><ruby>4<rt>し</rt></ruby><ruby>月<rt>がつ</rt></ruby><ruby>1<rt>つい</rt></ruby><ruby>日<rt>たち</rt></ruby>から、<ruby>新<rt>あたら</rt></ruby>しい<ruby>制度<rt>せいど</rt></ruby>「<ruby>育成就労<rt>いくせいしゅうろう</rt></ruby>」が<ruby>施行<rt>しこう</rt></ruby>されます。<ruby>鈴木<rt>すずき</rt></ruby>さん、ご<ruby>説明<rt>せつめい</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。<br>*(Từ hôm nay 1/4, chế độ mới "Ikusei Shuurou" được thi hành. Anh Suzuki, mời anh giải thích.)* |
+| Suzuki | はい。<ruby>今<rt>いま</rt></ruby>までの「<ruby>技能実習<rt>ぎのうじっしゅう</rt></ruby>」が「<ruby>育成就労<rt>いくせいしゅうろう</rt></ruby>」に<ruby>変<rt>か</rt></ruby>わります。<ruby>大事<rt>だいじ</rt></ruby>な<ruby>点<rt>てん</rt></ruby>は<ruby>三<rt>みっ</rt></ruby>つあります。<br>*(Vâng. "TTS" trước đây sẽ đổi thành "Ikusei Shuurou". Có 3 điểm quan trọng.)* |
+| Suzuki | <ruby>一<rt>ひと</rt></ruby>つ<ruby>目<rt>め</rt></ruby>、<ruby>期間<rt>きかん</rt></ruby>は<ruby>3<rt>さん</rt></ruby><ruby>年間<rt>ねんかん</rt></ruby>です。<ruby>二<rt>ふた</rt></ruby>つ<ruby>目<rt>め</rt></ruby>、<ruby>1<rt>いち</rt></ruby><ruby>年後<rt>ねんご</rt></ruby>から<ruby>転籍<rt>てんせき</rt></ruby>、つまり<ruby>会社<rt>かいしゃ</rt></ruby><ruby>変<rt>か</rt></ruby>えが<ruby>可能<rt>かのう</rt></ruby>になります。<ruby>三<rt>みっ</rt></ruby>つ<ruby>目<rt>め</rt></ruby>、「<ruby>監理団体<rt>かんりだんたい</rt></ruby>」は「<ruby>監理支援機関<rt>かんりしえんきかん</rt></ruby>」に<ruby>名前<rt>なまえ</rt></ruby>が<ruby>変<rt>か</rt></ruby>わります。<br>*(Thứ nhất, thời hạn 3 năm. Thứ hai, sau 1 năm có thể 転籍, tức là chuyển công ty. Thứ ba, "Đoàn thể giám sát" đổi tên thành "Cơ quan hỗ trợ giám sát".)* |
+| Hoa | (ghi vào sổ tay, mấp máy nhẩm) <ruby>3<rt>さん</rt></ruby><ruby>年間<rt>ねんかん</rt></ruby>・<ruby>転籍<rt>てんせき</rt></ruby>・<ruby>監理支援機関<rt>かんりしえんきかん</rt></ruby>...<br>*(3 năm, chuyển công ty, cơ quan hỗ trợ giám sát...)* |
 
 ---
 
-## Tình huống 5 — Q&A sau họp
+## Tình huống 4 — Phòng họp · 9:30, Q&A — Hoa và đồng nghiệp đặt câu hỏi lễ phép
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Yamada | <ruby>鈴木<rt>すずき</rt></ruby>さん、<ruby>質問<rt>しつもん</rt></ruby>があります。ホアさんは<ruby>今<rt>いま</rt></ruby>どっちですか?<br>*(Anh Suzuki, em có câu hỏi. Hoa-san hiện tại thuộc chế độ nào?)* |
-| Suzuki | いい<ruby>質問<rt>しつもん</rt></ruby>。<br>*(Câu hỏi hay.)* |
-| Suzuki | ホアさんは<ruby>去年<rt>きょねん</rt></ruby>4<ruby>月入国<rt>がつにゅうこく</rt></ruby>なので、<ruby>技能実習<rt>ぎのうじっしゅう</rt></ruby>のままです。3<ruby>年契約<rt>ねんけいやく</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>まで。<br>*(Hoa-san vào tháng 4 năm ngoái nên vẫn là TTS. Đến hết hợp đồng 3 năm.)* |
-| Hoa | あの、<ruby>新<rt>あたら</rt></ruby>しく<ruby>来<rt>く</rt></ruby>る<ruby>後輩<rt>こうはい</rt></ruby>は?<br>*(Ờ... còn kohai mới sang thì sao ạ?)* |
-| Suzuki | <ruby>今日<rt>きょう</rt></ruby>から<ruby>来<rt>く</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>は<ruby>全員<rt>ぜんいん</rt></ruby>「<ruby>育成就労<rt>いくせいしゅうろう</rt></ruby>」になります。<br>*(Từ hôm nay người mới sang đều là "Ikusei Shuurou".)* |
-| Kimura | じゃあ、2つの<ruby>制度<rt>せいど</rt></ruby>が<ruby>同<rt>おな</rt></ruby>じ<ruby>工場<rt>こうじょう</rt></ruby>にいるんですね?<br>*(Vậy là 2 chế độ cùng tồn tại trong nhà máy phải không?)* |
-| Suzuki | そうです。<ruby>少<rt>すこ</rt></ruby>し<ruby>複雑<rt>ふくざつ</rt></ruby>ですが、<ruby>仕事<rt>しごと</rt></ruby>は<ruby>同<rt>おな</rt></ruby>じです。<br>*(Đúng vậy. Hơi phức tạp nhưng công việc vẫn vậy.)* |
-| Takahashi | <ruby>転籍<rt>てんせき</rt></ruby>の<ruby>条件<rt>じょうけん</rt></ruby>は?<br>*(Điều kiện chuyển công ty là gì?)* |
-| Suzuki | <ruby>同<rt>おな</rt></ruby>じ<ruby>業種<rt>ぎょうしゅ</rt></ruby>、1<ruby>年以上<rt>ねんいじょう</rt></ruby><ruby>勤務<rt>きんむ</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>レベルA2<ruby>以上<rt>いじょう</rt></ruby>です。<br>*(Cùng ngành, làm trên 1 năm, tiếng Nhật A2 trở lên.)* |
-| Suzuki | あ、もう1つ。<ruby>私<rt>わたし</rt></ruby>の<ruby>団体<rt>だんたい</rt></ruby>も<ruby>新<rt>あたら</rt></ruby>しい<ruby>許可<rt>きょか</rt></ruby>を<ruby>取<rt>と</rt></ruby>って、<ruby>監理支援機関<rt>かんりしえんきかん</rt></ruby>として<ruby>続<rt>つづ</rt></ruby>けます。<br>*(À, một điều nữa. Tổ chức của tôi cũng đã có giấy phép mới, tiếp tục với tư cách 監理支援機関.)* |
-| Suzuki | <ruby>外部監査人<rt>がいぶかんさにん</rt></ruby>も<ruby>増<rt>ふ</rt></ruby>えました。よろしくお<ruby>願<rt>ねが</rt></ruby>いします。<br>*(Có thêm 外部監査人. Mong mọi người chỉ giáo.)* |
-
-### 💡 Note nhỏ
-
-「<ruby>転籍<rt>てんせき</rt></ruby>」 = chuyển công ty trong cùng ngành. Đây là quyền MỚI của Ikusei mà TTS cũ không có. Chính phủ Nhật thêm để tránh tình trạng bóc lột.
+| Yamada | <ruby>鈴木<rt>すずき</rt></ruby>さん、<ruby>質問<rt>しつもん</rt></ruby>してもよろしいでしょうか?ホアさんは<ruby>今<rt>いま</rt></ruby>どちらの<ruby>制度<rt>せいど</rt></ruby>になりますか?<br>*(Anh Suzuki, em xin hỏi được không? Hoa-san hiện thuộc chế độ nào ạ?)* |
+| Suzuki | いい<ruby>質問<rt>しつもん</rt></ruby>ですね。ホアさんは<ruby>去年<rt>きょねん</rt></ruby><ruby>4<rt>し</rt></ruby><ruby>月<rt>がつ</rt></ruby><ruby>入国<rt>にゅうこく</rt></ruby>ですので、<ruby>技能実習<rt>ぎのうじっしゅう</rt></ruby>のままです。<ruby>3<rt>さん</rt></ruby><ruby>年契約<rt>ねんけいやく</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>までそのままです。<br>*(Câu hỏi hay. Hoa-san vào tháng 4 năm ngoái nên vẫn là TTS. Đến hết hợp đồng 3 năm vẫn vậy.)* |
+| Hoa | あの、<ruby>質問<rt>しつもん</rt></ruby>してもよろしいでしょうか?<ruby>新<rt>あたら</rt></ruby>しく<ruby>来<rt>く</rt></ruby>る<ruby>後輩<rt>こうはい</rt></ruby>は、どちらになりますか?<br>*(Em xin hỏi được không ạ? Kohai mới sang sẽ thuộc chế độ nào ạ?)* |
+| Suzuki | <ruby>今日<rt>きょう</rt></ruby>から<ruby>来日<rt>らいにち</rt></ruby>する<ruby>方<rt>かた</rt></ruby>は<ruby>全員<rt>ぜんいん</rt></ruby>「<ruby>育成就労<rt>いくせいしゅうろう</rt></ruby>」になります。<br>*(Từ hôm nay người mới sang đều là "Ikusei Shuurou".)* |
+| Hoa | つまり、<ruby>同<rt>おな</rt></ruby>じ<ruby>工場<rt>こうじょう</rt></ruby>に<ruby>二<rt>ふた</rt></ruby>つの<ruby>制度<rt>せいど</rt></ruby>が<ruby>並<rt>なら</rt></ruby>ぶ、ということですね。<br>*(Tức là, hai chế độ cùng tồn tại trong một nhà máy, đúng không ạ?)* |
+| Suzuki | そのとおりです。よく<ruby>整理<rt>せいり</rt></ruby>できましたね。<br>*(Đúng vậy. Em tóm tắt tốt đấy.)* |
+| Takahashi | <ruby>転籍<rt>てんせき</rt></ruby>の<ruby>条件<rt>じょうけん</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えていただけますか?<br>*(Anh có thể cho biết điều kiện 転籍 được không ạ?)* |
+| Suzuki | <ruby>同<rt>おな</rt></ruby>じ<ruby>業種<rt>ぎょうしゅ</rt></ruby>、<ruby>1<rt>いち</rt></ruby><ruby>年以上<rt>ねんいじょう</rt></ruby><ruby>勤務<rt>きんむ</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>レベルA2<ruby>以上<rt>いじょう</rt></ruby>です。<br>*(Cùng ngành, làm trên 1 năm, tiếng Nhật A2 trở lên.)* |
+| Hoa | すみません、「<ruby>業種<rt>ぎょうしゅ</rt></ruby>」というのは<ruby>何<rt>なん</rt></ruby>ですか?<br>*(Xin lỗi, "業種" nghĩa là gì ạ?)* |
+| Suzuki | いい<ruby>質問<rt>しつもん</rt></ruby>。<ruby>業種<rt>ぎょうしゅ</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby>です。<ruby>食品<rt>しょくひん</rt></ruby><ruby>製造<rt>せいぞう</rt></ruby>なら<ruby>食品<rt>しょくひん</rt></ruby><ruby>製造<rt>せいぞう</rt></ruby>のままです。<br>*(Câu hỏi hay. 業種 là loại công việc. Chế biến thực phẩm thì vẫn phải chế biến thực phẩm.)* |
+| Hoa | なるほど。<ruby>食品<rt>しょくひん</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>から<ruby>食品<rt>しょくひん</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>へ、ということですね。ありがとうございます。<br>*(Ra vậy. Tức là từ việc thực phẩm sang việc thực phẩm. Cảm ơn anh ạ.)* |
 
 ---
 
-## Tình huống 6 — Hành lang sau họp
+## Tình huống 5 — Hành lang sau họp · 10:00, xác nhận lại với 先輩 khi chưa rõ
 
-Hoa đi với Yamada-san về line.
-
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Yamada | <ruby>新<rt>あたら</rt></ruby>しい<ruby>制度<rt>せいど</rt></ruby>、<ruby>分<rt>わ</rt></ruby>かった?<br>*(Chế độ mới, hiểu chưa?)* |
-| Hoa | だいたいは。でも<ruby>転籍<rt>てんせき</rt></ruby>って、<ruby>本当<rt>ほんとう</rt></ruby>にできるんですか?<br>*(Đại khái. Nhưng chuyển công ty, thật sự làm được sao?)* |
-| Yamada | <ruby>条件<rt>じょうけん</rt></ruby>を<ruby>満<rt>み</rt></ruby>たせばね。でも<ruby>実際<rt>じっさい</rt></ruby>は<ruby>難<rt>むずか</rt></ruby>しいよ。<br>*(Nếu đáp ứng điều kiện thì có. Nhưng thực tế khó đấy.)* |
-| Hoa | なんでですか?<br>*(Tại sao ạ?)* |
-| Yamada | <ruby>新<rt>あたら</rt></ruby>しい<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>探<rt>さが</rt></ruby>すのも、<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>すのも、<ruby>大変<rt>たいへん</rt></ruby>。<br>*(Tìm công ty mới, chuyển nhà, đều vất vả.)* |
-| Hoa | なるほど。<br>*(À ra vậy.)* |
-| Yamada | でもね、<ruby>悪<rt>わる</rt></ruby>い<ruby>会社<rt>かいしゃ</rt></ruby>から<ruby>逃<rt>に</rt></ruby>げられるのは、いいことだよ。<br>*(Nhưng mà, thoát được khỏi công ty xấu là chuyện tốt đấy.)* |
+| Hoa | <ruby>山田<rt>やまだ</rt></ruby>さん、<ruby>朝<rt>あさ</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>、<ruby>分<rt>わ</rt></ruby>かりましたか?<br>*(Anh Yamada, buổi giải thích sáng anh hiểu chứ ạ?)* |
+| Yamada | だいたいね。ホアさんは?<br>*(Đại khái thôi. Còn Hoa-san?)* |
+| Hoa | <ruby>転籍<rt>てんせき</rt></ruby>って、<ruby>本当<rt>ほんとう</rt></ruby>にできるんですか?<br>*(Chuyển công ty, thật sự có thể làm được không ạ?)* |
+| Yamada | <ruby>条件<rt>じょうけん</rt></ruby>を<ruby>満<rt>み</rt></ruby>たせばできますよ。でも<ruby>実際<rt>じっさい</rt></ruby>は<ruby>難<rt>むずか</rt></ruby>しいです。<br>*(Nếu đáp ứng điều kiện thì có. Nhưng thực tế khó đấy.)* |
+| Hoa | どうして<ruby>難<rt>むずか</rt></ruby>しいですか?<br>*(Tại sao lại khó ạ?)* |
+| Yamada | <ruby>新<rt>あたら</rt></ruby>しい<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>探<rt>さが</rt></ruby>すのも、<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>すのも、<ruby>大変<rt>たいへん</rt></ruby>ですから。<br>*(Vì tìm công ty mới rồi chuyển nhà đều vất vả lắm.)* |
+| Hoa | なるほど、<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>しと<ruby>会社<rt>かいしゃ</rt></ruby><ruby>探<rt>さが</rt></ruby>しが<ruby>大変<rt>たいへん</rt></ruby>、ということですね。<br>*(Ra vậy, chuyển nhà và tìm công ty mới đều vất vả ạ.)* |
+| Yamada | そう。でもね、<ruby>悪<rt>わる</rt></ruby>い<ruby>会社<rt>かいしゃ</rt></ruby>から<ruby>逃<rt>に</rt></ruby>げられるのは、<ruby>本当<rt>ほんとう</rt></ruby>にいい<ruby>制度<rt>せいど</rt></ruby>ですよ。<br>*(Đúng. Nhưng thoát được khỏi công ty xấu thì đây là chế độ tốt thật.)* |
+| Hoa | わかりました。ご<ruby>説明<rt>せつめい</rt></ruby>ありがとうございました。<br>*(Em hiểu rồi. Em cảm ơn anh đã giải thích.)* |
 
 ---
 
-## Tình huống 7 — Line cơm hộp · 10:00
+## Tình huống 6 — Dây chuyền cơm hộp · 10:30, nhận chỉ thị làm trưởng dây chuyền topping
 
-Bắt đầu ca làm. Hoa và Satou đứng cùng vị trí topping.
-
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Satou | ホアさん、<ruby>今日<rt>きょう</rt></ruby>からトッピングのリーダーね。<br>*(Hoa-san, từ hôm nay làm trưởng nhóm topping nhé.)* |
-| Hoa | え、リーダー?<br>*(Ơ, trưởng nhóm?)* |
-| Satou | はい。マイさんが<ruby>来<rt>く</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>慣<rt>な</rt></ruby>れておこう。<br>*(Vâng. Trước khi Mai-san đến, làm quen trước đi.)* |
-| Hoa | わかりました。<ruby>頑張<rt>がんば</rt></ruby>ります。<br>*(Em hiểu rồi. Em sẽ cố gắng.)* |
-| Satou | <ruby>困<rt>こま</rt></ruby>ったら<ruby>呼<rt>よ</rt></ruby>んで。<ruby>隣<rt>となり</rt></ruby>のラインにいるから。<br>*(Có gì khó cứ gọi anh. Anh ở line bên cạnh.)* |
-| Hoa | はい。ありがとうございます。<br>*(Vâng. Cảm ơn anh.)* |
-| Satou | リーダーって、<ruby>難<rt>むずか</rt></ruby>しくないよ。<br>*(Leader ấy, không khó đâu.)* |
-| Hoa | <ruby>本当<rt>ほんとう</rt></ruby>?<br>*(Thật ạ?)* |
-| Satou | <ruby>速<rt>はや</rt></ruby>く<ruby>気<rt>き</rt></ruby>づいて、<ruby>速<rt>はや</rt></ruby>く<ruby>呼<rt>よ</rt></ruby>ぶだけ。<br>*(Chỉ cần thấy nhanh, gọi nhanh thôi.)* |
+| Satou | ホアさん、<ruby>今日<rt>きょう</rt></ruby>からトッピング・ラインのリーダーをお<ruby>願<rt>ねが</rt></ruby>いします。<br>*(Hoa-san, từ hôm nay nhờ em làm trưởng line topping nhé.)* |
+| Hoa | え、<ruby>私<rt>わたし</rt></ruby>がリーダーですか?<br>*(Ơ, em làm trưởng nhóm ạ?)* |
+| Satou | はい。マイさんが<ruby>来<rt>く</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>慣<rt>な</rt></ruby>れておきましょう。<br>*(Vâng. Trước khi Mai-san đến, làm quen trước đi.)* |
+| Hoa | <ruby>承知<rt>しょうち</rt></ruby>しました。<ruby>頑張<rt>がんば</rt></ruby>ります。<br>*(Em rõ ạ. Em sẽ cố gắng.)* |
+| Satou | リーダーの<ruby>仕事<rt>しごと</rt></ruby>は<ruby>三<rt>みっ</rt></ruby>つです。<ruby>一<rt>ひと</rt></ruby>つ、<ruby>材料<rt>ざいりょう</rt></ruby>の<ruby>残<rt>のこ</rt></ruby>りを<ruby>確認<rt>かくにん</rt></ruby>する。<ruby>二<rt>ふた</rt></ruby>つ、<ruby>異常<rt>いじょう</rt></ruby>があれば<ruby>速<rt>はや</rt></ruby>く<ruby>呼<rt>よ</rt></ruby>ぶ。<ruby>三<rt>みっ</rt></ruby>つ、メンバーに<ruby>声<rt>こえ</rt></ruby>をかける。<br>*(Việc của trưởng line có 3. Một, kiểm tra nguyên liệu còn lại. Hai, có bất thường gọi nhanh. Ba, lên tiếng với thành viên.)* |
+| Hoa | すみません、「<ruby>異常<rt>いじょう</rt></ruby>」というのは、どんなことですか?<br>*(Xin lỗi anh, "異常" cụ thể là những gì ạ?)* |
+| Satou | <ruby>例<rt>たと</rt></ruby>えば、<ruby>機械<rt>きかい</rt></ruby>の<ruby>音<rt>おと</rt></ruby>が<ruby>変<rt>か</rt></ruby>わったとか、<ruby>材料<rt>ざいりょう</rt></ruby>に<ruby>異物<rt>いぶつ</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ったとか、<ruby>普段<rt>ふだん</rt></ruby>と<ruby>違<rt>ちが</rt></ruby>うことです。<br>*(Ví dụ tiếng máy đổi, nguyên liệu có dị vật, những gì khác bình thường.)* |
+| Hoa | <ruby>機械<rt>きかい</rt></ruby>の<ruby>音<rt>おと</rt></ruby>と<ruby>異物<rt>いぶつ</rt></ruby>、ということですね。メモします。<br>*(Tiếng máy và dị vật ạ. Em ghi lại.)* |
+| Satou | <ruby>困<rt>こま</rt></ruby>ったら<ruby>隣<rt>となり</rt></ruby>のラインの<ruby>私<rt>わたし</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>んでください。<ruby>速<rt>はや</rt></ruby>く<ruby>気<rt>き</rt></ruby>づいて、<ruby>速<rt>はや</rt></ruby>く<ruby>呼<rt>よ</rt></ruby>ぶ、それだけです。<br>*(Có gì khó cứ gọi anh ở line bên cạnh. Phát hiện nhanh, gọi nhanh, chỉ vậy thôi.)* |
+| Hoa | はい、ご<ruby>指導<rt>しどう</rt></ruby>ありがとうございます。<br>*(Vâng, cảm ơn anh đã chỉ bảo.)* |
 
 ---
 
-## Tình huống 8 — Trưa · 食堂
+## Tình huống 7 — Phòng 部長 · 13:30, Hoa nhận nhiệm vụ làm 指導員 cho Mai
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Satou | お<ruby>疲<rt>つか</rt></ruby>れ。<ruby>朝<rt>あさ</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>、<ruby>難<rt>むずか</rt></ruby>しかった?<br>*(Vất vả rồi. Buổi sáng giải thích có khó hiểu không?)* |
-| Hoa | <ruby>少<rt>すこ</rt></ruby>し。でも<ruby>大体分<rt>だいたいわ</rt></ruby>かりました。<br>*(Một chút. Nhưng em hiểu đại khái.)* |
-| Satou | <ruby>今日<rt>きょう</rt></ruby>からホアさんも<ruby>先輩<rt>せんぱい</rt></ruby>だね。<ruby>2<rt>に</rt></ruby><ruby>年目<rt>ねんめ</rt></ruby>、おめでとう。<br>*(Từ hôm nay Hoa-san cũng là sempai rồi nhỉ. Chúc mừng năm thứ 2.)* |
-| Hoa | ありがとうございます。でも、<ruby>後輩<rt>こうはい</rt></ruby>に<ruby>教<rt>おし</rt></ruby>えるの、ちょっと<ruby>不安<rt>ふあん</rt></ruby>です。<br>*(Cảm ơn anh. Nhưng dạy lại kohai, em hơi lo.)* |
-| Satou | <ruby>大丈夫<rt>だいじょうぶ</rt></ruby>。<ruby>誰<rt>だれ</rt></ruby>でも<ruby>最初<rt>さいしょ</rt></ruby>はそう。<br>*(Không sao. Ai cũng vậy lúc đầu.)* |
-| Satou | <ruby>私<rt>わたし</rt></ruby>もホアさんの<ruby>時<rt>とき</rt></ruby>、<ruby>緊張<rt>きんちょう</rt></ruby>したよ。<br>*(Lúc dạy Hoa-san, anh cũng lo lắm đấy.)* |
-| Hoa | えっ、<ruby>本当<rt>ほんとう</rt></ruby>ですか?<br>*(Ơ, thật ạ?)* |
-| Satou | <ruby>本当<rt>ほんとう</rt></ruby>。1<ruby>年前<rt>ねんまえ</rt></ruby>、ホアさんが<ruby>初<rt>はじ</rt></ruby>めて<ruby>来<rt>き</rt></ruby>た<ruby>日<rt>ひ</rt></ruby>、<ruby>家<rt>うち</rt></ruby>で<ruby>教<rt>おし</rt></ruby>え<ruby>方<rt>かた</rt></ruby>を<ruby>練習<rt>れんしゅう</rt></ruby>したよ。<br>*(Thật. 1 năm trước, ngày Hoa-san mới đến, anh đã luyện cách dạy ở nhà đấy.)* |
-| Hoa | <ruby>知<rt>し</rt></ruby>りませんでした。<br>*(Em không biết.)* |
-| Satou | <ruby>誰<rt>だれ</rt></ruby>でも<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>不安<rt>ふあん</rt></ruby>。2<ruby>週間<rt>しゅうかん</rt></ruby>で<ruby>慣<rt>な</rt></ruby>れるよ。<br>*(Ai cũng lo lúc đầu. 2 tuần là quen thôi.)* |
-
----
-
-## Tình huống 9 — Văn phòng Suzuki · 13:30
-
-Hoa đến hỏi thêm về Mai.
-
-| Speaker | Lời thoại |
-|---|---|
-| Hoa | <ruby>鈴木<rt>すずき</rt></ruby>さん、ちょっとよろしいでしょうか?<br>*(Anh Suzuki, em xin một chút thời gian được không?)* |
-| Suzuki | どうぞ。<ruby>何<rt>なに</rt></ruby>か?<br>*(Mời. Có gì không?)* |
-| Hoa | マイさんのこと、もう<ruby>少<rt>すこ</rt></ruby>し<ruby>教<rt>おし</rt></ruby>えてください。<br>*(Về Mai-san, anh chỉ thêm cho em.)* |
-| Suzuki | はい。マイさんは21<ruby>歳<rt>さい</rt></ruby>、ベトナムのカントー<ruby>出身<rt>しゅっしん</rt></ruby>。<br>*(Vâng. Mai-san 21 tuổi, người Cần Thơ Việt Nam.)* |
-| Suzuki | <ruby>日本語<rt>にほんご</rt></ruby>はN5。ホアさんと<ruby>同<rt>おな</rt></ruby>じレベルです。<br>*(Tiếng Nhật N5. Cùng trình độ Hoa-san lúc đầu.)* |
-| Hoa | <ruby>専攻<rt>せんこう</rt></ruby>は?<br>*(Chuyên ngành là gì ạ?)* |
-| Suzuki | <ruby>食品加工<rt>しょくひんかこう</rt></ruby>。3<ruby>年<rt>ねん</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>しました。<br>*(Chế biến thực phẩm. Học 3 năm rồi.)* |
-| Hoa | <ruby>同<rt>おな</rt></ruby>じですね、<ruby>私<rt>わたし</rt></ruby>と。<br>*(Giống em.)* |
-| Suzuki | そう。だからホアさんに<ruby>頼<rt>たの</rt></ruby>んだ。<br>*(Đúng. Vì vậy mới nhờ Hoa-san.)* |
-| Hoa | <ruby>性格<rt>せいかく</rt></ruby>は?<br>*(Tính cách thế nào ạ?)* |
-| Suzuki | <ruby>静<rt>しず</rt></ruby>かで、<ruby>真面目<rt>まじめ</rt></ruby>。<ruby>少<rt>すこ</rt></ruby>し<ruby>恥<rt>は</rt></ruby>ずかしがり。<br>*(Trầm tính, nghiêm túc. Hơi rụt rè.)* |
-| Hoa | わかりました。<ruby>優<rt>やさ</rt></ruby>しく<ruby>接<rt>せっ</rt></ruby>します。<br>*(Em hiểu rồi. Em sẽ đối xử ân cần.)* |
-
----
-
-## Tình huống 10 — Phòng Tanaka-buchou · 15:00
-
-Tanaka gọi Hoa lên phòng riêng.
-
-| Speaker | Lời thoại |
-|---|---|
-| Tanaka | ホアさん、ちょっといいですか。<br>*(Hoa-san, có một chút thời gian không?)* |
+| Tanaka | ホアさん、ちょっとよろしいですか。<br>*(Hoa-san, có một chút thời gian không?)* |
 | Hoa | はい、<ruby>失礼<rt>しつれい</rt></ruby>します。<br>*(Vâng, em xin phép.)* |
-| Tanaka | <ruby>来月<rt>らいげつ</rt></ruby>5<ruby>月<rt>がつ</rt></ruby>、ベトナムから<ruby>新<rt>あたら</rt></ruby>しい<ruby>後輩<rt>こうはい</rt></ruby>が<ruby>来<rt>く</rt></ruby>ます。<br>*(Tháng 5 tới, có kohai mới từ Việt Nam đến.)* |
-| Tanaka | <ruby>名前<rt>なまえ</rt></ruby>はマイさん。21<ruby>歳<rt>さい</rt></ruby>。<br>*(Tên là Mai-san. 21 tuổi.)* |
-| Hoa | はい、<ruby>鈴木<rt>すずき</rt></ruby>さんから<ruby>聞<rt>き</rt></ruby>きました。<br>*(Vâng, em đã nghe từ anh Suzuki.)* |
-| Tanaka | マイさんの<ruby>指導<rt>しどう</rt></ruby>、ホアさんに<ruby>頼<rt>たの</rt></ruby>みたい。<br>*(Việc dạy Mai-san, tôi muốn nhờ Hoa-san.)* |
-| Hoa | <ruby>私<rt>わたし</rt></ruby>が... <ruby>大丈夫<rt>だいじょうぶ</rt></ruby>でしょうか?<br>*(Em... có làm được không ạ?)* |
-| Tanaka | <ruby>大丈夫<rt>だいじょうぶ</rt></ruby>。ホアさんは1<ruby>年間<rt>ねんかん</rt></ruby><ruby>頑張<rt>がんば</rt></ruby>った。<br>*(Không sao. Hoa-san đã cố gắng cả năm.)* |
-| Tanaka | <ruby>失敗<rt>しっぱい</rt></ruby>もあったけど、<ruby>毎回<rt>まいかい</rt></ruby><ruby>学<rt>まな</rt></ruby>んだ。<br>*(Có thất bại nhưng mỗi lần đều học.)* |
-| Tanaka | マイさんに<ruby>同<rt>おな</rt></ruby>じことを<ruby>教<rt>おし</rt></ruby>えてあげて。<br>*(Hãy dạy Mai-san những điều đó.)* |
-| Hoa | はい、<ruby>頑張<rt>がんば</rt></ruby>ります。<br>*(Vâng, em sẽ cố gắng.)* |
-| Tanaka | あと、ホアさんは<ruby>技能実習<rt>ぎのうじっしゅう</rt></ruby>、マイさんは<ruby>育成就労<rt>いくせいしゅうろう</rt></ruby>。<br>*(À, Hoa-san là TTS, Mai-san là Ikusei.)* |
-| Tanaka | <ruby>制度<rt>せいど</rt></ruby>は<ruby>違<rt>ちが</rt></ruby>うけど、<ruby>仕事<rt>しごと</rt></ruby>は<ruby>同<rt>おな</rt></ruby>じ。<ruby>気<rt>き</rt></ruby>にしないで。<br>*(Chế độ khác nhưng công việc giống. Đừng bận tâm.)* |
-| Hoa | はい、わかりました。<br>*(Vâng, em hiểu rồi.)* |
+| Tanaka | <ruby>来月<rt>らいげつ</rt></ruby><ruby>5<rt>ご</rt></ruby><ruby>月<rt>がつ</rt></ruby>、ベトナムから<ruby>新<rt>あたら</rt></ruby>しい<ruby>後輩<rt>こうはい</rt></ruby>が<ruby>来<rt>き</rt></ruby>ます。<ruby>名前<rt>なまえ</rt></ruby>はマイさん、<ruby>21<rt>にじゅういっ</rt></ruby><ruby>歳<rt>さい</rt></ruby>です。<br>*(Tháng 5 tới có kohai mới từ Việt Nam đến. Tên là Mai-san, 21 tuổi.)* |
+| Hoa | はい、<ruby>鈴木<rt>すずき</rt></ruby>さんから<ruby>少<rt>すこ</rt></ruby>し<ruby>聞<rt>き</rt></ruby>きました。<br>*(Vâng, em đã nghe sơ từ anh Suzuki.)* |
+| Tanaka | マイさんの<ruby>指導<rt>しどう</rt></ruby>を、ホアさんにお<ruby>願<rt>ねが</rt></ruby>いしたいと<ruby>思<rt>おも</rt></ruby>います。<br>*(Việc hướng dẫn Mai-san, tôi muốn nhờ Hoa-san.)* |
+| Hoa | <ruby>私<rt>わたし</rt></ruby>が<ruby>指導員<rt>しどういん</rt></ruby>として<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>でしょうか?<br>*(Em làm 指導員 có ổn không ạ?)* |
+| Tanaka | <ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。ホアさんは<ruby>1<rt>いち</rt></ruby><ruby>年間<rt>ねんかん</rt></ruby><ruby>頑張<rt>がんば</rt></ruby>ってきました。<ruby>失敗<rt>しっぱい</rt></ruby>もありましたが、<ruby>毎回<rt>まいかい</rt></ruby><ruby>学<rt>まな</rt></ruby>びました。<br>*(Không sao. Hoa-san đã cố gắng cả năm. Có thất bại nhưng mỗi lần đều học.)* |
+| Tanaka | マイさんに、<ruby>同<rt>おな</rt></ruby>じことを<ruby>教<rt>おし</rt></ruby>えてあげてください。<br>*(Hãy dạy Mai-san những điều đó.)* |
+| Hoa | はい、<ruby>承知<rt>しょうち</rt></ruby>しました。<ruby>精一杯<rt>せいいっぱい</rt></ruby><ruby>頑張<rt>がんば</rt></ruby>ります。<br>*(Vâng, em rõ ạ. Em sẽ cố gắng hết sức.)* |
+| Tanaka | あと、ホアさんは<ruby>技能実習<rt>ぎのうじっしゅう</rt></ruby>、マイさんは<ruby>育成就労<rt>いくせいしゅうろう</rt></ruby>です。<ruby>制度<rt>せいど</rt></ruby>は<ruby>違<rt>ちが</rt></ruby>いますが、<ruby>仕事<rt>しごと</rt></ruby>は<ruby>同<rt>おな</rt></ruby>じです。<ruby>気<rt>き</rt></ruby>にしないでください。<br>*(À, Hoa-san là TTS, Mai-san là Ikusei. Chế độ khác nhưng công việc giống. Đừng bận tâm.)* |
+| Hoa | はい、わかりました。ありがとうございます。<br>*(Vâng, em hiểu rồi. Em cảm ơn ạ.)* |
 
 ---
 
-## Tình huống 11 — Cuối ca · cửa nhà máy
+## Tình huống 8 — Văn phòng 鈴木 · 14:00, hỏi thông tin chi tiết về kohai
 
-Hoa đang về thì Kimura đi tới.
-
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Kimura | ホアさん、お<ruby>疲<rt>つか</rt></ruby>れさま。<br>*(Hoa-san, vất vả rồi.)* |
-| Hoa | <ruby>木村<rt>きむら</rt></ruby>さん、お<ruby>疲<rt>つか</rt></ruby>れさまでした。<br>*(Chị Kimura, em xin phép.)* |
-| Kimura | <ruby>後輩<rt>こうはい</rt></ruby>のこと、<ruby>聞<rt>き</rt></ruby>いた。<ruby>頑張<rt>がんば</rt></ruby>って。<br>*(Chuyện kohai, chị nghe rồi. Cố lên nhé.)* |
-| Hoa | はい。<ruby>不安<rt>ふあん</rt></ruby>ですけど...<br>*(Vâng. Em hơi lo...)* |
-| Kimura | <ruby>大丈夫<rt>だいじょうぶ</rt></ruby>。ホアさんなら<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>。<br>*(Không sao. Hoa-san sẽ làm được.)* |
-| Kimura | <ruby>去年<rt>きょねん</rt></ruby>の<ruby>監査<rt>かんさ</rt></ruby>の<ruby>時<rt>とき</rt></ruby>、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>立派<rt>りっぱ</rt></ruby>だったよ。<br>*(Lúc audit năm ngoái, em rất xuất sắc đấy.)* |
-| Hoa | ありがとうございます、<ruby>木村<rt>きむら</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>。<br>*(Cảm ơn chị Kimura.)* |
-| Kimura | <ruby>困<rt>こま</rt></ruby>った<ruby>時<rt>とき</rt></ruby>はいつでも<ruby>聞<rt>き</rt></ruby>いて。<br>*(Có gì khó cứ hỏi chị bất cứ lúc nào.)* |
-| Kimura | <ruby>私<rt>わたし</rt></ruby>も<ruby>後輩<rt>こうはい</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えた<ruby>経験<rt>けいけん</rt></ruby>あるから。<br>*(Chị cũng có kinh nghiệm dạy kohai rồi.)* |
-| Hoa | <ruby>本当<rt>ほんとう</rt></ruby>にありがとうございます。<br>*(Em thực sự cảm ơn chị.)* |
-| Kimura | <ruby>厳<rt>きび</rt></ruby>しくしすぎないこと。それだけ。<br>*(Đừng nghiêm khắc quá. Chỉ vậy thôi.)* |
-| Hoa | はい、<ruby>覚<rt>おぼ</rt></ruby>えておきます。<br>*(Vâng, em sẽ nhớ.)* |
+| Hoa | <ruby>鈴木<rt>すずき</rt></ruby>さん、ちょっとよろしいでしょうか?<br>*(Anh Suzuki, em xin một chút thời gian được không ạ?)* |
+| Suzuki | どうぞ、お<ruby>入<rt>はい</rt></ruby>りください。<ruby>何<rt>なに</rt></ruby>かありましたか?<br>*(Mời, vào đi. Có gì không?)* |
+| Hoa | マイさんのことを、もう<ruby>少<rt>すこ</rt></ruby>し<ruby>教<rt>おし</rt></ruby>えていただけますか?<br>*(Về Mai-san, anh có thể chỉ thêm cho em được không ạ?)* |
+| Suzuki | はい。マイさんは<ruby>21<rt>にじゅういっ</rt></ruby><ruby>歳<rt>さい</rt></ruby>、ベトナムのカントー<ruby>出身<rt>しゅっしん</rt></ruby>です。<ruby>日本語<rt>にほんご</rt></ruby>はN5レベルです。<br>*(Vâng. Mai-san 21 tuổi, người Cần Thơ Việt Nam. Tiếng Nhật trình độ N5.)* |
+| Hoa | <ruby>1<rt>いち</rt></ruby><ruby>年前<rt>ねんまえ</rt></ruby>の<ruby>私<rt>わたし</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じレベルですね。<ruby>専攻<rt>せんこう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか?<br>*(Cùng trình độ với em 1 năm trước. Chuyên ngành là gì ạ?)* |
+| Suzuki | <ruby>食品加工<rt>しょくひんかこう</rt></ruby>です。<ruby>3<rt>さん</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>してきました。<br>*(Chế biến thực phẩm. Học 3 năm rồi.)* |
+| Hoa | <ruby>私<rt>わたし</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じですね。<br>*(Giống em ạ.)* |
+| Suzuki | そう。だからホアさんに<ruby>指導<rt>しどう</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いしました。<br>*(Đúng. Vì vậy tôi mới nhờ Hoa-san hướng dẫn.)* |
+| Hoa | マイさんの<ruby>性格<rt>せいかく</rt></ruby>はどんな<ruby>感<rt>かん</rt></ruby>じですか?<br>*(Tính cách Mai-san thế nào ạ?)* |
+| Suzuki | <ruby>静<rt>しず</rt></ruby>かで、<ruby>真面目<rt>まじめ</rt></ruby>です。<ruby>少<rt>すこ</rt></ruby>し<ruby>恥<rt>は</rt></ruby>ずかしがり<ruby>屋<rt>や</rt></ruby>ですね。<br>*(Trầm tính, nghiêm túc. Hơi rụt rè.)* |
+| Hoa | わかりました。<ruby>優<rt>やさ</rt></ruby>しく<ruby>接<rt>せっ</rt></ruby>するように<ruby>気<rt>き</rt></ruby>をつけます。ありがとうございました。<br>*(Em hiểu rồi. Em sẽ chú ý đối xử ân cần. Em cảm ơn ạ.)* |
 
 ---
 
-## Tình huống 12 — Ký túc bếp chung · 19:00
+## Tình huống 9 — 食堂 · 12:00, ăn trưa với 先輩 — quan sát cách 先輩 dạy
 
-Hoa nấu cơm, Putri rủ ăn cùng.
+| Vai | Lời thoại |
+|---|---|
+| Satou | お<ruby>疲<rt>つか</rt></ruby>れさま。<ruby>朝<rt>あさ</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>、<ruby>難<rt>むずか</rt></ruby>しかった?<br>*(Vất vả rồi. Buổi giải thích sáng có khó hiểu không?)* |
+| Hoa | <ruby>少<rt>すこ</rt></ruby>し<ruby>難<rt>むずか</rt></ruby>しかったですが、<ruby>大体<rt>だいたい</rt></ruby><ruby>分<rt>わ</rt></ruby>かりました。<br>*(Hơi khó nhưng em hiểu đại khái.)* |
+| Satou | <ruby>今日<rt>きょう</rt></ruby>からホアさんも<ruby>先輩<rt>せんぱい</rt></ruby>ですね。<ruby>2<rt>に</rt></ruby><ruby>年目<rt>ねんめ</rt></ruby>、おめでとう。<br>*(Từ hôm nay Hoa-san cũng là sempai rồi nhỉ. Chúc mừng năm thứ 2.)* |
+| Hoa | ありがとうございます。でも、<ruby>後輩<rt>こうはい</rt></ruby>に<ruby>教<rt>おし</rt></ruby>えるのが、ちょっと<ruby>不安<rt>ふあん</rt></ruby>です。<br>*(Cảm ơn anh. Nhưng dạy lại kohai, em hơi lo.)* |
+| Satou | <ruby>大丈夫<rt>だいじょうぶ</rt></ruby>。<ruby>誰<rt>だれ</rt></ruby>でも<ruby>最初<rt>さいしょ</rt></ruby>はそうですよ。<br>*(Không sao. Ai cũng vậy lúc đầu.)* |
+| Hoa | <ruby>先輩<rt>せんぱい</rt></ruby>はどうやって<ruby>教<rt>おし</rt></ruby>えていますか?コツを<ruby>教<rt>おし</rt></ruby>えてください。<br>*(Anh dạy như thế nào ạ? Anh chỉ em bí quyết với.)* |
+| Satou | <ruby>三<rt>みっ</rt></ruby>つあります。<ruby>一<rt>ひと</rt></ruby>つ、ゆっくり<ruby>話<rt>はな</rt></ruby>す。<ruby>二<rt>ふた</rt></ruby>つ、<ruby>同<rt>おな</rt></ruby>じことを<ruby>何度<rt>なんど</rt></ruby>も<ruby>言<rt>い</rt></ruby>う。<ruby>三<rt>みっ</rt></ruby>つ、まず<ruby>自分<rt>じぶん</rt></ruby>でやって<ruby>見<rt>み</rt></ruby>せる。<br>*(Có 3 điểm. Một, nói chậm. Hai, cùng một điều nói nhiều lần. Ba, mình tự làm cho xem trước.)* |
+| Hoa | 「まず<ruby>見<rt>み</rt></ruby>せる」ですね。それから?<br>*(Là "cho xem trước" ạ. Sau đó?)* |
+| Satou | <ruby>次<rt>つぎ</rt></ruby>に<ruby>一緒<rt>いっしょ</rt></ruby>にやる。<ruby>最後<rt>さいご</rt></ruby>に<ruby>後輩<rt>こうはい</rt></ruby><ruby>一人<rt>ひとり</rt></ruby>でやらせる。「<ruby>見<rt>み</rt></ruby>せる→<ruby>一緒<rt>いっしょ</rt></ruby>に→<ruby>一人<rt>ひとり</rt></ruby>で」の<ruby>順番<rt>じゅんばん</rt></ruby>です。<br>*(Tiếp theo cùng làm. Cuối cùng để kohai tự làm một mình. Thứ tự "cho xem → cùng làm → một mình".)* |
+| Hoa | なるほど、「<ruby>見<rt>み</rt></ruby>せる→<ruby>一緒<rt>いっしょ</rt></ruby>に→<ruby>一人<rt>ひとり</rt></ruby>で」ということですね。<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>勉強<rt>べんきょう</rt></ruby>になります。<br>*(Ra vậy, "cho xem → cùng làm → một mình" ạ. Em học được nhiều thật.)* |
+| Satou | <ruby>私<rt>わたし</rt></ruby>もホアさんの<ruby>時<rt>とき</rt></ruby>、<ruby>家<rt>うち</rt></ruby>で<ruby>教<rt>おし</rt></ruby>え<ruby>方<rt>かた</rt></ruby>を<ruby>練習<rt>れんしゅう</rt></ruby>しましたよ。<br>*(Lúc dạy Hoa-san, anh cũng luyện cách dạy ở nhà đấy.)* |
+| Hoa | えっ、<ruby>知<rt>し</rt></ruby>りませんでした。ありがとうございます。<br>*(Ơ, em không biết. Em cảm ơn anh.)* |
 
-| Speaker | Lời thoại |
+---
+
+## Tình huống 10 — Cửa nhà máy · 17:30, 木村先輩 dặn dò khi tan ca
+
+| Vai | Lời thoại |
+|---|---|
+| Kimura | ホアさん、お<ruby>疲<rt>つか</rt></ruby>れさまでした。<br>*(Hoa-san, vất vả rồi.)* |
+| Hoa | <ruby>木村<rt>きむら</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>、お<ruby>疲<rt>つか</rt></ruby>れさまでした。<br>*(Chị Kimura, chị vất vả rồi.)* |
+| Kimura | <ruby>後輩<rt>こうはい</rt></ruby>の<ruby>指導<rt>しどう</rt></ruby>のこと、<ruby>聞<rt>き</rt></ruby>きました。<ruby>頑張<rt>がんば</rt></ruby>ってくださいね。<br>*(Chuyện hướng dẫn kohai, chị nghe rồi. Cố lên nhé.)* |
+| Hoa | はい。<ruby>不安<rt>ふあん</rt></ruby>もありますが...<br>*(Vâng. Em cũng có lo lắng...)* |
+| Kimura | <ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。ホアさんなら<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>。<ruby>去年<rt>きょねん</rt></ruby>の<ruby>監査<rt>かんさ</rt></ruby>の<ruby>時<rt>とき</rt></ruby>、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>立派<rt>りっぱ</rt></ruby>でしたよ。<br>*(Không sao. Hoa-san sẽ làm được. Lúc thanh tra năm ngoái, em rất xuất sắc đấy.)* |
+| Hoa | ありがとうございます。<ruby>木村<rt>きむら</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>、<ruby>指導<rt>しどう</rt></ruby>のコツを<ruby>教<rt>おし</rt></ruby>えていただけますか?<br>*(Cảm ơn chị. Chị Kimura, chị có thể chỉ em bí quyết hướng dẫn không ạ?)* |
+| Kimura | <ruby>厳<rt>きび</rt></ruby>しくしすぎないこと。それから、できたら<ruby>必<rt>かなら</rt></ruby>ず<ruby>褒<rt>ほ</rt></ruby>めること。それだけです。<br>*(Đừng nghiêm khắc quá. Và khi làm được phải khen ngay. Chỉ vậy thôi.)* |
+| Hoa | 「<ruby>厳<rt>きび</rt></ruby>しくしすぎない」と「<ruby>褒<rt>ほ</rt></ruby>める」、ということですね。<br>*(Là "đừng nghiêm khắc quá" và "khen", đúng không ạ?)* |
+| Kimura | そう。<ruby>困<rt>こま</rt></ruby>った<ruby>時<rt>とき</rt></ruby>はいつでも<ruby>聞<rt>き</rt></ruby>いてください。<ruby>私<rt>わたし</rt></ruby>も<ruby>後輩<rt>こうはい</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えた<ruby>経験<rt>けいけん</rt></ruby>がありますから。<br>*(Đúng. Có gì khó cứ hỏi chị bất cứ lúc nào. Chị cũng có kinh nghiệm dạy kohai rồi.)* |
+| Hoa | はい、<ruby>覚<rt>おぼ</rt></ruby>えておきます。ご<ruby>指導<rt>しどう</rt></ruby>ありがとうございます。<br>*(Vâng, em sẽ nhớ. Cảm ơn chị đã chỉ bảo.)* |
+
+---
+
+## Tình huống 11 — Bếp ký túc · 19:00, kể chuyện một ngày với Putri (mix JP-EN-VN)
+
+| Vai | Lời thoại |
 |---|---|
 | Putri | ホアちゃん、<ruby>今日<rt>きょう</rt></ruby>はどうだった?<br>*(Hoa-chan, hôm nay thế nào?)* |
-| Hoa | <ruby>長<rt>なが</rt></ruby>い1<ruby>日<rt>にち</rt></ruby>だった。<br>*(Một ngày dài.)* |
-| Putri | リーダーになった?<br>*(Thành trưởng nhóm rồi à?)* |
-| Hoa | うん。それと、<ruby>来月<rt>らいげつ</rt></ruby><ruby>後輩<rt>こうはい</rt></ruby>が<ruby>来<rt>く</rt></ruby>るって。<br>*(Ừ. Và tháng sau có kohai sẽ đến.)* |
-| Putri | わー、すごい!<ruby>名前<rt>なまえ</rt></ruby>は?<br>*(Wow, tuyệt! Tên là gì?)* |
-| Hoa | マイ。ベトナムから。<br>*(Mai. Từ Việt Nam.)* |
-| Putri | <ruby>同<rt>おな</rt></ruby>じ<ruby>寮<rt>りょう</rt></ruby>に<ruby>来<rt>く</rt></ruby>るかな?<br>*(Sẽ đến cùng ký túc không nhỉ?)* |
-| Hoa | たぶん。リン<ruby>姉<rt>ねえ</rt></ruby>さんの<ruby>部屋<rt>へや</rt></ruby>、<ruby>空<rt>あ</rt></ruby>いてるから。<br>*(Chắc vậy. Phòng chị Linh đang trống mà.)* |
-| Putri | <ruby>嬉<rt>うれ</rt></ruby>しい!<ruby>友達<rt>ともだち</rt></ruby><ruby>増<rt>ふ</rt></ruby>える。<br>*(Vui ghê! Có thêm bạn.)* |
-| Hoa | プトゥリ、<ruby>初<rt>はじ</rt></ruby>めて<ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>時<rt>とき</rt></ruby>、どうだった?<br>*(Putri lúc đầu mới sang Nhật, thế nào?)* |
-| Putri | <ruby>怖<rt>こわ</rt></ruby>かった。<ruby>言葉<rt>ことば</rt></ruby><ruby>分<rt>わ</rt></ruby>からない、<ruby>友達<rt>ともだち</rt></ruby>もいない。<br>*(Sợ. Không hiểu tiếng, không có bạn.)* |
-| Hoa | <ruby>同<rt>おな</rt></ruby>じだった。<br>*(Giống nhau.)* |
-| Putri | だからマイさん、<ruby>私<rt>わたし</rt></ruby>たちが<ruby>守<rt>まも</rt></ruby>る!<br>*(Vậy nên Mai-san, chúng ta sẽ bảo vệ!)* |
-| Hoa | うん、<ruby>守<rt>まも</rt></ruby>る。<br>*(Ừ, bảo vệ.)* |
+| Hoa | <ruby>長<rt>なが</rt></ruby>い<ruby>1<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby>でした。リーダーになって、<ruby>来月<rt>らいげつ</rt></ruby>から<ruby>後輩<rt>こうはい</rt></ruby>の<ruby>指導員<rt>しどういん</rt></ruby>にもなります。<br>*(Một ngày dài. Tôi thành trưởng nhóm, và từ tháng sau làm 指導員 cho kohai.)* |
+| Putri | わー、すごい!<ruby>後輩<rt>こうはい</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は?<br>*(Wow, tuyệt! Tên kohai là gì?)* |
+| Hoa | マイさん。ベトナム、カントーから。<br>*(Mai-san. Từ Cần Thơ Việt Nam.)* |
+| Putri | <ruby>同<rt>おな</rt></ruby>じ<ruby>寮<rt>りょう</rt></ruby>に<ruby>来<rt>く</rt></ruby>るのかな?<br>*(Sẽ đến cùng ký túc không nhỉ?)* |
+| Hoa | たぶん。リン<ruby>姉<rt>ねえ</rt></ruby>さんの<ruby>部屋<rt>へや</rt></ruby>が<ruby>空<rt>あ</rt></ruby>いているから。<br>*(Chắc vậy. Phòng chị Linh đang trống mà.)* |
+| Putri | <ruby>嬉<rt>うれ</rt></ruby>しい!<ruby>友達<rt>ともだち</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えます。プトゥリも<ruby>守<rt>まも</rt></ruby>ってあげる!<br>*(Vui ghê! Có thêm bạn. Tôi cũng sẽ bảo vệ Mai-san!)* |
+| Hoa | プトゥリ、<ruby>初<rt>はじ</rt></ruby>めて<ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>時<rt>とき</rt></ruby>、<ruby>一番<rt>いちばん</rt></ruby><ruby>難<rt>むずか</rt></ruby>しかったことは<ruby>何<rt>なに</rt></ruby>?<br>*(Putri lúc đầu mới sang Nhật, điều khó nhất là gì?)* |
+| Putri | <ruby>言葉<rt>ことば</rt></ruby>が<ruby>分<rt>わ</rt></ruby>からないこと。<ruby>怖<rt>こわ</rt></ruby>かった、<ruby>友達<rt>ともだち</rt></ruby>もいなかった。<br>*(Không hiểu tiếng. Sợ, lại không có bạn.)* |
+| Hoa | <ruby>同<rt>おな</rt></ruby>じだった。だからマイさんには<ruby>優<rt>やさ</rt></ruby>しくしようね。<br>*(Giống nhau. Vì vậy với Mai-san phải dịu dàng nhé.)* |
+| Putri | うん、<ruby>絶対<rt>ぜったい</rt></ruby>!<br>*(Ừ, nhất định!)* |
 
 ---
 
-## Tình huống 13 — Phòng Hoa · 21:00 — Gọi điện về VN
+## Tình huống 12 — Phòng Hoa · 21:00, gọi điện về cho mẹ (Cảnh tiếng Việt — giữ mạch nhân vật)
 
-Hoa gọi điện về cho mẹ qua Zalo.
+> Cảnh tiếng Việt — gọi Zalo về VN, ôn lại từ vựng JP qua hội thoại.
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Hoa | お<ruby>母<rt>かあ</rt></ruby>さん、<ruby>聞<rt>き</rt></ruby>こえる?<br>*(Mẹ ơi, nghe được không?)* |
-| Mẹ | <ruby>聞<rt>き</rt></ruby>こえる、<ruby>聞<rt>き</rt></ruby>こえる。<ruby>元気<rt>げんき</rt></ruby>?<br>*(Nghe được, nghe được. Khoẻ không con?)* |
-| Hoa | <ruby>元気<rt>げんき</rt></ruby>。<ruby>今日<rt>きょう</rt></ruby>から<ruby>2<rt>に</rt></ruby><ruby>年目<rt>ねんめ</rt></ruby>だよ。<br>*(Khoẻ. Từ hôm nay là năm thứ 2 rồi mẹ.)* |
-| Mẹ | <ruby>早<rt>はや</rt></ruby>いね、もう1<ruby>年<rt>ねん</rt></ruby>。<br>*(Nhanh nhỉ, đã 1 năm.)* |
-| Hoa | <ruby>来月<rt>らいげつ</rt></ruby>、ベトナムから<ruby>新<rt>あたら</rt></ruby>しい<ruby>子<rt>こ</rt></ruby>が<ruby>来<rt>く</rt></ruby>るんだ。<ruby>私<rt>わたし</rt></ruby>が<ruby>先輩<rt>せんぱい</rt></ruby>。<br>*(Tháng sau có em mới từ Việt Nam sang. Con sẽ là sempai.)* |
-| Mẹ | あら、すごい!<ruby>大変<rt>たいへん</rt></ruby>?<br>*(Ơ, tuyệt vời! Có vất vả không?)* |
-| Hoa | ちょっと<ruby>不安<rt>ふあん</rt></ruby>。でも<ruby>頑張<rt>がんば</rt></ruby>る。<br>*(Hơi lo. Nhưng con sẽ cố.)* |
-| Mẹ | お<ruby>母<rt>かあ</rt></ruby>さんも、ホアの<ruby>先生<rt>せんせい</rt></ruby>になった<ruby>時<rt>とき</rt></ruby>、<ruby>不安<rt>ふあん</rt></ruby>だった。<br>*(Mẹ cũng vậy, lúc thành cô giáo của con, mẹ cũng lo.)* |
-| Mẹ | <ruby>同<rt>おな</rt></ruby>じよ。<br>*(Giống nhau thôi.)* |
-| Hoa | お<ruby>母<rt>かあ</rt></ruby>さん、コツは<ruby>何<rt>なに</rt></ruby>?<br>*(Mẹ ơi, bí quyết là gì?)* |
-| Mẹ | <ruby>優<rt>やさ</rt></ruby>しく、ゆっくり、<ruby>同<rt>おな</rt></ruby>じことを<ruby>何度<rt>なんど</rt></ruby>も<ruby>言<rt>い</rt></ruby>うこと。<br>*(Dịu dàng, chậm rãi, cùng một điều nói nhiều lần.)* |
-| Hoa | わかった。ありがとう、お<ruby>母<rt>かあ</rt></ruby>さん。<br>*(Con hiểu rồi. Cảm ơn mẹ.)* |
-| Mẹ | <ruby>体<rt>からだ</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけてね。<br>*(Giữ sức khoẻ nhé con.)* |
+| Hoa | (tiếng Việt) Mẹ ơi, nghe được không? |
+| Mẹ Hoa | (tiếng Việt) Nghe được, nghe được. Khoẻ không con? |
+| Hoa | (tiếng Việt) Con khoẻ. Hôm nay đầu năm tài khoá, từ hôm nay là năm thứ hai rồi mẹ. |
+| Mẹ Hoa | (tiếng Việt) Nhanh nhỉ, mới đó mà đã một năm. Ở chỗ con có chế độ gì mới không? |
+| Hoa | (tiếng Việt) Có mẹ. Chế độ mới gọi là *Ikusei Shuurou* — 育成就労. Thay cho TTS cũ — *Gino Jisshu*. Em mới sang sau này sẽ thuộc chế độ mới, được phép chuyển công ty sau 1 năm, gọi là 転籍 (tenseki). Con vẫn thuộc TTS cũ, hết hợp đồng 3 năm như cũ. |
+| Mẹ Hoa | (tiếng Việt) Có khác lương không con? |
+| Hoa | (tiếng Việt) Lương thì giống. Khác là chế độ giám sát: trước gọi là 監理団体 *kanri dantai*, giờ gọi là 監理支援機関 *kanri shien kikan* — có thêm 外部監査人 là kiểm toán viên bên ngoài. |
+| Mẹ Hoa | (tiếng Việt) Mẹ nghe lằng nhằng quá. Mà còn gì nữa không con? |
+| Hoa | (tiếng Việt) Có mẹ ơi. Tháng sau có em kohai mới từ Cần Thơ sang, tên Mai, 21 tuổi. Bác trưởng phòng Tanaka giao con làm *shidouin* — 指導員, người hướng dẫn. Con lo lắm mẹ. |
+| Mẹ Hoa | (tiếng Việt) Mẹ cũng vậy, lúc thành cô giáo của con, mẹ cũng lo. Giống nhau thôi. |
+| Hoa | (tiếng Việt) Mẹ ơi, bí quyết dạy người ta là gì hả mẹ? |
+| Mẹ Hoa | (tiếng Việt) Dịu dàng, chậm rãi, cùng một điều nói nhiều lần. Có khi nó không hiểu lần một thì lần hai, lần ba. Đừng quát. Làm được thì khen ngay. |
+| Hoa | (tiếng Việt) Hay quá mẹ ạ. Anh Satou sempai cũng nói y vậy: "cho xem trước → cùng làm → để tự làm một mình". Chị Kimura sempai thì nói "đừng nghiêm khắc quá, làm được phải khen". |
+| Mẹ Hoa | (tiếng Việt) Vậy là ai làm cô làm thầy đều giống nhau. Cố lên con. Giữ sức khoẻ. |
+| Hoa | (tiếng Việt) Vâng. Con cảm ơn mẹ. Mai con phải đi sớm, con đi nghỉ đây. |
 
 ---
 
-## Tình huống 14 — Phòng Hoa · 22:00 — Viết nhật ký
+## Tình huống 13 — Bàn học phòng Hoa · 22:00, viết nhật ký lưu mẫu câu chương
 
-Hoa lấy cuốn sổ tay 指導員 của Tanaka tặng. Mở trang trắng.
-
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Hoa | 4<ruby>月<rt>がつ</rt></ruby>1<ruby>日<rt>にち</rt></ruby>。<ruby>2<rt>に</rt></ruby><ruby>年目<rt>ねんめ</rt></ruby>の<ruby>初日<rt>しょにち</rt></ruby>。<br>*(1/4. Ngày đầu năm thứ 2.)* |
-| Hoa | <ruby>新<rt>あたら</rt></ruby>しい<ruby>制度<rt>せいど</rt></ruby>「<ruby>育成就労<rt>いくせいしゅうろう</rt></ruby>」が<ruby>始<rt>はじ</rt></ruby>まった。<br>*(Chế độ mới "Ikusei Shuurou" bắt đầu.)* |
-| Hoa | <ruby>来月<rt>らいげつ</rt></ruby>、マイさんが<ruby>来<rt>く</rt></ruby>る。21<ruby>歳<rt>さい</rt></ruby>、カントー<ruby>出身<rt>しゅっしん</rt></ruby>。<ruby>食品加工<rt>しょくひんかこう</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>した。<br>*(Tháng sau Mai-san sẽ đến. 21 tuổi, người Cần Thơ. Học chế biến thực phẩm.)* |
-| Hoa | 1<ruby>年前<rt>ねんまえ</rt></ruby>の<ruby>私<rt>わたし</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ。<br>*(Giống mình 1 năm trước.)* |
-| Hoa | <ruby>佐藤<rt>さとう</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>が<ruby>家<rt>うち</rt></ruby>で<ruby>練習<rt>れんしゅう</rt></ruby>したって<ruby>言<rt>い</rt></ruby>ってた。<br>*(Anh Satou nói anh đã luyện ở nhà.)* |
-| Hoa | お<ruby>母<rt>かあ</rt></ruby>さんは「<ruby>優<rt>やさ</rt></ruby>しく、ゆっくり、<ruby>何度<rt>なんど</rt></ruby>も」って。<br>*(Mẹ nói "dịu dàng, chậm rãi, nhiều lần".)* |
-| Hoa | <ruby>木村<rt>きむら</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>は「<ruby>厳<rt>きび</rt></ruby>しくしすぎない」って。<br>*(Chị Kimura nói "đừng nghiêm khắc quá".)* |
-| Hoa | <ruby>私<rt>わたし</rt></ruby>も<ruby>練習<rt>れんしゅう</rt></ruby>しよう。マイさんが<ruby>緊張<rt>きんちょう</rt></ruby>しないように。<br>*(Mình cũng phải luyện. Để Mai-san không lo lắng.)* |
+| Hoa | (ghi sổ, đọc nhẩm thành tiếng) <ruby>4<rt>し</rt></ruby><ruby>月<rt>がつ</rt></ruby><ruby>1<rt>つい</rt></ruby><ruby>日<rt>たち</rt></ruby>。<ruby>2<rt>に</rt></ruby><ruby>年目<rt>ねんめ</rt></ruby>の<ruby>初日<rt>しょにち</rt></ruby>。<br>*(1/4. Ngày đầu năm thứ 2.)* |
+| Hoa | <ruby>今日<rt>きょう</rt></ruby><ruby>覚<rt>おぼ</rt></ruby>えた<ruby>言葉<rt>ことば</rt></ruby>: <ruby>育成就労<rt>いくせいしゅうろう</rt></ruby>・<ruby>施行<rt>しこう</rt></ruby>・<ruby>転籍<rt>てんせき</rt></ruby>・<ruby>業種<rt>ぎょうしゅ</rt></ruby>・<ruby>監理支援機関<rt>かんりしえんきかん</rt></ruby>・<ruby>異常<rt>いじょう</rt></ruby>・<ruby>異物<rt>いぶつ</rt></ruby>・<ruby>指導員<rt>しどういん</rt></ruby>。<br>*(Từ học hôm nay: Ikusei, thi hành, chuyển công ty, ngành nghề, cơ quan hỗ trợ giám sát, bất thường, dị vật, chỉ đạo viên.)* |
+| Hoa | <ruby>今日<rt>きょう</rt></ruby><ruby>使<rt>つか</rt></ruby>った<ruby>表現<rt>ひょうげん</rt></ruby>: <ruby>質問<rt>しつもん</rt></ruby>してもよろしいでしょうか・<ruby>承知<rt>しょうち</rt></ruby>しました・〜というのは<ruby>何<rt>なん</rt></ruby>ですか・〜ということですね・ご<ruby>指導<rt>しどう</rt></ruby>ありがとうございます。<br>*(Mẫu câu đã dùng: em xin hỏi được không, em rõ ạ, ~ là gì, tức là ~ phải không, cảm ơn anh/chị đã chỉ bảo.)* |
+| Hoa | <ruby>佐藤<rt>さとう</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>のコツ:<ruby>見<rt>み</rt></ruby>せる→<ruby>一緒<rt>いっしょ</rt></ruby>に→<ruby>一人<rt>ひとり</rt></ruby>で。<ruby>木村<rt>きむら</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>のコツ:<ruby>厳<rt>きび</rt></ruby>しすぎない、<ruby>褒<rt>ほ</rt></ruby>める。お<ruby>母<rt>かあ</rt></ruby>さん:<ruby>優<rt>やさ</rt></ruby>しく、ゆっくり、<ruby>何度<rt>なんど</rt></ruby>も。<br>*(Bí quyết anh Satou: cho xem → cùng → một mình. Bí quyết chị Kimura: đừng nghiêm khắc quá, khen. Mẹ: dịu dàng, chậm, nhiều lần.)* |
+| Hoa | <ruby>来月<rt>らいげつ</rt></ruby>、マイさんが<ruby>来<rt>く</rt></ruby>る。<ruby>私<rt>わたし</rt></ruby>も<ruby>練習<rt>れんしゅう</rt></ruby>しよう。<br>*(Tháng sau Mai-san đến. Mình cũng phải luyện.)* |
 
 ---
 
-## 📖 Vocab cuối chương
+## Đọng lại chương 1
 
-| Tiếng Nhật | Romaji | Nghĩa |
-|---|---|---|
-| <ruby>育成就労<rt>いくせいしゅうろう</rt></ruby> | ikusei shuurou | Chế độ visa mới (2027) thay TTS |
-| <ruby>施行<rt>しこう</rt></ruby> | shikou | Thi hành (luật) |
-| <ruby>転籍<rt>てんせき</rt></ruby> | tenseki | Chuyển công ty trong ngành |
-| <ruby>監理団体<rt>かんりだんたい</rt></ruby> | kanri dantai | Đoàn thể giám sát (cũ) |
-| <ruby>監理支援機関<rt>かんりしえんきかん</rt></ruby> | kanri shien kikan | Cơ quan hỗ trợ giám sát (mới) |
-| <ruby>外部監査人<rt>がいぶかんさにん</rt></ruby> | gaibu kansa-nin | Auditor bên ngoài |
-| <ruby>後輩<rt>こうはい</rt></ruby> | kouhai | Hậu bối |
-| <ruby>指導<rt>しどう</rt></ruby> | shidou | Hướng dẫn, dạy bảo |
-| 2<ruby>年目<rt>ねんめ</rt></ruby> | ninenme | Năm thứ 2 |
-| リーダー | riidaa | Trưởng nhóm |
+Ngày đầu năm tài khoá, Hoa học được bộ mẫu câu mới của sempai năm 2 trong môi trường công sở Nhật: **chào năm mới tài khoá** (新年度もよろしくお願いいたします), **đặt câu hỏi lễ phép trong họp** (質問してもよろしいでしょうか), **xác nhận lại thông tin chính sách** (〜ということですね・つまり〜), **hỏi lại từ chuyên ngành chưa biết** (〜というのは何ですか), **nhận chỉ thị từ 部長** (承知しました・精一杯頑張ります), và **cảm ơn lời chỉ bảo của 先輩** (ご指導ありがとうございます). Đồng thời nghe và phân biệt được hai chế độ visa **技能実習 (Gino Jisshu)** cũ và **育成就労 (Ikusei Shuurou)** mới — biết khái niệm **転籍**, **監理支援機関**, **外部監査人** — những từ chuyên ngành về luật visa Nhật phải nắm để trao đổi với 監理員 và 部長. Bí quyết coaching gom từ ba người: anh Satou dạy "**見せる→一緒に→一人で**", chị Kimura dạy "**厳しすぎない・褒める**", mẹ dạy "**優しく、ゆっくり、何度も**".
 
----
+> Từ vựng & mẫu câu chương này: 新年度・育成就労・技能実習・施行・転籍・業種・監理団体・監理支援機関・外部監査人・指導員・後輩・異常・異物・トッピング・新年度もよろしくお願いいたします・質問してもよろしいでしょうか・承知しました・〜というのは何ですか・〜ということですね・ご指導ありがとうございます・精一杯頑張ります・見せる→一緒に→一人で・優しくゆっくり何度も
 
-## 💡 Bí quyết end-chapter
+## Bí quyết chương
 
-- 育成就労 (Ikusei Shuurou) = chế độ MỚI từ 4/2027. TTS cũ vẫn hoàn tất hợp đồng 3 năm theo chế độ cũ
-- TTS không thể chuyển sang Ikusei giữa chừng hợp đồng — phải hoàn tất trước
-- Ikusei cho phép 転籍 sau 1 năm + tiếng Nhật A2; TTS thì không
-- Sempai năm 2 ai cũng lo lắng lần đầu — đây là cảm xúc bình thường
-- Coaching tip = "優しく、ゆっくり、何度も" (dịu dàng, chậm rãi, nhiều lần)
+- 育成就労 (Ikusei Shuurou) = chế độ MỚI từ 4/2027 thay 技能実習. TTS cũ vẫn hoàn tất hợp đồng 3 năm theo chế độ cũ.
+- TTS không thể chuyển sang Ikusei giữa chừng hợp đồng — phải hoàn tất trước.
+- Ikusei cho phép 転籍 sau 1 năm + tiếng Nhật A2; TTS thì không.
+- Mẫu câu Q&A lễ phép trong họp: `質問してもよろしいでしょうか` → `〜というのは何ですか` → `つまり〜ということですね` (xác nhận lại).
+- Bí quyết coaching kết hợp 3 nguồn: 「見せる→一緒に→一人で」+ 「厳しすぎない・褒める」+ 「優しく、ゆっくり、何度も」.
 
 ---
 
-## ✨ Câu chốt
+## Bảng từ vựng chương
 
-> *"1 năm trước, mình lo lắng làm sao để học. Bây giờ, mình lo lắng làm sao để dạy. Cả 2 đều là một bước trưởng thành."*
+| Từ | Cách đọc | Hán Việt | Nghĩa tiếng Việt |
+|---|---|---|---|
+| 新年度 | しんねんど | TÂN NIÊN ĐỘ | Năm tài khoá mới (bắt đầu 1/4) |
+| 制度 | せいど | CHẾ ĐỘ | Chế độ, thể chế |
+| 育成就労 | いくせいしゅうろう | DỤC THÀNH TỰU LAO | Ikusei Shuurou — chế độ lao động đào tạo mới |
+| 特定技能 | とくていぎのう | ĐẶC ĐỊNH KỸ NĂNG | Tokutei Ginou — visa kỹ năng đặc định |
+| 技能実習 | ぎのうじっしゅう | KỸ NĂNG THỰC TẬP | Thực tập kỹ năng (TTS) |
+| 契約 | けいやく | KHẾ ƯỚC | Hợp đồng |
+| 失敗 | しっぱい | THẤT BẠI | Thất bại, sai sót |
+| 緊張 | きんちょう | KHẨN TRƯƠNG | Căng thẳng, hồi hộp |
+| 後輩 | こうはい | HẬU BỐI | Kohai, đàn em |
+| 先輩 | せんぱい | TIÊN BỐI | Sempai, đàn anh |
+| 承知 | しょうち | THỪA TRI | Hiểu rõ, vâng rõ (kính ngữ) |
+| 施行 | しこう | THI HÀNH | Thi hành (chính sách) |
+| 説明 | せつめい | THUYẾT MINH | Giải thích |
+| 期間 | きかん | KỲ GIAN | Thời hạn |
+| 転籍 | てんせき | CHUYỂN TỊCH | Chuyển công ty (theo chế độ Ikusei) |
+| 監理団体 | かんりだんたい | GIÁM LÝ ĐOÀN THỂ | Đoàn thể giám sát (TTS cũ) |
+| 監理支援機関 | かんりしえんきかん | GIÁM LÝ CHI VIỆN CƠ QUAN | Cơ quan hỗ trợ giám sát (chế độ mới) |
+| 質問 | しつもん | CHẤT VẤN | Câu hỏi |
+| 入国 | にゅうこく | NHẬP QUỐC | Nhập cảnh |
+| 来日 | らいにち | LAI NHẬT | Đến Nhật |
+| 工場 | こうじょう | CÔNG TRƯỜNG | Nhà máy |
+| 業種 | ぎょうしゅ | NGHIỆP CHỦNG | Ngành nghề |
+| 条件 | じょうけん | ĐIỀU KIỆN | Điều kiện |
+| 勤務 | きんむ | CẦN VỤ | Làm việc, công tác |
+| 食品製造 | しょくひんせいぞう | THỰC PHẨM CHẾ TẠO | Chế biến thực phẩm |
+| 種類 | しゅるい | CHỦNG LOẠI | Loại |
+| 整理 | せいり | CHỈNH LÝ | Sắp xếp, tóm tắt |
+| 実際 | じっさい | THỰC TẾ | Thực tế |
+| 材料 | ざいりょう | TÀI LIỆU | Nguyên liệu |
+| 確認 | かくにん | XÁC NHẬN | Xác nhận, kiểm tra |
+| 異常 | いじょう | DỊ THƯỜNG | Bất thường |
+| 異物 | いぶつ | DỊ VẬT | Dị vật |
+| 機械 | きかい | CƠ GIỚI | Máy móc |
+| 普段 | ふだん | PHỔ ĐOẠN | Bình thường, thường lệ |
+| 指導 | しどう | CHỈ ĐẠO | Chỉ bảo, hướng dẫn |
+| 指導員 | しどういん | CHỈ ĐẠO VIÊN | Người hướng dẫn (cho TTS/Ikusei) |
+| 失礼 | しつれい | THẤT LỄ | Xin phép, thất lễ |
+| 精一杯 | せいいっぱい | TINH NHẤT BÔI | Hết sức mình |
+| 食品加工 | しょくひんかこう | THỰC PHẨM GIA CÔNG | Chế biến thực phẩm |
+| 出身 | しゅっしん | XUẤT THÂN | Quê quán, nơi sinh ra |
+| 専攻 | せんこう | CHUYÊN CÔNG | Chuyên ngành |
+| 性格 | せいかく | TÍNH CÁCH | Tính cách |
+| 真面目 | まじめ | CHÂN DIỆN MỤC | Nghiêm túc |
+| 順番 | じゅんばん | THUẬN PHIÊN | Thứ tự |
+| 練習 | れんしゅう | LUYỆN TẬP | Luyện tập |
+| 監査 | かんさ | GIÁM TRA | Thanh tra (thanh tra) |
+| 立派 | りっぱ | LẬP PHÁI | Xuất sắc, đáng nể |
+| 経験 | けいけん | KINH NGHIỆM | Kinh nghiệm |
+| 不安 | ふあん | BẤT AN | Lo lắng |
+| 絶対 | ぜったい | TUYỆT ĐỐI | Tuyệt đối, nhất định |
+| 外部監査人 | がいぶかんさにん | NGOẠI BỘ GIÁM TRA NHÂN | Kiểm toán viên bên ngoài |
+| 初日 | しょにち | SƠ NHẬT | Ngày đầu tiên |
+| 表現 | ひょうげん | BIỂU HIỆN | Cách diễn đạt |

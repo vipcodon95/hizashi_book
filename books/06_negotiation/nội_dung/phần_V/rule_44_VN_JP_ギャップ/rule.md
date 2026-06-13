@@ -18,7 +18,7 @@ Phase 4 với client mới (manufacturing JP, Tokyo HQ). Tuấn Tech Lead suppor
 
 *直接 · 沈黙、 メモを 取る · 沈黙不安*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **JP client (松本 stand-in)** | 「価格 ¥20M はやや高い印象がございます。」 |
 | **トゥアン** | 「では ¥18M でいかがですか？10% 下げます！」 |
@@ -35,7 +35,7 @@ Phase 4 với client mới (manufacturing JP, Tokyo HQ). Tuấn Tech Lead suppor
 
 *2 秒 silence、 Tuấn に micro-eye signal "wait" · 具体化 · 頷き、 メモ*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **JP client** | 「価格 ¥20M はやや高い印象がございます。」 |
 | **ズン** | 「ご感想ありがとうございます。**『高い』という印象の中で、特に気にされている内訳要素**【1】はございますでしょうか？AI engine 部分でしょうか、PM 体制でしょうか。」 |

@@ -105,7 +105,7 @@ Cast lõi như sách 02, bổ sung:
 
 # Rule 01 — Lập agenda chuẩn 5W1H / アジェンダ作成の5W1H
 
-> **Luận điểm.** Agenda thiếu = họp lan man. Agenda chuẩn phải có 5 yếu tố 5W1H: **(1) Mục đích — Why**, **(2) Nội dung — What**, **(3) Người tham dự — Who**, **(4) Thời lượng — How long**, **(5) Output mong đợi — What outcome**. Thiếu 1 trong 5 = họp dễ overrun + không quyết được gì.
+> **Luận điểm.** Agenda thiếu = họp lan man. Agenda chuẩn phải có 5 yếu tố 5W1H: **(1) Mục đích — Why**, **(2) Nội dung — What**, **(3) Người tham dự — Who**, **(4) Thời lượng — How long**, **(5) Output mong đợi — What outcome**. Thiếu 1 trong 5 = họp dễ kéo dài quá giờ + không quyết được gì.
 >
 > アジェンダの5要素：①目的 ②議題 ③出席者 ④所要時間 ⑤期待されるアウトプット。1つでも欠けると会議は迷走する。
 >
@@ -131,7 +131,7 @@ Cuối quý 1, em Dũng được giao tổ chức buổi họp định kỳ thá
 | **ズン** | 「はい、進捗報告と次のタスクを話そうかと…」 |
 | **フオン** | 「目的は？何を決める会議？時間は？大垣さんも入る？資料は？……これじゃ会議が始まらないよ。」 |
 
-**Vì sao xấu:** Agenda chỉ có "議題" mà thiếu **mục đích / output / thời lượng / người tham dự / chuẩn bị**. Khách Nhật nhận được sẽ không biết phải prepare gì → họp đến nơi mới hỏi → mất 15-30 phút đầu mới vào việc.
+**Vì sao xấu:** Agenda chỉ có "議題" mà thiếu **mục đích / output / thời lượng / người tham dự / chuẩn bị**. Khách Nhật nhận được sẽ không biết phải chuẩn bị gì → họp đến nơi mới hỏi → mất 15-30 phút đầu mới vào việc.
 
 ---
 
@@ -222,7 +222,7 @@ Cuối quý 1, em Dũng được giao tổ chức buổi họp định kỳ thá
 >
 > 会議招待メールの必須要素：①件名（会議名＋日付）②目的1行 ③アジェンダ添付 ④出欠の返信期限。返信期限がないと当日まで参加者が確定しない。
 >
-> **Liên quan:** Rule 01 (agenda 5W1H), Rule 05 (distribute tài liệu), Rule 18 (xử lý người vắng).
+> **Liên quan:** Rule 01 (agenda 5W1H), Rule 05 (gửi tài liệu trước), Rule 18 (xử lý người vắng).
 > Sách 01 (Email) Rule 09 (subject họp), Rule 14 (CC chuẩn).
 
 ---
@@ -311,7 +311,7 @@ Sau khi chị Hương review xong agenda (rule 01), em Dũng được giao gửi
 - Subject vague kiểu「会議について」「ご相談」 → khách không phân biệt priority.
 - Không attach agenda → khách phải hỏi lại = mất 1 vòng email.
 - Không deadline RSVP → đến hôm họp không biết ai đến.
-- Gửi mail mời < 3 ngày trước họp → khách Nhật chưa kịp align lịch nội bộ.
+- Gửi mail mời < 3 ngày trước họp → khách Nhật chưa kịp đồng bộ lịch nội bộ.
 
 ---
 
@@ -327,7 +327,7 @@ Sau khi chị Hương review xong agenda (rule 01), em Dũng được giao gửi
 | 開催 | かいさい | Tổ chức (họp/sự kiện) |
 
 
-# Rule 03 — Đặt phòng + Setup hậu cần / 会議室予約・設備確認
+# Rule 03 — Đặt phòng + Chuẩn bị hậu cần / 会議室予約・設備確認
 
 > **Luận điểm.** Phòng họp thiếu projector / dây HDMI / mạng / nước = 5 phút đầu tan biến vì loay hoay. Trước họp 1 ngày phải có **checklist 7 mục**: phòng đủ chỗ, projector test OK, HDMI/USB-C, Wi-Fi password, white board + bút, nước/茶, biển tên (name plate).
 >
@@ -339,11 +339,11 @@ Sau khi chị Hương review xong agenda (rule 01), em Dũng được giao gửi
 
 ## Bối cảnh / 場面
 
-Em Linh (mới onboard, được Dũng mentor) được giao đặt phòng + check setup cho buổi họp với 白鷗 vào thứ Ba. Linh báo Dũng "đã đặt phòng rồi" — Dũng kiểm tra lại.
+Em Linh (mới gia nhập, được Dũng mentor) được giao đặt phòng + kiểm tra thiết bị cho buổi họp với 白鷗 vào thứ Ba. Linh báo Dũng "đã đặt phòng rồi" — Dũng kiểm tra lại.
 
 ---
 
-## ❌ Hội thoại XẤU — chỉ đặt phòng, không check setup
+## ❌ Hội thoại XẤU — chỉ đặt phòng, không kiểm tra thiết bị
 
 *当日朝、部屋に入って*
 
@@ -354,7 +354,7 @@ Em Linh (mới onboard, được Dũng mentor) được giao đặt phòng + che
 | **リン** | 「あっ、部屋を予約しただけで…プロジェクターがあるかは…」 |
 | **ズン** | 「HDMIケーブルがない。リンさん、急ぎ総務に借りに行って！松本様あと10分で来る。」 |
 
-**Vì sao xấu:** "Đặt phòng" ≠ "Setup họp". Junior thường chỉ làm 1 bước rồi báo done. Đến hôm họp khách Nhật vào → phải chạy đi tìm cable = lỗi mất mặt nghiêm trọng với khách.
+**Vì sao xấu:** "Đặt phòng" ≠ "Setup họp". Nhân viên trẻ thường chỉ làm 1 bước rồi báo xong. Đến hôm họp khách Nhật vào → phải chạy đi tìm cable = lỗi mất mặt nghiêm trọng với khách.
 
 ---
 
@@ -381,7 +381,7 @@ Em Linh (mới onboard, được Dũng mentor) được giao đặt phòng + che
 
 ---
 
-## 📐 Checklist Setup Phòng Họp (xem `conversation.json:templates[0]`)
+## 📐 Checklist Chuẩn bị Phòng Họp (xem `conversation.json:templates[0]`)
 
 ```
 ■ 会議室セットアップ・チェックリスト（前日17時までに完了）
@@ -423,7 +423,7 @@ Em Linh (mới onboard, được Dũng mentor) được giao đặt phòng + che
 | 備品 | びひん | Đồ dùng văn phòng |
 
 
-# Rule 04 — Setup video call (Zoom/Teams) / オンライン会議のセットアップ
+# Rule 04 — Thiết lập video call (Zoom/Teams) / オンライン会議のセットアップ
 
 > **Luận điểm.** Online meeting fail thường ở 5 điểm: (1) link sai/expire, (2) audio không nghe, (3) share screen không thấy, (4) background lộ thông tin nội bộ, (5) ghi âm chưa xin phép. Mỗi mục test trước họp 30 phút.
 >
@@ -521,7 +521,7 @@ Buổi họp với 白鷗 chuyển sang Zoom vì 大垣営業部長 đi công t�
 | 有効期限 | ゆうこうきげん | Hạn dùng |
 
 
-# Rule 05 — Distribute tài liệu trước 24h / 資料の事前配布
+# Rule 05 — Gửi tài liệu trước 24h / 資料の事前配布
 
 > **Luận điểm.** Tài liệu họp gửi đúng lúc khách bước vào phòng = khách Nhật không kịp pre-read = họp trở thành **phiên đọc tài liệu**, không phải họp ra quyết định. Quy chuẩn: **24h trước**, format **PDF (file size < 5MB)**, ghi rõ **version (v1.0/v1.1)**, kèm **dòng "ご一読のうえご参加ください"**.
 >
@@ -574,7 +574,7 @@ Họp với 白鷗 chiều thứ Ba 15:00. Em Dũng đang viết draft 資料 (s
 
 > **「24時間前・PDF・バージョン番号・差分明示 — 4点で資料配布。」**
 >
-> *24h trước, PDF, có version, highlight diff — 4 điểm chuẩn distribute tài liệu.*
+> *24h trước, PDF, có version, highlight diff — 4 điểm chuẩn gửi tài liệu trước họp.*
 
 ---
 
@@ -615,7 +615,7 @@ Họp với 白鷗 chiều thứ Ba 15:00. Em Dũng đang viết draft 資料 (s
 
 ## Bối cảnh / 場面
 
-Em Linh — junior mới, lần đầu tham dự họp với khách 白鷗. Thường có thói quen "tới đúng giờ" theo VN style. Dũng nhắc trước.
+Em Linh — nhân viên mới, lần đầu tham dự họp với khách 白鷗. Thường có thói quen "tới đúng giờ" theo VN style. Dũng nhắc trước.
 
 ---
 
@@ -664,7 +664,7 @@ Em Linh — junior mới, lần đầu tham dự họp với khách 白鷗. Thư
 - "Đúng 15:00 ra khỏi bàn làm việc" → đến phòng họp 15:02 = trễ.
 - Online: 14:59 mới click join Zoom → loading mất 30s = vào lúc 15:00:30 = trễ.
 - "Đường tắc" / "thang máy chậm" — không phải lý do chấp nhận được. Phải plan dư 10 phút.
-- Đến trước 30 phút → cũng không tốt: phòng có khi đang setup, gây phiền.
+- Đến trước 30 phút → cũng không tốt: phòng có khi đang chuẩn bị, gây phiền.
 
 ---
 
@@ -683,7 +683,7 @@ Em Linh — junior mới, lần đầu tham dự họp với khách 白鷗. Thư
 
 # Rule 07 — Pre-meeting check-in nội bộ / 事前すり合わせ
 
-> **Luận điểm.** Trước họp khách 30 phút phải có **「事前すり合わせ」** (pre-alignment) trong team mình: (1) ai nói cái gì (役割分担), (2) chỗ có thể conflict ý kiến nội bộ → align trước, (3) red lines (giá / scope không được nhượng).
+> **Luận điểm.** Trước họp khách 30 phút phải có **「事前すり合わせ」** (pre-alignment) trong team mình: (1) ai nói cái gì (役割分担), (2) chỗ có thể conflict ý kiến nội bộ → thống nhất trước, (3) ranh giới không nhượng (giá / scope).
 >
 > 客との会議の30分前に内部すり合わせ：①誰が何を話すか ②内部で意見が割れる論点を先に統一 ③譲れない条件（価格・スコープ）の確認。
 >
@@ -708,7 +708,7 @@ Họp đàm phán phase 2 với 大垣営業部長 + 松本PM. Chị Hương (�
 | **トゥアン** | 「いや待って…技術的に5月15日は厳しいです。テストフェーズで2週間必要で…」 |
 | **大垣** | 「お二人で意見が違うようですね。社内で先に話し合っていただいたほうが…」 |
 
-**Vì sao xấu:** BD reflexively "がんばります" trong khi tech chưa OK = team không align nội bộ. Khách nhìn thấy conflict = mất tin tưởng. Phải giải quyết trong nội bộ TRƯỚC khi vào họp.
+**Vì sao xấu:** BD reflexively "がんばります" trong khi tech chưa OK = team chưa thống nhất nội bộ. Khách nhìn thấy conflict = mất tin tưởng. Phải giải quyết trong nội bộ TRƯỚC khi vào họp.
 
 ---
 
@@ -724,8 +724,8 @@ Họp đàm phán phase 2 với 大垣営業部長 + 松本PM. Chị Hương (�
 | **ズン** | 「承知しました。Plan B として『5月15日要望なら追加リソース3人分の見積もり』も用意しておきます。」 |
 
 📝 **Ghi chú:**
-- 【1】**「現実的なライン」** = "đường giới hạn realistic". Cụm tech lead / management dùng nhiều khi align trước họp.
-- 【2】**「即答せず」** = "đừng trả lời ngay". Chỉ thị quan trọng cho junior khi vào họp đàm phán.
+- 【1】**「現実的なライン」** = "đường giới hạn realistic". Cụm tech lead / management dùng nhiều khi thống nhất trước họp.
+- 【2】**「即答せず」** = "đừng trả lời ngay". Chỉ thị quan trọng cho nhân viên cấp dưới khi vào họp đàm phán.
 
 ---
 
@@ -740,9 +740,9 @@ Họp đàm phán phase 2 với 大垣営業部長 + 松本PM. Chị Hương (�
 ## ⚠ Tránh
 
 - BD reflexively "がんばります" mà chưa hỏi tech → tech lập tức bị đặt vào tình huống khó.
-- Không xác định red line giá / scope → đàm phán xong mới phát hiện vượt giới hạn.
-- すり合わせ làm 5 phút trước họp ở hành lang → không đủ thời gian align.
-- Junior nói nhiều hơn senior trong すり合わせ → senior chưa kịp set chiến lược.
+- Không xác định ranh giới không nhượng về giá / scope → đàm phán xong mới phát hiện vượt giới hạn.
+- すり合わせ làm 5 phút trước họp ở hành lang → không đủ thời gian thống nhất.
+- Nhân viên trẻ nói nhiều hơn cấp trên trong すり合わせ → cấp trên chưa kịp định chiến lược.
 
 ---
 
@@ -759,7 +759,7 @@ Họp đàm phán phase 2 với 大垣営業部長 + 松本PM. Chị Hương (�
 | コミット | komitto | Commit / cam kết |
 
 
-# Rule 08 — Chuẩn bị Plan B + counter-arguments / 想定問答集の準備
+# Rule 08 — Chuẩn bị Plan B + phản biện / 想定問答集の準備
 
 > **Luận điểm.** Khách Nhật giỏi đặt **「想定外の質問」** (câu hỏi bất ngờ). Trước họp phải có **想定問答集 (Q&A list)** liệt kê 3-5 câu khách dễ hỏi + script trả lời sẵn. Bonus: 1-2 câu hỏi khó nhất → có **Plan B**.
 >
@@ -786,7 +786,7 @@ Sáng thứ Ba, 1 tiếng trước họp đàm phán phase 2. Em Dũng đã có 
 | **ハー** | 「客は『価格を10%下げられないか』『納期を2週間早められないか』『他社事例は』を必ず聞くよ。回答用意してる？」 |
 | **ズン** | 「す、すみません、これから準備します…」 |
 
-**Vì sao xấu:** Junior thường nghĩ "agenda + 資料 đủ rồi". Nhưng khách Nhật giỏi đẩy câu hỏi ngoài agenda. Không chuẩn bị = trong họp panic + im lặng + 「持ち帰ります」.
+**Vì sao xấu:** Nhân viên trẻ thường nghĩ "agenda + 資料 đủ rồi". Nhưng khách Nhật giỏi đẩy câu hỏi ngoài agenda. Không chuẩn bị = trong họp lúng túng + im lặng + 「持ち帰ります」.
 
 ---
 
@@ -801,7 +801,7 @@ Sáng thứ Ba, 1 tiếng trước họp đàm phán phase 2. Em Dũng đã có 
 
 📝 **Ghi chú:**
 - 【1】**「Plan B として〜も用意済み」** — 「用意済み」 = "đã chuẩn bị xong". Cụm gọn của business JP. Cấp trên hỏi "có chưa?" → trả lời 「〜済みです」 là đẹp nhất.
-- 【2】**「方針で統一済み」** = "đã thống nhất phương châm". Báo cáo cấp trên rằng "không phải chỉ tôi nghĩ vậy mà cả team đã align".
+- 【2】**「方針で統一済み」** = "đã thống nhất phương châm". Báo cáo cấp trên rằng "không phải chỉ tôi nghĩ vậy mà cả team đã thống nhất".
 
 ---
 
@@ -842,10 +842,10 @@ A5. ペア体制で運営しており、引き継ぎ docs を都度更新。空�
 
 ## ⚠ Tránh
 
-- 想定問答集 chỉ trong đầu, không viết ra → vào họp panic là quên.
+- 想定問答集 chỉ trong đầu, không viết ra → vào họp lúng túng là quên.
 - Chỉ chuẩn bị câu hỏi dễ → khách hỏi câu khó là 「持ち帰ります」.
 - Plan B cũng không có → "5月15日無理です" → đàm phán dừng.
-- Trả lời chưa align với senior → senior phải bồi thêm = mất uy tín BD.
+- Trả lời chưa thống nhất với cấp trên → cấp trên phải bồi thêm = mất uy tín BD.
 
 ---
 
@@ -974,7 +974,7 @@ Buổi họp đầu tiên của em Linh (vừa join project) với 白鷗. Khi �
 | **ズン** | 「リンさん、業務の自己紹介は会社・部署・名前・役割でいいよ。」 |
 | **大垣** | *(まだ慣れていない感じだな)* |
 
-**Vì sao xấu:** Tự giới thiệu kiểu **学校面接** (phỏng vấn vào trường) → khách Nhật cảm thấy "junior chưa được train". Tuổi / quê / trường / sở thích = không cần. Mất 30s mà không cho khách thông tin business.
+**Vì sao xấu:** Tự giới thiệu kiểu **学校面接** (phỏng vấn vào trường) → khách Nhật cảm thấy "nhân viên mới chưa được đào tạo". Tuổi / quê / trường / sở thích = không cần. Mất 30s mà không cho khách thông tin business.
 
 ---
 
@@ -1048,7 +1048,7 @@ Buổi họp đầu tiên của em Linh (vừa join project) với 白鷗. Khi �
 
 ## Bối cảnh / 場面
 
-Buổi họp đầu tiên của em Linh với 大垣営業部長. Lần đầu Linh trao danh thiếp với khách Nhật cấp cao. Dũng đã brief trước.
+Buổi họp đầu tiên của em Linh với 大垣営業部長. Lần đầu Linh trao danh thiếp với khách Nhật cấp cao. Dũng đã dặn trước.
 
 ---
 
@@ -1314,7 +1314,7 @@ Sau khi giới thiệu người tham dự + agenda, em Dũng phân vai. Tự xá
 
 📝 **Ghi chú:**
 - 【1】**「役割をご確認させていただきます」** — câu transition lịch sự. 「ご確認」 dùng được vì 確認 là về thông tin chung, không phải own action.
-- 【2】**「本日中にドラフトを共有」** — commit timeline cho biên bản (link rule 45). Khách Nhật đặc biệt thích vì biết được "khi nào nhận biên bản".
+- 【2】**「本日中にドラフトを共有」** — cam kết thời hạn cho biên bản (link rule 45). Khách Nhật đặc biệt thích vì biết được "khi nào nhận biên bản".
 
 ---
 
@@ -1340,7 +1340,7 @@ Sau khi giới thiệu người tham dự + agenda, em Dũng phân vai. Tự xá
 ## ⚠ Tránh
 
 - Chủ trì + người ghi biên bản cùng 1 người → chủ trì phải tập trung điều phối, không kịp ghi.
-- 書記 là junior chưa từng viết biên bản → biên bản missing key decisions.
+- 書記 là nhân viên trẻ chưa từng viết biên bản → biên bản thiếu các quyết định quan trọng.
 - Không công bố 書記 trước議題 → khách hoang mang.
 - 書記 ghi tay thay vì laptop → không kịp tốc độ họp.
 
@@ -1372,7 +1372,7 @@ Sau khi giới thiệu người tham dự + agenda, em Dũng phân vai. Tự xá
 
 ## Bối cảnh / 場面
 
-司会 Dũng đã làm xong rules 09-14. Trước議題 1, chốt mục tiêu để tất cả align hướng.
+司会 Dũng đã làm xong rules 09-14. Trước議題 1, chốt mục tiêu để tất cả thống nhất hướng đi.
 
 ---
 
@@ -1549,7 +1549,7 @@ Anh Tuấn (tech lead) bị kẹt ở meeting trước. Báo Dũng qua Slack r�
 | **トゥアン** | 「あ、でもさっき自分が報告する話、もう終わってます？」 |
 | **大垣** | *(進行が止まった…)* |
 
-**Vì sao xấu:** Vào ầm ĩ + xin update giữa họp → cả phòng phải dừng lại để brief. Mất 2-3 phút của khách. 「すみませんすみません」 lặp lại nhiều = không professional.
+**Vì sao xấu:** Vào ầm ĩ + xin update giữa họp → cả phòng phải dừng lại để brief. Mất 2-3 phút của khách. 「すみませんすみません」 lặp lại nhiều = không chuyên nghiệp.
 
 ---
 
@@ -1566,7 +1566,7 @@ Anh Tuấn (tech lead) bị kẹt ở meeting trước. Báo Dũng qua Slack r�
 
 📝 **Ghi chú:**
 - 【1】**「失礼いたします、遅れて申し訳ございません」** — Câu duy nhất nói khi vào. Đầy đủ rồi. Không thêm "前の会議が…" (excuse) → chia sẻ lý do qua chat ngoài giờ.
-- 【2】**「無言で資料を開き、議事に追いつく」** — đến trễ là trách nhiệm tự catch up, không phiền cả phòng.
+- 【2】**「無言で資料を開き、議事に追いつく」** — đến trễ là trách nhiệm tự theo kịp nội dung, không phiền cả phòng.
 - 【3】**「お続けください」** — cụm khiêm nhường để司会 tiếp tục. Tránh 「続けてください」 (mệnh lệnh).
 
 ---
@@ -1586,7 +1586,7 @@ Anh Tuấn (tech lead) bị kẹt ở meeting trước. Báo Dũng qua Slack r�
 | Biết sẽ trễ | Nhắn 司会 qua chat: "〇分遅れます、進めてください" |
 | Vào phòng | Mở cửa nhẹ, gấp người chào |
 | Câu chào | 「失礼いたします、遅れて申し訳ございません」 |
-| Ngồi xuống | Im lặng, mở tài liệu, catch up |
+| Ngồi xuống | Im lặng, mở tài liệu, theo kịp nội dung |
 | Sau họp | Cảm ơn 司会 + xin lỗi đối tác (nếu cần thêm) |
 
 ---
@@ -1617,7 +1617,7 @@ Anh Tuấn (tech lead) bị kẹt ở meeting trước. Báo Dũng qua Slack r�
 
 # Rule 18 — Khi có người vắng mặt / 欠席者の対応
 
-> **Luận điểm.** Khi có người không đến: 司会 phải **公表 ngay đầu họp**: (1) ai vắng, (2) lý do **ngắn gọn** (không kể chi tiết private), (3) **plan share lại biên bản**, (4) nếu cần input của họ → **持ち帰り** confirm sau. Cấm "vẫn quyết tiếp" mà không nói gì.
+> **Luận điểm.** Khi có người không đến: 司会 phải **公表 ngay đầu họp**: (1) ai vắng, (2) lý do **ngắn gọn** (không kể chi tiết riêng tư), (3) **plan share lại biên bản**, (4) nếu cần input của họ → **持ち帰り** confirm sau. Cấm "vẫn quyết tiếp" mà không nói gì.
 >
 > 欠席者の対応：①氏名公表 ②簡潔な理由 ③議事録の共有方針 ④input 必要なら持ち帰り合意。黙って進めるのは禁。
 >
@@ -1659,7 +1659,7 @@ Trước nội dung 1, em Linh báo Dũng: chị Hương副部長 bị sốt sá
 
 📝 **Ghi chú:**
 - 【1】**「弊社 副部長のフオンは体調不良のため欠席」** — 内 (uchi) drop title prefix. Lý do ngắn 「体調不良」 đủ rồi, không kể "sốt 38度" hay "đi bệnh viện".
-- 【2】**「議事録は本日中に〇〇へ共有」** — commit timeline. Liên kết rule 45 + rule 48.
+- 【2】**「議事録は本日中に〇〇へ共有」** — cam kết thời hạn. Liên kết rule 45 + rule 48.
 - 【3】**「方向性合意までとさせていただき、最終確定は…」** — flag rằng quyết định cuối cần người vắng confirm. Đây là cách tránh "quyết hớ rồi rút lại".
 
 ---
@@ -1677,7 +1677,7 @@ Trước nội dung 1, em Linh báo Dũng: chị Hương副部長 bị sốt sá
 - Không 公表 → khách tự phát hiện = mất uy tín.
 - Kể chi tiết lý do (bệnh / việc cá nhân) → không cần thiết.
 - Quyết "thay" người vắng nếu không có authority → quyết bị rút lại = thất hứa.
-- Quên gửi biên bản cho người vắng → họ không catch up được (rule 48).
+- Quên gửi biên bản cho người vắng → họ không bắt kịp được (rule 48).
 
 ---
 
@@ -1947,7 +1947,7 @@ Anh Matsumoto đề xuất "deploy phase 2 vào cuối tháng 7". Em Dũng cảm
 | **ズン** | 「はい、大丈夫です。」 |
 | **松本** | 「では、その方向で確定します。」 |
 
-**Vì sao xấu:** Nói "はい、大丈夫です" = full commit. Khi sau đó slip → vi phạm cam kết. Lẽ ra phải nói "concept đồng ý, nhưng cần check feasibility".
+**Vì sao xấu:** Nói "はい、大丈夫です" = full commit. Khi sau đó slip → vi phạm cam kết. Lẽ ra phải nói "concept đồng ý, nhưng cần kiểm tra tính khả thi".
 
 ---
 
@@ -1968,7 +1968,7 @@ Anh Matsumoto đề xuất "deploy phase 2 vào cuối tháng 7". Em Dũng cảm
 - **Level 5 — 異論あり** 「ご意見はよく分かりました。ただ〜」 (xem rule 23)
 
 【1】**「概ね同意」**(おおむねどうい) — đồng ý phần lớn nhưng có 1-2 điểm cần check.
-【2】**「フィージビリティをご報告したく存じます」** — không cam kết ngay, mua thời gian feasibility check.
+【2】**「フィージビリティをご報告したく存じます」** — không cam kết ngay, mua thời gian kiểm tra khả thi.
 
 ---
 
@@ -2166,7 +2166,7 @@ Anh Matsumoto vừa giải thích 5 phút về thay đổi yêu cầu module tha
 
 ## Bối cảnh / 場面
 
-Anh Ōgaki đột ngột yêu cầu giảm giá 15% ngay trong họp. Em Dũng không có authority quyết và cần consult chị Hương + anh Hà. Phải xin "持ち帰り" khéo léo.
+Anh Ōgaki đột ngột yêu cầu giảm giá 15% ngay trong họp. Em Dũng không có authority quyết và cần hỏi ý kiến chị Hương + anh Hà. Phải xin "持ち帰り" khéo léo.
 
 ---
 
@@ -2466,7 +2466,7 @@ Em Dũng cần ước lượng tải hệ thống mới. Anh Matsumoto nói "lư
 
 ## Bối cảnh / 場面
 
-Họp đàm phán phase 2. Anh Ōgaki yêu cầu giảm 20%, anh Hà (CTO) chỉ đồng ý 10%. Cả 2 bên đã trao đổi 30 phút mà không nhúc nhích. Em Dũng (chủ trì) cần defuse situation.
+Họp đàm phán phase 2. Anh Ōgaki yêu cầu giảm 20%, anh Hà (CTO) chỉ đồng ý 10%. Cả 2 bên đã trao đổi 30 phút mà không nhúc nhích. Em Dũng (chủ trì) cần hạ nhiệt tình huống.
 
 ---
 
@@ -2486,7 +2486,7 @@ Họp đàm phán phase 2. Anh Ōgaki yêu cầu giảm 20%, anh Hà (CTO) chỉ
 
 ---
 
-## ✅ Hội thoại TỐT — defuse + 持ち帰り
+## ✅ Hội thoại TỐT — hạ nhiệt + 持ち帰り
 
 *sau 30 phút · tiếp · nhìn Dũng, gật đầu*
 
@@ -2501,7 +2501,7 @@ Họp đàm phán phase 2. Anh Ōgaki yêu cầu giảm 20%, anh Hà (CTO) chỉ
 
 📝 **Ghi chú:**
 - 【1】**「本日この場で結論を出すのは難しいかと存じます」** — phán đoán deadlock một cách neutral. Không đổ lỗi bên nào.
-- 【2】**「一度持ち帰って、別途ご相談する形でいかがでしょうか？」** — câu chuẩn defuse deadlock.
+- 【2】**「一度持ち帰って、別途ご相談する形でいかがでしょうか？」** — câu chuẩn tháo gỡ bế tắc.
 - 【3】**「来週水曜までに修正案をお出しいたします」** — kèm deadline + commit re-propose để khách yên tâm.
 
 ---
@@ -2510,15 +2510,15 @@ Họp đàm phán phase 2. Anh Ōgaki yêu cầu giảm 20%, anh Hà (CTO) chỉ
 
 > **「本日この場で結論を出すのは難しいかと存じます。一度持ち帰って、別途ご相談する形でいかがでしょうか？」**
 >
-> *Defuse + 持ち帰り + deadline + re-propose = 4 bước thoát deadlock.*
+> *Hạ nhiệt + 持ち帰り + deadline + re-propose = 4 bước thoát deadlock.*
 
 ---
 
 ## ⚠ Tránh
 
 - Ép quyết khi cả 2 bên đã căng → relationship damage.
-- Tự đề xuất con số "妥協" mà chưa consult cấp trên mình → mất face nội bộ.
-- 持ち帰り mà không kèm deadline → khách lo bị "ghosted".
+- Tự đề xuất con số "妥協" mà chưa hỏi ý kiến cấp trên → mất face nội bộ.
+- 持ち帰り mà không kèm deadline → khách lo bị bỏ lơ, không nhận phản hồi.
 
 ---
 
@@ -2534,9 +2534,9 @@ Họp đàm phán phase 2. Anh Ōgaki yêu cầu giảm 20%, anh Hà (CTO) chỉ
 | 修正案 | しゅうせいあん | Phương án sửa |
 
 
-# Rule 30 — Khi senior nói câu khó hiểu / 上司・顧客の曖昧な発言
+# Rule 30 — Khi cấp trên nói câu khó hiểu / 上司・顧客の曖昧な発言
 
-> **Luận điểm.** Senior Nhật hay nói gián tiếp ("ちょっと厳しいかな…", "前向きに検討します"). Đoán bừa = sai 50%. Câu chuẩn để confirm: 「**確認させていただきたいのですが、〜という意味でしょうか？**」 — paraphrase ý suy đoán, để senior khẳng định/correct.
+> **Luận điểm.** Cấp trên / khách Nhật hay nói gián tiếp ("ちょっと厳しいかな…", "前向きに検討します"). Đoán bừa = sai 50%. Câu chuẩn để confirm: 「**確認させていただきたいのですが、〜という意味でしょうか？**」 — paraphrase ý suy đoán, để cấp trên khẳng định/correct.
 >
 > 上司・顧客の曖昧発言を勝手に解釈しない。「〜という意味でしょうか？」と確認する。
 >
@@ -2575,7 +2575,7 @@ Anh Matsumoto: 「来月のリリース、ちょっと厳しいかもしれま�
 
 📝 **Ghi chú:**
 - 【1】**「〜という意味でしょうか？」** — câu chuẩn confirm intent.
-- 【2】Đưa **2 cách hiểu** (A hay B) → senior dễ chọn → câu trả lời rõ.
+- 【2】Đưa **2 cách hiểu** (A hay B) → cấp trên dễ chọn → câu trả lời rõ.
 
 ---
 
@@ -2583,14 +2583,14 @@ Anh Matsumoto: 「来月のリリース、ちょっと厳しいかもしれま�
 
 > **「確認させていただきたいのですが、〜という意味でしょうか？それとも〜でしょうか？」**
 >
-> *Đưa 2 ý suy đoán → senior chọn → tránh đoán mò.*
+> *Đưa 2 ý suy đoán → cấp trên chọn → tránh đoán mò.*
 
 ---
 
 ## ⚠ Tránh
 
 - Đoán 1 ý duy nhất → 50% sai.
-- Hỏi lại open-ended ("どういう意味ですか？") → senior phải giải thích từ đầu.
+- Hỏi lại open-ended ("どういう意味ですか？") → cấp trên phải giải thích từ đầu.
 - Bỏ qua câu mơ hồ → sau này phát sinh.
 
 ---
@@ -2776,7 +2776,7 @@ Họp đang bàn về việc dùng AWS hay Azure. Em Dũng cần hỏi anh Hà C
 
 ## Bối cảnh / 場面
 
-Họp Zoom định kỳ tháng 4. Em Linh (junior, mới vào) là một trong 8 người tham dự. Chưa quen quy tắc online meeting Nhật.
+Họp Zoom định kỳ tháng 4. Em Linh (nhân viên mới) là một trong 8 người tham dự. Chưa quen quy tắc online meeting Nhật.
 
 ---
 
@@ -2845,7 +2845,7 @@ Họp Zoom định kỳ tháng 4. Em Linh (junior, mới vào) là một trong 8
 
 # Rule 34 — Hybrid meeting cân bằng / ハイブリッド会議の運営
 
-> **Luận điểm.** Hybrid (1 nửa offline + 1 nửa online) DỄ làm phía online cảm thấy "second-class". Chủ trì PHẢI: (1) **chủ động hỏi phía online** trước phía offline ở mỗi agenda item, (2) **summary lại** cho online khi offline trao đổi nhanh, (3) **dùng mic chuyên dụng** cho phòng họp.
+> **Luận điểm.** Hybrid (1 nửa offline + 1 nửa online) DỄ làm phía online cảm thấy "second-class". Chủ trì PHẢI: (1) **chủ động hỏi phía online** trước phía offline ở mỗi agenda item, (2) **tóm tắt lại** cho online khi offline trao đổi nhanh, (3) **dùng mic chuyên dụng** cho phòng họp.
 >
 > ハイブリッド会議では司会がオンライン参加者に最初に発言機会を与える。「online first」原則。
 >
@@ -2891,7 +2891,7 @@ Họp phase 2: 4 người tại văn phòng VN (Dũng, Tuấn, Hải, Hà), 2 ng
 
 📝 **Ghi chú:**
 - 【1】**「まずオンラインでご参加の〇〇様、〇〇様、ご意見を…」** — chủ động mời online TRƯỚC. Đây là "online first" rule.
-- 【2】**「今の〇〇さんの発言を要約いたしますと〜」** — khi offline trao đổi qua lại nhanh, summary lại cho online. Tránh online "fall behind".
+- 【2】**「今の〇〇さんの発言を要約いたしますと〜」** — khi offline trao đổi qua lại nhanh, tóm tắt lại cho online. Tránh online "fall behind".
 
 ---
 
@@ -2905,7 +2905,7 @@ Họp phase 2: 4 người tại văn phòng VN (Dũng, Tuấn, Hải, Hà), 2 ng
 
 - Hỏi offline trước → online cảm giác là "phụ".
 - Trao đổi nhanh giữa offline mà không qua mic chính.
-- Quên summary → online lost context.
+- Quên tóm tắt → online mất ngữ cảnh.
 
 ---
 
@@ -3238,7 +3238,7 @@ Họp với anh Matsumoto lúc 14h. Đến 13h30, anh Hà CTO có cuộc họp k
 
 # Rule 39 — 1-on-1 với cấp trên Nhật / 1on1ミーティング
 
-> **Luận điểm.** 1on1 (1 đối 1) với senior Nhật KHÔNG phải casual chat. Cấu trúc 4 phần: (1) **Progress** — gì đã làm, (2) **Challenges** — gì đang vướng, (3) **Ask** — cần gì từ senior, (4) **Next steps**. Junior chuẩn bị note trước, senior nhận note. Câu chuẩn mở: 「**本日の1on1、4点ご報告と1点ご相談がございます**」.
+> **Luận điểm.** 1on1 (1 đối 1) với cấp trên Nhật KHÔNG phải casual chat. Cấu trúc 4 phần: (1) **Progress** — gì đã làm, (2) **Challenges** — gì đang vướng, (3) **Ask** — cần gì từ cấp trên, (4) **Next steps**. Nhân viên cấp dưới chuẩn bị note trước, cấp trên nhận note. Câu chuẩn mở: 「**本日の1on1、4点ご報告と1点ご相談がございます**」.
 >
 > 1on1構成：①進捗 ②課題 ③相談したいこと ④次のステップ。雑談ではなく構造化された対話。
 >
@@ -3264,7 +3264,7 @@ Em Dũng có 1on1 hàng tuần với chị Hương (Phó phòng) — buổi đ�
 | **ズン** | 「うーん、Phase 2 とかが…大変です。」 |
 | **フオン** | 「ズン、次回はメモ準備してきて。」 |
 
-**Vì sao xấu:** Không chuẩn bị → 1on1 trở thành chat lan man → senior không hỗ trợ được → phí 30 phút.
+**Vì sao xấu:** Không chuẩn bị → 1on1 trở thành chat lan man → cấp trên không hỗ trợ được → phí 30 phút.
 
 ---
 
@@ -3282,7 +3282,7 @@ Em Dũng có 1on1 hàng tuần với chị Hương (Phó phòng) — buổi đ�
 | **ズン** | 「ありがとうございます。**【次のステップ】**フオン副部長からのご回答後、QAリーダーと工数再見積もりを実施いたします。」 |
 
 📝 **Ghi chú:**
-- 【1】**「4点ご報告と1点ご相談がございます」** — báo trước số item → senior biết time budget cần dành.
+- 【1】**「4点ご報告と1点ご相談がございます」** — báo trước số item → cấp trên biết cần dành bao nhiêu thời gian.
 - 【2】**「ご相談」** rõ ràng — KHÔNG nói "có lẽ", "không biết". Hỏi thẳng "có thể assign 1 QA không?".
 
 ---
@@ -3297,9 +3297,9 @@ Em Dũng có 1on1 hàng tuần với chị Hương (Phó phòng) — buổi đ�
 
 ## ⚠ Tránh
 
-- 1on1 không chuẩn bị note → senior phải hỏi từng câu.
+- 1on1 không chuẩn bị note → cấp trên phải hỏi từng câu.
 - 「色々」「大変」 không cụ thể.
-- Nói challenges mà không kèm "Ask" → senior không biết phải support gì.
+- Nói challenges mà không kèm "Ask" → cấp trên không biết phải hỗ trợ gì.
 
 ---
 
@@ -3318,7 +3318,7 @@ Em Dũng có 1on1 hàng tuần với chị Hương (Phó phòng) — buổi đ�
 
 # Rule 40 — Brainstorming / Workshop / ブレストの進行
 
-> **Luận điểm.** Brainstorming Nhật khác Mỹ: vẫn có "no judgment" rule nhưng cần **chủ trì rõ ràng** + **time-box** + **build-on**. 4 nguyên tắc: (1) **批判禁止** (no critique), (2) **量重視** (quantity > quality lúc đầu), (3) **便乗歓迎** (build on), (4) **時間制限** (time-box). Junior cũng được phát biểu equal.
+> **Luận điểm.** Brainstorming Nhật khác Mỹ: vẫn có "no judgment" rule nhưng cần **chủ trì rõ ràng** + **time-box** + **build-on**. 4 nguyên tắc: (1) **批判禁止** (no critique), (2) **量重視** (quantity > quality lúc đầu), (3) **便乗歓迎** (build on), (4) **時間制限** (time-box). Nhân viên trẻ cũng được phát biểu bình đẳng.
 >
 > ブレスト4原則：批判禁止・量重視・便乗歓迎・時間制限。司会が冒頭に明示する。
 >
@@ -3332,7 +3332,7 @@ Workshop nội bộ tìm ý tưởng giảm churn rate. Em Dũng chủ trì, có
 
 ---
 
-## ❌ Hội thoại XẤU — không có rule, junior bị shut down
+## ❌ Hội thoại XẤU — không có rule, nhân viên trẻ bị chặn ý kiến
 
 *rụt rè · cắt ngang · im luôn cả phiên*
 
@@ -3343,7 +3343,7 @@ Workshop nội bộ tìm ý tưởng giảm churn rate. Em Dũng chủ trì, có
 | **トゥアン** | 「アンケート？古いよ。誰も答えないし。」 |
 | **リン** | 「…」 |
 
-**Vì sao xấu:** Không có rule "no critique" → senior bác ý junior → junior shutdown → mất diversity ý tưởng.
+**Vì sao xấu:** Không có rule "no critique" → cấp trên bác ý nhân viên trẻ → nhân viên trẻ bị dập tắt → mất đa dạng ý tưởng.
 
 ---
 
@@ -3377,7 +3377,7 @@ Workshop nội bộ tìm ý tưởng giảm churn rate. Em Dũng chủ trì, có
 ## ⚠ Tránh
 
 - "じゃあ、自由に" mơ hồ → không ai dám nói trước.
-- Senior critique junior idea → kill diversity.
+- Cấp trên phủ nhận ý kiến nhân viên trẻ → triệt tiêu sự đa dạng.
 - Không time-box → workshop trôi 2 tiếng không kết quả.
 - Quên 「便乗歓迎」 → ý tưởng rời rạc, không phát triển.
 
@@ -3398,7 +3398,7 @@ Workshop nội bộ tìm ý tưởng giảm churn rate. Em Dũng chủ trì, có
 
 # Rule 41 — Performance review feedback / フィードバック面談
 
-> **Luận điểm.** Feedback Nhật KHÔNG dùng "shit sandwich" thẳng tuột. Dùng **GROW model** + tone "growth-oriented": (1) **G**oal đã đạt gì, (2) **R**eality — gì cần cải thiện (factual, không cảm xúc), (3) **O**ptions — phương án phát triển, (4) **W**ill — commitment đôi bên. Tránh 「君は…」 personal.
+> **Luận điểm.** Feedback Nhật KHÔNG dùng "shit sandwich" thẳng tuột. Dùng **GROW model** + tone **định hướng phát triển**: (1) **G**oal đã đạt gì, (2) **R**eality — gì cần cải thiện (factual, không cảm xúc), (3) **O**ptions — phương án phát triển, (4) **W**ill — commitment đôi bên. Tránh 「君は…」 personal.
 >
 > フィードバックはGROW（Goal/Reality/Options/Will）モデルで。事実ベース、人格批判なし。
 >
@@ -3438,23 +3438,23 @@ Cuối Q1, chị Hương đánh giá performance em Dũng. Có điểm tốt (Ph
 
 📝 **Ghi chú:**
 - 【1】**Goal — bắt đầu bằng thành tích cụ thể** (Phase 1 launch). Không phải lip service mà cụ thể.
-- 【2】**Reality — fact-based, không personal** ("見積もりが20%短く設定されていた事実" thay vì "君は甘い").
+- 【2】**Reality — dựa trên sự thật, không mang tính cá nhân** ("見積もりが20%短く設定されていた事実" thay vì "君は甘い").
 - 【3】**Options — đưa cho ngươi đó chọn** → ownership.
-- 【4】**Will — commitment cụ thể** + check-in date.
+- 【4】**Will — commitment cụ thể** + ngày kiểm tra tiến độ.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **GROW: Goal → Reality (fact, không personal) → Options (cho chọn) → Will (commit + check-in).**
+> **GROW: Goal → Reality (sự thật, không cá nhân) → Options (cho chọn) → Will (cam kết + ngày kiểm tra).**
 
 ---
 
 ## ⚠ Tránh
 
-- 「君は〜すぎる」 personal trait → defensive.
+- 「君は〜すぎる」 nhận xét tính cách cá nhân → người nghe bị động, phòng thủ.
 - Feedback không kèm options → không cải thiện được.
-- Không có check-in date → feedback bị quên.
+- Không có ngày kiểm tra tiến độ → feedback bị quên.
 
 ---
 
@@ -3553,7 +3553,7 @@ Họp 60 phút, đến phút 58 chỉ mới bàn xong 2/3 agenda items. Em Dũng
 
 # Rule 43 — Câu chào kết thúc / 会議終了の挨拶
 
-> **Luận điểm.** Họp xong cần đóng formally. Câu chuẩn: 「**本日はお時間いただき誠にありがとうございました**」. Cấu trúc: (1) **Cảm ơn time** → (2) **Tóm 1 dòng output** → (3) **Cam kết next** → (4) **Greeting cuối**. Không "じゃあ、お疲れ様でした" thẳng — quá casual với khách Nhật.
+> **Luận điểm.** Họp xong cần đóng một cách trang trọng. Câu chuẩn: 「**本日はお時間いただき誠にありがとうございました**」. Cấu trúc: (1) **Cảm ơn time** → (2) **Tóm 1 dòng output** → (3) **Cam kết next** → (4) **Greeting cuối**. Không "じゃあ、お疲れ様でした" thẳng — quá casual với khách Nhật.
 >
 > 終了挨拶：①時間への感謝 ②本日のアウトプット要約 ③次のコミット ④結びの挨拶。
 >
@@ -3576,7 +3576,7 @@ Họp định kỳ tháng 4 vừa kết thúc đúng giờ với output rõ ràn
 | **ズン** | 「じゃあ、お疲れ様でした！」 |
 | **大垣** | 「…はい、お疲れ様でした。」 |
 
-**Vì sao xấu:** 「お疲れ様でした」 OK với đồng nghiệp, nhưng với khách Nhật + sau formal meeting → quá casual. Không có thank-you + summary.
+**Vì sao xấu:** 「お疲れ様でした」 OK với đồng nghiệp, nhưng với khách Nhật + sau buổi họp trang trọng → quá casual. Không có lời cảm ơn + phần tóm tắt.
 
 ---
 
@@ -3857,7 +3857,7 @@ TODO：仕様書を書く。
 
 > **Luận điểm.** Sau họp quan trọng (đàm phán, kick-off, lần đầu gặp), cần **email cảm ơn riêng** trong 24h, KHÁC với biên bản. Body 4 phần: (1) **cảm ơn time**, (2) **3 điểm chính ấn tượng**, (3) **next step cụ thể**, (4) **closing quan hệ**. Subject: 「**御礼：〇月〇日の打合せ**」.
 >
-> お礼メール構成：①感謝 ②3つの key takeaway ③次のステップ ④結語。議事録とは別送。
+> お礼メール構成：①感謝 ②3つの điểm chính rút ra ③次のステップ ④結語。議事録とは別送。
 >
 > **Liên quan:** Rule 02 (mời họp), Rule 45 (biên bản), Rule 49 (CRM tracking).
 > Sách 01 (Email) Rule 25-32 (mail tổng quát).
@@ -3872,13 +3872,13 @@ Họp đàm phán phase 2 đầu tiên với anh Ōgaki vừa xong. Đây là l�
 
 ## ❌ Hội thoại XẤU — không gửi follow-up + chỉ gửi biên bản
 
-*chỉ gửi biên bản, không có thank-you mail · với chị Hương 1 tuần sau*
+*chỉ gửi biên bản, không có email cảm ơn · với chị Hương 1 tuần sau*
 
 | Speaker | Câu |
 |---------|-----|
 | **大垣** | 「ズンさんは議事録だけで、初対面のお礼もないですね…」 |
 
-**Vì sao xấu:** Khách Nhật rất quý "お礼の文化". Lần đầu gặp + không có thank-you mail = personal connection yếu.
+**Vì sao xấu:** Khách Nhật rất quý "お礼の文化". Lần đầu gặp + không có email cảm ơn = kết nối cá nhân yếu.
 
 ---
 
@@ -3894,7 +3894,7 @@ Họp đàm phán phase 2 đầu tiên với anh Ōgaki vừa xong. Đây là l�
 
 📝 **Phân biệt với biên bản:**
 - 議事録 = formal record (8 elements, structured).
-- お礼メール = personal touch (warm, ngắn ~150 từ JP).
+- お礼メール = chạm cảm xúc cá nhân (warm, ngắn ~150 từ JP).
 - Cả 2 gửi trong 24h.
 
 ---
@@ -3907,7 +3907,7 @@ Họp đàm phán phase 2 đầu tiên với anh Ōgaki vừa xong. Đây là l�
 
 ## ⚠ Tránh
 
-- Chỉ gửi biên bản, bỏ qua thank-you mail.
+- Chỉ gửi biên bản, bỏ qua email cảm ơn.
 - Subject 「ありがとうございました」 trống không.
 - Follow-up mail dài như biên bản.
 - Quên next step → khách không biết phải chờ gì.
@@ -3927,7 +3927,7 @@ Họp đàm phán phase 2 đầu tiên với anh Ōgaki vừa xong. Đây là l�
 
 # Rule 48 — Cập nhật người vắng mặt / 欠席者へのフィードバック
 
-> **Luận điểm.** Người vắng (đã báo trước) PHẢI nhận đủ info + có cơ hội comment. Quy trình: (1) **gửi biên bản** trong 24h như mọi người, (2) **kèm câu mở** acknowledge "không dự được", (3) **đề xuất 15 phút catch-up** nếu có topic quan trọng. Không bao giờ "skip" người vắng.
+> **Luận điểm.** Người vắng (đã báo trước) PHẢI nhận đủ info + có cơ hội comment. Quy trình: (1) **gửi biên bản** trong 24h như mọi người, (2) **kèm câu mở** ghi nhận "không dự được", (3) **đề xuất 15 phút trao đổi bù** nếu có topic quan trọng. Không bao giờ bỏ qua người vắng.
 >
 > 欠席者には議事録+catch-up提案で情報非対称を解消。「いなかったから」と切り捨てない。
 >
@@ -3950,11 +3950,11 @@ Chị Loan (Kế toán trưởng) đã báo trước không dự được họp 
 | **ズン** |  |
 | **ロアン** | 「ズン、議事録読んだけど、QA増員の件、私の意見も聞いてほしかった…」 |
 
-**Vì sao xấu:** Forward thuần → ngụ ý "đọc đi, OK?" mà không acknowledge người này có insight quan trọng (kế toán = budget owner).
+**Vì sao xấu:** Forward thuần → ngụ ý "đọc đi, OK?" mà không ghi nhận người này có đóng góp quan trọng (kế toán = budget owner).
 
 ---
 
-## ✅ Cách TỐT — acknowledge + offer catch-up
+## ✅ Cách TỐT — ghi nhận + đề xuất trao đổi bù
 
 *viết mail riêng cho chị Loan*
 
@@ -3970,13 +3970,13 @@ Chị Loan (Kế toán trưởng) đã báo trước không dự được họp 
 - 【1】**Mail riêng** — không CC tất cả group. Personal acknowledgment.
 - 【2】**「ご都合つかずお出ましいただけなかった」** — formal ack vắng mặt, không trách.
 - 【3】**Chỉ rõ items relevant** — không làm chị Loan đọc cả biên bản. "items 6 và 7 cần ý chị".
-- 【4】**Đề xuất 15 phút catch-up** — bridge information gap.
+- 【4】**Đề xuất 15 phút trao đổi bù** — thu hẹp khoảng cách thông tin.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **欠席者 = mail riêng + ack + items relevant + 15 phút catch-up đề xuất.**
+> **欠席者 = mail riêng + ghi nhận vắng + items liên quan + đề xuất 15 phút trao đổi bù.**
 
 ---
 
@@ -4001,7 +4001,7 @@ Chị Loan (Kế toán trưởng) đã báo trước không dự được họp 
 
 # Rule 49 — Tracking decisions trong CRM / 決定事項の社内管理
 
-> **Luận điểm.** Decisions từ họp PHẢI lưu vào hệ thống nội bộ (Notion/Slack/CRM) trong **48h** với 4 trường: **(1) Decision**, **(2) Source meeting + date**, **(3) Owner**, **(4) Status (open/closed)**. Mục đích: traceable cho audit + onboarding nhân viên mới + tránh "đã quyết rồi vẫn cãi lại".
+> **Luận điểm.** Decisions từ họp PHẢI lưu vào hệ thống nội bộ (Notion/Slack/CRM) trong **48h** với 4 trường: **(1) Decision**, **(2) Source meeting + date**, **(3) Owner**, **(4) Status (open/closed)**. Mục đích: có thể tra cứu cho audit + tiếp nhận nhân viên mới + tránh "đã quyết rồi vẫn cãi lại".
 >
 > 決定事項は48時間以内にNotion/CRMに記録：①decision ②会議源 ③owner ④status の4フィールド。
 >
@@ -4011,7 +4011,7 @@ Chị Loan (Kế toán trưởng) đã báo trước không dự được họp 
 
 ## Bối cảnh / 場面
 
-3 tuần sau buổi đàm phán phase 2, có thành viên dev mới onboard. Hỏi "scope phase 2 chốt thế nào?". Em Dũng cần chỉ tới CRM record.
+3 tuần sau buổi đàm phán phase 2, có thành viên dev mới gia nhập. Hỏi "scope phase 2 chốt thế nào?". Em Dũng cần chỉ tới CRM record.
 
 ---
 
@@ -4023,7 +4023,7 @@ Chị Loan (Kế toán trưởng) đã báo trước không dự được họp 
 | **ズン** | 「えーと、メールどこかに議事録あったはず…」 *(15 phút search)* |
 | **新人** | 「…」 |
 
-**Vì sao xấu:** Decision không có "single source of truth". Mỗi lần ai hỏi → search email → mất 15 phút. Onboarding inefficient.
+**Vì sao xấu:** Decision không có "single source of truth". Mỗi lần ai hỏi → search email → mất 15 phút. Quy trình tiếp nhận nhân viên mới kém hiệu quả.
 
 ---
 
@@ -4083,7 +4083,7 @@ Chị Loan (Kế toán trưởng) đã báo trước không dự được họp 
 
 # Rule 50 — Self-reflection cải tiến / 振り返りと改善
 
-> **Luận điểm.** Sau mỗi tuần có nhiều họp, dành **15 phút Friday afternoon** để nhìn lại: gì work, gì cần đổi. Dùng **10-item checklist** (準備/進行/参加/締め). Ghi vào **diary file riêng** — không gửi ai. Mục đích: kỹ năng họp tăng từng tuần, không bị plateau.
+> **Luận điểm.** Sau mỗi tuần có nhiều họp, dành **15 phút Friday afternoon** để nhìn lại: gì work, gì cần đổi. Dùng **10-item checklist** (準備/進行/参加/締め). Ghi vào **diary file riêng** — không gửi ai. Mục đích: kỹ năng họp tăng từng tuần, không bị đình trệ.
 >
 > 週末15分の振り返り：10項目チェックリストで会議スキルを継続改善。日記形式で個人ファイルに記録。
 >
@@ -4103,7 +4103,7 @@ Friday 5pm. Em Dũng đã chủ trì 4 buổi họp tuần này. Mở file `meet
 |---|---|---|
 | Week 1 | 「終わった、よかった」 | Không học gì mới |
 | Week 4 | Cùng mistake lặp lại — agenda send 2h trước | Khách lại complain |
-| Week 12 | Skills plateau, performance review ko cải thiện |
+| Week 12 | Kỹ năng giậm chân, performance review ko cải thiện |
 
 ---
 
@@ -4114,11 +4114,11 @@ Friday 5pm. Em Dũng đã chủ trì 4 buổi họp tuần này. Mở file `meet
 **A. Chuẩn bị (3 items)**
 - [ ] Agenda gửi ≥24h trước?
 - [ ] Tài liệu pre-read send ≥24h?
-- [ ] Pre-meeting check-in nội bộ?
+- [ ] Kiểm tra nội bộ trước họp?
 
 **B. Tiến hành (3 items)**
 - [ ] Bắt đầu đúng giờ?
-- [ ] Tất cả ý kiến được nghe (kể cả junior)?
+- [ ] Tất cả ý kiến được nghe (kể cả nhân viên trẻ)?
 - [ ] Time-box mỗi item respected?
 
 **C. Tham gia (2 items)**
@@ -4137,7 +4137,7 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 
 ✅ Đã làm tốt:
   - Agenda gửi 48h trước cho Phase 2 negot
-  - Cushion + counter-proposal khi anh Ōgaki yêu cầu 20%
+  - Dùng cushion + đề xuất đối lại khi anh Ōgaki yêu cầu 20%
 
 ⚠ Cần cải thiện:
   - Họp định kỳ thứ 4 — quên xin lượt nói (cắt lời anh Matsumoto)
@@ -4158,7 +4158,7 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 
 ## ⚠ Tránh
 
-- Không reflect → skills plateau.
+- Không reflect → kỹ năng đình trệ.
 - Reflect chung chung "tốt/không tốt" → không actionable.
 - Quá nhiều thay đổi 1 lần → confused. 1-2 thay đổi/tuần đủ.
 
@@ -4227,7 +4227,7 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 > 📝 _RSVP期限を伝える定型句_
 
 
-### Rule 03 — Đặt phòng + Setup hậu cần / 会議室予約・設備確認
+### Rule 03 — Đặt phòng + Chuẩn bị hậu cần / 会議室予約・設備確認
 
 **リン (em Linh):**
 
@@ -4265,7 +4265,7 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 > 📝 _録画許可確認のリマインド_
 
 
-### Rule 05 — Distribute tài liệu trước 24h / 資料の事前配布
+### Rule 05 — Gửi tài liệu trước 24h / 資料の事前配布
 
 **ズン (em Dũng):**
 
@@ -4303,7 +4303,7 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 > 📝 _会議開始の宣言_
 
 
-### Rule 07 — Pre-meeting check-in nội bộ / 事前すり合わせ
+### Rule 07 — Kiểm tra nội bộ trước họp / 事前すり合わせ
 
 **フオン副部長 (chị Hương):**
 
@@ -4322,7 +4322,7 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 > 📝 _BDに即答を避けさせる指示_
 
 
-### Rule 08 — Chuẩn bị Plan B + counter-arguments / 想定問答集の準備
+### Rule 08 — Chuẩn bị Plan B + phản biện / 想定問答集の準備
 
 **ズン (em Dũng):**
 
@@ -4336,7 +4336,7 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 
 > 🇯🇵 「即値引きには応じない方針で〇〇と統一済みです。」
 >
-> 🇻🇳 *Phương châm không giảm giá ngay, em đã align với 〇〇 ạ.*
+> 🇻🇳 *Phương châm không giảm giá ngay, em đã thống nhất với 〇〇 ạ.*
 >
 > 📝 _交渉方針の社内統一を示す_
 
@@ -4608,7 +4608,7 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 
 > 🇯🇵 「改めて実現可否をご報告したく存じます。」
 >
-> 🇻🇳 *Em xin được report lại feasibility sau ạ.*
+> 🇻🇳 *Em xin được báo lại tính khả thi sau ạ.*
 >
 > 📝 _即決を避ける表現_
 
@@ -4735,7 +4735,7 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 >
 > 🇻🇳 *Em e là khó kết luận tại đây hôm nay. Hai bên mang về và bàn riêng có được không ạ?*
 >
-> 📝 _デッドロックを defuse する標準フレーズ_
+> 📝 _デッドロックを hạ nhiệt する標準フレーズ_
 
 **ズン (em Dũng):**
 
@@ -4746,7 +4746,7 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 > 📝 _次のアクション+期限を約束_
 
 
-### Rule 30 — Khi senior nói câu khó hiểu / 上司・顧客の曖昧な発言の確認
+### Rule 30 — Khi cấp trên nói câu khó hiểu / 上司・顧客の曖昧な発言の確認
 
 **ズン (em Dũng):**
 
@@ -5527,7 +5527,7 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 - 🇯🇵 「ご返信いただけますと幸いです」が依頼を丁寧に伝える定型句。他は命令調・カジュアルすぎ。
 - 🇻🇳 「ご返信いただけますと幸いです」 là cụm lịch sự chuẩn để xin reply. Các option khác hoặc mệnh lệnh, hoặc casual quá.
 
-### J3.3 (từ rule_03 — Đặt phòng + Setup hậu cần)
+### J3.3 (từ rule_03 — Đặt phòng + Chuẩn bị hậu cần)
 
 **Skill:** 場面把握
 
@@ -5542,9 +5542,9 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 
 **Giải thích / 解説:**
 - 🇯🇵 設備チェックリストは会議運営に必要な物品のみ。出席者の嗜好は別件。
-- 🇻🇳 Checklist setup chỉ liên quan thiết bị họp. Sở thích cá nhân không thuộc checklist.
+- 🇻🇳 Checklist chuẩn bị phòng chỉ liên quan thiết bị họp. Sở thích cá nhân không thuộc checklist.
 
-### J3.4 (từ rule_04 — Setup video call (Zoom/Teams))
+### J3.4 (từ rule_04 — Thiết lập video call (Zoom/Teams))
 
 **Skill:** 場面把握
 
@@ -5561,7 +5561,7 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 - 🇯🇵 リンク・音声・画面共有・背景・録画の5点が事前確認の必須項目。
 - 🇻🇳 Link / audio / share screen / background / recording — 5 điểm phải check trước.
 
-### J3.5 (từ rule_05 — Distribute tài liệu trước 24h)
+### J3.5 (từ rule_05 — Gửi tài liệu trước 24h)
 
 **Skill:** 表現読解
 
@@ -5899,7 +5899,7 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 
 **Giải thích / 解説:**
 - 🇯🇵 1on1は構造化された対話の場。進捗→課題→相談→次の構成で上司の支援を最大化できる。
-- 🇻🇳 1on1 là chỗ trao đổi có cấu trúc. Progress → Challenge → Ask → Next tối ưu hỗ trợ từ senior.
+- 🇻🇳 1on1 là chỗ trao đổi có cấu trúc. Progress → Challenge → Ask → Next tối ưu hỗ trợ từ cấp trên.
 
 ### J3.25 (từ rule_42 — Đột xuất kết thúc sớm vì thiếu thời gian)
 
@@ -6018,7 +6018,7 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 
 **Giải thích / 解説:**
 - 🇯🇵 single source of truthがあれば onboarding・監査・後追いが全て効率化される。
-- 🇻🇳 Có 1 source duy nhất → onboarding / audit / follow-up đều hiệu quả.
+- 🇻🇳 Có 1 source duy nhất → tiếp nhận nhân viên mới / audit / follow-up đều hiệu quả.
 
 ### J3.32 (từ rule_50 — Self-reflection cải tiến)
 
@@ -6035,12 +6035,12 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 
 **Giải thích / 解説:**
 - 🇯🇵 週次の構造化された自己振り返り+具体的改善コミットがスキル plateau を防ぐ。
-- 🇻🇳 Reflection hàng tuần có cấu trúc + commit cải tiến cụ thể tránh được skill plateau.
+- 🇻🇳 Tự nhìn lại hàng tuần có cấu trúc + cam kết cải tiến cụ thể giúp kỹ năng không bị đình trệ.
 
 
 ## Level J2 (17 câu)
 
-### J2.1 (từ rule_07 — Pre-meeting check-in nội bộ)
+### J2.1 (từ rule_07 — Kiểm tra nội bộ trước họp)
 
 **Skill:** 場面把握
 
@@ -6057,7 +6057,7 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 - 🇯🇵 事前すり合わせは、客との会議で社内が一枚岩であることを保証するための内部準備。
 - 🇻🇳 事前すり合わせ là chuẩn bị nội bộ để khi gặp khách thì cả team đồng nhất.
 
-### J2.2 (từ rule_08 — Chuẩn bị Plan B + counter-arguments)
+### J2.2 (từ rule_08 — Chuẩn bị Plan B + phản biện)
 
 **Skill:** 表現読解
 
@@ -6191,7 +6191,7 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 
 **Giải thích / 解説:**
 - 🇯🇵 受け止め+具体的数値+事実ベースで反論するのが最も説得力がある。
-- 🇻🇳 Ghi nhận + số cụ thể + fact-based là cách phản biện thuyết phục nhất.
+- 🇻🇳 Ghi nhận + số cụ thể + dựa trên sự thật là cách phản biện thuyết phục nhất.
 
 ### J2.10 (từ rule_29 — Khi gặp deadlock)
 
@@ -6210,7 +6210,7 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 - 🇯🇵 司会者の独断は内部信頼を損ね、強引採決は関係を壊す。冷却期間+期限つき再提案が最善。
 - 🇻🇳 Chủ trì tự quyết = mất uy tín nội bộ. Ép vote = phá quan hệ. Cool-off + deadline tái đề xuất = tối ưu.
 
-### J2.11 (từ rule_30 — Khi senior nói câu khó hiểu)
+### J2.11 (từ rule_30 — Khi cấp trên nói câu khó hiểu)
 
 **Skill:** 発言聴解
 
@@ -6225,7 +6225,7 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 
 **Giải thích / 解説:**
 - 🇯🇵 曖昧発言には推測二択で確認するのが最も精度が高い。一方解釈は誤読リスク、open-ended は相手に再説明負担。
-- 🇻🇳 Mơ hồ → đưa 2 lựa chọn confirm là chính xác nhất. Đoán 1 hướng có rủi ro. Open-ended bắt senior giải thích lại.
+- 🇻🇳 Mơ hồ → đưa 2 lựa chọn confirm là chính xác nhất. Đoán 1 hướng có rủi ro. Open-ended bắt cấp trên giải thích lại.
 
 ### J2.12 (từ rule_34 — Hybrid meeting cân bằng online/offline)
 
@@ -6242,7 +6242,7 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 
 **Giải thích / 解説:**
 - 🇯🇵 ハイブリッドはオンライン側が情報非対称になりやすいため、online first + 要約共有がバランスを取る。
-- 🇻🇳 Hybrid dễ bất cân xứng thông tin với online → online first + summary là cách cân bằng.
+- 🇻🇳 Hybrid dễ bất cân xứng thông tin với online → online first + tóm tắt là cách cân bằng.
 
 ### J2.13 (từ rule_37 — Crisis meeting họp gấp)
 
@@ -6310,7 +6310,7 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 
 **Giải thích / 解説:**
 - 🇯🇵 GROWモデルは事実ベース・本人選択・期限つきコミットで改善を促す最も効果的なフレームワーク。
-- 🇻🇳 GROW: fact-based + để người đó chọn + commit có deadline = khung hiệu quả nhất.
+- 🇻🇳 GROW: dựa trên sự thật + để người đó chọn + cam kết có deadline = khung hiệu quả nhất.
 
 ### J2.17 (từ rule_46 — Format biên bản chuẩn (extended))
 
@@ -6785,7 +6785,7 @@ E-mail: 〇〇
 
 ## Checklist (3 mẫu)
 
-### Rule 03 — Checklist Setup Phòng Họp
+### Rule 03 — Checklist Chuẩn bị Phòng Họp
 
 *JP: 会議室セットアップ・チェックリスト*
 
@@ -6813,7 +6813,7 @@ E-mail: 〇〇
 **Bản Việt placeholder:**
 
 ```
-[Checklist Setup Phòng Họp - hoàn thành trước 17h hôm trước]
+[Checklist Chuẩn bị Phòng Họp - hoàn thành trước 17h hôm trước]
 
 [ ] 1. Confirm đặt phòng (cho dôi 2 ghế so với số người)
 [ ] 2. Test projector (cắm thực tế)
@@ -6836,7 +6836,7 @@ E-mail: 〇〇
 📝 **Ghi chú VN:** Lý tưởng là xong trước 17h hôm trước. Hôm họp có sub-checklist riêng để check lại 10 phút trước.
 📝 **Ghi chú JP:** 前日17時までに完了するのが理想。当日10分前に最終確認のサブチェックリストを別建てで実施する。
 
-### Rule 04 — Checklist Setup Online Meeting
+### Rule 04 — Checklist Thiết lập Online Meeting
 
 *JP: オンライン会議セットアップ・チェックリスト*
 
@@ -6864,7 +6864,7 @@ E-mail: 〇〇
 **Bản Việt placeholder:**
 
 ```
-[Checklist Setup Online Meeting - xong 30 phút trước]
+[Checklist Thiết lập Online Meeting - xong 30 phút trước]
 
 [ ] 1. Phát link + check hạn dùng
 [ ] 2. Test audio (cả mic và speaker)
@@ -6964,13 +6964,13 @@ Self-review kỹ năng họp — Week 〇〇 (〇/〇 - 〇/〇)
 ────────────────────────────
   □ 1. Gửi agenda ≥ 24h trước?
   □ 2. Share pre-read ≥ 24h trước?
-  □ 3. Pre-meeting check-in nội bộ?
+  □ 3. Kiểm tra nội bộ trước họp?
 
 ────────────────────────────
  B. Tiến hành (Facilitation)
 ────────────────────────────
   □ 4. Bắt đầu đúng giờ?
-  □ 5. Lắng nghe ý kiến mọi người (kể cả junior)?
+  □ 5. Lắng nghe ý kiến mọi người (kể cả nhân viên trẻ)?
   □ 6. Giữ time-box mỗi item?
 
 ────────────────────────────

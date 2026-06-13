@@ -18,7 +18,7 @@ Sau họp với khách, em Dũng cần broadcast 5 quyết định quan trọng 
 
 *mail to team@, "今日の打ち合わせ報告" · 2 ngày sau*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 1500-character narrative kể lại buổi họp 90 phút. Action items lẫn trong văn. |
 | **ハイ** | 「ズン、デプロイの件、私の担当だったの？メールに書いてあった？」 |
@@ -33,7 +33,7 @@ Sau họp với khách, em Dũng cần broadcast 5 quyết định quan trọng 
 
 *mail subject: "【決定事項5件】4/22 松本様打ち合わせ - Phase 3 移行" · reply 30 giây sau*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | (Body theo template — see template box) |
 | **ハイ** | 「ズン、自分の担当2件 (デプロイ準備・CI設定) 確認しました。期日 4/26 までに完了します。」 |

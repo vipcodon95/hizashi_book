@@ -18,7 +18,7 @@ Workshop nội bộ tìm ý tưởng giảm churn rate. Em Dũng chủ trì, có
 
 *rụt rè · cắt ngang · im luôn cả phiên*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「じゃあ、アイデア出してください。」 |
 | **リン** | 「あの…ユーザーにアンケート送るのは…」 |
@@ -33,7 +33,7 @@ Workshop nội bộ tìm ý tưởng giảm churn rate. Em Dũng chủ trì, có
 
 *write to whiteboard · thay vì critique, build on · 15 phút sau*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「本日のブレスト、4原則を確認させてください【1】。①批判禁止 ②量重視 ③便乗歓迎 ④15分タイムボックス。よろしいでしょうか？」 |
 | **全員** | 「OK。」 |

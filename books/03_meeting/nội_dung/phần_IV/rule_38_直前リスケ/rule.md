@@ -18,7 +18,7 @@ Họp với anh Matsumoto lúc 14h. Đến 13h30, anh Hà CTO có cuộc họp k
 
 *điện thoại · thực ra đã chuẩn bị 1 tiếng cho buổi này*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「松本さん、すみません、急用があって今日の会議無理になりました…また連絡します。」 |
 | **松本** | 「…そうですか。」 |
@@ -31,7 +31,7 @@ Họp với anh Matsumoto lúc 14h. Đến 13h30, anh Hà CTO có cuộc họp k
 
 *điện thoại 13h30 · tiếp · tiếp*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「松本様、ティエンファットのズンでございます。直前のご連絡となり、誠に申し訳ございません【1】。」 |
 | **ズン** | 「弊社CTOが本日突発的に銀行CFOとの会議が入り、本日14時の会議に出席できない状況となりました【2】。」 |

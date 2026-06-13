@@ -50,13 +50,15 @@ DB target: PostgreSQL local của `HizashiWeb/backend` (project anh chị em ở
 **Đọc**: `.claude/skills/book-writing-pipeline-lite/SKILL.md`
 
 **Pipeline 8 stages** (skip exercises + module mapping + SQL):
-1. Research → 2. Outline → 3. Draft → 4. **Content md DIALOGUE-FOCUS** (≥70% dialogue density, file `_HoiThoai.md`) → 5. JP/VN review → 6. Consistency → 7. Council (3 parallel) → 8. Finalize (apply fix, KHÔNG SQL/seed)
+1. Research → 2. Outline → 3. Draft → 4. **Content md DIALOGUE-FOCUS** (≥90% hội thoại tiếng Nhật nghiệp vụ, ≤1 scene tiếng Việt/chương, file `_HoiThoai.md`) → 5. JP/VN review → 6. Consistency → 7. Council (3 parallel) → 8. Finalize (apply fix, KHÔNG SQL/seed)
 
 **State**: `books/<book>/_pipeline/state.json` với **`pipeline_type: "lite"`** (BẮT BUỘC để command phân biệt)
 
 **Khác chính so với pipeline FULL**:
 - File suffix `_HoiThoai.md` thay vì `_LyThuyet.md`
-- Stage 4 enforce ≥70% dialogue, lý thuyết tối đa 30%
+- Stage 4 enforce ≥90% hội thoại TIẾNG NHẬT NGHIỆP VỤ (mẫu câu người học dùng khi đi làm), ≤1 scene tiếng Việt/chương. KHÔNG phải tiểu thuyết — mục đích #1 là dạy tiếng Nhật
+- Ruby furigana cú pháp đúng tuyệt đối (`<ruby>`==`</ruby>`); tuyến phụ (gia đình/hôn nhân) chốt với user trước; verify độc lập sau mỗi batch subagent
+- Sách mẫu chuẩn: `books/27_kaigo/t01_rainichi_shock/*_HoiThoai.md` (series Kaigo 27-32 — tham chiếu story arc nghề nghiệp dài)
 - KHÔNG có JSON exercises, KHÔNG seed DB
 - 8 stages thay vì 10 → nhanh hơn ~30-40%
 - Subagents dùng giống nhau nhưng prompt focus dialogue

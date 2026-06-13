@@ -18,7 +18,7 @@ Dũng làm slide với mọi text 18pt + center alignment + font MS Mincho defau
 
 *後列から*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **フオン** | 「ズン、後ろからタイトル読めない。何ポイント？」 |
 | **ズン** | 「全部18ポイントです。情報を入れたかったので…」 |
@@ -33,7 +33,7 @@ Dũng làm slide với mọi text 18pt + center alignment + font MS Mincho defau
 
 *後列で確認*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「**チェックリスト**で全スライド見直しました【1】。タイトル36pt、サブ24pt、本文20pt、フォントは**Meiryo**統一です。」 |
 | **フオン** | 「うん、後ろからタイトル読める。本文はギリギリ。図表のラベルは何pt？」 |

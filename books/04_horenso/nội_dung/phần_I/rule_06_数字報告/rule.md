@@ -16,7 +16,7 @@ Em Dũng họp với anh Hà CTO về tình hình Phase 2. Lần đầu Dũng b�
 
 ## ❌ Hội thoại XẤU — toàn định tính
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「ハーさん、Phase 2 のパフォーマンスは大幅に改善しました。バグも減ってます。お客様も満足しています。」 |
 | **ハーCTO** | 「『大幅に』『減ってる』『満足』… **数字で**話してください。Phase 3 の予算判断ができません。」 |
@@ -29,7 +29,7 @@ Em Dũng họp với anh Hà CTO về tình hình Phase 2. Lần đầu Dũng b�
 
 ## ✅ Hội thoại TỐT — KPI dashboard kèm % thay đổi
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「ハーさん、Phase 2 の数値報告です。**画面ロード時間：1.2秒 → 0.4秒（-67%）**【1】、ダッシュボード資料を画面共有いたします。」 |
 | **ズン** | 「**バグ件数**：Phase 1 が週20件、Phase 2 が週6件で **-70%**。**顧客 NPS**：+12 から +38 へ改善しております【2】。」 |

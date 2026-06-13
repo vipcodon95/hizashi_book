@@ -18,7 +18,7 @@ Phase 3 pitch. Dũng pitch business + scope (slide 1-12). Slide 13-18 là techni
 
 *cuối slide 12 · 沈黙 5秒, ハー lúng túng · quên đã được introduce ở slide 1 chưa · in mind*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「以上、business overview でした。じゃあ次、ハーさんお願いします。」 |
 | **ハー** | 「えっと、ティエンファット社 CTO のハーと申します。本日はよろしく…えーと、技術アーキテクチャについて…」 *(re-introduce 30s)* |
@@ -32,7 +32,7 @@ Phase 3 pitch. Dũng pitch business + scope (slide 1-12). Slide 13-18 là techni
 
 *cuối slide 12 · eye contact + gesture sang Hà · stand up nhanh, không re-introduce dài · 15分後, slide 18 cuối phần Hà · stand up*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「以上で **business overview と スコープ概要** を終わらせていただきました。**次の技術アーキテクチャ詳細** につきましては、**弊社 CTO ハー より** ご説明させていただきます【1】。」 — Bridge + verbal handoff |
 | **ズン** | 「**ハー、よろしくお願いします**【2】。」 |

@@ -15,7 +15,7 @@
 | DevOps | Development + Operations | Phương pháp / vị trí kết hợp phát triển phần mềm và vận hành hệ thống (chức danh nhân vật em Hải) |
 | ETA | Estimated Time of Arrival | Thời điểm / thời hạn dự kiến; trong họp sự cố dùng với nghĩa "dự kiến xong lúc mấy giờ" (rule 37) |
 | FE | Front-End | Lập trình phía giao diện người dùng (chức danh nhân vật em Hải) |
-| GROW | Goal – Reality – Options – Will | Mô hình phản hồi / coaching 4 bước dùng trong buổi feedback 1on1 (rule 41) |
+| GROW | Goal – Reality – Options – Will | Mô hình coaching 4 bước dùng trong buổi phản hồi 1-on-1 (rule 41) |
 | HDMI | High-Definition Multimedia Interface | Cổng / cáp kết nối màn hình độ phân giải cao (checklist phòng họp rule 03) |
 | JST | Japan Standard Time | Giờ chuẩn Nhật Bản (UTC+9); bắt buộc ghi trong agenda khi có người ở nhiều múi giờ |
 | KPI | Key Performance Indicator | Chỉ số đánh giá hiệu suất chính (dùng khi share màn hình báo cáo rule 36) |
@@ -26,7 +26,7 @@
 | Q1 | Quarter 1 | Quý 1 của năm tài chính (dùng trong buổi đánh giá performance cuối quý rule 41) |
 | QA | Quality Assurance | Đảm bảo chất lượng / bộ phận kiểm thử phần mềm (rule 23, template biên bản) |
 | RBAC | Role-Based Access Control | Kiểm soát quyền truy cập theo vai trò (thuật ngữ kỹ thuật trong rule 21) |
-| RSVP | Répondez s'il vous plaît | Vui lòng xác nhận tham dự; deadline RSVP là thời hạn reply email mời họp (rule 02) |
+| RSVP | Répondez s'il vous plaît | Xác nhận tham dự — hạn RSVP là thời hạn phải trả lời email mời họp (rule 02) |
 | SSID | Service Set Identifier | Tên mạng Wi-Fi; cần ghi lên name plate trong phòng họp (rule 03) |
-| URL | Uniform Resource Locator | Địa chỉ đường dẫn web / link Zoom (dùng trong email mời họp online rule 04) |
+| URL | Uniform Resource Locator | Đường dẫn web / link Zoom (dùng trong email mời họp online rule 04) |
 | USB | Universal Serial Bus | Cổng kết nối thiết bị (USB-C — dùng trong checklist cáp phòng họp rule 03) |

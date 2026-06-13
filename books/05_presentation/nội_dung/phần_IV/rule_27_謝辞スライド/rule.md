@@ -18,7 +18,7 @@ Dũng đang finalize deck. Đến slide cuối — chuẩn bị làm "Thank You"
 
 *nhìn qua vai*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアン** | 「最後のスライド、『Thank You』だけ？」 |
 | **ズン** | 「はい、シンプルがいいかと…」 |
@@ -31,7 +31,7 @@ Dũng đang finalize deck. Đến slide cuối — chuẩn bị làm "Thank You"
 
 ## ✅ Hội thoại TỐT — Thank-you slide đầy đủ 4 thành phần
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「**4要素入りの謝辞スライド** に変更しました【1】。①御礼、②本日の3点 recap、③連絡先、④deck PDF の QR コード。」 |
 | **トゥアン** | 「いいね、QR は何先？Drive 直リンク？」 |

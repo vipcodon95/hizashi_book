@@ -162,7 +162,7 @@ Em Dũng phát hiện 3 rủi ro ở Dự án Bình Minh và cần chị Hương
 >
 > - Anh Khoa (FE) xin nghỉ từ 05/05, chưa có người thay.
 > - API bên Hakuō trễ 1 tuần so với cam kết.
-> - Scope bị mở rộng do feedback từ team CS của khách.
+> - Phạm vi dự án bị mở rộng do phản hồi từ team CS của khách.
 >
 > Em đề xuất họp 30 phút với chị + anh Tuấn trong các khung sau:
 >
@@ -360,13 +360,13 @@ Nếu *bạn* đã gửi mail quan trọng và sau 24 giờ chưa có phản h�
 
 > **Luận điểm.** Trước khi bấm Send, dừng 10 giây và tự trả lời một câu duy nhất: *"Sau khi đọc mail này, tôi muốn người đọc làm **chính xác** cái gì?"*. Nếu câu trả lời không phải một **động từ cụ thể** — *duyệt*, *chọn 1 trong 3*, *ký*, *gọi cho em Dũng trước 15h* — thì mail chưa sẵn sàng gửi.
 >
-> Từ khóa của rule này: **"CTA rõ"** (call-to-action rõ).
+> Từ khóa của rule này: **"yêu cầu hành động rõ"** (call-to-action).
 
 ## Bối cảnh
 
 Em Linh — thực tập sinh bên Marketing — viết mail đầu tiên gửi sếp chị Hương, đề xuất ý tưởng chiến dịch mạng xã hội cho Dự án Bình Minh.
 
-## Ví dụ XẤU — mail không có CTA
+## Ví dụ XẤU — mail không có yêu cầu hành động
 
 > Chị Hương ạ,
 >
@@ -376,7 +376,7 @@ Em Linh — thực tập sinh bên Marketing — viết mail đầu tiên gửi 
 
 **Vì sao chưa ổn.** Chị Hương đọc xong không biết mình cần làm gì. *Đọc để biết? Chọn một hướng? Góp ý nội dung? Duyệt để Linh bắt tay làm?* Mail này gần như chắc chắn sẽ nằm trong hộp "đọc sau" vô thời hạn — không phải vì chị không quan tâm, mà vì chị không biết chị đang phải *hành động* gì.
 
-## Ví dụ TỐT — CTA rõ, deadline rõ
+## Ví dụ TỐT — yêu cầu hành động rõ, deadline rõ
 
 > Chị Hương ạ,
 >
@@ -393,7 +393,7 @@ Em Linh — thực tập sinh bên Marketing — viết mail đầu tiên gửi 
 
 ## Biến thể — Khi không cần người đọc làm gì
 
-Nếu CTA của bạn thật sự là "đọc để biết, không cần phản hồi", **hãy nói thẳng điều đó**:
+Nếu yêu cầu hành động của bạn thật sự là "đọc để biết, không cần phản hồi", **hãy nói thẳng điều đó**:
 
 > "Mail này chỉ để chị nắm thông tin, em không cần chị phản hồi."
 
@@ -403,7 +403,7 @@ Một câu nhỏ này cứu chị Hương khỏi áp lực "có phải mình đa
 
 > **"Em xin chị/anh [động từ cụ thể] [cái gì cụ thể] trước [ngày cụ thể] để em [mục đích cụ thể]."**
 
-*Dùng khi:* mọi mail có yêu cầu hành động. Bốn ô *cụ thể* là bốn kiểm tra bắt buộc — nếu điền được cả bốn, CTA của bạn đã rõ.
+*Dùng khi:* mọi mail có yêu cầu hành động. Bốn ô *cụ thể* là bốn kiểm tra bắt buộc — nếu điền được cả bốn, yêu cầu hành động của bạn đã rõ.
 
 
 # Rule 06 — Bảy từ ở dòng tiêu đề quyết định mail được mở hay không
@@ -527,7 +527,7 @@ Chị Hương có 2 mail riêng. Chị trả lời mail 1, sau đó chị trả 
 
 Có những trường hợp 2 việc không thể tách vì chúng phụ thuộc lẫn nhau:
 
-- Budget phát sinh *phụ thuộc vào* kết quả review: cần biết review có đồng ý mở scope không mới quyết được budget.
+- Budget phát sinh *phụ thuộc vào* kết quả review: cần biết review có đồng ý mở phạm vi không mới quyết được budget.
 
 Khi đó **phải gộp**, nhưng phải áp dụng **Rule 08** (tiêu đề hai vế) để người nhận biết trước mail có 2 phần.
 
@@ -569,7 +569,7 @@ Chị Hương sắp đi công tác 3 ngày và chỉ còn 10 phút trước khi 
 
 > Chị Hương,
 >
-> Vì hai việc này phụ thuộc nhau (scope review sẽ chốt budget), em gộp trong một mail, chia làm 2 phần:
+> Vì hai việc này phụ thuộc nhau (phạm vi review sẽ chốt budget), em gộp trong một mail, chia làm 2 phần:
 >
 > **Phần 1 — Budget 80 triệu phát sinh**
 > (3 dòng tóm tắt + file đính kèm)
@@ -1050,7 +1050,7 @@ Biến thể:
 
 ## Biến thể — Khi dẫn nhập có thể rút xuống 1 câu
 
-Nếu mail rất ngắn (≤5 dòng) và CTA đã nằm ngay trong dòng dẫn nhập, không cần 2 câu:
+Nếu mail rất ngắn (≤5 dòng) và yêu cầu hành động đã nằm ngay trong dòng dẫn nhập, không cần 2 câu:
 
 > "Em xin chị duyệt giúp em phát sinh 80 triệu Bình Minh (file đính kèm), trước 15/05."
 
@@ -1065,7 +1065,7 @@ Cả mail có thể chỉ là câu này + câu cảm ơn + chữ ký.
 
 # Rule 15 — Thân mail đi theo trục Kết luận → Lý do → Chi tiết, không ngược lại
 
-> **Luận điểm.** Khi viết báo chí có khái niệm **"kim tự tháp ngược"** (*inverted pyramid*): đưa thông tin quan trọng nhất lên đầu, thông tin bổ sung xuống đuôi. Email chuyên nghiệp đi theo đúng logic đó — **Kết luận trước, Lý do giữa, Chi tiết cuối**. Người bận đọc đến đâu cũng đủ hiểu để hành động.
+> **Luận điểm.** Khi viết báo chí có khái niệm **"kim tự tháp ngược"**: đưa thông tin quan trọng nhất lên đầu, thông tin bổ sung xuống đuôi. Email chuyên nghiệp đi theo đúng logic đó — **Kết luận trước, Lý do giữa, Chi tiết cuối**. Người bận đọc đến đâu cũng đủ hiểu để hành động.
 >
 > Từ khóa của rule này: **"kim tự tháp ngược"**.
 
@@ -1159,7 +1159,7 @@ Dũng vừa trình bày xong phần thân mail xin duyệt phát sinh. Giờ đ�
 
 > Em cảm ơn chị và mong chị phản hồi trước thứ Năm 15/05.
 
-Làm đủ ba việc: tóm CTA (phản hồi), deadline (15/05), cảm ơn.
+Làm đủ ba việc: tóm yêu cầu hành động (phản hồi), deadline (15/05), cảm ơn.
 
 ### Mẫu 2 — Trang trọng hơn (mail gửi lên cao, khách hàng quan trọng)
 
@@ -1171,7 +1171,7 @@ Thêm: mở đường giải trình, nhấn mạnh sẵn sàng hỗ trợ.
 
 > Em cảm ơn chị. Chị xem giúp em trước 15/05 nhé.
 
-Vẫn có đủ CTA + deadline + cảm ơn, chỉ cô đọng hơn.
+Vẫn có đủ yêu cầu hành động + deadline + cảm ơn, chỉ cô đọng hơn.
 
 ## Bộ công cụ câu kết theo tình huống
 
@@ -1194,7 +1194,7 @@ Cả "nội dung" và "cảm ơn" nằm trong 1 câu. Mail *đóng cửa* vẫn 
 
 ## Câu chốt mang đi
 
-> **"Câu kết tóm CTA, cảm ơn, mở đường. Một đến hai câu. Không dấu ba chấm, không 'Thanks' cụt."**
+> **"Câu kết tóm yêu cầu hành động, cảm ơn, mở đường. Một đến hai câu. Không dấu ba chấm, không 'Thanks' cụt."**
 
 *Dùng khi:* trước chữ ký. Đây là câu cuối cùng người đọc thấy — nó quyết định dư vị còn đọng lại sau khi đóng mail.
 
@@ -1451,7 +1451,7 @@ Email có độ trễ. Mail gửi đi có thể được đọc sau 1 giờ, 1 n
 
 **Dấu hiệu nhận biết:**
 - "Nếu không chốt trong __ giờ tới thì __."
-- Vấn đề đang block bạn *ngay lúc này*.
+- Vấn đề đang cản trở bạn *ngay lúc này*.
 - Khách hàng đang đợi ở đầu dây bên kia.
 
 **Ví dụ:** Khách hàng đang bay vào TP.HCM tối nay, Dũng cần biết có đón sân bay không. Đây là câu hỏi cần câu trả lời trong 5 phút, không phải 5 giờ. → Gọi anh Tuấn ngay.
@@ -2977,7 +2977,7 @@ Chị Hương biết rõ:
 
 > "Anh Matsumoto,
 >
-> Em viết để follow up về phụ lục hợp đồng em gửi anh thứ Ba 13/05. **Em không chắc mail có vào spam của anh không, hoặc có thể anh đang bận với đợt đóng quý**.
+> Em viết để nhắc lại về phụ lục hợp đồng em gửi anh thứ Ba 13/05. **Em không chắc mail có vào spam của anh không, hoặc có thể anh đang bận với đợt đóng quý**.
 >
 > Em vẫn đang giữ bản nháp sẵn sàng cho anh. Anh có thể cho em biết:
 > - Nếu anh cần thêm thời gian → em có thể đợi đến **thứ Sáu 17/05**.
@@ -3152,7 +3152,7 @@ Anh Matsumoto hiểu:
 
 > "Anh Matsumoto, em không chắc em hiểu đúng — **số này là 80 triệu hay 800 triệu anh nhỉ?** Em muốn xác nhận trước khi đưa vào hợp đồng."
 
-Anh Matsumoto tự sửa mà không mất thể diện. Nếu đúng là 800tr thì anh xác nhận, nếu 80tr thì anh cảm ơn đã catch.
+Anh Matsumoto tự sửa mà không mất thể diện. Nếu đúng là 800tr thì anh xác nhận, nếu 80tr thì anh cảm ơn em đã phát hiện ra.
 
 ## Các mẫu câu
 
@@ -3437,7 +3437,7 @@ Chị Hương trong 1 phút đọc xong biết đủ để quyết định hành
 >
 > **Biện pháp bù:**
 > - Em sẽ gửi chị bản draft sớm thứ Sáu 16/05 để chị có thể review trước, không bị dồn vào thứ Hai.
-> - Em xin schedule 15 phút họp với chị sáng thứ Ba 20/05 để walk through những điểm quan trọng.
+> - Em xin đặt lịch 15 phút họp với chị sáng thứ Ba 20/05 để trình bày những điểm quan trọng.
 >
 > Nếu chị cần em hoàn thành đúng 15/05 bằng cách khác (giảm scope, xin hỗ trợ), chị cho em biết — em sẵn sàng điều chỉnh.
 >
@@ -3726,7 +3726,7 @@ Cùng thông tin, dễ đọc hơn hẳn.
 >
 > Từ khóa: **"mobile first"**.
 
-## Checklist mobile-friendly
+## Danh sách kiểm tra mobile-friendly
 
 1. **Dòng ≤50 ký tự** (Rule 58).
 2. **Block 2-5 dòng** (Rule 59).
@@ -4000,7 +4000,7 @@ Kính gửi anh Matsumoto,
 Em cảm ơn anh đã dành thời gian cho buổi họp sáng nay tại văn phòng
 Hakuō. Buổi họp rất hiệu quả — em đã nắm được rõ 3 điểm chính:
 
-1. Timeline mới: deliver phase 1 trước 30/05
+1. Timeline mới: giao phase 1 trước 30/05
 2. Ngân sách điều chỉnh: ¥7,500,000
 3. Yêu cầu bảo mật: thêm SAST và DAST
 
@@ -4047,11 +4047,11 @@ Dũng
 ## 3. Mail nhắc deadline lịch sự với khách hàng đang chậm
 
 ```
-Tiêu đề: [Re: Bình Minh] Follow up về review thiết kế — trước 17/05
+Tiêu đề: [Re: Bình Minh] Nhắc về review thiết kế — trước 17/05
 
 Anh Matsumoto,
 
-Em viết để follow up nhẹ về bản thiết kế v2 em gửi anh thứ Tư 14/05.
+Em viết để nhắc nhẹ về bản thiết kế v2 em gửi anh thứ Tư 14/05.
 Em không chắc mail có vào spam không, hoặc có thể anh đang bận
 với đợt đóng tháng.
 
@@ -4165,7 +4165,7 @@ chính và người phụ trách:
 
 1. [Anh Tuấn] — Phát triển module M3 — trước 30/05.
 2. [Chị Loan] — Làm PO với An Khang 78tr — trước 25/05.
-3. [Dũng] — Gửi update cho Hakuō sau mỗi Sprint (2 tuần/lần).
+3. [Dũng] — Gửi cập nhật cho Hakuō sau mỗi Sprint (2 tuần/lần).
 
 Các quyết định phụ và thảo luận chi tiết ở file biên bản (4 trang).
 
@@ -4264,14 +4264,14 @@ Phạm vi:
 - TikTok: 2 clip/tuần, quay với Marketing team.
 
 Deliverables:
-- Content calendar: trước 15/05 (chị review).
+- Lịch nội dung: trước 15/05 (chị review).
 - Mỗi bài: chuẩn bị 2 ngày trước ngày đăng (em xem trước khi đăng).
-- Report số liệu hàng tuần: thứ Hai.
+- Báo cáo số liệu hàng tuần: thứ Hai.
 
 Hỗ trợ:
 - Budget quảng cáo: 20tr, em tự phân bổ.
 - Designer: anh Hưng support, em liên hệ trực tiếp.
-- Daily check-in với chị 15p/ngày, 09:30.
+- Họp nhanh hàng ngày với chị 15p/ngày, 09:30.
 
 Em có câu hỏi gì, reply mail hoặc gặp chị trực tiếp trước 14/05.
 
@@ -4676,7 +4676,7 @@ Trần Văn Dũng
 
 ### Thúc nhẹ (có deadline)
 - "Em xin phép theo dõi lại về…"
-- "Em viết để follow up về mail ngày…"
+- "Em viết để nhắc lại về mail ngày…"
 - "Em nhắc lại để chị không lỡ deadline…"
 
 ### Thúc có áp lực nhẹ

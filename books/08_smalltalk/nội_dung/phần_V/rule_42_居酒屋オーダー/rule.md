@@ -25,7 +25,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff tại izakaya Tokyo Yurakucho. Có 5 n
 
 *vừa ngồi · senior, looks at Dũng · scan bàn nhanh, confirm · 店員に*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **店員** | 「お飲み物、お決まりでしょうか?」 |
 | **大垣** | 「ズンさん、まずビールでみんないい?」 |
@@ -44,7 +44,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff tại izakaya Tokyo Yurakucho. Có 5 n
 
 *sau cạn ly đầu, mở menu · ghi nhớ memory bank · 店員に*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「皆さん、**お料理どうしましょうか?アレルギーや苦手なものってありますか?**」【1】 |
 | **大垣** | 「俺は何でもOK。」 |
@@ -64,7 +64,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff tại izakaya Tokyo Yurakucho. Có 5 n
 
 *40 phút sau, bàn vơi 70% · 店員に · turn to Ōgaki · 店員追加*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「ズン、追加と、酒も切り替えるか?」 |
 | **ズン** | 「はい、**皆さんビール継続か日本酒・焼酎切り替えか**いかがですか?」 |
@@ -85,7 +85,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff tại izakaya Tokyo Yurakucho. Có 5 n
 
 *2 tiếng, no rồi · 店員 · turn to Ōgaki, default JP = senior pays nhưng vẫn confirm*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「そろそろ締め行こか。」 |
 | **ズン** | 「**ご飯ものか麺ものか**、いかがですか?」 |

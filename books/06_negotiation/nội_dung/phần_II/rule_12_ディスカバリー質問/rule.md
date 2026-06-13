@@ -16,7 +16,7 @@ Sau context setting (rule 11), Dũng vào discovery 30 phút. Đây là phần d
 
 ## ❌ Hội thoại XẤU — chỉ hỏi Pain, bỏ qua Budget/Timeline/Decision
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「Phase 3 で解決したい課題は何でしょうか？」 |
 | **大垣** | 「AI レコメンドで購買単価を上げたい、それから運用負荷を減らしたいです。」 |
@@ -30,7 +30,7 @@ Sau context setting (rule 11), Dũng vào discovery 30 phút. Đây là phần d
 
 ## ✅ Hội thoại TỐT — 5 category covered trong 30 phút
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「**5 観点でお伺いさせていただきます**【1】。まず Pain — 現状の運用で最も時間を取られている部分はどちらでしょうか？」 |
 | **大垣** | 「在庫予測の精度。営業部が手動で日次調整している。」 |

@@ -25,7 +25,7 @@ Dũng phải xoay reference theo từng đối tác: Sato 60t (Showa nostalgia),
 
 *dinner, ổn rượu · rạng rỡ · 感動*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **佐藤** | 「ズンさん、最近の若い人は**昭和**【1】の歌、知らんやろ?」 |
 | **ズン** | 「実は最近、**山口百恵**【2】を聞いて感動しました。**いい日旅立ち**、名曲ですね。」 |
@@ -46,7 +46,7 @@ Dũng phải xoay reference theo từng đối tác: Sato 60t (Showa nostalgia),
 
 *dinner, ngắm view · nostalgic · cảm phục*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **広島** | 「ズンさん、**バブル経済**【1】って知ってる?86〜91年、日本が一番元気だった時代。」 |
 | **ズン** | 「ジュリアナ東京【2】とか、**ボディコン**【3】とか、本でよく読みました。**地価が東京で世界一**だった時期ですよね?」 |
@@ -67,7 +67,7 @@ Dũng phải xoay reference theo từng đối tác: Sato 60t (Showa nostalgia),
 
 *slack, gửi meme Pokemon*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中** | 「最近**ポケモンSV**【1】やっとる?」 |
 | **ズン** | 「やってます!**ミライドン**で出発、最近**DLC**【2】の**藍の円盤**もクリア。田中さんは?」 |
@@ -88,7 +88,7 @@ Dũng phải xoay reference theo từng đối tác: Sato 60t (Showa nostalgia),
 
 *zoom, casual · cười*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | 「田中さん、**推し**【1】とかありますか?」 |
 | **田中** | 「推し!?最近の言葉だね(笑)。**アイドル**で誰かファンってこと?」 |

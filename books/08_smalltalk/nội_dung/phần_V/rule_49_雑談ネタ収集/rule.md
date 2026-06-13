@@ -48,7 +48,7 @@ Tham khảo. 1 scenario "applying input vào dinner" + breakdown 5 nguồn.
 
 *Sáng dùng 5 phút đọc NHK news app — note: "Hokkaido 観測史上最も早い積雪 札幌で12cm" · zoom call Nakamura CFO Hokkaido buổi tối · rạng rỡ — JPに住んでも遠方の同僚さえ知らないvocab*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「中村CFO、ニュースで見たんですが、**札幌、観測史上最も早い積雪**だそうですね。お変わりありませんか?」 |
 | **中村** | 「えっ、知ってるの?ズンさん、本当によく勉強してる。今朝12センチでね、家の前雪かきが大変。」 |

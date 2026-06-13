@@ -16,7 +16,7 @@ Sau khi đào constraint của IT lead (rule 13), Dũng tiếp tục discovery. 
 
 ## ❌ Hội thoại XẤU — không mirror, hiểu sai
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「在庫予測精度 +15%、手動調整時間半減です。」 |
 | **ズン** | 「ありがとうございます。次の質問ですが、予算は…」 |
@@ -30,7 +30,7 @@ Sau khi đào constraint của IT lead (rule 13), Dũng tiếp tục discovery. 
 
 ## ✅ Hội thoại TỐT — mirror tại chỗ, đúng từng số
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「在庫予測精度 +15%、手動調整時間半減です。」 |
 | **ズン** | 「**つまり、目標は予測精度を現状から +15%、手動調整時間を 50% 削減 — この2点が Phase 3 の主要KPI、とのご認識でよろしいでしょうか**【1】？」 |

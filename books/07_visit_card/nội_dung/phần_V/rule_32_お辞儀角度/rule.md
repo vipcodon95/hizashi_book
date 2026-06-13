@@ -16,7 +16,7 @@ Tối trước khi đi onsite Tokyo, chị Hương phó phòng demo 4 loại bow
 
 ## ❌ Hội thoại XẤU — bow nào cũng 15°
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | （中村CFOへ会釈程度）「よろしくお願いします。」 |
 | **フオン副部長** | 「リン、CFO相手に15°は軽すぎ。初対面+CFOは45°最敬礼。」 |
@@ -29,7 +29,7 @@ Tối trước khi đi onsite Tokyo, chị Hương phó phòng demo 4 loại bow
 
 ## ✅ Hội thoại TỐT — dùng 4 góc đúng tình huống
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **フオン副部長** | 「リン、お辞儀は4種類。場面で使い分ける。実演するから真似してね。」 |
 | **フオン副部長** | （15°、約1秒）「これが会釈。廊下ですれ違い・朝の挨拶。」【1】 |

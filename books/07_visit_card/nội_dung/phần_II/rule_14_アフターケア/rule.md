@@ -18,7 +18,7 @@ Sáng hôm sau visit (ngày D+1, 9:00). Linh đã làm xong 24h memo (rule 07). 
 
 *D+3, sáng thứ 2 · D+3, draft · send*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオンさん、白鷗 visit のお礼メール、まだ送ってないですね…」 |
 | **フオン副部長** | 「あ、忘れてた。リンさん、generic で送って。」 |
@@ -33,7 +33,7 @@ Sáng hôm sau visit (ngày D+1, 9:00). Linh đã làm xong 24h memo (rule 07). 
 
 *D+1 9:00, draft mail từ 24h memo · review · 送信前*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | 「フオン副部長、お礼メールdraft完成しました。**3要素**【1】チェック済: ① 中村CFOの『Phase 4 予算1,500万円』引用 ② action item『Q3決算後再検討』スケジュール ③ 大垣部長の HCMC 食事感想への一言。」 |
 | **フオン副部長** | 「件名は『**Phase 3 キックオフ御礼および議事録ご送付の件**』に。長すぎず短すぎず。」 |

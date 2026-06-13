@@ -784,7 +784,7 @@ Nếu *bắt buộc* phải nghe ở môi trường ồn (đang đi công tác):
 
 # Rule 09 — Setup bàn trước cuộc gọi quan trọng / 重要電話前のデスク準備
 
-> **Luận điểm.** Trước cuộc gọi quan trọng (5+ phút, có quyết định), setup bàn 30 giây: **bút + giấy + lịch + tài liệu liên quan + cốc nước**.
+> **Luận điểm.** Trước cuộc gọi quan trọng (5+ phút, có quyết định), sắp xếp bàn 30 giây: **bút + giấy + lịch + tài liệu liên quan + cốc nước**.
 >
 > 重要通話の前に30秒のデスク準備：ペン+メモ+カレンダー+資料+水。
 >
@@ -1152,9 +1152,9 @@ Anh Matsumoto gọi cho anh Tuấn (Tech lead Thiên Phát) nhưng anh Tuấn đ
 | 折り返し | おりかえし | Gọi lại |
 
 
-# Rule 18 — 5 yếu tố bắt buộc khi take message / 伝言メモの5要素
+# Rule 18 — 5 yếu tố bắt buộc khi ghi lời nhắn / 伝言メモの5要素
 
-> **Luận điểm.** Một bản take-message hoàn chỉnh có 5 yếu tố: **(1) ai gọi**, **(2) công ty/phòng**, **(3) số gọi lại**, **(4) nội dung**, **(5) thời điểm gọi**. Thiếu 1 trong 5 = ghi chú vô dụng.
+> **Luận điểm.** Một bản ghi lời nhắn hoàn chỉnh có 5 yếu tố: **(1) ai gọi**, **(2) công ty/phòng**, **(3) số gọi lại**, **(4) nội dung**, **(5) thời điểm gọi**. Thiếu 1 trong 5 = ghi chú vô dụng.
 >
 > 伝言メモの必須5要素：①誰が ②どの会社・部署 ③折り返し番号 ④用件 ⑤発信時刻。
 >
@@ -1402,7 +1402,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 | 4 | 5W1H | Note When/Where/Who/What/Why/How đã viết? |
 | 5 | 環境 | Không ai nói chuyện ồn xung quanh? |
 
-## ✅ Hội thoại — internal self-check + first call
+## ✅ Hội thoại — tự kiểm nội bộ + cuộc gọi đầu
 
 *独り言 · 電話で*
 
@@ -1684,7 +1684,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 | 旨 | むね | Việc, ý là |
 
 
-# Rule 32 — Xin gọi lại — folder back template / 折り返しの依頼
+# Rule 32 — Xin gọi lại — mẫu nhờ gọi lại / 折り返しの依頼
 
 > **Luận điểm.** Khi nhờ gọi lại, **đề xuất khung giờ thuận tiện cho đối phương**, không phải mình. Cộng thêm **phương án thay thế** (mail) nếu không tiện.
 >
@@ -1823,7 +1823,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 
 # Phần IV — Tình huống khó / 困難な場面
 
-# Rule 36 — Đừng để hold quá im — voice fill / 保留中の対応
+# Rule 36 — Đừng để hold quá im — lấp im lặng / 保留中の対応
 
 > **Luận điểm.** Hold máy quá 30 giây mà im lặng = khách lo "có còn line không". Cứ 30 giây quay lại line nói **「お待たせしております」** một lần.
 >
@@ -2514,7 +2514,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 | 発言 | はつげん | Phát biểu |
 
 
-# Rule 55 — Cross-border online meeting / 国際オンライン会議
+# Rule 55 — Họp online quốc tế / 国際オンライン会議
 
 > **Luận điểm.** Họp online quốc tế: **(1) hỏi múi giờ + ngôn ngữ chính** ngay đầu, **(2) nói chậm hơn cả người Nhật bản xứ**, **(3) tránh từ lóng/bóng gió**, **(4) confirm hiểu sau mỗi vấn đề lớn.
 >
@@ -2583,7 +2583,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 | 了承 | りょうしょう | Đồng ý |
 
 
-# Rule 57 — Take floor in conference call — interrupt khéo / 電話会議で発言を取る
+# Rule 57 — Giành lượt phát biểu trong họp online — interrupt khéo / 電話会議で発言を取る
 
 > **Luận điểm.** Khi muốn xen lời trong họp online → **đợi câu kết của người trước**, dùng câu chuẩn 「恐れ入ります」 + tự xưng. Tránh cắt lời.
 >
@@ -2656,7 +2656,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 
 # Rule 59 — Quản lý lịch sử cuộc gọi & ghi chú / 電話履歴の管理
 
-> **Luận điểm.** Mọi cuộc gọi business cần lưu lại: **(1) ngày giờ**, **(2) đối phương + cty**, **(3) tóm tắt 5W1H**, **(4) action items**, **(5) follow-up status**. Lưu trên CRM hoặc file Excel cá nhân.
+> **Luận điểm.** Mọi cuộc gọi business cần lưu lại: **(1) ngày giờ**, **(2) đối phương + cty**, **(3) tóm tắt 5W1H**, **(4) việc cần làm**, **(5) trạng thái theo dõi**. Lưu trên CRM hoặc file Excel cá nhân.
 >
 > 通話履歴は5要素で記録：日時・相手・内容・タスク・進捗。CRMまたはエクセルで保管。
 >
@@ -2691,7 +2691,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 | 完了 | かんりょう | Hoàn thành |
 
 
-# Rule 60 — Self-diagnostic — phone skills checklist / 電話力の自己診断
+# Rule 60 — Tự chấm điểm — bảng kiểm kỹ năng điện thoại / 電話力の自己診断
 
 > **Luận điểm.** Cuối sách: tự chấm điểm 10 điểm phone skill từ rule 1 đến 59. Đánh dấu mục yếu → ôn lại rule tương ứng. **Phone skill = practice, not theory**.
 >
@@ -2699,7 +2699,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 >
 > **Liên quan:** Rule 01, Rule 35.
 
-## ✅ 10-item Self-Diagnostic
+## ✅ 10 câu tự chấm
 
 | # | Câu hỏi tự chấm | ✓/✗ | Rule liên quan |
 |---|----------------|------|----------------|
@@ -2711,7 +2711,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 | 6 | Tôi đề xuất "30秒ピッチ" được khi gọi đi? | | Rule 28 |
 | 7 | Tôi nói "お電話が遠いようですが" thay vì "声が小さい"? | | Rule 38 |
 | 8 | Tôi xử lý phàn nàn theo 5 bước? | | Rule 41 |
-| 9 | Tôi gửi follow-up mail trong 1h sau gọi quan trọng? | | Rule 51 |
+| 9 | Tôi gửi mail tóm tắt trong 1h sau gọi quan trọng? | | Rule 51 |
 | 10 | Tôi mute khi không nói trong online meeting? | | Rule 54 |
 
 ## Self-grading
@@ -2978,7 +2978,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 > 📝 _保留長引いた時の標準対応_
 
 
-### Rule 18 — 5 yếu tố bắt buộc khi take message / 伝言メモの5要素
+### Rule 18 — 5 yếu tố bắt buộc khi ghi lời nhắn / 伝言メモの5要素
 
 **ズン (em Dũng):**
 
@@ -3143,7 +3143,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 > 📝 _伝言依頼の標準_
 
 
-### Rule 32 — Xin gọi lại — folder back template / 折り返しの依頼
+### Rule 32 — Xin gọi lại — mẫu nhờ gọi lại / 折り返しの依頼
 
 **ズン (em Dũng):**
 
@@ -3190,7 +3190,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 
 ## Phần IV — Tình huống khó
 
-### Rule 36 — Đừng để hold quá im — voice fill / 保留中の対応
+### Rule 36 — Đừng để hold quá im — lấp im lặng / 保留中の対応
 
 **ズン (em Dũng):**
 
@@ -3372,7 +3372,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 
 > 🇯🇵 「本日中にフォローアップメールでまとめてお送りいたします。」
 >
-> 🇻🇳 *Em sẽ tổng hợp gửi mail follow-up trong hôm nay ạ.*
+> 🇻🇳 *Em sẽ tổng hợp gửi mail tóm tắt trong hôm nay ạ.*
 >
 > 📝 _通話後の文書化約束_
 
@@ -3410,7 +3410,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 > 📝 _アンミュート後の発言冒頭_
 
 
-### Rule 55 — Cross-border online meeting / 国際オンライン会議
+### Rule 55 — Họp online quốc tế / 国際オンライン会議
 
 **ズン (em Dũng):**
 
@@ -3427,12 +3427,12 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 
 > 🇯🇵 「録音と自動文字起こしをさせていただきたく存じます。ご了承いただけますでしょうか？」
 >
-> 🇻🇳 *Em xin phép ghi âm và auto-transcribe ạ. Anh/chị có đồng ý không ạ?*
+> 🇻🇳 *Em xin phép ghi âm và tự động chuyển giọng thành văn bản ạ. Anh/chị có đồng ý không ạ?*
 >
 > 📝 _録音許可の標準フレーズ_
 
 
-### Rule 57 — Take floor in conference call — interrupt khéo / 電話会議で発言を取る
+### Rule 57 — Giành lượt phát biểu trong họp online — interrupt khéo / 電話会議で発言を取る
 
 **ズン (em Dũng):**
 
@@ -3465,7 +3465,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 > 📝 _通話履歴管理の報告_
 
 
-### Rule 60 — Self-diagnostic — phone skills checklist / 電話力の自己診断
+### Rule 60 — Tự chấm điểm — bảng kiểm kỹ năng điện thoại / 電話力の自己診断
 
 **フオン副部長 (chị Hương):**
 
@@ -3814,7 +3814,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 - 🇯🇵 12時-13時は昼休みで発信NG。
 - 🇻🇳 12-13h là giờ nghỉ trưa, không nên gọi.
 
-### J4.6 (từ rule_36 — Đừng để hold quá im — voice fill)
+### J4.6 (từ rule_36 — Đừng để hold quá im — lấp im lặng)
 
 **Skill:** 場面把握
 
@@ -4225,7 +4225,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 - 🇯🇵 伝言依頼の3要素：所属・用件・折り返し連絡先。
 - 🇻🇳 3 yếu tố nhờ nhắn lời: đơn vị / việc / cách liên lạc lại.
 
-### J3.22 (từ rule_32 — Xin gọi lại — folder back template)
+### J3.22 (từ rule_32 — Xin gọi lại — mẫu nhờ gọi lại)
 
 **Skill:** 表現読解
 
@@ -4463,7 +4463,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 - 🇯🇵 視覚情報を言葉で補い、話速を下げて理解を促す。
 - 🇻🇳 Bổ sung thông tin hình bằng lời, nói chậm để dễ hiểu.
 
-### J3.36 (từ rule_55 — Cross-border online meeting)
+### J3.36 (từ rule_55 — Họp online quốc tế)
 
 **Skill:** 場面把握
 
@@ -4480,7 +4480,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 - 🇯🇵 時差・言語の共有が国際会議の出発点。
 - 🇻🇳 Múi giờ + ngôn ngữ là điểm xuất phát của họp quốc tế.
 
-### J3.37 (từ rule_57 — Take floor in conference call — interrupt khéo)
+### J3.37 (từ rule_57 — Giành lượt phát biểu trong họp online — interrupt khéo)
 
 **Skill:** 場面把握
 
@@ -4514,7 +4514,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 - 🇯🇵 5要素でCRM管理が組織として最良。
 - 🇻🇳 Quản lý 5 yếu tố trên CRM là tốt nhất cho tổ chức.
 
-### J3.39 (từ rule_60 — Self-diagnostic — phone skills checklist)
+### J3.39 (từ rule_60 — Tự chấm điểm — bảng kiểm kỹ năng điện thoại)
 
 **Skill:** 場面把握
 
@@ -4551,7 +4551,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 - 🇯🇵 「話しにくい」と言うと相手も身構える。冷静に結論先行で。
 - 🇻🇳 「話しにくい」làm khách cũng căng. Phải bình tĩnh, kết luận trước.
 
-### J2.2 (từ rule_18 — 5 yếu tố bắt buộc khi take message)
+### J2.2 (từ rule_18 — 5 yếu tố bắt buộc khi ghi lời nhắn)
 
 **Skill:** 場面把握
 

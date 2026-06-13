@@ -18,7 +18,7 @@ Họp Zoom định kỳ tháng 4. Em Linh (nhân viên mới) là một trong 8 
 
 *Linh không mute, gõ phím lạch cạch · đang trình bày · không mute, đột ngột nói chen · khó chịu*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本** | 「では、進捗報告から始めます。まずズンさんお願いします。」 |
 |  | 「カチカチカチ…」 |
@@ -34,7 +34,7 @@ Họp Zoom định kỳ tháng 4. Em Linh (nhân viên mới) là một trong 8 
 
 *camera on, mở mute · muted, raise hand trên Zoom · bật camera + unmute · nói xong, mute lại*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本** | 「では、進捗報告から始めます。まずズンさんお願いします。」 |
 | **ズン** | 「4月の進捗ですが…」 |

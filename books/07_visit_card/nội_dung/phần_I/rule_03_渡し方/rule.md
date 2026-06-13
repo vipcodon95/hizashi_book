@@ -19,7 +19,7 @@ Sau khi nhận danh thiếp Ōgaki (rule 02), Dũng tự giới thiệu và trao
 
 *rút danh thiếp 1 tay từ ví, hướng chữ về phía mình · nhận, đảo ngược danh thiếp 90°để đọc, hơi nhíu mày · thì thầm*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「ズンです、よろしく。」 |
 | **大垣** | 「…ズン様、ですね。」 |
@@ -34,7 +34,7 @@ Sau khi nhận danh thiếp Ōgaki (rule 02), Dũng tự giới thiệu và trao
 
 *2 tay cầm danh thiếp ở 2 góc dưới, mặt JP hướng về Ōgaki, bow 15° · 2 tay đỡ · giữ tư thế bow nhẹ thêm 1 nhịp rồi đứng thẳng*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「**ティエンファット 営業部 BD担当の、チャン・ヴァン・ズン**【1】**と申します。よろしくお願い申し上げます**【2】。」 |
 | **大垣** | 「**頂戴いたします**。ズンさん、こちらこそよろしくお願いいたします。」 |

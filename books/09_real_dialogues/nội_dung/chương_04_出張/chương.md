@@ -20,23 +20,23 @@
 
 *Dũng vừa hạ cánh từ HCMC, đi qua immigration. Va-li bị giữ lại ở hải quan kiểm tra bất ngờ — có 1 bịch hạt điều rang VN to chưa khai báo.*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **税関職員** | 「(架空) スーツケースを開けていただけますか。食品の申告はありませんが、こちらは何でしょうか?」<br>*(nhân viên hải quan) Mở vali ra giúp. Không thấy khai báo thực phẩm, cái này là gì?* |
+| **税関職員** | 「(架空) スーツケースを開けていただけますか。食品の申告はありませんが、こちらは何でしょうか?」<br/>*(nhân viên hải quan) Mở vali ra giúp. Không thấy khai báo thực phẩm, cái này là gì?* |
 
 *[Dũng giật mình. Bịch hạt điều rang ≈1kg, mua làm omiyage cho team Hakuō, quên không khai.]*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「あ、すみません、お土産用のカシューナッツです。会社の同僚に配るつもりでした。」<br>*À, em xin lỗi, hạt điều dùng làm quà ạ. Đem cho đồng nghiệp công ty.* |
-| **税関職員** | 「ナッツ類は申告必要です。今回は注意で通しますが、次回は必ず申告してください。」<br>*Loại hạt phải khai báo. Lần này tôi cảnh cáo cho qua, lần sau nhớ khai báo.* |
-| **ズン** | 「本当にすみません、次回から気をつけます。」<br>*Em thật sự xin lỗi, lần sau em cẩn thận.* |
+| **ズン** | 「あ、すみません、お土産用のカシューナッツです。会社の同僚に配るつもりでした。」<br/>*À, em xin lỗi, hạt điều dùng làm quà ạ. Đem cho đồng nghiệp công ty.* |
+| **税関職員** | 「ナッツ類は申告必要です。今回は注意で通しますが、次回は必ず申告してください。」<br/>*Loại hạt phải khai báo. Lần này tôi cảnh cáo cho qua, lần sau nhớ khai báo.* |
+| **ズン** | 「本当にすみません、次回から気をつけます。」<br/>*Em thật sự xin lỗi, lần sau em cẩn thận.* |
 
 *[Mất 20 phút. Lỡ N'EX 22:30 → phải đợi chuyến 23:15. Mệt cộng dồn.]*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「(独り言、ベトナム語、小声)Hên là không phạt tiền. Note: lần sau khai sạch.」<br>*(tự lẩm bẩm tiếng Việt, nhỏ giọng) Hên là không phạt tiền. Note: lần sau khai sạch.* |
+| **ズン** | 「(独り言、ベトナム語、小声)Hên là không phạt tiền. Note: lần sau khai sạch.」<br/>*(tự lẩm bẩm tiếng Việt, nhỏ giọng) Hên là không phạt tiền. Note: lần sau khai sạch.* |
 
 
 ### 💡 Bí quyết — Khai báo hải quan JP
@@ -54,23 +54,23 @@ JP nghiêm với thực phẩm vào nước:
 
 *Lobby APA Shinjuku Gyoen-mae. Dũng kéo va-li mệt, đặt passport lên quầy. Lễ tân nữ trẻ cười chuyên nghiệp.*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ホテル受付** | 「(架空) いらっしゃいませ。ご予約のお名前は?」<br>*(lễ tân khách sạn) Quý khách. Tên đặt phòng?* |
-| **ズン** | 「Tran Van Dung、4泊5日です。」<br>*Trần Văn Dũng, 4 đêm 5 ngày.* |
-| **ホテル受付** | 「(画面確認)はい、確認できました。お部屋は8階の802号室、シングルルーム…喫煙室と禁煙室、どちらがよろしいですか?」<br>*(check màn hình) Vâng, xác nhận được. Phòng 802 tầng 8, single room… phòng có hút thuốc hay không hút thuốc?* |
+| **ホテル受付** | 「(架空) いらっしゃいませ。ご予約のお名前は?」<br/>*(lễ tân khách sạn) Quý khách. Tên đặt phòng?* |
+| **ズン** | 「Tran Van Dung、4泊5日です。」<br/>*Trần Văn Dũng, 4 đêm 5 ngày.* |
+| **ホテル受付** | 「(画面確認)はい、確認できました。お部屋は8階の802号室、シングルルーム…喫煙室と禁煙室、どちらがよろしいですか?」<br/>*(check màn hình) Vâng, xác nhận được. Phòng 802 tầng 8, single room… phòng có hút thuốc hay không hút thuốc?* |
 
 *[Dũng quên từ '禁煙' (kinen) trong 1 giây. Mặt khô. Cố nhớ.]*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「あ…えっと、タバコ吸わない方で…」<br>*À… ờ, loại không hút thuốc ấy…* |
-| **ホテル受付** | 「禁煙室でございますね、かしこまりました。」<br>*Phòng cấm thuốc đúng không, em hiểu rồi.* |
-| **ズン** | 「(ホッとして)はい、禁煙、禁煙です。すみません、単語飛んじゃって。」<br>*(nhẹ người) Vâng, kinen, kinen. Em xin lỗi, từ vựng bay mất.* |
-| **ホテル受付** | 「(優しく笑う)大丈夫ですよ。ベトナムからですか?」<br>*(cười dịu) Không sao đâu ạ. Từ Việt Nam à?* |
-| **ズン** | 「はい、ホーチミンから。」<br>*Vâng, từ Hồ Chí Minh.* |
-| **ホテル受付** | 「わあ、長旅お疲れ様です。朝食は7階で6:30から、Wi-Fi のパスワードはこちら。」<br>*Wow, chuyến bay dài vất vả. Bữa sáng tầng 7 từ 6:30, Wi-Fi password đây.* |
-| **ズン** | 「ありがとうございます。おやすみなさい。」<br>*Cảm ơn chị. Chúc ngủ ngon.* |
+| **ズン** | 「あ…えっと、タバコ吸わない方で…」<br/>*À… ờ, loại không hút thuốc ấy…* |
+| **ホテル受付** | 「禁煙室でございますね、かしこまりました。」<br/>*Phòng cấm thuốc đúng không, em hiểu rồi.* |
+| **ズン** | 「(ホッとして)はい、禁煙、禁煙です。すみません、単語飛んじゃって。」<br/>*(nhẹ người) Vâng, kinen, kinen. Em xin lỗi, từ vựng bay mất.* |
+| **ホテル受付** | 「(優しく笑う)大丈夫ですよ。ベトナムからですか?」<br/>*(cười dịu) Không sao đâu ạ. Từ Việt Nam à?* |
+| **ズン** | 「はい、ホーチミンから。」<br/>*Vâng, từ Hồ Chí Minh.* |
+| **ホテル受付** | 「わあ、長旅お疲れ様です。朝食は7階で6:30から、Wi-Fi のパスワードはこちら。」<br/>*Wow, chuyến bay dài vất vả. Bữa sáng tầng 7 từ 6:30, Wi-Fi password đây.* |
+| **ズン** | 「ありがとうございます。おやすみなさい。」<br/>*Cảm ơn chị. Chúc ngủ ngon.* |
 
 
 ### 💡 Bí quyết — Quên từ vựng — recover smooth
@@ -90,25 +90,25 @@ Từ vựng hotel cần thuộc lòng: 禁煙室, 喫煙室, ツインルーム,
 
 *Tòa nhà 18 tầng, sảnh đại marble. Dũng đến sớm 30 phút. Ra security gate đăng ký visitor pass.*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **白鷗社 受付** | 「おはようございます。ご予約のお名前と訪問先を、お伺いしてもよろしいでしょうか。」<br>*Chào buổi sáng. Cho hỏi tên đặt và địa chỉ thăm ạ?* |
-| **ズン** | 「ティエンファットのTran Van Dungと申します。松本様と9時にお約束をいただいております。」<br>*Trần Văn Dũng, người của Tien Phat. Hẹn với anh Matsumoto PM, 9 giờ.* |
-| **白鷗社 受付** | 「確認いたします。…はい、確認できました。お手数ですが、身分証明書を1点ご提示いただけますでしょうか。」<br>*Em check. … Vâng, xác nhận được. Phiền quý khách cho xem 1 giấy tờ tùy thân ạ.* |
+| **白鷗社 受付** | 「おはようございます。ご予約のお名前と訪問先を、お伺いしてもよろしいでしょうか。」<br/>*Chào buổi sáng. Cho hỏi tên đặt và địa chỉ thăm ạ?* |
+| **ズン** | 「ティエンファットのTran Van Dungと申します。松本様と9時にお約束をいただいております。」<br/>*Trần Văn Dũng, người của Tien Phat. Hẹn với anh Matsumoto PM, 9 giờ.* |
+| **白鷗社 受付** | 「確認いたします。…はい、確認できました。お手数ですが、身分証明書を1点ご提示いただけますでしょうか。」<br/>*Em check. … Vâng, xác nhận được. Phiền quý khách cho xem 1 giấy tờ tùy thân ạ.* |
 
 *[Dũng vỗ túi quần — không có passport. Để trong tủ khách sạn vì sợ mất.]*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「(慌てる)あ、パスポートはホテルに置いてきました…在留カードはないし、運転免許証は日本のじゃないし…これでいいですか?」<br>*(luống cuống) À, passport em để khách sạn… không có 在留カード, bằng lái không phải của Nhật… cái này được không ạ?* |
+| **ズン** | 「(慌てる)あ、パスポートはホテルに置いてきました…在留カードはないし、運転免許証は日本のじゃないし…これでいいですか?」<br/>*(luống cuống) À, passport em để khách sạn… không có 在留カード, bằng lái không phải của Nhật… cái này được không ạ?* |
 
 *[Dũng rút thẻ visa work tạm thời (bản giấy in ở visa center) + namecard cty.]*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **白鷗社 受付** | 「(確認)…ええと、これで大丈夫ですね、ビザの書類とお名刺、両方確認できます。次回からは、念のためパスポートのコピーをお持ちくださいね。」<br>*(check)… ờ, được rồi, giấy tờ visa với danh thiếp, đều xác nhận được. Lần sau cho chắc, mang theo bản photo passport ạ.* |
-| **ズン** | 「ありがとうございます、本当に助かりました。次回必ず。」<br>*Cảm ơn chị, cứu em thật sự. Lần sau chắc chắn.* |
-| **白鷗社 受付** | 「こちらが visitor pass、首にかけてください。8階会議室Cまで、エレベーターは右手奥です。」<br>*Đây visitor pass, đeo lên cổ ạ. Phòng họp C tầng 8, thang máy bên phải trong cùng.* |
+| **白鷗社 受付** | 「(確認)…ええと、これで大丈夫ですね、ビザの書類とお名刺、両方確認できます。次回からは、念のためパスポートのコピーをお持ちくださいね。」<br/>*(check)… ờ, được rồi, giấy tờ visa với danh thiếp, đều xác nhận được. Lần sau cho chắc, mang theo bản photo passport ạ.* |
+| **ズン** | 「ありがとうございます、本当に助かりました。次回必ず。」<br/>*Cảm ơn chị, cứu em thật sự. Lần sau chắc chắn.* |
+| **白鷗社 受付** | 「こちらが visitor pass、首にかけてください。8階会議室Cまで、エレベーターは右手奥です。」<br/>*Đây visitor pass, đeo lên cổ ạ. Phòng họp C tầng 8, thang máy bên phải trong cùng.* |
 
 
 ### 💡 Bí quyết — Visitor pass + ID khi vào HQ JP
@@ -126,24 +126,24 @@ Cty JP lớn (>500 nhân viên) thường yêu cầu ID khi cấp visitor pass:
 
 *Phòng họp 12 chỗ, projector, bàn dài. Matsumoto + Ōgaki + Inoue + Tanaka + 2 senior dev đã ngồi. Dũng vào 5 phút trước, đặt laptop. Matsumoto đề nghị Dũng present 5 phút intro.*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **松本PM** | 「皆さん、ティエンファットのズンさん、先週ホーチミンを発って今朝着いたばかりです。1週間の出張は今回が初めてとのこと、よろしくお願いします。」<br>*Mọi người, Dũng từ Tien Phat đã bay từ HCMC tuần trước, sáng nay vừa đến. Tuần đầu công vụ, mong mọi người giúp đỡ.* |
-| **白鷗一同** | 「よろしくお願いいたします。」<br>*Mong cùng giúp đỡ.* |
-| **松本PM** | 「じゃあ最初に、ズンさんから Phase 4 の振り返りと Phase 5 の VN 側の準備、5分くらいシェアしてもらえる?」<br>*Vậy đầu tiên, Dũng share 5 phút về review Phase 4 + chuẩn bị từ phía VN cho Phase 5 nhé?* |
+| **松本PM** | 「皆さん、ティエンファットのズンさん、先週ホーチミンを発って今朝着いたばかりです。1週間の出張は今回が初めてとのこと、よろしくお願いします。」<br/>*Mọi người, Dũng từ Tien Phat đã bay từ HCMC tuần trước, sáng nay vừa đến. Tuần đầu công vụ, mong mọi người giúp đỡ.* |
+| **白鷗一同** | 「よろしくお願いいたします。」<br/>*Mong cùng giúp đỡ.* |
+| **松本PM** | 「じゃあ最初に、ズンさんから Phase 4 の振り返りと Phase 5 の VN 側の準備、5分くらいシェアしてもらえる?」<br/>*Vậy đầu tiên, Dũng share 5 phút về review Phase 4 + chuẩn bị từ phía VN cho Phase 5 nhé?* |
 
 *[Dũng giật mình — không nghĩ phải present ngay sáng đầu tiên. Tim đập mạnh. Mở laptop, nhớ đã chuẩn bị slide trên flight.]*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「はい、よろしくお願いします。…(slide 開く)Phase 4 の振り返り3点と、Phase 5 の VN 側準備状況、簡潔にお話しします。」<br>*Vâng, em xin phép. … (mở slide) Em sẽ nói ngắn gọn 3 điểm review Phase 4 + tình trạng chuẩn bị Phase 5 phía VN.* |
-| **ズン** | 「Phase 4 振り返り…(1) 予定より2週間早く完了、(2) 主要KPI 全部達成、(3) チーム内のレビュープロセスが定着しました。」<br>*Review Phase 4… (1) Hoàn thành sớm 2 tuần so với kế hoạch, (2) đạt toàn bộ KPI chính, (3) quy trình review nội bộ team đã đi vào nề nếp.* |
-| **ズン** | 「Phase 5 の VN 側…エンジニア5名追加で確保済み、来週から研修開始予定。AI ガバナンス領域、トゥアン先輩がアーキテクチャ素案を準備中。」<br>*Phía VN cho Phase 5… đã tuyển thêm 5 engineer, tuần sau bắt đầu training. Mảng AI governance, anh Tuấn đang chuẩn bị bản sơ thảo architecture.* |
-| **大垣 営業部長** | 「ズンさん、研修期間どれくらい?」<br>*Dũng à, training kéo dài bao lâu?* |
-| **ズン** | 「4週間予定です。最初の2週間 onboarding、後半2週間で実コードに触れます。」<br>*Dự kiến 4 tuần. 2 tuần đầu onboarding, 2 tuần sau bắt đầu code thực tế.* |
-| **田中PMO** | 「Phase 5 のキックオフは10月後半でしたよね、間に合いますか?」<br>*Kickoff Phase 5 là cuối tháng 10 đúng không, kịp không?* |
-| **ズン** | 「間に合います。研修終了が10月中旬なので、kickoff まで 1〜2週間バッファあります。」<br>*Kịp ạ. Training xong giữa tháng 10, đến kickoff còn buffer 1-2 tuần.* |
-| **松本PM** | 「ありがとう、ズンさん。簡潔で良かった。何か質問ある人?」<br>*Cảm ơn Dũng. Ngắn gọn tốt. Ai có câu hỏi không?* |
+| **ズン** | 「はい、よろしくお願いします。…(slide 開く)Phase 4 の振り返り3点と、Phase 5 の VN 側準備状況、簡潔にお話しします。」<br/>*Vâng, em xin phép. … (mở slide) Em sẽ nói ngắn gọn 3 điểm review Phase 4 + tình trạng chuẩn bị Phase 5 phía VN.* |
+| **ズン** | 「Phase 4 振り返り…(1) 予定より2週間早く完了、(2) 主要KPI 全部達成、(3) チーム内のレビュープロセスが定着しました。」<br/>*Review Phase 4… (1) Hoàn thành sớm 2 tuần so với kế hoạch, (2) đạt toàn bộ KPI chính, (3) quy trình review nội bộ team đã đi vào nề nếp.* |
+| **ズン** | 「Phase 5 の VN 側…エンジニア5名追加で確保済み、来週から研修開始予定。AI ガバナンス領域、トゥアン先輩がアーキテクチャ素案を準備中。」<br/>*Phía VN cho Phase 5… đã tuyển thêm 5 engineer, tuần sau bắt đầu training. Mảng AI governance, anh Tuấn đang chuẩn bị bản sơ thảo architecture.* |
+| **大垣 営業部長** | 「ズンさん、研修期間どれくらい?」<br/>*Dũng à, training kéo dài bao lâu?* |
+| **ズン** | 「4週間予定です。最初の2週間 onboarding、後半2週間で実コードに触れます。」<br/>*Dự kiến 4 tuần. 2 tuần đầu onboarding, 2 tuần sau bắt đầu code thực tế.* |
+| **田中PMO** | 「Phase 5 のキックオフは10月後半でしたよね、間に合いますか?」<br/>*Kickoff Phase 5 là cuối tháng 10 đúng không, kịp không?* |
+| **ズン** | 「間に合います。研修終了が10月中旬なので、kickoff まで 1〜2週間バッファあります。」<br/>*Kịp ạ. Training xong giữa tháng 10, đến kickoff còn buffer 1-2 tuần.* |
+| **松本PM** | 「ありがとう、ズンさん。簡潔で良かった。何か質問ある人?」<br/>*Cảm ơn Dũng. Ngắn gọn tốt. Ai có câu hỏi không?* |
 
 *[Không ai hỏi tiếp. Dũng ngồi xuống, tay vẫn run nhẹ. Inoue gật đầu khen ngầm.]*
 
@@ -164,18 +164,18 @@ Khách JP đôi khi yêu cầu present mà không báo trước — test khả n
 
 *Cafeteria nhân viên, set lunch ¥600. Tanaka kéo Dũng ngồi cùng bàn 4 người với 2 colleagues mới.*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **田中PMO** | 「ズンさん、こっち来て、紹介するよ。佐々木さん(エンジニア)と、林さん(BD アシスタント)。」<br>*Dũng à, qua đây, giới thiệu nè. Sasaki (engineer) và Hayashi (BD assistant).* |
-| **ズン** | 「初めまして、ティエンファットの Tran Van Dung、ズンと呼んでください。」<br>*Rất hân hạnh, em là Trần Văn Dũng của Tien Phat, gọi Dũng được rồi.* |
-| **佐々木 (開発)** | 「(架空) 初めまして、佐々木です。ズンさんの今日のプレゼン、簡潔で分かりやすかった。」<br>*(nhân vật phụ) Rất hân hạnh, tôi Sasaki. Bài present sáng của Dũng ngắn gọn dễ hiểu.* |
-| **ズン** | 「(顔赤く)あ、ありがとうございます…まだまだですけど。」<br>*(mặt đỏ) À, cảm ơn anh… em còn nhiều cái phải học ạ.* |
-| **田中PMO** | 「(笑って)『まだまだです』なんて、日本人っぽい返事だね(笑)。素直に『ありがとう』でいいんだよ。」<br>*(cười) 'Mada mada desu' nghe rất Nhật (cười). Cứ thẳng thắn 'cảm ơn' là được mà.* |
-| **ズン** | 「(笑い返す)…そうですね、ありがとうございます。佐々木さんに褒めてもらえて嬉しいです。」<br>*(cười lại)… đúng nhỉ, cảm ơn các anh. Được anh Sasaki khen em vui ạ.* |
-| **林 (営業)** | 「(架空) ベトナムから一週間出張、長いね。週末は何か予定?」<br>*(nhân vật phụ) 1 tuần công vụ từ Việt Nam, dài nhỉ. Cuối tuần có dự định gì không?* |
-| **ズン** | 「土曜午前にショッピング、夕方の便で帰ります。観光は次回ゆっくり。」<br>*Sáng thứ 7 đi mua sắm, chuyến chiều bay về. Tham quan để dành lần sau.* |
-| **田中PMO** | 「今度来るときは、ぜひ『江戸東京博物館』行ってみて。江戸時代の Tokyo の歴史、面白いよ。」<br>*Lần sau qua, thử Edo-Tokyo Museum. Lịch sử Tokyo thời Edo, thú vị lắm.* |
-| **ズン** | 「メモしました、次回必ず。」<br>*Em note rồi, lần sau chắc chắn.* |
+| **田中PMO** | 「ズンさん、こっち来て、紹介するよ。佐々木さん(エンジニア)と、林さん(BD アシスタント)。」<br/>*Dũng à, qua đây, giới thiệu nè. Sasaki (engineer) và Hayashi (BD assistant).* |
+| **ズン** | 「初めまして、ティエンファットの Tran Van Dung、ズンと呼んでください。」<br/>*Rất hân hạnh, em là Trần Văn Dũng của Tien Phat, gọi Dũng được rồi.* |
+| **佐々木 (開発)** | 「(架空) 初めまして、佐々木です。ズンさんの今日のプレゼン、簡潔で分かりやすかった。」<br/>*(nhân vật phụ) Rất hân hạnh, tôi Sasaki. Bài present sáng của Dũng ngắn gọn dễ hiểu.* |
+| **ズン** | 「(顔赤く)あ、ありがとうございます…まだまだですけど。」<br/>*(mặt đỏ) À, cảm ơn anh… em còn nhiều cái phải học ạ.* |
+| **田中PMO** | 「(笑って)『まだまだです』なんて、日本人っぽい返事だね(笑)。素直に『ありがとう』でいいんだよ。」<br/>*(cười) 'Mada mada desu' nghe rất Nhật (cười). Cứ thẳng thắn 'cảm ơn' là được mà.* |
+| **ズン** | 「(笑い返す)…そうですね、ありがとうございます。佐々木さんに褒めてもらえて嬉しいです。」<br/>*(cười lại)… đúng nhỉ, cảm ơn các anh. Được anh Sasaki khen em vui ạ.* |
+| **林 (営業)** | 「(架空) ベトナムから一週間出張、長いね。週末は何か予定?」<br/>*(nhân vật phụ) 1 tuần công vụ từ Việt Nam, dài nhỉ. Cuối tuần có dự định gì không?* |
+| **ズン** | 「土曜午前にショッピング、夕方の便で帰ります。観光は次回ゆっくり。」<br/>*Sáng thứ 7 đi mua sắm, chuyến chiều bay về. Tham quan để dành lần sau.* |
+| **田中PMO** | 「今度来るときは、ぜひ『江戸東京博物館』行ってみて。江戸時代の Tokyo の歴史、面白いよ。」<br/>*Lần sau qua, thử Edo-Tokyo Museum. Lịch sử Tokyo thời Edo, thú vị lắm.* |
+| **ズン** | 「メモしました、次回必ず。」<br/>*Em note rồi, lần sau chắc chắn.* |
 
 
 ### 💡 Bí quyết — Nhận lời khen — đừng quá khiêm nhường
@@ -194,20 +194,20 @@ Tanaka recommend Edo-Tokyo Museum = local tip thật, note vào memory bank.
 
 *Tour around office. Matsumoto dẫn Dũng giới thiệu 5 senior engineers chưa từng meet. Đến bàn anh Itoki (Nagoya gốc).*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **松本PM** | 「伊藤さん、こちらティエンファットのズンさん、Phase 5 の VN 側 BD 担当。」<br>*Anh Itoki, đây Dũng của Tien Phat, BD phía VN cho Phase 5.* |
-| **伊藤さん** | 「初めまして、伊藤です。Phase 4のレビューモジュール、ベトナムチームが作ったもの、コード綺麗だったよ。」<br>*Rất hân hạnh, tôi Itoki. Module review Phase 4 team Việt Nam viết, code đẹp đó.* |
-| **ズン** | 「(嬉しい)ありがとうございます、トゥアン先輩のチームに伝えます。」<br>*(vui) Cảm ơn anh, em sẽ truyền lại cho team anh Tuấn.* |
-| **伊藤さん** | 「ところでズンさん、Phase 5 で AI ガバナンス機能入れるって聞いたけど、Bedrock の Strands Agents 使う想定?それとも自前のオーケストレーション層?」<br>*Mà Dũng nè, Phase 5 nghe bảo thêm AI governance, dự định dùng Bedrock Strands Agents hay xây orchestration layer riêng?* |
+| **松本PM** | 「伊藤さん、こちらティエンファットのズンさん、Phase 5 の VN 側 BD 担当。」<br/>*Anh Itoki, đây Dũng của Tien Phat, BD phía VN cho Phase 5.* |
+| **伊藤さん** | 「初めまして、伊藤です。Phase 4のレビューモジュール、ベトナムチームが作ったもの、コード綺麗だったよ。」<br/>*Rất hân hạnh, tôi Itoki. Module review Phase 4 team Việt Nam viết, code đẹp đó.* |
+| **ズン** | 「(嬉しい)ありがとうございます、トゥアン先輩のチームに伝えます。」<br/>*(vui) Cảm ơn anh, em sẽ truyền lại cho team anh Tuấn.* |
+| **伊藤さん** | 「ところでズンさん、Phase 5 で AI ガバナンス機能入れるって聞いたけど、Bedrock の Strands Agents 使う想定?それとも自前のオーケストレーション層?」<br/>*Mà Dũng nè, Phase 5 nghe bảo thêm AI governance, dự định dùng Bedrock Strands Agents hay xây orchestration layer riêng?* |
 
 *[Câu hỏi tech sâu. Dũng không chắc — Tuấn vẫn đang draft architecture. Trả lời thật vs bullshit?]*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「正直に言うと、トゥアン先輩がまだアーキテクチャ素案中で、私からは確答できません。今日中に Slack で先輩に確認して、明日の朝までに伊藤さんにメールで返してもいいですか?」<br>*Em nói thật, anh Tuấn vẫn đang draft architecture, em không trả lời chắc được. Hôm nay em hỏi anh ấy qua Slack, sáng mai em mail trả lời anh Itoki được không ạ?* |
-| **伊藤さん** | 「(笑って)正直でいいね。『分からない』を『分からない』と言える人は信用できる。明日の朝待ってます。」<br>*(cười) Thẳng thắn tốt. Người nói được 'không biết' là người tin được. Sáng mai tôi đợi.* |
-| **松本PM** | 「ナイス、ズンさん。次の人紹介しよう。」<br>*Nice Dũng. Giới thiệu người tiếp theo nhé.* |
+| **ズン** | 「正直に言うと、トゥアン先輩がまだアーキテクチャ素案中で、私からは確答できません。今日中に Slack で先輩に確認して、明日の朝までに伊藤さんにメールで返してもいいですか?」<br/>*Em nói thật, anh Tuấn vẫn đang draft architecture, em không trả lời chắc được. Hôm nay em hỏi anh ấy qua Slack, sáng mai em mail trả lời anh Itoki được không ạ?* |
+| **伊藤さん** | 「(笑って)正直でいいね。『分からない』を『分からない』と言える人は信用できる。明日の朝待ってます。」<br/>*(cười) Thẳng thắn tốt. Người nói được 'không biết' là người tin được. Sáng mai tôi đợi.* |
+| **松本PM** | 「ナイス、ズンさん。次の人紹介しよう。」<br/>*Nice Dũng. Giới thiệu người tiếp theo nhé.* |
 
 *[Dũng note: 'Itoki - Bedrock Strands vs custom orchestration - hỏi Tuấn tối nay'. Sau tour, Dũng Slack Tuấn ngay.]*
 
@@ -228,29 +228,29 @@ Senior tech (Itoki) hỏi câu sâu hơn BD scope của Dũng. Cách response:
 
 *Izakaya 鳥茂 ở Roppongi, dinner 4 người: Matsumoto + Tanaka + Sasaki + Dũng. Course omakase. Otsukuri (sashimi sống) ra món thứ 3 — có uni (cầu gai sống), Dũng chưa quen.*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **松本PM** | 「ズンさん、これお造り、本日のおすすめだよ。マグロ、ヒラメ、雲丹、それとカンパチ。」<br>*Dũng à, otsukuri này, đề xuất hôm nay. Cá ngừ, cá bơn, uni, với cá cam.* |
-| **ズン** | 「わあ、綺麗ですね。」<br>*Wow, đẹp ghê.* |
+| **松本PM** | 「ズンさん、これお造り、本日のおすすめだよ。マグロ、ヒラメ、雲丹、それとカンパチ。」<br/>*Dũng à, otsukuri này, đề xuất hôm nay. Cá ngừ, cá bơn, uni, với cá cam.* |
+| **ズン** | 「わあ、綺麗ですね。」<br/>*Wow, đẹp ghê.* |
 
 *[Dũng đã ăn sashimi nhiều lần, nhưng uni cầu gai sống chưa từng. Màu cam đậm, mùi tanh nhẹ. Hít. Lo ngại nhưng không show.]*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「(マグロから)…まずはマグロから、いただきます。」<br>*(bắt đầu từ cá ngừ) … ăn cá ngừ trước, em xin phép.* |
-| **田中PMO** | 「ズンさん、雲丹は食べたことある?」<br>*Dũng có ăn uni bao giờ chưa?* |
-| **ズン** | 「あ…正直、初めてです。少し緊張してます(笑)」<br>*À… nói thật, lần đầu ạ. Hơi căng thẳng (cười)* |
-| **松本PM** | 「(笑って)無理しなくていいよ、雲丹は好き嫌い分かれる。一口試して、合わなかったら他の食べて。」<br>*(cười) Không cần ép. Uni hợp khẩu vị tùy người. Thử 1 miếng, không hợp thì ăn món khác.* |
+| **ズン** | 「(マグロから)…まずはマグロから、いただきます。」<br/>*(bắt đầu từ cá ngừ) … ăn cá ngừ trước, em xin phép.* |
+| **田中PMO** | 「ズンさん、雲丹は食べたことある?」<br/>*Dũng có ăn uni bao giờ chưa?* |
+| **ズン** | 「あ…正直、初めてです。少し緊張してます(笑)」<br/>*À… nói thật, lần đầu ạ. Hơi căng thẳng (cười)* |
+| **松本PM** | 「(笑って)無理しなくていいよ、雲丹は好き嫌い分かれる。一口試して、合わなかったら他の食べて。」<br/>*(cười) Không cần ép. Uni hợp khẩu vị tùy người. Thử 1 miếng, không hợp thì ăn món khác.* |
 
 *[Dũng gắp 1 miếng nhỏ uni. Đặt lên lưỡi. Vị béo + tanh + ngọt nhẹ. Texture mềm như cream. Không kinh nhưng không phải món Dũng sẽ chọn lại.]*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「(咀嚼)…うーん、初めての味ですね。クリームみたいに柔らかい。好き嫌い分かれるのが分かります。」<br>*(nhai)… hmm, lần đầu vị này. Mềm như cream. Em hiểu sao chia phe rồi.* |
-| **松本PM** | 「正直でいいね(笑)。じゃあ残りはこっちでいただいて、ズンさんはエビにする?」<br>*Phản ứng thật là tốt. Vậy phần còn lại để tôi ăn, đổi cho Dũng tôm nhé?* |
-| **ズン** | 「ありがとうございます、エビ大好きです。」<br>*Cảm ơn anh, em mê tôm.* |
-| **佐々木 (開発)** | 「ベトナムでよく食べる魚は何?」<br>*Việt Nam hay ăn cá gì?* |
-| **ズン** | 「Cá basa といって、川魚です。家庭料理で煮込みが多いです。日本のサーモンほど油っぽくない。」<br>*Cá basa, cá nước ngọt. Món gia đình hay kho. Không béo như salmon Nhật.* |
+| **ズン** | 「(咀嚼)…うーん、初めての味ですね。クリームみたいに柔らかい。好き嫌い分かれるのが分かります。」<br/>*(nhai)… hmm, lần đầu vị này. Mềm như cream. Em hiểu sao chia phe rồi.* |
+| **松本PM** | 「正直でいいね(笑)。じゃあ残りはこっちでいただいて、ズンさんはエビにする?」<br/>*Phản ứng thật là tốt. Vậy phần còn lại để tôi ăn, đổi cho Dũng tôm nhé?* |
+| **ズン** | 「ありがとうございます、エビ大好きです。」<br/>*Cảm ơn anh, em mê tôm.* |
+| **佐々木 (開発)** | 「ベトナムでよく食べる魚は何?」<br/>*Việt Nam hay ăn cá gì?* |
+| **ズン** | 「Cá basa といって、川魚です。家庭料理で煮込みが多いです。日本のサーモンほど油っぽくない。」<br/>*Cá basa, cá nước ngọt. Món gia đình hay kho. Không béo như salmon Nhật.* |
 
 
 ### 💡 Bí quyết — Món lạ ở dinner — honest > pretend
@@ -270,22 +270,22 @@ Khách JP order món lạ (uni, natto, ankimo) cho khách nước ngoài thử =
 
 *Phòng riêng CFO, 1-on-1 30 phút. Bàn gỗ to, tranh thư pháp treo tường. Nakamura mời cà phê. Câu hỏi senior level.*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **中村CFO** | 「ズンさん、お掛けください。コーヒーはいかがですか?」<br>*Dũng ngồi đi. Cà phê?* |
-| **ズン** | 「ありがとうございます、ブラックでお願いします。」<br>*Cảm ơn anh, đen ạ.* |
-| **中村CFO** | 「今週来てもらってありがとう。今日は frank に話したいんだけど、ズンさん、Tokyo office のチーム、3日見てどう感じた?良いところ、改善できそうなところ、両方。」<br>*Cảm ơn cậu tuần này qua. Hôm nay tôi muốn nói thẳng. Dũng, team Tokyo office cậu xem 3 ngày, cảm thấy thế nào? Điểm tốt, điểm có thể cải thiện, cả hai.* |
+| **中村CFO** | 「ズンさん、お掛けください。コーヒーはいかがですか?」<br/>*Dũng ngồi đi. Cà phê?* |
+| **ズン** | 「ありがとうございます、ブラックでお願いします。」<br/>*Cảm ơn anh, đen ạ.* |
+| **中村CFO** | 「今週来てもらってありがとう。今日は frank に話したいんだけど、ズンさん、Tokyo office のチーム、3日見てどう感じた?良いところ、改善できそうなところ、両方。」<br/>*Cảm ơn cậu tuần này qua. Hôm nay tôi muốn nói thẳng. Dũng, team Tokyo office cậu xem 3 ngày, cảm thấy thế nào? Điểm tốt, điểm có thể cải thiện, cả hai.* |
 
 *[Câu cực senior. Dũng cẩn thận — không phải lúc đánh giá, là lúc share quan sát.]*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「正直に観察ベースでお話しさせていただきます。…良いところは、エンジニアチームの技術 depth が深いこと、特に伊藤さんの質問の鋭さは印象的でした。BD-tech の協業もスムーズに見えます。」<br>*Em xin phép nói dựa trên quan sát ạ. … Điểm tốt là độ sâu kỹ thuật của team engineer, đặc biệt câu hỏi sắc của anh Itoki gây ấn tượng. Phối hợp BD-tech cũng trông trơn tru.* |
-| **ズン** | 「観察として気になったのは、…ベトナムチームとの非同期コミュニケーション、Slack チャンネルが分散していて、誰が誰に何を聞けばいいか、新人の私には分かりにくいです。Phase 5 で5名追加するときに、ここが摩擦になりそうな気がします。」<br>*Điều em quan sát thấy chú ý là… giao tiếp async với team Việt Nam, các kênh Slack phân tán, người mới như em khó biết ai hỏi ai về cái gì. Phase 5 thêm 5 người mới, em cảm thấy đây có thể là điểm gây ma sát.* |
-| **中村CFO** | 「(うなずく)…なるほど。Slack のチャンネル整理は前から課題で、誰も手を付けてなかった。新しい目で見てくれて参考になる。」<br>*(gật đầu)… ra vậy. Sắp xếp kênh Slack là vấn đề tồn đọng, chưa ai động vào. Mắt nhìn mới của cậu là tham khảo tốt.* |
-| **ズン** | 「余計なこと申し上げていましたら、申し訳ございません。」<br>*Em nói có gì sai mong anh thông cảm ạ.* |
-| **中村CFO** | 「いや、こういう外部の視点こそ価値ある。1つ提案、Phase 5 のキックオフのときに、ズンさんから Slack チャンネルの提案 deck 出してもらえる?松本と相談して。」<br>*Không, đúng là góc nhìn từ ngoài có giá trị. Đề xuất 1 cái, kickoff Phase 5 Dũng làm deck đề xuất sắp xếp Slack channel nhé? Bàn với Matsumoto.* |
-| **ズン** | 「(姿勢正して)了解いたしました、お任せください。」<br>*(chỉnh tư thế) Vâng em hiểu, anh giao em làm.* |
+| **ズン** | 「正直に観察ベースでお話しさせていただきます。…良いところは、エンジニアチームの技術 depth が深いこと、特に伊藤さんの質問の鋭さは印象的でした。BD-tech の協業もスムーズに見えます。」<br/>*Em xin phép nói dựa trên quan sát ạ. … Điểm tốt là độ sâu kỹ thuật của team engineer, đặc biệt câu hỏi sắc của anh Itoki gây ấn tượng. Phối hợp BD-tech cũng trông trơn tru.* |
+| **ズン** | 「観察として気になったのは、…ベトナムチームとの非同期コミュニケーション、Slack チャンネルが分散していて、誰が誰に何を聞けばいいか、新人の私には分かりにくいです。Phase 5 で5名追加するときに、ここが摩擦になりそうな気がします。」<br/>*Điều em quan sát thấy chú ý là… giao tiếp async với team Việt Nam, các kênh Slack phân tán, người mới như em khó biết ai hỏi ai về cái gì. Phase 5 thêm 5 người mới, em cảm thấy đây có thể là điểm gây ma sát.* |
+| **中村CFO** | 「(うなずく)…なるほど。Slack のチャンネル整理は前から課題で、誰も手を付けてなかった。新しい目で見てくれて参考になる。」<br/>*(gật đầu)… ra vậy. Sắp xếp kênh Slack là vấn đề tồn đọng, chưa ai động vào. Mắt nhìn mới của cậu là tham khảo tốt.* |
+| **ズン** | 「余計なこと申し上げていましたら、申し訳ございません。」<br/>*Em nói có gì sai mong anh thông cảm ạ.* |
+| **中村CFO** | 「いや、こういう外部の視点こそ価値ある。1つ提案、Phase 5 のキックオフのときに、ズンさんから Slack チャンネルの提案 deck 出してもらえる?松本と相談して。」<br/>*Không, đúng là góc nhìn từ ngoài có giá trị. Đề xuất 1 cái, kickoff Phase 5 Dũng làm deck đề xuất sắp xếp Slack channel nhé? Bàn với Matsumoto.* |
+| **ズン** | 「(姿勢正して)了解いたしました、お任せください。」<br/>*(chỉnh tư thế) Vâng em hiểu, anh giao em làm.* |
 
 
 ### 💡 Bí quyết — 1-on-1 với CFO — quan sát chứ không đánh giá
@@ -307,14 +307,14 @@ Câu CFO 'cậu cảm thấy thế nào về team' = test maturity. Cách respon
 
 *[Dũng đi vòng quầy bento. Chọn 1 hộp curry rice ¥580. Lấy 1 lon Asahi Super Dry ¥250. Dừng trước quầy onigiri — chọn thêm 1 cái cá hồi để ăn sáng. Tổng ¥980.]*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **コンビニ店員** | 「(架空) お弁当温めますか?」<br>*(nhân viên konbini) Có hâm bento không ạ?* |
-| **ズン** | 「はい、お願いします。」<br>*Vâng, nhờ chị.* |
-| **コンビニ店員** | 「お箸は?」<br>*Đũa thì ạ?* |
-| **ズン** | 「1膳ください。」<br>*Cho em 1 đôi ạ.* |
-| **コンビニ店員** | 「袋は?有料です、3円。」<br>*Túi không ạ? Tính phí, 3 yên.* |
-| **ズン** | 「お願いします。」<br>*Nhờ chị.* |
+| **コンビニ店員** | 「(架空) お弁当温めますか?」<br/>*(nhân viên konbini) Có hâm bento không ạ?* |
+| **ズン** | 「はい、お願いします。」<br/>*Vâng, nhờ chị.* |
+| **コンビニ店員** | 「お箸は?」<br/>*Đũa thì ạ?* |
+| **ズン** | 「1膳ください。」<br/>*Cho em 1 đôi ạ.* |
+| **コンビニ店員** | 「袋は?有料です、3円。」<br/>*Túi không ạ? Tính phí, 3 yên.* |
+| **ズン** | 「お願いします。」<br/>*Nhờ chị.* |
 
 *[Về phòng 802. Cởi giày. Ngồi giường, mở bento curry trên bàn nhỏ. Mở Asahi. Bật TV — kênh tin tức NHK. Mệt.]*
 
@@ -342,22 +342,22 @@ Câu CFO 'cậu cảm thấy thế nào về team' = test maturity. Cách respon
 
 *Tổng kết tuần. Matsumoto + Ōgaki + Tanaka + Dũng. Schedule next visit. Ōgaki hint Dũng quay lại sớm.*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **松本PM** | 「ズンさん、1週間お疲れ様でした。今週どうだった?」<br>*Dũng tuần này vất vả. Tuần này thế nào?* |
-| **ズン** | 「本当に充実した1週間でした。月曜のキックオフから木曜の中村CFO 1-on-1 まで、学ぶこと多すぎて整理が追いつきません。土曜の機内でゆっくり振り返ります。」<br>*Một tuần thực sự đầy ắp. Từ kickoff thứ 2 đến 1-on-1 với anh Nakamura thứ 5, học nhiều quá em chưa kịp tổng kết. Thứ 7 trên máy bay em sẽ review kỹ.* |
-| **大垣 営業部長** | 「ズンさん、Phase 5 の準備期間中にもう一度来られない?10月の前半とか。Slack チャンネル提案、こっちで face-to-face で詰めたい。」<br>*Dũng à, trong period chuẩn bị Phase 5 qua thêm 1 lần nữa được không? Đầu tháng 10 chẳng hạn. Đề xuất Slack channel mình muốn bàn trực tiếp.* |
+| **松本PM** | 「ズンさん、1週間お疲れ様でした。今週どうだった?」<br/>*Dũng tuần này vất vả. Tuần này thế nào?* |
+| **ズン** | 「本当に充実した1週間でした。月曜のキックオフから木曜の中村CFO 1-on-1 まで、学ぶこと多すぎて整理が追いつきません。土曜の機内でゆっくり振り返ります。」<br/>*Một tuần thực sự đầy ắp. Từ kickoff thứ 2 đến 1-on-1 với anh Nakamura thứ 5, học nhiều quá em chưa kịp tổng kết. Thứ 7 trên máy bay em sẽ review kỹ.* |
+| **大垣 営業部長** | 「ズンさん、Phase 5 の準備期間中にもう一度来られない?10月の前半とか。Slack チャンネル提案、こっちで face-to-face で詰めたい。」<br/>*Dũng à, trong period chuẩn bị Phase 5 qua thêm 1 lần nữa được không? Đầu tháng 10 chẳng hạn. Đề xuất Slack channel mình muốn bàn trực tiếp.* |
 
 *[Lời mời rõ rệt. Nhưng schedule 10/1-15 đã book full meeting Phase 5 prep ở HCMC. Không hứa ngay.]*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「ありがとうございます、嬉しいです。10月前半は実は HCMC で Phase 5 prep の集中期間で、フオン副部長と一度相談させてください。月曜日の朝までにはお返事します。」<br>*Cảm ơn anh, em vui ạ. Đầu tháng 10 thật ra ở HCMC là thời gian intensive prep Phase 5, để em bàn với chị Hương. Sáng thứ 2 em trả lời.* |
-| **大垣 営業部長** | 「了解、無理しないで。代わりに10月後半でも全然OKだから。」<br>*Rõ, đừng cố. Hậu tháng 10 thay thế cũng OK toàn.* |
-| **松本PM** | 「ズンさん、今週の収穫を簡単にシェアしてもらえる?」<br>*Dũng share ngắn thu hoạch tuần này được không?* |
-| **ズン** | 「3点に絞ります。(1) 伊藤さんの質問から、tech depth で会話できる準備をすべきと痛感。(2) 中村CFO との 1-on-1 で、外部視点の価値を実感。(3) 月曜のサプライズプレゼンで、即答力の練習が必要と気づきました。」<br>*Em chọn 3 điểm. (1) Từ câu hỏi anh Itoki, em thấy phải chuẩn bị conversational depth tech. (2) 1-on-1 với anh Nakamura giúp em cảm nhận giá trị 'góc nhìn từ ngoài'. (3) Bài present surprise thứ 2 dạy em phải luyện khả năng ứng biến.* |
-| **田中PMO** | 「整理が早い。来週の月曜にレポート送ってもらえる?」<br>*Tổng kết nhanh ghê. Tuần sau thứ 2 gửi report cho mình được không?* |
-| **ズン** | 「了解、月曜の朝に送ります。」<br>*Rõ, sáng thứ 2 em gửi.* |
+| **ズン** | 「ありがとうございます、嬉しいです。10月前半は実は HCMC で Phase 5 prep の集中期間で、フオン副部長と一度相談させてください。月曜日の朝までにはお返事します。」<br/>*Cảm ơn anh, em vui ạ. Đầu tháng 10 thật ra ở HCMC là thời gian intensive prep Phase 5, để em bàn với chị Hương. Sáng thứ 2 em trả lời.* |
+| **大垣 営業部長** | 「了解、無理しないで。代わりに10月後半でも全然OKだから。」<br/>*Rõ, đừng cố. Hậu tháng 10 thay thế cũng OK toàn.* |
+| **松本PM** | 「ズンさん、今週の収穫を簡単にシェアしてもらえる?」<br/>*Dũng share ngắn thu hoạch tuần này được không?* |
+| **ズン** | 「3点に絞ります。(1) 伊藤さんの質問から、tech depth で会話できる準備をすべきと痛感。(2) 中村CFO との 1-on-1 で、外部視点の価値を実感。(3) 月曜のサプライズプレゼンで、即答力の練習が必要と気づきました。」<br/>*Em chọn 3 điểm. (1) Từ câu hỏi anh Itoki, em thấy phải chuẩn bị conversational depth tech. (2) 1-on-1 với anh Nakamura giúp em cảm nhận giá trị 'góc nhìn từ ngoài'. (3) Bài present surprise thứ 2 dạy em phải luyện khả năng ứng biến.* |
+| **田中PMO** | 「整理が早い。来週の月曜にレポート送ってもらえる?」<br/>*Tổng kết nhanh ghê. Tuần sau thứ 2 gửi report cho mình được không?* |
+| **ズン** | 「了解、月曜の朝に送ります。」<br/>*Rõ, sáng thứ 2 em gửi.* |
 
 
 ### 💡 Bí quyết — Closing meeting onsite tuần
@@ -376,26 +376,26 @@ Cuối tuần onsite host muốn thấy:
 
 *Inoue + Tanaka tiễn ra cửa, đưa omiyage cho team Tien Phat. Bag nặng ≈3kg bánh kẹo Tokyo.*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **井上** | 「ズンさん、今週ありがとう。これ、Tien Phat の皆さんへ、Tokyo の銘菓詰め合わせ。」<br>*Dũng à, tuần này cảm ơn cậu. Đây, gửi mọi người Tien Phat, bộ bánh kẹo nổi tiếng Tokyo.* |
+| **井上** | 「ズンさん、今週ありがとう。これ、Tien Phat の皆さんへ、Tokyo の銘菓詰め合わせ。」<br/>*Dũng à, tuần này cảm ơn cậu. Đây, gửi mọi người Tien Phat, bộ bánh kẹo nổi tiếng Tokyo.* |
 
 *[Bag chữ shopping nhỏ nhưng nặng — ≈3kg. Dũng ước check-in luggage còn dư bao nhiêu kg.]*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「わあ、こんなに!ありがとうございます、皆喜びます。」<br>*Wow, nhiều thế này! Cảm ơn anh, mọi người sẽ vui.* |
-| **田中PMO** | 「重いから気をつけて。あ、それと…(ポケットから小さい袋)これはズンさん個人に。」<br>*Nặng đó, cẩn thận. À với lại… (rút túi nhỏ từ túi quần) cái này riêng cho Dũng.* |
-| **ズン** | 「(受け取る)えっ、何ですか?」<br>*(nhận) Ơ, gì vậy ạ?* |
-| **田中PMO** | 「(笑って)息子からズンさんへ、お礼。あの IT Week のロボットステッカー、まだリュックに貼ってあって、『ズンおじさんに何か送ろう』って言うから。」<br>*(cười) Con trai gửi cảm ơn Dũng. Cái sticker robot IT Week vẫn dán trên balo, nó bảo 'gửi gì cho chú Dũng đi'.* |
+| **ズン** | 「わあ、こんなに!ありがとうございます、皆喜びます。」<br/>*Wow, nhiều thế này! Cảm ơn anh, mọi người sẽ vui.* |
+| **田中PMO** | 「重いから気をつけて。あ、それと…(ポケットから小さい袋)これはズンさん個人に。」<br/>*Nặng đó, cẩn thận. À với lại… (rút túi nhỏ từ túi quần) cái này riêng cho Dũng.* |
+| **ズン** | 「(受け取る)えっ、何ですか?」<br/>*(nhận) Ơ, gì vậy ạ?* |
+| **田中PMO** | 「(笑って)息子からズンさんへ、お礼。あの IT Week のロボットステッカー、まだリュックに貼ってあって、『ズンおじさんに何か送ろう』って言うから。」<br/>*(cười) Con trai gửi cảm ơn Dũng. Cái sticker robot IT Week vẫn dán trên balo, nó bảo 'gửi gì cho chú Dũng đi'.* |
 
 *[Dũng mở túi nhỏ — 1 sticker robot tự vẽ + 1 message tiếng Nhật trẻ con: 'ズンおじさん ありがとう'.]*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「(感動)…田中さん、これ、宝物にします。息子さんに『ありがとう』伝えてください。」<br>*(xúc động)… anh Tanaka, em sẽ giữ đây như báu vật. Gửi cảm ơn con trai anh giúp em ạ.* |
-| **井上** | 「田中、その話、出張前に教えてくれよ(笑)」<br>*Tanaka, chuyện này phải nói trước khi công vụ chứ (cười)* |
-| **松本PM** | 「(到着)ズンさん、エレベーターまで送るよ。気をつけて帰国してね。」<br>*(đến) Dũng à, tôi tiễn ra thang máy. Về cẩn thận nhé.* |
+| **ズン** | 「(感動)…田中さん、これ、宝物にします。息子さんに『ありがとう』伝えてください。」<br/>*(xúc động)… anh Tanaka, em sẽ giữ đây như báu vật. Gửi cảm ơn con trai anh giúp em ạ.* |
+| **井上** | 「田中、その話、出張前に教えてくれよ(笑)」<br/>*Tanaka, chuyện này phải nói trước khi công vụ chứ (cười)* |
+| **松本PM** | 「(到着)ズンさん、エレベーターまで送るよ。気をつけて帰国してね。」<br/>*(đến) Dũng à, tôi tiễn ra thang máy. Về cẩn thận nhé.* |
 
 
 ### 💡 Bí quyết — Omiyage 2 chiều — bonus moment
@@ -425,10 +425,10 @@ Khách JP đưa omiyage chia tay cho team home country = standard. Bonus moment 
 
 *[Checkout. Tổng ¥38,500 + tax-free 8% (over ¥5,000 tax-free cho tourist) → final ¥35,500. Trong budget ¥40,000.]*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **コンビニ店員** | 「免税手続きはこちらでどうぞ。パスポートとレシートをお願いします。」<br>*Thủ tục tax-free bên này. Vui lòng cho passport và bill ạ.* |
-| **ズン** | 「(パスポート出す)これお願いします。」<br>*(rút passport) Cái này nhờ anh.* |
+| **コンビニ店員** | 「免税手続きはこちらでどうぞ。パスポートとレシートをお願いします。」<br/>*Thủ tục tax-free bên này. Vui lòng cho passport và bill ạ.* |
+| **ズン** | 「(パスポート出す)これお願いします。」<br/>*(rút passport) Cái này nhờ anh.* |
 
 *[5 phút sau, có form tax-free dán vào passport. Bag 4 cái shopping bag lớn. Vác về hotel — vai mỏi nhưng vui.]*
 
@@ -450,23 +450,23 @@ Last day onsite = mua omiyage cho gia đình + bạn HCMC. Hack:
 
 *Check-out 6:00 sáng. Bus shuttle chưa chạy → đi taxi đến ga Shinjuku. N'EX 6:45 đến Narita 8:15. Va-li ≈23.5kg (limit 23).*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ホテル受付** | 「(架空) チェックアウトでよろしいですか?ご利用ありがとうございました。」<br>*(lễ tân) Quý khách check-out đúng không? Cảm ơn quý khách đã sử dụng.* |
-| **ズン** | 「ありがとうございました、また利用させていただきます。」<br>*Cảm ơn chị, em sẽ sử dụng lần sau.* |
+| **ホテル受付** | 「(架空) チェックアウトでよろしいですか?ご利用ありがとうございました。」<br/>*(lễ tân) Quý khách check-out đúng không? Cảm ơn quý khách đã sử dụng.* |
+| **ズン** | 「ありがとうございました、また利用させていただきます。」<br/>*Cảm ơn chị, em sẽ sử dụng lần sau.* |
 
 *[Tới sân bay 8:15. Counter check-in JAL. Đặt va-li lên cân — 23.5kg. Đỏ đèn.]*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **JAL地上係員** | 「(架空) お客様、規定の23kgを0.5kg超過しております。中身を一部、お手荷物の方へお移しいただけますか?」<br>*(nhân viên JAL) Quý khách, vượt quy định 23kg 0.5kg. Đồ trong vali, có thể di chuyển bớt không ạ?* |
+| **JAL地上係員** | 「(架空) お客様、規定の23kgを0.5kg超過しております。中身を一部、お手荷物の方へお移しいただけますか?」<br/>*(nhân viên JAL) Quý khách, vượt quy định 23kg 0.5kg. Đồ trong vali, có thể di chuyển bớt không ạ?* |
 
 *[Dũng mở va-li ngay tại counter. Lấy ra hộp Royce chocolate (≈600g) bỏ vào carry-on backpack. Cân lại — 22.9kg. OK.]*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「(va-li 閉じる)これで OK ですか?」<br>*(đóng vali) Cái này OK không ạ?* |
-| **JAL地上係員** | 「はい、22.9kg、問題ありません。チェックインさせていただきます。」<br>*Vâng, 22.9kg, không vấn đề. Em check-in cho ạ.* |
+| **ズン** | 「(va-li 閉じる)これで OK ですか?」<br/>*(đóng vali) Cái này OK không ạ?* |
+| **JAL地上係員** | 「はい、22.9kg、問題ありません。チェックインさせていただきます。」<br/>*Vâng, 22.9kg, không vấn đề. Em check-in cho ạ.* |
 
 *[Boarding pass + receipt. Đi qua security. 9:00 vào lounge nhỏ JAL Sakura Lounge (Dũng có pass qua công ty). Cà phê + croissant nhỏ. Ngồi viết Slack.]*
 

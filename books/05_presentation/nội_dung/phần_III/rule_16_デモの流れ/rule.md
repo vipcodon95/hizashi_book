@@ -18,7 +18,7 @@ Tuấn (tech lead) sẽ chạy demo. Tuấn instinct là show toàn bộ feature
 
 *rehearsal*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアン** | 「では画面紹介します。これがダッシュボード、上に検索、左にメニュー、右にカード一覧、下にフッター…」 |
 | **ズン** | 「兄さん、それ**ツアーガイド**になってる。客は**機能名を聞きに来てない**。在庫差異が解消する flow を見せたい。」 |
@@ -31,7 +31,7 @@ Tuấn (tech lead) sẽ chạy demo. Tuấn instinct là show toàn bộ feature
 
 ## ✅ Hội thoại TỐT — 4-step storyline
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアン** | 「**Setup**: 倉庫担当の田村さんが、季節商品の在庫差異に気づきました【1】。**User journey**: ダッシュボードでアラートを確認、原因SKUを drill-down、修正案を承認。**Key moment**【2】: 通常2時間の作業が**3分で完了**。**Recap**: 季節商品でも差異が month-end前 に検出・修正される。」 |
 | **ズン** | 「Perfect。**ナレーションは私**【3】、操作はトゥアンが、で行きましょう。」 |

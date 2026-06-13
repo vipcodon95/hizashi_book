@@ -18,7 +18,7 @@ Phase 3 final round, executive review: 中村 CFO + 大垣 + 松本 PM joined Ti
 
 *中村だけ向く · 腕組み*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **中村CFO** | 「ROI 4.4 倍とのことですが、payback period は何ヶ月でしょうか？」 |
 | **大垣** | 「価格 ¥17M に **保守延長 オプション**は含まれますか？」 |
@@ -35,7 +35,7 @@ Phase 3 final round, executive review: 中村 CFO + 大垣 + 松本 PM joined Ti
 
 *沈黙 3秒、メモ確認 · 松本に向く · 大垣に向く · 中村に最後、deeper bow · 頷く*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **中村CFO** | 「ROI 4.4 倍の payback period は？」 |
 | **大垣** | 「保守延長は含まれますか？」 |

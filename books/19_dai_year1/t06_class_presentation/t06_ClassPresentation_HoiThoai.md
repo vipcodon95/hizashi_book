@@ -1,251 +1,307 @@
-# Sách 19 · T6. 自己紹介＋thuyết trình văn hoá VN (プレゼン文化)
+# Sách du học sinh tiếng Nhật · T6. Thuyết trình văn hoá Tết Việt Nam (プレゼン文化)
 
-> **Mục tiêu nhân vật:** 7/2024. Yamada-sensei giao bài tập lớp lớn: mỗi học viên thuyết trình 10 phút về văn hoá quê hương + Q&A 5 phút. Đại chuẩn bị "Tết Việt Nam" — slide PPT 12 trang. Căng thẳng + lần đầu nói trước 15 người Nhật trang trọng.
+> **Mục tiêu nhân vật:** Đại (19 tuổi, Kansai Gogo Gakuin, lớp B trung cấp). Học các mẫu hội thoại tiếng Nhật của người thuyết trình trước lớp: mở-thân-kết presentation (本日のテーマは・スライド〜をご覧ください・ご清聴ありがとうございました), xin gia hạn deadline với sensei, nhờ sempai góp ý slide, đối ứng Q&A (はい・いいえ・もう一度お願いします), so sánh văn hoá hai nước (共通点・相違点), nhận phản hồi chấm điểm, kể lại cho người thân ở VN.
+
+---
 
 ## Bối cảnh
 
-Yamada-sensei muốn lớp B trao đổi văn hoá. Chu kỳ 2 tuần. Đại tuần 3 (sau Sumi tuần 1, Yifan tuần 2). Đại có 10 ngày chuẩn bị. Tony+Yumi giúp xem slide + tập nói.
+Tháng 7/2024. Yamada-sensei giao project trao đổi văn hoá cho lớp B: mỗi học viên thuyết trình 10 phút về văn hoá quê hương + 5 phút Q&A, dùng PowerPoint. Chu kỳ 4 tuần, Đại tuần 3 sau Sumi (Hàn Quốc) và Yifan (Trung Quốc). Đại chọn chủ đề **テト・ベトナム** (Tết Việt Nam) — gần Tết âm 2025, có thể so sánh với O-shogatsu Nhật. Tony và Yumi giúp xem slide + nghe tập nói. Chương này tập trung mẫu câu thuyết trình trang trọng và Q&A.
 
 ---
 
-## Tình huống 1 — Yamada giao đề · 14:30 sau lớp
+## Tình huống 1 — Phòng lớp B · 14:30, Yamada giao đề project
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Yamada | みなさん、<ruby>来月<rt>らいげつ</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby><ruby>交流<rt>こうりゅう</rt></ruby>プロジェクト。<br>*(Tháng sau project trao đổi văn hoá.)* |
-| Nhân vật | （<ruby>注目<rt>ちゅうもく</rt></ruby>）<br>*(Chú ý.)* |
-| Yamada | <ruby>各<rt>かく</rt></ruby><ruby>自<rt>じ</rt></ruby><ruby>祖国<rt>そこく</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby><ruby>10<rt>じゅっ</rt></ruby><ruby>分<rt>ぷん</rt></ruby>プレゼン＋5<ruby>分<rt>ぷん</rt></ruby>Q&A。<br>*(Mỗi người 10 phút thuyết trình + 5 phút Q&A.)* |
-| Yamada | <ruby>15<rt>じゅうご</rt></ruby><ruby>分<rt>ぷん</rt></ruby><ruby>合計<rt>ごうけい</rt></ruby>です。パワーポイント<ruby>必須<rt>ひっす</rt></ruby>です。<br>*(Tổng 15 phút. Bắt buộc dùng PowerPoint.)* |
-| Yamada | <ruby>順番<rt>じゅんばん</rt></ruby>:<ruby>第<rt>だい</rt></ruby><ruby>1<rt>いっ</rt></ruby><ruby>週<rt>しゅう</rt></ruby>スミさん(<ruby>韓国<rt>かんこく</rt></ruby>)、<ruby>第<rt>だい</rt></ruby><ruby>2<rt>に</rt></ruby><ruby>週<rt>しゅう</rt></ruby>イーファンさん(<ruby>中国<rt>ちゅうごく</rt></ruby>)、<ruby>第<rt>だい</rt></ruby><ruby>3<rt>さん</rt></ruby><ruby>週<rt>しゅう</rt></ruby>ダイ<ruby>君<rt>くん</rt></ruby>(ベトナム)、<ruby>第<rt>だい</rt></ruby><ruby>4<rt>よん</rt></ruby><ruby>週<rt>しゅう</rt></ruby>アウン<ruby>君<rt>くん</rt></ruby>(ミャンマー)。<br>*(Thứ tự: tuần 1 Sumi, tuần 2 Yifan, tuần 3 Đại, tuần 4 Aung.)* |
-| Đại | （<ruby>緊張<rt>きんちょう</rt></ruby>）<br>*(Căng.)* |
+| Yamada | みなさん、<ruby>来月<rt>らいげつ</rt></ruby>から<ruby>文化<rt>ぶんか</rt></ruby><ruby>交流<rt>こうりゅう</rt></ruby>プロジェクトを<ruby>始<rt>はじ</rt></ruby>めます。<br>*(Mọi người, tháng sau bắt đầu project trao đổi văn hoá.)* |
+| Yamada | <ruby>各自<rt>かくじ</rt></ruby><ruby>母国<rt>ぼこく</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>について<ruby>10<rt>じゅっ</rt></ruby><ruby>分<rt>ぷん</rt></ruby>プレゼン、<ruby>5<rt>ご</rt></ruby><ruby>分<rt>ぷん</rt></ruby>Q&Aです。パワーポイント<ruby>必須<rt>ひっす</rt></ruby>。<br>*(Mỗi người thuyết trình 10 phút về văn hoá nước mình + 5 phút Q&A. Bắt buộc dùng PowerPoint.)* |
+| Đại | <ruby>先生<rt>せんせい</rt></ruby>、テーマは<ruby>自由<rt>じゆう</rt></ruby>ですか？<br>*(Thưa cô, chủ đề tự do ạ?)* |
+| Yamada | はい、<ruby>自由<rt>じゆう</rt></ruby>です。でも<ruby>具体的<rt>ぐたいてき</rt></ruby>なテーマがいいです。「<ruby>文化<rt>ぶんか</rt></ruby>」だけだと<ruby>広<rt>ひろ</rt></ruby>すぎますから。<br>*(Vâng, tự do. Nhưng nên chọn cụ thể. "Văn hoá" chung quá thì rộng.)* |
+| Yifan | <ruby>順番<rt>じゅんばん</rt></ruby>はどうなりますか？<br>*(Thứ tự thế nào ạ?)* |
+| Yamada | <ruby>第<rt>だい</rt></ruby><ruby>1<rt>いっ</rt></ruby><ruby>週<rt>しゅう</rt></ruby>スミさん、<ruby>第<rt>だい</rt></ruby><ruby>2<rt>に</rt></ruby><ruby>週<rt>しゅう</rt></ruby>イーファンさん、<ruby>第<rt>だい</rt></ruby><ruby>3<rt>さん</rt></ruby><ruby>週<rt>しゅう</rt></ruby>ダイ<ruby>君<rt>くん</rt></ruby>、<ruby>第<rt>だい</rt></ruby><ruby>4<rt>よん</rt></ruby><ruby>週<rt>しゅう</rt></ruby>アウン<ruby>君<rt>くん</rt></ruby>です。<br>*(Tuần 1 Sumi, tuần 2 Yifan, tuần 3 Đại, tuần 4 Aung.)* |
+| Đại | はい、<ruby>承知<rt>しょうち</rt></ruby>しました。<br>*(Vâng, em rõ ạ.)* |
 
 ---
 
-## Tình huống 2 — Yamada hướng dẫn cấu trúc · 14:45
+## Tình huống 2 — Phòng lớp B · 14:45, Yamada giảng cấu trúc + tiêu chí chấm
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Yamada | <ruby>構成<rt>こうせい</rt></ruby>は<ruby>5<rt>ご</rt></ruby><ruby>段階<rt>だんかい</rt></ruby>です:<br>*(Cấu trúc 5 bước:)* |
-| Yamada | 1: <ruby>導入<rt>どうにゅう</rt></ruby> (<ruby>1<rt>いっ</rt></ruby><ruby>分<rt>ぷん</rt></ruby>) — テーマ<ruby>紹介<rt>しょうかい</rt></ruby><br>*(1: Mở đầu (1 phút) — Giới thiệu chủ đề.)* |
-| Yamada | 2: <ruby>背景<rt>はいけい</rt></ruby> (<ruby>2<rt>に</rt></ruby><ruby>分<rt>ふん</rt></ruby>) — <ruby>歴史<rt>れきし</rt></ruby>＋<ruby>地理<rt>ちり</rt></ruby><br>*(2: Bối cảnh (2 phút) — lịch sử + địa lý.)* |
-| Yamada | 3: <ruby>主<rt>しゅ</rt></ruby><ruby>内容<rt>ないよう</rt></ruby> (<ruby>5<rt>ご</rt></ruby><ruby>分<rt>ふん</rt></ruby>) — <ruby>具体的<rt>ぐたいてき</rt></ruby><ruby>例<rt>れい</rt></ruby>＋<ruby>写真<rt>しゃしん</rt></ruby><br>*(3: Nội dung chính (5 phút) — ví dụ cụ thể + ảnh.)* |
-| Yamada | 4: <ruby>比較<rt>ひかく</rt></ruby> (<ruby>1<rt>いっ</rt></ruby><ruby>分<rt>ぷん</rt></ruby>) — <ruby>日本<rt>にほん</rt></ruby>と<ruby>違<rt>ちが</rt></ruby>うところ<br>*(4: So sánh (1 phút) — khác Nhật.)* |
-| Yamada | 5: まとめ＋Q&A (<ruby>1<rt>いっ</rt></ruby><ruby>分<rt>ぷん</rt></ruby>＋<ruby>5<rt>ご</rt></ruby><ruby>分<rt>ふん</rt></ruby>) — <ruby>結論<rt>けつろん</rt></ruby><ruby>感想<rt>かんそう</rt></ruby><br>*(5: Tổng kết + Q&A.)* |
-| Yamada | <ruby>採点<rt>さいてん</rt></ruby><ruby>基準<rt>きじゅん</rt></ruby>は<ruby>内容<rt>ないよう</rt></ruby>40%、<ruby>発音<rt>はつおん</rt></ruby>30%、PPT<ruby>視覚<rt>しかく</rt></ruby>20%、Q&A<ruby>対応<rt>たいおう</rt></ruby>10%です。<br>*(Tiêu chí chấm: nội dung 40, phát âm 30, hình ảnh PPT 20, đối ứng Q&A 10.)* |
-| Đại | （メモを<ruby>取<rt>と</rt></ruby>る）<br>*(Ghi chép.)* |
+| Yamada | プレゼンの<ruby>構成<rt>こうせい</rt></ruby>は<ruby>5<rt>ご</rt></ruby><ruby>段階<rt>だんかい</rt></ruby>で<ruby>覚<rt>おぼ</rt></ruby>えてください。<br>*(Cấu trúc thuyết trình nhớ theo 5 bước.)* |
+| Yamada | <ruby>1<rt>いち</rt></ruby>:<ruby>導入<rt>どうにゅう</rt></ruby> (テーマ<ruby>紹介<rt>しょうかい</rt></ruby>)、<ruby>2<rt>に</rt></ruby>:<ruby>背景<rt>はいけい</rt></ruby> (<ruby>歴史<rt>れきし</rt></ruby>・<ruby>地理<rt>ちり</rt></ruby>)、<ruby>3<rt>さん</rt></ruby>:<ruby>主<rt>しゅ</rt></ruby><ruby>内容<rt>ないよう</rt></ruby>、<ruby>4<rt>よん</rt></ruby>:<ruby>日本<rt>にほん</rt></ruby>との<ruby>比較<rt>ひかく</rt></ruby>、<ruby>5<rt>ご</rt></ruby>:まとめ＋Q&A。<br>*(1: mở đầu, 2: bối cảnh, 3: nội dung chính, 4: so sánh với Nhật, 5: tổng kết + Q&A.)* |
+| Đại | すみません、「<ruby>導入<rt>どうにゅう</rt></ruby>」と「<ruby>背景<rt>はいけい</rt></ruby>」の<ruby>違<rt>ちが</rt></ruby>いはどういうことですか？<br>*(Xin lỗi cô, "doonyuu" với "haikei" khác nhau thế nào ạ?)* |
+| Yamada | <ruby>導入<rt>どうにゅう</rt></ruby>は「<ruby>本日<rt>ほんじつ</rt></ruby>のテーマは〜です」と<ruby>言<rt>い</rt></ruby>うところ。<ruby>背景<rt>はいけい</rt></ruby>は「いつから・どこで・なぜ」を<ruby>説明<rt>せつめい</rt></ruby>するところです。<br>*(Doonyuu là chỗ nói "Đề tài hôm nay là...". Haikei là chỗ giải thích từ khi nào, ở đâu, vì sao.)* |
+| Đại | なるほど、<ruby>分<rt>わ</rt></ruby>かりました。<br>*(Em hiểu rồi ạ.)* |
+| Yamada | <ruby>採点<rt>さいてん</rt></ruby><ruby>基準<rt>きじゅん</rt></ruby>は<ruby>内容<rt>ないよう</rt></ruby><ruby>40<rt>よんじゅっ</rt></ruby><ruby>点<rt>てん</rt></ruby>、<ruby>発音<rt>はつおん</rt></ruby><ruby>30<rt>さんじゅっ</rt></ruby><ruby>点<rt>てん</rt></ruby>、スライド<ruby>20<rt>にじゅっ</rt></ruby><ruby>点<rt>てん</rt></ruby>、Q&A<ruby>対応<rt>たいおう</rt></ruby><ruby>10<rt>じゅっ</rt></ruby><ruby>点<rt>てん</rt></ruby>です。<br>*(Tiêu chí: nội dung 40, phát âm 30, slide 20, đối ứng Q&A 10.)* |
 
 ---
 
-## Tình huống 3 — Đặt ý tưởng cho chủ đề · 18:00 nhà Tanaka
+## Tình huống 3 — Phòng khách nhà Tanaka · 18:00, Đại bàn chủ đề với Tony và Yumi
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Tony | ダイ<ruby>君<rt>くん</rt></ruby>、<ruby>何<rt>なん</rt></ruby>のテーマにする？<br>*(Đại định chọn chủ đề gì?)* |
-| Đại | <ruby>悩<rt>なや</rt></ruby>んでます。<ruby>選択肢<rt>せんたくし</rt></ruby>は<ruby>5<rt>いつ</rt></ruby>つ:<br>*(Em đang phân vân. 5 lựa chọn:)* |
-| Đại | 1: ベトナム<ruby>料理<rt>りょうり</rt></ruby><br>*(1: Ẩm thực Việt Nam.)* |
-| Đại | 2: ベトナム<ruby>戦争<rt>せんそう</rt></ruby><ruby>歴史<rt>れきし</rt></ruby><br>*(2: Lịch sử chiến tranh.)* |
-| Đại | 3: アオザイ＋<ruby>伝統<rt>でんとう</rt></ruby><ruby>衣装<rt>いしょう</rt></ruby><br>*(3: Áo dài.)* |
-| Đại | 4: テト (Tết)<br>*(4: Tết.)* |
-| Đại | 5: ハノイとホーチミンの<ruby>違<rt>ちが</rt></ruby>い<br>*(5: Khác biệt Hà Nội-Hồ Chí Minh.)* |
-| Yumi | テトいいね！<ruby>日本<rt>にほん</rt></ruby>のお<ruby>正月<rt>しょうがつ</rt></ruby>と<ruby>比較<rt>ひかく</rt></ruby>できるし。<br>*(Tết hay đấy! Lại so sánh được với Tết Nhật.)* |
-| Tony | <ruby>賛成<rt>さんせい</rt></ruby>。テトは<ruby>具体的<rt>ぐたいてき</rt></ruby>で<ruby>写真<rt>しゃしん</rt></ruby>も<ruby>多<rt>おお</rt></ruby>い。<br>*(Đồng ý. Tết cụ thể + nhiều ảnh.)* |
-| Đại | はい、テトに<ruby>決<rt>き</rt></ruby>めます！<br>*(Vâng, em quyết chọn Tết!)* |
+| Đại | トニーさん、ユミさん、<ruby>相談<rt>そうだん</rt></ruby>があります。<br>*(Bác Tony, cô Yumi, cháu có việc muốn xin ý kiến ạ.)* |
+| Tony | おう、なんや？<br>*(Ồ, gì thế?)* |
+| Đại | <ruby>来月<rt>らいげつ</rt></ruby>クラスでベトナム<ruby>文化<rt>ぶんか</rt></ruby>のプレゼンをします。テーマで<ruby>悩<rt>なや</rt></ruby>んでいます。<br>*(Tháng sau cháu thuyết trình văn hoá VN. Cháu đang phân vân chủ đề.)* |
+| Yumi | <ruby>候補<rt>こうほ</rt></ruby>は？<br>*(Có những lựa chọn nào?)* |
+| Đại | <ruby>5<rt>いつ</rt></ruby>つあります。アオザイ、ベトナム<ruby>料理<rt>りょうり</rt></ruby>、ハロン<ruby>湾<rt>わん</rt></ruby>、テト、<ruby>南北<rt>なんぼく</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>い。<br>*(Có 5 ạ. Áo dài, ẩm thực, vịnh Hạ Long, Tết, khác biệt Nam-Bắc.)* |
+| Yumi | テト、いいわよ！<ruby>日本<rt>にほん</rt></ruby>のお<ruby>正月<rt>しょうがつ</rt></ruby>と<ruby>比較<rt>ひかく</rt></ruby>できるじゃない。<br>*(Tết hay đó! Lại so sánh được với năm mới Nhật.)* |
+| Tony | <ruby>賛成<rt>さんせい</rt></ruby>。テトやったら<ruby>写真<rt>しゃしん</rt></ruby>も<ruby>多<rt>おお</rt></ruby>いし、<ruby>聞<rt>き</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>も<ruby>興味<rt>きょうみ</rt></ruby><ruby>持<rt>も</rt></ruby>ちやすいで。<br>*(Đồng ý. Tết thì nhiều ảnh, người nghe cũng dễ quan tâm.)* |
+| Đại | ありがとうございます！テトに<ruby>決<rt>き</rt></ruby>めます。スライドができたら<ruby>見<rt>み</rt></ruby>ていただけますか？<br>*(Cháu cảm ơn ạ! Cháu quyết chọn Tết. Khi nào xong slide nhờ cô chú xem giúp được không ạ?)* |
+| Yumi | もちろん！<ruby>遠慮<rt>えんりょ</rt></ruby>しないでね。<br>*(Tất nhiên! Đừng ngại.)* |
 
 ---
 
-## Tình huống 4 — Slide outline · 21:00
+## Tình huống 4 — Phòng giáo viên · 12:00, xin gia hạn nộp slide draft
 
-| Speaker | Lời thoại |
+*Đại thấy slide chưa xong, đến gặp Yamada-sensei xin lùi deadline 2 ngày.*
+
+| Vai | Lời thoại |
 |---|---|
-| Đại | (VN, nội tâm) Slide PPT 12 trang:<br>*(12 trang:)* |
-| Đại | (VN) Trang 1: Tiêu đề — "ベトナムのテト — Tết Việt Nam" + ảnh hoa đào<br>*(S1.)* |
-| Đại | (VN) Trang 2: Tự giới thiệu (Hà Nội, 19 tuổi)<br>*(S2.)* |
-| Đại | (VN) Trang 3: Tết là gì? (テト = ベトナム旧暦正月)<br>*(S3.)* |
-| Đại | (VN) Trang 4: Lịch sử + ý nghĩa<br>*(S4.)* |
-| Đại | (VN) Trang 5: Chuẩn bị 1 tuần trước (大掃除)<br>*(S5.)* |
-| Đại | (VN) Trang 6: Bánh chưng + bánh tét (ảnh)<br>*(S6.)* |
-| Đại | (VN) Trang 7: Cây nêu + đào miền Bắc + mai miền Nam<br>*(S7.)* |
-| Đại | (VN) Trang 8: Đêm giao thừa (除夕の夜)<br>*(S8.)* |
-| Đại | (VN) Trang 9: Mùng 1-3 thăm họ hàng + lì xì (お年玉)<br>*(S9.)* |
-| Đại | (VN) Trang 10: So sánh với Tết Nhật O-shogatsu (相違点・共通点)<br>*(S10.)* |
-| Đại | (VN) Trang 11: Cảm tưởng cá nhân — Tết đầu tiên xa nhà 2025<br>*(S11.)* |
-| Đại | (VN) Trang 12: Mời Q&A<br>*(S12.)* |
+| Đại | <ruby>山田<rt>やまだ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>、<ruby>失礼<rt>しつれい</rt></ruby>します。<ruby>少々<rt>しょうしょう</rt></ruby>よろしいですか？<br>*(Cô Yamada, em xin phép ạ. Cô có chút thời gian không ạ?)* |
+| Yamada | はい、どうぞ。<br>*(Vâng, vào đi.)* |
+| Đại | プレゼンのスライドの<ruby>件<rt>けん</rt></ruby>でご<ruby>相談<rt>そうだん</rt></ruby>があります。<ruby>提出<rt>ていしゅつ</rt></ruby><ruby>期限<rt>きげん</rt></ruby>は<ruby>明日<rt>あした</rt></ruby>ですが、<ruby>写真<rt>しゃしん</rt></ruby>がまだ<ruby>集<rt>あつ</rt></ruby>まらなくて...<br>*(Em xin trao đổi về slide presentation. Hạn nộp ngày mai nhưng ảnh em vẫn chưa gom đủ...)* |
+| Yamada | テトの<ruby>写真<rt>しゃしん</rt></ruby>ですね。<ruby>家族<rt>かぞく</rt></ruby>に<ruby>頼<rt>たの</rt></ruby>んでいるの？<br>*(Ảnh Tết nhỉ. Em nhờ gia đình gửi à?)* |
+| Đại | はい、<ruby>母<rt>はは</rt></ruby>に<ruby>古<rt>ふる</rt></ruby>いアルバムを<ruby>探<rt>さが</rt></ruby>してもらっています。<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ありませんが、<ruby>2<rt>に</rt></ruby><ruby>日<rt>にち</rt></ruby><ruby>遅<rt>おく</rt></ruby>らせていただけませんか？<br>*(Vâng, mẹ em đang tìm album cũ. Em xin lỗi cô, cho em lùi 2 ngày được không ạ?)* |
+| Yamada | <ruby>2<rt>に</rt></ruby><ruby>日<rt>にち</rt></ruby>なら<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。でも<ruby>本番<rt>ほんばん</rt></ruby><ruby>1<rt>いっ</rt></ruby><ruby>週間<rt>しゅうかん</rt></ruby><ruby>前<rt>まえ</rt></ruby>までには<ruby>必<rt>かなら</rt></ruby>ず<ruby>出<rt>だ</rt></ruby>してくださいね。<br>*(2 ngày thì được. Nhưng nhất định phải nộp trước ngày thuyết trình 1 tuần nhé.)* |
+| Đại | はい、<ruby>必<rt>かなら</rt></ruby>ず<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせます。ありがとうございます。<br>*(Vâng, em chắc chắn kịp ạ. Em cảm ơn cô.)* |
 
 ---
 
-## Tình huống 5 — Sumi presentation tuần 1 — Đại observe · 13:30
+## Tình huống 5 — Phòng lớp B · 14:00, quan sát Sumi presentation tuần 1
 
-| Speaker | Lời thoại |
+*Đại ngồi hàng giữa, quan sát Sumi thuyết trình về Kimjang (lễ ngâm kimchi Hàn Quốc) để học pattern.*
+
+| Vai | Lời thoại |
 |---|---|
-| Sumi | （<ruby>立<rt>た</rt></ruby>つ）みなさん、こんにちは！<br>*(Đứng. Mọi người chào!)* |
-| Sumi | <ruby>本日<rt>ほんじつ</rt></ruby>のテーマは<ruby>韓国<rt>かんこく</rt></ruby>のキムジャン (nghi lễ ngâm kimchi mùa đông) です。<br>*(Đề tài: lễ ngâm kimchi.)* |
-| Sumi | （<ruby>導入<rt>どうにゅう</rt></ruby>）<ruby>毎年<rt>まいとし</rt></ruby><ruby>11<rt>じゅういち</rt></ruby><ruby>月<rt>がつ</rt></ruby>に<ruby>家族<rt>かぞく</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まり、<ruby>100<rt>ひゃっ</rt></ruby><ruby>個<rt>こ</rt></ruby>の<ruby>白菜<rt>はくさい</rt></ruby>を<ruby>漬<rt>つ</rt></ruby>けます。<br>*(Tháng 11 hằng năm gia đình tụ tập, ngâm 100 cải thảo.)* |
-| Đại | (VN, nội tâm) Sumi nói chậm và rõ. Quan sát học hỏi.<br>*(Học.)* |
-| Sumi | （<ruby>15<rt>じゅうご</rt></ruby><ruby>分後<rt>ふんご</rt></ruby>に<ruby>終<rt>お</rt></ruby>わる）<br>*(15 phút sau kết thúc.)* |
-| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
-| Yamada | スミさん、<ruby>素晴<rt>すば</rt></ruby>らしいです！Q&A の<ruby>時間<rt>じかん</rt></ruby>です:<br>*(Sumi tuyệt vời! Đến giờ Q&A.)* |
-| Yifan | キムチは<ruby>毎日<rt>まいにち</rt></ruby><ruby>食<rt>た</rt></ruby>べますか？<br>*(Bạn ăn kimchi mỗi ngày à?)* |
-| Sumi | はい、<ruby>毎食<rt>まいしょく</rt></ruby><ruby>食<rt>た</rt></ruby>べます。<br>*(Vâng, mỗi bữa đều ăn.)* |
-| Đại | (VN, nội tâm) Câu hỏi đơn giản. Mình làm được.<br>*(OK.)* |
+| Sumi | みなさん、こんにちは！<ruby>本日<rt>ほんじつ</rt></ruby>のテーマは<ruby>韓国<rt>かんこく</rt></ruby>のキムジャンです。<br>*(Mọi người chào! Đề tài hôm nay là Kimjang Hàn Quốc.)* |
+| Sumi | スライド<ruby>1<rt>いち</rt></ruby>をご<ruby>覧<rt>らん</rt></ruby>ください。キムジャンは<ruby>毎年<rt>まいとし</rt></ruby><ruby>11<rt>じゅういち</rt></ruby><ruby>月<rt>がつ</rt></ruby>に<ruby>家族<rt>かぞく</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まって、<ruby>白菜<rt>はくさい</rt></ruby><ruby>100<rt>ひゃっ</rt></ruby><ruby>個<rt>こ</rt></ruby>を<ruby>漬<rt>つ</rt></ruby>ける<ruby>行事<rt>ぎょうじ</rt></ruby>です。<br>*(Mời xem slide 1. Kimjang là sự kiện gia đình tụ tập tháng 11 mỗi năm, ngâm 100 cải thảo.)* |
+| Sumi | （<ruby>15<rt>じゅうご</rt></ruby><ruby>分後<rt>ふんご</rt></ruby>）ご<ruby>清聴<rt>せいちょう</rt></ruby>ありがとうございました。<br>*(15 phút sau. Cảm ơn quý vị đã lắng nghe.)* |
+| Cả lớp | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
+| Yifan | キムチは<ruby>毎日<rt>まいにち</rt></ruby><ruby>食<rt>た</rt></ruby>べますか？<br>*(Có ăn kimchi mỗi ngày không?)* |
+| Sumi | はい、<ruby>毎食<rt>まいしょく</rt></ruby><ruby>必<rt>かなら</rt></ruby>ず<ruby>食<rt>た</rt></ruby>べます。<br>*(Vâng, bữa nào cũng ăn.)* |
+| Đại | スミさん、<ruby>1<rt>ひと</rt></ruby>つ<ruby>質問<rt>しつもん</rt></ruby>してもよろしいですか？キムジャンは<ruby>男性<rt>だんせい</rt></ruby>も<ruby>参加<rt>さんか</rt></ruby>しますか？<br>*(Sumi cho mình hỏi một câu được không? Đàn ông có tham gia Kimjang không?)* |
+| Sumi | はい、<ruby>最近<rt>さいきん</rt></ruby>は<ruby>男性<rt>だんせい</rt></ruby>も<ruby>手伝<rt>てつだ</rt></ruby>います。<br>*(Vâng, gần đây đàn ông cũng phụ.)* |
 
 ---
 
-## Tình huống 6 — Tập speech với Tony tuần 2 · 21:00
+## Tình huống 6 — Phòng khách nhà Tanaka · 21:00, tập nói với Tony và Yumi
 
-| Speaker | Lời thoại |
+*Đại đứng giữa phòng khách, slide chiếu lên TV qua HDMI. Tony và Yumi ngồi giả vờ làm khán giả.*
+
+| Vai | Lời thoại |
 |---|---|
-| Đại | （<ruby>立<rt>た</rt></ruby>つ）みなさん、こんにちは！<br>*(Đứng. Chào mọi người!)* |
-| Tony | <ruby>声<rt>こえ</rt></ruby>もっと<ruby>大<rt>おお</rt></ruby>きく。<br>*(To hơn nữa.)* |
-| Đại | （<ruby>大<rt>おお</rt></ruby>きく）みなさん、こんにちは！<ruby>本日<rt>ほんじつ</rt></ruby>のテーマはベトナムのテトです！<br>*(To. Chào! Đề tài là Tết Việt Nam!)* |
-| Tony | （<ruby>頷<rt>うなず</rt></ruby>く）いいね！<br>*(Gật. Được!)* |
-| Đại | テトはベトナムの<ruby>旧暦<rt>きゅうれき</rt></ruby><ruby>正月<rt>しょうがつ</rt></ruby>です。<ruby>2025<rt>にせんにじゅうご</rt></ruby><ruby>年<rt>ねん</rt></ruby>のテトは<ruby>1<rt>いち</rt></ruby><ruby>月<rt>がつ</rt></ruby><ruby>29<rt>にじゅうく</rt></ruby><ruby>日<rt>にち</rt></ruby>から<ruby>2<rt>に</rt></ruby><ruby>月<rt>がつ</rt></ruby><ruby>2<rt>ふつ</rt></ruby><ruby>日<rt>か</rt></ruby>までです。<br>*(Tết âm lịch VN. 2025: 29/1-2/2.)* |
-| Tony | <ruby>具体的<rt>ぐたいてき</rt></ruby>な<ruby>日付<rt>ひづけ</rt></ruby>がいいね。<br>*(Có ngày cụ thể tốt.)* |
-| Đại | （<ruby>15<rt>じゅうご</rt></ruby><ruby>分<rt>ふん</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby><ruby>続<rt>つづ</rt></ruby>ける）<br>*(Tập 15 phút tiếp.)* |
-| Yumi | （<ruby>横<rt>よこ</rt></ruby>から）<ruby>日本<rt>にほん</rt></ruby>のお<ruby>正月<rt>しょうがつ</rt></ruby>も<ruby>家族<rt>かぞく</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まるよ。<ruby>共通点<rt>きょうつうてん</rt></ruby>を<ruby>強調<rt>きょうちょう</rt></ruby>するといいよ。<br>*(O-shogatsu Nhật cũng tụ họp gia đình. Nhấn điểm chung tốt đó.)* |
-| Đại | はい！<br>*(Vâng!)* |
+| Đại | みなさん、こんにちは！<ruby>本日<rt>ほんじつ</rt></ruby>のテーマはベトナムのテトです！<br>*(Mọi người chào! Đề tài hôm nay là Tết Việt Nam!)* |
+| Tony | <ruby>声<rt>こえ</rt></ruby>、もう<ruby>少<rt>すこ</rt></ruby>し<ruby>大<rt>おお</rt></ruby>きく。<ruby>後<rt>うし</rt></ruby>ろまで<ruby>届<rt>とど</rt></ruby>かへんで。<br>*(Tiếng to thêm chút. Phía sau không nghe tới đâu.)* |
+| Đại | （<ruby>大声<rt>おおごえ</rt></ruby>で）みなさん、こんにちは！<ruby>本日<rt>ほんじつ</rt></ruby>のテーマはベトナムのテトです！<br>*(To tiếng. Mọi người chào! Đề tài là Tết Việt Nam!)* |
+| Yumi | いいわね！でも「テト」の<ruby>説明<rt>せつめい</rt></ruby>を<ruby>先<rt>さき</rt></ruby>にしたほうがいいんじゃない？<ruby>聞<rt>き</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>はテトを<ruby>知<rt>し</rt></ruby>らないから。<br>*(Được đó! Nhưng nên giải thích "Tết" là gì trước nhỉ? Người nghe đâu biết.)* |
+| Đại | あ、なるほど。テトはベトナムの<ruby>旧暦<rt>きゅうれき</rt></ruby><ruby>正月<rt>しょうがつ</rt></ruby>です。<ruby>2025<rt>にせんにじゅうご</rt></ruby><ruby>年<rt>ねん</rt></ruby>は<ruby>1<rt>いち</rt></ruby><ruby>月<rt>がつ</rt></ruby><ruby>29<rt>にじゅうく</rt></ruby><ruby>日<rt>にち</rt></ruby>から<ruby>2<rt>に</rt></ruby><ruby>月<rt>がつ</rt></ruby><ruby>2<rt>ふつ</rt></ruby><ruby>日<rt>か</rt></ruby>まで。<br>*(À ra vậy. Tết là Tết âm lịch VN. 2025 từ 29/1 đến 2/2.)* |
+| Tony | そうそう、<ruby>具体的<rt>ぐたいてき</rt></ruby>な<ruby>日付<rt>ひづけ</rt></ruby><ruby>大事<rt>だいじ</rt></ruby>や。<br>*(Đúng đúng, ngày cụ thể quan trọng.)* |
+| Yumi | <ruby>共通点<rt>きょうつうてん</rt></ruby>と<ruby>相違点<rt>そういてん</rt></ruby>のスライド、<ruby>表<rt>ひょう</rt></ruby>にしたらどう？<br>*(Slide điểm chung điểm khác, làm thành bảng đi.)* |
+| Đại | はい！<ruby>表<rt>ひょう</rt></ruby>のほうが<ruby>分<rt>わ</rt></ruby>かりやすいですね。ありがとうございます。<br>*(Vâng! Bảng dễ hiểu hơn nhỉ. Cháu cảm ơn ạ.)* |
 
 ---
 
-## Tình huống 7 — Đêm trước presentation · 22:00 1 ngày trước
+## Tình huống 7 — Cafe Namba · 16:00, nhờ Tuấn (đồng hương) góp ý
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Đại | (VN, nội tâm) Mai 13:30. Tay run.<br>*(Run.)* |
-| Linh | (LINE) Anh ơi, ổn không?<br>*(Ổn?)* |
-| Đại | (VN) Lo lắm. Nói trước đám đông tiếng Nhật khó.<br>*(Khó.)* |
-| Linh | (VN) Anh đã tập 5 lần rồi. Yên tâm.<br>*(OK.)* |
-| Tuấn | (LINE group VN) Anh Đại! Ngày mai cả nhóm em qua xem.<br>*(Cùng xem.)* |
-| Đại | (VN) Cảm ơn em. Đừng nói tiếng Việt trong lúc anh thuyết trình nhé.<br>*(Đừng VN.)* |
-| Tuấn | (VN, cười) Vâng!<br>*(Vâng!)* |
-| Đại | (VN, nội tâm) Ngủ sớm.<br>*(Ngủ.)* |
+| Đại | (tiếng Việt) Tuấn, em xem qua slide anh giúp được không? |
+| Tuấn | (tiếng Việt) Vâng anh, anh chiếu lên đi. |
+| Đại | (tiếng Việt) Mai 13h30 anh trình bày. Hơi run. |
+| Tuấn | (tiếng Việt) Bánh chưng 10 tiếng luộc — anh nói rõ vụ này, người Nhật mê chi tiết. |
+| Đại | (tiếng Việt) OK. Còn vụ lì xì so với お年玉 thì sao? |
+| Tuấn | (tiếng Việt) Anh nhấn ý nghĩa màu đỏ — xua tà. Người Nhật cũng có "厄払い" tương đương, dễ hiểu. |
+| Đại | (tiếng Việt) Hay! Anh thêm slide đó. |
+| Tuấn | (tiếng Việt) Mai em qua xem trực tiếp. Có cần em quay video gửi mẹ anh không? |
+| Đại | (tiếng Việt) Quay giúp anh đi. Mẹ chắc khoe cả họ. |
 
 ---
 
-## Tình huống 8 — Sáng presentation · 13:25 lớp B
+## Tình huống 8 — Phòng homestay · 22:00, đêm trước presentation — nhắn Mai
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Yamada | <ruby>本日<rt>ほんじつ</rt></ruby>はダイ<ruby>君<rt>くん</rt></ruby>の<ruby>順番<rt>じゅんばん</rt></ruby>です。<br>*(Hôm nay đến lượt Đại.)* |
-| Đại | （<ruby>立<rt>た</rt></ruby>つ）<br>*(Đứng.)* |
-| Đại | （<ruby>深呼吸<rt>しんこきゅう</rt></ruby>）<br>*(Hít sâu.)* |
-| Đại | みなさん、こんにちは！<br>*(Chào mọi người!)* |
-| Nhân vật | こんにちは！<br>*(Chào!)* |
-| Đại | <ruby>本日<rt>ほんじつ</rt></ruby>のテーマはベトナムのテトです！<br>*(Đề tài hôm nay là Tết Việt Nam!)* |
-| Đại | （スライド<ruby>1<rt>いち</rt></ruby><ruby>表示<rt>ひょうじ</rt></ruby>）<br>*(Hiện slide 1.)* |
-| Đại | (VN, nội tâm) Mọi người nhìn chăm chú.<br>*(Tập trung.)* |
+| Đại | (LINE, VN) Mai ơi anh run quá. Mai 13h30 thuyết trình. |
+| Mai | (LINE, VN) Anh tập mấy lần rồi? |
+| Đại | (LINE, VN) 8 lần với Tony, Yumi. 2 lần với Tuấn. Vẫn run. |
+| Mai | (LINE, VN) Anh nói tiếng Nhật trước người Nhật mà — run là đúng rồi. Nhưng anh kể em nghe đi, anh sẽ nói gì? |
+| Đại | (LINE, VN) Mở đầu: Honjitsu no tema wa Vietnam no Tết desu. Sau đó định nghĩa Tết, ngày 2025, đại tảo, bánh chưng, đào miền Bắc mai miền Nam, lì xì, so sánh với O-shogatsu Nhật. |
+| Mai | (LINE, VN) Đủ rồi. Anh nhớ cười nhé, đừng nghiêm mặt. |
+| Đại | (LINE, VN) Ừ. Em ngủ ngon. Cảm ơn em. |
+| Mai | (LINE, VN) Ganbatte! |
 
 ---
 
-## Tình huống 9 — Presentation main content · 13:30-13:42
+## Tình huống 9 — Phòng lớp B · 13:30, mở đầu presentation
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Đại | （スライド<ruby>3<rt>さん</rt></ruby> - Tết là gì）<br>*(S3.)* |
-| Đại | テトはベトナムの<ruby>旧暦<rt>きゅうれき</rt></ruby><ruby>正月<rt>しょうがつ</rt></ruby>です。<ruby>1<rt>いち</rt></ruby><ruby>年<rt>ねん</rt></ruby>で<ruby>最大<rt>さいだい</rt></ruby>の<ruby>祝祭日<rt>しゅくさいじつ</rt></ruby>です。<br>*(Tết âm Việt Nam. Lễ lớn nhất trong năm.)* |
-| Đại | <ruby>2025<rt>にせんにじゅうご</rt></ruby><ruby>年<rt>ねん</rt></ruby>のテトは<ruby>1<rt>いち</rt></ruby><ruby>月<rt>がつ</rt></ruby><ruby>29<rt>にじゅうく</rt></ruby><ruby>日<rt>にち</rt></ruby>～<ruby>2<rt>に</rt></ruby><ruby>月<rt>がつ</rt></ruby><ruby>2<rt>ふつ</rt></ruby><ruby>日<rt>か</rt></ruby>です。<br>*(Tết 2025.)* |
-| Đại | （スライド<ruby>5<rt>ご</rt></ruby> - 大掃除）<ruby>1<rt>いっ</rt></ruby><ruby>週間<rt>しゅうかん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>を<ruby>大掃除<rt>おおそうじ</rt></ruby>します。<ruby>古<rt>ふる</rt></ruby>いものを<ruby>捨<rt>す</rt></ruby>てて<ruby>新<rt>あたら</rt></ruby>しい<ruby>年<rt>とし</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えます。<br>*(1 tuần trước đại vệ sinh nhà. Bỏ cũ đón mới.)* |
-| Đại | （スライド<ruby>6<rt>ろく</rt></ruby> - bánh chưng）<ruby>伝統<rt>でんとう</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>はバインチュン (<ruby>北部<rt>ほくぶ</rt></ruby>・<ruby>四角<rt>しかく</rt></ruby>) とバインテット (<ruby>南部<rt>なんぶ</rt></ruby>・<ruby>円柱<rt>えんちゅう</rt></ruby>)。<br>*(Bánh chưng vuông Bắc + bánh tét trụ Nam.)* |
-| Đại | <ruby>材料<rt>ざいりょう</rt></ruby>は<ruby>もち米<rt>もちごめ</rt></ruby>、<ruby>豚肉<rt>ぶたにく</rt></ruby>、<ruby>緑豆<rt>りょくとう</rt></ruby>、バナナの<ruby>葉<rt>は</rt></ruby>。<br>*(Nguyên liệu: nếp, heo, đậu xanh, lá chuối.)* |
-| Đại | <ruby>10<rt>じゅう</rt></ruby><ruby>時間<rt>じかん</rt></ruby><ruby>煮<rt>に</rt></ruby>ます！<br>*(Luộc 10 tiếng!)* |
+| Yamada | では、ダイ<ruby>君<rt>くん</rt></ruby>、お<ruby>願<rt>ねが</rt></ruby>いします。<br>*(Vậy mời Đại.)* |
+| Đại | （<ruby>立<rt>た</rt></ruby>って<ruby>深呼吸<rt>しんこきゅう</rt></ruby>）みなさん、こんにちは！グエン・ヴァン・ダイです。<br>*(Đứng dậy, hít sâu. Mọi người chào! Em là Nguyễn Văn Đại.)* |
+| Cả lớp | こんにちは！<br>*(Chào!)* |
+| Đại | <ruby>本日<rt>ほんじつ</rt></ruby>のテーマはベトナムのテト、つまり<ruby>旧暦<rt>きゅうれき</rt></ruby>のお<ruby>正月<rt>しょうがつ</rt></ruby>です。<br>*(Đề tài hôm nay là Tết Việt Nam, tức là Tết âm lịch.)* |
+| Đại | スライド<ruby>1<rt>いち</rt></ruby>をご<ruby>覧<rt>らん</rt></ruby>ください。<ruby>2025<rt>にせんにじゅうご</rt></ruby><ruby>年<rt>ねん</rt></ruby>のテトは<ruby>1<rt>いち</rt></ruby><ruby>月<rt>がつ</rt></ruby><ruby>29<rt>にじゅうく</rt></ruby><ruby>日<rt>にち</rt></ruby>から<ruby>2<rt>に</rt></ruby><ruby>月<rt>がつ</rt></ruby><ruby>2<rt>ふつ</rt></ruby><ruby>日<rt>か</rt></ruby>までです。<br>*(Mời xem slide 1. Tết 2025 từ 29/1 đến 2/2.)* |
+| Đại | テトは<ruby>1<rt>いち</rt></ruby><ruby>年<rt>ねん</rt></ruby>で<ruby>最大<rt>さいだい</rt></ruby>の<ruby>祝日<rt>しゅくじつ</rt></ruby>で、<ruby>家族<rt>かぞく</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まる<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>時期<rt>じき</rt></ruby>です。<br>*(Tết là ngày lễ lớn nhất năm, là dịp quan trọng gia đình tụ họp.)* |
+
+---
+
+## Tình huống 10 — Phòng lớp B · 13:35-13:42, thân bài bánh chưng + lì xì
+
+| Vai | Lời thoại |
+|---|---|
+| Đại | <ruby>次<rt>つぎ</rt></ruby>のスライドです。<ruby>1<rt>いっ</rt></ruby><ruby>週間<rt>しゅうかん</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>家<rt>いえ</rt></ruby>を<ruby>大掃除<rt>おおそうじ</rt></ruby>します。<ruby>古<rt>ふる</rt></ruby>いものを<ruby>捨<rt>す</rt></ruby>てて<ruby>新<rt>あたら</rt></ruby>しい<ruby>年<rt>とし</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えるためです。<br>*(Slide tiếp. 1 tuần trước Tết dọn nhà. Để bỏ cũ đón mới.)* |
+| Đại | （スライド<ruby>6<rt>ろく</rt></ruby><ruby>表示<rt>ひょうじ</rt></ruby>）これが<ruby>伝統<rt>でんとう</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>のバインチュンです。<ruby>北部<rt>ほくぶ</rt></ruby>は<ruby>四角<rt>しかく</rt></ruby>、<ruby>南部<rt>なんぶ</rt></ruby>は<ruby>円柱<rt>えんちゅう</rt></ruby><ruby>形<rt>けい</rt></ruby>のバインテットです。<br>*(Hiện slide 6. Đây là món truyền thống bánh chưng. Miền Bắc vuông, miền Nam tròn dài là bánh tét.)* |
+| Đại | <ruby>材料<rt>ざいりょう</rt></ruby>はもち<ruby>米<rt>ごめ</rt></ruby>、<ruby>豚肉<rt>ぶたにく</rt></ruby>、<ruby>緑豆<rt>りょくとう</rt></ruby>、バナナの<ruby>葉<rt>は</rt></ruby>。<ruby>10<rt>じゅう</rt></ruby><ruby>時間<rt>じかん</rt></ruby><ruby>煮<rt>に</rt></ruby>ます。<br>*(Nguyên liệu: gạo nếp, thịt heo, đậu xanh, lá chuối. Luộc 10 tiếng.)* |
 | Yifan | え、<ruby>10<rt>じゅう</rt></ruby><ruby>時間<rt>じかん</rt></ruby>！？<br>*(Ơ, 10 tiếng!?)* |
-| Đại | はい！<ruby>家族<rt>かぞく</rt></ruby>が<ruby>夜<rt>よる</rt></ruby><ruby>火<rt>ひ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りに<ruby>集<rt>あつ</rt></ruby>まります。<ruby>大事<rt>だいじ</rt></ruby>な<ruby>瞬間<rt>しゅんかん</rt></ruby>です。<br>*(Vâng! Cả nhà tụ quanh bếp lửa đêm. Khoảnh khắc quý.)* |
-| Đại | （スライド<ruby>9<rt>きゅう</rt></ruby> - lì xì）<ruby>子供<rt>こども</rt></ruby>に<ruby>赤<rt>あか</rt></ruby>い<ruby>封筒<rt>ふうとう</rt></ruby>「リーシー」を<ruby>渡<rt>わた</rt></ruby>します。<br>*(Trao trẻ em phong bao đỏ "lì xì".)* |
-| Aung | お<ruby>年玉<rt>としだま</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じですか？<br>*(Giống o-toshidama không?)* |
-| Đại | はい！<ruby>共通<rt>きょうつう</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>です！<br>*(Vâng! Văn hoá chung!)* |
-| Đại | （スライド<ruby>10<rt>じゅう</rt></ruby> - so sánh）<br>*(S10.)* |
-| Đại | <ruby>共通点<rt>きょうつうてん</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まり、<ruby>大掃除<rt>おおそうじ</rt></ruby>をし、<ruby>子供<rt>こども</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>すこと。<br>*(Điểm chung: tụ họp, vệ sinh, lì xì.)* |
-| Đại | <ruby>相違点<rt>そういてん</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>が<ruby>新暦<rt>しんれき</rt></ruby><ruby>1<rt>いち</rt></ruby><ruby>月<rt>がつ</rt></ruby><ruby>1<rt>つい</rt></ruby><ruby>日<rt>たち</rt></ruby>、ベトナムは<ruby>旧暦<rt>きゅうれき</rt></ruby><ruby>1<rt>いち</rt></ruby><ruby>月末<rt>がつまつ</rt></ruby>～<ruby>2<rt>に</rt></ruby><ruby>月始<rt>がつはじ</rt></ruby>めです。<br>*(Khác: Nhật dương 1/1. VN âm cuối 1 đầu 2.)* |
-| Đại | （スライド<ruby>11<rt>じゅういち</rt></ruby> - cảm tưởng）<br>*(S11.)* |
-| Đại | <ruby>2025<rt>にせんにじゅうご</rt></ruby><ruby>年<rt>ねん</rt></ruby>のテトは<ruby>初<rt>はじ</rt></ruby>めて<ruby>家<rt>いえ</rt></ruby>から<ruby>離<rt>はな</rt></ruby>れます。<ruby>少<rt>すこ</rt></ruby>し<ruby>寂<rt>さび</rt></ruby>しいです。でも<ruby>大阪<rt>おおさか</rt></ruby>でベトナムの<ruby>友達<rt>ともだち</rt></ruby>と<ruby>祝<rt>いわ</rt></ruby>う<ruby>予定<rt>よてい</rt></ruby>です。<br>*(2025 lần đầu Tết xa nhà. Hơi buồn. Nhưng dự định ăn với bạn Việt ở Osaka.)* |
-| Đại | （スライド<ruby>12<rt>じゅうに</rt></ruby>）まとめ：<ruby>家族<rt>かぞく</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>＋<ruby>新<rt>あたら</rt></ruby>しい<ruby>年<rt>とし</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>願<rt>ねが</rt></ruby>い。ご<ruby>清聴<rt>せいちょう</rt></ruby>ありがとうございました！<br>*(Tổng kết: gia đình quan trọng + năm mới ước nguyện mới. Cảm ơn đã lắng nghe!)* |
-| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby><ruby>大<rt>おお</rt></ruby>きく）<br>*(Vỗ tay to.)* |
+| Đại | はい！<ruby>夜<rt>よる</rt></ruby><ruby>家族<rt>かぞく</rt></ruby>が<ruby>火<rt>ひ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りに<ruby>集<rt>あつ</rt></ruby>まって、<ruby>話<rt>はな</rt></ruby>しながら<ruby>待<rt>ま</rt></ruby>ちます。<ruby>子供<rt>こども</rt></ruby>の<ruby>頃<rt>ころ</rt></ruby>の<ruby>一番<rt>いちばん</rt></ruby>の<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>です。<br>*(Vâng! Đêm cả nhà tụ quanh bếp lửa, vừa luộc vừa nói chuyện. Là kỷ niệm đẹp nhất hồi nhỏ.)* |
+| Đại | （スライド<ruby>9<rt>きゅう</rt></ruby>）<ruby>元日<rt>がんじつ</rt></ruby>から<ruby>3<rt>みっ</rt></ruby><ruby>日<rt>か</rt></ruby><ruby>間<rt>かん</rt></ruby>、<ruby>子供<rt>こども</rt></ruby>に<ruby>赤<rt>あか</rt></ruby>い<ruby>封筒<rt>ふうとう</rt></ruby>「リーシー」を<ruby>渡<rt>わた</rt></ruby>します。<ruby>日本<rt>にほん</rt></ruby>のお<ruby>年玉<rt>としだま</rt></ruby>と<ruby>似<rt>に</rt></ruby>ています。<br>*(Slide 9. Từ mùng 1 đến mùng 3, tặng phong bao đỏ "lì xì" cho trẻ em. Giống o-toshidama Nhật.)* |
 
 ---
 
-## Tình huống 10 — Q&A · 13:42-13:47
+## Tình huống 11 — Phòng lớp B · 13:42-13:47, Q&A 5 phút
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Yamada | Q&Aは<ruby>5<rt>ご</rt></ruby><ruby>分<rt>ふん</rt></ruby>です。<br>*(Q&A 5 phút.)* |
-| Yifan | バインチュンを<ruby>食<rt>た</rt></ruby>べてみたい！<ruby>大阪<rt>おおさか</rt></ruby>で<ruby>買<rt>か</rt></ruby>えますか？<br>*(Muốn ăn thử! Mua được ở Osaka không?)* |
-| Đại | <ruby>大阪<rt>おおさか</rt></ruby>のベトナム<ruby>食材店<rt>しょくざいてん</rt></ruby> (Bến Thành Market <ruby>難波<rt>なんば</rt></ruby>) で<ruby>買<rt>か</rt></ruby>えます。テトの<ruby>季節<rt>きせつ</rt></ruby>は<ruby>2<rt>に</rt></ruby><ruby>月<rt>がつ</rt></ruby><ruby>初<rt>はじ</rt></ruby>めに<ruby>予約<rt>よやく</rt></ruby><ruby>必須<rt>ひっす</rt></ruby>です。<br>*(Mua được tại tiệm thực phẩm Việt Bến Thành Namba. Mùa Tết phải đặt trước đầu tháng 2.)* |
-| Sumi | お<ruby>年玉<rt>としだま</rt></ruby>の<ruby>金額<rt>きんがく</rt></ruby>はどのくらいですか？<br>*(Giá lì xì khoảng bao nhiêu?)* |
-| Đại | <ruby>子供<rt>こども</rt></ruby><ruby>1<rt>ひと</rt></ruby><ruby>人<rt>り</rt></ruby>あたり<ruby>50<rt>ごじゅう</rt></ruby>～<ruby>500<rt>ごひゃく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>相当<rt>そうとう</rt></ruby>です。<br>*(Mỗi trẻ 50-500 yên tương đương.)* |
-| Aung | <ruby>赤<rt>あか</rt></ruby>い<ruby>封筒<rt>ふうとう</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>は？<br>*(Ý nghĩa phong bao đỏ?)* |
-| Đại | <ruby>赤<rt>あか</rt></ruby>は<ruby>幸運<rt>こううん</rt></ruby>と<ruby>邪気払<rt>じゃきばら</rt></ruby>いを<ruby>意味<rt>いみ</rt></ruby>します。<ruby>中国<rt>ちゅうごく</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じです。<br>*(Đỏ = may mắn + xua tà. Giống Trung Quốc.)* |
-| Yamada | <ruby>最後<rt>さいご</rt></ruby>の<ruby>1<rt>ひと</rt></ruby>つ:ベトナム<ruby>北部<rt>ほくぶ</rt></ruby>と<ruby>南部<rt>なんぶ</rt></ruby>のテトは<ruby>違<rt>ちが</rt></ruby>いますか？<br>*(Cuối 1: Tết Bắc Nam khác nhau không?)* |
-| Đại | はい！<ruby>北部<rt>ほくぶ</rt></ruby>は<ruby>桃<rt>もも</rt></ruby>の<ruby>花<rt>はな</rt></ruby>とバインチュン。<ruby>南部<rt>なんぶ</rt></ruby>は<ruby>黄色<rt>きいろ</rt></ruby>いホアマイ（<ruby>日本<rt>にほん</rt></ruby>の<ruby>梅<rt>うめ</rt></ruby>とは<ruby>違<rt>ちが</rt></ruby>う、Ochna integerrima）とバインテット。<ruby>気候<rt>きこう</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>うからです。<br>*(Vâng! Bắc: hoa đào + bánh chưng. Nam: hoa mai vàng (Ochna integerrima, khác hoa mơ Nhật) + bánh tét. Vì khí hậu khác.)* |
-| Yamada | （<ruby>頷<rt>うなず</rt></ruby>く）よく<ruby>調<rt>しら</rt></ruby>べましたね。<br>*(Gật. Tra cứu kỹ đấy.)* |
-| Nhân vật | （<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay.)* |
+| Yamada | では、Q&Aに<ruby>入<rt>はい</rt></ruby>ります。<br>*(Vậy chuyển sang Q&A.)* |
+| Yifan | バインチュンを<ruby>大阪<rt>おおさか</rt></ruby>で<ruby>食<rt>た</rt></ruby>べたいんですけど、どこで<ruby>買<rt>か</rt></ruby>えますか？<br>*(Tôi muốn ăn bánh chưng ở Osaka, mua được ở đâu?)* |
+| Đại | はい、<ruby>難波<rt>なんば</rt></ruby>のベトナム<ruby>食材店<rt>しょくざいてん</rt></ruby>「ベンタイン<ruby>市場<rt>いちば</rt></ruby>」で<ruby>買<rt>か</rt></ruby>えます。テトの<ruby>時期<rt>じき</rt></ruby>は<ruby>2<rt>に</rt></ruby><ruby>月<rt>がつ</rt></ruby><ruby>初<rt>はじ</rt></ruby>めに<ruby>予約<rt>よやく</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。<br>*(Vâng, mua được ở tiệm thực phẩm Việt "chợ Bến Thành" tại Namba. Mùa Tết phải đặt trước đầu tháng 2.)* |
+| Sumi | お<ruby>年玉<rt>としだま</rt></ruby>の<ruby>金額<rt>きんがく</rt></ruby>はどれくらいですか？<br>*(Lì xì khoảng bao nhiêu?)* |
+| Đại | <ruby>子供<rt>こども</rt></ruby><ruby>1<rt>ひと</rt></ruby><ruby>人<rt>り</rt></ruby>あたり<ruby>50<rt>ごじゅう</rt></ruby><ruby>円<rt>えん</rt></ruby>から<ruby>500<rt>ごひゃく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>相当<rt>そうとう</rt></ruby>です。<ruby>金額<rt>きんがく</rt></ruby>より<ruby>気持<rt>きも</rt></ruby>ちが<ruby>大事<rt>だいじ</rt></ruby>です。<br>*(Mỗi trẻ tương đương 50-500 yên. Tấm lòng quan trọng hơn số tiền.)* |
+| Aung | <ruby>赤<rt>あか</rt></ruby>い<ruby>封筒<rt>ふうとう</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？<br>*(Ý nghĩa phong bao đỏ là gì?)* |
+| Đại | <ruby>赤<rt>あか</rt></ruby>は<ruby>幸運<rt>こううん</rt></ruby>と<ruby>邪気<rt>じゃき</rt></ruby><ruby>払<rt>ばら</rt></ruby>いを<ruby>意味<rt>いみ</rt></ruby>します。<ruby>中国<rt>ちゅうごく</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>です。<br>*(Đỏ tượng trưng may mắn và xua tà. Ảnh hưởng văn hoá Trung Quốc.)* |
+| Yamada | <ruby>最後<rt>さいご</rt></ruby>に<ruby>1<rt>ひと</rt></ruby>つ。<ruby>北部<rt>ほくぶ</rt></ruby>と<ruby>南部<rt>なんぶ</rt></ruby>のテトはどう<ruby>違<rt>ちが</rt></ruby>いますか？<br>*(Câu cuối. Tết Bắc Nam khác nhau thế nào?)* |
+| Đại | <ruby>北部<rt>ほくぶ</rt></ruby>は<ruby>桃<rt>もも</rt></ruby>の<ruby>花<rt>はな</rt></ruby>とバインチュンです。<ruby>南部<rt>なんぶ</rt></ruby>は<ruby>黄色<rt>きいろ</rt></ruby>いホアマイの<ruby>花<rt>はな</rt></ruby>とバインテットです。<ruby>気候<rt>きこう</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>うからです。<br>*(Bắc: hoa đào + bánh chưng. Nam: hoa mai vàng + bánh tét. Vì khí hậu khác.)* |
+| Đại | ご<ruby>清聴<rt>せいちょう</rt></ruby>ありがとうございました！<br>*(Cảm ơn quý vị đã lắng nghe!)* |
+| Cả lớp | （<ruby>大<rt>おお</rt></ruby>きな<ruby>拍手<rt>はくしゅ</rt></ruby>）<br>*(Vỗ tay to.)* |
 
 ---
 
-## Tình huống 11 — Yamada feedback + chấm · 14:00
+## Tình huống 12 — Phòng giáo viên · 14:00, Yamada góp ý + chấm điểm
 
-| Speaker | Lời thoại |
+| Vai | Lời thoại |
 |---|---|
-| Yamada | ダイ<ruby>君<rt>くん</rt></ruby>、<ruby>素晴<rt>すば</rt></ruby>らしいです！<br>*(Đại, tuyệt vời!)* |
-| Đại | ありがとうございます！<br>*(Cảm ơn ạ!)* |
-| Yamada | <ruby>採点<rt>さいてん</rt></ruby>です:<br>*(Chấm điểm:)* |
-| Yamada | <ruby>内容<rt>ないよう</rt></ruby> <ruby>38<rt>さんじゅうはち</rt></ruby>/<ruby>40<rt>よんじゅう</rt></ruby> (<ruby>具体的<rt>ぐたいてき</rt></ruby>で<ruby>比較<rt>ひかく</rt></ruby>もよし)<br>*(Nội dung 38/40.)* |
-| Yamada | <ruby>発音<rt>はつおん</rt></ruby> <ruby>27<rt>にじゅうなな</rt></ruby>/<ruby>30<rt>さんじゅう</rt></ruby> (<ruby>少<rt>すこ</rt></ruby>し<ruby>緊張<rt>きんちょう</rt></ruby><ruby>感<rt>かん</rt></ruby>あり)<br>*(Phát âm 27/30.)* |
-| Yamada | PPT <ruby>19<rt>じゅうきゅう</rt></ruby>/<ruby>20<rt>にじゅう</rt></ruby> (<ruby>写真<rt>しゃしん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>く<ruby>視覚<rt>しかく</rt></ruby><ruby>的<rt>てき</rt></ruby>)<br>*(PPT 19/20.)* |
-| Yamada | Q&A <ruby>9<rt>きゅう</rt></ruby>/<ruby>10<rt>じゅう</rt></ruby> (<ruby>明確<rt>めいかく</rt></ruby>な<ruby>回答<rt>かいとう</rt></ruby>)<br>*(Q&A 9/10.)* |
-| Yamada | <ruby>合計<rt>ごうけい</rt></ruby> <ruby>93<rt>きゅうじゅうさん</rt></ruby>/<ruby>100<rt>ひゃく</rt></ruby>。クラス<ruby>第<rt>だい</rt></ruby><ruby>1<rt>いち</rt></ruby><ruby>位<rt>い</rt></ruby>です。<br>*(Tổng 93/100. Hạng 1 lớp.)* |
-| Đại | （<ruby>嬉<rt>うれ</rt></ruby>しい）<br>*(Vui.)* |
-| Yifan | （<ruby>横<rt>よこ</rt></ruby>から）すごい！<br>*(Bên cạnh. Tuyệt!)* |
+| Yamada | ダイ<ruby>君<rt>くん</rt></ruby>、<ruby>素晴<rt>すば</rt></ruby>らしいプレゼンでした。<br>*(Đại, presentation tuyệt vời.)* |
+| Đại | ありがとうございます！<br>*(Em cảm ơn ạ!)* |
+| Yamada | <ruby>採点<rt>さいてん</rt></ruby>です。<ruby>内容<rt>ないよう</rt></ruby><ruby>38<rt>さんじゅうはち</rt></ruby>、<ruby>発音<rt>はつおん</rt></ruby><ruby>27<rt>にじゅうなな</rt></ruby>、スライド<ruby>19<rt>じゅうきゅう</rt></ruby>、Q&A<ruby>9<rt>きゅう</rt></ruby>。<ruby>合計<rt>ごうけい</rt></ruby><ruby>93<rt>きゅうじゅうさん</rt></ruby><ruby>点<rt>てん</rt></ruby>です。<br>*(Chấm điểm. Nội dung 38, phát âm 27, slide 19, Q&A 9. Tổng 93 điểm.)* |
+| Đại | え、<ruby>93<rt>きゅうじゅうさん</rt></ruby><ruby>点<rt>てん</rt></ruby>！ありがとうございます！<br>*(Ơ, 93 điểm! Em cảm ơn ạ!)* |
+| Yamada | クラスで<ruby>第<rt>だい</rt></ruby><ruby>1<rt>いっ</rt></ruby><ruby>位<rt>い</rt></ruby>です。<ruby>特<rt>とく</rt></ruby>に<ruby>北<rt>きた</rt></ruby>と<ruby>南<rt>みなみ</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>いの<ruby>説明<rt>せつめい</rt></ruby>が<ruby>具体的<rt>ぐたいてき</rt></ruby>でよかったです。<br>*(Hạng 1 lớp. Đặc biệt phần giải thích Bắc Nam cụ thể, tốt lắm.)* |
+| Đại | <ruby>改善点<rt>かいぜんてん</rt></ruby>はありますか？<br>*(Có điểm cần cải thiện không ạ?)* |
+| Yamada | <ruby>2<rt>ふた</rt></ruby>つあります。<ruby>1<rt>いち</rt></ruby>、<ruby>緊張<rt>きんちょう</rt></ruby>のせいか<ruby>早口<rt>はやくち</rt></ruby>になる<ruby>場面<rt>ばめん</rt></ruby>がありました。<ruby>2<rt>に</rt></ruby>、スライドの<ruby>文字<rt>もじ</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>小<rt>ちい</rt></ruby>さかったです。<ruby>後<rt>うし</rt></ruby>ろの<ruby>席<rt>せき</rt></ruby>から<ruby>見<rt>み</rt></ruby>えにくいです。<br>*(2 điểm. 1: căng nên có lúc nói nhanh. 2: chữ slide hơi nhỏ. Phía sau khó nhìn.)* |
+| Đại | <ruby>承知<rt>しょうち</rt></ruby>しました。<ruby>次<rt>つぎ</rt></ruby>に<ruby>活<rt>い</rt></ruby>かします。<br>*(Em rõ rồi ạ. Lần sau em sẽ áp dụng.)* |
 
 ---
 
-## Tình huống 12 — Đêm reflect · 22:00
+## Tình huống 13 — Cảnh tiếng Việt · 22:00, Đại gọi mẹ + Mai báo tin 93 điểm
 
-| Speaker | Lời thoại |
+> Cảnh tiếng Việt — Đại video call về VN, mẹ và Mai cùng ngồi xem.
+
+| Vai | Lời thoại |
 |---|---|
-| Đại | (VN, nhật ký) 7/2024. Thuyết trình Tết VN trước lớp xong.<br>*(Xong.)* |
-| Đại | (VN) 93/100. Hạng 1 lớp.<br>*(Hạng 1.)* |
-| Đại | (VN) Yamada-sensei khen. Cả nhóm khâm phục.<br>*(Khâm.)* |
-| Đại | (VN) Tony+Yumi kèm 5 ngày. Tập 10 lần.<br>*(10 lần.)* |
-| Đại | (VN) Học được: cấu trúc 5 bước, slide trực quan, tập nói to.<br>*(Học.)* |
-| Đại | (VN) Tự tin hơn. Nói trước đám đông tiếng Nhật khả thi.<br>*(Khả thi.)* |
-| Tony | （<ruby>覗<rt>のぞ</rt></ruby>く）どうだった？<br>*(Ngó vào. Sao rồi?)* |
-| Đại | <ruby>1<rt>いっ</rt></ruby><ruby>位<rt>い</rt></ruby>でした！<br>*(Hạng 1 ạ!)* |
-| Tony | やった！<br>*(Tuyệt!)* |
+| Đại | (tiếng Việt) Mẹ ơi! Mai ơi! Con/anh thuyết trình xong rồi! |
+| Mẹ Đại | (tiếng Việt) Sao rồi con? Có run không? |
+| Đại | (tiếng Việt) Run lắm mẹ. Nhưng được 93 điểm, hạng 1 lớp! |
+| Mẹ Đại | (tiếng Việt) Trời ơi! Hạng 1 hả con! Mẹ tự hào! |
+| Mai | (tiếng Việt) Anh giỏi quá! Anh nói gì mà 93 điểm? |
+| Đại | (tiếng Việt) Anh nói Tết Việt — bánh chưng, lì xì, đào miền Bắc mai miền Nam. So sánh với O-shogatsu Nhật. Có bạn Yifan Trung Quốc hỏi "10 tiếng luộc bánh chưng thật à?". |
+| Mẹ Đại | (tiếng Việt) Thật chứ. Năm nào mẹ với bà ngoại cũng luộc đêm 28. |
+| Đại | (tiếng Việt) Mẹ ơi, mẹ tìm hộ con cái ảnh hồi 2018 con với bố luộc bánh, gửi qua LINE để con lưu vào slide nhé. |
+| Mẹ Đại | (tiếng Việt) Ừ, mai mẹ tìm. À, Tết 2025 con về không? |
+| Đại | (tiếng Việt) Không về được mẹ. Visa du học chưa nên về lại. Con ăn Tết với Tuấn và mấy bạn Việt ở Osaka. |
+| Mai | (tiếng Việt) Sang năm anh về luôn. Em đợi. |
+| Đại | (tiếng Việt) Ừ. Cảm ơn em với mẹ. Yamada-sensei khen, Tony cô Yumi cũng vui. |
 
 ---
 
-## Bảng từ vựng
+## Đọng lại chương 6
 
-| Từ | Kana | Nghĩa |
-|---|---|---|
-| プレゼン | プレゼン | Thuyết trình |
-| 文化交流 | ぶんかこうりゅう | Trao đổi văn hoá |
-| 構成 | こうせい | Cấu trúc |
-| 導入 | どうにゅう | Mở đầu |
-| 背景 | はいけい | Bối cảnh |
-| 主内容 | しゅないよう | Chính |
-| 比較 | ひかく | So sánh |
-| まとめ | まとめ | Tổng |
-| 採点基準 | さいてんきじゅん | Chuẩn chấm |
-| パワーポイント | パワーポイント | PowerPoint |
-| 旧暦正月 | きゅうれきしょうがつ | Năm mới âm lịch |
-| 大掃除 | おおそうじ | Đại vệ sinh |
-| バインチュン | バインチュン | Bánh chưng |
-| お年玉 | おとしだま | Lì xì Nhật |
-| 共通点 | きょうつうてん | Điểm chung |
-| 相違点 | そういてん | Điểm khác |
-| 邪気払い | じゃきばらい | Xua tà |
-| 桃の花 | もものはな | Hoa đào |
-| ホアマイ (Ochna integerrima) | ホアマイ | Hoa mai vàng VN miền Nam (khác 梅 ume Nhật) |
-| ご清聴ありがとうございました | ごせいちょうありがとうございました | Cảm ơn lắng nghe |
+Đại trải qua project thuyết trình văn hoá đầu tiên ở trường tiếng — 10 ngày chuẩn bị, 8 lần tập với Tony và Yumi, 2 lần với Tuấn. Học được **mẫu câu mở** (本日のテーマは〜です・スライド〜をご覧ください), **mẫu thân bài** (次のスライドです・これが〜です), **mẫu kết** (ご清聴ありがとうございました), **mẫu xin gia hạn** (〜遅らせていただけませんか・必ず間に合わせます), **mẫu hỏi lại trong Q&A** (もう一度お願いします), **mẫu so sánh văn hoá** (〜と似ています・〜と違います・共通点は〜・相違点は〜). Bonus học **構成5段階** (mở-bối cảnh-chính-so sánh-tổng kết) và 4 tiêu chí chấm (内容40・発音30・スライド20・Q&A10). Kết quả 93/100, hạng 1 lớp. Yamada góp ý 2 điểm cần cải thiện: tốc độ nói + cỡ chữ slide. Tự tin trước đám đông tiếng Nhật tăng vọt.
+
+> Từ vựng & mẫu câu chương này: 本日のテーマは・スライドをご覧ください・ご清聴ありがとうございました・次のスライドです・もう一度お願いします・〜と似ています・共通点・相違点・構成・導入・背景・主内容・比較・まとめ・採点基準・内容・発音・対応・旧暦正月・大掃除・バインチュン・バインテット・お年玉・邪気払い・ホアマイ・桃の花・気候・遅らせていただけませんか・間に合わせます
 
 ## Bí quyết chương
 
-- **Cấu trúc đầy đủ**: User yêu cầu "thuyết trình cần thảo luận gì" — em viết 5 bước cụ thể.
-- **4 tiêu chí chấm**: Định dạng thực tế của trường tiếng.
-- **Outline 12 slide rõ ràng**: Người đọc có khuôn mẫu áp dụng.
-- **Q&A chi tiết**: 4 câu hỏi đa dạng (món ăn, tiền, biểu tượng màu, khác biệt vùng).
-- **Tony+Yumi hỗ trợ**: Vai trò gia đình lớn — tập + xem slide.
-- **93/100 hạng 1**: Thực tế + đáp lại nỗ lực.
-- **Bến Thành Market Namba**: Tham chiếu thật cho du học sinh VN tìm đồ Tết.
+- **構成5段階**: Cấu trúc chuẩn dạy trong trường tiếng — áp dụng được cho mọi presentation 10 phút.
+- **「〜というのは？」hỏi sensei**: Đại hỏi Yamada giữa giờ giảng — keigo an toàn nhất.
+- **Xin gia hạn deadline**: `〜遅らせていただけませんか` + lý do cụ thể + cam kết deadline mới — pattern chuẩn xin sensei.
+- **Tony-Yumi homestay**: Đứng vai trò khán giả thử + góp ý slide — phúc lợi homestay không ở ký túc nào có.
+- **Bến Thành Market Namba**: Tham chiếu thật cho du học sinh VN tại Osaka.
+- **ホアマイ (Ochna integerrima)**: Khác 梅 ume Nhật — chi tiết phân biệt cần nói rõ.
+- **93/100 hạng 1**: Phần thưởng 10 ngày tập.
 
-> *"Thuyết trình Tết VN. 93/100. Hạng 1. Tự tin nói trước đám đông."*
+---
+
+## Bảng từ vựng chương
+
+| Từ | Cách đọc | Hán Việt | Nghĩa tiếng Việt |
+|---|---|---|---|
+| 文化交流 | ぶんかこうりゅう | VĂN HOÁ GIAO LƯU | Trao đổi văn hoá |
+| プロジェクト | — | — | Dự án |
+| 母国 | ぼこく | MẪU QUỐC | Mẫu quốc |
+| 必須 | ひっす | TẤT TU | Bắt buộc |
+| 構成 | こうせい | CẤU THÀNH | Cấu trúc |
+| 段階 | だんかい | ĐOẠN GIAI | Giai đoạn, bước |
+| 導入 | どうにゅう | ĐẠO NHẬP | Mở đầu |
+| 背景 | はいけい | BỐI CẢNH | Bối cảnh |
+| 歴史 | れきし | LỊCH SỬ | Lịch sử |
+| 地理 | ちり | ĐỊA LÝ | Địa lý |
+| 比較 | ひかく | TỶ GIÁC | So sánh |
+| まとめ | — | — | Tổng kết |
+| 採点基準 | さいてんきじゅん | THẢI ĐIỂM CƠ CHUẨN | Tiêu chí chấm điểm |
+| 内容 | ないよう | NỘI DUNG | Nội dung |
+| スライド | — | — | Slide |
+| 候補 | こうほ | HẦU BỔ | Ứng viên, lựa chọn |
+| 湾 | わん | LOAN | Vịnh |
+| 南北 | なんぼく | NAM BẮC | Nam Bắc |
+| 違い | ちがい | VI | Khác biệt |
+| 賛成 | さんせい | TÁN THÀNH | Đồng ý |
+| 興味 | きょうみ | HỨNG VỊ | Hứng thú |
+| 提出期限 | ていしゅつきげん | ĐỀ XUẤT KỲ HẠN | Hạn nộp |
+| 古い | ふるい | CỔ | Cũ |
+| アルバム | — | — | Album |
+| 探す | さがす | THÁM | Tìm kiếm |
+| 遅らせる | おくらせる | TRÌ | Hoãn lại |
+| 本番 | ほんばん | BẢN PHIÊN | Buổi chính thức |
+| 間に合わせる | まにあわせる | GIAN HỢP | Kịp thời |
+| 行事 | ぎょうじ | HÀNH SỰ | Sự kiện |
+| 白菜 | はくさい | BẠCH THÁI | Cải thảo |
+| 漬ける | つける | TÝ | Ngâm muối |
+| 拍手 | はくしゅ | PHÁCH THỦ | Vỗ tay |
+| ご清聴 | ごせいちょう | THANH THÍNH | Sự lắng nghe (kính ngữ) |
+| 男性 | だんせい | NAM TÍNH | Nam giới |
+| 旧暦 | きゅうれき | CỰU LỊCH | Âm lịch |
+| 正月 | しょうがつ | CHÍNH NGUYỆT | Tết, năm mới |
+| 共通点 | きょうつうてん | CỘNG THÔNG ĐIỂM | Điểm chung |
+| 相違点 | そういてん | TƯƠNG VI ĐIỂM | Điểm khác |
+| 表 | ひょう | BIỂU | Bảng |
+| 大掃除 | おおそうじ | ĐẠI TẢO TRỪ | Tổng vệ sinh |
+| 伝統料理 | でんとうりょうり | TRUYỀN THỐNG LIỆU LÝ | Món truyền thống |
+| 北部 | ほくぶ | BẮC BỘ | Miền Bắc |
+| 四角 | しかく | TỨ GIÁC | Hình vuông |
+| 南部 | なんぶ | NAM BỘ | Miền Nam |
+| 円柱形 | えんちゅうけい | VIÊN TRỤ HÌNH | Hình trụ tròn |
+| もち米 | もちごめ | MỄ | Gạo nếp |
+| 緑豆 | りょくとう | LỤC ĐẬU | Đậu xanh |
+| 葉 | は | DIỆP | Lá |
+| 元日 | がんじつ | NGUYÊN NHẬT | Mùng 1 |
+| 封筒 | ふうとう | PHONG ĐỒNG | Phong bao |
+| お年玉 | おとしだま | NIÊN NGỌC | Tiền lì xì |
+| 食材店 | しょくざいてん | THỰC TÀI ĐIẾM | Cửa hàng thực phẩm |
+| 予約 | よやく | DỰ ƯỚC | Đặt trước |
+| 金額 | きんがく | KIM NGẠCH | Số tiền |
+| 相当 | そうとう | TƯƠNG ĐƯƠNG | Tương đương |
+| 気持ち | きもち | KHÍ TRÌ | Tấm lòng, cảm xúc |
+| 幸運 | こううん | HẠNH VẬN | May mắn |
+| 邪気払い | じゃきばらい | TÀ KHÍ BÁT | Xua tà |
+| 影響 | えいきょう | ẢNH HƯỞNG | Ảnh hưởng |
+| 桃の花 | もものはな | ĐÀO HOA | Hoa đào |
+| 黄色い | きいろい | HOÀNG SẮC | Màu vàng |
+| 気候 | きこう | KHÍ HẬU | Khí hậu |
+| 採点 | さいてん | THẢI ĐIỂM | Chấm điểm |
+| 改善点 | かいぜんてん | CẢI THIỆN ĐIỂM | Điểm cải thiện |
+| 早口 | はやくち | TỐC KHẨU | Nói nhanh |
+| 場面 | ばめん | TRƯỜNG DIỆN | Cảnh, đoạn |
+| 文字 | もじ | VĂN TỰ | Chữ |
+| 席 | せき | TỊCH | Chỗ ngồi |
+| 活かす | いかす | HOẠT | Vận dụng, áp dụng |

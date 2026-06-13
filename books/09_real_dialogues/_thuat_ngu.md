@@ -18,21 +18,21 @@
 | FE | Frontend (Engineering) | Lập trình giao diện phía người dùng |
 | FSA | Financial Services Agency | Cơ quan quản lý dịch vụ tài chính Nhật Bản (金融庁) |
 | HCMC | Ho Chi Minh City | Thành phố Hồ Chí Minh |
-| HQ | Headquarters | Trụ sở chính / văn phòng tổng |
+| HQ | Headquarters | Trụ sở chính |
 | IBM | IBM (International Business Machines) | Tập đoàn công nghệ IBM |
 | IP | Intellectual Property | Tài sản trí tuệ / sở hữu trí tuệ |
 | ISO | International Organization for Standardization | Tổ chức tiêu chuẩn hóa quốc tế |
 | IT | Information Technology | Công nghệ thông tin |
 | JAL | Japan Airlines | Hãng hàng không Japan Airlines |
 | JR | Japan Railways | Hệ thống đường sắt quốc gia Nhật Bản |
-| KPI | Key Performance Indicator | Chỉ số đánh giá hiệu suất chính |
+| KPI | Key Performance Indicator | Chỉ số đo lường hiệu suất mục tiêu |
 | MC | Master of Ceremonies / Emcee | Người dẫn chương trình |
 | NHK | Nippon Hoso Kyokai (日本放送協会) | Đài truyền hình / phát thanh quốc gia Nhật Bản |
 | OB | Out of Bounds | Bóng ra ngoài giới hạn sân (thuật ngữ golf) |
 | PM | Project Manager | Quản lý dự án |
 | PMO | Project Management Office | Văn phòng quản lý dự án |
-| POC | Proof of Concept | Thử nghiệm khả thi / minh chứng khái niệm |
-| PR | Public Relations | Quan hệ công chúng / truyền thông đối ngoại |
+| POC | Proof of Concept | Thử nghiệm kiểm chứng tính khả thi |
+| PR | Public Relations | Quan hệ công chúng |
 | QR | QR Code (Quick Response Code) | Mã QR (mã phản hồi nhanh) |
 | RSVP | Répondez S'il Vous Plaît (tiếng Pháp) | Xác nhận tham dự (phúc đáp thiệp mời) |
 | SLA | Service Level Agreement | Cam kết mức độ dịch vụ |

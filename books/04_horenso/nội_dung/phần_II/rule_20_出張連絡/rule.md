@@ -18,7 +18,7 @@ Em Dũng được anh Hà CTO cử sang Tokyo 3 ngày để demo Phase 2 cho anh
 
 *thứ 5 17h, Slack*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「皆さん、来週月曜から3日東京出張です。」 |
 | **トゥアン** | 「ズン、何のため？私が引き継ぐ部分は？日本との時差中、Slack 見れる？」 |
@@ -33,7 +33,7 @@ Em Dũng được anh Hà CTO cử sang Tokyo 3 ngày để demo Phase 2 cho anh
 
 *mail subject: "【出張連絡】5/13-5/15 東京 / 白鷗様向け Phase 2 デモ" · reply*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | (Body theo template) |
 | **トゥアン** | 「了解。Phase 3 仕様検討は私が代行します。デモ資料の最終 review、明日金曜にやろう。」 |

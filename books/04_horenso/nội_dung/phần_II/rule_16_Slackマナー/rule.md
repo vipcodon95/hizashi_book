@@ -18,7 +18,7 @@ Em Dũng vào Slack workspace chung với khách Hakuō. 田中 PMO (anh Tanaka)
 
 *Slack #phase3, 23:30 thứ 6 · 8:15 thứ 7 sáng*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「**@channel** リンク確認お願いします。https://docs.../spec_v3」 |
 | **田中PMO** | 「ズンさん、おはようございます。お疲れ様です。@channel は **本番障害など緊急時のみ** 使う運用ルールがございます【1】。今回は @here、または特定メンバーへのメンションが適切かと存じます。」 |
@@ -33,7 +33,7 @@ Em Dũng vào Slack workspace chung với khách Hakuō. 田中 PMO (anh Tanaka)
 
 *Slack #phase3, 14:00 · thread reply · thread reply · thread reply · 15:30, thread*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「**@here** Phase 3 仕様書 v3 をアップロードしました。本日中にご確認をお願いいたします【1】。https://docs.../spec_v3」 |
 | **田中PMO** | 「確認いたします。」 |

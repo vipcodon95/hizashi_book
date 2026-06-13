@@ -16,7 +16,7 @@ Em Linh (intern Marketing) gặp vấn đề: nhà cung cấp print brochure bá
 
 ## ❌ Hội thoại XẤU — đến tay không
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | 「ズンさん、ちょっとご相談…印刷会社が3日遅れるって言ってるんですけど、どうしたらいいですか?」 |
 | **ズン** | 「いつ連絡来た?どこの印刷会社?何が遅れる?代替業者は探した?他のチームは過去に同じ問題なかった?」 |
@@ -29,7 +29,7 @@ Em Linh (intern Marketing) gặp vấn đề: nhà cung cấp print brochure bá
 
 ## ✅ Hội thoại TỐT — chuẩn bị 3 bộ vật liệu
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | 「ズンさん、ご相談したいことがあるのですが、5分ほどお時間よろしいでしょうか?事前に状況・参考事例・仮説をまとめてあります【1】。」 |
 | **ズン** | 「ばっちり、聞きます。」 |

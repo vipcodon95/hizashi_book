@@ -18,7 +18,7 @@ Pitch Phase 3 sắp kết thúc. Q&A đã xong. Chuẩn bị closing slide. Khá
 
 *slide cuối: "Thank you" · thư ký*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「以上です。本日はお時間いただきありがとうございました。」 |
 | **大垣** | 「…で、次は？」 |
@@ -34,7 +34,7 @@ Pitch Phase 3 sắp kết thúc. Q&A đã xong. Chuẩn bị closing slide. Khá
 
 *slide "本日のまとめ" · slide "次のステップ"*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「では、**本日のまとめ** をさせていただきます【1】。」 |
 | **ズン** | 「**3点** ございます。①Phase 3 スコープは **19機能、5/15 開始 / 12/15 リリース**、②価格は **1200万円**(Phase 2 比単価 -8%)、③責任者ペアは **弊社ズン＋御社松本様**でございます。」 — Recap |

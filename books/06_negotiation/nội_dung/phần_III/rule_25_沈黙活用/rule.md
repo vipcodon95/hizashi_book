@@ -18,7 +18,7 @@ Trong phòng đàm phán, sau khi Dũng quote ¥18M anchor (rule 18), 大垣 im 
 
 *沈黙 4 秒、考え · 不安、口開く · 微笑 · 顔色*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「Better tier ¥18M、ROI 4.4 倍に位置します。」 |
 | **大垣** | 「…」 |
@@ -34,7 +34,7 @@ Trong phòng đàm phán, sau khi Dũng quote ¥18M anchor (rule 18), 大垣 im 
 
 *右手を膝に置く — 事前合意の signal rule 07 · 沈黙 1 秒 · 口開きかけ、ズン signal 確認、止まる · 沈黙 3 秒 · 沈黙 5 秒 · 7 秒経過 · 内心: 7 秒勝った*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「Better tier ¥18M、ROI 4.4 倍に位置します。」 |
 | **ズン** | (沈黙) |

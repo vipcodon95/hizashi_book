@@ -18,7 +18,7 @@ Sau khi Linh + Dũng đã exchange với Ōgaki riêng từng người (rule 02-
 
 *chìa danh thiếp 2 tay ngay tầm ngực · cũng chìa 2 tay cùng lúc, đụng vào tay Tuấn · rút lại, do dự · do dự*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアン** | 「ティエンファットのトゥアンです、よろしく…」 |
 | **松本** | 「あ…松本です…」 |
@@ -33,7 +33,7 @@ Sau khi Linh + Dũng đã exchange với Ōgaki riêng từng người (rule 02-
 
 *tay phải chìa danh thiếp **của mình** xuống thấp【1】, tay trái sẵn nhận ở trên · cũng đồng thời: phải chìa thấp, trái nhận cao · sau khi nhận bằng tay trái, đảo sang phải, đỡ 2 tay nâng ngang ngực*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアン** | 「ティエンファット 技術リーダーのトゥアンと申します。**頂戴いたします**【2】。」 |
 | **松本** | 「白鷗株式会社 PMの松本です。頂戴いたします。」 |

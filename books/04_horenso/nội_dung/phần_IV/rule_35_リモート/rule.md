@@ -18,7 +18,7 @@ Em Linh WFH thứ Tư 22/4 (vì sửa chữa nhà). Lần đầu Linh "im lặng
 
 *JP 14:00, Slack DM Linh · 15:00, không response · Slack DM zun · Slack DM Linh · 16:00 ようやく返信*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中PMO** | 「リンさん、ブロシュアの校正版いただけますか?」 |
 |  | (silence) |
@@ -34,7 +34,7 @@ Em Linh WFH thứ Tư 22/4 (vì sửa chữa nhà). Lần đầu Linh "im lặng
 
 *9:30, Slack #team-daily · 11:30, Slackステータス変更 · JP 14:00, Slack DM Linh · 14:15、returns from focus mode · 18:00, Slack #team-daily · Slack reply*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | 「**①朝会** 【Daily 4/22 WFH 🏠】Done: 昨日のブロシュア初稿 / Doing: 校正版 (今日中) / Blocked: なし / Next: 14:00 までに田中PMOへ送付【1】。**ステータス: 🟢 working until 18:00 ICT**【2】。」 |
 | **リン** | 「🍱 lunch 11:30-12:30」 |

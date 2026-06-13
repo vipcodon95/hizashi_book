@@ -19,7 +19,7 @@ Anh Matsumoto gọi báo lịch họp gấp với 5 con số (ngày, giờ, phò
 
 > 📞
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「お電話ありがとうございます。ズンでございます。」 |
 | **松本PM** | 「明日の14時、第3会議室、6名参加、資料は今日中に。」 |
@@ -34,7 +34,7 @@ Anh Matsumoto gọi báo lịch họp gấp với 5 con số (ngày, giờ, phò
 
 > 📞 *(em Dũng đã có bút sẵn trên bàn, ngay khi nhận thấy khách sẽ nói nhiều thông tin)*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「お電話ありがとうございます。ズンでございます。」 |
 | **松本PM** | 「明日の14時、第3会議室、6名参加、資料は今日中に。」 |
@@ -48,7 +48,7 @@ Anh Matsumoto gọi báo lịch họp gấp với 5 con số (ngày, giờ, phò
 
 ## 🔄 Biến thể — Khi không có bút sẵn (emergency)
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「申し訳ございません、メモの準備をさせていただきますので、少々お待ちいただけますでしょうか。」 |
 

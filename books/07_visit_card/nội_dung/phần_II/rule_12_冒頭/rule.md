@@ -18,7 +18,7 @@
 
 *9:40, vào ngay slide 1 · còn đang sắp xếp tài liệu, hơi vội · lúng túng, gọi Linh*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **フオン副部長** | 「では、Phase 3 のスコープを説明します。スライド1ご覧ください。Backend API は…」 |
 | **大垣** | 「あの、すみません、agenda はありますか？」 |
@@ -34,7 +34,7 @@
 
 *9:40, đứng dậy, bow 30° · đứng nhẹ, bow đáp · ngồi xuống, chỉ vào agenda giấy đã đặt sẵn trên bàn · intro round 6 người, mỗi người 30 giây — Hương → Tuấn → Dũng → Linh → Nakamura → Ōgaki → Matsumoto · speed chậm hơn online 10%【5】*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **フオン副部長** | 「**本日はお忙しい中、また長旅の中、HCMCまでお越しいただき、誠にありがとうございます**【1】。」 |
 | **大垣 + 中村 + 松本** | 「いえいえ、こちらこそ。」 |

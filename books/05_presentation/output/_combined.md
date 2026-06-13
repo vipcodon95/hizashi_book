@@ -595,7 +595,7 @@ Sau review của Hương, Dũng cộng thêm 4 slide phụ "for safety" → quay
 
 # Rule 07 — Backup plan (Plan B) / バックアップ計画
 
-> **Luận điểm.** Pre-pitch checklist phải có **5 backup**: ① PDF deck (USB + cloud), ② demo offline (local DB / mock), ③ mobile hotspot, ④ HDMI / USB-C / VGA adapter trio, ⑤ printed handout 5 bản. Tech failure không phải "nếu" mà là "khi nào". Plan B chuẩn bị trước = recovery 2 phút thay vì 15 phút.
+> **Luận điểm.** Pre-pitch checklist phải có **5 backup**: ① PDF deck (USB + cloud), ② demo offline (local DB / mock — dữ liệu giả lập), ③ mobile hotspot, ④ HDMI / USB-C / VGA adapter trio, ⑤ printed handout (tài liệu phát tay) 5 bản. Tech failure không phải "nếu" mà là "khi nào". Plan B chuẩn bị trước = recovery 2 phút thay vì 15 phút.
 >
 > プレゼン直前チェックリスト5点: ①PDFバックアップ、②オフラインデモ、③モバイルテザリング、④アダプタ3種、⑤印刷配布5部。トラブルは『if』ではなく『when』。準備済みなら2分で復旧。
 >
@@ -952,7 +952,7 @@ Sau self-intro, Dũng vào phần background. Slide 1 hiện 5 bullet "今日の
 
 # Rule 11 — Hook 3 patterns / フックの3パターン (story / data / question)
 
-> **Luận điểm.** 3 pattern hook chính: **(A) Story** (anecdote 30s), **(B) Data** (số shock), **(C) Question** (câu hỏi rhetorical). Pick 1 theo audience + topic. Khách Nhật conservative thường response best với **(B) Data** (an toàn) > (C) Question > (A) Story (rủi ro hơi US-style nếu không khéo).
+> **Luận điểm.** 3 pattern hook chính: **(A) Story** (câu chuyện ngắn, 30s), **(B) Data** (số shock), **(C) Question** (câu hỏi rhetorical). Pick 1 theo audience + topic. Khách Nhật conservative thường response best với **(B) Data** (an toàn) > (C) Question > (A) Story (rủi ro hơi US-style nếu không khéo).
 >
 > 3パターン: ストーリー/データ/質問。聴衆×テーマで選ぶ。日本顧客にはデータ型が一番安全、次に質問型、ストーリー型は技量次第。
 >
@@ -1871,7 +1871,7 @@ Slide 9 = risk slide. Linh draft → ghi "リスクは特にございません" 
 | 1 | インフラ移行失敗 | 中 | 大 | 旧環境 parallel 3ヶ月 |
 | 2 | データ移行欠損 | 中 | 大 | 日次リコンサイル監査 |
 | 3 | KPI未達 | 低 | 中 | 月次見直し + 再計画権利 |
-| 4 | 保守要員依存 | 低 | 中 | 2名以上の cross-training |
+| 4 | 保守要員依存 | 低 | 中 | 2名以上の đào tạo chéo |
 | 5 | 季節商品再発 | 中 | 中 | ML model 月次再学習 |
 
 ---
@@ -2484,7 +2484,7 @@ Dũng đang finalize deck. Đến slide cuối — chuẩn bị làm "Thank You"
 
 > **Thank-you slide = ① ありがとうございました ② Recap 3点 ③ Contact (2 người + 営業時間) ④ QR Drive 閲覧専用.**
 >
-> *Không slide trống. 5-10 phút chiếu cuối là cơ hội reinforce, không phải để wasted.*
+> *Không slide trống. 5-10 phút chiếu cuối là cơ hội reinforce, không phải để lãng phí.*
 
 ---
 
@@ -2520,7 +2520,7 @@ Dũng đang finalize deck. Đến slide cuối — chuẩn bị làm "Thank You"
 
 ## ⚠ Tránh
 
-- "Thank You" trống → wasted 5-10 phút screen time
+- "Thank You" trống → lãng phí 5-10 phút screen time
 - Email cá nhân (gmail) → unprofessional → dùng cty domain
 - QR public link → ai cũng access → leak deck
 - Quên 営業時間 → khách gửi mail 22h thấy ngại
@@ -2842,7 +2842,7 @@ Pitch Phase 3 chính thức. 大垣 + 田中 ở phòng họp 白鷗 (offline). 
 
 # Rule 31 — Tech failure recovery / 技術トラブル復旧
 
-> **Luận điểm.** Khi projector chết / internet down / Zoom freeze giữa pitch — **3-step recovery**: ① **Acknowledge bình tĩnh** (5 giây): "申し訳ございません、技術トラブルが発生しております" ② **Switch nhanh sang Plan B** (Plan B đã prep ở rule 07: PDF backup, mobile hotspot, paper handout) ③ **Entertain** (verbal ngay phần next slide) trong khi recover. Tuyệt đối **không panic** trên mặt — khán giả Nhật xem panic = "cty không reliable trong production crisis".
+> **Luận điểm.** Khi projector chết / internet down / Zoom freeze giữa pitch — **3-step recovery**: ① **Acknowledge bình tĩnh** (5 giây): "申し訳ございません、技術トラブルが発生しております" ② **Switch nhanh sang Plan B** (Plan B đã prep ở rule 07: PDF backup, mobile hotspot, paper handout (tài liệu phát tay)) ③ **Entertain** (verbal ngay phần next slide) trong khi recover. Tuyệt đối **không panic** trên mặt — khán giả Nhật xem panic = "cty không reliable trong production crisis".
 >
 > 技術トラブルは acknowledge (5秒で) → switch Plan B → entertain (verbal で次 slide 内容を語る) の3ステップ。Panic 表情は『本番障害も同じ』と暗示。
 >
@@ -3092,7 +3092,7 @@ Pitch Phase 3 starts trong 5 phút. 田中 PMO Slack 田中 → ズン: "上司�
 
 # Rule 34 — Self-review checklist / 自己評価
 
-> **Luận điểm.** Sau pitch (trong vòng 24h), self-review **bằng 12-item rubric** chia 4 cụm: Preparation (3) / Delivery (4) / Q&A (3) / Closing+Followup (2). Mỗi item chấm 1-5. Tự kết luận **3 strengths + 3 improvements**. Skip self-review = lặp cùng lỗi pitch tiếp. Khách Nhật value "改善志向" — review record tự nó là đầu tư.
+> **Luận điểm.** Sau pitch (trong vòng 24h), self-review **bằng 12-item rubric (bảng tiêu chí đánh giá)** chia 4 cụm: Preparation (3) / Delivery (4) / Q&A (3) / Closing+Followup (2). Mỗi item chấm 1-5. Tự kết luận **3 strengths + 3 improvements**. Skip self-review = lặp cùng lỗi pitch tiếp. Khách Nhật value "改善志向" — review record tự nó là đầu tư.
 >
 > ピッチ後24h以内に12項目 rubric self-review (準備3+デリバリー4+Q&A3+クロージング2)。3 strengths + 3 improvements を抽出。改善志向は日本顧客が高く評価。
 >
@@ -4588,7 +4588,7 @@ Phase 3 pitch đã xong + self-review xong. Cuối tháng 5, Linh (intern Market
 
 - **A) 同日中に short acknowledgment + 翌営業日に詳細版 (2段階)**
 - B) 翌週月曜に詳細版1通のみ
-- C) 1週間後に sammary
+- C) 1週間後に summary
 - D) 送らない
 
 **Đáp án:** A

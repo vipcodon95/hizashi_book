@@ -18,7 +18,7 @@ Slide 8 = pricing. Trong rehearsal, Hà CTO simulate Ōgaki ("anh Ōgaki sẽ ch
 
 *slide opens · 役: 大垣*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「Phase 3 のお見積りは **3,200万円**でございます。」 |
 | **ハーCTO** | 「**高いね**。Phase 2 は1,800万だったよね？」 |
@@ -33,7 +33,7 @@ Slide 8 = pricing. Trong rehearsal, Hà CTO simulate Ōgaki ("anh Ōgaki sẽ ch
 
 *役: 大垣*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「価格の前に**3点ご説明**します。**(1) Anchor**: 業界平均 1案件4,000万、Phase 2 は1,800万でした【1】。**(2) Tier**: A案2,400万 / B案3,200万(推奨) / C案4,800万。**(3) ROI**: B案で**年間1.2億円のロス削減**【2】見込み、**8ヶ月で投資回収**。」 |
 | **ハーCTO** | 「Phase 2 比で約2倍だね、なぜ？」 |

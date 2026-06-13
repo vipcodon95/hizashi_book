@@ -18,7 +18,7 @@
 
 *9:30:30 đúng, chạy xuống lobby vừa lúc 大垣 bước vào, đang nghe điện thoại · ngồi sofa lobby xem điện thoại, nhận ra muộn 5 giây · thoáng tỏ thái độ · nhận tin lễ tân chậm 2 phút*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | 「あ、あの、もしもし、後でかけ直す…」 |
 | **ズン** | 「あっ！大垣さん！すみません！」 |
@@ -33,7 +33,7 @@
 
 *9:25, briefing lễ tân · 9:27, đứng tại lobby, không phone, không sofa · 9:30, thấy đoàn 3 người bước vào · cùng tiến lên, bow 30°*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「**白鷗株式会社の大垣様ご一行 3名、9:30 ご到着予定**【1】。お見えになりましたら **すぐ私の内線へ**【2】お願いいたします。」 |
 | **受付** | 「承知いたしました。お見えになり次第、ご連絡いたします。」 |

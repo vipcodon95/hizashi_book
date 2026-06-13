@@ -16,7 +16,7 @@ Phase 2 vừa kết thúc — em Dũng cần báo cáo hoàn thành cho chị H�
 
 ## ❌ Hội thoại XẤU — chỉ có Output, thiếu Acceptance + Lessons
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「Phase 2 完了のご報告です。納品物5点、すべて納品済みです。以上です。」 |
 | **フオン** | 「松本様から **検収（受領確認）** はもらった？まだなら『完了』とは言わない。」 |
@@ -30,7 +30,7 @@ Phase 2 vừa kết thúc — em Dũng cần báo cáo hoàn thành cho chị H�
 
 ## ✅ Hội thoại TỐT — Output + Acceptance + Lessons
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「Phase 2 **完了報告**です。**Output**：納品物5点（要件定義書、設計書、ソースコード、テスト報告書、運用手順書）、すべて納品済み【1】。」 |
 | **ズン** | 「**Acceptance**：松本様より昨日付で書面検収をいただきました。検収書のコピーを別途共有いたします【2】。」 |

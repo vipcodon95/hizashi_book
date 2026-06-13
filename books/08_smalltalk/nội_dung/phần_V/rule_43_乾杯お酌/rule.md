@@ -25,7 +25,7 @@ Tháng 5/2026, dinner Phase 4 closing tại izakaya Tokyo. Cùng cast với rule
 
 *senior, vào vai chủ trì sau bia ra · tất cả nâng ly · QUAN TRỌNG: ly Dũng giữ thấp hơn ly Ōgaki ~3cm khi chạm · uống xong, đặt ly, look at senior*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「では、Phase 4のキックオフ、無事完了に、乾杯!」 |
 | **皆** | 「乾杯!」 |
@@ -43,7 +43,7 @@ Tháng 5/2026, dinner Phase 4 closing tại izakaya Tokyo. Cùng cast với rule
 
 *20 phút sau, ly Ōgaki còn 1/3 · notice + pick up bottle với 2 tay, label hướng về phía Ōgaki · rót: 80% bia + 20% bọt mịn · natural: lấy bottle rồi rót lại cho Dũng · 2 tay đỡ ly, ly thấp hơn bottle 1 chút · uống 1 ngụm — KHÔNG để bottle senior rót xong rồi không uống*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「大垣さん、**お注ぎしましょうか?**」 |
 | **大垣** | 「あ、ありがとう。」 |
@@ -62,7 +62,7 @@ Tháng 5/2026, dinner Phase 4 closing tại izakaya Tokyo. Cùng cast với rule
 
 *Matsumoto chuyển sake cold — tokkuri ra · tokkuri của anh · 2 tay đỡ ochoko, hơi nghiêng cười nhẹ · nâng tokkuri 2 tay, rót vào ochoko Dũng · uống nửa ngụm · notice ochoko Matsumoto vơi → take tokkuri · 2 tay đỡ ochoko · 2 tay rót — お酌 etiquette: cầm tokkuri hai tay, rót vào ochoko Matsumoto đang đỡ*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本** | 「ズンも冷酒どう?」 |
 | **ズン** | 「ありがとうございます、いただきます。」 |
@@ -80,7 +80,7 @@ Tháng 5/2026, dinner Phase 4 closing tại izakaya Tokyo. Cùng cast với rule
 
 *VN style — với ý tốt nhưng NG · lúng túng, không quen 一気飲み · gỡ ngay · notice · nhẹ · chuyển khéo*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアン** | 「松本さん、ベトナムでは『**Một, hai, ba, dô! 100%!**』っていう乾杯あるんですよ。せっかくなんで、ぐっと一気飲みで…」 |
 | **松本** | 「あ、いやまあ、ちょっと…」 |

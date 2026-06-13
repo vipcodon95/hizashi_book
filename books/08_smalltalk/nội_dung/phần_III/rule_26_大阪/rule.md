@@ -27,7 +27,7 @@ Tháng 8/2026, Dũng + Linh sang **Osaka office** Hakuō để training thực t
 
 *dẫn vào quán · 笑 · eyes wide*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **yamamoto_kansai** | 「ズンさん、リンちゃん、大阪のたこ焼はな、**外カリッと中トロッ**が命やで。**わなか**いう店、ほんま美味いから。」 |
 | **ズン** | 「『ほんま』、いいですね、関西弁。」 |
@@ -47,7 +47,7 @@ Tháng 8/2026, Dũng + Linh sang **Osaka office** Hakuō để training thực t
 
 *thực tập sinh, hỏi nhỏ · ずっこける · 笑*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | 「山本さん、大阪では『ボケ』と『つっこみ』、本当に日常にあるんですか?」 |
 | **yamamoto_kansai** | 「あるある。例えば、私が『今日めっちゃ美人やん私!』って言うやろ?ズンさん、何て返す?」 |
@@ -66,7 +66,7 @@ Tháng 8/2026, Dũng + Linh sang **Osaka office** Hakuō để training thực t
 
 *dẫn vào 通天閣 chân, quán 串カツだるま · つっこみ · 笑*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **yamamoto_kansai** | 「新世界に来たら**串カツだるま**、本店行こ。**ソース二度漬け禁止**、これ大阪のルールやで。」 |
 | **ズン** | 「2度漬け禁止、聞いたことあります。**衛生のため**ですよね。」 |
@@ -85,7 +85,7 @@ Tháng 8/2026, Dũng + Linh sang **Osaka office** Hakuō để training thực t
 
 *感動 · speechless*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **yamamoto_kansai** | 「甲子園、**阪神**ファンばっかりや。**黄色と黒**のジャンパー着てる人見たら大阪人や思て。」 |
 | **ズン** | 「**六甲おろし**、初めて生で聞きたいです。」 |

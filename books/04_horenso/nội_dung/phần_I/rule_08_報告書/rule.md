@@ -19,7 +19,7 @@ Sau Phase 2 hoàn thành, em Dũng cần soạn 報告書 chính thức gửi an
 
 *review draft*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアン** | 「ズン、報告書のドラフト見たけど…**件名が「Phase 2について」**？こんなの NG だよ。」 |
 | **ズン** | 「えっ、内容には Phase 2 のこと書いてますけど…」 |
@@ -35,7 +35,7 @@ Sau Phase 2 hoàn thành, em Dũng cần soạn 報告書 chính thức gửi an
 
 *review draft v2*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアン** | 「ズン、これは良くなったね。**件名「Phase 2 完了報告書（〇月〇日〜〇月〇日）」**【1】。」 |
 | **トゥアン** | 「**概要セクション**が3行で要点をまとめてる ✓【2】。**詳細**は KPI と Lessons まで網羅 ✓。**結論**で次フェーズへの提言が入ってる ✓。」 |

@@ -18,7 +18,7 @@ Họp Phase 2 đã quyết xong scope. 5 phút trước khi tan, em Dũng phải
 
 *1 tuần sau, 2/4 actions chưa làm vì không nhớ ai phụ trách*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「では、皆さんよろしくお願いします。」 |
 
@@ -28,7 +28,7 @@ Họp Phase 2 đã quyết xong scope. 5 phút trước khi tan, em Dũng phải
 
 ## ✅ Hội thoại TỐT — đọc rõ action / owner / deadline
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「会議終了前に、本日のアクションアイテムを確認させていただきます【1】。4件ございます。」 |
 | **ズン** | 「① **scope A 案の詳細仕様書作成** — トゥアンリーダー、5月2日まで。よろしいでしょうか【2】？」 |

@@ -16,7 +16,7 @@ Tối hôm trước đàm phán, Hương review concession plan cuối của Dũ
 
 ## ❌ Hội thoại XẤU — concession ladder không có trade
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン副部長、譲歩計画です: ¥19M → ¥18M → ¥17M → ¥16M。」 |
 | **フオン** | 「**それ譲歩じゃなくてただの値引きカウント**。何と引き換え？大垣さんに『1M ずつ下げてくれた』と取られたら、最終 ¥15M まで押される。」 |
@@ -29,7 +29,7 @@ Tối hôm trước đàm phán, Hương review concession plan cuối của Dũ
 
 ## ✅ Hội thoại TỐT — concession ladder với trade từng nấc
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「譲歩計画 v2 です。**5 ladder、各段に trade**【1】。」 |
 | **ズン** | 「Step 0: ¥19M anchor (no concession)。Step 1: ¥18M target、trade なし (target 着地は譲歩ゼロ扱い)。Step 2: ¥17.5M ⇄ **契約期間 2 年化** (LTV +35%)【2】。Step 3: ¥17M ⇄ scope -10% (AI dashboard 2nd phase 後出し)。Step 4: ¥16M ⇄ scope -20% + payment net 30 化 + 事例公開許可。Step 5: ¥15M ⇄ scope -30% + 上記すべて + 早期支払割 (これ最終)。**¥15M 以下 = 撤退**。」 |

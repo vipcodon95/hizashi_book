@@ -25,7 +25,7 @@ Tháng 6/2026, sau dinner Phase 4 closing. 二次会 chuyển sang karaoke phòn
 
 *Karaoke vào phòng, drinks ra · senior, đặt drink · KHÔNG để senior hát đầu — junior hát đầu để khởi động phòng · chọn bài an toàn, vui, phù hợp mọi thế hệ — Mr. Children『シーソーゲーム』 — 90s nhưng radio hit, ai cũng biết · end của bài*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「ズン、まず誰行く?」 |
 | **ズン** | 「**まず私から行かせていただきます**。皆さんの空気作れたら(笑)」 |
@@ -43,7 +43,7 @@ Tháng 6/2026, sau dinner Phase 4 closing. 二次会 chuyển sang karaoke phòn
 
 *60s — cuối bài 'TSUNAMI' · cầm mic, gợi ý bài ít biết nhưng đúng gu · Osaka, mê 80s idol · 年齢層直撃 · stand + mock dancing · ライブ感 — 一気に親密度UP*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | (hát xong, vỗ tay) |
 | **ズン** | 「大垣さん、**もし良ければ松田聖子の『青い珊瑚礁』**、Yamamotoさんと一緒にデュエットいかがですか?」【1】 |
@@ -58,7 +58,7 @@ Tháng 6/2026, sau dinner Phase 4 closing. 二次会 chuyển sang karaoke phòn
 
 *35t, end của 大垣 + 山本 デュエット · hát · end of song · face lights up · hát · refrain*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中** | 「俺の番か?Mr. Children『innocent world』で。」 |
 | **田中** | 🎤 |
@@ -75,7 +75,7 @@ Tháng 6/2026, sau dinner Phase 4 closing. 二次会 chuyển sang karaoke phòn
 
 *28t junior VN, đầu tiên ở karaoke JP, nervous · rescue · curious · reassured · hát · end*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハイ** | 「すみません、日本の歌、あんまり歌えなくて…」 |
 | **ズン** | 「ハイ、**ベトナム語の歌**でいいよ!**Mỹ Tâm『Như một giấc mơ』** とか。日本人の方も新鮮で喜ばれる。」 |

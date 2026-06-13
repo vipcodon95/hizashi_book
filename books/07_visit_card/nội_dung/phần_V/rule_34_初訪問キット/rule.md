@@ -16,7 +16,7 @@ D-2 trước onsite Tokyo, Hải (lần đầu đi onsite) check bộ đồ thi�
 
 ## ❌ Hội thoại XẤU — nghĩ tới Nhật mua cũng được
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアンリーダー** | 「ハイ、明後日出発、持ち物 OK？」 |
 | **ハイ** | 「現金は現地ATMで引きます。スーツは spray でいいかな。お土産は Narita 空港で見ます。」 |
@@ -28,7 +28,7 @@ D-2 trước onsite Tokyo, Hải (lần đầu đi onsite) check bộ đồ thi�
 
 ## ✅ Hội thoại TỐT — chia 6 nhóm + tách VN / mua tại Nhật
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアンリーダー** | 「ハイ、Survival Kit 6カテゴリで整理した。共有する。」 |
 | **トゥアンリーダー** | 「① 現金 5万円 (VN出発前両替)【1】 ② IC card Suica初日窓口【2】 ③ スーツケース内ハンガー+折り目テクニック【3】 ④ お土産: VN高品質 6箱【4】 ⑤ 天気: 折りたたみ傘+カーディガン【5】 ⑥ Wifi: pocket Wi-Fi or eSIM 出発前契約【6】。」 |

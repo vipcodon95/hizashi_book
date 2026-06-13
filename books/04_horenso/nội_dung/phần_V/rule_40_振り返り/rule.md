@@ -16,7 +16,7 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 ## ❌ Hội thoại XẤU — phàn nàn không action
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **フオン** | 「皆さん、今週どうでしたか?」 |
 | **ハイ** | 「Phase 2 障害で疲れました…」 |
@@ -32,7 +32,7 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 *facilitator*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **フオン** | 「Retrospective 開始。30分、KPT format。Notion テンプレに事前記入できた人から発表【1】。」 |
 | **ハイ** | 「**Keep**: Phase 2 障害で SLA 通り escalation できた (5分→15分→30分)。**Problem**: 障害後のpost-mortem document 作成に2日かかった (24h target 未達)。**Try**: post-mortem テンプレを Notion に作成、初稿は 4h 以内目標。」 |

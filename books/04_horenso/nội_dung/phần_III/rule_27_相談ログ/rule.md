@@ -16,7 +16,7 @@ Cuối tháng. Anh Hà CTO hỏi: "tại sao Phase 2 dùng MySQL chứ không Po
 
 ## ❌ Hội thoại XẤU — không có log
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハーCTO** | 「ズン、Phase 3 設計レビューで疑問が出た。Phase 2 で MySQL 採用したのはなぜ?」 |
 | **ズン** | 「えっと…3ヶ月前に決めたんですが…理由は…ちょっと記憶が…」 |
@@ -32,7 +32,7 @@ Cuối tháng. Anh Hà CTO hỏi: "tại sao Phase 2 dùng MySQL chứ không Po
 
 *共有画面*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハーCTO** | 「Phase 3 設計レビューで疑問。Phase 2 で MySQL 採用したのはなぜ?」 |
 | **ズン** | 「Decision Register をご確認ください。**DR-2026-0118** の1行です【1】。」 |

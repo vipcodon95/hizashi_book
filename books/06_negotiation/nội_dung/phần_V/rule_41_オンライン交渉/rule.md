@@ -16,7 +16,7 @@ Phase 3 round 2, 大垣 + 田中 PMO 在京、Tiên Phát side ハノイ → Zoo
 
 ## ❌ Hội thoại XẤU — nhìn lơ đãng qua camera + sa lầy silence
 
-| | Speaker | Câu (Zoom) |
+| | Vai | Câu (Zoom) |
 |--|---------|-----|
 | **L1** | **ズン** *(画面を見ながら)* | 「Phase 3 価格 ¥18M でご提案させていただきます。」 |
 | **L2** | (沈黙 7 秒、 Dũng は画面下の slide note を見続ける) | … |
@@ -30,7 +30,7 @@ Phase 3 round 2, 大垣 + 田中 PMO 在京、Tiên Phát side ハノイ → Zoo
 
 ## ✅ Hội thoại TỐT — camera eye + 4 giây silence + screen share precise
 
-| | Speaker | Câu (Zoom) |
+| | Vai | Câu (Zoom) |
 |--|---------|-----|
 | **L1** | **ズン** *(camera 直視、 hand gesture で書類に指す)* | 「Phase 3 価格について、画面共有させていただきます。」 |
 | **L2** | (画面共有 ON、3 段階提案 slide 表示) **ズン** *(camera 戻して直視)* | 「**Better tier ¥18M、Best tier ¥24M**、本日は Better tier をベースにご相談させていただければと存じます【1】。」 |

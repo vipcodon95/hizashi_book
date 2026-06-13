@@ -18,7 +18,7 @@ Anh Matsumoto đề xuất "deploy phase 2 vào cuối tháng 7". Em Dũng cảm
 
 *thực ra lo timeline gấp · 2 tuần sau slip schedule, em Dũng phải xin extend*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本** | 「7月末リリースで進めたいと考えております。」 |
 | **ズン** | 「はい、大丈夫です。」 |
@@ -30,7 +30,7 @@ Anh Matsumoto đề xuất "deploy phase 2 vào cuối tháng 7". Em Dũng cảm
 
 ## ✅ Hội thoại TỐT — chọn đúng level đồng ý
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本** | 「7月末リリースで進めたいと考えております。」 |
 | **ズン** | 「方向性につきましては概ね同意でございます【1】。ただ、スコープの内訳によっては時間が必要な箇所もございますので、概要を確認させていただいた上で、改めてフィージビリティをご報告したく存じます【2】。」 |

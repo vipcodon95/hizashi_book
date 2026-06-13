@@ -18,7 +18,7 @@ Dũng dùng template rực rỡ — title đỏ, body xanh lá, accent cam, bi�
 
 *slide開いた瞬間*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **フオン** | 「うわ、目が痛い。タイトル**赤**？」 |
 | **ズン** | 「目立つかと思って…緑と橙でアクセント入れました。」 |
@@ -31,7 +31,7 @@ Dũng dùng template rực rỡ — title đỏ, body xanh lá, accent cam, bi�
 
 ## ✅ Hội thoại TỐT — conservative palette
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「色を**3色制限**にしました【1】。プライマリ: ネイビー(#1E3A5F)、サブ: チャコール(#3A3A3A)、アクセント: 白鷗ブルー(#4A90C2)。背景は薄グレー。」 |
 | **フオン** | 「いいね、白鷗ブランドカラーをアクセントに使うのは**気が利いてる**【2】。CTAボタンは何色？」 |

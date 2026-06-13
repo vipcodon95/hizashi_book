@@ -18,7 +18,7 @@ Họp đàm phán phase 2. Anh Ōgaki yêu cầu giảm 20%, anh Hà (CTO) chỉ
 
 *sau 30 phút · căng thẳng, ép tiếp · lạnh giọng · không khí cứng*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「やはり20%でなければ難しいです。」 |
 | **ハー** | 「10%が限界です。」 |
@@ -34,7 +34,7 @@ Họp đàm phán phase 2. Anh Ōgaki yêu cầu giảm 20%, anh Hà (CTO) chỉ
 
 *sau 30 phút · tiếp · nhìn Dũng, gật đầu*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「やはり20%でなければ難しいです。」 |
 | **ハー** | 「10%が限界です。」 |

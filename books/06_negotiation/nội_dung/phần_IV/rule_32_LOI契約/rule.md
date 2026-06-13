@@ -18,7 +18,7 @@ Recap mail OK reply nhận được. Tuấn đề xuất "LOI khỏi cần, làm
 
 *Slack 内部 · 困*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアン** | 「ズン、recap OK 来たし、契約書ドラフトを直接送ろう。LOI 余計な工程じゃない？」 |
 | **ズン** | 「では契約書 v1 を作成して大垣様に送ります。」 |
@@ -34,7 +34,7 @@ Recap mail OK reply nhận được. Tuấn đề xuất "LOI khỏi cần, làm
 
 *Slack · Slack Hương*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **フオン** | 「ズン、recap OK 来たね。**次は LOI ドラフト 1-2 ページ**【1】を準備して。 commercial terms 6 項目だけ。詳細条項は後の契約書 draft で詰める。」 |
 | **ズン** | 「承知しました。LOI v1 作成して、本日中に弊社内で legal レビュー → 明日大垣様に送付いたします。」 |

@@ -18,7 +18,7 @@ Anh Matsumoto vừa giải thích 5 phút về thay đổi yêu cầu module tha
 
 *sau 5 phút giải thích · 1 tuần sau, code chỉ thêm PayPay, quên LINE Pay + workflow hoàn tiền*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本** | 「…以上が変更点となります。」 |
 | **ズン** | 「はい、了解しました。」 |
@@ -32,7 +32,7 @@ Anh Matsumoto vừa giải thích 5 phút về thay đổi yêu cầu module tha
 
 *sau 5 phút giải thích*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本** | 「…以上が変更点となります。」 |
 | **ズン** | 「松本様のおっしゃるのは、3点【1】の変更——①決済ゲートウェイにPayPayとLINE Payの追加、②返金ワークフローの修正、③ベトナム語メッセージの更新——という認識でよろしいでしょうか【2】？」 |

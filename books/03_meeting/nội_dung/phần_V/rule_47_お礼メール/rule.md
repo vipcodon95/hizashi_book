@@ -19,7 +19,7 @@ Họp đàm phán phase 2 đầu tiên với anh Ōgaki vừa xong. Đây là l�
 
 *chỉ gửi biên bản, không có email cảm ơn · với chị Hương 1 tuần sau*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「ズンさんは議事録だけで、初対面のお礼もないですね…」 |
 

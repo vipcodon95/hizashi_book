@@ -16,7 +16,7 @@ Họp với Hà CTO + Hương + Tuấn xong, Dũng cần soạn proposal deck. H
 
 ## ❌ Hội thoại XẤU — 1 tier duy nhất
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン副部長、提案 deck draft、価格 ¥18M で1 案にまとめました。」 |
 | **フオン** | 「1 案だけ？大垣さんは社内で比較できないし、yes か no しかなくなる。**no が出たら戻れない**。3 段階で作り直して。」 |
@@ -29,7 +29,7 @@ Họp với Hà CTO + Hương + Tuấn xong, Dũng cần soạn proposal deck. H
 
 ## ✅ Hội thoại TỐT — 3-tier deck với Better làm trung tâm
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「3 段階提案を作成しました。Good ¥14M / Better ¥18M / Best ¥24M。**Better を recommended 表示**【1】、Good は AI engine なし basic 版、Best は専任 SRE 含む full 版です。」 |
 | **フオン** | 「Good の機能削減は？」 |

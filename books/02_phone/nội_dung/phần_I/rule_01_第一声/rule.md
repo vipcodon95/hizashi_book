@@ -19,7 +19,7 @@ Anh Matsumoto (松本PM, khách hàng Nhật bên Cty Hakuō) gọi cho em Dũng
 
 > 📞 *(đường dây kết nối, em Dũng nhấc máy)*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** (BD, ティエンファット) | 「もしもし。」 |
 | **松本PM** (Hakuō, khách Nhật) | 「...あの、ティエンファットさんですか？」 |
@@ -37,7 +37,7 @@ Anh Matsumoto (松本PM, khách hàng Nhật bên Cty Hakuō) gọi cho em Dũng
 
 > 📞 *(đường dây kết nối, em Dũng nhấc máy)*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** (BD, ティエンファット) | 「お電話ありがとうございます【1】。ティエンファット社、営業部のズン【2】でございます【3】。」 |
 | **松本PM** (Hakuō) | 「お世話になっております。白鷗株式会社の松本と申します。」 |
@@ -55,7 +55,7 @@ Anh Matsumoto (松本PM, khách hàng Nhật bên Cty Hakuō) gọi cho em Dũng
 
 ### Khi nội bộ Cty gọi đến
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | ズン | 「はい、ティエンファット営業部、ズンです。」 |
 
@@ -63,7 +63,7 @@ Anh Matsumoto (松本PM, khách hàng Nhật bên Cty Hakuō) gọi cho em Dũng
 
 ### Khi line bận / để khách đợi rồi mới bốc
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | ズン | 「お電話ありがとうございます。お待たせいたしました。ティエンファット社、営業部のズンでございます。」 |
 
@@ -71,7 +71,7 @@ Anh Matsumoto (松本PM, khách hàng Nhật bên Cty Hakuō) gọi cho em Dũng
 
 ### Khi gọi vào ngoài giờ làm
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | ズン | 「お電話ありがとうございます。営業時間外でございますが、緊急のご用件でしたら承ります。ティエンファット社のズンでございます。」 |
 

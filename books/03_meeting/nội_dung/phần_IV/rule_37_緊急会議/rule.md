@@ -18,7 +18,7 @@ Production server crash 7h sáng. Em Dũng convene họp khẩn 7h30 với Tuấ
 
 *căng*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「お忙しい中、お集まりいただきありがとうございます。本日の天気は…えっと、本題ですが、サーバーの件で…」 |
 | **トゥアン** | 「あ、それね、昨日のデプロイで…多分…」 |
@@ -33,7 +33,7 @@ Production server crash 7h sáng. Em Dũng convene họp khẩn 7h30 với Tuấ
 
 *tiếp*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「皆様、緊急会議のため簡潔に進めさせていただきます【1】。」 |
 | **ズン** | 「**【Fact】**本日7時05分、本番サーバーがダウンいたしました。現在も復旧中でございます。」 |

@@ -18,7 +18,7 @@ Họp phase 2: 4 người tại văn phòng VN (Dũng, Tuấn, Hải, Hà), 2 ng
 
 *trong phòng · nói nhỏ với Hải, không qua mic · cũng nói nhỏ · qua Zoom*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「では、Phase 2スコープについて。トゥアンさん、どう思いますか？」 |
 | **トゥアン** | 「これね、ハイ的にはどう？」 |
@@ -34,7 +34,7 @@ Họp phase 2: 4 người tại văn phòng VN (Dũng, Tuấn, Hải, Hà), 2 ng
 
 *qua Zoom · nói qua mic chính · sau Tuấn nói xong, summary cho online*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「では、Phase 2スコープについて。まずオンラインでご参加の松本様、大垣様、ご意見をお聞かせいただけますでしょうか【1】？」 |
 | **大垣** | 「優先度高機能を絞った A 案がよろしいかと存じます。」 |

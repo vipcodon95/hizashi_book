@@ -18,7 +18,7 @@ Discovery rule 12-16 đã ngốn 30 phút (đúng agenda). Dũng cần soft tran
 
 *時計見て · 微妙に*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「あ、もう1つ伺いたいんですが、AI モデルの再学習頻度は…」 |
 | **ズン** | 「すみません、もう discovery 時間が終わりですので、次へ進みます。」 |
@@ -32,7 +32,7 @@ Discovery rule 12-16 đã ngốn 30 phút (đúng agenda). Dũng cần soft tran
 
 ## ✅ Hội thoại TỐT — soft transition + park question
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「あ、もう1つ伺いたいんですが、AI モデルの再学習頻度は…」 |
 | **ズン** | 「**いいご質問ありがとうございます**。再学習頻度は重要点なので、**price の段階にあわせて詳しくご説明させていただきます**【1】 — モデル運用 cost に直結しますので。」 |

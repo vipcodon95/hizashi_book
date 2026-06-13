@@ -18,7 +18,7 @@ Anh Matsumoto đang giải thích về cấu trúc phân quyền mới (RBAC) b�
 
 *không hiểu nhưng gật đầu · 2 tuần sau, design sai → phải làm lại · sau cuộc họp tiếp theo*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本** | 「権限は組織階層と職務属性のクロスマトリックスで管理します。」 |
 | **ズン** | 「はい、承知しました。」 |
@@ -30,7 +30,7 @@ Anh Matsumoto đang giải thích về cấu trúc phân quyền mới (RBAC) b�
 
 ## ✅ Hội thoại TỐT — chỉ rõ điểm không hiểu
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本** | 「権限は組織階層と職務属性のクロスマトリックスで管理します。」 |
 | **ズン** | 「申し訳ございません、『クロスマトリックス』という点をもう一度ご説明いただけますでしょうか【1】？」 |

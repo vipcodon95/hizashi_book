@@ -16,7 +16,7 @@ Slide 10 = roadmap. Dũng draft đầu — mạch text "Phase 3 は2026年5月�
 
 ## ❌ Hội thoại XẤU — text-only timeline
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアン** | 「ズン、roadmap がただのテキスト？『5月開始、12月完了』だけ？」 |
 | **ズン** | 「文章の方が説明しやすいかと…」 |
@@ -29,7 +29,7 @@ Slide 10 = roadmap. Dũng draft đầu — mạch text "Phase 3 は2026年5月�
 
 ## ✅ Hội thoại TỐT — gantt + milestones + owner
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「Roadmap report テンプレで作りました【1】。**4 phase**: ①要件定義(5/15-6/30) ②設計開発(7/1-9/30) ③テスト(10/1-11/15) ④リリース移行(11/16-12/15)。**マイルストーン**: ◆要件 sign-off (6/30 / 弊社ズン＋御社松本)、◆UAT 完了 (11/15 / 弊社トゥアン＋御社田中) など5点【2】。」 |
 | **トゥアン** | 「いいね、各 milestone に **owner ペア**書いてるのが良い【3】。Bottle neck どこ？」 |

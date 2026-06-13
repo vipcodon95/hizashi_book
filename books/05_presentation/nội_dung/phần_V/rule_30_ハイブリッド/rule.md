@@ -18,7 +18,7 @@ Pitch Phase 3 chính thức. 大垣 + 田中 ở phòng họp 白鷗 (offline). 
 
 *bước vào phòng, only nhìn 大垣 + 田中 · bắt đầu pitch, không nhìn camera · hỏi câu · trả lời 大垣 luôn, không repeat · online, không nghe rõ câu hỏi*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「大垣様、田中様、おはようございます。本日はよろしくお願いします。」 |
 | **ズン** | 「では始めます…」 |
@@ -34,7 +34,7 @@ Pitch Phase 3 chính thức. 大垣 + 田中 ở phòng họp 白鷗 (offline). 
 
 *vào phòng, đầu tiên nhìn camera · online · quay sang offline · đứng cạnh screen, camera bên cạnh · Q&A · repeat trước khi trả lời*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「**まずオンラインの皆様、おはようございます**【1】。松本様、ハー CTO、音声・映像とも問題ございませんでしょうか？」 |
 | **松本** | 「クリアに聞こえています、ありがとうございます。」 |

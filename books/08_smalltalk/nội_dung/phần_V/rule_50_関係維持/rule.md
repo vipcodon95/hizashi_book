@@ -25,7 +25,7 @@ Tham khảo. 1 scenario "applying memory bank" + 1 scenario "ghi memory bank nga
 
 *arrives · face lights, surprise + warm*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | *(8:55 AM, Dũng đợi Ōgaki, đã review CRM 3 phút trước:* |  |
 | *"Ōgaki: Osaka Kansai 弁, 阪神 fan, 娘 受験 来年大学, 牡蠣 NG, 前回桂米朝の話")* |  |

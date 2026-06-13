@@ -16,7 +16,7 @@ Giữa bữa dinner Q1 lúc 19:30, khoảng nghỉ giữa món. Dũng + Tuấn c
 
 ## ❌ Hội thoại XẤU — hỏi chính trị, tuổi, lương
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアンリーダー** | 「大垣様、最近の日本の首相どう思われますか？」 |
 | **大垣営業部長** | （沈黙）「…そうですね、ちょっと…」 |
@@ -31,7 +31,7 @@ Giữa bữa dinner Q1 lúc 19:30, khoảng nghỉ giữa món. Dũng + Tuấn c
 
 ## ✅ Hội thoại TỐT — triển khai theo safe topic ẩm thực, du lịch, sở thích
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「今お召し上がりの和牛、A5ランクで地元の方にも人気なんです。お味いかがでしょうか？」【1】 |
 | **松本PM** | 「とても柔らかく、東京で食べる和牛より風味が濃い気がします。」 |

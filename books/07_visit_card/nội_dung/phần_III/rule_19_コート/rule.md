@@ -18,7 +18,7 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 
 *mở cửa phòng họp · vào phòng, mặc cả coat + muffler · thoáng tỏ thái độ · cởi sau khi đã ngồi xuống ghế · cười nhẹ, cầm coat treo*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中PMO** | 「ようこそ、お入りください。」 |
 | **トゥアン** | 「失礼します。」 |
@@ -34,7 +34,7 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 
 *đến trước cửa 803, dừng 30 giây · cởi coat + muffler, gấp 2 lần, đặt trên cánh tay trái【2】 · gõ cửa 2 lần, đợi 2 giây · mở cửa · bow 15° tại cửa, vào phòng, cầm coat tay trái · treo coat lên hanger góc phòng*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「**コート脱ごう**【1】。」 |
 | **ズン + トゥアン** | *(im lặng)* |

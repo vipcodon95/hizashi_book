@@ -18,7 +18,7 @@ Cuối Q1, chị Hương đánh giá performance em Dũng. Có điểm tốt (Ph
 
 *im, defensive*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **フオン** | 「ズン、君は時々楽観的すぎるよね。デッドラインを甘く見ている。」 |
 | **ズン** | 「…はい。」 |
@@ -30,7 +30,7 @@ Cuối Q1, chị Hương đánh giá performance em Dũng. Có điểm tốt (Ph
 
 ## ✅ Hội thoại TỐT — GROW model
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **フオン** | 「ズン、Q1の振り返りをしましょう。【Goal】まず、Phase 1 launchを期日通り完遂できたこと、本当に素晴らしい成果でした【1】。」 |
 | **フオン** | 「【Reality】一方、3月のスプリントで2件、deadline の見積もりが20%短く設定されていた事実がありました【2】。結果として QA が逼迫しました。」 |

@@ -16,7 +16,7 @@ Phòng riêng nhà hàng Q1, mọi người vừa ngồi xong lúc 18:35. Hà CT
 
 ## ❌ Hội thoại XẤU — uống trước khi hô + ly cao hơn senior
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアンリーダー** | （発声前に一口飲む）「あ、美味しい。」 |
 | **ハーCTO** | 「では、乾杯！」 |
@@ -29,7 +29,7 @@ Phòng riêng nhà hàng Q1, mọi người vừa ngồi xong lúc 18:35. Hà CT
 
 ## ✅ Hội thoại TỐT — host hô → cả nhóm hạ ly thấp hơn CFO
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハーCTO** | 「皆様、本日はお越しいただきありがとうございます。Phase 3 成功と末永いお付き合いを願いまして…乾杯！」【1】 |
 | **中村CFO** | 「乾杯。」 |

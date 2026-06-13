@@ -16,7 +16,7 @@ Sau rule 15, Dũng confirm timeline với clock-time để khách kiểm soát k
 
 ## ❌ Hội thoại XẤU — không có clock-time
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「では議題1から、進捗報告 10分、課題 15分、スコープ 25分、確認 10分です。」 |
 | **大垣** | 「終了予定は何時？」 |
@@ -29,7 +29,7 @@ Sau rule 15, Dũng confirm timeline với clock-time để khách kiểm soát k
 
 ## ✅ Hội thoại TỐT — clock-time mỗi議題
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「本日の時間配分をご確認ください。15:00 開始、16:00 終了予定でございます【1】。」 |
 | **ズン** | 「議題1: 進捗報告 15:00〜15:10。議題2: 課題対応 15:10〜15:25。議題3: スコープ協議 15:25〜15:50。議題4: 次回確認 15:50〜16:00【2】。」 |

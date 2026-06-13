@@ -1,0 +1,75 @@
+/* Custom CSS cho EPUB Hizashi — fix table layout + heading size */
+
+/* Heading: giảm kích thước để Reader không render quá lố */
+h1 { font-size: 1.6em; margin: 1em 0 0.6em; line-height: 1.25; page-break-before: always; }
+h2 { font-size: 1.25em; margin: 1.2em 0 0.5em; line-height: 1.3; }
+h3 { font-size: 1.1em; margin: 1em 0 0.4em; line-height: 1.35; }
+h4 { font-size: 1.0em; margin: 0.8em 0 0.3em; font-weight: bold; }
+h5 { font-size: 0.95em; margin: 0.7em 0 0.25em; font-weight: bold; }
+
+/* Table hội thoại — cột Nhân vật hẹp cố định, cột Lời thoại lấy hết phần còn lại */
+table {
+  width: 100%;
+  table-layout: fixed;       /* buộc Reader tôn trọng width */
+  border-collapse: collapse;
+  margin: 0.6em 0 1em;
+  font-size: 0.95em;
+}
+thead th {
+  text-align: left;
+  border-bottom: 1px solid #999;
+  padding: 0.3em 0.5em;
+}
+tbody td {
+  border-bottom: 1px solid #ddd;
+  padding: 0.35em 0.5em;
+  vertical-align: top;
+  word-wrap: break-word;     /* tránh tràn khi câu JP dài */
+  overflow-wrap: break-word;
+}
+/* Cột Vai (đầu tiên) 15% */
+tbody td:first-child,
+thead th:first-child {
+  width: 15%;
+  font-weight: bold;
+  white-space: normal;
+  color: #000;
+}
+/* Cột Lời thoại 85% */
+tbody td:last-child,
+thead th:last-child {
+  width: 85%;
+}
+
+/* Ruby furigana — rt nhỏ hơn surface */
+ruby { ruby-align: center; }
+rt { font-size: 0.55em; }
+
+/* Blockquote (mục tiêu nhân vật, đọng lại chương) */
+blockquote {
+  margin: 0.8em 0;
+  padding: 0.5em 1em;
+  border-left: 3px solid #888;
+  background: #f7f7f7;
+  font-size: 0.95em;
+}
+blockquote p { margin: 0.3em 0; }
+
+/* Dấu phân chia tình huống */
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 1.2em 0;
+}
+
+/* Em (italic) dùng cho dịch VN — nhỏ hơn 1 chút */
+em {
+  font-style: italic;
+  color: #444;
+}
+
+/* Body */
+body {
+  font-family: serif;
+  line-height: 1.6;
+}

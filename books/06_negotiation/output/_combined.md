@@ -46,7 +46,7 @@ lang: vi
 
 # Rule 01 — BATNA: Phương án thay thế tốt nhất / BATNA — 交渉決裂時の代替案
 
-> **Luận điểm.** Vào đàm phán mà KHÔNG có **BATNA** (Best Alternative To Negotiated Agreement) = vào với 0 leverage. Khách Nhật cảm nhận được người không có "lựa chọn khác" qua tone giọng → push hard. Định nghĩa BATNA cụ thể TRƯỚC khi vào phòng đàm phán: con số, thời điểm, đối tác thay thế.
+> **Luận điểm.** Vào đàm phán mà KHÔNG có **BATNA** (Best Alternative To Negotiated Agreement) = vào với 0 đòn bẩy. Khách Nhật cảm nhận được người không có "lựa chọn khác" qua giọng nói → push hard. Định nghĩa BATNA cụ thể TRƯỚC khi vào phòng đàm phán: con số, thời điểm, đối tác thay thế.
 >
 > 交渉に入る前に **BATNA**(交渉決裂時の代替案) を必ず数値化する。曖昧なBATNAを持って交渉に入ると、相手はこちらに代替案がないことを声色で察知し、攻めに転じる。
 >
@@ -89,7 +89,7 @@ Tháng 5/2026, Phase 3 với 白鷗 vào round đàm phán giá lần 1. Anh Hà
 
 📝 **Ghi chú:**
 - 【1】**「BATNA 3 シナリオ」** — A (deal as-is), B (counter-offer prepared), C (walk-away). Mỗi scenario phải có **con số + điều kiện + người đã approve**.
-- 【2】**シナリオB phải có internal financial validation** — không chỉ "cảm giác". Profit margin maintained ≥ 20% là internal threshold.
+- 【2】**シナリオB phải có xác thực tài chính nội bộ** — không chỉ "cảm giác". Profit margin maintained ≥ 20% là internal threshold.
 - 【3】**シナリオC walk-away cần real alternative** — không phải bluff. X 社 MoU thật → Dũng vào phòng với confidence.
 
 ---
@@ -136,7 +136,7 @@ Tháng 5/2026, Phase 3 với 白鷗 vào round đàm phán giá lần 1. Anh Hà
 
 ## Bối cảnh / 場面
 
-Sau khi review BATNA xong (rule 01), Hương yêu cầu Dũng thêm **ZOPA mapping** — ước lượng budget ceiling của 白鷗 dựa trên Phase 2 actual + intel từ Tanaka PMO. Dũng vào meeting room nhỏ với Hương sáng thứ Ba.
+Sau khi review BATNA xong (rule 01), Hương yêu cầu Dũng thêm **ZOPA mapping** — ước lượng budget ceiling của 白鷗 dựa trên Phase 2 actual + thông tin từ Tanaka PMO. Dũng vào meeting room nhỏ với Hương sáng thứ Ba.
 
 ---
 
@@ -164,7 +164,7 @@ Sau khi review BATNA xong (rule 01), Hương yêu cầu Dũng thêm **ZOPA mappi
 
 📝 **Ghi chú:**
 - 【1】**ZOPA マッピング = 4 con số:** mình *target* + *reservation*, khách *ceiling* + *floor*. Vẽ trên 1 trục, kiểm tra có giao nhau không.
-- 【2】**Intel khách phải có nguồn cụ thể** — ai nói, ở đâu (Slack/họp/website), khi nào. Tránh "tôi đoán" thuần.
+- 【2】**Thông tin từ khách phải có nguồn cụ thể** — ai nói, ở đâu (Slack/họp/website), khi nào. Tránh "tôi đoán" thuần.
 - Anchor giá có thể **vượt ZOPA ceiling một chút** (target ¥18M > ¥17M) — đây là chủ ý để có dư địa nhượng bộ. Nhưng nếu vượt quá xa → khách offended, walk-away.
 
 ---
@@ -181,7 +181,7 @@ Sau khi review BATNA xong (rule 01), Hương yêu cầu Dũng thêm **ZOPA mappi
 
 - Chỉ tính giá phía mình, bỏ qua estimate phía khách → vào phòng mù
 - Estimate khách dựa trên "linh cảm" thay vì intel cụ thể (Slack, Phase trước, IR report)
-- Quên kiểm tra **floor** khách (chất lượng tối thiểu) — nhiều deal vỡ vì scope chứ không phải giá
+- Quên kiểm tra **mức sàn** của khách (chất lượng tối thiểu) — nhiều deal vỡ vì scope chứ không phải giá
 - Anchor vượt ZOPA ceiling quá xa (>20%) → khách cảm thấy bị xúc phạm
 
 ---
@@ -244,7 +244,7 @@ Trong meeting nội bộ ティエンファット, Tuấn lo lắng vì sau pitc
 📝 **Ghi chú:**
 - 【1】**Ringi cycle 2-3 週間 normal** —契約金額が大きいほど長い (¥18M なら 3-4 週). 1 週で返ってきたら逆に「真剣に検討してない」サイン.
 - 【2】**根回し (nemawashi)** = đi gặp riêng từng key person trước khi văn bản chính thức (ringi-sho) chuyền tay. Đây là không chính thức nhưng quyết định chính.
-- 【3】**Support nemawashi** = đưa cho contact (Matsumoto) tài liệu/argument để họ nói với key persons khác. KHÔNG phải gọi điện hối thúc.
+- 【3】**Hỗ trợ nemawashi** = đưa cho contact (Matsumoto) tài liệu/argument để họ nói với các nhân vật then chốt khác. KHÔNG phải gọi điện hối thúc.
 
 ---
 
@@ -335,7 +335,7 @@ Trong meeting nội bộ ティエンファット, Tuấn lo lắng vì sau pitc
 ## ⚠ Tránh
 
 - "Tôi đã làm với khách 2 năm rồi nên biết" → quá khứ ≠ hiện tại
-- Bỏ qua IR công khai (publicly available) — đây là free intel
+- Bỏ qua IR công khai (có thể tra cứu tự do) — đây là thông tin miễn phí
 - Không xác định decision-maker threshold (¥X trở lên thì ai duyệt)
 - Coi competitor intel là "nice to have" — thực ra là core của định giá
 
@@ -404,16 +404,16 @@ Hà CTO + Hương + Dũng họp 30 phút quyết mô hình giá Phase 3. Tuấn 
 
 > **「Cost-plusは商品向け、戦略案件はvalue-based+anchoring。3モデル比較してから選ぶ。」**
 >
-> *Cost-plus cho commodity, deal chiến lược dùng value-based + anchoring. So 3 mô hình rồi chọn.*
+> *Cost-plus cho hàng phổ thông, deal chiến lược dùng value-based + anchoring. So 3 mô hình rồi chọn.*
 
 ---
 
 ## ⚠ Tránh
 
 - Mặc định cost-plus cho mọi deal → bỏ tiền trên bàn ở deal chiến lược
-- Anchor giá trên trời mà không có ROI backup → khách walk
-- Quên validate粗利率 floor (vd: 20%) khi tính reservation
-- Không có whitepaper / case study → value-based khó thuyết phục CFO Nhật
+- Anchor giá trên trời mà không có dữ liệu ROI dự phòng → khách walk
+- Quên validate粗利率 sàn (vd: 20%) khi tính reservation
+- Không có tài liệu kỹ thuật / tình huống thực tế → value-based khó thuyết phục CFO Nhật
 
 ---
 
@@ -426,14 +426,14 @@ Hà CTO + Hương + Dũng họp 30 phút quyết mô hình giá Phase 3. Tuấn 
 | 粗利率 | あらりりつ | Gross margin |
 | 価値ベース | かちベース | Value-based |
 | 戦略案件 | せんりゃくあんけん | Deal chiến lược |
-| 商品案件 | しょうひんあんけん | Commodity deal |
+| 商品案件 | しょうひんあんけん | Deal hàng hóa phổ thông |
 | アンカー | ankā | Anchor (giá mở) |
 | インパクト | impakuto | Impact (tác động) |
 
 
 # Rule 06 — 3-tier proposal: Good / Better / Best / 3段階提案
 
-> **Luận điểm.** Đưa **1 giá duy nhất** = khách bị bắt yes/no. Đưa **3 tier (Good / Better / Best)** = khách compare nội bộ → choice architecture nghiêng về Better (decoy effect). 95% khách Nhật sẽ chọn middle tier nếu cấu trúc đúng.
+> **Luận điểm.** Đưa **1 giá duy nhất** = khách bị bắt yes/no. Đưa **3 tier (Good / Better / Best)** = khách compare nội bộ → kiến trúc lựa chọn (choice architecture) nghiêng về Better (hiệu ứng mồi / decoy effect). 95% khách Nhật sẽ chọn middle tier nếu cấu trúc đúng.
 >
 > 1価格提示は yes/no を迫る。3段階提案 (Good/Better/Best) は社内比較を促し、**中間案 (Better) が選ばれる確率を高める**。Phase 3 のような戦略案件は必ず 3 段階で出す。
 >
@@ -472,9 +472,9 @@ Họp với Hà CTO + Hương + Tuấn xong, Dũng cần soạn proposal deck. H
 | **フオン** | 「完璧。**Better が『現実解』に見える構造**。明日のキックオフで使おう。」 |
 
 📝 **Ghi chú:**
-- 【1】**Recommended 表示** — chữ "おすすめ"/"推奨" trên Better tile, nghiên cứu UX cho thấy +35% conversion.
+- 【1】**Recommended 表示** — chữ "おすすめ"/"推奨" trên ô Better, nghiên cứu trải nghiệm người dùng cho thấy +35% conversion.
 - 【2】**Good intentional weakness** — KHÔNG phải Good là "rẻ và OK", phải là "rẻ nhưng thiếu cái khách cần" → khách tự loại.
-- 【3】**Best intentional excess** — overspec để Better thành "vừa phải". Best vẫn phải là deal nếu khách chọn (không phải fake option).
+- 【3】**Best intentional excess** — overspec để Better thành "vừa phải". Best vẫn phải là deal nếu khách chọn (không phải lựa chọn giả / fake option).
 
 ---
 
@@ -516,7 +516,7 @@ Họp với Hà CTO + Hương + Tuấn xong, Dũng cần soạn proposal deck. H
 
 # Rule 07 — Pre-meeting alignment nội bộ / 事前社内すり合わせ
 
-> **Luận điểm.** Trước khi đối diện khách, **internal team phải align 100%**: ai nói gì, ai im khi nào, walk-away được approve, concession ladder thống nhất. Khách Nhật phát hiện disagreement nội bộ trong 5 phút → leverage để chia rẽ.
+> **Luận điểm.** Trước khi đối diện khách, **internal team phải align 100%**: ai nói gì, ai im khi nào, walk-away được approve, concession ladder thống nhất. Khách Nhật phát hiện disagreement nội bộ trong 5 phút → đòn bẩy để chia rẽ.
 >
 > 商談前の社内すり合わせは『誰が何を言う・誰がいつ黙る・撤退ライン承認・譲歩順序』を全員一致させる作業。社内の不一致を相手に見られたら leverage 取られる。
 >
@@ -540,7 +540,7 @@ Sáng đàm phán Phase 3 lúc 9:00, đàm phán 14:00 với 大垣 + 中村 CFO
 | **L4** | **大垣** *(微笑)* | 「あ、トゥアンさんは ¥16M でいけるんですね。じゃあそれでお願いします。」 |
 | **L5** | **ズン** *(顔色変)* | 「いえ、ちょっと…社内確認を…」 |
 
-**Vì sao xấu:** Tuấn không biết walk-away ¥15M, không biết concession ladder. Tự ý quote ¥16M trong phòng → 大垣 chốt ngay. Dũng mất control. Phải align trước: **Tuấn KHÔNG được quote giá**, chỉ Dũng quote, Tuấn answer technical.
+**Vì sao xấu:** Tuấn không biết walk-away ¥15M, không biết concession ladder. Tự ý quote ¥16M trong phòng → 大垣 chốt ngay. Dũng mất control. Phải align trước: **Tuấn KHÔNG được quote giá**, chỉ Dũng quote, Tuấn trả lời phần kỹ thuật.
 
 ---
 
@@ -574,7 +574,7 @@ Sáng đàm phán Phase 3 lúc 9:00, đàm phán 14:00 với 大垣 + 中村 CFO
 
 ## ⚠ Tránh
 
-- "Improvise trong phòng cũng được" → 大垣 sharp đọc được trong 3 phút
+- "Ứng biến trong phòng cũng được" → 大垣 sharp đọc được trong 3 phút
 - Tuấn (technical) quote giá → mất control vĩnh viễn
 - Quên thống nhất escalation phrase → khách hỏi khó, mỗi người trả lời khác
 - Không có physical signal → trong phòng không thể "ssh" miệng nhau
@@ -637,7 +637,7 @@ Sáng đàm phán Phase 3, sau alignment meeting. Hà CTO yêu cầu Dũng đọ
 📝 **Ghi chú:**
 - 【1】**5 軸 walk-away** — 価格 / IP / SLA / 支払 / 責任上限. Một số vụ thêm: 競業避止、再委託禁止 etc.
 - 【2】**責任上限 (liability cap)** — thường = 契約金額の 100%. Khách JP đôi khi đòi unlimited → walk-away ngay.
-- 【3】**Core IP vs white-label** — định nghĩa rõ ranh giới. AI engine bản thể vs customization layer.
+- 【3】**Core IP vs white-label** — định nghĩa rõ ranh giới. AI engine bản thể vs lớp tùy chỉnh.
 
 ---
 
@@ -674,7 +674,7 @@ Sáng đàm phán Phase 3, sau alignment meeting. Hà CTO yêu cầu Dũng đọ
 
 # Rule 09 — Concession plan / 譲歩計画
 
-> **Luận điểm.** Concession plan = **trước khi vào phòng**, viết ra: nhượng cái gì, theo thứ tự nào, đổi lấy cái gì. Mỗi nhượng bộ phải kèm **trade ngược** (rule 24). Nếu không có plan, sẽ nhượng theo cảm xúc → leak value khoảng 15-25%.
+> **Luận điểm.** Concession plan = **trước khi vào phòng**, viết ra: nhượng cái gì, theo thứ tự nào, đổi lấy cái gì. Mỗi nhượng bộ phải kèm **đánh đổi ngược** (rule 24). Nếu không có plan, sẽ nhượng theo cảm xúc → rò giá trị khoảng 15-25%.
 >
 > 譲歩は事前にladder化する: **何を・どの順番で・何と引き換えに**。各譲歩に必ず trade を付与する。計画なしの譲歩は感情ベースになり、価値漏洩 (15-25%) を起こす。
 >
@@ -714,7 +714,7 @@ Tối hôm trước đàm phán, Hương review concession plan cuối của Dũ
 📝 **Ghi chú:**
 - 【1】**5 ladder + trade per step** — 譲歩の各段に必ず引き換え条件を1つ以上.
 - 【2】**Trade options 例**: 契約期間延長, scope giảm, payment terms (net 60→net 30), 事例公開, 競合排除条項, 専属期間, 紹介料, 追加機能後出し.
-- 【3】**Trade-back 原則**: trade 拒否されたら譲歩も取り下げる. これがないと unilateral concession になる.
+- 【3】**Nguyên tắc đánh đổi ngược (trade-back)**: trade 拒否されたら譲歩も取り下げる. これがないと unilateral concession になる.
 
 ---
 
@@ -722,7 +722,7 @@ Tối hôm trước đàm phán, Hương review concession plan cuối của Dũ
 
 > **「譲歩はladder化、各段にtrade、trade拒否されたら譲歩も取り下げる。」**
 >
-> *Nhượng bộ ladder, mỗi nấc có trade, trade bị từ chối thì rút lại nhượng bộ.*
+> *Nhượng bộ theo bậc thang, mỗi nấc có điều kiện đổi, điều kiện bị từ chối thì rút lại nhượng bộ.*
 
 ---
 
@@ -730,7 +730,7 @@ Tối hôm trước đàm phán, Hương review concession plan cuối của Dũ
 
 - Nhượng giá thuần "1M ずつ" → tự kill margin
 - Trade quên cho mỗi step → khách lấy không
-- Quên "trade-back" rule → bị bóc trade riêng, giữ lại nhượng bộ
+- Quên nguyên tắc đánh đổi ngược → bị bóc trade riêng, giữ lại nhượng bộ
 - Concession quá nhanh (¥19→¥17 trong 5 phút) → khách đoán còn dư địa lớn → push tới ¥14M
 
 ---
@@ -756,7 +756,7 @@ Tối hôm trước đàm phán, Hương review concession plan cuối của Dũ
 
 # Rule 10 — Câu mở chào lịch sự / 商談冒頭
 
-> **Luận điểm.** 30 giây đầu của đàm phán = anchor cho cả buổi. Câu mở phải có 4 phần: **(1) Cảm ơn thời gian**, **(2) Tự giới thiệu lại nếu có đa người**, **(3) Acknowledge tình hình khách**, **(4) Nói rõ today's intent ngắn**. Đi thẳng vào bargain = mất tone formal.
+> **Luận điểm.** 30 giây đầu của đàm phán = anchor cho cả buổi. Câu mở phải có 4 phần: **(1) Cảm ơn thời gian**, **(2) Tự giới thiệu lại nếu có đa người**, **(3) Ghi nhận tình hình khách**, **(4) Nói rõ mục tiêu hôm nay ngắn gọn**. Đi thẳng vào bargain = mất giọng điệu trang trọng.
 >
 > 商談冒頭の30秒は全体のtoneを決める。4要素必須: お礼・再自己紹介・相手状況への言及・本日の意図。直で値段の話に入るのは粗野。
 >
@@ -797,7 +797,7 @@ Tối hôm trước đàm phán, Hương review concession plan cuối của Dũ
 - 【1】**お礼が最初** — 「お忙しい中」必ず付ける。CFO クラスにはこの一言で「あなたの時間を尊重」を伝える.
 - 【2】**再自己紹介 + チームメンバー紹介** — 名刺交換しているが、口頭でも明示. 特に CFO 同席時.
 - 【3】**相手状況への言及 (IR / 業績 / 季節)** — 顧客リサーチ (rule 04) の成果をここで使う. "anh/chị nhớ đến tình hình bên em" tone Nhật quan trọng.
-- 【4】**本日の意図を1文で**: "3 段階の選択肢" — KHÔNG quote giá ngay, để discovery đi trước.
+- 【4】**Mục tiêu hôm nay gói trong 1 câu**: "3 段階の選択肢" — KHÔNG quote giá ngay, để discovery đi trước.
 
 ---
 
@@ -805,7 +805,7 @@ Tối hôm trước đàm phán, Hương review concession plan cuối của Dũ
 
 > **「商談冒頭30秒は4要素 (お礼・再紹介・相手状況・本日意図)。値段は冒頭に出さない。」**
 >
-> *30s mở đàm phán cần 4 yếu tố: cảm ơn / tự giới thiệu lại / acknowledge khách / today's intent. KHÔNG quote giá ngay đầu.*
+> *30s mở đàm phán cần 4 yếu tố: cảm ơn / tự giới thiệu lại / ghi nhận tình hình khách / mục tiêu hôm nay. KHÔNG quote giá ngay đầu.*
 
 ---
 
@@ -834,7 +834,7 @@ Tối hôm trước đàm phán, Hương review concession plan cuối của Dũ
 
 # Rule 11 — Set context + agenda / コンテキスト設定
 
-> **Luận điểm.** Sau câu mở chào (rule 10), set **shared context** trong 60-90s: (1) recap 2-3 điểm key từ meeting trước, (2) confirm nothing changed/something changed phía khách, (3) đề xuất agenda hôm nay. Bỏ qua → khách CFO senior bị "lost", tone xuống.
+> **Luận điểm.** Sau câu mở chào (rule 10), set **shared context** trong 60-90s: (1) recap 2-3 điểm key từ meeting trước, (2) confirm nothing changed/something changed phía khách, (3) đề xuất agenda hôm nay. Bỏ qua → khách CFO senior bị "lost", bầu không khí xuống.
 >
 > 冒頭挨拶後、60-90秒で共通コンテキストを設定する: 前回ハイライト recap → 状況確認 → 本日 agenda 提示。CFO 同席など senior 入りでは特に重要。
 >
@@ -858,7 +858,7 @@ Sau câu mở (rule 10), Dũng vào phần thứ 2 — set context. 中村 CFO m
 | **中村CFO** | 「あ…えっと、Phase 3 って、Phase 2 はどこまで進んだんですか？」 |
 | **大垣** | 「中村さん、Phase 2 は昨年12月に完了して、次は…」 |
 
-**Vì sao xấu:** CFO không có context Phase 2. Dũng vào discovery question luôn → CFO bị lost → 大垣 phải bridge thay → tốn 5 phút và mất control. Lý ra Dũng phải proactively recap.
+**Vì sao xấu:** CFO không có context Phase 2. Dũng vào discovery question luôn → CFO bị lost → 大垣 phải giải thích thay → tốn 5 phút và mất control. Lý ra Dũng phải proactively recap.
 
 ---
 
@@ -891,8 +891,8 @@ Sau câu mở (rule 10), Dũng vào phần thứ 2 — set context. 中村 CFO m
 ## ⚠ Tránh
 
 - Vào discovery luôn không recap → senior khách bị lost
-- Recap dài lê thê (3 phút) → tốn budget time
-- Quên hỏi "状況変更ありますか" → bỏ lỡ early intel về budget cut, restructuring
+- Recap dài lê thê (3 phút) → tốn quỹ thời gian
+- Quên hỏi "状況変更ありますか" → bỏ lỡ thông tin sớm về cắt ngân sách, cơ cấu lại
 - Agenda không có time-box → buổi đàm phán lê thê
 
 ---
@@ -912,7 +912,7 @@ Sau câu mở (rule 10), Dũng vào phần thứ 2 — set context. 中村 CFO m
 
 # Rule 12 — Discovery questions: 5 categories / ディスカバリー質問
 
-> **Luận điểm.** Trước khi đề xuất giá, hỏi 5 category: **(1) Pain** (vấn đề thực sự), **(2) Goal** (đích đến), **(3) Budget**, **(4) Timeline**, **(5) Decision** (ai duyệt, quy trình). Bỏ qua 1 category = đoán → khả năng cao quote sai. Tỉ lệ deal won tăng 2-3x với discovery đầy đủ.
+> **Luận điểm.** Trước khi đề xuất giá, hỏi 5 category: **(1) Pain** (vấn đề thực sự), **(2) Goal** (đích đến), **(3) Budget** (ngân sách), **(4) Timeline** (thời hạn), **(5) Decision** (ai duyệt, quy trình). Bỏ qua 1 category = đoán → khả năng cao quote sai. Tỉ lệ deal won tăng 2-3x với discovery đầy đủ.
 >
 > 価格提示前に必ず5カテゴリ (Pain/Goal/Budget/Timeline/Decision) を質問。1つでも飛ばすと当てずっぽう提案になる。
 >
@@ -968,7 +968,7 @@ Sau context setting (rule 11), Dũng vào discovery 30 phút. Đây là phần d
 
 > **「Pain・Goal・Budget・Timeline・Decision の5観点を必ずカバー。1つ飛ばすと当てずっぽう。」**
 >
-> *5 trục Pain/Goal/Budget/Timeline/Decision — bỏ 1 trục = đoán mò.*
+> *5 trục Vấn đề/Mục tiêu/Ngân sách/Thời hạn/Người quyết định (Pain/Goal/Budget/Timeline/Decision) — bỏ 1 trục = đoán mò.*
 
 ---
 
@@ -1117,7 +1117,7 @@ Sau khi đào constraint của IT lead (rule 13), Dũng tiếp tục discovery. 
 
 📝 **Ghi chú:**
 - 【1】**「つまり、〜とのご認識でよろしいでしょうか」** = mặc định mirror phrase. Đảm bảo khách correct nếu sai.
-- 【2】**Mirror back nuance khách thêm vào** ("超えなくて大丈夫" → "超過不要") — phải bắt được nuance, KHÔNG paraphrase quá.
+- 【2】**Mirror back sắc thái khách thêm vào** ("超えなくて大丈夫" → "超過不要") — phải bắt được sắc thái tinh tế, KHÔNG paraphrase quá.
 - Mirror tại chỗ tốn 10 giây nhưng tiết kiệm ngày làm proposal sai.
 
 ---
@@ -1133,7 +1133,7 @@ Sau khi đào constraint của IT lead (rule 13), Dũng tiếp tục discovery. 
 ## ⚠ Tránh
 
 - Paraphrase quá xa nguyên văn → khách không recognize → thấy mình "không nghe"
-- Mirror chỉ những gì mình thích, bỏ qua nuance khó (vd: "超えなくて大丈夫" mà mirror thành "+15% 以上目指す")
+- Mirror chỉ những gì mình thích, bỏ qua sắc thái khó (vd: "超えなくて大丈夫" mà mirror thành "+15% 以上目指す")
 - Mirror sau 30 phút → không kịp correct
 - Mirror ra dạng câu hỏi đóng yes/no liên tục → tone interrogation. Đan với open question.
 
@@ -1232,7 +1232,7 @@ Trong discovery (rule 12 step Budget), Dũng cần probe budget ceiling của Ha
 
 # Rule 16 — Confirm decision authority / 決裁者確認
 
-> **Luận điểm.** Tỉnh táo: ai trong phòng là **真の決裁者**, ai chỉ là gatekeeper. Câu hỏi chuẩn: "最終決裁は〜様でいらっしゃいますでしょうか？" + "ご決裁の前に、技術検証や予算審議など、どのようなステップが残っていらっしゃいますか？" Bỏ sót → quote sai người, mất thời gian.
+> **Luận điểm.** Tỉnh táo: ai trong phòng là **真の決裁者**, ai chỉ là người gác cửa (gatekeeper). Câu hỏi chuẩn: "最終決裁は〜様でいらっしゃいますでしょうか？" + "ご決裁の前に、技術検証や予算審議など、どのようなステップが残っていらっしゃいますか？" Bỏ sót → quote sai người, mất thời gian.
 >
 > 商談中、誰が真の決裁者で誰が gatekeeper か必ず確認。「最終決裁は〜様でしょうか」+「決裁前のステップは何が残っていますか」の2段階質問。
 >
@@ -1289,7 +1289,7 @@ Trong discovery Decision step (rule 12), Dũng đã hỏi sơ "ai duyệt". Bây
 ## ⚠ Tránh
 
 - Đoán decision-maker → quote sai người
-- Hỏi "ai duyệt" mà không hỏi "còn step gì" → biết tên nhưng không biết cách
+- Hỏi "ai duyệt" mà không hỏi "còn bước nào" → biết tên nhưng không biết cách
 - Senior khách (CFO) ngồi đó mà nhìn về phía 部長 → mất 顔
 - Quên repeat back ステップ → khách không feel committed timeline
 
@@ -1324,7 +1324,7 @@ Discovery rule 12-16 đã ngốn 30 phút (đúng agenda). Dũng cần soft tran
 
 ---
 
-## ❌ Hội thoại XẤU — cứng nhắc cắt + để overrun
+## ❌ Hội thoại XẤU — cứng nhắc cắt + để chạy quá giờ
 
 *時計見て · 微妙に*
 
@@ -1336,7 +1336,7 @@ Discovery rule 12-16 đã ngốn 30 phút (đúng agenda). Dũng cần soft tran
 
 **Vì sao xấu:** Cứng "終わりですので、次へ進みます" = lạnh, mất relationship. 大垣 cảm "không được nghe". Cũng không acknowledge câu hỏi quan trọng của khách.
 
-**Pattern XẤU 2** (ngược lại): để discovery overrun → 60 phút mà chưa đến giá → kết thúc deals chưa quote → next meeting cần lại.
+**Pattern XẤU 2** (ngược lại): để discovery chạy quá giờ → 60 phút mà chưa đến giá → kết thúc deals chưa quote → next meeting cần lại.
 
 ---
 
@@ -1351,7 +1351,7 @@ Discovery rule 12-16 đã ngốn 30 phút (đúng agenda). Dũng cần soft tran
 | **ズン** | 「**お時間 30 分経過、agenda 通りに進んでおります**【3】。提案は3 段階でご用意しております…」 |
 
 📝 **Ghi chú:**
-- 【1】**Park question chứ không bỏ** — "next phaseで詳しく" = honor question + control time. Khách feel respected.
+- 【1】**Tạm gác câu hỏi chứ không bỏ** — "next phaseで詳しく" = honor question + control time. Khách feel respected.
 - 【2】**「そろそろ〜よろしいでしょうか」** = soft transition phrase. Khác với "終わりですので".
 - 【3】**Time check vocal** — gọi tên agenda progress giúp cả 2 bên track time. Cũng là tactic để control.
 
@@ -1361,15 +1361,15 @@ Discovery rule 12-16 đã ngốn 30 phút (đúng agenda). Dũng cần soft tran
 
 > **「『そろそろ次へ』+ 質問は park。固い『時間ですので』は relationship 傷つける。」**
 >
-> *"Có lẽ giờ chuyển sang phần tiếp..." + park câu hỏi. KHÔNG cứng "đã hết giờ". Cứng = hại relationship.*
+> *"Có lẽ giờ chuyển sang phần tiếp..." + tạm gác câu hỏi. KHÔNG cứng "đã hết giờ". Cứng = hại relationship.*
 
 ---
 
 ## ⚠ Tránh
 
 - 「時間ですので切ります」cứng → khách lạnh
-- Để discovery overrun 50 phút → không đến giá
-- Park question rồi quên không quay lại trong Q&A → khách feel fobbed off
+- Để discovery chạy quá 50 phút → không đến giá
+- Tạm gác câu hỏi rồi quên không quay lại trong Q&A → khách cảm thấy bị phớt lờ
 - Không gọi tên agenda time check → cả 2 bên drift
 
 ---
@@ -1557,7 +1557,7 @@ Sau anchor (rule 18), khách push back. Dũng cần phrase chuẩn cho counter o
 
 # Rule 20 — Đối phó với "高い" / 「高い」への対応
 
-> **Luận điểm.** "高い (đắt)" = signal khách quan tâm, KHÔNG phải reject. Pattern xử lý 3 bước: **(1) Acknowledge** ("ご指摘の点、もっともでございます"), **(2) Reframe** (chuyển từ price sang value/ROI/cost-of-inaction), **(3) Option** (đưa scenario điều chỉnh có trade). Nhảy giảm giá ngay = leak value.
+> **Luận điểm.** "高い (đắt)" = signal khách quan tâm, KHÔNG phải reject. Pattern xử lý 3 bước: **(1) Ghi nhận** ("ご指摘の点、もっともでございます"), **(2) Đổi góc nhìn** (chuyển từ price sang value/ROI/chi phí khi không hành động), **(3) Option** (đưa scenario điều chỉnh có trade). Nhảy giảm giá ngay = rò giá trị.
 >
 > 「高い」は購買意欲のサイン、reject ではない。3ステップ (Acknowledge → Reframe → Option) で対応。即値引きは弱さ暴露。
 >
@@ -1582,7 +1582,7 @@ Sau anchor (rule 18), khách push back. Dũng cần phrase chuẩn cho counter o
 | **中村CFO** | 「…¥16M でも高い。」 |
 | **ズン** | 「では ¥15M…」 |
 
-**Vì sao xấu:** Phản xạ giảm 1.5M trong 5 giây = signal "còn dư địa". CFO sẽ push tiếp xuống ¥13M. Mất 2M+ chỉ vì panic. Không acknowledge, không reframe.
+**Vì sao xấu:** Phản xạ giảm 1.5M trong 5 giây = signal "còn dư địa". CFO sẽ push tiếp xuống ¥13M. Mất 2M+ chỉ vì mất bình tĩnh. Không ghi nhận, không đổi góc nhìn.
 
 ---
 
@@ -1599,8 +1599,8 @@ Sau anchor (rule 18), khách push back. Dũng cần phrase chuẩn cho counter o
 | **中村CFO** | 「(A) の 2 年契約案、社内で持ち帰り検討します。」 |
 
 📝 **Ghi chú:**
-- 【1】**Acknowledge first** — không jump vào defense. Câu "ご指摘の点、もっともでございます" universal.
-- 【2】**Reframe phrase** "別の角度から" — chuyển từ "high price" sang "cost of inaction" / "ROI compare".
+- 【1】**Ghi nhận trước** — không jump vào defense. Câu "ご指摘の点、もっともでございます" universal.
+- 【2】**Câu đổi góc nhìn** "別の角度から" — chuyển từ "high price" sang "chi phí khi không hành động" / "ROI compare".
 - 【3】**Reframe bằng số cụ thể** — 2,400 時間, ¥730K/月, ¥1.2M/月, net +¥470K/月. CFO trust số.
 - 【4】**Option phải 3, không phải 1** — choice architecture. Khách chọn thay vì reject toàn bộ.
 
@@ -1610,7 +1610,7 @@ Sau anchor (rule 18), khách push back. Dũng cần phrase chuẩn cho counter o
 
 > **「『高い』は購買意欲。Acknowledge → Reframe → 3 Option の3拍。即値引きは弱さの暴露。」**
 >
-> *"Đắt" là dấu mua. Acknowledge → Reframe → 3 Option — 3 nhịp. Giảm ngay = phơi bày yếu thế.*
+> *"Đắt" là dấu mua. Ghi nhận → Đổi góc nhìn → 3 Option — 3 nhịp. Giảm ngay = phơi bày yếu thế.*
 
 ---
 
@@ -1618,7 +1618,7 @@ Sau anchor (rule 18), khách push back. Dũng cần phrase chuẩn cho counter o
 
 - 即値引き → leak value, push tiếp
 - Argue lại "高くないですよ" → confrontational, mất 顔
-- Reframe mơ hồ "value があります" → CFO không trust
+- Đổi góc nhìn mơ hồ "value があります" → CFO không trust
 - Đưa 1 option duy nhất → khách chỉ có yes/no
 
 ---
@@ -1685,8 +1685,8 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 
 📝 **Ghi chú:**
 - 【1】**「スコープ調整が必要」** — câu chuyển từ price negotiation sang scope negotiation. Giữ leverage.
-- 【2】**Cắt feature có thể "後出し" Phase 4** — KHÔNG mất khách, chỉ delay revenue. Khách ringi dễ pass hơn.
-- 【3】**"Unit price 同等"** = key sentence. CFO/部長 cần "internal explanation": "không bị giảm giá, chỉ giảm scope".
+- 【2】**Cắt feature có thể đẩy về sau (後出し) Phase 4** — KHÔNG mất khách, chỉ lùi thời gian thu. Khách ringi dễ pass hơn.
+- 【3】**"Đơn giá tương đương (unit price 同等)"** = key sentence. CFO/部長 cần "internal explanation": "không bị giảm giá, chỉ giảm scope".
 
 ---
 
@@ -1694,7 +1694,7 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 
 > **「価格でなく scope を交渉軸にする。Unit price 維持で総額調整、粗利率を守る。」**
 >
-> *Đàm phán scope, KHÔNG đàm phán giá đơn vị. Giữ unit price, điều chỉnh tổng tiền, bảo vệ margin.*
+> *Đàm phán scope, KHÔNG đàm phán đơn giá. Giữ đơn giá, điều chỉnh tổng tiền, bảo vệ margin.*
 
 ---
 
@@ -1776,7 +1776,7 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 
 ## ⚠ Tránh
 
-- Bundle-only refuse → CFO không write được ringi
+- Bundle-only refuse → CFO không soạn được ringi
 - Unbundle mà tổng KHÔNG bằng package → khách hỏi tại sao 不一致
 - Discount không có 根拠 → trust mất
 - Unbundle với tất cả khách → sometimes bundle-only better (đặc biệt khi client price-sensitive trên line items)
@@ -1793,7 +1793,7 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 | パッケージディスカウント | pakkēji disukaunto | Package discount |
 | 共通基盤化 | きょうつうきばんか | Build trên nền chung |
 | 還元 | かんげん | Hoàn lại / chia sẻ |
-| ラインアイテム | rain'aitemu | Line item |
+| ラインアイテム | rain'aitemu | Dòng ngân sách / hạng mục |
 | 稟議書 | りんぎしょ | Tài liệu ringi |
 
 
@@ -1875,7 +1875,7 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 | 上振れ | うわぶれ | Vượt dự kiến |
 | 第三者監査 | だいさんしゃかんさ | Third-party audit |
 | 取締役会 | とりしまりやくかい | HĐQT |
-| 控制された外挿 | せいぎょされたがいそう | Controlled extrapolation |
+| 控制された外挿 | せいぎょされたがいそう | Ngoại suy có kiểm soát |
 
 
 # Rule 24 — Trade concession (tit-for-tat) / 譲歩交換
@@ -1959,7 +1959,7 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 
 # Rule 25 — Silence as tool / 沈黙の活用
 
-> **Luận điểm.** Sau khi đưa offer, **đếm 7 giây im lặng**. Người Việt thường lấp khoảng lặng (cultural discomfort) → tự talk down giá. Khách Nhật quen với 沈黙 → ai phá im lặng trước = mất leverage. Practice trước gương.
+> **Luận điểm.** Sau khi đưa offer, **đếm 7 giây im lặng**. Người Việt thường lấp khoảng lặng (cultural discomfort) → tự talk down giá. Khách Nhật quen với 沈黙 → ai phá im lặng trước = mất lợi thế. Practice trước gương.
 >
 > Offer 後 7 秒沈黙ルール。最初に話した方が譲歩する。日本商談文化では沈黙は思考時間で当然。
 >
@@ -2024,7 +2024,7 @@ Trong phòng đàm phán, sau khi Dũng quote ¥18M anchor (rule 18), 大垣 im 
 
 - 自分から 1-3 秒で口を開く → 自爆
 - "あの、もし高いようでしたら…" — suicide phrase, KHÔNG bao giờ tự cung cấp 値引き option
-- Nhìn xuống / fidget khi im lặng → khách đọc là "anh đang lo"
+- Nhìn xuống / bồn chồn khi im lặng → khách đọc là "anh đang lo"
 - Practice không đủ → trong phòng tay run
 
 ---
@@ -2044,7 +2044,7 @@ Trong phòng đàm phán, sau khi Dũng quote ¥18M anchor (rule 18), 大垣 im 
 
 # Rule 26 — Đối phó với threat / ultimatum / 脅し・最終通告への対応
 
-> **Luận đischuyển. Khách hard "¥15M でなければ Y 社に発注", "今週中に決めなければ" = pressure tactic. Pattern xử lý: **(1) Bridge phrase** ("ご指摘の点、もっともでございます"), **(2) Reframe + boundary** ("ただ弊社として〜は難しい"), **(3) Escalate to senior** (anh Hà CTO step in). Match cứng = lose deal; cave in = lose margin. Bridge + escalate = win-stay.
+> **Luận điểm.** Khách hard "¥15M でなければ Y 社に発注", "今週中に決めなければ" = pressure tactic. Pattern xử lý: **(1) Câu chuyển** ("ご指摘の点、もっともでございます"), **(2) Đổi góc nhìn + giữ ranh giới** ("ただ弊社として〜は難しい"), **(3) Escalate to senior** (anh Hà CTO step in). Match cứng = lose deal; nhượng bộ quá mức = lose margin. Câu chuyển + escalate = giữ được lợi thế.
 >
 > 脅しや ultimatum は pressure tactic。Bridge phrase で受けて、reframe で boundary を示し、必要なら senior にエスカレーション。
 >
@@ -2088,8 +2088,8 @@ Trong phòng đàm phán, sau khi Dũng quote ¥18M anchor (rule 18), 大垣 im 
 | **大垣** | 「…CTO 同席ですと話が変わりますね。¥15.5M なら社内に持ち帰り検討します。」 |
 
 📝 **Ghi chú:**
-- 【1】**Bridge phrase** = de-escalation. KHÔNG argue ngay. "ご指摘の点、もっともでございます" = formal acknowledgment.
-- 【2】**Boundary phrase** "弊社として〜は難しい" — show position cứng nhưng tone polite.
+- 【1】**Câu chuyển** = hạ nhiệt. KHÔNG argue ngay. "ご指摘の点、もっともでございます" = ghi nhận chính thức.
+- 【2】**Câu giữ ranh giới** "弊社として〜は難しい" — show position cứng nhưng giọng điệu lịch sự.
 - 【3】**Senior escalation** "弊社 CTO をお呼びしてもよろしいでしょうか" — phải xin phép, không tự ý gọi.
 - 【4】**CTO 来ても scope-cut bằng số cụ thể** — "65% 達成度" là metric khiến khách nhận pain. CTO bring authority + new info.
 
@@ -2097,16 +2097,16 @@ Trong phòng đàm phán, sau khi Dũng quote ¥18M anchor (rule 18), 大垣 im 
 
 ## 🎯 Câu chốt
 
-> **「Bridge phrase で受け、boundary で抵抗、senior escalation で deescalate。Match も cave-in も両方避ける。」**
+> **「Bridge phrase で受け、boundary で抵抗、senior escalation で de-escalate。Match も cave-in も両方避ける。」**
 >
-> *Bridge để đỡ, boundary để giữ vị thế, senior step in để de-escalate. Tránh cả match cứng lẫn cave-in.*
+> *Câu chuyển để đỡ, giữ ranh giới để giữ vị thế, senior step in để hạ nhiệt. Tránh cả match cứng lẫn nhượng bộ quá mức.*
 
 ---
 
 ## ⚠ Tránh
 
 - "Y 社で本当にできるとは…" → challenge khách = mất 顔
-- "では ¥15M で" → cave-in giảm ¥3M trong 1 phút
+- "では ¥15M で" → nhượng bộ quá mức, giảm ¥3M trong 1 phút
 - Senior escalation không xin phép → bất lịch sự
 - Senior step in nhưng không bring new authority/info → useless escalation
 
@@ -2231,7 +2231,7 @@ Round 4: 大垣 + 中村 CFO push xuống ¥14M (dưới walk-away ¥15.5M). Hà
 | **ズン** | 「分かりました、では今回はなしで。残念ですね。Y 社さんに発注ということで…」 |
 | **大垣** | 「では失礼します。」 |
 
-**Vì sao xấu:** "残念" + reference Y社 = passive aggressive. Door closed. Phase 4 không có cơ hội. Tone "失敗" rõ ràng.
+**Vì sao xấu:** "残念" + reference Y社 = thái độ thù địch gián tiếp. Door closed. Phase 4 không có cơ hội. Tone "失敗" rõ ràng.
 
 ---
 
@@ -2265,7 +2265,7 @@ Round 4: 大垣 + 中村 CFO push xuống ¥14M (dưới walk-away ¥15.5M). Hà
 
 ## ⚠ Tránh
 
-- "Y 社さんに" reference passive-aggressive → door closed
+- "Y 社さんに" reference thái độ thù địch gián tiếp → door closed
 - Express anger/frustration → unprofessional, tin lan ra
 - "失敗" / "ダメ" tone → khách Nhật ghi nhớ + truyền tai
 - Quên door-open phrase → không có Phase 4 chance
@@ -2369,7 +2369,7 @@ Sau Phase 3 chốt ¥17M + 2 năm + dashboard kèm trade (rule 24), 田中 PMO S
 
 # Rule 30 — Confirm point of agreement / 合意点の確認
 
-> **Luận điểm.** Cuối phiên đàm phán, KHÔNG được kết thúc bằng "じゃあそれで". Phải **read back** từng item agreed: giá, scope, timeline, condition. Trong văn hóa 稟議, missing 1 item = sau ringi sẽ phát hiện gap → renegotiate. Read back = lock-in trước khi out of room.
+> **Luận điểm.** Cuối phiên đàm phán, KHÔNG được kết thúc bằng "じゃあそれで". Phải **read back** từng item agreed: giá, scope, timeline, condition. Trong văn hóa 稟議, missing 1 item = sau ringi sẽ phát hiện gap → renegotiate. Read back = chốt chắc trước khi ra khỏi phòng họp.
 >
 > 商談クロージングでは「合意事項の読み戻し」が必須。価格・スコープ・スケジュール・条件を一項目ずつ確認することで、稟議に上げた後の認識ズレを防ぐ。
 >
@@ -2421,7 +2421,7 @@ Round 3 đàm phán Phase 3 vừa close ¥17M + 2 năm + dashboard. Trước khi
 
 > **「合意の口頭読み戻し + 24時間以内 recap メール = ダブルロック。」**
 >
-> *Read back miệng + recap mail trong 24h = khóa kép. Skip = renegotiate.*
+> *Read back miệng + recap mail trong 24h = chốt kép. Skip = renegotiate.*
 
 ---
 
@@ -2635,7 +2635,7 @@ Xem `conversation.json` → `templates[0]` (`format: "report"`) cho LOI 1-2 tran
 
 ## Bối cảnh / 場面
 
-Contract draft v1 Tiên Phát gửi 大垣. Bên 白鷗 legal trả về v2 với (a) indemnity cap unlimited, (b) IP toàn bộ thuộc 白鷗 (kể cả reusable component). Hà CTO phản đối — Dũng cần đàm phán 3 vòng để đạt cap = ¥17M + IP split clause.
+Contract draft v1 Tiên Phát gửi 大垣. Bên 白鷗 legal trả về v2 với (a) indemnity cap unlimited, (b) IP toàn bộ thuộc 白鷗 (kể cả reusable component). Hà CTO phản đối — Dũng cần đàm phán 3 vòng để đạt cap = ¥17M + điều khoản phân chia IP (IP split clause).
 
 ---
 
@@ -2650,11 +2650,11 @@ Contract draft v1 Tiên Phát gửi 大垣. Bên 白鷗 legal trả về v2 vớ
 | (1 ヶ月後 contract 締結、Tuấn 知る) **トゥアン** | 「ズン、これ **無制限損害賠償** じゃないか…1 件 bug で会社潰れるぞ。」 |
 | **ハー CTO** | 「これ legal レビュー通したのか？ **撤回交渉**を今すぐかけるしかない。」 |
 
-**Vì sao xấu:** Indemnity unlimited = 1 production incident có thể dẫn đến ¥100M+ claim — Tiên Phát phá sản. IP toàn bộ thuộc 白鷗 = reusable AI component không thể dùng cho khách khác → Phase 4 mất margin. Đây là 2 fatal mistakes.
+**Vì sao xấu:** Indemnity unlimited = 1 production incident có thể dẫn đến ¥100M+ claim — Tiên Phát phá sản. IP toàn bộ thuộc 白鷗 = reusable AI component không thể dùng cho khách khác → Phase 4 mất margin. Đây là 2 sai sót nghiêm trọng.
 
 ---
 
-## ✅ Hội thoại TỐT — fine-tune 3 điểm với data + escalation
+## ✅ Hội thoại TỐT — tinh chỉnh 3 điểm với data + escalation
 
 *沈黙 5秒 → メモ*
 
@@ -2670,7 +2670,7 @@ Contract draft v1 Tiên Phát gửi 大垣. Bên 白鷗 legal trả về v2 vớ
 📝 **Ghi chú:**
 - 【1】**「ただし」 + 「持ち帰り検討」** — 即決 NO ではなく escalation バッファ。日本流 disagree 礼儀.
 - 【2】**Hà CTO walk-away line 明確** = 3 点。これ未満なら本当に撤退。曖昧なら negotiation で flip される.
-- 【3】**「業界標準」 framing** = 個人主張ではなく市場 norm. 受け入れ confidence 高い.
+- 【3】**「業界標準」 framing** = 個人主張ではなく市場 norm. Độ tin cậy cao hơn khi dùng "chuẩn ngành".
 
 ---
 
@@ -2709,7 +2709,7 @@ Contract draft v1 Tiên Phát gửi 大垣. Bên 白鷗 legal trả về v2 vớ
 
 # Rule 34 — Formal signature request / 調印依頼
 
-> **Luận điểm.** Final contract OK 2 bên → bước formal request signature. Câu chuẩn JP business: 「**ご署名・ご捺印いただけますでしょうか**」. KHÔNG được dùng "サイン" casual hay 「契約書送ります」 dry. Phải đi kèm: (a) lý do timing, (b) suggested method (eSignature vs print/seal), (c) deadline rõ.
+> **Luận điểm.** Final contract OK 2 bên → bước formal request signature. Câu chuẩn JP business: 「**ご署名・ご捺印いただけますでしょうか**」. KHÔNG được dùng "サイン" thông thường hay 「契約書送ります」 dry. Phải đi kèm: (a) lý do timing, (b) suggested method (eSignature vs print/seal), (c) deadline rõ.
 >
 > 最終契約合意後、調印依頼は決まり文句「ご署名・ご捺印いただけますでしょうか」で。timing・方法・期限 を 1 メールで明示する。
 >
@@ -2748,7 +2748,7 @@ Final contract v3 sau 3 round terms negotiation đã OK. Hà CTO ký bên Tiên 
 | **L6** | (16:30) **DocuSign 完了通知** → **ズン** *(Slack Hương)* | 「Phase 3 契約締結完了しました。Hà CTO + 大垣様 両社捺印済【4】。」 |
 
 📝 **Ghi chú:**
-- 【1】**「ご署名・ご捺印いただけますでしょうか」** = 調印依頼の決まり文句. 「サイン」 casual NG.
+- 【1】**「ご署名・ご捺印いただけますでしょうか」** = 調印依頼の決まり文句. 「サイン」 không trang trọng (casual) NG.
 - 【2】**Deadline 明示 + 理由 (キックオフ日)** = 急かしではなく合理的. 期限 1 週間以上余裕を持つ.
 - 【3】**2 method 提示** = 紙印鑑文化と eSignature 普及の混在期。選ばせると自分の都合で動ける.
 - 【4】**両社捺印済 = closure**. 内部 Slack で完了報告 → rule 37 internal kickoff へ.
@@ -2765,7 +2765,7 @@ Final contract v3 sau 3 round terms negotiation đã OK. Hà CTO ký bên Tiên 
 
 ## ⚠ Tránh
 
-- 「サイン」 casual → 商務文書では NG, 「ご署名・ご捺印」を使う
+- 「サイン」 không trang trọng → 商務文書では NG, 「ご署名・ご捺印」を使う
 - 件名「契約書」のみ → urgency 0
 - Deadline なし → 1-2 ヶ月放置
 - Single method (紙のみ / eSignature のみ) → 古い印鑑文化 or 新派どちらも逃す
@@ -2789,7 +2789,7 @@ Final contract v3 sau 3 round terms negotiation đã OK. Hà CTO ký bên Tiên 
 
 # Rule 35 — Negotiation walk-away gracefully / 商談打ち切り
 
-> **Luận điểm.** Khi terms không thể bridge → walk away. KHÔNG nói 「お断りします」 cứng. Câu chuẩn: 「**条件面で折り合いがつかず、今回は誠に残念ながら見送りとさせていただきます**」 + 「**ご縁がございましたら**」 maintain relationship door. JP business: relationship dài hạn quan trọng hơn deal đơn lẻ — walk away phong nhã = next opportunity.
+> **Luận điểm.** Khi terms không thể thỏa thuận được → walk away. KHÔNG nói 「お断りします」 cứng. Câu chuẩn: 「**条件面で折り合いがつかず、今回は誠に残念ながら見送りとさせていただきます**」 + 「**ご縁がございましたら**」 maintain relationship door. JP business: relationship dài hạn quan trọng hơn deal đơn lẻ — walk away phong nhã = next opportunity.
 >
 > 条件 bridge 不可で打ち切る場合、「お断り」 cứng は relationship 切断。「条件面で折り合いがつかず」+「ご縁がございましたら」で dignity 保持し関係維持。
 >
@@ -2799,7 +2799,7 @@ Final contract v3 sau 3 round terms negotiation đã OK. Hà CTO ký bên Tiên 
 
 ## Bối cảnh / 場面
 
-Phase 3 round 4: 大垣 push final ¥14M (dưới walk-away ¥15M của Hà CTO). Dũng đã trade scope, ROI reframe — không bridge được. Phải walk-away phong nhã, giữ door cho Phase 4 năm sau.
+Phase 3 round 4: 大垣 push final ¥14M (dưới walk-away ¥15M của Hà CTO). Dũng đã trade scope, đổi góc nhìn ROI — không tìm được điểm chung. Phải walk-away phong nhã, giữ door cho Phase 4 năm sau.
 
 ---
 
@@ -2863,7 +2863,7 @@ Phase 3 round 4: 大垣 push final ¥14M (dưới walk-away ¥15M của Hà CTO)
 | 漢字 / Tiếng Nhật | よみ | Nghĩa |
 |------|------|-------|
 | 打ち切り | うちきり | Hủy, dừng |
-| 折り合いがつかず | おりあいがつかず | Không bridge được điều kiện |
+| 折り合いがつかず | おりあいがつかず | Không khớp được điều kiện |
 | 見送り | みおくり | Tạm hoãn / không tiến hành |
 | 原価構造 | げんかこうぞう | Cấu trúc giá thành |
 | ご縁 | ごえん | Duyên / connection |
@@ -2873,7 +2873,7 @@ Phase 3 round 4: 大垣 push final ¥14M (dưới walk-away ¥15M của Hà CTO)
 
 # Rule 36 — Post-deal greeting (conservative) / 商談成立後の挨拶
 
-> **Luận điểm.** Sau ký xong, KHÔNG nên hype "ありがとうございます！！" 3 dấu chấm than. JP business: tone conservative, focus 「**身が引き締まる**」 (cảm nhận trọng trách) thay vì celebration. Hype = "未熟" perception. Câu chuẩn: 「**身の引き締まる思いです**」 + 「期待にお応えできるよう」 commit.
+> **Luận điểm.** Sau ký xong, KHÔNG nên thổi phồng "ありがとうございます！！" 3 dấu chấm than. JP business: giọng điệu chừng mực, focus 「**身が引き締まる**」 (cảm nhận trọng trách) thay vì ăn mừng. Phô trương quá = "未熟" perception. Câu chuẩn: 「**身の引き締まる思いです**」 + 「期待にお応えできるよう」 commit.
 >
 > 商談成立後の挨拶は控えめに。「ありがとうございます！！」は未熟な印象。「身の引き締まる思い」「期待に応える」が大人の表現。
 >
@@ -2883,7 +2883,7 @@ Phase 3 round 4: 大垣 push final ¥14M (dưới walk-away ¥15M của Hà CTO)
 
 ## Bối cảnh / 場面
 
-DocuSign 完了通知 16:30。Dũng vui vẻ. Cần gửi thank-you mail cho 大垣. Đây là first impression cho phase delivery — quá hype = lo. Quá dry = lạnh. Cần "身が引き締まる" tone.
+DocuSign 完了通知 16:30。Dũng vui vẻ. Cần gửi thank-you mail cho 大垣. Đây là ấn tượng đầu cho giai đoạn bàn giao — quá phô trương = lo ngại. Quá dry = lạnh. Cần "身が引き締まる" tone.
 
 ---
 
@@ -2896,7 +2896,7 @@ DocuSign 完了通知 16:30。Dũng vui vẻ. Cần gửi thank-you mail cho 大
 | **L3** | (大垣 内部 PM 田中 に転送) **大垣 メモ** | 「ティエンファットの BD ちょっと若いな。**delivery が大丈夫か少し不安**。田中さん、初回 weekly でしっかり grip お願い。」 |
 | **L4** | (Tanaka PMO 内部 Slack) **田中** | 「了解しました。最初は厳しめに review します。」 |
 
-**Vì sao xấu:** 3 dấu chấm than + 「嬉しいです」 emotional expression → JP exec đọc thấy "学生っぽい". Khách trở nên **defensive** ngay từ đầu phase delivery — Tanaka PMO sẽ scrutinize mỗi report. Project khó hơn 30%.
+**Vì sao xấu:** 3 dấu chấm than + 「嬉しいです」 emotional expression → JP exec đọc thấy "学生っぽい". Khách trở nên **defensive** ngay từ đầu giai đoạn bàn giao — Tanaka PMO sẽ soi xét kỹ từng report. Project khó hơn 30%.
 
 ---
 
@@ -2923,15 +2923,15 @@ DocuSign 完了通知 16:30。Dũng vui vẻ. Cần gửi thank-you mail cho 大
 
 > **「ありがとうございます！！ ❌ → 身の引き締まる思いです ✅。Hype = 未熟、commit = 大人。」**
 >
-> *Hype 3 chấm than = "non". Conservative + commit = "trưởng thành".*
+> *Phô trương 3 chấm than = "non". Chừng mực + cam kết = "trưởng thành".*
 
 ---
 
 ## ⚠ Tránh
 
 - 「！！」 多用 → JP exec mail で完全 NG
-- 「嬉しい」 / 「最高です」 emotional → 学生レベル
-- Casual な感謝 「サンキューです！」 → 即終了 relationship
+- 「嬉しい」 / 「最高です」 cảm xúc → 学生レベル
+- Cảm ơn thông thường 「サンキューです！」 → 即終了 relationship
 - 即 next step push (「次のフェーズも is お願いします!」) → desperate. Phase 3 delivery が先
 - Reply 待たずに follow-up 連発 → 静寂を尊重
 
@@ -2952,7 +2952,7 @@ DocuSign 完了通知 16:30。Dũng vui vẻ. Cần gửi thank-you mail cho 大
 
 # Rule 37 — Internal kickoff hand-off / 社内キックオフ
 
-> **Luận điểm.** Sau ký, phase delivery do Tanaka PMO + Tuấn drive — KHÔNG phải Dũng. Nhưng Dũng owns hand-off: **(1) Negotiation context summary** (tại sao ¥17M, scope mỗi phần đến từ trade nào), **(2) Khách side personality map** (Ōgaki direct, Tanaka detail), **(3) Open promises** (mọi commitment miệng còn nợ). Skip hand-off → delivery team rediscover, redo work, cost time.
+> **Luận điểm.** Sau ký, phase bàn giao do Tanaka PMO + Tuấn drive — KHÔNG phải Dũng. Nhưng Dũng chịu trách nhiệm bàn giao: **(1) Negotiation context summary** (tại sao ¥17M, scope mỗi phần đến từ trade nào), **(2) Hồ sơ nhân sự phía khách** (Ōgaki trực tiếp, Tanaka chi tiết), **(3) Open promises** (mọi commitment miệng còn nợ). Skip bàn giao → delivery team rediscover, redo work, tốn thời gian.
 >
 > 商談 → delivery 引き継ぎでは、価格・スコープの背景、相手 personality、口頭 commitment を文書化して PMO + Tech Lead に渡す。
 >
@@ -2962,11 +2962,11 @@ DocuSign 完了通知 16:30。Dũng vui vẻ. Cần gửi thank-you mail cho 大
 
 ## Bối cảnh / 場面
 
-Phase 3 ký xong thứ Hai. Thứ Tư có internal kickoff: Tuấn (Tech Lead delivery), Tanaka PMO 白鷗 join async, Dũng hand-off. Nếu Dũng chỉ "contract attach, có gì hỏi" → tuần thứ 2 Tuấn sẽ Slack "scope item này từ đâu ra?" và Ōgaki Slack lại Dũng → spiral.
+Phase 3 ký xong thứ Hai. Thứ Tư có internal kickoff: Tuấn (Tech Lead delivery), Tanaka PMO 白鷗 join async, Dũng bàn giao. Nếu Dũng chỉ "contract attach, có gì hỏi" → tuần thứ 2 Tuấn sẽ Slack "scope item này từ đâu ra?" và Ōgaki Slack lại Dũng → vòng xoáy leo thang.
 
 ---
 
-## ❌ Hội thoại XẤU — hand-off lỏng, không context
+## ❌ Hội thoại XẤU — bàn giao lỏng, không context
 
 | | Speaker | Câu (社内 MTG) |
 |--|---------|-----|
@@ -2980,7 +2980,7 @@ Phase 3 ký xong thứ Hai. Thứ Tư có internal kickoff: Tuấn (Tech Lead de
 
 ---
 
-## ✅ Hội thoại TỐT — 30 phút structured hand-off + doc
+## ✅ Hội thoại TỐT — 30 phút bàn giao có cấu trúc + doc
 
 *MTG 開始 · ① context · ② personality · ③ open promises · Slack 同期*
 
@@ -2994,7 +2994,7 @@ Phase 3 ký xong thứ Hai. Thứ Tư có internal kickoff: Tuấn (Tech Lead de
 | **田中PMO** | 「ズン様、ありがとうございました。tomorrow 朝、Tuấn さんと初回 sync 設定します。引継ぎ doc 拝見しました【4】、 personality map 助かります。」 |
 
 📝 **Ghi chú:**
-- 【1】**3 セクション structure** — context / personality / promises. それぞれ 8-10 分.
+- 【1】**Cấu trúc 3 phần** — context / hồ sơ nhân sự / promises. それぞれ 8-10 分.
 - 【2】**「交渉的 NG」 vs 「技術的可能」** = delivery team が知らないと shortcut で SLA 落とす可能性. Tradeoff の歴史を共有.
 - 【3】**口頭 commitment 必ず文書化**. 「ついで」「次回も」 は契約外でも顧客記憶。Tanaka PMO 知らないと将来 nibble (rule 29) source.
 - 【4】**Pre-share doc + 同期 read** = MTG が確認の場になる、 discovery の場ではない.
@@ -3005,17 +3005,17 @@ Phase 3 ký xong thứ Hai. Thứ Tư có internal kickoff: Tuấn (Tech Lead de
 
 > **「ハンドオフ 3 セクション (context / personality / open promises) + 事前 doc 共有 = delivery team 立ち上がり -2 週間。」**
 >
-> *Hand-off 3 sections + pre-share doc = delivery team start sớm 2 tuần.*
+> *Bàn giao 3 phần + pre-share doc = delivery team start sớm 2 tuần.*
 
 ---
 
 ## ⚠ Tránh
 
 - 「contract 読んでください」 only → context loss 100%
-- Personality map skip → delivery team が "なぜ Ōgaki さん厳しい" 自学。1 ヶ月コスト
+- Hồ sơ nhân sự skip → delivery team が "なぜ Ōgaki さん厳しい" 自学。1 ヶ月コスト
 - 口頭 commitment 文書化忘れ → 顧客から急に "あれは" 引用 → contract 外なのに対応せざるを得ず
-- Hand-off MTG なし、Slack DM のみ → 文脈が search でき even retrievable
-- Hand-off 後も Dũng が delivery 質問対応続ける → ownership が曖昧, Tuấn 育たず
+- Không có buổi bàn giao, chỉ Slack DM → 文脈が search でき even retrievable
+- Sau bàn giao Dũng が delivery 質問対応続ける → trách nhiệm が曖昧, Tuấn 育たず
 
 ---
 
@@ -3034,7 +3034,7 @@ Phase 3 ký xong thứ Hai. Thứ Tư có internal kickoff: Tuấn (Tech Lead de
 
 # Rule 38 — Public PR release joint approval / 対外発表
 
-> **Luận điểm.** PR release announce contract = excellent marketing for cả 2 bên — nhưng JP business **cực kỳ sensitive** với wording. Bắt buộc: (a) **joint approval** từ both legal + PR depts, (b) tránh exact ¥ figure (dùng "数千万円規模"), (c) tên client trong câu sau Tiên Phát (KHÔNG đặt 白鷗 đầu giả "勝った" tone), (d) embargo 同日同時刻 release.
+> **Luận điểm.** PR release announce contract = excellent marketing for cả 2 bên — nhưng JP business **cực kỳ nhạy cảm** với cách dùng từ. Bắt buộc: (a) **joint approval** từ both legal + PR depts, (b) tránh exact ¥ figure (dùng "数千万円規模"), (c) tên client trong câu sau Tiên Phát (KHÔNG đặt 白鷗 đầu giả "勝った" tone), (d) embargo 同日同時刻 release.
 >
 > 対外 PR は両社 legal + PR の joint approval 必須。金額明示は避け「数千万円規模」, embargo 同時 release が日本流。
 >
@@ -3048,7 +3048,7 @@ Phase 3 Pricing ¥17M — milestone. Marketing Hizashi muốn release. Linh (Mar
 
 ---
 
-## ❌ Hội thoại XẤU — solo release + exact figure
+## ❌ Hội thoại XẤU — phát hành riêng một bên + ghi chính xác số tiền
 
 *Slack Dũng · 忙しく流し読み · 電話 angry · 青*
 
@@ -3095,7 +3095,7 @@ Phase 3 Pricing ¥17M — milestone. Marketing Hizashi muốn release. Linh (Mar
 
 ## ⚠ Tránh
 
-- Solo release → relationship dent immediate
+- Phát hành riêng một bên → relationship dent immediate
 - ¥ exact figure → 競合に予算 exposed → 来年 budget cut risk
 - 白鷗 名前先 (例: 「白鷗株式会社、ティエンファット社と…」) → 「ティエンファットが selected vendor」 dynamic に逆 (謙虚さ的 OK だが embedded marketing 効果 reduced)
 - Embargo 1 日ズレ → "うちが先" 感
@@ -3114,7 +3114,7 @@ Phase 3 Pricing ¥17M — milestone. Marketing Hizashi muốn release. Linh (Mar
 | 同時 release | どうじリリース | Cùng lúc release |
 | Joint quote | ジョイントクオート | Trích dẫn chung |
 | 体裁 | ていさい | Hình thức / dáng vẻ |
-| 文言 | もんごん | Câu chữ / wording |
+| 文言 | もんごん | Câu chữ / cách dùng từ |
 
 ---
 
@@ -3151,7 +3151,7 @@ Phase 3 ký + PR release thứ Năm. Chiều thứ Sáu Dũng có 1 giờ — se
 | **リン** | 「ズン先輩、私は今 別案件で…」 |
 | (背景: Linh は Phase 3 PR を 3 日 overtime で作成、感謝された記憶 specific になし) |  |
 
-**Vì sao xấu:** Generic "お疲れ様" = 全員に同じ = 個別貢献 invisible。Junior は「自分の effort 認識されてない」と感じる → 次のお願い時に冷たい response。Loyalty drift。
+**Vì sao xấu:** Generic "お疲れ様" = 全員に同じ = 個別貢献 không được thấy。Junior は「自分の effort 認識されてない」と感じる → 次のお願い時に冷たい response。Loyalty suy giảm。
 
 ---
 
@@ -3190,7 +3190,7 @@ Phase 3 ký + PR release thứ Năm. Chiều thứ Sáu Dũng có 1 giờ — se
 
 - 「みんなお疲れ様」 1 行で済ませる → junior 心が冷める
 - Junior の貢献を generic 化 (「PR 作ってくれてありがとう」) → 詳細な effort が見えない
-- Senior だけ thank → junior は "自分は invisible" と感じる
+- Senior だけ thank → junior は "自分は âm thầm, không ai thấy" と感じる
 - 全体 post 先 → 個別 DM の重みが減る
 - 経理・法務 などの support function 忘れ → これら 1 mistake で会社が潰れる職種
 
@@ -3216,7 +3216,7 @@ Phase 3 ký + PR release thứ Năm. Chiều thứ Sáu Dũng có 1 giờ — se
 
 # Rule 40 — Multi-party negotiation / 多者間交渉
 
-> **Luận điểm.** Khi 中村 CFO + 大垣 + 松本 PM **cùng tham gia** 1 phiên = 3 stakeholders, 3 priorities. **CFO** = giá / ROI, **営業部長** = total deal / relationship, **PM** = scope / timeline. Trả lời chỉ 1 người = 2 người disengage. Pattern: **(1) Identify từng concern**, **(2) Address parallel** (1 câu cho mỗi role), **(3) Address senior cuối cùng** (CFO).
+> **Luận điểm.** Khi 中村 CFO + 大垣 + 松本 PM **cùng tham gia** 1 phiên = 3 stakeholders, 3 priorities. **CFO** = giá / ROI, **営業部長** = total deal / relationship, **PM** = scope / timeline. Trả lời chỉ 1 người = 2 người mất kết nối. Pattern: **(1) Identify từng concern**, **(2) Address song song** (1 câu cho mỗi role), **(3) Address senior cuối cùng** (CFO).
 >
 > 多者間交渉では役割別 concern (CFO=ROI、営業=total deal、PM=scope) を識別し、各人に並列 address。最後に senior (CFO) に回す。
 >
@@ -3266,7 +3266,7 @@ Phase 3 final round, executive review: 中村 CFO + 大垣 + 松本 PM joined Ti
 - 【1】**「3 点まとめてお答えいたします」** = signal 全部 address. 1 人 ignored 不安を解消.
 - 【2】**Order: junior → senior** (松本 → 大垣 → 中村 CFO). Senior 最後 = "trumps the pyramid" of value (松本の technical detail → 大垣の total deal → CFO の ROI). 各層に response.
 - 【3】**CFO 質問は最後 + most detailed**. CFO は「自分の質問が most important で answered last」 と feel する.
-- **目線移動 + 浅い bow** = 各人に address している nonverbal signal. 1 人 fixed gaze は他 2 人 disengage.
+- **目線移動 + 浅い bow** = tín hiệu phi ngôn ngữ cho thấy đang address từng người. 1 人 fixed gaze は他 2 人 mất kết nối.
 
 ---
 
@@ -3274,17 +3274,17 @@ Phase 3 final round, executive review: 中村 CFO + 大垣 + 松本 PM joined Ti
 
 > **「多者間 = 並列 address。junior → senior 順、CFO 最後 + detail 最大。1 人 ignored は 2 人を失う。」**
 >
-> *Multi-party = address parallel. Junior → senior, CFO cuối cùng + detail nhiều nhất. Skip 1 = mất 2.*
+> *Đa bên = address song song. Junior → senior, CFO cuối cùng + detail nhiều nhất. Skip 1 = mất 2.*
 
 ---
 
 ## ⚠ Tránh
 
-- 1 人 (highest title) chỉ trả lời → 2 人 disengage = ringi 反対 source
+- 1 人 (highest title) chỉ trả lời → 2 人 mất kết nối = ringi 反対 source
 - Senior 先 (CFO 最初) → junior の質問は dilute される
 - "あとで個別に" 流す → 当日の trust momentum lost
 - 全員に同じ depth で答える → CFO 質問は detail 多めにすべき
-- 目線固定 → nonverbal で sideline 感
+- 目線固定 → tín hiệu phi ngôn ngữ cho thấy có người bị bỏ qua
 
 ---
 
@@ -3318,7 +3318,7 @@ Phase 3 round 2, 大垣 + 田中 PMO 在京、Tiên Phát side ハノイ → Zoo
 
 ---
 
-## ❌ Hội thoại XẤU — eye contact lỏng + sa lầy silence
+## ❌ Hội thoại XẤU — nhìn lơ đãng qua camera + sa lầy silence
 
 | | Speaker | Câu (Zoom) |
 |--|---------|-----|
@@ -3363,7 +3363,7 @@ Phase 3 round 2, 大垣 + 田中 PMO 在京、Tiên Phát side ハノイ → Zoo
 
 ## ⚠ Tránh
 
-- 画面下の note を見ながら anchor 提示 → eye contact 0
+- 画面下の note を見ながら anchor 提示 → giao tiếp bằng mắt = 0
 - 画面共有を session 全部 ON → 顔が見えず human connection 切れる
 - Online silence 7 giây 維持 → "audio disconnect" assume される
 - 「聞こえてますか?」 を 2 秒目で connect-check → anchor effect 即消滅
@@ -3386,7 +3386,7 @@ Phase 3 round 2, 大垣 + 田中 PMO 在京、Tiên Phát side ハノイ → Zoo
 
 # Rule 42 — Translator-mediated negotiation / 通訳介在
 
-> **Luận điểm.** Khi Linh học interpret join phiên đàm phán: 4 rules cần follow. **(1) Pace** = câu ngắn 15-25 字 max, KHÔNG run-on, **(2) Pause sau câu** ≥ 2 giây cho Linh dịch, **(3) Speaker đứng sát translator nhưng nhìn KHÁCH** (không nhìn translator), **(4) Pre-brief** translator về key terms (BATNA, ZOPA, indemnity) trước phiên — translator được biết term đặc thù trước. Skip 1 trong 4 → translator overload, mistranslation = số tiền sai.
+> **Luận điểm.** Khi Linh học interpret join phiên đàm phán: 4 rules cần follow. **(1) Pace** = câu ngắn 15-25 字 max, KHÔNG nói liên tục không ngắt, **(2) Pause sau câu** ≥ 2 giây cho Linh dịch, **(3) Speaker đứng sát translator nhưng nhìn KHÁCH** (không nhìn translator), **(4) Pre-brief** translator về key terms (BATNA, ZOPA, indemnity) trước phiên — translator được biết term đặc thù trước. Skip 1 trong 4 → translator overload, mistranslation = số tiền sai.
 >
 > 通訳介在交渉では (a) 短い文 (b) 文末で 2 秒 pause (c) 相手を見る (d) 用語事前 brief。これらを守らないと通訳精度低下 = 数値ズレ → 商務 dispute。
 >
@@ -3400,7 +3400,7 @@ Phase 4 scoping với 1 client mới (Hà Nội office, JP exec không tiếng A
 
 ---
 
-## ❌ Hội thoại XẤU — run-on Japanese, no pause, no pre-brief
+## ❌ Hội thoại XẤU — câu tiếng Nhật quá dài, không ngắt, không pre-brief
 
 *早口、 1 文 80 字 · panic、 30 字までしかメモ取れず · 訂正 · VN client へ · 困*
 
@@ -3435,7 +3435,7 @@ Phase 4 scoping với 1 client mới (Hà Nội office, JP exec không tiếng A
 | (商談後) **ズン** | 「お疲れ様。99.95% 区切り発音 + indemnity term pre-brief で精度 high。次回も同じ pattern で。」 |
 
 📝 **Ghi chú:**
-- 【1】**Pre-brief 30 分** = key terms list + 数値 sensitive points + speaker style. Translator が cold start で interpret する精度は -30%.
+- 【1】**Pre-brief 30 分** = key terms list + 数値 sensitive points + speaker style. Translator vào không có thông tin gì trước (cold start) thì độ chính xác giảm -30%.
 - 【2】**数値の区切り発音** (「99.95% = きゅうきゅう・きゅうご」) = mistranslation prevention. 3 と 5 / 9 と 4 は Vietnamese で類似音.
 - 【3】**Speaker は client を直視** (Linh ではなく). Linh は ear-shot 距離で stand. 相手は "Dũng と直接話している" 感.
 - **Linh の interpret 中は Dũng 沈黙 + 頷き**。 next sentence の preview を考えない、 listening focus.
@@ -3452,7 +3452,7 @@ Phase 4 scoping với 1 client mới (Hà Nội office, JP exec không tiếng A
 
 ## ⚠ Tránh
 
-- 1 文 80 字以上 → translator memory buffer 超え
+- Câu quá dài 80 字以上 → translator memory buffer 超え
 - 数値早口 (「99.95%」 一気に) → 3/5/9 混同 risk
 - Speaker が translator を見ながら話す → 客は "translation だ" と意識し心離れる
 - Pre-brief なしで technical term 使用 → translator improv ミス
@@ -3502,7 +3502,7 @@ Phase 4 round 3, 大垣 thay 中村 CFO + 大垣 + Tiên Phát luật sư on cal
 | (1 時間後 Slack 報告) **ズン** | 「Hà CTO、Phase 4 indemnity 無制限で合意しました。」 |
 | **ハー CTO** | 「**何故 escalate しなかった？取締役会上限規定を超える。今すぐ撤回交渉**。社長 escalate も必要。」 |
 
-**Vì sao xấu:** (a) T2 (権限外) recognize されず Dũng が即決, (b) T3 (ultimatum tone) も recognize されず, (c) Hà CTO 取締役会規定知らず → Tiên Phát 法的に bind 不可 → renegotiate = trust dent. Escalation skip = career-defining mistake.
+**Vì sao xấu:** (a) T2 (権限外) recognize されず Dũng が即決, (b) T3 (ultimatum tone) も recognize されず, (c) Hà CTO 取締役会規定知らず → Tiên Phát 法的に không có hiệu lực ràng buộc → renegotiate = trust dent. Escalation skip = career-defining mistake.
 
 ---
 
@@ -3541,7 +3541,7 @@ Phase 4 round 3, 大垣 thay 中村 CFO + 大垣 + Tiên Phát luật sư on cal
 
 ## ⚠ Tránh
 
-- 権限外 (T2) を即決 → 取締役会で法的に bind 不可、 撤回 → trust dent
+- 権限外 (T2) を即決 → 取締役会で法的に không có hiệu lực ràng buộc、 撤回 → trust dent
 - "今ここで決めてください" pressure に屈する → 5 分 buffer 必ず request
 - Escalate するが session 退出 → ownership lost
 - Slack で senior に "どうしましょう?" 漠然と → 30 秒で trigger / 数値 / urgency まとめる
@@ -3564,7 +3564,7 @@ Phase 4 round 3, 大垣 thay 中村 CFO + 大垣 + Tiên Phát luật sư on cal
 
 # Rule 44 — VN-JP negotiation gap / VN-JP 交渉ギャップ
 
-> **Luận điểm.** VN style: **直接 (direct)**, "Giảm 10% thì OK?", concession 1 lần lớn. JP style: **間接 (indirect)**, 「条件面で…」「持ち帰りでも…」, concession nhỏ + reciprocal. VN BD đem direct style vào phòng JP → khách Nhật thấy 「無礼」 hoặc 「未熟」. JP exec đem indirect style sang VN → VN BD thấy "không quyết được", "vòng vo". Hizashi VN BD cần code-switch: **directness 30% lower + concession reciprocal pattern**.
+> **Luận điểm.** VN style: **直接 (direct)**, "Giảm 10% thì OK?", concession 1 lần lớn. JP style: **間接 (indirect)**, 「条件面で…」「持ち帰りでも…」, concession nhỏ + reciprocal. VN BD đem direct style vào phòng JP → khách Nhật thấy 「無礼」 hoặc 「未熟」. JP exec đem indirect style sang VN → VN BD thấy "không quyết được", "vòng vo". Hizashi VN BD cần chuyển đổi phong cách: **directness 30% lower + concession reciprocal pattern**.
 >
 > VN は直接、JP は間接。concession も VN は 1 回大きく、JP は小刻み reciprocal。混在せずに JP mode で運用、 VN-style memo は内部用に分離。
 >
@@ -3574,7 +3574,7 @@ Phase 4 round 3, 大垣 thay 中村 CFO + 大垣 + Tiên Phát luật sư on cal
 
 ## Bối cảnh / 場面
 
-Phase 4 với client mới (manufacturing JP, Tokyo HQ). Tuấn Tech Lead support — Tuấn ít kinh nghiệm với JP exec, bring VN style vào. Dũng cần code-switch chính mình + coach Tuấn realtime.
+Phase 4 với client mới (manufacturing JP, Tokyo HQ). Tuấn Tech Lead support — Tuấn ít kinh nghiệm với JP exec, bring VN style vào. Dũng cần chuyển đổi phong cách chính mình + coach Tuấn realtime.
 
 ---
 
@@ -3627,7 +3627,7 @@ Phase 4 với client mới (manufacturing JP, Tokyo HQ). Tuấn Tech Lead suppor
 
 ## ⚠ Tránh
 
-- 「では下げます」即決 → ratchet effect で next round もっと下げを期待される
+- 「では下げます」即決 → hiệu ứng leo thang một chiều (ratchet effect) で next round もっと下げを期待される
 - 2 連続 concession なし trade → 内部 anchor が大幅 shift
 - 「やっぱり ¥18M で OK ですか？」直接 closing question → JP exec 「未熟」 perception
 - VN style threat language ("もう limit です") → JP は relationship signal として読む、 negative
@@ -3700,8 +3700,8 @@ Phase 3 ¥17M ký xong, Phase 4 với new client cũng vừa kết thúc round 1
 - 【1】**5 セクション固定 template** = retro skip / surface-level 防止. counterfactual は最も学習量多い.
 - 【2】**Counterfactual = 「もし〜していれば」** で具体的 alternative を spell out. 抽象な反省ではなく concrete next-time action.
 - 【3】**Pattern recognition** = 1 回ではなく across vụ. cultural default だと判明すれば team-level intervention.
-- 【4】**3 commit max** — 多すぎると adhere できず, 少なすぎると change なし.
-- 【5】**Follow-up retro 3 ヶ月後** = commit が habit 化したか測定. これがないと commit は wishlist.
+- 【4】**3 commit max** — 多すぎると tuân thủ không nổi, 少なすぎると change なし.
+- 【5】**Follow-up retro 3 ヶ月後** = commit が habit 化したか測定. これがないと commit は danh sách ước muốn rỗng.
 
 ---
 
@@ -3716,10 +3716,10 @@ Phase 3 ¥17M ký xong, Phase 4 với new client cũng vừa kết thúc round 1
 ## ⚠ Tránh
 
 - Retro skip → 同じ lesson 3-4 vụ で repeat
-- Generic 「次回 頑張ります」 commit → adherence 0
+- Generic 「次回 頑張ります」 commit → mức độ tuân thủ = 0
 - Counterfactual section skip → lesson が abstract
-- Commit 10 個 list → 1 個も adhere できない、3 個 max
-- Follow-up retro なし → commit は wishlist
+- Commit 10 個 list → không tuân thủ được dù 1 cái、3 個 max
+- Follow-up retro なし → commit は danh sách ước muốn rỗng
 - Retro が blame session 化 → psychological safety なくなり honest input 消失
 - Retro doc を save しない → 半年後検索不可、 同じ retro 繰り返し
 

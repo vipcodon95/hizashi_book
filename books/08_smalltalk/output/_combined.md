@@ -47,7 +47,7 @@ Mỗi rule **NGẮN** ở phần lý thuyết, **DÀI** ở phần hội thoại
 
 ---
 
-## 🎬 Cast 19 nhân vật
+## 🎬 Dàn nhân vật (19 người)
 
 **Cty Thiên Phát (VN, ティエンファット社)** — em Dũng (ズン), chị Hương (フオン副部長), anh Tuấn (トゥアンリーダー), chị Loan (ロアン経理部長), em Linh (リン), em Hải (ハイ), anh Hà CTO (ハー).
 
@@ -58,7 +58,7 @@ Mỗi rule **NGẮN** ở phần lý thuyết, **DÀI** ở phần hội thoại
 - chị Yamamoto マネージャー (Osaka — takoyaki, Hanshin Tigers)
 - anh Sato 先生 (Fukuoka — Hawks, ramen)
 - anh Kobayashi (Okinawa — Ryūkyū culture)
-- anh Ito (Nagoya — miso, Toyota mindset)
+- anh Ito (Nagoya — miso, tư duy Toyota)
 - anh Kato (Gifu — Hida beef, Shirakawa-go, 関の刃物)
 
 ---
@@ -69,7 +69,7 @@ Mỗi rule **NGẮN** ở phần lý thuyết, **DÀI** ở phần hội thoại
 2. **Bối cảnh** (2-3 câu — ai, lúc nào, mục tiêu)
 3. **Tâm lý JP** (3-5 dòng — tại sao quan trọng)
 4. **3-4 hội thoại scenarios** (đây là phần CHÍNH)
-5. **Câu vàng copy-paste** (5-10 câu sẵn dùng)
+5. **Câu vàng dùng ngay** (5-10 câu sẵn dùng)
 6. **NG list** (3-5 câu cấm)
 
 Mỗi rule có file `rule.md` (lý thuyết + dialogue) và `conversation.json` (data hóa cho TTS sau này).
@@ -92,7 +92,7 @@ Mỗi rule có file `rule.md` (lý thuyết + dialogue) và `conversation.json` 
 
 ## 🧠 Tâm lý JP (3 dòng)
 
-- Người Nhật phân vùng "業務モード ↔ 雑談モード" rõ ràng. Nhảy mode sai = nguy hiểm.
+- Người Nhật phân vùng "業務モード ↔ 雑談モード" rõ ràng. Nhảy trạng thái sai = nguy hiểm.
 - 雑談 đúng lúc = "biết đọc không khí" (空気を読む) — đẳng cấp cao trong văn hóa.
 - Khách Nhật đang stress / chuẩn bị quyết định lớn = **tuyệt đối không** đẩy chuyện phiếm.
 
@@ -106,7 +106,7 @@ Tuần đầu tháng 5/2026, Dũng + Tuấn onsite Tokyo 3 ngày làm việc v�
 
 ## 💬 4 Scenarios — dialogue thực chiến
 
-### 📍 Scenario 1 — Cửa sổ vàng #1: TRƯỚC khi họp (5 phút buffer)
+### 📍 Scenario 1 — Cửa sổ vàng #1: TRƯỚC khi họp (5 phút chờ đệm)
 
 *8:55, đứng đợi 大垣 vào phòng họp 9:00*
 
@@ -166,7 +166,7 @@ Tuần đầu tháng 5/2026, Dũng + Tuấn onsite Tokyo 3 ngày làm việc v�
 
 ❌ **Vì sao XẤU:** Khách đang chờ counter-offer của mình. Cắt ngang bằng baseball = không đọc không khí, mất uy tín đàm phán.
 
-✅ **Đúng:** Im lặng, đợi Tuấn xong tính → trả lời nghiêm túc về giá → SAU KHI chốt deal mới mở "Phù, vụ giá xong rồi! Mà nhân tiện anh Ōgaki — mùa này 阪神 thế nào?"
+✅ **Đúng:** Im lặng, đợi Tuấn xong tính → trả lời nghiêm túc về giá → SAU KHI chốt hợp đồng mới mở "Phù, vụ giá xong rồi! Mà nhân tiện anh Ōgaki — mùa này 阪神 thế nào?"
 
 ---
 
@@ -195,11 +195,11 @@ Tuần đầu tháng 5/2026, Dũng + Tuấn onsite Tokyo 3 ngày làm việc v�
 
 ## ⚠ NG — tuyệt đối tránh
 
-- Mở 雑談 **giữa lúc đang đàm phán giá / kỹ thuật core** → mất uy tín.
+- Mở 雑談 **giữa lúc đang đàm phán giá / kỹ thuật cốt lõi** → mất uy tín.
 - "Tán" ngay **lần đầu gặp chưa giao danh thiếp** → bị xem là "なれなれしい" (suồng sã).
 - Nói chuyện phiếm khi khách **rõ ràng đang stress** (vừa nhận tin xấu, đang suy nghĩ) → ép họ phải reply lịch sự = thêm gánh.
 - 雑談 **quá dài trước họp** (>5 phút) → trễ giờ business = mất điểm professional.
-- Topic 雑談 trong **conference room đang ghi âm** → nguy cơ rò rỉ thông tin nội bộ.
+- Topic 雑談 trong **phòng họp đang ghi âm** → nguy cơ rò rỉ thông tin nội bộ.
 
 ---
 
@@ -208,7 +208,7 @@ Tuần đầu tháng 5/2026, Dũng + Tuấn onsite Tokyo 3 ngày làm việc v�
 | 漢字 | よみ | Nghĩa |
 |------|------|-------|
 | 雑談 | ざつだん | Trò chuyện phiếm |
-| タイミング | — | Timing |
+| タイミング | — | Thời điểm |
 | 空気を読む | くうきをよむ | Đọc không khí (cực kỳ quan trọng JP) |
 | あるある | — | "Chuyện thường gặp" (slang nhẹ) |
 | 連休 | れんきゅう | Kỳ nghỉ liên tiếp (Golden Week) |
@@ -263,9 +263,9 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 | **ズン** | 「ご長男もスキーを継がれたんですね。素敵です。週末は中村さんも一緒に?」 |
 | **中村** | 「いやあ、もう膝がねえ…でも孫が3歳になったら…」 |
 
-📝【1】 **Pattern vàng:** lặp lại keyword khách (オウム返し) + thêm 1 câu hỏi đào sâu. Đây là 80/20 chuẩn — bạn nói 1 câu, khách nói 3-4 câu.
+📝【1】 **Công thức vàng:** lặp lại keyword khách (オウム返し) + thêm 1 câu hỏi đào sâu. Đây là 80/20 chuẩn — bạn nói 1 câu, khách nói 3-4 câu.
 
-> **VN:** Dũng chỉ thả 3 câu hỏi mở. 中村-san kể 80% — về quê, con trai, cháu. Cuối buổi Dũng có 5 fact mới ghi vào memory bank → lần sau gặp dùng tiếp.
+> **VN:** Dũng chỉ thả 3 câu hỏi mở. 中村-san kể 80% — về quê, con trai, cháu. Cuối buổi Dũng có 5 thông tin mới ghi vào kho ghi nhớ → lần sau gặp dùng tiếp.
 
 ---
 
@@ -319,7 +319,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 | **ズン** | 「**大垣さんもお嬢様いらっしゃるんですよね、たしか高校生**でしたっけ?」【3】 |
 | **大垣** | 「よく覚えてるね!来年大学受験で、もう大変よ…」 |
 
-📝【3】 Khi senior đang lái câu chuyện, junior junior khác (Dũng) **không cướp**. Đợi flow → bắc cầu để khách lớn nhất bàn (Ōgaki) cũng được nói. Đây là 80/20 multi-party.
+📝【3】 Khi senior đang lái câu chuyện, junior junior khác (Dũng) **không cướp**. Đợi nhịp → bắc cầu để khách lớn nhất bàn (Ōgaki) cũng được nói. Đây là 80/20 nhiều người.
 
 ---
 
@@ -352,7 +352,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 - **Cướp lời** khi khách đang kể (kể cả "sai sót nhỏ trong dữ kiện") → mất uy tín nghe.
 - **Đáp gọn lỏn 1 từ** rồi im → khách phải tự lo lái topic = mệt cho khách.
 - **Hỏi lại đúng câu hỏi vừa được hỏi** ("ズンさんは?" → "中村さんは?") như echo → vô hồn. Phải answer + đá ngược.
-- **So sánh "ở VN thì…"** liên tục khi khách kể về JP → phá flow của khách.
+- **So sánh "ở VN thì…"** liên tục khi khách kể về JP → phá mạch chuyện của khách.
 
 ---
 
@@ -399,7 +399,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 
 5 cấp độ với 4 topic clusters cho từng cấp:
 
-| Level | Mức quan hệ | Topic an toàn | Ví dụ khách |
+| Cấp | Mức quan hệ | Topic an toàn | Ví dụ khách |
 |-------|-------------|--------------|-------------|
 | **L1** | Mới gặp / formal | 天気・移動・季節 | 大垣 lần đầu |
 | **L2** | Đã làm việc 1-2 dự án | + 出身地・食・観光 | 松本 (đã 1 năm) |
@@ -440,7 +440,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 
 📝【1】 L2 = đã được khách share quê 1 lần trước → mình reference + mở rộng. KHÔNG nhảy thẳng vào "ご家族は?" — chưa đến cấp.
 
-> **VN:** Ở L2, "thức ăn của quê" là topic gold. Sau khi mở được, khách thường tự nguyện mời mình lần sau cùng đi ăn → leo lên L3.
+> **VN:** Ở L2, "thức ăn của quê" là chủ đề vàng. Sau khi mở được, khách thường tự nguyện mời mình lần sau cùng đi ăn → leo lên L3.
 
 ---
 
@@ -544,7 +544,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 
 # Rule 04 — Câu hỏi mở vs đóng / 開かれた質問・閉じた質問
 
-> **Luận điểm.** Câu hỏi đóng (有/無, はい/いいえ) = chết flow trong 2 lượt. Câu hỏi mở (5W1H + いかがでしたか) = khách kể 30 giây tự nhiên. Đổi 1 chữ — đổi cả buổi 雑談.
+> **Luận điểm.** Câu hỏi đóng (有/無, はい/いいえ) = mạch đứt trong 2 lượt. Câu hỏi mở (5W1H + いかがでしたか) = khách kể 30 giây tự nhiên. Đổi 1 chữ — đổi cả buổi 雑談.
 
 ---
 
@@ -562,9 +562,9 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 
 | Mức | Pattern | Ví dụ |
 |-----|---------|-------|
-| **Formal** | 〜いかがでしたか / 〜いかがですか | 「週末はいかがでしたか?」 |
-| **Standard** | 〜どうでしたか / 〜どんな[感じ] | 「週末はどうでしたか?」 |
-| **Casual** | 〜どう?(L4-L5 only) | 「週末どうだった?」 |
+| **Trang trọng** | 〜いかがでしたか / 〜いかがですか | 「週末はいかがでしたか?」 |
+| **Thông thường** | 〜どうでしたか / 〜どんな[感じ] | 「週末はどうでしたか?」 |
+| **Thân mật** | 〜どう?(L4-L5 only) | 「週末どうだった?」 |
 
 → Ngược lại với câu hỏi đóng ("週末良かった?") = khách trả "うん" + im → bạn phải đẻ topic mới.
 
@@ -586,7 +586,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 | **松本** | 「ええ。」 |
 | **ズン** | 「…そうですか…」 |
 
-❌ **Vì sao XẤU:** 4 câu hỏi đóng = khách trả 4 lần "Yes/No" + "ええ" → flow chết. Khách không có cơ hội kể chuyện. Bạn cạn topic trong 30 giây.
+❌ **Vì sao XẤU:** 4 câu hỏi đóng = khách trả 4 lần "Yes/No" + "ええ" → mạch đứt. Khách không có cơ hội kể chuyện. Bạn cạn topic trong 30 giây.
 
 ---
 
@@ -609,9 +609,9 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 
 ---
 
-### 📍 Scenario 3 — Edge: Khi cần xác nhận sự kiện (đóng OK) → ngay sau đó mở
+### 📍 Scenario 3 — Trường hợp đặc biệt: Khi cần xác nhận sự kiện (đóng OK) → ngay sau đó mở
 
-*đóng — xác nhận fact · mở ngay — đào sâu*
+*đóng — xác nhận thông tin · mở ngay — đào sâu*
 
 | Speaker | Câu |
 |---------|-----|
@@ -621,7 +621,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 | **中村** | 「いやあ、ほとんど実家にいたよ。母親と買い物行ったり、旧友と飲んだり…でね、**藻岩山**に登ったんだ、夜景見に。」 |
 | **ズン** | 「**藻岩山の夜景、どんな感じですか?**東京タワーから見るのとずいぶん違いますか?」 |
 
-📝【2】 Pattern combo: "đóng để xác nhận" → "mở để đào". Đừng cứ đóng-đóng-đóng. Đóng = setup, mở = trận đấu chính.
+📝【2】 Kết hợp: "đóng để xác nhận" → "mở để đào". Đừng cứ đóng-đóng-đóng. Đóng = setup, mở = trận đấu chính.
 
 ---
 
@@ -669,10 +669,10 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 
 ## ⚠ NG — tuyệt đối tránh
 
-- **3 câu hỏi đóng liên tiếp** → khách cảm thấy "bị thẩm vấn" → flow chết.
+- **3 câu hỏi đóng liên tiếp** → khách cảm thấy "bị thẩm vấn" → mạch đứt.
 - "**お元気ですか?**" với khách thân → công thức cứng, khách đáp 「元気です」 và hết. (Thay bằng「最近どうですか?」)
 - **Câu hỏi mở quá rộng** ("人生どうですか?") → khách không biết bắt đầu từ đâu.
-- **Câu hỏi mở dồn dập 3-4 câu** không có react ở giữa → giống interview.
+- **Câu hỏi mở dồn dập 3-4 câu** không có react ở giữa → giống phỏng vấn.
 - **Hỏi rồi không lắng nghe**, đợi tới lượt mình tiếp → khách đọc ra ngay.
 
 ---
@@ -771,11 +771,11 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 
 📝【2】 Summarize = "cô đặc lại trong 1 câu" những gì khách kể → chứng tỏ mình thật sự nghe + xử lý thông tin.
 
-📝【3】 Follow-up "what did you feel" = đẳng cấp cao. Bring topic từ "fact" sang "cảm xúc" → khách mở lòng → quan hệ leo bậc.
+📝【3】 Follow-up "what did you feel" = đẳng cấp cao. Chuyển từ "thông tin" sang "cảm xúc" → khách mở lòng → quan hệ leo bậc.
 
 ---
 
-### 📍 Scenario 3 — Không cướp lời (anti-pattern)
+### 📍 Scenario 3 — Không cướp lời (cách làm sai)
 
 *NG — cướp lời · im — bỏ ý định kể trải nghiệm*
 
@@ -815,7 +815,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 | **中村** | 「もちろん。家中、写真と動画だらけよ。」 |
 | **ズン** | 「**先ほどのじいじの話、本当に温かいエピソードでした。**ところで…」 |
 
-📝【4】 Combo summarize → follow-up "奥様は?" = mở rộng câu chuyện sang vợ → khách kể tiếp đoạn dài. Đẳng cấp 聞き上手 master.
+📝【4】 Kết hợp summarize → follow-up "奥様は?" = mở rộng câu chuyện sang vợ → khách kể tiếp đoạn dài. Đẳng cấp 聞き上手 master.
 
 ---
 
@@ -904,7 +904,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 |-----------|----------|---------|
 | **ところで** | Formal break, hơi chính thức | Khi cần đổi topic rõ, có khoảng cách |
 | **そういえば** | Associative ("nhân tiện nhớ ra") | Khi topic mới có liên kết nhẹ với cũ |
-| **話は変わりますが** | Pivot rất rõ ràng | Khi topic mới hoàn toàn khác |
+| **話は変わりますが** | Chuyển chủ đề rõ ràng nhất | Khi topic mới hoàn toàn khác |
 | **(そう)言えば** | Casual hơn そういえば | L3-L4 |
 | **あ、そうそう** | Casual reminder | L3-L4 |
 
@@ -946,9 +946,9 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 
 ---
 
-### 📍 Scenario 3 — 話は変わりますが: Pivot 180 độ — formal nhất
+### 📍 Scenario 3 — 話は変わりますが: Chuyển 180 độ — formal nhất
 
-*cần đổi sang vấn đề business sensitive · chuyển mode sang serious*
+*cần đổi sang vấn đề business sensitive · chuyển sang tông nghiêm túc*
 
 | Speaker | Câu |
 |---------|-----|
@@ -956,7 +956,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 | **ズン** | 「ぜひ次回ご案内させてください。**話は変わりますが**、先日の予算の件、少しだけお時間よろしいでしょうか?」【3】 |
 | **松本** | 「ああ、はいはい、どうぞ。」 |
 
-📝【3】 「話は変わりますが」 = pivot rõ ràng nhất, formal cao. Báo hiệu "topic sau khác hoàn toàn". Dùng khi:
+📝【3】 「話は変わりますが」 = chuyển chủ đề rõ ràng nhất, formal cao. Báo hiệu "topic sau khác hoàn toàn". Dùng khi:
 - Chuyển từ 雑談 → business serious.
 - Chuyển sang topic nhạy cảm cần khách concentrate.
 - Khi không có liên kết tự nhiên giữa 2 topic.
@@ -1015,7 +1015,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 「いやあ、楽しいお話ありがとうございます。[connector]…」
 「そろそろお時間気になってきましたので、[connector]…」
 
-■ Bridge từ casual → business:
+■ Bắc cầu từ không khí thân mật → business:
 「お話の途中恐縮ですが、一点だけ…」
 ```
 
@@ -1048,7 +1048,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 ## 🎓 BJT
 
 **J3 — 場面把握:** Chọn connector đúng cho ngữ cảnh (formal vs casual, có liên kết vs không).
-**J2 — 表現読解:** Phân biệt sắc thái 3 connector chính + nhận biết bridge close-topic trước khi pivot.
+**J2 — 表現読解:** Phân biệt sắc thái 3 connector chính + nhận biết câu chuyển đề trước khi chuyển chủ đề.
 **J1 — 発言聴解:** Catch tín hiệu "topic đã cạn" (im lặng dài, react cụt) → biết khi nào pivot.
 
 ---
@@ -1064,7 +1064,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 
 ## 🧠 Tâm lý JP (3 dòng)
 
-- 沈黙 (chinmoku) ≠ awkward. Trong văn hóa JP, im lặng = đang suy nghĩ kỹ / đang thưởng thức khoảnh khắc / đã thoải mái không cần lấp.
+- 沈黙 (chinmoku) ≠ khó xử. Trong văn hóa JP, im lặng = đang suy nghĩ kỹ / đang thưởng thức khoảnh khắc / đã thoải mái không cần lấp.
 - "間" (ma — khoảng trống có ý nghĩa) là thẩm mỹ JP từ 茶道, 能, 俳句 → vào cả conversation.
 - Người Việt nhồi chữ vô nghĩa khi im lặng = bị xem là "落ち着きがない" (không vững).
 
@@ -1078,7 +1078,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 |------|---------|--------------|
 | **Im lặng "thoải mái"** | Khách thư giãn, gắp đồ ăn, uống bia chậm | Cùng im, không lấp |
 | **Im lặng "suy nghĩ"** | Khách nhíu mày, nhìn xa | Chờ — TUYỆT ĐỐI không hối |
-| **Im lặng "khó xử"** | Khách lúng túng, tránh ánh mắt | Mới cần khéo gợi topic mới |
+| **Im lặng "ngượng ngùng"** | Khách lúng túng, tránh ánh mắt | Mới cần khéo gợi topic mới |
 
 ---
 
@@ -1131,9 +1131,9 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 
 ---
 
-### 📍 Scenario 3 — Im lặng "khó xử" — đây mới cần khéo
+### 📍 Scenario 3 — Im lặng "ngượng ngùng" — đây mới cần khéo
 
-*lần đầu gặp 加藤, sau 30 giây giới thiệu danh thiếp · cả hai im lặng 8 giây — không khí lúng túng, ánh mắt né nhau · catch tín hiệu khó xử → nhẹ nhàng gợi · rạng rỡ*
+*lần đầu gặp 加藤, sau 30 giây giới thiệu danh thiếp · cả hai im lặng 8 giây — không khí lúng túng, ánh mắt né nhau · bắt tín hiệu lúng túng → nhẹ nhàng gợi · rạng rỡ*
 
 | Speaker | Câu |
 |---------|-----|
@@ -1143,7 +1143,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff. Dũng ngồi cạnh 中村 CFO (Hokka
 | **ズン** | 「**そういえば、先ほど松本さんに伺ったんですが、加藤さんは飛騨牛がお好きとか?**」【1】 |
 | **加藤** | 「ああ!よくご存知で!毎月実家で食べないと落ち着かなくて…」 |
 
-📝【1】 Phân biệt "im lặng thoải mái" vs "im lặng khó xử" — qua **body language** (ánh mắt né, body cứng, không nhìn nhau). Khi đó MỚI cần gợi mở.
+📝【1】 Phân biệt "im lặng thoải mái" vs "im lặng ngượng ngùng" — qua **body language** (ánh mắt né, body cứng, không nhìn nhau). Khi đó MỚI cần gợi mở.
 
 > **VN:** Sai phổ biến: nhầm im lặng thoải mái thành khó xử → vội nhồi. Đúng là quan sát body language khách trước khi quyết định.
 
@@ -1211,7 +1211,7 @@ KHÔNG: 「あ、いえ、大丈夫です」 / 「難しいですよね…」
 | 落ち着く | おちつく | Bình tĩnh, vững |
 | 落ち着きがない | おちつきがない | Không vững, lăng xăng (negative) |
 | 信頼関係 | しんらいかんけい | Quan hệ tin cậy |
-| 気まずい | きまずい | Khó xử, awkward |
+| 気まずい | きまずい | Khó xử, lúng túng |
 | 余韻 | よいん | Dư âm (cảm xúc còn lại) |
 | 茶道 | さどう | Trà đạo (nguồn của 間) |
 
@@ -1220,7 +1220,7 @@ KHÔNG: 「あ、いえ、大丈夫です」 / 「難しいですよね…」
 ## 🎓 BJT
 
 **J3 — 場面把握:** Phân biệt 3 loại im lặng (thoải mái / suy nghĩ / khó xử) qua body language.
-**J2 — 表現読解:** Hiểu thẩm mỹ "間" — khi nào im là nghệ thuật, khi nào im là awkward.
+**J2 — 表現読解:** Hiểu thẩm mỹ "間" — khi nào im là nghệ thuật, khi nào im là lúng túng.
 **J1 — 発言聴解:** Catch micro-signal trên mặt khách trong 5 giây im lặng → quyết định có nên gợi topic hay không.
 
 ---
@@ -1269,7 +1269,7 @@ KHÔNG: 「あ、いえ、大丈夫です」 / 「難しいですよね…」
 | **松本** | 「いやあ、まあ…色々ですよ…」 |
 | **ズン** | 「すみません松本さん、ハイは入社1年でして…**話は変わりますが**、先ほどのプロジェクトの件で…」【1】 |
 
-📝【1】 **Damage control:** xin lỗi giảm nhẹ ("入社1年" = mới vào), pivot ngay bằng「話は変わりますが」. KHÔNG cố giải thích thêm — càng nói càng xấu.
+📝【1】 **Xử lý tình huống:** xin lỗi giảm nhẹ ("入社1年" = mới vào), chuyển đề ngay bằng「話は変わりますが」. KHÔNG cố giải thích thêm — càng nói càng xấu.
 
 ❌ **Vì sao XẤU:** Hỏi lương ở JP = tabooo đậm hơn cả VN. Đặc biệt junior hỏi senior. Khách phải né khéo = bị làm khó.
 
@@ -1332,7 +1332,7 @@ KHÔNG: 「あ、いえ、大丈夫です」 / 「難しいですよね…」
 | **ズン** | 「え、何かあったんですか?横領とか?」 |
 | **中村** | 「いや、まあ、忘れて。お酒の話やから。」 |
 
-❌ Đào sâu scandal nội bộ JP = đặt khách vào tình huống bí mật. Khách regret share, mình bị flag "miệng không kín".
+❌ Đào sâu scandal nội bộ JP = đặt khách vào tình huống bí mật. Khách regret share, mình bị đánh giá "miệng không kín".
 
 | | Speaker | Câu (GOOD) |
 |--|---------|-----|
@@ -1340,14 +1340,14 @@ KHÔNG: 「あ、いえ、大丈夫です」 / 「難しいですよね…」
 | L2 | **ズン** *(GOOD — không đào, react ngắn, đóng topic)* | 「**そうなんですね、大変でしたね。**」【3】(im 3 giây) **「ところで、今日のこの料理、本当に美味しいですね。」** |
 | L3 | **中村** *(thấy mình kín đáo → tin tưởng hơn)* | 「ありがとう。そう、ここの店、本当いいよね。」 |
 
-📝【3】 React tối thiểu, KHÔNG hỏi chi tiết, pivot ngay. **Mình kín = mình đáng tin.** Lần sau khách sẽ share những thứ thật sự matter.
+📝【3】 React tối thiểu, KHÔNG hỏi chi tiết, chuyển đề ngay. **Mình kín = mình đáng tin.** Lần sau khách sẽ share những thứ thật sự matter.
 
 ---
 
 ## 🎯 Câu vàng copy-paste
 
 ```
-■ DAMAGE CONTROL khi team mình lỡ miệng:
+■ XỬ LÝ TÌNH HUỐNG khi team mình lỡ miệng:
 「すみません、[Tên]はまだ慣れていなくて…話は変わりますが…」
 「失礼しました。[connector] 別の話なんですが…」
 
@@ -1404,7 +1404,7 @@ KHÔNG: 「あ、いえ、大丈夫です」 / 「難しいですよね…」
 
 ## 🎓 BJT
 
-**J3 — 場面把握:** Nhận biết 8 vùng NG + cách damage control khi team lỡ miệng.
+**J3 — 場面把握:** Nhận biết 8 vùng NG + cách xử lý tình huống khi team lỡ miệng.
 **J2 — 表現読解:** Phân biệt khen "trẻ hơn tuổi" (NG) vs khen năng lượng / năng lực (OK).
 **J1 — 発言聴解:** Khi khách lỡ chạm topic NG, react tối thiểu + pivot — KHÔNG đào sâu.
 
@@ -1510,7 +1510,7 @@ KHÔNG: 「あ、いえ、大丈夫です」 / 「難しいですよね…」
 
 📝【1】 **真冬日** (まふゆび) = ngày mà cả nhiệt độ cao nhất cũng dưới 0°C. **冬日** (ふゆび) = ngày min < 0°C. Hokkaido / Tohoku winter 標準語.
 
-> **VN:** Vocab **真冬日 / 冬日 / 雪まつり** = senior-level. Khách Hokkaido sẽ rất impress khi người Việt biết → mời đi 雪まつり ngay.
+> **VN:** Vocab **真冬日 / 冬日 / 雪まつり** = senior-level. Khách Hokkaido sẽ rất ấn tượng khi người Việt biết → mời đi 雪まつり ngay.
 
 ---
 
@@ -2265,7 +2265,7 @@ Dũng đã làm với Matsumoto hơn 1 năm — relationship đã thân (đi nh�
 
 ## 🧠 Tâm lý JP (4 dòng)
 
-- **Golf** = business hobby #1. 50-60t executive Nhật chơi golf weekly. Đi golf 1 ngày = 18 holes + onsen + dinner = 8 tiếng bonding.
+- **Golf** = business hobby #1. 50-60t executive Nhật chơi golf weekly. Đi golf 1 ngày = 18 holes + onsen + dinner = 8 tiếng gắn kết.
 - **Baseball** = regional identity. Hỏi đúng team theo quê = chạm tim.
 - **Sumo** = senior 60+ ưa thích. Biết 場所 schedule + tên 横綱 = đẳng cấp đặc biệt.
 - Hobby modern (anime/game) = match tuổi 20-30. **Senior dùng anime → khách bảo thủ sẽ không tiếp.**
@@ -3171,7 +3171,7 @@ Dũng phải xoay reference theo từng đối tác: Sato 60t (Showa nostalgia),
 
 # Rule 19 — Anime/manga (cẩn thận) / アニメ・漫画
 
-> **Luận điểm.** Anime topic = **vũ khí 2 lưỡi**. Với khách 30-40t = **bonding ngay**. Với senior 50-60t bảo thủ = **phản tác dụng** (xem là "hobby trẻ con"). Quy tắc: **đợi khách mở trước**, hoặc nhắc đến **作品 senior level** (ジブリ / 名探偵コナン / サザエさん) làm cầu nối.
+> **Luận điểm.** Anime topic = **vũ khí 2 lưỡi**. Với khách 30-40t = **gắn kết ngay**. Với senior 50-60t bảo thủ = **phản tác dụng** (xem là "hobby trẻ con"). Quy tắc: **đợi khách mở trước**, hoặc nhắc đến **作品 senior level** (ジブリ / 名探偵コナン / サザエさん) làm cầu nối.
 
 ---
 
@@ -3186,13 +3186,13 @@ Dũng phải xoay reference theo từng đối tác: Sato 60t (Showa nostalgia),
 
 ## 🎬 Bối cảnh
 
-Dũng dùng anime topic 4 cách: ① bonding tốt với Tanaka 35t qua 鬼滅; ② cẩn thận với Sato 60t — chỉ nhắc ジブリ; ③ mở mới với Yamamoto qua 名探偵コナン (universal); ④ Linh (intern) overshare 推し với senior — bị nhắc.
+Dũng dùng anime topic 4 cách: ① gắn kết tốt với Tanaka 35t qua 鬼滅; ② cẩn thận với Sato 60t — chỉ nhắc ジブリ; ③ mở mới với Yamamoto qua 名探偵コナン (universal); ④ Linh (intern) overshare 推し với senior — bị nhắc.
 
 ---
 
 ## 💬 4 Scenarios — dialogue thực chiến
 
-### 📍 Scenario 1 — Bonding tốt: Tanaka 35t qua 鬼滅
+### 📍 Scenario 1 — Gắn kết tốt: Tanaka 35t qua 鬼滅
 
 *Slack, sticker 禰豆子*
 
@@ -3209,7 +3209,7 @@ Dũng dùng anime topic 4 cách: ① bonding tốt với Tanaka 35t qua 鬼滅; 
 
 📝【1】 **鬼滅の刃** = Demon Slayer. 【2】 **無限城編** = arc cuối. 【3】 **炭治郎** = nhân chính. 【4】 **煉獄杏寿郎** = Rengoku, Hashira lửa. 【5】 **柱** = Hashira (top 9 demon slayer). 【6】 **冨岡義勇** = Hashira nước. 【7】 **LiSA** = ca sĩ chủ đề. 【8】 **炎** = bài Mugen Train. 【9】 **呪術廻戦** = Jujutsu Kaisen. 【10】 **チェンソーマン** = Chainsaw Man. 【11】 **進撃の巨人** = Attack on Titan. 【12】 **エレン** = nhân chính 進撃. 【13】 **サン** = nhân nữ もののけ姫.
 
-> **VN:** Anime modern (鬼滅 / 呪術 / 進撃) = **bonding mạnh** với 30-40t. Vocab: **柱 / 主題歌 / 最終回 / 劇場版 / OP/ED**. Biết **Studio Ghibli + Studio MAPPA + Studio TRIGGER** = level chuyên.
+> **VN:** Anime modern (鬼滅 / 呪術 / 進撃) = **gắn kết mạnh** với 30-40t. Vocab: **柱 / 主題歌 / 最終回 / 劇場版 / OP/ED**. Biết **Studio Ghibli + Studio MAPPA + Studio TRIGGER** = level chuyên.
 
 ---
 
@@ -4111,7 +4111,7 @@ Tháng 6/2026, Dũng + Hà CTO bay xuống Nagoya gặp 伊藤さん để bàn 
 | **ha_cto** | 「東京の客先と比べて、決定速度はどうですか?」 |
 | **ito_nagoya** | 「**遅め**です(笑)決めるまで時間かかるけど、決めたら長く付き合う。10年単位の取引が普通ですよ。」 |
 
-> **VN:** Toyota mindset = **慎重 + コスパ + 長期** + ghét "派手な営業". Critical insight cho approach commercial.
+> **VN:** Tư duy Toyota = **慎重 + コスパ + 長期** + ghét "派手な営業". Nhận định quan trọng cho approach commercial.
 
 ---
 
@@ -4175,7 +4175,7 @@ Tháng 6/2026, Dũng + Hà CTO bay xuống Nagoya gặp 伊藤さん để bàn 
 | **Du lịch** | 名古屋城 (金鯱), 熱田神宮, 大須商店街, 犬山城, 徳川美術館, **トヨタ博物館 + 産業技術記念館** |
 | **温泉** | 蒲郡温泉, 三谷温泉 |
 | **Dialect (名古屋弁)** | 「〜だがや」「〜やがね」「えらい」(=疲れた), 「みゃーみゃー」 (image hài, ít dùng thật) |
-| **Mindset** | **慎重 / コスパ重視 / 実績重視 / 長期取引** — Toyota DNA |
+| **Tư duy** | **慎重 / コスパ重視 / 実績重視 / 長期取引** — Toyota DNA |
 | **Famous figures** | 織田信長, 豊臣秀吉, 徳川家康 (3 anh hùng戦国 đều出身愛知周辺), イチロー (西春出身) |
 
 ---
@@ -4480,7 +4480,7 @@ Tháng 8/2026, Dũng + Linh sang **Osaka office** Hakuō để training thực t
 | **リン** | 「東京の硬い営業とは違うんですね。」 |
 | **yamamoto_kansai** | 「ちゃう、ほんまちゃう。東京は『**信頼で売る**』、大阪は『**人柄で売る**』。両方覚えとき。」 |
 
-> **VN:** ボケ・つっこみ structure: "なんでやねん" / "自分で言うんかい!" — đây là module hài chuẩn. Phân biệt **東京=信頼で売る ↔ 大阪=人柄で売る** = insight commercial vùng.
+> **VN:** ボケ・つっこみ structure: "なんでやねん" / "自分で言うんかい!" — đây là module hài chuẩn. Phân biệt **東京=信頼で売る ↔ 大阪=人柄で売る** = nhận định thương mại vùng.
 
 ---
 
@@ -4566,7 +4566,7 @@ Tháng 8/2026, Dũng + Linh sang **Osaka office** Hakuō để training thực t
 | **Lễ hội** | **天神祭** (7/24-25, 日本三大祭), **岸和田だんじり祭** (9月), **十日戎** (1/9-11今宮戎神社) |
 | **観光** | **大阪城**, **道頓堀** (グリコサイン/かに道楽), **通天閣**, **法善寺横丁**, **黒門市場**, **USJ**, **海遊館** |
 | **Dialect (関西弁/大阪弁)** | 「ほんま」(本当), 「せやな」(そうだね), 「ちゃう」(違う), 「あかん」(ダメ), 「めっちゃ」(超), 「おおきに」(thanks), 「自分」(=あなた), 「〜やん」「〜やで」「〜ねん」 |
-| **Mindset** | 気さく / 笑い重視 / 値切り文化 / 人柄で関係構築 |
+| **Tư duy** | 気さく / 笑い重視 / 値切り文化 / 人柄で関係構築 |
 | **Famous** | ダウンタウン (松本人志・浜田雅功), 明石家さんま, 桂文枝, 上沼恵美子, アンミカ |
 
 ---
@@ -4760,7 +4760,7 @@ Tháng 9/2026, Dũng + Hà CTO + Tuấn được anh Matsumoto giới thiệu kh
 | **Lễ hội** | **祇園祭 (7月一ヶ月, 山鉾巡行7/17)** 日本三大祭, **葵祭 (5/15)**, **時代祭 (10/22)**, **大文字五山送り火 (8/16)** |
 | **観光 (世界遺産17箇所)** | 清水寺, 金閣寺, 銀閣寺, 龍安寺, 二条城, 東寺, 平等院, 醍醐寺, 仁和寺, 嵐山 (渡月橋/竹林), 伏見稲荷大社, 哲学の道 |
 | **Dialect (京言葉)** | 「〜どす」「〜はる」「おおきに」(=ありがとう), 「ぶぶ漬けでも」 (legend = 帰って urban), 「はんなり」(上品で柔らか), 「ほっこり」 |
-| **Mindset** | 奥ゆかしさ / 察し / 本音建前最強 / 美意識 / 1000年の都意識 |
+| **Tư duy** | 奥ゆかしさ / 察し / 本音建前最強 / 美意識 / 1000年の都意識 |
 
 ---
 
@@ -5623,7 +5623,7 @@ Tháng 1/2027, Dũng + Tuấn được mời sang **熊本** trước (1日) r�
 
 # Rule 32 — Okinawa — văn hóa khác, 沖縄時間, ハイサイ / 沖縄
 
-> **Luận điểm.** Okinawa = **Ryūkyū文化** từng là **王国 (1429-1879)**, **không phải** "Nhật mini". Khách Okinawa có **nhịp riêng** ("沖縄時間"), **ẩm thực riêng**, **言葉 riêng** (うちなーぐち/沖縄方言). Master 8 keywords: **ゴーヤチャンプル / ソーキそば / 泡盛 / 三線 / シーサー / ハイサイ / ちゅらさん / 首里城**. **Mindset**: relax, chậm, ấm — không hối thúc.
+> **Luận điểm.** Okinawa = **Ryūkyū文化** từng là **王国 (1429-1879)**, **không phải** "Nhật mini". Khách Okinawa có **nhịp riêng** ("沖縄時間"), **ẩm thực riêng**, **言葉 riêng** (うちなーぐち/沖縄方言). Thuộc lòng 8 từ khóa: **ゴーヤチャンプル / ソーキそば / 泡盛 / 三線 / シーサー / ハイサイ / ちゅらさん / 首里城**. **Phong cách**: relax, chậm, ấm — không hối thúc.
 
 > **Ronten.** 沖縄は琉球王国(1429-1879)の歴史を持つ独自文化圏。「沖縄時間」のリラックスペースを尊重。ゴーヤチャンプル/ソーキそば/泡盛/三線/シーサー/ハイサイが基本。
 
@@ -5777,7 +5777,7 @@ Tháng 2/2027, Dũng được mời sang **那覇 office** Hakuō để giao lư
 | **平和** | **沖縄戦 (1945)** 県民4人に1人没. **ひめゆりの塔**, **平和祈念公園**, **6/23慰霊の日**. 慎重 topic. |
 | **方言 (うちなーぐち/沖縄方言)** | 「〜さ〜」「〜よ」「だからよ」(=だよね), 「めんそ〜れ」「ハイサイ」「にふぇーでーびる」(=ありがとう), 「ちゅら」(=美しい) |
 | **Sport** | **FC琉球 (J)**, **琉球ゴールデンキングス (B)**, **沖縄SV** |
-| **Mindset** | 沖縄時間 (relax) / なんくるないさ〜 / ゆいまーる / 島時間 |
+| **Phong cách** | 沖縄時間 (relax) / なんくるないさ〜 / ゆいまーる / 島時間 |
 
 ---
 
@@ -5835,7 +5835,7 @@ Tháng 2/2027, Dũng được mời sang **那覇 office** Hakuō để giao lư
 > **Hizashi Sách 08 — Rule 32 — 沖縄**
 
 
-# Rule 33 — Memory bank — ghi nhớ specifics khách JP / 雑談メモバンク
+# Rule 33 — Kho ghi nhớ — ghi nhớ chi tiết cụ thể về khách JP / 雑談メモバンク
 
 > **Luận điểm.** **AI** không thể nhớ thay bạn. Sau mỗi cuộc gặp khách Nhật, **trong vòng 24h** ghi vào CRM: **quê quán + món yêu thích + sport team + family info + lần gặp gần nhất said something**. **Trước cuộc gặp tiếp**, review 3 phút. Đây là **moat** mà cạnh tranh không vượt qua được — khách Nhật **cảm động sâu** khi đối tác nhớ "**con anh học cấp 2 chưa?**" sau 6 tháng.
 
@@ -5853,7 +5853,7 @@ Tháng 2/2027, Dũng được mời sang **那覇 office** Hakuō để giao lư
 
 ## 🎬 Bối cảnh
 
-Tháng 3/2027. Dũng tổng kết 1 năm 雑談 thực chiến với 19 cast khách Nhật. Lập **Memory Bank Master Sheet** trong Notion + Salesforce CRM, chia 4 sections theo từng khách. Anh Hà CTO yêu cầu Dũng training cả team.
+Tháng 3/2027. Dũng tổng kết 1 năm 雑談 thực chiến với 19 cast khách Nhật. Lập **Bảng kho ghi nhớ tổng hợp** trong Notion + Salesforce CRM, chia 4 sections theo từng khách. Anh Hà CTO yêu cầu Dũng training cả team.
 
 ---
 
@@ -5953,7 +5953,7 @@ Tháng 3/2027. Dũng tổng kết 1 năm 雑談 thực chiến với 19 cast kh�
 
 ---
 
-## 🗾 Memory Bank — 5 Elements
+## 🗾 Kho ghi nhớ — 5 yếu tố
 
 | Element | Ghi gì | Khi nào hỏi lại |
 |---------|--------|----------------|
@@ -6010,7 +6010,7 @@ Tháng 3/2027. Dũng tổng kết 1 năm 雑談 thực chiến với 19 cast kh�
 
 # Rule 34 — Phở — câu chuyện văn hóa / フォーの話
 
-> **Luận điểm.** Khách Nhật ai cũng biết "phở" — nhưng mức độ hiểu sâu chỉ tới đó. Bạn = "VN insider" → kể được **Bắc vs Nam, gà vs bò, sáng vs đêm, Bát Đàn vs Pasteur** = mở topic kéo dài 20 phút mà khách Nhật say sưa nghe.
+> **Luận điểm.** Khách Nhật ai cũng biết "phở" — nhưng mức độ hiểu sâu chỉ tới đó. Bạn = người am hiểu ẩm thực VN → kể được **Bắc vs Nam, gà vs bò, sáng vs đêm, Bát Đàn vs Pasteur** = mở topic kéo dài 20 phút mà khách Nhật say sưa nghe.
 
 ---
 
@@ -6025,7 +6025,7 @@ Tháng 3/2027. Dũng tổng kết 1 năm 雑談 thực chiến với 19 cast kh�
 
 ## 🎬 Bối cảnh
 
-Tháng 5/2026, dinner Tokyo izakaya với Matsumoto / Nakamura / Yamamoto (Osaka). Câu chuyện dạo quanh chuyển sang "lần tới onsite Hà Nội nên ăn gì" → Dũng có 15 phút để đưa khách vào "phở rabbit hole" hấp dẫn.
+Tháng 5/2026, dinner Tokyo izakaya với Matsumoto / Nakamura / Yamamoto (Osaka). Câu chuyện dạo quanh chuyển sang "lần tới onsite Hà Nội nên ăn gì" → Dũng có 15 phút để đưa khách vào hành trình khám phá phở đầy hấp dẫn.
 
 ---
 
@@ -6044,7 +6044,7 @@ Tháng 5/2026, dinner Tokyo izakaya với Matsumoto / Nakamura / Yamamoto (Osaka
 | **山本** | 「ほんま?それ全然知らんかった!ほな北の方が"きつね蕎麦"系で、南が"汁なし担々麺"系の味付け文化ってこと?」 |
 | **ズン** | 「まさにその喩えがぴったりです!**北=引き算の美学、南=足し算の楽しさ**、です。」 |
 
-📝 **Pattern vàng:** so sánh phở Bắc-Nam với 食 culture JP họ đã biết (蕎麦 vs 担々麺) → khách "Aha!" instant.
+📝 **Công thức vàng:** so sánh phở Bắc-Nam với văn hóa ẩm thực JP họ đã biết (蕎麦 vs 担々麺) → khách "Aha!" ngay lập tức.
 
 ---
 
@@ -6193,7 +6193,7 @@ Cuối tháng 1/2026 (gần Tết VN — mùng 1 = 17/2/2026, năm Ngọ 午年)
 | **松本** | 「日本のお盆+正月を一緒にした感じ?」 |
 | **ズン** | 「まさにそのイメージです!帰省ラッシュも激しくて、新幹線にあたる**南北統一鉄道**が満員になります。」 |
 
-> **VN:** Bridge "Tết = お盆 + 正月" → khách Nhật instant hiểu scale + tình cảm.
+> **VN:** So sánh "Tết = お盆 + 正月" → khách Nhật ngay lập tức hiểu được quy mô + tình cảm.
 
 ---
 
@@ -6287,7 +6287,7 @@ Cuối tháng 1/2026 (gần Tết VN — mùng 1 = 17/2/2026, năm Ngọ 午年)
 - So sánh "Bắc ăn Tết khác Nam" theo hướng **chính trị / lịch sử** → chỉ stick **ẩm thực + hoa**.
 - Hỏi "lì xì bao nhiêu" / khoe lì xì lớn → văn hóa khoe tiền JP né.
 - Nói "ngày xưa Pháp/Mỹ ép VN bỏ Tết" → vùng nhạy cảm, KHÔNG.
-- Quên explain mechanism âm-dương → khách lẫn với 中国春節 → mất "VN insider".
+- Quên giải thích cơ chế âm-dương → khách lẫn với 中国春節 → mất lợi thế "người am hiểu VN".
 
 ---
 
@@ -6312,7 +6312,7 @@ Cuối tháng 1/2026 (gần Tết VN — mùng 1 = 17/2/2026, năm Ngọ 午年)
 ## 🎓 BJT
 
 **J3 — 場面把握:** Khi khách hỏi "祝日何の?" → biết explain "旧正月 = Tết, không phải 1/1".
-**J2 — 表現読解:** Bridge "Tết = お盆 + 正月" — tạo image instant cho khách.
+**J2 — 表現読解:** So sánh "Tết = お盆 + 正月" — tạo hình ảnh tức thì trong đầu khách.
 **J1 — 発言聴解:** Né khéo câu chuyển sang Tết Mậu Thân / chính trị → giữ topic ở văn hóa gia đình.
 
 ---
@@ -6322,7 +6322,7 @@ Cuối tháng 1/2026 (gần Tết VN — mùng 1 = 17/2/2026, năm Ngọ 午年)
 
 # Rule 36 — Cà phê Việt / ベトナムコーヒー
 
-> **Luận điểm.** Khách Nhật uống quen ドリップ Arabica. Bạn = "VN insider" có thể kể: VN = **#2 thế giới**, robusta-dominant, **phin filter** chậm 4 phút, **cà phê sữa đá** đậm gấp đôi cà phê Tokyo, và **cà phê trứng Hà Nội** = trải nghiệm "wow" họ chưa biết.
+> **Luận điểm.** Khách Nhật uống quen ドリップ Arabica. Bạn = người trong cuộc có thể kể: VN = **#2 thế giới**, robusta-dominant, **phin filter** chậm 4 phút, **cà phê sữa đá** đậm gấp đôi cà phê Tokyo, và **cà phê trứng Hà Nội** = trải nghiệm "wow" họ chưa biết.
 
 ---
 
@@ -6373,7 +6373,7 @@ Tháng 5/2026, dinner café Tokyo sau họp. Yamamoto (Osaka, food blogger) hỏ
 | **ズン** | 「Tokyoだと**清澄白河の『フィンコーヒー』**が本格派です。あと**渋谷の『ベトちゃん』**は人気店で、店員さんもベトナム人で本物の雰囲気。」 |
 | **山本** | 「メモった!週末行ってみる。」 |
 
-📝【1】 Phin metal drip rất chậm (4-5 phút). Slow ritual = match đẹp với 急須茶 culture JP → bridge tốt.
+📝【1】 Phin metal drip rất chậm (4-5 phút). Nghi thức chậm này tương đồng đẹp với văn hóa 急須茶 JP → kết nối tự nhiên.
 
 ---
 
@@ -6389,7 +6389,7 @@ Tháng 5/2026, dinner café Tokyo sau họp. Yamamoto (Osaka, food blogger) hỏ
 | **ズン** | 「ニュアンス近いです!ただ**練乳の質感**が違って、**コクが濃い**。ホーチミンの**Trung Nguyên Legend**で本格的に飲めます。あとTokyoでは**コンドミニアムカフェ系**で再現してる店も増えてきました。」 |
 | **山本** | 「『ベトナム式昭和』ね、その表現メモる(笑)」 |
 
-> **VN:** Bridge cà phê sữa đá ↔ "昭和コーヒー" của JP → khách Kansai food blogger có image instant + meme-able phrase.
+> **VN:** Bắc cầu cà phê sữa đá ↔ "昭和コーヒー" của JP → khách Kansai blogger ẩm thực có hình ảnh tức thì + câu nói dễ nhớ dễ kể lại.
 
 ---
 
@@ -6442,7 +6442,7 @@ Tháng 5/2026, dinner café Tokyo sau họp. Yamamoto (Osaka, food blogger) hỏ
 
 ## ⚠ NG — tuyệt đối tránh
 
-- "Cà phê VN > Starbucks" → khách JP coi là arrogance, đa số họ thích Starbucks.
+- "Cà phê VN > Starbucks" → khách JP coi là kiêu ngạo, đa số họ thích Starbucks.
 - Chỉ nói "robusta" mà không explain elevation / Fine Robusta → khách giữ định kiến "industrial".
 - Push uống đặc đến **3 phin** ngày → khách JP không quen caffeine cao có thể chóng mặt thực sự.
 - So sánh negative với JP cà phê / cà phê Tokyo → vùng cấm.
@@ -6462,7 +6462,7 @@ Tháng 5/2026, dinner café Tokyo sau họp. Yamamoto (Osaka, food blogger) hỏ
 | 練乳 | れんにゅう | Sữa đặc |
 | カフェスアダー | — | Cà phê sữa đá |
 | カフェチュン | — | Cà phê trứng |
-| 急須 | きゅうす | Ấm trà JP (bridge ritual) |
+| 急須 | きゅうす | Ấm trà JP (điểm kết nối với nghi thức phin) |
 | 昭和コーヒー | しょうわコーヒー | Cà phê kiểu Showa retro JP |
 | 旧市街 | きゅうしがい | Phố cổ |
 
@@ -6471,7 +6471,7 @@ Tháng 5/2026, dinner café Tokyo sau họp. Yamamoto (Osaka, food blogger) hỏ
 ## 🎓 BJT
 
 **J3 — 場面把握:** Khi khách JP nói "Arabica?" → kéo về "Robusta + Fine Robusta" để phá định kiến.
-**J2 — 表現読解:** Bridge "phin = 急須でお茶 ritual" — sắc thái slow culture.
+**J2 — 表現読解:** Kết nối "phin = nghi thức 急須でお茶" — sắc thái slow culture.
 **J1 — 発言聴解:** Catch khi khách hỏi cà phê trứng "大丈夫?" (lo vệ sinh) → reassure bằng history + chỗ uống an toàn.
 
 ---
@@ -6481,7 +6481,7 @@ Tháng 5/2026, dinner café Tokyo sau họp. Yamamoto (Osaka, food blogger) hỏ
 
 # Rule 37 — Khí hậu 3 miền VN / 3地域気候
 
-> **Luận điểm.** "VN nóng quanh năm" = nhận thức sai phổ biến của khách Nhật. **Hà Nội có 4 mùa thật**, **Đà Nẵng-Huế hứng bão và lũ tháng 10**, **HCM 2 mùa mưa-khô**. Bạn kể được 3 miền khí hậu = khách Nhật chuẩn bị quần áo onsite đúng + có topic sâu để bridge với 4 mùa JP.
+> **Luận điểm.** "VN nóng quanh năm" = nhận thức sai phổ biến của khách Nhật. **Hà Nội có 4 mùa thật**, **Đà Nẵng-Huế hứng bão và lũ tháng 10**, **HCM 2 mùa mưa-khô**. Bạn kể được 3 miền khí hậu = khách Nhật chuẩn bị quần áo onsite đúng + có topic sâu để kết nối với 4 mùa JP.
 
 ---
 
@@ -6552,7 +6552,7 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị ons
 | **山本** | 「現地の人の動き方ってのが分かるね、メモる。気温は?」 |
 | **ズン** | 「**ホーチミンは年間27-32度ほぼ一定**で、ハノイみたいな温度差はないです。**11-1月の乾季・朝晩涼しめ**が、出張ベストシーズン。」 |
 
-> **VN:** Pattern "12時外回り / 夕方屋内" = kiến thức local insider khách JP cực thích — vì it actionable.
+> **VN:** Quy luật "12時外回り / 夕方屋内" = kiến thức người địa phương khách JP cực thích — vì áp dụng được ngay.
 
 ---
 
@@ -6569,7 +6569,7 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị ons
 | **松本** | 「なるほど、東京と那覇くらい文化違うのか。」 |
 | **ズン** | 「まさにそういうイメージです、近いと思います!」 |
 
-> **VN:** "Hà Nội ↔ HCM = Tokyo ↔ Naha" bridge clever cho khách Okinawa-quan-tâm scene.
+> **VN:** "Hà Nội ↔ HCM = Tokyo ↔ Naha" kết nối khéo léo cho khách Okinawa quan tâm.
 
 ---
 
@@ -6604,7 +6604,7 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị ons
 
 - "VN nóng quanh năm, dễ chịu" → sai, gây khách mặc sai onsite tháng 1 HN.
 - Bão miền Trung → mention Aid / chính trị quốc gia → vùng cấm.
-- "JP có 4 mùa thật, VN không có" → arrogance, sai (HN có).
+- "JP có 4 mùa thật, VN không có" → kiêu ngạo, sai (HN có).
 - Khoe "VN có cái Nhật không có" hoặc ngược lại → so sánh negative.
 - Không cảnh báo trước về bão khi khách lên kế hoạch onsite tháng 9-11 → trách nhiệm.
 
@@ -6630,9 +6630,9 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị ons
 
 ## 🎓 BJT
 
-**J3 — 場面把握:** Khi khách hỏi onsite tháng X → biết advise quần áo + tránh bão / mưa.
+**J3 — 場面把握:** Khi khách hỏi onsite tháng X → biết tư vấn quần áo + tránh bão / mưa.
 **J2 — 表現読解:** Bridge "Hà Nội ↔ HCM = Tokyo ↔ Naha" — sắc thái cultural distance trong cùng 1 nước.
-**J1 — 発言聴解:** Catch khi khách Okinawa nói "台風慣れてる" → bridge sang miền Trung VN tương đồng = +depth.
+**J1 — 発言聴解:** Catch khi khách Okinawa nói "台風慣れてる" → kết nối sang miền Trung VN tương đồng = thêm chiều sâu.
 
 ---
 
@@ -6648,9 +6648,9 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị ons
 ## 🧠 Tâm lý JP (4 dòng)
 
 - JP du lịch chuẩn bị kỹ — đa số đã đọc Lonely Planet / るるぶ trước. Bạn cần khác guidebook.
-- "Đặc trưng 1 câu mỗi thành phố" = framework JP rất thích (vì vậy guidebook mới bán chạy).
+- "Đặc trưng 1 câu mỗi thành phố" = khuôn mẫu JP rất thích (vì vậy guidebook mới bán chạy).
 - Senior 50t+ thích văn hóa cổ + history → Hà Nội + Hội An.
-- Junior 30s thích nightlife + foodie → HCM + Đà Nẵng.
+- Junior 30s thích cuộc vui về đêm + người mê ẩm thực → HCM + Đà Nẵng.
 - "Tránh suggest chỗ tourist trap" = +20 điểm.
 
 ---
@@ -6726,7 +6726,7 @@ Tháng 6/2026, dinner Tokyo. Matsumoto đi cùng vợ HN-HCM-Đà Nẵng-Hội A
 | **ズン** | 「**Sài Gòn Saigon Bar(Caravelleホテル屋上)**が静かで上品、シニアには最適。**戦時中、海外特派員が集まった歴史のあるバー**でもあります。」 |
 | **佐藤** | 「歴史とつながるバーね、それは粋やね。任せた、行ってみる。」 |
 
-📝 **Senior chỉ 1 ngày:** Stick history + premium dining (KHÔNG nightlife trẻ trung Bùi Viện).
+📝 **Senior chỉ 1 ngày:** Bám sát lịch sử + ăn uống cao cấp (KHÔNG khu vui đêm trẻ trung Bùi Viện).
 
 ---
 
@@ -6757,9 +6757,9 @@ Tháng 6/2026, dinner Tokyo. Matsumoto đi cùng vợ HN-HCM-Đà Nẵng-Hội A
 
 ## ⚠ NG — tuyệt đối tránh
 
-- Suggest **Bùi Viện street** cho senior 60t → quá ồn / nightlife trẻ.
-- Suggest 戦争証跡博物館 mà KHÔNG advise context → khách shock.
-- Tourist trap rõ (ví dụ: Hoan Kiem food trên TripAdvisor top 1) → không impress.
+- Suggest **Bùi Viện street** cho senior 60t → quá ồn / khu vui đêm không phù hợp.
+- Suggest 戦争証跡博物館 mà KHÔNG giải thích trước → khách bất ngờ.
+- Bẫy du lịch rõ ràng (ví dụ: Hoan Kiem food trên TripAdvisor top 1) → không gây ấn tượng.
 - Quên cảnh báo về scammers ở Bùi Viện / phố Tây → trách nhiệm.
 - Không match audience (Yamamoto food vs Sato senior vs Matsumoto couple).
 
@@ -6785,8 +6785,8 @@ Tháng 6/2026, dinner Tokyo. Matsumoto đi cùng vợ HN-HCM-Đà Nẵng-Hội A
 
 ## 🎓 BJT
 
-**J3 — 場面把握:** Match suggestion theo audience: senior history / junior nightlife / couple culture / blogger food.
-**J2 — 表現読解:** Phân biệt khi advise "重い" (戦争博物館) — khách JP cần warning trước.
+**J3 — 場面把握:** Match gợi ý theo đối tượng: senior lịch sử / junior cuộc vui đêm / couple văn hóa / blogger ẩm thực.
+**J2 — 表現読解:** Phân biệt khi tư vấn "重い" (戦争博物館) — khách JP cần được cảnh báo trước.
 **J1 — 発言聴解:** Catch sắc thái "重そうやな" của Sato → reassure rồi vẫn recommend nếu phù hợp generation.
 
 ---
@@ -6802,8 +6802,8 @@ Tháng 6/2026, dinner Tokyo. Matsumoto đi cùng vợ HN-HCM-Đà Nẵng-Hội A
 
 ## 🧠 Tâm lý JP (4 dòng)
 
-- 祭り JP = một trong 3 topic JP cảm xúc nhất (cùng 食 + 故郷). Bridge với VN festivals = mở conversation gold.
-- Trung thu VN = "Tết của trẻ con" gần lăng kính tâm tình của Obon JP (gia đình + ánh trăng) → bridge tự nhiên.
+- 祭り JP = một trong 3 topic JP cảm xúc nhất (cùng 食 + 故郷). Kết nối với lễ hội VN = mở chủ đề hội thoại vàng.
+- Trung thu VN = "Tết của trẻ con" gần lăng kính tâm tình của Obon JP (gia đình + ánh trăng) → kết nối tự nhiên.
 - 2/9 (Quốc Khánh) là **dây nhạy** — chỉ dùng nếu khách hỏi, focus vào **nghỉ lễ + bắn pháo hoa**, KHÔNG sa đà chính trị.
 - Senior JP rất thích nghe "tradition that survived" — múa rồng, đèn ông sao, bánh trung thu.
 
@@ -6831,7 +6831,7 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng zoom c
 | **ズン** | 「**バインチュンチュー(Bánh Trung Thu)**、表面にお花の模様で、中身は**蓮の実、カラスミ卵黄、緑豆あん、カスタード**等。**カラスミ入り**は日本人結構衝撃受けます(笑)。」 |
 | **松本** | 「カラスミ?それは食べてみたい!」 |
 
-> **VN:** Bridge "Trung thu = Tết trẻ con / Obon = lễ tổ tiên" → khách Nhật instant phân biệt + thấy fascinating.
+> **VN:** So sánh "Trung thu = Tết trẻ con / Obon = lễ tổ tiên" → khách Nhật lập tức phân biệt được + thấy thú vị.
 
 ---
 
@@ -6918,7 +6918,7 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng zoom c
 
 - 2/9 → "戦勝記念日" / 戦争 / 米国敗退 → vùng cấm chính trị tuyệt đối.
 - 30/4 (Reunification Day) cũng tránh nói sâu — focus 連休 only nếu có.
-- Khoe "VN festival hơn JP" → arrogance.
+- Khoe "VN festival hơn JP" → kiêu ngạo.
 - "Bắc-Nam 100 con" theo lăng kính chính trị → giữ ở mức 神話.
 - Mô tả múa rồng / Lân là "TQ traditions" → nhạy cảm, focus VN local development.
 
@@ -6962,7 +6962,7 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng zoom c
 
 ## 🧠 Tâm lý JP (4 dòng)
 
-- Khách JP onsite VN tránh tiếng Anh, tránh menu lạ — quay về 和食 **để recharge tinh thần**.
+- Khách JP onsite VN tránh tiếng Anh, tránh menu lạ — quay về 和食 **để nạp lại năng lượng tinh thần**.
 - "Chef người Nhật" = level 1 trust. "Chef VN train ở Nhật" = level 2. "Chuỗi VN" = level 3.
 - Sai khi gợi ý nhà hàng "VN-style sushi" cho khách JP đã ở VN 5 ngày — họ cần **authentic**.
 - Senior thường thích **tonkatsu / unagi / sushi** (món họ tin tưởng). Junior linh hoạt hơn.
@@ -7010,7 +7010,7 @@ Tháng 11/2026, Matsumoto + Tanaka onsite Hà Nội 5 ngày. Đến ngày 3 — 
 | **ズン** | 「あと**Izakaya Hokkai(居酒屋北海)**は北海道海産メインで、**いくら丼+ホタテバター**あります。**日本人客6割、駐在員家族も多い**ので、ガヤガヤ感も本物です。」 |
 | **田中** | 「ホタテバターって(笑)、北海道感やばい。今夜行こう。」 |
 
-📝 **Pattern host:** mention "東京の○分の1" giá (giá rẻ là điểm hấp dẫn JP onsite, không phải arrogance vì chính khách hỏi).
+📝 **Cách làm của host:** đề cập "東京の○分の1" giá (giá rẻ là điểm hấp dẫn JP onsite, không phải kiêu ngạo vì chính khách hỏi).
 
 ---
 
@@ -7029,7 +7029,7 @@ Tháng 11/2026, Matsumoto + Tanaka onsite Hà Nội 5 ngày. Đến ngày 3 — 
 | **広島** | 「広島焼きあるんか!?それ絶対行く!」 |
 | **ズン** | 「明日の夜、19時で予約取りますね。」 |
 
-> **VN:** Match audience! Hiroshi = Hiroshima native + senior → 広島焼 thật ở HCM = topic vàng. Anticipate quê khách + book ngay = đẳng cấp host.
+> **VN:** Chọn đúng đối tượng! Hiroshi = Hiroshima native + senior → 広島焼 thật ở HCM = topic vàng. Anticipate quê khách + book ngay = đẳng cấp host.
 
 ---
 
@@ -7048,7 +7048,7 @@ Tháng 11/2026, Matsumoto + Tanaka onsite Hà Nội 5 ngày. Đến ngày 3 — 
 | **トゥアン** | 「ドレスコードまで気回せるの、さすが。」 |
 | **ズン** | 「お客様に当日"靴脱ぐの?ジャケット要る?"って戸惑わせないように、です。」 |
 
-> **VN:** Deal closing dinner = full host mode. Dress code + room type + chef background pre-brief = professional. Đây là rule 1 strikes-out cho BD.
+> **VN:** Bữa tối chốt hợp đồng = vai trò chủ nhà hoàn chỉnh. Dress code + room type + brief chef background trước = chuyên nghiệp. Đây là lỗi chí mạng cho BD.
 
 ---
 
@@ -7079,8 +7079,8 @@ Tháng 11/2026, Matsumoto + Tanaka onsite Hà Nội 5 ngày. Đến ngày 3 — 
 ## ⚠ NG — tuyệt đối tránh
 
 - Gợi ý "VN-style sushi" cho khách JP đã 3-5 ngày trong VN → họ cần authentic, không cần fusion.
-- Gợi ý nhà hàng đông tourist nói tiếng Anh tới chef → khách JP awkward.
-- Quên mention price range / dress code → khách shock when bill / outfit sai.
+- Gợi ý nhà hàng đông khách du lịch nói tiếng Anh tới chef → khách JP không thoải mái.
+- Quên đề cập price range / dress code → khách bất ngờ khi tính tiền / mặc sai trang phục.
 - Đặt nhà hàng quá đắt cho casual dinner → ép khách / lãng phí.
 - Quên anticipate "Hiroshima native → 広島焼" / "Hokkaido → ホタテ" → mất cơ hội regional match.
 
@@ -7116,18 +7116,18 @@ Tháng 11/2026, Matsumoto + Tanaka onsite Hà Nội 5 ngày. Đến ngày 3 — 
 > **Hizashi Sách 08 — Rule 40 — ベトナムでの和食**
 
 
-# Rule 41 — Cảnh đẹp + nightlife / 観光・夜の楽しみ
+# Rule 41 — Cảnh đẹp + cuộc vui đêm / 観光・夜の楽しみ
 
-> **Luận điểm.** Khách Nhật onsite có cuối tuần / ngày dư = cơ hội bạn flex local knowledge **theo audience**. Senior 60t = **Hạ Long / Sapa / Hội An**. Junior 30s = **Phú Quốc / nightlife Bùi Viện / Tạ Hiện**. Sai audience = phá trải nghiệm.
+> **Luận điểm.** Khách Nhật onsite có cuối tuần / ngày dư = cơ hội bạn thể hiện am hiểu địa phương **theo đối tượng**. Senior 60t = **Hạ Long / Sapa / Hội An**. Junior 30s = **Phú Quốc / khu phố đêm Bùi Viện / Tạ Hiện**. Sai đối tượng = phá trải nghiệm.
 
 ---
 
 ## 🧠 Tâm lý JP (4 dòng)
 
 - Senior JP thích **cảnh thiên nhiên + di sản** — họ check Lonely Planet trước.
-- Junior thích **vibe + ảnh chụp Instagram + nightlife** — fun-driven.
-- "Tạ Hiện / Bùi Viện" cần warning về **scam + tiếng ồn + chèo kéo** trước khi advise.
-- Chỉ recommend nightlife khi khách **explicit hỏi** — KHÔNG tự đề xuất với senior.
+- Junior thích **không khí + ảnh chụp Instagram + khu phố đêm** — thích vui là chính.
+- "Tạ Hiện / Bùi Viện" cần cảnh báo về **lừa đảo + tiếng ồn + chèo kéo** trước khi gợi ý.
+- Chỉ gợi ý khu phố đêm khi khách **chủ động hỏi** — KHÔNG tự đề xuất với senior.
 
 ---
 
@@ -7152,7 +7152,7 @@ Tháng 12/2026, dinner Tokyo. Matsumoto + couple sẽ trip 5 ngày VN tháng 1 (
 | **松本** | 「奥さんが絶対喜ぶやつだ。」 |
 | **ズン** | 「サパは**Bac Ha Marketの日曜マーケット**でモン族の伝統衣装が見られます。**冬は1度くらいまで下がる**ので防寒必須、**フランス植民地時代のサパ駅前のホテル(Hotel de la Coupole)**が雰囲気抜群です。」 |
 
-> **VN:** Senior couple = experiential + visual + comfort. "船上泊" + "霧水墨画" = trigger romantic.
+> **VN:** Senior couple = trải nghiệm + thị giác + thoải mái. "船上泊" + "霧水墨画" = gợi cảm giác lãng mạn.
 
 ---
 
@@ -7168,7 +7168,7 @@ Tháng 12/2026, dinner Tokyo. Matsumoto + couple sẽ trip 5 ngày VN tháng 1 (
 | **ズン** | 「岐阜だと海が遠いんですよね!**フーコックは胡椒栽培**でも有名で、**胡椒農園を訪ねるツアー**もあります。**生胡椒**を齧ると意外な味で、加藤さんでしたら朴葉味噌のおつまみに合いそう(笑)」 |
 | **加藤** | 「胡椒農園!それは初めて聞いた、面白い。」 |
 
-> **VN:** Match Kato (Gifu núi) → bridge "海憧れ" + add 胡椒 (specialty Phú Quốc) ↔ 朴葉味噌 (Gifu) = +Insider host.
+> **VN:** Match Kato (Gifu núi) → kết nối "海憧れ" + add 胡椒 (specialty Phú Quốc) ↔ 朴葉味噌 (Gifu) = thể hiện am hiểu địa phương.
 
 ---
 
@@ -7204,7 +7204,7 @@ Tháng 12/2026, dinner Tokyo. Matsumoto + couple sẽ trip 5 ngày VN tháng 1 (
 | **佐藤** | 「焚き火と歌か…粋やね、九州の山里宿みたいやな。」 |
 | **ズン** | 「観光客少なめなので、**事前にメッセンジャーでホームステイ予約**必要です。**Mai Chau Ecolodge**か**Pom Coong村**でホストファミリー、英語OKです。」 |
 
-> **VN:** Senior natural lover → suggest **less-touristy** + **homestay** + **bridge với 阿蘇** quê khách.
+> **VN:** Senior yêu thiên nhiên → gợi ý **ít du lịch đại trà** + **homestay** + **kết nối với 阿蘇** quê khách.
 
 ---
 
@@ -7238,8 +7238,8 @@ Tháng 12/2026, dinner Tokyo. Matsumoto + couple sẽ trip 5 ngày VN tháng 1 (
 
 ## ⚠ NG — tuyệt đối tránh
 
-- Đưa senior 60t đến Tạ Hiện / Bùi Viện → mismatch + nguy hiểm scam.
-- Recommend nightlife mà không warning scam + ồn → trách nhiệm host.
+- Đưa senior 60t đến Tạ Hiện / Bùi Viện → sai đối tượng + nguy hiểm bị lừa đảo.
+- Gợi ý khu phố đêm mà không cảnh báo lừa đảo + ồn → trách nhiệm host.
 - Đưa khách couple đến party island Phú Quốc trong peak season chưa book → không có phòng.
 - Ép khách "phải đi cả Hạ Long + Sapa" 5 ngày → quá tải.
 - Push experience "ngủ homestay rural" cho khách lớn tuổi không quen → comfort issue.
@@ -7267,9 +7267,9 @@ Tháng 12/2026, dinner Tokyo. Matsumoto + couple sẽ trip 5 ngày VN tháng 1 (
 
 ## 🎓 BJT
 
-**J3 — 場面把握:** Match suggestion theo audience age + interest. Senior natural / couple romantic / junior nightlife.
-**J2 — 表現読解:** Khi khách hỏi về nightlife — biết kèm warning trước khi recommend.
-**J1 — 発言聴解:** Catch "九州の人間として自然好き" của Sato → bridge sang Mai Chau với 阿蘇 reference.
+**J3 — 場面把握:** Match gợi ý theo đối tượng (tuổi + sở thích). Senior thiên nhiên / couple lãng mạn / junior cuộc vui đêm.
+**J2 — 表現読解:** Khi khách hỏi về khu phố đêm — biết kèm cảnh báo trước khi gợi ý.
+**J1 — 発言聴解:** Catch "九州の人間として自然好き" của Sato → kết nối sang Mai Chau với 阿蘇 reference.
 
 ---
 
@@ -7281,16 +7281,16 @@ Tháng 12/2026, dinner Tokyo. Matsumoto + couple sẽ trip 5 ngày VN tháng 1 (
 
 # Phần V — Drinking culture + Self-improve / 飲みの文化と自己練習
 
-# Rule 42 — Izakaya order flow / 居酒屋オーダー
+# Rule 42 — Trình tự gọi món tại izakaya / 居酒屋オーダー
 
-> **Luận điểm.** Order izakaya có **flow chuẩn 4 bước**: ① **とりあえずビール** → ② **mồi (お通し+刺身/枝豆)** → ③ **main (焼鳥+揚げ物+焼き魚)** → ④ **締め (ご飯/麺類)**. Nếu là người trẻ nhất bàn, **bạn = order role default**. Người Việt sai vì order tất cả 1 lần như VN restaurant.
+> **Luận điểm.** Order izakaya có **trình tự chuẩn 4 bước**: ① **とりあえずビール** → ② **mồi (お通し+刺身/枝豆)** → ③ **main (焼鳥+揚げ物+焼き魚)** → ④ **締め (ご飯/麺類)**. Nếu là người trẻ nhất bàn, **bạn = vai trò gọi món mặc định**. Người Việt sai vì order tất cả 1 lần như VN restaurant.
 
 ---
 
 ## 🧠 Tâm lý JP (4 dòng)
 
 - Izakaya = **drink + food cùng tiến độ**, không phải "ăn xong rồi uống".
-- Order **theo nhịp** (small batch, hỏi thêm) = pro. Order **1 lần hết** = "ngoại quốc cảm giác".
+- Order **theo nhịp** (từng đợt nhỏ, hỏi thêm) = chuyên nghiệp. Order **1 lần hết** = "cảm giác người ngoại quốc".
 - Khi **junior nhất bàn = order**, đó là 1 trong những signal "biết quy tắc" mà senior nhìn vào.
 - Lưu ý **アレルギー / 苦手食材** — hỏi trước thay vì để khách phát hiện trên bàn.
 
@@ -7319,7 +7319,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff tại izakaya Tokyo Yurakucho. Có 5 n
 | **ズン** | 「**生ビール5つ、お願いします**。あと**お通しに加えて、枝豆と冷奴をすぐに**お願いできますか?」 |
 | **店員** | 「かしこまりました。」 |
 
-📝 **Pattern vàng:** "とりあえずビール" = phrase mặc định. Không hỏi từng người (mất thời gian, không đọc không khí). Junior nhất hỏi senior 1 lần, sau đó order chung. **Mồi (枝豆+冷奴)** order ngay = bàn có cái nhâm khi chờ.
+📝 **Công thức vàng:** "とりあえずビール" = phrase mặc định. Không hỏi từng người (mất thời gian, không đọc không khí). Junior nhất hỏi senior 1 lần, sau đó order chung. **Mồi (枝豆+冷奴)** order ngay = bàn có cái nhâm khi chờ.
 
 ---
 
@@ -7339,7 +7339,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff tại izakaya Tokyo Yurakucho. Có 5 n
 | **ズン** | 「あ、**生牡蠣は外していただけますか**?」 |
 | **店員** | 「かしこまりました。」 |
 
-📝【1】 **Pre-check allergy + 苦手** = pro move. Sau đó tự handle với 店員 (không bắt khách lặp lại). Memory bank "Matsumoto = no 生牡蠣" ghi vào CRM.
+📝【1】 **Hỏi trước dị ứng + 苦手** = nước đi chuyên nghiệp. Sau đó tự xử lý với 店員 (không bắt khách lặp lại). Ghi vào kho ghi nhớ "Matsumoto = no 生牡蠣".
 
 ---
 
@@ -7360,7 +7360,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff tại izakaya Tokyo Yurakucho. Có 5 n
 | **大垣** | 「あ、俺**生ビールもう一杯**で。」 |
 | **ズン** | 「すみません、**生ビールもう1杯追加**お願いします。」 |
 
-📝 **Pattern:** Drink switch ở wave 2 = chuẩn flow JP (bia đầu tiên → sake / shochu / hailbol). KHÔNG ép senior chuyển nếu họ vẫn muốn bia (Ōgaki).
+📝 **Công thức:** Chuyển đồ uống ở đợt 2 = chuẩn nhịp JP (bia đầu tiên → sake / shochu / hailbol). KHÔNG ép senior chuyển nếu họ vẫn muốn bia (Ōgaki).
 
 ---
 
@@ -7416,7 +7416,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff tại izakaya Tokyo Yurakucho. Có 5 n
 - Order **tất cả 1 lần** rồi không gọi thêm → "外人っぽい" / cảm giác không thoải mái.
 - Hỏi từng người drink **5 lần riêng lẻ** → mất thời gian, không đọc không khí.
 - **Quên お通し / 枝豆** ngay đầu → bàn trống = không có đệm.
-- Order món nặng (とんかつ / ステーキ) ở **締め** giai đoạn → phá flow.
+- Order món nặng (とんかつ / ステーキ) ở **締め** giai đoạn → phá nhịp.
 - Không hỏi **アレルギー / 苦手** trước → khách bị đặt vào tình huống "tôi ghét cái này nhưng đã order rồi".
 - Junior nhất bàn **không order** mà ngồi yên → bị xem là "気が利かない".
 
@@ -7447,7 +7447,7 @@ Tháng 5/2026, dinner sau Phase 4 kickoff tại izakaya Tokyo Yurakucho. Có 5 n
 
 **J3 — 場面把握:** Junior ở izakaya = order role, biết flow 4 bước.
 **J2 — 表現読解:** Phân biệt khi senior nói "**まとめてくれ**" (gộp bill mình trả) vs "**割り勘**" (chia đều) — xử lý phù hợp.
-**J1 — 発言聴解:** Catch 苦手 ngay khi khách thoáng nói (松本: "生牡蠣だけは…") → ghi vào CRM + xử lý không lặp lại với khách.
+**J1 — 発言聴解:** Catch 苦手 ngay khi khách thoáng nói (松本: "生牡蠣だけは…") → ghi vào kho ghi nhớ + xử lý không lặp lại với khách.
 
 ---
 
@@ -7534,7 +7534,7 @@ Tháng 5/2026, dinner Phase 4 closing tại izakaya Tokyo. Cùng cast với rule
 
 ### 📍 Scenario 4 — Vùng cấm: ép uống "trăm phần trăm" kiểu VN
 
-*VN style — well-meaning nhưng NG · awkward, không quen 一気飲み · rescue ngay · notice · nhẹ · bridge khéo*
+*VN style — với ý tốt nhưng NG · lúng túng, không quen 一気飲み · gỡ ngay · notice · nhẹ · chuyển khéo*
 
 | Speaker | Câu |
 |---------|-----|
@@ -7545,7 +7545,7 @@ Tháng 5/2026, dinner Phase 4 closing tại izakaya Tokyo. Cùng cast với rule
 | **松本** | 「いえいえ、文化の違い面白いですね。**100%**って表現、覚えましたよ(笑)」 |
 | **ズン** | 「松本さんがいつかハノイに来られた時、ぜひ"100%"してください(笑)。今日は**獺祭ペース**でゆっくりと。」 |
 
-📝 **Cảnh báo:** VN "1, 2, 3 dô" / 100% = phong tục VN không **ép** sang JP. Senior JP không quen có thể buộc phải nhậu = mất sức lực + cảm giác không thoải mái. **Bridge**: "100% là VN style, ペース là JP style — both nghệ thuật".
+📝 **Cảnh báo:** VN "1, 2, 3 dô" / 100% = phong tục VN không **ép** sang JP. Senior JP không quen có thể buộc phải nhậu = mất sức lực + cảm giác không thoải mái. **Bắc cầu**: "100% là VN style, ペース là JP style — cả hai đều là nghệ thuật".
 
 ---
 
@@ -7609,7 +7609,7 @@ Tháng 5/2026, dinner Phase 4 closing tại izakaya Tokyo. Cùng cast với rule
 
 **J3 — 場面把握:** Ly junior thấp hơn ly senior khi 乾杯. Notice ly trống senior → rót ngay.
 **J2 — 表現読解:** Phân biệt "強要" (ép) vs "勧める" (mời) — không vượt qua line.
-**J1 — 発言聴解:** Bridge khi đồng nghiệp VN sai sót お酌 protocol → rescue khéo, không trách công khai.
+**J1 — 発言聴解:** Kết nối khi đồng nghiệp VN sai sót お酌 protocol → gỡ khéo, không trách công khai.
 
 ---
 
@@ -7618,13 +7618,13 @@ Tháng 5/2026, dinner Phase 4 closing tại izakaya Tokyo. Cùng cast với rule
 
 # Rule 44 — 一次会・二次会・締め / 一次会・二次会
 
-> **Luận điểm.** Buổi nhậu JP có **3 lớp**: **一次会 (ăn izakaya 2-2.5h) → 二次会 (bar / karaoke / 2nd round, 1-1.5h) → 締め (ramen / ochazuke shop, 30-45 phút)**. Junior phải biết **khi nào về**, **khi nào ở lại**, **read the room**. Sai = mất cơ hội bonding hoặc bị xem là "thiếu sức bền".
+> **Luận điểm.** Buổi nhậu JP có **3 lớp**: **一次会 (ăn izakaya 2-2.5h) → 二次会 (bar / karaoke / 2nd round, 1-1.5h) → 締め (ramen / ochazuke shop, 30-45 phút)**. Junior phải biết **khi nào về**, **khi nào ở lại**, **đọc không khí bàn**. Sai = mất cơ hội gắn kết hoặc bị xem là "thiếu sức bền".
 
 ---
 
 ## 🧠 Tâm lý JP (4 dòng)
 
-- 一次会 = formal half. **二次会 = real bonding** — nơi senior hé lộ chuyện thật.
+- 一次会 = nửa formal. **二次会 = gắn kết thật sự** — nơi senior hé lộ chuyện thật.
 - "Tôi xin phép về trước" sau 一次会 = OK lý do thuyết phục, nhưng **mất cơ hội**.
 - "Còn ở lại 二次会" = signal commitment + relationship investment.
 - 締め (ラーメン 23-24h) = optional cho người trẻ — senior 60t thường rời sau 二次会.
@@ -7653,7 +7653,7 @@ Tháng 5/2026, dinner Phase 4 closing đang ở giai đoạn cuối 一次会 iz
 | **ズン** | 「**大垣さん、お店のご案内をお願いします。**」 |
 | **大垣** | 「銀座一丁目の『**ベルトラム**』。古いウイスキーバーで、店長と仲良いんだ。」 |
 
-📝 **Pattern:** Junior **không tự đề xuất 二次会** — đợi senior. Khi senior rủ, **scan bàn xem ai về ai ở** rồi confirm cho senior. **Escort khách về** (Matsumoto) trước khi đi 二次会 = pro.
+📝 **Công thức:** Junior **không tự đề xuất 二次会** — đợi senior. Khi senior rủ, **nhìn quanh bàn xem ai về ai ở** rồi confirm cho senior. **Tiễn khách về** (Matsumoto) trước khi đi 二次会 = chuyên nghiệp.
 
 ---
 
@@ -7712,7 +7712,7 @@ Tháng 5/2026, dinner Phase 4 closing đang ở giai đoạn cuối 一次会 iz
 | **ズン** | 「**今日も貴重なお話、ありがとうございました**。Phase 5の件、社内で準備します。」 |
 | **大垣** | 「ズン、お疲れ。」 |
 
-📝 **締め = optional but signal commitment cho junior.** "ハノイにも締め麺 文化ある" = bridge khéo + show interest. **Escort senior to taxi** = polished close.
+📝 **締め = tùy chọn nhưng thể hiện sự đồng hành của junior.** "ハノイにも締め麺 文化ある" = kết nối khéo + thể hiện quan tâm. **Tiễn senior lên taxi** = kết thúc trọn vẹn.
 
 ---
 
@@ -7745,7 +7745,7 @@ Tháng 5/2026, dinner Phase 4 closing đang ở giai đoạn cuối 一次会 iz
 - Xin về 一次会 mà không có **lý do thuyết phục** → "thiếu sức bền".
 - Cướp lời / change topic khi senior 二次会 đang hé lộ thật.
 - Drink quá đà ở 二次会 → ngày mai họp lờ đờ = mất uy tín thực sự.
-- Không **escort senior to taxi** ở cuối → kết thúc lửng.
+- Không **tiễn senior lên taxi** ở cuối → kết thúc lửng.
 - 締め lái khách "phải đi" → option, không ép.
 
 ---
@@ -7802,7 +7802,7 @@ Tháng 6/2026, sau dinner Phase 4 closing. 二次会 chuyển sang karaoke phòn
 
 ### 📍 Scenario 1 — Kick-off karaoke: bài đầu phòng
 
-*Karaoke vào phòng, drinks ra · senior, đặt drink · KHÔNG để senior hát đầu — junior hát first warmup · chọn bài safe, upbeat, generation neutral — Mr. Children『シーソーゲーム』 — 90s nhưng radio hit, ai cũng biết · end của bài*
+*Karaoke vào phòng, drinks ra · senior, đặt drink · KHÔNG để senior hát đầu — junior hát đầu để khởi động phòng · chọn bài an toàn, vui, phù hợp mọi thế hệ — Mr. Children『シーソーゲーム』 — 90s nhưng radio hit, ai cũng biết · end của bài*
 
 | Speaker | Câu |
 |---------|-----|
@@ -7814,13 +7814,13 @@ Tháng 6/2026, sau dinner Phase 4 closing. 二次会 chuyển sang karaoke phòn
 | **ズン** | 「日本語ばかり練習してます(笑)。次、大垣さんいかがですか?」 |
 | **大垣** | 「俺な、サザンの『TSUNAMI』。」 |
 
-📝 **Pattern vàng:** Junior hát đầu **để warmup phòng**, chọn bài **upbeat + 90s** (an toàn, hầu hết JP biết). Sau đó **defer** sang senior với suggestion nhẹ.
+📝 **Công thức vàng:** Junior hát đầu **để khởi động phòng**, chọn bài **vui, nhịp nhanh + 90s** (an toàn, hầu hết JP biết). Sau đó nhường mic sang senior với gợi ý nhẹ.
 
 ---
 
 ### 📍 Scenario 2 — Match Showa cho senior 55t
 
-*60s — cuối bài 'TSUNAMI' · cầm mic, suggest deep cut · Osaka, mê 80s idol · 年齢層直撃 · stand + mock dancing · ライブ感 — 一気に親密度UP*
+*60s — cuối bài 'TSUNAMI' · cầm mic, gợi ý bài ít biết nhưng đúng gu · Osaka, mê 80s idol · 年齢層直撃 · stand + mock dancing · ライブ感 — 一気に親密度UP*
 
 | Speaker | Câu |
 |---------|-----|
@@ -7846,7 +7846,7 @@ Tháng 6/2026, sau dinner Phase 4 closing. 二次会 chuyển sang karaoke phòn
 | **ズン** | 🎤 |
 | **田中** | (hát together) |
 
-📝【1】 **平成 hits cho 30-40t:** Mr. Children / スピッツ / B'z / ミスチル / aiko / 宇多田ヒカル / コブクロ / ゆず / レミオロメン / EXILE / GReeeeN. **Avoid:** SMAP (chia tay rồi awkward) / J-rap (taste hard).
+📝【1】 **平成 hits cho 30-40t:** Mr. Children / スピッツ / B'z / ミスチル / aiko / 宇多田ヒカル / コブクロ / ゆず / レミオロメン / EXILE / GReeeeN. **Avoid:** SMAP (chia tay rồi lúng túng) / J-rap (khó khớp gu).
 
 ---
 
@@ -7865,7 +7865,7 @@ Tháng 6/2026, sau dinner Phase 4 closing. 二次会 chuyển sang karaoke phòn
 | **ズン** | 「『木に名前を刻んだ少年』っていう恋の歌で、最近VNで流行りました。」 |
 | **大垣** | 「言語違っても、メロディの良さは伝わるんやな。ハイさん、上手かった!」 |
 
-📝 **Junior VN ở karaoke JP:** không cần ép hát JP. **VN song with Japanese explanation** = thú vị + breaking ice. Suggest **bài có giai điệu dễ catch** (Mỹ Tâm / Sơn Tùng / Hà Anh Tuấn / Phan Mạnh Quỳnh).
+📝 **Junior VN ở karaoke JP:** không cần ép hát JP. **Bài VN kèm giải thích cho khách JP** = thú vị + phá băng tự nhiên. Gợi ý **bài có giai điệu dễ cảm nhận** (Mỹ Tâm / Sơn Tùng / Hà Anh Tuấn / Phan Mạnh Quỳnh).
 
 ---
 
@@ -7912,8 +7912,8 @@ Tháng 6/2026, sau dinner Phase 4 closing. 二次会 chuyển sang karaoke phòn
 
 - **Bài English pop khó hát** (Whitney Houston / Mariah Carey) → vocal yếu ai cũng nghe được.
 - **Bài quá dark** (椎名林檎 nội tâm sâu) → phá không khí.
-- **Bài tình cảm 1-1** với khách opposite gender → awkward signal.
-- **Bài chống nắng** (隠れ名曲 không ai biết) → khách không follow theo.
+- **Bài tình cảm 1-1** với khách khác giới → tín hiệu ngại ngùng.
+- **Bài quá kén** (隠れ名曲 không ai biết) → khách không hát theo được.
 - **Hát quá nhiều** liên tục 3-4 bài → không nhường mic.
 - **Refuse hát** hoàn toàn → "thiếu hợp tác".
 
@@ -7929,7 +7929,7 @@ Tháng 6/2026, sau dinner Phase 4 closing. 二次会 chuyển sang karaoke phòn
 | 一体感 | いったいかん | Cảm giác hòa nhập |
 | 鉄板 | てっぱん | "Chắc chắn hay" (idiom) |
 | 隠れ名曲 | かくれめいきょく | Bài hay nhưng không ai biết (nguy hiểm) |
-| 直撃 | ちょくげき | "Hit thẳng" (đúng audience) |
+| 直撃 | ちょくげき | "Chạm đúng gu" (đúng đối tượng) |
 | 空気作る | くうきつくる | Tạo không khí |
 | Showa歌謡 | しょうわかよう | Nhạc Showa truyền thống |
 | 平成ヒット | へいせいヒット | Hit thời Heisei (1989-2019) |
@@ -7940,7 +7940,7 @@ Tháng 6/2026, sau dinner Phase 4 closing. 二次会 chuyển sang karaoke phòn
 
 **J3 — 場面把握:** Junior hát đầu để warmup. Chọn bài 90s upbeat an toàn.
 **J2 — 表現読解:** Suggest bài cho senior — biết match generation (Showa idol cho 50-60t).
-**J1 — 発言聴解:** Catch khi junior VN nervous → rescue bằng VN song + bridge JP.
+**J1 — 発言聴解:** Catch khi junior VN nervous → gỡ bằng bài VN + kết nối với JP.
 
 ---
 
@@ -8000,7 +8000,7 @@ Tháng 5/2026, dinner Phase 4 với Ōgaki + Matsumoto + Tanaka. Đến cuối �
 | **ズン** | 「**ジンジャエール**でいいですか?」 |
 | **松本** | 「うん、それでいいよ。」 |
 
-📝 **Pattern an toàn:** "**水で一旦休む**" → 15 phút uống nước → quay lại với non-alcoholic (ginger ale / oolong / 烏龍茶) → cuối buổi không bị kéo say. Senior JP modern hoàn toàn OK với điều này.
+📝 **Cách an toàn:** "**水で一旦休む**" → 15 phút uống nước → quay lại với đồ uống không cồn (ginger ale / oolong / 烏龍茶) → cuối buổi không bị kéo say. Senior JP hiện đại hoàn toàn OK với điều này.
 
 ---
 
@@ -8020,7 +8020,7 @@ Tháng 5/2026, dinner Phase 4 với Ōgaki + Matsumoto + Tanaka. Đến cuối �
 | **大垣** | 「そやな、お開きにしよう。ズン、田中をタクシー乗せてくれ。」 |
 | **ズン** | 「了解です。お先に失礼します。」 |
 
-📝【1】 **Cut in with care concern** — KHÔNG là "stop talking", mà "your face color is off → water" → defuse + change topic. Sau đó **escort to taxi** + có thể text PM team báo "Tanaka về an toàn". Đây là rescue cho ĐỒNG NGHIỆP của khách → +đẳng cấp.
+📝【1】 **Ngắt nhẹ bằng quan tâm sức khỏe** — KHÔNG phải "im đi", mà "mặt anh trông mệt → nước" → giải tỏa + chuyển chủ đề. Sau đó **tiễn lên taxi** + có thể nhắn PM team báo "Tanaka về an toàn". Đây là gỡ cho ĐỒNG NGHIỆP của khách → +đẳng cấp.
 
 ---
 
@@ -8093,7 +8093,7 @@ Tháng 5/2026, dinner Phase 4 với Ōgaki + Matsumoto + Tanaka. Đến cuối �
 | 烏龍茶 | ウーロンちゃ | Trà ô long (non-alc default) |
 | お開き | おひらき | Kết thúc buổi |
 | 顔色 | かおいろ | Sắc mặt |
-| おしぼり | — | Khăn ướt (rescue tool) |
+| おしぼり | — | Khăn ướt (dùng khi cần gỡ tình huống) |
 | 賢明 | けんめい | Khôn ngoan (compliment senior thường nói) |
 
 ---
@@ -8102,7 +8102,7 @@ Tháng 5/2026, dinner Phase 4 với Ōgaki + Matsumoto + Tanaka. Đến cuối �
 
 **J3 — 場面把握:** Phrase chuẩn từ chối "もう十分いただきました" + lý do nhẹ + hài.
 **J2 — 表現読解:** Sắc thái "大丈夫?" của senior khi mình từ chối — không phải đang ép, mà là confirm care.
-**J1 — 発言聴解:** Catch khi đồng nghiệp JP say + slip topic xấu → cut in care concern + escort.
+**J1 — 発言聴解:** Catch khi đồng nghiệp JP say + slip topic xấu → ngắt nhẹ bằng quan tâm + tiễn về.
 
 ---
 
@@ -8167,7 +8167,7 @@ Tham khảo. 1 scenario chính + 1 scenario "khi không biết nói gì" rescue.
 
 ### 📍 Scenario 2 — Rescue khi mất ý: 4 topic GOLD nhanh
 
-*Dũng + Sato (60t senior, lần đầu chính thức) trong hành lang đợi họp 5 phút · awkward — cần mở topic ngay, rút #1 thời tiết · bridge sang #2 食 · eyes light · bridge sang #6 sport · 他のメンバー到着、自然に商談モードへ*
+*Dũng + Sato (60t senior, lần đầu chính thức) trong hành lang đợi họp 5 phút · im lặng ngượng — cần mở topic ngay, rút #1 thời tiết · chuyển sang #2 食 · eyes light · chuyển sang #6 sport · 他のメンバー到着、自然に商談モードへ*
 
 | Speaker | Câu |
 |---------|-----|
@@ -8178,7 +8178,7 @@ Tham khảo. 1 scenario chính + 1 scenario "khi không biết nói gì" rescue.
 | **ズン** | 「ありがとうございます!**ホークス、今シーズン調子いいって聞きました**。佐藤さんもファンですか?」 |
 | **佐藤** | 「もちろん!今年はチャンスやね。ペイペイドーム行ったことある?」 |
 | **ズン** | 「まだないんです。一度行ってみたいです。」 |
-📝 **Pattern rescue:** Khi mất ý → topic #1 thời tiết → bridge sang #2 食 → bridge sang #6 sport → 5 phút trôi qua tự nhiên. **3 topic GOLD = 5 phút đầy đủ.**
+📝 **Công thức gỡ tình huống:** Khi mất ý → topic #1 thời tiết → chuyển sang #2 食 → chuyển sang #6 sport → 5 phút trôi qua tự nhiên. **3 topic GOLD = 5 phút đầy đủ.**
 
 ---
 
@@ -8204,7 +8204,7 @@ Tham khảo. 1 scenario chính + 1 scenario "khi không biết nói gì" rescue.
 - Dùng #9 (お子さん) hoặc #10 (健康) với khách **chưa thân** → too personal.
 - Lặp lại **cùng 1 topic** với cùng khách 3 lần liên tiếp → "không nhớ đã hỏi rồi".
 - Hỏi follow-up **bị bỏ trống** (khách đáp ngắn + không enthusiasm) → đổi sang topic khác ngay.
-- Hỏi follow-up **quá riêng tư** mà chưa đủ thân (sức khỏe, gia đình) → bị xem là invasive.
+- Hỏi follow-up **quá riêng tư** mà chưa đủ thân (sức khỏe, gia đình) → bị xem là tò mò thái quá.
 
 ---
 
@@ -8235,7 +8235,7 @@ Tham khảo. 1 scenario chính + 1 scenario "khi không biết nói gì" rescue.
 
 # Rule 48 — Topic LANDMINE / 地雷話題
 
-> **Luận điểm.** 10 topic LANDMINE — chạm vào = nổ. Nguy hiểm hơn cả là **tỏ ra biết** mà thực sự **không hiểu nuance**. Khi khách hỏi, biết **né khéo bằng phrase chuẩn**. Khi đồng nghiệp VN sắp chạm, **rescue ngay** trước khi khách phản ứng.
+> **Luận điểm.** 10 topic LANDMINE — chạm vào = nổ. Nguy hiểm hơn cả là **tỏ ra biết** mà thực sự **không hiểu sắc thái**. Khi khách hỏi, biết **né khéo bằng câu chuẩn**. Khi đồng nghiệp VN sắp chạm, **gỡ ngay** trước khi khách phản ứng.
 
 ---
 
@@ -8274,7 +8274,7 @@ Tham khảo. 2 scenarios — 1 ví dụ né khéo khi khách thử test, 1 ví d
 
 ### 📍 Scenario 1 — Khi khách thử test: chính trị TQ
 
-*夜 の 二次会, hơi say · né khéo · không push · bridge sang sport · grateful for topic shift*
+*夜 の 二次会, hơi say · né khéo · không push · chuyển sang sport · grateful for topic shift*
 
 | Speaker | Câu |
 |---------|-----|
@@ -8284,18 +8284,18 @@ Tham khảo. 2 scenarios — 1 ví dụ né khéo khi khách thử test, 1 ví d
 | **ズン** | 「いえいえ、**そういえば、大垣さんが以前おっしゃってた阪神の話**、今シーズンどうですか?」 |
 | **大垣** | 「あー、阪神な、今年は…(20分không khí trở lại)」 |
 
-📝【1】 **Phrase chuẩn né chính trị:** "私、政治はあまり詳しくないので…" + "色んな見方あって" + "普通の市民なので". 3 layer = né mà không xúc phạm. **Sau đó bridge sang topic thân thuộc khách** ngay (sport / quê).
+📝【1】 **Câu chuẩn né chính trị:** "私、政治はあまり詳しくないので…" + "色んな見方あって" + "普通の市民なので". 3 lớp = né mà không xúc phạm. **Sau đó chuyển sang topic thân thuộc khách** ngay (sport / quê).
 
 ---
 
 ### 📍 Scenario 2 — Rescue đồng nghiệp VN suýt nổ landmine #1 (tuổi PN)
 
-*28t junior VN, casual · face freezes 0.5s · rescue ngay, cut in · realizes · gracious · bridge an toàn · curious, mood recovers · reset*
+*28t junior VN, casual · face freezes 0.5s · gỡ ngay, ngắt vào · realizes · gracious · chuyển sang chủ đề an toàn · curious, mood recovers · reset*
 
 | Speaker | Câu |
 |---------|-----|
 | **ハイ** | 「山本さん、女性で活躍されてて素晴らしいですね。**おいくつくらいでらっしゃるんですか?**」 |
-| **山本** | 「あー、まあ…(awkward laugh)」 |
+| **山本** | 「あー、まあ…(cười ngượng)」 |
 | **ズン**【1】 | 「**ハイ、ベトナムでは普通の質問だけど、日本では女性に年齢を聞くのは控える文化なんだよ**。」 |
 | **ハイ** | 「あ、すみません!失礼しました、山本さん…」 |
 | **山本** | 「いえいえ、文化の違いですね。**ベトナムでは普通なんですか?**」 |
@@ -8303,7 +8303,7 @@ Tham khảo. 2 scenarios — 1 ví dụ né khéo khi khách thử test, 1 ví d
 | **山本** | 「へえ、呼び方変わるんですか!?それは知らなかった。」 |
 | **ハイ** | 「これからは気をつけます、ありがとうございます。」 |
 
-📝【1】 **Rescue 3 bước:** ① Cut in giải thích cho **đồng nghiệp VN** (không trách công khai), ② **Educate gently bằng "ở VN bình thường, ở JP khác"**, ③ **Bridge sang topic an toàn** (cultural exchange) để cả 3 bên có topic mới.
+📝【1】 **Gỡ tình huống 3 bước:** ① Ngắt vào giải thích cho **đồng nghiệp VN** (không trách công khai), ② **Giải thích nhẹ nhàng bằng "ở VN bình thường, ở JP khác"**, ③ **Chuyển sang chủ đề an toàn** (trao đổi văn hóa) để cả 3 bên có topic mới.
 
 ---
 
@@ -8348,7 +8348,7 @@ Tham khảo. 2 scenarios — 1 ví dụ né khéo khi khách thử test, 1 ví d
 - **KHÔNG** giải thích thêm / bào chữa → đào sâu hố.
 - **Im lặng 1 giây** → "話変わりますが…" → đổi sang topic mới.
 - **Sáng hôm sau** mail nhẹ "昨日は色々お話できて楽しかったです" → reset không khí.
-- **Học bài** — ghi vào CRM "topic này khách X dị ứng" → không lặp lại.
+- **Học bài** — ghi vào kho ghi nhớ "topic này khách X dị ứng" → không lặp lại.
 
 ---
 
@@ -8374,7 +8374,7 @@ Tham khảo. 2 scenarios — 1 ví dụ né khéo khi khách thử test, 1 ví d
 
 **J3 — 場面把握:** Nhận biết 10 LANDMINE topics + có phrase né chuẩn.
 **J2 — 表現読解:** Bắt sắc thái "0.5 giây freeze" của khách → đã chạm landmine, đổi topic ngay.
-**J1 — 発言聴解:** Rescue đồng nghiệp VN khi suýt nổ — educate khéo + bridge an toàn không trách công khai.
+**J1 — 発言聴解:** Gỡ cho đồng nghiệp VN khi suýt nổ — giải thích khéo + chuyển chủ đề an toàn, không trách công khai.
 
 ---
 
@@ -8403,13 +8403,13 @@ Tham khảo. 1 scenario "applying input vào dinner" + breakdown 5 nguồn.
 
 ## 📋 5 NGUỒN CHÍNH — 雑談ネタ
 
-| # | Nguồn | URL/App | Frequency | Note |
+| # | Nguồn | Địa chỉ/App | Tần suất | Ghi chú |
 |---|-------|---------|-----------|------|
-| 1 | **NHK ニュース** | nhk.or.jp/news/ | Daily, 5 phút morning | Trực tiếp + topic an toàn (thiên tai / 季節 / 文化) |
-| 2 | **日経新聞 (Nikkei)** | nikkei.com | Weekly, 15 phút | Business + economy. Senior đối tác đều đọc |
-| 3 | **Yahoo!Japan ranking** | news.yahoo.co.jp/ranking | Daily, 3 phút | "What everyone is talking about" today |
-| 4 | **47News regional** | 47news.jp | Weekly, by prefecture | Match theo quê khách (Hokkaido / Kansai / Kyushu) |
-| 5 | **TV bangumi recap** | (Twitter/X "ブラタモリ" "鶴瓶の家族に乾杯") | Weekly | Senior topic, regional culture |
+| 1 | **NHK ニュース** | nhk.or.jp/news/ | Hàng ngày, 5 phút sáng | Trực tiếp + topic an toàn (thiên tai / 季節 / 文化) |
+| 2 | **日経新聞 (Nikkei)** | nikkei.com | Hàng tuần, 15 phút | Business + economy. Senior đối tác đều đọc |
+| 3 | **Yahoo!Japan ranking** | news.yahoo.co.jp/ranking | Hàng ngày, 3 phút | "Cả Nhật đang nói gì" hôm nay |
+| 4 | **47News regional** | 47news.jp | Hàng tuần, theo tỉnh | Match theo quê khách (Hokkaido / Kansai / Kyushu) |
+| 5 | **TV bangumi recap** | (Twitter/X "ブラタモリ" "鶴瓶の家族に乾杯") | Hàng tuần | Topic senior, văn hóa địa phương |
 
 ---
 
@@ -8439,20 +8439,20 @@ Tham khảo. 1 scenario "applying input vào dinner" + breakdown 5 nguồn.
 | **中村** | 「11月でこれは異常やね。雪まつりも雪は問題なさそうやけど、来月のフェーズ5のキックオフ、ハノイで助かるよ(笑)」 |
 | **ズン** | 「ハノイでお迎えします、暖かくしておきます(笑)」 |
 
-📝 **Pattern:** **5 phút sáng → 1 fact** = rất ấn tượng senior JP. "観測史上最も早い積雪" = NHK vocab chuẩn, không phải Google translate.
+📝 **Công thức:** **5 phút sáng → 1 thông tin mới** = rất ấn tượng senior JP. "観測史上最も早い積雪" = NHK vocab chuẩn, không phải Google translate.
 
 ---
 
 ### 📍 Scenario 2 — Routine 30 phút/tuần — breakdown
 
-| | Note | Detail |
+| | Ghi chú | Chi tiết |
 |--|------|--------|
-| **Mon AM** | NHK News app, 5 phút | Top 5 headlines, screenshot 1 fact thú vị |
+| **Mon AM** | NHK News app, 5 phút | Top 5 headlines, chụp màn hình 1 thông tin thú vị |
 | **Wed AM** | 日経 news, 15 phút | Business top 3 + ngành liên quan khách (FinTech / Manufacturing) |
 | **Fri AM** | 47News check quê khách thân, 5 phút | "Hiroshima Carp 試合結果", "Hokkaido 雪状況" |
 | **Sun PM** | Yahoo ranking + TV bangumi recap, 5 phút | "今週何がバズってる?" |
 
-**Output:** 1 file Notes / Notion: **"今週ネタ"** với 5-10 bullet — có thể reference trong dinner / call tuần đó.
+**Output:** 1 file Notes / Notion: **"今週ネタ"** với 5-10 điểm — có thể tham khảo trong dinner / call tuần đó.
 
 **Template:**
 
@@ -8504,7 +8504,7 @@ Tham khảo. 1 scenario "applying input vào dinner" + breakdown 5 nguồn.
 ## ⚠ NG khi dùng input
 
 - Nói **fact sai** (đọc lướt mà không verify) → mất uy tín hơn không biết.
-- Show off với **5 fact / 1 buổi** → arrogant. **1-2 fact** là vừa đủ.
+- Khoe **5 thông tin / 1 buổi** → kiêu ngạo. **1-2 thông tin** là vừa đủ.
 - Mention **dark news** (sự kiện thiên tai gây thương vong / scandal) cho senior → check tone của họ trước.
 - Quá tự tin → "私もNHK毎日見てます" → khách nghi.
 - KHÔNG check trước **vùng quê khách** weather/news → miss cơ hội regional.
@@ -8539,7 +8539,7 @@ Tham khảo. 1 scenario "applying input vào dinner" + breakdown 5 nguồn.
 
 # Rule 50 — Memory bank — duy trì lâu dài / 関係維持の記憶バンク
 
-> **Luận điểm.** Sau mỗi cuộc gặp, **30 phút ghi memory bank** = đầu tư đắt nhất + ROI cao nhất trong career với khách Nhật. **Trước mỗi cuộc gặp, 3 phút review** = senior cảm thấy "anh ấy nhớ tôi" — đó là moat AI không thay thế.
+> **Luận điểm.** Sau mỗi cuộc gặp, **30 phút ghi kho ghi nhớ** = đầu tư có giá trị nhất + lợi suất cao nhất trong career với khách Nhật. **Trước mỗi cuộc gặp, 3 phút ôn lại** = senior cảm thấy "anh ấy nhớ tôi" — đó là lợi thế không ai bắt chước được.
 
 ---
 
@@ -8547,8 +8547,8 @@ Tham khảo. 1 scenario "applying input vào dinner" + breakdown 5 nguồn.
 
 - Senior JP **nhớ chi tiết** về đối tác — và **expect** đối tác nhớ về họ.
 - "Tuần trước anh kể về cháu 5 tuổi, hôm nay cháu sao rồi?" = câu nói cảm động nhất với senior 60t.
-- Memory bank = **CRM cá nhân** — không phải CRM công ty (mà CRM công ty hiếm khi capture chi tiết relationship).
-- Junior nhớ chi tiết = **moat** thật sự — vì AI tools không có context private bữa dinner đêm hôm.
+- Kho ghi nhớ = **sổ tay quan hệ cá nhân** — không phải phần mềm CRM công ty (mà CRM công ty hiếm khi ghi được chi tiết relationship).
+- Junior nhớ chi tiết = **lợi thế thực sự** — vì AI không có ngữ cảnh bữa dinner riêng tư đêm hôm.
 
 ---
 
@@ -8574,7 +8574,7 @@ Tham khảo. 1 scenario "applying memory bank" + 1 scenario "ghi memory bank nga
 | **ズン** | 「3か月前で大変な時期ですよね。ご家族でサポート、大変ですね。」 |
 | **大垣** | 「妻が一番気合い入っとるわ(笑)。じゃ、今日のキックオフ、よろしく。」 |
 
-📝【1】 **3 phút review CRM trước họp = senior cảm thấy "anh ấy nhớ tôi".** Cụ thể fact (受験 + 来月) đã được Ōgaki kể 2 tháng trước — junior nhớ 30 ngày sau = đẳng cấp. **Đây là moat duy nhất AI không thay thế được.**
+📝【1】 **3 phút ôn lại kho ghi nhớ trước họp = senior cảm thấy "anh ấy nhớ tôi".** Chi tiết cụ thể (受験 + 来月) đã được Ōgaki kể 2 tháng trước — junior nhớ lại = đẳng cấp. **Đây là lợi thế duy nhất AI không thay thế được.**
 
 ---
 
@@ -8615,7 +8615,7 @@ Tham khảo. 1 scenario "applying memory bank" + 1 scenario "ghi memory bank nga
 - **Không** ghi memory bank → trí nhớ rò rỉ → 6 tháng sau gặp lại = "ai vậy?".
 - Ghi quá generic ("Ōgaki = Osaka") → useless. Phải **chi tiết** (受験 / 牡蠣 NG / 桂米朝 fan).
 - Reference fact **sai** ("お嬢様の受験うまくいかれましたか?" mà thực ra là 息子) → còn tệ hơn không nhớ.
-- Mention chi tiết **quá riêng tư** mà chưa thân (sức khỏe vợ, lương) → invasive.
+- Mention chi tiết **quá riêng tư** mà chưa thân (sức khỏe vợ, lương) → tò mò thái quá.
 - Lưu memory bank **ở chỗ không secure** → leak personal info khách.
 
 ---
@@ -8700,7 +8700,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 ❌ 3 MISS
 1. 一次会 STEP 2: hỏi allergy quá muộn (sau 1st sashimi) → Matsumoto suýt ăn 牡蠣. NEXT: hỏi NGAY khi mở menu.
 2. 二次会 ベルトラム: khi Ōgaki hé lộ Phase 5 chi tiết, mình thiếu enthusiasm response, chỉ nói "光栄です". NEXT: thêm 1 specific question để show engagement.
-3. カラオケ Yamamoto đề nghị mình sing 1 nữa, từ chối "もう十分" → có thể phá flow vui. NEXT: 1 song nữa (90s safe) cho không khí.
+3. カラオケ Yamamoto đề nghị mình sing 1 nữa, từ chối "もう十分" → có thể phá nhịp vui. NEXT: 1 song nữa (90s safe) cho không khí.
 
 🔁 3 FOLLOW-UP
 1. Send Ōgaki link 桂米朝 'jigokubakkyō' theo lời hứa Tuần trước → mai mail ngay sáng.
@@ -8716,7 +8716,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 
 ---
 
-### 📍 Scenario 2 — Practice routine: 30 phút/tuần dry-run
+### 📍 Scenario 2 — Practice routine: 30 phút/tuần luyện tập thử
 
 | | Time | Action |
 |--|------|--------|
@@ -8726,7 +8726,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 | L4 | (5 min) | Compare với reference, identify 1 từ phát âm yếu |
 | L5 | **Mon morning** | Apply trong call thực với khách → notice if used = +1 to bank |
 
-📝 Pattern: **Sách 08 = 51 rules → 1 năm = 51 tuần = 1 rule/tuần dry-run.** Sau 1 năm = master toàn bộ.
+📝 Công thức: **Sách 08 = 51 rules → 1 năm = 51 tuần = 1 rule/tuần luyện tập thử.** Sau 1 năm = nắm toàn bộ.
 
 ---
 
@@ -8755,7 +8755,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - **Không** review (skip) → sau 1 năm vẫn lặp lỗi cũ.
 - Self-review **quá tự ái** ("hôm nay tôi giỏi nhất") → miss miss.
 - Self-review **quá tự trách** ("tôi tệ quá") → demotivate, không actionable.
-- Review **không actionable** ("phải tốt hơn lần sau") — phải concrete: "lần sau hỏi allergy ngay khi mở menu".
+- Review **không áp dụng được** ("phải tốt hơn lần sau") — phải cụ thể: "lần sau hỏi allergy ngay khi mở menu".
 - Skip step **3 follow-up** → mất uy tín "thất hứa".
 
 ---
@@ -8769,7 +8769,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 | 改善 | かいぜん | Cải tiến (kaizen) |
 | 上々 | じょうじょう | Rất tốt |
 | 改善点 | かいぜんてん | Điểm cần cải tiến |
-| ドライラン | — | Dry run (practice) |
+| ドライラン | — | Luyện tập thử (trước khi dùng thật) |
 | 反省 | はんせい | Tự kiểm điểm |
 | 学び | まなび | Bài học rút ra |
 
@@ -9255,7 +9255,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 | Phin | フィンっていう金属ドリッパーで、4-5分待ちます。 | 'Phin' — phin nhôm, chờ 4-5 phút. | Mở topic ritual |
 | Phin | 急須でお茶を入れる時間感覚に近いです。 | Giống cảm giác pha trà kyusu. | Bridge với JP |
 | CPSĐ | 日本のエスプレッソ並みに濃くて、練乳でバランス取ります。 | Đậm như espresso, sữa đặc cân lại. | Mô tả vị |
-| CPSĐ | 『ベトナム式昭和コーヒー』みたいな感じです。 | Như 'Showa coffee kiểu VN'. | Bridge meme-able |
+| CPSĐ | 『ベトナム式昭和コーヒー』みたいな感じです。 | Như 'Showa coffee kiểu VN'. | Câu nói dễ nhớ dễ kể lại |
 | Trứng | ティラミスを飲んでるような味です。 | Vị như đang uống tiramisu. | Mô tả gây 'wow' |
 | Trứng | 1940年代、牛乳がなくて卵黄を代わりに使ったのが起源です。 | Giả thuyết nguồn gốc 1940 thiếu sữa nên dùng trứng. | Story layer |
 | Trứng | ハノイ旧市街のCafé Giảngが発祥の地です。 | Café Giảng phố cổ HN là nơi sáng tạo. | Gợi ý cụ thể |
@@ -9267,13 +9267,13 @@ Total: 一次 + 二次 + 締め (5 hours)
 |---|---|---|---|
 | HN | ハノイは1月だと10度切ること多いです、ダウンジャケット要ります。 | HN tháng 1 thường <10°C, cần áo phao. | Phá định kiến quan trọng |
 | HN | 暖房がない家が多いので、屋内も寒く感じます。 | Nhà ít có sưởi nên trong nhà cũng lạnh. | Practical info |
-| HN | 春(3-4月)と秋(10-11月)が出張ベストシーズンです。 | Xuân và thu là mùa onsite tốt nhất. | Advise concrete |
-| Trung | 9-11月は台風シーズンで、フエ・ダナン・ホイアンが弱いです。 | 9-11 mùa bão, Huế-ĐN-HA yếu. | Advise an toàn |
+| HN | 春(3-4月)と秋(10-11月)が出張ベストシーズンです。 | Xuân và thu là mùa onsite tốt nhất. | Lời khuyên cụ thể |
+| Trung | 9-11月は台風シーズンで、フエ・ダナン・ホイアンが弱いです。 | 9-11 mùa bão, Huế-ĐN-HA yếu. | Cảnh báo an toàn |
 | Trung | 沖縄と中部VNはほぼ同じ緯度で、台風の通り道が似てます。 | Okinawa và Trung VN cùng vĩ độ. | Bridge với khách Okinawa |
 | HCM | 強く30分降ってサッと止むスコール型です。 | Mưa mạnh 30 phút rồi tạnh kiểu rào. | Mô tả mưa |
-| HCM | 雨は夕方4-6時に多いので、その時間は屋内予定がコツ。 | Mưa hay chiều 4-6h, sắp lịch trong nhà. | Practical insider |
+| HCM | 雨は夕方4-6時に多いので、その時間は屋内予定がコツ。 | Mưa hay chiều 4-6h, sắp lịch trong nhà. | Bí quyết người địa phương |
 | HCM | 年間27-32度ほぼ一定、温度差はないです。 | Cả năm 27-32, không chênh. | Phân biệt với HN |
-| Bridge | 東京と那覇くらい文化違うイメージです。 | Khác văn hóa như Tokyo-Naha. | Bridge với khách Okinawa/Tokyo |
+| Bridge | 東京と那覇くらい文化違うイメージです。 | Khác văn hóa như Tokyo-Naha. | Kết nối với khách Okinawa/Tokyo |
 
 ### Rule 08 — Thành phố khách Nhật quan tâm / 注目都市
 
@@ -9286,8 +9286,8 @@ Total: 一次 + 二次 + 締め (5 hours)
 | DN pitch | ダナンは『発展する近代ビーチ都市』。 | ĐN là 'thành phố biển hiện đại đang phát triển'. | 1-line |
 | HA pitch | ホイアンは『夜のランタンの世界遺産』。 | HA là 'di sản đèn lồng buổi tối'. | 1-line |
 | HA | 夜が本番なので、夕方着ホイアン泊がベストです。 | Tối là chính, nên check-in chiều ngủ HA. | Practical advice |
-| Senior | Sài Gòn Saigon Bar(Caravelle屋上)はシニアに最適、歴史も。 | Saigon Saigon Bar Caravelle hợp senior, có lịch sử. | Match audience |
-| Warning | 戦争証跡博物館は重いですが、外せない場所です。 | Bảo tàng Chứng tích nặng nhưng không thể thiếu. | Warning before recommend |
+| Senior | Sài Gòn Saigon Bar(Caravelle屋上)はシニアに最適、歴史も。 | Saigon Saigon Bar Caravelle hợp senior, có lịch sử. | Match đối tượng |
+| Warning | 戦争証跡博物館は重いですが、外せない場所です。 | Bảo tàng Chứng tích nặng nhưng không thể thiếu. | Cảnh báo trước khi gợi ý |
 
 ### Rule 08 — Lễ hội VN / ベトナムの祭り
 
@@ -9379,7 +9379,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 
 | Category | JP | VN | Use |
 |---|---|---|---|
-| Kick-off | まず私から行かせていただきます。皆さんの空気作れたら(笑) | Em xin hát đầu để tạo không khí (cười). | Junior warmup phòng |
+| Kick-off | まず私から行かせていただきます。皆さんの空気作れたら(笑) | Em xin hát đầu để tạo không khí (cười). | Junior khởi động phòng |
 | Suggest senior | [senior]さん、もし良ければ松田聖子の『青い珊瑚礁』、いかがですか? | Nếu được thì 'Aoi Sangoshou' Matsuda Seiko, anh hát không? | Match Showa |
 | Showa hits | サザンの『TSUNAMI』、いきましょう! | 'TSUNAMI' của Southern All Stars, đi anh! | Bài 鉄板 50-60t |
 | J-pop | Mr. Children『innocent world』、いかがですか? | 'innocent world' Mr. Children? | Match 30-40t |
@@ -9396,7 +9396,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 | Từ chối | 明日もご一緒できる体でいたいので(笑) | Muốn ngày mai còn sức tiếp đón anh ạ (cười). | Lý do nhẹ + hài |
 | Tạm nghỉ | お水でちょっと一旦休ませてください。後でまた。 | Cho em nghỉ uống nước đã ạ. Lát lại. | Pause khéo |
 | Non-alc | ジンジャエール / 烏龍茶でいいですか? | Ginger ale / ô long được không ạ? | Resume non-alc |
-| Rescue | [Tên]さん、お水召し上がります?顔色がちょっと… | Anh, uống nước nhé? Sắc mặt anh hơi... | Cut in care concern |
+| Rescue | [Tên]さん、お水召し上がります?顔色がちょっと… | Anh, uống nước nhé? Sắc mặt anh hơi... | Ngắt nhẹ bằng quan tâm |
 | Rescue | そろそろお開きにしましょうか? | Mình kết thúc nhé? | Khi đã quá mức |
 | Escort | [Tên]さんもタクシーで。お先に失礼します。 | Anh cũng đi taxi. Em xin phép trước. | Care + close |
 | Sáng hôm sau | [Tên]さんもタクシーで無事帰宅確認しました。 | Em đã xác nhận anh về an toàn bằng taxi. | Follow-up pro |
@@ -9480,7 +9480,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 
 | Kanji/JP | よみ | Nghĩa | Rule |
 |---|---|---|---|
-| タイミング | — | Timing | 08 |
+| タイミング | — | Thời điểm | 08 |
 | あるある | — | "Chuyện thường gặp" (slang nhẹ) | 08 |
 | なれなれしい | — | Suồng sã, thân quá mức không phù hợp | 08 |
 | いかがでしたか | — | "Như thế nào ạ?" — formal mở | 08 |
@@ -9564,7 +9564,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 | ランタン | — | Đèn lồng (Hội An signature) | 08 |
 | ルーフトップバー | — | Rooftop bar | 08 |
 | サンライズ | — | Bình minh | 08 |
-| シルバーウィーク | — | Tuần nghỉ tháng 9 JP (bridge) | 08 |
+| シルバーウィーク | — | Tuần nghỉ tháng 9 JP (điểm kết nối) | 08 |
 | カラスミ | — | Trứng cá muối (= trứng muối VN bridge) | 08 |
 | おまかせ | — | Combo chef chọn | 08 |
 | カウンター | — | Quầy ăn (chef đối diện) | 08 |
@@ -9579,12 +9579,12 @@ Total: 一次 + 二次 + 締め (5 hours)
 | カラオケ | — | Karaoke | 08 |
 | デュエット | — | Hát đôi | 08 |
 | ジンジャエール | — | Ginger ale | 08 |
-| おしぼり | — | Khăn ướt (rescue tool) | 08 |
+| おしぼり | — | Khăn ướt (dùng khi cần gỡ tình huống) | 08 |
 | ドラフト | — | Draft (NPB) | 08 |
 | バズる | — | Đang viral | 08 |
 | スランプ | — | Slump | 08 |
 | PDCA | — | Plan-Do-Check-Action (JP business standard) | 08 |
-| ドライラン | — | Dry run (practice) | 08 |
+| ドライラン | — | Luyện tập thử (trước khi dùng thật) | 08 |
 | カラッと晴れた | — | Nắng khô (kiểu Hokkaido) | 09 |
 | ザンギ | — | Gà chiên Hokkaido | 11 |
 | ロック | — | On the rocks | 12 |
@@ -9741,7 +9741,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 | 気まずい | きまずい | Khó xử, awkward | 08 |
 | 旧市街 | きゅうしがい | Phố cổ | 08 |
 | 旧正月 | きゅうしょうがつ | Tết âm lịch (= Tết VN) | 08 |
-| 急須 | きゅうす | Ấm trà JP (bridge ritual) | 08 |
+| 急須 | きゅうす | Ấm trà JP (điểm kết nối với nghi thức phin) | 08 |
 | 給料 | きゅうりょう | Lương | 08 |
 | 旧暦 | きゅうれき | Âm lịch | 08 |
 | 共通テスト | きょうつうテスト | Kỳ thi chung (universal entrance test) | 08 |
@@ -9947,7 +9947,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 | 中部高原 | ちゅうぶこうげん | Cao nguyên Trung phần (Buôn Ma Thuột, Đà Lạt) | 08 |
 | 美ら海水族館 | ちゅらうみすいぞくかん | Aquarium | 08 |
 | 提灯 | ちょうちん | Đèn lồng | 08 |
-| 直撃 | ちょくげき | "Hit thẳng" (đúng audience) | 08 |
+| 直撃 | ちょくげき | "Chạm đúng gu" (đúng đối tượng) | 08 |
 | 知覧 | ちらん | Bảo tàng tokkō | 08 |
 | 散り際 | ちりぎわ | Lúc tàn rơi | 16 |
 | 沈黙 | ちんもく | Im lặng | 08 |
@@ -10375,7 +10375,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - D. 「日本のコーヒーの方が美味しい」と話題を逸らす
 
 **Đáp án:** B
-**Giải thích:** Phá định kiến robusta = industrial bằng fact #1 world + Fine Robusta. A sai (chủ yếu robusta); C củng cố định kiến; D né topic + so sánh negative.
+**Giải thích:** Phá định kiến robusta = industrial bằng thông tin #1 thế giới + Fine Robusta. A sai (chủ yếu robusta); C củng cố định kiến; D né topic + so sánh negative.
 
 **J3-25** *(Rule 08, 場面把握)*: 「来年1月にハノイ出張、半袖でいいよね?」と聞かれたら最も適切な返答は?
 
@@ -10385,7 +10385,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - D. 「日本の冬よりは暖かいですよ」と曖昧にする
 
 **Đáp án:** B
-**Giải thích:** Phá định kiến rõ ràng + advise concrete = trách nhiệm với khách. A/C/D dẫn đến khách mặc sai onsite.
+**Giải thích:** Phá định kiến rõ ràng + lời khuyên cụ thể = trách nhiệm với khách. A/C/D dẫn đến khách mặc sai onsite.
 
 **J3-26** *(Rule 08, 場面把握)*: Foodブロガーの客がホーチミン3日間の予定を聞いた時、最も良い構成は?
 
@@ -10395,7 +10395,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - D. ブイビエンストリートで毎晩
 
 **Đáp án:** B
-**Giải thích:** Match audience food blogger = market + local + cafe trend. A senior; C nhầm city; D nightlife trẻ.
+**Giải thích:** Match đối tượng food blogger = market + local + cafe trend. A senior; C nhầm city; D khu phố đêm trẻ.
 
 **J3-27** *(Rule 08, 場面把握)*: 「9月2日は何の祝日?」と聞かれた時、最も適切な返答は?
 
@@ -10405,7 +10405,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - D. 「特に意味はないです」
 
 **Đáp án:** B
-**Giải thích:** Stick fact + 連休 + 帰省 + bridge SW. A vùng cấm chính trị; C né cứng nhắc; D nói dối.
+**Giải thích:** Thông tin cụ thể + 連休 + 帰省 + kết nối với SW. A vùng cấm chính trị; C né cứng nhắc; D nói dối.
 
 **J3-28** *(Rule 08, 場面把握)*: ハノイ出張中の若手客が『居酒屋っぽいところある?』と言った時、最も適切な提案は?
 
@@ -10425,7 +10425,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - D. ホームステイ4泊
 
 **Đáp án:** B
-**Giải thích:** Senior couple = scenic + experiential + comfort. A nightlife sai audience; C beach + nightlife trẻ; D quá rural cho người không quen.
+**Giải thích:** Senior couple = scenic + experiential + comfort. A khu phố đêm sai đối tượng; C beach + khu phố đêm trẻ; D quá rural cho người không quen.
 
 **J3-30** *(Rule 08, 場面把握)*: 5名で居酒屋に座った直後、最若手として最も適切な行動は?
 
@@ -10435,7 +10435,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - D. 全員に1人ずつ何が飲みたいか聞き続ける
 
 **Đáp án:** B
-**Giải thích:** Junior = order role, confirm 1 lần + pattern mặc định 'とりあえずビール' + mồi ngay. A self-focus; C miss role; D mất thời gian + 空気読めない.
+**Giải thích:** Junior = vai trò gọi món, confirm 1 lần + công thức mặc định 'とりあえずビール' + mồi ngay. A self-focus; C miss role; D mất thời gian + 空気読めない.
 
 **J3-31** *(Rule 08, 場面把握)*: 乾杯の時、最若手として最も適切なグラスの位置は?
 
@@ -10455,7 +10455,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - D. 「いや、もう疲れたので」と私的理由で断る
 
 **Đáp án:** B
-**Giải thích:** Junior scan + report + defer = pro. A miss bonding; C tự đề xuất sai role; D thiếu sức bền.
+**Giải thích:** Junior nhìn bàn + báo lại + nhường senior = chuyên nghiệp. A miss bonding; C tự đề xuất sai role; D thiếu sức bền.
 
 **J3-33** *(Rule 08, 場面把握)*: カラオケに入ったばかりの時、最若手の最適な行動は?
 
@@ -10465,7 +10465,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - D. 英語の難しい曲を選ぶ
 
 **Đáp án:** B
-**Giải thích:** Junior warmup phòng = pro. Bài 90s safe + ai cũng biết. A senior phải start awkward; C không hợp tác; D hát yếu hơn.
+**Giải thích:** Junior khởi động phòng = chuyên nghiệp. Bài 90s an toàn + ai cũng biết. A senior phải start lúng túng; C không hợp tác; D hát yếu hơn.
 
 **J3-34** *(Rule 08, 場面把握)*: Senior に『もう一杯どう?』と勧められたが、もう十分の時、最も適切な返答は?
 
@@ -10515,7 +10515,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - D. 自分の会社の業績を確認
 
 **Đáp án:** B
-**Giải thích:** 3 min CRM review = top investment. A miss; C miss; D miss audience prep.
+**Giải thích:** 3 phút ôn kho ghi nhớ = đầu tư hàng đầu. A miss; C miss; D sai đối tượng.
 
 **J3-39** *(Rule 08, 場面把握)*: 雑談セッション後の振り返り、最適なフレームは?
 
@@ -10525,7 +10525,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - D. 何もしない
 
 **Đáp án:** B
-**Giải thích:** Framework concrete = actionable. A vague; C binary; D miss skill compound.
+**Giải thích:** Khuôn mẫu cụ thể = áp dụng được ngay. A vague; C binary; D miss skill compound.
 
 **J3-40** *(Rule 09, 場面把握)*: 東京で7月、湿度80%・気温33度の日に最も適切な天気の表現はどれですか?
 
@@ -10907,7 +10907,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - D. 「中国の真似です」
 
 **Đáp án:** B
-**Giải thích:** So sánh trục tâm điểm (祖先 vs 次世代) → khách Nhật instant phân biệt. A sai; C arrogant; D nhạy cảm.
+**Giải thích:** So sánh trục tâm điểm (祖先 vs 次世代) → khách Nhật instant phân biệt. A sai; C kiêu ngạo; D nhạy cảm.
 
 **J2-28** *(Rule 08, 表現読解)*: 広島出身のお客様にHCMの和食を勧める時、最も加点になるのは?
 
@@ -10937,7 +10937,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - D. 「日本人は何でも食べると思ってました」と返す
 
 **Đáp án:** B
-**Giải thích:** Acknowledge + handle silently với 店員 = pro. Memory bank ghi vào CRM. A miss; C overreact; D xúc phạm.
+**Giải thích:** Acknowledge + handle silently với 店員 = chuyên nghiệp. Ghi vào kho ghi nhớ. A miss; C overreact; D xúc phạm.
 
 **J2-31** *(Rule 08, 表現読解)*: お客様のグラスが残り1/3になった時の最適な行動は?
 
@@ -10977,7 +10977,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - D. 別の話題に強引に変える
 
 **Đáp án:** B
-**Giải thích:** Care concern cover-up = defuse + escort path. A đồng lõa; C xúc phạm đồng nghiệp; D awkward.
+**Giải thích:** Ngắt nhẹ bằng quan tâm = giải tỏa + mở đường tiễn về. A đồng lõa; C xúc phạm đồng nghiệp; D ngượng ngùng.
 
 **J2-35** *(Rule 08, 表現読解)*: 出身地について深掘りする時の最適なfollow-upは?
 
@@ -11007,7 +11007,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - D. ベトナムの天気を長く話す
 
 **Đáp án:** B
-**Giải thích:** Exact NHK vocab + care concern → đẳng cấp 'biết Nhật thật'. A flat; C self-talk; D miss audience.
+**Giải thích:** Exact NHK vocab + quan tâm sức khỏe → đẳng cấp 'biết Nhật thật'. A flat; C self-talk; D sai đối tượng.
 
 **J2-38** *(Rule 08, 表現読解)*: memory bankを活用する時のNG行為は?
 
@@ -11017,7 +11017,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - D. プライベートすぎる質問をする
 
 **Đáp án:** B
-**Giải thích:** Trick câu: 全 NG nhưng B (overdo) ít rõ nhất. Pattern dùng 1-2 fact = vừa đủ. (B/C/D đều NG, chọn B vì rõ là 'over-use')
+**Giải thích:** Trick câu: 全 NG nhưng B (overdo) ít rõ nhất. Công thức dùng 1-2 thông tin = vừa đủ. (B/C/D đều NG, chọn B vì rõ là 'over-use')
 
 **J2-39** *(Rule 08, 表現読解)*: MISS項目の書き方として最適なのは?
 
@@ -11027,7 +11027,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - D. 「次は完璧にする」
 
 **Đáp án:** B
-**Giải thích:** Concrete fact + concrete next action = actionable. A/D vague; C demotivate.
+**Giải thích:** Chi tiết cụ thể + hành động cụ thể = áp dụng được ngay. A/D vague; C demotivate.
 
 **J2-40** *(Rule 09, 表現読解)*: 北海道出身のお客様に「梅雨入りしましたか?」と聞いた場合、最も予想される反応は?
 
@@ -11459,7 +11459,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - D. お酒のおかわりを店員に頼む
 
 **Đáp án:** B
-**Giải thích:** Senior 内心 hé lộ = moment quý → listen, react gọn, KHÔNG cướp lời. A phá; C arrogant; D miss moment.
+**Giải thích:** Senior 内心 hé lộ = moment quý → listen, react gọn, KHÔNG cướp lời. A phá; C kiêu ngạo; D miss moment.
 
 **J1-33** *(Rule 08, 発言聴解)*: ベトナム人junior が『日本の歌歌えない』と言った時、最適な対応は?
 
@@ -11469,7 +11469,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - D. 自分がもう一曲歌う
 
 **Đáp án:** B
-**Giải thích:** Junior VN nervous → bridge VN song + explain → khách JP thấy thú vị. A skip miss bonding; C pressure; D ép junior tan.
+**Giải thích:** Junior VN nervous → kết nối bằng bài VN + giải thích → khách JP thấy thú vị. A skip miss bonding; C pressure; D ép junior tan.
 
 **J1-34** *(Rule 08, 発言聴解)*: 翌朝の信頼回復で、最も効果的な行動は?
 
@@ -11479,7 +11479,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - D. 昨日のことを話題にしない
 
 **Đáp án:** B
-**Giải thích:** Sáng hôm sau = test thực sự. Sharp + thanks + escort report + work-ready = đẳng cấp. A miss; C unprofessional; D awkward.
+**Giải thích:** Sáng hôm sau = test thực sự. Sharp + thanks + báo cáo đã tiễn + work-ready = đẳng cấp. A miss; C unprofessional; D ngượng ngùng.
 
 **J1-35** *(Rule 08, 発言聴解)*: 5分で複数のGOLD topicを使う時の最適なbridgeパターンは?
 
@@ -11489,7 +11489,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - D. 沈黙する
 
 **Đáp án:** B
-**Giải thích:** Bridge giữa topic khi flat → flow tự nhiên. A có thể dead-end; C không bonding; D awkward.
+**Giải thích:** Chuyển giữa topic khi nhịp chậm → mạch tự nhiên. A có thể dead-end; C không gắn kết; D ngượng ngùng.
 
 **J1-36** *(Rule 08, 発言聴解)*: ベトナム人junior が日本人女性のお客様に年齢を聞いた時、最適なrescueは?
 
@@ -11499,7 +11499,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - D. 完全に無視する
 
 **Đáp án:** B
-**Giải thích:** Educate VN khéo + bridge văn hóa = save 3 bên. A xúc phạm junior; C đổ thêm dầu; D awkward.
+**Giải thích:** Giải thích khéo cho junior VN + chuyển sang chủ đề văn hóa = save 3 bên. A xúc phạm junior; C đổ thêm dầu; D ngượng ngùng.
 
 **J1-37** *(Rule 08, 発言聴解)*: 1回の雑談で、ニュースから引用するfact数として最適なのは?
 
@@ -11509,7 +11509,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - D. 10個以上
 
 **Đáp án:** B
-**Giải thích:** 1-2 fact = vừa đủ + audience nhớ. A khoe; C miss cơ hội; D arrogant.
+**Giải thích:** 1-2 thông tin = vừa đủ + đối tượng nhớ. A khoe; C miss cơ hội; D kiêu ngạo.
 
 **J1-38** *(Rule 08, 発言聴解)*: 半年前のお客様の発言を正確にreferenceできた時の効果は?
 
@@ -11519,7 +11519,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - D. 効果はない
 
 **Đáp án:** B
-**Giải thích:** Long memory + accurate = senior cảm nhận sâu sắc. Đây là moat #1.
+**Giải thích:** Long memory + accurate = senior cảm nhận sâu sắc. Đây là lợi thế #1.
 
 **J1-39** *(Rule 08, 発言聴解)*: 100回 dinner後、累積効果として最も期待されるのは?
 
@@ -11707,7 +11707,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 **REQUEST/PROMISE** (mình hứa làm gì): 
 **MOOD** (warm/neutral/cool/stressed): 
 **NEXT HOOK** (3ヶ月後): 
-**FOLLOW-UP TASK** (Salesforce / Notion):
+**VIỆC CẦN LÀM TIẾP THEO** (Salesforce / Notion):
 ```
 
 ### Pre-Meeting 3-Min Review Checklist
@@ -11806,7 +11806,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 ```
 
 ### Template 6
-*Trước mỗi họp / call / dinner. 3 phút review CRM.*
+*Trước mỗi họp / call / dinner. 3 phút ôn lại kho ghi nhớ.*
 
 ```markdown
 # 🔍 Pre-meeting 3-min review — [Khách] — [Date]
@@ -11826,7 +11826,7 @@ Total: 一次 + 二次 + 締め (5 hours)
 - [ ] 今日 mở topic gì để start ấm áp?
   - 例: 「お嬢様の受験、いかがですか?」
   - 例: 「広島カープのドラフト、見られました?」
-- [ ] Mention được 1 fact mới (NHK / 47News / Tabelog) liên quan quê khách?
+- [ ] Mention được 1 thông tin mới (NHK / 47News / Tabelog) liên quan quê khách?
 - [ ] 避けるべき topic 今日:
 
 ## ✅ READY — go in
@@ -11880,8 +11880,8 @@ Total: 一次 + 二次 + 締め (5 hours)
 
 ---
 
-## 💡 Pattern noted (để cập nhật vào playbook cá nhân)
-- (vd: 'お酌 + label hướng senior = nodding warm' → confirm pattern works)
+## 💡 Công thức nhận ra (để cập nhật vào playbook cá nhân)
+- (vd: 'お酌 + label hướng senior = nodding warm' → confirm công thức hiệu quả)
 ```
 
 ### Template 8

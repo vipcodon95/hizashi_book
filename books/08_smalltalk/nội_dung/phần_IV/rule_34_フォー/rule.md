@@ -25,7 +25,7 @@ Tháng 5/2026, dinner Tokyo izakaya với Matsumoto / Nakamura / Yamamoto (Osaka
 
 *食関心*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本** | 「ズンさん、来月ハノイ出張なんだけど、フォーって朝食でいいの?」 |
 | **ズン** | 「はい、ハノイのフォーは**朝6時から並ぶ**のが本場です。実は松本さん、フォーって**北と南で全く別物**なんですよ。」 |
@@ -40,7 +40,7 @@ Tháng 5/2026, dinner Tokyo izakaya với Matsumoto / Nakamura / Yamamoto (Osaka
 
 ### 📍 Scenario 2 — Gà vs Bò + thời điểm ăn
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **中村** | 「ズンさん、フォーって牛が定番でしょ?」 |
 | **ズン** | 「実は地元では**フォーガー(鶏)**もすごく人気です。ハノイの古い店だと、朝は鶏で**夜は牛**って使い分けする店もあります。」 |
@@ -56,7 +56,7 @@ Tháng 5/2026, dinner Tokyo izakaya với Matsumoto / Nakamura / Yamamoto (Osaka
 
 ### 📍 Scenario 3 — Bát Đàn (HN) vs Pasteur (HCM) — gợi ý cụ thể
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本** | 「ハノイで一番のフォー屋、どこ?」 |
 | **ズン** | 「3つ候補あります。**①フォー・バッダン(Phở Bát Đàn)** — 行列必至、自分でトレイ取りに行くスタイル。**②フォー・ティン(Phở Thìn)** — 牛肉炒めスタイル、味濃いめ。**③フォー・ザートゥエン(Phở Gia Truyền)** — 観光客少なめ、地元ファン多い。」 |
@@ -73,7 +73,7 @@ Tháng 5/2026, dinner Tokyo izakaya với Matsumoto / Nakamura / Yamamoto (Osaka
 
 *hơi tò mò sâu · né khéo*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「フォーってフランスの影響なの?中華?」 |
 | **ズン** | 「色々説あって、面白いんですが**今でも研究者が議論中**でして…私は専門家じゃないので断言できないんですが、**北部のナムディン省発祥**説が有力と聞きます。」【2】 |

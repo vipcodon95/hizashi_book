@@ -25,7 +25,7 @@ Dũng đã làm với Matsumoto hơn 1 năm — relationship đã thân (đi nh�
 
 *dinner sau họp, tự lấy điện thoại · react chân thành · 自慢気 nhưng控えめ*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本** | 「ズンさん、見て。実は娘が今年、**早稲田**に合格してね。」 |
 | **ズン** | 「えっ、本当ですか!**おめでとうございます**!早稲田って…難関ですよね。」 |
@@ -46,7 +46,7 @@ Dũng đã làm với Matsumoto hơn 1 năm — relationship đã thân (đi nh�
 
 *zoom call, có tiếng mèo kêu · rạng rỡ*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **山本** | 「あ、すみません、うちの猫が…(画面に映る)」 |
 | **ズン** | 「わ、可愛い!**茶トラ**【1】ですか?お名前は?」 |
@@ -67,7 +67,7 @@ Dũng đã làm với Matsumoto hơn 1 năm — relationship đã thân (đi nh�
 
 *dinner với Hiroshi, đã uống 2 ly · hơi reserved · 短く · catch tín hiệu — không sâu thêm · thoải mái lại*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「広島部長、ご家族は広島にいらっしゃるんですか?」 |
 | **広島** | 「ええ、妻と子ども2人。今は単身赴任なんで。」 |
@@ -84,7 +84,7 @@ Dũng đã làm với Matsumoto hơn 1 năm — relationship đã thân (đi nh�
 
 *Dũng mới gặp Tanaka — chỉ 2-3 lần, chưa thân · NG — quá thân · uncomfortable, lảng · NG tiếp · sang topic khác ngay*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「田中さん、奥様おいくつですか?」 |
 | **田中** | 「あ、まあ…年下なんで…」 |

@@ -16,7 +16,7 @@ Final contract v3 sau 3 round terms negotiation đã OK. Hà CTO ký bên Tiên 
 
 ## ❌ Hội thoại XẤU — request signature casual + không deadline
 
-| | Speaker | Câu (mail) |
+| | Vai | Câu (mail) |
 |--|---------|-----|
 | **L1** | (件名:「契約書」) **ズン** | 「大垣様、契約書を添付しました。サインお願いします。」 |
 | **L2** | (3 週間沈黙) **ズン** *(焦)* | 「大垣様、その後いかがでしょうか？」 |
@@ -29,7 +29,7 @@ Final contract v3 sau 3 round terms negotiation đã OK. Hà CTO ký bên Tiên 
 
 ## ✅ Hội thoại TỐT — formal request + 3 elements
 
-| | Speaker | Câu (mail) |
+| | Vai | Câu (mail) |
 |--|---------|-----|
 | **L1** | (件名:「【ご捺印のお願い】Phase 3 業務委託契約書 (キックオフ 7/1 予定)」) **ズン** | 「大垣様、いつもお世話になっております。」 |
 | **L2** | **ズン** *(本文)* | 「Phase 3 業務委託契約書 final 版が両社合意に至りましたので、お送りいたします。**つきましては、ご署名・ご捺印いただけますでしょうか**【1】。」 |

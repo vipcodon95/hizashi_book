@@ -18,7 +18,7 @@ Phase 4 round 3, 大垣 thay 中村 CFO + 大垣 + Tiên Phát luật sư on cal
 
 *panic、 escalate なし · Hà CTO に · 青*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **中村CFO** | 「indemnity 無制限じゃないと弊社決裁 down ません。今ここで決めてください。」 |
 | **ズン** | 「えっと…無制限ですか…承知いたしました、それで進めます…」 |
@@ -33,7 +33,7 @@ Phase 4 round 3, 大垣 thay 中村 CFO + 大垣 + Tiên Phát luật sư on cal
 
 *2 秒沈黙、 trigger T2 + T3 認識 · microexpression: 想定内 · 2 分後 · 中村に · 姿勢正す*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **中村CFO** | 「indemnity 無制限じゃないと弊社決裁 down ません。今ここで決めてください。」 |
 | **ズン** | 「ご要望承知しました。」 |

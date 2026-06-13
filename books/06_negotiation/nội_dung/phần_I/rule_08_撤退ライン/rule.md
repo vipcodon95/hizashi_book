@@ -16,7 +16,7 @@ Sáng đàm phán Phase 3, sau alignment meeting. Hà CTO yêu cầu Dũng đọ
 
 ## ❌ Hội thoại XẤU — walk-away chỉ có giá
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハー CTO** | 「ズン、撤退ライン全部読み上げて。」 |
 | **ズン** | 「¥15M 以下です。」 |
@@ -30,7 +30,7 @@ Sáng đàm phán Phase 3, sau alignment meeting. Hà CTO yêu cầu Dũng đọ
 
 ## ✅ Hội thoại TỐT — walk-away 5 軸 với approval
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハー CTO** | 「ズン、撤退ライン全部読み上げて。」 |
 | **ズン** | 「**5 軸読み上げます**【1】。(1) **価格**: ¥15M 未満は撤退。(2) **IP**: ベース技術の所有権は弊社、white-label OK だが core IP 譲渡は撤退条件。(3) **SLA**: 99.5% 以下は受けない、その下は罰則賠償リスクが粗利を超える。(4) **支払**: net 60 まで OK、net 90 以上は撤退。(5) **責任上限**: 契約金額の 100% 超えは撤退【2】。」 |

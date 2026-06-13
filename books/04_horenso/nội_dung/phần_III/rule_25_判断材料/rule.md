@@ -16,7 +16,7 @@ Em Dũng tham vấn chị Hương về việc deploy vào weekend (rủi ro như
 
 ## ❌ Hội thoại XẤU — hỏi đáp án thuần
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン副部長、Phase 2 のリリース、土曜にしますか?月曜にしますか?どっちがいいですか?」 |
 | **フオン** | 「で、あなたはどっちがいいと思ってるの?」 |
@@ -29,7 +29,7 @@ Em Dũng tham vấn chị Hương về việc deploy vào weekend (rủi ro như
 
 ## ✅ Hội thoại TỐT — hỏi判断材料
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン副部長、Phase 2 リリース時期について、A『土曜深夜』とB『月曜早朝』で悩んでおります。私は B 寄りなのですが、見落としがないか **判断材料を補強** していただきたく存じます【1】。」 |
 | **フオン** | 「うん、続けて。」 |

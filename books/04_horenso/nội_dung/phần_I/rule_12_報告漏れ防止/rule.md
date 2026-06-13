@@ -16,7 +16,7 @@ Em Dũng bị chị Hương phản hồi: "tuần này anh Matsumoto hỏi 3 l�
 
 ## ❌ Hội thoại XẤU — dựa trí nhớ
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **フオン** | 「ズン、松本様から3つ問い合わせが来てる：(1) リスケの確認、(2) 検収書の Excel 形式、(3) Phase 3 アジェンダ。報告した？」 |
 | **ズン** | 「えっと…リスケは伝えたと思います、Excel は…たぶん明日…アジェンダはまだ…」 |
@@ -32,7 +32,7 @@ Em Dũng bị chị Hương phản hồi: "tuần này anh Matsumoto hỏi 3 l�
 
 *thứ 6 17h, sau khi chạy checklist*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン副部長、今週の **報告漏れチェック完了**【1】です。」 |
 | **ズン** | 「**今週の通信件数**：受信18 / 返信17 / **未返信1件**：松本様 4/22 のメール『Phase 3 予算確認』。本日中に返信予定です【2】。」 |

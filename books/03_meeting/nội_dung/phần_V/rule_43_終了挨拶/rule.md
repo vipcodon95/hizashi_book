@@ -18,7 +18,7 @@ Họp định kỳ tháng 4 vừa kết thúc đúng giờ với output rõ ràn
 
 *im một lúc*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「じゃあ、お疲れ様でした！」 |
 | **大垣** | 「…はい、お疲れ様でした。」 |
@@ -29,7 +29,7 @@ Họp định kỳ tháng 4 vừa kết thúc đúng giờ với output rõ ràn
 
 ## ✅ Hội thoại TỐT — 4 bước đóng
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「本日はお忙しい中、お時間いただき誠にありがとうございました【1】。」 |
 | **ズン** | 「本日はPhase 2 スコープA案の確定と、5月開発計画の合意ができました【2】。」 |

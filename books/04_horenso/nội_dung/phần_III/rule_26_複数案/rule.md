@@ -16,7 +16,7 @@ Em Hải tham vấn anh Tuấn về việc khắc phục bug performance API. L�
 
 ## ❌ Hội thoại XẤU — 1 phương án
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハイ** | 「トゥアンさん、API 遅延の件、Redis キャッシュ追加で解決したいんですが、いいですか?」 |
 | **トゥアン** | 「それしか考えてないの?他の選択肢は?」 |
@@ -29,7 +29,7 @@ Em Hải tham vấn anh Tuấn về việc khắc phục bug performance API. L�
 
 ## ✅ Hội thoại TỐT — 3 options + matrix
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハイ** | 「トゥアンさん、API 遅延の対応案を3つ準備しました。コスト・時間・リスクで比較しております【1】。」 |
 | **トゥアン** | 「いいね、見ます。」 |

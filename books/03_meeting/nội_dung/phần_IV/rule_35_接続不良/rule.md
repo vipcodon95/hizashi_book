@@ -18,7 +18,7 @@ Họp Zoom, em Dũng đang trình bày → mạng VN bị lag, video freeze 30 g
 
 *đang nói · đợi 1 phút · 2 phút sau Dũng rejoin*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「4月のKPIは…」 *(freeze 30s, drop)* |
 | **松本** | 「ズンさん？聞こえますか？」 |
@@ -32,7 +32,7 @@ Họp Zoom, em Dũng đang trình bày → mạng VN bị lag, video freeze 30 g
 
 *đang nói · gõ vào chat từ phone · 45 giây sau rejoin · tiếp*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「4月のKPIは…」 *(freeze)* |
 | **ズン** 💬【1】 | 「申し訳ございません、接続が不安定です。再接続いたします。」 |

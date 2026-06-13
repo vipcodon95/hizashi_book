@@ -18,7 +18,7 @@ Slide đã có 1-slide-1-message nhưng order lộn xộn: bắt đầu bằng "
 
 *リハーサル*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「最初に弊社の強み3点をご紹介します。次にPhase 3 提案、最後に価格…」 |
 | **フオン** | 「ストップ。**自社の強みから**入る？それ vendor-first 順。聴衆は『で、何の話？』ってなる。」 |
@@ -31,7 +31,7 @@ Slide đã có 1-slide-1-message nhưng order lộn xộn: bắt đầu bằng "
 
 ## ✅ Hội thoại TỐT — SCQA flow
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「組み直しました。**SCQA**で行きます【1】。Slide1: 白鷗様の在庫差異5%という現状(S)。Slide2: Phase 2 で1.8%まで改善したが、季節商品で再発(C)。Slide3: 残課題をどう解決するか(Q)。Slide4-9: Phase 3 提案(A)。」 |
 | **フオン** | 「いいね、聴衆が**自分の話**として聞ける。Cで再発を素直に書いたのも良い、隠さない方が信頼される【2】。」 |

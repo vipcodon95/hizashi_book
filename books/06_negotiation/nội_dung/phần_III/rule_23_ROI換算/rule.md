@@ -18,7 +18,7 @@
 
 *沈黙*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **中村CFO** | 「ROI はどのくらいですか？」 |
 | **ズン** | 「Phase 2 で実績ありますし、Phase 3 はそれ以上の value があります。」 |
@@ -30,7 +30,7 @@
 
 ## ✅ Hội thoại TỐT — ROI 4 yếu tố cụ thể
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **中村CFO** | 「ROI はどのくらいですか？」 |
 | **ズン** | 「**ROI 4 indicators**【1】です。**Investment**: ¥17.5M。**Annual return**: (a) AI レコメンド導入で transaction 単価 +12% × 月 GMV ¥600M ≒ 年 +¥864M revenue uplift、利益率 9% 換算で **¥77.7M/年 net 利益**【2】、(b) 手動在庫調整削減 = 5名 × 240日 × 2h × 単価 ¥6,000 = **¥14.4M/年 cost saving**、合計 **¥92.1M/年**。」 |

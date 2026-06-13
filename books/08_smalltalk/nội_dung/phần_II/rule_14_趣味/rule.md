@@ -25,7 +25,7 @@ Tuần này có 3 buổi với 3 khách hobby khác nhau: ① Hiroshi mời chơ
 
 *dinner, sau ly thứ 3 · thận trọng — chưa giỏi · impress*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **広島** | 「ズンさん、ゴルフはやる?今度の土曜、**コンペ**【1】に出るんだけど一緒にどう?」 |
 | **ズン** | 「ありがとうございます!実は始めて1年で、**スコア110**【2】くらいです…ご迷惑にならなければ。」 |
@@ -46,7 +46,7 @@ Tuần này có 3 buổi với 3 khách hobby khác nhau: ① Hiroshi mời chơ
 
 *izakaya Osaka, mở tin tức · rạng rỡ · thực sự cảm phục*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **山本** | 「ズンさん、昨日の阪神戦見た?**佐藤輝明**【1】のホームラン、すごかったわ!」 |
 | **ズン** | 「Yahooで結果だけ。**サトテル**【2】、今シーズン調子いいですよね。**4番**復帰したんですよね?」 |
@@ -76,7 +76,7 @@ Tuần này có 3 buổi với 3 khách hobby khác nhau: ① Hiroshi mời chơ
 
 *dinner, mở TV thấy tin sumo · delighted*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **佐藤** | 「お、今日**九州場所**【1】3日目か。**大の里**【2】今日は誰と当たるかな。」 |
 | **ズン** | 「先生、相撲お好きなんですね!**大の里**、**新横綱**になりましたよね?」 |
@@ -97,7 +97,7 @@ Tuần này có 3 buổi với 3 khách hobby khác nhau: ① Hiroshi mời chơ
 
 *slack, gửi link Strava*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中** | 「最近、**ハーフマラソン**走り始めて。先週**東京マラソン**応募した。」 |
 | **ズン** | 「お、ランニング始めたんですか!**サブ4**【1】目指してます?」 |

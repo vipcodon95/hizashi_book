@@ -18,7 +18,7 @@ Em Linh tham vấn anh Dũng về việc chọn template email cho khách Nhật
 
 *không nghĩ · 2週間後 — Linh tham vấn cùng pattern lần nữa · 自覚*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | 「ズンさん、Phase 2 の挨拶メール、テンプレ A と B どっちがいいですか?」 |
 | **ズン** | 「B にして。」 |
@@ -32,7 +32,7 @@ Em Linh tham vấn anh Dũng về việc chọn template email cho khách Nhật
 
 ## ✅ Hội thoại TỐT — coaching pattern 5 step
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | 「ズンさん、Phase 2 の挨拶メール、テンプレ A と B どっちがいいですか?」 |
 | **ズン** | 「**①要約: AとBで迷っているということだね**【1】。**②リン自身の仮説**は?どっちに寄ってる、その理由は?」 |

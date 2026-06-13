@@ -18,7 +18,7 @@ Sau bow đón ở lobby (rule 08), Dũng dẫn 3 khách 大垣 + 中村 + 松本
 
 *đi sau khách, vừa đi vừa hỏi · không biết hướng nào, dừng lại nhìn quanh · vào thang máy đầu tiên, tự mình bấm tầng · theo sau, đứng chen chúc gần cửa thang máy · ra khỏi thang trước khách, quay lưng đi nhanh*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「あの、どっちですかね…3階ですよね？」 |
 | **大垣** | 「えーと…」 |
@@ -34,7 +34,7 @@ Sau bow đón ở lobby (rule 08), Dũng dẫn 3 khách 大垣 + 中村 + 松本
 
 *đi trước 1-2 bước, chéo bên trái, tay phải chỉ hướng · theo sau · đến thang máy, bấm nút, đứng giữ cửa · vào thang máy · vào sau cùng, đứng cạnh bảng nút điều khiển · thang đến, **giữ nút mở**, để khách ra trước · ra sau, đi trước dẫn đến cửa phòng họp, gõ nhẹ 2 lần, mở cửa giữ*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「**こちらへどうぞ**【1】。会議室は3階でございます。」 |
 | **大垣 + 中村 + 松本** | *(theo)* |

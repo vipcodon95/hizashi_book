@@ -11,7 +11,7 @@ lang: vi
 
 ## Sách song ngữ Việt-Nhật cho người Việt làm với khách Nhật
 
-40 rules dạy 3 trụ cột giao tiếp công việc Nhật: 報告 (báo cáo) · 連絡 (liên lạc) · 相談 (tham vấn). Đặc biệt critical cho offshore IT teams VN làm việc với khách Nhật.
+40 rules dạy 3 trụ cột giao tiếp công việc Nhật: 報告 (báo cáo) · 連絡 (liên lạc) · 相談 (tham vấn). Đặc biệt thiết yếu cho offshore IT teams VN làm việc với khách Nhật.
 
 **Đối tượng:** Dev/PM/BD VN, ôn BJT J3-J2.
 
@@ -23,7 +23,7 @@ lang: vi
 | II | 連絡 (Renraku — Liên lạc) | 9 |
 | III | 相談 (Sōdan — Tham vấn) | 9 |
 | IV | Tình huống đặc biệt | 6 |
-| V | Tools + Best Practice | 4 |
+| V | Tools + Thực hành tốt nhất | 4 |
 
 **Phụ lục:** A (script template), B (vocab), C (BJT practice), D (templates 10+ mẫu).
 
@@ -291,7 +291,7 @@ Demo Phase 2 với khách Matsumoto vừa kết thúc. Em Dũng cần báo cáo 
 | キックオフ | kikkuofu | Kick-off |
 
 
-# Rule 04 — Báo cáo trung gian / 中間報告 (interim 25/50/75% milestones)
+# Rule 04 — Báo cáo trung gian / 中間報告 (25/50/75% milestones)
 
 > **Luận điểm.** Việc dài 1+ tuần phải có **báo cáo trung gian** ở mốc 25/50/75%. Đợi xong mới báo = "ngâm tin". Sếp không biết tiến độ thực = không can thiệp được khi sai hướng.
 >
@@ -671,7 +671,7 @@ Sau Phase 2 hoàn thành, em Dũng cần soạn 報告書 chính thức gửi an
 
 📝 **Ghi chú:**
 - 【1】**「〇〇 完了報告書（〇月〇日〜〇月〇日）」** — 件名 phải có loại văn bản + scope thời gian. Không 「〇〇について」.
-- 【2】**概要 (executive summary)** = 3-5 dòng. CEO/PM lướt là nắm. 詳細 dành cho người implement.
+- 【2】**概要 (tóm tắt cho lãnh đạo)** = 3-5 dòng. CEO/PM lướt là nắm. 詳細 dành cho người implement.
 - 【3】**添付一覧** = liệt kê tên + version + ngày của từng file đính kèm. Tránh lẫn version về sau.
 
 ---
@@ -889,7 +889,7 @@ Sáng thứ Hai 8:55 — 朝礼 team Phase 2. Em Dũng đến lượt báo. Lầ
 
 # Rule 11 — Báo cáo cho khách hàng quan trọng / 重要顧客への報告
 
-> **Luận điểm.** Báo cáo cho khách Nhật quan trọng (PM, Giám đốc) phải có **3 layer khác báo cáo nội bộ**: (1) tone formal cao hơn 1 bậc, (2) **không jargon** kỹ thuật chưa giải thích, (3) **bỏ title đồng nghiệp Việt** (ウチ・ソト) — gọi "弊社のトゥアン" chứ không "トゥアンリーダー".
+> **Luận điểm.** Báo cáo cho khách Nhật quan trọng (PM, Giám đốc) phải có **3 lớp khác báo cáo nội bộ**: (1) tone formal cao hơn 1 bậc, (2) **không jargon** kỹ thuật chưa giải thích, (3) **bỏ title đồng nghiệp Việt** (ウチ・ソト) — gọi "弊社のトゥアン" chứ không "トゥアンリーダー".
 >
 > 重要顧客報告の3層差：①敬語ワンランク上、②未説明のジャーゴン禁止、③ウチ・ソト原則で社内同僚の役職敬称を外す（「弊社のトゥアン」）。
 >
@@ -1058,7 +1058,7 @@ Xem `templates[0]` của file conversation: **報告漏れ防止 self-check 10 i
 
 # Rule 13 — Nguyên tắc liên lạc tức thì / 連絡の即時性原則
 
-> **Luận điểm.** Liên lạc trễ = liên lạc sai. **"Information delayed = information wrong"**. Trong Hou-Ren-Sou, 連絡 (sharing thông tin) có giá trị giảm theo cấp số mũ theo thời gian. Biết 1 thông tin → share trong **15 phút** với người liên quan. Để 1 ngày = giá trị giảm 80%.
+> **Luận điểm.** Liên lạc trễ = liên lạc sai. **"Thông tin trễ = thông tin sai"** (Information delayed = information wrong). Trong Hou-Ren-Sou, 連絡 (sharing thông tin) có giá trị giảm theo cấp số mũ theo thời gian. Biết 1 thông tin → share trong **15 phút** với người liên quan. Để 1 ngày = giá trị giảm 80%.
 >
 > 連絡は鮮度がすべて。**「遅れた情報は誤った情報と同じ」**。知ったら15分以内に共有。1日寝かせると価値は80%消える。
 >
@@ -1463,7 +1463,7 @@ Em Dũng vào Slack workspace chung với khách Hakuō. 田中 PMO (anh Tanaka)
 | **ズン** | 「あ、でも顧客優先かと…」 |
 | **トゥアン** | 「**Plan を持たずに顧客に告げると 'どうするんですか'と詰められて、そこで初めて社内で議論することになる**。最悪。社内で固めてから顧客へ。」 |
 
-**Vì sao xấu:** Việt thường nghĩ "khách trước". Nhật business: chain of command trước, Plan trước, rồi báo khách. Báo khách trước Plan = khách hỏi "phương án?" → embarass.
+**Vì sao xấu:** Việt thường nghĩ "khách trước". Nhật business: chain of command trước, Plan trước, rồi báo khách. Báo khách trước Plan = khách hỏi "phương án?" → mất mặt.
 
 ---
 
@@ -1508,7 +1508,7 @@ Em Dũng vào Slack workspace chung với khách Hakuō. 田中 PMO (anh Tanaka)
 - Báo khách Nhật trước khi có Plan — họ hỏi "Plan は?" → bạn tê liệt.
 - Skip cấp trung gian, gọi thẳng C-level đầu tiên — direct boss bị bypassed = mất thiện cảm.
 - Không có timeline (dài nhất bao lâu nữa giải quyết) — khách không biết kỳ vọng.
-- Slack #public trước khi đã thông báo người key — họ đọc Slack mới biết = embarass.
+- Slack #public trước khi đã thông báo người key — họ đọc Slack mới biết = mất mặt.
 
 ---
 
@@ -1540,7 +1540,7 @@ Em Dũng vào Slack workspace chung với khách Hakuō. 田中 PMO (anh Tanaka)
 
 ## Bối cảnh / 場面
 
-Em Dũng phát hiện thứ Hai 9h: họp với anh Matsumoto thứ Ba 14h trùng họp nội bộ critical. Cần reschedule. Lần đầu Dũng báo trễ + chỉ 1 option mới. Lần 2 đúng cấu trúc.
+Em Dũng phát hiện thứ Hai 9h: họp với anh Matsumoto thứ Ba 14h trùng họp nội bộ quan trọng. Cần reschedule. Lần đầu Dũng báo trễ + chỉ 1 option mới. Lần 2 đúng cấu trúc.
 
 ---
 
@@ -1833,7 +1833,7 @@ Em Dũng được anh Hà CTO cử sang Tokyo 3 ngày để demo Phase 2 cho anh
 
 ## ⚠ Tránh
 
-- Báo công tác như báo nghỉ ("3 日不在") — công tác là **work travel**, vẫn cần report.
+- Báo công tác như báo nghỉ ("3 日不在") — đi công tác vẫn cần report.
 - Bỏ "expected deliverables" — sếp không biết kỳ vọng gì từ chuyến đi.
 - "電話に出れません" — công tác vẫn nên reachable trừ giờ họp/di chuyển.
 - Bỏ daily check-in — sếp/team mất visibility 3 ngày.
@@ -1856,7 +1856,7 @@ Em Dũng được anh Hà CTO cử sang Tokyo 3 ngày để demo Phase 2 cho anh
 
 # Rule 21 — Liên lạc cross-timezone (VN-JP) / 海外チームへの時差連絡
 
-> **Luận điểm.** VN-JP cách 2 giờ (mùa hè), 4 giờ (Hokkaido). Khi chia sẻ thông tin với team Nhật, không nói "明日10時" mà nói "**10:00 JST (08:00 ICT)**". Quy tắc: **Always UTC anchor + async-first + daily handoff**.
+> **Luận điểm.** VN-JP cách 2 giờ (mùa hè), 4 giờ (Hokkaido). Khi chia sẻ thông tin với team Nhật, không nói "明日10時" mà nói "**10:00 JST (08:00 ICT)**". Quy tắc: **Luôn ghi giờ UTC/JST kèm, ưu tiên async, bàn giao cuối ngày**.
 >
 > 海外チームへの時差連絡3原則：①時刻は必ず UTC または『JST (ICT)』併記、②async 前提（即返信を期待しない）、③ daily handoff message（VN PM 18時 → JP AM 9時の引き継ぎ）。
 >
@@ -2109,7 +2109,7 @@ Em Linh (intern Marketing) gặp vấn đề: nhà cung cấp print brochure bá
 📝 **Ghi chú:**
 - 【1】**「事前に状況・参考事例・仮説をまとめてあります」** — 1 câu mở đã show 3 bộ vật liệu. Sếp biết ngay là tham vấn nghiêm túc.
 - 【2】**①5W1H** — Linh đã có sẵn date/time/quantity/reason. Sếp không phải hỏi lại.
-- 【3】**②3 case** — internal precedent + alternative options đã call. Đây là phần khó nhất nhưng critical: show đã tự research.
+- 【3】**②3 case** — internal precedent + alternative options đã call. Đây là phần khó nhất nhưng then chốt: show đã tự research.
 - 【4】**③仮説 + 自分にない権限** — Linh đề xuất phương án + nói rõ tại sao tham vấn (権限). Đây không phải 丸投げ mà là tham vấn để duyệt.
 
 ---
@@ -2800,7 +2800,7 @@ Cuộc họp client xong, Dũng đã hứa anh Matsumoto: "**Phase 2 lock cost t
 
 # Rule 31 — Phát hiện bug — Hou-Ren-Sou flow / バグ発見時
 
-> **Luận điểm.** Bug critical (production down / data corruption / security) là tình huống áp lực đỉnh. Phải có **escalation flow định trước**: **(1) Detect → ngay** **(2) Slack #incident channel + tag Tuấn (Tech lead)** trong **5 phút**, **(3) Tuấn xác nhận severity → escalate Hà CTO** trong **15 phút**, **(4) Hà CTO + Dũng cùng draft thông báo + escalate Matsumoto** trong **30 phút**, **(5) Investigation + ETA** trong **60 phút**, **(6) Resolve + post-mortem** trong **24h**. Time limit per step = SLA team. Bỏ qua step = "đi tắt" → bê trễ chuỗi.
+> **Luận điểm.** Bug critical (production down / data corruption / security) là tình huống áp lực đỉnh. Phải có **quy trình xử lý leo thang định trước**: **(1) Detect → ngay** **(2) Slack #incident channel + tag Tuấn (Tech lead)** trong **5 phút**, **(3) Tuấn xác nhận severity → escalate Hà CTO** trong **15 phút**, **(4) Hà CTO + Dũng cùng draft thông báo + escalate Matsumoto** trong **30 phút**, **(5) Investigation + ETA** trong **60 phút**, **(6) Resolve + post-mortem** trong **24h**. Time limit per step = SLA team. Bỏ qua step = "đi tắt" → bê trễ chuỗi.
 >
 > インシデント発見時の時間SLA：①検知0分→②Slack #incident + Tech lead 5分→③CTO 15分→④客通知 30分→⑤ETA 60分→⑥解決+post-mortem 24h。各ステップを飛ばすと連鎖遅延。
 >
@@ -2899,7 +2899,7 @@ T+24h       Post-mortem report                    (Tuấn + Hà CTO)
 
 # Rule 32 — Khi khách phàn nàn — escalation / クレームのエスカレーション
 
-> **Luận điểm.** Khách Nhật phàn nàn (クレーム) hiếm khi ngay từ đầu. Khi đã nói "**困っております**" / "**改善いただきたい**" / "**いかがでしょうか?**" với tone formal là dấu hiệu đã chịu đựng lâu. Junior nhận khiếu nại thường có 2 lỗi: **(1) Defensive ngay** ("không phải lỗi mình" hoặc "đó là do anh báo trễ") **(2) Hứa luôn** ("em sẽ xử lý ngay" mà chưa verify). Pattern đúng: **(1) Lắng nghe đầy đủ + 復唱 (lặp lại) khẳng định đã hiểu**, **(2) Xin lỗi pre-verification ("ご不便をおかけし誠に申し訳ございません" — không nhận lỗi cụ thể)**, **(3) Senior verify + plan**, **(4) Reply chính thức trong 24h với phương án**.
+> **Luận điểm.** Khách Nhật phàn nàn (クレーム) hiếm khi ngay từ đầu. Khi đã nói "**困っております**" / "**改善いただきたい**" / "**いかがでしょうか?**" với tone formal là dấu hiệu đã chịu đựng lâu. Junior nhận khiếu nại thường có 2 lỗi: **(1) Phản bác ngay** ("không phải lỗi mình" hoặc "đó là do anh báo trễ") **(2) Hứa luôn** ("em sẽ xử lý ngay" mà chưa verify). Pattern đúng: **(1) Lắng nghe đầy đủ + 復唱 (lặp lại) khẳng định đã hiểu**, **(2) Xin lỗi pre-verification ("ご不便をおかけし誠に申し訳ございません" — không nhận lỗi cụ thể)**, **(3) Senior verify + plan**, **(4) Reply chính thức trong 24h với phương án**.
 >
 > クレーム対応4ステップ：①傾聴+復唱→②事実確認前のお詫び→③上位者と検証+対応案→④24h以内の正式回答。即否定も即約束もNG。
 >
@@ -3101,7 +3101,7 @@ Em Hải quyết định du học Đức 6 tháng (sabbatical) bắt đầu từ
 
 # Rule 34 — Mentoring Hou-Ren-Sou cho junior mới / 新人指導
 
-> **Luận điểm.** Junior mới (intern, fresh hire 1-3 tháng) có 2 vấn đề kinh điển: **(1) Quá rụt rè** → không dám 報告 / 連絡 vì sợ làm phiền sếp, **(2) Quá thoáng** → 質問 mỗi 5 phút trong DM. Mentor phải build **2 cấu trúc cố định**: **(a) Weekly 1-on-1** (30 phút Thứ Sáu, structured agenda), **(b) Slack Office Hour** (1 khung giờ cố định/ngày, vd 14:00-15:00 mentor sẵn sàng). Cộng với **(c) Mentor expectations** rõ ràng từ tuần 1: "Có gì hỏi là tốt, đừng ngại / nhưng critical incident thì @ tôi ngay không cần đợi office hour".
+> **Luận điểm.** Junior mới (intern, fresh hire 1-3 tháng) có 2 vấn đề kinh điển: **(1) Quá rụt rè** → không dám 報告 / 連絡 vì sợ làm phiền sếp, **(2) Quá thoáng** → 質問 mỗi 5 phút trong DM. Mentor phải build **2 cấu trúc cố định**: **(a) Weekly 1-on-1** (30 phút Thứ Sáu, structured agenda), **(b) Slack Giờ tiếp câu hỏi** (1 khung giờ cố định/ngày, vd 14:00-15:00 mentor sẵn sàng). Cộng với **(c) Mentor expectations** rõ ràng từ tuần 1: "Có gì hỏi là tốt, đừng ngại / nhưng sự cố nghiêm trọng thì @ tôi ngay không cần đợi giờ tiếp câu hỏi".
 >
 > 新人指導の3点セット：①Weekly 1-on-1 (金曜30分)②Slack Office Hour (毎日1枠)③期待値 explicit (聞いてOK / 緊急は即連絡)。
 >
@@ -3204,7 +3204,7 @@ Em Linh (intern Marketing) đã onboarding 2 tuần. Anh Dũng nhận trách nhi
 
 # Rule 35 — Hou-Ren-Sou khi work-from-home / リモートワーク時
 
-> **Luận điểm.** Remote work làm "vô hình" status của mỗi member — sếp không nhìn thấy ai đang làm gì. Khắc phục bằng **3 visibility ritual**: **(1) Daily standup async** (Slack 9:30, 1 message DDBN format), **(2) Status icon Slack** (🟢working / 🟡away / 🔴focus / 🟣meeting), **(3) End-of-Day log** (1 dòng EOD review trên Slack #daily-log). Thêm: **camera on trong họp** (mặc định, không "今日はちょっと…"), **respond time SLA** trong giờ làm việc 1 giờ.
+> **Luận điểm.** Remote work làm "vô hình" status của mỗi member — sếp không nhìn thấy ai đang làm gì. Khắc phục bằng **3 thói quen tạo hiện diện**: **(1) Daily standup async** (Slack 9:30, 1 message DDBN format), **(2) Status icon Slack** (🟢working / 🟡away / 🔴focus / 🟣meeting), **(3) End-of-Day log** (1 dòng EOD review trên Slack #daily-log). Thêm: **camera on trong họp** (mặc định, không "今日はちょっと…"), **respond time SLA** trong giờ làm việc 1 giờ.
 >
 > リモート可視化3点：①Slack 9:30 朝会 (DDBN) ②ステータスアイコン更新 ③EOD ログ。会議中はカメラON、Slack返信SLAは1時間以内。
 >
@@ -3214,7 +3214,7 @@ Em Linh (intern Marketing) đã onboarding 2 tuần. Anh Dũng nhận trách nhi
 
 ## Bối cảnh / 場面
 
-Em Linh WFH thứ Tư 22/4 (vì sửa chữa nhà). Lần đầu Linh "im lặng" cả ngày. Lần 2 áp 3 visibility ritual.
+Em Linh WFH thứ Tư 22/4 (vì sửa chữa nhà). Lần đầu Linh "im lặng" cả ngày. Lần 2 áp 3 thói quen tạo hiện diện.
 
 ---
 
@@ -3234,7 +3234,7 @@ Em Linh WFH thứ Tư 22/4 (vì sửa chữa nhà). Lần đầu Linh "im lặng
 
 ---
 
-## ✅ Hội thoại TỐT — 3 visibility ritual + camera on
+## ✅ Hội thoại TỐT — 3 thói quen tạo hiện diện + camera on
 
 *9:30, Slack #team-daily · 11:30, Slackステータス変更 · JP 14:00, Slack DM Linh · 14:15、returns from focus mode · 18:00, Slack #team-daily · Slack reply*
 
@@ -3307,7 +3307,7 @@ Em Linh WFH thứ Tư 22/4 (vì sửa chữa nhà). Lần đầu Linh "im lặng
 
 # Rule 36 — Bridging gap VN-JP HouRenSou / VN-JP オフショア・ギャップ
 
-> **Luận điểm.** VN văn hóa giao tiếp **"less = better"**: không có news = mọi thứ ổn, báo nhiều = phiền sếp. Nhật ngược lại — **"silence = problem"**: không có 報告 = sếp lo "team đang giấu". Đây là cause #1 của xích mích offshore. Adapt: **VN team phải overshoot 報告 freq theo Nhật standard**: daily standup không skip + status update mỗi 4 giờ trong incident + báo cáo 3 lần (start / middle / end) cho task >1 ngày. Cụ thể quy tắc: **"Nhật normal" = "VN +30% reporting"**. Và **chủ động báo "no news"** — 「現在進行中で、ブロッカーなしです」.
+> **Luận điểm.** VN văn hóa giao tiếp **"less = better"**: không có news = mọi thứ ổn, báo nhiều = phiền sếp. Nhật ngược lại — **"silence = problem"**: không có 報告 = sếp lo "team đang giấu". Đây là cause #1 của xích mích offshore. Adapt: **VN team phải vượt mức tần suất 報告 theo chuẩn Nhật**: daily standup không skip + status update mỗi 4 giờ trong incident + báo cáo 3 lần (start / middle / end) cho task >1 ngày. Cụ thể quy tắc: **"Nhật normal" = "VN +30% reporting"**. Và **chủ động báo "no news"** — 「現在進行中で、ブロッカーなしです」.
 >
 > VN『less = better』vs JP『silence = problem』。VN side は報告頻度を JP 基準まで増やす + 『進捗あり/なし問わず定期報告』+『no news 報告』を含める。
 >
@@ -3445,7 +3445,7 @@ Anh Tanaka PMO (Hakuō) gửi Slack DM hỏi 4 việc khác nhau cho Dũng. Dũn
 | **田中PMO** | 「整理ありがとうございます。Slack で全部やられると煩雑だったので助かります。」 |
 | **ズン** | 「**②即答** ETA: rollback 15:30 完了、復旧確認 15:45 見込み。」 |
 | **ズン** | 「件名: 【ご提案】Phase 3 拡張開発のご提案書送付の件 ... [PDF添付6MB]」 |
-| **ズン** | 「**③Notion** 契約書改定案 v3 を Notion で共有しました: <URL> 編集権あり、コメント歓迎です。」 |
+| **ズン** | 「**③Notion** 契約書改定案 v3 を Notion で共有しました: 〈URL〉 編集権あり、コメント歓迎です。」 |
 | **ズン** | 「**④Invite** Phase 3 進捗会議 4/29(水) 14:00-15:00 JST」 |
 
 📝 **Ghi chú:**
@@ -3514,7 +3514,7 @@ Anh Tanaka PMO (Hakuō) gửi Slack DM hỏi 4 việc khác nhau cho Dũng. Dũn
 
 # Rule 38 — Self-diagnostic Hou-Ren-Sou / 自己診断
 
-> **Luận điểm.** Hou-Ren-Sou là **kỹ năng**, không phải nhân cách — phải **đo định kỳ** mới biết tiến hay lùi. Self-diagnostic checklist 15 mục, chia 3 nhóm × 5 item: **(1) 報告 5 mục** (kết luận trước, fact/opinion, kịp thời, deadline, cấu trúc), **(2) 連絡 5 mục** (即時, channel chọn đúng, audience đúng, broadcast vs DM, EOD log), **(3) 相談 5 mục** (準備, 仮説, 複数案, 客先 tone, DR化). Chấm tự A/B/C/D mỗi cuối tháng. C-D dưới 3 = OK; ≥ 3 = trigger 1-on-1 với mentor + action plan.
+> **Luận điểm.** Hou-Ren-Sou là **kỹ năng**, không phải nhân cách — phải **đo định kỳ** mới biết tiến hay lùi. Self-diagnostic checklist 15 mục, chia 3 nhóm × 5 item: **(1) 報告 5 mục** (kết luận trước, fact/opinion, kịp thời, deadline, cấu trúc), **(2) 連絡 5 mục** (即時, channel chọn đúng, audience đúng, broadcast vs DM, EOD log), **(3) 相談 5 mục** (準備, 仮説, 複数案, 客先 tone, DR化). Chấm tự A/B/C/D mỗi cuối tháng. C-D dưới 3 = OK; ≥ 3 = kích hoạt 1-on-1 với mentor + action plan.
 >
 > 自己診断15項目: 報告5・連絡5・相談5。月末A〜D評価、C-D が3以上で mentor 1-on-1。3ヶ月毎に推移をグラフ化。
 >
@@ -3594,7 +3594,7 @@ Cuối tháng 4. Em Dũng tự chấm mình lần đầu. Lần 1 toàn A "tốt
 
 # Rule 39 — Xây dựng team culture Hou-Ren-Sou / チーム文化作り
 
-> **Luận điểm.** Hou-Ren-Sou cá nhân ≠ Hou-Ren-Sou team. Mỗi cá nhân tốt nhưng team không có **chung playbook** thì khách Nhật vẫn cảm nhận "không nhất quán". Team-level cần **5 thành phần playbook**: **(1) Rituals fixed** (daily standup 9:30, weekly retro thứ Sáu, monthly all-hands), **(2) Dashboard URL** (single source for status — Notion / Confluence link), **(3) OKR / KPI Hou-Ren-Sou** (vd: response SLA 95%, no missed Sev1 escalation, DR coverage 100%), **(4) Escalation matrix** (ai escalate ai khi nào), **(5) Onboarding** (rule 34 nhân lên cấp team). Team Lead (Hà CTO + Hương) là culture sponsor.
+> **Luận điểm.** Hou-Ren-Sou cá nhân ≠ Hou-Ren-Sou team. Mỗi cá nhân tốt nhưng team không có **chung playbook** thì khách Nhật vẫn cảm nhận "không nhất quán". Team-level cần **5 thành phần playbook**: **(1) Rituals fixed** (daily standup 9:30, weekly retro thứ Sáu, monthly all-hands), **(2) Dashboard URL** (single source for status — Notion / Confluence link), **(3) OKR / KPI Hou-Ren-Sou** (vd: response SLA 95%, no missed Sev1 escalation, DR coverage 100%), **(4) Escalation matrix** (ai escalate ai khi nào), **(5) Onboarding** (rule 34 nhân lên cấp team). Team Lead (Hà CTO + Hương) là người bảo trợ văn hóa.
 >
 > チーム文化5要素：①Rituals (朝会9:30、週次retro、月次all-hands)②Dashboard URL ③OKR (response SLA 95%、Sev1 escalation 漏れ0、DR coverage 100%)④Escalation matrix ⑤Onboarding playbook。
 >
@@ -3628,7 +3628,7 @@ Cuộc họp leadership ティエンファット tháng 4. Anh Hà CTO + chị H
 | Speaker | Câu |
 |---------|-----|
 | **ハーCTO** | 「ティエンファット Hou-Ren-Sou Playbook v1 を共有します。**5要素構成**【1】です。」 |
-| **ハーCTO** | 「**①Rituals**: 朝会 Slack 9:30 (DDBN format)、週次 retro 金曜 16:00、月次 all-hands 第1月曜 10:00。**②Dashboard**: Notion『チーム Hou-Ren-Sou ダッシュボード』<URL>に response SLA、Sev1 件数、DR 数を可視化【2】。」 |
+| **ハーCTO** | 「**①Rituals**: 朝会 Slack 9:30 (DDBN format)、週次 retro 金曜 16:00、月次 all-hands 第1月曜 10:00。**②Dashboard**: Notion『チーム Hou-Ren-Sou ダッシュボード』〈URL〉に response SLA、Sev1 件数、DR 数を可視化【2】。」 |
 | **ハーCTO** | 「**③OKR Q2-2026**: (a) Slack 客先 response 1h 以内 95% / (b) Sev1 escalation 漏れ 0件 / (c) Decision Register カバレッジ 100% (1相談1行) / (d) 自己診断 C-D ≤ 1 が team 平均【3】。」 |
 | **ハーCTO** | 「**④Escalation Matrix**: 客先 → BD owner → フオン副部長 → ハー CTO / 技術 Sev1 → 検知者 → トゥアン → ハー CTO / 経理 → ロアン経理部長 → フオン。**⑤Onboarding**: 新人入社後30日で Playbook 全項目に exposure、60日で自己診断初回、90日で1人立ち。」 |
 | **フオン** | 「culture sponsor として: 月次 all-hands で『今月の Good ホウレンソウ』『今月の Lesson』を Slack 投票で選び、HR の評価にも反映させましょう【4】。」 |
@@ -4386,7 +4386,7 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 
 
-## Phần V — Voicemail, Online & Best Practice
+## Phần V — Voicemail, Online & Thực hành tốt nhất
 
 ### Rule 37 — Chọn channel: Slack / Notion / Email / Slack / Notion / Email — チャネル選択
 
@@ -4741,7 +4741,7 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 | 適応 | てきおう | Thích nghi | rule_36 |
 
 
-## Phần V — Voicemail, Online & Best Practice
+## Phần V — Voicemail, Online & Thực hành tốt nhất
 
 | 漢字 / Tiếng Nhật | Cách đọc (Romaji) | Nghĩa Việt | Lần đầu xuất hiện |
 |------|------|------|------|
@@ -5408,7 +5408,7 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Giải thích / 解説:**
 - 🇯🇵 Critical 障害は『発見即報告』が原則。原因が分からなくても Fact / Impact / 暫定 Plan を30分以内に第一報する。
-- 🇻🇳 Sự cố critical nguyên tắc 'phát hiện = báo ngay'. Chưa rõ nguyên nhân vẫn phải báo Fact / Impact / Plan tạm trong 30 phút.
+- 🇻🇳 Sự cố nghiêm trọng nguyên tắc 'phát hiện = báo ngay'. Chưa rõ nguyên nhân vẫn phải báo Fact / Impact / Plan tạm trong 30 phút.
 
 ### J2.2 (từ rule_11 — Báo cáo cho khách hàng quan trọng)
 

@@ -18,7 +18,7 @@ Em Dũng có 3 việc cần báo trong cùng 1 ngày. Lần đầu Dũng bê h�
 
 *gửi mail 9h sáng · 15h, sau khi đọc*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「件名：本日のご報告いろいろ」 (nội dung 2000 chữ gồm: bug critical + tiến độ tuần + đề xuất reschedule họp) |
 | **フオン** | 「ズン、**critical bug** が朝9時に発生してたって、私はメール埋もれて15時に気づきましたよ。なぜ電話してくれなかったの？」 |
@@ -33,7 +33,7 @@ Em Dũng có 3 việc cần báo trong cùng 1 ngày. Lần đầu Dũng bê h�
 
 *9:05, phone gọi cá nhân chị Hương · 11:00, gửi mail "週次進捗報告 第3週" · 14:00, gửi mail "【リスケ依頼】明日16時 定例会議について" · 15:00*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン副部長、緊急のご報告です。本番で critical bug が発生しております【1】。詳細は今からメールも送ります。」 |
 | **フオン** | 「了解、すぐ動きます。メール待ちます。」 |

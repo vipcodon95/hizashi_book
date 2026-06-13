@@ -41,7 +41,7 @@ Tham khảo. 2 scenarios — 1 ví dụ né khéo khi khách thử test, 1 ví d
 
 *夜 の 二次会, hơi say · né khéo · không push · chuyển sang sport · grateful for topic shift*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「ズン、ベトナムって中国とどう?最近ニュース見てると…」 |
 | **ズン**【1】 | 「**大垣さん、私、政治はあまり詳しくないので**…**ベトナムも色んな見方あって**、私は普通の市民なので、そこまで…」 |
@@ -57,7 +57,7 @@ Tham khảo. 2 scenarios — 1 ví dụ né khéo khi khách thử test, 1 ví d
 
 *28t junior VN, casual · face freezes 0.5s · gỡ ngay, ngắt vào · realizes · gracious · chuyển sang chủ đề an toàn · curious, mood recovers · reset*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハイ** | 「山本さん、女性で活躍されてて素晴らしいですね。**おいくつくらいでらっしゃるんですか?**」 |
 | **山本** | 「あー、まあ…(cười ngượng)」 |

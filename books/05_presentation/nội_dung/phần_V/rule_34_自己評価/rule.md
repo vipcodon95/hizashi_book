@@ -18,7 +18,7 @@ Pitch Phase 3 chiều thứ Năm xong. Tối thứ Năm, Dũng đã gửi acknow
 
 *Slack 8:00 thứ Sáu*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン副部長、月曜の詳細メール書きます。Self-review は時間取れないので skip して大丈夫ですか？」 |
 | **フオン** | 「ダメ。Self-review skip すると **次の pitch も同じ間違い** する。30分でいい、12項目 rubric で chấm。」 |
@@ -33,7 +33,7 @@ Pitch Phase 3 chiều thứ Năm xong. Tối thứ Năm, Dũng đã gửi acknow
 
 *Slack 8:30, sau 30 phút review*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「Self-review 完了です【1】。**12項目平均 3.8/5**。詳細はテンプレ添付。」 |
 | **ズン** | 「**3 strengths**: ①LASR 適用 (Q&A の難問対応)、②Plan B 切替 (ネット障害 30秒復旧)、③CTA 3点明示。**3 improvements**: ①hook が weak (data 提示遅い)、②大垣様の価格 challenge で bridge phrase 1秒遅れた、③closing recap に時間配分 -2分【2】。」 |

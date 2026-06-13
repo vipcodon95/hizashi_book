@@ -18,7 +18,7 @@ Trong discovery (rule 12 step Budget), Dũng cần probe budget ceiling của Ha
 
 *微妙な間*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「ところで、Phase 3 の予算はいくらですか？」 |
 | **大垣** | 「えっと、それは…まだ確定していなくて…」 |
@@ -31,7 +31,7 @@ Trong discovery (rule 12 step Budget), Dũng cần probe budget ceiling của Ha
 
 ## ✅ Hội thoại TỐT — frame + comparable approach
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「**予算感につきまして** — 御社の新年度 IT 投資 framework の中で、Phase 3 はどの程度の **位置付け**でしょうか【1】？」 |
 | **中村CFO** | 「Phase 3 は重要案件として中位以上に位置付けています。」 |

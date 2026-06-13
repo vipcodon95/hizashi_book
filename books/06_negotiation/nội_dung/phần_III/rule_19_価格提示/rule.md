@@ -16,7 +16,7 @@ Sau anchor (rule 18), khách push back. Dũng cần phrase chuẩn cho counter o
 
 ## ❌ Hội thoại XẤU — quote trần ngắn
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「¥18M は厳しい。¥15M でいかがですか？」 |
 | **ズン** | 「えーと、¥17M で。」 |
@@ -30,7 +30,7 @@ Sau anchor (rule 18), khách push back. Dũng cần phrase chuẩn cho counter o
 
 *沈黙3秒*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「¥18M は厳しい。¥15M でいかがですか？」 |
 | **ズン** | 「ご指摘の点、もっともでございます【1】。**フレーム**: 御社のコスト圧縮方針を踏まえ、構成を見直して再提案いたします。**金額**: **¥17.5M**。**根拠**: AI レコメンドエンジン coreは維持、但し dashboard カスタム部分を Phase 2 のテンプレート流用 (-工数 8%)【2】。**条件として**: 契約期間を 2 年契約へ延長していただければ、この価格でご提供可能です【3】。」 |

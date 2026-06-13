@@ -25,7 +25,7 @@ Tháng 5/2026, dinner Phase 4 với Ōgaki + Matsumoto + Tanaka. Đến cuối �
 
 *23:30, tăng 2, đã 5 ly · thực ra đã 4 ly, ngày mai 9h họp · không ép*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「ズン、もう一杯山崎いくか?」 |
 | **ズン** | 「**大垣さん、ありがとうございます**。**もう十分いただきました**【1】、ハイボール残っているのでこれで。」 |
@@ -42,7 +42,7 @@ Tháng 5/2026, dinner Phase 4 với Ōgaki + Matsumoto + Tanaka. Đến cuối �
 
 *rủ nhẹ · 店員に, polite · 15 phút sau, water + 1 nibble · if want resume, light option · không hỏi why*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本** | 「ズン、まだ飲める?」 |
 | **ズン** | 「**水でちょっと一旦休ませてください**。後でまた。」 |
@@ -59,7 +59,7 @@ Tháng 5/2026, dinner Phase 4 với Ōgaki + Matsumoto + Tanaka. Đến cuối �
 
 *00:15, Tanaka 35t đã 7 ly + sake — bắt đầu lè nhè · say, lurching · cuts in QUICKLY before topic xấu · stops, blinks · 店員に · notices, also intervene · to Ōgaki*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中** | 「ズン!ベトナムの女の子はみんな…」 |
 | **ズン**【1】 | 「田中さん、**お水召し上がります?顔色がちょっと…**」 |
@@ -79,7 +79,7 @@ Tháng 5/2026, dinner Phase 4 với Ōgaki + Matsumoto + Tanaka. Đến cuối �
 
 *8:50 sáng hôm sau, sảnh 白鷗 Tokyo, Dũng + Tuấn check-in · hơi mệt nhưng sharp, áo sạch, cà phê đen ở tay · walks up, hơi mệt hơn Dũng · impressed*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「(到着)」 |
 | **大垣** | 「ズン、おはよう。早いな。」 |

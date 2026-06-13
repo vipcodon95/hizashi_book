@@ -18,7 +18,7 @@ Phase 4 scoping với 1 client mới (Hà Nội office, JP exec không tiếng A
 
 *早口、 1 文 80 字 · panic、 30 字までしかメモ取れず · 訂正 · VN client へ · 困*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「弊社の Phase 4 提案は、AI レコメンドエンジンに加えて customer churn prediction モデルも統合し、 indemnity は年契約額上限 ¥20M 想定、SLA は 99.95% で、 BATNA も別途用意しております。」 |
 | **リン** | 「えっと…AI engine と churn prediction、 indemnity ¥20M、SLA…99.5%? ですか?」 |
@@ -34,7 +34,7 @@ Phase 4 scoping với 1 client mới (Hà Nội office, JP exec không tiếng A
 
 *Linh と 1-on-1 · VN client 直視、 1 文 20 字以内、 文末 2 秒 pause · VN client へ · VN client 凝視、 Linh は ear-shot 距離 · 明瞭発音 · Linh に*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | (商談 30 分前 pre-brief) **ズン** | 「Linh、本日の key terms 7 個 reviews【1】: indemnity =損害賠償, BATNA =交渉決裂代替案, ZOPA =合意可能領域, SLA = サービス水準合意。**99.95% は『きゅうきゅう・きゅうご パーセント』と区切って発音**【2】、99.5% との混同避ける。」 |
 | **リン** | 「ありがとうございます。99.95% pronunciation 練習しました。」 |

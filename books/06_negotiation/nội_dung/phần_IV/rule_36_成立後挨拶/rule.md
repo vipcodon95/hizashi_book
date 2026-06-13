@@ -16,7 +16,7 @@ DocuSign 完了通知 16:30。Dũng vui vẻ. Cần gửi thank-you mail cho 大
 
 ## ❌ Hội thoại XẤU — hype + casual
 
-| | Speaker | Câu (mail) |
+| | Vai | Câu (mail) |
 |--|---------|-----|
 | **L1** | (件名:「ありがとうございます！！」) **ズン** | 「大垣様!! 契約書ご捺印ありがとうございます！！本当に嬉しいです！！」 |
 | **L2** | **ズン** | 「これからも何卒よろしくお願いします！期待を超えるようがんばります！！」 |
@@ -29,7 +29,7 @@ DocuSign 完了通知 16:30。Dũng vui vẻ. Cần gửi thank-you mail cho 大
 
 ## ✅ Hội thoại TỐT — conservative + commit tone
 
-| | Speaker | Câu (mail) |
+| | Vai | Câu (mail) |
 |--|---------|-----|
 | **L1** | (件名:「ご捺印御礼 — Phase 3 業務委託契約 締結のお礼」) **ズン** | 「大垣様、いつもお世話になっております。」 |
 | **L2** | **ズン** *(本文)* | 「この度は Phase 3 業務委託契約のご捺印を頂戴し、誠にありがとうございました【1】。長期にわたる discussion を経て、両社合意に至りましたこと、心より御礼申し上げます。」 |

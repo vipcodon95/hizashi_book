@@ -16,7 +16,7 @@ Phòng riêng nhà hàng Nhật Q1, dinner bắt đầu 18:30. Bên host: Hà CT
 
 ## ❌ Hội thoại XẤU — host bắt khách order + khách tự rót
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | （menuを大垣さんに渡す）「何にされますか？」 |
 | **大垣営業部長** | 「あ、では…どれが…」 |
@@ -30,7 +30,7 @@ Phòng riêng nhà hàng Nhật Q1, dinner bắt đầu 18:30. Bên host: Hà CT
 
 ## ✅ Hội thoại TỐT — host order trước + host rót + host trả
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハーCTO** | 「本日はお越しいただき、誠にありがとうございます。」 |
 | **ズン** | 「コースは事前にお決めいただきました。お飲み物は日本酒・ワイン・ノンアルご用意しております。」【1】 |

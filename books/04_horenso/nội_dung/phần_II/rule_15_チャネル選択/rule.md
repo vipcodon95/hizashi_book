@@ -16,7 +16,7 @@ Em Linh (junior, vừa onboard) lần đầu cần chọn channel cho 4 tình hu
 
 ## ❌ Hội thoại XẤU — Linh chọn channel sai 4/4
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | 「ズンさん、4つ連絡があります：(1) 緊急バグ → メール、(2) 5月の休暇申請 → 電話、(3) 仕様書 v3 → Slack DM、(4) ハイ先輩への質問 → @channel に投稿。」 |
 | **ズン** | 「リンちゃん、**4つとも channel が逆**…落ち着いて。**緊急度** と **受信者数** で決まる。」 |
@@ -29,7 +29,7 @@ Em Linh (junior, vừa onboard) lần đầu cần chọn channel cho 4 tình hu
 
 ## ✅ Hội thoại TỐT — decision matrix
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「リンちゃん、**マトリクス** を覚えて【1】。」 |
 | **ズン** | 「**緊急 × 1人** → 電話。**緊急 × チーム** → Slack @here または @channel。**通常 × 1人** → メールまたは Slack DM。**通常 × チーム** → Slack #channel または定例。**長期参照 × 全員** → Notion/Confluence【2】。」 |

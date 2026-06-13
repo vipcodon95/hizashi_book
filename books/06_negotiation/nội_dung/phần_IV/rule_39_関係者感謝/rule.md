@@ -18,7 +18,7 @@ Phase 3 ký + PR release thứ Năm. Chiều thứ Sáu Dũng có 1 giờ — se
 
 *冷*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | (金曜 16:00 Slack #general) **ズン** | 「Phase 3 締結! 大垣様 + ハー CTO に感謝! みなさんお疲れ様でした!」 |
 | (Linh、Loan などはこれだけ) | … |
@@ -34,7 +34,7 @@ Phase 3 ký + PR release thứ Năm. Chiều thứ Sáu Dũng có 1 giờ — se
 
 *白鷗 大垣にメール、CC: Tanaka PMO + Nakamura CFO · 社内 Slack DM Linh · 社内 Slack DM Loan*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | (金曜 16:00 Hương に相談) **ズン** | 「フオン副部長、Phase 3 関係者感謝メールを書きます。Senior 6 名、 junior 4 名分で個別 specific にします【1】。レビューお願いします。」 |
 | **ズン** | 「大垣様、Tanaka 様、Nakamura 様 — Phase 3 締結に至りましたこと、皆様のお力添えあってこそでございます。**Tanaka 様には毎週の細やかな進捗確認**、**Nakamura 様には financial review でのご厳格なご指摘**【2】、改めて感謝申し上げます。」 |

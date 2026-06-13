@@ -44,7 +44,7 @@ Mỗi chương theo **6 fixed sections** (đảm bảo consistency):
 
 ## Cast nhân vật (xuyên suốt 12 chương)
 
-| Nhân vật | Vai | Xuất hiện |
+| Vai | Vai | Xuất hiện |
 |---|---|---|
 | **Hoa (ホア)** | TTS VN, 22 tuổi, nhân vật chính | Tất cả chương |
 | **田中部長 (Tanaka-buchou)** | Trưởng phòng SX, ~50, nghiêm-công bằng | T1, T5, T6, T8, T10, T12 |

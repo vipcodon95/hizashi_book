@@ -18,7 +18,7 @@ Ngày trước pitch, Hải DevOps tình cờ ngang qua phòng họp lúc Dũng 
 
 *覗いて*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハイ** | 「ズン、明日プレゼン？スライドどこ？」 |
 | **ズン** | 「Dropboxです。明日 Wi-Fi 借りて開きます。」 |
@@ -32,7 +32,7 @@ Ngày trước pitch, Hải DevOps tình cờ ngang qua phòng họp lúc Dũng 
 
 ## ✅ Hội thoại TỐT — 5-point backup checklist
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「ハイさん、ありがとう。**Plan Bチェックリスト**【1】で揃えました。①PDF版 USB+ローカル、②オフラインデモ準備、③テザリング有効、④HDMI+USB-C+VGAアダプタ持参、⑤印刷5部。」 |
 | **ハイ** | 「いいね。USB は2本？1本紛失リスク。」 |

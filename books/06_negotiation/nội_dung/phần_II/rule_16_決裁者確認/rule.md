@@ -18,7 +18,7 @@ Trong discovery Decision step (rule 12), Dũng đã hỏi sơ "ai duyệt". Bây
 
 *微妙な顔*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「決裁は大垣部長様ですよね？」 |
 | **大垣** | 「私は予算 ¥10M までです。¥18M なら中村 CFO 決裁です。」 |
@@ -31,7 +31,7 @@ Trong discovery Decision step (rule 12), Dũng đã hỏi sơ "ai duyệt". Bây
 
 ## ✅ Hội thoại TỐT — confirm đầy đủ + remaining steps
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「**最終決裁につきまして** — 本件は ¥18M 帯ですので、中村 CFO 様のご決裁、加えて取締役会付議という理解でよろしいでしょうか【1】？」 |
 | **中村CFO** | 「はい、私の決裁 + 取締役会報告です。¥20M 超えると取締役会承認が必要になります。」 |

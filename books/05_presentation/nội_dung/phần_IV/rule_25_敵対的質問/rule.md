@@ -18,7 +18,7 @@ Q&A Phase 3. Anh Ōgaki challenge mạnh giá: "Phase 2 đã 800万、giờ Phas
 
 *defensive · 更に強く*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「Phase 3 で1200万？Phase 2 が800万だったのに 50%増？ベトナム会社で東京開発の値段ですか？」 |
 | **ズン** | 「いや、高くないと思います。市場価格と比較して妥当です。」 |
@@ -33,7 +33,7 @@ Q&A Phase 3. Anh Ōgaki challenge mạnh giá: "Phase 2 đã 800万、giờ Phas
 
 *neutral tone · tone giảm*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「Phase 3 で1200万？Phase 2 が800万だったのに 50%増？ベトナム会社で東京開発の値段ですか？」 |
 | **ズン** | 「**ご指摘の点、もっともでございます**【1】。**ご懸念は『価格上昇 50% の妥当性』** と理解しました。」 — Bridge + Reframe |

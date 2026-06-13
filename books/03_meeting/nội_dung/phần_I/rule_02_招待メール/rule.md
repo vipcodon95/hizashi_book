@@ -19,7 +19,7 @@ Sau khi chị Hương review xong agenda (rule 01), em Dũng được giao gửi
 
 *gửi mail tối hôm trước, subject:「会議について」 · reply sáng hôm sau · 慌てて*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「松本様、来週月曜15時から会議します。Zoomリンク添付。よろしくお願いします。」 |
 | **松本** | 「ズンさん、何の会議でしょうか？大垣も同席必要ですか？資料は？」 |
@@ -34,7 +34,7 @@ Sau khi chị Hương review xong agenda (rule 01), em Dũng được giao gửi
 
 *gửi mail subject:「【会議招待】4月度月例会議（4/28 15:00-16:00 JST）」 · body · closing · reply 翌朝*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「松本様、お世話になっております。ティエンファットのズンでございます。下記のとおり4月度月例会議を開催いたしたく、ご案内申し上げます【1】。」 |
 | **ズン** | 「目的はPhase 2 進捗共有と5月スコープ合意の2点でございます。アジェンダを添付いたしましたので、ご確認のほどお願い申し上げます。」 |

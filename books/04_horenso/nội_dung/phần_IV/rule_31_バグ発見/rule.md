@@ -18,7 +18,7 @@ Thứ Ba 22/4 14:30. Em Hải (DevOps) phát hiện production API trả 500 err
 
 *14:30 · 14:50, 20分後 · 15:30, 1時間後、Slack*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハイ** | (1人で) 「あれ、エラー多いな…とりあえずログ見てみよう…」 |
 |  | 「うーん、原因分からない…とりあえずもう少し調べよう…」 |
@@ -33,7 +33,7 @@ Thứ Ba 22/4 14:30. Em Hải (DevOps) phát hiện production API trả 500 err
 
 *14:30, Slack #incident · 14:35 · 14:45 · 15:00, Slack 客先 + Email · 15:05 · 15:25, Slack #incident · 15:30, メール*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハイ** | 「🚨 **【Incident #INC-2026-0422-01】** 検知時刻: 14:30 / 影響: production API、500 error率約30% / 推定影響ユーザー: 200名 / 検知者: ハイ / 現在: ログ確認中。**@tuan_leader 確認お願いします**【1】。」 |
 | **トゥアン** | 「確認、severity Sev1 (critical)。**@ha_cto エスカレーション**します。ハイは継続調査、ズン待機して顧客通知準備【2】。」 |

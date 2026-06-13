@@ -20,7 +20,7 @@ Sáng ngày D, Dũng + Tuấn đi từ hotel Shinjuku đến trụ sở 白鷗 (
 
 *9:30, đến lobby 30 phút sớm · báo Tanaka · qua điện thoại Slack, đang trong meeting khác*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアン** | 「ズン、もう着いた。」 |
 | **ズン** | 「30分も前？まずいよ、田中PMOまだ会議中の可能性。」 |
@@ -31,7 +31,7 @@ Sáng ngày D, Dũng + Tuấn đi từ hotel Shinjuku đến trụ sở 白鷗 (
 
 *10:00 đúng, vào lobby · 10:08, sau khi đợi 8 phút trên tầng 8*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアン + ズン** | *(check-in lễ tân, được bảo "tầng 8 phòng 805")* |
 | **田中PMO** | 「あ、いらっしゃいました。お待ちしておりました。」*(thoáng cười nhẹ — nhưng đã đợi 8 phút)* |
@@ -44,7 +44,7 @@ Sáng ngày D, Dũng + Tuấn đi từ hotel Shinjuku đến trụ sở 白鷗 (
 
 *9:30, hotel lobby · 9:53, đến trước cửa 白鷗 ビル · 9:54, vào lobby · check sổ, ký pass · 9:58, bước ra thang máy đúng lúc*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「**白鷗本社到着目標 9:55**【1】。新宿駅まで5分、駅から徒歩7分、+buffer3分 = 9:50 出発で OK。」 |
 | **トゥアン** | 「了解。早すぎたら駅近のカフェで時間調整しよう。」 |

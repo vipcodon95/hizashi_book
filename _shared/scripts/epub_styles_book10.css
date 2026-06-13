@@ -1,0 +1,61 @@
+/* CSS cho EPUB Sách 10 Business Japanese — bảng NHIỀU cột (auto layout) */
+
+/* Heading */
+h1 { font-size: 1.6em; margin: 1em 0 0.6em; line-height: 1.25; page-break-before: always; }
+h2 { font-size: 1.3em; margin: 1.2em 0 0.5em; line-height: 1.3; }
+h3 { font-size: 1.15em; margin: 1em 0 0.4em; line-height: 1.35; }
+h4 { font-size: 1.05em; margin: 0.9em 0 0.35em; font-weight: bold; }
+h5 { font-size: 0.98em; margin: 0.7em 0 0.25em; font-weight: bold; }
+h6 { font-size: 0.95em; margin: 0.6em 0 0.2em; font-weight: bold; color: #333; }
+
+/* Bảng: cột TỰ co giãn theo nội dung (KHÔNG ép width cứng như bản dialogue) */
+table {
+  width: 100%;
+  table-layout: auto;
+  border-collapse: collapse;
+  margin: 0.6em 0 1em;
+  font-size: 0.9em;
+}
+thead th {
+  text-align: left;
+  border-bottom: 1px solid #999;
+  padding: 0.3em 0.5em;
+  font-weight: bold;
+  vertical-align: top;
+}
+tbody td {
+  border-bottom: 1px solid #ddd;
+  padding: 0.35em 0.5em;
+  vertical-align: top;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+/* Cột đầu (thuật ngữ/viết tắt) in đậm, không ngắt giữa từ */
+tbody td:first-child, thead th:first-child {
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+/* Ruby furigana */
+ruby { ruby-align: center; }
+rt { font-size: 0.55em; }
+
+/* Blockquote — dùng cho passage đọc hiểu, tình huống, lưu ý */
+blockquote {
+  margin: 0.8em 0;
+  padding: 0.5em 1em;
+  border-left: 3px solid #888;
+  background: #f7f7f7;
+  font-size: 0.95em;
+}
+blockquote p { margin: 0.3em 0; }
+
+/* Danh sách lựa chọn A/B/C/D */
+ul { margin: 0.4em 0 0.8em; padding-left: 1.4em; }
+li { margin: 0.2em 0; }
+
+hr { border: none; border-top: 1px solid #ccc; margin: 1.2em 0; }
+
+em { font-style: italic; color: #444; }
+
+body { font-family: serif; line-height: 1.6; }

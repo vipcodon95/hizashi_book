@@ -18,7 +18,7 @@ Cuộc họp client xong, Dũng đã hứa anh Matsumoto: "**Phase 2 lock cost t
 
 *thứ Hai 19h, sau họp với Matsumoto · Thứ Tư 14h, Slack từ Matsumoto · panic*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | (Trong đầu) 「水曜までに lock cost 回答…まあ、覚えとくか…」 |
 |  | 「ズンさん、本日 EOD まで lock cost のご回答お待ちしております。」 |
@@ -31,7 +31,7 @@ Cuộc họp client xong, Dũng đã hứa anh Matsumoto: "**Phase 2 lock cost t
 
 ## ✅ Hội thoại TỐT — 5-step internal flow
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **L1** | **ズン** *(Thứ Hai 19h, sau họp Matsumoto)* | *(Notion #持ち帰りボード に新規チケット)*  
   「**TICKET-MOCH-2026-0421**: Phase 2 lock cost 回答 / **顧客約束**: 4/24 (水) EOD / **社内期限**: 4/23 (火) EOD【1】 / **owner**: ズン / **必要参加者**: ハーCTO + フオン副部長 + トゥアン / **判断材料**: 3社見積 + 過去Phase1実績 / **ステータス**: open」 |

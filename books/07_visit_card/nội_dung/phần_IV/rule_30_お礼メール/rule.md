@@ -16,7 +16,7 @@ Sáng sau dinner Q1 lúc 8:30. Dũng cần gửi thank-you mail tới Ōgaki, Ma
 
 ## ❌ Hội thoại XẤU — gửi sau 3 ngày + quá ngắn + dùng BCC chung
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハーCTO** | 「ズン、昨日のお礼メールは送った？」 |
 | **ズン** | 「あ、まだです。今週中に書こうかと…」 |
@@ -29,7 +29,7 @@ Sáng sau dinner Q1 lúc 8:30. Dũng cần gửi thank-you mail tới Ōgaki, Ma
 
 ## ✅ Hội thoại TỐT — gửi sáng hôm sau + To riêng + đề cập cụ thể
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハーCTO** | 「ズン、昨日のお礼メール、ドラフト見せて。」 |
 | **ズン** | 「翌朝8時送信予定【1】。To = 中村CFO様 / 大垣様 / 松本様 / 田中様 個別4通、CC = ハーCTO+フオン副部長【2】。各メールに昨夜の和牛のご感想・松本様の登山のお話を1-2行引用しております【3】。」 |

@@ -18,7 +18,7 @@
 
 *chìa danh thiếp 2 tay · nhận bằng 1 tay phải, không đọc, nhét túi áo · thoáng dừng nửa giây, gật nhẹ · thì thầm sau lưng Linh*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「白鷗株式会社、営業部長の大垣でございます。よろしくお願いいたします。」 |
 | **リン** | 「あ、はい、リンです、よろしくお願いします。」 |
@@ -33,7 +33,7 @@
 
 *chìa danh thiếp 2 tay, mặt JP hướng về Linh · 2 tay đỡ góc dưới【1】, mắt nhìn danh thiếp · gật, mỉm · giữ danh thiếp ngang ngực, không cất ngay, đợi vào phòng họp*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「白鷗株式会社、営業部長の大垣でございます。よろしくお願いいたします。」 |
 | **リン** | 「**頂戴いたします**【2】。ティエンファットのリンと申します。**大垣 営業部長、よろしくお願いいたします**【3】。」 |

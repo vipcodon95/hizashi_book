@@ -18,7 +18,7 @@
 
 *đến cửa, mở thẳng · đẩy cửa vào ngay, không bow · theo sau, không gõ, im lặng vào · quay lưng lại, đóng cửa rầm · thoáng thái độ, im lặng nhận xét*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中PMO** | 「どうぞ。」 |
 | **トゥアン** | 「Hi、皆さん〜」 |
@@ -34,7 +34,7 @@
 
 *đến cửa · gõ 2 lần nhẹ, đợi 2 giây · từ trong · mở cửa, đứng tại ngưỡng, bow 15° · theo sau, bow 15°, vào trong · đóng cửa: xoay 1/4 chứ KHÔNG quay lưng, tay sau lưng đẩy nhẹ cửa · bước đến gần bàn, bow 30°*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中PMO** | 「どうぞ、お入りください。」 |
 | **ズン**【1】 | *(コン コン)* |

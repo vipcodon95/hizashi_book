@@ -18,7 +18,7 @@ Pitch Phase 3 starts trong 5 phút. 田中 PMO Slack 田中 → ズン: "上司�
 
 *Slack 9:55 · quyết liền · pitch tiến hành, Dũng REC mà không announce · sau pitch, 大垣 nói câu nội bộ về vendor evaluation cho 田中 · send MP4 200MB qua Gmail cá nhân*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中** | 「ズンさん、本日のプレゼン録画して山田部長にシェアしたいのですが…」 |
 | **ズン** | 「了解です、Zoom で record すれば OK ですよね。後で MP4 メールで送ります。」 |
@@ -33,7 +33,7 @@ Pitch Phase 3 starts trong 5 phút. 田中 PMO Slack 田中 → ズン: "上司�
 
 *Slack 9:55 · Slack reply · pitch 開始, slide 1 で全員へ · pitch 終了後, Slack 田中 へ*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中** | 「ズンさん、本日のプレゼン録画して山田部長にシェアしたいのですが…」 |
 | **ズン** | 「承知いたしました。本番開始前に **全participant の許可** を取らせていただきます。**編集後 Drive 限定共有 (30日 expire)** で対応可能です。**生 MP4 メールはセキュリティ上不可** ですが、ご理解いただけますでしょうか【1】？」 |

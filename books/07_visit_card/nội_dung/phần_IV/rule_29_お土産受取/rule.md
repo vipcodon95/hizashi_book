@@ -16,7 +16,7 @@ Sáng hôm sau, PM Matsumoto bên 白鷗 sang văn phòng HCMC mang theo yokan T
 
 ## ❌ Hội thoại XẤU — mở ngay + hỏi giá + bình luận chất lượng
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本PM** | 「東京からのお土産です。よろしければ皆様で。」 |
 | **リン** | 「わ、虎屋ですか！」（その場で包みを開ける）「これって有名ですよね？値段は…？」 |
@@ -29,7 +29,7 @@ Sáng hôm sau, PM Matsumoto bên 白鷗 sang văn phòng HCMC mang theo yokan T
 
 ## ✅ Hội thoại TỐT — nhận 2 tay + 'tôi xin nhận' + mở sau
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **松本PM** | 「東京からのお土産です。皆様で召し上がっていただければ。」 |
 | **フオン副部長** | （両手で受け取り、お辞儀30°）「頂戴いたします。お心遣いありがとうございます。」【1】 |

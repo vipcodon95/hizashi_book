@@ -29,7 +29,7 @@ Sau dẫn vào phòng họp tầng 3 (rule 09), Dũng phải mời 3 khách 大�
 
 *vào phòng, chỉ tay · do dự, không biết chỗ nào · thấy thế ngồi luôn ghế kamiza giữa · buộc phải ngồi 下座 ghế gần cửa*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「えっと、お好きなところにどうぞ。」 |
 | **大垣 + 中村 + 松本** | *(im lặng nhìn quanh)* |
@@ -44,7 +44,7 @@ Sau dẫn vào phòng họp tầng 3 (rule 09), Dũng phải mời 3 khách 大�
 
 *vào phòng, chỉ tay 90° về phía dãy 上座 xa cửa · ngồi trung tâm 上座 · ngồi 上座 hai bên · ngồi 下座, Hương ở giữa đối diện Nakamura, Dũng-Linh hai bên*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「**こちらへお掛けください**【1】。**中村CFOは中央に**【2】、**大垣部長は中村CFOから見て右に、松本PMは左に**お願いいたします。」 |
 | **大垣** | 「ありがとうございます。」 |

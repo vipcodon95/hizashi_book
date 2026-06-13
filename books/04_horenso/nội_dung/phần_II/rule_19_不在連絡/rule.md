@@ -18,7 +18,7 @@ Em Dũng cần xin nghỉ thứ Sáu để dự đám cưới em họ. Lần đ�
 
 *thứ 5 21h, Slack DM chị Hương · thứ 5 22h*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「フオン副部長、明日の金曜、休みたいです。」 |
 | **フオン** | 「えっ、12時間前？明日松本様との会議があるよ。誰が代わる？」 |
@@ -33,7 +33,7 @@ Em Dũng cần xin nghỉ thứ Sáu để dự đám cưới em họ. Lần đ�
 
 *thứ 6 tuần trước, mail chị Hương + cc team · 4/25 thứ 5 17h, Slack #phase2*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「件名：【休暇申請】4/26(金) 終日不在のご連絡」(body — see template) |
 | **フオン** | 「OK、休暇承認します。」 |
