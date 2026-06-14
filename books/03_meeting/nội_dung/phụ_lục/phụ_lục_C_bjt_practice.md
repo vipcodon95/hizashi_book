@@ -1,8 +1,8 @@
-# Phụ lục C — BJT Practice Tổng Hợp / BJT練習問題集
+# Phụ lục C — Tổng Hợp Luyện Thi BJT / BJT練習問題集
 
-*Tổng hợp tất cả BJT practice questions từ 60 rules, sắp xếp theo level và skill.*
+*Tổng hợp tất cả câu hỏi luyện thi BJT từ 60 rules, sắp xếp theo cấp độ và kỹ năng.*
 
-*Dùng để luyện thi BJT business Japanese — câu hỏi có audio prompt được link đến rule gốc.*
+*Dùng để luyện thi BJT tiếng Nhật thương mại — câu hỏi có âm thanh dẫn liên kết đến rule gốc.*
 
 ---
 
@@ -23,13 +23,13 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 4ステップ全てを踏むのが標準。特に確認ステップを省くと無駄なロスが生じる。
-- 🇻🇳 4 bước đầy đủ là chuẩn. Bỏ confirm step gây mất thời gian.
+- 4ステップ全てを踏むのが標準。特に確認ステップを省くと無駄なロスが生じる。
+- 4 bước đầy đủ là chuẩn. Bỏ bước xác nhận gây mất thời gian.
 
 
 ## Level J3 (32 câu)
 
-### J3.1 (từ rule_01 — Lập agenda chuẩn 5W1H)
+### J3.1 (từ rule_01 — Lập chương trình họp chuẩn 5W1H)
 
 **Skill:** 場面把握
 
@@ -43,8 +43,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 アジェンダの5要素は『目的・議題・出席者・時間・アウトプット』。趣味は不要。
-- 🇻🇳 5 yếu tố agenda: mục đích / nội dung / người tham dự / thời gian / output. Sở thích cá nhân không cần.
+- アジェンダの5要素は『目的・議題・出席者・時間・アウトプット』。趣味は不要。
+- 5 yếu tố chương trình họp: mục đích / nội dung / người tham dự / thời gian / kết quả mong đợi. Sở thích cá nhân không cần.
 
 ### J3.2 (từ rule_02 — Gửi thông báo họp đúng cách)
 
@@ -60,8 +60,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 「ご返信いただけますと幸いです」が依頼を丁寧に伝える定型句。他は命令調・カジュアルすぎ。
-- 🇻🇳 「ご返信いただけますと幸いです」 là cụm lịch sự chuẩn để xin reply. Các option khác hoặc mệnh lệnh, hoặc casual quá.
+- 「ご返信いただけますと幸いです」が依頼を丁寧に伝える定型句。他は命令調・カジュアルすぎ。
+- 「ご返信いただけますと幸いです」 là cụm lịch sự chuẩn để xin reply. Các option khác hoặc mệnh lệnh, hoặc casual quá.
 
 ### J3.3 (từ rule_03 — Đặt phòng + Chuẩn bị hậu cần)
 
@@ -77,8 +77,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 設備チェックリストは会議運営に必要な物品のみ。出席者の嗜好は別件。
-- 🇻🇳 Checklist chuẩn bị chỉ liên quan thiết bị họp. Sở thích cá nhân không thuộc checklist.
+- 設備チェックリストは会議運営に必要な物品のみ。出席者の嗜好は別件。
+- Danh sách kiểm tra chuẩn bị chỉ liên quan thiết bị họp. Sở thích cá nhân không thuộc danh sách này.
 
 ### J3.4 (từ rule_04 — Cài đặt video call (Zoom/Teams))
 
@@ -94,8 +94,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 リンク・音声・画面共有・背景・録画の5点が事前確認の必須項目。
-- 🇻🇳 Link / audio / share screen / background / recording — 5 điểm phải check trước.
+- リンク・音声・画面共有・背景・録画の5点が事前確認の必須項目。
+- Đường dẫn / âm thanh / chia sẻ màn hình / phông nền / ghi hình — 5 điểm phải kiểm tra trước.
 
 ### J3.5 (từ rule_05 — Phát tài liệu trước 24h)
 
@@ -111,8 +111,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 バージョン番号と差分明示が業務メールの基本。
-- 🇻🇳 Có version + highlight diff là chuẩn business mail.
+- バージョン番号と差分明示が業務メールの基本。
+- Có số phiên bản + tô màu phần thay đổi là chuẩn mail nghiệp vụ.
 
 ### J3.6 (từ rule_06 — Tới sớm 5 phút (オン・タイム文化))
 
@@ -128,8 +128,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 5分前が日本式の『定時』。30分前は迷惑、定刻は実質遅刻。
-- 🇻🇳 5 phút trước là 'đúng giờ' theo Nhật. 30 phút quá sớm gây phiền, đúng giờ thì thành trễ.
+- 5分前が日本式の『定時』。30分前は迷惑、定刻は実質遅刻。
+- 5 phút trước là 'đúng giờ' theo Nhật. 30 phút quá sớm gây phiền, đúng giờ thì thành trễ.
 
 ### J3.7 (từ rule_09 — Câu chào mở đầu chuẩn)
 
@@ -145,8 +145,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 感謝を述べる定型句が冒頭の正解。他は唐突または失礼。
-- 🇻🇳 Câu cảm ơn là chuẩn mở. Các option còn lại hoặc quá khô hoặc thất lễ.
+- 感謝を述べる定型句が冒頭の正解。他は唐突または失礼。
+- Câu cảm ơn là chuẩn mở. Các option còn lại hoặc quá khô hoặc thất lễ.
 
 ### J3.8 (từ rule_10 — Tự giới thiệu khi có người mới)
 
@@ -162,8 +162,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 業務上必要なのは『会社・部署・名前・役割』の4要素のみ。
-- 🇻🇳 Business chỉ cần 4 element: công ty / phòng / tên / vai trò.
+- 業務上必要なのは『会社・部署・名前・役割』の4要素のみ。
+- Business chỉ cần 4 element: công ty / phòng / tên / vai trò.
 
 ### J3.9 (từ rule_11 — Trao danh thiếp đúng cách)
 
@@ -179,10 +179,10 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 氏名復唱と席順配置が標準。財布へ即収納や書き込み・折り曲げは礼儀違反。
-- 🇻🇳 Đọc lại tên + xếp lên bàn là chuẩn. Cất ngay vào ví hoặc gập / viết lên là thất lễ.
+- 氏名復唱と席順配置が標準。財布へ即収納や書き込み・折り曲げは礼儀違反。
+- Đọc lại tên + xếp lên bàn là chuẩn. Cất ngay vào ví hoặc gập / viết lên là thất lễ.
 
-### J3.10 (từ rule_13 — Giới thiệu agenda + thời lượng)
+### J3.10 (từ rule_13 — Giới thiệu chương trình họp + thời lượng)
 
 **Skill:** 表現読解
 
@@ -196,8 +196,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 業務会議では『〇点ございます』が標準。
-- 🇻🇳 Trong business 「〇点ございます」 là chuẩn.
+- 業務会議では『〇点ございます』が標準。
+- Trong business 「〇点ございます」 là chuẩn.
 
 ### J3.11 (từ rule_14 — Phân vai moderator / scribe)
 
@@ -213,8 +213,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 誰が議事を進行し、誰が記録し、いつ議事録が届くかを明示するのが基本。
-- 🇻🇳 Phải báo: ai chủ trì, ai ghi, khi nào nhận biên bản. Đó là cơ bản.
+- 誰が議事を進行し、誰が記録し、いつ議事録が届くかを明示するのが基本。
+- Phải báo: ai chủ trì, ai ghi, khi nào nhận biên bản. Đó là cơ bản.
 
 ### J3.12 (từ rule_16 — Confirm timeline mỗi mục)
 
@@ -230,8 +230,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 時刻単位で範囲を示すのが客が次の予定を立てやすい伝え方。
-- 🇻🇳 Báo theo clock-time giúp khách dễ lên lịch tiếp.
+- 時刻単位で範囲を示すのが客が次の予定を立てやすい伝え方。
+- Báo theo clock-time giúp khách dễ lên lịch tiếp.
 
 ### J3.13 (từ rule_17 — Khi đến muộn — vào họp giữa chừng)
 
@@ -247,8 +247,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 一言謝罪＋速やかな着席が正解。説明や議題確認は会議の進行を妨げる。
-- 🇻🇳 1 câu xin lỗi + ngồi nhanh là chuẩn. Giải thích / hỏimục sẽ làm gián đoạn.
+- 一言謝罪＋速やかな着席が正解。説明や議題確認は会議の進行を妨げる。
+- 1 câu xin lỗi + ngồi nhanh là chuẩn. Giải thích / hỏimục sẽ làm gián đoạn.
 
 ### J3.14 (từ rule_19 — Phát biểu xin lượt nói)
 
@@ -264,8 +264,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 割り込みは失礼、メモ回しは情報共有にならず、会議後個別質問は議題を逃す。挙手＋許可を求めるのが標準。
-- 🇻🇳 Cắt lời = thất lễ. Truyền giấy = không share. Hỏi sau họp = lỡ topic. Giơ tay + xin lượt là chuẩn.
+- 割り込みは失礼、メモ回しは情報共有にならず、会議後個別質問は議題を逃す。挙手＋許可を求めるのが標準。
+- Cắt lời = thất lễ. Truyền giấy = không share. Hỏi sau họp = lỡ topic. Giơ tay + xin lượt là chuẩn.
 
 ### J3.15 (từ rule_20 — Đặt câu hỏi 5W1H)
 
@@ -281,8 +281,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 質問数を予告すると相手が答えやすい。「色々」「あれもこれも」は曖昧。
-- 🇻🇳 Báo trước số câu hỏi giúp đối phương dễ trả lời. 「色々」「あれもこれも」 mơ hồ.
+- 質問数を予告すると相手が答えやすい。「色々」「あれもこれも」は曖昧。
+- Báo trước số câu hỏi giúp đối phương dễ trả lời. 「色々」「あれもこれも」 quá mơ hồ.
 
 ### J3.16 (từ rule_21 — Xin clarification khi không hiểu)
 
@@ -298,8 +298,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 曖昧な返事は後の手戻りリスク。「全部」も非効率。該当点を絞って質問するのが業務効率と信頼の両立解。
-- 🇻🇳 Gật cho qua = rủi ro rework sau. 'Tất cả' = không hiệu quả. Chỉ điểm cụ thể là cách tối ưu cả hiệu suất + uy tín.
+- 曖昧な返事は後の手戻りリスク。「全部」も非効率。該当点を絞って質問するのが業務効率と信頼の両立解。
+- Gật cho qua = rủi ro phải làm lại sau. 'Tất cả không hiểu' = không hiệu quả. Chỉ điểm cụ thể là cách tối ưu cả hiệu suất + uy tín.
 
 ### J3.17 (từ rule_24 — Tóm tắt ý kiến của người khác)
 
@@ -315,8 +315,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 その場で要約確認することで認識ズレを防ぎ、相手にも修正の機会を提供できる。
-- 🇻🇳 Tóm tắt confirm tại chỗ tránh miscom + cho đối phương cơ hội correct.
+- その場で要約確認することで認識ズレを防ぎ、相手にも修正の機会を提供できる。
+- Tóm tắt xác nhận tại chỗ tránh hiểu nhầm + cho đối phương cơ hội điều chỉnh.
 
 ### J3.18 (từ rule_26 — Đề xuất ý tưởng mới)
 
@@ -332,8 +332,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 「ご提案させていただいてもよろしいでしょうか」が許可を求めつつ控えめに切り出す標準形。
-- 🇻🇳 「ご提案させていただいてもよろしいでしょうか」 là câu chuẩn xin phép + mở khiêm tốn.
+- 「ご提案させていただいてもよろしいでしょうか」が許可を求めつつ控えめに切り出す標準形。
+- 「ご提案させていただいてもよろしいでしょうか」 là câu chuẩn xin phép + mở khiêm tốn.
 
 ### J3.19 (từ rule_28 — Xin thêm thông tin / data)
 
@@ -349,8 +349,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 用途+具体的項目+件数の3要素が揃うと相手が応じやすい。曖昧な依頼は遅延の元。
-- 🇻🇳 Mục đích + item cụ thể + số lượng = đối phương dễ cấp. Xin chung chung gây delay.
+- 用途+具体的項目+件数の3要素が揃うと相手が応じやすい。曖昧な依頼は遅延の元。
+- Mục đích + mục cụ thể + số lượng = đối phương dễ cung cấp. Xin chung chung gây trễ.
 
 ### J3.20 (từ rule_31 — Bỏ phiếu / Đi đến quyết định)
 
@@ -366,8 +366,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 司会は議論を要約して方向を提示し、確認＋反対機会を与えるのが標準。
-- 🇻🇳 Chủ trì tổng hợp + propose + confirm + mời phản đối là chuẩn JP.
+- 司会は議論を要約して方向を提示し、確認＋反対機会を与えるのが標準。
+- Chủ trì tổng hợp + đề xuất + xác nhận + mời phản đối là chuẩn JP.
 
 ### J3.21 (từ rule_32 — Hoãn quyết định (mang về trả lời))
 
@@ -383,10 +383,10 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 持ち帰り＋具体的期限＋チャネルが揃って初めて相手は安心できる。曖昧な「また今度」は信頼を損なう。
-- 🇻🇳 Phải có 持ち帰り + deadline cụ thể + channel thì khách mới yên tâm. 「また今度」 mơ hồ làm mất uy tín.
+- 持ち帰り＋具体的期限＋チャネルが揃って初めて相手は安心できる。曖昧な「また今度」は信頼を損なう。
+- Phải có 持ち帰り + hạn chót cụ thể + kênh liên lạc thì khách mới yên tâm. 「また今度」 mơ hồ làm mất uy tín.
 
-### J3.22 (từ rule_33 — Online meeting mute/unmute etiquette)
+### J3.22 (từ rule_33 — Quy tắc tắt/bật mic trong họp trực tuyến)
 
 **Skill:** 場面把握
 
@@ -400,8 +400,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 オンライン会議の4原則（既定ミュート・発言時カメラオン・挙手機能・名乗り）を全て守る選択肢はC。
-- 🇻🇳 C tuân thủ cả 4 quy tắc: mute mặc định, camera on khi nói, dùng raise-hand, tự xưng tên.
+- オンライン会議の4原則（既定ミュート・発言時カメラオン・挙手機能・名乗り）を全て守る選択肢はC。
+- C tuân thủ cả 4 quy tắc: mute mặc định, camera on khi nói, dùng raise-hand, tự xưng tên.
 
 ### J3.23 (từ rule_35 — Khi mất kết nối)
 
@@ -417,8 +417,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 謝罪+last seen確認で重複/抜けを防ぐのが標準。
-- 🇻🇳 Xin lỗi + confirm last seen tránh lặp/sót là chuẩn.
+- 謝罪+last seen確認で重複/抜けを防ぐのが標準。
+- Xin lỗi + xác nhận dừng ở đâu để tránh lặp/sót là chuẩn.
 
 ### J3.24 (từ rule_39 — 1-on-1 với cấp trên Nhật)
 
@@ -434,8 +434,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 1on1は構造化された対話の場。進捗→課題→相談→次の構成で上司の支援を最大化できる。
-- 🇻🇳 1on1 là chỗ trao đổi có cấu trúc. Progress → Challenge → Ask → Next tối ưu hỗ trợ từ cấp trên.
+- 1on1は構造化された対話の場。進捗→課題→相談→次の構成で上司の支援を最大化できる。
+- 1on1 là chỗ trao đổi có cấu trúc. Tiến độ → Vướng mắc → Tham vấn → Tiếp theo: tối ưu hỗ trợ từ cấp trên.
 
 ### J3.25 (từ rule_42 — Đột xuất kết thúc sớm vì thiếu thời gian)
 
@@ -451,8 +451,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 時間→決定済み確認→積み残し+次回スロットの3ステップで締めるのが顧客の予定を尊重する標準。
-- 🇻🇳 Time → confirm decisions → carry-forward + slot mới = chuẩn tôn trọng lịch khách.
+- 時間→決定済み確認→積み残し+次回スロットの3ステップで締めるのが顧客の予定を尊重する標準。
+- Báo giờ → xác nhận quyết định → chuyển tiếp mục còn lại + đề xuất lịch mới = chuẩn tôn trọng lịch khách.
 
 ### J3.26 (từ rule_43 — Câu chào kết thúc)
 
@@ -468,8 +468,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 感謝+関係継続の結びが顧客会議の formal 標準。
-- 🇻🇳 Cảm ơn + cam kết duy trì quan hệ là chuẩn formal cho họp khách.
+- 感謝+関係継続の結びが顧客会議の formal 標準。
+- Cảm ơn + cam kết duy trì quan hệ là chuẩn formal cho họp khách.
 
 ### J3.27 (từ rule_44 — Confirm việc cần làm + người phụ trách)
 
@@ -485,8 +485,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 音声で各 owner に確認することで合意が成立し、議事録にも明確に残る。
-- 🇻🇳 Confirm tiếng từng owner → consensus thành lập + biên bản rõ.
+- 音声で各 owner に確認することで合意が成立し、議事録にも明確に残る。
+- Xác nhận bằng lời từng người phụ trách → đồng thuận được thiết lập + biên bản rõ ràng.
 
 ### J3.28 (từ rule_45 — Gửi biên bản trong 24h)
 
@@ -502,10 +502,10 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 24時間以内+構造化された6項目+review期限がプロフェッショナルの標準。
-- 🇻🇳 Trong 24h + 6 mục có cấu trúc + deadline review = chuẩn pro.
+- 24時間以内+構造化された6項目+review期限がプロフェッショナルの標準。
+- Trong 24h + 6 mục có cấu trúc + hạn chót duyệt = chuẩn chuyên nghiệp.
 
-### J3.29 (từ rule_47 — Follow-up email cảm ơn)
+### J3.29 (từ rule_47 — Email cảm ơn sau họp)
 
 **Skill:** 表現読解
 
@@ -519,8 +519,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 議事録は記録、お礼メールは関係構築。役割が異なるため両方送るのが業界標準。
-- 🇻🇳 Biên bản = record, thank-you mail = quan hệ. Hai chức năng khác nhau → gửi cả 2 là chuẩn industry.
+- 議事録は記録、お礼メールは関係構築。役割が異なるため両方送るのが業界標準。
+- Biên bản = ghi chép chính thức, mail cảm ơn = gắn kết quan hệ. Hai chức năng khác nhau → gửi cả 2 là chuẩn ngành.
 
 ### J3.30 (từ rule_48 — Cập nhật người vắng mặt)
 
@@ -536,10 +536,10 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 個別の心遣い+論点絞り+time-boxつきcatch-upが最も丁寧で効率的。
-- 🇻🇳 Cá nhân hoá + chỉ items liên quan + catch-up có time-box là lịch sự + hiệu quả nhất.
+- 個別の心遣い+論点絞り+time-boxつきcatch-upが最も丁寧で効率的。
+- Cá nhân hoá + chỉ mục liên quan + trao đổi bù có giới hạn thời gian là lịch sự + hiệu quả nhất.
 
-### J3.31 (từ rule_49 — Tracking decisions trong CRM)
+### J3.31 (từ rule_49 — Lưu quyết định vào hệ thống nội bộ)
 
 **Skill:** 場面把握
 
@@ -553,10 +553,10 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 single source of truthがあれば onboarding・監査・後追いが全て効率化される。
-- 🇻🇳 Có 1 source duy nhất → onboarding / audit / follow-up đều hiệu quả.
+- single source of truthがあれば onboarding・監査・後追いが全て効率化される。
+- Có 1 nguồn tra cứu duy nhất → tiếp nhận nhân viên / kiểm toán / theo dõi đều hiệu quả.
 
-### J3.32 (từ rule_50 — Self-reflection cải tiến)
+### J3.32 (từ rule_50 — Tự nhìn lại và cải tiến)
 
 **Skill:** 場面把握
 
@@ -570,8 +570,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 週次の構造化された自己振り返り+具体的改善コミットがスキル plateau を防ぐ。
-- 🇻🇳 Reflection hàng tuần có cấu trúc + commit cải tiến cụ thể tránh được skill plateau.
+- 週次の構造化された自己振り返り+具体的改善コミットがスキル plateau を防ぐ。
+- Tự đánh giá hàng tuần có cấu trúc + cam kết cải tiến cụ thể tránh được tình trạng kỹ năng đình trệ.
 
 
 ## Level J2 (17 câu)
@@ -590,8 +590,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 事前すり合わせは、客との会議で社内が一枚岩であることを保証するための内部準備。
-- 🇻🇳 事前すり合わせ là chuẩn bị nội bộ để khi gặp khách thì cả team đồng nhất.
+- 事前すり合わせは、客との会議で社内が一枚岩であることを保証するための内部準備。
+- 事前すり合わせ là chuẩn bị nội bộ để khi gặp khách thì cả team đồng nhất.
 
 ### J2.2 (từ rule_08 — Chuẩn bị Plan B + counter-arguments)
 
@@ -607,8 +607,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 「〜済み」が完了報告の最も簡潔・客観的な表現。
-- 🇻🇳 「〜済み」 là cụm gọn, khách quan, chuẩn cho báo cáo hoàn thành.
+- 「〜済み」が完了報告の最も簡潔・客観的な表現。
+- 「〜済み」 là cụm gọn, khách quan, chuẩn cho báo cáo hoàn thành.
 
 ### J2.3 (từ rule_12 — Giới thiệu các bên tham dự)
 
@@ -624,8 +624,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 自社内の人物には敬称・役職名先頭を付けず「弊社 [役職] の [氏名]」が正解。
-- 🇻🇳 Nội bộ không gắn 様 / không đặt chức trước tên. 「弊社 [chức] の [tên]」 là chuẩn.
+- 自社内の人物には敬称・役職名先頭を付けず「弊社 [役職] の [氏名]」が正解。
+- Nội bộ không gắn 様 / không đặt chức trước tên. 「弊社 [chức] の [tên]」 là chuẩn.
 
 ### J2.4 (từ rule_15 — Chốt mục tiêu output cuộc họp)
 
@@ -641,8 +641,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 ゴールは action 動詞（合意・決定）を含み、議事録記録可能な粒度であるべき。
-- 🇻🇳 Goal phải có động từ action (合意 / 決定) và đủ chi tiết để ghi biên bản.
+- ゴールは action 動詞（合意・決定）を含み、議事録記録可能な粒度であるべき。
+- Goal phải có động từ action (合意 / 決定) và đủ chi tiết để ghi biên bản.
 
 ### J2.5 (từ rule_18 — Khi có người vắng mặt)
 
@@ -658,8 +658,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 公表＋方向性合意止まり＋後日確定がリスク管理の基本。
-- 🇻🇳 thông báo + dừng ở 'hướng' + chốt sau = chuẩn quản trị rủi ro.
+- 公表＋方向性合意止まり＋後日確定がリスク管理の基本。
+- thông báo + dừng ở 'hướng' + chốt sau = chuẩn quản trị rủi ro.
 
 ### J2.6 (từ rule_22 — Đồng ý lịch sự — 5 levels)
 
@@ -675,8 +675,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 Aは完全同意で後でリスク。Cは弱い拒否で議論を止める。Dは完全同意で詳細確認の余地なし。Bが「概ね同意」を正確に表す。
-- 🇻🇳 A = full commit có rủi ro. C mơ hồ phủ định. D = full commit không kiểm tra được. B đúng level 'đồng ý đại thể'.
+- Aは完全同意で後でリスク。Cは弱い拒否で議論を止める。Dは完全同意で詳細確認の余地なし。Bが「概ね同意」を正確に表す。
+- A = full commit có rủi ro. C mơ hồ phủ định. D = full commit không kiểm tra được. B đúng level 'đồng ý đại thể'.
 
 ### J2.7 (từ rule_23 — Phản đối lịch sự)
 
@@ -692,8 +692,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 クッション「ご意見はよく分かりました」+ pivot「ただ」+ 観点提示が標準。他は直接的すぎる。
-- 🇻🇳 Cushion + pivot + viewpoint là chuẩn. Các option khác đều quá thẳng cho JP business.
+- クッション「ご意見はよく分かりました」+ pivot「ただ」+ 観点提示が標準。他は直接的すぎる。
+- Cushion + pivot + viewpoint là chuẩn. Các option khác đều quá thẳng cho JP business.
 
 ### J2.8 (từ rule_25 — Xin thêm thời gian suy nghĩ (持ち帰り))
 
@@ -709,8 +709,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 持ち帰り＋期限明示が日本ビジネスの標準。即決はリスク、即時拒否は交渉打ち切り、無回答は失礼。
-- 🇻🇳 Mang về + có deadline = chuẩn JP business. Quyết bừa = rủi ro. Từ chối thẳng = chặn đàm. Im lặng = thất lễ.
+- 持ち帰り＋期限明示が日本ビジネスの標準。即決はリスク、即時拒否は交渉打ち切り、無回答は失礼。
+- Mang về + có hạn chót = chuẩn JP nghiệp vụ. Quyết bừa = rủi ro. Từ chối thẳng = chặn đàm. Im lặng = thất lễ.
 
 ### J2.9 (từ rule_27 — Phản biện có cơ sở)
 
@@ -726,8 +726,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 受け止め+具体的数値+事実ベースで反論するのが最も説得力がある。
-- 🇻🇳 Ghi nhận + số cụ thể + fact-based là cách phản biện thuyết phục nhất.
+- 受け止め+具体的数値+事実ベースで反論するのが最も説得力がある。
+- Ghi nhận + số cụ thể + fact-based là cách phản biện thuyết phục nhất.
 
 ### J2.10 (từ rule_29 — Khi gặp deadlock)
 
@@ -743,8 +743,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 司会者の独断は内部信頼を損ね、強引採決は関係を壊す。冷却期間+期限つき再提案が最善。
-- 🇻🇳 Chủ trì tự quyết = mất uy tín nội bộ. Ép vote = phá quan hệ. Cool-off + deadline tái đề xuất = tối ưu.
+- 司会者の独断は内部信頼を損ね、強引採決は関係を壊す。冷却期間+期限つき再提案が最善。
+- Chủ trì tự quyết = mất uy tín nội bộ. Ép bỏ phiếu = phá quan hệ. Thời gian nguội + hạn chót tái đề xuất = tối ưu.
 
 ### J2.11 (từ rule_30 — Khi cấp trên nói câu khó hiểu)
 
@@ -760,10 +760,10 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 曖昧発言には推測二択で確認するのが最も精度が高い。一方解釈は誤読リスク、open-ended は相手に再説明負担。
-- 🇻🇳 Mơ hồ → đưa 2 lựa chọn confirm là chính xác nhất. Đoán 1 hướng có rủi ro. Câu hỏi mở bắt cấp trên giải thích lại.
+- 曖昧発言には推測二択で確認するのが最も精度が高い。一方解釈は誤読リスク、open-ended は相手に再説明負担。
+- Mơ hồ → đưa 2 lựa chọn xác nhận là chính xác nhất. Đoán 1 hướng có rủi ro. Câu hỏi mở bắt cấp trên giải thích lại.
 
-### J2.12 (từ rule_34 — Hybrid meeting cân bằng online/offline)
+### J2.12 (từ rule_34 — Họp kết hợp cân bằng trực tuyến/trực tiếp)
 
 **Skill:** 場面把握
 
@@ -777,10 +777,10 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 ハイブリッドはオンライン側が情報非対称になりやすいため、online first + 要約共有がバランスを取る。
-- 🇻🇳 Hybrid dễ bất cân xứng thông tin với online → online first + summary là cách cân bằng.
+- ハイブリッドはオンライン側が情報非対称になりやすいため、online first + 要約共有がバランスを取る。
+- Họp kết hợp dễ bất cân xứng thông tin với phía trực tuyến → ưu tiên người trực tuyến trước + tóm tắt là cách cân bằng.
 
-### J2.13 (từ rule_37 — Crisis meeting họp gấp)
+### J2.13 (từ rule_37 — Họp khẩn)
 
 **Skill:** 場面把握
 
@@ -794,10 +794,10 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 緊急時はFact-Impact-Action-Ownerの構造化報告が最も効率的かつ顧客の不安を減らす。
-- 🇻🇳 Lúc khẩn, F-I-A-O hiệu quả nhất + giảm lo lắng cho khách.
+- 緊急時はFact-Impact-Action-Ownerの構造化報告が最も効率的かつ顧客の不安を減らす。
+- Lúc khẩn, F-I-A-O hiệu quả nhất + giảm lo lắng cho khách.
 
-### J2.14 (từ rule_38 — Postpone/cancel họp last-minute)
+### J2.14 (từ rule_38 — Dời/hủy họp sát giờ)
 
 **Skill:** 表現読解
 
@@ -811,8 +811,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 謝罪+具体的理由+代替日3案+資料コミットの4要素で信頼を最大限維持する。
-- 🇻🇳 Xin lỗi + lý do cụ thể + 3 lịch thay + cam kết tài liệu = giữ uy tín tối đa.
+- 謝罪+具体的理由+代替日3案+資料コミットの4要素で信頼を最大限維持する。
+- Xin lỗi + lý do cụ thể + 3 lịch thay + cam kết tài liệu = giữ uy tín tối đa.
 
 ### J2.15 (từ rule_40 — Brainstorming / Workshop)
 
@@ -828,10 +828,10 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 ブレストの心理的安全性は冒頭の4原則宣言で担保される。
-- 🇻🇳 An toàn tâm lý của brainstorm được bảo đảm bằng tuyên bố 4 nguyên tắc đầu phiên.
+- ブレストの心理的安全性は冒頭の4原則宣言で担保される。
+- An toàn tâm lý của phiên động não được bảo đảm bằng tuyên bố 4 nguyên tắc đầu phiên.
 
-### J2.16 (từ rule_41 — Performance review feedback)
+### J2.16 (từ rule_41 — Đánh giá hiệu suất và phản hồi kết quả)
 
 **Skill:** 発言聴解
 
@@ -845,10 +845,10 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 GROWモデルは事実ベース・本人選択・期限つきコミットで改善を促す最も効果的なフレームワーク。
-- 🇻🇳 GROW: fact-based + để người đó chọn + commit có deadline = khung hiệu quả nhất.
+- GROWモデルは事実ベース・本人選択・期限つきコミットで改善を促す最も効果的なフレームワーク。
+- GROW: dựa trên thực tế + để người đó tự chọn + cam kết có hạn chót = khung hiệu quả nhất.
 
-### J2.17 (từ rule_46 — Format biên bản chuẩn (extended))
+### J2.17 (từ rule_46 — Định dạng biên bản chuẩn (mở rộng))
 
 **Skill:** 表現読解
 
@@ -862,12 +862,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 extended フォーマットは8要素+3慣習で証憑性と追跡性を担保する。
-- 🇻🇳 Extended format 8 element + 3 quy ước đảm bảo tính evidence và truy vết.
+- extended フォーマットは8要素+3慣習で証憑性と追跡性を担保する。
+- Định dạng mở rộng 8 thành phần + 3 quy ước đảm bảo tính bằng chứng và khả năng truy vết.
 
 
 **Tổng số câu hỏi:** 50
-
----
-
-*Tài liệu này có thể export thành quiz interactive — đọc data trực tiếp từ `bjt_practice` array trong mỗi `conversation.json`.*

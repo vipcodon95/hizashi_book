@@ -14,48 +14,40 @@ Trước nội dung 1, em Linh báo Dũng: chị Hương副部長 bị sốt sá
 
 ---
 
-## ❌ Hội thoại XẤU — không công bố, vẫn quyết tiếp
+## Hội thoại XẤU — không công bố, vẫn quyết tiếp
 
 *vào thẳng nội dung 1*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「では、4月<ruby>進捗<rt>しんちょく</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby>から…」 |
-|  | *Vâng, mình bắt đầu từ báo cáo tiến độ tháng 4 nhé...* |
-| **大垣** | 「あれ、フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>は？」 |
-|  | *Ơ, chị Hương Phó phòng đâu?* |
-| **ズン** | 「あ、すみません、フオンは本日<ruby>体調不良<rt>たいちょうふりょう</rt></ruby>で…」 |
-|  | *À em xin lỗi, chị Hương hôm nay không khỏe ạ...* |
-| **大垣** | 「なるほど。ただ、5月スコープの<ruby>最終<rt>さいしゅう</rt></ruby><ruby>決裁<rt>けっさい</rt></ruby>はフオン副部長の<ruby>権限<rt>けんげん</rt></ruby>と聞いているのですが、本日<ruby>決定<rt>けってい</rt></ruby>できますか？」 |
-|  | *À ra vậy. Nhưng anh nghe nói quyết cuối scope tháng 5 thuộc thẩm quyền chị Hương — hôm nay có quyết được không?* |
+| **ズン** | 「では、4月<ruby>進捗<rt>しんちょく</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby>から…」 <br/>*Vâng, mình bắt đầu từ báo cáo tiến độ tháng 4 nhé...* |
+| **大垣** | 「あれ、フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>は？」 <br/>*Ơ, chị Hương Phó phòng đâu?* |
+| **ズン** | 「あ、すみません、フオンは本日<ruby>体調不良<rt>たいちょうふりょう</rt></ruby>で…」 <br/>*À em xin lỗi, chị Hương hôm nay không khỏe ạ...* |
+| **大垣** | 「なるほど。ただ、5月スコープの<ruby>最終<rt>さいしゅう</rt></ruby><ruby>決裁<rt>けっさい</rt></ruby>はフオン副部長の<ruby>権限<rt>けんげん</rt></ruby>と聞いているのですが、本日<ruby>決定<rt>けってい</rt></ruby>できますか？」 <br/>*À ra vậy. Nhưng anh nghe nói quyết cuối scope tháng 5 thuộc thẩm quyền chị Hương — hôm nay có quyết được không?* |
 
 **Vì sao xấu:** Không thông báo ngay → khách phát hiện giữa chừng. Nguy hiểm hơn: anh Ōgaki không biết người có quyền quyết vắng → có thể đi đến một quyết định hớ mà người có thẩm quyền sau đó lại từ chối.
 
 ---
 
-## ✅ Hội thoại TỐT — 公表 + plan rõ
+## Hội thoại TỐT — 公表 + plan rõ
 
 *rule 12 出席者紹介の直後*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「なお、本日 <ruby>弊社<rt>へいしゃ</rt></ruby> 副部長のフオンは体調不良のため<ruby>欠席<rt>けっせき</rt></ruby>となります【1】。<ruby>事前<rt>じぜん</rt></ruby>に松本様にはご<ruby>連絡済<rt>れんらくず</rt></ruby>みでございます。」 |
-|  | *Em xin báo thêm, hôm nay phía bên em chị Hương Phó phòng vắng vì không khỏe ạ. Em đã liên hệ trước với anh Matsumoto rồi ạ.* |
-| **ズン** | 「<ruby>議事録<rt>ぎじろく</rt></ruby>は<ruby>終了後<rt>しゅうりょうご</rt></ruby>本日中にフオンへ<ruby>共有<rt>きょうゆう</rt></ruby>いたします【2】。」 |
-|  | *Biên bản em sẽ chia sẻ cho chị Hương ngay trong hôm nay sau khi họp xong ạ.* |
-| **ズン** | 「5月スコープの最終決裁はフオンの権限のため、本日は『<ruby>方向性<rt>ほうこうせい</rt></ruby><ruby>合意<rt>ごうい</rt></ruby>』までとさせていただき、<ruby>最終確定<rt>さいしゅうかくてい</rt></ruby>はフオン<ruby>確認後<rt>かくにんご</rt></ruby> 明日中にメールでご連絡いたします【3】。」 |
-|  | *Phần phê duyệt cuối scope tháng 5 thuộc thẩm quyền chị Hương, nên hôm nay em xin phép dừng ở mức 'thống nhất hướng', sau đó chốt cuối em sẽ mail báo trong ngày mai khi chị Hương xác nhận ạ.* |
-| **大垣** | 「<ruby>了解<rt>りょうかい</rt></ruby>しました。<ruby>明確<rt>めいかく</rt></ruby>で<ruby>助<rt>たす</rt></ruby>かります。」 |
-|  | *Anh hiểu rồi. Em nói rõ thế này hay lắm.* |
+| **ズン** | 「なお、本日 <ruby>弊社<rt>へいしゃ</rt></ruby> 副部長のフオンは体調不良のため<ruby>欠席<rt>けっせき</rt></ruby>となります【1】。<ruby>事前<rt>じぜん</rt></ruby>に松本様にはご<ruby>連絡済<rt>れんらくず</rt></ruby>みでございます。」 <br/>*Em xin báo thêm, hôm nay phía bên em chị Hương Phó phòng vắng vì không khỏe ạ. Em đã liên hệ trước với anh Matsumoto rồi ạ.* |
+| **ズン** | 「<ruby>議事録<rt>ぎじろく</rt></ruby>は<ruby>終了後<rt>しゅうりょうご</rt></ruby>本日中にフオンへ<ruby>共有<rt>きょうゆう</rt></ruby>いたします【2】。」 <br/>*Biên bản em sẽ chia sẻ cho chị Hương ngay trong hôm nay sau khi họp xong ạ.* |
+| **ズン** | 「5月スコープの最終決裁はフオンの権限のため、本日は『<ruby>方向性<rt>ほうこうせい</rt></ruby><ruby>合意<rt>ごうい</rt></ruby>』までとさせていただき、<ruby>最終確定<rt>さいしゅうかくてい</rt></ruby>はフオン<ruby>確認後<rt>かくにんご</rt></ruby> 明日中にメールでご連絡いたします【3】。」 <br/>*Phần phê duyệt cuối scope tháng 5 thuộc thẩm quyền chị Hương, nên hôm nay em xin phép dừng ở mức 'thống nhất hướng', sau đó chốt cuối em sẽ mail báo trong ngày mai khi chị Hương xác nhận ạ.* |
+| **大垣** | 「<ruby>了解<rt>りょうかい</rt></ruby>しました。<ruby>明確<rt>めいかく</rt></ruby>で<ruby>助<rt>たす</rt></ruby>かります。」 <br/>*Anh hiểu rồi. Em nói rõ thế này hay lắm.* |
 
-📝 **Ghi chú:**
+ **Ghi chú:**
 - 【1】**「弊社 副部長のフオンは体調不良のため欠席」** — người nhà 内 (uchi) thì bỏ kính ngữ chức danh. Lý do ngắn 「体調不良」 đủ rồi, không kể "sốt 38度" hay "đi bệnh viện".
 - 【2】**「議事録は本日中に〇〇へ共有」** — cam kết thời hạn. Liên kết rule 45 + rule 48.
 - 【3】**「方向性合意までとさせていただき、最終確定は…」** — nêu rõ rằng quyết định cuối cần người vắng xác nhận. Đây là cách tránh "quyết hớ rồi rút lại".
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「欠席者は冒頭公表 + 議事録共有 + 持ち帰り合意。黙って進めない。」**
 >
@@ -63,7 +55,7 @@ Trước nội dung 1, em Linh báo Dũng: chị Hương副部長 bị sốt sá
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - Không 公表 → khách tự phát hiện = mất uy tín.
 - Kể chi tiết lý do (bệnh / việc cá nhân) → không cần thiết.
@@ -72,15 +64,15 @@ Trước nội dung 1, em Linh báo Dũng: chị Hương副部長 bị sốt sá
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 欠席 | けっせき | Vắng mặt |
-| 体調不良 | たいちょうふりょう | Không khỏe (lý do generic) |
-| 決裁 | けっさい | Phê duyệt / authorize |
-| 権限 | けんげん | Thẩm quyền |
-| 方向性 | ほうこうせい | Định hướng |
-| 最終確定 | さいしゅうかくてい | Chốt cuối |
-| 共有 | きょうゆう | Chia sẻ |
-| 〜のため | のため | Vì lý do... |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 欠席 | けっせき | KHUYẾT TỊCH | Vắng mặt |
+| 体調不良 | たいちょうふりょう | THỂ ĐIỀU BẤT LƯƠNG | Không khỏe (lý do thông dụng) |
+| 決裁 | けっさい | QUYẾT TÀI | Phê duyệt / ký duyệt |
+| 権限 | けんげん | QUYỀN HẠN | Thẩm quyền |
+| 方向性 | ほうこうせい | PHƯƠNG HƯỚNG TÍNH | Định hướng |
+| 最終確定 | さいしゅうかくてい | TỐI CHUNG XÁC ĐỊNH | Chốt cuối |
+| 共有 | きょうゆう | CỘNG HỮU | Chia sẻ |
+| 〜のため | のため | — | Vì lý do... |

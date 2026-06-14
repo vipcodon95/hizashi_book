@@ -1,34 +1,34 @@
-# Hizashi — Báo·Liên·Tham vấn / 報・連・相
+# Hizashi — Báo·Liên·Thảo luận / 報・連・相
 
-*Hizashi Teams. 2026. Phiên bản 1.1.*
+*Hizashi Teams.*
 
-## Sách song ngữ Việt-Nhật cho người Việt làm với khách Nhật
+## Sách song ngữ Việt-Nhật cho người Việt làm với khách hàng
 
-40 rules dạy 3 trụ cột giao tiếp công việc Nhật: 報告 (báo cáo) · 連絡 (liên lạc) · 相談 (tham vấn). Đặc biệt thiết yếu cho offshore IT teams VN làm việc với khách Nhật.
+40 quy tắc dạy 3 trụ cột giao tiếp công việc: 報告 (báo cáo) · 連絡 (liên lạc) · 相談 (thảo luận). Đặc biệt thiết yếu cho nhân viên người Việt làm việc với khách hàng.
 
-**Đối tượng:** Dev/PM/BD VN, ôn BJT J3-J2.
+**Đối tượng:** Lập trình viên / quản lý dự án / chuyên viên kinh doanh người Việt, ôn thi BJT J3-J2.
 
-## 📚 Cấu trúc
+## Cấu trúc
 
 | Phần | Tên | Số rule |
 |------|-----|---------|
 | I | 報告 (Hōkoku — Báo cáo) | 12 |
 | II | 連絡 (Renraku — Liên lạc) | 9 |
-| III | 相談 (Sōdan — Tham vấn) | 9 |
+| III | 相談 (Sōdan — Thảo luận) | 9 |
 | IV | Tình huống đặc biệt | 6 |
-| V | Tools + Thực hành tốt nhất | 4 |
+| V | Công cụ + Thực hành tốt nhất | 4 |
 
-**Phụ lục:** A (script template), B (vocab), C (BJT practice), D (templates 10+ mẫu).
+**Phụ lục:** A (tổng hợp mẫu câu), B (từ vựng), C (luyện BJT), D (tổng hợp 10+ mẫu).
 
-## 🎬 Cast mới so với sách 03
+## Nhân vật mới so với sách 03
 
-- **田中 PMO (Tanaka)** — Slack tracking + async, polite-direct.
-- **Em Linh (Linh)** — junior coaching arc đầy đủ với Dũng mentor.
+- **田中 PMO (Tanaka)** — theo sát qua Slack, nhắn không đồng thời, thẳng thắn mà lịch sự.
+- **Em Linh** — tuyến nhân viên mới được Dũng dìu dắt.
 
-## ⚖️ Bản quyền
+## Bản quyền
 
 © 2026 Hizashi Teams. Sáng tác gốc.
 
 ---
 
-*Bản 1.0 — 2026.*
+*Hizashi — Tia nắng đầu ngày trong từng báo cáo công việc của bạn.*

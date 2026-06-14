@@ -1,33 +1,33 @@
 # Hizashi — Thuyết trình / プレゼンテーション
 
-*Hizashi Teams. 2026. Phiên bản 1.1.*
+*Hizashi Teams.*
 
-35 rules dạy thuyết trình business cho khách Nhật, từ chuẩn bị đến closing. Đặc thù JP: 1-slide-1-message, conservative tone, time-keeping promise.
+## Sách song ngữ Việt-Nhật cho người Việt làm với khách hàng
 
-**Đối tượng:** BD/PM VN pitch dự án/proposal cho khách Nhật. Ôn BJT J3-J2.
+35 quy tắc dạy cách thuyết trình trước khách hàng, từ khâu chuẩn bị đến phần kết. Đặc thù Nhật: mỗi slide một thông điệp, giọng điệu chừng mực, cam kết giữ đúng thời gian.
+
+**Đối tượng:** Chuyên viên kinh doanh / quản lý dự án người Việt trình bày dự án, đề xuất cho khách hàng. Ôn thi BJT J3-J2.
 
 ## Cấu trúc
 
 | Phần | Tên | Số rule |
 |------|-----|---------|
-| I | Chuẩn bị / 準備 | 7 |
-| II | Mở đầu / オープニング | 6 |
-| III | Body / 本論 | 8 |
-| IV | Q&A + Closing / 質疑応答・クロージング | 7 |
-| V | Tình huống đặc biệt + Self-improve | 7 |
+| I | Chuẩn bị (準備) | 7 |
+| II | Mở đầu (オープニング) | 6 |
+| III | Phần thân (本論) | 8 |
+| IV | Hỏi đáp & Phần kết (質疑応答・クロージング) | 7 |
+| V | Tình huống đặc biệt & Tự hoàn thiện | 7 |
 
-**Phụ lục:** A (script), B (vocab), C (BJT 35 câu), D (templates 6 mẫu).
+**Phụ lục:** A (tổng hợp mẫu câu), B (từ vựng), C (luyện BJT 35 câu), D (tổng hợp mẫu).
 
-## Cast mới
+## Nhân vật mới
 
-- **Linh học pitch lần đầu** — Dũng mentor đầy đủ arc (rule 11/12/18/20)
-- **大垣 営業部長** đặt câu hỏi giá khó (rule 19, 24, 25)
-- **田中 PMO recording** — rule 33
+- **Em Linh** — lần đầu tự thuyết trình, được Dũng dìu dắt trọn vẹn.
+- **大垣 — Trưởng phòng kinh doanh (Ōgaki)** — người đặt những câu hỏi hóc búa về giá.
+- **田中 PMO (Tanaka)** — yêu cầu ghi hình buổi trình bày để chia sẻ nội bộ.
 
-## ⚖️ Bản quyền
+## Bản quyền
 
-© 2026 Hizashi Teams.
+© 2026 Hizashi Teams. Sáng tác gốc.
 
----
-
-*Bản 1.1 — 2026.*
+*Hizashi — Tia nắng đầu ngày trong từng buổi thuyết trình của bạn.*

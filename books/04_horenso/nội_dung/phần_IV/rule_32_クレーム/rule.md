@@ -1,4 +1,4 @@
-# Rule 32 — Khi khách phàn nàn — escalation / クレームのエスカレーション
+# Rule 32 — Khi khách phàn nàn — leo thang / クレームのエスカレーション
 
 > **Luận điểm.** Khách Nhật phàn nàn (クレーム) hiếm khi ngay từ đầu. Khi đã nói "**困っております**" / "**改善いただきたい**" / "**いかがでしょうか?**" với giọng trang trọng là dấu hiệu đã chịu đựng lâu. Junior nhận khiếu nại thường có 2 lỗi: **(1) Phản bác ngay** ("không phải lỗi mình" hoặc "đó là do anh báo trễ") **(2) Hứa luôn** ("em sẽ xử lý ngay" mà chưa xác minh). Công thức đúng: **(1) Lắng nghe đầy đủ + 復唱 (lặp lại) khẳng định đã hiểu**, **(2) Xin lỗi trước khi xác minh ("ご不便をおかけし誠に申し訳ございません" — không nhận lỗi cụ thể)**, **(3) Cấp trên xác minh + lên phương án**, **(4) Trả lời chính thức trong 24h với phương án**.
 >
@@ -14,60 +14,47 @@ Sáng thứ Tư 11:00. Anh Ōgaki (Sales Director Hakuō) gọi điện anh Dũn
 
 ---
 
-## ❌ Hội thoại XẤU — junior biện hộ + 即約束
+## Hội thoại XẤU — junior biện hộ + 即約束
 
 *điện thoại*
 
 | Vai | Câu |
 |---------|-----|
-| **大垣** | 「ズンさん、4月の<ruby>請求書<rt>せいきゅうしょ</rt></ruby>、金額が違います。当社の客が2回<ruby>問<rt>と</rt></ruby>い合わせしてきており、<ruby>困<rt>こま</rt></ruby>っております。」 |
-|  | *Dũng, invoice tháng 4 sai số tiền. Khách bên tôi đã hỏi 2 lần, đang phiền hà.* |
-| **ズン** | 「えっと、そんなはずないんですが…<ruby>経理<rt>けいり</rt></ruby>に確認しないと分からないですけど…でもたぶん大丈夫だと思います。今日中に<ruby>直<rt>なお</rt></ruby>して送り直します!」 |
-|  | *Ờ, em không nghĩ vậy được đâu... em phải hỏi kế toán mới biết... nhưng chắc là không sao đâu ạ. Em sẽ sửa và gửi lại trong hôm nay ạ!* |
-| **大垣** | 「『そんなはずない』とは?『たぶん大丈夫』とは?<ruby>事実<rt>じじつ</rt></ruby>確認していない<ruby>時点<rt>じてん</rt></ruby>で約束されても困りますね。」 |
-|  | *「Không nghĩ vậy được」 nghĩa là sao? 「Chắc là không sao」 nghĩa là sao? Chưa xác minh mà đã hứa thì tôi cũng phiền.* |
-| **ズン** | 「すみません…」 |
-|  | *Em xin lỗi ạ...* |
-| **大垣** | 「ズンさん、クレーム対応は: <ruby>傾聴<rt>けいちょう</rt></ruby> → <ruby>仮謝罪<rt>かりしゃざい</rt></ruby> → <ruby>検証<rt>けんしょう</rt></ruby> → 正式回答。今は逆に動いている。」 |
-|  | *Dũng, ứng xử khiếu nại là: lắng nghe → xin lỗi tạm → xác minh → reply chính thức. Hiện tại em đang làm ngược.* |
+| **大垣** | 「ズンさん、4月の<ruby>請求書<rt>せいきゅうしょ</rt></ruby>、金額が違います。当社の客が2回<ruby>問<rt>と</rt></ruby>い合わせしてきており、<ruby>困<rt>こま</rt></ruby>っております。」 <br/>*Dũng, invoice tháng 4 sai số tiền. Khách bên tôi đã hỏi 2 lần, đang phiền hà.* |
+| **ズン** | 「えっと、そんなはずないんですが…<ruby>経理<rt>けいり</rt></ruby>に確認しないと分からないですけど…でもたぶん大丈夫だと思います。今日中に<ruby>直<rt>なお</rt></ruby>して送り直します!」 <br/>*Ờ, em không nghĩ vậy được đâu... em phải hỏi kế toán mới biết... nhưng chắc là không sao đâu ạ. Em sẽ sửa và gửi lại trong hôm nay ạ!* |
+| **大垣** | 「『そんなはずない』とは?『たぶん大丈夫』とは?<ruby>事実<rt>じじつ</rt></ruby>確認していない<ruby>時点<rt>じてん</rt></ruby>で約束されても困りますね。」 <br/>*「Không nghĩ vậy được」 nghĩa là sao? 「Chắc là không sao」 nghĩa là sao? Chưa xác minh mà đã hứa thì tôi cũng phiền.* |
+| **ズン** | 「すみません…」 <br/>*Em xin lỗi ạ...* |
+| **大垣** | 「ズンさん、クレーム対応は: <ruby>傾聴<rt>けいちょう</rt></ruby> → <ruby>仮謝罪<rt>かりしゃざい</rt></ruby> → <ruby>検証<rt>けんしょう</rt></ruby> → 正式回答。今は逆に動いている。」 <br/>*Dũng, ứng xử khiếu nại là: lắng nghe → xin lỗi tạm → xác minh → reply chính thức. Hiện tại em đang làm ngược.* |
 
 **Vì sao xấu:** L2 ba lỗi cùng lúc — phản bác 「そんなはずない」 + suy đoán 「たぶん」 + hứa thời gian khi chưa xác minh 「今日中に直す」. L5 chỉ ra: 4 bước, hiện tại sai cả 4.
 
 ---
 
-## ✅ Hội thoại TỐT — 4 bước rồi báo lên Hương + Loan
+## Hội thoại TỐT — 4 bước rồi báo lên Hương + Loan
 
-*repeat back · 電話切後 → Slack #escalation · Slack · 17:30、メール大垣*
+*lặp lại xác nhận · 電話切後 → Slack #escalation · Slack · 17:30、メール大垣*
 
 | Vai | Câu |
 |---------|-----|
-| **大垣** | 「ズンさん、4月の<ruby>請求書<rt>せいきゅうしょ</rt></ruby>、金額が違います。当社の客が2回<ruby>問<rt>と</rt></ruby>い合わせしてきており、<ruby>困<rt>こま</rt></ruby>っております。」 |
-|  | *Dũng, invoice tháng 4 sai số tiền. Khách bên tôi đã hỏi 2 lần, đang phiền hà.* |
-| **ズン** | 「**①4月の請求書の金額に<ruby>誤<rt>あやま</rt></ruby>りがあり、御社のお客様から2回お問い合わせいただいているとのこと、ご<ruby>認識<rt>にんしき</rt></ruby>合っておりますでしょうか**【1】。」 |
-|  | *[1] Invoice tháng 4 có sai số tiền, khách bên anh đã hỏi 2 lần — em hiểu đúng vậy ạ?* |
-| **大垣** | 「その通りです。」 |
-|  | *Đúng vậy.* |
-| **ズン** | 「**②ご<ruby>不便<rt>ふべん</rt></ruby>をおかけし<ruby>誠<rt>まこと</rt></ruby>に申し訳ございません**。**③具体的な金額の<ruby>差異<rt>さい</rt></ruby>を確認の上、本日18時までに<ruby>第一報<rt>だいいっぽう</rt></ruby>、明日12時までに正式な対応案をご回答**いたします。**詳細**: 請求書番号と差異金額をご<ruby>共有<rt>きょうゆう</rt></ruby>いただけますでしょうか【2】。」 |
-|  | *[2] Em thực sự xin lỗi vì sự bất tiện ạ. [3] Sau khi xác minh chênh lệch cụ thể, em sẽ báo cáo đầu trước 18h hôm nay, reply chính thức trước 12h ngày mai ạ. Chi tiết: anh chia sẻ giúp em số invoice và số tiền chênh ạ?* |
-| **大垣** | 「請求書番号 INV-2026-04-031、<ruby>当方<rt>とうほう</rt></ruby>計算では¥850,000、<ruby>貴社<rt>きしゃ</rt></ruby>請求は ¥920,000。」 |
-|  | *Invoice số INV-2026-04-031, bên tôi tính ¥850,000, bên em ghi ¥920,000.* |
-| **ズン** | 「@フオン副部長 @ロアン経理部長 大垣様クレーム<ruby>入電<rt>にゅうでん</rt></ruby>。請求書 INV-2026-04-031 金額差異 ¥70,000。本日18時まで第一報、明日12時まで正式回答お約束<ruby>済<rt>ず</rt></ruby>【3】。」 |
-|  | *(Sau cúp máy, Slack) @chị Hương @chị Loan anh Ōgaki gọi khiếu nại. Invoice INV-2026-04-031 chênh ¥70,000. Em đã hứa: báo cáo đầu trước 18h hôm nay, reply chính thức trước 12h ngày mai ạ.* |
-| **フオン** | 「ロアンさん、経理ログ確認お願いします。ズン、私とロアンで11:30から確認会議。第一報ドラフトはズンが作成。」 |
-|  | *Chị Loan, em check log kế toán giúp. Dũng, chị và chị Loan họp xác minh từ 11:30. Draft báo cáo đầu Dũng viết.* |
-| **ズン** | 「大垣様、第一報のご報告です。経理にて確認の結果、**INV-2026-04-031 で ¥70,000 の<ruby>超過<rt>ちょうか</rt></ruby><ruby>記載<rt>きさい</rt></ruby>**が<ruby>判明<rt>はんめい</rt></ruby>いたしました。原因はシステム<ruby>集計<rt>しゅうけい</rt></ruby>時の<ruby>重複計上<rt>ちょうふくけいじょう</rt></ruby>です【4】。**<ruby>訂正<rt>ていせい</rt></ruby>請求書を明日 12時までにお送り**するとともに、<ruby>再発防止策<rt>さいはつぼうしさく</rt></ruby>については Post-mortem レポートにて 48時間以内にご報告申し上げます。先ほどはお電話にて失礼いたしました。ご不便をおかけし誠に申し訳ございません。<ruby>重<rt>かさ</rt></ruby>ねてお<ruby>詫<rt>わ</rt></ruby>び申し上げます【5】。」 |
-|  | *(17:30, mail) Anh Ōgaki, em xin báo cáo đầu ạ. Sau khi kế toán xác minh, INV-2026-04-031 ghi thừa ¥70,000 ạ. Nguyên nhân: tính trùng khi hệ thống tổng hợp. Em sẽ gửi invoice đính chính trước 12h ngày mai, cùng với Post-mortem report về biện pháp ngăn tái phát trong 48 giờ ạ. Vừa rồi em đã thất lễ qua điện thoại. Em thực sự xin lỗi vì sự bất tiện ạ. Em xin lỗi anh thêm lần nữa ạ.* |
+| **大垣** | 「ズンさん、4月の<ruby>請求書<rt>せいきゅうしょ</rt></ruby>、金額が違います。当社の客が2回<ruby>問<rt>と</rt></ruby>い合わせしてきており、<ruby>困<rt>こま</rt></ruby>っております。」 <br/>*Dũng, invoice tháng 4 sai số tiền. Khách bên tôi đã hỏi 2 lần, đang phiền hà.* |
+| **ズン** | 「**①4月の請求書の金額に<ruby>誤<rt>あやま</rt></ruby>りがあり、御社のお客様から2回お問い合わせいただいているとのこと、ご<ruby>認識<rt>にんしき</rt></ruby>合っておりますでしょうか**【1】。」 <br/>*[1] Invoice tháng 4 có sai số tiền, khách bên anh đã hỏi 2 lần — em hiểu đúng vậy ạ?* |
+| **大垣** | 「その通りです。」 <br/>*Đúng vậy.* |
+| **ズン** | 「**②ご<ruby>不便<rt>ふべん</rt></ruby>をおかけし<ruby>誠<rt>まこと</rt></ruby>に申し訳ございません**。**③具体的な金額の<ruby>差異<rt>さい</rt></ruby>を確認の上、本日18時までに<ruby>第一報<rt>だいいっぽう</rt></ruby>、明日12時までに正式な対応案をご回答**いたします。**詳細**: 請求書番号と差異金額をご<ruby>共有<rt>きょうゆう</rt></ruby>いただけますでしょうか【2】。」 <br/>*[2] Em thực sự xin lỗi vì sự bất tiện ạ. [3] Sau khi xác minh chênh lệch cụ thể, em sẽ báo cáo đầu trước 18h hôm nay, reply chính thức trước 12h ngày mai ạ. Chi tiết: anh chia sẻ giúp em số invoice và số tiền chênh ạ?* |
+| **大垣** | 「請求書番号 INV-2026-04-031、<ruby>当方<rt>とうほう</rt></ruby>計算では¥850,000、<ruby>貴社<rt>きしゃ</rt></ruby>請求は ¥920,000。」 <br/>*Invoice số INV-2026-04-031, bên tôi tính ¥850,000, bên em ghi ¥920,000.* |
+| **ズン** | 「@フオン副部長 @ロアン経理部長 大垣様クレーム<ruby>入電<rt>にゅうでん</rt></ruby>。請求書 INV-2026-04-031 金額差異 ¥70,000。本日18時まで第一報、明日12時まで正式回答お約束<ruby>済<rt>ず</rt></ruby>【3】。」 <br/>*(Sau cúp máy, Slack) @chị Hương @chị Loan anh Ōgaki gọi khiếu nại. Invoice INV-2026-04-031 chênh ¥70,000. Em đã hứa: báo cáo đầu trước 18h hôm nay, reply chính thức trước 12h ngày mai ạ.* |
+| **フオン** | 「ロアンさん、経理ログ確認お願いします。ズン、私とロアンで11:30から確認会議。第一報ドラフトはズンが作成。」 <br/>*Chị Loan, em check log kế toán giúp. Dũng, chị và chị Loan họp xác minh từ 11:30. Draft báo cáo đầu Dũng viết.* |
+| **ズン** | 「大垣様、第一報のご報告です。経理にて確認の結果、**INV-2026-04-031 で ¥70,000 の<ruby>超過<rt>ちょうか</rt></ruby><ruby>記載<rt>きさい</rt></ruby>**が<ruby>判明<rt>はんめい</rt></ruby>いたしました。原因はシステム<ruby>集計<rt>しゅうけい</rt></ruby>時の<ruby>重複計上<rt>ちょうふくけいじょう</rt></ruby>です【4】。**<ruby>訂正<rt>ていせい</rt></ruby>請求書を明日 12時までにお送り**するとともに、<ruby>再発防止策<rt>さいはつぼうしさく</rt></ruby>については Post-mortem レポートにて 48時間以内にご報告申し上げます。先ほどはお電話にて失礼いたしました。ご不便をおかけし誠に申し訳ございません。<ruby>重<rt>かさ</rt></ruby>ねてお<ruby>詫<rt>わ</rt></ruby>び申し上げます【5】。」 <br/>*(17:30, mail) Anh Ōgaki, em xin báo cáo đầu ạ. Sau khi kế toán xác minh, INV-2026-04-031 ghi thừa ¥70,000 ạ. Nguyên nhân: tính trùng khi hệ thống tổng hợp. Em sẽ gửi hóa đơn đính chính trước 12h ngày mai, cùng với báo cáo phân tích sau sự cố về biện pháp ngăn tái phát trong 48 giờ ạ. Vừa rồi em đã thất lễ qua điện thoại. Em thực sự xin lỗi vì sự bất tiện ạ. Em xin lỗi anh thêm lần nữa ạ.* |
 
-📝 **Ghi chú:**
+ **Ghi chú:**
 - 【1】**「①ご認識合っておりますでしょうか」** — lặp lại để xác nhận hiểu đúng. Xác lập nền thông tin, không lao vào biện hộ.
 - 【2】**「②③ご不便… + 第一報時刻 + 正式回答時刻」** — không nhận lỗi cụ thể khi chưa xác minh, nhưng xin lỗi cho 「ご不便」(sự bất tiện). Hứa 2 mốc thời gian.
 - 【3】**Báo lên Hương + Loan** ngay sau cuộc gọi — không 1 mình, không qua đêm.
 - 【4】**Thông tin đã xác minh** — sau khi kiểm tra log mới khẳng định "¥70,000 の超過記載" + nguyên nhân.
-- 【5】**Post-mortem 48h** — cũng giống sự cố, khách Nhật mong giải pháp ngăn tái phát.
+- 【5】**Phân tích sau sự cố 48h** — cũng giống sự cố, khách Nhật mong giải pháp ngăn tái phát.
 
 ---
 
-## 🎯 Công thức 4 bước
+## Công thức 4 bước
 
 ```
 ① 傾聴 + 復唱       「〇〇とのご認識でお間違いないでしょうか」
@@ -78,31 +65,31 @@ Sáng thứ Tư 11:00. Anh Ōgaki (Sales Director Hakuō) gọi điện anh Dũn
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「クレーム対応 = <ruby>傾聴<rt>けいちょう</rt></ruby><ruby>復唱<rt>ふくしょう</rt></ruby> → <ruby>仮謝罪<rt>かりしゃざい</rt></ruby> → <ruby>期限<rt>きげん</rt></ruby><ruby>付<rt>つ</rt></ruby>き<ruby>検証<rt>けんしょう</rt></ruby>約束 → 正式回答 + Post-mortem。<ruby>否定<rt>ひてい</rt></ruby>・<ruby>推測<rt>すいそく</rt></ruby>・即約束はNG。」**
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - 「そんなはずない」「たぶん」 — phản bác / suy đoán, mất uy tín.
 - 「すぐ直します」 mà chưa xác minh — lời hứa hão thứ hai.
 - 1 mình ôm khiếu nại của Sales Director — phải báo lên Hương + Loan ngay.
-- Bỏ Post-mortem report → khách không thấy hệ thống đã sửa từ gốc.
+- Bỏ báo cáo phân tích sau sự cố → khách không thấy hệ thống đã sửa từ gốc.
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| クレーム | claim | Khiếu nại / phàn nàn |
-| 傾聴 | けいちょう | Lắng nghe (chủ động) |
-| 復唱 | ふくしょう | Lặp lại để xác nhận |
-| 仮謝罪 | かりしゃざい | Xin lỗi tạm (chưa nhận lỗi cụ thể) |
-| 検証 | けんしょう | Verify / xác minh |
-| 訂正 | ていせい | Đính chính / sửa |
-| 再発防止 | さいはつぼうし | Ngăn tái phát |
-| 重複計上 | ちょうふくけいじょう | Tính trùng |
-| ご不便 | ごふべん | Sự bất tiện (kính ngữ) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|-------|-------|
+| クレーム | くれーむ | — | Khiếu nại / phàn nàn |
+| 傾聴 | けいちょう | KHUYNH THÍNH | Lắng nghe (chủ động) |
+| 復唱 | ふくしょう | PHỤC XƯỚNG | Lặp lại để xác nhận |
+| 仮謝罪 | かりしゃざい | GIẢ TẠ TỘI | Xin lỗi tạm (chưa nhận lỗi cụ thể) |
+| 検証 | けんしょう | KIỂM CHỨNG | Verify / xác minh |
+| 訂正 | ていせい | ĐÍNH CHÍNH | Đính chính / sửa |
+| 再発防止 | さいはつぼうし | TÁI PHÁT PHÒNG CHỈ | Ngăn tái phát |
+| 重複計上 | ちょうふくけいじょう | TRÙNG PHỨC KẾ THƯỢNG | Tính trùng |
+| ご不便 | ごふべん | — | Sự bất tiện (kính ngữ) |

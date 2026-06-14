@@ -14,33 +14,29 @@ Em Dũng cần tham vấn anh Matsumoto về việc nên dùng 線形 (linear) h
 
 ---
 
-## ❌ Hội thoại XẤU — sắc thái nội bộ với khách
+## Hội thoại XẤU — sắc thái nội bộ với khách
 
 *Slack DM*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「<ruby>松本<rt>まつもと</rt></ruby>様、UAT のやり方なんですけど、<ruby>線形<rt>せんけい</rt></ruby>でやるか<ruby>段階的<rt>だんかいてき</rt></ruby>でやるかちょっと<ruby>相談<rt>そうだん</rt></ruby>したくて…」 |
-|  | *Anh Matsumoto, vụ cách làm UAT, linear hay incremental, em muốn hỏi chút...* |
-| **松本PM** | 「ズンさん、『ちょっと相談したくて…』は<ruby>文末<rt>ぶんまつ</rt></ruby>を切る<ruby>不完全文<rt>ふかんぜんぶん</rt></ruby>で、<ruby>客先<rt>きゃくさき</rt></ruby>ではかなり<ruby>失礼<rt>しつれい</rt></ruby>に<ruby>当<rt>あ</rt></ruby>たります。それに、何を<ruby>判断材料<rt>はんだんざいりょう</rt></ruby>にすべきかも示されていないと、こちらも答えようがありません。」 |
-|  | *Dũng, 「ちょっと相談したくて…」 là câu cắt giữa chừng, không hoàn chỉnh, với khách thì khá thất lễ. Hơn nữa, nếu không nêu rõ cần xét theo dữ kiện gì thì tôi cũng không trả lời được.* |
-| **ズン** | 「すみません…」 |
-|  | *Em xin lỗi ạ...* |
-| **松本PM** | 「<ruby>客先<rt>きゃくさき</rt></ruby><ruby>相談<rt>そうだん</rt></ruby>は<ruby>形式<rt>けいしき</rt></ruby>が違います。『ご相談させていただけますでしょうか』+ <ruby>焦点<rt>しょうてん</rt></ruby> + <ruby>希望<rt>きぼう</rt></ruby><ruby>時間<rt>じかん</rt></ruby>で。」 |
-|  | *Tham vấn với khách thì format khác. 「ご相談させていただけますでしょうか」 + tiêu điểm + thời gian mong muốn.* |
+| **ズン** | 「<ruby>松本<rt>まつもと</rt></ruby>様、UAT のやり方なんですけど、<ruby>線形<rt>せんけい</rt></ruby>でやるか<ruby>段階的<rt>だんかいてき</rt></ruby>でやるかちょっと<ruby>相談<rt>そうだん</rt></ruby>したくて…」 <br/>*Anh Matsumoto, vụ cách làm UAT, linear hay incremental, em muốn hỏi chút...* |
+| **松本PM** | 「ズンさん、『ちょっと相談したくて…』は<ruby>文末<rt>ぶんまつ</rt></ruby>を切る<ruby>不完全文<rt>ふかんぜんぶん</rt></ruby>で、<ruby>客先<rt>きゃくさき</rt></ruby>ではかなり<ruby>失礼<rt>しつれい</rt></ruby>に<ruby>当<rt>あ</rt></ruby>たります。それに、何を<ruby>判断材料<rt>はんだんざいりょう</rt></ruby>にすべきかも示されていないと、こちらも答えようがありません。」 <br/>*Dũng, 「ちょっと相談したくて…」 là câu cắt giữa chừng, không hoàn chỉnh, với khách thì khá thất lễ. Hơn nữa, nếu không nêu rõ cần xét theo dữ kiện gì thì tôi cũng không trả lời được.* |
+| **ズン** | 「すみません…」 <br/>*Em xin lỗi ạ...* |
+| **松本PM** | 「<ruby>客先<rt>きゃくさき</rt></ruby><ruby>相談<rt>そうだん</rt></ruby>は<ruby>形式<rt>けいしき</rt></ruby>が違います。『ご相談させていただけますでしょうか』+ <ruby>焦点<rt>しょうてん</rt></ruby> + <ruby>希望<rt>きぼう</rt></ruby><ruby>時間<rt>じかん</rt></ruby>で。」 <br/>*Tham vấn với khách thì format khác. 「ご相談させていただけますでしょうか」 + tiêu điểm + thời gian mong muốn.* |
 
 **Vì sao xấu:** L1 「ちょっと相談したくて…」 cắt câu giữa chừng = lỗi lễ nghi nghiêm trọng (mức học sinh) khi nói với khách Nhật. Thêm vào đó, giọng suồng sã (đồng nghiệp Việt-Việt thì được, khách Nhật thì KHÔNG). Không có phạm vi, không có thời gian. L4 chỉ ra: sắc thái với khách phải khác.
 
 ---
 
-## ✅ Hội thoại TỐT — sắc thái trang trọng với khách
+## Hội thoại TỐT — sắc thái trang trọng với khách
 
 | Vai | Câu |
 |---------|-----|
-| **L1** | **ズン** *(メール)* | 「<ruby>松本<rt>まつもと</rt></ruby>様、お世話になっております。ティエンファットのズンでございます。  
-  **件名:【ご<ruby>相談<rt>そうだん</rt></ruby>】Phase 2 UAT 進め方について**  
-  Phase 2 の UAT を進めるにあたり、**<ruby>線形<rt>せんけい</rt></ruby>(<ruby>全機能<rt>ぜんきのう</rt></ruby><ruby>一括<rt>いっかつ</rt></ruby>)** か **<ruby>段階的<rt>だんかいてき</rt></ruby>(<ruby>機能毎<rt>きのうごと</rt></ruby>リリース)** かで<ruby>方針<rt>ほうしん</rt></ruby>を絞りきれず、**ご<ruby>相談<rt>そうだん</rt></ruby>させていただけますでしょうか**【1】。  
-  特にお<ruby>伺<rt>うかが</rt></ruby>いしたいのは、**<ruby>御社<rt>おんしゃ</rt></ruby><ruby>運用<rt>うんよう</rt></ruby>チームの<ruby>検証<rt>けんしょう</rt></ruby>リソース<ruby>確保<rt>かくほ</rt></ruby>のしやすさ**でございます【2】。  
+| **L1** | **ズン** *(メール)* | 「<ruby>松本<rt>まつもと</rt></ruby>様、お世話になっております。ティエンファットのズンでございます。
+  **件名:【ご<ruby>相談<rt>そうだん</rt></ruby>】Phase 2 UAT 進め方について**
+  Phase 2 の UAT を進めるにあたり、**<ruby>線形<rt>せんけい</rt></ruby>(<ruby>全機能<rt>ぜんきのう</rt></ruby><ruby>一括<rt>いっかつ</rt></ruby>)** か **<ruby>段階的<rt>だんかいてき</rt></ruby>(<ruby>機能毎<rt>きのうごと</rt></ruby>リリース)** かで<ruby>方針<rt>ほうしん</rt></ruby>を絞りきれず、**ご<ruby>相談<rt>そうだん</rt></ruby>させていただけますでしょうか**【1】。
+  特にお<ruby>伺<rt>うかが</rt></ruby>いしたいのは、**<ruby>御社<rt>おんしゃ</rt></ruby><ruby>運用<rt>うんよう</rt></ruby>チームの<ruby>検証<rt>けんしょう</rt></ruby>リソース<ruby>確保<rt>かくほ</rt></ruby>のしやすさ**でございます【2】。
   ご<ruby>都合<rt>つごう</rt></ruby>よろしい時に **15分ほどお時間<ruby>頂戴<rt>ちょうだい</rt></ruby>できますと<ruby>幸甚<rt>こうじん</rt></ruby>**です。今週<ruby>後半<rt>こうはん</rt></ruby> (4/24木 PM ~ 4/26土) のうち、ご都合の良い<ruby>候補<rt>こうほ</rt></ruby>を3つお知らせいただけますと<ruby>幸<rt>さいわ</rt></ruby>いです【3】。」 |
 |  |  | *Anh Matsumoto, em xin chào. Em Dũng bên Thiên Phát đây ạ. [Tiêu đề] [Tham vấn] Về cách triển khai UAT Phase 2. Khi triển khai UAT Phase 2, em đang phân vân giữa linear (toàn bộ chức năng 1 lần) và incremental (release theo chức năng), em xin được tham vấn anh ạ. Đặc biệt em muốn hỏi về độ thuận tiện trong việc bố trí resource kiểm thử của team vận hành bên anh ạ. Anh dành cho em 15 phút khi nào tiện ạ. Trong nửa cuối tuần này (24/4 thứ Năm chiều - 26/4 thứ Bảy), phiền anh báo giúp em 3 lựa chọn thuận tiện ạ.* |
 | **L2** | **松本PM** *(返信)* | 「ご丁寧にありがとうございます。4/24 (木) 15:00 JST で30分いかがでしょうか。<ruby>当方<rt>とうほう</rt></ruby>からも<ruby>運用<rt>うんよう</rt></ruby>チームの<ruby>実情<rt>じつじょう</rt></ruby>をお話しします。」 |
@@ -48,7 +44,7 @@ Em Dũng cần tham vấn anh Matsumoto về việc nên dùng 線形 (linear) h
 | **L3** | **ズン** *(会議で)* | 「<ruby>松本<rt>まつもと</rt></ruby>様、本日はお時間<ruby>頂戴<rt>ちょうだい</rt></ruby>し<ruby>誠<rt>まこと</rt></ruby>にありがとうございます。それでは、UAT 進め方についてご<ruby>相談<rt>そうだん</rt></ruby>させていただきます【4】。」 |
 |  |  | *Anh Matsumoto, em cảm ơn anh đã dành thời gian hôm nay ạ. Vậy em xin phép tham vấn về cách triển khai UAT ạ.* |
 
-📝 **Ghi chú:**
+ **Ghi chú:**
 - 【1】**「ご相談させていただけますでしょうか」** — câu vàng khi tham vấn với khách. Khiêm nhường tối đa. Không "相談したい".
 - 【2】**Phạm vi cụ thể** — không hỏi rộng "anh nghĩ sao về UAT" mà tập trung vào 1 điểm (運用リソース). Khách dễ trả lời + chuẩn bị trước.
 - 【3】**Khung thời gian + 候補3つお知らせいただける** — không ép giờ, hỏi 3 lựa chọn của KHÁCH (không phải gửi 3 lựa chọn của mình như khi dời lịch). Trang trọng cao.
@@ -56,7 +52,7 @@ Em Dũng cần tham vấn anh Matsumoto về việc nên dùng 線形 (linear) h
 
 ---
 
-## 🎯 Khác biệt nội bộ vs với khách
+## Khác biệt nội bộ vs với khách
 
 | Yếu tố | Nội bộ (rule 24) | Với khách (rule 29) |
 |--------|---------------------|---------------------------|
@@ -68,13 +64,13 @@ Em Dũng cần tham vấn anh Matsumoto về việc nên dùng 線形 (linear) h
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「ご相談させていただけますでしょうか + 焦点1つ + ご都合の良い候補をお知らせください」 = bộ 3 yếu tố khi tham vấn với khách.**
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - 「ちょっと相談…」「相談したい」 với khách — quá suồng sã.
 - Câu hỏi rộng kiểu 「全体的にどう思われますか?」 — khách không biết tập trung vào đâu.
@@ -83,15 +79,15 @@ Em Dũng cần tham vấn anh Matsumoto về việc nên dùng 線形 (linear) h
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 客先 | きゃくさき | Phía khách |
-| ご相談 | ごそうだん | Tham vấn (kính ngữ) |
-| ご教示 | ごきょうじ | Xin chỉ giáo |
-| 幸甚 | こうじん | Hết sức cảm ơn (trang trọng cao) |
-| 線形 | せんけい | Tuyến tính |
-| 段階的 | だんかいてき | Theo giai đoạn |
-| 検証リソース | けんしょうリソース | Nguồn lực kiểm thử |
-| 焦点 | しょうてん | Tiêu điểm |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|-------|-------|
+| 客先 | きゃくさき | KHÁCH TIÊN | Phía khách |
+| ご相談 | ごそうだん | — | Tham vấn (kính ngữ) |
+| ご教示 | ごきょうじ | — | Xin chỉ giáo |
+| 幸甚 | こうじん | HẠNH THẬM | Hết sức cảm ơn (trang trọng cao) |
+| 線形 | せんけい | TUYẾN HÌNH | Tuyến tính |
+| 段階的 | だんかいてき | ĐOẠN GIAI ĐÍCH | Theo giai đoạn |
+| 検証リソース | けんしょうりそーす | KIỂM CHỨNG | Nguồn lực kiểm thử |
+| 焦点 | しょうてん | TIÊU ĐIỂM | Tiêu điểm |

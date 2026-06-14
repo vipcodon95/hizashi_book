@@ -1,13 +1,13 @@
-# Phụ lục D — Template Tổng Hợp / テンプレート集
+# Phụ lục D — Mẫu Tổng Hợp / テンプレート集
 
-*Tổng hợp các template (agenda, biên bản, mail) đính kèm trong các rules. Copy-paste để dùng.*
+*Tổng hợp các mẫu (chương trình họp, biên bản, mail) đính kèm trong các rules. Sao chép để dùng.*
 
 ---
 
 
-## Agenda họp (1 mẫu)
+## Chương trình họp (1 mẫu)
 
-### Rule 01 — Template Agenda Họp Định Kỳ (5W1H)
+### Rule 01 — Mẫu Chương Trình Họp Định Kỳ (5W1H)
 
 *JP: 月例会議アジェンダ・テンプレート（5W1H版）*
 
@@ -46,7 +46,7 @@
 [Tên họp] Họp định kỳ tháng 〇 (〇〇 × 〇〇)
 
 [Thời gian] 〇/〇/〇 (〇), 〇〇:〇〇 - 〇〇:〇〇 (giờ JST / 〇〇 phút)
-[Hình thức] 〇〇 (online / trực tiếp / hybrid)
+[Hình thức] 〇〇 (trực tuyến / trực tiếp / kết hợp)
 
 [Mục đích]
   Chia sẻ tiến độ 〇〇, thống nhất 〇〇
@@ -64,20 +64,20 @@
   1. Báo cáo 〇〇 (〇〇p) — phụ trách: 〇〇
   2. Vấn đề và phương án (〇〇p) — phụ trách: 〇〇
   3. Trao đổi 〇〇 (〇〇p) — tất cả
-  4. Confirm ngày họp tới + TODO (〇〇p) — người chủ trì
+  4. Xác nhận ngày họp tới + việc cần làm (〇〇p) — người chủ trì
 
 [Tài liệu pre-read]
   1. Báo cáo 〇〇 (chia sẻ trước 〇/〇)
   2. Phương án 〇〇 (chia sẻ trước 〇/〇)
 ```
 
-📝 **Ghi chú VN:** Template chuẩn 5W1H cho họp business. Dùng được cho cả online / hybrid / offline. Bắt buộc note JST nếu có người tham dự từ nhiều múi giờ.
-📝 **Ghi chú JP:** 5W1Hが揃った業務会議用テンプレート。ハイブリッド／オンライン／対面いずれも適用可。日時欄にJSTを明記し、複数の時差地域から参加する場合は重要。
+ **Ghi chú VN:** Mẫu chuẩn 5W1H cho họp nghiệp vụ. Dùng được cho cả trực tuyến / kết hợp / trực tiếp. Bắt buộc ghi JST nếu có người tham dự từ nhiều múi giờ.
+ **Ghi chú JP:** 5W1Hが揃った業務会議用テンプレート。ハイブリッド／オンライン／対面いずれも適用可。日時欄にJSTを明記し、複数の時差地域から参加する場合は重要。
 
 
 ## Biên bản (議事録) (2 mẫu)
 
-### Rule 45 — Template Biên Bản Họp (6 mục, chuẩn)
+### Rule 45 — Mẫu Biên Bản Họp (6 mục, chuẩn)
 
 *JP: 議事録テンプレート（6項目・標準版）*
 
@@ -126,7 +126,7 @@ Biên bản: Họp 〇〇
 ===========================================
 
 [Thời gian] 〇/〇/〇 (〇), 〇〇:〇〇 - 〇〇:〇〇 (giờ JST)
-[Nơi] 〇〇 (online / trực tiếp / hybrid)
+[Nơi] 〇〇 (trực tuyến / trực tiếp / kết hợp)
 [Người tham dự]
   Cty 〇〇: 〇〇, 〇〇
   Cty Thiên Phát: 〇〇, 〇〇, 〇〇
@@ -141,7 +141,7 @@ Biên bản: Họp 〇〇
   (1) 〇〇 — chốt theo hướng 〇〇
   (2) 〇〇 — chốt theo hướng 〇〇
 
---- TODO (việc cần làm) ---
+--- Việc cần làm ---
   (1) [Gì] — [Ai] — [Khi nào]
   (2) [Gì] — [Ai] — [Khi nào]
   (3) [Gì] — [Ai] — [Khi nào]
@@ -157,10 +157,10 @@ Biên bản: Họp 〇〇
 (Hết)
 ```
 
-📝 **Ghi chú VN:** Gửi trong 24h. Subject: 「【biên bản】〇〇会議（〇月〇日）」. Trong body ghi rõ deadline review.
-📝 **Ghi chú JP:** 24時間以内に送付。subject: 「【議事録】〇〇会議（〇月〇日）」。本文に review 期限を明記。
+ **Ghi chú VN:** Gửi trong 24h. Tiêu đề: 「【biên bản】〇〇会議（〇月〇日）」. Trong nội dung ghi rõ hạn chót duyệt.
+ **Ghi chú JP:** 24時間以内に送付。subject: 「【議事録】〇〇会議（〇月〇日）」。本文に review 期限を明記。
 
-### Rule 46 — Template Biên Bản (extended, có example data)
+### Rule 46 — Mẫu Biên Bản (mở rộng, có dữ liệu ví dụ)
 
 *JP: 議事録テンプレート（extended版・記入例つき）*
 
@@ -239,47 +239,47 @@ Biên bản: Họp 〇〇
 ■ 1. Tổng quan họp
 ------------------
 [Thời gian] 28/4/2026 (Thứ Ba), 14:00 - 16:00 (giờ JST)
-[Nơi] Zoom (online)
-[Hình thức] Hybrid
+[Nơi] Zoom (trực tuyến)
+[Hình thức] Kết hợp
 [Người tham dự]
   Cty Hakuō: anh Matsumoto PM, anh Ōgaki Trưởng phòng KD
-  Cty Thiên Phát: chị Hương Phó phòng, em Dũng (chủ trì + ghi), anh Tuấn Tech lead, anh Hà CTO
-[Vắng] chị Loan Kế toán trưởng (đã báo trước, sẽ share biên bản)
+  Cty Thiên Phát: chị Hương Phó phòng, em Dũng (chủ trì + ghi), anh Tuấn Trưởng kỹ thuật, anh Hà Giám đốc công nghệ
+[Vắng] chị Loan Kế toán trưởng (đã báo trước, sẽ gửi biên bản)
 
 ■ 2. Mục đích
 ------------------
-  Thống nhất scope phát triển và điều kiện budget của Phase 2
+  Thống nhất phạm vi phát triển và điều kiện ngân sách của Phase 2
 
 ■ 3. Chủ đề
 ------------------
-  (1) Bàn 3 phương án scope Phase 2 (A/B/C)
-  (2) Kiểm tra tính nhất quán budget - schedule
-  (3) Xem xét bố trí resource QA
+  (1) Bàn 3 phương án phạm vi Phase 2 (A/B/C)
+  (2) Kiểm tra tính nhất quán ngân sách - tiến độ
+  (3) Xem xét bố trí nhân lực kiểm thử
 
 ■ 4. Tóm tắt thảo luận
 ------------------
-  (1) Scope: thống nhất phương án A (chỉ tính năng ưu tiên cao) là khả thi. Anh Tuấn chia sẻ data Phase 1 (10.5 tuần / quy đổi 6 người).
-  (2) Budget: anh Ōgaki đề xuất giảm 20%. CTO bên ta giới hạn 10% để giữ chất lượng tech.
-  (3) QA: 2 người hiện tại chưa đủ. Sẽ bàn với kế toán về việc thêm 1 người.
+  (1) Phạm vi: thống nhất phương án A (chỉ tính năng ưu tiên cao) là khả thi. Anh Tuấn chia sẻ số liệu Phase 1 (10.5 tuần / quy đổi 6 người).
+  (2) Ngân sách: anh Ōgaki đề xuất giảm 20%. Giám đốc công nghệ bên ta giới hạn 10% để giữ chất lượng kỹ thuật.
+  (3) Kiểm thử: 2 người hiện tại chưa đủ. Sẽ bàn với kế toán về việc thêm 1 người.
 
 ■ 5. Quyết định
 ------------------
-  (1) Scope Phase 2 chốt phương án A (chỉ tính năng ưu tiên cao)
-  (2) Ngày release chốt: 31/7/2026
+  (1) Phạm vi Phase 2 chốt phương án A (chỉ tính năng ưu tiên cao)
+  (2) Ngày phát hành chốt: 31/7/2026
   (3) Người phụ trách: anh Tuấn (kỹ thuật), em Dũng (quản lý dự án)
 
-■ 6. Action items (TODO)
+■ 6. Việc cần làm
 ------------------
-  (1) Viết spec chi tiết phương án A
-     -- anh Tuấn -- deadline thứ Sáu 2/5
-  (2) Viết kế hoạch sprint dev tháng 5
-     -- em Dũng -- deadline thứ Tư 30/4
-  (3) Trả lời khả năng tăng QA
-     -- anh Ōgaki -- deadline thứ Tư 7/5
+  (1) Viết bản đặc tả chi tiết phương án A
+     -- anh Tuấn -- hạn chót thứ Sáu 2/5
+  (2) Viết kế hoạch phát triển tháng 5
+     -- em Dũng -- hạn chót thứ Tư 30/4
+  (3) Trả lời khả năng tăng nhân lực kiểm thử
+     -- anh Ōgaki -- hạn chót thứ Tư 7/5
   (4) Gửi biên bản
      -- em Dũng -- trong ngày 28/4
 
-■ 7. Item chưa quyết
+■ 7. Mục chưa quyết
 ------------------
   - Tỷ lệ giảm giá (10% / 20%): sẽ bàn lại tại họp tới
   - Chọn cloud (AWS / Azure): sẽ bàn ở buổi riêng
@@ -287,8 +287,8 @@ Biên bản: Họp 〇〇
 ■ 8. Họp lần tới
 ------------------
   Thời gian: 7/5/2026 (Thứ Tư), 15:00 - 16:00 (JST)
-  Hình thức: Zoom (online)
-  Chủ đề dự kiến: (1) Chốt tỷ lệ giảm giá (2) Chốt resource QA (3) Chọn cloud
+  Hình thức: Zoom (trực tuyến)
+  Chủ đề dự kiến: (1) Chốt tỷ lệ giảm giá (2) Chốt nhân lực kiểm thử (3) Chọn nền tảng điện toán đám mây
 
 ===========================================
 (Hết)
@@ -296,13 +296,13 @@ Lập 28/4/2026 18:30 — em Dũng (ghi)
 ===========================================
 ```
 
-📝 **Ghi chú VN:** Extended format: dùng cho họp đàm phán hợp đồng / quyết định quan trọng cần evidence. Phải fill đủ 8 element. Bắt buộc note chưa quyết事項 và phải resolve trước họp lần tới.
-📝 **Ghi chú JP:** extended フォーマット：契約交渉・重要決議など証憑性が要求される会議に使用。8要素全て埋めること。未決事項を必ず明記し、次回までに決着させる。
+ **Ghi chú VN:** Định dạng mở rộng: dùng cho họp đàm phán hợp đồng / quyết định quan trọng cần bằng chứng. Phải điền đủ 8 thành phần. Bắt buộc ghi rõ mục chưa quyết và phải giải quyết trước họp lần tới.
+ **Ghi chú JP:** extended フォーマット：契約交渉・重要決議など証憑性が要求される会議に使用。8要素全て埋めること。未決事項を必ず明記し、次回までに決着させる。
 
 
 ## Email mời họp (1 mẫu)
 
-### Rule 02 — Template Email Mời Họp
+### Rule 02 — Mẫu Email Mời Họp
 
 *JP: 会議招待メール・テンプレート*
 
@@ -338,7 +338,7 @@ Lập 28/4/2026 18:30 — em Dũng (ghi)
 **Bản Việt placeholder:**
 
 ```
-[Subject] [Mời họp] Họp 〇〇 (〇/〇 〇〇:〇〇-〇〇:〇〇 JST)
+[Tiêu đề] [Mời họp] Họp 〇〇 (〇/〇 〇〇:〇〇-〇〇:〇〇 JST)
 
 [Kính gửi anh/chị 〇〇]
 (CC: anh/chị 〇〇)
@@ -350,11 +350,11 @@ Em xin trân trọng thông báo về buổi họp 〇〇 như dưới đây ạ
 
 ----------------------
 [Thời gian] 〇/〇/〇 (〇), 〇〇:〇〇-〇〇:〇〇 (giờ JST)
-[Hình thức] 〇〇 (link: https://...)
+[Hình thức] 〇〇 (đường dẫn: https://...)
 [Mục đích] 1. 〇〇
            2. 〇〇
-[Agenda] Xem file đính kèm
-[Tài liệu pre-read] Sẽ chia sẻ trước 〇/〇
+[Chương trình họp] Xem file đính kèm
+[Tài liệu đọc trước] Sẽ chia sẻ trước 〇/〇
 ----------------------
 
 Phiền anh/chị phản hồi giúp em việc tham dự trước 〇〇h ngày 〇/〇 ạ.
@@ -366,13 +366,13 @@ Thiên Phát — Phòng 〇〇
 〇〇 (〇〇)
 ```
 
-📝 **Ghi chú VN:** Subject phải có tên họp + thời gian. Chỉ đọc subject là khách biết được priority và ngày. CC không được sót decision maker.
-📝 **Ghi chú JP:** 件名は会議名＋日時を必ず入れる。件名だけで priority と日付が分かるようにする。CC欄は意思決定者を漏らさず入れる。
+ **Ghi chú VN:** Tiêu đề phải có tên họp + thời gian. Chỉ đọc tiêu đề là khách biết được độ ưu tiên và ngày. CC không được sót người ra quyết định.
+ **Ghi chú JP:** 件名は会議名＋日時を必ず入れる。件名だけで priority と日付が分かるようにする。CC欄は意思決定者を漏らさず入れる。
 
 
-## Email follow-up (1 mẫu)
+## Email cảm ơn sau họp (1 mẫu)
 
-### Rule 47 — Template Email Cảm Ơn Sau Họp
+### Rule 47 — Mẫu Email Cảm Ơn Sau Họp
 
 *JP: 会議後お礼メール・テンプレート*
 
@@ -409,7 +409,7 @@ E-mail: 〇〇
 **Bản Việt placeholder:**
 
 ```
-[Subject] Cảm ơn: Buổi họp 〇/〇
+[Tiêu đề] Cảm ơn: Buổi họp 〇/〇
 
 [Kính gửi anh/chị 〇〇]
 (CC: anh/chị 〇〇)
@@ -438,13 +438,13 @@ TEL: 〇〇
 E-mail: 〇〇
 ```
 
-📝 **Ghi chú VN:** Thank-you mail GỬI RIÊNG, khác biên bản. Ngắn (150-200 chữ JP), tone ấm. Có 3 takeaway → signal 'tôi nghe kỹ'. Bắt buộc kèm next action + deadline.
-📝 **Ghi chú JP:** お礼メールは議事録とは別送。短く（150-200字）、温かいトーン。3つの key takeaway を含めることで「ちゃんと聞いていた」signal を送る。次のアクション+期限も必須。
+ **Ghi chú VN:** Mail cảm ơn GỬI RIÊNG, khác biên bản. Ngắn (150-200 chữ JP), giọng ấm. Có 3 điểm chính rút ra → cho thấy 'tôi nghe kỹ'. Bắt buộc kèm hành động tiếp theo + hạn chót.
+ **Ghi chú JP:** お礼メールは議事録とは別送。短く（150-200字）、温かいトーン。3つの key takeaway を含めることで「ちゃんと聞いていた」signal を送る。次のアクション+期限も必須。
 
 
-## Checklist (3 mẫu)
+## Danh sách kiểm tra (3 mẫu)
 
-### Rule 03 — Checklist Chuẩn Bị Phòng Họp
+### Rule 03 — Danh Sách Kiểm Tra Chuẩn Bị Phòng Họp
 
 *JP: 会議室セットアップ・チェックリスト*
 
@@ -472,7 +472,7 @@ E-mail: 〇〇
 **Bản Việt placeholder:**
 
 ```
-[Checklist Chuẩn Bị Phòng Họp - hoàn thành trước 17h hôm trước]
+[Danh Sách Kiểm Tra Chuẩn Bị Phòng Họp - hoàn thành trước 17h hôm trước]
 
 [ ] 1. Confirm đặt phòng (cho dôi 2 ghế so với số người)
 [ ] 2. Test projector (cắm thực tế)
@@ -492,10 +492,10 @@ E-mail: 〇〇
 [ ] Biển hướng dẫn ở cửa
 ```
 
-📝 **Ghi chú VN:** Lý tưởng là xong trước 17h hôm trước. Hôm họp có sub-checklist riêng để check lại 10 phút trước.
-📝 **Ghi chú JP:** 前日17時までに完了するのが理想。当日10分前に最終確認のサブチェックリストを別建てで実施する。
+ **Ghi chú VN:** Lý tưởng là xong trước 17h hôm trước. Hôm họp có danh sách phụ riêng để kiểm tra lại 10 phút trước.
+ **Ghi chú JP:** 前日17時までに完了するのが理想。当日10分前に最終確認のサブチェックリストを別建てで実施する。
 
-### Rule 04 — Checklist Cài Đặt Họp Online
+### Rule 04 — Danh Sách Kiểm Tra Cài Đặt Họp Trực Tuyến
 
 *JP: オンライン会議セットアップ・チェックリスト*
 
@@ -523,30 +523,30 @@ E-mail: 〇〇
 **Bản Việt placeholder:**
 
 ```
-[Checklist Cài Đặt Họp Online - xong 30 phút trước]
+[Danh Sách Kiểm Tra Cài Đặt Họp Trực Tuyến - xong 30 phút trước]
 
-[ ] 1. Phát link + check hạn dùng
-[ ] 2. Test audio (cả mic và speaker)
-[ ] 3. Test share screen (tài liệu + demo)
-[ ] 4. Background (virtual hoặc dọn gọn phía sau)
-[ ] 5. Sẵn ý định xin phép recording đầu họp
+[ ] 1. Phát đường dẫn + kiểm tra hạn dùng
+[ ] 2. Test âm thanh (cả mic và loa)
+[ ] 3. Test chia sẻ màn hình (tài liệu + demo)
+[ ] 4. Phông nền (nền ảo hoặc dọn gọn phía sau)
+[ ] 5. Sẵn ý định xin phép ghi hình đầu họp
 [ ] 6. Kênh liên lạc dự phòng (số đt / chat ID)
-[ ] 7. Confirm tài liệu đã gửi trước
-[ ] 8. Set host / co-host
-[ ] 9. Nơi save recording (Drive / Notion)
-[ ] 10. Bật Waiting Room
+[ ] 7. Xác nhận tài liệu đã gửi trước
+[ ] 8. Cài người chủ trì / chủ trì phụ
+[ ] 9. Nơi lưu bản ghi hình (Drive / Notion)
+[ ] 10. Bật phòng chờ
 
-[Check lại 15 phút trước]
-[ ] Re-login
-[ ] Cắm headset
-[ ] Tắt notification (mail / Slack)
+[Kiểm tra lại 15 phút trước]
+[ ] Đăng nhập lại
+[ ] Cắm tai nghe
+[ ] Tắt thông báo (mail / Slack)
 [ ] Chuẩn bị nước uống
 ```
 
-📝 **Ghi chú VN:** Link kiểu 'one-time' phải phát mới mỗi buổi. Recording bắt buộc xin phép đầu họp.
-📝 **Ghi chú JP:** リンクは「ワンタイム」設定の場合再発行が必要。録画は必ず冒頭で許可を取る。
+ **Ghi chú VN:** Đường dẫn kiểu 'một lần dùng' phải phát mới mỗi buổi. Ghi hình bắt buộc xin phép đầu họp.
+ **Ghi chú JP:** リンクは「ワンタイム」設定の場合再発行が必要。録画は必ず冒頭で許可を取る。
 
-### Rule 50 — Checklist Self-Review Họp (10 items / tuần)
+### Rule 50 — Danh Sách Tự Kiểm Tra Kỹ Năng Họp (10 mục / tuần)
 
 *JP: 会議スキル週次振り返りチェックリスト（10項目）*
 
@@ -588,19 +588,19 @@ E-mail: 〇〇
  【スコア】 〇 / 10
 ----------------------------
 
-✅ 今週うまくいったこと：
+ 今週うまくいったこと：
   - 〇〇
   - 〇〇
 
-⚠ 改善が必要な点（最大2つ）：
+ 改善が必要な点（最大2つ）：
   1. 〇〇
   2. 〇〇
 
-🎯 来週試すこと（1〜2点）：
+ 来週試すこと（1〜2点）：
   - 〇〇
   - 〇〇
 
-📝 メモ・気づき：
+ メモ・気づき：
   - 〇〇
 
 ===========================================
@@ -612,55 +612,55 @@ E-mail: 〇〇
 
 ```
 ===========================================
-Self-review kỹ năng họp — Week 〇〇 (〇/〇 - 〇/〇)
+Tự kiểm tra kỹ năng họp — Tuần 〇〇 (〇/〇 - 〇/〇)
 ===========================================
 
 ■ Số họp tuần này: 〇
-  Breakdown: định kỳ 〇 / đàm phán 〇 / 1on1 〇 / khẩn 〇
+  Phân loại: định kỳ 〇 / đàm phán 〇 / 1on1 〇 / khẩn 〇
 
 ----------------------------
- A. Chuẩn bị (Preparation)
+ A. Chuẩn bị
 ----------------------------
-  □ 1. Gửi agenda ≥ 24h trước?
-  □ 2. Share pre-read ≥ 24h trước?
+  □ 1. Gửi chương trình họp ≥ 24h trước?
+  □ 2. Chia sẻ tài liệu đọc trước ≥ 24h?
   □ 3. Thống nhất nội bộ trước họp?
 
 ----------------------------
- B. Tiến hành (Facilitation)
+ B. Tiến hành
 ----------------------------
   □ 4. Bắt đầu đúng giờ?
   □ 5. Lắng nghe ý kiến mọi người (kể cả nhân viên trẻ)?
-  □ 6. Giữ time-box mỗi item?
+  □ 6. Giữ giới hạn thời gian mỗi mục?
 
 ----------------------------
- C. Tham gia (Participation)
+ C. Tham gia
 ----------------------------
-  □ 7. Dùng cushion (「ご意見はよく分かりました」 etc.) trước khi phản đối?
-  □ 8. Tóm tắt + confirm hiểu đúng (「〜という認識でよろしいでしょうか」)?
+  □ 7. Dùng câu đệm (「ご意見はよく分かりました」 v.v.) trước khi phản đối?
+  □ 8. Tóm tắt + xác nhận hiểu đúng (「〜という認識でよろしいでしょうか」)?
 
 ----------------------------
- D. Kết thúc (Closing)
+ D. Kết thúc
 ----------------------------
-  □ 9. Confirm việc cần làm với Who/What/When?
+  □ 9. Xác nhận việc cần làm với Ai/Gì/Khi nào?
   □ 10. Gửi biên bản trong 24h?
 
 ----------------------------
- [Score]: 〇 / 10
+ [Điểm]: 〇 / 10
 ----------------------------
 
-✅ Đã làm tốt tuần này:
+ Đã làm tốt tuần này:
   - 〇〇
   - 〇〇
 
-⚠ Cần cải thiện (max 2 điểm):
+ Cần cải thiện (tối đa 2 điểm):
   1. 〇〇
   2. 〇〇
 
-🎯 Tuần sau sẽ thử (1-2 điểm):
+ Tuần sau sẽ thử (1-2 điểm):
   - 〇〇
   - 〇〇
 
-📝 Note / nhận xét:
+ Nhận xét:
   - 〇〇
 
 ===========================================
@@ -668,8 +668,8 @@ Ngày ghi: 〇/〇/〇 (Thứ Sáu)
 ===========================================
 ```
 
-📝 **Ghi chú VN:** Mỗi chiều thứ Sáu (~5pm) dành 15 phút điền. Score xu hướng quan trọng hơn giá trị tuyệt đối. Commit cải tiến giới hạn 1-2 điểm (nhiều quá không giữ được). Cuối tháng review 4 tuần để thấy pattern.
-📝 **Ghi chú JP:** 毎週金曜午後（5pm前後）の15分で記入。スコアは絶対値より推移が重要。改善コミットは1〜2点に絞ること（多すぎると守れない）。月末に4週分を見直して傾向を把握。
+ **Ghi chú VN:** Mỗi chiều thứ Sáu (~17h) dành 15 phút điền. Xu hướng điểm quan trọng hơn giá trị tuyệt đối. Cam kết cải tiến giới hạn 1-2 điểm (nhiều quá không giữ được). Cuối tháng nhìn lại 4 tuần để thấy xu hướng.
+ **Ghi chú JP:** 毎週金曜午後（5pm前後）の15分で記入。スコアは絶対値より推移が重要。改善コミットは1〜2点に絞ること（多すぎると守れない）。月末に4週分を見直して傾向を把握。
 
 
-**Tổng template:** 8
+**Tổng số mẫu:** 8

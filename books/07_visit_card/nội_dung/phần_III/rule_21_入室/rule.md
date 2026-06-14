@@ -14,50 +14,38 @@
 
 ---
 
-## ❌ Hội thoại XẤU — không gõ + quay lưng đóng cửa
+## Hội thoại XẤU — không gõ + quay lưng đóng cửa
 
 *đến cửa, mở thẳng · đẩy cửa vào ngay, không cúi chào · theo sau, không gõ, im lặng vào · quay lưng lại, đóng cửa rầm · thoáng thái độ, im lặng nhận xét*
 
 | Vai | Câu |
 |---------|-----|
-| **田中PMO** | 「どうぞ。」 |
-|  | *Mời vào.* |
-| **トゥアン** | 「Hi、皆さん〜」 |
-|  | *Hi, mọi người~* |
+| **田中PMO** | 「どうぞ。」 <br/>*Mời vào.* |
+| **トゥアン** | 「Hi、皆さん〜」 <br/>*Hi, mọi người~* |
 | **ズン** | *(im lặng)* |
-| **トゥアン** | *(<ruby>背中<rt>せなか</rt></ruby>を<ruby>向<rt>む</rt></ruby>けてドアをBANG<ruby>音<rt>おん</rt></ruby>で<ruby>閉<rt>し</rt></ruby>める)* |
-|  | *(quay lưng đóng cửa "BANG")* |
-| **中村CFO** | *(<ruby>無言<rt>むごん</rt></ruby>、<ruby>表情<rt>ひょうじょう</rt></ruby>にわずかな<ruby>曇<rt>くも</rt></ruby>り)* |
-|  | *(im lặng, mặt thoáng nhíu)* |
+| **トゥアン** | *(<ruby>背中<rt>せなか</rt></ruby>を<ruby>向<rt>む</rt></ruby>けてドアをBANG<ruby>音<rt>おん</rt></ruby>で<ruby>閉<rt>し</rt></ruby>める)* <br/>*(quay lưng đóng cửa "BANG")* |
+| **中村CFO** | *(<ruby>無言<rt>むごん</rt></ruby>、<ruby>表情<rt>ひょうじょう</rt></ruby>にわずかな<ruby>曇<rt>くも</rt></ruby>り)* <br/>*(im lặng, mặt thoáng nhíu)* |
 
 **Vì sao xấu:** (1) Không gõ cửa = "đột nhập". (2) "Hi" + suồng sã = sai mức trang trọng. (3) Không cúi chào tại ngưỡng = thiếu lời chào. (4) Quay lưng đóng cửa = lưng về phía Nakamura (vô lễ) + đóng "BANG" = thiếu tinh tế.
 
 ---
 
-## ✅ Hội thoại TỐT — 4 bước nghi lễ
+## Hội thoại TỐT — 4 bước nghi lễ
 
 *đến cửa · gõ 2 lần nhẹ, đợi 2 giây · từ trong · mở cửa, đứng tại ngưỡng, cúi chào 15° · theo sau, cúi chào 15°, vào trong · đóng cửa: xoay 1/4 chứ KHÔNG quay lưng, tay sau lưng đẩy nhẹ cửa · bước đến gần bàn, cúi chào 30°*
 
 | Vai | Câu |
 |---------|-----|
-| **田中PMO** | 「どうぞ、お<ruby>入<rt>はい</rt></ruby>りください。」 |
-|  | *Mời các anh vào.* |
-| **ズン**【1】 | *(コン コン — 2<ruby>回<rt>かい</rt></ruby>ノック、2<ruby>秒<rt>びょう</rt></ruby><ruby>待機<rt>たいき</rt></ruby>)* |
-|  | *(cốc cốc — gõ 2 lần, đợi 2 giây)* |
-| **中村CFO** | 「どうぞ。」 |
-|  | *Mời vào.* |
-| **ズン**【2】 | 「**<ruby>失礼<rt>しつれい</rt></ruby>いたします**【3】。ティエンファットのズンと<ruby>申<rt>もう</rt></ruby>します。」 |
-|  | *Em xin phép ạ. Em là Dũng bên Cty Tiên Phát.* |
-| **トゥアン** | 「**失礼いたします**。<ruby>技術<rt>ぎじゅつ</rt></ruby>リーダーのトゥアンと申します。」 |
-|  | *Em xin phép ạ. Em là Tuấn, Tech Lead.* |
-| **ズン**【4】 | *(1/4<ruby>回転<rt>かいてん</rt></ruby>、<ruby>後<rt>うし</rt></ruby>ろ<ruby>手<rt>で</rt></ruby>で<ruby>扉<rt>とびら</rt></ruby>を<ruby>音<rt>おと</rt></ruby><ruby>無<rt>な</rt></ruby>し<ruby>閉<rt>し</rt></ruby>め)* |
-|  | *(xoay 1/4, tay sau lưng đóng cửa không tiếng)* |
-| **中村CFO** | 「お入りください。<ruby>中村<rt>なかむら</rt></ruby>です。」 |
-|  | *Mời các anh vào. Tôi là Nakamura.* |
-| **ズン + トゥアン** | 「お<ruby>忙<rt>いそが</rt></ruby>しいところ、お<ruby>時間<rt>じかん</rt></ruby><ruby>頂戴<rt>ちょうだい</rt></ruby>いたしまして<ruby>恐縮<rt>きょうしゅく</rt></ruby>でございます。」 |
-|  | *Anh bận rộn dành thời gian, em ngại quá ạ.* |
+| **田中PMO** | 「どうぞ、お<ruby>入<rt>はい</rt></ruby>りください。」 <br/>*Mời các anh vào.* |
+| **ズン**【1】 | *(コン コン — 2<ruby>回<rt>かい</rt></ruby>ノック、2<ruby>秒<rt>びょう</rt></ruby><ruby>待機<rt>たいき</rt></ruby>)* <br/>*(cốc cốc — gõ 2 lần, đợi 2 giây)* |
+| **中村CFO** | 「どうぞ。」 <br/>*Mời vào.* |
+| **ズン**【2】 | 「**<ruby>失礼<rt>しつれい</rt></ruby>いたします**【3】。ティエンファットのズンと<ruby>申<rt>もう</rt></ruby>します。」 <br/>*Em xin phép ạ. Em là Dũng bên Cty Tiên Phát.* |
+| **トゥアン** | 「**失礼いたします**。<ruby>技術<rt>ぎじゅつ</rt></ruby>リーダーのトゥアンと申します。」 <br/>*Em xin phép ạ. Em là Tuấn, Tech Lead.* |
+| **ズン**【4】 | *(1/4<ruby>回転<rt>かいてん</rt></ruby>、<ruby>後<rt>うし</rt></ruby>ろ<ruby>手<rt>で</rt></ruby>で<ruby>扉<rt>とびら</rt></ruby>を<ruby>音<rt>おと</rt></ruby><ruby>無<rt>な</rt></ruby>し<ruby>閉<rt>し</rt></ruby>め)* <br/>*(xoay 1/4, tay sau lưng đóng cửa không tiếng)* |
+| **中村CFO** | 「お入りください。<ruby>中村<rt>なかむら</rt></ruby>です。」 <br/>*Mời các anh vào. Tôi là Nakamura.* |
+| **ズン + トゥアン** | 「お<ruby>忙<rt>いそが</rt></ruby>しいところ、お<ruby>時間<rt>じかん</rt></ruby><ruby>頂戴<rt>ちょうだい</rt></ruby>いたしまして<ruby>恐縮<rt>きょうしゅく</rt></ruby>でございます。」 <br/>*Anh bận rộn dành thời gian, em ngại quá ạ.* |
 
-📝 **Ghi chú:**
+ **Ghi chú:**
 - 【1】**Gõ 2 lần** — chuẩn JP business. 3 lần = kiểu gõ cửa WC, 1 lần = thân mật. Nhẹ nhàng. Đợi 2 giây sau gõ trước khi mở.
 - 【2】**Đứng tại ngưỡng cúi chào 15°** — chân chưa bước qua ngưỡng, mở cửa, cúi chào. KHÔNG vừa đi vừa cúi chào.
 - 【3】**「失礼いたします」** — câu cố định vào phòng. KHÔNG「Hi」/「すみません」/「こんにちは」.
@@ -65,7 +53,7 @@
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「入室は『2回ノック・"失礼いたします"・15度お辞儀・後ろ手で静かに閉扉』の4ステップ。」**
 >
@@ -73,7 +61,7 @@
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - **Không gõ cửa** dù cửa mở → vẫn gõ 2 lần
 - "**Hi**" / "**こんにちは**" / "**すみません**" → 「失礼いたします」 cố định
@@ -84,15 +72,15 @@
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 入室 | にゅうしつ | Vào phòng |
-| ノック | nokku | Gõ cửa |
-| 失礼いたします | しつれいいたします | Xin phép |
-| 閉扉 | へいひ | Đóng cửa |
-| 後ろ手 | うしろで | Tay sau lưng |
-| 敷居 | しきい | Ngưỡng cửa |
-| 静かに | しずかに | Im lặng / nhẹ nhàng |
-| お入りください | おはいりください | Mời vào (kính ngữ) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 入室 | にゅうしつ | NHẬP THẤT | Vào phòng |
+| ノック | ノック | — | Gõ cửa |
+| 失礼いたします | しつれいいたします | — | Xin phép |
+| 閉扉 | へいひ | BẾ PHI | Đóng cửa |
+| 後ろ手 | うしろで | — | Tay sau lưng |
+| 敷居 | しきい | PHỦ CƯ | Ngưỡng cửa |
+| 静かに | しずかに | — | Im lặng / nhẹ nhàng |
+| お入りください | おはいりください | — | Mời vào (kính ngữ) |

@@ -1,6 +1,6 @@
 # Rule 30 — Mang về tham vấn (持ち帰り) / 持ち帰り相談
 
-> **Luận điểm.** Sách 03 đã dạy 「持ち帰り検討」 với khách (rule 25/32). Sách 04 mở rộng: **sau khi mang về**, làm sao **vận hành** trong nội bộ? Công thức đúng: **(1) Chuyển lời khách thành 1 entry trong CSDL nội bộ** (Notion / Confluence / kênh Slack chuyên cho 持ち帰り), **(2) Giao owner + deadline ngắn hơn deadline đã hứa khách** (buffer 1 ngày), **(3) Tổ chức 相談会議 nội bộ nếu cần**, **(4) Trước deadline 1 ngày, owner báo Dũng**, **(5) Dũng phản hồi khách đúng deadline đã hứa**. Quy tắc: **持ち帰り = 1 ticket nội bộ, không phải 1 lời hứa miệng**.
+> **Luận điểm.** Sách 03 đã dạy 「持ち帰り検討」 với khách (rule 25/32). Sách 04 mở rộng: **sau khi mang về**, làm sao **vận hành** trong nội bộ? Công thức đúng: **(1) Chuyển lời khách thành 1 entry trong CSDL nội bộ** (Notion / Confluence / kênh Slack chuyên cho 持ち帰り), **(2) Giao người phụ trách + hạn chót sớm hơn hạn chót đã hứa khách** (đệm 1 ngày), **(3) Tổ chức 相談会議 nội bộ nếu cần**, **(4) Trước hạn 1 ngày, người phụ trách báo Dũng**, **(5) Dũng phản hồi khách đúng hạn đã hứa**. Quy tắc: **持ち帰り = 1 ticket nội bộ, không phải 1 lời hứa miệng**.
 >
 > 持ち帰り運用5ステップ：①社内DB化 ②owner+期限(顧客約束より1日前)③社内会議 ④期限前日報告 ⑤客への回答。約束した『来週水曜』なら社内では『火曜EOD』。
 >
@@ -10,93 +10,89 @@
 
 ## Bối cảnh / 場面
 
-Cuộc họp với khách xong, Dũng đã hứa anh Matsumoto: "**Phase 2 lock cost trong tuần này, em sẽ mang về tham vấn nội bộ và phản hồi anh trước thứ Tư 4/24 EOD**". Lần đầu Dũng chỉ ghi nhớ miệng. Lần 2 áp dụng quy trình nội bộ 5 bước.
+Cuộc họp với khách xong, Dũng đã hứa anh Matsumoto: "**Phase 2 chốt báo giá trong tuần này, em sẽ mang về tham vấn nội bộ và phản hồi anh trước thứ Tư 4/24 EOD**". Lần đầu Dũng chỉ ghi nhớ miệng. Lần 2 áp dụng quy trình nội bộ 5 bước.
 
 ---
 
-## ❌ Hội thoại XẤU — ghi nhớ miệng + quên
+## Hội thoại XẤU — ghi nhớ miệng + quên
 
 *thứ Hai 19h, sau họp với Matsumoto · Thứ Tư 14h, Slack từ Matsumoto · hoảng loạn*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | (Trong đầu) 「<ruby>水曜<rt>すいよう</rt></ruby>までに lock cost <ruby>回答<rt>かいとう</rt></ruby>…まあ、<ruby>覚<rt>おぼ</rt></ruby>えとくか…」 |
-|  | *(Thứ Hai 19h, trong đầu) Trước thứ Tư phải reply lock cost... thôi nhớ trong đầu là được...* |
-| **松本PM** | 「ズンさん、<ruby>本日<rt>ほんじつ</rt></ruby> EOD まで lock cost のご<ruby>回答<rt>かいとう</rt></ruby>お<ruby>待<rt>ま</rt></ruby>ちしております。」 |
-|  | *(Thứ Tư 14h, Slack) Dũng, tôi đợi reply lock cost trước EOD hôm nay nhé.* |
-| **ズン** | 「あ、<ruby>忘<rt>わす</rt></ruby>れてた…」 (chạy lên hỏi chị Hương + anh Hà) |
-|  | *À, em quên mất...* |
-| **フオン** | 「ズン、<ruby>客<rt>きゃく</rt></ruby>に<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>った<ruby>件<rt>けん</rt></ruby>は **<ruby>必<rt>かなら</rt></ruby>ず Notion #持ち帰りボード に1枚チケット作る**。owner + <ruby>期限<rt>きげん</rt></ruby> (<ruby>社内<rt>しゃない</rt></ruby>は<ruby>前日<rt>ぜんじつ</rt></ruby>)。<ruby>今<rt>いま</rt></ruby>ハーCTO <ruby>不在<rt>ふざい</rt></ruby>で<ruby>水曜<rt>すいよう</rt></ruby>EODは<ruby>無理<rt>むり</rt></ruby>。<ruby>明日<rt>あした</rt></ruby>に<ruby>客<rt>きゃく</rt></ruby>にリスケ<ruby>依頼<rt>いらい</rt></ruby>かけて、<ruby>社内<rt>しゃない</rt></ruby>は<ruby>金曜<rt>きんよう</rt></ruby> lock。」 |
-|  | *Dũng, việc mang về từ khách bắt buộc phải tạo 1 ticket trong Notion #mochikaeri-board. Owner + deadline (nội bộ trước 1 ngày). Anh Hà CTO đi vắng nên thứ Tư EOD không kịp. Mai xin reschedule khách, nội bộ chốt thứ Sáu.* |
+| **ズン** | (Trong đầu) 「<ruby>水曜<rt>すいよう</rt></ruby>までに lock cost <ruby>回答<rt>かいとう</rt></ruby>…まあ、<ruby>覚<rt>おぼ</rt></ruby>えとくか…」 <br/>*(Thứ Hai 19h, trong đầu) Trước thứ Tư phải phản hồi chốt báo giá... thôi nhớ trong đầu là được...* |
+| **松本PM** | 「ズンさん、<ruby>本日<rt>ほんじつ</rt></ruby> EOD まで lock cost のご<ruby>回答<rt>かいとう</rt></ruby>お<ruby>待<rt>ま</rt></ruby>ちしております。」 <br/>*(Thứ Tư 14h, Slack) Dũng, tôi đợi phản hồi chốt báo giá trước cuối ngày hôm nay nhé.* |
+| **ズン** | 「あ、<ruby>忘<rt>わす</rt></ruby>れてた…」 (chạy lên hỏi chị Hương + anh Hà) <br/>*À, em quên mất...* |
+| **フオン** | 「ズン、<ruby>客<rt>きゃく</rt></ruby>に<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>った<ruby>件<rt>けん</rt></ruby>は **<ruby>必<rt>かなら</rt></ruby>ず Notion #持ち帰りボード に1枚チケット作る**。owner + <ruby>期限<rt>きげん</rt></ruby> (<ruby>社内<rt>しゃない</rt></ruby>は<ruby>前日<rt>ぜんじつ</rt></ruby>)。<ruby>今<rt>いま</rt></ruby>ハーCTO <ruby>不在<rt>ふざい</rt></ruby>で<ruby>水曜<rt>すいよう</rt></ruby>EODは<ruby>無理<rt>むり</rt></ruby>。<ruby>明日<rt>あした</rt></ruby>に<ruby>客<rt>きゃく</rt></ruby>にリスケ<ruby>依頼<rt>いらい</rt></ruby>かけて、<ruby>社内<rt>しゃない</rt></ruby>は<ruby>金曜<rt>きんよう</rt></ruby> lock。」 <br/>*Dũng, việc mang về từ khách bắt buộc phải tạo 1 ticket trong Notion #mochikaeri-board. Owner + deadline (nội bộ trước 1 ngày). Anh Hà CTO đi vắng nên thứ Tư EOD không kịp. Mai xin reschedule khách, nội bộ chốt thứ Sáu.* |
 
 **Vì sao xấu:** L1 chỉ ghi nhớ miệng = dựa trí nhớ. L3 quên = rơi vào tình huống tệ nhất. Nội bộ chưa kịp tham vấn xong (anh Hà bận) → phải xin dời lịch với khách = mất uy tín.
 
 ---
 
-## ✅ Hội thoại TỐT — 5 bước vận hành nội bộ
+## Hội thoại TỐT — 5 bước vận hành nội bộ
 
 | Bước | Vai / Tình huống | Câu |
 |---------|---------|-----|
-| **L1** | **ズン** *(Thứ Hai 19h, sau họp Matsumoto)* | *(Notion #持ち帰りボード に<ruby>新規<rt>しんき</rt></ruby>チケット)*  
+| **L1** | **ズン** *(Thứ Hai 19h, sau họp Matsumoto)* | *(Notion #持ち帰りボード に<ruby>新規<rt>しんき</rt></ruby>チケット)*
   「**TICKET-MOCH-2026-0421**: Phase 2 lock cost <ruby>回答<rt>かいとう</rt></ruby> / **<ruby>顧客約束<rt>こきゃくやくそく</rt></ruby>**: 4/24 (水) EOD / **<ruby>社内期限<rt>しゃないきげん</rt></ruby>**: 4/23 (火) EOD【1】 / **owner**: ズン / **<ruby>必要参加者<rt>ひつようさんかしゃ</rt></ruby>**: ハーCTO + フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby> + トゥアン / **<ruby>判断材料<rt>はんだんざいりょう</rt></ruby>**: 3社<ruby>見積<rt>みつもり</rt></ruby> + <ruby>過去<rt>かこ</rt></ruby>Phase1<ruby>実績<rt>じっせき</rt></ruby> / **ステータス**: open」 |
-|  |  | *(Thứ Hai 19h, mở ticket Notion) TICKET-MOCH-2026-0421: Reply lock cost Phase 2 / Hứa khách: EOD thứ Tư 24/4 / Deadline nội bộ: EOD thứ Ba 23/4 / Owner: Dũng / Người cần dự: Hà CTO + chị Hương + anh Tuấn / Dữ kiện: 3 báo giá + thực tích Phase 1 / Trạng thái: open.* |
+|  |  | *(Thứ Hai 19h, mở ticket Notion) TICKET-MOCH-2026-0421: Phản hồi chốt báo giá Phase 2 / Hứa khách: cuối ngày thứ Tư 24/4 / Hạn chót nội bộ: cuối ngày thứ Ba 23/4 / Người phụ trách: Dũng / Người cần dự: Hà CTO + chị Hương + anh Tuấn / Dữ kiện: 3 báo giá + thực tích Phase 1 / Trạng thái: đang mở.* |
 | **L2** | **ズン** *(Slack #内部相談)* | 「@ハーCTO @フオン @トゥアン <ruby>火曜<rt>かよう</rt></ruby> (4/23) 11:00-11:30 で<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>相談<rt>そうだん</rt></ruby>セットしました。アジェンダと<ruby>判断材料<rt>はんだんざいりょう</rt></ruby>は TICKET-MOCH-2026-0421 をご<ruby>確認<rt>かくにん</rt></ruby>ください【2】。」 |
-|  |  | *(Slack #naibu-soudan) @anh Hà CTO @chị Hương @anh Tuấn em đã set buổi tham vấn lúc 11:00-11:30 thứ Ba (23/4). Agenda và dữ kiện em đã ghi trong TICKET-MOCH-2026-0421 ạ.* |
+|  |  | *(Slack #naibu-soudan) @anh Hà CTO @chị Hương @anh Tuấn em đã lên lịch buổi tham vấn lúc 11:00-11:30 thứ Ba (23/4). Nội dung họp và dữ kiện em đã ghi trong TICKET-MOCH-2026-0421 ạ.* |
 | **L3** | **ズン** *(火曜 11:30, 会議後)* | 「<ruby>決定<rt>けってい</rt></ruby>: <ruby>案<rt>あん</rt></ruby>B (¥18M)。Decision Register DR-2026-0423 <ruby>起票<rt>きひょう</rt></ruby>。**<ruby>月曜<rt>げつよう</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby><ruby>通<rt>どお</rt></ruby>り、<ruby>明日<rt>あした</rt></ruby> EOD までに<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>へ<ruby>回答<rt>かいとう</rt></ruby>メール<ruby>送付<rt>そうふ</rt></ruby>します**【3】。」 |
-|  |  | *(Thứ Ba 11:30, sau họp) Quyết: phương án B (¥18M). Mở DR-2026-0423 trong Decision Register. Đúng lịch thứ Hai, em sẽ gửi mail reply anh Matsumoto trước EOD ngày mai ạ.* |
+|  |  | *(Thứ Ba 11:30, sau họp) Quyết: phương án B (¥18M). Mở DR-2026-0423 trong Sổ ghi quyết định. Đúng lịch thứ Hai, em sẽ gửi mail phản hồi anh Matsumoto trước cuối ngày mai ạ.* |
 | **L4** | **ズン** *(水曜 16:00, メール松本様)* | 「<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>、お<ruby>世話<rt>せわ</rt></ruby>になっております。<ruby>先日<rt>せんじつ</rt></ruby>お<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りした Phase 2 lock cost の<ruby>件<rt>けん</rt></ruby>、<ruby>社内<rt>しゃない</rt></ruby><ruby>検討<rt>けんとう</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>、**¥18M でご<ruby>提案<rt>ていあん</rt></ruby>させていただけますでしょうか**。<ruby>詳細<rt>しょうさい</rt></ruby>は<ruby>添付<rt>てんぷ</rt></ruby>ファイルをご<ruby>確認<rt>かくにん</rt></ruby>くださいませ。Phase 2 <ruby>内<rt>ない</rt></ruby> cost lock いただけますと<ruby>幸<rt>さいわ</rt></ruby>いです【4】。」 |
-|  |  | *(Thứ Tư 16h, mail) Anh Matsumoto, lúc nào cũng cảm ơn anh. Việc lock cost Phase 2 hôm trước em đã mang về, sau khi tham vấn nội bộ, em xin đề xuất ¥18M ạ. Chi tiết em đính kèm file. Mong anh lock cost cho Phase 2 ạ.* |
+|  |  | *(Thứ Tư 16h, mail) Anh Matsumoto, lúc nào cũng cảm ơn anh. Việc chốt báo giá Phase 2 hôm trước em đã mang về, sau khi tham vấn nội bộ, em xin đề xuất ¥18M ạ. Chi tiết em đính kèm file. Mong anh chốt báo giá cho Phase 2 ạ.* |
 | **L5** | **松本PM** *(水曜 17:00)* | 「ご<ruby>回答<rt>かいとう</rt></ruby>ありがとうございます。<ruby>約束<rt>やくそく</rt></ruby><ruby>通<rt>どお</rt></ruby>りの<ruby>期日<rt>きじつ</rt></ruby>でしたね。<ruby>社内<rt>しゃない</rt></ruby>で<ruby>検収<rt>けんしゅう</rt></ruby>しまして<ruby>金曜<rt>きんよう</rt></ruby>までにお<ruby>返事<rt>へんじ</rt></ruby>します。」 |
-|  |  | *Cảm ơn em reply. Đúng ngày hứa nhỉ. Tôi sẽ check nội bộ và phản hồi trước thứ Sáu.* |
+|  |  | *Cảm ơn em đã phản hồi. Đúng ngày hứa nhỉ. Tôi sẽ kiểm tra nội bộ và phản hồi trước thứ Sáu.* |
 
-📝 **Ghi chú:**
-- 【1】**社内期限 = 顧客期限 - 1日** — buffer chuẩn. Tránh trường hợp L4 trên (quên).
-- 【2】**TICKET ID + link agenda** — không làm loạn Slack bằng chi tiết. 1 entry là nguồn tham chiếu duy nhất.
+ **Ghi chú:**
+- 【1】**社内期限 = 顧客期限 - 1日** — khoảng đệm chuẩn. Tránh trường hợp L4 trên (quên).
+- 【2】**TICKET ID + link nội dung họp** — không làm loạn Slack bằng chi tiết. 1 mục là nguồn tham chiếu duy nhất.
 - 【3】**「月曜の予定通り」** — đảm bảo tiến độ so với lời hứa với khách. Báo cáo nội bộ rõ.
 - 【4】**「先日お持ち帰りした件」** — câu tham chiếu để khách hiểu ngay. Câu mở chuẩn cho phản hồi 持ち帰り.
 
 ---
 
-## 🔄 Quy trình 5 bước
+## Quy trình 5 bước
 
 ```
-① 社内DB化:        Notion チケット作成 (ID + 顧客期限 + 社内期限 + owner + 判断材料)
+① 社内DB化:        Notion チケット作成 (ID + 顧客期限 + 社内期限 + người phụ trách + 判断材料)
                    ↓
-② Owner+期限設定:   社内期限 = 顧客期限 - 1日 (buffer)
+② Người phụ trách+Hạn chót:   社内期限 = 顧客期限 - 1日 (khoảng đệm)
                    ↓
-③ 社内相談会議:     必要参加者を集めて15-30分。Decision Register に1行
+③ 社内相談会議:     必要参加者を集めて15-30分。Sổ ghi quyết định に1行
                    ↓
-④ 前日報告:         Dũng phản hồi 顧客 trước. 内部チケット → ステータス = closed
+④ 前日報告:         Dũng phản hồi 顧客 trước. Ticket nội bộ → trạng thái = đã đóng
                    ↓
 ⑤ 顧客回答:         「先日お持ち帰りした〇〇の件、〜」
 ```
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
-> **「持ち帰り = 社内Notion 1枚チケット + 社内期限は顧客期限の1日前 + Decision Register 1行で締め。記憶ではなくチケットで管理。」**
+> **「持ち帰り = 社内Notion 1枚チケット + 社内期限は顧客期限の1日前 + Sổ ghi quyết định 1行で締め。記憶ではなくチケットで管理。」**
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - 「覚えてます」 → trí nhớ chắc chắn rớt sau 2 ngày.
-- 内部期限 = 顧客期限 → 0 buffer = một sự cố nhỏ là miss.
+- 内部期限 = 顧客期限 → không có khoảng đệm = một sự cố nhỏ là trễ.
 - Không tổ chức họp nội bộ → tham vấn miệng riêng từng người = thông tin không nhất quán.
 - Phản hồi khách bằng giọng suồng sã — phải dùng 「先日お持ち帰りした件、社内検討の結果〜」 (rule 29).
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 持ち帰り | もちかえり | Mang về (xem xét) |
-| 社内検討 | しゃないけんとう | Xem xét nội bộ |
-| 社内期限 | しゃないきげん | Deadline nội bộ |
-| 顧客期限 | こきゃくきげん | Deadline với khách |
-| チケット | ticket | Ticket |
-| 起票 | きひょう | Mở entry / log |
-| ボード | board | Board (kanban) |
-| ステータス | status | Trạng thái |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|-------|-------|
+| 持ち帰り | もちかえり | — | Mang về (xem xét) |
+| 社内検討 | しゃないけんとう | XÃ NỘI KIỂM THẢO | Xem xét nội bộ |
+| 社内期限 | しゃないきげん | XÃ NỘI KỲ HẠN | Deadline nội bộ |
+| 顧客期限 | こきゃくきげん | CỐ KHÁCH KỲ HẠN | Deadline với khách |
+| チケット | ちけっと | — | Ticket |
+| 起票 | きひょう | KHỞI PHIẾU | Mở entry / log |
+| ボード | ぼーど | — | Board (kanban) |
+| ステータス | すてーたす | — | Trạng thái (của ticket) |

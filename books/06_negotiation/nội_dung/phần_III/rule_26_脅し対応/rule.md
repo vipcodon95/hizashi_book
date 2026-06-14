@@ -2,7 +2,7 @@
 
 > **Luận điểm.** Khách gây áp lực "¥15M でなければ Y 社に発注", "今週中に決めなければ" = chiêu gây áp lực. Công thức xử lý: **(1) Câu chuyển** ("ご指摘の点、もっともでございます"), **(2) Đổi góc nhìn + giữ ranh giới** ("ただ弊社として〜は難しい"), **(3) Đẩy lên cấp trên** (anh Hà CTO vào cuộc). Đối đầu cứng = mất thương vụ; nhượng bộ quá mức = mất margin. Câu chuyển + đẩy lên cấp trên = giữ được lợi thế.
 >
-> 脅しや最終通告は pressure tactic（chiêu gây áp lực）。câu chuyển で受けて、định hình lại で ranh giới を示し、必要なら cấp trên にエスカレーション。
+> 脅しや最終通告は chiêu gây áp lực。câu chuyển で受けて、định hình lại で ranh giới を示し、必要なら cấp trên にエスカレーション。
 >
 > **Liên quan:** rule 27 (再アンカリング), rule 28 (撤退の作法), sách 04 escalation.
 
@@ -14,80 +14,69 @@
 
 ---
 
-## ❌ Hội thoại XẤU — đối đầu cứng / nhượng bộ quá mức
+## Hội thoại XẤU — đối đầu cứng / nhượng bộ quá mức
 
 *感情的 · 冷*
 
 | Vai | Câu |
 |---------|-----|
-| **大垣** | 「¥15M でなければ、Y 社に<ruby>発注<rt>はっちゅう</rt></ruby>します。<ruby>今日<rt>きょう</rt></ruby><ruby>決<rt>き</rt></ruby>めてください。」 |
-|  | *¥15M không thì tôi đặt Y社. Hôm nay phải quyết.* |
-| **ズン** | 「Y 社で<ruby>本当<rt>ほんとう</rt></ruby>に発注できるとは<ruby>思<rt>おも</rt></ruby>えませんが…」 |
-|  | *Y社 thì em không nghĩ là quý anh đặt được thật…* |
-| **大垣** | 「<ruby>冗談<rt>じょうだん</rt></ruby>ではなく<ruby>事実<rt>じじつ</rt></ruby>です。」 |
-|  | *Không phải nói đùa, là sự thật.* |
-| **ズン** | 「では…¥15M で…」 |
-|  | *Vậy… ¥15M ạ…* |
+| **大垣** | 「¥15M でなければ、Y 社に<ruby>発注<rt>はっちゅう</rt></ruby>します。<ruby>今日<rt>きょう</rt></ruby><ruby>決<rt>き</rt></ruby>めてください。」 <br/>*¥15M không thì tôi đặt Y社. Hôm nay phải quyết.* |
+| **ズン** | 「Y 社で<ruby>本当<rt>ほんとう</rt></ruby>に発注できるとは<ruby>思<rt>おも</rt></ruby>えませんが…」 <br/>*Y社 thì em không nghĩ là quý anh đặt được thật…* |
+| **大垣** | 「<ruby>冗談<rt>じょうだん</rt></ruby>ではなく<ruby>事実<rt>じじつ</rt></ruby>です。」 <br/>*Không phải nói đùa, là sự thật.* |
+| **ズン** | 「では…¥15M で…」 <br/>*Vậy… ¥15M ạ…* |
 
-**Vì sao xấu:** Dũng vừa challenge khách (mất 顔) vừa cave-in giảm ¥3M trong 1 phút. Cả 2 lỗi cùng lúc. Walk-away ¥15M là biên, scope phải cắt mạnh nhưng Dũng không tỉnh.
+**Vì sao xấu:** Dũng vừa thách thức khách (mất 顔) vừa nhượng bộ quá mức giảm ¥3M trong 1 phút. Cả 2 lỗi cùng lúc. Điểm rút lui ¥15M là ranh giới, phạm vi phải cắt mạnh nhưng Dũng không tỉnh.
 
 ---
 
-## ✅ Hội thoại TỐT — bridge + boundary + senior escalation
+## Hội thoại TỐT — bridge + boundary + senior escalation
 
 *2 秒沈黙 · 少し緩む · 電話で 5 分後到着、入室、挨拶後*
 
 | Vai | Câu |
 |---------|-----|
-| **大垣** | 「¥15M でなければ、Y 社に発注します。今日決めてください。」 |
-|  | *¥15M không thì tôi đặt Y社. Hôm nay phải quyết.* |
-| **ズン** | 「**ご<ruby>指摘<rt>してき</rt></ruby>の<ruby>点<rt>てん</rt></ruby>、もっともでございます**【1】。<ruby>御社<rt>おんしゃ</rt></ruby>のご<ruby>事情<rt>じじょう</rt></ruby>、<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>理解<rt>りかい</rt></ruby>いたします。」 |
-|  | *Em xin tiếp thu ý kiến quý anh ạ. Tình huống quý công ty em hiểu đầy đủ ạ.* |
-| **ズン** | 「**ただ、<ruby>弊社<rt>へいしゃ</rt></ruby>として ¥15M で Phase 2 <ruby>同等<rt>どうとう</rt></ruby>スコープのご<ruby>提供<rt>ていきょう</rt></ruby>は<ruby>粗利<rt>あらり</rt></ruby>を<ruby>割<rt>わ</rt></ruby>り<ruby>込<rt>こ</rt></ruby>みますので、その<ruby>場<rt>ば</rt></ruby>でのお<ruby>返事<rt>へんじ</rt></ruby>は<ruby>致<rt>いた</rt></ruby>しかねます**【2】。」 |
-|  | *Tuy nhiên, ¥15M giữ scope tương đương Phase 2 thì bên em phá ngưỡng margin, em xin phép không trả lời ngay tại chỗ ạ.* |
-| **ズン** | 「**<ruby>重要<rt>じゅうよう</rt></ruby>なご<ruby>決定<rt>けってい</rt></ruby>ですので、弊社 CTO のハーをこの場にお<ruby>呼<rt>よ</rt></ruby>びしてもよろしいでしょうか**【3】？<ruby>技術面<rt>ぎじゅつめん</rt></ruby>・<ruby>条件面<rt>じょうけんめん</rt></ruby>の<ruby>両方<rt>りょうほう</rt></ruby>で<ruby>正式<rt>せいしき</rt></ruby>な<ruby>回答<rt>かいとう</rt></ruby>ができるようにいたします。」 |
-|  | *Đây là quyết định quan trọng, cho phép em mời anh Hà CTO bên em đến tại chỗ ạ? Để có thể trả lời chính thức cả mặt kỹ thuật lẫn điều kiện ạ.* |
-| **大垣** | 「では CTO に<ruby>来<rt>き</rt></ruby>ていただいて<ruby>構<rt>かま</rt></ruby>いません。」 |
-|  | *Vậy mời CTO đến cũng được.* |
-| **ハー CTO** | 「大垣<ruby>様<rt>さま</rt></ruby>、ハーでございます。¥15M というご<ruby>要望<rt>ようぼう</rt></ruby>、<ruby>伺<rt>うかが</rt></ruby>いました。**¥15M でしたら scope は -30% (AI dashboard・<ruby>専任<rt>せんにん</rt></ruby> PM・SLA 99.9%→99.5%) となり、Phase 3 <ruby>当初<rt>とうしょ</rt></ruby><ruby>目的<rt>もくてき</rt></ruby>の<ruby>達成度合<rt>たっせいどあ</rt></ruby>いは 65% <ruby>程度<rt>ていど</rt></ruby>になります**【4】。**Phase 2 同等のスコープであれば、弊社 walk-away ライン ¥15.5M、これは<ruby>承認済<rt>しょうにんず</rt></ruby>みの<ruby>最終条件<rt>さいしゅうじょうけん</rt></ruby>**でございます。」 |
-|  | *Anh Ōgaki, em là Hà ạ. Em đã nghe yêu cầu ¥15M. Nếu ¥15M thì scope -30% (bỏ AI dashboard, PM chuyên trách, SLA 99.9%→99.5%), mức đạt mục tiêu ban đầu Phase 3 chỉ ~65%. Scope tương đương Phase 2 thì walk-away bên em là ¥15.5M, đây là điều kiện cuối đã được duyệt ạ.* |
-| **大垣** | 「…CTO <ruby>同席<rt>どうせき</rt></ruby>ですと<ruby>話<rt>はなし</rt></ruby>が<ruby>変<rt>か</rt></ruby>わりますね。¥15.5M なら<ruby>社内<rt>しゃない</rt></ruby>に<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>検討<rt>けんとう</rt></ruby>します。」 |
-|  | *…CTO cùng dự thì câu chuyện khác. ¥15.5M thì tôi mang về xem xét nội bộ.* |
+| **大垣** | 「¥15M でなければ、Y 社に発注します。今日決めてください。」 <br/>*¥15M không thì tôi đặt Y社. Hôm nay phải quyết.* |
+| **ズン** | 「**ご<ruby>指摘<rt>してき</rt></ruby>の<ruby>点<rt>てん</rt></ruby>、もっともでございます**【1】。<ruby>御社<rt>おんしゃ</rt></ruby>のご<ruby>事情<rt>じじょう</rt></ruby>、<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>理解<rt>りかい</rt></ruby>いたします。」 <br/>*Em xin tiếp thu ý kiến quý anh ạ. Tình huống quý công ty em hiểu đầy đủ ạ.* |
+| **ズン** | 「**ただ、<ruby>弊社<rt>へいしゃ</rt></ruby>として ¥15M で Phase 2 <ruby>同等<rt>どうとう</rt></ruby>スコープのご<ruby>提供<rt>ていきょう</rt></ruby>は<ruby>粗利<rt>あらり</rt></ruby>を<ruby>割<rt>わ</rt></ruby>り<ruby>込<rt>こ</rt></ruby>みますので、その<ruby>場<rt>ば</rt></ruby>でのお<ruby>返事<rt>へんじ</rt></ruby>は<ruby>致<rt>いた</rt></ruby>しかねます**【2】。」 <br/>*Tuy nhiên, ¥15M giữ scope tương đương Phase 2 thì bên em phá ngưỡng margin, em xin phép không trả lời ngay tại chỗ ạ.* |
+| **ズン** | 「**<ruby>重要<rt>じゅうよう</rt></ruby>なご<ruby>決定<rt>けってい</rt></ruby>ですので、弊社 CTO のハーをこの場にお<ruby>呼<rt>よ</rt></ruby>びしてもよろしいでしょうか**【3】？<ruby>技術面<rt>ぎじゅつめん</rt></ruby>・<ruby>条件面<rt>じょうけんめん</rt></ruby>の<ruby>両方<rt>りょうほう</rt></ruby>で<ruby>正式<rt>せいしき</rt></ruby>な<ruby>回答<rt>かいとう</rt></ruby>ができるようにいたします。」 <br/>*Đây là quyết định quan trọng, cho phép em mời anh Hà CTO bên em đến tại chỗ ạ? Để có thể trả lời chính thức cả mặt kỹ thuật lẫn điều kiện ạ.* |
+| **大垣** | 「では CTO に<ruby>来<rt>き</rt></ruby>ていただいて<ruby>構<rt>かま</rt></ruby>いません。」 <br/>*Vậy mời CTO đến cũng được.* |
+| **ハー CTO** | 「大垣<ruby>様<rt>さま</rt></ruby>、ハーでございます。¥15M というご<ruby>要望<rt>ようぼう</rt></ruby>、<ruby>伺<rt>うかが</rt></ruby>いました。**¥15M でしたら scope は -30% (AI dashboard・<ruby>専任<rt>せんにん</rt></ruby> PM・SLA 99.9%→99.5%) となり、Phase 3 <ruby>当初<rt>とうしょ</rt></ruby><ruby>目的<rt>もくてき</rt></ruby>の<ruby>達成度合<rt>たっせいどあ</rt></ruby>いは 65% <ruby>程度<rt>ていど</rt></ruby>になります**【4】。**Phase 2 同等のスコープであれば、弊社 walk-away ライン ¥15.5M、これは<ruby>承認済<rt>しょうにんず</rt></ruby>みの<ruby>最終条件<rt>さいしゅうじょうけん</rt></ruby>**でございます。」 <br/>*Anh Ōgaki, em là Hà ạ. Em đã nghe yêu cầu ¥15M. Nếu ¥15M thì scope -30% (bỏ AI dashboard, PM chuyên trách, SLA 99.9%→99.5%), mức đạt mục tiêu ban đầu Phase 3 chỉ ~65%. Scope tương đương Phase 2 thì walk-away bên em là ¥15.5M, đây là điều kiện cuối đã được duyệt ạ.* |
+| **大垣** | 「…CTO <ruby>同席<rt>どうせき</rt></ruby>ですと<ruby>話<rt>はなし</rt></ruby>が<ruby>変<rt>か</rt></ruby>わりますね。¥15.5M なら<ruby>社内<rt>しゃない</rt></ruby>に<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>検討<rt>けんとう</rt></ruby>します。」 <br/>*…CTO cùng dự thì câu chuyện khác. ¥15.5M thì tôi mang về xem xét nội bộ.* |
 
-📝 **Ghi chú:**
-- 【1】**Câu chuyển** = hạ nhiệt. KHÔNG argue ngay. "ご指摘の点、もっともでございます" = ghi nhận chính thức.
-- 【2】**Câu giữ ranh giới** "弊社として〜は難しい" — show position cứng nhưng giọng điệu lịch sự.
-- 【3】**Senior escalation** "弊社 CTO をお呼びしてもよろしいでしょうか" — phải xin phép, không tự ý gọi.
-- 【4】**CTO 来ても scope-cut bằng số cụ thể** — "65% 達成度" là metric khiến khách nhận pain. CTO bring authority + new info.
+ **Ghi chú:**
+- 【1】**Câu chuyển** = hạ nhiệt. KHÔNG tranh cãi ngay. "ご指摘の点、もっともでございます" = ghi nhận chính thức.
+- 【2】**Câu giữ ranh giới** "弊社として〜は難しい" — thể hiện lập trường cứng nhưng giọng điệu lịch sự.
+- 【3】**Đưa cấp trên vào** "弊社 CTO をお呼びしてもよろしいでしょうか" — phải xin phép, không tự ý gọi.
+- 【4】**CTO vào vẫn cắt phạm vi bằng số cụ thể** — "65% 達成度" là chỉ số khiến khách nhận ra tổn thất. CTO mang thêm thẩm quyền + thông tin mới.
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「Bridge phrase で受け、boundary で抵抗、senior escalation で de-escalate。Match も cave-in も両方避ける。」**
 >
-> *Câu chuyển để đỡ, giữ ranh giới để giữ vị thế, senior step in để hạ nhiệt. Tránh cả match cứng lẫn nhượng bộ quá mức.*
+> *Câu chuyển để đỡ, giữ ranh giới để giữ vị thế, đưa cấp trên vào để hạ nhiệt. Tránh cả đối đầu cứng lẫn nhượng bộ quá mức.*
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
-- "Y 社で本当にできるとは…" → challenge khách = mất 顔
+- "Y 社で本当にできるとは…" → thách thức khách = mất 顔
 - "では ¥15M で" → nhượng bộ quá mức, giảm ¥3M trong 1 phút
-- Senior escalation không xin phép → bất lịch sự
-- Senior step in nhưng không bring new authority/info → useless escalation
+- Đưa cấp trên vào mà không xin phép → bất lịch sự
+- Cấp trên vào nhưng không mang thêm thẩm quyền / thông tin mới → vô ích
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 脅し | おどし | Đe dọa |
-| 最終通告 | さいしゅうつうこく | Tối hậu thư |
-| ご指摘 | ごしてき | Lời nhận xét |
-| もっとも | もっとも | Có lý / hợp lý |
-| 粗利を割り込む | あらりをわりこむ | Phá ngưỡng margin |
-| 致しかねます | いたしかねます | Khó thực hiện được |
-| エスカレーション | esukarēshon | Escalation |
-| 達成度合い | たっせいどあい | Mức độ đạt được |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 脅し | おどし | — | Đe dọa |
+| 最終通告 | さいしゅうつうこく | TỐI CHUNG THÔNG CÁO | Tối hậu thư |
+| ご指摘 | ごしてき | CHỈ TRÍCH | Lời nhận xét |
+| もっとも | もっとも | — | Có lý / hợp lý |
+| 粗利を割り込む | あらりをわりこむ | THÔ LỢI | Phá ngưỡng margin |
+| 致しかねます | いたしかねます | — | Khó thực hiện được |
+| エスカレーション | エスカレーション | — | Đưa lên cấp trên |
+| 達成度合い | たっせいどあい | ĐẠT THÀNH ĐỘ | Mức độ đạt được |

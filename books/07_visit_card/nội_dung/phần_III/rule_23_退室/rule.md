@@ -10,61 +10,48 @@
 
 ## Bối cảnh / 場面
 
-Trụ sở 白鷗 Tokyo, meeting + tour Phase 3 kickoff vừa xong lúc 12:30. Dũng + Tuấn cần kết thúc gọn đẹp, được Tanaka PMO chỉ lối ra cửa. Đây là khoảnh khắc cuối khách Nhật sẽ ghi nhớ về team Tiên Phát.
+Trụ sở 白鷗 Tokyo, meeting + tham quan Phase 3 kickoff vừa xong lúc 12:30. Dũng + Tuấn cần kết thúc gọn đẹp, được Tanaka PMO chỉ lối ra cửa. Đây là khoảnh khắc cuối khách Nhật sẽ ghi nhớ về team Tiên Phát.
 
 ---
 
-## ❌ Hội thoại XẤU — ngồi luôn chào + vội rời
+## Hội thoại XẤU — ngồi luôn chào + vội rời
 
 *vẫn ngồi*
 
 | Vai | Câu |
 |---------|-----|
-| **田中PMO** | 「本日はありがとうございました。」 |
-|  | *Hôm nay cảm ơn các anh ạ.* |
-| **ズン** | 「はい、ありがとうございました。じゃ、<ruby>帰<rt>かえ</rt></ruby>ります。」 |
-|  | *Vâng, cảm ơn anh. Bọn em về đây.* |
-| **トゥアンリーダー** | （<ruby>鞄<rt>かばん</rt></ruby>を前で<ruby>抱<rt>かか</rt></ruby>えてドアへ<ruby>早足<rt>はやあし</rt></ruby>） |
-|  | *(ôm cặp trước ngực, sải bước nhanh ra cửa)* |
-| **田中PMO** | 「あ、<ruby>出口<rt>でぐち</rt></ruby>はこちら…」 |
-|  | *Ơ, lối ra bên này...* |
-| **ズン** | （<ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>らずドアを<ruby>開<rt>あ</rt></ruby>けて<ruby>出<rt>で</rt></ruby>る） |
-|  | *(không quay đầu, mở cửa đi luôn)* |
+| **田中PMO** | 「本日はありがとうございました。」 <br/>*Hôm nay cảm ơn các anh ạ.* |
+| **ズン** | 「はい、ありがとうございました。じゃ、<ruby>帰<rt>かえ</rt></ruby>ります。」 <br/>*Vâng, cảm ơn anh. Bọn em về đây.* |
+| **トゥアンリーダー** | （<ruby>鞄<rt>かばん</rt></ruby>を前で<ruby>抱<rt>かか</rt></ruby>えてドアへ<ruby>早足<rt>はやあし</rt></ruby>） <br/>*(ôm cặp trước ngực, sải bước nhanh ra cửa)* |
+| **田中PMO** | 「あ、<ruby>出口<rt>でぐち</rt></ruby>はこちら…」 <br/>*Ơ, lối ra bên này...* |
+| **ズン** | （<ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>らずドアを<ruby>開<rt>あ</rt></ruby>けて<ruby>出<rt>で</rt></ruby>る） <br/>*(không quay đầu, mở cửa đi luôn)* |
 
 **Vì sao xấu:** (1) Ngồi luôn chào = thiếu lễ từ đầu đến cuối. (2) Ôm cặp trước ngực + bước vội = giống đang trốn chạy. (3) Đến cửa không quay lại = ấn tượng cuối = 0. Cả buổi meeting hay cũng bị 30 giây cuối phá hỏng.
 
 ---
 
-## ✅ Hội thoại TỐT — đứng dậy → cúi chào 30° → trước cửa cúi chào lần 2
+## Hội thoại TỐT — đứng dậy → cúi chào 30° → trước cửa cúi chào lần 2
 
 | Vai | Câu |
 |---------|-----|
-| **田中PMO** | 「本日はお<ruby>越<rt>こ</rt></ruby>しいただき、<ruby>誠<rt>まこと</rt></ruby>にありがとうございました。」 |
-|  | *Hôm nay các anh đã đến, tôi xin chân thành cảm ơn.* |
-| **ズン** | （<ruby>椅子<rt>いす</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>いて<ruby>起立<rt>きりつ</rt></ruby>、<ruby>鞄<rt>かばん</rt></ruby>は<ruby>左手<rt>ひだりて</rt></ruby>、お<ruby>辞儀<rt>じぎ</rt></ruby>30°）「こちらこそ、<ruby>貴重<rt>きちょう</rt></ruby>なお<ruby>時間<rt>じかん</rt></ruby>をありがとうございました。」【1】 |
-|  | *(đẩy ghế, đứng dậy, cặp ở tay trái, bow 30°) Em mới phải cảm ơn anh đã dành thời gian quý báu ạ.* |
-| **トゥアンリーダー** | （<ruby>同様<rt>どうよう</rt></ruby>に<ruby>起立<rt>きりつ</rt></ruby> → お<ruby>辞儀<rt>じぎ</rt></ruby>30°）「Phase 3 kickoff、<ruby>実<rt>みの</rt></ruby>りのあるお<ruby>打<rt>う</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせでした。」 |
-|  | *(cũng đứng dậy → bow 30°) Buổi họp kickoff Phase 3 rất nhiều giá trị ạ.* |
-| **田中PMO** | （<ruby>手<rt>て</rt></ruby>を<ruby>平<rt>たい</rt></ruby>らに<ruby>開<rt>ひら</rt></ruby>いてドアを<ruby>指<rt>さ</rt></ruby>す）「<ruby>出口<rt>でぐち</rt></ruby>はあちらでございます。エレベーターまでご<ruby>案内<rt>あんない</rt></ruby>いたします。」【2】 |
-|  | *(mở bàn tay phẳng chỉ cửa) Lối ra bên kia ạ. Tôi xin dẫn các anh ra thang máy.* |
-| **ズン** | 「<ruby>恐<rt>おそ</rt></ruby>れ<ruby>入<rt>い</rt></ruby>ります、お<ruby>願<rt>ねが</rt></ruby>いいたします。」 |
-|  | *Phiền anh ạ, em xin nhờ.* |
-| **ズン** | （ドア前で<ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>り、<ruby>再度<rt>さいど</rt></ruby>お<ruby>辞儀<rt>じぎ</rt></ruby>30°）【3】 |
-|  | *(tới cửa quay lại, bow lần 2 — 30°)* |
-| **トゥアンリーダー** | 「<ruby>失礼<rt>しつれい</rt></ruby>いたします。」【4】 |
-|  | *Em xin phép ạ.* |
-| **田中PMO** | 「お<ruby>気<rt>き</rt></ruby>をつけてお<ruby>帰<rt>かえ</rt></ruby>りください。」 |
-|  | *Các anh về cẩn thận ạ.* |
+| **田中PMO** | 「本日はお<ruby>越<rt>こ</rt></ruby>しいただき、<ruby>誠<rt>まこと</rt></ruby>にありがとうございました。」 <br/>*Hôm nay các anh đã đến, tôi xin chân thành cảm ơn.* |
+| **ズン** | （<ruby>椅子<rt>いす</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>いて<ruby>起立<rt>きりつ</rt></ruby>、<ruby>鞄<rt>かばん</rt></ruby>は<ruby>左手<rt>ひだりて</rt></ruby>、お<ruby>辞儀<rt>じぎ</rt></ruby>30°）「こちらこそ、<ruby>貴重<rt>きちょう</rt></ruby>なお<ruby>時間<rt>じかん</rt></ruby>をありがとうございました。」【1】 <br/>*(đẩy ghế, đứng dậy, cặp ở tay trái, bow 30°) Em mới phải cảm ơn anh đã dành thời gian quý báu ạ.* |
+| **トゥアンリーダー** | （<ruby>同様<rt>どうよう</rt></ruby>に<ruby>起立<rt>きりつ</rt></ruby> → お<ruby>辞儀<rt>じぎ</rt></ruby>30°）「Phase 3 kickoff、<ruby>実<rt>みの</rt></ruby>りのあるお<ruby>打<rt>う</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせでした。」 <br/>*(cũng đứng dậy → bow 30°) Buổi họp kickoff Phase 3 rất nhiều giá trị ạ.* |
+| **田中PMO** | （<ruby>手<rt>て</rt></ruby>を<ruby>平<rt>たい</rt></ruby>らに<ruby>開<rt>ひら</rt></ruby>いてドアを<ruby>指<rt>さ</rt></ruby>す）「<ruby>出口<rt>でぐち</rt></ruby>はあちらでございます。エレベーターまでご<ruby>案内<rt>あんない</rt></ruby>いたします。」【2】 <br/>*(mở bàn tay phẳng chỉ cửa) Lối ra bên kia ạ. Tôi xin dẫn các anh ra thang máy.* |
+| **ズン** | 「<ruby>恐<rt>おそ</rt></ruby>れ<ruby>入<rt>い</rt></ruby>ります、お<ruby>願<rt>ねが</rt></ruby>いいたします。」 <br/>*Phiền anh ạ, em xin nhờ.* |
+| **ズン** | （ドア前で<ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>り、<ruby>再度<rt>さいど</rt></ruby>お<ruby>辞儀<rt>じぎ</rt></ruby>30°）【3】 <br/>*(tới cửa quay lại, bow lần 2 — 30°)* |
+| **トゥアンリーダー** | 「<ruby>失礼<rt>しつれい</rt></ruby>いたします。」【4】 <br/>*Em xin phép ạ.* |
+| **田中PMO** | 「お<ruby>気<rt>き</rt></ruby>をつけてお<ruby>帰<rt>かえ</rt></ruby>りください。」 <br/>*Các anh về cẩn thận ạ.* |
 
-📝 **Ghi chú:**
-- 【1】**Đứng dậy hơi sau host hoặc cùng lúc** — cúi chào 30° lúc rời sâu hơn lúc vào. Cặp giữ tay trái để tay phải sẵn sàng cho mọi cử chỉ.
+ **Ghi chú:**
+- 【1】**Đứng dậy hơi sau người tiếp hoặc cùng lúc** — cúi chào 30° lúc rời sâu hơn lúc vào. Cặp giữ tay trái để tay phải sẵn sàng cho mọi cử chỉ.
 - 【2】**Tanaka mở bàn tay phẳng chỉ cửa** — đây là động tác dẫn đường chính thức, khách phải xoay người theo hướng đó, không tự đoán.
 - 【3】**Trước cửa quay lại cúi chào lần 2** — 'mỹ học khi rời' kiểu Nhật. Ấn tượng cuối nhớ lâu nhất.
 - 【4】**「失礼いたします」** — câu cố định khi rời, đi kèm cúi chào 30° sâu. Ghép cặp với câu lúc vào.
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「貴重なお時間をありがとうございました。失礼いたします。」**
 >
@@ -72,24 +59,24 @@ Trụ sở 白鷗 Tokyo, meeting + tour Phase 3 kickoff vừa xong lúc 12:30. D
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - Ngồi luôn chào — bắt buộc đứng dậy trước khi nói câu cảm ơn
 - Ôm cặp trước ngực + sải bước vội — giống đang trốn
 - Mở cửa đi luôn không quay lại — mất hoàn toàn ấn tượng cuối
 - Cúi chào lúc rời nông hơn lúc vào — ngược logic 'lòng biết ơn tăng dần'
-- Quay lưng hoàn toàn về phía host khi đi ra — luôn giữ thân nửa hướng host
+- Quay lưng hoàn toàn về phía người tiếp khi đi ra — luôn giữ thân nửa hướng người tiếp
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 退室 | たいしつ | Rời phòng |
-| 起立 | きりつ | Đứng dậy |
-| お辞儀 | おじぎ | Cúi chào |
-| 失礼いたします | しつれいいたします | Em xin phép (rời) |
-| 出口 | でぐち | Lối ra |
-| 振り返る | ふりかえる | Quay đầu lại |
-| 貴重な | きちょうな | Quý báu |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 退室 | たいしつ | THOÁI THẤT | Rời phòng |
+| 起立 | きりつ | KHỞI LẬP | Đứng dậy |
+| お辞儀 | おじぎ | — | Cúi chào |
+| 失礼いたします | しつれいいたします | — | Em xin phép (rời) |
+| 出口 | でぐち | XUẤT KHẨU | Lối ra |
+| 振り返る | ふりかえる | — | Quay đầu lại |
+| 貴重な | きちょうな | QUÝ TRỌNG | Quý báu |

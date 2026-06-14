@@ -2,11 +2,11 @@
 
 ## Sách song ngữ Việt-Nhật cho người Việt làm với khách hàng Nhật
 
-*Hizashi Teams. 2026. Phiên bản 1.0.*
+*Hizashi Teams.*
 
 ---
 
-## 🎯 Đối tượng / 対象読者
+## Đối tượng / 対象読者
 
 **Tiếng Việt:**
 
@@ -26,7 +26,7 @@ Phù hợp cho:
 
 ---
 
-## 📚 Cấu trúc / 構成
+## Cấu trúc / 構成
 
 50 rules chia 5 phần:
 
@@ -40,53 +40,45 @@ Phù hợp cho:
 
 **Phụ lục:**
 
-- **A** — Script template tổng hợp (97 key_phrases)
-- **B** — Từ vựng tổng hợp (~288 từ unique)
-- **C** — BJT practice tổng hợp (50 câu, J4 / J3 / J2)
-- **D** — Template tổng hợp (agenda, biên bản, mail, checklist) — **MỚI**
+- **A** — Tổng hợp mẫu câu (97 cụm câu chuẩn)
+- **B** — Từ vựng tổng hợp (~288 từ)
+- **C** — Bài luyện BJT tổng hợp (50 câu, J4 / J3 / J2)
+- **D** — Tổng hợp mẫu (chương trình họp, biên bản, email, danh sách kiểm tra)
 
 ---
 
-## 🎬 Cast / 登場人物
+## Nhân vật / 登場人物
 
-Cast lõi như sách 02, bổ sung:
+Tuyến nhân vật chính như sách 02, bổ sung thêm:
 
 | Tên VN | 名前 (JP) | Vai | Ghi chú |
 |--------|----------|-----|---------|
-| em Dũng | ズン | BD担当 | Chủ đạo |
-| chị Hương | フオン副部長 | 副部長 | Mentor |
-| anh Tuấn | トゥアンリーダー | チームリーダー | Tech lead |
-| chị Loan | ロアン経理部長 | 経理部長 | Kế toán |
-| em Linh | リン | アシスタント | **Active từ sách 03** — Dũng mentor |
-| em Hải | ハイ | FE/DevOps | Cùng rank Dũng |
-| anh Hà | ハー | CTO | Boss |
-| anh Matsumoto | 松本PM | PM | Khách Nhật chính |
-| **anh Ōgaki** | **大垣 営業部長** | **営業部長** | **MỚI — sales head 白鷗, đối tác đàm phán** |
+| em Dũng | ズン | Phụ trách kinh doanh | Nhân vật chính |
+| chị Hương | フオン副部長 | Phó phòng | Người dìu dắt |
+| anh Tuấn | トゥアンリーダー | Trưởng nhóm kỹ thuật | |
+| chị Loan | ロアン経理部長 | Trưởng phòng kế toán | |
+| em Linh | リン | Trợ lý | Active từ sách 03 — Dũng dìu dắt |
+| em Hải | ハイ | Lập trình viên kiêm vận hành | Cùng cấp Dũng |
+| anh Hà | ハー | Giám đốc công nghệ | Sếp lớn |
+| anh Matsumoto | 松本PM | Quản lý dự án | Khách Nhật chính |
+| **anh Ōgaki** | **大垣 営業部長** | **Trưởng phòng kinh doanh** | Mới — trưởng kinh doanh 白鷗, đối tác đàm phán |
 
 ---
 
-## 📐 Format đặc thù sách 03
+## Cách dùng
 
-- **Schema v3** — mở rộng schema sách 02 với field `templates[]` cho rules có agenda/biên bản/mail.
-- **Phụ lục D mới** — Template tổng hợp ready-to-use.
-- **Cross-reference** với sách 01 (Email — rules mời họp, follow-up) và sách 02 (Phone — line drop, postpone, 1on1).
-
----
-
-## 📖 Cách dùng
-
-1. Đọc tuần tự từ rule_01 → rule_50 (recommended)
-2. Hoặc đọc lẻ theo nhu cầu: trước họp lớn → đọc Phần I, sắp viết biên bản → Phần V
-3. Phụ lục A là script flash-card cho học thuộc cụm từ chuẩn
-4. Phụ lục C để ôn BJT theo level
-5. Phụ lục D để copy template cho công việc thật
+1. Đọc tuần tự từ rule 01 → rule 50.
+2. Hoặc đọc lẻ theo nhu cầu: trước họp lớn → đọc Phần I, sắp viết biên bản → Phần V.
+3. Phụ lục A là tập mẫu câu để học thuộc cụm câu chuẩn.
+4. Phụ lục C để ôn BJT theo cấp độ.
+5. Phụ lục D để dùng lại các mẫu cho công việc thật.
 
 ---
 
-## ⚖️ Bản quyền
+## Bản quyền
 
 © 2026 Hizashi Teams. Sáng tác gốc, dựa trên kinh nghiệm + tài liệu BJT công khai. Không tái bản thương mại nếu chưa có văn bản đồng ý.
 
 ---
 
-*Bản 1.0 — 2026. 50 rules + 4 phụ lục, schema v3 sẵn sàng cho audio + app.*
+*Hizashi — Tia nắng đầu ngày trong mỗi cuộc họp công việc của bạn.*

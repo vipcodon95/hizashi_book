@@ -4,7 +4,7 @@
 >
 > 相手の発言を自分の言葉で要約し直し、「〜という認識でよろしいでしょうか？」で確認する。
 >
-> **Liên quan:** Rule 21 (làm rõ thông tin), Rule 22 (đồng ý), Rule 44 (đầu việc cần làm).
+> **Liên quan:** Rule 21 (làm rõ thông tin), Rule 22 (đồng ý), Rule 44 (việc cần làm).
 
 ---
 
@@ -14,46 +14,39 @@ Anh Matsumoto vừa giải thích 5 phút về thay đổi yêu cầu module tha
 
 ---
 
-## ❌ Hội thoại XẤU — không tóm tắt, ghi nhận mơ hồ
+## Hội thoại XẤU — không tóm tắt, ghi nhận mơ hồ
 
 *sau 5 phút giải thích · 1 tuần sau, code chỉ thêm PayPay, quên LINE Pay + quy trình hoàn tiền*
 
 | Vai | Câu |
 |---------|-----|
-| **松本** | 「…<ruby>以上<rt>いじょう</rt></ruby>が<ruby>変更点<rt>へんこうてん</rt></ruby>となります。」 |
-|  | *...Trên đây là các điểm thay đổi.* |
-| **ズン** | 「はい、<ruby>了解<rt>りょうかい</rt></ruby>しました。」 |
-|  | *Vâng em rõ ạ.* |
-| **松本** | 「LINE Pay と<ruby>返金<rt>へんきん</rt></ruby>フローはどうなっていますか？<ruby>前回<rt>ぜんかい</rt></ruby>お<ruby>話<rt>はな</rt></ruby>したと<ruby>思<rt>おも</rt></ruby>うのですが…」 |
-|  | *LINE Pay và flow hoàn tiền thì sao? Tôi nghĩ lần trước đã nói rồi mà...* |
+| **松本** | 「…<ruby>以上<rt>いじょう</rt></ruby>が<ruby>変更点<rt>へんこうてん</rt></ruby>となります。」 <br/>*...Trên đây là các điểm thay đổi.* |
+| **ズン** | 「はい、<ruby>了解<rt>りょうかい</rt></ruby>しました。」 <br/>*Vâng em rõ ạ.* |
+| **松本** | 「LINE Pay と<ruby>返金<rt>へんきん</rt></ruby>フローはどうなっていますか？<ruby>前回<rt>ぜんかい</rt></ruby>お<ruby>話<rt>はな</rt></ruby>したと<ruby>思<rt>おも</rt></ruby>うのですが…」 <br/>*LINE Pay và flow hoàn tiền thì sao? Tôi nghĩ lần trước đã nói rồi mà...* |
 
 **Vì sao xấu:** "了解しました" không chứng minh đã hiểu đủ 3 điểm. Khách không có cơ hội đính chính → 1 tuần sau phát sinh hiểu sai lệch.
 
 ---
 
-## ✅ Hội thoại TỐT — paraphrase 3 điểm
+## Hội thoại TỐT — paraphrase 3 điểm
 
 *sau 5 phút giải thích*
 
 | Vai | Câu |
 |---------|-----|
-| **松本** | 「…以上が変更点となります。」 |
-|  | *...Trên đây là các điểm thay đổi.* |
-| **ズン** | 「松本様のおっしゃるのは、<ruby>3点<rt>さんてん</rt></ruby>【1】の<ruby>変更<rt>へんこう</rt></ruby>——①<ruby>決済<rt>けっさい</rt></ruby>ゲートウェイにPayPayとLINE Payの<ruby>追加<rt>ついか</rt></ruby>、②<ruby>返金<rt>へんきん</rt></ruby>ワークフローの<ruby>修正<rt>しゅうせい</rt></ruby>、③ベトナム<ruby>語<rt>ご</rt></ruby>メッセージの<ruby>更新<rt>こうしん</rt></ruby>——という<ruby>認識<rt>にんしき</rt></ruby>でよろしいでしょうか【2】？」 |
-|  | *Anh Matsumoto, anh nói gồm 3 điểm thay đổi — (1) thêm PayPay và LINE Pay vào cổng thanh toán, (2) sửa workflow hoàn tiền, (3) update message tiếng Việt — em hiểu đúng không ạ?* |
-| **松本** | 「はい、その<ruby>通<rt>とお</rt></ruby>りです。ただ、③については<ruby>優先度<rt>ゆうせんど</rt></ruby><ruby>低<rt>てい</rt></ruby>でも<ruby>構<rt>かま</rt></ruby>いません。」 |
-|  | *Đúng rồi. Riêng (3) thì priority thấp cũng được nhé.* |
-| **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。①と②を<ruby>最優先<rt>さいゆうせん</rt></ruby>、③は<ruby>後回<rt>あとまわ</rt></ruby>し<ruby>可能<rt>かのう</rt></ruby>、と<ruby>理解<rt>りかい</rt></ruby>いたしました【3】。」 |
-|  | *Vâng em rõ ạ. Em hiểu là (1) và (2) ưu tiên cao nhất, (3) có thể để sau ạ.* |
+| **松本** | 「…以上が変更点となります。」 <br/>*...Trên đây là các điểm thay đổi.* |
+| **ズン** | 「松本様のおっしゃるのは、<ruby>3点<rt>さんてん</rt></ruby>【1】の<ruby>変更<rt>へんこう</rt></ruby>——①<ruby>決済<rt>けっさい</rt></ruby>ゲートウェイにPayPayとLINE Payの<ruby>追加<rt>ついか</rt></ruby>、②<ruby>返金<rt>へんきん</rt></ruby>ワークフローの<ruby>修正<rt>しゅうせい</rt></ruby>、③ベトナム<ruby>語<rt>ご</rt></ruby>メッセージの<ruby>更新<rt>こうしん</rt></ruby>——という<ruby>認識<rt>にんしき</rt></ruby>でよろしいでしょうか【2】？」 <br/>*Anh Matsumoto, anh nói gồm 3 điểm thay đổi — (1) thêm PayPay và LINE Pay vào cổng thanh toán, (2) sửa workflow hoàn tiền, (3) update message tiếng Việt — em hiểu đúng không ạ?* |
+| **松本** | 「はい、その<ruby>通<rt>とお</rt></ruby>りです。ただ、③については<ruby>優先度<rt>ゆうせんど</rt></ruby><ruby>低<rt>てい</rt></ruby>でも<ruby>構<rt>かま</rt></ruby>いません。」 <br/>*Đúng rồi. Riêng (3) thì độ ưu tiên thấp cũng được nhé.* |
+| **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。①と②を<ruby>最優先<rt>さいゆうせん</rt></ruby>、③は<ruby>後回<rt>あとまわ</rt></ruby>し<ruby>可能<rt>かのう</rt></ruby>、と<ruby>理解<rt>りかい</rt></ruby>いたしました【3】。」 <br/>*Vâng em rõ ạ. Em hiểu là (1) và (2) ưu tiên cao nhất, (3) có thể để sau ạ.* |
 
-📝 **Ghi chú:**
+ **Ghi chú:**
 - 【1】**「3点」** — đếm số điểm cụ thể giúp đối phương kiểm tra thiếu/đủ.
 - 【2】**「〜という認識でよろしいでしょうか？」** — câu chốt để xác nhận. Cho phép đối phương sửa nếu mình hiểu sai.
 - 【3】**「①と②を最優先、③は後回し可能、と理解いたしました」** — sau khi đối phương đính chính, nhắc lại với cập nhật mới. Xác nhận 2 lần = không sai.
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「〇〇様のおっしゃるのは〜という認識でよろしいでしょうか？」**
 >
@@ -61,7 +54,7 @@ Anh Matsumoto vừa giải thích 5 phút về thay đổi yêu cầu module tha
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - "了解しました" cho phần giải thích dài 5 phút → không chứng minh hiểu.
 - Tóm tắt quá dài (lặp gần như nguyên văn) → phí thời gian.
@@ -69,14 +62,14 @@ Anh Matsumoto vừa giải thích 5 phút về thay đổi yêu cầu module tha
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 要約 | ようやく | Tóm tắt |
-| 認識 | にんしき | Cách hiểu |
-| 決済ゲートウェイ | けっさいゲートウェイ | Cổng thanh toán |
-| 返金 | へんきん | Hoàn tiền |
-| ワークフロー | ワークフロー | Workflow |
-| 後回し | あとまわし | Để lại sau |
-| 最優先 | さいゆうせん | Ưu tiên cao nhất |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 要約 | ようやく | YẾU ƯỚC | Tóm tắt |
+| 認識 | にんしき | NHẬN THỨC | Cách hiểu |
+| 決済ゲートウェイ | けっさいゲートウェイ | QUYẾT TẾ | Cổng thanh toán |
+| 返金 | へんきん | HOÀN KIM | Hoàn tiền |
+| ワークフロー | ワークフロー | — | Quy trình xử lý |
+| 後回し | あとまわし | — | Để lại sau |
+| 最優先 | さいゆうせん | TỐI ƯU TIÊN | Ưu tiên cao nhất |

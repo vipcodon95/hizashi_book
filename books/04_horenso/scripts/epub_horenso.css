@@ -1,0 +1,130 @@
+/* CSS EPUB riêng cho Sách 03 — Họp / 会議 (song ngữ trong 1 file).
+
+   Bảng "chuẩn" tỉ lệ cố định (xem analyze_tables.py _is_standard):
+   - Vai|Câu (97 bảng) → 20/80
+   - Từ vựng 4 cột (Từ|Cách đọc|Hán Việt|Nghĩa Việt, 50 bảng) → 22/22/22/34
+   - Từ vựng 5 cột (+ Lần đầu xuất hiện, 5 bảng) → 20×5
+   - Nhân vật (Tên VN|名前|Vai|Ghi chú) → cast 18/16/24/42
+   - Đối chiếu 2 cột (không 「」) → 50/50
+   Các bảng đặc thù khác → tool analyze_tables.py tự sinh class + tỉ lệ. */
+
+/* Heading */
+h1 { font-size: 1.6em; margin: 1em 0 0.6em; line-height: 1.25; page-break-before: always; }
+h2 { font-size: 1.3em; margin: 1.2em 0 0.5em; line-height: 1.3; }
+h3 { font-size: 1.15em; margin: 1em 0 0.4em; line-height: 1.35; }
+h4 { font-size: 1.05em; margin: 0.9em 0 0.35em; font-weight: bold; }
+h5 { font-size: 0.98em; margin: 0.7em 0 0.25em; font-weight: bold; }
+
+/* Bảng — border 1 nét full + table-layout:fixed để width % được tôn trọng. */
+table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  border: 1px solid #888;
+  margin: 0.6em 0 1em;
+  font-size: 0.92em;
+}
+thead th {
+  text-align: left;
+  border: 1px solid #888;
+  padding: 0.3em 0.6em;
+  font-weight: bold;
+  vertical-align: top;
+}
+tbody td {
+  border: 1px solid #ccc;
+  padding: 0.35em 0.6em;
+  vertical-align: top;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+/* === Bảng 2 CỘT (hội thoại: Vai | Câu) — 20/80 === */
+tr > td:first-child:nth-last-child(2),
+tr > th:first-child:nth-last-child(2) {
+  width: 20%;
+  font-weight: bold;
+}
+tr > td:first-child:nth-last-child(2) ~ td,
+tr > th:first-child:nth-last-child(2) ~ th {
+  width: 80%;
+  font-weight: normal;
+}
+
+/* === Bảng TỪ VỰNG 4 cột (Từ|Cách đọc|Hán Việt|Nghĩa Việt) — 22/22/22/34 === */
+table.vocab4-table { table-layout: fixed; }
+table.vocab4-table td:nth-child(1), table.vocab4-table th:nth-child(1) { width: 22% !important; }
+table.vocab4-table td:nth-child(2), table.vocab4-table th:nth-child(2) { width: 22% !important; }
+table.vocab4-table td:nth-child(3), table.vocab4-table th:nth-child(3) { width: 22% !important; }
+table.vocab4-table td:nth-child(4), table.vocab4-table th:nth-child(4) { width: 34% !important; }
+
+/* === Bảng TỪ VỰNG 5 cột (+ Lần đầu xuất hiện) — chia đều 20×5 === */
+table.vocab5-table { table-layout: fixed; }
+table.vocab5-table td, table.vocab5-table th { width: 20% !important; }
+
+/* === Bảng NHÂN VẬT 4 cột (Tên VN|名前|Vai|Ghi chú) — chia đều 25×4 === */
+table.cast-table { table-layout: fixed; }
+table.cast-table td, table.cast-table th { width: 25% !important; }
+
+/* === Bảng CẤU TRÚC front matter (Phần | Tên | Số rule) — 25/50/25 ===
+   Class cố định .cautruc-table do reset_colwidth.lua gán (không qua hash auto-gen). */
+table.cautruc-table { table-layout: fixed; }
+table.cautruc-table td:nth-child(1), table.cautruc-table th:nth-child(1) { width: 25% !important; }
+table.cautruc-table td:nth-child(2), table.cautruc-table th:nth-child(2) { width: 50% !important; }
+table.cautruc-table td:nth-child(3), table.cautruc-table th:nth-child(3) { width: 25% !important; }
+
+/* === Bảng "Lúc nào|Việc gì" / "Khi nào|Việc cần làm" — custom 30/70 (rule_14, rule_17) ===
+   Cột thời điểm → 30%; cột việc cần làm → 70%. */
+table.when-what-table { table-layout: fixed; }
+table.when-what-table td:first-child, table.when-what-table th:first-child {
+  width: 30% !important; font-weight: normal !important;
+}
+table.when-what-table td:last-child, table.when-what-table th:last-child { width: 70% !important; }
+
+/* === Bảng ĐỐI CHIẾU 2 cột (không có câu thoại 「」) — 50/50 === */
+table.compare-table td:first-child, table.compare-table th:first-child {
+  width: 50% !important; font-weight: normal !important;
+}
+table.compare-table td:last-child, table.compare-table th:last-child { width: 50% !important; }
+
+/* === Bảng RỘNG (≥6 cột) — lua gắn .wide-table === */
+table.wide-table {
+  table-layout: auto;
+  font-size: 0.78em;
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+table.wide-table th, table.wide-table td {
+  padding: 0.25em 0.4em;
+  white-space: normal;
+  min-width: 4em;
+}
+
+/* Ruby furigana */
+ruby { ruby-align: center; }
+rt { font-size: 0.6em; }
+
+/* Blockquote — luận điểm, lưu ý */
+blockquote {
+  margin: 0.8em 0;
+  padding: 0.5em 1em;
+  border-left: 3px solid #888;
+  background: #f7f7f7;
+  font-size: 0.95em;
+}
+blockquote p { margin: 0.3em 0; }
+
+/* Code (mẫu chương trình họp, biên bản) */
+pre, code { font-family: monospace; font-size: 0.9em; }
+pre {
+  background: #f4f4f4;
+  padding: 0.6em 0.8em;
+  border: 1px solid #ddd;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+hr { border: none; border-top: 1px solid #ccc; margin: 1.2em 0; }
+em { font-style: italic; color: #444; }
+body { font-family: serif; line-height: 1.6; }

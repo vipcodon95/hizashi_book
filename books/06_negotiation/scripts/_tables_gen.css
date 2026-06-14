@@ -1,0 +1,71 @@
+/* ===== CSS tỉ lệ cột bảng — TỰ SINH bởi analyze_tables.py ===== */
+/* KHÔNG sửa tay file này; chỉnh số đo qua nội dung .md rồi build lại. */
+
+/*  | Vai | Câu (Slack)  (2 bảng, 13 / 13 / 74) */
+table.t-tbl-3a6186 { table-layout: fixed; }
+table.t-tbl-3a6186 td:nth-child(1), table.t-tbl-3a6186 th:nth-child(1) { width: 13% !important; }
+table.t-tbl-3a6186 td:nth-child(2), table.t-tbl-3a6186 th:nth-child(2) { width: 13% !important; }
+table.t-tbl-3a6186 td:nth-child(3), table.t-tbl-3a6186 th:nth-child(3) { width: 74% !important; }
+
+/*  | Vai | Câu (Zoom)  (2 bảng, 13 / 32 / 55) */
+table.t-tbl-09fbbf { table-layout: fixed; }
+table.t-tbl-09fbbf td:nth-child(1), table.t-tbl-09fbbf th:nth-child(1) { width: 13% !important; }
+table.t-tbl-09fbbf td:nth-child(2), table.t-tbl-09fbbf th:nth-child(2) { width: 32% !important; }
+table.t-tbl-09fbbf td:nth-child(3), table.t-tbl-09fbbf th:nth-child(3) { width: 55% !important; }
+
+/*  | Vai | Câu (họp nội bộ 9:00)  (1 bảng, 13 / 13 / 74) */
+table.t-tbl-27b0ba { table-layout: fixed; }
+table.t-tbl-27b0ba td:nth-child(1), table.t-tbl-27b0ba th:nth-child(1) { width: 13% !important; }
+table.t-tbl-27b0ba td:nth-child(2), table.t-tbl-27b0ba th:nth-child(2) { width: 13% !important; }
+table.t-tbl-27b0ba td:nth-child(3), table.t-tbl-27b0ba th:nth-child(3) { width: 74% !important; }
+
+/*  | Vai | Câu (mail)  (4 bảng, 13 / 22 / 65) */
+table.t-tbl-980c8a { table-layout: fixed; }
+table.t-tbl-980c8a td:nth-child(1), table.t-tbl-980c8a th:nth-child(1) { width: 13% !important; }
+table.t-tbl-980c8a td:nth-child(2), table.t-tbl-980c8a th:nth-child(2) { width: 22% !important; }
+table.t-tbl-980c8a td:nth-child(3), table.t-tbl-980c8a th:nth-child(3) { width: 65% !important; }
+
+/*  | Vai | Câu (đàm phán cùng khách)  (1 bảng, 13 / 18 / 69) */
+table.t-tbl-6ab53e { table-layout: fixed; }
+table.t-tbl-6ab53e td:nth-child(1), table.t-tbl-6ab53e th:nth-child(1) { width: 13% !important; }
+table.t-tbl-6ab53e td:nth-child(2), table.t-tbl-6ab53e th:nth-child(2) { width: 18% !important; }
+table.t-tbl-6ab53e td:nth-child(3), table.t-tbl-6ab53e th:nth-child(3) { width: 69% !important; }
+
+/*  | Vai | Câu (社内 MTG)  (1 bảng, 13 / 19 / 68) */
+table.t-tbl-f025b1 { table-layout: fixed; }
+table.t-tbl-f025b1 td:nth-child(1), table.t-tbl-f025b1 th:nth-child(1) { width: 13% !important; }
+table.t-tbl-f025b1 td:nth-child(2), table.t-tbl-f025b1 th:nth-child(2) { width: 19% !important; }
+table.t-tbl-f025b1 td:nth-child(3), table.t-tbl-f025b1 th:nth-child(3) { width: 68% !important; }
+
+/* # | Hành động | Người thực hiện | Hạn chót  (1 bảng, 13 / 29 / 40 / 18) */
+table.t-tbl-babde8 { table-layout: fixed; }
+table.t-tbl-babde8 td:nth-child(1), table.t-tbl-babde8 th:nth-child(1) { width: 13% !important; }
+table.t-tbl-babde8 td:nth-child(2), table.t-tbl-babde8 th:nth-child(2) { width: 29% !important; }
+table.t-tbl-babde8 td:nth-child(3), table.t-tbl-babde8 th:nth-child(3) { width: 40% !important; }
+table.t-tbl-babde8 td:nth-child(4), table.t-tbl-babde8 th:nth-child(4) { width: 18% !important; }
+
+/* # | アクション | Owner | 期限  (1 bảng, 13 / 37 / 28 / 22) */
+table.t-tbl-800c8e { table-layout: fixed; }
+table.t-tbl-800c8e td:nth-child(1), table.t-tbl-800c8e th:nth-child(1) { width: 13% !important; }
+table.t-tbl-800c8e td:nth-child(2), table.t-tbl-800c8e th:nth-child(2) { width: 37% !important; }
+table.t-tbl-800c8e td:nth-child(3), table.t-tbl-800c8e th:nth-child(3) { width: 28% !important; }
+table.t-tbl-800c8e td:nth-child(4), table.t-tbl-800c8e th:nth-child(4) { width: 22% !important; }
+
+/* Mục | Nội dung  (1 bảng, 28 / 72) */
+table.t-m-c-daf95f { table-layout: fixed; }
+table.t-m-c-daf95f td:nth-child(1), table.t-m-c-daf95f th:nth-child(1) { width: 28% !important; }
+table.t-m-c-daf95f td:nth-child(2), table.t-m-c-daf95f th:nth-child(2) { width: 72% !important; }
+
+/* Phần | Tên | Số rule  (1 bảng, 13 / 74 / 13) */
+table.t-ph-n-6d8aa1 { table-layout: fixed; }
+table.t-ph-n-6d8aa1 td:nth-child(1), table.t-ph-n-6d8aa1 th:nth-child(1) { width: 13% !important; }
+table.t-ph-n-6d8aa1 td:nth-child(2), table.t-ph-n-6d8aa1 th:nth-child(2) { width: 74% !important; }
+table.t-ph-n-6d8aa1 td:nth-child(3), table.t-ph-n-6d8aa1 th:nth-child(3) { width: 13% !important; }
+
+/* Từ | Cách đọc | Hán Việt | Nghĩa Việt | Rule  (5 bảng, 16 / 22 / 21 / 28 / 13) */
+table.t-t-f3e657 { table-layout: fixed; }
+table.t-t-f3e657 td:nth-child(1), table.t-t-f3e657 th:nth-child(1) { width: 16% !important; }
+table.t-t-f3e657 td:nth-child(2), table.t-t-f3e657 th:nth-child(2) { width: 22% !important; }
+table.t-t-f3e657 td:nth-child(3), table.t-t-f3e657 th:nth-child(3) { width: 21% !important; }
+table.t-t-f3e657 td:nth-child(4), table.t-t-f3e657 th:nth-child(4) { width: 28% !important; }
+table.t-t-f3e657 td:nth-child(5), table.t-t-f3e657 th:nth-child(5) { width: 13% !important; }

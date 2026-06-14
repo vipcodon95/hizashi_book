@@ -4,56 +4,49 @@
 >
 > 「お時間が来てしまいましたので、続きは別途〜」— 時間→決定済み確認→積み残しの3ステップ。
 >
-> **Liên quan:** Rule 16 (phân bổ thời gian), Rule 32 (hoãn lại), Rule 43 (đóng họp).
+> **Liên quan:** Rule 16 (phân bổ thời gian), Rule 32 (hoãn quyết định), Rule 43 (đóng họp).
 
 ---
 
 ## Bối cảnh / 場面
 
-Họp 60 phút, đến phút 58 chỉ mới bàn xong 2/3 agenda items. Em Dũng (chủ trì) cần đóng họp đúng giờ.
+Họp 60 phút, đến phút 58 chỉ mới bàn xong 2/3 các mục trong chương trình. Em Dũng (chủ trì) cần đóng họp đúng giờ.
 
 ---
 
-## ❌ Hội thoại XẤU — kéo dài tuỳ tiện
+## Hội thoại XẤU — kéo dài tuỳ tiện
 
 *phút 58 · thực ra có buổi tiếp theo*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「あ、もう時間ですけど…まあ、もう少し続けましょうか？」 |
-|  | *À hết giờ rồi nhỉ... mà thôi, tiếp tý nữa được không ạ?* |
-| **大垣** | 「…次の<ruby>予定<rt>よてい</rt></ruby>があるんですが…」 |
-|  | *...Tôi có buổi tiếp theo...* |
+| **ズン** | 「あ、もう時間ですけど…まあ、もう少し続けましょうか？」 <br/>*À hết giờ rồi nhỉ... mà thôi, tiếp tý nữa được không ạ?* |
+| **大垣** | 「…次の<ruby>予定<rt>よてい</rt></ruby>があるんですが…」 <br/>*...Tôi có buổi tiếp theo...* |
 
-**Vì sao xấu:** Khách Nhật rất chặt giờ — họp tiếp theo liền sau. Hỏi 「続けましょうか？」 = ép khách phải lúng túng từ chối.
+**Vì sao xấu:** Khách Nhật rất chặt giờ — cuộc họp tiếp theo liền sau. Hỏi 「続けましょうか？」 = ép khách phải lúng túng từ chối.
 
 ---
 
-## ✅ Hội thoại TỐT — 3 bước đóng
+## Hội thoại TỐT — 3 bước đóng
 
 *phút 58*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「お時間が来てしまいましたので、本日はここまでとさせていただきます【1】。」 |
-|  | *Đã đến giờ rồi nên hôm nay em xin dừng tại đây ạ.* |
-| **ズン** | 「**【決定済み】**本日決定したのは、Phase 2スコープA案、リリース7月末、<ruby>責任者<rt>せきにんしゃ</rt></ruby>はトゥアンリーダー、の3点でございます【2】。」 |
-|  | *[Đã quyết] Hôm nay mình chốt 3 điểm: scope phase 2 phương án A, release cuối tháng 7, người phụ trách là anh Tuấn ạ.* |
-| **ズン** | 「**【積み残し】**残るスケジュール<ruby>詳細<rt>しょうさい</rt></ruby>とコスト<ruby>試算<rt>しさん</rt></ruby>につきましては、<ruby>別途<rt>べっと</rt></ruby><ruby>打合<rt>うちあわ</rt></ruby>せにてご相談させていただきます。来週水曜午後で30分のお時間<ruby>頂戴<rt>ちょうだい</rt></ruby>できますでしょうか【3】？」 |
-|  | *[Còn lại] Phần chi tiết schedule và tính cost em xin được bàn ở buổi riêng ạ. Anh dành cho em 30 phút chiều thứ Tư tuần sau được không ạ?* |
-| **大垣** | 「水曜15時で問題ありません。」 |
-|  | *15h thứ Tư OK.* |
-| **ズン** | 「ありがとうございます。本日はお時間頂戴し誠にありがとうございました。」 |
-|  | *Em cảm ơn anh ạ. Hôm nay em xin cảm ơn anh đã dành thời gian ạ.* |
+| **ズン** | 「お時間が来てしまいましたので、本日はここまでとさせていただきます【1】。」 <br/>*Đã đến giờ rồi nên hôm nay em xin dừng tại đây ạ.* |
+| **ズン** | 「**【決定済み】**本日決定したのは、Phase 2スコープA案、リリース7月末、<ruby>責任者<rt>せきにんしゃ</rt></ruby>はトゥアンリーダー、の3点でございます【2】。」 <br/>*[Đã quyết] Hôm nay mình chốt 3 điểm: phạm vi phase 2 phương án A, ra mắt cuối tháng 7, người phụ trách là anh Tuấn ạ.* |
+| **ズン** | 「**【積み残し】**残るスケジュール<ruby>詳細<rt>しょうさい</rt></ruby>とコスト<ruby>試算<rt>しさん</rt></ruby>につきましては、<ruby>別途<rt>べっと</rt></ruby><ruby>打合<rt>うちあわ</rt></ruby>せにてご相談させていただきます。来週水曜午後で30分のお時間<ruby>頂戴<rt>ちょうだい</rt></ruby>できますでしょうか【3】？」 <br/>*[Còn lại] Phần chi tiết schedule và tính cost em xin được bàn ở buổi riêng ạ. Anh dành cho em 30 phút chiều thứ Tư tuần sau được không ạ?* |
+| **大垣** | 「水曜15時で問題ありません。」 <br/>*15h thứ Tư OK.* |
+| **ズン** | 「ありがとうございます。本日はお時間頂戴し誠にありがとうございました。」 <br/>*Em cảm ơn anh ạ. Hôm nay em xin cảm ơn anh đã dành thời gian ạ.* |
 
-📝 **Ghi chú:**
+ **Ghi chú:**
 - 【1】**「お時間が来てしまいましたので」** — câu chuẩn báo hết giờ. Không hỏi 「続けますか？」.
 - 【2】**Xác nhận lại các điểm đã quyết** — biên bản viết ngay.
 - 【3】**Chuyển tiếp phần còn lại + đề xuất luôn khung giờ buổi sau** — không bỏ ngỏ.
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「お時間が来てしまいましたので、本日はここまで。決定事項は〇、続きは〇月〇日にご相談。」**
 >
@@ -61,21 +54,21 @@ Họp 60 phút, đến phút 58 chỉ mới bàn xong 2/3 agenda items. Em Dũng
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - 「もう少し続けましょうか？」 → khách phải lúng túng từ chối.
-- Kết thúc mơ hồ không xác nhận lại các điểm đã quyết.
+- Kết thúc mơ hồ không xác nhận lại các điểm đã chốt.
 - 「また別途」 không kèm khung giờ cụ thể.
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 時間切れ | じかんぎれ | Hết giờ |
-| 積み残し | つみのこし | Còn lại / chưa xong |
-| 別途 | べっと | Riêng / khác buổi |
-| 打合せ | うちあわせ | Buổi trao đổi |
-| 試算 | しさん | Tính thử |
-| 詳細 | しょうさい | Chi tiết |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 時間切れ | じかんぎれ | — | Hết giờ |
+| 積み残し | つみのこし | — | Còn lại / chưa xong |
+| 別途 | べっと | BIỆT ĐỒ | Riêng / khác buổi |
+| 打合せ | うちあわせ | — | Buổi trao đổi |
+| 試算 | しさん | THÍ TOÁN | Tính thử |
+| 詳細 | しょうさい | TƯỜNG TẾ | Chi tiết |

@@ -1,0 +1,83 @@
+/* ===== CSS tỉ lệ cột bảng — TỰ SINH bởi analyze_tables.py ===== */
+/* KHÔNG sửa tay file này; chỉnh số đo qua nội dung .md rồi build lại. */
+
+/* # | KH | Ngày | Milestone | Output | Owner (vendor / client)  (1 bảng, 13 / 13 / 13 / 19 / 22 / 20) */
+table.t-tbl-8fefbb { table-layout: fixed; }
+table.t-tbl-8fefbb td:nth-child(1), table.t-tbl-8fefbb th:nth-child(1) { width: 13% !important; }
+table.t-tbl-8fefbb td:nth-child(2), table.t-tbl-8fefbb th:nth-child(2) { width: 13% !important; }
+table.t-tbl-8fefbb td:nth-child(3), table.t-tbl-8fefbb th:nth-child(3) { width: 13% !important; }
+table.t-tbl-8fefbb td:nth-child(4), table.t-tbl-8fefbb th:nth-child(4) { width: 19% !important; }
+table.t-tbl-8fefbb td:nth-child(5), table.t-tbl-8fefbb th:nth-child(5) { width: 22% !important; }
+table.t-tbl-8fefbb td:nth-child(6), table.t-tbl-8fefbb th:nth-child(6) { width: 20% !important; }
+
+/* # | リスク | 発生確率 | 影響度 | 対策  (1 bảng, 13 / 30 / 13 / 13 / 31) */
+table.t-tbl-df456b { table-layout: fixed; }
+table.t-tbl-df456b td:nth-child(1), table.t-tbl-df456b th:nth-child(1) { width: 13% !important; }
+table.t-tbl-df456b td:nth-child(2), table.t-tbl-df456b th:nth-child(2) { width: 30% !important; }
+table.t-tbl-df456b td:nth-child(3), table.t-tbl-df456b th:nth-child(3) { width: 13% !important; }
+table.t-tbl-df456b td:nth-child(4), table.t-tbl-df456b th:nth-child(4) { width: 13% !important; }
+table.t-tbl-df456b td:nth-child(5), table.t-tbl-df456b th:nth-child(5) { width: 31% !important; }
+
+/* # | 記号 | 日付 | マイルストーン | 成果物 | 責任者 (vendor/client)  (2 bảng, 13 / 13 / 13 / 18 / 22 / 21) */
+table.t-tbl-16e271 { table-layout: fixed; }
+table.t-tbl-16e271 td:nth-child(1), table.t-tbl-16e271 th:nth-child(1) { width: 13% !important; }
+table.t-tbl-16e271 td:nth-child(2), table.t-tbl-16e271 th:nth-child(2) { width: 13% !important; }
+table.t-tbl-16e271 td:nth-child(3), table.t-tbl-16e271 th:nth-child(3) { width: 13% !important; }
+table.t-tbl-16e271 td:nth-child(4), table.t-tbl-16e271 th:nth-child(4) { width: 18% !important; }
+table.t-tbl-16e271 td:nth-child(5), table.t-tbl-16e271 th:nth-child(5) { width: 22% !important; }
+table.t-tbl-16e271 td:nth-child(6), table.t-tbl-16e271 th:nth-child(6) { width: 21% !important; }
+
+/* Kiểu | Khi dùng | Ví dụ  (1 bảng, 13 / 28 / 59) */
+table.t-ki-u-4b440b { table-layout: fixed; }
+table.t-ki-u-4b440b td:nth-child(1), table.t-ki-u-4b440b th:nth-child(1) { width: 13% !important; }
+table.t-ki-u-4b440b td:nth-child(2), table.t-ki-u-4b440b th:nth-child(2) { width: 28% !important; }
+table.t-ki-u-4b440b td:nth-child(3), table.t-ki-u-4b440b th:nth-child(3) { width: 59% !important; }
+
+/* Loại dữ liệu | Biểu đồ nên dùng | Nên tránh  (1 bảng, 42 / 40 / 18) */
+table.t-lo-i-d-li-u-47b3b2 { table-layout: fixed; }
+table.t-lo-i-d-li-u-47b3b2 td:nth-child(1), table.t-lo-i-d-li-u-47b3b2 th:nth-child(1) { width: 42% !important; }
+table.t-lo-i-d-li-u-47b3b2 td:nth-child(2), table.t-lo-i-d-li-u-47b3b2 th:nth-child(2) { width: 40% !important; }
+table.t-lo-i-d-li-u-47b3b2 td:nth-child(3), table.t-lo-i-d-li-u-47b3b2 th:nth-child(3) { width: 18% !important; }
+
+/* Mục | Nội dung  (1 bảng, 27 / 73) */
+table.t-m-c-daf95f { table-layout: fixed; }
+table.t-m-c-daf95f td:nth-child(1), table.t-m-c-daf95f th:nth-child(1) { width: 27% !important; }
+table.t-m-c-daf95f td:nth-child(2), table.t-m-c-daf95f th:nth-child(2) { width: 73% !important; }
+
+/* Phần | Tên | Số rule  (1 bảng, 13 / 74 / 13) */
+table.t-ph-n-6d8aa1 { table-layout: fixed; }
+table.t-ph-n-6d8aa1 td:nth-child(1), table.t-ph-n-6d8aa1 th:nth-child(1) { width: 13% !important; }
+table.t-ph-n-6d8aa1 td:nth-child(2), table.t-ph-n-6d8aa1 th:nth-child(2) { width: 74% !important; }
+table.t-ph-n-6d8aa1 td:nth-child(3), table.t-ph-n-6d8aa1 th:nth-child(3) { width: 13% !important; }
+
+/* Tầng | 表現  (1 bảng, 23 / 77) */
+table.t-t-ng-9324b9 { table-layout: fixed; }
+table.t-t-ng-9324b9 td:nth-child(1), table.t-t-ng-9324b9 th:nth-child(1) { width: 23% !important; }
+table.t-t-ng-9324b9 td:nth-child(2), table.t-t-ng-9324b9 th:nth-child(2) { width: 77% !important; }
+
+/* Từ | Cách đọc | Hán Việt | Nghĩa Việt | Rule  (5 bảng, 14 / 20 / 21 / 32 / 13) */
+table.t-t-f3e657 { table-layout: fixed; }
+table.t-t-f3e657 td:nth-child(1), table.t-t-f3e657 th:nth-child(1) { width: 14% !important; }
+table.t-t-f3e657 td:nth-child(2), table.t-t-f3e657 th:nth-child(2) { width: 20% !important; }
+table.t-t-f3e657 td:nth-child(3), table.t-t-f3e657 th:nth-child(3) { width: 21% !important; }
+table.t-t-f3e657 td:nth-child(4), table.t-t-f3e657 th:nth-child(4) { width: 32% !important; }
+table.t-t-f3e657 td:nth-child(5), table.t-t-f3e657 th:nth-child(5) { width: 13% !important; }
+
+/* Từ thổi phồng kiểu Mỹ | Tiếng Nhật công việc  (1 bảng, 44 / 56) */
+table.t-t-th-i-ph-ng-fc9717 { table-layout: fixed; }
+table.t-t-th-i-ph-ng-fc9717 td:nth-child(1), table.t-t-th-i-ph-ng-fc9717 th:nth-child(1) { width: 44% !important; }
+table.t-t-th-i-ph-ng-fc9717 td:nth-child(2), table.t-t-th-i-ph-ng-fc9717 th:nth-child(2) { width: 56% !important; }
+
+/* 評価軸 | 案A (最小) | 案B (中規模) | 案C (フル)  (1 bảng, 33 / 21 / 25 / 21) */
+table.t-tbl-405bb2 { table-layout: fixed; }
+table.t-tbl-405bb2 td:nth-child(1), table.t-tbl-405bb2 th:nth-child(1) { width: 33% !important; }
+table.t-tbl-405bb2 td:nth-child(2), table.t-tbl-405bb2 th:nth-child(2) { width: 21% !important; }
+table.t-tbl-405bb2 td:nth-child(3), table.t-tbl-405bb2 th:nth-child(3) { width: 25% !important; }
+table.t-tbl-405bb2 td:nth-child(4), table.t-tbl-405bb2 th:nth-child(4) { width: 21% !important; }
+
+/* 軸 | A案(最小) | B案(推奨) | C案(フル)  (1 bảng, 22 / 26 / 26 / 26) */
+table.t-tbl-df4e71 { table-layout: fixed; }
+table.t-tbl-df4e71 td:nth-child(1), table.t-tbl-df4e71 th:nth-child(1) { width: 22% !important; }
+table.t-tbl-df4e71 td:nth-child(2), table.t-tbl-df4e71 th:nth-child(2) { width: 26% !important; }
+table.t-tbl-df4e71 td:nth-child(3), table.t-tbl-df4e71 th:nth-child(3) { width: 26% !important; }
+table.t-tbl-df4e71 td:nth-child(4), table.t-tbl-df4e71 th:nth-child(4) { width: 26% !important; }

@@ -1,6 +1,6 @@
-# Phụ lục D — Template Tổng Hợp / テンプレート集
+# Phụ lục D — Mẫu Tổng Hợp / テンプレート集
 
-*Tổng hợp các template (agenda, biên bản, mail) đính kèm trong các rules. Copy-paste để dùng.*
+*Tổng hợp các mẫu (chương trình, biên bản, mail) đính kèm trong các rules. Copy-paste để dùng.*
 
 ---
 
@@ -79,7 +79,7 @@ Bên em: 〇〇, 〇〇
 --- ② Items đã đồng thuận ---
 1. Giá: 〇〇 ¥ (chưa thuế)
 2. Kỳ hạn: 〇/〇 - 〇/〇
-3. Scope: 〇〇
+3. Phạm vi: 〇〇
 4. SLA: 〇〇%
 5. Điều khoản thanh toán: chốt cuối tháng - trả cuối tháng kế
 6. IP sản phẩm: 〇〇
@@ -90,15 +90,15 @@ Bên em: 〇〇, 〇〇
 2. 〇〇 — bên anh/chị nội bộ thảo luận
 
 --- ④ Next actions ---
-| # | Action | Owner | Deadline |
-|---|--------|-------|----------|
+| # | Hành động | Người thực hiện | Hạn chót |
+|---|-----------|-----------------|----------|
 | 1 | Gửi contract draft | 〇〇 (Tiên Phát) | 〇/〇 |
 | 2 | Đệ trình ringi | 〇〇 (bên anh/chị) | 〇/〇 |
 | 3 | Set kickoff MTG | 〇〇 | 〇/〇 |
 
 --- ⑤ Đính kèm ---
-- Proposal v〇.〇
-- Meeting note
+- Đề xuất v〇.〇
+- Ghi chép cuộc họp
 
 Nếu có sai lệch nhận thức, phiền anh/chị reply lại mail này giúp em ạ.
 Em rất mong nhận được phản hồi.
@@ -109,13 +109,13 @@ Mail: 〇〇@tienphat.vn
 Tel: 〇〇
 ```
 
-📝 **Ghi chú VN:** Bắt buộc gửi trong 24h sau đàm phán. Phải qua senior review trước khi gửi. Reply OK = có thể attach vào ringi document.
-📝 **Ghi chú JP:** 送信は商談から24時間以内必須。Senior レビューを通してから送信。OK 返信 = 稟議添付可能。
+ **Ghi chú VN:** Bắt buộc gửi trong 24h sau đàm phán. Phải qua duyệt cấp trên trước khi gửi. Phản hồi OK = có thể đính kèm vào ringi document.
+ **Ghi chú JP:** 送信は商談から24時間以内必須。Senior レビューを通してから送信。OK 返信 = 稟議添付可能。
 
 
 ## Checklist (4 mẫu)
 
-### Rule 01 — Template BATNA 3 Scenario
+### Rule 01 — Mẫu BATNA 3 Kịch bản
 
 *JP: BATNA 3シナリオ・テンプレート*
 
@@ -158,37 +158,37 @@ Tel: 〇〇
 [Thời gian] 〇/〇/〇
 [Đối tác] anh/chị 〇〇
 
---- Scenario A: Deal as-is ---
+--- Kịch bản A: Đạt thương vụ ---
   Giá: 〇〇 ¥
-  Scope: 〇〇
+  Phạm vi: 〇〇
   Điều kiện: 〇〇
   Kết quả mong đợi: bắt tay trong ngày
 
---- Scenario B: Counter-offer ---
-  Giá: 〇〇 ¥ (target: 〇〇 ¥)
-  Nhượng bộ: 〇〇 (vd: scope -10%)
+--- Kịch bản B: Đề đối ---
+  Giá: 〇〇 ¥ (mục tiêu: 〇〇 ¥)
+  Nhượng bộ: 〇〇 (vd: phạm vi -10%)
   Cơ sở: profit margin 〇〇% giữ được
   Người duyệt nội bộ: 〇〇 (đã / chưa)
-  Trade ngược: lấy 〇〇 từ phía họ
+  Đổi ngược: lấy 〇〇 từ phía họ
 
---- Scenario C: Walk-away ---
-  Walk-away line: dưới 〇〇 ¥
-  Lựa chọn thay thế: 〇〇 (tên dự án + status)
-  Số liệu lựa chọn TT: 〇〇 ¥, deadline 〇〇
+--- Kịch bản C: Điểm rút lui ---
+  Mức rút lui: dưới 〇〇 ¥
+  Lựa chọn thay thế: 〇〇 (tên dự án + trạng thái)
+  Số liệu lựa chọn TT: 〇〇 ¥, hạn chót 〇〇
   Câu rút lui: 「本日は持ち帰りとさせてください…」
 
---- Checklist ngày G ---
-  □ Đã practice nói A/B/C ra miệng
-  □ Câu chào rút lui scenario C đã practice
-  □ Mang theo bằng chứng internal approval (Slack/mail)
-  □ Mang theo MoU/proof của lựa chọn thay thế
-  □ Đã practice 7-second silence
+--- Danh sách kiểm tra ngày G ---
+  □ Đã luyện tập nói A/B/C ra miệng
+  □ Câu chào rút lui kịch bản C đã luyện tập
+  □ Mang theo bằng chứng duyệt nội bộ (Slack/mail)
+  □ Mang theo MoU/bằng chứng lựa chọn thay thế
+  □ Đã luyện tập im lặng 7 giây
 ```
 
-📝 **Ghi chú VN:** Bắt buộc tạo + practice tối hôm trước đàm phán. Số liệu mơ hồ thì KHÔNG vào đàm phán. Senior review bắt buộc.
-📝 **Ghi chú JP:** 交渉前夜に必ず作成・練習。数値が曖昧なら交渉に行かない。Senior レビュー必須。
+ **Ghi chú VN:** Bắt buộc tạo + luyện tập tối hôm trước đàm phán. Số liệu mơ hồ thì KHÔNG vào đàm phán. Duyệt cấp trên bắt buộc.
+ **Ghi chú JP:** 交渉前夜に必ず作成・練習。数値が曖昧なら交渉に行かない。Senior レビュー必須。
 
-### Rule 19 — Pricing phrase checklist + 5 scenarios
+### Rule 19 — Danh sách kiểm tra câu định giá + 5 kịch bản
 
 *JP: 価格提示フレーズ チェックリスト + 5シナリオ*
 
@@ -227,39 +227,39 @@ Tel: 〇〇
 **Bản Việt placeholder:**
 
 ```
---- Checklist 4 yếu tố pricing phrase ---
+--- Danh sách kiểm tra 4 yếu tố câu chào giá ---
 
-[Trước khi quote]
+[Trước khi chào giá]
   □ Frame: đã chuẩn bị câu mở dựa trên tình huống khách
-  □ Number: số tiền cụ thể (anchor / target / step hiện tại?)
+  □ Number: số tiền cụ thể (neo giá / mục tiêu / bước hiện tại?)
   □ Justification: cơ sở số (effort / SLA / bội số ROI) sẵn sàng
-  □ Trade: ít nhất 1 điều kiện đổi (thời hạn / scope / payment / case)
+  □ Trade: ít nhất 1 điều kiện đổi (thời hạn / phạm vi / thanh toán / case)
 
-[5 scenarios + phrase]
+[5 kịch bản + câu]
 
-[1] Anchor mở đầu (go first)
-'Về giá, em đề xuất 3-tier. Better tier 〇〇¥, kèm Best tier 〇〇¥ làm anchor. Cơ sở ¥〇〇M là 〇〇, ROI quý cty 〇 lần ạ.'
+[1] Neo giá mở đầu (ra trước)
+'Về giá, em đề xuất 3-tier. Better tier 〇〇¥, kèm Best tier 〇〇¥ làm neo giá. Cơ sở ¥〇〇M là 〇〇, ROI quý cty 〇 lần ạ.'
 
-[2] Counter sau '高い' (chính của rule 19)
-'Em xin tiếp thu ạ. 〇〇 (frame), số tiền 〇〇¥. Cơ sở 〇〇 (-effort 〇%). Điều kiện: nếu được 〇〇, em có thể cung cấp giá này ạ.'
+[2] Đối phó sau '高い' (chính của rule 19)
+'Em xin tiếp thu ạ. 〇〇 (bối cảnh), số tiền 〇〇¥. Cơ sở 〇〇 (-effort 〇%). Điều kiện: nếu được 〇〇, em có thể cung cấp giá này ạ.'
 
 [3] Rút lại nhượng bộ (trade-back ở rule 09)
 'Đề xuất 〇〇¥ vừa rồi dựa trên tiền đề 〇〇, nếu tiền đề thay đổi thì xin phép em quay lại mức 〇〇¥ trước ạ.'
 
-[4] Best offer cuối
+[4] Đề nghị cuối tốt nhất
 'Đây là điều kiện cuối em có thể đưa ra. 〇〇¥ + 〇〇 (bao gồm). Vượt nữa là dưới mức gross margin, em không nhận được ạ.'
 
-[5] Mang về xem xét (escalation)
+[5] Mang về xem xét (leo thang)
 'Điều kiện quý anh đề xuất em không trả lời ngay tại chỗ được. Em xin xác nhận với CTO bên em, trả lời chính thức trước thứ 〇 ạ.'
 
---- Check ngày G ---
-  □ Đã practice 4 yếu tố ra miệng
-  □ Đã practice im lặng 7 giây (rule 25)
-  □ Confirm trigger trade-back (rule 09)
+--- Kiểm tra ngày G ---
+  □ Đã luyện tập 4 yếu tố ra miệng
+  □ Đã luyện tập im lặng 7 giây (rule 25)
+  □ Xác nhận tín hiệu rút nhượng bộ (rule 09)
 ```
 
-📝 **Ghi chú VN:** Đọc miệng 5 scenarios ít nhất 5 lần đêm trước. Practice cảm giác im lặng 7 giây.
-📝 **Ghi chú JP:** 5シナリオを商談前夜に必ず音読 5回以上。沈黙7秒も体感練習。
+ **Ghi chú VN:** Đọc miệng 5 kịch bản ít nhất 5 lần đêm trước. Luyện tập cảm giác im lặng 7 giây.
+ **Ghi chú JP:** 5シナリオを商談前夜に必ず音読 5回以上。沈黙7秒も体感練習。
 
 ### Rule 20 — Checklist phản hồi 'đắt' 3 bước
 
@@ -286,11 +286,11 @@ Tel: 〇〇
   □ Option C: 拡大版 (decoy)
   □ 「御社のコスト感に合うのはどちらでしょうか？」で締める
 
---- ❌ NG リスト ---
-  ✗ 即値引き「では ¥16M で…」
-  ✗ 反論「高くないですよ」
-  ✗ 1 option のみ
-  ✗ 数値なしの reframe「value があります」
+---  NG リスト ---
+   即値引き「では ¥16M で…」
+   反論「高くないですよ」
+   1 option のみ
+   数値なしの reframe「value があります」
 ```
 
 **Bản Việt placeholder:**
@@ -299,34 +299,34 @@ Tel: 〇〇
 --- Step 1: ACKNOWLEDGE (5-10s) ---
   □ Nén phản xạ giảm giá (2s im lặng OK)
   □ 「ご指摘の点、もっともでございます」 (Em xin tiếp thu)
-  □ Đồng cảm tình huống: nén chi phí / budget khung / áp lực kết quả
+  □ Đồng cảm tình huống: nén chi phí / khung ngân sách / áp lực kết quả
 
 --- Step 2: REFRAME (30-60s) ---
   □ 「ただ少し別の角度から」 (Xin phép từ góc khác)
   □ Show cơ sở số (1 hoặc nhiều):
     □ Cost-of-inaction (tính chi phí giữ nguyên)
     □ Bội số ROI
-    □ Time-value (tổn thất chậm trễ)
+    □ Giá trị thời gian (tổn thất chậm trễ)
     □ Risk-adjusted (chi phí nếu fail)
   □ Chia ra tháng / năm (số lớn nhìn nhỏ)
 
---- Step 3: 3 OPTIONS (60-90s) ---
-  □ Option A: giữ giá gốc + trade thêm value
-  □ Option B: cắt scope hạ giá
-  □ Option C: mở rộng (decoy)
+--- Bước 3: 3 PHƯƠNG ÁN (60-90s) ---
+  □ Phương án A: giữ giá gốc + đánh đổi thêm giá trị
+  □ Phương án B: cắt phạm vi hạ giá
+  □ Phương án C: mở rộng (decoy)
   □ Chốt 'phương án nào hợp cảm giác chi phí của quý cty ạ?'
 
---- ❌ NG ---
-  ✗ Giảm ngay 'vậy ¥16M ạ'
-  ✗ Phản bác '不 không đắt đâu ạ'
-  ✗ Chỉ 1 option
-  ✗ Reframe không số 'có value lắm ạ'
+---  NG ---
+   Giảm ngay 'vậy ¥16M ạ'
+   Phản bác '不 không đắt đâu ạ'
+   Chỉ 1 phương án
+   Đổi góc nhìn không có số 'có giá trị lắm ạ'
 ```
 
-📝 **Ghi chú VN:** Chuẩn bị trước phép tính Cost-of-inaction. KHÔNG tính trong phòng đàm phán.
-📝 **Ghi chú JP:** 事前に Cost-of-inaction 計算を準備。商談中に計算しない。
+ **Ghi chú VN:** Chuẩn bị trước phép tính Cost-of-inaction. KHÔNG tính trong phòng đàm phán.
+ **Ghi chú JP:** 事前に Cost-of-inaction 計算を準備。商談中に計算しない。
 
-### Rule 45 — Template Retro 5 sections cho đàm phán
+### Rule 45 — Mẫu nhìn lại 5 mục cho đàm phán
 
 *JP: 商談 Retro 5-section テンプレート*
 
@@ -369,48 +369,48 @@ Tel: 〇〇
 **Bản Việt placeholder:**
 
 ```
-[Retro Đàm Phán] vụ 〇〇 (round 〇)
+[Nhìn lại Đàm Phán] vụ 〇〇 (vòng 〇)
 [Thời gian] 〇/〇/〇
-[Tham dự] 〇〇 (lead), 〇〇, 〇〇
-[Ngày retro] 〇 ngày sau đàm phán
+[Tham dự] 〇〇 (dẫn dắt), 〇〇, 〇〇
+[Ngày nhìn lại] 〇 ngày sau đàm phán
 
 --- ① What Worked ---
-  □ 〇〇 (vd: BATNA 3 scenario làm walk-away rõ)
+  □ 〇〇 (vd: BATNA 3 kịch bản làm điểm rút lui rõ)
   □ 〇〇 (vd: recap mail trong 24h khiến ringi không block)
   □ 〇〇
 
 --- ② What Didn't ---
-  □ 〇〇 (vd: freeze 5 giây với indemnity unlimited push)
-  □ 〇〇 (vd: miss VN-style discount 0.5 giây)
+  □ 〇〇 (vd: freeze 5 giây với yêu cầu indemnity không giới hạn)
+  □ 〇〇 (vd: bỏ lỡ 0.5 giây khi Tuấn giảm giá kiểu VN)
   □ 〇〇
 
---- ③ Counterfactual (Nếu mình ~) ---
+--- ③ Giả định "nếu mình~" ---
   □ Nếu 〇〇, có thể 〇〇
-  □ Nếu pre-print 〇〇, có thể ngăn 〇〇
-  □ Nếu pre-MTG brief 1 phút 〇〇, có thể 〇〇
+  □ Nếu in sẵn 〇〇, có thể ngăn 〇〇
+  □ Nếu brief trước họp 1 phút 〇〇, có thể 〇〇
 
---- ④ Pattern Recognition (lặp lại across vụ?) ---
-  □ Quan sát cùng pattern ở 〇 vụ trước (vd: VN BD nhảy vào immediate concession)
-  □ Cultural default? Cá biệt? Cần intervention cấp team?
+--- ④ Nhận diện xu hướng (lặp lại qua các vụ?) ---
+  □ Quan sát cùng xu hướng ở 〇 vụ trước (vd: VN BD nhảy vào nhượng bộ ngay)
+  □ Thói quen văn hóa? Cá biệt? Cần can thiệp cấp nhóm?
 
---- ⑤ Next Commit (tối đa 3) ---
-  (a) Action cụ thể: 〇〇 / Owner: 〇〇 / Deadline: 〇/〇 / Đo hiệu quả: 〇〇
-  (b) Action cụ thể: 〇〇 / Owner: 〇〇 / Deadline: 〇/〇 / Đo hiệu quả: 〇〇
-  (c) Action cụ thể: 〇〇 / Owner: 〇〇 / Deadline: 〇/〇 / Đo hiệu quả: 〇〇
+--- ⑤ Cam kết tiếp theo (tối đa 3) ---
+  (a) Hành động cụ thể: 〇〇 / Người thực hiện: 〇〇 / Hạn chót: 〇/〇 / Đo hiệu quả: 〇〇
+  (b) Hành động cụ thể: 〇〇 / Người thực hiện: 〇〇 / Hạn chót: 〇/〇 / Đo hiệu quả: 〇〇
+  (c) Hành động cụ thể: 〇〇 / Người thực hiện: 〇〇 / Hạn chót: 〇/〇 / Đo hiệu quả: 〇〇
 
---- Lịch Follow-up Retro ---
-  □ 3 tháng sau (〇/〇) tổ chức retro check adherence của commit (a)/(b)/(c)
-  □ Đã lưu retro doc trong team wiki
-  □ Đã share cho stakeholder
+--- Lịch theo dõi tiếp theo ---
+  □ 3 tháng sau (〇/〇) tổ chức nhìn lại kiểm tra mức độ thực hiện cam kết (a)/(b)/(c)
+  □ Đã lưu tài liệu nhìn lại trong team wiki
+  □ Đã chia sẻ cho các bên liên quan
 ```
 
-📝 **Ghi chú VN:** Tổ chức trong 1 tuần sau mỗi vụ. Lưu doc trong team wiki. Commit không follow-up 3 tháng = wishlist. Tối đa 3 commit.
-📝 **Ghi chú JP:** 商談ごとに 1 週間以内 開催。doc は team wiki 保存。3 ヶ月 follow-up なしの commit は wishlist。3 commit max。
+ **Ghi chú VN:** Tổ chức trong 1 tuần sau mỗi vụ. Lưu tài liệu trong team wiki. Cam kết không theo dõi 3 tháng = danh sách mong muốn rỗng. Tối đa 3 cam kết.
+ **Ghi chú JP:** 商談ごとに 1 週間以内 開催。doc は team wiki 保存。3 ヶ月 follow-up なしの commit は wishlist。3 commit max。
 
 
 ## Báo cáo (3 mẫu)
 
-### Rule 06 — 3-tier Proposal Sheet (Good / Better / Best)
+### Rule 06 — Tờ đề xuất 3 bậc (Good / Better / Best)
 
 *JP: 3段階提案シート (Good / Better / Best)*
 
@@ -429,7 +429,7 @@ Tel: 〇〇
 +---------------------------------------------+
 
 +---------------------------------------------+
-|  【Better】 ¥〇〇M  ★おすすめ★                            |
+|  【Better】 ¥〇〇M  おすすめ                            |
 |  • コア機能 + 〇〇 (key feature)                            |
 |  • SLA: 〇〇.〇% (24/7サポート)                            |
 |  • 含む: 〇〇 / 〇〇 / 〇〇                                  |
@@ -446,11 +446,11 @@ Tel: 〇〇
 +---------------------------------------------+
 
 ■ 比較表 (主要項目のみ)
-  項目        | Good   | Better | Best  
-  AI機能      | ×      | ◎      | ◎      
-  SLA         | 99.5%  | 99.9%  | 99.99% 
+  項目        | Good   | Better | Best
+  AI機能      | ×      | ◎      | ◎
+  SLA         | 99.5%  | 99.9%  | 99.99%
   サポート    | 営業時間| 24/7   | 24/7+専任
-  価格         | ¥〇M   | ¥〇M   | ¥〇M   
+  価格         | ¥〇M   | ¥〇M   | ¥〇M
 
 ※ Better をご選択の場合、〇月〇日着手可能
 ```
@@ -458,7 +458,7 @@ Tel: 〇〇
 **Bản Việt placeholder:**
 
 ```
---- Đề xuất 3-tier — Dự án 〇〇 ---
+--- Đề xuất 3 bậc — Dự án 〇〇 ---
 Khách hàng: Quý công ty 〇〇
 Ngày đề xuất: 〇/〇/〇
 Người đề xuất: ティエンファット 〇〇
@@ -472,7 +472,7 @@ Người đề xuất: ティエンファット 〇〇
 +---------------------------------------------+
 
 +---------------------------------------------+
-|  [Better] ¥〇〇M  ★ ĐỀ XUẤT ★                          |
+|  [Better] ¥〇〇M   ĐỀ XUẤT                           |
 |  • Core + 〇〇 (key feature)                              |
 |  • SLA: 〇〇.〇% (support 24/7)                            |
 |  • Bao gồm: 〇〇 / 〇〇 / 〇〇                              |
@@ -484,24 +484,24 @@ Người đề xuất: ティエンファット 〇〇
 |  [Best] ¥〇〇M (full)                                     |
 |  • Toàn bộ Better + SRE chuyên trách túc trực              |
 |  • SLA: 〇〇.〇〇%                                          |
-|  • Bao gồm: ưu tiên dev feature, báo cáo custom             |
+|  • Bao gồm: ưu tiên dev tính năng, báo cáo tùy chỉnh        |
 |  • Phù hợp: vận hành quy mô lớn, mission-critical           |
 +---------------------------------------------+
 
 ■ Bảng so sánh (mục chính)
-  Mục         | Good   | Better | Best   
-  AI feature  | ×      | ◎      | ◎       
-  SLA         | 99.5%  | 99.9%  | 99.99%  
+  Mục         | Good   | Better | Best
+  AI feature  | ×      | ◎      | ◎
+  SLA         | 99.5%  | 99.9%  | 99.99%
   Support     | giờ HC | 24/7   | 24/7+SRE
-  Giá         | ¥〇M   | ¥〇M   | ¥〇M    
+  Giá         | ¥〇M   | ¥〇M   | ¥〇M
 
 * Chọn Better có thể khởi động từ 〇/〇.
 ```
 
-📝 **Ghi chú VN:** Better bắt buộc đặt giữa + đánh dấu 'Đề xuất'. Good cố ý yếu, Best overspec. Gap giá KHÔNG cách đều (giữ decoy).
-📝 **Ghi chú JP:** Better は「中央寄せ」「おすすめ」マーク必須。Good は意図的弱体化、Best は overspec。価格ギャップは均等にしない (decoy効果)。
+ **Ghi chú VN:** Better bắt buộc đặt giữa + đánh dấu 'Đề xuất'. Good cố ý yếu, Best overspec. Gap giá KHÔNG cách đều (giữ decoy).
+ **Ghi chú JP:** Better は「中央寄せ」「おすすめ」マーク必須。Good は意図的弱体化、Best は overspec。価格ギャップは均等にしない (decoy効果)。
 
-### Rule 32 — Template LOI (basic agreement)
+### Rule 32 — Mẫu LOI (basic agreement)
 
 *JP: 基本合意書 (LOI) テンプレート*
 
@@ -546,21 +546,21 @@ BASIC AGREEMENT (LOI)
 Cty 〇〇 (sau đây gọi 'Bên A') và Cty Tiên Phát (sau đây gọi 'Bên B') thống nhất các điểm cơ bản về việc giao việc 〇〇 như sau.
 
 Điều 1 (Mục đích)
-Bên A và B xác nhận các commercial terms cốt lõi cho việc ký contract chính 〇〇 (sau đây gọi 'Hợp đồng').
+Bên A và B xác nhận các điều kiện thương mại cốt lõi cho việc ký hợp đồng chính 〇〇 (sau đây gọi 'Hợp đồng').
 
-Điều 2 (Commercial terms)
+Điều 2 (Điều kiện thương mại)
 (1) Giá: 〇〇 ¥ (chưa bao gồm thuế tiêu thụ)
 (2) Kỳ hạn: 〇/〇/〇 - 〇/〇/〇
-(3) Tóm tắt scope: 〇〇
+(3) Tóm tắt phạm vi: 〇〇
 (4) SLA: tỉ lệ uptime 〇〇%
 (5) Điều khoản thanh toán: chốt cuối tháng - trả cuối tháng kế
 (6) Ngày có hiệu lực: ngày đóng dấu LOI
 
 Điều 3 (Thời hạn ký Hợp đồng chính)
-Hai bên cam kết trong vòng 4 tuần kể từ ngày đóng dấu LOI sẽ thảo luận contract draft và ký Hợp đồng chính sau khi cả hai bên đồng thuận.
+Hai bên cam kết trong vòng 4 tuần kể từ ngày đóng dấu LOI sẽ thảo luận bản thảo hợp đồng và ký Hợp đồng chính sau khi cả hai bên đồng thuận.
 
 Điều 4 (Hiệu lực LOI)
-LOI là văn bản xác nhận commercial terms trước khi ký Hợp đồng chính. Các điều khoản chi tiết (indemnity, IP, termination) sẽ quy định trong Hợp đồng chính.
+LOI là văn bản xác nhận điều kiện thương mại trước khi ký Hợp đồng chính. Các điều khoản chi tiết (bồi thường, IP, chấm dứt) sẽ quy định trong Hợp đồng chính.
 
 Điều 5 (Bảo mật)
 Thông tin đối tác có được trong quá trình đàm phán xử lý theo NDA riêng.
@@ -573,10 +573,10 @@ Bên A: Cty 〇〇 — Đại diện pháp luật 〇〇 〇〇  (Dấu)
 Bên B: Cty Tiên Phát — Đại diện pháp luật 〇〇 〇〇  (Dấu)
 ```
 
-📝 **Ghi chú VN:** LOI gói gọn 1-2 trang. KHÔNG đưa detailed clauses. Bắt buộc legal review. Ghi rõ deadline đóng dấu 2 tuần.
-📝 **Ghi chú JP:** LOI は 1-2 ページに収める。詳細条項を入れない。法務レビュー必須。捺印期限 2 週間明記。
+ **Ghi chú VN:** LOI gói gọn 1-2 trang. KHÔNG đưa điều khoản chi tiết. Bắt buộc duyệt pháp chế. Ghi rõ hạn chót đóng dấu 2 tuần.
+ **Ghi chú JP:** LOI は 1-2 ページに収める。詳細条項を入れない。法務レビュー必須。捺印期限 2 週間明記。
 
-### Rule 38 — Template Joint PR Release (số tiền dạng quy mô)
+### Rule 38 — Mẫu thông cáo báo chí chung (số tiền dạng quy mô)
 
 *JP: Joint PR Release テンプレート (数千万円規模 framing)*
 
@@ -631,24 +631,24 @@ Cty Tiên Phát / Cty 〇〇
 --------------------
 [PRESS RELEASE]
 Cty Tiên Phát ký Hợp đồng giao việc AI 〇〇 Phase 〇 với Cty 〇〇
-— Quy mô vài chục triệu yên, kickoff 〇/〇 —
+— Quy mô vài chục triệu yên, khởi động 〇/〇 —
 --------------------
 
 Cty Tiên Phát (HQ: Hà Nội, Đại diện: 〇〇 〇〇, sau đây 'Tiên Phát') ký Hợp đồng giao việc AI 〇〇 Phase 〇 với Cty 〇〇 (HQ: Tokyo, Đại diện: 〇〇 〇〇, sau đây 'Cty 〇〇') vào ngày 〇/〇/〇.
 
 ■ Tổng quan hợp đồng
-- Phạm vi: phát triển AI 〇〇 + PM chuyên trách + 〇〇 customization
+- Phạm vi: phát triển AI 〇〇 + PM chuyên trách + 〇〇 tùy chỉnh
 - Kỳ hạn: 〇/〇 ~ 〇/〇 (〇 năm)
 - Quy mô: vài chục triệu yên
-- Kickoff: 〇/〇/〇
+- Ngày khởi động: 〇/〇/〇
 
 ■ Bối cảnh
 Cty 〇〇 đối mặt vấn đề 〇〇 trong ngành 〇〇 và đã từng bước áp dụng giải pháp AI 〇〇 của Tiên Phát từ Phase 〇. Phase 〇 sẽ tăng cường 〇〇.
 
-■ Comment Giám đốc Kinh doanh Cty 〇〇
+■ Phát biểu Giám đốc Kinh doanh Cty 〇〇
 '〇〇 từ Phase 〇 đã đóng góp lớn cho 〇〇 bên tôi. Phase 〇 tôi mong tiếp tục 〇〇.'
 
-■ Comment Phó phòng Kinh doanh Tiên Phát
+■ Phát biểu Phó phòng Kinh doanh Tiên Phát
 'Việc nhận được sự tin tưởng từ Cty 〇〇 khiến chúng tôi cảm nhận trách nhiệm nặng nề. Hai bên sẽ phối hợp để hiện thực hóa 〇〇.'
 
 ■ Giới thiệu công ty
@@ -660,8 +660,8 @@ Tiên Phát PR 〇〇 — Mail: pr@tienphat.vn
 Cty 〇〇 PR 〇〇 — Mail: pr@〇〇.co.jp
 ```
 
-📝 **Ghi chú VN:** BẮT BUỘC qua joint approval PR + legal cả 2 bên. Embargo cùng ngày cùng giờ. Số tiền dùng framing 'quy mô vài chục triệu yên', 'quy mô vài tỷ đồng'...
-📝 **Ghi chú JP:** 両社 PR + legal の joint approval 必須。embargo 同日同時刻 release。金額は『数千万円規模』『〇千万円規模』など framing。
+ **Ghi chú VN:** BẮT BUỘC qua duyệt chung PR + pháp chế cả 2 bên. Embargo cùng ngày cùng giờ. Số tiền dùng cách đóng khung 'quy mô vài chục triệu yên', 'quy mô vài tỷ đồng'...
+ **Ghi chú JP:** 両社 PR + legal の joint approval 必須。embargo 同日同時刻 release。金額は『数千万円規模』『〇千万円規模』など framing。
 
 
-**Tổng template:** 8
+**Tổng số mẫu:** 8

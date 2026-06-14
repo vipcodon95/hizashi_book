@@ -14,39 +14,32 @@ Em Dũng cần tham vấn anh Hà CTO về việc chọn AWS region cho producti
 
 ---
 
-## ❌ Hội thoại XẤU — bắt sếp giữa hành lang, không hỏi giờ
+## Hội thoại XẤU — bắt sếp giữa hành lang, không hỏi giờ
 
 *bắt anh Hà ở hành lang · đang vội đi họp*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「あ、ハーCTO、ちょっと…AWS <ruby>リージョン<rt>りーじょん</rt></ruby>の話で…」 |
-|  | *À, anh Hà CTO, một chút thôi... vụ AWS region...* |
-| **ハーCTO** | 「すみません、今<ruby>会議<rt>かいぎ</rt></ruby>に向かう<ruby>途中<rt>とちゅう</rt></ruby>で…」 |
-|  | *Xin lỗi, anh đang trên đường đi họp...* |
-| **ズン** | 「あ、すぐ終わります、<ruby>東京<rt>とうきょう</rt></ruby>と<ruby>大阪<rt>おおさか</rt></ruby>どっちが…」 |
-|  | *À, em nói nhanh thôi, Tokyo hay Osaka cái nào...* |
-| **ハーCTO** | 「ズン、<ruby>相談<rt>そうだん</rt></ruby>は **時間と<ruby>話題<rt>わだい</rt></ruby>の長さ** を先に伝えて。今は<ruby>無理<rt>むり</rt></ruby>。15時以降で<ruby>予定<rt>よてい</rt></ruby>取って。」 |
-|  | *Dũng, tham vấn phải báo trước thời gian và độ dài chủ đề. Bây giờ không được. Lấy lịch sau 15h.* |
+| **ズン** | 「あ、ハーCTO、ちょっと…AWS <ruby>リージョン<rt>りーじょん</rt></ruby>の話で…」 <br/>*À, anh Hà CTO, một chút thôi... vụ AWS region...* |
+| **ハーCTO** | 「すみません、今<ruby>会議<rt>かいぎ</rt></ruby>に向かう<ruby>途中<rt>とちゅう</rt></ruby>で…」 <br/>*Xin lỗi, anh đang trên đường đi họp...* |
+| **ズン** | 「あ、すぐ終わります、<ruby>東京<rt>とうきょう</rt></ruby>と<ruby>大阪<rt>おおさか</rt></ruby>どっちが…」 <br/>*À, em nói nhanh thôi, Tokyo hay Osaka cái nào...* |
+| **ハーCTO** | 「ズン、<ruby>相談<rt>そうだん</rt></ruby>は **時間と<ruby>話題<rt>わだい</rt></ruby>の長さ** を先に伝えて。今は<ruby>無理<rt>むり</rt></ruby>。15時以降で<ruby>予定<rt>よてい</rt></ruby>取って。」 <br/>*Dũng, tham vấn phải báo trước thời gian và độ dài chủ đề. Bây giờ không được. Lấy lịch sau 15h.* |
 
 **Vì sao xấu:** L1 bắt sếp lúc đang đi (không hỏi xem có rảnh không) + chủ đề mơ hồ. L3 cố ép sếp dừng lại — không tôn trọng thời gian của sếp. L4 chỉ ra: phải hỏi giờ trước.
 
 ---
 
-## ✅ Hội thoại TỐT — Slack DM trước, gặp lúc sếp đồng ý
+## Hội thoại TỐT — Slack DM trước, gặp lúc sếp đồng ý
 
 *Slack DM 14:30 · Slack 14:45 · 16時、会議室B*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「ハーCTO、お疲れ様です。**ご<ruby>相談<rt>そうだん</rt></ruby>したいことがあるのですが、<ruby>本日中<rt>ほんじつちゅう</rt></ruby>に15分ほどお時間いただけますでしょうか?**【1】 トピックは『Phase 3 の AWS リージョン<ruby>選定<rt>せんてい</rt></ruby> (東京 vs 大阪)』、<ruby>判断材料<rt>はんだんざいりょう</rt></ruby>として **3社<ruby>見積<rt>みつもり</rt></ruby> + ベンチマーク結果を<ruby>準備済<rt>じゅんびずみ</rt></ruby>**です【2】。<ruby>緊急度<rt>きんきゅうど</rt></ruby>は中(<ruby>今週中<rt>こんしゅうちゅう</rt></ruby>の<ruby>決定<rt>けってい</rt></ruby>で間に合う)です【3】。」 |
-|  | *Anh Hà CTO, em chào anh ạ. Em có việc muốn tham vấn, anh dành cho em 15 phút trong hôm nay được không ạ? Chủ đề là 'Chọn AWS region cho Phase 3 (Tokyo vs Osaka)', em đã chuẩn bị 3 báo giá + kết quả benchmark làm dữ kiện. Mức khẩn cấp trung bình (chốt trong tuần là kịp) ạ.* |
-| **ハーCTO** | 「16時から15分なら取れます。会議室Bで。」 |
-|  | *16h anh có 15 phút. Phòng họp B nhé.* |
-| **ズン** | 「ハーCTO、お忙しい中ありがとうございます。それでは、AWSリージョン選定の件、ご相談させていただきます【4】。」 |
-|  | *Anh Hà CTO, cảm ơn anh đã dành thời gian dù bận ạ. Vậy em xin phép tham vấn về chọn AWS region ạ.* |
+| **ズン** | 「ハーCTO、お疲れ様です。**ご<ruby>相談<rt>そうだん</rt></ruby>したいことがあるのですが、<ruby>本日中<rt>ほんじつちゅう</rt></ruby>に15分ほどお時間いただけますでしょうか?**【1】 トピックは『Phase 3 の AWS リージョン<ruby>選定<rt>せんてい</rt></ruby> (東京 vs 大阪)』、<ruby>判断材料<rt>はんだんざいりょう</rt></ruby>として **3社<ruby>見積<rt>みつもり</rt></ruby> + ベンチマーク結果を<ruby>準備済<rt>じゅんびずみ</rt></ruby>**です【2】。<ruby>緊急度<rt>きんきゅうど</rt></ruby>は中(<ruby>今週中<rt>こんしゅうちゅう</rt></ruby>の<ruby>決定<rt>けってい</rt></ruby>で間に合う)です【3】。」 <br/>*Anh Hà CTO, em chào anh ạ. Em có việc muốn tham vấn, anh dành cho em 15 phút trong hôm nay được không ạ? Chủ đề là 'Chọn AWS region cho Phase 3 (Tokyo vs Osaka)', em đã chuẩn bị 3 báo giá + kết quả benchmark làm dữ kiện. Mức khẩn cấp trung bình (chốt trong tuần là kịp) ạ.* |
+| **ハーCTO** | 「16時から15分なら取れます。会議室Bで。」 <br/>*16h anh có 15 phút. Phòng họp B nhé.* |
+| **ズン** | 「ハーCTO、お忙しい中ありがとうございます。それでは、AWSリージョン選定の件、ご相談させていただきます【4】。」 <br/>*Anh Hà CTO, cảm ơn anh đã dành thời gian dù bận ạ. Vậy em xin phép tham vấn về chọn AWS region ạ.* |
 
-📝 **Ghi chú:**
+ **Ghi chú:**
 - 【1】**「ご相談したいことがあるのですが、〇分ほどお時間…」** — công thức chuẩn. 「〇分ほど」 cho sếp ước lượng được — không 「ちょっと」 mơ hồ.
 - 【2】**Chủ đề + 判断材料** — 1 dòng cho sếp biết tham vấn về cái gì, đã có dữ kiện gì. Sếp tự ước lượng được mức độ phức tạp.
 - 【3】**緊急度 (trung/thấp/cao)** — sếp ưu tiên đúng. Không nói = sếp tự coi là mức thấp.
@@ -54,9 +47,9 @@ Em Dũng cần tham vấn anh Hà CTO về việc chọn AWS region cho producti
 
 ---
 
-## 🧰 Pattern theo channel
+## Mẫu câu theo kênh
 
-| Channel | Câu mở | Ghi chú |
+| Kênh | Câu mở | Ghi chú |
 |---------|--------|---------|
 | Slack DM (bất đồng bộ) | 「ご相談したいことがあるのですが、〇〇までに〇分ほどお時間いただけますでしょうか?トピック: 〇〇」 | Có thể hỏi "khi nào" thay vì "ngay bây giờ". |
 | Đứng dậy đến bàn sếp | 「〇〇副部長、今〇分ほどお時間よろしいでしょうか?〇〇のご相談です」 | Phải xem sếp đang làm gì rồi mới lại gần. |
@@ -65,7 +58,7 @@ Em Dũng cần tham vấn anh Hà CTO về việc chọn AWS region cho producti
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「ご相談したいことがあるのですが、〇分ほどお時間よろしいでしょうか?トピック:〇〇、緊急度:〇〇」**
 >
@@ -73,7 +66,7 @@ Em Dũng cần tham vấn anh Hà CTO về việc chọn AWS region cho producti
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - 「ちょっと…」「すぐ終わるんですけど…」 — mơ hồ thời gian, sếp không ước lượng được.
 - Bắt sếp đang đi / đang gọi điện / đang code tập trung sâu — phải Slack DM trước.
@@ -82,13 +75,13 @@ Em Dũng cần tham vấn anh Hà CTO về việc chọn AWS region cho producti
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 切り出し | きりだし | Cách mở lời |
-| お時間 | おじかん | Thời gian (kính ngữ) |
-| 緊急度 | きんきゅうど | Mức độ khẩn cấp |
-| 判断材料 | はんだんざいりょう | Dữ kiện ra quyết định |
-| 見積 | みつもり | Báo giá |
-| 相談させていただきます | そうだんさせていただきます | Em xin phép tham vấn (formal) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|-------|-------|
+| 切り出し | きりだし | — | Cách mở lời |
+| お時間 | おじかん | — | Thời gian (kính ngữ) |
+| 緊急度 | きんきゅうど | KHẨN CẤP ĐỘ | Mức độ khẩn cấp |
+| 判断材料 | はんだんざいりょう | PHÁN ĐOÁN TÀI LIỆU | Dữ kiện ra quyết định |
+| 見積 | みつもり | KIẾN TÍCH | Báo giá |
+| 相談させていただきます | そうだんさせていただきます | — | Em xin phép tham vấn (trang trọng) |

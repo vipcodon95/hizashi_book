@@ -23,8 +23,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 鞄の中バラ入れは折れ・汚れの原因。専用ケース必須。
-- 🇻🇳 Để bừa trong cặp = nhăn/bẩn. Hộp riêng bắt buộc.
+- 鞄の中バラ入れは折れ・汚れの原因。専用ケース必須。
+- Để bừa trong cặp = nhăn/bẩn. Hộp riêng bắt buộc.
 
 ### J3.2 (từ rule_02 — Nhận danh thiếp 2 tay)
 
@@ -40,8 +40,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 両手保持+名前役職復唱がスタンダード。仕舞うのは会議室到着後。
-- 🇻🇳 2 tay + đọc to tên/chức vụ là chuẩn. Cất chỉ sau khi vào phòng họp.
+- 両手保持+名前役職復唱がスタンダード。仕舞うのは会議室到着後。
+- 2 tay + đọc to tên/chức vụ là chuẩn. Cất chỉ sau khi vào phòng họp.
 
 ### J3.3 (từ rule_03 — Trao danh thiếp 2 tay)
 
@@ -57,8 +57,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 JP自己紹介標準語順。所属を先に提示し最後に個人名。
-- 🇻🇳 Thứ tự chuẩn tự xưng JP: tổ chức trước, cá nhân sau.
+- JP自己紹介標準語順。所属を先に提示し最後に個人名。
+- Thứ tự chuẩn tự xưng JP: tổ chức trước, cá nhân sau.
 
 ### J3.4 (từ rule_06 — Bố trí danh thiếp trên bàn)
 
@@ -74,8 +74,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 座席順配置→視認で名前+役職確認→誤呼び防止。仕舞いは相手退室後。
-- 🇻🇳 Đặt theo seat order = nhìn thấy tên+chức = không gọi nhầm. Cất chỉ sau khi khách rời.
+- 座席順配置→視認で名前+役職確認→誤呼び防止。仕舞いは相手退室後。
+- Đặt theo thứ tự chỗ ngồi = nhìn thấy tên+chức = không gọi nhầm. Cất chỉ sau khi khách rời.
 
 ### J3.5 (từ rule_07 — Lưu trữ danh thiếp sau cuộc gặp)
 
@@ -91,10 +91,10 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 24時間以内処理が原則。脳の文脈記憶は24h以内に80%以上保持。
-- 🇻🇳 Quy tắc 24h. Não giữ >80% ngữ cảnh trong 24h.
+- 24時間以内処理が原則。脳の文脈記憶は24h以内に80%以上保持。
+- Quy tắc 24h. Não giữ >80% ngữ cảnh trong 24h.
 
-### J3.6 (từ rule_08 — Đón khách tại lobby)
+### J3.6 (từ rule_08 — Đón khách tại sảnh)
 
 **Skill:** 場面把握
 
@@ -108,8 +108,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 5分前ロビー待機が標準。定刻=遅刻扱い。
-- 🇻🇳 Tiêu chuẩn 5 phút trước. Đúng giờ = muộn.
+- 5分前ロビー待機が標準。定刻=遅刻扱い。
+- Tiêu chuẩn 5 phút trước. Đúng giờ = muộn.
 
 ### J3.7 (từ rule_09 — Hướng dẫn vào phòng họp)
 
@@ -125,8 +125,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 host が操作盤を担当、客は奥(エレベーター内の上座)。
-- 🇻🇳 Host phụ trách bảng nút, khách đứng trong (kamiza trong thang máy).
+- host が操作盤を担当、客は奥(エレベーター内の上座)。
+- Bên tiếp đón phụ trách bảng nút, khách đứng trong (kamiza trong thang máy).
 
 ### J3.8 (từ rule_11 — Pha trà / mời nước)
 
@@ -142,10 +142,10 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 客最上位優先→客内hierarchy→host内hierarchy順。右側両手配置。
-- 🇻🇳 Cấp cao nhất bên khách trước → thứ bậc khách → thứ bậc host. Đặt bên phải 2 tay.
+- 客最上位優先→客内hierarchy→host内hierarchy順。右側両手配置。
+- Cấp cao nhất bên khách trước → thứ bậc khách → thứ bậc bên tiếp đón. Đặt bên phải 2 tay.
 
-### J3.9 (từ rule_16 — Chuẩn bị trước khi đi onsite)
+### J3.9 (từ rule_16 — Chuẩn bị trước khi đi công tác)
 
 **Skill:** 場面把握
 
@@ -159,10 +159,10 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 お土産はVN出発前に高品質ブランドで準備。空港購入は心遣いマイナス。
-- 🇻🇳 Omiyage chuẩn bị từ VN với brand chất lượng. Mua sân bay = giảm tâm.
+- お土産はVN出発前に高品質ブランドで準備。空港購入は心遣いマイナス。
+- Omiyage chuẩn bị từ VN với brand chất lượng. Mua sân bay = giảm tâm.
 
-### J3.10 (từ rule_17 — Đến lobby 5-10 phút trước)
+### J3.10 (từ rule_17 — Đến sảnh 5-10 phút trước)
 
 **Skill:** 場面把握
 
@@ -176,8 +176,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 5-10分前が standard。早すぎ30分は host surprise、定刻=受付/エレベーターで実質遅刻。
-- 🇻🇳 Tiêu chuẩn 5-10p trước. Sớm 30p = surprise. Đúng giờ = lễ tân/thang máy = thực muộn.
+- 5-10分前が standard。早すぎ30分は host surprise、定刻=受付/エレベーターで実質遅刻。
+- Tiêu chuẩn 5-10p trước. Sớm 30p = surprise. Đúng giờ = lễ tân/thang máy = thực muộn.
 
 ### J3.11 (từ rule_18 — Check-in tại lễ tân)
 
@@ -193,8 +193,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 御芳名=氏名の尊敬語。受付定型表現。
-- 🇻🇳 御芳名 = họ tên (kính ngữ). Mẫu cố định lễ tân.
+- 御芳名=氏名の尊敬語。受付定型表現。
+- 御芳名 = họ tên (kính ngữ). Mẫu cố định lễ tân.
 
 ### J3.12 (từ rule_19 — Cởi áo khoác trước cửa phòng họp)
 
@@ -210,8 +210,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 建物外気を会議室に持ち込まないため入室前脱ぐ。着席後脱ぎは『疲れ』signaling。
-- 🇻🇳 Cởi trước khi vào để không mang khí ngoài vào phòng họp. Cởi sau khi ngồi = ra tín hiệu 'mệt'.
+- 建物外気を会議室に持ち込まないため入室前脱ぐ。着席後脱ぎは『疲れ』signaling。
+- Cởi trước khi vào để không mang khí ngoài vào phòng họp. Cởi sau khi ngồi = ra tín hiệu 'mệt'.
 
 ### J3.13 (từ rule_21 — Vào phòng họp với chủ nhà)
 
@@ -227,8 +227,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 businessは2回。3回はWC、1回は親密。
-- 🇻🇳 Business 2 lần. 3 lần = WC, 1 lần = thân mật.
+- businessは2回。3回はWC、1回は親密。
+- Business 2 lần. 3 lần = WC, 1 lần = thân mật.
 
 ### J3.14 (từ rule_23 — Rời văn phòng trang trọng)
 
@@ -244,8 +244,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 起立 → 正式bow → ドア前で再bow が日本式退室の3点セット。最後の印象=最大記憶。
-- 🇻🇳 Đứng dậy → bow chính thức → trước cửa bow lần 2 = combo退室 Nhật. Ấn tượng cuối ăn sâu nhất.
+- 起立 → 正式bow → ドア前で再bow が日本式退室の3点セット。最後の印象=最大記憶。
+- Đứng dậy → bow chính thức → trước cửa bow lần 2 = combo退室 Nhật. Ấn tượng cuối ăn sâu nhất.
 
 ### J3.15 (từ rule_24 — Mời khách dinner formal)
 
@@ -261,8 +261,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 接待ディナーは個室+事前menu+食事制限確認+送迎の4点セット。
-- 🇻🇳 Tiếp khách dinner = combo phòng riêng + menu đặt trước + hỏi dị ứng + xe đưa đón.
+- 接待ディナーは個室+事前menu+食事制限確認+送迎の4点セット。
+- Tiếp khách dinner = combo phòng riêng + menu đặt trước + hỏi dị ứng + xe đưa đón.
 
 ### J3.16 (từ rule_29 — Nhận omiyage)
 
@@ -278,8 +278,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 両手 + 『頂戴いたします』 + 後で開封 が3点セット。値段・即開封は最大NG。
-- 🇻🇳 2 tay + 'choudai itashimasu' + mở sau = combo 3 điểm. Hỏi giá + mở ngay = NG cấp tối đa.
+- 両手 + 『頂戴いたします』 + 後で開封 が3点セット。値段・即開封は最大NG。
+- 2 tay + 'choudai itashimasu' + mở sau = combo 3 điểm. Hỏi giá + mở ngay = NG cấp tối đa.
 
 ### J3.17 (từ rule_30 — After-dinner thank-you mail)
 
@@ -295,10 +295,10 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 24h以内 + 個別To + CC上司 + 具体話題引用 + 次回約束 が黄金パターン。
-- 🇻🇳 Trong 24h + To riêng + CC sếp + trích chủ đề cụ thể + hẹn lần sau = công thức vàng.
+- 24h以内 + 個別To + CC上司 + 具体話題引用 + 次回約束 が黄金パターン。
+- Trong 24h + To riêng + CC sếp + trích chủ đề cụ thể + hẹn lần sau = công thức vàng.
 
-### J3.18 (từ rule_32 — Bow angle theo cấp bậc)
+### J3.18 (từ rule_32 — Cúi chào angle theo cấp bậc)
 
 **Skill:** 場面把握
 
@@ -312,10 +312,10 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 CFOクラスの初対面は45°最敬礼。30°だと軽すぎ、90°は謝罪専用。
-- 🇻🇳 Lần đầu gặp CFO = 45° saikeirei. 30° hơi nhẹ, 90° chỉ dùng xin lỗi.
+- CFOクラスの初対面は45°最敬礼。30°だと軽すぎ、90°は謝罪専用。
+- Lần đầu gặp CFO = 45° saikeirei. 30° hơi nhẹ, 90° chỉ dùng xin lỗi.
 
-### J3.19 (từ rule_34 — Onsite Nhật lần đầu — bộ đồ thiết yếu)
+### J3.19 (từ rule_34 — Công tác Nhật lần đầu — bộ đồ thiết yếu)
 
 **Skill:** 場面把握
 
@@ -329,8 +329,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 現金事前両替・お土産VN準備・通信事前契約・スーツ wrinkle 対策の4点が出発前必須。
-- 🇻🇳 Đổi tiền trước, omiyage làm tại VN, mạng đặt trước, chống nhăn suit — 4 việc bắt buộc xong trước khi xuất phát.
+- 現金事前両替・お土産VN準備・通信事前契約・スーツ wrinkle 対策の4点が出発前必須。
+- Đổi tiền trước, omiyage làm tại VN, mạng đặt trước, chống nhăn suit — 4 việc bắt buộc xong trước khi xuất phát.
 
 
 ## Level J2 (16 câu)
@@ -349,8 +349,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 『出すは低く、受けるは高く』が基本。受領後すぐに両手保持に切り替える。
-- 🇻🇳 Quy tắc 'trao thấp, nhận cao'. Ngay sau khi nhận chuyển sang đỡ 2 tay.
+- 『出すは低く、受けるは高く』が基本。受領後すぐに両手保持に切り替える。
+- Quy tắc 'trao thấp, nhận cao'. Ngay sau khi nhận chuyển sang đỡ 2 tay.
 
 ### J2.2 (từ rule_05 — Vai vế quyết định ai trao trước)
 
@@ -366,8 +366,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 自社内junior先、相手最上位優先のマトリクス順。
-- 🇻🇳 Ma trận: nhân viên trẻ bên mình trước, cấp cao bên khách ưu tiên.
+- 自社内junior先、相手最上位優先のマトリクス順。
+- Ma trận: nhân viên trẻ bên mình trước, cấp cao bên khách ưu tiên.
 
 ### J2.3 (từ rule_10 — Vị trí ngồi (kamiza/shimoza))
 
@@ -383,10 +383,10 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 上座中央=客側最上位。右>左の格付けが日本標準。
-- 🇻🇳 Trung tâm 上座 = cấp cao nhất. Phải > Trái về cấp.
+- 上座中央=客側最上位。右>左の格付けが日本標準。
+- Trung tâm 上座 = cấp cao nhất. Phải > Trái về cấp.
 
-### J2.4 (từ rule_12 — Mở đầu hội nghị offline)
+### J2.4 (từ rule_12 — Mở đầu hội nghị trực tiếp)
 
 **Skill:** 場面把握
 
@@ -400,8 +400,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 対面固有: 移動への謝辞・紙agenda・新メンバーintro round。online要素は不要。
-- 🇻🇳 Đặc thù offline: cảm ơn đường xa + agenda giấy + intro round. Yếu tố online không cần.
+- 対面固有: 移動への謝辞・紙agenda・新メンバーintro round。online要素は不要。
+- Đặc thù họp trực tiếp: cảm ơn đường xa + agenda giấy + vòng giới thiệu. Yếu tố trực tuyến không cần.
 
 ### J2.5 (từ rule_13 — Kết thúc + tiễn khách)
 
@@ -417,16 +417,16 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 C-level見送りは『視界から消えるまで起立』が標準。客が振り返って手を振る可能性も対応。
-- 🇻🇳 Tiễn C-level: 'đứng đến khi xe khuất tầm mắt'. Phòng khả năng khách quay lại vẫy.
+- C-level見送りは『視界から消えるまで起立』が標準。客が振り返って手を振る可能性も対応。
+- Tiễn C-level: 'đứng đến khi xe khuất tầm mắt'. Phòng khả năng khách quay lại vẫy.
 
-### J2.6 (từ rule_14 — After-care (theo dõi sau visit))
+### J2.6 (từ rule_14 — Chăm sóc sau thăm (theo dõi sau khi thăm))
 
 **Skill:** 場面把握
 
 **Q:** 訪問後のお礼メールに含めるべき3要素は？
 
-- **A) specific quote + action item + personal note**
+- **A) trích dẫn cụ thể + việc cần làm tiếp theo + ghi chú cá nhân**
 - B) 謝罪・釈明・改善
 - C) 天気・移動・宿泊
 - D) 会社紹介・商品PR・次回提案
@@ -434,8 +434,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 quote=傾聴証明、action=follow-up、personal note=relationship build。3点必須。
-- 🇻🇳 Trích dẫn = chứng minh đã nghe, action = liên lạc tiếp, ghi chú cá nhân = xây dựng quan hệ. 3 yếu tố bắt buộc.
+- quote=傾聴証明、action=follow-up、personal note=relationship build。3点必須。
+- Trích dẫn = chứng minh đã nghe, việc tiếp theo = liên lạc tiếp, ghi chú cá nhân = xây dựng quan hệ. 3 yếu tố bắt buộc.
 
 ### J2.7 (từ rule_15 — Khách đến sớm / muộn)
 
@@ -451,8 +451,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 到着時は遅刻非言及が原則。passive-aggressive な発話は relationship を毀損。
-- 🇻🇳 Đến nơi KHÔNG đề cập muộn. Câu passive-aggressive làm hỏng relationship.
+- 到着時は遅刻非言及が原則。passive-aggressive な発話は relationship を毀損。
+- Đến nơi KHÔNG đề cập muộn. Câu passive-aggressive làm hỏng relationship.
 
 ### J2.8 (từ rule_20 — Ngồi đợi đúng cách trong phòng khách)
 
@@ -468,8 +468,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 上座占有回避+phone/laptop OFFが基本。下座宣言で trained junior 印象。
-- 🇻🇳 Không chiếm 上座 + phone/laptop OFF. Báo 下座 = ấn tượng 'junior trained'.
+- 上座占有回避+phone/laptop OFFが基本。下座宣言で trained junior 印象。
+- Không chiếm 上座 + phone/laptop OFF. Báo 下座 = ấn tượng 'junior trained'.
 
 ### J2.9 (từ rule_22 — Đi quanh văn phòng / nhà máy)
 
@@ -485,10 +485,10 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 事前許可必須。purpose+構図条件付きで host 判断容易に。
-- 🇻🇳 Bắt buộc xin trước. Kèm purpose + bố cục để host dễ quyết.
+- 事前許可必須。purpose+構図条件付きで host 判断容易に。
+- Bắt buộc xin trước. Kèm mục đích + bố cục để bên tiếp đón dễ quyết.
 
-### J2.10 (từ rule_25 — Vai trò host vs guest)
+### J2.10 (từ rule_25 — Vai trò bên tiếp đón vs khách)
 
 **Skill:** 表現読解
 
@@ -502,8 +502,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 host = order(menu決定) + pour(常時注ぐ) + pay(こっそり清算) の3点全責任。
-- 🇻🇳 Host = order (chốt menu) + pour (rót liên tục) + pay (trả kín đáo) — 3 trách nhiệm trọn gói.
+- host = order(menu決定) + pour(常時注ぐ) + pay(こっそり清算) の3点全責任。
+- Bên tiếp đón = order (chốt menu) + pour (rót liên tục) + pay (trả kín đáo) — 3 trách nhiệm trọn gói.
 
 ### J2.11 (từ rule_26 — Cụng ly 乾杯 chuẩn)
 
@@ -519,8 +519,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 上位者より低く=尊敬。音は立てず軽く触れる。
-- 🇻🇳 Thấp hơn cấp trên = kính trọng. Không kêu, chạm nhẹ thôi.
+- 上位者より低く=尊敬。音は立てず軽く触れる。
+- Thấp hơn cấp trên = kính trọng. Không kêu, chạm nhẹ thôi.
 
 ### J2.12 (từ rule_27 — Cuộc trò chuyện không công việc)
 
@@ -536,8 +536,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 政治評価・年齢・給与の3点は接待で絶対NG。食・趣味・観光・天気が安全。
-- 🇻🇳 Chính trị, tuổi, lương — 3 cái này tiếp khách tuyệt đối NG. An toàn = ẩm thực, sở thích, du lịch, thời tiết.
+- 政治評価・年齢・給与の3点は接待で絶対NG。食・趣味・観光・天気が安全。
+- Chính trị, tuổi, lương — 3 cái này tiếp khách tuyệt đối NG. An toàn = ẩm thực, sở thích, du lịch, thời tiết.
 
 ### J2.13 (từ rule_28 — Trao omiyage (quà))
 
@@ -553,8 +553,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 袋から出す → 文字向き相手 → 両手 → 謙遜固定句 → 上位者順 が4点セット。
-- 🇻🇳 Lấy ra khỏi túi → hướng chữ về khách → 2 tay → câu khiêm nhường → trao theo thứ tự cấp bậc — combo 4 điểm.
+- 袋から出す → 文字向き相手 → 両手 → 謙遜固定句 → 上位者順 が4点セット。
+- Lấy ra khỏi túi → hướng chữ về khách → 2 tay → câu khiêm nhường → trao theo thứ tự cấp bậc — combo 4 điểm.
 
 ### J2.14 (từ rule_31 — Khách Nhật đoàn lớn 5+ người)
 
@@ -570,8 +570,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 5+人は席札・席次表・zone pour・flow table の4点が必須。自由着席は混乱の元。
-- 🇻🇳 5+ người = bắt buộc 4 thứ: bảng tên, sơ đồ ngồi, rót theo zone, flow table. Tự do = nguồn hỗn loạn.
+- 5+人は席札・席次表・zone pour・flow table の4点が必須。自由着席は混乱の元。
+- 5+ người = bắt buộc 4 thứ: bảng tên, sơ đồ ngồi, rót theo zone, flow table. Tự do = nguồn hỗn loạn.
 
 ### J2.15 (từ rule_33 — Tránh culture clash VN-JP)
 
@@ -587,8 +587,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 VN流『自分でやる/俺が払う/即返し』は日本式相互ケアと衝突。譲って次回 host を申し出るのが正解。
-- 🇻🇳 Kiểu VN 'tự làm/để em trả/đáp lễ ngay' xung đột với kiểu Nhật chăm sóc lẫn nhau. Đúng là nhường, hẹn lần sau mình mời.
+- VN流『自分でやる/俺が払う/即返し』は日本式相互ケアと衝突。譲って次回 host を申し出るのが正解。
+- Kiểu VN 'tự làm/để em trả/đáp lễ ngay' xung đột với kiểu Nhật chăm sóc lẫn nhau. Đúng là nhường, hẹn lần sau mình mời.
 
 ### J2.16 (từ rule_35 — Tự đánh giá sau nghi lễ tiếp khách)
 
@@ -604,12 +604,12 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 5項目構造化 + 担当者&期限付きaction + 2系統記録 が再現可能な team learning。
-- 🇻🇳 5 mục cấu trúc + action có chủ + deadline + lưu 2 nơi = team learning tái sử dụng được.
+- 5項目構造化 + 担当者&期限付きaction + 2系統記録 が再現可能な team learning。
+- 5 mục cấu trúc + việc cần làm có chủ + hạn chót + lưu 2 nơi = team learning tái sử dụng được.
 
 
 **Tổng số câu hỏi:** 35
 
 ---
 
-*Tài liệu này có thể export thành quiz interactive — đọc data trực tiếp từ `bjt_practice` array trong mỗi `conversation.json`.*
+*Tài liệu này có thể export thành quiz tương tác.*

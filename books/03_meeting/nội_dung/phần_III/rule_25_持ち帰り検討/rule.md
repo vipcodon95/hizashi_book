@@ -14,45 +14,38 @@ Anh Ōgaki đột ngột yêu cầu giảm giá 15% ngay trong họp. Em Dũng k
 
 ---
 
-## ❌ Hội thoại XẤU — quyết bừa hoặc từ chối thẳng
+## Hội thoại XẤU — quyết bừa hoặc từ chối thẳng
 
 *không có thẩm quyền nhưng muốn chốt thương vụ · về công ty, chị Hương phát hiện 15% = lỗ → yêu cầu Dũng đàm phán lại · khi Dũng quay lại đàm*
 
 | Vai | Câu |
 |---------|-----|
-| **大垣** | 「もし15%の<ruby>値引<rt>ねび</rt></ruby>きが<ruby>可能<rt>かのう</rt></ruby>であれば、<ruby>本日中<rt>ほんじつちゅう</rt></ruby>に<ruby>契約<rt>けいやく</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めたいのですが。」 |
-|  | *Nếu giảm được 15% thì chúng tôi muốn ký luôn hôm nay.* |
-| **ズン** | 「はい、それで<ruby>問題<rt>もんだい</rt></ruby>ありません！」 |
-|  | *Vâng, không vấn đề gì ạ!* |
-| **大垣** | 「<ruby>先<rt>さき</rt></ruby>ほど『問題ない』とおっしゃったではないですか…」 |
-|  | *Lúc nãy Dũng đã nói 'không vấn đề gì' rồi mà...* |
+| **大垣** | 「もし15%の<ruby>値引<rt>ねび</rt></ruby>きが<ruby>可能<rt>かのう</rt></ruby>であれば、<ruby>本日中<rt>ほんじつちゅう</rt></ruby>に<ruby>契約<rt>けいやく</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めたいのですが。」 <br/>*Nếu giảm được 15% thì chúng tôi muốn ký luôn hôm nay.* |
+| **ズン** | 「はい、それで<ruby>問題<rt>もんだい</rt></ruby>ありません！」 <br/>*Vâng, không vấn đề gì ạ!* |
+| **大垣** | 「<ruby>先<rt>さき</rt></ruby>ほど『問題ない』とおっしゃったではないですか…」 <br/>*Lúc nãy Dũng đã nói 'không vấn đề gì' rồi mà...* |
 
 **Vì sao xấu:** Quyết quá quyền hạn → khi nội bộ lật lại thì mất uy tín toàn diện. Hoặc nếu Dũng từ chối thẳng "それは無理です" cũng làm 大垣 mất hứng đàm.
 
 ---
 
-## ✅ Hội thoại TỐT — xin持ち帰り検討
+## Hội thoại TỐT — xin持ち帰り検討
 
 *tiếp*
 
 | Vai | Câu |
 |---------|-----|
-| **大垣** | 「もし15%の値引きが可能であれば、本日中に契約を進めたいのですが。」 |
-|  | *Nếu giảm được 15% thì chúng tôi muốn ký luôn hôm nay.* |
-| **ズン** | 「ご<ruby>提案<rt>ていあん</rt></ruby>いただきありがとうございます。15%という<ruby>大<rt>おお</rt></ruby>きなご<ruby>要望<rt>ようぼう</rt></ruby>でございますので、<ruby>一度<rt>いちど</rt></ruby><ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>って<ruby>社内<rt>しゃない</rt></ruby>で<ruby>検討<rt>けんとう</rt></ruby>させていただけませんでしょうか【1】？」 |
-|  | *Em cảm ơn anh đã đề xuất ạ. 15% là yêu cầu khá lớn, em xin phép mang về xem xét nội bộ trước được không ạ?* |
-| **ズン** | 「<ruby>明日中<rt>あすじゅう</rt></ruby>に<ruby>上長<rt>じょうちょう</rt></ruby>と<ruby>協議<rt>きょうぎ</rt></ruby>し、<ruby>明後日<rt>あさって</rt></ruby><ruby>午前中<rt>ごぜんちゅう</rt></ruby>までにご<ruby>回答<rt>かいとう</rt></ruby><ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます【2】。」 |
-|  | *Em sẽ trao đổi với cấp trên trong ngày mai, và xin trả lời anh trước trưa ngày kia ạ.* |
-| **大垣** | 「<ruby>分<rt>わ</rt></ruby>かりました。では明後日のご<ruby>連絡<rt>れんらく</rt></ruby>をお<ruby>待<rt>ま</rt></ruby>ちしております。」 |
-|  | *Tôi hiểu rồi. Vậy ngày kia tôi sẽ chờ phản hồi của Dũng.* |
+| **大垣** | 「もし15%の値引きが可能であれば、本日中に契約を進めたいのですが。」 <br/>*Nếu giảm được 15% thì chúng tôi muốn ký luôn hôm nay.* |
+| **ズン** | 「ご<ruby>提案<rt>ていあん</rt></ruby>いただきありがとうございます。15%という<ruby>大<rt>おお</rt></ruby>きなご<ruby>要望<rt>ようぼう</rt></ruby>でございますので、<ruby>一度<rt>いちど</rt></ruby><ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>って<ruby>社内<rt>しゃない</rt></ruby>で<ruby>検討<rt>けんとう</rt></ruby>させていただけませんでしょうか【1】？」 <br/>*Em cảm ơn anh đã đề xuất ạ. 15% là yêu cầu khá lớn, em xin phép mang về xem xét nội bộ trước được không ạ?* |
+| **ズン** | 「<ruby>明日中<rt>あすじゅう</rt></ruby>に<ruby>上長<rt>じょうちょう</rt></ruby>と<ruby>協議<rt>きょうぎ</rt></ruby>し、<ruby>明後日<rt>あさって</rt></ruby><ruby>午前中<rt>ごぜんちゅう</rt></ruby>までにご<ruby>回答<rt>かいとう</rt></ruby><ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます【2】。」 <br/>*Em sẽ trao đổi với cấp trên trong ngày mai, và xin trả lời anh trước trưa ngày kia ạ.* |
+| **大垣** | 「<ruby>分<rt>わ</rt></ruby>かりました。では明後日のご<ruby>連絡<rt>れんらく</rt></ruby>をお<ruby>待<rt>ま</rt></ruby>ちしております。」 <br/>*Tôi hiểu rồi. Vậy ngày kia tôi sẽ chờ phản hồi của Dũng.* |
 
-📝 **Ghi chú:**
+ **Ghi chú:**
 - 【1】**「持ち帰って社内で検討させていただけませんでしょうか」** — câu chuẩn trong doanh nghiệp Nhật. 「持ち帰り」 = mang về (cụm cốt lõi của JP). Không phải xấu hổ — ngược lại JP coi là chuẩn quy trình.
 - 【2】**「明後日午前中までにご回答申し上げます」** — phải kèm **thời hạn cụ thể** trả lời. Không có thời hạn = lý do để khách thúc ép tiếp.
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「一度持ち帰って社内で検討させていただけませんでしょうか？」**
 >
@@ -60,7 +53,7 @@ Anh Ōgaki đột ngột yêu cầu giảm giá 15% ngay trong họp. Em Dũng k
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - Quyết ngay vượt thẩm quyền → đảo ngược lại rất tốn uy tín.
 - Xin 持ち帰り mà không kèm thời hạn → khách không biết bao giờ có hồi đáp.
@@ -68,14 +61,14 @@ Anh Ōgaki đột ngột yêu cầu giảm giá 15% ngay trong họp. Em Dũng k
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 持ち帰る | もちかえる | Mang về (xem xét) |
-| 検討 | けんとう | Xem xét / cân nhắc |
-| 社内 | しゃない | Trong công ty |
-| 上長 | じょうちょう | Cấp trên |
-| 値引き | ねびき | Giảm giá |
-| 稟議 | りんぎ | Quy trình duyệt nội bộ JP |
-| 即決 | そっけつ | Quyết ngay |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 持ち帰る | もちかえる | — | Mang về (xem xét) |
+| 検討 | けんとう | KIỂM THẢO | Xem xét / cân nhắc |
+| 社内 | しゃない | XÃ NỘI | Trong công ty |
+| 上長 | じょうちょう | THƯỢNG TRƯỞNG | Cấp trên |
+| 値引き | ねびき | — | Giảm giá |
+| 稟議 | りんぎ | BẨM NGHỊ | Quy trình duyệt nội bộ JP |
+| 即決 | そっけつ | TỨC QUYẾT | Quyết ngay |

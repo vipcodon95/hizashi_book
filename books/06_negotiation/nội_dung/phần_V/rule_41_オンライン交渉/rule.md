@@ -1,6 +1,6 @@
-# Rule 41 — Online negotiation tactics / オンライン交渉
+# Rule 41 — Chiến thuật đàm phán trực tuyến / オンライン交渉
 
-> **Luận điểm.** Online ≠ offline đơn giản. 4 khác biệt then chốt: **(1) Mô phỏng giao tiếp bằng mắt** (nhìn vào camera, KHÔNG nhìn màn hình), **(2) Chiến lược share màn hình** (chỉ share khi trình bày, KHÔNG suốt phiên), **(3) Silence khó cảm nhận** — 7 giây offline = 4 giây online (lag mạng che lấp), **(4) 沈黙 trong meeting tools dễ bị "技術的に大丈夫?" cắt ngang** làm mất hiệu ứng anchoring.
+> **Luận điểm.** Trực tuyến ≠ trực tiếp đơn giản. 4 khác biệt then chốt: **(1) Mô phỏng giao tiếp bằng mắt** (nhìn vào camera, KHÔNG nhìn màn hình), **(2) Chiến lược chia sẻ màn hình** (chỉ share khi trình bày, KHÔNG suốt phiên), **(3) Im lặng khó cảm nhận** — 7 giây trực tiếp = 4 giây trực tuyến (lag mạng che lấp), **(4) 沈黙 trong meeting tools dễ bị "技術的に大丈夫?" cắt ngang** làm mất hiệu ứng neo giá.
 >
 > オンライン交渉では eye contact = カメラ凝視、画面共有は present 時のみ、沈黙は短めに調整、interruption (「聞こえてますか?」) でアンカリング効果を消さない。
 >
@@ -10,11 +10,11 @@
 
 ## Bối cảnh / 場面
 
-Phase 3 round 2, 大垣 + 田中 PMO 在京、Tiên Phát side ハノイ → Zoom. Dũng anchor ¥18M. Bình thường offline silence 7 giây = trump card. Online... khác.
+Phase 3 round 2, 大垣 + 田中 PMO 在京、Tiên Phát side ハノイ → Zoom. Dũng neo giá ¥18M. Bình thường trực tiếp im lặng 7 giây = đòn bẩy chủ chốt. Trực tuyến... khác.
 
 ---
 
-## ❌ Hội thoại XẤU — nhìn lơ đãng qua camera + sa lầy silence
+## Hội thoại XẤU — nhìn lơ đãng qua camera + sa lầy im lặng
 
 | | Vai | Câu (Zoom) |
 |--|---------|-----|
@@ -27,13 +27,13 @@ Phase 3 round 2, 大垣 + 田中 PMO 在京、Tiên Phát side ハノイ → Zoo
 | **L4** | **ズン** *(<ruby>慌<rt>あわ</rt></ruby>)* | 「あ、はい、<ruby>聞<rt>き</rt></ruby>こえてます！ ¥18M です、ご<ruby>検討<rt>けんとう</rt></ruby>ください！」 |
 |  |  | *À vâng, em nghe được ạ! ¥18M ạ, anh xem xét giúp em!* |
 | **L5** | (アンカリング<ruby>効果<rt>こうか</rt></ruby><ruby>消滅<rt>しょうめつ</rt></ruby>、 anchoring 失敗) | |
-|  |  | *(Hiệu ứng anchoring tan biến, anchoring thất bại)* |
+|  |  | *(Hiệu ứng neo giá tan biến, neo giá thất bại)* |
 
-**Vì sao xấu:** (a) Giao tiếp bằng mắt ⇒ nhìn note dưới màn hình chứ không nhìn camera → tạo ấn tượng "đang né ánh mắt đối phương", (b) Online silence 7 giây = ông Ōgaki cho rằng có sự cố kỹ thuật → "聞こえてますか" → sức nặng của anchor mất sạch, (c) Vội vàng nhắc lại anchor = tín hiệu yếu.
+**Vì sao xấu:** (a) Giao tiếp bằng mắt ⇒ nhìn note dưới màn hình chứ không nhìn camera → tạo ấn tượng "đang né ánh mắt đối phương", (b) Im lặng 7 giây trực tuyến = ông Ōgaki cho rằng có sự cố kỹ thuật → "聞こえてますか" → sức nặng của neo giá mất sạch, (c) Vội vàng nhắc lại neo giá = tín hiệu yếu.
 
 ---
 
-## ✅ Hội thoại TỐT — camera eye + 4 giây silence + screen share precise
+## Hội thoại TỐT — nhìn thẳng camera + im lặng 4 giây + chia màn hình chính xác
 
 | | Vai | Câu (Zoom) |
 |--|---------|-----|
@@ -50,43 +50,43 @@ Phase 3 round 2, 大垣 + 田中 PMO 在京、Tiên Phát side ハノイ → Zoo
 | **L6** | **ズン** *(<ruby>頷<rt>うなず</rt></ruby>き、 camera <ruby>維持<rt>いじ</rt></ruby>)* | 「ありがとうございます。<ruby>検討期間<rt>けんとうきかん</rt></ruby>は 1 <ruby>週間<rt>しゅうかん</rt></ruby>ほど見ていただけますでしょうか？」 |
 |  |  | *Em cảm ơn ạ. Phiền anh dành khoảng 1 tuần để xem xét được không ạ?* |
 | **L7** | (Dũng Slack Hương 後で) **ズン** | 「online 4 秒 silence で大垣様 reply。screen share は anchor slide <ruby>出<rt>だ</rt></ruby>して即 OFF、camera 直視で<ruby>沈黙保持<rt>ちんもくほじ</rt></ruby>。**相手が 'connection 大丈夫?' interrupt する前に reply 来た**【2】。」 |
-|  |  | *Online silence 4 giây thì anh Ōgaki đã reply. Screen share chỉ lúc show anchor slide rồi tắt ngay, camera giữ nhìn thẳng để giữ silence. Reply đến trước khi anh ấy interrupt 'connection OK?'.* |
+|  |  | *Im lặng trực tuyến 4 giây thì anh Ōgaki đã reply. Chia màn hình chỉ lúc show slide neo giá rồi tắt ngay, camera giữ nhìn thẳng để duy trì im lặng. Reply đến trước khi anh ấy interrupt 'connection OK?'.* |
 
-📝 **Ghi chú:**
-- 【1】**Chỉ share màn hình lúc đưa anchor** → củng cố bằng thị giác. Sau khi đưa xong thì **tắt share ngay + quay lại camera** = lấy lại kết nối bằng khuôn mặt.
-- 【2】**Online silence = 4 giây** (offline 7 giây). Quá 5 giây sẽ bị hiểu nhầm là lag mạng.
-- **Giao tiếp bằng mắt = nhìn thẳng vào ống kính camera** (không phải nhìn mặt đối phương). Cần luyện 1 tuần; lúc đầu sẽ thấy thiếu tự nhiên.
+ **Ghi chú:**
+- 【1】**Chỉ chia sẻ màn hình lúc đưa neo giá** → củng cố bằng thị giác. Sau khi đưa xong thì **tắt share ngay + quay lại camera** = lấy lại kết nối bằng khuôn mặt.
+- 【2】**Im lặng trực tuyến = 4 giây** (trực tiếp 7 giây). Quá 5 giây sẽ bị hiểu nhầm là lag mạng.
+- **Giao tiếp bằng mắt = nhìn thẳng vào ống kính camera** (không phải nhìn mặt đối phương). Cần luyện 1 tuần; lúc đầu sẽ cảm thấy thiếu tự nhiên.
 - **Giữ tay yên** trong lúc im lặng = sự tự tin "đang chờ đợi". Cử động nhiều sẽ tạo cảm giác "đang bồn chồn".
-- **Câu kiểm tra kết nối** 「聞こえてますか？」 tuyệt đối không được nói sau khi đã đưa anchor.
+- **Câu kiểm tra kết nối** 「聞こえてますか？」 tuyệt đối không được nói sau khi đã đưa neo giá.
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「Online: camera 直視 + screen share は anchor 時のみ + 沈黙 4 秒 (offline -3 秒) + interruption 自重。」**
 >
-> *Online: nhìn thẳng ống kính + chỉ share màn hình khi anchor + silence 4 giây + nén việc bị cắt ngang.*
+> *Trực tuyến: nhìn thẳng ống kính + chỉ chia sẻ màn hình khi neo giá + im lặng 4 giây + nén việc bị cắt ngang.*
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - 画面下の note を見ながら anchor 提示 → giao tiếp bằng mắt = 0
 - 画面共有を session 全部 ON → 顔が見えず、 sự kết nối giữa người với người bị cắt đứt
-- Online silence 7 giây 維持 → bị cho là "mất tiếng / rớt audio"
-- 「聞こえてますか?」 を 2 秒目で kiểm tra kết nối → hiệu ứng anchor tan biến ngay lập tức
+- Im lặng trực tuyến 7 giây 維持 → bị cho là "mất tiếng / rớt audio"
+- 「聞こえてますか?」 を 2 秒目で kiểm tra kết nối → hiệu ứng neo giá tan biến ngay lập tức
 - カメラ角度上から下 / 下から上 → tạo thế quyền lực thiếu tự nhiên
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| カメラ直視 | カメラちょくし | Nhìn thẳng camera |
-| 画面共有 | がめんきょうゆう | Chia sẻ màn hình (share màn hình) |
-| 凝視 | ぎょうし | Nhìn chằm chằm, nhìn cố định |
-| 沈黙保持 | ちんもくほじ | Giữ im lặng |
-| ネット遅延 | ネットちえん | Độ trễ mạng (lag mạng) |
-| Hand stillness | ハンドスティルネス | Giữ tay yên không cử động |
-| Eye contact mock | アイコンタクトモック | Mô phỏng giao tiếp bằng mắt |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| カメラ直視 | カメラちょくし | TRỰC THỊ | Nhìn thẳng camera |
+| 画面共有 | がめんきょうゆう | HỌA DIỆN CỘNG HỮU | Chia sẻ màn hình (share màn hình) |
+| 凝視 | ぎょうし | NGƯNG THỊ | Nhìn chằm chằm, nhìn cố định |
+| 沈黙保持 | ちんもくほじ | TRẦM MẶC BẢO TRÌ | Giữ im lặng |
+| ネット遅延 | ネットちえん | TRÌ DIÊN | Độ trễ mạng (lag mạng) |
+| Hand stillness | ハンドスティルネス | — | Giữ tay yên không cử động |
+| Eye contact mock | アイコンタクトモック | — | Mô phỏng giao tiếp bằng mắt |

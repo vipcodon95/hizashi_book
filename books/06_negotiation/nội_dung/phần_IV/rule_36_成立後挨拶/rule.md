@@ -1,4 +1,4 @@
-# Rule 36 — Post-deal greeting (conservative) / 商談成立後の挨拶
+# Rule 36 — Chào hỏi sau ký kết (điềm tĩnh) / 商談成立後の挨拶
 
 > **Luận điểm.** Sau ký xong, KHÔNG nên thổi phồng "ありがとうございます！！" 3 dấu chấm than. Business Nhật: giọng điệu chừng mực, hướng vào 「**身が引き締まる**」 (cảm nhận trọng trách) thay vì ăn mừng. Phô trương quá = bị nhìn nhận là "未熟" (non nớt). Câu chuẩn: 「**身の引き締まる思いです**」 + 「期待にお応えできるよう」 (cam kết).
 >
@@ -10,11 +10,11 @@
 
 ## Bối cảnh / 場面
 
-DocuSign 完了通知 16:30。Dũng vui vẻ. Cần gửi mail cảm ơn cho 大垣. Đây là ấn tượng đầu cho giai đoạn bàn giao — quá phô trương = lo ngại. Quá khô khan = lạnh. Cần giọng "身が引き締まる".
+Thông báo hoàn tất ký điện tử lúc 16:30. Dũng vui vẻ. Cần gửi mail cảm ơn cho 大垣. Đây là ấn tượng đầu cho giai đoạn bàn giao — quá phô trương = lo ngại. Quá khô khan = lạnh. Cần giọng "身が引き締まる".
 
 ---
 
-## ❌ Hội thoại XẤU — thổi phồng + suồng sã
+## Hội thoại XẤU — thổi phồng + suồng sã
 
 | | Vai | Câu (mail) |
 |--|---------|-----|
@@ -27,11 +27,11 @@ DocuSign 完了通知 16:30。Dũng vui vẻ. Cần gửi mail cảm ơn cho 大
 | **L4** | (Tanaka PMO 内部 Slack) **田中** | 「<ruby>了解<rt>りょうかい</rt></ruby>しました。<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>厳<rt>きび</rt></ruby>しめに review します。」 |
 |  |  | *Tôi rõ rồi. Đầu tiên tôi sẽ kiểm tra chặt hơn.* |
 
-**Vì sao xấu:** 3 dấu chấm than + 「嬉しいです」 lối diễn đạt cảm xúc → sếp Nhật đọc thấy "学生っぽい". Khách trở nên **thủ thế** ngay từ đầu giai đoạn bàn giao — Tanaka PMO sẽ soi xét kỹ từng báo cáo. Dự án khó hơn 30%.
+**Vì sao xấu:** 3 dấu chấm than + 「嬉しいです」 lối diễn đạt cảm xúc → quản lý Nhật đọc thấy "học sinh mới ra trường". Khách trở nên **thủ thế** ngay từ đầu giai đoạn bàn giao — Tanaka PMO sẽ soi xét kỹ từng báo cáo. Dự án khó hơn 30%.
 
 ---
 
-## ✅ Hội thoại TỐT — chừng mực + giọng cam kết
+## Hội thoại TỐT — chừng mực + giọng cam kết
 
 | | Vai | Câu (mail) |
 |--|---------|-----|
@@ -48,40 +48,40 @@ DocuSign 完了通知 16:30。Dũng vui vẻ. Cần gửi mail cảm ơn cho 大
 | **L6** | (社内 Slack) **ズン → Hương** | 「Phase 3 <ruby>締結<rt>ていけつ</rt></ruby><ruby>御礼<rt>おんれい</rt></ruby>メール<ruby>送信<rt>そうしん</rt></ruby><ruby>完了<rt>かんりょう</rt></ruby>。<ruby>返信<rt>へんしん</rt></ruby>から大垣様 friendly tone【4】。次は Tanaka PMO とキックオフ<ruby>調整<rt>ちょうせい</rt></ruby><ruby>入<rt>はい</rt></ruby>ります。」 |
 |  |  | *Mail cảm ơn ký Phase 3 đã gửi xong. Phản hồi của anh Ōgaki có giọng thân thiện. Tiếp theo em sẽ vào sắp xếp kickoff với PM Tanaka.* |
 
-📝 **Ghi chú:**
+ **Ghi chú:**
 - 【1】**「誠にありがとうございました」** — trang trọng nhưng chỉ 1 lần. Không cần !!!.
-- 【2】**「身の引き締まる思い」** = câu thần chú. Không phải cảm xúc 「嬉しい」 mà là truyền tải trách nhiệm. Giọng trưởng thành.
+- 【2】**「身の引き締まる思い」** = câu chốt. Không phải cảm xúc 「嬉しい」 mà là truyền tải trách nhiệm. Giọng trưởng thành.
 - 【3】**「ご期待にお応えできますよう」** = cam kết về tương lai. Hướng vào việc bàn giao, không phải ăn mừng.
 - 【4】**Câu trả lời "こちらこそ"** = dấu hiệu ấm áp. Nếu thổi phồng quá thì sẽ nhận lại phản hồi lạnh kiểu "ありがとうございました。引き続きよろしく".
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
-> **「ありがとうございます！！ ❌ → 身の引き締まる思いです ✅。Hype = 未熟、commit = 大人。」**
+> **「ありがとうございます！！  → 身の引き締まる思いです 。Hype = 未熟、commit = 大人。」**
 >
 > *Phô trương 3 chấm than = "non". Chừng mực + cam kết = "trưởng thành".*
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
-- 「！！」 多用 → mail gửi sếp Nhật thì hoàn toàn NG
-- 「嬉しい」 / 「最高です」 cảm xúc → 学生レベル
-- Cảm ơn thông thường 「サンキューです！」 → quan hệ kết thúc ngay
+- 「！！」 dùng nhiều → mail gửi cấp trên Nhật thì hoàn toàn NG
+- 「嬉しい」 / 「最高です」 cảm xúc → mức học sinh
+- Cảm ơn kiểu thường 「サンキューです！」 → quan hệ dễ xuống cấp ngay
 - Vội đẩy bước tiếp theo (「次のフェーズもお願いします!」) → lộ vẻ cuống. Bàn giao Phase 3 phải lo trước
 - Chưa chờ trả lời đã gửi nhắc liên tục → cần tôn trọng khoảng lặng
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 身の引き締まる思い | みのひきしまるおもい | Cảm thấy trách nhiệm nặng nề |
-| 御礼 | おんれい | Lời cảm ơn (formal) |
-| 頂戴 | ちょうだい | Nhận (kính ngữ) |
-| 全力でお取組み | ぜんりょくでおとりくみ | Toàn lực cam kết |
-| 信頼 | しんらい | Tin tưởng |
-| 段取り | だんどり | Sắp xếp |
-| 締結 | ていけつ | Ký kết |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 身の引き締まる思い | みのひきしまるおもい | — | Cảm thấy trách nhiệm nặng nề |
+| 御礼 | おんれい | NGỰ LỄ | Lời cảm ơn (trang trọng) |
+| 頂戴 | ちょうだい | ĐỈNH ĐỚI | Nhận (kính ngữ) |
+| 全力でお取組み | ぜんりょくでおとりくみ | TOÀN LỰC | Toàn lực nỗ lực |
+| 信頼 | しんらい | TÍN LẠI | Tin tưởng |
+| 段取り | だんどり | — | Sắp xếp |
+| 締結 | ていけつ | ĐÌNH KẾT | Ký kết |

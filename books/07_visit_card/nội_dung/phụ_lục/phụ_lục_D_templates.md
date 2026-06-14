@@ -1,13 +1,13 @@
-# Phụ lục D — Template Tổng Hợp / テンプレート集
+# Phụ lục D — Mẫu Tổng Hợp / テンプレート集
 
-*Tổng hợp các template (agenda, biên bản, mail) đính kèm trong các rules. Copy-paste để dùng.*
+*Tổng hợp các mẫu (agenda, biên bản, mail) đính kèm trong các rules. Copy-paste để dùng.*
 
 ---
 
 
 ## Email follow-up (1 mẫu)
 
-### Rule 30 — Template Mail Cảm Ơn Sau Dinner Tiếp Khách
+### Rule 30 — Mẫu Mail Cảm Ơn Sau Dinner Tiếp Khách
 
 *JP: 接待ディナー後 お礼メール・テンプレート*
 
@@ -65,13 +65,13 @@ TEL: 〇〇
 E-mail: 〇〇
 ```
 
-📝 **Ghi chú VN:** Lý tưởng = gửi 8-9h sáng hôm sau. To riêng từng người + CC sếp, BCC = đại kỵ. Trích 1-2 chủ đề cụ thể + hẹn lần sau để giữ 'nhiệt'. Dài quá NG (cỡ 200-300 chữ JP).
-📝 **Ghi chú JP:** 翌朝8-9時送信が理想。To個別+CC上司、BCC禁忌。具体的話題引用1-2点+次回約束で『温度』を保つ。長すぎるNG (200-300字目安)。
+ **Ghi chú VN:** Lý tưởng = gửi 8-9h sáng hôm sau. To riêng từng người + CC sếp, BCC = đại kỵ. Trích 1-2 chủ đề cụ thể + hẹn lần sau để giữ 'nhiệt'. Dài quá NG (cỡ 200-300 chữ JP).
+ **Ghi chú JP:** 翌朝8-9時送信が理想。To個別+CC上司、BCC禁忌。具体的話題引用1-2点+次回約束で『温度』を保つ。長すぎるNG (200-300字目安)。
 
 
-## Checklist (6 mẫu)
+## Danh sách kiểm tra (6 mẫu)
 
-### Rule 01 — Checklist 4 Điều Kiện Chuẩn Bị Danh Thiếp
+### Rule 01 — Danh sách kiểm tra 4 Điều Kiện Chuẩn Bị Danh Thiếp
 
 *JP: 名刺準備 4条件チェックリスト*
 
@@ -108,7 +108,7 @@ E-mail: 〇〇
 **Bản Việt placeholder:**
 
 ```
-[Checklist 4 Điều Kiện Chuẩn Bị Danh Thiếp — hoàn tất chiều hôm trước event]
+[Danh sách kiểm tra 4 Điều Kiện Chuẩn Bị Danh Thiếp — hoàn tất chiều hôm trước sự kiện]
 
 □ ① Hộp riêng
    - Mang hộp đựng danh thiếp (KHÔNG ví)
@@ -117,7 +117,7 @@ E-mail: 〇〇
 
 □ ② In 2 mặt
    - Mặt JP: tên kanji + furigana + chức vụ
-   - Mặt EN: tên romaji + title + company
+   - Mặt EN: tên romaji + chức danh + tên công ty
    - Check 2 mặt khớp nhau (chức vụ không lệch)
 
 □ ③ Số lượng
@@ -137,10 +137,10 @@ E-mail: 〇〇
    - Tập rút danh thiếp (trong 3 giây)
 ```
 
-📝 **Ghi chú VN:** Bắt buộc hoàn tất chiều hôm trước. Sáng ngày G mới phát hiện thiếu = ấn tượng xấu.
-📝 **Ghi chú JP:** 前日午後までに完成必須。当日朝発見トラブルは印象悪。
+ **Ghi chú VN:** Bắt buộc hoàn tất chiều hôm trước. Sáng ngày G mới phát hiện thiếu = ấn tượng xấu.
+ **Ghi chú JP:** 前日午後までに完成必須。当日朝発見トラブルは印象悪。
 
-### Rule 07 — Checklist Quản Lý Danh Thiếp 24h
+### Rule 07 — Danh sách kiểm tra Quản Lý Danh Thiếp 24h
 
 *JP: 名刺管理 24時間チェックリスト*
 
@@ -184,7 +184,7 @@ E-mail: 〇〇
    - Ngày gặp / Tên event
 
 [ ] STEP 2: Ghi chú ngữ cảnh (1 dòng/người)
-   Format:
+   Cấu trúc:
    '[Chủ đề] / câu nói đặc trưng '〇〇' / Việc tiếp theo [〇〇 by 〇/〇]'
    Ví dụ:
    Nakamura CFO → 'Lo trần budget Phase 4 15tr yên / 'Sẽ xem lại sau quyết toán Q3' / Gửi RFP Phase 4 by 15/7'
@@ -204,10 +204,10 @@ E-mail: 〇〇
    - Việc tiếp theo rõ ràng
 ```
 
-📝 **Ghi chú VN:** Bắt buộc 24h. Sau 3 ngày mất 70% ngữ cảnh, chỉ viết được thư tiếp theo sáo rỗng.
-📝 **Ghi chú JP:** 24時間ルール厳守。3日経過で文脈70%消失、汎用フォローアップしか書けなくなる。
+ **Ghi chú VN:** Bắt buộc 24h. Sau 3 ngày mất 70% ngữ cảnh, chỉ viết được thư tiếp theo sáo rỗng.
+ **Ghi chú JP:** 24時間ルール厳守。3日経過で文脈70%消失、汎用フォローアップしか書けなくなる。
 
-### Rule 16 — Checklist Trước Onsite 24h
+### Rule 16 — Danh sách kiểm tra Trước Chuyến Công Tác 24h
 
 *JP: 訪問前 24時間チェックリスト*
 
@@ -252,7 +252,7 @@ E-mail: 〇〇
 **Bản Việt placeholder:**
 
 ```
-[Checklist trước onsite 24h — hoàn tất trước D-1 18:00]
+[Danh sách kiểm tra trước chuyến công tác 24h — hoàn tất trước D-1 18:00]
 
 [ ] (1) Mail confirm (trước 24h)
    - To: 担当者 / CC: cấp trên
@@ -267,9 +267,9 @@ E-mail: 〇〇
    - Giày: da đen / đã đánh
    - Hộp danh thiếp: túi áo phải
 
-[ ] (3) Route + buffer
+[ ] (3) Tuyến đường + thời gian dự phòng
    - Xuất phát: ___
-   - Route: ___
+   - Tuyến đường: ___
    - Thời gian chuẩn: ___ phút
    - +Dự phòng 30p
    - Mục tiêu đến: trước 5-10 phút
@@ -280,7 +280,7 @@ E-mail: 〇〇
    - Cash 1 man yen (taxi / emergency)
    - Sổ ghi chú + bút
    - Phone pin đầy + mobile battery
-   - In bản đồ địa điểm (offline)
+   - In bản đồ địa điểm (bản in sẵn)
 
 [ ] (5) Omiyage
    - Brand: ___
@@ -289,10 +289,10 @@ E-mail: 〇〇
    - Túi giấy (logo nhẹ)
 ```
 
-📝 **Ghi chú VN:** 5 mục xong trước D-1 18:00. Phát hiện thiếu sáng ngày G = chắc chắn delay.
-📝 **Ghi chú JP:** 5要素D-1 18:00までに完了。当日朝発覚=即遅延。
+ **Ghi chú VN:** 5 mục xong trước D-1 18:00. Phát hiện thiếu sáng ngày G = chắc chắn delay.
+ **Ghi chú JP:** 5要素D-1 18:00までに完了。当日朝発覚=即遅延。
 
-### Rule 28 — Checklist Chuẩn Bị + Trao Omiyage
+### Rule 28 — Danh sách kiểm tra Chuẩn Bị + Trao Omiyage
 
 *JP: お土産準備・渡し方チェックリスト*
 
@@ -337,7 +337,7 @@ E-mail: 〇〇
 **Bản Việt placeholder:**
 
 ```
-[Checklist Omiyage — chuẩn bị trước VN + trao tại chỗ]
+[Danh sách kiểm tra Omiyage — chuẩn bị trước VN + trao tại chỗ]
 
 [A] Chọn quà (trước khi rời VN — D-3)
 [ ] Xuất xứ VN (cà phê / trà / bánh / thêu / sơn mài)
@@ -374,10 +374,10 @@ E-mail: 〇〇
 [ ] x Túi giấy logo cty mình to chiếm hết
 ```
 
-📝 **Ghi chú VN:** 3 điều tối kỵ: khoe giá, giục mở, đặt bừa. 'Tsumaranai mono desu ga' + 2 tay + thứ tự cấp bậc = công thức vàng.
-📝 **Ghi chú JP:** 値段アピール・開封促進・一括置きの3つが日本式omiyage最大NG。『つまらないものですが』 + 両手 + 上位者順 が黄金パターン。
+ **Ghi chú VN:** 3 điều tối kỵ: khoe giá, giục mở, đặt bừa. 'Tsumaranai mono desu ga' + 2 tay + thứ tự cấp bậc = công thức vàng.
+ **Ghi chú JP:** 値段アピール・開封促進・一括置きの3つが日本式omiyage最大NG。『つまらないものですが』 + 両手 + 上位者順 が黄金パターン。
 
-### Rule 34 — Checklist Bộ Đồ Thiết Yếu Lần Đầu Onsite Tokyo
+### Rule 34 — Danh sách kiểm tra Bộ Đồ Thiết Yếu Lần Đầu Công Tác Tokyo
 
 *JP: 東京初訪問 Survival Kit チェックリスト*
 
@@ -434,7 +434,7 @@ E-mail: 〇〇
 **Bản Việt placeholder:**
 
 ```
-[Checklist Bộ Đồ Thiết Yếu Onsite Tokyo Lần Đầu — xong trước D-2]
+[Danh sách kiểm tra Bộ Đồ Thiết Yếu Công Tác Tokyo Lần Đầu — xong trước D-2]
 
 [1] Tiền mặt + thẻ
 [ ] Yên Nhật 5 man (đổi trước khi rời VN)
@@ -447,7 +447,7 @@ E-mail: 〇〇
 [ ] IC card Suica/Pasmo (mua tại quầy xanh JR Narita)
    - Số dư khuyên: 5,000 yên
    - iPhone hỗ trợ thì setup eSIM Suica trước
-[ ] In bản đồ hotel → địa điểm (offline)
+[ ] In bản đồ khách sạn → địa điểm (bản in sẵn)
 [ ] Đặt vé Narita Express / Skyliner
 
 [3] Trang phục
@@ -457,7 +457,7 @@ E-mail: 〇〇
 [ ] Cravate đơn sắc x 2
 [ ] Giày da đen + bộ đánh giày
 [ ] Hanger (chống nhăn trong vali)
-[ ] Steamer mini (dùng tại hotel)
+[ ] Steamer mini (dùng tại khách sạn)
 
 [4] Omiyage
 [ ] 6 phần brand VN cao cấp (đóng gói riêng)
@@ -479,14 +479,14 @@ E-mail: 〇〇
 
 [7] Giấy tờ (cặp riêng, secure)
 [ ] Bản sao giấy mời / invitation letter
-[ ] In địa chỉ + SĐT địa điểm thăm (offline)
+[ ] In địa chỉ + SĐT địa điểm thăm (bản in sẵn)
 [ ] Danh sách liên hệ khẩn cấp
 ```
 
-📝 **Ghi chú VN:** Phân biệt rõ thứ làm trước khi rời VN và thứ mua tại sân bay Nhật. Omiyage / cash / mạng = bắt buộc xong tại VN.
-📝 **Ghi chú JP:** 出発前(VN)に終わらせるもの・現地空港で揃えるものを混同しない。お土産・現金・通信は必ずVN出発前。
+ **Ghi chú VN:** Phân biệt rõ thứ làm trước khi rời VN và thứ mua tại sân bay Nhật. Omiyage / cash / mạng = bắt buộc xong tại VN.
+ **Ghi chú JP:** 出発前(VN)に終わらせるもの・現地空港で揃えるものを混同しない。お土産・現金・通信は必ずVN出発前。
 
-### Rule 35 — Template Tự Đánh Giá 5 Mục Kiểu Hizashi
+### Rule 35 — Mẫu Tự Đánh Giá 5 Mục Kiểu Hizashi
 
 *JP: Hizashi 式 5項目振り返りテンプレート*
 
@@ -535,7 +535,7 @@ E-mail: 〇〇
 **Bản Việt placeholder:**
 
 ```
-[Template Tự Đánh Giá Hizashi — 5 mục]
+[Mẫu Tự Đánh Giá Hizashi — 5 mục]
 Sự kiện: ___
 Ngày: ___
 Người tham gia: ___
@@ -546,38 +546,38 @@ Người điền: ___
 (2) ___
 (3) ___
 
-[2] Vấn đề (3 cái, format 'ai + làm gì + kết quả')
+[2] Vấn đề (3 cái, kiểu 'ai + làm gì + kết quả')
 (1) Ai / việc gì / kết quả: ___
 (2) Ai / việc gì / kết quả: ___
 (3) Ai / việc gì / kết quả: ___
 
-[3] Action cải thiện (3 cái, bắt buộc chủ + deadline)
-(1) Chủ: ___ / Deadline: ___ / Nội dung: ___
-(2) Chủ: ___ / Deadline: ___ / Nội dung: ___
-(3) Chủ: ___ / Deadline: ___ / Nội dung: ___
+[3] Việc cần cải thiện (3 cái, bắt buộc chủ + hạn chót)
+(1) Chủ: ___ / Hạn chót: ___ / Nội dung: ___
+(2) Chủ: ___ / Hạn chót: ___ / Nội dung: ___
+(3) Chủ: ___ / Hạn chót: ___ / Nội dung: ___
 
 [4] Phát hiện mới (ngôn ngữ / nghi thức / văn hóa)
-- Phrase mới: ___
+- Mẫu câu mới: ___
 - Nghi thức mới: ___
-- Trait khách mới: ___
+- Đặc điểm khách mới: ___
 
 [5] Lưu hồ sơ (cập nhật 2 nơi)
 [ ] Notion 'OO playbook' update
 [ ] CRM tab khách 'log OO/OO của OO' thêm vào
-[ ] Share tóm tắt qua Slack #learning
+[ ] Chia sẻ tóm tắt qua Slack #learning
 [ ] Gửi thank-you message cho người liên quan
 
-[Deadline]
-- Họp tự đánh giá: trong 1 ngày làm việc sau event
+[Hạn chót]
+- Họp tự đánh giá: trong 1 ngày làm việc sau sự kiện
 - Viết thành văn: trong 3 ngày làm việc
-- Action cải thiện: theo deadline từng action
+- Việc cần cải thiện: theo hạn chót từng việc
 
 [Checkpoint lần sau]
-Trước event cùng loại lần sau, đọc lại bài tự đánh giá này, kiểm tra vấn đề + action đã giải quyết chưa.
+Trước sự kiện cùng loại lần sau, đọc lại bài tự đánh giá này, kiểm tra vấn đề + việc cần cải thiện đã giải quyết chưa.
 ```
 
-📝 **Ghi chú VN:** 5 mục bắt buộc làm sau mỗi onsite / tiếp khách / họp quan trọng. 'Cải thiện' không có chủ + deadline = không bao giờ làm. Lưu Notion + CRM để team tích lũy kinh nghiệm.
-📝 **Ghi chú JP:** 5項目を毎 onsite/接待/重要会議 後に必ず実行。担当者+期限なしの『改善』は実行されない。Notion+CRM 両方記録で team learning 蓄積。
+ **Ghi chú VN:** 5 mục bắt buộc làm sau mỗi chuyến công tác / tiếp khách / họp quan trọng. 'Cải thiện' không có chủ + hạn chót = không bao giờ làm. Lưu Notion + CRM để team tích lũy kinh nghiệm.
+ **Ghi chú JP:** 5項目を毎 onsite/接待/重要会議 後に必ず実行。担当者+期限なしの『改善』は実行されない。Notion+CRM 両方記録で team learning 蓄積。
 
 
-**Tổng template:** 7
+**Tổng số mẫu:** 7

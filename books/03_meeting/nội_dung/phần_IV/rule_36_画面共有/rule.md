@@ -4,7 +4,7 @@
 >
 > 画面共有4ステップ：①予告 ②2-3秒待つ ③「ご覧いただけますでしょうか」確認 ④終了宣言。
 >
-> **Liên quan:** Rule 04 (setup), Rule 33 (online manner), Rule 35 (connection).
+> **Liên quan:** Rule 04 (chuẩn bị), Rule 33 (nghi thức họp trực tuyến), Rule 35 (mất kết nối).
 
 ---
 
@@ -14,72 +14,63 @@ Họp Zoom, em Dũng cần chia sẻ slide báo cáo. Đợi đến lượt mìn
 
 ---
 
-## ❌ Hội thoại XẤU — chia sẻ không báo, không xác nhận
+## Hội thoại XẤU — chia sẻ không báo, không xác nhận
 
 *share luôn · thực ra đang loading slow · tưởng đối phương đang đọc · sau 1 phút*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「これが4月のKPIです。」 |
-|  | *Đây là KPI tháng 4 ạ.* |
-| **松本** | 「…」 |
-|  | *...* |
-| **ズン** | 「<ruby>達成率<rt>たっせいりつ</rt></ruby>82%でして…」 |
-|  | *Tỷ lệ đạt 82% ạ...* |
-| **松本** | 「すみません、<ruby>画面<rt>がめん</rt></ruby>が<ruby>真<rt>ま</rt></ruby>っ<ruby>黒<rt>くろ</rt></ruby>のままで…」 |
-|  | *Xin lỗi, màn hình tôi vẫn đen...* |
+| **ズン** | 「これが4月のKPIです。」 <br/>*Đây là KPI tháng 4 ạ.* |
+| **松本** | 「…」 <br/>*...* |
+| **ズン** | 「<ruby>達成率<rt>たっせいりつ</rt></ruby>82%でして…」 <br/>*Tỷ lệ đạt 82% ạ...* |
+| **松本** | 「すみません、<ruby>画面<rt>がめん</rt></ruby>が<ruby>真<rt>ま</rt></ruby>っ<ruby>黒<rt>くろ</rt></ruby>のままで…」 <br/>*Xin lỗi, màn hình tôi vẫn đen...* |
 
-**Vì sao xấu:** Không báo trước → khách bất ngờ. Không xác nhận 「見えますか？」 → khách ngại nói "không thấy" → 1 phút phí.
+**Vì sao xấu:** Không báo trước → khách bất ngờ. Không xác nhận 「見えますか？」 → khách ngại nói "không thấy" → lãng phí 1 phút.
 
 ---
 
-## ✅ Hội thoại TỐT — 4 bước chuẩn
+## Hội thoại TỐT — 4 bước chuẩn
 
 *chờ 2-3s · sau khi giải thích xong*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「これより、4月KPIレポートの<ruby>画面<rt>がめん</rt></ruby>を<ruby>共有<rt>きょうゆう</rt></ruby>させていただきます【1】。」 |
-|  | *Em xin được share màn hình báo cáo KPI tháng 4 ạ.* |
+| **ズン** | 「これより、4月KPIレポートの<ruby>画面<rt>がめん</rt></ruby>を<ruby>共有<rt>きょうゆう</rt></ruby>させていただきます【1】。」 <br/>*Em xin được share màn hình báo cáo KPI tháng 4 ạ.* |
 | 【2】 |  |
-| **ズン** | 「ご<ruby>覧<rt>らん</rt></ruby>いただけますでしょうか【3】？」 |
-|  | *Anh/chị có thấy được không ạ?* |
-| **松本** | 「はい、見えています。」 |
-|  | *Có, tôi thấy rồi.* |
-| **ズン** | 「ありがとうございます。それでは、<ruby>達成率<rt>たっせいりつ</rt></ruby>82%の<ruby>内訳<rt>うちわけ</rt></ruby>から…」 |
-|  | *Em cảm ơn ạ. Em xin bắt đầu từ chi tiết tỷ lệ đạt 82%...* |
-| **ズン** | 「<ruby>画面共有<rt>がめんきょうゆう</rt></ruby>を<ruby>終了<rt>しゅうりょう</rt></ruby>いたします【4】。」 |
-|  | *Em xin dừng share màn hình ạ.* |
+| **ズン** | 「ご<ruby>覧<rt>らん</rt></ruby>いただけますでしょうか【3】？」 <br/>*Anh/chị có thấy được không ạ?* |
+| **松本** | 「はい、見えています。」 <br/>*Có, tôi thấy rồi.* |
+| **ズン** | 「ありがとうございます。それでは、<ruby>達成率<rt>たっせいりつ</rt></ruby>82%の<ruby>内訳<rt>うちわけ</rt></ruby>から…」 <br/>*Em cảm ơn ạ. Em xin bắt đầu từ chi tiết tỷ lệ đạt 82%...* |
+| **ズン** | 「<ruby>画面共有<rt>がめんきょうゆう</rt></ruby>を<ruby>終了<rt>しゅうりょう</rt></ruby>いたします【4】。」 <br/>*Em xin dừng share màn hình ạ.* |
 
-📝 **Ghi chú:**
+ **Ghi chú:**
 - 【1】**「これより、〜の画面を共有させていただきます」** — báo trước cụ thể: chia sẻ gì.
-- 【2】**Chờ 2-3 giây** — thời gian tải hình + người họp online cần chuyển sang chế độ xem.
+- 【2】**Chờ 2-3 giây** — thời gian tải hình + người họp trực tuyến cần chuyển sang chế độ xem.
 - 【3】**「ご覧いただけますでしょうか？」** — xác nhận. Không bỏ qua bước này.
 - 【4】**「画面共有を終了いたします」** — báo dừng chính thức để đối phương biết quay về danh sách xem.
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **予告 → 待つ → 「ご覧いただけますでしょうか？」 → 終了宣言. 4 bước.**
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - Chia sẻ đột ngột không báo.
 - Bỏ qua xác nhận 「見えますか？」.
 - Quên dừng chia sẻ → trang sau bị đè bởi màn hình cũ.
-- Chia sẻ nguyên màn hình lúc còn cửa sổ riêng tư → lộ dữ liệu.
+- Chia sẻ toàn bộ màn hình khi còn cửa sổ riêng tư → lộ dữ liệu.
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 画面共有 | がめんきょうゆう | Chia sẻ màn hình |
-| ご覧いただく | ごらんいただく | Phiền xem (sonkei) |
-| 内訳 | うちわけ | Chi tiết phân tách |
-| 達成率 | たっせいりつ | Tỷ lệ đạt |
-| 終了 | しゅうりょう | Kết thúc |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 画面共有 | がめんきょうゆう | HOẠ DIỆN CỘNG HỮU | Chia sẻ màn hình |
+| ご覧いただく | ごらんいただく | — | Phiền xem (sonkei) |
+| 内訳 | うちわけ | NỘI DỊCH | Chi tiết phân tách |
+| 達成率 | たっせいりつ | ĐẠT THÀNH SUẤT | Tỷ lệ đạt |
+| 終了 | しゅうりょう | CHUNG LIỄU | Kết thúc |

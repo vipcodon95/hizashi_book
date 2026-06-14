@@ -1,10 +1,10 @@
 # Rule 46 — Format biên bản chuẩn / 議事録のフォーマット
 
-> **Luận điểm.** Format biên bản chuẩn trong doanh nghiệp Nhật có 8 thành phần + 3 quy ước: (1) **件名 chuẩn** 「【議事録】〇〇会議」, (2) **責任者明記** mỗi đầu việc (TODO), (3) **quyết định tách rời việc cần làm**. Bản extended (rule này) khác bản cơ bản (rule 45) ở chỗ có **theo dõi điểm chưa quyết** + **xem trước nội dung họp lần sau**.
+> **Luận điểm.** Định dạng biên bản chuẩn trong doanh nghiệp Nhật có 8 thành phần + 3 quy ước: (1) **件名 chuẩn** 「【議事録】〇〇会議」, (2) **責任者明記** mỗi đầu việc (TODO), (3) **quyết định tách rời việc cần làm**. Bản mở rộng (rule này) khác bản cơ bản (rule 45) ở chỗ có **theo dõi điểm chưa quyết** + **xem trước nội dung họp lần sau**.
 >
 > 議事録の標準フォーマット8要素 + 3慣習：件名・責任者明記・決定/TODO分離。
 >
-> **Liên quan:** Rule 45 (gửi 24h), Rule 47 (follow-up), Rule 48 (vắng mặt).
+> **Liên quan:** Rule 45 (gửi 24h), Rule 47 (mail cảm ơn), Rule 48 (vắng mặt).
 
 ---
 
@@ -14,7 +14,7 @@ Em Dũng cần biên bản đàm phán Phase 2 — buổi quan trọng (đàm ph
 
 ---
 
-## ❌ Format XẤU — sơ sài, thiếu cấu trúc
+## Format XẤU — sơ sài, thiếu cấu trúc
 
 ```
 4/28 会議
@@ -28,27 +28,23 @@ TODO：仕様書を書く。
 
 | Vai | Câu |
 |-----|-----|
-| **ズン** | （議事録の中身）4/28 <ruby>会議<rt>かいぎ</rt></ruby>。<ruby>参加<rt>さんか</rt></ruby>：松本、大垣、ズン、トゥアン。<ruby>内容<rt>ないよう</rt></ruby>：Phase 2 のスコープを話した。A 案で行く。TODO：<ruby>仕様書<rt>しようしょ</rt></ruby>を書く。 |
-|  | *(Nội dung biên bản) Họp 28/4. Tham dự: Matsumoto, Ōgaki, Dũng, Tuấn. Nội dung: bàn phạm vi phase 2. Đi theo phương án A. TODO: viết bản đặc tả.* |
-| **フオン** | ズン、これじゃ後で<ruby>揉<rt>も</rt></ruby>めた時に<ruby>証拠<rt>しょうこ</rt></ruby>にならないよ。誰がいつまでに、<ruby>決定<rt>けってい</rt></ruby>とTODOの<ruby>分離<rt>ぶんり</rt></ruby>が必要。 |
-|  | *Dũng, biên bản này sau có tranh chấp thì không làm bằng chứng được đâu. Phải có ai/khi nào, quyết định tách rời TODO.* |
+| **ズン** | （議事録の中身）4/28 <ruby>会議<rt>かいぎ</rt></ruby>。<ruby>参加<rt>さんか</rt></ruby>：松本、大垣、ズン、トゥアン。<ruby>内容<rt>ないよう</rt></ruby>：Phase 2 のスコープを話した。A 案で行く。TODO：<ruby>仕様書<rt>しようしょ</rt></ruby>を書く。 <br/>*(Nội dung biên bản) Họp 28/4. Tham dự: Matsumoto, Ōgaki, Dũng, Tuấn. Nội dung: bàn phạm vi phase 2. Đi theo phương án A. TODO: viết bản đặc tả.* |
+| **フオン** | ズン、これじゃ後で<ruby>揉<rt>も</rt></ruby>めた時に<ruby>証拠<rt>しょうこ</rt></ruby>にならないよ。誰がいつまでに、<ruby>決定<rt>けってい</rt></ruby>とTODOの<ruby>分離<rt>ぶんり</rt></ruby>が必要。 <br/>*Dũng, biên bản này sau có tranh chấp thì không làm bằng chứng được đâu. Phải có ai/khi nào, quyết định tách rời TODO.* |
 
 **Vì sao xấu:** Không có thời gian cụ thể, không có mục đích, không tách 決定 / TODO, không có người phụ trách cho TODO, không có lịch họp tiếp theo → không thể dùng làm bằng chứng.
 
 ---
 
-## ✅ Format TỐT — extended, đầy đủ cấu trúc
+## Format TỐT — extended, đầy đủ cấu trúc
 
 **Hội thoại minh hoạ:**
 
 | Vai | Câu |
 |-----|-----|
-| **フオン** | ズン、これは<ruby>契約<rt>けいやく</rt></ruby><ruby>交渉<rt>こうしょう</rt></ruby>だから extended フォーマットね。8<ruby>要素<rt>ようそ</rt></ruby>で。 |
-|  | *Dũng, vụ này là đàm phán hợp đồng nên dùng định dạng extended nhé. Đủ 8 thành phần.* |
-| **ズン** | <ruby>承知<rt>しょうち</rt></ruby>しました。テンプレートに<ruby>沿<rt>そ</rt></ruby>って<ruby>作成<rt>さくせい</rt></ruby>いたします。 |
-|  | *Vâng em rõ ạ. Em sẽ làm theo mẫu (template) ạ.* |
+| **フオン** | ズン、これは<ruby>契約<rt>けいやく</rt></ruby><ruby>交渉<rt>こうしょう</rt></ruby>だから extended フォーマットね。8<ruby>要素<rt>ようそ</rt></ruby>で。 <br/>*Dũng, vụ này là đàm phán hợp đồng nên dùng định dạng mở rộng nhé. Đủ 8 thành phần.* |
+| **ズン** | <ruby>承知<rt>しょうち</rt></ruby>しました。テンプレートに<ruby>沿<rt>そ</rt></ruby>って<ruby>作成<rt>さくせい</rt></ruby>いたします。 <br/>*Vâng em rõ ạ. Em sẽ làm theo mẫu ạ.* |
 
-📐 **Xem template chi tiết đã điền dữ liệu mẫu** trong `conversation.json:templates[0]`. Format gồm 8 thành phần:
+ **Xem mẫu biên bản chi tiết đã điền dữ liệu mẫu** trong Phụ lục D. Định dạng gồm 8 thành phần:
 
 1. **件名** (tiêu đề) - Chuẩn: 「【議事録】〇〇会議」
 2. **会議概要** - 日時 / 場所 / 形式 / 出席 / 欠席
@@ -59,34 +55,34 @@ TODO：仕様書を書く。
 7. **アクションアイテム** - Theo công thức Ai / Làm gì / Khi nào
 8. **次回会議** - Ngày + xem trước nội dung
 
-📝 **3 quy ước riêng:**
+ **3 quy ước riêng:**
 - **責任者を必ず1人明記** mỗi TODO (không ghi chung chung là "cả nhóm").
 - **決定事項 và TODO TÁCH RỜI** — quyết định = "đã quyết", TODO = "việc cần làm tiếp".
 - **未決事項 (theo dõi điểm chưa quyết)** — liệt kê những điểm CHƯA quyết được, để theo dõi ở họp sau.
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
-> **8 thành phần + 3 quy ước. Quyết định ≠ việc cần làm (TODO). Mỗi TODO 1 người phụ trách duy nhất.**
+> **8 thành phần + 3 quy ước. Quyết định ≠ việc cần làm. Mỗi việc cần làm 1 người phụ trách duy nhất.**
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
-- Gộp quyết định và TODO → khó truy vết, đối chiếu sau này.
-- TODO không có người phụ trách cụ thể → trách nhiệm bị chia mơ hồ.
+- Gộp quyết định và việc cần làm → khó truy vết, đối chiếu sau này.
+- Việc cần làm không có người phụ trách cụ thể → trách nhiệm bị chia mơ hồ.
 - Quên 「未決事項」 → các điểm tồn đọng bị quên giữa các buổi họp.
 - Format khác nhau giữa các buổi họp → khó so sánh.
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 概要 | がいよう | Tổng quan |
-| 要旨 | ようし | Tóm ý |
-| 未決事項 | みけつじこう | Hạng mục chưa quyết |
-| 補足 | ほそく | Bổ sung |
-| 議論 | ぎろん | Thảo luận |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 概要 | がいよう | KHÁI YẾU | Tổng quan |
+| 要旨 | ようし | YẾU CHỈ | Tóm ý |
+| 未決事項 | みけつじこう | VỊ QUYẾT SỰ HẠNG | Hạng mục chưa quyết |
+| 補足 | ほそく | BỔ TÚC | Bổ sung |
+| 議論 | ぎろん | NGHỊ LUẬN | Thảo luận |

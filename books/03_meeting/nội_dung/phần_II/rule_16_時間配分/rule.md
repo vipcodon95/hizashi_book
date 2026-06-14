@@ -1,82 +1,74 @@
-# Rule 16 — Confirm timeline mỗi mục / 各議題の時間配分
+# Rule 16 — Xác nhận phân bổ thời gian mỗi mục / 各議題の時間配分
 
-> **Luận điểm.** Sau khi giới thiệu agenda (rule 13) + chốt mục tiêu (rule 15), người chủ trì confirm **timeline thực tế cho mỗi議題**: thời gian bắt đầu / kết thúc cụ thể (ví dụ "15:05-15:15"). Mỗi議題 có người chịu trách nhiệm về giờ giấc — nếu vượt giờ thì dừng lại + xin phép.
+> **Luận điểm.** Sau khi giới thiệu chương trình họp (rule 13) + chốt mục tiêu (rule 15), người chủ trì xác nhận **lịch giờ thực tế cho mỗi議題**: thời gian bắt đầu / kết thúc cụ thể (ví dụ "15:05-15:15"). Mỗi議題 có người chịu trách nhiệm về giờ giấc — nếu vượt giờ thì dừng lại + xin phép.
 >
 > 各議題の所要時間を時計で明示（『〇〇は15:05〜15:15』）。超過時は司会が一度止め、延長合意を取る。
 >
-> **Liên quan:** Rule 13 (giới thiệu agenda), Rule 14 (司会), Rule 29 (deadlock), Rule 42 (時間切れ).
+> **Liên quan:** Rule 13 (giới thiệu chương trình họp), Rule 14 (司会), Rule 29 (deadlock), Rule 42 (時間切れ).
 
 ---
 
 ## Bối cảnh / 場面
 
-Sau rule 15, Dũng confirm timeline bằng giờ đồng hồ cụ thể để khách kiểm soát kỳ vọng.
+Sau rule 15, Dũng xác nhận lịch giờ bằng giờ đồng hồ cụ thể để khách kiểm soát kỳ vọng.
 
 ---
 
-## ❌ Hội thoại XẤU — không có clock-time
+## Hội thoại XẤU — không gắn giờ đồng hồ cụ thể
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「では<ruby>議題<rt>ぎだい</rt></ruby>1から、<ruby>進捗<rt>しんちょく</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby> 10<ruby>分<rt>ぷん</rt></ruby>、<ruby>課題<rt>かだい</rt></ruby> 15分、スコープ 25分、<ruby>確認<rt>かくにん</rt></ruby> 10分です。」 |
-|  | *Vâng, mục 1 — báo cáo tiến độ 10 phút, vấn đề 15 phút, scope 25 phút, confirm 10 phút ạ.* |
-| **大垣** | 「<ruby>終了<rt>しゅうりょう</rt></ruby><ruby>予定<rt>よてい</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>？」 |
-|  | *Vậy mấy giờ kết thúc?* |
-| **ズン** | 「えーと、<ruby>足<rt>た</rt></ruby>し<ruby>算<rt>ざん</rt></ruby>すると…16<ruby>時<rt>じ</rt></ruby>です。」 |
-|  | *Ơ... cộng lại thì... 16h ạ.* |
-| **大垣** | 「<ruby>最初<rt>さいしょ</rt></ruby>から『15:00 <ruby>開始<rt>かいし</rt></ruby>、16:00 終了』と<ruby>言<rt>い</rt></ruby>ってもらえれば…」 |
-|  | *Ngay từ đầu nói '15h vào, 16h xong' luôn thì hơn...* |
+| **ズン** | 「では<ruby>議題<rt>ぎだい</rt></ruby>1から、<ruby>進捗<rt>しんちょく</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby> 10<ruby>分<rt>ぷん</rt></ruby>、<ruby>課題<rt>かだい</rt></ruby> 15分、スコープ 25分、<ruby>確認<rt>かくにん</rt></ruby> 10分です。」 <br/>*Vâng, mục 1 — báo cáo tiến độ 10 phút, vấn đề 15 phút, scope 25 phút, confirm 10 phút ạ.* |
+| **大垣** | 「<ruby>終了<rt>しゅうりょう</rt></ruby><ruby>予定<rt>よてい</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>？」 <br/>*Vậy mấy giờ kết thúc?* |
+| **ズン** | 「えーと、<ruby>足<rt>た</rt></ruby>し<ruby>算<rt>ざん</rt></ruby>すると…16<ruby>時<rt>じ</rt></ruby>です。」 <br/>*Ơ... cộng lại thì... 16h ạ.* |
+| **大垣** | 「<ruby>最初<rt>さいしょ</rt></ruby>から『15:00 <ruby>開始<rt>かいし</rt></ruby>、16:00 終了』と<ruby>言<rt>い</rt></ruby>ってもらえれば…」 <br/>*Ngay từ đầu nói '15h vào, 16h xong' luôn thì hơn...* |
 
-**Vì sao xấu:** Đưa "phút" mà không kèm giờ đồng hồ cụ thể → khách phải tự cộng. Khách Nhật cấp cao có lịch kín liền mạch, cần giờ giấc chính xác.
+**Vì sao xấu:** Chỉ nói "số phút" mà không kèm giờ đồng hồ cụ thể → khách phải tự cộng. Khách Nhật cấp cao có lịch kín liền mạch, cần giờ giấc chính xác.
 
 ---
 
-## ✅ Hội thoại TỐT — clock-time mỗi議題
+## Hội thoại TỐT — giờ đồng hồ cụ thể mỗi議題
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「<ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>時間配分<rt>じかんはいぶん</rt></ruby>をご<ruby>確認<rt>かくにん</rt></ruby>ください。15:00 <ruby>開始<rt>かいし</rt></ruby>、16:00 <ruby>終了<rt>しゅうりょう</rt></ruby><ruby>予定<rt>よてい</rt></ruby>でございます【1】。」 |
-|  | *Xin các anh confirm timeline hôm nay. 15h bắt đầu, 16h dự kiến kết thúc ạ.* |
-| **ズン** | 「<ruby>議題<rt>ぎだい</rt></ruby>1: <ruby>進捗<rt>しんちょく</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby> 15:00〜15:10。議題2: <ruby>課題<rt>かだい</rt></ruby><ruby>対応<rt>たいおう</rt></ruby> 15:10〜15:25。議題3: スコープ<ruby>協議<rt>きょうぎ</rt></ruby> 15:25〜15:50。議題4: <ruby>次回<rt>じかい</rt></ruby>確認 15:50〜16:00【2】。」 |
-|  | *Mục 1: báo cáo tiến độ 15:00-15:10. Mục 2: xử lý vấn đề 15:10-15:25. Mục 3: trao đổi scope 15:25-15:50. Mục 4: confirm tiếp 15:50-16:00 ạ.* |
-| **ズン** | 「もし<ruby>時間<rt>じかん</rt></ruby>が<ruby>押<rt>お</rt></ruby>した<ruby>場合<rt>ばあい</rt></ruby>は、議題3の<ruby>途中<rt>とちゅう</rt></ruby>で<ruby>一度<rt>いちど</rt></ruby><ruby>止<rt>と</rt></ruby>めて、<ruby>延長<rt>えんちょう</rt></ruby><ruby>可否<rt>かひ</rt></ruby>をご<ruby>相談<rt>そうだん</rt></ruby>させていただきます【3】。」 |
-|  | *Nếu thời gian bị trễ thì giữa mục 3 em sẽ dừng lại để xin các anh ý kiến về việc kéo dài ạ.* |
-| **大垣** | 「<ruby>了解<rt>りょうかい</rt></ruby>しました。その<ruby>方針<rt>ほうしん</rt></ruby>で<ruby>進<rt>すす</rt></ruby>めましょう。」 |
-|  | *Anh rõ rồi. Mình theo hướng đó nhé.* |
+| **ズン** | 「<ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>時間配分<rt>じかんはいぶん</rt></ruby>をご<ruby>確認<rt>かくにん</rt></ruby>ください。15:00 <ruby>開始<rt>かいし</rt></ruby>、16:00 <ruby>終了<rt>しゅうりょう</rt></ruby><ruby>予定<rt>よてい</rt></ruby>でございます【1】。」 <br/>*Xin các anh confirm timeline hôm nay. 15h bắt đầu, 16h dự kiến kết thúc ạ.* |
+| **ズン** | 「<ruby>議題<rt>ぎだい</rt></ruby>1: <ruby>進捗<rt>しんちょく</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby> 15:00〜15:10。議題2: <ruby>課題<rt>かだい</rt></ruby><ruby>対応<rt>たいおう</rt></ruby> 15:10〜15:25。議題3: スコープ<ruby>協議<rt>きょうぎ</rt></ruby> 15:25〜15:50。議題4: <ruby>次回<rt>じかい</rt></ruby>確認 15:50〜16:00【2】。」 <br/>*Mục 1: báo cáo tiến độ 15:00-15:10. Mục 2: xử lý vấn đề 15:10-15:25. Mục 3: trao đổi scope 15:25-15:50. Mục 4: confirm tiếp 15:50-16:00 ạ.* |
+| **ズン** | 「もし<ruby>時間<rt>じかん</rt></ruby>が<ruby>押<rt>お</rt></ruby>した<ruby>場合<rt>ばあい</rt></ruby>は、議題3の<ruby>途中<rt>とちゅう</rt></ruby>で<ruby>一度<rt>いちど</rt></ruby><ruby>止<rt>と</rt></ruby>めて、<ruby>延長<rt>えんちょう</rt></ruby><ruby>可否<rt>かひ</rt></ruby>をご<ruby>相談<rt>そうだん</rt></ruby>させていただきます【3】。」 <br/>*Nếu thời gian bị trễ thì giữa mục 3 em sẽ dừng lại để xin các anh ý kiến về việc kéo dài ạ.* |
+| **大垣** | 「<ruby>了解<rt>りょうかい</rt></ruby>しました。その<ruby>方針<rt>ほうしん</rt></ruby>で<ruby>進<rt>すす</rt></ruby>めましょう。」 <br/>*Anh rõ rồi. Mình theo hướng đó nhé.* |
 
-📝 **Ghi chú:**
-- 【1】**「15:00 開始、16:00 終了予定」** — báo giờ kết thúc là quan trọng nhất. Khách Nhật sắp lịch theo giờ kết thúc.
-- 【2】Công thức cố định: 「議題〇: タイトル 〇〇:〇〇〜〇〇:〇〇」. Cố định để khách nhìn agenda đối chiếu được.
+ **Ghi chú:**
+- 【1】**「15:00 開始、16:00 終了予定」** — thông báo giờ kết thúc là quan trọng nhất. Khách Nhật sắp lịch theo giờ kết thúc.
+- 【2】Công thức cố định: 「議題〇: タイトル 〇〇:〇〇〜〇〇:〇〇」. Cố định để khách nhìn chương trình họp đối chiếu được.
 - 【3】**「延長可否をご相談」** — báo trước sẽ xin phép nếu vượt giờ. Tránh trường hợp đến phút 60 vẫn nói "tiếp 10 phút nữa nhé" → không xin phép = thất lễ.
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「分単位ではなく時刻単位で confirm。延長は事前合意で。」**
 >
-> *Chốt bằng giờ đồng hồ (HH:MM), không phải số phút. Vượt giờ phải xin phép trước.*
+> *Ghi theo giờ đồng hồ (HH:MM), không phải số phút. Vượt giờ phải xin phép trước.*
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
-- "10分", "15分" mà không gắn với giờ đồng hồ cụ thể.
+- Chỉ nói "10 phút", "15 phút" mà không gắn giờ đồng hồ cụ thể.
 - Quên giờ kết thúc → khách không lên kế hoạch tiếp được.
 - Vượt giờ mà không xin phép → khách bực bội.
 - Mỗi議題 không có người phụ trách → ai chịu trách nhiệm về giờ giấc?
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 時間配分 | じかんはいぶん | Phân bổ thời gian |
-| 開始 | かいし | Bắt đầu |
-| 終了 | しゅうりょう | Kết thúc |
-| 延長 | えんちょう | Kéo dài |
-| 押す | おす | (時間が押す) Trễ giờ |
-| 可否 | かひ | Có / không |
-| 〜途中 | とちゅう | Giữa chừng |
-| 相談 | そうだん | Tham vấn / xin phép |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 時間配分 | じかんはいぶん | THỜI GIAN PHỐI PHẦN | Phân bổ thời gian |
+| 開始 | かいし | KHAI THỈ | Bắt đầu |
+| 終了 | しゅうりょう | CHUNG LIỄU | Kết thúc |
+| 延長 | えんちょう | DIÊN TRƯỞNG | Kéo dài |
+| 押す | おす | — | (時間が押す) Trễ giờ |
+| 可否 | かひ | KHẢ PHỦ | Có / không |
+| 〜途中 | とちゅう | ĐỒ TRUNG | Giữa chừng |
+| 相談 | そうだん | TƯƠNG ĐÀM | Tham vấn / xin phép |

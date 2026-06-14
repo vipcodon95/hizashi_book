@@ -1,68 +1,60 @@
 # Rule 04 — Thiết lập video call (Zoom/Teams) / オンライン会議のセットアップ
 
-> **Luận điểm.** Họp online thất bại thường ở 5 điểm: (1) link sai/hết hạn, (2) âm thanh không nghe, (3) share màn hình không thấy, (4) background lộ thông tin nội bộ, (5) ghi hình chưa xin phép. Mỗi mục kiểm tra trước họp 30 phút.
+> **Luận điểm.** Họp trực tuyến thất bại thường ở 5 điểm: (1) link sai/hết hạn, (2) âm thanh không nghe, (3) chia sẻ màn hình không thấy, (4) nền hình lộ thông tin nội bộ, (5) ghi hình chưa xin phép. Mỗi mục kiểm tra trước họp 30 phút.
 >
 > オンライン会議のチェック5項目：①リンク有効性 ②音声 ③画面共有 ④背景 ⑤録画許可。30分前にテスト必須。
 >
-> **Liên quan:** Rule 03 (thiết lập phòng họp offline), Rule 33 (bật/tắt mic giữa họp), Rule 35 (rớt mạng), Rule 36 (画面共有 — share màn hình).
+> **Liên quan:** Rule 03 (thiết lập phòng họp trực tiếp), Rule 33 (bật/tắt mic giữa họp), Rule 35 (rớt mạng), Rule 36 (画面共有 — chia sẻ màn hình).
 
 ---
 
 ## Bối cảnh / 場面
 
-Buổi họp với 白鷗 chuyển sang Zoom vì 大垣営業部長 đi công tác Osaka. Em Hải (DevOps) phụ Dũng thiết lập. Hải giỏi kỹ thuật nhưng chưa quen nhịp làm việc kiểu Nhật nên Dũng nhắc thêm.
+Buổi họp với 白鷗 chuyển sang Zoom vì 大垣営業部長 đi công tác Osaka. Em Hải (phụ trách hệ thống) phụ Dũng thiết lập. Hải giỏi kỹ thuật nhưng chưa quen nhịp làm việc kiểu Nhật nên Dũng nhắc thêm.
 
 ---
 
-## ❌ Hội thoại XẤU — không kiểm tra trước
+## Hội thoại XẤU — không kiểm tra trước
 
 *họp bắt đầu 1 phút trước · panic · チャットで · 慌てて新リンク発行 → 5分遅刻スタート*
 
 | Vai | Câu |
 |---------|-----|
-| **ハイ** | 「ズン、Zoomリンクこれでいいよね？<ruby>昨日<rt>きのう</rt></ruby>のリンクそのまま<ruby>使<rt>つか</rt></ruby>ったけど。」 |
-|  | *Dũng, link Zoom dùng cái này nhé? Anh dùng lại link hôm qua đấy.* |
-| **ズン** | 「<ruby>待<rt>ま</rt></ruby>って、そのリンク 24h で expire するやつじゃない？<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>もう<ruby>入<rt>はい</rt></ruby>れない<ruby>可能性<rt>かのうせい</rt></ruby>ある。」 |
-|  | *Khoan đã, link đó loại 24h hết hạn đúng không? Anh Matsumoto có khi không vào được rồi.* |
-| **松本** | 「ズンさん、リンクが invalid と<ruby>出<rt>で</rt></ruby>ます。<ruby>新<rt>あたら</rt></ruby>しいリンクをお<ruby>送<rt>おく</rt></ruby>りいただけますか？」 |
-|  | *Dũng, link báo invalid ạ. Em gửi giúp anh link mới nhé?* |
-| **ズン** | 「<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません、ただ<ruby>今<rt>いま</rt></ruby><ruby>新<rt>あたら</rt></ruby>しいリンクをお<ruby>送<rt>おく</rt></ruby>りします…」 |
-|  | *Em xin lỗi anh ạ, em gửi link mới ngay đây ạ.* |
+| **ハイ** | 「ズン、Zoomリンクこれでいいよね？<ruby>昨日<rt>きのう</rt></ruby>のリンクそのまま<ruby>使<rt>つか</rt></ruby>ったけど。」 <br/>*Dũng, link Zoom dùng cái này nhé? Anh dùng lại link hôm qua đấy.* |
+| **ズン** | 「<ruby>待<rt>ま</rt></ruby>って、そのリンク 24h で expire するやつじゃない？<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>もう<ruby>入<rt>はい</rt></ruby>れない<ruby>可能性<rt>かのうせい</rt></ruby>ある。」 <br/>*Khoan đã, link đó loại 24h hết hạn đúng không? Anh Matsumoto có khi không vào được rồi.* |
+| **松本** | 「ズンさん、リンクが invalid と<ruby>出<rt>で</rt></ruby>ます。<ruby>新<rt>あたら</rt></ruby>しいリンクをお<ruby>送<rt>おく</rt></ruby>りいただけますか？」 <br/>*Dũng, link báo invalid ạ. Em gửi giúp anh link mới nhé?* |
+| **ズン** | 「<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません、ただ<ruby>今<rt>いま</rt></ruby><ruby>新<rt>あたら</rt></ruby>しいリンクをお<ruby>送<rt>おく</rt></ruby>りします…」 <br/>*Em xin lỗi anh ạ, em gửi link mới ngay đây ạ.* |
 
-**Vì sao xấu:** Link Zoom có tùy chọn hết hạn / dùng một lần mà Hải không kiểm tra. Không kiểm tra trước = phát hiện lỗi đúng lúc khách đang chờ. Trễ 5 phút mở đầu = mất ấn tượng chuyên nghiệp.
+**Vì sao xấu:** Link Zoom có tùy chọn hết hạn / dùng một lần mà Hải không kiểm tra. Không kiểm tra trước = phát hiện lỗi đúng lúc khách đang chờ. Trễ 5 phút mở đầu = mất ấn tượng nghề nghiệp.
 
 ---
 
-## ✅ Hội thoại TỐT — kiểm tra 30 phút trước
+## Hội thoại TỐT — kiểm tra 30 phút trước
 
 *30分前、ズンと内部テスト*
 
 | Vai | Câu |
 |---------|-----|
-| **ハイ** | 「ズン、Zoom<ruby>新<rt>しん</rt></ruby>リンク<ruby>発行<rt>はっこう</rt></ruby><ruby>済<rt>ず</rt></ruby>み、<ruby>有効期限<rt>ゆうこうきげん</rt></ruby>は<ruby>明日<rt>あした</rt></ruby>まで。<ruby>音声<rt>おんせい</rt></ruby>と<ruby>画面共有<rt>がめんきょうゆう</rt></ruby>もテスト OK です【1】。」 |
-|  | *Dũng, anh phát link Zoom mới rồi, hạn đến ngày mai. Audio với share screen cũng test OK.* |
-| **ズン** | 「サンキュ。<ruby>背景<rt>はいけい</rt></ruby>は<ruby>会社<rt>かいしゃ</rt></ruby>ロゴの blur <ruby>設定<rt>せってい</rt></ruby>にして。<ruby>録画<rt>ろくが</rt></ruby>は<ruby>冒頭<rt>ぼうとう</rt></ruby>で<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>にご<ruby>確認<rt>かくにん</rt></ruby>しよう【2】。」 |
-|  | *Cảm ơn anh. Background đặt blur có logo công ty nhé. Recording thì đầu họp mình xin phép anh Matsumoto.* |
-| **ハイ** | 「<ruby>了解<rt>りょうかい</rt></ruby>。リンクを<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>に<ruby>再送<rt>さいそう</rt></ruby>し、Wi-Fi <ruby>不安定<rt>ふあんてい</rt></ruby><ruby>時<rt>じ</rt></ruby>の<ruby>電話番号<rt>でんわばんごう</rt></ruby>も<ruby>併記<rt>へいき</rt></ruby>しました。」 |
-|  | *OK em. Anh gửi lại link cho Matsumoto rồi, có ghi kèm số điện thoại phòng khi Wi-Fi yếu nữa.* |
-| **ズン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。15<ruby>分前<rt>ふんまえ</rt></ruby>に<ruby>再<rt>さい</rt></ruby>ログインして<ruby>待機<rt>たいき</rt></ruby>しよう。」 |
-|  | *Hoàn hảo. 15 phút trước họp mình re-login đứng chờ luôn nhé.* |
+| **ハイ** | 「ズン、Zoom<ruby>新<rt>しん</rt></ruby>リンク<ruby>発行<rt>はっこう</rt></ruby><ruby>済<rt>ず</rt></ruby>み、<ruby>有効期限<rt>ゆうこうきげん</rt></ruby>は<ruby>明日<rt>あした</rt></ruby>まで。<ruby>音声<rt>おんせい</rt></ruby>と<ruby>画面共有<rt>がめんきょうゆう</rt></ruby>もテスト OK です【1】。」 <br/>*Dũng, anh phát link Zoom mới rồi, hạn đến ngày mai. Âm thanh với chia sẻ màn hình cũng kiểm tra OK.* |
+| **ズン** | 「サンキュ。<ruby>背景<rt>はいけい</rt></ruby>は<ruby>会社<rt>かいしゃ</rt></ruby>ロゴの blur <ruby>設定<rt>せってい</rt></ruby>にして。<ruby>録画<rt>ろくが</rt></ruby>は<ruby>冒頭<rt>ぼうとう</rt></ruby>で<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>にご<ruby>確認<rt>かくにん</rt></ruby>しよう【2】。」 <br/>*Cảm ơn anh. Nền hình đặt làm mờ có logo công ty nhé. Ghi hình thì đầu họp mình xin phép anh Matsumoto.* |
+| **ハイ** | 「<ruby>了解<rt>りょうかい</rt></ruby>。リンクを<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>に<ruby>再送<rt>さいそう</rt></ruby>し、Wi-Fi <ruby>不安定<rt>ふあんてい</rt></ruby><ruby>時<rt>じ</rt></ruby>の<ruby>電話番号<rt>でんわばんごう</rt></ruby>も<ruby>併記<rt>へいき</rt></ruby>しました。」 <br/>*OK em. Anh gửi lại link cho Matsumoto rồi, có ghi kèm số điện thoại phòng khi Wi-Fi yếu nữa.* |
+| **ズン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。15<ruby>分前<rt>ふんまえ</rt></ruby>に<ruby>再<rt>さい</rt></ruby>ログインして<ruby>待機<rt>たいき</rt></ruby>しよう。」 <br/>*Hoàn hảo. 15 phút trước họp mình re-login đứng chờ luôn nhé.* |
 
-📝 **Ghi chú:**
+ **Ghi chú:**
 - 【1】**「テストOK」** — báo cáo kỹ thuật ngắn gọn, người Nhật bản xứ hay dùng. Không cần 「テストが完了しました」 dài dòng giữa nhóm nội bộ.
-- 【2】**「録画は冒頭でご確認しよう」** — *Bắt buộc* xin phép ghi hình đầu họp với khách Nhật. Chưa xin = vi phạm 個人情報保護 (bảo vệ thông tin cá nhân).
+- 【2】**「録画は冒頭でご確認しよう」** — *Bắt buộc* xin phép ghi hình đầu họp với khách Nhật. Chưa xin = vi phạm 個人情報保護 (bảo vệ thông tin cá nhân). Nền hình không nên lộ bảng nội bộ.
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「リンク・音声・画面・背景・録画 — 5点を30分前にテスト。」**
 >
-> *Link, âm thanh, share màn hình, background, ghi hình — kiểm tra đủ 5 điểm trước họp 30 phút.*
+> *Link, âm thanh, chia sẻ màn hình, nền hình, ghi hình — kiểm tra đủ 5 điểm trước họp 30 phút.*
 
 ---
 
-## 📐 Checklist Online Meeting Setup (xem `conversation.json:templates[0]`)
+## Danh sách Kiểm tra Thiết lập Họp Trực tuyến
 
 ```
 ■ オンライン会議セットアップ・チェックリスト（30分前完了）
@@ -81,24 +73,24 @@ Buổi họp với 白鷗 chuyển sang Zoom vì 大垣営業部長 đi công t�
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - Dùng lại link cũ → hết hạn / lọt bộ lọc spam / sai phòng họp.
-- Background lộ bảng trắng nội bộ / đường dẫn file → rò rỉ thông tin khách hàng khác.
+- Nền hình lộ bảng trắng nội bộ / đường dẫn file → rò rỉ thông tin khách hàng khác.
 - Ghi hình không xin phép → khách Nhật sẽ tỏ thái độ ngay lập tức.
 - Mic mặc định để bật → tạp âm lúc khách đang nói.
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| オンライン会議 | online kaigi | Họp online |
-| リンク | link | Link (URL) |
-| 画面共有 | がめんきょうゆう | Share màn hình |
-| 録画 | ろくが | Ghi hình / record |
-| 音声 | おんせい | Âm thanh |
-| 背景 | はいけい | Background |
-| 待機室 | たいきしつ | Waiting room |
-| 有効期限 | ゆうこうきげん | Hạn dùng |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| オンライン会議 | おんらいんかいぎ | HỘI NGHỊ | Họp trực tuyến |
+| リンク | りんく | — | Đường link (URL) |
+| 画面共有 | がめんきょうゆう | HỌA DIỆN CỘNG HỮU | Chia sẻ màn hình |
+| 録画 | ろくが | LỤC HỌA | Ghi hình |
+| 音声 | おんせい | ÂM THANH | Âm thanh |
+| 背景 | はいけい | BỐI CẢNH | Nền hình |
+| 待機室 | たいきしつ | ĐÃI CƠ THẤT | Phòng chờ vào họp |
+| 有効期限 | ゆうこうきげん | HỮU HIỆU KỲ HẠN | Hạn dùng |

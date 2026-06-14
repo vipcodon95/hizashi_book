@@ -1,6 +1,6 @@
-# Rule 11 — Hook 3 patterns / フックの3パターン (story / data / question)
+# Rule 11 — 3 kiểu mở đầu thu hút / フックの3パターン (câu chuyện / số liệu / câu hỏi)
 
-> **Luận điểm.** 3 công thức hook chính: **(A) Story** (câu chuyện ngắn, 30s), **(B) Data** (số gây sốc), **(C) Question** (câu hỏi tu từ). Chọn 1 theo đối tượng + chủ đề. Khách Nhật bảo thủ thường phản ứng tốt nhất với **(B) Data** (an toàn) > (C) Question > (A) Story (rủi ro hơi kiểu Mỹ nếu không khéo).
+> **Luận điểm.** 3 công thức mở đầu thu hút chính: **(A) Câu chuyện** (ngắn, 30 giây), **(B) Số liệu** (con số gây sốc), **(C) Câu hỏi** (tu từ). Chọn 1 theo đối tượng + chủ đề. Khách Nhật bảo thủ thường phản ứng tốt nhất với **(B) Số liệu** (an toàn) > (C) Câu hỏi > (A) Câu chuyện (rủi ro nếu không khéo léo).
 >
 > 3パターン: ストーリー/データ/質問。聴衆×テーマで選ぶ。日本顧客にはデータ型が一番安全、次に質問型、ストーリー型は技量次第。
 >
@@ -10,80 +10,72 @@
 
 ## Bối cảnh / 場面
 
-Tuần trước pitch, Linh (intern) sắp pitch lần đầu cho 1 SME khách nhỏ. Hỏi Dũng "anh dùng pattern nào?" Dũng giải thích 3 pattern + cách chọn.
+Tuần trước buổi trình bày, Linh (thực tập sinh) sắp trình bày lần đầu cho 1 khách hàng nhỏ. Hỏi Dũng "anh dùng kiểu nào?" Dũng giải thích 3 kiểu + cách chọn.
 
 ---
 
-## ❌ Hội thoại XẤU — pick wrong pattern
+## Trường hợp xấu — chọn sai kiểu mở đầu
 
 | Vai | Câu |
 |---------|-----|
-| **リン** | 「ズン先輩、明日のプレゼン、ストーリー型でいきます。学生時代に手作業で<ruby>在庫<rt>ざいこ</rt></ruby>管理した話で…」 |
-|  | *Anh Dũng, mai pitch em đi pattern story. Kể chuyện thời sinh viên em quản lý kho thủ công ấy ạ...* |
-| **ズン** | 「相手 50代の<ruby>中小企業<rt>ちゅうしょうきぎょう</rt></ruby>オーナー？大丈夫？ストーリー型は**<ruby>滑<rt>すべ</rt></ruby>ったら30秒で終わる**。データはある？」 |
-|  | *Khách là chủ SME ngoài 50 tuổi đúng không? OK không đó? Story pattern mà trượt là chết trong 30 giây luôn. Em có data không?* |
-| **リン** | 「『手作業で1日3時間』みたいなデータは…」 |
-|  | *Em có dạng 「thủ công 3 tiếng/ngày」 thì có ạ...* |
-| **ズン** | 「それ data 型でいけるじゃん。**『1日3時間の手作業を15分に<ruby>圧縮<rt>あっしゅく</rt></ruby>』**って数字で入る方が安全。」 |
-|  | *Vậy đi data luôn được mà. Vào thẳng bằng số 「nén 3 tiếng thủ công xuống 15 phút」 — an toàn hơn.* |
+| **リン** | 「ズン先輩、明日のプレゼン、ストーリー型でいきます。学生時代に手作業で<ruby>在庫<rt>ざいこ</rt></ruby>管理した話で…」 <br/>*Anh Dũng, mai trình bày em đi kiểu câu chuyện. Kể chuyện thời sinh viên em quản lý kho thủ công ấy ạ...* |
+| **ズン** | 「相手 50代の<ruby>中小企業<rt>ちゅうしょうきぎょう</rt></ruby>オーナー？大丈夫？ストーリー型は**<ruby>滑<rt>すべ</rt></ruby>ったら30秒で終わる**。データはある？」 <br/>*Khách là chủ doanh nghiệp vừa và nhỏ ngoài 50 tuổi đúng không? Ổn không đó? Kiểu câu chuyện mà trượt là chết trong 30 giây luôn. Em có số liệu không?* |
+| **リン** | 「『手作業で1日3時間』みたいなデータは…」 <br/>*Em có dạng 「thủ công 3 tiếng/ngày」 thì có ạ...* |
+| **ズン** | 「それ data 型でいけるじゃん。**『1日3時間の手作業を15分に<ruby>圧縮<rt>あっしゅく</rt></ruby>』**って数字で入る方が安全。」 <br/>*Vậy đi kiểu số liệu luôn được mà. Vào thẳng bằng số 「nén 3 tiếng thủ công xuống 15 phút」 — an toàn hơn.* |
 
-**Vì sao xấu:** Linh chọn pattern story cho đối tượng chưa quen, chưa có sự gắn kết (rapport) → rủi ro cao. Story cần kỹ năng trình bày cao + đối tượng cởi mở.
+**Vì sao xấu:** Linh chọn kiểu câu chuyện cho đối tượng chưa quen, chưa có sự gắn kết → rủi ro cao. Kiểu câu chuyện cần kỹ năng trình bày cao + đối tượng cởi mở.
 
 ---
 
-## ✅ Hội thoại TỐT — match pattern to audience
+## Trường hợp tốt — chọn kiểu phù hợp với người nghe
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「3パターンの選び方を教えるね【1】。**(A) ストーリー型**: rapport ある相手 + 自分の delivery 自信ある時。**(B) データ型**: <ruby>初対面<rt>しょたいめん</rt></ruby> + <ruby>保守的<rt>ほしゅてき</rt></ruby>相手。**(C) 質問型**: 相手が<ruby>議論<rt>ぎろん</rt></ruby>モードに入ってる時。」 |
-|  | *Để anh chỉ cách chọn 3 pattern nhé. (A) Story: khi đã có rapport + tự tin delivery. (B) Data: lần đầu gặp + khách bảo thủ. (C) Question: khi khách đã ở mode thảo luận.* |
-| **リン** | 「私の場合は B ですね。50代オーナー、初対面、保守的。」 |
-|  | *Trường hợp em là B đúng không ạ. Chủ ngoài 50 tuổi, lần đầu gặp, bảo thủ.* |
-| **ズン** | 「正解。Bは『**<ruby>驚<rt>おどろ</rt></ruby>き数字 → だからこの話**』の流れ。**『手作業で1日3時間使っているこの作業、15分に<ruby>圧縮<rt>あっしゅく</rt></ruby>できます』** で30秒成立【2】。」 |
-|  | *Đúng rồi. B đi theo nhịp 「số gây sốc → vì vậy chuyện này」. Câu 「Cái việc thủ công ngốn 3 tiếng/ngày này, có thể nén xuống 15 phút」 là đủ 30 giây.* |
-| **リン** | 「シンプルですね…練習します。」 |
-|  | *Đơn giản thế ạ... em sẽ luyện ạ.* |
+| **ズン** | 「3パターンの選び方を教えるね【1】。**(A) ストーリー型**: rapport ある相手 + 自分の delivery 自信ある時。**(B) データ型**: <ruby>初対面<rt>しょたいめん</rt></ruby> + <ruby>保守的<rt>ほしゅてき</rt></ruby>相手。**(C) 質問型**: 相手が<ruby>議論<rt>ぎろん</rt></ruby>モードに入ってる時。」 <br/>*Để anh chỉ cách chọn 3 kiểu nhé. (A) Câu chuyện: khi đã có sự gắn kết + tự tin cách trình bày. (B) Số liệu: lần đầu gặp + khách bảo thủ. (C) Câu hỏi: khi khách đã ở chế độ thảo luận.* |
+| **リン** | 「私の場合は B ですね。50代オーナー、初対面、保守的。」 <br/>*Trường hợp em là B đúng không ạ. Chủ ngoài 50 tuổi, lần đầu gặp, bảo thủ.* |
+| **ズン** | 「正解。Bは『**<ruby>驚<rt>おどろ</rt></ruby>き数字 → だからこの話**』の流れ。**『手作業で1日3時間使っているこの作業、15分に<ruby>圧縮<rt>あっしゅく</rt></ruby>できます』** で30秒成立【2】。」 <br/>*Đúng rồi. Kiểu B đi theo nhịp 「số gây sốc → vì vậy chuyện này」. Câu 「Cái việc thủ công ngốn 3 tiếng/ngày này, có thể nén xuống 15 phút」 là đủ 30 giây.* |
+| **リン** | 「シンプルですね…練習します。」 <br/>*Đơn giản thế ạ... em sẽ luyện ạ.* |
 
-📝 **Ghi chú:**
-- 【1】**3パターン選択基準** — Story = kỹ năng cao + có sự gắn kết. Data = lựa chọn mặc định an toàn. Question = đối tượng đã sẵn sàng tham gia thảo luận.
-- 【2】**「驚き数字 → だからこの話」** — Công thức data hook. Con số + nỗi đau tạo cảm giác 「của chính mình」 cho đối tượng.
+ **Ghi chú:**
+- 【1】**3 tiêu chí chọn kiểu** — Câu chuyện = kỹ năng cao + có sự gắn kết. Số liệu = lựa chọn mặc định an toàn. Câu hỏi = đối tượng đã sẵn sàng tham gia thảo luận.
+- 【2】**「驚き数字 → だからこの話」** — Công thức mở đầu thu hút bằng số liệu. Con số + nỗi đau tạo cảm giác 「của chính mình」 cho đối tượng.
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「保守的相手・初対面 → データ型。Rapport あり → ストーリー型。議論モード → 質問型。」**
 >
-> *Khách bảo thủ / lần đầu = data. Có gắn kết (rapport) = story. Đang muốn thảo luận = question.*
+> *Khách bảo thủ / lần đầu = số liệu. Có sự gắn kết = câu chuyện. Đang muốn thảo luận = câu hỏi.*
 
 ---
 
-## 📐 3パターン Cheat Sheet
+## Bảng đối chiếu 3 kiểu mở đầu
 
-| Pattern | Khi dùng | 例 |
+| Kiểu | Khi dùng | Ví dụ |
 |---------|----------|-----|
-| **Story** | Có gắn kết, đối tượng cởi mở | 「3年前、中野倉庫で深夜2時に在庫が合わず…」 |
-| **Data** | Bảo thủ, lần đầu, B2B Nhật | 「在庫差異5%は、年間1.2億円のロスに相当します」 |
-| **Question** | Đối tượng đang muốn thảo luận | 「もし在庫差異がゼロになったら、御社の物流コストは何%下がるでしょうか？」 |
+| **Câu chuyện** | Có gắn kết, đối tượng cởi mở | 「3年前、中野倉庫で深夜2時に在庫が合わず…」 |
+| **Số liệu** | Bảo thủ, lần đầu, B2B Nhật | 「在庫差異5%は、年間1.2億円のロスに相当します」 |
+| **Câu hỏi** | Đối tượng đang muốn thảo luận | 「もし在庫差異がゼロになったら、御社の物流コストは何%下がるでしょうか？」 |
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
-- Pattern story + đối tượng lạ + bạn căng thẳng → 90% thất bại
-- Pattern data + số không gây sốc → nhạt nhẽo
-- Pattern question + câu hỏi yếu (Yes/No, hiển nhiên) → đối tượng không tham gia
-- Trộn nhiều pattern trong 30 giây → loãng
+- Kiểu câu chuyện + đối tượng lạ + bản thân căng thẳng → 90% thất bại
+- Kiểu số liệu + số không gây sốc → nhạt nhẽo
+- Kiểu câu hỏi + câu hỏi yếu (Yes/No, hiển nhiên) → đối tượng không tham gia
+- Trộn nhiều kiểu trong 30 giây → loãng
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 滑る | すべる | Trượt (joke fail / không hấp dẫn) |
-| 圧縮 | あっしゅく | Nén / cô đọng |
-| 中小企業 | ちゅうしょうきぎょう | SME / doanh nghiệp vừa và nhỏ |
-| 議論モード | ぎろんモード | Chế độ thảo luận |
-| 驚き | おどろき | Sự ngạc nhiên |
-| 修辞疑問 | しゅうじぎもん | Câu hỏi tu từ (rhetorical) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 滑る | すべる | HOẠT | Trượt (không hấp dẫn, không ăn) |
+| 圧縮 | あっしゅく | ÁP SÚC | Nén / cô đọng |
+| 中小企業 | ちゅうしょうきぎょう | TRUNG TIỂU KI NGHIỆP | Doanh nghiệp vừa và nhỏ |
+| 議論モード | ぎろんモード | NGHỊ LUẬN | Chế độ thảo luận |
+| 驚き | おどろき | KINH | Sự ngạc nhiên |
+| 修辞疑問 | しゅうじぎもん | TU TỪ NGHI VẤN | Câu hỏi tu từ |

@@ -1,13 +1,13 @@
 # Phụ lục D — Template Tổng Hợp / テンプレート集
 
-*Tổng hợp các template (agenda, biên bản, mail) đính kèm trong các rules. Copy-paste để dùng.*
+*Tổng hợp các mẫu (chương trình, biên bản, mail) đính kèm trong các rules. Copy-paste để dùng.*
 
 ---
 
 
 ## Email follow-up (1 mẫu)
 
-### Rule 28 — Mail follow-up sau pitch (bản chi tiết)
+### Rule 28 — Mail theo dõi sau buổi thuyết trình (bản chi tiết)
 
 *JP: ピッチ後 follow-up メール (詳細版)*
 
@@ -101,8 +101,8 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
 --------------------
 ```
 
-📝 **Ghi chú VN:** Thời điểm gửi: Trong ngày pitch — ack ngắn (link slide + deadline 持ち帰り) → sáng ngày làm việc kế tiếp gửi template này. Bản chi tiết thứ Hai nhớ CC CTO + tech lead + phó phòng.
-📝 **Ghi chú JP:** 送付タイミング: ピッチ当日中に short ack (slide link + 持ち帰り deadline) → 翌営業日朝に本テンプレ送付。月曜詳細版には CTO+技術リード+副部長を CC。
+ **Ghi chú VN:** Thời điểm gửi: Trong ngày thuyết trình — xác nhận ngắn (link slide + hạn chót 持ち帰り) → sáng ngày làm việc kế tiếp gửi mẫu này. Bản chi tiết thứ Hai nhớ CC CTO + trưởng nhóm kỹ thuật + phó phòng.
+ **Ghi chú JP:** 送付タイミング: ピッチ当日中に short ack (slide link + 持ち帰り deadline) → 翌営業日朝に本テンプレ送付。月曜詳細版には CTO+技術リード+副部長を CC。
 
 
 ## Checklist (4 mẫu)
@@ -155,44 +155,44 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
 ```
 [Checklist Chuẩn Bị Thuyết Trình]
 
-① CHO AI? (Audience)
+① CHO AI? (Khán giả)
    - Đối tượng chính: ____ (chức vụ / cty / quan hệ)
    - Đối tượng phụ: ____
-   - Decision maker vắng mặt: ____
+   - Người quyết định vắng mặt: ____
 
-② QUYẾT GÌ? (Decision target)
-   - Goal đồng thuận hôm nay: ____ (1 câu)
+② QUYẾT GÌ? (Mục tiêu quyết định)
+   - Mục tiêu đồng thuận hôm nay: ____ (1 câu)
    - Mức có thể nhượng: ____
    - Mức KHÔNG THỂ nhượng: ____
 
-③ THỜI GIAN (Time)
+③ THỜI GIAN
    - Thời lượng: ____ phút
    - Trong đó Q&A: ____ phút
    - Mỗi slide: ____ giây (ước)
 
-④ ĐỊA ĐIỂM (Setting)
-   - Trực tiếp / online / hybrid
+④ ĐỊA ĐIỂM
+   - Trực tiếp / trực tuyến / kết hợp
    - Thiết bị: PC / projector / mic
-   - Test connection: ____ (thời gian)
+   - Test kết nối: ____ (thời gian)
 
-⑤ OUTPUT MONG ĐỢI (Output)
-   - Output chính: ____ (vd: thống nhất scope / quyết hướng đi)
-   - Output phụ: ____ (vd: chốt ngày họp tiếp)
+⑤ KẾT QUẢ MONG ĐỢI
+   - Kết quả chính: ____ (vd: thống nhất phạm vi / quyết hướng đi)
+   - Kết quả phụ: ____ (vd: chốt ngày họp tiếp)
    - Mức NG: ____ (dưới mức này = thất bại)
 
-⑥ RỦI RO (Risk)
+⑥ RỦI RO
    - Rủi ro 1: ____ → đối sách: ____
    - Rủi ro 2: ____ → đối sách: ____
    - Rủi ro 3: ____ → đối sách: ____
 
-⑦ BACKUP (Plan B)
-   - Slide: PDF backup USB + cloud
+⑦ DỰ PHÒNG (Plan B)
+   - Slide: PDF dự phòng USB + cloud
    - Demo: phiên bản offline
-   - Internet: tethering 4G/5G
+   - Internet: chia sẻ mạng 4G/5G
 ```
 
-📝 **Ghi chú VN:** Bắt buộc fill trước khi mở PowerPoint. Senior review → mới bắt đầu design. Đầu tư 5-10 phút để tránh redo nửa ngày.
-📝 **Ghi chú JP:** PowerPoint を開く前に必ず埋める。Senior レビュー後 → 設計開始。5-10分の投資で半日のやり直しを防ぐ。
+ **Ghi chú VN:** Bắt buộc điền trước khi mở PowerPoint. Cấp trên duyệt rồi mới bắt đầu thiết kế. Bỏ ra 5-10 phút để tránh làm lại nửa ngày.
+ **Ghi chú JP:** PowerPoint を開く前に必ず埋める。Senior レビュー後 → 設計開始。5-10分の投資で半日のやり直しを防ぐ。
 
 ### Rule 04 — Checklist Visual Hierarchy
 
@@ -257,13 +257,13 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
 
 [Test thực tế]
 - Test projector: đọc được từ hàng cuối
-- Test screen share: kiểm tra trên màn của participant online
+- Test chia sẻ màn hình: kiểm tra trên màn của người tham dự trực tuyến
 ```
 
-📝 **Ghi chú VN:** Bắt buộc test thực tế trước rehearsal. Đọc không được ở hàng cuối / screen share = FAIL.
-📝 **Ghi chú JP:** リハーサル前に必ず実機テスト。後列・画面共有先で読めなければ FAIL。
+ **Ghi chú VN:** Bắt buộc kiểm tra thực tế trước khi tập dượt. Đọc không được ở hàng cuối / chia sẻ màn hình = FAIL.
+ **Ghi chú JP:** リハーサル前に必ず実機テスト。後列・画面共有先で読めなければ FAIL。
 
-### Rule 07 — Checklist Plan B trước Pitch
+### Rule 07 — Danh sách kiểm tra Phương án B trước buổi thuyết trình
 
 *JP: プレゼン Plan B チェックリスト*
 
@@ -293,7 +293,7 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
 □ 充電器 + 延長コード
 □ レーザーポインター (電池予備)
 
-■ 配布物 (Handout)
+■ 配布物 (Tài liệu phát)
 □ 名刺 20枚以上
 □ 印刷スライド主要部 5部
 □ 会社案内 / 過去事例集 5部
@@ -344,7 +344,7 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
 
 [Redundancy team]
 - Co-presenter cũng giữ 1 USB
-- Send deck PDF qua Slack cho nhau
+- Gửi PDF bộ slide qua Slack cho nhau
 - Note liên hệ phòng hờ (khách sạn / hãng taxi)
 
 [Sáng ngày pitch — final]
@@ -353,10 +353,10 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
 - Re-check appendix slide cho Q&A
 ```
 
-📝 **Ghi chú VN:** Check 2 lần: 24h trước + sáng ngày. Tất cả 5 điểm ✅ thì mới lên đường. Còn sót 1 điểm thì mang theo xử lý sau.
-📝 **Ghi chú JP:** 24h前に1回、当日朝に1回。5点全部 ✅ で出発。1点でも未済なら持参してから現地で対応。
+ **Ghi chú VN:** Kiểm tra 2 lần: 24h trước + sáng ngày. Tất cả 5 điểm  thì mới lên đường. Còn sót 1 điểm thì mang theo xử lý sau.
+ **Ghi chú JP:** 24h前に1回、当日朝に1回。5点全部  で出発。1点でも未済なら持参してから現地で対応。
 
-### Rule 34 — Bảng Tiêu Chí Tự Đánh Giá Pitch (12 mục / 30 phút)
+### Rule 34 — Bảng Tiêu Chí Tự Đánh Giá Thuyết Trình (12 mục / 30 phút)
 
 *JP: プレゼン Self-review Rubric (12項目 / 30分)*
 
@@ -405,54 +405,54 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
 **Bản Việt placeholder:**
 
 ```
-[Checklist Tự Đánh Giá Pitch] (12 mục / 30 phút)
+[Checklist Tự Đánh Giá Thuyết Trình] (12 mục / 30 phút)
 
 Thang điểm: 1=cần cải thiện / 2=chưa đủ / 3=trung bình / 4=tốt / 5=xuất sắc
 
-[Chuẩn bị — Preparation] — 3 mục
+[Chuẩn bị] — 3 mục
 - 1. Đã điền checklist 7 câu chưa (rule 01)                _/5
 - 2. Có giữ 1-slide-1-message không (rule 02)              _/5
 - 3. Có Plan B (PDF/tài liệu phát tay/hotspot) chưa (rule 07) _/5
 
-[Delivery] — 4 item
-- 4. Hook 30 giây có lấy được attention không (rule 08)  _/5
-- 5. Có giữ time-keeping promise không (rule 13)         _/5
-- 6. Có dùng logical marker không (rule 14)              _/5
-- 7. Eye contact đều không (rule 30 - 50/50)             _/5
+[Trình bày] — 4 mục
+- 4. Mở đầu 30 giây có lấy được sự chú ý không (rule 08)  _/5
+- 5. Có giữ đúng hẹn thời gian không (rule 13)            _/5
+- 6. Có dùng từ đánh dấu logic không (rule 14)            _/5
+- 7. Giao tiếp bằng mắt đều không (rule 30 - 50/50)       _/5
 
-[Q&A] — 3 item
+[Q&A] — 3 mục
 - 8. Áp dụng LASR (rule 23)                              _/5
 - 9. 持ち帰り phù hợp (rule 24)                          _/5
-- 10. Bridge phrase với câu hostile (rule 25)            _/5
+- 10. Câu dẫn hướng với câu hỏi đối nghịch (rule 25)     _/5
 
-[Closing + Followup] — 2 item
+[Kết thúc + Theo dõi] — 2 mục
 - 11. Recap 3 + CTA 3 (rule 26)                          _/5
-- 12. Mail acknowledgment trong 24h (rule 28)            _/5
+- 12. Mail xác nhận trong 24h (rule 28)                  _/5
 
 ----------------------------
 Tổng: __/60     Trung bình: __/5
 
-[3 Strengths] — chọn từ item 4-5 điểm
+[3 Điểm mạnh] — chọn từ mục 4-5 điểm
 1. ____
 2. ____
 3. ____
 
-[3 Improvements] — chọn từ item 1-3 điểm
-1. ____ → drill: trước ____ làm ____
-2. ____ → drill: trước ____ làm ____
-3. ____ → drill: trước ____ làm ____
+[3 Điểm cần cải thiện] — chọn từ mục 1-3 điểm
+1. ____ → luyện tập: trước ____ làm ____
+2. ____ → luyện tập: trước ____ làm ____
+3. ____ → luyện tập: trước ____ làm ____
 
-[Commit cho pitch tiếp theo]
+[Cam kết cho bài thuyết trình tiếp theo]
 - ____
 ```
 
-📝 **Ghi chú VN:** Làm trong 24h sau pitch. Cố định 30 phút. Điểm cần cải thiện bắt buộc kèm deadline + drill. Phase 4, 5 dùng cùng bảng tiêu chí để theo dõi đường cong cải thiện.
-📝 **Ghi chú JP:** Pitch 終了 24h 以内に実施。30分 fixed budget。Improvements には必ず deadline + drill。Phase 4, 5 でも同 rubric を使い改善曲線を tracking。
+ **Ghi chú VN:** Làm trong 24h sau thuyết trình. Cố định 30 phút. Điểm cần cải thiện bắt buộc kèm hạn chót + luyện tập. Phase 4, 5 dùng cùng bảng tiêu chí để theo dõi đường cong cải thiện.
+ **Ghi chú JP:** Pitch 終了 24h 以内に実施。30分 fixed budget。Improvements には必ず deadline + drill。Phase 4, 5 でも同 rubric を使い改善曲線を tracking。
 
 
 ## Báo cáo (1 mẫu)
 
-### Rule 21 — Template Roadmap Dự án
+### Rule 21 — Mẫu Lộ trình Dự án
 
 *JP: プロジェクト ロードマップ テンプレート*
 
@@ -511,7 +511,7 @@ Tổng: __/60     Trung bình: __/5
 | 5 | ◆ | 15/12 | Release production | Release note | 〇〇 / 〇〇 |
 
 [Buffer]
-- Sau review thiết kế 1 tuần (〇/〇-〇/〇) — hấp thụ trễ schedule
+- Sau duyệt thiết kế 1 tuần (〇/〇-〇/〇) — hấp thụ trễ tiến độ
 - Trong UAT có 1 tuần dự phòng (〇/〇-〇/〇)
 
 [Điều kiện tiên quyết — Critical assumptions]
@@ -524,8 +524,8 @@ Tổng: __/60     Trung bình: __/5
 - Migrate fail: chạy song song env cũ 3 tháng
 ```
 
-📝 **Ghi chú VN:** Gantt vẽ đậm để projector đọc được. Milestone 5±2 cái. Buffer 5-10% lịch thực. Điều kiện tiên quyết phải reflect vào hợp đồng.
-📝 **Ghi chú JP:** Gantt は projector でも判読できるよう太め。Milestone 5±2 個。Buffer は実工期の 5-10%。前提条件は契約書にも反映。
+ **Ghi chú VN:** Gantt vẽ đậm để projector đọc được. Mốc 5±2 cái. Vùng đệm 5-10% lịch thực. Điều kiện tiên quyết phải đưa vào hợp đồng.
+ **Ghi chú JP:** Gantt は projector でも判読できるよう太め。Milestone 5±2 個。Buffer は実工期の 5-10%。前提条件は契約書にも反映。
 
 
-**Tổng template:** 6
+**Tổng số mẫu:** 6

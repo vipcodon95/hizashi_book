@@ -14,53 +14,43 @@ Sau khi 3 khách ngồi 上座 (rule 10), Linh (thực tập sinh, phụ trách 
 
 ---
 
-## ❌ Hội thoại XẤU — thứ tự lộn xộn, sai phía
+## Hội thoại XẤU — thứ tự lộn xộn, sai phía
 
 *bưng khay 6 cốc, đến đặt cốc cho Dũng (BD bên mình) trước, từ phía trái · thoáng lúng túng · quay lại, đặt cho Matsumoto (nhân viên trẻ bên khách) trước Nakamura · nhận sau cùng, im lặng nhận · thì thầm sau*
 
 | Vai | Câu |
 |---------|-----|
-| **リン** | 「ズン<ruby>先輩<rt>せんぱい</rt></ruby>、お茶です。」 |
-|  | *Anh Dũng, trà ạ.* |
-| **ズン** | 「あ、リンさん、まず<ruby>客<rt>きゃく</rt></ruby>様から…」 |
-|  | *À Linh, từ khách trước em ơi...* |
-| **リン** | 「あ、はい、<ruby>松本<rt>まつもと</rt></ruby>様、どうぞ。」 |
-|  | *À vâng, anh Matsumoto, mời ạ.* |
-| **中村CFO** | 「…どうも。」 |
-|  | *...Cảm ơn.* |
-| **フオン副部長** | 「リンさん、お茶も<ruby>中村<rt>なかむら</rt></ruby>CFOから<ruby>順番<rt>じゅんばん</rt></ruby>。それから<ruby>右側<rt>みぎがわ</rt></ruby>から<ruby>置<rt>お</rt></ruby>くの。」 |
-|  | *Linh, trà cũng phải bắt đầu từ Nakamura CFO. Với cả phải đặt bên phải.* |
+| **リン** | 「ズン<ruby>先輩<rt>せんぱい</rt></ruby>、お茶です。」 <br/>*Anh Dũng, trà ạ.* |
+| **ズン** | 「あ、リンさん、まず<ruby>客<rt>きゃく</rt></ruby>様から…」 <br/>*À Linh, từ khách trước em ơi...* |
+| **リン** | 「あ、はい、<ruby>松本<rt>まつもと</rt></ruby>様、どうぞ。」 <br/>*À vâng, anh Matsumoto, mời ạ.* |
+| **中村CFO** | 「…どうも。」 <br/>*...Cảm ơn.* |
+| **フオン副部長** | 「リンさん、お茶も<ruby>中村<rt>なかむら</rt></ruby>CFOから<ruby>順番<rt>じゅんばん</rt></ruby>。それから<ruby>右側<rt>みぎがわ</rt></ruby>から<ruby>置<rt>お</rt></ruby>くの。」 <br/>*Linh, trà cũng phải bắt đầu từ Nakamura CFO. Với cả phải đặt bên phải.* |
 
 **Vì sao xấu:** (1) Phục vụ bên mình trước khách = vi phạm cốt lõi 「客先」. (2) Đặt cho nhân viên trẻ bên khách (Matsumoto) trước người cấp cao bên khách (Nakamura) = sai thứ bậc. (3) Đặt từ trái = chắn tay phải khách (Nhật uống trà bằng tay phải).
 
 ---
 
-## ✅ Hội thoại TỐT — thứ tự chuẩn + phía phải
+## Hội thoại TỐT — thứ tự chuẩn + phía phải
 
-*bưng khay 6 cốc trà nóng, vào phòng cúi nhẹ · đến chỗ Nakamura đầu tiên, đặt cốc bên phải Nakamura, hai tay · tiếp tục theo thứ tự: 大垣 (上座 phải) → 松本 (上座 trái) → フオン副部長 (下座 giữa) → ズン → トゥアン · sau khi đặt xong, lui ra cửa, bow*
+*bưng khay 6 cốc trà nóng, vào phòng cúi nhẹ · đến chỗ Nakamura đầu tiên, đặt cốc bên phải Nakamura, hai tay · tiếp tục theo thứ tự: 大垣 (上座 phải) → 松本 (上座 trái) → フオン副部長 (下座 giữa) → ズン → トゥアン · sau khi đặt xong, lui ra cửa, cúi chào*
 
 | Vai | Câu |
 |---------|-----|
-| **リン** | 「**お茶をお<ruby>持<rt>も</rt></ruby>ちいたしました。<ruby>失礼<rt>しつれい</rt></ruby>いたします**【1】。」 |
-|  | *Em đã mang trà tới ạ. Xin phép ạ.* |
-| **リン**【2】 | 「<ruby>中村<rt>なかむら</rt></ruby>CFO、どうぞ。」 |
-|  | *Anh Nakamura CFO, mời anh ạ.* |
-| **中村CFO** | 「ありがとうございます。」 |
-|  | *Cảm ơn em.* |
-| **リン**【3】 | *(im lặng đặt từng cốc theo thứ tự)* |
-|  | *(tiếp theo phục vụ Ōgaki → Matsumoto → Hương → Dũng → Tuấn theo thứ tự)* |
-| **リン** | 「**ごゆっくりどうぞ**【4】。」 |
-|  | *Mời các anh thưởng thức ạ.* |
+| **リン** | 「**お茶をお<ruby>持<rt>も</rt></ruby>ちいたしました。<ruby>失礼<rt>しつれい</rt></ruby>いたします**【1】。」 <br/>*Em đã mang trà tới ạ. Xin phép ạ.* |
+| **リン**【2】 | 「<ruby>中村<rt>なかむら</rt></ruby>CFO、どうぞ。」 <br/>*Anh Nakamura CFO, mời anh ạ.* |
+| **中村CFO** | 「ありがとうございます。」 <br/>*Cảm ơn em.* |
+| **リン**【3】 | *(im lặng đặt từng cốc theo thứ tự)* <br/>*(tiếp theo phục vụ Ōgaki → Matsumoto → Hương → Dũng → Tuấn theo thứ tự)* |
+| **リン** | 「**ごゆっくりどうぞ**【4】。」 <br/>*Mời các anh thưởng thức ạ.* |
 
-📝 **Ghi chú:**
+ **Ghi chú:**
 - 【1】**「失礼いたします」** — câu cố định khi vào phòng họp đang diễn ra. Dù mình là nhân viên phục vụ cũng nói (KHÔNG im lặng vào bê trà).
 - 【2】**Đặt bên phải, 2 tay** — bên phải khách (= tay uống). 2 tay đỡ đáy cốc đặt nhẹ. KHÔNG thả cao 5cm trên bàn (tiếng "cốp").
 - 【3】**Thứ tự chuẩn**: người cấp cao bên khách (trung tâm) → khách phải → khách trái → cấp trên bên mình (副部長) → nhân viên trẻ bên mình. Tổng thời gian ~ 90 giây cho 6 cốc.
-- 【4】**「ごゆっくりどうぞ」** — câu cố định khi xong. Bow nhẹ 15° rồi lui ra cửa, KHÔNG quay lưng đi thẳng (đi lùi 1-2 bước rồi mới xoay).
+- 【4】**「ごゆっくりどうぞ」** — câu cố định khi xong. Cúi chào nhẹ 15° rồi lui ra cửa, KHÔNG quay lưng đi thẳng (đi lùi 1-2 bước rồi mới xoay).
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「お茶は『着席後5分以内・客senior優先順・右側両手・"ごゆっくりどうぞ"』。」**
 >
@@ -68,7 +58,7 @@ Sau khi 3 khách ngồi 上座 (rule 10), Linh (thực tập sinh, phụ trách 
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - Trà ra **muộn 10+ phút** → khách khô cổ = bên mình thiếu chu đáo
 - Phục vụ **bên mình trước khách** → vi phạm cốt lõi
@@ -80,15 +70,15 @@ Sau khi 3 khách ngồi 上座 (rule 10), Linh (thực tập sinh, phụ trách 
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| お茶 | おちゃ | Trà |
-| 湯呑 | ゆのみ | Cốc trà |
-| お持ちいたしました | おもちいたしました | Em đã mang tới (kính ngữ) |
-| ごゆっくりどうぞ | ごゆっくりどうぞ | Mời thưởng thức từ tốn |
-| 失礼いたします | しつれいいたします | Xin phép (vào/ra phòng) |
-| 着席 | ちゃくせき | Ngồi xuống |
-| 順番 | じゅんばん | Thứ tự |
-| 右側 | みぎがわ | Bên phải |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| お茶 | おちゃ | TRÀ | Trà |
+| 湯呑 | ゆのみ | THANG THÔN | Cốc trà |
+| お持ちいたしました | おもちいたしました | — | Em đã mang tới (kính ngữ) |
+| ごゆっくりどうぞ | ごゆっくりどうぞ | — | Mời thưởng thức từ tốn |
+| 失礼いたします | しつれいいたします | THẤT LỄ | Xin phép (vào/ra phòng) |
+| 着席 | ちゃくせき | TRƯỚC TỊCH | Ngồi xuống |
+| 順番 | じゅんばん | THUẬN PHIÊN | Thứ tự |
+| 右側 | みぎがわ | HỮU TRẮC | Bên phải |

@@ -23,8 +23,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 BATNAは『数値+条件+承認者』が揃って初めて機能する。曖昧な感覚では交渉力にならない。
-- 🇻🇳 BATNA cần 'con số + điều kiện + người duyệt' mới có hiệu lực. Cảm giác mơ hồ = không thành đòn bẩy đàm phán.
+- BATNAは『数値+条件+承認者』が揃って初めて機能する。曖昧な感覚では交渉力にならない。
+- BATNA cần 'con số + điều kiện + người duyệt' mới có hiệu lực. Cảm giác mơ hồ = không thành đòn bẩy đàm phán.
 
 ### J2.2 (từ rule_02 — ZOPA: Vùng có thể thỏa thuận)
 
@@ -40,8 +40,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 ZOPA は両者の上下限4点で初めて存在を判定できる。自社側だけ・相手側だけでは不十分。
-- 🇻🇳 ZOPA cần 4 điểm (2 mình + 2 khách) mới xác định được vùng giao. Chỉ một bên không đủ.
+- ZOPA は両者の上下限4点で初めて存在を判定できる。自社側だけ・相手側だけでは不十分。
+- ZOPA cần 4 điểm (2 mình + 2 khách) mới xác định được vùng giao. Chỉ một bên không đủ.
 
 ### J2.3 (từ rule_03 — Hiểu phong cách quyết định ringi)
 
@@ -57,10 +57,10 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 稟議中はサポート姿勢が正解。期限を切る・脅すのは日本企業との関係を破壊する。
-- 🇻🇳 Khi đang ringi, tư thế support là đúng. Đặt deadline / dọa = phá quan hệ với doanh nghiệp Nhật.
+- 稟議中はサポート姿勢が正解。期限を切る・脅すのは日本企業との関係を破壊する。
+- Khi đang ringi, tư thế hỗ trợ là đúng. Đặt hạn chót / dọa = phá quan hệ với doanh nghiệp Nhật.
 
-### J2.4 (từ rule_04 — Thu thập intel khách)
+### J2.4 (từ rule_04 — Thu thập thông tin khách)
 
 **Skill:** 場面把握
 
@@ -74,8 +74,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 4軸は『決裁・予算・競合・業績』。家族構成は B2B 交渉に無関係でプライバシー侵害にもなる。
-- 🇻🇳 4 trục: decision/budget/đối thủ/business. Gia đình nhân viên không liên quan B2B + xâm phạm riêng tư.
+- 4軸は『決裁・予算・競合・業績』。家族構成は B2B 交渉に無関係でプライバシー侵害にもなる。
+- 4 trục: người duyệt/ngân sách/đối thủ/kinh doanh. Gia đình nhân viên không liên quan B2B + xâm phạm riêng tư.
 
 ### J2.5 (từ rule_07 — Pre-meeting alignment nội bộ)
 
@@ -91,8 +91,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 4点は『役割・譲歩順・撤退ライン・沈黙合図』。打ち上げは交渉戦略と無関係。
-- 🇻🇳 4 điểm: vai trò / thứ tự nhượng bộ / walk-away / signal im lặng. Liên hoan không liên quan.
+- 4点は『役割・譲歩順・撤退ライン・沈黙合図』。打ち上げは交渉戦略と無関係。
+- 4 điểm: vai trò / thứ tự nhượng bộ / điểm rút lui / tín hiệu im lặng. Liên hoan không liên quan.
 
 ### J2.6 (từ rule_10 — Câu mở chào lịch sự)
 
@@ -108,8 +108,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 値段は冒頭で出さない。冒頭は tone を作る30秒で、価格は discovery 後。
-- 🇻🇳 Giá không ra ngay đầu. 30s đầu là set tone, giá ra sau discovery.
+- 値段は冒頭で出さない。冒頭は tone を作る30秒で、価格は discovery 後。
+- Giá không ra ngay đầu. 30s đầu là set tone, giá ra sau discovery.
 
 ### J2.7 (từ rule_11 — Set context + agenda)
 
@@ -125,10 +125,10 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 コンテキスト設定3拍は「振り返り・状況確認・agenda」。CFO 等 new joiner にも対応。
-- 🇻🇳 3 nhịp set context: recap / confirm tình hình / đề xuất agenda. Bao gồm cả new joiner như CFO.
+- コンテキスト設定3拍は「振り返り・状況確認・agenda」。CFO 等 new joiner にも対応。
+- 3 nhịp set context: recap / confirm tình hình / đề xuất agenda. Bao gồm cả new joiner như CFO.
 
-### J2.8 (từ rule_12 — Discovery questions: 5 categories)
+### J2.8 (từ rule_12 — Câu hỏi tìm hiểu nhu cầu: 5 nhóm)
 
 **Skill:** 場面把握
 
@@ -142,8 +142,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 5観点は Pain/Goal/Budget/Timeline/Decision。競合社員年収は無関係。
-- 🇻🇳 5 trục: Pain/Goal/Budget/Timeline/Decision. Lương nhân viên đối thủ không liên quan.
+- 5観点は Pain/Goal/Budget/Timeline/Decision。競合社員年収は無関係。
+- 5 trục: Pain/Goal/Ngân sách/Timeline/Decision. Lương nhân viên đối thủ không liên quan.
 
 ### J2.9 (từ rule_14 — Phản chiếu + tóm tắt)
 
@@ -159,8 +159,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 Mirroring は誤解防止 + trust 構築。1週間後に誤解が露呈して deal を失うリスクを防ぐ。
-- 🇻🇳 Mirror để chống hiểu sai + xây trust. Tránh risk 1 tuần sau lộ hiểu lầm rồi mất deal.
+- Mirroring は誤解防止 + trust 構築。1週間後に誤解が露呈して deal を失うリスクを防ぐ。
+- Mirror để chống hiểu sai + xây dựng tin tưởng. Tránh rủi ro 1 tuần sau lộ hiểu lầm rồi mất thương vụ.
 
 ### J2.10 (từ rule_16 — Xác nhận thẩm quyền quyết định)
 
@@ -176,8 +176,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 決裁者本人 + 決裁前のステップ・期間。両方揃って初めてtimelineが組める。
-- 🇻🇳 Người duyệt + step và thời gian trước duyệt. Đủ cả hai mới ghép được timeline.
+- 決裁者本人 + 決裁前のステップ・期間。両方揃って初めてtimelineが組める。
+- Người duyệt + step và thời gian trước duyệt. Đủ cả hai mới ghép được timeline.
 
 ### J2.11 (từ rule_17 — Quản lý thời gian thảo luận)
 
@@ -193,8 +193,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 Park は質問を尊重しつつ time-box を守る両立解。固い切りも overrun も両方避ける。
-- 🇻🇳 Park vừa tôn trọng câu hỏi vừa giữ time-box. Tránh cả cắt cứng lẫn overrun.
+- Park は質問を尊重しつつ time-box を守る両立解。固い切りも overrun も両方避ける。
+- Park vừa tôn trọng câu hỏi vừa giữ time-box. Tránh cả cắt cứng lẫn overrun.
 
 ### J2.12 (từ rule_30 — Confirm point of agreement)
 
@@ -210,8 +210,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 稟議プロセス中に認識ズレが発覚すると修正コストが大きい。読み戻しはそのリスクを当日に解消する手段。
-- 🇻🇳 Trong quá trình ringi nếu phát hiện mismatch thì cost sửa cao. Read back giải quyết risk đó ngay trong ngày.
+- 稟議プロセス中に認識ズレが発覚すると修正コストが大きい。読み戻しはそのリスクを当日に解消する手段。
+- Trong quá trình ringi nếu phát hiện mismatch thì cost sửa cao. Read back giải quyết risk đó ngay trong ngày.
 
 ### J2.13 (từ rule_31 — Recap email — tổng hợp xác nhận)
 
@@ -227,8 +227,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 稟議は商談直後から動く。recap メールが添付されることで認識ズレを防ぎ、稟議が止まらない。
-- 🇻🇳 Ringi chạy ngay sau đàm phán. Recap mail được attach làm tài liệu chính thức → ngăn mismatch + ringi không bị block.
+- 稟議は商談直後から動く。recap メールが添付されることで認識ズレを防ぎ、稟議が止まらない。
+- Ringi chạy ngay sau đàm phán. Recap mail được attach làm tài liệu chính thức → ngăn mismatch + ringi không bị block.
 
 ### J2.14 (từ rule_32 — LOI rồi mới đến contract draft)
 
@@ -244,8 +244,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 LOI で commercial がロック済みなら本契約交渉は条項詳細のみ。商務 re-open を防ぐ。
-- 🇻🇳 LOI khóa commercial → contract negotiation chỉ về terms detail. Ngăn việc re-open thương mại.
+- LOI で commercial がロック済みなら本契約交渉は条項詳細のみ。商務 re-open を防ぐ。
+- LOI khóa commercial → contract negotiation chỉ về terms detail. Ngăn việc re-open thương mại.
 
 ### J2.15 (từ rule_34 — Mời ký formal)
 
@@ -261,8 +261,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 「サイン」は日常会話レベル。商務契約は「ご署名・ご捺印いただけますでしょうか」が標準。
-- 🇻🇳 'サイン' ở mức hội thoại hàng ngày. Trong business contract phải dùng 「ご署名・ご捺印いただけますでしょうか」.
+- 「サイン」は日常会話レベル。商務契約は「ご署名・ご捺印いただけますでしょうか」が標準。
+- 'サイン' ở mức hội thoại hàng ngày. Trong business contract phải dùng 「ご署名・ご捺印いただけますでしょうか」.
 
 ### J2.16 (từ rule_36 — Chào sau khi đàm phán thành công)
 
@@ -278,8 +278,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 JP exec 向けは emotional hype ではなく responsibility + commit tone が大人。A は学生っぽい、C はカジュアル過ぎ、D は dry。
-- 🇻🇳 Với JP exec không phải emotional hype mà là responsibility + commit tone mới chuyên nghiệp. A non, C casual quá, D khô.
+- JP exec 向けは emotional hype ではなく responsibility + commit tone が大人。A は学生っぽい、C はカジュアル過ぎ、D は dry。
+- Với JP exec không phải emotional hype mà là responsibility + commit tone mới chuyên nghiệp. A non, C casual quá, D khô.
 
 ### J2.17 (từ rule_37 — Internal kickoff sau ký)
 
@@ -295,8 +295,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 口頭 commitment は契約外でも顧客の記憶に残る。文書化されないと delivery 側が知らず、後から「あれはどうなったか」と問われる。
-- 🇻🇳 Commitment miệng nằm ngoài contract nhưng khách nhớ. Không document hóa thì delivery không biết, khách hỏi 'cái đó sao rồi' sau đó.
+- 口頭 commitment は契約外でも顧客の記憶に残る。文書化されないと delivery 側が知らず、後から「あれはどうなったか」と問われる。
+- Commitment miệng nằm ngoài contract nhưng khách nhớ. Không document hóa thì delivery không biết, khách hỏi 'cái đó sao rồi' sau đó.
 
 ### J2.18 (từ rule_39 — Cảm ơn stakeholders)
 
@@ -312,10 +312,10 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 junior は effort detail を覚えられていることに価値を感じる。generic は未投資 signal。
-- 🇻🇳 Junior thấy giá trị khi effort detail được nhớ. Chung chung = signal 'không đầu tư'.
+- junior は effort detail を覚えられていることに価値を感じる。generic は未投資 signal。
+- Junior thấy giá trị khi chi tiết nỗ lực được nhớ. Chung chung = tín hiệu 'không đầu tư'.
 
-### J2.19 (từ rule_41 — Đàm phán online)
+### J2.19 (từ rule_41 — Đàm phán trực tuyến)
 
 **Skill:** 場面把握
 
@@ -329,8 +329,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 online silence は network lag と区別がつきにくく、5 秒超えで「聞こえてますか?」 interrupt が出やすい。4 秒が安全な anchor 効果保持区間。
-- 🇻🇳 Silence online khó phân biệt với lag mạng, quá 5 giây dễ bị 'có nghe không?' interrupt. 4 giây là vùng an toàn giữ anchoring effect.
+- online silence は network lag と区別がつきにくく、5 秒超えで「聞こえてますか?」 interrupt が出やすい。4 秒が安全な anchor 効果保持区間。
+- Im lặng trực tuyến khó phân biệt với lag mạng, quá 5 giây dễ bị 'có nghe không?' cắt ngang. 4 giây là vùng an toàn giữ hiệu ứng neo giá.
 
 ### J2.20 (từ rule_42 — Đàm phán qua phiên dịch)
 
@@ -346,8 +346,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 数値は通訳の最大ミス source。区切り発音 + 数字 confirm で 99.5/99.95 の混同を防ぐ。
-- 🇻🇳 Số là nguồn lỗi lớn nhất của phiên dịch. Đọc tách + đọc lại số để tránh nhầm 99.5/99.95.
+- 数値は通訳の最大ミス source。区切り発音 + 数字 confirm で 99.5/99.95 の混同を防ぐ。
+- Số là nguồn lỗi lớn nhất của phiên dịch. Đọc tách + đọc lại số để tránh nhầm 99.5/99.95.
 
 ### J2.21 (từ rule_45 — Retro và cải tiến)
 
@@ -363,8 +363,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 Commit は具体 action + deadline + 効果測定 (follow-up retro) で初めて機能。「頑張る」は wishlist。
-- 🇻🇳 Commit chỉ hoạt động khi có action cụ thể + deadline + đo hiệu quả (follow-up retro). 'Cố gắng' là wishlist.
+- Commit は具体 action + deadline + 効果測定 (follow-up retro) で初めて機能。「頑張る」は wishlist。
+- Cam kết chỉ hoạt động khi có hành động cụ thể + hạn chót + đo hiệu quả (theo dõi sau). 'Cố gắng' là wishlist.
 
 
 ## Level J1 (22 câu)
@@ -375,7 +375,7 @@
 
 **Q:** 戦略案件 (新機能込み・売上+¥80M インパクト) に最も適切な価格戦略は？
 
-- **A) Value-based + anchoring**
+- **A) Định giá theo giá trị + neo giá**
 - B) 市場最低価格
 - C) Cost-plus 単独
 - D) 競合追随 (競合と同額)
@@ -383,8 +383,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 戦略案件は cost ではなく value で売る。Anchoring で交渉余地を確保しつつ ROI で正当化する。
-- 🇻🇳 Deal chiến lược bán theo value, không theo cost. Anchoring để có chỗ đàm phán + ROI để biện minh.
+- 戦略案件は cost ではなく value で売る。Anchoring で交渉余地を確保しつつ ROI で正当化する。
+- Thương vụ chiến lược bán theo giá trị, không theo chi phí. Neo giá để có chỗ đàm phán + ROI để biện minh.
 
 ### J1.2 (từ rule_06 — 3-tier proposal: Good / Better / Best)
 
@@ -400,8 +400,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 Good の弱体化は『安いだけでは足りない』を顧客に気づかせ、Better を相対的に魅力化する choice architecture。
-- 🇻🇳 Làm Good yếu để khách tự nhận 'rẻ thôi không đủ', làm Better tương đối hấp dẫn — choice architecture.
+- Good の弱体化は『安いだけでは足りない』を顧客に気づかせ、Better を相対的に魅力化する choice architecture。
+- Làm Good yếu để khách tự nhận 'rẻ thôi không đủ', làm Better tương đối hấp dẫn — choice architecture.
 
 ### J1.3 (từ rule_08 — Walk-away point)
 
@@ -417,10 +417,10 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 標準5軸は『価格・IP・SLA・支払・責任』。商務契約の主要リスク項目。
-- 🇻🇳 5 trục chuẩn: giá / IP / SLA / payment / liability — các mục risk chính của hợp đồng thương mại.
+- 標準5軸は『価格・IP・SLA・支払・責任』。商務契約の主要リスク項目。
+- 5 trục chuẩn: giá / IP / SLA / payment / liability — các mục risk chính của hợp đồng thương mại.
 
-### J1.4 (từ rule_09 — Concession plan)
+### J1.4 (từ rule_09 — Kế hoạch nhượng bộ)
 
 **Skill:** 表現読解
 
@@ -434,8 +434,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 trade-back: trade(引き換え) 拒否時は譲歩も取り下げ、前段階の価格に戻す。unilateral concession 防止策。
-- 🇻🇳 Trade-back: nếu trade bị từ chối, rút nhượng bộ, quay lại giá nấc trước. Phòng tránh unilateral concession.
+- trade-back: trade(引き換え) 拒否時は譲歩も取り下げ、前段階の価格に戻す。unilateral concession 防止策。
+- Trade-back: nếu đánh đổi bị từ chối, rút nhượng bộ, quay lại giá nấc trước. Phòng tránh nhượng bộ đơn phương.
 
 ### J1.5 (từ rule_13 — Lắng nghe ràng buộc ẩn)
 
@@ -451,8 +451,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 日本の顧客は直接言わず signal で示す。聞き流すと後で稟議停止に陥る。詰問tone も close downさせる。
-- 🇻🇳 Khách Nhật không nói thẳng, dùng signal. Bỏ qua = sau bị ringi đứng. Tone tra hỏi cũng làm khách đóng cửa.
+- 日本の顧客は直接言わず signal で示す。聞き流すと後で稟議停止に陥る。詰問tone も close downさせる。
+- Khách Nhật không nói thẳng, dùng tín hiệu gián tiếp. Bỏ qua = sau bị ringi đứng. Giọng điệu tra hỏi cũng làm khách đóng cửa.
 
 ### J1.6 (từ rule_15 — Thăm dò độ nhạy cảm giá)
 
@@ -468,10 +468,10 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 Comparable approach は既知anchor から倍数を聞き、相手が答えやすい形に分解する。直接質問は日本顧客にとって失礼に近い。
-- 🇻🇳 Comparable approach lấy anchor đã biết, hỏi bội số — dễ trả lời. Hỏi thẳng gần như bất lịch sự với khách Nhật.
+- Comparable approach は既知anchor から倍数を聞き、相手が答えやすい形に分解する。直接質問は日本顧客にとって失礼に近い。
+- Comparable approach lấy neo giá đã biết, hỏi bội số — dễ trả lời. Hỏi thẳng gần như bất lịch sự với khách Nhật.
 
-### J1.7 (từ rule_18 — Anchor trước hay chờ)
+### J1.7 (từ rule_18 — Neo giá trước hay chờ)
 
 **Skill:** 表現読解
 
@@ -485,8 +485,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 Go first は ZOPA を把握していて根拠が揃っている時のみ有効。条件未充足なら let them go first で intel を取る。
-- 🇻🇳 Go first chỉ hữu hiệu khi đã có ZOPA + cơ sở dữ liệu. Chưa đủ điều kiện thì let them go first để lấy intel.
+- Go first は ZOPA を把握していて根拠が揃っている時のみ有効。条件未充足なら let them go first で intel を取る。
+- Ra giá trước chỉ hữu hiệu khi đã có ZOPA + cơ sở dữ liệu. Chưa đủ điều kiện thì để khách ra giá trước để lấy thông tin.
 
 ### J1.8 (từ rule_19 — Cấu trúc câu đề xuất giá)
 
@@ -502,8 +502,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 4要素はFrame(枠組み)・Number(数字)・Justification(根拠)・Trade(引き換え)。1つでも抜けるとleverage失う。
-- 🇻🇳 4 yếu tố: Frame / Number / Justification / Trade. Thiếu 1 là mất đòn bẩy.
+- 4要素はFrame(枠組み)・Number(数字)・Justification(根拠)・Trade(引き換え)。1つでも抜けるとleverage失う。
+- 4 yếu tố: Frame / Number / Justification / Trade. Thiếu 1 là mất đòn bẩy.
 
 ### J1.9 (từ rule_20 — Đối phó với 'đắt')
 
@@ -519,10 +519,10 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 「高い」は購買意欲のサイン。3step (Ack→Reframe→Option) で leverage を保ちつつ deal を進める。
-- 🇻🇳 'Đắt' là sign quan tâm. 3 step (Ghi nhận→Đổi góc nhìn→Option) giữ đòn bẩy và đẩy deal.
+- 「高い」は購買意欲のサイン。3step (Ack→Reframe→Option) で leverage を保ちつつ deal を進める。
+- 'Đắt' là tín hiệu quan tâm. 3 bước (Ghi nhận→Đổi góc nhìn→Phương án) giữ đòn bẩy và đẩy thương vụ.
 
-### J1.10 (từ rule_21 — Giảm scope thay vì giảm giá)
+### J1.10 (từ rule_21 — Giảm phạm vi thay vì giảm giá)
 
 **Skill:** 表現読解
 
@@ -536,10 +536,10 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 scope 削減で unit price 維持は粗利率を守りつつ顧客 budget に合わせる両立解。defer 機能は Phase n+1 で復活させる。
-- 🇻🇳 Cắt scope giữ unit price = vừa giữ margin vừa khớp budget khách. Tính năng defer khôi phục ở Phase n+1.
+- scope 削減で unit price 維持は粗利率を守りつつ顧客 budget に合わせる両立解。defer 機能は Phase n+1 で復活させる。
+- Cắt phạm vi giữ unit price = vừa giữ margin vừa khớp ngân sách khách. Tính năng defer khôi phục ở Phase n+1.
 
-### J1.11 (từ rule_22 — Bundle / unbundle pricing)
+### J1.11 (từ rule_22 — Gộp gói / tách mục định giá)
 
 **Skill:** 表現読解
 
@@ -553,8 +553,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 CFO は稟議書 tools が必要。unbundle 開示しつつ package discount で「お得感」も保つ両立解。
-- 🇻🇳 CFO cần tool viết ringi-sho. Unbundle show + package discount giữ 'お得感' = lời cả 2.
+- CFO は稟議書 tools が必要。unbundle 開示しつつ package discount で「お得感」も保つ両立解。
+- CFO cần công cụ viết ringi-sho. Phân tách + giảm giá gói giữ 'お得感' = lời cả 2.
 
 ### J1.12 (từ rule_23 — Quy đổi sang ROI)
 
@@ -570,10 +570,10 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 4指標が稟議書 standard。1つでも欠けると CFO は取締役会に出せない。
-- 🇻🇳 4 chỉ số là chuẩn ringi-sho. Thiếu 1 là CFO không đưa lên HĐQT được.
+- 4指標が稟議書 standard。1つでも欠けると CFO は取締役会に出せない。
+- 4 chỉ số là chuẩn ringi-sho. Thiếu 1 là CFO không đưa lên HĐQT được.
 
-### J1.13 (từ rule_24 — Trade concession (tit-for-tat))
+### J1.13 (từ rule_24 — Đổi nhượng bộ ngang giá (ăn miếng trả miếng))
 
 **Skill:** 表現読解
 
@@ -587,8 +587,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 tit-for-tat は trade とセット。条件提示で leverage を保ち、unilateral concession を避ける。
-- 🇻🇳 Tit-for-tat luôn đi với trade. Đưa điều kiện giữ leverage, tránh nhượng đơn phương.
+- tit-for-tat は trade とセット。条件提示で leverage を保ち、unilateral concession を避ける。
+- Ăn miếng trả miếng luôn đi với điều kiện đổi. Đưa điều kiện giữ đòn bẩy, tránh nhượng đơn phương.
 
 ### J1.14 (từ rule_25 — Silence as tool)
 
@@ -604,10 +604,10 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 沈黙は思考時間。最初に話した方が leverage を失う。日本商談では7秒は normal。
-- 🇻🇳 Im lặng là thời gian suy nghĩ. Ai nói trước mất leverage. Đàm phán Nhật 7s là bình thường.
+- 沈黙は思考時間。最初に話した方が leverage を失う。日本商談では7秒は normal。
+- Im lặng là thời gian suy nghĩ. Ai nói trước mất lợi thế. Đàm phán Nhật 7s là bình thường.
 
-### J1.15 (từ rule_27 — Re-anchor sau pushback)
+### J1.15 (từ rule_27 — Neo lại giá sau khi bị phản bác)
 
 **Skill:** 表現読解
 
@@ -621,8 +621,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 再anchor は value再強調・新事実・flexibility (2 option) のセット。即値引きは leak、硬直は walk-away を呼ぶ。
-- 🇻🇳 Re-anchor là combo: nhắc value + fact mới + flexibility (2 option). Giảm ngay là leak, cứng là khiến khách walk.
+- 再anchor は value再強調・新事実・flexibility (2 option) のセット。即値引きは leak、硬直は walk-away を呼ぶ。
+- Tái neo giá là combo: nhắc giá trị + dữ kiện mới + linh hoạt (2 phương án). Giảm ngay là hở điểm yếu, cứng là khiến khách rút.
 
 ### J1.16 (từ rule_29 — Nibble & late demand handling)
 
@@ -638,8 +638,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 trade で対応しつつ reset clock(全体再review+schedule slip)を伝えれば、相手は通常自ら撤回。無償受けは leak の連鎖。
-- 🇻🇳 Trade rồi reset clock (review toàn bộ + slip schedule), khách thường tự rút. Nhận miễn phí là chuỗi leak.
+- trade で対応しつつ reset clock(全体再review+schedule slip)を伝えれば、相手は通常自ら撤回。無償受けは leak の連鎖。
+- Đánh đổi rồi reset clock (duyệt lại toàn bộ + trượt lịch), khách thường tự rút. Nhận miễn phí là chuỗi hở điểm yếu.
 
 ### J1.17 (từ rule_33 — Điều chỉnh điều khoản cuối)
 
@@ -655,8 +655,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 即決承諾は致命的リスク。即決拒否は relationship dent。「持ち帰り」が双方を救う日本流。
-- 🇻🇳 Accept ngay = rủi ro chết. Từ chối ngay = relationship dent. 'Mang về' là cách JP cứu cả 2 bên.
+- 即決承諾は致命的リスク。即決拒否は relationship dent。「持ち帰り」が双方を救う日本流。
+- Accept ngay = rủi ro chết. Từ chối ngay = relationship dent. 'Mang về' là cách JP cứu cả 2 bên.
 
 ### J1.18 (từ rule_35 — Walk-away phong nhã)
 
@@ -672,8 +672,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 「お断り」は人格 reject。「条件面」は abstract で、相手・自分どちらの face も傷つけず、関係継続の magic phrase 「ご縁」を続けやすい。
-- 🇻🇳 'お断り' reject ở mức cá nhân. 'Conditional' là abstract — không tổn thương face, dễ nối tiếp magic phrase 'ご縁' duy trì relationship.
+- 「お断り」は人格 reject。「条件面」は abstract で、相手・自分どちらの face も傷つけず、関係継続の magic phrase 「ご縁」を続けやすい。
+- 'お断り' reject ở mức cá nhân. 'Conditional' là abstract — không tổn thương face, dễ nối tiếp magic phrase 'ご縁' duy trì relationship.
 
 ### J1.19 (từ rule_38 — PR release joint approval)
 
@@ -689,8 +689,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 正確な金額の公開はクライアントの予算を競合に晒し、翌年の予算削減や競合 anchor に使われる。framing で防ぐ。
-- 🇻🇳 Lộ số tiền chính xác = lộ budget khách cho competitor → năm sau bị cắt hoặc bị competitor anchor. Framing tránh điều này.
+- 正確な金額の公開はクライアントの予算を競合に晒し、翌年の予算削減や競合 anchor に使われる。framing で防ぐ。
+- Lộ số tiền chính xác = lộ ngân sách khách cho đối thủ → năm sau bị cắt hoặc bị đối thủ neo giá. Đóng khung tránh điều này.
 
 ### J1.20 (từ rule_40 — Đàm phán đa bên)
 
@@ -706,8 +706,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 1 人 ignored は他 2 人 disengage = ringi 反対 source。junior → senior 順で CFO 最後 + detail 最大が standard。
-- 🇻🇳 Bỏ qua 1 người = 2 người disengage = nguồn phản đối ringi. Junior → senior, CFO cuối cùng + detail nhiều nhất là chuẩn.
+- 1 人 ignored は他 2 人 disengage = ringi 反対 source。junior → senior 順で CFO 最後 + detail 最大が standard。
+- Bỏ qua 1 người = 2 người disengage = nguồn phản đối ringi. Junior → senior, CFO cuối cùng + detail nhiều nhất là chuẩn.
 
 ### J1.21 (từ rule_43 — Khi nào escalate senior)
 
@@ -723,8 +723,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 T2 (権限外) + T3 (ultimatum) は escalation trigger。即決は法的 bind 不可 risk。即拒否は relationship dent。5 分 buffer + Slack escalate が standard。
-- 🇻🇳 T2 (vượt thẩm quyền) + T3 (ultimatum) = trigger escalation. Tự quyết = rủi ro không bind hợp pháp. Từ chối ngay = dent relationship. Buffer 5 phút + Slack escalate là chuẩn.
+- T2 (権限外) + T3 (ultimatum) は escalation trigger。即決は法的 bind 不可 risk。即拒否は relationship dent。5 分 buffer + Slack escalate が standard。
+- T2 (vượt thẩm quyền) + T3 (ultimatum) = trigger escalation. Tự quyết = rủi ro không bind hợp pháp. Từ chối ngay = dent relationship. Buffer 5 phút + Slack escalate là chuẩn.
 
 ### J1.22 (từ rule_44 — Khoảng cách phong cách đàm phán VN-JP)
 
@@ -740,8 +740,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 JP「高い」は 4 layer 解釈 (内訳説明欲しいが most common)。即 discount は ratchet を動かす。unbundle + trade で JP reciprocal pattern に沿う。
-- 🇻🇳 JP 'cao' có 4 layer (most common là 'muốn breakdown'). Discount ngay = kích ratchet. Unbundle + trade khớp với JP reciprocal pattern.
+- JP「高い」は 4 layer 解釈 (内訳説明欲しいが most common)。即 discount は ratchet を動かす。unbundle + trade で JP reciprocal pattern に沿う。
+- JP 'cao' có 4 tầng nghĩa (phổ biến nhất là 'muốn phân tách cấu thành'). Giảm giá ngay = kích ratchet. Phân tách + đánh đổi khớp với mô hình có qua có lại của JP.
 
 
 ## Level J1+ (2 câu)
@@ -760,8 +760,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 脅しは pressure tactic。bridge で de-escalate、boundary でこちらの限度を示し、senior escalation で新権威を持ち込む。
-- 🇻🇳 Lời đe là pressure tactic. Bridge để de-escalate, boundary show giới hạn, senior escalate đưa authority mới vào.
+- 脅しは pressure tactic。bridge で de-escalate、boundary でこちらの限度を示し、senior escalation で新権威を持ち込む。
+- Lời đe là pressure tactic. Bridge để de-escalate, boundary show giới hạn, senior escalate đưa authority mới vào.
 
 ### J1+.2 (từ rule_28 — Walk away phong nhã)
 
@@ -777,12 +777,11 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 撤退も商談の一部。relationship を残すことで Phase 4 や別案件の chance を保つ。
-- 🇻🇳 Rút cũng là một phần đàm phán. Giữ relationship để có cơ hội Phase 4 / dự án khác.
+- 撤退も商談の一部。relationship を残すことで Phase 4 や別案件の chance を保つ。
+- Rút cũng là một phần đàm phán. Giữ relationship để có cơ hội Phase 4 / dự án khác.
 
 
 **Tổng số câu hỏi:** 45
 
 ---
 
-*Tài liệu này có thể export thành quiz interactive — đọc data trực tiếp từ `bjt_practice` array trong mỗi `conversation.json`.*

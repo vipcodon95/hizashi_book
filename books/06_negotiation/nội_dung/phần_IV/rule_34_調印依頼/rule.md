@@ -1,6 +1,6 @@
-# Rule 34 — Formal signature request / 調印依頼
+# Rule 34 — Yêu cầu ký kết trang trọng / 調印依頼
 
-> **Luận điểm.** Final contract OK 2 bên → bước formal request signature. Câu chuẩn JP business: 「**ご署名・ご捺印いただけますでしょうか**」. KHÔNG được dùng "サイン" thông thường hay 「契約書送ります」 dry. Phải đi kèm: (a) lý do timing, (b) suggested method (eSignature vs print/seal), (c) deadline rõ.
+> **Luận điểm.** Hợp đồng chính OK cả 2 bên → bước yêu cầu ký trang trọng. Câu chuẩn trong kinh doanh Nhật: 「**ご署名・ご捺印いただけますでしょうか**」. KHÔNG dùng "サイン" thông thường hay 「契約書送ります」 khô khan. Phải đi kèm: (a) lý do thời điểm, (b) phương thức gợi ý (ký điện tử hay bản giấy/đóng dấu), (c) hạn chót rõ ràng.
 >
 > 最終契約合意後、調印依頼は決まり文句「ご署名・ご捺印いただけますでしょうか」で。timing・方法・期限 を 1 メールで明示する。
 >
@@ -10,11 +10,11 @@
 
 ## Bối cảnh / 場面
 
-Final contract v3 sau 3 vòng đàm phán điều khoản đã OK. Hà CTO ký bên Tiên Phát. Bây giờ Dũng mời 大垣 ký bên 白鷗. Kickoff dự kiến 7/1 → cần ký xong 6/25.
+Hợp đồng chính v3 sau 3 vòng đàm phán điều khoản đã OK. Hà CTO ký bên Tiên Phát. Bây giờ Dũng mời 大垣 ký bên 白鷗. Khởi động dự án dự kiến 7/1 → cần ký xong 6/25.
 
 ---
 
-## ❌ Hội thoại XẤU — request signature casual + không deadline
+## Hội thoại XẤU — yêu cầu ký tùy tiện + không có hạn chót
 
 | | Vai | Câu (mail) |
 |--|---------|-----|
@@ -27,11 +27,11 @@ Final contract v3 sau 3 vòng đàm phán điều khoản đã OK. Hà CTO ký b
 | **L4** | **ズン** *(キックオフ delay)* | (キックオフ 7/1 → 7/22 <ruby>後<rt>うし</rt></ruby>ろ<ruby>倒<rt>だお</rt></ruby>し<ruby>決定<rt>けってい</rt></ruby>) |
 | | | *(Kickoff 7/1 → quyết định lùi 7/22)* |
 
-**Vì sao xấu:** (a) 件名 「契約書」 — không tạo cảm giác gấp, dễ bị trôi xuống đáy hòm thư, (b) 「サイン」 không trang trọng với business JP, (c) không deadline → khách hạ ưu tiên, (d) follow-up muộn. Dự án trễ 3 週間 = mất ¥1.5M lợi nhuận.
+**Vì sao xấu:** (a) Tiêu đề 「契約書」 — không tạo cảm giác gấp, dễ bị trôi xuống đáy hòm thư, (b) 「サイン」 không trang trọng trong kinh doanh Nhật, (c) không có hạn chót → khách hạ ưu tiên, (d) nhắc muộn. Dự án trễ 3 週間 = mất ¥1.5M lợi nhuận.
 
 ---
 
-## ✅ Hội thoại TỐT — formal request + 3 elements
+## Hội thoại TỐT — formal request + 3 elements
 
 | | Vai | Câu (mail) |
 |--|---------|-----|
@@ -48,41 +48,41 @@ Final contract v3 sau 3 vòng đàm phán điều khoản đã OK. Hà CTO ký b
 | **L6** | (16:30) **DocuSign <ruby>完了通知<rt>かんりょうつうち</rt></ruby>** → **ズン** *(Slack Hương)* | 「Phase 3 <ruby>契約<rt>けいやく</rt></ruby><ruby>締結<rt>ていけつ</rt></ruby><ruby>完了<rt>かんりょう</rt></ruby>しました。Hà CTO + 大垣様 <ruby>両社<rt>りょうしゃ</rt></ruby><ruby>捺印済<rt>なついんずみ</rt></ruby>【4】。」 |
 | | | *Hợp đồng Phase 3 ký xong rồi ạ. Anh Hà CTO + anh Ōgaki cả 2 bên đã đóng dấu ạ.* |
 
-📝 **Ghi chú:**
-- 【1】**「ご署名・ご捺印いただけますでしょうか」** = 調印依頼の決まり文句. 「サイン」 không trang trọng → NG.
-- 【2】**Deadline 明示 + 理由 (キックオフ日)** = 急かしではなく合理的. 期限 1 週間以上余裕を持つ.
-- 【3】**Đưa 2 phương án (2 method 提示)** = 紙印鑑文化と eSignature 普及の混在期。選ばせると自分の都合で動ける.
-- 【4】**両社捺印済 = khép thương vụ**. 内部 Slack で完了報告 → rule 37 kickoff nội bộ へ.
+ **Ghi chú:**
+- 【1】**「ご署名・ご捺印いただけますでしょうか」** = câu chuẩn yêu cầu ký kết. 「サイン」 không trang trọng → NG.
+- 【2】**Hạn chót rõ + lý do (ngày khởi động)** = không phải thúc giục mà có lý. Hạn cần đặt sớm hơn ít nhất 1 tuần.
+- 【3】**Đưa 2 phương án** = giai đoạn đan xen giữa văn hóa đóng dấu giấy và ký điện tử đang phổ biến. Để khách tự chọn theo tiện ích của họ.
+- 【4】**Cả 2 bên đã đóng dấu = khép thương vụ**. Báo cáo hoàn thành qua Slack nội bộ → chuyển sang rule 37 khởi động nội bộ.
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「ご署名・ご捺印いただけますでしょうか + キックオフ日逆算 deadline + 2 method 提示 = 調印依頼の標準。」**
 >
-> *Câu formal + deadline tính ngược từ kickoff + 2 phương án = lời mời ký chuẩn.*
+> *Câu trang trọng + hạn chót tính ngược từ ngày khởi động + 2 phương án = lời mời ký chuẩn.*
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
-- 「サイン」 không trang trọng → 商務文書では NG, 「ご署名・ご捺印」を使う
-- 件名「契約書」のみ → urgency 0
-- Deadline なし → 1-2 ヶ月放置
-- Single method (紙のみ / eSignature のみ) → 古い印鑑文化 or 新派どちらも逃す
-- Follow-up なし 3 週間 → "プッシュもしてないから優先度低いんだ" と判断される
+- 「サイン」 không trang trọng → trong văn bản kinh doanh là NG, dùng 「ご署名・ご捺印」
+- Tiêu đề chỉ 「契約書」 → không có cảm giác cấp bách
+- Không có hạn chót → bị bỏ 1-2 tháng
+- Chỉ 1 phương án (giấy hoặc ký điện tử) → mất đi người theo văn hóa đóng dấu cũ hoặc người theo xu hướng mới
+- Không nhắc lại sau 3 tuần → bị đánh giá là "không thúc thì ưu tiên thấp"
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 調印 | ちょういん | Signing (formal) |
-| ご署名 | ごしょめい | Sign (kính ngữ) |
-| ご捺印 | ごなついん | Đóng dấu (kính ngữ) |
-| 業務委託契約書 | ぎょうむいたくけいやくしょ | Hợp đồng giao việc / SOW contract |
-| 原本 | げんぽん | Bản gốc |
-| eSignature | イー・シグネチャー | eSignature |
-| 締結 | ていけつ | Ký kết |
-| 急かし | せかし | Thúc giục |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 調印 | ちょういん | ĐIỀU ẤN | Ký kết (trang trọng) |
+| ご署名 | ごしょめい | THỰ DANH | Ký tên (kính ngữ) |
+| ご捺印 | ごなついん | NẶT ẤN | Đóng dấu (kính ngữ) |
+| 業務委託契約書 | ぎょうむいたくけいやくしょ | NGHIỆP VỤ UỶ THÁC KHẾ ƯỚC THƯ | Hợp đồng giao việc |
+| 原本 | げんぽん | NGUYÊN BẢN | Bản gốc |
+| eSignature | イー・シグネチャー | — | Chữ ký điện tử |
+| 締結 | ていけつ | ĐẾ KẾT | Ký kết |
+| 急かし | せかし | — | Thúc giục |

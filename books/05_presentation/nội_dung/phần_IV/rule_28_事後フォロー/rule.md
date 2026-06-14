@@ -1,67 +1,59 @@
-# Rule 28 — Post-pitch follow-up email / 事後フォローメール
+# Rule 28 — Email phản hồi sau buổi thuyết trình / 事後フォローメール
 
-> **Luận điểm.** **Trong vòng 24 giờ**: phải gửi follow-up email — không trễ. 4 phần: ① 御礼 ngắn ② Slide PDF + memo họp đính kèm ③ Recap 3 ý chính + 3 bước tiếp theo ④ Deadline câu 持ち帰り. Email này quyết định 30% ấn tượng "chuyên nghiệp" sau pitch. Trễ 48h = ấn tượng đã loãng.
+> **Luận điểm.** **Trong vòng 24 giờ**: phải gửi email phản hồi sau buổi — không trễ. 4 phần: ① 御礼 ngắn ② Slide PDF + ghi chú họp đính kèm ③ Recap 3 ý chính + 3 bước tiếp theo ④ Deadline câu 持ち帰り. Email này quyết định 30% ấn tượng "chuyên nghiệp" sau bài thuyết trình. Trễ 48h = ấn tượng đã loãng.
 >
 > ピッチ後24h以内に follow-up メール必須。①御礼 ②資料添付 ③Recap+Next step ④持ち帰り deadline。48h 超えると impression が薄れる。
 >
-> **Liên quan:** rule 24 (持ち帰り), rule 26 (closing CTA), rule 27 (thank-you slide).
+> **Liên quan:** rule 24 (持ち帰り), rule 26 (phần kết CTA), rule 27 (slide cảm ơn).
 
 ---
 
 ## Bối cảnh / 場面
 
-Pitch Phase 3 kết thúc 16:00 thứ Năm. Dũng về văn phòng, định "thứ Hai gửi mail" để rest cuối tuần. Chị Hương kịp cản.
+Bài thuyết trình Phase 3 kết thúc 16:00 thứ Năm. Dũng về văn phòng, định "thứ Hai gửi mail" để nghỉ ngơi cuối tuần. Chị Hương kịp cản.
 
 ---
 
-## ❌ Hội thoại XẤU — kéo qua weekend
+## Hội thoại XẤU — kéo qua weekend
 
 *Slack 17:30 thứ Năm*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、ピッチ<ruby>無事<rt>ぶじ</rt></ruby><ruby>終了<rt>しゅうりょう</rt></ruby>！フォローメールは<ruby>月曜<rt>げつよう</rt></ruby><ruby>送<rt>おく</rt></ruby>ろうと<ruby>思<rt>おも</rt></ruby>います、<ruby>週末<rt>しゅうまつ</rt></ruby>ゆっくり<ruby>書<rt>か</rt></ruby>きたいので。」 |
-|  | *Chị Hương, pitch xong an toàn! Mail follow-up em định gửi thứ Hai, để cuối tuần em viết kỹ ạ.* |
-| **フオン** | 「**月曜だと72<ruby>時間<rt>じかん</rt></ruby><ruby>後<rt>ご</rt></ruby>**。<ruby>客<rt>きゃく</rt></ruby>が<ruby>今夜<rt>こんや</rt></ruby><ruby>社内<rt>しゃない</rt></ruby>シェアする<ruby>時<rt>とき</rt></ruby>に<ruby>資料<rt>しりょう</rt></ruby><ruby>無<rt>な</rt></ruby>いの? **今夜送って**。3<ruby>行<rt>ぎょう</rt></ruby>でも。」 |
-|  | *Thứ Hai là 72h sau. Khách tối nay share nội bộ mà không có tài liệu à? Tối nay gửi đi. 3 dòng cũng được.* |
-| **ズン** | 「あ、それは…」 |
-|  | *À, cái đó...* |
-| **フオン** | 「**24h ルール**。<ruby>詳細<rt>しょうさい</rt></ruby><ruby>版<rt>ばん</rt></ruby>は週末に書いて月曜 update。**今夜は acknowledgment + slide PDF link** だけでいい。」 |
-|  | *Quy tắc 24h. Bản chi tiết để cuối tuần viết, thứ Hai update. Tối nay chỉ cần acknowledgment + link PDF slide là đủ.* |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、ピッチ<ruby>無事<rt>ぶじ</rt></ruby><ruby>終了<rt>しゅうりょう</rt></ruby>！フォローメールは<ruby>月曜<rt>げつよう</rt></ruby><ruby>送<rt>おく</rt></ruby>ろうと<ruby>思<rt>おも</rt></ruby>います、<ruby>週末<rt>しゅうまつ</rt></ruby>ゆっくり<ruby>書<rt>か</rt></ruby>きたいので。」 <br/>*Chị Hương, bài thuyết trình xong an toàn! Mail phản hồi em định gửi thứ Hai, để cuối tuần em viết kỹ ạ.* |
+| **フオン** | 「**月曜だと72<ruby>時間<rt>じかん</rt></ruby><ruby>後<rt>ご</rt></ruby>**。<ruby>客<rt>きゃく</rt></ruby>が<ruby>今夜<rt>こんや</rt></ruby><ruby>社内<rt>しゃない</rt></ruby>シェアする<ruby>時<rt>とき</rt></ruby>に<ruby>資料<rt>しりょう</rt></ruby><ruby>無<rt>な</rt></ruby>いの? **今夜送って**。3<ruby>行<rt>ぎょう</rt></ruby>でも。」 <br/>*Thứ Hai là 72h sau. Khách tối nay chia sẻ nội bộ mà không có tài liệu à? Tối nay gửi đi. 3 dòng cũng được.* |
+| **ズン** | 「あ、それは…」 <br/>*À, cái đó...* |
+| **フオン** | 「**24h ルール**。<ruby>詳細<rt>しょうさい</rt></ruby><ruby>版<rt>ばん</rt></ruby>は週末に書いて月曜 update。**今夜は acknowledgment + slide PDF link** だけでいい。」 <br/>*Quy tắc 24h. Bản chi tiết để cuối tuần viết, thứ Hai cập nhật. Tối nay chỉ cần xác nhận ngắn + link PDF slide là đủ.* |
 
-**Vì sao xấu:** 月曜 = 72h sau. Khách Nhật thường share nội bộ trong 24h sau pitch — không có slide = họ phải nhớ nội dung nói miệng → ấn tượng "người trình bày chậm". 「週末ゆっくり書く」 = đặt việc riêng của mình lên trên khách hàng.
+**Vì sao xấu:** 月曜 = 72h sau. Khách Nhật thường chia sẻ nội bộ trong 24h sau bài thuyết trình — không có slide = họ phải nhớ nội dung nói miệng → ấn tượng "người trình bày chậm". 「週末ゆっくり書く」 = đặt việc riêng của mình lên trên khách hàng.
 
 ---
 
-## ✅ Hội thoại TỐT — 2-step: same-day acknowledgment + Monday detailed
+## Hội thoại TỐT — 2 bước: xác nhận trong ngày + bản chi tiết thứ Hai
 
 *Slack 17:30 · 19:45*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、ピッチ<ruby>終了<rt>しゅうりょう</rt></ruby>。**<ruby>今夜<rt>こんや</rt></ruby><ruby>中<rt>じゅう</rt></ruby>に acknowledgment メール** <ruby>送<rt>おく</rt></ruby>ります (slide PDF link + <ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り deadline <ruby>確認<rt>かくにん</rt></ruby>のみ)。**<ruby>詳細<rt>しょうさい</rt></ruby> recap + <ruby>議事<rt>ぎじ</rt></ruby>メモは<ruby>月曜<rt>げつよう</rt></ruby><ruby>朝<rt>あさ</rt></ruby>** に send します。テンプレ<ruby>使<rt>つか</rt></ruby>います。」 |
-|  | *Chị Hương, pitch xong rồi ạ. Tối nay em gửi mail acknowledgment trước (chỉ link PDF slide + xác nhận deadline 持ち帰り). Recap chi tiết + memo họp em send sáng thứ Hai. Em dùng template ạ.* |
-| **フオン** | 「いいね、その2<ruby>段階<rt>だんかい</rt></ruby>で。今夜の acknowledgment は **20<ruby>時<rt>じ</rt></ruby>まで** に<ruby>出<rt>だ</rt></ruby>すと<ruby>安心<rt>あんしん</rt></ruby>。<ruby>文面<rt>ぶんめん</rt></ruby>ドラフト<ruby>見<rt>み</rt></ruby>せて。」 |
-|  | *Tốt, đi 2 bước đó. Acknowledgment tối nay ra trước 20h là an toàn. Draft mail show chị xem nhé.* |
-| **ズン** | 「ドラフトです。3パラ + <ruby>添付<rt>てんぷ</rt></ruby>3<ruby>点<rt>てん</rt></ruby> + 持ち帰り SOAP detail <ruby>期限<rt>きげん</rt></ruby><ruby>金曜<rt>きんよう</rt></ruby>17時 <ruby>明記<rt>めいき</rt></ruby>しました【1】。」 |
-|  | *Draft đây ạ. 3 đoạn + 3 file đính kèm + ghi rõ deadline 持ち帰り SOAP detail trước 17h thứ Sáu ạ.* |
-| **フオン** | 「OK、send。月曜の詳細版にはトゥアン+ハー CTO も CC に。」 |
-|  | *OK, send đi. Bản chi tiết thứ Hai nhớ CC anh Tuấn + anh Hà CTO vào nhé.* |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、ピッチ<ruby>終了<rt>しゅうりょう</rt></ruby>。**<ruby>今夜<rt>こんや</rt></ruby><ruby>中<rt>じゅう</rt></ruby>に acknowledgment メール** <ruby>送<rt>おく</rt></ruby>ります (slide PDF link + <ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り deadline <ruby>確認<rt>かくにん</rt></ruby>のみ)。**<ruby>詳細<rt>しょうさい</rt></ruby> recap + <ruby>議事<rt>ぎじ</rt></ruby>メモは<ruby>月曜<rt>げつよう</rt></ruby><ruby>朝<rt>あさ</rt></ruby>** に send します。テンプレ<ruby>使<rt>つか</rt></ruby>います。」 <br/>*Chị Hương, bài thuyết trình xong rồi ạ. Tối nay em gửi mail xác nhận trước (chỉ link PDF slide + xác nhận hạn chót 持ち帰り). Tóm tắt chi tiết + ghi chú họp em gửi sáng thứ Hai. Em dùng mẫu có sẵn ạ.* |
+| **フオン** | 「いいね、その2<ruby>段階<rt>だんかい</rt></ruby>で。今夜の acknowledgment は **20<ruby>時<rt>じ</rt></ruby>まで** に<ruby>出<rt>だ</rt></ruby>すと<ruby>安心<rt>あんしん</rt></ruby>。<ruby>文面<rt>ぶんめん</rt></ruby>ドラフト<ruby>見<rt>み</rt></ruby>せて。」 <br/>*Tốt, đi 2 bước đó. Xác nhận ngắn tối nay ra trước 20h là an toàn. Bản thảo nội dung mail chị xem nhé.* |
+| **ズン** | 「ドラフトです。3パラ + <ruby>添付<rt>てんぷ</rt></ruby>3<ruby>点<rt>てん</rt></ruby> + 持ち帰り SOAP detail <ruby>期限<rt>きげん</rt></ruby><ruby>金曜<rt>きんよう</rt></ruby>17時 <ruby>明記<rt>めいき</rt></ruby>しました【1】。」 <br/>*Bản thảo đây ạ. 3 đoạn + 3 file đính kèm + ghi rõ hạn chót 持ち帰り chi tiết SOAP trước 17h thứ Sáu ạ.* |
+| **フオン** | 「OK、send。月曜の詳細版にはトゥアン+ハー CTO も CC に。」 <br/>*OK, gửi đi. Bản chi tiết thứ Hai nhớ CC anh Tuấn + anh Hà CTO vào nhé.* |
 
-📝 **Ghi chú:**
-- 【1】**2段階送付** (gửi 2 bước) — 当日 (cùng ngày): acknowledgment ngắn + slide PDF + xác nhận deadline 持ち帰り. 翌営業日朝 (sáng ngày làm việc kế tiếp): recap chi tiết + memo họp + danh mục việc cần làm. Khách share nội bộ ngay trong ngày, phần xem xét chi tiết để đầu tuần → khớp với nhịp làm việc của phía Nhật.
+ **Ghi chú:**
+- 【1】**2段階送付** (gửi 2 bước) — 当日 (cùng ngày): xác nhận ngắn + slide PDF + xác nhận deadline 持ち帰り. 翌営業日朝 (sáng ngày làm việc kế tiếp): tóm tắt chi tiết + ghi chú họp + danh mục việc cần làm. Khách chia sẻ nội bộ ngay trong ngày, phần xem xét chi tiết để đầu tuần → khớp với nhịp làm việc của phía Nhật.
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **24h ルール: <ruby>当日<rt>とうじつ</rt></ruby><ruby>中<rt>じゅう</rt></ruby>に short acknowledgment、<ruby>翌<rt>よく</rt></ruby><ruby>営業日<rt>えいぎょうび</rt></ruby>に<ruby>詳細<rt>しょうさい</rt></ruby> recap. <ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り deadline <ruby>必<rt>かなら</rt></ruby>ず<ruby>明記<rt>めいき</rt></ruby>.**
 >
-> *Acknowledgment trong ngày + bản chi tiết ngày hôm sau = khớp với nhịp share nội bộ của khách hàng.*
+> *Xác nhận ngắn trong ngày + bản chi tiết ngày hôm sau = khớp với nhịp chia sẻ nội bộ của khách hàng.*
 
 ---
 
-## 📐 Template Email Follow-up (đính kèm — `conversation.json:templates[0]`)
+## Mẫu email phản hồi sau buổi thuyết trình
 
 ```
 件名: 【御礼】Phase 3 ご提案の件 (ティエンファット ズン)
@@ -109,7 +101,7 @@ EMAIL: zun@tienphat.vn
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - Gửi sau 48h → ấn tượng đã loãng, khách đã quên sắc thái lời nói miệng
 - 件名 mơ hồ ("先日はありがとうございました") → email bị chìm trong hộp thư
@@ -119,13 +111,13 @@ EMAIL: zun@tienphat.vn
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 事後 | じご | Sau (sự việc) |
-| 御礼 | おれい | Lời cảm ơn |
-| 件名 | けんめい | Tiêu đề mail |
-| 添付 | てんぷ | Đính kèm |
-| 議事メモ | ぎじめも | Note họp |
-| 引き続き | ひきつづき | Tiếp tục (formal) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 事後 | じご | SỰ HẬU | Sau (sự việc) |
+| 御礼 | おれい | NGỰ LỄ | Lời cảm ơn |
+| 件名 | けんめい | KIỆN DANH | Tiêu đề mail |
+| 添付 | てんぷ | THIÊM PHÓ | Đính kèm |
+| 議事メモ | ぎじメモ | NGHỊ SỰ | Ghi chú cuộc họp |
+| 引き続き | ひきつづき | — | Tiếp tục (formal) |

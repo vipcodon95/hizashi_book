@@ -1,6 +1,6 @@
-# Rule 20 — Risk & mitigation / リスクと対策
+# Rule 20 — Rủi ro và biện pháp đối phó / リスクと対策
 
-> **Luận điểm.** Trình bày **3-5 rủi ro** với **対策 (đối sách) cụ thể**. Vendor che giấu rủi ro = tín hiệu cảnh báo lớn nhất với doanh nghiệp Nhật. Cấu trúc bảng: **リスク** | **発生確率 (高/中/低)** | **影響度** | **対策**. Tránh "リスクはございません" — đó là nói dối + tín hiệu nghiệp dư. "リスク0" = "vendor 未経験 (chưa có kinh nghiệm)".
+> **Luận điểm.** Trình bày **3-5 rủi ro** với **対策 (đối sách) cụ thể**. Bên cung cấp che giấu rủi ro = tín hiệu cảnh báo lớn nhất với doanh nghiệp Nhật. Cấu trúc bảng: **リスク** | **発生確率 (高/中/低)** | **影響度** | **対策**. Tránh "リスクはございません" — đó là nói dối + tín hiệu nghiệp dư. "リスク0" = "bên cung cấp 未経験 (chưa có kinh nghiệm)".
 >
 > 3-5 リスクを発生確率＋影響度＋対策付きで開示。『リスクなし』はlieであり信頼の決定的損失。「気づいてない vendor」と判断される。
 >
@@ -10,52 +10,44 @@
 
 ## Bối cảnh / 場面
 
-Slide 9 = risk slide. Linh draft → ghi "リスクは特にございません" theo bản năng "đừng làm khách lo". Dũng correct ngay.
+Slide 9 = slide rủi ro. Linh thảo nháp → ghi "リスクは特にございません" theo bản năng "đừng làm khách lo". Dũng chỉnh ngay.
 
 ---
 
-## ❌ Hội thoại XẤU — "リスクなし"
+## Hội thoại XẤU — "リスクなし"
 
-*slide draft*
+*xem bản thảo slide*
 
 | Vai | Câu |
 |---------|-----|
-| **リン** | 「**リスク特になし**、<ruby>安心<rt>あんしん</rt></ruby>してご<ruby>利用<rt>りよう</rt></ruby>いただけます！と<ruby>書<rt>か</rt></ruby>きました。」 |
-|  | *Em viết 「Không có rủi ro nào đặc biệt, quý vị có thể yên tâm sử dụng」 ạ!* |
-| **ズン** | 「ストップ。それ**<ruby>信頼<rt>しんらい</rt></ruby>の<ruby>自殺<rt>じさつ</rt></ruby><ruby>行為<rt>こうい</rt></ruby>**。**プロジェクトに『リスクなし』はあり<ruby>得<rt>え</rt></ruby>ない**。<ruby>書<rt>か</rt></ruby>いた<ruby>瞬間<rt>しゅんかん</rt></ruby>、<ruby>客<rt>きゃく</rt></ruby>は『この vendor <ruby>経験<rt>けいけん</rt></ruby>ない or <ruby>嘘<rt>うそ</rt></ruby>ついてる』のどちらかと<ruby>判断<rt>はんだん</rt></ruby>する。」 |
-|  | *Stop. Đó là tự sát niềm tin đấy. Dự án không thể 「không có rủi ro」 được. Vừa viết là khách phán ngay 「vendor này non kinh nghiệm hoặc đang nói dối」.* |
-| **リン** | 「えっ、<ruby>客<rt>きゃく</rt></ruby>が<ruby>嫌<rt>いや</rt></ruby>がると<ruby>思<rt>おも</rt></ruby>って…」 |
-|  | *Ơ, em nghĩ khách ghét nghe rủi ro ạ...* |
-| **ズン** | 「**<ruby>逆<rt>ぎゃく</rt></ruby>**。リスクを**<ruby>正直<rt>しょうじき</rt></ruby>に<ruby>出<rt>だ</rt></ruby>す + <ruby>対策<rt>たいさく</rt></ruby>セット**で<ruby>出<rt>だ</rt></ruby>す<ruby>方<rt>ほう</rt></ruby>が<ruby>信頼<rt>しんらい</rt></ruby>される。**3-5<ruby>個<rt>こ</rt></ruby> + <ruby>各<rt>かく</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>**が<ruby>標準<rt>ひょうじゅん</rt></ruby>。」 |
-|  | *Ngược lại đấy. Show rủi ro thẳng + kèm đối sách = lấy được lòng tin hơn. Chuẩn là 3-5 cái + mỗi cái có đối sách.* |
+| **リン** | 「**リスク特になし**、<ruby>安心<rt>あんしん</rt></ruby>してご<ruby>利用<rt>りよう</rt></ruby>いただけます！と<ruby>書<rt>か</rt></ruby>きました。」 <br/>*Em viết 「Không có rủi ro nào đặc biệt, quý vị có thể yên tâm sử dụng」 ạ!* |
+| **ズン** | 「ストップ。それ**<ruby>信頼<rt>しんらい</rt></ruby>の<ruby>自殺<rt>じさつ</rt></ruby><ruby>行為<rt>こうい</rt></ruby>**。**プロジェクトに『リスクなし』はあり<ruby>得<rt>え</rt></ruby>ない**。<ruby>書<rt>か</rt></ruby>いた<ruby>瞬間<rt>しゅんかん</rt></ruby>、<ruby>客<rt>きゃく</rt></ruby>は『この vendor <ruby>経験<rt>けいけん</rt></ruby>ない or <ruby>嘘<rt>うそ</rt></ruby>ついてる』のどちらかと<ruby>判断<rt>はんだん</rt></ruby>する。」 <br/>*Dừng lại. Đó là tự sát niềm tin đấy. Dự án không thể 「không có rủi ro」 được. Vừa viết là khách phán ngay 「bên cung cấp này non kinh nghiệm hoặc đang nói dối」.* |
+| **リン** | 「えっ、<ruby>客<rt>きゃく</rt></ruby>が<ruby>嫌<rt>いや</rt></ruby>がると<ruby>思<rt>おも</rt></ruby>って…」 <br/>*Ơ, em nghĩ khách ghét nghe rủi ro ạ...* |
+| **ズン** | 「**<ruby>逆<rt>ぎゃく</rt></ruby>**。リスクを**<ruby>正直<rt>しょうじき</rt></ruby>に<ruby>出<rt>だ</rt></ruby>す + <ruby>対策<rt>たいさく</rt></ruby>セット**で<ruby>出<rt>だ</rt></ruby>す<ruby>方<rt>ほう</rt></ruby>が<ruby>信頼<rt>しんらい</rt></ruby>される。**3-5<ruby>個<rt>こ</rt></ruby> + <ruby>各<rt>かく</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>**が<ruby>標準<rt>ひょうじゅん</rt></ruby>。」 <br/>*Ngược lại đấy. Nêu thẳng rủi ro + kèm đối sách = lấy được lòng tin hơn. Chuẩn là 3-5 cái + mỗi cái có đối sách.* |
 
-**Vì sao xấu:** "リスクなし" = tín hiệu "未経験 (chưa kinh nghiệm) / 嘘 (nói dối)". Khách Nhật dày dạn biết プロジェクトに必ずリスクある (dự án luôn có rủi ro) — vendor che giấu = "thiếu trung thực / thiếu năng lực". Lòng tin sụt ngay lập tức.
+**Vì sao xấu:** "リスクなし" = tín hiệu "未経験 (chưa kinh nghiệm) / 嘘 (nói dối)". Khách Nhật dày dạn biết プロジェクトに必ずリスクある (dự án luôn có rủi ro) — bên cung cấp che giấu = "thiếu trung thực / thiếu năng lực". Lòng tin sụt ngay lập tức.
 
 ---
 
-## ✅ Hội thoại TỐT — 4 risks + concrete mitigation
+## Hội thoại TỐT — 4 rủi ro + biện pháp đối phó cụ thể
 
 *revised*
 
 | Vai | Câu |
 |---------|-----|
-| **リン** | 「**4リスク**を<ruby>出<rt>だ</rt></ruby>しました【1】。①インフラ<ruby>移行<rt>いこう</rt></ruby> (<ruby>確率<rt>かくりつ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>・<ruby>影響<rt>えいきょう</rt></ruby><ruby>大<rt>だい</rt></ruby>) → <ruby>対策<rt>たいさく</rt></ruby>: <ruby>旧環境<rt>きゅうかんきょう</rt></ruby> parallel 3ヶ月。②データ<ruby>移行<rt>いこう</rt></ruby><ruby>欠損<rt>けっそん</rt></ruby> (<ruby>中<rt>ちゅう</rt></ruby>・<ruby>大<rt>だい</rt></ruby>) → リコンサイル<ruby>日次<rt>にちじ</rt></ruby><ruby>監査<rt>かんさ</rt></ruby>。③KPI<ruby>未達<rt>みたつ</rt></ruby> (<ruby>低<rt>てい</rt></ruby>・<ruby>中<rt>ちゅう</rt></ruby>) → <ruby>月次<rt>げつじ</rt></ruby><ruby>見直<rt>みなお</rt></ruby>し<ruby>再計画<rt>さいけいかく</rt></ruby><ruby>権利<rt>けんり</rt></ruby>。④<ruby>保守<rt>ほしゅ</rt></ruby><ruby>要員<rt>よういん</rt></ruby><ruby>依存<rt>いぞん</rt></ruby> (<ruby>低<rt>てい</rt></ruby>・<ruby>中<rt>ちゅう</rt></ruby>) → 2<ruby>名<rt>めい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の training。」 |
-|  | *Em đưa ra 4 risk ạ. ① Migrate infra (xác suất trung / tác động lớn) → đối sách: chạy song song env cũ 3 tháng. ② Mất data khi migrate (TB / lớn) → audit reconcile hàng ngày. ③ KPI không đạt (thấp / TB) → review hàng tháng + quyền re-plan. ④ Phụ thuộc nhân sự bảo trì (thấp / TB) → train 2+ người.* |
-| **ズン** | 「Perfect。**<ruby>確率<rt>かくりつ</rt></ruby>と<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>別<rt>べつ</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby>**してるのが<ruby>良<rt>よ</rt></ruby>い【2】。<ruby>確率<rt>かくりつ</rt></ruby><ruby>低<rt>てい</rt></ruby> + <ruby>影響<rt>えいきょう</rt></ruby><ruby>大<rt>だい</rt></ruby>は<ruby>別<rt>べつ</rt></ruby> column で highlight。」 |
-|  | *Perfect. Đánh giá xác suất + tác động riêng là tốt. 「Xác suất thấp + tác động lớn」 nên highlight ở column riêng.* |
-| **リン** | 「**<ruby>赤色<rt>あかいろ</rt></ruby>マーク**は『<ruby>確率<rt>かくりつ</rt></ruby><ruby>高<rt>こう</rt></ruby>×<ruby>影響<rt>えいきょう</rt></ruby><ruby>大<rt>だい</rt></ruby>』のセル？」 |
-|  | *Mark đỏ dùng cho cell 「xác suất cao × tác động lớn」 ạ?* |
-| **ズン** | 「うん、**<ruby>赤<rt>あか</rt></ruby>は『<ruby>要警戒<rt>ようけいかい</rt></ruby>』マーク<ruby>専用<rt>せんよう</rt></ruby>**【3】(rule 05 cross-ref)。ここなら<ruby>赤<rt>あか</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>適切<rt>てきせつ</rt></ruby>。」 |
-|  | *Đúng rồi, đỏ chỉ dành cho mark 「cần cảnh giác」 (cross-ref rule 05). Chỗ này dùng đỏ là đúng.* |
+| **リン** | 「**4リスク**を<ruby>出<rt>だ</rt></ruby>しました【1】。①インフラ<ruby>移行<rt>いこう</rt></ruby> (<ruby>確率<rt>かくりつ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>・<ruby>影響<rt>えいきょう</rt></ruby><ruby>大<rt>だい</rt></ruby>) → <ruby>対策<rt>たいさく</rt></ruby>: <ruby>旧環境<rt>きゅうかんきょう</rt></ruby> parallel 3ヶ月。②データ<ruby>移行<rt>いこう</rt></ruby><ruby>欠損<rt>けっそん</rt></ruby> (<ruby>中<rt>ちゅう</rt></ruby>・<ruby>大<rt>だい</rt></ruby>) → リコンサイル<ruby>日次<rt>にちじ</rt></ruby><ruby>監査<rt>かんさ</rt></ruby>。③KPI<ruby>未達<rt>みたつ</rt></ruby> (<ruby>低<rt>てい</rt></ruby>・<ruby>中<rt>ちゅう</rt></ruby>) → <ruby>月次<rt>げつじ</rt></ruby><ruby>見直<rt>みなお</rt></ruby>し<ruby>再計画<rt>さいけいかく</rt></ruby><ruby>権利<rt>けんり</rt></ruby>。④<ruby>保守<rt>ほしゅ</rt></ruby><ruby>要員<rt>よういん</rt></ruby><ruby>依存<rt>いぞん</rt></ruby> (<ruby>低<rt>てい</rt></ruby>・<ruby>中<rt>ちゅう</rt></ruby>) → 2<ruby>名<rt>めい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の training。」 <br/>*Em đưa ra 4 rủi ro ạ. ① Chuyển đổi hạ tầng (xác suất trung / tác động lớn) → biện pháp đối phó: chạy song song môi trường cũ 3 tháng. ② Mất dữ liệu khi chuyển đổi (TB / lớn) → kiểm toán đối chiếu hàng ngày. ③ KPI không đạt (thấp / TB) → duyệt lại hàng tháng + quyền lập kế hoạch lại. ④ Phụ thuộc nhân sự bảo trì (thấp / TB) → đào tạo 2+ người.* |
+| **ズン** | 「Perfect。**<ruby>確率<rt>かくりつ</rt></ruby>と<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>別<rt>べつ</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby>**してるのが<ruby>良<rt>よ</rt></ruby>い【2】。<ruby>確率<rt>かくりつ</rt></ruby><ruby>低<rt>てい</rt></ruby> + <ruby>影響<rt>えいきょう</rt></ruby><ruby>大<rt>だい</rt></ruby>は<ruby>別<rt>べつ</rt></ruby> column で highlight。」 <br/>*Hoàn hảo. Đánh giá xác suất + tác động riêng là tốt. 「Xác suất thấp + tác động lớn」 nên làm nổi bật ở cột riêng.* |
+| **リン** | 「**<ruby>赤色<rt>あかいろ</rt></ruby>マーク**は『<ruby>確率<rt>かくりつ</rt></ruby><ruby>高<rt>こう</rt></ruby>×<ruby>影響<rt>えいきょう</rt></ruby><ruby>大<rt>だい</rt></ruby>』のセル？」 <br/>*Dấu đỏ dùng cho ô 「xác suất cao × tác động lớn」 ạ?* |
+| **ズン** | 「うん、**<ruby>赤<rt>あか</rt></ruby>は『<ruby>要警戒<rt>ようけいかい</rt></ruby>』マーク<ruby>専用<rt>せんよう</rt></ruby>**【3】(rule 05 cross-ref)。ここなら<ruby>赤<rt>あか</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>として<ruby>適切<rt>てきせつ</rt></ruby>。」 <br/>*Đúng rồi, đỏ chỉ dành cho dấu 「cần cảnh giác」 (tham chiếu chéo rule 05). Chỗ này dùng đỏ là đúng.* |
 
-📝 **Ghi chú:**
+ **Ghi chú:**
 - 【1】**4-5 リスク** — 3個少ない、6個以上希薄化. 4-5 cái là điểm vàng (sweet spot).
 - 【2】**確率 × 影響** — đánh giá 2 chiều. 「確率低 + 影響大」 (xác suất thấp + tác động lớn) hay bị bỏ sót nhất và quan trọng.
 - 【3】**「赤は要警戒専用」** — đồng bộ với Rule 05 (色彩 — tâm lý màu sắc). Đỏ trang trí thì cấm, nhưng đỏ cảnh báo thì được.
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「3-5リスク × 確率 × 影響 × 対策。『リスクなし』は信頼の自殺。」**
 >
@@ -63,7 +55,7 @@ Slide 9 = risk slide. Linh draft → ghi "リスクは特にございません" 
 
 ---
 
-## 📐 Risk Matrix Template
+## Mẫu bảng rủi ro
 
 | # | リスク | 発生確率 | 影響度 | 対策 |
 |---|-------|---------|-------|------|
@@ -75,26 +67,26 @@ Slide 9 = risk slide. Linh draft → ghi "リスクは特にございません" 
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - "リスクなし" / "ご安心ください" → tự sát lòng tin
 - Rủi ro mơ hồ ("色々あります") → vô dụng
 - 対策 chỉ có ở 1 rủi ro → trông như giấu bớt
 - 対策 mơ hồ ("適切に対応") → không có cam kết
 - 6+ rủi ro → đối tượng nghe quá tải
-- Rủi ro chỉ gồm "ベンダー側のリスク" → cần cân bằng + bao gồm "クライアント側 (phía khách hàng)" (vd: chất lượng dữ liệu, trì hoãn ra quyết định)
+- Rủi ro chỉ gồm "ベンダー側のリスク" → cần cân bằng + bao gồm "クライアント側 (phía bên khách)" (vd: chất lượng dữ liệu, trì hoãn ra quyết định)
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 発生確率 | はっせいかくりつ | Xác suất xảy ra |
-| 影響度 | えいきょうど | Mức độ ảnh hưởng |
-| 対策 | たいさく | Đối sách |
-| 監査 | かんさ | Kiểm toán / audit |
-| 並行 (parallel) | へいこう | Song song |
-| 移行 | いこう | Di chuyển / migrate |
-| 欠損 | けっそん | Thiếu / mất mát |
-| 要警戒 | ようけいかい | Cần cảnh giác |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 発生確率 | はっせいかくりつ | PHÁT SINH XÁC SUẤT | Xác suất xảy ra |
+| 影響度 | えいきょうど | ẢNH HƯỞNG ĐỘ | Mức độ ảnh hưởng |
+| 対策 | たいさく | ĐỐI SÁCH | Đối sách |
+| 監査 | かんさ | GIÁM TRA | Kiểm toán |
+| 並行 | へいこう | TỊNH HÀNH | Song song |
+| 移行 | いこう | DI HÀNH | Di chuyển / chuyển đổi |
+| 欠損 | けっそん | KHUYẾT TỔN | Thiếu / mất mát |
+| 要警戒 | ようけいかい | YẾU CẢNH GIỚI | Cần cảnh giác |

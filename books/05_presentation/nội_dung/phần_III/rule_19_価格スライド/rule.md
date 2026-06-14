@@ -1,6 +1,6 @@
-# Rule 19 — Pricing slide tactful / 価格スライドの作り方
+# Rule 19 — Slide giá cả khéo léo / 価格スライドの作り方
 
-> **Luận điểm.** Cấu trúc 3 phần: **(1) Anchor** (lấy chi phí ngành / Phase 2 làm mốc tham chiếu), **(2) Tier** (ma trận 3 phương án với mức giá), **(3) ROI** (投資回収期間 + con số mức tiết kiệm). KHÔNG hiện giá trần trụi không có bối cảnh. Khách Nhật hỏi giá khó nhất — chuẩn bị **3 phản biện** cho phản đối "高い".
+> **Luận điểm.** Cấu trúc 3 phần: **(1) Neo giá** (lấy chi phí ngành / Phase 2 làm mốc tham chiếu), **(2) Bậc giá** (ma trận 3 phương án với mức giá), **(3) ROI** (投資回収期間 + con số mức tiết kiệm). KHÔNG hiện giá số trần không có bối cảnh. Khách Nhật hỏi giá khó nhất — chuẩn bị **3 phản biện** cho phản đối "高い".
 >
 > 価格スライドは3部構成: アンカー(基準値) → ティア(3案) → ROI(回収期間)。素の数字だけは出さない。「高い」反論への3答を準備。
 >
@@ -10,60 +10,52 @@
 
 ## Bối cảnh / 場面
 
-Slide 8 = pricing. Trong rehearsal, Hà CTO đóng giả vai Ōgaki ("anh Ōgaki sẽ chắc chắn nói 高い") — Dũng phải sẵn sàng.
+Slide 8 = giá cả. Trong buổi diễn tập, Hà CTO đóng giả vai Ōgaki ("anh Ōgaki sẽ chắc chắn nói 高い") — Dũng phải sẵn sàng.
 
 ---
 
-## ❌ Hội thoại XẤU — bare number + no anchor
+## Hội thoại XẤU — số trần + không neo giá
 
 *slide opens · 役: 大垣*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「Phase 3 のお<ruby>見積<rt>みつ</rt></ruby>りは **3,200万円**でございます。」 |
-|  | *Báo giá Phase 3 là 32 triệu yên ạ.* |
-| **ハーCTO** | 「**高いね**。Phase 2 は1,800万だったよね？」 |
-|  | *Đắt nhỉ. Phase 2 là 18 triệu mà đúng không?* |
-| **ズン** | 「えっと…機能が増えていますので…」 |
-|  | *Ờ... vì có thêm chức năng ạ...* |
-| **ハーCTO** | 「『機能が増えた』だけだと弱い。**ROI**は？<ruby>投資回収<rt>とうしかいしゅう</rt></ruby>期間？<ruby>削減<rt>さくげん</rt></ruby>効果の金額換算は？答え3つ用意していないと、ここで<ruby>折<rt>お</rt></ruby>れるよ。」 |
-|  | *Chỉ 「thêm chức năng」 thì yếu. ROI thì sao? Thời gian hoàn vốn? Quy ra tiền hiệu quả cắt giảm? Không sẵn 3 đáp án là gãy đàm phán ngay đây.* |
+| **ズン** | 「Phase 3 のお<ruby>見積<rt>みつ</rt></ruby>りは **3,200万円**でございます。」 <br/>*Báo giá Phase 3 là 32 triệu yên ạ.* |
+| **ハーCTO** | 「**高いね**。Phase 2 は1,800万だったよね？」 <br/>*Đắt nhỉ. Phase 2 là 18 triệu mà đúng không?* |
+| **ズン** | 「えっと…機能が増えていますので…」 <br/>*Ờ... vì có thêm chức năng ạ...* |
+| **ハーCTO** | 「『機能が増えた』だけだと弱い。**ROI**は？<ruby>投資回収<rt>とうしかいしゅう</rt></ruby>期間？<ruby>削減<rt>さくげん</rt></ruby>効果の金額換算は？答え3つ用意していないと、ここで<ruby>折<rt>お</rt></ruby>れるよ。」 <br/>*Chỉ 「thêm chức năng」 thì yếu. ROI thì sao? Thời gian hoàn vốn? Quy ra tiền hiệu quả cắt giảm? Không sẵn 3 đáp án là gãy đàm phán ngay đây.* |
 
-**Vì sao xấu:** Số trần trụi không có anchor → đối tượng tự động so sánh với cái họ biết (Phase 2 = 1,800万). Không có ROI → giá nghe chỉ như "chi phí". Không chuẩn bị phản biện cho 「高い」 → Dũng bị lắp bắp.
+**Vì sao xấu:** Số trần trụi không có neo giá → đối tượng tự động so sánh với cái họ biết (Phase 2 = 1,800万). Không có ROI → giá nghe chỉ như "chi phí". Không chuẩn bị phản biện cho 「高い」 → Dũng bị lắp bắp.
 
 ---
 
-## ✅ Hội thoại TỐT — anchor + tier + ROI
+## Hội thoại TỐT — neo giá + bậc giá + ROI
 
 *役: 大垣*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「価格の前に**3点ご説明**します。**(1) Anchor**: <ruby>業界平均<rt>ぎょうかいへいきん</rt></ruby> 1案件4,000万、Phase 2 は1,800万でした【1】。**(2) Tier**: A案2,400万 / B案3,200万(<ruby>推奨<rt>すいしょう</rt></ruby>) / C案4,800万。**(3) ROI**: B案で**年間1.2億円のロス削減**【2】見込み、**8ヶ月で投資回収**。」 |
-|  | *Trước khi báo giá em xin trình bày 3 điểm ạ. (1) Anchor: trung bình ngành 1 case 40 triệu yên, Phase 2 là 18 triệu. (2) Tier: case A 24 triệu / case B 32 triệu (recommend) / case C 48 triệu. (3) ROI: case B dự kiến giảm lỗ 120 triệu/năm, hoàn vốn 8 tháng.* |
-| **ハーCTO** | 「Phase 2 比で約2倍だね、なぜ？」 |
-|  | *Gần gấp đôi Phase 2 nhỉ, vì sao?* |
-| **ズン** | 「3点理由がございます【3】。①リアルタイム<ruby>同期<rt>どうき</rt></ruby>インフラの新規<ruby>構築<rt>こうちく</rt></ruby>、②機械学習アラートの<ruby>実装<rt>じっそう</rt></ruby>、③24/7サポート3年<ruby>付帯<rt>ふたい</rt></ruby>。Phase 2 は基本機能のみでした。」 |
-|  | *Có 3 lý do ạ. ① Xây mới hạ tầng đồng bộ realtime, ② implement machine learning alert, ③ kèm theo 3 năm support 24/7. Phase 2 chỉ có chức năng cơ bản ạ.* |
-| **ハーCTO** | 「うん、**3点回答**で説得力出る。Reherearsal 通った。本番もこの調子で。」 |
-|  | *Ờ, trả 3 điểm thế là có sức thuyết phục. Pass rehearsal rồi. Bữa thật giữ nhịp này nhé.* |
+| **ズン** | 「価格の前に**3点ご説明**します。**(1) Anchor**: <ruby>業界平均<rt>ぎょうかいへいきん</rt></ruby> 1案件4,000万、Phase 2 は1,800万でした【1】。**(2) Tier**: A案2,400万 / B案3,200万(<ruby>推奨<rt>すいしょう</rt></ruby>) / C案4,800万。**(3) ROI**: B案で**年間1.2億円のロス削減**【2】見込み、**8ヶ月で投資回収**。」 <br/>*Trước khi báo giá em xin trình bày 3 điểm ạ. (1) Neo giá: trung bình ngành 1 case 40 triệu yên, Phase 2 là 18 triệu. (2) Bậc giá: case A 24 triệu / case B 32 triệu (khuyến nghị) / case C 48 triệu. (3) ROI: case B dự kiến giảm lỗ 120 triệu/năm, hoàn vốn 8 tháng.* |
+| **ハーCTO** | 「Phase 2 比で約2倍だね、なぜ？」 <br/>*Gần gấp đôi Phase 2 nhỉ, vì sao?* |
+| **ズン** | 「3点理由がございます【3】。①リアルタイム<ruby>同期<rt>どうき</rt></ruby>インフラの新規<ruby>構築<rt>こうちく</rt></ruby>、②機械学習アラートの<ruby>実装<rt>じっそう</rt></ruby>、③24/7サポート3年<ruby>付帯<rt>ふたい</rt></ruby>。Phase 2 は基本機能のみでした。」 <br/>*Có 3 lý do ạ. ① Xây mới hạ tầng đồng bộ realtime, ② implement machine learning alert, ③ kèm theo 3 năm support 24/7. Phase 2 chỉ có chức năng cơ bản ạ.* |
+| **ハーCTO** | 「うん、**3点回答**で説得力出る。Reherearsal 通った。本番もこの調子で。」 <br/>*Ờ, trả 3 điểm thế là có sức thuyết phục. Pass rehearsal rồi. Bữa thật giữ nhịp này nhé.* |
 
-📝 **Ghi chú:**
-- 【1】**Anchor** — 業界平均 + 自社過去 cùng đặt → "B案 3,200万 = mức hời nếu xét trong bối cảnh".
+ **Ghi chú:**
+- 【1】**Neo giá** — 業界平均 + 自社過去 cùng đặt → "B案 3,200万 = mức hời nếu xét trong bối cảnh".
 - 【2】**ROI = mức tiết kiệm / giá** — 年間ロス削減 ÷ 投資 = 回収月数. "1.2億÷3,200万 ≈ 8ヶ月".
 - 【3】**「3点理由」** — phản biện 「高い」 LUÔN dùng cấu trúc 3 điểm. Tham chiếu chéo sách 03 rule 27.
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「価格の前にAnchor → Tier → ROI 3点。「高い」<ruby>反論<rt>はんろん</rt></ruby>には3点理由で答える。」**
 >
-> *Trước số phải có Anchor → Tier → ROI. Phản biện "高い" cần sẵn 3 điểm lý do.*
+> *Trước số phải có Neo giá → Bậc giá → ROI. Phản biện "高い" cần sẵn 3 điểm lý do.*
 
 ---
 
-## 📐 価格スライド3パート構成
+## 価格スライド3パート構成
 
 ```
 ■ Part 1 — Anchor (基準)
@@ -98,25 +90,25 @@ Slide 8 = pricing. Trong rehearsal, Hà CTO đóng giả vai Ōgaki ("anh Ōgaki
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
-- Đưa số trước, không anchor = bị sốc giá
+- Đưa số trước, không neo giá = bị sốc giá
 - Chỉ 1 phương án → đối tượng cảm thấy "chấp nhận hoặc thôi"
 - Thiếu ROI → câu "それ cost じゃなくて investment" (đây không phải chi phí mà là đầu tư) nói không thuyết phục
 - Không chuẩn bị phản biện "高い" → đứng hình trên sân khấu
-- 値引き 即答 (trả lời giảm giá ngay "じゃあ 100万引きます") → bị nhìn như "vendor giá phù phép"
+- 値引き 即答 (trả lời giảm giá ngay "じゃあ 100万引きます") → bị nhìn như "bên cung cấp giá phù phép"
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 見積り | みつもり | Báo giá |
-| 投資回収 | とうしかいしゅう | Hoàn vốn |
-| 削減効果 | さくげんこうか | Hiệu quả cắt giảm |
-| 業界平均 | ぎょうかいへいきん | Trung bình ngành |
-| 反論 | はんろん | Phản biện |
-| 付帯 | ふたい | Đi kèm |
-| 累計 | るいけい | Cộng dồn |
-| 折れる | おれる | Bị bẻ / chùn (đàm phán) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 見積り | みつもり | — | Báo giá |
+| 投資回収 | とうしかいしゅう | ĐẦU TƯ HỒI THU | Hoàn vốn |
+| 削減効果 | さくげんこうか | TƯỚC GIẢM HIỆU QUẢ | Hiệu quả cắt giảm |
+| 業界平均 | ぎょうかいへいきん | NGHIỆP GIỚI BÌNH QUÂN | Trung bình ngành |
+| 反論 | はんろん | PHẢN LUẬN | Phản biện |
+| 付帯 | ふたい | PHÓ ĐỚI | Đi kèm |
+| 累計 | るいけい | LŨY KẾ | Cộng dồn |
+| 折れる | おれる | — | Bị bẻ / chùn (đàm phán) |

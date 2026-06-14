@@ -1,0 +1,20 @@
+/* ===== CSS tỉ lệ cột bảng — TỰ SINH bởi analyze_tables.py ===== */
+/* KHÔNG sửa tay file này; chỉnh số đo qua nội dung .md rồi build lại. */
+
+/* Mục | Nội dung  (1 bảng, 21 / 79) */
+table.t-m-c-daf95f { table-layout: fixed; }
+table.t-m-c-daf95f td:nth-child(1), table.t-m-c-daf95f th:nth-child(1) { width: 21% !important; }
+table.t-m-c-daf95f td:nth-child(2), table.t-m-c-daf95f th:nth-child(2) { width: 79% !important; }
+
+/* Phía tường (xa cửa) | Ghế | Ghế | Ghế  (1 bảng, 61 / 13 / 13 / 13) */
+table.t-ph-a-t-ng-xa-f2fe1e { table-layout: fixed; }
+table.t-ph-a-t-ng-xa-f2fe1e td:nth-child(1), table.t-ph-a-t-ng-xa-f2fe1e th:nth-child(1) { width: 61% !important; }
+table.t-ph-a-t-ng-xa-f2fe1e td:nth-child(2), table.t-ph-a-t-ng-xa-f2fe1e th:nth-child(2) { width: 13% !important; }
+table.t-ph-a-t-ng-xa-f2fe1e td:nth-child(3), table.t-ph-a-t-ng-xa-f2fe1e th:nth-child(3) { width: 13% !important; }
+table.t-ph-a-t-ng-xa-f2fe1e td:nth-child(4), table.t-ph-a-t-ng-xa-f2fe1e th:nth-child(4) { width: 13% !important; }
+
+/* Phần | Tên | Số rule  (1 bảng, 13 / 74 / 13) */
+table.t-ph-n-6d8aa1 { table-layout: fixed; }
+table.t-ph-n-6d8aa1 td:nth-child(1), table.t-ph-n-6d8aa1 th:nth-child(1) { width: 13% !important; }
+table.t-ph-n-6d8aa1 td:nth-child(2), table.t-ph-n-6d8aa1 th:nth-child(2) { width: 74% !important; }
+table.t-ph-n-6d8aa1 td:nth-child(3), table.t-ph-n-6d8aa1 th:nth-child(3) { width: 13% !important; }

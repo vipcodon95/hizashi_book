@@ -1,10 +1,10 @@
 # Rule 07 — Pre-meeting alignment nội bộ / 事前社内すり合わせ
 
-> **Luận điểm.** Trước khi đối diện khách, **đội nội bộ phải thống nhất 100%**: ai nói gì, ai im khi nào, walk-away được duyệt, chuỗi bậc nhượng bộ thống nhất. Khách Nhật phát hiện mâu thuẫn nội bộ trong 5 phút → đòn bẩy để chia rẽ.
+> **Luận điểm.** Trước khi đối diện khách, **đội nội bộ phải thống nhất 100%**: ai nói gì, ai im khi nào, điểm rút lui được duyệt, chuỗi bậc nhượng bộ thống nhất. Khách Nhật phát hiện mâu thuẫn nội bộ trong 5 phút → lợi thế để chia rẽ.
 >
-> 商談前の社内すり合わせは『誰が何を言う・誰がいつ黙る・撤退ライン承認・譲歩順序』を全員一致させる作業。社内の不一致を相手に見られたら leverage 取られる。
+> 商談前の社内すり合わせは『誰が何を言う・誰がいつ黙る・撤退ライン承認・譲歩順序』を全員一致させる作業。社内の不一致を相手に見られたら相手に利用される。
 >
-> **Liên quan:** sách 04 全般, rule 01 (BATNA), rule 09 (concession plan).
+> **Liên quan:** sách 04 全般, rule 01 (BATNA), rule 09 (kế hoạch nhượng bộ).
 
 ---
 
@@ -14,7 +14,7 @@ Sáng đàm phán Phase 3 lúc 9:00, đàm phán 14:00 với 大垣 + 中村 CFO
 
 ---
 
-## ❌ Hội thoại XẤU — không align trước, mâu thuẫn trong phòng
+## Hội thoại XẤU — không align trước, mâu thuẫn trong phòng
 
 | | Vai | Câu (đàm phán cùng khách) |
 |--|---------|-----|
@@ -23,17 +23,17 @@ Sáng đàm phán Phase 3 lúc 9:00, đàm phán 14:00 với 大垣 + 中村 CFO
 | **L2** | **ズン** | 「¥15M ですか…ちょっと<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り…」 |
 |  |  | *¥15M ạ... em xin phép mang về xem xét...* |
 | **L3** | **トゥアン** *(口を挟む)* | 「¥16M なら<ruby>出<rt>だ</rt></ruby>せますよ、scope <ruby>削<rt>けず</rt></ruby>れば。」 |
-|  |  | *¥16M là được đó, cắt scope đi.* |
+|  |  | *¥16M là được đó, cắt bớt phạm vi đi.* |
 | **L4** | **大垣** *(微笑)* | 「あ、トゥアンさんは ¥16M でいけるんですね。じゃあそれでお<ruby>願<rt>ねが</rt></ruby>いします。」 |
 |  |  | *À, anh Tuấn nói ¥16M được. Vậy chốt như vậy nhé.* |
 | **L5** | **ズン** *(顔色変)* | 「いえ、ちょっと…<ruby>社内<rt>しゃない</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>を…」 |
 |  |  | *Dạ không, em xin phép... xác nhận nội bộ...* |
 
-**Vì sao xấu:** Tuấn không biết walk-away ¥15M, không biết chuỗi bậc nhượng bộ. Tự ý báo giá ¥16M trong phòng → 大垣 chốt ngay. Dũng mất kiểm soát. Phải thống nhất trước: **Tuấn KHÔNG được báo giá**, chỉ Dũng báo giá, Tuấn trả lời phần kỹ thuật.
+**Vì sao xấu:** Tuấn không biết điểm rút lui ¥15M, không biết chuỗi bậc nhượng bộ. Tự ý báo giá ¥16M trong phòng → 大垣 chốt ngay. Dũng mất kiểm soát. Phải thống nhất trước: **Tuấn KHÔNG được báo giá**, chỉ Dũng báo giá, Tuấn trả lời phần kỹ thuật.
 
 ---
 
-## ✅ Hội thoại TỐT — pre-meeting alignment 60 phút
+## Hội thoại TỐT — pre-meeting alignment 60 phút
 
 | | Vai | Câu (họp nội bộ 9:00) |
 |--|---------|-----|
@@ -42,49 +42,49 @@ Sáng đàm phán Phase 3 lúc 9:00, đàm phán 14:00 với 大垣 + 中村 CFO
 | **L2** | **ハー CTO** | 「<ruby>価格発言<rt>かかくはつげん</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>がしてもいけない。ズン<ruby>以外<rt>いがい</rt></ruby>は『<ruby>社内確認<rt>しゃないかくにん</rt></ruby>させてください』で<ruby>受<rt>う</rt></ruby>ける。」 |
 |  |  | *Trừ Dũng, không ai được phát ngôn về giá. Mọi người khác chỉ nói 'cho phép em xác nhận nội bộ'.* |
 | **L3** | **ズン** | 「<ruby>了解<rt>りょうかい</rt></ruby>です。**<ruby>譲歩順序<rt>じょうほじゅんじょ</rt></ruby>**【2】も<ruby>再確認<rt>さいかくにん</rt></ruby>:【ステップ1】¥19M anchor → <ruby>反応見<rt>はんのうみ</rt></ruby>る、【ステップ2】¥18M target、【ステップ3】¥17M with scope -10%、【ステップ4】¥16M with scope -20% + extra trade、**¥15M <ruby>以下<rt>いか</rt></ruby>は<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り、その<ruby>場<rt>ば</rt></ruby>で yes <ruby>言<rt>い</rt></ruby>わない**。」 |
-|  |  | *Em rõ. Em confirm lại thứ tự nhượng bộ: B1 anchor ¥19M, B2 target ¥18M, B3 ¥17M kèm scope -10%, B4 ¥16M kèm scope -20% + trade thêm, dưới ¥15M là mang về xem xét, không nói yes tại chỗ.* |
+|  |  | *Em rõ. Em xác nhận lại thứ tự nhượng bộ: Bước 1 neo giá ¥19M, Bước 2 mục tiêu ¥18M, Bước 3 ¥17M kèm phạm vi -10%, Bước 4 ¥16M kèm phạm vi -20% + trao đổi thêm, dưới ¥15M là mang về xem xét, không nói có tại chỗ.* |
 | **L4** | **フオン** | 「¥15M <ruby>以下出<rt>いかで</rt></ruby>てきたら、ハー CTO に<ruby>振<rt>ふ</rt></ruby>る。『<ruby>弊社<rt>へいしゃ</rt></ruby> CTO に<ruby>確認<rt>かくにん</rt></ruby>させてください』で<ruby>時間取<rt>じかんと</rt></ruby>る【3】。」 |
 |  |  | *Nếu khách đẩy dưới ¥15M, đẩy sang anh Hà CTO. Dùng câu 'cho phép em xác nhận với CTO bên em' để mua thời gian.* |
 | **L5** | **トゥアン** | 「<ruby>私<rt>わたし</rt></ruby>は<ruby>技術以外<rt>ぎじゅついがい</rt></ruby>、<ruby>絶対黙<rt>ぜったいだま</rt></ruby>ります。」 |
 |  |  | *Ngoài phần kỹ thuật, em im hoàn toàn.* |
 | **L6** | **ズン** | 「<ruby>最後<rt>さいご</rt></ruby>、**<ruby>沈黙<rt>ちんもく</rt></ruby>の<ruby>合図<rt>あいず</rt></ruby>**【4】: <ruby>私<rt>わたし</rt></ruby>が<ruby>右手<rt>みぎて</rt></ruby>を<ruby>膝<rt>ひざ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いたら<ruby>全員黙<rt>ぜんいんだま</rt></ruby>って 7 <ruby>秒待<rt>びょうま</rt></ruby>つ。OK?」 |
-|  |  | *Cuối cùng, signal im lặng: em đặt tay phải lên đùi là mọi người im 7 giây. OK?* |
+|  |  | *Cuối cùng, tín hiệu im lặng: em đặt tay phải lên đùi là mọi người im 7 giây. OK?* |
 | **L7** | **全員** | 「OK。」 |
 |  |  | *OK.* |
 
-📝 **Ghi chú:**
+ **Ghi chú:**
 - 【1】**役割確認** = ai nói gì + ai im khi nào. Tránh kiểu "ai cũng được nói" — đó là thảm họa.
-- 【2】**譲歩順序** = chuỗi bậc cụ thể, mỗi nấc có điều kiện + trade. KHÔNG phải "giảm dần".
-- 【3】**Câu escalation** "弊社 CTO に確認させてください" — câu trống dùng để mua thời gian, đã thống nhất trước.
+- 【2】**譲歩順序** = chuỗi bậc cụ thể, mỗi nấc có điều kiện + trao đổi. KHÔNG phải "giảm dần".
+- 【3】**Câu leo thang** "弊社 CTO に確認させてください" — câu đệm dùng để mua thời gian, đã thống nhất trước.
 - 【4】**Tín hiệu im lặng** = tín hiệu vật lý (tay/bút) để cả đội biết "lúc này im, đừng cứu vớt". Cực quan trọng.
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「<ruby>役割<rt>やくわり</rt></ruby>・<ruby>譲歩順<rt>じょうほじゅん</rt></ruby>・<ruby>撤退<rt>てったい</rt></ruby>ライン・<ruby>沈黙合図<rt>ちんもくあいず</rt></ruby>、4<ruby>点<rt>てん</rt></ruby>を<ruby>社内<rt>しゃない</rt></ruby>で100%<ruby>一致<rt>いっち</rt></ruby>させてから<ruby>入室<rt>にゅうしつ</rt></ruby>。」**
 >
-> *Vai trò / thứ tự nhượng bộ / walk-away / signal im lặng — 4 điểm align 100% trước khi vào phòng.*
+> *Vai trò / thứ tự nhượng bộ / điểm rút lui / tín hiệu im lặng — 4 điểm thống nhất 100% trước khi vào phòng.*
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - "Ứng biến trong phòng cũng được" → 大垣 nhạy bén đọc được trong 3 phút
 - Tuấn (phụ trách kỹ thuật) báo giá → mất kiểm soát vĩnh viễn
-- Quên thống nhất câu escalation → khách hỏi khó, mỗi người trả lời khác
+- Quên thống nhất câu leo thang → khách hỏi khó, mỗi người trả lời khác
 - Không có tín hiệu vật lý → trong phòng không thể "suỵt" miệng nhau
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| すり合わせ | すりあわせ | Thống nhất / họp align trước đàm phán |
-| 役割確認 | やくわりかくにん | Xác nhận vai trò |
-| 譲歩順序 | じょうほじゅんじょ | Thứ tự nhượng bộ |
-| 撤退ライン | てったいライン | Mức rút lui (walk-away) |
-| エスカレーション | esukarēshon | Trình lên cấp trên (escalation) |
-| 沈黙の合図 | ちんもくのあいず | Tín hiệu im lặng |
-| 一致させる | いっちさせる | Làm cho đồng nhất |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| すり合わせ | すりあわせ | — | Thống nhất trước đàm phán |
+| 役割確認 | やくわりかくにん | DỊCH CÁT XÁC NHẬN | Xác nhận vai trò |
+| 譲歩順序 | じょうほじゅんじょ | NHƯỢNG BỘ THUẬN TỰ | Thứ tự nhượng bộ |
+| 撤退ライン | てったいライン | TRIỆT THOÁI — | Mức rút lui |
+| エスカレーション | エスカレーション | — | Trình lên cấp trên |
+| 沈黙の合図 | ちんもくのあいず | TRẦM MẶC HỢP ĐỒ | Tín hiệu im lặng |
+| 一致させる | いっちさせる | NHẤT TRÍ — | Làm cho đồng nhất |

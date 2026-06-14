@@ -1,10 +1,10 @@
 # Rule 20 — Đặt câu hỏi 5W1H / 質問の5W1H
 
-> **Luận điểm.** Câu hỏi vòng vo = lãng phí thời gian họp. Hỏi chuẩn business JP cần (1) **đóng khung 5W1H** rõ — who/what/when/where/why/how, (2) **1 câu hỏi 1 lần**, (3) **mở bằng** 「〜について確認させていただきたいのですが」 và **đóng bằng** 「〜でしょうか？」.
+> **Luận điểm.** Câu hỏi vòng vo = lãng phí thời gian họp. Hỏi chuẩn trong tiếng Nhật công sở cần (1) **đóng khung 5W1H** rõ — ai/cái gì/khi nào/ở đâu/tại sao/thế nào, (2) **1 câu hỏi 1 lần**, (3) **mở bằng** 「〜について確認させていただきたいのですが」 và **đóng bằng** 「〜でしょうか？」.
 >
 > 質問は5W1Hを絞り、1問1答が原則。「〜について確認させていただきたいのですが、〜でしょうか？」が標準形。
 >
-> **Liên quan:** Rule 19 (xin lượt), Rule 21 (clarification), Rule 28 (xin data).
+> **Liên quan:** Rule 19 (xin lượt), Rule 21 (xin hỏi lại cho rõ), Rule 28 (xin dữ liệu).
 
 ---
 
@@ -14,43 +14,36 @@ Em Dũng đang nghe anh Ōgaki trình bày phạm vi giai đoạn 2. Em muốn h
 
 ---
 
-## ❌ Hội thoại XẤU — câu hỏi vòng vo, gộp nhiều câu
+## Hội thoại XẤU — câu hỏi vòng vo, gộp nhiều câu
 
 *hơi khó chịu*
 
 | Vai | Câu |
 |---------|-----|
-| **大垣** | 「Phase 2では、<ruby>新規<rt>しんき</rt></ruby>モジュールを3つ<ruby>追加<rt>ついか</rt></ruby><ruby>予定<rt>よてい</rt></ruby>です。」 |
-|  | *Phase 2 chúng tôi dự kiến thêm 3 module mới.* |
-| **ズン** | 「あ、それで、いつとか<ruby>誰<rt>だれ</rt></ruby>がとか、あと<ruby>何<rt>なん</rt></ruby>の<ruby>機能<rt>きのう</rt></ruby>で、どこにデプロイするかとか、<ruby>色々<rt>いろいろ</rt></ruby>お<ruby>聞<rt>き</rt></ruby>きしたいのですが…」 |
-|  | *À thế thì, khi nào ấy, ai làm ấy, rồi tính năng gì, deploy ở đâu, em muốn hỏi nhiều thứ ạ...* |
-| **大垣** | 「…<ruby>一<rt>ひと</rt></ruby>つずつお<ruby>願<rt>ねが</rt></ruby>いできますか？」 |
-|  | *...Phiền Dũng hỏi từng câu một được không?* |
+| **大垣** | 「Phase 2では、<ruby>新規<rt>しんき</rt></ruby>モジュールを3つ<ruby>追加<rt>ついか</rt></ruby><ruby>予定<rt>よてい</rt></ruby>です。」 <br/>*Phase 2 chúng tôi dự kiến thêm 3 module mới.* |
+| **ズン** | 「あ、それで、いつとか<ruby>誰<rt>だれ</rt></ruby>がとか、あと<ruby>何<rt>なん</rt></ruby>の<ruby>機能<rt>きのう</rt></ruby>で、どこにデプロイするかとか、<ruby>色々<rt>いろいろ</rt></ruby>お<ruby>聞<rt>き</rt></ruby>きしたいのですが…」 <br/>*À thế thì, khi nào ấy, ai làm ấy, rồi tính năng gì, deploy ở đâu, em muốn hỏi nhiều thứ ạ...* |
+| **大垣** | 「…<ruby>一<rt>ひと</rt></ruby>つずつお<ruby>願<rt>ねが</rt></ruby>いできますか？」 <br/>*...Phiền Dũng hỏi từng câu một được không?* |
 
 **Vì sao xấu:** Hỏi 4 câu (when / who / what / where) trong 1 câu → đối phương không biết trả lời cái nào trước. 「色々」 mơ hồ → không chuyên nghiệp.
 
 ---
 
-## ✅ Hội thoại TỐT — đóng khung từng câu hỏi
+## Hội thoại TỐT — đóng khung từng câu hỏi
 
 | Vai | Câu |
 |---------|-----|
-| **大垣** | 「Phase 2では、<ruby>新規<rt>しんき</rt></ruby>モジュールを3つ<ruby>追加<rt>ついか</rt></ruby><ruby>予定<rt>よてい</rt></ruby>です。」 |
-|  | *Phase 2 chúng tôi dự kiến thêm 3 module mới.* |
-| **ズン** | 「ありがとうございます。3<ruby>点<rt>てん</rt></ruby>、<ruby>順番<rt>じゅんばん</rt></ruby>にお<ruby>伺<rt>うかが</rt></ruby>いしたく<ruby>存<rt>ぞん</rt></ruby>じます【1】。まず、リリース<ruby>予定日<rt>よていび</rt></ruby>について<ruby>確認<rt>かくにん</rt></ruby>させていただきたいのですが、いつ<ruby>頃<rt>ごろ</rt></ruby>をお<ruby>考<rt>かんが</rt></ruby>えでしょうか【2】？」 |
-|  | *Cảm ơn anh. Em xin được hỏi 3 điểm theo thứ tự ạ. Đầu tiên, về ngày dự kiến release, anh đang nghĩ khoảng bao giờ ạ?* |
-| **大垣** | 「7<ruby>月末<rt>がつまつ</rt></ruby>を<ruby>目標<rt>もくひょう</rt></ruby>にしています。」 |
-|  | *Chúng tôi đặt mục tiêu cuối tháng 7.* |
-| **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。<ruby>次<rt>つぎ</rt></ruby>に、<ruby>白鷗<rt>はくおう</rt></ruby><ruby>様<rt>さま</rt></ruby>側の<ruby>主担当<rt>しゅたんとう</rt></ruby>はどなた<ruby>様<rt>さま</rt></ruby>になりますでしょうか？」 |
-|  | *Vâng em rõ ạ. Tiếp theo, người phụ trách chính bên 白鷗 sẽ là ai ạ?* |
+| **大垣** | 「Phase 2では、<ruby>新規<rt>しんき</rt></ruby>モジュールを3つ<ruby>追加<rt>ついか</rt></ruby><ruby>予定<rt>よてい</rt></ruby>です。」 <br/>*Phase 2 chúng tôi dự kiến thêm 3 module mới.* |
+| **ズン** | 「ありがとうございます。3<ruby>点<rt>てん</rt></ruby>、<ruby>順番<rt>じゅんばん</rt></ruby>にお<ruby>伺<rt>うかが</rt></ruby>いしたく<ruby>存<rt>ぞん</rt></ruby>じます【1】。まず、リリース<ruby>予定日<rt>よていび</rt></ruby>について<ruby>確認<rt>かくにん</rt></ruby>させていただきたいのですが、いつ<ruby>頃<rt>ごろ</rt></ruby>をお<ruby>考<rt>かんが</rt></ruby>えでしょうか【2】？」 <br/>*Cảm ơn anh. Em xin được hỏi 3 điểm theo thứ tự ạ. Đầu tiên, về ngày dự kiến release, anh đang nghĩ khoảng bao giờ ạ?* |
+| **大垣** | 「7<ruby>月末<rt>がつまつ</rt></ruby>を<ruby>目標<rt>もくひょう</rt></ruby>にしています。」 <br/>*Chúng tôi đặt mục tiêu cuối tháng 7.* |
+| **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。<ruby>次<rt>つぎ</rt></ruby>に、<ruby>白鷗<rt>はくおう</rt></ruby><ruby>様<rt>さま</rt></ruby>側の<ruby>主担当<rt>しゅたんとう</rt></ruby>はどなた<ruby>様<rt>さま</rt></ruby>になりますでしょうか？」 <br/>*Vâng em rõ ạ. Tiếp theo, người phụ trách chính bên 白鷗 sẽ là ai ạ?* |
 
-📝 **Ghi chú:**
+ **Ghi chú:**
 - 【1】**「3点、順番にお伺いしたく存じます」** — báo trước số câu hỏi để đối phương quản lý nhịp + biết là không lan man.
 - 【2】**「〜について確認させていただきたいのですが、〜でしょうか？」** — cấu trúc chuẩn: mở khung → câu hỏi cụ thể.
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「〜について<ruby>確認<rt>かくにん</rt></ruby>させていただきたいのですが、〜でしょうか？」**
 >
@@ -58,7 +51,7 @@ Em Dũng đang nghe anh Ōgaki trình bày phạm vi giai đoạn 2. Em muốn h
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - Gộp 3-4 câu hỏi vào 1 câu → rối.
 - Dùng 「色々」「とか」「あと」 — câu hỏi mất sắc nét.
@@ -66,12 +59,12 @@ Em Dũng đang nghe anh Ōgaki trình bày phạm vi giai đoạn 2. Em muốn h
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 順番に | じゅんばんに | Theo thứ tự |
-| お伺いする | おうかがいする | Xin được hỏi (kenjō) |
-| 主担当 | しゅたんとう | Người phụ trách chính |
-| リリース予定日 | リリースよていび | Ngày dự kiến release |
-| デプロイ | depuroi | Deploy |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 順番に | じゅんばんに | THUẬN PHIÊN | Theo thứ tự |
+| お伺いする | おうかがいする | — | Xin được hỏi (kenjō) |
+| 主担当 | しゅたんとう | CHỦ ĐẢM ĐƯƠNG | Người phụ trách chính |
+| リリース予定日 | リリースよていび | — | Ngày dự kiến release |
+| デプロイ | でぷろい | — | Deploy |

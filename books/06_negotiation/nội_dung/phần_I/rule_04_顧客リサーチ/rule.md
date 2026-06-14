@@ -1,6 +1,6 @@
 # Rule 04 — Thu thập intel khách / 顧客リサーチ
 
-> **Luận điểm.** Trước đàm phán phải biết: **(1) Decision-makers** (決裁ライン), **(2) Budget cycle** (年度予算 4-3月), **(3) Competitor presence** (đối thủ nào cũng pitch), **(4) Recent business news** (IR, M&A, sa thải). Thiếu 1 trong 4 = bước vào phòng mù 25%.
+> **Luận điểm.** Trước đàm phán phải biết: **(1) Người quyết định** (決裁ライン), **(2) Chu kỳ ngân sách** (年度予算 4-3月), **(3) Đối thủ** (đối thủ nào cũng đang chào hàng), **(4) Tin tức kinh doanh gần đây** (IR, M&A, sa thải). Thiếu 1 trong 4 = bước vào phòng mù 25%.
 >
 > 交渉前に4軸 (決裁者・予算サイクル・競合・直近業績) を必ず調査する。一つでも欠けると譲歩判断を誤る。
 >
@@ -10,49 +10,41 @@
 
 ## Bối cảnh / 場面
 
-3 ngày trước đàm phán Phase 3. Hương kiểm tra Dũng đã chuẩn bị intel chưa. Dũng tự tin "đã biết khách 2 năm rồi", nhưng Hương đẩy thêm 4 câu hỏi.
+3 ngày trước đàm phán Phase 3. Hương kiểm tra Dũng đã chuẩn bị thông tin nền chưa. Dũng tự tin "đã biết khách 2 năm rồi", nhưng Hương đẩy thêm 4 câu hỏi.
 
 ---
 
-## ❌ Hội thoại XẤU — "đã biết khách rồi"
+## Hội thoại XẤU — "đã biết khách rồi"
 
 | Vai | Câu |
 |---------|-----|
-| **フオン** | 「<ruby>白鷗<rt>はくおう</rt></ruby>の<ruby>今期<rt>こんき</rt></ruby> IR、見た？」 |
-|  | *IR kỳ này của Hakuō em đã xem chưa?* |
-| **ズン** | 「IR…まだです。Phase 2 は私が<ruby>担当<rt>たんとう</rt></ruby>だったので白鷗のことは知ってます。」 |
-|  | *IR... em chưa ạ. Phase 2 em phụ trách rồi nên biết Hakuō ạ.* |
-| **フオン** | 「Phase 2 担当 ≠ 今の白鷗を知ってる、じゃない。**先月 IR で<ruby>営業利益<rt>えいぎょうりえき</rt></ruby> -12%、<ruby>圧縮<rt>あっしゅく</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>**って<ruby>公表<rt>こうひょう</rt></ruby>されてる。これ知らずに ¥18M 出すと『高い』って言われる<ruby>準備<rt>じゅんび</rt></ruby><ruby>不足<rt>ぶそく</rt></ruby>。」 |
-|  | *Phụ trách Phase 2 ≠ biết Hakuō hiện tại. Tháng trước IR công bố lợi nhuận hoạt động -12%, đang nén chi phí. Không biết điều này mà ra ¥18M là sẽ bị 'đắt' — chuẩn bị thiếu.* |
-| **ズン** | 「あ、すみません…」 |
-|  | *À, em xin lỗi ạ...* |
+| **フオン** | 「<ruby>白鷗<rt>はくおう</rt></ruby>の<ruby>今期<rt>こんき</rt></ruby> IR、見た？」 <br/>*IR kỳ này của Hakuō em đã xem chưa?* |
+| **ズン** | 「IR…まだです。Phase 2 は私が<ruby>担当<rt>たんとう</rt></ruby>だったので白鷗のことは知ってます。」 <br/>*IR... em chưa ạ. Phase 2 em phụ trách rồi nên biết Hakuō ạ.* |
+| **フオン** | 「Phase 2 担当 ≠ 今の白鷗を知ってる、じゃない。**先月 IR で<ruby>営業利益<rt>えいぎょうりえき</rt></ruby> -12%、<ruby>圧縮<rt>あっしゅく</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>**って<ruby>公表<rt>こうひょう</rt></ruby>されてる。これ知らずに ¥18M 出すと『高い』って言われる<ruby>準備<rt>じゅんび</rt></ruby><ruby>不足<rt>ぶそく</rt></ruby>。」 <br/>*Phụ trách Phase 2 ≠ biết Hakuō hiện tại. Tháng trước IR công bố lợi nhuận hoạt động -12%, đang nén chi phí. Không biết điều này mà ra ¥18M là sẽ bị 'đắt' — chuẩn bị thiếu.* |
+| **ズン** | 「あ、すみません…」 <br/>*À, em xin lỗi ạ...* |
 
 **Vì sao xấu:** "Đã biết khách 2 năm" = quá khứ. Khách là tổ chức sống, IR/M&A/sa thải thay đổi bối cảnh mỗi quý. Dũng không cập nhật → vào phòng với hình dung lệch 6 tháng.
 
 ---
 
-## ✅ Hội thoại TỐT — 4-axis intel sheet
+## Hội thoại TỐT — phiếu thông tin 4 trục
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、白鷗の **4<ruby>軸<rt>じく</rt></ruby>インテルシート**【1】を<ruby>更新<rt>こうしん</rt></ruby>しました。」 |
-|  | *Chị Hương, em đã cập nhật intel sheet 4 trục của Hakuō ạ.* |
-| **フオン** | 「<ruby>読<rt>よ</rt></ruby>み上げて。」 |
-|  | *Em đọc lên đi.* |
-| **ズン** | 「(1) <ruby>決裁<rt>けっさい</rt></ruby>ライン: ¥10M <ruby>超<rt>ちょう</rt></ruby>は中村 CFO 決裁、それ以下は<ruby>大垣<rt>おおがき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby><ruby>権限<rt>けんげん</rt></ruby>【2】。今回 ¥18M なので CFO 通る。(2) <ruby>予算<rt>よさん</rt></ruby>サイクル: 白鷗は 4月-3月、<ruby>現在<rt>げんざい</rt></ruby> 4 月<ruby>初旬<rt>しょじゅん</rt></ruby>で **<ruby>新年度<rt>しんねんど</rt></ruby> IT 予算は通ったばかり**【3】、<ruby>追加<rt>ついか</rt></ruby><ruby>要求<rt>ようきゅう</rt></ruby>しやすい<ruby>時期<rt>じき</rt></ruby>。(3) <ruby>競合<rt>きょうごう</rt></ruby>: <ruby>大手<rt>おおて</rt></ruby> SIer Y 社がパラレルに pitch 中、<ruby>見積<rt>みつもり</rt></ruby> ¥22M との<ruby>噂<rt>うわさ</rt></ruby>【4】。(4) <ruby>直近業績<rt>ちょっきんぎょうせき</rt></ruby>: 先月 IR で営業利益 -12%、コスト圧縮トーンが強いです。」 |
-|  | *(1) Decision: trên ¥10M là CFO Nakamura duyệt, dưới là quyền GĐKD Ōgaki. Lần này ¥18M nên qua CFO. (2) Budget cycle: Hakuō 4-3, hiện đầu tháng 4 — ngân sách IT năm mới vừa thông, dễ propose. (3) Đối thủ: Y社 SIer lớn đang pitch song song, có tin đồn báo giá ¥22M. (4) Kết quả gần: IR tháng trước lợi nhuận hoạt động -12%, tone nén chi phí mạnh ạ.* |
-| **フオン** | 「いいね。これで<ruby>戦略<rt>せんりゃく</rt></ruby>決まる。**Y 社 ¥22M との<ruby>対比<rt>たいひ</rt></ruby>で『品質<ruby>同等<rt>どうとう</rt></ruby>で安い』を<ruby>強調<rt>きょうちょう</rt></ruby>**、CFO に<ruby>響<rt>ひび</rt></ruby>く ROI <ruby>数値<rt>すうち</rt></ruby>を<ruby>全面<rt>ぜんめん</rt></ruby>に。利益 -12% への<ruby>配慮<rt>はいりょ</rt></ruby>として『<ruby>段階導入<rt>だんかいどうにゅう</rt></ruby>で<ruby>初期投資<rt>しょきとうし</rt></ruby><ruby>抑制<rt>よくせい</rt></ruby><ruby>可能<rt>かのう</rt></ruby>』も<ruby>用意<rt>ようい</rt></ruby>して。」 |
-|  | *Tốt. Vậy là chiến lược chốt. Đối chiếu Y社 ¥22M để nhấn 'chất lượng ngang, rẻ hơn', số liệu ROI nhắm trúng CFO lên đầu. Cân nhắc lợi nhuận -12%, chuẩn bị thêm 'triển khai theo giai đoạn để giảm initial investment'.* |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、白鷗の **4<ruby>軸<rt>じく</rt></ruby>インテルシート**【1】を<ruby>更新<rt>こうしん</rt></ruby>しました。」 <br/>*Chị Hương, em đã cập nhật phiếu thông tin 4 trục của Hakuō ạ.* |
+| **フオン** | 「<ruby>読<rt>よ</rt></ruby>み上げて。」 <br/>*Em đọc lên đi.* |
+| **ズン** | 「(1) <ruby>決裁<rt>けっさい</rt></ruby>ライン: ¥10M <ruby>超<rt>ちょう</rt></ruby>は中村 CFO 決裁、それ以下は<ruby>大垣<rt>おおがき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby><ruby>権限<rt>けんげん</rt></ruby>【2】。今回 ¥18M なので CFO 通る。(2) <ruby>予算<rt>よさん</rt></ruby>サイクル: 白鷗は 4月-3月、<ruby>現在<rt>げんざい</rt></ruby> 4 月<ruby>初旬<rt>しょじゅん</rt></ruby>で **<ruby>新年度<rt>しんねんど</rt></ruby> IT 予算は通ったばかり**【3】、<ruby>追加<rt>ついか</rt></ruby><ruby>要求<rt>ようきゅう</rt></ruby>しやすい<ruby>時期<rt>じき</rt></ruby>。(3) <ruby>競合<rt>きょうごう</rt></ruby>: <ruby>大手<rt>おおて</rt></ruby> SIer Y 社がパラレルに pitch 中、<ruby>見積<rt>みつもり</rt></ruby> ¥22M との<ruby>噂<rt>うわさ</rt></ruby>【4】。(4) <ruby>直近業績<rt>ちょっきんぎょうせき</rt></ruby>: 先月 IR で営業利益 -12%、コスト圧縮トーンが強いです。」 <br/>*(1) Người quyết định: trên ¥10M là CFO Nakamura duyệt, dưới là quyền GĐKD Ōgaki. Lần này ¥18M nên qua CFO. (2) Chu kỳ ngân sách: Hakuō 4-3, hiện đầu tháng 4 — ngân sách IT năm mới vừa thông, dễ đề xuất. (3) Đối thủ: Y社 SIer lớn đang chào hàng song song, có tin đồn báo giá ¥22M. (4) Kết quả gần: IR tháng trước lợi nhuận hoạt động -12%, xu hướng nén chi phí mạnh ạ.* |
+| **フオン** | 「いいね。これで<ruby>戦略<rt>せんりゃく</rt></ruby>決まる。**Y 社 ¥22M との<ruby>対比<rt>たいひ</rt></ruby>で『品質<ruby>同等<rt>どうとう</rt></ruby>で安い』を<ruby>強調<rt>きょうちょう</rt></ruby>**、CFO に<ruby>響<rt>ひび</rt></ruby>く ROI <ruby>数値<rt>すうち</rt></ruby>を<ruby>全面<rt>ぜんめん</rt></ruby>に。利益 -12% への<ruby>配慮<rt>はいりょ</rt></ruby>として『<ruby>段階導入<rt>だんかいどうにゅう</rt></ruby>で<ruby>初期投資<rt>しょきとうし</rt></ruby><ruby>抑制<rt>よくせい</rt></ruby><ruby>可能<rt>かのう</rt></ruby>』も<ruby>用意<rt>ようい</rt></ruby>して。」 <br/>*Tốt. Vậy là chiến lược chốt. Đối chiếu Y社 ¥22M để nhấn 'chất lượng ngang, rẻ hơn', số liệu ROI nhắm trúng CFO lên đầu. Cân nhắc lợi nhuận -12%, chuẩn bị thêm 'triển khai theo giai đoạn để giảm vốn đầu tư ban đầu'.* |
 
-📝 **Ghi chú:**
+ **Ghi chú:**
 - 【1】**4 軸インテルシート** = (1) 決裁ライン、(2) 予算サイクル、(3) 競合、(4) 直近業績。各軸ソース付きで管理.
 - 【2】**決裁権限の閾値** — biết được giúp đoán kịch bản phê duyệt. ¥10M là ngưỡng thường gặp ở doanh nghiệp tầm trung JP.
 - 【3】**Chu kỳ ngân sách JP**: thường 4月-3月. Q1 (4-6月) = ngân sách mới, dễ đề xuất; Q4 (1-3月) = chốt sổ cuối năm, hạn chế.
-- 【4】**Intel đối thủ cần nguồn** — "tin đồn" cũng được nhưng phải ghi rõ là tin đồn + ai nói.
+- 【4】**Thông tin đối thủ cần nguồn** — "tin đồn" cũng được nhưng phải ghi rõ là tin đồn + ai nói.
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「決裁・予算・競合・業績の4軸を全てupdate。「過去に知っていた」は無効。」**
 >
@@ -60,23 +52,23 @@
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - "Tôi đã làm với khách 2 năm rồi nên biết" → quá khứ ≠ hiện tại
 - Bỏ qua IR công khai (có thể tra cứu tự do) — đây là thông tin miễn phí
 - Không xác định ngưỡng phê duyệt của người quyết (¥X trở lên thì ai duyệt)
-- Coi intel đối thủ là "có thì tốt, không có cũng được" — thực ra là cốt lõi của việc định giá
+- Coi thông tin đối thủ là "có thì tốt, không có cũng được" — thực ra là cốt lõi của việc định giá
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 決裁ライン | けっさいライン | Đường duyệt / decision-maker line |
-| 予算サイクル | よさんサイクル | Chu kỳ ngân sách |
-| 直近業績 | ちょっきんぎょうせき | Kết quả kinh doanh gần đây |
-| 営業利益 | えいぎょうりえき | Lợi nhuận hoạt động |
-| コスト圧縮 | コストあっしゅく | Cắt giảm chi phí |
-| 段階導入 | だんかいどうにゅう | Triển khai theo giai đoạn |
-| インテル | interu | Intel (intelligence) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 決裁ライン | けっさいライン | QUYẾT TÀI — | Đường duyệt (tuyến người quyết định) |
+| 予算サイクル | よさんサイクル | DỰ TOÁN — | Chu kỳ ngân sách |
+| 直近業績 | ちょっきんぎょうせき | TRỰC CẬN NGHIỆP TÍCH | Kết quả kinh doanh gần đây |
+| 営業利益 | えいぎょうりえき | DOANH NGHIỆP LỢI ÍCH | Lợi nhuận hoạt động |
+| コスト圧縮 | コストあっしゅく | — ÁP SÚC | Cắt giảm chi phí |
+| 段階導入 | だんかいどうにゅう | ĐOẠN GIAI ĐẠO NHẬP | Triển khai theo giai đoạn |
+| インテルシート | インテルシート | — | Phiếu thông tin tình báo thương mại |

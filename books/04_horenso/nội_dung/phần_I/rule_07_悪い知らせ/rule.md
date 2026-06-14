@@ -14,43 +14,34 @@
 
 ---
 
-## ❌ Hội thoại XẤU — báo trễ + lộn xộn + đùn đẩy
+## Hội thoại XẤU — báo trễ + lộn xộn + đùn đẩy
 
 *thứ 2 sáng 9h, qua Slack*
 
 | Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「ハーさん、すいません、<ruby>昨夜<rt>さくや</rt></ruby><ruby>本番<rt>ほんばん</rt></ruby>で<ruby>問題<rt>もんだい</rt></ruby>が<ruby>起<rt>お</rt></ruby>きてまして、データが…まだ<ruby>調査中<rt>ちょうさちゅう</rt></ruby>なんですが…どうしましょうか？」 |
-|  | *Anh Hà, xin lỗi, tối qua production có vấn đề, data... vẫn đang điều tra... sao bây giờ ạ?* |
-| **ハーCTO** | 「**<ruby>昨夜<rt>さくや</rt></ruby>**？なぜ<ruby>今<rt>いま</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby>？<ruby>影響範囲<rt>えいきょうはんい</rt></ruby>は？<ruby>対応案<rt>たいおうあん</rt></ruby>は？」 |
-|  | *Tối qua? Sao giờ mới báo? Phạm vi ảnh hưởng? Phương án xử lý?* |
-| **トゥアン** | 「えっと、<ruby>影響<rt>えいきょう</rt></ruby>はまだ<ruby>確認中<rt>かくにんちゅう</rt></ruby>で、<ruby>対応<rt>たいおう</rt></ruby>もこれから<ruby>考<rt>かんが</rt></ruby>えるところで…」 |
-|  | *Ờ, ảnh hưởng đang xác nhận, phương án em mới đang nghĩ ạ...* |
-| **ハーCTO** | 「11<ruby>時間<rt>じかん</rt></ruby><ruby>遅<rt>おく</rt></ruby>れの<ruby>報告<rt>ほうこく</rt></ruby> + <ruby>状況不明<rt>じょうきょうふめい</rt></ruby> + <ruby>対応案<rt>たいおうあん</rt></ruby>ゼロ。これは<ruby>最悪<rt>さいあく</rt></ruby>のパターンです。」 |
-|  | *Báo trễ 11 giờ + không rõ tình hình + không có phương án. Đây là kiểu báo cáo tệ nhất.* |
+| **トゥアン** | 「ハーさん、すいません、<ruby>昨夜<rt>さくや</rt></ruby><ruby>本番<rt>ほんばん</rt></ruby>で<ruby>問題<rt>もんだい</rt></ruby>が<ruby>起<rt>お</rt></ruby>きてまして、データが…まだ<ruby>調査中<rt>ちょうさちゅう</rt></ruby>なんですが…どうしましょうか？」 <br/>*Anh Hà, xin lỗi, tối qua production có vấn đề, data... vẫn đang điều tra... sao bây giờ ạ?* |
+| **ハーCTO** | 「**<ruby>昨夜<rt>さくや</rt></ruby>**？なぜ<ruby>今<rt>いま</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby>？<ruby>影響範囲<rt>えいきょうはんい</rt></ruby>は？<ruby>対応案<rt>たいおうあん</rt></ruby>は？」 <br/>*Tối qua? Sao giờ mới báo? Phạm vi ảnh hưởng? Phương án xử lý?* |
+| **トゥアン** | 「えっと、<ruby>影響<rt>えいきょう</rt></ruby>はまだ<ruby>確認中<rt>かくにんちゅう</rt></ruby>で、<ruby>対応<rt>たいおう</rt></ruby>もこれから<ruby>考<rt>かんが</rt></ruby>えるところで…」 <br/>*Ờ, ảnh hưởng đang xác nhận, phương án em mới đang nghĩ ạ...* |
+| **ハーCTO** | 「11<ruby>時間<rt>じかん</rt></ruby><ruby>遅<rt>おく</rt></ruby>れの<ruby>報告<rt>ほうこく</rt></ruby> + <ruby>状況不明<rt>じょうきょうふめい</rt></ruby> + <ruby>対応案<rt>たいおうあん</rt></ruby>ゼロ。これは<ruby>最悪<rt>さいあく</rt></ruby>のパターンです。」 <br/>*Báo trễ 11 giờ + không rõ tình hình + không có phương án. Đây là kiểu báo cáo tệ nhất.* |
 
 **Vì sao xấu:** (1) Báo trễ 11 giờ — bug critical phải báo trong 30 phút. (2) Không có Predict mở đầu, sếp bị động. (3) Không có Plan, "どうしましょうか?" = đùn sếp quyết.
 
 ---
 
-## ✅ Hội thoại TỐT — PFIPA + báo trong 30 phút
+## Hội thoại TỐT — PFIPA + báo trong 30 phút
 
 *22:30 CN, qua điện thoại*
 
 | Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「ハーさん、<ruby>夜分<rt>やぶん</rt></ruby>にすみません。**<ruby>緊急<rt>きんきゅう</rt></ruby>のご<ruby>報告<rt>ほうこく</rt></ruby>**です。**<ruby>先<rt>さき</rt></ruby>にお<ruby>伝<rt>つた</rt></ruby>えしますが、<ruby>本番<rt>ほんばん</rt></ruby>で critical bug が<ruby>発生<rt>はっせい</rt></ruby>しております**【1】。」 |
-|  | *Anh Hà, xin lỗi anh đêm khuya. Em báo cáo khẩn cấp ạ. Em xin báo trước: production đang có bug critical ạ.* |
-| **トゥアン** | 「**Fact**：22<ruby>時頃<rt>じごろ</rt></ruby>、<ruby>注文確定<rt>ちゅうもんかくてい</rt></ruby> API でデータ<ruby>消失<rt>しょうしつ</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>。**Impact**：<ruby>本日<rt>ほんじつ</rt></ruby> 21<ruby>時以降<rt>じいこう</rt></ruby>の<ruby>注文<rt>ちゅうもん</rt></ruby>データ<ruby>約<rt>やく</rt></ruby>30<ruby>件<rt>けん</rt></ruby>が DB に<ruby>保存<rt>ほぞん</rt></ruby>されていません【2】。」 |
-|  | *Fact: lúc 22h, API xác nhận đơn hàng bị mất data. Impact: khoảng 30 đơn từ sau 21h hôm nay không được lưu vào DB ạ.* |
-| **トゥアン** | 「**Plan（<ruby>対応案<rt>たいおうあん</rt></ruby>）**：(1) ログから30<ruby>件<rt>けん</rt></ruby>をリストアップ、(2) <ruby>顧客<rt>こきゃく</rt></ruby>に<ruby>翌朝<rt>よくあさ</rt></ruby>までに<ruby>個別連絡<rt>こべつれんらく</rt></ruby>、(3) <ruby>原因<rt>げんいん</rt></ruby>はトランザクション<ruby>処理<rt>しょり</rt></ruby>にあると<ruby>推測<rt>すいそく</rt></ruby>、<ruby>修正<rt>しゅうせい</rt></ruby>PRを<ruby>朝<rt>あさ</rt></ruby>までに<ruby>準備<rt>じゅんび</rt></ruby>します【3】。」 |
-|  | *Plan (Phương án): (1) trích 30 đơn từ log, (2) liên hệ riêng khách trước sáng mai, (3) nguyên nhân em đoán ở xử lý transaction, em chuẩn bị PR sửa trước sáng ạ.* |
-| **トゥアン** | 「**Ask（<ruby>依頼<rt>いらい</rt></ruby>）**：<ruby>松本様<rt>まつもとさま</rt></ruby>への<ruby>第一報<rt>だいいっぽう</rt></ruby>を 23<ruby>時<rt>じ</rt></ruby>までに<ruby>私<rt>わたし</rt></ruby>から<ruby>入<rt>い</rt></ruby>れてもよろしいでしょうか。あるいはハーさんから<ruby>入<rt>い</rt></ruby>れる<ruby>選択肢<rt>せんたくし</rt></ruby>もあります【4】。」 |
-|  | *Ask (Em xin ý anh): em báo cáo đầu cho anh Matsumoto trước 23h được không ạ? Hoặc lựa chọn anh Hà báo cho anh ấy ạ.* |
-| **ハーCTO** | 「Predict から Plan まで30<ruby>秒<rt>びょう</rt></ruby>で<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>入<rt>はい</rt></ruby>った。<ruby>良<rt>よ</rt></ruby>い<ruby>報告<rt>ほうこく</rt></ruby>。<ruby>第一報<rt>だいいっぽう</rt></ruby>はあなたから<ruby>入<rt>い</rt></ruby>れてください。<ruby>私<rt>わたし</rt></ruby>は2<ruby>時間以内<rt>じかんいない</rt></ruby>に<ruby>折<rt>お</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>します。」 |
-|  | *Predict đến Plan đủ trong 30 giây. Báo cáo tốt. Báo đầu em làm đi. Anh sẽ phản hồi trong 2 giờ.* |
+| **トゥアン** | 「ハーさん、<ruby>夜分<rt>やぶん</rt></ruby>にすみません。**<ruby>緊急<rt>きんきゅう</rt></ruby>のご<ruby>報告<rt>ほうこく</rt></ruby>**です。**<ruby>先<rt>さき</rt></ruby>にお<ruby>伝<rt>つた</rt></ruby>えしますが、<ruby>本番<rt>ほんばん</rt></ruby>で critical bug が<ruby>発生<rt>はっせい</rt></ruby>しております**【1】。」 <br/>*Anh Hà, xin lỗi anh đêm khuya. Em báo cáo khẩn cấp ạ. Em xin báo trước: production đang có bug critical ạ.* |
+| **トゥアン** | 「**Fact**：22<ruby>時頃<rt>じごろ</rt></ruby>、<ruby>注文確定<rt>ちゅうもんかくてい</rt></ruby> API でデータ<ruby>消失<rt>しょうしつ</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>。**Impact**：<ruby>本日<rt>ほんじつ</rt></ruby> 21<ruby>時以降<rt>じいこう</rt></ruby>の<ruby>注文<rt>ちゅうもん</rt></ruby>データ<ruby>約<rt>やく</rt></ruby>30<ruby>件<rt>けん</rt></ruby>が DB に<ruby>保存<rt>ほぞん</rt></ruby>されていません【2】。」 <br/>*Fact: lúc 22h, API xác nhận đơn hàng bị mất data. Impact: khoảng 30 đơn từ sau 21h hôm nay không được lưu vào DB ạ.* |
+| **トゥアン** | 「**Plan（<ruby>対応案<rt>たいおうあん</rt></ruby>）**：(1) ログから30<ruby>件<rt>けん</rt></ruby>をリストアップ、(2) <ruby>顧客<rt>こきゃく</rt></ruby>に<ruby>翌朝<rt>よくあさ</rt></ruby>までに<ruby>個別連絡<rt>こべつれんらく</rt></ruby>、(3) <ruby>原因<rt>げんいん</rt></ruby>はトランザクション<ruby>処理<rt>しょり</rt></ruby>にあると<ruby>推測<rt>すいそく</rt></ruby>、<ruby>修正<rt>しゅうせい</rt></ruby>PRを<ruby>朝<rt>あさ</rt></ruby>までに<ruby>準備<rt>じゅんび</rt></ruby>します【3】。」 <br/>*Plan (Phương án): (1) trích 30 đơn từ log, (2) liên hệ riêng khách trước sáng mai, (3) nguyên nhân em đoán ở xử lý transaction, em chuẩn bị PR sửa trước sáng ạ.* |
+| **トゥアン** | 「**Ask（<ruby>依頼<rt>いらい</rt></ruby>）**：<ruby>松本様<rt>まつもとさま</rt></ruby>への<ruby>第一報<rt>だいいっぽう</rt></ruby>を 23<ruby>時<rt>じ</rt></ruby>までに<ruby>私<rt>わたし</rt></ruby>から<ruby>入<rt>い</rt></ruby>れてもよろしいでしょうか。あるいはハーさんから<ruby>入<rt>い</rt></ruby>れる<ruby>選択肢<rt>せんたくし</rt></ruby>もあります【4】。」 <br/>*Ask (Em xin ý anh): em báo cáo đầu cho anh Matsumoto trước 23h được không ạ? Hoặc lựa chọn anh Hà báo cho anh ấy ạ.* |
+| **ハーCTO** | 「Predict から Plan まで30<ruby>秒<rt>びょう</rt></ruby>で<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>入<rt>はい</rt></ruby>った。<ruby>良<rt>よ</rt></ruby>い<ruby>報告<rt>ほうこく</rt></ruby>。<ruby>第一報<rt>だいいっぽう</rt></ruby>はあなたから<ruby>入<rt>い</rt></ruby>れてください。<ruby>私<rt>わたし</rt></ruby>は2<ruby>時間以内<rt>じかんいない</rt></ruby>に<ruby>折<rt>お</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>します。」 <br/>*Predict đến Plan đủ trong 30 giây. Báo cáo tốt. Báo đầu em làm đi. Anh sẽ phản hồi trong 2 giờ.* |
 
-📝 **Ghi chú:**
+ **Ghi chú:**
 - 【1】**「先にお伝えしますが、〇〇が発生しております」** — Predict mở đầu = sếp định khung tâm lý "đây là tin xấu". Tránh gây sốc.
 - 【2】**「Fact〜Impact」** — chia rõ 2 phần. Fact = chuyện gì xảy ra. Impact = ảnh hưởng cụ thể (số lượng / khách / tiền). Sếp cần Impact để quyết có báo lên cấp trên hay không.
 - 【3】**「Plan：(1)〜(2)〜(3)」** — 3 dòng việc cần làm kèm người phụ trách. Cho thấy đã suy nghĩ chứ không chỉ đùn.
@@ -58,7 +49,7 @@
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「先にお伝えしますが〇〇が発生。Fact: 〇〇 / Impact: 〇〇 / Plan: ①〇〇 ②〇〇 / Ask: 〇〇してもよろしいでしょうか、あるいは〇〇」**
 >
@@ -66,7 +57,7 @@
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - 「すみません、ちょっと問題が…」 — mơ hồ, sếp không biết nặng nhẹ.
 - "どうしましょうか?" mở đầu — đùn quyết định cho sếp = sếp mất công cào lại từ đầu.
@@ -75,22 +66,22 @@
 
 ---
 
-## 📐 Template box
+## Khung mẫu
 
-Xem `templates[0]` của file conversation: **悪い知らせ報告書** (báo cáo sự cố).
+Xem phần Mẫu câu: **悪い知らせ報告書** (báo cáo sự cố).
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 緊急 | きんきゅう | Khẩn cấp |
-| 発生 | はっせい | Xảy ra (sự cố) |
-| 影響範囲 | えいきょうはんい | Phạm vi ảnh hưởng |
-| 対応案 | たいおうあん | Phương án xử lý |
-| 第一報 | だいいっぽう | Báo cáo đầu tiên |
-| トランザクション | toranzakushon | Transaction |
-| データ消失 | データしょうしつ | Mất dữ liệu |
-| 復旧 | ふっきゅう | Khôi phục |
-| 折り返し | おりかえし | Gọi lại / phản hồi lại |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|-------|-------|
+| 緊急 | きんきゅう | KHẨN CẤP | Khẩn cấp |
+| 発生 | はっせい | PHÁT SINH | Xảy ra (sự cố) |
+| 影響範囲 | えいきょうはんい | ẢNH HƯỞNG PHẠM VI | Phạm vi ảnh hưởng |
+| 対応案 | たいおうあん | ĐỐI ỨNG ÁN | Phương án xử lý |
+| 第一報 | だいいっぽう | ĐỆ NHẤT BÁO | Báo cáo đầu tiên |
+| トランザクション | トランザクション | — | Giao dịch (CSDL) |
+| データ消失 | データしょうしつ | TIÊU THẤT | Mất dữ liệu |
+| 復旧 | ふっきゅう | PHỤC CỰU | Khôi phục |
+| 折り返し | おりかえし | CHIẾT PHẢN | Gọi lại / phản hồi lại |

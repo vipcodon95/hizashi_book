@@ -1,0 +1,30 @@
+/* ===== CSS tỉ lệ cột bảng — TỰ SINH bởi analyze_tables.py ===== */
+/* KHÔNG sửa tay file này; chỉnh số đo qua nội dung .md rồi build lại. */
+
+/* Mơ hồ | Cụ thể  (1 bảng, 32 / 68) */
+table.t-m-h-7daa7e { table-layout: fixed; }
+table.t-m-h-7daa7e td:nth-child(1), table.t-m-h-7daa7e th:nth-child(1) { width: 32% !important; }
+table.t-m-h-7daa7e td:nth-child(2), table.t-m-h-7daa7e th:nth-child(2) { width: 68% !important; }
+
+/* Mục | Nội dung  (1 bảng, 40 / 60) */
+table.t-m-c-daf95f { table-layout: fixed; }
+table.t-m-c-daf95f td:nth-child(1), table.t-m-c-daf95f th:nth-child(1) { width: 40% !important; }
+table.t-m-c-daf95f td:nth-child(2), table.t-m-c-daf95f th:nth-child(2) { width: 60% !important; }
+
+/* Phần | Tên | 内容 | Số rule  (1 bảng, 13 / 44 / 30 / 13) */
+table.t-ph-n-fded71 { table-layout: fixed; }
+table.t-ph-n-fded71 td:nth-child(1), table.t-ph-n-fded71 th:nth-child(1) { width: 13% !important; }
+table.t-ph-n-fded71 td:nth-child(2), table.t-ph-n-fded71 th:nth-child(2) { width: 44% !important; }
+table.t-ph-n-fded71 td:nth-child(3), table.t-ph-n-fded71 th:nth-child(3) { width: 30% !important; }
+table.t-ph-n-fded71 td:nth-child(4), table.t-ph-n-fded71 th:nth-child(4) { width: 13% !important; }
+
+/* Trường | Ví dụ  (1 bảng, 25 / 75) */
+table.t-tr-ng-f9be2e { table-layout: fixed; }
+table.t-tr-ng-f9be2e td:nth-child(1), table.t-tr-ng-f9be2e th:nth-child(1) { width: 25% !important; }
+table.t-tr-ng-f9be2e td:nth-child(2), table.t-tr-ng-f9be2e th:nth-child(2) { width: 75% !important; }
+
+/* Tuần | Câu của em Dũng | Hệ quả  (1 bảng, 13 / 63 / 24) */
+table.t-tu-n-354116 { table-layout: fixed; }
+table.t-tu-n-354116 td:nth-child(1), table.t-tu-n-354116 th:nth-child(1) { width: 13% !important; }
+table.t-tu-n-354116 td:nth-child(2), table.t-tu-n-354116 th:nth-child(2) { width: 63% !important; }
+table.t-tu-n-354116 td:nth-child(3), table.t-tu-n-354116 th:nth-child(3) { width: 24% !important; }

@@ -14,37 +14,30 @@
 
 ---
 
-## ❌ Hội thoại XẤU — vào thẳng giá
+## Hội thoại XẤU — vào thẳng giá
 
 *座って即 · 微妙な顔 · 隣で書類を整理しながら*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「えー、本日 Phase 3 の<ruby>見積<rt>みつもり</rt></ruby> ¥19M でお<ruby>持<rt>も</rt></ruby>ちしました。<ruby>早速<rt>さっそく</rt></ruby>ですがご<ruby>検討<rt>けんとう</rt></ruby>お<ruby>願<rt>ねが</rt></ruby>いします。」 |
-|  | *Ờ, hôm nay em mang báo giá Phase 3 ¥19M ạ. Xin phép vào luôn để quý cty xem xét ạ.* |
-| **大垣** | 「あ…はい。<ruby>早速<rt>さっそく</rt></ruby>ですね。」 |
-|  | *À... vâng. Vào nhanh nhỉ.* |
-| **中村CFO** | 「…」 |
-|  | *(im lặng, sắp xếp tài liệu)* |
+| **ズン** | 「えー、本日 Phase 3 の<ruby>見積<rt>みつもり</rt></ruby> ¥19M でお<ruby>持<rt>も</rt></ruby>ちしました。<ruby>早速<rt>さっそく</rt></ruby>ですがご<ruby>検討<rt>けんとう</rt></ruby>お<ruby>願<rt>ねが</rt></ruby>いします。」 <br/>*Ờ, hôm nay em mang báo giá Phase 3 ¥19M ạ. Xin phép vào luôn để quý cty xem xét ạ.* |
+| **大垣** | 「あ…はい。<ruby>早速<rt>さっそく</rt></ruby>ですね。」 <br/>*À... vâng. Vào nhanh nhỉ.* |
+| **中村CFO** | 「…」 <br/>*(im lặng, sắp xếp tài liệu)* |
 
 **Vì sao xấu:** 0 phút đã ra giá → 失礼. Khách Nhật cảm "lạnh", không có giọng điệu chuyên nghiệp. 中村 CFO senior bị bỏ qua trong câu chào → mất 顔. Cả buổi sắc thái sẽ bị định khung thành "chỉ giao dịch mua bán".
 
 ---
 
-## ✅ Hội thoại TỐT — 30s opening 4 yếu tố
+## Hội thoại TỐT — mở đầu 30 giây 4 yếu tố
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「**本日はお<ruby>忙<rt>いそが</rt></ruby>しい<ruby>中<rt>なか</rt></ruby>、お<ruby>時間<rt>じかん</rt></ruby>いただきまして<ruby>誠<rt>まこと</rt></ruby>にありがとうございます**【1】。<ruby>改<rt>あらた</rt></ruby>めまして、ティエンファットの BD <ruby>担当<rt>たんとう</rt></ruby>ズンと<ruby>申<rt>もう</rt></ruby>します。<ruby>隣<rt>となり</rt></ruby>のチーム<ruby>技術<rt>ぎじゅつ</rt></ruby>リーダー、トゥアンと<ruby>参<rt>まい</rt></ruby>りました【2】。」 |
-|  | *Hôm nay quý anh dành thời gian trong lúc bận rộn, em xin chân thành cảm ơn ạ. Một lần nữa, em là Dũng, BD bên ティエンファット. Cùng đi với em là anh Tuấn — Tech lead ạ.* |
-| **ズン** | 「**<ruby>先日<rt>せんじつ</rt></ruby>の IR でも<ruby>拝見<rt>はいけん</rt></ruby>しましたが、<ruby>新年度<rt>しんねんど</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて DX <ruby>推進<rt>すいしん</rt></ruby>を<ruby>加速<rt>かそく</rt></ruby>されるとのこと**【3】、<ruby>私<rt>わたくし</rt></ruby>どもも Phase 2 でご<ruby>協力<rt>きょうりょく</rt></ruby>させていただいた<ruby>立場<rt>たちば</rt></ruby>として<ruby>大変<rt>たいへん</rt></ruby><ruby>心強<rt>こころづよ</rt></ruby>く<ruby>存<rt>ぞん</rt></ruby>じます。」 |
-|  | *Em có xem IR vừa rồi, được biết quý cty đang đẩy mạnh DX hướng tới năm tài chính mới. Là bên đã đồng hành Phase 2, chúng em thấy rất phấn khởi ạ.* |
-| **ズン** | 「**本日は Phase 3 のご<ruby>提案<rt>ていあん</rt></ruby>として、3 <ruby>段階<rt>だんかい</rt></ruby>の<ruby>選択肢<rt>せんたくし</rt></ruby>をお<ruby>持<rt>も</rt></ruby>ちしました**【4】。<ruby>御社<rt>おんしゃ</rt></ruby>のご<ruby>要望<rt>ようぼう</rt></ruby>に<ruby>沿<rt>そ</rt></ruby>うか、ぜひ<ruby>忌憚<rt>きたん</rt></ruby>ないご<ruby>意見<rt>いけん</rt></ruby>をいただければと<ruby>存<rt>ぞん</rt></ruby>じます。」 |
-|  | *Hôm nay em mang theo 3 phương án đề xuất Phase 3 ạ. Liệu có đáp ứng được nhu cầu quý cty hay không, mong quý anh cho ý kiến thẳng thắn giúp ạ.* |
-| **大垣** | 「ご<ruby>丁寧<rt>ていねい</rt></ruby>にありがとうございます。では<ruby>拝見<rt>はいけん</rt></ruby>しましょう。」 |
-|  | *Cảm ơn em đã chu đáo. Vậy chúng tôi xin xem nhé.* |
+| **ズン** | 「**本日はお<ruby>忙<rt>いそが</rt></ruby>しい<ruby>中<rt>なか</rt></ruby>、お<ruby>時間<rt>じかん</rt></ruby>いただきまして<ruby>誠<rt>まこと</rt></ruby>にありがとうございます**【1】。<ruby>改<rt>あらた</rt></ruby>めまして、ティエンファットの BD <ruby>担当<rt>たんとう</rt></ruby>ズンと<ruby>申<rt>もう</rt></ruby>します。<ruby>隣<rt>となり</rt></ruby>のチーム<ruby>技術<rt>ぎじゅつ</rt></ruby>リーダー、トゥアンと<ruby>参<rt>まい</rt></ruby>りました【2】。」 <br/>*Hôm nay quý anh dành thời gian trong lúc bận rộn, em xin chân thành cảm ơn ạ. Một lần nữa, em là Dũng, BD bên ティエンファット. Cùng đi với em là anh Tuấn — Tech lead ạ.* |
+| **ズン** | 「**<ruby>先日<rt>せんじつ</rt></ruby>の IR でも<ruby>拝見<rt>はいけん</rt></ruby>しましたが、<ruby>新年度<rt>しんねんど</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて DX <ruby>推進<rt>すいしん</rt></ruby>を<ruby>加速<rt>かそく</rt></ruby>されるとのこと**【3】、<ruby>私<rt>わたくし</rt></ruby>どもも Phase 2 でご<ruby>協力<rt>きょうりょく</rt></ruby>させていただいた<ruby>立場<rt>たちば</rt></ruby>として<ruby>大変<rt>たいへん</rt></ruby><ruby>心強<rt>こころづよ</rt></ruby>く<ruby>存<rt>ぞん</rt></ruby>じます。」 <br/>*Em có xem IR vừa rồi, được biết quý cty đang đẩy mạnh DX hướng tới năm tài chính mới. Là bên đã đồng hành Phase 2, chúng em thấy rất phấn khởi ạ.* |
+| **ズン** | 「**本日は Phase 3 のご<ruby>提案<rt>ていあん</rt></ruby>として、3 <ruby>段階<rt>だんかい</rt></ruby>の<ruby>選択肢<rt>せんたくし</rt></ruby>をお<ruby>持<rt>も</rt></ruby>ちしました**【4】。<ruby>御社<rt>おんしゃ</rt></ruby>のご<ruby>要望<rt>ようぼう</rt></ruby>に<ruby>沿<rt>そ</rt></ruby>うか、ぜひ<ruby>忌憚<rt>きたん</rt></ruby>ないご<ruby>意見<rt>いけん</rt></ruby>をいただければと<ruby>存<rt>ぞん</rt></ruby>じます。」 <br/>*Hôm nay em mang theo 3 phương án đề xuất Phase 3 ạ. Liệu có đáp ứng được nhu cầu quý cty hay không, mong quý anh cho ý kiến thẳng thắn giúp ạ.* |
+| **大垣** | 「ご<ruby>丁寧<rt>ていねい</rt></ruby>にありがとうございます。では<ruby>拝見<rt>はいけん</rt></ruby>しましょう。」 <br/>*Cảm ơn em đã chu đáo. Vậy chúng tôi xin xem nhé.* |
 
-📝 **Ghi chú:**
+ **Ghi chú:**
 - 【1】**お礼が最初** — 「お忙しい中」必ず付ける。CFO クラスにはこの一言で「あなたの時間を尊重」を伝える.
 - 【2】**再自己紹介 + チームメンバー紹介** — 名刺交換しているが、口頭でも明示. 特に CFO 同席時.
 - 【3】**相手状況への言及 (IR / 業績 / 季節)** — 顧客リサーチ (rule 04) の成果をここで使う. "anh/chị nhớ đến tình hình bên em" — sắc thái này rất quan trọng trong văn hóa Nhật.
@@ -52,7 +45,7 @@
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「商談冒頭30秒は4要素 (お礼・再紹介・相手状況・本日意図)。値段は冒頭に出さない。」**
 >
@@ -60,7 +53,7 @@
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - "早速ですが値段は" → 失礼
 - Bỏ qua CFO trong câu chào (chỉ nhìn 大垣) → mất 顔 senior
@@ -69,15 +62,15 @@
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 商談冒頭 | しょうだんぼうとう | Mở đàm phán |
-| お忙しい中 | おいそがしいなか | Trong lúc bận rộn |
-| 改めまして | あらためまして | Một lần nữa |
-| 拝見する | はいけんする | Xem (kính ngữ) |
-| 忌憚ない | きたんない | Thẳng thắn / không kiêng |
-| 意見 | いけん | Ý kiến |
-| DX 推進 | DXすいしん | Đẩy mạnh DX |
-| 立場 | たちば | Vị thế / lập trường |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 商談冒頭 | しょうだんぼうとう | THƯƠNG ĐÀM MẠO ĐẦU | Mở đàm phán |
+| お忙しい中 | おいそがしいなか | — | Trong lúc bận rộn |
+| 改めまして | あらためまして | — | Một lần nữa |
+| 拝見する | はいけんする | BÁI KIẾN — | Xem (kính ngữ) |
+| 忌憚ない | きたんない | KỴ ĐẢN — | Thẳng thắn / không kiêng |
+| 意見 | いけん | Ý KIẾN | Ý kiến |
+| DX 推進 | DXすいしん | — SUY TIẾN | Đẩy mạnh DX |
+| 立場 | たちば | LẬP TRƯỜNG | Vị thế / lập trường |

@@ -1,8 +1,8 @@
-# Phụ lục C — BJT Practice Tổng Hợp / BJT練習問題集
+# Phụ lục C — Tổng Hợp Câu Luyện Thi BJT / BJT練習問題集
 
-*Tổng hợp tất cả BJT practice questions từ 60 rules, sắp xếp theo level và skill.*
+*Tổng hợp tất cả câu luyện thi BJT từ 60 rule, sắp xếp theo cấp độ và kỹ năng.*
 
-*Dùng để luyện thi BJT business Japanese — câu hỏi có audio prompt được link đến rule gốc.*
+*Dùng để luyện thi BJT business Japanese — mỗi câu liên kết về rule nguồn.*
 
 ---
 
@@ -23,8 +23,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 朝礼は短時間で全員の状況を把握する場。1人 30-60 秒、3 行（昨日／今日／困りごと）で済ます。
-- 🇻🇳 朝礼 là dịp nắm tình hình cả team trong thời gian ngắn. Mỗi người 30-60 giây, 3 dòng (hôm qua / hôm nay / việc khó).
+- 朝礼は短時間で全員の状況を把握する場。1人 30-60 秒、3 行（昨日／今日／困りごと）で済ます。
+- 朝礼 là dịp nắm tình hình cả team trong thời gian ngắn. Mỗi người 30-60 giây, 3 dòng (hôm qua / hôm nay / việc khó).
 
 
 ## Level J3 (34 câu)
@@ -43,10 +43,10 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 報告の3原則は『結論先出し・事実/私見分離・タイムリー』。経過から始めると相手は判断できず時間を消耗する。
-- 🇻🇳 3 nguyên tắc báo cáo: kết luận trước / tách fact-opinion / kịp thời. Kể quá trình trước = đối phương không quyết được, mất thời gian.
+- 報告の3原則は『結論先出し・事実/私見分離・タイムリー』。経過から始めると相手は判断できず時間を消耗する。
+- 3 nguyên tắc báo cáo: kết luận trước / tách sự thật-ý kiến / kịp thời. Kể quá trình trước = đối phương không quyết được, mất thời gian.
 
-### J3.2 (từ rule_02 — Format báo cáo tiến độ daily/weekly)
+### J3.2 (từ rule_02 — Khuôn báo cáo tiến độ daily/weekly)
 
 **Skill:** 場面把握
 
@@ -60,8 +60,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 Daily の Next は当日範囲。Weekly なら来週範囲。スコープを混同すると相手は判断できない。
-- 🇻🇳 Next của daily là trong ngày. Của weekly là tuần sau. Lẫn scope = người nhận không quyết được.
+- Daily の Next は当日範囲。Weekly なら来週範囲。スコープを混同すると相手は判断できない。
+- Next của daily là trong ngày. Của weekly là tuần sau. Lẫn phạm vi = người nhận không quyết được.
 
 ### J3.3 (từ rule_03 — Cấu trúc báo cáo kết quả (Goal→Result→Cause→Action))
 
@@ -77,8 +77,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 Goal は Result を評価する物差し。物差しを共有しないと「OK」が何との比較か分からない。
-- 🇻🇳 Goal là thước đo để đánh giá Result. Không chia sẻ thước đo thì 'OK' so với gì?
+- Goal は Result を評価する物差し。物差しを共有しないと「OK」が何との比較か分からない。
+- Goal là thước đo để đánh giá Result. Không chia sẻ thước đo thì 'OK' so với gì?
 
 ### J3.4 (từ rule_04 — Báo cáo trung gian (mốc 25/50/75%))
 
@@ -94,8 +94,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 25/50/75% の3マイルストーンが軌道修正に最適。90% は遅すぎ、毎日は過剰。
-- 🇻🇳 3 mốc 25/50/75% là tối ưu cho xoay hướng. 90% trễ quá, mỗi ngày là quá đà.
+- 25/50/75% の3マイルストーンが軌道修正に最適。90% は遅すぎ、毎日は過剰。
+- 3 mốc 25/50/75% là tối ưu cho xoay hướng. 90% trễ quá, mỗi ngày là quá đà.
 
 ### J3.5 (từ rule_05 — Báo cáo hoàn thành (Output→Acceptance→Lessons))
 
@@ -111,8 +111,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 日本ビジネスでは、納品（物を渡す）と完了（検収済み）は明確に区別される。検収書なしでは完了とは言えない。
-- 🇻🇳 Business Nhật phân biệt rõ: 納品 (giao hàng) vs 完了 (đã có nghiệm thu). Không có văn bản nghiệm thu thì chưa gọi là hoàn thành.
+- 日本ビジネスでは、納品（物を渡す）と完了（検収済み）は明確に区別される。検収書なしでは完了とは言えない。
+- Môi trường làm việc Nhật phân biệt rõ: 納品 (giao hàng) vs 完了 (đã có nghiệm thu). Không có văn bản nghiệm thu thì chưa gọi là hoàn thành.
 
 ### J3.6 (từ rule_06 — Báo cáo có số liệu (KPI / before-after / % thay đổi))
 
@@ -128,10 +128,10 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 数値報告は before/after + 差分 + 母数の3点セットが基本。「体感」「かなり」では判断材料にならない。
-- 🇻🇳 Báo cáo bằng số phải có before/after + diff + sample. 「体感」「かなり」 không phải dữ kiện.
+- 数値報告は before/after + 差分 + 母数の3点セットが基本。「体感」「かなり」では判断材料にならない。
+- Báo cáo bằng số phải có before/after + diff + sample. 「体感」「かなり」 không phải dữ kiện.
 
-### J3.7 (từ rule_08 — Cách viết houkokusho — báo cáo formal kiểu Nhật)
+### J3.7 (từ rule_08 — Cách viết houkokusho — báo cáo chính thức kiểu Nhật)
 
 **Skill:** 表現読解
 
@@ -145,8 +145,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 件名は『書類種別＋スコープ＋期間』。「〜について」「ご報告」では分類不能。
-- 🇻🇳 Tiêu đề: 'loại văn bản + scope + thời gian'. 「〜について」「ご報告」 không phân loại được.
+- 件名は『書類種別＋スコープ＋期間』。「〜について」「ご報告」では分類不能。
+- Tiêu đề: 'loại văn bản + phạm vi + thời gian'. 「〜について」「ご報告」 không phân loại được.
 
 ### J3.8 (từ rule_09 — Báo cáo miệng vs văn bản (Decision Matrix))
 
@@ -162,10 +162,10 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 緊急は電話で即時通知し、書面で audit trail を残すのが原則。Slack 通常チャンネルは流れるリスクがある。
-- 🇻🇳 Khẩn cấp = gọi điện báo ngay rồi mail để có audit trail. Slack channel thường có thể bị trôi.
+- 緊急は電話で即時通知し、書面で audit trail を残すのが原則。Slack 通常チャンネルは流れるリスクがある。
+- Khẩn cấp = gọi điện báo ngay rồi mail để lưu dấu vết kiểm tra. Slack channel thường có thể bị trôi.
 
-### J3.9 (từ rule_12 — Checklist phòng ngừa thiếu báo cáo)
+### J3.9 (từ rule_12 — Danh sách kiểm tra phòng ngừa thiếu báo cáo)
 
 **Skill:** 場面把握
 
@@ -179,8 +179,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 週30件規模の通信は記憶では漏れる。毎日のセルフチェックリストで未返信／約束期日／口頭→書面化を可視化するのが最効率。
-- 🇻🇳 Quy mô 30 communication/tuần thì trí nhớ chắc chắn rớt. Checklist hàng ngày để visualize chưa-reply / deadline / verbal-sang-văn-bản là hiệu quả nhất.
+- 週30件規模の通信は記憶では漏れる。毎日のセルフチェックリストで未返信／約束期日／口頭→書面化を可視化するのが最効率。
+- Quy mô 30 trao đổi/tuần thì trí nhớ chắc chắn rớt. Danh sách kiểm tra hàng ngày để hiển thị rõ chưa-reply / hạn chót / việc miệng cần viết thành văn bản là hiệu quả nhất.
 
 ### J3.10 (từ rule_13 — Nguyên tắc liên lạc tức thì (delayed = wrong))
 
@@ -196,10 +196,10 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 情報の鮮度は時間とともに指数的に低下する。詳細が未確定でも『緊急共有』として15分以内に第一報を出し、同僚の無駄作業を防ぐ。
-- 🇻🇳 Giá trị thông tin giảm cấp số mũ theo thời gian. Chi tiết chưa rõ vẫn báo ngay với label 'khẩn' trong 15 phút để tránh đồng nghiệp lãng phí.
+- 情報の鮮度は時間とともに指数的に低下する。詳細が未確定でも『緊急共有』として15分以内に第一報を出し、同僚の無駄作業を防ぐ。
+- Giá trị thông tin giảm cấp số mũ theo thời gian. Chi tiết chưa rõ vẫn báo ngay với nhãn 'khẩn' trong 15 phút để tránh đồng nghiệp lãng phí.
 
-### J3.11 (từ rule_14 — Cấu trúc liên lạc broadcast (TL;DR + Detail + Action item))
+### J3.11 (từ rule_14 — Cấu trúc liên lạc toàn nhóm (Tóm tắt + Chi tiết + Việc cần làm))
 
 **Skill:** 場面把握
 
@@ -213,8 +213,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 @assignee 別セクション + 期日明記が最も miss を防ぐ。物語に埋め込むと担当者は自分のタスクを抜き出せない。
-- 🇻🇳 Chia section theo @assignee + ghi rõ deadline là cách ít miss nhất. Nhồi vào văn xuôi thì assignee không trích được task của mình.
+- @assignee 別セクション + 期日明記が最も miss を防ぐ。物語に埋め込むと担当者は自分のタスクを抜き出せない。
+- Chia mục theo @người phụ trách + ghi rõ hạn chót là cách ít sót nhất. Nhồi vào văn xuôi thì người phụ trách không trích được việc của mình.
 
 ### J3.12 (từ rule_15 — Chọn channel (chat/mail/phone))
 
@@ -230,8 +230,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 critical のみ例外として二重チャネル：電話で即時通知（速度）+ Slack/メールで記録（audit trail）。
-- 🇻🇳 Critical là ngoại lệ dùng 2 lớp: điện thoại để báo ngay (tốc độ) + Slack/mail để lưu vết (audit trail).
+- critical のみ例外として二重チャネル：電話で即時通知（速度）+ Slack/メールで記録（audit trail）。
+- Critical là ngoại lệ dùng 2 lớp: điện thoại để báo ngay (tốc độ) + Slack/mail để lưu dấu vết kiểm tra.
 
 ### J3.13 (từ rule_16 — Slack channel etiquette)
 
@@ -247,8 +247,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 深夜は @channel/@here ともに DnD を破る可能性。緊急でなければ翌朝の業務時間まで待つのが日本ビジネスマナー。
-- 🇻🇳 Đêm khuya cả @channel/@here đều có thể phá DnD. Không khẩn thì đợi đến sáng giờ làm là chuẩn business Nhật.
+- 深夜は @channel/@here ともに DnD を破る可能性。緊急でなければ翌朝の業務時間まで待つのが日本ビジネスマナー。
+- Đêm khuya cả @channel/@here đều có thể phá DnD. Không khẩn thì đợi đến sáng giờ làm là chuẩn business Nhật.
 
 ### J3.14 (từ rule_18 — Báo dời lịch họp)
 
@@ -264,8 +264,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 直前の連絡 + 候補不足 + カレンダー更新を相手任せはリスケ最悪パターン。24時間前 + 候補3つ + 自分で更新が原則。
-- 🇻🇳 Báo sát giờ + thiếu option + bắt khách tự update là pattern tệ nhất. Đúng: 24h trước + 3 option + tự update.
+- 直前の連絡 + 候補不足 + カレンダー更新を相手任せはリスケ最悪パターン。24時間前 + 候補3つ + 自分で更新が原則。
+- Báo sát giờ + thiếu phương án + bắt khách tự cập nhật là tệ nhất. Đúng: 24h trước + 3 phương án + tự cập nhật.
 
 ### J3.15 (từ rule_19 — Báo vắng (nghỉ phép / nghỉ ốm))
 
@@ -281,8 +281,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 計画休暇は最低24時間前、4要素（期間・復帰・代行・自動返信）を明示するのが基本。直前 + 口頭のみは不可。
-- 🇻🇳 Nghỉ có kế hoạch phải báo tối thiểu 24h trước, đủ 4 yếu tố (thời gian / return / cover / auto-reply). Sát giờ + chỉ miệng = không được.
+- 計画休暇は最低24時間前、4要素（期間・復帰・代行・自動返信）を明示するのが基本。直前 + 口頭のみは不可。
+- Nghỉ có kế hoạch phải báo tối thiểu 24h trước, đủ 4 yếu tố (thời gian / ngày trở lại / người đảm nhiệm / tự động trả lời). Sát giờ + chỉ miệng = không được.
 
 ### J3.16 (từ rule_20 — Báo công tác)
 
@@ -298,8 +298,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 休暇は完全不在、出張は『場所が違うだけで稼働中』。daily 進捗と reachable 時間の明示が必須。
-- 🇻🇳 Nghỉ phép = vắng hoàn toàn. Công tác = 'chỉ khác địa điểm, vẫn làm việc'. Bắt buộc có daily check-in + giờ reachable.
+- 休暇は完全不在、出張は『場所が違うだけで稼働中』。daily 進捗と reachable 時間の明示が必須。
+- Nghỉ phép = vắng hoàn toàn. Công tác = 'chỉ khác địa điểm, vẫn làm việc'. Bắt buộc có báo cáo hàng ngày + giờ có thể liên lạc được.
 
 ### J3.17 (từ rule_22 — Khi nào cần tham vấn vs tự quyết)
 
@@ -315,8 +315,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 影響範囲（本番5万レコード）×不可逆性（DBスキーマは戻しにくい）両方『大』なので必ず相談。他は影響小×可逆性高で自己決定領域。
-- 🇻🇳 Impact (50k record production) × Reversibility (schema khó rollback) đều 'lớn' nên bắt buộc tham vấn. Các option khác impact nhỏ × rollback dễ, thuộc vùng tự quyết.
+- 影響範囲（本番5万レコード）×不可逆性（DBスキーマは戻しにくい）両方『大』なので必ず相談。他は影響小×可逆性高で自己決定領域。
+- Phạm vi ảnh hưởng (50k bản ghi môi trường vận hành) × Tính hoàn nguyên (cấu trúc DB khó hoàn nguyên) đều 'lớn' nên bắt buộc tham vấn. Các phương án khác ảnh hưởng nhỏ × hoàn nguyên dễ, thuộc vùng tự quyết.
 
 ### J3.18 (từ rule_23 — Chuẩn bị trước khi tham vấn)
 
@@ -332,8 +332,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 ①5W1H で状況整理、②3つの参考事例で過去・代替案を確認、③自分の仮説を立てる。これがないと相談ではなく丸投げになる。
-- 🇻🇳 5W1H tổ chức tình huống / 3 case tham chiếu rà quá khứ + alternative / giả thuyết của bản thân. Thiếu = đẩy việc.
+- ①5W1H で状況整理、②3つの参考事例で過去・代替案を確認、③自分の仮説を立てる。これがないと相談ではなく丸投げになる。
+- 5W1H tổ chức tình huống / 3 ví dụ tham chiếu rà quá khứ + phương án thay thế / giả thuyết của bản thân. Thiếu = đẩy việc.
 
 ### J3.19 (từ rule_24 — Cách mở lời tham vấn cấp trên)
 
@@ -349,8 +349,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 切り出しには①時間枠（15分）②相談意図（ご相談したい）③謙譲語（いただけますでしょうか）の3要素が揃う必要がある。「ちょっと」「すぐ」は時間が読めない。
-- 🇻🇳 Câu mở cần 3 yếu tố: khung thời gian (15 phút) + ý định tham vấn (ご相談したい) + khiêm nhường (いただけますでしょうか). 「ちょっと」「すぐ」 không đo được.
+- 切り出しには①時間枠（15分）②相談意図（ご相談したい）③謙譲語（いただけますでしょうか）の3要素が揃う必要がある。「ちょっと」「すぐ」は時間が読めない。
+- Câu mở cần 3 yếu tố: khung thời gian (15 phút) + ý định tham vấn (ご相談したい) + khiêm nhường (いただけますでしょうか). 「ちょっと」「すぐ」 không đo được.
 
 ### J3.20 (từ rule_25 — Hỏi judgment material thay vì hỏi đáp án)
 
@@ -366,8 +366,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 答えを聞くのではなく『判断材料』『見落としの観点』を聞くのが相談の本質。決定権は相談者側に残る。
-- 🇻🇳 Không hỏi đáp án mà hỏi 'dữ kiện' 'axis bỏ sót' = bản chất tham vấn. Quyền quyết định ở phía người tham vấn.
+- 答えを聞くのではなく『判断材料』『見落としの観点』を聞くのが相談の本質。決定権は相談者側に残る。
+- Không hỏi đáp án mà hỏi 'dữ kiện' 'góc nhìn đang bỏ sót' = bản chất tham vấn. Quyền quyết định ở phía người tham vấn.
 
 ### J3.21 (từ rule_26 — Mang sẵn nhiều phương án)
 
@@ -383,8 +383,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 1案だけは『判子押して』のサインで真の相談ではない。2〜3案 × 3軸（コスト/時間/リスク）+ 推奨案明示が黄金パターン。
-- 🇻🇳 1 option = xin đóng dấu, không phải tham vấn thật. 2-3 options × 3 trục + show recommend là pattern chuẩn.
+- 1案だけは『判子押して』のサインで真の相談ではない。2〜3案 × 3軸（コスト/時間/リスク）+ 推奨案明示が黄金パターン。
+- 1 phương án = xin đóng dấu, không phải tham vấn thật. 2-3 phương án × 3 trục + đề xuất rõ phương án khuyến nghị là chuẩn mực.
 
 ### J3.22 (từ rule_27 — Lưu log tham vấn)
 
@@ -400,8 +400,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 口頭・Slack だけでは3ヶ月後に検索コストが膨大。Decision Register（DR）に構造化された1行を残せば、後の参照と監査が容易。
-- 🇻🇳 Chỉ miệng / Slack thì 3 tháng sau search rất tốn. Lưu 1 dòng có cấu trúc vào DR = dễ tra cứu + audit sau này.
+- 口頭・Slack だけでは3ヶ月後に検索コストが膨大。Decision Register（DR）に構造化された1行を残せば、後の参照と監査が容易。
+- Chỉ miệng / Slack thì 3 tháng sau tìm kiếm rất tốn. Lưu 1 dòng có cấu trúc vào DR = dễ tra cứu + kiểm toán sau này.
 
 ### J3.23 (từ rule_28 — Khi mình là người được tham vấn)
 
@@ -417,8 +417,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 即答は学習機会を奪い、同じ相談が繰り返される。突き返すと相談文化が崩壊する。コーチング5ステップで判断軸を内在化させるのが最適。
-- 🇻🇳 Trả lời ngay = cướp cơ hội học, lặp tham vấn cùng pattern. Đẩy ra = phá văn hóa tham vấn. Coaching 5 bước để nội hóa axis là tối ưu.
+- 即答は学習機会を奪い、同じ相談が繰り返される。突き返すと相談文化が崩壊する。コーチング5ステップで判断軸を内在化させるのが最適。
+- Trả lời ngay = cướp cơ hội học, lặp tham vấn cùng vết. Đẩy ra = phá văn hóa tham vấn. Hướng dẫn 5 bước để nội hóa trục đánh giá là tối ưu.
 
 ### J3.24 (từ rule_30 — Mang về tham vấn (mochikaeri))
 
@@ -434,8 +434,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 社内期限 = 顧客期限 - 1日のバッファルール。1日の余裕で突発事故を吸収できる。同日設定はゼロバッファで危険。
-- 🇻🇳 Deadline nội bộ = deadline khách - 1 ngày là rule buffer. 1 ngày dư hấp thụ sự cố. Đặt cùng ngày = 0 buffer, nguy hiểm.
+- 社内期限 = 顧客期限 - 1日のバッファルール。1日の余裕で突発事故を吸収できる。同日設定はゼロバッファで危険。
+- Hạn nội bộ = hạn khách - 1 ngày là quy tắc đệm. 1 ngày dư hấp thụ sự cố. Đặt cùng ngày = 0 đệm, nguy hiểm.
 
 ### J3.25 (từ rule_31 — Phát hiện bug — Quy trình Hou-Ren-Sou)
 
@@ -451,10 +451,10 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 第一報は『事実+影響範囲+調査中』のみ。原因推測やETA約束は二重約束のリスク。情報が固まり次第、別報で順次更新。
-- 🇻🇳 Báo cáo đầu chỉ 'fact + impact + investigating'. Suy đoán nguyên nhân hoặc hứa ETA = rủi ro hứa kép. Khi info cứng thì update từng phần.
+- 第一報は『事実+影響範囲+調査中』のみ。原因推測やETA約束は二重約束のリスク。情報が固まり次第、別報で順次更新。
+- Báo cáo đầu chỉ 'sự việc + phạm vi ảnh hưởng + đang điều tra'. Suy đoán nguyên nhân hoặc hứa ETA = rủi ro hứa kép. Khi thông tin cứng thì cập nhật từng phần.
 
-### J3.26 (từ rule_32 — Khi khách phàn nàn — escalation)
+### J3.26 (từ rule_32 — Khi khách phàn nàn — leo thang xử lý)
 
 **Skill:** 発言聴解
 
@@ -468,8 +468,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 クレーム対応の最初の手は『傾聴+復唱』。事実を固定し、ご不便への謝罪のみ先行。否定や推測、未検証の約束はNG。
-- 🇻🇳 Bước đầu xử lý khiếu nại là 'lắng nghe + lặp lại'. Chốt fact, chỉ xin lỗi cho 「ご不便」 trước. Phủ nhận, suy đoán, hứa khi chưa verify đều NG.
+- クレーム対応の最初の手は『傾聴+復唱』。事実を固定し、ご不便への謝罪のみ先行。否定や推測、未検証の約束はNG。
+- Bước đầu xử lý khiếu nại là 'lắng nghe + lặp lại'. Chốt sự việc, chỉ xin lỗi cho 「ご不便」 trước. Phủ nhận, suy đoán, hứa khi chưa xác minh đều NG.
 
 ### J3.27 (từ rule_33 — Báo nghỉ việc / nghỉ dài hạn)
 
@@ -485,10 +485,10 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 退職・長期休暇は階層順序が重要。Tech lead 1-on-1 → CTO → 客向け正式案内（CTO名義）→ 全社通知 → チーム個別。Slack 先行や客への junior 直接連絡はNG。
-- 🇻🇳 Nghỉ việc / nghỉ dài quan trọng thứ tự hierarchy. Tech lead 1-on-1 → CTO → announcement khách (CTO ký) → Slack công ty → 1-on-1 từng người. Slack đi trước hoặc junior báo khách trực tiếp đều NG.
+- 退職・長期休暇は階層順序が重要。Tech lead 1-on-1 → CTO → 客向け正式案内（CTO名義）→ 全社通知 → チーム個別。Slack 先行や客への junior 直接連絡はNG。
+- Nghỉ việc / nghỉ dài quan trọng thứ tự cấp bậc. Gặp riêng Tech lead → CTO → thông báo chính thức đến khách (CTO ký) → Slack công ty → gặp riêng từng người. Slack đi trước hoặc nhân viên mới báo khách trực tiếp đều NG.
 
-### J3.28 (từ rule_34 — Mentoring Hou-Ren-Sou cho junior mới)
+### J3.28 (từ rule_34 — Kèm cặp Hou-Ren-Sou cho nhân viên mới)
 
 **Skill:** 場面把握
 
@@ -502,10 +502,10 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 ad-hoc DM は mentor の集中も新人の心理も両方を消耗する。固定 1-on-1 + 固定 Office Hour + 期待値の明文化で、安心と効率の両立。
-- 🇻🇳 DM ad-hoc làm mệt cả mentor và junior. 1-on-1 cố định + Office Hour cố định + expectations rõ = vừa an tâm vừa hiệu quả.
+- ad-hoc DM は mentor の集中も新人の心理も両方を消耗する。固定 1-on-1 + 固定 Office Hour + 期待値の明文化で、安心と効率の両立。
+- Nhắn tin tự phát làm mệt cả người hướng dẫn lẫn nhân viên mới. Gặp riêng cố định + Office Hour cố định + kỳ vọng rõ ràng = vừa an tâm vừa hiệu quả.
 
-### J3.29 (từ rule_35 — Hou-Ren-Sou khi work-from-home)
+### J3.29 (từ rule_35 — Hou-Ren-Sou khi làm việc từ xa)
 
 **Skill:** 場面把握
 
@@ -519,10 +519,10 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 リモートでは『見えない』が default。朝会 9:30 + ステータスアイコン + EOD ログの3点で可視化、会議はカメラ ON が標準。
-- 🇻🇳 Remote default 'không thấy'. 3 ritual: standup 9:30 + status icon + EOD log để hữu hình hóa, họp camera ON mặc định.
+- リモートでは『見えない』が default。朝会 9:30 + ステータスアイコン + EOD ログの3点で可視化、会議はカメラ ON が標準。
+- Làm từ xa mặc định 'không thấy nhau'. 3 nghi thức: họp đầu giờ 9:30 + biểu tượng trạng thái + nhật ký EOD để hữu hình hóa, họp video bật camera là tiêu chuẩn.
 
-### J3.30 (từ rule_36 — Bridging gap VN-JP HouRenSou)
+### J3.30 (từ rule_36 — Thu hẹp khoảng cách VN-JP HouRenSou)
 
 **Skill:** 場面把握
 
@@ -536,8 +536,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 VN『沈黙=順調』vs JP『沈黙=問題』のギャップを cadence 約束 + no-news report (báo 'không có tin') で解消する。完成時のみは JP 側に不安を与える。
-- 🇻🇳 Khoảng cách VN 'im lặng = ổn' vs Nhật 'im lặng = vấn đề', giải quyết bằng cam kết cadence + báo no news. Chỉ báo lúc xong = khách Nhật bất an.
+- VN『沈黙=順調』vs JP『沈黙=問題』のギャップを cadence 約束 + no-news report (báo 'không có tin') で解消する。完成時のみは JP 側に不安を与える。
+- Khoảng cách VN 'im lặng = ổn' vs Nhật 'im lặng = vấn đề', giải quyết bằng cam kết tần suất báo cáo + báo không có tin. Chỉ báo lúc xong = khách Nhật bất an.
 
 ### J3.31 (từ rule_37 — Chọn channel: Slack / Notion / Email)
 
@@ -553,10 +553,10 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 契約書は5+ラウンドの編集とversion history が必要。Notion は共同編集と履歴の両立が可能。Slack に大ファイルは検索性・保存性ともにNG。
-- 🇻🇳 Hợp đồng cần 5+ vòng edit + version history. Notion vừa cộng tác vừa giữ lịch sử. Slack với file lớn kém cả search và lưu trữ.
+- 契約書は5+ラウンドの編集とversion history が必要。Notion は共同編集と履歴の両立が可能。Slack に大ファイルは検索性・保存性ともにNG。
+- Hợp đồng cần 5+ vòng edit + version history. Notion vừa cộng tác vừa giữ lịch sử. Slack với file lớn kém cả search và lưu trữ.
 
-### J3.32 (từ rule_38 — Self-diagnostic Hou-Ren-Sou 15 mục)
+### J3.32 (từ rule_38 — Tự chẩn đoán Hou-Ren-Sou 15 mục)
 
 **Skill:** 場面把握
 
@@ -570,10 +570,10 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 C-Dゼロは self-bias の典型サイン。客観 evidence (Slack/DR/客先) と照合して recalibrate するのが正解。
-- 🇻🇳 C-D 0 là dấu hiệu điển hình self-bias. Đối chiếu evidence khách quan (Slack/DR/khách) để recalibrate là đúng.
+- C-Dゼロは self-bias の典型サイン。客観 evidence (Slack/DR/客先) と照合して recalibrate するのが正解。
+- C-D 0 là dấu hiệu điển hình thiên vị bản thân. Đối chiếu bằng chứng khách quan (Slack/DR/khách) rồi hiệu chỉnh lại là đúng.
 
-### J3.33 (từ rule_39 — Xây dựng team culture Hou-Ren-Sou)
+### J3.33 (từ rule_39 — Xây dựng văn hóa Hou-Ren-Sou cấp team)
 
 **Skill:** 場面把握
 
@@ -587,10 +587,10 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 Playbook = Rituals (定期儀式) + Dashboard (可視化) + OKR (測定可能目標) + Escalation matrix (緊急時経路) + Onboarding (新人プロセス)。これがあれば quality が個人差に左右されない。
-- 🇻🇳 Playbook = Rituals (nghi thức định kỳ) + Dashboard (hữu hình hóa) + OKR (mục tiêu đo được) + Escalation matrix (lộ trình khẩn cấp) + Onboarding (quy trình junior). Có đủ = quality không bị lệ thuộc cá nhân.
+- Playbook = Rituals (定期儀式) + Dashboard (可視化) + OKR (測定可能目標) + Escalation matrix (緊急時経路) + Onboarding (新人プロセス)。これがあれば quality が個人差に左右されない。
+- Playbook = Rituals (nghi thức định kỳ) + Dashboard (hữu hình hóa) + OKR (mục tiêu đo được) + Escalation matrix (lộ trình khẩn cấp) + Onboarding (quy trình tiếp nhận người mới). Có đủ = chất lượng không bị lệ thuộc cá nhân.
 
-### J3.34 (từ rule_40 — Reflection + cải tiến hàng tuần)
+### J3.34 (từ rule_40 — Hồi cố + cải tiến hàng tuần)
 
 **Skill:** 場面把握
 
@@ -604,8 +604,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 Problem だけでは愚痴セッションに終わる。Keep で良い習慣を強化、Try で新しい挑戦、それぞれ Action item に owner+期限+check日を付ける。次週冒頭で review することでループが完結。
-- 🇻🇳 Chỉ Problem thì biến thành phàn nàn. Keep củng cố thói quen tốt, Try đề xuất thử mới, mỗi cái thành Action item có owner + deadline + check date. Đầu tuần sau review để vòng cải thiện đóng kín.
+- Problem だけでは愚痴セッションに終わる。Keep で良い習慣を強化、Try で新しい挑戦、それぞれ Action item に owner+期限+check日を付ける。次週冒頭で review することでループが完結。
+- Chỉ Problem thì biến thành phàn nàn. Keep củng cố thói quen tốt, Try đề xuất thử mới, mỗi cái thành việc cần làm có người phụ trách + hạn chót + ngày kiểm tra. Đầu tuần sau rà soát để vòng cải thiện đóng kín.
 
 
 ## Level J2 (5 câu)
@@ -624,8 +624,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 Critical 障害は『発見即報告』が原則。原因が分からなくても Fact / Impact / 暫定 Plan を30分以内に第一報する。
-- 🇻🇳 Sự cố critical nguyên tắc 'phát hiện = báo ngay'. Chưa rõ nguyên nhân vẫn phải báo Fact / Impact / Plan tạm trong 30 phút.
+- Critical 障害は『発見即報告』が原則。原因が分からなくても Fact / Impact / 暫定 Plan を30分以内に第一報する。
+- Sự cố critical nguyên tắc 'phát hiện = báo ngay'. Chưa rõ nguyên nhân vẫn phải báo Fact / Impact / Plan tạm trong 30 phút.
 
 ### J2.2 (từ rule_11 — Báo cáo cho khách hàng quan trọng)
 
@@ -641,8 +641,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 ウチ・ソト原則：社外の人に対して社内同僚を呼ぶときは役職敬称を外し「弊社の〇〇」と表現する。
-- 🇻🇳 Nguyên tắc ウチ・ソト: khi nói với người ngoài, gọi đồng nghiệp nội bộ phải bỏ title chức vụ, dùng 「弊社の〇〇」.
+- ウチ・ソト原則：社外の人に対して社内同僚を呼ぶときは役職敬称を外し「弊社の〇〇」と表現する。
+- Nguyên tắc ウチ・ソト: khi nói với người ngoài, gọi đồng nghiệp nội bộ phải bỏ danh xưng chức vụ, dùng 「弊社の〇〇」.
 
 ### J2.3 (từ rule_17 — Liên lạc khẩn cấp + thứ tự ưu tiên)
 
@@ -658,8 +658,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 社内で Plan まで固めてから顧客に告げるのが原則。Plan 無しで顧客に告げると詰められて現場が混乱する。
-- 🇻🇳 Nguyên tắc: chốt Plan nội bộ rồi mới báo khách. Báo khách khi chưa có Plan = bị truy → hiện trường rối.
+- 社内で Plan まで固めてから顧客に告げるのが原則。Plan 無しで顧客に告げると詰められて現場が混乱する。
+- Nguyên tắc: chốt Plan nội bộ rồi mới báo khách. Báo khách khi chưa có Plan = bị truy → hiện trường rối.
 
 ### J2.4 (từ rule_21 — Liên lạc cross-timezone (VN-JP))
 
@@ -675,8 +675,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 cross-timezone では JST (ICT) を必ず併記。「明日」「夕方」のような相対時刻は両国で異なる解釈を生む。
-- 🇻🇳 Cross-timezone phải ghi cả JST và ICT. 「明日」「夕方」 là giờ tương đối, mỗi nước hiểu khác nhau.
+- cross-timezone では JST (ICT) を必ず併記。「明日」「夕方」のような相対時刻は両国で異なる解釈を生む。
+- Cross-timezone phải ghi cả JST và ICT. 「明日」「夕方」 là giờ tương đối, mỗi nước hiểu khác nhau.
 
 ### J2.5 (từ rule_29 — Tham vấn với khách)
 
@@ -692,12 +692,11 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 客先相談は謙譲語『させていただく』+ 丁寧語『でしょうか』の二重敬語が標準。社内 casual トーンとは明確に分けるべき。
-- 🇻🇳 Tham vấn với khách phải khiêm nhường 「させていただく」 + lịch sự 「でしょうか」 ghép đôi. Phải tách bạch khỏi tone casual nội bộ.
+- 客先相談は謙譲語『させていただく』+ 丁寧語『でしょうか』の二重敬語が標準。社内 casual トーンとは明確に分けるべき。
+- Tham vấn với khách phải khiêm nhường 「させていただく」 + lịch sự 「でしょうか」 ghép đôi. Phải tách bạch khỏi giọng thân mật nội bộ.
 
 
 **Tổng số câu hỏi:** 40
 
 ---
 
-*Tài liệu này có thể export thành quiz interactive — đọc data trực tiếp từ `bjt_practice` array trong mỗi `conversation.json`.*

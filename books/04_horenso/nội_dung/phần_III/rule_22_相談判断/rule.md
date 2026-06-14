@@ -18,61 +18,52 @@ Lần đầu Dũng tham vấn cả 2 → chị Hương cau mày. Lần 2 áp câ
 
 ---
 
-## ❌ Hội thoại XẤU — tham vấn cả việc nhỏ
+## Hội thoại XẤU — tham vấn cả việc nhỏ
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、ご<ruby>相談<rt>そうだん</rt></ruby>です。FEのローカルブランチで `userId` を `user_id` にリネームしたいのですが、よろしいでしょうか?」 |
-|  | *Chị Hương, em xin tham vấn ạ. Trên branch FE local em muốn đổi `userId` thành `user_id`, được không ạ?* |
-| **フオン** | 「それ、私に聞くこと?ローカル・<ruby>未<rt>み</rt></ruby>マージ・あなた1人の<ruby>作業範囲<rt>さぎょうはんい</rt></ruby>でしょ?」 |
-|  | *Cái đó hỏi chị làm gì? Local, chưa merge, một mình em làm mà?* |
-| **ズン** | 「あ、<ruby>念<rt>ねん</rt></ruby>のため…」 |
-|  | *À, em hỏi cho chắc...* |
-| **フオン** | 「<ruby>自己決定<rt>じこけってい</rt></ruby>で OK、<ruby>事後報告<rt>じごほうこく</rt></ruby>だけして。逆に DB の `user_id` を変える話があれば、それは絶対<ruby>相談<rt>そうだん</rt></ruby>。<ruby>判断軸<rt>はんだんじく</rt></ruby>を理解して。」 |
-|  | *Tự quyết đi, chỉ cần báo cáo sau thôi. Ngược lại nếu là đổi `user_id` ở DB thì bắt buộc phải tham vấn. Hiểu trục đánh giá đi nhé.* |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、ご<ruby>相談<rt>そうだん</rt></ruby>です。FEのローカルブランチで `userId` を `user_id` にリネームしたいのですが、よろしいでしょうか?」 <br/>*Chị Hương, em xin tham vấn ạ. Trên branch FE local em muốn đổi `userId` thành `user_id`, được không ạ?* |
+| **フオン** | 「それ、私に聞くこと?ローカル・<ruby>未<rt>み</rt></ruby>マージ・あなた1人の<ruby>作業範囲<rt>さぎょうはんい</rt></ruby>でしょ?」 <br/>*Cái đó hỏi chị làm gì? Local, chưa merge, một mình em làm mà?* |
+| **ズン** | 「あ、<ruby>念<rt>ねん</rt></ruby>のため…」 <br/>*À, em hỏi cho chắc...* |
+| **フオン** | 「<ruby>自己決定<rt>じこけってい</rt></ruby>で OK、<ruby>事後報告<rt>じごほうこく</rt></ruby>だけして。逆に DB の `user_id` を変える話があれば、それは絶対<ruby>相談<rt>そうだん</rt></ruby>。<ruby>判断軸<rt>はんだんじく</rt></ruby>を理解して。」 <br/>*Tự quyết đi, chỉ cần báo cáo sau thôi. Ngược lại nếu là đổi `user_id` ở DB thì bắt buộc phải tham vấn. Hiểu trục đánh giá đi nhé.* |
 
 **Vì sao xấu:** L1 là quyết định **ảnh hưởng nhỏ** (chỉ local FE branch) × **rollback dễ** (chưa merge, hoàn tác dễ) → tự quyết. Tham vấn việc nhỏ làm sếp loãng tập trung và làm Dũng trông thiếu tự tin.
 
 ---
 
-## ✅ Hội thoại TỐT — phân loại theo decision tree
+## Hội thoại TỐT — phân loại theo cây quyết định
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、<ruby>判断軸<rt>はんだんじく</rt></ruby>に<ruby>従<rt>したが</rt></ruby>って2<ruby>件<rt>けん</rt></ruby>を<ruby>整理<rt>せいり</rt></ruby>しました。1件は<ruby>事後報告<rt>じごほうこく</rt></ruby>、1件はご<ruby>相談<rt>そうだん</rt></ruby>です【1】。」 |
-|  | *Chị Hương, em đã phân loại 2 việc theo trục đánh giá. 1 cái em báo cáo sau, 1 cái em xin tham vấn ạ.* |
-| **フオン** | 「うん、聞きます。」 |
-|  | *Ừ, chị nghe.* |
-| **ズン** | 「**事後報告:** FEローカルブランチで `userId` を `user_id` にリネームしました。<ruby>影響範囲<rt>えいきょうはんい</rt></ruby>ローカル + 未マージで<ruby>可逆性<rt>かぎゃくせい</rt></ruby>も高いため自己決定としました【2】。」 |
-|  | *[Báo cáo sau] Em đã đổi `userId` thành `user_id` trên branch FE local. Phạm vi ảnh hưởng chỉ local + chưa merge nên rollback dễ, em đã tự quyết ạ.* |
-| **ズン** | 「**ご相談:** DB の `user_id` カラムを `member_id` にリネームする<ruby>提案<rt>ていあん</rt></ruby>がチームから出ております。<ruby>本番<rt>ほんばん</rt></ruby>5万レコード + 7サービスが<ruby>参照<rt>さんしょう</rt></ruby>しており、影響大 + <ruby>不可逆性<rt>ふかぎゃくせい</rt></ruby>高いため、<ruby>独断<rt>どくだん</rt></ruby>は避けたく<ruby>存<rt>ぞん</rt></ruby>じます【3】。」 |
-|  | *[Tham vấn] Team đang đề xuất đổi cột `user_id` thành `member_id` trên DB. Production có 50k record + 7 service tham chiếu, ảnh hưởng lớn + khó rollback nên em không dám tự quyết ạ.* |
-| **フオン** | 「正しい<ruby>切<rt>き</rt></ruby>り分けね。1件目は OK、2件目はハーCTOも含めた相談<ruby>会議<rt>かいぎ</rt></ruby>をセットして。<ruby>木曜<rt>もくよう</rt></ruby>午後に。」 |
-|  | *Phân loại đúng rồi. Cái 1 OK, cái 2 thì set 1 buổi tham vấn có cả anh Hà CTO. Chiều thứ Năm nhé.* |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、<ruby>判断軸<rt>はんだんじく</rt></ruby>に<ruby>従<rt>したが</rt></ruby>って2<ruby>件<rt>けん</rt></ruby>を<ruby>整理<rt>せいり</rt></ruby>しました。1件は<ruby>事後報告<rt>じごほうこく</rt></ruby>、1件はご<ruby>相談<rt>そうだん</rt></ruby>です【1】。」 <br/>*Chị Hương, em đã phân loại 2 việc theo trục đánh giá. 1 cái em báo cáo sau, 1 cái em xin tham vấn ạ.* |
+| **フオン** | 「うん、聞きます。」 <br/>*Ừ, chị nghe.* |
+| **ズン** | 「**事後報告:** FEローカルブランチで `userId` を `user_id` にリネームしました。<ruby>影響範囲<rt>えいきょうはんい</rt></ruby>ローカル + 未マージで<ruby>可逆性<rt>かぎゃくせい</rt></ruby>も高いため自己決定としました【2】。」 <br/>*[Báo cáo sau] Em đã đổi `userId` thành `user_id` trên branch FE local. Phạm vi ảnh hưởng chỉ local + chưa merge nên rollback dễ, em đã tự quyết ạ.* |
+| **ズン** | 「**ご相談:** DB の `user_id` カラムを `member_id` にリネームする<ruby>提案<rt>ていあん</rt></ruby>がチームから出ております。<ruby>本番<rt>ほんばん</rt></ruby>5万レコード + 7サービスが<ruby>参照<rt>さんしょう</rt></ruby>しており、影響大 + <ruby>不可逆性<rt>ふかぎゃくせい</rt></ruby>高いため、<ruby>独断<rt>どくだん</rt></ruby>は避けたく<ruby>存<rt>ぞん</rt></ruby>じます【3】。」 <br/>*[Tham vấn] Team đang đề xuất đổi cột `user_id` thành `member_id` trên DB. Production có 50k record + 7 service tham chiếu, ảnh hưởng lớn + khó rollback nên em không dám tự quyết ạ.* |
+| **フオン** | 「正しい<ruby>切<rt>き</rt></ruby>り分けね。1件目は OK、2件目はハーCTOも含めた相談<ruby>会議<rt>かいぎ</rt></ruby>をセットして。<ruby>木曜<rt>もくよう</rt></ruby>午後に。」 <br/>*Phân loại đúng rồi. Cái 1 OK, cái 2 thì set 1 buổi tham vấn có cả anh Hà CTO. Chiều thứ Năm nhé.* |
 
-📝 **Ghi chú:**
+ **Ghi chú:**
 - 【1】**「判断軸に従って整理しました」** — cho thấy Dũng đã tự phân loại trước. Sếp tin tưởng.
-- 【2】**「影響範囲ローカル + 未マージで可逆性も高い」** — nêu rõ 2 trục để justify việc tự quyết.
+- 【2】**「影響範囲ローカル + 未マージで可逆性も高い」** — nêu rõ 2 trục để lý giải việc tự quyết.
 - 【3】**「影響大 + 不可逆性高い」** — đối ngược: lý do tham vấn cũng theo 2 trục.
 
 ---
 
-## 🧭 Cây quyết định
+## Cây quyết định
 
 | Ảnh hưởng \ Rollback | Rollback CAO (dễ) | Rollback THẤP (khó) |
 |----------------------|-------------------|---------------------|
 | **NHỎ** | Tự quyết + 事後報告 | Tự quyết + 連絡 ngay |
-| **LỚN** | Tham vấn nhanh (Slack thread) | ⚠ BẮT BUỘC 相談 + 稟議 |
+| **LỚN** | Tham vấn nhanh (Slack thread) |  BẮT BUỘC 相談 + 稟議 |
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「影響範囲 × 可逆性」 — 両方『大』なら必ず相談。両方『小』なら自己決定 + 事後報告で十分。」**
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - Tham vấn cả việc nhỏ → sếp loãng + Dũng thiếu tự tin.
 - Tự quyết việc ảnh hưởng lớn / khó rollback → 1 sai lầm = mất 1 tuần khắc phục.
@@ -81,15 +72,15 @@ Lần đầu Dũng tham vấn cả 2 → chị Hương cau mày. Lần 2 áp câ
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 相談 | そうだん | Tham vấn |
-| 自己決定 | じこけってい | Tự quyết |
-| 判断軸 | はんだんじく | Trục đánh giá |
-| 影響範囲 | えいきょうはんい | Phạm vi ảnh hưởng |
-| 可逆性 | かぎゃくせい | Tính rollback được |
-| 不可逆 | ふかぎゃく | Không rollback được |
-| 事後報告 | じごほうこく | Báo cáo sau khi đã làm |
-| 稟議 | りんぎ | Quy trình duyệt nội bộ |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|-------|-------|
+| 相談 | そうだん | TƯƠNG ĐÀM | Tham vấn |
+| 自己決定 | じこけってい | TỰ KỶ QUYẾT ĐỊNH | Tự quyết |
+| 判断軸 | はんだんじく | PHÁN ĐOÁN TRỤC | Trục đánh giá |
+| 影響範囲 | えいきょうはんい | ẢNH HƯỞNG PHẠM VI | Phạm vi ảnh hưởng |
+| 可逆性 | かぎゃくせい | KHẢ NGHỊCH TÍNH | Tính rollback được |
+| 不可逆 | ふかぎゃく | BẤT KHẢ NGHỊCH | Không rollback được |
+| 事後報告 | じごほうこく | SỰ HẬU BÁO CÁO | Báo cáo sau khi đã làm |
+| 稟議 | りんぎ | BẨM NGHỊ | Quy trình duyệt nội bộ |

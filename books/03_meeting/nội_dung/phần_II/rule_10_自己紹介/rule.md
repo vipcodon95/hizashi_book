@@ -1,6 +1,6 @@
 # Rule 10 — Tự giới thiệu khi có người mới / 自己紹介の標準
 
-> **Luận điểm.** Tự giới thiệu chuẩn business JP = **Cty → Phòng → Tên → Vai trò trong dự án**. 4 element trong 3 câu (~10 giây). Không nói tuổi / quê quán / sở thích như interview.
+> **Luận điểm.** Tự giới thiệu chuẩn business JP = **Cty → Phòng → Tên → Vai trò trong dự án**. 4 yếu tố trong 3 câu (~10 giây). Không nói tuổi / quê quán / sở thích như phỏng vấn xin việc.
 >
 > 業務の自己紹介は4要素：①会社 ②部署 ③氏名 ④プロジェクト内の役割。3文・10秒以内が目安。年齢・出身・趣味は不要。
 >
@@ -14,54 +14,46 @@ Buổi họp đầu tiên của em Linh (vừa tham gia dự án) với 白鷗. 
 
 ---
 
-## ❌ Hội thoại XẤU — kể lể quá nhiều
+## Hội thoại XẤU — kể lể quá nhiều
 
 *小声で割り込み · 微笑だが*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「では、新メンバーのリンさんから<ruby>自己紹介<rt>じこしょうかい</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。」 |
-|  | *Vâng, mời em Linh — thành viên mới — tự giới thiệu ạ.* |
-| **リン** | 「は、はい！リンと<ruby>申<rt>もう</rt></ruby>します。23<ruby>歳<rt>さい</rt></ruby>で、ハノイ<ruby>出身<rt>しゅっしん</rt></ruby>で、ハノイ<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>して、<ruby>入社<rt>にゅうしゃ</rt></ruby>2ヶ<ruby>月目<rt>げつめ</rt></ruby>で、よろしくお<ruby>願<rt>ねが</rt></ruby>いします！<ruby>趣味<rt>しゅみ</rt></ruby>は…」 |
-|  | *D... dạ! Em là Linh ạ. Em 23 tuổi, quê Hà Nội, học Đại học Hà Nội, em vào công ty được 2 tháng rồi ạ, mong được mọi người giúp đỡ! Sở thích của em là...* |
-| **ズン** | 「リンさん、<ruby>業務<rt>ぎょうむ</rt></ruby>の自己紹介は<ruby>会社<rt>かいしゃ</rt></ruby>・<ruby>部署<rt>ぶしょ</rt></ruby>・<ruby>名前<rt>なまえ</rt></ruby>・<ruby>役割<rt>やくわり</rt></ruby>でいいよ。」 |
-|  | *Linh, tự giới thiệu trong họp business chỉ cần công ty / phòng / tên / vai trò là được nhé.* |
-| **大垣** | *(まだ<ruby>慣<rt>な</rt></ruby>れていない<ruby>感<rt>かん</rt></ruby>じだな)* |
-|  | *(Có vẻ vẫn chưa quen nhỉ)* |
+| **ズン** | 「では、新メンバーのリンさんから<ruby>自己紹介<rt>じこしょうかい</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。」 <br/>*Vâng, mời em Linh — thành viên mới — tự giới thiệu ạ.* |
+| **リン** | 「は、はい！リンと<ruby>申<rt>もう</rt></ruby>します。23<ruby>歳<rt>さい</rt></ruby>で、ハノイ<ruby>出身<rt>しゅっしん</rt></ruby>で、ハノイ<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>して、<ruby>入社<rt>にゅうしゃ</rt></ruby>2ヶ<ruby>月目<rt>げつめ</rt></ruby>で、よろしくお<ruby>願<rt>ねが</rt></ruby>いします！<ruby>趣味<rt>しゅみ</rt></ruby>は…」 <br/>*D... dạ! Em là Linh ạ. Em 23 tuổi, quê Hà Nội, học Đại học Hà Nội, em vào công ty được 2 tháng rồi ạ, mong được mọi người giúp đỡ! Sở thích của em là...* |
+| **ズン** | 「リンさん、<ruby>業務<rt>ぎょうむ</rt></ruby>の自己紹介は<ruby>会社<rt>かいしゃ</rt></ruby>・<ruby>部署<rt>ぶしょ</rt></ruby>・<ruby>名前<rt>なまえ</rt></ruby>・<ruby>役割<rt>やくわり</rt></ruby>でいいよ。」 <br/>*Linh, tự giới thiệu trong họp business chỉ cần công ty / phòng / tên / vai trò là được nhé.* |
+| **大垣** | *(まだ<ruby>慣<rt>な</rt></ruby>れていない<ruby>感<rt>かん</rt></ruby>じだな)* <br/>*(Có vẻ vẫn chưa quen nhỉ)* |
 
-**Vì sao xấu:** Tự giới thiệu kiểu **学校面接** (phỏng vấn vào trường) → khách Nhật cảm thấy "nhân viên mới chưa được đào tạo". Tuổi / quê / trường / sở thích = không cần. Mất 30 giây mà không cho khách thông tin công việc nào.
+**Vì sao xấu:** Tự giới thiệu kiểu **学校面接** (phỏng vấn vào trường) → khách Nhật cảm thấy "nhân viên mới chưa được đào tạo". Tuổi / quê / trường / sở thích = không cần trong buổi họp. Mất 30 giây mà không cho khách thông tin công việc nào.
 
 ---
 
-## ✅ Hội thoại TỐT — 4 element trong 3 câu
+## Hội thoại TỐT — 4 element trong 3 câu
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「では、新メンバーのリンさんから<ruby>自己紹介<rt>じこしょうかい</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。」 |
-|  | *Vâng, mời em Linh — thành viên mới — tự giới thiệu ạ.* |
-| **リン** | 「ティエンファット<ruby>社<rt>しゃ</rt></ruby>、マーケティング<ruby>部<rt>ぶ</rt></ruby>のリンと<ruby>申<rt>もう</rt></ruby>します【1】。」 |
-|  | *Em là Linh, phòng Marketing bên Thiên Phát ạ.* |
-| **リン** | 「<ruby>本<rt>ほん</rt></ruby>プロジェクトでは、<ruby>議事録<rt>ぎじろく</rt></ruby>および<ruby>資料管理<rt>しりょうかんり</rt></ruby>を<ruby>担当<rt>たんとう</rt></ruby>いたします【2】。」 |
-|  | *Trong dự án này em phụ trách biên bản và quản lý tài liệu ạ.* |
-| **リン** | 「<ruby>不慣<rt>ふな</rt></ruby>れな<ruby>点<rt>てん</rt></ruby>もございますが、<ruby>何卒<rt>なにとぞ</rt></ruby>よろしくお<ruby>願<rt>ねが</rt></ruby>いいたします【3】。」 |
-|  | *Em còn nhiều điều chưa thạo, rất mong mọi người chỉ bảo giúp em ạ.* |
+| **ズン** | 「では、新メンバーのリンさんから<ruby>自己紹介<rt>じこしょうかい</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。」 <br/>*Vâng, mời em Linh — thành viên mới — tự giới thiệu ạ.* |
+| **リン** | 「ティエンファット<ruby>社<rt>しゃ</rt></ruby>、マーケティング<ruby>部<rt>ぶ</rt></ruby>のリンと<ruby>申<rt>もう</rt></ruby>します【1】。」 <br/>*Em là Linh, phòng Marketing bên Thiên Phát ạ.* |
+| **リン** | 「<ruby>本<rt>ほん</rt></ruby>プロジェクトでは、<ruby>議事録<rt>ぎじろく</rt></ruby>および<ruby>資料管理<rt>しりょうかんり</rt></ruby>を<ruby>担当<rt>たんとう</rt></ruby>いたします【2】。」 <br/>*Trong dự án này em phụ trách biên bản và quản lý tài liệu ạ.* |
+| **リン** | 「<ruby>不慣<rt>ふな</rt></ruby>れな<ruby>点<rt>てん</rt></ruby>もございますが、<ruby>何卒<rt>なにとぞ</rt></ruby>よろしくお<ruby>願<rt>ねが</rt></ruby>いいたします【3】。」 <br/>*Em còn nhiều điều chưa thạo, rất mong mọi người chỉ bảo giúp em ạ.* |
 
-📝 **Ghi chú:**
-- 【1】**「〇〇社、〇〇部の〇〇と申します」** — công thức chuẩn, 1 câu chứa 3 element. 「と申します」 khiêm nhường hơn 「です」.
+ **Ghi chú:**
+- 【1】**「〇〇社、〇〇部の〇〇と申します」** — công thức chuẩn, 1 câu chứa 3 yếu tố. 「と申します」 khiêm nhường hơn 「です」.
 - 【2】**「〇〇および〇〇を担当いたします」** — 「および」 = "và (trang trọng)". Dùng khi liệt kê vai trò.
 - 【3】**「不慣れな点もございますが」** — câu kết khiêm nhường đẹp khi mới vào. Không khiêm tốn quá đà.
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「会社 → 部署 → 名前 → 役割。10秒・3文で完結。」**
 >
-> *Cty → Phòng → Tên → Vai trò. 10 giây / 3 câu là hết.*
+> *Cty → Phòng → Tên → Vai trò. 4 yếu tố / 10 giây / 3 câu là hết.*
 
 ---
 
-## 📐 Template tự giới thiệu
+## Mẫu tự giới thiệu
 
 ```
 1. ティエンファット社、〇〇部の〇〇と申します。
@@ -73,23 +65,23 @@ Buổi họp đầu tiên của em Linh (vừa tham gia dự án) với 白鷗. 
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
-- Nói tuổi / quê / trường → không phải interview.
+- Nói tuổi / quê / trường → không phải buổi phỏng vấn.
 - 「えーと、私は…えーと…」 lắp bắp "à... ờ..." nhiều → mất tự tin.
 - "Cú phang" hỏi lại 「あ、すみません、もう一度お名前を…」 → khách nói lại 1 lần thôi, lần 2 phải nhớ.
 - Cười khúc khích cuối câu → casual quá với khách Nhật.
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 自己紹介 | じこしょうかい | Tự giới thiệu |
-| 〜と申します | ともうします | "Tôi tên là..." (khiêm nhường) |
-| 担当する | たんとうする | Phụ trách |
-| および | および | Và (formal) |
-| 不慣れ | ふなれ | Chưa quen |
-| 役割 | やくわり | Vai trò |
-| 経験を活かす | けいけんをいかす | Tận dụng kinh nghiệm |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 自己紹介 | じこしょうかい | TỰ KỶ THIỆU GIỚI | Tự giới thiệu |
+| 〜と申します | ともうします | — | "Tôi tên là..." (khiêm nhường) |
+| 担当する | たんとうする | ĐẢM ĐƯƠNG | Phụ trách |
+| および | および | — | Và (formal) |
+| 不慣れ | ふなれ | BẤT QUÁN | Chưa quen |
+| 役割 | やくわり | DỊCH CÁT | Vai trò |
+| 経験を活かす | けいけんをいかす | KINH NGHIỆM — | Tận dụng kinh nghiệm |

@@ -4,7 +4,7 @@
 >
 > 5+人 = 席札+席次表+zone別pour担当+flow table 4点必須。自由着席は混乱の元。
 >
-> **Liên quan:** rule 10 (上座下座), rule 24 (đặt dinner), rule 25 (host vs guest).
+> **Liên quan:** rule 10 (上座下座), rule 24 (đặt dinner), rule 25 (bên tiếp đón vs khách).
 
 ---
 
@@ -14,51 +14,40 @@ Trong onsite Tokyo, buổi lễ tổng kết tại trụ sở 白鷗. Bên 白�
 
 ---
 
-## ❌ Hội thoại XẤU — ngồi tự do + tự quản đồ uống + không có tiến trình
+## Hội thoại XẤU — ngồi tự do + tự quản đồ uống + không có tiến trình
 
 | Vai | Câu |
 |---------|-----|
-| **ハーCTO** | 「ズン、明日のceremony seat layoutは？」 |
-|  | *Dũng, sơ đồ ngồi cho ceremony mai sao?* |
-| **ズン** | 「あ、<ruby>自由<rt>じゆう</rt></ruby><ruby>着席<rt>ちゃくせき</rt></ruby>で…<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>かと…」 |
-|  | *À, em định để mọi người tự ngồi... chắc cũng ổn ạ...* |
-| **ハーCTO** | 「11人で<ruby>自由<rt>じゆう</rt></ruby><ruby>着席<rt>ちゃくせき</rt></ruby>は<ruby>混乱<rt>こんらん</rt></ruby>の<ruby>元<rt>もと</rt></ruby>。<ruby>中村<rt>なかむら</rt></ruby>CFOが<ruby>上座<rt>かみざ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>れず<ruby>格落<rt>かくお</rt></ruby>ちリスク。pour<ruby>担当<rt>たんとう</rt></ruby>は？」 |
-|  | *11 người mà tự ngồi = nguồn gốc của hỗn loạn. CFO Nakamura không vào được 上座 (kamiza) = mất tầm. Ai rót đồ uống?* |
-| **ズン** | 「<ruby>私<rt>わたし</rt></ruby><ruby>一人<rt>ひとり</rt></ruby>でと…」 |
-|  | *Em định một mình em...* |
-| **ハーCTO** | 「11人 1人pourは<ruby>無理<rt>むり</rt></ruby>。3-4人ずつzoneに<ruby>分<rt>わ</rt></ruby>けてpour<ruby>担当<rt>たんとう</rt></ruby>を<ruby>配置<rt>はいち</rt></ruby>。flow tableも<ruby>作<rt>つく</rt></ruby>って。」 |
-|  | *11 người 1 người rót là không kham nổi. Chia zone 3-4 người, mỗi zone có người rót. Bảng flow cũng phải làm.* |
+| **ハーCTO** | 「ズン、明日のceremony seat layoutは？」 <br/>*Dũng, sơ đồ ngồi cho ceremony mai sao?* |
+| **ズン** | 「あ、<ruby>自由<rt>じゆう</rt></ruby><ruby>着席<rt>ちゃくせき</rt></ruby>で…<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>かと…」 <br/>*À, em định để mọi người tự ngồi... chắc cũng ổn ạ...* |
+| **ハーCTO** | 「11人で<ruby>自由<rt>じゆう</rt></ruby><ruby>着席<rt>ちゃくせき</rt></ruby>は<ruby>混乱<rt>こんらん</rt></ruby>の<ruby>元<rt>もと</rt></ruby>。<ruby>中村<rt>なかむら</rt></ruby>CFOが<ruby>上座<rt>かみざ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>れず<ruby>格落<rt>かくお</rt></ruby>ちリスク。pour<ruby>担当<rt>たんとう</rt></ruby>は？」 <br/>*11 người mà tự ngồi = nguồn gốc của hỗn loạn. CFO Nakamura không vào được 上座 (kamiza) = mất tầm. Ai rót đồ uống?* |
+| **ズン** | 「<ruby>私<rt>わたし</rt></ruby><ruby>一人<rt>ひとり</rt></ruby>でと…」 <br/>*Em định một mình em...* |
+| **ハーCTO** | 「11人 1人pourは<ruby>無理<rt>むり</rt></ruby>。3-4人ずつzoneに<ruby>分<rt>わ</rt></ruby>けてpour<ruby>担当<rt>たんとう</rt></ruby>を<ruby>配置<rt>はいち</rt></ruby>。flow tableも<ruby>作<rt>つく</rt></ruby>って。」 <br/>*11 người 1 người rót là không kham nổi. Chia zone 3-4 người, mỗi zone có người rót. Bảng flow cũng phải làm.* |
 
 **Vì sao xấu:** (1) Không chỉ định ghế = khách lưỡng lự + CFO có thể không vào được 上座 = mất tầm. (2) 11 người mà 1 người rót = không kịp, ly cạn không ai để ý. (3) Không có tiến trình = thứ tự chào lộn xộn + có thể CFO không có chỗ chen vào phát biểu.
 
 ---
 
-## ✅ Hội thoại TỐT — ghế chỉ định + chia cụm rót + tiến trình 30 phút
+## Hội thoại TỐT — ghế chỉ định + chia cụm rót + tiến trình 30 phút
 
 | Vai | Câu |
 |---------|-----|
-| **ハーCTO** | 「ズン、明日 11名 ceremony <ruby>準備<rt>じゅんび</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>共有<rt>きょうゆう</rt></ruby>して。」 |
-|  | *Dũng, ceremony 11 người mai cập nhật anh đi.* |
-| **ズン** | 「① seat layout: <ruby>中村<rt>なかむら</rt></ruby>CFOが<ruby>上座<rt>かみざ</rt></ruby><ruby>中央<rt>ちゅうおう</rt></ruby>、<ruby>両側<rt>りょうがわ</rt></ruby>に<ruby>大垣<rt>おおがき</rt></ruby><ruby>様<rt>さま</rt></ruby>・<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>。<ruby>下座<rt>しもざ</rt></ruby><ruby>側<rt>がわ</rt></ruby><ruby>中央<rt>ちゅうおう</rt></ruby>にハーCTO、<ruby>両側<rt>りょうがわ</rt></ruby>にフオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>・トゥアン。<ruby>席札<rt>せきふだ</rt></ruby>+<ruby>席次表<rt>せきじひょう</rt></ruby>をテーブル<ruby>中央<rt>ちゅうおう</rt></ruby>に【1】【2】。」 |
-|  | *(1) Sơ đồ ngồi: CFO Nakamura giữa 上座 (kamiza), 2 bên là anh Ōgaki và anh Matsumoto. Phía 下座 (shimoza) giữa là anh Hà CTO, 2 bên là chị Hương phó phòng và anh Tuấn. Bảng tên + sơ đồ ngồi để giữa bàn.* |
-| **ズン** | 「② zone別pour: zone A (<ruby>中村<rt>なかむら</rt></ruby>・<ruby>大垣<rt>おおがき</rt></ruby>・<ruby>松本<rt>まつもと</rt></ruby>) はハイ<ruby>担当<rt>たんとう</rt></ruby>、zone B (<ruby>田中<rt>たなか</rt></ruby>PMO+<ruby>技術<rt>ぎじゅつ</rt></ruby>2名) はトゥアン<ruby>担当<rt>たんとう</rt></ruby>、zone C (host<ruby>側<rt>がわ</rt></ruby><ruby>自分達<rt>じぶんたち</rt></ruby>)は<ruby>私<rt>わたし</rt></ruby>が<ruby>回<rt>まわ</rt></ruby>します。Slack で<ruby>空<rt>あ</rt></ruby>glass<ruby>通報<rt>つうほう</rt></ruby>。」【3】 |
-|  | *(2) Rót theo zone: zone A (Nakamura, Ōgaki, Matsumoto) Hải lo, zone B (Tanaka PMO + 2 kỹ thuật) Tuấn lo, zone C (bên host mình) em quay vòng. Có Slack báo ly cạn.* |
-| **ハーCTO** | 「flow tableは？」 |
-|  | *Còn flow table?* |
-| **ズン** | 「③ flow table: 18:30<ruby>乾杯<rt>かんぱい</rt></ruby> → 18:40 <ruby>中村<rt>なかむら</rt></ruby>CFOご<ruby>挨拶<rt>あいさつ</rt></ruby> → 18:50 <ruby>大垣<rt>おおがき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby> → 19:00 ハーCTO → 19:10 フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby> → 19:20 <ruby>自由<rt>じゆう</rt></ruby><ruby>歓談<rt>かんだん</rt></ruby> → 20:30 お<ruby>土産<rt>みやげ</rt></ruby><ruby>交換<rt>こうかん</rt></ruby> → 21:00 <ruby>締<rt>し</rt></ruby>め。host <ruby>側<rt>がわ</rt></ruby><ruby>全員<rt>ぜんいん</rt></ruby>に<ruby>印刷<rt>いんさつ</rt></ruby><ruby>配布<rt>はいふ</rt></ruby><ruby>済<rt>ず</rt></ruby>。」【4】 |
-|  | *(3) Flow table: 18:30 kanpai → 18:40 CFO Nakamura phát biểu → 18:50 trưởng Ōgaki → 19:00 Hà CTO → 19:10 chị Hương phó phòng → 19:20 trò chuyện tự do → 20:30 trao omiyage → 21:00 kết thúc. Đã in phát cả nhóm host.* |
-| **ハーCTO** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。明日17:30<ruby>会場<rt>かいじょう</rt></ruby><ruby>集合<rt>しゅうごう</rt></ruby>、<ruby>最終<rt>さいしゅう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>。」 |
-|  | *Hoàn hảo. Mai 17:30 tập trung tại địa điểm, check lần cuối.* |
+| **ハーCTO** | 「ズン、明日 11名 ceremony <ruby>準備<rt>じゅんび</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>共有<rt>きょうゆう</rt></ruby>して。」 <br/>*Dũng, ceremony 11 người mai cập nhật anh đi.* |
+| **ズン** | 「① seat layout: <ruby>中村<rt>なかむら</rt></ruby>CFOが<ruby>上座<rt>かみざ</rt></ruby><ruby>中央<rt>ちゅうおう</rt></ruby>、<ruby>両側<rt>りょうがわ</rt></ruby>に<ruby>大垣<rt>おおがき</rt></ruby><ruby>様<rt>さま</rt></ruby>・<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>。<ruby>下座<rt>しもざ</rt></ruby><ruby>側<rt>がわ</rt></ruby><ruby>中央<rt>ちゅうおう</rt></ruby>にハーCTO、<ruby>両側<rt>りょうがわ</rt></ruby>にフオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>・トゥアン。<ruby>席札<rt>せきふだ</rt></ruby>+<ruby>席次表<rt>せきじひょう</rt></ruby>をテーブル<ruby>中央<rt>ちゅうおう</rt></ruby>に【1】【2】。」 <br/>*(1) Sơ đồ ngồi: CFO Nakamura giữa 上座 (kamiza), 2 bên là anh Ōgaki và anh Matsumoto. Phía 下座 (shimoza) giữa là anh Hà CTO, 2 bên là chị Hương phó phòng và anh Tuấn. Bảng tên + sơ đồ ngồi để giữa bàn.* |
+| **ズン** | 「② zone別pour: zone A (<ruby>中村<rt>なかむら</rt></ruby>・<ruby>大垣<rt>おおがき</rt></ruby>・<ruby>松本<rt>まつもと</rt></ruby>) はハイ<ruby>担当<rt>たんとう</rt></ruby>、zone B (<ruby>田中<rt>たなか</rt></ruby>PMO+<ruby>技術<rt>ぎじゅつ</rt></ruby>2名) はトゥアン<ruby>担当<rt>たんとう</rt></ruby>、zone C (host<ruby>側<rt>がわ</rt></ruby><ruby>自分達<rt>じぶんたち</rt></ruby>)は<ruby>私<rt>わたし</rt></ruby>が<ruby>回<rt>まわ</rt></ruby>します。Slack で<ruby>空<rt>あ</rt></ruby>glass<ruby>通報<rt>つうほう</rt></ruby>。」【3】 <br/>*(2) Rót theo zone: zone A (Nakamura, Ōgaki, Matsumoto) Hải lo, zone B (Tanaka PMO + 2 kỹ thuật) Tuấn lo, zone C (bên tiếp đón mình) em quay vòng. Có Slack báo ly cạn.* |
+| **ハーCTO** | 「flow tableは？」 <br/>*Còn flow table?* |
+| **ズン** | 「③ flow table: 18:30<ruby>乾杯<rt>かんぱい</rt></ruby> → 18:40 <ruby>中村<rt>なかむら</rt></ruby>CFOご<ruby>挨拶<rt>あいさつ</rt></ruby> → 18:50 <ruby>大垣<rt>おおがき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby> → 19:00 ハーCTO → 19:10 フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby> → 19:20 <ruby>自由<rt>じゆう</rt></ruby><ruby>歓談<rt>かんだん</rt></ruby> → 20:30 お<ruby>土産<rt>みやげ</rt></ruby><ruby>交換<rt>こうかん</rt></ruby> → 21:00 <ruby>締<rt>し</rt></ruby>め。host <ruby>側<rt>がわ</rt></ruby><ruby>全員<rt>ぜんいん</rt></ruby>に<ruby>印刷<rt>いんさつ</rt></ruby><ruby>配布<rt>はいふ</rt></ruby><ruby>済<rt>ず</rt></ruby>。」【4】 <br/>*(3) Flow table: 18:30 kanpai → 18:40 CFO Nakamura phát biểu → 18:50 trưởng Ōgaki → 19:00 Hà CTO → 19:10 chị Hương phó phòng → 19:20 trò chuyện tự do → 20:30 trao omiyage → 21:00 kết thúc. Đã in phát cả nhóm tiếp đón.* |
+| **ハーCTO** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。明日17:30<ruby>会場<rt>かいじょう</rt></ruby><ruby>集合<rt>しゅうごう</rt></ruby>、<ruby>最終<rt>さいしゅう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>。」 <br/>*Hoàn hảo. Mai 17:30 tập trung tại địa điểm, check lần cuối.* |
 
-📝 **Ghi chú:**
+ **Ghi chú:**
 - 【1】**Bàn 11 người vẫn 上座 (xa cửa nhất) ở giữa = vị trí tối cao**. 3 cấp cao bên khách ngồi 上座, cấp trên bên chủ nhà (Hà CTO) ngồi 下座 đối diện CFO Nakamura.
 - 【2】**5+ người = bắt buộc bảng tên + sơ đồ ngồi đặt giữa bàn**, bố trí xong trước khi khách đến. Tránh ngơ ngác + thứ bậc rõ ràng.
 - 【3】**Mỗi chủ nhà phụ trách cụm 3-4 người = phát hiện ly cạn trong 2 phút**. Người phụ trách các cụm chat ngầm Slack check mức ly với nhau.
-- 【4】**Tiến trình chia 30 phút in sẵn, phát cả nhóm chủ nhà**. Phát biểu = CFO → trưởng Ōgaki → Hà CTO → chị Hương phó phòng — luân phiên khách-chủ nhà.
+- 【4】**Tiến trình chia 30 phút in sẵn, phát cả nhóm tiếp đón**. Phát biểu = CFO → trưởng Ōgaki → Hà CTO → chị Hương phó phòng — luân phiên khách-bên tiếp đón.
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「<ruby>席次表<rt>せきじひょう</rt></ruby>をご<ruby>確認<rt>かくにん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>、お<ruby>席<rt>せき</rt></ruby>にお<ruby>着<rt>つ</rt></ruby>きください。<ruby>本日<rt>ほんじつ</rt></ruby>のflow をお<ruby>手元<rt>てもと</rt></ruby>の<ruby>表<rt>ひょう</rt></ruby>でご<ruby>確認<rt>かくにん</rt></ruby>いただけます。」**
 >
@@ -66,7 +55,7 @@ Trong onsite Tokyo, buổi lễ tổng kết tại trụ sở 白鷗. Bên 白�
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - Tự do ngồi cho đoàn 5+ người — nguồn hỗn loạn
 - 1 chủ nhà phụ trách rót cho 11 người — không kham nổi
@@ -76,14 +65,14 @@ Trong onsite Tokyo, buổi lễ tổng kết tại trụ sở 白鷗. Bên 白�
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 席札 | せきふだ | Bảng tên ghế |
-| 席次表 | せきじひょう | Sơ đồ chỗ ngồi |
-| 上座 | かみざ | Chỗ trên (xa cửa) |
-| 下座 | しもざ | Chỗ dưới (gần cửa) |
-| 着席 | ちゃくせき | Vào chỗ |
-| 歓談 | かんだん | Trò chuyện thân mật |
-| 締め | しめ | Kết thúc |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 席札 | せきふだ | TỊCH TRÁT | Bảng tên ghế |
+| 席次表 | せきじひょう | TỊCH THỨ BIỂU | Sơ đồ chỗ ngồi |
+| 上座 | かみざ | THƯỢNG TỌA | Chỗ trên (xa cửa) |
+| 下座 | しもざ | HẠ TỌA | Chỗ dưới (gần cửa) |
+| 着席 | ちゃくせき | TRƯỚC TỊCH | Vào chỗ |
+| 歓談 | かんだん | HOAN ĐÀM | Trò chuyện thân mật |
+| 締め | しめ | — | Kết thúc |

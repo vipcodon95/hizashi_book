@@ -2,7 +2,7 @@
 
 *Tổng hợp tất cả BJT practice questions từ 60 rules, sắp xếp theo level và skill.*
 
-*Dùng để luyện thi BJT business Japanese — câu hỏi có audio prompt được link đến rule gốc.*
+*Dùng để luyện thi BJT tiếng Nhật công việc — câu hỏi có audio prompt được link đến rule gốc.*
 
 ---
 
@@ -23,10 +23,10 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 デザイン前に対象・目的・期待出力を明確にしないと、後で全面再設計になる。
-- 🇻🇳 Phải làm rõ đối tượng / mục đích / output trước khi design — không thì redo lại toàn bộ.
+- デザイン前に対象・目的・期待出力を明確にしないと、後で全面再設計になる。
+- Phải làm rõ đối tượng / mục đích / đầu ra trước khi thiết kế — không thì làm lại toàn bộ.
 
-### J3.2 (từ rule_02 — Quy tắc 1-slide-1-message)
+### J3.2 (từ rule_02 — Quy tắc mỗi slide một thông điệp)
 
 **Skill:** 表現読解
 
@@ -40,8 +40,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 結論＋数字＋動詞が入ったタイトルがベスト。「〜について」「〜の概要」はテーマであって結論ではない。
-- 🇻🇳 Title có kết luận + số + động từ là tốt nhất. 「〜について」「〜の概要」 chỉ là chủ đề, không phải kết luận.
+- 結論＋数字＋動詞が入ったタイトルがベスト。「〜について」「〜の概要」はテーマであって結論ではない。
+- Tiêu đề có kết luận + số + động từ là tốt nhất. 「〜について」「〜の概要」 chỉ là chủ đề, không phải kết luận.
 
 ### J3.3 (từ rule_03 — Đường mạch câu chuyện (SCQA))
 
@@ -57,10 +57,10 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 S=現状、C=変化(問題)、Q=問い、A=答え(提案)。Aは最後に置く。
-- 🇻🇳 S=hiện trạng, C=vấn đề, Q=câu hỏi, A=đáp án (đề xuất). A đặt cuối.
+- S=現状、C=変化(問題)、Q=問い、A=答え(提案)。Aは最後に置く。
+- S=hiện trạng, C=vấn đề, Q=câu hỏi, A=đáp án (đề xuất). A đặt cuối.
 
-### J3.4 (từ rule_04 — Visual hierarchy & font)
+### J3.4 (từ rule_04 — Phân cấp thị giác & font)
 
 **Skill:** 場面把握
 
@@ -74,10 +74,10 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 本文は20pt以上が原則。後列でも読めるか実機テスト推奨。
-- 🇻🇳 Body tối thiểu 20pt. Phải test thực tế trên projector từ hàng cuối.
+- 本文は20pt以上が原則。後列でも読めるか実機テスト推奨。
+- Phần thân tối thiểu 20pt. Phải kiểm tra thực tế trên projector từ hàng cuối.
 
-### J3.5 (từ rule_05 — Color psychology JP business)
+### J3.5 (từ rule_05 — Tâm lý màu sắc trong Tiếng Nhật công việc)
 
 **Skill:** 場面把握
 
@@ -91,10 +91,10 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 保守的なネイビー・チャコールが institution の信頼感を伝える。赤は警告・CTA専用。
-- 🇻🇳 Navy / charcoal truyền tín hiệu institution. Đỏ chỉ dành cho cảnh báo / CTA.
+- 保守的なネイビー・チャコールが institution の信頼感を伝える。赤は警告・CTA専用。
+- Navy / xám đậm truyền cảm giác tin cậy của tổ chức. Đỏ chỉ dành cho cảnh báo / CTA.
 
-### J3.6 (từ rule_06 — Density rule (10-20-30))
+### J3.6 (từ rule_06 — Quy tắc mật độ (10-20-30))
 
 **Skill:** 場面把握
 
@@ -108,10 +108,10 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 1枚1.5-2分が目安。30分枠なら自己紹介+Q&Aを引いて10-12枚が安全ゾーン。
-- 🇻🇳 1 slide tốn 1.5-2 phút. 30 phút trừ intro + Q&A → 10-12 slide là vùng an toàn.
+- 1枚1.5-2分が目安。30分枠なら自己紹介+Q&Aを引いて10-12枚が安全ゾーン。
+- 1 slide tốn 1.5-2 phút. 30 phút trừ tự giới thiệu + Q&A → 10-12 slide là vùng an toàn.
 
-### J3.7 (từ rule_07 — Backup plan (Plan B))
+### J3.7 (từ rule_07 — Phương án dự phòng (Plan B))
 
 **Skill:** 場面把握
 
@@ -125,10 +125,10 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 クラウドのみは Wi-Fi 落ちたら詰む。USB+ローカル+クラウドの3層が原則。
-- 🇻🇳 Chỉ cloud thì Wi-Fi rớt là chết. Phải 3 lớp: USB + local + cloud.
+- クラウドのみは Wi-Fi 落ちたら詰む。USB+ローカル+クラウドの3層が原則。
+- Chỉ cloud thì Wi-Fi rớt là chết. Phải 3 lớp: USB + máy tính + cloud.
 
-### J3.8 (từ rule_08 — Hook 30 giây mở)
+### J3.8 (từ rule_08 — Câu mở đầu thu hút 30 giây)
 
 **Skill:** 表現読解
 
@@ -142,10 +142,10 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 Hook(数字)→Stake(決めること)→Promise(時間)→自己紹介の順が30秒で集中を確保する。
-- 🇻🇳 Hook (số) → Stake (quyết gì) → Promise (thời gian) → tự giới thiệu — 30 giây này giữ được tập trung.
+- Hook(数字)→Stake(決めること)→Promise(時間)→自己紹介の順が30秒で集中を確保する。
+- Mở đầu (số) → Vấn đề mấu chốt (quyết gì) → Cam kết (thời gian) → tự giới thiệu — 30 giây này giữ được sự tập trung.
 
-### J3.9 (từ rule_09 — Tự giới thiệu khi pitch)
+### J3.9 (từ rule_09 — Tự giới thiệu khi thuyết trình)
 
 **Skill:** 表現読解
 
@@ -159,10 +159,10 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 プレゼン自己紹介は『why-me』が1点あれば十分。30秒以内に絞る。
-- 🇻🇳 Pitch self-intro chỉ cần 1 điểm 「why-me」. Gói gọn trong 30 giây.
+- プレゼン自己紹介は『why-me』が1点あれば十分。30秒以内に絞る。
+- Tự giới thiệu đầu bài thuyết trình chỉ cần 1 điểm lý do "tại sao là tôi". Gói gọn trong 30 giây.
 
-### J3.10 (từ rule_10 — Bối cảnh + agenda speech)
+### J3.10 (từ rule_10 — Bối cảnh + trình bày chương trình)
 
 **Skill:** 表現読解
 
@@ -176,10 +176,10 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 認知負荷の上限は3 ± 1。6項目は3部にグループ化して伝える。
-- 🇻🇳 Trần tải nhận thức là 3 ± 1. 6 mục phải gộp thành 3 phần để truyền đạt.
+- 認知負荷の上限は3 ± 1。6項目は3部にグループ化して伝える。
+- Ngưỡng tải nhận thức là 3 ± 1. 6 mục phải gộp thành 3 phần để truyền đạt.
 
-### J3.11 (từ rule_11 — Hook 3 pattern (story / data / question))
+### J3.11 (từ rule_11 — 3 kiểu mở đầu thu hút (câu chuyện / số liệu / câu hỏi))
 
 **Skill:** 場面把握
 
@@ -193,10 +193,10 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 保守的・初対面はデータ型が安全。Story はスキル要、Question は audience engaged 前提。
-- 🇻🇳 Khách bảo thủ + lần đầu = data hook an toàn. Story cần skill, Question cần audience đã engaged.
+- 保守的・初対面はデータ型が安全。Story はスキル要、Question は audience engaged 前提。
+- Khách bảo thủ + lần đầu gặp = mở đầu bằng dữ liệu là an toàn nhất. Câu chuyện đòi kỹ năng, câu hỏi đòi khán giả đã vào trạng thái.
 
-### J3.12 (từ rule_12 — Mood setting cho khách Nhật conservative)
+### J3.12 (từ rule_12 — Tạo bầu không khí cho khách Nhật điềm đạm)
 
 **Skill:** 表現読解
 
@@ -210,10 +210,10 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 JP business は『確実に』『着実に』『安心』が positive lexicon。Hype words は警戒される。
-- 🇻🇳 JP business dùng 「确实」「chắc chắn」「yên tâm」 làm nhóm tích cực. Hype words bị đề phòng.
+- JP business は『確実に』『着実に』『安心』が positive lexicon。Hype words は警戒される。
+- Tiếng Nhật công việc dùng 「chắc chắn」「vững bước」「yên tâm」 làm từ ngữ tích cực. Từ cường điệu bị đề phòng.
 
-### J3.13 (từ rule_13 — Time-keeping promise)
+### J3.13 (từ rule_13 — Cam kết giữ đúng giờ)
 
 **Skill:** 場面把握
 
@@ -227,10 +227,10 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 具体的時間 + hard commit + 切替トリガー が日本ビジネスの標準。曖昧表現は信頼を下げる。
-- 🇻🇳 Time cụ thể + hard commit + trigger switch = chuẩn JP business. Mơ hồ làm giảm tin cậy.
+- 具体的時間 + hard commit + 切替トリガー が日本ビジネスの標準。曖昧表現は信頼を下げる。
+- Thời gian cụ thể + cam kết rõ ràng + điều kiện chuyển = chuẩn tiếng Nhật công việc. Mơ hồ làm giảm tin cậy.
 
-### J3.14 (từ rule_14 — Logical flow markers)
+### J3.14 (từ rule_14 — Dấu hiệu luồng logic)
 
 **Skill:** 表現読解
 
@@ -244,10 +244,10 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 N点宣言→まず／次に／最後にの3層マーカーが論理を明確にする。
-- 🇻🇳 Cấu trúc 3 lớp 「tuyên bố N điểm → đầu tiên / tiếp theo / cuối cùng」 làm rõ logic.
+- N点宣言→まず／次に／最後にの3層マーカーが論理を明確にする。
+- Cấu trúc 3 lớp 「nêu N điểm → đầu tiên / tiếp theo / cuối cùng」 làm rõ mạch logic.
 
-### J3.15 (từ rule_15 — Data presentation)
+### J3.15 (từ rule_15 — Trình bày dữ liệu)
 
 **Skill:** 場面把握
 
@@ -261,10 +261,10 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 比較データは棒グラフ。3Dや多色は perception distortion + noise。
-- 🇻🇳 Data so sánh dùng bar chart. 3D / nhiều màu = bóp méo + noise.
+- 比較データは棒グラフ。3Dや多色は perception distortion + noise。
+- Dữ liệu so sánh dùng biểu đồ cột. 3D / nhiều màu = bóp méo nhận thức + nhiễu.
 
-### J3.16 (từ rule_16 — Demo flow trong pitch)
+### J3.16 (từ rule_16 — Luồng demo trong bài thuyết trình)
 
 **Skill:** 場面把握
 
@@ -278,10 +278,10 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 Setup→Journey→Key→Recap が3-4分で痛み解消を可視化する。Tour 型は engineer mindset。
-- 🇻🇳 Setup→Journey→Key→Recap trong 3-4 phút để visualize giải pain. Tour = engineer mindset.
+- Setup→Journey→Key→Recap が3-4分で痛み解消を可視化する。Tour 型は engineer mindset。
+- Thiết lập→Hành trình→Điểm chốt→Tóm tắt trong 3-4 phút để trực quan hoá giải quyết vấn đề. Kiểu tour = tư duy kỹ thuật viên.
 
-### J3.17 (từ rule_17 — So sánh phương án (matrix))
+### J3.17 (từ rule_17 — So sánh phương án (bảng so sánh))
 
 **Skill:** 場面把握
 
@@ -295,10 +295,10 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 3案×4軸が認知負荷の上限。推奨明示でvendorの責任を示す。
-- 🇻🇳 3×4 là trần tải nhận thức. Khuyến nghị rõ = vendor có trách nhiệm.
+- 3案×4軸が認知負荷の上限。推奨明示でvendorの責任を示す。
+- 3×4 là ngưỡng tải nhận thức. Khuyến nghị rõ ràng = bên cung cấp có trách nhiệm.
 
-### J3.18 (từ rule_18 — Customer voice / case study)
+### J3.18 (từ rule_18 — Lời chứng thực của khách)
 
 **Skill:** 表現読解
 
@@ -312,10 +312,10 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 実名＋数字＋氏名付き引用が信頼の3点セット。匿名事例は marketing fluff。
-- 🇻🇳 Tên thật + số + quote có tên người = bộ 3 tin cậy. Anonymous = marketing fluff.
+- 実名＋数字＋氏名付き引用が信頼の3点セット。匿名事例は marketing fluff。
+- Tên thật + số + trích dẫn có tên người = bộ 3 tin cậy. Ví dụ ẩn danh = nội dung quảng cáo rỗng.
 
-### J3.19 (từ rule_20 — Risk & mitigation)
+### J3.19 (từ rule_20 — Rủi ro & biện pháp đối phó)
 
 **Skill:** 場面把握
 
@@ -329,10 +329,10 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 リスクなしは『未経験 / 嘘』signal。3-5個＋確率＋影響＋対策の正直開示が信頼を生む。
-- 🇻🇳 「Không có rủi ro」 = signal non kinh nghiệm / dối. 3-5 cái + xác suất + tác động + đối sách = trung thực mới sinh lòng tin.
+- リスクなしは『未経験 / 嘘』signal。3-5個＋確率＋影響＋対策の正直開示が信頼を生む。
+- 「Không có rủi ro」 = dấu hiệu thiếu kinh nghiệm / không trung thực. 3-5 rủi ro + xác suất + tác động + đối sách = khai báo trung thực mới sinh lòng tin.
 
-### J3.20 (từ rule_21 — Roadmap visualization)
+### J3.20 (từ rule_21 — Trực quan hóa lộ trình)
 
 **Skill:** 場面把握
 
@@ -346,8 +346,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 Gantt visualization + milestone 3点 (日付/成果物/owner) + buffer 明示 が標準。TBD と single owner は信頼を下げる。
-- 🇻🇳 Visualize Gantt + 3 điểm milestone (ngày / output / owner) + buffer rõ là chuẩn. TBD + single owner làm giảm trust.
+- Gantt visualization + milestone 3点 (日付/成果物/owner) + buffer 明示 が標準。TBD と single owner は信頼を下げる。
+- Trực quan hoá Gantt + 3 điểm mốc (ngày / đầu ra / người phụ trách) + vùng đệm rõ là chuẩn. TBD + chỉ 1 người phụ trách làm giảm tin cậy.
 
 ### J3.21 (từ rule_22 — Mời Q&A formal)
 
@@ -363,8 +363,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 「いただけますでしょうか」が最も formal かつ humble な依頼形。「ご意見」で範囲を質問以外にも拡張。
-- 🇻🇳 「いただけますでしょうか」 là dạng request humble + formal nhất. 「ご意見」 mở rộng phạm vi ngoài câu hỏi.
+- 「いただけますでしょうか」が最も formal かつ humble な依頼形。「ご意見」で範囲を質問以外にも拡張。
+- 「いただけますでしょうか」 là dạng đề nghị khiêm tốn + trang trọng nhất. 「ご意見」 mở rộng phạm vi ngoài câu hỏi thuần tuý.
 
 ### J3.22 (từ rule_24 — Mang về xem xét cho câu chưa biết)
 
@@ -380,8 +380,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 持ち帰りには ① deadline 具体 ② 確認者 ③ 回答 format の3要素必須。「たぶん」は推測で危険、「わかりません」は cộc、「後で」は vague。
-- 🇻🇳 持ち帰り cần 3 yếu tố: ① deadline cụ thể ② người confirm ③ format reply. 「たぶん」 nguy hiểm, 「わかりません」 cộc, 「後で」 vague.
+- 持ち帰りには ① deadline 具体 ② 確認者 ③ 回答 format の3要素必須。「たぶん」は推測で危険、「わかりません」は cộc、「後で」は vague。
+- Mang về cần 3 yếu tố: ① hạn chót cụ thể ② người xác nhận ③ hình thức phản hồi. 「たぶん」 nguy hiểm vì mang tính đoán mò, 「わかりません」 cộc, 「後で」 mơ hồ.
 
 ### J3.23 (từ rule_26 — Closing với CTA)
 
@@ -397,8 +397,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 Recap 3点で記憶定着、CTA で次の動きを明確化、次回会議その場確定で followup を最小化。
-- 🇻🇳 Recap 3 = nhớ key. CTA = rõ động thái tiếp. Chốt lịch tại chỗ = giảm followup mail qua lại.
+- Recap 3点で記憶定着、CTA で次の動きを明確化、次回会議その場確定で followup を最小化。
+- Tóm tắt 3 điểm = giúp nhớ ý chính. Kêu gọi hành động = rõ bước tiếp. Chốt lịch tại chỗ = giảm mail theo dõi qua lại.
 
 ### J3.24 (từ rule_27 — Thank-you slide)
 
@@ -414,10 +414,10 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 退室時 5-10 分映る slide。御礼+Recap+連絡先+QR の4要素で reinforcement と follow-up を促す。
-- 🇻🇳 Slide chiếu 5-10 phút lúc khách rời. 4 thành phần: cảm ơn + recap + contact + QR để reinforce + thúc follow-up.
+- 退室時 5-10 分映る slide。御礼+Recap+連絡先+QR の4要素で reinforcement と follow-up を促す。
+- Slide chiếu 5-10 phút lúc khách rời. 4 thành phần: cảm ơn + tóm tắt + liên hệ + QR để củng cố và thúc đẩy theo dõi sau.
 
-### J3.25 (từ rule_28 — Post-pitch follow-up email)
+### J3.25 (từ rule_28 — Mail theo dõi sau buổi thuyết trình)
 
 **Skill:** 場面把握
 
@@ -431,10 +431,10 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 客は当日中に社内シェアするので、24h以内の acknowledgment が必須。詳細は翌営業日で OK。
-- 🇻🇳 Khách share nội bộ trong ngày, nên acknowledgment trong 24h là bắt buộc. Bản chi tiết sang ngày làm việc kế tiếp là OK.
+- 客は当日中に社内シェアするので、24h以内の acknowledgment が必須。詳細は翌営業日で OK。
+- Khách chia sẻ nội bộ trong ngày, nên xác nhận đã nhận trong 24h là bắt buộc. Bản chi tiết sang ngày làm việc kế tiếp là ổn.
 
-### J3.26 (từ rule_29 — Online presentation)
+### J3.26 (từ rule_29 — Thuyết trình trực tuyến)
 
 **Skill:** 場面把握
 
@@ -448,10 +448,10 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 5要素全揃いで professional 印象を確保。Chat は co-presenter にモデレートさせるのが standard。
-- 🇻🇳 Đủ 5 yếu tố mới giữ được professional. Chat để co-presenter moderate là chuẩn.
+- 5要素全揃いで professional 印象を確保。Chat は co-presenter にモデレートさせるのが standard。
+- Đủ 5 yếu tố mới giữ được hình ảnh chuyên nghiệp. Chat để người đồng trình bày điều phối là chuẩn.
 
-### J3.27 (từ rule_30 — Hybrid presentation)
+### J3.27 (từ rule_30 — Thuyết trình kết hợp)
 
 **Skill:** 場面把握
 
@@ -465,10 +465,10 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 Online priority greet + 50/50 eye contact + 復唱 が3点セット。1つ欠けると online が無視される印象。
-- 🇻🇳 Greet online trước + eye contact 50/50 + repeat câu hỏi là combo 3. Thiếu 1 = online cảm thấy bị bỏ rơi.
+- Online priority greet + 50/50 eye contact + 復唱 が3点セット。1つ欠けると online が無視される印象。
+- Chào trực tuyến trước + giao tiếp bằng mắt 50/50 + lặp lại câu hỏi từ phòng là 3 điểm bắt buộc. Thiếu 1 = trực tuyến cảm thấy bị bỏ rơi.
 
-### J3.28 (từ rule_32 — Co-presenter handoff)
+### J3.28 (từ rule_32 — Bàn giao giữa người đồng trình bày)
 
 **Skill:** 表現読解
 
@@ -482,10 +482,10 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 Bridge sentence で ① 自分のパート締め ② 次パート announce ③ 担当者 announce が3要素。Audience が次の content を予測しやすくなる。
-- 🇻🇳 Bridge sentence cần 3 yếu tố: ① đóng phần mình ② announce phần tiếp ③ announce ai. Audience dễ dự đoán content tiếp.
+- Bridge sentence で ① 自分のパート締め ② 次パート announce ③ 担当者 announce が3要素。Audience が次の content を予測しやすくなる。
+- Câu bắc cầu cần 3 yếu tố: ① đóng phần mình ② thông báo phần tiếp ③ thông báo người tiếp nhận. Khán giả dễ dự đoán nội dung sắp tới.
 
-### J3.29 (từ rule_33 — Recording + share)
+### J3.29 (từ rule_33 — Quay video + chia sẻ)
 
 **Skill:** 場面把握
 
@@ -499,10 +499,10 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 Privacy + confidentiality 両保護のため、4ステップ全て必須。Surprise REC は最大の信頼破壊。
-- 🇻🇳 Bảo vệ cả privacy + confidentiality cần đủ 4 bước. Surprise REC phá trust nhất.
+- Privacy + confidentiality 両保護のため、4ステップ全て必須。Surprise REC は最大の信頼破壊。
+- Bảo vệ cả quyền riêng tư + bảo mật cần đủ 4 bước. Quay bất ngờ phá tin cậy nhiều nhất.
 
-### J3.30 (từ rule_34 — Tự đánh giá sau pitch)
+### J3.30 (từ rule_34 — Tự đánh giá sau buổi thuyết trình)
 
 **Skill:** 場面把握
 
@@ -516,10 +516,10 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 Quantitative + qualitative + actionable。3+3 で negative spiral 防止、deadline 付き drill で実装。
-- 🇻🇳 Định lượng + định tính + actionable. 3+3 chống negative spiral, drill có deadline để execute.
+- Quantitative + qualitative + actionable。3+3 で negative spiral 防止、deadline 付き drill で実装。
+- Định lượng + định tính + có thể thực thi. Công thức 3+3 chống vòng xoáy tiêu cực, luyện tập có hạn chót để triển khai.
 
-### J3.31 (từ rule_35 — Iteration cycle)
+### J3.31 (từ rule_35 — Chu kỳ cải thiện)
 
 **Skill:** 場面把握
 
@@ -533,13 +533,13 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 4-step cycle で blind spot を多角的に発見。Recording rehearse + 2段階 pilot + group retro が full cycle。
-- 🇻🇳 4-step cycle phát hiện blind spot từ nhiều góc. Recording rehearse + pilot 2 cấp + group retro = full cycle.
+- 4-step cycle で blind spot を多角的に発見。Recording rehearse + 2段階 pilot + group retro が full cycle。
+- Chu kỳ 4 bước phát hiện điểm mù từ nhiều góc. Tập dượt có quay + thử nghiệm 2 cấp + nhóm nhìn lại = chu kỳ đầy đủ.
 
 
 ## Level J2 (4 câu)
 
-### J2.1 (từ rule_19 — Pricing slide tactful)
+### J2.1 (từ rule_19 — Slide giá cả tactful)
 
 **Skill:** 表現読解
 
@@ -553,8 +553,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 「高い」反論には ALWAYS 3点理由で答える。1点は薄い、5点は希薄化、3点が説得力の sweet spot。
-- 🇻🇳 Phản biện 「高い」 LUÔN trả 3 điểm. 1 điểm yếu, 5 điểm loãng, 3 điểm là sweet spot thuyết phục.
+- 「高い」反論には ALWAYS 3点理由で答える。1点は薄い、5点は希薄化、3点が説得力の sweet spot。
+- Phản biện 「高い」 LUÔN trả 3 điểm. 1 điểm quá mỏng, 5 điểm quá loãng, 3 điểm là mức thuyết phục tối ưu nhất.
 
 ### J2.2 (từ rule_23 — Trả lời câu hỏi khó — LASR)
 
@@ -570,8 +570,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 LASR の A ステップ。Reframe + confirm で誤解を防ぐ。これを飛ばすと的外れの回答になりがち。
-- 🇻🇳 Bước A của LASR. Reframe + confirm để tránh hiểu sai. Bỏ bước này thường trả lời lệch ý.
+- LASR の A ステップ。Reframe + confirm で誤解を防ぐ。これを飛ばすと的外れの回答になりがち。
+- Bước A của LASR. Diễn giải lại + xác nhận để tránh hiểu sai. Bỏ bước này thường trả lời lệch ý.
 
 ### J2.3 (từ rule_25 — Đối phó câu hostile)
 
@@ -587,8 +587,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- 🇯🇵 Bridge phrase で感情を中和 → 懸念に reframe してから内容に入る。直接否定や反論は escalate を招く。
-- 🇻🇳 Bridge phrase trung hoà cảm xúc → reframe sang concern rồi mới vào nội dung. Phủ nhận trực tiếp / phản biện = escalate.
+- Bridge phrase で感情を中和 → 懸念に reframe してから内容に入る。直接否定や反論は escalate を招く。
+- Câu dẫn hướng trung hoà cảm xúc → chuyển sang mối lo ngại rồi mới vào nội dung. Phủ nhận trực tiếp / phản biện = leo thang căng thẳng.
 
 ### J2.4 (từ rule_31 — Tech failure recovery)
 
@@ -604,12 +604,12 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 Panic 表情は『本番障害も同じ』と暗示。Acknowledge → Switch → Entertain で control under pressure を示す。
-- 🇻🇳 Mặt panic = 「sự cố production cũng vậy」. Acknowledge → Switch → Entertain thể hiện control under pressure.
+- Panic 表情は『本番障害も同じ』と暗示。Acknowledge → Switch → Entertain で control under pressure を示す。
+- Mặt hoảng loạn = ám chỉ 「sự cố vận hành thật cũng vậy」. Thừa nhận → Chuyển Plan B → Tiếp tục bằng lời thể hiện sự vững vàng trước áp lực.
 
 
 **Tổng số câu hỏi:** 35
 
 ---
 
-*Tài liệu này có thể export thành quiz interactive — đọc data trực tiếp từ `bjt_practice` array trong mỗi `conversation.json`.*
+*Tài liệu này có thể xuất thành bài kiểm tra tương tác.*

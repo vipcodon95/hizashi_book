@@ -1,8 +1,8 @@
 # Rule 08 — Chuẩn bị Plan B + phản biện / 想定問答集の準備
 
-> **Luận điểm.** Khách Nhật giỏi đặt **「想定外の質問」** (câu hỏi bất ngờ). Trước họp phải có **想定問答集 (Q&A list)** liệt kê 3-5 câu khách dễ hỏi + script trả lời sẵn. Bonus: 1-2 câu hỏi khó nhất → có **Plan B**.
+> **Luận điểm.** Khách Nhật giỏi đặt **「想定外の質問」** (câu hỏi bất ngờ). Trước họp phải có **想定問答集 (danh sách câu hỏi dự đoán)** liệt kê 3-5 câu khách dễ hỏi + kịch bản trả lời sẵn. Thêm nữa: 1-2 câu hỏi khó nhất → cần **phương án dự phòng**.
 >
-> 客が聞きそうな質問3〜5件をリスト化し、回答スクリプトを準備。一番難しい質問には Plan B も用意。
+> 客が聞きそうな質問3〜5件をリスト化し、回答スクリプトを準備。一番難しい質問には方案準備も。
 >
 > **Liên quan:** Rule 07 (すり合わせ), Rule 25 (持ち帰り), Rule 28 (xin thêm data), Rule 29 (deadlock).
 
@@ -10,57 +10,49 @@
 
 ## Bối cảnh / 場面
 
-Sáng thứ Ba, 1 tiếng trước họp đàm phán phase 2. Em Dũng đã có agenda + すり合わせ với chị Hương. Anh Hà CTO ghé qua, hỏi "想定問答集 đâu?".
+Sáng thứ Ba, 1 tiếng trước họp đàm phán phase 2. Em Dũng đã có chương trình họp + すり合わせ với chị Hương. Anh Hà CTO ghé qua, hỏi "想定問答集 đâu?".
 
 ---
 
-## ❌ Hội thoại XẤU — không có 想定問答集
+## Hội thoại XẤU — không có 想定問答集
 
 *慌てて*
 
 | Vai | Câu |
 |---------|-----|
-| **ハー (CTO)** | 「ズン、本日の<ruby>想定問答集<rt>そうていもんどうしゅう</rt></ruby>はある？」 |
-|  | *Dũng, Q&A list cho buổi hôm nay có chưa em?* |
-| **ズン** | 「あ…アジェンダと<ruby>資料<rt>しりょう</rt></ruby>は<ruby>揃<rt>そろ</rt></ruby>えましたが、想定問答集はまだ…」 |
-|  | *À... agenda với tài liệu em xong rồi nhưng Q&A list thì chưa ạ...* |
-| **ハー** | 「<ruby>客<rt>きゃく</rt></ruby>は『<ruby>価格<rt>かかく</rt></ruby>を10%<ruby>下<rt>さ</rt></ruby>げられないか』『<ruby>納期<rt>のうき</rt></ruby>を2<ruby>週間<rt>しゅうかん</rt></ruby><ruby>早<rt>はや</rt></ruby>められないか』『<ruby>他社<rt>たしゃ</rt></ruby><ruby>事例<rt>じれい</rt></ruby>は』を<ruby>必<rt>かなら</rt></ruby>ず<ruby>聞<rt>き</rt></ruby>くよ。<ruby>回答<rt>かいとう</rt></ruby><ruby>用意<rt>ようい</rt></ruby>してる？」 |
-|  | *Khách kiểu gì cũng hỏi 'giảm 10% giá được không', 'rút deadline 2 tuần được không', 'case bên khác như thế nào'. Có chuẩn bị câu trả lời chưa?* |
-| **ズン** | 「す、すみません、これから<ruby>準備<rt>じゅんび</rt></ruby>します…」 |
-|  | *Em... em xin lỗi anh, em chuẩn bị ngay đây ạ...* |
+| **ハー (CTO)** | 「ズン、本日の<ruby>想定問答集<rt>そうていもんどうしゅう</rt></ruby>はある？」 <br/>*Dũng, danh sách câu hỏi dự đoán cho buổi hôm nay có chưa em?* |
+| **ズン** | 「あ…アジェンダと<ruby>資料<rt>しりょう</rt></ruby>は<ruby>揃<rt>そろ</rt></ruby>えましたが、想定問答集はまだ…」 <br/>*À... chương trình họp với tài liệu em xong rồi nhưng danh sách câu hỏi dự đoán thì chưa ạ...* |
+| **ハー** | 「<ruby>客<rt>きゃく</rt></ruby>は『<ruby>価格<rt>かかく</rt></ruby>を10%<ruby>下<rt>さ</rt></ruby>げられないか』『<ruby>納期<rt>のうき</rt></ruby>を2<ruby>週間<rt>しゅうかん</rt></ruby><ruby>早<rt>はや</rt></ruby>められないか』『<ruby>他社<rt>たしゃ</rt></ruby><ruby>事例<rt>じれい</rt></ruby>は』を<ruby>必<rt>かなら</rt></ruby>ず<ruby>聞<rt>き</rt></ruby>くよ。<ruby>回答<rt>かいとう</rt></ruby><ruby>用意<rt>ようい</rt></ruby>してる？」 <br/>*Khách kiểu gì cũng hỏi 'giảm 10% giá được không', 'rút hạn chót 2 tuần được không', 'thực tế bên khác như thế nào'. Có chuẩn bị câu trả lời chưa?* |
+| **ズン** | 「す、すみません、これから<ruby>準備<rt>じゅんび</rt></ruby>します…」 <br/>*Em... em xin lỗi anh, em chuẩn bị ngay đây ạ...* |
 
-**Vì sao xấu:** Nhân viên trẻ thường nghĩ "agenda + 資料 đủ rồi". Nhưng khách Nhật giỏi đẩy câu hỏi ngoài agenda. Không chuẩn bị = trong họp hoảng loạn + im lặng + 「持ち帰ります」.
+**Vì sao xấu:** Nhân viên trẻ thường nghĩ "chương trình họp + tài liệu đủ rồi". Nhưng khách Nhật giỏi đẩy câu hỏi ngoài chương trình. Không chuẩn bị = trong họp hoảng loạn + im lặng + 「持ち帰ります」.
 
 ---
 
-## ✅ Hội thoại TỐT — Q&A list + Plan B sẵn
+## Hội thoại TỐT — Q&A list + Plan B sẵn
 
 | Vai | Câu |
 |---------|-----|
-| **ハー (CTO)** | 「ズン、本日の想定問答集はある？」 |
-|  | *Dũng, Q&A list cho buổi hôm nay có chưa em?* |
-| **ズン** | 「はい、想定質問5件と<ruby>回答案<rt>かいとうあん</rt></ruby>、それから<ruby>一番<rt>いちばん</rt></ruby><ruby>難<rt>むずか</rt></ruby>しい『5月15日納期<ruby>前倒<rt>まえだお</rt></ruby>し』には Plan B として<ruby>追加<rt>ついか</rt></ruby>リソース3<ruby>人分<rt>にんぶん</rt></ruby>の<ruby>見積<rt>みつ</rt></ruby>もりも<ruby>用意済<rt>よういず</rt></ruby>みです【1】。」 |
-|  | *Vâng, em có 5 câu hỏi dự đoán + draft trả lời, và câu khó nhất 'đẩy deadline lên 15/5' em chuẩn bị Plan B là báo giá thêm 3 người resource ạ.* |
-| **ハー** | 「いいね。<ruby>価格<rt>かかく</rt></ruby><ruby>交渉<rt>こうしょう</rt></ruby>の<ruby>質問<rt>しつもん</rt></ruby>、<ruby>想定<rt>そうてい</rt></ruby><ruby>回答<rt>かいとう</rt></ruby>は？」 |
-|  | *Tốt. Câu đàm phán giá, em định trả lời sao?* |
-| **ズン** | 「『<ruby>現行<rt>げんこう</rt></ruby>価格はスコープに<ruby>最適化<rt>さいてきか</rt></ruby>されており、スコープ<ruby>縮小<rt>しゅくしょう</rt></ruby>なら<ruby>見直<rt>みなお</rt></ruby>し<ruby>可能<rt>かのう</rt></ruby>』とお<ruby>返<rt>かえ</rt></ruby>しします。<ruby>即<rt>そく</rt></ruby><ruby>値引<rt>ねび</rt></ruby>きには<ruby>応<rt>おう</rt></ruby>じない<ruby>方針<rt>ほうしん</rt></ruby>でフオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>と<ruby>統一済<rt>とういつず</rt></ruby>みです【2】。」 |
-|  | *Em sẽ trả lời 'giá hiện tại đã tối ưu theo scope, nếu giảm scope thì xem lại được'. Phương châm là không giảm giá ngay, em đã thống nhất với chị Hương ạ.* |
+| **ハー (CTO)** | 「ズン、本日の想定問答集はある？」 <br/>*Dũng, danh sách câu hỏi dự đoán cho buổi hôm nay có chưa em?* |
+| **ズン** | 「はい、想定質問5件と<ruby>回答案<rt>かいとうあん</rt></ruby>、それから<ruby>一番<rt>いちばん</rt></ruby><ruby>難<rt>むずか</rt></ruby>しい『5月15日納期<ruby>前倒<rt>まえだお</rt></ruby>し』には Plan B として<ruby>追加<rt>ついか</rt></ruby>リソース3<ruby>人分<rt>にんぶん</rt></ruby>の<ruby>見積<rt>みつ</rt></ruby>もりも<ruby>用意済<rt>よういず</rt></ruby>みです【1】。」 <br/>*Vâng, em có 5 câu hỏi dự đoán + dự thảo trả lời, và câu khó nhất 'đẩy hạn chót lên 15/5' em chuẩn bị phương án dự phòng là báo giá thêm 3 người nhân lực ạ.* |
+| **ハー** | 「いいね。<ruby>価格<rt>かかく</rt></ruby><ruby>交渉<rt>こうしょう</rt></ruby>の<ruby>質問<rt>しつもん</rt></ruby>、<ruby>想定<rt>そうてい</rt></ruby><ruby>回答<rt>かいとう</rt></ruby>は？」 <br/>*Tốt. Câu đàm phán giá, em định trả lời sao?* |
+| **ズン** | 「『<ruby>現行<rt>げんこう</rt></ruby>価格はスコープに<ruby>最適化<rt>さいてきか</rt></ruby>されており、スコープ<ruby>縮小<rt>しゅくしょう</rt></ruby>なら<ruby>見直<rt>みなお</rt></ruby>し<ruby>可能<rt>かのう</rt></ruby>』とお<ruby>返<rt>かえ</rt></ruby>しします。<ruby>即<rt>そく</rt></ruby><ruby>値引<rt>ねび</rt></ruby>きには<ruby>応<rt>おう</rt></ruby>じない<ruby>方針<rt>ほうしん</rt></ruby>でフオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>と<ruby>統一済<rt>とういつず</rt></ruby>みです【2】。」 <br/>*Em sẽ trả lời 'giá hiện tại đã tối ưu theo scope, nếu giảm scope thì xem lại được'. Phương châm là không giảm giá ngay, em đã thống nhất với chị Hương ạ.* |
 
-📝 **Ghi chú:**
-- 【1】**「Plan B として〜も用意済み」** — 「用意済み」 = "đã chuẩn bị xong". Cụm gọn của business JP. Cấp trên hỏi "có chưa?" → trả lời 「〜済みです」 là đẹp nhất.
+ **Ghi chú:**
+- 【1】**「〜も用意済み」** — 「用意済み」 = "đã chuẩn bị xong". Cụm gọn của business JP. Cấp trên hỏi "có chưa?" → trả lời 「〜済みです」 là đẹp nhất.
 - 【2】**「方針で統一済み」** = "đã thống nhất phương châm". Báo cáo cấp trên rằng "không phải chỉ tôi nghĩ vậy mà cả nhóm đã thống nhất".
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「想定問答集なき会議 = 持ち帰り会議。」**
 >
-> *Họp mà không có Q&A list = họp xong xin "mang về" suy nghĩ.*
+> *Họp mà không có danh sách câu hỏi dự đoán = họp xong xin "mang về" suy nghĩ.*
 
 ---
 
-## 📐 Format 想定問答集
+## Khung mẫu 想定問答集
 
 ```
 ■ 4月度月例会議 想定問答集 v1.0
@@ -87,24 +79,24 @@ A5. ペア体制で運営しており、引き継ぎ docs を都度更新。空�
 
 ---
 
-## ⚠ Tránh
+## Tránh
 
 - 想定問答集 chỉ trong đầu, không viết ra → vào họp lúng túng là quên.
 - Chỉ chuẩn bị câu hỏi dễ → khách hỏi câu khó là 「持ち帰ります」.
-- Plan B cũng không có → "5月15日無理です" → đàm phán dừng.
-- Trả lời chưa thống nhất với cấp trên → cấp trên phải bồi thêm = mất uy tín BD.
+- Phương án dự phòng cũng không có → "5月15日無理です" → đàm phán dừng.
+- Trả lời chưa thống nhất với cấp trên → cấp trên phải bồi thêm = mất uy tín người phụ trách kinh doanh.
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 / Tiếng Nhật | よみ | Nghĩa |
-|------|------|-------|
-| 想定問答集 | そうていもんどうしゅう | Q&A dự đoán |
-| 想定質問 | そうていしつもん | Câu hỏi dự đoán |
-| 〜済み | ずみ | Đã xong |
-| 値引き | ねびき | Giảm giá |
-| 方針 | ほうしん | Phương châm |
-| 見直し | みなおし | Xem xét lại |
-| エスカレーション | escalation | Escalation |
-| 顕在化 | けんざいか | Hiện ra (risk → thực tế) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 想定問答集 | そうていもんどうしゅう | TƯỞNG ĐỊNH VẤN ĐÁP TẬP | Danh sách câu hỏi và trả lời dự đoán |
+| 想定質問 | そうていしつもん | TƯỞNG ĐỊNH CHẤT VẤN | Câu hỏi dự đoán |
+| 〜済み | ずみ | — | Đã xong |
+| 値引き | ねびき | TRỊ DẪN | Giảm giá |
+| 方針 | ほうしん | PHƯƠNG CHÂM | Phương châm |
+| 見直し | みなおし | — | Xem xét lại |
+| エスカレーション | えすかれーしょん | — | Leo thang báo cáo |
+| 顕在化 | けんざいか | HIỂN TẠI HÓA | Hiện ra (rủi ro → thực tế) |

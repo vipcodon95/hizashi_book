@@ -211,9 +211,15 @@ def _is_standard(header, ncols):
     # Từ vựng 5 cột (+ Lần đầu xuất hiện) → chia đều 20/20/20/20/20
     if h == ("Từ", "Cách đọc", "Hán Việt", "Nghĩa Việt", "Lần đầu xuất hiện"):
         return True
+    # Bảng nhân vật 4 cột: "Tính cách" (sách 02) hoặc "Tên VN"+"Ghi chú" (sách 03)
     if ncols == 4 and "Tính cách" in " ".join(h):  # cast 18/16/24/42
         return True
+    if ncols == 4 and "Tên VN" in " ".join(h) and "Ghi chú" in " ".join(h):
+        return True
     if ncols == 2 and h[0] == "Tình huống" and "OK" in " ".join(h):  # compare 50/50
+        return True
+    # Bảng "lúc nào|việc" 2 cột (rule_14, rule_17 sách 03) → custom 30/70
+    if h == ("Lúc nào", "Việc gì") or h == ("Khi nào", "Việc cần làm"):
         return True
     # Bảng checklist 3 cột (# | nhãn | nội dung dài) → custom 10/20/70 (cố định)
     if h == ("#", "Mục", "Câu hỏi tự kiểm"):
