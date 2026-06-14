@@ -6,15 +6,15 @@
 >
 > **Liên quan:** Rule 14, Rule 16, Rule 31.
 
-## ✅ Hội thoại
+## Hội thoại
 
 | Vai | Câu |
 |---------|-----|
-| **松本PM** | 「明日の打ち合わせの時間を14時から15時に変更したい旨、お伝えください。」 |
-| **ズン** | 「承知いたしました。念のため復唱させていただきます。明日の打ち合わせのお時間を14時から15時へご変更でよろしいでしょうか。トゥアンに申し伝えます。」 |
-| **ズン** | 「お電話番号は090-1234-5678でよろしいでしょうか？」 |
-| **松本PM** | 「はい、その通りです。」 |
-| **ズン** | 「本日10時のお電話として、責任を持って申し伝えます。」 |
+| **松本PM** | 「明日の<ruby>打<rt>う</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせの時間を14時から15時に<ruby>変更<rt>へんこう</rt></ruby>したい<ruby>旨<rt>むね</rt></ruby>、お<ruby>伝<rt>つた</rt></ruby>えください。」 <br/>*Cuộc họp ngày mai, nhờ em nhắn lại là tôi muốn đổi từ 14h sang 15h ạ.* |
+| **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>いたしました。<ruby>念<rt>ねん</rt></ruby>のため<ruby>復唱<rt>ふくしょう</rt></ruby>させていただきます。明日の打ち合わせのお時間を14時から15時へ変更とのこと、トゥアンに<ruby>申<rt>もう</rt></ruby>し<ruby>伝<rt>つた</rt></ruby>えます。」 <br/>*Em đã rõ ạ. Em xin phép lặp lại để chắc chắn: cuộc họp ngày mai đổi từ 14h sang 15h, em sẽ chuyển lời cho anh Tuấn ạ.* |
+| **ズン** | 「お電話番号は090-1234-5678でよろしいでしょうか？」 <br/>*Số điện thoại của anh là 090-1234-5678 đúng không ạ?* |
+| **松本PM** | 「はい、その<ruby>通<rt>とお</rt></ruby>りです。」 <br/>*Đúng vậy ạ.* |
+| **ズン** | 「<ruby>本日<rt>ほんじつ</rt></ruby>10時のお電話として、<ruby>責任<rt>せきにん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って申し伝えます。」 <br/>*Em xin chịu trách nhiệm chuyển lời, ghi nhận cuộc gọi lúc 10h hôm nay ạ.* |
 
 ## 5 yếu tố ghi chú
 
@@ -26,15 +26,15 @@
 | 4 | 用件 | 明日打合せ 14時→15時変更希望 |
 | 5 | 発信時刻 | 4/25 10:00 |
 
-## 🎯 Câu chốt
+## Câu chốt
 
-> **「責任を持って申し伝えます。」**
+> **「<ruby>責任<rt>せきにん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>申<rt>もう</rt></ruby>し<ruby>伝<rt>つた</rt></ruby>えます。」**
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 伝言 | でんごん | Lời nhắn |
-| 申し伝える | もうしつたえる | (Khiêm) chuyển lời |
-| 念のため | ねんのため | Để chắc chắn |
-| 復唱 | ふくしょう | Lặp lại |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|----------|-------|
+| 伝言 | でんごん | TRUYỀN NGÔN | Lời nhắn |
+| 申し伝える | もうしつたえる | THÂN TRUYỀN | (Khiêm) chuyển lời |
+| 念のため | ねんのため | NIỆM | Để chắc chắn |
+| 復唱 | ふくしょう | PHỤC XƯỚNG | Lặp lại |

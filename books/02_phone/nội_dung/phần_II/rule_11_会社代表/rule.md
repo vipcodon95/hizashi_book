@@ -13,43 +13,43 @@
 | Không biết | 「分かりません」 | 「確認してご連絡いたします」 |
 | Đồng nghiệp vắng | 「いません」 | 「ただ今席を外しております」 |
 | Không trả lời được | 「私には分かりません」 | 「担当者におつなぎいたします」 |
-| Tỏ ra bực | (cau mày, cộc lốc) | (tone vẫn polite) |
+| Tỏ ra bực | (cau mày, cộc lốc) | (giọng vẫn lịch sự) |
 
 ---
 
-## ❌ Bad — Trả lời cá nhân
+## Trường hợp xấu — Trả lời cá nhân
 
 | Vai | Câu |
 |---------|-----|
-| **松本PM** | 「契約書の修正版、いつもらえますか？」 |
-| **ズン** | 「私には分かりません。」 |
+| **松本PM** | 「<ruby>契約書<rt>けいやくしょ</rt></ruby>の<ruby>修正版<rt>しゅうせいばん</rt></ruby>、いつもらえますか？」 <br/>*Hợp đồng sửa đổi khi nào em gửi cho anh được?* |
+| **ズン** | 「<ruby>私<rt>わたし</rt></ruby>には<ruby>分<rt>わ</rt></ruby>かりません。」 <br/>*Em không biết ạ.* |
 
 **Vì sao xấu:** Khách không quan tâm "ズン biết hay không". Khách quan tâm **Cty Thiên Phát có thể trả lời**.
 
 ---
 
-## ✅ Good — Trả lời đại diện
+## Trường hợp tốt — Trả lời đại diện
 
 | Vai | Câu |
 |---------|-----|
-| **松本PM** | 「契約書の修正版、いつもらえますか？」 |
-| **ズン** | 「確認の上、本日中にご連絡いたします【1】。」 |
+| **松本PM** | 「契約書の修正版、いつもらえますか？」 <br/>*Hợp đồng sửa đổi khi nào em gửi được?* |
+| **ズン** | 「<ruby>確認<rt>かくにん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>、<ruby>本日中<rt>ほんじつちゅう</rt></ruby>にご<ruby>連絡<rt>れんらく</rt></ruby>いたします【1】。」 <br/>*Em xin xác nhận và liên lạc lại anh trong hôm nay ạ.* |
 
-📝 **Ghi chú:** 【1】Câu này có 3 thông điệp: (1) sẽ check, (2) sẽ liên lạc lại, (3) trong hôm nay = deadline rõ.
-
----
-
-## 🎯 Câu chốt
-
-> **「確認の上、〇〇までにご連絡いたします。」** — Trả lời "không biết" theo cách đại diện công ty.
+ **Ghi chú:** 【1】Câu này có 3 thông điệp: (1) sẽ kiểm tra, (2) sẽ liên lạc lại, (3) trong hôm nay = hạn chót rõ ràng.
 
 ---
 
-## 📚 Vocab
+## Câu chốt
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 確認 | かくにん | Xác nhận |
-| 担当者 | たんとうしゃ | Người phụ trách |
-| 繋ぐ | つなぐ | Nối, chuyển (máy) |
-| 席を外す | せきをはずす | Vắng mặt |
+> **「<ruby>確認<rt>かくにん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>、〇〇までにご<ruby>連絡<rt>れんらく</rt></ruby>いたします。」** — Trả lời "không biết" theo cách đại diện công ty.
+
+---
+
+## Bảng từ vựng
+
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|----------|-------|
+| 確認 | かくにん | XÁC NHẬN | Xác nhận |
+| 担当者 | たんとうしゃ | ĐẢM ĐƯƠNG GIẢ | Người phụ trách |
+| 繋ぐ | つなぐ | HỆ | Nối, chuyển (máy) |
+| 席を外す | せきをはずす | TỊCH NGOẠI | Vắng mặt |

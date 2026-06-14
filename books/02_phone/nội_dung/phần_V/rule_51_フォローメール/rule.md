@@ -1,12 +1,12 @@
-# Rule 51 — Phone xong gửi tóm tắt qua mail / 電話後のフォローアップメール
+# Rule 51 — Sau cuộc gọi gửi tóm tắt qua mail / 電話後のフォローアップメール
 
-> **Luận điểm.** Sau cuộc gọi quan trọng → gửi mail tóm tắt **trong 1h** với 3 phần: **(1) cảm ơn**, **(2) thống nhất**, **(3) bước tiếp + deadline**.
+> **Luận điểm.** Sau cuộc gọi quan trọng → gửi mail tóm tắt **trong 1h** với 3 phần: **(1) cảm ơn**, **(2) thống nhất**, **(3) bước tiếp + hạn chót**.
 >
 > 重要通話後は1時間以内にフォローアップメール。①感謝 ②合意事項 ③次アクションの3点。
 >
 > **Liên quan:** Rule 35, Rule 23.
 
-## ✅ Mail mẫu
+## Mail mẫu
 
 ```
 件名：本日のお打ち合わせのお礼（4月度進捗の件）
@@ -33,21 +33,21 @@
 ズン
 ```
 
-## ✅ Hội thoại — phone confirm
+## Hội thoại — xác nhận qua điện thoại
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「先ほどの内容、本日中にフォローアップメールでまとめてお送りいたします。ご確認のほどよろしくお願いいたします。」 |
-| **松本PM** | 「お願いします。」 |
+| **ズン** | 「<ruby>先<rt>さき</rt></ruby>ほどの<ruby>内容<rt>ないよう</rt></ruby>、<ruby>本日中<rt>ほんじつちゅう</rt></ruby>にフォローアップメールでまとめてお<ruby>送<rt>おく</rt></ruby>りいたします。ご<ruby>確認<rt>かくにん</rt></ruby>のほどよろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。」 <br/>*Nội dung vừa rồi em sẽ tổng hợp gửi mail tóm tắt trong hôm nay. Phiền anh xác nhận giúp em ạ.* |
+| **松本PM** | 「お願いします。」 <br/>*Nhờ em nhé.* |
 
-## 🎯 Câu chốt
+## Câu chốt
 
-> **「本日中にフォローアップメールでまとめてお送りいたします。」**
+> **「<ruby>本日中<rt>ほんじつちゅう</rt></ruby>にフォローアップメールでまとめてお<ruby>送<rt>おく</rt></ruby>りいたします。」**
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| フォローアップ | follow-up | Theo dõi tiếp |
-| 認識合わせ | にんしきあわせ | Đồng nhất hiểu biết |
-| 合意事項 | ごういじこう | Điểm thống nhất |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| フォローアップ | フォローアップ | — | Theo sát sau cuộc gọi |
+| 認識合わせ | にんしきあわせ | NHẬN THỨC — | Đồng nhất hiểu biết |
+| 合意事項 | ごういじこう | HỢP Ý SỰ HẠNG | Điểm thống nhất |

@@ -1,28 +1,28 @@
-# Rule 17 — Hold tối đa 1 phút / 保留は1分以内
+# Rule 17 — Giữ máy tối đa 1 phút / 保留は1分以内
 
-> **Luận điểm.** Bấm hold quá 1 phút = mất kiên nhẫn của khách. Nếu phải lâu hơn → quay lại line, xin lỗi và đề xuất gọi lại.
+> **Luận điểm.** Để khách chờ máy quá 1 phút = mất kiên nhẫn của khách. Nếu phải lâu hơn → quay lại đường dây, xin lỗi và đề xuất gọi lại.
 >
 > 保留は1分以内が原則。超える場合は一旦戻り、折り返しを提案。
 >
 > **Liên quan:** Rule 15, Rule 36.
 
-## ✅ Hội thoại
+## Hội thoại
 
-*50秒経過, hold music*
+*50秒経過, nhạc chờ*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「確認いたしますので、少々お待ちいただけますでしょうか。」 |
-| **ズン** | 「お待たせいたしまして大変申し訳ございません。確認にもうしばらく時間がかかりそうでございますので、こちらから折り返しお電話差し上げてもよろしいでしょうか。」 |
+| **ズン** | 「<ruby>確認<rt>かくにん</rt></ruby>いたしますので、<ruby>少々<rt>しょうしょう</rt></ruby>お待ちいただけますでしょうか。」 <br/>*Em xin phép kiểm tra một chút, anh giữ máy giúp em được không ạ?* |
+| **ズン** | 「お待たせいたしまして大変申し訳ございません。確認にもうしばらく時間がかかりそうでございますので、こちらから<ruby>折<rt>お</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>しお電話<ruby>差<rt>さ</rt></ruby>し上げてもよろしいでしょうか。」 <br/>*Xin lỗi anh vì đã để đợi lâu ạ. Việc kiểm tra cần thêm thời gian, em xin phép gọi lại cho anh sau, được không ạ?* |
 
-## 🎯 Câu chốt
+## Câu chốt
 
-> **「お待たせして申し訳ございません。折り返しお電話差し上げてもよろしいでしょうか。」**
+> **「お待たせして申し訳ございません。<ruby>折<rt>お</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>しお電話<ruby>差<rt>さ</rt></ruby>し上げてもよろしいでしょうか。」**
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 保留 | ほりゅう | Giữ máy |
-| 少々 | しょうしょう | Một chút |
-| 折り返し | おりかえし | Gọi lại |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|----------|-------|
+| 保留 | ほりゅう | BẢO LƯU | Chờ máy/giữ máy |
+| 少々 | しょうしょう | THIỂU THIỂU | Một chút |
+| 折り返し | おりかえし | CHIẾT PHẢN | Gọi lại |

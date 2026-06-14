@@ -4,23 +4,23 @@
 >
 > 受電1件ごとに5W1H記録。1つでも欠けると確認電話が必要 = 失礼。
 >
-> **Liên quan:** Rule 05 (template), Rule 18 (伝言).
+> **Liên quan:** Rule 05 (mẫu câu), Rule 18 (伝言).
 
-## ✅ Hội thoại — Take message hoàn chỉnh
+## Hội thoại — Ghi lời nhắn hoàn chỉnh
 
 | Vai | Câu |
 |---------|-----|
-| **松本PM** | 「明日の打ち合わせ、第3会議室で14時から、6名で。資料は事前にメールで。」 |
-| **ズン** | 「念のため復唱いたします。明日（When）、松本様（Who）、第3会議室（Where）、打ち合わせ（What）、6名参加（How）、14時から（When详）、資料事前メール（How详）、でよろしいでしょうか。」 |
-| **松本PM** | 「その通りです。」 |
+| **松本PM** | 「明日の<ruby>打<rt>う</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせ、<ruby>第<rt>だい</rt></ruby>3<ruby>会議室<rt>かいぎしつ</rt></ruby>で14時から、6<ruby>名<rt>めい</rt></ruby>で。<ruby>資料<rt>しりょう</rt></ruby>は<ruby>事前<rt>じぜん</rt></ruby>にメールで。」 <br/>*Họp ngày mai, phòng họp 3, từ 14h, 6 người. Tài liệu gửi mail trước.* |
+| **ズン** | 「<ruby>念<rt>ねん</rt></ruby>のため<ruby>復唱<rt>ふくしょう</rt></ruby>いたします。明日（When）、松本様（Who）、第3会議室（Where）、打ち合わせ（What）、6<ruby>名参加<rt>めいさんか</rt></ruby>（How）、14時から（When详）、資料事前メール（How详）、でよろしいでしょうか。」 <br/>*Em xin lặp lại: ngày mai, anh Matsumoto, phòng họp 3, cuộc họp, 6 người, từ 14h, tài liệu mail trước, đúng không ạ?* |
+| **松本PM** | 「その<ruby>通<rt>とお</rt></ruby>りです。」 <br/>*Đúng vậy.* |
 
-## 🎯 Câu chốt
+## Câu chốt
 
-> **5W1Hで復唱、抜けなしを確認。**
+> **5W1Hで<ruby>復唱<rt>ふくしょう</rt></ruby>、<ruby>抜<rt>ぬ</rt></ruby>けなしを<ruby>確認<rt>かくにん</rt></ruby>。**
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 抜け | ぬけ | Thiếu sót |
-| 詳細 | しょうさい | Chi tiết |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|----------|-------|
+| 抜け | ぬけ | BẠT | Thiếu sót |
+| 詳細 | しょうさい | TƯỜNG TẾ | Chi tiết |

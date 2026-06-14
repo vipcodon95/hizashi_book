@@ -1,28 +1,28 @@
-# Rule 36 — Đừng để hold quá im — lấp im lặng / 保留中の対応
+# Rule 36 — Đừng để máy chờ quá im — lấp im lặng / 保留中の対応
 
-> **Luận điểm.** Hold máy quá 30 giây mà im lặng = khách lo "có còn line không". Cứ 30 giây quay lại line nói **「お待たせしております」** một lần.
+> **Luận điểm.** Giữ máy chờ quá 30 giây mà im lặng = khách lo "có còn kết nối không". Cứ 30 giây quay lại line nói **「お待たせしております」** một lần.
 >
 > 保留が30秒超えるごとに『お待たせしております』で生存確認。沈黙は不安を呼ぶ。
 >
 > **Liên quan:** Rule 17, Rule 22.
 
-## ✅ Hội thoại
+## Hội thoại
 
-*30秒経過 · brief unhold · 20秒後*
+*30秒経過 · quay lại line · 20秒後*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「確認いたしますので、少々お待ちください。」 *(hold)* |
-| **ズン** | 「お待たせしております。あと少々お時間をいただきます。」 *(re-hold)* |
-| **ズン** | 「大変お待たせいたしました。確認できました。〜」 |
+| **ズン** | 「<ruby>確認<rt>かくにん</rt></ruby>いたしますので、<ruby>少々<rt>しょうしょう</rt></ruby>お待ちください。」 *(giữ máy)* <br/>*Em xin phép kiểm tra, anh giữ máy chút ạ.* |
+| **ズン** | 「お待たせしております。あと少々お時間をいただきます。」 *(quay lại giữ máy)* <br/>*Xin lỗi đã để anh đợi ạ. Em xin thêm chút thời gian nữa ạ.* |
+| **ズン** | 「<ruby>大変<rt>たいへん</rt></ruby>お待たせいたしました。確認できました。〜」 <br/>*Rất xin lỗi đã để anh đợi ạ. Em đã kiểm tra xong rồi ạ.* |
 
-## 🎯 Câu chốt
+## Câu chốt
 
-> **「お待たせしております。あと少々お時間をいただきます。」**
+> **「お待たせしております。あと<ruby>少々<rt>しょうしょう</rt></ruby>お時間をいただきます。」**
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 保留中 | ほりゅうちゅう | Đang giữ máy |
-| 沈黙 | ちんもく | Im lặng |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|-----|---------|---------|-------|
+| 保留中 | ほりゅうちゅう | BẢO LƯU TRUNG | Đang giữ máy |
+| 沈黙 | ちんもく | TRẦM MẶC | Im lặng |

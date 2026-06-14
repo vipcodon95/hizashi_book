@@ -34,8 +34,6 @@ Bản tiếng Nhật (đi kèm bản này) có thêm **Phụ lục C** — bản
 
 © 2026 Hizashi Teams. Bảo lưu mọi quyền. Không sao chép, phát tán, hoặc sử dụng thương mại nội dung sách dưới bất kỳ hình thức nào nếu không có văn bản đồng ý của Hizashi Teams.
 
-*(Thông tin phiên bản, ngày phát hành và liên hệ ở cuối sách.)*
-
 ---
 
 ## Lời cảm ơn & Nguồn cảm hứng

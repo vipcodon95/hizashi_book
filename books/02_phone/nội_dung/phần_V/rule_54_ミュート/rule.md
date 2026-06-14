@@ -1,37 +1,37 @@
-# Rule 54 — Mute/unmute etiquette / マイクオフ・オンの礼儀
+# Rule 54 — Phép tắc tắt/bật mic / マイクオフ・オンの礼儀
 
-> **Luận điểm.** Khi không nói = mute. Khi muốn nói = unmute + chờ 0.5 giây cho audio sync trước khi mở lời. Tránh "phantom audio" làm gián đoạn người khác.
+> **Luận điểm.** Khi không nói = tắt mic. Khi muốn nói = bật mic + chờ 0.5 giây cho âm thanh ổn định trước khi mở lời. Tránh tiếng động lạ làm gián đoạn người khác.
 >
 > 発言しない時はミュート、発言時はアンミュート＋0.5秒待機。雑音回避と発言の明確化。
 >
 > **Liên quan:** Rule 52, Rule 57.
 
-## ✅ Hội thoại
+## Hội thoại
 
-*unmute, wait 0.5s · 発言後、ズンが mute*
+*bật mic, chờ 0.5 giây · 発言後、ズンが tắt mic*
 
 | Vai | Câu |
 |---------|-----|
-| **松本PM** | 「ご質問ございますでしょうか？」 |
-| **ズン** | 「ティエンファットのズンですが、1点よろしいでしょうか？」 |
-| **松本PM** | 「はい、どうぞ。」 |
-| **ズン** | 「契約条件の確認をさせてください。…」 |
+| **松本PM** | 「ご<ruby>質問<rt>しつもん</rt></ruby>ございますでしょうか？」 <br/>*Có câu hỏi nào không ạ?* |
+| **ズン** | 「ティエンファットのズンですが、1点よろしいでしょうか？」 <br/>*Em Dũng bên Thiên Phát ạ, em xin hỏi 1 điểm được không ạ?* |
+| **松本PM** | 「はい、どうぞ。」 <br/>*Vâng, em hỏi đi.* |
+| **ズン** | 「<ruby>契約<rt>けいやく</rt></ruby><ruby>条件<rt>じょうけん</rt></ruby>の<ruby>確認<rt>かくにん</rt></ruby>をさせてください。…」 <br/>*Em xin xác nhận điều khoản hợp đồng ạ.* |
 
-## ⚠ Tránh
+## Tránh
 
-- Mở mic mà có tiếng phòng ồn (gõ phím, nói chuyện sau lưng).
-- Quên unmute → "muted" thì người khác phải nhắc.
-- Giữ unmute cả buổi → tiếng thở/click làm phiền.
+- Bật mic mà có tiếng phòng ồn (gõ phím, nói chuyện sau lưng).
+- Quên bật mic → người khác phải nhắc "bạn đang tắt mic".
+- Để bật mic cả buổi → tiếng thở/click làm phiền.
 
-## 🎯 Câu chốt
+## Câu chốt
 
-> **「1点よろしいでしょうか？」(unmute → 待機 → 発言)**
+> **「1点よろしいでしょうか？」(bật mic → <ruby>待機<rt>たいき</rt></ruby> → <ruby>発言<rt>はつげん</rt></ruby>)**
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| ミュート | mute | Tắt mic |
-| 雑音 | ざつおん | Tạp âm |
-| 待機 | たいき | Chờ |
-| 発言 | はつげん | Phát biểu |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| ミュート | ミュート | — | Tắt mic |
+| 雑音 | ざつおん | TẠP ÂM | Tạp âm |
+| 待機 | たいき | ĐÃI CƠ | Chờ |
+| 発言 | はつげん | PHÁT NGÔN | Phát biểu |

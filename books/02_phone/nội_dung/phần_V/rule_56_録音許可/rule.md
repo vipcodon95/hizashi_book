@@ -1,34 +1,34 @@
-# Rule 56 — Xin phép ghi âm / transcribe / 録音・文字起こしの許可
+# Rule 56 — Xin phép ghi âm / chuyển giọng thành văn bản / 録音・文字起こしの許可
 
-> **Luận điểm.** Trước khi bật ghi âm hay AI transcribe → **xin phép từng người tham gia**. Quy định privacy của Nhật rất nghiêm.
+> **Luận điểm.** Trước khi bật ghi âm hay AI chuyển giọng thành văn bản → **xin phép từng người tham gia**. Quy định về quyền riêng tư của Nhật rất nghiêm.
 >
 > 録音・AI文字起こしは事前に全員の許可を得る。日本のプライバシー規定は厳格。
 >
 > **Liên quan:** Rule 52, Rule 59.
 
-## ✅ Hội thoại
+## Hội thoại
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「本日のミーティングですが、議事録作成のため録音と自動文字起こしをさせていただきたく存じます。」 |
-| **ズン** | 「皆様、ご了承いただけますでしょうか？」 |
-| **松本PM** | 「私は問題ありません。」 |
-| **ズン** | 「ありがとうございます。それでは録音を開始いたします。」 |
+| **ズン** | 「本日のミーティングですが、<ruby>議事録<rt>ぎじろく</rt></ruby><ruby>作成<rt>さくせい</rt></ruby>のため<ruby>録音<rt>ろくおん</rt></ruby>と<ruby>自動<rt>じどう</rt></ruby><ruby>文字起<rt>もじお</rt></ruby>こしをさせていただきたく<ruby>存<rt>ぞん</rt></ruby>じます。」 <br/>*Buổi họp hôm nay, em xin phép ghi âm và tự động chuyển giọng thành văn bản để làm biên bản ạ.* |
+| **ズン** | 「<ruby>皆様<rt>みなさま</rt></ruby>、ご<ruby>了承<rt>りょうしょう</rt></ruby>いただけますでしょうか？」 <br/>*Mọi người có đồng ý không ạ?* |
+| **松本PM** | 「<ruby>私<rt>わたし</rt></ruby>は<ruby>問題<rt>もんだい</rt></ruby>ありません。」 <br/>*Tôi không có vấn đề gì.* |
+| **ズン** | 「ありがとうございます。それでは<ruby>録音<rt>ろくおん</rt></ruby>を<ruby>開始<rt>かいし</rt></ruby>いたします。」 <br/>*Cảm ơn anh ạ. Em xin bắt đầu ghi âm ạ.* |
 
-## ⚠ Tránh
+## Tránh
 
-- Bật ghi âm trước rồi hỏi sau → vi phạm trust.
+- Bật ghi âm trước rồi hỏi sau → đánh mất lòng tin.
 - "後でAIで文字起こしします" → đây cũng là ghi âm gián tiếp, vẫn cần xin phép.
 
-## 🎯 Câu chốt
+## Câu chốt
 
-> **「録音と自動文字起こしをさせていただきたく存じます。皆様、ご了承いただけますでしょうか？」**
+> **「<ruby>録音<rt>ろくおん</rt></ruby>と<ruby>自動<rt>じどう</rt></ruby><ruby>文字起<rt>もじお</rt></ruby>こしをさせていただきたく<ruby>存<rt>ぞん</rt></ruby>じます。<ruby>皆様<rt>みなさま</rt></ruby>、ご<ruby>了承<rt>りょうしょう</rt></ruby>いただけますでしょうか？」**
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 録音 | ろくおん | Ghi âm |
-| 文字起こし | もじおこし | Transcribe |
-| 議事録 | ぎじろく | Biên bản họp |
-| 了承 | りょうしょう | Đồng ý |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 録音 | ろくおん | LỤC ÂM | Ghi âm |
+| 文字起こし | もじおこし | VĂN TỰ — | Chuyển giọng thành văn bản |
+| 議事録 | ぎじろく | NGHỊ SỰ LỤC | Biên bản họp |
+| 了承 | りょうしょう | LIỄU THỪA | Đồng ý |

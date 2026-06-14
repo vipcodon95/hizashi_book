@@ -6,30 +6,30 @@
 >
 > **Liên quan:** Rule 20, Rule 41, Rule 45.
 
-## ✅ Hội thoại
+## Hội thoại
 
 | Vai | Câu |
 |---------|-----|
-| **不明発信者** | 「3回もメールしたのに返信がないんですよ！どうなってるんですか！」 |
-| **ズン** | 「はい...左様でございましたか。」 |
-| **不明発信者** | 「もう1週間ですよ、1週間！」 |
-| **ズン** | 「ご返信が遅くなり、本当に申し訳ございません。すぐに状況を確認の上、本日中に必ずご回答差し上げます。」 |
-| **不明発信者** | 「...じゃあお願いします。」 |
+| **不明発信者** | 「3回もメールしたのに<ruby>返信<rt>へんしん</rt></ruby>がないんですよ！どうなってるんですか！」 <br/>*Tôi đã gửi mail 3 lần mà không có phản hồi! Là sao đây!* |
+| **ズン** | 「はい...<ruby>左様<rt>さよう</rt></ruby>でございましたか。」 <br/>*Vâng... em hiểu rồi ạ.* |
+| **不明発信者** | 「もう1週間ですよ、1週間！」 <br/>*Đã 1 tuần rồi đấy, 1 tuần!* |
+| **ズン** | 「ご返信が遅くなり、本当に<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。すぐに<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>の上、<ruby>本日中<rt>ほんじつちゅう</rt></ruby>に必ずご<ruby>回答<rt>かいとう</rt></ruby>差し上げます。」 <br/>*Em xin lỗi vì đã trả lời chậm ạ. Em sẽ kiểm tra ngay và chắc chắn trả lời anh trong hôm nay ạ.* |
+| **不明発信者** | 「...じゃあお願いします。」 <br/>*...Vậy nhờ em nhé.* |
 
-## ⚠ Điểm chú ý
+## Điểm chú ý
 
-- **「はい...」「左様でございますか」** = ack tiếng Việt như "Vâng... em hiểu". Không cắt lời.
-- Sau khi khách "xả" xong → mới đến phase xin lỗi + giải pháp.
+- **「はい...」「左様でございますか」** = câu chêm xác nhận đang lắng nghe, tiếng Việt như "Vâng... em hiểu". Không cắt lời.
+- Sau khi khách "xả" xong → mới đến bước xin lỗi + giải pháp.
 
-## 🎯 Câu chốt
+## Câu chốt
 
-> **「左様でございましたか。ご返信が遅くなり、本当に申し訳ございません。」**
+> **「<ruby>左様<rt>さよう</rt></ruby>でございましたか。ご<ruby>返信<rt>へんしん</rt></ruby>が遅くなり、本当に<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。」**
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 怒る | おこる | Giận |
-| 傾聴 | けいちょう | Lắng nghe |
-| 共感 | きょうかん | Đồng cảm |
-| 遮る | さえぎる | Cắt ngang |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|-----|---------|---------|-------|
+| 怒る | おこる | — | Giận |
+| 傾聴 | けいちょう | KHUYNH THÍNH | Lắng nghe |
+| 共感 | きょうかん | CỘNG CẢM | Đồng cảm |
+| 遮る | さえぎる | — | Cắt ngang |

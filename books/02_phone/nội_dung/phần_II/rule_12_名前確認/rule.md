@@ -6,22 +6,22 @@
 >
 > **Liên quan:** Rule 13, Rule 14.
 
-## ✅ Hội thoại
+## Hội thoại
 
 | Vai | Câu |
 |---------|-----|
-| **不明発信者** | 「白鷗のますもとですが、ズンさんお願いします。」 |
-| **ズン** | 「白鷗株式会社の松本様でいらっしゃいますね【1】。お待ちしておりました。」 |
+| **不明発信者** | 「<ruby>白鷗<rt>はくおう</rt></ruby>のますもとですが、ズンさんお願いします。」 <br/>*Tôi là Matsumoto bên Hakuō, nhờ em nối máy cho anh Dũng.* |
+| **ズン** | 「<ruby>白鷗<rt>はくおう</rt></ruby><ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby>の<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>でいらっしゃいますね【1】。お<ruby>待<rt>ま</rt></ruby>ちしておりました。」 <br/>*Anh là Matsumoto bên Cty Hakuō đúng không ạ. Em đã đợi điện anh ạ.* |
 
-📝 【1】 Lặp lại với 「いらっしゃいますね」 = vừa xác nhận vừa kính ngữ.
+ 【1】 Lặp lại với 「いらっしゃいますね」 = vừa xác nhận vừa kính ngữ.
 
-## 🎯 Câu chốt
+## Câu chốt
 
-> **「〇〇様でいらっしゃいますね。」**
+> **「〇〇<ruby>様<rt>さま</rt></ruby>でいらっしゃいますね。」**
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 復唱 | ふくしょう | Lặp lại |
-| いらっしゃる | irassharu | (Kính ngữ) là, có |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|----------|-------|
+| 復唱 | ふくしょう | PHỤC XƯỚNG | Lặp lại |
+| いらっしゃる | いらっしゃる | — | (Kính ngữ) là, có |

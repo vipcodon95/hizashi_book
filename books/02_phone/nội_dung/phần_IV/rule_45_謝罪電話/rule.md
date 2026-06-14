@@ -6,30 +6,30 @@
 >
 > **Liên quan:** Rule 41, Rule 44.
 
-## ✅ Hội thoại
+## Hội thoại
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「先ほどはご迷惑をおかけし、誠に申し訳ございませんでした。」 |
-| **ズン** | 「弊社の確認漏れにより、納期を1日遅らせる結果となりました。全責任は弊社にございます。」 |
-| **ズン** | 「すぐに不足分を本日中に発送し、追加コストは弊社にて負担いたします。」 |
-| **ズン** | 「今後はチェック体制を二重化し、二度とこのようなことが起きないよう徹底いたします。」 |
-| **松本PM** | 「対応については分かりました。次回はお願いします。」 |
+| **ズン** | 「<ruby>先<rt>さき</rt></ruby>ほどはご<ruby>迷惑<rt>めいわく</rt></ruby>をおかけし、<ruby>誠<rt>まこと</rt></ruby>に<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございませんでした。」 <br/>*Vừa nãy đã gây phiền cho anh, em thành thật xin lỗi ạ.* |
+| **ズン** | 「<ruby>弊社<rt>へいしゃ</rt></ruby>の<ruby>確認漏<rt>かくにんも</rt></ruby>れにより、<ruby>納期<rt>のうき</rt></ruby>を1<ruby>日<rt>にち</rt></ruby><ruby>遅<rt>おく</rt></ruby>らせる<ruby>結果<rt>けっか</rt></ruby>となりました。<ruby>全責任<rt>ぜんせきにん</rt></ruby>は<ruby>弊社<rt>へいしゃ</rt></ruby>にございます。」 <br/>*Do bên em sót việc kiểm tra nên giao chậm 1 ngày. Tất cả là trách nhiệm của bên em ạ.* |
+| **ズン** | 「すぐに<ruby>不足分<rt>ふそくぶん</rt></ruby>を<ruby>本日中<rt>ほんじつちゅう</rt></ruby>に<ruby>発送<rt>はっそう</rt></ruby>し、<ruby>追加<rt>ついか</rt></ruby>コストは<ruby>弊社<rt>へいしゃ</rt></ruby>にて<ruby>負担<rt>ふたん</rt></ruby>いたします。」 <br/>*Em sẽ gửi phần thiếu trong hôm nay, chi phí phát sinh bên em chịu ạ.* |
+| **ズン** | 「<ruby>今後<rt>こんご</rt></ruby>はチェック<ruby>体制<rt>たいせい</rt></ruby>を<ruby>二重化<rt>にじゅうか</rt></ruby>し、<ruby>二度<rt>にど</rt></ruby>とこのようなことが<ruby>起<rt>お</rt></ruby>きないよう<ruby>徹底<rt>てってい</rt></ruby>いたします。」 <br/>*Từ sau bên em sẽ tăng cường cơ chế kiểm tra hai lớp, em cam kết sẽ không để tái diễn ạ.* |
+| **松本PM** | 「<ruby>対応<rt>たいおう</rt></ruby>については<ruby>分<rt>わ</rt></ruby>かりました。<ruby>次回<rt>じかい</rt></ruby>はお<ruby>願<rt>ねが</rt></ruby>いします。」 <br/>*Cách xử lý tôi đã hiểu. Lần sau nhờ em nhé.* |
 
-## 🎯 Câu chốt
+## Câu chốt
 
-> **「全責任は弊社にございます。」**
+> **「<ruby>全責任<rt>ぜんせきにん</rt></ruby>は<ruby>弊社<rt>へいしゃ</rt></ruby>にございます。」**
 
-## ⚠ Tránh
+## Tránh
 
 - 「もしかしたら〜」 → lưỡng lự, không thừa nhận.
 - 「仕方ありませんでした」 → đẩy lỗi cho hoàn cảnh.
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 謝罪 | しゃざい | Xin lỗi |
-| 責任 | せきにん | Trách nhiệm |
-| 徹底 | てってい | Triệt để |
-| 二重化 | にじゅうか | Tăng gấp đôi (cơ chế kiểm) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|-----|---------|---------|-------|
+| 謝罪 | しゃざい | TẠ TỘI | Xin lỗi |
+| 責任 | せきにん | TRÁCH NHIỆM | Trách nhiệm |
+| 徹底 | てってい | TRIỆT ĐỂ | Triệt để |
+| 二重化 | にじゅうか | NHỊ TRỌNG HÓA | Tăng gấp đôi (cơ chế kiểm) |

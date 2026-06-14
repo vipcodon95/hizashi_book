@@ -1,8 +1,8 @@
 # Phụ lục C — BJT Practice Tổng Hợp / BJT練習問題集
 
-*Tổng hợp tất cả BJT practice questions từ 60 rules, sắp xếp theo level và skill.*
+*Tổng hợp tất cả câu hỏi luyện tập BJT từ 60 rule, sắp xếp theo cấp độ và kỹ năng.*
 
-*Dùng để luyện thi BJT business Japanese — câu hỏi có audio prompt được link đến rule gốc.*
+*Dùng để luyện thi BJT (tiếng Nhật thương mại).*
 
 ---
 
@@ -23,8 +23,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 電話を取る前にメモの準備があるべき。後から探すのは準備不足の印象。
-- 🇻🇳 Phải có sẵn bút giấy TRƯỚC khi bốc máy. Tìm sau = lộ chuẩn bị thiếu.
+- 電話を取る前にメモの準備があるべき。後から探すのは準備不足の印象。
+- Phải có sẵn bút giấy TRƯỚC khi bốc máy. Tìm sau = lộ chuẩn bị thiếu.
 
 ### J4.2 (từ rule_08 — Môi trường yên lúc gọi/nhận)
 
@@ -40,8 +40,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 背景音のない静かな会議室が理想。
-- 🇻🇳 Phòng họp yên tĩnh không tiếng ồn nền là lý tưởng.
+- 背景音のない静かな会議室が理想。
+- Phòng họp yên tĩnh không tiếng ồn nền là lý tưởng.
 
 ### J4.3 (từ rule_12 — Xác nhận tên đối phương)
 
@@ -57,8 +57,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 「いらっしゃる」が最高の敬語。
-- 🇻🇳 「いらっしゃる」 là kính ngữ cao nhất.
+- 「いらっしゃる」が最高の敬語。
+- 「いらっしゃる」 là kính ngữ cao nhất.
 
 ### J4.4 (từ rule_22 — Thứ tự gác máy: khách trước, mình sau)
 
@@ -74,8 +74,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 顧客や上司が切ってから自分が切るのが基本マナー。
-- 🇻🇳 Khách/cấp trên cúp trước, mình cúp sau là quy tắc cơ bản.
+- 顧客や上司が切ってから自分が切るのが基本マナー。
+- Khách/cấp trên cúp trước, mình cúp sau là quy tắc cơ bản.
 
 ### J4.5 (từ rule_25 — Chọn giờ gọi — khung tránh / khung tốt)
 
@@ -91,8 +91,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 12時-13時は昼休みで発信NG。
-- 🇻🇳 12-13h là giờ nghỉ trưa, không nên gọi.
+- 12時-13時は昼休みで発信NG。
+- 12-13h là giờ nghỉ trưa, không nên gọi.
 
 ### J4.6 (từ rule_36 — Đừng để hold quá im — lấp im lặng)
 
@@ -108,8 +108,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 沈黙は不安の元。30秒ごとの生存確認が基本。
-- 🇻🇳 Im lặng gây lo lắng. 30 giây quay lại 1 lần là chuẩn.
+- 沈黙は不安の元。30秒ごとの生存確認が基本。
+- Im lặng gây lo lắng. 30 giây quay lại 1 lần là chuẩn.
 
 ### J4.7 (từ rule_37 — Khi line đứt — ai gọi lại trước?)
 
@@ -125,10 +125,10 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 ビジネス電話の原則は『発信側がかけ直す』。
-- 🇻🇳 Nguyên tắc: bên gọi đi gọi lại trước.
+- ビジネス電話の原則は『発信側がかけ直す』。
+- Nguyên tắc: bên gọi đi gọi lại trước.
 
-### J4.8 (từ rule_54 — Mute/unmute etiquette)
+### J4.8 (từ rule_54 — Phép tắc tắt/bật mic)
 
 **Skill:** 場面把握
 
@@ -142,8 +142,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 発言しない時はミュートが基本マナー。雑音回避のため。
-- 🇻🇳 Không nói thì mute — tránh tạp âm là nguyên tắc cơ bản.
+- 発言しない時はミュートが基本マナー。雑音回避のため。
+- Không nói thì tắt mic — tránh tạp âm là nguyên tắc cơ bản.
 
 
 ## Level J3 (39 câu)
@@ -162,8 +162,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 標準形は『会社名 → 部署 → 氏名』。Aは「もしもし」が不要。C, Dは順序が誤り。
-- 🇻🇳 Format chuẩn là 'Công ty → Phòng → Tên'. A sai vì có 「もしもし」 thừa. C, D sai trật tự.
+- 標準形は『会社名 → 部署 → 氏名』。Aは「もしもし」が不要。C, Dは順序が誤り。
+- Khuôn chuẩn là 'Công ty → Phòng → Tên'. A sai vì có 「もしもし」 thừa. C, D sai trật tự.
 
 ### J3.2 (từ rule_02 — Bắt máy trong 3 hồi chuông)
 
@@ -179,8 +179,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 3コール以上は「お待たせいたしました」必須。「すみません」はビジネス電話の詫びとしてカジュアルすぎる。
-- 🇻🇳 Quá 3 hồi phải có 「お待たせいたしました」. 「すみません」 quá casual cho phone business.
+- 3コール以上は「お待たせいたしました」必須。「すみません」はビジネス電話の詫びとしてカジュアルすぎる。
+- Quá 3 hồi phải có 「お待たせいたしました」. 「すみません」 quá thường nhật cho điện thoại công việc.
 
 ### J3.3 (từ rule_03 — Trễ thì xin lỗi đúng cách)
 
@@ -196,10 +196,10 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 1分以上は「申し訳ございません」必須。「すみません」「ごめんなさい」はビジネス電話に不適切。
-- 🇻🇳 1 phút+ cần 「申し訳ございません」. 「すみません」「ごめんなさい」 không phù hợp business phone.
+- 1分以上は「申し訳ございません」必須。「すみません」「ごめんなさい」はビジネス電話に不適切。
+- 1 phút+ cần 「申し訳ございません」. 「すみません」「ごめんなさい」 không phù hợp điện thoại công việc.
 
-### J3.4 (từ rule_05 — Template ghi chú 5W1H)
+### J3.4 (từ rule_05 — Mẫu ghi chú 5W1H)
 
 **Skill:** 場面把握
 
@@ -213,10 +213,10 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 5W1Hは When-Who-Where-What-Why-How。年齢は含まれない。
-- 🇻🇳 5W1H là When-Who-Where-What-Why-How. Tuổi không thuộc 6 yếu tố này.
+- 5W1Hは When-Who-Where-What-Why-How。年齢は含まれない。
+- 5W1H là When-Who-Where-What-Why-How. Tuổi không thuộc 6 yếu tố này.
 
-### J3.5 (từ rule_06 — Pitch và tốc độ giọng phone)
+### J3.5 (từ rule_06 — Cao độ và tốc độ giọng điện thoại)
 
 **Skill:** 場面把握
 
@@ -230,8 +230,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 電話では感情伝達が弱いため、ピッチ↑+速度↓で補う。
-- 🇻🇳 Trên phone cảm xúc truyền yếu → bù bằng pitch cao + tốc độ chậm.
+- 電話では感情伝達が弱いため、ピッチ↑+速度↓で補う。
+- Trên điện thoại cảm xúc truyền yếu → bù bằng cao độ cao + tốc độ chậm.
 
 ### J3.6 (từ rule_07 — Smile in voice — giọng truyền cảm xúc)
 
@@ -247,8 +247,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 実際の表情筋の動きが声の質を変える。
-- 🇻🇳 Chuyển động cơ mặt thực tế thay đổi chất giọng — khoa học, không phải tip mềm.
+- 実際の表情筋の動きが声の質を変える。
+- Chuyển động cơ mặt thực tế thay đổi chất giọng — khoa học, không phải tip mềm.
 
 ### J3.7 (từ rule_09 — Setup bàn trước cuộc gọi quan trọng)
 
@@ -264,8 +264,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 昼食は不要。集中の妨げになる可能性も。
-- 🇻🇳 Đồ ăn trưa không cần. Có thể làm mất tập trung.
+- 昼食は不要。集中の妨げになる可能性も。
+- Đồ ăn trưa không cần. Có thể làm mất tập trung.
 
 ### J3.8 (từ rule_11 — Đại diện công ty trả lời, không phải cá nhân)
 
@@ -281,8 +281,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 会社として「確認して連絡する」が標準的回答。
-- 🇻🇳 Đại diện công ty: chuẩn là 「xác nhận và liên lạc lại」.
+- 会社として「確認して連絡する」が標準的回答。
+- Đại diện công ty: chuẩn là 「xác nhận và liên lạc lại」.
 
 ### J3.9 (từ rule_13 — Lặp lại số / email / tên)
 
@@ -298,8 +298,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 区切って一桁ずつが聞き間違い防止に最も効果的。
-- 🇻🇳 Tách từng số là cách hiệu quả nhất tránh nghe nhầm.
+- 区切って一桁ずつが聞き間違い防止に最も効果的。
+- Tách từng số là cách hiệu quả nhất tránh nghe nhầm.
 
 ### J3.10 (từ rule_14 — 5W1H ghi chú bắt buộc)
 
@@ -315,8 +315,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 5W1Hは全て揃って初めて意味がある。
-- 🇻🇳 5W1H phải đủ mới có giá trị.
+- 5W1Hは全て揃って初めて意味がある。
+- 5W1H phải đủ mới có giá trị.
 
 ### J3.11 (từ rule_15 — Chuyển máy khi người nhận có mặt)
 
@@ -332,8 +332,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 「少々お待ちください」が最丁寧。
-- 🇻🇳 「少々お待ちください」 là lịch sự nhất.
+- 「少々お待ちください」が最丁寧。
+- 「少々お待ちください」 là lịch sự nhất.
 
 ### J3.12 (từ rule_16 — 4 pattern xử lý khi người nhận vắng)
 
@@ -349,8 +349,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 「あいにく」で詫び＋具体的な時刻提示が最良。Aは敬語不足、B/Dは突き放した印象。
-- 🇻🇳 「あいにく」 + thời gian cụ thể là chuẩn. A thiếu kính ngữ, B/D nghe lạnh và đẩy việc.
+- 「あいにく」で詫び＋具体的な時刻提示が最良。Aは敬語不足、B/Dは突き放した印象。
+- 「あいにく」 + thời gian cụ thể là chuẩn. A thiếu kính ngữ, B/D nghe lạnh và đẩy việc.
 
 ### J3.13 (từ rule_17 — Hold tối đa 1 phút)
 
@@ -366,8 +366,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 1分超過しそうなら必ず一度戻る。相手の時間を尊重するのが基本マナー。
-- 🇻🇳 Quá 1 phút phải quay lại line. Tôn trọng thời gian của đối phương là nguyên tắc cơ bản.
+- 1分超過しそうなら必ず一度戻る。相手の時間を尊重するのが基本マナー。
+- Quá 1 phút phải quay lại line. Tôn trọng thời gian của đối phương là nguyên tắc cơ bản.
 
 ### J3.14 (từ rule_19 — Xử lý wrong number lịch sự)
 
@@ -383,8 +383,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 婉曲表現と「お確かめの上」が丁寧。A/B/Dは突き放し感あり。
-- 🇻🇳 Cách nói vòng + 「お確かめの上」 thể hiện lịch sự. A/B/D nghe lạnh và xua đuổi.
+- 婉曲表現と「お確かめの上」が丁寧。A/B/Dは突き放し感あり。
+- Cách nói vòng + 「お確かめの上」 thể hiện lịch sự. A/B/D nghe lạnh và xua đuổi.
 
 ### J3.15 (từ rule_21 — Khi khách hỏi đường đến văn phòng)
 
@@ -400,8 +400,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 「適当に」は曖昧で道案内NG。具体的な目印・方向・距離が原則。
-- 🇻🇳 「適当に」 (đại khái) quá mơ hồ. Hướng dẫn phải cụ thể: mốc + hướng + khoảng cách.
+- 「適当に」は曖昧で道案内NG。具体的な目印・方向・距離が原則。
+- 「適当に」 (đại khái) quá mơ hồ. Hướng dẫn phải cụ thể: mốc + hướng + khoảng cách.
 
 ### J3.16 (từ rule_23 — Báo lại nội bộ sau cuộc gọi quan trọng)
 
@@ -417,8 +417,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 報告の核は『誰から何の用件で、次に何をすべきか』。
-- 🇻🇳 Cốt lõi báo cáo là 'ai gọi vì việc gì, bước tiếp theo là gì'.
+- 報告の核は『誰から何の用件で、次に何をすべきか』。
+- Cốt lõi báo cáo là 'ai gọi vì việc gì, bước tiếp theo là gì'.
 
 ### J3.17 (từ rule_24 — Checklist trước khi nhấn gọi)
 
@@ -434,10 +434,10 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 5項目は目的・時間帯・資料・メモ・環境。趣味は不要。
-- 🇻🇳 5 mục: mục đích/giờ/tài liệu/note/môi trường. Sở thích không cần.
+- 5項目は目的・時間帯・資料・メモ・環境。趣味は不要。
+- 5 mục: mục đích/giờ/tài liệu/note/môi trường. Sở thích không cần.
 
-### J3.18 (từ rule_26 — Format giới thiệu khi gọi đi)
+### J3.18 (từ rule_26 — Khuôn giới thiệu khi gọi đi)
 
 **Skill:** 表現読解
 
@@ -451,8 +451,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 発信側の自己紹介は謙譲語『と申します』。受電側は『でございます』。
-- 🇻🇳 Bên gọi đi tự xưng dùng khiêm nhường 「と申します」. Bên nhận máy dùng 「でございます」.
+- 発信側の自己紹介は謙譲語『と申します』。受電側は『でございます』。
+- Bên gọi đi tự xưng dùng khiêm nhường 「と申します」. Bên nhận máy dùng 「でございます」.
 
 ### J3.19 (từ rule_27 — Hỏi đối phương có rảnh trước khi vào việc)
 
@@ -468,8 +468,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 ビジネス電話の標準は『お時間よろしいでしょうか』。
-- 🇻🇳 Câu chuẩn business: 「お時間よろしいでしょうか」.
+- ビジネス電話の標準は『お時間よろしいでしょうか』。
+- Câu chuẩn business: 「お時間よろしいでしょうか」.
 
 ### J3.20 (từ rule_29 — Yêu cầu lặp lại điểm quan trọng)
 
@@ -485,8 +485,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 『念のため』『お願いできますでしょうか』が最も丁寧。
-- 🇻🇳 「念のため」 + 「お願いできますでしょうか」 là cách lịch sự nhất.
+- 『念のため』『お願いできますでしょうか』が最も丁寧。
+- 「念のため」 + 「お願いできますでしょうか」 là cách lịch sự nhất.
 
 ### J3.21 (từ rule_31 — Nhờ chuyển lời khi người nhận vắng)
 
@@ -502,8 +502,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 伝言依頼の3要素：所属・用件・折り返し連絡先。
-- 🇻🇳 3 yếu tố nhờ nhắn lời: đơn vị / việc / cách liên lạc lại.
+- 伝言依頼の3要素：所属・用件・折り返し連絡先。
+- 3 yếu tố nhờ nhắn lời: đơn vị / việc / cách liên lạc lại.
 
 ### J3.22 (từ rule_32 — Xin gọi lại — mẫu nhờ gọi lại)
 
@@ -519,8 +519,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 『お手すきの時』『幸いです』が相手の都合を尊重した表現。
-- 🇻🇳 「お手すきの時」「幸いです」 thể hiện tôn trọng thời gian đối phương.
+- 『お手すきの時』『幸いです』が相手の都合を尊重した表現。
+- 「お手すきの時」「幸いです」 thể hiện tôn trọng thời gian đối phương.
 
 ### J3.23 (từ rule_33 — Cuộc gọi quốc tế — múi giờ + chậm hơn)
 
@@ -536,8 +536,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 時差の共有が国際電話の冒頭マナー。相手が文脈を把握しやすい。
-- 🇻🇳 Chia sẻ múi giờ là phép lịch sự đầu cuộc gọi quốc tế.
+- 時差の共有が国際電話の冒頭マナー。相手が文脈を把握しやすい。
+- Chia sẻ múi giờ là phép lịch sự đầu cuộc gọi quốc tế.
 
 ### J3.24 (từ rule_35 — Review summary trước khi cúp máy)
 
@@ -553,8 +553,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 サマリーは『合意・担当・期限』の3点。感想は不要。
-- 🇻🇳 Tóm tắt 3 điểm: thống nhất / người làm / hạn. Cảm tưởng cá nhân không cần.
+- サマリーは『合意・担当・期限』の3点。感想は不要。
+- Tóm tắt 3 điểm: thống nhất / người làm / hạn. Cảm tưởng cá nhân không cần.
 
 ### J3.25 (từ rule_38 — Khi nghe không rõ — câu chuẩn)
 
@@ -570,8 +570,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 『お電話が遠い』が婉曲で相手を責めない表現。
-- 🇻🇳 「お電話が遠い」 là cách nói vòng không trách đối phương.
+- 『お電話が遠い』が婉曲で相手を責めない表現。
+- 「お電話が遠い」 là cách nói vòng không trách đối phương.
 
 ### J3.26 (từ rule_39 — 5 patterns hỏi lại từ không hiểu)
 
@@ -587,10 +587,10 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 丁寧形で漢字を確認するのが標準。
-- 🇻🇳 Cách lịch sự để xác nhận kanji.
+- 丁寧形で漢字を確認するのが標準。
+- Cách lịch sự để xác nhận kanji.
 
-### J3.27 (từ rule_42 — Cách từ chối qua phone không gây xước)
+### J3.27 (từ rule_42 — Cách từ chối qua điện thoại không gây xước)
 
 **Skill:** 表現読解
 
@@ -604,10 +604,10 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 『あいにく』『難しい状況』が最も婉曲で丁寧。
-- 🇻🇳 「あいにく」 + 「難しい状況」 là cách vòng và lịch sự nhất.
+- 『あいにく』『難しい状況』が最も婉曲で丁寧。
+- 「あいにく」 + 「難しい状況」 là cách vòng và lịch sự nhất.
 
-### J3.28 (từ rule_43 — Báo dời / đổi lịch qua phone)
+### J3.28 (từ rule_43 — Báo dời / đổi lịch qua điện thoại)
 
 **Skill:** 場面把握
 
@@ -621,8 +621,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 代替案は複数提示が望ましい。1つだけだと選択肢を奪う。
-- 🇻🇳 Nên đề xuất nhiều phương án. 1 phương án = ép đối phương.
+- 代替案は複数提示が望ましい。1つだけだと選択肢を奪う。
+- Nên đề xuất nhiều phương án. 1 phương án = ép đối phương.
 
 ### J3.29 (từ rule_46 — Gọi cảm ơn)
 
@@ -638,8 +638,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 お礼電話では新規依頼を混ぜると感謝の意味が薄れる。
-- 🇻🇳 Xen việc mới làm loãng ý nghĩa cuộc gọi cảm ơn.
+- お礼電話では新規依頼を混ぜると感謝の意味が薄れる。
+- Xen việc mới làm loãng ý nghĩa cuộc gọi cảm ơn.
 
 ### J3.30 (từ rule_48 — Gọi để thông báo / công văn miệng)
 
@@ -655,10 +655,10 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 重要な公式通知は電話＋メールの二段構えが信頼性高い。
-- 🇻🇳 Thông báo chính thức quan trọng — phone + mail 2 lớp mới đáng tin.
+- 重要な公式通知は電話＋メールの二段構えが信頼性高い。
+- Thông báo chính thức quan trọng — gọi điện + mail 2 lớp mới đáng tin.
 
-### J3.31 (từ rule_49 — Voicemail 30 giây format)
+### J3.31 (từ rule_49 — Khuôn hộp thư thoại 30 giây)
 
 **Skill:** 場面把握
 
@@ -672,10 +672,10 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 留守電は30秒・4要素（名乗り・要件・番号・挨拶）。世間話は不要。
-- 🇻🇳 Voicemail 30 giây 4 yếu tố. Chuyện phiếm không cần.
+- 留守電は30秒・4要素（名乗り・要件・番号・挨拶）。世間話は不要。
+- Hộp thư thoại 30 giây 4 yếu tố. Chuyện phiếm không cần.
 
-### J3.32 (từ rule_50 — Sau khi nghe voicemail — gọi lại trong 24h)
+### J3.32 (từ rule_50 — Sau khi nghe hộp thư thoại — gọi lại trong 24h)
 
 **Skill:** 表現読解
 
@@ -689,10 +689,10 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 留守電には『確認いたしました』『承りました』が標準。『拝聴』は講演など重みのある内容向けで過剰。
-- 🇻🇳 Voicemail dùng 「確認いたしました / 承りました」 là chuẩn. 「拝聴」 dành cho nội dung trang trọng (bài giảng, diễn văn) — quá nặng.
+- 留守電には『確認いたしました』『承りました』が標準。『拝聴』は講演など重みのある内容向けで過剰。
+- Hộp thư thoại dùng 「確認いたしました / 承りました」 là chuẩn. 「拝聴」 dành cho nội dung trang trọng (bài giảng, diễn văn) — quá nặng.
 
-### J3.33 (từ rule_51 — Phone xong gửi tóm tắt qua mail)
+### J3.33 (từ rule_51 — Gọi xong gửi tóm tắt qua mail)
 
 **Skill:** 場面把握
 
@@ -706,10 +706,10 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 口頭合意を1時間以内に文書化することで認識違いを防ぐ。
-- 🇻🇳 Văn bản hóa thỏa thuận miệng trong 1h tránh hiểu nhầm.
+- 口頭合意を1時間以内に文書化することで認識違いを防ぐ。
+- Văn bản hóa thỏa thuận miệng trong 1h tránh hiểu nhầm.
 
-### J3.34 (từ rule_52 — Conference call / Zoom / Teams etiquette)
+### J3.34 (từ rule_52 — Nghi thức họp trực tuyến qua Zoom / Teams)
 
 **Skill:** 場面把握
 
@@ -723,10 +723,10 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 視覚情報なしのため、音声確認と名乗りで参加者を識別する。
-- 🇻🇳 Không có hình nên cần confirm âm thanh + tự xưng để xác định ai.
+- 視覚情報なしのため、音声確認と名乗りで参加者を識別する。
+- Không có hình nên cần confirm âm thanh + tự xưng để xác định ai.
 
-### J3.35 (từ rule_53 — Tone giọng khi share màn hình)
+### J3.35 (từ rule_53 — Giọng điệu khi chia sẻ màn hình)
 
 **Skill:** 場面把握
 
@@ -740,10 +740,10 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 視覚情報を言葉で補い、話速を下げて理解を促す。
-- 🇻🇳 Bổ sung thông tin hình bằng lời, nói chậm để dễ hiểu.
+- 視覚情報を言葉で補い、話速を下げて理解を促す。
+- Bổ sung thông tin hình bằng lời, nói chậm để dễ hiểu.
 
-### J3.36 (từ rule_55 — Họp online quốc tế)
+### J3.36 (từ rule_55 — Họp trực tuyến quốc tế)
 
 **Skill:** 場面把握
 
@@ -757,10 +757,10 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 時差・言語の共有が国際会議の出発点。
-- 🇻🇳 Múi giờ + ngôn ngữ là điểm xuất phát của họp quốc tế.
+- 時差・言語の共有が国際会議の出発点。
+- Múi giờ + ngôn ngữ là điểm xuất phát của họp quốc tế.
 
-### J3.37 (từ rule_57 — Giành lượt phát biểu trong họp online — interrupt khéo)
+### J3.37 (từ rule_57 — Giành lượt phát biểu trong họp trực tuyến — xen lời khéo léo)
 
 **Skill:** 場面把握
 
@@ -774,8 +774,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 前話者を尊重し許可取得型で発言する。
-- 🇻🇳 Tôn trọng người trước, xin phép trước khi nói.
+- 前話者を尊重し許可取得型で発言する。
+- Tôn trọng người trước, xin phép trước khi nói.
 
 ### J3.38 (từ rule_59 — Quản lý lịch sử cuộc gọi & ghi chú)
 
@@ -791,8 +791,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 5要素でCRM管理が組織として最良。
-- 🇻🇳 Quản lý 5 yếu tố trên CRM là tốt nhất cho tổ chức.
+- 5要素でCRM管理が組織として最良。
+- Quản lý 5 yếu tố trên CRM là tốt nhất cho tổ chức.
 
 ### J3.39 (từ rule_60 — Tự chấm điểm — bảng kiểm kỹ năng điện thoại)
 
@@ -808,8 +808,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 電話力は実践と振り返りの繰り返しで身につく。
-- 🇻🇳 Phone skill hình thành qua thực hành + tự kiểm liên tục.
+- 電話力は実践と振り返りの繰り返しで身につく。
+- Kỹ năng điện thoại hình thành qua thực hành + tự kiểm liên tục.
 
 
 ## Level J2 (13 câu)
@@ -828,8 +828,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 「話しにくい」と言うと相手も身構える。冷静に結論先行で。
-- 🇻🇳 「話しにくい」làm khách cũng căng. Phải bình tĩnh, kết luận trước.
+- 「話しにくい」と言うと相手も身構える。冷静に結論先行で。
+- 「話しにくい」làm khách cũng căng. Phải bình tĩnh, kết luận trước.
 
 ### J2.2 (từ rule_18 — 5 yếu tố bắt buộc khi ghi lời nhắn)
 
@@ -845,10 +845,10 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 伝言の5要素は誰・会社・番号・用件・時刻。年齢は不要。
-- 🇻🇳 5 yếu tố bắt buộc là tên/cty/số/nội dung/giờ. Tuổi không cần thiết.
+- 伝言の5要素は誰・会社・番号・用件・時刻。年齢は不要。
+- 5 yếu tố bắt buộc là tên/cty/số/nội dung/giờ. Tuổi không cần thiết.
 
-### J2.3 (từ rule_20 — Bước đầu xử lý phàn nàn qua phone)
+### J2.3 (từ rule_20 — Bước đầu xử lý phàn nàn qua điện thoại)
 
 **Skill:** 場面把握
 
@@ -862,10 +862,10 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 クレーム対応の鉄則は『傾聴 → 感情謝罪 → 事実確認 → 解決』。最初に説明すると言い訳に聞こえる。
-- 🇻🇳 Nguyên tắc: nghe → xin lỗi cảm xúc → xác minh → giải pháp. Giải thích trước nghe như biện minh.
+- クレーム対応の鉄則は『傾聴 → 感情謝罪 → 事実確認 → 解決』。最初に説明すると言い訳に聞こえる。
+- Nguyên tắc: nghe → xin lỗi cảm xúc → xác minh → giải pháp. Giải thích trước nghe như biện minh.
 
-### J2.4 (từ rule_28 — Pitch 30 giây — truyền đạt mục đích gọn)
+### J2.4 (từ rule_28 — Trình bày mục đích 30 giây — gọn súc tích)
 
 **Skill:** 場面把握
 
@@ -879,10 +879,10 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- 🇯🇵 30秒ピッチは『目的・依頼・期限』。雑談は不要。
-- 🇻🇳 Pitch 30 giây chỉ gồm 'mục đích / yêu cầu / hạn'. Chuyện phiếm không cần.
+- 30秒ピッチは『目的・依頼・期限』。雑談は不要。
+- Trình bày 30 giây chỉ gồm 'mục đích / yêu cầu / hạn'. Chuyện phiếm không cần.
 
-### J2.5 (từ rule_30 — Đề xuất chuyển kênh khi phone không đủ)
+### J2.5 (từ rule_30 — Đề xuất chuyển kênh khi điện thoại không đủ)
 
 **Skill:** 場面把握
 
@@ -896,8 +896,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 複雑な内容はチャネル切替が最良。Aは伝達ミス、C/Dは無責任。
-- 🇻🇳 Nội dung phức tạp nên đổi kênh. A dễ sai, C/D vô trách nhiệm.
+- 複雑な内容はチャネル切替が最良。Aは伝達ミス、C/Dは無責任。
+- Nội dung phức tạp nên đổi kênh. A dễ sai, C/D vô trách nhiệm.
 
 ### J2.6 (từ rule_34 — Cách nói trong cuộc gọi khẩn)
 
@@ -913,8 +913,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 緊急電話は冒頭で『至急』を明示し用件直行が原則。
-- 🇻🇳 Cuộc gọi khẩn phải nói 「至急」 ngay đầu rồi vào thẳng việc.
+- 緊急電話は冒頭で『至急』を明示し用件直行が原則。
+- Cuộc gọi khẩn phải nói 「至急」 ngay đầu rồi vào thẳng việc.
 
 ### J2.7 (từ rule_40 — Khách đang giận — nghe trước, giải pháp sau)
 
@@ -930,8 +930,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 怒り客対応は『傾聴→共感→解決』の順。最初は遮らず聞く。
-- 🇻🇳 Trình tự: nghe → đồng cảm → giải pháp. Đầu tiên không cắt lời.
+- 怒り客対応は『傾聴→共感→解決』の順。最初は遮らず聞く。
+- Trình tự: nghe → đồng cảm → giải pháp. Đầu tiên không cắt lời.
 
 ### J2.8 (từ rule_41 — Bộ xử lý phàn nàn đầy đủ — 5 bước)
 
@@ -947,10 +947,10 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 5ステップは『傾聴・謝罪・確認・解決・再発防止』。値引きは含まれない（個別判断）。
-- 🇻🇳 5 bước: nghe / xin lỗi / xác minh / giải pháp / cam kết. Giảm giá không thuộc bước (tùy ca).
+- 5ステップは『傾聴・謝罪・確認・解決・再発防止』。値引きは含まれない（個別判断）。
+- 5 bước: nghe / xin lỗi / xác minh / giải pháp / cam kết. Giảm giá không thuộc bước (tùy ca).
 
-### J2.9 (từ rule_44 — Báo tin xấu qua phone)
+### J2.9 (từ rule_44 — Báo tin xấu qua điện thoại)
 
 **Skill:** 場面把握
 
@@ -964,8 +964,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 『残念なお知らせ』が予告として丁寧で、相手に心構えさせる。
-- 🇻🇳 「残念なお知らせ」 là cách mở đầu lịch sự, giúp đối phương chuẩn bị.
+- 『残念なお知らせ』が予告として丁寧で、相手に心構えさせる。
+- 「残念なお知らせ」 là cách mở đầu lịch sự, giúp đối phương chuẩn bị.
 
 ### J2.10 (từ rule_45 — Gọi xin lỗi — 4 bước)
 
@@ -981,8 +981,8 @@
 **Đáp án:** C
 
 **Giải thích / 解説:**
-- 🇯🇵 『仕方ありませんでした』は責任回避表現。謝罪では使わない。
-- 🇻🇳 「仕方ありませんでした」 là cách đẩy lỗi cho hoàn cảnh — không dùng trong xin lỗi.
+- 『仕方ありませんでした』は責任回避表現。謝罪では使わない。
+- 「仕方ありませんでした」 là cách đẩy lỗi cho hoàn cảnh — không dùng trong xin lỗi.
 
 ### J2.11 (từ rule_47 — Gọi đòi nợ / nhắc thanh toán)
 
@@ -998,10 +998,10 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 『行き違い』で相手のミスではない可能性を含ませた表現が最も丁寧。
-- 🇻🇳 「行き違い」 ngầm nói 'có thể không phải lỗi của anh' — cách lịch sự nhất.
+- 『行き違い』で相手のミスではない可能性を含ませた表現が最も丁寧。
+- 「行き違い」 ngầm nói 'có thể không phải lỗi của anh' — cách lịch sự nhất.
 
-### J2.12 (từ rule_56 — Xin phép ghi âm / transcribe)
+### J2.12 (từ rule_56 — Xin phép ghi âm / chuyển giọng thành văn bản)
 
 **Skill:** 場面把握
 
@@ -1015,10 +1015,10 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 録音もAI文字起こしも事前許可が必須。日本のプライバシー意識は高い。
-- 🇻🇳 Cả ghi âm lẫn AI transcribe đều cần xin trước. Nhật rất nghiêm về privacy.
+- 録音もAI文字起こしも事前許可が必須。日本のプライバシー意識は高い。
+- Cả ghi âm lẫn AI chuyển giọng thành văn bản đều cần xin trước. Nhật rất nghiêm về quyền riêng tư.
 
-### J2.13 (từ rule_58 — Hybrid meeting — vừa offline vừa online)
+### J2.13 (từ rule_58 — Họp kết hợp — vừa trực tiếp vừa trực tuyến)
 
 **Skill:** 場面把握
 
@@ -1032,12 +1032,8 @@
 **Đáp án:** B
 
 **Giải thích / 解説:**
-- 🇯🇵 ハイブリッド最大の課題はオンライン参加者の疎外感回避。
-- 🇻🇳 Thách thức lớn nhất của hybrid là không để người online cảm thấy bị bỏ rơi.
+- ハイブリッド最大の課題はオンライン参加者の疎外感回避。
+- Thách thức lớn nhất của họp kết hợp là không để người trực tuyến cảm thấy bị bỏ rơi.
 
 
 **Tổng số câu hỏi:** 60
-
----
-
-*Tài liệu này có thể export thành quiz interactive — đọc data trực tiếp từ `bjt_practice` array trong mỗi `conversation.json`.*

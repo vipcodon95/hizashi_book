@@ -1,35 +1,35 @@
-# Rule 57 — Giành lượt phát biểu trong họp online — interrupt khéo / 電話会議で発言を取る
+# Rule 57 — Giành lượt phát biểu trong họp trực tuyến — chen lời khéo léo / 電話会議で発言を取る
 
-> **Luận điểm.** Khi muốn xen lời trong họp online → **đợi câu kết của người trước**, dùng câu chuẩn 「恐れ入ります」 + tự xưng. Tránh cắt lời.
+> **Luận điểm.** Khi muốn xen lời trong họp trực tuyến → **đợi câu kết của người trước**, dùng câu chuẩn 「恐れ入ります」 + tự xưng. Tránh cắt lời.
 >
 > 電話会議で発言を取る時：①前話者の文末を待つ ②『恐れ入ります』+名乗り ③発言開始。
 >
 > **Liên quan:** Rule 52, Rule 54.
 
-## ✅ Hội thoại
+## Hội thoại
 
-*unmute, wait pause*
+*bật mic, chờ ngắt*
 
 | Vai | Câu |
 |---------|-----|
-| **松本PM** | 「…ということで、現状のロードマップは順調と言えるでしょう。」 |
-| **ズン** | 「恐れ入ります、ティエンファットのズンです。発言よろしいでしょうか？」 |
-| **松本PM** | 「はい、ズンさんどうぞ。」 |
-| **ズン** | 「ロードマップの第3四半期の項目について、追加でご相談したい点がございます。」 |
+| **松本PM** | 「…ということで、<ruby>現状<rt>げんじょう</rt></ruby>のロードマップは<ruby>順調<rt>じゅんちょう</rt></ruby>と<ruby>言<rt>い</rt></ruby>えるでしょう。」 <br/>*Như vậy, có thể nói roadmap hiện tại đang tiến triển tốt.* |
+| **ズン** | 「<ruby>恐<rt>おそ</rt></ruby>れ<ruby>入<rt>い</rt></ruby>ります、ティエンファットのズンです。<ruby>発言<rt>はつげん</rt></ruby>よろしいでしょうか？」 <br/>*Em xin lỗi, em Dũng bên Thiên Phát ạ. Em xin phát biểu được không ạ?* |
+| **松本PM** | 「はい、ズンさんどうぞ。」 <br/>*Vâng, Dũng phát biểu đi.* |
+| **ズン** | 「ロードマップの<ruby>第3四半期<rt>だいさんしはんき</rt></ruby>の<ruby>項目<rt>こうもく</rt></ruby>について、<ruby>追加<rt>ついか</rt></ruby>でご<ruby>相談<rt>そうだん</rt></ruby>したい<ruby>点<rt>てん</rt></ruby>がございます。」 <br/>*Về mục quý 3 trong roadmap, em có 1 điểm muốn trao đổi thêm ạ.* |
 
-## 🎯 Câu chốt
+## Câu chốt
 
-> **「恐れ入ります、〇〇のズンです。発言よろしいでしょうか？」**
+> **「<ruby>恐<rt>おそ</rt></ruby>れ<ruby>入<rt>い</rt></ruby>ります、〇〇のズンです。<ruby>発言<rt>はつげん</rt></ruby>よろしいでしょうか？」**
 
-## ⚠ Tips
+## Mẹo
 
 - Nếu nhiều người cùng nói → "お先にどうぞ" để nhường, sau mới phát biểu.
 - Tránh "あの〜" rồi nói luôn → sẽ chồng tiếng người khác.
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 発言を取る | はつげんをとる | Lấy lượt phát biểu |
-| 恐れ入ります | おそれいります | Phiền anh/chị, xin lỗi |
-| お先に | おさきに | Trước (mời người khác đi trước) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 発言を取る | はつげんをとる | PHÁT NGÔN — | Lấy lượt phát biểu |
+| 恐れ入ります | おそれいります | — | Phiền anh/chị, xin lỗi |
+| お先に | おさきに | — | Trước (mời người khác đi trước) |

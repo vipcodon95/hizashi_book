@@ -1,47 +1,47 @@
-# Rule 09 — Setup bàn trước cuộc gọi quan trọng / 重要電話前のデスク準備
+# Rule 09 — Sắp xếp bàn trước cuộc gọi quan trọng / 重要電話前のデスク準備
 
-> **Luận điểm.** Trước cuộc gọi quan trọng (5+ phút, có quyết định), sắp xếp bàn 30 giây: **bút + giấy + lịch + tài liệu liên quan + cốc nước**.
+> **Luận điểm.** Trước cuộc gọi quan trọng (5+ phút, có quyết định), sắp xếp bàn trong 30 giây: **bút + giấy + lịch + tài liệu liên quan + cốc nước**.
 >
 > 重要通話の前に30秒のデスク準備：ペン+メモ+カレンダー+資料+水。
 >
 > **Liên quan:** Rule 04, Rule 24.
 
-## Checklist 30 giây / 30秒チェックリスト
+## Danh sách kiểm tra 30 giây / 30秒チェックリスト
 
 ```
-□ ペンとメモパッド (within reach)
-□ カレンダー / Google Calendar 開いている
-□ 関連資料 (前回メール、契約書) 開いている  
-□ コップに水 (口が渇く時用)
-□ スマホ通知 OFF (集中)
-□ ヘッドセット (オフィスうるさい場合)
+□ ペンとメモパッド (trong tầm với)
+□ カレンダー / lịch điện tử đang mở
+□ 関連資料 (email lần trước, hợp đồng) đang mở
+□ コップに水 (khi miệng khô)
+□ スマホ通知 OFF (để tập trung)
+□ ヘッドセット (khi văn phòng ồn)
 ```
 
 ---
 
-## ✅ Hội thoại — Setup tốt = phản ứng nhanh
+## Hội thoại — Sắp xếp tốt = phản ứng nhanh
 
 *đã mở sẵn email*
 
 | Vai | Câu |
 |---------|-----|
-| **松本PM** | 「先週送った見積書の3ページ目について質問なのですが...」 |
-| **ズン** | 「はい、3ページ目を開いております。どの項目でしょうか。」 |
+| **松本PM** | 「先週<ruby>送<rt>おく</rt></ruby>った<ruby>見積書<rt>みつもりしょ</rt></ruby>の3ページ<ruby>目<rt>め</rt></ruby>について<ruby>質問<rt>しつもん</rt></ruby>なのですが...」 <br/>*Em có câu hỏi về trang 3 của bảng báo giá tuần trước...* |
+| **ズン** | 「はい、3ページ<ruby>目<rt>め</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いております。どの<ruby>項目<rt>こうもく</rt></ruby>でしょうか。」 <br/>*Vâng, em đã mở trang 3. Hạng mục nào ạ?* |
 
 → Vì đã mở sẵn → trả lời ngay, không phải "ちょっとお待ちください、メールを開きます".
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
-> **「重要電話の30秒前にデスクを整える」**
+> **「<ruby>重要電話<rt>じゅうようでんわ</rt></ruby>の30<ruby>秒前<rt>びょうまえ</rt></ruby>にデスクを<ruby>整<rt>ととの</rt></ruby>える」**
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 整える | ととのえる | Sắp xếp |
-| ヘッドセット | heddosetto | Headset |
-| 通知 | つうち | Thông báo |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|----------|-------|
+| 整える | ととのえる | CHỈNH | Sắp xếp |
+| ヘッドセット | ヘッドセット | — | Tai nghe có micro |
+| 通知 | つうち | THÔNG TRI | Thông báo |

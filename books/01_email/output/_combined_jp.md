@@ -34,8 +34,6 @@ lang: ja
 
 © 2026 Hizashi Teams. All rights reserved. Hizashi Teamsの文書による許可なく、本書の内容を複製、配布、商業利用することを禁じます。
 
-*（版・発行日・お問い合わせは巻末に記載。）*
-
 ---
 
 ## 謝辞・着想元

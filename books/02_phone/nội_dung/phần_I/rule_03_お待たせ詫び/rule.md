@@ -7,88 +7,89 @@
 >
 > **Từ khóa / キーワード:** **`待たせ詫び4段階`**
 >
-> **Liên quan / 関連:** Rule 02 (3 hồi chuông), Rule 17 (hold tối đa 1 phút).
+> **Liên quan / 関連:** Rule 02 (3 hồi chuông), Rule 17 (giữ máy tối đa 1 phút).
 
 ## Bối cảnh / 場面
 
-Anh Matsumoto gọi nhiều lần, có khi line bận, có khi em Dũng để hold lâu. Cần chọn mức xin lỗi phù hợp.
+Anh Matsumoto gọi nhiều lần, có khi đường dây bận, có khi em Dũng để khách chờ máy lâu. Cần chọn mức xin lỗi phù hợp.
 
 ---
 
 ## 4 cấp độ xin lỗi / 4段階
 
-| Thời gian khách đợi | Câu nói | Tone |
+| Thời gian khách đợi | Câu nói | Sắc thái |
 |--------------------|---------|------|
-| **3-5 hồi chuông** | お待たせいたしました | apologetic nhẹ |
-| **5+ hồi chuông / hold 30s** | 大変お待たせいたしました | apologetic |
-| **Hold 1 phút+** | 大変お待たせし、申し訳ございません | apologetic mạnh |
-| **Có thể đã không bốc đúng lúc** | 大変お待たせし、誠に申し訳ございません | apologetic + chính thức |
+| **3-5 hồi chuông** | お待たせいたしました | áy náy nhẹ |
+| **5+ hồi chuông / chờ máy 30 giây** | 大変お待たせいたしました | áy náy |
+| **Chờ máy 1 phút+** | 大変お待たせし、申し訳ございません | áy náy mạnh |
+| **Có thể đã không bốc đúng lúc** | 大変お待たせし、誠に申し訳ございません | áy náy + chính thức |
 
 ---
 
-## ❌ Hội thoại XẤU — 悪い例
+## Hội thoại XẤU — 悪い例
 
-> 📞 *(em Dũng bốc máy sau khi để khách hold 2 phút)*
+>  *(em Dũng bốc máy sau khi để khách chờ máy 2 phút)*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「お待たせしました、ズンです。」 |
+| **ズン** | 「お<ruby>待<rt>ま</rt></ruby>たせしました、ズンです。」 <br/>*Xin lỗi vì để đợi, tôi là Dũng.* |
 
-**Vì sao xấu:** Hold 2 phút = mức 3-4. Câu「お待たせしました」chỉ phù hợp với mức 1 (3-5 hồi). Hơn nữa thiếu「お」 = thiếu kính ngữ.
+**Vì sao xấu:** Chờ máy 2 phút = mức 3-4. Câu「お待たせしました」chỉ phù hợp với mức 1 (3-5 hồi). Hơn nữa thiếu「お」 = thiếu kính ngữ.
 
 ---
 
-## ✅ Hội thoại TỐT — 良い例
+## Hội thoại TỐT — 良い例
 
-> 📞 *(sau hold 2 phút)*
+>  *(sau khi để khách chờ máy 2 phút)*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「大変お待たせし、申し訳ございません【1】。ティエンファット社のズンでございます。」 |
-| **松本PM** | 「いえ、こちらこそ。」 |
+| **ズン** | 「<ruby>大変<rt>たいへん</rt></ruby>お<ruby>待<rt>ま</rt></ruby>たせし、<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません【1】。ティエンファット<ruby>社<rt>しゃ</rt></ruby>のズンでございます。」 <br/>*Vô cùng xin lỗi vì đã để anh đợi. Tôi là Dũng bên Cty Thiên Phát ạ.* |
+| **松本PM** | 「いえ、こちらこそ。」 <br/>*Không, ngược lại em.* |
 
-📝 **Ghi chú:**
-- 【1】Hold lâu thì cần「申し訳ございません」 ngoài「お待たせ」. Đây là 2 câu khác biệt — 「お待たせ」 ghi nhận hành động, 「申し訳ございません」 thể hiện hối tiếc.
+ **Ghi chú:**
+- 【1】Để khách chờ lâu thì cần「申し訳ございません」 ngoài「お待たせ」. Đây là 2 câu khác biệt — 「お待たせ」 ghi nhận hành động, 「申し訳ございません」 thể hiện hối tiếc.
 
 ---
 
-## 🔄 Biến thể — Khi line bận liên tục
+## Biến thể — Khi line bận liên tục
 
 > Khách phải gọi 3 lần mới thông
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「大変お待たせし、誠に申し訳ございません。何度もお電話いただきありがとうございます。」 |
+| **ズン** | 「大変お待たせし、<ruby>誠<rt>まこと</rt></ruby>に申し訳ございません。<ruby>何度<rt>なんど</rt></ruby>もお<ruby>電話<rt>でんわ</rt></ruby>いただきありがとうございます。」 <br/>*Vô cùng xin lỗi vì đã để anh đợi. Cảm ơn anh đã gọi nhiều lần ạ.* |
 
 → Thêm「何度もお電話いただきありがとうございます」 ghi nhận khách phải gọi nhiều lần.
 
 ---
 
-## 🎯 Câu chốt
+## Câu chốt
 
 > **「大変お待たせし、申し訳ございません。」**
 
-*Câu "all-purpose" cho mọi tình huống hold lâu. An toàn không sai.*
+*Câu vạn năng cho mọi tình huống để khách chờ máy lâu. An toàn không sai.*
 
 ---
 
-## 📝 BJT Practice (J3 — 表現読解)
+## BJT Practice (J3 — 表現読解)
 
 お客様を1分以上保留にした後の第一声として最も適切なのは？
+
 - A) お待たせしました
 - B) すみません、お待たせしました
-- C) **大変お待たせし、申し訳ございません** ✓
+- C) **大変お待たせし、申し訳ございません**
 - D) ごめんなさい、長く待たせて
 
-**Giải thích:** A nhẹ. B casual. D rất casual (gia đình). C là chuẩn business cho 1 phút+.
+**Giải thích:** A nhẹ. B suồng sã. D rất suồng sã (kiểu gia đình). C là chuẩn công sở cho 1 phút+.
 
 ---
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 申し訳ございません | もうしわけございません | Vô cùng xin lỗi (kính ngữ) |
-| 大変 | たいへん | Rất, hết sức |
-| 誠に | まことに (makoto ni) | Thật sự, chân thành |
-| 保留 | ほりゅう (horyū) | Hold, giữ máy |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|----------|-------|
+| 申し訳ございません | もうしわけございません | THÂN DỊCH | Vô cùng xin lỗi (kính ngữ) |
+| 大変 | たいへん | ĐẠI BIẾN | Rất, hết sức |
+| 誠に | まことに | THÀNH | Thật sự, chân thành |
+| 保留 | ほりゅう | BẢO LƯU | Giữ máy/chờ máy |

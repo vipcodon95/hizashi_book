@@ -6,25 +6,25 @@
 >
 > **Liên quan:** Rule 34, Rule 45.
 
-## ✅ Hội thoại
+## Hội thoại
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「お忙しいところ恐れ入ります。残念なお知らせがございまして、お電話いたしました。」 |
-| **ズン** | 「先ほどの本番リリースで、決済モジュールに障害が発生しております。」 |
-| **ズン** | 「現在ユーザーがお支払いできない状況で、影響範囲は約500件と推定されます。」 |
-| **ズン** | 「対応として、すでにロールバックを実行中で、30分以内に復旧の見込みでございます。」 |
-| **松本PM** | 「分かりました。復旧後に詳細レポートをください。」 |
+| **ズン** | 「お忙しいところ<ruby>恐<rt>おそ</rt></ruby>れ<ruby>入<rt>い</rt></ruby>ります。<ruby>残念<rt>ざんねん</rt></ruby>なお<ruby>知<rt>し</rt></ruby>らせがございまして、お<ruby>電話<rt>でんわ</rt></ruby>いたしました。」 <br/>*Em xin lỗi làm phiền lúc anh đang bận ạ. Em có tin không hay cần báo nên xin phép gọi anh ạ.* |
+| **ズン** | 「<ruby>先<rt>さき</rt></ruby>ほどの<ruby>本番<rt>ほんばん</rt></ruby>リリースで、<ruby>決済<rt>けっさい</rt></ruby>モジュールに<ruby>障害<rt>しょうがい</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>しております。」 <br/>*Lần triển khai thực tế vừa rồi, phân hệ thanh toán đang phát sinh sự cố ạ.* |
+| **ズン** | 「<ruby>現在<rt>げんざい</rt></ruby>ユーザーがお<ruby>支払<rt>しはら</rt></ruby>いできない<ruby>状況<rt>じょうきょう</rt></ruby>で、<ruby>影響範囲<rt>えいきょうはんい</rt></ruby>は<ruby>約<rt>やく</rt></ruby>500<ruby>件<rt>けん</rt></ruby>と<ruby>推定<rt>すいてい</rt></ruby>されます。」 <br/>*Hiện tại người dùng không thanh toán được, em ước tính khoảng 500 giao dịch bị ảnh hưởng ạ.* |
+| **ズン** | 「<ruby>対応<rt>たいおう</rt></ruby>として、すでにロールバックを<ruby>実行中<rt>じっこうちゅう</rt></ruby>で、30<ruby>分<rt>ぷん</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>復旧<rt>ふっきゅう</rt></ruby>の<ruby>見込<rt>みこ</rt></ruby>みでございます。」 <br/>*Bên em đang tiến hành khôi phục phiên bản cũ, dự kiến khôi phục trong 30 phút ạ.* |
+| **松本PM** | 「<ruby>分<rt>わ</rt></ruby>かりました。<ruby>復旧後<rt>ふっきゅうご</rt></ruby>に<ruby>詳細<rt>しょうさい</rt></ruby>レポートをください。」 <br/>*Tôi hiểu rồi. Sau khi khôi phục em gửi báo cáo chi tiết nhé.* |
 
-## 🎯 Câu chốt
+## Câu chốt
 
-> **「残念なお知らせがございまして、お電話いたしました。」**
+> **「<ruby>残念<rt>ざんねん</rt></ruby>なお<ruby>知<rt>し</rt></ruby>らせがございまして、お<ruby>電話<rt>でんわ</rt></ruby>いたしました。」**
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 障害 | しょうがい | Sự cố |
-| 影響範囲 | えいきょうはんい | Phạm vi ảnh hưởng |
-| 復旧 | ふっきゅう | Khôi phục |
-| 推定 | すいてい | Ước tính |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|-----|---------|---------|-------|
+| 障害 | しょうがい | CHƯỚNG NGẠI | Sự cố |
+| 影響範囲 | えいきょうはんい | ẢNH HƯỞNG PHẠM VI | Phạm vi ảnh hưởng |
+| 復旧 | ふっきゅう | PHỤC CỰU | Khôi phục |
+| 推定 | すいてい | SUY ĐỊNH | Ước tính |

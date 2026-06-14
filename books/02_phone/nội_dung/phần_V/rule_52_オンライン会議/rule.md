@@ -1,36 +1,36 @@
-# Rule 52 — Conference call / Zoom / Teams — phone version / オンライン会議の電話作法
+# Rule 52 — Họp trực tuyến qua Zoom / Teams / オンライン会議の電話作法
 
-> **Luận điểm.** Online meeting có giọng nhưng không có hình → vẫn áp dụng phone etiquette + thêm: **(1) tự giới thiệu rõ ràng** mỗi lần phát biểu, **(2) nói chậm hơn**, **(3) confirm "聞こえますか" đầu cuộc.
+> **Luận điểm.** Họp trực tuyến có giọng nhưng không có hình → vẫn áp dụng nghi thức gọi điện + thêm: **(1) tự giới thiệu rõ ràng** mỗi lần phát biểu, **(2) nói chậm hơn**, **(3) xác nhận "聞こえますか" đầu cuộc.
 >
 > オンライン会議：発言時に毎回名乗り＋話速を下げる＋冒頭で音声確認。
 >
 > **Liên quan:** Rule 53, Rule 54, Rule 55.
 
-## ✅ Hội thoại
+## Hội thoại
 
 *発表後*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「ティエンファットのズンです。皆様、音声は聞こえておりますでしょうか？」 |
-| **松本PM** | 「はい、こちらは聞こえております。」 |
-| **ズン** | 「ありがとうございます。それでは、ズンより4月度の進捗についてご報告いたします。」 |
-| **ズン** | 「ズンからは以上です。質問ございますでしょうか？」 |
+| **ズン** | 「ティエンファットのズンです。<ruby>皆様<rt>みなさま</rt></ruby>、<ruby>音声<rt>おんせい</rt></ruby>は<ruby>聞<rt>き</rt></ruby>こえておりますでしょうか？」 <br/>*Em Dũng bên Thiên Phát ạ. Mọi người nghe được tiếng em không ạ?* |
+| **松本PM** | 「はい、こちらは<ruby>聞<rt>き</rt></ruby>こえております。」 <br/>*Vâng, bên tôi nghe được ạ.* |
+| **ズン** | 「ありがとうございます。それでは、ズンより4<ruby>月度<rt>がつど</rt></ruby>の<ruby>進捗<rt>しんちょく</rt></ruby>についてご<ruby>報告<rt>ほうこく</rt></ruby>いたします。」 <br/>*Cảm ơn anh ạ. Sau đây em xin báo cáo tiến độ tháng 4 ạ.* |
+| **ズン** | 「ズンからは<ruby>以上<rt>いじょう</rt></ruby>です。<ruby>質問<rt>しつもん</rt></ruby>ございますでしょうか？」 <br/>*Phần em đến đây hết ạ. Có câu hỏi nào không ạ?* |
 
-## ⚠ Tips
+## Mẹo
 
 - **「〇〇のズンです」** mở mỗi lần phát biểu = đối phương biết ai đang nói (vì không thấy mặt).
 - **「以上です」** đánh dấu hết phần phát biểu.
 
-## 🎯 Câu chốt
+## Câu chốt
 
-> **「〇〇のズンより〇〇についてご報告いたします。」**
+> **「〇〇のズンより〇〇についてご<ruby>報告<rt>ほうこく</rt></ruby>いたします。」**
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| オンライン会議 | online kaigi | Họp online |
-| 音声 | おんせい | Âm thanh |
-| 発言 | はつげん | Phát biểu |
-| 質問 | しつもん | Câu hỏi |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| オンライン会議 | オンライン かいぎ | — HỘI NGHỊ | Họp trực tuyến |
+| 音声 | おんせい | ÂM THANH | Âm thanh |
+| 発言 | はつげん | PHÁT NGÔN | Phát biểu |
+| 質問 | しつもん | CHẤT VẤN | Câu hỏi |

@@ -1,6 +1,6 @@
-# Rule 16 — 4 pattern xử lý khi người nhận vắng / 担当者不在の4パターン
+# Rule 16 — 4 công thức xử lý khi người nhận vắng / 担当者不在の4パターン
 
-> **Luận điểm.** Khi người được gọi không có mặt, có **4 pattern chuẩn** để phản hồi: (1) đang họp, (2) đang ra ngoài, (3) đang nghỉ phép, (4) đã về. Mỗi pattern có mức độ thông tin tiết lộ khác nhau.
+> **Luận điểm.** Khi người được gọi không có mặt, có **4 công thức chuẩn** để phản hồi: (1) đang họp, (2) đang ra ngoài, (3) đang nghỉ phép, (4) đã về. Mỗi công thức có mức độ thông tin tiết lộ khác nhau.
 >
 > 担当者不在時の対応は4パターン：会議中／外出中／休暇中／退勤済み。それぞれ開示情報の粒度が異なる。
 >
@@ -10,34 +10,34 @@
 
 Anh Matsumoto gọi cho anh Tuấn (Tech lead Thiên Phát) nhưng anh Tuấn đang trong cuộc họp. Em Dũng nhận máy và phải xử lý.
 
-## ✅ Hội thoại — TỐT (Pattern 1: 会議中)
+## Hội thoại — TỐT (Công thức 1: 会議中)
 
 | Vai | Câu |
 |---------|-----|
-| **松本PM** | 「いつもお世話になっております。白鷗の松本ですが、トゥアンさんお願いできますでしょうか。」 |
-| **ズン** | 「松本様、いつもお世話になっております。あいにくトゥアンはただいま会議中でございまして、15時には終わる予定でございます。」 |
-| **ズン** | 「終わり次第、こちらから折り返しお電話差し上げるようお伝えしましょうか？」 |
-| **松本PM** | 「では、お願いいたします。」 |
+| **松本PM** | 「いつもお<ruby>世話<rt>せわ</rt></ruby>になっております。<ruby>白鷗<rt>はくおう</rt></ruby>の<ruby>松本<rt>まつもと</rt></ruby>ですが、トゥアンさんお<ruby>願<rt>ねが</rt></ruby>いできますでしょうか。」 <br/>*Cảm ơn anh đã hỗ trợ. Tôi là Matsumoto bên Hakuō, nhờ em nối máy cho anh Tuấn ạ.* |
+| **ズン** | 「<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>、いつもお<ruby>世話<rt>せわ</rt></ruby>になっております。あいにくトゥアンはただいま<ruby>会議中<rt>かいぎちゅう</rt></ruby>でございまして、15<ruby>時<rt>じ</rt></ruby>には<ruby>終<rt>お</rt></ruby>わる<ruby>予定<rt>よてい</rt></ruby>でございます。」 <br/>*Anh Matsumoto, cảm ơn anh đã hỗ trợ ạ. Đáng tiếc anh Tuấn hiện đang họp, dự kiến 15h sẽ kết thúc ạ.* |
+| **ズン** | 「<ruby>終<rt>お</rt></ruby>わり<ruby>次第<rt>しだい</rt></ruby>、こちらから<ruby>折<rt>お</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>しお<ruby>電話<rt>でんわ</rt></ruby><ruby>差<rt>さ</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げるようお<ruby>伝<rt>つた</rt></ruby>えしましょうか？」 <br/>*Khi xong cuộc họp em sẽ nhắn anh Tuấn gọi lại cho anh, được không ạ?* |
+| **松本PM** | 「では、お<ruby>願<rt>ねが</rt></ruby>いいたします。」 <br/>*Vậy thì nhờ em ạ.* |
 
-## 🔄 Biến thể — 4 pattern câu mở
+## Biến thể — 4 công thức câu mở
 
-| Pattern | Câu chuẩn |
+| Công thức | Câu chuẩn |
 |---------|-----------|
-| 会議中 | 「あいにくただいま会議中でございまして、〇時には終わる予定でございます。」 |
-| 外出中 | 「あいにく外出しておりまして、本日は〇時に戻る予定でございます。」 |
-| 休暇中 | 「あいにく本日は休みをいただいておりまして、明日〇時に出社予定でございます。」 |
-| 退勤済み | 「あいにく本日の業務を終えておりまして、明日9時より出社いたします。」 |
+| 会議中 | 「あいにくただいま<ruby>会議中<rt>かいぎちゅう</rt></ruby>でございまして、〇<ruby>時<rt>じ</rt></ruby>には<ruby>終<rt>お</rt></ruby>わる<ruby>予定<rt>よてい</rt></ruby>でございます。」 |
+| 外出中 | 「あいにく<ruby>外出<rt>がいしゅつ</rt></ruby>しておりまして、<ruby>本日<rt>ほんじつ</rt></ruby>は〇<ruby>時<rt>じ</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>でございます。」 |
+| 休暇中 | 「あいにく<ruby>本日<rt>ほんじつ</rt></ruby>は<ruby>休<rt>やす</rt></ruby>みをいただいておりまして、<ruby>明日<rt>あす</rt></ruby>〇<ruby>時<rt>じ</rt></ruby>に<ruby>出社<rt>しゅっしゃ</rt></ruby><ruby>予定<rt>よてい</rt></ruby>でございます。」 |
+| 退勤済み | 「あいにく<ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>業務<rt>ぎょうむ</rt></ruby>を<ruby>終<rt>お</rt></ruby>えておりまして、<ruby>明日<rt>あす</rt></ruby>9<ruby>時<rt>じ</rt></ruby>より<ruby>出社<rt>しゅっしゃ</rt></ruby>いたします。」 |
 
-## 🎯 Câu chốt
+## Câu chốt
 
-> **「あいにく〇〇しておりまして、〇時に戻る予定でございます。」**
+> **「あいにく〇〇しておりまして、〇<ruby>時<rt>じ</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>でございます。」**
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 不在 | ふざい | Vắng mặt |
-| 会議中 | かいぎちゅう | Đang họp |
-| 外出 | がいしゅつ | Ra ngoài |
-| あいにく | ainiku | Đáng tiếc thay |
-| 折り返し | おりかえし | Gọi lại |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|----------|-------|
+| 不在 | ふざい | BẤT TẠI | Vắng mặt |
+| 会議中 | かいぎちゅう | HỘI NGHỊ TRUNG | Đang họp |
+| 外出 | がいしゅつ | NGOẠI XUẤT | Ra ngoài |
+| あいにく | あいにく | — | Đáng tiếc thay |
+| 折り返し | おりかえし | CHIẾT PHẢN | Gọi lại |

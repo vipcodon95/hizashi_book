@@ -52,6 +52,53 @@ tr > th:first-child:nth-last-child(2) ~ th {
   font-weight: normal;
 }
 
+/* === Bảng TỪ VỰNG 4 cột (Từ|Cách đọc|Hán Việt|Nghĩa Việt) — 22/22/22/34 === */
+table.vocab4-table { table-layout: fixed; }
+table.vocab4-table td:nth-child(1), table.vocab4-table th:nth-child(1) { width: 22% !important; }
+table.vocab4-table td:nth-child(2), table.vocab4-table th:nth-child(2) { width: 22% !important; }
+table.vocab4-table td:nth-child(3), table.vocab4-table th:nth-child(3) { width: 22% !important; }
+table.vocab4-table td:nth-child(4), table.vocab4-table th:nth-child(4) { width: 34% !important; }
+
+/* === Bảng TỪ VỰNG 5 cột (+ Lần đầu xuất hiện) — chia đều 20/20/20/20/20 === */
+table.vocab5-table { table-layout: fixed; }
+table.vocab5-table td, table.vocab5-table th { width: 20% !important; }
+
+/* === Bảng CHECKLIST 3 cột (# | nhãn | nội dung) — custom 10/20/70 ===
+   Dùng cho: '# | Mục | Câu hỏi tự kiểm' (rule_24) và '# | Tình huống | Câu chuẩn' (rule_39).
+   Cột # chỉ chứa số → 10%; cột nhãn (từ ngắn) → 20%; nội dung dài → 70%. */
+table.checklist-table { table-layout: fixed; }
+table.checklist-table td:nth-child(1), table.checklist-table th:nth-child(1) { width: 10% !important; }
+table.checklist-table td:nth-child(2), table.checklist-table th:nth-child(2) { width: 20% !important; }
+table.checklist-table td:nth-child(3), table.checklist-table th:nth-child(3) { width: 70% !important; }
+
+/* === Bảng HỘI THOẠI 5 BƯỚC (# | Vai | Câu | Bước) — custom 10/15/60/15 (rule_41) ===
+   Cột # số → 10%; Vai → 15%; Câu (thoại dài) → 60%; Bước → 15%. */
+table.dialog-step-table { table-layout: fixed; }
+table.dialog-step-table td:nth-child(1), table.dialog-step-table th:nth-child(1) { width: 10% !important; }
+table.dialog-step-table td:nth-child(2), table.dialog-step-table th:nth-child(2) { width: 15% !important; }
+table.dialog-step-table td:nth-child(3), table.dialog-step-table th:nth-child(3) { width: 60% !important; }
+table.dialog-step-table td:nth-child(4), table.dialog-step-table th:nth-child(4) { width: 15% !important; }
+
+/* === Bảng TỰ CHẤM (# | Câu hỏi tự chấm | / | Rule liên quan) — 10/61/13/16 (rule_60) ===
+   Cột # số → 10%; câu hỏi → 61%; / (ô tích trống) → 13%; rule → 16%. */
+table.selfcheck-table { table-layout: fixed; }
+table.selfcheck-table td:nth-child(1), table.selfcheck-table th:nth-child(1) { width: 10% !important; }
+table.selfcheck-table td:nth-child(2), table.selfcheck-table th:nth-child(2) { width: 61% !important; }
+table.selfcheck-table td:nth-child(3), table.selfcheck-table th:nth-child(3) { width: 13% !important; }
+table.selfcheck-table td:nth-child(4), table.selfcheck-table th:nth-child(4) { width: 16% !important; }
+
+/* === Bảng ĐỐI CHIẾU 2 cột (Tình huống|OK-NG, Số điện thoại|...) — 50/50 ===
+   Lua gắn .compare-table cho bảng 2 cột KHÔNG có câu thoại 「」. Override 20/80. */
+table.compare-table td:first-child,
+table.compare-table th:first-child {
+  width: 50% !important;
+  font-weight: normal !important;
+}
+table.compare-table td:last-child,
+table.compare-table th:last-child {
+  width: 50% !important;
+}
+
 /* === Bảng 3 CỘT (từ vựng: 漢字 | よみ | Nghĩa) — 30/30/40 === */
 tr > td:first-child:nth-last-child(3),
 tr > th:first-child:nth-last-child(3) {
@@ -82,6 +129,26 @@ tr > th:first-child:nth-last-child(4) ~ th:nth-child(3) {
 tr > td:first-child:nth-last-child(4) ~ td:nth-child(4),
 tr > th:first-child:nth-last-child(4) ~ th:nth-child(4) {
   width: 12%;
+}
+
+/* === Bảng NHÂN VẬT 4 cột (Tên | 名前 | Vai | Tính cách) — lua gắn .cast-table ===
+   KHÁC bảng từ vựng 4 cột: cột "Tính cách" DÀI nhất → 18/16/24/42.
+   (Đặt SAU rule 4 cột mặc định để override.) */
+table.cast-table td:first-child,
+table.cast-table th:first-child {
+  width: 18% !important;
+}
+table.cast-table td:nth-child(2),
+table.cast-table th:nth-child(2) {
+  width: 16% !important;
+}
+table.cast-table td:nth-child(3),
+table.cast-table th:nth-child(3) {
+  width: 24% !important;
+}
+table.cast-table td:nth-child(4),
+table.cast-table th:nth-child(4) {
+  width: 42% !important;
 }
 
 /* === Bảng RỘNG (≥6 cột, vd quản lý cuộc gọi) — lua gắn class .wide-table === */

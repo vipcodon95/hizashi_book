@@ -1,31 +1,31 @@
-# Rule 55 — Họp online quốc tế / 国際オンライン会議
+# Rule 55 — Họp trực tuyến quốc tế / 国際オンライン会議
 
-> **Luận điểm.** Họp online quốc tế: **(1) hỏi múi giờ + ngôn ngữ chính** ngay đầu, **(2) nói chậm hơn cả người Nhật bản xứ**, **(3) tránh từ lóng/bóng gió**, **(4) confirm hiểu sau mỗi vấn đề lớn.
+> **Luận điểm.** Họp trực tuyến quốc tế: **(1) hỏi múi giờ + ngôn ngữ chính** ngay đầu, **(2) nói chậm hơn cả người Nhật bản xứ**, **(3) tránh từ lóng/bóng gió**, **(4) xác nhận hiểu sau mỗi vấn đề lớn.
 >
 > 国際オンライン会議：時差・主言語確認＋話速をさらに下げる＋曖昧表現回避。
 >
 > **Liên quan:** Rule 33, Rule 52.
 
-## ✅ Hội thoại
+## Hội thoại
 
-*mid-meeting confirmation*
+*Xác nhận hiểu giữa cuộc họp*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「皆さん、こんにちは。ベトナム時間で午前9時、日本時間11時でございます。」 |
-| **ズン** | 「本日は日本語で進めさせていただきますが、ご不明な点があればいつでもお知らせください。」 |
-| **松本PM** | 「承知しました。」 |
-| **ズン** | 「ここまでで何かご不明な点はございますでしょうか？」 |
+| **ズン** | 「皆さん、こんにちは。ベトナム時間で午前9時、日本時間11時でございます。」 <br/>*Xin chào mọi người. Hiện giờ Việt Nam là 9h sáng, Nhật là 11h ạ.* |
+| **ズン** | 「本日は日本語で進めさせていただきますが、ご<ruby>不明<rt>ふめい</rt></ruby>な点があればいつでもお知らせください。」 <br/>*Hôm nay em xin phép tiến hành bằng tiếng Nhật, có gì chưa rõ mọi người cứ nói em ạ.* |
+| **松本PM** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。」 <br/>*Tôi hiểu rồi.* |
+| **ズン** | 「ここまでで何かご不明な点はございますでしょうか？」 <br/>*Đến đây có điểm nào chưa rõ không ạ?* |
 
-## 🎯 Câu chốt
+## Câu chốt
 
-> **「ご不明な点があればいつでもお知らせください。」**
+> **「ご<ruby>不明<rt>ふめい</rt></ruby>な点があればいつでもお知らせください。」**
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 国際 | こくさい | Quốc tế |
-| 時差 | じさ | Múi giờ |
-| 主言語 | しゅげんご | Ngôn ngữ chính |
-| 不明な点 | ふめいなてん | Điểm chưa rõ |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 国際 | こくさい | QUỐC TẾ | Quốc tế |
+| 時差 | じさ | THỜI SAI | Múi giờ |
+| 主言語 | しゅげんご | CHỦ NGÔN NGỮ | Ngôn ngữ chính |
+| 不明な点 | ふめいなてん | BẤT MINH — ĐIỂM | Điểm chưa rõ |

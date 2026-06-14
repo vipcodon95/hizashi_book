@@ -1,6 +1,6 @@
-# Rule 24 — Checklist trước khi nhấn gọi / 発信前のチェックリスト
+# Rule 24 — Danh sách kiểm tra trước khi nhấn gọi / 発信前のチェックリスト
 
-> **Luận điểm.** Trước khi gọi đi, kiểm 5 mục: **(1) mục đích rõ chưa**, **(2) thời điểm gọi phù hợp**, **(3) tài liệu sẵn**, **(4) note 5W1H đã list**, **(5) môi trường yên tĩnh**.
+> **Luận điểm.** Trước khi gọi đi, kiểm 5 mục: **(1) mục đích rõ chưa**, **(2) thời điểm gọi phù hợp**, **(3) tài liệu sẵn**, **(4) ghi chú 5W1H đã viết**, **(5) môi trường yên tĩnh**.
 >
 > 発信前に5項目チェック：①目的 ②時間帯 ③資料 ④5W1Hメモ ⑤環境。
 >
@@ -10,34 +10,34 @@
 
 Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project. Trước khi nhấn gọi tự kiểm.
 
-## Checklist
+## Danh sách kiểm tra
 
 | # | Mục | Câu hỏi tự kiểm |
 |---|-----|----------------|
 | 1 | 目的 | Mục đích gọi 1 câu được không? |
 | 2 | 時間帯 | Tránh 12-13h, sáng đầu tuần 9h, cuối ngày 17h+? |
-| 3 | 資料 | Tài liệu/file PDF mở sẵn chưa? |
-| 4 | 5W1H | Note When/Where/Who/What/Why/How đã viết? |
+| 3 | 資料 | Tài liệu/tệp PDF mở sẵn chưa? |
+| 4 | 5W1H | Ghi chú When/Where/Who/What/Why/How đã viết? |
 | 5 | 環境 | Không ai nói chuyện ồn xung quanh? |
 
-## ✅ Hội thoại — tự kiểm nội bộ + cuộc gọi đầu
+## Hội thoại — tự kiểm nội bộ + cuộc gọi đầu
 
 *独り言 · 電話で*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「目的：4月度進捗報告。資料：開いた。メモ：書いた。環境：OK。発信。」 |
-| **ズン** | 「お世話になっております。ティエンファット社、営業部のズンでございます。松本様のお席はございますでしょうか？」 |
+| **ズン** | 「<ruby>目的<rt>もくてき</rt></ruby>：4月度<ruby>進捗<rt>しんちょく</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby>。<ruby>資料<rt>しりょう</rt></ruby>：<ruby>開<rt>ひら</rt></ruby>いた。メモ：<ruby>書<rt>か</rt></ruby>いた。<ruby>環境<rt>かんきょう</rt></ruby>：OK。<ruby>発信<rt>はっしん</rt></ruby>。」 <br/>*(Tự nhủ) Mục đích: báo cáo tiến độ tháng 4. Tài liệu: mở rồi. Ghi chú: viết rồi. Môi trường: OK. Gọi.* |
+| **ズン** | 「お世話になっております。ティエンファット社、<ruby>営業部<rt>えいぎょうぶ</rt></ruby>のズンでございます。松本<ruby>様<rt>さま</rt></ruby>のお<ruby>席<rt>せき</rt></ruby>はございますでしょうか？」 <br/>*Cảm ơn anh đã hỗ trợ ạ. Em là Dũng, phòng kinh doanh, Cty Thiên Phát ạ. Anh Matsumoto có ở văn phòng không ạ?* |
 
-## 🎯 Câu chốt
+## Câu chốt
 
-> **「目的・時間・資料・メモ・環境」5チェック**
+> **「<ruby>目的<rt>もくてき</rt></ruby>・<ruby>時間<rt>じかん</rt></ruby>・<ruby>資料<rt>しりょう</rt></ruby>・メモ・<ruby>環境<rt>かんきょう</rt></ruby>」5チェック**
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 発信 | はっしん | Gọi đi |
-| 目的 | もくてき | Mục đích |
-| 時間帯 | じかんたい | Khung giờ |
-| 資料 | しりょう | Tài liệu |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|-----|---------|---------|-------|
+| 発信 | はっしん | PHÁT TÍN | Gọi đi |
+| 目的 | もくてき | MỤC ĐÍCH | Mục đích |
+| 時間帯 | じかんたい | THỜI GIAN ĐỚI | Khung giờ |
+| 資料 | しりょう | TƯ LIỆU | Tài liệu |

@@ -1,31 +1,31 @@
 # Rule 15 — Chuyển máy khi người nhận có mặt / 担当者がいる場合の取次ぎ
 
-> **Luận điểm.** Chuyển máy có 3 bước: (1) hỏi tên người nhận, (2) confirm với người được nhờ, (3) chuyển. Không nhảy bước = chuyển nhầm.
+> **Luận điểm.** Chuyển máy có 3 bước: (1) hỏi tên người nhận, (2) xác nhận với người được nhờ, (3) chuyển. Không nhảy bước = chuyển nhầm.
 >
 > 取次ぎは3ステップ：①氏名確認 ②本人に確認 ③転送。スキップ = 誤転送。
 >
 > **Liên quan:** Rule 12, Rule 16.
 
-## ✅ Hội thoại — Chuyển máy đúng
+## Hội thoại — Chuyển máy đúng
 
 *người bốc máy · line khách*
 
 | Vai | Câu |
 |---------|-----|
-| **松本PM** | 「ズンさんお願いします。」 |
-| **ハイ** | 「松本様、少々お待ちください。ただ今おつなぎいたします。」 |
-| (chuyển sang ズン) **ハイ** | 「ズン、白鷗の松本様からお電話です。」 |
-| **ズン** | 「ありがとう、つないで。」 |
-| **ズン** | 「お電話変わりました。ズンでございます。」 |
+| **松本PM** | 「ズンさんお願いします。」 <br/>*Phiền em cho tôi gặp Dũng nhé.* |
+| **ハイ** | 「松本様、<ruby>少々<rt>しょうしょう</rt></ruby>お待ちください。ただ今おつなぎいたします。」 <br/>*Anh Matsumoto, anh đợi chút ạ. Em xin nối máy ngay.* |
+| (chuyển sang ズン) **ハイ** | 「ズン、<ruby>白鷗<rt>はくおう</rt></ruby>の松本様からお電話です。」 <br/>*Dũng ơi, có anh Matsumoto bên Hakuō gọi tới này.* |
+| **ズン** | 「ありがとう、つないで。」 <br/>*Cảm ơn em, nối qua đi nhé.* |
+| **ズン** | 「お電話<ruby>変<rt>か</rt></ruby>わりました。ズンでございます。」 <br/>*Dạ, em Dũng nghe máy đây ạ.* |
 
-## 🎯 Câu chốt
+## Câu chốt
 
-> **「お電話変わりました。〇〇でございます。」** — Câu mở khi nhận máy chuyển từ đồng nghiệp.
+> **「お電話<ruby>変<rt>か</rt></ruby>わりました。〇〇でございます。」** — Câu mở khi nhận máy chuyển từ đồng nghiệp.
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 取次ぎ | とりつぎ | Chuyển máy |
-| 繋ぐ | つなぐ | Nối |
-| 変わる | かわる | Đổi (người nói) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|----------|-------|
+| 取次ぎ | とりつぎ | THỦ THỨ | Chuyển máy |
+| 繋ぐ | つなぐ | HỆ | Nối |
+| 変わる | かわる | BIẾN | Đổi (người nói) |

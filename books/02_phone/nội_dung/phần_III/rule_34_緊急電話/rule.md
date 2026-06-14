@@ -6,29 +6,29 @@
 >
 > **Liên quan:** Rule 28, Rule 44.
 
-## ✅ Hội thoại
+## Hội thoại
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「お忙しいところ恐れ入ります。至急ご連絡したい件がございます。」 |
-| **ズン** | 「本日納品予定のサーバーですが、配送業者のトラブルで到着が午後にずれ込む見込みでございます。」 |
-| **ズン** | 「現場のトゥアンにも至急共有いたします。松本様からも何かご対応が必要でしたら、ご指示ください。」 |
-| **松本PM** | 「分かりました。トゥアンさんへ私からも連絡します。」 |
+| **ズン** | 「お忙しいところ<ruby>恐<rt>おそ</rt></ruby>れ<ruby>入<rt>い</rt></ruby>ります。<ruby>至急<rt>しきゅう</rt></ruby>ご<ruby>連絡<rt>れんらく</rt></ruby>したい<ruby>件<rt>けん</rt></ruby>がございます。」 <br/>*Em xin lỗi làm phiền lúc anh đang bận. Em có việc gấp cần liên hệ ạ.* |
+| **ズン** | 「<ruby>本日<rt>ほんじつ</rt></ruby><ruby>納品<rt>のうひん</rt></ruby>予定のサーバーですが、<ruby>配送<rt>はいそう</rt></ruby><ruby>業者<rt>ぎょうしゃ</rt></ruby>のトラブルで<ruby>到着<rt>とうちゃく</rt></ruby>が午後に<ruby>ずれ込<rt>ずれこ</rt></ruby>む<ruby>見込<rt>みこ</rt></ruby>みでございます。」 <br/>*Máy chủ dự kiến giao hôm nay đang bị bên vận chuyển trục trặc, dự kiến chiều mới tới ạ.* |
+| **ズン** | 「<ruby>現場<rt>げんば</rt></ruby>のトゥアンにも<ruby>至急<rt>しきゅう</rt></ruby><ruby>共有<rt>きょうゆう</rt></ruby>いたします。<ruby>松本<rt>まつもと</rt></ruby>様からも何かご<ruby>対応<rt>たいおう</rt></ruby>が必要でしたら、ご<ruby>指示<rt>しじ</rt></ruby>ください。」 <br/>*Em nghĩ cần báo gấp cho anh Tuấn ở hiện trường, anh thấy thế nào ạ?* |
+| **松本PM** | 「分かりました。トゥアンさんへ私からも<ruby>連絡<rt>れんらく</rt></ruby>します。」 <br/>*Tôi hiểu rồi. Tôi cũng sẽ liên hệ anh Tuấn.* |
 
-## 🎯 Câu chốt
+## Câu chốt
 
-> **「お忙しいところ恐れ入ります。至急ご連絡したい件がございます。」**
+> **「お忙しいところ<ruby>恐<rt>おそ</rt></ruby>れ<ruby>入<rt>い</rt></ruby>ります。<ruby>至急<rt>しきゅう</rt></ruby>ご<ruby>連絡<rt>れんらく</rt></ruby>したい<ruby>件<rt>けん</rt></ruby>がございます。」**
 
-## ⚠ Tránh
+## Tránh
 
 - Vòng vo "あの〜実は〜" → ăn 30 giây vô ích trong khi đối phương đang lo.
 - "もしかして…" → lưỡng lự, làm mất tin cậy.
 
-## 📚 Vocab
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 至急 | しきゅう | Khẩn cấp |
-| 即時 | そくじ | Ngay lập tức |
-| ずれ込む | ずれこむ | Trễ, dời |
-| 見込み | みこみ | Dự kiến |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|-----|---------|---------|-------|
+| 至急 | しきゅう | CHÍ CẤP | Khẩn cấp |
+| 即時 | そくじ | TỨC THỜI | Ngay lập tức |
+| ずれ込む | ずれこむ | — | Trễ, dời |
+| 見込み | みこみ | — | Dự kiến |

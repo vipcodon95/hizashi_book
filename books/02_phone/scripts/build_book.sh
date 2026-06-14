@@ -42,7 +42,7 @@ declare -a PHAN_TITLES=(
     "Phần II — Nhận điện thoại / 受電の流れ"
     "Phần III — Gọi điện thoại đi / 発信の流れ"
     "Phần IV — Tình huống khó / 困難な場面"
-    "Phần V — Voicemail, Online & Best Practice / 留守電・オンライン・ベストプラクティス"
+    "Phần V — Hộp thư thoại, Trực tuyến & Thực hành tốt nhất / 留守電・オンライン・ベストプラクティス"
 )
 
 for i in "${!PHANS[@]}"; do
@@ -81,16 +81,29 @@ fi
 
 echo "✓ Combined markdown: $COMBINED ($(wc -l < "$COMBINED") dòng)"
 
-# ─── Pandoc → EPUB (CSS riêng + lua reset width + bìa + ruby furigana) ───
+# ─── Phân tích bảng → sinh CSS tỉ lệ cột + lua matcher (TỰ ĐỘNG, đo nội dung thực) ───
+ANALYZE="$BOOK_ROOT/../../_shared/scripts/analyze_tables.py"
+GEN_CSS="$SCRIPT_DIR/_tables_gen.css"
+GEN_LUA="$SCRIPT_DIR/_tables_gen.lua"
+if [ -f "$ANALYZE" ]; then
+    python3 "$ANALYZE" "$NOI_DUNG" --gen-css phone \
+        --out-css "$GEN_CSS" --out-lua "$GEN_LUA" || echo "  warn: analyze_tables"
+fi
+
+# ─── Pandoc → EPUB (CSS riêng + CSS tỉ lệ tự sinh + lua + bìa + ruby furigana) ───
 if command -v pandoc &> /dev/null; then
     COVER_ARG=""
     [ -f "$COVER" ] && COVER_ARG="--epub-cover-image=$COVER"
+    # _tables_gen.css đặt SAU epub_phone.css để override tỉ lệ cột bảng đặc biệt.
+    GEN_CSS_ARG=""
+    [ -f "$GEN_CSS" ] && GEN_CSS_ARG="--css=$GEN_CSS"
     EPUB_OUT="$OUTPUT/Hizashi_phone_v${VERSION}.epub"
     pandoc "$COMBINED" -o "$EPUB_OUT" \
         --from markdown+raw_html \
         --to epub3 \
         --toc --toc-depth=2 \
         --css "$CSS" \
+        $GEN_CSS_ARG \
         --lua-filter "$LUA" \
         $COVER_ARG \
         --epub-title-page=false \
