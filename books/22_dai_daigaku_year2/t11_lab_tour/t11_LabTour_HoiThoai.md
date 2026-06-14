@@ -233,7 +233,7 @@ Tháng 2-3/2028. Hậu kỳ năm 2 — khoa CNTT bắt buộc tham quan 8 resear
 
 | Từ | Cách đọc | Hán Việt | Nghĩa tiếng Việt |
 |---|---|---|---|
-| 訪問 | ほうもん | PHỎNG VẤN | thăm |
+| 訪問 | ほうもん | PHỎNG VẤN (chữ Hán) | thăm viếng (≠ 面接 = phỏng vấn tuyển dụng) |
 | 志望 | しぼう | CHÍ VỌNG | nguyện vọng |
 | 志望理由書 | しぼうりゆうしょ | CHÍ VỌNG LÝ DO THƯ | đơn động cơ |
 | 締切 | しめきり | THIẾT THIẾT | hạn chót |

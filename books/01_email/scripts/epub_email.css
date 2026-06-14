@@ -1,0 +1,115 @@
+/* CSS EPUB riêng cho Sách 01 — Email Công Việc (song ngữ VN + JP).
+   Cấu trúc bảng khác sách hội thoại: KHÔNG có cột "Vai" tên ngắn, mà là các bảng
+   khái niệm/đối chiếu/từ vựng → tỉ lệ cột thiết kế riêng theo nội dung thực tế.
+
+   Phân tích bảng sách 01 (đếm thực tế):
+   - 2 cột (124 VN / 152 JP): nhãn-khái-niệm | nội-dung (vd 'Tình huống | Dùng gì',
+     'Đề cập | Nói đến', 'Template | Dùng khi'). Cột trái cần ~30% để không bóp chữ.
+   - 3 cột (29 VN / 42 JP): vd 'Loại CC | Vai trò | Cách giới thiệu' — cột cuối (câu
+     ví dụ) dài nhất → 25/25/50.
+   - 4 cột (27 JP): bảng từ vựng '漢字 | よみ | Nghĩa | Ví dụ' → 18/22/22/38. */
+
+/* Heading */
+h1 { font-size: 1.6em; margin: 1em 0 0.6em; line-height: 1.25; page-break-before: always; }
+h2 { font-size: 1.3em; margin: 1.2em 0 0.5em; line-height: 1.3; }
+h3 { font-size: 1.15em; margin: 1em 0 0.4em; line-height: 1.35; }
+h4 { font-size: 1.05em; margin: 0.9em 0 0.35em; font-weight: bold; }
+h5 { font-size: 0.98em; margin: 0.7em 0 0.25em; font-weight: bold; }
+
+/* Bảng — border 1 nét full + table-layout:fixed để width % được tôn trọng. */
+table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  border: 1px solid #888;     /* viền 1 nét khung ngoài */
+  margin: 0.6em 0 1em;
+  font-size: 0.92em;
+}
+thead th {
+  text-align: left;
+  border: 1px solid #888;     /* viền 1 nét full ô header */
+  padding: 0.3em 0.6em;
+  font-weight: bold;
+  vertical-align: top;
+}
+tbody td {
+  border: 1px solid #ccc;     /* viền 1 nét full ô nội dung */
+  padding: 0.35em 0.6em;
+  vertical-align: top;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+/* === Bảng 2 CỘT (nhãn khái niệm | nội dung) — Email: 30/70 ===
+   KHÁC dialogue (16/84): cột trái sách email là cụm nhãn dài hơn nên cần 30%. */
+tr > td:first-child:nth-last-child(2),
+tr > th:first-child:nth-last-child(2) {
+  width: 30%;
+}
+tr > td:first-child:nth-last-child(2) ~ td,
+tr > th:first-child:nth-last-child(2) ~ th {
+  width: 70%;
+}
+
+/* === Bảng 3 CỘT (vd CC: Loại | Vai trò | Cách giới thiệu) — 25/25/50 === */
+tr > td:first-child:nth-last-child(3),
+tr > th:first-child:nth-last-child(3) {
+  width: 25%;
+}
+tr > td:first-child:nth-last-child(3) ~ td:nth-child(2),
+tr > th:first-child:nth-last-child(3) ~ th:nth-child(2) {
+  width: 25%;
+}
+tr > td:first-child:nth-last-child(3) ~ td:nth-child(3),
+tr > th:first-child:nth-last-child(3) ~ th:nth-child(3) {
+  width: 50%;
+}
+
+/* === Bảng 4 CỘT (từ vựng JP: 漢字 | よみ | Nghĩa | Ví dụ) — 18/22/22/38 === */
+tr > td:first-child:nth-last-child(4),
+tr > th:first-child:nth-last-child(4) {
+  width: 18%;
+}
+tr > td:first-child:nth-last-child(4) ~ td:nth-child(2),
+tr > th:first-child:nth-last-child(4) ~ th:nth-child(2) {
+  width: 22%;
+}
+tr > td:first-child:nth-last-child(4) ~ td:nth-child(3),
+tr > th:first-child:nth-last-child(4) ~ th:nth-child(3) {
+  width: 22%;
+}
+tr > td:first-child:nth-last-child(4) ~ td:nth-child(4),
+tr > th:first-child:nth-last-child(4) ~ th:nth-child(4) {
+  width: 38%;
+}
+
+/* Ruby furigana (bảng từ vựng JP có ruby) */
+ruby { ruby-align: center; }
+rt { font-size: 0.6em; }
+
+/* Blockquote — ví dụ mail mẫu, lưu ý */
+blockquote {
+  margin: 0.8em 0;
+  padding: 0.5em 1em;
+  border-left: 3px solid #888;
+  background: #f7f7f7;
+  font-size: 0.95em;
+}
+blockquote p { margin: 0.3em 0; }
+
+/* Code (mail template, chữ ký) hiển thị rõ khối */
+pre, code {
+  font-family: monospace;
+  font-size: 0.9em;
+}
+pre {
+  background: #f4f4f4;
+  padding: 0.6em 0.8em;
+  border: 1px solid #ddd;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+hr { border: none; border-top: 1px solid #ccc; margin: 1.2em 0; }
+em { font-style: italic; color: #444; }
+body { font-family: serif; line-height: 1.6; }

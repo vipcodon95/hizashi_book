@@ -150,12 +150,12 @@
       "skill": "場面把握",
       "question_ja": "本番で重大障害が発生した時、最も適切な escalation 順序は？",
       "options": [
-        "顧客 → CTO → 直属上司",
         "直属上司 → CTO → Plan 確定 → 顧客",
-        "Slack #all へ投稿 → 顧客",
-        "顧客のみに連絡"
+        "顧客 → CTO → 直属上司",
+        "顧客のみに連絡",
+        "Slack #all へ投稿 → 顧客"
       ],
-      "correct": "B",
+      "correct": "A",
       "explanation": {
         "ja": "社内で Plan まで固めてから顧客に告げるのが原則。Plan 無しで顧客に告げると詰められて現場が混乱する。",
         "vi": "Nguyên tắc: chốt Plan nội bộ rồi mới báo khách. Báo khách khi chưa có Plan = bị truy → hiện trường rối."

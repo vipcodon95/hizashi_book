@@ -1,6 +1,6 @@
 # Rule 34 — Self-review checklist / 自己評価
 
-> **Luận điểm.** Sau pitch (trong vòng 24h), self-review **bằng 12-item rubric (bảng tiêu chí đánh giá)** chia 4 cụm: Preparation (3) / Delivery (4) / Q&A (3) / Closing+Followup (2). Mỗi item chấm 1-5. Tự kết luận **3 strengths + 3 improvements**. Skip self-review = lặp cùng lỗi pitch tiếp. Khách Nhật value "改善志向" — review record tự nó là đầu tư.
+> **Luận điểm.** Sau pitch (trong vòng 24h), self-review **bằng 12-item rubric (bảng tiêu chí đánh giá)** chia 4 cụm: Preparation (3) / Delivery (4) / Q&A (3) / Closing+Followup (2). Mỗi mục chấm 1-5. Tự kết luận **3 strengths + 3 improvements**. Bỏ self-review = lặp cùng lỗi ở pitch tiếp theo. Khách Nhật coi trọng "改善志向" (tư duy cải thiện) — bản ghi review tự nó là một khoản đầu tư.
 >
 > ピッチ後24h以内に12項目 rubric self-review (準備3+デリバリー4+Q&A3+クロージング2)。3 strengths + 3 improvements を抽出。改善志向は日本顧客が高く評価。
 >
@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Pitch Phase 3 chiều thứ Năm xong. Tối thứ Năm, Dũng đã gửi acknowledgment email. Sáng thứ Sáu, Dũng định "skip review, viết detailed mail luôn cho đỡ delay". Chị Hương cản.
+Pitch Phase 3 chiều thứ Năm xong. Tối thứ Năm, Dũng đã gửi email acknowledgment. Sáng thứ Sáu, Dũng định "bỏ review, viết mail chi tiết luôn cho đỡ trễ". Chị Hương cản.
 
 ---
 
@@ -20,12 +20,16 @@ Pitch Phase 3 chiều thứ Năm xong. Tối thứ Năm, Dũng đã gửi acknow
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、月曜の詳細メール書きます。Self-review は時間取れないので skip して大丈夫ですか？」 |
-| **フオン** | 「ダメ。Self-review skip すると **次の pitch も同じ間違い** する。30分でいい、12項目 rubric で chấm。」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、<ruby>月曜<rt>げつよう</rt></ruby>の<ruby>詳細<rt>しょうさい</rt></ruby>メール書きます。Self-review は<ruby>時間<rt>じかん</rt></ruby>取れないので skip して<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですか？」 |
+|  | *Chị Hương, em viết mail chi tiết thứ Hai. Tự đánh giá thì không có thời gian, em bỏ qua được không ạ?* |
+| **フオン** | 「ダメ。Self-review skip すると **<ruby>次<rt>つぎ</rt></ruby>の pitch も同じ<ruby>間違<rt>まちが</rt></ruby>い** する。30<ruby>分<rt>ふん</rt></ruby>でいい、12<ruby>項目<rt>こうもく</rt></ruby> rubric で chấm。」 |
+|  | *Không được. Bỏ tự đánh giá thì pitch sau lặp đúng lỗi. 30 phút thôi, chấm theo 12 tiêu chí.* |
 | **ズン** | 「30分も…」 |
-| **フオン** | 「Pitch 60分の **半分** を review に投資して初めて成長する。**今やる**。」 |
+|  | *30 phút lận ạ...* |
+| **フオン** | 「Pitch 60分の **<ruby>半分<rt>はんぶん</rt></ruby>** を review に<ruby>投資<rt>とうし</rt></ruby>して<ruby>初<rt>はじ</rt></ruby>めて<ruby>成長<rt>せいちょう</rt></ruby>する。**今やる**。」 |
+|  | *Pitch 60 phút thì đầu tư nửa ngần đó vào review mới thực sự lớn được. Làm ngay đi.* |
 
-**Vì sao xấu:** Skip review → repeat lỗi. "時間ない" thường là excuse. Mỗi pitch là 1 datapoint, không log → wasted opportunity.
+**Vì sao xấu:** Skip review → lặp lỗi. "時間ない" thường là cái cớ. Mỗi pitch là 1 điểm dữ liệu, không ghi lại → bỏ phí cơ hội.
 
 ---
 
@@ -35,15 +39,19 @@ Pitch Phase 3 chiều thứ Năm xong. Tối thứ Năm, Dũng đã gửi acknow
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「Self-review 完了です【1】。**12項目平均 3.8/5**。詳細はテンプレ添付。」 |
-| **ズン** | 「**3 strengths**: ①LASR 適用 (Q&A の難問対応)、②Plan B 切替 (ネット障害 30秒復旧)、③CTA 3点明示。**3 improvements**: ①hook が weak (data 提示遅い)、②大垣様の価格 challenge で bridge phrase 1秒遅れた、③closing recap に時間配分 -2分【2】。」 |
-| **フオン** | 「いいね、具体的。**hook の改善** は次の pitch までに **rule 11 再読** + 30秒 hook draft 5パターン作成。Bridge phrase は **rule 25 暗唱** で 0.5秒 reflex まで。」 |
-| **ズン** | 「了解、**5/2 までに hook drill** + **5/8 までに bridge phrase 暗唱完了** いたします【3】。」 |
+| **ズン** | 「Self-review <ruby>完了<rt>かんりょう</rt></ruby>です【1】。**12<ruby>項目<rt>こうもく</rt></ruby><ruby>平均<rt>へいきん</rt></ruby> 3.8/5**。<ruby>詳細<rt>しょうさい</rt></ruby>はテンプレ<ruby>添付<rt>てんぷ</rt></ruby>。」 |
+|  | *Em xong tự đánh giá ạ. Trung bình 12 tiêu chí là 3.8/5 ạ. Chi tiết em đính template ạ.* |
+| **ズン** | 「**3 strengths**: ①LASR <ruby>適用<rt>てきよう</rt></ruby> (Q&A の<ruby>難問<rt>なんもん</rt></ruby><ruby>対応<rt>たいおう</rt></ruby>)、②Plan B <ruby>切替<rt>きりかえ</rt></ruby> (ネット<ruby>障害<rt>しょうがい</rt></ruby> 30<ruby>秒<rt>びょう</rt></ruby><ruby>復旧<rt>ふっきゅう</rt></ruby>)、③CTA 3<ruby>点<rt>てん</rt></ruby><ruby>明示<rt>めいじ</rt></ruby>。**3 improvements**: ①hook が weak (data <ruby>提示<rt>ていじ</rt></ruby><ruby>遅<rt>おそ</rt></ruby>い)、②<ruby>大垣<rt>おおがき</rt></ruby><ruby>様<rt>さま</rt></ruby>の<ruby>価格<rt>かかく</rt></ruby> challenge で bridge phrase 1<ruby>秒<rt>びょう</rt></ruby><ruby>遅<rt>おく</rt></ruby>れた、③closing recap に<ruby>時間<rt>じかん</rt></ruby><ruby>配分<rt>はいぶん</rt></ruby> -2<ruby>分<rt>ふん</rt></ruby>【2】。」 |
+|  | *3 strengths: ① áp dụng LASR (xử Q&A khó), ② chuyển Plan B (sự cố net recover 30s), ③ CTA 3 điểm rõ. 3 improvements: ① hook yếu (đưa data trễ), ② phần price challenge của anh Ōgaki, bridge phrase em chậm 1 giây, ③ closing recap em phân bổ thời gian -2 phút.* |
+| **フオン** | 「いいね、<ruby>具体的<rt>ぐたいてき</rt></ruby>。**hook の<ruby>改善<rt>かいぜん</rt></ruby>** は次の pitch までに **rule 11 <ruby>再読<rt>さいどく</rt></ruby>** + 30秒 hook draft 5パターン<ruby>作成<rt>さくせい</rt></ruby>。Bridge phrase は **rule 25 <ruby>暗唱<rt>あんしょう</rt></ruby>** で 0.5秒 reflex まで。」 |
+|  | *Tốt, cụ thể. Cải hook thì trước pitch sau đọc lại rule 11 + draft 5 pattern hook 30s. Bridge phrase thì học thuộc rule 25 đến mức reflex 0.5 giây.* |
+| **ズン** | 「<ruby>了解<rt>りょうかい</rt></ruby>、**5/2 までに hook drill** + **5/8 までに bridge phrase 暗唱完了** いたします【3】。」 |
+|  | *Em rõ ạ. Trước 2/5 em làm xong hook drill, trước 8/5 thuộc xong bridge phrase ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**Self-review 30 phút** — fixed budget. 12 items × 1-2 phút/item + 5 phút summary. 30+ phút = over-analyze, không sustainable.
-- 【2】**3 + 3 format** — 3 strengths (giữ + scale up) + 3 improvements (action). Equal split → không bị "negative spiral".
-- 【3】**Improvements có deadline + drill cụ thể** — review không action = review wasted. Map mỗi improvement → rule + drill + deadline.
+- 【1】**Self-review 30 phút** — ngân sách cố định. 12 mục × 1-2 phút/mục + 5 phút tóm tắt. Hơn 30 phút = phân tích quá đà, không duy trì lâu được.
+- 【2】**Công thức 3 + 3** — 3 strengths (giữ + nhân rộng) + 3 improvements (hành động). Chia đều → không rơi vào "vòng xoáy tiêu cực".
+- 【3】**Improvements có deadline + drill cụ thể** — review không hành động = review bỏ phí. Gắn mỗi improvement → rule + drill + deadline.
 
 ---
 
@@ -51,7 +59,7 @@ Pitch Phase 3 chiều thứ Năm xong. Tối thứ Năm, Dũng đã gửi acknow
 
 > **24h trong: 12-item rubric (4 cụm) chấm 1-5 → 3 strengths + 3 improvements + drill plan có deadline.**
 >
-> *Không review = repeat lỗi. Review không action = review wasted.*
+> *Không review = lặp lỗi. Review không hành động = review bỏ phí.*
 
 ---
 
@@ -82,7 +90,7 @@ Pitch Phase 3 chiều thứ Năm xong. Tối thứ Năm, Dũng đã gửi acknow
 □ 11. Recap 3 + CTA 3 (rule 26)                  _/5
 □ 12. 24h 内 acknowledgment メール (rule 28)     _/5
 
-────────────────────────────
+------------------------
 合計: __/60     平均: __/5
 
 【3 Strengths】 — 4-5点項目から
@@ -103,12 +111,12 @@ Pitch Phase 3 chiều thứ Năm xong. Tối thứ Năm, Dũng đã gửi acknow
 
 ## ⚠ Tránh
 
-- Skip self-review → repeat lỗi
-- Self-review > 60 phút → over-analyze, không sustainable
-- Chỉ list improvements → negative spiral, mất motivation
-- 6+ improvements → diluted, không action item nào hoàn thành
-- Improvements không deadline → wishful thinking
-- Không review trong 24h → memory đã loãng
+- Bỏ self-review → lặp lỗi
+- Self-review > 60 phút → phân tích quá đà, không duy trì lâu được
+- Chỉ liệt kê improvements → vòng xoáy tiêu cực, mất động lực
+- 6+ improvements → loãng, không hoàn thành được hạng mục hành động nào
+- Improvements không deadline → chỉ là mong muốn suông
+- Không review trong 24h → trí nhớ đã loãng
 
 ---
 

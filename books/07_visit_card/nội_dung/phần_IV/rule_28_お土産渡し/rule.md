@@ -18,12 +18,16 @@ Cuối bữa dinner Q1 lúc 21:00, sau trà kết thúc course. Dũng trao omiya
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「あ、これお土産です。」（紙袋ごと机に置く） |
-| **ズン** | 「ベトナムの高級ブランドのコーヒーで、5千円もするんですよ。」 |
-| **大垣営業部長** | （少し戸惑い）「あ、はい、ありがとうございます…」 |
-| **リン** | （後で）「ズン先輩、紙袋ごとってダメだったんですよね…？」 |
+| **ズン** | 「あ、これ<ruby>お土産<rt>おみやげ</rt></ruby>です。」（<ruby>紙袋<rt>かみぶくろ</rt></ruby>ごと<ruby>机<rt>つくえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>く） |
+|  | *À, đây là omiyage. (đặt cả túi giấy lên bàn)* |
+| **ズン** | 「ベトナムの<ruby>高級<rt>こうきゅう</rt></ruby>ブランドのコーヒーで、5<ruby>千円<rt>せんえん</rt></ruby>もするんですよ。」 |
+|  | *Cà phê brand cao cấp Việt Nam, đến 5 nghìn yên đấy ạ.* |
+| **大垣営業部長** | （<ruby>少<rt>すこ</rt></ruby>し<ruby>戸惑<rt>とまど</rt></ruby>い）「あ、はい、ありがとうございます…」 |
+|  | *(hơi bối rối) À vâng, cảm ơn anh...* |
+| **リン** | （<ruby>後<rt>あと</rt></ruby>で）「ズン<ruby>先輩<rt>せんぱい</rt></ruby>、<ruby>紙袋<rt>かみぶくろ</rt></ruby>ごとってダメだったんですよね…？」 |
+|  | *(sau đó) Anh Dũng, đưa cả túi là không đúng phải không ạ...?* |
 
-**Vì sao xấu:** (1) Đưa cả túi giấy = NG. Phải lấy quà ra khỏi túi, đưa 2 tay cho khách. (2) "Brand cao cấp 5 nghìn yên đó" = khoe giá = ngược tinh thần Nhật khiêm nhường. (3) Đặt bừa lên bàn không trao tận tay từng người = thất lễ.
+**Vì sao xấu:** (1) Đưa cả túi giấy = NG. Phải lấy quà ra khỏi túi, đưa 2 tay cho khách. (2) "Thương hiệu cao cấp 5 nghìn yên đó" = khoe giá = ngược tinh thần Nhật khiêm nhường. (3) Đặt bừa lên bàn không trao tận tay từng người = thất lễ.
 
 ---
 
@@ -31,16 +35,23 @@ Cuối bữa dinner Q1 lúc 21:00, sau trà kết thúc course. Dũng trao omiya
 
 | Vai | Câu |
 |---------|-----|
-| **ハーCTO** | 「それでは、ささやかではございますが、ベトナムからお土産をご用意いたしました。ズン、お渡ししてください。」 |
-| **ズン** | 「中村様、つまらないものですが、お受け取りください。」【1】 |
-| **ズン** | （紙袋から出して、文字向きを相手側にし、両手で差し出す）【2】 |
-| **ズン** | 「ベトナムの高地で取れたコーヒーで、皆様で召し上がっていただければ幸いです。」【3】 |
-| **中村CFO** | （起立気味で両手で受け取る）「頂戴いたします。お心遣いありがとうございます。」 |
-| **ズン** | （続いて大垣様 → 松本様 → 田中様の順で同じ手順）【4】 |
-| **リン** | （ズンの隣で観察、メモ）「紙袋から出す → 文字向き → 両手 → 上位者順、ですね。」 |
+| **ハーCTO** | 「それでは、ささやかではございますが、ベトナムから<ruby>お土産<rt>おみやげ</rt></ruby>をご<ruby>用意<rt>ようい</rt></ruby>いたしました。ズン、お<ruby>渡<rt>わた</rt></ruby>ししてください。」 |
+|  | *Vậy thì, tuy đơn sơ, bên em đã chuẩn bị chút quà từ Việt Nam. Dũng, em trao đi.* |
+| **ズン** | 「<ruby>中村<rt>なかむら</rt></ruby>様、つまらないものですが、お<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>りください。」【1】 |
+|  | *Anh Nakamura, đây là chút quà mọn, mong anh nhận giúp em ạ.* |
+| **ズン** | （<ruby>紙袋<rt>かみぶくろ</rt></ruby>から<ruby>出<rt>だ</rt></ruby>して、<ruby>文字<rt>もじ</rt></ruby><ruby>向<rt>む</rt></ruby>きを<ruby>相手<rt>あいて</rt></ruby><ruby>側<rt>がわ</rt></ruby>にし、<ruby>両手<rt>りょうて</rt></ruby>で<ruby>差<rt>さ</rt></ruby>し<ruby>出<rt>だ</rt></ruby>す）【2】 |
+|  | *(lấy quà ra khỏi túi giấy, xoay mặt chữ về phía khách, đưa 2 tay)* |
+| **ズン** | 「ベトナムの<ruby>高地<rt>こうち</rt></ruby>で<ruby>取<rt>と</rt></ruby>れたコーヒーで、<ruby>皆様<rt>みなさま</rt></ruby>で<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がっていただければ<ruby>幸<rt>さいわ</rt></ruby>いです。」【3】 |
+|  | *Cà phê trồng ở vùng cao Việt Nam, mong cả nhà mình cùng thưởng thức ạ.* |
+| **中村CFO** | （<ruby>起立<rt>きりつ</rt></ruby><ruby>気味<rt>ぎみ</rt></ruby>で<ruby>両手<rt>りょうて</rt></ruby>で<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>る）「<ruby>頂戴<rt>ちょうだい</rt></ruby>いたします。お<ruby>心遣<rt>こころづか</rt></ruby>いありがとうございます。」 |
+|  | *(hơi nhổm dậy nhận bằng 2 tay) Tôi xin nhận. Cảm ơn tấm lòng các anh.* |
+| **ズン** | （<ruby>続<rt>つづ</rt></ruby>いて<ruby>大垣<rt>おおがき</rt></ruby>様 → <ruby>松本<rt>まつもと</rt></ruby>様 → <ruby>田中<rt>たなか</rt></ruby>様の<ruby>順<rt>じゅん</rt></ruby>で<ruby>同<rt>おな</rt></ruby>じ<ruby>手順<rt>てじゅん</rt></ruby>）【4】 |
+|  | *(tiếp tục anh Ōgaki → anh Matsumoto → anh Tanaka theo cùng trình tự)* |
+| **リン** | （ズンの<ruby>隣<rt>となり</rt></ruby>で<ruby>観察<rt>かんさつ</rt></ruby>、メモ）「<ruby>紙袋<rt>かみぶくろ</rt></ruby>から<ruby>出<rt>だ</rt></ruby>す → <ruby>文字<rt>もじ</rt></ruby><ruby>向<rt>む</rt></ruby>き → <ruby>両手<rt>りょうて</rt></ruby> → <ruby>上位者<rt>じょういしゃ</rt></ruby><ruby>順<rt>じゅん</rt></ruby>、ですね。」 |
+|  | *(ngồi cạnh Dũng quan sát, ghi chú) Lấy ra khỏi túi → mặt chữ → 2 tay → trao theo thứ tự cấp bậc, ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**「つまらないものですが」** — câu khiêm nhường cố định. Dù thật sự cao cấp vẫn nói "không đáng gì". Khoe giá / brand / độ hiếm = đại kỵ.
+- 【1】**「つまらないものですが」** — câu khiêm nhường cố định. Dù thật sự cao cấp vẫn nói "không đáng gì". Khoe giá / thương hiệu / độ hiếm = đại kỵ.
 - 【2】**Túi chỉ để mang** — lúc trao = lấy ra khỏi túi, hướng chữ về phía khách, đưa 2 tay. Túi giấy bỏ đi (kiểu Nhật).
 - 【3】**Giải thích = "xuất xứ + cách dùng"** thôi. Giá tuyệt đối không. "Cả nhà cùng dùng" = dấu hiệu có thể chia trong cty.
 - 【4】**Thứ tự**: CFO Nakamura → trưởng Ōgaki → PM Matsumoto → PMO Tanaka. Trao từng người, mỗi người đứng / nhổm dậy nhận bằng 2 tay.
@@ -58,7 +69,7 @@ Cuối bữa dinner Q1 lúc 21:00, sau trà kết thúc course. Dũng trao omiya
 ## ⚠ Tránh
 
 - Đưa cả túi giấy — NG, phải lấy ra
-- Khoe giá / brand / độ hiếm — phá tinh thần khiêm nhường
+- Khoe giá / thương hiệu / độ hiếm — phá tinh thần khiêm nhường
 - Đặt bừa lên bàn không trao tận tay — thất lễ
 - Giục khách mở quà tại chỗ — ép khách
 - Túi giấy logo công ty mình to chiếm hết — trông như quảng cáo

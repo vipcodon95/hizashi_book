@@ -21,9 +21,12 @@ Sau lobby exchange, đoàn vào phòng họp. Ōgaki - Nakamura - Matsumoto ng�
 | Vai | Câu |
 |---------|-----|
 | **リン** | *(im lặng đặt chồng)* |
-| **ズン** | 「えっと、**松本部長**…あ、すみません、**大垣部長**でした…」 |
-| **大垣** | 「…大垣です。」 |
-| **フオン副部長** | 「リンさん、名刺は座席順に並べて。重ねたら誰が誰か分からなくなるの。」 |
+| **ズン** | 「えっと、**<ruby>松本<rt>まつもと</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>**…あ、すみません、**<ruby>大垣<rt>おおがき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>**でした…」 |
+|  | *Ơ... Matsumoto 部長... à xin lỗi, là Ōgaki 部長 ạ...* |
+| **大垣** | 「…<ruby>大垣<rt>おおがき</rt></ruby>です。」 |
+|  | *...Tôi là Ōgaki.* |
+| **フオン副部長** | 「リンさん、名刺は<ruby>座席順<rt>ざせきじゅん</rt></ruby>に<ruby>並<rt>なら</rt></ruby>べて。<ruby>重<rt>かさ</rt></ruby>ねたら<ruby>誰<rt>だれ</rt></ruby>が<ruby>誰<rt>だれ</rt></ruby>か<ruby>分<rt>わ</rt></ruby>からなくなるの。」 |
+|  | *Linh, danh thiếp phải xếp theo thứ tự chỗ ngồi. Xếp chồng thì không phân biệt được ai với ai đâu.* |
 
 **Vì sao xấu:** Linh xếp chồng → Dũng không nhìn thấy danh thiếp → gọi nhầm chức vụ "松本部長" (Matsumoto là PM, không phải 部長) → Ōgaki tưởng bị gọi nhầm người. Trong meeting JP, gọi sai tên/chức = giảm độ tin cậy ngay trong 15 phút đầu.
 
@@ -35,11 +38,16 @@ Sau lobby exchange, đoàn vào phòng họp. Ōgaki - Nakamura - Matsumoto ng�
 
 | Vai | Câu |
 |---------|-----|
-| **リン** | *(thì thầm tự nhắc) 「中村CFO…大垣部長…松本PM…」* |
-| **ズン** | 「**中村CFO**、本日の最初のご質問は…」 |
-| **中村CFO** | 「はい、中村です。」 |
-| **フオン副部長** | 「**大垣部長**、Phase 3のスコープについて…」 |
-| **大垣** | 「はい、大垣です。」 |
+| **リン** | *(thì thầm tự nhắc) 「<ruby>中村<rt>なかむら</rt></ruby>CFO…<ruby>大垣<rt>おおがき</rt></ruby>部長…<ruby>松本<rt>まつもと</rt></ruby>PM…」* |
+|  | *(thì thầm) Nakamura CFO... Ōgaki 部長... Matsumoto PM... (đặt theo seat order)* |
+| **ズン** | 「**<ruby>中村<rt>なかむら</rt></ruby>CFO**、<ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>最初<rt>さいしょ</rt></ruby>のご<ruby>質問<rt>しつもん</rt></ruby>は…」 |
+|  | *Anh Nakamura CFO, câu hỏi đầu tiên hôm nay là...* |
+| **中村CFO** | 「はい、<ruby>中村<rt>なかむら</rt></ruby>です。」 |
+|  | *Vâng, Nakamura đây.* |
+| **フオン副部長** | 「**<ruby>大垣<rt>おおがき</rt></ruby>部長**、Phase 3のスコープについて…」 |
+|  | *Anh Ōgaki 部長, về phạm vi Phase 3...* |
+| **大垣** | 「はい、<ruby>大垣<rt>おおがき</rt></ruby>です。」 |
+|  | *Vâng, Ōgaki đây.* |
 | **リン** | *(lúc đó mới thu lại 3 danh thiếp 2 tay xếp ngay ngắn vào hộp)*【2】 |
 
 📝 **Ghi chú:**
@@ -62,7 +70,7 @@ Sau lobby exchange, đoàn vào phòng họp. Ōgaki - Nakamura - Matsumoto ng�
 - **Cất túi giữa meeting** → "tôi xong với anh rồi" = mất face
 - Đặt danh thiếp **bừa** (không theo seat) → gọi nhầm tên = mất uy
 - Để danh thiếp **rớt xuống đất** → KHÔNG dùng chân nhặt, dừng meeting cúi nhặt 2 tay + xin lỗi
-- **Viết / vẽ / gấp** lên danh thiếp giữa meeting → nếu cần ghi note context, dùng sổ riêng (rule 07)
+- **Viết / vẽ / gấp** lên danh thiếp giữa meeting → nếu cần ghi chú bối cảnh, dùng sổ riêng (rule 07)
 - **Đặt vật khác lên trên** danh thiếp (cốc nước, sổ) → tuyệt đối không
 
 ---

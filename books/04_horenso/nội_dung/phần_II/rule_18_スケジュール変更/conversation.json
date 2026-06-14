@@ -9,7 +9,9 @@
     "ja": "ズンが社内事情で松本様との定例会議をリスケする必要がある場面。3時間前 + 1候補の悪い例から、24時間前 + 3候補 + カレンダー更新責任の良い例へ。",
     "vi": "Em Dũng cần reschedule họp định kỳ với anh Matsumoto do việc nội bộ. Từ pattern xấu (báo trước 3 giờ + 1 option) sang đúng (24h trước + 3 options + chịu trách nhiệm update lịch)."
   },
-  "related_rules": ["rule_14"],
+  "related_rules": [
+    "rule_14"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -104,7 +106,9 @@
           "sentence": "ありがとうございます。こちらでカレンダー更新 + 新規招待をお送りします。会議室・Zoom リンクも変更不要です。",
           "sentence_translation": "Em cảm ơn anh ạ. Em sẽ update lịch và gửi invite mới. Phòng họp và link Zoom không cần đổi ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_18_good_04",
@@ -143,12 +147,12 @@
       "skill": "表現読解",
       "question_ja": "リスケ連絡で最も避けるべきパターンは？",
       "options": [
-        "24時間前に候補3つを送る",
+        "カレンダー更新を自分で行う",
         "件名にリスケと明記する",
-        "3時間前に候補1つだけ送る",
-        "カレンダー更新を自分で行う"
+        "24時間前に候補3つを送る",
+        "3時間前に候補1つだけ送る"
       ],
-      "correct": "C",
+      "correct": "D",
       "explanation": {
         "ja": "直前の連絡 + 候補不足 + カレンダー更新を相手任せはリスケ最悪パターン。24時間前 + 候補3つ + 自分で更新が原則。",
         "vi": "Báo sát giờ + thiếu option + bắt khách tự update là pattern tệ nhất. Đúng: 24h trước + 3 option + tự update."

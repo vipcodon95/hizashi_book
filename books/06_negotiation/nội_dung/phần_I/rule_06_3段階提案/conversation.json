@@ -9,7 +9,11 @@
     "ja": "Phase 3 提案 deck 準備。Dũng が1案で出そうとしたのを Hương が3段階(Good/Better/Best)に直すよう指示する場面。",
     "vi": "Chuẩn bị deck Phase 3. Dũng định đưa 1 phương án, chị Hương yêu cầu sửa thành 3-tier Good/Better/Best."
   },
-  "related_rules": ["rule_05", "rule_19", "rule_21"],
+  "related_rules": [
+    "rule_05",
+    "rule_19",
+    "rule_21"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -96,7 +100,9 @@
           "sentence": "3 段階提案を作成しました。Good ¥14M / Better ¥18M / Best ¥24M。Better を recommended 表示、Good は AI engine なし basic 版、Best は専任 SRE 含む full 版です。",
           "sentence_translation": "Em đã tạo 3-tier ạ. Good ¥14M / Better ¥18M / Best ¥24M. Better đánh dấu 'recommended', Good là bản basic không AI engine, Best là full kèm SRE chuyên trách ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_06_good_02",
@@ -115,7 +121,9 @@
           "sentence": "Good は AI レコメンドなし、SLA 99.5% (Better は 99.9%)、サポート営業時間のみ。白鷗の Phase 3 目的「売上 +¥80M」には実質届かない設計です。",
           "sentence_translation": "Good không có AI recommend, SLA 99.5% (Better 99.9%), support chỉ trong giờ hành chính. Thiết kế thực chất không đạt mục tiêu Phase 3 'doanh thu +¥80M' của Hakuō ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_06_good_04",
@@ -134,7 +142,9 @@
           "sentence": "Best は専任 SRE 1 名常駐、SLA 99.99%、24/7 サポート、優先機能開発。CFO 中村さんの「コスト圧縮」トーンに照らすと「出しすぎ」感を出す設計です。",
           "sentence_translation": "Best có 1 SRE chuyên trách túc trực, SLA 99.99%, support 24/7, ưu tiên dev feature. Đối chiếu tone 'nén chi phí' của CFO Nakamura, thiết kế để cảm 'chi quá tay' ạ.",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_06_good_06",
@@ -167,8 +177,8 @@
       "options": [
         "顧客に最安値を選ばせるため",
         "顧客が「これではニーズに届かない」と自覚し、Better を選ぶよう誘導するため",
-        "競合に Good の価格を見せるため",
-        "原価を下げるため"
+        "原価を下げるため",
+        "競合に Good の価格を見せるため"
       ],
       "correct": "B",
       "explanation": {

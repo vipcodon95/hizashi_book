@@ -1,6 +1,6 @@
 # Rule 07 — Pre-meeting check-in nội bộ / 事前すり合わせ
 
-> **Luận điểm.** Trước họp khách 30 phút phải có **「事前すり合わせ」** (pre-alignment) trong team mình: (1) ai nói cái gì (役割分担), (2) chỗ có thể conflict ý kiến nội bộ → thống nhất trước, (3) ranh giới không nhượng (giá / scope).
+> **Luận điểm.** Trước họp khách 30 phút phải có **「事前すり合わせ」** (thống nhất nội bộ trước) trong team mình: (1) ai nói cái gì (役割分担), (2) chỗ có thể mâu thuẫn ý kiến nội bộ → thống nhất trước, (3) ranh giới không nhượng (giá / phạm vi công việc).
 >
 > 客との会議の30分前に内部すり合わせ：①誰が何を話すか ②内部で意見が割れる論点を先に統一 ③譲れない条件（価格・スコープ）の確認。
 >
@@ -14,18 +14,22 @@ Họp đàm phán phase 2 với 大垣営業部長 + 松本PM. Chị Hương (�
 
 ---
 
-## ❌ Hội thoại XẤU — không すり合わせ trước, conflict trong họp
+## ❌ Hội thoại XẤU — không すり合わせ trước, mâu thuẫn trong họp
 
 *会議内、急に · 反射的に · ズンを見て驚く · 冷たく*
 
 | Vai | Câu |
 |---------|-----|
-| **大垣** | 「Phase 2 の納期、5月末 → 5月15日に前倒しできますか？」 |
-| **ズン** | 「がんばります、何とか調整いたします。」 |
-| **トゥアン** | 「いや待って…技術的に5月15日は厳しいです。テストフェーズで2週間必要で…」 |
-| **大垣** | 「お二人で意見が違うようですね。社内で先に話し合っていただいたほうが…」 |
+| **大垣** | 「Phase 2 の<ruby>納期<rt>のうき</rt></ruby>、5月末 → 5月15日に<ruby>前倒<rt>まえだお</rt></ruby>しできますか？」 |
+|  | *Deadline Phase 2 — đẩy từ cuối tháng 5 lên 15/5 được không?* |
+| **ズン** | 「がんばります、<ruby>何<rt>なん</rt></ruby>とか<ruby>調整<rt>ちょうせい</rt></ruby>いたします。」 |
+|  | *Em sẽ cố gắng ạ, em sẽ thu xếp ạ.* |
+| **トゥアン** | 「いや待って…<ruby>技術的<rt>ぎじゅつてき</rt></ruby>に5月15日は<ruby>厳<rt>きび</rt></ruby>しいです。テストフェーズで2週間<ruby>必要<rt>ひつよう</rt></ruby>で…」 |
+|  | *Khoan đã... mặt kỹ thuật 15/5 khó lắm. Phase test cần 2 tuần...* |
+| **大垣** | 「お二人で<ruby>意見<rt>いけん</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>うようですね。<ruby>社内<rt>しゃない</rt></ruby>で先に<ruby>話<rt>はな</rt></ruby>し合っていただいたほうが…」 |
+|  | *Hai bạn ý kiến khác nhau nhỉ. Nội bộ nên thống nhất trước thì hơn...* |
 
-**Vì sao xấu:** BD reflexively "がんばります" trong khi tech chưa OK = team chưa thống nhất nội bộ. Khách nhìn thấy conflict = mất tin tưởng. Phải giải quyết trong nội bộ TRƯỚC khi vào họp.
+**Vì sao xấu:** BD phản xạ "がんばります" trong khi tech chưa đồng ý = team chưa thống nhất nội bộ. Khách nhìn thấy mâu thuẫn = mất tin tưởng. Phải giải quyết trong nội bộ TRƯỚC khi vào họp.
 
 ---
 
@@ -35,13 +39,17 @@ Họp đàm phán phase 2 với 大垣営業部長 + 松本PM. Chị Hương (�
 
 | Vai | Câu |
 |---------|-----|
-| **フオン** | 「本日は納期前倒しの話が出る可能性が高い。トゥアン、技術的に5月20日が現実的なライン？【1】」 |
-| **トゥアン** | 「はい、5月20日まで前倒し可能。それより前は品質リスクあります。」 |
-| **フオン** | 「了解。ズン、もし大垣様が『5月15日』と言っても即答せず、『5月20日であればコミットできます』と返してね【2】。私が必要に応じてフォローする。」 |
-| **ズン** | 「承知しました。Plan B として『5月15日要望なら追加リソース3人分の見積もり』も用意しておきます。」 |
+| **フオン** | 「<ruby>本日<rt>ほんじつ</rt></ruby>は<ruby>納期<rt>のうき</rt></ruby><ruby>前倒<rt>まえだお</rt></ruby>しの話が出る<ruby>可能性<rt>かのうせい</rt></ruby>が高い。トゥアン、<ruby>技術的<rt>ぎじゅつてき</rt></ruby>に5月20日が<ruby>現実的<rt>げんじつてき</rt></ruby>なライン？【1】」 |
+|  | *Hôm nay khả năng cao bên kia sẽ đề nghị đẩy deadline. Tuấn, mặt kỹ thuật 20/5 có phải lằn ranh thực tế?* |
+| **トゥアン** | 「はい、5月20日まで<ruby>前倒<rt>まえだお</rt></ruby>し<ruby>可能<rt>かのう</rt></ruby>。それより前は<ruby>品質<rt>ひんしつ</rt></ruby>リスクあります。」 |
+|  | *Vâng, đẩy lên 20/5 được. Sớm hơn nữa thì có rủi ro chất lượng.* |
+| **フオン** | 「<ruby>了解<rt>りょうかい</rt></ruby>。ズン、もし<ruby>大垣<rt>おおがき</rt></ruby>様が『5月15日』と言っても<ruby>即答<rt>そくとう</rt></ruby>せず、『5月20日であればコミットできます』と返してね【2】。私が<ruby>必要<rt>ひつよう</rt></ruby>に応じてフォローする。」 |
+|  | *OK. Dũng, nếu anh Ōgaki nói '15/5' thì đừng trả lời ngay, em đáp 'nếu 20/5 thì em commit được' nhé. Khi cần chị sẽ follow thêm.* |
+| **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。Plan B として『5月15日<ruby>要望<rt>ようぼう</rt></ruby>なら<ruby>追加<rt>ついか</rt></ruby>リソース3人分の<ruby>見積<rt>みつ</rt></ruby>もり』も<ruby>用意<rt>ようい</rt></ruby>しておきます。」 |
+|  | *Em rõ rồi ạ. Plan B em chuẩn bị sẵn báo giá 3 người resource bổ sung trong trường hợp họ muốn 15/5 ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**「現実的なライン」** = "đường giới hạn realistic". Cụm tech lead / management dùng nhiều khi thống nhất trước họp.
+- 【1】**「現実的なライン」** = "lằn ranh thực tế". Cụm tech lead / quản lý dùng nhiều khi thống nhất trước họp.
 - 【2】**「即答せず」** = "đừng trả lời ngay". Chỉ thị quan trọng cho nhân viên cấp dưới khi vào họp đàm phán.
 
 ---
@@ -56,8 +64,8 @@ Họp đàm phán phase 2 với 大垣営業部長 + 松本PM. Chị Hương (�
 
 ## ⚠ Tránh
 
-- BD reflexively "がんばります" mà chưa hỏi tech → tech lập tức bị đặt vào tình huống khó.
-- Không xác định ranh giới không nhượng về giá / scope → đàm phán xong mới phát hiện vượt giới hạn.
+- BD phản xạ "がんばります" mà chưa hỏi tech → tech lập tức bị đặt vào tình huống khó.
+- Không xác định ranh giới không nhượng về giá / phạm vi công việc → đàm phán xong mới phát hiện vượt giới hạn.
 - すり合わせ làm 5 phút trước họp ở hành lang → không đủ thời gian thống nhất.
 - Nhân viên trẻ nói nhiều hơn cấp trên trong すり合わせ → cấp trên chưa kịp định chiến lược.
 

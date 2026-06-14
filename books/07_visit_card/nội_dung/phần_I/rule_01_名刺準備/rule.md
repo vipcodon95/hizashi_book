@@ -21,10 +21,14 @@ Tháng 6/2026, đoàn 大垣 + 松本 + 中村 (3 người 白鷗) đến HCMC v
 
 | Vai | Câu |
 |---------|-----|
-| **リン** | 「ズン先輩、明日の名刺、財布の中に5枚ぐらい入れておけば大丈夫ですよね？」 |
-| **ズン** | 「えっ、財布？それから5枚？大垣さん・松本様・中村CFO 3人 + 通訳 + 我々 4人 + buffer = 最低 14枚必要だよ。それと、財布じゃなくて専用ケース。**今すぐ印刷部屋へ**。」 |
-| **リン** | 「あっ、すみません！printer も…えっと、英語面ありませんでした…」 |
-| **ズン** | 「明朝までに JP 面 + EN 面のレイアウトで 50枚印刷して。**専用ケース**は受付に予備があるはず。」 |
+| **リン** | 「ズン先輩、明日の<ruby>名刺<rt>めいし</rt></ruby>、<ruby>財布<rt>さいふ</rt></ruby>の中に5枚ぐらい入れておけば大丈夫ですよね？」 |
+|  | *Anh Dũng, danh thiếp mai để 5 tờ trong ví là được phải không ạ?* |
+| **ズン** | 「えっ、<ruby>財布<rt>さいふ</rt></ruby>？それから5枚？<ruby>大垣<rt>おおがき</rt></ruby>さん・<ruby>松本<rt>まつもと</rt></ruby>様・<ruby>中村<rt>なかむら</rt></ruby>CFO 3人 + <ruby>通訳<rt>つうやく</rt></ruby> + <ruby>我々<rt>われわれ</rt></ruby> 4人 + buffer = <ruby>最低<rt>さいてい</rt></ruby> 14枚<ruby>必要<rt>ひつよう</rt></ruby>だよ。それと、<ruby>財布<rt>さいふ</rt></ruby>じゃなくて<ruby>専用<rt>せんよう</rt></ruby>ケース。**今すぐ<ruby>印刷<rt>いんさつ</rt></ruby>部屋へ**。」 |
+|  | *Hả, ví? Mới 5 tờ? Anh Ōgaki, anh Matsumoto, anh Nakamura CFO = 3 người, thêm thông dịch, bên mình 4 người, cộng dự phòng = tối thiểu 14 tờ. Với lại không phải ví, phải là hộp riêng. Em qua phòng in ngay.* |
+| **リン** | 「あっ、すみません！printer も…えっと、<ruby>英語<rt>えいご</rt></ruby>面ありませんでした…」 |
+|  | *Ơ, em xin lỗi! printer cũng... ờ, mặt tiếng Anh em chưa có ạ...* |
+| **ズン** | 「<ruby>明朝<rt>みょうちょう</rt></ruby>までに JP 面 + EN 面のレイアウトで 50枚<ruby>印刷<rt>いんさつ</rt></ruby>して。**<ruby>専用<rt>せんよう</rt></ruby>ケース**は<ruby>受付<rt>うけつけ</rt></ruby>に<ruby>予備<rt>よび</rt></ruby>があるはず。」 |
+|  | *Sáng mai trước 8h em phải in xong 50 tờ với layout JP + EN. Hộp danh thiếp ở lễ tân có dự phòng.* |
 
 **Vì sao xấu:** Linh nghĩ danh thiếp = "nhân vật phụ", chuẩn bị qua loa. Nhật coi danh thiếp = đại diện công ty + cá nhân. Vào cuộc gặp với 5 tờ trong ví = lộ ngay junior chưa được train.
 
@@ -36,15 +40,19 @@ Tháng 6/2026, đoàn 大垣 + 松本 + 中村 (3 người 白鷗) đến HCMC v
 
 | Vai | Câu |
 |---------|-----|
-| **リン** | 「ズン先輩、明日の名刺準備の **4条件チェック**完了しました【1】。」 |
+| **リン** | 「ズン先輩、明日の<ruby>名刺<rt>めいし</rt></ruby><ruby>準備<rt>じゅんび</rt></ruby>の **4<ruby>条件<rt>じょうけん</rt></ruby>チェック**完了しました【1】。」 |
+|  | *Anh Dũng, em đã check xong 4 điều kiện chuẩn bị danh thiếp cho mai ạ.* |
 | **ズン** | 「いいね、見せて。」 |
-| **リン** | 「① 専用ケース: 名刺入れ持参済 ② 両面 JP/EN: 印刷完了 (見本写真) ③ 数: 14枚 + buffer 6枚 = 20枚【2】 ④ 誤字チェック: トゥアン先輩にダブルチェック済【3】。」 |
-| **ズン** | 「完璧。明日朝 8:30 全員集合、名刺確認 → ロビー 9:15 待機 → 9:30 大垣ご一行到着。」 |
+|  | *Tốt, em đưa anh xem.* |
+| **リン** | 「① <ruby>専用<rt>せんよう</rt></ruby>ケース: <ruby>名刺入<rt>めいしい</rt></ruby>れ<ruby>持参済<rt>じさんずみ</rt></ruby> ② <ruby>両面<rt>りょうめん</rt></ruby> JP/EN: <ruby>印刷<rt>いんさつ</rt></ruby>完了 (<ruby>見本写真<rt>みほんしゃしん</rt></ruby>) ③ 数: 14枚 + buffer 6枚 = 20枚【2】 ④ <ruby>誤字<rt>ごじ</rt></ruby>チェック: トゥアン先輩に<ruby>ダブルチェック済<rt>ダブルチェックずみ</rt></ruby>【3】。」 |
+|  | *① Hộp riêng: hộp danh thiếp đã có. ② 2 mặt JP/EN: đã in (ảnh mẫu đính kèm). ③ Số lượng: 14 + dự phòng 6 = 20 tờ. ④ Check typo: anh Tuấn kiểm tra lại rồi ạ.* |
+| **ズン** | 「完璧。明日朝 8:30 全員<ruby>集合<rt>しゅうごう</rt></ruby>、<ruby>名刺<rt>めいし</rt></ruby><ruby>確認<rt>かくにん</rt></ruby> → ロビー 9:15 <ruby>待機<rt>たいき</rt></ruby> → 9:30 <ruby>大垣<rt>おおがき</rt></ruby><ruby>ご一行<rt>ごいっこう</rt></ruby><ruby>到着<rt>とうちゃく</rt></ruby>。」 |
+|  | *Tuyệt. Mai 8:30 tập hợp, check danh thiếp → 9:15 lobby chờ → 9:30 đoàn anh Ōgaki đến.* |
 
 📝 **Ghi chú:**
-- 【1】**「4条件チェック」** — name card check trước event tối thiểu chiều hôm trước. Sáng cùng ngày = quá muộn nếu cần in lại.
-- 【2】**人数×2倍 + buffer** — phòng trường hợp khách dẫn theo người chưa biết (interpreter/đồng nghiệp). 6枚 buffer = 1 lần exchange-fail mà không panic.
-- 【3】**誤字チェック senior** — Tuấn (tech lead) kiểm tra lại. Một typo = nhớ mãi cả đời.
+- 【1】**「4条件チェック」** — kiểm tra danh thiếp trước sự kiện, tối thiểu từ chiều hôm trước. Sáng cùng ngày = quá muộn nếu cần in lại.
+- 【2】**人数×2倍 + buffer** — phòng trường hợp khách dẫn theo người chưa biết (thông dịch/đồng nghiệp). 6枚 buffer = 1 lần trao hụt mà không hốt hoảng.
+- 【3】**誤字チェック senior** — Tuấn (trưởng nhóm kỹ thuật) kiểm tra hai lượt. Một lỗi chính tả = nhớ mãi cả đời.
 
 ---
 
@@ -60,8 +68,8 @@ Tháng 6/2026, đoàn 大垣 + 松本 + 中村 (3 người 白鷗) đến HCMC v
 
 - Để danh thiếp trong **ví** → khi rút ra bị nhăn / mặt bẩn = mất face
 - In **chỉ 1 mặt JP** hoặc **chỉ EN** → khách Nhật cấp cao có thể không đọc được mặt còn lại
-- **Số lượng tính sát** (vừa đủ người mình thấy) → khách dẫn thêm interpreter / executive surprise = không đủ
-- Để **typo** trong tên / chức vụ / công ty → khách Nhật imprint ngay, sửa lần sau cũng không quên
+- **Số lượng tính sát** (vừa đủ người mình thấy) → khách dẫn thêm thông dịch / lãnh đạo bất ngờ = không đủ
+- Để **typo** trong tên / chức vụ / công ty → khách Nhật ghi nhớ ngay, sửa lần sau cũng không quên
 - Trao danh thiếp **cong / bị bẩn** → bằng không trao
 
 ---

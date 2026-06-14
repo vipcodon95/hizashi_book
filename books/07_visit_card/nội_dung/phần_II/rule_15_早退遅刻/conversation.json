@@ -9,7 +9,10 @@
     "ja": "Scenario A: 大垣9:15到着(15分早)→リン即会議室案内。Scenario B: 9:45時点未到着→ズンstatus確認電話、9:50到着時非言及で温かく迎える。",
     "vi": "A: Ōgaki đến 9:15 (sớm 15p) → Linh dẫn vào phòng ngay. B: 9:45 chưa đến → Dũng gọi status, 9:50 đến đón ấm không đề cập muộn."
   },
-  "related_rules": ["rule_08", "rule_12"],
+  "related_rules": [
+    "rule_08",
+    "rule_12"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -103,7 +106,9 @@
           "sentence_translation": "Không không, cảm ơn anh đã đến sớm ạ. Phòng họp đã chuẩn bị xong rồi, nếu được anh cho phép em đưa vào trước ạ.",
           "tone": "formal",
           "speed_multiplier": 0.95,
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_15_good_03",
@@ -131,7 +136,9 @@
           "sentence": "（slackでズン+フオン宛: 大垣様 9:15 ご到着、会議室Aご案内済。お茶配膳中。）",
           "sentence_translation": "(slack gửi Dũng + Hương: Anh Ōgaki đến 9:15, đã đưa vào phòng A. Đang phục vụ trà.)",
           "tone": "neutral",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         }
       ]
     },
@@ -174,7 +181,9 @@
           "sentence_translation": "Anh Ōgaki, em gọi xác nhận về buổi visit hôm nay ạ. Có chuyện gì không ạ?",
           "tone": "formal",
           "speed_multiplier": 0.95,
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_15_good_07",
@@ -194,7 +203,9 @@
           "sentence_translation": "An toàn là quan trọng nhất ạ. Phòng họp đã sẵn sàng rồi, mong anh đến cẩn thận.",
           "tone": "warm",
           "speed_multiplier": 0.95,
-          "annotation_ids": ["4"]
+          "annotation_ids": [
+            "4"
+          ]
         },
         {
           "line_id": "rule_15_good_09",
@@ -214,7 +225,9 @@
           "sentence_translation": "Hân hạnh được đón anh ạ. Anh vất vả ạ. Em xin phép dẫn anh vào phòng họp.",
           "tone": "warm",
           "speed_multiplier": 0.95,
-          "annotation_ids": ["5"]
+          "annotation_ids": [
+            "5"
+          ]
         }
       ]
     }
@@ -253,11 +266,11 @@
       "question_ja": "客が15分以上遅刻して到着した時、host の発話として最も不適切なのは？",
       "options": [
         "ようこそお越しくださいました",
+        "会議室にご案内いたします",
         "お疲れさまでございます",
-        "もう20分も経っていますね",
-        "会議室にご案内いたします"
+        "もう20分も経っていますね"
       ],
-      "correct": "C",
+      "correct": "D",
       "explanation": {
         "ja": "到着時は遅刻非言及が原則。passive-aggressive な発話は relationship を毀損。",
         "vi": "Đến nơi KHÔNG đề cập muộn. Câu passive-aggressive làm hỏng relationship."

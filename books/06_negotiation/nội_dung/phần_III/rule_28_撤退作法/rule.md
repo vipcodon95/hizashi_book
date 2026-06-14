@@ -20,9 +20,12 @@ Round 4: 大垣 + 中村 CFO push xuống ¥14M (dưới walk-away ¥15.5M). Hà
 
 | Vai | Câu |
 |---------|-----|
-| **大垣** | 「最終的に ¥14M でないと無理です。」 |
-| **ズン** | 「分かりました、では今回はなしで。残念ですね。Y 社さんに発注ということで…」 |
-| **大垣** | 「では失礼します。」 |
+| **大垣** | 「<ruby>最終的<rt>さいしゅうてき</rt></ruby>に ¥14M でないと<ruby>無理<rt>むり</rt></ruby>です。」 |
+|  | *Cuối cùng không phải ¥14M là không được.* |
+| **ズン** | 「分かりました、では今回はなしで。<ruby>残念<rt>ざんねん</rt></ruby>ですね。Y 社さんに<ruby>発注<rt>はっちゅう</rt></ruby>ということで…」 |
+|  | *Em rõ ạ, vậy lần này không vậy ạ. Tiếc nhỉ. Vậy quý anh đặt Y社 ạ...* |
+| **大垣** | 「では<ruby>失礼<rt>しつれい</rt></ruby>します。」 |
+|  | *Vậy chào em.* |
 
 **Vì sao xấu:** "残念" + reference Y社 = thái độ thù địch gián tiếp. Door closed. Phase 4 không có cơ hội. Tone "失敗" rõ ràng.
 
@@ -35,11 +38,17 @@ Round 4: 大垣 + 中村 CFO push xuống ¥14M (dưới walk-away ¥15.5M). Hà
 | Vai | Câu |
 |---------|-----|
 | **大垣** | 「最終的に ¥14M でないと無理です。」 |
-| **ズン** | 「**ご検討、本当にありがとうございました**【1】。¥14M でしたら弊社のご提供できる scope では Phase 3 当初目的の達成が困難となり、結果的に御社にご迷惑をおかけしてしまいます。」 |
-| **ズン** | 「**今回は条件面で折り合いがつかず、誠に残念ではございますが、本件はここでクローズとさせていただければと存じます**【2】。」 |
-| **ズン** | 「**Phase 2 でのご縁は弊社にとって大変貴重な経験でございます**。**今後御社の事業環境が変わり、またご縁がございましたら、ぜひお声がけください。再度ご一緒できる機会、ぜひお声がけください**【3】。例えば Phase 4 や別案件のご相談、いつでも歓迎いたします。」 |
-| **大垣** | 「ご丁寧にありがとうございます。今回は条件が合いませんでしたが、Phase 2 での協業は弊社としても評価しております。今後何かあれば、こちらからもお声がけします。」 |
-| **ハー CTO** | 「ありがとうございます。本日のお時間、感謝いたします。」 |
+|  | *Cuối cùng không phải ¥14M là không được.* |
+| **ズン** | 「**ご<ruby>検討<rt>けんとう</rt></ruby>、本当にありがとうございました**【1】。¥14M でしたら<ruby>弊社<rt>へいしゃ</rt></ruby>のご<ruby>提供<rt>ていきょう</rt></ruby>できる scope では Phase 3 <ruby>当初<rt>とうしょ</rt></ruby><ruby>目的<rt>もくてき</rt></ruby>の<ruby>達成<rt>たっせい</rt></ruby>が<ruby>困難<rt>こんなん</rt></ruby>となり、<ruby>結果的<rt>けっかてき</rt></ruby>に<ruby>御社<rt>おんしゃ</rt></ruby>にご<ruby>迷惑<rt>めいわく</rt></ruby>をおかけしてしまいます。」 |
+|  | *Em xin chân thành cảm ơn quý anh đã xem xét. ¥14M thì với scope bên em có thể cung cấp, đạt mục tiêu Phase 3 ban đầu khó, kết quả cuối lại làm phiền quý cty ạ.* |
+| **ズン** | 「**今回は<ruby>条件面<rt>じょうけんめん</rt></ruby>で<ruby>折<rt>お</rt></ruby>り<ruby>合<rt>あ</rt></ruby>いがつかず、<ruby>誠<rt>まこと</rt></ruby>に<ruby>残念<rt>ざんねん</rt></ruby>ではございますが、<ruby>本件<rt>ほんけん</rt></ruby>はここでクローズとさせていただければと<ruby>存<rt>ぞん</rt></ruby>じます**【2】。」 |
+|  | *Lần này điều kiện chưa khớp, em thực sự rất tiếc, xin phép cho em được khép lại vụ việc tại đây ạ.* |
+| **ズン** | 「**Phase 2 でのご<ruby>縁<rt>えん</rt></ruby>は弊社にとって<ruby>大変<rt>たいへん</rt></ruby><ruby>貴重<rt>きちょう</rt></ruby>な<ruby>経験<rt>けいけん</rt></ruby>でございます**。**今後御社の<ruby>事業<rt>じぎょう</rt></ruby><ruby>環境<rt>かんきょう</rt></ruby>が変わり、<ruby>再度<rt>さいど</rt></ruby>ご一緒できる<ruby>機会<rt>きかい</rt></ruby>がございましたら、ぜひお<ruby>声<rt>こえ</rt></ruby>がけください**【3】。例えば Phase 4 や<ruby>別案件<rt>べつあんけん</rt></ruby>のご<ruby>相談<rt>そうだん</rt></ruby>、いつでも<ruby>歓迎<rt>かんげい</rt></ruby>いたします。」 |
+|  | *Mối duyên ở Phase 2 là trải nghiệm rất quý với bên em ạ. Sau này nếu môi trường kinh doanh quý cty thay đổi, có cơ hội đồng hành lại, xin quý anh liên hệ em ạ. Ví dụ Phase 4 hay dự án khác, em luôn hoan nghênh ạ.* |
+| **大垣** | 「ご<ruby>丁寧<rt>ていねい</rt></ruby>にありがとうございます。今回は条件が合いませんでしたが、Phase 2 での<ruby>協業<rt>きょうぎょう</rt></ruby>は弊社としても<ruby>評価<rt>ひょうか</rt></ruby>しております。今後何かあれば、こちらからもお声がけします。」 |
+|  | *Cảm ơn em đã chu đáo. Lần này điều kiện chưa khớp, nhưng hợp tác Phase 2 bên tôi cũng đánh giá tốt. Sau này có việc gì, bên tôi cũng sẽ liên hệ lại.* |
+| **ハー CTO** | 「ありがとうございます。本日のお<ruby>時間<rt>じかん</rt></ruby>、<ruby>感謝<rt>かんしゃ</rt></ruby>いたします。」 |
+|  | *Em cảm ơn ạ. Cảm ơn quý anh dành thời gian hôm nay ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**Acknowledge thời gian khách** — họ đã invest 4 round, phải acknowledge.

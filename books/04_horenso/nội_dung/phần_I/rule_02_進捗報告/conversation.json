@@ -9,7 +9,12 @@
     "ja": "ズンが Phase 2 の進捗をフオン副部長へ Slack で報告する場面。Done/Doing/Blocked/Next の4ブロック形式を実演。Daily と Weekly の使い分けも提示。",
     "vi": "Em Dũng báo tiến độ Phase 2 cho chị Hương qua Slack. Áp dụng format 4 block Done/Doing/Blocked/Next. Phân biệt cách dùng daily vs weekly."
   },
-  "related_rules": ["rule_01", "rule_04", "rule_06", "rule_10"],
+  "related_rules": [
+    "rule_01",
+    "rule_04",
+    "rule_06",
+    "rule_10"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -100,7 +105,10 @@
           "sentence": "【Daily 4/22】Done: API修正完了、松本様指摘 3/5 対応 / Doing: 残り指摘 2件、画面遷移テスト準備 / Blocked: なし / Next (今日): 画面遷移テスト着手、トゥアンと環境同期。",
           "sentence_translation": "[Daily 22/4] Done: Sửa API xong, comment anh Matsumoto đã xử 3/5 / Doing: 2 comment còn lại, chuẩn bị test luồng màn / Blocked: không / Next (hôm nay): Bắt tay test luồng màn, đồng bộ môi trường với anh Tuấn.",
           "tone": "neutral",
-          "annotation_ids": ["1", "2"]
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
         },
         {
           "line_id": "rule_02_good_02",
@@ -119,7 +127,9 @@
           "sentence": "画面遷移スピードと、エラーメッセージの日本語表現の2件です。両方とも今日中に対応見込みです。",
           "sentence_translation": "Là tốc độ luồng chuyển màn và cách diễn đạt tiếng Nhật của thông báo lỗi ạ. Cả hai dự kiến xử trong hôm nay ạ.",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_02_good_04",
@@ -159,11 +169,11 @@
       "question_ja": "Daily の進捗報告で「Next」欄に書くべき内容は？",
       "options": [
         "今週中の予定",
+        "プロジェクト全体のロードマップ",
         "今月の目標",
-        "本日中に着手・完了予定のタスク",
-        "プロジェクト全体のロードマップ"
+        "本日中に着手・完了予定のタスク"
       ],
-      "correct": "C",
+      "correct": "D",
       "explanation": {
         "ja": "Daily の Next は当日範囲。Weekly なら来週範囲。スコープを混同すると相手は判断できない。",
         "vi": "Next của daily là trong ngày. Của weekly là tuần sau. Lẫn scope = người nhận không quyết được."

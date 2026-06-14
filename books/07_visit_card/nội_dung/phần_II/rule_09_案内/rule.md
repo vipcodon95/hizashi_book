@@ -4,7 +4,7 @@
 >
 > 案内は『前1-2歩・斜め左前・背中見せず・ドア手を添えて先に通す』。エレベーターは操作盤側に立って客を先に。
 >
-> **Liên quan:** rule 08 (お出迎え), rule 10 (上座), rule 13 (お見送り — flow ngược).
+> **Liên quan:** rule 08 (お出迎え), rule 10 (上座), rule 13 (お見送り — trình tự ngược).
 
 ---
 
@@ -21,12 +21,16 @@ Sau bow đón ở lobby (rule 08), Dũng dẫn 3 khách 大垣 + 中村 + 松本
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「あの、どっちですかね…3階ですよね？」 |
+|  | *À, đường nào nhỉ... tầng 3 phải không ạ?* |
 | **大垣** | 「えーと…」 |
+|  | *Ờ...* |
 | **ズン** | 「3階ですね。」 |
+|  | *Tầng 3 nhỉ.* |
 | **大垣 + 中村 + 松本** | *(im lặng)* |
 | **ズン** | 「こちらです…」 |
+|  | *Bên này...* |
 
-**Vì sao xấu:** (1) Đi sau = khách phải tự tìm đường = guide thất bại. (2) Vào thang trước khách = chiếm không gian. (3) Quay lưng đi nhanh = mất khách phía sau.
+**Vì sao xấu:** (1) Đi sau = khách phải tự tìm đường = dẫn đường thất bại. (2) Vào thang trước khách = chiếm không gian. (3) Quay lưng đi nhanh = mất khách phía sau.
 
 ---
 
@@ -36,13 +40,19 @@ Sau bow đón ở lobby (rule 08), Dũng dẫn 3 khách 大垣 + 中村 + 松本
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「**こちらへどうぞ**【1】。会議室は3階でございます。」 |
+| **ズン** | 「**こちらへどうぞ**【1】。<ruby>会議室<rt>かいぎしつ</rt></ruby>は3階でございます。」 |
+|  | *Mời các anh đi theo hướng này ạ. Phòng họp ở tầng 3.* |
 | **大垣 + 中村 + 松本** | *(theo)* |
 | **ズン** | 「**お先にどうぞ**【2】。」 |
+|  | *Mời các anh vào trước ạ.* |
 | **大垣 + 中村 + 松本** | 「失礼します。」 |
-| **ズン**【3】 | 「3階に参ります。」 |
-| **ズン** | 「**3階に到着いたしました。お先にどうぞ**。」 |
-| **ズン** | 「**会議室はこちらでございます**【4】。」 |
+|  | *Xin phép.* |
+| **ズン**【3】 | 「3階に<ruby>参<rt>まい</rt></ruby>ります。」 |
+|  | *Em đưa các anh lên tầng 3 ạ.* |
+| **ズン** | 「**3階に<ruby>到着<rt>とうちゃく</rt></ruby>いたしました。お先にどうぞ**。」 |
+|  | *Đã đến rồi ạ. Mời các anh ra trước.* |
+| **ズン** | 「**<ruby>会議室<rt>かいぎしつ</rt></ruby>はこちらでございます**【4】。」 |
+|  | *Phòng họp ở đây ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**「こちらへどうぞ」** — câu chuẩn dẫn đường. Tay phải mở 90° chỉ hướng.
@@ -62,8 +72,8 @@ Sau bow đón ở lobby (rule 08), Dũng dẫn 3 khách 大垣 + 中村 + 松本
 
 ## ⚠ Tránh
 
-- Đi **sau khách** → khách lạc đường = guide vô ích
-- Vào thang máy / phòng **trước khách** → chiếm space (trừ trường hợp ra thang — host ra sau)
+- Đi **sau khách** → khách lạc đường = dẫn đường vô ích
+- Vào thang máy / phòng **trước khách** → chiếm chỗ (trừ trường hợp ra thang — host ra sau)
 - **Quay lưng** đi nhanh → khách rớt phía sau
 - Đứng **giữa** thang máy / chắn cửa → đứng cạnh bảng nút
 - **Không gõ cửa** phòng họp dù phòng trống → luôn gõ 2 lần

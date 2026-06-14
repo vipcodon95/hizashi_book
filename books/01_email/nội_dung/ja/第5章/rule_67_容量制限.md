@@ -1,40 +1,40 @@
-# Rule 67 — 業務メール容量制限は10MB — 圧縮かリンク共有で
+# Rule 67 — <ruby>業務<rt>ぎょうむ</rt></ruby>メール<ruby>容量制限<rt>ようりょうせいげん</rt></ruby>は10MB — <ruby>圧縮<rt>あっしゅく</rt></ruby>かリンク<ruby>共有<rt>きょうゆう</rt></ruby>で
 
-> **要点.** 多くの業務メールには**10MBまたは25MB**の容量制限がある。超過するとメールがブロックされるが、**エラー通知がすぐに届くとは限らない**。2〜3日後に送信失敗に気付く → 業務遅延。
+> **<ruby>要点<rt>ようてん</rt></ruby>.** 多くの<ruby>業務<rt>ぎょうむ</rt></ruby>メールには**10MBまたは25MB**の<ruby>容量制限<rt>ようりょうせいげん</rt></ruby>がある。<ruby>超過<rt>ちょうか</rt></ruby>するとメールがブロックされるが、**エラー<ruby>通知<rt>つうち</rt></ruby>がすぐに<ruby>届<rt>とど</rt></ruby>くとは<ruby>限<rt>かぎ</rt></ruby>らない**。2〜3<ruby>日後<rt>にちご</rt></ruby>に<ruby>送信失敗<rt>そうしんしっぱい</rt></ruby>に<ruby>気付<rt>きづ</rt></ruby>く → <ruby>業務遅延<rt>ぎょうむちえん</rt></ruby>。
 >
 > キーワード：**「10MBまたはリンク」**。
 
-## 大きなファイルへの2つの対処法
+## 大きなファイルへの2つの<ruby>対処法<rt>たいしょほう</rt></ruby>
 
-### 方法1 — ファイル圧縮
+### 方法1 — ファイル<ruby>圧縮<rt>あっしゅく</rt></ruby>
 
-- Word/Excel → Zipに圧縮。
-- 画像：幅1200pxに縮小、70%サイズ削減。
-- PDF：Preview/Adobeの「ファイルサイズを小さく」機能を使用。
+- Word/Excel → Zipに<ruby>圧縮<rt>あっしゅく</rt></ruby>。
+- <ruby>画像<rt>がぞう</rt></ruby>：<ruby>幅<rt>はば</rt></ruby>1200pxに<ruby>縮小<rt>しゅくしょう</rt></ruby>、70%サイズ<ruby>削減<rt>さくげん</rt></ruby>。
+- PDF：Preview/Adobeの「ファイルサイズを<ruby>小<rt>ちい</rt></ruby>さく」<ruby>機能<rt>きのう</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>。
 
-### 方法2 — 共有リンクを使う
+### 方法2 — <ruby>共有<rt>きょうゆう</rt></ruby>リンクを使う
 
-10MB超のファイルは：
-- **Google Drive / OneDrive / Dropbox**（社内）。
-- **ギガファイル便 / firestorage**（有効期限付き — 機密性を保つ）。
+10MB<ruby>超<rt>ちょう</rt></ruby>のファイルは：
+- **Google Drive / OneDrive / Dropbox**（<ruby>社内<rt>しゃない</rt></ruby>）。
+- **ギガファイル便 / firestorage**（<ruby>有効期限付<rt>ゆうこうきげんつ</rt></ruby>き — <ruby>機密性<rt>きみつせい</rt></ruby>を<ruby>保<rt>たも</rt></ruby>つ）。
 
 メール内で：
 
-> 「添付するには大きすぎるため、Google Driveのリンクをお送りいたします：[リンク]。有効期限は5/30までです。」
+> 「<ruby>添付<rt>てんぷ</rt></ruby>するには大きすぎるため、Google Driveのリンクをお<ruby>送<rt>おく</rt></ruby>りいたします：[リンク]。<ruby>有効期限<rt>ゆうこうきげん</rt></ruby>は5/30までです。」
 
-## 各システムの制限
+## 各システムの<ruby>制限<rt>せいげん</rt></ruby>
 
-| システム | 上限 |
+| システム | <ruby>上限<rt>じょうげん</rt></ruby> |
 |----------|------|
 | Gmail | 25 MB |
-| Outlook 365 | 25 MB（設定により拡張可） |
-| オンプレ業務メール | 通常10 MB |
-| 独自ドメインメール | 管理者設定による |
+| Outlook 365 | 25 MB（<ruby>設定<rt>せってい</rt></ruby>により<ruby>拡張可<rt>かくちょうか</rt></ruby>） |
+| オンプレ<ruby>業務<rt>ぎょうむ</rt></ruby>メール | <ruby>通常<rt>つうじょう</rt></ruby>10 MB |
+| <ruby>独自<rt>どくじ</rt></ruby>ドメインメール | <ruby>管理者設定<rt>かんりしゃせってい</rt></ruby>による |
 
-## 機密ファイルへの注意
+## <ruby>機密<rt>きみつ</rt></ruby>ファイルへの<ruby>注意<rt>ちゅうい</rt></ruby>
 
-個人情報、署名済み契約書、財務データを含むファイルは**社内クラウドストレージ** ＋ **閲覧権限指定のリンク**を使用。公開リンクは使わない。
+<ruby>個人情報<rt>こじんじょうほう</rt></ruby>、<ruby>署名済<rt>しょめいず</rt></ruby>み<ruby>契約書<rt>けいやくしょ</rt></ruby>、<ruby>財務<rt>ざいむ</rt></ruby>データを<ruby>含<rt>ふく</rt></ruby>むファイルは**<ruby>社内<rt>しゃない</rt></ruby>クラウドストレージ** ＋ **<ruby>閲覧権限指定<rt>えつらんけんげんしてい</rt></ruby>のリンク**を<ruby>使用<rt>しよう</rt></ruby>。<ruby>公開<rt>こうかい</rt></ruby>リンクは使わない。
 
 ## 使えるフレーズ
 
-> **「10MB超のファイル → 圧縮かリンク共有。そのまま添付して祈るのはNG。」**
+> **「10MB<ruby>超<rt>ちょう</rt></ruby>のファイル → <ruby>圧縮<rt>あっしゅく</rt></ruby>かリンク<ruby>共有<rt>きょうゆう</rt></ruby>。そのまま<ruby>添付<rt>てんぷ</rt></ruby>して<ruby>祈<rt>いの</rt></ruby>るのはNG。」**

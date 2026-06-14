@@ -9,7 +9,11 @@
     "ja": "Phase 3 交渉3日前、Hương が4軸インテル(決裁・予算・競合・業績)の準備状況を確認する場面。",
     "vi": "3 ngày trước đàm phán Phase 3, chị Hương kiểm tra Dũng đã chuẩn bị intel 4 trục chưa."
   },
-  "related_rules": ["rule_02", "rule_13", "rule_16"],
+  "related_rules": [
+    "rule_02",
+    "rule_13",
+    "rule_16"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -103,7 +107,9 @@
           "sentence": "フオン副部長、白鷗の4軸インテルシートを更新しました。",
           "sentence_translation": "Chị Hương, em đã cập nhật intel sheet 4 trục của Hakuō ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_04_good_02",
@@ -122,7 +128,11 @@
           "sentence": "(1) 決裁ライン: ¥10M 超は中村 CFO 決裁、それ以下は大垣部長権限。今回 ¥18M なので CFO 通る。(2) 予算サイクル: 白鷗は 4月-3月、現在 4 月初旬で新年度 IT 予算は通ったばかり、追加要求しやすい時期。(3) 競合: 大手 SIer Y 社がパラレルに pitch 中、見積 ¥22M との噂。(4) 直近業績: 先月 IR で営業利益 -12%、コスト圧縮トーンが強いです。",
           "sentence_translation": "(1) Decision: trên ¥10M là CFO Nakamura duyệt, dưới là quyền GĐKD Ōgaki. Lần này ¥18M nên qua CFO. (2) Budget cycle: Hakuō 4-3, hiện đầu tháng 4 — ngân sách IT năm mới vừa thông, dễ propose. (3) Đối thủ: Y社 SIer lớn đang pitch song song, có tin đồn báo giá ¥22M. (4) Kết quả gần: IR tháng trước lợi nhuận hoạt động -12%, tone nén chi phí mạnh ạ.",
           "tone": "formal",
-          "annotation_ids": ["2", "3", "4"]
+          "annotation_ids": [
+            "2",
+            "3",
+            "4"
+          ]
         },
         {
           "line_id": "rule_04_good_04",
@@ -153,12 +163,12 @@
       "skill": "場面把握",
       "question_ja": "顧客リサーチ4軸に含まれないものは？",
       "options": [
-        "決裁ライン (誰がいくらまで決裁できるか)",
-        "予算サイクル (年度予算のタイミング)",
         "顧客社員の家族構成",
-        "直近業績 (IR・営業利益)"
+        "直近業績 (IR・営業利益)",
+        "決裁ライン (誰がいくらまで決裁できるか)",
+        "予算サイクル (年度予算のタイミング)"
       ],
-      "correct": "C",
+      "correct": "A",
       "explanation": {
         "ja": "4軸は『決裁・予算・競合・業績』。家族構成は B2B 交渉に無関係でプライバシー侵害にもなる。",
         "vi": "4 trục: decision/budget/đối thủ/business. Gia đình nhân viên không liên quan B2B + xâm phạm riêng tư."

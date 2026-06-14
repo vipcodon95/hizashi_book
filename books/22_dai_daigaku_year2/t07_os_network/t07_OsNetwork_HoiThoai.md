@@ -6,7 +6,7 @@
 
 ## Bối cảnh
 
-9-10/2027. Đại bước vào kỳ thu năm 2. Hai lecture lớn: **「OS入門」** do Nakagawa-sensei (60 tuổi, ex-Linux kernel contributor) phụ trách, và **「ネットワーク入門」** do Yamanaka-sensei (50 tuổi, ex-NTT engineer) phụ trách. Lab CS có server Linux SSH chung cho SV. Đại quyết định cài Ubuntu 24.04 dual-boot trên ThinkPad cá nhân. Cùng tuần đó Mai bắt đầu lớp N2 ở Yamato Language School (Hà Nội). Chương này tập trung các mẫu câu hỏi-đáp về OS và mạng trong giảng đường, cách demo terminal trong lecture, và hội thoại debug với bạn quốc tế.
+9-10/2027. Đại bước vào kỳ thu năm 2. Hai lecture lớn: **「OS入門」** do Nakagawa-sensei (60 tuổi, ex-Linux kernel contributor) phụ trách, và **「ネットワーク入門」** do Yamanaka-sensei (50 tuổi, ex-NTT engineer) phụ trách. Lab CS có server Linux SSH chung cho SV. Đại quyết định cài Ubuntu 24.04 dual-boot trên ThinkPad cá nhân. Cùng tuần đó Mai bắt đầu lớp N2 ở trường tiếng Nhật vùng Osaka (Mai đã sang Nhật ở cùng Đại từ tháng 5). Chương này tập trung các mẫu câu hỏi-đáp về OS và mạng trong giảng đường, cách demo terminal trong lecture, và hội thoại debug với bạn quốc tế.
 
 ---
 
@@ -53,7 +53,7 @@
 | Vai | Lời thoại |
 |---|---|
 | Đại | (gõ Python)<br>```python<br>import threading<br><br>def task(n):<br>    print(f"Task {n} running")<br><br>threads = [threading.Thread(target=task, args=(i,))<br>           for i in range(5)]<br>for t in threads: t.start()<br>for t in threads: t.join()<br>```<br> |
-| Đại | (chạy) <ruby>5<rt>ご</rt></ruby>つのスレッドが<ruby>並行<rt>へいこう</rt></ruby>で<ruby>動<rt>うご</rt></ruby>きました！<br>*(5 thread chạy song song được rồi!)* |
+| Đại | (chạy) <ruby>5<rt>いつ</rt></ruby>つのスレッドが<ruby>並行<rt>へいこう</rt></ruby>で<ruby>動<rt>うご</rt></ruby>きました！<br>*(5 thread chạy song song được rồi!)* |
 | Yumi | (đứng sau) GIL も<ruby>知<rt>し</rt></ruby>ってる？ Python のスレッドは<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>並列<rt>へいれつ</rt></ruby>じゃないよ。<br>*(Biết GIL không? Thread của Python không phải parallel thực sự đâu.)* |
 | Đại | あ、Global Interpreter Lock ですね。<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>並列<rt>へいれつ</rt></ruby>には multiprocessing を<ruby>使<rt>つか</rt></ruby>うんですね。<br>*(À, Global Interpreter Lock. Muốn parallel thật phải dùng multiprocessing đúng không?)* |
 | Yumi | <ruby>正解<rt>せいかい</rt></ruby>。<ruby>大事<rt>だいじ</rt></ruby>なポイント。<br>*(Chính xác. Điểm quan trọng đấy.)* |

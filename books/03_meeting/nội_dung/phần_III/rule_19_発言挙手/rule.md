@@ -1,6 +1,6 @@
 # Rule 19 — Phát biểu xin lượt nói / 発言の挙手
 
-> **Luận điểm.** Trong họp với khách Nhật, **không cắt lời**. Muốn phát biểu phải xin lượt: 「恐れ入りますが、一点よろしいでしょうか？」. Câu xin lượt làm 3 việc: (1) báo có ý muốn nói, (2) xin permission, (3) cho người đang nói cơ hội kết thúc câu.
+> **Luận điểm.** Trong họp với khách Nhật, **không cắt lời**. Muốn phát biểu phải xin lượt: 「恐れ入りますが、一点よろしいでしょうか？」. Câu xin lượt làm 3 việc: (1) báo có ý muốn nói, (2) xin phép, (3) cho người đang nói cơ hội kết thúc câu.
 >
 > 日本の会議では割り込みは失礼。発言前に「恐れ入りますが、一点よろしいでしょうか？」で挙手する。
 >
@@ -20,10 +20,14 @@ Họp định kỳ tháng 4 đang đi vào phần báo cáo tiến độ. Anh Ma
 
 | Vai | Câu |
 |---------|-----|
-| **松本** | 「4月の進捗ですが、API連携の部分で…」 |
-| **ズン** | 「あ、その部分なんですけど、数字が違うと思います。」 |
-| **松本** | 「…そうですか。最後まで聞いていただけますか？」 |
+| **松本** | 「4月の<ruby>進捗<rt>しんちょく</rt></ruby>ですが、API<ruby>連携<rt>れんけい</rt></ruby>の部分で…」 |
+|  | *Về tiến độ tháng 4, phần kết nối API thì...* |
+| **ズン** | 「あ、その部分なんですけど、<ruby>数字<rt>すうじ</rt></ruby>が違うと思います。」 |
+|  | *À, phần đó ấy, em nghĩ số liệu sai ạ.* |
+| **松本** | 「…そうですか。<ruby>最後<rt>さいご</rt></ruby>まで聞いていただけますか？」 |
+|  | *...Vậy à. Phiền Dũng nghe hết câu đã được không?* |
 | **ズン** | 「すみません…」 |
+|  | *Em xin lỗi ạ...* |
 
 **Vì sao xấu:** Cắt lời = mất mặt cho người đang nói + phá nhịp cuộc họp. Khách Nhật cảm thấy bị thiếu tôn trọng, dù nội dung em Dũng nói có đúng.
 
@@ -35,20 +39,24 @@ Họp định kỳ tháng 4 đang đi vào phần báo cáo tiến độ. Anh Ma
 
 | Vai | Câu |
 |---------|-----|
-| **松本** | 「4月の進捗ですが、API連携の部分で予定通り進んでおります。」 |
-| **ズン** | 「恐れ入りますが、一点よろしいでしょうか？【1】」 |
+| **松本** | 「4月の<ruby>進捗<rt>しんちょく</rt></ruby>ですが、API<ruby>連携<rt>れんけい</rt></ruby>の部分で<ruby>予定<rt>よてい</rt></ruby>通り<ruby>進<rt>すす</rt></ruby>んでおります。」 |
+|  | *Về tiến độ tháng 4, phần kết nối API đang tiến triển đúng kế hoạch ạ.* |
+| **ズン** | 「<ruby>恐<rt>おそ</rt></ruby>れ<ruby>入<rt>い</rt></ruby>りますが、<ruby>一点<rt>いってん</rt></ruby>よろしいでしょうか？【1】」 |
+|  | *Xin lỗi anh, cho em hỏi 1 điểm được không ạ?* |
 | **松本** | 「どうぞ。」 |
-| **ズン** | 「API連携の進捗率の数字について、確認させていただきたい点がございます【2】。」 |
+|  | *Mời Dũng.* |
+| **ズン** | 「API<ruby>連携<rt>れんけい</rt></ruby>の<ruby>進捗率<rt>しんちょくりつ</rt></ruby>の<ruby>数字<rt>すうじ</rt></ruby>について、<ruby>確認<rt>かくにん</rt></ruby>させていただきたい点がございます【2】。」 |
+|  | *Về số liệu tỷ lệ tiến độ kết nối API, em có 1 điểm muốn xin confirm lại ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**「恐れ入りますが、一点よろしいでしょうか？」** — câu xin lượt nói chuẩn business JP. 「一点」 báo trước "chỉ 1 điểm" → không chiếm thời gian.
-- 【2】**「確認させていただきたい点がございます」** — không nói thẳng "数字が違う". Mở bằng "muốn confirm" → để người đang nói tự rà lại, giữ thể diện.
+- 【1】**「恐れ入りますが、一点よろしいでしょうか？」** — câu xin lượt nói chuẩn phong cách công sở Nhật. 「一点」 báo trước "chỉ 1 điểm" → không chiếm thời gian.
+- 【2】**「確認させていただきたい点がございます」** — không nói thẳng "数字が違う". Mở bằng "muốn xác nhận lại" → để người đang nói tự rà lại, giữ thể diện.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「恐れ入りますが、一点よろしいでしょうか？」**
+> **「<ruby>恐<rt>おそ</rt></ruby>れ<ruby>入<rt>い</rt></ruby>りますが、<ruby>一点<rt>いってん</rt></ruby>よろしいでしょうか？」**
 >
 > *Câu vạn năng để xin lượt nói. Nhớ đợi câu hiện tại kết thúc rồi mới xen vào.*
 
@@ -57,7 +65,7 @@ Họp định kỳ tháng 4 đang đi vào phần báo cáo tiến độ. Anh Ma
 ## ⚠ Tránh
 
 - Cắt giữa câu — kể cả khi mình thấy thông tin sai.
-- Bỏ qua xin lượt, nói thẳng nội dung — dù tone formal vẫn bị coi là 失礼.
+- Bỏ qua xin lượt, nói thẳng nội dung — dù lời lẽ trang trọng vẫn bị coi là 失礼.
 - Dùng 「ちょっと」 quá nhiều — trong họp formal, 「恐れ入りますが」 chuẩn hơn.
 
 ---

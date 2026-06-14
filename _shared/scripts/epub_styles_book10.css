@@ -8,32 +8,64 @@ h4 { font-size: 1.05em; margin: 0.9em 0 0.35em; font-weight: bold; }
 h5 { font-size: 0.98em; margin: 0.7em 0 0.25em; font-weight: bold; }
 h6 { font-size: 0.95em; margin: 0.6em 0 0.2em; font-weight: bold; color: #333; }
 
-/* Bảng: cột TỰ co giãn theo nội dung (KHÔNG ép width cứng như bản dialogue) */
+/* Bảng: cột TỰ co giãn theo nội dung (auto layout) — an toàn cho bảng 2-9 cột,
+   các cột không bao giờ dính/chồng nhau vì trình duyệt tự chia theo nội dung. */
 table {
   width: 100%;
   table-layout: auto;
   border-collapse: collapse;
+  border: 1px solid #888;    /* viền 1 nét khung ngoài bảng */
   margin: 0.6em 0 1em;
   font-size: 0.9em;
 }
 thead th {
   text-align: left;
-  border-bottom: 1px solid #999;
-  padding: 0.3em 0.5em;
+  border: 1px solid #888;    /* viền 1 nét full (dọc + ngang) cho ô header */
+  padding: 0.3em 0.55em;     /* padding ngang đủ để các cột không sát nhau */
   font-weight: bold;
   vertical-align: top;
 }
 tbody td {
-  border-bottom: 1px solid #ddd;
-  padding: 0.35em 0.5em;
+  border: 1px solid #ccc;    /* viền 1 nét full cho mọi ô nội dung */
+  padding: 0.35em 0.55em;
   vertical-align: top;
   word-wrap: break-word;
   overflow-wrap: break-word;
 }
-/* Cột đầu (thuật ngữ/viết tắt) in đậm, không ngắt giữa từ */
+/* Cột đầu (thuật ngữ/viết tắt) in đậm. KHÔNG dùng white-space:nowrap vì với
+   kanji/cụm dài sẽ tràn cột và đẩy các cột khác dính nhau — cho phép wrap. */
 tbody td:first-child, thead th:first-child {
   font-weight: bold;
-  white-space: nowrap;
+}
+
+/* === Bảng 2 CỘT (hội thoại: Vai | Câu) — sách 09 ===
+   Lua filter gắn class .dialogue-table cho bảng đúng 2 cột. table-layout:fixed
+   để width 16/84 ăn CHÍNH XÁC (không co theo nội dung). Bảng nhiều cột (sách 10)
+   không có class này nên giữ table-layout:auto. */
+table.dialogue-table {
+  table-layout: fixed;
+}
+table.dialogue-table td:first-child,
+table.dialogue-table th:first-child {
+  width: 16%;
+}
+table.dialogue-table td:last-child,
+table.dialogue-table th:last-child {
+  width: 84%;
+}
+
+/* Bảng RỘNG (>=7 cột) được lua filter gắn class .wide-table:
+   font nhỏ + cho cuộn ngang để 7-9 cột không bị bóp dính trên màn epub hẹp. */
+table.wide-table {
+  font-size: 0.78em;
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+table.wide-table th,
+table.wide-table td {
+  padding: 0.25em 0.45em;
+  min-width: 4.5em;
 }
 
 /* Ruby furigana */

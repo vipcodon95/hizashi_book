@@ -70,7 +70,7 @@ Cuối tháng 4/2025. Đại đã tròn 12 tháng ở Osaka, vừa qua N3 (110/1
 | Yamada | <ruby>日本<rt>にほん</rt></ruby><ruby>留学試験<rt>りゅうがくしけん</rt></ruby>です。<ruby>外国人<rt>がいこくじん</rt></ruby><ruby>留学生<rt>りゅうがくせい</rt></ruby><ruby>専用<rt>せんよう</rt></ruby>のセンター<ruby>試験<rt>しけん</rt></ruby>です。<br>*(Là "Kỳ thi du học Nhật Bản". Kỳ thi trung tâm dành riêng du học sinh.)* |
 | Đại | <ruby>科目<rt>かもく</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？<br>*(Có những môn nào ạ?)* |
 | Yamada | <ruby>日本語<rt>にほんご</rt></ruby>、<ruby>総合科目<rt>そうごうかもく</rt></ruby>、<ruby>数学<rt>すうがく</rt></ruby>、<ruby>理科<rt>りか</rt></ruby>です。<ruby>経済学部<rt>けいざいがくぶ</rt></ruby>なら<ruby>日本語<rt>にほんご</rt></ruby>＋<ruby>総合科目<rt>そうごうかもく</rt></ruby>＋<ruby>数学<rt>すうがく</rt></ruby>コース<ruby>1<rt>いち</rt></ruby>です。<br>*(Tiếng Nhật, môn tổng hợp, toán, lý hoá. Khoa Kinh tế thì cần tiếng Nhật + tổng hợp + toán khoá 1.)* |
-| Đại | （メモを<ruby>取<rt>と</rt></ruby>る）<ruby>2<rt>に</rt></ruby><ruby>つ<rt></rt></ruby><ruby>目<rt>め</rt></ruby>のステップは？<br>*(Ghi sổ. Bước 2 là gì ạ?)* |
+| Đại | （メモを<ruby>取<rt>と</rt></ruby>る）<ruby>2<rt>ふた</rt></ruby>つ<ruby>目<rt>め</rt></ruby>のステップは？<br>*(Ghi sổ. Bước 2 là gì ạ?)* |
 | Yamada | <ruby>2<rt>に</rt></ruby>、<ruby>大学<rt>だいがく</rt></ruby><ruby>独自<rt>どくじ</rt></ruby><ruby>試験<rt>しけん</rt></ruby>と<ruby>面接<rt>めんせつ</rt></ruby>です。<ruby>12<rt>じゅうに</rt></ruby><ruby>月<rt>がつ</rt></ruby>から<ruby>2<rt>に</rt></ruby><ruby>月<rt>がつ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>です。<ruby>志望理由書<rt>しぼうりゆうしょ</rt></ruby>も<ruby>提出<rt>ていしゅつ</rt></ruby>します。<br>*(2: Thi riêng của ĐH và phỏng vấn, từ tháng 12 đến tháng 2. Nộp đơn lý do nguyện vọng.)* |
 | Đại | <ruby>3<rt>みっ</rt></ruby>つ<ruby>目<rt>め</rt></ruby>と<ruby>4<rt>よっ</rt></ruby>つ<ruby>目<rt>め</rt></ruby>は？<br>*(Bước 3 và 4 ạ?)* |
 | Yamada | <ruby>3<rt>さん</rt></ruby>、<ruby>合格<rt>ごうかく</rt></ruby><ruby>発表<rt>はっぴょう</rt></ruby>が<ruby>2<rt>に</rt></ruby>〜<ruby>3<rt>さん</rt></ruby><ruby>月<rt>がつ</rt></ruby>。<ruby>4<rt>よん</rt></ruby>、<ruby>入学<rt>にゅうがく</rt></ruby>が<ruby>2026<rt>にせんにじゅうろく</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>4<rt>し</rt></ruby><ruby>月<rt>がつ</rt></ruby>です。<br>*(3: Công bố KQ tháng 2-3. 4: Nhập học tháng 4/2026.)* |
@@ -86,7 +86,7 @@ Cuối tháng 4/2025. Đại đã tròn 12 tháng ở Osaka, vừa qua N3 (110/1
 | Vai | Lời thoại |
 |---|---|
 | Đại | リム<ruby>先輩<rt>せんぱい</rt></ruby>！ちょっとお<ruby>時間<rt>じかん</rt></ruby>いいですか？<br>*(Chị Rim! Chị có chút thời gian không?)* |
-| Rim | あ、ダイ<ruby>君<rt>くん</rt></ruby>。<ruby>面談<rt>めんだん</rt></ruby><ruby>終<rt>お</rt></ruby>わった？<br>*(À, Đại. Mensetsu xong rồi à?)* |
+| Rim | あ、ダイ<ruby>君<rt>くん</rt></ruby>。<ruby>面談<rt>めんだん</rt></ruby><ruby>終<rt>お</rt></ruby>わった？<br>*(À, Đại. Buổi gặp đánh giá (mendan) xong rồi à?)* |
 | Đại | はい！<ruby>志望<rt>しぼう</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>を<ruby>大阪大<rt>おおさかだい</rt></ruby><ruby>経済<rt>けいざい</rt></ruby><ruby>第<rt>だい</rt></ruby><ruby>1<rt>いち</rt></ruby>にしました。<ruby>先輩<rt>せんぱい</rt></ruby>のアドバイスをいただけますか？<br>*(Vâng! Em đặt Osaka U Kinh tế là NV1. Cho em xin lời khuyên của chị được không?)* |
 | Rim | もちろん。<ruby>5<rt>いつ</rt></ruby>つあるよ。<ruby>聞<rt>き</rt></ruby>く？<br>*(Tất nhiên. Có 5 cái. Em nghe nhé?)* |
 | Đại | はい、お<ruby>願<rt>ねが</rt></ruby>いします！<br>*(Vâng, nhờ chị!)* |
@@ -130,9 +130,9 @@ Cuối tháng 4/2025. Đại đã tròn 12 tháng ở Osaka, vừa qua N3 (110/1
 | Đại | はい、<ruby>8<rt>はち</rt></ruby>～<ruby>9<rt>く</rt></ruby><ruby>月<rt>がつ</rt></ruby>は<ruby>志望理由書<rt>しぼうりゆうしょ</rt></ruby>とオープンキャンパス。<br>*(Vâng, 8-9 là viết đơn lý do và tham quan open campus.)* |
 | Bahra | <ruby>10<rt>じゅう</rt></ruby><ruby>月<rt>がつ</rt></ruby> <ruby>大阪大<rt>おおさかだい</rt></ruby>の<ruby>願書<rt>がんしょ</rt></ruby><ruby>受付<rt>うけつけ</rt></ruby><ruby>開始<rt>かいし</rt></ruby>、<ruby>11<rt>じゅういち</rt></ruby><ruby>月<rt>がつ</rt></ruby> EJU<ruby>第<rt>だい</rt></ruby><ruby>2<rt>に</rt></ruby><ruby>回<rt>かい</rt></ruby>、<ruby>12<rt>じゅうに</rt></ruby><ruby>月<rt>がつ</rt></ruby> N1<ruby>挑戦<rt>ちょうせん</rt></ruby>。<br>*(10/2025 ĐH Osaka mở đăng ký, 11/2025 EJU đợt 2, 12/2025 thử N1.)* |
 | Đại | <ruby>1<rt>いち</rt></ruby>～<ruby>2<rt>に</rt></ruby><ruby>月<rt>がつ</rt></ruby><ruby>2026<rt>にせんにじゅうろく</rt></ruby> <ruby>独自<rt>どくじ</rt></ruby><ruby>試験<rt>しけん</rt></ruby>と<ruby>面接<rt>めんせつ</rt></ruby>、<ruby>3<rt>さん</rt></ruby><ruby>月<rt>がつ</rt></ruby> <ruby>合格<rt>ごうかく</rt></ruby><ruby>発表<rt>はっぴょう</rt></ruby>、<ruby>4<rt>し</rt></ruby><ruby>月<rt>がつ</rt></ruby> <ruby>入学<rt>にゅうがく</rt></ruby>。<br>*(1-2/2026 thi riêng + phỏng vấn, 3 công bố, 4 nhập học.)* |
-| Bahra | バランスええプランやな。<ruby>頑張<rt>がんば</rt></ruby>ろう、<ruby>俺<rt>おれ</rt></ruby>も<ruby>京大<rt>きょうだい</rt></ruby><ruby>狙<rt>ねら</rt></ruby>うで。<br>*(Plan cân đối. Cùng cố, tôi cũng nhắm Kyoto đó.)* |
+| Bahra | バランスの<ruby>取<rt>と</rt></ruby>れたいいプランだね。<ruby>頑張<rt>がんば</rt></ruby>ろう、<ruby>僕<rt>ぼく</rt></ruby>も<ruby>京大<rt>きょうだい</rt></ruby>を<ruby>狙<rt>ねら</rt></ruby>っているよ。<br>*(Kế hoạch cân đối hay đấy. Cùng cố, tớ cũng nhắm Kyoto.)* |
 | Đại | はい、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>日曜日<rt>にちようび</rt></ruby><ruby>進捗<rt>しんちょく</rt></ruby><ruby>共有<rt>きょうゆう</rt></ruby>しませんか？<br>*(Vâng, mỗi chủ nhật mình chia sẻ tiến độ nhé?)* |
-| Bahra | ええで！<br>*(Đồng ý!)* |
+| Bahra | いいよ！<br>*(Được chứ!)* |
 
 ---
 
@@ -234,7 +234,7 @@ Tròn một năm Osaka. Trong cuộc **面談** với Yamada-sensei, Đại nh�
 | Từ | Cách đọc | Hán Việt | Nghĩa tiếng Việt |
 |---|---|---|---|
 | 経過 | けいか | KINH QUÁ | Trôi qua |
-| 面談 | めんだん | DIỆN ĐÀM | Phỏng vấn cá nhân |
+| 面談 | めんだん | DIỆN ĐÀM | Buổi gặp/trao đổi riêng (đánh giá) — khác 面接 (めんせつ) = phỏng vấn tuyển |
 | 振り返り | ふりかえり | CHẤN PHẢN | Nhìn lại, tổng kết |
 | プラン | — | — | Kế hoạch |
 | 成果 | せいか | THÀNH QUẢ | Thành quả |

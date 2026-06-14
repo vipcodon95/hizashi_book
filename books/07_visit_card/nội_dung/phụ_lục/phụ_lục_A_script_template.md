@@ -105,7 +105,7 @@
 
 > 🇯🇵 「24時間以内に CRM 入力・文脈メモ・スキャン・フォロー送信を完了させます。」
 >
-> 🇻🇳 *Trong 24h em sẽ xong nhập CRM + memo context + scan + gửi follow-up ạ.*
+> 🇻🇳 *Trong 24h em sẽ xong nhập CRM + ghi chú ngữ cảnh + scan + gửi thư tiếp theo ạ.*
 >
 > 📝 _名刺管理4ステップ宣言_
 
@@ -375,7 +375,7 @@
 
 ## Phần IV — Tình huống khó
 
-### Rule 24 — Mời khách bữa ăn tối trang trọng / 接待ディナーへの招待
+### Rule 24 — Mời khách dinner formal / 接待ディナーへの招待
 
 **ズン (em Dũng):**
 
@@ -427,7 +427,7 @@
 
 > 🇯🇵 「（glassを上位者より低く合わせる）」
 >
-> 🇻🇳 *(hạ ly thấp hơn ly senior)*
+> 🇻🇳 *(hạ ly thấp hơn ly cấp trên)*
 >
 > 📝 _乾杯時 glass 高さ ルール_
 
@@ -544,7 +544,7 @@
 
 > 🇯🇵 「角度=温度+敬意+反省深さの signal。」
 >
-> 🇻🇳 *Góc cúi = tín hiệu nhiệt + kính trọng + độ ăn năn.*
+> 🇻🇳 *Góc cúi = dấu hiệu nhiệt + kính trọng + độ ăn năn.*
 >
 > 📝 _角度の意味_
 
@@ -574,18 +574,18 @@
 
 > 🇯🇵 「Survival Kit は現金・IC card・スーツ・お土産・天気・Wifi の6カテゴリで整理。」
 >
-> 🇻🇳 *Bộ đồ thiết yếu chia 6 nhóm: tiền mặt, IC card, vest, omiyage, thời tiết, Wi-Fi.*
+> 🇻🇳 *Bộ đồ thiết yếu chia 6 nhóm: cash, IC card, suit, omiyage, thời tiết, Wi-Fi.*
 >
 > 📝 _6カテゴリ summary_
 
 
-### Rule 35 — Tự đánh giá ceremony etiquette / 振り返り
+### Rule 35 — Tự đánh giá sau nghi lễ tiếp khách / 振り返り
 
 **フオン副部長 (chị Hương):**
 
 > 🇯🇵 「5項目で振り返りましょう: 良かった点・課題・改善action・新発見・記録。」
 >
-> 🇻🇳 *Mình self-review theo 5 mục: điểm tốt, vấn đề, action cải thiện, phát hiện mới, lưu hồ sơ.*
+> 🇻🇳 *Mình tự đánh giá theo 5 mục: điểm tốt, vấn đề, action cải thiện, phát hiện mới, lưu hồ sơ.*
 >
 > 📝 _5項目振り返りの宣言_
 
@@ -595,5 +595,5 @@
 >
 > 🇻🇳 *Update cả Notion + CRM để lần sau ai phụ trách không lặp lỗi.*
 >
-> 📝 _team learning 記録 signal_
+> 📝 _team learning 記録_
 

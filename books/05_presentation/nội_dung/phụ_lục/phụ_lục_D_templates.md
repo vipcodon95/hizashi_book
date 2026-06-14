@@ -46,13 +46,13 @@
 ご不明な点等ございましたら、いつでもご連絡くださいませ。
 引き続き何卒よろしくお願い申し上げます。
 
-────────────────────
+--------------------
 チャン・ヴァン・ズン (Tran Van Dung)
 ティエンファット 営業部 BD担当
 TEL: +84-xx-xxxx-xxxx
 EMAIL: zun@tienphat.vn
 営業時間: 9:00-18:00 (JST / Mon-Fri)
-────────────────────
+--------------------
 ```
 
 **Bản Việt placeholder:**
@@ -92,13 +92,13 @@ Hôm nay quý vị bận rộn vẫn dành thời gian cho buổi đề xuất P
 Nếu có điểm chưa rõ, mời quý vị liên hệ bất cứ lúc nào ạ.
 Mong tiếp tục được quý vị chiếu cố ạ.
 
-────────────────────
+--------------------
 Trần Văn Dũng
 Cty Thiên Phát — BD phòng Kinh doanh
 TEL: +84-xx-xxxx-xxxx
 EMAIL: zun@tienphat.vn
 Giờ làm việc: 9:00-18:00 (JST / T2-T6)
-────────────────────
+--------------------
 ```
 
 📝 **Ghi chú VN:** Thời điểm gửi: Trong ngày pitch — ack ngắn (link slide + deadline 持ち帰り) → sáng ngày làm việc kế tiếp gửi template này. Bản chi tiết thứ Hai nhớ CC CTO + tech lead + phó phòng.
@@ -356,7 +356,7 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
 📝 **Ghi chú VN:** Check 2 lần: 24h trước + sáng ngày. Tất cả 5 điểm ✅ thì mới lên đường. Còn sót 1 điểm thì mang theo xử lý sau.
 📝 **Ghi chú JP:** 24h前に1回、当日朝に1回。5点全部 ✅ で出発。1点でも未済なら持参してから現地で対応。
 
-### Rule 34 — Rubric Self-review Pitch (12 item / 30 phút)
+### Rule 34 — Bảng Tiêu Chí Tự Đánh Giá Pitch (12 mục / 30 phút)
 
 *JP: プレゼン Self-review Rubric (12項目 / 30分)*
 
@@ -385,7 +385,7 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
 □ 11. Recap 3 + CTA 3 (rule 26)                  _/5
 □ 12. 24h 内 acknowledgment メール (rule 28)     _/5
 
-────────────────────────────
+----------------------------
 合計: __/60     平均: __/5
 
 【3 Strengths】 — 4-5点項目から
@@ -405,14 +405,14 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
 **Bản Việt placeholder:**
 
 ```
-[Checklist Self-review Pitch] (12 item / 30 phút)
+[Checklist Tự Đánh Giá Pitch] (12 mục / 30 phút)
 
 Thang điểm: 1=cần cải thiện / 2=chưa đủ / 3=trung bình / 4=tốt / 5=xuất sắc
 
-[Chuẩn bị — Preparation] — 3 item
-- 1. Đã fill checklist 7 câu chưa (rule 01)         _/5
-- 2. Có giữ 1-slide-1-message không (rule 02)       _/5
-- 3. Có Plan B (PDF/handout/hotspot) chưa (rule 07) _/5
+[Chuẩn bị — Preparation] — 3 mục
+- 1. Đã điền checklist 7 câu chưa (rule 01)                _/5
+- 2. Có giữ 1-slide-1-message không (rule 02)              _/5
+- 3. Có Plan B (PDF/tài liệu phát tay/hotspot) chưa (rule 07) _/5
 
 [Delivery] — 4 item
 - 4. Hook 30 giây có lấy được attention không (rule 08)  _/5
@@ -429,7 +429,7 @@ Thang điểm: 1=cần cải thiện / 2=chưa đủ / 3=trung bình / 4=tốt /
 - 11. Recap 3 + CTA 3 (rule 26)                          _/5
 - 12. Mail acknowledgment trong 24h (rule 28)            _/5
 
-────────────────────────────
+----------------------------
 Tổng: __/60     Trung bình: __/5
 
 [3 Strengths] — chọn từ item 4-5 điểm
@@ -446,7 +446,7 @@ Tổng: __/60     Trung bình: __/5
 - ____
 ```
 
-📝 **Ghi chú VN:** Làm trong 24h sau pitch. Budget cố định 30 phút. Improvement bắt buộc kèm deadline + drill. Phase 4, 5 dùng cùng rubric để track đường cong cải thiện.
+📝 **Ghi chú VN:** Làm trong 24h sau pitch. Cố định 30 phút. Điểm cần cải thiện bắt buộc kèm deadline + drill. Phase 4, 5 dùng cùng bảng tiêu chí để theo dõi đường cong cải thiện.
 📝 **Ghi chú JP:** Pitch 終了 24h 以内に実施。30分 fixed budget。Improvements には必ず deadline + drill。Phase 4, 5 でも同 rubric を使い改善曲線を tracking。
 
 

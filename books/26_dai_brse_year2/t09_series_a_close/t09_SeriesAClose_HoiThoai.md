@@ -83,7 +83,7 @@ Cuối tháng 11/2031. Đại 26 tuổi, CEO Hizashi Inc. Sau 8 tuần đàm ph�
 | Đại | (Slack #hizashi-team, JP) <ruby>皆<rt>みな</rt></ruby>さん、TechCrunch JP の<ruby>記事<rt>きじ</rt></ruby>が9<ruby>時<rt>じ</rt></ruby>に<ruby>公開<rt>こうかい</rt></ruby>されました！<br>*(Mọi người, bài TechCrunch JP đã đăng lúc 9 giờ!)* |
 | Đại | (Slack) <ruby>見出<rt>みだ</rt></ruby>し：「ベトナム<ruby>人<rt>じん</rt></ruby><ruby>創業者<rt>そうぎょうしゃ</rt></ruby>のHizashi、シリーズAで¥230M<ruby>調達<rt>ちょうたつ</rt></ruby>。Anriリード」<br>*(Tiêu đề: "Hizashi do người Việt sáng lập gọi Series A ¥230M. Anri lead".)* |
 | Tuấn | (Slack, VN) Đại ơi! LinkedIn anh post — 89 likes trong giờ đầu. Twitter retweet 200+ lần! |
-| Yui (Marketing) | (Slack, JP) <ruby>韓国<rt>かんこく</rt></ruby>メディアと<ruby>中国<rt>ちゅうごく</rt></ruby>メディアからも<ruby>連絡<rt>れんらく</rt></ruby>が<ruby>来<rt>き</rt></ruby>ました。<ruby>取材<rt>しゅざい</rt></ruby><ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みです。<br>*(Có liên hệ từ media Hàn và Trung. Đề nghị phỏng vấn.)* |
+| Aiko (Marketing) | (Slack, JP) <ruby>韓国<rt>かんこく</rt></ruby>メディアと<ruby>中国<rt>ちゅうごく</rt></ruby>メディアからも<ruby>連絡<rt>れんらく</rt></ruby>が<ruby>来<rt>き</rt></ruby>ました。<ruby>取材<rt>しゅざい</rt></ruby><ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みです。<br>*(Có liên hệ từ media Hàn và Trung. Đề nghị phỏng vấn.)* |
 | Aiko | (Slack, JP) <ruby>来週<rt>らいしゅう</rt></ruby>のインタビュー<ruby>調整<rt>ちょうせい</rt></ruby>します。<br>*(Tôi sẽ sắp lịch phỏng vấn tuần sau.)* |
 
 ---

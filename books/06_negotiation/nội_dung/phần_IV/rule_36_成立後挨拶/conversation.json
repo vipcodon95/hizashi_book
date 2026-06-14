@@ -9,7 +9,11 @@
     "ja": "Phase 3 契約締結直後の thank-you メール。hype を避け conservative + commit tone で大人っぽく相手に渡す場面。",
     "vi": "Thank-you mail ngay sau ký Phase 3. Tránh hype, dùng conservative + commit tone để truyền adult vibe."
   },
-  "related_rules": ["rule_34", "rule_37", "rule_39"],
+  "related_rules": [
+    "rule_34",
+    "rule_37",
+    "rule_39"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -112,7 +116,9 @@
           "sentence": "この度は Phase 3 業務委託契約のご捺印を頂戴し、誠にありがとうございました。長期にわたる discussion を経て、両社合意に至りましたこと、心より御礼申し上げます。",
           "sentence_translation": "Lần này em đã nhận được dấu của anh trên hợp đồng Phase 3, em xin chân thành cảm ơn ạ. Qua quá trình thảo luận dài, hai bên đã đạt đồng thuận, em xin được gửi lời cảm ơn từ tận đáy lòng.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_36_good_03",
@@ -122,7 +128,9 @@
           "sentence": "御社からの信頼を頂戴したことに対し、身の引き締まる思いでございます。",
           "sentence_translation": "Việc nhận được sự tin tưởng từ bên anh khiến em cảm nhận trách nhiệm nặng nề ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_36_good_04",
@@ -132,7 +140,9 @@
           "sentence": "頂戴したご期待にお応えできますよう、弊社一同 全力で取り組んでまいります。引き続き、何卒よろしくお願い申し上げます。",
           "sentence_translation": "Để đáp lại kỳ vọng đã nhận được, toàn thể bên em sẽ toàn lực nỗ lực ạ. Mong anh tiếp tục giúp đỡ ạ.",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_36_good_05",
@@ -151,7 +161,9 @@
           "sentence": "Phase 3 締結御礼メール送信完了。返信から大垣様 friendly tone。次は Tanaka PMO とキックオフ調整入ります。",
           "sentence_translation": "Mail cảm ơn ký Phase 3 đã gửi xong. Reply của anh Ōgaki có friendly tone. Tiếp theo em sẽ vào sắp xếp kickoff với PM Tanaka.",
           "tone": "warm",
-          "annotation_ids": ["4"]
+          "annotation_ids": [
+            "4"
+          ]
         }
       ]
     }
@@ -182,11 +194,11 @@
       "question_ja": "商談成立後の挨拶として最も適切なものは？",
       "options": [
         "ありがとうございます！！本当に嬉しいです！！",
-        "身の引き締まる思いでございます。ご期待にお応えできますよう全力で取り組んでまいります。",
+        "契約書受領しました。",
         "サンキューです！次もよろしくお願いします！",
-        "契約書受領しました。"
+        "身の引き締まる思いでございます。ご期待にお応えできますよう全力で取り組んでまいります。"
       ],
-      "correct": "B",
+      "correct": "D",
       "explanation": {
         "ja": "JP exec 向けは emotional hype ではなく responsibility + commit tone が大人。A は学生っぽい、C はカジュアル過ぎ、D は dry。",
         "vi": "Với JP exec không phải emotional hype mà là responsibility + commit tone mới chuyên nghiệp. A non, C casual quá, D khô."

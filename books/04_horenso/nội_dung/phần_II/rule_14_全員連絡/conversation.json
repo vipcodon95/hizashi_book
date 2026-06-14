@@ -151,12 +151,12 @@
       "skill": "場面把握",
       "question_ja": "team 全員向け broadcast メールで action item を最も伝わりやすく書く方法は？",
       "options": [
-        "本文の物語の中に自然に織り込む",
+        "件名にだけ書いて本文では省略",
         "末尾に箇条書きで列挙する",
-        "@担当者ごとにセクションを分けて期日付きで明記",
-        "件名にだけ書いて本文では省略"
+        "本文の物語の中に自然に織り込む",
+        "@担当者ごとにセクションを分けて期日付きで明記"
       ],
-      "correct": "C",
+      "correct": "D",
       "explanation": {
         "ja": "@assignee 別セクション + 期日明記が最も miss を防ぐ。物語に埋め込むと担当者は自分のタスクを抜き出せない。",
         "vi": "Chia section theo @assignee + ghi rõ deadline là cách ít miss nhất. Nhồi vào văn xuôi thì assignee không trích được task của mình."

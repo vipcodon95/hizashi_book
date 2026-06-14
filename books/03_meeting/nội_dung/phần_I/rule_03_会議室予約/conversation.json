@@ -9,7 +9,11 @@
     "ja": "リンが火曜の会議室予約を担当。ズンが設備確認の重要性を教える場面。チェックリスト7項目を前日までに完了する。",
     "vi": "Em Linh được giao đặt phòng họp thứ Ba. Dũng dạy Linh sự khác nhau giữa 'đặt phòng' và 'chuẩn bị xong'. Checklist 7 mục phải tick hết trước hôm họp."
   },
-  "related_rules": ["rule_04", "rule_06", "rule_12"],
+  "related_rules": [
+    "rule_04",
+    "rule_06",
+    "rule_12"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -111,7 +115,9 @@
           "sentence": "プロジェクターは昨日テスト済み、HDMIとUSB-C両方備品あり、Wi-Fi パスワードはネームプレートに記載しました。お茶とお水も人数分用意しております。",
           "sentence_translation": "Projector hôm qua test rồi ạ, HDMI và USB-C có sẵn cả hai loại, password Wi-Fi em viết lên name plate. Trà với nước em chuẩn bị đủ số người ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_03_good_04",
@@ -150,12 +156,12 @@
       "skill": "場面把握",
       "question_ja": "会議の前日、設備チェックリストに含まれない項目はどれか？",
       "options": [
-        "プロジェクターの動作テスト",
-        "HDMI / USB-C ケーブル",
+        "出席者の好きな食べ物",
         "Wi-Fi SSIDとパスワード",
-        "出席者の好きな食べ物"
+        "HDMI / USB-C ケーブル",
+        "プロジェクターの動作テスト"
       ],
-      "correct": "D",
+      "correct": "A",
       "explanation": {
         "ja": "設備チェックリストは会議運営に必要な物品のみ。出席者の嗜好は別件。",
         "vi": "Checklist chuẩn bị chỉ liên quan thiết bị họp. Sở thích cá nhân không thuộc checklist."

@@ -1,6 +1,6 @@
 # Rule 33 — Recording + share / 録画と共有
 
-> **Luận điểm.** Khi 田中 PMO request record để share absent stakeholder → **không quyết tại chỗ một mình**. Quy trình: ① **Permission ask** với toàn bộ participant trước khi REC ② **Edit out** confidential parts (price negotiation, internal critique) ③ **Distribution control** (link Drive limited audience, expire 30 ngày). Quay free-flow + share lung tung = leak risk + violate privacy.
+> **Luận điểm.** Khi 田中 PMO yêu cầu record để gửi cho người vắng mặt → **không quyết tại chỗ một mình**. Quy trình: ① **Xin phép** toàn bộ người tham dự trước khi REC ② **Cắt bỏ** phần bảo mật (price negotiation, góp ý nội bộ) ③ **Kiểm soát phân phối** (link Drive giới hạn người xem, hết hạn 30 ngày). Quay tự do + chia sẻ lung tung = rủi ro rò rỉ + xâm phạm quyền riêng tư.
 >
 > 録画依頼は ① 全員許可 ② confidential 部分編集 ③ 配布範囲制限。免許なし録画はトラブル元。
 >
@@ -10,63 +10,75 @@
 
 ## Bối cảnh / 場面
 
-Pitch Phase 3 starts trong 5 phút. 田中 PMO Slack 田中 → ズン: "上司の山田部長 が当日不在 → 録画して共有可能でしょうか？". Dũng cần xử lý xin permission + framework cho record/share.
+Buổi pitch Phase 3 bắt đầu trong 5 phút. 田中 PMO nhắn Slack 田中 → ズン: "上司の山田部長 が当日不在 → 録画して共有可能でしょうか？". Dũng cần xử lý xin phép + dựng khung quy trình cho việc record/chia sẻ.
 
 ---
 
 ## ❌ Hội thoại XẤU — quay không xin + share email cá nhân
 
-*Slack 9:55 · quyết liền · pitch tiến hành, Dũng REC mà không announce · sau pitch, 大垣 nói câu nội bộ về vendor evaluation cho 田中 · send MP4 200MB qua Gmail cá nhân*
+*Slack 9:55 · quyết liền · pitch tiến hành, Dũng REC mà không thông báo · sau pitch, 大垣 nói câu nội bộ về đánh giá nhà cung cấp cho 田中 · gửi MP4 200MB qua Gmail cá nhân*
 
 | Vai | Câu |
 |---------|-----|
-| **田中** | 「ズンさん、本日のプレゼン録画して山田部長にシェアしたいのですが…」 |
-| **ズン** | 「了解です、Zoom で record すれば OK ですよね。後で MP4 メールで送ります。」 |
-|  | 「実はもう1社見積もり依頼してて…」 |
-| **ズン** | 「録画です、ご共有くださいませ。」 |
+| **田中** | 「ズンさん、本日のプレゼン<ruby>録画<rt>ろくが</rt></ruby>して山田部長にシェアしたいのですが…」 |
+|  | *Anh Dũng, tôi muốn quay buổi pitch hôm nay để gửi cho sếp Yamada...* |
+| **ズン** | 「<ruby>了解<rt>りょうかい</rt></ruby>です、Zoom で record すれば OK ですよね。後で MP4 メールで送ります。」 |
+|  | *OK ạ, Zoom record là OK đúng không ạ. Sau em gửi MP4 qua mail ạ.* |
+| **大垣** | 「実はもう1社<ruby>見積<rt>みつ</rt></ruby>もり<ruby>依頼<rt>いらい</rt></ruby>してて…」 |
+|  | *Thực ra tôi đã yêu cầu báo giá thêm 1 công ty nữa... (không biết đang REC)* |
+| **ズン** | 「<ruby>録画<rt>ろくが</rt></ruby>です、ご<ruby>共有<rt>きょうゆう</rt></ruby>くださいませ。」 |
+|  | *Đây là record ạ, mời share ạ. (gửi MP4 raw 200MB qua Gmail)* |
 
-**Vì sao xấu:** Không announce REC ở phòng → 大垣 phát biểu confidential mà không biết. Send MP4 raw qua Gmail = ① file lớn ② không control distribution ③ chứa confidential. Privacy + confidentiality dual violation.
+**Vì sao xấu:** Không thông báo REC trong phòng → 大垣 phát biểu thông tin bảo mật mà không biết. Gửi MP4 raw qua Gmail = ① file lớn ② không kiểm soát phân phối ③ chứa thông tin bảo mật. Vi phạm cả quyền riêng tư lẫn tính bảo mật.
 
 ---
 
 ## ✅ Hội thoại TỐT — permission + edit + controlled share
 
-*Slack 9:55 · Slack reply · pitch 開始, slide 1 で全員へ · pitch 終了後, Slack 田中 へ*
+*Slack 9:55 · trả lời Slack · pitch 開始, slide 1 nói với cả phòng · pitch 終了後, nhắn Slack cho 田中*
 
 | Vai | Câu |
 |---------|-----|
-| **田中** | 「ズンさん、本日のプレゼン録画して山田部長にシェアしたいのですが…」 |
-| **ズン** | 「承知いたしました。本番開始前に **全participant の許可** を取らせていただきます。**編集後 Drive 限定共有 (30日 expire)** で対応可能です。**生 MP4 メールはセキュリティ上不可** ですが、ご理解いただけますでしょうか【1】？」 |
+| **田中** | 「ズンさん、本日のプレゼン<ruby>録画<rt>ろくが</rt></ruby>して山田部長にシェアしたいのですが…」 |
+|  | *Anh Dũng, tôi muốn quay buổi pitch hôm nay để gửi cho sếp Yamada...* |
+| **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>いたしました。<ruby>本番<rt>ほんばん</rt></ruby><ruby>開始<rt>かいし</rt></ruby><ruby>前<rt>まえ</rt></ruby>に **全participant の<ruby>許可<rt>きょか</rt></ruby>** を取らせていただきます。**<ruby>編集<rt>へんしゅう</rt></ruby>後 Drive <ruby>限定<rt>げんてい</rt></ruby><ruby>共有<rt>きょうゆう</rt></ruby> (30日 expire)** で<ruby>対応<rt>たいおう</rt></ruby><ruby>可能<rt>かのう</rt></ruby>です。**<ruby>生<rt>なま</rt></ruby> MP4 メールはセキュリティ<ruby>上<rt>じょう</rt></ruby><ruby>不可<rt>ふか</rt></ruby>** ですが、ご<ruby>理解<rt>りかい</rt></ruby>いただけますでしょうか【1】？」 |
+|  | *Em đã nhận yêu cầu ạ. Trước khi bắt đầu, em sẽ xin sự đồng ý của toàn bộ người tham dự ạ. Em có thể xử lý theo cách: edit xong thì share Drive giới hạn (tự hết hạn sau 30 ngày) ạ. MP4 raw qua mail thì không được vì lý do bảo mật ạ — mong anh thông cảm ạ.* |
 | **田中** | 「もちろんです、その方法で問題ありません。」 |
-| **ズン** | 「**まず1点お知らせ** ございます。本日 **本セッションを録画させていただきます**【2】。山田部長が当日 ご欠席のため、田中様より **後日録画共有依頼** をいただきました。**全員のご許可** をいただいてから REC 開始させていただきます。何かご懸念ございますでしょうか？」 |
+|  | *Đương nhiên rồi, cách đó không vấn đề.* |
+| **ズン** | 「**まず1点お知らせ** ございます。本日 **本セッションを<ruby>録画<rt>ろくが</rt></ruby>させていただきます**【2】。山田部長が当日 ご<ruby>欠席<rt>けっせき</rt></ruby>のため、田中様より **<ruby>後日<rt>ごじつ</rt></ruby>録画<ruby>共有<rt>きょうゆう</rt></ruby><ruby>依頼<rt>いらい</rt></ruby>** をいただきました。**全員のご許可** をいただいてから REC <ruby>開始<rt>かいし</rt></ruby>させていただきます。何かご<ruby>懸念<rt>けねん</rt></ruby>ございますでしょうか？」 |
+|  | *Trước hết em xin thông báo 1 điểm ạ. Hôm nay em xin phép quay video buổi này ạ. Vì sếp Yamada vắng mặt, anh Tanaka đã yêu cầu gửi lại record sau ạ. Em xin sự cho phép của toàn thể quý vị rồi mới bắt đầu REC ạ. Quý vị có điều gì băn khoăn không ạ?* |
 | **大垣・松本** | 「問題ないです。」 |
-| **ズン** | 「ありがとうございます。**REC 開始** いたします。」 |
-|  | 「録画 raw 1時間20分 → **price negotiation 部分 (28-35分) と confidential 部分 (52-58分) を edit out** いたしました【3】。Drive 閲覧専用リンクで田中様 + 山田部長様 の Email 限定 access、30日後 自動 expire です。」 |
+|  | *Không vấn đề.* |
+| **ズン** | 「ありがとうございます。**REC <ruby>開始<rt>かいし</rt></ruby>** いたします。」 |
+|  | *Em cảm ơn quý vị. Em xin bắt đầu REC ạ.* |
+| **ズン** | 「録画 raw 1時間20分 → **price negotiation 部分 (28-35分) と confidential 部分 (52-58分) を edit out** いたしました【3】。Drive <ruby>閲覧<rt>えつらん</rt></ruby><ruby>専用<rt>せんよう</rt></ruby>リンクで田中様 + 山田部長様 の Email 限定 access、30日後 <ruby>自動<rt>じどう</rt></ruby> expire です。」 |
+|  | *Record raw 1h20 — em đã cắt bỏ phần price negotiation (28-35') và phần confidential (52-58') ạ. Link Drive chỉ-xem, giới hạn email anh Tanaka + sếp Yamada, tự động hết hạn sau 30 ngày ạ.* |
 | **田中** | 「素晴らしいご対応、ありがとうございます。」 |
+|  | *Xử lý tuyệt vời, cảm ơn anh.* |
 
 📝 **Ghi chú:**
-- 【1】**Pre-permission framework** với 田中 → set expectation 編集 + 限定 share. KHÔNG rush "OK 録画送ります".
-- 【2】**On-the-spot announce** với toàn bộ phòng → all-participant consent. Khách Nhật rất chú trọng consent — surprise REC = privacy violation.
-- 【3】**Edit out** confidential parts (price negotiation, vendor critique). Time markers ghi rõ. Drive 閲覧専用 + Email 限定 + 30日 expire = 3 layer security.
+- 【1】**Xin phép trước** với 田中 → đặt kỳ vọng sẽ biên tập + chia sẻ giới hạn. KHÔNG vội vàng "OK 録画送ります".
+- 【2】**Thông báo tại chỗ** với toàn bộ phòng → xin đồng ý của tất cả người tham dự. Khách Nhật rất chú trọng sự đồng ý — REC bất ngờ = xâm phạm quyền riêng tư.
+- 【3】**Cắt bỏ** phần bảo mật (price negotiation, góp ý về nhà cung cấp). Ghi rõ mốc thời gian. Drive 閲覧専用 + Email 限定 + 30日 hết hạn = 3 lớp bảo mật.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **Pre-permission từ requester → On-the-spot consent từ tất cả → Edit confidential → Drive 限定共有 + expire.**
+> **Xin phép trước từ người yêu cầu → Đồng ý tại chỗ từ tất cả → Cắt phần bảo mật → Drive 限定共有 + hết hạn.**
 >
-> *Không quay surprise. Không share raw. Không gửi MP4 qua mail cá nhân.*
+> *Không quay bất ngờ. Không chia sẻ bản raw. Không gửi MP4 qua mail cá nhân.*
 
 ---
 
 ## ⚠ Tránh
 
-- REC mà không announce → privacy violation
-- Edit raw không loại confidential → leak khi share
-- Send MP4 raw qua Gmail / personal email → không control distribution
-- Drive link public → ai cũng access
-- Không expire → file tồn tại indefinitely
-- Quên CC sếp khi share file recording → break audit chain
+- REC mà không thông báo → xâm phạm quyền riêng tư
+- Biên tập bản raw không loại phần bảo mật → rò rỉ khi chia sẻ
+- Gửi MP4 raw qua Gmail / email cá nhân → không kiểm soát phân phối
+- Link Drive công khai → ai cũng truy cập được
+- Không đặt hết hạn → file tồn tại vô thời hạn
+- Quên CC sếp khi chia sẻ file recording → đứt chuỗi truy vết
 
 ---
 

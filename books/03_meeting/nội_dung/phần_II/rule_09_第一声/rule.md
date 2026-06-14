@@ -20,12 +20,16 @@ Buổi họp 4月度月例 với 白鷗 (松本PM, 大垣営業部長). Em Dũng
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「では、Phase 2 進捗報告から始めます。」 |
-| **松本** | *(え、ご挨拶もなく？まだ全員紹介もしていないのに？)* |
-| **大垣** | 「ズンさん、まずは皆様への一言があるかと…」 |
-| **ズン** | 「あ、すみません。本日はお集まりいただきありがとうございます…」 |
+| **ズン** | 「では、Phase 2 <ruby>進捗<rt>しんちょく</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>めます。」 |
+|  | *Vâng, mình bắt đầu từ báo cáo tiến độ Phase 2 nhé.* |
+| **松本** | *(え、ご<ruby>挨拶<rt>あいさつ</rt></ruby>もなく？まだ<ruby>全員紹介<rt>ぜんいんしょうかい</rt></ruby>もしていないのに？)* |
+|  | *(Ơ, không có cả lời chào sao? Còn chưa giới thiệu hết mọi người mà?)* |
+| **大垣** | 「ズンさん、まずは<ruby>皆様<rt>みなさま</rt></ruby>への<ruby>一言<rt>ひとこと</rt></ruby>があるかと…」 |
+|  | *Dũng à, đầu tiên nên có 1 câu chào mọi người đã chứ nhỉ...* |
+| **ズン** | 「あ、すみません。<ruby>本日<rt>ほんじつ</rt></ruby>はお<ruby>集<rt>あつ</rt></ruby>まりいただきありがとうございます…」 |
+|  | *Ồ, em xin lỗi ạ. Cảm ơn quý anh chị đã đến hôm nay ạ...* |
 
-**Vì sao xấu:** Bỏ qua câu mở chuẩn = bất lịch sự với khách (đặc biệt khách Nhật cấp cao). 「で、〜から始めます」 quá khô. Khách bị "shocked" ngay từ giây đầu.
+**Vì sao xấu:** Bỏ qua câu mở chuẩn = bất lịch sự với khách (đặc biệt khách Nhật cấp cao). 「で、〜から始めます」 quá khô. Khách bị hụt hẫng ngay từ giây đầu.
 
 ---
 
@@ -35,10 +39,14 @@ Buổi họp 4月度月例 với 白鷗 (松本PM, 大垣営業部長). Em Dũng
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「皆様、本日はお忙しい中お集まりいただき、誠にありがとうございます【1】。」 |
-| **ズン** | 「本日の司会を務めさせていただきます、ティエンファットのズンでございます【2】。」 |
-| **ズン** | 「早速ではございますが、本日のアジェンダに沿って進めさせていただきます【3】。」 |
-| **松本 / 大垣** | 「よろしくお願いいたします。」 |
+| **ズン** | 「<ruby>皆様<rt>みなさま</rt></ruby>、本日はお<ruby>忙<rt>いそが</rt></ruby>しい<ruby>中<rt>なか</rt></ruby>お<ruby>集<rt>あつ</rt></ruby>まりいただき、<ruby>誠<rt>まこと</rt></ruby>にありがとうございます【1】。」 |
+|  | *Kính thưa quý anh chị, em xin chân thành cảm ơn quý anh chị đã dành thời gian đến tham dự hôm nay ạ.* |
+| **ズン** | 「本日の<ruby>司会<rt>しかい</rt></ruby>を<ruby>務<rt>つと</rt></ruby>めさせていただきます、ティエンファットのズンでございます【2】。」 |
+|  | *Em là Dũng bên Thiên Phát, em xin phép làm chủ trì buổi họp hôm nay ạ.* |
+| **ズン** | 「<ruby>早速<rt>さっそく</rt></ruby>ではございますが、本日のアジェンダに<ruby>沿<rt>そ</rt></ruby>って<ruby>進<rt>すす</rt></ruby>めさせていただきます【3】。」 |
+|  | *Em xin phép vào nội dung luôn, em sẽ tiến hành theo agenda hôm nay ạ.* |
+| **松本 / 大垣** | 「よろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。」 |
+|  | *Phiền em nhé.* |
 
 📝 **Ghi chú:**
 - 【1】**「お忙しい中」「誠に」** — bộ đôi tăng cấp lễ phép. Không có 「お忙しい中」 → cảm thấy thiếu. 「誠に」 mạnh hơn 「本当に」.
@@ -49,7 +57,7 @@ Buổi họp 4月度月例 với 白鷗 (松本PM, 大垣営業部長). Em Dũng
 
 ## 🎯 Câu chốt
 
-> **「本日はお忙しい中お集まりいただき、誠にありがとうございます。」**
+> **「本日はお<ruby>忙<rt>いそが</rt></ruby>しい<ruby>中<rt>なか</rt></ruby>お<ruby>集<rt>あつ</rt></ruby>まりいただき、<ruby>誠<rt>まこと</rt></ruby>にありがとうございます。」**
 >
 > *Câu này là câu mặc định mở mọi cuộc họp khách Nhật. Học thuộc.*
 

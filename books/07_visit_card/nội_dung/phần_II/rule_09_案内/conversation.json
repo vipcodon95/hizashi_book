@@ -9,7 +9,11 @@
     "ja": "ロビーお出迎え後、ズンが白鷗3名をエレベーター経由で3階会議室まで案内する場面。",
     "vi": "Sau đón ở lobby, Dũng dẫn 3 khách 白鷗 qua thang máy lên phòng họp tầng 3."
   },
-  "related_rules": ["rule_08", "rule_10", "rule_13"],
+  "related_rules": [
+    "rule_08",
+    "rule_10",
+    "rule_13"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -107,7 +111,9 @@
           "sentence_translation": "Mời các anh đi theo hướng này ạ. Phòng họp ở tầng 3.",
           "tone": "formal",
           "speed_multiplier": 0.95,
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_09_good_02",
@@ -117,7 +123,9 @@
           "sentence": "（エレベーター前に到着、ボタンを押して扉を押さえる）お先にどうぞ。",
           "sentence_translation": "(đến cửa thang máy, bấm nút giữ cửa) Mời các anh vào trước ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_09_good_03",
@@ -136,7 +144,9 @@
           "sentence": "（最後に乗り、操作盤側に立つ）3階に参ります。",
           "sentence_translation": "(vào sau cùng, đứng cạnh bảng nút) Em đưa các anh lên tầng 3 ạ.",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_09_good_05",
@@ -164,7 +174,9 @@
           "sentence": "（ノック2回→ドアを開けて押さえる）会議室はこちらでございます。",
           "sentence_translation": "(gõ 2 lần → mở giữ cửa) Phòng họp ở đây ạ.",
           "tone": "formal",
-          "annotation_ids": ["4"]
+          "annotation_ids": [
+            "4"
+          ]
         }
       ]
     }
@@ -194,12 +206,12 @@
       "skill": "場面把握",
       "question_ja": "エレベーター内で host が立つ位置として最も適切なのは？",
       "options": [
-        "中央",
         "扉のすぐ前",
         "操作盤側 (奥は客=上座)",
+        "中央",
         "客の真後ろ"
       ],
-      "correct": "C",
+      "correct": "B",
       "explanation": {
         "ja": "host が操作盤を担当、客は奥(エレベーター内の上座)。",
         "vi": "Host phụ trách bảng nút, khách đứng trong (kamiza trong thang máy)."

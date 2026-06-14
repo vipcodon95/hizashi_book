@@ -1,6 +1,6 @@
 # Rule 27 — Lưu log tham vấn / 相談ログ
 
-> **Luận điểm.** Tham vấn miệng → quyết định → 1 tháng sau ai cũng quên. Khi vấn đề tương tự xảy ra, team lại tham vấn lần nữa = lãng phí. Phải có **Decision Register** (相談ログ): mỗi tham vấn có quyết định ghi vào 1 dòng — **date / topic / options considered / chosen / rationale / reviewer**. Sau 6 tháng → repository tri thức team. Cũng là 防衛 (phòng vệ): khi sếp hoặc khách hỏi "tại sao quyết thế?" → mở log ra, không phải dò trí nhớ.
+> **Luận điểm.** Tham vấn miệng → quyết định → 1 tháng sau ai cũng quên. Khi vấn đề tương tự xảy ra, team lại tham vấn lần nữa = lãng phí. Phải có **Decision Register** (相談ログ): mỗi tham vấn có quyết định ghi vào 1 dòng — **date / topic / options considered / chosen / rationale / reviewer**. Sau 6 tháng → kho tri thức của team. Cũng là 防衛 (phòng vệ): khi sếp hoặc khách hỏi "tại sao quyết thế?" → mở log ra, không phải dò trí nhớ.
 >
 > 相談ログ = decision register。1相談1行：日付・論点・検討案・採用案・理由・承認者。Notion / Confluence / Sheets で団体運用。
 >
@@ -18,13 +18,18 @@ Cuối tháng. Anh Hà CTO hỏi: "tại sao Phase 2 dùng MySQL chứ không Po
 
 | Vai | Câu |
 |---------|-----|
-| **ハーCTO** | 「ズン、Phase 3 設計レビューで疑問が出た。Phase 2 で MySQL 採用したのはなぜ?」 |
-| **ズン** | 「えっと…3ヶ月前に決めたんですが…理由は…ちょっと記憶が…」 |
-| **ハーCTO** | 「Slack を遡る? どのチャネル?」 |
-| **ズン** | 「#phase2-tech だったか #db-選定 だったか…」(1時間後)「あ、ありました!松本様の運用チームが MySQL 慣れてるからでした…」 |
-| **ハーCTO** | 「決定事項は **Decision Register に1行残す**。1時間使うのは無駄。Notion テンプレ送るから今日中に整備して。」 |
+| **ハーCTO** | 「ズン、Phase 3 <ruby>設計<rt>せっけい</rt></ruby>レビューで<ruby>疑問<rt>ぎもん</rt></ruby>が出た。Phase 2 で MySQL <ruby>採用<rt>さいよう</rt></ruby>したのはなぜ?」 |
+|  | *Dũng, có thắc mắc khi review thiết kế Phase 3. Tại sao Phase 2 lại chọn MySQL?* |
+| **ズン** | 「えっと…3ヶ月前に決めたんですが…<ruby>理由<rt>りゆう</rt></ruby>は…ちょっと<ruby>記憶<rt>きおく</rt></ruby>が…」 |
+|  | *Ờ... 3 tháng trước quyết... lý do... em chưa nhớ ra...* |
+| **ハーCTO** | 「Slack を<ruby>遡<rt>さかのぼ</rt></ruby>る? どのチャネル?」 |
+|  | *Đào Slack à? Channel nào?* |
+| **ズン** | 「#phase2-tech だったか #db-<ruby>選定<rt>せんてい</rt></ruby> だったか…」(1時間後)「あ、ありました!<ruby>松本<rt>まつもと</rt></ruby>様の<ruby>運用<rt>うんよう</rt></ruby>チームが MySQL <ruby>慣<rt>な</rt></ruby>れてるからでした…」 |
+|  | *#phase2-tech hay #db-選定 nhỉ... (1 giờ sau) À có rồi ạ! Vì team vận hành anh Matsumoto quen MySQL ạ...* |
+| **ハーCTO** | 「<ruby>決定事項<rt>けっていじこう</rt></ruby>は **Decision Register に1行残す**。1時間使うのは<ruby>無駄<rt>むだ</rt></ruby>。Notion テンプレ送るから今日中に<ruby>整備<rt>せいび</rt></ruby>して。」 |
+|  | *Việc đã quyết phải lưu 1 dòng vào Decision Register. Mất 1 giờ là lãng phí. Anh sẽ gửi template Notion, em build trong hôm nay.* |
 
-**Vì sao xấu:** L2 trí nhớ không đáng tin sau 3 tháng. L4 đào Slack 1 giờ. L5 chỉ ra: phải có log structured.
+**Vì sao xấu:** L2 trí nhớ không đáng tin sau 3 tháng. L4 đào Slack 1 giờ. L5 chỉ ra: phải có log có cấu trúc.
 
 ---
 
@@ -34,11 +39,16 @@ Cuối tháng. Anh Hà CTO hỏi: "tại sao Phase 2 dùng MySQL chứ không Po
 
 | Vai | Câu |
 |---------|-----|
-| **ハーCTO** | 「Phase 3 設計レビューで疑問。Phase 2 で MySQL 採用したのはなぜ?」 |
-| **ズン** | 「Decision Register をご確認ください。**DR-2026-0118** の1行です【1】。」 |
-| **ズン** | 「日付:2026/1/18 / 論点:Phase 2 DB選定 / 検討案:①MySQL ②Postgres ③DynamoDB / 採用:MySQL / 理由:松本様運用チームが MySQL 経験豊富 + ライセンスコスト低 + Phase 1 連携容易 / 承認者:ハーCTO + フオン副部長 / リスク:水平分散時の制約【2】。」 |
-| **ハーCTO** | 「完璧。これがあれば 30 秒で議論できる。Phase 3 でも継続して。」 |
-| **ズン** | 「はい。**今週分も明日 EOD までに3件追加します**: AWS リージョン、デプロイ時間帯、印刷会社変更です【3】。」 |
+| **ハーCTO** | 「Phase 3 設計レビューで<ruby>疑問<rt>ぎもん</rt></ruby>。Phase 2 で MySQL <ruby>採用<rt>さいよう</rt></ruby>したのはなぜ?」 |
+|  | *Review Phase 3 có thắc mắc. Tại sao Phase 2 chọn MySQL?* |
+| **ズン** | 「Decision Register をご<ruby>確認<rt>かくにん</rt></ruby>ください。**DR-2026-0118** の1行です【1】。」 |
+|  | *Anh xem Decision Register giúp em ạ. Là dòng DR-2026-0118 ạ.* |
+| **ズン** | 「<ruby>日付<rt>ひづけ</rt></ruby>:2026/1/18 / <ruby>論点<rt>ろんてん</rt></ruby>:Phase 2 DB<ruby>選定<rt>せんてい</rt></ruby> / <ruby>検討案<rt>けんとうあん</rt></ruby>:①MySQL ②Postgres ③DynamoDB / <ruby>採用<rt>さいよう</rt></ruby>:MySQL / <ruby>理由<rt>りゆう</rt></ruby>:<ruby>松本<rt>まつもと</rt></ruby>様<ruby>運用<rt>うんよう</rt></ruby>チームが MySQL <ruby>経験豊富<rt>けいけんほうふ</rt></ruby> + ライセンスコスト<ruby>低<rt>てい</rt></ruby> + Phase 1 <ruby>連携容易<rt>れんけいようい</rt></ruby> / <ruby>承認者<rt>しょうにんしゃ</rt></ruby>:ハーCTO + フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby> / リスク:<ruby>水平分散時<rt>すいへいぶんさんじ</rt></ruby>の<ruby>制約<rt>せいやく</rt></ruby>【2】。」 |
+|  | *Date: 18/1/2026 / Topic: chọn DB Phase 2 / Options xét: MySQL / Postgres / DynamoDB / Chọn: MySQL / Lý do: team vận hành anh Matsumoto quen MySQL + chi phí license thấp + dễ tích hợp Phase 1 / Duyệt: anh Hà CTO + chị Hương / Risk: hạn chế khi cần phân tán ngang.* |
+| **ハーCTO** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。これがあれば 30 秒で<ruby>議論<rt>ぎろん</rt></ruby>できる。Phase 3 でも<ruby>継続<rt>けいぞく</rt></ruby>して。」 |
+|  | *Hoàn hảo. Có cái này thì tranh luận 30 giây xong. Phase 3 cũng duy trì nhé.* |
+| **ズン** | 「はい。**今週分も明日 EOD までに3件<ruby>追加<rt>ついか</rt></ruby>します**: AWS リージョン、デプロイ<ruby>時間帯<rt>じかんたい</rt></ruby>、<ruby>印刷会社変更<rt>いんさつがいしゃへんこう</rt></ruby>です【3】。」 |
+|  | *Vâng. Tuần này em sẽ thêm 3 dòng trước EOD ngày mai: AWS region, thời điểm deploy, đổi nhà in ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**「DR-2026-0118 の1行」** — Decision Register có ID code. Sếp có thể tra cứu ngay.

@@ -9,7 +9,11 @@
     "ja": "ズンが派手な色テンプレで作ったスライドをフオン副部長が止め、保守的なネイビー＋チャコール＋アクセント1色に絞らせる場面。",
     "vi": "Slide Dũng làm bằng template sặc sỡ — Hương cản và yêu cầu thu về palette navy + charcoal + 1 accent."
   },
-  "related_rules": ["rule_04", "rule_19", "rule_20"],
+  "related_rules": [
+    "rule_04",
+    "rule_19",
+    "rule_20"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -89,7 +93,9 @@
           "sentence": "色を3色制限にしました。プライマリ: ネイビー(#1E3A5F)、サブ: チャコール(#3A3A3A)、アクセント: 白鷗ブルー(#4A90C2)。背景は薄グレー。",
           "sentence_translation": "Em đã giới hạn còn 3 màu ạ. Primary: navy (#1E3A5F), sub: charcoal (#3A3A3A), accent: xanh Hakuō (#4A90C2). Nền xám nhạt.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_05_good_02",
@@ -99,7 +105,9 @@
           "sentence": "いいね、白鷗ブランドカラーをアクセントに使うのは気が利いてる。CTAボタンは何色？",
           "sentence_translation": "Ổn, lấy màu thương hiệu Hakuō làm accent thế là khéo đấy. Nút CTA màu gì?",
           "tone": "warm",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_05_good_03",
@@ -139,12 +147,12 @@
       "skill": "場面把握",
       "question_ja": "日本の老舗顧客向けプレゼンで、タイトルの色として最も適切なのは？",
       "options": [
-        "鮮やかな赤",
-        "ネオングリーン",
         "ネイビー or チャコール",
+        "ネオングリーン",
+        "鮮やかな赤",
         "鮮やかな黄色"
       ],
-      "correct": "C",
+      "correct": "A",
       "explanation": {
         "ja": "保守的なネイビー・チャコールが institution の信頼感を伝える。赤は警告・CTA専用。",
         "vi": "Navy / charcoal truyền tín hiệu institution. Đỏ chỉ dành cho cảnh báo / CTA."

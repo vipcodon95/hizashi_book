@@ -1,6 +1,6 @@
 # Rule 06 — 3-tier proposal: Good / Better / Best / 3段階提案
 
-> **Luận điểm.** Đưa **1 giá duy nhất** = khách bị bắt yes/no. Đưa **3 tier (Good / Better / Best)** = khách compare nội bộ → kiến trúc lựa chọn (choice architecture) nghiêng về Better (hiệu ứng mồi / decoy effect). 95% khách Nhật sẽ chọn middle tier nếu cấu trúc đúng.
+> **Luận điểm.** Đưa **1 giá duy nhất** = khách bị bắt yes/no. Đưa **3 tier (Good / Better / Best)** = khách so sánh nội bộ → kiến trúc lựa chọn (choice architecture) nghiêng về Better (hiệu ứng mồi / decoy effect). 95% khách Nhật sẽ chọn tier giữa nếu cấu trúc đúng.
 >
 > 1価格提示は yes/no を迫る。3段階提案 (Good/Better/Best) は社内比較を促し、**中間案 (Better) が選ばれる確率を高める**。Phase 3 のような戦略案件は必ず 3 段階で出す。
 >
@@ -18,12 +18,16 @@ Họp với Hà CTO + Hương + Tuấn xong, Dũng cần soạn proposal deck. H
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、提案 deck draft、価格 ¥18M で1 案にまとめました。」 |
-| **フオン** | 「1 案だけ？大垣さんは社内で比較できないし、yes か no しかなくなる。**no が出たら戻れない**。3 段階で作り直して。」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、提案 deck draft、<ruby>価格<rt>かかく</rt></ruby> ¥18M で1 案にまとめました。」 |
+|  | *Chị Hương, draft deck đề xuất em làm 1 phương án ¥18M ạ.* |
+| **フオン** | 「1 案だけ？<ruby>大垣<rt>おおがき</rt></ruby>さんは<ruby>社内<rt>しゃない</rt></ruby>で<ruby>比較<rt>ひかく</rt></ruby>できないし、yes か no しかなくなる。**no が出たら戻れない**。3 <ruby>段階<rt>だんかい</rt></ruby>で作り直して。」 |
+|  | *Chỉ 1 phương án? Anh Ōgaki không có gì so nội bộ, chỉ còn yes/no. No là không quay lại được. Làm lại 3-tier đi.* |
 | **ズン** | 「3 段階だと安い方を選ばれませんか？」 |
-| **フオン** | 「**逆。中間案を一番魅力的に設計**すれば、Better が選ばれる。Good は機能削減で『これじゃ意味ない』感、Best は scope 拡張で『高すぎる』感を出す。これ choice architecture。」 |
+|  | *3 tier thì khách chọn cái rẻ thì sao chị?* |
+| **フオン** | 「**逆。<ruby>中間案<rt>ちゅうかんあん</rt></ruby>を一番<ruby>魅力的<rt>みりょくてき</rt></ruby>に設計**すれば、Better が選ばれる。Good は<ruby>機能削減<rt>きのうさくげん</rt></ruby>で『これじゃ意味ない』感、Best は scope <ruby>拡張<rt>かくちょう</rt></ruby>で『高すぎる』感を出す。これ choice architecture。」 |
+|  | *Ngược lại. Thiết kế tier giữa hấp dẫn nhất là khách chọn Better. Good cắt feature kiểu 'cái này không đáng', Best mở rộng scope kiểu 'đắt quá'. Đó là choice architecture.* |
 
-**Vì sao xấu:** 1 tier = forced binary. Khách không có chỗ "thoả hiệp lịch sự" trong nội bộ ringi → reject probability tăng. Mất cơ hội định khung Better làm "perceived best value".
+**Vì sao xấu:** 1 tier = ép chọn yes/no. Khách không có chỗ "thoả hiệp lịch sự" trong nội bộ ringi → xác suất bị từ chối tăng. Mất cơ hội định khung Better thành "phương án giá trị tốt nhất trong mắt khách".
 
 ---
 
@@ -31,23 +35,29 @@ Họp với Hà CTO + Hương + Tuấn xong, Dũng cần soạn proposal deck. H
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「3 段階提案を作成しました。Good ¥14M / Better ¥18M / Best ¥24M。**Better を recommended 表示**【1】、Good は AI engine なし basic 版、Best は専任 SRE 含む full 版です。」 |
-| **フオン** | 「Good の機能削減は？」 |
-| **ズン** | 「Good は AI レコメンドなし、SLA 99.5% (Better は 99.9%)、サポート営業時間のみ【2】。白鷗の Phase 3 目的『売上 +¥80M』には実質届かない設計。」 |
+| **ズン** | 「3 <ruby>段階提案<rt>だんかいていあん</rt></ruby>を作成しました。Good ¥14M / Better ¥18M / Best ¥24M。**Better を recommended 表示**【1】、Good は AI engine なし basic 版、Best は<ruby>専任<rt>せんにん</rt></ruby> SRE 含む full 版です。」 |
+|  | *Em đã tạo 3-tier ạ. Good ¥14M / Better ¥18M / Best ¥24M. Better đánh dấu 'recommended', Good là bản basic không AI engine, Best là full kèm SRE chuyên trách ạ.* |
+| **フオン** | 「Good の<ruby>機能削減<rt>きのうさくげん</rt></ruby>は？」 |
+|  | *Phần cắt chức năng của Good là gì?* |
+| **ズン** | 「Good は AI レコメンドなし、SLA 99.5% (Better は 99.9%)、サポート<ruby>営業時間<rt>えいぎょうじかん</rt></ruby>のみ【2】。<ruby>白鷗<rt>はくおう</rt></ruby>の Phase 3 目的『<ruby>売上<rt>うりあげ</rt></ruby> +¥80M』には<ruby>実質<rt>じっしつ</rt></ruby>届かない設計。」 |
+|  | *Good không có AI recommend, SLA 99.5% (Better 99.9%), support chỉ trong giờ hành chính. Thiết kế thực chất không đạt mục tiêu Phase 3 'doanh thu +¥80M' của Hakuō ạ.* |
 | **フオン** | 「Best は？」 |
-| **ズン** | 「Best は専任 SRE 1 名常駐、SLA 99.99%、24/7 サポート、優先機能開発【3】。CFO 中村さんの『コスト圧縮』トーンに照らすと『出しすぎ』感を出す設計です。」 |
-| **フオン** | 「完璧。**Better が『現実解』に見える構造**。明日のキックオフで使おう。」 |
+|  | *Còn Best?* |
+| **ズン** | 「Best は<ruby>専任<rt>せんにん</rt></ruby> SRE 1 名<ruby>常駐<rt>じょうちゅう</rt></ruby>、SLA 99.99%、24/7 サポート、<ruby>優先機能開発<rt>ゆうせんきのうかいはつ</rt></ruby>【3】。CFO <ruby>中村<rt>なかむら</rt></ruby>さんの『コスト<ruby>圧縮<rt>あっしゅく</rt></ruby>』トーンに照らすと『出しすぎ』感を出す設計です。」 |
+|  | *Best có 1 SRE chuyên trách túc trực, SLA 99.99%, support 24/7, ưu tiên dev feature. Đối chiếu tone 'nén chi phí' của CFO Nakamura, thiết kế để cảm 'chi quá tay' ạ.* |
+| **フオン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。**Better が『<ruby>現実解<rt>げんじつかい</rt></ruby>』に見える<ruby>構造<rt>こうぞう</rt></ruby>**。明日のキックオフで使おう。」 |
+|  | *Hoàn hảo. Cấu trúc khiến Better hiện ra như 'phương án thực tế'. Mai kickoff dùng cái này.* |
 
 📝 **Ghi chú:**
-- 【1】**Recommended 表示** — chữ "おすすめ"/"推奨" trên ô Better, nghiên cứu trải nghiệm người dùng cho thấy +35% conversion.
-- 【2】**Good intentional weakness** — KHÔNG phải Good là "rẻ và OK", phải là "rẻ nhưng thiếu cái khách cần" → khách tự loại.
-- 【3】**Best intentional excess** — overspec để Better thành "vừa phải". Best vẫn phải là deal nếu khách chọn (không phải lựa chọn giả / fake option).
+- 【1】**Dấu "Recommended"** — chữ "おすすめ"/"推奨" trên ô Better, nghiên cứu trải nghiệm người dùng cho thấy tỷ lệ chốt tăng +35%.
+- 【2】**Good cố ý làm yếu** — KHÔNG phải Good là "rẻ và ổn", phải là "rẻ nhưng thiếu cái khách cần" → khách tự loại.
+- 【3】**Best cố ý làm dư** — vượt mức cần thiết để Better thành "vừa phải". Best vẫn phải là thương vụ thật nếu khách chọn (không phải lựa chọn giả / phương án bẫy).
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「Good/Better/Best の3段階で、中間案を最も魅力的に設計する。」**
+> **「Good/Better/Best の3<ruby>段階<rt>だんかい</rt></ruby>で、<ruby>中間案<rt>ちゅうかんあん</rt></ruby>を最も<ruby>魅力的<rt>みりょくてき</rt></ruby>に<ruby>設計<rt>せっけい</rt></ruby>する。」**
 >
 > *3 tier Good/Better/Best, design Better đẹp nhất.*
 
@@ -55,10 +65,10 @@ Họp với Hà CTO + Hương + Tuấn xong, Dũng cần soạn proposal deck. H
 
 ## ⚠ Tránh
 
-- 3 tier mà tier giữa không hấp dẫn → khách chọn Good (giá thấp, lose money)
+- 3 tier mà tier giữa không hấp dẫn → khách chọn Good (giá thấp, lỗ vốn)
 - Best phi thực tế đến mức khách cười → mất uy tín
-- Quên mark "Recommended" / "おすすめ" trên Better → mất 30%+ effect
-- Đặt giá gap đều (vd: ¥14M / ¥18M / ¥22M cách đều ¥4M) → không tận dụng decoy. Gap không đều giúp Better nổi bật hơn.
+- Quên đánh dấu "Recommended" / "おすすめ" trên Better → mất hơn 30% hiệu quả
+- Đặt khoảng cách giá đều (vd: ¥14M / ¥18M / ¥22M cách đều ¥4M) → không tận dụng được hiệu ứng mồi. Khoảng cách không đều giúp Better nổi bật hơn.
 
 ---
 

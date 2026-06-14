@@ -9,7 +9,11 @@
     "ja": "Phase 3 ピッチ終了後の同日。ズンは月曜送付を考えるが、フオン副部長が 24h ルール+2段階送付を指示。",
     "vi": "Cùng ngày kết thúc pitch Phase 3. Dũng định để thứ Hai gửi mail. Hương yêu cầu áp 24h rule + chia 2 lần."
   },
-  "related_rules": ["rule_24", "rule_26", "rule_27"],
+  "related_rules": [
+    "rule_24",
+    "rule_26",
+    "rule_27"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -100,7 +104,9 @@
           "sentence": "ドラフトです。3パラ + 添付3点 + 持ち帰り SOAP detail 期限金曜17時 明記しました。",
           "sentence_translation": "Draft đây ạ. 3 đoạn + 3 file đính kèm + ghi rõ deadline 持ち帰り SOAP detail trước 17h thứ Sáu ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_28_good_04",
@@ -139,12 +145,12 @@
       "skill": "場面把握",
       "question_ja": "ピッチ後 follow-up メールの送付タイミングとして適切なのは？",
       "options": [
-        "同日中に short acknowledgment + 翌営業日に詳細版 (2段階)",
-        "翌週月曜に詳細版1通のみ",
         "1週間後に sammary",
+        "翌週月曜に詳細版1通のみ",
+        "同日中に short acknowledgment + 翌営業日に詳細版 (2段階)",
         "送らない"
       ],
-      "correct": "A",
+      "correct": "C",
       "explanation": {
         "ja": "客は当日中に社内シェアするので、24h以内の acknowledgment が必須。詳細は翌営業日で OK。",
         "vi": "Khách share nội bộ trong ngày, nên acknowledgment trong 24h là bắt buộc. Bản chi tiết sang ngày làm việc kế tiếp là OK."

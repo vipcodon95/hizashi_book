@@ -1,6 +1,6 @@
-# Rule 16 — Festivals theo mùa / 季節行事
+# Rule 16 — Lễ hội theo mùa / 季節行事
 
-> **Luận điểm.** Lịch JP chia 4 mùa rõ + 1 chuỗi 年中行事 (lễ hội thường niên). Mở topic đúng lễ hội + đúng vùng = tự nhiên: **桜 (4月) / 花火 (7-8月) / 紅葉 (11月) / お正月 (1月)** + lễ hội vùng (青森ねぶた / 京都祇園祭 / 仙台七夕 / 徳島阿波踊り). Chậm 1 tuần = lỗi mùa.
+> **Luận điểm.** Lịch JP chia 4 mùa rõ + 1 chuỗi 年中行事 (lễ hội thường niên). Mở chủ đề đúng lễ hội + đúng vùng = tự nhiên: **桜 (4月) / 花火 (7-8月) / 紅葉 (11月) / お正月 (1月)** + lễ hội vùng (青森ねぶた / 京都祇園祭 / 仙台七夕 / 徳島阿波踊り). Chậm 1 tuần = lỗi mùa.
 
 ---
 
@@ -8,18 +8,18 @@
 
 - Người Nhật sống theo lịch lễ hội — mỗi lễ là **mốc cảm xúc tập thể**.
 - Hỏi đúng tuần có lễ = thể hiện **lịch tinh tế** + đồng điệu cảm xúc.
-- Senior 50-60t có **kỷ niệm tuổi thơ** đậm với lễ vùng quê → khoái kể.
-- Tránh comment chính trị về 神社 / お盆 (tôn giáo) — chỉ nói văn hóa.
+- Người lớn tuổi (50-60t) có **kỷ niệm tuổi thơ** đậm với lễ vùng quê → khoái kể.
+- Tránh bình luận chính trị về 神社 / お盆 (tôn giáo) — chỉ nói văn hóa.
 
 ---
 
 ## 🎬 Bối cảnh
 
-Năm 2026 Dũng có nhiều buổi gặp khách JP đúng giai đoạn lễ hội — 4月 hanami với Matsumoto, 8月 花火 với Nakamura, 11月 紅葉 với Kato (Hida-Takayama), 12月-1月 お正月 với Ōgaki. Mỗi lễ một vocab + một etiquette.
+Năm 2026 Dũng có nhiều buổi gặp khách JP đúng giai đoạn lễ hội — 4月 hanami với Matsumoto, 8月 花火 với Nakamura, 11月 紅葉 với Kato (Hida-Takayama), 12月-1月 お正月 với Ōgaki. Mỗi lễ một nhóm từ vựng + một quy tắc ứng xử.
 
 ---
 
-## 💬 4 Scenarios — dialogue thực chiến
+## 💬 4 Scenario — hội thoại thực chiến
 
 ### 📍 Scenario 1 — お花見 (4月 — Matsumoto Tokyo)
 
@@ -27,81 +27,113 @@ Năm 2026 Dũng có nhiều buổi gặp khách JP đúng giai đoạn lễ hộ
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「松本さん、おはようございます。**先週末、目黒川**【1】の桜、満開でしたね。」 |
+| **ズン** | 「松本さん、おはようございます。**先週末、<ruby>目黒川<rt>めぐろがわ</rt></ruby>**【1】の桜、<ruby>満開<rt>まんかい</rt></ruby>でしたね。」 |
+|  | *Anh Matsumoto, chào anh. Cuối tuần trước đào sông Meguro nở rộ nhỉ.* |
 | **松本** | 「ズンさん、目黒川まで行ったの?**ライトアップ**の写真、SNSにすごく流れたよね。」 |
-| **ズン** | 「夜行きました。屋台で**桜餅**【2】食べて…**お花見団子**【3】の三色、初めて知りました。」 |
+|  | *Em đi tận sông Meguro à? Ảnh ánh đèn lan tràn SNS nhỉ.* |
+| **ズン** | 「夜行きました。<ruby>屋台<rt>やたい</rt></ruby>で**<ruby>桜餅<rt>さくらもち</rt></ruby>**【2】食べて…**お<ruby>花見団子<rt>はなみだんご</rt></ruby>**【3】の三色、初めて知りました。」 |
+|  | *Em đi tối. Ăn sakuramochi ở quầy hàng... lần đầu biết hanami-dango có 3 màu.* |
 | **松本** | 「**ピンク・白・緑**【4】、それぞれ意味あるんだよ。**ピンク=春**、**白=冬**、**緑=夏**…って桜の周りの季節を表す。」 |
-| **ズン** | 「文化的に深いんですね。今度の週末、**新宿御苑**【5】の桜祭り行ってきます。」 |
-| **松本** | 「いいね。御苑は**ソメイヨシノ**【6】**山桜**【7】**八重桜**【8】、種類豊富。**敷物**持って行ってのんびり。」 |
-| **ズン** | 「**場所取り**って早朝からなんですよね?」 |
-| **松本** | 「うちの会社は新人が朝7時から場所取り(笑)。**幹事**【9】の役目、ベトナムでも似てる?」 |
+|  | *Hồng, trắng, xanh — mỗi màu có ý nghĩa. Hồng = xuân, trắng = đông, xanh = hè... biểu hiện 3 mùa quanh đào.* |
+| **ズン** | 「<ruby>文化的<rt>ぶんかてき</rt></ruby>に深いんですね。今度の週末、**<ruby>新宿御苑<rt>しんじゅくぎょえん</rt></ruby>**【5】の桜祭り行ってきます。」 |
+|  | *Văn hóa sâu nhỉ. Cuối tuần tới em đi lễ đào ở Shinjuku Gyōen.* |
+| **松本** | 「いいね。御苑は**ソメイヨシノ**【6】**<ruby>山桜<rt>やまざくら</rt></ruby>**【7】**<ruby>八重桜<rt>やえざくら</rt></ruby>**【8】、種類豊富。**<ruby>敷物<rt>しきもの</rt></ruby>**持って行ってのんびり。」 |
+|  | *Hay đó. Gyōen có Somei Yoshino, đào núi, đào kép — đủ loại. Mang chiếu đi ngồi thư thái.* |
+| **ズン** | 「**<ruby>場所取<rt>ばしょと</rt></ruby>り**って<ruby>早朝<rt>そうちょう</rt></ruby>からなんですよね?」 |
+|  | *Giữ chỗ phải đi từ sớm đúng không ạ?* |
+| **松本** | 「うちの会社は新人が朝7時から場所取り(笑)。**<ruby>幹事<rt>かんじ</rt></ruby>**【9】の役目、ベトナムでも似てる?」 |
+|  | *Công ty anh nhân viên mới giữ chỗ từ 7h sáng (cười). Vai "kanji" — Việt Nam có giống không?* |
 
 📝【1】 **目黒川** = phố sông sakura nổi tiếng Tokyo. 【2】 **桜餅** = bánh mochi gói lá đào muối. 【3】 **花見団子** = 3 viên dango 3 màu. 【4】 = 3 màu = 3 mùa. 【5】 **新宿御苑** = công viên Hoàng gia. 【6】 **ソメイヨシノ** = giống đào phổ biến. 【7】**山桜** = đào núi. 【8】 **八重桜** = đào nhiều cánh. 【9】 **幹事** = người tổ chức.
 
-> **VN:** Hanami vocab: **満開 / 散り際 / 場所取り / 花見団子 / 桜餅 / 夜桜 / ライトアップ / 八重桜**. Biết ý nghĩa 3 màu dango = level cao.
+> **VN:** Từ vựng hanami: **満開 / 散り際 / 場所取り / 花見団子 / 桜餅 / 夜桜 / ライトアップ / 八重桜**. Biết ý nghĩa 3 màu dango = trình độ cao.
 
 ---
 
 ### 📍 Scenario 2 — 花火大会 (8月 — Nakamura Hokkaido)
 
-*7月末 · impress*
+*cuối tháng 7 · gây ấn tượng*
 
 | Vai | Câu |
 |---------|-----|
-| **中村** | 「ズンさん、夏休みは予定ある?今年は**隅田川花火大会**【1】に家族で行く予定。」 |
-| **ズン** | 「隅田川!**7月最後の土曜**【2】ですよね?**屋形船**【3】で観るのが憧れです。」 |
-| **中村** | 「屋形船は予約大変だよ(笑)。今年は**浴衣**【4】着て**両国橋**で観る予定。北海道だと、札幌に**道新花火大会**ある。**3万発**【5】、規模大きいよ。」 |
-| **ズン** | 「3万発!すごいですね。**長岡花火**【6】とか**諏訪湖花火**もよくニュースで…」 |
-| **中村** | 「お、日本の三大花火知ってる?**長岡(新潟)・大曲(秋田)・土浦(茨城)**。それぞれ特色違う。長岡は**フェニックス**【7】が有名。」 |
-| **ズン** | 「**フェニックス**!幅2km の不死鳥、復興の象徴ですよね。」 |
-| **中村** | 「ズンさん、相当勉強してるね…2004年の中越地震の追悼として始まった。今度ぜひ実物見て。」 |
-| **ズン** | 「来年8月、長岡計画させてください。」 |
+| **中村** | 「ズンさん、<ruby>夏休<rt>なつやす</rt></ruby>みは予定ある?今年は**<ruby>隅田川花火大会<rt>すみだがわはなびたいかい</rt></ruby>**【1】に家族で行く予定。」 |
+|  | *Dũng có kế hoạch nghỉ hè không? Năm nay nhà anh đi pháo hoa Sumida.* |
+| **ズン** | 「隅田川!**7月最後の<ruby>土曜<rt>どよう</rt></ruby>**【2】ですよね?**<ruby>屋形船<rt>やかたぶね</rt></ruby>**【3】で観るのが<ruby>憧<rt>あこが</rt></ruby>れです。」 |
+|  | *Sumida! Thứ 7 cuối tháng 7 đúng không ạ? Em mơ xem từ thuyền yakatabune.* |
+| **中村** | 「屋形船は<ruby>予約<rt>よやく</rt></ruby>大変だよ(笑)。今年は**<ruby>浴衣<rt>ゆかた</rt></ruby>**【4】着て**<ruby>両国橋<rt>りょうごくばし</rt></ruby>**で観る予定。北海道だと、札幌に**<ruby>道新花火大会<rt>どうしんはなびたいかい</rt></ruby>**ある。**3<ruby>万発<rt>まんぱつ</rt></ruby>**【5】、<ruby>規模<rt>きぼ</rt></ruby>大きいよ。」 |
+|  | *Yakatabune đặt khó (cười). Năm nay anh mặc yukata xem từ cầu Ryōgoku. Hokkaido thì có lễ Dōshin Sapporo, 30,000 quả, to.* |
+| **ズン** | 「3万発!すごいですね。**<ruby>長岡花火<rt>ながおかはなび</rt></ruby>**【6】とか**<ruby>諏訪湖花火<rt>すわこはなび</rt></ruby>**もよくニュースで…」 |
+|  | *30,000 quả! Khủng quá. Pháo hoa Nagaoka với hồ Suwa cũng hay lên tin...* |
+| **中村** | 「お、日本の<ruby>三大花火<rt>さんだいはなび</rt></ruby>知ってる?**<ruby>長岡<rt>ながおか</rt></ruby>(新潟)・<ruby>大曲<rt>おおまがり</rt></ruby>(秋田)・<ruby>土浦<rt>つちうら</rt></ruby>(茨城)**。それぞれ<ruby>特色<rt>とくしょく</rt></ruby>違う。長岡は**フェニックス**【7】が有名。」 |
+|  | *Ồ, biết tam đại pháo hoa nhỉ? Nagaoka, Ōmagari, Tsuchiura. Mỗi nơi đặc trưng khác. Nagaoka có Phoenix nổi tiếng.* |
+| **ズン** | 「**フェニックス**!幅2km の<ruby>不死鳥<rt>ふしちょう</rt></ruby>、<ruby>復興<rt>ふっこう</rt></ruby>の<ruby>象徴<rt>しょうちょう</rt></ruby>ですよね。」 |
+|  | *Phoenix! Phượng hoàng dài 2km, biểu tượng tái thiết đúng không ạ.* |
+| **中村** | 「ズンさん、<ruby>相当<rt>そうとう</rt></ruby>勉強してるね…2004年の<ruby>中越地震<rt>ちゅうえつじしん</rt></ruby>の<ruby>追悼<rt>ついとう</rt></ruby>として始まった。今度ぜひ<ruby>実物<rt>じつぶつ</rt></ruby>見て。」 |
+|  | *Em học kỹ thật... ra đời năm 2004 sau động đất Chūetsu để tưởng niệm. Lần sau xem thực tế nhé.* |
+| **ズン** | 「来年8月、長岡<ruby>計画<rt>けいかく</rt></ruby>させてください。」 |
+|  | *Tháng 8 năm sau em sẽ lên kế hoạch đi Nagaoka.* |
 
 📝【1】 **隅田川花火大会** = 7月 cuối tuần thứ 4-5, lễ hội 240 năm. 【2】 thường thứ 7 cuối 7月. 【3】 **屋形船** = thuyền truyền thống. 【4】 **浴衣** = yukata mùa hè. 【5】 = 30,000 quả. 【6】 **長岡花火** = lễ Phượng hoàng tưởng niệm động đất. 【7】 **フェニックス** = pháo hoa hình phượng hoàng dài 2km.
 
-> **VN:** Vocab 花火: **打ち上げ花火 / 仕掛け花火 / フィナーレ / 三尺玉 / 玉屋・鍵屋**. **三大花火大会** = vốn quan trọng.
+> **VN:** Từ vựng 花火: **打ち上げ花火 / 仕掛け花火 / フィナーレ / 三尺玉 / 玉屋・鍵屋**. **三大花火大会** = vốn quan trọng.
 
 ---
 
 ### 📍 Scenario 3 — 紅葉狩り (11月 — Kato Gifu/Hida)
 
-*zoom giữa tháng 10*
+*họp Zoom giữa tháng 10*
 
 | Vai | Câu |
 |---------|-----|
-| **加藤** | 「ズンさん、**飛騨高山**の**紅葉**【1】、ちょうど今が**見頃**。来週来れる?」 |
-| **ズン** | 「飛騨!**白川郷**【2】も**茅葺屋根**【3】に紅葉の構図、写真でずっと憧れて…」 |
-| **加藤** | 「**白川郷ライトアップ**は1月の雪景色だけど、紅葉も最高。**香嵐渓**【4】(愛知)、**永観堂**【5】(京都)とは違う、**飛騨独特の山深い紅葉**。」 |
-| **ズン** | 「香嵐渓と永観堂!京都の**清水寺**夜間拝観も気になります。」 |
-| **加藤** | 「京都は混雑がすごいけどね。岐阜なら**新穂高ロープウェイ**【6】、**3000メートル**【7】から**紅葉の絨毯**を見下ろせる。」 |
-| **ズン** | 「3000m!**寒さ対策**【8】必須ですね。**飛騨牛朴葉味噌**で温まるのも楽しみで。」 |
-| **加藤** | 「お、つながったね(笑)。あと**飛騨高山祭**【9】、4月と10月、屋台が出る。**山車**【10】、**ユネスコ無形文化遺産**よ。」 |
+| **加藤** | 「ズンさん、**<ruby>飛騨高山<rt>ひだたかやま</rt></ruby>**の**<ruby>紅葉<rt>こうよう</rt></ruby>**【1】、ちょうど今が**<ruby>見頃<rt>みごろ</rt></ruby>**。来週来れる?」 |
+|  | *Dũng, lá đỏ Hida-Takayama đang đẹp nhất. Tuần sau đến được không?* |
+| **ズン** | 「飛騨!**<ruby>白川郷<rt>しらかわごう</rt></ruby>**【2】も**<ruby>茅葺屋根<rt>かやぶきやね</rt></ruby>**【3】に紅葉の<ruby>構図<rt>こうず</rt></ruby>、写真でずっと<ruby>憧<rt>あこが</rt></ruby>れて…」 |
+|  | *Hida! Shirakawa-go với mái cỏ tranh + lá đỏ — em mê tấm ảnh đó từ lâu...* |
+| **加藤** | 「**白川郷ライトアップ**は1月の<ruby>雪景色<rt>ゆきげしき</rt></ruby>だけど、紅葉も最高。**<ruby>香嵐渓<rt>こうらんけい</rt></ruby>**【4】(愛知)、**<ruby>永観堂<rt>えいかんどう</rt></ruby>**【5】(京都)とは違う、**飛騨<ruby>独特<rt>どくとく</rt></ruby>の<ruby>山深<rt>やまぶか</rt></ruby>い紅葉**。」 |
+|  | *Thắp đèn Shirakawa-go là tháng 1 ngắm tuyết, nhưng lá đỏ cũng đỉnh. Khác Kōrankei (Aichi), Eikandō (Kyoto) — Hida sâu núi đặc trưng.* |
+| **ズン** | 「香嵐渓と永観堂!京都の**<ruby>清水寺<rt>きよみずでら</rt></ruby>**<ruby>夜間拝観<rt>やかんはいかん</rt></ruby>も気になります。」 |
+|  | *Kōrankei với Eikandō! Em cũng tò mò chùa Kiyomizu mở đêm Kyoto.* |
+| **加藤** | 「京都は<ruby>混雑<rt>こんざつ</rt></ruby>がすごいけどね。岐阜なら**<ruby>新穂高<rt>しんほたか</rt></ruby>ロープウェイ**【6】、**3000メートル**【7】から**紅葉の<ruby>絨毯<rt>じゅうたん</rt></ruby>**を<ruby>見下<rt>みお</rt></ruby>ろせる。」 |
+|  | *Kyoto đông kinh khủng. Gifu thì có cáp treo Shinhotaka, từ 3000m nhìn xuống thảm lá đỏ.* |
+| **ズン** | 「3000m!**<ruby>寒<rt>さむ</rt></ruby>さ<ruby>対策<rt>たいさく</rt></ruby>**【8】<ruby>必須<rt>ひっす</rt></ruby>ですね。**<ruby>飛騨牛<rt>ひだぎゅう</rt></ruby><ruby>朴葉味噌<rt>ほおばみそ</rt></ruby>**で<ruby>温<rt>あたた</rt></ruby>まるのも楽しみで。」 |
+|  | *3000m! Phải chuẩn bị chống lạnh. Em mong cả ăn bò Hida + miso hōba để ấm.* |
+| **加藤** | 「お、つながったね(笑)。あと**<ruby>飛騨高山祭<rt>ひだたかやままつり</rt></ruby>**【9】、4月と10月、屋台が出る。**<ruby>山車<rt>だし</rt></ruby>**【10】、**ユネスコ<ruby>無形文化遺産<rt>むけいぶんかいさん</rt></ruby>**よ。」 |
+|  | *Ồ, em nối được rồi (cười). Còn lễ Hida-Takayama tháng 4 và 10, có yatai. Xe diễu hành — di sản văn hóa phi vật thể UNESCO.* |
 | **ズン** | 「ユネスコ!10月の**秋の高山祭**、ぜひ行きたいです。」 |
+|  | *UNESCO! Lễ Takayama mùa thu tháng 10 em rất muốn đi.* |
 
-📝【1】 **紅葉** (こうよう / もみじ) = lá đỏ. 【2】 **白川郷** = UNESCO làng cỏ tranh. 【3】 **茅葺屋根** = mái cỏ tranh. 【4】 **香嵐渓** = top 紅葉 Aichi. 【5】 **永観堂** = chùa 紅葉 Kyoto. 【6】 **新穂高ロープウェイ** = cáp treo Hida. 【7】 = 3000m altitude. 【8】 = chuẩn bị lạnh. 【9】 **飛騨高山祭** = lễ tháng 4 và 10. 【10】 **山車** = xe diễu hành.
+📝【1】 **紅葉** (こうよう / もみじ) = lá đỏ. 【2】 **白川郷** = UNESCO làng cỏ tranh. 【3】 **茅葺屋根** = mái cỏ tranh. 【4】 **香嵐渓** = điểm 紅葉 hàng đầu Aichi. 【5】 **永観堂** = chùa 紅葉 Kyoto. 【6】 **新穂高ロープウェイ** = cáp treo Hida. 【7】 = độ cao 3000m. 【8】 = chuẩn bị chống lạnh. 【9】 **飛騨高山祭** = lễ tháng 4 và 10. 【10】 **山車** = xe diễu hành.
 
-> **VN:** Vocab 紅葉: **見頃 / 紅葉狩り / 紅葉前線 / モミジ / イチョウ**. Lễ vùng: **高山祭 (4/10月) / 京都時代祭 (10月) / 神戸ルミナリエ (12月)**.
+> **VN:** Từ vựng 紅葉: **見頃 / 紅葉狩り / 紅葉前線 / モミジ / イチョウ**. Lễ vùng: **高山祭 (4/10月) / 京都時代祭 (10月) / 神戸ルミナリエ (12月)**.
 
 ---
 
 ### 📍 Scenario 4 — お正月 (12月-1月 — Ōgaki)
 
-*zoom 12/28 · rạng rỡ*
+*họp Zoom 28/12 · rạng rỡ*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「大垣さん、本年は本当にお世話になりました。**お正月**は実家に帰省されるんですか?」 |
-| **大垣** | 「ええ、京都の実家。**お節料理**【1】**お雑煮**【2】**初詣**【3】、毎年同じだけど落ち着く。」 |
-| **ズン** | 「お雑煮、**地域で全然違う**って聞きました。**関東は角餅すまし汁**、**関西は丸餅白味噌**【4】、合ってますか?」 |
-| **大垣** | 「お、関西人みたいな知識(笑)。京都は丸餅白味噌、あと**頭芋**【5】入れる家もある。九州行くと**博多雑煮**は**ぶり**入る。」 |
-| **ズン** | 「ぶり!地域ごとに具が違うんですね。**お節**は重箱の段ごとに意味があるんですよね?」 |
-| **大垣** | 「**一の重 = 祝い肴**(黒豆・数の子・田作り)、**二の重 = 焼き物**、**三の重 = 煮物**、**与の重 = 酢の物**。各料理に**縁起**【6】の意味。」 |
-| **ズン** | 「**黒豆=まめに働く**、**数の子=子孫繁栄**、**田作り=豊作**…合ってますか?」 |
-| **大垣** | 「完璧!ベトナム人で、ここまで知ってる人初めて(笑)。来年もよろしくお願いします。**良いお年を**。」 |
+| **ズン** | 「大垣さん、<ruby>本年<rt>ほんねん</rt></ruby>は本当にお<ruby>世話<rt>せわ</rt></ruby>になりました。**お正月**は<ruby>実家<rt>じっか</rt></ruby>に<ruby>帰省<rt>きせい</rt></ruby>されるんですか?」 |
+|  | *Anh Ōgaki, năm nay anh giúp đỡ em rất nhiều. Năm mới anh về quê ạ?* |
+| **大垣** | 「ええ、京都の実家。**<ruby>お節料理<rt>おせちりょうり</rt></ruby>**【1】**<ruby>お雑煮<rt>おぞうに</rt></ruby>**【2】**<ruby>初詣<rt>はつもうで</rt></ruby>**【3】、毎年同じだけど<ruby>落<rt>お</rt></ruby>ち着く。」 |
+|  | *Vâng, nhà bố mẹ ở Kyoto. Osechi, ozōni, hatsumōde — năm nào cũng vậy nhưng yên bình.* |
+| **ズン** | 「お雑煮、**<ruby>地域<rt>ちいき</rt></ruby>で全然違う**って聞きました。**関東は<ruby>角餅<rt>かくもち</rt></ruby>すまし<ruby>汁<rt>じる</rt></ruby>**、**関西は<ruby>丸餅<rt>まるもち</rt></ruby><ruby>白味噌<rt>しろみそ</rt></ruby>**【4】、合ってますか?」 |
+|  | *Em nghe ozōni khác hẳn theo vùng. Kantō thì mochi vuông súp trong, Kansai thì mochi tròn miso trắng, đúng không ạ?* |
+| **大垣** | 「お、<ruby>関西人<rt>かんさいじん</rt></ruby>みたいな<ruby>知識<rt>ちしき</rt></ruby>(笑)。京都は丸餅白味噌、あと**<ruby>頭芋<rt>かしらいも</rt></ruby>**【5】<ruby>入<rt>い</rt></ruby>れる家もある。九州行くと**<ruby>博多雑煮<rt>はかたぞうに</rt></ruby>**は**ぶり**入る。」 |
+|  | *Ồ, kiến thức kiểu người Kansai luôn (cười). Kyoto là mochi tròn miso trắng, có nhà còn cho khoai sọ to. Đến Kyushu thì Hakata ozōni có cá buri.* |
+| **ズン** | 「ぶり!地域ごとに<ruby>具<rt>ぐ</rt></ruby>が違うんですね。**お節**は<ruby>重箱<rt>じゅうばこ</rt></ruby>の<ruby>段<rt>だん</rt></ruby>ごとに意味があるんですよね?」 |
+|  | *Cá buri! Mỗi vùng nhân khác nhau. Osechi mỗi tầng hộp có ý nghĩa riêng đúng không ạ?* |
+| **大垣** | 「**<ruby>一<rt>いち</rt></ruby>の重 = <ruby>祝<rt>いわ</rt></ruby>い<ruby>肴<rt>ざかな</rt></ruby>**(<ruby>黒豆<rt>くろまめ</rt></ruby>・<ruby>数<rt>かず</rt></ruby>の子・<ruby>田作<rt>たづく</rt></ruby>り)、**二の重 = <ruby>焼<rt>や</rt></ruby>き物**、**三の重 = <ruby>煮物<rt>にもの</rt></ruby>**、**<ruby>与<rt>よ</rt></ruby>の重 = <ruby>酢<rt>す</rt></ruby>の物**。各料理に**<ruby>縁起<rt>えんぎ</rt></ruby>**【6】の意味。」 |
+|  | *Tầng 1 = món chúc mừng (đậu đen, trứng cá trích, cá khô đường), tầng 2 nướng, tầng 3 hầm, tầng 4 chua. Mỗi món có ý điềm lành.* |
+| **ズン** | 「**黒豆=まめに働く**、**数の子=<ruby>子孫繁栄<rt>しそんはんえい</rt></ruby>**、**田作り=<ruby>豊作<rt>ほうさく</rt></ruby>**…合ってますか?」 |
+|  | *Đậu đen = làm việc cần mẫn, trứng cá = đông con cháu, tazukuri = mùa màng tốt... đúng không ạ?* |
+| **大垣** | 「<ruby>完璧<rt>かんぺき</rt></ruby>!ベトナム人で、ここまで知ってる人初めて(笑)。来年もよろしくお願いします。**良いお年を**。」 |
+|  | *Hoàn hảo! Người Việt biết đến mức này anh gặp lần đầu (cười). Năm sau cũng nhờ em. Chúc năm mới tốt lành.* |
 
-📝【1】 **お節料理** = osechi, đồ năm mới truyền thống. 【2】 **お雑煮** = súp mochi (vùng khác nhau). 【3】 **初詣** = thăm đền lần đầu năm mới. 【4】 関東 vs 関西 difference. 【5】 **頭芋** = khoai sọ to (Kyoto). 【6】 **縁起** = điềm lành.
+📝【1】 **お節料理** = osechi, đồ năm mới truyền thống. 【2】 **お雑煮** = súp mochi (vùng khác nhau). 【3】 **初詣** = thăm đền lần đầu năm mới. 【4】 khác biệt 関東 với 関西. 【5】 **頭芋** = khoai sọ to (Kyoto). 【6】 **縁起** = điềm lành.
 
-> **VN:** お正月 vocab cực phong phú. **お節 (一の重〜与の重) / お雑煮 (角/丸 + すまし/白味噌) / 初詣 / 鏡餅 / お年玉 / 年越しそば / 紅白歌合戦 / 除夜の鐘**. Senior cảm phục khi biết phân biệt 関東/関西/博多 雑煮.
+> **VN:** Từ vựng お正月 cực phong phú. **お節 (一の重〜与の重) / お雑煮 (角/丸 + すまし/白味噌) / 初詣 / 鏡餅 / お年玉 / 年越しそば / 紅白歌合戦 / 除夜の鐘**. Người lớn tuổi cảm phục khi biết phân biệt 関東/関西/博多 雑煮.
 
 ---
 
@@ -126,8 +158,8 @@ Năm 2026 Dũng có nhiều buổi gặp khách JP đúng giai đoạn lễ hộ
 ■ お正月 (12-1月):
 「お正月は実家に帰省されますか?」
 「[お節/お雑煮]の楽しみ方、地域で違うんですよね。」
-「良いお年をお迎えください。」(12月末đóng)
-「明けましておめでとうございます。」(1月mở)
+「良いお年をお迎えください。」(cuối tháng 12 — câu đóng)
+「明けましておめでとうございます。」(tháng 1 — câu mở)
 ```
 
 ---
@@ -136,13 +168,13 @@ Năm 2026 Dũng có nhiều buổi gặp khách JP đúng giai đoạn lễ hộ
 
 - Mở 桜 sau 4月20日 (phía Tokyo đã rụng) → lệch mùa.
 - Hỏi 花火 vào 9月 → đã hết mùa.
-- Comment **靖国神社** / 政治的 ý nghĩa của 初詣 → tránh tuyệt đối.
-- Hỏi giá おせち cao cấp (50,000 yên) → unappropriated.
+- Bình luận **靖国神社** / 政治的 ý nghĩa của 初詣 → tránh tuyệt đối.
+- Hỏi giá おせち cao cấp (50,000 yên) → không phù hợp.
 - "ベトナムの春節の方が賑やか" → so sánh tiêu cực.
 
 ---
 
-## 📚 Vocab
+## 📚 Bảng từ vựng
 
 | 漢字 | よみ | Nghĩa |
 |------|------|-------|
@@ -171,9 +203,9 @@ Năm 2026 Dũng có nhiều buổi gặp khách JP đúng giai đoạn lễ hộ
 
 ## 🎓 BJT
 
-**J3 — 場面把握:** Match đúng lễ với tháng + vùng — không lệch mùa.
+**J3 — 場面把握:** Ghép đúng lễ với tháng + vùng — không lệch mùa.
 **J2 — 表現読解:** Phân biệt 関東/関西/博多 雑煮.
-**J1 — 発言聴解:** Catch tên lễ vùng (青森ねぶた / 京都祇園 / 徳島阿波踊り) khách mention → react.
+**J1 — 発言聴解:** Bắt được tên lễ vùng (青森ねぶた / 京都祇園 / 徳島阿波踊り) khi khách nhắc đến → phản hồi.
 
 ---
 

@@ -31,7 +31,7 @@ Tháng 6/2024. Đại được nhận vào Lawson Namba — cửa hàng 800m² c
 | Vai | Lời thoại |
 |---|---|
 | Đại | （バックヤードに<ruby>入<rt>はい</rt></ruby>る）<ruby>失礼<rt>しつれい</rt></ruby>します！グエン・ヴァン・ダイです。<ruby>本日<rt>ほんじつ</rt></ruby>からお<ruby>世話<rt>せわ</rt></ruby>になります。<br>*(Vào khu nhân viên. Em xin phép! Em là Nguyễn Văn Đại. Hôm nay em bắt đầu, mong được giúp đỡ ạ.)* |
-| Suzuki | おお、ダイ<ruby>君<rt>くん</rt></ruby>！<ruby>店長<rt>てんちょう</rt></ruby>の<ruby>鈴木<rt>すずき</rt></ruby>や。よろしくな。<ruby>制服<rt>せいふく</rt></ruby>は<ruby>更衣室<rt>こういしつ</rt></ruby>やで。<br>*(Ô, Đại! Tenchou Suzuki đây. Mong cậu giúp đỡ nhé. Đồng phục để trong phòng thay đồ.)* |
+| Suzuki | おお、ダイ<ruby>君<rt>くん</rt></ruby>！<ruby>店長<rt>てんちょう</rt></ruby>の<ruby>鈴木<rt>すずき</rt></ruby>や。よろしくな。<ruby>制服<rt>せいふく</rt></ruby>は<ruby>更衣室<rt>こういしつ</rt></ruby>やで。<br>*(Ô, Đại! Tenchou Suzuki đây. Cố lên nhé. Đồng phục để trong phòng thay đồ.)* |
 | Đại | はい、<ruby>承知<rt>しょうち</rt></ruby>しました。<br>*(Vâng, em rõ ạ.)* |
 | Suzuki | <ruby>本日<rt>ほんじつ</rt></ruby><ruby>同<rt>おな</rt></ruby>じシフトはタナカ<ruby>君<rt>くん</rt></ruby>とパクさんや。タナカ<ruby>君<rt>くん</rt></ruby>がメンターやから、<ruby>分<rt>わ</rt></ruby>からんことは<ruby>何<rt>なん</rt></ruby>でも<ruby>聞<rt>き</rt></ruby>いてな。<br>*(Cùng ca hôm nay là Tanaka với Park. Tanaka làm mentor, có gì không hiểu thì cứ hỏi.)* |
 | Đại | はい、よろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。<br>*(Vâng, mong anh chỉ bảo ạ.)* |
@@ -124,8 +124,8 @@ Tháng 6/2024. Đại được nhận vào Lawson Namba — cửa hàng 800m² c
 | Tanaka-kun | （<ruby>横<rt>よこ</rt></ruby>から<ruby>小声<rt>こごえ</rt></ruby>で）タバコは<ruby>番号<rt>ばんごう</rt></ruby>で<ruby>覚<rt>おぼ</rt></ruby>えるんや。マルボロ<ruby>赤<rt>あか</rt></ruby>は<ruby>15<rt>じゅうご</rt></ruby><ruby>番<rt>ばん</rt></ruby>。<ruby>年齢<rt>ねんれい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>も<ruby>忘<rt>わす</rt></ruby>れんといて。<br>*(Bên cạnh nói nhỏ. Thuốc lá nhớ theo số. Marlboro đỏ là số 15. Đừng quên xác nhận tuổi.)* |
 | Đại | （<ruby>頷<rt>うなず</rt></ruby>く）お<ruby>客様<rt>きゃくさま</rt></ruby>、<ruby>恐<rt>おそ</rt></ruby>れ<ruby>入<rt>い</rt></ruby>りますが、<ruby>20歳<rt>はたち</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>でいらっしゃいますか？<ruby>確認<rt>かくにん</rt></ruby>いたします。<br>*(Gật. Thưa quý khách, xin phép xác nhận, quý khách có trên 20 tuổi không ạ?)* |
 | Khách 3 | （<ruby>頷<rt>うなず</rt></ruby>く）はい。<br>*(Gật. Vâng.)* |
-| Đại | ありがとうございます。（<ruby>15<rt>じゅうご</rt></ruby><ruby>番<rt>ばん</rt></ruby>を<ruby>取<rt>と</rt></ruby>る）マルボロ<ruby>赤<rt>あか</rt></ruby>、<ruby>580<rt>ごひゃくはちじゅう</rt></ruby><ruby>円<rt>えん</rt></ruby>になります。<br>*(Em cảm ơn ạ. Lấy số 15. Marlboro đỏ, 580 yên ạ.)* |
-| Khách 3 | （<ruby>1000<rt>せん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>札<rt>さつ</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>す）<br>*(Đưa tờ 1000 yên.)* |
+| Đại | ありがとうございます。（<ruby>15<rt>じゅうご</rt></ruby><ruby>番<rt>ばん</rt></ruby>を<ruby>取<rt>と</rt></ruby>る）マルボロ<ruby>赤<rt>あか</rt></ruby>、<ruby>580<rt>ごひゃくはちじゅう</rt></ruby><ruby>円<rt>えん</rt></ruby>になります。<ruby>年齢<rt>ねんれい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>のため、<ruby>画面<rt>がめん</rt></ruby>のボタンにタッチをお<ruby>願<rt>ねが</rt></ruby>いします。<br>*(Em cảm ơn ạ. Lấy số 15. Marlboro đỏ, 580 yên ạ. Để xác nhận tuổi, mời quý khách chạm nút trên màn hình ạ.)* |
+| Khách 3 | （<ruby>画面<rt>がめん</rt></ruby>をタッチして<ruby>1000<rt>せん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>札<rt>さつ</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>す）<br>*(Chạm màn hình rồi đưa tờ 1000 yên.)* |
 | Đại | <ruby>1000<rt>せん</rt></ruby><ruby>円<rt>えん</rt></ruby>お<ruby>預<rt>あず</rt></ruby>かりいたします。<ruby>420<rt>よんひゃくにじゅう</rt></ruby><ruby>円<rt>えん</rt></ruby>のお<ruby>返<rt>かえ</rt></ruby>しでございます。ありがとうございました！<br>*(Em xin nhận 1000 yên. Xin gửi lại 420 yên ạ. Cảm ơn quý khách!)* |
 
 ---
@@ -221,16 +221,16 @@ Tháng 6/2024. Đại được nhận vào Lawson Namba — cửa hàng 800m² c
 
 ## Đọng lại chương 5
 
-Đại vượt qua ca baito đầu tiên ở Lawson Namba — 4 tiếng đứng quầy, gặp đủ kiểu khách: anh văn phòng mua onigiri, ông mua thuốc lá Marlboro 15 番, bà cô mua bánh bao, khách Tây hỏi nhà vệ sinh, anh trai mua bento phải hâm. Đại học được **6 câu chào keigo cốt lõi** (いらっしゃいませ・ありがとうございました・少々お待ちください・失礼いたします・申し訳ございません・確認いたします), **mẫu hỏi lại lễ phép** (もう一度お願いします・〜というのは何ですか), **mẫu xác nhận tuổi 20+** (20歳以上でいらっしゃいますか), **mẫu hâm bento** (お箸はおつけしますか・袋にご一緒にお入れしてもよろしいですか), **mẫu nhận-trả tiền** (〜円お預かりいたします・〜円のお返しでございます). Park dạy 5 câu tiếng Anh mẫu cho khách quốc tế. Suzuki tenchou feedback 3 điểm tốt + 2 điểm cần fix (cười, hai tay trả tiền thừa). Về nhà gọi Mai, kể chuyện trong ngày bằng tiếng Việt có chêm từ JP đã học.
+Đại vượt qua ca baito đầu tiên ở Lawson Namba — 4 tiếng đứng quầy, gặp đủ kiểu khách: anh văn phòng mua onigiri, ông mua thuốc lá Marlboro 15 番, bà cô mua bánh bao, khách Tây hỏi nhà vệ sinh, anh trai mua bento phải hâm. Đại học được **6 câu chào keigo cốt lõi** (いらっしゃいませ・ありがとうございました・少々お待ちください・失礼いたします・申し訳ございません・確認いたします), **mẫu hỏi lại lễ phép** (もう一度お願いします・〜というのは何ですか), **mẫu xác nhận tuổi 20+** (年齢確認のため、画面のボタンにタッチをお願いします), **mẫu hâm bento** (お箸はおつけしますか・袋にご一緒にお入れしてもよろしいですか), **mẫu nhận-trả tiền** (〜円お預かりいたします・〜円のお返しでございます). Park dạy 5 câu tiếng Anh mẫu cho khách quốc tế. Suzuki tenchou feedback 3 điểm tốt + 2 điểm cần fix (cười, hai tay trả tiền thừa). Về nhà gọi Mai, kể chuyện trong ngày bằng tiếng Việt có chêm từ JP đã học.
 
-> Từ vựng & mẫu câu chương này: いらっしゃいませ・ありがとうございました・少々お待ちください・失礼いたします・申し訳ございません・確認いたします・もう一度お願いします・〜というのは・お預かりいたします・〜のお返しでございます・20歳以上でいらっしゃいますか・年齢確認・POS・バーコード・現金・PayPay・ICOCA・電子レンジ・お箸はおつけしますか・袋にご一緒にお入れします・賞味期限・食事支給・店長・更衣室
+> Từ vựng & mẫu câu chương này: いらっしゃいませ・ありがとうございました・少々お待ちください・失礼いたします・申し訳ございません・確認いたします・もう一度お願いします・〜というのは・お預かりいたします・〜のお返しでございます・年齢確認のため画面のボタンにタッチをお願いします・年齢確認・POS・バーコード・現金・PayPay・ICOCA・電子レンジ・お箸はおつけしますか・袋にご一緒にお入れします・賞味期限・食事支給・店長・更衣室
 
 ## Bí quyết chương
 
 - **6 câu chào keigo**: Học ở trường rồi, nhưng đứng quầy thật mới biết "声、大きく出すんやで" — phải hô to.
 - **Hỏi lại lễ phép**: `〜というのは何ですか` an toàn hơn `何ですか`, dùng được với cả tenchou.
 - **Số thuốc lá**: Marlboro đỏ = 15 番. Đặc trưng konbini, mỗi mác có số riêng.
-- **20歳以上 xác nhận**: Bắt buộc trước khi bán thuốc/rượu. Không hỏi là phạm quy.
+- **Xác nhận tuổi 20+**: Bắt buộc trước khi bán thuốc/rượu. Thực tế ở konbini Nhật, khách tự chạm nút "20歳以上です" trên màn hình POS phía khách — nhân viên chỉ hướng dẫn "画面のボタンにタッチをお願いします".
 - **Park giải vây tiếng Anh**: Senpai nước ngoài dạy senpai nước ngoài — pattern thực tế Lawson Namba.
 - **Hai tay trả tiền thừa**: Suzuki góp ý nhỏ nhưng định hình cả 5 năm. Văn hoá Nhật.
 - **食事支給 bento gần hết hạn**: Phúc lợi ngầm — Park biết, Tanaka biết, ai cũng lấy.

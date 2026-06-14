@@ -9,7 +9,11 @@
     "ja": "リン(インターン)が初プレゼン前にズンへフックパターンを相談する場面。Story/Data/Question から audience に合わせて選ぶ方法を学ぶ。",
     "vi": "Linh (intern) tham vấn Dũng về hook pattern trước lần pitch đầu. Học cách chọn Story / Data / Question theo audience."
   },
-  "related_rules": ["rule_08", "rule_12", "rule_18"],
+  "related_rules": [
+    "rule_08",
+    "rule_12",
+    "rule_18"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -89,7 +93,9 @@
           "sentence": "3パターンの選び方を教えるね。(A) ストーリー型: rapport ある相手 + 自分の delivery 自信ある時。(B) データ型: 初対面 + 保守的相手。(C) 質問型: 相手が議論モードに入ってる時。",
           "sentence_translation": "Để anh chỉ cách chọn 3 pattern nhé. (A) Story: khi đã có rapport + tự tin delivery. (B) Data: lần đầu gặp + khách bảo thủ. (C) Question: khi khách đã ở mode thảo luận.",
           "tone": "warm",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_11_good_02",
@@ -108,7 +114,9 @@
           "sentence": "正解。Bは『驚き数字 → だからこの話』の流れ。『手作業で1日3時間使っているこの作業、15分に圧縮できます』 で30秒成立。",
           "sentence_translation": "Đúng rồi. B đi theo flow 「số gây sốc → vì vậy chuyện này」. Câu 「Cái việc thủ công ngốn 3 tiếng/ngày này, có thể nén xuống 15 phút」 là đủ 30 giây.",
           "tone": "warm",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_11_good_04",
@@ -141,8 +149,8 @@
       "options": [
         "学生時代の長いストーリー",
         "驚きの数字から入る (データ型)",
-        "鋭い修辞疑問を投げる",
-        "自社製品の機能列挙"
+        "自社製品の機能列挙",
+        "鋭い修辞疑問を投げる"
       ],
       "correct": "B",
       "explanation": {

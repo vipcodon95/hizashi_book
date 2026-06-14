@@ -13,40 +13,118 @@
     "muc_tieu_vi": "Build memory bank discipline + 2 templates ready-to-use."
   },
   "related_rules": [
-    {"book": "08", "rule": "33", "topic": "Memory bank regional"},
-    {"book": "08", "rule": "49", "topic": "雑談ネタ収集"},
-    {"book": "08", "rule": "51", "topic": "Self-review"}
+    {
+      "book": "08",
+      "rule": "33",
+      "topic": "Memory bank regional"
+    },
+    {
+      "book": "08",
+      "rule": "49",
+      "topic": "雑談ネタ収集"
+    },
+    {
+      "book": "08",
+      "rule": "51",
+      "topic": "Self-review"
+    }
   ],
   "conversations": [
     {
       "scenario": "Apply memory bank — 3 phút review trước họp",
       "type": "good",
       "lines": [
-        {"speaker": "oogaki_sales", "ja": "ズン、おはよう。", "vi": "Dũng, chào em."},
-        {"speaker": "zun", "ja": "大垣さん、おはようございます。お嬢様、もう大学受験迫ってきましたね、調子いかがですか?", "vi": "Anh Ōgaki, chào anh. Cháu sắp đến kỳ thi đại học rồi nhỉ, cháu ổn không ạ?"},
-        {"speaker": "oogaki_sales", "ja": "えっ、よく覚えてるなあ!来月共通テストやけど、最近スランプ気味でな…", "vi": "Ơ, em nhớ giỏi vậy! Tháng sau thi chung rồi, gần đây cháu hơi slump..."},
-        {"speaker": "zun", "ja": "3か月前で大変な時期ですよね。ご家族でサポート、大変ですね。", "vi": "3 tháng trước thi là giai đoạn căng. Cả nhà support cũng vất vả nhỉ."},
-        {"speaker": "oogaki_sales", "ja": "妻が一番気合い入っとるわ(笑)。じゃ、今日のキックオフ、よろしく。", "vi": "Vợ anh dồn vào nhất (cười). Thôi, kickoff hôm nay nhờ em."}
+        {
+          "speaker": "oogaki_sales",
+          "ja": "ズン、おはよう。",
+          "vi": "Dũng, chào em."
+        },
+        {
+          "speaker": "zun",
+          "ja": "大垣さん、おはようございます。お嬢様、もう大学受験迫ってきましたね、調子いかがですか?",
+          "vi": "Anh Ōgaki, chào anh. Cháu sắp đến kỳ thi đại học rồi nhỉ, cháu ổn không ạ?"
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "えっ、よく覚えてるなあ!来月共通テストやけど、最近スランプ気味でな…",
+          "vi": "Ơ, em nhớ giỏi vậy! Tháng sau thi chung rồi, gần đây cháu hơi slump..."
+        },
+        {
+          "speaker": "zun",
+          "ja": "3か月前で大変な時期ですよね。ご家族でサポート、大変ですね。",
+          "vi": "3 tháng trước thi là giai đoạn căng. Cả nhà support cũng vất vả nhỉ."
+        },
+        {
+          "speaker": "oogaki_sales",
+          "ja": "妻が一番気合い入っとるわ(笑)。じゃ、今日のキックオフ、よろしく。",
+          "vi": "Vợ anh dồn vào nhất (cười). Thôi, kickoff hôm nay nhờ em."
+        }
       ]
     },
     {
       "scenario": "Senior hé lộ chi tiết — Dũng reference đúng fact 6 tháng trước",
       "type": "good",
       "lines": [
-        {"speaker": "matsumoto", "ja": "ズン、最近どう?", "vi": "Dũng, gần đây sao?"},
-        {"speaker": "zun", "ja": "順調です。あ、松本さん、半年前におっしゃってた『月島のもんじゃ案内する』って件、まだ機会ありますか?(笑)", "vi": "Em ổn ạ. À, anh Matsumoto, nửa năm trước anh nói 'sẽ dẫn em đi monjayaki Tsukishima', còn cơ hội không ạ? (cười)"},
-        {"speaker": "matsumoto", "ja": "えっ、覚えてるの!?もちろん!来月東京来る時、行こうよ。", "vi": "Ơ, em nhớ luôn à? Đương nhiên! Tháng sau em đến Tokyo, mình đi."},
-        {"speaker": "zun", "ja": "ありがとうございます、楽しみにしてます。", "vi": "Cảm ơn anh, em mong lắm."}
+        {
+          "speaker": "matsumoto",
+          "ja": "ズン、最近どう?",
+          "vi": "Dũng, gần đây sao?"
+        },
+        {
+          "speaker": "zun",
+          "ja": "順調です。あ、松本さん、半年前におっしゃってた『月島のもんじゃ案内する』って件、まだ機会ありますか?(笑)",
+          "vi": "Em ổn ạ. À, anh Matsumoto, nửa năm trước anh nói 'sẽ dẫn em đi monjayaki Tsukishima', còn cơ hội không ạ? (cười)"
+        },
+        {
+          "speaker": "matsumoto",
+          "ja": "えっ、覚えてるの!?もちろん!来月東京来る時、行こうよ。",
+          "vi": "Ơ, em nhớ luôn à? Đương nhiên! Tháng sau em đến Tokyo, mình đi."
+        },
+        {
+          "speaker": "zun",
+          "ja": "ありがとうございます、楽しみにしてます。",
+          "vi": "Cảm ơn anh, em mong lắm."
+        }
       ]
     }
   ],
   "key_phrases": [
-    {"category": "Reference", "ja": "以前[Tên]さんがおっしゃってた[chi tiết]、その後どうなりましたか?", "vi": "Hôm trước anh có nói [chi tiết], sau đó thế nào ạ?", "use": "Pattern vàng"},
-    {"category": "Reference", "ja": "お嬢様、もう[grade level]ですね、[topic]の調子いかがですか?", "vi": "Cháu lên [lớp] rồi nhỉ, [topic] sao ạ?", "use": "Family memory"},
-    {"category": "Reference", "ja": "[地名]の[hobby/team]、[最近のニュース]の件、見られました?", "vi": "[Đội/team quê khách] có [tin gần đây], anh xem chưa?", "use": "Sport reference"},
-    {"category": "Half-year", "ja": "半年前におっしゃってた[promise/topic]、その後…?", "vi": "Nửa năm trước anh nói [...], sau đó...?", "use": "Long-memory reference"},
-    {"category": "Family", "ja": "御家族の皆様、お元気ですか?", "vi": "Cả gia đình anh chị khỏe không ạ?", "use": "Care chung gia đình"},
-    {"category": "Stay context", "ja": "あの時[topic]の話、印象に残ってます。", "vi": "Lần đó chuyện [topic] em nhớ mãi.", "use": "Show appreciation"}
+    {
+      "category": "Reference",
+      "ja": "以前[Tên]さんがおっしゃってた[chi tiết]、その後どうなりましたか?",
+      "vi": "Hôm trước anh có nói [chi tiết], sau đó thế nào ạ?",
+      "use": "Pattern vàng"
+    },
+    {
+      "category": "Reference",
+      "ja": "お嬢様、もう[grade level]ですね、[topic]の調子いかがですか?",
+      "vi": "Cháu lên [lớp] rồi nhỉ, [topic] sao ạ?",
+      "use": "Family memory"
+    },
+    {
+      "category": "Reference",
+      "ja": "[地名]の[hobby/team]、[最近のニュース]の件、見られました?",
+      "vi": "[Đội/team quê khách] có [tin gần đây], anh xem chưa?",
+      "use": "Sport reference"
+    },
+    {
+      "category": "Half-year",
+      "ja": "半年前におっしゃってた[promise/topic]、その後…?",
+      "vi": "Nửa năm trước anh nói [...], sau đó...?",
+      "use": "Long-memory reference"
+    },
+    {
+      "category": "Family",
+      "ja": "御家族の皆様、お元気ですか?",
+      "vi": "Cả gia đình anh chị khỏe không ạ?",
+      "use": "Care chung gia đình"
+    },
+    {
+      "category": "Stay context",
+      "ja": "あの時[topic]の話、印象に残ってます。",
+      "vi": "Lần đó chuyện [topic] em nhớ mãi.",
+      "use": "Show appreciation"
+    }
   ],
   "bjt_practice": [
     {
@@ -55,11 +133,11 @@
       "question_ja": "会議前3分の最適なルーチンは?",
       "options": [
         "A. メールチェックのみ",
-        "B. CRM/メモを開いて、相手の家族・趣味・最近の話題3点を頭に入れる",
-        "C. 何もしない",
-        "D. 自分の会社の業績を確認"
+        "B. 自分の会社の業績を確認",
+        "C. CRM/メモを開いて、相手の家族・趣味・最近の話題3点を頭に入れる",
+        "D. 何もしない"
       ],
-      "answer": "B",
+      "answer": "C",
       "explain_vi": "3 min review CRM = đầu tư đỉnh. A bỏ lỡ; C bỏ lỡ; D bỏ lỡ việc chuẩn bị thông tin khách."
     },
     {
@@ -67,9 +145,9 @@
       "skill": "表現読解",
       "question_ja": "memory bankを活用する時のNG行為は?",
       "options": [
-        "A. 1-2 chi tiết具体的にreferenceする",
+        "A. 家族の名前をfact違いで述べる",
         "B. 5-6個まとめて一気にreferenceする(過剰)",
-        "C. 家族の名前をfact違いで述べる",
+        "C. 1-2 chi tiết具体的にreferenceする",
         "D. プライベートすぎる質問をする"
       ],
       "answer": "B",
@@ -80,9 +158,9 @@
       "skill": "発言聴解",
       "question_ja": "半年前のお客様の発言を正確にreferenceできた時の効果は?",
       "options": [
-        "A. 相手は気にしない",
+        "A. 相手は不審に思う",
         "B. 相手は『覚えてくれていた』と感動し、関係が深まる",
-        "C. 相手は不審に思う",
+        "C. 相手は気にしない",
         "D. 効果はない"
       ],
       "answer": "B",

@@ -29,7 +29,7 @@ Dũng viết mail xin chị Hương duyệt phát sinh.
 > Em viết mail này để **xin chị duyệt phát sinh 80 triệu cho Dự án Bình Minh, trước thứ Năm 15/05**. Phần bên dưới là lý do và chi tiết để chị tham khảo.
 >
 > **Lý do phát sinh**
-> Tuần trước team bảo mật của Hakuō đưa ra yêu cầu kiểm thử mới, không nằm trong scope ban đầu. Em đã so sánh giá từ 3 nhà thầu phụ, kèm so sánh đính kèm.
+> Tuần trước team bảo mật của Hakuō đưa ra yêu cầu kiểm thử mới, không nằm trong phạm vi ban đầu. Em đã so sánh giá từ 3 nhà thầu phụ, kèm so sánh đính kèm.
 >
 > **Chi tiết**
 > - Hạng mục: thuê ngoài kiểm thử bảo mật.

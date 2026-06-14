@@ -1,10 +1,10 @@
 # Rule 10 — Vị trí ngồi (kamiza/shimoza) / 上座・下座
 
-> **Luận điểm.** **Khách ngồi 上座 (kamiza — chỗ trang trọng, xa cửa nhất, lưng dựa tường)**, **chủ ngồi 下座 (shimoza — gần cửa, giữa khách và cửa ra vào)**. Trong đoàn khách, **người cấp cao nhất ngồi 上座 trung tâm**, các người khác bậc thang giảm dần. Mời sai chỗ = "tôi không biết anh là senior" = mất face.
+> **Luận điểm.** **Khách ngồi 上座 (kamiza — chỗ trang trọng, xa cửa nhất, lưng dựa tường)**, **chủ ngồi 下座 (shimoza — gần cửa, giữa khách và cửa ra vào)**. Trong đoàn khách, **người cấp cao nhất ngồi 上座 trung tâm**, các người khác bậc thang giảm dần. Mời sai chỗ = "tôi không biết anh là cấp trên" = mất face.
 >
 > 客は上座(入口から最も遠い壁背)、host は下座(出入口側)。客団内最上位は上座中央。
 >
-> **Liên quan:** rule 09 (案内 dẫn vào), rule 06 (đặt danh thiếp theo seat), rule 11 (お茶順序).
+> **Liên quan:** rule 09 (案内 dẫn vào), rule 06 (đặt danh thiếp theo chỗ ngồi), rule 11 (お茶順序).
 
 ---
 
@@ -12,16 +12,15 @@
 
 Sau dẫn vào phòng họp tầng 3 (rule 09), Dũng phải mời 3 khách 大垣 + 中村 + 松本 ngồi đúng vị trí. Phòng họp 6 người, hình chữ nhật, cửa vào ở phía Đông, cửa sổ phía Tây. Cấu hình:
 
-```
-       [WEST WALL — KAMIZA]
-   ┌─────────────────────────┐
-   │ 上座 1│ 上座 2│ 上座 3 │  ← ghế khách (xa cửa, lưng dựa tường)
-   │       │       │        │
-   │       │       │        │
-   │ 下座 1│ 下座 2│ 下座 3 │  ← ghế host (gần cửa)
-   └─────────────────────────┘
-       [EAST — DOOR ENTRY]
-```
+*Sơ đồ chỗ ngồi (tường phía Tây = 上座 / cửa ra vào phía Đông = 下座):*
+
+| Phía tường (xa cửa) | Ghế | Ghế | Ghế |
+|---|---|---|---|
+| **上座 — ghế khách** (lưng dựa tường) | 上座 1 | 上座 2 | 上座 3 |
+| **下座 — ghế host** (gần cửa) | 下座 1 | 下座 2 | 下座 3 |
+| Phía cửa ra vào (入口) | | | |
+
+→ **上座 (kamiza)** = ghế trong cùng, xa cửa nhất, lưng dựa tường → dành cho khách / cấp trên. **下座 (shimoza)** = ghế gần cửa ra vào → dành cho host / cấp dưới (tiện đứng dậy phục vụ, đón người tới).
 
 ---
 
@@ -31,31 +30,38 @@ Sau dẫn vào phòng họp tầng 3 (rule 09), Dũng phải mời 3 khách 大�
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「えっと、お好きなところにどうぞ。」 |
+| **ズン** | 「えっと、お<ruby>好<rt>す</rt></ruby>きなところにどうぞ。」 |
+|  | *À, các anh ngồi chỗ nào tùy ý ạ.* |
 | **大垣 + 中村 + 松本** | *(im lặng nhìn quanh)* |
-| **ズン** | 「あ、ここで打ち合わせしましょう。」 |
+| **ズン** | 「あ、ここで<ruby>打<rt>う</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせしましょう。」 |
+|  | *À, mình họp ở đây nhé.* |
 | **大垣** | 「…はい。」 |
+|  | *...Vâng.* |
 
-**Vì sao xấu:** (1) "Ngồi đâu cũng được" = host không briefing seat = thiếu chuyên nghiệp. (2) Dũng ngồi lên 上座 = chiếm chỗ của khách = lộ "không biết quy tắc". Khách Nhật im lặng nhưng nhớ mãi.
+**Vì sao xấu:** (1) "Ngồi đâu cũng được" = host không hướng dẫn chỗ ngồi = thiếu chuyên nghiệp. (2) Dũng ngồi lên 上座 = chiếm chỗ của khách = lộ "không biết quy tắc". Khách Nhật im lặng nhưng nhớ mãi.
 
 ---
 
-## ✅ Hội thoại TỐT — mời đúng chỗ + senior trung tâm
+## ✅ Hội thoại TỐT — mời đúng chỗ + cấp trên trung tâm
 
 *vào phòng, chỉ tay 90° về phía dãy 上座 xa cửa · ngồi trung tâm 上座 · ngồi 上座 hai bên · ngồi 下座, Hương ở giữa đối diện Nakamura, Dũng-Linh hai bên*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「**こちらへお掛けください**【1】。**中村CFOは中央に**【2】、**大垣部長は中村CFOから見て右に、松本PMは左に**お願いいたします。」 |
+| **ズン** | 「**こちらへお<ruby>掛<rt>か</rt></ruby>けください**【1】。**<ruby>中村<rt>なかむら</rt></ruby>CFOは<ruby>中央<rt>ちゅうおう</rt></ruby>に**【2】、**<ruby>大垣<rt>おおがき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>は中村CFOから<ruby>見<rt>み</rt></ruby>て<ruby>右<rt>みぎ</rt></ruby>に、<ruby>松本<rt>まつもと</rt></ruby>PMは<ruby>左<rt>ひだり</rt></ruby>に**お<ruby>願<rt>ねが</rt></ruby>いいたします。」 |
+|  | *Mời các anh ngồi đây ạ. Anh Nakamura CFO ở giữa, anh Ōgaki 部長 bên phải nhìn từ anh Nakamura, anh Matsumoto PM bên trái ạ.* |
 | **大垣** | 「ありがとうございます。」 |
-| **中村CFO** | 「失礼します。」 |
+|  | *Cảm ơn anh.* |
+| **中村CFO** | 「<ruby>失礼<rt>しつれい</rt></ruby>します。」 |
+|  | *Xin phép.* |
 | **大垣 + 松本** | *(ngồi)* |
-| **ズン + フオン副部長 + リン**【3】 | 「失礼いたします。」 |
+| **ズン + フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby> + リン**【3】 | 「失礼いたします。」 |
+|  | *Em xin phép ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**「お掛けください」** > 「座ってください」— kính ngữ ngồi, dùng cho khách. Tay phải mở 90° chỉ rõ ghế nào.
-- 【2】**Senior trung tâm 上座** — Nakamura CFO cao nhất → ghế giữa dãy 上座. Ōgaki (部長) bên phải Nakamura (vị trí thứ 2). Matsumoto (PM) bên trái (vị trí thứ 3). Quy tắc: nhìn từ kamiza, **bên phải > bên trái** về độ trang trọng.
-- 【3】**Host mirror seat** — bên 下座: senior bên mình (Hương 副部長) ngồi đối diện senior bên khách (Nakamura). Khi nói chuyện = cùng level dễ trao đổi.
+- 【2】**Cấp trên ngồi trung tâm 上座** — Nakamura CFO cao nhất → ghế giữa dãy 上座. Ōgaki (部長) bên phải Nakamura (vị trí thứ 2). Matsumoto (PM) bên trái (vị trí thứ 3). Quy tắc: nhìn từ kamiza, **bên phải > bên trái** về độ trang trọng.
+- 【3】**Ghế đối xứng giữa hai bên** — bên 下座: cấp trên bên mình (Hương 副部長) ngồi đối diện cấp trên bên khách (Nakamura). Khi nói chuyện = cùng cấp dễ trao đổi.
 
 ---
 
@@ -63,16 +69,16 @@ Sau dẫn vào phòng họp tầng 3 (rule 09), Dũng phải mời 3 khách 大�
 
 > **「客は上座(入口から遠く)・host は下座(入口側)・senior は上座中央。」**
 >
-> *Khách ngồi 上座 (xa cửa) / host ngồi 下座 (gần cửa) / senior bên khách ở trung tâm 上座.*
+> *Khách ngồi 上座 (xa cửa) / host ngồi 下座 (gần cửa) / cấp cao bên khách ở trung tâm 上座.*
 
 ---
 
 ## ⚠ Tránh
 
 - **Host ngồi 上座** → tệ nhất, lộ "không biết quy tắc"
-- "Ngồi đâu cũng được" → BẮT BUỘC briefing seat từng người
-- **Junior bên khách ngồi trung tâm 上座** thay vì senior → rối hierarchy
-- Senior bên mình ngồi **góc xa** → senior bên mình ngồi đối diện senior bên khách (mirror)
+- "Ngồi đâu cũng được" → BẮT BUỘC hướng dẫn chỗ ngồi cho từng người
+- **Cấp dưới bên khách ngồi trung tâm 上座** thay vì cấp trên → rối thứ bậc
+- Cấp trên bên mình ngồi **góc xa** → cấp trên bên mình phải ngồi đối diện cấp trên bên khách (đối xứng)
 - **Quên rule taxi/ô tô**: khi cùng đi taxi với khách: ghế phía sau bên phải tài = 上座 (cao nhất), ghế phía sau bên trái = 上座 thứ 2, ghế phụ tài = 下座 (host)
 - **Phòng họp có cửa sổ đẹp** → 上座 = ghế gần cửa sổ (xa cửa ra vào). Quy tắc: 上座 = chỗ "tôn vinh nhất" (lưng dựa tường, tầm nhìn đẹp, xa lối ra vào).
 

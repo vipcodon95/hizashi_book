@@ -196,8 +196,8 @@
       "choices": [
         {
           "key": "A",
-          "jp": "拝見する＝読む の謙譲語、伺う＝訪ねる/聞く の謙譲語",
-          "vn": "拝見する = Kenjougo của 見る/読む | 伺う = Kenjougo của 訪ねる/聞く"
+          "jp": "拝見する＝見る の尊敬語、伺う＝訪ねる/聞く の謙譲語",
+          "vn": "拝見する = Sonkeigo của 見る (SAI — thực ra là Kenjougo) | 伺う = Kenjougo của 訪ねる/聞く"
         },
         {
           "key": "B",
@@ -348,7 +348,7 @@
         }
       ],
       "answer": "C",
-      "explanation": "「弊社（へいしゃ）」và 「当社（とうしゃ）」đều chỉ công ty của mình, nhưng khác nhau về sắc thái: 弊社 khiêm nhường hơn — dùng khi nói với đối tác/khách hàng bên ngoài (mang tính Kenjougo rõ hơn). 当社 trung tính hơn — dùng trong tài liệu nội bộ hoặc khi không cần nhấn mạnh sự khiêm nhường. 「私ども会社」không tự nhiên, không dùng trong văn phòng thực tế.",
+      "explanation": "「弊社（へいしゃ）」và 「当社（とうしゃ）」đều chỉ công ty của mình, nhưng khác nhau về sắc thái: 弊社 khiêm nhường hơn (Kenjougo rõ) — ưu tiên khi muốn hạ mình trước đối tác/khách hàng. 当社 trung tính hơn — có thể dùng cả với bên ngoài lẫn tài liệu nội bộ, nhưng ít mang sắc thái khiêm nhường hơn 弊社. 「私ども（の）会社」cũng dùng được ở dạng có 「の」, nhưng 「私ども会社」(thiếu の) không tự nhiên — nên đáp án 'cả 弊社・当社' (C) là chuẩn nhất cho câu hỏi này.",
       "tip": "弊社 (khiêm nhường — với khách) | 当社 (trung tính — tài liệu nội bộ) | cả hai đều chỉ công ty MÌNH"
     },
     {
@@ -389,8 +389,8 @@
       "level": 2,
       "level_name": "Trung bình",
       "category": "Cấu trúc お〜する trong câu",
-      "question_jp": "「荷物を持ちましょうか？」をお客様への丁寧な謙譲語に直すと？",
-      "question_vn": "Chuyển「荷物を持ちましょうか？」(Tôi mang hành lý giúp nhé?) sang Kenjougo lịch sự với khách hàng:",
+      "question_jp": "「荷物を持ちましょうか？」をお客様への最も丁寧な謙譲語に直すと？",
+      "question_vn": "Chuyển「荷物を持ちましょうか？」(Tôi mang hành lý giúp nhé?) sang Kenjougo TRANG TRỌNG NHẤT với khách hàng:",
       "choices": [
         {
           "key": "A",
@@ -465,8 +465,8 @@
         },
         {
           "key": "B",
-          "jp": "お客様に確認させていただきます。",
-          "vn": "Tôi sẽ để khách hàng xác nhận. (chủ ngữ nhầm — sai ngữ nghĩa)"
+          "jp": "お客様が確認させていただきます。",
+          "vn": "Khách hàng xin phép được xác nhận. (chủ ngữ là khách + させていただく — sai rõ, vì させていただく phải là hành động của MÌNH)"
         },
         {
           "key": "C",
@@ -480,7 +480,7 @@
         }
       ],
       "answer": "A",
-      "explanation": "Câu A đúng: 「確認させていただきます」= bản thân mình được phép xác nhận (ngụ ý nhờ sự đồng ý của đối phương). Câu B sai ngữ nghĩa: 「お客様に確認させていただく」nghe như 'để khách xác nhận' nhưng させていただく phải là hành động của MÌNH. Câu C sai ngữ pháp. Câu D:「ご確認させていただく」thực ra là 二重敬語 — không nên dùng. Chỉ nên: 「確認させていただく」hoặc「ご確認いたします」.",
+      "explanation": "Câu A đúng: 「確認させていただきます」= bản thân mình được phép xác nhận (ngụ ý nhờ sự đồng ý của đối phương). Câu B sai: 「お客様が確認させていただきます」— chủ ngữ là khách (お客様が) nhưng させていただく phải là hành động của MÌNH (người nói), nên gán cho khách là sai. Câu C sai ngữ pháp (mệnh lệnh + させていただく). Câu D:「ご確認させていただく」là 二重敬語 — không nên dùng. Chỉ nên: 「確認させていただく」hoặc「ご確認いたします」.",
       "tip": "させていただく = MÌNH làm + có sự đồng ý của người khác. Không kết hợp ご〜させていただく — đó là 二重敬語!"
     },
     {
@@ -1041,7 +1041,7 @@
         }
       ],
       "answer": "A",
-      "explanation": "Câu hoàn chỉnh: 「はい、お待ちしております。どうぞいらっしゃってください」. 「お待ちしております」= Kenjougo (mình đang chờ ngài) — お + 待ち + する + おる. 「いらっしゃってください」= Sonkeigo (mời ngài đến). Câu D cũng đúng: 「お越しになってください」= Sonkeigo của 来る dùng お越しになる. Cả A và D đều được, nhưng A phổ biến hơn.",
+      "explanation": "Câu hoàn chỉnh: 「はい、お待ちしております。どうぞいらっしゃってください」. 「お待ちしております」= Kenjougo (mình đang chờ ngài) — お + 待ち + する + おる. 「いらっしゃってください」= Sonkeigo (mời ngài đến), là thành ngữ cố định rất tự nhiên trong mời mọc. Câu D 「お越しになってください」về ngữ pháp cũng là Sonkeigo của 来る, nhưng ở dạng 「〜てください」thì 「いらっしゃってください」(A) tự nhiên và phổ biến hơn hẳn — nên A là đáp án chuẩn.",
       "tip": "お待ちしております + どうぞいらっしゃってください = combo chuẩn khi xác nhận khách hàng sẽ đến"
     },
     {
@@ -1238,9 +1238,9 @@
           "vn": "「ご参加」là Kenjougo, 「いただきまして」là Sonkeigo"
         }
       ],
-      "answer": "A",
-      "explanation": "Phân tích chi tiết: 「ご参加」= ご + 参加 → tiền tố ご thêm vào danh từ gốc Hán → ở đây là Sonkeigo (nâng cao hành động 'tham gia' của đối phương lên). 「いただきまして」= Kenjougo của もらう → mình được nhận sự tham gia của ngài. Kết hợp ご〜いただく là cấu trúc phổ biến nhất trong kinh doanh Nhật — không phải 二重敬語. 「ご多忙中」= danh từ lịch sự, không phải Kenjougo.",
-      "tip": "ご〜いただく = cấu trúc kết hợp Sonkeigo danh từ + Kenjougo いただく — cực phổ biến và ĐÚNG, không phải 二重敬語!"
+      "answer": "B",
+      "explanation": "Theo 文化庁「敬語の指針」(2007), cấu trúc 「ご〜いただく」(như ご参加いただく, ご連絡いただく) được xếp TOÀN CỤM vào 謙譲語I (khiêm nhường ngữ): người nói nhận được ơn từ hành động của đối phương, hạ thấp vị thế mình. Tiền tố 「ご」ở đây KHÔNG phải Sonkeigo độc lập mà là một phần của cấu trúc khiêm nhường 「ご〜いただく」. Vì vậy (B) đúng. (A) sai vì phân tích tách ご参加 thành Sonkeigo riêng — không khớp chuẩn phân loại. (C) sai: 「ご多忙中」là danh từ lịch sự (美化/丁寧), không phải Kenjougo. (D) sai hoàn toàn về vai trò いただく (là Kenjougo, không phải Sonkeigo). Lưu ý: 「ご参加いただく」là cách dùng chuẩn, KHÔNG phải 二重敬語.",
+      "tip": "「ご〜いただく」(ご参加いただく…) = TOÀN CỤM là 謙譲語I theo 文化庁 — không tách 「ご」ra thành Sonkeigo riêng. Cực phổ biến, ĐÚNG, không phải 二重敬語!"
     },
     {
       "id": 37,
@@ -1371,7 +1371,7 @@
         }
       ],
       "answer": "B",
-      "explanation": "Câu B là chuẩn nhất: 「おかけいたしまして」= Kenjougo (お〜いたす) cho 'gây ra'; 「誠に申し訳ございませんでした」= 誠に (thực sự) + 申し訳ございません (xin lỗi trang trọng nhất — ございません thay vì ありません); 「再発防止に努めてまいります」= cam kết ngăn tái diễn + 参る (Kenjougo của 行く/来る, ở đây là 'chúng tôi sẽ nỗ lực'). Câu B thể hiện đầy đủ: xin lỗi + cam kết hành động — chuẩn mực xử lý khiếu nại BJT.",
+      "explanation": "Câu B là chuẩn nhất: 「おかけいたしまして」= Kenjougo (お〜いたす) cho 'gây ra'; 「誠に申し訳ございませんでした」= 誠に (thực sự) + 申し訳ございません (xin lỗi trang trọng nhất — ございません thay vì ありません); 「努めてまいります」= dùng 〜てまいる (tức 〜ていく ở dạng Kenjougo II/丁重語) để thể hiện cam kết tiếp diễn một cách khiêm nhường, trang trọng — KHÁC với 参る nghĩa 'đi/đến'. Câu B thể hiện đầy đủ: xin lỗi + cam kết hành động — chuẩn mực xử lý khiếu nại BJT.",
       "tip": "申し訳ございません > 申し訳ありません về mức trang trọng. Luôn kèm cam kết hành động sau xin lỗi trong kinh doanh!"
     }
   ]

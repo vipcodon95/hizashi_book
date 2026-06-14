@@ -1,80 +1,80 @@
-# Rule 12 — 完全な宛名の書き方
+# Rule 12 — 完全な<ruby>宛名<rt>あてな</rt></ruby>の書き方
 
-> **要点.** 完全な宛名は **5つの要素** を順序通りに含む：*会社名＋部署名＋役職＋氏名＋様*。格式の低い場面では要素を省けるが、省く際は**外側から内側へ一貫した原則で**省く — 気分で抜くのではない。
+> **<ruby>要点<rt>ようてん</rt></ruby>.** 完全な<ruby>宛名<rt>あてな</rt></ruby>は **5つの<ruby>要素<rt>ようそ</rt></ruby>** を<ruby>順序<rt>じゅんじょ</rt></ruby>通りに含む：*<ruby>会社名<rt>かいしゃめい</rt></ruby>＋<ruby>部署名<rt>ぶしょめい</rt></ruby>＋<ruby>役職<rt>やくしょく</rt></ruby>＋<ruby>氏名<rt>しめい</rt></ruby>＋<ruby>様<rt>さま</rt></ruby>*。<ruby>格式<rt>かくしき</rt></ruby>の低い<ruby>場面<rt>ばめん</rt></ruby>では<ruby>要素<rt>ようそ</rt></ruby>を<ruby>省<rt>はぶ</rt></ruby>けるが、<ruby>省<rt>はぶ</rt></ruby>く<ruby>際<rt>さい</rt></ruby>は**<ruby>外側<rt>そとがわ</rt></ruby>から<ruby>内側<rt>うちがわ</rt></ruby>へ<ruby>一貫<rt>いっかん</rt></ruby>した<ruby>原則<rt>げんそく</rt></ruby>で**<ruby>省<rt>はぶ</rt></ruby>く — 気分で抜くのではない。
 >
-> キーワード：**「5要素、原則的に省略」**。
+> キーワード：**「5<ruby>要素<rt>ようそ</rt></ruby>、<ruby>原則的<rt>げんそくてき</rt></ruby>に<ruby>省略<rt>しょうりゃく</rt></ruby>」**。
 
-## 背景
+## <ruby>背景<rt>はいけい</rt></ruby>
 
-ズンが相手を変えてメールを書く。相手ごとに適切な格式が違う。
+ズンが<ruby>相手<rt>あいて</rt></ruby>を変えてメールを書く。<ruby>相手<rt>あいて</rt></ruby>ごとに<ruby>適切<rt>てきせつ</rt></ruby>な<ruby>格式<rt>かくしき</rt></ruby>が違う。
 
-## 同じ相手（フオン副部長）に対する4つのレベル
+## 同じ<ruby>相手<rt>あいて</rt></ruby>（フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>）に対する4つのレベル
 
-### レベル1 — 最も格式高い（初回、または上層への正式文書）
+### レベル1 — 最も<ruby>格式<rt>かくしき</rt></ruby>高い（<ruby>初回<rt>しょかい</rt></ruby>、または<ruby>上層<rt>じょうそう</rt></ruby>への<ruby>正式<rt>せいしき</rt></ruby><ruby>文書<rt>ぶんしょ</rt></ruby>）
 
-> ティエンファット社 営業部 副部長 フオン 様
+> ティエンファット社 <ruby>営業部<rt>えいぎょうぶ</rt></ruby> <ruby>副部長<rt>ふくぶちょう</rt></ruby> フオン <ruby>様<rt>さま</rt></ruby>
 
-用途：書類化して保管される可能性のある正式メール、最上位への初回連絡。
+<ruby>用途<rt>ようと</rt></ruby>：<ruby>書類化<rt>しょるいか</rt></ruby>して<ruby>保管<rt>ほかん</rt></ruby>される<ruby>可能性<rt>かのうせい</rt></ruby>のある<ruby>正式<rt>せいしき</rt></ruby>メール、<ruby>最上位<rt>さいじょうい</rt></ruby>への<ruby>初回<rt>しょかい</rt></ruby><ruby>連絡<rt>れんらく</rt></ruby>。
 
-### レベル2 — 標準的な格式（日常的な上司宛メール）
+### レベル2 — <ruby>標準的<rt>ひょうじゅんてき</rt></ruby>な<ruby>格式<rt>かくしき</rt></ruby>（<ruby>日常的<rt>にちじょうてき</rt></ruby>な<ruby>上司<rt>じょうし</rt></ruby><ruby>宛<rt>あて</rt></ruby>メール）
 
-> ティエンファット社 営業部 フオン副部長、
+> ティエンファット社 <ruby>営業部<rt>えいぎょうぶ</rt></ruby> フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、
 
-「副部長」を氏名の前後どちらに置いてもよいが、**一貫して**使う。最もよく使うレベル。
+「<ruby>副部長<rt>ふくぶちょう</rt></ruby>」を<ruby>氏名<rt>しめい</rt></ruby>の<ruby>前後<rt>ぜんご</rt></ruby>どちらに置いてもよいが、**<ruby>一貫<rt>いっかん</rt></ruby>して**使う。最もよく使うレベル。
 
-### レベル3 — 社内で関係が築けた後
+### レベル3 — <ruby>社内<rt>しゃない</rt></ruby>で関係が<ruby>築<rt>きず</rt></ruby>けた後
 
-> フオン副部長、
+> フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、
 
-会社名・部署名を省略、役職＋姓＋読点。
+<ruby>会社名<rt>かいしゃめい</rt></ruby>・<ruby>部署名<rt>ぶしょめい</rt></ruby>を<ruby>省略<rt>しょうりゃく</rt></ruby>、<ruby>役職<rt>やくしょく</rt></ruby>＋<ruby>姓<rt>せい</rt></ruby>＋<ruby>読点<rt>とうてん</rt></ruby>。
 
-### レベル4 — 同格・親しい間柄
+### レベル4 — <ruby>同格<rt>どうかく</rt></ruby>・<ruby>親<rt>した</rt></ruby>しい<ruby>間柄<rt>あいだがら</rt></ruby>
 
 > フオンさん、
 
-同格、かなり親しい場合のみ。**上司には使わない**。
+<ruby>同格<rt>どうかく</rt></ruby>、かなり<ruby>親<rt>した</rt></ruby>しい<ruby>場合<rt>ばあい</rt></ruby>のみ。**<ruby>上司<rt>じょうし</rt></ruby>には使わない**。
 
-## 悪い例 — 省略の一貫性がない
+## 悪い例 — <ruby>省略<rt>しょうりゃく</rt></ruby>の<ruby>一貫性<rt>いっかんせい</rt></ruby>がない
 
-> **❌ 「ティエンファット社 フオン副部長、」**
-> 会社名はあるが部署名なし。中途半端。
+> **❌ 「ティエンファット社 フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、」**
+> <ruby>会社名<rt>かいしゃめい</rt></ruby>はあるが<ruby>部署名<rt>ぶしょめい</rt></ruby>なし。<ruby>中途半端<rt>ちゅうとはんぱ</rt></ruby>。
 >
-> **❌ 「フオン 様」**
-> フルネーム＋様だけで役職なし — 社内規範では所属不明で違和感。
+> **❌ 「フオン <ruby>様<rt>さま</rt></ruby>」**
+> フルネーム＋<ruby>様<rt>さま</rt></ruby>だけで<ruby>役職<rt>やくしょく</rt></ruby>なし — <ruby>社内<rt>しゃない</rt></ruby><ruby>規範<rt>きはん</rt></ruby>では<ruby>所属<rt>しょぞく</rt></ruby><ruby>不明<rt>ふめい</rt></ruby>で<ruby>違和感<rt>いわかん</rt></ruby>。
 >
-> **❌ 「フオン副部長 営業部 様」**
-> 役職と部署の順序が逆転。読みにくい。
+> **❌ 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby> <ruby>営業部<rt>えいぎょうぶ</rt></ruby> <ruby>様<rt>さま</rt></ruby>」**
+> <ruby>役職<rt>やくしょく</rt></ruby>と<ruby>部署<rt>ぶしょ</rt></ruby>の<ruby>順序<rt>じゅんじょ</rt></ruby>が<ruby>逆転<rt>ぎゃくてん</rt></ruby>。読みにくい。
 
-**なぜダメか.** 省略は**外側（会社）から内側（氏名）へ**順に。会社 → 部署 → 役職 → 氏名 → 敬称、の順で外側から落とすのが鉄則。
+**なぜダメか.** <ruby>省略<rt>しょうりゃく</rt></ruby>は**<ruby>外側<rt>そとがわ</rt></ruby>（<ruby>会社<rt>かいしゃ</rt></ruby>）から<ruby>内側<rt>うちがわ</rt></ruby>（<ruby>氏名<rt>しめい</rt></ruby>）へ**順に。<ruby>会社<rt>かいしゃ</rt></ruby> → <ruby>部署<rt>ぶしょ</rt></ruby> → <ruby>役職<rt>やくしょく</rt></ruby> → <ruby>氏名<rt>しめい</rt></ruby> → <ruby>敬称<rt>けいしょう</rt></ruby>、の順で<ruby>外側<rt>そとがわ</rt></ruby>から落とすのが<ruby>鉄則<rt>てっそく</rt></ruby>。
 
-## 良い例 — 一貫した省略
+## 良い例 — <ruby>一貫<rt>いっかん</rt></ruby>した<ruby>省略<rt>しょうりゃく</rt></ruby>
 
-| レベル | 宛名行 |
+| レベル | <ruby>宛名行<rt>あてなぎょう</rt></ruby> |
 |--------|--------|
-| フル | ティエンファット社 営業部 副部長 フオン 様 |
-| 会社名を省略 | 営業部 副部長 フオン 様 |
-| さらに部署名省略 | フオン 副部長 |
-| さらに氏を省略 | フオン副部長、 |
+| フル | ティエンファット社 <ruby>営業部<rt>えいぎょうぶ</rt></ruby> <ruby>副部長<rt>ふくぶちょう</rt></ruby> フオン <ruby>様<rt>さま</rt></ruby> |
+| <ruby>会社名<rt>かいしゃめい</rt></ruby>を<ruby>省略<rt>しょうりゃく</rt></ruby> | <ruby>営業部<rt>えいぎょうぶ</rt></ruby> <ruby>副部長<rt>ふくぶちょう</rt></ruby> フオン <ruby>様<rt>さま</rt></ruby> |
+| さらに<ruby>部署名<rt>ぶしょめい</rt></ruby><ruby>省略<rt>しょうりゃく</rt></ruby> | フオン <ruby>副部長<rt>ふくぶちょう</rt></ruby> |
+| さらに<ruby>氏<rt>うじ</rt></ruby>を<ruby>省略<rt>しょうりゃく</rt></ruby> | フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、 |
 
-各レベルがバランス取れ、「孤立した要素」がない。
+各レベルがバランス取れ、「<ruby>孤立<rt>こりつ</rt></ruby>した<ruby>要素<rt>ようそ</rt></ruby>」がない。
 
-## 派生 — 複数名宛の場合
+## <ruby>派生<rt>はせい</rt></ruby> — <ruby>複数名<rt>ふくすうめい</rt></ruby><ruby>宛<rt>あて</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>
 
-同格の複数名：
+<ruby>同格<rt>どうかく</rt></ruby>の<ruby>複数名<rt>ふくすうめい</rt></ruby>：
 
-> トゥアンリーダー、ロアン部長、リン様
+> トゥアンリーダー、ロアン<ruby>部長<rt>ぶちょう</rt></ruby>、リン<ruby>様<rt>さま</rt></ruby>
 
-ざっくりグループ宛：
+ざっくりグループ<ruby>宛<rt>あて</rt></ruby>：
 
-> 営業部の皆様、
+> <ruby>営業部<rt>えいぎょうぶ</rt></ruby>の<ruby>皆様<rt>みなさま</rt></ruby>、
 
-2つの階層が混ざる（主受信者は上司、CCは同僚）：
+2つの<ruby>階層<rt>かいそう</rt></ruby>が<ruby>混<rt>ま</rt></ruby>ざる（<ruby>主受信者<rt>しゅじゅしんしゃ</rt></ruby>は<ruby>上司<rt>じょうし</rt></ruby>、CCは<ruby>同僚<rt>どうりょう</rt></ruby>）：
 
-> フオン副部長
-> CC: トゥアンリーダー、ロアン部長
+> フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>
+> CC: トゥアンリーダー、ロアン<ruby>部長<rt>ぶちょう</rt></ruby>
 
 ## 使えるフレーズ
 
-> **「会社名＋部署＋役職＋氏名＋様。省略は外側から一貫して。」**
+> **「<ruby>会社名<rt>かいしゃめい</rt></ruby>＋<ruby>部署<rt>ぶしょ</rt></ruby>＋<ruby>役職<rt>やくしょく</rt></ruby>＋<ruby>氏名<rt>しめい</rt></ruby>＋<ruby>様<rt>さま</rt></ruby>。<ruby>省略<rt>しょうりゃく</rt></ruby>は<ruby>外側<rt>そとがわ</rt></ruby>から<ruby>一貫<rt>いっかん</rt></ruby>して。」**
 
-*使うとき：* 本文を書き始める前に宛名行を整える。これは読み手がメールを開いて最初に見る部分で、残り全体の印象を決める。
+*使うとき：* <ruby>本文<rt>ほんぶん</rt></ruby>を書き始める前に<ruby>宛名行<rt>あてなぎょう</rt></ruby>を<ruby>整<rt>ととの</rt></ruby>える。これは<ruby>読<rt>よ</rt></ruby>み手がメールを開いて最初に見る部分で、残り<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>印象<rt>いんしょう</rt></ruby>を<ruby>決<rt>き</rt></ruby>める。

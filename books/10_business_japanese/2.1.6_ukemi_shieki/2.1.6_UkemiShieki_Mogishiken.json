@@ -141,7 +141,7 @@
       "level_name": "中級上級 / Trung cao",
       "document_type": "業務指示メール",
       "situation_vn": "Email từ quản lý giao nhiệm vụ cho nhân viên. Sử dụng 使役形 (させます) để giao việc và させていただく để xin phép một cách lịch sự.",
-      "passage_ja": "件名：来月のプロジェクトについてのお願い\n\nお疲れ様です。田中です。\n\n来月、新しいマーケティングプロジェクトが開始されます。つきましては、営業チーム全体に、このプロジェクトの準備を進めていただきたいと思っています。\n\n具体的には、以下の業務を各自で担当していただきます。\n・既存顧客へのヒアリング調査（山田さんに担当させていただきます）\n・競合他社の商品分析（鈴木さんに担当させていただきます）\n・ターゲット層の市場調査（全員で協力していただきたいです）\n\n第一回目の進捗報告は5月10日までにお願いします。何かご質問やご不明な点がございましたら、お気軽にお声がけください。\n\nよろしくお願いいたします。\n田中",
+      "passage_ja": "件名：来月のプロジェクトについてのお願い\n\nお疲れ様です。田中です。\n\n来月、新しいマーケティングプロジェクトが開始されます。つきましては、営業チーム全体に、このプロジェクトの準備を進めていただきたいと思っています。\n\n具体的には、以下の業務を各自で担当していただきます。\n・既存顧客へのヒアリング調査（山田さんに担当していただきます）\n・競合他社の商品分析（鈴木さんに担当していただきます）\n・ターゲット層の市場調査（全員で協力していただきたいです）\n\n第一回目の進捗報告は5月10日までにお願いします。何かご質問やご不明な点がございましたら、お気軽にお声がけください。\n\nよろしくお願いいたします。\n田中",
       "passage_vn": "Tiêu đề: Đề nghị về dự án tháng sau\n\nChào mọi người. Tôi là Tanaka.\n\nTháng sau, một dự án marketing mới sẽ được khởi động. Vì vậy, tôi mong toàn thể đội kinh doanh hãy tiến hành chuẩn bị cho dự án này.\n\nCụ thể, mỗi người sẽ phụ trách các công việc sau.\n- Khảo sát phỏng vấn khách hàng hiện hữu (giao anh Yamada phụ trách)\n- Phân tích sản phẩm của các đối thủ cạnh tranh (giao anh Suzuki phụ trách)\n- Khảo sát thị trường nhóm khách hàng mục tiêu (mong tất cả mọi người cùng hợp tác)\n\nBáo cáo tiến độ lần đầu tiên xin nộp trước ngày 10/5. Nếu có câu hỏi hay điểm gì chưa rõ, xin cứ thoải mái lên tiếng nhờ tôi.\n\nRất mong được mọi người giúp đỡ.\nTanaka",
       "questions": [
         {
@@ -172,16 +172,16 @@
         },
         {
           "id": "3-3",
-          "question_ja": "「山田さんに担当させていただきます」という表現は何を示していますか。",
-          "question_vn": "Biểu thức này chỉ điều gì?",
+          "question_ja": "「山田さんに担当していただきます」という表現は何を示していますか。",
+          "question_vn": "Biểu thức '担当していただきます' chỉ điều gì?",
           "choices": {
             "A": "田中が山田さんを強制的に仕事を行わせるということ",
             "B": "山田さんが自分で仕事をすることを提案する",
-            "C": "田中が敬意を持ちながら、山田さんに仕事を担当させることをお願いするということ",
+            "C": "田中が敬意を持って、山田さんに仕事を担当してもらう（依頼する）ということ",
             "D": "山田さんが田中に協力することを拒否するということ"
           },
           "answer": "C",
-          "explanation_vn": "させていただく là dạng tôn trọng của させる, kết hợp sự xin phép lịch sự. Nó cho thấy người nói (quản lý) tôn trọng người khác trong khi giao nhiệm vụ."
+          "explanation_vn": "'〜ていただく' là khiêm nhường ngữ của '〜てもらう' — người nói (田中) nhận được việc 山田 đảm nhận công việc, một cách lịch sự. Đây là cách giao/nhờ việc đúng mực. (Lưu ý: KHÔNG dùng '担当させていただきます' ở đây, vì 'させていただく' là form người nói XIN PHÉP cấp trên để tự mình làm — không hợp khi sếp nhờ cấp dưới đảm nhận.)"
         },
         {
           "id": "3-4",
@@ -267,7 +267,7 @@
       "level_name": "最上級 / Tối cao",
       "document_type": "業界誌・社内報の記事",
       "situation_vn": "Bài báo từ tạp chí ngành về xu hướng chuyển đổi số trong các doanh nghiệp Nhật Bản. Sử dụng bị động trang trọng phức tạp (によって、を通じて、に基づいて) và phân tích sắc thái ngôn ngữ chuyên sâu.",
-      "passage_ja": "◆デジタル時代における企業競争力の再構築\n\n近年、急速な技術革新によってビジネス環境が劇的に変化している。多くの企業が、クラウドコンピューティングやAI導入を通じて、経営効率化を図られている一方で、一部の企業では、時代の流れに適応させられることができず、市場競争から取り残されるという悪循環に陥っている。\n\nこのような背景を踏まえ、業界全体にわたって、デジタル変革推進の重要性が広く認識されるようになった。特に、従来型のビジネスモデルに基づいて構築されてきた組織体系は、新たな競争環境に対応させられることを強いられている。経営層による戦略的投資決定により、多くの企業においては、組織再編と人材育成制度の見直しが実施されるに至っている。\n\n今後、適切な対応を講じることができた企業のみが、成長を遂行させられ、グローバル市場での競争力を維持することが見込まれている。",
+      "passage_ja": "◆デジタル時代における企業競争力の再構築\n\n近年、急速な技術革新によってビジネス環境が劇的に変化している。多くの企業が、クラウドコンピューティングやAI導入を通じて、経営効率化を図っている一方で、一部の企業では、時代の流れに適応できず、市場競争から取り残されるという悪循環に陥っている。\n\nこのような背景を踏まえ、業界全体にわたって、デジタル変革推進の重要性が広く認識されるようになった。特に、従来型のビジネスモデルに基づいて構築されてきた組織体系は、新たな競争環境への対応を強いられている。経営層による戦略的投資決定により、多くの企業においては、組織再編と人材育成制度の見直しが実施されるに至っている。\n\n今後、適切な対応を講じることができた企業のみが、激しい市場競争の中で成長させられ、グローバル市場での競争力を維持することが見込まれている。",
       "passage_vn": "◆ Tái cấu trúc năng lực cạnh tranh của doanh nghiệp trong thời đại số\n\nNhững năm gần đây, môi trường kinh doanh đang thay đổi mạnh mẽ do sự đổi mới công nghệ nhanh chóng. Trong khi nhiều doanh nghiệp đang nỗ lực nâng cao hiệu quả quản trị thông qua điện toán đám mây và việc áp dụng AI, thì một số doanh nghiệp lại rơi vào vòng luẩn quẩn: không thể thích ứng với dòng chảy của thời đại và bị bỏ lại phía sau trong cuộc cạnh tranh thị trường.\n\nTrên bối cảnh đó, tầm quan trọng của việc thúc đẩy chuyển đổi số đã được nhận thức rộng rãi trong toàn ngành. Đặc biệt, các hệ thống tổ chức được xây dựng dựa trên mô hình kinh doanh kiểu truyền thống đang buộc phải thích ứng với môi trường cạnh tranh mới. Nhờ các quyết định đầu tư chiến lược của ban lãnh đạo, ở nhiều doanh nghiệp, việc tái cơ cấu tổ chức và rà soát lại chế độ đào tạo nhân lực đã được tiến hành.\n\nTừ nay về sau, dự kiến chỉ những doanh nghiệp có thể triển khai biện pháp ứng phó thích hợp mới được tạo điều kiện để đạt được tăng trưởng và duy trì năng lực cạnh tranh trên thị trường toàn cầu.",
       "questions": [
         {
@@ -298,8 +298,8 @@
         },
         {
           "id": "5-3",
-          "question_ja": "「従来型のビジネスモデルに基づいて構築されてきた組織体系は、新たな競争環境に対応させられることを強いられている」という複文の表現から、どのような実情が伝わってきますか。",
-          "question_vn": "Cấu trúc phức tạp này truyền đạt điều gì?",
+          "question_ja": "「従来型のビジネスモデルに基づいて構築されてきた組織体系は、新たな競争環境への対応を強いられている」という表現から、どのような実情が伝わってきますか。",
+          "question_vn": "Cấu trúc 'đối ứng bị ép buộc (対応を強いられている)' truyền đạt điều gì?",
           "choices": {
             "A": "組織は自発的かつ主体的に新しい競争環境に対応している",
             "B": "組織が旧モデルに基づいているため、新環境への対応を強制されている状況",
@@ -307,12 +307,12 @@
             "D": "組織体系の構築に失敗している"
           },
           "answer": "B",
-          "explanation_vn": "Cấu trúc 'させられることを強いられている' (bị buộc phải được bắt buộc / bị ép phải thích nghi) chỉ ra rằng các tổ chức không tự nguyện mà bị buộc phải thích nghi với môi trường cạnh tranh mới do những hoàn cảnh bên ngoài."
+          "explanation_vn": "Cấu trúc '対応を強いられている' (bị buộc phải đối ứng) dùng dạng bị động của '強いる' (ép buộc), cho thấy các tổ chức KHÔNG tự nguyện mà bị hoàn cảnh bên ngoài (môi trường cạnh tranh mới) buộc phải thích nghi. → (B) đúng; (A) trái nghĩa vì câu mang sắc thái bị động/bất đắc dĩ."
         },
         {
           "id": "5-4",
-          "question_ja": "「適切な対応を講じることができた企業のみが、成長を遂行させられ、グローバル市場での競争力を維持することが見込まれている」という文で、「させられ」が使われている理由として、最も適切な解釈は。",
-          "question_vn": "Tại sao 'させられ' được sử dụng trong ngữ cảnh này?",
+          "question_ja": "「適切な対応を講じることができた企業のみが、激しい市場競争の中で成長させられ、グローバル市場での競争力を維持することが見込まれている」という文で、「させられ」が使われている理由として、最も適切な解釈は。",
+          "question_vn": "Tại sao 'させられ' (sai khiến bị động) được dùng trong ngữ cảnh này?",
           "choices": {
             "A": "成長が企業の強制的な義務であることを示すため",
             "B": "企業が市場競争により成長を余儀なくされる（市場力の圧力）を示唆するため",
@@ -320,7 +320,7 @@
             "D": "企業の成長努力が完全に無駄であることを示すため"
           },
           "answer": "B",
-          "explanation_vn": "在此文脈中，「させられ」暗示了企業被市场力所迫而不得不實現成長——這是一種必然性而非自願選擇。這反映出市場競爭環境強制企業必須增長才能生存，而不是企業主動追求成長。Ở đây, させられ chỉ ra rằng sự tăng trưởng là do áp lực thị trường (không phải tự nguyện), thể hiện tính bắt buộc của môi trường cạnh tranh."
+          "explanation_vn": "'成長させられ' là sai khiến bị động (使役受動) của 成長する: 成長する → 成長させる → 成長させられる. Ở đây hàm ý doanh nghiệp bị áp lực thị trường (市場力) buộc phải tăng trưởng — tăng trưởng không phải lựa chọn tự nguyện mà là điều bị môi trường cạnh tranh ép buộc. → (B) đúng (nhấn mạnh áp lực thị trường); (A) sai vì không phải 'nghĩa vụ bắt buộc' mà là áp lực khách quan."
         }
       ]
     }

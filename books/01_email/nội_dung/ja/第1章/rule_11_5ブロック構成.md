@@ -1,86 +1,86 @@
 # Rule 11 — メールの5ブロック構成
 
-> **要点.** プロフェッショナルなメールには常に **5つのブロック** が固定の順序で存在する：**宛名 → 冒頭挨拶 → 本文 → 締めの一言 → 署名**。ブロックを省いたり順序を変えたりするのはチャット（Slack、LINE WORKS）の作法。メールでは5ブロック構成がデフォルト。読み手は上から下に目を流す習慣があり、崩すと予想外の場所に情報を探させることになる。
+> **要点.** プロフェッショナルなメールには常に **5つのブロック** が固定の順序で<ruby>存在<rt>そんざい</rt></ruby>する：**<ruby>宛名<rt>あてな</rt></ruby> → <ruby>冒頭<rt>ぼうとう</rt></ruby><ruby>挨拶<rt>あいさつ</rt></ruby> → <ruby>本文<rt>ほんぶん</rt></ruby> → <ruby>締<rt>し</rt></ruby>めの一言 → <ruby>署名<rt>しょめい</rt></ruby>**。ブロックを<ruby>省<rt>はぶ</rt></ruby>いたり<ruby>順序<rt>じゅんじょ</rt></ruby>を変えたりするのはチャット（Slack、LINE WORKS）の<ruby>作法<rt>さほう</rt></ruby>。メールでは5ブロック<ruby>構成<rt>こうせい</rt></ruby>がデフォルト。<ruby>読<rt>よ</rt></ruby>み手は上から下に目を<ruby>流<rt>なが</rt></ruby>す<ruby>習慣<rt>しゅうかん</rt></ruby>があり、<ruby>崩<rt>くず</rt></ruby>すと<ruby>予想外<rt>よそうがい</rt></ruby>の場所に<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>探<rt>さが</rt></ruby>させることになる。
 >
 > キーワード：**「5ブロック」**。
 
 ## 背景
 
-ズンがビンミンプロジェクトの追加予算承認をフオン副部長に依頼する。
+ズンがビンミンプロジェクトの<ruby>追加<rt>ついか</rt></ruby><ruby>予算<rt>よさん</rt></ruby><ruby>承認<rt>しょうにん</rt></ruby>をフオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>に<ruby>依頼<rt>いらい</rt></ruby>する。
 
-## 悪い例 — ブロックを崩したメール
+## 悪い例 — ブロックを<ruby>崩<rt>くず</rt></ruby>したメール
 
-> **件名：** ビンミン 予算
+> **<ruby>件名<rt>けんめい</rt></ruby>：** ビンミン <ruby>予算<rt>よさん</rt></ruby>
 >
 > ---
 >
-> ビンミンの追加予算50万円ご承認お願いします。添付参照。
+> ビンミンの<ruby>追加<rt>ついか</rt></ruby><ruby>予算<rt>よさん</rt></ruby>50万円ご<ruby>承認<rt>しょうにん</rt></ruby>お願いします。<ruby>添付<rt>てんぷ</rt></ruby><ruby>参照<rt>さんしょう</rt></ruby>。
 
-**問題点：**
-- **宛名なし** — 複数名にCCした場合、誰が処理すべきか分からない。
-- **冒頭挨拶なし** — 用件直入、命令のような印象。
-- **締めなし** — 途中で止まっている感じ、失礼。
-- **署名なし** — メール以外の連絡手段（電話、チャット）が分からない。
+**<ruby>問題点<rt>もんだいてん</rt></ruby>：**
+- **<ruby>宛名<rt>あてな</rt></ruby>なし** — <ruby>複数名<rt>ふくすうめい</rt></ruby>にCCした<ruby>場合<rt>ばあい</rt></ruby>、<ruby>誰<rt>だれ</rt></ruby>が<ruby>処理<rt>しょり</rt></ruby>すべきか分からない。
+- **<ruby>冒頭<rt>ぼうとう</rt></ruby><ruby>挨拶<rt>あいさつ</rt></ruby>なし** — <ruby>用件<rt>ようけん</rt></ruby><ruby>直入<rt>ちょくにゅう</rt></ruby>、<ruby>命令<rt>めいれい</rt></ruby>のような<ruby>印象<rt>いんしょう</rt></ruby>。
+- **<ruby>締<rt>し</rt></ruby>めなし** — <ruby>途中<rt>とちゅう</rt></ruby>で止まっている感じ、<ruby>失礼<rt>しつれい</rt></ruby>。
+- **<ruby>署名<rt>しょめい</rt></ruby>なし** — メール<ruby>以外<rt>いがい</rt></ruby>の<ruby>連絡<rt>れんらく</rt></ruby><ruby>手段<rt>しゅだん</rt></ruby>（<ruby>電話<rt>でんわ</rt></ruby>、チャット）が分からない。
 
-LINEの社内グループで親しい同僚同士なら通用する。だがメール、特に上司宛では**雑な印象**を与える。
+LINEの<ruby>社内<rt>しゃない</rt></ruby>グループで<ruby>親<rt>した</rt></ruby>しい<ruby>同僚<rt>どうりょう</rt></ruby><ruby>同士<rt>どうし</rt></ruby>なら<ruby>通用<rt>つうよう</rt></ruby>する。だがメール、<ruby>特<rt>とく</rt></ruby>に<ruby>上司<rt>じょうし</rt></ruby><ruby>宛<rt>あ</rt></ruby>では**<ruby>雑<rt>ざつ</rt></ruby>な<ruby>印象<rt>いんしょう</rt></ruby>**を<ruby>与<rt>あた</rt></ruby>える。
 
-## 良い例 — 5ブロック完備
+## 良い例 — 5ブロック<ruby>完備<rt>かんび</rt></ruby>
 
-> **件名：** 【ビンミン】追加予算50万円のご承認依頼 — 5/15まで
+> **<ruby>件名<rt>けんめい</rt></ruby>：** 【ビンミン】<ruby>追加<rt>ついか</rt></ruby><ruby>予算<rt>よさん</rt></ruby>50万円のご<ruby>承認<rt>しょうにん</rt></ruby><ruby>依頼<rt>いらい</rt></ruby> — 5/15まで
 >
 > ---
 >
-> **① 宛名**
-> 営業部 フオン副部長、
+> **① <ruby>宛名<rt>あてな</rt></ruby>**
+> <ruby>営業部<rt>えいぎょうぶ</rt></ruby> フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、
 >
-> **② 冒頭挨拶**
-> お疲れ様です、BDのズンです。ビンミンプロジェクトの追加予算につきましてご相談申し上げます。
+> **② <ruby>冒頭<rt>ぼうとう</rt></ruby><ruby>挨拶<rt>あいさつ</rt></ruby>**
+> お<ruby>疲<rt>つか</rt></ruby>れ様です、BDのズンです。ビンミンプロジェクトの追加予算につきましてご<ruby>相談<rt>そうだん</rt></ruby><ruby>申<rt>もう</rt></ruby>し上げます。
 >
-> **③ 本文**
-> 以下の内容でご承認をお願いいたします：
+> **③ <ruby>本文<rt>ほんぶん</rt></ruby>**
+> <ruby>以下<rt>いか</rt></ruby>の<ruby>内容<rt>ないよう</rt></ruby>でご承認をお願いいたします：
 >
-> - 追加額：50万円
-> - 項目：セキュリティテストの外部委託
-> - 理由：白鷗社セキュリティチームからの新要件（詳細は添付2ページ目）
+> - <ruby>追加額<rt>ついかがく</rt></ruby>：50万円
+> - <ruby>項目<rt>こうもく</rt></ruby>：セキュリティテストの<ruby>外部<rt>がいぶ</rt></ruby><ruby>委託<rt>いたく</rt></ruby>
+> - <ruby>理由<rt>りゆう</rt></ruby>：<ruby>白鷗社<rt>はくおうしゃ</rt></ruby>セキュリティチームからの<ruby>新要件<rt>しんようけん</rt></ruby>（<ruby>詳細<rt>しょうさい</rt></ruby>は<ruby>添付<rt>てんぷ</rt></ruby>2ページ目）
 >
-> 5月15日（木）までにご承認いただけますと、翌週の外注契約締結に間に合います。
+> 5月15日（木）までにご承認いただけますと、<ruby>翌週<rt>よくしゅう</rt></ruby>の<ruby>外注<rt>がいちゅう</rt></ruby><ruby>契約<rt>けいやく</rt></ruby><ruby>締結<rt>ていけつ</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>います。
 >
-> **④ 締めの一言**
-> 追加情報や補足説明が必要でしたら、いつでもご連絡ください。ご確認のほどよろしくお願いいたします。
+> **④ <ruby>締<rt>し</rt></ruby>めの一言**
+> <ruby>追加<rt>ついか</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>や<ruby>補足<rt>ほそく</rt></ruby><ruby>説明<rt>せつめい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>でしたら、いつでもご<ruby>連絡<rt>れんらく</rt></ruby>ください。ご<ruby>確認<rt>かくにん</rt></ruby>のほどよろしくお願いいたします。
 >
-> **⑤ 署名**
+> **⑤ <ruby>署名<rt>しょめい</rt></ruby>**
 > ズン
-> 営業部 BD担当
+> 営業部 BD<ruby>担当<rt>たんとう</rt></ruby>
 > ティエンファット社
 > ─────────────────
 > TEL: +84-90-xxxx-xxxx
 > Email: zung.tran@tienphat.com.vn
 
-## 各ブロックの役割
+## 各ブロックの<ruby>役割<rt>やくわり</rt></ruby>
 
-| ブロック | 役割 | 一般的な長さ |
+| ブロック | <ruby>役割<rt>やくわり</rt></ruby> | <ruby>一般的<rt>いっぱんてき</rt></ruby>な<ruby>長<rt>なが</rt></ruby>さ |
 |---------|-----|------------|
-| 宛名 | 主たる受信者を特定 | 1行 |
-| 冒頭挨拶 | 挨拶＋導入行（Rule 13, 14） | 1〜2文 |
-| 本文 | 主題 — 結論→理由→詳細（Rule 15） | 3〜10行 |
-| 締めの一言 | 「閉じる」一言、感謝、返信依頼 | 1〜2文 |
-| 署名 | 連絡先情報 | 3〜5行 |
+| <ruby>宛名<rt>あてな</rt></ruby> | <ruby>主<rt>しゅ</rt></ruby>たる<ruby>受信者<rt>じゅしんしゃ</rt></ruby>を<ruby>特定<rt>とくてい</rt></ruby> | 1行 |
+| <ruby>冒頭<rt>ぼうとう</rt></ruby><ruby>挨拶<rt>あいさつ</rt></ruby> | 挨拶＋<ruby>導入行<rt>どうにゅうぎょう</rt></ruby>（Rule 13, 14） | 1〜2<ruby>文<rt>ぶん</rt></ruby> |
+| <ruby>本文<rt>ほんぶん</rt></ruby> | <ruby>主題<rt>しゅだい</rt></ruby> — <ruby>結論<rt>けつろん</rt></ruby>→<ruby>理由<rt>りゆう</rt></ruby>→<ruby>詳細<rt>しょうさい</rt></ruby>（Rule 15） | 3〜10行 |
+| <ruby>締<rt>し</rt></ruby>めの一言 | 「<ruby>閉<rt>と</rt></ruby>じる」一言、<ruby>感謝<rt>かんしゃ</rt></ruby>、<ruby>返信<rt>へんしん</rt></ruby><ruby>依頼<rt>いらい</rt></ruby> | 1〜2文 |
+| <ruby>署名<rt>しょめい</rt></ruby> | <ruby>連絡先<rt>れんらくさき</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby> | 3〜5行 |
 
-## 派生 — 親しい社内メール
+## <ruby>派生<rt>はせい</rt></ruby> — <ruby>親<rt>した</rt></ruby>しい<ruby>社内<rt>しゃない</rt></ruby>メール
 
-親しい同僚同士では、5ブロック構成を**縮める**ことはできるが、**省くべきではない**：
+親しい<ruby>同僚<rt>どうりょう</rt></ruby><ruby>同士<rt>どうし</rt></ruby>では、5ブロック<ruby>構成<rt>こうせい</rt></ruby>を**<ruby>縮<rt>ちぢ</rt></ruby>める**ことはできるが、**<ruby>省<rt>はぶ</rt></ruby>くべきではない**：
 
-> フオン副部長、
+> フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、
 >
-> ビンミンの追加予算50万円、ご承認お願いします。添付、5/15までにいただけると助かります。
+> ビンミンの<ruby>追加<rt>ついか</rt></ruby><ruby>予算<rt>よさん</rt></ruby>50万円、ご<ruby>承認<rt>しょうにん</rt></ruby>お願いします。<ruby>添付<rt>てんぷ</rt></ruby>、5/15までにいただけると<ruby>助<rt>たす</rt></ruby>かります。
 >
 > よろしくお願いします。
 > ズン
 
-宛名縮小（「フオン副部長、」）、本文、締め（「よろしくお願いします」）、署名（「ズン」）はすべて残っている。冒頭挨拶だけ省略。構造は維持されている。
+<ruby>宛名<rt>あてな</rt></ruby><ruby>縮小<rt>しゅくしょう</rt></ruby>（「フオン副部長、」）、<ruby>本文<rt>ほんぶん</rt></ruby>、<ruby>締<rt>し</rt></ruby>め（「よろしくお願いします」）、<ruby>署名<rt>しょめい</rt></ruby>（「ズン」）はすべて<ruby>残<rt>のこ</rt></ruby>っている。<ruby>冒頭<rt>ぼうとう</rt></ruby><ruby>挨拶<rt>あいさつ</rt></ruby>だけ<ruby>省略<rt>しょうりゃく</rt></ruby>。<ruby>構造<rt>こうぞう</rt></ruby>は<ruby>維持<rt>いじ</rt></ruby>されている。
 
 ## 使えるフレーズ
 
-> **「宛名 → 冒頭 → 本文 → 締め → 署名。何かを省くなら、省く理由を自覚する。」**
+> **「<ruby>宛名<rt>あてな</rt></ruby> → <ruby>冒頭<rt>ぼうとう</rt></ruby> → <ruby>本文<rt>ほんぶん</rt></ruby> → <ruby>締<rt>し</rt></ruby>め → <ruby>署名<rt>しょめい</rt></ruby>。何かを<ruby>省<rt>はぶ</rt></ruby>くなら、省く<ruby>理由<rt>りゆう</rt></ruby>を<ruby>自覚<rt>じかく</rt></ruby>する。」**
 
-*使うとき：* 送信前、上から下に目を通して5ブロックの存在を確認する。この1分が「なんだか冷たいメールだ」という印象を防ぐ。
+*使うとき：* <ruby>送信前<rt>そうしんまえ</rt></ruby>、上から下に目を<ruby>通<rt>とお</rt></ruby>して5ブロックの<ruby>存在<rt>そんざい</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>する。この1分が「なんだか<ruby>冷<rt>つめ</rt></ruby>たいメールだ」という<ruby>印象<rt>いんしょう</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぐ。

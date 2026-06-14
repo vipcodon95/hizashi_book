@@ -9,7 +9,11 @@
     "ja": "ズンが3日間の提案書作成タスクで沈黙を保つ場面。VN『沈黙=順調』vs JP『沈黙=問題』のカルチャーギャップを、月曜時点で reporting cadence を約束 + 中間2回 + 完成報告で解消する。",
     "vi": "Em Dũng làm task 3 ngày soạn proposal nhưng im lặng. Khoảng cách văn hóa VN 'im lặng = ổn' vs Nhật 'im lặng = vấn đề'. Khắc phục bằng cam kết cadence từ thứ Hai + 2 trung gian + báo hoàn thành."
   },
-  "related_rules": ["rule_02", "rule_13", "rule_21"],
+  "related_rules": [
+    "rule_02",
+    "rule_13",
+    "rule_21"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -109,7 +113,9 @@
           "sentence": "(月曜9:00) 松本様、承知しました。木曜中に提案書をご準備いたします。進捗共有の予定: 火曜EOD: ドラフト構成案 / 水曜EOD: コスト見積完了 / 木曜AM: 完成版送付。途中で blocker あればすぐご連絡いたします。",
           "sentence_translation": "(Thứ Hai 9:00) Anh Matsumoto, em hiểu rồi ạ. Em sẽ chuẩn bị proposal trong thứ Năm ạ. [Lịch chia sẻ tiến độ] Thứ Ba EOD: cấu trúc draft / thứ Tư EOD: xong báo giá cost / thứ Năm sáng: gửi bản cuối. Có blocker em báo ngay ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_36_good_02",
@@ -119,7 +125,9 @@
           "sentence": "(火曜18:00、Slack) 【中間報告 ① / 火曜EOD】ドラフト構成案完成。Phase 3 機能スコープ8項目、コスト軸は人月+ライセンスで構成予定。ブロッカーなし、予定通り進行中。明日のコスト見積完了報告は水曜 EOD に行います。",
           "sentence_translation": "(Thứ Ba 18:00, Slack) [Trung gian 1 / Thứ Ba EOD] Xong cấu trúc draft. Scope chức năng Phase 3 có 8 mục, trục cost dự kiến gồm man-month + license. Không có blocker, đúng kế hoạch. Báo xong cost ngày mai em làm thứ Tư EOD ạ.",
           "tone": "neutral",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_36_good_03",
@@ -147,7 +155,9 @@
           "sentence": "(木曜8:50、メール) 松本様、Phase 3 ご提案書をお送りいたします。月曜お約束通り、火曜・水曜に中間報告を経て本日完成いたしました。ご確認のほどよろしくお願い申し上げます。",
           "sentence_translation": "(Thứ Năm 8:50, mail) Anh Matsumoto, em xin gửi proposal Phase 3 ạ. Đúng như hứa thứ Hai, qua 2 báo cáo trung gian thứ Ba và thứ Tư, hôm nay em đã hoàn thành ạ. Phiền anh xác nhận ạ.",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_36_good_06",
@@ -186,12 +196,12 @@
       "skill": "場面把握",
       "question_ja": "VN team が JP 客に3日間のタスクを引き受けた場合、ホウレンソウとして最も適切なのは?",
       "options": [
-        "完成時にまとめて報告",
         "進捗があった時のみ連絡",
-        "開始時に reporting cadence を約束し、毎日 EOD に『ブロッカーなし、予定通り』でも1行報告",
-        "Slack に一日中張り付く"
+        "完成時にまとめて報告",
+        "Slack に一日中張り付く",
+        "開始時に reporting cadence を約束し、毎日 EOD に『ブロッカーなし、予定通り』でも1行報告"
       ],
-      "correct": "C",
+      "correct": "D",
       "explanation": {
         "ja": "VN『沈黙=順調』vs JP『沈黙=問題』のギャップを cadence 約束 + no-news report (báo 'không có tin') で解消する。完成時のみは JP 側に不安を与える。",
         "vi": "Khoảng cách VN 'im lặng = ổn' vs Nhật 'im lặng = vấn đề', giải quyết bằng cam kết cadence + báo no news. Chỉ báo lúc xong = khách Nhật bất an."

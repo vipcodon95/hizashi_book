@@ -1,6 +1,6 @@
 # Rule 33 — Tránh culture clash VN-JP / 文化衝突の回避
 
-> **Luận điểm.** 3 thói quen Việt Nam xung đột thẳng với kiểu Nhật khi tiếp khách: **(1) "Em tự rót cho em" → kiểu Nhật phải rót cho nhau (相互ケア), (2) "Để em trả" với người mời → mất face người mời, (3) "Đáp lễ quà ngay" → tín hiệu "tôi nợ" tạo gánh nặng**. Đúng cách = nhường, hẹn lần sau mình mời lại / đáp lễ ở dịp khác.
+> **Luận điểm.** 3 thói quen Việt Nam xung đột thẳng với kiểu Nhật khi tiếp khách: **(1) "Em tự rót cho em" → kiểu Nhật phải rót cho nhau (相互ケア), (2) "Để em trả" với người mời → mất thể diện người mời, (3) "Đáp lễ quà ngay" → tín hiệu "tôi nợ" tạo gánh nặng**. Đúng cách = nhường, hẹn lần sau mình mời lại / đáp lễ ở dịp khác.
 >
 > VN流『自分でやる/俺が払う/即返し』 vs JP『相互pour/招待者支払い/別日返し』。後者を follow が正解。
 >
@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Ngày 3 onsite Tokyo buổi tối, Tanaka PMO + PM Matsumoto rủ Dũng + Tuấn đến izakaya casual không chính thức. Đây là lúc dễ rơi vào reflex VN nhất vì không khí thoải mái. Chị Hương đã dặn 3 chú ý trước khi đi, đây là thực hành.
+Ngày 3 onsite Tokyo buổi tối, Tanaka PMO + PM Matsumoto rủ Dũng + Tuấn đến izakaya casual không chính thức. Đây là lúc dễ rơi vào phản xạ kiểu VN nhất vì không khí thoải mái. Chị Hương đã dặn 3 chú ý trước khi đi, đây là thực hành.
 
 ---
 
@@ -18,14 +18,20 @@ Ngày 3 onsite Tokyo buổi tối, Tanaka PMO + PM Matsumoto rủ Dũng + Tuấn
 
 | Vai | Câu |
 |---------|-----|
-| **松本PM** | 「ズンさん、もう一杯どうぞ。」 |
-| **ズン** | （自分で自分のglassに注ぐ）「あ、自分でやります。」 |
-| **松本PM** | （少し違和感）「あ、はい…」 |
-| **トゥアンリーダー** | （会計時、自分のカードを先に出す）「今日は私達が…」 |
-| **田中PMO** | 「あ、今日は私が誘ったので…」 (face損なう) |
-| **ズン** | （鞄から即お返しのgiftを取り出す）「これ、お返しに…」 |
+| **松本PM** | 「ズンさん、もう<ruby>一杯<rt>いっぱい</rt></ruby>どうぞ。」 |
+|  | *Anh Dũng, thêm ly nữa nhé.* |
+| **ズン** | （<ruby>自分<rt>じぶん</rt></ruby>で<ruby>自分<rt>じぶん</rt></ruby>のglassに<ruby>注<rt>そそ</rt></ruby>ぐ）「あ、<ruby>自分<rt>じぶん</rt></ruby>でやります。」 |
+|  | *(tự rót cho mình) À em tự rót được ạ.* |
+| **松本PM** | （<ruby>少<rt>すこ</rt></ruby>し<ruby>違和感<rt>いわかん</rt></ruby>）「あ、はい…」 |
+|  | *(hơi bối rối) À, vâng...* |
+| **トゥアンリーダー** | （<ruby>会計時<rt>かいけいじ</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>のカードを<ruby>先<rt>さき</rt></ruby>に<ruby>出<rt>だ</rt></ruby>す）「<ruby>今日<rt>きょう</rt></ruby>は<ruby>私達<rt>わたしたち</rt></ruby>が…」 |
+|  | *(thấy bill, rút thẻ ra trước) Hôm nay bọn em...* |
+| **田中PMO** | 「あ、<ruby>今日<rt>きょう</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>が<ruby>誘<rt>さそ</rt></ruby>ったので…」 (face損なう) |
+|  | *Ơ, hôm nay tôi mời mà... (mất mặt)* |
+| **ズン** | （<ruby>鞄<rt>かばん</rt></ruby>から<ruby>即<rt>そく</rt></ruby>お<ruby>返<rt>かえ</rt></ruby>しのgiftを<ruby>取<rt>と</rt></ruby>り<ruby>出<rt>だ</rt></ruby>す）「これ、お<ruby>返<rt>かえ</rt></ruby>しに…」 |
+|  | *(rút quà đáp lễ từ cặp ngay) Đây ạ, em đáp lễ...* |
 
-**Vì sao xấu:** (1) Tự rót cho mình = phá kiểu Nhật chăm sóc lẫn nhau (Matsumoto đề xuất rót cho mình mà bị từ chối). (2) Thấy bill rút thẻ trước khi người mời rút = mất mặt người mời (Tanaka PMO). (3) Đáp lễ quà ngay = tín hiệu "tôi nợ phải trả ngay" = tạo cảm giác gánh nặng.
+**Vì sao xấu:** (1) Tự rót cho mình = phá kiểu Nhật chăm sóc lẫn nhau (Matsumoto đề xuất rót cho mình mà bị từ chối). (2) Thấy hóa đơn rút thẻ trước khi người mời rút = mất mặt người mời (Tanaka PMO). (3) Đáp lễ quà ngay = tín hiệu "tôi nợ phải trả ngay" = tạo cảm giác gánh nặng.
 
 ---
 
@@ -33,20 +39,29 @@ Ngày 3 onsite Tokyo buổi tối, Tanaka PMO + PM Matsumoto rủ Dũng + Tuấn
 
 | Vai | Câu |
 |---------|-----|
-| **松本PM** | 「ズンさん、もう一杯どうぞ。」 |
-| **ズン** | 「ありがとうございます。松本様、お注ぎします。」（瓶を両手で持ち、松本のglassへ）【1】 |
-| **松本PM** | （glass両手で受け）「どうも。では私もズンさんに。」 |
-| **田中PMO** | （会計時に立ち上がる）「会計、私が。」 |
-| **ズン** | 「今日は田中様にお誘いいただきましたので、お言葉に甘えさせていただきます。次回はぜひ当方が皆様をお招きしたく。」【2】 |
+| **松本PM** | 「ズンさん、もう<ruby>一杯<rt>いっぱい</rt></ruby>どうぞ。」 |
+|  | *Anh Dũng, thêm ly nữa nhé.* |
+| **ズン** | 「ありがとうございます。<ruby>松本<rt>まつもと</rt></ruby>様、お<ruby>注<rt>そそ</rt></ruby>ぎします。」（<ruby>瓶<rt>びん</rt></ruby>を<ruby>両手<rt>りょうて</rt></ruby>で<ruby>持<rt>も</rt></ruby>ち、<ruby>松本<rt>まつもと</rt></ruby>のglassへ）【1】 |
+|  | *Cảm ơn anh ạ. Anh Matsumoto, em rót anh ạ. (cầm chai 2 tay rót vào ly Matsumoto)* |
+| **松本PM** | （glass<ruby>両手<rt>りょうて</rt></ruby>で<ruby>受<rt>う</rt></ruby>け）「どうも。では<ruby>私<rt>わたし</rt></ruby>もズンさんに。」 |
+|  | *(đón ly bằng 2 tay) Cảm ơn. Vậy tôi cũng rót anh Dũng nhé.* |
+| **田中PMO** | （<ruby>会計時<rt>かいけいじ</rt></ruby>に<ruby>立<rt>た</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>がる）「<ruby>会計<rt>かいけい</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>が。」 |
+|  | *(đến lúc tính tiền, đứng dậy) Hóa đơn để tôi.* |
+| **ズン** | 「<ruby>今日<rt>きょう</rt></ruby>は<ruby>田中<rt>たなか</rt></ruby>様にお<ruby>誘<rt>さそ</rt></ruby>いいただきましたので、お<ruby>言葉<rt>ことば</rt></ruby>に<ruby>甘<rt>あま</rt></ruby>えさせていただきます。<ruby>次回<rt>じかい</rt></ruby>はぜひ<ruby>当方<rt>とうほう</rt></ruby>が<ruby>皆様<rt>みなさま</rt></ruby>をお<ruby>招<rt>まね</rt></ruby>きしたく。」【2】 |
+|  | *Hôm nay anh Tanaka đã mời, em xin phép nhận sự tiếp đón ạ. Lần sau bên em xin được mời quý vị ạ.* |
 | **田中PMO** | 「ありがとうございます。」 |
-| **トゥアンリーダー** | 「次回ベトナムにお越しの際に、ささやかですがお返しの席をご用意させていただきます。」【3】 |
-| **松本PM** | 「楽しみにしております。」 |
-| **ズン** | 「本日はご馳走になりました。誠にありがとうございました。」【4】 |
+|  | *Cảm ơn anh.* |
+| **トゥアンリーダー** | 「<ruby>次回<rt>じかい</rt></ruby>ベトナムにお<ruby>越<rt>こ</rt></ruby>しの<ruby>際<rt>さい</rt></ruby>に、ささやかですがお<ruby>返<rt>かえ</rt></ruby>しの<ruby>席<rt>せき</rt></ruby>をご<ruby>用意<rt>ようい</rt></ruby>させていただきます。」【3】 |
+|  | *Lần sau anh sang Việt Nam, bên em xin chuẩn bị bữa nhỏ đáp lễ ạ.* |
+| **松本PM** | 「<ruby>楽<rt>たの</rt></ruby>しみにしております。」 |
+|  | *Tôi rất mong chờ.* |
+| **ズン** | 「<ruby>本日<rt>ほんじつ</rt></ruby>はご<ruby>馳走<rt>ちそう</rt></ruby>になりました。<ruby>誠<rt>まこと</rt></ruby>にありがとうございました。」【4】 |
+|  | *Hôm nay em đã được tiếp đãi, em xin chân thành cảm ơn ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**Đảo ngược "mình tự rót cho mình" kiểu VN**. Kiểu Nhật = chăm sóc lẫn nhau: rót cho đối phương → đối phương rót lại cho mình. Đó là nhịp相互ケア.
-- 【2】**Giữ thể diện người mời** — kìm "để em trả" kiểu VN, để người mời trả theo kiểu Nhật. Thay vào đó **đề xuất lần sau mình mời lại** = win-win.
-- 【3】**Đáp lễ ngay = tín hiệu "tôi nợ phải trả"** → kiểu Nhật là cách thời gian, "lần sau" / "tháng sau" = return tự nhiên không tạo gánh nặng tâm lý.
+- 【2】**Giữ thể diện người mời** — kìm "để em trả" kiểu VN, để người mời trả theo kiểu Nhật. Thay vào đó **đề xuất lần sau mình mời lại** = đôi bên cùng vui.
+- 【3】**Đáp lễ ngay = tín hiệu "tôi nợ phải trả"** → kiểu Nhật là cách thời gian, "lần sau" / "tháng sau" = đáp lễ tự nhiên không tạo gánh nặng tâm lý.
 - 【4】**「ご馳走になりました」** — câu cố định lúc tạm biệt người mời. Sáng hôm sau gửi mail cảm ơn lần nữa = hoàn hảo.
 
 ---
@@ -62,10 +77,10 @@ Ngày 3 onsite Tokyo buổi tối, Tanaka PMO + PM Matsumoto rủ Dũng + Tuấn
 ## ⚠ Tránh
 
 - Tự rót cho ly mình khi đối phương đề nghị rót — phá相互ケア
-- Tranh trả tiền với người mời — mất face người mời
+- Tranh trả tiền với người mời — mất thể diện người mời
 - Đáp lễ quà / bữa ăn ngay trong cùng dịp — tín hiệu "tôi nợ"
 - Từ chối mạnh "không không em không nhận đâu" — phá thiện chí
-- Quên gửi thank-you mail sáng hôm sau — mất follow-up
+- Quên gửi mail cảm ơn sáng hôm sau — mất bước theo dõi sau buổi gặp
 
 ---
 

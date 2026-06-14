@@ -1,6 +1,6 @@
 # Rule 25 — Gifu — núi, craft, đặc sản hiếm khách Việt biết / 岐阜
 
-> **Luận điểm.** **Gifu = mỏ vàng small-talk** vì 99% người Việt KHÔNG biết depth, mà người Gifu cực tự hào. Master 9 keywords: **飛騨牛 / 飛騨高山古い町並み / 白川郷 (UNESCO 合掌造り) / 鵜飼 (長良川 cormorant fishing) / 朴葉味噌 / 関の刃物 / 美濃焼 / 中津川栗きんとん / さるぼぼ**. Khách Gifu được nhắc 1 trong 9 = miệng cười không khép được.
+> **Luận điểm.** **Gifu = mỏ vàng zatsudan** vì 99% người Việt KHÔNG biết chiều sâu, mà người Gifu cực tự hào. Nắm vững 9 từ khóa: **飛騨牛 / 飛騨高山古い町並み / 白川郷 (UNESCO 合掌造り) / 鵜飼 (長良川 bắt cá bằng chim cốc) / 朴葉味噌 / 関の刃物 / 美濃焼 / 中津川栗きんとん / さるぼぼ**. Khách Gifu được nhắc 1 trong 9 = miệng cười không khép được.
 
 > **Ronten.** 岐阜は隠れた雑談ゴールドマイン。9つのキーワード(飛騨牛・白川郷・鵜飼・朴葉味噌・関刃物・美濃焼・栗きんとん・古い町並み・さるぼぼ)を押さえれば岐阜出身者と一気に距離が縮まる。
 
@@ -8,10 +8,10 @@
 
 ## 🧠 Tâm lý JP
 
-- 岐阜県人 = 出身地ノット-Tokyo-Osaka — bị bỏ qua bởi đa số người nước ngoài, nên cảm động khi đối tác biết depth.
+- 岐阜県人 = quê không phải Tokyo-Osaka — bị bỏ qua bởi đa số người nước ngoài, nên cảm động khi đối tác biết sâu.
 - **飛騨地方 (Hida)** = Bắc Gifu (Takayama / Shirakawa-go), văn hóa 工匠 (thợ thủ công cổ).
 - **美濃地方 (Mino)** = Nam Gifu (Gifu city / Seki / Tajimi), gốm + dao Samurai 700 năm.
-- Anh Kato — Hida-Takayama native — nói chậm, **dùng từ truyền thống** (例: 「ご飯」 hơn là 「めし」), tự hào về craft heritage.
+- Anh Kato — người gốc Hida-Takayama — nói chậm, **dùng từ truyền thống** (例: 「ご飯」 hơn là 「めし」), tự hào về di sản nghề thủ công.
 
 ---
 
@@ -29,52 +29,74 @@ Tháng 7/2026, Dũng + Tuấn được anh Kato mời lên **Takayama** 2 ngày 
 
 | Vai | Câu |
 |---------|-----|
-| **kato_gifu** | 「ズンさん、トゥアンさん、ようこそ高山へ。ゆっくりしていってくださいね。」 |
-| **ズン** | 「加藤さん、お招きありがとうございます。実は昨夜、**朴葉味噌**って何だろうって調べてしまって…」 |
-| **kato_gifu** | 「お!**朴葉味噌**、知ってますか?**朴の葉っぱ**の上に味噌・ねぎ・きのこを乗せて炭火で焼くんですよ。**飛騨地方**の郷土料理です。」 |
-| **ズン** | 「葉っぱごと焼くんですね。香りが移りそうで…」 |
-| **kato_gifu** | 「そうそう、葉の香りが味噌に染みる。冬は**飛騨牛**を乗せて焼くと最高でね。今日の夜、**丸明**で食べましょう。」 |
-| **トゥアン** | 「丸明、Trip Advisorで見ました。地元の方の店ですよね。」 |
-| **kato_gifu** | 「そう、**飛騨牛**は**A5ランク**でも他のブランド和牛より霜降りが繊細で、口の中でとろけますよ。」 |
+| **kato_gifu** | 「ズンさん、トゥアンさん、ようこそ<ruby>高山<rt>たかやま</rt></ruby>へ。ゆっくりしていってくださいね。」 |
+|  | *Em Dũng, anh Tuấn, chào mừng đến Takayama. Cứ thoải mái nhé.* |
+| **ズン** | 「<ruby>加藤<rt>かとう</rt></ruby>さん、お<ruby>招<rt>まね</rt></ruby>きありがとうございます。<ruby>実<rt>じつ</rt></ruby>は<ruby>昨夜<rt>さくや</rt></ruby>、**<ruby>朴葉味噌<rt>ほおばみそ</rt></ruby>**って<ruby>何<rt>なん</rt></ruby>だろうって<ruby>調<rt>しら</rt></ruby>べてしまって…」 |
+|  | *Anh Kato cảm ơn anh đã mời. Thật ra tối qua em tò mò 朴葉味噌 là gì nên tra...* |
+| **kato_gifu** | 「お!**朴葉味噌**、<ruby>知<rt>し</rt></ruby>ってますか?**<ruby>朴<rt>ほお</rt></ruby>の<ruby>葉<rt>は</rt></ruby>っぱ**の<ruby>上<rt>うえ</rt></ruby>に<ruby>味噌<rt>みそ</rt></ruby>・ねぎ・きのこを<ruby>乗<rt>の</rt></ruby>せて<ruby>炭火<rt>すみび</rt></ruby>で<ruby>焼<rt>や</rt></ruby>くんですよ。**<ruby>飛騨地方<rt>ひだちほう</rt></ruby>**の<ruby>郷土料理<rt>きょうどりょうり</rt></ruby>です。」 |
+|  | *Ồ! 朴葉味噌 em biết rồi à? Đặt miso, hành, nấm lên lá hōba, nướng than. Món truyền thống vùng Hida.* |
+| **ズン** | 「<ruby>葉<rt>は</rt></ruby>っぱごと<ruby>焼<rt>や</rt></ruby>くんですね。<ruby>香<rt>かお</rt></ruby>りが<ruby>移<rt>うつ</rt></ruby>りそうで…」 |
+|  | *Nướng cả lá luôn. Hương lá thấm vào miso...* |
+| **kato_gifu** | 「そうそう、<ruby>葉<rt>は</rt></ruby>の<ruby>香<rt>かお</rt></ruby>りが<ruby>味噌<rt>みそ</rt></ruby>に<ruby>染<rt>し</rt></ruby>みる。<ruby>冬<rt>ふゆ</rt></ruby>は**<ruby>飛騨牛<rt>ひだぎゅう</rt></ruby>**を<ruby>乗<rt>の</rt></ruby>せて<ruby>焼<rt>や</rt></ruby>くと<ruby>最高<rt>さいこう</rt></ruby>でね。<ruby>今日<rt>きょう</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、**<ruby>丸明<rt>まるあき</rt></ruby>**で<ruby>食<rt>た</rt></ruby>べましょう。」 |
+|  | *Đúng đó, hương lá thấm vào miso. Mùa đông đặt 飛騨牛 lên nướng đỉnh. Tối nay đi 丸明.* |
+| **トゥアン** | 「丸明、Trip Advisorで<ruby>見<rt>み</rt></ruby>ました。<ruby>地元<rt>じもと</rt></ruby>の<ruby>方<rt>かた</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>ですよね。」 |
+|  | *Maruaki em xem Trip Advisor rồi. Quán địa phương nhỉ.* |
+| **kato_gifu** | 「そう、**飛騨牛**は**A5ランク**でも<ruby>他<rt>ほか</rt></ruby>のブランド<ruby>和牛<rt>わぎゅう</rt></ruby>より<ruby>霜降<rt>しもふ</rt></ruby>りが<ruby>繊細<rt>せんさい</rt></ruby>で、<ruby>口<rt>くち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でとろけますよ。」 |
+|  | *Đúng, 飛騨牛 dù A5 vẫn vân thịt mịn hơn wagyu khác, tan trong miệng.* |
 
-> **VN:** **朴葉味噌 (hōba miso)** = món "khách Việt 99% không biết". Mở topic này = anh Kato lập tức warm. **飛騨牛 (Hida-gyū)** A5 = brand wagyu top alongside 神戸/松阪.
+> **VN:** **朴葉味噌 (hōba miso)** = món "khách Việt 99% không biết". Mở topic này = anh Kato lập tức thân thiện cởi mở. **飛騨牛 (Hida-gyū)** A5 = thương hiệu wagyu hàng đầu sánh ngang 神戸/松阪.
 
 ---
 
-### 📍 Scenario 2 — Chiều Sannomachi 古い町並み — craft talk
+### 📍 Scenario 2 — Chiều Sannomachi 古い町並み — chuyện nghề thủ công
 
 *đi bộ trên 三町 · 笑*
 
 | Vai | Câu |
 |---------|-----|
-| **kato_gifu** | 「この**古い町並み**、江戸時代の家屋がそのまま残ってるんですよ。**京都**より素朴で、生活感があるって言われます。」 |
-| **ズン** | 「あ、これ**さるぼぼ**ですね、いろんな色がある…」 |
-| **kato_gifu** | 「お、知ってる!**さるぼぼ**は**飛騨**の伝統人形、『**猿の赤ちゃん**』って意味。赤=厄除け、ピンク=恋愛、青=学業…色で意味が違うんです。」 |
-| **ズン** | 「お土産に黄色を…って、お金ですか(笑)」 |
-| **kato_gifu** | 「そう、黄色は金運(笑)。あと、**地酒**も。**飛騨高山には7つの蔵元**があるんですよ。**老田酒造『鬼ころし』**、**舩坂酒造**、**川尻酒造**…」 |
-| **ズン** | 「『鬼ころし』、辛口のイメージですね。」 |
-| **kato_gifu** | 「飛騨はお米と水が良いから酒どころ。**朝市**は明日の朝、ぜひ行きましょう。**宮川朝市**と**陣屋前朝市**、2つあります。」 |
+| **kato_gifu** | 「この**<ruby>古<rt>ふる</rt></ruby>い<ruby>町並<rt>まちな</rt></ruby>み**、<ruby>江戸時代<rt>えどじだい</rt></ruby>の<ruby>家屋<rt>かおく</rt></ruby>がそのまま<ruby>残<rt>のこ</rt></ruby>ってるんですよ。**<ruby>京都<rt>きょうと</rt></ruby>**より<ruby>素朴<rt>そぼく</rt></ruby>で、<ruby>生活感<rt>せいかつかん</rt></ruby>があるって<ruby>言<rt>い</rt></ruby>われます。」 |
+|  | *Khu phố cổ này nhà thời Edo còn nguyên. Người ta nói mộc mạc hơn Kyoto, có hơi thở cuộc sống.* |
+| **ズン** | 「あ、これ**さるぼぼ**ですね、いろんな<ruby>色<rt>いろ</rt></ruby>がある…」 |
+|  | *À, sarubobo đây, đủ màu...* |
+| **kato_gifu** | 「お、<ruby>知<rt>し</rt></ruby>ってる!**さるぼぼ**は**<ruby>飛騨<rt>ひだ</rt></ruby>**の<ruby>伝統人形<rt>でんとうにんぎょう</rt></ruby>、『**<ruby>猿<rt>さる</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃん**』って<ruby>意味<rt>いみ</rt></ruby>。<ruby>赤<rt>あか</rt></ruby>=<ruby>厄除<rt>やくよ</rt></ruby>け、ピンク=<ruby>恋愛<rt>れんあい</rt></ruby>、<ruby>青<rt>あお</rt></ruby>=<ruby>学業<rt>がくぎょう</rt></ruby>…<ruby>色<rt>いろ</rt></ruby>で<ruby>意味<rt>いみ</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>うんです。」 |
+|  | *Ồ em biết rồi! Sarubobo là búp bê truyền thống Hida, nghĩa là 'khỉ con'. Đỏ=tránh tai, hồng=tình yêu, xanh=học, vàng=tiền...* |
+| **ズン** | 「お<ruby>土産<rt>みやげ</rt></ruby>に<ruby>黄色<rt>きいろ</rt></ruby>を…って、お<ruby>金<rt>かね</rt></ruby>ですか(<ruby>笑<rt>わら</rt></ruby>)」 |
+|  | *Lấy vàng làm quà... tức tiền nhỉ (cười).* |
+| **kato_gifu** | 「そう、<ruby>黄色<rt>きいろ</rt></ruby>は<ruby>金運<rt>きんうん</rt></ruby>(<ruby>笑<rt>わら</rt></ruby>)。あと、**<ruby>地酒<rt>じざけ</rt></ruby>**も。**<ruby>飛騨高山<rt>ひだたかやま</rt></ruby>には7つの<ruby>蔵元<rt>くらもと</rt></ruby>**があるんですよ。**<ruby>老田酒造<rt>おいたしゅぞう</rt></ruby>『<ruby>鬼<rt>おに</rt></ruby>ころし』**、**<ruby>舩坂酒造<rt>ふなさかしゅぞう</rt></ruby>**、**<ruby>川尻酒造<rt>かわじりしゅぞう</rt></ruby>**…」 |
+|  | *Đúng, vàng là tiền (cười). Còn sake nữa. Hida-Takayama có 7 nhà nấu. Oita 'Onikoroshi', Funasaka, Kawajiri...* |
+| **ズン** | 「『鬼ころし』、<ruby>辛口<rt>からくち</rt></ruby>のイメージですね。」 |
+|  | *'Onikoroshi' nghe có cảm giác vị khan nhỉ.* |
+| **kato_gifu** | 「飛騨はお<ruby>米<rt>こめ</rt></ruby>と<ruby>水<rt>みず</rt></ruby>が<ruby>良<rt>よ</rt></ruby>いから<ruby>酒<rt>さけ</rt></ruby>どころ。**<ruby>朝市<rt>あさいち</rt></ruby>**は<ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、ぜひ<ruby>行<rt>い</rt></ruby>きましょう。**<ruby>宮川朝市<rt>みやがわあさいち</rt></ruby>**と**<ruby>陣屋前朝市<rt>じんやまえあさいち</rt></ruby>**、2つあります。」 |
+|  | *Hida gạo và nước tốt nên là vùng sake. Sáng mai đi 朝市 nhé. Có 2 chỗ: Miyagawa và Jinya-mae.* |
 
-> **VN:** さるぼぼ 5 màu (赤/ピンク/青/黄/緑) + 7 sake brewery Takayama (老田 鬼ころし は王道) + 2 朝市 (宮川 / 陣屋前) = depth tier S+. Khách Việt biết được thứ này = 例外的.
+> **VN:** さるぼぼ 5 màu (赤/ピンク/青/黄/緑) + 7 nhà nấu sake Takayama (老田 鬼ころし là chính thống) + 2 朝市 (宮川 / 陣屋前) = chiều sâu hạng S+. Khách Việt biết được thứ này = 例外的.
 
 ---
 
-### 📍 Scenario 3 — Dinner 丸明 — 飛騨牛 + 鵜飼 talk
+### 📍 Scenario 3 — Bữa tối 丸明 — chuyện 飛騨牛 + 鵜飼
 
 *nhìn miếng 飛騨牛 sashimi · 感動*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「飛騨牛、刺身でも食べられるんですね…霜降りが繊細で、本当に綺麗。」 |
-| **kato_gifu** | 「岐阜県内で**14ヶ月以上肥育**されたものだけが**飛騨牛**を名乗れる。**3歳未満の未経産牛**または去勢牛、肉質4等級以上。基準が厳しいんですよ。」 |
-| **ズン** | 「14ヶ月、3歳未満、4等級以上。**神戸牛**や**松阪牛**と並ぶブランドですよね。」 |
-| **kato_gifu** | 「日本三大和牛の一角と言う人もいる。ところで岐阜のもう一つの名物、**長良川の鵜飼**は知ってる?」 |
-| **ズン** | 「**鵜飼**…鵜匠が**鵜**を使って鮎を捕る、**1300年**の伝統ですよね。**5月11日〜10月15日**まで毎晩行われる、と。」 |
-| **kato_gifu** | 「すごい!日付まで知ってる!**長良川**のは**宮内庁御用達**、**鵜匠は世襲制**で代々続いてる。**篝火**の下で見ると幻想的ですよ。今度の夏、ぜひ。」 |
-| **トゥアン** | 「中津川の**栗きんとん**も気になってます。秋ですよね?」 |
-| **kato_gifu** | 「9月〜1月。**すや**と**川上屋**が二大老舗。栗100%、砂糖少々、それだけ。シンプルだから栗の質が出る。」 |
+| **ズン** | 「飛騨牛、<ruby>刺身<rt>さしみ</rt></ruby>でも<ruby>食<rt>た</rt></ruby>べられるんですね…<ruby>霜降<rt>しもふ</rt></ruby>りが<ruby>繊細<rt>せんさい</rt></ruby>で、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>綺麗<rt>きれい</rt></ruby>。」 |
+|  | *飛騨牛 ăn được cả sashimi... Vân thịt mịn, đẹp thật.* |
+| **kato_gifu** | 「<ruby>岐阜県内<rt>ぎふけんない</rt></ruby>で**14ヶ<ruby>月以上<rt>げついじょう</rt></ruby><ruby>肥育<rt>ひいく</rt></ruby>**されたものだけが**飛騨牛**を<ruby>名乗<rt>なの</rt></ruby>れる。**3<ruby>歳未満<rt>さいみまん</rt></ruby>の<ruby>未経産牛<rt>みけいさんぎゅう</rt></ruby>**または<ruby>去勢牛<rt>きょせいぎゅう</rt></ruby>、<ruby>肉質<rt>にくしつ</rt></ruby>4<ruby>等級以上<rt>とうきゅういじょう</rt></ruby>。<ruby>基準<rt>きじゅん</rt></ruby>が<ruby>厳<rt>きび</rt></ruby>しいんですよ。」 |
+|  | *Phải nuôi ≥14 tháng tại Gifu mới được gọi 飛騨牛. Bò chưa đẻ hoặc thiến, dưới 3 tuổi, thịt ≥4 hạng. Tiêu chuẩn ngặt.* |
+| **ズン** | 「14ヶ月、3歳未満、4等級以上。**<ruby>神戸牛<rt>こうべぎゅう</rt></ruby>**や**<ruby>松阪牛<rt>まつさかうし</rt></ruby>**と<ruby>並<rt>なら</rt></ruby>ぶブランドですよね。」 |
+|  | *14 tháng, dưới 3 tuổi, hạng 4+. Là thương hiệu sánh ngang Kobe, Matsusaka nhỉ.* |
+| **kato_gifu** | 「<ruby>日本三大和牛<rt>にほんさんだいわぎゅう</rt></ruby>の<ruby>一角<rt>いっかく</rt></ruby>と<ruby>言<rt>い</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>もいる。ところで岐阜のもう<ruby>一<rt>ひと</rt></ruby>つの<ruby>名物<rt>めいぶつ</rt></ruby>、**<ruby>長良川<rt>ながらがわ</rt></ruby>の<ruby>鵜飼<rt>うかい</rt></ruby>**は<ruby>知<rt>し</rt></ruby>ってる?」 |
+|  | *Có người nói là 1 trong 3 wagyu lớn Nhật. Mà đặc sản nữa của Gifu, 鵜飼 Nagara-gawa em biết không?* |
+| **ズン** | 「**鵜飼**…<ruby>鵜匠<rt>うしょう</rt></ruby>が**<ruby>鵜<rt>う</rt></ruby>**を<ruby>使<rt>つか</rt></ruby>って<ruby>鮎<rt>あゆ</rt></ruby>を<ruby>捕<rt>と</rt></ruby>る、**1300<ruby>年<rt>ねん</rt></ruby>**の<ruby>伝統<rt>でんとう</rt></ruby>ですよね。**5<ruby>月<rt>がつ</rt></ruby>11<ruby>日<rt>にち</rt></ruby>〜10<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>**まで<ruby>毎晩<rt>まいばん</rt></ruby><ruby>行<rt>おこな</rt></ruby>われる、と。」 |
+|  | *鵜飼... 鵜匠 dùng chim cốc bắt cá ayu, truyền thống 1300 năm. Tổ chức hàng đêm từ 11/5 đến 15/10.* |
+| **kato_gifu** | 「すごい!<ruby>日付<rt>ひづけ</rt></ruby>まで<ruby>知<rt>し</rt></ruby>ってる!**長良川**のは**<ruby>宮内庁御用達<rt>くないちょうごようたし</rt></ruby>**、**<ruby>鵜匠<rt>うしょう</rt></ruby>は<ruby>世襲制<rt>せしゅうせい</rt></ruby>**で<ruby>代々<rt>だいだい</rt></ruby><ruby>続<rt>つづ</rt></ruby>いてる。**<ruby>篝火<rt>かがりび</rt></ruby>**の<ruby>下<rt>した</rt></ruby>で<ruby>見<rt>み</rt></ruby>ると<ruby>幻想的<rt>げんそうてき</rt></ruby>ですよ。<ruby>今度<rt>こんど</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>、ぜひ。」 |
+|  | *Tuyệt! Em biết cả ngày tháng! Của Nagara-gawa là 御用達 cung đình, 鵜匠 thế tập đời đời. Dưới ánh đuốc rất ảo. Hè sau, đến nhé.* |
+| **トゥアン** | 「<ruby>中津川<rt>なかつがわ</rt></ruby>の**<ruby>栗<rt>くり</rt></ruby>きんとん**も<ruby>気<rt>き</rt></ruby>になってます。<ruby>秋<rt>あき</rt></ruby>ですよね?」 |
+|  | *Em quan tâm cả kuri-kinton Nakatsugawa. Mùa thu nhỉ?* |
+| **kato_gifu** | 「9月〜1月。**すや**と**<ruby>川上屋<rt>かわかみや</rt></ruby>**が<ruby>二大老舗<rt>にだいしにせ</rt></ruby>。<ruby>栗<rt>くり</rt></ruby>100%、<ruby>砂糖少々<rt>さとうしょうしょう</rt></ruby>、それだけ。シンプルだから<ruby>栗<rt>くり</rt></ruby>の<ruby>質<rt>しつ</rt></ruby>が<ruby>出<rt>で</rt></ruby>る。」 |
+|  | *Tháng 9-1. Suya và Kawakamiya là 2 quán lâu đời. Hạt dẻ 100%, ít đường, chỉ vậy. Đơn giản nên chất hạt dẻ lộ ra.* |
 
-> **VN:** TIER S+ depth: **飛騨牛 14 months / 3 yrs / grade 4+** + **鵜飼 5/11-10/15** + **宮内庁御用達 + 鵜匠世襲** + **栗きんとん すや/川上屋 9月-1月**. Đây là detail cấp pro — Kato sẽ nhớ Dũng **mãi mãi**.
+> **VN:** Chiều sâu hạng S+: **飛騨牛 14 tháng / 3 tuổi / hạng 4+** + **鵜飼 5/11-10/15** + **宮内庁御用達 + 鵜匠 thế tập** + **栗きんとん すや/川上屋 9月-1月**. Đây là chi tiết cấp chuyên gia — Kato sẽ nhớ Dũng **mãi mãi**.
 
 ---
 
@@ -84,34 +106,43 @@ Tháng 7/2026, Dũng + Tuấn được anh Kato mời lên **Takayama** 2 ngày 
 
 | Vai | Câu |
 |---------|-----|
-| **kato_gifu** | 「**白川郷**は**1995年UNESCO世界遺産**。**合掌造り**は釘を1本も使わず、**茅葺き屋根**を**60度**の急角度で組む。雪が滑り落ちるためです。」 |
-| **ズン** | 「冬のライトアップ、TVで見ました。雪と灯りが幻想的で…」 |
-| **kato_gifu** | 「ライトアップは**1月後半〜2月**の数日だけ。要予約、抽選です。地元民でもチケット取りにくい(笑)」 |
-| **ズン** | 「岐阜は**美濃**の方も気になります。**関の刃物**、**美濃焼**…」 |
-| **kato_gifu** | 「お、**関**ね!**関市**は**世界三大刃物産地**(関・ゾーリンゲン・シェフィールド)。**700年の歴史**で、**孫六兼元**から始まる。今は**シェフ用包丁**が世界中に輸出されてる。**ハットリハンゾー**って映画の刀、関製って噂もありますね(笑)」 |
-| **ズン** | 「**美濃焼**は**多治見市**ですよね、**陶器の生産量日本一**?」 |
-| **kato_gifu** | 「**多治見・土岐・瑞浪**の**東濃地方**で全国の**50%以上**生産。**志野焼**と**織部焼**が代表格。**織部**の緑は他のどこにもない色ですよ。」 |
-| **ズン** | 「岐阜、**全部**持ってますね…**Hida山+Mino craft+食+祭り**…」 |
-| **kato_gifu** | 「ズンさん、岐阜のPR大使になってください(笑)」 |
+| **kato_gifu** | 「**<ruby>白川郷<rt>しらかわごう</rt></ruby>**は**1995<ruby>年<rt>ねん</rt></ruby>UNESCO<ruby>世界遺産<rt>せかいいさん</rt></ruby>**。**<ruby>合掌造<rt>がっしょうづく</rt></ruby>り**は<ruby>釘<rt>くぎ</rt></ruby>を1<ruby>本<rt>ぽん</rt></ruby>も<ruby>使<rt>つか</rt></ruby>わず、**<ruby>茅葺<rt>かやぶ</rt></ruby>き<ruby>屋根<rt>やね</rt></ruby>**を**60<ruby>度<rt>ど</rt></ruby>**の<ruby>急角度<rt>きゅうかくど</rt></ruby>で<ruby>組<rt>く</rt></ruby>む。<ruby>雪<rt>ゆき</rt></ruby>が<ruby>滑<rt>すべ</rt></ruby>り<ruby>落<rt>お</rt></ruby>ちるためです。」 |
+|  | *Shirakawa-go là di sản UNESCO 1995. Gasshō-zukuri không dùng 1 cái đinh nào, mái rạ dốc 60 độ để tuyết trượt.* |
+| **ズン** | 「<ruby>冬<rt>ふゆ</rt></ruby>のライトアップ、TVで<ruby>見<rt>み</rt></ruby>ました。<ruby>雪<rt>ゆき</rt></ruby>と<ruby>灯<rt>あか</rt></ruby>りが<ruby>幻想的<rt>げんそうてき</rt></ruby>で…」 |
+|  | *Đèn chiếu mùa đông em xem TV rồi. Tuyết và đèn ảo diệu...* |
+| **kato_gifu** | 「ライトアップは**1<ruby>月後半<rt>がつこうはん</rt></ruby>〜2<ruby>月<rt>がつ</rt></ruby>**の<ruby>数日<rt>すうじつ</rt></ruby>だけ。<ruby>要予約<rt>ようよやく</rt></ruby>、<ruby>抽選<rt>ちゅうせん</rt></ruby>です。<ruby>地元民<rt>じもとみん</rt></ruby>でもチケット<ruby>取<rt>と</rt></ruby>りにくい(<ruby>笑<rt>わら</rt></ruby>)」 |
+|  | *Đèn chiếu chỉ vài ngày cuối tháng 1 - đầu tháng 2. Phải đặt, bốc thăm. Dân địa phương cũng khó (cười).* |
+| **ズン** | 「岐阜は**<ruby>美濃<rt>みの</rt></ruby>**の<ruby>方<rt>ほう</rt></ruby>も<ruby>気<rt>き</rt></ruby>になります。**<ruby>関<rt>せき</rt></ruby>の<ruby>刃物<rt>はもの</rt></ruby>**、**<ruby>美濃焼<rt>みのやき</rt></ruby>**…」 |
+|  | *Em cũng quan tâm Mino. Dao Seki, gốm Mino...* |
+| **kato_gifu** | 「お、**関**ね!**<ruby>関市<rt>せきし</rt></ruby>**は**<ruby>世界三大刃物産地<rt>せかいさんだいはものさんち</rt></ruby>**(関・ゾーリンゲン・シェフィールド)。**700<ruby>年<rt>ねん</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>**で、**<ruby>孫六兼元<rt>まごろくかねもと</rt></ruby>**から<ruby>始<rt>はじ</rt></ruby>まる。<ruby>今<rt>いま</rt></ruby>は**シェフ<ruby>用包丁<rt>ようほうちょう</rt></ruby>**が<ruby>世界中<rt>せかいじゅう</rt></ruby>に<ruby>輸出<rt>ゆしゅつ</rt></ruby>されてる。**ハットリハンゾー**って<ruby>映画<rt>えいが</rt></ruby>の<ruby>刀<rt>かたな</rt></ruby>、<ruby>関製<rt>せきせい</rt></ruby>って<ruby>噂<rt>うわさ</rt></ruby>もありますね(<ruby>笑<rt>わら</rt></ruby>)」 |
+|  | *Ồ Seki! Thành phố Seki là 1 trong 3 vùng dao lớn thế giới (Seki/Solingen/Sheffield). 700 năm lịch sử, từ Magoroku Kanemoto. Giờ dao đầu bếp xuất khắp thế giới. Thanh kiếm trong phim Hattori Hanzō nghe đồn cũng do Seki làm (cười).* |
+| **ズン** | 「**美濃焼**は**<ruby>多治見市<rt>たじみし</rt></ruby>**ですよね、**<ruby>陶器<rt>とうき</rt></ruby>の<ruby>生産量日本一<rt>せいさんりょうにほんいち</rt></ruby>**?」 |
+|  | *Mino-yaki là ở Tajimi nhỉ, sản lượng gốm số 1 Nhật?* |
+| **kato_gifu** | 「**<ruby>多治見<rt>たじみ</rt></ruby>・<ruby>土岐<rt>とき</rt></ruby>・<ruby>瑞浪<rt>みずなみ</rt></ruby>**の**<ruby>東濃地方<rt>とうのうちほう</rt></ruby>**で<ruby>全国<rt>ぜんこく</rt></ruby>の**50%<ruby>以上<rt>いじょう</rt></ruby>**<ruby>生産<rt>せいさん</rt></ruby>。**<ruby>志野焼<rt>しのやき</rt></ruby>**と**<ruby>織部焼<rt>おりべやき</rt></ruby>**が<ruby>代表格<rt>だいひょうかく</rt></ruby>。**<ruby>織部<rt>おりべ</rt></ruby>**の<ruby>緑<rt>みどり</rt></ruby>は<ruby>他<rt>ほか</rt></ruby>のどこにもない<ruby>色<rt>いろ</rt></ruby>ですよ。」 |
+|  | *Tajimi/Toki/Mizunami vùng Tōnō sản xuất hơn 50% cả nước. Shino-yaki và Oribe-yaki là tiêu biểu. Xanh Oribe không nơi nào khác có.* |
+| **ズン** | 「岐阜、**<ruby>全部<rt>ぜんぶ</rt></ruby>**<ruby>持<rt>も</rt></ruby>ってますね…**Hida<ruby>山<rt>さん</rt></ruby>+Mino craft+<ruby>食<rt>しょく</rt></ruby>+<ruby>祭<rt>まつ</rt></ruby>り**…」 |
+|  | *Gifu có đủ thứ... Núi Hida + craft Mino + ẩm thực + lễ hội...* |
+| **kato_gifu** | 「ズンさん、岐阜のPR<ruby>大使<rt>たいし</rt></ruby>になってください(<ruby>笑<rt>わら</rt></ruby>)」 |
+|  | *Em làm đại sứ PR Gifu đi (cười).* |
 
-> **VN:** 白川郷 (1995 UNESCO, 合掌造り 60度 釘0本) + 関 (世界三大, 孫六兼元, 700年) + 美濃焼 (多治見/土岐/瑞浪 50%, 志野・織部) = MAX depth. Anh Kato sẽ cảm động đến mức propose tiếp project.
+> **VN:** 白川郷 (1995 UNESCO, 合掌造り 60度 釘0本) + 関 (世界三大, 孫六兼元, 700年) + 美濃焼 (多治見/土岐/瑞浪 50%, 志野・織部) = chiều sâu kịch trần. Anh Kato sẽ cảm động đến mức đề xuất tiếp dự án.
 
 ---
 
 ## 🎯 Câu vàng copy-paste
 
 ```
-■ MỞ TOPIC GIFU:
+■ MỞ CHỦ ĐỀ GIFU:
 「加藤さんは飛騨高山のご出身でしたよね。」
 「岐阜、白川郷とか飛騨牛とか、本当に魅力的ですよね。」
 「朴葉味噌、ぜひ本場で食べてみたいです。」
 
-■ FOOD DEEP:
+■ ĐÀO SÂU ẨM THỰC:
 「飛騨牛、14ヶ月以上肥育で4等級以上、基準が厳しいんですよね。」
 「中津川の栗きんとん、すやと川上屋、秋限定ですよね。」
 「飛騨高山の朝市、宮川と陣屋前、両方ですか?」
 
-■ CRAFT DEEP:
+■ ĐÀO SÂU NGHỀ THỦ CÔNG:
 「関の刃物、世界三大の一つですよね。」
 「美濃焼、志野と織部、織部の緑は唯一無二ですね。」
 「合掌造り、釘を一本も使わないって本当ですか?」
@@ -149,9 +180,9 @@ Tháng 7/2026, Dũng + Tuấn được anh Kato mời lên **Takayama** 2 ngày 
 ## ⚠ NG
 
 - Gộp **岐阜 với 愛知** kiểu "中部の方" → mất depth.
-- Gọi **白川郷** thành "**白川村**" generic → thiếu tôn trọng UNESCO.
-- Khen **「飛騨牛は神戸牛と同じですよね」** → equal-but-not-equal: Hida-gyū có character riêng, đừng equate.
-- Hỏi **「合掌造りは観光用に作ったんですか?」** → là di sản thật, không phải Disney.
+- Gọi **白川郷** thành "**白川村**" chung chung → thiếu tôn trọng UNESCO.
+- Khen **「飛騨牛は神戸牛と同じですよね」** → ngang-nhưng-không-giống: Hida-gyū có cá tính riêng, đừng đánh đồng.
+- Hỏi **「合掌造りは観光用に作ったんですか?」** → là di sản thật, không phải khu giải trí dựng lên.
 - Nhầm **関の刃物** với **堺の刃物** (Sakai = Osaka, cũng nổi tiếng nhưng khác).
 - Nhầm **栗きんとん (中津川)** với **栗きんとん osechi** (món Tết) → 中津川 là **生菓子 vùng Gifu**, khác hẳn món Tết.
 
@@ -186,9 +217,9 @@ Tháng 7/2026, Dũng + Tuấn được anh Kato mời lên **Takayama** 2 ngày 
 
 ## 🎓 BJT
 
-**J3 — 場面把握:** Nhận biết khách Hida (北) vs Mino (南) → mở topic phù hợp.
-**J2 — 表現読解:** Khen 「飛騨牛は神戸牛と並ぶ」 vs 「神戸牛と同じ」 — phân biệt được thì depth tier S.
-**J1 — 発言聴解:** Catch Hida-ben 「ありがとさんな」 = cảm ơn bản地 phong cách.
+**J3 — 場面把握:** Nhận biết khách Hida (北) vs Mino (南) → mở chủ đề phù hợp.
+**J2 — 表現読解:** Khen 「飛騨牛は神戸牛と並ぶ」 vs 「神戸牛と同じ」 — phân biệt được thì chiều sâu hạng S.
+**J1 — 発言聴解:** Bắt được Hida-ben 「ありがとさんな」 = cảm ơn phong cách bản địa.
 
 ---
 

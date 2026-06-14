@@ -9,7 +9,11 @@
     "ja": "大垣の ¥15M counter に対し、Dũng が4要素 (Frame・Number・Justification・Trade) で ¥17.5M + 2年契約化の counter を提示する場面。",
     "vi": "Trước counter ¥15M của Ōgaki, Dũng dùng 4-part phrase quote ¥17.5M + trade kéo hợp đồng 2 năm."
   },
-  "related_rules": ["rule_18", "rule_20", "rule_25"],
+  "related_rules": [
+    "rule_18",
+    "rule_20",
+    "rule_25"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -96,7 +100,11 @@
           "sentence": "ご指摘の点、もっともでございます。フレームとして、御社のコスト圧縮方針を踏まえ、構成を見直して再提案いたします。金額は ¥17.5M。根拠としまして、AI レコメンドエンジン coreは維持、但し dashboard カスタム部分を Phase 2 のテンプレート流用 で工数 8% 削減できます。条件として、契約期間を 2 年契約へ延長していただければ、この価格でご提供可能でございます。",
           "sentence_translation": "Em xin tiếp thu ý kiến quý anh ạ. Frame: dựa trên phương châm nén chi phí của quý cty, em xem lại cấu thành để đề xuất lại. Số tiền: ¥17.5M. Cơ sở: giữ core AI recommend engine, nhưng phần dashboard custom dùng lại template Phase 2, giảm effort 8%. Điều kiện: nếu kéo hợp đồng lên 2 năm, em có thể cung cấp ở mức giá này ạ.",
           "tone": "formal",
-          "annotation_ids": ["1", "2", "3"]
+          "annotation_ids": [
+            "1",
+            "2",
+            "3"
+          ]
         },
         {
           "line_id": "rule_19_good_03",
@@ -136,12 +144,12 @@
       "skill": "表現読解",
       "question_ja": "価格 counter で抜けてはいけない4要素は？",
       "options": [
-        "Frame・Number・Justification・Trade",
-        "謝罪・低姿勢・遠慮・撤回",
         "脅し・期限・最終通告・ボーナス",
-        "感情・記憶・推測・希望"
+        "感情・記憶・推測・希望",
+        "謝罪・低姿勢・遠慮・撤回",
+        "Frame・Number・Justification・Trade"
       ],
-      "correct": "A",
+      "correct": "D",
       "explanation": {
         "ja": "4要素はFrame(枠組み)・Number(数字)・Justification(根拠)・Trade(引き換え)。1つでも抜けるとleverage失う。",
         "vi": "4 yếu tố: Frame / Number / Justification / Trade. Thiếu 1 là mất đòn bẩy."

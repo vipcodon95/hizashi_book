@@ -9,7 +9,11 @@
     "ja": "Discovery で大垣の「ちょっと…」signal を捕捉し、IT 部門長の懸念を炙り出して solution に変換する場面。",
     "vi": "Trong discovery, bắt signal 'ちょっと' của Ōgaki, đào constraint của IT lead và chuyển thành solution."
   },
-  "related_rules": ["rule_03", "rule_12", "rule_14"],
+  "related_rules": [
+    "rule_03",
+    "rule_12",
+    "rule_14"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -105,7 +109,9 @@
           "sentence": "「社内で議論」とのこと、もう少し詳しくお聞かせいただけますでしょうか？タイミングや調整事項に影響しそうでしたら、こちらでも対応を検討したいので。",
           "sentence_translation": "Anh có nhắc 'thảo luận nội bộ', em xin phép được nghe kỹ hơn ạ. Nếu có ảnh hưởng tới timing / điều chỉnh thì bên em cũng muốn tìm hướng xử lý ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_13_good_03",
@@ -124,7 +130,9 @@
           "sentence": "承知しました。IT 部門長様のご懸念点、具体的にどのあたりでしょうか？こちらで white paper や PoC データをご用意できれば稟議の助けになるかと思います。",
           "sentence_translation": "Em rõ ạ. Cụ thể IT lead lo điểm nào ạ? Bên em có thể chuẩn bị white paper hoặc PoC data, có thể hỗ trợ cho ringi ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_13_good_05",
@@ -143,7 +151,9 @@
           "sentence": "白鷗様 IT 部門長様向けに security PoC + AI explainability の brief を 1 週間以内に。それに合わせて Timeline は 7 月末→ 8 月中旬に余裕を持たせる案も併せてご提案します。",
           "sentence_translation": "Em sẽ chuẩn bị security PoC + brief AI explainability cho trưởng phòng IT bên Hakuō trong 1 tuần. Đồng thời em đề xuất nới timeline cuối tháng 7 → giữa tháng 8 cho dư địa ạ.",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         }
       ]
     }
@@ -173,12 +183,12 @@
       "skill": "発言聴解",
       "question_ja": "「ちょっと社内で議論があって…」と言う相手に最も適切な対応は？",
       "options": [
+        "「なんで議論があるんですか？」と詰問する",
         "「では予定通り進めましょう」とそのまま流す",
         "「もう少し詳しくお聞かせいただけますでしょうか」と open-end で掘る",
-        "「なんで議論があるんですか？」と詰問する",
         "「社内のことは関係ないので結論だけください」と切る"
       ],
-      "correct": "B",
+      "correct": "C",
       "explanation": {
         "ja": "日本の顧客は直接言わず signal で示す。聞き流すと後で稟議停止に陥る。詰問tone も close downさせる。",
         "vi": "Khách Nhật không nói thẳng, dùng signal. Bỏ qua = sau bị ringi đứng. Tone tra hỏi cũng làm khách đóng cửa."

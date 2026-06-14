@@ -144,7 +144,7 @@ Cuối tuần 9-10/9/2026, Đại tham gia hackathon đầu đời — **Hack U 
 | Vai | Lời thoại |
 |---|---|
 | MC | <ruby>次<rt>つぎ</rt></ruby>、チーム「OsakaCS3」、5<ruby>分<rt>ふん</rt></ruby>のピッチをお<ruby>願<rt>ねが</rt></ruby>いします。<br>*(Tiếp theo, team OsakaCS3, pitch 5 phút.)* |
-| Đại | (đứng giữa) みなさん、こんにちは。チーム「OsakaCS3」、<ruby>大阪大学<rt>おおさかだいがく</rt></ruby><ruby>情報科学部<rt>じょうほうかがくぶ</rt></ruby>1<ruby>年<rt>ねん</rt></ruby>のグエン・ヴァン・ダイです。<br>*(Xin chào mọi người. Team OsakaCS3, em là Nguyễn Thanh Đại năm 1 khoa CNTT ĐH Osaka.)* |
+| Đại | (đứng giữa) みなさん、こんにちは。チーム「OsakaCS3」、<ruby>大阪大学<rt>おおさかだいがく</rt></ruby><ruby>情報科学科<rt>じょうほうかがくか</rt></ruby>1<ruby>年<rt>ねん</rt></ruby>のグエン・ヴァン・ダイです。<br>*(Xin chào mọi người. Team OsakaCS3, em là Nguyễn Văn Đại năm 1 khoa Khoa học Thông tin ĐH Osaka.)* |
 | Đại | <ruby>本日<rt>ほんじつ</rt></ruby>は「<ruby>教科書<rt>きょうかしょ</rt></ruby>MarketPlace」を<ruby>発表<rt>はっぴょう</rt></ruby>させていただきます。<br>*(Hôm nay xin được trình bày "Kyokasho MarketPlace".)* |
 | Đại | <ruby>問題<rt>もんだい</rt></ruby>: <ruby>大学生<rt>だいがくせい</rt></ruby>は<ruby>毎年<rt>まいとし</rt></ruby>¥40,000を<ruby>教科書<rt>きょうかしょ</rt></ruby>に<ruby>費<rt>つい</rt></ruby>やすが、<ruby>翌年<rt>よくねん</rt></ruby>には<ruby>不要<rt>ふよう</rt></ruby>になる。<ruby>処分<rt>しょぶん</rt></ruby>に<ruby>困<rt>こま</rt></ruby>る。<br>*(Vấn đề: SV mỗi năm tốn ¥40,000 cho sách, năm sau không cần nữa, không biết xử lý sao.)* |
 | Đại | <ruby>解決策<rt>かいけつさく</rt></ruby>: <ruby>大学<rt>だいがく</rt></ruby><ruby>限定<rt>げんてい</rt></ruby>の<ruby>転売<rt>てんばい</rt></ruby>プラットフォーム + AIによる<ruby>価格<rt>かかく</rt></ruby><ruby>推奨<rt>すいしょう</rt></ruby>。<br>*(Giải pháp: nền tảng bán lại trong trường + AI gợi giá.)* |

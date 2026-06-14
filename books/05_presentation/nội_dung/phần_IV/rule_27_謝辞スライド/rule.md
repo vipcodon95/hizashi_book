@@ -21,11 +21,15 @@ Dũng đang finalize deck. Đến slide cuối — chuẩn bị làm "Thank You"
 | Vai | Câu |
 |---------|-----|
 | **トゥアン** | 「最後のスライド、『Thank You』だけ？」 |
+|  | *Slide cuối chỉ "Thank You" thôi à?* |
 | **ズン** | 「はい、シンプルがいいかと…」 |
-| **トゥアン** | 「客が退室するまでこの slide が壁に映ってる時間、何分？5分以上だぞ。**情報密度ゼロ**で5分は **mottainai**。」 |
+|  | *Vâng, em nghĩ đơn giản là tốt ạ...* |
+| **トゥアン** | 「客が<ruby>退室<rt>たいしつ</rt></ruby>するまでこの slide が<ruby>壁<rt>かべ</rt></ruby>に<ruby>映<rt>うつ</rt></ruby>ってる時間、何分？5分以上だぞ。**<ruby>情報密度<rt>じょうほうみつど</rt></ruby>ゼロ**で5分は **mottainai**。」 |
+|  | *Slide này chiếu trên tường mấy phút lúc khách đi ra? 5 phút trở lên đấy. 5 phút mà mật độ thông tin = 0 là mottainai (lãng phí).* |
 | **ズン** | 「あ、なるほど…」 |
+|  | *À, em hiểu rồi ạ...* |
 
-**Vì sao xấu:** Slide cuối thường được chiếu 5-10 phút trong khi small talk + pack up. Trống = mất cơ hội reinforcement. "Thank You" tiếng Anh trên màn hình client Nhật cũng hơi off-tone.
+**Vì sao xấu:** Slide cuối thường được chiếu 5-10 phút trong khi nói chuyện xã giao và dọn đồ. Trống = mất cơ hội khắc sâu lại nội dung. "Thank You" tiếng Anh trên màn hình khách Nhật cũng hơi lạc tông.
 
 ---
 
@@ -33,16 +37,21 @@ Dũng đang finalize deck. Đến slide cuối — chuẩn bị làm "Thank You"
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「**4要素入りの謝辞スライド** に変更しました【1】。①御礼、②本日の3点 recap、③連絡先、④deck PDF の QR コード。」 |
-| **トゥアン** | 「いいね、QR は何先？Drive 直リンク？」 |
-| **ズン** | 「Drive **閲覧専用** リンクの QR です【2】。**ダウンロード可、編集不可**。Tanaka PMO 様にも同じリンク Slack で共有予定です。」 |
-| **トゥアン** | 「連絡先は弊社2名 (ズン＋ハーCTO) でいいけど、**営業時間** 書いとけよ。客が深夜メールで気を遣わない様に。」 |
-| **ズン** | 「『9:00-18:00 (JST)』追記します【3】。」 |
+| **ズン** | 「**4<ruby>要素<rt>ようそ</rt></ruby>入りの<ruby>謝辞<rt>しゃじ</rt></ruby>スライド** に変更しました【1】。①<ruby>御礼<rt>おれい</rt></ruby>、②本日の3点 recap、③<ruby>連絡先<rt>れんらくさき</rt></ruby>、④deck PDF の QR コード。」 |
+|  | *Em đã đổi sang slide cảm ơn có 4 thành phần ạ. ① Cảm ơn, ② recap 3 điểm hôm nay, ③ contact, ④ QR code deck PDF ạ.* |
+| **トゥアン** | 「いいね、QR は何先？Drive <ruby>直<rt>ちょく</rt></ruby>リンク？」 |
+|  | *Tốt, QR link đến đâu? Drive direct link à?* |
+| **ズン** | 「Drive **<ruby>閲覧専用<rt>えつらんせんよう</rt></ruby>** リンクの QR です【2】。**ダウンロード<ruby>可<rt>か</rt></ruby>、<ruby>編集不可<rt>へんしゅうふか</rt></ruby>**。Tanaka PMO 様にも同じリンク Slack で<ruby>共有予定<rt>きょうゆうよてい</rt></ruby>です。」 |
+|  | *QR đến link Drive chỉ read-only ạ. Download được, edit không được. Em cũng share cùng link đó qua Slack cho anh Tanaka PMO ạ.* |
+| **トゥアン** | 「連絡先は<ruby>弊社<rt>へいしゃ</rt></ruby>2名 (ズン＋ハーCTO) でいいけど、**<ruby>営業時間<rt>えいぎょうじかん</rt></ruby>** 書いとけよ。客が<ruby>深夜<rt>しんや</rt></ruby>メールで<ruby>気<rt>き</rt></ruby>を<ruby>遣<rt>つか</rt></ruby>わない様に。」 |
+|  | *Contact bên mình 2 người (Dũng + Hà CTO) là OK, nhưng ghi giờ làm việc vào. Để khách không phải ngại khi gửi mail đêm khuya.* |
+| **ズン** | 「『9:00-18:00 (JST)』<ruby>追記<rt>ついき</rt></ruby>します【3】。」 |
+|  | *Em thêm 「9:00-18:00 (JST)」 ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**4要素 = ① 御礼 ② Recap 3点 ③ Contact ④ QR**. Skip một là wasted slide.
-- 【2】**Drive 閲覧専用 リンク** — KHÔNG public. 閲覧 = read-only, không cho edit. QR phía dưới-phải, kích thước 4cm² đủ scan từ smartphone.
-- 【3】**営業時間 (JST) ghi rõ** — khách Nhật rất chú trọng work-life balance, biết presenter offline lúc nào → respect.
+- 【1】**4 thành phần = ① 御礼 (cảm ơn) ② Recap 3 điểm ③ Contact ④ QR**. Bỏ qua một là lãng phí cả slide.
+- 【2】**Drive 閲覧専用 リンク** — KHÔNG để công khai. 閲覧 = chỉ xem, không cho chỉnh sửa. QR đặt phía dưới-phải, kích thước 4cm² đủ quét từ điện thoại.
+- 【3】**営業時間 (JST) ghi rõ** — khách Nhật rất chú trọng cân bằng công việc - cuộc sống, biết người trình bày ngoài giờ lúc nào → thể hiện sự tôn trọng.
 
 ---
 
@@ -56,41 +65,32 @@ Dũng đang finalize deck. Đến slide cuối — chuẩn bị làm "Thank You"
 
 ## 📐 Template Thank-you slide layout
 
-```
-┌────────────────────────────────────────────┐
-│                                            │
-│   ありがとうございました                  │  ← Title 40pt, center
-│   Cảm ơn quý vị đã dành thời gian          │  ← Subtitle 24pt
-│                                            │
-│   ─────────────────────────────            │
-│                                            │
-│   【本日の3点】                              │  ← Header 28pt
-│   ① Phase 3 スコープ: 19機能              │  ← Body 22pt
-│   ② 価格: 1,200万円 (単価 -8%)             │
-│   ③ 開始 5/15 / リリース 12/15             │
-│                                            │
-│   ─────────────────────────────            │
-│                                            │
-│   【お問合せ】                              │
-│   ズン (BD)        zun@tienphat.vn        │
-│   ハー (CTO)       ha@tienphat.vn         │
-│   営業時間 9:00-18:00 (JST / Mon-Fri)    │
-│                                            │
-│                              [QR コード]   │  ← Bottom-right, 4cm²
-│                              本日のdeck PDF
-│                                            │
-└────────────────────────────────────────────┘
-```
+**Khối tiêu đề (trên cùng, căn giữa):**
+- `ありがとうございました` — Tiêu đề 40pt, căn giữa
+- `Cảm ơn quý vị đã dành thời gian` — Phụ đề 24pt
+
+**Khối 【本日の3点】 (3 điểm hôm nay) — Header 28pt, body 22pt:**
+- ① Phase 3 スコープ: 19機能
+- ② 価格: 1,200万円 (単価 -8%)
+- ③ 開始 5/15 / リリース 12/15
+
+**Khối 【お問合せ】 (liên hệ):**
+- ズン (BD) — zun@tienphat.vn
+- ハー (CTO) — ha@tienphat.vn
+- 営業時間 9:00-18:00 (JST / Mon-Fri)
+
+**Góc dưới-phải:**
+- [QR コード] — kích thước 4cm², dẫn về 本日のdeck PDF
 
 ---
 
 ## ⚠ Tránh
 
-- "Thank You" trống → lãng phí 5-10 phút screen time
-- Email cá nhân (gmail) → unprofessional → dùng cty domain
-- QR public link → ai cũng access → leak deck
+- "Thank You" trống → lãng phí 5-10 phút chiếu màn hình
+- Email cá nhân (gmail) → thiếu chuyên nghiệp → dùng tên miền công ty
+- QR link công khai → ai cũng truy cập được → lộ deck
 - Quên 営業時間 → khách gửi mail 22h thấy ngại
-- Photo của presenter → unnecessary, distracting
+- Ảnh chân dung người trình bày → không cần thiết, gây xao nhãng
 
 ---
 

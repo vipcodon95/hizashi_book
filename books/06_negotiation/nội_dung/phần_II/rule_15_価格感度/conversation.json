@@ -174,12 +174,12 @@
       "skill": "表現読解",
       "question_ja": "日本のCFOから予算帯域を引き出すのに最適な質問は？",
       "options": [
-        "「予算はいくらですか？」",
         "「Phase 2 と比較して規模感的にどのあたりを想定されていますか？」",
-        "「予算が少ないと困りますが…」",
-        "「他社はもっと払っていますよ」"
+        "「予算はいくらですか？」",
+        "「他社はもっと払っていますよ」",
+        "「予算が少ないと困りますが…」"
       ],
-      "correct": "B",
+      "correct": "A",
       "explanation": {
         "ja": "Comparable approach は既知anchor から倍数を聞き、相手が答えやすい形に分解する。直接質問は日本顧客にとって失礼に近い。",
         "vi": "Comparable approach lấy anchor đã biết, hỏi bội số — dễ trả lời. Hỏi thẳng gần như bất lịch sự với khách Nhật."

@@ -1,107 +1,107 @@
-# Rule 51 — Self-review + practice / 振り返りと練習
+# Rule 51 — Tự đánh giá + luyện tập / <ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>りと<ruby>練習<rt>れんしゅう</rt></ruby>
 
-> **Luận điểm.** Sau mỗi 雑談 session (dinner / 会食 / call dài) → **15 phút tự đánh giá**: **3 win / 3 miss / 3 follow-up**. Discipline này biến trải nghiệm dinner thành **skill compound**. Không 振り返り = lặp lại lỗi cũ 3 năm liên tiếp.
+> **Luận điểm.** Sau mỗi buổi <ruby>雑談<rt>ざつだん</rt></ruby> (tiệc tối / <ruby>会食<rt>かいしょく</rt></ruby> / cuộc gọi dài) → **15 phút tự đánh giá**: **3 điều làm tốt / 3 điều còn lỡ / 3 việc cần làm tiếp**. Kỷ luật này biến trải nghiệm mỗi buổi tiệc thành **kỹ năng tích lũy lãi kép**. Không tự đánh giá (振り返り) = lặp lại lỗi cũ 3 năm liên tiếp.
 
 ---
 
 ## 🧠 Tâm lý JP (3 dòng)
 
-- 振り返り = giá trị cốt lõi văn hóa JP (PDCA, kaizen). Bạn cũng nên áp dụng cho mình.
-- "**3 win** + **3 miss** + **3 follow-up**" = framework đơn giản đủ skill compound.
-- Sau 100 dinner = bạn = top 1% người Việt làm khách Nhật về 雑談 skill. Đó là 2 năm discipline.
+- Tự đánh giá (振り返り) = giá trị cốt lõi văn hóa Nhật (PDCA, kaizen). Bạn cũng nên áp dụng cho mình.
+- "**3 điều làm tốt** + **3 điều còn lỡ** + **3 việc cần làm tiếp**" = khuôn mẫu đơn giản đủ để kỹ năng tích lũy lãi kép.
+- Sau 100 buổi tiệc = bạn = top 1% người Việt làm khách Nhật về kỹ năng <ruby>雑談<rt>ざつだん</rt></ruby>. Đó là 2 năm kỷ luật.
 
 ---
 
 ## 🎬 Bối cảnh
 
-Tham khảo. 1 ví dụ self-review entry sau dinner Phase 4 + **TEMPLATE đầy đủ**.
+Tham khảo. 1 ví dụ bản tự đánh giá sau buổi tiệc Phase 4 + **MẪU đầy đủ**.
 
 ---
 
-## 💬 2 Scenarios — dialogue thực chiến
+## 💬 2 Scenario — tình huống thực chiến
 
-### 📍 Scenario 1 — Self-review viết ra (sau dinner Phase 4 closing)
+### 📍 Scenario 1 — Viết bản tự đánh giá (sau buổi tiệc Phase 4 chốt deal)
 
-| Time | Action | Detail |
+| Giờ | Hành động | Chi tiết |
 |------|--------|--------|
-| 23:50 | Về phòng khách sạn | Open Notion / Notes |
-| 23:55 | Memory bank entries | (rule 50 — facts về Ōgaki/Matsumoto/Tanaka) |
-| 00:10 | Self-review entry | 15 phút (template dưới) |
-| 00:25 | Done | Save + sleep |
+| 23:50 | Về phòng khách sạn | Mở Notion / Notes |
+| 23:55 | Ghi vào kho ghi nhớ | (rule 50 — thông tin về Ōgaki/Matsumoto/Tanaka) |
+| 00:10 | Viết bản tự đánh giá | 15 phút (theo mẫu dưới) |
+| 00:25 | Xong | Lưu + đi ngủ |
 
-**Self-review viết:**
+**Bản tự đánh giá viết ra:**
 
 ```
-📅 2026-05-20 Phase 4 Closing — Yurakucho izakaya + ベルトラム + ラーメン
-Audience: Ōgaki, Matsumoto, Tanaka, Tuấn
-My role: 最若手 / order role / host VN side
-Total: 一次 + 二次 + 締め (5 hours)
+📅 2026-05-20 Phase 4 Chốt deal — Yurakucho izakaya + ベルトラム + ラーメン
+Đối tượng: Ōgaki, Matsumoto, Tanaka, Tuấn
+Vai trò của mình: 最若手 / phụ trách gọi đồ / chủ nhà phía VN
+Tổng: 一次 + 二次 + 締め (5 tiếng)
 
-🎯 3 WIN
-1. お酌 Ōgaki ngay khi ly cạn → senior nodded warmly. (Rule 43 áp dụng OK.)
-2. Reference Ōgaki 桂米朝 fan từ memo 2 tháng trước → "覚えてるなあ!" reaction (Rule 50 effective.)
-3. Rescue Tanaka say + escort taxi → Ōgaki sáng hôm sau khen "しっかりしてるな" (Rule 46 paid off.)
+🎯 3 ĐIỀU LÀM TỐT
+1. Rót rượu (お酌) cho Ōgaki ngay khi ly cạn → senior gật đầu ấm áp. (Áp dụng Rule 43 OK.)
+2. Nhắc lại chuyện Ōgaki hâm mộ 桂米朝 từ ghi chú 2 tháng trước → phản ứng "覚えてるなあ!" (Rule 50 hiệu quả.)
+3. Gỡ tình huống Tanaka say + đưa lên taxi → sáng hôm sau Ōgaki khen "しっかりしてるな" (Rule 46 có thành quả.)
 
-❌ 3 MISS
-1. 一次会 STEP 2: hỏi allergy quá muộn (sau 1st sashimi) → Matsumoto suýt ăn 牡蠣. NEXT: hỏi NGAY khi mở menu.
-2. 二次会 ベルトラム: khi Ōgaki hé lộ Phase 5 chi tiết, mình thiếu enthusiasm response, chỉ nói "光栄です". NEXT: thêm 1 specific question để show engagement.
-3. カラオケ Yamamoto đề nghị mình sing 1 nữa, từ chối "もう十分" → có thể phá nhịp vui. NEXT: 1 song nữa (90s safe) cho không khí.
+❌ 3 ĐIỀU CÒN LỠ
+1. 一次会 BƯỚC 2: hỏi dị ứng quá muộn (sau món sashimi đầu) → Matsumoto suýt ăn hàu. LẦN SAU: hỏi NGAY khi mở thực đơn.
+2. 二次会 ベルトラム: khi Ōgaki hé lộ chi tiết Phase 5, mình phản ứng thiếu hào hứng, chỉ nói "光栄です". LẦN SAU: thêm 1 câu hỏi cụ thể để thể hiện sự quan tâm.
+3. カラオケ Yamamoto đề nghị mình hát thêm 1 bài, mình từ chối "もう十分" → có thể phá nhịp vui. LẦN SAU: hát thêm 1 bài (90 giây, an toàn) cho không khí.
 
-🔁 3 FOLLOW-UP
-1. Send Ōgaki link 桂米朝 'jigokubakkyō' theo lời hứa Tuần trước → mai mail ngay sáng.
-2. Mention Phase 5 chi tiết với CTO Hà nội bộ → call 9:30 sáng nay.
-3. Memorize Tanaka "ベトナムウイスキーバー" interest → ghi memory bank để introduce EON Heli Bar khi anh đến HCM.
+🔁 3 VIỆC CẦN LÀM TIẾP
+1. Gửi Ōgaki đường link 桂米朝 'jigokubakkyō' theo lời hứa tuần trước → mai gửi mail ngay sáng.
+2. Báo chi tiết Phase 5 với CTO Hà nội bộ → gọi 9:30 sáng nay.
+3. Ghi nhớ Tanaka quan tâm "ベトナムウイスキーバー" → lưu vào kho ghi nhớ để giới thiệu EON Heli Bar khi anh đến HCM.
 
-📊 Self-rating
-- 全体: 8/10 (上々)
-- 改善点: timing skill (allergy + enthusiasm response)
+📊 Tự chấm điểm
+- 全体 (tổng thể): 8/10 (上々)
+- 改善点 (điểm cần cải tiến): kỹ năng canh thời điểm (hỏi dị ứng + phản ứng hào hứng)
 ```
 
-📝 **Output:** 15 phút = 1 trang Notes. **Sau 50 dinner = 50 trang = Vietnam-Japan smalltalk playbook of yourself.**
+📝 **Kết quả:** 15 phút = 1 trang ghi chú. **Sau 50 buổi tiệc = 50 trang = cẩm nang zatsudan Việt-Nhật của riêng bạn.**
 
 ---
 
-### 📍 Scenario 2 — Practice routine: 30 phút/tuần luyện tập thử
+### 📍 Scenario 2 — Lịch luyện tập: 30 phút/tuần luyện tập thử
 
-| | Time | Action |
+| | Giờ | Hành động |
 |--|------|--------|
-| L1 | **Sun afternoon** | Pick 1 random rule trong sách 08 |
-| L2 | (15 min) | Đọc lại rule + xem dialogue |
-| L3 | (10 min) | Voice record mình thử 3 scenarios với phrase chuẩn |
-| L4 | (5 min) | Compare với reference, identify 1 từ phát âm yếu |
-| L5 | **Mon morning** | Apply trong call thực với khách → notice if used = +1 to bank |
+| L1 | **Chiều Chủ nhật** | Chọn ngẫu nhiên 1 rule trong sách 08 |
+| L2 | (15 phút) | Đọc lại rule + xem hội thoại |
+| L3 | (10 phút) | Ghi âm giọng mình thử 3 tình huống với câu mẫu chuẩn |
+| L4 | (5 phút) | So với bản chuẩn, tìm ra 1 từ phát âm còn yếu |
+| L5 | **Sáng thứ Hai** | Áp dụng trong cuộc gọi thực với khách → để ý nếu dùng được = +1 vào kho ghi nhớ |
 
-📝 Công thức: **Sách 08 = 51 rules → 1 năm = 51 tuần = 1 rule/tuần luyện tập thử.** Sau 1 năm = nắm toàn bộ.
+📝 Công thức: **Sách 08 = 51 rule → 1 năm = 51 tuần = 1 rule/tuần luyện tập thử.** Sau 1 năm = nắm toàn bộ.
 
 ---
 
-## 🎯 Câu vàng (self-talk Vietnamese — không phải nói với khách)
+## 🎯 Câu vàng (tự nhủ với bản thân bằng tiếng Việt — không phải nói với khách)
 
 ```
-■ NHẬN DIỆN WIN:
+■ NHẬN DIỆN ĐIỀU LÀM TỐT:
 "Lần này mình đã làm gì khiến senior gật đầu / cười thân thiện?"
-"Phrase nào hôm nay senior khen 'よく覚えてる'?"
+"Câu nào hôm nay senior khen 'よく覚えてる' (nhớ giỏi thế)?"
 
-■ NHẬN DIỆN MISS:
-"Có moment nào không khí freeze 0.5s? Mình nói gì làm đông?"
-"Có lần senior change topic đột ngột? Có thể mình lỡ topic LANDMINE."
-"Allergy / personal info nào lỡ chưa hỏi/ghi?"
+■ NHẬN DIỆN ĐIỀU CÒN LỠ:
+"Có khoảnh khắc nào không khí đông cứng 0.5 giây? Mình nói gì làm đông?"
+"Có lần senior đổi chủ đề đột ngột? Có thể mình lỡ chạm chủ đề nhạy cảm (LANDMINE)."
+"Có dị ứng / thông tin cá nhân nào lỡ chưa hỏi / chưa ghi?"
 
-■ NHẬN DIỆN FOLLOW-UP:
-"Mình có hứa gì với khách hôm nay?" (link / quà / introduction)
+■ NHẬN DIỆN VIỆC CẦN LÀM TIẾP:
+"Mình có hứa gì với khách hôm nay?" (đường link / quà / lời giới thiệu)
 "Có chi tiết mới nào khách kể cần ghi vào CRM?"
-"Sáng mai cần mail ai để đóng loop?"
+"Sáng mai cần mail ai để khép vòng (đóng việc)?"
 ```
 
 ---
 
-## ⚠ NG khi self-review
+## ⚠ NG khi tự đánh giá
 
-- **Không** review (skip) → sau 1 năm vẫn lặp lỗi cũ.
-- Self-review **quá tự ái** ("hôm nay tôi giỏi nhất") → miss miss.
-- Self-review **quá tự trách** ("tôi tệ quá") → demotivate, không actionable.
-- Review **không áp dụng được** ("phải tốt hơn lần sau") — phải cụ thể: "lần sau hỏi allergy ngay khi mở menu".
-- Skip step **3 follow-up** → mất uy tín "thất hứa".
+- **Không** tự đánh giá (bỏ qua) → sau 1 năm vẫn lặp lỗi cũ.
+- Tự đánh giá **quá tự ái** ("hôm nay tôi giỏi nhất") → bỏ sót điều còn lỡ.
+- Tự đánh giá **quá tự trách** ("tôi tệ quá") → nản chí, không áp dụng được gì.
+- Tự đánh giá **không áp dụng được** ("phải tốt hơn lần sau") — phải cụ thể: "lần sau hỏi dị ứng ngay khi mở thực đơn".
+- Bỏ qua bước **3 việc cần làm tiếp** → mất uy tín "thất hứa".
 
 ---
 
@@ -109,8 +109,8 @@ Total: 一次 + 二次 + 締め (5 hours)
 
 | 漢字 | よみ | Nghĩa |
 |------|------|-------|
-| 振り返り | ふりかえり | Tự đánh giá / reflection |
-| PDCA | — | Plan-Do-Check-Action (JP business standard) |
+| 振り返り | ふりかえり | Tự đánh giá / nhìn lại |
+| PDCA | — | Lập kế hoạch - Thực hiện - Kiểm tra - Hành động (chuẩn quản trị Nhật) |
 | 改善 | かいぜん | Cải tiến (kaizen) |
 | 上々 | じょうじょう | Rất tốt |
 | 改善点 | かいぜんてん | Điểm cần cải tiến |
@@ -122,18 +122,18 @@ Total: 一次 + 二次 + 締め (5 hours)
 
 ## 🎓 BJT
 
-**J3 — 場面把握:** Sau mỗi dinner, 15 phút self-review = thói quen.
-**J2 — 表現読解:** Phân biệt "win" thực sự vs "hôm nay không tệ" — phải concrete fact.
-**J1 — 発言聴解:** Catch sắc thái "khách change topic đột ngột" → ghi vào miss → phân tích nguyên nhân.
+**J3 — 場面把握:** Sau mỗi buổi tiệc, 15 phút tự đánh giá = thói quen.
+**J2 — 表現読解:** Phân biệt "điều làm tốt" thực sự với "hôm nay không tệ" — phải là thông tin cụ thể.
+**J1 — 発言聴解:** Bắt được sắc thái "khách đổi chủ đề đột ngột" → ghi vào điều còn lỡ → phân tích nguyên nhân.
 
 ---
 
-## 📋 TEMPLATE đầy đủ (load vào Phụ lục D)
+## 📋 MẪU đầy đủ (đưa vào Phụ lục D)
 
-> Xem template chi tiết trong file `conversation.json` field `templates`. **2 templates chính**:
-> 1. **Self-review entry** — sau mỗi 雑談 session
-> 2. **Weekly practice plan** — 30 phút dry-run/tuần
+> Xem mẫu chi tiết trong file `conversation.json` mục `templates`. **2 mẫu chính**:
+> 1. **Bản tự đánh giá** — sau mỗi buổi <ruby>雑談<rt>ざつだん</rt></ruby>
+> 2. **Kế hoạch luyện tập hằng tuần** — 30 phút luyện tập thử / tuần
 
 ---
 
-> **Hizashi Sách 08 — Rule 51 — 振り返りと練習**
+> **Hizashi Sách 08 — Rule 51 — <ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>りと<ruby>練習<rt>れんしゅう</rt></ruby>**

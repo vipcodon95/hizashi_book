@@ -1,6 +1,6 @@
 # Rule 14 — Mirror + summarize / ミラーリング・要約
 
-> **Luận điểm.** Sau mỗi khối discovery (3-5 câu khách trả lời), **mirror back** bằng câu "つまり〜とのご認識でしょうか" — confirm hiểu đúng + cho khách cơ hội correct. Hai tác dụng: (1) tránh misinterpretation, (2) khách cảm "được lắng nghe" → cooperative hơn.
+> **Luận điểm.** Sau mỗi khối khai thác (3-5 câu khách trả lời), **phản chiếu lại** bằng câu "つまり〜とのご認識でしょうか" — xác nhận hiểu đúng + cho khách cơ hội điều chỉnh. Hai tác dụng: (1) tránh hiểu sai, (2) khách cảm "được lắng nghe" → hợp tác hơn.
 >
 > 質問→回答の塊ごとに「つまり〜とのご認識でしょうか」で要約 mirroring。誤解防止 + 相手の信頼獲得。
 >
@@ -14,33 +14,42 @@ Sau khi đào constraint của IT lead (rule 13), Dũng tiếp tục discovery. 
 
 ---
 
-## ❌ Hội thoại XẤU — không mirror, hiểu sai
+## ❌ Hội thoại XẤU — không phản chiếu, hiểu sai
 
 | Vai | Câu |
 |---------|-----|
-| **大垣** | 「在庫予測精度 +15%、手動調整時間半減です。」 |
-| **ズン** | 「ありがとうございます。次の質問ですが、予算は…」 |
-| (1 週間後 deck で) **ズン** | 「在庫予測精度を 15% **以上**改善する提案です。」 |
-| **大垣** | 「いえ、+15% で十分です。それ以上は cost 倍以上になるので望んでいません。」 |
+| **大垣** | 「<ruby>在庫<rt>ざいこ</rt></ruby><ruby>予測<rt>よそく</rt></ruby><ruby>精度<rt>せいど</rt></ruby> +15%、<ruby>手動<rt>しゅどう</rt></ruby><ruby>調整<rt>ちょうせい</rt></ruby><ruby>時間<rt>じかん</rt></ruby><ruby>半減<rt>はんげん</rt></ruby>です。」 |
+|  | *Độ chính xác dự báo +15%, thời gian điều chỉnh thủ công giảm một nửa.* |
+| **ズン** | 「ありがとうございます。<ruby>次<rt>つぎ</rt></ruby>の<ruby>質問<rt>しつもん</rt></ruby>ですが、<ruby>予算<rt>よさん</rt></ruby>は…」 |
+|  | *Em cảm ơn ạ. Câu hỏi tiếp, ngân sách...* |
+| (1 週間後 deck で) **ズン** | 「在庫予測精度を 15% **以上**<ruby>改善<rt>かいぜん</rt></ruby>する<ruby>提案<rt>ていあん</rt></ruby>です。」 |
+|  | *(1 tuần sau trong deck) Đề xuất cải thiện độ chính xác dự báo từ 15% trở lên ạ.* |
+| **大垣** | 「いえ、+15% で<ruby>十分<rt>じゅうぶん</rt></ruby>です。それ<ruby>以上<rt>いじょう</rt></ruby>は cost <ruby>倍<rt>ばい</rt></ruby>以上になるので<ruby>望<rt>のぞ</rt></ruby>んでいません。」 |
+|  | *Không, +15% là đủ. Trên nữa thì cost gấp đôi, chúng tôi không muốn.* |
 | **ズン** | 「あ…」 |
+|  | *À...* |
 
-**Vì sao xấu:** Dũng nhớ "+15%" thành "15% trở lên" → over-design proposal. Không mirror tại chỗ → 1 tuần sau mới phát hiện. Mất thời gian + lost trust.
+**Vì sao xấu:** Dũng nhớ "+15%" thành "15% trở lên" → đề xuất quá mức cần thiết. Không phản chiếu tại chỗ → 1 tuần sau mới phát hiện. Mất thời gian + mất lòng tin.
 
 ---
 
-## ✅ Hội thoại TỐT — mirror tại chỗ, đúng từng số
+## ✅ Hội thoại TỐT — phản chiếu tại chỗ, đúng từng số
 
 | Vai | Câu |
 |---------|-----|
 | **大垣** | 「在庫予測精度 +15%、手動調整時間半減です。」 |
-| **ズン** | 「**つまり、目標は予測精度を現状から +15%、手動調整時間を 50% 削減 — この2点が Phase 3 の主要KPI、とのご認識でよろしいでしょうか**【1】？」 |
-| **大垣** | 「はい。+15% は超えなくて大丈夫、超えると cost 上がるので逆に困る。」 |
-| **ズン** | 「**+15% は超過不要、cost との trade-off を意識**【2】、承知しました。次に予算感を伺ってもよろしいでしょうか？」 |
+|  | *Độ chính xác dự báo +15%, thời gian điều chỉnh thủ công giảm một nửa.* |
+| **ズン** | 「**つまり、<ruby>目標<rt>もくひょう</rt></ruby>は予測精度を<ruby>現状<rt>げんじょう</rt></ruby>から +15%、手動調整時間を 50% <ruby>削減<rt>さくげん</rt></ruby> — この2<ruby>点<rt>てん</rt></ruby>が Phase 3 の<ruby>主要<rt>しゅよう</rt></ruby>KPI、とのご<ruby>認識<rt>にんしき</rt></ruby>でよろしいでしょうか**【1】？」 |
+|  | *Tức là mục tiêu là độ chính xác dự báo +15% so với hiện tại, thời gian điều chỉnh thủ công -50% — 2 mục này là KPI chính của Phase 3, em hiểu vậy có đúng không ạ?* |
+| **大垣** | 「はい。+15% は<ruby>超<rt>こ</rt></ruby>えなくて大丈夫、超えると cost <ruby>上<rt>あ</rt></ruby>がるので<ruby>逆<rt>ぎゃく</rt></ruby>に<ruby>困<rt>こま</rt></ruby>る。」 |
+|  | *Đúng. +15% không cần vượt, vượt là cost lên, ngược lại làm khó chúng tôi.* |
+| **ズン** | 「**+15% は<ruby>超過<rt>ちょうか</rt></ruby><ruby>不要<rt>ふよう</rt></ruby>、cost との trade-off を<ruby>意識<rt>いしき</rt></ruby>**【2】、<ruby>承知<rt>しょうち</rt></ruby>しました。次に予算<ruby>感<rt>かん</rt></ruby>を<ruby>伺<rt>うかが</rt></ruby>ってもよろしいでしょうか？」 |
+|  | *+15% không cần vượt, cân nhắc trade-off với cost — em rõ ạ. Tiếp theo cho phép em hỏi cảm giác ngân sách được không ạ?* |
 
 📝 **Ghi chú:**
-- 【1】**「つまり、〜とのご認識でよろしいでしょうか」** = mặc định mirror phrase. Đảm bảo khách correct nếu sai.
-- 【2】**Mirror back sắc thái khách thêm vào** ("超えなくて大丈夫" → "超過不要") — phải bắt được sắc thái tinh tế, KHÔNG paraphrase quá.
-- Mirror tại chỗ tốn 10 giây nhưng tiết kiệm ngày làm proposal sai.
+- 【1】**「つまり、〜とのご認識でよろしいでしょうか」** = câu phản chiếu mặc định. Đảm bảo khách điều chỉnh nếu sai.
+- 【2】**Phản chiếu lại sắc thái khách thêm vào** ("超えなくて大丈夫" → "超過不要") — phải bắt được sắc thái tinh tế, KHÔNG diễn đạt lại quá xa.
+- Phản chiếu tại chỗ tốn 10 giây nhưng tiết kiệm cả ngày làm đề xuất sai.
 
 ---
 
@@ -48,16 +57,16 @@ Sau khi đào constraint của IT lead (rule 13), Dũng tiếp tục discovery. 
 
 > **「つまり〜とのご認識でしょうか — 質問の塊ごとに必ず mirror。」**
 >
-> *"Tức là... — em hiểu vậy có đúng không ạ" — sau mỗi khối câu hỏi đều mirror.*
+> *"Tức là... — em hiểu vậy có đúng không ạ" — sau mỗi khối câu hỏi đều phản chiếu.*
 
 ---
 
 ## ⚠ Tránh
 
-- Paraphrase quá xa nguyên văn → khách không recognize → thấy mình "không nghe"
-- Mirror chỉ những gì mình thích, bỏ qua sắc thái khó (vd: "超えなくて大丈夫" mà mirror thành "+15% 以上目指す")
-- Mirror sau 30 phút → không kịp correct
-- Mirror ra dạng câu hỏi đóng yes/no liên tục → tone interrogation. Đan với open question.
+- Diễn đạt lại quá xa nguyên văn → khách không nhận ra → thấy mình "không nghe"
+- Phản chiếu chỉ những gì mình thích, bỏ qua sắc thái khó (vd: "超えなくて大丈夫" mà phản chiếu thành "+15% 以上目指す")
+- Phản chiếu sau 30 phút → không kịp điều chỉnh
+- Phản chiếu ra dạng câu hỏi đóng yes/no liên tục → giọng điệu tra hỏi. Đan xen với câu hỏi mở.
 
 ---
 

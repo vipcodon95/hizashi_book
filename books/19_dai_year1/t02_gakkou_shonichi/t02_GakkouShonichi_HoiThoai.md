@@ -82,7 +82,7 @@
 | Đại | <ruby>去年<rt>きょねん</rt></ruby>N4に<ruby>合格<rt>ごうかく</rt></ruby>しました。イーファンさんは？<br>*(Năm ngoái mình đỗ N4. Yifan thì sao?)* |
 | Yifan | <ruby>私<rt>わたし</rt></ruby>はN3です。<ruby>漢字<rt>かんじ</rt></ruby>は<ruby>中国人<rt>ちゅうごくじん</rt></ruby>なので<ruby>少<rt>すこ</rt></ruby>し<ruby>有利<rt>ゆうり</rt></ruby>です。<br>*(Mình N3. Kanji thì mình là người Trung nên hơi lợi thế.)* |
 | Đại | え！すごいですね。<ruby>圧倒<rt>あっとう</rt></ruby>されます。<br>*(Ơ! Giỏi quá. Mình hơi choáng.)* |
-| Yifan | <ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。<ruby>1年<rt>いちねん</rt></ruby>あればN3に<ruby>達成<rt>たっせい</rt></ruby>できますよ。<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>頑張<rt>がんば</rt></ruby>りましょう。<br>*(Không sao. 1 năm là đạt N3 thôi. Cùng cố lên nhé.)* |
+| Yifan | <ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。<ruby>1年<rt>いちねん</rt></ruby>あればN3に<ruby>合格<rt>ごうかく</rt></ruby>できますよ。<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>頑張<rt>がんば</rt></ruby>りましょう。<br>*(Không sao. 1 năm là đỗ N3 thôi. Cùng cố lên nhé.)* |
 | Đại | はい、よろしくお<ruby>願<rt>ねが</rt></ruby>いします。<br>*(Vâng, mong cậu giúp đỡ.)* |
 
 ---
@@ -123,7 +123,7 @@
 | Sumi | はじめまして、スミです！<ruby>韓国<rt>かんこく</rt></ruby>から<ruby>来<rt>き</rt></ruby>ました。Bクラスです。<br>*(Lần đầu gặp, mình là Sumi! Mình đến từ Hàn Quốc. Lớp B.)* |
 | Đại | おお、<ruby>同<rt>おな</rt></ruby>じクラスですね！グエン・ヴァン・ダイです。よろしくお<ruby>願<rt>ねが</rt></ruby>いします。<br>*(Ồ, cùng lớp! Mình là Nguyễn Văn Đại. Mong cậu giúp đỡ.)* |
 | Aung | （<ruby>来<rt>く</rt></ruby>る）こんにちは、アウンです、ミャンマーから。Bクラスです。<br>*(Đến. Xin chào, mình là Aung, từ Myanmar. Lớp B.)* |
-| Đại | ベトナム、<ruby>中国<rt>ちゅうごく</rt></ruby>、<ruby>韓国<rt>かんこく</rt></ruby>、ミャンマー…<ruby>豪華<rt>ごうか</rt></ruby>なクラスですね！<br>*(Việt, Trung, Hàn, Myanmar... lớp đa quốc tịch quá!)* |
+| Đại | ベトナム、<ruby>中国<rt>ちゅうごく</rt></ruby>、<ruby>韓国<rt>かんこく</rt></ruby>、ミャンマー…<ruby>豪華<rt>ごうか</rt></ruby>なクラスですね！<br>*(Việt, Trung, Hàn, Myanmar... lớp phong phú/hoành tráng thật!)* |
 | Sumi | <ruby>後<rt>あと</rt></ruby>でLINEを<ruby>交換<rt>こうかん</rt></ruby>しませんか？<br>*(Lát nữa mình trao đổi LINE nhé?)* |
 | Đại | はい、<ruby>是非<rt>ぜひ</rt></ruby>！<br>*(Vâng, rất sẵn lòng!)* |
 
@@ -170,7 +170,7 @@
 | Đại | <ruby>大阪大学<rt>おおさかだいがく</rt></ruby><ruby>経済学部<rt>けいざいがくぶ</rt></ruby>の<ruby>入試<rt>にゅうし</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>はどこで<ruby>調<rt>しら</rt></ruby>べられますか？<br>*(Em tìm thông tin tuyển sinh Khoa Kinh tế ĐH Osaka ở đâu được ạ?)* |
 | Yamada | いい<ruby>質問<rt>しつもん</rt></ruby>です。<ruby>来週<rt>らいしゅう</rt></ruby><ruby>進学<rt>しんがく</rt></ruby><ruby>相談<rt>そうだん</rt></ruby>センターを<ruby>紹介<rt>しょうかい</rt></ruby>しますよ。<ruby>2年後<rt>にねんご</rt></ruby>の<ruby>入試<rt>にゅうし</rt></ruby>のスケジュールも<ruby>確認<rt>かくにん</rt></ruby>できます。<br>*(Câu hỏi hay. Tuần sau tôi giới thiệu trung tâm tư vấn lên đại học. Em có thể xem lịch tuyển sinh 2 năm sau.)* |
 | Đại | ありがとうございます。それから、<ruby>留学生<rt>りゅうがくせい</rt></ruby><ruby>用<rt>よう</rt></ruby>の<ruby>奨学金<rt>しょうがくきん</rt></ruby>はありますか？<br>*(Cảm ơn cô. Còn nữa, có học bổng cho du học sinh không ạ?)* |
-| Yamada | あります。「<ruby>日本<rt>にほん</rt></ruby><ruby>留学<rt>りゅうがく</rt></ruby><ruby>試験<rt>しけん</rt></ruby>（EJU）」で<ruby>高得点<rt>こうとくてん</rt></ruby>を<ruby>取<rt>と</rt></ruby>れば<ruby>奨学金<rt>しょうがくきん</rt></ruby>が<ruby>取<rt>と</rt></ruby>れますよ。<br>*(Có. Nếu đạt điểm cao kỳ thi EJU thì được học bổng.)* |
+| Yamada | あります。「<ruby>日本<rt>にほん</rt></ruby><ruby>留学<rt>りゅうがく</rt></ruby><ruby>試験<rt>しけん</rt></ruby>（EJU）」で<ruby>高得点<rt>こうとくてん</rt></ruby>を<ruby>取<rt>と</rt></ruby>れば<ruby>奨学金<rt>しょうがくきん</rt></ruby>がもらえますよ。<br>*(Có. Nếu đạt điểm cao kỳ thi EJU thì được nhận học bổng.)* |
 | Đại | EJU…ですか。<ruby>初<rt>はじ</rt></ruby>めて<ruby>聞<rt>き</rt></ruby>きました。<br>*(EJU... ạ. Em lần đầu nghe.)* |
 | Yamada | <ruby>来月<rt>らいげつ</rt></ruby>から<ruby>説明会<rt>せつめいかい</rt></ruby>があります。<ruby>必<rt>かなら</rt></ruby>ず<ruby>参加<rt>さんか</rt></ruby>してくださいね。<br>*(Tháng sau có buổi giới thiệu. Nhất định phải tham gia nhé.)* |
 
@@ -189,7 +189,7 @@
 | Đại | おお、イーファンも！LINEを<ruby>交換<rt>こうかん</rt></ruby>しませんか？<br>*(Ồ, Yifan cũng vậy! Mình trao đổi LINE nhé?)* |
 | Yifan | はい！QRコードを<ruby>出<rt>だ</rt></ruby>しますね。<br>*(Vâng! Mình mở mã QR.)* |
 | Sumi | （<ruby>来<rt>く</rt></ruby>る）<ruby>私<rt>わたし</rt></ruby>も！<ruby>5人<rt>ごにん</rt></ruby>のグループを<ruby>作<rt>つく</rt></ruby>りましょう。<br>*(Đến. Mình cũng nữa! Tạo nhóm 5 người luôn.)* |
-| Aung | グループ<ruby>名<rt>めい</rt></ruby>は「Bクラス<ruby>仲間<rt>なかま</rt></ruby>」にしませんか？<br>*(Tên nhóm để "B-class nakama" được không?)* |
+| Aung | グループ<ruby>名<rt>めい</rt></ruby>は「Bクラス<ruby>仲間<rt>なかま</rt></ruby>」にしませんか？<br>*(Đặt tên nhóm là "Bạn lớp B" (B-class nakama) nhé?)* |
 | Đại | いいですね！<ruby>明日<rt>あした</rt></ruby>から<ruby>毎日<rt>まいにち</rt></ruby><ruby>9時<rt>くじ</rt></ruby>〜<ruby>13時<rt>じゅうさんじ</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>です。お<ruby>互<rt>たが</rt></ruby>いに<ruby>頑張<rt>がんば</rt></ruby>りましょう。<br>*(Hay đó! Từ mai mỗi ngày học 9 – 13 giờ. Cùng cố lên nhé.)* |
 
 ---

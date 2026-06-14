@@ -42,7 +42,7 @@
 | Putri | グエンくん、Dart の<ruby>変数<rt>へんすう</rt></ruby><ruby>宣言<rt>せんげん</rt></ruby>、`var` と `final` と `const` の<ruby>違<rt>ちが</rt></ruby>いがよく<ruby>分<rt>わ</rt></ruby>からない。<br>*(Em Nguyễn, mình không phân biệt được var, final, const của Dart.)* |
 | Đại | `var` は<ruby>再<rt>さい</rt></ruby><ruby>代入<rt>だいにゅう</rt></ruby><ruby>可能<rt>かのう</rt></ruby>、`final` は<ruby>一度<rt>いちど</rt></ruby>だけ<ruby>代入<rt>だいにゅう</rt></ruby>、`const` はコンパイル<ruby>時<rt>じ</rt></ruby><ruby>定数<rt>ていすう</rt></ruby>です。<br>*(var có thể gán lại, final chỉ gán một lần, const là hằng số tại compile time.)* |
 | Đại | (viết ví dụ trên giấy)<br>```dart<br>var name = 'Đại';        // có thể đổi sau<br>final age = 22;           // gán 1 lần, runtime OK<br>const PI = 3.14;          // compile time<br>```<br> |
-| Putri | あ、わかりやすい！ TypeScript の `let`、`const` <ruby>2<rt>に</rt></ruby>つだけより<ruby>細<rt>こま</rt></ruby>かいんだね。<br>*(À dễ hiểu! Khác với TypeScript chỉ có let và const.)* |
+| Putri | あ、わかりやすい！ TypeScript の `let`、`const` <ruby>2<rt>ふた</rt></ruby>つだけより<ruby>細<rt>こま</rt></ruby>かいんだね。<br>*(À dễ hiểu! Khác với TypeScript chỉ có let và const.)* |
 | Đại | そうそう。<ruby>細<rt>こま</rt></ruby>かいけど、その<ruby>分<rt>ぶん</rt></ruby><ruby>最適化<rt>さいてきか</rt></ruby>が<ruby>効<rt>き</rt></ruby>きやすい。<br>*(Đúng vậy. Chi tiết hơn nhưng nhờ vậy tối ưu tốt hơn.)* |
 
 ---
@@ -146,7 +146,7 @@
 | Đại | ベトナム<ruby>人<rt>じん</rt></ruby><ruby>向<rt>む</rt></ruby>けの<ruby>日本語<rt>にほんご</rt></ruby><ruby>単語<rt>たんご</rt></ruby><ruby>学習<rt>がくしゅう</rt></ruby>アプリです。SRS と TTS<ruby>機能<rt>きのう</rt></ruby><ruby>付<rt>つ</rt></ruby>きです。<br>*(App học từ vựng tiếng Nhật cho người Việt. Có SRS và TTS.)* |
 | Đại | (demo trên iPhone) <ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>復習<rt>ふくしゅう</rt></ruby><ruby>5<rt>ご</rt></ruby><ruby>枚<rt>まい</rt></ruby> → <ruby>音声<rt>おんせい</rt></ruby><ruby>再生<rt>さいせい</rt></ruby> → <ruby>覚<rt>おぼ</rt></ruby>えていたら<ruby>3<rt>みっ</rt></ruby><ruby>日後<rt>かご</rt></ruby>へ。<br>*(Hôm nay 5 thẻ ôn → phát audio → nhớ rồi thì sang 3 ngày sau.)* |
 | Suzuki | <ruby>2<rt>に</rt></ruby><ruby>年生<rt>ねんせい</rt></ruby>でこのレベル？ ターゲットユーザーが<ruby>明確<rt>めいかく</rt></ruby>で、いい<ruby>視点<rt>してん</rt></ruby>です。<br>*(SV năm 2 mà làm tới mức này à? Target user rõ ràng, góc nhìn tốt.)* |
-| Đại | <ruby>恐<rt>おそ</rt></ruby>れ<ruby>入<rt>い</rt></ruby>ります。<ruby>婚約者<rt>こんやくしゃ</rt></ruby>が N2 を<ruby>勉強<rt>べんきょう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、<ruby>彼女<rt>かのじょ</rt></ruby>のために<ruby>作<rt>つく</rt></ruby>りました。<br>*(Em không dám nhận. Vợ chưa cưới của em đang học N2, em làm cho cô ấy.)* |
+| Đại | <ruby>恐<rt>おそ</rt></ruby>れ<ruby>入<rt>い</rt></ruby>ります。<ruby>妻<rt>つま</rt></ruby>が N2 を<ruby>勉強<rt>べんきょう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、<ruby>彼女<rt>かのじょ</rt></ruby>のために<ruby>作<rt>つく</rt></ruby>りました。<br>*(Em không dám nhận. Vợ em đang học N2, em làm cho cô ấy.)* |
 | Suzuki | (cười ấm) いい<ruby>動機<rt>どうき</rt></ruby>です。<ruby>本格的<rt>ほんかくてき</rt></ruby>に<ruby>発展<rt>はってん</rt></ruby>させたら、<ruby>卒業<rt>そつぎょう</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby>のテーマにもなりますよ。<br>*(Động cơ tốt đấy. Phát triển nghiêm túc thì còn làm được đề tài tốt nghiệp.)* |
 | Đại | (tim đập mạnh) <ruby>本当<rt>ほんとう</rt></ruby>ですか？ <ruby>考<rt>かんが</rt></ruby>えてみます。<br>*(Thật ạ? Em sẽ suy nghĩ ạ.)* |
 
@@ -225,7 +225,7 @@ Hai ngày cuối tuần đặt nền tảng cho cả hành trình Hizashi. Đạ
 | 画面 | がめん | HOẠ DIỆN | màn hình |
 | 固定 | こてい | CỐ ĐỊNH | cố định |
 | 納得 | なっとく | NỘP ĐẮC | hiểu rõ, thuyết phục |
-| 婚約者 | こんやくしゃ | HÔN ƯỚC GIẢ | vợ/chồng chưa cưới |
+| 妻 | つま | THÊ | vợ (cách khiêm xưng vợ mình với người ngoài) |
 | 動機 | どうき | ĐỘNG CƠ | động cơ |
 | 卒業研究 | そつぎょうけんきゅう | TỐT NGHIỆP NGHIÊN CỨU | đề tài tốt nghiệp |
 | 相談 | そうだん | TƯƠNG ĐÀM | bàn bạc |

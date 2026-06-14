@@ -1,6 +1,6 @@
 # Rule 18 — Customer voice / case study / 顧客の声・事例
 
-> **Luận điểm.** Testimonial slide cần **3 yếu tố**: ① **Situation** (khách là ai + bài toán), ② **Result** (số liệu cụ thể), ③ **Quote** (1 câu trực tiếp + tên + chức vụ). Logo khách cần permission. Testimonial **giấu tên** ("某大手物流") = trust thấp dramatic. Quote phải **có số** trong đó.
+> **Luận điểm.** Slide testimonial (lời chứng thực của khách) cần **3 yếu tố**: ① **Tình huống** (Situation — khách là ai + bài toán), ② **Kết quả** (Result — số liệu cụ thể), ③ **Trích dẫn** (Quote — 1 câu trực tiếp + tên + chức vụ). Logo khách cần xin phép. Testimonial **giấu tên** (「某大手物流」) = độ tin cậy tụt hẳn. Trích dẫn phải **có số** trong đó.
 >
 > 顧客事例は3要素: 状況→結果(数字)→引用(氏名・役職付き)。匿名事例は信頼が下がる。引用文には数字を含める。
 >
@@ -10,48 +10,56 @@
 
 ## Bối cảnh / 場面
 
-Slide 7 — case study cũ Phase 1/Phase 2. Linh giúp Dũng draft. Linh viết kiểu marketing copy ("お客様から大変ご好評をいただいております"). Dũng coach.
+Slide 7 — case study (tình huống thực tế) cũ Phase 1/Phase 2. Linh giúp Dũng dựng bản nháp. Linh viết kiểu lời quảng cáo (「お客様から大変ご好評をいただいております」). Dũng hướng dẫn lại.
 
 ---
 
-## ❌ Hội thoại XẤU — vague + anonymous
+## ❌ Hội thoại XẤU — mơ hồ + ẩn danh
 
-*draft show*
+*xem bản nháp*
 
 | Vai | Câu |
 |---------|-----|
-| **リン** | 「『**某大手物流様**から大変ご好評をいただいております。在庫管理が**改善し、業務効率が向上**しました』としました！」 |
-| **ズン** | 「うーん、**匿名 + 形容詞**だと客は信じない。『某大手物流』ってどこ？知らない。**改善**って何%？分からない。」 |
-| **リン** | 「具体名出すには許可が…」 |
-| **ズン** | 「許可取りに行こう。Phase 1 のお客様、**山田倉庫様**は事例公開OK のはず。**実名 + 数字 + 引用**の3点が揃って初めて testimonial。」 |
+| **リン** | 「『**<ruby>某<rt>ぼう</rt></ruby>大手<ruby>物流<rt>ぶつりゅう</rt></ruby>様**から<ruby>大変<rt>たいへん</rt></ruby>ご<ruby>好評<rt>こうひょう</rt></ruby>をいただいております。<ruby>在庫<rt>ざいこ</rt></ruby>管理が**<ruby>改善<rt>かいぜん</rt></ruby>し、<ruby>業務<rt>ぎょうむ</rt></ruby>効率が<ruby>向上<rt>こうじょう</rt></ruby>**しました』としました！」 |
+|  | *Em viết là 「Một cty logistics lớn đã rất khen ngợi ạ. Quản lý kho được cải thiện, hiệu quả công việc được nâng lên」!* |
+| **ズン** | 「うーん、**<ruby>匿名<rt>とくめい</rt></ruby> + <ruby>形容詞<rt>けいようし</rt></ruby>**だと客は<ruby>信<rt>しん</rt></ruby>じない。『某大手物流』ってどこ？知らない。**改善**って何%？分からない。」 |
+|  | *Hmm, ẩn danh + tính từ thế khách không tin đâu. 「Một cty logistics lớn」 là cty nào? Không biết. Cải thiện bao nhiêu %? Không rõ.* |
+| **リン** | 「<ruby>具体名<rt>ぐたいめい</rt></ruby>出すには<ruby>許可<rt>きょか</rt></ruby>が…」 |
+|  | *Nêu tên cụ thể thì phải xin phép ạ...* |
+| **ズン** | 「許可取りに行こう。Phase 1 のお客様、**山田<ruby>倉庫<rt>そうこ</rt></ruby>様**は<ruby>事例<rt>じれい</rt></ruby>公開OK のはず。**<ruby>実名<rt>じつめい</rt></ruby> + 数字 + <ruby>引用<rt>いんよう</rt></ruby>**の3点が<ruby>揃<rt>そろ</rt></ruby>って初めて testimonial。」 |
+|  | *Mình đi xin phép đi. Khách Phase 1 — bên Yamada Souko chắc OK đăng case study. 3 điểm đủ — tên thật + số + quote — mới gọi là testimonial.* |
 
-**Vì sao xấu:** 匿名 + 形容詞 = "marketing fluff". Khách Nhật scrutinize: "vendor có dám nêu tên? Có số cụ thể không?". 「某」 prefix particularly suspicious.
+**Vì sao xấu:** ẩn danh + tính từ = "marketing fluff". Khách Nhật soi rất kỹ: "vendor có dám nêu tên không? Có số cụ thể không?". Tiền tố 「某」 (một... nào đó) đặc biệt gây nghi ngờ.
 
 ---
 
-## ✅ Hội thoại TỐT — name + number + quote
+## ✅ Hội thoại TỐT — tên + số + trích dẫn
 
-*revised*
+*bản sửa lại*
 
 | Vai | Câu |
 |---------|-----|
-| **リン** | 「**山田倉庫株式会社様** (許可取得済)。Phase 1 で在庫差異 **3.2%→0.8%**(75%削減)【1】。引用: **『月末締めの残業が月20時間→3時間に減りました』** 物流部 山田太郎部長【2】。」 |
-| **ズン** | 「Perfect。引用に**数字**入っているのが効く。聴衆は『山田部長の声』としてイメージできる。」 |
+| **リン** | 「**山田<ruby>倉庫<rt>そうこ</rt></ruby><ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby>様** (<ruby>許可<rt>きょか</rt></ruby><ruby>取得済<rt>しゅとくずみ</rt></ruby>)。Phase 1 で<ruby>在庫<rt>ざいこ</rt></ruby><ruby>差異<rt>さい</rt></ruby> **3.2%→0.8%**(75%<ruby>削減<rt>さくげん</rt></ruby>)【1】。<ruby>引用<rt>いんよう</rt></ruby>: **『<ruby>月末<rt>げつまつ</rt></ruby><ruby>締<rt>じ</rt></ruby>めの<ruby>残業<rt>ざんぎょう</rt></ruby>が月20時間→3時間に<ruby>減<rt>へ</rt></ruby>りました』** <ruby>物流部<rt>ぶつりゅうぶ</rt></ruby> 山田太郎<ruby>部長<rt>ぶちょう</rt></ruby>【2】。」 |
+|  | *Cty Yamada Souko (đã xin phép). Phase 1 đã giảm sai lệch tồn kho 3.2%→0.8% (giảm 75%)【1】. Quote: 「Tăng ca chốt cuối tháng giảm từ 20 tiếng/tháng xuống 3 tiếng」 — Yamada Tarō, Trưởng phòng Logistics【2】.* |
+| **ズン** | 「Perfect。引用に**数字**入っているのが効く。<ruby>聴衆<rt>ちょうしゅう</rt></ruby>は『山田部長の<ruby>声<rt>こえ</rt></ruby>』としてイメージできる。」 |
+|  | *Perfect. Có số trong quote là điểm mạnh đấy. Khán giả hình dung được 「giọng anh Yamada」.* |
 | **リン** | 「ロゴも入れていいですか？」 |
-| **ズン** | 「ロゴ permission も別途確認【3】。OK ならロゴ＋写真(本人 OK あれば)入れる。NG なら社名のみ。」 |
+|  | *Có thể cho cả logo vào không ạ?* |
+| **ズン** | 「ロゴ permission も<ruby>別途<rt>べっと</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>【3】。OK ならロゴ＋<ruby>写真<rt>しゃしん</rt></ruby>(<ruby>本人<rt>ほんにん</rt></ruby> OK あれば)入れる。NG なら<ruby>社名<rt>しゃめい</rt></ruby>のみ。」 |
+|  | *Permission logo phải xin riêng. OK thì cho logo + ảnh (nếu cá nhân đồng ý). NG thì chỉ tên công ty.* |
 
 📝 **Ghi chú:**
-- 【1】**「3.2%→0.8% (75%削減)」** — Before/after + % 改善 のセット. 1つだけ → 弱い.
-- 【2】**「氏名 + 役職 + 部門」** — Quote は 信頼の3点セット. 「ある担当者様」は弱い.
-- 【3】**Logo permission** — Quote permission ≠ logo permission. 別途取得.
+- 【1】**「3.2%→0.8% (75%削減)」** — Bộ "trước/sau + % cải thiện" (Before/After + %改善) là chuẩn mực. Chỉ có 1 yếu tố thì yếu.
+- 【2】**「氏名 + 役職 + 部門」** — Quote phải đủ bộ 3 tin cậy: tên + chức vụ + phòng ban. 「Một nhân viên nào đó」 (ある担当者様) thì yếu.
+- 【3】**Permission logo** — Permission cho quote ≠ permission cho logo. Phải xin riêng từng cái (別途取得).
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「実名 + 数字 (before/after %) + 引用 (氏名・役職付き)。匿名 testimonial は load cao 0。」**
+> **「実名 + 数字 (before/after %) + 引用 (氏名・役職付き)。匿名 testimonial は信頼ゼロ。」**
 >
-> *Tên thật + số (before/after + %) + quote (có tên + chức vụ). Anonymous testimonial = trust 0.*
+> *Tên thật + số (trước/sau + %) + trích dẫn (có tên + chức vụ). Testimonial ẩn danh = độ tin cậy bằng 0.*
 
 ---
 
@@ -81,12 +89,12 @@ Slide 7 — case study cũ Phase 1/Phase 2. Linh giúp Dũng draft. Linh viết 
 
 ## ⚠ Tránh
 
-- 「某大手」「ある〇〇」 — anonymous = trust 0
-- "改善" "向上" "好評" — adjective không phải dữ liệu
-- Quote không có speaker name → "marketing fake" 怪しい
-- Logo dùng without permission → legal risk + lộ amateur
-- Testimonial cũ > 3 năm → "最近のはないの？" hoài nghi
-- Nhiều testimonial 1 slide (5-6 logo wall) → từng cái mất trọng lượng
+- 「某大手」「ある〇〇」 — ẩn danh = độ tin cậy bằng 0
+- 「改善」「向上」「好評」 — tính từ chứ không phải dữ liệu
+- Trích dẫn không có tên người nói → bị nghi là "khen giả" (怪しい)
+- Dùng logo mà chưa xin phép → rủi ro pháp lý + lộ sự nghiệp dư
+- Testimonial cũ > 3 năm → khách hoài nghi 「最近のはないの？」 (không có cái gần đây à?)
+- Nhiều testimonial trong 1 slide (5-6 logo dồn thành tường) → từng cái mất trọng lượng
 
 ---
 

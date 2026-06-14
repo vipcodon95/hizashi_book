@@ -18,11 +18,14 @@ D-2 trước onsite Tokyo, Hải (lần đầu đi onsite) check bộ đồ thi�
 
 | Vai | Câu |
 |---------|-----|
-| **トゥアンリーダー** | 「ハイ、明後日出発、持ち物 OK？」 |
-| **ハイ** | 「現金は現地ATMで引きます。スーツは spray でいいかな。お土産は Narita 空港で見ます。」 |
-| **トゥアンリーダー** | 「全部NG。①日本ATMはVN cardを多く拒否、空港着いた時点で taxi 必要 ②sprayでwrinkleは取れない ③Narita のお土産=brand微妙+brand不揃い。Survival kit 整理しよう。」 |
+| **トゥアンリーダー** | 「ハイ、<ruby>明後日<rt>あさって</rt></ruby><ruby>出発<rt>しゅっぱつ</rt></ruby>、<ruby>持<rt>も</rt></ruby>ち<ruby>物<rt>もの</rt></ruby> OK？」 |
+|  | *Hải, ngày kia đi rồi, đồ chuẩn bị OK chưa?* |
+| **ハイ** | 「<ruby>現金<rt>げんきん</rt></ruby>は<ruby>現地<rt>げんち</rt></ruby>ATMで<ruby>引<rt>ひ</rt></ruby>きます。スーツは spray でいいかな。お<ruby>土産<rt>みやげ</rt></ruby>は Narita <ruby>空港<rt>くうこう</rt></ruby>で<ruby>見<rt>み</rt></ruby>ます。」 |
+|  | *Tiền mặt em rút ATM bên đó. Suit em xịt spray là được. Omiyage em xem ở Narita.* |
+| **トゥアンリーダー** | 「<ruby>全部<rt>ぜんぶ</rt></ruby>NG。①<ruby>日本<rt>にほん</rt></ruby>ATMはVN cardを<ruby>多<rt>おお</rt></ruby>く<ruby>拒否<rt>きょひ</rt></ruby>、<ruby>空港<rt>くうこう</rt></ruby><ruby>着<rt>つ</rt></ruby>いた<ruby>時点<rt>じてん</rt></ruby>で taxi <ruby>必要<rt>ひつよう</rt></ruby> ②sprayでwrinkleは<ruby>取<rt>と</rt></ruby>れない ③Narita のお<ruby>土産<rt>みやげ</rt></ruby>=brand<ruby>微妙<rt>びみょう</rt></ruby>+brand<ruby>不揃<rt>ふぞろ</rt></ruby>い。Survival kit <ruby>整理<rt>せいり</rt></ruby>しよう。」 |
+|  | *Toàn NG. (1) ATM Nhật từ chối thẻ VN nhiều, vừa hạ cánh đã cần taxi rồi. (2) Spray không hết nhăn được. (3) Omiyage Narita brand không ổn, không đồng bộ. Mình check bộ đồ thiết yếu lại.* |
 
-**Vì sao xấu:** (1) Đến không có tiền mặt = ATM Nhật từ chối thẻ VN nhiều = không mua được IC card sân bay = không đi taxi được. (2) Không phòng nhăn vest = ngày đầu mất tầm. (3) Omiyage chưa có, định mua sân bay = brand không ổn, không đồng bộ — pattern fail giống rule_16.
+**Vì sao xấu:** (1) Đến không có tiền mặt = ATM Nhật từ chối thẻ VN nhiều = không mua được IC card sân bay = không đi taxi được. (2) Không phòng nhăn vest = ngày đầu mất tầm. (3) Omiyage chưa có, định mua sân bay = brand không ổn, không đồng bộ — lặp lại lỗi giống rule_16.
 
 ---
 
@@ -30,13 +33,17 @@ D-2 trước onsite Tokyo, Hải (lần đầu đi onsite) check bộ đồ thi�
 
 | Vai | Câu |
 |---------|-----|
-| **トゥアンリーダー** | 「ハイ、Survival Kit 6カテゴリで整理した。共有する。」 |
-| **トゥアンリーダー** | 「① 現金 5万円 (VN出発前両替)【1】 ② IC card Suica初日窓口【2】 ③ スーツケース内ハンガー+折り目テクニック【3】 ④ お土産: VN高品質 6箱【4】 ⑤ 天気: 折りたたみ傘+カーディガン【5】 ⑥ Wifi: pocket Wi-Fi or eSIM 出発前契約【6】。」 |
-| **ハイ** | 「わかりました。今日中にすべて準備して、明日チェックリスト見せます。」 |
-| **トゥアンリーダー** | 「あと、現地D1 朝はホテルロビー 7:30 集合。スーツ+IC card 持参で。」 |
+| **トゥアンリーダー** | 「ハイ、Survival Kit 6カテゴリで<ruby>整理<rt>せいり</rt></ruby>した。<ruby>共有<rt>きょうゆう</rt></ruby>する。」 |
+|  | *Hải, anh đã sắp xong bộ đồ thiết yếu theo 6 nhóm. Anh share em.* |
+| **トゥアンリーダー** | 「① <ruby>現金<rt>げんきん</rt></ruby> 5<ruby>万円<rt>まんえん</rt></ruby> (VN<ruby>出発<rt>しゅっぱつ</rt></ruby><ruby>前<rt>まえ</rt></ruby><ruby>両替<rt>りょうがえ</rt></ruby>)【1】 ② IC card Suica<ruby>初日<rt>しょにち</rt></ruby><ruby>窓口<rt>まどぐち</rt></ruby>【2】 ③ スーツケース<ruby>内<rt>ない</rt></ruby>ハンガー+<ruby>折<rt>お</rt></ruby>り<ruby>目<rt>め</rt></ruby>テクニック【3】 ④ お<ruby>土産<rt>みやげ</rt></ruby>: VN<ruby>高品質<rt>こうひんしつ</rt></ruby> 6<ruby>箱<rt>はこ</rt></ruby>【4】 ⑤ <ruby>天気<rt>てんき</rt></ruby>: <ruby>折<rt>お</rt></ruby>りたたみ<ruby>傘<rt>がさ</rt></ruby>+カーディガン【5】 ⑥ Wifi: pocket Wi-Fi or eSIM <ruby>出発<rt>しゅっぱつ</rt></ruby><ruby>前<rt>まえ</rt></ruby><ruby>契約<rt>けいやく</rt></ruby>【6】。」 |
+|  | *(1) Tiền mặt 5 man yen — đổi trước ở VN. (2) IC card Suica mua tại quầy ngày đầu. (3) Hanger + kỹ thuật xếp suit trong vali. (4) Omiyage VN cao cấp 6 hộp. (5) Thời tiết: ô gấp + cardigan. (6) Wi-Fi: pocket Wi-Fi / eSIM ký trước khi đi.* |
+| **ハイ** | 「わかりました。<ruby>今日中<rt>きょうじゅう</rt></ruby>にすべて<ruby>準備<rt>じゅんび</rt></ruby>して、<ruby>明日<rt>あした</rt></ruby>チェックリスト<ruby>見<rt>み</rt></ruby>せます。」 |
+|  | *Em hiểu rồi. Hôm nay em chuẩn bị xong hết, mai đưa anh checklist xem.* |
+| **トゥアンリーダー** | 「あと、<ruby>現地<rt>げんち</rt></ruby>D1 <ruby>朝<rt>あさ</rt></ruby>はホテルロビー 7:30 <ruby>集合<rt>しゅうごう</rt></ruby>。スーツ+IC card <ruby>持参<rt>じさん</rt></ruby>で。」 |
+|  | *À, ngày 1 tại Nhật sáng tập trung lobby hotel 7:30. Mặc suit + mang IC card.* |
 
 📝 **Ghi chú:**
-- 【1】**Cash 5 man yen — đổi trước ở VN** (sân bay / ngân hàng). Đến Narita mua được IC card + đi taxi luôn. ATM Nhật hay từ chối thẻ VN.
+- 【1】**Tiền mặt 5 man yen — đổi trước ở VN** (sân bay / ngân hàng). Đến Narita mua được IC card + đi taxi luôn. ATM Nhật hay từ chối thẻ VN.
 - 【2】**Suica mua tại quầy xanh JR Narita** (deposit 2,000 yên + 3,000 yên dư). iPhone hỗ trợ thì setup eSIM Suica trước càng tốt.
 - 【3】**Hanger + kỹ thuật xếp vest trong vali** (gập tay áo vào trong tránh nhăn). Đến hotel treo lên + máy hấp nhỏ ngay.
 - 【4】**Omiyage chuẩn bị từ VN** — cà phê / trà / bánh brand cao cấp, đóng gói riêng. Mua tại Narita = mất tâm (trùng rule 16).

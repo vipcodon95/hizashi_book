@@ -158,12 +158,12 @@
       "skill": "表現読解",
       "question_ja": "アンカリング判断 — 「先に値段を出すべき」場面はどれ？",
       "options": [
-        "ZOPA 推定が不十分・新規顧客で competitor 状況も不明",
-        "ZOPA 推定が solid・根拠データが揃っている",
+        "顧客が緊張している",
         "上司に値段の事前承認を取っていない",
-        "顧客が緊張している"
+        "ZOPA 推定が不十分・新規顧客で competitor 状況も不明",
+        "ZOPA 推定が solid・根拠データが揃っている"
       ],
-      "correct": "B",
+      "correct": "D",
       "explanation": {
         "ja": "Go first は ZOPA を把握していて根拠が揃っている時のみ有効。条件未充足なら let them go first で intel を取る。",
         "vi": "Go first chỉ hữu hiệu khi đã có ZOPA + cơ sở dữ liệu. Chưa đủ điều kiện thì let them go first để lấy intel."

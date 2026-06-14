@@ -1,16 +1,16 @@
 # Rule 50 — Self-reflection cải tiến / 振り返りと改善
 
-> **Luận điểm.** Sau mỗi tuần có nhiều họp, dành **15 phút Friday afternoon** để nhìn lại: gì work, gì cần đổi. Dùng **10-item checklist** (準備/進行/参加/締め). Ghi vào **diary file riêng** — không gửi ai. Mục đích: kỹ năng họp tăng từng tuần, không bị đình trệ.
+> **Luận điểm.** Sau mỗi tuần có nhiều họp, dành **15 phút chiều thứ Sáu** để nhìn lại: gì hiệu quả, gì cần đổi. Dùng **checklist 10 mục** (準備/進行/参加/締め). Ghi vào **file nhật ký riêng** — không gửi ai. Mục đích: kỹ năng họp tăng từng tuần, không bị đình trệ (chững lại).
 >
-> 週末15分の振り返り：10項目チェックリストで会議スキルを継続改善。日記形式で個人ファイルに記録。
+> <ruby>週末<rt>しゅうまつ</rt></ruby>15<ruby>分<rt>ふん</rt></ruby>の<ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>り：10<ruby>項目<rt>こうもく</rt></ruby>チェックリストで<ruby>会議<rt>かいぎ</rt></ruby>スキルを<ruby>継続<rt>けいぞく</rt></ruby><ruby>改善<rt>かいぜん</rt></ruby>。<ruby>日記<rt>にっき</rt></ruby><ruby>形式<rt>けいしき</rt></ruby>で<ruby>個人<rt>こじん</rt></ruby>ファイルに<ruby>記録<rt>きろく</rt></ruby>。
 >
-> **Liên quan:** Rule 39 (1on1), Rule 41 (feedback), Rule 49 (decisions tracking).
+> **Liên quan:** Rule 39 (1on1), Rule 41 (phản hồi), Rule 49 (theo dõi quyết định).
 
 ---
 
 ## Bối cảnh / 場面
 
-Friday 5pm. Em Dũng đã chủ trì 4 buổi họp tuần này. Mở file `meeting_diary.md` để self-reflect.
+Chiều thứ Sáu 5pm. Em Dũng đã chủ trì 4 buổi họp tuần này. Mở file `meeting_diary.md` để tự nhìn lại.
 
 ---
 
@@ -18,66 +18,66 @@ Friday 5pm. Em Dũng đã chủ trì 4 buổi họp tuần này. Mở file `meet
 
 | Tuần | Câu của em Dũng | Hệ quả |
 |---|---|---|
-| Week 1 | 「終わった、よかった」 | Không học gì mới |
-| Week 4 | Cùng mistake lặp lại — agenda send 2h trước | Khách lại complain |
-| Week 12 | Kỹ năng giậm chân, performance review ko cải thiện |
+| Tuần 1 | 「終わった、よかった」 | Không học gì mới |
+| Tuần 4 | Cùng lỗi cũ lặp lại — agenda gửi 2h trước | Khách lại phàn nàn |
+| Tuần 12 | Kỹ năng giậm chân, đánh giá hiệu suất không cải thiện |
 
 ---
 
-## ✅ Pattern TỐT — 10-item checklist Friday
+## ✅ Pattern TỐT — checklist 10 mục chiều thứ Sáu
 
-📐 **Checklist 10 items** — xem `conversation.json:templates[0]`. 4 nhóm:
+📐 **Checklist 10 mục** — xem `conversation.json:templates[0]`. 4 nhóm:
 
-**A. Chuẩn bị (3 items)**
+**A. Chuẩn bị (3 mục)**
 - [ ] Agenda gửi ≥24h trước?
-- [ ] Tài liệu pre-read send ≥24h?
+- [ ] Tài liệu đọc trước được gửi ≥24h?
 - [ ] Kiểm tra nội bộ trước họp?
 
-**B. Tiến hành (3 items)**
+**B. Tiến hành (3 mục)**
 - [ ] Bắt đầu đúng giờ?
 - [ ] Tất cả ý kiến được nghe (kể cả nhân viên trẻ)?
-- [ ] Time-box mỗi item respected?
+- [ ] Giữ đúng thời lượng phân bổ cho mỗi mục?
 
-**C. Tham gia (2 items)**
-- [ ] Em có dùng cushion trước khi phản đối?
-- [ ] Em paraphrase + confirm hiểu đúng?
+**C. Tham gia (2 mục)**
+- [ ] Em có dùng câu đệm trước khi phản đối?
+- [ ] Em diễn đạt lại + xác nhận hiểu đúng?
 
-**D. Kết thúc (2 items)**
-- [ ] Action items với owner + deadline confirmed?
+**D. Kết thúc (2 mục)**
+- [ ] Việc cần làm có người phụ trách + hạn chót đã xác nhận?
 - [ ] 議事録 gửi trong 24h?
 
-📝 **Format diary entry:**
+📝 **Định dạng một mục nhật ký:**
 
 ```
-=== Week 17 (4/22 - 4/26) — Reflection ===
-Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
+=== Tuần 17 (4/22 - 4/26) — Nhìn lại ===
+Buổi họp: 4 (đàm phán Phase 2, định kỳ x2, 1on1)
 
 ✅ Đã làm tốt:
-  - Agenda gửi 48h trước cho Phase 2 negot
-  - Dùng cushion + đề xuất đối lại khi anh Ōgaki yêu cầu 20%
+  - Agenda gửi 48h trước cho buổi đàm phán Phase 2
+  - Dùng câu đệm + đề xuất đối lại khi anh Ōgaki yêu cầu 20%
 
 ⚠ Cần cải thiện:
   - Họp định kỳ thứ 4 — quên xin lượt nói (cắt lời anh Matsumoto)
   - 議事録 buổi 1on1 gửi trễ 6h
 
 🎯 Tuần tới sẽ thử:
-  - Đặt phone reminder "raise hand" ở mọi buổi
-  - Block calendar 30 phút sau mỗi họp để viết biên bản
+  - Đặt nhắc nhở điện thoại "giơ tay xin nói" ở mọi buổi
+  - Chặn lịch 30 phút sau mỗi họp để viết biên bản
 ```
 
 ---
 
 ## 🎯 Câu chốt
 
-> **Friday 15 phút. 10 items. Diary file riêng. Tuần sau thử 1-2 thay đổi cụ thể.**
+> **Chiều thứ Sáu 15 phút. 10 mục. File nhật ký riêng. Tuần sau thử 1-2 thay đổi cụ thể.**
 
 ---
 
 ## ⚠ Tránh
 
-- Không reflect → kỹ năng đình trệ.
-- Reflect chung chung "tốt/không tốt" → không actionable.
-- Quá nhiều thay đổi 1 lần → confused. 1-2 thay đổi/tuần đủ.
+- Không nhìn lại → kỹ năng đình trệ.
+- Nhìn lại chung chung "tốt/không tốt" → không có hành động cụ thể.
+- Quá nhiều thay đổi 1 lần → rối, khó theo. 1-2 thay đổi/tuần là đủ.
 
 ---
 
@@ -85,8 +85,8 @@ Buổi họp: 4 (Phase 2 negot, định kỳ x2, 1on1)
 
 | 漢字 / Tiếng Nhật | よみ | Nghĩa |
 |------|------|-------|
-| 振り返り | ふりかえり | Nhìn lại / reflection |
+| 振り返り | ふりかえり | Nhìn lại / tự nhìn nhận |
 | 改善 | かいぜん | Cải thiện |
 | 継続 | けいぞく | Liên tục |
 | 日記 | にっき | Nhật ký |
-| チェックリスト | chekkurisuto | Checklist |
+| チェックリスト | chekkurisuto | Bảng kiểm (danh sách kiểm tra) |

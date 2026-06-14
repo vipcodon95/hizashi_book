@@ -9,7 +9,11 @@
     "ja": "リンが WFH の日に田中PMO から Slack 連絡が来るが集中モードで1時間気づかない場面。可視化なし→3点セット (朝会・ステータス・EOD) + カメラ ON で改善。",
     "vi": "Linh WFH, anh Tanaka PMO gửi Slack nhưng Linh đang focus mode không thấy 1 giờ. Từ pattern xấu (không visible) → đúng (3 ritual: standup sáng + status icon + EOD log + camera on)."
   },
-  "related_rules": ["rule_02", "rule_13", "rule_21"],
+  "related_rules": [
+    "rule_02",
+    "rule_13",
+    "rule_21"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -100,7 +104,10 @@
           "sentence": "(9:30、Slack #team-daily) ①朝会 【Daily 4/22 WFH 🏠】Done: 昨日のブロシュア初稿 / Doing: 校正版 (今日中) / Blocked: なし / Next: 14:00 までに田中PMOへ送付。ステータス: 🟢 working until 18:00 ICT。",
           "sentence_translation": "(9:30, Slack #team-daily) [1 Standup] [Daily 22/4 WFH 🏠] Done: bản đầu brochure hôm qua / Doing: bản hiệu đính (trong hôm nay) / Blocked: không / Next: gửi anh Tanaka PMO trước 14:00. Status: 🟢 working until 18:00 ICT.",
           "tone": "neutral",
-          "annotation_ids": ["1", "2"]
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
         },
         {
           "line_id": "rule_35_good_02",
@@ -137,7 +144,9 @@
           "sentence": "(18:00、Slack #team-daily) ③EOD ログ 【EOD 4/22】Done: ブロシュア校正版送付済(田中PMO 受領確認済) / 持ち越し: なし / 明日 Top 3: ① Phase3 marketing plan ② 印刷会社発注 ③ ハイ留学 announcement draft。ステータス更新: 🟢 → 🌙 EOD。",
           "sentence_translation": "(18:00, Slack #team-daily) [3 EOD log] [EOD 22/4] Done: đã gửi bản hiệu đính brochure (anh Tanaka đã xác nhận) / Chuyển sang mai: không / Top 3 ngày mai: [1] Marketing plan Phase 3 [2] Đặt nhà in [3] Draft announcement Hải đi du học. Status: 🟢 → 🌙 EOD.",
           "tone": "neutral",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_35_good_06",
@@ -178,8 +187,8 @@
       "options": [
         "終日 Slack に張り付く",
         "朝会 + ステータスアイコン + EOD ログ + カメラON",
-        "メールだけで済ます",
-        "進捗は週次1回まとめて報告"
+        "進捗は週次1回まとめて報告",
+        "メールだけで済ます"
       ],
       "correct": "B",
       "explanation": {

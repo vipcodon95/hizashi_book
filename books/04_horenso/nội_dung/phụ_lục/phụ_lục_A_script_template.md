@@ -500,7 +500,7 @@
 
 ## Phần IV — Tình huống khó
 
-### Rule 31 — Phát hiện bug — Hou-Ren-Sou flow / バグ発見時のホウレンソウ
+### Rule 31 — Phát hiện bug — Quy trình Hou-Ren-Sou / バグ発見時のホウレンソウ
 
 **ハイ (em Hải):**
 
@@ -607,7 +607,7 @@
 
 
 
-## Phần V — Voicemail, Online & Thực hành tốt nhất
+## Phần V — Voicemail, Online & Best Practice
 
 ### Rule 37 — Chọn channel: Slack / Notion / Email / Slack / Notion / Email — チャネル選択
 

@@ -94,11 +94,11 @@
       "question_ja": "重要交渉の議事録に必須の要素はどれか？",
       "options": [
         "出席者と内容のみ",
-        "件名・概要・目的・議題・要旨・決定事項・TODO（owner+deadline）・次回 の8要素+未決事項追跡",
+        "決定事項とTODOを混在させる",
         "メモ書きのみ",
-        "決定事項とTODOを混在させる"
+        "件名・概要・目的・議題・要旨・決定事項・TODO（owner+deadline）・次回 の8要素+未決事項追跡"
       ],
-      "correct": "B",
+      "correct": "D",
       "explanation": {
         "ja": "extended フォーマットは8要素+3慣習で証憑性と追跡性を担保する。",
         "vi": "Extended format 8 element + 3 quy ước đảm bảo tính evidence và truy vết."

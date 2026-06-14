@@ -9,7 +9,11 @@
     "ja": "金曜午後5時、ズンが今週の4会議を10項目チェックリスト（準備3+進行3+参加2+締め2）で振り返り、個人 diary file に記録する場面。",
     "vi": "Chiều thứ Sáu 5pm. Em Dũng đã chủ trì 4 buổi họp tuần này. Tự reflect bằng checklist 10 items (3 chuẩn bị + 3 tiến hành + 2 tham gia + 2 kết thúc), ghi vào diary file."
   },
-  "related_rules": ["rule_39", "rule_41", "rule_49"],
+  "related_rules": [
+    "rule_39",
+    "rule_41",
+    "rule_49"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -80,7 +84,9 @@
           "sentence": "10項目チェックリストで4会議をスコアリング。準備OK、進行OK、参加で『発言挙手なし』が2回、締めOK。",
           "sentence_translation": "Score 4 buổi với 10 items. Chuẩn bị OK, tiến hành OK, tham gia có 2 lần 'không xin lượt nói', kết thúc OK.",
           "tone": "neutral",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_50_good_03",
@@ -90,7 +96,9 @@
           "sentence": "来週は『発言挙手』を意識します。phone reminder設定。",
           "sentence_translation": "Tuần sau tập trung vào 'xin lượt nói'. Đặt phone reminder.",
           "tone": "neutral",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         }
       ]
     }
@@ -120,12 +128,12 @@
       "skill": "場面把握",
       "question_ja": "会議スキルを継続的に改善する最善の方法は？",
       "options": [
-        "毎月の人事評価のみ",
-        "週末15分、10項目チェックリストで振り返り、1〜2点を翌週に改善",
+        "何もしない",
         "上司に毎日聞く",
-        "何もしない"
+        "週末15分、10項目チェックリストで振り返り、1〜2点を翌週に改善",
+        "毎月の人事評価のみ"
       ],
-      "correct": "B",
+      "correct": "C",
       "explanation": {
         "ja": "週次の構造化された自己振り返り+具体的改善コミットがスキル plateau を防ぐ。",
         "vi": "Reflection hàng tuần có cấu trúc + commit cải tiến cụ thể tránh được skill plateau."

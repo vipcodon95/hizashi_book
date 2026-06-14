@@ -16,52 +16,65 @@
 
 3 cấp câu hỏi mở từ mức formal → casual:
 
-| Mức | Pattern | Ví dụ |
+| Mức | Công thức | Ví dụ |
 |-----|---------|-------|
 | **Trang trọng** | 〜いかがでしたか / 〜いかがですか | 「週末はいかがでしたか?」 |
 | **Thông thường** | 〜どうでしたか / 〜どんな[感じ] | 「週末はどうでしたか?」 |
 | **Thân mật** | 〜どう?(L4-L5 only) | 「週末どうだった?」 |
 
-→ Ngược lại với câu hỏi đóng ("週末良かった?") = khách trả "うん" + im → bạn phải đẻ topic mới.
+→ Ngược lại với câu hỏi đóng ("週末良かった?") = khách trả "うん" + im → bạn phải tự nghĩ ra chủ đề mới.
 
 ---
 
 ## 💬 4 Scenarios — dialogue thực chiến
 
-### 📍 Scenario 1 — BAD: Toàn câu hỏi đóng → flow chết
+### 📍 Scenario 1 — BAD: Toàn câu hỏi đóng → mạch chết
 
-*panic · không biết hỏi gì nữa*
+*hoảng · không biết hỏi gì nữa*
 
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「松本さん、週末は良かったですか?」 |
+|  | *Anh Matsumoto, cuối tuần ổn không ạ?* |
 | **松本** | 「ええ、まあ。」 |
+|  | *Ờ, cũng được.* |
 | **ズン** | 「ゴルフ行きました?」 |
+|  | *Anh có đi golf không?* |
 | **松本** | 「いえ。」 |
+|  | *Không.* |
 | **ズン** | 「お子さんと過ごされましたか?」 |
+|  | *Anh ở với con à?* |
 | **松本** | 「ええ。」 |
+|  | *Ừ.* |
 | **ズン** | 「…そうですか…」 |
+|  | *...vậy ạ...* |
 
-❌ **Vì sao XẤU:** 4 câu hỏi đóng = khách trả 4 lần "Yes/No" + "ええ" → mạch đứt. Khách không có cơ hội kể chuyện. Bạn cạn topic trong 30 giây.
+❌ **Vì sao XẤU:** 4 câu hỏi đóng = khách trả 4 lần "Yes/No" + "ええ" → mạch đứt. Khách không có cơ hội kể chuyện. Bạn cạn chủ đề trong 30 giây.
 
 ---
 
 ### 📍 Scenario 2 — GOOD: Đổi sang câu hỏi mở → khách kể tự nhiên
 
-*react ngắn + đào sâu mở · kể tiếp 2 phút*
+*phản hồi ngắn + đào sâu mở · kể tiếp 2 phút*
 
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「松本さん、**週末はいかがでしたか?**」【1】 |
-| **松本** | 「いやあ、土曜日は娘の運動会でね、大変だったよ。リレーで一等になって、嬉しそうだった。」 |
-| **ズン** | 「運動会、いいですね!**お嬢様、何年生でいらっしゃるんですか?**」 |
-| **松本** | 「小学4年。今ちょうど運動神経が伸びる時期みたいで…日曜は親父と釣り行ったよ、湾奥でシーバス。」 |
+|  | *Anh Matsumoto, cuối tuần thế nào ạ?* |
+| **松本** | 「いやあ、土曜日は娘の<ruby>運動会<rt>うんどうかい</rt></ruby>でね、大変だったよ。リレーで<ruby>一等<rt>いっとう</rt></ruby>になって、嬉しそうだった。」 |
+|  | *Hà, thứ 7 là hội thao của con gái, mệt thật. Nó về nhất chạy tiếp sức, vui ra mặt.* |
+| **ズン** | 「運動会、いいですね!**お<ruby>嬢様<rt>じょうさま</rt></ruby>、何年生でいらっしゃるんですか?**」 |
+|  | *Hội thao thích nhỉ! Cháu học lớp mấy ạ?* |
+| **松本** | 「小学4年。今ちょうど<ruby>運動神経<rt>うんどうしんけい</rt></ruby>が伸びる時期みたいで…日曜は<ruby>親父<rt>おやじ</rt></ruby>と<ruby>釣り<rt>つり</rt></ruby>行ったよ、<ruby>湾奥<rt>わんおく</rt></ruby>でシーバス。」 |
+|  | *Lớp 4. Đang đúng tuổi vận động phát triển... Chủ nhật tôi đi câu với bố, câu seabass ở vịnh.* |
 | **ズン** | 「シーバスですか!**普段はどちらの方面に釣りに?**」 |
-| **松本** | 「東京湾の若洲海浜公園が多いかな…」 |
+|  | *Seabass ạ! Thường anh hay đi câu khu nào ạ?* |
+| **松本** | 「東京湾の<ruby>若洲海浜公園<rt>わかすかいひんこうえん</rt></ruby>が多いかな…」 |
+|  | *Hay đi công viên biển Wakasu vịnh Tokyo.* |
 
 📝【1】 「いかがでしたか」 thay 「良かったですか」 = mở thay vì đóng. Đẳng cấp giữ nhịp 雑談.
 
-> **VN:** 1 câu hỏi mở khéo → khách kể runny đoạn (運動会 + 釣り) — bạn có 2 topic mới để đào sâu. Khác hẳn scenario 1.
+> **VN:** 1 câu hỏi mở khéo → khách kể một mạch dài (運動会 + 釣り) — bạn có 2 chủ đề mới để đào sâu. Khác hẳn Scenario 1.
 
 ---
 
@@ -71,13 +84,18 @@
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「中村さんは確か、先月札幌に戻られましたよね?」 |
-| **中村** | 「そう、有給使って3日間。」 |
+| **ズン** | 「中村さんは確か、先月<ruby>札幌<rt>さっぽろ</rt></ruby>に戻られましたよね?」 |
+|  | *Anh Nakamura tháng trước có về Sapporo phải không ạ?* |
+| **中村** | 「そう、<ruby>有給<rt>ゆうきゅう</rt></ruby>使って3日間。」 |
+|  | *Ừ, dùng phép nghỉ 3 ngày.* |
 | **ズン** | 「**3日間でどんな所、回られましたか?**」【2】 |
-| **中村** | 「いやあ、ほとんど実家にいたよ。母親と買い物行ったり、旧友と飲んだり…でね、**藻岩山**に登ったんだ、夜景見に。」 |
+|  | *3 ngày anh đi những đâu ạ?* |
+| **中村** | 「いやあ、ほとんど<ruby>実家<rt>じっか</rt></ruby>にいたよ。母親と買い物行ったり、<ruby>旧友<rt>きゅうゆう</rt></ruby>と飲んだり…でね、**<ruby>藻岩山<rt>もいわやま</rt></ruby>**に登ったんだ、<ruby>夜景<rt>やけい</rt></ruby>見に。」 |
+|  | *Hà, chủ yếu ở nhà mẹ. Đi chợ với mẹ, nhậu với bạn cũ... À, anh leo núi Moiwa ngắm dạ cảnh.* |
 | **ズン** | 「**藻岩山の夜景、どんな感じですか?**東京タワーから見るのとずいぶん違いますか?」 |
+|  | *Dạ cảnh từ Moiwa thế nào ạ? Khác nhiều so với tháp Tokyo không ạ?* |
 
-📝【2】 Kết hợp: "đóng để xác nhận" → "mở để đào". Đừng cứ đóng-đóng-đóng. Đóng = setup, mở = trận đấu chính.
+📝【2】 Kết hợp: "đóng để xác nhận" → "mở để đào". Đừng cứ đóng-đóng-đóng. Đóng = dọn sân, mở = trận đấu chính.
 
 ---
 
@@ -87,48 +105,52 @@
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「大垣さん、関西の食文化って関東と全然違いますよね。**普段、東京での食事で何か物足りないなって思うこと、ありますか?**」【3】 |
-| **大垣** | 「ああ、それね!**うどんよ。** 関東のうどん、汁が黒すぎる。関西の透き通った出汁が恋しくてね。」 |
+| **ズン** | 「大垣さん、<ruby>関西<rt>かんさい</rt></ruby>の<ruby>食文化<rt>しょくぶんか</rt></ruby>って<ruby>関東<rt>かんとう</rt></ruby>と全然違いますよね。**普段、東京での食事で何か<ruby>物足りない<rt>ものたりない</rt></ruby>なって思うこと、ありますか?**」【3】 |
+|  | *Anh Ōgaki, văn hóa ẩm thực Kansai khác Kanto hoàn toàn nhỉ. Anh ăn uống ở Tokyo có cảm thấy thiếu gì không ạ?* |
+| **大垣** | 「ああ、それね!**うどんよ。** 関東のうどん、汁が黒すぎる。関西の<ruby>透き通った<rt>すきとおった</rt></ruby><ruby>出汁<rt>だし</rt></ruby>が<ruby>恋しくて<rt>こいしくて</rt></ruby>ね。」 |
+|  | *À, có chứ! Udon. Udon Kanto nước đen quá. Tôi nhớ nước dùng trong vắt kiểu Kansai.* |
 | **ズン** | 「そんなに違うんですね。**東京でも関西風出汁の店、ご存知ですか?**」 |
-| **大垣** | 「あるよ、丸の内の『つるとんたん』とか、本格的でね。今度ご一緒しましょう。」 |
+|  | *Khác đến vậy ạ. Tokyo có quán nào nước dùng kiểu Kansai không anh biết không ạ?* |
+| **大垣** | 「あるよ、<ruby>丸の内<rt>まるのうち</rt></ruby>の『つるとんたん』とか、<ruby>本格的<rt>ほんかくてき</rt></ruby>でね。今度ご一緒しましょう。」 |
+|  | *Có chứ, 'Tsurutontan' ở Marunouchi, đúng vị lắm. Lần sau đi cùng nhé.* |
 
-📝【3】 Câu hỏi mở "có ý" — đặt trong context (関西 vs 関東) thay vì hỏi suông "好きな食べ物は?". Khách có nguyên cớ để kể sâu, mình thể hiện hiểu vùng miền.
+📝【3】 Câu hỏi mở "có ý" — đặt trong bối cảnh (関西 vs 関東) thay vì hỏi suông "好きな食べ物は?". Khách có nguyên cớ để kể sâu, mình thể hiện hiểu vùng miền.
 
 ---
 
 ## 🎯 Câu vàng copy-paste
 
 ```
-■ FORMAL OPEN (senior / khách mới):
+■ MỞ TRANG TRỌNG (senior / khách mới):
 「〜はいかがでしたか?」(週末は・出張は・お試しは)
 「〜について、どのようにお考えですか?」
 「〜のご経験、お聞かせいただけますか?」
 
-■ STANDARD OPEN (khách thân vừa):
+■ MỞ THÔNG THƯỜNG (khách thân vừa):
 「〜はどうでしたか?」
 「最近どうですか?」
 「〜って、どんな感じですか?」
 
-■ CASUAL OPEN (L4-L5):
+■ MỞ THÂN MẬT (L4-L5):
 「〜どう?」
 「最近何かハマってる?」
 
-■ ĐÓNG → MỞ COMBO:
-「[xác nhận fact đã biết]ですよね?」(đóng)
+■ ĐÓNG → MỞ KẾT HỢP:
+「[xác nhận thông tin đã biết]ですよね?」(đóng)
 →「で、どんな[感じ/具合/様子]でしたか?」(mở)
 
 ■ Câu hỏi mở CÓ Ý (không hỏi suông):
-「[context vùng miền/hoàn cảnh]、〜って、何かありますか?」
+「[bối cảnh vùng miền/hoàn cảnh]、〜って、何かありますか?」
 ```
 
 ---
 
 ## ⚠ NG — tuyệt đối tránh
 
-- **3 câu hỏi đóng liên tiếp** → khách cảm thấy "bị thẩm vấn" → mạch đứt.
+- **3 câu hỏi đóng liên tiếp** → khách cảm thấy "bị thẩm vấn" → mạch hội thoại đứt.
 - "**お元気ですか?**" với khách thân → công thức cứng, khách đáp 「元気です」 và hết. (Thay bằng「最近どうですか?」)
 - **Câu hỏi mở quá rộng** ("人生どうですか?") → khách không biết bắt đầu từ đâu.
-- **Câu hỏi mở dồn dập 3-4 câu** không có react ở giữa → giống phỏng vấn.
+- **Câu hỏi mở dồn dập 3-4 câu** không có phản hồi ở giữa → giống phỏng vấn.
 - **Hỏi rồi không lắng nghe**, đợi tới lượt mình tiếp → khách đọc ra ngay.
 
 ---
@@ -152,7 +174,7 @@
 
 **J3 — 場面把握:** Phân biệt câu hỏi mở vs đóng → khi nào dùng cái nào.
 **J2 — 表現読解:** 「いかがでしたか」 vs「良かったですか」 — keigo + tính chất câu hỏi.
-**J1 — 発言聴解:** Đặt câu hỏi mở "có context" = senior level (vs câu hỏi suông = beginner).
+**J1 — 発言聴解:** Đặt câu hỏi mở "có bối cảnh" = trình độ senior (vs câu hỏi suông = người mới).
 
 ---
 

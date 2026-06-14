@@ -1,6 +1,6 @@
-# Rule 44 — Confirm action items + owner / アクションアイテムの確認
+# Rule 44 — Xác nhận việc cần làm + người phụ trách / アクションアイテムの確認
 
-> **Luận điểm.** Trước khi tan họp, **PHẢI** rà lại 3 thứ cho mỗi action: **Who / What / When**. Câu chuẩn: 「**本日のアクションアイテムを確認させていただきます**」 → liệt kê từng item → confirm owner. Không kèm action confirm = 50% items bị quên.
+> **Luận điểm.** Trước khi tan họp, **PHẢI** rà lại 3 thứ cho mỗi việc cần làm: **Who / What / When** (Ai / Làm gì / Khi nào). Câu chuẩn: 「**本日のアクションアイテムを確認させていただきます**」 → liệt kê từng mục → xác nhận người phụ trách. Không rà lại = 50% việc bị quên.
 >
 > アクションアイテムは『誰が・何を・いつまでに』の3要素を会議終了前に必ず読み上げて確認。
 >
@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Họp Phase 2 đã quyết xong scope. 5 phút trước khi tan, em Dũng phải confirm action items với owner cụ thể.
+Họp Phase 2 đã quyết xong phạm vi (scope). 5 phút trước khi tan, em Dũng phải rà lại các việc cần làm cùng người phụ trách cụ thể.
 
 ---
 
@@ -21,8 +21,9 @@ Họp Phase 2 đã quyết xong scope. 5 phút trước khi tan, em Dũng phải
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「では、皆さんよろしくお願いします。」 |
+|  | *Vậy, mọi người làm tốt nhé ạ.* |
 
-**Vì sao xấu:** Không rà → action diffusion. JP đặc biệt cần rõ owner.
+**Vì sao xấu:** Không rà lại → việc bị bỏ lửng không rõ ai phụ trách. Khách Nhật đặc biệt cần rõ người chịu trách nhiệm.
 
 ---
 
@@ -30,18 +31,25 @@ Họp Phase 2 đã quyết xong scope. 5 phút trước khi tan, em Dũng phải
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「会議終了前に、本日のアクションアイテムを確認させていただきます【1】。4件ございます。」 |
-| **ズン** | 「① **scope A 案の詳細仕様書作成** — トゥアンリーダー、5月2日まで。よろしいでしょうか【2】？」 |
-| **トゥアン** | 「承知しました。」 |
-| **ズン** | 「② **5月開発スプリント計画書** — 私（ズン）、4月30日まで。」 |
-| **ズン** | 「③ **追加QAリソース可否回答** — 大垣様、5月7日まで。」 |
-| **大垣** | 「了解です、確認します。」 |
-| **ズン** | 「④ **議事録共有** — 私（ズン）、本日中。以上4件、よろしくお願いいたします【3】。」 |
+| **ズン** | 「<ruby>会議<rt>かいぎ</rt></ruby><ruby>終了<rt>しゅうりょう</rt></ruby>前に、本日のアクションアイテムを<ruby>確認<rt>かくにん</rt></ruby>させていただきます【1】。4<ruby>件<rt>けん</rt></ruby>ございます。」 |
+|  | *Trước khi kết thúc, em xin được rà lại các việc cần làm hôm nay ạ. Có 4 mục ạ.* |
+| **ズン** | 「① **scope A 案の<ruby>詳細<rt>しょうさい</rt></ruby><ruby>仕様書<rt>しようしょ</rt></ruby><ruby>作成<rt>さくせい</rt></ruby>** — トゥアンリーダー、5月2日まで。よろしいでしょうか【2】？」 |
+|  | *(1) Viết spec chi tiết scope A — anh Tuấn, hạn 2/5. OK không ạ?* |
+| **トゥアン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。」 |
+|  | *Vâng em rõ ạ.* |
+| **ズン** | 「② **5月<ruby>開発<rt>かいはつ</rt></ruby>スプリント<ruby>計画書<rt>けいかくしょ</rt></ruby>** — 私（ズン）、4月30日まで。」 |
+|  | *(2) Kế hoạch sprint phát triển tháng 5 — em Dũng, hạn 30/4.* |
+| **ズン** | 「③ **<ruby>追加<rt>ついか</rt></ruby>QAリソース<ruby>可否<rt>かひ</rt></ruby><ruby>回答<rt>かいとう</rt></ruby>** — 大垣様、5月7日まで。」 |
+|  | *(3) Trả lời khả năng bổ sung QA — anh Ōgaki, hạn 7/5.* |
+| **大垣** | 「<ruby>了解<rt>りょうかい</rt></ruby>です、確認します。」 |
+|  | *OK ạ, tôi sẽ kiểm tra.* |
+| **ズン** | 「④ **<ruby>議事録<rt>ぎじろく</rt></ruby><ruby>共有<rt>きょうゆう</rt></ruby>** — 私（ズン）、本日中。<ruby>以上<rt>いじょう</rt></ruby>4件、よろしくお願いいたします【3】。」 |
+|  | *(4) Gửi biên bản — em Dũng, trong hôm nay. Trên đây 4 mục, em xin nhờ mọi người ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**「アクションアイテムを確認させていただきます」** — câu mở chuẩn.
-- 【2】**Mỗi item: action + owner + deadline + confirm** — đọc xong hỏi 「よろしいでしょうか？」 owner phải nói "承知".
-- 【3】**Tổng kết** số item → biên bản dễ check.
+- 【1】**「アクションアイテムを確認させていただきます」** — câu mở chuẩn. Báo trước số mục → đối phương biết tập trung nghe.
+- 【2】**Mỗi mục: việc làm + người phụ trách + hạn chót + xác nhận** — đọc xong hỏi 「よろしいでしょうか？」, người phụ trách phải đáp "承知".
+- 【3】**Tổng kết** số mục → biên bản dễ đối chiếu.
 
 ---
 
@@ -49,15 +57,15 @@ Họp Phase 2 đã quyết xong scope. 5 phút trước khi tan, em Dũng phải
 
 > **「① [What] — [Who]、[When]まで。よろしいでしょうか？」**
 >
-> *3W cho mỗi item. Owner phải confirm tiếng nói.*
+> *3W cho mỗi mục. Người phụ trách phải xác nhận bằng tiếng nói.*
 
 ---
 
 ## ⚠ Tránh
 
 - "皆さんよろしく" trống không.
-- Bỏ qua confirm tiếng → biên bản ghi 1 chiều.
-- Không có deadline cụ thể.
+- Bỏ qua xác nhận bằng tiếng nói → biên bản ghi một chiều.
+- Không có hạn chót cụ thể.
 
 ---
 
@@ -65,9 +73,9 @@ Họp Phase 2 đã quyết xong scope. 5 phút trước khi tan, em Dũng phải
 
 | 漢字 / Tiếng Nhật | よみ | Nghĩa |
 |------|------|-------|
-| アクションアイテム | akushon aitemu | Action item |
-| 仕様書 | しようしょ | Specification |
-| 計画書 | けいかくしょ | Kế hoạch |
-| 可否 | かひ | Có/không |
-| 議事録 | ぎじろく | Biên bản |
+| アクションアイテム | akushon aitemu | Việc cần làm (action item) |
+| 仕様書 | しようしょ | Bản đặc tả / spec |
+| 計画書 | けいかくしょ | Bản kế hoạch |
+| 可否 | かひ | Được hay không |
+| 議事録 | ぎじろく | Biên bản họp |
 | 共有 | きょうゆう | Chia sẻ |

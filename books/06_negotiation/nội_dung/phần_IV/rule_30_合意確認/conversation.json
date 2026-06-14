@@ -9,7 +9,11 @@
     "ja": "Phase 3 ¥17M 合意後、商談を閉じる前に7項目を口頭で読み戻し齟齬ゼロを担保する場面。",
     "vi": "Sau khi đàm phán Phase 3 ¥17M close, trước khi đứng dậy Dũng phải read back 7 items để zero mismatch."
   },
-  "related_rules": ["rule_14", "rule_31", "rule_33"],
+  "related_rules": [
+    "rule_14",
+    "rule_31",
+    "rule_33"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -105,7 +109,9 @@
           "sentence": "ありがとうございます。最後に本日の合意事項を確認させてください。1点ずつ読み上げます。",
           "sentence_translation": "Em cảm ơn ạ. Cuối cùng cho phép em xác nhận các điểm đã đồng thuận hôm nay ạ. Em đọc từng mục một.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_30_good_03",
@@ -116,7 +122,9 @@
           "sentence_translation": "①Giá: ¥17M (chưa thuế), ②Kỳ hạn: 7/2026 - 6/2028 (2 năm), ③Scope: AI recommend engine + PM chuyên trách + 1 custom feature dashboard, ④SLA: 99.9%, ⑤Thanh toán: trả sau hàng tháng, ⑥IP sản phẩm: đồng sở hữu, ⑦Lịch ringi: bên anh duyệt trong tháng 5. Tất cả không có sai lệch nào ạ?",
           "tone": "formal",
           "speed_multiplier": 0.95,
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_30_good_04",
@@ -135,7 +143,9 @@
           "sentence": "承知いたしました。月末締め翌月末払いを追記して、24時間以内に確認メールをお送りいたします。本日はありがとうございました。",
           "sentence_translation": "Em nhận rồi ạ. Em sẽ bổ sung 'chốt cuối tháng - trả cuối tháng kế', và gửi recap mail trong vòng 24 giờ ạ. Hôm nay em cảm ơn anh nhiều ạ.",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         }
       ]
     }
@@ -173,12 +183,12 @@
       "skill": "場面把握",
       "question_ja": "商談クロージングで読み戻しが必要な理由として最も適切なものは？",
       "options": [
-        "礼儀として形式上必要だから",
-        "稟議後に認識ズレが発覚すると再交渉になり、口頭読み戻しがその予防策だから",
         "相手にプレッシャーをかけるため",
-        "通訳の練習のため"
+        "礼儀として形式上必要だから",
+        "通訳の練習のため",
+        "稟議後に認識ズレが発覚すると再交渉になり、口頭読み戻しがその予防策だから"
       ],
-      "correct": "B",
+      "correct": "D",
       "explanation": {
         "ja": "稟議プロセス中に認識ズレが発覚すると修正コストが大きい。読み戻しはそのリスクを当日に解消する手段。",
         "vi": "Trong quá trình ringi nếu phát hiện mismatch thì cost sửa cao. Read back giải quyết risk đó ngay trong ngày."

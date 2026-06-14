@@ -1,6 +1,6 @@
 # Rule 17 — So sánh phương án (matrix) / 比較マトリクス
 
-> **Luận điểm.** Show **3 option** (A/B/C), KHÔNG phải 5+. Cấu trúc: hàng = tiêu chí (cost / time / risk / impact), cột = option. Mỗi cell có dữ liệu **đo lường được** (số, ◎○△×), không phải adjective ("いい" / "悪い"). Cuối có **dòng "弊社推奨"** chỉ 1 option **+ lý do 1 câu**.
+> **Luận điểm.** Trình bày **3 phương án** (A/B/C), KHÔNG phải 5+. Cấu trúc: hàng = tiêu chí (chi phí / thời gian / rủi ro / tác động), cột = phương án. Mỗi cell có dữ liệu **đo lường được** (số, ◎○△×), không phải tính từ chủ quan ("いい" / "悪い"). Cuối có **dòng "弊社推奨"** chỉ 1 phương án **+ lý do 1 câu**.
 >
 > 比較マトリクスは3案 (A/B/C) まで。行=評価軸、列=案。セルは数字 or ◎○△×。最後に「弊社推奨」を1案＋1文の理由。
 >
@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Slide so sánh "Phase 3 のスコープ A=最小 / B=中規模 / C=フル". Dũng làm matrix 5 option × 8 tiêu chí = nhồi nhét. Hà CTO yêu cầu thu lại.
+Slide so sánh "Phase 3 のスコープ A=最小 / B=中規模 / C=フル". Dũng làm matrix 5 phương án × 8 tiêu chí = nhồi nhét. Hà CTO yêu cầu thu lại.
 
 ---
 
@@ -18,12 +18,16 @@ Slide so sánh "Phase 3 のスコープ A=最小 / B=中規模 / C=フル". Dũn
 
 | Vai | Câu |
 |---------|-----|
-| **ハーCTO** | 「**5案 × 8軸 = 40 cell**？スライド1枚で見せられない。客は決められない。」 |
-| **ズン** | 「全部見せれば客が選べると思って…」 |
-| **ハーCTO** | 「**選択肢が多いと選べないのが人間**【choice paradox】。**3案に絞って、推奨を明示**。客に『考える』労力じゃなくて『決める』労力を割いてもらう。」 |
-| **ズン** | 「あ…はい、絞ります。」 |
+| **ハーCTO** | 「**5案 × 8軸 = 40 cell**？スライド1枚で<ruby>見<rt>み</rt></ruby>せられない。<ruby>客<rt>きゃく</rt></ruby>は<ruby>決<rt>き</rt></ruby>められない。」 |
+|  | *5 case × 8 axis = 40 cell? 1 slide không show được. Khách không quyết được đâu.* |
+| **ズン** | 「<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>見<rt>み</rt></ruby>せれば<ruby>客<rt>きゃく</rt></ruby>が<ruby>選<rt>えら</rt></ruby>べると<ruby>思<rt>おも</rt></ruby>って…」 |
+|  | *Em nghĩ show hết thì khách chọn được ạ...* |
+| **ハーCTO** | 「**<ruby>選択肢<rt>せんたくし</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いと<ruby>選<rt>えら</rt></ruby>べないのが<ruby>人間<rt>にんげん</rt></ruby>**【choice paradox】。**3案に<ruby>絞<rt>しぼ</rt></ruby>って、<ruby>推奨<rt>すいしょう</rt></ruby>を<ruby>明示<rt>めいじ</rt></ruby>**。<ruby>客<rt>きゃく</rt></ruby>に『<ruby>考<rt>かんが</rt></ruby>える』<ruby>労力<rt>ろうりょく</rt></ruby>じゃなくて『<ruby>決<rt>き</rt></ruby>める』<ruby>労力<rt>ろうりょく</rt></ruby>を<ruby>割<rt>わ</rt></ruby>いてもらう。」 |
+|  | *Càng nhiều lựa chọn càng khó chọn — đó là tâm lý người. Thu xuống 3 case, nêu rõ khuyến nghị. Để khách dồn sức 「quyết」 chứ không phải 「nghĩ」.* |
+| **ズン** | 「あ…はい、<ruby>絞<rt>しぼ</rt></ruby>ります。」 |
+|  | *À... vâng, em sẽ thu lại ạ.* |
 
-**Vì sao xấu:** Choice paradox — 5 option = decision fatigue → khách defer decision. Pitch goal là DECIDE, không phải SHOW. 8 tiêu chí = audience không track nổi.
+**Vì sao xấu:** Choice paradox (nghịch lý lựa chọn) — 5 phương án = quá tải quyết định → khách trì hoãn quyết định. Mục tiêu của pitch là DECIDE (quyết), không phải SHOW (phô bày). 8 tiêu chí = người nghe không theo dõi nổi.
 
 ---
 
@@ -31,14 +35,18 @@ Slide so sánh "Phase 3 のスコープ A=最小 / B=中規模 / C=フル". Dũn
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「**3案 × 4軸**に絞り込みました【1】。軸: 投資額／期間／差異率改善／運用負荷。セルは数字と◎○△×。」 |
-| **ハーCTO** | 「いいね。推奨は？」 |
-| **ズン** | 「**最下行に『弊社推奨: B案』** + 1文理由【2】を入れました。『投資額対効果が最も高く、運用負荷も中程度のため』。」 |
-| **ハーCTO** | 「Perfect。客は『B案で進めましょう』と言いやすい。**推奨なしの matrix は責任放棄**に見える。」 |
+| **ズン** | 「**3案 × 4軸**に<ruby>絞<rt>しぼ</rt></ruby>り<ruby>込<rt>こ</rt></ruby>みました【1】。<ruby>軸<rt>じく</rt></ruby>: <ruby>投資額<rt>とうしがく</rt></ruby>／<ruby>期間<rt>きかん</rt></ruby>／<ruby>差異率<rt>さいりつ</rt></ruby><ruby>改善<rt>かいぜん</rt></ruby>／<ruby>運用負荷<rt>うんようふか</rt></ruby>。セルは<ruby>数字<rt>すうじ</rt></ruby>と◎○△×。」 |
+|  | *Em thu xuống 3 case × 4 axis ạ. Axis: tiền đầu tư / thời gian / cải thiện sai lệch / tải vận hành. Cell là số + ◎○△×.* |
+| **ハーCTO** | 「いいね。<ruby>推奨<rt>すいしょう</rt></ruby>は？」 |
+|  | *Tốt. Khuyến nghị thì sao?* |
+| **ズン** | 「**<ruby>最下行<rt>さいかぎょう</rt></ruby>に『<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>推奨<rt>すいしょう</rt></ruby>: B案』** + 1<ruby>文<rt>ぶん</rt></ruby><ruby>理由<rt>りゆう</rt></ruby>【2】を<ruby>入<rt>い</rt></ruby>れました。『<ruby>投資額対効果<rt>とうしがくたいこうか</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>く、<ruby>運用負荷<rt>うんようふか</rt></ruby>も<ruby>中程度<rt>ちゅうていど</rt></ruby>のため』。」 |
+|  | *Em đã ghi 「Khuyến nghị bên em: case B」 + 1 câu lý do ở dòng cuối ạ. 「Hiệu quả trên đầu tư cao nhất, tải vận hành cũng vừa」.* |
+| **ハーCTO** | 「Perfect。<ruby>客<rt>きゃく</rt></ruby>は『B案で<ruby>進<rt>すす</rt></ruby>めましょう』と<ruby>言<rt>い</rt></ruby>いやすい。**<ruby>推奨<rt>すいしょう</rt></ruby>なしの matrix は<ruby>責任放棄<rt>せきにんほうき</rt></ruby>**に<ruby>見<rt>み</rt></ruby>える。」 |
+|  | *Perfect. Khách dễ nói 「OK đi case B」 hơn. Matrix không có khuyến nghị trông như bỏ trách nhiệm.* |
 
 📝 **Ghi chú:**
-- 【1】**3 × 4 = 12 cell** — 認知負荷の上限ライン. それ以上は別スライド.
-- 【2】**「弊社推奨」 + 1文理由** — Vendor の責任明示. JP business は "推奨なし" を 「責任放棄」 と判断.
+- 【1】**3 × 4 = 12 cell** — đường trần của tải nhận thức. Nhiều hơn nữa thì tách sang slide khác.
+- 【2】**「khuyến nghị bên em」 + 1 câu lý do** — nêu rõ trách nhiệm của bên cung cấp (vendor). Business Nhật xem "không có khuyến nghị" là 「責任放棄」 (bỏ trách nhiệm).
 
 ---
 
@@ -66,12 +74,12 @@ Slide so sánh "Phase 3 のスコープ A=最小 / B=中規模 / C=フル". Dũn
 
 ## ⚠ Tránh
 
-- 5+ options → choice paradox
-- 7+ criteria → cognitive overload
-- Adjective cells ("いい" / "高い") → subjective
-- Không có 弊社推奨 → "責任放棄" perception
-- Recommend 案 đắt nhất → "vendor lobby" nghi ngờ. Recommend phải defendable
-- 全部 ◎ ở cột推奨 → fake / không tin
+- 5+ phương án → nghịch lý lựa chọn (choice paradox)
+- 7+ tiêu chí → quá tải nhận thức
+- Cell dùng tính từ ("いい" / "高い") → chủ quan
+- Không có 弊社推奨 → bị nhìn nhận là "責任放棄" (bỏ trách nhiệm)
+- Khuyến nghị 案 đắt nhất → bị nghi "bên cung cấp trục lợi". Khuyến nghị phải bảo vệ được bằng lý lẽ
+- 全部 ◎ ở cột 推奨 → giả tạo / không đáng tin
 
 ---
 

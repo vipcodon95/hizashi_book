@@ -1,6 +1,6 @@
 # Rule 18 — Khi có người vắng mặt / 欠席者の対応
 
-> **Luận điểm.** Khi có người không đến: 司会 phải **公表 ngay đầu họp**: (1) ai vắng, (2) lý do **ngắn gọn** (không kể chi tiết riêng tư), (3) **plan share lại biên bản**, (4) nếu cần input của họ → **持ち帰り** confirm sau. Cấm "vẫn quyết tiếp" mà không nói gì.
+> **Luận điểm.** Khi có người không đến: 司会 phải **公表 ngay đầu họp**: (1) ai vắng, (2) lý do **ngắn gọn** (không kể chi tiết riêng tư), (3) **báo kế hoạch gửi lại biên bản**, (4) nếu cần ý kiến của họ → **持ち帰り** xác nhận sau. Cấm "vẫn quyết tiếp" mà không nói gì.
 >
 > 欠席者の対応：①氏名公表 ②簡潔な理由 ③議事録の共有方針 ④input 必要なら持ち帰り合意。黙って進めるのは禁。
 >
@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Trước nội dung 1, em Linh báo Dũng: chị Hương副部長 bị sốt sáng nay, không tới được. Đã có inform松本様 trước qua mail, nhưng anh 大垣 chưa biết.
+Trước nội dung 1, em Linh báo Dũng: chị Hương副部長 bị sốt sáng nay, không tới được. Đã báo trước cho 松本様 qua mail, nhưng anh 大垣 chưa biết.
 
 ---
 
@@ -20,12 +20,16 @@ Trước nội dung 1, em Linh báo Dũng: chị Hương副部長 bị sốt sá
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「では、4月進捗報告から…」 |
-| **大垣** | 「あれ、フオン副部長は？」 |
-| **ズン** | 「あ、すみません、フオンは本日体調不良で…」 |
-| **大垣** | 「なるほど。ただ、5月スコープの最終決裁はフオン副部長の権限と聞いているのですが、本日決定できますか？」 |
+| **ズン** | 「では、4月<ruby>進捗<rt>しんちょく</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby>から…」 |
+|  | *Vâng, mình bắt đầu từ báo cáo tiến độ tháng 4 nhé...* |
+| **大垣** | 「あれ、フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>は？」 |
+|  | *Ơ, chị Hương Phó phòng đâu?* |
+| **ズン** | 「あ、すみません、フオンは本日<ruby>体調不良<rt>たいちょうふりょう</rt></ruby>で…」 |
+|  | *À em xin lỗi, chị Hương hôm nay không khỏe ạ...* |
+| **大垣** | 「なるほど。ただ、5月スコープの<ruby>最終<rt>さいしゅう</rt></ruby><ruby>決裁<rt>けっさい</rt></ruby>はフオン副部長の<ruby>権限<rt>けんげん</rt></ruby>と聞いているのですが、本日<ruby>決定<rt>けってい</rt></ruby>できますか？」 |
+|  | *À ra vậy. Nhưng anh nghe nói quyết cuối scope tháng 5 thuộc thẩm quyền chị Hương — hôm nay có quyết được không?* |
 
-**Vì sao xấu:** Không thông báo ngay → khách phát hiện giữa chừng. Nguy hiểm hơn: anh Ōgaki không biết người có quyền quyết vắng → có thể đi đến quyết định fake mà người có quyền sau lại từ chối.
+**Vì sao xấu:** Không thông báo ngay → khách phát hiện giữa chừng. Nguy hiểm hơn: anh Ōgaki không biết người có quyền quyết vắng → có thể đi đến một quyết định hớ mà người có thẩm quyền sau đó lại từ chối.
 
 ---
 
@@ -35,15 +39,19 @@ Trước nội dung 1, em Linh báo Dũng: chị Hương副部長 bị sốt sá
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「なお、本日 弊社 副部長のフオンは体調不良のため欠席となります【1】。事前に松本様にはご連絡済みでございます。」 |
-| **ズン** | 「議事録は終了後本日中にフオンへ共有いたします【2】。」 |
-| **ズン** | 「5月スコープの最終決裁はフオンの権限のため、本日は『方向性合意』までとさせていただき、最終確定はフオン確認後 明日中にメールでご連絡いたします【3】。」 |
-| **大垣** | 「了解しました。明確で助かります。」 |
+| **ズン** | 「なお、本日 <ruby>弊社<rt>へいしゃ</rt></ruby> 副部長のフオンは体調不良のため<ruby>欠席<rt>けっせき</rt></ruby>となります【1】。<ruby>事前<rt>じぜん</rt></ruby>に松本様にはご<ruby>連絡済<rt>れんらくず</rt></ruby>みでございます。」 |
+|  | *Em xin báo thêm, hôm nay phía bên em chị Hương Phó phòng vắng vì không khỏe ạ. Em đã liên hệ trước với anh Matsumoto rồi ạ.* |
+| **ズン** | 「<ruby>議事録<rt>ぎじろく</rt></ruby>は<ruby>終了後<rt>しゅうりょうご</rt></ruby>本日中にフオンへ<ruby>共有<rt>きょうゆう</rt></ruby>いたします【2】。」 |
+|  | *Biên bản em sẽ chia sẻ cho chị Hương ngay trong hôm nay sau khi họp xong ạ.* |
+| **ズン** | 「5月スコープの最終決裁はフオンの権限のため、本日は『<ruby>方向性<rt>ほうこうせい</rt></ruby><ruby>合意<rt>ごうい</rt></ruby>』までとさせていただき、<ruby>最終確定<rt>さいしゅうかくてい</rt></ruby>はフオン<ruby>確認後<rt>かくにんご</rt></ruby> 明日中にメールでご連絡いたします【3】。」 |
+|  | *Phần phê duyệt cuối scope tháng 5 thuộc thẩm quyền chị Hương, nên hôm nay em xin phép dừng ở mức 'thống nhất hướng', sau đó chốt cuối em sẽ mail báo trong ngày mai khi chị Hương xác nhận ạ.* |
+| **大垣** | 「<ruby>了解<rt>りょうかい</rt></ruby>しました。<ruby>明確<rt>めいかく</rt></ruby>で<ruby>助<rt>たす</rt></ruby>かります。」 |
+|  | *Anh hiểu rồi. Em nói rõ thế này hay lắm.* |
 
 📝 **Ghi chú:**
-- 【1】**「弊社 副部長のフオンは体調不良のため欠席」** — 内 (uchi) drop title prefix. Lý do ngắn 「体調不良」 đủ rồi, không kể "sốt 38度" hay "đi bệnh viện".
+- 【1】**「弊社 副部長のフオンは体調不良のため欠席」** — người nhà 内 (uchi) thì bỏ kính ngữ chức danh. Lý do ngắn 「体調不良」 đủ rồi, không kể "sốt 38度" hay "đi bệnh viện".
 - 【2】**「議事録は本日中に〇〇へ共有」** — cam kết thời hạn. Liên kết rule 45 + rule 48.
-- 【3】**「方向性合意までとさせていただき、最終確定は…」** — flag rằng quyết định cuối cần người vắng confirm. Đây là cách tránh "quyết hớ rồi rút lại".
+- 【3】**「方向性合意までとさせていただき、最終確定は…」** — nêu rõ rằng quyết định cuối cần người vắng xác nhận. Đây là cách tránh "quyết hớ rồi rút lại".
 
 ---
 
@@ -51,7 +59,7 @@ Trước nội dung 1, em Linh báo Dũng: chị Hương副部長 bị sốt sá
 
 > **「欠席者は冒頭公表 + 議事録共有 + 持ち帰り合意。黙って進めない。」**
 >
-> *Người vắng phải báo ngay đầu + plan share biên bản + persist quyết liệt nào cần confirm sau.*
+> *Người vắng phải báo ngay đầu + báo kế hoạch gửi biên bản + giữ lại (持ち帰り) quyết định nào cần xác nhận sau.*
 
 ---
 
@@ -59,8 +67,8 @@ Trước nội dung 1, em Linh báo Dũng: chị Hương副部長 bị sốt sá
 
 - Không 公表 → khách tự phát hiện = mất uy tín.
 - Kể chi tiết lý do (bệnh / việc cá nhân) → không cần thiết.
-- Quyết "thay" người vắng nếu không có authority → quyết bị rút lại = thất hứa.
-- Quên gửi biên bản cho người vắng → họ không bắt kịp được (rule 48).
+- Quyết "thay" người vắng nếu không có thẩm quyền → quyết bị rút lại = thất hứa.
+- Quên gửi biên bản cho người vắng → họ không theo kịp được (rule 48).
 
 ---
 

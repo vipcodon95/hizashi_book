@@ -9,7 +9,11 @@
     "ja": "クラウド選定について大垣営業部長が当日決定を希望。ズンはCTO・CFOの確認が必要なため、理由＋期限＋チャネル＋ deliverable で持ち帰り回答する場面。",
     "vi": "Anh Ōgaki muốn chốt cloud (AWS/Azure) ngay tại họp. Em Dũng cần check CTO + CFO → phải postpone đúng cách: lý do + deadline + channel + deliverable."
   },
-  "related_rules": ["rule_25", "rule_29", "rule_31"],
+  "related_rules": [
+    "rule_25",
+    "rule_29",
+    "rule_31"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -96,7 +100,10 @@
           "sentence": "ご要望ありがとうございます。クラウド選定はインフラとコストの両面から弊社のCTOとCFOの確認が必要でございますので、本件は持ち帰り、4月30日（水）17時までにメールにてご回答いたします。",
           "sentence_translation": "Em cảm ơn anh. Việc chọn cloud cần CTO và CFO bên em duyệt cả về infra và cost ạ. Em xin mang về và trả lời anh qua email trước 17h thứ Tư 30/4 ạ.",
           "tone": "formal",
-          "annotation_ids": ["1", "2"]
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
         },
         {
           "line_id": "rule_32_good_03",
@@ -106,7 +113,9 @@
           "sentence": "ご回答にはAWS / Azure 比較表とコスト試算を添付いたします。",
           "sentence_translation": "Trả lời em sẽ đính kèm bảng so sánh AWS/Azure và bảng tính cost ạ.",
           "tone": "formal",
-          "annotation_ids": ["3"],
+          "annotation_ids": [
+            "3"
+          ],
           "continues_previous": true
         },
         {
@@ -146,12 +155,12 @@
       "skill": "表現読解",
       "question_ja": "顧客の即決要請に対し、社内確認が必要で持ち帰る場合、最も適切な表現はどれか？",
       "options": [
+        "本件は持ち帰り、〇月〇日〇時までにメールにてご回答いたします",
         "また今度",
         "後で連絡します",
-        "本件は持ち帰り、〇月〇日〇時までにメールにてご回答いたします",
         "ちょっと厳しいです"
       ],
-      "correct": "C",
+      "correct": "A",
       "explanation": {
         "ja": "持ち帰り＋具体的期限＋チャネルが揃って初めて相手は安心できる。曖昧な「また今度」は信頼を損なう。",
         "vi": "Phải có 持ち帰り + deadline cụ thể + channel thì khách mới yên tâm. 「また今度」 mơ hồ làm mất uy tín."

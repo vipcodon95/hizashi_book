@@ -188,12 +188,12 @@
       "skill": "発言聴解",
       "question_ja": "anchor を出した直後、相手が4秒間沈黙している。最適行動は？",
       "options": [
-        "「もし高いようでしたら…」と値引きを提示",
         "そのまま沈黙を保つ (7秒目標)",
+        "deck を次のページにめくる",
         "「ご質問ありませんか？」と詰問",
-        "deck を次のページにめくる"
+        "「もし高いようでしたら…」と値引きを提示"
       ],
-      "correct": "B",
+      "correct": "A",
       "explanation": {
         "ja": "沈黙は思考時間。最初に話した方が leverage を失う。日本商談では7秒は normal。",
         "vi": "Im lặng là thời gian suy nghĩ. Ai nói trước mất leverage. Đàm phán Nhật 7s là bình thường."

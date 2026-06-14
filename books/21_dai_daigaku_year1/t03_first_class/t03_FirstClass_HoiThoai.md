@@ -30,7 +30,7 @@ Thứ 3 ngày 7/4/2026 chiều, buổi đầu lớp プログラミング演習 
 | Vai | Lời thoại |
 |---|---|
 | Watanabe | <ruby>本日<rt>ほんじつ</rt></ruby>はPython<ruby>入門<rt>にゅうもん</rt></ruby>です。Pythonは<ruby>1991<rt>せんきゅうひゃくきゅうじゅういち</rt></ruby><ruby>年<rt>ねん</rt></ruby>にGuido van Rossum<ruby>氏<rt>し</rt></ruby>が<ruby>作<rt>つく</rt></ruby>りました。<br>*(Hôm nay nhập môn Python. Python do ông Guido van Rossum tạo năm 1991.)* |
-| Watanabe | <ruby>特徴<rt>とくちょう</rt></ruby>は<ruby>4<rt>よん</rt></ruby>つあります。<ruby>動的<rt>どうてき</rt></ruby><ruby>型付<rt>かたづ</rt></ruby>け、<ruby>解釈<rt>かいしゃく</rt></ruby><ruby>型<rt>がた</rt></ruby>、インデント<ruby>必須<rt>ひっす</rt></ruby>、AIや<ruby>機械学習<rt>きかいがくしゅう</rt></ruby>の<ruby>主流<rt>しゅりゅう</rt></ruby>です。<br>*(Có 4 đặc trưng: định kiểu động, thông dịch, bắt buộc thụt đầu dòng, chủ đạo AI/ML.)* |
+| Watanabe | <ruby>特徴<rt>とくちょう</rt></ruby>は<ruby>4<rt>よっ</rt></ruby>つあります。<ruby>動的<rt>どうてき</rt></ruby><ruby>型付<rt>かたづ</rt></ruby>け、<ruby>解釈<rt>かいしゃく</rt></ruby><ruby>型<rt>がた</rt></ruby>、インデント<ruby>必須<rt>ひっす</rt></ruby>、AIや<ruby>機械学習<rt>きかいがくしゅう</rt></ruby>の<ruby>主流<rt>しゅりゅう</rt></ruby>です。<br>*(Có 4 đặc trưng: định kiểu động, thông dịch, bắt buộc thụt đầu dòng, chủ đạo AI/ML.)* |
 | Đại | (giơ tay) <ruby>先生<rt>せんせい</rt></ruby>、すみません。<br>*(Thưa thầy.)* |
 | Watanabe | はい、どうぞ。<br>*(Em hỏi đi.)* |
 | Đại | 「<ruby>動的<rt>どうてき</rt></ruby><ruby>型付<rt>かたづ</rt></ruby>け」というのはどういう<ruby>意味<rt>いみ</rt></ruby>ですか?<br>*(Thưa thầy, "động kiểu phó" — dynamic typing — nghĩa là gì ạ?)* |
@@ -77,7 +77,7 @@ Thứ 3 ngày 7/4/2026 chiều, buổi đầu lớp プログラミング演習 
 | Yamato | (thì thầm với Đại) <ruby>俺<rt>おれ</rt></ruby><ruby>三項演算子<rt>さんこうえんざんし</rt></ruby>のチェーンで<ruby>1<rt>いち</rt></ruby><ruby>行<rt>ぎょう</rt></ruby>でやれるで。<br>*(Tớ viết chuỗi toán tử ba ngôi 1 dòng được nè.)* |
 | Đại | <ruby>三項演算子<rt>さんこうえんざんし</rt></ruby>?<br>*(Toán tử ba ngôi?)* |
 | Yamato | (chỉ màn hình) `grade = "A" if s >= 90 else "B" if s >= 80 else "C" if s >= 70 else "F"` や。<br>*(`grade = "A" if s >= 90 else "B" if s >= 80 else "C" if s >= 70 else "F"` nè.)* |
-| Đại | (ngạc nhiên) <ruby>1<rt>いち</rt></ruby><ruby>行<rt>ぎょう</rt></ruby>で<ruby>4<rt>よん</rt></ruby>つの<ruby>条件<rt>じょうけん</rt></ruby>!<br>*(1 dòng 4 điều kiện!)* |
+| Đại | (ngạc nhiên) <ruby>1<rt>いち</rt></ruby><ruby>行<rt>ぎょう</rt></ruby>で<ruby>4<rt>よっ</rt></ruby>つの<ruby>条件<rt>じょうけん</rt></ruby>!<br>*(1 dòng 4 điều kiện!)* |
 | Watanabe | (nghe được, bước tới) <ruby>田中<rt>たなか</rt></ruby><ruby>君<rt>くん</rt></ruby>、<ruby>面白<rt>おもしろ</rt></ruby>いですね。でも、<ruby>初心者<rt>しょしんしゃ</rt></ruby>には<ruby>読<rt>よ</rt></ruby>みにくいので、まずはif/elif/elseで<ruby>書<rt>か</rt></ruby>く<ruby>習慣<rt>しゅうかん</rt></ruby>をつけてください。<br>*(Hay đấy, Tanaka. Nhưng người mới khó đọc, hãy tập viết bằng if/elif/else trước đã.)* |
 | Yamato | はい、<ruby>反省<rt>はんせい</rt></ruby>します。<br>*(Vâng, em xin rút kinh nghiệm.)* |
 | Đại | (thì thầm với Yamato) <ruby>後<rt>あと</rt></ruby>で<ruby>三項演算子<rt>さんこうえんざんし</rt></ruby><ruby>教<rt>おし</rt></ruby>えて。<br>*(Lát chỉ tớ toán tử ba ngôi nhé.)* |

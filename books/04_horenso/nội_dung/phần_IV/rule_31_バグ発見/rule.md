@@ -1,6 +1,6 @@
 # Rule 31 — Phát hiện bug — Hou-Ren-Sou flow / バグ発見時
 
-> **Luận điểm.** Bug critical (production down / data corruption / security) là tình huống áp lực đỉnh. Phải có **quy trình xử lý leo thang định trước**: **(1) Detect → ngay** **(2) Slack #incident channel + tag Tuấn (Tech lead)** trong **5 phút**, **(3) Tuấn xác nhận severity → escalate Hà CTO** trong **15 phút**, **(4) Hà CTO + Dũng cùng draft thông báo + escalate Matsumoto** trong **30 phút**, **(5) Investigation + ETA** trong **60 phút**, **(6) Resolve + post-mortem** trong **24h**. Time limit per step = SLA team. Bỏ qua step = "đi tắt" → bê trễ chuỗi.
+> **Luận điểm.** Bug nghiêm trọng (production down / data corruption / security) là tình huống áp lực đỉnh. Phải có **quy trình xử lý leo thang định trước**: **(1) Phát hiện → ngay** **(2) Slack #incident channel + tag Tuấn (Tech lead)** trong **5 phút**, **(3) Tuấn xác nhận severity → escalate Hà CTO** trong **15 phút**, **(4) Hà CTO + Dũng cùng soạn thông báo + escalate Matsumoto** trong **30 phút**, **(5) Điều tra + ETA** trong **60 phút**, **(6) Khắc phục + post-mortem** trong **24h**. Mốc thời gian mỗi bước = SLA của team. Bỏ qua bước = "đi tắt" → bê trễ chuỗi.
 >
 > インシデント発見時の時間SLA：①検知0分→②Slack #incident + Tech lead 5分→③CTO 15分→④客通知 30分→⑤ETA 60分→⑥解決+post-mortem 24h。各ステップを飛ばすと連鎖遅延。
 >
@@ -21,11 +21,15 @@ Thứ Ba 22/4 14:30. Em Hải (DevOps) phát hiện production API trả 500 err
 | Vai | Câu |
 |---------|-----|
 | **ハイ** | (1人で) 「あれ、エラー多いな…とりあえずログ見てみよう…」 |
-|  | 「うーん、原因分からない…とりあえずもう少し調べよう…」 |
+|  | *(một mình) Ơ, error nhiều thật... để mình xem log đã...* |
+|  | 「うーん、<ruby>原因<rt>げんいん</rt></ruby>分からない…とりあえずもう少し<ruby>調<rt>しら</rt></ruby>べよう…」 |
+|  | *Ờm, chưa tìm ra nguyên nhân... để xem thêm chút...* |
 |  | 「@トゥアン、production API がエラー多いんですけど…」 |
-| **トゥアン** | 「**なんで1時間も黙ってた!?** 客に既に Twitter で晒されてるよ。フローを守って: 検知5分以内に #incident チャネル投稿。1人で抱え込むな。」 |
+|  | *@anh Tuấn, production API đang nhiều error ạ...* |
+| **トゥアン** | 「**なんで1時間も<ruby>黙<rt>だま</rt></ruby>ってた!?** <ruby>客<rt>きゃく</rt></ruby>に<ruby>既<rt>すで</rt></ruby>に Twitter で<ruby>晒<rt>さら</rt></ruby>されてるよ。フローを<ruby>守<rt>まも</rt></ruby>って: <ruby>検知<rt>けんち</rt></ruby>5分<ruby>以内<rt>いない</rt></ruby>に #incident チャネル<ruby>投稿<rt>とうこう</rt></ruby>。1人で<ruby>抱<rt>かか</rt></ruby>え込むな。」 |
+|  | *Sao em im 1 tiếng vậy!? Khách đã đăng trên Twitter rồi. Tuân quy trình đi: phát hiện trong 5 phút phải post #incident channel. Đừng tự ôm.* |
 
-**Vì sao xấu:** L1 1 mình điều tra 1 giờ — production critical incident không phải 1 người thử. L3 sau 1 tiếng = đã có user complaint trên social. L4 chỉ ra: tốc độ > tự tin "cứ tự xử".
+**Vì sao xấu:** L1 1 mình điều tra 1 giờ — sự cố nghiêm trọng trên production không phải để 1 người tự thử. L3 sau 1 tiếng = đã có khách phàn nàn trên mạng xã hội. L4 chỉ ra: tốc độ quan trọng hơn sự tự tin kiểu "cứ tự xử".
 
 ---
 
@@ -35,21 +39,28 @@ Thứ Ba 22/4 14:30. Em Hải (DevOps) phát hiện production API trả 500 err
 
 | Vai | Câu |
 |---------|-----|
-| **ハイ** | 「🚨 **【Incident #INC-2026-0422-01】** 検知時刻: 14:30 / 影響: production API、500 error率約30% / 推定影響ユーザー: 200名 / 検知者: ハイ / 現在: ログ確認中。**@tuan_leader 確認お願いします**【1】。」 |
-| **トゥアン** | 「確認、severity Sev1 (critical)。**@ha_cto エスカレーション**します。ハイは継続調査、ズン待機して顧客通知準備【2】。」 |
-| **ハーCTO** | 「Sev1 確認。**ズン、松本様への第一報を 15:00 までに**。内容:発生事実 + 影響範囲 + 調査中のステータス + ETA は 15:30 までに別途【3】。」 |
-| **ズン** | 「松本様、緊急ご連絡となり恐縮です。**14:30 頃から production API で一部障害が発生**しております。影響:ログイン後の検索画面の一部機能、推定 200 名【4】。**現在ティエンファット技術チームで調査中**、ETA は 15:30 までに別途ご報告いたします。誠に申し訳ございません【5】。」 |
-| **松本PM** | 「承知しました。ETA をお待ちします。当方からも社内に共有します。」 |
-| **ハイ** | 「原因: 14:00 デプロイの DB index に conflict。rollback 手順準備完了、15:30 実施で復旧見込み。」 |
-| **ズン** | 「松本様、**ETA ご報告**: 15:30〜15:45 で rollback 実施、15:45 復旧見込み。原因:本日デプロイの index 変更が想定外の lock を発生。詳細は復旧後 24時間以内に Post-mortem レポートをお送りいたします【6】。」 |
+| **ハイ** | 「🚨 **【Incident #INC-2026-0422-01】** <ruby>検知<rt>けんち</rt></ruby><ruby>時刻<rt>じこく</rt></ruby>: 14:30 / <ruby>影響<rt>えいきょう</rt></ruby>: production API、500 error率約30% / <ruby>推定<rt>すいてい</rt></ruby>影響ユーザー: 200名 / 検知<ruby>者<rt>しゃ</rt></ruby>: ハイ / <ruby>現在<rt>げんざい</rt></ruby>: ログ<ruby>確認<rt>かくにん</rt></ruby>中。**@tuan_leader 確認お<ruby>願<rt>ねが</rt></ruby>いします**【1】。」 |
+|  | *[Incident #INC-2026-0422-01] Phát hiện: 14:30 / Ảnh hưởng: production API, error rate ~30% / Ước tính user bị: 200 / Người phát hiện: Hải / Hiện tại: đang check log. @anh Tuấn xác nhận giúp em ạ.* |
+| **トゥアン** | 「確認、severity Sev1 (critical)。**@ha_cto エスカレーション**します。ハイは<ruby>継続<rt>けいぞく</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>、ズン<ruby>待機<rt>たいき</rt></ruby>して<ruby>顧客<rt>こきゃく</rt></ruby><ruby>通知<rt>つうち</rt></ruby><ruby>準備<rt>じゅんび</rt></ruby>【2】。」 |
+|  | *Xác nhận, severity Sev1 (critical). @anh Hà CTO em escalate. Hải tiếp tục điều tra, Dũng standby chuẩn bị thông báo khách.* |
+| **ハーCTO** | 「Sev1 確認。**ズン、<ruby>松本<rt>まつもと</rt></ruby>様への<ruby>第一報<rt>だいいっぽう</rt></ruby>を 15:00 までに**。<ruby>内容<rt>ないよう</rt></ruby>:<ruby>発生<rt>はっせい</rt></ruby><ruby>事実<rt>じじつ</rt></ruby> + <ruby>影響<rt>えいきょう</rt></ruby><ruby>範囲<rt>はんい</rt></ruby> + 調査中のステータス + ETA は 15:30 までに<ruby>別途<rt>べっと</rt></ruby>【3】。」 |
+|  | *Xác nhận Sev1. Dũng, gửi báo cáo đầu cho anh Matsumoto trước 15:00. Nội dung: sự thật + phạm vi ảnh hưởng + đang điều tra + ETA báo riêng trước 15:30.* |
+| **ズン** | 「松本様、<ruby>緊急<rt>きんきゅう</rt></ruby>ご連絡となり<ruby>恐縮<rt>きょうしゅく</rt></ruby>です。**14:30 頃から production API で<ruby>一部<rt>いちぶ</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>が発生**しております。影響:ログイン後の<ruby>検索<rt>けんさく</rt></ruby><ruby>画面<rt>がめん</rt></ruby>の一部<ruby>機能<rt>きのう</rt></ruby>、推定 200 名【4】。**現在ティエンファット<ruby>技術<rt>ぎじゅつ</rt></ruby>チームで調査中**、ETA は 15:30 までに別途ご報告いたします。<ruby>誠<rt>まこと</rt></ruby>に申し<ruby>訳<rt>わけ</rt></ruby>ございません【5】。」 |
+|  | *Anh Matsumoto, em xin lỗi liên lạc gấp. Từ 14:30 production API có sự cố một phần. Ảnh hưởng: 1 phần chức năng màn hình search sau khi login, ước tính 200 người. Hiện team kỹ thuật Thiên Phát đang điều tra, ETA em sẽ báo riêng trước 15:30. Em thực sự xin lỗi anh ạ.* |
+| **松本PM** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。ETA をお待ちします。<ruby>当方<rt>とうほう</rt></ruby>からも<ruby>社内<rt>しゃない</rt></ruby>に<ruby>共有<rt>きょうゆう</rt></ruby>します。」 |
+|  | *Tôi hiểu rồi. Tôi đợi ETA. Bên tôi cũng share nội bộ.* |
+| **ハイ** | 「原因: 14:00 デプロイの DB index に conflict。rollback <ruby>手順<rt>てじゅん</rt></ruby>準備<ruby>完了<rt>かんりょう</rt></ruby>、15:30 <ruby>実施<rt>じっし</rt></ruby>で<ruby>復旧<rt>ふっきゅう</rt></ruby><ruby>見込<rt>みこ</rt></ruby>み。」 |
+|  | *Nguyên nhân: index DB của deploy 14:00 có conflict. Đã chuẩn bị xong quy trình rollback, thực thi 15:30 dự kiến khôi phục.* |
+| **ズン** | 「松本様、**ETA ご報告**: 15:30〜15:45 で rollback 実施、15:45 復旧見込み。原因:本日デプロイの index <ruby>変更<rt>へんこう</rt></ruby>が<ruby>想定外<rt>そうていがい</rt></ruby>の lock を発生。<ruby>詳細<rt>しょうさい</rt></ruby>は復旧後 24時間<ruby>以内<rt>いない</rt></ruby>に Post-mortem レポートをお<ruby>送<rt>おく</rt></ruby>りいたします【6】。」 |
+|  | *Anh Matsumoto, [Báo ETA] 15:30-15:45 thực thi rollback, 15:45 dự kiến khôi phục. Nguyên nhân: thay đổi index của deploy hôm nay gây lock ngoài dự tính. Chi tiết em sẽ gửi report Post-mortem trong vòng 24h sau khi khôi phục ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**5 phút SLA: Slack #incident + tag Tech lead** — không 1 mình. Time stamp + severity initial guess.
-- 【2】**15 phút SLA: Tech lead → CTO** — anh Tuấn không chần chừ, escalate ngay.
-- 【3】**30 phút SLA: CTO assign 客先 communication** — Hà CTO không tự đi báo khách, để Dũng (BD owner) handle với guidance.
-- 【4】**第一報 = fact ngắn + impact** — không nói nguyên nhân (chưa biết). Chỉ "発生事実 + 影響範囲".
-- 【5】**「現在調査中、ETA は別途」** — không hứa thời gian khi chưa biết. Tránh second false promise.
-- 【6】**Post-mortem 24h** — rule cuối: viết Post-mortem (5 Whys, action items) trong 24 giờ. Khách Nhật rất coi trọng.
+- 【1】**SLA 5 phút: Slack #incident + tag Tech lead** — không làm 1 mình. Có dấu thời gian + dự đoán mức severity ban đầu.
+- 【2】**SLA 15 phút: Tech lead → CTO** — anh Tuấn không chần chừ, escalate ngay.
+- 【3】**SLA 30 phút: CTO phân vai liên lạc với khách** — Hà CTO không tự đi báo khách, để Dũng (chủ trì BD) xử lý theo định hướng.
+- 【4】**Báo cáo đầu = thông tin ngắn + mức ảnh hưởng** — không nói nguyên nhân (chưa biết). Chỉ "発生事実 + 影響範囲".
+- 【5】**「現在調査中、ETA は別途」** — không hứa thời gian khi chưa biết. Tránh hứa kép sai lần hai.
+- 【6】**Post-mortem 24h** — quy tắc cuối: viết Post-mortem (5 Whys, hạng mục hành động) trong 24 giờ. Khách Nhật rất coi trọng.
 
 ---
 
@@ -69,16 +80,16 @@ T+24h       Post-mortem report                    (Tuấn + Hà CTO)
 
 ## 🎯 Câu chốt
 
-> **「Sev1 incident は1人で抱え込まない。5分→15分→30分→60分の SLA を守り、各ステップを飛ばさない。客への第一報は『事実 + 影響 + 調査中』のみ、ETA は別途。」**
+> **「Sev1 incident は1人で<ruby>抱<rt>かか</rt></ruby>え込まない。5分→15分→30分→60分の SLA を<ruby>守<rt>まも</rt></ruby>り、<ruby>各<rt>かく</rt></ruby>ステップを<ruby>飛<rt>と</rt></ruby>ばさない。<ruby>客<rt>きゃく</rt></ruby>への<ruby>第一報<rt>だいいっぽう</rt></ruby>は『<ruby>事実<rt>じじつ</rt></ruby> + <ruby>影響<rt>えいきょう</rt></ruby> + <ruby>調査中<rt>ちょうさちゅう</rt></ruby>』のみ、ETA は<ruby>別途<rt>べっと</rt></ruby>。」**
 
 ---
 
 ## ⚠ Tránh
 
-- 1 người im lặng "tự xử" 30 phút trở lên — đã quá SLA tier 1.
-- 第一報 chứa nguyên nhân chưa xác định → second false promise.
+- 1 người im lặng "tự xử" 30 phút trở lên — đã quá SLA bậc 1.
+- 第一報 chứa nguyên nhân chưa xác định → hứa kép sai.
 - ETA 「すぐ」「もうすぐ」 mơ hồ — phải số phút cụ thể.
-- Bỏ Post-mortem → khách Nhật assume team chưa học từ incident.
+- Bỏ Post-mortem → khách Nhật mặc định team chưa rút kinh nghiệm từ sự cố.
 
 ---
 

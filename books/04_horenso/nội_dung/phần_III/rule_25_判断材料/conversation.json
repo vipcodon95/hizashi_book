@@ -9,7 +9,11 @@
     "ja": "ズンが Phase 2 リリース時期（土曜深夜 vs 月曜早朝）でフオン副部長に相談。『どっちがいいですか?』から『判断材料を補強してほしい』へのシフト。",
     "vi": "Em Dũng tham vấn chị Hương về thời điểm release Phase 2 (đêm thứ Bảy vs sáng thứ Hai). Từ 'cái nào hơn?' → 'xin chị bồi dữ kiện cho em'."
   },
-  "related_rules": ["rule_23", "rule_26", "rule_28"],
+  "related_rules": [
+    "rule_23",
+    "rule_26",
+    "rule_28"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -107,7 +111,9 @@
           "sentence": "フオン副部長、Phase 2 リリース時期について、A『土曜深夜』とB『月曜早朝』で悩んでおります。私は B 寄りなのですが、見落としがないか判断材料を補強していただきたく存じます。",
           "sentence_translation": "Chị Hương, về thời điểm release Phase 2 em đang phân vân giữa A 'đêm thứ Bảy' và B 'sáng thứ Hai'. Em đang nghiêng về B, nhưng không biết có bỏ sót gì không, mong chị bồi thêm dữ kiện cho em ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_25_good_02",
@@ -126,7 +132,9 @@
           "sentence": "A 土曜深夜: メリット = ユーザー影響最小、デメリット = エンジニア稼働 + 障害時呼び出し体制が薄い。B 月曜早朝: メリット = フル体制で対応、デメリット = AM ピーク時に近く障害時の影響大。",
           "sentence_translation": "A đêm thứ Bảy: Lợi = ảnh hưởng user tối thiểu, Hại = phải làm thêm + nếu sự cố thì khó gọi người trực. B sáng thứ Hai: Lợi = full team xử lý, Hại = gần peak AM, sự cố thì ảnh hưởng lớn.",
           "tone": "neutral",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_25_good_04",
@@ -136,7 +144,9 @@
           "sentence": "過去 Phase 1 のデプロイは月曜早朝でした。観点として、お客様の月曜業務影響をどう評価すべきかがポイントかと思っております。",
           "sentence_translation": "Phase 1 lần trước em deploy sáng thứ Hai. Theo em axis cần xét là đánh giá ảnh hưởng tới công việc thứ Hai của khách thế nào ạ.",
           "tone": "neutral",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_25_good_05",
@@ -155,7 +165,9 @@
           "sentence": "ありがとうございます。土曜深夜 + トゥアン待機体制で進めます。",
           "sentence_translation": "Em cảm ơn chị. Em sẽ đi với đêm thứ Bảy + chế độ trực của anh Tuấn ạ.",
           "tone": "formal",
-          "annotation_ids": ["4"]
+          "annotation_ids": [
+            "4"
+          ]
         }
       ]
     }
@@ -193,12 +205,12 @@
       "skill": "表現読解",
       "question_ja": "上司への相談で最も適切な聞き方は?",
       "options": [
-        "正解を教えてください",
         "どちらがいいですか?",
         "AとBで悩んでおります。見落としている観点はありますか?",
-        "とりあえず指示してください"
+        "とりあえず指示してください",
+        "正解を教えてください"
       ],
-      "correct": "C",
+      "correct": "B",
       "explanation": {
         "ja": "答えを聞くのではなく『判断材料』『見落としの観点』を聞くのが相談の本質。決定権は相談者側に残る。",
         "vi": "Không hỏi đáp án mà hỏi 'dữ kiện' 'axis bỏ sót' = bản chất tham vấn. Quyền quyết định ở phía người tham vấn."

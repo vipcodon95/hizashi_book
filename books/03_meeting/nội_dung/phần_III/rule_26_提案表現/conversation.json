@@ -9,7 +9,11 @@
     "ja": "Phase 2会議中、ハイがバックログを2スプリントに分割する案を提案。許可→課題→解→意見聞きの4ステップで切り出す。",
     "vi": "Họp phase 2, em Hải đề xuất chia backlog thành 2 sprint thay vì 1. Cấu trúc 4 bước: xin phép → vấn đề → giải pháp → mời feedback."
   },
-  "related_rules": ["rule_19", "rule_23", "rule_27"],
+  "related_rules": [
+    "rule_19",
+    "rule_23",
+    "rule_27"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -79,7 +83,9 @@
           "sentence": "ひとつご提案させていただいてもよろしいでしょうか？",
           "sentence_translation": "Em xin được đề xuất 1 ý có được không ạ?",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_26_good_02",
@@ -98,7 +104,10 @@
           "sentence": "現在のバックログ規模ですと、1スプリントで完了するにはリスクがあるかと存じます。そこで、優先度別に2スプリントに分割し、第1スプリントでコア機能、第2スプリントで拡張機能、という構成はいかがでしょうか？皆様のご意見を頂戴できればと存じます。",
           "sentence_translation": "Với khối lượng backlog hiện tại, em e là làm 1 sprint sẽ có rủi ro ạ. Nên em xin đề xuất chia thành 2 sprint theo độ ưu tiên — sprint 1 làm core, sprint 2 làm tính năng mở rộng — anh/chị thấy thế nào ạ? Em rất mong nhận được góp ý ạ.",
           "tone": "formal",
-          "annotation_ids": ["2", "3"]
+          "annotation_ids": [
+            "2",
+            "3"
+          ]
         },
         {
           "line_id": "rule_26_good_04",
@@ -137,12 +146,12 @@
       "skill": "表現読解",
       "question_ja": "顧客に新しいアイデアを提案する時、最も適切な切り出しはどれか？",
       "options": [
+        "こうしましょう",
         "私の意見では〜するべきです",
-        "ひとつご提案させていただいてもよろしいでしょうか？",
         "絶対これがいいです",
-        "こうしましょう"
+        "ひとつご提案させていただいてもよろしいでしょうか？"
       ],
-      "correct": "B",
+      "correct": "D",
       "explanation": {
         "ja": "「ご提案させていただいてもよろしいでしょうか」が許可を求めつつ控えめに切り出す標準形。",
         "vi": "「ご提案させていただいてもよろしいでしょうか」 là câu chuẩn xin phép + mở khiêm tốn."

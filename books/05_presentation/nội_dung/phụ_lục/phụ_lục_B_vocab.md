@@ -22,7 +22,7 @@
 | 結論 | けつろん | Kết luận | rule_02 |
 | 根拠 | こんきょ | Luận cứ / căn cứ | rule_02 |
 | 削減 | さくげん | Cắt giảm | rule_02 |
-| 認知負荷 | にんちふか | Tải nhận thức (cognitive load) | rule_02 |
+| 認知負荷 | にんちふか | Tải nhận thức | rule_02 |
 | 改善 | かいぜん | Cải thiện | rule_02 |
 | スキャン | sukyan | Quét nhanh | rule_02 |
 | 共通認識 | きょうつうにんしき | Nhận thức chung | rule_03 |
@@ -96,11 +96,11 @@
 | 売り急ぎ | うりいそぎ | Vội bán hàng | rule_12 |
 | 革命的 | かくめいてき | Cách mạng (hype word) | rule_12 |
 | 詐欺 | さぎ | Lừa đảo | rule_12 |
-| 枠 | わく | Khung / slot | rule_13 |
+| 枠 | わく | Khung giờ / suất giờ | rule_13 |
 | 切り替え | きりかえ | Chuyển đổi | rule_13 |
 | 経過 | けいか | Đã trôi qua | rule_13 |
-| タイマー | taimaa | Timer | rule_13 |
-| 可視化 | かしか | Visualization | rule_13 |
+| タイマー | taimaa | Đồng hồ đếm giờ | rule_13 |
+| 可視化 | かしか | Trực quan hóa | rule_13 |
 | 頑張って | がんばって | Cố gắng (vague — tránh khi commit) | rule_13 |
 | 好印象 | こういんしょう | Ấn tượng tốt | rule_13 |
 
@@ -174,7 +174,7 @@
 | 漢字 / Tiếng Nhật | Cách đọc (Romaji) | Nghĩa Việt | Lần đầu xuất hiện |
 |------|------|------|------|
 | 質疑応答 | しつぎおうとう | Q&A | rule_22 |
-| 沈黙 | ちんもく | Silence | rule_22 |
+| 沈黙 | ちんもく | Sự im lặng | rule_22 |
 | 挙手 | きょしゅ | Giơ tay | rule_22 |
 | 構いません | かまいません | Không sao / không vấn đề | rule_22 |
 | 承る | うけたまわる | (Khiêm) tiếp nhận, lắng nghe | rule_22 |

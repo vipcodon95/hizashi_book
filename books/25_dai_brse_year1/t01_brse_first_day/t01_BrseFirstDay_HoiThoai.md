@@ -166,7 +166,7 @@
 |---|---|
 | Đại | (đứng lên, cúi nhẹ về phía Thanh và cohort) お<ruby>先<rt>さき</rt></ruby>に<ruby>失礼<rt>しつれい</rt></ruby>いたします。<ruby>本日<rt>ほんじつ</rt></ruby>はありがとうございました。<br>*(Em xin phép về trước. Hôm nay cảm ơn các anh chị.)* |
 | Thanh | お<ruby>疲<rt>つか</rt></ruby>れさまでした。<ruby>初日<rt>しょにち</rt></ruby>どうでしたか?<br>*(Em vất vả rồi. Ngày đầu thế nào?)* |
-| Đại | はい、<ruby>大変勉強<rt>たいへんべんきょう</rt></ruby>になりました。<ruby>明日<rt>あした</rt></ruby>もよろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。<br>*(Vâng, em học được rất nhiều ạ. Mai mong anh tiếp tục chỉ bảo.)* |
+| Đại | はい、<ruby>大変<rt>たいへん</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>になりました。<ruby>明日<rt>あした</rt></ruby>もよろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。<br>*(Vâng, em học được rất nhiều ạ. Mai mong anh tiếp tục chỉ bảo.)* |
 | Tanaka | (đi ngang) グエンさん、<ruby>初日<rt>しょにち</rt></ruby>お<ruby>疲<rt>つか</rt></ruby>れさまでした!<br>*(Đại, ngày đầu vất vả rồi!)* |
 | Đại | (cúi 30 độ) <ruby>田中部長<rt>たなかぶちょう</rt></ruby>、<ruby>本日<rt>ほんじつ</rt></ruby>はありがとうございました。お<ruby>先<rt>さき</rt></ruby>に<ruby>失礼<rt>しつれい</rt></ruby>いたします。<br>*(Anh trưởng phòng Tanaka, hôm nay cảm ơn anh. Em xin phép về trước.)* |
 | Cohort | お<ruby>疲<rt>つか</rt></ruby>れさまでした!<br>*(Vất vả rồi!)* |

@@ -1,6 +1,6 @@
 # Rule 28 — Hiroshima — Carp + 重ね焼き + 牡蠣 + 宮島 / 広島
 
-> **Luận điểm.** Hiroshima =**3 niềm tự hào không thể đụng**: (1) **広島東洋カープ** (赤いユニフォーム狂熱fanクラブ), (2) **広島お好み焼 = 重ね焼き** (KHÔNG混ぜ焼き Osaka), (3) **牡蠣 (国内シェア60%)** + **宮島**. Khách Hiroshima như anh Hiroshi — nhắc 1 trong 3 = unlock 1 tiếng nói chuyện. Phân biệt **広島市 ≠ 広島県** (尾道, 福山, 呉 là 県内 nhưng不同 city).
+> **Luận điểm.** Hiroshima =**3 niềm tự hào không thể đụng**: (1) **広島東洋カープ** (đội bóng cuồng nhiệt áo đỏ 赤いユニフォーム), (2) **広島お好み焼 = 重ね焼き** (KHÔNG混ぜ焼き Osaka), (3) **牡蠣 (国内シェア60%)** + **宮島**. Khách Hiroshima như anh Hiroshi — nhắc 1 trong 3 = mở khóa 1 tiếng nói chuyện. Phân biệt **広島市 ≠ 広島県** (尾道, 福山, 呉 là 県内 nhưng khác thành phố).
 
 > **Ronten.** 広島県人の3大誇り: ①カープ熱狂応援, ②お好み焼の重ね焼き(大阪混ぜ焼きと別物), ③牡蠣(全国シェア60%)+宮島。1つ振れば1時間続く。
 
@@ -8,7 +8,7 @@
 
 ## 🧠 Tâm lý JP
 
-- カープファン = 信仰. **赤いユニフォーム** mặc đi nhậu. **マツダスタジアム** = thánh địa. **緒方/新井/黒田** legend names.
+- カープファン = 信仰. **赤いユニフォーム** mặc đi nhậu. **マツダスタジアム** = thánh địa. **緒方/新井/黒田** là những tên tuổi huyền thoại.
 - お好み焼: **広島流 重ね焼き** (生地→キャベツ→豚→そば/うどん→卵 順番) ≠ **大阪流 混ぜ焼き** → 同じ物 nhưng triết lý khác. **ふみちゃん**, **みっちゃん**, **電光石火** là 3 quán bậc nhất.
 - **牡蠣**: 全国シェア **60%以上** (広島湾). **冬の旬**. **生牡蠣** + **カキフライ** + **土手鍋**.
 - **宮島**: 厳島神社 (UNESCO 1996), 海の中の鳥居, 弥山.
@@ -18,7 +18,7 @@
 
 ## 🎬 Bối cảnh
 
-Tháng 10/2026, anh Hiroshi 部長 (関西支店長 gốc Hiroshima) mời Dũng + Tuấn + Hà CTO sang **Hiroshima** 2 ngày offsite kết hợp visit. Lịch: chiều xuống đến 広島駅 → ăn お好み焼 ở **お好み村** → tối uống ở 流川 (Hiroshima nightlife) → sáng sau đi **宮島** → trưa ăn **牡蠣** ở **焼がきのはやし** → chiều **マツダスタジアム** xem game (nếu mùa).
+Tháng 10/2026, anh Hiroshi 部長 (関西支店長 gốc Hiroshima) mời Dũng + Tuấn + Hà CTO sang **Hiroshima** 2 ngày họp ngoài văn phòng kết hợp tham quan. Lịch: chiều xuống đến 広島駅 → ăn お好み焼 ở **お好み村** → tối uống ở 流川 (khu vui chơi về đêm Hiroshima) → sáng sau đi **宮島** → trưa ăn **牡蠣** ở **焼がきのはやし** → chiều **マツダスタジアム** xem trận đấu (nếu đúng mùa).
 
 ---
 
@@ -30,37 +30,55 @@ Tháng 10/2026, anh Hiroshi 部長 (関西支店長 gốc Hiroshima) mời Dũng
 
 | Vai | Câu |
 |---------|-----|
-| **hiroshi_chugoku** | 「ズンさん、ここが**お好み村**じゃ。**新天地**いう繁華街にあって、**3階建て約20店舗**集まっとるんよ。広島お好み焼の聖地じゃけぇ。」 |
-| **ズン** | 「『じゃけぇ』、**広島弁**ですね。25店舗もあるんですか…どこ行きますか?」 |
-| **hiroshi_chugoku** | 「**麗ちゃん**にしよう、ここは老舗中の老舗。創業半世紀以上。広島お好み焼の**重ね焼き**は、**順番が命**じゃ。」 |
-| **ズン** | 「**生地→キャベツ→もやし→豚バラ→そば(or うどん)→卵→ソース**、ですよね。」 |
-| **hiroshi_chugoku** | 「**そば派かうどん派かまで知っとる**かい。広島は**そば派が多数**、**うどん派**は少数派でほっこりするんよ。**そば**の方が**炒めた香ばしさ**が出るけえな。」 |
-| **ズン** | 「ソースは**オタフクソース**ですよね、地元ブランド。」 |
-| **hiroshi_chugoku** | 「**オタフク**ね!**1922年広島創業**、お好み焼ソース全国シェア**6割**。冷蔵庫にオタフクないと広島人やない言われるくらい。」 |
-| **ハー (ha_cto)** | 「広島の方が大阪の方より、お好み焼へのこだわりが強い印象です。」 |
-| **hiroshi_chugoku** | 「そう感じる?**広島は『焼く技術』を競う**、**大阪は『混ぜる材料』を競う**。哲学が違うんじゃ。」 |
+| **hiroshi_chugoku** | 「ズンさん、ここが**お<ruby>好<rt>この</rt></ruby>み<ruby>村<rt>むら</rt></ruby>**じゃ。**<ruby>新天地<rt>しんてんち</rt></ruby>**いう<ruby>繁華街<rt>はんかがい</rt></ruby>にあって、**3<ruby>階建<rt>かいだ</rt></ruby>て<ruby>約<rt>やく</rt></ruby>20<ruby>店舗<rt>てんぽ</rt></ruby>**<ruby>集<rt>あつ</rt></ruby>まっとるんよ。広島お好み焼の<ruby>聖地<rt>せいち</rt></ruby>じゃけぇ。」 |
+|  | *Em Dũng, đây là Okonomimura. Ở khu Shintenchi, 3 tầng khoảng 20 quán. Thánh địa okonomiyaki Hiroshima.* |
+| **ズン** | 「『じゃけぇ』、**<ruby>広島弁<rt>ひろしまべん</rt></ruby>**ですね。25店舗もあるんですか…どこ行きますか?」 |
+|  | *'Jakē', Hiroshima-ben nhỉ. 25 quán cơ. Mình vào quán nào?* |
+| **hiroshi_chugoku** | 「**<ruby>麗<rt>れい</rt></ruby>ちゃん**にしよう、ここは<ruby>老舗<rt>しにせ</rt></ruby>中の老舗。<ruby>創業<rt>そうぎょう</rt></ruby><ruby>半世紀<rt>はんせいき</rt></ruby>以上。広島お好み焼の**<ruby>重<rt>かさ</rt></ruby>ね<ruby>焼<rt>や</rt></ruby>き**は、**<ruby>順番<rt>じゅんばん</rt></ruby>が<ruby>命<rt>いのち</rt></ruby>**じゃ。」 |
+|  | *Reichan đi, lâu đời nhất. Khai trương hơn nửa thế kỷ. Kasaneyaki Hiroshima thì thứ tự là tinh thần.* |
+| **ズン** | 「**<ruby>生地<rt>きじ</rt></ruby>→キャベツ→もやし→<ruby>豚<rt>ぶた</rt></ruby>バラ→そば(or うどん)→<ruby>卵<rt>たまご</rt></ruby>→ソース**、ですよね。」 |
+|  | *Bột → bắp cải → giá → ba chỉ → soba (hoặc udon) → trứng → sốt nhỉ.* |
+| **hiroshi_chugoku** | 「**そば<ruby>派<rt>は</rt></ruby>かうどん派かまで知っとる**かい。広島は**そば派が<ruby>多数<rt>たすう</rt></ruby>**、**うどん派**は<ruby>少数派<rt>しょうすうは</rt></ruby>でほっこりするんよ。**そば**の方が**<ruby>炒<rt>いた</rt></ruby>めた<ruby>香<rt>こう</rt></ruby>ばしさ**が出るけえな。」 |
+|  | *Em biết cả phe soba/udon à. Hiroshima đa số phe soba, udon ít, ấm áp. Soba thơm hơn khi xào.* |
+| **ズン** | 「ソースは**オタフクソース**ですよね、<ruby>地元<rt>じもと</rt></ruby>ブランド。」 |
+|  | *Sốt thì Otafuku sauce nhỉ, thương hiệu địa phương.* |
+| **hiroshi_chugoku** | 「**オタフク**ね!**1922<ruby>年<rt>ねん</rt></ruby>広島<ruby>創業<rt>そうぎょう</rt></ruby>**、お好み焼ソース全国シェア**6<ruby>割<rt>わり</rt></ruby>**。<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>にオタフクないと広島人やない言われるくらい。」 |
+|  | *Otafuku! 1922 Hiroshima, sốt okonomiyaki 60% cả nước. Tủ lạnh không có Otafuku là không phải dân Hiroshima.* |
+| **ハー (ha_cto)** | 「広島の方が大阪の方より、お好み焼へのこだわりが強い<ruby>印象<rt>いんしょう</rt></ruby>です。」 |
+|  | *Hiroshima có vẻ kỹ tính hơn Osaka về okonomiyaki.* |
+| **hiroshi_chugoku** | 「そう感じる?**広島は『<ruby>焼<rt>や</rt></ruby>く<ruby>技術<rt>ぎじゅつ</rt></ruby>』を<ruby>競<rt>きそ</rt></ruby>う**、**大阪は『<ruby>混<rt>ま</rt></ruby>ぜる<ruby>材料<rt>ざいりょう</rt></ruby>』を競う**。<ruby>哲学<rt>てつがく</rt></ruby>が違うんじゃ。」 |
+|  | *Cảm thấy thế à? Hiroshima thi 'kỹ thuật nướng', Osaka thi 'nguyên liệu trộn'. Triết lý khác.* |
 
-> **VN:** Tier S++ depth: お好み村 3階約20店舗 + 麗ちゃん 半世紀以上 + 重ね焼き 7 step順 + そば派 vs うどん派 + オタフクソース 1922 60% + 「焼く技術 vs 混ぜる材料」哲学. **「じゃけぇ」**「じゃ」 Hiroshima-ben tự nhiên.
+> **VN:** Tier S++ chiều sâu: お好み村 3階約20店舗 + 麗ちゃん 半世紀以上 + 重ね焼き 7 bước順 + そば派 vs うどん派 + オタフクソース 1922 60% + 「焼く技術 vs 混ぜる材料」哲学. **「じゃけぇ」**「じゃ」 Hiroshima-ben tự nhiên.
 
 ---
 
-### 📍 Scenario 2 — Tối 流川 — カープ topic full ブースト
+### 📍 Scenario 2 — Tối 流川 — カープ chủ đề full ブースト
 
 *uống ビール ở 居酒屋 流川 · chuẩn bị kỹ · 目を輝かせる · 目が潤む*
 
 | Vai | Câu |
 |---------|-----|
 | **hiroshi_chugoku** | 「ズンさん、カープのこと、どれくらい知っとる?」 |
-| **ズン** | 「**広島東洋カープ**、**1949年創設**、**市民球団**の歴史で有名ですよね。**マツダスタジアム**(正式名 MAZDA Zoom-Zoom スタジアム広島)が本拠地。」 |
-| **hiroshi_chugoku** | 「市民球団!**樽募金**で球団続けた話、知っとるんか?**1951年**、潰れそうになったとき、**広島市民が樽に募金**して球団救った。あれが**カープのDNA**じゃけぇ。」 |
-| **ズン** | 「だから**赤い帽子に B のマーク**は、広島市民にとって**シンボル以上**…」 |
-| **hiroshi_chugoku** | 「正解!最近の**新井監督**もええよ。**新井さん**、引退してから監督就任、**カープ生え抜き**じゃけぇな。」 |
-| **ズン** | 「**黒田博樹さん**もカープ復帰の話は感動的でした。**メジャー帰り**で年俸激減でもカープに戻った…」 |
-| **hiroshi_chugoku** | 「『**男気黒田**』ね…広島県人みんな泣いた。**2016年25年ぶり優勝**、あれは黒田さんの最後のシーズンじゃった。」 |
-| **ズン** | 「**鯉のぼり**で球場全体が応援する**ジェット風船7回**、いつか実体験したいです。」 |
-| **hiroshi_chugoku** | 「明日、**マツダスタジアム**行こう!**カープうどん**食って、**カープビール**飲んで、**スクワット応援**しようや!」 |
+|  | *Em Dũng, biết về Carp đến đâu?* |
+| **ズン** | 「**広島東洋カープ**、**1949<ruby>年<rt>ねん</rt></ruby><ruby>創設<rt>そうせつ</rt></ruby>**、**<ruby>市民球団<rt>しみんきゅうだん</rt></ruby>**の<ruby>歴史<rt>れきし</rt></ruby>で有名ですよね。**マツダスタジアム**(<ruby>正式名<rt>せいしきめい</rt></ruby> MAZDA Zoom-Zoom スタジアム広島)が<ruby>本拠地<rt>ほんきょち</rt></ruby>。」 |
+|  | *Hiroshima Tōyō Carp, thành lập 1949, đội bóng dân nổi tiếng. Sân nhà MAZDA Zoom-Zoom Stadium.* |
+| **hiroshi_chugoku** | 「市民球団!**<ruby>樽募金<rt>たるぼきん</rt></ruby>**で<ruby>球団<rt>きゅうだん</rt></ruby>続けた話、知っとるんか?**1951年**、<ruby>潰<rt>つぶ</rt></ruby>れそうになったとき、**広島<ruby>市民<rt>しみん</rt></ruby>が樽に<ruby>募金<rt>ぼきん</rt></ruby>**して球団<ruby>救<rt>すく</rt></ruby>った。あれが**カープのDNA**じゃけぇ。」 |
+|  | *Đội dân! Em biết chuyện quyên thùng à? 1951, đội sắp phá sản, dân Hiroshima quyên góp vào thùng cứu đội. Đó là DNA Carp.* |
+| **ズン** | 「だから**赤い<ruby>帽子<rt>ぼうし</rt></ruby>に B のマーク**は、広島市民にとって**<ruby>象徴<rt>しょうちょう</rt></ruby>以上**…」 |
+|  | *Vậy nên mũ đỏ chữ B với dân Hiroshima là biểu tượng hơn cả...* |
+| **hiroshi_chugoku** | 「<ruby>正解<rt>せいかい</rt></ruby>!最近の**<ruby>新井<rt>あらい</rt></ruby><ruby>監督<rt>かんとく</rt></ruby>**もええよ。**新井さん**、<ruby>引退<rt>いんたい</rt></ruby>してから監督<ruby>就任<rt>しゅうにん</rt></ruby>、**カープ<ruby>生<rt>は</rt></ruby>え<ruby>抜<rt>ぬ</rt></ruby>き**じゃけぇな。」 |
+|  | *Đúng! HLV Arai gần đây cũng tốt. Anh Arai, nghỉ thi đấu rồi nhận HLV, người Carp gốc.* |
+| **ズン** | 「**<ruby>黒田博樹<rt>くろだひろき</rt></ruby>さん**もカープ<ruby>復帰<rt>ふっき</rt></ruby>の話は<ruby>感動的<rt>かんどうてき</rt></ruby>でした。**メジャー<ruby>帰<rt>がえ</rt></ruby>り**で<ruby>年俸<rt>ねんぽう</rt></ruby><ruby>激減<rt>げきげん</rt></ruby>でもカープに戻った…」 |
+|  | *Anh Kuroda Hiroki trở về Carp cũng cảm động. Từ MLB về dù lương giảm mạnh...* |
+| **hiroshi_chugoku** | 「『**<ruby>男気<rt>おとこぎ</rt></ruby>黒田**』ね…広島県人みんな泣いた。**2016年25年ぶり<ruby>優勝<rt>ゆうしょう</rt></ruby>**、あれは黒田さんの最後のシーズンじゃった。」 |
+|  | *'Otokogi Kuroda' đó... dân Hiroshima đều khóc. 2016 vô địch sau 25 năm, là mùa cuối của anh Kuroda.* |
+| **ズン** | 「**<ruby>鯉<rt>こい</rt></ruby>のぼり**で<ruby>球場<rt>きゅうじょう</rt></ruby>全体が応援する**ジェット<ruby>風船<rt>ふうせん</rt></ruby>7回**、いつか<ruby>実体験<rt>じったいけん</rt></ruby>したいです。」 |
+|  | *Cờ cá chép cả sân, bóng bay tầng 7, em muốn trải nghiệm.* |
+| **hiroshi_chugoku** | 「明日、**マツダスタジアム**行こう!**カープうどん**食って、**カープビール**飲んで、**スクワット<ruby>応援<rt>おうえん</rt></ruby>**しようや!」 |
+|  | *Mai đi Mazda Stadium! Ăn Carp udon, uống Carp beer, cổ vũ squat luôn!* |
 
-> **VN:** Tier S++ Carp depth: 1949創設 + 市民球団 + 樽募金 1951 + Bマーク + 新井監督 + 黒田博樹 男気帰国 + 2016 25年ぶり優勝 + ジェット風船7回 + スクワット応援. Anh Hiroshi泣くレベル of cảm động.
+> **VN:** Tier S++ chiều sâu Carp: 1949創設 + 市民球団 + 樽募金 1951 + Bマーク + 新井監督 + 黒田博樹 男気帰国 + 2016 25年ぶり優勝 + ジェット風船7回 + スクワット応援. Mức cảm động khiến anh Hiroshi rơi nước mắt.
 
 ---
 
@@ -70,37 +88,55 @@ Tháng 10/2026, anh Hiroshi 部長 (関西支店長 gốc Hiroshima) mời Dũng
 
 | Vai | Câu |
 |---------|-----|
-| **hiroshi_chugoku** | 「**宮島**は**1996年UNESCO世界遺産**、**日本三景**の一つ。**厳島神社**、海の中に立つ**朱塗りの大鳥居**は世界的にも有名じゃ。」 |
-| **ズン** | 「**日本三景**は**松島(宮城)・天橋立(京都)・宮島**ですよね。**厳島神社**は**593年創建**、**平清盛**が**1168年**に現在の規模に拡張した、と。」 |
-| **hiroshi_chugoku** | 「**平清盛**まで…ズンさん、ガイドブック1冊全部覚えたんか(笑)」 |
-| **ズン** | 「**鳥居**は**満潮時**は海に浮かんで見え、**干潮時**は歩いて行ける、ですよね。」 |
-| **hiroshi_chugoku** | 「そう、潮の時間で表情が変わる。あの**鳥居**は**自重で立っとる**、地中に埋めとらんのよ。」 |
-| **ハー** | 「弥山(みせん)、ロープウェイで上がれるんですよね?」 |
-| **hiroshi_chugoku** | 「**弥山**は標高535m、**1200年以上消えていない『消えずの霊火』**があるんよ。**広島平和記念公園の『平和の灯』**もここから採火された。」 |
-| **ズン** | 「**もみじ饅頭**は宮島発祥ですよね、**藤い屋**と**やまだ屋**…」 |
-| **hiroshi_chugoku** | 「うわ、**もみじ饅頭の名店**まで…!**藤い屋**(1925年)と**やまだ屋**(1932年)が二大老舗。最近は**揚げもみじ**もあるんよ、**博多屋**の名物。」 |
+| **hiroshi_chugoku** | 「**<ruby>宮島<rt>みやじま</rt></ruby>**は**1996年UNESCO<ruby>世界遺産<rt>せかいいさん</rt></ruby>**、**<ruby>日本三景<rt>にほんさんけい</rt></ruby>**の一つ。**<ruby>厳島神社<rt>いつくしまじんじゃ</rt></ruby>**、海の中に立つ**<ruby>朱塗<rt>しゅぬ</rt></ruby>りの<ruby>大鳥居<rt>おおとりい</rt></ruby>**は<ruby>世界的<rt>せかいてき</rt></ruby>にも有名じゃ。」 |
+|  | *Miyajima là UNESCO 1996, 1 trong Nihon Sankei. Đền Itsukushima, cổng đỏ giữa biển nổi tiếng thế giới.* |
+| **ズン** | 「**日本三景**は**<ruby>松島<rt>まつしま</rt></ruby>(<ruby>宮城<rt>みやぎ</rt></ruby>)・<ruby>天橋立<rt>あまのはしだて</rt></ruby>(京都)・宮島**ですよね。**厳島神社**は**593<ruby>年<rt>ねん</rt></ruby><ruby>創建<rt>そうけん</rt></ruby>**、**<ruby>平清盛<rt>たいらのきよもり</rt></ruby>**が**1168年**に<ruby>現在<rt>げんざい</rt></ruby>の<ruby>規模<rt>きぼ</rt></ruby>に<ruby>拡張<rt>かくちょう</rt></ruby>した、と。」 |
+|  | *Nihon Sankei: Matsushima (Miyagi), Amanohashidate (Kyoto), Miyajima. Itsukushima xây 593, Taira no Kiyomori mở rộng 1168.* |
+| **hiroshi_chugoku** | 「**平清盛**まで…ズンさん、ガイドブック1冊全部<ruby>覚<rt>おぼ</rt></ruby>えたんか(笑)」 |
+|  | *Cả Kiyomori... Em đọc thuộc cả guidebook à (cười).* |
+| **ズン** | 「**<ruby>鳥居<rt>とりい</rt></ruby>**は**<ruby>満潮時<rt>まんちょうじ</rt></ruby>**は海に<ruby>浮<rt>う</rt></ruby>かんで見え、**<ruby>干潮時<rt>かんちょうじ</rt></ruby>**は歩いて行ける、ですよね。」 |
+|  | *Cổng triều cao thì nổi trên biển, triều thấp thì đi bộ tới được nhỉ.* |
+| **hiroshi_chugoku** | 「そう、<ruby>潮<rt>しお</rt></ruby>の時間で<ruby>表情<rt>ひょうじょう</rt></ruby>が変わる。あの**鳥居**は**<ruby>自重<rt>じじゅう</rt></ruby>で立っとる**、<ruby>地中<rt>ちちゅう</rt></ruby>に<ruby>埋<rt>う</rt></ruby>めとらんのよ。」 |
+|  | *Đúng, theo giờ thủy triều mà đổi diện mạo. Cổng đó tự đứng bằng trọng lực, không chôn dưới đất.* |
+| **ハー** | 「<ruby>弥山<rt>みせん</rt></ruby>、ロープウェイで<ruby>上<rt>あ</rt></ruby>がれるんですよね?」 |
+|  | *Núi Misen, đi cáp được nhỉ?* |
+| **hiroshi_chugoku** | 「**弥山**は<ruby>標高<rt>ひょうこう</rt></ruby>535m、**1200年以上<ruby>消<rt>き</rt></ruby>えていない『<ruby>消<rt>き</rt></ruby>えずの<ruby>霊火<rt>れいか</rt></ruby>』**があるんよ。**広島<ruby>平和記念公園<rt>へいわきねんこうえん</rt></ruby>の『<ruby>平和<rt>へいわ</rt></ruby>の<ruby>灯<rt>ともしび</rt></ruby>』**もここから<ruby>採火<rt>さいか</rt></ruby>された。」 |
+|  | *Misen 535m, có 'lửa không tắt' hơn 1200 năm. Lửa 'Bình hòa chi đăng' ở công viên hòa bình Hiroshima cũng lấy từ đây.* |
+| **ズン** | 「**もみじ<ruby>饅頭<rt>まんじゅう</rt></ruby>**は宮島<ruby>発祥<rt>はっしょう</rt></ruby>ですよね、**<ruby>藤<rt>ふじ</rt></ruby>い屋**と**やまだ屋**…」 |
+|  | *Momiji manjū gốc Miyajima nhỉ, Fujiya và Yamadaya...* |
+| **hiroshi_chugoku** | 「うわ、**もみじ饅頭の<ruby>名店<rt>めいてん</rt></ruby>**まで…!**藤い屋**(1925年)と**やまだ屋**(1932年)が<ruby>二大老舗<rt>にだいしにせ</rt></ruby>。最近は**<ruby>揚<rt>あ</rt></ruby>げもみじ**もあるんよ、**<ruby>博多屋<rt>はかたや</rt></ruby>**の<ruby>名物<rt>めいぶつ</rt></ruby>。」 |
+|  | *Ồ, cả quán momiji manjū... Fujiya (1925) và Yamadaya (1932) lâu đời. Giờ có cả age-momiji, đặc sản Hakataya.* |
 
-> **VN:** Tier S++ Miyajima: 1996 UNESCO + 日本三景 (3 names) + 593創建 + 平清盛 1168拡張 + 鳥居自重立ち + 弥山 535m + 1200年消えずの霊火 + 平和記念公園 平和の灯 + もみじ饅頭 藤い屋/やまだ屋/揚げもみじ 博多屋.
+> **VN:** Tier S++ chiều sâu Miyajima: 1996 UNESCO + 日本三景 (3 tên) + 593創建 + 平清盛 1168拡張 + 鳥居自重立ち + 弥山 535m + 1200年消えずの霊火 + 平和記念公園 平和の灯 + もみじ饅頭 藤い屋/やまだ屋/揚げもみじ 博多屋.
 
 ---
 
-### 📍 Scenario 4 — Trưa 牡蠣 ở 焼がきのはやし — 牡蠣 depth + 平和記念公園 mention
+### 📍 Scenario 4 — Trưa 牡蠣 ở 焼がきのはやし — chiều sâu 牡蠣 + nhắc đến 平和記念公園
 
 *焼がきのはやし · 慎重に · しばらく沈黙、yên trang trọng · 明るく戻る*
 
 | Vai | Câu |
 |---------|-----|
-| **hiroshi_chugoku** | 「**広島の牡蠣**は**全国シェア60%**。**広島湾**の海水温・栄養が完璧でな。**冬12月-2月が旬**、今は**かきフライ**で食えるんよ。」 |
-| **ズン** | 「**生牡蠣**、**カキフライ**、**土手鍋**、**かきめし**…広島スタイル多いですね。」 |
-| **hiroshi_chugoku** | 「**土手鍋**は**味噌で土手を作って**牡蠣と豆腐入れる、**広島の冬**の定番じゃ。**家庭料理**でな、店じゃあんまり出さん。」 |
-| **ハー** | 「ところで広島は**穴子**も有名と聞きました。」 |
-| **hiroshi_chugoku** | 「**宮島の穴子飯**!**うえの**って店、**1901年創業**、**駅弁**としても有名。さっき食えばよかった(笑)」 |
+| **hiroshi_chugoku** | 「**広島の<ruby>牡蠣<rt>かき</rt></ruby>**は**全国シェア60%**。**<ruby>広島湾<rt>ひろしまわん</rt></ruby>**の<ruby>海水温<rt>かいすいおん</rt></ruby>・<ruby>栄養<rt>えいよう</rt></ruby>が<ruby>完璧<rt>かんぺき</rt></ruby>でな。**冬12月-2月が<ruby>旬<rt>しゅん</rt></ruby>**、今は**かきフライ**で食えるんよ。」 |
+|  | *Hàu Hiroshima 60% cả nước. Vịnh Hiroshima nhiệt độ và dinh dưỡng hoàn hảo. Mùa 12-2, giờ ăn được kaki-fry.* |
+| **ズン** | 「**<ruby>生牡蠣<rt>なまがき</rt></ruby>**、**カキフライ**、**<ruby>土手鍋<rt>どてなべ</rt></ruby>**、**かきめし**…広島スタイル多いですね。」 |
+|  | *Hàu sống, kaki-fry, dote-nabe, kakimeshi... nhiều món kiểu Hiroshima.* |
+| **hiroshi_chugoku** | 「**土手鍋**は**<ruby>味噌<rt>みそ</rt></ruby>で<ruby>土手<rt>どて</rt></ruby>を作って**牡蠣と<ruby>豆腐<rt>とうふ</rt></ruby>入れる、**広島の冬**の<ruby>定番<rt>ていばん</rt></ruby>じゃ。**<ruby>家庭料理<rt>かていりょうり</rt></ruby>**でな、店じゃあんまり出さん。」 |
+|  | *Dote-nabe là làm 'đê' bằng miso, cho hàu + đậu phụ vào. Món gia đình mùa đông Hiroshima. Quán ít bán.* |
+| **ハー** | 「ところで広島は**<ruby>穴子<rt>あなご</rt></ruby>**も有名と聞きました。」 |
+|  | *Mà Hiroshima nổi tiếng cả lươn anago em nghe.* |
+| **hiroshi_chugoku** | 「**宮島の<ruby>穴子飯<rt>あなごめし</rt></ruby>**!**うえの**って店、**1901年創業**、**<ruby>駅弁<rt>えきべん</rt></ruby>**としても有名。さっき食えばよかった(笑)」 |
+|  | *Anagomeshi Miyajima! Quán Ueno, từ 1901, nổi tiếng cả ekiben. Lúc nãy nên ăn (cười).* |
 | **ズン** | 「広島駅のすぐ近くに**平和記念公園**もあると聞きました。次回、ご一緒できたら…」 |
-| **hiroshi_chugoku** | 「…ありがとう、ズンさん。広島県人として、**外の方が公園を訪れて、考えてくださる**こと、本当に嬉しいんじゃ。**原爆ドーム**もUNESCO世界遺産でな。**毎年8月6日**、市内全体が静かになる。次回、ご案内するけえな。」 |
-| **ズン** | 「**サンフレッチェ広島**もJリーグで強豪ですよね。」 |
-| **hiroshi_chugoku** | 「お、サッカーも知っとるか!**サンフレッチェ**は**毛利元就**の三本の矢から命名。**カープ**と**サンフレッチェ**、**広島は赤と紫**じゃ!」 |
+|  | *Em nghe gần ga Hiroshima có Heiwa Kinen Kōen. Lần sau nếu được cùng anh...* |
+| **hiroshi_chugoku** | 「…ありがとう、ズンさん。広島県人として、**<ruby>外<rt>そと</rt></ruby>の方が公園を<ruby>訪<rt>おとず</rt></ruby>れて、考えてくださる**こと、本当に<ruby>嬉<rt>うれ</rt></ruby>しいんじゃ。**<ruby>原爆<rt>げんばく</rt></ruby>ドーム**もUNESCO世界遺産でな。**毎年8月6日**、<ruby>市内<rt>しない</rt></ruby>全体が静かになる。次回、ご<ruby>案内<rt>あんない</rt></ruby>するけえな。」 |
+|  | *...Cảm ơn em. Là dân Hiroshima, người ngoài đến thăm công viên và suy ngẫm, anh thật lòng vui. Atomic Bomb Dome là UNESCO. Hàng năm 6/8 cả thành phố lặng yên. Lần sau tôi dẫn em.* |
+| **ズン** | 「**サンフレッチェ広島**もJリーグで<ruby>強豪<rt>きょうごう</rt></ruby>ですよね。」 |
+|  | *Sanfrecce Hiroshima cũng mạnh ở J-League nhỉ.* |
+| **hiroshi_chugoku** | 「お、サッカーも知っとるか!**サンフレッチェ**は**<ruby>毛利元就<rt>もうりもとなり</rt></ruby>**の<ruby>三本<rt>さんぼん</rt></ruby>の<ruby>矢<rt>や</rt></ruby>から<ruby>命名<rt>めいめい</rt></ruby>。**カープ**と**サンフレッチェ**、**広島は<ruby>赤<rt>あか</rt></ruby>と<ruby>紫<rt>むらさき</rt></ruby>**じゃ!」 |
+|  | *Ồ biết cả bóng đá! Sanfrecce đặt tên theo '3 mũi tên Mōri Motonari'. Carp + Sanfrecce, Hiroshima là đỏ + tím!* |
 
-> **VN:** 牡蠣 60% シェア / 12-2月 旬 / 土手鍋 家庭料理 + 穴子飯うえの 1901 + (cẩn thận) **平和記念公園 + 原爆ドーム + 8/6** topic — react bằng「いつかご一緒に」 không ép. Anh Hiroshi cảm động rồi pivot sang **サンフレッチェ + 毛利元就 三本の矢** = recovery elegant.
+> **VN:** 牡蠣 60% シェア / 12-2月 旬 / 土手鍋 家庭料理 + 穴子飯うえの 1901 + (cẩn thận) chủ đề **平和記念公園 + 原爆ドーム + 8/6** — đáp lại bằng「いつかご一緒に」 không ép. Anh Hiroshi cảm động rồi chuyển chủ đề sang **サンフレッチェ + 毛利元就 三本の矢** = gỡ tình huống khéo léo.
 
 ---
 
@@ -138,7 +174,7 @@ Tháng 10/2026, anh Hiroshi 部長 (関西支店長 gốc Hiroshima) mời Dũng
 
 ---
 
-## 🗾 Regional Cheat Sheet — 広島 (Master)
+## 🗾 Bảng tra cứu vùng miền — 広島 (Tổng hợp)
 
 | Hạng mục | Nội dung |
 |----------|----------|
@@ -149,14 +185,14 @@ Tháng 10/2026, anh Hiroshi 部長 (関西支店長 gốc Hiroshima) mời Dũng
 | **食 — その他** | **宮島穴子飯 (うえの 1901)**, **尾道ラーメン (魚介系醤油)**, **広島つけ麺 (辛さ段階制)**, **汁なし担担麺 (キング軒)**, **府中味噌**, **レモン (瀬戸内)**, **三次ピオーネ** |
 | **酒** | 西条 (東広島) — 日本三大酒どころ: **賀茂鶴, 白牡丹, 亀齢, 千福, 西條鶴, 福美人, 山陽鶴**. 酒まつり (10月). |
 | **ソース** | **オタフクソース** (1922年広島創業, 全国60%) |
-| **Sport — 広島東洋カープ (NPB)** | **マツダスタジアム** (MAZDA Zoom-Zoom). **1949年創設**, **市民球団 (樽募金1951)**, **新井貴浩監督**, レジェンド: 黒田博樹 / 緒方孝市 / 山本浩二 / 衣笠祥雄 / 前田智徳. **2016-2018 3連覇**. **応援**: スクワット, ジェット風船7回, 「宮島さんの神主が」 |
-| **Sport — その他** | **サンフレッチェ広島** (Jリーグ, 名前由来: 毛利元就 三本の矢), 広島ドラゴンフライズ (Bリーグ) |
+| **Thể thao — 広島東洋カープ (NPB)** | **マツダスタジアム** (MAZDA Zoom-Zoom). **1949年創設**, **市民球団 (樽募金1951)**, **新井貴浩監督**, huyền thoại: 黒田博樹 / 緒方孝市 / 山本浩二 / 衣笠祥雄 / 前田智徳. **2016-2018 3連覇**. **応援**: スクワット, ジェット風船7回, 「宮島さんの神主が」 |
+| **Thể thao — その他** | **サンフレッチェ広島** (Jリーグ, 名前由来: 毛利元就 三本の矢), 広島ドラゴンフライズ (Bリーグ) |
 | **UNESCO** | **厳島神社 (1996)**, **原爆ドーム (1996)** |
 | **観光** | **宮島 (厳島神社+弥山+もみじ谷)**, **平和記念公園+原爆ドーム+資料館**, **広島城**, **縮景園**, **尾道 (千光寺+猫の細道)**, **しまなみ海道 (尾道-今治)**, **呉 (戦艦大和ミュージアム)**, **鞆の浦** |
 | **Lễ hội** | **広島フラワーフェスティバル** (5月3-5日 平和大通り), **西条酒まつり** (10月), **宮島水中花火** (8月), **管絃祭** (旧暦6/17 厳島) |
-| **Dialect (広島弁)** | 「〜じゃけぇ」「〜じゃ」「〜けえ」「〜とる」(=ている), 「ぶち」(=とても), 「たちまち」(=とりあえず), 「えっと」(=たくさん), 「やれん」(=できない/たまらない) |
+| **Phương ngữ (広島弁)** | 「〜じゃけぇ」「〜じゃ」「〜けえ」「〜とる」(=ている), 「ぶち」(=とても), 「たちまち」(=とりあえず), 「えっと」(=たくさん), 「やれん」(=できない/たまらない) |
 | **平和** | 8/6 8:15 黙祷. 灯篭流し. 静かに尊重. |
-| **Famous** | 大野智 (嵐, 三原市生まれの都市伝説あり実は東京), 西城秀樹 (広島市出身), 鬼龍院翔 (尾道) |
+| **Người nổi tiếng** | 大野智 (嵐, 三原市生まれの都市伝説あり実は東京), 西城秀樹 (広島市出身), 鬼龍院翔 (尾道) |
 
 ---
 
@@ -165,14 +201,14 @@ Tháng 10/2026, anh Hiroshi 部長 (関西支店長 gốc Hiroshima) mời Dũng
 - **Nhầm 大阪お好み焼 ↔ 広島お好み焼** → 重ね焼き vs 混ぜ焼き = chiến tranh.
 - **Trêu Carp khi thua** → ngay cả thua mùa, không động đến.
 - **Hỏi 平和記念公園 quá đột ngột** → cẩn thận, đợi khách mở hoặc dùng "次回ご一緒できたら".
-- **Gộp 広島市 vs 福山市 vs 尾道市** → 県内 nhưng 別 city, identity riêng.
+- **Gộp 広島市 vs 福山市 vs 尾道市** → 県内 nhưng khác thành phố, bản sắc riêng.
 - **Khen 牡蠣 「東京の方が美味しい」** → ngu xuẩn (Hiroshima 60% シェア).
 - **Hát "六甲おろし"** trước khách Hiroshima → là Hanshin, kẻ thù truyền thống Carp.
 - **Khen サンフレッチェ trên カープ** trước khách 50+ → カープ là tôn giáo.
 
 ---
 
-## 📚 Vocab
+## 📚 Bảng từ vựng
 
 | 漢字 | よみ | Nghĩa |
 |------|------|-------|

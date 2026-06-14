@@ -9,7 +9,11 @@
     "ja": "Phase 3 価格交渉前にBATNA 3 シナリオを作成しフオン副部長に確認を取る場面。",
     "vi": "Trước round đàm phán giá Phase 3, Dũng tạo BATNA 3 scenario rồi nhờ chị Hương review."
   },
-  "related_rules": ["rule_02", "rule_08", "rule_09"],
+  "related_rules": [
+    "rule_02",
+    "rule_08",
+    "rule_09"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -97,7 +101,9 @@
           "sentence": "フオン副部長、Phase 3 価格交渉のBATNA 3シナリオを作成しました。レビューいただけますでしょうか？",
           "sentence_translation": "Chị Hương, em đã tạo BATNA 3 scenario cho đàm phán giá Phase 3 ạ. Phiền chị review giúp em được không ạ?",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_01_good_02",
@@ -117,7 +123,10 @@
           "sentence": "シナリオB の根拠は、Phase 2 同等スコープなら ¥16.5M で利益率 22% 維持可能、ハー CTO に確認済みです。シナリオC は 3月にX社から ¥17M の MoU 受領 が走っているので、こちらに切り替え可能です。",
           "sentence_translation": "Cơ sở scenario B: scope tương đương Phase 2 thì ¥16.5M giữ profit margin 22%, anh Hà CTO đã confirm ạ. Scenario C: tháng 3 đã có MoU ¥17M từ X社 đang chạy, em có thể switch sang ạ.",
           "tone": "formal",
-          "annotation_ids": ["2", "3"]
+          "annotation_ids": [
+            "2",
+            "3"
+          ]
         },
         {
           "line_id": "rule_01_good_04",
@@ -156,12 +165,12 @@
       "skill": "場面把握",
       "question_ja": "BATNAとして適切でないものは？",
       "options": [
-        "数値化された撤退ライン",
-        "実在する代替案件 (例: 他社からのMoU)",
         "「感覚的にこの辺で妥協できそう」という曖昧な判断",
-        "内部承認済みの再交渉条件"
+        "内部承認済みの再交渉条件",
+        "実在する代替案件 (例: 他社からのMoU)",
+        "数値化された撤退ライン"
       ],
-      "correct": "C",
+      "correct": "A",
       "explanation": {
         "ja": "BATNAは『数値+条件+承認者』が揃って初めて機能する。曖昧な感覚では交渉力にならない。",
         "vi": "BATNA cần 'con số + điều kiện + người duyệt' mới có hiệu lực. Cảm giác mơ hồ = không thành đòn bẩy đàm phán."

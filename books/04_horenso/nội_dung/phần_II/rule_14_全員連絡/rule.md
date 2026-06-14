@@ -1,6 +1,6 @@
 # Rule 14 — Cấu trúc liên lạc broadcast / 全員に届く連絡
 
-> **Luận điểm.** Khi gửi thông tin cho cả team (broadcast), người Việt thường mặc định "ai cũng đọc hết". Sai. Thực tế: 30% lướt subject, 50% đọc 3 dòng đầu, 20% đọc kỹ. Cấu trúc: **TL;DR (1-2 dòng) → Detail → Action items rõ ràng cho từng vai trò**.
+> **Luận điểm.** Khi gửi thông tin cho cả team (broadcast), người Việt thường mặc định "ai cũng đọc hết". Sai. Thực tế: 30% chỉ lướt tiêu đề, 50% đọc 3 dòng đầu, 20% đọc kỹ. Cấu trúc: **TL;DR (1-2 dòng) → Detail → Action items rõ ràng cho từng vai trò**.
 >
 > 全員向けの連絡は **TL;DR → Detail → Action item by role** で構成。subject line だけ読む人、最初3行だけ読む人を想定する。
 >
@@ -20,12 +20,16 @@ Sau họp với khách, em Dũng cần broadcast 5 quyết định quan trọng 
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 1500-character narrative kể lại buổi họp 90 phút. Action items lẫn trong văn. |
-| **ハイ** | 「ズン、デプロイの件、私の担当だったの？メールに書いてあった？」 |
+| **ズン** | Mail dạng văn xuôi 1500 chữ kể lại buổi họp 90 phút. Action items lẫn trong văn. |
+|  | *Mail dạng văn xuôi 1500 chữ kể lại buổi họp 90 phút. Action items nằm rải rác trong văn.* |
+| **ハイ** | 「ズン、デプロイの件、私の<ruby>担当<rt>たんとう</rt></ruby>だったの？メールに書いてあった？」 |
+|  | *Dũng, vụ deploy là việc của anh hả? Mail có viết không?* |
 | **ズン** | 「あ、3パラグラフ目に書きました…」 |
-| **ハイ** | 「3パラグラフ目までに3分かかる。**自分の action だけ抜き出せる構造**にしてくれないと miss する。」 |
+|  | *À, em viết ở đoạn 3 ạ...* |
+| **ハイ** | 「3パラグラフ目までに3分かかる。**自分の action だけ<ruby>抜<rt>ぬ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>せる<ruby>構造<rt>こうぞう</rt></ruby>**にしてくれないと miss する。」 |
+|  | *Đến đoạn 3 mất 3 phút. Phải có cấu trúc tách được action của mình thì mới không bị sót.* |
 
-**Vì sao xấu:** Action items lẫn trong văn xuôi → người đọc phải scan 1500 chữ để tìm "việc của tôi". Hải miss → deploy trễ.
+**Vì sao xấu:** Action items lẫn trong văn xuôi → người đọc phải lướt 1500 chữ để tìm "việc của tôi". Hải bị sót → deploy trễ.
 
 ---
 
@@ -35,16 +39,20 @@ Sau họp với khách, em Dũng cần broadcast 5 quyết định quan trọng 
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | (Body theo template — see template box) |
-| **ハイ** | 「ズン、自分の担当2件 (デプロイ準備・CI設定) 確認しました。期日 4/26 までに完了します。」 |
-| **トゥアン** | 「私の担当3件、了解。優先順位は (1)→(3) で進めます。」 |
-| **ズン** | 「了解。**4/24 朝礼で進捗確認**します。」 |
+| **ズン** | (Phần thân mail theo mẫu — xem khung mẫu bên dưới) |
+|  | *(Phần thân mail soạn theo mẫu — xem khung mẫu bên dưới)* |
+| **ハイ** | 「ズン、自分の<ruby>担当<rt>たんとう</rt></ruby>2件 (デプロイ<ruby>準備<rt>じゅんび</rt></ruby>・CI<ruby>設定<rt>せってい</rt></ruby>) <ruby>確認<rt>かくにん</rt></ruby>しました。<ruby>期日<rt>きじつ</rt></ruby> 4/26 までに<ruby>完了<rt>かんりょう</rt></ruby>します。」 |
+|  | *Dũng, anh check 2 việc của anh (chuẩn bị deploy, setup CI) rồi. Anh sẽ xong trước 26/4.* |
+| **トゥアン** | 「私の担当3件、<ruby>了解<rt>りょうかい</rt></ruby>。<ruby>優先順位<rt>ゆうせんじゅんい</rt></ruby>は (1)→(3) で<ruby>進<rt>すす</rt></ruby>めます。」 |
+|  | *3 việc của anh OK. Anh làm theo thứ tự (1) → (3).* |
+| **ズン** | 「了解。**4/24 <ruby>朝礼<rt>ちょうれい</rt></ruby>で<ruby>進捗確認<rt>しんちょくかくにん</rt></ruby>**します。」 |
+|  | *OK ạ. Em sẽ check tiến độ trong buổi họp sáng (朝礼) 24/4 ạ.* |
 
 📝 **Ghi chú:**
-- Subject line đã có 「決定事項5件」 — người chưa mở mail cũng nắm priority.
+- Dòng tiêu đề đã có 「決定事項5件」 — người chưa mở mail cũng nắm được mức ưu tiên.
 - TL;DR (3 dòng đầu): tóm 5 quyết định.
-- Action items chia theo **assignee** với deadline rõ — không chia theo topic.
-- Cuối: pre-schedule check-in (「4/24 朝礼で」).
+- Action items chia theo **người phụ trách** với deadline rõ — không chia theo chủ đề.
+- Cuối: hẹn sẵn buổi rà tiến độ tiếp theo (「4/24 朝礼で」).
 
 ---
 
@@ -88,7 +96,7 @@ Subject: 【〇〇〇】〇〇 - 〇〇 (label rõ ràng)
 - 「皆さんで対応お願いします」 — không có owner = không ai làm.
 - Action item lẫn trong văn xuôi — phải tách section riêng có @assignee.
 - Subject mơ hồ "今日の打ち合わせ" — phải có hint priority + chủ đề.
-- Không có check-in tiếp theo — sếp/lead không biết khi nào catch up.
+- Không có buổi rà tiến độ tiếp theo — sếp/lead không biết khi nào nắm lại tình hình.
 
 ---
 

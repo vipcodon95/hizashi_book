@@ -9,7 +9,10 @@
     "ja": "Ōgaki が ¥14M (walk-away以下) に固執。Dũng + Hà CTO が relationship を保ちつつ door open で撤退する場面。",
     "vi": "Ōgaki khăng khăng ¥14M (dưới walk-away). Dũng + anh Hà CTO walk away mà giữ relationship + door open."
   },
-  "related_rules": ["rule_08", "rule_26"],
+  "related_rules": [
+    "rule_08",
+    "rule_26"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -96,7 +99,9 @@
           "sentence": "ご検討、本当にありがとうございました。¥14M でしたら弊社のご提供できる scope では Phase 3 当初目的の達成が困難となり、結果的に御社にご迷惑をおかけしてしまいます。",
           "sentence_translation": "Em xin chân thành cảm ơn quý anh đã xem xét. ¥14M thì với scope bên em có thể cung cấp, đạt mục tiêu Phase 3 ban đầu khó, kết quả cuối lại làm phiền quý cty ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"],
+          "annotation_ids": [
+            "1"
+          ],
           "pause_after_ms": 2000
         },
         {
@@ -107,7 +112,9 @@
           "sentence": "今回は条件面で折り合いがつかず、誠に残念ではございますが、本件はここでクローズとさせていただければと存じます。",
           "sentence_translation": "Lần này điều kiện chưa khớp, em thực sự rất tiếc, xin phép cho em được khép lại vụ việc tại đây ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_28_good_04",
@@ -117,7 +124,9 @@
           "sentence": "Phase 2 でのご縁は弊社にとって大変貴重な経験でございます。今後御社の事業環境が変わり、再度ご一緒できる機会がございましたら、ぜひお声がけください。例えば Phase 4 や別案件のご相談、いつでも歓迎いたします。",
           "sentence_translation": "Mối duyên ở Phase 2 là trải nghiệm rất quý với bên em ạ. Sau này nếu môi trường kinh doanh quý cty thay đổi, có cơ hội đồng hành lại, xin quý anh liên hệ em ạ. Ví dụ Phase 4 hay dự án khác, em luôn hoan nghênh ạ.",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_28_good_05",
@@ -165,10 +174,10 @@
       "skill": "表現読解",
       "question_ja": "walk-away ライン以下の要求に直面した時の最適 closing は？",
       "options": [
-        "「Y 社さんに発注ということで」と passive-aggressive で終わる",
+        "「永遠に取引しません」と宣言",
         "「条件面で折り合いがつかず、誠に残念」+ door open で neutral 撤退",
-        "「失敗しました」と謝罪",
-        "「永遠に取引しません」と宣言"
+        "「Y 社さんに発注ということで」と passive-aggressive で終わる",
+        "「失敗しました」と謝罪"
       ],
       "correct": "B",
       "explanation": {

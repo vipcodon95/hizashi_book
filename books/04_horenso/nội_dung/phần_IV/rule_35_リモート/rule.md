@@ -1,6 +1,6 @@
 # Rule 35 — Hou-Ren-Sou khi work-from-home / リモートワーク時
 
-> **Luận điểm.** Remote work làm "vô hình" status của mỗi member — sếp không nhìn thấy ai đang làm gì. Khắc phục bằng **3 thói quen tạo hiện diện**: **(1) Daily standup async** (Slack 9:30, 1 message DDBN format), **(2) Status icon Slack** (🟢working / 🟡away / 🔴focus / 🟣meeting), **(3) End-of-Day log** (1 dòng EOD review trên Slack #daily-log). Thêm: **camera on trong họp** (mặc định, không "今日はちょっと…"), **respond time SLA** trong giờ làm việc 1 giờ.
+> **Luận điểm.** Làm việc từ xa khiến trạng thái của mỗi thành viên trở nên "vô hình" — sếp không nhìn thấy ai đang làm gì. Khắc phục bằng **3 thói quen tạo hiện diện**: **(1) Daily standup async** (Slack 9:30, 1 tin nhắn theo định dạng DDBN), **(2) Status icon Slack** (🟢working / 🟡away / 🔴focus / 🟣meeting), **(3) End-of-Day log** (1 dòng tổng kết cuối ngày trên Slack #daily-log). Thêm: **bật camera trong họp** (mặc định, không "今日はちょっと…"), **thời gian phản hồi cam kết** trong giờ làm việc dưới 1 giờ.
 >
 > リモート可視化3点：①Slack 9:30 朝会 (DDBN) ②ステータスアイコン更新 ③EOD ログ。会議中はカメラON、Slack返信SLAは1時間以内。
 >
@@ -20,13 +20,17 @@ Em Linh WFH thứ Tư 22/4 (vì sửa chữa nhà). Lần đầu Linh "im lặng
 
 | Vai | Câu |
 |---------|-----|
-| **田中PMO** | 「リンさん、ブロシュアの校正版いただけますか?」 |
-|  | (silence) |
-| **田中PMO** | 「ズンさん、リンさんに14:00 にメッセージしましたが返信ない。本日 WFH ですか?ステータスも分からず…」 |
-| **ズン** | 「リン!田中様から連絡来てる。すぐ返信して。あと、リモートの日は朝会 + ステータス更新 + EOD ログを忘れずに。」 |
-| **リン** | 「すみません、ランチ後に集中していて見落としました…」 |
+| **田中PMO** | 「リンさん、ブロシュアの<ruby>校正版<rt>こうせいばん</rt></ruby>いただけますか?」 |
+|  | *Linh, em gửi giúp anh bản đã hiệu đính brochure ạ?* |
+|  | (im lặng) |
+| **田中PMO** | 「ズンさん、リンさんに14:00 にメッセージしましたが<ruby>返信<rt>へんしん</rt></ruby>ない。本日 WFH ですか?ステータスも分からず…」 |
+|  | *Dũng, anh gửi tin cho Linh từ 14:00 mà không reply. Hôm nay Linh WFH à? Status cũng không thấy...* |
+| **ズン** | 「リン!田中様から連絡来てる。すぐ<ruby>返信<rt>へんしん</rt></ruby>して。あと、リモートの日は<ruby>朝会<rt>あさかい</rt></ruby> + ステータス<ruby>更新<rt>こうしん</rt></ruby> + EOD ログを忘れずに。」 |
+|  | *Linh! Anh Tanaka đang chờ em. Reply ngay đi. Với cả, ngày WFH nhớ làm standup sáng + update status + EOD log.* |
+| **リン** | 「すみません、ランチ後に<ruby>集中<rt>しゅうちゅう</rt></ruby>していて<ruby>見落<rt>みお</rt></ruby>としました…」 |
+|  | *Em xin lỗi, sau ăn trưa em focus quá nên không thấy...* |
 
-**Vì sao xấu:** L1 anh Tanaka không biết Linh WFH. L2 silence 1 giờ với khách-side. L4 chỉ ra: WFH cần extra visibility — không phải less.
+**Vì sao xấu:** L1 anh Tanaka không biết Linh WFH. L2 im lặng 1 giờ với phía khách. L4 chỉ ra: WFH cần hiện diện nhiều hơn — không phải ít đi.
 
 ---
 
@@ -36,17 +40,23 @@ Em Linh WFH thứ Tư 22/4 (vì sửa chữa nhà). Lần đầu Linh "im lặng
 
 | Vai | Câu |
 |---------|-----|
-| **リン** | 「**①朝会** 【Daily 4/22 WFH 🏠】Done: 昨日のブロシュア初稿 / Doing: 校正版 (今日中) / Blocked: なし / Next: 14:00 までに田中PMOへ送付【1】。**ステータス: 🟢 working until 18:00 ICT**【2】。」 |
+| **リン** | 「**①<ruby>朝会<rt>あさかい</rt></ruby>** 【Daily 4/22 WFH 🏠】Done: 昨日のブロシュア<ruby>初稿<rt>しょこう</rt></ruby> / Doing: <ruby>校正版<rt>こうせいばん</rt></ruby> (今日中) / Blocked: なし / Next: 14:00 までに田中PMOへ<ruby>送付<rt>そうふ</rt></ruby>【1】。**ステータス: 🟢 working until 18:00 ICT**【2】。」 |
+|  | *[1 Standup] [Daily 22/4 WFH 🏠] Done: bản đầu brochure hôm qua / Doing: bản hiệu đính (trong hôm nay) / Blocked: không / Next: gửi anh Tanaka PMO trước 14:00. Status: 🟢 working until 18:00 ICT.* |
 | **リン** | 「🍱 lunch 11:30-12:30」 |
-| **田中PMO** | 「リンさん、ブロシュアの校正版いただけますか?」 |
-| **リン** | 「田中様、お世話になっております。ちょうど14:00 に EAJ_v2.pdf を送付済でございます。受信ご確認いただけますでしょうか。」 |
-| **リン** | 「**③EOD ログ** 【EOD 4/22】Done: ブロシュア校正版送付済(田中PMO 受領確認済) / 持ち越し: なし / 明日 Top 3: ① Phase3 marketing plan ② 印刷会社発注 ③ ハイ留学 announcement draft【3】。**ステータス更新: 🟢 → 🌙 EOD**。」 |
-| **ズン** | 「visibility 完璧。客先からも『分かりやすい』とのこと。継続して。」 |
+|  | *🍱 ăn trưa 11:30-12:30* |
+| **田中PMO** | 「リンさん、ブロシュアの<ruby>校正版<rt>こうせいばん</rt></ruby>いただけますか?」 |
+|  | *Linh, em gửi giúp anh bản đã hiệu đính brochure ạ?* |
+| **リン** | 「田中様、お世話になっております。ちょうど14:00 に EAJ_v2.pdf を<ruby>送付済<rt>そうふずみ</rt></ruby>でございます。<ruby>受信<rt>じゅしん</rt></ruby>ご<ruby>確認<rt>かくにん</rt></ruby>いただけますでしょうか。」 |
+|  | *Anh Tanaka, em xin chào. Em vừa gửi EAJ_v2.pdf đúng 14:00 ạ. Phiền anh xác nhận nhận được giúp em ạ?* |
+| **リン** | 「**③EOD ログ** 【EOD 4/22】Done: ブロシュア<ruby>校正版<rt>こうせいばん</rt></ruby><ruby>送付済<rt>そうふずみ</rt></ruby>(田中PMO <ruby>受領<rt>じゅりょう</rt></ruby><ruby>確認済<rt>かくにんずみ</rt></ruby>) / <ruby>持<rt>も</rt></ruby>ち<ruby>越<rt>こ</rt></ruby>し: なし / 明日 Top 3: ① Phase3 marketing plan ② <ruby>印刷会社<rt>いんさつがいしゃ</rt></ruby><ruby>発注<rt>はっちゅう</rt></ruby> ③ ハイ留学 announcement draft【3】。**ステータス<ruby>更新<rt>こうしん</rt></ruby>: 🟢 → 🌙 EOD**。」 |
+|  | *[3 EOD log] [EOD 22/4] Done: đã gửi bản hiệu đính brochure (anh Tanaka đã xác nhận) / Chuyển sang mai: không / Top 3 ngày mai: [1] Marketing plan Phase 3 [2] Đặt nhà in [3] Draft announcement Hải đi du học. Status: 🟢 → 🌙 EOD.* |
+| **ズン** | 「visibility 完璧。<ruby>客先<rt>きゃくさき</rt></ruby>からも『分かりやすい』とのこと。<ruby>継続<rt>けいぞく</rt></ruby>して。」 |
+|  | *Hiện diện hoàn hảo. Khách cũng nói 'rõ ràng'. Em duy trì nhé.* |
 
 📝 **Ghi chú:**
-- 【1】**朝会 9:30 WFH icon 🏠** — show ngay từ đầu ngày là WFH. Đồng thời DDBN format đã có.
-- 【2】**「working until 18:00 ICT」** — ICT timezone explicit (rule 21). Anh Tanaka biết khung giờ Linh online.
-- 【3】**EOD ログ** — closure cuối ngày, có "Tomorrow Top 3". Sếp/khách đọc 1 message biết hôm sau.
+- 【1】**朝会 9:30 WFH icon 🏠** — báo ngay từ đầu ngày là WFH. Đồng thời đã theo định dạng DDBN.
+- 【2】**「working until 18:00 ICT」** — ghi rõ múi giờ ICT (rule 21). Anh Tanaka biết khung giờ Linh online.
+- 【3】**EOD ログ** — chốt cuối ngày, có "Top 3 ngày mai". Sếp/khách đọc 1 tin nhắn là biết hôm sau làm gì.
 
 ---
 
@@ -54,35 +64,35 @@ Em Linh WFH thứ Tư 22/4 (vì sửa chữa nhà). Lần đầu Linh "im lặng
 
 | Icon | Trạng thái | Khi nào |
 |------|-------------|---------|
-| 🟢 working | Online + responsive | Default working hours |
-| 🟡 away | Tạm rời máy | Lunch / coffee break (gắn time) |
-| 🔴 focus | Deep work, response trong 1h | Coding / drafting |
-| 🟣 meeting | Đang họp | Client call / internal meeting |
-| 🌙 EOD | Hết giờ | After EOD log |
-| 🏠 WFH | Working from home | Cả ngày (combined với 🟢) |
+| 🟢 working | Online + sẵn sàng phản hồi | Giờ làm việc mặc định |
+| 🟡 away | Tạm rời máy | Ăn trưa / nghỉ giải lao (kèm thời gian) |
+| 🔴 focus | Tập trung sâu, phản hồi trong 1h | Coding / soạn thảo |
+| 🟣 meeting | Đang họp | Họp với khách / họp nội bộ |
+| 🌙 EOD | Hết giờ | Sau khi đăng EOD log |
+| 🏠 WFH | Làm việc tại nhà | Cả ngày (kết hợp với 🟢) |
 
 ---
 
 ## 📷 Camera Convention
 
-✅ **Default ON** (kể cả Linh hơi mệt, kể cả background lộn xộn → dùng blur).
-❌ **「今日はちょっと…」** — không có lý do trừ ốm + đã báo trước.
-✅ **Off khi có lý do** — báo trước trong calendar invite description.
+✅ **Mặc định BẬT** (kể cả Linh hơi mệt, kể cả phông nền lộn xộn → dùng blur làm mờ).
+❌ **「今日はちょっと…」** — không chấp nhận lý do, trừ khi ốm + đã báo trước.
+✅ **Tắt khi có lý do** — báo trước trong phần mô tả của lời mời họp (calendar invite).
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「リモート = invisible になる前に visible にする。朝会 9:30 + ステータスアイコン + EOD ログ + カメラ ON。Slack 返信 SLA 1時間以内。」**
+> **「リモート = invisible になる前に visible にする。<ruby>朝会<rt>あさかい</rt></ruby> 9:30 + ステータスアイコン + EOD ログ + カメラ ON。Slack <ruby>返信<rt>へんしん</rt></ruby> SLA 1時間以内。」**
 
 ---
 
 ## ⚠ Tránh
 
-- WFH mà không khai báo morning standup → sếp/khách hỏi quanh.
-- Slack status không update khi đi ăn / đi họp → response time bị penalize.
-- Camera off "không có lý do" → Nhật coi là không nghiêm túc.
-- EOD log skip nhiều ngày → mất feedback loop.
+- WFH mà không khai báo standup buổi sáng → sếp/khách phải hỏi quanh.
+- Slack status không cập nhật khi đi ăn / đi họp → thời gian phản hồi bị đánh giá thấp.
+- Tắt camera "không có lý do" → người Nhật coi là không nghiêm túc.
+- Bỏ EOD log nhiều ngày → mất vòng phản hồi.
 
 ---
 

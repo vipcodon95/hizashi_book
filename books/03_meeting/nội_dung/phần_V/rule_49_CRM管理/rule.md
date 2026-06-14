@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-3 tuần sau buổi đàm phán phase 2, có thành viên dev mới gia nhập. Hỏi "scope phase 2 chốt thế nào?". Em Dũng cần chỉ tới CRM record.
+3 tuần sau buổi đàm phán phase 2, có thành viên dev mới gia nhập. Hỏi "scope phase 2 chốt thế nào?". Em Dũng cần chỉ tới record trong CRM.
 
 ---
 
@@ -18,11 +18,14 @@
 
 | Vai | Câu |
 |---------|-----|
-| **新人** | 「ズンさん、Phase 2 のスコープって最終的にどう決まったんですか？」 |
-| **ズン** | 「えーと、メールどこかに議事録あったはず…」 *(15 phút search)* |
+| **新人** | 「ズンさん、Phase 2 のスコープって<ruby>最終的<rt>さいしゅうてき</rt></ruby>にどう<ruby>決<rt>き</rt></ruby>まったんですか？」 |
+|  | *Anh Dũng, scope phase 2 cuối cùng quyết thế nào ạ?* |
+| **ズン** | 「えーと、メールどこかに<ruby>議事録<rt>ぎじろく</rt></ruby>あったはず…」 *(15 phút tìm kiếm)* |
+|  | *Ơ... biên bản có ở đâu đó trong email rồi...* |
 | **新人** | 「…」 |
+|  | *(...)* |
 
-**Vì sao xấu:** Decision không có "single source of truth". Mỗi lần ai hỏi → search email → mất 15 phút. Quy trình tiếp nhận nhân viên mới kém hiệu quả.
+**Vì sao xấu:** Decision không có "single source of truth". Mỗi lần ai hỏi → tìm trong email → mất 15 phút. Quy trình tiếp nhận nhân viên mới kém hiệu quả.
 
 ---
 
@@ -32,9 +35,12 @@
 
 | Vai | Câu |
 |---------|-----|
-| **新人** | 「ズンさん、Phase 2 のスコープって最終的にどう決まったんですか？」 |
-| **ズン** | 「Notion の『決定事項一覧』に記録があります。リンク送りますね【1】。」 |
-| **新人** | 「あ、4/28会議で A 案確定、ownerはトゥアンリーダー、status: closed って書いてありますね。明確で助かります。」 |
+| **新人** | 「ズンさん、Phase 2 のスコープって<ruby>最終的<rt>さいしゅうてき</rt></ruby>にどう<ruby>決<rt>き</rt></ruby>まったんですか？」 |
+|  | *Anh Dũng, scope phase 2 cuối cùng quyết thế nào ạ?* |
+| **ズン** | 「Notion の『<ruby>決定事項<rt>けっていじこう</rt></ruby><ruby>一覧<rt>いちらん</rt></ruby>』に<ruby>記録<rt>きろく</rt></ruby>があります。リンク<ruby>送<rt>おく</rt></ruby>りますね【1】。」 |
+|  | *Có record trong Notion 'Decisions list' đấy. Anh gửi link nhé.* |
+| **新人** | 「あ、4/28<ruby>会議<rt>かいぎ</rt></ruby>で A 案<ruby>確定<rt>かくてい</rt></ruby>、ownerはトゥアンリーダー、status: closed って<ruby>書<rt>か</rt></ruby>いてありますね。<ruby>明確<rt>めいかく</rt></ruby>で<ruby>助<rt>たす</rt></ruby>かります。」 |
+|  | *À, ghi rõ 'họp 28/4 chốt phương án A, owner Tuấn, status: closed'. Rõ ràng quá, em đỡ rồi.* |
 
 📐 **CRM/Notion record format:**
 
@@ -48,7 +54,7 @@
 | Last updated | 2026-04-28 by ズン |
 
 📝 **Ghi chú:**
-- 【1】**Single source of truth** — 1 link Notion thay vì email scavenger hunt.
+- 【1】**Single source of truth** — 1 link Notion thay vì phải lục tung email.
 - **Status:** open (chưa làm) / in-progress / closed.
 - **Related issues** — link decisions phụ thuộc lẫn nhau.
 
@@ -62,10 +68,10 @@
 
 ## ⚠ Tránh
 
-- Decision chỉ trong biên bản email → mất khả năng search.
-- Không có owner → trách nhiệm bị share.
-- Không có status → không biết decision còn live không.
-- Quên update khi decision bị overrule sau này.
+- Decision chỉ trong biên bản email → mất khả năng tra cứu.
+- Không có owner → trách nhiệm bị chia mơ hồ.
+- Không có status → không biết decision còn hiệu lực không.
+- Quên cập nhật khi decision bị phủ quyết sau này.
 
 ---
 

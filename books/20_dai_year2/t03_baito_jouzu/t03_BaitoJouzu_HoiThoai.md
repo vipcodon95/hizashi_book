@@ -21,7 +21,7 @@ Tháng 6 năm 2025. Đại đã thành senior staff Lawson Tennoji, lương 1200
 | Đại | フン<ruby>君<rt>くん</rt></ruby>、よろしく！<ruby>俺<rt>おれ</rt></ruby>はダイ。<ruby>同<rt>おな</rt></ruby>じ<ruby>関西<rt>かんさい</rt></ruby><ruby>語学<rt>ごがく</rt></ruby><ruby>学院<rt>がくいん</rt></ruby>やんな？<br>*(Hùng, chào em! Anh là Đại. Cùng trường Kansai Gogo Gakuin phải không?)* |
 | Hùng | はい、<ruby>4<rt>よん</rt></ruby><ruby>月<rt>がつ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りました。<br>*(Vâng, em vào tháng 4.)* |
 | Suzuki | <ruby>知<rt>し</rt></ruby>り<ruby>合<rt>あ</rt></ruby>いやったら<ruby>好都合<rt>こうつごう</rt></ruby>や。ダイ<ruby>君<rt>くん</rt></ruby>、メンター<ruby>役<rt>やく</rt></ruby><ruby>頼<rt>たの</rt></ruby>むで。<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>1<rt>いっ</rt></ruby><ruby>週間<rt>しゅうかん</rt></ruby>は<ruby>2<rt>ふた</rt></ruby><ruby>人<rt>り</rt></ruby><ruby>体制<rt>たいせい</rt></ruby>でな。<br>*(Quen nhau thì tiện quá. Đại, làm mentor giúp anh nhé. Tuần đầu 2 đứa cùng ca.)* |
-| Đại | はい、<ruby>分<rt>わ</rt></ruby>かりました。フン<ruby>君<rt>くん</rt></ruby>、まず<ruby>制服<rt>せいふく</rt></ruby><ruby>着<rt>き</rt></ruby>替<ruby>か<rt></rt></ruby>えよう。<br>*(Vâng, em hiểu. Hùng, đầu tiên thay đồng phục đã.)* |
+| Đại | はい、<ruby>分<rt>わ</rt></ruby>かりました。フン<ruby>君<rt>くん</rt></ruby>、まず<ruby>制服<rt>せいふく</rt></ruby><ruby>着<rt>き</rt></ruby>替かえよう。<br>*(Vâng, em hiểu. Hùng, đầu tiên thay đồng phục đã.)* |
 | Hùng | (VN, nhỏ) Anh ơi em hồi hộp quá. |
 | Đại | (VN) Cứ làm theo anh. Một tuần là quen ngay. |
 
@@ -33,7 +33,7 @@ Tháng 6 năm 2025. Đại đã thành senior staff Lawson Tennoji, lương 1200
 
 | Vai | Lời thoại |
 |---|---|
-| Đại | フン<ruby>君<rt>くん</rt></ruby>、コンビニの<ruby>基本<rt>きほん</rt></ruby><ruby>挨拶<rt>あいさつ</rt></ruby><ruby>6<rt>ろく</rt></ruby>つ、<ruby>覚<rt>おぼ</rt></ruby>えよう。<br>*(Hùng, học 6 câu chào cơ bản ở konbini đi.)* |
+| Đại | フン<ruby>君<rt>くん</rt></ruby>、コンビニの<ruby>基本<rt>きほん</rt></ruby><ruby>挨拶<rt>あいさつ</rt></ruby><ruby>6<rt>むっ</rt></ruby>つ、<ruby>覚<rt>おぼ</rt></ruby>えよう。<br>*(Hùng, học 6 câu chào cơ bản ở konbini đi.)* |
 | Đại | <ruby>1<rt>いち</rt></ruby>:「いらっしゃいませ！」 <ruby>客<rt>きゃく</rt></ruby><ruby>入<rt>はい</rt></ruby>る<ruby>瞬間<rt>しゅんかん</rt></ruby>。<br>*(1: "Kính chào quý khách!" Khoảnh khắc khách bước vào.)* |
 | Đại | <ruby>2<rt>に</rt></ruby>:「ありがとうございました！」 <ruby>客<rt>きゃく</rt></ruby><ruby>出<rt>で</rt></ruby>る<ruby>瞬間<rt>しゅんかん</rt></ruby>。<br>*(2: "Cảm ơn quý khách!" Khoảnh khắc khách rời.)* |
 | Đại | <ruby>3<rt>さん</rt></ruby>:「<ruby>少々<rt>しょうしょう</rt></ruby>お<ruby>待<rt>ま</rt></ruby>ちください。」 <ruby>待<rt>ま</rt></ruby>ってもらうとき。<br>*(3: "Quý khách vui lòng chờ một chút.")* |

@@ -20,11 +20,16 @@ Recap mail OK reply nhận được. Tuấn đề xuất "LOI khỏi cần, làm
 
 | Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「ズン、recap OK 来たし、契約書ドラフトを直接送ろう。LOI 余計な工程じゃない？」 |
-| **ズン** | 「では契約書 v1 を作成して大垣様に送ります。」 |
-| (2 週間後) **大垣** | 「ズン様、契約書 v1 拝見しました。**ところで価格 ¥17M は税込ですよね？**」 |
-| **ズン** | 「いえ、税抜で recap メールに記載しております…」 |
-| **大垣** | 「**社内では税込前提で稟議が動いており**、ここから差額で再交渉になります…」 |
+| **トゥアン** | 「ズン、recap OK 来たし、<ruby>契約書<rt>けいやくしょ</rt></ruby>ドラフトを<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>送<rt>おく</rt></ruby>ろう。LOI <ruby>余計<rt>よけい</rt></ruby>な<ruby>工程<rt>こうてい</rt></ruby>じゃない？」 |
+|  | *Dũng, recap OK rồi, gửi contract draft thẳng đi. LOI có phải bước thừa không?* |
+| **ズン** | 「では契約書 v1 を<ruby>作成<rt>さくせい</rt></ruby>して<ruby>大垣<rt>おおがき</rt></ruby>様に送ります。」 |
+|  | *Vâng, em sẽ làm contract v1 gửi anh Ōgaki ạ.* |
+| (2 週間後) **大垣** | 「ズン様、契約書 v1 <ruby>拝見<rt>はいけん</rt></ruby>しました。**ところで<ruby>価格<rt>かかく</rt></ruby> ¥17M は<ruby>税込<rt>ぜいこみ</rt></ruby>ですよね？**」 |
+|  | *Anh Dũng, đã xem contract v1. À mà giá ¥17M là đã bao gồm thuế đúng không?* |
+| **ズン** | 「いえ、<ruby>税抜<rt>ぜいぬき</rt></ruby>で recap メールに<ruby>記載<rt>きさい</rt></ruby>しております…」 |
+|  | *Dạ không, em ghi 'chưa thuế' trong recap mail rồi ạ...* |
+| **大垣** | 「**社内では税込<ruby>前提<rt>ぜんてい</rt></ruby>で<ruby>稟議<rt>りんぎ</rt></ruby>が動いており**、ここから<ruby>差額<rt>さがく</rt></ruby>で<ruby>再交渉<rt>さいこうしょう</rt></ruby>になります…」 |
+|  | *Bên anh ringi đang chạy theo giả định 'đã thuế', từ đây phần chênh lệch sẽ phải re-negotiate...* |
 
 **Vì sao xấu:** Skip LOI → commercial terms (giá, term, scope) chỉ ở mail, không có chữ ký. Khách dispute "tax inclusive vs exclusive" → re-negotiation ¥1.7M. LOI 1 trang ký 2 bên đã ngăn được chính xác chuyện này.
 

@@ -9,7 +9,10 @@
     "ja": "Phase 3 開始5分前、田中PMOから録画依頼 (山田部長が当日不在のため)。事前許可 → 全員同意 → 編集 → 限定共有 のフロー。",
     "vi": "5 phút trước Phase 3, Tanaka PMO request record (sếp Yamada vắng). Flow: pre-permission → all consent → edit → limited share."
   },
-  "related_rules": ["rule_27", "rule_28"],
+  "related_rules": [
+    "rule_27",
+    "rule_28"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -106,7 +109,9 @@
           "sentence_translation": "Em đã nhận yêu cầu ạ. Trước khi bắt đầu, em sẽ xin consent của tất cả participant ạ. Em có thể xử lý theo cách: edit xong thì share Drive giới hạn (expire sau 30 ngày) ạ. MP4 raw qua mail thì không được vì security ạ — mong anh thông cảm ạ.",
           "tone": "formal",
           "speed_multiplier": 0.95,
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_33_good_03",
@@ -125,7 +130,9 @@
           "sentence": "まず1点お知らせございます。本日本セッションを録画させていただきます。山田部長が当日 ご欠席のため、田中様より後日録画共有依頼をいただきました。全員のご許可をいただいてから REC 開始させていただきます。何かご懸念ございますでしょうか？",
           "sentence_translation": "Trước hết em xin thông báo 1 điểm ạ. Hôm nay em xin phép quay video buổi này ạ. Vì sếp Yamada vắng mặt, anh Tanaka đã yêu cầu share record sau ạ. Em xin permission của tất cả quý vị trước khi bắt đầu REC ạ. Quý vị có quan ngại gì không ạ?",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_33_good_05",
@@ -154,7 +161,9 @@
           "sentence_translation": "Record raw 1h20 — em đã edit out phần price negotiation (28-35') và phần confidential (52-58') ạ. Link Drive read-only, giới hạn email anh Tanaka + sếp Yamada, tự động expire sau 30 ngày ạ.",
           "tone": "formal",
           "speed_multiplier": 0.95,
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_33_good_08",
@@ -193,12 +202,12 @@
       "skill": "場面把握",
       "question_ja": "プレゼン録画依頼への適切な対応は？",
       "options": [
-        "Surprise REC して raw MP4 メール送付",
         "事前許可 → 全員同意 → 編集 → Drive 限定共有 + expire",
+        "Personal Gmail で送る",
         "断る",
-        "Personal Gmail で送る"
+        "Surprise REC して raw MP4 メール送付"
       ],
-      "correct": "B",
+      "correct": "A",
       "explanation": {
         "ja": "Privacy + confidentiality 両保護のため、4ステップ全て必須。Surprise REC は最大の信頼破壊。",
         "vi": "Bảo vệ cả privacy + confidentiality cần đủ 4 bước. Surprise REC phá trust nhất."

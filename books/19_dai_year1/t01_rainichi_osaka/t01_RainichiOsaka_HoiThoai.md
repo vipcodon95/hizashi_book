@@ -100,7 +100,7 @@
 
 | Vai | Lời thoại |
 |---|---|
-| Satou | あの<ruby>高<rt>たか</rt></ruby>いビルが<ruby>見<rt>み</rt></ruby>えますか？あべのハルカスです。<ruby>日本<rt>にほん</rt></ruby>で<ruby>3番目<rt>さんばんめ</rt></ruby>に<ruby>高<rt>たか</rt></ruby>いビルですよ。<br>*(Có thấy toà nhà cao kia không? Abeno Harukas đấy. Toà nhà cao thứ 3 Nhật Bản.)* |
+| Satou | あの<ruby>高<rt>たか</rt></ruby>いビルが<ruby>見<rt>み</rt></ruby>えますか？あべのハルカスです。<ruby>日本<rt>にほん</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>高<rt>たか</rt></ruby>いビルですよ。<br>*(Có thấy toà nhà cao kia không? Abeno Harukas đấy. Toà nhà cao nhất Nhật Bản đó.)* |
 | Đại | <ruby>高<rt>たか</rt></ruby>さは<ruby>何<rt>なん</rt></ruby>メートルですか？<br>*(Cao bao nhiêu mét ạ?)* |
 | Satou | <ruby>300<rt>さんびゃく</rt></ruby>メートルです。<ruby>天王寺<rt>てんのうじ</rt></ruby><ruby>駅<rt>えき</rt></ruby>のすぐ<ruby>上<rt>うえ</rt></ruby>にあります。<ruby>田中<rt>たなか</rt></ruby>さんのお<ruby>家<rt>うち</rt></ruby>から<ruby>歩<rt>ある</rt></ruby>いて<ruby>10分<rt>じゅっぷん</rt></ruby>ですよ。<br>*(300 mét. Ngay phía trên ga Tennoji. Đi bộ từ nhà ông Tanaka 10 phút.)* |
 | Đại | すごいですね。<ruby>展望台<rt>てんぼうだい</rt></ruby>はありますか？<br>*(Hoành tráng quá. Có đài quan sát không ạ?)* |

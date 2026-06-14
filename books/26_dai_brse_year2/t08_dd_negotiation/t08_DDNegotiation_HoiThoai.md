@@ -12,12 +12,12 @@
 
 ## Tình huống 1 — WeWork Osaka boardroom · 1/11 14:00, term sheet sign ceremony
 
-*Sato-san Anri + Sasaki-san JAFCO + Honda-san DG + Mori-san WiL đều bay xuống Osaka. Đại + Tuấn + Aiko đứng đầu phòng. Đại mặc vest navy.*
+*Sato-san Anri + Sasaki-san JAFCO + Honda-san DG + Hayashi-san WiL đều bay xuống Osaka. Đại + Tuấn + Aiko đứng đầu phòng. Đại mặc vest navy.*
 
 | Vai | Lời thoại |
 |---|---|
 | Đại | <ruby>本日<rt>ほんじつ</rt></ruby>は<ruby>遠路<rt>えんろ</rt></ruby>はるばる<ruby>大阪<rt>おおさか</rt></ruby>までお<ruby>越<rt>こ</rt></ruby>しいただき、<ruby>誠<rt>まこと</rt></ruby>にありがとうございます。<br>*(Hôm nay quý anh chị đã không quản đường xa tới Osaka, em xin chân thành cảm ơn.)* |
-| Đại | <ruby>本日<rt>ほんじつ</rt></ruby>、Hizashi Series Aタームシートを<ruby>正式<rt>せいしき</rt></ruby>に<ruby>締結<rt>ていけつ</rt></ruby>させていただきます。リード<ruby>投資家<rt>とうしか</rt></ruby>の<ruby>安里<rt>あんり</rt></ruby><ruby>佐藤<rt>さとう</rt></ruby><ruby>様<rt>さま</rt></ruby>、<ruby>共同投資家<rt>きょうどうとうしか</rt></ruby>のJAFCO <ruby>佐々木<rt>ささき</rt></ruby><ruby>様<rt>さま</rt></ruby>、DG <ruby>本田<rt>ほんだ</rt></ruby><ruby>様<rt>さま</rt></ruby>、WiL <ruby>林<rt>はやし</rt></ruby><ruby>様<rt>さま</rt></ruby>、お<ruby>力添<rt>ちからぞ</rt></ruby>えをいただき、<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>もございません。<br>*(Hôm nay chính thức ký Term Sheet Series A Hizashi. Lead Anri Sato-sama, đồng đầu tư JAFCO Sasaki-sama, DG Honda-sama, WiL Mori-sama, đã hỗ trợ chúng tôi không lời nào diễn tả nổi.)* |
+| Đại | <ruby>本日<rt>ほんじつ</rt></ruby>、Hizashi Series Aタームシートを<ruby>正式<rt>せいしき</rt></ruby>に<ruby>締結<rt>ていけつ</rt></ruby>させていただきます。リード<ruby>投資家<rt>とうしか</rt></ruby>の<ruby>安里<rt>あんり</rt></ruby><ruby>佐藤<rt>さとう</rt></ruby><ruby>様<rt>さま</rt></ruby>、<ruby>共同投資家<rt>きょうどうとうしか</rt></ruby>のJAFCO <ruby>佐々木<rt>ささき</rt></ruby><ruby>様<rt>さま</rt></ruby>、DG <ruby>本田<rt>ほんだ</rt></ruby><ruby>様<rt>さま</rt></ruby>、WiL <ruby>林<rt>はやし</rt></ruby><ruby>様<rt>さま</rt></ruby>、お<ruby>力添<rt>ちからぞ</rt></ruby>えをいただき、<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>もございません。<br>*(Hôm nay chính thức ký Term Sheet Series A Hizashi. Lead Anri Sato-sama, đồng đầu tư JAFCO Sasaki-sama, DG Honda-sama, WiL Hayashi-sama, đã hỗ trợ chúng tôi không lời nào diễn tả nổi.)* |
 | Sato-san | ダイさん、トゥアンさん、<ruby>愛子<rt>あいこ</rt></ruby>さん、おめでとうございます。<br>*(Đại-san, Tuấn-san, Aiko-san, chúc mừng.)* |
 | Đại | では、<ruby>署名<rt>しょめい</rt></ruby>に<ruby>移<rt>うつ</rt></ruby>らせていただきます。<br>*(Xin phép chuyển sang phần ký.)* |
 | (Lễ ký 4 bản × 7 chữ ký) | |

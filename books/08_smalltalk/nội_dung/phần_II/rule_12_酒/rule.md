@@ -1,44 +1,52 @@
 # Rule 12 — Uống — sake/shochu/beer / 酒の話題
 
-> **Luận điểm.** 酒 = topic gold #2 sau 食. Mỗi vùng có "rượu chuyên":  **新潟・秋田・山形 → 日本酒** / **九州 → 焼酎** / **沖縄 → 泡盛** / craft beer = nationwide. Biết tên 3-5 brewery cụ thể từng vùng + biết phân biệt 純米 vs 大吟醸 = bạn từ "amateur" → "đối tác trân trọng".
+> **Luận điểm.** 酒 = chủ đề vàng #2 sau 食. Mỗi vùng có "rượu chuyên":  **新潟・秋田・山形 → 日本酒** / **九州 → 焼酎** / **沖縄 → 泡盛** / craft beer = trên toàn quốc. Biết tên 3-5 nhà ủ rượu cụ thể từng vùng + biết phân biệt 純米 với 大吟醸 = bạn từ "tay mơ" → "đối tác đáng trân trọng".
 
 ---
 
 ## 🧠 Tâm lý JP (4 dòng)
 
-- 酒 với JP = **văn hóa địa phương đậm hơn cả 食** (terroir).
+- 酒 với JP = **văn hóa địa phương đậm hơn cả 食** (gắn với thổ nhưỡng vùng miền).
 - Tự hào vùng quê thường đi qua chai sake yêu thích — hỏi đúng = chạm.
 - Senior 50-60t **nhậu rượu không bia** — biết phân biệt 純米/吟醸 = đẳng cấp.
-- Người trẻ JP thiên về **highball / craft beer / wine** — match generation.
+- Người trẻ JP thiên về **highball / craft beer / vang** — hợp đúng thế hệ.
 
 ---
 
 ## 🎬 Bối cảnh
 
-Dũng tham gia 4 buổi nhậu khác nhau trong 2 tuần: izakaya với Nakamura (Hokkaido), 居酒屋 với Sato (Fukuoka — shochu only), 日本酒バー với Matsumoto (Tokyo — sake mê), và craft beer pub với Tanaka (35t — modern). Phải biết match topic酒 cho từng người.
+Dũng tham gia 4 buổi nhậu khác nhau trong 2 tuần: izakaya với Nakamura (Hokkaido), 居酒屋 với Sato (Fukuoka — chỉ uống shochu), 日本酒バー với Matsumoto (Tokyo — mê sake), và quán craft beer với Tanaka (35t — hiện đại). Phải biết chọn đúng chủ đề酒 cho từng người.
 
 ---
 
-## 💬 4 Scenarios — dialogue thực chiến
+## 💬 4 Scenario — hội thoại thực chiến
 
 ### 📍 Scenario 1 — 日本酒入門: 新潟 + 山形 (Nakamura mê sake)
 
-*銀座 sake bar, mở menu · impress · rạng rỡ*
+*銀座 sake bar, mở thực đơn · gây ấn tượng · rạng rỡ*
 
 | Vai | Câu |
 |---------|-----|
-| **中村** | 「ズンさん、日本酒は飲める?」 |
-| **ズン** | 「はい、最近勉強中で…**新潟の久保田**【1】、一度飲んで感動しました。すっきりしてて。」 |
-| **中村** | 「お、久保田知ってるんだ。新潟は**淡麗辛口**【2】の代表だね。じゃあ今日は**山形の十四代**【3】も試してみる?こっちは**フルーティー**で全然違うよ。」 |
-| **ズン** | 「十四代!プレミアムで有名ですよね…ぜひお願いします。**純米大吟醸**【4】って、お米をどこまで磨くんでしたっけ?」 |
-| **中村** | 「精米歩合50%以下が大吟醸。35%以下のもある。米の中心だけ使うから、雑味が消えてフルーティーになる。」 |
-| **ズン** | 「なるほど…**広島の賀茂鶴**【5】も気になっています、**軟水**で作るって聞きました。」 |
-| **中村** | 「日本酒オタクだね、ズンさん(笑)。広島は確かに軟水で柔らかい味になる。北海道だと**男山**って酒蔵がおすすめ、寒造りで切れ味抜群。」 |
-| **ズン** | 「男山、メモします。北海道出張のとき必ず飲ませてください。」 |
+| **中村** | 「ズンさん、<ruby>日本酒<rt>にほんしゅ</rt></ruby>は<ruby>飲<rt>の</rt></ruby>める?」 |
+|  | *Em uống được sake không?* |
+| **ズン** | 「はい、最近<ruby>勉強中<rt>べんきょうちゅう</rt></ruby>で…**<ruby>新潟<rt>にいがた</rt></ruby>の<ruby>久保田<rt>くぼた</rt></ruby>**【1】、一度飲んで<ruby>感動<rt>かんどう</rt></ruby>しました。すっきりしてて。」 |
+|  | *Vâng, gần đây em đang học... Kubota Niigata em uống lần đầu là cảm động luôn. Sạch sẽ.* |
+| **中村** | 「お、久保田知ってるんだ。新潟は**<ruby>淡麗辛口<rt>たんれいからくち</rt></ruby>**【2】の<ruby>代表<rt>だいひょう</rt></ruby>だね。じゃあ今日は**<ruby>山形<rt>やまがた</rt></ruby>の<ruby>十四代<rt>じゅうよんだい</rt></ruby>**【3】も試してみる?こっちは**フルーティー**で全然違うよ。」 |
+|  | *Ồ, biết Kubota luôn. Niigata đại diện kiểu nhẹ-khô. Hôm nay thử Jūyondai Yamagata không? Cái này fruity, khác hẳn.* |
+| **ズン** | 「十四代!プレミアムで有名ですよね…ぜひお願いします。**<ruby>純米大吟醸<rt>じゅんまいだいぎんじょう</rt></ruby>**【4】って、お<ruby>米<rt>こめ</rt></ruby>をどこまで<ruby>磨<rt>みが</rt></ruby>くんでしたっけ?」 |
+|  | *Jūyondai! Nổi tiếng premium ạ... vâng anh cho em thử. Junmai-daiginjō là xát gạo đến đâu ạ?* |
+| **中村** | 「<ruby>精米歩合<rt>せいまいぶあい</rt></ruby>50%以下が大吟醸。35%以下のもある。米の<ruby>中心<rt>ちゅうしん</rt></ruby>だけ使うから、<ruby>雑味<rt>ざつみ</rt></ruby>が消えてフルーティーになる。」 |
+|  | *Tỷ lệ xát ≤50% là daiginjō. Có loại ≤35%. Chỉ dùng tâm gạo, mất tạp vị, trở nên fruity.* |
+| **ズン** | 「なるほど…**<ruby>広島<rt>ひろしま</rt></ruby>の<ruby>賀茂鶴<rt>かもつる</rt></ruby>**【5】も気になっています、**<ruby>軟水<rt>なんすい</rt></ruby>**で作るって聞きました。」 |
+|  | *Hiểu rồi... Em cũng tò mò Kamotsuru Hiroshima, nghe nói làm bằng nước mềm.* |
+| **中村** | 「日本酒オタクだね、ズンさん(笑)。広島は確かに軟水で<ruby>柔<rt>やわ</rt></ruby>らかい味になる。<ruby>北海道<rt>ほっかいどう</rt></ruby>だと**<ruby>男山<rt>おとこやま</rt></ruby>**って<ruby>酒蔵<rt>さかぐら</rt></ruby>がおすすめ、<ruby>寒造<rt>かんづく</rt></ruby>りで<ruby>切<rt>き</rt></ruby>れ<ruby>味<rt>あじ</rt></ruby><ruby>抜群<rt>ばつぐん</rt></ruby>。」 |
+|  | *Em otaku sake luôn (cười). Hiroshima đúng là nước mềm tạo vị nhẹ. Hokkaido thì có Otokoyama, ủ lạnh, cực sắc.* |
+| **ズン** | 「男山、メモします。北海道<ruby>出張<rt>しゅっちょう</rt></ruby>のとき必ず飲ませてください。」 |
+|  | *Otokoyama, em ghi lại. Lần sau công tác Hokkaido nhất định mời em uống nhé.* |
 
-📝【1】 **久保田** (Niigata, Asahi Brewery) = sake nổi tiếng quốc dân, dòng 萬寿 / 千寿. 【2】 **淡麗辛口** = nhẹ + khô (đặc trưng Niigata). 【3】 **十四代** (Yamagata, Takagi Brewery) = sake premium top, fruity. 【4】 **純米大吟醸** = sake xát gạo ≤50%, không pha cồn. 【5】 **賀茂鶴** (Hiroshima) = brewery nước mềm.
+📝【1】 **久保田** (Niigata, Asahi Brewery) = sake nổi tiếng quốc dân, dòng 萬寿 / 千寿. 【2】 **淡麗辛口** = nhẹ + khô (đặc trưng Niigata). 【3】 **十四代** (Yamagata, Takagi Brewery) = sake thượng hạng hàng đầu, vị trái cây. 【4】 **純米大吟醸** = sake xát gạo ≤50%, không pha cồn. 【5】 **賀茂鶴** (Hiroshima) = nhà ủ dùng nước mềm.
 
-> **VN:** Sake topic = vocab nhiều: **淡麗辛口 / 純米 / 大吟醸 / 精米歩合 / 寒造り**. Biết 3-4 brewery cụ thể (久保田/十四代/賀茂鶴/男山) = senior level.
+> **VN:** Chủ đề sake = nhiều từ vựng: **淡麗辛口 / 純米 / 大吟醸 / 精米歩合 / 寒造り**. Biết 3-4 nhà ủ rượu cụ thể (久保田/十四代/賀茂鶴/男山) = đẳng cấp senior.
 
 ---
 
@@ -48,16 +56,24 @@ Dũng tham gia 4 buổi nhậu khác nhau trong 2 tuần: izakaya với Nakamura
 
 | Vai | Câu |
 |---------|-----|
-| **佐藤** | 「ズンさん、九州は焼酎やけん。日本酒より焼酎よ。」 |
-| **ズン** | 「はい、**麦焼酎**【1】と**芋焼酎**【2】、違いを教えてください。」 |
-| **佐藤** | 「麦は飲みやすい、初心者向け。福岡は麦が強くてね、**いいちこ**【3】**二階堂**有名やろ?芋は鹿児島・宮崎、香りが独特、**魔王**【4】**森伊蔵****村尾**で『3M』って言われとる。」 |
+| **佐藤** | 「ズンさん、<ruby>九州<rt>きゅうしゅう</rt></ruby>は<ruby>焼酎<rt>しょうちゅう</rt></ruby>やけん。日本酒より焼酎よ。」 |
+|  | *Dũng à, Kyushu là shochu đó. Hơn cả sake.* |
+| **ズン** | 「はい、**<ruby>麦焼酎<rt>むぎじょうちゅう</rt></ruby>**【1】と**<ruby>芋焼酎<rt>いもじょうちゅう</rt></ruby>**【2】、違いを教えてください。」 |
+|  | *Vâng, anh dạy em phân biệt mugi-shochu và imo-shochu với ạ.* |
+| **佐藤** | 「麦は飲みやすい、<ruby>初心者向<rt>しょしんしゃむ</rt></ruby>け。<ruby>福岡<rt>ふくおか</rt></ruby>は麦が強くてね、**いいちこ**【3】**<ruby>二階堂<rt>にかいどう</rt></ruby>**有名やろ?芋は<ruby>鹿児島<rt>かごしま</rt></ruby>・<ruby>宮崎<rt>みやざき</rt></ruby>、<ruby>香<rt>かお</rt></ruby>りが<ruby>独特<rt>どくとく</rt></ruby>、**<ruby>魔王<rt>まおう</rt></ruby>**【4】**<ruby>森伊蔵<rt>もりいぞう</rt></ruby>****<ruby>村尾<rt>むらお</rt></ruby>**で『3M』って言われとる。」 |
+|  | *Mugi dễ uống, hợp người mới. Fukuoka mạnh về mugi, Iichiko với Nikaidō nổi đó. Imo là Kagoshima/Miyazaki, mùi đặc trưng, 3 chai Maō, Mori Izō, Murao gọi là '3M'.* |
 | **ズン** | 「3M、聞いたことあります。プレミア化してるんですよね。今日は何をいただけますか?」 |
-| **佐藤** | 「今日は俺の地元のおすすめ、**百年の孤独**【5】。麦焼酎やけど、樽熟成でウィスキーみたいな味よ。」 |
-| **ズン** | 「樽熟成!**ロック**【6】でいきますか、**お湯割り**【7】ですか?」 |
-| **佐藤** | 「お、お湯割り知っとるか。九州はお湯割りが基本やけん。**先にお湯、後で焼酎**【8】、これ大事。逆だと味が崩れるとよ。」 |
-| **ズン** | 「先お湯…メモします!**もつ鍋**と一緒に、最高ですね。」 |
+|  | *3M em có nghe. Premium hóa rồi đúng không ạ. Hôm nay mình uống gì ạ?* |
+| **佐藤** | 「今日は<ruby>俺<rt>おれ</rt></ruby>の<ruby>地元<rt>じもと</rt></ruby>のおすすめ、**<ruby>百年<rt>ひゃくねん</rt></ruby>の<ruby>孤独<rt>こどく</rt></ruby>**【5】。麦焼酎やけど、<ruby>樽熟成<rt>たるじゅくせい</rt></ruby>でウィスキーみたいな味よ。」 |
+|  | *Hôm nay anh chọn của vùng anh — Hyakunen no Kodoku. Mugi-shochu nhưng ủ thùng gỗ, vị như whisky.* |
+| **ズン** | 「樽熟成!**ロック**【6】でいきますか、**<ruby>お湯割<rt>おゆわ</rt></ruby>り**【7】ですか?」 |
+|  | *Ủ thùng! Mình uống đá hay pha nước nóng ạ?* |
+| **佐藤** | 「お、お湯割り知っとるか。九州はお湯割りが<ruby>基本<rt>きほん</rt></ruby>やけん。**<ruby>先<rt>さき</rt></ruby>にお湯、<ruby>後<rt>あと</rt></ruby>で焼酎**【8】、これ大事。<ruby>逆<rt>ぎゃく</rt></ruby>だと味が<ruby>崩<rt>くず</rt></ruby>れるとよ。」 |
+|  | *Ồ, biết oyu-wari nhỉ. Kyushu cơ bản là oyu-wari. Nước nóng trước, shochu sau — quan trọng nhé. Ngược thì hỏng vị.* |
+| **ズン** | 「先お湯…メモします!**<ruby>もつ鍋<rt>もつなべ</rt></ruby>**と一緒に、最高ですね。」 |
+|  | *Nước nóng trước... em ghi! Ăn cùng motsunabe quá tuyệt ạ.* |
 
-📝【1】 **麦焼酎** = shochu lúa mạch (Oita / Fukuoka mạnh). 【2】 **芋焼酎** = shochu khoai (Kagoshima / Miyazaki). 【3】 **いいちこ** = brand麦焼酎 大分. 【4】 **魔王/森伊蔵/村尾** = top 3 premium imo-shochu Kagoshima ("3M"). 【5】 **百年の孤独** = 麦焼酎 Miyazaki, ủ thùng gỗ. 【6】 **ロック** = on the rocks. 【7】 **お湯割り** = pha nước nóng. 【8】 **先湯後酒** = quy tắc rót nước nóng trước.
+📝【1】 **麦焼酎** = shochu lúa mạch (Oita / Fukuoka mạnh). 【2】 **芋焼酎** = shochu khoai (Kagoshima / Miyazaki). 【3】 **いいちこ** = nhãn 麦焼酎 vùng 大分. 【4】 **魔王/森伊蔵/村尾** = 3 nhãn imo-shochu thượng hạng Kagoshima ("3M"). 【5】 **百年の孤独** = 麦焼酎 Miyazaki, ủ thùng gỗ. 【6】 **ロック** = uống với đá. 【7】 **お湯割り** = pha nước nóng. 【8】 **先湯後酒** = quy tắc rót nước nóng trước.
 
 > **VN:** Kyushu chuyện shochu = bắt buộc. Phân biệt **麦/芋/米** + biết "3M" + quy tắc お湯割り = đẳng cấp Hakata.
 
@@ -65,22 +81,30 @@ Dũng tham gia 4 buổi nhậu khác nhau trong 2 tuần: izakaya với Nakamura
 
 ### 📍 Scenario 3 — Craft beer: thế hệ trẻ (Tanaka 35t)
 
-*Brooklyn-style craft beer pub Shibuya*
+*Quán craft beer phong cách Brooklyn ở Shibuya*
 
 | Vai | Câu |
 |---------|-----|
 | **田中** | 「ズンさん、最近のクラフトビール飲む?」 |
+|  | *Dũng có hay uống craft beer dạo này không?* |
 | **ズン** | 「はい、**ヤッホーブルーイング**【1】の**よなよなエール**、よく飲みます。」 |
-| **田中** | 「お、定番!よなよなはコンビニでも買えるしね。今日のおすすめは**伊勢角屋麦酒**の**ペールエール**、**インペリアルIPA**もある。」 |
-| **ズン** | 「**IPA**は苦みが強めですよね…**ホップ**の香りが好きで、**ペールエール**がちょうどいいです。」 |
-| **田中** | 「分かる。じゃあ**SPRING VALLEY 豊潤〈496〉**もいけるよ、キリンの**クラフトライン**。あと**箕面ビール**(大阪)、**スワンレイクビール**(新潟)、地ビールも面白いよ。」 |
-| **ズン** | 「箕面ビール、大阪行ったとき探してみます。日本酒も好きなんですが、最近のクラフトビール、年代だと若い人が多いですか?」 |
-| **田中** | 「30代40代多いね。50代以上はやっぱり日本酒・焼酎メイン。世代ハッキリ分かれてる。」 |
-| **ズン** | 「なるほど、お客様の年齢でドリンクのおすすめ変えるの、勉強になります。」 |
+|  | *Có ạ, em hay uống Yona Yona Ale của Yo-Ho Brewing.* |
+| **田中** | 「お、<ruby>定番<rt>ていばん</rt></ruby>!よなよなはコンビニでも<ruby>買<rt>か</rt></ruby>えるしね。今日のおすすめは**<ruby>伊勢角屋麦酒<rt>いせかどやびーる</rt></ruby>**の**ペールエール**、**インペリアルIPA**もある。」 |
+|  | *Ồ chuẩn rồi! Yona Yona conbini cũng bán. Hôm nay quán đề xuất Pale Ale của Ise Kadoya, có cả Imperial IPA.* |
+| **ズン** | 「**IPA**は<ruby>苦<rt>にが</rt></ruby>みが強めですよね…**ホップ**の香りが好きで、**ペールエール**がちょうどいいです。」 |
+|  | *IPA hơi đắng nhỉ... em thích hương hop, Pale Ale vừa.* |
+| **田中** | 「分かる。じゃあ**SPRING VALLEY <ruby>豊潤<rt>ほうじゅん</rt></ruby>〈496〉**もいけるよ、キリンの**クラフトライン**。あと**<ruby>箕面<rt>みのお</rt></ruby>ビール**(大阪)、**スワンレイクビール**(新潟)、<ruby>地<rt>じ</rt></ruby>ビールも面白いよ。」 |
+|  | *Hiểu. Vậy SPRING VALLEY Hōjun 496 hợp đó, dòng craft của Kirin. Thêm Minō Beer (Osaka), Swan Lake (Niigata), bia địa phương cũng thú vị.* |
+| **ズン** | 「箕面ビール、<ruby>大阪<rt>おおさか</rt></ruby>行ったとき<ruby>探<rt>さが</rt></ruby>してみます。日本酒も好きなんですが、最近のクラフトビール、<ruby>年代<rt>ねんだい</rt></ruby>だと<ruby>若<rt>わか</rt></ruby>い人が多いですか?」 |
+|  | *Minō Beer lần đi Osaka em sẽ tìm. Em cũng thích sake nhưng craft beer hiện giờ đa số người trẻ ạ?* |
+| **田中** | 「30代40代多いね。50代以上はやっぱり日本酒・焼酎メイン。<ruby>世代<rt>せだい</rt></ruby>ハッキリ<ruby>分<rt>わ</rt></ruby>かれてる。」 |
+|  | *30-40t nhiều. 50+ chủ yếu vẫn sake/shochu. Phân thế hệ rõ ràng.* |
+| **ズン** | 「なるほど、お<ruby>客様<rt>きゃくさま</rt></ruby>の<ruby>年齢<rt>ねんれい</rt></ruby>でドリンクのおすすめ変えるの、勉強になります。」 |
+|  | *Vậy nhỉ — khách tuổi nào thì đổi đề xuất drink, em học được.* |
 
-📝【1】 **ヤッホーブルーイング** (Yo-Ho Brewing, Nagano) = brand craft beer phổ biến nhất.
+📝【1】 **ヤッホーブルーイング** (Yo-Ho Brewing, Nagano) = nhãn craft beer phổ biến nhất.
 
-> **VN:** Craft beer = vocab modern: **ペールエール / IPA / ホップ / 地ビール**. Tanaka 35t = match đúng generation. Biết "match drink theo tuổi" = đẳng cấp host.
+> **VN:** Craft beer = từ vựng hiện đại: **ペールエール / IPA / ホップ / 地ビール**. Tanaka 35t = chọn đúng thế hệ. Biết "chọn đồ uống theo tuổi" = đẳng cấp người chủ tiệc.
 
 ---
 
@@ -90,33 +114,41 @@ Dũng tham gia 4 buổi nhậu khác nhau trong 2 tuần: izakaya với Nakamura
 
 | Vai | Câu |
 |---------|-----|
-| **小林** | 「ズンさん、沖縄に来たら泡盛は外せないよ。」 |
+| **小林** | 「ズンさん、<ruby>沖縄<rt>おきなわ</rt></ruby>に来たら<ruby>泡盛<rt>あわもり</rt></ruby>は<ruby>外<rt>はず</rt></ruby>せないよ。」 |
+|  | *Dũng, đến Okinawa không thể bỏ qua awamori đâu.* |
 | **ズン** | 「**泡盛**【1】、**米から作る**って聞きましたが、日本酒と違いますか?」 |
-| **小林** | 「日本酒は醸造、泡盛は蒸留。**タイ米**を使うのが特徴。**黒麹菌**【2】で発酵させて、25度〜43度くらい。」 |
-| **ズン** | 「タイ米と黒麹!ベトナムの蒸留酒に近いかもしれないですね。**3年以上熟成**したものを**古酒(クース)**【3】って呼ぶんですよね?」 |
-| **小林** | 「お、クース知ってる!沖縄では『**カラカラ**』って酒器に入れて、ロックか水割り。あと**シークヮーサー**絞って飲むのが地元流。」 |
-| **ズン** | 「シークヮーサー!那覇の市場で売ってる柑橘ですね。今日のおすすめ銘柄は?」 |
-| **小林** | 「**残波**(ざんぱ)、**瑞泉**(ずいせん)、**菊之露**…どれも飲みやすい。**南風(はえ)**って銘柄もうち地元で愛されてる。」 |
-| **ズン** | 「メモしてます。次回沖縄出張のとき、酒蔵見学もしてみたいです。」 |
+|  | *Awamori nghe nói làm từ gạo, khác sake không ạ?* |
+| **小林** | 「日本酒は<ruby>醸造<rt>じょうぞう</rt></ruby>、泡盛は<ruby>蒸留<rt>じょうりゅう</rt></ruby>。**<ruby>タイ米<rt>たいまい</rt></ruby>**を使うのが<ruby>特徴<rt>とくちょう</rt></ruby>。**<ruby>黒麹菌<rt>くろこうじきん</rt></ruby>**【2】で<ruby>発酵<rt>はっこう</rt></ruby>させて、25度〜43度くらい。」 |
+|  | *Sake là ủ men, awamori là chưng cất. Đặc trưng dùng gạo Thái. Lên men bằng kuro-kōji, nồng độ 25-43.* |
+| **ズン** | 「タイ米と黒麹!ベトナムの<ruby>蒸留酒<rt>じょうりゅうしゅ</rt></ruby>に近いかもしれないですね。**3年以上<ruby>熟成<rt>じゅくせい</rt></ruby>**したものを**<ruby>古酒<rt>こしゅ</rt></ruby>(クース)**【3】って<ruby>呼<rt>よ</rt></ruby>ぶんですよね?」 |
+|  | *Gạo Thái + men đen! Có thể gần với rượu chưng cất Việt Nam. Ủ ≥3 năm gọi là kūsu đúng không ạ?* |
+| **小林** | 「お、クース知ってる!沖縄では『**カラカラ**』って<ruby>酒器<rt>しゅき</rt></ruby>に入れて、ロックか<ruby>水割<rt>みずわ</rt></ruby>り。あと**シークヮーサー**<ruby>絞<rt>しぼ</rt></ruby>って飲むのが<ruby>地元流<rt>じもとりゅう</rt></ruby>。」 |
+|  | *Ồ, biết kūsu! Okinawa rót vào bình 'karakara', uống đá hoặc pha nước. Còn vắt shīkwāsā vào uống là kiểu địa phương.* |
+| **ズン** | 「シークヮーサー!<ruby>那覇<rt>なは</rt></ruby>の<ruby>市場<rt>いちば</rt></ruby>で売ってる<ruby>柑橘<rt>かんきつ</rt></ruby>ですね。今日のおすすめ<ruby>銘柄<rt>めいがら</rt></ruby>は?」 |
+|  | *Shīkwāsā! Trái họ cam ở chợ Naha bán nhỉ. Hôm nay anh đề xuất nhãn nào ạ?* |
+| **小林** | 「**<ruby>残波<rt>ざんぱ</rt></ruby>**、**<ruby>瑞泉<rt>ずいせん</rt></ruby>**、**<ruby>菊之露<rt>きくのつゆ</rt></ruby>**…どれも飲みやすい。**<ruby>南風<rt>はえ</rt></ruby>**って銘柄もうち地元で<ruby>愛<rt>あい</rt></ruby>されてる。」 |
+|  | *Zanpa, Zuisen, Kikunotsuyu... cái nào cũng dễ uống. Còn Hae cũng được yêu ở quê anh.* |
+| **ズン** | 「メモしてます。次回沖縄出張のとき、酒蔵<ruby>見学<rt>けんがく</rt></ruby>もしてみたいです。」 |
+|  | *Em đang ghi. Lần sau công tác Okinawa em muốn thăm cả nhà ủ rượu nữa ạ.* |
 
 📝【1】 **泡盛** = rượu chưng cất Okinawa, gạo Thái + 黒麹. 【2】 **黒麹菌** = nấm men đen, đặc trưng Okinawa. 【3】 **古酒(クース)** = ủ ≥3 năm.
 
-> **VN:** Okinawa drink riêng — vocab khác hẳn (**泡盛 / 黒麹 / クース / カラカラ / シークヮーサー**). Khách Okinawa được kể về **泡盛** = vui như được kể quê.
+> **VN:** Okinawa có đồ uống riêng — từ vựng khác hẳn (**泡盛 / 黒麹 / クース / カラカラ / シークヮーサー**). Khách Okinawa được kể về **泡盛** = vui như được nhắc về quê.
 
 ---
 
 ## 🎯 Câu vàng copy-paste
 
 ```
-■ MỞ topic SAKE:
+■ MỞ chủ đề SAKE:
 「[新潟]の[久保田]、好きでよく飲みます。」
 「[山形の十四代]、一度飲んで感動しました。」
-「[純米大吟醸]、精米歩合どれくらいですか?」(connoisseur)
+「[純米大吟醸]、精米歩合どれくらいですか?」(sành sỏi)
 
-■ MỞ topic 焼酎:
+■ MỞ chủ đề 焼酎:
 「[麦焼酎]と[芋焼酎]、違いを教えてください。」
 「[3M]の[魔王]、噂では聞いたことあります。」
-「[お湯割り]、先湯後酒ですよね。」(level cao)
+「[お湯割り]、先湯後酒ですよね。」(trình độ cao)
 
 ■ CRAFT BEER (thế hệ trẻ):
 「[ヤッホーブルーイング]の[よなよなエール]、よく飲みます。」
@@ -131,15 +163,15 @@ Dũng tham gia 4 buổi nhậu khác nhau trong 2 tuần: izakaya với Nakamura
 
 ## ⚠ NG — tuyệt đối tránh
 
-- "私はお酒飲めない" mà không thử nỗ lực 1 ly → mất chance bonding. Nếu không uống được, nói "弱いので少しだけ" + uống 1 ngụm.
+- "私はお酒飲めない" mà không thử nỗ lực 1 ly → mất cơ hội gắn kết. Nếu không uống được, nói "弱いので少しだけ" + uống 1 ngụm.
 - Khen vùng A xong chê vùng B trước mặt khách vùng B.
-- Hỏi giá chai sake premium (十四代 / 魔王) → thô.
-- Tự rót cho mình (自酌) khi senior chưa rót xong → cross-ref Sách 07 rule_26.
+- Hỏi giá chai sake thượng hạng (十四代 / 魔王) → thô.
+- Tự rót cho mình (自酌) khi senior chưa rót xong → tham chiếu Sách 07 rule_26.
 - Pha 焼酎 "後酒先湯" (rượu trước nước nóng sau) → khách sẽ nhăn mặt.
 
 ---
 
-## 📚 Vocab
+## 📚 Bảng từ vựng
 
 | 漢字 | よみ | Nghĩa |
 |------|------|-------|
@@ -147,7 +179,7 @@ Dũng tham gia 4 buổi nhậu khác nhau trong 2 tuần: izakaya với Nakamura
 | 焼酎 | しょうちゅう | Shochu |
 | 泡盛 | あわもり | Awamori (Okinawa) |
 | 純米 | じゅんまい | Sake không pha cồn |
-| 大吟醸 | だいぎんじょう | Premium grade (gạo xát ≤50%) |
+| 大吟醸 | だいぎんじょう | Hạng cao cấp (gạo xát ≤50%) |
 | 精米歩合 | せいまいぶあい | Tỉ lệ xát gạo |
 | 淡麗辛口 | たんれいからくち | Nhẹ + khô (Niigata style) |
 | 寒造り | かんづくり | Ủ rượu mùa lạnh |
@@ -159,17 +191,17 @@ Dũng tham gia 4 buổi nhậu khác nhau trong 2 tuần: izakaya với Nakamura
 | ハイボール | — | Highball (whisky soda) |
 | 古酒(クース) | くーす | Awamori ủ ≥3 năm |
 | 黒麹 | くろこうじ | Nấm men đen (Okinawa) |
-| 酒蔵 | さかぐら | Brewery |
-| 銘柄 | めいがら | Brand / nhãn |
+| 酒蔵 | さかぐら | Nhà ủ rượu |
+| 銘柄 | めいがら | Nhãn hiệu |
 | 地ビール | じびーる | Bia địa phương |
 
 ---
 
 ## 🎓 BJT
 
-**J3 — 場面把握:** Match đúng đồ uống theo vùng + tuổi khách (senior sake / Kyushu shochu / trẻ craft beer).
-**J2 — 表現読解:** Phân biệt 純米/吟醸/大吟醸 — sắc thái grade.
-**J1 — 発言聴解:** Catch tên brewery khách nhắc thoáng → research → buổi sau quay lại.
+**J3 — 場面把握:** Chọn đúng đồ uống theo vùng + tuổi khách (senior sake / Kyushu shochu / trẻ craft beer).
+**J2 — 表現読解:** Phân biệt 純米/吟醸/大吟醸 — sắc thái thứ hạng.
+**J1 — 発言聴解:** Bắt tên nhà ủ rượu khách nhắc thoáng → tìm hiểu → buổi sau quay lại.
 
 ---
 

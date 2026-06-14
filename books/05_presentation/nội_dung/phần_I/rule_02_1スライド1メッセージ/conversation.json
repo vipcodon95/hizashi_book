@@ -9,7 +9,11 @@
     "ja": "ズンが Phase 3 プレゼンの15枚 draft をフオン副部長にレビューしてもらう場面。タイトルが全部「〜について」型 → 結論型に書き直す。",
     "vi": "Dũng share draft 15 slide cho chị Hương review. Title đều kiểu 「〜について」 (chỉ là chủ đề) → phải sửa sang dạng kết luận."
   },
-  "related_rules": ["rule_01", "rule_03", "rule_06"],
+  "related_rules": [
+    "rule_01",
+    "rule_03",
+    "rule_06"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -89,7 +93,9 @@
           "sentence": "フオン副部長、タイトルを全部結論型に書き直しました。10枚お願いします。",
           "sentence_translation": "Chị Hương, em đã sửa toàn bộ title sang dạng kết luận ạ. Phiền chị review 10 slide giúp em.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_02_good_02",
@@ -108,7 +114,9 @@
           "sentence": "本文は根拠3点だけ書きました。在庫管理ロジック、リアルタイム同期、アラート機構の3つです。",
           "sentence_translation": "Body em chỉ viết 3 luận cứ ạ. Logic quản lý tồn kho, đồng bộ realtime, cơ chế alert — ba điểm đó ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_02_good_04",
@@ -148,11 +156,11 @@
       "question_ja": "1スライド1メッセージのルールに最も合うタイトルはどれ？",
       "options": [
         "Phase 3 について",
-        "在庫管理システムの概要",
         "Phase 3 で在庫差異を月平均5%→1%に削減",
-        "今後の課題と展望"
+        "今後の課題と展望",
+        "在庫管理システムの概要"
       ],
-      "correct": "C",
+      "correct": "B",
       "explanation": {
         "ja": "結論＋数字＋動詞が入ったタイトルがベスト。「〜について」「〜の概要」はテーマであって結論ではない。",
         "vi": "Title có kết luận + số + động từ là tốt nhất. 「〜について」「〜の概要」 chỉ là chủ đề, không phải kết luận."

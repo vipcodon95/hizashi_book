@@ -25,7 +25,7 @@ Tháng 5/2029. Đại kết thúc đợt onsite cuối với 4 công ty top: Mer
 | Vai | Lời thoại |
 |---|---|
 | CTO Mercari | グエンさん、よろしくお<ruby>願<rt>ねが</rt></ruby>いします。まず<ruby>自己紹介<rt>じこしょうかい</rt></ruby>を<ruby>1分<rt>いっぷん</rt></ruby>でお<ruby>願<rt>ねが</rt></ruby>いします。<br>*(Cậu Nguyễn, xin chào. Đầu tiên giới thiệu bản thân trong 1 phút.)* |
-| Đại | はい。<ruby>大阪大学<rt>おおさかだいがく</rt></ruby><ruby>情報科学部<rt>じょうほうかがくぶ</rt></ruby><ruby>4年<rt>よねん</rt></ruby>のグエンダイと<ruby>申<rt>もう</rt></ruby>します。<ruby>井上研究室<rt>いのうえけんきゅうしつ</rt></ruby>でNLPと<ruby>教育工学<rt>きょういくこうがく</rt></ruby>を<ruby>研究<rt>けんきゅう</rt></ruby>しております。<br>*(Vâng. Em là Nguyễn Đại, ĐH Osaka, khoa CNTT năm 4, lab Inoue nghiên cứu NLP và công nghệ giáo dục.)* |
+| Đại | はい。<ruby>大阪大学<rt>おおさかだいがく</rt></ruby><ruby>情報科学科<rt>じょうほうかがくか</rt></ruby><ruby>4年<rt>よねん</rt></ruby>のグエンダイと<ruby>申<rt>もう</rt></ruby>します。<ruby>井上研究室<rt>いのうえけんきゅうしつ</rt></ruby>でNLPと<ruby>教育工学<rt>きょういくこうがく</rt></ruby>を<ruby>研究<rt>けんきゅう</rt></ruby>しております。<br>*(Vâng. Em là Nguyễn Đại, ĐH Osaka, khoa CNTT năm 4, lab Inoue nghiên cứu NLP và công nghệ giáo dục.)* |
 | Đại | <ruby>3年生<rt>さんねんせい</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>からサイボウズで<ruby>1年<rt>いちねん</rt></ruby>インターンを<ruby>経験<rt>けいけん</rt></ruby>し、<ruby>並行<rt>へいこう</rt></ruby>してJLPT<ruby>学習<rt>がくしゅう</rt></ruby>アプリ Hizashi を<ruby>開発<rt>かいはつ</rt></ruby>しております。<ruby>本日<rt>ほんじつ</rt></ruby>はよろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。<br>*(Từ hè năm 3 em intern Cybozu 1 năm, song song phát triển app học JLPT Hizashi. Hôm nay rất mong nhận chỉ giáo ạ.)* |
 | CTO | <ruby>本日<rt>ほんじつ</rt></ruby>は<ruby>3回<rt>さんかい</rt></ruby>の<ruby>面接<rt>めんせつ</rt></ruby>です。<ruby>技術<rt>ぎじゅつ</rt></ruby>、システムデザイン、カルチャーフィットの<ruby>順<rt>じゅん</rt></ruby>で<ruby>進<rt>すす</rt></ruby>めます。<br>*(Hôm nay 3 vòng: kỹ thuật, system design, culture fit.)* |
 | Đại | はい、<ruby>承知<rt>しょうち</rt></ruby>いたしました。<br>*(Vâng, em đã rõ ạ.)* |
@@ -98,7 +98,7 @@ Tháng 5/2029. Đại kết thúc đợt onsite cuối với 4 công ty top: Mer
 | Tanaka | <ruby>大<rt>だい</rt></ruby>くんはメルカリの<ruby>内定<rt>ないてい</rt></ruby>も<ruby>取<rt>と</rt></ruby>ったって<ruby>聞<rt>き</rt></ruby>いたよ。<ruby>正直<rt>しょうじき</rt></ruby>に<ruby>聞<rt>き</rt></ruby>くけど、メルカリと<ruby>迷<rt>まよ</rt></ruby>っている？<br>*(Nghe nói cậu đã có 内定 Mercari. Hỏi thẳng — cậu đang phân vân Mercari à?)* |
 | Đại | はい、<ruby>正直<rt>しょうじき</rt></ruby>に<ruby>申<rt>もう</rt></ruby>しますと、<ruby>迷<rt>まよ</rt></ruby>っております。Hizashiの<ruby>件<rt>けん</rt></ruby>もあり、<ruby>12月<rt>じゅうにがつ</rt></ruby>まで<ruby>判断<rt>はんだん</rt></ruby>をお<ruby>待<rt>ま</rt></ruby>たせいただけますでしょうか。<br>*(Vâng, nói thật là em đang phân vân. Còn vấn đề Hizashi nữa, anh cho em đợi quyết định đến tháng 12 được không ạ?)* |
 | Tanaka | もちろん。サイボウズは<ruby>急<rt>いそ</rt></ruby>がない。<ruby>君<rt>きみ</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>を<ruby>尊重<rt>そんちょう</rt></ruby>するよ。<br>*(Đương nhiên. Cybozu không vội. Bên anh tôn trọng quyết định của cậu.)* |
-| Đại | ありがとうございます。<ruby>大変助<rt>たいへんたす</rt></ruby>かります。<br>*(Em cảm ơn anh. Em được giúp đỡ rất nhiều.)* |
+| Đại | ありがとうございます。<ruby>大変<rt>たいへん</rt></ruby><ruby>助<rt>たす</rt></ruby>かります。<br>*(Em cảm ơn anh. Em được giúp đỡ rất nhiều.)* |
 
 ---
 
@@ -204,7 +204,7 @@ Tháng 5/2029. Đại kết thúc đợt onsite cuối với 4 công ty top: Mer
 | 入館証 | にゅうかんしょう | NHẬP QUÁN CHỨNG | thẻ ra vào |
 | 失礼 | しつれい | THẤT LỄ | xin phép, xin lỗi |
 | 自己紹介 | じこしょうかい | TỰ KỶ THIỆU GIỚI | giới thiệu bản thân |
-| 情報科学部 | じょうほうかがくぶ | THÔNG TIN KHOA HỌC BỘ | khoa CNTT |
+| 情報科学科 | じょうほうかがくか | THÔNG TIN KHOA HỌC KHOA | khoa Khoa học Thông tin (基礎工学部 ĐH Osaka) |
 | 研究室 | けんきゅうしつ | NGHIÊN CỨU THẤT | phòng nghiên cứu |
 | 教育工学 | きょういくこうがく | GIÁO DỤC CÔNG HỌC | công nghệ giáo dục |
 | 経験 | けいけん | KINH NGHIỆM | kinh nghiệm |

@@ -18,7 +18,7 @@ Tháng 1/2030. Hizashi đã có cofounder team (Đại CEO+CTO, Tuấn CMO, Aiko
 |---|---|
 | Sato-san | グエンさん、<ruby>本日<rt>ほんじつ</rt></ruby>はお<ruby>越<rt>こ</rt></ruby>しいただきありがとうございます。<br>*(Đại-san, cảm ơn anh đã đến hôm nay.)* |
 | Đại | こちらこそ、よろしくお<ruby>願<rt>ねが</rt></ruby>い<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます。<br>*(Tôi cũng vậy, mong được hợp tác.)* |
-| Yamashita-san | DG <ruby>第一<rt>だいいち</rt></ruby><ruby>キャピタル<rt></rt></ruby>の<ruby>山下<rt>やました</rt></ruby>です。<ruby>愛知<rt>あいち</rt></ruby>から<ruby>参<rt>まい</rt></ruby>りました。<br>*(Tôi là Yamashita từ DG Daiichi Capital. Đến từ Aichi.)* |
+| Yamashita-san | DG <ruby>第一<rt>だいいち</rt></ruby>キャピタルの<ruby>山下<rt>やました</rt></ruby>です。<ruby>愛知<rt>あいち</rt></ruby>から<ruby>参<rt>まい</rt></ruby>りました。<br>*(Tôi là Yamashita từ DG Daiichi Capital. Đến từ Aichi.)* |
 | Đại | <ruby>山下<rt>やました</rt></ruby>さん、<ruby>初<rt>はじ</rt></ruby>めまして。グエン・ヴァン・ダイです。よろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。<br>*(Yamashita-san, rất hân hạnh. Em là Nguyễn Văn Đại. Mong được hợp tác.)* |
 | Sato-san | では、<ruby>最終<rt>さいしゅう</rt></ruby><ruby>条件<rt>じょうけん</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>させていただきます。<br>*(Vậy chúng tôi xin xác nhận điều khoản cuối cùng.)* |
 
@@ -95,7 +95,7 @@ Tháng 1/2030. Hizashi đã có cofounder team (Đại CEO+CTO, Tuấn CMO, Aiko
 | Inoue (司法書士) | <ruby>井上<rt>いのうえ</rt></ruby>です。<ruby>本日<rt>ほんじつ</rt></ruby>は Hizashi <ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby><ruby>設立<rt>せつりつ</rt></ruby>のお<ruby>手続<rt>てつづ</rt></ruby>きですね。<br>*(Tôi là Inoue. Hôm nay là thủ tục thành lập Hizashi KK đúng không ạ.)* |
 | Đại | はい、よろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。<br>*(Vâng, mong anh giúp.)* |
 | Inoue | まず、<ruby>必要<rt>ひつよう</rt></ruby><ruby>書類<rt>しょるい</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。<ruby>定款<rt>ていかん</rt></ruby>、<ruby>発起人<rt>ほっきにん</rt></ruby><ruby>同意書<rt>どういしょ</rt></ruby>、<ruby>資本金<rt>しほんきん</rt></ruby><ruby>払込<rt>はらいこ</rt></ruby>みの<ruby>証明<rt>しょうめい</rt></ruby>、<ruby>印鑑証明書<rt>いんかんしょうめいしょ</rt></ruby>。<br>*(Trước tiên xác nhận giấy tờ cần. Điều lệ, biên bản đồng thuận thành viên sáng lập, chứng nhận nộp vốn, giấy chứng nhận dấu.)* |
-| Đại | <ruby>定款<rt>ていかん</rt></ruby>はこちらです。<ruby>本店<rt>ほんてん</rt></ruby><ruby>所在地<rt>しょざいち</rt></ruby>は<ruby>大阪市<rt>おおさかし</rt></ruby><ruby>豊中市<rt>とよなかし</rt></ruby><ruby>新千里<rt>しんせんり</rt></ruby><ruby>東町<rt>ひがしまち</rt></ruby>(WeWork)です。<br>*(Điều lệ đây. Trụ sở chính tại Toyonaka, Shinsenri-Higashi-machi — WeWork.)* |
+| Đại | <ruby>定款<rt>ていかん</rt></ruby>はこちらです。<ruby>本店<rt>ほんてん</rt></ruby><ruby>所在地<rt>しょざいち</rt></ruby>は<ruby>大阪府<rt>おおさかふ</rt></ruby><ruby>豊中市<rt>とよなかし</rt></ruby><ruby>新千里<rt>しんせんり</rt></ruby><ruby>東町<rt>ひがしまち</rt></ruby>(WeWork)です。<br>*(Điều lệ đây. Trụ sở chính tại Toyonaka, Shinsenri-Higashi-machi — WeWork.)* |
 | Inoue | WeWork でも<ruby>登記<rt>とうき</rt></ruby><ruby>可能<rt>かのう</rt></ruby>です。<ruby>住所<rt>じゅうしょ</rt></ruby><ruby>利用<rt>りよう</rt></ruby>プランに<ruby>加入<rt>かにゅう</rt></ruby>されていますね?<br>*(WeWork cũng đăng ký được. Anh đã đăng ký gói dùng địa chỉ chưa?)* |
 | Đại | はい、<ruby>加入済<rt>かにゅうず</rt></ruby>みです。<br>*(Vâng, đã đăng ký.)* |
 | Aiko | <ruby>1<rt>ひと</rt></ruby>つ<ruby>聞<rt>き</rt></ruby>いてもいいですか?<ruby>資本金<rt>しほんきん</rt></ruby>はいくらに<ruby>設定<rt>せってい</rt></ruby>すべきでしょうか?<br>*(Em hỏi 1 câu được không? Vốn điều lệ nên đặt bao nhiêu ạ?)* |
@@ -178,7 +178,7 @@ Tháng 1/2030. Hizashi đã có cofounder team (Đại CEO+CTO, Tuấn CMO, Aiko
 | Tuấn | <ruby>厚生年金<rt>こうせいねんきん</rt></ruby>と<ruby>健康保険<rt>けんこうほけん</rt></ruby>は<ruby>会社<rt>かいしゃ</rt></ruby><ruby>側<rt>がわ</rt></ruby>でどれくらい<ruby>負担<rt>ふたん</rt></ruby>?<br>*(Phía công ty trả lương hưu + bảo hiểm sức khoẻ khoảng bao nhiêu?)* |
 | Đại | <ruby>会社<rt>かいしゃ</rt></ruby><ruby>負担<rt>ふたん</rt></ruby><ruby>分<rt>ぶん</rt></ruby>は<ruby>給与<rt>きゅうよ</rt></ruby>の<ruby>約<rt>やく</rt></ruby> 15%。3<ruby>人<rt>にん</rt></ruby><ruby>分<rt>ぶん</rt></ruby><ruby>合計<rt>ごうけい</rt></ruby>で<ruby>月<rt>つき</rt></ruby>¥75,000<ruby>追加<rt>ついか</rt></ruby>コスト。<br>*(Phần công ty trả khoảng 15% lương. Tổng 3 người thêm ¥75,000/tháng.)* |
 | Aiko | burn rate <ruby>計算<rt>けいさん</rt></ruby>に<ruby>含<rt>ふく</rt></ruby>まれてる?<br>*(Đã tính vào burn rate chưa?)* |
-| Đại | <ruby>含<rt>ふく</rt></ruby>まれてる。<ruby>月<rt>つき</rt></ruby>¥1.4M <ruby>burn<rt></rt></ruby>(<ruby>初期<rt>しょき</rt></ruby> 6 ヶ<ruby>月<rt>げつ</rt></ruby>)、その<ruby>後<rt>ご</rt></ruby>¥1.7M。runway は¥31M ÷ <ruby>平均<rt>へいきん</rt></ruby>¥1.55M ≒ 20 ヶ<ruby>月<rt>げつ</rt></ruby>。<br>*(Đã. Burn ¥1.4M/tháng 6 tháng đầu, sau đó ¥1.7M. Runway = ¥31M ÷ trung bình ¥1.55M ≒ 20 tháng.)* |
+| Đại | <ruby>含<rt>ふく</rt></ruby>まれてる。<ruby>月<rt>つき</rt></ruby>¥1.4M burn(<ruby>初期<rt>しょき</rt></ruby> 6 ヶ<ruby>月<rt>げつ</rt></ruby>)、その<ruby>後<rt>ご</rt></ruby>¥1.7M。runway は¥31M ÷ <ruby>平均<rt>へいきん</rt></ruby>¥1.55M ≒ 20 ヶ<ruby>月<rt>げつ</rt></ruby>。<br>*(Đã. Burn ¥1.4M/tháng 6 tháng đầu, sau đó ¥1.7M. Runway = ¥31M ÷ trung bình ¥1.55M ≒ 20 tháng.)* |
 | Tuấn | 20 ヶ<ruby>月<rt>げつ</rt></ruby><ruby>以内<rt>いない</rt></ruby>に Series A、または<ruby>黒字化<rt>くろじか</rt></ruby>。<br>*(Trong 20 tháng phải Series A hoặc có lãi.)* |
 | Đại | その<ruby>通<rt>とお</rt></ruby>り。<br>*(Đúng vậy.)* |
 
@@ -191,7 +191,7 @@ Tháng 1/2030. Hizashi đã có cofounder team (Đại CEO+CTO, Tuấn CMO, Aiko
 | Vai | Lời thoại |
 |---|---|
 | Tony | (Osaka-ben) ダイ!<ruby>法人<rt>ほうじん</rt></ruby><ruby>設立<rt>せつりつ</rt></ruby>おめでとうさん!<br>*(Đại! Chúc mừng thành lập pháp nhân!)* |
-| Đại | トニーさん、ありがとうございます!<ruby>convertible note<rt></rt></ruby>のおかげで<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>助<rt>たす</rt></ruby>かりました。<br>*(Tony-san, em cảm ơn nhiều! Convertible note của anh đã giúp em rất nhiều.)* |
+| Đại | トニーさん、ありがとうございます!convertible noteのおかげで<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>助<rt>たす</rt></ruby>かりました。<br>*(Tony-san, em cảm ơn nhiều! Convertible note của anh đã giúp em rất nhiều.)* |
 | Tony | (Osaka-ben) ¥1M なんて<ruby>少<rt>すく</rt></ruby>ない<ruby>額<rt>がく</rt></ruby>やけど、<ruby>気持<rt>きも</rt></ruby>ちの<ruby>問題<rt>もんだい</rt></ruby>や。<ruby>愛知<rt>あいち</rt></ruby>のおっさんからや。<br>*(¥1M nhỏ thôi, nhưng là tấm lòng. Từ ông già Aichi.)* |
 | Đại | いえ、<ruby>金額<rt>きんがく</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>じゃないです。トニーさんが Hizashi を<ruby>信<rt>しん</rt></ruby>じてくれることが<ruby>嬉<rt>うれ</rt></ruby>しいんです。<br>*(Không, không phải vấn đề tiền. Em vui vì Tony tin Hizashi.)* |
 | Tony | (Osaka-ben) <ruby>頑張<rt>がんば</rt></ruby>りや!ユミも「ダイ<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>か」って<ruby>毎日<rt>まいにち</rt></ruby><ruby>聞<rt>き</rt></ruby>くわ。<br>*(Cố gắng nhé! Yumi cũng hỏi "Đại có ổn không" mỗi ngày.)* |

@@ -1,99 +1,74 @@
 # Hizashi Sách 09 — Hội thoại thực tế / 実践会話シーン集
 
-**Hizashi Teams. 2027. v0.2 (đang viết — 8/8 chương draft xong)**
+**Hizashi Teams. 2027. Phiên bản 0.2**
 
 ---
 
 ## 🇻🇳 Lời nói đầu
 
-Sách 02–08 dạy bạn **rule + tâm lý + kịch bản ngắn**. Đủ để bạn vào tình huống nào cũng có "khung" để bám.
+Sách 02–08 dạy bạn **quy tắc + tâm lý + kịch bản ngắn**. Đủ để bạn vào tình huống nào cũng có "khung" để bám.
 
-Nhưng đời thực **không phẳng theo từng rule**. Một ngày đi triển lãm cùng khách Nhật là một dòng chảy: 8 giờ sáng chào nhau ở cổng → 9 giờ vào lấy badge → 10 giờ thăm booth thứ nhất → 12 giờ ăn trưa → 14 giờ nghe keynote → 16 giờ chơi game booth lấy quà → 17 giờ mua omiyage → 18 giờ chia tay. Mỗi đoạn ngắn nhưng nối liền. Lúc bạn đứng ở booth thứ ba, bạn vẫn còn "**dư âm**" của booth thứ hai trong đầu khách.
+Nhưng đời thực **không phẳng theo từng quy tắc**. Một ngày đi triển lãm cùng khách Nhật là một dòng chảy: 8 giờ sáng chào nhau ở cổng → 9 giờ vào lấy thẻ tên → 10 giờ thăm gian hàng thứ nhất → 12 giờ ăn trưa → 14 giờ nghe bài phát biểu chính → 16 giờ chơi trò chơi ở gian hàng lấy quà → 17 giờ mua quà lưu niệm → 18 giờ chia tay. Mỗi đoạn ngắn nhưng nối liền. Lúc bạn đứng ở gian hàng thứ ba, bạn vẫn còn "**dư âm**" của gian hàng thứ hai trong đầu khách.
 
-Sách 09 là **dòng chảy đó**. Mỗi chương = 1 sự kiện kéo dài trọn ngày (hoặc trọn buổi, hoặc trọn tuần). Bạn đọc dialogue **liên tục từ đầu đến cuối**, đúng như lúc bạn thật sự đi cùng khách.
+Sách 09 là **dòng chảy đó**. Mỗi chương = 1 sự kiện kéo dài trọn ngày (hoặc trọn buổi, hoặc trọn tuần). Bạn đọc hội thoại **liên tục từ đầu đến cuối**, đúng như lúc bạn thật sự đi cùng khách.
 
-Không có rule cứng. Khi nào cần lưu ý, sách chèn **💡 Bí quyết** ngắn vào giữa scene.
-
----
-
-## 📐 Format mỗi câu hội thoại
-
-```
-**SpeakerName**: 「câu tiếng Nhật」
-*câu tiếng Việt dịch tự nhiên — italic*
-```
-
-- Mỗi lượt 2 dòng: dòng 1 JP, dòng 2 VN italic ngay dưới.
-- Nội tâm Dũng (`zun_inner`) render là 1 dòng italic riêng `*[Dũng nghĩ: ...]*`, không có speaker label.
-- Action / setting / camera-direction render là `*italic*` block giữa các lượt.
+Không có quy tắc cứng. Khi nào cần lưu ý, sách chèn **💡 Bí quyết** ngắn vào giữa tình huống.
 
 ---
 
-## 🎬 Cast (kế thừa từ sách 02-08 + 4 nhân vật mới)
+## 📐 Cách đọc mỗi câu hội thoại
 
-**Cty Thiên Phát (ティエンファット社, HCMC IT outsourcing):**
-- em Dũng / ズン — BD, nhân vật chính
-- chị Hương / フオン副部長 — sếp Dũng
-- anh Tuấn / トゥアンリーダー — Tech lead
-- em Linh / リン — Junior
-- em Hải / ハイ — DevOps
-- anh Hà / ハーCTO — CTO
+> **Tên người**: 「câu tiếng Nhật」
+> *câu tiếng Việt dịch nghĩa — chữ in nghiêng*
 
-**Khách 白鷗株式会社 (Tokyo HQ + chi nhánh):**
-- anh Matsumoto / 松本PM — PM (Tokyo)
-- anh Ōgaki / 大垣営業部長 — Sales (Osaka)
+- Mỗi lượt thoại gồm 2 dòng: dòng trên là tiếng Nhật, dòng dưới là phần dịch tiếng Việt in nghiêng ngay bên dưới.
+- Tiếng Nhật có **furigana** (phiên âm hiragana nhỏ phía trên) cho các từ từ trình độ N4 trở lên.
+- Suy nghĩ trong đầu của Dũng được trình bày thành một dòng in nghiêng riêng *[Dũng nghĩ: ...]*, không có tên người đứng trước.
+- Mô tả khung cảnh, hành động, bối cảnh được trình bày bằng *chữ in nghiêng* xen giữa các lượt thoại.
+
+---
+
+## 🎬 Tuyến nhân vật (kế thừa từ sách 02–08 + 4 nhân vật mới)
+
+**Công ty Thiên Phát (ティエンファット社, công ty phần mềm tại TP.HCM):**
+- em Dũng / ズン — chuyên viên phát triển kinh doanh, nhân vật chính
+- chị Hương / フオン副部長 — sếp của Dũng
+- anh Tuấn / トゥアンリーダー — trưởng nhóm kỹ thuật
+- em Linh / リン — nhân viên mới
+- em Hải / ハイ — kỹ sư vận hành hệ thống
+- anh Hà / ハーCTO — giám đốc công nghệ
+
+**Khách 白鷗株式会社 (trụ sở Tokyo + các chi nhánh):**
+- anh Matsumoto / 松本PM — quản lý dự án (Tokyo)
+- anh Ōgaki / 大垣営業部長 — trưởng phòng kinh doanh (Osaka)
 - anh Nakamura / 中村CFO (Hokkaido)
 - anh Tanaka / 田中PMO (Kanagawa)
-- anh Inoue / 井上 — Product Manager (mới sách 09, từ chương 1)
+- anh Inoue / 井上 — quản lý sản phẩm (mới sách 09, từ chương 1)
 
-**Cast vùng (xuất hiện theo chương):**
-- chị Yamamoto / 山本マネージャー (Osaka, Kansai-ben) — chương 3 bonenkai
-- anh Sato / 佐藤先生 (Fukuoka senior) — chương 3 bonenkai
-- anh Itoki / 伊藤 (Nagoya engineer) — chương 4 onsite
+**Nhân vật theo vùng (xuất hiện theo chương):**
+- chị Yamamoto / 山本マネージャー (Osaka, giọng Kansai) — chương 3 tiệc tất niên
+- anh Sato / 佐藤先生 (đàn anh ở Fukuoka) — chương 3 tiệc tất niên
+- anh Itoki / 伊藤 (kỹ sư Nagoya) — chương 4 onsite
 
-**Đối thủ VN (fictional):**
-- anh Hùng / フン (Phạm Quốc Hùng, Thanh Hà Software / タインハー・ソフトウェア) — bạn cũ Dũng, BD trưởng Tokyo office Thanh Hà. Mới sách 09, chương 1 + 10.
+**Đối thủ phía Việt Nam (nhân vật hư cấu):**
+- anh Hùng / フン (Phạm Quốc Hùng, Thanh Hà Software / タインハー・ソフトウェア) — bạn cũ của Dũng, trưởng nhóm phát triển kinh doanh tại văn phòng Tokyo của Thanh Hà. Mới sách 09, chương 1 + 10.
 
 ---
 
 ## 📚 Danh mục chương
 
-| # | Chương | Bối cảnh | Số scene | Trạng thái |
-|---|--------|----------|----------|------------|
-| 01 | Một ngày tại triển lãm IT WEEK Tokyo | Joint visit triển lãm với 白鷗 (5/2026) | 10 | ✅ Draft |
-| 02 | Cuối tuần đi golf cùng khách | 1 round golf 18 lỗ Chiba (6/2026) | 12 | ✅ Draft |
-| 03 | Tiệc tất niên 忘年会 | Bonenkai cuối tháng 12/2026 với toàn team JP | 11 | ✅ Draft |
-| 04 | Onsite Nhật 1 tuần lần đầu | Dũng đi 1 tuần Tokyo office (9/2026) | 14 | ✅ Draft |
-| 05 | Tiếp khách JP visit HCMC 3 ngày | Đoàn 5 người 白鷗 sang HCMC kickoff (11/2026) | 13 | ✅ Draft |
-| 06 | Đi onsen 1 đêm cùng khách | Atami weekend retreat (1/2027) | 11 | ✅ Draft |
-| 07 | Lễ ra mắt sản phẩm chung | Joint product launch Pacifico (3/2027) | 12 | ✅ Draft |
-| 08 | Tiệc cưới đồng nghiệp Nhật | Wedding Tanaka — Imperial Tokyo (5/2027) | 11 | ✅ Draft |
+| # | Chương | Bối cảnh | Số tình huống |
+|---|--------|----------|----------|
+| 01 | Một ngày tại triển lãm IT WEEK Tokyo | Cùng 白鷗 đi triển lãm (5/2026) | 10 |
+| 02 | Cuối tuần đi golf cùng khách | Một vòng golf 18 lỗ ở Chiba (6/2026) | 12 |
+| 03 | Tiệc tất niên 忘年会 | Tiệc tất niên cuối tháng 12/2026 với cả nhóm Nhật | 11 |
+| 04 | Lần đầu sang Nhật làm việc 1 tuần | Dũng sang văn phòng Tokyo 1 tuần (9/2026) | 14 |
+| 05 | Tiếp khách Nhật sang thăm TP.HCM 3 ngày | Đoàn 5 người 白鷗 sang TP.HCM khởi động dự án (11/2026) | 13 |
+| 06 | Đi suối nước nóng 1 đêm cùng khách | Nghỉ cuối tuần ở Atami (1/2027) | 11 |
+| 07 | Lễ ra mắt sản phẩm chung | Lễ ra mắt sản phẩm chung tại Pacifico (3/2027) | 12 |
+| 08 | Tiệc cưới đồng nghiệp Nhật | Đám cưới Tanaka — khách sạn Imperial Tokyo (5/2027) | 11 |
 
-**Tổng: 94 scene, 8 chương** — narrative arc ≈12 tháng (5/2026 → 5/2027) từ Phase 1 BD junior đến Phase 5 BD recognized + invite gặp gia đình.
-
----
-
-## 📐 Format mỗi chương
-
-1. **Tiêu đề** `# Chương NN — <VN> / <JP>`
-2. **Bối cảnh** (blockquote bilingual VN + JP)
-3. **💡 Bí quyết tổng** (3-5 bullet)
-4. **Scene 1 → N**, mỗi scene:
-   - Heading `## Scene N — HH:MM · <Địa điểm cụ thể>`
-   - 1 đoạn *italic* mô tả khung cảnh
-   - Dialogue 2-dòng-format (JP rồi VN italic)
-   - Internal monologue Dũng *[Dũng nghĩ: ...]* italic riêng
-   - **💡 Bí quyết — 〈topic〉** (nếu cần) sau scene
-5. **🌅 Recap** cuối chương — Dũng note vào memory bank app, code-block
-
----
-
-## 🛠️ Build pipeline
-
-- **Source of truth**: `draft/chương_NN_<slug>_scenes.json` (JSON, dùng cho TTS / DB load sau).
-- **Convert script**: `scripts/build_chapters_from_json.py` — generate `nội_dung/chương_NN_<slug>/chương.md` từ JSON.
-- **Build .docx/.html/.epub**: `scripts/build_book.sh` — concat + pandoc.
-- **Voice profiles**: `nội_dung/voice_profiles.json` — speaker key → display name + TTS hint.
+**Tổng: 94 tình huống, 8 chương** — mạch truyện kéo dài khoảng 12 tháng (5/2026 → 5/2027), từ giai đoạn Dũng còn là chuyên viên phát triển kinh doanh non trẻ đến khi được công nhận và được mời gặp gia đình.
 
 ---
 

@@ -1,6 +1,6 @@
 # Sách du học sinh tiếng Nhật · T11. 引っ越し — Tanaka homestay → ký túc trường (引越し)
 
-> **Mục tiêu nhân vật:** Đại (19 tuổi, du học sinh tháng 12 ở Osaka, 3-4/2025). Học các mẫu hội thoại tiếng Nhật cho **chuyển nhà**: thông báo quyết định lễ phép với host (実は・〜たいと思っております), trình bày lý do theo 3 điểm (1つ目は・2つ目は・3つ目は), tiếp nhận đơn ký túc và hỏi chi phí (家賃はいくらですか), giới thiệu bản thân với bạn cùng tầng (出身は〜です・〜年生です), hỏi cấu trúc ký túc (〜はどこにありますか), lễ tạm biệt host với cúi chào sâu (1年間お世話になりました), và phối hợp nấu ăn với roommate 4 quốc gia (〜を作ります・〜を手伝いましょうか).
+> **Mục tiêu nhân vật:** Đại (19 tuổi, du học sinh sang Osaka từ tháng 4/2024, chuyển ký túc 3-4/2025). Học các mẫu hội thoại tiếng Nhật cho **chuyển nhà**: thông báo quyết định lễ phép với host (実は・〜たいと思っております), trình bày lý do theo 3 điểm (1つ目は・2つ目は・3つ目は), tiếp nhận đơn ký túc và hỏi chi phí (家賃はいくらですか), giới thiệu bản thân với bạn cùng tầng (出身は〜です・〜年生です), hỏi cấu trúc ký túc (〜はどこにありますか), lễ tạm biệt host với cúi chào sâu (1年間お世話になりました), và phối hợp nấu ăn với roommate 4 quốc gia (〜を作ります・〜を手伝いましょうか).
 
 ---
 

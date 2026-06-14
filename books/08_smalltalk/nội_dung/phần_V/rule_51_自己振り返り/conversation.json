@@ -13,8 +13,16 @@
     "muc_tieu_vi": "Build self-review discipline + 2 templates ready-to-use → skill compound."
   },
   "related_rules": [
-    {"book": "08", "rule": "50", "topic": "Memory bank"},
-    {"book": "08", "rule": "49", "topic": "雑談ネタ収集"}
+    {
+      "book": "08",
+      "rule": "50",
+      "topic": "Memory bank"
+    },
+    {
+      "book": "08",
+      "rule": "49",
+      "topic": "雑談ネタ収集"
+    }
   ],
   "conversations": [
     {
@@ -23,7 +31,12 @@
       "self_review_example": {
         "date": "2026-05-20",
         "session": "Phase 4 Closing — Yurakucho izakaya + ベルトラム + ラーメン",
-        "audience": ["Ōgaki", "Matsumoto", "Tanaka", "Tuấn"],
+        "audience": [
+          "Ōgaki",
+          "Matsumoto",
+          "Tanaka",
+          "Tuấn"
+        ],
         "my_role": "最若手 / order role / host VN side",
         "duration": "一次 + 二次 + 締め (5h)",
         "wins": [
@@ -49,19 +62,59 @@
       "scenario": "Weekly practice routine — dry-run rule",
       "type": "good",
       "routine": [
-        {"step": 1, "time": "Sun afternoon — 5min", "action": "Pick 1 random rule từ sách 08"},
-        {"step": 2, "time": "5min", "action": "Đọc lại rule + xem 4 dialogue scenarios"},
-        {"step": 3, "time": "10min", "action": "Voice record mình thử 3 scenarios với phrase chuẩn"},
-        {"step": 4, "time": "5min", "action": "Compare với reference audio (TTS), identify 1 từ phát âm yếu"},
-        {"step": 5, "time": "5min", "action": "Mon: apply trong call/dinner thực, notice if used"}
+        {
+          "step": 1,
+          "time": "Sun afternoon — 5min",
+          "action": "Pick 1 random rule từ sách 08"
+        },
+        {
+          "step": 2,
+          "time": "5min",
+          "action": "Đọc lại rule + xem 4 dialogue scenarios"
+        },
+        {
+          "step": 3,
+          "time": "10min",
+          "action": "Voice record mình thử 3 scenarios với phrase chuẩn"
+        },
+        {
+          "step": 4,
+          "time": "5min",
+          "action": "Compare với reference audio (TTS), identify 1 từ phát âm yếu"
+        },
+        {
+          "step": 5,
+          "time": "5min",
+          "action": "Mon: apply trong call/dinner thực, notice if used"
+        }
       ]
     }
   ],
   "key_phrases": [
-    {"category": "Self-talk WIN", "ja": "(VN) Phrase nào hôm nay senior khen 'よく覚えてる'?", "vi": "Phrase nào hôm nay senior khen 'nhớ giỏi'?", "use": "Identify cụ thể"},
-    {"category": "Self-talk MISS", "ja": "(VN) Có moment nào không khí freeze 0.5s? Mình nói gì?", "vi": "Có moment freeze 0.5s? Mình nói gì?", "use": "Trace lại"},
-    {"category": "Self-talk MISS", "ja": "(VN) Có lần senior change topic đột ngột? LANDMINE?", "vi": "Senior đổi topic đột? Có thể LANDMINE?", "use": "Phân tích nguyên nhân"},
-    {"category": "Self-talk Follow-up", "ja": "(VN) Mình hứa gì hôm nay? Cần đóng loop khi nào?", "vi": "Mình hứa gì? Đóng loop khi nào?", "use": "Action items"}
+    {
+      "category": "Self-talk WIN",
+      "ja": "(VN) Phrase nào hôm nay senior khen 'よく覚えてる'?",
+      "vi": "Phrase nào hôm nay senior khen 'nhớ giỏi'?",
+      "use": "Identify cụ thể"
+    },
+    {
+      "category": "Self-talk MISS",
+      "ja": "(VN) Có moment nào không khí freeze 0.5s? Mình nói gì?",
+      "vi": "Có moment freeze 0.5s? Mình nói gì?",
+      "use": "Trace lại"
+    },
+    {
+      "category": "Self-talk MISS",
+      "ja": "(VN) Có lần senior change topic đột ngột? LANDMINE?",
+      "vi": "Senior đổi topic đột? Có thể LANDMINE?",
+      "use": "Phân tích nguyên nhân"
+    },
+    {
+      "category": "Self-talk Follow-up",
+      "ja": "(VN) Mình hứa gì hôm nay? Cần đóng loop khi nào?",
+      "vi": "Mình hứa gì? Đóng loop khi nào?",
+      "use": "Action items"
+    }
   ],
   "bjt_practice": [
     {
@@ -69,12 +122,12 @@
       "skill": "場面把握",
       "question_ja": "雑談セッション後の振り返り、最適なフレームは?",
       "options": [
-        "A. ただ感想を書く",
-        "B. 3 WIN / 3 MISS / 3 FOLLOW-UPで具体的に",
-        "C. 完璧だったか反省するか",
+        "A. 完璧だったか反省するか",
+        "B. ただ感想を書く",
+        "C. 3 WIN / 3 MISS / 3 FOLLOW-UPで具体的に",
         "D. 何もしない"
       ],
-      "answer": "B",
+      "answer": "C",
       "explain_vi": "Framework concrete = actionable. A vague; C binary; D miss skill compound."
     },
     {
@@ -83,11 +136,11 @@
       "question_ja": "MISS項目の書き方として最適なのは?",
       "options": [
         "A. 「もっと頑張る」",
-        "B. 「allergy hỏi quá muộn → NEXT: hỏi NGAY khi mở menu」 (concrete + actionable)",
-        "C. 「ダメだった」と落ち込む",
-        "D. 「次は完璧にする」"
+        "B. 「ダメだった」と落ち込む",
+        "C. 「次は完璧にする」",
+        "D. 「allergy hỏi quá muộn → NEXT: hỏi NGAY khi mở menu」 (concrete + actionable)"
       ],
-      "answer": "B",
+      "answer": "D",
       "explain_vi": "Concrete fact + concrete next action = actionable. A/D vague; C demotivate."
     },
     {
@@ -95,10 +148,10 @@
       "skill": "発言聴解",
       "question_ja": "100回 dinner後、累積効果として最も期待されるのは?",
       "options": [
-        "A. 何も変わらない",
-        "B. 同じミスを繰り返す",
+        "A. 外国人として扱われ続ける",
+        "B. 何も変わらない",
         "C. ベトナム人で日本人客対応の雑談スキル top 1%に到達",
-        "D. 外国人として扱われ続ける"
+        "D. 同じミスを繰り返す"
       ],
       "answer": "C",
       "explain_vi": "Skill compound: 100 dinner = top 1% smalltalk skill VN làm khách JP. Đó là 2 năm discipline."

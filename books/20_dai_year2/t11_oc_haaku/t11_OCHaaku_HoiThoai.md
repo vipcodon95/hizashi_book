@@ -66,7 +66,7 @@ Cuối tháng 9 + đầu 10/2025. Sau khi đỗ N2 và quyết định NV1 Osaka
 
 | Vai | Lời thoại |
 |---|---|
-| Đại | あの、すみません。<ruby>留学生<rt>りゅうがくせい</rt></ruby><ruby>チューター<rt></rt></ruby>の<ruby>方<rt>かた</rt></ruby>ですか？<br>*(Xin lỗi, anh là tutor du học sinh ạ?)* |
+| Đại | あの、すみません。<ruby>留学生<rt>りゅうがくせい</rt></ruby>チューターの<ruby>方<rt>かた</rt></ruby>ですか？<br>*(Xin lỗi, anh là tutor du học sinh ạ?)* |
 | Park | はい、パクと<ruby>申<rt>もう</rt></ruby>します。<ruby>韓国<rt>かんこく</rt></ruby>から<ruby>来<rt>き</rt></ruby>ています。<br>*(Vâng, tôi tên là Park. Đến từ Hàn Quốc.)* |
 | Đại | グエンです。ベトナムからです。<ruby>少<rt>すこ</rt></ruby>しお<ruby>時間<rt>じかん</rt></ruby>いただけますか？<br>*(Em là Nguyên ạ. Từ Việt Nam. Anh cho em ít thời gian được không ạ?)* |
 | Park | もちろん。<br>*(Đương nhiên.)* |
@@ -148,7 +148,7 @@ Cuối tháng 9 + đầu 10/2025. Sau khi đỗ N2 và quyết định NV1 Osaka
 | Đại | <ruby>競争率<rt>きょうそうりつ</rt></ruby>はどのくらいですか？<br>*(Tỷ lệ cạnh tranh khoảng bao nhiêu ạ?)* |
 | Staff | <ruby>情報科学科<rt>じょうほうかがくか</rt></ruby><ruby>留学生<rt>りゅうがくせい</rt></ruby><ruby>枠<rt>わく</rt></ruby>は<ruby>例年<rt>れいねん</rt></ruby><ruby>5<rt>ご</rt></ruby><ruby>倍<rt>ばい</rt></ruby>前後です。<br>*(Khoa Khoa học máy tính slot du học sinh hàng năm khoảng 5 chọi 1.)* |
 | Đại | <ruby>志望<rt>しぼう</rt></ruby><ruby>理由書<rt>りゆうしょ</rt></ruby>で<ruby>気<rt>き</rt></ruby>をつけることは<ruby>何<rt>なに</rt></ruby>でしょうか？<br>*(Trong đơn nguyện vọng cần chú ý điều gì ạ?)* |
-| Staff | <ruby>具体性<rt>ぐたいせい</rt></ruby>です。「<ruby>日本<rt>にほん</rt></ruby>が<ruby>好<rt>す</rt></ruby>き」「IT が<ruby>好<rt>す</rt></ruby>き」だけでは<ruby>弱<rt>よわ</rt></ruby>いです。<ruby>具体的<rt>ぐたいてき</rt></ruby>な<ruby>教授<rt>きょうじゅ</rt></ruby>、<ruby>論文<rt>ろんぶん</rt></ruby>、<ruby>研究<rt>けんきゅう</rt></ruby><ruby>テーマ<rt></rt></ruby>を<ruby>書<rt>か</rt></ruby>いてください。<br>*(Cụ thể hoá. Chỉ "thích Nhật" "thích IT" thì yếu. Phải ghi cụ thể tên giáo sư, paper, đề tài nghiên cứu.)* |
+| Staff | <ruby>具体性<rt>ぐたいせい</rt></ruby>です。「<ruby>日本<rt>にほん</rt></ruby>が<ruby>好<rt>す</rt></ruby>き」「IT が<ruby>好<rt>す</rt></ruby>き」だけでは<ruby>弱<rt>よわ</rt></ruby>いです。<ruby>具体的<rt>ぐたいてき</rt></ruby>な<ruby>教授<rt>きょうじゅ</rt></ruby>、<ruby>論文<rt>ろんぶん</rt></ruby>、<ruby>研究<rt>けんきゅう</rt></ruby>テーマを<ruby>書<rt>か</rt></ruby>いてください。<br>*(Cụ thể hoá. Chỉ "thích Nhật" "thích IT" thì yếu. Phải ghi cụ thể tên giáo sư, paper, đề tài nghiên cứu.)* |
 | Đại | <ruby>井上<rt>いのうえ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>の<ruby>論文<rt>ろんぶん</rt></ruby>を<ruby>引用<rt>いんよう</rt></ruby>するつもりです。<br>*(Em định trích dẫn paper của thầy Inoue.)* |
 | Staff | （<ruby>頷<rt>うなず</rt></ruby>く）それは<ruby>強<rt>つよ</rt></ruby>いポイントになります。<br>*(Gật. Đó sẽ là điểm mạnh.)* |
 
@@ -201,7 +201,7 @@ Cuối tháng 9 + đầu 10/2025. Sau khi đỗ N2 và quyết định NV1 Osaka
 | Tony | <ruby>3<rt>さん</rt></ruby><ruby>校<rt>こう</rt></ruby>のオープンキャンパス、どうだった？<br>*(3 trường Open Campus, thế nào?)* |
 | Đại | <ruby>面白<rt>おもしろ</rt></ruby>かったです。<ruby>三<rt>さん</rt></ruby><ruby>校<rt>こう</rt></ruby><ruby>三<rt>さん</rt></ruby><ruby>様<rt>よう</rt></ruby>でした。<br>*(Thú vị ạ. Ba trường ba kiểu.)* |
 | Yumi | <ruby>具体的<rt>ぐたいてき</rt></ruby>に？<br>*(Cụ thể?)* |
-| Đại | <ruby>大阪大<rt>おおさかだい</rt></ruby>は<ruby>研究<rt>けんきゅう</rt></ruby><ruby>レベル<rt></rt></ruby>が<ruby>高<rt>たか</rt></ruby>くて、<ruby>井上<rt>いのうえ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>が「ラボへ<ruby>来<rt>き</rt></ruby>てね」と<ruby>言<rt>い</rt></ruby>ってくれました。<br>*(Osaka U trình độ nghiên cứu cao, thầy Inoue còn bảo "vào lab tôi nhé".)* |
+| Đại | <ruby>大阪大<rt>おおさかだい</rt></ruby>は<ruby>研究<rt>けんきゅう</rt></ruby>レベルが<ruby>高<rt>たか</rt></ruby>くて、<ruby>井上<rt>いのうえ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>が「ラボへ<ruby>来<rt>き</rt></ruby>てね」と<ruby>言<rt>い</rt></ruby>ってくれました。<br>*(Osaka U trình độ nghiên cứu cao, thầy Inoue còn bảo "vào lab tôi nhé".)* |
 | Yumi | え、すごい！<ruby>教授<rt>きょうじゅ</rt></ruby>から<ruby>直接<rt>ちょくせつ</rt></ruby>？<br>*(Ơ, đỉnh! Giáo sư trực tiếp nói à?)* |
 | Đại | はい。<ruby>論文<rt>ろんぶん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでいったので、<ruby>感想<rt>かんそう</rt></ruby>を<ruby>話<rt>はな</rt></ruby>したら<ruby>喜<rt>よろこ</rt></ruby>んでくれました。<br>*(Vâng. Em đọc paper trước rồi, kể cảm nhận thì thầy vui.)* |
 | Tony | <ruby>準備<rt>じゅんび</rt></ruby>が<ruby>大事<rt>だいじ</rt></ruby>だな。<br>*(Chuẩn bị quan trọng nhỉ.)* |

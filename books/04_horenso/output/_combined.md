@@ -66,47 +66,56 @@ Chiều thứ Hai. Em Dũng vừa demo Phase 2 với khách Matsumoto xong, cầ
 
 *2 phút sau*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、Phase 2デモの件で…えっと、まず最初に環境構築から始めて、それからモック画面を見せたんですが、そこで松本様が画面遷移について質問があり、それに対してこちらから〜」 |
-| **フオン** | 「で、結局どうなったの？OK だったの？NG だったの？」 |
-| **ズン** | 「あ、はい、概ね OK でした。ただ画面遷移は再検討が必要かと…」 |
-| **フオン** | 「次から **結論を先に**。それと、『再検討必要』はあなたの意見？松本様が言ったの？」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、Phase 2デモの件で…えっと、まず<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>環境<rt>かんきょう</rt></ruby><ruby>構築<rt>こうちく</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>めて、それからモック<ruby>画面<rt>がめん</rt></ruby>を<ruby>見<rt>み</rt></ruby>せたんですが、そこで<ruby>松本<rt>まつもと</rt></ruby>様が<ruby>画面<rt>がめん</rt></ruby><ruby>遷移<rt>せんい</rt></ruby>について<ruby>質問<rt>しつもん</rt></ruby>があり、それに対してこちらから〜」 |
+|  | *Chị Hương, về buổi demo Phase 2... ờ, đầu tiên em dựng môi trường, rồi cho xem màn hình mock, sau đó anh Matsumoto hỏi về luồng chuyển màn, rồi em trả lời~* |
+| **フオン** | 「で、<ruby>結局<rt>けっきょく</rt></ruby>どうなったの？OK だったの？NG だったの？」 |
+|  | *Rồi cuối cùng thế nào em? OK hay NG?* |
+| **ズン** | 「あ、はい、<ruby>概<rt>おおむ</rt></ruby>ね OK でした。ただ<ruby>画面<rt>がめん</rt></ruby><ruby>遷移<rt>せんい</rt></ruby>は<ruby>再検討<rt>さいけんとう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>かと…」 |
+|  | *À vâng, cơ bản OK ạ. Nhưng luồng chuyển màn cần xem lại ạ...* |
+| **フオン** | 「次から **<ruby>結論<rt>けつろん</rt></ruby>を先に**。それと、『<ruby>再検討<rt>さいけんとう</rt></ruby>必要』はあなたの意見？<ruby>松本<rt>まつもと</rt></ruby>様が言ったの？」 |
+|  | *Lần sau kết luận trước nhé. Còn 'cần xem lại' là ý em hay anh Matsumoto nói?* |
 
-**Vì sao xấu:** L1 là 経過 (process) trước, không có 結論. L3 mới hé lộ kết luận. L4 chỉ ra cả 2 lỗi: (1) thiếu kết luận trước, (2) lẫn fact ("画面遷移は再検討が必要") — không rõ là khách yêu cầu hay Dũng tự đánh giá.
+**Vì sao xấu:** L1 nói 経過 (quá trình) trước, không có 結論. L3 mới hé lộ kết luận. L4 chỉ ra cả 2 lỗi: (1) thiếu kết luận trước, (2) lẫn thông tin sự thật với đánh giá ("画面遷移は再検討が必要") — không rõ là khách yêu cầu hay Dũng tự đánh giá.
 
 ---
 
-## ✅ Hội thoại TỐT — 結論先出し + fact/opinion phân biệt
+## ✅ Hội thoại TỐT — 結論先出し + tách sự thật / ý kiến
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、Phase 2デモのご報告です。**結論：概ね合格、ただし画面遷移の1点は再検討が必要**です【1】。」 |
-| **フオン** | 「うん、続けて。」 |
-| **ズン** | 「**事実として**、松本様から『画面遷移のスピードが遅く感じる』とのコメントがございました。**私見では**、API レスポンス待ちが原因と推測しております【2】。」 |
-| **ズン** | 「**対応としては**、明日トゥアンと原因切り分けを行い、対応方針を水曜中にご報告いたします【3】。」 |
-| **フオン** | 「分かりやすい報告ね。水曜の報告を待ちます。」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、Phase 2デモのご<ruby>報告<rt>ほうこく</rt></ruby>です。**<ruby>結論<rt>けつろん</rt></ruby>：<ruby>概<rt>おおむ</rt></ruby>ね<ruby>合格<rt>ごうかく</rt></ruby>、ただし<ruby>画面<rt>がめん</rt></ruby><ruby>遷移<rt>せんい</rt></ruby>の1点は<ruby>再検討<rt>さいけんとう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>**です【1】。」 |
+|  | *Chị Hương, em xin báo cáo về demo Phase 2. Kết luận: cơ bản đạt, nhưng luồng chuyển màn cần xem lại ạ.* |
+| **フオン** | 「うん、<ruby>続<rt>つづ</rt></ruby>けて。」 |
+|  | *Ừ, em nói tiếp.* |
+| **ズン** | 「**<ruby>事実<rt>じじつ</rt></ruby>として**、<ruby>松本<rt>まつもと</rt></ruby>様から『<ruby>画面<rt>がめん</rt></ruby><ruby>遷移<rt>せんい</rt></ruby>のスピードが<ruby>遅<rt>おそ</rt></ruby>く<ruby>感<rt>かん</rt></ruby>じる』とのコメントがございました。**<ruby>私見<rt>しけん</rt></ruby>では**、API レスポンス<ruby>待<rt>ま</rt></ruby>ちが<ruby>原因<rt>げんいん</rt></ruby>と<ruby>推測<rt>すいそく</rt></ruby>しております【2】。」 |
+|  | *Sự thật: anh Matsumoto có comment 'cảm giác luồng chuyển màn hơi chậm'. Theo ý kiến em, nguyên nhân có thể do thời gian chờ API ạ.* |
+| **ズン** | 「**<ruby>対応<rt>たいおう</rt></ruby>としては**、<ruby>明日<rt>あした</rt></ruby>トゥアンと<ruby>原因<rt>げんいん</rt></ruby><ruby>切<rt>き</rt></ruby>り<ruby>分<rt>わ</rt></ruby>けを<ruby>行<rt>おこな</rt></ruby>い、<ruby>対応<rt>たいおう</rt></ruby><ruby>方針<rt>ほうしん</rt></ruby>を<ruby>水曜<rt>すいよう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>にご<ruby>報告<rt>ほうこく</rt></ruby>いたします【3】。」 |
+|  | *Về cách xử lý, ngày mai em với anh Tuấn sẽ phân tách nguyên nhân, và em sẽ báo cáo phương án trong thứ Tư ạ.* |
+| **フオン** | 「分かりやすい<ruby>報告<rt>ほうこく</rt></ruby>ね。<ruby>水曜<rt>すいよう</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>を<ruby>待<rt>ま</rt></ruby>ちます。」 |
+|  | *Báo cáo rõ ràng đấy. Chị đợi báo cáo thứ Tư nhé.* |
 
 📝 **Ghi chú:**
 - 【1】**「結論：〇〇」** — câu mở phải có 結論. Sếp nghe 1 câu là biết tình hình → tự quyết có nghe tiếp hay không.
-- 【2】**「事実として〜」「私見では〜」** — đánh dấu rõ fact (松本 comment) vs opinion (Dũng giả thuyết). Nhật business **rất kỵ** nhập nhằng hai cái.
-- 【3】**「対応としては〜」** — đóng bằng next step + deadline + owner. Không bao giờ kết thúc báo cáo bằng "だけです" (chỉ vậy).
+- 【2】**「事実として〜」「私見では〜」** — đánh dấu rõ thông tin sự thật (松本 nhận xét) và ý kiến cá nhân (Dũng giả thuyết). Doanh nghiệp Nhật **rất kỵ** nhập nhằng hai cái.
+- 【3】**「対応としては〜」** — đóng bằng bước tiếp theo + hạn chót + người phụ trách. Không bao giờ kết thúc báo cáo bằng "だけです" (chỉ vậy).
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「結論：〇〇。事実として〇〇。私見では〇〇。対応としては〇〇までに〇〇。」**
+> **「<ruby>結論<rt>けつろん</rt></ruby>：〇〇。<ruby>事実<rt>じじつ</rt></ruby>として〇〇。<ruby>私見<rt>しけん</rt></ruby>では〇〇。<ruby>対応<rt>たいおう</rt></ruby>としては〇〇までに〇〇。」**
 >
-> *Cấu trúc 4 dòng — nhồi đủ 3 nguyên tắc + next step.*
+> *Cấu trúc 4 dòng — nhồi đủ 3 nguyên tắc + bước tiếp theo.*
 
 ---
 
 ## ⚠ Tránh
 
-- Bắt đầu bằng 経過 (process) — sếp Nhật không nghe quá 30 giây mà không có kết luận.
-- Mix 「私が〜だと思います」 với 「松本様が〜と仰いました」 trong 1 câu liền — bắt buộc tách rõ.
-- "あとで報告します" mà không có deadline cụ thể.
+- Bắt đầu bằng 経過 (quá trình) — sếp Nhật không nghe quá 30 giây mà không có kết luận.
+- Trộn 「私が〜だと思います」 với 「松本様が〜と仰いました」 trong 1 câu liền — bắt buộc tách rõ.
+- "あとで報告します" mà không có hạn chót cụ thể.
 - 「えーっと」「あの…」 ở câu mở của báo cáo — NG hoàn toàn.
 
 ---
@@ -146,12 +155,16 @@ Sáng thứ Hai 9h. Em Dũng cần báo cáo tiến độ Phase 2 của tuần t
 
 *Slack 9:05*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、おはようございます。先週は色々ありました。API の修正と、それから松本様からの指摘対応もして、今週は画面遷移のテストを進めたいと思います。」 |
-| **フオン** | 「具体的に何が完了？何が残ってる？ブロックは？」 |
-| **ズン** | 「あ、API は完了です。指摘対応は半分くらい…画面遷移はまだ手をつけていません。」 |
-| **フオン** | 「形式を決めて。Done / Doing / Blocked / Next で書いて。毎日聞き返したくない。」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、おはようございます。<ruby>先週<rt>せんしゅう</rt></ruby>は<ruby>色々<rt>いろいろ</rt></ruby>ありました。API の<ruby>修正<rt>しゅうせい</rt></ruby>と、それから<ruby>松本<rt>まつもと</rt></ruby>様からの<ruby>指摘<rt>してき</rt></ruby><ruby>対応<rt>たいおう</rt></ruby>もして、<ruby>今週<rt>こんしゅう</rt></ruby>は<ruby>画面遷移<rt>がめんせんい</rt></ruby>のテストを<ruby>進<rt>すす</rt></ruby>めたいと<ruby>思<rt>おも</rt></ruby>います。」 |
+|  | *Chị Hương, chào buổi sáng ạ. Tuần rồi có nhiều việc. Em sửa API, rồi xử lý các comment của anh Matsumoto, tuần này em định tiến hành test luồng chuyển màn ạ.* |
+| **フオン** | 「<ruby>具体的<rt>ぐたいてき</rt></ruby>に<ruby>何<rt>なに</rt></ruby>が<ruby>完了<rt>かんりょう</rt></ruby>？<ruby>何<rt>なに</rt></ruby>が<ruby>残<rt>のこ</rt></ruby>ってる？ブロックは？」 |
+|  | *Cụ thể cái gì xong? Cái gì còn? Có blocker không?* |
+| **ズン** | 「あ、API は完了です。指摘対応は<ruby>半分<rt>はんぶん</rt></ruby>くらい…画面遷移はまだ<ruby>手<rt>て</rt></ruby>をつけていません。」 |
+|  | *À, API thì xong rồi. Xử lý comment được khoảng nửa... luồng chuyển màn thì chưa bắt đầu ạ.* |
+| **フオン** | 「<ruby>形式<rt>けいしき</rt></ruby>を<ruby>決<rt>き</rt></ruby>めて。Done / Doing / Blocked / Next で<ruby>書<rt>か</rt></ruby>いて。<ruby>毎日<rt>まいにち</rt></ruby><ruby>聞<rt>き</rt></ruby>き<ruby>返<rt>かえ</rt></ruby>したくない。」 |
+|  | *Định format đi. Viết theo Done / Doing / Blocked / Next. Chị không muốn ngày nào cũng phải hỏi lại.* |
 
 **Vì sao xấu:** L1 viết văn xuôi, không bóc tách item — chị Hương không biết item nào xong, item nào pending. "色々ありました" (có nhiều việc) là expression NG trong báo cáo. L3 mới hé ra trạng thái thực sự.
 
@@ -161,12 +174,16 @@ Sáng thứ Hai 9h. Em Dũng cần báo cáo tiến độ Phase 2 của tuần t
 
 *Slack 9:00, gửi theo template · Slack 9:02*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「【Daily 4/22】**Done**: API 修正完了、松本様指摘 3/5 対応【1】 / **Doing**: 残り指摘 2件、画面遷移テスト準備 / **Blocked**: なし / **Next (今日)**: 画面遷移テスト着手、トゥアンと環境同期【2】」 |
-| **フオン** | 「了解。指摘の残り2件、内容は？」 |
-| **ズン** | 「画面遷移スピードと、エラーメッセージの日本語表現の2件です。両方とも今日中に対応見込みです【3】。」 |
-| **フオン** | 「OK、進めてください。」 |
+| **ズン** | 「【Daily 4/22】**Done**: API 修正<ruby>完了<rt>かんりょう</rt></ruby>、松本様指摘 3/5 対応【1】 / **Doing**: <ruby>残<rt>のこ</rt></ruby>り指摘 2<ruby>件<rt>けん</rt></ruby>、画面遷移テスト<ruby>準備<rt>じゅんび</rt></ruby> / **Blocked**: なし / **Next (今日)**: 画面遷移テスト<ruby>着手<rt>ちゃくしゅ</rt></ruby>、トゥアンと<ruby>環境<rt>かんきょう</rt></ruby><ruby>同期<rt>どうき</rt></ruby>【2】」 |
+|  | *[Daily 22/4] Done: Sửa API xong, comment anh Matsumoto đã xử 3/5 / Doing: 2 comment còn lại, chuẩn bị test luồng màn / Blocked: không / Next (hôm nay): Bắt tay test luồng màn, đồng bộ môi trường với anh Tuấn.* |
+| **フオン** | 「<ruby>了解<rt>りょうかい</rt></ruby>。指摘の残り2件、<ruby>内容<rt>ないよう</rt></ruby>は？」 |
+|  | *Hiểu rồi. 2 comment còn lại nội dung gì em?* |
+| **ズン** | 「画面遷移スピードと、エラーメッセージの<ruby>日本語<rt>にほんご</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>の2件です。<ruby>両方<rt>りょうほう</rt></ruby>とも<ruby>今日中<rt>きょうじゅう</rt></ruby>に対応<ruby>見込<rt>みこ</rt></ruby>みです【3】。」 |
+|  | *Là tốc độ luồng chuyển màn và cách diễn đạt tiếng Nhật của thông báo lỗi ạ. Cả hai dự kiến xử trong hôm nay ạ.* |
+| **フオン** | 「OK、<ruby>進<rt>すす</rt></ruby>めてください。」 |
+|  | *OK, em làm tiếp đi.* |
 
 📝 **Ghi chú:**
 - 【1】**「3/5 対応」** — định lượng tiến độ. Không viết "ほぼ完了" mơ hồ.
@@ -214,7 +231,7 @@ Xem `templates[0]` của file conversation: **Daily standup (Slack)** + **Weekly
 
 # Rule 03 — Cấu trúc báo cáo kết quả / 結果報告の組み立て (Goal→Result→Cause→Action)
 
-> **Luận điểm.** Báo cáo kết quả (sau khi xong việc / sự kiện) phải đi theo flow **Goal → Result → Cause → Action**: nhắc mục tiêu, nói kết quả thực, phân tích nguyên nhân, đề xuất hành động tiếp. Thiếu Goal = không có thước đo. Thiếu Cause = không học được. Thiếu Action = báo cáo "vô nghĩa".
+> **Luận điểm.** Báo cáo kết quả (sau khi xong việc / sự kiện) phải đi theo mạch **Goal → Result → Cause → Action**: nhắc mục tiêu, nói kết quả thực, phân tích nguyên nhân, đề xuất hành động tiếp. Thiếu Goal = không có thước đo. Thiếu Cause = không học được. Thiếu Action = báo cáo "vô nghĩa".
 >
 > 結果報告は **Goal → Result → Cause → Action** の流れで組み立てる。Goal が無いと評価軸が無い。Cause が無いと学びが無い。Action が無いと報告として完結しない。
 >
@@ -230,33 +247,43 @@ Demo Phase 2 với khách Matsumoto vừa kết thúc. Em Dũng cần báo cáo 
 
 ## ❌ Hội thoại XẤU — chỉ có Result, thiếu Goal/Cause/Action
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、Phase 2デモ、概ねOKでした。指摘も少なかったです。」 |
-| **フオン** | 「『概ねOK』って何と比較して？目標は何だった？」 |
-| **ズン** | 「えっと、目標は…松本様にOKをもらうことで…」 |
-| **フオン** | 「指摘が少なかった原因は？運？それとも準備が良かった？次に再現できる？」 |
-| **ズン** | 「うーん、たぶん準備が良かったから…」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、Phase 2デモ、<ruby>概<rt>おおむ</rt></ruby>ねOKでした。<ruby>指摘<rt>してき</rt></ruby>も<ruby>少<rt>すく</rt></ruby>なかったです。」 |
+|  | *Chị Hương, demo Phase 2 cơ bản OK ạ. Comment cũng ít.* |
+| **フオン** | 「『<ruby>概<rt>おおむ</rt></ruby>ねOK』って<ruby>何<rt>なに</rt></ruby>と<ruby>比較<rt>ひかく</rt></ruby>して？<ruby>目標<rt>もくひょう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>だった？」 |
+|  | *'Cơ bản OK' là so với cái gì? Mục tiêu ban đầu là gì?* |
+| **ズン** | 「えっと、<ruby>目標<rt>もくひょう</rt></ruby>は…<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>にOKをもらうことで…」 |
+|  | *Ờ, mục tiêu là... được anh Matsumoto OK ạ...* |
+| **フオン** | 「<ruby>指摘<rt>してき</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なかった<ruby>原因<rt>げんいん</rt></ruby>は？<ruby>運<rt>うん</rt></ruby>？それとも<ruby>準備<rt>じゅんび</rt></ruby>が<ruby>良<rt>よ</rt></ruby>かった？<ruby>次<rt>つぎ</rt></ruby>に<ruby>再現<rt>さいげん</rt></ruby>できる？」 |
+|  | *Sao comment ít vậy? Do may mắn? Hay do chuẩn bị tốt? Lần sau có lặp lại được không?* |
+| **ズン** | 「うーん、たぶん<ruby>準備<rt>じゅんび</rt></ruby>が<ruby>良<rt>よ</rt></ruby>かったから…」 |
+|  | *Ừm, chắc do chuẩn bị tốt ạ...* |
 
-**Vì sao xấu:** L1 chỉ có Result, không có Goal so sánh, không có Cause phân tích, không có Action tiếp. L4 chị Hương phải đào: nguyên nhân là gì, có replicate được không. Báo cáo kết quả mà không trả lời được "tại sao" và "next" = vô giá trị.
+**Vì sao xấu:** L1 chỉ có Result, không có Goal so sánh, không có Cause phân tích, không có Action tiếp. L4 chị Hương phải đào: nguyên nhân là gì, có lặp lại được không. Báo cáo kết quả mà không trả lời được "tại sao" và "tiếp theo làm gì" = vô giá trị.
 
 ---
 
 ## ✅ Hội thoại TỐT — full GRCA
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、Phase 2デモのご報告です。**目標**は『松本様から書面で承認をいただく』ことでした【1】。」 |
-| **ズン** | 「**結果**：書面承認は明日いただける見込み。指摘は3件のみで、致命的なものはございません【2】。」 |
-| **ズン** | 「**原因分析**としては、事前に大垣様へ仮承認をいただいた【3】ことで、デモ当日の論点が画面の細部に絞られたためと考えております。」 |
-| **ズン** | 「**今後の対応**：3件の指摘は今週中に修正、来週月曜にPhase 3キックオフを松本様へ提案いたします【4】。」 |
-| **フオン** | 「Goal が明確で原因分析も筋が通ってる。Phase 3 提案は私もレビューしたいから、金曜までに案を見せてください。」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、Phase 2デモのご<ruby>報告<rt>ほうこく</rt></ruby>です。**<ruby>目標<rt>もくひょう</rt></ruby>**は『<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>から<ruby>書面<rt>しょめん</rt></ruby>で<ruby>承認<rt>しょうにん</rt></ruby>をいただく』ことでした【1】。」 |
+|  | *Chị Hương, em xin báo cáo demo Phase 2. Mục tiêu là 'nhận được phê duyệt bằng văn bản từ anh Matsumoto' ạ.* |
+| **ズン** | 「**<ruby>結果<rt>けっか</rt></ruby>**：<ruby>書面<rt>しょめん</rt></ruby><ruby>承認<rt>しょうにん</rt></ruby>は<ruby>明日<rt>あした</rt></ruby>いただける<ruby>見込<rt>みこ</rt></ruby>み。<ruby>指摘<rt>してき</rt></ruby>は3<ruby>件<rt>けん</rt></ruby>のみで、<ruby>致命的<rt>ちめいてき</rt></ruby>なものはございません【2】。」 |
+|  | *Kết quả: phê duyệt bằng văn bản dự kiến nhận được ngày mai. Comment chỉ 3 mục, không có mục nào nghiêm trọng ạ.* |
+| **ズン** | 「**<ruby>原因分析<rt>げんいんぶんせき</rt></ruby>**としては、<ruby>事前<rt>じぜん</rt></ruby>に<ruby>大垣<rt>おおがき</rt></ruby><ruby>様<rt>さま</rt></ruby>へ<ruby>仮承認<rt>かりしょうにん</rt></ruby>をいただいた【3】ことで、デモ<ruby>当日<rt>とうじつ</rt></ruby>の<ruby>論点<rt>ろんてん</rt></ruby>が<ruby>画面<rt>がめん</rt></ruby>の<ruby>細部<rt>さいぶ</rt></ruby>に<ruby>絞<rt>しぼ</rt></ruby>られたためと<ruby>考<rt>かんが</rt></ruby>えております。」 |
+|  | *Phân tích nguyên nhân: do em đã xin phê duyệt sơ bộ từ anh Ōgaki trước, nên trong ngày demo các điểm tranh luận đã thu hẹp về chi tiết màn hình ạ.* |
+| **ズン** | 「**<ruby>今後<rt>こんご</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby>**：3<ruby>件<rt>けん</rt></ruby>の<ruby>指摘<rt>してき</rt></ruby>は<ruby>今週中<rt>こんしゅうちゅう</rt></ruby>に<ruby>修正<rt>しゅうせい</rt></ruby>、<ruby>来週<rt>らいしゅう</rt></ruby><ruby>月曜<rt>げつよう</rt></ruby>にPhase 3キックオフを<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>へ<ruby>提案<rt>ていあん</rt></ruby>いたします【4】。」 |
+|  | *Hành động tiếp theo: sửa 3 comment trong tuần này, thứ hai tuần sau em sẽ đề xuất kick-off Phase 3 với anh Matsumoto ạ.* |
+| **フオン** | 「Goalが<ruby>明確<rt>めいかく</rt></ruby>で<ruby>原因分析<rt>げんいんぶんせき</rt></ruby>も<ruby>筋<rt>すじ</rt></ruby>が<ruby>通<rt>とお</rt></ruby>ってる。Phase 3<ruby>提案<rt>ていあん</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>もレビューしたいから、<ruby>金曜<rt>きんよう</rt></ruby>までに<ruby>案<rt>あん</rt></ruby>を<ruby>見<rt>み</rt></ruby>せてください。」 |
+|  | *Goal rõ và phân tích nguyên nhân cũng có lý. Đề xuất Phase 3 chị muốn xem lại nữa, em đưa bản nháp trước thứ Sáu nhé.* |
 
 📝 **Ghi chú:**
 - 【1】**「目標は〇〇でした」** — luôn nhắc lại Goal trước khi báo Result. Người nghe có thước đo để đánh giá.
-- 【2】**「致命的なものはございません」** — phân loại severity. Không phải comment nào cũng nặng như nhau.
-- 【3】**「事前に〜いただいた」** — Cause cụ thể, có thể replicate được. "たぶん準備が良かった" thì không phải Cause.
-- 【4】**「今後の対応」** — Action có deadline + concrete next step. Không kết bằng "今後気をつけます".
+- 【2】**「致命的なものはございません」** — phân loại mức độ nghiêm trọng. Không phải comment nào cũng nặng như nhau.
+- 【3】**「事前に〜いただいた」** — Cause cụ thể, có thể lặp lại được. "たぶん準備が良かった" thì không phải Cause.
+- 【4】**「今後の対応」** — Action có hạn chót + bước tiếp theo cụ thể. Không kết bằng "今後気をつけます".
 
 ---
 
@@ -291,7 +318,7 @@ Demo Phase 2 với khách Matsumoto vừa kết thúc. Em Dũng cần báo cáo 
 | キックオフ | kikkuofu | Kick-off |
 
 
-# Rule 04 — Báo cáo trung gian / 中間報告 (25/50/75% milestones)
+# Rule 04 — Báo cáo trung gian / 中間報告 (mốc 25/50/75%)
 
 > **Luận điểm.** Việc dài 1+ tuần phải có **báo cáo trung gian** ở mốc 25/50/75%. Đợi xong mới báo = "ngâm tin". Sếp không biết tiến độ thực = không can thiệp được khi sai hướng.
 >
@@ -303,7 +330,7 @@ Demo Phase 2 với khách Matsumoto vừa kết thúc. Em Dũng cần báo cáo 
 
 ## Bối cảnh / 場面
 
-Em Dũng được giao soạn 提案書 Phase 3 cho khách. Deadline 2 tuần. Tuần 1 không báo cáo gì → tuần 2 mới phát hiện hướng đi sai. Anh Tuấn (tech lead) chỉ ra: phải có 中間報告 mốc 25%, 50%, 75%.
+Em Dũng được giao soạn 提案書 (đề xuất) Phase 3 cho khách. Deadline 2 tuần. Tuần 1 không báo cáo gì → tuần 2 mới phát hiện hướng đi sai. Anh Tuấn (trưởng nhóm kỹ thuật) chỉ ra: phải có 中間報告 (báo cáo trung gian) ở mốc 25%, 50%, 75%.
 
 ---
 
@@ -311,15 +338,20 @@ Em Dũng được giao soạn 提案書 Phase 3 cho khách. Deadline 2 tuần. T
 
 *thứ 2 tuần 2 · thứ 5 tuần 2*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「ズン、提案書どう？来週金曜が締め切りでしょ？」 |
-| **ズン** | 「あ、はい、頑張って書いてます。完成したらお見せします。」 |
-| **トゥアン** | 「ちょっと見せて。…これ、構成が松本様の好みと合ってない。最初から書き直しだ。」 |
-| **ズン** | 「えっ、もう80%書いたのに…」 |
-| **トゥアン** | 「だから 25% の段階で見せてって言ってたよね？中間報告が無いとこういうことになる。」 |
+| **トゥアン** | 「ズン、<ruby>提案書<rt>ていあんしょ</rt></ruby>どう？<ruby>来週<rt>らいしゅう</rt></ruby><ruby>金曜<rt>きんよう</rt></ruby>が<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りでしょ？」 |
+|  | *Dũng, proposal sao rồi? Thứ Sáu tuần sau deadline đúng không?* |
+| **ズン** | 「あ、はい、<ruby>頑張<rt>がんば</rt></ruby>って<ruby>書<rt>か</rt></ruby>いてます。<ruby>完成<rt>かんせい</rt></ruby>したらお<ruby>見<rt>み</rt></ruby>せします。」 |
+|  | *Vâng, em đang cố viết ạ. Xong em sẽ đưa anh xem.* |
+| **トゥアン** | 「ちょっと<ruby>見<rt>み</rt></ruby>せて。…これ、<ruby>構成<rt>こうせい</rt></ruby>が<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>の<ruby>好<rt>この</rt></ruby>みと<ruby>合<rt>あ</rt></ruby>ってない。<ruby>最初<rt>さいしょ</rt></ruby>から<ruby>書<rt>か</rt></ruby>き<ruby>直<rt>なお</rt></ruby>しだ。」 |
+|  | *Cho anh xem chút. ...Cấu trúc này không hợp gu anh Matsumoto. Phải viết lại từ đầu.* |
+| **ズン** | 「えっ、もう80%<ruby>書<rt>か</rt></ruby>いたのに…」 |
+|  | *Hả, em viết được 80% rồi mà...* |
+| **トゥアン** | 「だから 25% の<ruby>段階<rt>だんかい</rt></ruby>で<ruby>見<rt>み</rt></ruby>せてって<ruby>言<rt>い</rt></ruby>ってたよね？<ruby>中間報告<rt>ちゅうかんほうこく</rt></ruby>が<ruby>無<rt>な</rt></ruby>いとこういうことになる。」 |
+|  | *Anh đã bảo show ở mốc 25% rồi đúng không? Không có báo cáo trung gian thì sẽ thành thế này.* |
 
-**Vì sao xấu:** Dũng "ngâm tin" 9 ngày. Đến mốc 80% mới hé ra → quá trễ để xoay. Nếu báo ở 25% (sau 2-3 ngày, đã có outline) → anh Tuấn xoay được.
+**Vì sao xấu:** Dũng "ngâm tin" 9 ngày. Đến mốc 80% mới hé ra → quá trễ để xoay. Nếu báo ở 25% (sau 2-3 ngày, đã có bố cục) → anh Tuấn xoay được.
 
 ---
 
@@ -327,24 +359,29 @@ Em Dũng được giao soạn 提案書 Phase 3 cho khách. Deadline 2 tuần. T
 
 *thứ 4 tuần 1, đã làm outline xong · 15分後*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「トゥアンリーダー、提案書の **中間報告** です【1】。**進捗 25%**：構成案とエグゼクティブサマリーが完成しました。」 |
-| **ズン** | 「**確認いただきたい点**：松本様の好みに合う構成かどうか。15分ほどお時間いただけますか【2】。」 |
-| **トゥアン** | 「構成OK。ただ、技術詳細セクションは『なぜこの選定か』を増やして。50%の時点でまた見せて。」 |
-| **ズン** | 「承知しました。**次回中間報告は来週月曜（50%地点）**に予定いたします【3】。」 |
-| **トゥアン** | 「うん、これで安心して任せられる。」 |
+| **ズン** | 「トゥアンリーダー、<ruby>提案書<rt>ていあんしょ</rt></ruby>の **<ruby>中間報告<rt>ちゅうかんほうこく</rt></ruby>** です【1】。**<ruby>進捗<rt>しんちょく</rt></ruby> 25%**：<ruby>構成<rt>こうせい</rt></ruby><ruby>案<rt>あん</rt></ruby>とエグゼクティブサマリーが<ruby>完成<rt>かんせい</rt></ruby>しました。」 |
+|  | *Anh Tuấn, em báo cáo trung gian proposal ạ. Tiến độ 25%: outline và tóm tắt cho lãnh đạo đã xong ạ.* |
+| **ズン** | 「**<ruby>確認<rt>かくにん</rt></ruby>いただきたい<ruby>点<rt>てん</rt></ruby>**：<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>の<ruby>好<rt>この</rt></ruby>みに<ruby>合<rt>あ</rt></ruby>う<ruby>構成<rt>こうせい</rt></ruby>かどうか。15<ruby>分<rt>ふん</rt></ruby>ほどお<ruby>時間<rt>じかん</rt></ruby>いただけますか【2】。」 |
+|  | *Điều em cần anh check: cấu trúc có hợp gu anh Matsumoto không. Anh dành cho em khoảng 15 phút được không ạ?* |
+| **トゥアン** | 「<ruby>構成<rt>こうせい</rt></ruby>OK。ただ、<ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>詳細<rt>しょうさい</rt></ruby>セクションは『なぜこの<ruby>選定<rt>せんてい</rt></ruby>か』を<ruby>増<rt>ふ</rt></ruby>やして。50%の<ruby>時点<rt>じてん</rt></ruby>でまた<ruby>見<rt>み</rt></ruby>せて。」 |
+|  | *Cấu trúc OK. Nhưng phần technical detail thêm phần 'tại sao chọn cái này' vào. Mốc 50% show lại nhé.* |
+| **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。**<ruby>次回<rt>じかい</rt></ruby><ruby>中間報告<rt>ちゅうかんほうこく</rt></ruby>は<ruby>来週<rt>らいしゅう</rt></ruby><ruby>月曜<rt>げつよう</rt></ruby>（50%<ruby>地点<rt>ちてん</rt></ruby>）**に<ruby>予定<rt>よてい</rt></ruby>いたします【3】。」 |
+|  | *Em hiểu ạ. Báo cáo trung gian lần sau em đặt vào thứ Hai tuần sau (mốc 50%) ạ.* |
+| **トゥアン** | 「うん、これで<ruby>安心<rt>あんしん</rt></ruby>して<ruby>任<rt>まか</rt></ruby>せられる。」 |
+|  | *Ừ, thế này anh yên tâm giao việc.* |
 
 📝 **Ghi chú:**
-- 【1】**「中間報告です」** — đặt label rõ ràng. Sếp biết đây không phải báo cáo cuối.
-- 【2】**「確認いただきたい点」「15分ほど」** — nói rõ điều cần check + thời gian sếp dành. Không "ぼんやりレビュー".
-- 【3】**「次回中間報告は〇〇」** — pre-schedule mốc tiếp theo. Sếp ghi vào lịch.
+- 【1】**「中間報告です」** — đặt nhãn rõ ràng. Sếp biết đây không phải báo cáo cuối.
+- 【2】**「確認いただきたい点」「15分ほど」** — nói rõ điều cần kiểm tra + thời gian sếp dành. Không "ぼんやりレビュー" (xem qua loa).
+- 【3】**「次回中間報告は〇〇」** — đặt lịch trước cho mốc tiếp theo. Sếp ghi vào lịch.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「中間報告です。進捗〇%。確認いただきたいのは〇〇。次回は〇〇地点で〇月〇日に。」**
+> **「<ruby>中間報告<rt>ちゅうかんほうこく</rt></ruby>です。<ruby>進捗<rt>しんちょく</rt></ruby>〇%。<ruby>確認<rt>かくにん</rt></ruby>いただきたいのは〇〇。<ruby>次回<rt>じかい</rt></ruby>は〇〇<ruby>地点<rt>ちてん</rt></ruby>で〇<ruby>月<rt>がつ</rt></ruby>〇<ruby>日<rt>にち</rt></ruby>に。」**
 >
 > *3 mốc 25/50/75 — mỗi mốc 15 phút. Phòng tránh "đi xa rồi mới phát hiện sai hướng".*
 
@@ -352,9 +389,9 @@ Em Dũng được giao soạn 提案書 Phase 3 cho khách. Deadline 2 tuần. T
 
 ## ⚠ Tránh
 
-- 「完成したらお見せします」 — sếp Nhật cực kỵ. Nguyên tắc: long task = phải có check-point.
+- 「完成したらお見せします」 — sếp Nhật cực kỵ. Nguyên tắc: việc dài ngày = phải có điểm kiểm tra (check-point).
 - Bỏ qua mốc 25% vì "nghĩ là đúng hướng" — chính lúc đó dễ sai nhất.
-- Báo ở 90% → sếp chỉ kịp comment cosmetic. Mốc 25/50 mới đủ thời gian xoay.
+- Báo ở 90% → sếp chỉ kịp góp ý bề mặt. Mốc 25/50 mới đủ thời gian xoay.
 - Mốc trung gian mà không nói % cụ thể — sếp không biết bạn đang ở đâu.
 
 ---
@@ -391,38 +428,48 @@ Phase 2 vừa kết thúc — em Dũng cần báo cáo hoàn thành cho chị H�
 
 ## ❌ Hội thoại XẤU — chỉ có Output, thiếu Acceptance + Lessons
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「Phase 2 完了のご報告です。納品物5点、すべて納品済みです。以上です。」 |
-| **フオン** | 「松本様から **検収（受領確認）** はもらった？まだなら『完了』とは言わない。」 |
+| **ズン** | 「Phase 2 <ruby>完了<rt>かんりょう</rt></ruby>のご<ruby>報告<rt>ほうこく</rt></ruby>です。<ruby>納品物<rt>のうひんぶつ</rt></ruby>5点、すべて<ruby>納品済<rt>のうひんず</rt></ruby>みです。以上です。」 |
+|  | *Em báo cáo Phase 2 hoàn thành ạ. 5 deliverable đã giao hết. Em xin hết ạ.* |
+| **フオン** | 「<ruby>松本<rt>まつもと</rt></ruby>様から **<ruby>検収<rt>けんしゅう</rt></ruby>（<ruby>受領確認<rt>じゅりょうかくにん</rt></ruby>）** はもらった？まだなら『完了』とは言わない。」 |
+|  | *Anh Matsumoto đã ký nghiệm thu chưa? Chưa thì không gọi là 'hoàn thành'.* |
 | **ズン** | 「あ、まだメールで送ったところで…」 |
-| **フオン** | 「それは『納品』であって『完了』ではない。それと、今回の振り返りは？次のフェーズに活かせる学びは？」 |
+|  | *À em vừa gửi mail đó thôi ạ...* |
+| **フオン** | 「それは『納品』であって『完了』ではない。それと、今回の<ruby>振<rt>ふ</rt></ruby>り返りは？次のフェーズに<ruby>活<rt>い</rt></ruby>かせる<ruby>学<rt>まな</rt></ruby>びは？」 |
+|  | *Cái đó gọi là 'giao hàng' chứ không phải 'hoàn thành'. Còn nữa, lần này nhìn lại rút ra được gì? Bài học nào áp dụng được cho phase sau?* |
 | **ズン** | 「振り返りはまだ…」 |
+|  | *Phần nhìn lại em chưa làm ạ...* |
 
-**Vì sao xấu:** L1 chỉ liệt kê deliverable. Tiếng Nhật business: 納品 (delivery) ≠ 完了 (completion). 完了 là phải có 検収 (acceptance). L4 chỉ ra cả 2 thiếu sót: Acceptance + Lessons.
+**Vì sao xấu:** L1 chỉ liệt kê deliverable. Tiếng Nhật business: 納品 (giao hàng) ≠ 完了 (hoàn thành). 完了 là phải có 検収 (nghiệm thu). L4 chỉ ra cả 2 thiếu sót: Acceptance + Lessons.
 
 ---
 
 ## ✅ Hội thoại TỐT — Output + Acceptance + Lessons
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「Phase 2 **完了報告**です。**Output**：納品物5点（要件定義書、設計書、ソースコード、テスト報告書、運用手順書）、すべて納品済み【1】。」 |
-| **ズン** | 「**Acceptance**：松本様より昨日付で書面検収をいただきました。検収書のコピーを別途共有いたします【2】。」 |
-| **ズン** | 「**Lessons**：(1) 中間報告を 25/50/75% で行ったことで手戻りゼロ、(2) 反省点として、画面遷移仕様の確認が遅れ、テスト工数が当初比 +20% になりました【3】。Phase 3 では仕様確認を着手前に必ず行います。」 |
-| **フオン** | 「Acceptance まで取れて初めて完了。Lessons も具体的で良いね。Phase 3 の仕様確認手順は手順書に落として共有して。」 |
-| **ズン** | 「承知しました。今週中に手順書を作成し共有いたします。」 |
+| **ズン** | 「Phase 2 **完了報告**です。**Output**：納品物5点（<ruby>要件定義書<rt>ようけんていぎしょ</rt></ruby>、<ruby>設計書<rt>せっけいしょ</rt></ruby>、ソースコード、テスト報告書、<ruby>運用手順書<rt>うんようてじゅんしょ</rt></ruby>）、すべて納品済み【1】。」 |
+|  | *Em báo cáo hoàn thành Phase 2 ạ. Output: 5 deliverable (Tài liệu yêu cầu, thiết kế, source code, test report, hướng dẫn vận hành), đã giao hết ạ.* |
+| **ズン** | 「**Acceptance**：松本様より<ruby>昨日付<rt>きのうづけ</rt></ruby>で<ruby>書面検収<rt>しょめんけんしゅう</rt></ruby>をいただきました。検収書のコピーを<ruby>別途<rt>べっと</rt></ruby><ruby>共有<rt>きょうゆう</rt></ruby>いたします【2】。」 |
+|  | *Acceptance: anh Matsumoto đã ký nghiệm thu bằng văn bản đề ngày hôm qua. Em sẽ chia sẻ bản copy nghiệm thu riêng ạ.* |
+| **ズン** | 「**Lessons**：(1) <ruby>中間報告<rt>ちゅうかんほうこく</rt></ruby>を 25/50/75% で行ったことで<ruby>手戻<rt>てもど</rt></ruby>りゼロ、(2) <ruby>反省点<rt>はんせいてん</rt></ruby>として、<ruby>画面遷移仕様<rt>がめんせんいしよう</rt></ruby>の確認が遅れ、テスト<ruby>工数<rt>こうすう</rt></ruby>が<ruby>当初比<rt>とうしょひ</rt></ruby> +20% になりました【3】。Phase 3 では<ruby>仕様確認<rt>しようかくにん</rt></ruby>を<ruby>着手前<rt>ちゃくしゅまえ</rt></ruby>に必ず行います。」 |
+|  | *Lessons: (1) Báo cáo trung gian 25/50/75% giúp không phải làm lại lần nào, (2) Điểm rút kinh nghiệm: xác nhận spec luồng chuyển màn bị chậm, làm effort test tăng +20% so với dự kiến. Phase 3 em sẽ luôn xác nhận spec trước khi bắt tay làm ạ.* |
+| **フオン** | 「Acceptance まで取れて初めて完了。Lessons も<ruby>具体的<rt>ぐたいてき</rt></ruby>で良いね。Phase 3 の仕様確認手順は手順書に落として共有して。」 |
+|  | *Có Acceptance mới gọi là hoàn thành. Lessons cũng cụ thể, tốt. Quy trình xác nhận spec Phase 3 em đưa vào tài liệu hướng dẫn rồi share nhé.* |
+| **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。<ruby>今週中<rt>こんしゅうちゅう</rt></ruby>に手順書を<ruby>作成<rt>さくせい</rt></ruby>し共有いたします。」 |
+|  | *Em hiểu ạ. Em sẽ làm tài liệu trong tuần này và chia sẻ ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**「Output：〇〇」** — liệt kê deliverable cụ thể, có thể đếm được. Không "色々作りました".
-- 【2】**「書面検収」「検収書のコピー」** — 検収 = acceptance bằng văn bản. Phải có proof, không "口頭で OK もらった".
-- 【3】**「反省点として、〇〇」「Phase 3 では〇〇します」** — Lessons phải gồm bài học **+** action áp dụng lần sau. Chỉ liệt kê reflection mà không có action = báo cáo "rỗng".
+- 【1】**「Output：〇〇」** — liệt kê deliverable cụ thể, đếm được. Không "色々作りました".
+- 【2】**「書面検収」「検収書のコピー」** — 検収 = nghiệm thu bằng văn bản. Phải có bằng chứng, không "口頭で OK もらった".
+- 【3】**「反省点として、〇〇」「Phase 3 では〇〇します」** — Lessons phải gồm bài học **+** hành động áp dụng lần sau. Chỉ liệt kê điểm nhìn lại mà không có hành động = báo cáo "rỗng".
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「Output: 〇〇 / Acceptance: 〇〇から〇〇付検収済み / Lessons: 〇〇、Phase 〇〇 で〇〇いたします。」**
+> **「Output: 〇〇 / Acceptance: 〇〇から〇〇<ruby>付<rt>づけ</rt></ruby><ruby>検収済<rt>けんしゅうず</rt></ruby>み / Lessons: 〇〇、Phase 〇〇 で〇〇いたします。」**
 >
 > *3 phần. Phần 2 là điểm Việt thường thiếu nhất.*
 
@@ -431,8 +478,8 @@ Phase 2 vừa kết thúc — em Dũng cần báo cáo hoàn thành cho chị H�
 ## ⚠ Tránh
 
 - 「納品しました = 完了です」 — không. 検収 mới là 完了.
-- "口頭で OK もらいました" — không có proof = không acceptance.
-- Lessons toàn 「気をつけます」「今後注意します」 — không cụ thể, không action.
+- "口頭で OK もらいました" — không có bằng chứng = không có nghiệm thu.
+- Lessons toàn 「気をつけます」「今後注意します」 — không cụ thể, không có hành động.
 - Bỏ Lessons khi "không có gì đặc biệt" — luôn có ít nhất 1 thứ rút ra (kể cả khi suôn sẻ).
 
 ---
@@ -448,19 +495,19 @@ Xem `templates[0]` của file conversation: **完了報告書** với fields Out
 | 漢字 / Tiếng Nhật | よみ | Nghĩa |
 |------|------|-------|
 | 完了報告 | かんりょうほうこく | Báo cáo hoàn thành |
-| 検収 | けんしゅう | Nghiệm thu / acceptance |
+| 検収 | けんしゅう | Nghiệm thu |
 | 検収書 | けんしゅうしょ | Văn bản nghiệm thu |
-| 納品 | のうひん | Giao hàng (deliverable) |
+| 納品 | のうひん | Giao hàng (sản phẩm bàn giao) |
 | 反省点 | はんせいてん | Điểm rút kinh nghiệm |
-| 振り返り | ふりかえり | Reflection / retrospective |
-| 工数 | こうすう | Effort / man-day |
+| 振り返り | ふりかえり | Nhìn lại / tổng kết rút kinh nghiệm |
+| 工数 | こうすう | Khối lượng công (man-day) |
 | 手順書 | てじゅんしょ | Tài liệu hướng dẫn |
 | 着手前 | ちゃくしゅまえ | Trước khi bắt đầu |
 
 
 # Rule 06 — Báo cáo có số liệu / 数字を使った報告
 
-> **Luận điểm.** Báo cáo Nhật business cực kỵ định tính mơ hồ. **Mọi báo cáo phải có ít nhất 1 con số**: KPI, % thay đổi, before/after, tốc độ, lỗi, etc. "Tăng nhiều" → "tăng 23% so với tuần trước". Không có số = không thể quyết.
+> **Luận điểm.** Báo cáo Nhật business cực kỵ định tính mơ hồ. **Mọi báo cáo phải có ít nhất 1 con số**: KPI, % thay đổi, before/after, tốc độ, lỗi, v.v. "Tăng nhiều" → "tăng 23% so với tuần trước". Không có số = không thể quyết.
 >
 > 数字なき報告は判断材料にならない。**KPI / 前週比 / before-after / 工数** など最低1つは数値化する。「多い」より「+23%」、「速い」より「200ms→80ms」。
 >
@@ -476,31 +523,40 @@ Em Dũng họp với anh Hà CTO về tình hình Phase 2. Lần đầu Dũng b�
 
 ## ❌ Hội thoại XẤU — toàn định tính
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「ハーさん、Phase 2 のパフォーマンスは大幅に改善しました。バグも減ってます。お客様も満足しています。」 |
-| **ハーCTO** | 「『大幅に』『減ってる』『満足』… **数字で**話してください。Phase 3 の予算判断ができません。」 |
-| **ズン** | 「えっと…体感ではかなり良くなったと…」 |
-| **ハーCTO** | 「体感では予算は動かない。来週までに数値ベースで再報告を。」 |
+| **ズン** | 「ハーさん、Phase 2 のパフォーマンスは<ruby>大幅<rt>おおはば</rt></ruby>に<ruby>改善<rt>かいぜん</rt></ruby>しました。バグも<ruby>減<rt>へ</rt></ruby>ってます。お<ruby>客様<rt>きゃくさま</rt></ruby>も<ruby>満足<rt>まんぞく</rt></ruby>しています。」 |
+|  | *Anh Hà, hiệu năng Phase 2 cải thiện đáng kể ạ. Bug cũng giảm. Khách cũng hài lòng.* |
+| **ハーCTO** | 「『大幅に』『減ってる』『満足』… **<ruby>数字<rt>すうじ</rt></ruby>で**話してください。Phase 3 の<ruby>予算<rt>よさん</rt></ruby><ruby>判断<rt>はんだん</rt></ruby>ができません。」 |
+|  | *'Đáng kể', 'giảm', 'hài lòng'... Em nói bằng số đi. Anh không quyết được ngân sách Phase 3.* |
+| **ズン** | 「えっと…<ruby>体感<rt>たいかん</rt></ruby>ではかなり<ruby>良<rt>よ</rt></ruby>くなったと…」 |
+|  | *Ờ... cảm nhận em là tốt hơn nhiều ạ...* |
+| **ハーCTO** | 「体感では予算は<ruby>動<rt>うご</rt></ruby>かない。<ruby>来週<rt>らいしゅう</rt></ruby>までに<ruby>数値<rt>すうち</rt></ruby>ベースで<ruby>再報告<rt>さいほうこく</rt></ruby>を。」 |
+|  | *Cảm nhận thì không duyệt ngân sách được. Tuần sau báo lại dựa trên số liệu.* |
 
-**Vì sao xấu:** Nguyên 4 câu mà không một con số. CTO cần dữ liệu để quyết predict, allocate budget. "体感" (cảm nhận) không phải dữ liệu.
+**Vì sao xấu:** Nguyên 4 câu mà không một con số. CTO cần dữ liệu để dự báo, phân bổ ngân sách. "体感" (cảm nhận) không phải dữ liệu.
 
 ---
 
 ## ✅ Hội thoại TỐT — KPI dashboard kèm % thay đổi
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「ハーさん、Phase 2 の数値報告です。**画面ロード時間：1.2秒 → 0.4秒（-67%）**【1】、ダッシュボード資料を画面共有いたします。」 |
-| **ズン** | 「**バグ件数**：Phase 1 が週20件、Phase 2 が週6件で **-70%**。**顧客 NPS**：+12 から +38 へ改善しております【2】。」 |
-| **ハーCTO** | 「ロード時間 -67% は inline でいい数字。NPS の母数は？」 |
-| **ズン** | 「**回答者は12名中10名**（回答率83%）です【3】。サンプル数が小さい点、私見では今後3ヶ月で30名以上に拡大予定です。」 |
-| **ハーCTO** | 「数字の根拠が明確で良い。Phase 3 予算、承認します。」 |
+| **ズン** | 「ハーさん、Phase 2 の<ruby>数値<rt>すうち</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby>です。**<ruby>画面<rt>がめん</rt></ruby>ロード<ruby>時間<rt>じかん</rt></ruby>：1.2秒 → 0.4秒（-67%）**【1】、ダッシュボード<ruby>資料<rt>しりょう</rt></ruby>を<ruby>画面共有<rt>がめんきょうゆう</rt></ruby>いたします。」 |
+|  | *Anh Hà, em báo cáo số liệu Phase 2 ạ. Thời gian load màn hình: 1.2s → 0.4s (-67%), em xin chia sẻ màn hình dashboard ạ.* |
+| **ズン** | 「**バグ<ruby>件数<rt>けんすう</rt></ruby>**：Phase 1 が<ruby>週<rt>しゅう</rt></ruby>20件、Phase 2 が週6件で **-70%**。**<ruby>顧客<rt>こきゃく</rt></ruby> NPS**：+12 から +38 へ<ruby>改善<rt>かいぜん</rt></ruby>しております【2】。」 |
+|  | *Số bug: Phase 1 là 20 bug/tuần, Phase 2 là 6 bug/tuần, tức -70%. NPS khách: từ +12 lên +38 ạ.* |
+| **ハーCTO** | 「ロード時間 -67% は inline でいい数字。NPS の<ruby>母数<rt>ぼすう</rt></ruby>は？」 |
+|  | *Load time -67% là con số đẹp cho inline rồi. Cỡ mẫu của NPS bao nhiêu?* |
+| **ズン** | 「**<ruby>回答者<rt>かいとうしゃ</rt></ruby>は12<ruby>名<rt>めい</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>10名**（<ruby>回答率<rt>かいとうりつ</rt></ruby>83%）です【3】。サンプル<ruby>数<rt>すう</rt></ruby>が<ruby>小<rt>ちい</rt></ruby>さい<ruby>点<rt>てん</rt></ruby>、<ruby>私見<rt>しけん</rt></ruby>では<ruby>今後<rt>こんご</rt></ruby>3ヶ<ruby>月<rt>げつ</rt></ruby>で30名<ruby>以上<rt>いじょう</rt></ruby>に<ruby>拡大<rt>かくだい</rt></ruby><ruby>予定<rt>よてい</rt></ruby>です。」 |
+|  | *Có 10/12 người trả lời (tỉ lệ 83%) ạ. Cỡ mẫu còn nhỏ, theo ý em, 3 tháng tới sẽ mở rộng lên trên 30 người ạ.* |
+| **ハーCTO** | 「数字の<ruby>根拠<rt>こんきょ</rt></ruby>が<ruby>明確<rt>めいかく</rt></ruby>で良い。Phase 3 予算、<ruby>承認<rt>しょうにん</rt></ruby>します。」 |
+|  | *Cơ sở số liệu rõ ràng, tốt. Anh duyệt ngân sách Phase 3 nhé.* |
 
 📝 **Ghi chú:**
-- 【1】**「1.2秒 → 0.4秒（-67%）」** — before/after kèm % change. CTO lướt 1 giây hiểu impact.
-- 【2】**「+12 から +38 へ」** — số tuyệt đối + diff. Không "改善した" mơ hồ.
-- 【3】**「12名中10名（回答率83%）」** — nói rõ mẫu (sample size). Số đẹp mà sample n=3 thì... vô nghĩa.
+- 【1】**「1.2秒 → 0.4秒（-67%）」** — before/after kèm % thay đổi. CTO lướt 1 giây hiểu tác động.
+- 【2】**「+12 から +38 へ」** — số tuyệt đối + mức chênh. Không "改善した" mơ hồ.
+- 【3】**「12名中10名（回答率83%）」** — nói rõ cỡ mẫu (sample size). Số đẹp mà cỡ mẫu n=3 thì... vô nghĩa.
 
 ---
 
@@ -508,15 +564,15 @@ Em Dũng họp với anh Hà CTO về tình hình Phase 2. Lần đầu Dũng b�
 
 > **「Before 〇〇 → After 〇〇 (差分 〇%) / 母数 〇〇」**
 >
-> *Mọi metric đi cùng sample size. Số đẹp + n nhỏ = nghi ngờ.*
+> *Mọi chỉ số đi cùng cỡ mẫu. Số đẹp + n nhỏ = nghi ngờ.*
 
 ---
 
 ## ⚠ Tránh
 
 - 「大幅に」「かなり」「だいぶ」 — định tính, không phải số.
-- "改善しました" mà không có before/after — không quantify được impact.
-- Đưa % mà không có sample size — sếp Nhật sẽ hỏi "母数は？".
+- "改善しました" mà không có before/after — không định lượng được tác động.
+- Đưa % mà không có cỡ mẫu — sếp Nhật sẽ hỏi "母数は？".
 - Round số quá đẹp ("ちょうど50%") — gây nghi ngờ làm tròn.
 
 ---
@@ -537,17 +593,17 @@ Em Dũng họp với anh Hà CTO về tình hình Phase 2. Lần đầu Dũng b�
 
 # Rule 07 — Báo cáo tin xấu / 悪い知らせの報告 (Predict→Fact→Impact→Plan→Ask)
 
-> **Luận điểm.** Tin xấu là test case khắc nghiệt nhất của Hou-Ren-Sou. Báo trễ = mất tin cậy vĩnh viễn. Báo gấp + sai cấu trúc = sếp panic. Cấu trúc chuẩn: **Predict → Fact → Impact → Plan → Ask**. Predict trước Fact để sếp định kỳ vọng. Plan trước Ask để chứng minh đã suy nghĩ.
+> **Luận điểm.** Tin xấu là phép thử khắc nghiệt nhất của Hou-Ren-Sou. Báo trễ = mất tin cậy vĩnh viễn. Báo gấp + sai cấu trúc = sếp hoảng loạn. Cấu trúc chuẩn: **Predict → Fact → Impact → Plan → Ask**. Predict trước Fact để sếp định kỳ vọng. Plan trước Ask để chứng minh đã suy nghĩ.
 >
 > 悪い知らせほど早く・構造化して報告する。**Predict（予測）→ Fact（事実）→ Impact（影響）→ Plan（対応案）→ Ask（依頼）**。Predict 先出しで上司の心構えを作り、Plan を先に出すことで「丸投げ」感を避ける。
 >
-> **Liên quan:** rule 01 (kịp thời), rule 17 (urgent escalation), rule 31 (bug flow), rule 22 (相談 vs 自己決定).
+> **Liên quan:** rule 01 (kịp thời), rule 17 (báo khẩn lên cấp trên), rule 31 (quy trình xử lý bug), rule 22 (相談 vs 自己決定).
 
 ---
 
 ## Bối cảnh / 場面
 
-22h tối Chủ Nhật — production có bug critical do Phase 2 release. Anh Tuấn phát hiện. Anh Tuấn cần báo Anh Hà CTO ngay (không đợi sáng thứ Hai). Lần đầu báo lộn xộn, panic. Lần 2 dùng PFIPA chuẩn.
+22h tối Chủ Nhật — production có bug critical do Phase 2 release. Anh Tuấn phát hiện. Anh Tuấn cần báo Anh Hà CTO ngay (không đợi sáng thứ Hai). Lần đầu báo lộn xộn, hoảng loạn. Lần 2 dùng PFIPA chuẩn.
 
 ---
 
@@ -555,14 +611,18 @@ Em Dũng họp với anh Hà CTO về tình hình Phase 2. Lần đầu Dũng b�
 
 *thứ 2 sáng 9h, qua Slack*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「ハーさん、すいません、昨夜本番で問題が起きてまして、データが…まだ調査中なんですが…どうしましょうか？」 |
-| **ハーCTO** | 「**昨夜**？なぜ今報告？影響範囲は？対応案は？」 |
-| **トゥアン** | 「えっと、影響はまだ確認中で、対応もこれから考えるところで…」 |
-| **ハーCTO** | 「11時間遅れの報告 + 状況不明 + 対応案ゼロ。これは最悪のパターンです。」 |
+| **トゥアン** | 「ハーさん、すいません、<ruby>昨夜<rt>さくや</rt></ruby><ruby>本番<rt>ほんばん</rt></ruby>で<ruby>問題<rt>もんだい</rt></ruby>が<ruby>起<rt>お</rt></ruby>きてまして、データが…まだ<ruby>調査中<rt>ちょうさちゅう</rt></ruby>なんですが…どうしましょうか？」 |
+|  | *Anh Hà, xin lỗi, tối qua production có vấn đề, data... vẫn đang điều tra... sao bây giờ ạ?* |
+| **ハーCTO** | 「**<ruby>昨夜<rt>さくや</rt></ruby>**？なぜ<ruby>今<rt>いま</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby>？<ruby>影響範囲<rt>えいきょうはんい</rt></ruby>は？<ruby>対応案<rt>たいおうあん</rt></ruby>は？」 |
+|  | *Tối qua? Sao giờ mới báo? Phạm vi ảnh hưởng? Phương án xử lý?* |
+| **トゥアン** | 「えっと、<ruby>影響<rt>えいきょう</rt></ruby>はまだ<ruby>確認中<rt>かくにんちゅう</rt></ruby>で、<ruby>対応<rt>たいおう</rt></ruby>もこれから<ruby>考<rt>かんが</rt></ruby>えるところで…」 |
+|  | *Ờ, ảnh hưởng đang xác nhận, phương án em mới đang nghĩ ạ...* |
+| **ハーCTO** | 「11<ruby>時間<rt>じかん</rt></ruby><ruby>遅<rt>おく</rt></ruby>れの<ruby>報告<rt>ほうこく</rt></ruby> + <ruby>状況不明<rt>じょうきょうふめい</rt></ruby> + <ruby>対応案<rt>たいおうあん</rt></ruby>ゼロ。これは<ruby>最悪<rt>さいあく</rt></ruby>のパターンです。」 |
+|  | *Báo trễ 11 giờ + không rõ tình hình + không có phương án. Đây là kiểu báo cáo tệ nhất.* |
 
-**Vì sao xấu:** (1) Báo trễ 11 giờ — bug critical phải báo trong 30 phút. (2) Không có Predict mở đầu, sếp bị động. (3) Không có Plan, "どうしましょうか?" = đùn boss quyết.
+**Vì sao xấu:** (1) Báo trễ 11 giờ — bug critical phải báo trong 30 phút. (2) Không có Predict mở đầu, sếp bị động. (3) Không có Plan, "どうしましょうか?" = đùn sếp quyết.
 
 ---
 
@@ -570,19 +630,24 @@ Em Dũng họp với anh Hà CTO về tình hình Phase 2. Lần đầu Dũng b�
 
 *22:30 CN, qua điện thoại*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「ハーさん、夜分にすみません。**緊急のご報告**です。**先にお伝えしますが、本番で critical bug が発生しております**【1】。」 |
-| **トゥアン** | 「**Fact**：22時頃、注文確定 API でデータ消失が発生。**Impact**：本日 21時以降の注文データ約30件が DB に保存されていません【2】。」 |
-| **トゥアン** | 「**Plan（対応案）**：(1) ログから30件をリストアップ、(2) 顧客に翌朝までに個別連絡、(3) 原因はトランザクション処理にあると推測、修正PRを朝までに準備します【3】。」 |
-| **トゥアン** | 「**Ask（依頼）**：松本様への第一報を 23時までに私から入れてもよろしいでしょうか。あるいはハーさんから入れる選択肢もあります【4】。」 |
-| **ハーCTO** | 「Predict から Plan まで30秒で全部入った。良い報告。第一報はあなたから入れてください。私は2時間以内に折り返します。」 |
+| **トゥアン** | 「ハーさん、<ruby>夜分<rt>やぶん</rt></ruby>にすみません。**<ruby>緊急<rt>きんきゅう</rt></ruby>のご<ruby>報告<rt>ほうこく</rt></ruby>**です。**<ruby>先<rt>さき</rt></ruby>にお<ruby>伝<rt>つた</rt></ruby>えしますが、<ruby>本番<rt>ほんばん</rt></ruby>で critical bug が<ruby>発生<rt>はっせい</rt></ruby>しております**【1】。」 |
+|  | *Anh Hà, xin lỗi anh đêm khuya. Em báo cáo khẩn cấp ạ. Em xin báo trước: production đang có bug critical ạ.* |
+| **トゥアン** | 「**Fact**：22<ruby>時頃<rt>じごろ</rt></ruby>、<ruby>注文確定<rt>ちゅうもんかくてい</rt></ruby> API でデータ<ruby>消失<rt>しょうしつ</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>。**Impact**：<ruby>本日<rt>ほんじつ</rt></ruby> 21<ruby>時以降<rt>じいこう</rt></ruby>の<ruby>注文<rt>ちゅうもん</rt></ruby>データ<ruby>約<rt>やく</rt></ruby>30<ruby>件<rt>けん</rt></ruby>が DB に<ruby>保存<rt>ほぞん</rt></ruby>されていません【2】。」 |
+|  | *Fact: lúc 22h, API xác nhận đơn hàng bị mất data. Impact: khoảng 30 đơn từ sau 21h hôm nay không được lưu vào DB ạ.* |
+| **トゥアン** | 「**Plan（<ruby>対応案<rt>たいおうあん</rt></ruby>）**：(1) ログから30<ruby>件<rt>けん</rt></ruby>をリストアップ、(2) <ruby>顧客<rt>こきゃく</rt></ruby>に<ruby>翌朝<rt>よくあさ</rt></ruby>までに<ruby>個別連絡<rt>こべつれんらく</rt></ruby>、(3) <ruby>原因<rt>げんいん</rt></ruby>はトランザクション<ruby>処理<rt>しょり</rt></ruby>にあると<ruby>推測<rt>すいそく</rt></ruby>、<ruby>修正<rt>しゅうせい</rt></ruby>PRを<ruby>朝<rt>あさ</rt></ruby>までに<ruby>準備<rt>じゅんび</rt></ruby>します【3】。」 |
+|  | *Plan (Phương án): (1) trích 30 đơn từ log, (2) liên hệ riêng khách trước sáng mai, (3) nguyên nhân em đoán ở xử lý transaction, em chuẩn bị PR sửa trước sáng ạ.* |
+| **トゥアン** | 「**Ask（<ruby>依頼<rt>いらい</rt></ruby>）**：<ruby>松本様<rt>まつもとさま</rt></ruby>への<ruby>第一報<rt>だいいっぽう</rt></ruby>を 23<ruby>時<rt>じ</rt></ruby>までに<ruby>私<rt>わたし</rt></ruby>から<ruby>入<rt>い</rt></ruby>れてもよろしいでしょうか。あるいはハーさんから<ruby>入<rt>い</rt></ruby>れる<ruby>選択肢<rt>せんたくし</rt></ruby>もあります【4】。」 |
+|  | *Ask (Em xin ý anh): em báo cáo đầu cho anh Matsumoto trước 23h được không ạ? Hoặc lựa chọn anh Hà báo cho anh ấy ạ.* |
+| **ハーCTO** | 「Predict から Plan まで30<ruby>秒<rt>びょう</rt></ruby>で<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>入<rt>はい</rt></ruby>った。<ruby>良<rt>よ</rt></ruby>い<ruby>報告<rt>ほうこく</rt></ruby>。<ruby>第一報<rt>だいいっぽう</rt></ruby>はあなたから<ruby>入<rt>い</rt></ruby>れてください。<ruby>私<rt>わたし</rt></ruby>は2<ruby>時間以内<rt>じかんいない</rt></ruby>に<ruby>折<rt>お</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>します。」 |
+|  | *Predict đến Plan đủ trong 30 giây. Báo cáo tốt. Báo đầu em làm đi. Anh sẽ phản hồi trong 2 giờ.* |
 
 📝 **Ghi chú:**
-- 【1】**「先にお伝えしますが、〇〇が発生しております」** — Predict mở đầu = sếp định khung tâm lý "đây là tin xấu". Tránh shock.
-- 【2】**「Fact〜Impact」** — chia rõ 2 phần. Fact = chuyện gì xảy ra. Impact = ảnh hưởng cụ thể (số lượng / khách / tiền). Sếp cần Impact để escalate hay không.
-- 【3】**「Plan：(1)〜(2)〜(3)」** — 3 dòng action với owner. Show rằng đã suy nghĩ chứ không chỉ đùn.
-- 【4】**「〜してもよろしいでしょうか。あるいは〇〇という選択肢も」** — Ask đưa 2 option. Sếp Nhật ưa chọn hơn quyết từ zero.
+- 【1】**「先にお伝えしますが、〇〇が発生しております」** — Predict mở đầu = sếp định khung tâm lý "đây là tin xấu". Tránh gây sốc.
+- 【2】**「Fact〜Impact」** — chia rõ 2 phần. Fact = chuyện gì xảy ra. Impact = ảnh hưởng cụ thể (số lượng / khách / tiền). Sếp cần Impact để quyết có báo lên cấp trên hay không.
+- 【3】**「Plan：(1)〜(2)〜(3)」** — 3 dòng việc cần làm kèm người phụ trách. Cho thấy đã suy nghĩ chứ không chỉ đùn.
+- 【4】**「〜してもよろしいでしょうか。あるいは〇〇という選択肢も」** — Ask đưa 2 lựa chọn. Sếp Nhật ưa chọn hơn là phải quyết từ con số không.
 
 ---
 
@@ -596,16 +661,16 @@ Em Dũng họp với anh Hà CTO về tình hình Phase 2. Lần đầu Dũng b�
 
 ## ⚠ Tránh
 
-- 「すみません、ちょっと問題が…」 — vague, sếp không biết nặng nhẹ.
+- 「すみません、ちょっと問題が…」 — mơ hồ, sếp không biết nặng nhẹ.
 - "どうしましょうか?" mở đầu — đùn quyết định cho sếp = sếp mất công cào lại từ đầu.
-- Đợi đến giờ làm việc mới báo — bug critical là exception. Email/Slack/phone cá nhân OK.
-- Báo Plan mà không nói deadline cụ thể (「対応します」) — không có thời hạn = không phải plan.
+- Đợi đến giờ làm việc mới báo — bug critical là trường hợp ngoại lệ. Email/Slack/điện thoại cá nhân OK.
+- Báo Plan mà không nói thời hạn cụ thể (「対応します」) — không có thời hạn = không phải phương án.
 
 ---
 
 ## 📐 Template box
 
-Xem `templates[0]` của file conversation: **悪い知らせ報告書** (incident report).
+Xem `templates[0]` của file conversation: **悪い知らせ報告書** (báo cáo sự cố).
 
 ---
 
@@ -645,13 +710,18 @@ Sau Phase 2 hoàn thành, em Dũng cần soạn 報告書 chính thức gửi an
 
 *review draft*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「ズン、報告書のドラフト見たけど…**件名が「Phase 2について」**？こんなの NG だよ。」 |
-| **ズン** | 「えっ、内容には Phase 2 のこと書いてますけど…」 |
-| **トゥアン** | 「件名は『何の報告か + 期間 + 宛先優先順位』で書くんだ。それと **概要（300字）が無い**。詳細だけだと松本様は読まずに飛ばす。」 |
-| **ズン** | 「概要も詳細も、似たようなことなんで…」 |
-| **トゥアン** | 「概要は『3秒で読める要約』、詳細は『じっくり読む人向け』。役割が違う。それと **作成日と添付一覧** も無い。フォーマットを守って。」 |
+| **トゥアン** | 「ズン、<ruby>報告書<rt>ほうこくしょ</rt></ruby>の<ruby>ドラフト<rt>どらふと</rt></ruby><ruby>見<rt>み</rt></ruby>たけど…**<ruby>件名<rt>けんめい</rt></ruby>が「Phase 2について」**？こんなの NG だよ。」 |
+|  | *Dũng, anh xem draft báo cáo... tiêu đề là 'Về Phase 2'? Cái này NG.* |
+| **ズン** | 「えっ、<ruby>内容<rt>ないよう</rt></ruby>には Phase 2 のこと<ruby>書<rt>か</rt></ruby>いてますけど…」 |
+|  | *Hả, nội dung có viết về Phase 2 mà ạ...* |
+| **トゥアン** | 「<ruby>件名<rt>けんめい</rt></ruby>は『<ruby>何<rt>なに</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>か + <ruby>期間<rt>きかん</rt></ruby> + <ruby>宛先<rt>あてさき</rt></ruby><ruby>優先<rt>ゆうせん</rt></ruby><ruby>順位<rt>じゅんい</rt></ruby>』で<ruby>書<rt>か</rt></ruby>くんだ。それと **<ruby>概要<rt>がいよう</rt></ruby>（300<ruby>字<rt>じ</rt></ruby>）が<ruby>無<rt>な</rt></ruby>い**。<ruby>詳細<rt>しょうさい</rt></ruby>だけだと<ruby>松本<rt>まつもと</rt></ruby>様は<ruby>読<rt>よ</rt></ruby>まずに<ruby>飛<rt>と</rt></ruby>ばす。」 |
+|  | *Tiêu đề viết theo 'báo cáo gì + thời gian + ưu tiên người nhận'. Còn nữa, không có phần tổng quan (300 chữ). Chỉ có chi tiết thì anh Matsumoto sẽ skip.* |
+| **ズン** | 「<ruby>概要<rt>がいよう</rt></ruby>も<ruby>詳細<rt>しょうさい</rt></ruby>も、<ruby>似<rt>に</rt></ruby>たようなことなんで…」 |
+|  | *Tổng quan với chi tiết na ná nhau, nên em...* |
+| **トゥアン** | 「<ruby>概要<rt>がいよう</rt></ruby>は『3<ruby>秒<rt>びょう</rt></ruby>で<ruby>読<rt>よ</rt></ruby>める<ruby>要約<rt>ようやく</rt></ruby>』、<ruby>詳細<rt>しょうさい</rt></ruby>は『じっくり<ruby>読<rt>よ</rt></ruby>む<ruby>人<rt>ひと</rt></ruby><ruby>向<rt>む</rt></ruby>け』。<ruby>役割<rt>やくわり</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>う。それと **<ruby>作成日<rt>さくせいび</rt></ruby>と<ruby>添付<rt>てんぷ</rt></ruby><ruby>一覧<rt>いちらん</rt></ruby>** も<ruby>無<rt>な</rt></ruby>い。<ruby>フォーマット<rt>ふぉーまっと</rt></ruby>を<ruby>守<rt>まも</rt></ruby>って。」 |
+|  | *Tổng quan là 'tóm tắt đọc 3 giây', chi tiết là 'cho người đọc kỹ'. Vai trò khác nhau. Thêm nữa, không có ngày lập và danh mục đính kèm. Phải giữ đúng format.* |
 
 **Vì sao xấu:** L1 件名 mơ hồ. L3 thiếu 概要. L5 thiếu 作成日 + 添付一覧. 報告書 không đủ 7 phần = trong văn hóa Nhật xem như chưa nộp.
 
@@ -661,17 +731,22 @@ Sau Phase 2 hoàn thành, em Dũng cần soạn 報告書 chính thức gửi an
 
 *review draft v2*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「ズン、これは良くなったね。**件名「Phase 2 完了報告書（〇月〇日〜〇月〇日）」**【1】。」 |
-| **トゥアン** | 「**概要セクション**が3行で要点をまとめてる ✓【2】。**詳細**は KPI と Lessons まで網羅 ✓。**結論**で次フェーズへの提言が入ってる ✓。」 |
-| **トゥアン** | 「**作成日**、**宛先**（主：松本様、CC：大垣様、社内：ハー、フオン副部長）、**添付一覧**（検収書、ダッシュボード PDF、議事録）も全部揃ってる【3】。」 |
-| **ズン** | 「ありがとうございます。Phase 3 でも同じテンプレートを使います。」 |
-| **トゥアン** | 「うん、社内標準にしよう。リンに共有して。」 |
+| **トゥアン** | 「ズン、これは<ruby>良<rt>よ</rt></ruby>くなったね。**<ruby>件名<rt>けんめい</rt></ruby>「Phase 2 <ruby>完了<rt>かんりょう</rt></ruby><ruby>報告書<rt>ほうこくしょ</rt></ruby>（〇<ruby>月<rt>がつ</rt></ruby>〇<ruby>日<rt>にち</rt></ruby>〜〇<ruby>月<rt>がつ</rt></ruby>〇<ruby>日<rt>にち</rt></ruby>）」**【1】。」 |
+|  | *Dũng, lần này tốt rồi. Tiêu đề 'Báo cáo hoàn thành Phase 2 (〇/〇 - 〇/〇)' đây.* |
+| **トゥアン** | 「**<ruby>概要<rt>がいよう</rt></ruby><ruby>セクション<rt>せくしょん</rt></ruby>**が3<ruby>行<rt>ぎょう</rt></ruby>で<ruby>要点<rt>ようてん</rt></ruby>をまとめてる ✓【2】。**<ruby>詳細<rt>しょうさい</rt></ruby>**は KPI と Lessons まで<ruby>網羅<rt>もうら</rt></ruby> ✓。**<ruby>結論<rt>けつろん</rt></ruby>**で<ruby>次<rt>つぎ</rt></ruby>フェーズへの<ruby>提言<rt>ていげん</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってる ✓。」 |
+|  | *Section tổng quan tóm 3 dòng đủ ý ✓. Chi tiết bao quát cả KPI và Lessons ✓. Kết luận có đề xuất cho phase sau ✓.* |
+| **トゥアン** | 「**<ruby>作成日<rt>さくせいび</rt></ruby>**、**<ruby>宛先<rt>あてさき</rt></ruby>**（<ruby>主<rt>おも</rt></ruby>：<ruby>松本<rt>まつもと</rt></ruby>様、CC：<ruby>大垣<rt>おおがき</rt></ruby>様、<ruby>社内<rt>しゃない</rt></ruby>：ハー、フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>）、**<ruby>添付<rt>てんぷ</rt></ruby><ruby>一覧<rt>いちらん</rt></ruby>**（<ruby>検収書<rt>けんしゅうしょ</rt></ruby>、ダッシュボード PDF、<ruby>議事録<rt>ぎじろく</rt></ruby>）も<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>揃<rt>そろ</rt></ruby>ってる【3】。」 |
+|  | *Ngày lập, người nhận (chính: anh Matsumoto, CC: anh Ōgaki, nội bộ: anh Hà, chị Hương), danh mục đính kèm (văn bản nghiệm thu, dashboard PDF, biên bản họp) cũng đủ hết.* |
+| **ズン** | 「ありがとうございます。Phase 3 でも<ruby>同<rt>おな</rt></ruby>じ<ruby>テンプレート<rt>てんぷれーと</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。」 |
+|  | *Em cảm ơn anh. Phase 3 em sẽ dùng cùng template ạ.* |
+| **トゥアン** | 「うん、<ruby>社内<rt>しゃない</rt></ruby><ruby>標準<rt>ひょうじゅん</rt></ruby>にしよう。リンに<ruby>共有<rt>きょうゆう</rt></ruby>して。」 |
+|  | *Ừ, mình lấy cái này làm chuẩn nội bộ. Em chia sẻ cho Linh nhé.* |
 
 📝 **Ghi chú:**
 - 【1】**「〇〇 完了報告書（〇月〇日〜〇月〇日）」** — 件名 phải có loại văn bản + scope thời gian. Không 「〇〇について」.
-- 【2】**概要 (tóm tắt cho lãnh đạo)** = 3-5 dòng. CEO/PM lướt là nắm. 詳細 dành cho người implement.
+- 【2】**概要 (executive summary — tóm tắt cho lãnh đạo)** = 3-5 dòng. Cấp quản lý lướt qua là nắm. 詳細 dành cho người trực tiếp triển khai.
 - 【3】**添付一覧** = liệt kê tên + version + ngày của từng file đính kèm. Tránh lẫn version về sau.
 
 ---
@@ -685,7 +760,7 @@ Sau Phase 2 hoàn thành, em Dũng cần soạn 報告書 chính thức gửi an
 ## ⚠ Tránh
 
 - 件名 「〇〇について」 — quá vague. Phải là 「〇〇 報告書」 hoặc 「〇〇 完了報告書」.
-- Bỏ 概要, viết thẳng vào 詳細 — sếp Nhật bận sẽ skip báo cáo của bạn.
+- Bỏ 概要, viết thẳng vào 詳細 — sếp Nhật bận sẽ bỏ qua báo cáo của bạn.
 - Đính kèm file mà không liệt kê tên trong 添付 section — file thất lạc khi forward.
 - Viết "結論" theo style cảm xúc ("頑張りました") — kết luận phải là statement quyết định.
 
@@ -715,7 +790,7 @@ Xem `templates[0]` của file conversation: **完了報告書 (formal)**.
 
 # Rule 09 — Báo cáo miệng vs văn bản / 口頭報告 vs 書面報告
 
-> **Luận điểm.** Cùng 1 thông tin nhưng kênh sai = báo cáo sai. **Decision matrix**: ngắn + khẩn → 口頭 (miệng/phone). Dài + cần lưu vết → 書面 (mail/báo cáo). Quan trọng + nhạy cảm → **口頭 trước, 書面 sau** (combo).
+> **Luận điểm.** Cùng 1 thông tin nhưng kênh sai = báo cáo sai. **Ma trận quyết định (decision matrix)**: ngắn + khẩn → 口頭 (miệng/phone). Dài + cần lưu vết → 書面 (mail/báo cáo). Quan trọng + nhạy cảm → **口頭 trước, 書面 sau** (kết hợp cả hai).
 >
 > 同じ情報でも channel を間違えると報告失敗。短い・緊急 → 口頭、長い・記録要 → 書面、重要・センシティブ → **口頭で第一報、書面でフォローアップ** の組み合わせ。
 >
@@ -725,7 +800,7 @@ Xem `templates[0]` của file conversation: **完了報告書 (formal)**.
 
 ## Bối cảnh / 場面
 
-Em Dũng có 3 việc cần báo trong cùng 1 ngày. Lần đầu Dũng bê hết vào mail dài 2000 chữ → chị Hương không kịp đọc tin urgent. Anh Tuấn dạy decision matrix.
+Em Dũng có 3 việc cần báo trong cùng 1 ngày. Lần đầu Dũng bê hết vào mail dài 2000 chữ → chị Hương không kịp đọc tin khẩn. Anh Tuấn dạy ma trận quyết định.
 
 ---
 
@@ -733,14 +808,18 @@ Em Dũng có 3 việc cần báo trong cùng 1 ngày. Lần đầu Dũng bê h�
 
 *gửi mail 9h sáng · 15h, sau khi đọc*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「件名：本日のご報告いろいろ」 (nội dung 2000 chữ gồm: bug critical + tiến độ tuần + đề xuất reschedule họp) |
-| **フオン** | 「ズン、**critical bug** が朝9時に発生してたって、私はメール埋もれて15時に気づきましたよ。なぜ電話してくれなかったの？」 |
-| **ズン** | 「えっと、メールに全部書いたので…」 |
-| **フオン** | 「**緊急は口頭**、進捗は書面、リスケは別メール — 用件ごとに channel を分けて。」 |
+| **ズン** | 「<ruby>件名<rt>けんめい</rt></ruby>：本日のご<ruby>報告<rt>ほうこく</rt></ruby>いろいろ」 (nội dung 2000 chữ gồm: bug critical + tiến độ tuần + đề xuất reschedule họp) |
+|  | *Tiêu đề "Báo cáo nhiều thứ hôm nay", gộp 3 việc — sự cố production, tiến độ tuần, reschedule họp — dài 2000 chữ.* |
+| **フオン** | 「ズン、**critical bug** が<ruby>朝<rt>あさ</rt></ruby>9時に<ruby>発生<rt>はっせい</rt></ruby>してたって、私はメール<ruby>埋<rt>う</rt></ruby>もれて15時に<ruby>気<rt>き</rt></ruby>づきましたよ。なぜ<ruby>電話<rt>でんわ</rt></ruby>してくれなかったの？」 |
+|  | *Dũng, bug critical xảy ra 9h sáng mà chị bị chôn trong mail, đến 15h mới thấy đó. Sao em không gọi điện?* |
+| **ズン** | 「えっと、メールに<ruby>全部<rt>ぜんぶ</rt></ruby>書いたので…」 |
+|  | *Ờ, em viết hết trong mail rồi nên...* |
+| **フオン** | 「**<ruby>緊急<rt>きんきゅう</rt></ruby>は<ruby>口頭<rt>こうとう</rt></ruby>**、<ruby>進捗<rt>しんちょく</rt></ruby>は<ruby>書面<rt>しょめん</rt></ruby>、リスケは<ruby>別<rt>べつ</rt></ruby>メール — <ruby>用件<rt>ようけん</rt></ruby>ごとに channel を分けて。」 |
+|  | *Khẩn thì gọi điện, tiến độ thì văn bản, reschedule thì mail riêng — chia kênh theo loại việc đi.* |
 
-**Vì sao xấu:** Bug critical 9h sáng → cần 口頭 ngay (phone). Lẫn vào mail dài + tiêu đề mơ hồ "いろいろ" = chị Hương phát hiện trễ 6 giờ. 1 mail = 1 chủ đề.
+**Vì sao xấu:** Bug critical 9h sáng → cần 口頭 ngay (phone). Lẫn vào mail dài + tiêu đề mơ hồ "いろいろ" = chị Hương phát hiện trễ 6 giờ. Một mail = một chủ đề.
 
 ---
 
@@ -748,26 +827,30 @@ Em Dũng có 3 việc cần báo trong cùng 1 ngày. Lần đầu Dũng bê h�
 
 *9:05, phone gọi cá nhân chị Hương · 11:00, gửi mail "週次進捗報告 第3週" · 14:00, gửi mail "【リスケ依頼】明日16時 定例会議について" · 15:00*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、緊急のご報告です。本番で critical bug が発生しております【1】。詳細は今からメールも送ります。」 |
-| **フオン** | 「了解、すぐ動きます。メール待ちます。」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、<ruby>緊急<rt>きんきゅう</rt></ruby>のご<ruby>報告<rt>ほうこく</rt></ruby>です。<ruby>本番<rt>ほんばん</rt></ruby>で critical bug が<ruby>発生<rt>はっせい</rt></ruby>しております【1】。<ruby>詳細<rt>しょうさい</rt></ruby>は<ruby>今<rt>いま</rt></ruby>からメールも<ruby>送<rt>おく</rt></ruby>ります。」 |
+|  | *Chị Hương, em báo cáo khẩn cấp ạ. Production đang có bug critical. Chi tiết em gửi mail luôn ạ.* |
+| **フオン** | 「<ruby>了解<rt>りょうかい</rt></ruby>、すぐ<ruby>動<rt>うご</rt></ruby>きます。メール<ruby>待<rt>ま</rt></ruby>ちます。」 |
+|  | *Hiểu rồi, chị xử lý ngay. Đợi mail em nhé.* |
 | **ズン** | (Body theo template DDBN — không gồm bug, vì bug đã có thread riêng) |
+|  | *11h em gửi mail "[Tiến độ tuần] Phase 2 Tuần 3", 14h gửi mail "[Xin reschedule] Họp định kỳ 16h ngày mai" — 2 mail riêng ạ.* |
 | **ズン** | (1 chủ đề duy nhất, có tiêu đề rõ) |
-| **フオン** | 「3つの用件、3つの channel で分けてくれて整理しやすかった。週次は OK、リスケも承認します。」 |
+| **フオン** | 「3つの<ruby>用件<rt>ようけん</rt></ruby>、3つの channel で分けてくれて<ruby>整理<rt>せいり</rt></ruby>しやすかった。<ruby>週次<rt>しゅうじ</rt></ruby>は OK、リスケも<ruby>承認<rt>しょうにん</rt></ruby>します。」 |
+|  | *3 việc, em chia 3 kênh nên chị dễ tổng hợp. Tiến độ tuần OK, reschedule chị duyệt nhé.* |
 
 📝 **Ghi chú:**
-- 【1】**Phone trước cho urgent** — bug critical không gửi mail rồi đợi. Phone → email follow-up.
-- 1 mail = 1 chủ đề. Tiêu đề rõ ràng, không "いろいろ".
-- Bug critical sau khi 口頭 phải có 書面 follow-up (tạo audit trail).
+- 【1】**Phone trước cho việc khẩn** — bug critical không gửi mail rồi đợi. Phone → email follow-up.
+- Một mail = một chủ đề. Tiêu đề rõ ràng, không "いろいろ".
+- Bug critical sau khi 口頭 phải có 書面 follow-up (tạo lưu vết kiểm toán — audit trail).
 
 ---
 
-## Decision matrix tóm tắt
+## Ma trận quyết định (decision matrix) tóm tắt
 
-| Tình huống | Channel | Lý do |
+| Tình huống | Kênh | Lý do |
 |-----------|---------|-------|
-| Bug critical / sự cố production | **口頭 (phone) → 書面 follow** | Tốc độ + audit trail |
+| Bug critical / sự cố production | **口頭 (phone) → 書面 follow** | Tốc độ + lưu vết kiểm toán |
 | Tiến độ daily | Slack (書面 ngắn) | Lưu được, lướt nhanh |
 | Tiến độ weekly | Mail (書面) | Cần share rộng + lưu vết |
 | Đề xuất / tham vấn | **口頭 trước (15ph) → 書面 sau** | Bàn bạc dễ hơn miệng |
@@ -785,10 +868,10 @@ Em Dũng có 3 việc cần báo trong cùng 1 ngày. Lần đầu Dũng bê h�
 
 ## ⚠ Tránh
 
-- Critical info trong mail dài 2000 chữ — sếp lướt mất 6 giờ mới thấy.
+- Thông tin nghiêm trọng trong mail dài 2000 chữ — sếp lướt mất 6 giờ mới thấy.
 - Phone báo tiến độ daily — không lưu vết, sếp quên.
-- 1 mail nhiều chủ đề — sếp reply 1 chủ đề, các chủ đề kia mất.
-- "口頭で OK もらいました" mà không có 書面 follow — sau này không proof được.
+- Một mail nhiều chủ đề — sếp reply 1 chủ đề, các chủ đề kia mất.
+- "口頭で OK もらいました" mà không có 書面 follow — sau này không chứng minh được.
 
 ---
 
@@ -808,7 +891,7 @@ Em Dũng có 3 việc cần báo trong cùng 1 ngày. Lần đầu Dũng bê h�
 
 # Rule 10 — Báo cáo trong 朝礼 / 朝礼での報告
 
-> **Luận điểm.** 朝礼 (morning standup) Nhật business: mỗi người 30-60 giây. Vượt thời gian = làm chậm cả team. Cấu trúc tối giản: **「昨日 / 今日 / 困りごと」** — 3 dòng. Không kể chi tiết, chi tiết để 1-on-1 sau.
+> **Luận điểm.** 朝礼 (họp đầu giờ) Nhật business: mỗi người 30-60 giây. Vượt thời gian = làm chậm cả team. Cấu trúc tối giản: **「昨日 / 今日 / 困りごと」** — 3 dòng. Không kể chi tiết, chi tiết để 1-on-1 sau.
 >
 > 朝礼での報告は1人30〜60秒。**「昨日／今日／困りごと」** の3行で済ませる。詳細は朝礼後の個別 talk で。
 >
@@ -827,12 +910,16 @@ Sáng thứ Hai 8:55 — 朝礼 team Phase 2. Em Dũng đến lượt báo. Lầ
 
 *主持 · 2 phút trôi qua*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアン** | 「次、ズン。」 |
-| **ズン** | 「昨日は API のリファクタを始めて、最初は単純だと思ったんですが、〇〇のところで…ええと、それで松本様からのコメントもあって…今日は…うーん、続きを…」 |
-| **トゥアン** | 「ズン、朝礼は **30秒**。詳細は10時に1-on-1 で聞く。今は3行で。」 |
+|  | *Tiếp theo, Dũng.* |
+| **ズン** | 「<ruby>昨日<rt>きのう</rt></ruby>は API の<ruby>リファクタ<rt>refactor</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めて、<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>単純<rt>たんじゅん</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>ったんですが、〇〇のところで…ええと、それで<ruby>松本<rt>まつもと</rt></ruby>様からのコメントもあって…<ruby>今日<rt>きょう</rt></ruby>は…うーん、<ruby>続<rt>つづ</rt></ruby>きを…」 |
+|  | *Hôm qua em bắt đầu refactor API, đầu tiên em tưởng đơn giản nhưng đến chỗ 〇〇 thì... ờ rồi anh Matsumoto cũng có comment... hôm nay thì... ừm, em làm tiếp...* |
+| **トゥアン** | 「ズン、<ruby>朝礼<rt>ちょうれい</rt></ruby>は **30秒**。<ruby>詳細<rt>しょうさい</rt></ruby>は10時に1-on-1 で<ruby>聞<rt>き</rt></ruby>く。今は3行で。」 |
+|  | *Dũng, chōrei là 30 giây. Chi tiết để 1-on-1 lúc 10h. Bây giờ 3 dòng thôi.* |
 | **ズン** | 「すみません…」 |
+|  | *Em xin lỗi ạ...* |
 
 **Vì sao xấu:** L2 quá 2 phút, không có cấu trúc, kể chuyện thay vì báo trạng thái. 朝礼 8 người × 2 phút = 16 phút → muộn cả ngày.
 
@@ -842,12 +929,16 @@ Sáng thứ Hai 8:55 — 朝礼 team Phase 2. Em Dũng đến lượt báo. Lầ
 
 *30 giây*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアン** | 「次、ズン。」 |
-| **ズン** | 「**昨日**：API リファクタ 60% 完了。**今日**：残り40% + テスト着手。**困りごと**：松本様コメントの3番が解釈不明、トゥアンさんと10時に5分相談したいです【1】。」 |
-| **トゥアン** | 「了解、10時 5分 OK。次、リン。」 |
-| **リン** | 「**昨日**：マーケ資料 v3 完成。**今日**：v3 をハイ先輩にレビュー依頼。**困りごと**：なし。」 |
+|  | *Tiếp theo, Dũng.* |
+| **ズン** | 「**<ruby>昨日<rt>きのう</rt></ruby>**：API リファクタ 60% <ruby>完了<rt>かんりょう</rt></ruby>。**<ruby>今日<rt>きょう</rt></ruby>**：<ruby>残<rt>のこ</rt></ruby>り40% + テスト<ruby>着手<rt>ちゃくしゅ</rt></ruby>。**<ruby>困<rt>こま</rt></ruby>りごと**：<ruby>松本<rt>まつもと</rt></ruby>様コメントの3<ruby>番<rt>ばん</rt></ruby>が<ruby>解釈<rt>かいしゃく</rt></ruby><ruby>不明<rt>ふめい</rt></ruby>、トゥアンさんと10時に5分<ruby>相談<rt>そうだん</rt></ruby>したいです【1】。」 |
+|  | *Hôm qua: refactor API 60% xong. Hôm nay: 40% còn lại + bắt đầu test. Việc khó: comment số 3 của anh Matsumoto em chưa hiểu, em xin 5 phút với anh Tuấn lúc 10h ạ.* |
+| **トゥアン** | 「<ruby>了解<rt>りょうかい</rt></ruby>、10時 5分 OK。次、リン。」 |
+|  | *OK, 10h 5 phút. Tiếp theo, Linh.* |
+| **リン** | 「**昨日**：マーケ<ruby>資料<rt>しりょう</rt></ruby> v3 <ruby>完成<rt>かんせい</rt></ruby>。**今日**：v3 をハイ<ruby>先輩<rt>せんぱい</rt></ruby>にレビュー<ruby>依頼<rt>いらい</rt></ruby>。**困りごと**：なし。」 |
+|  | *Hôm qua: tài liệu marketing v3 xong. Hôm nay: nhờ anh Hải review v3. Việc khó: không có ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**「困りごと」** = blocker hoặc tham vấn ngắn. Không kể tự nhiên — phải có. "なし" cũng OK, miễn có nói.
@@ -860,15 +951,15 @@ Sáng thứ Hai 8:55 — 朝礼 team Phase 2. Em Dũng đến lượt báo. Lầ
 
 > **「昨日：〇〇 / 今日：〇〇 / 困りごと：〇〇 (or なし)」**
 >
-> *3 dòng × 30 giây. Detail để 1-on-1.*
+> *3 dòng × 30 giây. Chi tiết để 1-on-1.*
 
 ---
 
 ## ⚠ Tránh
 
-- Kể câu chuyện ("最初は〇〇だと思ったんですが…") — 朝礼 không phải nơi narrate.
+- Kể câu chuyện ("最初は〇〇だと思ったんですが…") — 朝礼 không phải nơi thuật lại dông dài.
 - Bỏ qua "困りごと" khi không có blocker — vẫn nói "なし" để team biết bạn đã check.
-- Hỏi trực tiếp người khác trong 朝礼 ("トゥアンさん、〇〇どうなってますか？") — phá flow của họ.
+- Hỏi trực tiếp người khác trong 朝礼 ("トゥアンさん、〇〇どうなってますか？") — phá nhịp của họ.
 - Đọc note dài 1 trang — soạn note 3 dòng từ trước thôi.
 
 ---
@@ -889,7 +980,7 @@ Sáng thứ Hai 8:55 — 朝礼 team Phase 2. Em Dũng đến lượt báo. Lầ
 
 # Rule 11 — Báo cáo cho khách hàng quan trọng / 重要顧客への報告
 
-> **Luận điểm.** Báo cáo cho khách Nhật quan trọng (PM, Giám đốc) phải có **3 lớp khác báo cáo nội bộ**: (1) tone formal cao hơn 1 bậc, (2) **không jargon** kỹ thuật chưa giải thích, (3) **bỏ title đồng nghiệp Việt** (ウチ・ソト) — gọi "弊社のトゥアン" chứ không "トゥアンリーダー".
+> **Luận điểm.** Báo cáo cho khách Nhật quan trọng (PM, Giám đốc) phải có **3 lớp khác báo cáo nội bộ**: (1) tone trang trọng cao hơn 1 bậc, (2) **không dùng thuật ngữ kỹ thuật chưa giải thích**, (3) **bỏ chức danh đồng nghiệp Việt** (ウチ・ソト) — gọi "弊社のトゥアン" chứ không "トゥアンリーダー".
 >
 > 重要顧客報告の3層差：①敬語ワンランク上、②未説明のジャーゴン禁止、③ウチ・ソト原則で社内同僚の役職敬称を外す（「弊社のトゥアン」）。
 >
@@ -908,14 +999,18 @@ Em Dũng báo cáo Phase 2 status cho anh Matsumoto qua phone (định kỳ 2 tu
 
 *phone, formal level thường*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「松本さん、Phase 2 のステータスを共有します。**トゥアンリーダー**が言うには、リファクタは順調で、CI/CD パイプラインも回ってます【1】。レイテンシも下がりました。」 |
-| **松本PM** | 「すみません、『**トゥアンリーダー**』とは？それと『CI/CDパイプライン』『レイテンシ』って…技術用語は分かるよう説明していただけますか？」 |
-| **ズン** | 「あ、トゥアンは弊社のリーダーで、CI/CD は…」 |
-| **松本PM** | 「ズンさん、お客様向けの報告は、用語をかみ砕いて、社内の役職呼びは外すのが基本ですよ。」 |
+| **ズン** | 「松本さん、Phase 2 のステータスを<ruby>共有<rt>きょうゆう</rt></ruby>します。**トゥアンリーダー**が言うには、リファクタは<ruby>順調<rt>じゅんちょう</rt></ruby>で、CI/CD パイプラインも回ってます【1】。レイテンシも下がりました。」 |
+|  | *Anh Matsumoto, em chia sẻ status Phase 2. Anh Tuấn-leader bảo refactor ổn, pipeline CI/CD cũng chạy. Latency cũng giảm.* |
+| **松本PM** | 「すみません、『**トゥアンリーダー**』とは？それと『CI/CDパイプライン』『レイテンシ』って…<ruby>技術用語<rt>ぎじゅつようご</rt></ruby>は分かるよう<ruby>説明<rt>せつめい</rt></ruby>していただけますか？」 |
+|  | *Xin lỗi, 'anh Tuấn-leader' là gì? Còn 'pipeline CI/CD', 'latency'... thuật ngữ kỹ thuật giải thích để tôi hiểu được không?* |
+| **ズン** | 「あ、トゥアンは<ruby>弊社<rt>へいしゃ</rt></ruby>のリーダーで、CI/CD は…」 |
+|  | *À, Tuấn là leader bên em, CI/CD là...* |
+| **松本PM** | 「ズンさん、お<ruby>客様<rt>きゃくさま</rt></ruby>向けの<ruby>報告<rt>ほうこく</rt></ruby>は、<ruby>用語<rt>ようご</rt></ruby>をかみ<ruby>砕<rt>くだ</rt></ruby>いて、<ruby>社内<rt>しゃない</rt></ruby>の<ruby>役職呼<rt>やくしょくよ</rt></ruby>びは<ruby>外<rt>はず</rt></ruby>すのが<ruby>基本<rt>きほん</rt></ruby>ですよ。」 |
+|  | *Dũng, báo cáo với khách hàng thì phải giải thích thuật ngữ đơn giản, bỏ title đồng nghiệp nội bộ — đó là nguyên tắc cơ bản đó.* |
 
-**Vì sao xấu:** L1 「トゥアンリーダー」 = giới thiệu đồng nghiệp với khách bằng title nội bộ → vi phạm ウチ・ソト. Phải là 「弊社のトゥアン」. Jargon chưa giải thích. Tone "共有します" hơi flat — khách quan trọng cần "ご報告申し上げます".
+**Vì sao xấu:** L1 「トゥアンリーダー」 = giới thiệu đồng nghiệp với khách bằng chức danh nội bộ → vi phạm ウチ・ソト. Phải là 「弊社のトゥアン」. Thuật ngữ kỹ thuật chưa giải thích. Tone "共有します" hơi nhạt — khách quan trọng cần "ご報告申し上げます".
 
 ---
 
@@ -923,34 +1018,38 @@ Em Dũng báo cáo Phase 2 status cho anh Matsumoto qua phone (định kỳ 2 tu
 
 *phone, formal cao*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「松本様、お時間頂戴し申し訳ございません。Phase 2 進捗の **ご報告**でございます【1】。」 |
-| **ズン** | 「**結論**：予定通り進捗、画面ロードは1.2秒から0.4秒まで改善。**弊社のトゥアン**【2】が技術検証を完了し、自動テストの仕組み(CI/CD)も整いました【3】。」 |
-| **ズン** | 「**ご相談**：Phase 3 のキックオフを5月7日に予定しております。アジェンダ案を本日中にメールでお送りしてよろしいでしょうか。」 |
-| **松本PM** | 「分かりやすい報告ありがとうございます。アジェンダ、お待ちしております。」 |
+| **ズン** | 「松本様、お<ruby>時間頂戴<rt>じかんちょうだい</rt></ruby>し<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。Phase 2 <ruby>進捗<rt>しんちょく</rt></ruby>の **ご<ruby>報告<rt>ほうこく</rt></ruby>**でございます【1】。」 |
+|  | *Anh Matsumoto, em xin lỗi anh dành thời gian. Em xin báo cáo tiến độ Phase 2 ạ.* |
+| **ズン** | 「**<ruby>結論<rt>けつろん</rt></ruby>**：<ruby>予定通<rt>よていどお</rt></ruby>り進捗、<ruby>画面<rt>がめん</rt></ruby>ロードは1.2秒から0.4秒まで<ruby>改善<rt>かいぜん</rt></ruby>。**<ruby>弊社<rt>へいしゃ</rt></ruby>のトゥアン**【2】が<ruby>技術検証<rt>ぎじゅつけんしょう</rt></ruby>を<ruby>完了<rt>かんりょう</rt></ruby>し、<ruby>自動<rt>じどう</rt></ruby>テストの<ruby>仕組<rt>しく</rt></ruby>み(CI/CD)も<ruby>整<rt>ととの</rt></ruby>いました【3】。」 |
+|  | *Kết luận: tiến độ đúng kế hoạch, load màn hình cải thiện từ 1.2s xuống 0.4s. Anh Tuấn bên em đã hoàn thành kiểm chứng kỹ thuật, cơ chế tự động test (CI/CD) cũng đã sẵn sàng ạ.* |
+| **ズン** | 「**ご<ruby>相談<rt>そうだん</rt></ruby>**：Phase 3 のキックオフを5月7日に<ruby>予定<rt>よてい</rt></ruby>しております。アジェンダ<ruby>案<rt>あん</rt></ruby>を<ruby>本日中<rt>ほんじつちゅう</rt></ruby>にメールでお<ruby>送<rt>おく</rt></ruby>りしてよろしいでしょうか。」 |
+|  | *Em xin tham vấn: kick-off Phase 3 dự kiến ngày 7/5 ạ. Em gửi anh draft agenda qua mail trong hôm nay được không ạ?* |
+| **松本PM** | 「分かりやすい報告ありがとうございます。アジェンダ、お<ruby>待<rt>ま</rt></ruby>ちしております。」 |
+|  | *Cảm ơn báo cáo dễ hiểu nhé. Tôi sẽ đợi agenda.* |
 
 📝 **Ghi chú:**
-- 【1】**「ご報告でございます」** — cao hơn 「共有します」 1 bậc. Khách Nhật quan trọng dùng level này.
-- 【2】**「弊社のトゥアン」** — bỏ title nội bộ (リーダー). Đồng nghiệp Việt khi nói với khách = ウチ → không title.
-- 【3】**「自動テストの仕組み(CI/CD)」** — giải thích Nhật trước, jargon trong ngoặc. Khách bận, không phải engineer.
+- 【1】**「ご報告でございます」** — cao hơn 「共有します」 1 bậc. Khách Nhật quan trọng dùng mức này.
+- 【2】**「弊社のトゥアン」** — bỏ chức danh nội bộ (リーダー). Đồng nghiệp Việt khi nói với khách = ウチ → không kèm chức danh.
+- 【3】**「自動テストの仕組み(CI/CD)」** — giải thích tiếng Nhật trước, thuật ngữ kỹ thuật để trong ngoặc. Khách bận, không phải dân kỹ thuật.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「ご報告でございます。弊社の〇〇 が〜。〇〇の仕組み(jargon)を導入。」**
+> **「ご報告でございます。弊社の〇〇 が〜。〇〇の仕組み(thuật ngữ)を導入。」**
 >
-> *Formal level + ウチ・ソト + jargon giải thích = chuẩn báo khách.*
+> *Mức trang trọng + ウチ・ソト + thuật ngữ kỹ thuật có giải thích = chuẩn báo khách.*
 
 ---
 
 ## ⚠ Tránh
 
 - 「〜さんが言ってました」 → khách thấy hời hợt. Phải 「弊社の〇〇 が確認しております」.
-- Title nội bộ với khách: 「トゥアンリーダー」「ハーCTO」 → thành 「弊社のトゥアン」「弊社のハー」.
-- Jargon technique không giải thích: API, CI/CD, レイテンシ → giải thích Nhật trước.
-- Tone "共有します" "確認しました" với khách quan trọng — quá flat, nên 「ご報告申し上げます」「確認させていただきました」.
+- Chức danh nội bộ với khách: 「トゥアンリーダー」「ハーCTO」 → thành 「弊社のトゥアン」「弊社のハー」.
+- Thuật ngữ kỹ thuật không giải thích: API, CI/CD, レイテンシ → giải thích tiếng Nhật trước.
+- Tone "共有します" "確認しました" với khách quan trọng — quá nhạt, nên 「ご報告申し上げます」「確認させていただきました」.
 
 ---
 
@@ -986,15 +1085,20 @@ Em Dũng bị chị Hương phản hồi: "tuần này anh Matsumoto hỏi 3 l�
 
 ## ❌ Hội thoại XẤU — dựa trí nhớ
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **フオン** | 「ズン、松本様から3つ問い合わせが来てる：(1) リスケの確認、(2) 検収書の Excel 形式、(3) Phase 3 アジェンダ。報告した？」 |
-| **ズン** | 「えっと…リスケは伝えたと思います、Excel は…たぶん明日…アジェンダはまだ…」 |
-| **フオン** | 「『と思います』『たぶん』が3つ。これが報告漏れの典型。**毎日のチェックリスト** 使ってる？」 |
-| **ズン** | 「いえ、記憶でやってました…」 |
-| **フオン** | 「私の checklist 共有します。10項目、毎日17時にやって。」 |
+| **フオン** | 「ズン、<ruby>松本<rt>まつもと</rt></ruby>様から3つ<ruby>問<rt>と</rt></ruby>い<ruby>合<rt>あ</rt></ruby>わせが来てる：(1) リスケの<ruby>確認<rt>かくにん</rt></ruby>、(2) <ruby>検収書<rt>けんしゅうしょ</rt></ruby>の Excel <ruby>形式<rt>けいしき</rt></ruby>、(3) Phase 3 アジェンダ。<ruby>報告<rt>ほうこく</rt></ruby>した？」 |
+|  | *Dũng, anh Matsumoto có 3 câu hỏi: (1) xác nhận đổi lịch, (2) văn bản nghiệm thu định dạng Excel, (3) agenda Phase 3. Em báo cáo chưa?* |
+| **ズン** | 「えっと…リスケは<ruby>伝<rt>つた</rt></ruby>えたと思います、Excel は…たぶん明日…アジェンダはまだ…」 |
+|  | *Ờ... đổi lịch em nghĩ đã báo, Excel... chắc mai... agenda thì chưa...* |
+| **フオン** | 「『と思います』『たぶん』が3つ。これが<ruby>報告漏<rt>ほうこくも</rt></ruby>れの<ruby>典型<rt>てんけい</rt></ruby>。**毎日のチェックリスト** 使ってる？」 |
+|  | *'Em nghĩ', 'chắc' — 3 lần. Đây là kiểu điển hình của báo cáo sót. Em có dùng checklist hàng ngày không?* |
+| **ズン** | 「いえ、<ruby>記憶<rt>きおく</rt></ruby>でやってました…」 |
+|  | *Không ạ, em làm bằng trí nhớ thôi ạ...* |
+| **フオン** | 「私の checklist <ruby>共有<rt>きょうゆう</rt></ruby>します。10<ruby>項目<rt>こうもく</rt></ruby>、毎日17時にやって。」 |
+|  | *Chị share checklist của chị nhé. 10 mục, ngày nào 17h cũng làm.* |
 
-**Vì sao xấu:** Trí nhớ không scale. 1 ngày 5 communication thì OK. 1 tuần 30 communication thì rớt 3-5 cái. Phải có checklist.
+**Vì sao xấu:** Trí nhớ không kham nổi khi quy mô tăng. 1 ngày 5 đầu việc trao đổi thì ổn. 1 tuần 30 đầu việc thì rớt 3-5 cái. Phải có checklist.
 
 ---
 
@@ -1002,23 +1106,27 @@ Em Dũng bị chị Hương phản hồi: "tuần này anh Matsumoto hỏi 3 l�
 
 *thứ 6 17h, sau khi chạy checklist*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、今週の **報告漏れチェック完了**【1】です。」 |
-| **ズン** | 「**今週の通信件数**：受信18 / 返信17 / **未返信1件**：松本様 4/22 のメール『Phase 3 予算確認』。本日中に返信予定です【2】。」 |
-| **ズン** | 「**約束した期日**：5件すべて期日内完了。**口頭でOKもらった事項**：3件、すべて書面化済【3】。」 |
-| **フオン** | 「素晴らしい。1件未返信を可視化できる時点で報告漏れ予防になってる。来週もこの形で。」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、今週の **報告漏れチェック<ruby>完了<rt>かんりょう</rt></ruby>**【1】です。」 |
+|  | *Chị Hương, em đã chạy xong checklist phòng ngừa báo cáo sót tuần này ạ.* |
+| **ズン** | 「**今週の<ruby>通信件数<rt>つうしんけんすう</rt></ruby>**：<ruby>受信<rt>じゅしん</rt></ruby>18 / <ruby>返信<rt>へんしん</rt></ruby>17 / **<ruby>未返信<rt>みへんしん</rt></ruby>1件**：松本様 4/22 のメール『Phase 3 <ruby>予算確認<rt>よさんかくにん</rt></ruby>』。<ruby>本日<rt>ほんじつ</rt></ruby>中に返信<ruby>予定<rt>よてい</rt></ruby>です【2】。」 |
+|  | *Số communication tuần này: nhận 18 / đã reply 17 / chưa reply 1: mail 22/4 của anh Matsumoto 'Xác nhận ngân sách Phase 3'. Em sẽ reply trong hôm nay ạ.* |
+| **ズン** | 「**約束した<ruby>期日<rt>きじつ</rt></ruby>**：5件すべて期日内完了。**<ruby>口頭<rt>こうとう</rt></ruby>でOKもらった<ruby>事項<rt>じこう</rt></ruby>**：3件、すべて<ruby>書面化済<rt>しょめんかず</rt></ruby>【3】。」 |
+|  | *Hạn đã hứa: 5 cái xong đúng hạn. Việc được OK bằng miệng: 3 cái, đã chuyển thành văn bản hết ạ.* |
+| **フオン** | 「<ruby>素晴<rt>すば</rt></ruby>らしい。1件未返信を<ruby>可視化<rt>かしか</rt></ruby>できる時点で<ruby>報告漏<rt>ほうこくも</rt></ruby>れ<ruby>予防<rt>よぼう</rt></ruby>になってる。<ruby>来週<rt>らいしゅう</rt></ruby>もこの形で。」 |
+|  | *Tuyệt. Trực quan hóa được 1 cái chưa reply nghĩa là đã ngăn được báo cáo sót rồi. Tuần sau cứ theo mẫu này.* |
 
 📝 **Ghi chú:**
 - 【1】**「報告漏れチェック完了」** — gọi tên nó là 1 task. Không "ngầm hiểu".
 - 【2】**「未返信1件」** — quan trọng là show con số xấu. 0 件 đáng nghi (chắc chắn sót đâu đó).
-- 【3】**「口頭でOK→書面化」** — verbal commit phải convert sang văn bản, nếu không sẽ bay theo trí nhớ.
+- 【3】**「口頭でOK→書面化」** — cam kết bằng miệng phải chuyển sang văn bản, nếu không sẽ bay theo trí nhớ.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「未返信件数 / 約束期日達成 / 口頭→書面変換 — 3つの可視化で報告漏れ防止。」**
+> **「<ruby>未返信<rt>みへんしん</rt></ruby><ruby>件数<rt>けんすう</rt></ruby> / <ruby>約束<rt>やくそく</rt></ruby><ruby>期日<rt>きじつ</rt></ruby><ruby>達成<rt>たっせい</rt></ruby> / <ruby>口頭<rt>こうとう</rt></ruby>→<ruby>書面<rt>しょめん</rt></ruby><ruby>変換<rt>へんかん</rt></ruby> — 3つの<ruby>可視化<rt>かしか</rt></ruby>で<ruby>報告漏<rt>ほうこくも</rt></ruby>れ<ruby>防止<rt>ぼうし</rt></ruby>。」**
 
 ---
 
@@ -1026,7 +1134,7 @@ Em Dũng bị chị Hương phản hồi: "tuần này anh Matsumoto hỏi 3 l�
 
 - "全部返信した" mà không show số liệu — đáng nghi.
 - Bỏ mục checklist vì "tuần này không có" — vẫn check, vẫn ghi 0.
-- Dựa trí nhớ — quá tải > 5 communication/ngày là bắt đầu rớt.
+- Dựa trí nhớ — quá tải > 5 đầu việc trao đổi/ngày là bắt đầu rớt.
 - Checklist để trong drawer — phải để trên màn hình, dán sticker.
 
 ---
@@ -1058,7 +1166,7 @@ Xem `templates[0]` của file conversation: **報告漏れ防止 self-check 10 i
 
 # Rule 13 — Nguyên tắc liên lạc tức thì / 連絡の即時性原則
 
-> **Luận điểm.** Liên lạc trễ = liên lạc sai. **"Thông tin trễ = thông tin sai"** (Information delayed = information wrong). Trong Hou-Ren-Sou, 連絡 (sharing thông tin) có giá trị giảm theo cấp số mũ theo thời gian. Biết 1 thông tin → share trong **15 phút** với người liên quan. Để 1 ngày = giá trị giảm 80%.
+> **Luận điểm.** Liên lạc trễ = liên lạc sai. **"Thông tin trễ = thông tin sai"** ("Information delayed = information wrong"). Trong Hou-Ren-Sou, 連絡 (chia sẻ thông tin) có giá trị giảm theo cấp số mũ theo thời gian. Biết 1 thông tin → chia sẻ trong **15 phút** với người liên quan. Để 1 ngày = giá trị giảm 80%.
 >
 > 連絡は鮮度がすべて。**「遅れた情報は誤った情報と同じ」**。知ったら15分以内に共有。1日寝かせると価値は80%消える。
 >
@@ -1076,14 +1184,18 @@ Anh Matsumoto báo Dũng (qua phone) thay đổi yêu cầu Phase 3 — cần th
 
 *17h, Slack #phase3*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「皆さん、今朝松本様から電話があり、機能 X を追加するそうです。」 |
-| **トゥアン** | 「**今朝**？私6時間、機能 Y のロジック書いてたんだけど。X 追加なら Y は再設計だよ。」 |
-| **ズン** | 「あ、すみません、忙しくて連絡が遅れて…」 |
-| **トゥアン** | 「連絡は **15分以内** が原則。半日寝かせるなら共有しないのと同じ。」 |
+| **ズン** | 「皆さん、今朝<ruby>松本<rt>まつもと</rt></ruby>様から電話があり、機能 X を<ruby>追加<rt>ついか</rt></ruby>するそうです。」 |
+|  | *Mọi người, sáng nay anh Matsumoto gọi điện, bảo thêm tính năng X.* |
+| **トゥアン** | 「**今朝**？私6時間、機能 Y のロジック書いてたんだけど。X <ruby>追加<rt>ついか</rt></ruby>なら Y は<ruby>再設計<rt>さいせっけい</rt></ruby>だよ。」 |
+|  | *Sáng nay? Anh đã code logic Y suốt 6 giờ rồi. Thêm X thì Y phải design lại đó.* |
+| **ズン** | 「あ、すみません、忙しくて連絡が<ruby>遅<rt>おく</rt></ruby>れて…」 |
+|  | *À em xin lỗi, em bận nên trễ liên lạc...* |
+| **トゥアン** | 「連絡は **15分以内** が<ruby>原則<rt>げんそく</rt></ruby>。<ruby>半日<rt>はんにち</rt></ruby><ruby>寝<rt>ね</rt></ruby>かせるなら共有しないのと同じ。」 |
+|  | *Liên lạc trong 15 phút là nguyên tắc. Ngâm nửa ngày thì như chưa share.* |
 
-**Vì sao xấu:** Dũng "ngâm" 7 giờ vì "忙しい". Trong 7 giờ đó anh Tuấn lãng phí 6 giờ work. Chi phí trễ liên lạc = 6 hour-Tuấn.
+**Vì sao xấu:** Dũng "ngâm" 7 giờ vì "忙しい". Trong 7 giờ đó anh Tuấn lãng phí 6 giờ làm việc. Chi phí trễ liên lạc = 6 giờ-công của Tuấn.
 
 ---
 
@@ -1091,17 +1203,21 @@ Anh Matsumoto báo Dũng (qua phone) thay đổi yêu cầu Phase 3 — cần th
 
 *10:15, Slack #phase3*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「皆さん、**緊急共有** です【1】。10時に松本様から電話。**Phase 3 に機能 X 追加**との要望。Y との関係性は午後の打ち合わせで詰めます。一旦 Y のコーディングは保留してください【2】。」 |
-| **トゥアン** | 「了解、Y は中断します。15分前に教えてくれて助かった。」 |
-| **ズン** | 「**詳細議事録は 10:45 までに共有**します【3】。」 |
-| **トゥアン** | 「OK、待ちます。」 |
+| **ズン** | 「皆さん、**<ruby>緊急共有<rt>きんきゅうきょうゆう</rt></ruby>** です【1】。10時に<ruby>松本<rt>まつもと</rt></ruby>様から電話。**Phase 3 に機能 X 追加**との<ruby>要望<rt>ようぼう</rt></ruby>。Y との<ruby>関係性<rt>かんけいせい</rt></ruby>は午後の<ruby>打<rt>う</rt></ruby>ち合わせで<ruby>詰<rt>つ</rt></ruby>めます。<ruby>一旦<rt>いったん</rt></ruby> Y のコーディングは<ruby>保留<rt>ほりゅう</rt></ruby>してください【2】。」 |
+|  | *Mọi người, em xin chia sẻ khẩn. 10h anh Matsumoto gọi điện. Yêu cầu thêm tính năng X cho Phase 3. Quan hệ với Y em sẽ chốt trong họp chiều. Tạm thời mọi người hold code Y giúp em ạ.* |
+| **トゥアン** | 「<ruby>了解<rt>りょうかい</rt></ruby>、Y は<ruby>中断<rt>ちゅうだん</rt></ruby>します。15分前に教えてくれて<ruby>助<rt>たす</rt></ruby>かった。」 |
+|  | *OK, anh dừng Y. May em báo trước 15 phút.* |
+| **ズン** | 「**詳細<ruby>議事録<rt>ぎじろく</rt></ruby>は 10:45 までに共有**します【3】。」 |
+|  | *Biên bản chi tiết em share trước 10:45 ạ.* |
+| **トゥアン** | 「OK、<ruby>待<rt>ま</rt></ruby>ちます。」 |
+|  | *OK, anh đợi.* |
 
 📝 **Ghi chú:**
-- 【1】**「緊急共有」** — gắn label. Đồng nghiệp biết priority cao, ngừng việc đang làm.
-- 【2】**「保留してください」** — không chỉ chia sẻ mà nói **action cần làm ngay**. "保留 (hold)" tránh wasted work.
-- 【3】**「10:45 までに共有」** — show next step + deadline. Tránh đồng nghiệp hỏi "詳細は?".
+- 【1】**「緊急共有」** — gắn nhãn. Đồng nghiệp biết mức ưu tiên cao, ngừng việc đang làm.
+- 【2】**「保留してください」** — không chỉ chia sẻ mà nói rõ **hành động cần làm ngay**. "保留 (tạm dừng)" tránh làm việc lãng phí.
+- 【3】**「10:45 までに共有」** — nêu rõ bước tiếp theo + hạn chót. Tránh đồng nghiệp hỏi "詳細は?".
 
 ---
 
@@ -1121,15 +1237,15 @@ Bạn nhận thông tin có ảnh hưởng team/khách:
 
 ## 🎯 Câu chốt
 
-> **「【緊急共有】〇〇発生。一旦〇〇してください。詳細は〇〇までに共有します。」**
+> **「【<ruby>緊急共有<rt>きんきゅうきょうゆう</rt></ruby>】〇〇<ruby>発生<rt>はっせい</rt></ruby>。<ruby>一旦<rt>いったん</rt></ruby>〇〇してください。詳細は〇〇までに共有します。」**
 
 ---
 
 ## ⚠ Tránh
 
 - "忙しいので後で" — sau là khi nào? Định lượng đi: 「30分後に詳細共有」.
-- Share thông tin to without action item — đồng nghiệp đọc xong vẫn không biết phải làm gì.
-- Dùng DM cho thông tin team-level — DM = chỉ 1 người biết. Phải #channel.
+- Chia sẻ thông tin lớn mà không kèm việc cần làm — đồng nghiệp đọc xong vẫn không biết phải làm gì.
+- Dùng DM cho thông tin cấp team — DM = chỉ 1 người biết. Phải #channel.
 - Đợi đến daily standup hôm sau mới chia sẻ — đã trễ 12-18 giờ.
 
 ---
@@ -1150,7 +1266,7 @@ Bạn nhận thông tin có ảnh hưởng team/khách:
 
 # Rule 14 — Cấu trúc liên lạc broadcast / 全員に届く連絡
 
-> **Luận điểm.** Khi gửi thông tin cho cả team (broadcast), người Việt thường mặc định "ai cũng đọc hết". Sai. Thực tế: 30% lướt subject, 50% đọc 3 dòng đầu, 20% đọc kỹ. Cấu trúc: **TL;DR (1-2 dòng) → Detail → Action items rõ ràng cho từng vai trò**.
+> **Luận điểm.** Khi gửi thông tin cho cả team (broadcast), người Việt thường mặc định "ai cũng đọc hết". Sai. Thực tế: 30% chỉ lướt tiêu đề, 50% đọc 3 dòng đầu, 20% đọc kỹ. Cấu trúc: **TL;DR (1-2 dòng) → Detail → Action items rõ ràng cho từng vai trò**.
 >
 > 全員向けの連絡は **TL;DR → Detail → Action item by role** で構成。subject line だけ読む人、最初3行だけ読む人を想定する。
 >
@@ -1168,14 +1284,18 @@ Sau họp với khách, em Dũng cần broadcast 5 quyết định quan trọng 
 
 *mail to team@, "今日の打ち合わせ報告" · 2 ngày sau*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 1500-character narrative kể lại buổi họp 90 phút. Action items lẫn trong văn. |
-| **ハイ** | 「ズン、デプロイの件、私の担当だったの？メールに書いてあった？」 |
+| **ズン** | Mail dạng văn xuôi 1500 chữ kể lại buổi họp 90 phút. Action items lẫn trong văn. |
+|  | *Mail dạng văn xuôi 1500 chữ kể lại buổi họp 90 phút. Action items nằm rải rác trong văn.* |
+| **ハイ** | 「ズン、デプロイの件、私の<ruby>担当<rt>たんとう</rt></ruby>だったの？メールに書いてあった？」 |
+|  | *Dũng, vụ deploy là việc của anh hả? Mail có viết không?* |
 | **ズン** | 「あ、3パラグラフ目に書きました…」 |
-| **ハイ** | 「3パラグラフ目までに3分かかる。**自分の action だけ抜き出せる構造**にしてくれないと miss する。」 |
+|  | *À, em viết ở đoạn 3 ạ...* |
+| **ハイ** | 「3パラグラフ目までに3分かかる。**自分の action だけ<ruby>抜<rt>ぬ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>せる<ruby>構造<rt>こうぞう</rt></ruby>**にしてくれないと miss する。」 |
+|  | *Đến đoạn 3 mất 3 phút. Phải có cấu trúc tách được action của mình thì mới không bị sót.* |
 
-**Vì sao xấu:** Action items lẫn trong văn xuôi → người đọc phải scan 1500 chữ để tìm "việc của tôi". Hải miss → deploy trễ.
+**Vì sao xấu:** Action items lẫn trong văn xuôi → người đọc phải lướt 1500 chữ để tìm "việc của tôi". Hải bị sót → deploy trễ.
 
 ---
 
@@ -1183,18 +1303,22 @@ Sau họp với khách, em Dũng cần broadcast 5 quyết định quan trọng 
 
 *mail subject: "【決定事項5件】4/22 松本様打ち合わせ - Phase 3 移行" · reply 30 giây sau*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | (Body theo template — see template box) |
-| **ハイ** | 「ズン、自分の担当2件 (デプロイ準備・CI設定) 確認しました。期日 4/26 までに完了します。」 |
-| **トゥアン** | 「私の担当3件、了解。優先順位は (1)→(3) で進めます。」 |
-| **ズン** | 「了解。**4/24 朝礼で進捗確認**します。」 |
+| **ズン** | (Phần thân mail theo mẫu — xem khung mẫu bên dưới) |
+|  | *(Phần thân mail soạn theo mẫu — xem khung mẫu bên dưới)* |
+| **ハイ** | 「ズン、自分の<ruby>担当<rt>たんとう</rt></ruby>2件 (デプロイ<ruby>準備<rt>じゅんび</rt></ruby>・CI<ruby>設定<rt>せってい</rt></ruby>) <ruby>確認<rt>かくにん</rt></ruby>しました。<ruby>期日<rt>きじつ</rt></ruby> 4/26 までに<ruby>完了<rt>かんりょう</rt></ruby>します。」 |
+|  | *Dũng, anh check 2 việc của anh (chuẩn bị deploy, setup CI) rồi. Anh sẽ xong trước 26/4.* |
+| **トゥアン** | 「私の担当3件、<ruby>了解<rt>りょうかい</rt></ruby>。<ruby>優先順位<rt>ゆうせんじゅんい</rt></ruby>は (1)→(3) で<ruby>進<rt>すす</rt></ruby>めます。」 |
+|  | *3 việc của anh OK. Anh làm theo thứ tự (1) → (3).* |
+| **ズン** | 「了解。**4/24 <ruby>朝礼<rt>ちょうれい</rt></ruby>で<ruby>進捗確認<rt>しんちょくかくにん</rt></ruby>**します。」 |
+|  | *OK ạ. Em sẽ check tiến độ trong buổi họp sáng (朝礼) 24/4 ạ.* |
 
 📝 **Ghi chú:**
-- Subject line đã có 「決定事項5件」 — người chưa mở mail cũng nắm priority.
+- Dòng tiêu đề đã có 「決定事項5件」 — người chưa mở mail cũng nắm được mức ưu tiên.
 - TL;DR (3 dòng đầu): tóm 5 quyết định.
-- Action items chia theo **assignee** với deadline rõ — không chia theo topic.
-- Cuối: pre-schedule check-in (「4/24 朝礼で」).
+- Action items chia theo **người phụ trách** với deadline rõ — không chia theo chủ đề.
+- Cuối: hẹn sẵn buổi rà tiến độ tiếp theo (「4/24 朝礼で」).
 
 ---
 
@@ -1238,7 +1362,7 @@ Subject: 【〇〇〇】〇〇 - 〇〇 (label rõ ràng)
 - 「皆さんで対応お願いします」 — không có owner = không ai làm.
 - Action item lẫn trong văn xuôi — phải tách section riêng có @assignee.
 - Subject mơ hồ "今日の打ち合わせ" — phải có hint priority + chủ đề.
-- Không có check-in tiếp theo — sếp/lead không biết khi nào catch up.
+- Không có buổi rà tiến độ tiếp theo — sếp/lead không biết khi nào nắm lại tình hình.
 
 ---
 
@@ -1274,31 +1398,40 @@ Em Linh (junior, vừa onboard) lần đầu cần chọn channel cho 4 tình hu
 
 ## ❌ Hội thoại XẤU — Linh chọn channel sai 4/4
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **リン** | 「ズンさん、4つ連絡があります：(1) 緊急バグ → メール、(2) 5月の休暇申請 → 電話、(3) 仕様書 v3 → Slack DM、(4) ハイ先輩への質問 → @channel に投稿。」 |
-| **ズン** | 「リンちゃん、**4つとも channel が逆**…落ち着いて。**緊急度** と **受信者数** で決まる。」 |
-| **リン** | 「えっ、全部間違いですか？」 |
-| **ズン** | 「(1) 緊急なら電話、(2) 休暇は記録要だからメール、(3) 仕様書は皆が見るから Notion、(4) 1人質問なら DM。」 |
+| **リン** | 「ズンさん、4つ<ruby>連絡<rt>れんらく</rt></ruby>があります：(1) <ruby>緊急<rt>きんきゅう</rt></ruby>バグ → メール、(2) 5月の<ruby>休暇<rt>きゅうか</rt></ruby><ruby>申請<rt>しんせい</rt></ruby> → <ruby>電話<rt>でんわ</rt></ruby>、(3) <ruby>仕様書<rt>しようしょ</rt></ruby> v3 → Slack DM、(4) ハイ<ruby>先輩<rt>せんぱい</rt></ruby>への<ruby>質問<rt>しつもん</rt></ruby> → @channel に<ruby>投稿<rt>とうこう</rt></ruby>。」 |
+|  | *Anh Dũng, em có 4 việc liên lạc: (1) bug khẩn → mail, (2) đơn nghỉ phép tháng 5 → điện thoại, (3) tài liệu spec v3 → Slack DM, (4) hỏi anh Hải → đăng @channel.* |
+| **ズン** | 「リンちゃん、**4つとも channel が逆**…落ち着いて。**<ruby>緊急度<rt>きんきゅうど</rt></ruby>** と **<ruby>受信者数<rt>じゅしんしゃすう</rt></ruby>** で決まる。」 |
+|  | *Linh, cả 4 đều ngược... Bình tĩnh. Quyết theo urgency và số người nhận.* |
+| **リン** | 「えっ、全部<ruby>間違<rt>まちが</rt></ruby>いですか？」 |
+|  | *Hả, sai hết ạ?* |
+| **ズン** | 「(1) 緊急なら電話、(2) 休暇は<ruby>記録<rt>きろく</rt></ruby>要だからメール、(3) 仕様書は<ruby>皆<rt>みな</rt></ruby>が見るから Notion、(4) 1人質問なら DM。」 |
+|  | *(1) Khẩn thì gọi điện, (2) nghỉ phép cần lưu nên mail, (3) spec ai cũng xem nên Notion, (4) hỏi 1 người thì DM.* |
 
-**Vì sao xấu:** Linh không có framework. Chọn theo cảm tính.
+**Vì sao xấu:** Linh không có khung quyết định. Chọn theo cảm tính.
 
 ---
 
 ## ✅ Hội thoại TỐT — decision matrix
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「リンちゃん、**マトリクス** を覚えて【1】。」 |
-| **ズン** | 「**緊急 × 1人** → 電話。**緊急 × チーム** → Slack @here または @channel。**通常 × 1人** → メールまたは Slack DM。**通常 × チーム** → Slack #channel または定例。**長期参照 × 全員** → Notion/Confluence【2】。」 |
+| **ズン** | 「リンちゃん、**<ruby>マトリクス<rt>matorikusu</rt></ruby>** を覚えて【1】。」 |
+|  | *Linh, học matrix nhé.* |
+| **ズン** | 「**緊急 × 1人** → 電話。**緊急 × チーム** → Slack @here または @channel。**<ruby>通常<rt>つうじょう</rt></ruby> × 1人** → メールまたは Slack DM。**通常 × チーム** → Slack #channel または<ruby>定例<rt>ていれい</rt></ruby>。**<ruby>長期参照<rt>ちょうきさんしょう</rt></ruby> × <ruby>全員<rt>ぜんいん</rt></ruby>** → Notion/Confluence【2】。」 |
+|  | *Khẩn x 1 người → điện thoại. Khẩn x team → Slack @here hoặc @channel. Thường x 1 người → mail hoặc Slack DM. Thường x team → Slack #channel hoặc họp định kỳ. Tham khảo dài hạn x cả nhà → Notion/Confluence.* |
 | **リン** | 「なるほど。バグは緊急 × チームだから @channel ですね。」 |
-| **ズン** | 「正解。**ただし critical bug は電話で第一報、Slack でフォロー** — 二重に【3】。」 |
-| **リン** | 「2層に。覚えました。」 |
+|  | *À hiểu rồi. Bug là khẩn x team nên @channel ạ.* |
+| **ズン** | 「<ruby>正解<rt>せいかい</rt></ruby>。**ただし critical bug は電話で<ruby>第一報<rt>だいいっぽう</rt></ruby>、Slack でフォロー** — <ruby>二重<rt>にじゅう</rt></ruby>に【3】。」 |
+|  | *Đúng rồi. Nhưng critical bug thì điện thoại báo đầu, Slack follow — 2 lớp.* |
+| **リン** | 「2<ruby>層<rt>そう</rt></ruby>に。覚えました。」 |
+|  | *2 lớp. Em ghi nhớ ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**Matrix có 5 ô** — Linh học 1 lần, dùng cả đời.
-- 【2】**「長期参照」** — info cần ai cũng tra cứu được sau này → wiki, không Slack (Slack info trôi nhanh).
-- 【3】**「critical bug は二重」** — exception: critical chỉ Slack có thể bị trôi → phone trước, Slack follow.
+- 【2】**「長期参照」** — thông tin cần ai cũng tra cứu được sau này → wiki, không Slack (thông tin trên Slack trôi nhanh).
+- 【3】**「critical bug は二重」** — ngoại lệ: critical mà chỉ Slack có thể bị trôi → gọi điện trước, Slack follow.
 
 ---
 
@@ -1316,13 +1449,13 @@ Em Linh (junior, vừa onboard) lần đầu cần chọn channel cho 4 tình hu
 
 ## 🎯 Câu chốt
 
-> **「緊急度 × 受信者数 → channel 決定。Critical は二重チャネル。Reference は wiki。」**
+> **「<ruby>緊急度<rt>きんきゅうど</rt></ruby> × <ruby>受信者数<rt>じゅしんしゃすう</rt></ruby> → channel <ruby>決定<rt>けってい</rt></ruby>。Critical は<ruby>二重<rt>にじゅう</rt></ruby>チャネル。Reference は wiki。」**
 
 ---
 
 ## ⚠ Tránh
 
-- Phone for casual updates — phá flow của người nhận, không lưu.
+- Gọi điện cho các cập nhật casual — phá nhịp làm việc của người nhận, lại không lưu.
 - Mail cho urgent < 1h — sếp lướt mail mỗi 2-3h, trễ.
 - Slack DM cho team-level info — cả team cần biết, đừng giấu trong DM.
 - Notion link mà không gửi notification — không ai check Notion liên tục.
@@ -1363,12 +1496,16 @@ Em Dũng vào Slack workspace chung với khách Hakuō. 田中 PMO (anh Tanaka)
 
 *Slack #phase3, 23:30 thứ 6 · 8:15 thứ 7 sáng*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「**@channel** リンク確認お願いします。https://docs.../spec_v3」 |
-| **田中PMO** | 「ズンさん、おはようございます。お疲れ様です。@channel は **本番障害など緊急時のみ** 使う運用ルールがございます【1】。今回は @here、または特定メンバーへのメンションが適切かと存じます。」 |
-| **田中PMO** | 「また、関連投稿は **スレッド化** いただけますと、main channel が読みやすくなります【2】。」 |
-| **ズン** | 「申し訳ございません。今後 @channel は緊急時のみ使用し、関連は thread にいたします。」 |
+| **ズン** | 「**@channel** リンク<ruby>確認<rt>かくにん</rt></ruby>お<ruby>願<rt>ねが</rt></ruby>いします。https://docs.../spec_v3」 |
+|  | *@channel mọi người check link giúp em. https://docs.../spec_v3* |
+| **田中PMO** | 「ズンさん、おはようございます。お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>です。@channel は **<ruby>本番障害<rt>ほんばんしょうがい</rt></ruby>など<ruby>緊急時<rt>きんきゅうじ</rt></ruby>のみ** <ruby>使<rt>つか</rt></ruby>う<ruby>運用<rt>うんよう</rt></ruby>ルールがございます【1】。<ruby>今回<rt>こんかい</rt></ruby>は @here、または<ruby>特定<rt>とくてい</rt></ruby>メンバーへの<ruby>メンション<rt>めんしょん</rt></ruby>が<ruby>適切<rt>てきせつ</rt></ruby>かと<ruby>存<rt>ぞん</rt></ruby>じます。」 |
+|  | *Dũng, chào buổi sáng. Quy tắc vận hành là @channel chỉ dùng khi khẩn cấp như sự cố production. Lần này nên dùng @here hoặc mention member cụ thể.* |
+| **田中PMO** | 「また、<ruby>関連投稿<rt>かんれんとうこう</rt></ruby>は **スレッド<ruby>化<rt>か</rt></ruby>** いただけますと、main channel が<ruby>読<rt>よ</rt></ruby>みやすくなります【2】。」 |
+|  | *Thêm nữa, các bài đăng liên quan nếu chuyển vào thread thì main channel sẽ dễ đọc hơn.* |
+| **ズン** | 「<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。<ruby>今後<rt>こんご</rt></ruby> @channel は<ruby>緊急時<rt>きんきゅうじ</rt></ruby>のみ<ruby>使用<rt>しよう</rt></ruby>し、<ruby>関連<rt>かんれん</rt></ruby>は thread にいたします。」 |
+|  | *Em xin lỗi anh ạ. Từ giờ @channel em chỉ dùng khi khẩn, các liên quan em chuyển vào thread ạ.* |
 
 **Vì sao xấu:** L1 (1) @channel 23:30 → ping cả 30 người (mặc dù DnD), (2) không thread → 5 reply tiếp theo ngập #phase3.
 
@@ -1378,13 +1515,18 @@ Em Dũng vào Slack workspace chung với khách Hakuō. 田中 PMO (anh Tanaka)
 
 *Slack #phase3, 14:00 · thread reply · thread reply · thread reply · 15:30, thread*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「**@here** Phase 3 仕様書 v3 をアップロードしました。本日中にご確認をお願いいたします【1】。https://docs.../spec_v3」 |
-| **田中PMO** | 「確認いたします。」 |
-| **トゥアン** | 「セクション3に質問あります、後ほど DM します。」 |
-| **ズン** | 「@トゥアン お待ちしております。」 |
-| **田中PMO** | 「v3 確認完了。承認します。」 |
+| **ズン** | 「**@here** Phase 3 <ruby>仕様書<rt>しようしょ</rt></ruby> v3 をアップロードしました。<ruby>本日中<rt>ほんじつちゅう</rt></ruby>にご<ruby>確認<rt>かくにん</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いいたします【1】。https://docs.../spec_v3」 |
+|  | *@here em đã upload tài liệu spec v3 Phase 3. Phiền mọi người check trong hôm nay ạ. https://docs.../spec_v3* |
+| **田中PMO** | 「<ruby>確認<rt>かくにん</rt></ruby>いたします。」 |
+|  | *Tôi xem nhé.* |
+| **トゥアン** | 「セクション3に<ruby>質問<rt>しつもん</rt></ruby>あります、<ruby>後<rt>のち</rt></ruby>ほど DM します。」 |
+|  | *Anh có câu hỏi ở section 3, lát anh DM nhé.* |
+| **ズン** | 「@トゥアン お<ruby>待<rt>ま</rt></ruby>ちしております。」 |
+|  | *@Tuấn em đợi anh ạ.* |
+| **田中PMO** | 「v3 <ruby>確認完了<rt>かくにんかんりょう</rt></ruby>。<ruby>承認<rt>しょうにん</rt></ruby>します。」 |
+|  | *Tôi check xong v3. Tôi duyệt nhé.* |
 
 📝 **Ghi chú:**
 - 【1】**「@here」** — chỉ ping người đang online. Không phá DnD/giờ riêng.
@@ -1438,17 +1580,17 @@ Em Dũng vào Slack workspace chung với khách Hakuō. 田中 PMO (anh Tanaka)
 
 # Rule 17 — Liên lạc khẩn cấp + thứ tự ưu tiên / 緊急連絡の優先順位
 
-> **Luận điểm.** Khi sự cố khẩn cấp, **thứ tự gọi** quan trọng không kém nội dung. Sai thứ tự = sếp/khách bực + thông tin loop. Quy tắc: **(1) immediate stakeholder thuộc cấp trên trực tiếp**, **(2) escalate theo chain of command**, **(3) khách hàng được thông báo SAU khi đã có Plan**.
+> **Luận điểm.** Khi sự cố khẩn cấp, **thứ tự gọi** quan trọng không kém nội dung. Sai thứ tự = sếp/khách bực + thông tin chạy vòng. Quy tắc: **(1) báo người liên quan trực tiếp thuộc cấp trên ngay**, **(2) báo cáo leo cấp theo tuyến phân cấp**, **(3) khách hàng được thông báo SAU khi đã có Plan**.
 >
 > 緊急連絡の3原則：①直属上司をまず、②chain of command で escalate、③顧客への通知は **対応案を持った後**。順序を間違えると顧客が先に騒ぎ収拾不能になる。
 >
-> **Liên quan:** rule 07 (悪い知らせ PFIPA), rule 09 (口頭/書面), rule 31 (bug flow).
+> **Liên quan:** rule 07 (悪い知らせ PFIPA), rule 09 (口頭/書面), rule 31 (nhịp xử lý bug).
 
 ---
 
 ## Bối cảnh / 場面
 
-22:30 CN — bug critical production (giống rule 07). Anh Tuấn phát hiện. Câu hỏi: ai gọi trước, ai sau? Lần đầu Dũng (BD) định gọi anh Matsumoto (khách) ngay → anh Tuấn ngăn lại.
+22:30 CN — bug nghiêm trọng trên production (giống rule 07). Anh Tuấn phát hiện. Câu hỏi: ai gọi trước, ai sau? Lần đầu Dũng (BD) định gọi anh Matsumoto (khách) ngay → anh Tuấn ngăn lại.
 
 ---
 
@@ -1456,14 +1598,18 @@ Em Dũng vào Slack workspace chung với khách Hakuō. 田中 PMO (anh Tanaka)
 
 *22:35 CN*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「トゥアンさん、私すぐ松本様に電話します。データ消失なので…」 |
-| **トゥアン** | 「**待って**！松本様に電話する前に、(1) ハー CTO に第一報、(2) 対応案を3分で固める、(3) **その後** 松本様に電話。順序間違えると松本様が先に騒ぐ【1】。」 |
-| **ズン** | 「あ、でも顧客優先かと…」 |
-| **トゥアン** | 「**Plan を持たずに顧客に告げると 'どうするんですか'と詰められて、そこで初めて社内で議論することになる**。最悪。社内で固めてから顧客へ。」 |
+| **ズン** | 「トゥアンさん、私すぐ<ruby>松本<rt>まつもと</rt></ruby>様に<ruby>電話<rt>でんわ</rt></ruby>します。データ<ruby>消失<rt>しょうしつ</rt></ruby>なので…」 |
+|  | *Anh Tuấn, em gọi anh Matsumoto luôn nhé. Data bị mất nên...* |
+| **トゥアン** | 「**待って**！<ruby>松本<rt>まつもと</rt></ruby>様に<ruby>電話<rt>でんわ</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に、(1) ハー CTO に<ruby>第一報<rt>だいいっぽう</rt></ruby>、(2) <ruby>対応案<rt>たいおうあん</rt></ruby>を3<ruby>分<rt>ぷん</rt></ruby>で<ruby>固<rt>かた</rt></ruby>める、(3) **その後** <ruby>松本<rt>まつもと</rt></ruby>様に<ruby>電話<rt>でんわ</rt></ruby>。<ruby>順序<rt>じゅんじょ</rt></ruby><ruby>間違<rt>まちが</rt></ruby>えると<ruby>松本<rt>まつもと</rt></ruby>様が<ruby>先<rt>さき</rt></ruby>に<ruby>騒<rt>さわ</rt></ruby>ぐ【1】。」 |
+|  | *Khoan! Trước khi gọi anh Matsumoto: (1) báo đầu cho anh Hà CTO, (2) chốt phương án trong 3 phút, (3) rồi mới gọi anh Matsumoto. Sai thứ tự là khách làm ầm trước.* |
+| **ズン** | 「あ、でも<ruby>顧客<rt>こきゃく</rt></ruby><ruby>優先<rt>ゆうせん</rt></ruby>かと…」 |
+|  | *Ơ nhưng em nghĩ ưu tiên khách...* |
+| **トゥアン** | 「**Plan を<ruby>持<rt>も</rt></ruby>たずに<ruby>顧客<rt>こきゃく</rt></ruby>に<ruby>告<rt>つ</rt></ruby>げると 'どうするんですか'と<ruby>詰<rt>つ</rt></ruby>められて、そこで<ruby>初<rt>はじ</rt></ruby>めて<ruby>社内<rt>しゃない</rt></ruby>で<ruby>議論<rt>ぎろん</rt></ruby>することになる**。<ruby>最悪<rt>さいあく</rt></ruby>。<ruby>社内<rt>しゃない</rt></ruby>で<ruby>固<rt>かた</rt></ruby>めてから<ruby>顧客<rt>こきゃく</rt></ruby>へ。」 |
+|  | *Báo khách mà chưa có Plan thì sẽ bị truy 'sao bây giờ?', lúc đó mới bàn nội bộ. Tệ nhất. Chốt nội bộ rồi mới ra khách.* |
 
-**Vì sao xấu:** Việt thường nghĩ "khách trước". Nhật business: chain of command trước, Plan trước, rồi báo khách. Báo khách trước Plan = khách hỏi "phương án?" → mất mặt.
+**Vì sao xấu:** Người Việt thường nghĩ "khách trước". Phong cách Nhật: theo tuyến phân cấp trước, có Plan trước, rồi mới báo khách. Báo khách trước khi có Plan = khách hỏi "phương án?" → mất mặt.
 
 ---
 
@@ -1471,17 +1617,22 @@ Em Dũng vào Slack workspace chung với khách Hakuō. 田中 PMO (anh Tanaka)
 
 *22:32, gọi anh Hà CTO · 22:35 · 22:55, gọi anh Matsumoto · 23:30, Slack #phase2*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「ハーさん、緊急のご報告です…」 (PFIPA — xem rule 07) |
-| **ハーCTO** | 「了解。Plan OK。**第一報をあなた (トゥアン) から松本様に23時までに**入れて。」 |
-| **トゥアン** | 「松本様、夜分恐縮です。緊急のご報告です。**現時点で対応中の事象とPlanを併せてお伝えします**【2】…」 |
-| **松本PM** | 「Plan まで持って報告してくれて助かります。社内で共有します。」 |
-| **トゥアン** | 「@here 第一報共有 (Slack thread にて状況更新中)。」 |
+| **トゥアン** | 「ハーさん、<ruby>緊急<rt>きんきゅう</rt></ruby>のご<ruby>報告<rt>ほうこく</rt></ruby>です…」 (PFIPA — xem rule 07) |
+|  | *Anh Hà, em báo cáo khẩn ạ. (PFIPA — xem rule 07)* |
+| **ハーCTO** | 「<ruby>了解<rt>りょうかい</rt></ruby>。Plan OK。**<ruby>第一報<rt>だいいっぽう</rt></ruby>をあなた (トゥアン) から<ruby>松本<rt>まつもと</rt></ruby>様に23<ruby>時<rt>じ</rt></ruby>までに**<ruby>入<rt>い</rt></ruby>れて。」 |
+|  | *OK. Plan duyệt. Báo đầu em (Tuấn) gọi anh Matsumoto trước 23h.* |
+| **トゥアン** | 「<ruby>松本<rt>まつもと</rt></ruby>様、<ruby>夜分<rt>やぶん</rt></ruby><ruby>恐縮<rt>きょうしゅく</rt></ruby>です。<ruby>緊急<rt>きんきゅう</rt></ruby>のご<ruby>報告<rt>ほうこく</rt></ruby>です。**<ruby>現時点<rt>げんじてん</rt></ruby>で<ruby>対応中<rt>たいおうちゅう</rt></ruby>の<ruby>事象<rt>じしょう</rt></ruby>とPlanを<ruby>併<rt>あわ</rt></ruby>せてお<ruby>伝<rt>つた</rt></ruby>えします**【2】…」 |
+|  | *Anh Matsumoto, em xin lỗi đêm khuya. Em báo cáo khẩn cấp. Em trình bày cả sự cố đang xử lý lẫn phương án ạ.* |
+| **松本PM** | 「Plan まで<ruby>持<rt>も</rt></ruby>って<ruby>報告<rt>ほうこく</rt></ruby>してくれて<ruby>助<rt>たす</rt></ruby>かります。<ruby>社内<rt>しゃない</rt></ruby>で<ruby>共有<rt>きょうゆう</rt></ruby>します。」 |
+|  | *Cảm ơn anh báo cáo có cả Plan luôn. Tôi chia sẻ nội bộ bên này.* |
+| **トゥアン** | 「@here <ruby>第一報<rt>だいいっぽう</rt></ruby><ruby>共有<rt>きょうゆう</rt></ruby> (Slack thread にて<ruby>状況<rt>じょうきょう</rt></ruby><ruby>更新中<rt>こうしんちゅう</rt></ruby>)。」 |
+|  | *@here em chia sẻ báo đầu (đang cập nhật tình trạng trong thread Slack).* |
 
 📝 **Ghi chú:**
-- 【1】**Order: 直属 → 上司 → 顧客** — đảo order = chaos.
-- 【2】**「対応中の事象と Plan を併せて」** — báo khách = báo Fact + Impact + Plan + ETA. Không "問題が発生しました、どうしましょう".
+- 【1】**Thứ tự: 直属 → 上司 → 顧客** — đảo thứ tự = hỗn loạn.
+- 【2】**「対応中の事象と Plan を併せて」** — báo khách = báo Fact + Impact + Plan + ETA. Không phải "問題が発生しました、どうしましょう".
 
 ---
 
@@ -1489,26 +1640,26 @@ Em Dũng vào Slack workspace chung với khách Hakuō. 田中 PMO (anh Tanaka)
 
 | Loại sự cố | Bước 1 (3 phút) | Bước 2 (10 phút) | Bước 3 (30 phút) |
 |---|---|---|---|
-| **Critical bug production** | Tech lead → CTO | Plan, Slack #incident | Khách (PM) |
-| **Khách phàn nàn major** | Tech lead | BD lead → CTO | Khách (formal email reply) |
-| **Sales bị reject** | Sales lead | BD director | (không) |
-| **Internal HR issue** | HR → CEO | (không escalate khách) | |
-| **Legal / compliance** | Compliance officer → CEO | Legal counsel | (cẩn trọng) |
+| **Bug nghiêm trọng trên production** | Tech lead → CTO | Plan, Slack #incident | Khách (PM) |
+| **Khách phàn nàn lớn** | Tech lead | BD lead → CTO | Khách (email trả lời trang trọng) |
+| **Sales bị từ chối** | Sales lead | BD director | (không) |
+| **Vấn đề nhân sự nội bộ** | HR → CEO | (không báo lên khách) | |
+| **Pháp lý / tuân thủ** | Cán bộ tuân thủ → CEO | Cố vấn pháp lý | (cẩn trọng) |
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「直属 → CTO/上司 → Plan 確定 → 顧客」 — 順序間違えると現場が二倍混乱。**
+> **「<ruby>直属<rt>ちょくぞく</rt></ruby> → CTO/<ruby>上司<rt>じょうし</rt></ruby> → Plan <ruby>確定<rt>かくてい</rt></ruby> → <ruby>顧客<rt>こきゃく</rt></ruby>」 — <ruby>順序<rt>じゅんじょ</rt></ruby><ruby>間違<rt>まちが</rt></ruby>えると<ruby>現場<rt>げんば</rt></ruby>が<ruby>二倍<rt>にばい</rt></ruby><ruby>混乱<rt>こんらん</rt></ruby>。**
 
 ---
 
 ## ⚠ Tránh
 
 - Báo khách Nhật trước khi có Plan — họ hỏi "Plan は?" → bạn tê liệt.
-- Skip cấp trung gian, gọi thẳng C-level đầu tiên — direct boss bị bypassed = mất thiện cảm.
-- Không có timeline (dài nhất bao lâu nữa giải quyết) — khách không biết kỳ vọng.
-- Slack #public trước khi đã thông báo người key — họ đọc Slack mới biết = mất mặt.
+- Bỏ qua cấp trung gian, gọi thẳng cấp C-level đầu tiên — cấp trên trực tiếp bị vượt mặt = mất thiện cảm.
+- Không có mốc thời gian (lâu nhất bao lâu nữa giải quyết xong) — khách không biết kỳ vọng.
+- Đăng Slack #public trước khi đã thông báo người chủ chốt — họ đọc Slack mới biết = mất mặt.
 
 ---
 
@@ -1528,7 +1679,7 @@ Em Dũng vào Slack workspace chung với khách Hakuō. 田中 PMO (anh Tanaka)
 
 # Rule 18 — Báo dời lịch / スケジュール変更連絡
 
-> **Luận điểm.** Reschedule là việc thường xuyên nhưng làm sai dễ mất thiện cảm. Cấu trúc: **Apology → Reason (ngắn) → New options (2-3) → Action who updates calendar**. Báo trễ + chỉ 1 option + không update lịch dùm = sếp/khách bực.
+> **Luận điểm.** Dời lịch (reschedule) là việc thường xuyên nhưng làm sai dễ mất thiện cảm. Cấu trúc: **Xin lỗi → Lý do (ngắn) → Phương án mới (2-3) → Nói rõ ai cập nhật lịch**. Báo trễ + chỉ 1 phương án + không cập nhật lịch dùm = sếp/khách bực.
 >
 > リスケ連絡4要素：①謝罪、②理由（簡潔）、③代替候補2-3案、④カレンダーを誰が更新するか明示。
 >
@@ -1540,44 +1691,52 @@ Em Dũng vào Slack workspace chung với khách Hakuō. 田中 PMO (anh Tanaka)
 
 ## Bối cảnh / 場面
 
-Em Dũng phát hiện thứ Hai 9h: họp với anh Matsumoto thứ Ba 14h trùng họp nội bộ quan trọng. Cần reschedule. Lần đầu Dũng báo trễ + chỉ 1 option mới. Lần 2 đúng cấu trúc.
+Em Dũng phát hiện thứ Hai 9h: họp với anh Matsumoto thứ Ba 14h trùng họp nội bộ quan trọng. Cần dời lịch. Lần đầu Dũng báo trễ + chỉ 1 phương án mới. Lần 2 đúng cấu trúc.
 
 ---
 
-## ❌ Hội thoại XẤU — báo trễ + 1 option
+## ❌ Hội thoại XẤU — báo trễ + 1 phương án
 
-*thứ Ba 11h, mail · reply 13h*
+*thứ Ba 11h, mail · hồi đáp 13h*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「松本様、明日の14時の会議、社内事情で参加できなくなりました。来週の同じ時間でいかがでしょうか？」 |
-| **松本PM** | 「ズンさん、3時間前の連絡は厳しいです。それと、来週同じ時間は私が出張中です。**他の候補日時** はありますか？」 |
-| **ズン** | 「すみません、調整して再度お送りします…」 |
-| **松本PM** | 「リスケ連絡は **24時間以上前 + 候補3つ** が原則ですよ。」 |
+| **ズン** | 「松本様、明日の14時の<ruby>会議<rt>かいぎ</rt></ruby>、<ruby>社内事情<rt>しゃないじじょう</rt></ruby>で<ruby>参加<rt>さんか</rt></ruby>できなくなりました。<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>同<rt>おな</rt></ruby>じ<ruby>時間<rt>じかん</rt></ruby>でいかがでしょうか？」 |
+|  | *Anh Matsumoto, họp 14h ngày mai, vì việc nội bộ em không tham gia được. Cùng giờ tuần sau anh thấy thế nào ạ?* |
+| **松本PM** | 「ズンさん、3時間前の<ruby>連絡<rt>れんらく</rt></ruby>は<ruby>厳<rt>きび</rt></ruby>しいです。それと、来週同じ時間は<ruby>私<rt>わたし</rt></ruby>が<ruby>出張中<rt>しゅっちょうちゅう</rt></ruby>です。**他の<ruby>候補日時<rt>こうほにちじ</rt></ruby>** はありますか？」 |
+|  | *Dũng, báo trước 3 giờ thì khó. Còn tuần sau cùng giờ thì tôi đi công tác. Có ngày khác không?* |
+| **ズン** | 「すみません、<ruby>調整<rt>ちょうせい</rt></ruby>して<ruby>再度<rt>さいど</rt></ruby>お<ruby>送<rt>おく</rt></ruby>りします…」 |
+|  | *Xin lỗi, em điều chỉnh rồi gửi lại ạ...* |
+| **松本PM** | 「<ruby>リスケ<rt>りすけ</rt></ruby>連絡は **24時間以上前 + <ruby>候補<rt>こうほ</rt></ruby>3つ** が<ruby>原則<rt>げんそく</rt></ruby>ですよ。」 |
+|  | *Báo dời lịch nguyên tắc là 24h trước + 3 phương án đó.* |
 
-**Vì sao xấu:** (1) Báo trước 3 giờ — Nhật chuẩn 24h trước. (2) 1 option duy nhất + trùng với khách. (3) Không update calendar dùm khách.
+**Vì sao xấu:** (1) Báo trước 3 giờ — Nhật chuẩn 24h trước. (2) 1 phương án duy nhất + trùng với khách. (3) Không cập nhật lịch dùm khách.
 
 ---
 
-## ✅ Hội thoại TỐT — 24h trước + 3 options + action
+## ✅ Hội thoại TỐT — 24h trước + 3 phương án + hành động rõ
 
 *thứ 2 9:30, mail · 11h · 11:05*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「件名：【リスケ依頼】4/23(火)14時 定例会議」(body — see template) |
-| **松本PM** | 「ご丁寧にありがとうございます。**候補②(4/24 木 10時)** で確定しましょう。」 |
-| **ズン** | 「ありがとうございます。**こちらでカレンダー更新 + 新規招待をお送りします** 【1】。会議室・Zoom リンクも変更不要です。」 |
-| **松本PM** | 「承知しました。新しい招待をお待ちしております。」 |
+| **ズン** | 「<ruby>件名<rt>けんめい</rt></ruby>：【<ruby>リスケ依頼<rt>りすけいらい</rt></ruby>】4/23(火)14時 <ruby>定例会議<rt>ていれいかいぎ</rt></ruby>」(body — xem template) |
+|  | *Tiêu đề: '[Xin dời lịch] Họp định kỳ 14h thứ Ba 23/4' (phần nội dung — xem template).* |
+| **松本PM** | 「ご<ruby>丁寧<rt>ていねい</rt></ruby>にありがとうございます。**候補②(4/24 木 10時)** で<ruby>確定<rt>かくてい</rt></ruby>しましょう。」 |
+|  | *Cảm ơn em đã chu đáo. Chốt phương án ② (10h thứ Năm 24/4) nhé.* |
+| **ズン** | 「ありがとうございます。**こちらで<ruby>カレンダー更新<rt>カレンダーこうしん</rt></ruby> + <ruby>新規招待<rt>しんきしょうたい</rt></ruby>をお送りします** 【1】。会議室・Zoom リンクも<ruby>変更不要<rt>へんこうふよう</rt></ruby>です。」 |
+|  | *Em cảm ơn anh ạ. Em sẽ cập nhật lịch và gửi invite mới ạ 【1】. Phòng họp và link Zoom cũng không cần đổi ạ.* |
+| **松本PM** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。<ruby>新<rt>あたら</rt></ruby>しい招待をお<ruby>待<rt>ま</rt></ruby>ちしております。」 |
+|  | *Tôi hiểu rồi. Tôi đợi lời mời mới của em nhé.* |
 
 📝 **Ghi chú:**
-- 【1】**「こちらでカレンダー更新」** — bên gây reschedule chịu trách nhiệm update calendar. Không bắt khách tự update.
-- Subject 「【リスケ依頼】+ 日時 nguyên gốc」 — khách nhìn subject là biết.
-- Body có đủ: lý do ngắn (1 dòng) + 3 option mới + action.
+- 【1】**「こちらでカレンダー更新」** — bên gây ra việc dời lịch chịu trách nhiệm cập nhật lịch. Không bắt khách tự cập nhật.
+- Tiêu đề 「【リスケ依頼】+ 日時 nguyên gốc」 — khách nhìn tiêu đề là biết.
+- Phần body có đủ: lý do ngắn (1 dòng) + 3 phương án mới + hành động cụ thể.
 
 ---
 
-## Cấu trúc reschedule mail (4 phần)
+## Cấu trúc email dời lịch (4 phần)
 
 ```
 Subject: 【リスケ依頼】〇月〇日(〇)〇〇時 〇〇会議
@@ -1609,22 +1768,22 @@ Subject: 【リスケ依頼】〇月〇日(〇)〇〇時 〇〇会議
 
 > **「お詫び → 理由 → 候補3つ → カレンダー更新の責任明示。」**
 >
-> *24h 前を原則。trễ hơn = phone trước.*
+> *24h 前を原則。trễ hơn = gọi điện trước.*
 
 ---
 
 ## ⚠ Tránh
 
-- Báo trước 3 giờ — phải kèm phone call xin lỗi.
-- 1 option duy nhất — khách phải tự đề xuất → mất thời gian.
+- Báo trước 3 giờ — phải kèm gọi điện xin lỗi.
+- 1 phương án duy nhất — khách phải tự đề xuất → mất thời gian.
 - "ご都合の良い時間でお願いします" mở — quá rộng, đùn cho khách.
-- Reschedule mà bắt khách tự update calendar — không lịch sự.
+- Dời lịch mà bắt khách tự cập nhật lịch — không lịch sự.
 
 ---
 
 ## 📐 Template box
 
-Xem `templates[0]` của file conversation: **email_invite — reschedule format**.
+Xem `templates[0]` của file conversation: **email_invite — định dạng email dời lịch**.
 
 ---
 
@@ -1633,9 +1792,9 @@ Xem `templates[0]` của file conversation: **email_invite — reschedule format
 | 漢字 / Tiếng Nhật | よみ | Nghĩa |
 |------|------|-------|
 | リスケ | risuke | Reschedule (略) |
-| 候補 | こうほう | Phương án / candidate |
-| カレンダー更新 | カレンダーこうしん | Update lịch |
-| 新規招待 | しんきしょうたい | Invite mới |
+| 候補 | こうほ | Phương án / ứng viên (giờ đề xuất) |
+| カレンダー更新 | カレンダーこうしん | Cập nhật lịch |
+| 新規招待 | しんきしょうたい | Lời mời mới |
 | 直前 | ちょくぜん | Sát giờ |
 | 当方 | とうほう | Chúng tôi (formal) |
 | 出張中 | しゅっちょうちゅう | Đang đi công tác |
@@ -1644,11 +1803,11 @@ Xem `templates[0]` của file conversation: **email_invite — reschedule format
 
 # Rule 19 — Báo vắng / 不在連絡 (休暇 / 病欠)
 
-> **Luận điểm.** Báo vắng (nghỉ phép, ốm) phải có 4 yếu tố: **(1) Thông báo trước 24h** (trừ ốm đột xuất), **(2) Ngày return cụ thể**, **(3) Cover person** (ai thay), **(4) Out-of-office message** auto-reply email/Slack.
+> **Luận điểm.** Báo vắng (nghỉ phép, ốm) phải có 4 yếu tố: **(1) Thông báo trước 24h** (trừ ốm đột xuất), **(2) Ngày trở lại cụ thể**, **(3) Người thay** (ai làm thay), **(4) Tin nhắn báo vắng** (tự động trả lời email/Slack).
 >
 > 不在連絡4要素：①24時間前通知（病欠は除く）、②復帰日明示、③代行者指定、④自動返信設定。
 >
-> **Liên quan:** rule 14 (broadcast), rule 33 (退職/長期休暇).
+> **Liên quan:** rule 14 (báo cả nhóm), rule 33 (退職/長期休暇).
 
 ---
 
@@ -1662,14 +1821,18 @@ Em Dũng cần xin nghỉ thứ Sáu để dự đám cưới em họ. Lần đ�
 
 *thứ 5 21h, Slack DM chị Hương · thứ 5 22h*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、明日の金曜、休みたいです。」 |
-| **フオン** | 「えっ、12時間前？明日松本様との会議があるよ。誰が代わる？」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、明日の金曜、休みたいです。」 |
+|  | *Chị Hương, mai thứ Sáu em muốn nghỉ ạ.* |
+| **フオン** | 「えっ、12時間前？明日<ruby>松本<rt>まつもと</rt></ruby>様との<ruby>会議<rt>かいぎ</rt></ruby>があるよ。誰が<ruby>代<rt>か</rt></ruby>わる？」 |
+|  | *Hả, trước 12 giờ? Mai có họp với anh Matsumoto đấy. Ai thay em?* |
 | **ズン** | 「あ、忘れてました…」 |
-| **フオン** | 「休暇は **24時間前 + 代行者指定 + 復帰日 + 自動返信** が基本。今からじゃ松本様にも迷惑かかる。」 |
+|  | *À em quên ạ...* |
+| **フオン** | 「<ruby>休暇<rt>きゅうか</rt></ruby>は **24時間前 + <ruby>代行者指定<rt>だいこうしゃしてい</rt></ruby> + <ruby>復帰日<rt>ふっきび</rt></ruby> + <ruby>自動返信<rt>じどうへんしん</rt></ruby>** が基本。今からじゃ松本様にも<ruby>迷惑<rt>めいわく</rt></ruby>かかる。」 |
+|  | *Nghỉ phép phải trước 24h + chỉ định người thay + ngày trở lại + tự động trả lời. Bây giờ thì cả anh Matsumoto cũng bị phiền.* |
 
-**Vì sao xấu:** Báo 12h trước + chỉ thông báo "muốn nghỉ", không có Plan cover. Sếp phải tự xếp lại.
+**Vì sao xấu:** Báo 12h trước + chỉ thông báo "muốn nghỉ", không có phương án người thay. Sếp phải tự xếp lại.
 
 ---
 
@@ -1677,16 +1840,20 @@ Em Dũng cần xin nghỉ thứ Sáu để dự đám cưới em họ. Lần đ�
 
 *thứ 6 tuần trước, mail chị Hương + cc team · 4/25 thứ 5 17h, Slack #phase2*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「件名：【休暇申請】4/26(金) 終日不在のご連絡」(body — see template) |
-| **フオン** | 「OK、休暇承認します。」 |
-| **ズン** | 「@here 念のため再連絡。**明日4/26(金)1日不在**。代行：松本様会議はトゥアン、Slack/メール対応はハイ。**復帰：4/29(月)朝礼から**【1】。自動返信も設定済みです。」 |
-| **トゥアン** | 「松本様会議の引き継ぎ資料、確認しました。任せて。」 |
+| **ズン** | 「<ruby>件名<rt>けんめい</rt></ruby>：【<ruby>休暇申請<rt>きゅうかしんせい</rt></ruby>】4/26(金) <ruby>終日不在<rt>しゅうじつふざい</rt></ruby>のご<ruby>連絡<rt>れんらく</rt></ruby>」(body — theo mẫu template) |
+|  | *Tiêu đề: '[Đơn nghỉ phép] 26/4 (T6) báo vắng cả ngày' (nội dung mail theo mẫu).* |
+| **フオン** | 「OK、休暇<ruby>承認<rt>しょうにん</rt></ruby>します。」 |
+|  | *OK, chị duyệt nghỉ phép.* |
+| **ズン** | 「@here <ruby>念<rt>ねん</rt></ruby>のため<ruby>再連絡<rt>さいれんらく</rt></ruby>。**明日4/26(金)1日不在**。代行：松本様会議はトゥアン、Slack/メール<ruby>対応<rt>たいおう</rt></ruby>はハイ。**復帰：4/29(月)<ruby>朝礼<rt>ちょうれい</rt></ruby>から**【1】。自動返信も<ruby>設定済<rt>せっていず</rt></ruby>みです。」 |
+|  | *@here em nhắc lại cho chắc. Mai 26/4 thứ Sáu em nghỉ cả ngày. Người thay: họp anh Matsumoto là anh Tuấn, Slack/mail là anh Hải. Trở lại: từ buổi họp sáng (朝礼) thứ Hai 29/4. Tự động trả lời em cũng đã cài rồi ạ.* |
+| **トゥアン** | 「松本様会議の<ruby>引<rt>ひ</rt></ruby>き<ruby>継<rt>つ</rt></ruby>ぎ<ruby>資料<rt>しりょう</rt></ruby>、確認しました。任せて。」 |
+|  | *Tài liệu bàn giao cho họp anh Matsumoto anh check rồi. Cứ giao anh.* |
 
 📝 **Ghi chú:**
-- 【1】**「念のため再連絡」 + 4 yếu tố** — báo lần 1 (1 tuần trước, formal email) + lần 2 (1 ngày trước, Slack reminder).
-- Out-of-office mail: 「〇月〇日まで休暇のため不在です。緊急の場合は〇〇まで」.
+- 【1】**「念のため再連絡」 + 4 yếu tố** — báo lần 1 (1 tuần trước, mail trang trọng) + lần 2 (1 ngày trước, nhắc lại trên Slack).
+- Mail tự động trả lời khi vắng mặt: 「〇月〇日まで休暇のため不在です。緊急の場合は〇〇まで」.
 
 ---
 
@@ -1723,10 +1890,10 @@ Em Dũng cần xin nghỉ thứ Sáu để dự đám cưới em họ. Lần đ�
 
 ## ⚠ Tránh
 
-- "明日休みます" + nothing else — không cover, không return date.
-- Đưa "代行者" mà chưa hỏi đối tượng — phải confirm với cover person trước.
-- Quên set out-of-office auto-reply — khách gửi mail không biết, đợi 3 ngày.
-- Báo nghỉ đột xuất qua DM 1 người — cả team không biết, ai cũng nhắn cho bạn.
+- "明日休みます" mà không kèm gì thêm — không người thay, không ngày trở lại.
+- Đưa "代行者" mà chưa hỏi đối tượng — phải xác nhận với người thay trước.
+- Quên cài tự động trả lời khi vắng — khách gửi mail không biết, đợi 3 ngày.
+- Báo nghỉ đột xuất qua DM 1 người — cả nhóm không biết, ai cũng nhắn cho bạn.
 
 ---
 
@@ -1746,7 +1913,7 @@ Em Dũng cần xin nghỉ thứ Sáu để dự đám cưới em họ. Lần đ�
 
 # Rule 20 — Báo công tác / 出張連絡
 
-> **Luận điểm.** Báo công tác phải báo trước **1 tuần** với 4 yếu tố: **(1) Lịch trình + agenda**, **(2) Deliverables (output mong đợi)**, **(3) Reachable status** (online/offline khi nào), **(4) Cover person cho việc thường ngày**. Khác báo nghỉ — công tác vẫn online.
+> **Luận điểm.** Báo công tác phải báo trước **1 tuần** với 4 yếu tố: **(1) Lịch trình + nội dung làm việc (agenda)**, **(2) Kết quả mong đợi (deliverables)**, **(3) Giờ liên lạc được (reachable)** — khi nào online/offline, **(4) Người cover việc thường ngày**. Khác báo nghỉ — công tác vẫn online.
 >
 > 出張連絡4要素：①日程 + アジェンダ、②期待する deliverable、③reachable 状況、④代行者（通常業務）。休暇と異なり「在席相当」の連絡が必要。
 >
@@ -1764,14 +1931,18 @@ Em Dũng được anh Hà CTO cử sang Tokyo 3 ngày để demo Phase 2 cho anh
 
 *thứ 5 17h, Slack*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「皆さん、来週月曜から3日東京出張です。」 |
-| **トゥアン** | 「ズン、何のため？私が引き継ぐ部分は？日本との時差中、Slack 見れる？」 |
-| **ズン** | 「えっと、デモのためです、引き継ぎは…まだ考えてなくて…」 |
-| **トゥアン** | 「出張連絡は **1週間前 + agenda + deliverables + reachable + 代行** が基本。」 |
+| **ズン** | 「皆さん、来週月曜から3日東京<ruby>出張<rt>しゅっちょう</rt></ruby>です。」 |
+|  | *Mọi người, thứ Hai tuần sau em đi Tokyo công tác 3 ngày.* |
+| **トゥアン** | 「ズン、何のため？私が引き継ぐ部分は？日本との<ruby>時差<rt>じさ</rt></ruby>中、Slack 見れる？」 |
+|  | *Dũng, đi cho việc gì? Anh cần cover phần nào? Lệch giờ Nhật, Slack có xem được không?* |
+| **ズン** | 「えっと、デモのためです、<ruby>引<rt>ひ</rt></ruby>き<ruby>継<rt>つ</rt></ruby>ぎは…まだ考えてなくて…」 |
+|  | *Ờ, đi demo ạ, bàn giao thì... em chưa nghĩ ạ...* |
+| **トゥアン** | 「<ruby>出張連絡<rt>しゅっちょうれんらく</rt></ruby>は **1週間前 + agenda + deliverables + reachable + <ruby>代行<rt>だいこう</rt></ruby>** が基本。」 |
+|  | *Báo công tác là 1 tuần trước + agenda + deliverables + reachable + cover. Cơ bản đó.* |
 
-**Vì sao xấu:** Báo trước 2 ngày + 1 dòng. Team không biết deliverables là gì, không biết khi nào liên lạc được Dũng.
+**Vì sao xấu:** Báo trước 2 ngày + 1 dòng. Team không biết kết quả mong đợi (deliverables) là gì, không biết khi nào liên lạc được Dũng.
 
 ---
 
@@ -1779,15 +1950,18 @@ Em Dũng được anh Hà CTO cử sang Tokyo 3 ngày để demo Phase 2 cho anh
 
 *mail subject: "【出張連絡】5/13-5/15 東京 / 白鷗様向け Phase 2 デモ" · reply*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | (Body theo template) |
-| **トゥアン** | 「了解。Phase 3 仕様検討は私が代行します。デモ資料の最終 review、明日金曜にやろう。」 |
-| **ハーCTO** | 「ズン、CFO 中村様へは **数値ベース** で報告するように。Phase 2 の数字資料は私もレビューする。」 |
-| **ズン** | 「承知しました。**毎晩21時(JST)** に Slack で進捗報告いたします【1】。」 |
+| **ズン** | (Body theo công thức mail bên dưới) |
+| **トゥアン** | 「了解。Phase 3 <ruby>仕様検討<rt>しようけんとう</rt></ruby>は私が<ruby>代行<rt>だいこう</rt></ruby>します。デモ<ruby>資料<rt>しりょう</rt></ruby>の<ruby>最終<rt>さいしゅう</rt></ruby> review、明日<ruby>金曜<rt>きんよう</rt></ruby>にやろう。」 |
+|  | *OK. Spec Phase 3 anh cover. Review cuối tài liệu demo, mai thứ Sáu mình làm nhé.* |
+| **ハーCTO** | 「ズン、CFO <ruby>中村<rt>なかむら</rt></ruby>様へは **<ruby>数値<rt>すうち</rt></ruby>ベース** で<ruby>報告<rt>ほうこく</rt></ruby>するように。Phase 2 の<ruby>数字資料<rt>すうじしりょう</rt></ruby>は私もレビューする。」 |
+|  | *Dũng, báo cáo cho anh Nakamura CFO bằng số liệu nhé. Tài liệu số Phase 2 anh cũng review.* |
+| **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。**毎晩21時(JST)** に Slack で<ruby>進捗報告<rt>しんちょくほうこく</rt></ruby>いたします【1】。」 |
+|  | *Em hiểu ạ. Em sẽ báo cáo tiến độ qua Slack mỗi tối 21h (JST) ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**「毎晩21時に進捗報告」** — daily check-in từ Tokyo. Khác với nghỉ phép, công tác vẫn báo cáo daily.
+- 【1】**「毎晩21時に進捗報告」** — báo cáo tiến độ hằng ngày từ Tokyo. Khác với nghỉ phép, công tác vẫn báo cáo mỗi ngày.
 
 ---
 
@@ -1827,16 +2001,16 @@ Em Dũng được anh Hà CTO cử sang Tokyo 3 ngày để demo Phase 2 cho anh
 
 ## 🎯 Câu chốt
 
-> **「期間 / Agenda / Deliverables / Reachable / 代行 — 1週間前 mail + 出張中 daily check-in。」**
+> **「<ruby>期間<rt>きかん</rt></ruby> / Agenda / Deliverables / Reachable / <ruby>代行<rt>だいこう</rt></ruby> — 1週間前 mail + <ruby>出張中<rt>しゅっちょうちゅう</rt></ruby> daily check-in。」**
 
 ---
 
 ## ⚠ Tránh
 
-- Báo công tác như báo nghỉ ("3 日不在") — đi công tác vẫn cần report.
-- Bỏ "expected deliverables" — sếp không biết kỳ vọng gì từ chuyến đi.
-- "電話に出れません" — công tác vẫn nên reachable trừ giờ họp/di chuyển.
-- Bỏ daily check-in — sếp/team mất visibility 3 ngày.
+- Báo công tác như báo nghỉ ("3 日不在") — đi công tác vẫn cần báo cáo.
+- Bỏ "kết quả mong đợi (deliverables)" — sếp không biết kỳ vọng gì từ chuyến đi.
+- "電話に出れません" — công tác vẫn nên liên lạc được, trừ giờ họp/di chuyển.
+- Bỏ báo cáo hằng ngày — sếp/team mất nắm bắt tình hình suốt 3 ngày.
 
 ---
 
@@ -1866,44 +2040,52 @@ Em Dũng được anh Hà CTO cử sang Tokyo 3 ngày để demo Phase 2 cho anh
 
 ## Bối cảnh / 場面
 
-Em Dũng cộng tác với anh Tanaka PMO ở Hakuō. Lần đầu Dũng dùng "明日" mơ hồ + expect anh Tanaka reply trong 5 phút. Lần 2 áp dụng UTC anchor + async + daily handoff.
+Em Dũng cộng tác với anh Tanaka PMO ở Hakuō. Lần đầu Dũng dùng "明日" mơ hồ và mong anh Tanaka phản hồi trong 5 phút. Lần 2 áp dụng mốc giờ UTC + async + bàn giao cuối ngày (daily handoff).
 
 ---
 
-## ❌ Hội thoại XẤU — không UTC + expect sync reply
+## ❌ Hội thoại XẤU — không có mốc UTC + đòi phản hồi đồng bộ ngay
 
 *VN 16h thứ Hai, Slack · JP 18h, đã offline · VN 17h · JP 翌朝 9h*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「田中さん、明日10時から会議できますか？」 |
+| **ズン** | 「田中さん、明日10時から<ruby>会議<rt>かいぎ</rt></ruby>できますか？」 |
+|  | *Anh Tanaka, mai 10h họp được không ạ?* |
 | **田中PMO** | (không reply) |
-| **ズン** | 「田中さん？返信お待ちしています。」 |
+|  | *(không phản hồi)* |
+| **ズン** | 「田中さん？<ruby>返信<rt>へんしん</rt></ruby>お待ちしています。」 |
+|  | *Anh Tanaka? Em đợi anh phản hồi ạ.* |
 | **田中PMO** | 「ズンさん、おはようございます。『**明日10時**』が JP の明日 (火 10時 JST) なのか、VN の明日 (月翌日 10時 ICT = 火 12時 JST) なのか分からないです…」 |
+|  | *Dũng, chào buổi sáng. 'Mai 10h' là mai theo JP (10h JST thứ Ba) hay theo VN (10h ICT của ngày sau hôm thứ Hai = 12h JST thứ Ba) tôi không biết...* |
 
-**Vì sao xấu:** L1 「明日」 mơ hồ vì 2 nước cùng đêm khác. L3 sai expectation — anh Tanaka đã offline. L4 ambiguity nữa: "10時" của VN hay JP?
+**Vì sao xấu:** L1 「明日」 mơ hồ vì 2 nước cùng đêm khác. L3 sai kỳ vọng — anh Tanaka đã offline. L4 lại mơ hồ thêm: "10時" của VN hay JP?
 
 ---
 
 ## ✅ Hội thoại TỐT — UTC anchor + async + handoff
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **L1** | **ズン** *(VN 16h thứ Hai, Slack)* | 「田中さん、お疲れ様です。下記の時間帯で会議はいかがでしょうか？  
+| **L1** | **ズン** *(VN 16h thứ Hai, Slack)* | 「田中さん、お疲れ様です。<ruby>下記<rt>かき</rt></ruby>の<ruby>時間帯<rt>じかんたい</rt></ruby>で会議はいかがでしょうか？  
   - **2026/4/22 (火) 10:00-11:00 JST (= 08:00-09:00 ICT)**【1】  
   - **2026/4/22 (火) 14:00-15:00 JST (= 12:00-13:00 ICT)**  
-  ご都合が合う方を、明日の朝 (JST) までにお返事いただければ幸いです【2】。」 |
-| **L2** | **田中PMO** *(JP 翌朝 9:30)* | 「おはようございます。10:00 JST で確定でお願いします。」 |
+  ご<ruby>都合<rt>つごう</rt></ruby>が合う方を、明日の朝 (JST) までにお<ruby>返事<rt>へんじ</rt></ruby>いただければ<ruby>幸<rt>さいわ</rt></ruby>いです【2】。」 |
+|  |  | *Anh Tanaka, em chào anh ạ. Khung giờ dưới đây họp được không ạ? 22/4/2026 (T3) 10:00-11:00 JST (= 08:00-09:00 ICT), hoặc 22/4/2026 (T3) 14:00-15:00 JST (= 12:00-13:00 ICT). Phiền anh chọn giúp em và phản hồi trước sáng mai (JST) ạ.* |
+| **L2** | **田中PMO** *(JP 翌朝 9:30)* | 「おはようございます。10:00 JST で<ruby>確定<rt>かくてい</rt></ruby>でお願いします。」 |
+|  |  | *Chào buổi sáng. Chốt 10:00 JST giúp tôi nhé.* |
 | **L3** | **ズン** *(VN 18h thứ Hai, EOD handoff Slack #phase3)* | 「**【EOD Handoff VN→JP】**【3】  
   - Done today: 〇〇  
   - Pending JP review: 〇〇 (PR link)  
   - JP team が朝確認: ① 〇〇 ② 〇〇  
-  - 緊急時: トゥアン (+84-...) または ズン (24h reachable)」 |
-| **L4** | **田中PMO** *(JP 9:00 翌朝)* | 「Handoff 受領。① と ② を朝のうちに review します。」 |
+  - <ruby>緊急時<rt>きんきゅうじ</rt></ruby>: トゥアン (+84-...) または ズン (24h reachable)」 |
+|  |  | *[EOD Handoff VN→JP] Done today: sửa API xong / Chờ JP review: PR #234 / JP team sáng check: ① spec v3 section 3, ② link video demo / Khẩn: anh Tuấn (+84-...) hoặc Dũng (24h reachable).* |
+| **L4** | **田中PMO** *(JP 9:00 翌朝)* | 「Handoff <ruby>受領<rt>じゅりょう</rt></ruby>。① と ② を朝のうちに review します。」 |
+|  |  | *Tôi đã nhận handoff. ① và ② tôi review trong sáng nay.* |
 
 📝 **Ghi chú:**
 - 【1】**「JST (= 〇 ICT)」** — luôn ghi cả 2 timezone. Tránh "明日" / "明後日" mơ hồ.
-- 【2】**「明日の朝 (JST) までに」** — async expectation: "khi nào trước"chứ không phải "ngay lập tức".
+- 【2】**「明日の朝 (JST) までに」** — kỳ vọng kiểu async: "trước khi nào" chứ không phải "ngay lập tức".
 - 【3】**「EOD Handoff」** — VN end-of-day (18h ICT = 20h JST) là start-of-day JP hôm sau (9h JST). Bàn giao 1 message — JP team sáng đọc là biết tình hình.
 
 ---
@@ -1916,7 +2098,7 @@ Em Dũng cộng tác với anh Tanaka PMO ở Hakuō. Lần đầu Dũng dùng "
 - 「来週月曜午後 (JST 14時)」
 
 ❌ **Sai:**
-- 「明日10時」 (whose 明日? whose 10?)
+- 「明日10時」 (明日 của ai? 10 giờ của ai?)
 - 「夕方」 (5pm VN ≠ 5pm JP)
 - 「お昼」
 
@@ -1938,14 +2120,14 @@ VN 09:00 ICT (= JP 11:00 JST) — VN team reads
 
 ## 🎯 Câu chốt
 
-> **「JST (ICT) 併記 / async 前提 / EOD Handoff message」 = cross-timezone 3 trụ cột。**
+> **「JST (ICT) <ruby>併記<rt>へいき</rt></ruby> / async <ruby>前提<rt>ぜんてい</rt></ruby> / EOD Handoff message」 = cross-timezone 3 trụ cột。**
 
 ---
 
 ## ⚠ Tránh
 
-- 「明日」「来週」「夕方」 — relative time ambiguous khác timezone.
-- Expect Slack reply trong 5 phút khi đối phương đã EOD.
+- 「明日」「来週」「夕方」 — giờ tương đối, mơ hồ khi khác múi giờ.
+- Mong đối phương phản hồi Slack trong 5 phút khi họ đã hết giờ làm (EOD).
 - Schedule họp 8h JST (= 6h ICT) — VN chưa làm việc.
 - Bỏ daily handoff — JP team sáng dậy không biết VN team đã làm gì 12 giờ qua.
 
@@ -1972,7 +2154,7 @@ VN 09:00 ICT (= JP 11:00 JST) — VN team reads
 
 # Rule 22 — Khi nào cần tham vấn vs tự quyết / 相談 vs 自己決定
 
-> **Luận điểm.** Không phải việc gì cũng phải tham vấn (相談), cũng không phải việc gì cũng tự quyết. Quyết theo **decision tree 2 trục**: **(1) Impact** (ảnh hưởng tới ai? sai thì hệ quả gì?) × **(2) Reversibility** (có rollback được không?). Quy tắc: **Impact lớn × Khó rollback → BẮT BUỘC tham vấn**. Impact nhỏ × Rollback dễ → tự quyết, báo cáo sau.
+> **Luận điểm.** Không phải việc gì cũng phải tham vấn (相談), cũng không phải việc gì cũng tự quyết. Quyết theo **cây quyết định 2 trục**: **(1) Mức ảnh hưởng** (ảnh hưởng tới ai? sai thì hệ quả gì?) × **(2) Tính rollback được** (có khôi phục lại được không?). Quy tắc: **Ảnh hưởng lớn × Khó rollback → BẮT BUỘC tham vấn**. Ảnh hưởng nhỏ × Rollback dễ → tự quyết, báo cáo sau.
 >
 > 相談 vs 自己決定の判断軸：①影響範囲（誰に・どこまで）×②可逆性（やり直せるか）。両方とも「大」なら必ず相談。両方「小」なら自己決定 + 事後報告。
 >
@@ -1986,54 +2168,55 @@ Sáng thứ Tư. Em Dũng đang code 1 mình thì gặp 2 quyết định cùng 
 - **Quyết định A** — đổi tên biến `userId` → `user_id` trong file FE local (chưa merge)
 - **Quyết định B** — đổi schema DB column `user_id` → `member_id` (production, đã có 50k record)
 
-Lần đầu Dũng tham vấn cả 2 → chị Hương cau mày. Lần 2 áp decision tree.
+Lần đầu Dũng tham vấn cả 2 → chị Hương cau mày. Lần 2 áp cây quyết định.
 
 ---
 
 ## ❌ Hội thoại XẤU — tham vấn cả việc nhỏ
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、ご相談です。FEのローカルブランチで `userId` を `user_id` にリネームしたいのですが、よろしいでしょうか?」 |
-| **フオン** | 「それ、私に聞くこと?ローカル・未マージ・あなた1人の作業範囲でしょ?」 |
-| **ズン** | 「あ、念のため…」 |
-| **フオン** | 「自己決定で OK、事後報告だけして。逆に DB の `user_id` を変える話があれば、それは絶対相談。判断軸を理解して。」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、ご<ruby>相談<rt>そうだん</rt></ruby>です。FEのローカルブランチで `userId` を `user_id` にリネームしたいのですが、よろしいでしょうか?」 |
+|  | *Chị Hương, em xin tham vấn ạ. Trên branch FE local em muốn đổi `userId` thành `user_id`, được không ạ?* |
+| **フオン** | 「それ、私に聞くこと?ローカル・<ruby>未<rt>み</rt></ruby>マージ・あなた1人の<ruby>作業範囲<rt>さぎょうはんい</rt></ruby>でしょ?」 |
+|  | *Cái đó hỏi chị làm gì? Local, chưa merge, một mình em làm mà?* |
+| **ズン** | 「あ、<ruby>念<rt>ねん</rt></ruby>のため…」 |
+|  | *À, em hỏi cho chắc...* |
+| **フオン** | 「<ruby>自己決定<rt>じこけってい</rt></ruby>で OK、<ruby>事後報告<rt>じごほうこく</rt></ruby>だけして。逆に DB の `user_id` を変える話があれば、それは絶対<ruby>相談<rt>そうだん</rt></ruby>。<ruby>判断軸<rt>はんだんじく</rt></ruby>を理解して。」 |
+|  | *Tự quyết đi, chỉ cần báo cáo sau thôi. Ngược lại nếu là đổi `user_id` ở DB thì bắt buộc phải tham vấn. Hiểu trục đánh giá đi nhé.* |
 
-**Vì sao xấu:** L1 là quyết định **impact nhỏ** (chỉ local FE branch) × **reversibility cao** (chưa merge, undo dễ) → tự quyết. Tham vấn việc nhỏ làm sếp loãng tập trung và làm Dũng trông thiếu tự tin.
+**Vì sao xấu:** L1 là quyết định **ảnh hưởng nhỏ** (chỉ local FE branch) × **rollback dễ** (chưa merge, hoàn tác dễ) → tự quyết. Tham vấn việc nhỏ làm sếp loãng tập trung và làm Dũng trông thiếu tự tin.
 
 ---
 
 ## ✅ Hội thoại TỐT — phân loại theo decision tree
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、判断軸に従って2件を整理しました。1件は事後報告、1件はご相談です【1】。」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、<ruby>判断軸<rt>はんだんじく</rt></ruby>に<ruby>従<rt>したが</rt></ruby>って2<ruby>件<rt>けん</rt></ruby>を<ruby>整理<rt>せいり</rt></ruby>しました。1件は<ruby>事後報告<rt>じごほうこく</rt></ruby>、1件はご<ruby>相談<rt>そうだん</rt></ruby>です【1】。」 |
+|  | *Chị Hương, em đã phân loại 2 việc theo trục đánh giá. 1 cái em báo cáo sau, 1 cái em xin tham vấn ạ.* |
 | **フオン** | 「うん、聞きます。」 |
-| **ズン** | 「**事後報告:** FEローカルブランチで `userId` を `user_id` にリネームしました。影響範囲ローカル + 未マージで可逆性も高いため自己決定としました【2】。」 |
-| **ズン** | 「**ご相談:** DB の `user_id` カラムを `member_id` にリネームする提案がチームから出ております。本番5万レコード + 7サービスが参照しており、影響大 + 不可逆性高いため、独断は避けたく存じます【3】。」 |
-| **フオン** | 「正しい切り分けね。1件目は OK、2件目はハーCTOも含めた相談会議をセットして。木曜午後に。」 |
+|  | *Ừ, chị nghe.* |
+| **ズン** | 「**事後報告:** FEローカルブランチで `userId` を `user_id` にリネームしました。<ruby>影響範囲<rt>えいきょうはんい</rt></ruby>ローカル + 未マージで<ruby>可逆性<rt>かぎゃくせい</rt></ruby>も高いため自己決定としました【2】。」 |
+|  | *[Báo cáo sau] Em đã đổi `userId` thành `user_id` trên branch FE local. Phạm vi ảnh hưởng chỉ local + chưa merge nên rollback dễ, em đã tự quyết ạ.* |
+| **ズン** | 「**ご相談:** DB の `user_id` カラムを `member_id` にリネームする<ruby>提案<rt>ていあん</rt></ruby>がチームから出ております。<ruby>本番<rt>ほんばん</rt></ruby>5万レコード + 7サービスが<ruby>参照<rt>さんしょう</rt></ruby>しており、影響大 + <ruby>不可逆性<rt>ふかぎゃくせい</rt></ruby>高いため、<ruby>独断<rt>どくだん</rt></ruby>は避けたく<ruby>存<rt>ぞん</rt></ruby>じます【3】。」 |
+|  | *[Tham vấn] Team đang đề xuất đổi cột `user_id` thành `member_id` trên DB. Production có 50k record + 7 service tham chiếu, ảnh hưởng lớn + khó rollback nên em không dám tự quyết ạ.* |
+| **フオン** | 「正しい<ruby>切<rt>き</rt></ruby>り分けね。1件目は OK、2件目はハーCTOも含めた相談<ruby>会議<rt>かいぎ</rt></ruby>をセットして。<ruby>木曜<rt>もくよう</rt></ruby>午後に。」 |
+|  | *Phân loại đúng rồi. Cái 1 OK, cái 2 thì set 1 buổi tham vấn có cả anh Hà CTO. Chiều thứ Năm nhé.* |
 
 📝 **Ghi chú:**
-- 【1】**「判断軸に従って整理しました」** — show rằng Dũng đã tự phân loại trước. Sếp tin tưởng.
+- 【1】**「判断軸に従って整理しました」** — cho thấy Dũng đã tự phân loại trước. Sếp tin tưởng.
 - 【2】**「影響範囲ローカル + 未マージで可逆性も高い」** — nêu rõ 2 trục để justify việc tự quyết.
 - 【3】**「影響大 + 不可逆性高い」** — đối ngược: lý do tham vấn cũng theo 2 trục.
 
 ---
 
-## 🧭 Decision Tree
+## 🧭 Cây quyết định
 
-```
-                     Reversibility (có rollback được không?)
-                    ┌───────────────┬───────────────┐
-                    │     CAO       │     THẤP      │
-        ┌───────────┼───────────────┼───────────────┤
-        │   NHỎ     │ Tự quyết      │ Tự quyết +    │
- Impact │           │ + 事後報告    │ ngay 連絡     │
-        ├───────────┼───────────────┼───────────────┤
-        │   LỚN     │ Tham vấn nhanh│ ⚠ BẮT BUỘC   │
-        │           │ (Slack thread)│ 相談 + 稟議  │
-        └───────────┴───────────────┴───────────────┘
-```
+| Ảnh hưởng \ Rollback | Rollback CAO (dễ) | Rollback THẤP (khó) |
+|----------------------|-------------------|---------------------|
+| **NHỎ** | Tự quyết + 事後報告 | Tự quyết + 連絡 ngay |
+| **LỚN** | Tham vấn nhanh (Slack thread) | ⚠ BẮT BUỘC 相談 + 稟議 |
 
 ---
 
@@ -2046,7 +2229,7 @@ Lần đầu Dũng tham vấn cả 2 → chị Hương cau mày. Lần 2 áp dec
 ## ⚠ Tránh
 
 - Tham vấn cả việc nhỏ → sếp loãng + Dũng thiếu tự tin.
-- Tự quyết việc impact lớn / khó rollback → 1 sai lầm = mất 1 tuần khắc phục.
+- Tự quyết việc ảnh hưởng lớn / khó rollback → 1 sai lầm = mất 1 tuần khắc phục.
 - 「念のため」 lý do duy nhất để tham vấn → không hợp lệ. Phải nêu rõ 影響 hoặc 不可逆性.
 - Bỏ 事後報告 sau khi tự quyết → sếp không biết gì = vẫn là báo cáo sót.
 
@@ -2068,7 +2251,7 @@ Lần đầu Dũng tham vấn cả 2 → chị Hương cau mày. Lần 2 áp dec
 
 # Rule 23 — Chuẩn bị trước khi tham vấn / 相談前の準備
 
-> **Luận điểm.** Tham vấn không phải "đi hỏi cho biết" mà là **xin sếp giúp ra quyết định**. Trước khi gõ cửa, junior phải có sẵn **3 bộ vật liệu**: (1) **5W1H tình huống** (What/When/Where/Who/Why/How), (2) **3 case-study tham chiếu** (mình đã làm gì? team từng gặp chưa? Google/docs có gì?), (3) **仮説 (giả thuyết)** — phán đoán của bản thân + lý do. Thiếu cả 3 = sếp phải hỏi ngược → tham vấn thành interview.
+> **Luận điểm.** Tham vấn không phải "đi hỏi cho biết" mà là **xin sếp giúp ra quyết định**. Trước khi gõ cửa, nhân viên trẻ phải có sẵn **3 bộ vật liệu**: (1) **5W1H tình huống** (What/When/Where/Who/Why/How), (2) **3 trường hợp tham chiếu** (mình đã làm gì? team từng gặp chưa? Google/tài liệu có gì?), (3) **仮説 (giả thuyết)** — phán đoán của bản thân + lý do. Thiếu cả 3 = sếp phải hỏi ngược → tham vấn thành buổi tra hỏi.
 >
 > 相談前に必ず揃える3点：①5W1H、②3つの参考ケース、③自分の仮説。これがないと「相談」ではなく「丸投げ」。
 >
@@ -2078,18 +2261,22 @@ Lần đầu Dũng tham vấn cả 2 → chị Hương cau mày. Lần 2 áp dec
 
 ## Bối cảnh / 場面
 
-Em Linh (intern Marketing) gặp vấn đề: nhà cung cấp print brochure báo trễ 3 ngày. Linh chạy lên hỏi anh Dũng. Lần đầu Linh đến tay không. Lần 2 chuẩn bị đủ 3 bộ vật liệu.
+Em Linh (thực tập sinh Marketing) gặp vấn đề: nhà cung cấp in brochure báo trễ 3 ngày. Linh chạy lên hỏi anh Dũng. Lần đầu Linh đến tay không. Lần 2 chuẩn bị đủ 3 bộ vật liệu.
 
 ---
 
 ## ❌ Hội thoại XẤU — đến tay không
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **リン** | 「ズンさん、ちょっとご相談…印刷会社が3日遅れるって言ってるんですけど、どうしたらいいですか?」 |
-| **ズン** | 「いつ連絡来た?どこの印刷会社?何が遅れる?代替業者は探した?他のチームは過去に同じ問題なかった?」 |
+| **リン** | 「ズンさん、ちょっとご<ruby>相談<rt>そうだん</rt></ruby>…<ruby>印刷<rt>いんさつ</rt></ruby>会社が3日<ruby>遅<rt>おく</rt></ruby>れるって言ってるんですけど、どうしたらいいですか?」 |
+|  | *Anh Dũng, em hỏi chút... nhà in nói trễ 3 ngày, mình phải làm sao ạ?* |
+| **ズン** | 「いつ連絡来た?どこの<ruby>印刷<rt>いんさつ</rt></ruby>会社?何が<ruby>遅<rt>おく</rt></ruby>れる?<ruby>代替<rt>だいたい</rt></ruby>業者は<ruby>探<rt>さが</rt></ruby>した?他のチームは過去に同じ問題なかった?」 |
+|  | *Khi nào họ báo? Nhà in nào? Cái gì trễ? Em đã tìm nhà cung cấp khác chưa? Team trước có gặp chưa?* |
 | **リン** | 「あ、えっと…まだ何も…」 |
-| **ズン** | 「リン、相談する前に最低3つは揃えて: ①5W1H、②過去事例、③自分の仮説。今その状態だと、僕がリンの代わりに調査することになる。」 |
+|  | *À, em... chưa làm gì cả...* |
+| **ズン** | 「リン、<ruby>相談<rt>そうだん</rt></ruby>する前に最低3つは<ruby>揃<rt>そろ</rt></ruby>えて: ①5W1H、②過去<ruby>事例<rt>じれい</rt></ruby>、③自分の<ruby>仮説<rt>かせつ</rt></ruby>。今その状態だと、僕がリンの代わりに<ruby>調査<rt>ちょうさ</rt></ruby>することになる。」 |
+|  | *Linh, trước khi tham vấn phải có tối thiểu 3 thứ: 5W1H, case quá khứ, giả thuyết của em. Trạng thái hiện tại thì anh phải điều tra thay em đó.* |
 
 **Vì sao xấu:** L1 là 丸投げ (đẩy hết). L2 sếp phải tự hỏi 5 câu = đảo ngược vai trò. L4 chỉ ra: tham vấn không phải để sếp điều tra hộ.
 
@@ -2097,19 +2284,25 @@ Em Linh (intern Marketing) gặp vấn đề: nhà cung cấp print brochure bá
 
 ## ✅ Hội thoại TỐT — chuẩn bị 3 bộ vật liệu
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **リン** | 「ズンさん、ご相談したいことがあるのですが、5分ほどお時間よろしいでしょうか?事前に状況・参考事例・仮説をまとめてあります【1】。」 |
+| **リン** | 「ズンさん、ご<ruby>相談<rt>そうだん</rt></ruby>したいことがあるのですが、5分ほどお時間よろしいでしょうか?<ruby>事前<rt>じぜん</rt></ruby>に<ruby>状況<rt>じょうきょう</rt></ruby>・<ruby>参考事例<rt>さんこうじれい</rt></ruby>・<ruby>仮説<rt>かせつ</rt></ruby>をまとめてあります【1】。」 |
+|  | *Anh Dũng, em có việc muốn tham vấn, anh cho em 5 phút được không ạ? Em đã chuẩn bị sẵn tình huống, case tham chiếu và giả thuyết ạ.* |
 | **ズン** | 「ばっちり、聞きます。」 |
-| **リン** | 「**①状況 (5W1H):** 4/22 16時、印刷会社A社から電話。Phase2 ローンチ用ブロシュア500部、4/25納品予定が4/28に変更。理由は『紙の供給遅れ』。【2】」 |
-| **リン** | 「**②参考事例:** (a) 昨年 Marketing チームで類似ケース — B社で代替印刷、コスト+10%。(b) 社内 Wiki で印刷会社リスト3社確認。(c) C社・D社にも電話済、C社は4/26納品可能・コスト同等、D社は4/24納品可能・コスト+15%。【3】」 |
-| **リン** | 「**③仮説:** C社で代替するのが最適と考えております。理由は納品遅れが1日のみ + コスト同等のためです。ただし契約変更の権限が私にないため、ご判断をお願いいたします【4】。」 |
-| **ズン** | 「完璧な相談だね。仮説に賛成、C社で進めて。契約変更はチームメールで僕も入れて。」 |
+|  | *Tuyệt, anh nghe đây.* |
+| **リン** | 「**①状況 (5W1H):** 4/22 16時、<ruby>印刷<rt>いんさつ</rt></ruby>会社A社から電話。Phase2 ローンチ用<ruby>ブロシュア<rt>ぶろしゅあ</rt></ruby>500部、4/25<ruby>納品<rt>のうひん</rt></ruby>予定が4/28に変更。理由は『紙の<ruby>供給<rt>きょうきゅう</rt></ruby><ruby>遅<rt>おく</rt></ruby>れ』。【2】」 |
+|  | *[Tình huống] 16h ngày 22/4, nhà in A gọi điện. 500 bản brochure dùng cho launch Phase 2, lịch giao 25/4 đổi thành 28/4. Lý do "thiếu giấy".* |
+| **リン** | 「**②参考事例:** (a) 昨年 Marketing チームで類似ケース — B社で<ruby>代替<rt>だいたい</rt></ruby><ruby>印刷<rt>いんさつ</rt></ruby>、コスト+10%。(b) 社内 Wiki で<ruby>印刷<rt>いんさつ</rt></ruby>会社リスト3社<ruby>確認<rt>かくにん</rt></ruby>。(c) C社・D社にも電話<ruby>済<rt>ず</rt></ruby>、C社は4/26<ruby>納品<rt>のうひん</rt></ruby>可能・コスト<ruby>同等<rt>どうとう</rt></ruby>、D社は4/24<ruby>納品<rt>のうひん</rt></ruby>可能・コスト+15%。【3】」 |
+|  | *[Case tham chiếu] (a) Năm ngoái team Marketing đã gặp tương tự — đổi sang nhà B, cost +10%. (b) Wiki nội bộ có list 3 nhà in. (c) Em đã gọi C và D: C giao 26/4 cost tương đương, D giao 24/4 cost +15%.* |
+| **リン** | 「**③仮説:** C社で<ruby>代替<rt>だいたい</rt></ruby>するのが<ruby>最適<rt>さいてき</rt></ruby>と考えております。理由は<ruby>納品<rt>のうひん</rt></ruby><ruby>遅<rt>おく</rt></ruby>れが1日のみ + コスト<ruby>同等<rt>どうとう</rt></ruby>のためです。ただし<ruby>契約<rt>けいやく</rt></ruby>変更の<ruby>権限<rt>けんげん</rt></ruby>が私にないため、ご<ruby>判断<rt>はんだん</rt></ruby>をお願いいたします【4】。」 |
+|  | *[Giả thuyết] Em nghĩ chuyển sang nhà C là tốt nhất. Lý do: chỉ trễ 1 ngày + cost tương đương. Nhưng em không có quyền đổi hợp đồng, nhờ anh quyết ạ.* |
+| **ズン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>な<ruby>相談<rt>そうだん</rt></ruby>だね。<ruby>仮説<rt>かせつ</rt></ruby>に<ruby>賛成<rt>さんせい</rt></ruby>、C社で進めて。<ruby>契約<rt>けいやく</rt></ruby>変更はチームメールで僕も入れて。」 |
+|  | *Tham vấn hoàn hảo. Anh đồng ý giả thuyết của em, chốt nhà C. Mail thay đổi hợp đồng nhớ CC anh.* |
 
 📝 **Ghi chú:**
 - 【1】**「事前に状況・参考事例・仮説をまとめてあります」** — 1 câu mở đã show 3 bộ vật liệu. Sếp biết ngay là tham vấn nghiêm túc.
 - 【2】**①5W1H** — Linh đã có sẵn date/time/quantity/reason. Sếp không phải hỏi lại.
-- 【3】**②3 case** — internal precedent + alternative options đã call. Đây là phần khó nhất nhưng then chốt: show đã tự research.
+- 【3】**②3 trường hợp** — tiền lệ nội bộ + các phương án thay thế đã gọi điện. Đây là phần khó nhất nhưng then chốt: cho thấy đã tự tìm hiểu.
 - 【4】**③仮説 + 自分にない権限** — Linh đề xuất phương án + nói rõ tại sao tham vấn (権限). Đây không phải 丸投げ mà là tham vấn để duyệt.
 
 ---
@@ -2125,10 +2318,10 @@ Em Linh (intern Marketing) gặp vấn đề: nhà cung cấp print brochure bá
    Why:     Nguyên nhân (theo bên kia / theo mình)
    How:     Quy mô / mức độ
 
-□ ② 3 case tham chiếu
-   (a) Internal precedent:    Team có từng gặp chưa?
-   (b) External reference:    Google/Wiki/Docs có gì?
-   (c) Alternative options:   Em đã thử / call thêm những cái nào?
+□ ② 3 trường hợp tham chiếu
+   (a) Tiền lệ nội bộ:        Team có từng gặp chưa?
+   (b) Nguồn tham chiếu:      Google/Wiki/Tài liệu có gì?
+   (c) Phương án thay thế:    Em đã thử / gọi thêm những cái nào?
 
 □ ③ 仮説 (giả thuyết)
    - Phương án em nghĩ tốt nhất là gì?
@@ -2168,7 +2361,7 @@ Em Linh (intern Marketing) gặp vấn đề: nhà cung cấp print brochure bá
 
 # Rule 24 — Cách mở lời tham vấn cấp trên / 上司への切り出し
 
-> **Luận điểm.** Câu mở lời quyết định 70% chất lượng buổi tham vấn. Mở lời sai → sếp ngắt giữa chừng hoặc reschedule. Công thức 4 thành phần: **(1) Title sếp + (2) Báo có việc tham vấn + (3) Hỏi xin thời gian (1-2 từ về khoảng) + (4) Lý do urgency hoặc topic ngắn**. Mẫu chuẩn: 「**ご相談したいことがあるのですが、今お時間〇分ほどよろしいでしょうか?**」
+> **Luận điểm.** Câu mở lời quyết định 70% chất lượng buổi tham vấn. Mở lời sai → sếp ngắt giữa chừng hoặc dời lịch. Công thức 4 thành phần: **(1) Chức danh sếp + (2) Báo có việc tham vấn + (3) Hỏi xin thời gian (1-2 từ về khoảng) + (4) Lý do khẩn cấp hoặc chủ đề ngắn**. Mẫu chuẩn: 「**ご相談したいことがあるのですが、今お時間〇分ほどよろしいでしょうか?**」
 >
 > 切り出しの定型：「ご相談したいことがあるのですが、今(〇分ほど)お時間よろしいでしょうか?」ない時間枠＋話題短く。
 >
@@ -2178,7 +2371,7 @@ Em Linh (intern Marketing) gặp vấn đề: nhà cung cấp print brochure bá
 
 ## Bối cảnh / 場面
 
-Em Dũng cần tham vấn anh Hà CTO về việc chọn AWS region cho production. Lần đầu bám đuôi anh Hà ở hành lang. Lần 2 dùng pattern chuẩn.
+Em Dũng cần tham vấn anh Hà CTO về việc chọn AWS region cho production. Lần đầu bám đuôi anh Hà ở hành lang. Lần 2 dùng công thức chuẩn.
 
 ---
 
@@ -2186,14 +2379,18 @@ Em Dũng cần tham vấn anh Hà CTO về việc chọn AWS region cho producti
 
 *bắt anh Hà ở hành lang · đang vội đi họp*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「あ、ハーCTO、ちょっと…AWS リージョンの話で…」 |
-| **ハーCTO** | 「すみません、今会議に向かう途中で…」 |
-| **ズン** | 「あ、すぐ終わります、東京と大阪どっちが…」 |
-| **ハーCTO** | 「ズン、相談は **時間と話題の長さ** を先に伝えて。今はリ無理。15時以降で予定取って。」 |
+| **ズン** | 「あ、ハーCTO、ちょっと…AWS <ruby>リージョン<rt>りーじょん</rt></ruby>の話で…」 |
+|  | *À, anh Hà CTO, một chút thôi... vụ AWS region...* |
+| **ハーCTO** | 「すみません、今<ruby>会議<rt>かいぎ</rt></ruby>に向かう<ruby>途中<rt>とちゅう</rt></ruby>で…」 |
+|  | *Xin lỗi, anh đang trên đường đi họp...* |
+| **ズン** | 「あ、すぐ終わります、<ruby>東京<rt>とうきょう</rt></ruby>と<ruby>大阪<rt>おおさか</rt></ruby>どっちが…」 |
+|  | *À, em nói nhanh thôi, Tokyo hay Osaka cái nào...* |
+| **ハーCTO** | 「ズン、<ruby>相談<rt>そうだん</rt></ruby>は **時間と<ruby>話題<rt>わだい</rt></ruby>の長さ** を先に伝えて。今は<ruby>無理<rt>むり</rt></ruby>。15時以降で<ruby>予定<rt>よてい</rt></ruby>取って。」 |
+|  | *Dũng, tham vấn phải báo trước thời gian và độ dài chủ đề. Bây giờ không được. Lấy lịch sau 15h.* |
 
-**Vì sao xấu:** L1 bắt sếp lúc đang đi (không hỏi xem có rảnh không) + topic mơ hồ. L3 cố ép sếp dừng lại — không respect time. L4 chỉ ra: phải hỏi giờ trước.
+**Vì sao xấu:** L1 bắt sếp lúc đang đi (không hỏi xem có rảnh không) + chủ đề mơ hồ. L3 cố ép sếp dừng lại — không tôn trọng thời gian của sếp. L4 chỉ ra: phải hỏi giờ trước.
 
 ---
 
@@ -2201,17 +2398,20 @@ Em Dũng cần tham vấn anh Hà CTO về việc chọn AWS region cho producti
 
 *Slack DM 14:30 · Slack 14:45 · 16時、会議室B*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「ハーCTO、お疲れ様です。**ご相談したいことがあるのですが、本日中に15分ほどお時間いただけますでしょうか?**【1】 トピックは『Phase 3 の AWS リージョン選定 (東京 vs 大阪)』、判断材料として **3社見積 + ベンチマーク結果を準備済**です【2】。緊急度は中(今週中の決定で間に合う)です【3】。」 |
+| **ズン** | 「ハーCTO、お疲れ様です。**ご<ruby>相談<rt>そうだん</rt></ruby>したいことがあるのですが、<ruby>本日中<rt>ほんじつちゅう</rt></ruby>に15分ほどお時間いただけますでしょうか?**【1】 トピックは『Phase 3 の AWS リージョン<ruby>選定<rt>せんてい</rt></ruby> (東京 vs 大阪)』、<ruby>判断材料<rt>はんだんざいりょう</rt></ruby>として **3社<ruby>見積<rt>みつもり</rt></ruby> + ベンチマーク結果を<ruby>準備済<rt>じゅんびずみ</rt></ruby>**です【2】。<ruby>緊急度<rt>きんきゅうど</rt></ruby>は中(<ruby>今週中<rt>こんしゅうちゅう</rt></ruby>の<ruby>決定<rt>けってい</rt></ruby>で間に合う)です【3】。」 |
+|  | *Anh Hà CTO, em chào anh ạ. Em có việc muốn tham vấn, anh dành cho em 15 phút trong hôm nay được không ạ? Chủ đề là 'Chọn AWS region cho Phase 3 (Tokyo vs Osaka)', em đã chuẩn bị 3 báo giá + kết quả benchmark làm dữ kiện. Mức khẩn cấp trung bình (chốt trong tuần là kịp) ạ.* |
 | **ハーCTO** | 「16時から15分なら取れます。会議室Bで。」 |
+|  | *16h anh có 15 phút. Phòng họp B nhé.* |
 | **ズン** | 「ハーCTO、お忙しい中ありがとうございます。それでは、AWSリージョン選定の件、ご相談させていただきます【4】。」 |
+|  | *Anh Hà CTO, cảm ơn anh đã dành thời gian dù bận ạ. Vậy em xin phép tham vấn về chọn AWS region ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**「ご相談したいことがあるのですが、〇分ほどお時間…」** — pattern chuẩn. 「〇分ほど」 cho sếp ước lượng được — không "ちょっと" mơ hồ.
-- 【2】**Topic + 判断材料** — 1 dòng cho sếp biết tham vấn về cái gì, đã có dữ kiện gì. Sếp tự ước lượng được mức độ phức tạp.
-- 【3】**緊急度 (中/低/高)** — sếp ưu tiên đúng. Không nói = sếp tự coi là "low".
-- 【4】**「ご相談させていただきます」** — câu mở khi vào phòng. Lịch sự, formal. (「ご相談する」 cũng đúng, nhưng 「ご相談したい」 + 「のですが」 mềm hơn cho cấp trên).
+- 【1】**「ご相談したいことがあるのですが、〇分ほどお時間…」** — công thức chuẩn. 「〇分ほど」 cho sếp ước lượng được — không 「ちょっと」 mơ hồ.
+- 【2】**Chủ đề + 判断材料** — 1 dòng cho sếp biết tham vấn về cái gì, đã có dữ kiện gì. Sếp tự ước lượng được mức độ phức tạp.
+- 【3】**緊急度 (trung/thấp/cao)** — sếp ưu tiên đúng. Không nói = sếp tự coi là mức thấp.
+- 【4】**「ご相談させていただきます」** — câu mở khi vào phòng. Lịch sự, trang trọng. (「ご相談する」 cũng đúng, nhưng 「ご相談したい」 + 「のですが」 mềm hơn cho cấp trên).
 
 ---
 
@@ -2219,10 +2419,10 @@ Em Dũng cần tham vấn anh Hà CTO về việc chọn AWS region cho producti
 
 | Channel | Câu mở | Ghi chú |
 |---------|--------|---------|
-| Slack DM (async) | 「ご相談したいことがあるのですが、〇〇までに〇分ほどお時間いただけますでしょうか?トピック: 〇〇」 | Có thể hỏi "khi nào" thay vì "now". |
-| Đứng dậy đến bàn sếp | 「〇〇副部長、今〇分ほどお時間よろしいでしょうか?〇〇のご相談です」 | Phải xem sếp đang gì rồi mới approach. |
-| Sếp đang gọi điện / họp | KHÔNG approach. Slack DM. | Không bao giờ ngắt. |
-| Hành lang gặp tình cờ | 「お疲れ様です、〇〇のご相談で〇分ほど時間取りたいのですが、本日中で可能でしょうか?」 | Hỏi schedule, không ép tại chỗ. |
+| Slack DM (bất đồng bộ) | 「ご相談したいことがあるのですが、〇〇までに〇分ほどお時間いただけますでしょうか?トピック: 〇〇」 | Có thể hỏi "khi nào" thay vì "ngay bây giờ". |
+| Đứng dậy đến bàn sếp | 「〇〇副部長、今〇分ほどお時間よろしいでしょうか?〇〇のご相談です」 | Phải xem sếp đang làm gì rồi mới lại gần. |
+| Sếp đang gọi điện / họp | KHÔNG lại gần. Slack DM. | Không bao giờ ngắt. |
+| Hành lang gặp tình cờ | 「お疲れ様です、〇〇のご相談で〇分ほど時間取りたいのですが、本日中で可能でしょうか?」 | Hỏi lịch hẹn, không ép tại chỗ. |
 
 ---
 
@@ -2230,15 +2430,15 @@ Em Dũng cần tham vấn anh Hà CTO về việc chọn AWS region cho producti
 
 > **「ご相談したいことがあるのですが、〇分ほどお時間よろしいでしょうか?トピック:〇〇、緊急度:〇〇」**
 >
-> *Time + Topic + Urgency = 3 thông tin tối thiểu trong câu mở.*
+> *Thời gian + Chủ đề + Mức khẩn cấp = 3 thông tin tối thiểu trong câu mở.*
 
 ---
 
 ## ⚠ Tránh
 
-- 「ちょっと…」「すぐ終わるんですけど…」 — mơ hồ time, sếp không ước lượng được.
-- Bắt sếp đang đi / đang gọi điện / đang code deep work — phải Slack DM trước.
-- Câu mở có topic dài 5 dòng — sếp chưa đồng ý đã bị nghe lan man.
+- 「ちょっと…」「すぐ終わるんですけど…」 — mơ hồ thời gian, sếp không ước lượng được.
+- Bắt sếp đang đi / đang gọi điện / đang code tập trung sâu — phải Slack DM trước.
+- Câu mở có chủ đề dài 5 dòng — sếp chưa đồng ý đã bị nghe lan man.
 - 「相談したい」 đơn thuần — thiếu kính ngữ + thiếu hỏi thời gian. Phải 「ご相談したい」+「いただけますでしょうか」.
 
 ---
@@ -2255,11 +2455,11 @@ Em Dũng cần tham vấn anh Hà CTO về việc chọn AWS region cho producti
 | 相談させていただきます | そうだんさせていただきます | Em xin phép tham vấn (formal) |
 
 
-# Rule 25 — Hỏi judgment material thay vì hỏi đáp án / 答えではなく判断材料を求める
+# Rule 25 — Hỏi dữ kiện ra quyết định thay vì hỏi đáp án / 答えではなく判断材料を求める
 
-> **Luận điểm.** Junior thường hỏi 「どうしたらいいですか?」 → mong sếp ra **đáp án**. Pattern này biến tham vấn thành "đẩy quyết định". Pattern đúng: hỏi **判断材料** — "em đang nghĩ A và B, anh thấy thế nào?" / "có yếu tố nào em chưa tính tới không?" / "anh từng gặp tình huống tương tự thì xử lý ra sao?". Sếp giúp **bồi thêm dữ kiện**, junior **vẫn là người ra quyết định**.
+> **Luận điểm.** Nhân viên trẻ thường hỏi 「どうしたらいいですか?」 → mong sếp ra **đáp án**. Công thức này biến tham vấn thành "đẩy quyết định". Công thức đúng: hỏi **判断材料** (dữ kiện ra quyết định) — "em đang nghĩ A và B, anh thấy thế nào?" / "có yếu tố nào em chưa tính tới không?" / "anh từng gặp tình huống tương tự thì xử lý ra sao?". Sếp giúp **bồi thêm dữ kiện**, nhân viên trẻ **vẫn là người ra quyết định**.
 >
-> 答えを聞かず、判断材料を聞く。「AかBで悩んでいます。〇〇の観点で見落としはありますか?」が黄金パターン。
+> 答えを聞かず、<ruby>判断材料<rt>はんだんざいりょう</rt></ruby>を聞く。「AかBで<ruby>悩<rt>なや</rt></ruby>んでいます。〇〇の<ruby>観点<rt>かんてん</rt></ruby>で<ruby>見落<rt>みお</rt></ruby>としはありますか?」が<ruby>黄金<rt>おうごん</rt></ruby>パターン。
 >
 > **Liên quan:** rule 23 (準備), rule 26 (複数案), rule 28 (受ける側).
 
@@ -2267,43 +2467,53 @@ Em Dũng cần tham vấn anh Hà CTO về việc chọn AWS region cho producti
 
 ## Bối cảnh / 場面
 
-Em Dũng tham vấn chị Hương về việc deploy vào weekend (rủi ro nhưng tránh peak hour) hay weekday morning (an toàn nhưng có thể gây downtime cho user). Lần đầu Dũng hỏi đáp án. Lần 2 hỏi judgment material.
+Em Dũng tham vấn chị Hương về việc deploy vào cuối tuần (rủi ro nhưng tránh giờ cao điểm) hay sáng đầu tuần (an toàn nhưng có thể gây gián đoạn cho người dùng). Lần đầu Dũng hỏi đáp án. Lần 2 hỏi dữ kiện ra quyết định.
 
 ---
 
 ## ❌ Hội thoại XẤU — hỏi đáp án thuần
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、Phase 2 のリリース、土曜にしますか?月曜にしますか?どっちがいいですか?」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、Phase 2 のリリース、<ruby>土曜<rt>どよう</rt></ruby>にしますか?<ruby>月曜<rt>げつよう</rt></ruby>にしますか?どっちがいいですか?」 |
+|  | *Chị Hương, release Phase 2 thứ Bảy hay thứ Hai? Cái nào hơn ạ?* |
 | **フオン** | 「で、あなたはどっちがいいと思ってるの?」 |
+|  | *Vậy em nghĩ cái nào hơn?* |
 | **ズン** | 「えっと…分からなくて…」 |
-| **フオン** | 「ズン、私が決めるんじゃない。あなたが決める。私の役割は **見落としを指摘** すること。仮説と判断材料を持ってきて。」 |
+|  | *Ờ... em chưa biết...* |
+| **フオン** | 「ズン、私が決めるんじゃない。あなたが決める。私の<ruby>役割<rt>やくわり</rt></ruby>は **<ruby>見落<rt>みお</rt></ruby>としを<ruby>指摘<rt>してき</rt></ruby>** すること。<ruby>仮説<rt>かせつ</rt></ruby>と<ruby>判断材料<rt>はんだんざいりょう</rt></ruby>を持ってきて。」 |
+|  | *Dũng, không phải chị quyết. Em quyết. Vai trò chị là chỉ ra cái em bỏ sót. Mang giả thuyết và dữ kiện đến.* |
 
 **Vì sao xấu:** L1 hỏi đáp án trắng đen, không có tư duy của bản thân. L2 chị Hương đảo lại — "em nghĩ thế nào?". L4 cốt lõi: sếp không phải để ra đáp án, mà để **bồi dữ kiện**.
 
 ---
 
-## ✅ Hội thoại TỐT — hỏi判断材料
+## ✅ Hội thoại TỐT — hỏi 判断材料 (dữ kiện ra quyết định)
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、Phase 2 リリース時期について、A『土曜深夜』とB『月曜早朝』で悩んでおります。私は B 寄りなのですが、見落としがないか **判断材料を補強** していただきたく存じます【1】。」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、Phase 2 リリース<ruby>時期<rt>じき</rt></ruby>について、A『<ruby>土曜深夜<rt>どようしんや</rt></ruby>』とB『<ruby>月曜早朝<rt>げつようそうちょう</rt></ruby>』で<ruby>悩<rt>なや</rt></ruby>んでおります。私は B <ruby>寄<rt>よ</rt></ruby>りなのですが、<ruby>見落<rt>みお</rt></ruby>としがないか **<ruby>判断材料<rt>はんだんざいりょう</rt></ruby>を<ruby>補強<rt>ほきょう</rt></ruby>** していただきたく<ruby>存<rt>ぞん</rt></ruby>じます【1】。」 |
+|  | *Chị Hương, về thời điểm release Phase 2 em đang phân vân giữa A 'đêm thứ Bảy' và B 'sáng thứ Hai'. Em đang nghiêng về B, nhưng không biết có bỏ sót gì không, mong chị bồi thêm dữ kiện cho em ạ.* |
 | **フオン** | 「うん、続けて。」 |
-| **ズン** | 「**A 土曜深夜:** メリット = ユーザー影響最小、デメリット = エンジニア稼働 + 障害時呼び出し体制が薄い。**B 月曜早朝:** メリット = フル体制で対応、デメリット = AM ピーク時に近く障害時の影響大【2】。」 |
-| **ズン** | 「過去 Phase 1 のデプロイは月曜早朝でした。**観点として、お客様の月曜業務影響をどう評価すべきか** がポイントかと思っております【3】。」 |
-| **フオン** | 「その観点正しい。追加で、松本様サイドが月曜午前に毎週定例会あるから、リリース直後に何かあると会議中に騒ぎになる。それを考えると土曜深夜+待機体制が現実的。私は土曜推し。最終判断は ズン。」 |
-| **ズン** | 「ありがとうございます。土曜深夜 + トゥアン待機体制で進めます【4】。」 |
+|  | *Ừ, em nói tiếp.* |
+| **ズン** | 「**A <ruby>土曜深夜<rt>どようしんや</rt></ruby>:** メリット = ユーザー<ruby>影響最小<rt>えいきょうさいしょう</rt></ruby>、デメリット = エンジニア<ruby>稼働<rt>かどう</rt></ruby> + <ruby>障害時<rt>しょうがいじ</rt></ruby><ruby>呼<rt>よ</rt></ruby>び<ruby>出<rt>だ</rt></ruby>し<ruby>体制<rt>たいせい</rt></ruby>が<ruby>薄<rt>うす</rt></ruby>い。**B <ruby>月曜早朝<rt>げつようそうちょう</rt></ruby>:** メリット = フル<ruby>体制<rt>たいせい</rt></ruby>で<ruby>対応<rt>たいおう</rt></ruby>、デメリット = AM ピーク<ruby>時<rt>じ</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>く<ruby>障害時<rt>しょうがいじ</rt></ruby>の<ruby>影響大<rt>えいきょうだい</rt></ruby>【2】。」 |
+|  | *A đêm thứ Bảy: Lợi = ảnh hưởng user tối thiểu, Hại = phải làm thêm + nếu sự cố thì khó gọi người trực. B sáng thứ Hai: Lợi = full team xử lý, Hại = gần peak AM, sự cố thì ảnh hưởng lớn.* |
+| **ズン** | 「<ruby>過去<rt>かこ</rt></ruby> Phase 1 のデプロイは<ruby>月曜早朝<rt>げつようそうちょう</rt></ruby>でした。**<ruby>観点<rt>かんてん</rt></ruby>として、お<ruby>客様<rt>きゃくさま</rt></ruby>の<ruby>月曜業務影響<rt>げつようぎょうむえいきょう</rt></ruby>をどう<ruby>評価<rt>ひょうか</rt></ruby>すべきか** がポイントかと思っております【3】。」 |
+|  | *Phase 1 lần trước em deploy sáng thứ Hai. Theo em axis cần xét là đánh giá ảnh hưởng tới công việc thứ Hai của khách thế nào ạ.* |
+| **フオン** | 「その<ruby>観点<rt>かんてん</rt></ruby>正しい。<ruby>追加<rt>ついか</rt></ruby>で、<ruby>松本様<rt>まつもとさま</rt></ruby>サイドが<ruby>月曜午前<rt>げつようごぜん</rt></ruby>に<ruby>毎週定例会<rt>まいしゅうていれいかい</rt></ruby>あるから、リリース<ruby>直後<rt>ちょくご</rt></ruby>に何かあると<ruby>会議中<rt>かいぎちゅう</rt></ruby>に<ruby>騒<rt>さわ</rt></ruby>ぎになる。それを考えると<ruby>土曜深夜<rt>どようしんや</rt></ruby>+<ruby>待機体制<rt>たいきたいせい</rt></ruby>が<ruby>現実的<rt>げんじつてき</rt></ruby>。私は<ruby>土曜推<rt>どようお</rt></ruby>し。<ruby>最終判断<rt>さいしゅうはんだん</rt></ruby>は ズン。」 |
+|  | *Axis đó đúng. Bổ sung: phía anh Matsumoto sáng thứ Hai có định kỳ tuần, nên release xong mà có sự cố thì họp đang ồn lên. Tính cả cái đó thì đêm thứ Bảy + trực là thực tế. Chị nghiêng đêm thứ Bảy. Quyết cuối là Dũng.* |
+| **ズン** | 「ありがとうございます。<ruby>土曜深夜<rt>どようしんや</rt></ruby> + トゥアン<ruby>待機体制<rt>たいきたいせい</rt></ruby>で<ruby>進<rt>すす</rt></ruby>めます【4】。」 |
+|  | *Em cảm ơn chị. Em sẽ đi với đêm thứ Bảy + chế độ trực của anh Tuấn ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**「判断材料を補強していただきたく存じます」** — câu vàng. Show rằng Dũng tự ra quyết định, sếp chỉ giúp **add data**.
-- 【2】**A vs B với pros/cons** — 仮説 sẵn sàng. Sếp không phải tự nghĩ.
-- 【3】**「観点として〇〇」** — Dũng tự nêu axis cần xét. Mở đường cho sếp bồi axis mới.
-- 【4】**「進めます」** — Dũng vẫn là người quyết. Sếp đề xuất nhưng decision Dũng take.
+- 【1】**「判断材料を補強していただきたく存じます」** — câu vàng. Cho thấy Dũng tự ra quyết định, sếp chỉ giúp **bồi thêm dữ liệu**.
+- 【2】**A so với B kèm lợi/hại** — giả thuyết sẵn sàng. Sếp không phải tự nghĩ.
+- 【3】**「観点として〇〇」** — Dũng tự nêu góc nhìn cần xét. Mở đường cho sếp bồi góc nhìn mới.
+- 【4】**「進めます」** — Dũng vẫn là người quyết. Sếp đề xuất nhưng quyết định Dũng tự gánh.
 
 ---
 
-## 🪡 4 pattern câu hỏi 判断材料
+## 🪡 4 công thức câu hỏi 判断材料 (dữ kiện ra quyết định)
 
 ```
 Pattern 1: 見落とし系
@@ -2323,16 +2533,16 @@ Pattern 4: 重み付け系
 
 ## 🎯 Câu chốt
 
-> **「答えではなく判断材料を聞く。『AかBで悩んでいます。見落としはありますか?』が黄金パターン。決定はあくまで自分が下す。」**
+> **「答えではなく<ruby>判断材料<rt>はんだんざいりょう</rt></ruby>を聞く。『AかBで<ruby>悩<rt>なや</rt></ruby>んでいます。<ruby>見落<rt>みお</rt></ruby>としはありますか?』が<ruby>黄金<rt>おうごん</rt></ruby>パターン。<ruby>決定<rt>けってい</rt></ruby>はあくまで自分が<ruby>下<rt>くだ</rt></ruby>す。」**
 
 ---
 
 ## ⚠ Tránh
 
 - 「どっちがいいですか?」「正解はどれですか?」 — đẩy quyết định cho sếp.
-- 「分からないので教えてください」 thuần — không có 仮説 → tham vấn = giảng bài.
-- Hỏi 判断材料 mà sau đó vẫn refuse quyết → phải take ownership.
-- Nghe sếp xong rồi "じゃあ〇〇でやります" mà không tóm tại sao — show không suy nghĩ độc lập.
+- 「分からないので教えてください」 thuần — không có giả thuyết → tham vấn = giảng bài.
+- Hỏi 判断材料 mà sau đó vẫn từ chối quyết → phải tự gánh trách nhiệm.
+- Nghe sếp xong rồi "じゃあ〇〇でやります" mà không tóm tại sao — lộ ra không suy nghĩ độc lập.
 
 ---
 
@@ -2342,7 +2552,7 @@ Pattern 4: 重み付け系
 |------|------|-------|
 | 判断材料 | はんだんざいりょう | Dữ kiện ra quyết định |
 | 見落とし | みおとし | Bỏ sót |
-| 観点 | かんてん | Góc nhìn / axis đánh giá |
+| 観点 | かんてん | Góc nhìn / tiêu chí đánh giá |
 | 補強 | ほきょう | Bồi đắp / củng cố |
 | 重み付け | おもみづけ | Đánh trọng số |
 | デプロイ | depuroi | Deploy |
@@ -2351,7 +2561,7 @@ Pattern 4: 重み付け系
 
 # Rule 26 — Mang sẵn nhiều phương án / 複数案を持参
 
-> **Luận điểm.** Tham vấn 1 option = "duyệt giùm em" (đẩy quyết định). Tham vấn 2-3 options + pros/cons = "em đã suy nghĩ, sếp giúp chọn axis quan trọng nhất". Quy tắc: **tối thiểu 2, lý tưởng 3 options. Mỗi option có ① cost ② time ③ risk được lượng hóa**. Trong 3 options nên có 1 "**recommend案**" — option Dũng đề xuất + lý do.
+> **Luận điểm.** Tham vấn 1 phương án = "duyệt giùm em" (đẩy quyết định). Tham vấn 2-3 phương án + lợi/hại = "em đã suy nghĩ, sếp giúp chọn trục quan trọng nhất". Quy tắc: **tối thiểu 2, lý tưởng 3 phương án. Mỗi phương án có ① chi phí ② thời gian ③ rủi ro được lượng hóa**. Trong 3 phương án nên có 1 "**phương án đề xuất**" — phương án người tham vấn khuyên dùng + lý do.
 >
 > 相談には2〜3案を持参。各案にコスト・時間・リスクを定量化。1案だけは『判子押して』のサインで真の相談ではない。
 >
@@ -2367,58 +2577,65 @@ Em Hải tham vấn anh Tuấn về việc khắc phục bug performance API. L�
 
 ## ❌ Hội thoại XẤU — 1 phương án
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ハイ** | 「トゥアンさん、API 遅延の件、Redis キャッシュ追加で解決したいんですが、いいですか?」 |
-| **トゥアン** | 「それしか考えてないの?他の選択肢は?」 |
-| **ハイ** | 「えっと、これが一番速いかと…」 |
-| **トゥアン** | 「Redis 追加はインフラコスト+運用コストが乗る。クエリ最適化やインデックス追加で済む可能性もある。**最低3案** 持ってきて、コスト・時間・リスクを並べて比較。」 |
+| **ハイ** | 「トゥアンさん、API <ruby>遅延<rt>ちえん</rt></ruby>の<ruby>件<rt>けん</rt></ruby>、Redis キャッシュ<ruby>追加<rt>ついか</rt></ruby>で<ruby>解決<rt>かいけつ</rt></ruby>したいんですが、いいですか?」 |
+|  | *Anh Tuấn, vụ API chậm, em muốn thêm Redis cache cho xong, được không ạ?* |
+| **トゥアン** | 「それしか<ruby>考<rt>かんが</rt></ruby>えてないの?<ruby>他<rt>ほか</rt></ruby>の<ruby>選択肢<rt>せんたくし</rt></ruby>は?」 |
+|  | *Em chỉ nghĩ tới cái đó thôi à? Các phương án khác đâu?* |
+| **ハイ** | 「えっと、これが<ruby>一番<rt>いちばん</rt></ruby><ruby>速<rt>はや</rt></ruby>いかと…」 |
+|  | *Ờ, em nghĩ cái này nhanh nhất...* |
+| **トゥアン** | 「Redis <ruby>追加<rt>ついか</rt></ruby>はインフラコスト+<ruby>運用<rt>うんよう</rt></ruby>コストが<ruby>乗<rt>の</rt></ruby>る。クエリ<ruby>最適化<rt>さいてきか</rt></ruby>やインデックス<ruby>追加<rt>ついか</rt></ruby>で<ruby>済<rt>す</rt></ruby>む<ruby>可能性<rt>かのうせい</rt></ruby>もある。**<ruby>最低<rt>さいてい</rt></ruby>3<ruby>案<rt>あん</rt></ruby>** 持ってきて、コスト・<ruby>時間<rt>じかん</rt></ruby>・リスクを<ruby>並<rt>なら</rt></ruby>べて<ruby>比較<rt>ひかく</rt></ruby>。」 |
+|  | *Thêm Redis là tăng chi phí hạ tầng + chi phí vận hành. Có khi tối ưu query hoặc thêm index là xong. Mang tối thiểu 3 phương án đến, so sánh cost / time / risk đi.* |
 
-**Vì sao xấu:** L1 chỉ 1 option = không phải tham vấn mà là xin duyệt. L2 anh Tuấn hỏi axis đáng lẽ Hải tự nghĩ. L4 chỉ ra: cần 3 options + 3 trục so sánh.
+**Vì sao xấu:** L1 chỉ 1 phương án = không phải tham vấn mà là xin duyệt. L2 anh Tuấn hỏi trục so sánh đáng lẽ Hải tự nghĩ. L4 chỉ ra: cần 3 phương án + 3 trục so sánh.
 
 ---
 
-## ✅ Hội thoại TỐT — 3 options + matrix
+## ✅ Hội thoại TỐT — 3 phương án + bảng so sánh
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ハイ** | 「トゥアンさん、API 遅延の対応案を3つ準備しました。コスト・時間・リスクで比較しております【1】。」 |
-| **トゥアン** | 「いいね、見ます。」 |
-| **ハイ** | (画面共有) 「**案A: クエリ最適化** — コスト¥0、期間2日、リスク低 (既存ロジックに影響少)。**案B: インデックス追加** — コスト¥0、期間半日、リスク中 (本番デプロイ時の lock 時間)。**案C: Redis キャッシュ** — コスト+¥3万/月、期間5日、リスク高 (運用工数増 + キャッシュ不整合)【2】。」 |
-| **ハイ** | 「**推奨は案B (インデックス追加)** です。理由は半日で実装可能 + 既に index 候補が `EXPLAIN` で特定済み + コスト増なしのためです。リスク中はメンテナンスウィンドウで吸収可能と考えております【3】。」 |
-| **トゥアン** | 「分析正しい。Bで進めて。ただ、メンテナンスウィンドウは松本様の許可が要るから、ズンに依頼してね。」 |
+| **ハイ** | 「トゥアンさん、API <ruby>遅延<rt>ちえん</rt></ruby>の<ruby>対応案<rt>たいおうあん</rt></ruby>を3つ<ruby>準備<rt>じゅんび</rt></ruby>しました。コスト・<ruby>時間<rt>じかん</rt></ruby>・リスクで<ruby>比較<rt>ひかく</rt></ruby>しております【1】。」 |
+|  | *Anh Tuấn, em đã chuẩn bị 3 phương án xử lý API chậm. Em so sánh theo cost / time / risk ạ.* |
+| **トゥアン** | 「いいね、<ruby>見<rt>み</rt></ruby>ます。」 |
+|  | *OK, anh xem.* |
+| **ハイ** | (<ruby>画面共有<rt>がめんきょうゆう</rt></ruby>) 「**<ruby>案<rt>あん</rt></ruby>A: クエリ<ruby>最適化<rt>さいてきか</rt></ruby>** — コスト¥0、<ruby>期間<rt>きかん</rt></ruby>2<ruby>日<rt>にち</rt></ruby>、リスク<ruby>低<rt>てい</rt></ruby> (<ruby>既存<rt>きそん</rt></ruby>ロジックに<ruby>影響<rt>えいきょう</rt></ruby><ruby>少<rt>しょう</rt></ruby>)。**<ruby>案<rt>あん</rt></ruby>B: インデックス<ruby>追加<rt>ついか</rt></ruby>** — コスト¥0、<ruby>期間<rt>きかん</rt></ruby><ruby>半日<rt>はんにち</rt></ruby>、リスク<ruby>中<rt>ちゅう</rt></ruby> (<ruby>本番<rt>ほんばん</rt></ruby>デプロイ<ruby>時<rt>じ</rt></ruby>の lock <ruby>時間<rt>じかん</rt></ruby>)。**<ruby>案<rt>あん</rt></ruby>C: Redis キャッシュ** — コスト+¥3<ruby>万<rt>まん</rt></ruby>/<ruby>月<rt>つき</rt></ruby>、<ruby>期間<rt>きかん</rt></ruby>5<ruby>日<rt>にち</rt></ruby>、リスク<ruby>高<rt>こう</rt></ruby> (<ruby>運用工数<rt>うんようこうすう</rt></ruby><ruby>増<rt>ぞう</rt></ruby> + キャッシュ<ruby>不整合<rt>ふせいごう</rt></ruby>)【2】。」 |
+|  | *[A] Tối ưu query: cost 0¥, 2 ngày, risk thấp (ít ảnh hưởng logic cũ). [B] Thêm index: cost 0¥, nửa ngày, risk trung (lock khi deploy production). [C] Redis cache: +30k¥/tháng, 5 ngày, risk cao (tăng chi phí vận hành + cache không nhất quán).* |
+| **ハイ** | 「**<ruby>推奨<rt>すいしょう</rt></ruby>は<ruby>案<rt>あん</rt></ruby>B (インデックス<ruby>追加<rt>ついか</rt></ruby>)** です。<ruby>理由<rt>りゆう</rt></ruby>は<ruby>半日<rt>はんにち</rt></ruby>で<ruby>実装<rt>じっそう</rt></ruby><ruby>可能<rt>かのう</rt></ruby> + <ruby>既<rt>すで</rt></ruby>に index <ruby>候補<rt>こうほ</rt></ruby>が `EXPLAIN` で<ruby>特定済<rt>とくていず</rt></ruby>み + コスト<ruby>増<rt>ぞう</rt></ruby>なしのためです。リスク<ruby>中<rt>ちゅう</rt></ruby>はメンテナンスウィンドウで<ruby>吸収<rt>きゅうしゅう</rt></ruby><ruby>可能<rt>かのう</rt></ruby>と<ruby>考<rt>かんが</rt></ruby>えております【3】。」 |
+|  | *Em recommend B (thêm index). Lý do: nửa ngày là xong + đã EXPLAIN ra ứng viên index + không tăng cost. Risk trung thì hấp thụ bằng maintenance window được ạ.* |
+| **トゥアン** | 「<ruby>分析<rt>ぶんせき</rt></ruby><ruby>正<rt>ただ</rt></ruby>しい。Bで<ruby>進<rt>すす</rt></ruby>めて。ただ、メンテナンスウィンドウは<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>の<ruby>許可<rt>きょか</rt></ruby>が<ruby>要<rt>い</rt></ruby>るから、ズンに<ruby>依頼<rt>いらい</rt></ruby>してね。」 |
+|  | *Phân tích đúng. Đi với B đi. Nhưng maintenance window phải xin phép anh Matsumoto, em nhờ Dũng nhé.* |
 
 📝 **Ghi chú:**
-- 【1】**「3つ準備、コスト・時間・リスクで比較」** — câu mở show ngay format. Anh Tuấn biết chuẩn bị nghiêm túc.
-- 【2】**Matrix 3×3** — 3 options × 3 trục (cost / time / risk). Định lượng: ¥0, 2 ngày, low. Không 「ほぼ」「だいたい」.
-- 【3】**「推奨は案B」 + lý do** — Dũng/Hải đã có ý kiến. Sếp confirm hoặc thách thức, không phải nghĩ thay.
+- 【1】**「3つ準備、コスト・時間・リスクで比較」** — câu mở cho thấy ngay cấu trúc trình bày. Anh Tuấn biết Hải chuẩn bị nghiêm túc.
+- 【2】**Bảng so sánh 3×3** — 3 phương án × 3 trục (chi phí / thời gian / rủi ro). Định lượng: ¥0, 2 ngày, thấp. Không 「ほぼ」「だいたい」.
+- 【3】**「推奨は案B」 + lý do** — Hải đã có ý kiến rõ. Sếp chỉ xác nhận hoặc phản biện, không phải nghĩ thay.
 
 ---
 
-## 🎯 Matrix template
+## 🎯 Mẫu bảng so sánh
 
-```
-                  | Cost      | Time   | Risk          | Notes
-─────────────────┼───────────┼────────┼───────────────┼─────────────────
-案A: 〇〇          | ¥〇      | 〇日   | 低/中/高     | 〇〇
-案B: 〇〇 ⭐推奨  | ¥〇      | 〇日   | 低/中/高     | 〇〇
-案C: 〇〇          | ¥〇      | 〇日   | 低/中/高     | 〇〇
-```
+| Phương án | Chi phí | Thời gian | Rủi ro | Ghi chú |
+|-----------|---------|-----------|--------|---------|
+| 案A: 〇〇 | ¥〇 | 〇日 | 低/中/高 | 〇〇 |
+| 案B: 〇〇 ⭐推奨 | ¥〇 | 〇日 | 低/中/高 | 〇〇 |
+| 案C: 〇〇 | ¥〇 | 〇日 | 低/中/高 | 〇〇 |
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「最低2案、理想は3案。各案にコスト・時間・リスクを定量化。1案は『推奨』マーク + 理由 1〜2行。」**
+> **「<ruby>最低<rt>さいてい</rt></ruby>2<ruby>案<rt>あん</rt></ruby>、<ruby>理想<rt>りそう</rt></ruby>は3<ruby>案<rt>あん</rt></ruby>。<ruby>各案<rt>かくあん</rt></ruby>にコスト・<ruby>時間<rt>じかん</rt></ruby>・リスクを<ruby>定量化<rt>ていりょうか</rt></ruby>。1<ruby>案<rt>あん</rt></ruby>は『<ruby>推奨<rt>すいしょう</rt></ruby>』マーク + <ruby>理由<rt>りゆう</rt></ruby> 1〜2<ruby>行<rt>ぎょう</rt></ruby>。」**
 
 ---
 
 ## ⚠ Tránh
 
-- 1 option duy nhất → không phải tham vấn, là xin duyệt.
-- 3 options nhưng 2 cái dummy (rõ ràng tệ) — sếp nhận ra ngay là gian lận.
+- 1 phương án duy nhất → không phải tham vấn, là xin duyệt.
+- 3 phương án nhưng 2 cái bù nhìn (rõ ràng tệ) — sếp nhận ra ngay là gian lận.
 - 「リスク低」「コスト安い」 mơ hồ — phải số ¥, ngày, %.
-- Recommend yếu kiểu 「どれでもいいです」 — không có ý kiến = không suy nghĩ.
+- Đề xuất yếu kiểu 「どれでもいいです」 — không có ý kiến = không suy nghĩ.
 
 ---
 
@@ -2438,7 +2655,7 @@ Em Hải tham vấn anh Tuấn về việc khắc phục bug performance API. L�
 
 # Rule 27 — Lưu log tham vấn / 相談ログ
 
-> **Luận điểm.** Tham vấn miệng → quyết định → 1 tháng sau ai cũng quên. Khi vấn đề tương tự xảy ra, team lại tham vấn lần nữa = lãng phí. Phải có **Decision Register** (相談ログ): mỗi tham vấn có quyết định ghi vào 1 dòng — **date / topic / options considered / chosen / rationale / reviewer**. Sau 6 tháng → repository tri thức team. Cũng là 防衛 (phòng vệ): khi sếp hoặc khách hỏi "tại sao quyết thế?" → mở log ra, không phải dò trí nhớ.
+> **Luận điểm.** Tham vấn miệng → quyết định → 1 tháng sau ai cũng quên. Khi vấn đề tương tự xảy ra, team lại tham vấn lần nữa = lãng phí. Phải có **Decision Register** (相談ログ): mỗi tham vấn có quyết định ghi vào 1 dòng — **date / topic / options considered / chosen / rationale / reviewer**. Sau 6 tháng → kho tri thức của team. Cũng là 防衛 (phòng vệ): khi sếp hoặc khách hỏi "tại sao quyết thế?" → mở log ra, không phải dò trí nhớ.
 >
 > 相談ログ = decision register。1相談1行：日付・論点・検討案・採用案・理由・承認者。Notion / Confluence / Sheets で団体運用。
 >
@@ -2454,15 +2671,20 @@ Cuối tháng. Anh Hà CTO hỏi: "tại sao Phase 2 dùng MySQL chứ không Po
 
 ## ❌ Hội thoại XẤU — không có log
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ハーCTO** | 「ズン、Phase 3 設計レビューで疑問が出た。Phase 2 で MySQL 採用したのはなぜ?」 |
-| **ズン** | 「えっと…3ヶ月前に決めたんですが…理由は…ちょっと記憶が…」 |
-| **ハーCTO** | 「Slack を遡る? どのチャネル?」 |
-| **ズン** | 「#phase2-tech だったか #db-選定 だったか…」(1時間後)「あ、ありました!松本様の運用チームが MySQL 慣れてるからでした…」 |
-| **ハーCTO** | 「決定事項は **Decision Register に1行残す**。1時間使うのは無駄。Notion テンプレ送るから今日中に整備して。」 |
+| **ハーCTO** | 「ズン、Phase 3 <ruby>設計<rt>せっけい</rt></ruby>レビューで<ruby>疑問<rt>ぎもん</rt></ruby>が出た。Phase 2 で MySQL <ruby>採用<rt>さいよう</rt></ruby>したのはなぜ?」 |
+|  | *Dũng, có thắc mắc khi review thiết kế Phase 3. Tại sao Phase 2 lại chọn MySQL?* |
+| **ズン** | 「えっと…3ヶ月前に決めたんですが…<ruby>理由<rt>りゆう</rt></ruby>は…ちょっと<ruby>記憶<rt>きおく</rt></ruby>が…」 |
+|  | *Ờ... 3 tháng trước quyết... lý do... em chưa nhớ ra...* |
+| **ハーCTO** | 「Slack を<ruby>遡<rt>さかのぼ</rt></ruby>る? どのチャネル?」 |
+|  | *Đào Slack à? Channel nào?* |
+| **ズン** | 「#phase2-tech だったか #db-<ruby>選定<rt>せんてい</rt></ruby> だったか…」(1時間後)「あ、ありました!<ruby>松本<rt>まつもと</rt></ruby>様の<ruby>運用<rt>うんよう</rt></ruby>チームが MySQL <ruby>慣<rt>な</rt></ruby>れてるからでした…」 |
+|  | *#phase2-tech hay #db-選定 nhỉ... (1 giờ sau) À có rồi ạ! Vì team vận hành anh Matsumoto quen MySQL ạ...* |
+| **ハーCTO** | 「<ruby>決定事項<rt>けっていじこう</rt></ruby>は **Decision Register に1行残す**。1時間使うのは<ruby>無駄<rt>むだ</rt></ruby>。Notion テンプレ送るから今日中に<ruby>整備<rt>せいび</rt></ruby>して。」 |
+|  | *Việc đã quyết phải lưu 1 dòng vào Decision Register. Mất 1 giờ là lãng phí. Anh sẽ gửi template Notion, em build trong hôm nay.* |
 
-**Vì sao xấu:** L2 trí nhớ không đáng tin sau 3 tháng. L4 đào Slack 1 giờ. L5 chỉ ra: phải có log structured.
+**Vì sao xấu:** L2 trí nhớ không đáng tin sau 3 tháng. L4 đào Slack 1 giờ. L5 chỉ ra: phải có log có cấu trúc.
 
 ---
 
@@ -2470,13 +2692,18 @@ Cuối tháng. Anh Hà CTO hỏi: "tại sao Phase 2 dùng MySQL chứ không Po
 
 *共有画面*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ハーCTO** | 「Phase 3 設計レビューで疑問。Phase 2 で MySQL 採用したのはなぜ?」 |
-| **ズン** | 「Decision Register をご確認ください。**DR-2026-0118** の1行です【1】。」 |
-| **ズン** | 「日付:2026/1/18 / 論点:Phase 2 DB選定 / 検討案:①MySQL ②Postgres ③DynamoDB / 採用:MySQL / 理由:松本様運用チームが MySQL 経験豊富 + ライセンスコスト低 + Phase 1 連携容易 / 承認者:ハーCTO + フオン副部長 / リスク:水平分散時の制約【2】。」 |
-| **ハーCTO** | 「完璧。これがあれば 30 秒で議論できる。Phase 3 でも継続して。」 |
-| **ズン** | 「はい。**今週分も明日 EOD までに3件追加します**: AWS リージョン、デプロイ時間帯、印刷会社変更です【3】。」 |
+| **ハーCTO** | 「Phase 3 設計レビューで<ruby>疑問<rt>ぎもん</rt></ruby>。Phase 2 で MySQL <ruby>採用<rt>さいよう</rt></ruby>したのはなぜ?」 |
+|  | *Review Phase 3 có thắc mắc. Tại sao Phase 2 chọn MySQL?* |
+| **ズン** | 「Decision Register をご<ruby>確認<rt>かくにん</rt></ruby>ください。**DR-2026-0118** の1行です【1】。」 |
+|  | *Anh xem Decision Register giúp em ạ. Là dòng DR-2026-0118 ạ.* |
+| **ズン** | 「<ruby>日付<rt>ひづけ</rt></ruby>:2026/1/18 / <ruby>論点<rt>ろんてん</rt></ruby>:Phase 2 DB<ruby>選定<rt>せんてい</rt></ruby> / <ruby>検討案<rt>けんとうあん</rt></ruby>:①MySQL ②Postgres ③DynamoDB / <ruby>採用<rt>さいよう</rt></ruby>:MySQL / <ruby>理由<rt>りゆう</rt></ruby>:<ruby>松本<rt>まつもと</rt></ruby>様<ruby>運用<rt>うんよう</rt></ruby>チームが MySQL <ruby>経験豊富<rt>けいけんほうふ</rt></ruby> + ライセンスコスト<ruby>低<rt>てい</rt></ruby> + Phase 1 <ruby>連携容易<rt>れんけいようい</rt></ruby> / <ruby>承認者<rt>しょうにんしゃ</rt></ruby>:ハーCTO + フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby> / リスク:<ruby>水平分散時<rt>すいへいぶんさんじ</rt></ruby>の<ruby>制約<rt>せいやく</rt></ruby>【2】。」 |
+|  | *Date: 18/1/2026 / Topic: chọn DB Phase 2 / Options xét: MySQL / Postgres / DynamoDB / Chọn: MySQL / Lý do: team vận hành anh Matsumoto quen MySQL + chi phí license thấp + dễ tích hợp Phase 1 / Duyệt: anh Hà CTO + chị Hương / Risk: hạn chế khi cần phân tán ngang.* |
+| **ハーCTO** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。これがあれば 30 秒で<ruby>議論<rt>ぎろん</rt></ruby>できる。Phase 3 でも<ruby>継続<rt>けいぞく</rt></ruby>して。」 |
+|  | *Hoàn hảo. Có cái này thì tranh luận 30 giây xong. Phase 3 cũng duy trì nhé.* |
+| **ズン** | 「はい。**今週分も明日 EOD までに3件<ruby>追加<rt>ついか</rt></ruby>します**: AWS リージョン、デプロイ<ruby>時間帯<rt>じかんたい</rt></ruby>、<ruby>印刷会社変更<rt>いんさつがいしゃへんこう</rt></ruby>です【3】。」 |
+|  | *Vâng. Tuần này em sẽ thêm 3 dòng trước EOD ngày mai: AWS region, thời điểm deploy, đổi nhà in ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**「DR-2026-0118 の1行」** — Decision Register có ID code. Sếp có thể tra cứu ngay.
@@ -2515,7 +2742,7 @@ Cuối tháng. Anh Hà CTO hỏi: "tại sao Phase 2 dùng MySQL chứ không Po
 
 # Rule 28 — Khi mình là người được tham vấn / 相談を受ける側
 
-> **Luận điểm.** Khi junior tham vấn, **đừng đáp án ngay**. Pattern coaching đúng: **(1) Lặp lại tóm tắt vấn đề (active listening), (2) Hỏi 仮説 của junior trước, (3) Bồi axis junior chưa nghĩ tới, (4) Để junior tự kết luận, (5) Confirm decision + ghi DR**. Trả lời thẳng = junior không học, lần sau lại tham vấn cùng vấn đề.
+> **Luận điểm.** Khi junior tham vấn, **đừng đáp án ngay**. Công thức coaching đúng: **(1) Lặp lại tóm tắt vấn đề (active listening), (2) Hỏi 仮説 (giả thuyết) của junior trước, (3) Bồi axis junior chưa nghĩ tới, (4) Để junior tự kết luận, (5) Xác nhận quyết định + ghi DR**. Trả lời thẳng = junior không học, lần sau lại tham vấn cùng vấn đề.
 >
 > 相談を受ける時：①要約復唱→②相談者の仮説確認→③欠けている観点を1つ追加→④決定は相談者に下させる→⑤DR化。即答はコーチング失敗。
 >
@@ -2533,35 +2760,47 @@ Em Linh tham vấn anh Dũng về việc chọn template email cho khách Nhật
 
 *không nghĩ · 2週間後 — Linh tham vấn cùng pattern lần nữa · 自覚*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **リン** | 「ズンさん、Phase 2 の挨拶メール、テンプレ A と B どっちがいいですか?」 |
+| **リン** | 「ズンさん、Phase 2 の<ruby>挨拶<rt>あいさつ</rt></ruby>メール、テンプレ A と B どっちがいいですか?」 |
+|  | *Anh Dũng, mail chào Phase 2, template A hay B hơn ạ?* |
 | **ズン** | 「B にして。」 |
+|  | *Em dùng B đi.* |
 | **リン** | 「分かりました!」 |
-|  | 「Phase 3 の挨拶メールも、A と B どっちですか?」 |
-| **ズン** | 「あ、僕がただ答えるだけだと、Linh が判断軸を学べないんだ。次から coaching mode で受けないと…」 |
+|  | *Em hiểu rồi ạ!* |
+|  | 「Phase 3 の<ruby>挨拶<rt>あいさつ</rt></ruby>メールも、A と B どっちですか?」 |
+|  | *(2 tuần sau) Mail chào Phase 3 nữa, A hay B ạ?* |
+| **ズン** | 「あ、<ruby>僕<rt>ぼく</rt></ruby>がただ<ruby>答<rt>こた</rt></ruby>えるだけだと、Linh が<ruby>判断軸<rt>はんだんじく</rt></ruby>を<ruby>学<rt>まな</rt></ruby>べないんだ。次から coaching mode で<ruby>受<rt>う</rt></ruby>けないと…」 |
+|  | *À, nếu mình cứ trả lời thẳng thế thì Linh không học được axis. Từ lần sau phải nhận tham vấn theo trạng thái coaching mới được...* |
 
-**Vì sao xấu:** L2 trả lời 1 từ → Linh không hiểu **tại sao** B. L4 lần sau lại tham vấn cùng kiểu = không grow. Coaching = teach how to fish, không phải give fish.
+**Vì sao xấu:** L2 trả lời 1 từ → Linh không hiểu **tại sao** B. L4 lần sau lại tham vấn cùng kiểu = không trưởng thành. Coaching = dạy cách câu cá, không phải đưa con cá.
 
 ---
 
 ## ✅ Hội thoại TỐT — coaching pattern 5 step
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **リン** | 「ズンさん、Phase 2 の挨拶メール、テンプレ A と B どっちがいいですか?」 |
-| **ズン** | 「**①要約: AとBで迷っているということだね**【1】。**②リン自身の仮説**は?どっちに寄ってる、その理由は?」 |
-| **リン** | 「えっと、A はフォーマル度が高くて、B は親しみやすい感じです…松本様は5回目の取引なので…B 寄りかな…」 |
-| **ズン** | 「**③観点を追加すると、『Phase 2 はキックオフ局面』**で、新規スコープへの真剣さも示したい。その軸を入れると?」 |
-| **リン** | 「あ、なるほど…キックオフだとフォーマルさも残したい…**A をベースに、最後の1段落だけ親しみやすい表現に変える**のがいいかも【2】。」 |
-| **ズン** | 「**④良い結論。それで進めて**【3】。**⑤Decision Register に1行残しておいて**: 論点・検討案・採用・理由・観点【4】。来週レビューするね。」 |
-| **リン** | 「ありがとうございます!次回からこの観点で自分で判断できそうです!」 |
+| **リン** | 「ズンさん、Phase 2 の<ruby>挨拶<rt>あいさつ</rt></ruby>メール、テンプレ A と B どっちがいいですか?」 |
+|  | *Anh Dũng, mail chào Phase 2, template A hay B hơn ạ?* |
+| **ズン** | 「**①<ruby>要約<rt>ようやく</rt></ruby>: AとBで<ruby>迷<rt>まよ</rt></ruby>っているということだね**【1】。**②リン<ruby>自身<rt>じしん</rt></ruby>の<ruby>仮説<rt>かせつ</rt></ruby>**は?どっちに<ruby>寄<rt>よ</rt></ruby>ってる、その<ruby>理由<rt>りゆう</rt></ruby>は?」 |
+|  | *[Tóm tắt] Em đang phân vân giữa A và B đúng không. [Giả thuyết của Linh] Em nghiêng cái nào, lý do gì?* |
+| **リン** | 「えっと、A はフォーマル<ruby>度<rt>ど</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くて、B は<ruby>親<rt>した</rt></ruby>しみやすい<ruby>感<rt>かん</rt></ruby>じです…<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>は5<ruby>回目<rt>かいめ</rt></ruby>の<ruby>取引<rt>とりひき</rt></ruby>なので…B 寄りかな…」 |
+|  | *Ờ, A formal cao, B thân thiện hơn... anh Matsumoto đã hợp tác lần thứ 5 rồi... em nghiêng B...* |
+| **ズン** | 「**③<ruby>観点<rt>かんてん</rt></ruby>を<ruby>追加<rt>ついか</rt></ruby>すると、『Phase 2 はキックオフ<ruby>局面<rt>きょくめん</rt></ruby>』**で、<ruby>新規<rt>しんき</rt></ruby>スコープへの<ruby>真剣<rt>しんけん</rt></ruby>さも<ruby>示<rt>しめ</rt></ruby>したい。その<ruby>軸<rt>じく</rt></ruby>を<ruby>入<rt>い</rt></ruby>れると?」 |
+|  | *[Thêm axis] Phase 2 là giai đoạn kickoff, mình cũng muốn cho thấy sự nghiêm túc với scope mới. Đưa axis đó vào thì sao?* |
+| **リン** | 「あ、なるほど…キックオフだとフォーマルさも<ruby>残<rt>のこ</rt></ruby>したい…**A をベースに、<ruby>最後<rt>さいご</rt></ruby>の1<ruby>段落<rt>だんらく</rt></ruby>だけ<ruby>親<rt>した</rt></ruby>しみやすい<ruby>表現<rt>ひょうげん</rt></ruby>に<ruby>変<rt>か</rt></ruby>える**のがいいかも【2】。」 |
+|  | *À đúng rồi... kickoff thì cũng muốn giữ formal... Em nghĩ lấy A làm gốc, đoạn cuối đổi sang phong cách thân thiện thôi ạ.* |
+| **ズン** | 「**④<ruby>良<rt>よ</rt></ruby>い<ruby>結論<rt>けつろん</rt></ruby>。それで<ruby>進<rt>すす</rt></ruby>めて**【3】。**⑤Decision Register に1<ruby>行<rt>ぎょう</rt></ruby><ruby>残<rt>のこ</rt></ruby>しておいて**: <ruby>論点<rt>ろんてん</rt></ruby>・<ruby>検討案<rt>けんとうあん</rt></ruby>・<ruby>採用<rt>さいよう</rt></ruby>・<ruby>理由<rt>りゆう</rt></ruby>・<ruby>観点<rt>かんてん</rt></ruby>【4】。<ruby>来週<rt>らいしゅう</rt></ruby>レビューするね。」 |
+|  | *[Kết luận tốt] Em đi theo đó. [DR] Lưu 1 dòng vào Decision Register: luận điểm / options / chọn / lý do / axis. Tuần sau anh xem lại nhé.* |
+| **リン** | 「ありがとうございます!<ruby>次回<rt>じかい</rt></ruby>からこの観点で<ruby>自分<rt>じぶん</rt></ruby>で<ruby>判断<rt>はんだん</rt></ruby>できそうです!」 |
+|  | *Em cảm ơn anh! Lần sau với axis này em tự quyết được rồi ạ!* |
 
 📝 **Ghi chú:**
-- 【1】**「①要約復唱」** — active listening. Show "anh đang lắng nghe" + bắt buộc Linh confirm.
-- 【2】**「Aをベースに最後だけB」** — Linh tự nghĩ ra solution. Đây mới là điểm grow.
-- 【3】**「それで進めて」** — Dũng confirm nhưng không "thay quyết". Decision do Linh take.
-- 【4】**「DRに1行」** — đóng bằng learning artifact. Lần sau Linh có thể tham chiếu.
+- 【1】**「①要約復唱」** — active listening. Cho thấy "anh đang lắng nghe" + bắt buộc Linh xác nhận lại.
+- 【2】**「Aをベースに最後だけB」** — Linh tự nghĩ ra giải pháp. Đây mới là điểm giúp em trưởng thành.
+- 【3】**「それで進めて」** — Dũng duyệt nhưng không "thay quyết". Quyết định để Linh tự đưa ra.
+- 【4】**「DRに1行」** — đóng lại bằng tài sản học tập. Lần sau Linh có thể tham chiếu.
 
 ---
 
@@ -2586,9 +2825,9 @@ Em Linh tham vấn anh Dũng về việc chọn template email cho khách Nhật
 ## ⚠ Tránh
 
 - 即答 1 từ kiểu 「Bにして」 — junior không học axis.
-- Đảo lại quá phũ kiểu 「自分で考えて」 → junior shut down + lần sau không tham vấn.
+- Đảo lại quá phũ kiểu 「自分で考えて」 → junior co cụm lại + lần sau không tham vấn.
 - Cầm tay ép kiểu 「これしかない」 — không cho junior cơ hội nghĩ.
-- Bỏ ⑤ DR化 → tri thức bay theo gió, lần sau lại tham vấn lại cùng pattern.
+- Bỏ ⑤ DR化 → tri thức bay theo gió, lần sau lại tham vấn cùng vấn đề.
 
 ---
 
@@ -2608,7 +2847,7 @@ Em Linh tham vấn anh Dũng về việc chọn template email cho khách Nhật
 
 # Rule 29 — Tham vấn với khách / 客先への相談
 
-> **Luận điểm.** Tham vấn nội bộ và tham vấn với khách **khác hoàn toàn về tone**. Với khách Nhật, không bao giờ dùng 「相談したいことがあるんですが」 (casual với cấp trên nội bộ). Mẫu đúng: 「**ご相談させていただけますでしょうか**」 / 「**ご教示いただきたく存じます**」 — tone formal cao, khiêm nhường (謙譲語) tối đa. Cấu trúc: **(1) Lý do tham vấn** (vì khách rành hơn / vì cần input để tiến tiếp) **+ (2) Phạm vi tham vấn cụ thể** (không hỏi rộng) **+ (3) Khung thời gian khách thuận tiện**.
+> **Luận điểm.** Tham vấn nội bộ và tham vấn với khách **khác hoàn toàn về sắc thái lời nói**. Với khách Nhật, không bao giờ dùng 「相談したいことがあるんですが」 (suồng sã, chỉ hợp với cấp trên nội bộ). Mẫu đúng: 「**ご相談させていただけますでしょうか**」 / 「**ご教示いただきたく存じます**」 — sắc thái trang trọng cao, khiêm nhường (謙譲語) tối đa. Cấu trúc: **(1) Lý do tham vấn** (vì khách rành hơn / vì cần ý kiến để tiến tiếp) **+ (2) Phạm vi tham vấn cụ thể** (không hỏi rộng) **+ (3) Khung thời gian khách thuận tiện**.
 >
 > 客先相談の3要素：①相談理由（顧客の知見が必要）②相談範囲（焦点を絞る）③希望時間枠（顧客都合優先）。形式は最高敬語＋謙譲語。
 >
@@ -2618,68 +2857,75 @@ Em Linh tham vấn anh Dũng về việc chọn template email cho khách Nhật
 
 ## Bối cảnh / 場面
 
-Em Dũng cần tham vấn anh Matsumoto về việc nên dùng 線形 (linear) hay 段階的 (incremental) approach cho UAT Phase 2. Lần đầu Dũng dùng tone nội bộ. Lần 2 đúng formal pattern.
+Em Dũng cần tham vấn anh Matsumoto về việc nên dùng 線形 (linear) hay 段階的 (incremental) cho UAT Phase 2. Lần đầu Dũng dùng sắc thái nội bộ. Lần 2 đúng công thức trang trọng.
 
 ---
 
-## ❌ Hội thoại XẤU — tone nội bộ với khách
+## ❌ Hội thoại XẤU — sắc thái nội bộ với khách
 
 *Slack DM*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「松本様、UAT のやり方なんですけど、線形でやるか段階的でやるかちょっと相談したくて…」 |
-| **松本PM** | 「ズンさん、『ちょっと相談したくて…』は文末を切る不完全文で、客先ではかなり失礼に当たります。それに、何を判断材料にすべきかも示されていないと、こちらも答えようがありません。」 |
+| **ズン** | 「<ruby>松本<rt>まつもと</rt></ruby>様、UAT のやり方なんですけど、<ruby>線形<rt>せんけい</rt></ruby>でやるか<ruby>段階的<rt>だんかいてき</rt></ruby>でやるかちょっと<ruby>相談<rt>そうだん</rt></ruby>したくて…」 |
+|  | *Anh Matsumoto, vụ cách làm UAT, linear hay incremental, em muốn hỏi chút...* |
+| **松本PM** | 「ズンさん、『ちょっと相談したくて…』は<ruby>文末<rt>ぶんまつ</rt></ruby>を切る<ruby>不完全文<rt>ふかんぜんぶん</rt></ruby>で、<ruby>客先<rt>きゃくさき</rt></ruby>ではかなり<ruby>失礼<rt>しつれい</rt></ruby>に<ruby>当<rt>あ</rt></ruby>たります。それに、何を<ruby>判断材料<rt>はんだんざいりょう</rt></ruby>にすべきかも示されていないと、こちらも答えようがありません。」 |
+|  | *Dũng, 「ちょっと相談したくて…」 là câu cắt giữa chừng, không hoàn chỉnh, với khách thì khá thất lễ. Hơn nữa, nếu không nêu rõ cần xét theo dữ kiện gì thì tôi cũng không trả lời được.* |
 | **ズン** | 「すみません…」 |
-| **松本PM** | 「客先相談は形式が違います。『ご相談させていただけますでしょうか』+ 焦点 + 希望時間で。」 |
+|  | *Em xin lỗi ạ...* |
+| **松本PM** | 「<ruby>客先<rt>きゃくさき</rt></ruby><ruby>相談<rt>そうだん</rt></ruby>は<ruby>形式<rt>けいしき</rt></ruby>が違います。『ご相談させていただけますでしょうか』+ <ruby>焦点<rt>しょうてん</rt></ruby> + <ruby>希望<rt>きぼう</rt></ruby><ruby>時間<rt>じかん</rt></ruby>で。」 |
+|  | *Tham vấn với khách thì format khác. 「ご相談させていただけますでしょうか」 + tiêu điểm + thời gian mong muốn.* |
 
-**Vì sao xấu:** L1 「ちょっと相談したくて…」 cắt câu giữa chừng = lỗi manner nghiêm trọng (mức học sinh) khi nói với khách Nhật. Thêm vào, casual tone (đồng nghiệp Việt-Việt OK, khách Nhật KHÔNG). Không có scope, không có time. L4 chỉ ra: client-facing tone phải khác.
+**Vì sao xấu:** L1 「ちょっと相談したくて…」 cắt câu giữa chừng = lỗi lễ nghi nghiêm trọng (mức học sinh) khi nói với khách Nhật. Thêm vào đó, giọng suồng sã (đồng nghiệp Việt-Việt thì được, khách Nhật thì KHÔNG). Không có phạm vi, không có thời gian. L4 chỉ ra: sắc thái với khách phải khác.
 
 ---
 
-## ✅ Hội thoại TỐT — formal client tone
+## ✅ Hội thoại TỐT — sắc thái trang trọng với khách
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **L1** | **ズン** *(メール)* | 「松本様、お世話になっております。ティエンファットのズンでございます。  
-  **件名:【ご相談】Phase 2 UAT 進め方について**  
-  Phase 2 の UAT を進めるにあたり、**線形(全機能一括)** か **段階的(機能毎リリース)** かで方針を絞りきれず、**ご相談させていただけますでしょうか**【1】。  
-  特にお伺いしたいのは、**御社運用チームの検証リソース確保のしやすさ**でございます【2】。  
-  ご都合よろしい時に **15分ほどお時間頂戴できますと幸甚**です。今週後半 (4/24木 PM ~ 4/26土) のうち、ご都合の良い候補を3つお知らせいただけますと幸いです【3】。」 |
-| **L2** | **松本PM** *(返信)* | 「ご丁寧にありがとうございます。4/24 (木) 15:00 JST で30分いかがでしょうか。当方からも運用チームの実情をお話しします。」 |
-| **L3** | **ズン** *(会議で)* | 「松本様、本日はお時間頂戴し誠にありがとうございます。それでは、UAT 進め方についてご相談させていただきます【4】。」 |
+| **L1** | **ズン** *(メール)* | 「<ruby>松本<rt>まつもと</rt></ruby>様、お世話になっております。ティエンファットのズンでございます。  
+  **件名:【ご<ruby>相談<rt>そうだん</rt></ruby>】Phase 2 UAT 進め方について**  
+  Phase 2 の UAT を進めるにあたり、**<ruby>線形<rt>せんけい</rt></ruby>(<ruby>全機能<rt>ぜんきのう</rt></ruby><ruby>一括<rt>いっかつ</rt></ruby>)** か **<ruby>段階的<rt>だんかいてき</rt></ruby>(<ruby>機能毎<rt>きのうごと</rt></ruby>リリース)** かで<ruby>方針<rt>ほうしん</rt></ruby>を絞りきれず、**ご<ruby>相談<rt>そうだん</rt></ruby>させていただけますでしょうか**【1】。  
+  特にお<ruby>伺<rt>うかが</rt></ruby>いしたいのは、**<ruby>御社<rt>おんしゃ</rt></ruby><ruby>運用<rt>うんよう</rt></ruby>チームの<ruby>検証<rt>けんしょう</rt></ruby>リソース<ruby>確保<rt>かくほ</rt></ruby>のしやすさ**でございます【2】。  
+  ご<ruby>都合<rt>つごう</rt></ruby>よろしい時に **15分ほどお時間<ruby>頂戴<rt>ちょうだい</rt></ruby>できますと<ruby>幸甚<rt>こうじん</rt></ruby>**です。今週<ruby>後半<rt>こうはん</rt></ruby> (4/24木 PM ~ 4/26土) のうち、ご都合の良い<ruby>候補<rt>こうほ</rt></ruby>を3つお知らせいただけますと<ruby>幸<rt>さいわ</rt></ruby>いです【3】。」 |
+|  |  | *Anh Matsumoto, em xin chào. Em Dũng bên Thiên Phát đây ạ. [Tiêu đề] [Tham vấn] Về cách triển khai UAT Phase 2. Khi triển khai UAT Phase 2, em đang phân vân giữa linear (toàn bộ chức năng 1 lần) và incremental (release theo chức năng), em xin được tham vấn anh ạ. Đặc biệt em muốn hỏi về độ thuận tiện trong việc bố trí resource kiểm thử của team vận hành bên anh ạ. Anh dành cho em 15 phút khi nào tiện ạ. Trong nửa cuối tuần này (24/4 thứ Năm chiều - 26/4 thứ Bảy), phiền anh báo giúp em 3 lựa chọn thuận tiện ạ.* |
+| **L2** | **松本PM** *(返信)* | 「ご丁寧にありがとうございます。4/24 (木) 15:00 JST で30分いかがでしょうか。<ruby>当方<rt>とうほう</rt></ruby>からも<ruby>運用<rt>うんよう</rt></ruby>チームの<ruby>実情<rt>じつじょう</rt></ruby>をお話しします。」 |
+|  |  | *Cảm ơn em đã chu đáo. 24/4 thứ Năm 15:00 JST trong 30 phút có ổn không? Bên tôi cũng sẽ chia sẻ thực tế team vận hành.* |
+| **L3** | **ズン** *(会議で)* | 「<ruby>松本<rt>まつもと</rt></ruby>様、本日はお時間<ruby>頂戴<rt>ちょうだい</rt></ruby>し<ruby>誠<rt>まこと</rt></ruby>にありがとうございます。それでは、UAT 進め方についてご<ruby>相談<rt>そうだん</rt></ruby>させていただきます【4】。」 |
+|  |  | *Anh Matsumoto, em cảm ơn anh đã dành thời gian hôm nay ạ. Vậy em xin phép tham vấn về cách triển khai UAT ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**「ご相談させていただけますでしょうか」** — câu vàng client-facing. Khiêm nhường tối đa. Không "相談したい".
-- 【2】**Phạm vi cụ thể** — không hỏi rộng "anh nghĩ sao về UAT" mà focus 1 axis (運用リソース). Khách dễ trả lời + chuẩn bị trước.
-- 【3】**Khung thời gian + 候補3つお知らせいただける** — không ép giờ, hỏi 3 option của KHÁCH (không phải gửi 3 option của mình như reschedule). Formal cao.
-- 【4】**「ご相談させていただきます」** — câu mở khi vào meeting với khách. Tone đỉnh.
+- 【1】**「ご相談させていただけますでしょうか」** — câu vàng khi tham vấn với khách. Khiêm nhường tối đa. Không "相談したい".
+- 【2】**Phạm vi cụ thể** — không hỏi rộng "anh nghĩ sao về UAT" mà tập trung vào 1 điểm (運用リソース). Khách dễ trả lời + chuẩn bị trước.
+- 【3】**Khung thời gian + 候補3つお知らせいただける** — không ép giờ, hỏi 3 lựa chọn của KHÁCH (không phải gửi 3 lựa chọn của mình như khi dời lịch). Trang trọng cao.
+- 【4】**「ご相談させていただきます」** — câu mở khi vào buổi họp với khách. Sắc thái đỉnh cao.
 
 ---
 
-## 🎯 Khác biệt nội bộ vs client-facing
+## 🎯 Khác biệt nội bộ vs với khách
 
-| Yếu tố | Internal (rule 24) | Client-facing (rule 29) |
+| Yếu tố | Nội bộ (rule 24) | Với khách (rule 29) |
 |--------|---------------------|---------------------------|
 | Mở lời | 「ご相談したいことがあるのですが」 | 「ご相談させていただけますでしょうか」 |
 | Tham vấn 1 từ | 「相談」 | 「ご相談 / ご教示」 |
-| Time framing | 「15分ほどお時間…」 (tự đề xuất time) | 「ご都合の良い候補をお知らせください」 (hỏi time của khách) |
-| Phạm vi | Có thể rộng | Phải focus 1 điểm |
-| Tone | formal (副部長) | formal cao (謙譲語+丁寧語) |
+| Cách nêu thời gian | 「15分ほどお時間…」 (tự đề xuất giờ) | 「ご都合の良い候補をお知らせください」 (hỏi giờ của khách) |
+| Phạm vi | Có thể rộng | Phải tập trung 1 điểm |
+| Sắc thái | trang trọng (副部長) | trang trọng cao (謙譲語+丁寧語) |
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「ご相談させていただけますでしょうか + 焦点1つ + ご都合の良い候補をお知らせください」 = client-facing 相談3点セット。**
+> **「ご相談させていただけますでしょうか + 焦点1つ + ご都合の良い候補をお知らせください」 = bộ 3 yếu tố khi tham vấn với khách.**
 
 ---
 
 ## ⚠ Tránh
 
-- 「ちょっと相談…」「相談したい」 với khách — quá casual.
-- Câu hỏi rộng kiểu 「全体的にどう思われますか?」 — khách không biết focus đâu.
-- Tự ấn time kiểu 「明日10時でお願いします」 — chưa hỏi khách rảnh không.
+- 「ちょっと相談…」「相談したい」 với khách — quá suồng sã.
+- Câu hỏi rộng kiểu 「全体的にどう思われますか?」 — khách không biết tập trung vào đâu.
+- Tự ấn giờ kiểu 「明日10時でお願いします」 — chưa hỏi khách rảnh không.
 - 「教えてください」 thuần với khách — phải 「ご教示いただきたく存じます」.
 
 ---
@@ -2691,16 +2937,16 @@ Em Dũng cần tham vấn anh Matsumoto về việc nên dùng 線形 (linear) h
 | 客先 | きゃくさき | Phía khách |
 | ご相談 | ごそうだん | Tham vấn (kính ngữ) |
 | ご教示 | ごきょうじ | Xin chỉ giáo |
-| 幸甚 | こうじん | Hết sức cảm ơn (formal cao) |
+| 幸甚 | こうじん | Hết sức cảm ơn (trang trọng cao) |
 | 線形 | せんけい | Tuyến tính |
 | 段階的 | だんかいてき | Theo giai đoạn |
-| 検証リソース | けんしょうリソース | Resource kiểm thử |
+| 検証リソース | けんしょうリソース | Nguồn lực kiểm thử |
 | 焦点 | しょうてん | Tiêu điểm |
 
 
 # Rule 30 — Mang về tham vấn (持ち帰り) / 持ち帰り相談
 
-> **Luận điểm.** Sách 03 đã dạy 「持ち帰り検討」 với khách (rule 25/32). Sách 04 mở rộng: **sau khi mang về**, làm sao **vận hành** trong nội bộ? Pattern đúng: **(1) Convert lời khách thành 1 entry trong CSDL nội bộ** (Notion / Confluence / Slack channel chuyên cho 持ち帰り), **(2) Assign owner + deadline ngắn hơn deadline đã hứa khách** (buffer 1 ngày), **(3) Hold internal 相談会議 nếu cần**, **(4) Trước deadline 1 ngày, owner báo Dũng**, **(5) Dũng reply khách đúng deadline đã hứa**. Quy tắc: **持ち帰り = 1 ticket nội bộ, không phải 1 lời hứa miệng**.
+> **Luận điểm.** Sách 03 đã dạy 「持ち帰り検討」 với khách (rule 25/32). Sách 04 mở rộng: **sau khi mang về**, làm sao **vận hành** trong nội bộ? Công thức đúng: **(1) Chuyển lời khách thành 1 entry trong CSDL nội bộ** (Notion / Confluence / kênh Slack chuyên cho 持ち帰り), **(2) Giao owner + deadline ngắn hơn deadline đã hứa khách** (buffer 1 ngày), **(3) Tổ chức 相談会議 nội bộ nếu cần**, **(4) Trước deadline 1 ngày, owner báo Dũng**, **(5) Dũng phản hồi khách đúng deadline đã hứa**. Quy tắc: **持ち帰り = 1 ticket nội bộ, không phải 1 lời hứa miệng**.
 >
 > 持ち帰り運用5ステップ：①社内DB化 ②owner+期限(顧客約束より1日前)③社内会議 ④期限前日報告 ⑤客への回答。約束した『来週水曜』なら社内では『火曜EOD』。
 >
@@ -2710,45 +2956,54 @@ Em Dũng cần tham vấn anh Matsumoto về việc nên dùng 線形 (linear) h
 
 ## Bối cảnh / 場面
 
-Cuộc họp client xong, Dũng đã hứa anh Matsumoto: "**Phase 2 lock cost trong tuần này, em sẽ mang về tham vấn nội bộ và phản hồi anh trước thứ Tư 4/24 EOD**". Lần đầu Dũng chỉ note miệng. Lần 2 áp 5-step internal flow.
+Cuộc họp với khách xong, Dũng đã hứa anh Matsumoto: "**Phase 2 lock cost trong tuần này, em sẽ mang về tham vấn nội bộ và phản hồi anh trước thứ Tư 4/24 EOD**". Lần đầu Dũng chỉ ghi nhớ miệng. Lần 2 áp dụng quy trình nội bộ 5 bước.
 
 ---
 
-## ❌ Hội thoại XẤU — note miệng + quên
+## ❌ Hội thoại XẤU — ghi nhớ miệng + quên
 
-*thứ Hai 19h, sau họp với Matsumoto · Thứ Tư 14h, Slack từ Matsumoto · panic*
+*thứ Hai 19h, sau họp với Matsumoto · Thứ Tư 14h, Slack từ Matsumoto · hoảng loạn*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | (Trong đầu) 「水曜までに lock cost 回答…まあ、覚えとくか…」 |
-|  | 「ズンさん、本日 EOD まで lock cost のご回答お待ちしております。」 |
-| **ズン** | 「あ、忘れてた…」 (chạy lên hỏi chị Hương + anh Hà) |
-| **フオン** | 「ズン、客に持ち帰った件は **必ず Notion #持ち帰りボード に1枚チケット作る**。owner + 期限 (社内は前日)。今ハーCTO 不在で水曜EODは無理。明日に客にリスケ依頼かけて、社内は金曜 lock。」 |
+| **ズン** | (Trong đầu) 「<ruby>水曜<rt>すいよう</rt></ruby>までに lock cost <ruby>回答<rt>かいとう</rt></ruby>…まあ、<ruby>覚<rt>おぼ</rt></ruby>えとくか…」 |
+|  | *(Thứ Hai 19h, trong đầu) Trước thứ Tư phải reply lock cost... thôi nhớ trong đầu là được...* |
+| **松本PM** | 「ズンさん、<ruby>本日<rt>ほんじつ</rt></ruby> EOD まで lock cost のご<ruby>回答<rt>かいとう</rt></ruby>お<ruby>待<rt>ま</rt></ruby>ちしております。」 |
+|  | *(Thứ Tư 14h, Slack) Dũng, tôi đợi reply lock cost trước EOD hôm nay nhé.* |
+| **ズン** | 「あ、<ruby>忘<rt>わす</rt></ruby>れてた…」 (chạy lên hỏi chị Hương + anh Hà) |
+|  | *À, em quên mất...* |
+| **フオン** | 「ズン、<ruby>客<rt>きゃく</rt></ruby>に<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>った<ruby>件<rt>けん</rt></ruby>は **<ruby>必<rt>かなら</rt></ruby>ず Notion #持ち帰りボード に1枚チケット作る**。owner + <ruby>期限<rt>きげん</rt></ruby> (<ruby>社内<rt>しゃない</rt></ruby>は<ruby>前日<rt>ぜんじつ</rt></ruby>)。<ruby>今<rt>いま</rt></ruby>ハーCTO <ruby>不在<rt>ふざい</rt></ruby>で<ruby>水曜<rt>すいよう</rt></ruby>EODは<ruby>無理<rt>むり</rt></ruby>。<ruby>明日<rt>あした</rt></ruby>に<ruby>客<rt>きゃく</rt></ruby>にリスケ<ruby>依頼<rt>いらい</rt></ruby>かけて、<ruby>社内<rt>しゃない</rt></ruby>は<ruby>金曜<rt>きんよう</rt></ruby> lock。」 |
+|  | *Dũng, việc mang về từ khách bắt buộc phải tạo 1 ticket trong Notion #mochikaeri-board. Owner + deadline (nội bộ trước 1 ngày). Anh Hà CTO đi vắng nên thứ Tư EOD không kịp. Mai xin reschedule khách, nội bộ chốt thứ Sáu.* |
 
-**Vì sao xấu:** L1 chỉ note miệng = trí nhớ. L3 quên = phá nightmare scenario. Nội bộ chưa kịp tham vấn xong (anh Hà bận) → phải reschedule client = mất uy tín.
+**Vì sao xấu:** L1 chỉ ghi nhớ miệng = dựa trí nhớ. L3 quên = rơi vào tình huống tệ nhất. Nội bộ chưa kịp tham vấn xong (anh Hà bận) → phải xin dời lịch với khách = mất uy tín.
 
 ---
 
-## ✅ Hội thoại TỐT — 5-step internal flow
+## ✅ Hội thoại TỐT — 5 bước vận hành nội bộ
 
-| Speaker | Câu |
-|---------|-----|
-| **L1** | **ズン** *(Thứ Hai 19h, sau họp Matsumoto)* | *(Notion #持ち帰りボード に新規チケット)*  
-  「**TICKET-MOCH-2026-0421**: Phase 2 lock cost 回答 / **顧客約束**: 4/24 (水) EOD / **社内期限**: 4/23 (火) EOD【1】 / **owner**: ズン / **必要参加者**: ハーCTO + フオン副部長 + トゥアン / **判断材料**: 3社見積 + 過去Phase1実績 / **ステータス**: open」 |
-| **L2** | **ズン** *(Slack #内部相談)* | 「@ハーCTO @フオン @トゥアン 火曜 (4/23) 11:00-11:30 で持ち帰り相談セットしました。アジェンダと判断材料は TICKET-MOCH-2026-0421 をご確認ください【2】。」 |
-| **L3** | **ズン** *(火曜 11:30, 会議後)* | 「決定: 案B (¥18M)。Decision Register DR-2026-0423 起票。**月曜の予定通り、明日 EOD までに松本様へ回答メール送付します**【3】。」 |
-| **L4** | **ズン** *(水曜 16:00, メール松本様)* | 「松本様、お世話になっております。先日お持ち帰りした Phase 2 lock cost の件、社内検討の結果、**¥18M でご提案させていただけますでしょうか**。詳細は添付ファイルをご確認くださいませ。Phase 2 内 cost lock いただけますと幸いです【4】。」 |
-| **L5** | **松本PM** *(水曜 17:00)* | 「ご回答ありがとうございます。約束通りの期日でしたね。社内で検収しまして金曜までにお返事します。」 |
+| Bước | Vai / Tình huống | Câu |
+|---------|---------|-----|
+| **L1** | **ズン** *(Thứ Hai 19h, sau họp Matsumoto)* | *(Notion #持ち帰りボード に<ruby>新規<rt>しんき</rt></ruby>チケット)*  
+  「**TICKET-MOCH-2026-0421**: Phase 2 lock cost <ruby>回答<rt>かいとう</rt></ruby> / **<ruby>顧客約束<rt>こきゃくやくそく</rt></ruby>**: 4/24 (水) EOD / **<ruby>社内期限<rt>しゃないきげん</rt></ruby>**: 4/23 (火) EOD【1】 / **owner**: ズン / **<ruby>必要参加者<rt>ひつようさんかしゃ</rt></ruby>**: ハーCTO + フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby> + トゥアン / **<ruby>判断材料<rt>はんだんざいりょう</rt></ruby>**: 3社<ruby>見積<rt>みつもり</rt></ruby> + <ruby>過去<rt>かこ</rt></ruby>Phase1<ruby>実績<rt>じっせき</rt></ruby> / **ステータス**: open」 |
+|  |  | *(Thứ Hai 19h, mở ticket Notion) TICKET-MOCH-2026-0421: Reply lock cost Phase 2 / Hứa khách: EOD thứ Tư 24/4 / Deadline nội bộ: EOD thứ Ba 23/4 / Owner: Dũng / Người cần dự: Hà CTO + chị Hương + anh Tuấn / Dữ kiện: 3 báo giá + thực tích Phase 1 / Trạng thái: open.* |
+| **L2** | **ズン** *(Slack #内部相談)* | 「@ハーCTO @フオン @トゥアン <ruby>火曜<rt>かよう</rt></ruby> (4/23) 11:00-11:30 で<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>相談<rt>そうだん</rt></ruby>セットしました。アジェンダと<ruby>判断材料<rt>はんだんざいりょう</rt></ruby>は TICKET-MOCH-2026-0421 をご<ruby>確認<rt>かくにん</rt></ruby>ください【2】。」 |
+|  |  | *(Slack #naibu-soudan) @anh Hà CTO @chị Hương @anh Tuấn em đã set buổi tham vấn lúc 11:00-11:30 thứ Ba (23/4). Agenda và dữ kiện em đã ghi trong TICKET-MOCH-2026-0421 ạ.* |
+| **L3** | **ズン** *(火曜 11:30, 会議後)* | 「<ruby>決定<rt>けってい</rt></ruby>: <ruby>案<rt>あん</rt></ruby>B (¥18M)。Decision Register DR-2026-0423 <ruby>起票<rt>きひょう</rt></ruby>。**<ruby>月曜<rt>げつよう</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby><ruby>通<rt>どお</rt></ruby>り、<ruby>明日<rt>あした</rt></ruby> EOD までに<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>へ<ruby>回答<rt>かいとう</rt></ruby>メール<ruby>送付<rt>そうふ</rt></ruby>します**【3】。」 |
+|  |  | *(Thứ Ba 11:30, sau họp) Quyết: phương án B (¥18M). Mở DR-2026-0423 trong Decision Register. Đúng lịch thứ Hai, em sẽ gửi mail reply anh Matsumoto trước EOD ngày mai ạ.* |
+| **L4** | **ズン** *(水曜 16:00, メール松本様)* | 「<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>、お<ruby>世話<rt>せわ</rt></ruby>になっております。<ruby>先日<rt>せんじつ</rt></ruby>お<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りした Phase 2 lock cost の<ruby>件<rt>けん</rt></ruby>、<ruby>社内<rt>しゃない</rt></ruby><ruby>検討<rt>けんとう</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>、**¥18M でご<ruby>提案<rt>ていあん</rt></ruby>させていただけますでしょうか**。<ruby>詳細<rt>しょうさい</rt></ruby>は<ruby>添付<rt>てんぷ</rt></ruby>ファイルをご<ruby>確認<rt>かくにん</rt></ruby>くださいませ。Phase 2 <ruby>内<rt>ない</rt></ruby> cost lock いただけますと<ruby>幸<rt>さいわ</rt></ruby>いです【4】。」 |
+|  |  | *(Thứ Tư 16h, mail) Anh Matsumoto, lúc nào cũng cảm ơn anh. Việc lock cost Phase 2 hôm trước em đã mang về, sau khi tham vấn nội bộ, em xin đề xuất ¥18M ạ. Chi tiết em đính kèm file. Mong anh lock cost cho Phase 2 ạ.* |
+| **L5** | **松本PM** *(水曜 17:00)* | 「ご<ruby>回答<rt>かいとう</rt></ruby>ありがとうございます。<ruby>約束<rt>やくそく</rt></ruby><ruby>通<rt>どお</rt></ruby>りの<ruby>期日<rt>きじつ</rt></ruby>でしたね。<ruby>社内<rt>しゃない</rt></ruby>で<ruby>検収<rt>けんしゅう</rt></ruby>しまして<ruby>金曜<rt>きんよう</rt></ruby>までにお<ruby>返事<rt>へんじ</rt></ruby>します。」 |
+|  |  | *Cảm ơn em reply. Đúng ngày hứa nhỉ. Tôi sẽ check nội bộ và phản hồi trước thứ Sáu.* |
 
 📝 **Ghi chú:**
-- 【1】**社内期限 = 顧客期限 - 1日** — buffer chuẩn. Tránh case L4 trên (quên).
-- 【2】**TICKET ID + agenda link** — không spam Slack với chi tiết. 1 entry là source-of-truth.
-- 【3】**「月曜の予定通り」** — đảm bảo timeline so với hứa với khách. Báo cáo nội bộ rõ.
-- 【4】**「先日お持ち帰りした件」** — câu reference khách hiểu ngay. Câu mở chuẩn cho reply 持ち帰り.
+- 【1】**社内期限 = 顧客期限 - 1日** — buffer chuẩn. Tránh trường hợp L4 trên (quên).
+- 【2】**TICKET ID + link agenda** — không làm loạn Slack bằng chi tiết. 1 entry là nguồn tham chiếu duy nhất.
+- 【3】**「月曜の予定通り」** — đảm bảo tiến độ so với lời hứa với khách. Báo cáo nội bộ rõ.
+- 【4】**「先日お持ち帰りした件」** — câu tham chiếu để khách hiểu ngay. Câu mở chuẩn cho phản hồi 持ち帰り.
 
 ---
 
-## 🔄 5-step Flow
+## 🔄 Quy trình 5 bước
 
 ```
 ① 社内DB化:        Notion チケット作成 (ID + 顧客期限 + 社内期限 + owner + 判断材料)
@@ -2757,7 +3012,7 @@ Cuộc họp client xong, Dũng đã hứa anh Matsumoto: "**Phase 2 lock cost t
                    ↓
 ③ 社内相談会議:     必要参加者を集めて15-30分。Decision Register に1行
                    ↓
-④ 前日報告:         Dũng reply 顧客 trước. 内部チケット → ステータス = closed
+④ 前日報告:         Dũng phản hồi 顧客 trước. 内部チケット → ステータス = closed
                    ↓
 ⑤ 顧客回答:         「先日お持ち帰りした〇〇の件、〜」
 ```
@@ -2774,8 +3029,8 @@ Cuộc họp client xong, Dũng đã hứa anh Matsumoto: "**Phase 2 lock cost t
 
 - 「覚えてます」 → trí nhớ chắc chắn rớt sau 2 ngày.
 - 内部期限 = 顧客期限 → 0 buffer = một sự cố nhỏ là miss.
-- Không hold internal meeting → tham vấn miệng riêng từng người = info bất nhất quán.
-- Reply khách bằng casual tone — phải dùng 「先日お持ち帰りした件、社内検討の結果〜」 (rule 29).
+- Không tổ chức họp nội bộ → tham vấn miệng riêng từng người = thông tin không nhất quán.
+- Phản hồi khách bằng giọng suồng sã — phải dùng 「先日お持ち帰りした件、社内検討の結果〜」 (rule 29).
 
 ---
 
@@ -2800,7 +3055,7 @@ Cuộc họp client xong, Dũng đã hứa anh Matsumoto: "**Phase 2 lock cost t
 
 # Rule 31 — Phát hiện bug — Hou-Ren-Sou flow / バグ発見時
 
-> **Luận điểm.** Bug critical (production down / data corruption / security) là tình huống áp lực đỉnh. Phải có **quy trình xử lý leo thang định trước**: **(1) Detect → ngay** **(2) Slack #incident channel + tag Tuấn (Tech lead)** trong **5 phút**, **(3) Tuấn xác nhận severity → escalate Hà CTO** trong **15 phút**, **(4) Hà CTO + Dũng cùng draft thông báo + escalate Matsumoto** trong **30 phút**, **(5) Investigation + ETA** trong **60 phút**, **(6) Resolve + post-mortem** trong **24h**. Time limit per step = SLA team. Bỏ qua step = "đi tắt" → bê trễ chuỗi.
+> **Luận điểm.** Bug nghiêm trọng (production down / data corruption / security) là tình huống áp lực đỉnh. Phải có **quy trình xử lý leo thang định trước**: **(1) Phát hiện → ngay** **(2) Slack #incident channel + tag Tuấn (Tech lead)** trong **5 phút**, **(3) Tuấn xác nhận severity → escalate Hà CTO** trong **15 phút**, **(4) Hà CTO + Dũng cùng soạn thông báo + escalate Matsumoto** trong **30 phút**, **(5) Điều tra + ETA** trong **60 phút**, **(6) Khắc phục + post-mortem** trong **24h**. Mốc thời gian mỗi bước = SLA của team. Bỏ qua bước = "đi tắt" → bê trễ chuỗi.
 >
 > インシデント発見時の時間SLA：①検知0分→②Slack #incident + Tech lead 5分→③CTO 15分→④客通知 30分→⑤ETA 60分→⑥解決+post-mortem 24h。各ステップを飛ばすと連鎖遅延。
 >
@@ -2818,14 +3073,18 @@ Thứ Ba 22/4 14:30. Em Hải (DevOps) phát hiện production API trả 500 err
 
 *14:30 · 14:50, 20分後 · 15:30, 1時間後、Slack*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハイ** | (1人で) 「あれ、エラー多いな…とりあえずログ見てみよう…」 |
-|  | 「うーん、原因分からない…とりあえずもう少し調べよう…」 |
+|  | *(một mình) Ơ, error nhiều thật... để mình xem log đã...* |
+|  | 「うーん、<ruby>原因<rt>げんいん</rt></ruby>分からない…とりあえずもう少し<ruby>調<rt>しら</rt></ruby>べよう…」 |
+|  | *Ờm, chưa tìm ra nguyên nhân... để xem thêm chút...* |
 |  | 「@トゥアン、production API がエラー多いんですけど…」 |
-| **トゥアン** | 「**なんで1時間も黙ってた!?** 客に既に Twitter で晒されてるよ。フローを守って: 検知5分以内に #incident チャネル投稿。1人で抱え込むな。」 |
+|  | *@anh Tuấn, production API đang nhiều error ạ...* |
+| **トゥアン** | 「**なんで1時間も<ruby>黙<rt>だま</rt></ruby>ってた!?** <ruby>客<rt>きゃく</rt></ruby>に<ruby>既<rt>すで</rt></ruby>に Twitter で<ruby>晒<rt>さら</rt></ruby>されてるよ。フローを<ruby>守<rt>まも</rt></ruby>って: <ruby>検知<rt>けんち</rt></ruby>5分<ruby>以内<rt>いない</rt></ruby>に #incident チャネル<ruby>投稿<rt>とうこう</rt></ruby>。1人で<ruby>抱<rt>かか</rt></ruby>え込むな。」 |
+|  | *Sao em im 1 tiếng vậy!? Khách đã đăng trên Twitter rồi. Tuân quy trình đi: phát hiện trong 5 phút phải post #incident channel. Đừng tự ôm.* |
 
-**Vì sao xấu:** L1 1 mình điều tra 1 giờ — production critical incident không phải 1 người thử. L3 sau 1 tiếng = đã có user complaint trên social. L4 chỉ ra: tốc độ > tự tin "cứ tự xử".
+**Vì sao xấu:** L1 1 mình điều tra 1 giờ — sự cố nghiêm trọng trên production không phải để 1 người tự thử. L3 sau 1 tiếng = đã có khách phàn nàn trên mạng xã hội. L4 chỉ ra: tốc độ quan trọng hơn sự tự tin kiểu "cứ tự xử".
 
 ---
 
@@ -2833,23 +3092,30 @@ Thứ Ba 22/4 14:30. Em Hải (DevOps) phát hiện production API trả 500 err
 
 *14:30, Slack #incident · 14:35 · 14:45 · 15:00, Slack 客先 + Email · 15:05 · 15:25, Slack #incident · 15:30, メール*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ハイ** | 「🚨 **【Incident #INC-2026-0422-01】** 検知時刻: 14:30 / 影響: production API、500 error率約30% / 推定影響ユーザー: 200名 / 検知者: ハイ / 現在: ログ確認中。**@tuan_leader 確認お願いします**【1】。」 |
-| **トゥアン** | 「確認、severity Sev1 (critical)。**@ha_cto エスカレーション**します。ハイは継続調査、ズン待機して顧客通知準備【2】。」 |
-| **ハーCTO** | 「Sev1 確認。**ズン、松本様への第一報を 15:00 までに**。内容:発生事実 + 影響範囲 + 調査中のステータス + ETA は 15:30 までに別途【3】。」 |
-| **ズン** | 「松本様、緊急ご連絡となり恐縮です。**14:30 頃から production API で一部障害が発生**しております。影響:ログイン後の検索画面の一部機能、推定 200 名【4】。**現在ティエンファット技術チームで調査中**、ETA は 15:30 までに別途ご報告いたします。誠に申し訳ございません【5】。」 |
-| **松本PM** | 「承知しました。ETA をお待ちします。当方からも社内に共有します。」 |
-| **ハイ** | 「原因: 14:00 デプロイの DB index に conflict。rollback 手順準備完了、15:30 実施で復旧見込み。」 |
-| **ズン** | 「松本様、**ETA ご報告**: 15:30〜15:45 で rollback 実施、15:45 復旧見込み。原因:本日デプロイの index 変更が想定外の lock を発生。詳細は復旧後 24時間以内に Post-mortem レポートをお送りいたします【6】。」 |
+| **ハイ** | 「🚨 **【Incident #INC-2026-0422-01】** <ruby>検知<rt>けんち</rt></ruby><ruby>時刻<rt>じこく</rt></ruby>: 14:30 / <ruby>影響<rt>えいきょう</rt></ruby>: production API、500 error率約30% / <ruby>推定<rt>すいてい</rt></ruby>影響ユーザー: 200名 / 検知<ruby>者<rt>しゃ</rt></ruby>: ハイ / <ruby>現在<rt>げんざい</rt></ruby>: ログ<ruby>確認<rt>かくにん</rt></ruby>中。**@tuan_leader 確認お<ruby>願<rt>ねが</rt></ruby>いします**【1】。」 |
+|  | *[Incident #INC-2026-0422-01] Phát hiện: 14:30 / Ảnh hưởng: production API, error rate ~30% / Ước tính user bị: 200 / Người phát hiện: Hải / Hiện tại: đang check log. @anh Tuấn xác nhận giúp em ạ.* |
+| **トゥアン** | 「確認、severity Sev1 (critical)。**@ha_cto エスカレーション**します。ハイは<ruby>継続<rt>けいぞく</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>、ズン<ruby>待機<rt>たいき</rt></ruby>して<ruby>顧客<rt>こきゃく</rt></ruby><ruby>通知<rt>つうち</rt></ruby><ruby>準備<rt>じゅんび</rt></ruby>【2】。」 |
+|  | *Xác nhận, severity Sev1 (critical). @anh Hà CTO em escalate. Hải tiếp tục điều tra, Dũng standby chuẩn bị thông báo khách.* |
+| **ハーCTO** | 「Sev1 確認。**ズン、<ruby>松本<rt>まつもと</rt></ruby>様への<ruby>第一報<rt>だいいっぽう</rt></ruby>を 15:00 までに**。<ruby>内容<rt>ないよう</rt></ruby>:<ruby>発生<rt>はっせい</rt></ruby><ruby>事実<rt>じじつ</rt></ruby> + <ruby>影響<rt>えいきょう</rt></ruby><ruby>範囲<rt>はんい</rt></ruby> + 調査中のステータス + ETA は 15:30 までに<ruby>別途<rt>べっと</rt></ruby>【3】。」 |
+|  | *Xác nhận Sev1. Dũng, gửi báo cáo đầu cho anh Matsumoto trước 15:00. Nội dung: sự thật + phạm vi ảnh hưởng + đang điều tra + ETA báo riêng trước 15:30.* |
+| **ズン** | 「松本様、<ruby>緊急<rt>きんきゅう</rt></ruby>ご連絡となり<ruby>恐縮<rt>きょうしゅく</rt></ruby>です。**14:30 頃から production API で<ruby>一部<rt>いちぶ</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>が発生**しております。影響:ログイン後の<ruby>検索<rt>けんさく</rt></ruby><ruby>画面<rt>がめん</rt></ruby>の一部<ruby>機能<rt>きのう</rt></ruby>、推定 200 名【4】。**現在ティエンファット<ruby>技術<rt>ぎじゅつ</rt></ruby>チームで調査中**、ETA は 15:30 までに別途ご報告いたします。<ruby>誠<rt>まこと</rt></ruby>に申し<ruby>訳<rt>わけ</rt></ruby>ございません【5】。」 |
+|  | *Anh Matsumoto, em xin lỗi liên lạc gấp. Từ 14:30 production API có sự cố một phần. Ảnh hưởng: 1 phần chức năng màn hình search sau khi login, ước tính 200 người. Hiện team kỹ thuật Thiên Phát đang điều tra, ETA em sẽ báo riêng trước 15:30. Em thực sự xin lỗi anh ạ.* |
+| **松本PM** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。ETA をお待ちします。<ruby>当方<rt>とうほう</rt></ruby>からも<ruby>社内<rt>しゃない</rt></ruby>に<ruby>共有<rt>きょうゆう</rt></ruby>します。」 |
+|  | *Tôi hiểu rồi. Tôi đợi ETA. Bên tôi cũng share nội bộ.* |
+| **ハイ** | 「原因: 14:00 デプロイの DB index に conflict。rollback <ruby>手順<rt>てじゅん</rt></ruby>準備<ruby>完了<rt>かんりょう</rt></ruby>、15:30 <ruby>実施<rt>じっし</rt></ruby>で<ruby>復旧<rt>ふっきゅう</rt></ruby><ruby>見込<rt>みこ</rt></ruby>み。」 |
+|  | *Nguyên nhân: index DB của deploy 14:00 có conflict. Đã chuẩn bị xong quy trình rollback, thực thi 15:30 dự kiến khôi phục.* |
+| **ズン** | 「松本様、**ETA ご報告**: 15:30〜15:45 で rollback 実施、15:45 復旧見込み。原因:本日デプロイの index <ruby>変更<rt>へんこう</rt></ruby>が<ruby>想定外<rt>そうていがい</rt></ruby>の lock を発生。<ruby>詳細<rt>しょうさい</rt></ruby>は復旧後 24時間<ruby>以内<rt>いない</rt></ruby>に Post-mortem レポートをお<ruby>送<rt>おく</rt></ruby>りいたします【6】。」 |
+|  | *Anh Matsumoto, [Báo ETA] 15:30-15:45 thực thi rollback, 15:45 dự kiến khôi phục. Nguyên nhân: thay đổi index của deploy hôm nay gây lock ngoài dự tính. Chi tiết em sẽ gửi report Post-mortem trong vòng 24h sau khi khôi phục ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**5 phút SLA: Slack #incident + tag Tech lead** — không 1 mình. Time stamp + severity initial guess.
-- 【2】**15 phút SLA: Tech lead → CTO** — anh Tuấn không chần chừ, escalate ngay.
-- 【3】**30 phút SLA: CTO assign 客先 communication** — Hà CTO không tự đi báo khách, để Dũng (BD owner) handle với guidance.
-- 【4】**第一報 = fact ngắn + impact** — không nói nguyên nhân (chưa biết). Chỉ "発生事実 + 影響範囲".
-- 【5】**「現在調査中、ETA は別途」** — không hứa thời gian khi chưa biết. Tránh second false promise.
-- 【6】**Post-mortem 24h** — rule cuối: viết Post-mortem (5 Whys, action items) trong 24 giờ. Khách Nhật rất coi trọng.
+- 【1】**SLA 5 phút: Slack #incident + tag Tech lead** — không làm 1 mình. Có dấu thời gian + dự đoán mức severity ban đầu.
+- 【2】**SLA 15 phút: Tech lead → CTO** — anh Tuấn không chần chừ, escalate ngay.
+- 【3】**SLA 30 phút: CTO phân vai liên lạc với khách** — Hà CTO không tự đi báo khách, để Dũng (chủ trì BD) xử lý theo định hướng.
+- 【4】**Báo cáo đầu = thông tin ngắn + mức ảnh hưởng** — không nói nguyên nhân (chưa biết). Chỉ "発生事実 + 影響範囲".
+- 【5】**「現在調査中、ETA は別途」** — không hứa thời gian khi chưa biết. Tránh hứa kép sai lần hai.
+- 【6】**Post-mortem 24h** — quy tắc cuối: viết Post-mortem (5 Whys, hạng mục hành động) trong 24 giờ. Khách Nhật rất coi trọng.
 
 ---
 
@@ -2869,16 +3135,16 @@ T+24h       Post-mortem report                    (Tuấn + Hà CTO)
 
 ## 🎯 Câu chốt
 
-> **「Sev1 incident は1人で抱え込まない。5分→15分→30分→60分の SLA を守り、各ステップを飛ばさない。客への第一報は『事実 + 影響 + 調査中』のみ、ETA は別途。」**
+> **「Sev1 incident は1人で<ruby>抱<rt>かか</rt></ruby>え込まない。5分→15分→30分→60分の SLA を<ruby>守<rt>まも</rt></ruby>り、<ruby>各<rt>かく</rt></ruby>ステップを<ruby>飛<rt>と</rt></ruby>ばさない。<ruby>客<rt>きゃく</rt></ruby>への<ruby>第一報<rt>だいいっぽう</rt></ruby>は『<ruby>事実<rt>じじつ</rt></ruby> + <ruby>影響<rt>えいきょう</rt></ruby> + <ruby>調査中<rt>ちょうさちゅう</rt></ruby>』のみ、ETA は<ruby>別途<rt>べっと</rt></ruby>。」**
 
 ---
 
 ## ⚠ Tránh
 
-- 1 người im lặng "tự xử" 30 phút trở lên — đã quá SLA tier 1.
-- 第一報 chứa nguyên nhân chưa xác định → second false promise.
+- 1 người im lặng "tự xử" 30 phút trở lên — đã quá SLA bậc 1.
+- 第一報 chứa nguyên nhân chưa xác định → hứa kép sai.
 - ETA 「すぐ」「もうすぐ」 mơ hồ — phải số phút cụ thể.
-- Bỏ Post-mortem → khách Nhật assume team chưa học từ incident.
+- Bỏ Post-mortem → khách Nhật mặc định team chưa rút kinh nghiệm từ sự cố.
 
 ---
 
@@ -2899,7 +3165,7 @@ T+24h       Post-mortem report                    (Tuấn + Hà CTO)
 
 # Rule 32 — Khi khách phàn nàn — escalation / クレームのエスカレーション
 
-> **Luận điểm.** Khách Nhật phàn nàn (クレーム) hiếm khi ngay từ đầu. Khi đã nói "**困っております**" / "**改善いただきたい**" / "**いかがでしょうか?**" với tone formal là dấu hiệu đã chịu đựng lâu. Junior nhận khiếu nại thường có 2 lỗi: **(1) Phản bác ngay** ("không phải lỗi mình" hoặc "đó là do anh báo trễ") **(2) Hứa luôn** ("em sẽ xử lý ngay" mà chưa verify). Pattern đúng: **(1) Lắng nghe đầy đủ + 復唱 (lặp lại) khẳng định đã hiểu**, **(2) Xin lỗi pre-verification ("ご不便をおかけし誠に申し訳ございません" — không nhận lỗi cụ thể)**, **(3) Senior verify + plan**, **(4) Reply chính thức trong 24h với phương án**.
+> **Luận điểm.** Khách Nhật phàn nàn (クレーム) hiếm khi ngay từ đầu. Khi đã nói "**困っております**" / "**改善いただきたい**" / "**いかがでしょうか?**" với giọng trang trọng là dấu hiệu đã chịu đựng lâu. Junior nhận khiếu nại thường có 2 lỗi: **(1) Phản bác ngay** ("không phải lỗi mình" hoặc "đó là do anh báo trễ") **(2) Hứa luôn** ("em sẽ xử lý ngay" mà chưa xác minh). Công thức đúng: **(1) Lắng nghe đầy đủ + 復唱 (lặp lại) khẳng định đã hiểu**, **(2) Xin lỗi trước khi xác minh ("ご不便をおかけし誠に申し訳ございません" — không nhận lỗi cụ thể)**, **(3) Cấp trên xác minh + lên phương án**, **(4) Trả lời chính thức trong 24h với phương án**.
 >
 > クレーム対応4ステップ：①傾聴+復唱→②事実確認前のお詫び→③上位者と検証+対応案→④24h以内の正式回答。即否定も即約束もNG。
 >
@@ -2909,51 +3175,64 @@ T+24h       Post-mortem report                    (Tuấn + Hà CTO)
 
 ## Bối cảnh / 場面
 
-Sáng thứ Tư 11:00. Anh Ōgaki (Sales Director Hakuō) gọi điện anh Dũng phàn nàn: invoice tháng 4 sai số tiền, khách của Hakuō đã hỏi 2 lần. Junior reaction vs senior reaction.
+Sáng thứ Tư 11:00. Anh Ōgaki (Sales Director Hakuō) gọi điện anh Dũng phàn nàn: invoice tháng 4 sai số tiền, khách của Hakuō đã hỏi 2 lần. Cách phản ứng của junior so với cách của senior.
 
 ---
 
-## ❌ Hội thoại XẤU — junior defensive + 即約束
+## ❌ Hội thoại XẤU — junior biện hộ + 即約束
 
 *điện thoại*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **大垣** | 「ズンさん、4月の請求書、金額が違います。当社の客が2回問い合わせしてきており、困っております。」 |
-| **ズン** | 「えっと、そんなはずないんですが…経理に確認しないと分からないですけど…でもたぶん大丈夫だと思います。今日中に直して送り直します!」 |
-| **大垣** | 「『そんなはずない』とは?『たぶん大丈夫』とは?事実確認していない時点で約束されても困りますね。」 |
+| **大垣** | 「ズンさん、4月の<ruby>請求書<rt>せいきゅうしょ</rt></ruby>、金額が違います。当社の客が2回<ruby>問<rt>と</rt></ruby>い合わせしてきており、<ruby>困<rt>こま</rt></ruby>っております。」 |
+|  | *Dũng, invoice tháng 4 sai số tiền. Khách bên tôi đã hỏi 2 lần, đang phiền hà.* |
+| **ズン** | 「えっと、そんなはずないんですが…<ruby>経理<rt>けいり</rt></ruby>に確認しないと分からないですけど…でもたぶん大丈夫だと思います。今日中に<ruby>直<rt>なお</rt></ruby>して送り直します!」 |
+|  | *Ờ, em không nghĩ vậy được đâu... em phải hỏi kế toán mới biết... nhưng chắc là không sao đâu ạ. Em sẽ sửa và gửi lại trong hôm nay ạ!* |
+| **大垣** | 「『そんなはずない』とは?『たぶん大丈夫』とは?<ruby>事実<rt>じじつ</rt></ruby>確認していない<ruby>時点<rt>じてん</rt></ruby>で約束されても困りますね。」 |
+|  | *「Không nghĩ vậy được」 nghĩa là sao? 「Chắc là không sao」 nghĩa là sao? Chưa xác minh mà đã hứa thì tôi cũng phiền.* |
 | **ズン** | 「すみません…」 |
-| **大垣** | 「ズンさん、クレーム対応は: 傾聴 → 仮謝罪 → 検証 → 正式回答。今は逆に動いている。」 |
+|  | *Em xin lỗi ạ...* |
+| **大垣** | 「ズンさん、クレーム対応は: <ruby>傾聴<rt>けいちょう</rt></ruby> → <ruby>仮謝罪<rt>かりしゃざい</rt></ruby> → <ruby>検証<rt>けんしょう</rt></ruby> → 正式回答。今は逆に動いている。」 |
+|  | *Dũng, ứng xử khiếu nại là: lắng nghe → xin lỗi tạm → xác minh → reply chính thức. Hiện tại em đang làm ngược.* |
 
-**Vì sao xấu:** L2 三重失敗 — denial「そんなはずない」 + speculation「たぶん」 + premature promise「今日中に直す」. L5 chỉ ra: 4 bước, hiện tại sai cả 4.
+**Vì sao xấu:** L2 ba lỗi cùng lúc — phản bác 「そんなはずない」 + suy đoán 「たぶん」 + hứa thời gian khi chưa xác minh 「今日中に直す」. L5 chỉ ra: 4 bước, hiện tại sai cả 4.
 
 ---
 
-## ✅ Hội thoại TỐT — 4 step rồi escalate Hương + Loan
+## ✅ Hội thoại TỐT — 4 bước rồi báo lên Hương + Loan
 
 *repeat back · 電話切後 → Slack #escalation · Slack · 17:30、メール大垣*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **大垣** | 「ズンさん、4月の請求書、金額が違います。当社の客が2回問い合わせしてきており、困っております。」 |
-| **ズン** | 「**①4月の請求書の金額に誤りがあり、御社のお客様から2回お問い合わせいただいているとのこと、ご認識合っておりますでしょうか**【1】。」 |
+| **大垣** | 「ズンさん、4月の<ruby>請求書<rt>せいきゅうしょ</rt></ruby>、金額が違います。当社の客が2回<ruby>問<rt>と</rt></ruby>い合わせしてきており、<ruby>困<rt>こま</rt></ruby>っております。」 |
+|  | *Dũng, invoice tháng 4 sai số tiền. Khách bên tôi đã hỏi 2 lần, đang phiền hà.* |
+| **ズン** | 「**①4月の請求書の金額に<ruby>誤<rt>あやま</rt></ruby>りがあり、御社のお客様から2回お問い合わせいただいているとのこと、ご<ruby>認識<rt>にんしき</rt></ruby>合っておりますでしょうか**【1】。」 |
+|  | *[1] Invoice tháng 4 có sai số tiền, khách bên anh đã hỏi 2 lần — em hiểu đúng vậy ạ?* |
 | **大垣** | 「その通りです。」 |
-| **ズン** | 「**②ご不便をおかけし誠に申し訳ございません**。**③具体的な金額の差異を確認の上、本日18時までに第一報、明日12時までに正式な対応案をご回答**いたします。**詳細**: 請求書番号と差異金額をご共有いただけますでしょうか【2】。」 |
-| **大垣** | 「請求書番号 INV-2026-04-031、当方計算では¥850,000、貴社請求は ¥920,000。」 |
-| **ズン** | 「@フオン副部長 @ロアン経理部長 大垣様クレーム入電。請求書 INV-2026-04-031 金額差異 ¥70,000。本日18時まで第一報、明日12時まで正式回答お約束済【3】。」 |
+|  | *Đúng vậy.* |
+| **ズン** | 「**②ご<ruby>不便<rt>ふべん</rt></ruby>をおかけし<ruby>誠<rt>まこと</rt></ruby>に申し訳ございません**。**③具体的な金額の<ruby>差異<rt>さい</rt></ruby>を確認の上、本日18時までに<ruby>第一報<rt>だいいっぽう</rt></ruby>、明日12時までに正式な対応案をご回答**いたします。**詳細**: 請求書番号と差異金額をご<ruby>共有<rt>きょうゆう</rt></ruby>いただけますでしょうか【2】。」 |
+|  | *[2] Em thực sự xin lỗi vì sự bất tiện ạ. [3] Sau khi xác minh chênh lệch cụ thể, em sẽ báo cáo đầu trước 18h hôm nay, reply chính thức trước 12h ngày mai ạ. Chi tiết: anh chia sẻ giúp em số invoice và số tiền chênh ạ?* |
+| **大垣** | 「請求書番号 INV-2026-04-031、<ruby>当方<rt>とうほう</rt></ruby>計算では¥850,000、<ruby>貴社<rt>きしゃ</rt></ruby>請求は ¥920,000。」 |
+|  | *Invoice số INV-2026-04-031, bên tôi tính ¥850,000, bên em ghi ¥920,000.* |
+| **ズン** | 「@フオン副部長 @ロアン経理部長 大垣様クレーム<ruby>入電<rt>にゅうでん</rt></ruby>。請求書 INV-2026-04-031 金額差異 ¥70,000。本日18時まで第一報、明日12時まで正式回答お約束<ruby>済<rt>ず</rt></ruby>【3】。」 |
+|  | *(Sau cúp máy, Slack) @chị Hương @chị Loan anh Ōgaki gọi khiếu nại. Invoice INV-2026-04-031 chênh ¥70,000. Em đã hứa: báo cáo đầu trước 18h hôm nay, reply chính thức trước 12h ngày mai ạ.* |
 | **フオン** | 「ロアンさん、経理ログ確認お願いします。ズン、私とロアンで11:30から確認会議。第一報ドラフトはズンが作成。」 |
-| **ズン** | 「大垣様、第一報のご報告です。経理にて確認の結果、**INV-2026-04-031 で ¥70,000 の超過記載**が判明いたしました。原因はシステム集計時の重複計上です【4】。**訂正請求書を明日 12時までにお送り**するとともに、再発防止策については Post-mortem レポートにて 48時間以内にご報告申し上げます。先ほどはお電話にて失礼いたしました。ご不便をおかけし誠に申し訳ございません。重ねてお詫び申し上げます【5】。」 |
+|  | *Chị Loan, em check log kế toán giúp. Dũng, chị và chị Loan họp xác minh từ 11:30. Draft báo cáo đầu Dũng viết.* |
+| **ズン** | 「大垣様、第一報のご報告です。経理にて確認の結果、**INV-2026-04-031 で ¥70,000 の<ruby>超過<rt>ちょうか</rt></ruby><ruby>記載<rt>きさい</rt></ruby>**が<ruby>判明<rt>はんめい</rt></ruby>いたしました。原因はシステム<ruby>集計<rt>しゅうけい</rt></ruby>時の<ruby>重複計上<rt>ちょうふくけいじょう</rt></ruby>です【4】。**<ruby>訂正<rt>ていせい</rt></ruby>請求書を明日 12時までにお送り**するとともに、<ruby>再発防止策<rt>さいはつぼうしさく</rt></ruby>については Post-mortem レポートにて 48時間以内にご報告申し上げます。先ほどはお電話にて失礼いたしました。ご不便をおかけし誠に申し訳ございません。<ruby>重<rt>かさ</rt></ruby>ねてお<ruby>詫<rt>わ</rt></ruby>び申し上げます【5】。」 |
+|  | *(17:30, mail) Anh Ōgaki, em xin báo cáo đầu ạ. Sau khi kế toán xác minh, INV-2026-04-031 ghi thừa ¥70,000 ạ. Nguyên nhân: tính trùng khi hệ thống tổng hợp. Em sẽ gửi invoice đính chính trước 12h ngày mai, cùng với Post-mortem report về biện pháp ngăn tái phát trong 48 giờ ạ. Vừa rồi em đã thất lễ qua điện thoại. Em thực sự xin lỗi vì sự bất tiện ạ. Em xin lỗi anh thêm lần nữa ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**「①ご認識合っておりますでしょうか」** — repeat back để confirm hiểu đúng. Xác lập fact basis, không lao vào defensive.
-- 【2】**「②③ご不便… + 第一報時刻 + 正式回答時刻」** — không nhận lỗi cụ thể chưa verify, nhưng xin lỗi cho 「ご不便」(sự bất tiện). Hứa 2 milestone time.
-- 【3】**Escalate Hương + Loan** ngay sau cuộc gọi — không 1 mình, không qua đêm.
-- 【4】**Verified fact** — sau khi check log mới khẳng định "¥70,000 の超過記載" + nguyên nhân.
-- 【5】**Post-mortem 48h** — cũng giống incident, khách Nhật mong giải pháp ngăn tái phát.
+- 【1】**「①ご認識合っておりますでしょうか」** — lặp lại để xác nhận hiểu đúng. Xác lập nền thông tin, không lao vào biện hộ.
+- 【2】**「②③ご不便… + 第一報時刻 + 正式回答時刻」** — không nhận lỗi cụ thể khi chưa xác minh, nhưng xin lỗi cho 「ご不便」(sự bất tiện). Hứa 2 mốc thời gian.
+- 【3】**Báo lên Hương + Loan** ngay sau cuộc gọi — không 1 mình, không qua đêm.
+- 【4】**Thông tin đã xác minh** — sau khi kiểm tra log mới khẳng định "¥70,000 の超過記載" + nguyên nhân.
+- 【5】**Post-mortem 48h** — cũng giống sự cố, khách Nhật mong giải pháp ngăn tái phát.
 
 ---
 
-## 🎯 4 Step Pattern
+## 🎯 Công thức 4 bước
 
 ```
 ① 傾聴 + 復唱       「〇〇とのご認識でお間違いないでしょうか」
@@ -2966,16 +3245,16 @@ Sáng thứ Tư 11:00. Anh Ōgaki (Sales Director Hakuō) gọi điện anh Dũn
 
 ## 🎯 Câu chốt
 
-> **「クレーム対応 = 傾聴復唱 → 仮謝罪 → 期限付き検証約束 → 正式回答 + Post-mortem。否定・推測・即約束はNG。」**
+> **「クレーム対応 = <ruby>傾聴<rt>けいちょう</rt></ruby><ruby>復唱<rt>ふくしょう</rt></ruby> → <ruby>仮謝罪<rt>かりしゃざい</rt></ruby> → <ruby>期限<rt>きげん</rt></ruby><ruby>付<rt>つ</rt></ruby>き<ruby>検証<rt>けんしょう</rt></ruby>約束 → 正式回答 + Post-mortem。<ruby>否定<rt>ひてい</rt></ruby>・<ruby>推測<rt>すいそく</rt></ruby>・即約束はNG。」**
 
 ---
 
 ## ⚠ Tránh
 
-- 「そんなはずない」「たぶん」 — denial / speculation, mất uy tín.
-- 「すぐ直します」 mà chưa verify — second false promise.
-- 1 mình ôm khiếu nại của Sales Director — phải escalate Hương + Loan ngay.
-- Bỏ Post-mortem report → khách không thấy hệ thống đã fix gốc.
+- 「そんなはずない」「たぶん」 — phản bác / suy đoán, mất uy tín.
+- 「すぐ直します」 mà chưa xác minh — lời hứa hão thứ hai.
+- 1 mình ôm khiếu nại của Sales Director — phải báo lên Hương + Loan ngay.
+- Bỏ Post-mortem report → khách không thấy hệ thống đã sửa từ gốc.
 
 ---
 
@@ -2996,7 +3275,7 @@ Sáng thứ Tư 11:00. Anh Ōgaki (Sales Director Hakuō) gọi điện anh Dũn
 
 # Rule 33 — Báo nghỉ việc / nghỉ dài hạn / 退職・休暇のホウレンソウ
 
-> **Luận điểm.** Nghỉ việc / nghỉ dài (>2 tuần: maternity, sabbatical, surgery) **không phải news cá nhân, là sự kiện hệ thống**. Junior thường sai: báo sát giờ + không có handover plan. Nguyên tắc: **(1) Notice timing chuẩn — nghỉ việc ≥ 30 ngày, nghỉ dài ≥ 14 ngày, (2) Báo CHO SẾP trước 1-1, KHÔNG broadcast Slack ngay, (3) Handover plan chi tiết: tasks / contacts / docs / replacement candidate, (4) Khách-facing announcement có sếp ký tên, (5) 引き継ぎ期間 (handover period) phải có overlap thực với người nhận**.
+> **Luận điểm.** Nghỉ việc / nghỉ dài (>2 tuần: thai sản, sabbatical, phẫu thuật) **không phải tin cá nhân, mà là sự kiện hệ thống**. Junior thường sai: báo sát giờ + không có handover plan. Nguyên tắc: **(1) Thời điểm báo chuẩn — nghỉ việc ≥ 30 ngày, nghỉ dài ≥ 14 ngày, (2) Báo CHO SẾP trước 1-1, KHÔNG broadcast Slack ngay, (3) Handover plan chi tiết: công việc / đầu mối liên hệ / tài liệu / người kế nhiệm, (4) Thông báo tới khách có sếp ký tên, (5) 引き継ぎ期間 (kỳ bàn giao) phải có overlap thực với người nhận**.
 >
 > 退職・長期休暇のホウレンソウ：①30日 (退職)/14日 (長期休暇) 前に通知 ②上司 1-on-1 が最初 ③handover plan明文化 ④客向け案内は上司名義 ⑤実引き継ぎ期間を確保。
 >
@@ -3014,14 +3293,18 @@ Em Hải quyết định du học Đức 6 tháng (sabbatical) bắt đầu từ
 
 *Slack #general · Slack DM*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ハイ** | 「みなさん、7/1 から半年ドイツ留学に行ってきます!引き継ぎは追って共有します!」 |
-| **トゥアン** | 「ハイ、まず私に1-on-1 で相談すべき。今 Phase 2 の DevOps お前1人。半年抜けるなら **handover計画なしの broadcast はNG**。Hà CTO もまだ知らないだろ?」 |
+| **ハイ** | 「みなさん、7/1 から半年ドイツ<ruby>留学<rt>りゅうがく</rt></ruby>に行ってきます!<ruby>引<rt>ひ</rt></ruby>き<ruby>継<rt>つ</rt></ruby>ぎは追って<ruby>共有<rt>きょうゆう</rt></ruby>します!」 |
+|  | *(Slack #general) Mọi người ơi, từ 1/7 em đi Đức học 6 tháng! Bàn giao em chia sẻ sau ạ!* |
+| **トゥアン** | 「ハイ、まず私に1-on-1 で<ruby>相談<rt>そうだん</rt></ruby>すべき。今 Phase 2 の DevOps お前1人。<ruby>半年<rt>はんとし</rt></ruby><ruby>抜<rt>ぬ</rt></ruby>けるなら **handover<ruby>計画<rt>けいかく</rt></ruby>なしの broadcast はNG**。Hà CTO もまだ知らないだろ?」 |
+|  | *(Slack DM) Hải, lẽ ra em phải 1-on-1 với anh trước. Phase 2 đang DevOps có mình em. Nghỉ 6 tháng mà không có handover plan, broadcast luôn là NG. Anh Hà CTO chắc cũng chưa biết đúng không?* |
 | **ハイ** | 「あ、すみません…」 |
-| **トゥアン** | 「明日朝1-on-1で。Handover plan ドラフト持参。客への正式案内は Hà CTO 名義で別途出す。Slack post は一旦削除。」 |
+|  | *À, em xin lỗi...* |
+| **トゥアン** | 「明日朝1-on-1で。Handover plan ドラフト<ruby>持参<rt>じさん</rt></ruby>。客への<ruby>正式<rt>せいしき</rt></ruby><ruby>案内<rt>あんない</rt></ruby>は Hà CTO <ruby>名義<rt>めいぎ</rt></ruby>で<ruby>別途<rt>べっと</rt></ruby>出す。Slack post は<ruby>一旦<rt>いったん</rt></ruby><ruby>削除<rt>さくじょ</rt></ruby>。」 |
+|  | *Sáng mai 1-on-1 nhé. Mang draft Handover plan đến. Thông báo chính thức cho khách thì Hà CTO ký tên gửi riêng. Post Slack xoá tạm đi.* |
 
-**Vì sao xấu:** L1 sai trật tự — broadcast trước khi sếp biết. L2 chỉ ra: phá flow hierarchy + không có handover plan = chaos cho team.
+**Vì sao xấu:** L1 sai trật tự — broadcast trước khi sếp biết. L2 chỉ ra: phá mạch phân cấp (hierarchy) + không có handover plan = hỗn loạn cho team.
 
 ---
 
@@ -3029,19 +3312,24 @@ Em Hải quyết định du học Đức 6 tháng (sabbatical) bắt đầu từ
 
 *Slack DM トゥアン · 翌朝1-on-1 · 画面*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ハイ** | 「トゥアンさん、ご相談したいことがあるのですが、明日朝 30分お時間いただけますでしょうか?トピック: 個人キャリア計画とハンドオーバーについて。緊急度低、今後3ヶ月の準備期間がございます【1】。」 |
-|  | **ハイ:** 「ご相談です。**7/1 から12/31 まで、6ヶ月間ドイツの大学院でサバティカル**を取得したく、**3ヶ月前の本日4/22にご報告**いたします【2】。事前にハンドオーバー計画ドラフトを作成しました【3】。」 |
-| **ハイ** | 「**Handover Plan**: ① DevOps タスク 12項目 (うち5項目を Linh と共同化、7項目をズンへ移管) / ② AWS 認証情報・パスワード管理 (1Passwordで Hà CTO へ owner 移管) / ③ ドキュメント整備 (運用Runbook v2 を5月末までに完成) / ④ 候補者: 社内ローテーションでフロントエンドからの DevOps 兼任、または採用 / ⑤ Overlap 期間: 6/1〜6/30 の1ヶ月を引き継ぎ専用に充当。」 |
-| **トゥアン** | 「準備が完璧。Hà CTO に1-on-1 を私からセットして。決裁後、客向けの正式案内は **Hà CTO 名義で6月初** に。Slack 全社通知は **客向け案内の翌日**。Hai 個人 broadcast は最後で OK。」 |
-| **ハイ** | 「ありがとうございます。私からチーム個別1-on-1 (リン・ズン) も Hà CTO 通知後に実施します【4】。」 |
+| **ハイ** | 「トゥアンさん、ご<ruby>相談<rt>そうだん</rt></ruby>したいことがあるのですが、明日朝 30分お時間いただけますでしょうか?トピック: 個人キャリア計画と<ruby>引<rt>ひ</rt></ruby>き<ruby>継<rt>つ</rt></ruby>ぎについて。<ruby>緊急度<rt>きんきゅうど</rt></ruby>低、今後3ヶ月の<ruby>準備<rt>じゅんび</rt></ruby><ruby>期間<rt>きかん</rt></ruby>がございます【1】。」 |
+|  | *(Slack DM anh Tuấn) Anh Tuấn, em có việc muốn tham vấn, sáng mai anh dành 30 phút được không ạ? Chủ đề: kế hoạch cá nhân + bàn giao. Mức khẩn cấp thấp, em còn 3 tháng chuẩn bị ạ.* |
+| **ハイ** | 「ご<ruby>相談<rt>そうだん</rt></ruby>です。**7/1 から12/31 まで、6ヶ月間ドイツの<ruby>大学院<rt>だいがくいん</rt></ruby>でサバティカル**を<ruby>取得<rt>しゅとく</rt></ruby>したく、**3ヶ月前の本日4/22にご<ruby>報告<rt>ほうこく</rt></ruby>**いたします【2】。事前にハンドオーバー計画ドラフトを<ruby>作成<rt>さくせい</rt></ruby>しました【3】。」 |
+|  | *(Sáng hôm sau, 1-on-1) Em xin tham vấn. Em muốn đi sabbatical 6 tháng tại đại học bên Đức từ 1/7-31/12, hôm nay 22/4 em báo trước 3 tháng ạ. Em đã chuẩn bị draft Handover Plan ạ.* |
+| **ハイ** | 「**Handover Plan**: ① DevOps タスク 12<ruby>項目<rt>こうもく</rt></ruby> (うち5項目を Linh と<ruby>共同化<rt>きょうどうか</rt></ruby>、7項目をズンへ<ruby>移管<rt>いかん</rt></ruby>) / ② AWS <ruby>認証<rt>にんしょう</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>・パスワード<ruby>管理<rt>かんり</rt></ruby> (1Passwordで Hà CTO へ owner 移管) / ③ ドキュメント<ruby>整備<rt>せいび</rt></ruby> (運用Runbook v2 を5月末までに<ruby>完成<rt>かんせい</rt></ruby>) / ④ <ruby>候補者<rt>こうほしゃ</rt></ruby>: <ruby>社内<rt>しゃない</rt></ruby>ローテーションでフロントエンドからの DevOps <ruby>兼任<rt>けんにん</rt></ruby>、または<ruby>採用<rt>さいよう</rt></ruby> / ⑤ Overlap <ruby>期間<rt>きかん</rt></ruby>: 6/1〜6/30 の1ヶ月を<ruby>引<rt>ひ</rt></ruby>き<ruby>継<rt>つ</rt></ruby>ぎ<ruby>専用<rt>せんよう</rt></ruby>に<ruby>充当<rt>じゅうとう</rt></ruby>。」 |
+|  | *[Handover Plan] ① 12 task DevOps (5 cái chia chung với Linh, 7 cái chuyển Dũng) / ② Credential AWS + password (chuyển owner sang anh Hà CTO qua 1Password) / ③ Tài liệu (Runbook v2 hoàn thành cuối tháng 5) / ④ Người kế nhiệm: rotate nội bộ FE kiêm DevOps, hoặc tuyển / ⑤ Overlap: 1 tháng 1/6-30/6 dành riêng cho bàn giao.* |
+| **トゥアン** | 「<ruby>準備<rt>じゅんび</rt></ruby>が<ruby>完璧<rt>かんぺき</rt></ruby>。Hà CTO に1-on-1 を私からセットして。<ruby>決裁<rt>けっさい</rt></ruby>後、客向けの<ruby>正式<rt>せいしき</rt></ruby><ruby>案内<rt>あんない</rt></ruby>は **Hà CTO <ruby>名義<rt>めいぎ</rt></ruby>で6月初** に。Slack <ruby>全社<rt>ぜんしゃ</rt></ruby><ruby>通知<rt>つうち</rt></ruby>は **客向け案内の<ruby>翌日<rt>よくじつ</rt></ruby>**。Hai 個人 broadcast は最後で OK。」 |
+|  | *Chuẩn bị hoàn hảo. Anh sẽ set 1-on-1 với Hà CTO. Sau khi duyệt, thông báo chính thức cho khách thì Hà CTO ký tên đầu tháng 6. Slack toàn công ty hôm sau. Broadcast cá nhân Hải để cuối cùng OK.* |
+| **ハイ** | 「ありがとうございます。私からチーム<ruby>個別<rt>こべつ</rt></ruby>1-on-1 (リン・ズン) も Hà CTO <ruby>通知<rt>つうち</rt></ruby>後に<ruby>実施<rt>じっし</rt></ruby>します【4】。」 |
+|  | *Em cảm ơn anh. 1-on-1 từng người (Linh, Dũng) em cũng làm sau khi anh Hà CTO thông báo ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**Slack DM 切り出し** — không gặp đột ngột. Đặt agenda trước.
 - 【2】**3ヶ月前報告** — sabbatical 6 tháng → 3 tháng notice (nghỉ việc cần ≥ 30 ngày, nghỉ dài ≥ 14 ngày, sabbatical càng lâu càng dài).
 - 【3】**Handover Plan có sẵn** — không "sẽ làm sau", phải có ngay buổi 1-on-1.
-- 【4】**Sequence: 1-on-1 sếp → CTO → 客先 (sếp ký) → 全社通知 → 個別 1-on-1** — order quan trọng để khách Nhật cảm thấy được tôn trọng.
+- 【4】**Thứ tự: 1-on-1 sếp → CTO → 客先 (sếp ký) → 全社通知 → 個別 1-on-1** — trật tự quan trọng để khách Nhật cảm thấy được tôn trọng.
 
 ---
 
@@ -3071,15 +3359,15 @@ Em Hải quyết định du học Đức 6 tháng (sabbatical) bắt đầu từ
 
 ## 🎯 Câu chốt
 
-> **「退職・長期休暇は『順番』 — ①上司1-on-1 → ②CTO → ③客向け正式案内 (上司名義) → ④全社 Slack → ⑤チーム1-on-1。Handover Plan 5項目を必ず明文化。」**
+> **「<ruby>退職<rt>たいしょく</rt></ruby>・<ruby>長期<rt>ちょうき</rt></ruby><ruby>休暇<rt>きゅうか</rt></ruby>は『<ruby>順番<rt>じゅんばん</rt></ruby>』 — ①<ruby>上司<rt>じょうし</rt></ruby>1-on-1 → ②CTO → ③客向け<ruby>正式<rt>せいしき</rt></ruby><ruby>案内<rt>あんない</rt></ruby> (上司<ruby>名義<rt>めいぎ</rt></ruby>) → ④<ruby>全社<rt>ぜんしゃ</rt></ruby> Slack → ⑤チーム1-on-1。Handover Plan 5<ruby>項目<rt>こうもく</rt></ruby>を必ず<ruby>明文化<rt>めいぶんか</rt></ruby>。」**
 
 ---
 
 ## ⚠ Tránh
 
-- Broadcast trước khi sếp biết → phá hierarchy + chaos.
-- Notice trễ (< notice tối thiểu) → uy tín đứt + handover gấp.
-- 「あとで handover 計画作ります」 — đầu không có = không nghiêm túc.
+- Broadcast trước khi sếp biết → phá phân cấp + hỗn loạn.
+- Báo trễ (< thời hạn tối thiểu) → uy tín đứt + bàn giao gấp.
+- 「あとで handover 計画作ります」 — ban đầu không có = không nghiêm túc.
 - 客向け announcement do junior tự gửi → phải sếp ký tên.
 
 ---
@@ -3101,7 +3389,7 @@ Em Hải quyết định du học Đức 6 tháng (sabbatical) bắt đầu từ
 
 # Rule 34 — Mentoring Hou-Ren-Sou cho junior mới / 新人指導
 
-> **Luận điểm.** Junior mới (intern, fresh hire 1-3 tháng) có 2 vấn đề kinh điển: **(1) Quá rụt rè** → không dám 報告 / 連絡 vì sợ làm phiền sếp, **(2) Quá thoáng** → 質問 mỗi 5 phút trong DM. Mentor phải build **2 cấu trúc cố định**: **(a) Weekly 1-on-1** (30 phút Thứ Sáu, structured agenda), **(b) Slack Giờ tiếp câu hỏi** (1 khung giờ cố định/ngày, vd 14:00-15:00 mentor sẵn sàng). Cộng với **(c) Mentor expectations** rõ ràng từ tuần 1: "Có gì hỏi là tốt, đừng ngại / nhưng sự cố nghiêm trọng thì @ tôi ngay không cần đợi giờ tiếp câu hỏi".
+> **Luận điểm.** Junior mới (intern, mới vào 1-3 tháng) có 2 vấn đề kinh điển: **(1) Quá rụt rè** → không dám 報告 / 連絡 vì sợ làm phiền sếp, **(2) Quá thoáng** → 質問 mỗi 5 phút trong DM. Mentor phải dựng **2 cấu trúc cố định**: **(a) Weekly 1-on-1** (30 phút Thứ Sáu, agenda có cấu trúc), **(b) Slack Giờ tiếp câu hỏi** (1 khung giờ cố định/ngày, vd 14:00-15:00 mentor sẵn sàng). Cộng với **(c) Kỳ vọng mentor** rõ ràng từ tuần 1: "Có gì hỏi là tốt, đừng ngại / nhưng sự cố nghiêm trọng thì @ tôi ngay không cần đợi giờ tiếp câu hỏi".
 >
 > 新人指導の3点セット：①Weekly 1-on-1 (金曜30分)②Slack Office Hour (毎日1枠)③期待値 explicit (聞いてOK / 緊急は即連絡)。
 >
@@ -3111,7 +3399,7 @@ Em Hải quyết định du học Đức 6 tháng (sabbatical) bắt đầu từ
 
 ## Bối cảnh / 場面
 
-Em Linh (intern Marketing) đã onboarding 2 tuần. Anh Dũng nhận trách nhiệm mentor. Lần đầu Dũng không có cấu trúc. Lần 2 set up 3 elements.
+Em Linh (intern Marketing) đã nhận việc làm quen được 2 tuần. Anh Dũng nhận trách nhiệm mentor. Lần đầu Dũng không có cấu trúc. Lần 2 dựng đủ bộ 3 thành phần.
 
 ---
 
@@ -3119,15 +3407,20 @@ Em Linh (intern Marketing) đã onboarding 2 tuần. Anh Dũng nhận trách nhi
 
 *thứ Hai 9:00, Slack DM zun · thứ Hai 9:30 · thứ Hai 10:15 · thứ Hai 16:00、Linh đã DM 8 lần · observer*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **リン** | 「ズンさん、ブロシュアの色について…」 |
+| **リン** | 「ズンさん、ブロシュアの<ruby>色<rt>いろ</rt></ruby>について…」 |
+|  | *Anh Dũng, về màu của brochure...* |
 | **リン** | 「ズンさん、フォントは…」 |
+|  | *Anh Dũng, về font...* |
 | **リン** | 「ズンさん、もう1つ…」 |
-| **ズン** | 「リン、毎回 DM すると僕は集中できなくて…でも止めてって言うとリンが質問しなくなりそうで…どうしたらいい?」 |
-| **フオン** | 「ズン、それ **mentor 構造を作っていない** 問題。Office Hour と Weekly 1-on-1 を導入しなさい。」 |
+|  | *Anh Dũng, em hỏi thêm...* |
+| **ズン** | 「リン、<ruby>毎回<rt>まいかい</rt></ruby> DM すると<ruby>僕<rt>ぼく</rt></ruby>は<ruby>集中<rt>しゅうちゅう</rt></ruby>できなくて…でも<ruby>止<rt>と</rt></ruby>めてって<ruby>言<rt>い</rt></ruby>うとリンが<ruby>質問<rt>しつもん</rt></ruby>しなくなりそうで…どうしたらいい?」 |
+|  | *Linh, em DM mỗi lần thì anh không tập trung được... nhưng anh nói dừng thì lo em sợ không hỏi nữa... làm sao bây giờ?* |
+| **フオン** | 「ズン、それ **mentor <ruby>構造<rt>こうぞう</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っていない** <ruby>問題<rt>もんだい</rt></ruby>。Office Hour と Weekly 1-on-1 を<ruby>導入<rt>どうにゅう</rt></ruby>しなさい。」 |
+|  | *Dũng, đó là vấn đề chưa set cấu trúc mentor. Đưa Office Hour và Weekly 1-on-1 vào đi.* |
 
-**Vì sao xấu:** L1-L3 Linh quá thoáng (ad-hoc). L4 Dũng confused — không stop (sợ Linh shut down) cũng không respond đủ. L5 chỉ ra: cần **structure**.
+**Vì sao xấu:** L1-L3 Linh quá thoáng (hỏi tùy hứng). L4 Dũng lúng túng — không dừng (sợ Linh khép lại) cũng không phản hồi đủ. L5 chỉ ra: cần **cấu trúc**.
 
 ---
 
@@ -3135,41 +3428,45 @@ Em Linh (intern Marketing) đã onboarding 2 tuần. Anh Dũng nhận trách nhi
 
 *月曜朝、Linh と1-on-1*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「リン、君のサポート体制を整えました。**3つ説明します**【1】。」 |
-| **ズン** | 「**①Weekly 1-on-1**: 毎週金曜 16:00-16:30、固定で。アジェンダ:この週の Done / Doing / Blocked / 質問 + 来週の Top 3 タスク。事前に Notion テンプレに記入【2】。」 |
-| **ズン** | 「**②Slack Office Hour**: 平日 14:00-15:00、僕が必ず Slack 見て即返信。それ以外の時間は thread に貯めて、 Office Hour で一気に答える【3】。」 |
-| **ズン** | 「**③期待値**: ⓐ 質問はたくさんしてOK、僕の機嫌は気にしないで、ⓑ Office Hour 外でも **緊急 (客対応中、本番影響、判断3時間以内に必要) は即 @zun**、ⓒ 答えがすぐ出ない時は『今日中に答えます』と返す【4】。」 |
-| **リン** | 「分かりやすいです!Office Hour 外で蓄積する thread のテンプレもありますか?」 |
-| **ズン** | 「あるよ、Notion 『リン質問ボード』を共有する。**質問・自分の仮説・優先度** 3列で。」 |
+| **ズン** | 「リン、<ruby>君<rt>きみ</rt></ruby>のサポート<ruby>体制<rt>たいせい</rt></ruby>を<ruby>整<rt>ととの</rt></ruby>えました。**3つ<ruby>説明<rt>せつめい</rt></ruby>します**【1】。」 |
+|  | *Linh, anh đã set xong khung support cho em. Anh giải thích 3 thứ nhé.* |
+| **ズン** | 「**①Weekly 1-on-1**: <ruby>毎週<rt>まいしゅう</rt></ruby><ruby>金曜<rt>きんよう</rt></ruby> 16:00-16:30、<ruby>固定<rt>こてい</rt></ruby>で。アジェンダ:この<ruby>週<rt>しゅう</rt></ruby>の Done / Doing / Blocked / <ruby>質問<rt>しつもん</rt></ruby> + <ruby>来週<rt>らいしゅう</rt></ruby>の Top 3 タスク。<ruby>事前<rt>じぜん</rt></ruby>に Notion テンプレに<ruby>記入<rt>きにゅう</rt></ruby>【2】。」 |
+|  | *Weekly 1-on-1: cố định 16:00-16:30 thứ Sáu hàng tuần. Agenda: tuần này Done / Doing / Blocked / câu hỏi + Top 3 tuần sau. Em điền trước vào template Notion.* |
+| **ズン** | 「**②Slack Office Hour**: <ruby>平日<rt>へいじつ</rt></ruby> 14:00-15:00、<ruby>僕<rt>ぼく</rt></ruby>が<ruby>必<rt>かなら</rt></ruby>ず Slack <ruby>見<rt>み</rt></ruby>て<ruby>即<rt>そく</rt></ruby><ruby>返信<rt>へんしん</rt></ruby>。それ<ruby>以外<rt>いがい</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>は thread に<ruby>貯<rt>た</rt></ruby>めて、 Office Hour で<ruby>一気<rt>いっき</rt></ruby>に<ruby>答<rt>こた</rt></ruby>える【3】。」 |
+|  | *Slack Office Hour: 14:00-15:00 ngày làm việc, anh chắc chắn xem Slack reply ngay. Ngoài giờ đó em gom thread, anh sẽ trả lời 1 lượt trong Office Hour.* |
+| **ズン** | 「**③<ruby>期待値<rt>きたいち</rt></ruby>**: ⓐ <ruby>質問<rt>しつもん</rt></ruby>はたくさんしてOK、<ruby>僕<rt>ぼく</rt></ruby>の<ruby>機嫌<rt>きげん</rt></ruby>は<ruby>気<rt>き</rt></ruby>にしないで、ⓑ Office Hour <ruby>外<rt>そと</rt></ruby>でも **<ruby>緊急<rt>きんきゅう</rt></ruby> (<ruby>客<rt>きゃく</rt></ruby><ruby>対応<rt>たいおう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>、<ruby>本番<rt>ほんばん</rt></ruby><ruby>影響<rt>えいきょう</rt></ruby>、<ruby>判断<rt>はんだん</rt></ruby>3<ruby>時間<rt>じかん</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>) は<ruby>即<rt>そく</rt></ruby> @zun**、ⓒ <ruby>答<rt>こた</rt></ruby>えがすぐ<ruby>出<rt>で</rt></ruby>ない<ruby>時<rt>とき</rt></ruby>は『<ruby>今日中<rt>きょうじゅう</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えます』と<ruby>返<rt>かえ</rt></ruby>す【4】。」 |
+|  | *Kỳ vọng: (a) Em hỏi nhiều OK, đừng lo tâm trạng anh, (b) Ngoài Office Hour mà khẩn cấp (đang ứng phó khách, ảnh hưởng production, cần quyết trong 3 giờ) thì @zun ngay, (c) Khi không trả lời ngay được anh sẽ rep 'anh sẽ trả lời trong hôm nay'.* |
+| **リン** | 「<ruby>分<rt>わ</rt></ruby>かりやすいです!Office Hour <ruby>外<rt>そと</rt></ruby>で<ruby>蓄積<rt>ちくせき</rt></ruby>する thread のテンプレもありますか?」 |
+|  | *Em hiểu rõ rồi ạ! Template thread tích lũy ngoài Office Hour có không ạ?* |
+| **ズン** | 「あるよ、Notion 『リン<ruby>質問<rt>しつもん</rt></ruby>ボード』を<ruby>共有<rt>きょうゆう</rt></ruby>する。**<ruby>質問<rt>しつもん</rt></ruby>・<ruby>自分<rt>じぶん</rt></ruby>の<ruby>仮説<rt>かせつ</rt></ruby>・<ruby>優先度<rt>ゆうせんど</rt></ruby>** 3<ruby>列<rt>れつ</rt></ruby>で。」 |
+|  | *Có chứ, anh share Notion 「Bảng câu hỏi của Linh」 nhé. 3 cột: câu hỏi / giả thuyết của em / mức ưu tiên.* |
 
 📝 **Ghi chú:**
-- 【1】**「3つ説明します」** — structured upfront. Linh biết sẽ không phải confused.
-- 【2】**Weekly 1-on-1 fixed time + agenda template** — không "khi nào tiện" mà fixed slot. Linh dependable.
-- 【3】**Office Hour daily** — 1 giờ/ngày Dũng commit response time. Outside Linh tự gom vào Notion board.
-- 【4】**3 mức rõ ràng** — encourage hỏi + escape hatch cho urgent + commit response. Linh không phải đoán.
+- 【1】**「3つ説明します」** — đưa cấu trúc ra trước. Linh nắm ngay được mình sẽ không phải bối rối.
+- 【2】**Weekly 1-on-1 giờ cố định + template agenda** — không "khi nào tiện" mà là slot cố định. Linh có chỗ dựa ổn định.
+- 【3】**Office Hour mỗi ngày** — 1 giờ/ngày Dũng cam kết thời gian phản hồi. Ngoài giờ Linh tự gom vào Notion board.
+- 【4】**3 mức rõ ràng** — khuyến khích hỏi + lối thoát cho việc khẩn + cam kết phản hồi. Linh không phải đoán.
 
 ---
 
 ## 🛠 Mentor Structure — 3 components
 
-```
-[A] Weekly 1-on-1 (固定 30分)
-    ─ Agenda: Done / Doing / Blocked / 質問 / Top 3 来週
-    ─ Linh が事前記入、Dũng が前日に目を通す
-    ─ 場所: 会議室固定 (集中環境)
+**[A] Weekly 1-on-1 (固定 30分)**
+- Agenda: Done / Doing / Blocked / 質問 / Top 3 来週
+- Linh が事前記入、Dũng が前日に目を通す
+- 場所: 会議室固定 (集中環境)
 
-[B] Slack Office Hour (毎日 1時間)
-    ─ Dũng が Slack に張り付く時間
-    ─ それ以外は Notion 『質問ボード』
-    ─ Office Hour 中に最大 5 件まで回答
+**[B] Slack Office Hour (毎日 1時間)**
+- Dũng が Slack に張り付く時間
+- それ以外は Notion 『質問ボード』
+- Office Hour 中に最大 5 件まで回答
 
-[C] Expectations (明文化)
-    ─ 質問OK、機嫌気にしない
-    ─ 緊急 = 即 @
-    ─ 即答できない時は『今日中』と宣言
-```
+**[C] Expectations (明文化)**
+- 質問OK、機嫌気にしない
+- 緊急 = 即 @
+- 即答できない時は『今日中』と宣言
 
 ---
 
@@ -3181,10 +3478,10 @@ Em Linh (intern Marketing) đã onboarding 2 tuần. Anh Dũng nhận trách nhi
 
 ## ⚠ Tránh
 
-- 「いつでも聞いてね」 mơ hồ — junior càng confused, hỏi quá hoặc không hỏi.
-- Skip Weekly 1-on-1 vì "週で進捗ない" — đó là khi mentor learn về Linh state of mind.
-- Không nói rõ về "緊急" — junior tự đánh giá sai → bỏ qua incident hoặc spam non-urgent.
-- Mentor trả lời quá nhanh khi không cần — quên rule 28 (coaching mindset).
+- 「いつでも聞いてね」 mơ hồ — junior càng bối rối, hỏi quá hoặc không hỏi.
+- Bỏ Weekly 1-on-1 vì "週で進捗ない" — đó lại chính là lúc mentor hiểu được trạng thái tâm lý của Linh.
+- Không nói rõ về "緊急" — junior tự đánh giá sai → bỏ qua sự cố hoặc dội tin nhắn không khẩn cấp.
+- Mentor trả lời quá nhanh khi không cần — quên rule 28 (tư duy coaching).
 
 ---
 
@@ -3204,7 +3501,7 @@ Em Linh (intern Marketing) đã onboarding 2 tuần. Anh Dũng nhận trách nhi
 
 # Rule 35 — Hou-Ren-Sou khi work-from-home / リモートワーク時
 
-> **Luận điểm.** Remote work làm "vô hình" status của mỗi member — sếp không nhìn thấy ai đang làm gì. Khắc phục bằng **3 thói quen tạo hiện diện**: **(1) Daily standup async** (Slack 9:30, 1 message DDBN format), **(2) Status icon Slack** (🟢working / 🟡away / 🔴focus / 🟣meeting), **(3) End-of-Day log** (1 dòng EOD review trên Slack #daily-log). Thêm: **camera on trong họp** (mặc định, không "今日はちょっと…"), **respond time SLA** trong giờ làm việc 1 giờ.
+> **Luận điểm.** Làm việc từ xa khiến trạng thái của mỗi thành viên trở nên "vô hình" — sếp không nhìn thấy ai đang làm gì. Khắc phục bằng **3 thói quen tạo hiện diện**: **(1) Daily standup async** (Slack 9:30, 1 tin nhắn theo định dạng DDBN), **(2) Status icon Slack** (🟢working / 🟡away / 🔴focus / 🟣meeting), **(3) End-of-Day log** (1 dòng tổng kết cuối ngày trên Slack #daily-log). Thêm: **bật camera trong họp** (mặc định, không "今日はちょっと…"), **thời gian phản hồi cam kết** trong giờ làm việc dưới 1 giờ.
 >
 > リモート可視化3点：①Slack 9:30 朝会 (DDBN) ②ステータスアイコン更新 ③EOD ログ。会議中はカメラON、Slack返信SLAは1時間以内。
 >
@@ -3222,15 +3519,19 @@ Em Linh WFH thứ Tư 22/4 (vì sửa chữa nhà). Lần đầu Linh "im lặng
 
 *JP 14:00, Slack DM Linh · 15:00, không response · Slack DM zun · Slack DM Linh · 16:00 ようやく返信*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **田中PMO** | 「リンさん、ブロシュアの校正版いただけますか?」 |
-|  | (silence) |
-| **田中PMO** | 「ズンさん、リンさんに14:00 にメッセージしましたが返信ない。本日 WFH ですか?ステータスも分からず…」 |
-| **ズン** | 「リン!田中様から連絡来てる。すぐ返信して。あと、リモートの日は朝会 + ステータス更新 + EOD ログを忘れずに。」 |
-| **リン** | 「すみません、ランチ後に集中していて見落としました…」 |
+| **田中PMO** | 「リンさん、ブロシュアの<ruby>校正版<rt>こうせいばん</rt></ruby>いただけますか?」 |
+|  | *Linh, em gửi giúp anh bản đã hiệu đính brochure ạ?* |
+|  | (im lặng) |
+| **田中PMO** | 「ズンさん、リンさんに14:00 にメッセージしましたが<ruby>返信<rt>へんしん</rt></ruby>ない。本日 WFH ですか?ステータスも分からず…」 |
+|  | *Dũng, anh gửi tin cho Linh từ 14:00 mà không reply. Hôm nay Linh WFH à? Status cũng không thấy...* |
+| **ズン** | 「リン!田中様から連絡来てる。すぐ<ruby>返信<rt>へんしん</rt></ruby>して。あと、リモートの日は<ruby>朝会<rt>あさかい</rt></ruby> + ステータス<ruby>更新<rt>こうしん</rt></ruby> + EOD ログを忘れずに。」 |
+|  | *Linh! Anh Tanaka đang chờ em. Reply ngay đi. Với cả, ngày WFH nhớ làm standup sáng + update status + EOD log.* |
+| **リン** | 「すみません、ランチ後に<ruby>集中<rt>しゅうちゅう</rt></ruby>していて<ruby>見落<rt>みお</rt></ruby>としました…」 |
+|  | *Em xin lỗi, sau ăn trưa em focus quá nên không thấy...* |
 
-**Vì sao xấu:** L1 anh Tanaka không biết Linh WFH. L2 silence 1 giờ với khách-side. L4 chỉ ra: WFH cần extra visibility — không phải less.
+**Vì sao xấu:** L1 anh Tanaka không biết Linh WFH. L2 im lặng 1 giờ với phía khách. L4 chỉ ra: WFH cần hiện diện nhiều hơn — không phải ít đi.
 
 ---
 
@@ -3238,19 +3539,25 @@ Em Linh WFH thứ Tư 22/4 (vì sửa chữa nhà). Lần đầu Linh "im lặng
 
 *9:30, Slack #team-daily · 11:30, Slackステータス変更 · JP 14:00, Slack DM Linh · 14:15、returns from focus mode · 18:00, Slack #team-daily · Slack reply*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **リン** | 「**①朝会** 【Daily 4/22 WFH 🏠】Done: 昨日のブロシュア初稿 / Doing: 校正版 (今日中) / Blocked: なし / Next: 14:00 までに田中PMOへ送付【1】。**ステータス: 🟢 working until 18:00 ICT**【2】。」 |
+| **リン** | 「**①<ruby>朝会<rt>あさかい</rt></ruby>** 【Daily 4/22 WFH 🏠】Done: 昨日のブロシュア<ruby>初稿<rt>しょこう</rt></ruby> / Doing: <ruby>校正版<rt>こうせいばん</rt></ruby> (今日中) / Blocked: なし / Next: 14:00 までに田中PMOへ<ruby>送付<rt>そうふ</rt></ruby>【1】。**ステータス: 🟢 working until 18:00 ICT**【2】。」 |
+|  | *[1 Standup] [Daily 22/4 WFH 🏠] Done: bản đầu brochure hôm qua / Doing: bản hiệu đính (trong hôm nay) / Blocked: không / Next: gửi anh Tanaka PMO trước 14:00. Status: 🟢 working until 18:00 ICT.* |
 | **リン** | 「🍱 lunch 11:30-12:30」 |
-| **田中PMO** | 「リンさん、ブロシュアの校正版いただけますか?」 |
-| **リン** | 「田中様、お世話になっております。ちょうど14:00 に EAJ_v2.pdf を送付済でございます。受信ご確認いただけますでしょうか。」 |
-| **リン** | 「**③EOD ログ** 【EOD 4/22】Done: ブロシュア校正版送付済(田中PMO 受領確認済) / 持ち越し: なし / 明日 Top 3: ① Phase3 marketing plan ② 印刷会社発注 ③ ハイ留学 announcement draft【3】。**ステータス更新: 🟢 → 🌙 EOD**。」 |
-| **ズン** | 「visibility 完璧。客先からも『分かりやすい』とのこと。継続して。」 |
+|  | *🍱 ăn trưa 11:30-12:30* |
+| **田中PMO** | 「リンさん、ブロシュアの<ruby>校正版<rt>こうせいばん</rt></ruby>いただけますか?」 |
+|  | *Linh, em gửi giúp anh bản đã hiệu đính brochure ạ?* |
+| **リン** | 「田中様、お世話になっております。ちょうど14:00 に EAJ_v2.pdf を<ruby>送付済<rt>そうふずみ</rt></ruby>でございます。<ruby>受信<rt>じゅしん</rt></ruby>ご<ruby>確認<rt>かくにん</rt></ruby>いただけますでしょうか。」 |
+|  | *Anh Tanaka, em xin chào. Em vừa gửi EAJ_v2.pdf đúng 14:00 ạ. Phiền anh xác nhận nhận được giúp em ạ?* |
+| **リン** | 「**③EOD ログ** 【EOD 4/22】Done: ブロシュア<ruby>校正版<rt>こうせいばん</rt></ruby><ruby>送付済<rt>そうふずみ</rt></ruby>(田中PMO <ruby>受領<rt>じゅりょう</rt></ruby><ruby>確認済<rt>かくにんずみ</rt></ruby>) / <ruby>持<rt>も</rt></ruby>ち<ruby>越<rt>こ</rt></ruby>し: なし / 明日 Top 3: ① Phase3 marketing plan ② <ruby>印刷会社<rt>いんさつがいしゃ</rt></ruby><ruby>発注<rt>はっちゅう</rt></ruby> ③ ハイ留学 announcement draft【3】。**ステータス<ruby>更新<rt>こうしん</rt></ruby>: 🟢 → 🌙 EOD**。」 |
+|  | *[3 EOD log] [EOD 22/4] Done: đã gửi bản hiệu đính brochure (anh Tanaka đã xác nhận) / Chuyển sang mai: không / Top 3 ngày mai: [1] Marketing plan Phase 3 [2] Đặt nhà in [3] Draft announcement Hải đi du học. Status: 🟢 → 🌙 EOD.* |
+| **ズン** | 「visibility 完璧。<ruby>客先<rt>きゃくさき</rt></ruby>からも『分かりやすい』とのこと。<ruby>継続<rt>けいぞく</rt></ruby>して。」 |
+|  | *Hiện diện hoàn hảo. Khách cũng nói 'rõ ràng'. Em duy trì nhé.* |
 
 📝 **Ghi chú:**
-- 【1】**朝会 9:30 WFH icon 🏠** — show ngay từ đầu ngày là WFH. Đồng thời DDBN format đã có.
-- 【2】**「working until 18:00 ICT」** — ICT timezone explicit (rule 21). Anh Tanaka biết khung giờ Linh online.
-- 【3】**EOD ログ** — closure cuối ngày, có "Tomorrow Top 3". Sếp/khách đọc 1 message biết hôm sau.
+- 【1】**朝会 9:30 WFH icon 🏠** — báo ngay từ đầu ngày là WFH. Đồng thời đã theo định dạng DDBN.
+- 【2】**「working until 18:00 ICT」** — ghi rõ múi giờ ICT (rule 21). Anh Tanaka biết khung giờ Linh online.
+- 【3】**EOD ログ** — chốt cuối ngày, có "Top 3 ngày mai". Sếp/khách đọc 1 tin nhắn là biết hôm sau làm gì.
 
 ---
 
@@ -3258,35 +3565,35 @@ Em Linh WFH thứ Tư 22/4 (vì sửa chữa nhà). Lần đầu Linh "im lặng
 
 | Icon | Trạng thái | Khi nào |
 |------|-------------|---------|
-| 🟢 working | Online + responsive | Default working hours |
-| 🟡 away | Tạm rời máy | Lunch / coffee break (gắn time) |
-| 🔴 focus | Deep work, response trong 1h | Coding / drafting |
-| 🟣 meeting | Đang họp | Client call / internal meeting |
-| 🌙 EOD | Hết giờ | After EOD log |
-| 🏠 WFH | Working from home | Cả ngày (combined với 🟢) |
+| 🟢 working | Online + sẵn sàng phản hồi | Giờ làm việc mặc định |
+| 🟡 away | Tạm rời máy | Ăn trưa / nghỉ giải lao (kèm thời gian) |
+| 🔴 focus | Tập trung sâu, phản hồi trong 1h | Coding / soạn thảo |
+| 🟣 meeting | Đang họp | Họp với khách / họp nội bộ |
+| 🌙 EOD | Hết giờ | Sau khi đăng EOD log |
+| 🏠 WFH | Làm việc tại nhà | Cả ngày (kết hợp với 🟢) |
 
 ---
 
 ## 📷 Camera Convention
 
-✅ **Default ON** (kể cả Linh hơi mệt, kể cả background lộn xộn → dùng blur).
-❌ **「今日はちょっと…」** — không có lý do trừ ốm + đã báo trước.
-✅ **Off khi có lý do** — báo trước trong calendar invite description.
+✅ **Mặc định BẬT** (kể cả Linh hơi mệt, kể cả phông nền lộn xộn → dùng blur làm mờ).
+❌ **「今日はちょっと…」** — không chấp nhận lý do, trừ khi ốm + đã báo trước.
+✅ **Tắt khi có lý do** — báo trước trong phần mô tả của lời mời họp (calendar invite).
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「リモート = invisible になる前に visible にする。朝会 9:30 + ステータスアイコン + EOD ログ + カメラ ON。Slack 返信 SLA 1時間以内。」**
+> **「リモート = invisible になる前に visible にする。<ruby>朝会<rt>あさかい</rt></ruby> 9:30 + ステータスアイコン + EOD ログ + カメラ ON。Slack <ruby>返信<rt>へんしん</rt></ruby> SLA 1時間以内。」**
 
 ---
 
 ## ⚠ Tránh
 
-- WFH mà không khai báo morning standup → sếp/khách hỏi quanh.
-- Slack status không update khi đi ăn / đi họp → response time bị penalize.
-- Camera off "không có lý do" → Nhật coi là không nghiêm túc.
-- EOD log skip nhiều ngày → mất feedback loop.
+- WFH mà không khai báo standup buổi sáng → sếp/khách phải hỏi quanh.
+- Slack status không cập nhật khi đi ăn / đi họp → thời gian phản hồi bị đánh giá thấp.
+- Tắt camera "không có lý do" → người Nhật coi là không nghiêm túc.
+- Bỏ EOD log nhiều ngày → mất vòng phản hồi.
 
 ---
 
@@ -3307,7 +3614,7 @@ Em Linh WFH thứ Tư 22/4 (vì sửa chữa nhà). Lần đầu Linh "im lặng
 
 # Rule 36 — Bridging gap VN-JP HouRenSou / VN-JP オフショア・ギャップ
 
-> **Luận điểm.** VN văn hóa giao tiếp **"less = better"**: không có news = mọi thứ ổn, báo nhiều = phiền sếp. Nhật ngược lại — **"silence = problem"**: không có 報告 = sếp lo "team đang giấu". Đây là cause #1 của xích mích offshore. Adapt: **VN team phải vượt mức tần suất 報告 theo chuẩn Nhật**: daily standup không skip + status update mỗi 4 giờ trong incident + báo cáo 3 lần (start / middle / end) cho task >1 ngày. Cụ thể quy tắc: **"Nhật normal" = "VN +30% reporting"**. Và **chủ động báo "no news"** — 「現在進行中で、ブロッカーなしです」.
+> **Luận điểm.** VN văn hóa giao tiếp **"ít báo = tốt hơn"**: không có tin = mọi thứ ổn, báo nhiều = phiền sếp. Nhật ngược lại — **"im lặng = có vấn đề"**: không có 報告 (báo cáo) = sếp lo "team đang giấu". Đây là nguyên nhân số 1 của xích mích offshore. Thích nghi: **team VN phải vượt mức tần suất 報告 theo chuẩn Nhật**: daily standup không bỏ + cập nhật trạng thái mỗi 4 giờ trong sự cố + báo cáo 3 lần (đầu / giữa / cuối) cho task hơn 1 ngày. Cụ thể quy tắc: **"mức thường của Nhật" = "VN +30% báo cáo"**. Và **chủ động báo "không có tin mới"** — 「現在進行中で、ブロッカーなしです」.
 >
 > VN『less = better』vs JP『silence = problem』。VN side は報告頻度を JP 基準まで増やす + 『進捗あり/なし問わず定期報告』+『no news 報告』を含める。
 >
@@ -3325,15 +3632,19 @@ Em Dũng đang làm 1 task 3 ngày: build proposal Phase 3 cost. Lần đầu D�
 
 *Slack thứ Hai 9:00, sau khi nhận task từ Matsumoto · thứ Hai 18:00 - thứ Tư 12:00 — silence, Dũng đang làm · thứ Tư 13:00, Slack DM · panic*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「承知しました。木曜中に提案書をご準備いたします。」 |
+| **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。<ruby>木曜<rt>もくよう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>提案書<rt>ていあんしょ</rt></ruby>をご<ruby>準備<rt>じゅんび</rt></ruby>いたします。」 |
+|  | *Em hiểu rồi ạ. Em sẽ chuẩn bị proposal trong thứ Năm ạ.* |
 |  | (im lặng 51 giờ) |
-| **松本PM** | 「ズンさん、進捗いかがでしょうか?月曜以降ご連絡なく、不安に感じております。」 |
-| **ズン** | 「あ、すみません、順調に進めています!木曜には間違いなく…」 |
-| **松本PM** | 「ズンさん、**進捗があってもなくても、3日に1度は status 連絡**をお願いします。VN チームから連絡が無い時、こちらは『何か問題が起きたか』と推察してしまいます。」 |
+| **松本PM** | 「ズンさん、<ruby>進捗<rt>しんちょく</rt></ruby>いかがでしょうか?<ruby>月曜<rt>げつよう</rt></ruby><ruby>以降<rt>いこう</rt></ruby>ご<ruby>連絡<rt>れんらく</rt></ruby>なく、<ruby>不安<rt>ふあん</rt></ruby>に<ruby>感<rt>かん</rt></ruby>じております。」 |
+|  | *Dũng, tiến độ thế nào nhỉ? Từ thứ Hai không thấy em báo, tôi đang lo.* |
+| **ズン** | 「あ、すみません、<ruby>順調<rt>じゅんちょう</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めています!<ruby>木曜<rt>もくよう</rt></ruby>には<ruby>間違<rt>まちが</rt></ruby>いなく…」 |
+|  | *À, em xin lỗi, em đang làm thuận lợi ạ! Thứ Năm chắc chắn ạ...* |
+| **松本PM** | 「ズンさん、**<ruby>進捗<rt>しんちょく</rt></ruby>があってもなくても、3<ruby>日<rt>か</rt></ruby>に1<ruby>度<rt>ど</rt></ruby>は status <ruby>連絡<rt>れんらく</rt></ruby>**をお<ruby>願<rt>ねが</rt></ruby>いします。VN チームから<ruby>連絡<rt>れんらく</rt></ruby>が<ruby>無<rt>な</rt></ruby>い<ruby>時<rt>とき</rt></ruby>、こちらは『<ruby>何<rt>なに</rt></ruby>か<ruby>問題<rt>もんだい</rt></ruby>が<ruby>起<rt>お</rt></ruby>きたか』と<ruby>推察<rt>すいさつ</rt></ruby>してしまいます。」 |
+|  | *Dũng, có tiến độ hay không, 3 ngày 1 lần phiền em update status. Khi không thấy team VN báo, bên tôi sẽ suy đoán 'có chuyện gì xảy ra'.* |
 
-**Vì sao xấu:** L2 im lặng 51 giờ với khách Nhật = "im lặng = problem" theo Nhật. Dũng tin "no news = good news" (VN style). L5 chỉ ra: phải báo dù không có gì mới.
+**Vì sao xấu:** L2 im lặng 51 giờ với khách Nhật = "im lặng = có vấn đề" theo Nhật. Dũng tin "không có tin tức là tin tốt" (kiểu VN). L5 chỉ ra: phải báo dù không có gì mới.
 
 ---
 
@@ -3341,46 +3652,52 @@ Em Dũng đang làm 1 task 3 ngày: build proposal Phase 3 cost. Lần đầu D�
 
 *thứ Hai 9:00 · 火曜 18:00, Slack · 火曜 18:30 · 水曜 18:00, Slack · 木曜 8:50, メール*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「松本様、承知しました。木曜中に提案書をご準備いたします。**進捗共有の予定:**【1】 火曜EOD: ドラフト構成案 / 水曜EOD: コスト見積完了 / 木曜AM: 完成版送付。途中で blocker あればすぐご連絡いたします。」 |
-| **ズン** | 「**【中間報告 ① / 火曜EOD】** ドラフト構成案完成。Phase 3 機能スコープ8項目、コスト軸は人月+ライセンスで構成予定。**ブロッカーなし、予定通り進行中**【2】。明日のコスト見積完了報告は水曜 EOD に行います。」 |
-| **松本PM** | 「ご連絡ありがとうございます。スコープ8項目、確認しました。」 |
-| **ズン** | 「**【中間報告 ② / 水曜EOD】** コスト見積完了 (¥18M〜¥22M レンジ)。明日 AM 9:00 に最終版を提案書でお送りいたします。**ブロッカーなし**。」 |
-| **ズン** | 「松本様、Phase 3 ご提案書をお送りいたします。**月曜お約束通り**、火曜・水曜に中間報告を経て本日完成いたしました。ご確認のほどよろしくお願い申し上げます【3】。」 |
-| **松本PM** | 「進捗の見える化、非常に分かりやすくなりました。ベトナムチームのホウレンソウが大変分かりやすくなり、感謝しております。」 |
+| **ズン** | 「<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>、<ruby>承知<rt>しょうち</rt></ruby>しました。<ruby>木曜<rt>もくよう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>提案書<rt>ていあんしょ</rt></ruby>をご<ruby>準備<rt>じゅんび</rt></ruby>いたします。**<ruby>進捗<rt>しんちょく</rt></ruby><ruby>共有<rt>きょうゆう</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>:**【1】 <ruby>火曜<rt>かよう</rt></ruby>EOD: ドラフト<ruby>構成案<rt>こうせいあん</rt></ruby> / <ruby>水曜<rt>すいよう</rt></ruby>EOD: コスト<ruby>見積<rt>みつもり</rt></ruby><ruby>完了<rt>かんりょう</rt></ruby> / <ruby>木曜<rt>もくよう</rt></ruby>AM: <ruby>完成版<rt>かんせいばん</rt></ruby><ruby>送付<rt>そうふ</rt></ruby>。<ruby>途中<rt>とちゅう</rt></ruby>で blocker あればすぐご<ruby>連絡<rt>れんらく</rt></ruby>いたします。」 |
+|  | *Anh Matsumoto, em hiểu rồi ạ. Em sẽ chuẩn bị proposal trong thứ Năm ạ. [Lịch chia sẻ tiến độ] Thứ Ba EOD: cấu trúc draft / thứ Tư EOD: xong báo giá cost / thứ Năm sáng: gửi bản cuối. Có blocker em báo ngay ạ.* |
+| **ズン** | 「**【<ruby>中間報告<rt>ちゅうかんほうこく</rt></ruby> ① / <ruby>火曜<rt>かよう</rt></ruby>EOD】** ドラフト<ruby>構成案<rt>こうせいあん</rt></ruby><ruby>完成<rt>かんせい</rt></ruby>。Phase 3 <ruby>機能<rt>きのう</rt></ruby>スコープ8<ruby>項目<rt>こうもく</rt></ruby>、コスト<ruby>軸<rt>じく</rt></ruby>は<ruby>人月<rt>にんげつ</rt></ruby>+ライセンスで<ruby>構成<rt>こうせい</rt></ruby><ruby>予定<rt>よてい</rt></ruby>。**ブロッカーなし、<ruby>予定通<rt>よていどお</rt></ruby>り<ruby>進行<rt>しんこう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>**【2】。<ruby>明日<rt>あす</rt></ruby>のコスト<ruby>見積<rt>みつもり</rt></ruby><ruby>完了<rt>かんりょう</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby>は<ruby>水曜<rt>すいよう</rt></ruby> EOD に<ruby>行<rt>おこな</rt></ruby>います。」 |
+|  | *[Trung gian 1 / Thứ Ba EOD] Xong cấu trúc draft. Scope chức năng Phase 3 có 8 mục, trục cost dự kiến gồm man-month + license. Không có blocker, đúng kế hoạch. Báo xong cost ngày mai em làm thứ Tư EOD ạ.* |
+| **松本PM** | 「ご<ruby>連絡<rt>れんらく</rt></ruby>ありがとうございます。スコープ8<ruby>項目<rt>こうもく</rt></ruby>、<ruby>確認<rt>かくにん</rt></ruby>しました。」 |
+|  | *Cảm ơn em báo. 8 mục scope tôi đã xem.* |
+| **ズン** | 「**【<ruby>中間報告<rt>ちゅうかんほうこく</rt></ruby> ② / <ruby>水曜<rt>すいよう</rt></ruby>EOD】** コスト<ruby>見積<rt>みつもり</rt></ruby><ruby>完了<rt>かんりょう</rt></ruby> (¥18M〜¥22M レンジ)。<ruby>明日<rt>あす</rt></ruby> AM 9:00 に<ruby>最終版<rt>さいしゅうばん</rt></ruby>を<ruby>提案書<rt>ていあんしょ</rt></ruby>でお<ruby>送<rt>おく</rt></ruby>りいたします。**ブロッカーなし**。」 |
+|  | *[Trung gian 2 / Thứ Tư EOD] Xong báo giá cost (range ¥18M-¥22M). Sáng mai 9:00 em gửi bản cuối qua proposal ạ. Không có blocker.* |
+| **ズン** | 「<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>、Phase 3 ご<ruby>提案書<rt>ていあんしょ</rt></ruby>をお<ruby>送<rt>おく</rt></ruby>りいたします。**<ruby>月曜<rt>げつよう</rt></ruby>お<ruby>約束通<rt>やくそくどお</rt></ruby>り**、<ruby>火曜<rt>かよう</rt></ruby>・<ruby>水曜<rt>すいよう</rt></ruby>に<ruby>中間報告<rt>ちゅうかんほうこく</rt></ruby>を<ruby>経<rt>へ</rt></ruby>て<ruby>本日<rt>ほんじつ</rt></ruby><ruby>完成<rt>かんせい</rt></ruby>いたしました。ご<ruby>確認<rt>かくにん</rt></ruby>のほどよろしくお<ruby>願<rt>ねが</rt></ruby>い<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます【3】。」 |
+|  | *Anh Matsumoto, em xin gửi proposal Phase 3 ạ. Đúng như hứa thứ Hai, qua 2 báo cáo trung gian thứ Ba và thứ Tư, hôm nay em đã hoàn thành ạ. Phiền anh xác nhận ạ.* |
+| **松本PM** | 「<ruby>進捗<rt>しんちょく</rt></ruby>の<ruby>見<rt>み</rt></ruby>える<ruby>化<rt>か</rt></ruby>、<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>分<rt>わ</rt></ruby>かりやすくなりました。ベトナムチームのホウレンソウが<ruby>大変<rt>たいへん</rt></ruby><ruby>分<rt>わ</rt></ruby>かりやすくなり、<ruby>感謝<rt>かんしゃ</rt></ruby>しております。」 |
+|  | *Việc hữu hình hóa tiến độ rõ hơn rất nhiều. Hou-Ren-Sou của team Việt Nam dễ hiểu hơn nhiều, tôi rất cảm kích.* |
 
 📝 **Ghi chú:**
-- 【1】**月曜時点で「進捗共有の予定」を約束** — pre-commit reporting cadence. Khách Nhật biết khi nào sẽ nghe lại.
-- 【2】**「ブロッカーなし、予定通り進行中」** — đây là **「no news 報告」**. Không có gì mới = vẫn báo 1 dòng.
-- 【3】**「月曜お約束通り、火曜・水曜に中間報告を経て」** — close the loop. Chứng minh mỗi promise được giữ.
+- 【1】**月曜時点で「進捗共有の予定」を約束** — cam kết trước nhịp báo cáo ngay từ đầu. Khách Nhật biết khi nào sẽ nghe lại.
+- 【2】**「ブロッカーなし、予定通り進行中」** — đây là **「báo cáo không có tin mới (no news 報告)」**. Không có gì mới = vẫn báo 1 dòng.
+- 【3】**「月曜お約束通り、火曜・水曜に中間報告を経て」** — khép vòng (close the loop). Chứng minh mỗi lời hứa đều được giữ.
 
 ---
 
-## 🔁 VN vs JP — Reporting Frequency
+## 🔁 VN vs JP — Tần suất báo cáo
 
-| Tình huống | VN style mặc định | JP standard | Adapt cho VN-JP |
+| Tình huống | Kiểu VN mặc định | Chuẩn Nhật | Thích nghi cho VN-JP |
 |-------------|-------------------|--------------|------------------|
 | Task 1 ngày | Báo cuối ngày | Daily standup | DDBN sáng + EOD |
-| Task 3 ngày | Báo cuối | 中間報告 mỗi ngày | DDBN + 1 mid status / 3 ngày |
-| Incident | Báo khi resolve | Update mỗi 4h | Update mỗi 4h fixed |
-| "Không có gì mới" | Không báo | Báo "no change" | Báo "ブロッカーなし、予定通り" |
-| Email reply | Khi có info | Trong 24h dù chỉ ack | "受領しました、〇日までに回答" |
+| Task 3 ngày | Báo cuối | 中間報告 mỗi ngày | DDBN + 1 báo trạng thái giữa kỳ / 3 ngày |
+| Sự cố | Báo khi xử lý xong | Cập nhật mỗi 4h | Cập nhật mỗi 4h cố định |
+| "Không có gì mới" | Không báo | Báo "không thay đổi" | Báo "ブロッカーなし、予定通り" |
+| Trả lời email | Khi có thông tin | Trong 24h dù chỉ xác nhận đã nhận | "受領しました、〇日までに回答" |
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「VN『沈黙=順調』 ≠ JP『沈黙=問題』。タスク開始時に reporting cadence を約束、ない情報も "ブロッカーなし、予定通り" と1行報告。」**
+> **「VN『<ruby>沈黙<rt>ちんもく</rt></ruby>=<ruby>順調<rt>じゅんちょう</rt></ruby>』 ≠ JP『<ruby>沈黙<rt>ちんもく</rt></ruby>=<ruby>問題<rt>もんだい</rt></ruby>』。タスク<ruby>開始<rt>かいし</rt></ruby><ruby>時<rt>じ</rt></ruby>に reporting cadence を<ruby>約束<rt>やくそく</rt></ruby>、ない<ruby>情報<rt>じょうほう</rt></ruby>も "ブロッカーなし、<ruby>予定通<rt>よていどお</rt></ruby>り" と1<ruby>行<rt>ぎょう</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby>。」**
 
 ---
 
 ## ⚠ Tránh
 
-- 「特に共有することなければ送らないで OK でしょ」 — VN reflex, NG.
-- Chỉ báo khi xong → khách Nhật suy đoán xấu nhất.
-- 「忙しすぎて報告できなかった」 — không hợp lệ. 1 dòng "ブロッカーなし" mất 30 giây.
-- Nghĩ "anh Matsumoto chắc hiểu VN style" — không có giả định cross-cultural.
+- 「<ruby>特<rt>とく</rt></ruby>に<ruby>共有<rt>きょうゆう</rt></ruby>することなければ<ruby>送<rt>おく</rt></ruby>らないで OK でしょ」 — phản xạ kiểu VN, KHÔNG nên.
+- Chỉ báo khi xong → khách Nhật suy đoán theo hướng xấu nhất.
+- 「<ruby>忙<rt>いそが</rt></ruby>しすぎて<ruby>報告<rt>ほうこく</rt></ruby>できなかった」 — không hợp lệ. 1 dòng "ブロッカーなし" mất 30 giây.
+- Nghĩ "anh Matsumoto chắc hiểu kiểu VN" — không được mặc định khác biệt văn hóa là điều hiển nhiên.
 
 ---
 
@@ -3406,7 +3723,7 @@ Em Dũng đang làm 1 task 3 ngày: build proposal Phase 3 cost. Lần đầu D�
 
 # Rule 37 — Slack / Notion / Email — chọn đúng / ツール選択
 
-> **Luận điểm.** 3 channel chính có **mục đích khác nhau**, không thay thế cho nhau. Cài đúng tool theo trục **Urgency × Audience size × Persistence (cần lưu lâu không?)**. Ad-hoc gửi sai channel = info bay (chỉ Slack thì 1 tuần search không ra) hoặc spam (gửi mail cho 1 câu hỏi 30 giây). Decision matrix sau cho người VN-JP làm việc với khách Nhật.
+> **Luận điểm.** 3 kênh chính có **mục đích khác nhau**, không thay thế cho nhau. Cài đúng công cụ theo trục **độ khẩn (Urgency) × quy mô người nhận (Audience) × mức lưu trữ (Persistence — cần lưu lâu không?)**. Gửi sai kênh = thông tin bay mất (chỉ Slack thì 1 tuần tìm không ra) hoặc gây phiền (gửi mail cho 1 câu hỏi 30 giây). Bảng quyết định sau dành cho người Việt làm việc với khách Nhật.
 >
 > 3チャネル使い分け: Slack (即時×小規模×低保存)、Notion (低時×中大規模×高保存)、Email (低時×外部×証跡として高保存)。誤投稿は情報消失または spam。
 >
@@ -3416,7 +3733,7 @@ Em Dũng đang làm 1 task 3 ngày: build proposal Phase 3 cost. Lần đầu D�
 
 ## Bối cảnh / 場面
 
-Anh Tanaka PMO (Hakuō) gửi Slack DM hỏi 4 việc khác nhau cho Dũng. Dũng cần biết mỗi cái dùng channel nào.
+Anh Tanaka PMO (Hakuō) gửi Slack DM hỏi 4 việc khác nhau cho Dũng. Dũng cần biết mỗi cái dùng kênh nào.
 
 ---
 
@@ -3424,13 +3741,16 @@ Anh Tanaka PMO (Hakuō) gửi Slack DM hỏi 4 việc khác nhau cho Dũng. Dũn
 
 *Slack DM · Slack thread, dài*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **田中PMO** | 「ズンさん、4点ご相談です:① Phase3 公式提案書、②本日の Phase2 障害 ETA、③契約書改定案 v3、④来週水曜 14時の会議候補。」 |
-| **ズン** | 「① はい、提案書はこちらです [PDF添付20MB] / ② ETA は今 15:30 / ③ 契約書改定案は… (3000文字) / ④ 14時OKです」 |
-| **田中PMO** | 「ズンさん、② 以外は Slack で扱うべきではない題材です。① は **正式メール+提案書添付**、③ は **Notion 共同編集**、④ は **Outlook 招待**です。今 Slack に 20MB PDF 投稿されたら、検索もダウンロードも非効率です。」 |
+| **田中PMO** | 「ズンさん、4点ご<ruby>相談<rt>そうだん</rt></ruby>です:① Phase3 <ruby>公式<rt>こうしき</rt></ruby><ruby>提案書<rt>ていあんしょ</rt></ruby>、②本日の Phase2 <ruby>障害<rt>しょうがい</rt></ruby> ETA、③<ruby>契約書<rt>けいやくしょ</rt></ruby><ruby>改定案<rt>かいていあん</rt></ruby> v3、④<ruby>来週<rt>らいしゅう</rt></ruby><ruby>水曜<rt>すいよう</rt></ruby> 14<ruby>時<rt>じ</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby><ruby>候補<rt>こうほ</rt></ruby>。」 |
+|  | *Dũng, tôi có 4 việc cần hỏi: [1] Proposal chính thức Phase 3 / [2] ETA sự cố Phase 2 hôm nay / [3] Bản sửa hợp đồng v3 / [4] Lịch họp 14h thứ Tư tuần sau.* |
+| **ズン** | 「① はい、<ruby>提案書<rt>ていあんしょ</rt></ruby>はこちらです [PDF<ruby>添付<rt>てんぷ</rt></ruby>20MB] / ② ETA は今 15:30 / ③ <ruby>契約書<rt>けいやくしょ</rt></ruby><ruby>改定案<rt>かいていあん</rt></ruby>は… (3000<ruby>文字<rt>もじ</rt></ruby>) / ④ 14<ruby>時<rt>じ</rt></ruby>OKです」 |
+|  | *[1] Vâng, proposal đây ạ [PDF đính kèm 20MB] / [2] ETA bây giờ là 15:30 / [3] Bản sửa hợp đồng là... (3000 chữ) / [4] 14h OK ạ* |
+| **田中PMO** | 「ズンさん、② <ruby>以外<rt>いがい</rt></ruby>は Slack で<ruby>扱<rt>あつか</rt></ruby>うべきではない<ruby>題材<rt>だいざい</rt></ruby>です。① は **<ruby>正式<rt>せいしき</rt></ruby>メール+<ruby>提案書<rt>ていあんしょ</rt></ruby><ruby>添付<rt>てんぷ</rt></ruby>**、③ は **Notion <ruby>共同<rt>きょうどう</rt></ruby><ruby>編集<rt>へんしゅう</rt></ruby>**、④ は **Outlook <ruby>招待<rt>しょうたい</rt></ruby>**です。今 Slack に 20MB PDF <ruby>投稿<rt>とうこう</rt></ruby>されたら、<ruby>検索<rt>けんさく</rt></ruby>もダウンロードも<ruby>非効率<rt>ひこうりつ</rt></ruby>です。」 |
+|  | *Dũng, ngoại trừ mục [2] thì không nên xử lý qua Slack. [1] cần email chính thức + đính kèm proposal, [3] cần Notion cộng tác, [4] cần Outlook invite. PDF 20MB trên Slack thì search và tải đều không hiệu quả.* |
 
-**Vì sao xấu:** L2 trộn 4 loại business khác nhau qua 1 channel. Slack không phải repo file lớn, không phải email formal, không phải doc collaboration.
+**Vì sao xấu:** L2 trộn 4 loại công việc khác nhau qua 1 kênh. Slack không phải nơi lưu file lớn, không phải email chính thức, không phải nơi cộng tác chỉnh sửa tài liệu.
 
 ---
 
@@ -3438,33 +3758,40 @@ Anh Tanaka PMO (Hakuō) gửi Slack DM hỏi 4 việc khác nhau cho Dũng. Dũn
 
 *Slack DM · Slack reply · 15:25 Slack · 17:50 メール · 18:05 Slack · 18:15 Outlook*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **田中PMO** | 「ズンさん、4点ご相談です:① Phase3 公式提案書、②本日の Phase2 障害 ETA、③契約書改定案 v3、④来週水曜 14時の会議候補。」 |
-| **ズン** | 「田中様、4点それぞれ最適な手段で対応いたします【1】:**① 提案書 → 本日18時までに正式メールで送付**(松本様CC)/**② ETA → 今 Slack で即答: 15:30 復旧見込み**【2】/**③ 契約書改定 → Notion ページで共有**(編集権付与済URL)【3】/**④ 会議候補 → 別途 Outlook 招待を送付**【4】。」 |
-| **田中PMO** | 「整理ありがとうございます。Slack で全部やられると煩雑だったので助かります。」 |
-| **ズン** | 「**②即答** ETA: rollback 15:30 完了、復旧確認 15:45 見込み。」 |
-| **ズン** | 「件名: 【ご提案】Phase 3 拡張開発のご提案書送付の件 ... [PDF添付6MB]」 |
-| **ズン** | 「**③Notion** 契約書改定案 v3 を Notion で共有しました: 〈URL〉 編集権あり、コメント歓迎です。」 |
-| **ズン** | 「**④Invite** Phase 3 進捗会議 4/29(水) 14:00-15:00 JST」 |
+| **田中PMO** | 「ズンさん、4点ご<ruby>相談<rt>そうだん</rt></ruby>です:① Phase3 <ruby>公式<rt>こうしき</rt></ruby><ruby>提案書<rt>ていあんしょ</rt></ruby>、②本日の Phase2 <ruby>障害<rt>しょうがい</rt></ruby> ETA、③<ruby>契約書<rt>けいやくしょ</rt></ruby><ruby>改定案<rt>かいていあん</rt></ruby> v3、④<ruby>来週<rt>らいしゅう</rt></ruby><ruby>水曜<rt>すいよう</rt></ruby> 14<ruby>時<rt>じ</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby><ruby>候補<rt>こうほ</rt></ruby>。」 |
+|  | *Dũng, tôi có 4 việc cần hỏi: [1] Proposal chính thức Phase 3 / [2] ETA sự cố Phase 2 hôm nay / [3] Bản sửa hợp đồng v3 / [4] Lịch họp 14h thứ Tư tuần sau.* |
+| **ズン** | 「田中様、4点それぞれ<ruby>最適<rt>さいてき</rt></ruby>な<ruby>手段<rt>しゅだん</rt></ruby>で<ruby>対応<rt>たいおう</rt></ruby>いたします【1】:**① <ruby>提案書<rt>ていあんしょ</rt></ruby> → 本日18時までに<ruby>正式<rt>せいしき</rt></ruby>メールで<ruby>送付<rt>そうふ</rt></ruby>**(松本様CC)/**② ETA → 今 Slack で<ruby>即答<rt>そくとう</rt></ruby>: 15:30 <ruby>復旧<rt>ふっきゅう</rt></ruby><ruby>見込<rt>みこ</rt></ruby>み**【2】/**③ <ruby>契約書<rt>けいやくしょ</rt></ruby><ruby>改定<rt>かいてい</rt></ruby> → Notion ページで<ruby>共有<rt>きょうゆう</rt></ruby>**(<ruby>編集権<rt>へんしゅうけん</rt></ruby><ruby>付与済<rt>ふよずみ</rt></ruby>URL)【3】/**④ <ruby>会議<rt>かいぎ</rt></ruby><ruby>候補<rt>こうほ</rt></ruby> → <ruby>別途<rt>べっと</rt></ruby> Outlook <ruby>招待<rt>しょうたい</rt></ruby>を<ruby>送付<rt>そうふ</rt></ruby>**【4】。」 |
+|  | *Anh Tanaka, em xin xử lý 4 việc bằng phương tiện tối ưu cho từng cái ạ: [1] Proposal → mail chính thức trước 18h hôm nay (CC anh Matsumoto) / [2] ETA → Slack reply ngay: dự kiến khôi phục 15:30 / [3] Sửa hợp đồng → share qua Notion page (URL có quyền edit) / [4] Lịch họp → em gửi Outlook invite riêng.* |
+| **田中PMO** | 「<ruby>整理<rt>せいり</rt></ruby>ありがとうございます。Slack で<ruby>全部<rt>ぜんぶ</rt></ruby>やられると<ruby>煩雑<rt>はんざつ</rt></ruby>だったので<ruby>助<rt>たす</rt></ruby>かります。」 |
+|  | *Cảm ơn em đã sắp xếp. Nếu nhồi hết qua Slack thì rối lắm, đỡ quá.* |
+| **ズン** | 「**②<ruby>即答<rt>そくとう</rt></ruby>** ETA: rollback 15:30 <ruby>完了<rt>かんりょう</rt></ruby>、<ruby>復旧<rt>ふっきゅう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby> 15:45 <ruby>見込<rt>みこ</rt></ruby>み。」 |
+|  | *[2 trả lời ngay] ETA: rollback 15:30 xong, dự kiến xác nhận khôi phục 15:45.* |
+| **ズン** | 「<ruby>件名<rt>けんめい</rt></ruby>: 【ご<ruby>提案<rt>ていあん</rt></ruby>】Phase 3 <ruby>拡張<rt>かくちょう</rt></ruby><ruby>開発<rt>かいはつ</rt></ruby>のご<ruby>提案書<rt>ていあんしょ</rt></ruby><ruby>送付<rt>そうふ</rt></ruby>の<ruby>件<rt>けん</rt></ruby> ... [PDF<ruby>添付<rt>てんぷ</rt></ruby>6MB]」 |
+|  | *[Tiêu đề] [Đề xuất] Gửi proposal mở rộng Phase 3 ... [PDF đính kèm 6MB]* |
+| **ズン** | 「**③Notion** <ruby>契約書<rt>けいやくしょ</rt></ruby><ruby>改定案<rt>かいていあん</rt></ruby> v3 を Notion で<ruby>共有<rt>きょうゆう</rt></ruby>しました: 〈URL〉 <ruby>編集権<rt>へんしゅうけん</rt></ruby>あり、コメント<ruby>歓迎<rt>かんげい</rt></ruby>です。」 |
+|  | *[3 Notion] Em đã share bản sửa hợp đồng v3 qua Notion: 〈URL〉. Có quyền edit, hoan nghênh anh comment ạ.* |
+| **ズン** | 「**④Invite** Phase 3 <ruby>進捗<rt>しんちょく</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby> 4/29(<ruby>水<rt>すい</rt></ruby>) 14:00-15:00 JST」 |
+|  | *[4 Invite] Họp tiến độ Phase 3 thứ Tư 29/4 14:00-15:00 JST* |
 
 📝 **Ghi chú:**
-- 【1】**「4点それぞれ最適な手段で」** — tuyên bố trước khi action. Anh Tanaka biết Dũng đã phân loại.
-- 【2】**Slack giữ ② ETA** — đúng use case: urgent + small + ngắn hạn.
-- 【3】**Notion cho ③ 契約書** — collaborative editing + version history. Mail thì hỏng vì có 5 round update.
-- 【4】**Outlook (calendar invite) cho ④ 会議候補** — calendar events cần ICS file, accept/decline tracking. Slack không track được.
+- 【1】**「4点それぞれ最適な手段で」** — tuyên bố trước khi hành động. Anh Tanaka biết Dũng đã phân loại.
+- 【2】**Slack giữ ② ETA** — đúng tình huống nên dùng: khẩn + nhỏ + ngắn hạn.
+- 【3】**Notion cho ③ 契約書 (hợp đồng)** — cộng tác chỉnh sửa + lịch sử phiên bản. Mail thì hỏng vì có 5 vòng cập nhật.
+- 【4】**Outlook (lời mời lịch) cho ④ 会議候補 (lịch họp)** — sự kiện lịch cần file ICS, theo dõi chấp nhận/từ chối. Slack không theo dõi được.
 
 ---
 
-## 🎯 Decision Matrix
+## 🎯 Bảng quyết định
 
-| Tool | Urgency | Audience | Persistence | Đúng cho |
+| Công cụ | Độ khẩn | Người nhận | Mức lưu trữ | Đúng cho |
 |------|---------|----------|-------------|---------|
-| **Slack** | High | Small (1-10) | Low (~30 ngày search) | ETA, blocker, daily standup, 雑談 |
-| **Notion / Confluence** | Low | Medium-Large | High (forever) | Spec, contract draft, runbook, DR, OKR |
-| **Email** | Low-Mid | External (client) | High (legal evidence) | 公式提案、契約、リスケ依頼、悪い知らせ |
-| **Outlook / GCal invite** | — | Attendees | (event level) | 会議招待 + ICS 付き |
-| **Phone / Zoom** | High emergency | 1-3 | None (memo cần có) | Sev1 incident escalation, sensitive |
+| **Slack** | Cao | Nhỏ (1-10) | Thấp (~30 ngày là tìm không ra) | ETA, blocker, daily standup, 雑談 |
+| **Notion / Confluence** | Thấp | Vừa-Lớn | Cao (lưu mãi) | Spec, contract draft, runbook, DR, OKR |
+| **Email** | Thấp-Vừa | Bên ngoài (khách) | Cao (bằng chứng pháp lý) | 公式提案、契約、リスケ依頼、悪い知らせ |
+| **Outlook / GCal invite** | — | Người dự họp | (theo sự kiện) | 会議招待 + ICS 付き |
+| **Phone / Zoom** | Khẩn cấp cao | 1-3 | Không (phải có memo) | Sev1 incident escalation, nhạy cảm |
 
 ---
 
@@ -3484,16 +3811,16 @@ Anh Tanaka PMO (Hakuō) gửi Slack DM hỏi 4 việc khác nhau cho Dũng. Dũn
 
 ## 🎯 Câu chốt
 
-> **「Slack=即時小規模、Notion=共同編集と保存、Email=外部公式と証跡。1つの会話で4題材が混じる時は4チャネルに分割。」**
+> **「Slack=<ruby>即時<rt>そくじ</rt></ruby><ruby>小規模<rt>しょうきぼ</rt></ruby>、Notion=<ruby>共同<rt>きょうどう</rt></ruby><ruby>編集<rt>へんしゅう</rt></ruby>と<ruby>保存<rt>ほぞん</rt></ruby>、Email=<ruby>外部<rt>がいぶ</rt></ruby><ruby>公式<rt>こうしき</rt></ruby>と<ruby>証跡<rt>しょうせき</rt></ruby>。1つの<ruby>会話<rt>かいわ</rt></ruby>で4<ruby>題材<rt>だいざい</rt></ruby>が<ruby>混<rt>ま</rt></ruby>じる<ruby>時<rt>とき</rt></ruby>は4チャネルに<ruby>分割<rt>ぶんかつ</rt></ruby>。」**
 
 ---
 
 ## ⚠ Tránh
 
-- 20MB PDF lên Slack → 1 tuần là search không ra.
+- 20MB PDF lên Slack → 1 tuần là tìm không ra.
 - 公式 proposal qua Slack — khách Nhật coi là không nghiêm túc.
-- 契約書 nhồi Notion comments với mail reply-all chéo nhau → version chaos.
-- Calendar event qua Slack thuần — không track accept/decline được.
+- 契約書 nhồi Notion comments với mail reply-all chéo nhau → loạn phiên bản.
+- Sự kiện lịch qua Slack thuần — không theo dõi chấp nhận/từ chối được.
 
 ---
 
@@ -3501,20 +3828,20 @@ Anh Tanaka PMO (Hakuō) gửi Slack DM hỏi 4 việc khác nhau cho Dũng. Dũn
 
 | 漢字 / Tiếng Nhật | よみ | Nghĩa |
 |------|------|-------|
-| ツール選択 | tool せんたく | Chọn tool |
+| ツール選択 | tool せんたく | Chọn công cụ |
 | 即時性 | そくじせい | Tính tức thì |
 | 共同編集 | きょうどうへんしゅう | Cộng tác chỉnh sửa |
 | 証跡 | しょうせき | Bằng chứng / vết tích |
 | 添付 | てんぷ | Đính kèm |
 | 招待 | しょうたい | Mời (calendar invite) |
 | 編集権 | へんしゅうけん | Quyền chỉnh sửa |
-| 検索 | けんさく | Search |
+| 検索 | けんさく | Tìm kiếm |
 | 改定案 | かいていあん | Bản sửa đổi |
 
 
 # Rule 38 — Self-diagnostic Hou-Ren-Sou / 自己診断
 
-> **Luận điểm.** Hou-Ren-Sou là **kỹ năng**, không phải nhân cách — phải **đo định kỳ** mới biết tiến hay lùi. Self-diagnostic checklist 15 mục, chia 3 nhóm × 5 item: **(1) 報告 5 mục** (kết luận trước, fact/opinion, kịp thời, deadline, cấu trúc), **(2) 連絡 5 mục** (即時, channel chọn đúng, audience đúng, broadcast vs DM, EOD log), **(3) 相談 5 mục** (準備, 仮説, 複数案, 客先 tone, DR化). Chấm tự A/B/C/D mỗi cuối tháng. C-D dưới 3 = OK; ≥ 3 = kích hoạt 1-on-1 với mentor + action plan.
+> **Luận điểm.** Hou-Ren-Sou là **kỹ năng**, không phải nhân cách — phải **đo định kỳ** mới biết tiến hay lùi. Checklist tự chẩn đoán 15 mục, chia 3 nhóm × 5 mục: **(1) 報告 5 mục** (kết luận trước, fact/opinion, kịp thời, deadline, cấu trúc), **(2) 連絡 5 mục** (即時, chọn đúng kênh, đúng đối tượng, gửi chung vs DM, EOD log), **(3) 相談 5 mục** (準備, 仮説, 複数案, 客先 tone, DR化). Chấm tự A/B/C/D mỗi cuối tháng. C-D dưới 3 = OK; ≥ 3 = kích hoạt buổi 1-on-1 với mentor + action plan.
 >
 > 自己診断15項目: 報告5・連絡5・相談5。月末A〜D評価、C-D が3以上で mentor 1-on-1。3ヶ月毎に推移をグラフ化。
 >
@@ -3532,14 +3859,18 @@ Cuối tháng 4. Em Dũng tự chấm mình lần đầu. Lần 1 toàn A "tốt
 
 *月末1-on-1*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、4月の自己診断やりました。15項目中、A評価12個、B評価3個、C-D ゼロです。」 |
-| **フオン** | 「うん、見せて。」 *(reading)* 「ズン、③タイムリー報告 A?今月 Phase 2 障害で第一報を1時間遅らせたよね。⑦客先 tone は B?大垣様クレームで『そんなはずない』と言ったの忘れた?C-Dゼロは self-bias ね。」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、4月の<ruby>自己診断<rt>じこしんだん</rt></ruby>やりました。15<ruby>項目<rt>こうもく</rt></ruby>中、A<ruby>評価<rt>ひょうか</rt></ruby>12個、B評価3個、C-D ゼロです。」 |
+|  | *Chị Hương, em đã tự chấm tháng 4. 15 mục: A 12, B 3, C-D 0 ạ.* |
+| **フオン** | 「うん、見せて。」 *(đọc lướt)* 「ズン、③タイムリー報告 A?今月 Phase 2 <ruby>障害<rt>しょうがい</rt></ruby>で<ruby>第一報<rt>だいいっぽう</rt></ruby>を1時間遅らせたよね。⑦客先 tone は B?<ruby>大垣<rt>おおがき</rt></ruby>様クレームで『そんなはずない』と言ったの忘れた?C-Dゼロは self-bias ね。」 |
+|  | *Ừ, đưa chị xem. Dũng, [3] Báo cáo kịp thời mà A? Phase 2 sự cố tháng này em chậm báo cáo đầu 1 giờ đó. [7] Giọng với khách B? Lúc anh Ōgaki phàn nàn em nói 「そんなはずない」 (không thể nào) quên rồi à? C-D zero là self-bias rồi.* |
 | **ズン** | 「あ…」 |
-| **フオン** | 「**自己診断は厳しめが正解**。A 多すぎる時は recalibration が必要。1ヶ月の Slack 履歴と照合してやり直し。」 |
+|  | *À...* |
+| **フオン** | 「**自己診断は厳しめが正解**。A 多すぎる時は recalibration が必要。1ヶ月の Slack <ruby>履歴<rt>りれき</rt></ruby>と<ruby>照合<rt>しょうごう</rt></ruby>してやり直し。」 |
+|  | *Tự chấm phải khắt khe mới đúng. A nhiều quá là phải hiệu chỉnh lại. Em đối chiếu Slack history 1 tháng rồi làm lại.* |
 
-**Vì sao xấu:** L1 self-bias toàn A — không nhớ những lúc miss. L4 chỉ ra: phải đối chiếu với evidence (Slack history, client thread, DR), không chấm theo cảm giác.
+**Vì sao xấu:** L1 self-bias toàn A — không nhớ những lúc sót. L4 chỉ ra: phải đối chiếu với bằng chứng (Slack history, luồng trao đổi với khách, DR), không chấm theo cảm giác.
 
 ---
 
@@ -3547,18 +3878,23 @@ Cuối tháng 4. Em Dũng tự chấm mình lần đầu. Lần 1 toàn A "tốt
 
 *再診断後*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、再診断しました。Slack 履歴と DR を照合した結果: **A 7個、B 5個、C 3個、D ゼロ**【1】です。」 |
-| **ズン** | 「**C評価 3 件**: ③ タイムリー報告 (Phase 2 障害で第一報1時間遅延)、⑦ 客先 tone (大垣様クレーム時の defensive)、⑪ 複数案持参 (Redis 追加で1案提案で叱られた件)。【2】」 |
+| **ズン** | 「フオン副部長、<ruby>再診断<rt>さいしんだん</rt></ruby>しました。Slack 履歴と DR を照合した<ruby>結果<rt>けっか</rt></ruby>: **A 7個、B 5個、C 3個、D ゼロ**【1】です。」 |
+|  | *Chị Hương, em đã chấm lại. Đối chiếu Slack history + DR: A 7, B 5, C 3, D 0 ạ.* |
+| **ズン** | 「**C評価 3 件**: ③ タイムリー報告 (Phase 2 障害で第一報1時間<ruby>遅延<rt>ちえん</rt></ruby>)、⑦ 客先 tone (大垣様クレーム時の defensive)、⑪ <ruby>複数案<rt>ふくすうあん</rt></ruby><ruby>持参<rt>じさん</rt></ruby> (Redis 追加で1案<ruby>提案<rt>ていあん</rt></ruby>で<ruby>叱<rt>しか</rt></ruby>られた件)。【2】」 |
+|  | *C 3 cái: [3] Báo cáo kịp thời (Phase 2 sự cố em chậm 1 giờ) / [7] Giọng với khách (phòng thủ lúc anh Ōgaki phàn nàn) / [11] Mang nhiều phương án (vụ Redis em đề xuất 1 option bị anh Tuấn nhắc).* |
 | **フオン** | 「正直な評価ね。Action plan は?」 |
-| **ズン** | 「**Action plan**: **③ → rule 31 SLA を Slack pinned で常時可視**, **⑦ → rule 32 4ステップを暗記、機械的に運用**, **⑪ → 相談前に最低3案 + matrix を必須化**。5月末に再診断、C 1 件以下を目標とします【3】。」 |
+|  | *Đánh giá thật rồi. Action plan thế nào?* |
+| **ズン** | 「**Action plan**: **③ → rule 31 SLA を Slack pinned で<ruby>常時可視<rt>じょうじかし</rt></ruby>**, **⑦ → rule 32 4ステップを<ruby>暗記<rt>あんき</rt></ruby>、<ruby>機械的<rt>きかいてき</rt></ruby>に運用**, **⑪ → 相談前に最低3案 + matrix を<ruby>必須化<rt>ひっすか</rt></ruby>**。5月末に再診断、C 1 件以下を<ruby>目標<rt>もくひょう</rt></ruby>とします【3】。」 |
+|  | *Action plan: [3] → pin SLA rule 31 lên Slack để luôn nhìn thấy / [7] → thuộc 4 bước rule 32, áp dụng cơ học / [11] → bắt buộc 3 option + matrix trước khi tham vấn. Cuối tháng 5 chấm lại, target C ≤1 ạ.* |
 | **フオン** | 「素晴らしい。再診断は5月最終金曜、Decision Register に登録しておいて。」 |
+|  | *Tuyệt. Diagnostic lại thứ Sáu cuối tháng 5, em log vào Decision Register nhé.* |
 
 📝 **Ghi chú:**
-- 【1】**「Slack 履歴と DR を照合した結果」** — chấm based on evidence, không cảm giác.
-- 【2】**C 評価 3 件 nêu cụ thể từng case** — không generic. Có thể action.
-- 【3】**Action plan với target số (C 1 件以下) + deadline (5月末)** — measurable.
+- 【1】**「Slack 履歴と DR を照合した結果」** — chấm dựa trên bằng chứng, không cảm giác.
+- 【2】**C 評価 3 件 nêu cụ thể từng trường hợp** — không chung chung. Có thể hành động.
+- 【3】**Action plan với target số (C 1 件以下) + deadline (5月末)** — đo lường được.
 
 ---
 
@@ -3570,10 +3906,10 @@ Cuối tháng 4. Em Dũng tự chấm mình lần đầu. Lần 1 toàn A "tốt
 
 ## ⚠ Tránh
 
-- 自己診断 mà chỉ nhớ chuyện tốt → self-bias.
-- C-D 0 mà không recalibrate — sếp sẽ nghi ngờ.
-- Action plan 「次から気をつけます」 — không measurable.
-- Skip diagnostic 2 tháng trở lên → không có baseline để track grow.
+- 自己診断 mà chỉ nhớ chuyện tốt → thiên vị bản thân (self-bias).
+- C-D 0 mà không hiệu chỉnh lại — sếp sẽ nghi ngờ.
+- Action plan 「次から気をつけます」 — không đo lường được.
+- Bỏ diagnostic 2 tháng trở lên → không có mốc nền để theo dõi tiến bộ.
 
 ---
 
@@ -3594,7 +3930,7 @@ Cuối tháng 4. Em Dũng tự chấm mình lần đầu. Lần 1 toàn A "tốt
 
 # Rule 39 — Xây dựng team culture Hou-Ren-Sou / チーム文化作り
 
-> **Luận điểm.** Hou-Ren-Sou cá nhân ≠ Hou-Ren-Sou team. Mỗi cá nhân tốt nhưng team không có **chung playbook** thì khách Nhật vẫn cảm nhận "không nhất quán". Team-level cần **5 thành phần playbook**: **(1) Rituals fixed** (daily standup 9:30, weekly retro thứ Sáu, monthly all-hands), **(2) Dashboard URL** (single source for status — Notion / Confluence link), **(3) OKR / KPI Hou-Ren-Sou** (vd: response SLA 95%, no missed Sev1 escalation, DR coverage 100%), **(4) Escalation matrix** (ai escalate ai khi nào), **(5) Onboarding** (rule 34 nhân lên cấp team). Team Lead (Hà CTO + Hương) là người bảo trợ văn hóa.
+> **Luận điểm.** Hou-Ren-Sou cá nhân ≠ Hou-Ren-Sou team. Mỗi cá nhân tốt nhưng team không có **playbook chung** thì khách Nhật vẫn cảm nhận "không nhất quán". Cấp độ team cần **5 thành phần playbook**: **(1) Rituals cố định** (standup hằng ngày 9:30, retro hằng tuần thứ Sáu, all-hands hằng tháng), **(2) Dashboard URL** (nguồn tra cứu duy nhất cho trạng thái — link Notion / Confluence), **(3) OKR / KPI Hou-Ren-Sou** (vd: response SLA 95%, không bỏ sót escalation Sev1, DR coverage 100%), **(4) Escalation matrix** (ai báo lên ai, khi nào), **(5) Onboarding** (rule 34 nhân lên cấp team). Trưởng nhóm (Hà CTO + Hương) là **culture sponsor — người bảo trợ văn hóa**.
 >
 > チーム文化5要素：①Rituals (朝会9:30、週次retro、月次all-hands)②Dashboard URL ③OKR (response SLA 95%、Sev1 escalation 漏れ0、DR coverage 100%)④Escalation matrix ⑤Onboarding playbook。
 >
@@ -3604,20 +3940,24 @@ Cuối tháng 4. Em Dũng tự chấm mình lần đầu. Lần 1 toàn A "tốt
 
 ## Bối cảnh / 場面
 
-Cuộc họp leadership ティエンファット tháng 4. Anh Hà CTO + chị Hương + Tuấn nhận thấy mỗi member tốt cá nhân nhưng cả team chưa nhất quán → quyết định write playbook.
+Cuộc họp leadership ティエンファット tháng 4. Anh Hà CTO + chị Hương + Tuấn nhận thấy mỗi thành viên tốt ở mức cá nhân nhưng cả team chưa nhất quán → quyết định viết playbook.
 
 ---
 
 ## ❌ Hội thoại XẤU — không có playbook chung
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ハーCTO** | 「松本様から feedback : 『ティエンファット は人によって対応 quality が違う』。ズン と ハイ で同じ Phase 2 の話なのに、片方は丁寧、片方は雑。」 |
-| **フオン** | 「個人レベルでは皆 rule を知っている。でも team レベルの **共通 playbook がない**から、新人が真似する基準もブレる。」 |
-| **トゥアン** | 「Slack の標準 format も人によって違うし、escalation も case-by-case。これは個人の問題じゃなくて **チーム文化の欠如**。」 |
-| **ハーCTO** | 「playbook を作ろう。私と フオン が culture sponsor、トゥアン が tech ritual owner。来週中に v1 ドラフト。」 |
+| **ハーCTO** | 「<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>から feedback : 『ティエンファット は<ruby>人<rt>ひと</rt></ruby>によって<ruby>対応<rt>たいおう</rt></ruby> quality が<ruby>違<rt>ちが</rt></ruby>う』。ズン と ハイ で<ruby>同<rt>おな</rt></ruby>じ Phase 2 の<ruby>話<rt>はなし</rt></ruby>なのに、<ruby>片方<rt>かたほう</rt></ruby>は<ruby>丁寧<rt>ていねい</rt></ruby>、<ruby>片方<rt>かたほう</rt></ruby>は<ruby>雑<rt>ざつ</rt></ruby>。」 |
+|  | *Anh Matsumoto feedback: 「Thiên Phát quality theo người mà khác」. Cùng vụ Phase 2, Dũng thì chu đáo, Hải thì sơ sài.* |
+| **フオン** | 「<ruby>個人<rt>こじん</rt></ruby>レベルでは<ruby>皆<rt>みな</rt></ruby> rule を<ruby>知<rt>し</rt></ruby>っている。でも team レベルの **<ruby>共通<rt>きょうつう</rt></ruby> playbook がない**から、<ruby>新人<rt>しんじん</rt></ruby>が<ruby>真似<rt>まね</rt></ruby>する<ruby>基準<rt>きじゅん</rt></ruby>もブレる。」 |
+|  | *Cá nhân thì ai cũng biết rule. Nhưng team không có playbook chung, nên junior bắt chước cũng lệch.* |
+| **トゥアン** | 「Slack の<ruby>標準<rt>ひょうじゅん</rt></ruby> format も<ruby>人<rt>ひと</rt></ruby>によって<ruby>違<rt>ちが</rt></ruby>うし、escalation も case-by-case。これは<ruby>個人<rt>こじん</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>じゃなくて **<ruby>チーム文化<rt>チームぶんか</rt></ruby>の<ruby>欠如<rt>けつじょ</rt></ruby>**。」 |
+|  | *Format Slack chuẩn cũng khác theo người, escalation cũng case-by-case. Đây không phải lỗi cá nhân mà thiếu văn hóa team.* |
+| **ハーCTO** | 「playbook を<ruby>作<rt>つく</rt></ruby>ろう。<ruby>私<rt>わたし</rt></ruby>と フオン が culture sponsor、トゥアン が tech ritual owner。<ruby>来週中<rt>らいしゅうちゅう</rt></ruby>に v1 ドラフト。」 |
+|  | *Build playbook đi. Anh và chị Hương là người bảo trợ văn hóa, anh Tuấn là tech ritual owner. Trong tuần sau làm xong draft v1.* |
 
-**Vì sao xấu:** L1 inconsistent quality của team là biểu hiện. L2-L3 rút ra: thiếu **common playbook**.
+**Vì sao xấu:** L1 quality của team không nhất quán là biểu hiện. L2-L3 rút ra: thiếu **playbook chung**.
 
 ---
 
@@ -3625,35 +3965,41 @@ Cuộc họp leadership ティエンファット tháng 4. Anh Hà CTO + chị H
 
 *2週間後 leadership 会議*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ハーCTO** | 「ティエンファット Hou-Ren-Sou Playbook v1 を共有します。**5要素構成**【1】です。」 |
-| **ハーCTO** | 「**①Rituals**: 朝会 Slack 9:30 (DDBN format)、週次 retro 金曜 16:00、月次 all-hands 第1月曜 10:00。**②Dashboard**: Notion『チーム Hou-Ren-Sou ダッシュボード』〈URL〉に response SLA、Sev1 件数、DR 数を可視化【2】。」 |
-| **ハーCTO** | 「**③OKR Q2-2026**: (a) Slack 客先 response 1h 以内 95% / (b) Sev1 escalation 漏れ 0件 / (c) Decision Register カバレッジ 100% (1相談1行) / (d) 自己診断 C-D ≤ 1 が team 平均【3】。」 |
-| **ハーCTO** | 「**④Escalation Matrix**: 客先 → BD owner → フオン副部長 → ハー CTO / 技術 Sev1 → 検知者 → トゥアン → ハー CTO / 経理 → ロアン経理部長 → フオン。**⑤Onboarding**: 新人入社後30日で Playbook 全項目に exposure、60日で自己診断初回、90日で1人立ち。」 |
-| **フオン** | 「culture sponsor として: 月次 all-hands で『今月の Good ホウレンソウ』『今月の Lesson』を Slack 投票で選び、HR の評価にも反映させましょう【4】。」 |
-| **トゥアン** | 「Tech ritual owner として: 朝会と Sev1 escalation drill を四半期ごとに simulation。来週から運用開始。」 |
+| **ハーCTO** | 「ティエンファット Hou-Ren-Sou Playbook v1 を<ruby>共有<rt>きょうゆう</rt></ruby>します。**<ruby>5要素構成<rt>ごようそこうせい</rt></ruby>**【1】です。」 |
+|  | *Em share Thiên Phát Hou-Ren-Sou Playbook v1. Cấu trúc 5 thành phần.* |
+| **ハーCTO** | 「**①Rituals**: <ruby>朝会<rt>あさかい</rt></ruby> Slack 9:30 (DDBN format)、<ruby>週次<rt>しゅうじ</rt></ruby> retro <ruby>金曜<rt>きんよう</rt></ruby> 16:00、<ruby>月次<rt>げつじ</rt></ruby> all-hands <ruby>第<rt>だい</rt></ruby>1<ruby>月曜<rt>げつよう</rt></ruby> 10:00。**②Dashboard**: Notion『チーム Hou-Ren-Sou ダッシュボード』〈URL〉に response SLA、Sev1 <ruby>件数<rt>けんすう</rt></ruby>、DR <ruby>数<rt>すう</rt></ruby>を<ruby>可視化<rt>かしか</rt></ruby>【2】。」 |
+|  | *[1 Rituals] Standup Slack 9:30 (format DDBN), retro tuần 16:00 thứ Sáu, all-hands tháng 10:00 thứ Hai đầu tháng. [2 Dashboard] Notion 「Team Hou-Ren-Sou Dashboard」 〈URL〉 hữu hình hóa response SLA, số Sev1, số DR.* |
+| **ハーCTO** | 「**③OKR Q2-2026**: (a) Slack <ruby>客先<rt>きゃくさき</rt></ruby> response 1h <ruby>以内<rt>いない</rt></ruby> 95% / (b) Sev1 escalation <ruby>漏<rt>も</rt></ruby>れ 0<ruby>件<rt>けん</rt></ruby> / (c) Decision Register カバレッジ 100% (1<ruby>相談<rt>そうだん</rt></ruby>1<ruby>行<rt>ぎょう</rt></ruby>) / (d) <ruby>自己診断<rt>じこしんだん</rt></ruby> C-D ≤ 1 が team <ruby>平均<rt>へいきん</rt></ruby>【3】。」 |
+|  | *[3 OKR Q2-2026] (a) Slack response khách trong 1h ≥ 95% / (b) Sev1 escalation sót = 0 / (c) Decision Register coverage 100% (1 tham vấn 1 dòng) / (d) Self-diagnostic C-D ≤ 1 trung bình team.* |
+| **ハーCTO** | 「**④Escalation Matrix**: <ruby>客先<rt>きゃくさき</rt></ruby> → BD owner → フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby> → ハー CTO / <ruby>技術<rt>ぎじゅつ</rt></ruby> Sev1 → <ruby>検知者<rt>けんちしゃ</rt></ruby> → トゥアン → ハー CTO / <ruby>経理<rt>けいり</rt></ruby> → ロアン<ruby>経理部長<rt>けいりぶちょう</rt></ruby> → フオン。**⑤Onboarding**: <ruby>新人<rt>しんじん</rt></ruby><ruby>入社後<rt>にゅうしゃご</rt></ruby>30<ruby>日<rt>にち</rt></ruby>で Playbook <ruby>全項目<rt>ぜんこうもく</rt></ruby>に exposure、60<ruby>日<rt>にち</rt></ruby>で<ruby>自己診断<rt>じこしんだん</rt></ruby><ruby>初回<rt>しょかい</rt></ruby>、90<ruby>日<rt>にち</rt></ruby>で<ruby>1人立<rt>ひとりだ</rt></ruby>ち。」 |
+|  | *[4 Escalation Matrix] Khách → BD owner → chị Hương → anh Hà CTO / Sev1 kỹ thuật → người phát hiện → anh Tuấn → anh Hà CTO / Kế toán → chị Loan → chị Hương. [5 Onboarding] Junior sau 30 ngày tiếp cận đủ Playbook, 60 ngày làm self-diagnostic lần đầu, 90 ngày tự đứng.* |
+| **フオン** | 「culture sponsor として: <ruby>月次<rt>げつじ</rt></ruby> all-hands で『<ruby>今月<rt>こんげつ</rt></ruby>の Good ホウレンソウ』『<ruby>今月<rt>こんげつ</rt></ruby>の Lesson』を Slack <ruby>投票<rt>とうひょう</rt></ruby>で<ruby>選<rt>えら</rt></ruby>び、HR の<ruby>評価<rt>ひょうか</rt></ruby>にも<ruby>反映<rt>はんえい</rt></ruby>させましょう【4】。」 |
+|  | *Với vai người bảo trợ văn hóa: trong all-hands tháng, tổ chức vote Slack chọn 「Good Hou-Ren-Sou tháng này」 và 「Lesson tháng này」, kết nối vào HR evaluation luôn.* |
+| **トゥアン** | 「Tech ritual owner として: <ruby>朝会<rt>あさかい</rt></ruby>と Sev1 escalation drill を<ruby>四半期<rt>しはんき</rt></ruby>ごとに simulation。<ruby>来週<rt>らいしゅう</rt></ruby>から<ruby>運用開始<rt>うんようかいし</rt></ruby>。」 |
+|  | *Với vai Tech ritual owner: standup và drill Sev1 escalation simulate mỗi quý. Tuần sau bắt đầu vận hành.* |
 
 📝 **Ghi chú:**
-- 【1】**「5要素構成」** — playbook không phải doc dài 50 trang. 5 thành phần modular.
-- 【2】**Dashboard URL** — single source of truth. Tránh "tôi nghĩ" / "tôi nhớ".
-- 【3】**OKR đo lường được** — không "improve communication" mơ hồ mà "95% in 1h".
-- 【4】**「HR の評価にも反映」** — biến culture thành performance metric. Không reward = không scale.
+- 【1】**「5要素構成」** — playbook không phải tài liệu dài 50 trang. 5 thành phần dạng module.
+- 【2】**Dashboard URL** — nguồn tra cứu duy nhất. Tránh "tôi nghĩ" / "tôi nhớ".
+- 【3】**OKR đo lường được** — không "cải thiện giao tiếp" mơ hồ mà "95% trong 1h".
+- 【4】**「HR の評価にも反映」** — biến văn hóa thành chỉ số đánh giá hiệu suất. Không có thưởng = không nhân rộng được.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「Hou-Ren-Sou is a team sport. Playbook 5要素 (Rituals + Dashboard + OKR + Escalation + Onboarding) を持って初めて、quality が個人差に左右されない。Leader が culture sponsor。」**
+> **「Hou-Ren-Sou is a team sport. Playbook <ruby>5要素<rt>ごようそ</rt></ruby> (Rituals + Dashboard + OKR + Escalation + Onboarding) を<ruby>持<rt>も</rt></ruby>って<ruby>初<rt>はじ</rt></ruby>めて、quality が<ruby>個人差<rt>こじんさ</rt></ruby>に<ruby>左右<rt>さゆう</rt></ruby>されない。Leader が culture sponsor。」**
 
 ---
 
 ## ⚠ Tránh
 
-- Playbook 50 trang doc mà không ai đọc — phải 1-page summary + dashboard.
+- Playbook 50 trang tài liệu mà không ai đọc — phải có bản tóm tắt 1 trang + dashboard.
 - OKR mơ hồ kiểu 「コミュニケーション改善」 — không đo được = không tồn tại.
-- Escalation matrix không update khi cơ cấu thay đổi (vd: Hải sabbatical) — fail trong moment quan trọng.
-- Culture sponsor không có time commitment → playbook chết.
+- Escalation matrix không cập nhật khi cơ cấu thay đổi (vd: Hải nghỉ dài hạn) — sẽ hỏng vào thời điểm quan trọng.
+- Người bảo trợ văn hóa không cam kết dành thời gian → playbook chết.
 
 ---
 
@@ -3690,13 +4036,18 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 ## ❌ Hội thoại XẤU — phàn nàn không action
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **フオン** | 「皆さん、今週どうでしたか?」 |
-| **ハイ** | 「Phase 2 障害で疲れました…」 |
-| **リン** | 「印刷会社の件で迷いました…」 |
-| **ズン** | 「松本様の reply 待ちが長くて辛かった…」 |
-| **フオン** | 「うん、お疲れ様。来週も頑張ろう。」 |
+| **フオン** | 「皆さん、今週どうでしたか？」 |
+|  | *Mọi người, tuần này thế nào?* |
+| **ハイ** | 「Phase 2 <ruby>障害<rt>しょうがい</rt></ruby>で<ruby>疲<rt>つか</rt></ruby>れました…」 |
+|  | *Sự cố Phase 2 mệt quá ạ...* |
+| **リン** | 「<ruby>印刷会社<rt>いんさつがいしゃ</rt></ruby>の<ruby>件<rt>けん</rt></ruby>で<ruby>迷<rt>まよ</rt></ruby>いました…」 |
+|  | *Vụ nhà in em phân vân...* |
+| **ズン** | 「<ruby>松本様<rt>まつもとさま</rt></ruby>の reply <ruby>待<rt>ま</rt></ruby>ちが<ruby>長<rt>なが</rt></ruby>くて<ruby>辛<rt>つら</rt></ruby>かった…」 |
+|  | *Đợi anh Matsumoto reply lâu mệt...* |
+| **フオン** | 「うん、お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>。<ruby>来週<rt>らいしゅう</rt></ruby>も<ruby>頑張<rt>がんば</rt></ruby>ろう。」 |
+|  | *Ừ, mọi người vất vả. Tuần sau cố gắng tiếp nhé.* |
 
 **Vì sao xấu:** L1-L5 thuần phàn nàn (Problem) — không có Keep / Try / Action items. Vẫn cùng vấn đề tuần sau lặp lại.
 
@@ -3706,19 +4057,25 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 *facilitator*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **フオン** | 「Retrospective 開始。30分、KPT format。Notion テンプレに事前記入できた人から発表【1】。」 |
-| **ハイ** | 「**Keep**: Phase 2 障害で SLA 通り escalation できた (5分→15分→30分)。**Problem**: 障害後のpost-mortem document 作成に2日かかった (24h target 未達)。**Try**: post-mortem テンプレを Notion に作成、初稿は 4h 以内目標。」 |
-| **リン** | 「**Keep**: 印刷会社相談で3案 + matrix 持参できた。**Problem**: 自分の仮説 confidence 低めで時間かかった。**Try**: 仮説を最初に書いてから判断材料集める順序に変更。」 |
-| **ズン** | 「**Keep**: 大垣様クレームで4ステップ運用できた。**Problem**: 松本様 reply 平均 8h、自分の Slack DM 頻度が少ない可能性。**Try**: 客先 DM を 1日2回 (10時・15時) routine 化。」 |
-| **フオン** | 「いいね、Action items まとめ【2】: ① post-mortem テンプレ作成 (owner: ハイ、期限: 4/30、check: 5/2 retro) / ② 仮説先出し pattern (owner: リン、期限: 5/2 retro までに3回試行) / ③ 客先 DM routine (owner: ズン、期限: 5/9 retro までに4週運用) / ④ Decision Register に今週分3件追加 (owner: ズン+リン、期限: 来週月曜)【3】。」 |
-| **フオン** | 「次週 retro は5/2、各 Action item の進捗 review が最初の議題。お疲れ様でした。」 |
+| **フオン** | 「Retrospective <ruby>開始<rt>かいし</rt></ruby>。30<ruby>分<rt>ぷん</rt></ruby>、KPT format。Notion テンプレに<ruby>事前記入<rt>じぜんきにゅう</rt></ruby>できた<ruby>人<rt>ひと</rt></ruby>から<ruby>発表<rt>はっぴょう</rt></ruby>【1】。」 |
+|  | *Bắt đầu retrospective. 30 phút, format KPT. Ai pre-fill xong template Notion thì present trước.* |
+| **ハイ** | 「**Keep**: Phase 2 <ruby>障害<rt>しょうがい</rt></ruby>で SLA <ruby>通<rt>どお</rt></ruby>り escalation できた (5<ruby>分<rt>ふん</rt></ruby>→15<ruby>分<rt>ふん</rt></ruby>→30<ruby>分<rt>ぷん</rt></ruby>)。**Problem**: <ruby>障害後<rt>しょうがいご</rt></ruby>のpost-mortem document <ruby>作成<rt>さくせい</rt></ruby>に2<ruby>日<rt>にち</rt></ruby>かかった (24h target <ruby>未達<rt>みたつ</rt></ruby>)。**Try**: post-mortem テンプレを Notion に<ruby>作成<rt>さくせい</rt></ruby>、<ruby>初稿<rt>しょこう</rt></ruby>は 4h <ruby>以内<rt>いない</rt></ruby><ruby>目標<rt>もくひょう</rt></ruby>。」 |
+|  | *[Keep] Sự cố Phase 2 escalate đúng SLA (5p → 15p → 30p). [Problem] Sau sự cố tài liệu post-mortem mất 2 ngày (vượt target 24h). [Try] Tạo template post-mortem trong Notion, target draft đầu trong 4h.* |
+| **リン** | 「**Keep**: <ruby>印刷会社<rt>いんさつがいしゃ</rt></ruby><ruby>相談<rt>そうだん</rt></ruby>で3<ruby>案<rt>あん</rt></ruby> + matrix <ruby>持参<rt>じさん</rt></ruby>できた。**Problem**: <ruby>自分<rt>じぶん</rt></ruby>の<ruby>仮説<rt>かせつ</rt></ruby> confidence <ruby>低<rt>ひく</rt></ruby>めで<ruby>時間<rt>じかん</rt></ruby>かかった。**Try**: <ruby>仮説<rt>かせつ</rt></ruby>を<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>書<rt>か</rt></ruby>いてから<ruby>判断材料<rt>はんだんざいりょう</rt></ruby><ruby>集<rt>あつ</rt></ruby>める<ruby>順序<rt>じゅんじょ</rt></ruby>に<ruby>変更<rt>へんこう</rt></ruby>。」 |
+|  | *[Keep] Tham vấn vụ nhà in em mang đủ 3 option + matrix. [Problem] Confidence của giả thuyết em hơi thấp nên tốn thời gian. [Try] Đổi thứ tự — viết giả thuyết trước rồi mới tập dữ kiện.* |
+| **ズン** | 「**Keep**: <ruby>大垣様<rt>おおがきさま</rt></ruby>クレームで4ステップ<ruby>運用<rt>うんよう</rt></ruby>できた。**Problem**: <ruby>松本様<rt>まつもとさま</rt></ruby> reply <ruby>平均<rt>へいきん</rt></ruby> 8h、<ruby>自分<rt>じぶん</rt></ruby>の Slack DM <ruby>頻度<rt>ひんど</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ない<ruby>可能性<rt>かのうせい</rt></ruby>。**Try**: <ruby>客先<rt>きゃくさき</rt></ruby> DM を 1<ruby>日<rt>にち</rt></ruby>2<ruby>回<rt>かい</rt></ruby> (10<ruby>時<rt>じ</rt></ruby>・15<ruby>時<rt>じ</rt></ruby>) routine <ruby>化<rt>か</rt></ruby>。」 |
+|  | *[Keep] Khiếu nại anh Ōgaki em chạy đúng 4 bước. [Problem] anh Matsumoto reply trung bình 8h, có thể do em DM Slack ít. [Try] Routine khách 2 lần/ngày (10h, 15h).* |
+| **フオン** | 「いいね、Action items まとめ【2】: ① post-mortem テンプレ<ruby>作成<rt>さくせい</rt></ruby> (owner: ハイ、<ruby>期限<rt>きげん</rt></ruby>: 4/30、check: 5/2 retro) / ② <ruby>仮説先出<rt>かせつさきだ</rt></ruby>し pattern (owner: リン、<ruby>期限<rt>きげん</rt></ruby>: 5/2 retro までに3<ruby>回<rt>かい</rt></ruby><ruby>試行<rt>しこう</rt></ruby>) / ③ <ruby>客先<rt>きゃくさき</rt></ruby> DM routine (owner: ズン、<ruby>期限<rt>きげん</rt></ruby>: 5/9 retro までに4<ruby>週<rt>しゅう</rt></ruby><ruby>運用<rt>うんよう</rt></ruby>) / ④ Decision Register に<ruby>今週分<rt>こんしゅうぶん</rt></ruby>3<ruby>件<rt>けん</rt></ruby><ruby>追加<rt>ついか</rt></ruby> (owner: ズン+リン、<ruby>期限<rt>きげん</rt></ruby>: <ruby>来週月曜<rt>らいしゅうげつよう</rt></ruby>)【3】。」 |
+|  | *Tốt, tổng hợp Action items: [1] Tạo template post-mortem (owner: Hải, deadline: 30/4, check: retro 2/5) / [2] Pattern "giả thuyết trước" (owner: Linh, deadline: thử 3 lần trước retro 2/5) / [3] Routine DM khách (owner: Dũng, deadline: chạy 4 tuần trước retro 9/5) / [4] Thêm 3 mục tuần này vào Decision Register (owner: Dũng + Linh, deadline: thứ Hai tuần sau).* |
+| **フオン** | 「<ruby>次週<rt>じしゅう</rt></ruby> retro は5/2、<ruby>各<rt>かく</rt></ruby> Action item の<ruby>進捗<rt>しんちょく</rt></ruby> review が<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>議題<rt>ぎだい</rt></ruby>。お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>でした。」 |
+|  | *Retro tuần sau là 2/5, review tiến độ từng Action item là agenda đầu. Mọi người vất vả.* |
 
 📝 **Ghi chú:**
-- 【1】**「事前記入できた人から」** — KPT phải pre-fill, không brainstorm trên spot. Tiết kiệm 30 phút thành 60 phút.
+- 【1】**「事前記入できた人から」** — KPT phải pre-fill, không brainstorm tại chỗ. Tiết kiệm 30 phút thành 60 phút.
 - 【2】**Action items mỗi Try có owner + deadline + check date** — không "皆で頑張る" mơ hồ.
-- 【3】**「次週 retro は…review が最初の議題」** — close the loop. Action items không bị bỏ.
+- 【3】**「次週 retro は…review が最初の議題」** — đóng vòng lặp. Action items không bị bỏ.
 
 ---
 
@@ -3746,7 +4103,7 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 ## 🎯 Câu chốt
 
-> **「KPT — Keep / Problem / Try、それぞれ Action item 化、owner + deadline + check 日まで明記。次週 retro 冒頭で先週の Action review。これが retrospective のループ。」**
+> **「KPT — Keep / Problem / Try、それぞれ Action item <ruby>化<rt>か</rt></ruby>、owner + deadline + check <ruby>日<rt>び</rt></ruby>まで<ruby>明記<rt>めいき</rt></ruby>。<ruby>次週<rt>じしゅう</rt></ruby> retro <ruby>冒頭<rt>ぼうとう</rt></ruby>で<ruby>先週<rt>せんしゅう</rt></ruby>の Action review。これが retrospective のループ。」**
 
 ---
 
@@ -4279,7 +4636,7 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 ## Phần IV — Tình huống khó
 
-### Rule 31 — Phát hiện bug — Hou-Ren-Sou flow / バグ発見時のホウレンソウ
+### Rule 31 — Phát hiện bug — Quy trình Hou-Ren-Sou / バグ発見時のホウレンソウ
 
 **ハイ (em Hải):**
 
@@ -4386,7 +4743,7 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 
 
-## Phần V — Voicemail, Online & Thực hành tốt nhất
+## Phần V — Voicemail, Online & Best Practice
 
 ### Rule 37 — Chọn channel: Slack / Notion / Email / Slack / Notion / Email — チャネル選択
 
@@ -4489,12 +4846,12 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 | 提案書 | ていあんしょ | Đề xuất / proposal | rule_04 |
 | 任せる | まかせる | Tin tưởng giao việc | rule_04 |
 | 完了報告 | かんりょうほうこく | Báo cáo hoàn thành | rule_05 |
-| 検収 | けんしゅう | Nghiệm thu / acceptance | rule_05 |
+| 検収 | けんしゅう | Nghiệm thu | rule_05 |
 | 検収書 | けんしゅうしょ | Văn bản nghiệm thu | rule_05 |
-| 納品 | のうひん | Giao hàng (deliverable) | rule_05 |
+| 納品 | のうひん | Giao hàng (sản phẩm bàn giao) | rule_05 |
 | 反省点 | はんせいてん | Điểm rút kinh nghiệm | rule_05 |
-| 振り返り | ふりかえり | Reflection / retrospective | rule_05 |
-| 工数 | こうすう | Effort / man-day | rule_05 |
+| 振り返り | ふりかえり | Nhìn lại / tổng kết rút kinh nghiệm | rule_05 |
+| 工数 | こうすう | Khối lượng công (man-day) | rule_05 |
 | 手順書 | てじゅんしょ | Tài liệu hướng dẫn | rule_05 |
 | 着手前 | ちゃくしゅまえ | Trước khi bắt đầu | rule_05 |
 | 数値 | すうち | Số liệu | rule_06 |
@@ -4596,9 +4953,9 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 | 詰める | つめる | Truy hỏi | rule_17 |
 | 収拾不能 | しゅうしゅうふのう | Không kiểm soát được | rule_17 |
 | リスケ | risuke | Reschedule (略) | rule_18 |
-| 候補 | こうほう | Phương án / candidate | rule_18 |
-| カレンダー更新 | カレンダーこうしん | Update lịch | rule_18 |
-| 新規招待 | しんきしょうたい | Invite mới | rule_18 |
+| 候補 | こうほ | Phương án / ứng viên (giờ đề xuất) | rule_18 |
+| カレンダー更新 | カレンダーこうしん | Cập nhật lịch | rule_18 |
+| 新規招待 | しんきしょうたい | Lời mời mới | rule_18 |
 | 直前 | ちょくぜん | Sát giờ | rule_18 |
 | 当方 | とうほう | Chúng tôi (formal) | rule_18 |
 | 出張中 | しゅっちょうちゅう | Đang đi công tác | rule_18 |
@@ -4650,7 +5007,7 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 | 見積 | みつもり | Báo giá | rule_24 |
 | 相談させていただきます | そうだんさせていただきます | Em xin phép tham vấn (formal) | rule_24 |
 | 見落とし | みおとし | Bỏ sót | rule_25 |
-| 観点 | かんてん | Góc nhìn / axis đánh giá | rule_25 |
+| 観点 | かんてん | Góc nhìn / tiêu chí đánh giá | rule_25 |
 | 補強 | ほきょう | Bồi đắp / củng cố | rule_25 |
 | 重み付け | おもみづけ | Đánh trọng số | rule_25 |
 | デプロイ | depuroi | Deploy | rule_25 |
@@ -4677,10 +5034,10 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 | 客先 | きゃくさき | Phía khách | rule_29 |
 | ご相談 | ごそうだん | Tham vấn (kính ngữ) | rule_29 |
 | ご教示 | ごきょうじ | Xin chỉ giáo | rule_29 |
-| 幸甚 | こうじん | Hết sức cảm ơn (formal cao) | rule_29 |
+| 幸甚 | こうじん | Hết sức cảm ơn (trang trọng cao) | rule_29 |
 | 線形 | せんけい | Tuyến tính | rule_29 |
 | 段階的 | だんかいてき | Theo giai đoạn | rule_29 |
-| 検証リソース | けんしょうリソース | Resource kiểm thử | rule_29 |
+| 検証リソース | けんしょうリソース | Nguồn lực kiểm thử | rule_29 |
 | 焦点 | しょうてん | Tiêu điểm | rule_29 |
 | 持ち帰り | もちかえり | Mang về (xem xét) | rule_30 |
 | 社内検討 | しゃないけんとう | Xem xét nội bộ | rule_30 |
@@ -4741,16 +5098,16 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 | 適応 | てきおう | Thích nghi | rule_36 |
 
 
-## Phần V — Voicemail, Online & Thực hành tốt nhất
+## Phần V — Voicemail, Online & Best Practice
 
 | 漢字 / Tiếng Nhật | Cách đọc (Romaji) | Nghĩa Việt | Lần đầu xuất hiện |
 |------|------|------|------|
-| ツール選択 | tool せんたく | Chọn tool | rule_37 |
+| ツール選択 | tool せんたく | Chọn công cụ | rule_37 |
 | 共同編集 | きょうどうへんしゅう | Cộng tác chỉnh sửa | rule_37 |
 | 証跡 | しょうせき | Bằng chứng / vết tích | rule_37 |
 | 招待 | しょうたい | Mời (calendar invite) | rule_37 |
 | 編集権 | へんしゅうけん | Quyền chỉnh sửa | rule_37 |
-| 検索 | けんさく | Search | rule_37 |
+| 検索 | けんさく | Tìm kiếm | rule_37 |
 | 改定案 | かいていあん | Bản sửa đổi | rule_37 |
 | 自己診断 | じこしんだん | Self-diagnostic | rule_38 |
 | 評価 | ひょうか | Đánh giá | rule_38 |
@@ -4798,12 +5155,12 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 朝礼での1人あたりの理想的報告時間は？
 
-- A) 3-5分
-- **B) 30-60秒**
-- C) 10秒
-- D) 5分以上
+- **A) 30-60秒**
+- B) 10秒
+- C) 5分以上
+- D) 3-5分
 
-**Đáp án:** B
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 朝礼は短時間で全員の状況を把握する場。1人 30-60 秒、3 行（昨日／今日／困りごと）で済ます。
@@ -4818,12 +5175,12 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 口頭報告で最も避けるべきパターンは？
 
-- A) 結論を最初に述べる
-- B) 事実と私見を明示的に分ける
-- **C) 経過から長々と話し、最後に結論を出す**
-- D) 対応策と期限を最後に伝える
+- A) 事実と私見を明示的に分ける
+- **B) 経過から長々と話し、最後に結論を出す**
+- C) 対応策と期限を最後に伝える
+- D) 結論を最初に述べる
 
-**Đáp án:** C
+**Đáp án:** B
 
 **Giải thích / 解説:**
 - 🇯🇵 報告の3原則は『結論先出し・事実/私見分離・タイムリー』。経過から始めると相手は判断できず時間を消耗する。
@@ -4836,11 +5193,11 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 **Q:** Daily の進捗報告で「Next」欄に書くべき内容は？
 
 - A) 今週中の予定
-- B) 今月の目標
-- **C) 本日中に着手・完了予定のタスク**
-- D) プロジェクト全体のロードマップ
+- B) プロジェクト全体のロードマップ
+- C) 今月の目標
+- **D) 本日中に着手・完了予定のタスク**
 
-**Đáp án:** C
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 Daily の Next は当日範囲。Weekly なら来週範囲。スコープを混同すると相手は判断できない。
@@ -4852,12 +5209,12 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 結果報告で「目標」を最初に述べる理由として最も適切なのは？
 
-- A) 報告を長くするため
-- **B) 聞き手に評価軸を提示するため**
-- C) 失敗を隠すため
+- A) 失敗を隠すため
+- B) 報告を長くするため
+- **C) 聞き手に評価軸を提示するため**
 - D) 丁寧に聞こえるため
 
-**Đáp án:** B
+**Đáp án:** C
 
 **Giải thích / 解説:**
 - 🇯🇵 Goal は Result を評価する物差し。物差しを共有しないと「OK」が何との比較か分からない。
@@ -4869,12 +5226,12 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 1週間以上かかるタスクで中間報告を行う最も適切なタイミングは？
 
-- A) 完成90%地点で1回
-- B) 完成直前で1回
-- **C) 25%/50%/75% の3地点**
-- D) 毎日1回
+- **A) 25%/50%/75% の3地点**
+- B) 完成90%地点で1回
+- C) 毎日1回
+- D) 完成直前で1回
 
-**Đáp án:** C
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 25/50/75% の3マイルストーンが軌道修正に最適。90% は遅すぎ、毎日は過剰。
@@ -4903,12 +5260,12 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 上司が「数字で話してください」と言った時、最も適切な対応は？
 
-- A) 『かなり改善』と言い直す
-- **B) before/after の数値と母数を提示する**
-- C) 『体感では』と前置きする
-- D) 次回までに調べると言って終わる
+- A) 次回までに調べると言って終わる
+- B) 『体感では』と前置きする
+- C) 『かなり改善』と言い直す
+- **D) before/after の数値と母数を提示する**
 
-**Đáp án:** B
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 数値報告は before/after + 差分 + 母数の3点セットが基本。「体感」「かなり」では判断材料にならない。
@@ -4920,12 +5277,12 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 報告書の件名として最も適切なのは？
 
-- A) Phase 2 について
-- B) ご報告
-- **C) Phase 2 完了報告書（4月1日〜4月20日）**
-- D) 添付資料あります
+- A) 添付資料あります
+- **B) Phase 2 完了報告書（4月1日〜4月20日）**
+- C) ご報告
+- D) Phase 2 について
 
-**Đáp án:** C
+**Đáp án:** B
 
 **Giải thích / 解説:**
 - 🇯🇵 件名は『書類種別＋スコープ＋期間』。「〜について」「ご報告」では分類不能。
@@ -4938,9 +5295,9 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 **Q:** 本番で critical bug が発生した時の最適な報告 channel は？
 
 - A) 翌朝のメールで報告
-- B) Slack の通常チャンネルに投稿
+- B) 次回会議で口頭報告
 - **C) 電話で第一報、その後メールでフォローアップ**
-- D) 次回会議で口頭報告
+- D) Slack の通常チャンネルに投稿
 
 **Đáp án:** C
 
@@ -4954,10 +5311,10 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 報告漏れを防止する最も効果的な方法は？
 
-- A) 記憶力を鍛える
+- A) 返信は翌日にまとめて行う
 - **B) 毎日17時に10項目のセルフチェックリストを実行する**
-- C) 毎週末に上司に確認してもらう
-- D) 返信は翌日にまとめて行う
+- C) 記憶力を鍛える
+- D) 毎週末に上司に確認してもらう
 
 **Đáp án:** B
 
@@ -4972,11 +5329,11 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 **Q:** 顧客から仕様変更の連絡を受けた後、社内チームへの共有はどのタイミングが理想か？
 
 - A) 翌朝の朝礼で
-- **B) 受信から15分以内**
-- C) 次の定例会議で
-- D) 詳細が固まってから
+- B) 詳細が固まってから
+- **C) 受信から15分以内**
+- D) 次の定例会議で
 
-**Đáp án:** B
+**Đáp án:** C
 
 **Giải thích / 解説:**
 - 🇯🇵 情報の鮮度は時間とともに指数的に低下する。詳細が未確定でも『緊急共有』として15分以内に第一報を出し、同僚の無駄作業を防ぐ。
@@ -4988,12 +5345,12 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** team 全員向け broadcast メールで action item を最も伝わりやすく書く方法は？
 
-- A) 本文の物語の中に自然に織り込む
+- A) 件名にだけ書いて本文では省略
 - B) 末尾に箇条書きで列挙する
-- **C) @担当者ごとにセクションを分けて期日付きで明記**
-- D) 件名にだけ書いて本文では省略
+- C) 本文の物語の中に自然に織り込む
+- **D) @担当者ごとにセクションを分けて期日付きで明記**
 
-**Đáp án:** C
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 @assignee 別セクション + 期日明記が最も miss を防ぐ。物語に埋め込むと担当者は自分のタスクを抜き出せない。
@@ -5005,10 +5362,10 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 本番で critical bug が発生した場合、最も適切な channel 選択は？
 
-- A) Slack の #general に投稿のみ
+- A) 翌日の朝礼で口頭報告
 - B) メールで詳細を送るのみ
 - **C) 電話で第一報、その後 Slack でフォロー**
-- D) 翌日の朝礼で口頭報告
+- D) Slack の #general に投稿のみ
 
 **Đáp án:** C
 
@@ -5022,10 +5379,10 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** Slack で深夜23時に通常の仕様書共有を投稿する際、最も適切なメンションは？
 
-- A) @channel
-- B) @here
+- A) @here
+- B) 全員に DM
 - **C) メンションなし（翌朝の業務時間に @here）**
-- D) 全員に DM
+- D) @channel
 
 **Đáp án:** C
 
@@ -5039,12 +5396,12 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** リスケ連絡で最も避けるべきパターンは？
 
-- A) 24時間前に候補3つを送る
+- A) カレンダー更新を自分で行う
 - B) 件名にリスケと明記する
-- **C) 3時間前に候補1つだけ送る**
-- D) カレンダー更新を自分で行う
+- C) 24時間前に候補3つを送る
+- **D) 3時間前に候補1つだけ送る**
 
-**Đáp án:** C
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 直前の連絡 + 候補不足 + カレンダー更新を相手任せはリスケ最悪パターン。24時間前 + 候補3つ + 自分で更新が原則。
@@ -5056,9 +5413,9 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 計画的な休暇を取る際、最も適切な通知タイミングと内容は？
 
-- A) 前日の夜に Slack DM で「休みたい」と伝える
+- A) 当日の朝にメールで一報のみ
 - **B) 24時間以上前にメールで期間・復帰日・代行者・自動返信を明示**
-- C) 当日の朝にメールで一報のみ
+- C) 前日の夜に Slack DM で「休みたい」と伝える
 - D) 口頭で上司にだけ伝える
 
 **Đáp án:** B
@@ -5073,10 +5430,10 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 出張連絡と休暇連絡の最大の違いは？
 
-- A) 両者は同じ扱い
+- A) 出張は社外秘で代行者を指定しない
 - **B) 出張は daily 進捗報告と reachable 時間を明示する**
-- C) 休暇は事前通知不要、出張は必要
-- D) 出張は社外秘で代行者を指定しない
+- C) 両者は同じ扱い
+- D) 休暇は事前通知不要、出張は必要
 
 **Đáp án:** B
 
@@ -5090,12 +5447,12 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 次の判断のうち、必ず上司に相談すべきものは?
 
-- A) ローカルブランチで未マージの変数名リネーム
+- **A) 本番DB の主キーカラム名変更（5万レコード影響）**
 - B) 個人のSlackステータスを更新
-- **C) 本番DB の主キーカラム名変更（5万レコード影響）**
+- C) ローカルブランチで未マージの変数名リネーム
 - D) 自分のテストデータをリセット
 
-**Đáp án:** C
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 影響範囲（本番5万レコード）×不可逆性（DBスキーマは戻しにくい）両方『大』なので必ず相談。他は影響小×可逆性高で自己決定領域。
@@ -5108,9 +5465,9 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 **Q:** 上司に相談する前に必ず揃えるべき3点は?
 
 - **A) 5W1H・参考事例・自分の仮説**
-- B) 上司の好み・天気・自分の予定
-- C) 他社の情報・自分の希望・予算
-- D) メールテンプレート・カレンダー・タスクリスト
+- B) メールテンプレート・カレンダー・タスクリスト
+- C) 上司の好み・天気・自分の予定
+- D) 他社の情報・自分の希望・予算
 
 **Đáp án:** A
 
@@ -5124,10 +5481,10 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 上司に相談する切り出しとして最も適切なのは?
 
-- A) ちょっといいですか?
+- A) 今、聞いてもらえますか?
 - B) すぐ終わるんですけど…
 - **C) ご相談したいことがあるのですが、15分ほどお時間いただけますでしょうか?**
-- D) 今、聞いてもらえますか?
+- D) ちょっといいですか?
 
 **Đáp án:** C
 
@@ -5141,12 +5498,12 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 上司への相談で最も適切な聞き方は?
 
-- A) 正解を教えてください
-- B) どちらがいいですか?
-- **C) AとBで悩んでおります。見落としている観点はありますか?**
-- D) とりあえず指示してください
+- A) どちらがいいですか?
+- **B) AとBで悩んでおります。見落としている観点はありますか?**
+- C) とりあえず指示してください
+- D) 正解を教えてください
 
-**Đáp án:** C
+**Đáp án:** B
 
 **Giải thích / 解説:**
 - 🇯🇵 答えを聞くのではなく『判断材料』『見落としの観点』を聞くのが相談の本質。決定権は相談者側に残る。
@@ -5158,9 +5515,9 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 上司に対応策を相談する際、最も適切な準備は?
 
-- A) 1つの最善案を持参する
+- A) 全ての案を網羅的に並べ、推奨は控える
 - **B) 2〜3案をコスト・時間・リスクで定量比較し、推奨案を明示する**
-- C) 全ての案を網羅的に並べ、推奨は控える
+- C) 1つの最善案を持参する
 - D) 上司の好みに合わせた案を1つ選ぶ
 
 **Đáp án:** B
@@ -5175,8 +5532,8 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 相談で決まった内容を最も適切に保存する方法は?
 
-- A) 上司の記憶に頼る
-- B) Slack スレッドだけ
+- A) Slack スレッドだけ
+- B) 上司の記憶に頼る
 - **C) Decision Register に日付・論点・検討案・採用案・理由・承認者の1行を残す**
 - D) 口頭で決めて文書化しない
 
@@ -5192,12 +5549,12 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** junior から相談を受けた時、最も適切な対応は?
 
-- A) 即答1語で答え、効率よく終わらせる
+- **A) 要約 → 仮説確認 → 観点追加 → 相手に結論を下させ → DR化**
 - B) 『自分で考えろ』と突き返す
-- **C) 要約 → 仮説確認 → 観点追加 → 相手に結論を下させ → DR化**
+- C) 即答1語で答え、効率よく終わらせる
 - D) 全ての選択肢を網羅的に提示する
 
-**Đáp án:** C
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 即答は学習機会を奪い、同じ相談が繰り返される。突き返すと相談文化が崩壊する。コーチング5ステップで判断軸を内在化させるのが最適。
@@ -5210,28 +5567,28 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 **Q:** 客先で『来週水曜EODまでに回答します』と持ち帰った場合、社内期限の最適な設定は?
 
 - A) 顧客と同じ来週水曜EOD
-- B) 1週間後の翌週水曜
-- **C) 顧客期限の前日（火曜EOD）**
-- D) 特に期限を設けない
+- B) 特に期限を設けない
+- C) 1週間後の翌週水曜
+- **D) 顧客期限の前日（火曜EOD）**
 
-**Đáp án:** C
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 社内期限 = 顧客期限 - 1日のバッファルール。1日の余裕で突発事故を吸収できる。同日設定はゼロバッファで危険。
 - 🇻🇳 Deadline nội bộ = deadline khách - 1 ngày là rule buffer. 1 ngày dư hấp thụ sự cố. Đặt cùng ngày = 0 buffer, nguy hiểm.
 
-### J3.25 (từ rule_31 — Phát hiện bug — Hou-Ren-Sou flow)
+### J3.25 (từ rule_31 — Phát hiện bug — Quy trình Hou-Ren-Sou)
 
 **Skill:** 発言聴解
 
 **Q:** Sev1 incident 検知時の正しい第一報内容は?
 
-- A) 原因を推測して伝える
-- **B) 発生事実 + 影響範囲 + 調査中ステータス（原因とETAは未確定なら別途）**
-- C) 解決時間を約束する
-- D) 客先には復旧後にまとめて報告
+- A) 客先には復旧後にまとめて報告
+- B) 解決時間を約束する
+- **C) 発生事実 + 影響範囲 + 調査中ステータス（原因とETAは未確定なら別途）**
+- D) 原因を推測して伝える
 
-**Đáp án:** B
+**Đáp án:** C
 
 **Giải thích / 解説:**
 - 🇯🇵 第一報は『事実+影響範囲+調査中』のみ。原因推測やETA約束は二重約束のリスク。情報が固まり次第、別報で順次更新。
@@ -5243,12 +5600,12 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 客先からクレームを受けた junior の最初の発言として最も適切なのは?
 
-- A) そんなはずないと思います
-- B) 今日中に直して送り直します
-- **C) 〇〇とのこと、ご認識合っておりますでしょうか。ご不便をおかけし申し訳ございません**
-- D) 経理に確認しないと分かりません
+- A) 経理に確認しないと分かりません
+- B) そんなはずないと思います
+- C) 今日中に直して送り直します
+- **D) 〇〇とのこと、ご認識合っておりますでしょうか。ご不便をおかけし申し訳ございません**
 
-**Đáp án:** C
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 クレーム対応の最初の手は『傾聴+復唱』。事実を固定し、ご不便への謝罪のみ先行。否定や推測、未検証の約束はNG。
@@ -5260,12 +5617,12 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 6ヶ月のサバティカル取得を最初に伝えるべき相手は?
 
-- A) Slack #general で全社broadcast
-- **B) Tech lead に1-on-1 で Handover Plan ドラフト持参**
-- C) 客先の Matsumoto に直接メール
-- D) HR にメールのみ
+- A) 客先の Matsumoto に直接メール
+- B) HR にメールのみ
+- **C) Tech lead に1-on-1 で Handover Plan ドラフト持参**
+- D) Slack #general で全社broadcast
 
-**Đáp án:** B
+**Đáp án:** C
 
 **Giải thích / 解説:**
 - 🇯🇵 退職・長期休暇は階層順序が重要。Tech lead 1-on-1 → CTO → 客向け正式案内（CTO名義）→ 全社通知 → チーム個別。Slack 先行や客への junior 直接連絡はNG。
@@ -5277,12 +5634,12 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 新人mentor として最も効果的な仕組みは?
 
-- A) 「いつでも聞いて」とだけ伝える
-- **B) Weekly 1-on-1 + Slack Office Hour + 期待値明文化の3点**
+- A) 週末にまとめて回答する
+- B) 「いつでも聞いて」とだけ伝える
 - C) 新人の DM はすべて即返信する
-- D) 週末にまとめて回答する
+- **D) Weekly 1-on-1 + Slack Office Hour + 期待値明文化の3点**
 
-**Đáp án:** B
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 ad-hoc DM は mentor の集中も新人の心理も両方を消耗する。固定 1-on-1 + 固定 Office Hour + 期待値の明文化で、安心と効率の両立。
@@ -5296,8 +5653,8 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 - A) 終日 Slack に張り付く
 - **B) 朝会 + ステータスアイコン + EOD ログ + カメラON**
-- C) メールだけで済ます
-- D) 進捗は週次1回まとめて報告
+- C) 進捗は週次1回まとめて報告
+- D) メールだけで済ます
 
 **Đáp án:** B
 
@@ -5311,12 +5668,12 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** VN team が JP 客に3日間のタスクを引き受けた場合、ホウレンソウとして最も適切なのは?
 
-- A) 完成時にまとめて報告
-- B) 進捗があった時のみ連絡
-- **C) 開始時に reporting cadence を約束し、毎日 EOD に『ブロッカーなし、予定通り』でも1行報告**
-- D) Slack に一日中張り付く
+- A) 進捗があった時のみ連絡
+- B) 完成時にまとめて報告
+- C) Slack に一日中張り付く
+- **D) 開始時に reporting cadence を約束し、毎日 EOD に『ブロッカーなし、予定通り』でも1行報告**
 
-**Đáp án:** C
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 VN『沈黙=順調』vs JP『沈黙=問題』のギャップを cadence 約束 + no-news report (báo 'không có tin') で解消する。完成時のみは JP 側に不安を与える。
@@ -5328,12 +5685,12 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 客先からの『契約書改定案 v3』を共有する最適なチャネルは?
 
-- A) Slack に20MB PDFを投稿
-- **B) Notion ページで編集権付き URL 共有**
-- C) 口頭電話で読み上げる
-- D) Twitter DM
+- **A) Notion ページで編集権付き URL 共有**
+- B) Twitter DM
+- C) Slack に20MB PDFを投稿
+- D) 口頭電話で読み上げる
 
-**Đáp án:** B
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 契約書は5+ラウンドの編集とversion history が必要。Notion は共同編集と履歴の両立が可能。Slack に大ファイルは検索性・保存性ともにNG。
@@ -5345,12 +5702,12 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** Hou-Ren-Sou 月末自己診断で C-D 評価がゼロだった場合、最も適切な対応は?
 
-- A) 完璧なので何もしない
-- B) 全Aを上司に報告して褒められる
-- **C) Slack履歴・DR・客先メールと照合して再診断**
-- D) 翌月から診断頻度を半年に1回に下げる
+- **A) Slack履歴・DR・客先メールと照合して再診断**
+- B) 完璧なので何もしない
+- C) 翌月から診断頻度を半年に1回に下げる
+- D) 全Aを上司に報告して褒められる
 
-**Đáp án:** C
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 C-Dゼロは self-bias の典型サイン。客観 evidence (Slack/DR/客先) と照合して recalibrate するのが正解。
@@ -5362,12 +5719,12 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** チーム Hou-Ren-Sou Playbook の必須5要素は?
 
-- A) Slack / Email / 電話 / Zoom / Notion
-- **B) Rituals / Dashboard / OKR / Escalation matrix / Onboarding**
-- C) 報告 / 連絡 / 相談 / 会議 / 評価
-- D) 個人rule のリスト
+- **A) Rituals / Dashboard / OKR / Escalation matrix / Onboarding**
+- B) Slack / Email / 電話 / Zoom / Notion
+- C) 個人rule のリスト
+- D) 報告 / 連絡 / 相談 / 会議 / 評価
 
-**Đáp án:** B
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 Playbook = Rituals (定期儀式) + Dashboard (可視化) + OKR (測定可能目標) + Escalation matrix (緊急時経路) + Onboarding (新人プロセス)。これがあれば quality が個人差に左右されない。
@@ -5379,10 +5736,10 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 週次 retrospective で最も重要な要素は?
 
-- A) Problem を全員が共有する
+- A) 全員が交代でファシリテートする
 - **B) Keep / Problem / Try + owner+期限+check日付き Action items**
-- C) facilitator が長く話す
-- D) 全員が交代でファシリテートする
+- C) Problem を全員が共有する
+- D) facilitator が長く話す
 
 **Đáp án:** B
 
@@ -5399,16 +5756,16 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 本番で critical bug を発見してから上司に第一報を入れるまでの理想的時間は？
 
-- A) 翌営業日の朝
-- **B) 発見から30分以内**
-- C) 原因が判明してから
+- A) 原因が判明してから
+- B) 翌営業日の朝
+- **C) 発見から30分以内**
 - D) 対応が完了してから
 
-**Đáp án:** B
+**Đáp án:** C
 
 **Giải thích / 解説:**
 - 🇯🇵 Critical 障害は『発見即報告』が原則。原因が分からなくても Fact / Impact / 暫定 Plan を30分以内に第一報する。
-- 🇻🇳 Sự cố nghiêm trọng nguyên tắc 'phát hiện = báo ngay'. Chưa rõ nguyên nhân vẫn phải báo Fact / Impact / Plan tạm trong 30 phút.
+- 🇻🇳 Sự cố critical nguyên tắc 'phát hiện = báo ngay'. Chưa rõ nguyên nhân vẫn phải báo Fact / Impact / Plan tạm trong 30 phút.
 
 ### J2.2 (từ rule_11 — Báo cáo cho khách hàng quan trọng)
 
@@ -5416,12 +5773,12 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 重要顧客の松本様に対して、社内の同僚トゥアン氏を紹介する最も適切な表現は？
 
-- A) 弊社のトゥアンリーダー
-- B) うちのトゥアンさん
-- **C) 弊社のトゥアン**
-- D) トゥアンリーダー
+- A) トゥアンリーダー
+- B) 弊社のトゥアンリーダー
+- C) うちのトゥアンさん
+- **D) 弊社のトゥアン**
 
-**Đáp án:** C
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 ウチ・ソト原則：社外の人に対して社内同僚を呼ぶときは役職敬称を外し「弊社の〇〇」と表現する。
@@ -5433,12 +5790,12 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 本番で重大障害が発生した時、最も適切な escalation 順序は？
 
-- A) 顧客 → CTO → 直属上司
-- **B) 直属上司 → CTO → Plan 確定 → 顧客**
-- C) Slack #all へ投稿 → 顧客
-- D) 顧客のみに連絡
+- **A) 直属上司 → CTO → Plan 確定 → 顧客**
+- B) 顧客 → CTO → 直属上司
+- C) 顧客のみに連絡
+- D) Slack #all へ投稿 → 顧客
 
-**Đáp án:** B
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 社内で Plan まで固めてから顧客に告げるのが原則。Plan 無しで顧客に告げると詰められて現場が混乱する。
@@ -5450,12 +5807,12 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** VN-JP cross-timezone Slack で時刻を伝える最も適切な表現は？
 
-- A) 明日10時から
-- B) 夕方頃に
-- **C) 2026/4/22 (火) 10:00 JST (= 08:00 ICT)**
-- D) 業務時間内に
+- **A) 2026/4/22 (火) 10:00 JST (= 08:00 ICT)**
+- B) 明日10時から
+- C) 業務時間内に
+- D) 夕方頃に
 
-**Đáp án:** C
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 cross-timezone では JST (ICT) を必ず併記。「明日」「夕方」のような相対時刻は両国で異なる解釈を生む。
@@ -5467,12 +5824,12 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 **Q:** 客先に相談する際、最も適切な切り出しは?
 
-- A) ちょっと相談したいんですが
-- B) 相談に乗ってもらえますか
-- **C) ご相談させていただけますでしょうか**
-- D) 教えてください
+- A) 相談に乗ってもらえますか
+- B) 教えてください
+- C) ちょっと相談したいんですが
+- **D) ご相談させていただけますでしょうか**
 
-**Đáp án:** C
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 客先相談は謙譲語『させていただく』+ 丁寧語『でしょうか』の二重敬語が標準。社内 casual トーンとは明確に分けるべき。
@@ -5515,7 +5872,7 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 下記の通り代替候補を3つご提案させていただきます。ご都合の良い候補をご返信いただけますと幸いです。
 
-──────────────────────
+----------------------
 ■ 代替候補
   ① 〇月〇日(〇) 〇〇:〇〇〜〇〇:〇〇 (JST)
   ② 〇月〇日(〇) 〇〇:〇〇〜〇〇:〇〇 (JST)
@@ -5523,7 +5880,7 @@ Thứ Sáu 25/4 16:00. Team retrospective tuần. Lần đầu chỉ "phàn nàn
 
 ■ 形式：〇〇（リンク：https://...）
 ■ アジェンダ：当初の通り（変更なし）
-──────────────────────
+----------------------
 
 ご都合よろしい候補が確定次第、当方にてカレンダー更新および新規招待をお送りいたします。
 会議室・Zoom リンクは変更不要です。
@@ -5546,7 +5903,7 @@ Em xin lỗi anh/chị ạ.
 
 Em xin đề xuất 3 phương án thay thế như dưới đây. Phiền anh/chị reply giúp em phương án thuận tiện ạ.
 
-──────────────────────
+----------------------
 [Phương án thay thế]
   ① 〇/〇 (〇) 〇:〇〇 - 〇:〇〇 (JST)
   ② 〇/〇 (〇) 〇:〇〇 - 〇:〇〇 (JST)
@@ -5554,7 +5911,7 @@ Em xin đề xuất 3 phương án thay thế như dưới đây. Phiền anh/ch
 
 [Hình thức] 〇〇 (link: https://...)
 [Agenda] Như ban đầu (không đổi)
-──────────────────────
+----------------------
 
 Ngay khi anh/chị chốt phương án, em sẽ update lịch và gửi invite mới ạ.
 Phòng họp và link Zoom không cần đổi ạ.
@@ -5628,7 +5985,7 @@ Em xin cảm ơn ạ.
 評価: A=完全実施 / B=概ね実施 / C=一部不足 / D=未実施
 判定: 必ず Slack履歴 + Decision Register + 客先メール の3点と照合
 
-──────────────────────────────────────────
+------------------------------------------
 ■ 報告 (Hōkoku) — 5項目
   □ ① 結論先出し: 報告冒頭で『結論:〇〇』と明示できているか?
   □ ② Fact / Opinion 分離: 『事実として〜』『私見では〜』を意識して使っているか?
@@ -5650,7 +6007,7 @@ Em xin cảm ơn ạ.
   □ ⑭ DR化: 相談で決まったことを Decision Register に1行残したか?
   □ ⑮ 客先敬語: 客への相談で『ご相談させていただけますでしょうか』を使えたか?
 
-──────────────────────────────────────────
+------------------------------------------
 【記録欄】
   - 評価分布: A〇 / B〇 / C〇 / D〇
   - C-D 評価の具体ケース:
@@ -5670,7 +6027,7 @@ Em xin cảm ơn ạ.
 Đánh giá: A = đầy đủ / B = cơ bản / C = thiếu một phần / D = chưa làm
 Xác định: BẮT BUỘC đối chiếu Slack history + Decision Register + mail khách
 
-──────────────────────────────────────────
+------------------------------------------
 [Báo cáo (Hōkoku) — 5 mục]
   [ ] [1] Kết luận trước: Mở báo cáo có 'Kết luận: 〇〇' rõ không?
   [ ] [2] Tách Fact/Opinion: Có ý thức dùng 'Sự thật là...' và 'Theo ý em...' không?
@@ -5680,7 +6037,7 @@ Xác định: BẮT BUỘC đối chiếu Slack history + Decision Register + ma
 
 [Liên lạc (Renraku) — 5 mục]
   [ ] [6] Tức thì: Liên lạc khách trong 24h ít nhất ack chưa?
-  [ ] [7] Tone với khách: Lúc khiếu nại có lắng nghe + lặp lại thay vì defensive không?
+  [ ] [7] Giọng với khách: Lúc khiếu nại có lắng nghe + lặp lại thay vì phòng thủ không?
   [ ] [8] Chọn channel: Có chia Slack/Notion/Email/Outlook theo từng việc không?
   [ ] [9] Chọn audience: @here / @channel / DM đã dùng đúng chưa?
   [ ] [10] EOD log: Ngày WFH có post EOD log lên Slack chưa?
@@ -5692,7 +6049,7 @@ Xác định: BẮT BUỘC đối chiếu Slack history + Decision Register + ma
   [ ] [14] DR hóa: Việc đã quyết có lưu 1 dòng vào Decision Register không?
   [ ] [15] Kính ngữ với khách: Tham vấn khách có dùng 'ご相談させていただけますでしょうか' không?
 
-──────────────────────────────────────────
+------------------------------------------
 [Mục ghi chép]
   - Phân bổ đánh giá: A〇 / B〇 / C〇 / D〇
   - Case cụ thể của C-D:
@@ -5719,7 +6076,7 @@ Facilitator: フオン副部長 (バックアップ: トゥアン)
 ツール: Notion ページ + Slack #retro 通知
 運用: 木曜EODまでに各自 KPT を pre-fill、金曜 16:00 から発表
 
-──────────────────────────────────────────
+------------------------------------------
 ■ ① Keep (今週うまくいったこと — 来週も継続)
   □ 〇〇 (具体的事案 + 数値があれば)
   □ 〇〇
@@ -5736,7 +6093,7 @@ Facilitator: フオン副部長 (バックアップ: トゥアン)
   □ 〇〇 ← Problem ② への対策
   □ 〇〇 ← 新しい挑戦 (Problem 由来でなくてOK)
 
-──────────────────────────────────────────
+------------------------------------------
 ■ ④ Action Items (Try を実行可能形式に)
   □ Action 1: 〇〇
      Owner: 〇〇
@@ -5751,13 +6108,13 @@ Facilitator: フオン副部長 (バックアップ: トゥアン)
   □ Action 3: 〇〇
      ...
 
-──────────────────────────────────────────
+------------------------------------------
 ■ ⑤ 先週 Action items の review (retro 冒頭で実施)
   □ 先週 Action 1 → 完了 / 進行中 / 未着手 → 理由
   □ 先週 Action 2 → 完了 / 進行中 / 未着手 → 理由
   □ 先週 Action 3 → 完了 / 進行中 / 未着手 → 理由
 
-──────────────────────────────────────────
+------------------------------------------
 【記録欄】
   - 出席者: 〇〇
   - 欠席者: 〇〇 (理由: 〇〇、catch-up: 〇〇)
@@ -5774,7 +6131,7 @@ Facilitator: chị Hương (backup: anh Tuấn)
 Tool: trang Notion + Slack #retro thông báo
 Vận hành: thứ Năm EOD mỗi người pre-fill KPT, thứ Sáu 16:00 present
 
-──────────────────────────────────────────
+------------------------------------------
 [1 Keep (Tuần này tốt — tuần sau giữ tiếp)]
   [ ] 〇〇 (case cụ thể + số nếu có)
   [ ] 〇〇
@@ -5791,7 +6148,7 @@ Vận hành: thứ Năm EOD mỗi người pre-fill KPT, thứ Sáu 16:00 presen
   [ ] 〇〇 ← Đối phó Problem [2]
   [ ] 〇〇 ← Thử nghiệm mới (không cần xuất phát từ Problem)
 
-──────────────────────────────────────────
+------------------------------------------
 [4 Action Items (Biến Try thành dạng thực thi được)]
   [ ] Action 1: 〇〇
      Owner: 〇〇
@@ -5806,13 +6163,13 @@ Vận hành: thứ Năm EOD mỗi người pre-fill KPT, thứ Sáu 16:00 presen
   [ ] Action 3: 〇〇
      ...
 
-──────────────────────────────────────────
+------------------------------------------
 [5 Review Action items tuần trước (làm đầu retro)]
   [ ] Action 1 tuần trước → Xong / Đang làm / Chưa khởi → Lý do
   [ ] Action 2 tuần trước → Xong / Đang làm / Chưa khởi → Lý do
   [ ] Action 3 tuần trước → Xong / Đang làm / Chưa khởi → Lý do
 
-──────────────────────────────────────────
+------------------------------------------
 [Mục ghi chép]
   - Có mặt: 〇〇
   - Vắng mặt: 〇〇 (lý do: 〇〇, catch-up: 〇〇)
@@ -6067,10 +6424,10 @@ Em xin cảm ơn ạ.
 *JP: 完了報告書（formal 7要素）テンプレート*
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 Phase 2 完了報告書
 （対象期間：2026年4月1日〜4月20日）
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 
 【宛先】
   主：白鷗株式会社 松本PM
@@ -6083,14 +6440,14 @@ Phase 2 完了報告書
 【作成者】
   ティエンファット社 営業部 〇〇
 
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 ■ 概要（Executive Summary）
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 Phase 2 を予定通り 4月20日に完了。納品物5点、検収完了。画面ロード時間 -67%、バグ件数 -70% を達成。Phase 3 着手は5月7日を提案。
 
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 ■ 詳細
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 1. 納品物一覧
    1-1. 要件定義書 v2.0
    1-2. 設計書 v1.3
@@ -6102,14 +6459,14 @@ Phase 2 を予定通り 4月20日に完了。納品物5点、検収完了。画�
 3. 振り返り（Lessons Learned）
    ...
 
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 ■ 結論・提言
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 Phase 2 を予定通り完了。Phase 3 は5月7日キックオフを提案。仕様確認手順を着手前必須化することを Phase 3 の運営ルールに追加したい。
 
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 ■ 添付資料
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
   1. 検収書（白鷗株式会社発行、2026年4月20日付）
   2. KPI ダッシュボード（PDF、v1.0）
   3. 第N回定例議事録（2026年4月18日）
@@ -6120,10 +6477,10 @@ Phase 2 を予定通り完了。Phase 3 は5月7日キックオフを提案。�
 **Bản Việt placeholder:**
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 Báo cáo hoàn thành Phase 2
 (Kỳ: 1/4/2026 - 20/4/2026)
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 
 [Người nhận]
   Chính: anh Matsumoto PM (Cty Hakuō)
@@ -6136,14 +6493,14 @@ Báo cáo hoàn thành Phase 2
 [Người lập]
   Phòng Kinh doanh, Thiên Phát — 〇〇
 
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 [Tổng quan (Executive Summary)]
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 Phase 2 hoàn thành đúng kế hoạch ngày 20/4. 5 deliverable, đã có nghiệm thu. Đạt -67% load time, -70% số bug. Đề xuất kick-off Phase 3 ngày 7/5.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 [Chi tiết]
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 1. Danh sách deliverable
    1-1. Tài liệu yêu cầu v2.0
    1-2. Tài liệu thiết kế v1.3
@@ -6155,14 +6512,14 @@ Phase 2 hoàn thành đúng kế hoạch ngày 20/4. 5 deliverable, đã có ngh
 3. Retrospective (Lessons Learned)
    ...
 
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 [Kết luận & Đề xuất]
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 Phase 2 hoàn thành đúng kế hoạch. Đề xuất kick-off Phase 3 ngày 7/5. Đề xuất thêm 'bắt buộc xác nhận spec trước khi bắt tay làm' vào quy tắc vận hành Phase 3.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 [Tài liệu đính kèm]
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
   1. Văn bản nghiệm thu (Cty Hakuō phát hành, ngày 20/4/2026)
   2. KPI dashboard (PDF, v1.0)
   3. Biên bản họp định kỳ lần N (18/4/2026)
@@ -6183,13 +6540,13 @@ Hết.
 更新頻度: 週次（毎週金曜 EOD）
 命名規則: DR-YYYY-MMDD (例: DR-2026-0118)
 
-──────────────────────────────────────────
+------------------------------------------
 | ID            | 日付       | 論点                | 検討案                          | 採用案    | 理由 (1〜2行)                                       | 承認者                  | リスク / 留意点                  | ステータス   |
 |---------------|-----------|---------------------|--------------------------------|----------|-----------------------------------------------------|------------------------|--------------------------------|-------------|
 | DR-2026-0118  | 2026/1/18 | Phase 2 DB選定      | ①MySQL ②Postgres ③DynamoDB    | MySQL    | 松本様運用チームが経験豊富 + コスト低 + Phase 1連携容易 | ハーCTO + フオン副部長 | 水平分散時の制約                | 採用済      |
 | DR-2026-0224  | 2026/2/24 | API遅延対応         | ①クエリ最適化 ②Index ③Redis    | Index    | 半日で実装可 + コスト増なし + EXPLAIN で候補特定済    | トゥアンリーダー        | デプロイ時の lock 時間          | 採用済      |
 | DR-2026-0422  | 2026/4/22 | 印刷会社変更        | ①C社 ②D社 ③A社継続           | C社      | 納期遅れ1日のみ + コスト同等                          | ズン (フオン副部長承認) | C社初取引のため検収厳重         | 採用済      |
-──────────────────────────────────────────
+------------------------------------------
 
 【記入ルール】
 - 1相談1行。複数論点が絡む場合は分割。
@@ -6207,13 +6564,13 @@ Lưu trữ: Notion / Confluence / Google Sheets
 Tần suất cập nhật: hàng tuần (thứ Sáu EOD)
 Quy ước đặt tên: DR-YYYY-MMDD (vd: DR-2026-0118)
 
-──────────────────────────────────────────
+------------------------------------------
 | ID            | Ngày       | Luận điểm           | Options đã xét                 | Chọn      | Lý do (1-2 dòng)                                     | Người duyệt              | Risk / Ghi chú                  | Trạng thái  |
 |---------------|-----------|---------------------|--------------------------------|-----------|------------------------------------------------------|-------------------------|--------------------------------|-------------|
 | DR-2026-0118  | 18/1/2026 | Chọn DB Phase 2     | MySQL / Postgres / DynamoDB    | MySQL     | Team anh Matsumoto quen + cost thấp + dễ tích hợp Phase 1 | Hà CTO + chị Hương     | Hạn chế khi cần phân tán ngang | Đã chọn     |
 | DR-2026-0224  | 24/2/2026 | API chậm            | Tối ưu query / Index / Redis   | Index     | Nửa ngày xong + không tăng cost + đã EXPLAIN ra ứng viên | Tuấn (Tech Lead)        | Lock time khi deploy           | Đã chọn     |
 | DR-2026-0422  | 22/4/2026 | Đổi nhà in          | Nhà C / Nhà D / Tiếp nhà A    | Nhà C     | Chỉ trễ 1 ngày + cost tương đương                    | Dũng (chị Hương duyệt) | Lần đầu hợp tác C, nghiệm thu kỹ | Đã chọn     |
-──────────────────────────────────────────
+------------------------------------------
 
 [Quy tắc ghi]
 - 1 tham vấn = 1 dòng. Nếu có nhiều luận điểm thì tách dòng.
@@ -6236,7 +6593,7 @@ Last updated: 2026-04-25
 Culture sponsor: ハー CTO + フオン副部長
 Tech ritual owner: トゥアン Tech Lead
 
-──────────────────────────────────────────
+------------------------------------------
 ■ ① Rituals (定例)
   - 朝会 Slack #team-daily 毎平日 9:30 (DDBN format、5分)
   - 週次 retrospective 毎金曜 16:00-16:30 (Keep/Problem/Try)
@@ -6271,7 +6628,7 @@ Tech ritual owner: トゥアン Tech Lead
   - Day 61-90: 1人立ちタスク 1件、客先デビュー、自己診断 2回目
   - Day 90+: regular member、月次自己診断
 
-──────────────────────────────────────────
+------------------------------------------
 【Playbook の使い方】
   - 全 member 月初 5分で再読
   - 違反検知時はその場で Playbook §〇 を引用
@@ -6285,10 +6642,10 @@ Tech ritual owner: トゥアン Tech Lead
 ```
 [Thiên Phát Hou-Ren-Sou Playbook v1]
 Cập nhật: 25/4/2026
-Culture sponsor: anh Hà CTO + chị Hương
+Người bảo trợ văn hóa: anh Hà CTO + chị Hương
 Tech ritual owner: anh Tuấn Tech Lead
 
-──────────────────────────────────────────
+------------------------------------------
 [1 Rituals (định kỳ)]
   - Standup Slack #team-daily mỗi ngày làm việc 9:30 (format DDBN, 5 phút)
   - Retrospective hàng tuần thứ Sáu 16:00-16:30 (Keep/Problem/Try)
@@ -6323,7 +6680,7 @@ Tech ritual owner: anh Tuấn Tech Lead
   - Day 61-90: 1 task tự đứng, debut với khách, self-diagnostic lần 2
   - Day 90+: Member chính thức, self-diagnostic hàng tháng
 
-──────────────────────────────────────────
+------------------------------------------
 [Cách dùng Playbook]
   - Toàn bộ member đầu tháng dành 5 phút đọc lại
   - Phát hiện vi phạm thì trích §〇 Playbook ngay tại chỗ

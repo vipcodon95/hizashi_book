@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Sau khi Linh + Dũng đã exchange với Ōgaki riêng từng người (rule 02-03), giờ đến lượt Tuấn (Tech Lead) và Matsumoto PM. Tuấn và Matsumoto đứng đối diện, cùng chìa danh thiếp ra cùng lúc.
+Sau khi Linh + Dũng đã trao đổi danh thiếp với Ōgaki riêng từng người (rule 02-03), giờ đến lượt Tuấn (Tech Lead) và Matsumoto PM. Tuấn và Matsumoto đứng đối diện, cùng chìa danh thiếp ra cùng lúc.
 
 ---
 
@@ -21,11 +21,15 @@ Sau khi Linh + Dũng đã exchange với Ōgaki riêng từng người (rule 02-
 | Vai | Câu |
 |---------|-----|
 | **トゥアン** | 「ティエンファットのトゥアンです、よろしく…」 |
-| **松本** | 「あ…松本です…」 |
-| **トゥアン** | 「あ、すみません、お先にどうぞ。」 |
+|  | *Tôi là Tuấn bên Tiên Phát, mong được...* |
+| **<ruby>松本<rt>まつもと</rt></ruby>** | 「あ…<ruby>松本<rt>まつもと</rt></ruby>です…」 |
+|  | *À... tôi Matsumoto...* |
+| **トゥアン** | 「あ、すみません、<ruby>お先<rt>おさき</rt></ruby>にどうぞ。」 |
+|  | *À xin lỗi, mời anh trước ạ.* |
 | **松本** | 「いえ、こちらこそ…」 *(không khí ngượng nghịu 3 giây)* |
+|  | *Không, anh trước đi...* |
 
-**Vì sao xấu:** 2 bên cùng đưa cùng tầm cao → đụng tay → lúng túng → reset = gãy nhịp lễ nghi. Ai cũng "khiêm nhường" sai cách.
+**Vì sao xấu:** 2 bên cùng đưa cùng tầm cao → đụng tay → lúng túng → làm lại từ đầu = gãy nhịp lễ nghi. Ai cũng "khiêm nhường" sai cách.
 
 ---
 
@@ -35,15 +39,19 @@ Sau khi Linh + Dũng đã exchange với Ōgaki riêng từng người (rule 02-
 
 | Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「ティエンファット 技術リーダーのトゥアンと申します。**頂戴いたします**【2】。」 |
-| **松本** | 「白鷗株式会社 PMの松本です。頂戴いたします。」 |
-| **トゥアン** | 「**松本PM、よろしくお願いいたします**【3】。」 |
+| **トゥアン** | 「ティエンファット <ruby>技術<rt>ぎじゅつ</rt></ruby>リーダーのトゥアンと<ruby>申<rt>もう</rt></ruby>します。**<ruby>頂戴<rt>ちょうだい</rt></ruby>いたします**【2】。」 |
+|  | *Tôi là Tuấn, Tech Lead công ty Tiên Phát. Xin nhận ạ.* |
+| **<ruby>松本<rt>まつもと</rt></ruby>** | 「<ruby>白鷗<rt>はくおう</rt></ruby><ruby>株式<rt>かぶしき</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby> PMの<ruby>松本<rt>まつもと</rt></ruby>です。<ruby>頂戴<rt>ちょうだい</rt></ruby>いたします。」 |
+|  | *Tôi là Matsumoto, PM công ty Hakuō. Xin nhận.* |
+| **トゥアン** | 「**<ruby>松本<rt>まつもと</rt></ruby>PM、よろしくお<ruby>願<rt>ねが</rt></ruby>いいたします**【3】。」 |
+|  | *Anh Matsumoto PM, rất mong được hợp tác ạ.* |
 | **松本** | 「トゥアンさん、こちらこそ。」 |
+|  | *Anh Tuấn, tôi cũng vậy.* |
 
 📝 **Ghi chú:**
 - 【1】**右手低・左手高** — quy tắc cốt lõi 同時交換: tay phải trao danh thiếp **của mình** chìa thấp (khiêm nhường) + tay trái đỡ danh thiếp **khách** ở cao (tôn trọng). Nghĩ kiểu: "danh thiếp tôi = đồ tôi đưa = thấp; danh thiếp anh = đồ tôi nhận = cao".
 - 【2】**「頂戴いたします」** — nói cùng lúc nhận. Cả 2 bên đều nói. Không tranh nhau "お先にどうぞ".
-- 【3】**Đảo lại 2 tay rồi đọc** — sau khi nhận bằng 1 tay (trái), ngay lập tức chuyển sang đỡ 2 tay (phải đặt dưới trái) + đọc tên + chức vụ. Toàn bộ flow ~ 3 giây.
+- 【3】**Đảo lại 2 tay rồi đọc** — sau khi nhận bằng 1 tay (trái), ngay lập tức chuyển sang đỡ 2 tay (phải đặt dưới trái) + đọc tên + chức vụ. Toàn bộ nhịp ~ 3 giây.
 
 ---
 
@@ -61,7 +69,7 @@ Sau khi Linh + Dũng đã exchange với Ōgaki riêng từng người (rule 02-
 - Một bên "**お先にどうぞ**" → bên kia phải đợi → gãy nhịp (chỉ dùng khi rule 05: junior trước senior, KHÔNG dùng khi 2 người cùng cấp)
 - Sau khi nhận bằng tay trái, **không đảo sang đỡ 2 tay** → để tay trái cầm 1 mình = nhận xong "vứt"
 - Nói "頂戴いたします" **trễ** (sau khi đã nhận xong) → câu phải đi cùng lúc với động tác nhận
-- **Không bow** trong toàn bộ flow → bow nhẹ 15° đầu cuộc exchange
+- **Không cúi chào** trong toàn bộ nhịp → cúi nhẹ 15° đầu lượt trao đổi
 
 ---
 

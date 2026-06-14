@@ -20,10 +20,14 @@ Round 3 đàm phán Phase 3 vừa close ¥17M + 2 năm + dashboard. Trước khi
 
 | Vai | Câu |
 |---------|-----|
-| **大垣** | 「では、概ね合意ということで。」 |
-| **ズン** | 「はい、ありがとうございます！では契約書を進めます。」 |
-| (3日後 Slack) **田中PMO** | 「ズン様、契約書ドラフト拝見しました。**SLA 99.9% となっていますが、当日 99.5% で合意では？**」 |
-| **ズン** | 「えっ、99.9% で合意したと記憶しているのですが…」 |
+| **大垣** | 「では、<ruby>概<rt>おおむ</rt></ruby>ね<ruby>合意<rt>ごうい</rt></ruby>ということで。」 |
+|  | *Thôi, coi như đã đại thể đồng thuận nhé.* |
+| **ズン** | 「はい、ありがとうございます！では<ruby>契約書<rt>けいやくしょ</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めます。」 |
+|  | *Vâng, em cảm ơn ạ! Em sẽ tiến hành soạn hợp đồng ạ.* |
+| (3日後 Slack) **田中PMO** | 「ズン<ruby>様<rt>さま</rt></ruby>、<ruby>契約書<rt>けいやくしょ</rt></ruby>ドラフト<ruby>拝見<rt>はいけん</rt></ruby>しました。**SLA 99.9% となっていますが、<ruby>当日<rt>とうじつ</rt></ruby> 99.5% で<ruby>合意<rt>ごうい</rt></ruby>では？**」 |
+|  | *Anh Dũng, tôi đã xem bản nháp hợp đồng. SLA ghi 99.9% nhưng hôm đó chúng ta thống nhất 99.5% mà?* |
+| **ズン** | 「えっ、99.9% で<ruby>合意<rt>ごうい</rt></ruby>したと<ruby>記憶<rt>きおく</rt></ruby>しているのですが…」 |
+|  | *Ơ, em nhớ là đã thống nhất 99.9% mà ạ...* |
 
 **Vì sao xấu:** Không read back → memory mismatch giữa 2 bên. Khi Dũng nhớ 99.9% còn Tanaka nhớ 99.5% — không có biên bản → khách win because seller phải back down. Skip 30 giây read back = mất ¥1-2M maintenance cost over 2 năm.
 
@@ -35,11 +39,16 @@ Round 3 đàm phán Phase 3 vừa close ¥17M + 2 năm + dashboard. Trước khi
 
 | Vai | Câu |
 |---------|-----|
-| **大垣** | 「では、概ね合意ということで。」 |
-| **ズン** | 「ありがとうございます。**最後に本日の合意事項を確認させてください**【1】。1点ずつ読み上げます。」 |
-| **ズン** | 「**①価格**: ¥17M (税抜)、**②契約期間**: 2026年7月-2028年6月の2年間、**③スコープ**: AI レコメンドエンジン + 専任PM + AI dashboard カスタム1機能、**④SLA**: 99.9%、**⑤支払**: 月次後払い、**⑥成果物 IP**: 共同所有、**⑦稟議スケジュール**: 御社にて5月末まで【2】。以上で齟齬ございませんでしょうか？」 |
-| **大垣** | 「はい、その通りです。1点だけ、**支払サイトは月末締め翌月末払い**でお願いします。」 |
-| **ズン** | 「承知いたしました。**月末締め翌月末払いを追記**して、**24時間以内に確認メールをお送りいたします**【3】。本日はありがとうございました。」 |
+| **大垣** | 「では、<ruby>概<rt>おおむ</rt></ruby>ね<ruby>合意<rt>ごうい</rt></ruby>ということで。」 |
+|  | *Thôi, coi như đã đại thể đồng thuận nhé.* |
+| **ズン** | 「ありがとうございます。**<ruby>最後<rt>さいご</rt></ruby>に<ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>合意事項<rt>ごういじこう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>させてください**【1】。1<ruby>点<rt>てん</rt></ruby>ずつ<ruby>読<rt>よ</rt></ruby>み<ruby>上<rt>あ</rt></ruby>げます。」 |
+|  | *Em cảm ơn ạ. Cuối cùng cho phép em xác nhận các điểm đã đồng thuận hôm nay ạ. Em đọc từng mục một.* |
+| **ズン** | 「**①<ruby>価格<rt>かかく</rt></ruby>**: ¥17M (<ruby>税抜<rt>ぜいぬき</rt></ruby>)、**②<ruby>契約期間<rt>けいやくきかん</rt></ruby>**: 2026年7月-2028年6月の2<ruby>年間<rt>ねんかん</rt></ruby>、**③スコープ**: AI レコメンドエンジン + <ruby>専任<rt>せんにん</rt></ruby>PM + AI dashboard カスタム1<ruby>機能<rt>きのう</rt></ruby>、**④SLA**: 99.9%、**⑤<ruby>支払<rt>しはらい</rt></ruby>**: <ruby>月次後払<rt>げつじあとばら</rt></ruby>い、**⑥<ruby>成果物<rt>せいかぶつ</rt></ruby> IP**: <ruby>共同所有<rt>きょうどうしょゆう</rt></ruby>、**⑦<ruby>稟議<rt>りんぎ</rt></ruby>スケジュール**: <ruby>御社<rt>おんしゃ</rt></ruby>にて5<ruby>月末<rt>がつまつ</rt></ruby>まで【2】。<ruby>以上<rt>いじょう</rt></ruby>で<ruby>齟齬<rt>そご</rt></ruby>ございませんでしょうか？」 |
+|  | *①Giá: ¥17M (chưa thuế), ②Kỳ hạn: 7/2026 - 6/2028 (2 năm), ③Phạm vi: AI recommend engine + PM chuyên trách + 1 tính năng tùy biến dashboard, ④SLA: 99.9%, ⑤Thanh toán: trả sau hàng tháng, ⑥IP sản phẩm: đồng sở hữu, ⑦Lịch ringi: bên anh duyệt trong tháng 5. Tất cả không có sai lệch nào ạ?* |
+| **大垣** | 「はい、その<ruby>通<rt>とお</rt></ruby>りです。1<ruby>点<rt>てん</rt></ruby>だけ、**<ruby>支払<rt>しはらい</rt></ruby>サイトは<ruby>月末締<rt>げつまつじ</rt></ruby>め<ruby>翌月末払<rt>よくげつまつばら</rt></ruby>い**でお<ruby>願<rt>ねが</rt></ruby>いします。」 |
+|  | *Đúng vậy. Chỉ có một điểm: chu kỳ thanh toán là chốt cuối tháng, trả cuối tháng kế tiếp giúp tôi.* |
+| **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>いたしました。**<ruby>月末締<rt>げつまつじ</rt></ruby>め<ruby>翌月末払<rt>よくげつまつばら</rt></ruby>いを<ruby>追記<rt>ついき</rt></ruby>**して、**24<ruby>時間以内<rt>じかんいない</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>メールをお<ruby>送<rt>おく</rt></ruby>りいたします**【3】。<ruby>本日<rt>ほんじつ</rt></ruby>はありがとうございました。」 |
+|  | *Em nhận rồi ạ. Em sẽ bổ sung 'chốt cuối tháng - trả cuối tháng kế', và gửi mail tổng kết trong vòng 24 giờ ạ. Hôm nay em cảm ơn anh nhiều ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**「合意事項を確認させてください」** — set up read-back ritual. Không phải optional, là procedure.

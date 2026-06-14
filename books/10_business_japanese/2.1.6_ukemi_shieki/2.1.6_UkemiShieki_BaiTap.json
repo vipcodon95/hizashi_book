@@ -12,7 +12,7 @@
     "focus": "受動形(受身) / 使役形 / 使役受動形 + 助詞の使い方 — Bị động, Sai khiến, Sai khiến Bị động và cách dùng trợ từ (に・によって・を・が・で・から)",
     "key_particle_rules": {
       "受動形_tác_nhân": "Người cụ thể → に (先生に叱られた). Tổ chức/trừu tượng/phát minh → によって (会社によって決められた). Nguyên nhân tự nhiên → で (風邪で休んだ). Nguồn gốc → から (親から言われた)",
-      "受動形_主語": "Tân ngữ を của câu chủ động → が trong câu bị động (財布を盗む → 財布が盗まれた)",
+      "受動形_主語": "Bị động TRỰC TIẾP (vật làm chủ ngữ): tân ngữ を → が (財布を盗む → 財布が盗まれた). Bị động SỞ HỮU CHỦ / thiệt hại (持ち主の受身, người bị hại làm chủ ngữ): vật GIỮ を (私は財布を盗まれた). Mấu chốt: có 私は/部長は… làm chủ ngữ thì vật giữ を.",
       "使役形_他動詞": "[人]に + [物]を + させる — người bị sai = に, tân ngữ = を",
       "使役形_自動詞": "[人]を (ép/thả mặc) hoặc に (cho phép) + させる",
       "使役受動形": "[人]が + [人]に + させられる — BỊ ÉP làm gì, bất đắc dĩ"
@@ -67,9 +67,9 @@
         "C": "に",
         "D": "は"
       },
-      "answer": "A",
-      "explanation_vn": "Đây là bị động gián tiếp (迷惑の受身). Người bị hại (私) bị ảnh hưởng gián tiếp — ví là vật SỞ HỮU của tôi bị mất. Cấu trúc: [người bị hại]は/が + [vật sở hữu]が + [động từ bị động]. 「財布が盗まれた」(ví bị lấy cắp) — 財布 là CHỦ THỂ của hành động bị động. KHÔNG dùng を trong câu bị động — を là trợ từ của câu CHỦ ĐỘNG (泥棒が財布を盗んだ). Trong câu bị động, を chuyển thành が.",
-      "tip": "⚠️ LỖI THƯỜNG GẶP: 「財布を盗まれた」= SAI! Trong câu bị động, tân ngữ を chuyển thành が: 「財布が盗まれた」. Nhớ: を KHÔNG xuất hiện sau vật bị tác động trong câu bị động cơ bản."
+      "answer": "B",
+      "explanation_vn": "Đây là bị động sở hữu chủ / bị động thiệt hại (持ち主の受身・迷惑の受身). Vì câu CÓ chủ ngữ là NGƯỜI bị hại (私は), nên vật sở hữu (財布) GIỮ NGUYÊN trợ từ を. Cấu trúc: [người bị hại]は + (tác nhân に) + [vật sở hữu]を + [động từ bị động]. Câu đúng: 「私は（泥棒に）財布を盗まれた」. → Phân biệt: 「財布が盗まれた」(が) chỉ đúng khi KHÔNG có người làm chủ ngữ — đó là bị động TRỰC TIẾP (直接受身), vật làm chủ ngữ. Còn khi đã có 私は, ta dùng を.",
+      "tip": "⚠️ ĐIỂM KHÓ: Khi NGƯỜI bị hại làm chủ ngữ (私は…), vật sở hữu GIỮ を → 「財布を盗まれた」. Chỉ khi VẬT làm chủ ngữ (không có người) mới dùng が → 「財布が盗まれた」. Đừng nhầm hai dạng này!"
     },
     {
       "id": 4,
@@ -170,7 +170,7 @@
         "D": "①は先生が悪い人、②は先生が良い人"
       },
       "answer": "A",
-      "explanation_vn": "Tuy cùng nghĩa 'được khen' nhưng sắc thái khác: ①「褒められた」(受身) = trung tính hoặc hơi bất ngờ, không nhấn mạnh cảm xúc. Trong một số ngữ cảnh, bị động có thể mang hàm ý bất đắc dĩ. ②「褒めてもらった」(授受) = biết ơn, vui mừng — nhấn mạnh ÂN HUỆ nhận được. Trong kinh doanh, もらった/いただく thường được chọn hơn khi muốn thể hiện lòng biết ơn: 「ご評価いただいた」.",
+      "explanation_vn": "Tuy cùng nghĩa 'được khen' nhưng sắc thái khác: ①「褒められた」(受身) = trung tính, ghi nhận khách quan sự việc, không nhấn mạnh cảm xúc biết ơn. (Lưu ý: trong ngữ cảnh ĐƯỢC KHEN, 受身 KHÔNG mang hàm ý bất đắc dĩ — hàm ý bất đắc dĩ chỉ xuất hiện ở 迷惑の受身 như 雨に降られた.) ②「褒めてもらった」(授受) = biết ơn, vui mừng — nhấn mạnh ÂN HUỆ nhận được. Trong kinh doanh, もらった/いただく thường được chọn khi muốn thể hiện lòng biết ơn: 「ご評価いただいた」.",
       "tip": "〜れる/られる (受身) vs 〜てもらう (授受): Cùng sự việc nhưng khác sắc thái. もらう = tôi biết ơn về điều đó. Trong kinh doanh, いただく được dùng thay bị động khi muốn thể hiện lòng biết ơn."
     },
     {
@@ -254,9 +254,9 @@
         "C": "に",
         "D": "で"
       },
-      "answer": "A",
-      "explanation_vn": "「急な出張が頼まれた」= bị động gián tiếp: 「出張」là chủ thể (が) của câu bị động. Cấu trúc: 私は + [vật]が + [người]に + 頼まれた. Đây giống với câu số 3: trong bị động gián tiếp, vật bị tác động trở thành CHỦ THỂ (が). Câu chủ động gốc: 「部長が私に急な出張を頼んだ」→ chuyển sang bị động: 「私は部長に急な出張が頼まれた」.",
-      "tip": "Bị động gián tiếp (迷惑の受身): Câu chủ động [A]が[B]に[C]を頼んだ → bị động: [B]は[A]に[C]が頼まれた. Để ý: を → が khi chuyển sang bị động!"
+      "answer": "B",
+      "explanation_vn": "Câu chủ động gốc: 「部長が私に急な出張を頼んだ」. Khi chuyển sang bị động với 私 làm chủ ngữ: 「私は部長に急な出張を頼まれた」— vì 私 đã là chủ ngữ (người bị tác động), nên tân ngữ 急な出張 GIỮ NGUYÊN を. Không thể có 2 chủ ngữ trong một câu, nên 出張 KHÔNG đổi thành が. Đây là bị động gián tiếp với người làm chủ ngữ → vật giữ を.",
+      "tip": "Bị động khi NGƯỜI làm chủ ngữ: [B]は[A]に[C]を頼まれた — tân ngữ [C] GIỮ を. Quy tắc 'を → が' chỉ áp dụng khi VẬT trở thành chủ ngữ (bị động trực tiếp), không áp dụng ở đây."
     },
     {
       "id": 15,
@@ -284,7 +284,7 @@
       "question_vn": "\"Nhân viên mới bị bắt dọn dẹp 1 tiếng mỗi sáng.\" Tình huống nào phù hợp với câu này?",
       "choices": {
         "A": "新入社員が自ら進んで掃除している",
-        "B": "新入社員が掃除するよう誰かに命じているられている（不本意）",
+        "B": "新入社員が掃除するよう誰かに命じられている（不本意）",
         "C": "新入社員が掃除することを許可されている",
         "D": "新入社員が掃除を誰かにさせている"
       },
@@ -424,9 +424,9 @@
         "C": "私は友人によってパソコンを壊された。",
         "D": "私は友人からパソコンが壊された。"
       },
-      "answer": "B",
-      "explanation_vn": "Câu chủ động: 友人が + 私の + パソコンを + 壊した → Bị động gián tiếp: 私は + 友人に + パソコンが + 壊された. Lý do を → が: Trong bị động gián tiếp, tân ngữ を của câu chủ động KHÔNG trở thành chủ ngữ mà trở thành が. Câu bị động có 2 đặc điểm: ①私 = người bị thiệt hại (chủ ngữ の主語), ②パソコンが = vật bị tác động (chủ thể の行為対象). (A) 「パソコンを壊された」= SAI — không dùng を trong bị động gián tiếp.",
-      "tip": "Chuyển sang bị động gián tiếp: [A]が[B]の[C]を[動詞]た → [B]は[A]に[C]が[受身動詞]. Để ý: を → が! Đây là điểm khó nhất của bị động gián tiếp."
+      "answer": "A",
+      "explanation_vn": "Câu chủ động: 友人が + 私の + パソコンを + 壊した → Bị động sở hữu chủ (持ち主の受身): 私は + 友人に + パソコンを + 壊された. Vì パソコン là vật SỞ HỮU của người bị hại (私), và 私 làm chủ ngữ, nên パソコン GIỮ NGUYÊN を. Đây là dạng bị động đặc trưng của tiếng Nhật: [người bị hại]は + [tác nhân]に + [vật sở hữu]を + [động từ bị động]. (B) 「パソコンが壊された」= SAI vì が chỉ dùng khi VẬT làm chủ ngữ (không có 私は). (C) によって ít tự nhiên với người quen. (D) から sai trợ từ tác nhân.",
+      "tip": "Bị động sở hữu chủ: [A]が[B]の[C]を壊した → [B]は[A]に[C]を壊された. Vật sở hữu GIỮ を vì người bị hại đã là chủ ngữ. を KHÔNG đổi thành が ở dạng này!"
     },
     {
       "id": 25,
@@ -646,7 +646,7 @@
         "D": "（エ）には内容を確認させられた"
       },
       "answer": "D",
-      "explanation_vn": "（エ）「田中さんには内容を確認させられた」= LỖI. Vấn đề: ①Nếu 田中さん bị ép xác nhận → phải là 「田中さんが内容を確認させられた」(田中 là chủ thể bị ép). ②には = trợ từ kép に + は → không tự nhiên ở đây. ③Hơn nữa, nếu 部長 đang sai khiến 田中さん → 「田中さんに内容を確認させた」(田中 = người bị sai). Câu nguyên gốc mơ hồ và có lỗi trợ từ は. (ア)(イ)(ウ) đều đúng: phát表された（被動）、任命された（被動）、を作成させ（使役 他動詞）.",
+      "explanation_vn": "（エ）「田中さんには内容を確認させられた」= LỖI về cấu trúc使役/使役受動. Mạch văn trước đó là 「部長は部下に〜作成させ」(部長 đang SAI KHIẾN), nên vế sau phải tiếp tục dạng sai khiến: 「田中さんに内容を確認させた」(部長 sai 田中 xác nhận). Nhưng câu lại dùng 「確認させられた」(sai khiến BỊ ĐỘNG = bị ép) với 「田中さんには」— làm chủ thể bị ép không rõ ràng và mâu thuẫn với chủ ngữ 部長 của câu. Nếu muốn nói 田中 bị ép thì phải đổi chủ ngữ: 「田中さんが内容を確認させられた」. (ア)(イ)(ウ) đều đúng: 発表された (bị động)、任命された (bị động)、を作成させ (使役 với 他動詞).",
       "tip": "Phân tích lỗi kép: ①Kiểm tra chủ thể câu là ai (が hoặc は). ②Kiểm tra tác nhân (に). ③Kiểm tra tân ngữ (を). ④Kiểm tra dạng động từ phù hợp với nghĩa câu."
     },
     {

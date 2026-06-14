@@ -442,31 +442,31 @@
       "level_name": "Trung bình",
       "category": "Chọn động từ đúng ngữ cảnh",
       "question_jp": "資料をご（　　）いただけますか？",
-      "question_vn": "Liệu quý vị có thể _______ tài liệu này không? (điền Kenjougo của 確認する)",
+      "question_vn": "Điền vào chỗ trống「資料をご（　）いただけますか？」để tạo câu yêu cầu lịch sự nhất (xác nhận):",
       "choices": [
         {
           "key": "A",
-          "jp": "確認（かくにん）",
-          "vn": "確認 (xác nhận — thông thường)"
+          "jp": "拝見（はいけん）",
+          "vn": "拝見 (sai — 拝見 là khiêm ngữ của MÌNH, không dùng để yêu cầu khách)"
         },
         {
           "key": "B",
           "jp": "確認になって",
-          "vn": "確認になって (sai cấu trúc)"
+          "vn": "確認になって (sai cấu trúc — không ghép với いただく)"
         },
         {
           "key": "C",
           "jp": "確認（かくにん）",
-          "vn": "ご確認 (xác nhận — lịch sự)"
+          "vn": "確認 → ご確認いただけますか (đúng — yêu cầu lịch sự)"
         },
         {
           "key": "D",
           "jp": "見て（みて）",
-          "vn": "見て (xem — thông thường)"
+          "vn": "見て (sai — dạng thông thường, không ghép ご〜いただく)"
         }
       ],
       "answer": "C",
-      "explanation": "Cấu trúc「ご〜いただけますか」dùng danh từ gốc Hán + いただく (Kenjougo của もらう) để yêu cầu đối phương làm gì đó một cách rất lịch sự. 「ご確認いただけますか」= Liệu quý vị có thể xác nhận giúp tôi không? Đây là mẫu câu cực kỳ phổ biến trong email kinh doanh.",
+      "explanation": "Cấu trúc「ご〜いただけますか」(ご + danh từ gốc Hán + いただく) là cách yêu cầu đối phương làm gì đó rất lịch sự — toàn cụm là khiêm nhường ngữ (người nói nhận ơn). 「ご確認いただけますか」= Liệu quý vị có thể xác nhận giúp tôi không? Đây là mẫu câu cực kỳ phổ biến trong email kinh doanh. (A) 拝見 là khiêm ngữ của 見る (hành động của mình) — không dùng để yêu cầu khách. (B)(D) sai cấu trúc.",
       "tip": "ご〜いただけますか = yêu cầu lịch sự nhất trong giao tiếp kinh doanh"
     },
     {
@@ -631,7 +631,7 @@
         }
       ],
       "answer": "B",
-      "explanation": "Khi chủ ngữ là khách hàng (người đã làm ơn cho mình): dùng 「〜てくださる」(Sonkeigo của くれる). Câu: 「ご確認くださり、ありがとうございます」. Nếu muốn dùng 「いただく」thì chủ ngữ phải là TÔI: 「ご確認いただき、ありがとうございます」(= được ngài xác nhận, xin cảm ơn). Cả hai đều đúng nhưng chủ ngữ khác nhau!",
+      "explanation": "Đề đã CHỈ ĐỊNH chủ ngữ là khách hàng (người đã xác nhận), nên phải dùng 「〜てくださる」(Sonkeigo của くれる, tôn vinh hành động của khách): 「ご確認くださり、ありがとうございます」→ B đúng. (A) 「いただき」cũng đúng ngữ pháp NHƯNG nhìn từ góc 'tôi được nhận' (chủ ngữ = tôi), không khớp với chủ ngữ 'khách hàng' mà đề chỉ định. (C) なさり = Sonkeigo của する nhưng không hợp với 「ご確認」+ ありがとう. (D) され kém tự nhiên ở đây.",
       "tip": "くださる: chủ ngữ = ĐỐI PHƯƠNG | いただく: chủ ngữ = MÌNH (được phép/được nhận)"
     },
     {
@@ -677,27 +677,27 @@
       "choices": [
         {
           "key": "A",
-          "jp": "言葉（ことば）",
-          "vn": "言葉 (lời nói — thông thường)"
+          "jp": "ご伝言（でんごん）",
+          "vn": "ご伝言 (sai — đề đã có お sẵn, ghép thành 'おご伝言' bị trùng tiền tố)"
         },
         {
           "key": "B",
           "jp": "話（はなし）",
-          "vn": "話 (câu chuyện)"
+          "vn": "お話 (câu chuyện — nghĩa không khớp 'lời nhắn')"
         },
         {
           "key": "C",
-          "jp": "伝言（でんごん）",
-          "vn": "伝言 (lời nhắn — thông thường)"
+          "jp": "声（こえ）",
+          "vn": "お声 (giọng nói — nghĩa không khớp)"
         },
         {
           "key": "D",
           "jp": "言葉（ことば）",
-          "vn": "お言葉 (lời — có tiền tố お lịch sự)"
+          "vn": "言葉 → お言葉 (lời — đúng nghĩa và đúng cấu trúc với お sẵn có)"
         }
       ],
       "answer": "D",
-      "explanation": "「お言葉（おことば）」= lời nói/lời nhắn (có tiền tố お để thêm lịch sự). Câu hoàn chỉnh: 「社長のお言葉をお伝えします」. Tuy nhiên, vì giám đốc là Uchi (người trong nhóm), khi nói với khách thì câu chuẩn hơn là: 「社長から申し伝えます」— dùng Kenjougo.",
+      "explanation": "Chỗ trống điền 「言葉」→ ghép với お sẵn có thành 「お言葉（おことば）」= lời (của giám đốc), có tiền tố お lịch sự. Câu hoàn chỉnh: 「社長のお言葉をお伝えします」. (A) ご伝言 sai vì đề đã có お → 'おご伝言' trùng tiền tố. (B) お話/(C) お声 không khớp nghĩa 'lời nhắn'. Lưu ý: vì giám đốc là Uchi, cách chuẩn hơn khi nói với khách là 「社長から申し伝えます」(Kenjougo).",
       "tip": "Truyền lời sếp đến khách → 申し伝えます là chuẩn nhất (mẫu điện thoại)"
     },
     {
@@ -941,27 +941,27 @@
       "choices": [
         {
           "key": "A",
-          "jp": "資料を確認させていただきました。",
-          "vn": "Tôi đã được phép xác nhận tài liệu ạ."
+          "jp": "お客様が確認させていただきます。",
+          "vn": "Khách hàng xin phép xác nhận. (sai — chủ ngữ là khách + させていただく phải là hành động của MÌNH)"
         },
         {
           "key": "B",
-          "jp": "お客様に確認させていただきます。",
-          "vn": "Tôi sẽ để khách hàng xác nhận."
+          "jp": "部下に確認させていただきます。",
+          "vn": "Tôi xin phép để cấp dưới xác nhận. (sai — させていただく không dùng cho việc sai cấp dưới)"
         },
         {
           "key": "C",
           "jp": "社長に確認させていただきます。",
-          "vn": "Tôi sẽ xin phép được hỏi giám đốc xác nhận."
+          "vn": "Tôi xin phép được xác nhận với giám đốc. (đúng)"
         },
         {
           "key": "D",
           "jp": "確認させていただいてください。",
-          "vn": "Hãy để tôi được xác nhận. (mệnh lệnh — sai)"
+          "vn": "Hãy để tôi được xác nhận. (sai — mệnh lệnh + させていただく)"
         }
       ],
       "answer": "C",
-      "explanation": "「〜させていただく」diễn đạt hành động mà bản thân được phép thực hiện nhờ sự cho phép/hỗ trợ của người khác. Câu C: 「社長に確認させていただきます」= Tôi xin phép được nhờ giám đốc xác nhận. Câu A cũng đúng về ngữ pháp. Câu B sai vì chủ ngữ phải là MÌNH, không phải khách hàng.",
+      "explanation": "「〜させていただく」diễn đạt hành động mà CHÍNH MÌNH được phép thực hiện nhờ sự cho phép của người khác. Câu C: 「社長に確認させていただきます」= Tôi xin phép được xác nhận với giám đốc (chủ thể = tôi) ✓. (A) sai vì chủ ngữ là お客様 (khách), nhưng させていただく phải là hành động của mình. (B) sai vì không dùng させていただく để sai khiến cấp dưới. (D) sai vì kết hợp mệnh lệnh ください với させていただく.",
       "tip": "させていただく = tôi xin phép được làm — luôn phải có sự đồng ý (ngầm) của ai đó"
     },
     {
@@ -1041,7 +1041,7 @@
         {
           "key": "A",
           "jp": "社長は今、参っております。",
-          "vn": "Giám đốc hiện đang ở đây. (Kenjougo cho người trong nhóm)"
+          "vn": "Giám đốc hiện đang ở đây. (SAI — 参る nghĩa là đi/đến, không dùng để chỉ sự hiện diện/ở)"
         },
         {
           "key": "B",
@@ -1258,7 +1258,7 @@
         }
       ],
       "answer": "B",
-      "explanation": "Câu B chuẩn nhất: 「お送りいたしました」= Kenjougo kép (お〜いたす) cho hành động gửi của mình + 「ご確認いただけましたでしょうか」= ご確認 (Sonkeigo) + いただく (Kenjougo) + でしょうか (hỏi lịch sự). Câu D dùng「お確認なさいました」là Sonkeigo nhưng kết hợp với ご送付 — nghe quá cứng nhắc và ít tự nhiên hơn B.",
+      "explanation": "Câu B chuẩn nhất: 「お送りいたしました」= khiêm nhường ngữ (お〜いたす) cho hành động gửi của mình + 「ご確認いただけましたでしょうか」= ご確認 + いただく + でしょうか (hỏi lịch sự). Câu C「ご覧いただけましたでしょうか」cũng đúng và tự nhiên, nhưng 「ご確認」(B) chính xác hơn trong ngữ cảnh 'gửi tài liệu rồi hỏi đã xem/xác nhận chưa' — ご覧 thiên về 'nhìn qua', còn ご確認 bao gồm cả 'kiểm tra/xác nhận'. Câu D「お確認なさいました」+ ご送付 nghe quá cứng nhắc, ít tự nhiên. Câu A thiếu kính ngữ đầy đủ.",
       "tip": "お〜いたしました (hành động của mình) + ご〜いただけましたでしょうか (hỏi hành động của đối phương) = combo email hoàn hảo"
     },
     {

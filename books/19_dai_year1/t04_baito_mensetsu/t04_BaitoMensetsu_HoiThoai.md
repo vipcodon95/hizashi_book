@@ -6,7 +6,7 @@
 
 ## Bối cảnh
 
-6/2024. Đại có giấy phép baito từ tháng 4 (xin ngay ở 入管 sân bay Kansai). Đã học 1 tháng vocab phỏng vấn ở lớp B. Cô Yamada khuyên thử convenience store. Đại nộp 5 đơn, được Lawson Namba (gần ga Namba, 15 phút từ Tennoji bằng Midosuji) gọi phỏng vấn. Quản lý là Suzuki tenchou, 50 tuổi, người Osaka chính gốc. Chương này tập trung các mẫu câu Đại dùng từ lúc xin lời khuyên cô giáo, viết CV, gọi xác nhận phỏng vấn, cho đến buổi phỏng vấn thực tế.
+6/2024. Đại có giấy phép baito từ tháng 4 (xin ngay ở 入管 sân bay Kansai). Đã học 1 tháng vocab phỏng vấn ở lớp B. Cô Yamada khuyên thử convenience store. Đại nộp 5 đơn, được Lawson Namba (gần ga Namba, khoảng 5 phút từ Tennoji bằng Midosuji) gọi phỏng vấn. Quản lý là Suzuki tenchou, 50 tuổi, người Osaka chính gốc. Chương này tập trung các mẫu câu Đại dùng từ lúc xin lời khuyên cô giáo, viết CV, gọi xác nhận phỏng vấn, cho đến buổi phỏng vấn thực tế.
 
 ---
 
@@ -41,7 +41,7 @@
 
 ## Tình huống 3 — Phòng riêng · 22:00, gọi điện hẹn phỏng vấn Lawson
 
-*Đại đã nộp 5 đơn online qua bite.jp. Lawson Namba gửi mail mời gọi xác nhận lịch.*
+*Đại đã nộp 5 đơn online qua バイトル (Baitoru). Lawson Namba gửi mail mời gọi xác nhận lịch.*
 
 | Vai | Lời thoại |
 |---|---|
@@ -104,7 +104,7 @@
 
 | Vai | Lời thoại |
 |---|---|
-| Suzuki | （<ruby>出<rt>で</rt></ruby>てくる）グエンさん、お<ruby>待<rt>ま</rt></ruby>たせしました。<ruby>店長<rt>てんちょう</rt></ruby>の<ruby>鈴木<rt>すずき</rt></ruby>です。<br>*(Bước ra. Anh Nguyễn, để anh chờ. Tôi là Suzuki, quản lý cửa hàng.)* |
+| Suzuki | （<ruby>出<rt>で</rt></ruby>てくる）グエンさん、お<ruby>待<rt>ま</rt></ruby>たせしました。<ruby>店長<rt>てんちょう</rt></ruby>の<ruby>鈴木<rt>すずき</rt></ruby>です。<br>*(Bước ra. Anh Nguyễn, cảm ơn đã chờ nhé. Tôi là Suzuki, quản lý cửa hàng.)* |
 | Đại | （<ruby>立<rt>た</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>がって<ruby>頭<rt>あたま</rt></ruby>を<ruby>下<rt>さ</rt></ruby>げる）はじめまして、グエン・ヴァン・ダイと<ruby>申<rt>もう</rt></ruby>します。<ruby>本日<rt>ほんじつ</rt></ruby>はよろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。<br>*(Đứng dậy cúi đầu. Rất hân hạnh, em là Nguyễn Văn Đại. Hôm nay mong anh giúp đỡ ạ.)* |
 | Suzuki | バックヤードでお<ruby>話<rt>はな</rt></ruby>ししましょう。どうぞ。<br>*(Mình nói chuyện ở phòng phía trong nhé. Mời.)* |
 | Đại | <ruby>失礼<rt>しつれい</rt></ruby>します。（<ruby>履歴書<rt>りれきしょ</rt></ruby>を<ruby>両手<rt>りょうて</rt></ruby>で<ruby>差<rt>さ</rt></ruby>し<ruby>出<rt>だ</rt></ruby>す）<ruby>履歴書<rt>りれきしょ</rt></ruby>でございます。<br>*(Em xin phép. Đưa CV bằng hai tay. Đây là sơ yếu lý lịch của em ạ.)* |
@@ -120,7 +120,7 @@
 |---|---|
 | Suzuki | グエンさん、<ruby>当店<rt>とうてん</rt></ruby>を<ruby>志望<rt>しぼう</rt></ruby>した<ruby>理由<rt>りゆう</rt></ruby>を<ruby>聞<rt>き</rt></ruby>かせてください。<br>*(Anh Nguyễn, cho tôi nghe lý do anh ứng tuyển ở cửa hàng này.)* |
 | Đại | はい！<ruby>3<rt>みっ</rt></ruby>つあります。<br>*(Vâng! Có 3 lý do ạ.)* |
-| Đại | ①<ruby>家<rt>いえ</rt></ruby>が<ruby>天王寺<rt>てんのうじ</rt></ruby>にあり、<ruby>御堂筋線<rt>みどうすじせん</rt></ruby>で<ruby>10分<rt>じゅっぷん</rt></ruby>なので<ruby>通<rt>かよ</rt></ruby>いやすいです。<br>*(① Nhà em ở Tennoji, đi Midosuji 10 phút nên tiện đường.)* |
+| Đại | ①<ruby>家<rt>いえ</rt></ruby>が<ruby>天王寺<rt>てんのうじ</rt></ruby>にあり、<ruby>御堂筋線<rt>みどうすじせん</rt></ruby>で<ruby>5分<rt>ごふん</rt></ruby>なので<ruby>通<rt>かよ</rt></ruby>いやすいです。<br>*(① Nhà em ở Tennoji, đi Midosuji 5 phút nên tiện đường.)* |
 | Đại | ②<ruby>日本文化<rt>にほんぶんか</rt></ruby>に<ruby>触<rt>ふ</rt></ruby>れたいことと、<ruby>敬語<rt>けいご</rt></ruby>を<ruby>実践<rt>じっせん</rt></ruby>で<ruby>練習<rt>れんしゅう</rt></ruby>したいです。<br>*(② Em muốn tiếp xúc văn hoá Nhật và luyện kính ngữ trong thực tế.)* |
 | Đại | ③<ruby>将来<rt>しょうらい</rt></ruby>は<ruby>大阪大学<rt>おおさかだいがく</rt></ruby>に<ruby>進学<rt>しんがく</rt></ruby>したいので、<ruby>大阪<rt>おおさか</rt></ruby>での<ruby>仕事<rt>しごと</rt></ruby><ruby>経験<rt>けいけん</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にしたいです。<br>*(③ Em muốn thi vào ĐH Osaka, nên muốn trân trọng kinh nghiệm làm việc tại Osaka.)* |
 | Suzuki | おお、<ruby>3<rt>みっ</rt></ruby>つの<ruby>理由<rt>りゆう</rt></ruby>がはっきりしてるな。<ruby>勉強<rt>べんきょう</rt></ruby>してきたんやね。<br>*(Ồ, 3 lý do rõ ràng nhỉ. Anh đã chuẩn bị kỹ.)* |
@@ -136,7 +136,7 @@
 | Đại | <ruby>授業<rt>じゅぎょう</rt></ruby>が<ruby>9時<rt>くじ</rt></ruby>〜<ruby>13時<rt>じゅうさんじ</rt></ruby>です。<ruby>夕方<rt>ゆうがた</rt></ruby><ruby>18時<rt>じゅうはちじ</rt></ruby>〜<ruby>22時<rt>にじゅうにじ</rt></ruby>のシフトを<ruby>週<rt>しゅう</rt></ruby><ruby>4日<rt>よっか</rt></ruby><ruby>希望<rt>きぼう</rt></ruby>します。<br>*(Em học 9 – 13 giờ. Em mong làm ca tối 18 – 22 giờ, 4 ngày/tuần.)* |
 | Suzuki | <ruby>合計<rt>ごうけい</rt></ruby><ruby>16時間<rt>じゅうろくじかん</rt></ruby>か。<ruby>留学生<rt>りゅうがくせい</rt></ruby>の<ruby>限度<rt>げんど</rt></ruby><ruby>週<rt>しゅう</rt></ruby><ruby>28時間以内<rt>にじゅうはちじかんいない</rt></ruby>やからOKやな。<br>*(Tổng 16 tiếng à. Trong giới hạn 28 tiếng/tuần của du học sinh nên OK.)* |
 | Suzuki | <ruby>夜<rt>よる</rt></ruby>のシフトでも<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>か？<ruby>帰<rt>かえ</rt></ruby>り<ruby>道<rt>みち</rt></ruby>は<ruby>暗<rt>くら</rt></ruby>いで。<br>*(Ca tối có ổn không? Đường về tối đó.)* |
-| Đại | はい、<ruby>家<rt>いえ</rt></ruby>が<ruby>天王寺<rt>てんのうじ</rt></ruby>で<ruby>御堂筋線<rt>みどうすじせん</rt></ruby>で<ruby>10分<rt>じゅっぷん</rt></ruby>なので<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。ホームステイ<ruby>先<rt>さき</rt></ruby>のご<ruby>夫婦<rt>ふうふ</rt></ruby>も<ruby>了承<rt>りょうしょう</rt></ruby>してくださっています。<br>*(Vâng, nhà em ở Tennoji đi Midosuji 10 phút nên không sao. Cô chú homestay cũng đồng ý rồi.)* |
+| Đại | はい、<ruby>家<rt>いえ</rt></ruby>が<ruby>天王寺<rt>てんのうじ</rt></ruby>で<ruby>御堂筋線<rt>みどうすじせん</rt></ruby>で<ruby>5分<rt>ごふん</rt></ruby>なので<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。ホームステイ<ruby>先<rt>さき</rt></ruby>のご<ruby>夫婦<rt>ふうふ</rt></ruby>も<ruby>了承<rt>りょうしょう</rt></ruby>してくださっています。<br>*(Vâng, nhà em ở Tennoji đi Midosuji 10 phút nên không sao. Cô chú homestay cũng đồng ý rồi.)* |
 | Suzuki | <ruby>時給<rt>じきゅう</rt></ruby>は<ruby>1100円<rt>せんひゃくえん</rt></ruby>です。<ruby>22時<rt>にじゅうにじ</rt></ruby><ruby>以降<rt>いこう</rt></ruby>は<ruby>深夜<rt>しんや</rt></ruby><ruby>手当<rt>てあて</rt></ruby><ruby>25<rt>にじゅうご</rt></ruby>パーセント<ruby>増<rt>ぞう</rt></ruby>で<ruby>1375円<rt>せんさんびゃくななじゅうごえん</rt></ruby>になります。<br>*(Lương 1100 yên/giờ. Sau 22 giờ tính phụ cấp đêm tăng 25%, thành 1375 yên.)* |
 | Đại | <ruby>承知<rt>しょうち</rt></ruby>しました。<ruby>給料<rt>きゅうりょう</rt></ruby>の<ruby>支払<rt>しはら</rt></ruby>いはいつでしょうか？<br>*(Em rõ ạ. Lương trả vào lúc nào ạ?)* |
 | Suzuki | <ruby>毎月<rt>まいつき</rt></ruby><ruby>15日<rt>じゅうごにち</rt></ruby>に<ruby>前月分<rt>ぜんげつぶん</rt></ruby>を<ruby>銀行<rt>ぎんこう</rt></ruby><ruby>振<rt>ふ</rt></ruby>り<ruby>込<rt>こ</rt></ruby>みやで。<br>*(Mỗi tháng ngày 15 chuyển khoản phần lương tháng trước.)* |

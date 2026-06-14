@@ -20,10 +20,14 @@ Buổi họp đầu tiên của em Linh với 大垣営業部長. Lần đầu L
 
 | Vai | Câu |
 |---------|-----|
-| **大垣** | 「白鷗株式会社、営業部長の大垣でございます。」 |
+| **大垣** | 「<ruby>白鷗<rt>はくおう</rt></ruby><ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby>、<ruby>営業<rt>えいぎょう</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>大垣<rt>おおがき</rt></ruby>でございます。」 |
+|  | *Tôi là Ōgaki, Trưởng phòng Kinh doanh bên Cty Hakuō.* |
 | **リン** | 「リンです、よろしくお願いします！」 |
-| **リン** | *(チラッと見て、財布のポケットに収納)* |
-| **大垣** | *(まだ研修されていないようだ)* |
+|  | *Em là Linh, mong được anh giúp đỡ ạ!* |
+| **リン** | *(チラッと見て、<ruby>財布<rt>さいふ</rt></ruby>のポケットに<ruby>収納<rt>しゅうのう</rt></ruby>)* |
+|  | *(Liếc nhìn qua rồi cất luôn vào túi ví)* |
+| **大垣** | 「（<ruby>笑顔<rt>えがお</rt></ruby>は<ruby>保<rt>たも</rt></ruby>つが）リンさん、<ruby>頑張<rt>がんば</rt></ruby>ってください。」 |
+|  | *(Vẫn giữ nụ cười) Linh nhé, em cố gắng.* |
 
 **Vì sao xấu:** (1) 1 tay = bất kính, (2) tự xưng "リンです" cộc lốc, (3) bỏ vào ví ngay = "không tôn trọng card này". Khách Nhật cấp cao nhìn thấy = chấm âm mạnh ấn tượng đầu.
 
@@ -35,10 +39,14 @@ Buổi họp đầu tiên của em Linh với 大垣営業部長. Lần đầu L
 
 | Vai | Câu |
 |---------|-----|
-| **大垣** | 「白鷗株式会社、営業部長の大垣でございます。」 |
-| **リン** | 「頂戴いたします。大垣様、ティエンファット社、マーケティング部のリンでございます【1】。」 |
-| **リン** | 「よろしくお願いいたします【2】。」 |
-| **リン** | *(席順どおり配置完了【3】)* |
+| **大垣** | 「<ruby>白鷗<rt>はくおう</rt></ruby><ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby>、<ruby>営業<rt>えいぎょう</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>大垣<rt>おおがき</rt></ruby>でございます。」 |
+|  | *Tôi là Ōgaki, Trưởng phòng Kinh doanh bên Cty Hakuō.* |
+| **リン** | 「<ruby>頂戴<rt>ちょうだい</rt></ruby>いたします。<ruby>大垣<rt>おおがき</rt></ruby><ruby>様<rt>さま</rt></ruby>、ティエンファット<ruby>社<rt>しゃ</rt></ruby>、マーケティング<ruby>部<rt>ぶ</rt></ruby>のリンでございます【1】。」 |
+|  | *Em xin phép nhận ạ. Anh Ōgaki, em là Linh — phòng Marketing bên Thiên Phát ạ.* |
+| **リン** | 「よろしくお<ruby>願<rt>ねが</rt></ruby>いいたします【2】。」 |
+|  | *Em rất mong được anh giúp đỡ ạ.* |
+| **リン** | *(<ruby>席順<rt>せきじゅん</rt></ruby>どおり<ruby>配置<rt>はいち</rt></ruby><ruby>完了<rt>かんりょう</rt></ruby>【3】)* |
+|  | *(Đã xếp xong danh thiếp theo đúng thứ tự chỗ ngồi)* |
 
 📝 **Ghi chú:**
 - 【1】**「頂戴いたします」** (ちょうだいいたします) — câu chuẩn lúc nhận. Khiêm nhường hơn 「いただきます」. Sau câu này phải đọc tên người 1 lần để xác nhận.
@@ -49,7 +57,7 @@ Buổi họp đầu tiên của em Linh với 大垣営業部長. Lần đầu L
 
 ## 🎯 Câu chốt
 
-> **「両手・氏名復唱・席順配置 — 名刺交換の3不変則。」**
+> **「<ruby>両手<rt>りょうて</rt></ruby>・<ruby>氏名<rt>しめい</rt></ruby><ruby>復唱<rt>ふくしょう</rt></ruby>・<ruby>席順<rt>せきじゅん</rt></ruby><ruby>配置<rt>はいち</rt></ruby> — <ruby>名刺<rt>めいし</rt></ruby><ruby>交換<rt>こうかん</rt></ruby>の3<ruby>不変則<rt>ふへんそく</rt></ruby>。」**
 >
 > *Hai tay, đọc lại tên, đặt theo vị trí ngồi — 3 quy tắc không đổi.*
 

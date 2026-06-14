@@ -6,7 +6,7 @@
 
 ## Bối cảnh
 
-Sáng 4/4/2026, Đại lên tàu Hankyu từ Tennoji đến ga 石橋阪大前 dự lễ nhập học cùng 3000 tân sinh viên ĐH Osaka cơ sở 豊中 (Toyonaka). Khoa 情報科学科 (Khoa học Thông tin) có 101 SV — chỉ 3 du học sinh: Đại (VN), Lin Wei (TQ), Rajesh (Ấn). Đại quen Yamato Tanaka (người Nhật mê AtCoder) và Aiko Sato (Nhật, mê UI/UX). Chương này tập trung các mẫu câu **hỏi đường, chào hỏi tân sinh viên, xác nhận thông tin tại quầy lễ tân và rủ/nhận lời tham gia hoạt động**.
+Sáng 4/4/2026, Đại đi Osaka Metro Midosuji từ Tennoji lên Umeda, rồi chuyển tàu Hankyu Takarazuka đến ga 石橋阪大前 dự lễ nhập học cùng 3000 tân sinh viên ĐH Osaka cơ sở 豊中 (Toyonaka). Khoa 情報科学科 (Khoa học Thông tin) có 101 SV — chỉ 3 du học sinh: Đại (VN), Lin Wei (TQ), Rajesh (Ấn). Đại quen Yamato Tanaka (người Nhật mê AtCoder) và Aiko Sato (Nhật, mê UI/UX). Chương này tập trung các mẫu câu **hỏi đường, chào hỏi tân sinh viên, xác nhận thông tin tại quầy lễ tân và rủ/nhận lời tham gia hoạt động**.
 
 ---
 
@@ -205,7 +205,7 @@ Sáng 4/4/2026, Đại lên tàu Hankyu từ Tennoji đến ga 石橋阪大前 d
 
 ## Tình huống 14 — Video call về Hà Nội · 22:00, kể Mai chuyện trong ngày
 
-> Cảnh tiếng Việt — Đại gọi video cho Mai (vợ chưa cưới ở Hà Nội). Ôn lại từ vựng JP trong ngày qua đối thoại tiếng Việt.
+> Cảnh tiếng Việt — Đại gọi video cho Mai (bạn gái ở Hà Nội). Ôn lại từ vựng JP trong ngày qua đối thoại tiếng Việt.
 
 | Vai | Lời thoại |
 |---|---|

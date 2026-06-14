@@ -9,7 +9,11 @@
     "ja": "Phase 2交渉中、大垣営業部長が突然「15%値引きで本日契約締結」を要求。ズンには即決権限がなく、「持ち帰って検討」を申し出る場面。",
     "vi": "Đang đàm phán phase 2, anh Ōgaki đột ngột yêu cầu giảm 15% và ký ngay hôm nay. Em Dũng không có quyền quyết, phải xin 'mang về xem xét'."
   },
-  "related_rules": ["rule_22", "rule_29", "rule_32"],
+  "related_rules": [
+    "rule_22",
+    "rule_29",
+    "rule_32"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -89,7 +93,9 @@
           "sentence": "ご提案いただきありがとうございます。15%という大きなご要望でございますので、一度持ち帰って社内で検討させていただけませんでしょうか？",
           "sentence_translation": "Em cảm ơn anh đã đề xuất ạ. 15% là yêu cầu khá lớn, em xin phép mang về xem xét nội bộ trước được không ạ?",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_25_good_03",
@@ -99,7 +105,9 @@
           "sentence": "明日中に上長と協議し、明後日午前中までにご回答申し上げます。",
           "sentence_translation": "Em sẽ trao đổi với cấp trên trong ngày mai, và xin trả lời anh trước trưa ngày kia ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"],
+          "annotation_ids": [
+            "2"
+          ],
           "continues_previous": true
         },
         {
@@ -139,12 +147,12 @@
       "skill": "場面把握",
       "question_ja": "顧客から自分の権限を超える値引き要求があった。最善の対応はどれか？",
       "options": [
-        "とりあえず「OKです」と返事しておく",
         "「無理です」と即時拒否する",
-        "「持ち帰って検討させてください。〇日までに回答します」と期限つきで保留する",
-        "黙って答えない"
+        "とりあえず「OKです」と返事しておく",
+        "黙って答えない",
+        "「持ち帰って検討させてください。〇日までに回答します」と期限つきで保留する"
       ],
-      "correct": "C",
+      "correct": "D",
       "explanation": {
         "ja": "持ち帰り＋期限明示が日本ビジネスの標準。即決はリスク、即時拒否は交渉打ち切り、無回答は失礼。",
         "vi": "Mang về + có deadline = chuẩn JP business. Quyết bừa = rủi ro. Từ chối thẳng = chặn đàm. Im lặng = thất lễ."

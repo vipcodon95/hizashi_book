@@ -9,7 +9,9 @@
     "ja": "Linh インターン interpret デビュー。Pre-brief 30 分 + 1 文 20 字 + 2 秒 pause + 数値区切り発音で精度を担保する場面。",
     "vi": "Linh intern lần đầu interpret. Pre-brief 30 phút + câu 20 chữ + pause 2 giây + đọc tách số = đảm bảo độ chính xác."
   },
-  "related_rules": ["rule_30"],
+  "related_rules": [
+    "rule_30"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -98,7 +100,10 @@
           "sentence_translation": "Linh, mình review 7 key terms hôm nay: indemnity = bồi thường thiệt hại, BATNA = phương án thay thế, ZOPA = vùng thỏa thuận, SLA = thỏa thuận mức dịch vụ. 99.95% đọc tách 'chín-chín chín-năm phần trăm' để khỏi nhầm với 99.5%.",
           "tone": "warm",
           "speed_multiplier": 0.95,
-          "annotation_ids": ["1", "2"]
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
         },
         {
           "line_id": "rule_42_good_02",
@@ -176,7 +181,9 @@
           "tone": "formal",
           "speed_multiplier": 0.85,
           "pause_after_ms": 2000,
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_42_good_10",
@@ -225,12 +232,12 @@
       "skill": "場面把握",
       "question_ja": "通訳介在交渉で「99.95%」を伝える時の最も安全な方法は？",
       "options": [
+        "通訳に任せる",
         "通常 pace で「99.95%」と一気に言う",
         "「きゅうきゅう・きゅうご パーセント、つまり 99.95%」と区切り発音 + 数字 confirm",
-        "通訳に任せる",
         "メモに書いて見せるだけ"
       ],
-      "correct": "B",
+      "correct": "C",
       "explanation": {
         "ja": "数値は通訳の最大ミス source。区切り発音 + 数字 confirm で 99.5/99.95 の混同を防ぐ。",
         "vi": "Số là nguồn lỗi lớn nhất của phiên dịch. Đọc tách + đọc lại số để tránh nhầm 99.5/99.95."

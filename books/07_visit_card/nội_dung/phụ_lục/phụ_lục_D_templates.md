@@ -30,7 +30,7 @@
 
 末筆ながら、皆様のますますのご健勝をお祈り申し上げます。
 
-──
+--
 ティエンファット 営業部
 ズン (Tran Van Dung)
 TEL: 〇〇
@@ -58,7 +58,7 @@ Lần sau bên em xin được sang Tokyo, khoảng tháng 5 em xin liên hệ t
 
 Cuối thư, em xin chúc anh và quý vị luôn mạnh khỏe.
 
-──
+--
 Thiên Phát — Phòng Kinh doanh
 Dũng (Trần Văn Dũng)
 TEL: 〇〇
@@ -123,12 +123,12 @@ E-mail: 〇〇
 □ ③ Số lượng
    - Cần thiết: số người × 2 lần
      Tính: ___ người × 2 = ___ tờ
-   - Buffer: + ___ tờ (phòng surprise + interpreter)
+   - Dự phòng: + ___ tờ (phòng surprise + interpreter)
    - Tổng: ___ tờ
 
 □ ④ Check typo
    - Tự check
-   - Senior (Tech Lead / Phó phòng) kiểm tra hai lượt
+   - Cấp trên (Tech Lead / Phó phòng) kiểm tra hai lượt
    - Ngày giờ + người check: ___
 
 □ Check sáng ngày G (trước khi xuất phát)
@@ -183,9 +183,9 @@ E-mail: 〇〇
    - Liên hệ (mail / TEL / SNS sau danh thiếp)
    - Ngày gặp / Tên event
 
-[ ] STEP 2: Memo context (1 dòng/người)
+[ ] STEP 2: Ghi chú ngữ cảnh (1 dòng/người)
    Format:
-   '[Topic] / quote đặc trưng '〇〇' / Next action [〇〇 by 〇/〇]'
+   '[Chủ đề] / câu nói đặc trưng '〇〇' / Việc tiếp theo [〇〇 by 〇/〇]'
    Ví dụ:
    Nakamura CFO → 'Lo trần budget Phase 4 15tr yên / 'Sẽ xem lại sau quyết toán Q3' / Gửi RFP Phase 4 by 15/7'
 
@@ -194,17 +194,17 @@ E-mail: 〇〇
    - Folder chung Google Drive /danh_thiep/[năm-tháng]/
    - Tên file: [yyyymmdd]_[họ tên]_[cty].jpg
 
-[ ] STEP 4: Share team
+[ ] STEP 4: Chia sẻ nội bộ
    - PM / Lead / Phó phòng liên quan qua Slack
-   - Tránh contact trùng
+   - Tránh liên hệ trùng lặp
 
-[ ] STEP 5: Gửi follow-up
+[ ] STEP 5: Gửi thư tiếp theo
    - Mail cảm ơn trong 24h
-   - Quote 1 điểm từ memo context (ấn tượng)
-   - Next action rõ ràng
+   - Trích 1 điểm từ ghi chú ngữ cảnh (gây ấn tượng)
+   - Việc tiếp theo rõ ràng
 ```
 
-📝 **Ghi chú VN:** Bắt buộc 24h. Sau 3 ngày mất 70% context, chỉ viết được follow-up generic.
+📝 **Ghi chú VN:** Bắt buộc 24h. Sau 3 ngày mất 70% ngữ cảnh, chỉ viết được thư tiếp theo sáo rỗng.
 📝 **Ghi chú JP:** 24時間ルール厳守。3日経過で文脈70%消失、汎用フォローアップしか書けなくなる。
 
 ### Rule 16 — Checklist Trước Onsite 24h
@@ -255,7 +255,7 @@ E-mail: 〇〇
 [Checklist trước onsite 24h — hoàn tất trước D-1 18:00]
 
 [ ] (1) Mail confirm (trước 24h)
-   - To: 担当者 / CC: senior
+   - To: 担当者 / CC: cấp trên
    - Nội dung: ngày giờ + số người + tên + giờ dự kiến đến (5-10p trước)
    - Yêu cầu lễ tân support
    Giờ nhận reply: ___
@@ -271,7 +271,7 @@ E-mail: 〇〇
    - Xuất phát: ___
    - Route: ___
    - Thời gian chuẩn: ___ phút
-   - +Buffer 30p
+   - +Dự phòng 30p
    - Mục tiêu đến: trước 5-10 phút
 
 [ ] (4) Đồ mang
@@ -284,7 +284,7 @@ E-mail: 〇〇
 
 [ ] (5) Omiyage
    - Brand: ___
-   - Số lượng: số 担当者 + 2 buffer
+   - Số lượng: số 担当者 + 2 dự phòng
    - Xuất xứ VN / đóng gói riêng / hạn dài
    - Túi giấy (logo nhẹ)
 ```
@@ -346,7 +346,7 @@ E-mail: 〇〇
 [ ] Size: mang lên máy bay / về nước OK
 [ ] Giá: tương đương 1,500-3,000 yên/người (đắt quá NG)
 [ ] Brand: ___
-[ ] Số lượng: số 担当者 + buffer 2 = ___ phần
+[ ] Số lượng: số 担当者 + dự phòng 2 = ___ phần
 
 [B] Đóng gói
 [ ] Có gói riêng + bao ngoài (giấy washi / giấy nền tối)
@@ -364,7 +364,7 @@ E-mail: 〇〇
 [ ] (3) Đưa 2 tay
 [ ] (4) Câu cố định: 'tsumaranai mono desu ga' / 'sasayaka de wa gozaimasu ga'
 [ ] (5) Giải thích chỉ 'xuất xứ + cách dùng' (giá NG)
-[ ] (6) Trao theo thứ tự senior (CFO → trưởng → PM → 担当者)
+[ ] (6) Trao theo thứ tự cấp bậc (CFO → trưởng → PM → 担当者)
 
 [E] Danh sách NG
 [ ] x Đưa cả túi giấy
@@ -374,10 +374,10 @@ E-mail: 〇〇
 [ ] x Túi giấy logo cty mình to chiếm hết
 ```
 
-📝 **Ghi chú VN:** 3 điều tối kỵ: khoe giá, giục mở, đặt bừa. 'Tsumaranai mono desu ga' + 2 tay + thứ tự senior = công thức vàng.
+📝 **Ghi chú VN:** 3 điều tối kỵ: khoe giá, giục mở, đặt bừa. 'Tsumaranai mono desu ga' + 2 tay + thứ tự cấp bậc = công thức vàng.
 📝 **Ghi chú JP:** 値段アピール・開封促進・一括置きの3つが日本式omiyage最大NG。『つまらないものですが』 + 両手 + 上位者順 が黄金パターン。
 
-### Rule 34 — Checklist Survival Kit Lần Đầu Onsite Tokyo
+### Rule 34 — Checklist Bộ Đồ Thiết Yếu Lần Đầu Onsite Tokyo
 
 *JP: 東京初訪問 Survival Kit チェックリスト*
 
@@ -434,7 +434,7 @@ E-mail: 〇〇
 **Bản Việt placeholder:**
 
 ```
-[Checklist Survival Kit Onsite Tokyo Lần Đầu — xong trước D-2]
+[Checklist Bộ Đồ Thiết Yếu Onsite Tokyo Lần Đầu — xong trước D-2]
 
 [1] Tiền mặt + thẻ
 [ ] Yên Nhật 5 man (đổi trước khi rời VN)
@@ -462,7 +462,7 @@ E-mail: 〇〇
 [4] Omiyage
 [ ] 6 phần brand VN cao cấp (đóng gói riêng)
 [ ] 6 túi giấy (logo nhẹ)
-[ ] Phân bổ: CFO 1 / trưởng 1 / PM 1 / PMO 1 / buffer 2
+[ ] Phân bổ: CFO 1 / trưởng 1 / PM 1 / PMO 1 / dự phòng 2
 
 [5] Thời tiết + sức khỏe
 [ ] Ô gấp
@@ -486,7 +486,7 @@ E-mail: 〇〇
 📝 **Ghi chú VN:** Phân biệt rõ thứ làm trước khi rời VN và thứ mua tại sân bay Nhật. Omiyage / cash / mạng = bắt buộc xong tại VN.
 📝 **Ghi chú JP:** 出発前(VN)に終わらせるもの・現地空港で揃えるものを混同しない。お土産・現金・通信は必ずVN出発前。
 
-### Rule 35 — Template Self-Review 5 Mục Kiểu Hizashi
+### Rule 35 — Template Tự Đánh Giá 5 Mục Kiểu Hizashi
 
 *JP: Hizashi 式 5項目振り返りテンプレート*
 
@@ -535,7 +535,7 @@ E-mail: 〇〇
 **Bản Việt placeholder:**
 
 ```
-[Template Self-Review Hizashi — 5 mục]
+[Template Tự Đánh Giá Hizashi — 5 mục]
 Sự kiện: ___
 Ngày: ___
 Người tham gia: ___
@@ -568,12 +568,12 @@ Người điền: ___
 [ ] Gửi thank-you message cho người liên quan
 
 [Deadline]
-- Họp self-review: trong 1 ngày làm việc sau event
+- Họp tự đánh giá: trong 1 ngày làm việc sau event
 - Viết thành văn: trong 3 ngày làm việc
 - Action cải thiện: theo deadline từng action
 
 [Checkpoint lần sau]
-Trước event cùng loại lần sau, đọc lại self-review này, kiểm tra vấn đề + action đã giải quyết chưa.
+Trước event cùng loại lần sau, đọc lại bài tự đánh giá này, kiểm tra vấn đề + action đã giải quyết chưa.
 ```
 
 📝 **Ghi chú VN:** 5 mục bắt buộc làm sau mỗi onsite / tiếp khách / họp quan trọng. 'Cải thiện' không có chủ + deadline = không bao giờ làm. Lưu Notion + CRM để team tích lũy kinh nghiệm.

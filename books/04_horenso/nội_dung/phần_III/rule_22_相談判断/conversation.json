@@ -9,7 +9,11 @@
     "ja": "ズンが2件の判断（FEローカル変数名／本番DBスキーマ）を抱える場面。影響範囲×可逆性の2軸 decision tree で『相談』と『自己決定+事後報告』に切り分ける。",
     "vi": "Em Dũng có 2 quyết định cùng lúc (đổi tên biến FE local / đổi schema DB production). Áp decision tree 2 trục impact × reversibility để phân loại 'tham vấn' vs 'tự quyết + báo cáo sau'."
   },
-  "related_rules": ["rule_23", "rule_25", "rule_30"],
+  "related_rules": [
+    "rule_23",
+    "rule_25",
+    "rule_30"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -100,7 +104,9 @@
           "sentence": "フオン副部長、判断軸に従って2件を整理しました。1件は事後報告、1件はご相談です。",
           "sentence_translation": "Chị Hương, em đã phân loại 2 việc theo trục đánh giá. 1 cái em báo cáo sau, 1 cái em xin tham vấn ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_22_good_02",
@@ -119,7 +125,9 @@
           "sentence": "事後報告: FEローカルブランチで `userId` を `user_id` にリネームしました。影響範囲ローカル + 未マージで可逆性も高いため自己決定としました。",
           "sentence_translation": "[Báo cáo sau] Em đã đổi `userId` thành `user_id` trên branch FE local. Phạm vi ảnh hưởng chỉ local + chưa merge nên rollback dễ, em đã tự quyết ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_22_good_04",
@@ -129,7 +137,9 @@
           "sentence": "ご相談: DB の `user_id` カラムを `member_id` にリネームする提案がチームから出ております。本番5万レコード + 7サービスが参照しており、影響大 + 不可逆性高いため、独断は避けたく存じます。",
           "sentence_translation": "[Tham vấn] Team đang đề xuất đổi cột `user_id` thành `member_id` trên DB. Production có 50k record + 7 service tham chiếu, ảnh hưởng lớn + khó rollback nên em không dám tự quyết ạ.",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_22_good_05",
@@ -168,12 +178,12 @@
       "skill": "場面把握",
       "question_ja": "次の判断のうち、必ず上司に相談すべきものは?",
       "options": [
-        "ローカルブランチで未マージの変数名リネーム",
-        "個人のSlackステータスを更新",
         "本番DB の主キーカラム名変更（5万レコード影響）",
+        "個人のSlackステータスを更新",
+        "ローカルブランチで未マージの変数名リネーム",
         "自分のテストデータをリセット"
       ],
-      "correct": "C",
+      "correct": "A",
       "explanation": {
         "ja": "影響範囲（本番5万レコード）×不可逆性（DBスキーマは戻しにくい）両方『大』なので必ず相談。他は影響小×可逆性高で自己決定領域。",
         "vi": "Impact (50k record production) × Reversibility (schema khó rollback) đều 'lớn' nên bắt buộc tham vấn. Các option khác impact nhỏ × rollback dễ, thuộc vùng tự quyết."

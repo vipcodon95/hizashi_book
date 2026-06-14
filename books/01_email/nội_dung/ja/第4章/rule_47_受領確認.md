@@ -1,43 +1,43 @@
-# Rule 47 — 重要メールは受領確認を依頼する — 「既読」ではなく
+# Rule 47 — <ruby>重要<rt>じゅうよう</rt></ruby>メールは<ruby>受領<rt>じゅりょう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>を<ruby>依頼<rt>いらい</rt></ruby>する — 「<ruby>既読<rt>きどく</rt></ruby>」ではなく
 
-> **要点.** 重要な情報（契約書、変更通知、決定事項）を含むメールでは、**相手が受領した**ことを把握する必要がある。「受信箱にある」ではなく「読んで理解した」こと。最も確実な方法：**メール内で明示的に受領確認を依頼する**。
+> **<ruby>要点<rt>ようてん</rt></ruby>.** <ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>情報<rt>じょうほう</rt></ruby>（<ruby>契約書<rt>けいやくしょ</rt></ruby>、<ruby>変更<rt>へんこう</rt></ruby><ruby>通知<rt>つうち</rt></ruby>、<ruby>決定<rt>けってい</rt></ruby><ruby>事項<rt>じこう</rt></ruby>）を<ruby>含<rt>ふく</rt></ruby>むメールでは、**<ruby>相手<rt>あいて</rt></ruby>が<ruby>受領<rt>じゅりょう</rt></ruby>した**ことを<ruby>把握<rt>はあく</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>がある。「<ruby>受信箱<rt>じゅしんばこ</rt></ruby>にある」ではなく「<ruby>読<rt>よ</rt></ruby>んで<ruby>理解<rt>りかい</rt></ruby>した」こと。<ruby>最<rt>もっと</rt></ruby>も<ruby>確実<rt>かくじつ</rt></ruby>な<ruby>方法<rt>ほうほう</rt></ruby>：**メール<ruby>内<rt>ない</rt></ruby>で<ruby>明示的<rt>めいじてき</rt></ruby>に<ruby>受領<rt>じゅりょう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>を<ruby>依頼<rt>いらい</rt></ruby>する**。
 >
-> キーワード：**「受領確認」**。
+> キーワード：**「<ruby>受領<rt>じゅりょう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>」**。
 >
-> **関連：** Rule 04（24時間ゴールデンウィンドウ）、Rule 19（電話の3兆候）。
+> **<ruby>関連<rt>かんれん</rt></ruby>：** Rule 04（24<ruby>時間<rt>じかん</rt></ruby>ゴールデンウィンドウ）、Rule 19（<ruby>電話<rt>でんわ</rt></ruby>の3<ruby>兆候<rt>ちょうこう</rt></ruby>）。
 
-## 悪い例 — 確認依頼なし
+## <ruby>悪<rt>わる</rt></ruby>い<ruby>例<rt>れい</rt></ruby> — <ruby>確認<rt>かくにん</rt></ruby><ruby>依頼<rt>いらい</rt></ruby>なし
 
-> 「フオン副部長、修正版契約書付属書を送付いたします（添付）。ご署名の上、ご返送ください。」
+> 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、<ruby>修正版<rt>しゅうせいばん</rt></ruby><ruby>契約書<rt>けいやくしょ</rt></ruby><ruby>付属書<rt>ふぞくしょ</rt></ruby>を<ruby>送付<rt>そうふ</rt></ruby>いたします（<ruby>添付<rt>てんぷ</rt></ruby>）。ご<ruby>署名<rt>しょめい</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>、ご<ruby>返送<rt>へんそう</rt></ruby>ください。」
 
-3日後：フオンは返信なし。ズンは不明：まだ見ていない？ 見たが忘れた？ 処理中？ 同意しない？
+3<ruby>日<rt>か</rt></ruby><ruby>後<rt>ご</rt></ruby>：フオンは<ruby>返信<rt>へんしん</rt></ruby>なし。ズンは<ruby>不明<rt>ふめい</rt></ruby>：まだ<ruby>見<rt>み</rt></ruby>ていない？ <ruby>見<rt>み</rt></ruby>たが<ruby>忘<rt>わす</rt></ruby>れた？ <ruby>処理中<rt>しょりちゅう</rt></ruby>？ <ruby>同意<rt>どうい</rt></ruby>しない？
 
-## 良い例 — 明示的な確認依頼
+## <ruby>良<rt>よ</rt></ruby>い<ruby>例<rt>れい</rt></ruby> — <ruby>明示的<rt>めいじてき</rt></ruby>な<ruby>確認<rt>かくにん</rt></ruby><ruby>依頼<rt>いらい</rt></ruby>
 
-> 「フオン副部長、修正版契約書付属書を送付いたします（添付）。
+> 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、<ruby>修正版<rt>しゅうせいばん</rt></ruby><ruby>契約書<rt>けいやくしょ</rt></ruby><ruby>付属書<rt>ふぞくしょ</rt></ruby>を<ruby>送付<rt>そうふ</rt></ruby>いたします（<ruby>添付<rt>てんぷ</rt></ruby>）。
 >
-> **24時間以内に受領確認（1行のご返信で結構です）をお願いいたします。** その後、3営業日以内にご署名・ご返送をお願いいたします。
+> **24<ruby>時間<rt>じかん</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>受領<rt>じゅりょう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>（1<ruby>行<rt>ぎょう</rt></ruby>のご<ruby>返信<rt>へんしん</rt></ruby>で<ruby>結構<rt>けっこう</rt></ruby>です）をお<ruby>願<rt>ねが</rt></ruby>いいたします。** その<ruby>後<rt>ご</rt></ruby>、3<ruby>営業日<rt>えいぎょうび</rt></ruby><ruby>以内<rt>いない</rt></ruby>にご<ruby>署名<rt>しょめい</rt></ruby>・ご<ruby>返送<rt>へんそう</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いいたします。
 >
-> 24時間以内に受領のご連絡がない場合は、念のためお電話いたします — 重要書類の見落としを防ぐためです。」
+> 24<ruby>時間<rt>じかん</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>受領<rt>じゅりょう</rt></ruby>のご<ruby>連絡<rt>れんらく</rt></ruby>がない<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>念<rt>ねん</rt></ruby>のためお<ruby>電話<rt>でんわ</rt></ruby>いたします — <ruby>重要<rt>じゅうよう</rt></ruby><ruby>書類<rt>しょるい</rt></ruby>の<ruby>見落<rt>みお</rt></ruby>としを<ruby>防<rt>ふせ</rt></ruby>ぐためです。」
 
-フオンは明確に把握：
-- 24時間内の受領確認（簡単 — 1行返信）。
-- 3営業日内の署名返送。
-- 未返信なら電話が来る。
+フオンは<ruby>明確<rt>めいかく</rt></ruby>に<ruby>把握<rt>はあく</rt></ruby>：
+- 24<ruby>時間<rt>じかん</rt></ruby><ruby>内<rt>ない</rt></ruby>の<ruby>受領<rt>じゅりょう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>（<ruby>簡単<rt>かんたん</rt></ruby> — 1<ruby>行<rt>ぎょう</rt></ruby><ruby>返信<rt>へんしん</rt></ruby>）。
+- 3<ruby>営業日<rt>えいぎょうび</rt></ruby><ruby>内<rt>ない</rt></ruby>の<ruby>署名<rt>しょめい</rt></ruby><ruby>返送<rt>へんそう</rt></ruby>。
+- <ruby>未返信<rt>みへんしん</rt></ruby>なら<ruby>電話<rt>でんわ</rt></ruby>が<ruby>来<rt>く</rt></ruby>る。
 
 ## フォーマット
 
-メール内の3ステップ：
-1. **主たる内容**（契約書／決定事項／重要情報）。
-2. **受領確認の依頼** — 具体的期限、簡便な形式。
-3. **バックアップ行動** — 確認なき場合の代替手段。
+メール<ruby>内<rt>ない</rt></ruby>の3ステップ：
+1. **<ruby>主<rt>しゅ</rt></ruby>たる<ruby>内容<rt>ないよう</rt></ruby>**（<ruby>契約書<rt>けいやくしょ</rt></ruby>／<ruby>決定<rt>けってい</rt></ruby><ruby>事項<rt>じこう</rt></ruby>／<ruby>重要<rt>じゅうよう</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>）。
+2. **<ruby>受領<rt>じゅりょう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>の<ruby>依頼<rt>いらい</rt></ruby>** — <ruby>具体的<rt>ぐたいてき</rt></ruby><ruby>期限<rt>きげん</rt></ruby>、<ruby>簡便<rt>かんべん</rt></ruby>な<ruby>形式<rt>けいしき</rt></ruby>。
+3. **バックアップ<ruby>行動<rt>こうどう</rt></ruby>** — <ruby>確認<rt>かくにん</rt></ruby>なき<ruby>場合<rt>ばあい</rt></ruby>の<ruby>代替<rt>だいたい</rt></ruby><ruby>手段<rt>しゅだん</rt></ruby>。
 
-## 確認不要な場合
+## <ruby>確認<rt>かくにん</rt></ruby><ruby>不要<rt>ふよう</rt></ruby>な<ruby>場合<rt>ばあい</rt></ruby>
 
-- 通常のFYIメール。
-- 事前に電話で話した内容のメール。
-- 頻繁に返信があるスレッド内のメール。
+- <ruby>通常<rt>つうじょう</rt></ruby>のFYIメール。
+- <ruby>事前<rt>じぜん</rt></ruby>に<ruby>電話<rt>でんわ</rt></ruby>で<ruby>話<rt>はな</rt></ruby>した<ruby>内容<rt>ないよう</rt></ruby>のメール。
+- <ruby>頻繁<rt>ひんぱん</rt></ruby>に<ruby>返信<rt>へんしん</rt></ruby>があるスレッド<ruby>内<rt>ない</rt></ruby>のメール。
 
-## 使えるフレーズ
+## <ruby>使<rt>つか</rt></ruby>えるフレーズ
 
-> **「重要メール ＝ 明示的な受領確認依頼 ＋ 未返信時のバックアップ。」**
+> **「<ruby>重要<rt>じゅうよう</rt></ruby>メール ＝ <ruby>明示的<rt>めいじてき</rt></ruby>な<ruby>受領<rt>じゅりょう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby><ruby>依頼<rt>いらい</rt></ruby> ＋ <ruby>未返信時<rt>みへんしんじ</rt></ruby>のバックアップ。」**

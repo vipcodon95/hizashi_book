@@ -228,12 +228,12 @@
       "skill": "場面把握",
       "question_ja": "「indemnity 無制限を今ここで決めて」と CFO に push された時、最も適切な対応は？",
       "options": [
-        "迅速さを優先し即決する",
-        "「権限を超えるため 5 分頂戴し senior に escalate」と buffer 要請、Slack で 30 秒 context",
+        "話題を変えて時間稼ぎ",
         "「無理です」と即拒否",
-        "話題を変えて時間稼ぎ"
+        "迅速さを優先し即決する",
+        "「権限を超えるため 5 分頂戴し senior に escalate」と buffer 要請、Slack で 30 秒 context"
       ],
-      "correct": "B",
+      "correct": "D",
       "explanation": {
         "ja": "T2 (権限外) + T3 (ultimatum) は escalation trigger。即決は法的 bind 不可 risk。即拒否は relationship dent。5 分 buffer + Slack escalate が standard。",
         "vi": "T2 (vượt thẩm quyền) + T3 (ultimatum) = trigger escalation. Tự quyết = rủi ro không bind hợp pháp. Từ chối ngay = dent relationship. Buffer 5 phút + Slack escalate là chuẩn."

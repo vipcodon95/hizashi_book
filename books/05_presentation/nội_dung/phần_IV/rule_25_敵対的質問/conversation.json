@@ -9,7 +9,10 @@
     "ja": "Phase 3 Q&A で大垣部長が価格を強く challenge。Bridge phrase で中和 → 懸念に reframe → numbered answer → 選択権を客に flip back。",
     "vi": "Q&A Phase 3, Ōgaki challenge giá mạnh. Bridge phrase neutralize → reframe sang concern → answer numbered → flip quyền chọn về khách."
   },
-  "related_rules": ["rule_23", "rule_19"],
+  "related_rules": [
+    "rule_23",
+    "rule_19"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -105,7 +108,9 @@
           "sentence": "ご指摘の点、もっともでございます。ご懸念は『価格上昇 50% の妥当性』と理解しました。",
           "sentence_translation": "Điểm anh nêu rất hợp lý ạ. Em hiểu mối quan ngại của anh là 「tính hợp lý của việc tăng giá 50%」 ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_25_good_03",
@@ -115,7 +120,9 @@
           "sentence": "結論から申し上げますと、価格上昇分の内訳は3点ございます。",
           "sentence_translation": "Em xin nói thẳng kết luận trước ạ — phần tăng giá có 3 cấu phần ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_25_good_04",
@@ -135,7 +142,9 @@
           "sentence": "もしスコープを Phase 2 と同等に絞れば 950万まで圧縮可能です。いずれの方向性をご希望でしょうか？",
           "sentence_translation": "Nếu cắt scope về tương đương Phase 2, có thể nén xuống 9,5 triệu yên ạ. Quý vị muốn theo hướng nào ạ?",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_25_good_06",
@@ -174,12 +183,12 @@
       "skill": "表現読解",
       "question_ja": "価格を強く challenge された時の最初の発話として最適なのは？",
       "options": [
-        "「高くないと思います」",
-        "「他社よりは安いです」",
         "「ご指摘の点、もっともでございます。ご懸念は〇〇と理解しました」",
-        "「それは誤解です」"
+        "「それは誤解です」",
+        "「高くないと思います」",
+        "「他社よりは安いです」"
       ],
-      "correct": "C",
+      "correct": "A",
       "explanation": {
         "ja": "Bridge phrase で感情を中和 → 懸念に reframe してから内容に入る。直接否定や反論は escalate を招く。",
         "vi": "Bridge phrase trung hoà cảm xúc → reframe sang concern rồi mới vào nội dung. Phủ nhận trực tiếp / phản biện = escalate."

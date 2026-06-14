@@ -44,7 +44,7 @@
 | 粗利率 | あらりりつ | Gross margin | rule_05 |
 | 価値ベース | かちベース | Value-based | rule_05 |
 | 戦略案件 | せんりゃくあんけん | Deal chiến lược | rule_05 |
-| 商品案件 | しょうひんあんけん | Commodity deal | rule_05 |
+| 商品案件 | しょうひんあんけん | Deal hàng hóa phổ thông | rule_05 |
 | インパクト | impakuto | Impact (tác động) | rule_05 |
 | 3段階提案 | さんだんかいていあん | 3-tier proposal | rule_06 |
 | 推奨 / おすすめ | すいしょう | Recommended | rule_06 |
@@ -53,13 +53,13 @@
 | 常駐 | じょうちゅう | Túc trực / on-site | rule_06 |
 | 機能削減 | きのうさくげん | Cắt giảm chức năng | rule_06 |
 | 比較表 | ひかくひょう | Bảng so sánh | rule_06 |
-| すり合わせ | すりあわせ | Align / pre-meeting alignment | rule_07 |
+| すり合わせ | すりあわせ | Thống nhất / họp align trước đàm phán | rule_07 |
 | 役割確認 | やくわりかくにん | Xác nhận vai trò | rule_07 |
 | 譲歩順序 | じょうほじゅんじょ | Thứ tự nhượng bộ | rule_07 |
-| 撤退ライン | てったいライン | Walk-away line | rule_07 |
-| エスカレーション | esukarēshon | Escalation | rule_07 |
-| 沈黙の合図 | ちんもくのあいず | Signal im lặng | rule_07 |
-| 一致させる | いっちさせる | Đồng nhất | rule_07 |
+| 撤退ライン | てったいライン | Mức rút lui (walk-away) | rule_07 |
+| エスカレーション | esukarēshon | Trình lên cấp trên (escalation) | rule_07 |
+| 沈黙の合図 | ちんもくのあいず | Tín hiệu im lặng | rule_07 |
+| 一致させる | いっちさせる | Làm cho đồng nhất | rule_07 |
 | 知財 / IP | ちざい | Intellectual Property | rule_08 |
 | 所有権 | しょゆうけん | Quyền sở hữu | rule_08 |
 | white-label | howaitorēberu | OEM / nhãn trắng | rule_08 |
@@ -89,11 +89,11 @@
 | 意見 | いけん | Ý kiến | rule_10 |
 | DX 推進 | DXすいしん | Đẩy mạnh DX | rule_10 |
 | 立場 | たちば | Vị thế / lập trường | rule_10 |
-| 振り返り | ふりかえり | Recap / nhìn lại | rule_11 |
+| 振り返り | ふりかえり | Điểm lại / nhìn lại | rule_11 |
 | 経緯 | けいい | Diễn biến / quá trình | rule_11 |
 | 直近 | ちょっきん | Gần đây | rule_11 |
-| アジェンダ | ajenda | Agenda | rule_11 |
-| ディスカッション | disukasshon | Discussion | rule_11 |
+| アジェンダ | ajenda | Chương trình nghị sự (agenda) | rule_11 |
+| ディスカッション | disukasshon | Thảo luận | rule_11 |
 | 念頭に置く | ねんとうにおく | Lưu ý / để trong đầu | rule_11 |
 | 共通認識 | きょうつうにんしき | Nhận thức chung | rule_11 |
 | 観点 | かんてん | Perspective / góc nhìn | rule_12 |
@@ -104,11 +104,11 @@
 | 稟議経路 | りんぎけいろ | Đường ringi | rule_12 |
 | 合議 | ごうぎ | Quyết định tập thể | rule_12 |
 | 取締役会 | とりしまりやくかい | HĐQT / board | rule_12 |
-| 隠れた制約 | かくれたせいやく | Constraint ẩn | rule_13 |
-| 議論 | ぎろん | Bàn luận / disagreement | rule_13 |
+| 隠れた制約 | かくれたせいやく | Ràng buộc ẩn | rule_13 |
+| 議論 | ぎろん | Bàn luận / bất đồng quan điểm | rule_13 |
 | 慎重 | しんちょう | Thận trọng | rule_13 |
-| 漏洩リスク | ろうえいリスク | Risk rò rỉ | rule_13 |
-| 説明可能性 | せつめいかのうせい | Explainability | rule_13 |
+| 漏洩リスク | ろうえいリスク | Rủi ro rò rỉ | rule_13 |
+| 説明可能性 | せつめいかのうせい | Khả năng giải thích (của model) | rule_13 |
 | 余裕を持たせる | よゆうをもたせる | Để dư địa | rule_13 |
 | 稟議の助け | りんぎのたすけ | Hỗ trợ ringi | rule_13 |
 | ミラーリング | mirāringu | Mirroring | rule_14 |
@@ -179,14 +179,14 @@
 | パッケージディスカウント | pakkēji disukaunto | Package discount | rule_22 |
 | 共通基盤化 | きょうつうきばんか | Build trên nền chung | rule_22 |
 | 還元 | かんげん | Hoàn lại / chia sẻ | rule_22 |
-| ラインアイテム | rain'aitemu | Line item | rule_22 |
+| ラインアイテム | rain'aitemu | Dòng ngân sách / hạng mục | rule_22 |
 | 投資 | とうし | Đầu tư | rule_23 |
 | 年間リターン | ねんかんリターン | Annual return | rule_23 |
 | 回収期間 | かいしゅうきかん | Payback period | rule_23 |
 | 割引率 | わりびきりつ | Discount rate | rule_23 |
 | 上振れ | うわぶれ | Vượt dự kiến | rule_23 |
 | 第三者監査 | だいさんしゃかんさ | Third-party audit | rule_23 |
-| 控制された外挿 | せいぎょされたがいそう | Controlled extrapolation | rule_23 |
+| 控制された外挿 | せいぎょされたがいそう | Ngoại suy có kiểm soát | rule_23 |
 | 譲歩交換 | じょうほこうかん | Trade nhượng bộ | rule_24 |
 | お取り計らい | おとりはからい | Sắp xếp / hỗ trợ | rule_24 |
 | 条項 | じょうこう | Điều khoản | rule_24 |
@@ -272,7 +272,7 @@
 | 締結 | ていけつ | Ký kết | rule_34 |
 | 急かし | せかし | Thúc giục | rule_34 |
 | 打ち切り | うちきり | Hủy, dừng | rule_35 |
-| 折り合いがつかず | おりあいがつかず | Không bridge được điều kiện | rule_35 |
+| 折り合いがつかず | おりあいがつかず | Không khớp được điều kiện | rule_35 |
 | 見送り | みおくり | Tạm hoãn / không tiến hành | rule_35 |
 | 原価構造 | げんかこうぞう | Cấu trúc giá thành | rule_35 |
 | 半端な | はんぱな | Nửa vời | rule_35 |
@@ -296,11 +296,11 @@
 | 同時 release | どうじリリース | Cùng lúc release | rule_38 |
 | Joint quote | ジョイントクオート | Trích dẫn chung | rule_38 |
 | 体裁 | ていさい | Hình thức / dáng vẻ | rule_38 |
-| 文言 | もんごん | Câu chữ / wording | rule_38 |
+| 文言 | もんごん | Câu chữ / cách dùng từ | rule_38 |
 | 関係者 | かんけいしゃ | Stakeholder / người liên quan | rule_39 |
 | お力添え | おちからぞえ | Sự giúp sức (formal) | rule_39 |
 | 細やか | こまやか | Tỉ mỉ | rule_39 |
-| 指摘 | してき | Chỉ ra / point out | rule_39 |
+| 指摘 | してき | Chỉ ra / nêu ra điểm cần lưu ý | rule_39 |
 | 死角 | しかく | Điểm mù | rule_39 |
 | support function | サポートファンクション | Bộ phận hỗ trợ (kế toán, legal) | rule_39 |
 | 個別 | こべつ | Riêng từng người | rule_39 |
@@ -317,14 +317,14 @@
 | 純利益 | じゅんりえき | Lợi nhuận ròng | rule_40 |
 | 別枠 | べつわく | Khung riêng | rule_40 |
 | 専任 PM | せんにん PM | PM chuyên trách | rule_40 |
-| Reliability budget | リライアビリティ・バジェット | Reliability budget | rule_40 |
+| Reliability budget | リライアビリティ・バジェット | Ngân sách độ tin cậy | rule_40 |
 | カメラ直視 | カメラちょくし | Nhìn thẳng camera | rule_41 |
-| 画面共有 | がめんきょうゆう | Screen share | rule_41 |
-| 凝視 | ぎょうし | Gaze fixed | rule_41 |
+| 画面共有 | がめんきょうゆう | Chia sẻ màn hình (share màn hình) | rule_41 |
+| 凝視 | ぎょうし | Nhìn chằm chằm, nhìn cố định | rule_41 |
 | 沈黙保持 | ちんもくほじ | Giữ im lặng | rule_41 |
-| ネット遅延 | ネットちえん | Network lag | rule_41 |
-| Hand stillness | ハンドスティルネス | Tay không động | rule_41 |
-| Eye contact mock | アイコンタクトモック | Mô phỏng eye contact | rule_41 |
+| ネット遅延 | ネットちえん | Độ trễ mạng (lag mạng) | rule_41 |
+| Hand stillness | ハンドスティルネス | Giữ tay yên không cử động | rule_41 |
+| Eye contact mock | アイコンタクトモック | Mô phỏng giao tiếp bằng mắt | rule_41 |
 | 通訳 | つうやく | Phiên dịch | rule_42 |
 | 介在 | かいざい | Trung gian / mediated | rule_42 |
 | 区切り発音 | くぎりはつおん | Phát âm tách rõ | rule_42 |

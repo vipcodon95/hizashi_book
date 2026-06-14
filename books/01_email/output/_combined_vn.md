@@ -1,7 +1,6 @@
 ---
-title: "Hizashi — Email Công Việc v1.1"
+title: "Hizashi — Email Công Việc"
 author: "Hizashi Teams"
-date: "2026"
 lang: vi
 ---
 
@@ -32,10 +31,10 @@ Bản tiếng Nhật (đi kèm bản này) có thêm **Phụ lục C** — bản
 ## Tác giả & Bản quyền
 
 **Tác giả:** Hizashi Teams
-**Năm:** 2026
-**Phiên bản:** **1.0** — bản chính thức.
 
 © 2026 Hizashi Teams. Bảo lưu mọi quyền. Không sao chép, phát tán, hoặc sử dụng thương mại nội dung sách dưới bất kỳ hình thức nào nếu không có văn bản đồng ý của Hizashi Teams.
+
+*(Thông tin phiên bản, ngày phát hành và liên hệ ở cuối sách.)*
 
 ---
 
@@ -75,9 +74,6 @@ Hizashi Teams tôn trọng quyền sở hữu trí tuệ của các tác giả k
 *Hizashi — Tia nắng đầu ngày trong hộp thư công việc của bạn.*
 
 
-
----
-# phần_I
 
 # Phần I — Nền tảng & Chuẩn bị
 
@@ -1019,7 +1015,7 @@ Dũng viết mail xin chị Hương duyệt phát sinh.
 > Em viết mail này để **xin chị duyệt phát sinh 80 triệu cho Dự án Bình Minh, trước thứ Năm 15/05**. Phần bên dưới là lý do và chi tiết để chị tham khảo.
 >
 > **Lý do phát sinh**
-> Tuần trước team bảo mật của Hakuō đưa ra yêu cầu kiểm thử mới, không nằm trong scope ban đầu. Em đã so sánh giá từ 3 nhà thầu phụ, kèm so sánh đính kèm.
+> Tuần trước team bảo mật của Hakuō đưa ra yêu cầu kiểm thử mới, không nằm trong phạm vi ban đầu. Em đã so sánh giá từ 3 nhà thầu phụ, kèm so sánh đính kèm.
 >
 > **Chi tiết**
 > - Hạng mục: thuê ngoài kiểm thử bảo mật.
@@ -1797,9 +1793,6 @@ Nếu bạn chỉ gửi file mà không tóm tắt, bạn đang bắt người �
 
 
 
----
-# phần_II
-
 # Phần II — Viết ngắn, viết rõ, viết đúng
 
 *13 rules (23-35). Kỹ thuật câu chữ để đọc nhanh, hiểu đúng.*
@@ -2343,9 +2336,6 @@ Cùng thông tin, ngắn hơn 70%.
 
 
 
----
-# phần_III
-
 # Phần III — Xưng hô, Giọng điệu & Văn hoá Email Việt
 
 *10 rules (36-45). Phần hoàn toàn mới cho bản tiếng Việt — không có trong sách Nhật vì thuộc văn hoá bản địa.*
@@ -2851,9 +2841,6 @@ Nếu mail chỉ trong nội bộ cùng team, không có khách:
 > **"Người cấp cao nhất ở To. Khách trước nội bộ. Mở thư bằng người To. CC theo thứ tự từ cao xuống thấp."**
 
 
-
----
-# phần_IV
 
 # Phần IV — Việc khó nói, nói sao cho khéo
 
@@ -3439,7 +3426,7 @@ Chị Hương trong 1 phút đọc xong biết đủ để quyết định hành
 > - Em sẽ gửi chị bản draft sớm thứ Sáu 16/05 để chị có thể review trước, không bị dồn vào thứ Hai.
 > - Em xin đặt lịch 15 phút họp với chị sáng thứ Ba 20/05 để trình bày những điểm quan trọng.
 >
-> Nếu chị cần em hoàn thành đúng 15/05 bằng cách khác (giảm scope, xin hỗ trợ), chị cho em biết — em sẵn sàng điều chỉnh.
+> Nếu chị cần em hoàn thành đúng 15/05 bằng cách khác (giảm phạm vi, xin hỗ trợ), chị cho em biết — em sẵn sàng điều chỉnh.
 >
 > Em xin lỗi chị vì sự thay đổi này và cảm ơn chị thông cảm.
 > Dũng"
@@ -3456,9 +3443,6 @@ Chị Hương trong 1 phút đọc xong biết đủ để quyết định hành
 > **"Báo trễ 48h trước deadline. Lý do cụ thể + hạn mới tính kỹ + biện pháp bù."**
 
 
-
----
-# phần_V
 
 # Phần V — Trình bày, Kỹ thuật & Kênh truyền đạt
 
@@ -3983,7 +3967,6 @@ Mail quan trọng gửi quốc tế, cân nhắc gửi **bản song ngữ**:
 
 
 
----
 # Phụ lục A — Khuôn mẫu mail theo tình huống
 
 *19 khuôn mẫu tình huống phổ biến. Mỗi khuôn có phần "ngữ cảnh Việt Nam" riêng, sử dụng dàn nhân vật chính (chị Hương, em Dũng, anh Matsumoto, Cty Thiên Phát, Cty Hakuō, Dự án Bình Minh).*
@@ -4142,7 +4125,7 @@ Em thông báo đổi giờ buổi họp Bình Minh đã hẹn thứ Ba 20/05:
 Lý do: Chị Hương có lịch bay đi Đà Nẵng lúc 16:00 cùng ngày, dời
 sớm lên buổi sáng để chị kịp thời gian ra sân bay.
 
-Google Calendar em đã update — các anh chị vui lòng confirm lại.
+Google Calendar em đã cập nhật — các anh chị vui lòng xác nhận lại.
 
 Anh chị nào không dự được giờ mới, báo em trước 13/05 để em sắp xếp
 tham dự từ xa hoặc gửi ghi âm.
@@ -4567,7 +4550,6 @@ Trần Văn Dũng
 *Ghi chú: Các khuôn mẫu này là điểm khởi đầu. Điều chỉnh theo tình huống cụ thể và mối quan hệ của bạn với đối phương. Không copy y nguyên cho mọi tình huống — chỉ dùng làm khung.*
 
 
----
 # Phụ lục B — Kho cụm từ tiếng Việt dùng sẵn
 
 *10 nhóm cụm từ mẫu với nhiều mức độ lịch sự. Dùng làm "thư viện" để soạn email nhanh và nhất quán.*
@@ -4774,4 +4756,33 @@ Trần Văn Dũng
 ---
 
 *Sử dụng kho cụm này làm "bệ phóng" cho email. Dần dần hình thành phong cách riêng của bạn bằng cách điều chỉnh nhẹ.*
+
+
+# Liên hệ & Thông tin sách
+
+Cảm ơn bạn đã đọc đến những trang cuối cùng.
+
+Hizashi luôn mong nhận được góp ý, câu hỏi và phản hồi từ bạn — đó là nguồn động lực để chúng tôi hoàn thiện những phiên bản sau.
+
+**Email:** hizashinihongo@gmail.com<br/>
+**Website:** hizashi.net
+
+Nếu bạn phát hiện lỗi nội dung, có đề xuất cải thiện, hoặc muốn đồng hành cùng các dự án tiếp theo của Hizashi, đừng ngần ngại liên hệ với chúng tôi.
+
+## Thông tin sách
+
+| Mục | Nội dung |
+|-----|----------|
+| Tên sách | Hizashi — Email Công Việc |
+| Tác giả | Hizashi Teams |
+| Phiên bản | 1.1 |
+| Ngày phát hành | 30/04/2026 |
+| Ngôn ngữ | Tiếng Việt (kèm bản tiếng Nhật) |
+| Bản quyền | © 2026 Hizashi Teams |
+
+© 2026 Hizashi Teams. Bảo lưu mọi quyền.
+
+---
+
+*Hizashi — Tia nắng đầu ngày trong hộp thư công việc của bạn.*
 

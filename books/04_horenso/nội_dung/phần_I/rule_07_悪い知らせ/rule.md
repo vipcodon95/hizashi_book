@@ -1,16 +1,16 @@
 # Rule 07 — Báo cáo tin xấu / 悪い知らせの報告 (Predict→Fact→Impact→Plan→Ask)
 
-> **Luận điểm.** Tin xấu là test case khắc nghiệt nhất của Hou-Ren-Sou. Báo trễ = mất tin cậy vĩnh viễn. Báo gấp + sai cấu trúc = sếp panic. Cấu trúc chuẩn: **Predict → Fact → Impact → Plan → Ask**. Predict trước Fact để sếp định kỳ vọng. Plan trước Ask để chứng minh đã suy nghĩ.
+> **Luận điểm.** Tin xấu là phép thử khắc nghiệt nhất của Hou-Ren-Sou. Báo trễ = mất tin cậy vĩnh viễn. Báo gấp + sai cấu trúc = sếp hoảng loạn. Cấu trúc chuẩn: **Predict → Fact → Impact → Plan → Ask**. Predict trước Fact để sếp định kỳ vọng. Plan trước Ask để chứng minh đã suy nghĩ.
 >
 > 悪い知らせほど早く・構造化して報告する。**Predict（予測）→ Fact（事実）→ Impact（影響）→ Plan（対応案）→ Ask（依頼）**。Predict 先出しで上司の心構えを作り、Plan を先に出すことで「丸投げ」感を避ける。
 >
-> **Liên quan:** rule 01 (kịp thời), rule 17 (urgent escalation), rule 31 (bug flow), rule 22 (相談 vs 自己決定).
+> **Liên quan:** rule 01 (kịp thời), rule 17 (báo khẩn lên cấp trên), rule 31 (quy trình xử lý bug), rule 22 (相談 vs 自己決定).
 
 ---
 
 ## Bối cảnh / 場面
 
-22h tối Chủ Nhật — production có bug critical do Phase 2 release. Anh Tuấn phát hiện. Anh Tuấn cần báo Anh Hà CTO ngay (không đợi sáng thứ Hai). Lần đầu báo lộn xộn, panic. Lần 2 dùng PFIPA chuẩn.
+22h tối Chủ Nhật — production có bug critical do Phase 2 release. Anh Tuấn phát hiện. Anh Tuấn cần báo Anh Hà CTO ngay (không đợi sáng thứ Hai). Lần đầu báo lộn xộn, hoảng loạn. Lần 2 dùng PFIPA chuẩn.
 
 ---
 
@@ -20,12 +20,16 @@
 
 | Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「ハーさん、すいません、昨夜本番で問題が起きてまして、データが…まだ調査中なんですが…どうしましょうか？」 |
-| **ハーCTO** | 「**昨夜**？なぜ今報告？影響範囲は？対応案は？」 |
-| **トゥアン** | 「えっと、影響はまだ確認中で、対応もこれから考えるところで…」 |
-| **ハーCTO** | 「11時間遅れの報告 + 状況不明 + 対応案ゼロ。これは最悪のパターンです。」 |
+| **トゥアン** | 「ハーさん、すいません、<ruby>昨夜<rt>さくや</rt></ruby><ruby>本番<rt>ほんばん</rt></ruby>で<ruby>問題<rt>もんだい</rt></ruby>が<ruby>起<rt>お</rt></ruby>きてまして、データが…まだ<ruby>調査中<rt>ちょうさちゅう</rt></ruby>なんですが…どうしましょうか？」 |
+|  | *Anh Hà, xin lỗi, tối qua production có vấn đề, data... vẫn đang điều tra... sao bây giờ ạ?* |
+| **ハーCTO** | 「**<ruby>昨夜<rt>さくや</rt></ruby>**？なぜ<ruby>今<rt>いま</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby>？<ruby>影響範囲<rt>えいきょうはんい</rt></ruby>は？<ruby>対応案<rt>たいおうあん</rt></ruby>は？」 |
+|  | *Tối qua? Sao giờ mới báo? Phạm vi ảnh hưởng? Phương án xử lý?* |
+| **トゥアン** | 「えっと、<ruby>影響<rt>えいきょう</rt></ruby>はまだ<ruby>確認中<rt>かくにんちゅう</rt></ruby>で、<ruby>対応<rt>たいおう</rt></ruby>もこれから<ruby>考<rt>かんが</rt></ruby>えるところで…」 |
+|  | *Ờ, ảnh hưởng đang xác nhận, phương án em mới đang nghĩ ạ...* |
+| **ハーCTO** | 「11<ruby>時間<rt>じかん</rt></ruby><ruby>遅<rt>おく</rt></ruby>れの<ruby>報告<rt>ほうこく</rt></ruby> + <ruby>状況不明<rt>じょうきょうふめい</rt></ruby> + <ruby>対応案<rt>たいおうあん</rt></ruby>ゼロ。これは<ruby>最悪<rt>さいあく</rt></ruby>のパターンです。」 |
+|  | *Báo trễ 11 giờ + không rõ tình hình + không có phương án. Đây là kiểu báo cáo tệ nhất.* |
 
-**Vì sao xấu:** (1) Báo trễ 11 giờ — bug critical phải báo trong 30 phút. (2) Không có Predict mở đầu, sếp bị động. (3) Không có Plan, "どうしましょうか?" = đùn boss quyết.
+**Vì sao xấu:** (1) Báo trễ 11 giờ — bug critical phải báo trong 30 phút. (2) Không có Predict mở đầu, sếp bị động. (3) Không có Plan, "どうしましょうか?" = đùn sếp quyết.
 
 ---
 
@@ -35,17 +39,22 @@
 
 | Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「ハーさん、夜分にすみません。**緊急のご報告**です。**先にお伝えしますが、本番で critical bug が発生しております**【1】。」 |
-| **トゥアン** | 「**Fact**：22時頃、注文確定 API でデータ消失が発生。**Impact**：本日 21時以降の注文データ約30件が DB に保存されていません【2】。」 |
-| **トゥアン** | 「**Plan（対応案）**：(1) ログから30件をリストアップ、(2) 顧客に翌朝までに個別連絡、(3) 原因はトランザクション処理にあると推測、修正PRを朝までに準備します【3】。」 |
-| **トゥアン** | 「**Ask（依頼）**：松本様への第一報を 23時までに私から入れてもよろしいでしょうか。あるいはハーさんから入れる選択肢もあります【4】。」 |
-| **ハーCTO** | 「Predict から Plan まで30秒で全部入った。良い報告。第一報はあなたから入れてください。私は2時間以内に折り返します。」 |
+| **トゥアン** | 「ハーさん、<ruby>夜分<rt>やぶん</rt></ruby>にすみません。**<ruby>緊急<rt>きんきゅう</rt></ruby>のご<ruby>報告<rt>ほうこく</rt></ruby>**です。**<ruby>先<rt>さき</rt></ruby>にお<ruby>伝<rt>つた</rt></ruby>えしますが、<ruby>本番<rt>ほんばん</rt></ruby>で critical bug が<ruby>発生<rt>はっせい</rt></ruby>しております**【1】。」 |
+|  | *Anh Hà, xin lỗi anh đêm khuya. Em báo cáo khẩn cấp ạ. Em xin báo trước: production đang có bug critical ạ.* |
+| **トゥアン** | 「**Fact**：22<ruby>時頃<rt>じごろ</rt></ruby>、<ruby>注文確定<rt>ちゅうもんかくてい</rt></ruby> API でデータ<ruby>消失<rt>しょうしつ</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>。**Impact**：<ruby>本日<rt>ほんじつ</rt></ruby> 21<ruby>時以降<rt>じいこう</rt></ruby>の<ruby>注文<rt>ちゅうもん</rt></ruby>データ<ruby>約<rt>やく</rt></ruby>30<ruby>件<rt>けん</rt></ruby>が DB に<ruby>保存<rt>ほぞん</rt></ruby>されていません【2】。」 |
+|  | *Fact: lúc 22h, API xác nhận đơn hàng bị mất data. Impact: khoảng 30 đơn từ sau 21h hôm nay không được lưu vào DB ạ.* |
+| **トゥアン** | 「**Plan（<ruby>対応案<rt>たいおうあん</rt></ruby>）**：(1) ログから30<ruby>件<rt>けん</rt></ruby>をリストアップ、(2) <ruby>顧客<rt>こきゃく</rt></ruby>に<ruby>翌朝<rt>よくあさ</rt></ruby>までに<ruby>個別連絡<rt>こべつれんらく</rt></ruby>、(3) <ruby>原因<rt>げんいん</rt></ruby>はトランザクション<ruby>処理<rt>しょり</rt></ruby>にあると<ruby>推測<rt>すいそく</rt></ruby>、<ruby>修正<rt>しゅうせい</rt></ruby>PRを<ruby>朝<rt>あさ</rt></ruby>までに<ruby>準備<rt>じゅんび</rt></ruby>します【3】。」 |
+|  | *Plan (Phương án): (1) trích 30 đơn từ log, (2) liên hệ riêng khách trước sáng mai, (3) nguyên nhân em đoán ở xử lý transaction, em chuẩn bị PR sửa trước sáng ạ.* |
+| **トゥアン** | 「**Ask（<ruby>依頼<rt>いらい</rt></ruby>）**：<ruby>松本様<rt>まつもとさま</rt></ruby>への<ruby>第一報<rt>だいいっぽう</rt></ruby>を 23<ruby>時<rt>じ</rt></ruby>までに<ruby>私<rt>わたし</rt></ruby>から<ruby>入<rt>い</rt></ruby>れてもよろしいでしょうか。あるいはハーさんから<ruby>入<rt>い</rt></ruby>れる<ruby>選択肢<rt>せんたくし</rt></ruby>もあります【4】。」 |
+|  | *Ask (Em xin ý anh): em báo cáo đầu cho anh Matsumoto trước 23h được không ạ? Hoặc lựa chọn anh Hà báo cho anh ấy ạ.* |
+| **ハーCTO** | 「Predict から Plan まで30<ruby>秒<rt>びょう</rt></ruby>で<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>入<rt>はい</rt></ruby>った。<ruby>良<rt>よ</rt></ruby>い<ruby>報告<rt>ほうこく</rt></ruby>。<ruby>第一報<rt>だいいっぽう</rt></ruby>はあなたから<ruby>入<rt>い</rt></ruby>れてください。<ruby>私<rt>わたし</rt></ruby>は2<ruby>時間以内<rt>じかんいない</rt></ruby>に<ruby>折<rt>お</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>します。」 |
+|  | *Predict đến Plan đủ trong 30 giây. Báo cáo tốt. Báo đầu em làm đi. Anh sẽ phản hồi trong 2 giờ.* |
 
 📝 **Ghi chú:**
-- 【1】**「先にお伝えしますが、〇〇が発生しております」** — Predict mở đầu = sếp định khung tâm lý "đây là tin xấu". Tránh shock.
-- 【2】**「Fact〜Impact」** — chia rõ 2 phần. Fact = chuyện gì xảy ra. Impact = ảnh hưởng cụ thể (số lượng / khách / tiền). Sếp cần Impact để escalate hay không.
-- 【3】**「Plan：(1)〜(2)〜(3)」** — 3 dòng action với owner. Show rằng đã suy nghĩ chứ không chỉ đùn.
-- 【4】**「〜してもよろしいでしょうか。あるいは〇〇という選択肢も」** — Ask đưa 2 option. Sếp Nhật ưa chọn hơn quyết từ zero.
+- 【1】**「先にお伝えしますが、〇〇が発生しております」** — Predict mở đầu = sếp định khung tâm lý "đây là tin xấu". Tránh gây sốc.
+- 【2】**「Fact〜Impact」** — chia rõ 2 phần. Fact = chuyện gì xảy ra. Impact = ảnh hưởng cụ thể (số lượng / khách / tiền). Sếp cần Impact để quyết có báo lên cấp trên hay không.
+- 【3】**「Plan：(1)〜(2)〜(3)」** — 3 dòng việc cần làm kèm người phụ trách. Cho thấy đã suy nghĩ chứ không chỉ đùn.
+- 【4】**「〜してもよろしいでしょうか。あるいは〇〇という選択肢も」** — Ask đưa 2 lựa chọn. Sếp Nhật ưa chọn hơn là phải quyết từ con số không.
 
 ---
 
@@ -59,16 +68,16 @@
 
 ## ⚠ Tránh
 
-- 「すみません、ちょっと問題が…」 — vague, sếp không biết nặng nhẹ.
+- 「すみません、ちょっと問題が…」 — mơ hồ, sếp không biết nặng nhẹ.
 - "どうしましょうか?" mở đầu — đùn quyết định cho sếp = sếp mất công cào lại từ đầu.
-- Đợi đến giờ làm việc mới báo — bug critical là exception. Email/Slack/phone cá nhân OK.
-- Báo Plan mà không nói deadline cụ thể (「対応します」) — không có thời hạn = không phải plan.
+- Đợi đến giờ làm việc mới báo — bug critical là trường hợp ngoại lệ. Email/Slack/điện thoại cá nhân OK.
+- Báo Plan mà không nói thời hạn cụ thể (「対応します」) — không có thời hạn = không phải phương án.
 
 ---
 
 ## 📐 Template box
 
-Xem `templates[0]` của file conversation: **悪い知らせ報告書** (incident report).
+Xem `templates[0]` của file conversation: **悪い知らせ報告書** (báo cáo sự cố).
 
 ---
 

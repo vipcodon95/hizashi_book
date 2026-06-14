@@ -9,7 +9,11 @@
     "ja": "Final contract v3 合意後、キックオフ 7/1 から逆算して 6/25 までの捺印を formal mail で依頼する場面。",
     "vi": "Final contract v3 OK rồi. Tính ngược từ kickoff 7/1 → ký xong trước 6/25. Dũng gửi mail formal request signature."
   },
-  "related_rules": ["rule_33", "rule_36", "rule_37"],
+  "related_rules": [
+    "rule_33",
+    "rule_36",
+    "rule_37"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -112,7 +116,9 @@
           "sentence": "Phase 3 業務委託契約書 final 版が両社合意に至りましたので、お送りいたします。つきましては、ご署名・ご捺印いただけますでしょうか。",
           "sentence_translation": "Hợp đồng Phase 3 bản final đã đạt đồng thuận giữa hai bên, em xin gửi anh. Phiền anh ký và đóng dấu giúp em ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_34_good_03",
@@ -122,7 +128,9 @@
           "sentence": "キックオフを 7 月 1 日に予定しているため、6 月 25 日 (水) までにご捺印頂けますと幸いです。",
           "sentence_translation": "Vì kickoff dự kiến ngày 1/7, em rất mong anh đóng dấu trước thứ Tư 25/6 ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_34_good_04",
@@ -132,7 +140,9 @@
           "sentence": "方法は、(a) eSignature (DocuSign リンク添付)、または (b) 紙原本郵送 (本日中に発送可能) のいずれかをお選びいただけます。ご都合のよろしい方をお知らせください。",
           "sentence_translation": "Về phương thức, anh có thể chọn: (a) eSignature (link DocuSign đính kèm) hoặc (b) gửi bản giấy gốc (em có thể chuyển phát trong ngày). Anh chọn cách nào tiện cho anh thì báo lại giúp em ạ.",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_34_good_05",
@@ -151,7 +161,9 @@
           "sentence": "Phase 3 契約締結完了しました。Hà CTO + 大垣様 両社捺印済。",
           "sentence_translation": "Hợp đồng Phase 3 ký xong rồi ạ. Anh Hà CTO + anh Ōgaki cả 2 bên đã đóng dấu ạ.",
           "tone": "warm",
-          "annotation_ids": ["4"]
+          "annotation_ids": [
+            "4"
+          ]
         }
       ]
     }
@@ -181,12 +193,12 @@
       "skill": "表現読解",
       "question_ja": "商務メールで「サインお願いします」が不適切な理由は？",
       "options": [
+        "送信時刻が遅いから",
         "短すぎるから",
-        "「サイン」はカジュアル表現で、商務文書では「ご署名・ご捺印」を用いる",
         "敬語が足りないから",
-        "送信時刻が遅いから"
+        "「サイン」はカジュアル表現で、商務文書では「ご署名・ご捺印」を用いる"
       ],
-      "correct": "B",
+      "correct": "D",
       "explanation": {
         "ja": "「サイン」は日常会話レベル。商務契約は「ご署名・ご捺印いただけますでしょうか」が標準。",
         "vi": "'サイン' ở mức hội thoại hàng ngày. Trong business contract phải dùng 「ご署名・ご捺印いただけますでしょうか」."

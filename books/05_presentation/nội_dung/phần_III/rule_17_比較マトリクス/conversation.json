@@ -9,7 +9,10 @@
     "ja": "Phase 3 スコープ案を5案×8軸で比較した過剰 matrix を、ハーCTOが3案×4軸＋弊社推奨に絞らせる場面。",
     "vi": "Matrix so sánh scope Phase 3 quá tải (5 case × 8 axis). Hà CTO bắt thu xuống 3×4 + 「khuyến nghị bên em」."
   },
-  "related_rules": ["rule_19", "rule_20"],
+  "related_rules": [
+    "rule_19",
+    "rule_20"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -89,7 +92,9 @@
           "sentence": "3案 × 4軸に絞り込みました。軸: 投資額／期間／差異率改善／運用負荷。セルは数字と◎○△×。",
           "sentence_translation": "Em thu xuống 3 case × 4 axis ạ. Axis: tiền đầu tư / thời gian / cải thiện sai lệch / tải vận hành. Cell là số + ◎○△×.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_17_good_02",
@@ -108,7 +113,9 @@
           "sentence": "最下行に『弊社推奨: B案』 + 1文理由を入れました。『投資額対効果が最も高く、運用負荷も中程度のため』。",
           "sentence_translation": "Em đã ghi 「Khuyến nghị bên em: case B」 + 1 câu lý do ở dòng cuối ạ. 「Hiệu quả trên đầu tư cao nhất, tải vận hành cũng vừa」.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_17_good_04",
@@ -139,10 +146,10 @@
       "skill": "場面把握",
       "question_ja": "プレゼンの比較マトリクスで最も適切な構成は？",
       "options": [
-        "5案×8軸の網羅型",
+        "案数も軸数も無制限",
         "3案×4軸＋弊社推奨1案＋1文理由",
         "1案のみ",
-        "案数も軸数も無制限"
+        "5案×8軸の網羅型"
       ],
       "correct": "B",
       "explanation": {

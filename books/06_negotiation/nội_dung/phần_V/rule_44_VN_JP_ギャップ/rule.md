@@ -20,12 +20,18 @@ Phase 4 với client mới (manufacturing JP, Tokyo HQ). Tuấn Tech Lead suppor
 
 | Vai | Câu |
 |---------|-----|
-| **JP client (松本 stand-in)** | 「価格 ¥20M はやや高い印象がございます。」 |
-| **トゥアン** | 「では ¥18M でいかがですか？10% 下げます！」 |
-| **JP client** | …(無言、 表情変化なし) |
-| **トゥアン** | 「¥17M でも検討可能です…」 |
-| **JP client** | 「…御社 内部でじっくり再検討された後、改めてご提案頂けますでしょうか。」 |
-| (商談後 Slack) **JP client → Dũng の上司** | 「Tuấn さん、 concession を 2 回続けて下げました。 弊社 negotiate ratchet として **¥15M target で社内 anchor** が動いてしまいました。」 |
+| **JP client (松本 stand-in)** | 「<ruby>価格<rt>かかく</rt></ruby> ¥20M はやや<ruby>高<rt>たか</rt></ruby>い<ruby>印象<rt>いんしょう</rt></ruby>がございます。」 |
+|  | *Giá ¥20M hơi tạo cảm giác cao ạ.* |
+| **トゥアン** | 「では ¥18M でいかがですか？10% <ruby>下<rt>さ</rt></ruby>げます！」 |
+|  | *Vậy ¥18M có được không ạ? Em giảm 10%!* |
+| **JP client** | …(<ruby>無言<rt>むごん</rt></ruby>、 <ruby>表情変化<rt>ひょうじょうへんか</rt></ruby>なし) |
+|  | *(Im lặng, ghi note, không biến sắc)* |
+| **トゥアン** | 「¥17M でも<ruby>検討可能<rt>けんとうかのう</rt></ruby>です…」 |
+|  | *¥17M cũng xem xét được ạ...* |
+| **JP client** | 「…<ruby>御社<rt>おんしゃ</rt></ruby> <ruby>内部<rt>ないぶ</rt></ruby>でじっくり<ruby>再検討<rt>さいけんとう</rt></ruby>された<ruby>後<rt>あと</rt></ruby>、<ruby>改<rt>あらた</rt></ruby>めてご<ruby>提案<rt>ていあん</rt></ruby><ruby>頂<rt>いただ</rt></ruby>けますでしょうか。」 |
+|  | *Bên em sau khi cân nhắc kỹ trong nội bộ, đề xuất lại giúp tôi được không.* |
+| (商談後 Slack) **JP client → Dũng の上司** | 「Tuấn さん、 concession を 2 <ruby>回<rt>かい</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>下<rt>さ</rt></ruby>げました。 <ruby>弊社<rt>へいしゃ</rt></ruby> negotiate ratchet として **¥15M target で<ruby>社内<rt>しゃない</rt></ruby> anchor** が<ruby>動<rt>うご</rt></ruby>いてしまいました。」 |
+|  | *Anh Tuấn giảm liên tiếp 2 lần. Bên tôi ratchet trong đàm phán, anchor nội bộ đã dịch xuống mức ¥15M.* |
 
 **Vì sao xấu:** (a) 1 phát giảm 10% = "もっと下がる" signal. JP は concession を slow + reciprocal で expect, (b) 2 連続 concession なし trade = JP 内部 anchor が ¥15M に shift, (c) 「やや高い」は JP indirect signal で「具体的説明欲しい」意図、 直接 discount ではない.
 
@@ -37,13 +43,20 @@ Phase 4 với client mới (manufacturing JP, Tokyo HQ). Tuấn Tech Lead suppor
 
 | Vai | Câu |
 |---------|-----|
-| **JP client** | 「価格 ¥20M はやや高い印象がございます。」 |
-| **ズン** | 「ご感想ありがとうございます。**『高い』という印象の中で、特に気にされている内訳要素**【1】はございますでしょうか？AI engine 部分でしょうか、PM 体制でしょうか。」 |
-| **JP client** | 「…AI engine 部分、 御社 Phase 2 比 +30% の理由を伺いたい。」 |
-| **ズン** | 「Phase 2 比 +30% の内訳: customer churn prediction model 追加が +20%、SLA 99.5% → 99.95% upgrade が +10% です。**もしどちらかをスコープ外にする trade なら**【2】、 ¥18M に調整可能でございます。」 |
-| **JP client** | 「なるほど、 churn prediction の必要性は社内で 議論余地あり。**持ち帰り**社内検討します。」 |
-| (商談後 Slack Tuấn に) **ズン** | 「Tuấn、 JP は『高い』 ≠ 『discount せよ』。 specific reason を indirect に asking している【3】。VN style で即 10% 下げると ratchet 動く。next time も同じ pattern で。」 |
-| **トゥアン** | 「了解。沈黙 2 秒で Dũng の signal 待つ pattern 学んだ。」 |
+| **JP client** | 「<ruby>価格<rt>かかく</rt></ruby> ¥20M はやや<ruby>高<rt>たか</rt></ruby>い<ruby>印象<rt>いんしょう</rt></ruby>がございます。」 |
+|  | *Giá ¥20M hơi tạo cảm giác cao ạ.* |
+| **ズン** | 「ご<ruby>感想<rt>かんそう</rt></ruby>ありがとうございます。**『<ruby>高<rt>たか</rt></ruby>い』という<ruby>印象<rt>いんしょう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<ruby>特<rt>とく</rt></ruby>に<ruby>気<rt>き</rt></ruby>にされている<ruby>内訳要素<rt>うちわけようそ</rt></ruby>**【1】はございますでしょうか？AI engine <ruby>部分<rt>ぶぶん</rt></ruby>でしょうか、PM <ruby>体制<rt>たいせい</rt></ruby>でしょうか。」 |
+|  | *Em cảm ơn cảm nhận của anh ạ. Trong cảm nhận 'cao' đó, có phần breakdown nào anh đặc biệt quan tâm không ạ? Phần AI engine hay phần cơ chế PM ạ?* |
+| **JP client** | 「…AI engine <ruby>部分<rt>ぶぶん</rt></ruby>、 <ruby>御社<rt>おんしゃ</rt></ruby> Phase 2 <ruby>比<rt>ひ</rt></ruby> +30% の<ruby>理由<rt>りゆう</rt></ruby>を<ruby>伺<rt>うかが</rt></ruby>いたい。」 |
+|  | *Phần AI engine, anh muốn nghe lý do +30% so với Phase 2 bên em.* |
+| **ズン** | 「Phase 2 <ruby>比<rt>ひ</rt></ruby> +30% の<ruby>内訳<rt>うちわけ</rt></ruby>: customer churn prediction model <ruby>追加<rt>ついか</rt></ruby>が +20%、SLA 99.5% → 99.95% upgrade が +10% です。**もしどちらかをスコープ<ruby>外<rt>がい</rt></ruby>にする trade なら**【2】、 ¥18M に<ruby>調整可能<rt>ちょうせいかのう</rt></ruby>でございます。」 |
+|  | *Breakdown +30% so với Phase 2: thêm model customer churn prediction là +20%, upgrade SLA 99.5% → 99.95% là +10%. Nếu mình trade bằng cách đưa 1 trong 2 ra ngoài scope thì có thể điều chỉnh xuống ¥18M ạ.* |
+| **JP client** | 「なるほど、 churn prediction の<ruby>必要性<rt>ひつようせい</rt></ruby>は<ruby>社内<rt>しゃない</rt></ruby>で <ruby>議論余地<rt>ぎろんよち</rt></ruby>あり。**<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り**<ruby>社内検討<rt>しゃないけんとう</rt></ruby>します。」 |
+|  | *Hiểu rồi, mức độ cần thiết của churn prediction có dư địa thảo luận nội bộ. Anh mang về xem.* |
+| (商談後 Slack Tuấn に) **ズン** | 「Tuấn、 JP は『<ruby>高<rt>たか</rt></ruby>い』 ≠ 『discount せよ』。 specific reason を indirect に asking している【3】。VN style で<ruby>即<rt>そく</rt></ruby> 10% <ruby>下<rt>さ</rt></ruby>げると ratchet <ruby>動<rt>うご</rt></ruby>く。next time も<ruby>同<rt>おな</rt></ruby>じ pattern で。」 |
+|  | *Tuấn, JP 'cao' KHÔNG phải 'giảm đi'. Họ hỏi gián tiếp specific reason. Style VN giảm 10% phát thì ratchet xảy ra. Lần sau cùng pattern này.* |
+| **トゥアン** | 「<ruby>了解<rt>りょうかい</rt></ruby>。<ruby>沈黙<rt>ちんもく</rt></ruby> 2 <ruby>秒<rt>びょう</rt></ruby>で Dũng の signal <ruby>待<rt>ま</rt></ruby>つ pattern <ruby>学<rt>まな</rt></ruby>んだ。」 |
+|  | *Hiểu rồi. Anh học được pattern 'silence 2 giây chờ signal Dũng'.* |
 
 📝 **Ghi chú:**
 - 【1】**「内訳要素」 questioning** = JP indirect 「高い」 を unbundle + reframe. 即 discount せず discovery.
@@ -57,7 +70,7 @@ Phase 4 với client mới (manufacturing JP, Tokyo HQ). Tuấn Tech Lead suppor
 
 > **「JP『高い』≠『discount』。先に内訳 unbundle + trade 形 reciprocal concession。VN 1 発 10% はNG。」**
 >
-> *JP 'cao' không phải đề nghị discount. Phải unbundle + concession dạng trade. VN giảm 10% phát = NG.*
+> *JP 'cao' không phải đề nghị giảm giá. Phải unbundle + concession dạng trade. VN giảm 10% phát = NG.*
 
 ---
 

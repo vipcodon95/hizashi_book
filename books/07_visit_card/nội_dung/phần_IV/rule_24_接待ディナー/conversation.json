@@ -9,7 +9,11 @@
     "ja": "白鷗3名(大垣・松本・中村CFO)+田中PMO HCMC初日午後、ズン+ハー(CTO)が翌日18:30から D1高級和食レストラン(Q1)接待を予約・menu事前確定する場面。",
     "vi": "Đoàn 白鷗 3 người (Ōgaki, Matsumoto, Nakamura CFO) + Tanaka PMO chiều đầu tiên tại HCMC. Dũng + Hà (CTO) đặt nhà hàng Nhật cao cấp Q1 cho mai 18:30, chốt menu trước."
   },
-  "related_rules": ["rule_25", "rule_26", "rule_30"],
+  "related_rules": [
+    "rule_25",
+    "rule_26",
+    "rule_30"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -114,7 +118,11 @@
           "sentence_translation": "(1) Quán: nhà hàng Nhật 'OO' Q1, phòng riêng, 6 người, course OO triệu/người (đã đặt từ D-2). (2) Dị ứng đã hỏi: CFO Nakamura ăn được sashimi nhưng tránh giáp xác, anh Matsumoto không kiêng, anh Ōgaki muốn nhẹ. (3) Đồ uống: cả sake + vang + nonalc.",
           "tone": "formal",
           "speed_multiplier": 0.92,
-          "annotation_ids": ["1", "2", "3"]
+          "annotation_ids": [
+            "1",
+            "2",
+            "3"
+          ]
         },
         {
           "line_id": "rule_24_good_03",
@@ -133,7 +141,9 @@
           "sentence": "送迎タクシー2台手配済。18:00 ホテルロビーお迎え、18:30 レストラン到着、終了後ホテルまで送り。",
           "sentence_translation": "Em đã đặt 2 taxi đưa đón. 18:00 đón ở lobby hotel, 18:30 đến nhà hàng, kết thúc đưa về hotel.",
           "tone": "formal",
-          "annotation_ids": ["4"]
+          "annotation_ids": [
+            "4"
+          ]
         },
         {
           "line_id": "rule_24_good_05",
@@ -172,8 +182,8 @@
       "skill": "場面把握",
       "question_ja": "CFO同席の接待ディナー準備で最も適切なのは？",
       "options": [
-        "当日朝に予約、現地でmenu選び",
         "前日予約、coachクラス coursesで送迎なし",
+        "当日朝に予約、現地でmenu選び",
         "D-2予約、個室・コース事前確定、食事制限確認、送迎手配",
         "客に予約してもらう"
       ],

@@ -52,7 +52,7 @@ Cuối tháng 12/2024 sang đầu tháng 1/2025. Đại đã 9 tháng ở Osaka 
 | Đại | ユミさん、これ<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>正月<rt>しょうがつ</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>ですか？<br>*(Cô Yumi, đây toàn món Tết ạ?)* |
 | Yumi | そうや。「おせち<ruby>料理<rt>りょうり</rt></ruby>」って<ruby>言<rt>い</rt></ruby>うんよ。<ruby>3<rt>さん</rt></ruby><ruby>段<rt>だん</rt></ruby>の<ruby>重箱<rt>じゅうばこ</rt></ruby>に<ruby>詰<rt>つ</rt></ruby>めるんや。<br>*(Đúng vậy. Gọi là "osechi-ryōri". Xếp vào hộp ba tầng đó.)* |
 | Đại | <ruby>一<rt>ひと</rt></ruby>つ<ruby>聞<rt>き</rt></ruby>いてもいいですか？この<ruby>黒<rt>くろ</rt></ruby>い<ruby>豆<rt>まめ</rt></ruby>にはどんな<ruby>意味<rt>いみ</rt></ruby>がありますか？<br>*(Em hỏi một cái được không ạ? Đậu đen này có ý nghĩa gì ạ?)* |
-| Yumi | <ruby>黒豆<rt>くろまめ</rt></ruby>は「<ruby>まめ<rt></rt></ruby>に<ruby>働<rt>はたら</rt></ruby>く」で、<ruby>健康<rt>けんこう</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>や。<br>*(Đậu đen "mame" — chăm chỉ, ý nghĩa là sức khoẻ đó.)* |
+| Yumi | <ruby>黒豆<rt>くろまめ</rt></ruby>は「まめに<ruby>働<rt>はたら</rt></ruby>く」で、<ruby>健康<rt>けんこう</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>や。<br>*(Đậu đen "mame" — chăm chỉ, ý nghĩa là sức khoẻ đó.)* |
 | Đại | <ruby>言葉<rt>ことば</rt></ruby><ruby>遊<rt>あそ</rt></ruby>びですか？<ruby>面白<rt>おもしろ</rt></ruby>いです！この<ruby>黄色<rt>きいろ</rt></ruby>いのは？<br>*(Chơi chữ ạ? Thú vị quá! Cái màu vàng này là gì ạ?)* |
 | Yumi | <ruby>数<rt>かず</rt></ruby>の<ruby>子<rt>こ</rt></ruby>。ニシンの<ruby>卵<rt>たまご</rt></ruby>や。<ruby>子孫<rt>しそん</rt></ruby><ruby>繁栄<rt>はんえい</rt></ruby>を<ruby>願<rt>ねが</rt></ruby>う。<br>*(Kazu-no-ko. Trứng cá trích. Cầu con cháu đông đúc.)* |
 | Đại | <ruby>海老<rt>えび</rt></ruby>は？<br>*(Tôm thì sao ạ?)* |
@@ -76,7 +76,7 @@ Cuối tháng 12/2024 sang đầu tháng 1/2025. Đại đã 9 tháng ở Osaka 
 | Tony | <ruby>108<rt>ひゃくはち</rt></ruby><ruby>回<rt>かい</rt></ruby>や。<ruby>人間<rt>にんげん</rt></ruby>の<ruby>煩悩<rt>ぼんのう</rt></ruby>が<ruby>108<rt>ひゃくはち</rt></ruby>あるって<ruby>言<rt>い</rt></ruby>われてるからな。<br>*(108 hồi. Nghe nói phiền não của con người có 108 cái.)* |
 | Đại | すみません、「<ruby>煩悩<rt>ぼんのう</rt></ruby>」というのは？<br>*(Xin lỗi, "bonnō" là gì ạ?)* |
 | Yumi | <ruby>欲<rt>よく</rt></ruby>とか<ruby>怒<rt>いか</rt></ruby>りとか、<ruby>心<rt>こころ</rt></ruby>を<ruby>苦<rt>くる</rt></ruby>しめる<ruby>気持<rt>きも</rt></ruby>ちのことや。<ruby>仏教<rt>ぶっきょう</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>やな。<br>*(Tham, sân… những cảm xúc làm khổ tâm. Là từ Phật giáo.)* |
-| Đại | なるほど、<ruby>1<rt>いち</rt></ruby><ruby>回<rt>かい</rt></ruby><ruby>鳴<rt>な</rt></ruby>るごとに<ruby>1<rt>いっ</rt></ruby>つ<ruby>消<rt>き</rt></ruby>えるんですね。<br>*(Em hiểu rồi. Mỗi tiếng chuông xoá một phiền não.)* |
+| Đại | なるほど、<ruby>1<rt>いっ</rt></ruby><ruby>回<rt>かい</rt></ruby><ruby>鳴<rt>な</rt></ruby>るごとに<ruby>1<rt>ひと</rt></ruby>つ<ruby>消<rt>き</rt></ruby>えるんですね。<br>*(Em hiểu rồi. Mỗi tiếng chuông xoá một phiền não.)* |
 | (Chuông) | ゴーン……ゴーン……<br>*(Boong… boong…)* |
 | Tony | あけましておめでとうございます！<br>*(Chúc mừng năm mới!)* |
 | Yumi | あけましておめでとうございます！<ruby>本年<rt>ほんねん</rt></ruby>もよろしくお<ruby>願<rt>ねが</rt></ruby>いします。<br>*(Chúc mừng năm mới! Năm nay cũng mong em.)* |
@@ -95,7 +95,7 @@ Cuối tháng 12/2024 sang đầu tháng 1/2025. Đại đã 9 tháng ở Osaka 
 | Yumi | お<ruby>餅<rt>もち</rt></ruby>の<ruby>入<rt>はい</rt></ruby>ったお<ruby>雑煮<rt>ぞうに</rt></ruby>のスープよ。<ruby>地方<rt>ちほう</rt></ruby>によって<ruby>味<rt>あじ</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>うんよ。<br>*(Là canh có mochi. Mỗi vùng vị khác nhau.)* |
 | Đại | （<ruby>食<rt>た</rt></ruby>べる）うん、<ruby>味噌<rt>みそ</rt></ruby>が<ruby>甘<rt>あま</rt></ruby>くて<ruby>美味<rt>おい</rt></ruby>しいです！<br>*(Ăn. Miso ngọt, ngon quá!)* |
 | Tony | <ruby>東京<rt>とうきょう</rt></ruby>は<ruby>醤油<rt>しょうゆ</rt></ruby><ruby>味<rt>あじ</rt></ruby>やで。<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>違<rt>ちが</rt></ruby>う。<br>*(Tokyo thì vị xì dầu. Khác hẳn đấy.)* |
-| Đại | <ruby>1<rt>いっ</rt></ruby>つの<ruby>国<rt>くに</rt></ruby>でも<ruby>地方<rt>ちほう</rt></ruby>で<ruby>違<rt>ちが</rt></ruby>うんですね。<ruby>勉強<rt>べんきょう</rt></ruby>になります。<br>*(Cùng một nước mà vùng khác nhau. Em học hỏi được nhiều.)* |
+| Đại | <ruby>1<rt>ひと</rt></ruby>つの<ruby>国<rt>くに</rt></ruby>でも<ruby>地方<rt>ちほう</rt></ruby>で<ruby>違<rt>ちが</rt></ruby>うんですね。<ruby>勉強<rt>べんきょう</rt></ruby>になります。<br>*(Cùng một nước mà vùng khác nhau. Em học hỏi được nhiều.)* |
 
 ---
 
@@ -124,7 +124,7 @@ Cuối tháng 12/2024 sang đầu tháng 1/2025. Đại đã 9 tháng ở Osaka 
 | Đại | <ruby>何円<rt>なんえん</rt></ruby>がいいですか？<br>*(Bao nhiêu yên thì hợp ạ?)* |
 | Tony | <ruby>5<rt>ご</rt></ruby><ruby>円玉<rt>えんだま</rt></ruby>がええで。「ご<ruby>縁<rt>えん</rt></ruby>」って<ruby>言<rt>い</rt></ruby>って、<ruby>縁起<rt>えんぎ</rt></ruby>がええ。<br>*(Đồng 5 yên đó. Phát âm "go-en" nghe như "duyên", may mắn.)* |
 | Đại | あ、これも<ruby>言葉<rt>ことば</rt></ruby><ruby>遊<rt>あそ</rt></ruby>びですね！（<ruby>5<rt>ご</rt></ruby><ruby>円玉<rt>えんだま</rt></ruby><ruby>投<rt>な</rt></ruby>げる）<br>*(À, lại chơi chữ! Bỏ đồng 5 yên.)* |
-| Yumi | <ruby>次<rt>つぎ</rt></ruby>、<ruby>2<rt>に</rt></ruby><ruby>回<rt>かい</rt></ruby><ruby>お<rt></rt></ruby><ruby>辞儀<rt>じぎ</rt></ruby>。<ruby>深<rt>ふか</rt></ruby>く<ruby>下<rt>さ</rt></ruby>げてな。<br>*(Tiếp, cúi đầu 2 lần. Cúi sâu nhé.)* |
+| Yumi | <ruby>次<rt>つぎ</rt></ruby>、<ruby>2<rt>に</rt></ruby><ruby>回<rt>かい</rt></ruby>お<ruby>辞儀<rt>じぎ</rt></ruby>。<ruby>深<rt>ふか</rt></ruby>く<ruby>下<rt>さ</rt></ruby>げてな。<br>*(Tiếp, cúi đầu 2 lần. Cúi sâu nhé.)* |
 | Đại | （<ruby>2<rt>に</rt></ruby><ruby>回<rt>かい</rt></ruby><ruby>礼<rt>れい</rt></ruby>）<br>*(Cúi 2 lần.)* |
 | Yumi | <ruby>次<rt>つぎ</rt></ruby>、<ruby>柏手<rt>かしわで</rt></ruby><ruby>2<rt>に</rt></ruby><ruby>回<rt>かい</rt></ruby>。パンパン。<br>*(Tiếp, vỗ tay 2 lần. Pách pách.)* |
 | Đại | （パンパン）<br>*(Vỗ.)* |
@@ -178,7 +178,7 @@ Cuối tháng 12/2024 sang đầu tháng 1/2025. Đại đã 9 tháng ở Osaka 
 | Yumi | スープが<ruby>透明<rt>とうめい</rt></ruby>でええ<ruby>香<rt>かお</rt></ruby>りやね。<ruby>何<rt>なん</rt></ruby><ruby>時間<rt>じかん</rt></ruby><ruby>煮<rt>に</rt></ruby>るん？<br>*(Nước trong và thơm thật. Hầm bao lâu?)* |
 | Đại | <ruby>牛骨<rt>ぎゅうこつ</rt></ruby>を<ruby>6<rt>ろく</rt></ruby><ruby>時間<rt>じかん</rt></ruby><ruby>煮<rt>に</rt></ruby>ます。シナモンと<ruby>八角<rt>はっかく</rt></ruby>と<ruby>生姜<rt>しょうが</rt></ruby>を<ruby>入<rt>い</rt></ruby>れます。<br>*(Hầm xương bò 6 tiếng. Cho quế, hồi, gừng.)* |
 | Yumi | おせちと<ruby>同<rt>おな</rt></ruby>じで<ruby>意味<rt>いみ</rt></ruby>があるん？<br>*(Có ý nghĩa như osechi không?)* |
-| Đại | テト(<ruby>正月<rt>しょうがつ</rt></ruby>)に<ruby>家族<rt>かぞく</rt></ruby>で<ruby>食<rt>た</rt></ruby>べる<ruby>料理<rt>りょうり</rt></ruby>です。<ruby>長<rt>なが</rt></ruby>い<ruby>麺<rt>めん</rt></ruby>は<ruby>長寿<rt>ちょうじゅ</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>もあります。<br>*(Là món gia đình ăn dịp Tết. Sợi mì dài cũng có ý nghĩa trường thọ ạ.)* |
+| Đại | テト(<ruby>正月<rt>しょうがつ</rt></ruby>)に<ruby>家族<rt>かぞく</rt></ruby>で<ruby>食<rt>た</rt></ruby>べる<ruby>料理<rt>りょうり</rt></ruby>です。<ruby>長<rt>なが</rt></ruby>い<ruby>麺<rt>めん</rt></ruby>を<ruby>見<rt>み</rt></ruby>ると、ユミさんの<ruby>年越<rt>としこ</rt></ruby>しそばを<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>だ</rt></ruby>しますね。<br>*(Là món gia đình ăn dịp Tết. Nhìn sợi phở dài, cháu lại nhớ đến món mì giao thừa của cô Yumi.)* |
 | Yumi | <ruby>日本<rt>にほん</rt></ruby>の<ruby>年越<rt>としこ</rt></ruby>しそばと<ruby>似<rt>に</rt></ruby>てるな！<br>*(Giống mì giao thừa của Nhật nhỉ!)* |
 | Linh | (vào nhà, tiếng Việt) Chào anh chị, em mang nem rán đến. |
 | Tuấn | (theo sau, tiếng Việt) Em mang xôi gấc đỏ — Tết mà. |
@@ -237,7 +237,7 @@ Cuối tháng 12/2024 sang đầu tháng 1/2025. Đại đã 9 tháng ở Osaka 
 
 ## Đọng lại chương 10
 
-Tết kép — **お正月** Nhật và **Tết VN** — Đại trải qua trọn vẹn 9 mẫu hội thoại văn hoá. Bắt đầu với **大掃除** phân vai (〜を担当します) và mẹo lau chiếu **目に沿って掃く**. Tìm hiểu **おせち料理** ba tầng với 4 món ý nghĩa: **黒豆** (sức khoẻ), **数の子** (con cháu đông), **海老** (trường thọ), **伊達巻** (trí tuệ). Đêm 大晦日 nghe **除夜の鐘 108回** với khái niệm **煩悩**. Mùng 1 chào **あけましておめでとうございます・本年もよろしくお願いします**, ăn **お雑煮** kiểu Kansai miso trắng. Đi **初詣** ở **住吉大社**, học nghi thức **5円玉・2礼2拍手1礼** với chơi chữ **ご縁**. Rút **おみくじ** trúng **大吉**, mua 2 **お守り** học hành (一つお願いします). Nhận **お年玉** 10000 yên với cách đáp lễ **恐縮ですが・大切に使わせていただきます**. Cuối cùng **Tết VN 29/1**: Đại nấu phở, dạy ý nghĩa món Việt cho Yumi, Linh mang nem, Tuấn mang xôi gấc, Yumi luyện phát âm "Chúc mừng năm mới" suốt 3 tháng. Đêm video gia đình ở Hà Nội — Mai đã nhận omamori, mẹ tự hào.
+Tết kép — **お正月** Nhật và **Tết VN** — Đại trải qua trọn vẹn 9 mẫu hội thoại văn hoá. Bắt đầu với **大掃除** phân vai (〜を担当します) và mẹo lau chiếu **目に沿って掃く**. Tìm hiểu **おせち料理** ba tầng với các món ý nghĩa, trong đó hội thoại bàn 3 món: **黒豆** (sức khoẻ), **数の子** (con cháu đông), **海老** (trường thọ). Đêm 大晦日 nghe **除夜の鐘 108回** với khái niệm **煩悩**. Mùng 1 chào **あけましておめでとうございます・本年もよろしくお願いします**, ăn **お雑煮** kiểu Kansai miso trắng. Đi **初詣** ở **住吉大社**, học nghi thức **5円玉・2礼2拍手1礼** với chơi chữ **ご縁**. Rút **おみくじ** trúng **大吉**, mua 2 **お守り** học hành (一つお願いします). Nhận **お年玉** 10000 yên với cách đáp lễ **恐縮ですが・大切に使わせていただきます**. Cuối cùng **Tết VN 29/1**: Đại nấu phở, dạy ý nghĩa món Việt cho Yumi, Linh mang nem, Tuấn mang xôi gấc, Yumi luyện phát âm "Chúc mừng năm mới" suốt 3 tháng. Đêm video gia đình ở Hà Nội — Mai đã nhận omamori, mẹ tự hào.
 
 > Từ vựng & mẫu câu chương này: お正月・大掃除・役割分担・担当する・畳の目・新聞紙・おせち料理・重箱・黒豆・数の子・伊達巻・海老・お雑煮・白味噌・大晦日・紅白歌合戦・除夜の鐘・煩悩・あけましておめでとうございます・本年もよろしくお願いします・住吉大社・初詣・三が日・賽銭・5円玉・ご縁・2礼2拍手1礼・柏手・おみくじ・大吉・運勢・お守り・学業守り・お年玉・恐縮ですが・大切に使わせていただきます・テト・フォー・ガック・もち米・チュックムンナムモイ・〜にはどんな意味がありますか・〜を〜つお願いします
 

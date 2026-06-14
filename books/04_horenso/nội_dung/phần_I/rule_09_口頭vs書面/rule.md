@@ -1,6 +1,6 @@
 # Rule 09 — Báo cáo miệng vs văn bản / 口頭報告 vs 書面報告
 
-> **Luận điểm.** Cùng 1 thông tin nhưng kênh sai = báo cáo sai. **Decision matrix**: ngắn + khẩn → 口頭 (miệng/phone). Dài + cần lưu vết → 書面 (mail/báo cáo). Quan trọng + nhạy cảm → **口頭 trước, 書面 sau** (combo).
+> **Luận điểm.** Cùng 1 thông tin nhưng kênh sai = báo cáo sai. **Ma trận quyết định (decision matrix)**: ngắn + khẩn → 口頭 (miệng/phone). Dài + cần lưu vết → 書面 (mail/báo cáo). Quan trọng + nhạy cảm → **口頭 trước, 書面 sau** (kết hợp cả hai).
 >
 > 同じ情報でも channel を間違えると報告失敗。短い・緊急 → 口頭、長い・記録要 → 書面、重要・センシティブ → **口頭で第一報、書面でフォローアップ** の組み合わせ。
 >
@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Em Dũng có 3 việc cần báo trong cùng 1 ngày. Lần đầu Dũng bê hết vào mail dài 2000 chữ → chị Hương không kịp đọc tin urgent. Anh Tuấn dạy decision matrix.
+Em Dũng có 3 việc cần báo trong cùng 1 ngày. Lần đầu Dũng bê hết vào mail dài 2000 chữ → chị Hương không kịp đọc tin khẩn. Anh Tuấn dạy ma trận quyết định.
 
 ---
 
@@ -20,12 +20,16 @@ Em Dũng có 3 việc cần báo trong cùng 1 ngày. Lần đầu Dũng bê h�
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「件名：本日のご報告いろいろ」 (nội dung 2000 chữ gồm: bug critical + tiến độ tuần + đề xuất reschedule họp) |
-| **フオン** | 「ズン、**critical bug** が朝9時に発生してたって、私はメール埋もれて15時に気づきましたよ。なぜ電話してくれなかったの？」 |
-| **ズン** | 「えっと、メールに全部書いたので…」 |
-| **フオン** | 「**緊急は口頭**、進捗は書面、リスケは別メール — 用件ごとに channel を分けて。」 |
+| **ズン** | 「<ruby>件名<rt>けんめい</rt></ruby>：本日のご<ruby>報告<rt>ほうこく</rt></ruby>いろいろ」 (nội dung 2000 chữ gồm: bug critical + tiến độ tuần + đề xuất reschedule họp) |
+|  | *Tiêu đề "Báo cáo nhiều thứ hôm nay", gộp 3 việc — sự cố production, tiến độ tuần, reschedule họp — dài 2000 chữ.* |
+| **フオン** | 「ズン、**critical bug** が<ruby>朝<rt>あさ</rt></ruby>9時に<ruby>発生<rt>はっせい</rt></ruby>してたって、私はメール<ruby>埋<rt>う</rt></ruby>もれて15時に<ruby>気<rt>き</rt></ruby>づきましたよ。なぜ<ruby>電話<rt>でんわ</rt></ruby>してくれなかったの？」 |
+|  | *Dũng, bug critical xảy ra 9h sáng mà chị bị chôn trong mail, đến 15h mới thấy đó. Sao em không gọi điện?* |
+| **ズン** | 「えっと、メールに<ruby>全部<rt>ぜんぶ</rt></ruby>書いたので…」 |
+|  | *Ờ, em viết hết trong mail rồi nên...* |
+| **フオン** | 「**<ruby>緊急<rt>きんきゅう</rt></ruby>は<ruby>口頭<rt>こうとう</rt></ruby>**、<ruby>進捗<rt>しんちょく</rt></ruby>は<ruby>書面<rt>しょめん</rt></ruby>、リスケは<ruby>別<rt>べつ</rt></ruby>メール — <ruby>用件<rt>ようけん</rt></ruby>ごとに channel を分けて。」 |
+|  | *Khẩn thì gọi điện, tiến độ thì văn bản, reschedule thì mail riêng — chia kênh theo loại việc đi.* |
 
-**Vì sao xấu:** Bug critical 9h sáng → cần 口頭 ngay (phone). Lẫn vào mail dài + tiêu đề mơ hồ "いろいろ" = chị Hương phát hiện trễ 6 giờ. 1 mail = 1 chủ đề.
+**Vì sao xấu:** Bug critical 9h sáng → cần 口頭 ngay (phone). Lẫn vào mail dài + tiêu đề mơ hồ "いろいろ" = chị Hương phát hiện trễ 6 giờ. Một mail = một chủ đề.
 
 ---
 
@@ -35,24 +39,28 @@ Em Dũng có 3 việc cần báo trong cùng 1 ngày. Lần đầu Dũng bê h�
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、緊急のご報告です。本番で critical bug が発生しております【1】。詳細は今からメールも送ります。」 |
-| **フオン** | 「了解、すぐ動きます。メール待ちます。」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、<ruby>緊急<rt>きんきゅう</rt></ruby>のご<ruby>報告<rt>ほうこく</rt></ruby>です。<ruby>本番<rt>ほんばん</rt></ruby>で critical bug が<ruby>発生<rt>はっせい</rt></ruby>しております【1】。<ruby>詳細<rt>しょうさい</rt></ruby>は<ruby>今<rt>いま</rt></ruby>からメールも<ruby>送<rt>おく</rt></ruby>ります。」 |
+|  | *Chị Hương, em báo cáo khẩn cấp ạ. Production đang có bug critical. Chi tiết em gửi mail luôn ạ.* |
+| **フオン** | 「<ruby>了解<rt>りょうかい</rt></ruby>、すぐ<ruby>動<rt>うご</rt></ruby>きます。メール<ruby>待<rt>ま</rt></ruby>ちます。」 |
+|  | *Hiểu rồi, chị xử lý ngay. Đợi mail em nhé.* |
 | **ズン** | (Body theo template DDBN — không gồm bug, vì bug đã có thread riêng) |
+|  | *11h em gửi mail "[Tiến độ tuần] Phase 2 Tuần 3", 14h gửi mail "[Xin reschedule] Họp định kỳ 16h ngày mai" — 2 mail riêng ạ.* |
 | **ズン** | (1 chủ đề duy nhất, có tiêu đề rõ) |
-| **フオン** | 「3つの用件、3つの channel で分けてくれて整理しやすかった。週次は OK、リスケも承認します。」 |
+| **フオン** | 「3つの<ruby>用件<rt>ようけん</rt></ruby>、3つの channel で分けてくれて<ruby>整理<rt>せいり</rt></ruby>しやすかった。<ruby>週次<rt>しゅうじ</rt></ruby>は OK、リスケも<ruby>承認<rt>しょうにん</rt></ruby>します。」 |
+|  | *3 việc, em chia 3 kênh nên chị dễ tổng hợp. Tiến độ tuần OK, reschedule chị duyệt nhé.* |
 
 📝 **Ghi chú:**
-- 【1】**Phone trước cho urgent** — bug critical không gửi mail rồi đợi. Phone → email follow-up.
-- 1 mail = 1 chủ đề. Tiêu đề rõ ràng, không "いろいろ".
-- Bug critical sau khi 口頭 phải có 書面 follow-up (tạo audit trail).
+- 【1】**Phone trước cho việc khẩn** — bug critical không gửi mail rồi đợi. Phone → email follow-up.
+- Một mail = một chủ đề. Tiêu đề rõ ràng, không "いろいろ".
+- Bug critical sau khi 口頭 phải có 書面 follow-up (tạo lưu vết kiểm toán — audit trail).
 
 ---
 
-## Decision matrix tóm tắt
+## Ma trận quyết định (decision matrix) tóm tắt
 
-| Tình huống | Channel | Lý do |
+| Tình huống | Kênh | Lý do |
 |-----------|---------|-------|
-| Bug critical / sự cố production | **口頭 (phone) → 書面 follow** | Tốc độ + audit trail |
+| Bug critical / sự cố production | **口頭 (phone) → 書面 follow** | Tốc độ + lưu vết kiểm toán |
 | Tiến độ daily | Slack (書面 ngắn) | Lưu được, lướt nhanh |
 | Tiến độ weekly | Mail (書面) | Cần share rộng + lưu vết |
 | Đề xuất / tham vấn | **口頭 trước (15ph) → 書面 sau** | Bàn bạc dễ hơn miệng |
@@ -70,10 +78,10 @@ Em Dũng có 3 việc cần báo trong cùng 1 ngày. Lần đầu Dũng bê h�
 
 ## ⚠ Tránh
 
-- Critical info trong mail dài 2000 chữ — sếp lướt mất 6 giờ mới thấy.
+- Thông tin nghiêm trọng trong mail dài 2000 chữ — sếp lướt mất 6 giờ mới thấy.
 - Phone báo tiến độ daily — không lưu vết, sếp quên.
-- 1 mail nhiều chủ đề — sếp reply 1 chủ đề, các chủ đề kia mất.
-- "口頭で OK もらいました" mà không có 書面 follow — sau này không proof được.
+- Một mail nhiều chủ đề — sếp reply 1 chủ đề, các chủ đề kia mất.
+- "口頭で OK もらいました" mà không có 書面 follow — sau này không chứng minh được.
 
 ---
 

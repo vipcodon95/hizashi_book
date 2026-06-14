@@ -9,7 +9,11 @@
     "ja": "ズンが月末に自己診断する場面。self-bias で全A の悪い例から、Slack履歴+DRと照合した客観評価+具体的Action planの良い例へ。",
     "vi": "Em Dũng tự chấm cuối tháng. Từ pattern xấu (toàn A self-bias) → đúng (đối chiếu Slack history + DR + lập action plan cụ thể)."
   },
-  "related_rules": ["rule_12", "rule_39", "rule_40"],
+  "related_rules": [
+    "rule_12",
+    "rule_39",
+    "rule_40"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -100,7 +104,9 @@
           "sentence": "フオン副部長、再診断しました。Slack 履歴と DR を照合した結果: A 7個、B 5個、C 3個、D ゼロです。",
           "sentence_translation": "Chị Hương, em đã chấm lại. Đối chiếu Slack history + DR: A 7, B 5, C 3, D 0 ạ.",
           "tone": "neutral",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_38_good_02",
@@ -110,7 +116,9 @@
           "sentence": "C評価 3 件: ③ タイムリー報告 (Phase 2 障害で第一報1時間遅延)、⑦ 客先 tone (大垣様クレーム時の defensive)、⑪ 複数案持参 (Redis 追加で1案提案で叱られた件)。",
           "sentence_translation": "[C 3 cái] [3] Báo cáo kịp thời (Phase 2 sự cố em chậm 1 giờ) / [7] Giọng với khách (phòng thủ lúc anh Ōgaki phàn nàn) / [11] Mang nhiều phương án (vụ Redis em đề xuất 1 option bị anh Tuấn nhắc).",
           "tone": "neutral",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_38_good_03",
@@ -129,7 +137,9 @@
           "sentence": "Action plan: ③ → rule 31 SLA を Slack pinned で常時可視, ⑦ → rule 32 4ステップを暗記、機械的に運用, ⑪ → 相談前に最低3案 + matrix を必須化。5月末に再診断、C 1 件以下を目標とします。",
           "sentence_translation": "[Action plan] [3] → pin SLA rule 31 lên Slack để luôn nhìn thấy / [7] → thuộc 4 bước rule 32, áp dụng cơ học / [11] → bắt buộc 3 option + matrix trước khi tham vấn. Cuối tháng 5 chấm lại, target C ≤1 ạ.",
           "tone": "neutral",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_38_good_05",
@@ -160,12 +170,12 @@
       "skill": "場面把握",
       "question_ja": "Hou-Ren-Sou 月末自己診断で C-D 評価がゼロだった場合、最も適切な対応は?",
       "options": [
-        "完璧なので何もしない",
-        "全Aを上司に報告して褒められる",
         "Slack履歴・DR・客先メールと照合して再診断",
-        "翌月から診断頻度を半年に1回に下げる"
+        "完璧なので何もしない",
+        "翌月から診断頻度を半年に1回に下げる",
+        "全Aを上司に報告して褒められる"
       ],
-      "correct": "C",
+      "correct": "A",
       "explanation": {
         "ja": "C-Dゼロは self-bias の典型サイン。客観 evidence (Slack/DR/客先) と照合して recalibrate するのが正解。",
         "vi": "C-D 0 là dấu hiệu điển hình self-bias. Đối chiếu evidence khách quan (Slack/DR/khách) để recalibrate là đúng."

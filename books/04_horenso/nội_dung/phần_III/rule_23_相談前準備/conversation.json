@@ -9,7 +9,11 @@
     "ja": "リン（マーケティングインターン）が印刷会社の納期遅れについてズンに相談する場面。手ぶらの丸投げから、5W1H・参考事例・自分の仮説の3点セットへ。",
     "vi": "Em Linh (intern Marketing) tham vấn anh Dũng về việc nhà in báo trễ. Từ đến tay không (đẩy hết) → mang đủ bộ 3: 5W1H + 3 case tham chiếu + giả thuyết của bản thân."
   },
-  "related_rules": ["rule_22", "rule_24", "rule_25"],
+  "related_rules": [
+    "rule_22",
+    "rule_24",
+    "rule_25"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -107,7 +111,9 @@
           "sentence": "ズンさん、ご相談したいことがあるのですが、5分ほどお時間よろしいでしょうか?事前に状況・参考事例・仮説をまとめてあります。",
           "sentence_translation": "Anh Dũng, em có việc muốn tham vấn, anh cho em 5 phút được không ạ? Em đã chuẩn bị sẵn tình huống, case tham chiếu và giả thuyết ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_23_good_02",
@@ -126,7 +132,9 @@
           "sentence": "①状況: 4/22 16時、印刷会社A社から電話。Phase2 ローンチ用ブロシュア500部、4/25納品予定が4/28に変更。理由は『紙の供給遅れ』。",
           "sentence_translation": "[Tình huống] 16h ngày 22/4, nhà in A gọi điện. 500 bản brochure dùng cho launch Phase 2, lịch giao 25/4 đổi thành 28/4. Lý do 'thiếu giấy'.",
           "tone": "neutral",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_23_good_04",
@@ -136,7 +144,9 @@
           "sentence": "②参考事例: (a) 昨年 Marketing チームで類似ケース — B社で代替印刷、コスト+10%。(b) 社内 Wiki で印刷会社リスト3社確認。(c) C社・D社にも電話済、C社は4/26納品可能・コスト同等、D社は4/24納品可能・コスト+15%。",
           "sentence_translation": "[Case tham chiếu] (a) Năm ngoái team Marketing đã gặp tương tự — đổi sang nhà B, cost +10%. (b) Wiki nội bộ có list 3 nhà in. (c) Em đã gọi C và D: C giao 26/4 cost tương đương, D giao 24/4 cost +15%.",
           "tone": "neutral",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_23_good_05",
@@ -146,7 +156,9 @@
           "sentence": "③仮説: C社で代替するのが最適と考えております。理由は納品遅れが1日のみ + コスト同等のためです。ただし契約変更の権限が私にないため、ご判断をお願いいたします。",
           "sentence_translation": "[Giả thuyết] Em nghĩ chuyển sang nhà C là tốt nhất. Lý do: chỉ trễ 1 ngày + cost tương đương. Nhưng em không có quyền đổi hợp đồng, nhờ anh quyết ạ.",
           "tone": "formal",
-          "annotation_ids": ["4"]
+          "annotation_ids": [
+            "4"
+          ]
         },
         {
           "line_id": "rule_23_good_06",
@@ -186,9 +198,9 @@
       "question_ja": "上司に相談する前に必ず揃えるべき3点は?",
       "options": [
         "5W1H・参考事例・自分の仮説",
+        "メールテンプレート・カレンダー・タスクリスト",
         "上司の好み・天気・自分の予定",
-        "他社の情報・自分の希望・予算",
-        "メールテンプレート・カレンダー・タスクリスト"
+        "他社の情報・自分の希望・予算"
       ],
       "correct": "A",
       "explanation": {

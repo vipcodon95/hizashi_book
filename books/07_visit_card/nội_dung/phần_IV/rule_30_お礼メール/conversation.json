@@ -9,7 +9,11 @@
     "ja": "Q1接待ディナー翌朝 8:30、ズンが大垣・松本・中村CFO・田中PMOへ24時間以内のお礼メールを送る。ハーCTOがレビューする場面。",
     "vi": "Sáng sau dinner Q1 lúc 8:30. Dũng gửi thank-you mail trong 24h tới Ōgaki, Matsumoto, CFO Nakamura, Tanaka PMO. Hà CTO review trước khi gửi."
   },
-  "related_rules": ["rule_24", "rule_25", "rule_28"],
+  "related_rules": [
+    "rule_24",
+    "rule_25",
+    "rule_28"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -114,7 +118,11 @@
           "sentence_translation": "Em định gửi 8h sáng nay. To = anh Nakamura / anh Ōgaki / anh Matsumoto / anh Tanaka — 4 mail riêng từng người. CC = anh Hà CTO + chị Hương phó phòng. Mỗi mail em trích 1-2 dòng về wagyu hôm qua + chuyện leo núi của anh Matsumoto.",
           "tone": "formal",
           "speed_multiplier": 0.92,
-          "annotation_ids": ["1", "2", "3"]
+          "annotation_ids": [
+            "1",
+            "2",
+            "3"
+          ]
         },
         {
           "line_id": "rule_30_good_03",
@@ -133,7 +141,9 @@
           "sentence": "はい、『次回はぜひ当方からも東京へお伺いし、5月のお花見の頃に改めて』と入れています。",
           "sentence_translation": "Vâng, em viết 'lần sau em xin đến thăm Tokyo, khoảng tháng 5 mùa hoa anh đào sẽ liên hệ lại ạ'.",
           "tone": "formal",
-          "annotation_ids": ["4"]
+          "annotation_ids": [
+            "4"
+          ]
         },
         {
           "line_id": "rule_30_good_05",
@@ -172,12 +182,12 @@
       "skill": "場面把握",
       "question_ja": "接待ディナー後のお礼メールで最も適切なのは？",
       "options": [
-        "3日後にBCC一括で短文送信",
         "翌朝24h以内、To個別+CC上司、具体的話題引用、次回約束を含む",
         "送らない (口頭でお礼済)",
+        "3日後にBCC一括で短文送信",
         "1週間後に詳細な議事録のみ"
       ],
-      "correct": "B",
+      "correct": "A",
       "explanation": {
         "ja": "24h以内 + 個別To + CC上司 + 具体話題引用 + 次回約束 が黄金パターン。",
         "vi": "Trong 24h + To riêng + CC sếp + trích chủ đề cụ thể + hẹn lần sau = công thức vàng."

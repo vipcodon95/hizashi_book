@@ -9,7 +9,11 @@
     "ja": "ズンが本論で3点を述べる場面。マーカーなしの連続話 vs 『〇点宣言→まず／次に／最後に→この〇点で』の3層マーカーを比較。",
     "vi": "Body pitch — 3 luận cứ. So sánh: nói liền không marker vs cấu trúc 3 lớp 「tuyên bố số → đầu tiên/tiếp theo/cuối cùng → với 〇 điểm này」."
   },
-  "related_rules": ["rule_03", "rule_10", "rule_15"],
+  "related_rules": [
+    "rule_03",
+    "rule_10",
+    "rule_15"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -96,7 +100,10 @@
           "sentence": "Phase 3 では3点を実装いたします。まず1点目、在庫管理ロジックを高度化。次に2点目、リアルタイム同期。最後の3点目、アラート機構。この3点で、再発を予防いたします。",
           "sentence_translation": "Phase 3 sẽ implement 3 điểm ạ. Đầu tiên điểm 1, nâng cấp logic quản lý kho. Tiếp theo điểm 2, đồng bộ realtime. Cuối cùng điểm 3, cơ chế alert. Với 3 điểm này, em sẽ phòng ngừa tái phát ạ.",
           "tone": "formal",
-          "annotation_ids": ["1", "2"]
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
         },
         {
           "line_id": "rule_14_good_02",
@@ -115,7 +122,9 @@
           "sentence": "はい、続いてスケジュールと投資回収にまいります。",
           "sentence_translation": "Vâng, em xin chuyển sang phần schedule và hoàn vốn ạ.",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_14_good_04",
@@ -154,12 +163,12 @@
       "skill": "表現読解",
       "question_ja": "本論で3点を述べる際、最も論理的に明確な表現は？",
       "options": [
-        "〇〇します。〇〇します。〇〇します",
         "3点ございます。まず1点目〇〇、次に2点目〇〇、最後の3点目〇〇",
-        "色々あります",
-        "そして〇〇、そして〇〇、そして〇〇"
+        "そして〇〇、そして〇〇、そして〇〇",
+        "〇〇します。〇〇します。〇〇します",
+        "色々あります"
       ],
-      "correct": "B",
+      "correct": "A",
       "explanation": {
         "ja": "N点宣言→まず／次に／最後にの3層マーカーが論理を明確にする。",
         "vi": "Cấu trúc 3 lớp 「tuyên bố N điểm → đầu tiên / tiếp theo / cuối cùng」 làm rõ logic."

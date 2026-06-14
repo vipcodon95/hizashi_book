@@ -1,6 +1,6 @@
 # Rule 28 — Khi mình là người được tham vấn / 相談を受ける側
 
-> **Luận điểm.** Khi junior tham vấn, **đừng đáp án ngay**. Pattern coaching đúng: **(1) Lặp lại tóm tắt vấn đề (active listening), (2) Hỏi 仮説 của junior trước, (3) Bồi axis junior chưa nghĩ tới, (4) Để junior tự kết luận, (5) Confirm decision + ghi DR**. Trả lời thẳng = junior không học, lần sau lại tham vấn cùng vấn đề.
+> **Luận điểm.** Khi junior tham vấn, **đừng đáp án ngay**. Công thức coaching đúng: **(1) Lặp lại tóm tắt vấn đề (active listening), (2) Hỏi 仮説 (giả thuyết) của junior trước, (3) Bồi axis junior chưa nghĩ tới, (4) Để junior tự kết luận, (5) Xác nhận quyết định + ghi DR**. Trả lời thẳng = junior không học, lần sau lại tham vấn cùng vấn đề.
 >
 > 相談を受ける時：①要約復唱→②相談者の仮説確認→③欠けている観点を1つ追加→④決定は相談者に下させる→⑤DR化。即答はコーチング失敗。
 >
@@ -20,13 +20,18 @@ Em Linh tham vấn anh Dũng về việc chọn template email cho khách Nhật
 
 | Vai | Câu |
 |---------|-----|
-| **リン** | 「ズンさん、Phase 2 の挨拶メール、テンプレ A と B どっちがいいですか?」 |
+| **リン** | 「ズンさん、Phase 2 の<ruby>挨拶<rt>あいさつ</rt></ruby>メール、テンプレ A と B どっちがいいですか?」 |
+|  | *Anh Dũng, mail chào Phase 2, template A hay B hơn ạ?* |
 | **ズン** | 「B にして。」 |
+|  | *Em dùng B đi.* |
 | **リン** | 「分かりました!」 |
-|  | 「Phase 3 の挨拶メールも、A と B どっちですか?」 |
-| **ズン** | 「あ、僕がただ答えるだけだと、Linh が判断軸を学べないんだ。次から coaching mode で受けないと…」 |
+|  | *Em hiểu rồi ạ!* |
+|  | 「Phase 3 の<ruby>挨拶<rt>あいさつ</rt></ruby>メールも、A と B どっちですか?」 |
+|  | *(2 tuần sau) Mail chào Phase 3 nữa, A hay B ạ?* |
+| **ズン** | 「あ、<ruby>僕<rt>ぼく</rt></ruby>がただ<ruby>答<rt>こた</rt></ruby>えるだけだと、Linh が<ruby>判断軸<rt>はんだんじく</rt></ruby>を<ruby>学<rt>まな</rt></ruby>べないんだ。次から coaching mode で<ruby>受<rt>う</rt></ruby>けないと…」 |
+|  | *À, nếu mình cứ trả lời thẳng thế thì Linh không học được axis. Từ lần sau phải nhận tham vấn theo trạng thái coaching mới được...* |
 
-**Vì sao xấu:** L2 trả lời 1 từ → Linh không hiểu **tại sao** B. L4 lần sau lại tham vấn cùng kiểu = không grow. Coaching = teach how to fish, không phải give fish.
+**Vì sao xấu:** L2 trả lời 1 từ → Linh không hiểu **tại sao** B. L4 lần sau lại tham vấn cùng kiểu = không trưởng thành. Coaching = dạy cách câu cá, không phải đưa con cá.
 
 ---
 
@@ -34,19 +39,26 @@ Em Linh tham vấn anh Dũng về việc chọn template email cho khách Nhật
 
 | Vai | Câu |
 |---------|-----|
-| **リン** | 「ズンさん、Phase 2 の挨拶メール、テンプレ A と B どっちがいいですか?」 |
-| **ズン** | 「**①要約: AとBで迷っているということだね**【1】。**②リン自身の仮説**は?どっちに寄ってる、その理由は?」 |
-| **リン** | 「えっと、A はフォーマル度が高くて、B は親しみやすい感じです…松本様は5回目の取引なので…B 寄りかな…」 |
-| **ズン** | 「**③観点を追加すると、『Phase 2 はキックオフ局面』**で、新規スコープへの真剣さも示したい。その軸を入れると?」 |
-| **リン** | 「あ、なるほど…キックオフだとフォーマルさも残したい…**A をベースに、最後の1段落だけ親しみやすい表現に変える**のがいいかも【2】。」 |
-| **ズン** | 「**④良い結論。それで進めて**【3】。**⑤Decision Register に1行残しておいて**: 論点・検討案・採用・理由・観点【4】。来週レビューするね。」 |
-| **リン** | 「ありがとうございます!次回からこの観点で自分で判断できそうです!」 |
+| **リン** | 「ズンさん、Phase 2 の<ruby>挨拶<rt>あいさつ</rt></ruby>メール、テンプレ A と B どっちがいいですか?」 |
+|  | *Anh Dũng, mail chào Phase 2, template A hay B hơn ạ?* |
+| **ズン** | 「**①<ruby>要約<rt>ようやく</rt></ruby>: AとBで<ruby>迷<rt>まよ</rt></ruby>っているということだね**【1】。**②リン<ruby>自身<rt>じしん</rt></ruby>の<ruby>仮説<rt>かせつ</rt></ruby>**は?どっちに<ruby>寄<rt>よ</rt></ruby>ってる、その<ruby>理由<rt>りゆう</rt></ruby>は?」 |
+|  | *[Tóm tắt] Em đang phân vân giữa A và B đúng không. [Giả thuyết của Linh] Em nghiêng cái nào, lý do gì?* |
+| **リン** | 「えっと、A はフォーマル<ruby>度<rt>ど</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くて、B は<ruby>親<rt>した</rt></ruby>しみやすい<ruby>感<rt>かん</rt></ruby>じです…<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>は5<ruby>回目<rt>かいめ</rt></ruby>の<ruby>取引<rt>とりひき</rt></ruby>なので…B 寄りかな…」 |
+|  | *Ờ, A formal cao, B thân thiện hơn... anh Matsumoto đã hợp tác lần thứ 5 rồi... em nghiêng B...* |
+| **ズン** | 「**③<ruby>観点<rt>かんてん</rt></ruby>を<ruby>追加<rt>ついか</rt></ruby>すると、『Phase 2 はキックオフ<ruby>局面<rt>きょくめん</rt></ruby>』**で、<ruby>新規<rt>しんき</rt></ruby>スコープへの<ruby>真剣<rt>しんけん</rt></ruby>さも<ruby>示<rt>しめ</rt></ruby>したい。その<ruby>軸<rt>じく</rt></ruby>を<ruby>入<rt>い</rt></ruby>れると?」 |
+|  | *[Thêm axis] Phase 2 là giai đoạn kickoff, mình cũng muốn cho thấy sự nghiêm túc với scope mới. Đưa axis đó vào thì sao?* |
+| **リン** | 「あ、なるほど…キックオフだとフォーマルさも<ruby>残<rt>のこ</rt></ruby>したい…**A をベースに、<ruby>最後<rt>さいご</rt></ruby>の1<ruby>段落<rt>だんらく</rt></ruby>だけ<ruby>親<rt>した</rt></ruby>しみやすい<ruby>表現<rt>ひょうげん</rt></ruby>に<ruby>変<rt>か</rt></ruby>える**のがいいかも【2】。」 |
+|  | *À đúng rồi... kickoff thì cũng muốn giữ formal... Em nghĩ lấy A làm gốc, đoạn cuối đổi sang phong cách thân thiện thôi ạ.* |
+| **ズン** | 「**④<ruby>良<rt>よ</rt></ruby>い<ruby>結論<rt>けつろん</rt></ruby>。それで<ruby>進<rt>すす</rt></ruby>めて**【3】。**⑤Decision Register に1<ruby>行<rt>ぎょう</rt></ruby><ruby>残<rt>のこ</rt></ruby>しておいて**: <ruby>論点<rt>ろんてん</rt></ruby>・<ruby>検討案<rt>けんとうあん</rt></ruby>・<ruby>採用<rt>さいよう</rt></ruby>・<ruby>理由<rt>りゆう</rt></ruby>・<ruby>観点<rt>かんてん</rt></ruby>【4】。<ruby>来週<rt>らいしゅう</rt></ruby>レビューするね。」 |
+|  | *[Kết luận tốt] Em đi theo đó. [DR] Lưu 1 dòng vào Decision Register: luận điểm / options / chọn / lý do / axis. Tuần sau anh xem lại nhé.* |
+| **リン** | 「ありがとうございます!<ruby>次回<rt>じかい</rt></ruby>からこの観点で<ruby>自分<rt>じぶん</rt></ruby>で<ruby>判断<rt>はんだん</rt></ruby>できそうです!」 |
+|  | *Em cảm ơn anh! Lần sau với axis này em tự quyết được rồi ạ!* |
 
 📝 **Ghi chú:**
-- 【1】**「①要約復唱」** — active listening. Show "anh đang lắng nghe" + bắt buộc Linh confirm.
-- 【2】**「Aをベースに最後だけB」** — Linh tự nghĩ ra solution. Đây mới là điểm grow.
-- 【3】**「それで進めて」** — Dũng confirm nhưng không "thay quyết". Decision do Linh take.
-- 【4】**「DRに1行」** — đóng bằng learning artifact. Lần sau Linh có thể tham chiếu.
+- 【1】**「①要約復唱」** — active listening. Cho thấy "anh đang lắng nghe" + bắt buộc Linh xác nhận lại.
+- 【2】**「Aをベースに最後だけB」** — Linh tự nghĩ ra giải pháp. Đây mới là điểm giúp em trưởng thành.
+- 【3】**「それで進めて」** — Dũng duyệt nhưng không "thay quyết". Quyết định để Linh tự đưa ra.
+- 【4】**「DRに1行」** — đóng lại bằng tài sản học tập. Lần sau Linh có thể tham chiếu.
 
 ---
 
@@ -71,9 +83,9 @@ Em Linh tham vấn anh Dũng về việc chọn template email cho khách Nhật
 ## ⚠ Tránh
 
 - 即答 1 từ kiểu 「Bにして」 — junior không học axis.
-- Đảo lại quá phũ kiểu 「自分で考えて」 → junior shut down + lần sau không tham vấn.
+- Đảo lại quá phũ kiểu 「自分で考えて」 → junior co cụm lại + lần sau không tham vấn.
 - Cầm tay ép kiểu 「これしかない」 — không cho junior cơ hội nghĩ.
-- Bỏ ⑤ DR化 → tri thức bay theo gió, lần sau lại tham vấn lại cùng pattern.
+- Bỏ ⑤ DR化 → tri thức bay theo gió, lần sau lại tham vấn cùng vấn đề.
 
 ---
 

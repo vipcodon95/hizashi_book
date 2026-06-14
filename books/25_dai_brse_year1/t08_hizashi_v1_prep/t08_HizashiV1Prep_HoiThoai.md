@@ -87,7 +87,7 @@ Tháng 10-11 năm 2030. 1/10 Đại bắt đầu vai trò Business Development B
 
 ---
 
-## Tình huống 7 — LINE Itou-san TechCrunch JP · Thứ Tư 30/10, chuẩn bị phỏng vấn
+## Tình huống 7 — LINE Sato-san TechCrunch JP · Thứ Tư 30/10, chuẩn bị phỏng vấn
 
 | Vai | Lời thoại |
 |---|---|
@@ -167,7 +167,7 @@ Tháng 10-11 năm 2030. 1/10 Đại bắt đầu vai trò Business Development B
 | Mai | (tiếng Việt, cười) Hai bố con ngoan. Đi cẩn thận nhé. |
 | (Đến cửa nhà trẻ Senri Hoikuen) | |
 | Cô Sasaki | おはようございます、ハナちゃん！<ruby>今日<rt>きょう</rt></ruby>もお<ruby>父<rt>とう</rt></ruby>さんと<ruby>一緒<rt>いっしょ</rt></ruby>ですね。<br>*(Chào sáng Hana! Hôm nay lại cùng bố nhỉ.)* |
-| Đại | <ruby>佐々木<rt>ささき</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>、おはようございます。<ruby>本日<rt>ほんじつ</rt></ruby>もお<ruby>世話<rt>せわ</rt></ruby>になります。<br>*(Cô Sasaki, chào buổi sáng. Hôm nay lại nhờ cô.)* |
+| Đại | <ruby>山田<rt>やまだ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>、おはようございます。<ruby>本日<rt>ほんじつ</rt></ruby>もお<ruby>世話<rt>せわ</rt></ruby>になります。<br>*(Cô Yamada, chào buổi sáng. Hôm nay lại nhờ cô.)* |
 | Cô Sasaki | <ruby>父<rt>ちち</rt></ruby><ruby>送<rt>おく</rt></ruby>りが<ruby>増<rt>ふ</rt></ruby>えてハナちゃんも<ruby>嬉<rt>うれ</rt></ruby>しそうですね。<br>*(Bố đưa nhiều hơn, Hana có vẻ vui hẳn lên.)* |
 | Đại | <ruby>恐縮<rt>きょうしゅく</rt></ruby>でございます。<ruby>火曜<rt>かよう</rt></ruby>と<ruby>木曜<rt>もくよう</rt></ruby>は<ruby>私<rt>わたくし</rt></ruby>が<ruby>送迎<rt>そうげい</rt></ruby>を<ruby>担当<rt>たんとう</rt></ruby>しております。<br>*(Em không dám nhận. Thứ Ba và thứ Năm em phụ trách đưa đón ạ.)* |
 | Cô Sasaki | <ruby>素晴<rt>すば</rt></ruby>らしいですね。<ruby>共働<rt>ともばたら</rt></ruby>きでも<ruby>役割分担<rt>やくわりぶんたん</rt></ruby>が<ruby>素敵<rt>すてき</rt></ruby>です。<br>*(Tuyệt quá. Vợ chồng cùng đi làm mà chia vai trò đẹp ghê.)* |
@@ -181,7 +181,7 @@ Tháng 10-11 năm 2030. 1/10 Đại bắt đầu vai trò Business Development B
 
 | Vai | Lời thoại |
 |---|---|
-| Đại | (gọi Mai, tiếng Việt) Em ơi, đã giao Hana cho cô Sasaki. Con chào bố bye bye rất ngoan. |
+| Đại | (gọi Mai, tiếng Việt) Em ơi, đã giao Hana cho cô Yamada. Con chào bố bye bye rất ngoan. |
 | Mai | (tiếng Việt) Cảm ơn anh. Cô Sasaki có nói gì không? |
 | Đại | (tiếng Việt) Cô khen mình "vợ chồng cùng đi làm mà chia vai trò đẹp" — em nghe có tự hào không? |
 | Mai | (tiếng Việt, cười) Tự hào chứ. Cảm ơn anh giữ lời. Một tháng rồi anh đưa con đi liên tục. |
@@ -194,7 +194,7 @@ Tháng 10-11 năm 2030. 1/10 Đại bắt đầu vai trò Business Development B
 
 ## Đọng lại chương 8
 
-Đại trải qua 6 tuần chuẩn bị ra mắt Hizashi v1.0 song song với vai trò BD BrSE 3 ngày/tuần tại Thanh A. Ngày đầu vai trò mới dùng **「本日より新たな役職でお世話になります」** + cúi chào. Soạn email mời hợp tác influencer JP với cấu trúc 5 phần: greeting + giới thiệu + lý do chọn → đề xuất cụ thể → chốt **「ご検討のほど、何卒よろしくお願い申し上げます」**. Trao đổi với phóng viên TechCrunch JP qua LINE keigo **「お世話になっております」**. Buổi phỏng vấn 60 phút tại WeWork Umeda với Sato-san — Đại kể câu chuyện sáng lập bằng JP business chuẩn **「身をもって体験いたしました」**. Stripe payment go-live với 4 webhook, soft launch nội bộ 50 người tỉ lệ chuyển đổi 47% — MRR ¥343k → ¥365k. Cảnh đẹp nhất: sáng thứ Năm Đại đưa Hana đi nhà trẻ — cô Sasaki khen "vợ chồng chia vai trò đẹp" → Đại đáp **「妻のおかげでございます」**. Chủ Nhật 10/11 23:00 hoàn tất bảng kiểm D-day với cú đẩy lớn: kiểm thử tải 10k đồng thời + p95 320ms, 5 influencer đã chốt, TechCrunch đã đặt lịch.
+Đại trải qua 6 tuần chuẩn bị ra mắt Hizashi v1.0 song song với vai trò BD BrSE 3 ngày/tuần tại Thanh A. Ngày đầu vai trò mới dùng **「本日より新たな役職でお世話になります」** + cúi chào. Soạn email mời hợp tác influencer JP với cấu trúc 5 phần: greeting + giới thiệu + lý do chọn → đề xuất cụ thể → chốt **「ご検討のほど、何卒よろしくお願い申し上げます」**. Trao đổi với phóng viên TechCrunch JP qua LINE keigo **「お世話になっております」**. Buổi phỏng vấn 60 phút tại WeWork Umeda với Sato-san — Đại kể câu chuyện sáng lập bằng JP business chuẩn **「身をもって体験いたしました」**. Stripe payment go-live với 4 webhook, soft launch nội bộ 50 người tỉ lệ chuyển đổi 47% — MRR ¥343k → ¥365k. Cảnh đẹp nhất: sáng thứ Năm Đại đưa Hana đi nhà trẻ — cô Yamada khen "vợ chồng chia vai trò đẹp" → Đại đáp **「妻のおかげでございます」**. Chủ Nhật 10/11 23:00 hoàn tất bảng kiểm D-day với cú đẩy lớn: kiểm thử tải 10k đồng thời + p95 320ms, 5 influencer đã chốt, TechCrunch đã đặt lịch.
 
 > Từ vựng & mẫu câu chương này: ローンチ・ProductHunt・プレスリリース・インフルエンサー・スポンサーシップ・ランディングページ・コンバージョン・A/Bテスト・Stripe・Webhook・ストレステスト・ソフトローンチ・メディアキット・プレゼン資料・ご検討のほど何卒よろしくお願い申し上げます・お世話になっております・身をもって体験いたしました・〜していただけませんでしょうか・ご承諾いただき誠にありがとうございます・引き続きよろしくお願いいたします・妻のおかげでございます・送迎・共働き・役割分担
 

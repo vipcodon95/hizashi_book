@@ -65,12 +65,16 @@ Tháng 6/2026, đoàn 大垣 + 松本 + 中村 (3 người 白鷗) đến HCMC v
 
 *15:00 chiều ngày trước event*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **リン** | 「ズン先輩、明日の名刺、財布の中に5枚ぐらい入れておけば大丈夫ですよね？」 |
-| **ズン** | 「えっ、財布？それから5枚？大垣さん・松本様・中村CFO 3人 + 通訳 + 我々 4人 + buffer = 最低 14枚必要だよ。それと、財布じゃなくて専用ケース。**今すぐ印刷部屋へ**。」 |
-| **リン** | 「あっ、すみません！printer も…えっと、英語面ありませんでした…」 |
-| **ズン** | 「明朝までに JP 面 + EN 面のレイアウトで 50枚印刷して。**専用ケース**は受付に予備があるはず。」 |
+| **リン** | 「ズン先輩、明日の<ruby>名刺<rt>めいし</rt></ruby>、<ruby>財布<rt>さいふ</rt></ruby>の中に5枚ぐらい入れておけば大丈夫ですよね？」 |
+|  | *Anh Dũng, danh thiếp mai để 5 tờ trong ví là được phải không ạ?* |
+| **ズン** | 「えっ、<ruby>財布<rt>さいふ</rt></ruby>？それから5枚？<ruby>大垣<rt>おおがき</rt></ruby>さん・<ruby>松本<rt>まつもと</rt></ruby>様・<ruby>中村<rt>なかむら</rt></ruby>CFO 3人 + <ruby>通訳<rt>つうやく</rt></ruby> + <ruby>我々<rt>われわれ</rt></ruby> 4人 + buffer = <ruby>最低<rt>さいてい</rt></ruby> 14枚<ruby>必要<rt>ひつよう</rt></ruby>だよ。それと、<ruby>財布<rt>さいふ</rt></ruby>じゃなくて<ruby>専用<rt>せんよう</rt></ruby>ケース。**今すぐ<ruby>印刷<rt>いんさつ</rt></ruby>部屋へ**。」 |
+|  | *Hả, ví? Mới 5 tờ? Anh Ōgaki, anh Matsumoto, anh Nakamura CFO = 3 người, thêm thông dịch, bên mình 4 người, cộng dự phòng = tối thiểu 14 tờ. Với lại không phải ví, phải là hộp riêng. Em qua phòng in ngay.* |
+| **リン** | 「あっ、すみません！printer も…えっと、<ruby>英語<rt>えいご</rt></ruby>面ありませんでした…」 |
+|  | *Ơ, em xin lỗi! printer cũng... ờ, mặt tiếng Anh em chưa có ạ...* |
+| **ズン** | 「<ruby>明朝<rt>みょうちょう</rt></ruby>までに JP 面 + EN 面のレイアウトで 50枚<ruby>印刷<rt>いんさつ</rt></ruby>して。**<ruby>専用<rt>せんよう</rt></ruby>ケース**は<ruby>受付<rt>うけつけ</rt></ruby>に<ruby>予備<rt>よび</rt></ruby>があるはず。」 |
+|  | *Sáng mai trước 8h em phải in xong 50 tờ với layout JP + EN. Hộp danh thiếp ở lễ tân có dự phòng.* |
 
 **Vì sao xấu:** Linh nghĩ danh thiếp = "nhân vật phụ", chuẩn bị qua loa. Nhật coi danh thiếp = đại diện công ty + cá nhân. Vào cuộc gặp với 5 tờ trong ví = lộ ngay junior chưa được train.
 
@@ -80,17 +84,21 @@ Tháng 6/2026, đoàn 大垣 + 松本 + 中村 (3 người 白鷗) đến HCMC v
 
 *15:00 chiều ngày trước event*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **リン** | 「ズン先輩、明日の名刺準備の **4条件チェック**完了しました【1】。」 |
+| **リン** | 「ズン先輩、明日の<ruby>名刺<rt>めいし</rt></ruby><ruby>準備<rt>じゅんび</rt></ruby>の **4<ruby>条件<rt>じょうけん</rt></ruby>チェック**完了しました【1】。」 |
+|  | *Anh Dũng, em đã check xong 4 điều kiện chuẩn bị danh thiếp cho mai ạ.* |
 | **ズン** | 「いいね、見せて。」 |
-| **リン** | 「① 専用ケース: 名刺入れ持参済 ② 両面 JP/EN: 印刷完了 (見本写真) ③ 数: 14枚 + buffer 6枚 = 20枚【2】 ④ 誤字チェック: トゥアン先輩にダブルチェック済【3】。」 |
-| **ズン** | 「完璧。明日朝 8:30 全員集合、名刺確認 → ロビー 9:15 待機 → 9:30 大垣ご一行到着。」 |
+|  | *Tốt, em đưa anh xem.* |
+| **リン** | 「① <ruby>専用<rt>せんよう</rt></ruby>ケース: <ruby>名刺入<rt>めいしい</rt></ruby>れ<ruby>持参済<rt>じさんずみ</rt></ruby> ② <ruby>両面<rt>りょうめん</rt></ruby> JP/EN: <ruby>印刷<rt>いんさつ</rt></ruby>完了 (<ruby>見本写真<rt>みほんしゃしん</rt></ruby>) ③ 数: 14枚 + buffer 6枚 = 20枚【2】 ④ <ruby>誤字<rt>ごじ</rt></ruby>チェック: トゥアン先輩に<ruby>ダブルチェック済<rt>ダブルチェックずみ</rt></ruby>【3】。」 |
+|  | *① Hộp riêng: hộp danh thiếp đã có. ② 2 mặt JP/EN: đã in (ảnh mẫu đính kèm). ③ Số lượng: 14 + dự phòng 6 = 20 tờ. ④ Check typo: anh Tuấn kiểm tra lại rồi ạ.* |
+| **ズン** | 「完璧。明日朝 8:30 全員<ruby>集合<rt>しゅうごう</rt></ruby>、<ruby>名刺<rt>めいし</rt></ruby><ruby>確認<rt>かくにん</rt></ruby> → ロビー 9:15 <ruby>待機<rt>たいき</rt></ruby> → 9:30 <ruby>大垣<rt>おおがき</rt></ruby><ruby>ご一行<rt>ごいっこう</rt></ruby><ruby>到着<rt>とうちゃく</rt></ruby>。」 |
+|  | *Tuyệt. Mai 8:30 tập hợp, check danh thiếp → 9:15 lobby chờ → 9:30 đoàn anh Ōgaki đến.* |
 
 📝 **Ghi chú:**
-- 【1】**「4条件チェック」** — name card check trước event tối thiểu chiều hôm trước. Sáng cùng ngày = quá muộn nếu cần in lại.
-- 【2】**人数×2倍 + buffer** — phòng trường hợp khách dẫn theo người chưa biết (interpreter/đồng nghiệp). 6枚 buffer = 1 lần exchange-fail mà không panic.
-- 【3】**誤字チェック senior** — Tuấn (tech lead) kiểm tra lại. Một typo = nhớ mãi cả đời.
+- 【1】**「4条件チェック」** — kiểm tra danh thiếp trước sự kiện, tối thiểu từ chiều hôm trước. Sáng cùng ngày = quá muộn nếu cần in lại.
+- 【2】**人数×2倍 + buffer** — phòng trường hợp khách dẫn theo người chưa biết (thông dịch/đồng nghiệp). 6枚 buffer = 1 lần trao hụt mà không hốt hoảng.
+- 【3】**誤字チェック senior** — Tuấn (trưởng nhóm kỹ thuật) kiểm tra hai lượt. Một lỗi chính tả = nhớ mãi cả đời.
 
 ---
 
@@ -106,8 +114,8 @@ Tháng 6/2026, đoàn 大垣 + 松本 + 中村 (3 người 白鷗) đến HCMC v
 
 - Để danh thiếp trong **ví** → khi rút ra bị nhăn / mặt bẩn = mất face
 - In **chỉ 1 mặt JP** hoặc **chỉ EN** → khách Nhật cấp cao có thể không đọc được mặt còn lại
-- **Số lượng tính sát** (vừa đủ người mình thấy) → khách dẫn thêm interpreter / executive surprise = không đủ
-- Để **typo** trong tên / chức vụ / công ty → khách Nhật imprint ngay, sửa lần sau cũng không quên
+- **Số lượng tính sát** (vừa đủ người mình thấy) → khách dẫn thêm thông dịch / lãnh đạo bất ngờ = không đủ
+- Để **typo** trong tên / chức vụ / công ty → khách Nhật ghi nhớ ngay, sửa lần sau cũng không quên
 - Trao danh thiếp **cong / bị bẩn** → bằng không trao
 
 ---
@@ -145,14 +153,18 @@ Tháng 6/2026, đoàn 大垣 + 松本 + 中村 (3 người 白鷗) đến HCMC v
 
 *chìa danh thiếp 2 tay · nhận bằng 1 tay phải, không đọc, nhét túi áo · thoáng dừng nửa giây, gật nhẹ · thì thầm sau lưng Linh*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **大垣** | 「白鷗株式会社、営業部長の大垣でございます。よろしくお願いいたします。」 |
+| **大垣** | 「<ruby>白鷗<rt>はくおう</rt></ruby><ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby>、<ruby>営業<rt>えいぎょう</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>の大垣でございます。よろしくお願いいたします。」 |
+|  | *Tôi là Ōgaki, Giám đốc Kinh doanh Cty Hakuō. Rất mong được hợp tác.* |
 | **リン** | 「あ、はい、リンです、よろしくお願いします。」 |
+|  | *À vâng, em Linh ạ, rất mong được hợp tác.* |
 | **大垣** | 「…はい。」 |
-| **フオン副部長** | 「リンさん、両手で。それから名刺はその場で読むの。」 |
+|  | *...Vâng.* |
+| **フオン副部長** | 「リンさん、<ruby>両手<rt>りょうて</rt></ruby>で。それから<ruby>名刺<rt>めいし</rt></ruby>はその<ruby>場<rt>ば</rt></ruby>で<ruby>読<rt>よ</rt></ruby>むの。」 |
+|  | *Linh, 2 tay nha em. Với cả danh thiếp phải đọc ngay tại chỗ.* |
 
-**Vì sao xấu:** Linh nhận 1 tay = từ chối không khí trang trọng khách đang tạo. Không đọc tên, nhét túi = tín hiệu "danh thiếp này không quan trọng". Ōgaki sẽ không nói gì nhưng ấn tượng đầu = "junior chưa được train".
+**Vì sao xấu:** Linh nhận 1 tay = từ chối không khí trang trọng khách đang tạo. Không đọc tên, nhét túi = tín hiệu "danh thiếp này không quan trọng". Ōgaki sẽ không nói gì nhưng ấn tượng đầu = "nhân viên mới chưa được đào tạo".
 
 ---
 
@@ -160,11 +172,14 @@ Tháng 6/2026, đoàn 大垣 + 松本 + 中村 (3 người 白鷗) đến HCMC v
 
 *chìa danh thiếp 2 tay, mặt JP hướng về Linh · 2 tay đỡ góc dưới【1】, mắt nhìn danh thiếp · gật, mỉm · giữ danh thiếp ngang ngực, không cất ngay, đợi vào phòng họp*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **大垣** | 「白鷗株式会社、営業部長の大垣でございます。よろしくお願いいたします。」 |
-| **リン** | 「**頂戴いたします**【2】。ティエンファットのリンと申します。**大垣 営業部長、よろしくお願いいたします**【3】。」 |
+| **大垣** | 「<ruby>白鷗<rt>はくおう</rt></ruby><ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby>、<ruby>営業<rt>えいぎょう</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>の大垣でございます。よろしくお願いいたします。」 |
+|  | *Tôi là Ōgaki, Giám đốc Kinh doanh Cty Hakuō. Rất mong được hợp tác.* |
+| **リン** | 「**<ruby>頂戴<rt>ちょうだい</rt></ruby>いたします**【2】。ティエンファットのリンと<ruby>申<rt>もう</rt></ruby>します。**大垣 <ruby>営業<rt>えいぎょう</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>、よろしくお願いいたします**【3】。」 |
+|  | *Em xin nhận ạ. Em là Linh bên Tiên Phát. Anh Ōgaki Giám đốc Kinh doanh, rất mong được hợp tác ạ.* |
 | **大垣** | 「リンさん、こちらこそ。」 |
+|  | *Cô Linh, tôi cũng vậy.* |
 | **リン** | *(im lặng, đỡ trang trọng)* |
 
 📝 **Ghi chú:**
@@ -208,7 +223,7 @@ Tháng 6/2026, đoàn 大垣 + 松本 + 中村 (3 người 白鷗) đến HCMC v
 
 # Rule 03 — Trao danh thiếp 2 tay / 名刺の渡し方
 
-> **Luận điểm.** Trao danh thiếp = chìa **2 tay** + **mặt JP hướng về phía khách** (đọc được luôn) + **tự xưng đầy đủ「会社名・部署・役職・氏名」** + **bow nhẹ 15°**. Trao 1 tay hoặc hướng chữ về phía mình = "vứt" thẻ.
+> **Luận điểm.** Trao danh thiếp = chìa **2 tay** + **mặt JP hướng về phía khách** (đọc được luôn) + **tự xưng đầy đủ「会社名・部署・役職・氏名」** + **cúi chào nhẹ 15°**. Trao 1 tay hoặc hướng chữ về phía mình = "vứt" thẻ.
 >
 > 名刺は『両手・文字を相手向き・会社部署役職氏名フルで自己紹介・15度お辞儀』。片手や自分向きは投げ捨て同然。
 >
@@ -219,7 +234,7 @@ Tháng 6/2026, đoàn 大垣 + 松本 + 中村 (3 người 白鷗) đến HCMC v
 
 ## Bối cảnh / 場面
 
-Sau khi nhận danh thiếp Ōgaki (rule 02), Dũng tự giới thiệu và trao danh thiếp cho Ōgaki. Đây là first contact, Dũng cần định tông formal cho cả meeting.
+Sau khi nhận danh thiếp Ōgaki (rule 02), Dũng tự giới thiệu và trao danh thiếp cho Ōgaki. Đây là lần gặp đầu tiên, Dũng cần định tông trang trọng cho cả buổi gặp.
 
 ---
 
@@ -227,14 +242,18 @@ Sau khi nhận danh thiếp Ōgaki (rule 02), Dũng tự giới thiệu và trao
 
 *rút danh thiếp 1 tay từ ví, hướng chữ về phía mình · nhận, đảo ngược danh thiếp 90°để đọc, hơi nhíu mày · thì thầm*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「ズンです、よろしく。」 |
-| **大垣** | 「…ズン様、ですね。」 |
+|  | *Em là Dũng, mong được hợp tác.* |
+| **大垣** | 「…ズン<ruby>様<rt>さま</rt></ruby>、ですね。」 |
+|  | *...Anh Dũng phải không nhỉ.* |
 | **ズン** | 「あ、はい。」 |
-| **フオン副部長** | 「ズンさん、文字は相手向きにね。それから会社・部署もフルで。」 |
+|  | *À vâng.* |
+| **フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>** | 「ズンさん、<ruby>文字<rt>もじ</rt></ruby>は<ruby>相手<rt>あいて</rt></ruby><ruby>向<rt>む</rt></ruby>きにね。それから<ruby>会社<rt>かいしゃ</rt></ruby>・<ruby>部署<rt>ぶしょ</rt></ruby>もフルで。」 |
+|  | *Dũng, chữ phải hướng về phía họ. Với cả tên cty + phòng cũng phải nói đầy đủ.* |
 
-**Vì sao xấu:** (1) 1 tay = junior thái độ. (2) Chữ hướng về mình = khách phải xoay = họ làm việc thay bạn. (3) Tự xưng "ズンです" = thiếu "ティエンファット 営業部 BD担当" = khách không biết placement của bạn trong tổ chức.
+**Vì sao xấu:** (1) 1 tay = thái độ kẻ dưới, thiếu trang trọng. (2) Chữ hướng về mình = khách phải xoay = họ làm việc thay bạn. (3) Tự xưng "ズンです" = thiếu "ティエンファット 営業部 BD担当" = khách không biết vị trí của bạn trong tổ chức.
 
 ---
 
@@ -242,15 +261,17 @@ Sau khi nhận danh thiếp Ōgaki (rule 02), Dũng tự giới thiệu và trao
 
 *2 tay cầm danh thiếp ở 2 góc dưới, mặt JP hướng về Ōgaki, bow 15° · 2 tay đỡ · giữ tư thế bow nhẹ thêm 1 nhịp rồi đứng thẳng*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「**ティエンファット 営業部 BD担当の、チャン・ヴァン・ズン**【1】**と申します。よろしくお願い申し上げます**【2】。」 |
-| **大垣** | 「**頂戴いたします**。ズンさん、こちらこそよろしくお願いいたします。」 |
+| **ズン** | 「**ティエンファット <ruby>営業部<rt>えいぎょうぶ</rt></ruby> BD<ruby>担当<rt>たんとう</rt></ruby>の、チャン・ヴァン・ズン**【1】**と<ruby>申<rt>もう</rt></ruby>します。よろしくお<ruby>願<rt>ねが</rt></ruby>い<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます**【2】。」 |
+|  | *Em là Trần Văn Dũng, phụ trách BD phòng Kinh doanh Cty Tiên Phát. Rất mong được hợp tác ạ.* |
+| **大垣** | 「**<ruby>頂戴<rt>ちょうだい</rt></ruby>いたします**。ズンさん、こちらこそよろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。」 |
+|  | *Tôi xin nhận. Anh Dũng, tôi cũng rất mong được hợp tác.* |
 | **ズン** | *(giữ ánh mắt 1 giây rồi rút lui)* |
 
 📝 **Ghi chú:**
 - 【1】**会社・部署・役職・フルネーム順** — thứ tự chuẩn JP. KHÔNG đảo. KHÔNG bỏ phần. Tên VN dùng phiên âm katakana「チャン・ヴァン・ズン」để khách đọc đúng.
-- 【2】**「よろしくお願い申し上げます」** > 「お願いします」trong first contact với senior. Step nâng formal level.
+- 【2】**「よろしくお願い申し上げます」** > 「お願いします」khi gặp lần đầu với cấp trên. Một bậc nâng mức trang trọng.
 
 ---
 
@@ -266,10 +287,10 @@ Sau khi nhận danh thiếp Ōgaki (rule 02), Dũng tự giới thiệu và trao
 
 - Trao **1 tay** (đặc biệt khi tay kia bận) → bỏ vật xuống trước
 - Hướng chữ **về phía mình** → khách phải xoay = bất lịch sự
-- Tự xưng **chỉ tên** ("Dũng です") → thiếu context tổ chức
+- Tự xưng **chỉ tên** ("Dũng です") → thiếu bối cảnh tổ chức
 - Đưa danh thiếp **cao hơn ngực khách** (đặc biệt khi khách senior) → trao thẳng tầm ngực-bụng
 - Vừa trao vừa **nói câu khác** không liên quan ("À hôm nay trời nóng quá nhỉ") → tập trung vào nghi thức
-- Trao danh thiếp **qua bàn** (reach across) → đi vòng lại đứng gần khách rồi mới trao
+- Trao danh thiếp **qua bàn** (với tay ngang bàn) → đi vòng lại đứng gần khách rồi mới trao
 
 ---
 
@@ -299,7 +320,7 @@ Sau khi nhận danh thiếp Ōgaki (rule 02), Dũng tự giới thiệu và trao
 
 ## Bối cảnh / 場面
 
-Sau khi Linh + Dũng đã exchange với Ōgaki riêng từng người (rule 02-03), giờ đến lượt Tuấn (Tech Lead) và Matsumoto PM. Tuấn và Matsumoto đứng đối diện, cùng chìa danh thiếp ra cùng lúc.
+Sau khi Linh + Dũng đã trao đổi danh thiếp với Ōgaki riêng từng người (rule 02-03), giờ đến lượt Tuấn (Tech Lead) và Matsumoto PM. Tuấn và Matsumoto đứng đối diện, cùng chìa danh thiếp ra cùng lúc.
 
 ---
 
@@ -307,14 +328,18 @@ Sau khi Linh + Dũng đã exchange với Ōgaki riêng từng người (rule 02-
 
 *chìa danh thiếp 2 tay ngay tầm ngực · cũng chìa 2 tay cùng lúc, đụng vào tay Tuấn · rút lại, do dự · do dự*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアン** | 「ティエンファットのトゥアンです、よろしく…」 |
-| **松本** | 「あ…松本です…」 |
-| **トゥアン** | 「あ、すみません、お先にどうぞ。」 |
+|  | *Tôi là Tuấn bên Tiên Phát, mong được...* |
+| **<ruby>松本<rt>まつもと</rt></ruby>** | 「あ…<ruby>松本<rt>まつもと</rt></ruby>です…」 |
+|  | *À... tôi Matsumoto...* |
+| **トゥアン** | 「あ、すみません、<ruby>お先<rt>おさき</rt></ruby>にどうぞ。」 |
+|  | *À xin lỗi, mời anh trước ạ.* |
 | **松本** | 「いえ、こちらこそ…」 *(không khí ngượng nghịu 3 giây)* |
+|  | *Không, anh trước đi...* |
 
-**Vì sao xấu:** 2 bên cùng đưa cùng tầm cao → đụng tay → lúng túng → reset = gãy nhịp lễ nghi. Ai cũng "khiêm nhường" sai cách.
+**Vì sao xấu:** 2 bên cùng đưa cùng tầm cao → đụng tay → lúng túng → làm lại từ đầu = gãy nhịp lễ nghi. Ai cũng "khiêm nhường" sai cách.
 
 ---
 
@@ -322,17 +347,21 @@ Sau khi Linh + Dũng đã exchange với Ōgaki riêng từng người (rule 02-
 
 *tay phải chìa danh thiếp **của mình** xuống thấp【1】, tay trái sẵn nhận ở trên · cũng đồng thời: phải chìa thấp, trái nhận cao · sau khi nhận bằng tay trái, đảo sang phải, đỡ 2 tay nâng ngang ngực*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「ティエンファット 技術リーダーのトゥアンと申します。**頂戴いたします**【2】。」 |
-| **松本** | 「白鷗株式会社 PMの松本です。頂戴いたします。」 |
-| **トゥアン** | 「**松本PM、よろしくお願いいたします**【3】。」 |
+| **トゥアン** | 「ティエンファット <ruby>技術<rt>ぎじゅつ</rt></ruby>リーダーのトゥアンと<ruby>申<rt>もう</rt></ruby>します。**<ruby>頂戴<rt>ちょうだい</rt></ruby>いたします**【2】。」 |
+|  | *Tôi là Tuấn, Tech Lead công ty Tiên Phát. Xin nhận ạ.* |
+| **<ruby>松本<rt>まつもと</rt></ruby>** | 「<ruby>白鷗<rt>はくおう</rt></ruby><ruby>株式<rt>かぶしき</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby> PMの<ruby>松本<rt>まつもと</rt></ruby>です。<ruby>頂戴<rt>ちょうだい</rt></ruby>いたします。」 |
+|  | *Tôi là Matsumoto, PM công ty Hakuō. Xin nhận.* |
+| **トゥアン** | 「**<ruby>松本<rt>まつもと</rt></ruby>PM、よろしくお<ruby>願<rt>ねが</rt></ruby>いいたします**【3】。」 |
+|  | *Anh Matsumoto PM, rất mong được hợp tác ạ.* |
 | **松本** | 「トゥアンさん、こちらこそ。」 |
+|  | *Anh Tuấn, tôi cũng vậy.* |
 
 📝 **Ghi chú:**
 - 【1】**右手低・左手高** — quy tắc cốt lõi 同時交換: tay phải trao danh thiếp **của mình** chìa thấp (khiêm nhường) + tay trái đỡ danh thiếp **khách** ở cao (tôn trọng). Nghĩ kiểu: "danh thiếp tôi = đồ tôi đưa = thấp; danh thiếp anh = đồ tôi nhận = cao".
 - 【2】**「頂戴いたします」** — nói cùng lúc nhận. Cả 2 bên đều nói. Không tranh nhau "お先にどうぞ".
-- 【3】**Đảo lại 2 tay rồi đọc** — sau khi nhận bằng 1 tay (trái), ngay lập tức chuyển sang đỡ 2 tay (phải đặt dưới trái) + đọc tên + chức vụ. Toàn bộ flow ~ 3 giây.
+- 【3】**Đảo lại 2 tay rồi đọc** — sau khi nhận bằng 1 tay (trái), ngay lập tức chuyển sang đỡ 2 tay (phải đặt dưới trái) + đọc tên + chức vụ. Toàn bộ nhịp ~ 3 giây.
 
 ---
 
@@ -350,7 +379,7 @@ Sau khi Linh + Dũng đã exchange với Ōgaki riêng từng người (rule 02-
 - Một bên "**お先にどうぞ**" → bên kia phải đợi → gãy nhịp (chỉ dùng khi rule 05: junior trước senior, KHÔNG dùng khi 2 người cùng cấp)
 - Sau khi nhận bằng tay trái, **không đảo sang đỡ 2 tay** → để tay trái cầm 1 mình = nhận xong "vứt"
 - Nói "頂戴いたします" **trễ** (sau khi đã nhận xong) → câu phải đi cùng lúc với động tác nhận
-- **Không bow** trong toàn bộ flow → bow nhẹ 15° đầu cuộc exchange
+- **Không cúi chào** trong toàn bộ nhịp → cúi nhẹ 15° đầu lượt trao đổi
 
 ---
 
@@ -369,7 +398,7 @@ Sau khi Linh + Dũng đã exchange với Ōgaki riêng từng người (rule 02-
 
 # Rule 05 — Vai vế quyết định ai trao trước / 立場による順序
 
-> **Luận điểm.** Khi bên mình có nhiều người: **junior trao trước, senior trao sau**. Khi 2 bên không cùng cấp: **cấp thấp trao trước cấp cao** (= junior 訪問者 đến trước senior, người đi tìm việc trước người được tìm). Đảo thứ tự = lộ "không hiểu hierarchy".
+> **Luận điểm.** Khi bên mình có nhiều người: **người cấp dưới trao trước, người cấp trên trao sau**. Khi 2 bên không cùng cấp: **cấp thấp trao trước cấp cao** (= người đến thăm 訪問者 trước người được thăm, bên cần việc trước bên được nhờ). Đảo thứ tự = lộ "không hiểu tôn ti trật tự".
 >
 > 名刺交換は『下位者から上位者へ』の順番。自社内では junior が先、相手より格下なら自社全員が先に出す。
 >
@@ -379,45 +408,54 @@ Sau khi Linh + Dũng đã exchange với Ōgaki riêng từng người (rule 02-
 
 ## Bối cảnh / 場面
 
-Sau khi Linh + Dũng + Tuấn exchange xong với 大垣, đến giờ exchange với 中村 CFO (senior nhất đoàn) và 松本. Hương 副部長 cũng có mặt. Vấn đề: ai trao trước? Linh không biết.
+Sau khi Linh + Dũng + Tuấn trao danh thiếp xong với 大垣, đến lượt trao với 中村 CFO (cao nhất đoàn) và 松本. Hương 副部長 cũng có mặt. Vấn đề: ai trao trước? Linh không biết.
 
-**Map cấp:**
-- Bên Tiên Phát (host): フオン副部長 > トゥアン Tech Lead > ズン BD > リン intern
-- Bên 白鷗 (guest, more senior overall): 中村 CFO > 大垣 部長 > 松本 PM
+**Sơ đồ cấp bậc:**
+- Bên Tiên Phát (chủ nhà): フオン副部長 > トゥアン Tech Lead > ズン BD > リン intern
+- Bên 白鷗 (khách, tổng thể cấp cao hơn): 中村 CFO > 大垣 部長 > 松本 PM
 
 ---
 
 ## ❌ Hội thoại XẤU — sai thứ tự
 
-*bước lên trước, chìa danh thiếp với 中村 CFO · thấy thế cũng vội bước lên, exchange với 松本 trước cả Tuấn và Dũng · im lặng nhận, ánh mắt thoáng nhìn Hương · sau, thì thầm với Linh*
+*bước lên trước, chìa danh thiếp với 中村 CFO · thấy thế cũng vội bước lên, trao với 松本 trước cả Tuấn và Dũng · im lặng nhận, ánh mắt thoáng nhìn Hương · sau, thì thầm với Linh*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **フオン副部長** | 「ティエンファット 営業 副部長のフオンでございます。」 |
+| **フオン副部長** | 「ティエンファット <ruby>営業<rt>えいぎょう</rt></ruby> <ruby>副部長<rt>ふくぶちょう</rt></ruby>のフオンでございます。」 |
+|  | *Tôi là Hương, Phó phòng Kinh doanh Cty Tiên Phát.* |
 | **リン** | 「リンです、よろしく…」 |
-| **中村CFO** | 「中村でございます。」 |
-| **フオン副部長** | 「リンさん、本来は junior から先よ。トゥアンさんの後でいいの。」 |
+|  | *Em Linh ạ, mong được...* |
+| **中村CFO** | 「<ruby>中村<rt>なかむら</rt></ruby>でございます。」 |
+|  | *Tôi là Nakamura.* |
+| **フオン副部長** | 「リンさん、<ruby>本来<rt>ほんらい</rt></ruby>は junior から<ruby>先<rt>さき</rt></ruby>よ。トゥアンさんの<ruby>後<rt>あと</rt></ruby>でいいの。」 |
+|  | *Linh, đáng lẽ junior phải đi trước. Em đứng sau anh Tuấn cũng được.* |
 
-**Vì sao xấu:** (1) Hương senior nhất bên VN nhưng lại exchange trước → "vứt" ý tôn trọng khách (junior phải đứng ra trước). (2) Linh thì nhảy hàng (đáng lẽ là cuối) → loạn flow. JP rất sensitive với thứ tự = lộ ngay tổ chức không briefing.
+**Vì sao xấu:** (1) Hương cấp cao nhất bên Việt nhưng lại trao trước → "vứt" ý tôn trọng khách (người cấp dưới phải đứng ra trước). (2) Linh thì nhảy hàng (đáng lẽ là cuối) → loạn nhịp. Người Nhật rất tinh ý với thứ tự = lộ ngay tổ chức không sắp xếp trước.
 
 ---
 
-## ✅ Hội thoại TỐT — junior trước, senior sau
+## ✅ Hội thoại TỐT — cấp dưới trước, cấp trên sau
 
-*briefing trước event · bắt đầu, exchange với 中村 CFO trước · lần lượt exchange với 中村, sau đó với 大垣, rồi với 松本【3】 · cuối cùng, chìa với 中村 CFO*
+*sắp xếp thứ tự trước buổi gặp · bắt đầu, trao với 中村 CFO trước · lần lượt trao với 中村, sau đó với 大垣, rồi với 松本【3】 · cuối cùng, chìa với 中村 CFO*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **フオン副部長** | 「順番は **リン → ズン → トゥアン → 私（フオン）**【1】。相手側は中村CFOが最上位だから、**みんな最初に中村さんと交換**【2】。」 |
-| **リン** | 「ティエンファット マーケティングのリンと申します。頂戴いたします。」 |
+| **フオン副部長** | 「<ruby>順番<rt>じゅんばん</rt></ruby>は **リン → ズン → トゥアン → 私（フオン）**【1】。<ruby>相手側<rt>あいてがわ</rt></ruby>は<ruby>中村<rt>なかむら</rt></ruby>CFOが<ruby>最上位<rt>さいじょうい</rt></ruby>だから、**みんな<ruby>最初<rt>さいしょ</rt></ruby>に中村さんと<ruby>交換<rt>こうかん</rt></ruby>**【2】。」 |
+|  | *Thứ tự sẽ là Linh → Dũng → Tuấn → chị (Hương). Bên khách Nakamura CFO cao nhất nên cả nhóm trao danh thiếp với anh Nakamura đầu tiên.* |
+| **リン** | 「ティエンファット マーケティングのリンと<ruby>申<rt>もう</rt></ruby>します。<ruby>頂戴<rt>ちょうだい</rt></ruby>いたします。」 |
+|  | *Em là Linh, Marketing Cty Tiên Phát. Xin nhận ạ.* |
 | **中村CFO** | 「中村でございます。」 |
-| **ズン → トゥアン → フオン副部長** | *(theo flow đã briefing)* |
-| **フオン副部長** | 「最後になり申し訳ございません。営業部 副部長のフオンでございます。」 |
+|  | *Tôi là Nakamura.* |
+| **ズン → トゥアン → フオン副部長** | *(theo nhịp đã sắp xếp)* |
+|  | *(Dũng → Tuấn → Phó phòng Hương lần lượt theo thứ tự đã thống nhất)* |
+| **フオン副部長** | 「<ruby>最後<rt>さいご</rt></ruby>になり<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。営業部 副部長のフオンでございます。」 |
+|  | *Xin lỗi vì để đến cuối ạ. Tôi là Hương, Phó phòng Kinh doanh.* |
 
 📝 **Ghi chú:**
-- 【1】**Junior trước senior bên mình** — Linh (intern) → Dũng (BD) → Tuấn (Lead) → Hương (副部長). Lý do: nhân vật càng nhẹ ký càng "test water" trước, senior xuất hiện cuối = climax.
-- 【2】**Mọi người chào người cấp cao nhất bên kia trước** — 中村 CFO senior nhất → tất cả 4 người Tiên Phát exchange với 中村 trước, rồi mới quay sang 大垣, rồi 松本.
-- 【3】**Matrix order** — viết ra: 4 host × 3 guest = 12 cặp exchange. Junior bên mình + senior bên kia = ưu tiên đầu. Senior bên mình + junior bên kia = cuối.
+- 【1】**Cấp dưới trước cấp trên bên mình** — Linh (intern) → Dũng (BD) → Tuấn (Lead) → Hương (副部長). Lý do: người càng nhẹ ký càng "thăm dò" trước, người cấp cao xuất hiện cuối = điểm nhấn.
+- 【2】**Mọi người chào người cấp cao nhất bên kia trước** — 中村 CFO cấp cao nhất → tất cả 4 người Tiên Phát trao danh thiếp với 中村 trước, rồi mới quay sang 大垣, rồi 松本.
+- 【3】**Thứ tự ma trận** — viết ra: 4 chủ × 3 khách = 12 cặp trao đổi. Người cấp dưới bên mình + người cấp cao bên kia = ưu tiên đầu. Người cấp cao bên mình + người cấp dưới bên kia = cuối.
 
 ---
 
@@ -425,17 +463,17 @@ Sau khi Linh + Dũng + Tuấn exchange xong với 大垣, đến giờ exchange 
 
 > **「名刺は『自社junior先・相手senior優先』のマトリクス順。」**
 >
-> *Trao danh thiếp = ma trận: junior bên mình trước, senior bên khách ưu tiên.*
+> *Trao danh thiếp = ma trận: người cấp dưới bên mình trước, người cấp cao bên khách ưu tiên.*
 
 ---
 
 ## ⚠ Tránh
 
-- **Senior bên mình bước ra đầu tiên** → lộ "không hiểu junior phải dấn thân trước"
-- **Random order** không briefing → 4 người loạn lên = không khí gãy
-- Junior bên mình **bỏ qua** không exchange với senior bên khách (vì thấy "không cùng level") → BẮT BUỘC mọi người exchange với mọi người
+- **Người cấp cao bên mình bước ra đầu tiên** → lộ "không hiểu người cấp dưới phải dấn thân trước"
+- **Thứ tự tùy tiện** không sắp xếp → 4 người loạn lên = không khí gãy
+- Người cấp dưới bên mình **bỏ qua** không trao với người cấp cao bên khách (vì thấy "không cùng cấp") → BẮT BUỘC mọi người trao với mọi người
 - "**お先にどうぞ**" tùm lum → chỉ áp dụng giữa 2 bên cùng cấp, không lạm dụng
-- Khi đoàn khách 5+ người, không **briefing thứ tự trước event** → loạn ngay tại lobby
+- Khi đoàn khách 5+ người, không **sắp xếp thứ tự trước buổi gặp** → loạn ngay tại sảnh chờ
 
 ---
 
@@ -473,12 +511,15 @@ Sau lobby exchange, đoàn vào phòng họp. Ōgaki - Nakamura - Matsumoto ng�
 
 *vào phòng họp, đặt 3 danh thiếp xếp chồng góc bàn · 15 phút sau, gọi nhầm · thoáng nhíu mày · thì thầm với Linh*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **リン** | *(im lặng đặt chồng)* |
-| **ズン** | 「えっと、**松本部長**…あ、すみません、**大垣部長**でした…」 |
-| **大垣** | 「…大垣です。」 |
-| **フオン副部長** | 「リンさん、名刺は座席順に並べて。重ねたら誰が誰か分からなくなるの。」 |
+| **ズン** | 「えっと、**<ruby>松本<rt>まつもと</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>**…あ、すみません、**<ruby>大垣<rt>おおがき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>**でした…」 |
+|  | *Ơ... Matsumoto 部長... à xin lỗi, là Ōgaki 部長 ạ...* |
+| **大垣** | 「…<ruby>大垣<rt>おおがき</rt></ruby>です。」 |
+|  | *...Tôi là Ōgaki.* |
+| **フオン副部長** | 「リンさん、名刺は<ruby>座席順<rt>ざせきじゅん</rt></ruby>に<ruby>並<rt>なら</rt></ruby>べて。<ruby>重<rt>かさ</rt></ruby>ねたら<ruby>誰<rt>だれ</rt></ruby>が<ruby>誰<rt>だれ</rt></ruby>か<ruby>分<rt>わ</rt></ruby>からなくなるの。」 |
+|  | *Linh, danh thiếp phải xếp theo thứ tự chỗ ngồi. Xếp chồng thì không phân biệt được ai với ai đâu.* |
 
 **Vì sao xấu:** Linh xếp chồng → Dũng không nhìn thấy danh thiếp → gọi nhầm chức vụ "松本部長" (Matsumoto là PM, không phải 部長) → Ōgaki tưởng bị gọi nhầm người. Trong meeting JP, gọi sai tên/chức = giảm độ tin cậy ngay trong 15 phút đầu.
 
@@ -488,13 +529,18 @@ Sau lobby exchange, đoàn vào phòng họp. Ōgaki - Nakamura - Matsumoto ng�
 
 *vào phòng họp, đặt 3 danh thiếp **theo đúng vị trí 3 khách ngồi**【1】 · nhìn lướt danh thiếp trước mặt, gọi đúng · 15 phút sau, hỏi 大垣 · cuối meeting, sau khi khách đứng dậy*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **リン** | *(thì thầm tự nhắc) 「中村CFO…大垣部長…松本PM…」* |
-| **ズン** | 「**中村CFO**、本日の最初のご質問は…」 |
-| **中村CFO** | 「はい、中村です。」 |
-| **フオン副部長** | 「**大垣部長**、Phase 3のスコープについて…」 |
-| **大垣** | 「はい、大垣です。」 |
+| **リン** | *(thì thầm tự nhắc) 「<ruby>中村<rt>なかむら</rt></ruby>CFO…<ruby>大垣<rt>おおがき</rt></ruby>部長…<ruby>松本<rt>まつもと</rt></ruby>PM…」* |
+|  | *(thì thầm) Nakamura CFO... Ōgaki 部長... Matsumoto PM... (đặt theo seat order)* |
+| **ズン** | 「**<ruby>中村<rt>なかむら</rt></ruby>CFO**、<ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>最初<rt>さいしょ</rt></ruby>のご<ruby>質問<rt>しつもん</rt></ruby>は…」 |
+|  | *Anh Nakamura CFO, câu hỏi đầu tiên hôm nay là...* |
+| **中村CFO** | 「はい、<ruby>中村<rt>なかむら</rt></ruby>です。」 |
+|  | *Vâng, Nakamura đây.* |
+| **フオン副部長** | 「**<ruby>大垣<rt>おおがき</rt></ruby>部長**、Phase 3のスコープについて…」 |
+|  | *Anh Ōgaki 部長, về phạm vi Phase 3...* |
+| **大垣** | 「はい、<ruby>大垣<rt>おおがき</rt></ruby>です。」 |
+|  | *Vâng, Ōgaki đây.* |
 | **リン** | *(lúc đó mới thu lại 3 danh thiếp 2 tay xếp ngay ngắn vào hộp)*【2】 |
 
 📝 **Ghi chú:**
@@ -517,7 +563,7 @@ Sau lobby exchange, đoàn vào phòng họp. Ōgaki - Nakamura - Matsumoto ng�
 - **Cất túi giữa meeting** → "tôi xong với anh rồi" = mất face
 - Đặt danh thiếp **bừa** (không theo seat) → gọi nhầm tên = mất uy
 - Để danh thiếp **rớt xuống đất** → KHÔNG dùng chân nhặt, dừng meeting cúi nhặt 2 tay + xin lỗi
-- **Viết / vẽ / gấp** lên danh thiếp giữa meeting → nếu cần ghi note context, dùng sổ riêng (rule 07)
+- **Viết / vẽ / gấp** lên danh thiếp giữa meeting → nếu cần ghi chú bối cảnh, dùng sổ riêng (rule 07)
 - **Đặt vật khác lên trên** danh thiếp (cốc nước, sổ) → tuyệt đối không
 
 ---
@@ -538,7 +584,7 @@ Sau lobby exchange, đoàn vào phòng họp. Ōgaki - Nakamura - Matsumoto ng�
 
 # Rule 07 — Lưu trữ sau cuộc gặp / 名刺管理
 
-> **Luận điểm.** Trong **24 giờ** sau cuộc gặp: (1) Nhập CRM với context (ngày/event/topic) (2) Dán memo bối cảnh ("ai giới thiệu", "topic họ quan tâm", "follow-up nào") (3) Scan + lưu cloud (4) Gửi follow-up email với link content. Không nhập trong 24h = quên 70% context = chết tài sản network.
+> **Luận điểm.** Trong **24 giờ** sau cuộc gặp: (1) Nhập CRM kèm bối cảnh (ngày/event/chủ đề) (2) Dán memo bối cảnh ("ai giới thiệu", "chủ đề họ quan tâm", "việc tiếp theo nào") (3) Scan + lưu cloud (4) Gửi follow-up email kèm liên kết nội dung. Không nhập trong 24h = quên 70% bối cảnh = chết tài sản mạng lưới quan hệ.
 >
 > 名刺は『24時間以内に CRM 入力 + 文脈メモ + クラウドスキャン + フォローアップ送信』。24時間超えで文脈70%消失。
 >
@@ -548,7 +594,7 @@ Sau lobby exchange, đoàn vào phòng họp. Ōgaki - Nakamura - Matsumoto ng�
 
 ## Bối cảnh / 場面
 
-Tối cùng ngày event 大垣 + 松本 + 中村 visit, Dũng yêu cầu Linh xử lý 6 danh thiếp đã nhận (3 senior 白鷗 + 3 các member khác đoàn). Deadline: trước 23:00 cùng ngày → gửi mail thanks sáng hôm sau.
+Tối cùng ngày event 大垣 + 松本 + 中村 visit, Dũng yêu cầu Linh xử lý 6 danh thiếp đã nhận (3 cấp trên 白鷗 + 3 thành viên khác trong đoàn). Hạn chót: trước 23:00 cùng ngày → gửi mail cảm ơn sáng hôm sau.
 
 ---
 
@@ -556,15 +602,20 @@ Tối cùng ngày event 大垣 + 松本 + 中村 visit, Dũng yêu cầu Linh x�
 
 *3 ngày sau event*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「リンさん、先週の名刺、CRMに入れた？」 |
-| **リン** | 「あ、まだです、今週やります…」 |
-| **ズン** | 「中村CFOが Phase 4 の予算で気にしてた論点、覚えてる？」 |
+| **ズン** | 「リンさん、<ruby>先週<rt>せんしゅう</rt></ruby>の<ruby>名刺<rt>めいし</rt></ruby>、CRMに<ruby>入<rt>い</rt></ruby>れた？」 |
+|  | *Linh, danh thiếp tuần trước em nhập CRM chưa?* |
+| **リン** | 「あ、まだです、<ruby>今週<rt>こんしゅう</rt></ruby>やります…」 |
+|  | *À chưa ạ, tuần này em làm...* |
+| **ズン** | 「<ruby>中村<rt>なかむら</rt></ruby>CFOが Phase 4 の<ruby>予算<rt>よさん</rt></ruby>で<ruby>気<rt>き</rt></ruby>にしてた<ruby>論点<rt>ろんてん</rt></ruby>、<ruby>覚<rt>おぼ</rt></ruby>えてる？」 |
+|  | *Anh Nakamura CFO quan tâm điểm gì về budget Phase 4 em nhớ không?* |
 | **リン** | 「えっと…なんでしたっけ…」 |
-| **ズン** | 「**3日経つともう曖昧になる**。今日中に CRM + 文脈メモ全部やって。」 |
+|  | *Ơ... cái gì ấy nhỉ ạ...* |
+| **ズン** | 「**3<ruby>日<rt>にち</rt></ruby><ruby>経<rt>た</rt></ruby>つともう<ruby>曖昧<rt>あいまい</rt></ruby>になる**。<ruby>今日<rt>きょう</rt></ruby><ruby>中<rt>じゅう</rt></ruby>に CRM + <ruby>文脈<rt>ぶんみゃく</rt></ruby>メモ<ruby>全部<rt>ぜんぶ</rt></ruby>やって。」 |
+|  | *3 ngày trôi là mơ hồ rồi đấy. Hôm nay em phải xong cả CRM + ghi chú ngữ cảnh.* |
 
-**Vì sao xấu:** 3 ngày trôi = Linh quên topic Nakamura quan tâm. Khi gửi follow-up email "Cảm ơn anh hôm trước" mà không reference được điểm cụ thể họ nói = generic = giảm 50% impact. Tài sản network = chỉ là tờ giấy, không có context.
+**Vì sao xấu:** 3 ngày trôi = Linh quên chủ đề Nakamura quan tâm. Khi gửi follow-up email "Cảm ơn anh hôm trước" mà không dẫn lại được điểm cụ thể họ nói = sáo rỗng = giảm 50% ấn tượng. Tài sản mạng lưới quan hệ = chỉ là tờ giấy, không có bối cảnh.
 
 ---
 
@@ -572,18 +623,23 @@ Tối cùng ngày event 大垣 + 松本 + 中村 visit, Dũng yêu cầu Linh x�
 
 *20:00 tối cùng ngày event*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「リンさん、6枚名刺の処理プラン共有して。」 |
-| **リン** | 「① CRM 入力: 今夜中【1】 ② 文脈メモ: 各人 1 行【2】 ③ Cloud スキャン: Google Drive 共有フォルダ ④ Follow-up: 明朝 9:00 ズン先輩経由送信。」 |
-| **ズン** | 「中村CFO のメモは？」 |
-| **リン** | 「**『Phase 4 予算上限を 1,500万円で気にしている。Q3 決算後に再検討と発言』**【3】 — これでいいですか？」 |
-| **ズン** | 「完璧。トゥアン先輩・フオン副部長にも共有して。明朝のお礼メールにこの context 入れる。」 |
+| **ズン** | 「リンさん、6<ruby>枚<rt>まい</rt></ruby><ruby>名刺<rt>めいし</rt></ruby>の<ruby>処理<rt>しょり</rt></ruby>プラン<ruby>共有<rt>きょうゆう</rt></ruby>して。」 |
+|  | *Linh, em chia sẻ plan xử lý 6 danh thiếp đi.* |
+| **リン** | 「① CRM <ruby>入力<rt>にゅうりょく</rt></ruby>: <ruby>今夜中<rt>こんやじゅう</rt></ruby>【1】 ② <ruby>文脈<rt>ぶんみゃく</rt></ruby>メモ: <ruby>各人<rt>かくじん</rt></ruby> 1 <ruby>行<rt>ぎょう</rt></ruby>【2】 ③ Cloud スキャン: Google Drive <ruby>共有<rt>きょうゆう</rt></ruby>フォルダ ④ Follow-up: <ruby>明朝<rt>みょうちょう</rt></ruby> 9:00 ズン<ruby>先輩<rt>せんぱい</rt></ruby><ruby>経由<rt>けいゆ</rt></ruby><ruby>送信<rt>そうしん</rt></ruby>。」 |
+|  | *① Nhập CRM: tối nay xong. ② Ghi chú ngữ cảnh: 1 dòng/người. ③ Scan cloud: folder Google Drive chung. ④ Gửi thư tiếp theo: sáng mai 9:00 gửi qua anh Dũng.* |
+| **ズン** | 「<ruby>中村<rt>なかむら</rt></ruby>CFO のメモは？」 |
+|  | *Memo cho Nakamura CFO thế nào?* |
+| **リン** | 「**『Phase 4 <ruby>予算<rt>よさん</rt></ruby><ruby>上限<rt>じょうげん</rt></ruby>を 1,500<ruby>万円<rt>まんえん</rt></ruby>で<ruby>気<rt>き</rt></ruby>にしている。Q3 <ruby>決算後<rt>けっさんご</rt></ruby>に<ruby>再検討<rt>さいけんとう</rt></ruby>と<ruby>発言<rt>はつげん</rt></ruby>』**【3】 — これでいいですか？」 |
+|  | *'Phase 4 quan tâm trần budget 15 triệu yên. Phát biểu sẽ xem xét lại sau quyết toán Q3' — vậy được chưa anh?* |
+| **ズン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。トゥアン<ruby>先輩<rt>せんぱい</rt></ruby>・フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>にも<ruby>共有<rt>きょうゆう</rt></ruby>して。<ruby>明朝<rt>みょうちょう</rt></ruby>のお<ruby>礼<rt>れい</rt></ruby>メールにこの context <ruby>入<rt>い</rt></ruby>れる。」 |
+|  | *Hoàn hảo. Em share cho cả anh Tuấn + chị Hương phó phòng. Mail cảm ơn sáng mai sẽ nhét ngữ cảnh này vào.* |
 
 📝 **Ghi chú:**
-- 【1】**24時間ルール** — não người quên 70% context sau 24h. Nhập trong cùng ngày = giữ chi tiết. Sau 3 ngày = generic mới.
-- 【2】**Memo bối cảnh 1 dòng/người** — không cần dài. Format: "Topic họ quan tâm + comment đặc trưng họ nói + follow-up nào". Đủ để 6 tháng sau gặp lại = nhớ ngay context.
-- 【3】**Câu trích dẫn cụ thể** — "Phase 4 予算上限 1,500万円 で気にしている" >> "Phase 4 quan tâm" — câu cụ thể giúp follow-up email reference đúng = chứng minh "tôi nghe và nhớ".
+- 【1】**24時間ルール** — não người quên 70% bối cảnh sau 24h. Nhập trong cùng ngày = giữ chi tiết. Sau 3 ngày = chỉ còn chung chung.
+- 【2】**Memo bối cảnh 1 dòng/người** — không cần dài. Công thức: "chủ đề họ quan tâm + câu nói đặc trưng họ nói + việc tiếp theo nào". Đủ để 6 tháng sau gặp lại = nhớ ngay bối cảnh.
+- 【3】**Câu trích dẫn cụ thể** — "Phase 4 予算上限 1,500万円 で気にしている" >> "Phase 4 quan tâm" — câu cụ thể giúp follow-up email dẫn lại đúng = chứng minh "tôi nghe và nhớ".
 
 ---
 
@@ -597,11 +653,11 @@ Tối cùng ngày event 大垣 + 松本 + 中村 visit, Dũng yêu cầu Linh x�
 
 ## ⚠ Tránh
 
-- **Để 1 tuần** rồi mới nhập → context bay 70%
-- Memo **chỉ tên + chức vụ** (đã có trên danh thiếp) → memo phải là **CONTEXT** (họ nói gì, quan tâm gì)
+- **Để 1 tuần** rồi mới nhập → bối cảnh bay 70%
+- Memo **chỉ tên + chức vụ** (đã có trên danh thiếp) → memo phải là **BỐI CẢNH** (họ nói gì, quan tâm gì)
 - **Không scan cloud** → mất danh thiếp = mất hết
-- **Không share team** → senior không biết bạn đã exchange ai = double contact embarrassing
-- Follow-up email **generic** ("Cảm ơn anh hôm trước") → reference cụ thể quote/topic họ nói
+- **Không chia sẻ cho nhóm** → cấp trên không biết bạn đã trao đổi danh thiếp với ai = liên hệ trùng người gây mất mặt
+- Follow-up email **sáo rỗng** ("Cảm ơn anh hôm trước") → dẫn lại cụ thể câu trích dẫn / chủ đề họ nói
 - Viết memo lên **chính danh thiếp** → KHÔNG bao giờ. Memo trong CRM hoặc sổ riêng.
 
 ---
@@ -647,7 +703,7 @@ Tối cùng ngày event 大垣 + 松本 + 中村 visit, Dũng yêu cầu Linh x�
 
 # Rule 08 — Đón khách tại lobby / お出迎え
 
-> **Luận điểm.** Đón khách Nhật = **đứng đợi tại lobby tối thiểu 5 phút trước giờ hẹn**, lễ tân được briefing trước (báo team ngay khi khách đến), team **đứng dậy bow đón** ngay khi thấy khách bước vào. Khách Nhật bước vào lobby thấy mình **đang ngồi xem điện thoại** = mất 30% goodwill.
+> **Luận điểm.** Đón khách Nhật = **đứng đợi tại lobby tối thiểu 5 phút trước giờ hẹn**, lễ tân được dặn trước (báo cả nhóm ngay khi khách đến), cả nhóm **đứng dậy bow đón** ngay khi thấy khách bước vào. Khách Nhật bước vào lobby thấy mình **đang ngồi xem điện thoại** = mất 30% thiện cảm.
 >
 > 来客 5分前にはロビーで待機・受付ブリーフィング済・到着即起立お辞儀。スマホ凝視・座ったままは即減点。
 >
@@ -661,39 +717,48 @@ Tối cùng ngày event 大垣 + 松本 + 中村 visit, Dũng yêu cầu Linh x�
 
 ---
 
-## ❌ Hội thoại XẤU — đến đúng giờ + ngồi xem phone
+## ❌ Hội thoại XẤU — đến đúng giờ + ngồi xem điện thoại
 
 *9:30:30 đúng, chạy xuống lobby vừa lúc 大垣 bước vào, đang nghe điện thoại · ngồi sofa lobby xem điện thoại, nhận ra muộn 5 giây · thoáng tỏ thái độ · nhận tin lễ tân chậm 2 phút*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **リン** | 「あ、あの、もしもし、後でかけ直す…」 |
-| **ズン** | 「あっ！大垣さん！すみません！」 |
-| **大垣** | 「…大垣でございます。ティエンファットさん、ですよね？」 |
-| **フオン副部長** | *(chạy xuống thở dốc)* 「大変お待たせいたしました…」 |
+| **リン** | 「あ、あの、もしもし、<ruby>後<rt>あと</rt></ruby>でかけ<ruby>直<rt>なお</rt></ruby>す…」 |
+|  | *À, alo, em gọi lại sau...* |
+| **ズン** | 「あっ！<ruby>大垣<rt>おおがき</rt></ruby>さん！すみません！」 |
+|  | *Ơ! Anh Ōgaki! Em xin lỗi!* |
+| **大垣** | 「…<ruby>大垣<rt>おおがき</rt></ruby>でございます。ティエンファットさん、ですよね？」 |
+|  | *...Tôi là Ōgaki. Bên Tiên Phát phải không nhỉ?* |
+| **フオン副部長** | *(chạy xuống thở dốc)* 「<ruby>大変<rt>たいへん</rt></ruby>お<ruby>待<rt>ま</rt></ruby>たせいたしました…」 |
+|  | *Vô cùng xin lỗi đã để các anh chờ lâu...* |
 
-**Vì sao xấu:** (1) Đến đúng giờ = muộn (đáng lẽ 9:25). (2) Linh nói điện thoại lúc khách bước vào. (3) Dũng ngồi xem phone. (4) Hương xuống chậm 2 phút. Khách Nhật quan sát chi tiết này = ấn tượng "team không serious".
+**Vì sao xấu:** (1) Đến đúng giờ = muộn (đáng lẽ 9:25). (2) Linh nói điện thoại lúc khách bước vào. (3) Dũng ngồi xem điện thoại. (4) Hương xuống chậm 2 phút. Khách Nhật quan sát chi tiết này = ấn tượng "cả nhóm không nghiêm túc".
 
 ---
 
-## ✅ Hội thoại TỐT — 5 phút trước, briefing lễ tân
+## ✅ Hội thoại TỐT — 5 phút trước, dặn lễ tân
 
-*9:25, briefing lễ tân · 9:27, đứng tại lobby, không phone, không sofa · 9:30, thấy đoàn 3 người bước vào · cùng tiến lên, bow 30°*
+*9:25, dặn lễ tân · 9:27, đứng tại lobby, không điện thoại, không sofa · 9:30, thấy đoàn 3 người bước vào · cùng tiến lên, bow 30°*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「**白鷗株式会社の大垣様ご一行 3名、9:30 ご到着予定**【1】。お見えになりましたら **すぐ私の内線へ**【2】お願いいたします。」 |
-| **受付** | 「承知いたしました。お見えになり次第、ご連絡いたします。」 |
+| **ズン** | 「**<ruby>白鷗<rt>はくおう</rt></ruby><ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby>の<ruby>大垣<rt>おおがき</rt></ruby><ruby>様<rt>さま</rt></ruby>ご<ruby>一行<rt>いっこう</rt></ruby> 3<ruby>名<rt>めい</rt></ruby>、9:30 ご<ruby>到着<rt>とうちゃく</rt></ruby><ruby>予定<rt>よてい</rt></ruby>**【1】。お<ruby>見<rt>み</rt></ruby>えになりましたら **すぐ<ruby>私<rt>わたし</rt></ruby>の<ruby>内線<rt>ないせん</rt></ruby>へ**【2】お<ruby>願<rt>ねが</rt></ruby>いいたします。」 |
+|  | *Đoàn anh Ōgaki Cty 白鷗 3 người, dự kiến đến 9:30. Khi các anh ấy đến mong chị gọi nội tuyến em ngay ạ.* |
+| **受付** | 「<ruby>承知<rt>しょうち</rt></ruby>いたしました。お<ruby>見<rt>み</rt></ruby>えになり<ruby>次第<rt>しだい</rt></ruby>、ご<ruby>連絡<rt>れんらく</rt></ruby>いたします。」 |
+|  | *Em rõ ạ. Các anh đến em sẽ liên lạc ngay.* |
 | **ズン + リン** | *(im lặng đứng quan sát cửa vào)* |
 | **リン** | *(quay sang Dũng, gật)* |
-| **ズン + リン** | 「**大垣様、本日はようこそお越しくださいました**【3】。ティエンファットのズンとリンでございます。」 |
-| **大垣** | 「お世話になります。」 |
-| **ズン** | 「**会議室は3階でございます。ご案内いたします**【4】。」 |
+| **ズン + リン** | 「**<ruby>大垣<rt>おおがき</rt></ruby><ruby>様<rt>さま</rt></ruby>、<ruby>本日<rt>ほんじつ</rt></ruby>はようこそお<ruby>越<rt>こ</rt></ruby>しくださいました**【3】。ティエンファットのズンとリンでございます。」 |
+|  | *Anh Ōgaki, hân hạnh được đón anh hôm nay ạ. Em là Dũng và Linh bên Cty Tiên Phát.* |
+| **大垣** | 「お<ruby>世話<rt>せわ</rt></ruby>になります。」 |
+|  | *Cảm ơn anh.* |
+| **ズン** | 「**<ruby>会議室<rt>かいぎしつ</rt></ruby>は3<ruby>階<rt>かい</rt></ruby>でございます。ご<ruby>案内<rt>あんない</rt></ruby>いたします**【4】。」 |
+|  | *Phòng họp ở tầng 3 ạ. Em xin phép dẫn các anh lên.* |
 
 📝 **Ghi chú:**
-- 【1】**Briefing lễ tân TRƯỚC** — tên cty + số người + giờ. Lễ tân không bị bất ngờ, không hỏi lại khách "anh hẹn ai?".
-- 【2】**「すぐ私の内線へ」** — lễ tân chuyển ngay đến nội bộ team. Dũng có thể đang on call upstairs vẫn xuống kịp 30 giây.
-- 【3】**「ようこそお越しくださいました」** — câu cố định đón khách. Formal hơn 「いらっしゃいませ」(dùng cho retail).
+- 【1】**Dặn lễ tân TRƯỚC** — tên cty + số người + giờ. Lễ tân không bị bất ngờ, không hỏi lại khách "anh hẹn ai?".
+- 【2】**「すぐ私の内線へ」** — lễ tân chuyển ngay đến nội bộ nhóm. Dũng có thể đang nghe điện ở tầng trên vẫn xuống kịp 30 giây.
+- 【3】**「ようこそお越しくださいました」** — câu cố định đón khách. Trang trọng hơn 「いらっしゃいませ」(dùng cho bán lẻ).
 - 【4】**Hướng dẫn chuyển sang rule 09** — không để khách đứng lobby quá 30 giây sau bow.
 
 ---
@@ -702,17 +767,17 @@ Tối cùng ngày event 大垣 + 松本 + 中村 visit, Dũng yêu cầu Linh x�
 
 > **「お出迎えは『5分前ロビー待機・受付ブリーフィング済・即起立お辞儀』。」**
 >
-> *Đón khách = đứng lobby 5 phút trước / lễ tân đã briefing / khách đến lập tức đứng dậy bow.*
+> *Đón khách = đứng lobby 5 phút trước / lễ tân đã được dặn / khách đến lập tức đứng dậy bow.*
 
 ---
 
 ## ⚠ Tránh
 
 - **Đến đúng giờ** → đúng giờ là muộn. Tối thiểu 5 phút trước.
-- **Ngồi sofa lobby xem phone** → đứng đợi, phone OFF / im lặng
-- Lễ tân **không được briefing** → khách phải tự giới thiệu lại với lễ tân = mất face
-- Senior xuống **chậm sau khi khách đến** → senior sẵn sàng từ 5 phút trước hoặc có người call ngay khi báo
-- **Không bow khi khách bước vào** → bow 30° là chuẩn formal đón
+- **Ngồi sofa lobby xem điện thoại** → đứng đợi, tắt điện thoại / im lặng
+- Lễ tân **không được dặn trước** → khách phải tự giới thiệu lại với lễ tân = mất thể diện
+- Cấp trên xuống **chậm sau khi khách đến** → cấp trên sẵn sàng từ 5 phút trước hoặc có người gọi ngay khi báo
+- **Không bow khi khách bước vào** → bow 30° là chuẩn trang trọng khi đón
 - **Chạy** xuống vội → đi đúng tốc độ, đợi 5 phút trước = không bao giờ phải chạy
 
 ---
@@ -737,7 +802,7 @@ Tối cùng ngày event 大垣 + 松本 + 中村 visit, Dũng yêu cầu Linh x�
 >
 > 案内は『前1-2歩・斜め左前・背中見せず・ドア手を添えて先に通す』。エレベーターは操作盤側に立って客を先に。
 >
-> **Liên quan:** rule 08 (お出迎え), rule 10 (上座), rule 13 (お見送り — flow ngược).
+> **Liên quan:** rule 08 (お出迎え), rule 10 (上座), rule 13 (お見送り — trình tự ngược).
 
 ---
 
@@ -751,15 +816,19 @@ Sau bow đón ở lobby (rule 08), Dũng dẫn 3 khách 大垣 + 中村 + 松本
 
 *đi sau khách, vừa đi vừa hỏi · không biết hướng nào, dừng lại nhìn quanh · vào thang máy đầu tiên, tự mình bấm tầng · theo sau, đứng chen chúc gần cửa thang máy · ra khỏi thang trước khách, quay lưng đi nhanh*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「あの、どっちですかね…3階ですよね？」 |
+|  | *À, đường nào nhỉ... tầng 3 phải không ạ?* |
 | **大垣** | 「えーと…」 |
+|  | *Ờ...* |
 | **ズン** | 「3階ですね。」 |
+|  | *Tầng 3 nhỉ.* |
 | **大垣 + 中村 + 松本** | *(im lặng)* |
 | **ズン** | 「こちらです…」 |
+|  | *Bên này...* |
 
-**Vì sao xấu:** (1) Đi sau = khách phải tự tìm đường = guide thất bại. (2) Vào thang trước khách = chiếm không gian. (3) Quay lưng đi nhanh = mất khách phía sau.
+**Vì sao xấu:** (1) Đi sau = khách phải tự tìm đường = dẫn đường thất bại. (2) Vào thang trước khách = chiếm không gian. (3) Quay lưng đi nhanh = mất khách phía sau.
 
 ---
 
@@ -767,15 +836,21 @@ Sau bow đón ở lobby (rule 08), Dũng dẫn 3 khách 大垣 + 中村 + 松本
 
 *đi trước 1-2 bước, chéo bên trái, tay phải chỉ hướng · theo sau · đến thang máy, bấm nút, đứng giữ cửa · vào thang máy · vào sau cùng, đứng cạnh bảng nút điều khiển · thang đến, **giữ nút mở**, để khách ra trước · ra sau, đi trước dẫn đến cửa phòng họp, gõ nhẹ 2 lần, mở cửa giữ*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「**こちらへどうぞ**【1】。会議室は3階でございます。」 |
+| **ズン** | 「**こちらへどうぞ**【1】。<ruby>会議室<rt>かいぎしつ</rt></ruby>は3階でございます。」 |
+|  | *Mời các anh đi theo hướng này ạ. Phòng họp ở tầng 3.* |
 | **大垣 + 中村 + 松本** | *(theo)* |
 | **ズン** | 「**お先にどうぞ**【2】。」 |
+|  | *Mời các anh vào trước ạ.* |
 | **大垣 + 中村 + 松本** | 「失礼します。」 |
-| **ズン**【3】 | 「3階に参ります。」 |
-| **ズン** | 「**3階に到着いたしました。お先にどうぞ**。」 |
-| **ズン** | 「**会議室はこちらでございます**【4】。」 |
+|  | *Xin phép.* |
+| **ズン**【3】 | 「3階に<ruby>参<rt>まい</rt></ruby>ります。」 |
+|  | *Em đưa các anh lên tầng 3 ạ.* |
+| **ズン** | 「**3階に<ruby>到着<rt>とうちゃく</rt></ruby>いたしました。お先にどうぞ**。」 |
+|  | *Đã đến rồi ạ. Mời các anh ra trước.* |
+| **ズン** | 「**<ruby>会議室<rt>かいぎしつ</rt></ruby>はこちらでございます**【4】。」 |
+|  | *Phòng họp ở đây ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**「こちらへどうぞ」** — câu chuẩn dẫn đường. Tay phải mở 90° chỉ hướng.
@@ -795,8 +870,8 @@ Sau bow đón ở lobby (rule 08), Dũng dẫn 3 khách 大垣 + 中村 + 松本
 
 ## ⚠ Tránh
 
-- Đi **sau khách** → khách lạc đường = guide vô ích
-- Vào thang máy / phòng **trước khách** → chiếm space (trừ trường hợp ra thang — host ra sau)
+- Đi **sau khách** → khách lạc đường = dẫn đường vô ích
+- Vào thang máy / phòng **trước khách** → chiếm chỗ (trừ trường hợp ra thang — host ra sau)
 - **Quay lưng** đi nhanh → khách rớt phía sau
 - Đứng **giữa** thang máy / chắn cửa → đứng cạnh bảng nút
 - **Không gõ cửa** phòng họp dù phòng trống → luôn gõ 2 lần
@@ -821,11 +896,11 @@ Sau bow đón ở lobby (rule 08), Dũng dẫn 3 khách 大垣 + 中村 + 松本
 
 # Rule 10 — Vị trí ngồi (kamiza/shimoza) / 上座・下座
 
-> **Luận điểm.** **Khách ngồi 上座 (kamiza — chỗ trang trọng, xa cửa nhất, lưng dựa tường)**, **chủ ngồi 下座 (shimoza — gần cửa, giữa khách và cửa ra vào)**. Trong đoàn khách, **người cấp cao nhất ngồi 上座 trung tâm**, các người khác bậc thang giảm dần. Mời sai chỗ = "tôi không biết anh là senior" = mất face.
+> **Luận điểm.** **Khách ngồi 上座 (kamiza — chỗ trang trọng, xa cửa nhất, lưng dựa tường)**, **chủ ngồi 下座 (shimoza — gần cửa, giữa khách và cửa ra vào)**. Trong đoàn khách, **người cấp cao nhất ngồi 上座 trung tâm**, các người khác bậc thang giảm dần. Mời sai chỗ = "tôi không biết anh là cấp trên" = mất face.
 >
 > 客は上座(入口から最も遠い壁背)、host は下座(出入口側)。客団内最上位は上座中央。
 >
-> **Liên quan:** rule 09 (案内 dẫn vào), rule 06 (đặt danh thiếp theo seat), rule 11 (お茶順序).
+> **Liên quan:** rule 09 (案内 dẫn vào), rule 06 (đặt danh thiếp theo chỗ ngồi), rule 11 (お茶順序).
 
 ---
 
@@ -833,16 +908,15 @@ Sau bow đón ở lobby (rule 08), Dũng dẫn 3 khách 大垣 + 中村 + 松本
 
 Sau dẫn vào phòng họp tầng 3 (rule 09), Dũng phải mời 3 khách 大垣 + 中村 + 松本 ngồi đúng vị trí. Phòng họp 6 người, hình chữ nhật, cửa vào ở phía Đông, cửa sổ phía Tây. Cấu hình:
 
-```
-       [WEST WALL — KAMIZA]
-   ┌─────────────────────────┐
-   │ 上座 1│ 上座 2│ 上座 3 │  ← ghế khách (xa cửa, lưng dựa tường)
-   │       │       │        │
-   │       │       │        │
-   │ 下座 1│ 下座 2│ 下座 3 │  ← ghế host (gần cửa)
-   └─────────────────────────┘
-       [EAST — DOOR ENTRY]
-```
+*Sơ đồ chỗ ngồi (tường phía Tây = 上座 / cửa ra vào phía Đông = 下座):*
+
+| Phía tường (xa cửa) | Ghế | Ghế | Ghế |
+|---|---|---|---|
+| **上座 — ghế khách** (lưng dựa tường) | 上座 1 | 上座 2 | 上座 3 |
+| **下座 — ghế host** (gần cửa) | 下座 1 | 下座 2 | 下座 3 |
+| Phía cửa ra vào (入口) | | | |
+
+→ **上座 (kamiza)** = ghế trong cùng, xa cửa nhất, lưng dựa tường → dành cho khách / cấp trên. **下座 (shimoza)** = ghế gần cửa ra vào → dành cho host / cấp dưới (tiện đứng dậy phục vụ, đón người tới).
 
 ---
 
@@ -850,33 +924,40 @@ Sau dẫn vào phòng họp tầng 3 (rule 09), Dũng phải mời 3 khách 大�
 
 *vào phòng, chỉ tay · do dự, không biết chỗ nào · thấy thế ngồi luôn ghế kamiza giữa · buộc phải ngồi 下座 ghế gần cửa*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「えっと、お好きなところにどうぞ。」 |
+| **ズン** | 「えっと、お<ruby>好<rt>す</rt></ruby>きなところにどうぞ。」 |
+|  | *À, các anh ngồi chỗ nào tùy ý ạ.* |
 | **大垣 + 中村 + 松本** | *(im lặng nhìn quanh)* |
-| **ズン** | 「あ、ここで打ち合わせしましょう。」 |
+| **ズン** | 「あ、ここで<ruby>打<rt>う</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせしましょう。」 |
+|  | *À, mình họp ở đây nhé.* |
 | **大垣** | 「…はい。」 |
+|  | *...Vâng.* |
 
-**Vì sao xấu:** (1) "Ngồi đâu cũng được" = host không briefing seat = thiếu chuyên nghiệp. (2) Dũng ngồi lên 上座 = chiếm chỗ của khách = lộ "không biết quy tắc". Khách Nhật im lặng nhưng nhớ mãi.
+**Vì sao xấu:** (1) "Ngồi đâu cũng được" = host không hướng dẫn chỗ ngồi = thiếu chuyên nghiệp. (2) Dũng ngồi lên 上座 = chiếm chỗ của khách = lộ "không biết quy tắc". Khách Nhật im lặng nhưng nhớ mãi.
 
 ---
 
-## ✅ Hội thoại TỐT — mời đúng chỗ + senior trung tâm
+## ✅ Hội thoại TỐT — mời đúng chỗ + cấp trên trung tâm
 
 *vào phòng, chỉ tay 90° về phía dãy 上座 xa cửa · ngồi trung tâm 上座 · ngồi 上座 hai bên · ngồi 下座, Hương ở giữa đối diện Nakamura, Dũng-Linh hai bên*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「**こちらへお掛けください**【1】。**中村CFOは中央に**【2】、**大垣部長は中村CFOから見て右に、松本PMは左に**お願いいたします。」 |
+| **ズン** | 「**こちらへお<ruby>掛<rt>か</rt></ruby>けください**【1】。**<ruby>中村<rt>なかむら</rt></ruby>CFOは<ruby>中央<rt>ちゅうおう</rt></ruby>に**【2】、**<ruby>大垣<rt>おおがき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>は中村CFOから<ruby>見<rt>み</rt></ruby>て<ruby>右<rt>みぎ</rt></ruby>に、<ruby>松本<rt>まつもと</rt></ruby>PMは<ruby>左<rt>ひだり</rt></ruby>に**お<ruby>願<rt>ねが</rt></ruby>いいたします。」 |
+|  | *Mời các anh ngồi đây ạ. Anh Nakamura CFO ở giữa, anh Ōgaki 部長 bên phải nhìn từ anh Nakamura, anh Matsumoto PM bên trái ạ.* |
 | **大垣** | 「ありがとうございます。」 |
-| **中村CFO** | 「失礼します。」 |
+|  | *Cảm ơn anh.* |
+| **中村CFO** | 「<ruby>失礼<rt>しつれい</rt></ruby>します。」 |
+|  | *Xin phép.* |
 | **大垣 + 松本** | *(ngồi)* |
-| **ズン + フオン副部長 + リン**【3】 | 「失礼いたします。」 |
+| **ズン + フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby> + リン**【3】 | 「失礼いたします。」 |
+|  | *Em xin phép ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**「お掛けください」** > 「座ってください」— kính ngữ ngồi, dùng cho khách. Tay phải mở 90° chỉ rõ ghế nào.
-- 【2】**Senior trung tâm 上座** — Nakamura CFO cao nhất → ghế giữa dãy 上座. Ōgaki (部長) bên phải Nakamura (vị trí thứ 2). Matsumoto (PM) bên trái (vị trí thứ 3). Quy tắc: nhìn từ kamiza, **bên phải > bên trái** về độ trang trọng.
-- 【3】**Host mirror seat** — bên 下座: senior bên mình (Hương 副部長) ngồi đối diện senior bên khách (Nakamura). Khi nói chuyện = cùng level dễ trao đổi.
+- 【2】**Cấp trên ngồi trung tâm 上座** — Nakamura CFO cao nhất → ghế giữa dãy 上座. Ōgaki (部長) bên phải Nakamura (vị trí thứ 2). Matsumoto (PM) bên trái (vị trí thứ 3). Quy tắc: nhìn từ kamiza, **bên phải > bên trái** về độ trang trọng.
+- 【3】**Ghế đối xứng giữa hai bên** — bên 下座: cấp trên bên mình (Hương 副部長) ngồi đối diện cấp trên bên khách (Nakamura). Khi nói chuyện = cùng cấp dễ trao đổi.
 
 ---
 
@@ -884,16 +965,16 @@ Sau dẫn vào phòng họp tầng 3 (rule 09), Dũng phải mời 3 khách 大�
 
 > **「客は上座(入口から遠く)・host は下座(入口側)・senior は上座中央。」**
 >
-> *Khách ngồi 上座 (xa cửa) / host ngồi 下座 (gần cửa) / senior bên khách ở trung tâm 上座.*
+> *Khách ngồi 上座 (xa cửa) / host ngồi 下座 (gần cửa) / cấp cao bên khách ở trung tâm 上座.*
 
 ---
 
 ## ⚠ Tránh
 
 - **Host ngồi 上座** → tệ nhất, lộ "không biết quy tắc"
-- "Ngồi đâu cũng được" → BẮT BUỘC briefing seat từng người
-- **Junior bên khách ngồi trung tâm 上座** thay vì senior → rối hierarchy
-- Senior bên mình ngồi **góc xa** → senior bên mình ngồi đối diện senior bên khách (mirror)
+- "Ngồi đâu cũng được" → BẮT BUỘC hướng dẫn chỗ ngồi cho từng người
+- **Cấp dưới bên khách ngồi trung tâm 上座** thay vì cấp trên → rối thứ bậc
+- Cấp trên bên mình ngồi **góc xa** → cấp trên bên mình phải ngồi đối diện cấp trên bên khách (đối xứng)
 - **Quên rule taxi/ô tô**: khi cùng đi taxi với khách: ghế phía sau bên phải tài = 上座 (cao nhất), ghế phía sau bên trái = 上座 thứ 2, ghế phụ tài = 下座 (host)
 - **Phòng họp có cửa sổ đẹp** → 上座 = ghế gần cửa sổ (xa cửa ra vào). Quy tắc: 上座 = chỗ "tôn vinh nhất" (lưng dựa tường, tầm nhìn đẹp, xa lối ra vào).
 
@@ -915,52 +996,62 @@ Sau dẫn vào phòng họp tầng 3 (rule 09), Dũng phải mời 3 khách 大�
 
 # Rule 11 — Pha trà / mời nước / お茶のお出し方
 
-> **Luận điểm.** Trà ra **trong 5 phút** sau khi khách ngồi. Thứ tự: **senior bên khách trước → junior bên khách → senior bên mình → junior bên mình**. Đặt cốc **bên phải khách** (không chắn tầm nhìn). Trà nóng cho senior, lựa chọn (nóng/lạnh) hỏi trước nếu mùa hè HCMC.
+> **Luận điểm.** Trà ra **trong 5 phút** sau khi khách ngồi. Thứ tự: **cấp cao bên khách trước → nhân viên trẻ bên khách → cấp cao bên mình → nhân viên trẻ bên mình**. Đặt cốc **bên phải khách** (không chắn tầm nhìn). Trà nóng cho người cấp cao, lựa chọn (nóng/lạnh) hỏi trước nếu mùa hè HCMC.
 >
 > お茶は『着席後5分以内・客senior先・客全員→host senior→host junior順・湯呑は右側』。
 >
-> **Liên quan:** rule 10 (上座), rule 25 (host pour 食事編), rule 12 (会議冒頭).
+> **Liên quan:** rule 10 (上座), rule 25 (bên mình rót 食事編), rule 12 (会議冒頭).
 
 ---
 
 ## Bối cảnh / 場面
 
-Sau khi 3 khách ngồi 上座 (rule 10), Linh (intern, làm task hospitality) ra pha trà cho 6 người (3 khách + 3 host). 9:35 sáng, mùa hè HCMC nóng nhưng khách Nhật quen trà nóng.
+Sau khi 3 khách ngồi 上座 (rule 10), Linh (thực tập sinh, phụ trách tiếp đón) ra pha trà cho 6 người (3 khách + 3 bên mình). 9:35 sáng, mùa hè HCMC nóng nhưng khách Nhật quen trà nóng.
 
 ---
 
-## ❌ Hội thoại XẤU — random order, sai phía
+## ❌ Hội thoại XẤU — thứ tự lộn xộn, sai phía
 
-*bưng khay 6 cốc, đến đặt cốc cho Dũng (host BD) trước, từ phía trái · thoáng lúng túng · quay lại, đặt cho Matsumoto (junior khách) trước Nakamura · nhận sau cùng, im lặng nhận · thì thầm sau*
+*bưng khay 6 cốc, đến đặt cốc cho Dũng (BD bên mình) trước, từ phía trái · thoáng lúng túng · quay lại, đặt cho Matsumoto (nhân viên trẻ bên khách) trước Nakamura · nhận sau cùng, im lặng nhận · thì thầm sau*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **リン** | 「ズン先輩、お茶です。」 |
-| **ズン** | 「あ、リンさん、まずお客様から…」 |
-| **リン** | 「あ、はい、松本様、どうぞ。」 |
+| **リン** | 「ズン<ruby>先輩<rt>せんぱい</rt></ruby>、お茶です。」 |
+|  | *Anh Dũng, trà ạ.* |
+| **ズン** | 「あ、リンさん、まず<ruby>客<rt>きゃく</rt></ruby>様から…」 |
+|  | *À Linh, từ khách trước em ơi...* |
+| **リン** | 「あ、はい、<ruby>松本<rt>まつもと</rt></ruby>様、どうぞ。」 |
+|  | *À vâng, anh Matsumoto, mời ạ.* |
 | **中村CFO** | 「…どうも。」 |
-| **フオン副部長** | 「リンさん、お茶も中村CFOから順番。それから右側から置くの。」 |
+|  | *...Cảm ơn.* |
+| **フオン副部長** | 「リンさん、お茶も<ruby>中村<rt>なかむら</rt></ruby>CFOから<ruby>順番<rt>じゅんばん</rt></ruby>。それから<ruby>右側<rt>みぎがわ</rt></ruby>から<ruby>置<rt>お</rt></ruby>くの。」 |
+|  | *Linh, trà cũng phải bắt đầu từ Nakamura CFO. Với cả phải đặt bên phải.* |
 
-**Vì sao xấu:** (1) Phục vụ host trước khách = vi phạm cốt lõi 「客先」. (2) Đặt cho junior khách (Matsumoto) trước senior khách (Nakamura) = sai hierarchy. (3) Đặt từ trái = chắn tay phải khách (Nhật uống trà bằng tay phải).
+**Vì sao xấu:** (1) Phục vụ bên mình trước khách = vi phạm cốt lõi 「客先」. (2) Đặt cho nhân viên trẻ bên khách (Matsumoto) trước người cấp cao bên khách (Nakamura) = sai thứ bậc. (3) Đặt từ trái = chắn tay phải khách (Nhật uống trà bằng tay phải).
 
 ---
 
-## ✅ Hội thoại TỐT — order chuẩn + phía phải
+## ✅ Hội thoại TỐT — thứ tự chuẩn + phía phải
 
 *bưng khay 6 cốc trà nóng, vào phòng cúi nhẹ · đến chỗ Nakamura đầu tiên, đặt cốc bên phải Nakamura, hai tay · tiếp tục theo thứ tự: 大垣 (上座 phải) → 松本 (上座 trái) → フオン副部長 (下座 giữa) → ズン → トゥアン · sau khi đặt xong, lui ra cửa, bow*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **リン** | 「**お茶をお持ちいたしました。失礼いたします**【1】。」 |
-| **リン**【2】 | 「中村CFO、どうぞ。」 |
+| **リン** | 「**お茶をお<ruby>持<rt>も</rt></ruby>ちいたしました。<ruby>失礼<rt>しつれい</rt></ruby>いたします**【1】。」 |
+|  | *Em đã mang trà tới ạ. Xin phép ạ.* |
+| **リン**【2】 | 「<ruby>中村<rt>なかむら</rt></ruby>CFO、どうぞ。」 |
+|  | *Anh Nakamura CFO, mời anh ạ.* |
 | **中村CFO** | 「ありがとうございます。」 |
+|  | *Cảm ơn em.* |
 | **リン**【3】 | *(im lặng đặt từng cốc theo thứ tự)* |
+|  | *(tiếp theo phục vụ Ōgaki → Matsumoto → Hương → Dũng → Tuấn theo thứ tự)* |
 | **リン** | 「**ごゆっくりどうぞ**【4】。」 |
+|  | *Mời các anh thưởng thức ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**「失礼いたします」** — câu cố định khi vào phòng họp đang diễn ra. Dù mình là staff cũng nói (KHÔNG im lặng vào bê trà).
+- 【1】**「失礼いたします」** — câu cố định khi vào phòng họp đang diễn ra. Dù mình là nhân viên phục vụ cũng nói (KHÔNG im lặng vào bê trà).
 - 【2】**Đặt bên phải, 2 tay** — bên phải khách (= tay uống). 2 tay đỡ đáy cốc đặt nhẹ. KHÔNG thả cao 5cm trên bàn (tiếng "cốp").
-- 【3】**Order chuẩn**: senior khách trung tâm → khách phải → khách trái → senior host (副部長) → host junior. Tổng thời gian ~ 90 giây cho 6 cốc.
+- 【3】**Thứ tự chuẩn**: người cấp cao bên khách (trung tâm) → khách phải → khách trái → cấp trên bên mình (副部長) → nhân viên trẻ bên mình. Tổng thời gian ~ 90 giây cho 6 cốc.
 - 【4】**「ごゆっくりどうぞ」** — câu cố định khi xong. Bow nhẹ 15° rồi lui ra cửa, KHÔNG quay lưng đi thẳng (đi lùi 1-2 bước rồi mới xoay).
 
 ---
@@ -969,19 +1060,19 @@ Sau khi 3 khách ngồi 上座 (rule 10), Linh (intern, làm task hospitality) r
 
 > **「お茶は『着席後5分以内・客senior優先順・右側両手・"ごゆっくりどうぞ"』。」**
 >
-> *Trà = trong 5 phút sau ngồi / thứ tự senior khách trước / đặt bên phải 2 tay / chốt "ごゆっくりどうぞ".*
+> *Trà = trong 5 phút sau ngồi / thứ tự người cấp cao bên khách trước / đặt bên phải 2 tay / chốt "ごゆっくりどうぞ".*
 
 ---
 
 ## ⚠ Tránh
 
-- Trà ra **muộn 10+ phút** → khách khô cổ = host thiếu attention
-- Phục vụ **host trước khách** → vi phạm cốt lõi
+- Trà ra **muộn 10+ phút** → khách khô cổ = bên mình thiếu chu đáo
+- Phục vụ **bên mình trước khách** → vi phạm cốt lõi
 - Đặt cốc **bên trái** khách → chắn tay uống
 - **1 tay** đặt cốc → 2 tay (1 tay đỡ đáy + 1 tay nâng cốc)
 - Đặt cốc với **tiếng "cốp"** → đặt nhẹ, không nghe tiếng
 - **Quay lưng** đi thẳng ra cửa sau khi đặt xong → lui 1-2 bước rồi mới xoay
-- Hỏi "**ホットですか?アイスですか?**" giữa cuộc nói chuyện → chuẩn bị trước, hoặc default trà nóng cho senior + hỏi nhanh ngoài phòng cho junior nếu mùa hè VN
+- Hỏi "**ホットですか?アイスですか?**" giữa cuộc nói chuyện → chuẩn bị trước, hoặc mặc định trà nóng cho người cấp cao + hỏi nhanh ngoài phòng cho nhân viên trẻ nếu mùa hè VN
 
 ---
 
@@ -1001,7 +1092,7 @@ Sau khi 3 khách ngồi 上座 (rule 10), Linh (intern, làm task hospitality) r
 
 # Rule 12 — Mở đầu hội nghị offline / 対面会議の冒頭
 
-> **Luận điểm.** Khác online (sách 03 rule_09): offline mở đầu cần **(1) cảm ơn đã đến tận nơi (2) xác nhận thời lượng + agenda giấy (3) intro round nếu có người mới (4) đặt rule trà/break/phone (5) speed nói chậm hơn 10% online**. Khách Nhật bay 5h đến HCMC = mệt + jetlag = trách nhiệm host làm họ comfortable trong 5 phút đầu.
+> **Luận điểm.** Khác online (sách 03 rule_09): offline mở đầu cần **(1) cảm ơn đã đến tận nơi (2) xác nhận thời lượng + agenda giấy (3) màn giới thiệu vòng tròn nếu có người mới (4) đặt quy ước trà/giải lao/điện thoại (5) nói chậm hơn 10% so với online**. Khách Nhật bay 5h đến HCMC = mệt + lệch múi giờ = trách nhiệm bên chủ nhà là làm họ thoải mái trong 5 phút đầu.
 >
 > 対面会議冒頭は『遠路への謝辞・時間agenda紙確認・intro round・茶/休憩/携帯ルール・online比10%減速』の5要素。
 >
@@ -1011,45 +1102,57 @@ Sau khi 3 khách ngồi 上座 (rule 10), Linh (intern, làm task hospitality) r
 
 ## Bối cảnh / 場面
 
-9:40 sáng. Khách đã ngồi 上座, trà đã ra. Hương 副部長 mở đầu meeting Phase 3 kickoff. Đoàn 白鷗 vừa bay từ Tokyo lúc nửa đêm + transit Singapore = 12h trên đường.
+9:40 sáng. Khách đã ngồi 上座, trà đã ra. Hương 副部長 mở đầu cuộc họp Phase 3 kickoff. Đoàn 白鷗 vừa bay từ Tokyo lúc nửa đêm + transit Singapore = 12h trên đường.
 
 ---
 
-## ❌ Hội thoại XẤU — vào thẳng nội dung, không acknowledge
+## ❌ Hội thoại XẤU — vào thẳng nội dung, không ghi nhận công khách
 
 *9:40, vào ngay slide 1 · còn đang sắp xếp tài liệu, hơi vội · lúng túng, gọi Linh*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **フオン副部長** | 「では、Phase 3 のスコープを説明します。スライド1ご覧ください。Backend API は…」 |
+| **フオン副部長** | 「では、Phase 3 の<ruby>説明<rt>せつめい</rt></ruby>をします。スライド1ご<ruby>覧<rt>らん</rt></ruby>ください。Backend API は…」 |
+|  | *Vậy chị xin phép giải thích scope Phase 3. Slide 1 xin các anh xem ạ. Backend API thì...* |
 | **大垣** | 「あの、すみません、agenda はありますか？」 |
-| **フオン副部長** | 「あ、PDFを共有しました…」 |
-| **大垣** | 「紙でも頂けますか？」 |
-| **フオン副部長** | 「リンさん、agenda 5部印刷お願い…」 |
+|  | *Xin lỗi, có agenda không ạ?* |
+| **フオン副部長** | 「あ、PDFを<ruby>共有<rt>きょうゆう</rt></ruby>しました…」 |
+|  | *À, em đã share PDF rồi ạ...* |
+| **大垣** | 「<ruby>紙<rt>かみ</rt></ruby>でも<ruby>頂<rt>いただ</rt></ruby>けますか？」 |
+|  | *Có thể cho bản giấy không ạ?* |
+| **フオン副部長** | 「リンさん、agenda 5<ruby>部<rt>ぶ</rt></ruby><ruby>印刷<rt>いんさつ</rt></ruby>お<ruby>願<rt>ねが</rt></ruby>い…」 |
+|  | *Linh, in giúp chị 5 bản agenda...* |
 
-**Vì sao xấu:** (1) Không acknowledge khách bay xa = lạnh. (2) Không có agenda giấy = phải gián đoạn 5 phút in. (3) Vào thẳng nội dung = miss cơ hội build rapport. Khách Nhật mất goodwill trong 3 phút đầu.
+**Vì sao xấu:** (1) Không ghi nhận việc khách bay xa = lạnh. (2) Không có agenda giấy = phải gián đoạn 5 phút để in. (3) Vào thẳng nội dung = bỏ lỡ cơ hội tạo thiện cảm. Khách Nhật mất thiện chí trong 3 phút đầu.
 
 ---
 
 ## ✅ Hội thoại TỐT — 5 yếu tố mở đầu
 
-*9:40, đứng dậy, bow 30° · đứng nhẹ, bow đáp · ngồi xuống, chỉ vào agenda giấy đã đặt sẵn trên bàn · intro round 6 người, mỗi người 30 giây — Hương → Tuấn → Dũng → Linh → Nakamura → Ōgaki → Matsumoto · speed chậm hơn online 10%【5】*
+*9:40, đứng dậy, cúi chào 30° · đứng nhẹ, cúi chào đáp · ngồi xuống, chỉ vào agenda giấy đã đặt sẵn trên bàn · giới thiệu vòng tròn 6 người, mỗi người 30 giây — Hương → Tuấn → Dũng → Linh → Nakamura → Ōgaki → Matsumoto · nói chậm hơn online 10%【5】*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **フオン副部長** | 「**本日はお忙しい中、また長旅の中、HCMCまでお越しいただき、誠にありがとうございます**【1】。」 |
+| **フオン副部長** | 「**本日はお<ruby>忙<rt>いそが</rt></ruby>しい<ruby>中<rt>なか</rt></ruby>、また<ruby>長旅<rt>ながたび</rt></ruby>の<ruby>中<rt>なか</rt></ruby>、HCMCまでお<ruby>越<rt>こ</rt></ruby>しいただき、<ruby>誠<rt>まこと</rt></ruby>にありがとうございます**【1】。」 |
+|  | *Hôm nay các anh bận rộn lại đường xa đến tận HCMC, em xin chân thành cảm ơn ạ.* |
 | **大垣 + 中村 + 松本** | 「いえいえ、こちらこそ。」 |
-| **フオン副部長** | 「**本日のagendaは皆様のお手元にございます**【2】。**全体9:40〜12:00、3つのトピック**を予定しております。」 |
-| **フオン副部長** | 「**本日は弊社からも新メンバーが参加していますので、最初に簡単な自己紹介を**【3】。皆様、続けてお願いします。」 |
-| **フオン副部長** | 「**お茶のお代わり、お手洗い、いつでもお申し付けください。携帯はマナーモードでお願いいたします**【4】。」 |
-| **フオン副部長** | 「では、最初のトピック『Phase 3 スコープ確認』に入らせていただきます。」 |
+|  | *Không không, chúng tôi cũng vậy.* |
+| **フオン副部長** | 「**本日のagendaは<ruby>皆様<rt>みなさま</rt></ruby>のお<ruby>手元<rt>てもと</rt></ruby>にございます**【2】。**<ruby>全体<rt>ぜんたい</rt></ruby>9:40〜12:00、3つのトピック**を<ruby>予定<rt>よてい</rt></ruby>しております。」 |
+|  | *Agenda hôm nay đã có trong tay các anh ạ. Toàn bộ 9:40 đến 12:00, dự kiến 3 chủ đề.* |
+| **フオン副部長** | 「**本日は<ruby>弊社<rt>へいしゃ</rt></ruby>からも<ruby>新<rt>しん</rt></ruby>メンバーが<ruby>参加<rt>さんか</rt></ruby>していますので、<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>自己紹介<rt>じこしょうかい</rt></ruby>を**【3】。<ruby>皆様<rt>みなさま</rt></ruby>、<ruby>続<rt>つづ</rt></ruby>けてお<ruby>願<rt>ねが</rt></ruby>いします。」 |
+|  | *Hôm nay bên em có thành viên mới tham gia, xin phép tự giới thiệu trước ạ. Mong các anh cũng giới thiệu tiếp ạ.* |
+| **フオン副部長** | *(intro round 6 người, 30 giây/người hoàn tất)* |
+| **フオン副部長** | 「**お<ruby>茶<rt>ちゃ</rt></ruby>のお<ruby>代<rt>か</rt></ruby>わり、お<ruby>手洗<rt>てあら</rt></ruby>い、いつでもお<ruby>申<rt>もう</rt></ruby>し<ruby>付<rt>つ</rt></ruby>けください。<ruby>携帯<rt>けいたい</rt></ruby>はマナーモードでお<ruby>願<rt>ねが</rt></ruby>いいたします**【4】。」 |
+|  | *Trà refill, WC, lúc nào các anh cần cứ nói ạ. Mong các anh để điện thoại chế độ im lặng giúp em.* |
+| **フオン副部長** | 「では、<ruby>最初<rt>さいしょ</rt></ruby>のトピック『Phase 3 スコープ<ruby>確認<rt>かくにん</rt></ruby>』に<ruby>入<rt>はい</rt></ruby>らせていただきます。」 |
+|  | *Vậy em xin phép vào chủ đề đầu 'Xác nhận scope Phase 3' ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**長旅謝辞** — bay 12h đến cần được acknowledge. Câu mẫu: 「お忙しい中、また長旅の中、HCMCまでお越しいただき、誠にありがとうございます」.
-- 【2】**Agenda giấy** — không phải chỉ PDF. In sẵn 1 bản/người đặt trên bàn từ 9:30. Khách Nhật quen ghi note tay.
-- 【3】**Intro round nếu có new face** — Linh là intern lần đầu, intro round giúp khách "đặt tên + mặt + role" cho mọi người. Mỗi người 30 giây.
-- 【4】**Rule cơ bản** — trà refill / WC / phone mode. Nói rõ = khách thoải mái xin nhỏ giọt thay vì nín đợi.
-- 【5】**Speed -10% so với online** — offline có cue mặt + body language nhưng cần thời gian để khách Nhật "process" tiếng VN-Japanese accent. Slower = thoải mái hơn.
+- 【1】**長旅謝辞 (cảm ơn đường xa)** — bay 12h đến cần được ghi nhận. Câu mẫu: 「お忙しい中、また長旅の中、HCMCまでお越しいただき、誠にありがとうございます」.
+- 【2】**Agenda giấy** — không phải chỉ PDF. In sẵn 1 bản/người đặt trên bàn từ 9:30. Khách Nhật quen ghi chú bằng tay.
+- 【3】**Giới thiệu vòng tròn khi có người mới** — Linh là thực tập sinh lần đầu, màn giới thiệu vòng tròn giúp khách khớp "tên + mặt + vai trò" cho mọi người. Mỗi người 30 giây.
+- 【4】**Quy ước cơ bản** — châm trà / nhà vệ sinh / chế độ im lặng điện thoại. Nói rõ = khách thoải mái xin nhỏ nhẹ thay vì nín đợi.
+- 【5】**Nói chậm hơn 10% so với online** — offline có biểu cảm mặt + ngôn ngữ cơ thể nhưng khách Nhật cần thời gian để nghe quen giọng tiếng Nhật của người Việt. Chậm hơn = thoải mái hơn.
 
 ---
 
@@ -1063,14 +1166,14 @@ Sau khi 3 khách ngồi 上座 (rule 10), Linh (intern, làm task hospitality) r
 
 ## ⚠ Tránh
 
-- **Vào thẳng slide 1** không greeting → lạnh, miss rapport
+- **Vào thẳng slide 1** không chào hỏi → lạnh, bỏ lỡ tạo thiện cảm
 - Chỉ có **agenda PDF** → bắt buộc có giấy
-- **Bỏ intro round** khi có new face → khách không nhớ ai là ai
-- **Speed bằng online** → offline cần slower
-- Quên **rule WC/trà refill** → khách Nhật ngại xin = không thoải mái → meeting năng suất giảm
-- Phone **không nói gì** → cuối meeting chuông reo = mất face
+- **Bỏ màn giới thiệu vòng tròn** khi có người mới → khách không nhớ ai là ai
+- **Nói nhanh như online** → offline cần chậm hơn
+- Quên **quy ước nhà vệ sinh / châm trà** → khách Nhật ngại xin = không thoải mái → năng suất họp giảm
+- Điện thoại **không nói gì** → cuối buổi chuông reo = mất thể diện
 
-> 🔗 **Cross-ref sách 03 rule_09** — online opening: 「画面共有確認」「音声テスト」「タイムキーパー」3 yếu tố. Offline thay bằng "agenda 紙 / お茶 / 長旅謝辞".
+> 🔗 **Tham chiếu chéo sách 03 rule_09** — mở đầu online: 「画面共有確認」「音声テスト」「タイムキーパー」3 yếu tố. Offline thay bằng "agenda 紙 / お茶 / 長旅謝辞".
 
 ---
 
@@ -1081,7 +1184,7 @@ Sau khi 3 khách ngồi 上座 (rule 10), Linh (intern, làm task hospitality) r
 | 長旅 | ながたび | Đi xa (đường dài) |
 | 誠に | まことに | Vô cùng / thật lòng |
 | お手元 | おてもと | Trong tay (kính ngữ) |
-| お代わり | おかわり | Refill |
+| お代わり | おかわり | Châm thêm (lượt nữa) |
 | お手洗い | おてあらい | Nhà vệ sinh (lịch sự) |
 | お申し付けください | おもうしつけください | Mong anh nói (kính ngữ) |
 | マナーモード | manaa moodo | Chế độ im lặng |
@@ -1091,11 +1194,11 @@ Sau khi 3 khách ngồi 上座 (rule 10), Linh (intern, làm task hospitality) r
 
 # Rule 13 — Kết thúc + tiễn khách / お見送り
 
-> **Luận điểm.** Tiễn khách = **đi cùng đến lobby/cửa thang máy/cửa taxi tùy weight** + **đứng đợi cho đến khi cửa thang máy đóng / xe đi khuất** + **bow 45° cuối**. Không tiễn (bye tại phòng họp) = "tôi xong với anh rồi". Tiễn ngắn (đến cửa thôi) = thiếu trọng lượng cho khách C-level.
+> **Luận điểm.** Tiễn khách = **đi cùng đến lobby/cửa thang máy/cửa taxi tùy mức trọng** + **đứng đợi cho đến khi cửa thang máy đóng / xe đi khuất** + **cúi chào 45° cuối**. Không tiễn (chào tạm biệt tại phòng họp) = "tôi xong với anh rồi". Tiễn ngắn (đến cửa thôi) = thiếu trọng lượng cho khách C-level.
 >
 > お見送りは『送る場所(エレベーター/玄関/タクシー)を相手の格で決定・扉が閉まるまで起立・最後に45度お辞儀』。
 >
-> **Liên quan:** rule 08 (お出迎え), rule 09 (案内 — flow vào).
+> **Liên quan:** rule 08 (お出迎え), rule 09 (案内 — mạch dẫn vào).
 
 ---
 
@@ -1103,10 +1206,10 @@ Sau khi 3 khách ngồi 上座 (rule 10), Linh (intern, làm task hospitality) r
 
 12:00 trưa, meeting Phase 3 kickoff kết thúc. Đoàn 大垣 + 中村 + 松本 chuẩn bị về khách sạn nghỉ. Chiều có dinner. Hương 副部長 + Dũng + Linh tiễn.
 
-**Quy tắc weight:**
-- 一般 client: tiễn đến **cửa phòng họp / lễ tân**
-- Client quan trọng: tiễn đến **lobby / cửa thang máy** (đợi cửa đóng)
-- C-level / first visit: tiễn đến **cửa taxi / xe** (đợi xe đi khuất)
+**Quy tắc theo mức trọng:**
+- Khách thường: tiễn đến **cửa phòng họp / lễ tân**
+- Khách quan trọng: tiễn đến **lobby / cửa thang máy** (đợi cửa đóng)
+- C-level / lần gặp đầu: tiễn đến **cửa taxi / xe** (đợi xe đi khuất)
 
 Đoàn 中村 CFO + 大垣 部長 = C-level → tiễn đến cửa taxi.
 
@@ -1114,37 +1217,45 @@ Sau khi 3 khách ngồi 上座 (rule 10), Linh (intern, làm task hospitality) r
 
 ## ❌ Hội thoại XẤU — bye tại phòng họp
 
-*12:00, đứng dậy ngay sau khi nói "では本日はこれで" · tự ra cửa · đứng tại phòng họp, vẫy tay · quay đầu thoáng nhíu mày*
+*12:00, đứng dậy ngay sau khi nói 「では本日はこれで」· tự ra cửa · đứng tại phòng họp, vẫy tay · quay đầu thoáng nhíu mày*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **フオン副部長** | 「お疲れさまでした。気をつけて帰ってください。」 |
-| **大垣 + 中村 + 松本** | 「では失礼します。」 |
-| **ズン** | 「お気をつけて〜」 |
+| **フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>** | 「お<ruby>疲<rt>つか</rt></ruby>れさまでした。<ruby>気<rt>き</rt></ruby>をつけて<ruby>帰<rt>かえ</rt></ruby>ってください。」 |
+|  | *Các anh vất vả ạ. Cẩn thận về nha.* |
+| **<ruby>大垣<rt>おおがき</rt></ruby> + <ruby>中村<rt>なかむら</rt></ruby> + <ruby>松本<rt>まつもと</rt></ruby>** | 「では<ruby>失礼<rt>しつれい</rt></ruby>します。」 |
+|  | *Tôi xin phép.* |
+| **ズン** | 「お<ruby>気<rt>き</rt></ruby>をつけて〜」 |
+|  | *Cẩn thận nhé~* |
 | **大垣** | *(im lặng đi)* |
 
-**Vì sao xấu:** (1) Bye tại phòng họp với C-level = vô lễ. (2) "気をつけて帰ってください" + "お気をつけて〜" = quá casual cho CFO senior. (3) Không tiễn lobby = "việc tôi xong rồi anh tự về" = mất relationship.
+**Vì sao xấu:** (1) Chào tạm biệt tại phòng họp với C-level = vô lễ. (2) 「気をつけて帰ってください」+「お気をつけて〜」= quá suồng sã cho CFO cấp cao. (3) Không tiễn lobby = "việc tôi xong rồi anh tự về" = mất quan hệ.
 
 ---
 
 ## ✅ Hội thoại TỐT — tiễn đến taxi + bow 45°
 
-*12:00, đứng dậy, bow 30° · dẫn đoàn xuống thang máy → lobby → cửa · tại lobby, đã book taxi sẵn, taxi đến · lên xe, vẫy · bow 45°, đứng yên cho đến khi xe đi khuất khỏi tầm mắt【3】 · xe khuất → 3 người mới đứng thẳng, vào trong*
+*12:00, đứng dậy, cúi chào 30° · dẫn đoàn xuống thang máy → lobby → cửa · tại lobby, đã đặt taxi sẵn, taxi đến · lên xe, vẫy · cúi chào 45°, đứng yên cho đến khi xe đi khuất khỏi tầm mắt【3】 · xe khuất → 3 người mới đứng thẳng, vào trong*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **フオン副部長** | 「**本日は誠にありがとうございました。ロビーまでお見送りさせていただきます**【1】。」 |
-| **大垣** | 「ご丁寧に、恐縮です。」 |
+| **フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>** | 「**<ruby>本日<rt>ほんじつ</rt></ruby>は<ruby>誠<rt>まこと</rt></ruby>にありがとうございました。ロビーまでお<ruby>見送<rt>みおく</rt></ruby>りさせていただきます**【1】。」 |
+|  | *Hôm nay em xin chân thành cảm ơn ạ. Em xin phép tiễn các anh xuống lobby ạ.* |
+| **<ruby>大垣<rt>おおがき</rt></ruby>** | 「ご<ruby>丁寧<rt>ていねい</rt></ruby>に、<ruby>恐縮<rt>きょうしゅく</rt></ruby>です。」 |
+|  | *Lịch sự quá, ngại quá.* |
 | **フオン副部長 + ズン + リン** | *(Dũng đi trước, mở cửa thang máy giữ — quy tắc rule 09 ngược)* |
-| **ズン** | 「**お車のご用意ができております**【2】。」 |
-| **大垣 + 中村 + 松本** | 「ありがとうございました。」 |
-| **フオン副部長 + ズン + リン** | 「**本日は誠にありがとうございました。お気をつけてお帰りくださいませ**【4】。」 |
+| **ズン** | 「**お<ruby>車<rt>くるま</rt></ruby>のご<ruby>用意<rt>ようい</rt></ruby>ができております**【2】。」 |
+|  | *Xe đã có sẵn ạ.* |
+| **大垣 + <ruby>中村<rt>なかむら</rt></ruby> + <ruby>松本<rt>まつもと</rt></ruby>** | 「ありがとうございました。」 |
+|  | *Cảm ơn các bạn.* |
+| **フオン副部長 + ズン + リン** | 「**本日は誠にありがとうございました。お<ruby>気<rt>き</rt></ruby>をつけてお<ruby>帰<rt>かえ</rt></ruby>りくださいませ**【4】。」 |
+|  | *Hôm nay em chân thành cảm ơn ạ. Mong các anh về cẩn thận ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**「お見送りさせていただきます」** — câu cố định khi propose tiễn. KHÔNG là "送ります" (quá casual).
-- 【2】**Taxi book sẵn** — host trách nhiệm. Khách Nhật không tự bắt Grab. Book trước 15 phút bằng app cty hoặc hotel taxi.
+- 【1】**「お見送りさせていただきます」** — câu cố định khi đề nghị tiễn. KHÔNG dùng 「送ります」(quá suồng sã).
+- 【2】**Taxi đặt sẵn** — bên chủ nhà trách nhiệm. Khách Nhật không tự bắt Grab. Đặt trước 15 phút bằng app công ty hoặc taxi của khách sạn.
 - 【3】**Đợi xe khuất tầm mắt** — không phải đợi xe khởi hành rồi quay vào ngay. Đợi 5-10 giây cho đến khi xe **rẽ khuất** mới được đứng thẳng. Khách Nhật quay lại vẫy = mình vẫy lại được.
-- 【4】**「お気をつけてお帰りくださいませ」** > 「気をつけて帰ってください」 — formal tier cao nhất cho C-level.
+- 【4】**「お気をつけてお帰りくださいませ」** > 「気をつけて帰ってください」 — bậc trang trọng cao nhất cho C-level.
 
 ---
 
@@ -1152,17 +1263,17 @@ Sau khi 3 khách ngồi 上座 (rule 10), Linh (intern, làm task hospitality) r
 
 > **「お見送りは『相手の格で送る場所決定・お車手配・扉閉/車去まで起立・45度お辞儀』。」**
 >
-> *Tiễn = chọn nơi tiễn theo cấp / book xe sẵn / đứng đợi đến khi cửa đóng/xe khuất / bow 45° cuối.*
+> *Tiễn = chọn nơi tiễn theo cấp / đặt xe sẵn / đứng đợi đến khi cửa đóng/xe khuất / cúi chào 45° cuối.*
 
 ---
 
 ## ⚠ Tránh
 
-- Bye **tại phòng họp** với C-level → tiễn đến cửa
+- Chào tạm biệt **tại phòng họp** với C-level → tiễn đến cửa
 - **Quay vào ngay** sau khi xe lăn bánh → đợi xe khuất tầm mắt
-- "**Bye-bye**" / vẫy tay casual với senior khách → bow 45° + câu cố định
-- Khách phải **tự bắt taxi** → host book sẵn 15 phút trước
-- Senior bên mình **đứng tại phòng họp** + để junior tiễn → senior phải đi cùng đến cửa
+- "**Bye-bye**" / vẫy tay suồng sã với khách cấp cao → cúi chào 45° + câu cố định
+- Khách phải **tự bắt taxi** → bên chủ nhà đặt sẵn 15 phút trước
+- Cấp trên bên mình **đứng tại phòng họp** + để nhân viên trẻ tiễn → cấp trên phải đi cùng đến cửa
 - Tiễn xong **chạy về phòng họp ngay** → đi chậm rãi vào, không vội vàng
 
 ---
@@ -1183,7 +1294,7 @@ Sau khi 3 khách ngồi 上座 (rule 10), Linh (intern, làm task hospitality) r
 
 # Rule 14 — After-care (theo dõi) / アフターケア
 
-> **Luận điểm.** Trong **24 giờ** sau visit: gửi email cảm ơn từ host senior (Hương 副部長 hoặc CTO Hà), reference **3 yếu tố cụ thể từ meeting** (1 quote senior + 1 action item + 1 cá nhân note), kèm **biên bản meeting + slide** đính kèm. Email generic 1 dòng = visit không "đậm". Email đầy context = relationship build.
+> **Luận điểm.** Trong **24 giờ** sau visit: gửi email cảm ơn từ host senior (Hương 副部長 hoặc CTO Hà), nhắc lại **3 yếu tố cụ thể từ buổi họp** (1 câu trích dẫn của senior + 1 hành động cụ thể + 1 ghi chú cá nhân), kèm **biên bản họp + slide** đính kèm. Email sáo rỗng 1 dòng = visit không "đậm". Email đầy ngữ cảnh = xây dựng được quan hệ.
 >
 > 訪問後24時間以内に host senior 名義で『specific quote+action item+個人ノート』を含むお礼メール送信。
 >
@@ -1193,7 +1304,7 @@ Sau khi 3 khách ngồi 上座 (rule 10), Linh (intern, làm task hospitality) r
 
 ## Bối cảnh / 場面
 
-Sáng hôm sau visit (ngày D+1, 9:00). Linh đã làm xong 24h memo (rule 07). Hương 副部長 review draft mail và gửi từ tài khoản chính chủ.
+Sáng hôm sau visit (ngày D+1, 9:00). Linh đã làm xong 24h memo (rule 07). Hương 副部長 kiểm tra bản nháp mail và gửi từ tài khoản chính chủ.
 
 ---
 
@@ -1201,14 +1312,18 @@ Sáng hôm sau visit (ngày D+1, 9:00). Linh đã làm xong 24h memo (rule 07). 
 
 *D+3, sáng thứ 2 · D+3, draft · send*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオンさん、白鷗 visit のお礼メール、まだ送ってないですね…」 |
-| **フオン副部長** | 「あ、忘れてた。リンさん、generic で送って。」 |
-| **リン** | 「**【件名】昨日はありがとうございました ← visit 3日前なのに『昨日』...** 本文: 先日はお越しいただきありがとうございました。今後ともよろしくお願いいたします。」 |
+| **ズン** | 「フオンさん、<ruby>白鷗<rt>はくおう</rt></ruby> visit のお<ruby>礼<rt>れい</rt></ruby>メール、まだ<ruby>送<rt>おく</rt></ruby>ってないですね…」 |
+|  | *Chị Hương, mail cảm ơn 白鷗 visit chưa gửi đúng không ạ...* |
+| **フオン副部長** | 「あ、<ruby>忘<rt>わす</rt></ruby>れてた。リンさん、generic で<ruby>送<rt>おく</rt></ruby>って。」 |
+|  | *À, quên mất. Linh, em gửi bài sáo rỗng đi.* |
+| **リン** | 「**【<ruby>件名<rt>けんめい</rt></ruby>】<ruby>昨日<rt>きのう</rt></ruby>はありがとうございました ← visit 3日前なのに『昨日』...** 本文: 先日はお<ruby>越<rt>こ</rt></ruby>しいただきありがとうございました。今後ともよろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。」 |
+|  | *Tiêu đề 'Hôm qua cảm ơn anh', body 'Hôm trước cảm ơn anh đã đến. Mong tiếp tục hợp tác'.* |
 | **フオン副部長** | 「OK 送って。」 |
+|  | *OK gửi đi.* |
 
-**Vì sao xấu:** (1) D+3 = quá muộn, "tươi" đã chết. (2) "昨日" sai date. (3) Body 1 dòng generic = không reference gì specific = "tôi không thực sự để ý anh nói gì".
+**Vì sao xấu:** (1) D+3 = quá muộn, "độ tươi" đã chết. (2) "昨日" sai ngày. (3) Body 1 dòng sáo rỗng = không nhắc lại gì cụ thể = "tôi không thực sự để ý anh nói gì".
 
 ---
 
@@ -1216,18 +1331,23 @@ Sáng hôm sau visit (ngày D+1, 9:00). Linh đã làm xong 24h memo (rule 07). 
 
 *D+1 9:00, draft mail từ 24h memo · review · 送信前*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **リン** | 「フオン副部長、お礼メールdraft完成しました。**3要素**【1】チェック済: ① 中村CFOの『Phase 4 予算1,500万円』引用 ② action item『Q3決算後再検討』スケジュール ③ 大垣部長の HCMC 食事感想への一言。」 |
-| **フオン副部長** | 「件名は『**Phase 3 キックオフ御礼および議事録ご送付の件**』に。長すぎず短すぎず。」 |
-| **リン** | 「議事録 PDF + slide deck も添付済みです。CC は中村CFO・大垣部長・松本PM の3名、To は大垣部長(代表)。」 |
-| **フオン副部長** | 「私の名義で送って。署名は **副部長フオン**【2】。リンの名前は『資料作成: リン』で本文に明記【3】。」 |
-| **リン** | 「承知いたしました。9:30 までに送信いたします。」 |
+| **リン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、お<ruby>礼<rt>れい</rt></ruby>メールdraft<ruby>完成<rt>かんせい</rt></ruby>しました。**3<ruby>要素<rt>ようそ</rt></ruby>**【1】チェック<ruby>済<rt>ず</rt></ruby>: ① <ruby>中村<rt>なかむら</rt></ruby>CFOの『Phase 4 <ruby>予算<rt>よさん</rt></ruby>1,500万円』<ruby>引用<rt>いんよう</rt></ruby> ② action item『Q3<ruby>決算<rt>けっさん</rt></ruby>後<ruby>再検討<rt>さいけんとう</rt></ruby>』スケジュール ③ <ruby>大垣<rt>おおがき</rt></ruby>部長の HCMC <ruby>食事<rt>しょくじ</rt></ruby><ruby>感想<rt>かんそう</rt></ruby>への<ruby>一言<rt>ひとこと</rt></ruby>。」 |
+|  | *Chị Hương, em đã xong draft mail cảm ơn ạ. Đã check 3 yếu tố: ① quote anh Nakamura CFO 'budget Phase 4 15tr yên'. ② action 'sau quyết toán Q3 review'. ③ note cá nhân về cảm tưởng đồ ăn HCMC của anh Ōgaki 部長.* |
+| **フオン副部長** | 「件名は『**Phase 3 キックオフ<ruby>御礼<rt>おんれい</rt></ruby>および<ruby>議事録<rt>ぎじろく</rt></ruby>ご<ruby>送付<rt>そうふ</rt></ruby>の件**』に。<ruby>長<rt>なが</rt></ruby>すぎず<ruby>短<rt>みじか</rt></ruby>すぎず。」 |
+|  | *Tiêu đề: 'Cảm ơn Phase 3 Kickoff và gửi biên bản'. Vừa, không dài không ngắn.* |
+| **リン** | 「議事録 PDF + slide deck も<ruby>添付<rt>てんぷ</rt></ruby><ruby>済<rt>ず</rt></ruby>みです。CC は中村CFO・大垣部長・<ruby>松本<rt>まつもと</rt></ruby>PM の3<ruby>名<rt>めい</rt></ruby>、To は大垣部長(<ruby>代表<rt>だいひょう</rt></ruby>)。」 |
+|  | *Biên bản PDF + slide deck đính kèm rồi ạ. CC 3 người Nakamura CFO + Ōgaki 部長 + Matsumoto PM, To là Ōgaki 部長 (đại diện).* |
+| **フオン副部長** | 「<ruby>私<rt>わたし</rt></ruby>の<ruby>名義<rt>めいぎ</rt></ruby>で送って。<ruby>署名<rt>しょめい</rt></ruby>は **副部長フオン**【2】。リンの名前は『<ruby>資料<rt>しりょう</rt></ruby><ruby>作成<rt>さくせい</rt></ruby>: リン』で本文に<ruby>明記<rt>めいき</rt></ruby>【3】。」 |
+|  | *Gửi tên chị nhé. Chữ ký '副部長 Hương'. Tên Linh ghi rõ trong body 'Tài liệu: Linh'.* |
+| **リン** | 「<ruby>承知<rt>しょうち</rt></ruby>いたしました。9:30 までに<ruby>送信<rt>そうしん</rt></ruby>いたします。」 |
+|  | *Em rõ ạ. Trước 9:30 em sẽ gửi.* |
 
 📝 **Ghi chú:**
-- 【1】**3要素必須** — quote + action + personal note. Quote = chứng minh "tôi nghe và nhớ". Hành động = chuyển sang follow-up cụ thể. Ghi chú cá nhân = xây dựng quan hệ (tránh feedback meeting purely).
-- 【2】**Senior 名義で送る** — email từ Hương (副部長) > từ Linh (intern). Khách Nhật weight email theo cấp người gửi.
-- 【3】**Linh credit trong body** — junior làm thực sự nhưng senior gửi → ghi "資料作成: リン" để Linh được visible với khách (build cho future).
+- 【1】**3要素必須** — câu trích dẫn + hành động + ghi chú cá nhân. Trích dẫn = chứng minh "tôi nghe và nhớ". Hành động = chuyển sang follow-up cụ thể. Ghi chú cá nhân = xây dựng quan hệ (tránh kiểu chỉ phản hồi nội dung họp đơn thuần).
+- 【2】**Senior 名義で送る** — email từ Hương (副部長) > từ Linh (thực tập sinh). Khách Nhật đánh giá trọng lượng email theo cấp người gửi.
+- 【3】**Linh được ghi tên trong body** — người làm thực sự là Linh nhưng senior đứng tên gửi → ghi "資料作成: リン" để khách nhận diện được Linh (tạo nền cho lần gặp sau).
 
 ---
 
@@ -1241,12 +1361,12 @@ Sáng hôm sau visit (ngày D+1, 9:00). Linh đã làm xong 24h memo (rule 07). 
 
 ## ⚠ Tránh
 
-- **D+3 hoặc muộn hơn** → tươi đã chết, generic
-- **Generic 1 dòng** "ありがとうございました" → không reference gì cụ thể = không impact
-- Email **từ junior** (intern Linh) thay vì senior → senior name carries weight
-- **Quên attach** biên bản + slide → bắt khách tự chuẩn bị reference
+- **D+3 hoặc muộn hơn** → độ tươi đã chết, sáo rỗng
+- **Sáo rỗng 1 dòng** "ありがとうございました" → không nhắc lại gì cụ thể = không tạo ấn tượng
+- Email **từ junior** (thực tập sinh Linh) thay vì senior → tên senior mới có trọng lượng
+- **Quên đính kèm** biên bản + slide → bắt khách tự chuẩn bị tài liệu đối chiếu
 - "**昨日**" / "**先日**" mơ hồ → ghi ngày cụ thể "5月15日のお打ち合わせ"
-- **Không CC** đoàn → CC tất cả attendee bên khách + senior bên mình
+- **Không CC** đoàn → CC tất cả người tham dự bên khách + senior bên mình
 
 ---
 
@@ -1267,7 +1387,7 @@ Sáng hôm sau visit (ngày D+1, 9:00). Linh đã làm xong 24h memo (rule 07). 
 
 # Rule 15 — Khách đến sớm / muộn / 早退・遅刻対応
 
-> **Luận điểm.** Khách đến **sớm 15+ phút**: dẫn vào phòng chờ ngay (không bắt đợi lobby), trà ra trong 3 phút, briefing senior bằng Slack. Khách đến **muộn 10+ phút**: gọi xác nhận status 1 lần, KHÔNG hối thúc, vẫn giữ tone niềm nở khi đến + KHÔNG đề cập "anh trễ". Linh hoạt = dấu hiệu host trưởng thành. "Anh muộn 15 phút rồi nha" = quan hệ hỏng.
+> **Luận điểm.** Khách đến **sớm 15+ phút**: dẫn vào phòng chờ ngay (không bắt đợi sảnh), trà ra trong 3 phút, báo nhanh cấp trên qua Slack. Khách đến **muộn 10+ phút**: gọi xác nhận tình hình 1 lần, KHÔNG hối thúc, vẫn giữ giọng niềm nở khi đến + KHÔNG đề cập "anh trễ". Linh hoạt = dấu hiệu người tiếp đón trưởng thành. "Anh muộn 15 phút rồi nha" = quan hệ hỏng.
 >
 > 早着15分以上は即会議室案内+お茶3分+slack通知。遅刻10分以上は1回確認のみ・到着時『遅い』非言及・温かい歓迎維持。
 >
@@ -1277,7 +1397,7 @@ Sáng hôm sau visit (ngày D+1, 9:00). Linh đã làm xong 24h memo (rule 07). 
 
 ## Bối cảnh / 場面
 
-**Scenario A** (sớm): Lần thứ 2 đoàn 大垣 visit (ngày khác, smaller meeting). 9:15 sáng, khách đến **15 phút sớm** so với lịch 9:30. Linh ở lễ tân.
+**Scenario A** (sớm): Lần thứ 2 đoàn 大垣 visit (ngày khác, buổi họp nhỏ hơn). 9:15 sáng, khách đến **15 phút sớm** so với lịch 9:30. Linh ở lễ tân.
 
 **Scenario B** (muộn): 9:45 sáng, lịch 9:30 nhưng đoàn chưa đến. Dũng phải xử lý.
 
@@ -1287,25 +1407,31 @@ Sáng hôm sau visit (ngày D+1, 9:00). Linh đã làm xong 24h memo (rule 07). 
 
 ### Scenario A — sớm (XẤU):
 
-*9:15, đến lobby sớm 15 phút · không biết xử lý · đứng lobby 15 phút*
+*9:15, đến sảnh sớm 15 phút · không biết xử lý · đứng ở sảnh 15 phút*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **大垣** | 「すみません、早く着きすぎました。」 |
-| **リン** | 「あっ、9:30 ですよね？ロビーでお待ちいただけますか…」 |
+| **大垣** | 「すみません、<ruby>早<rt>はや</rt></ruby>く<ruby>着<rt>つ</rt></ruby>きすぎました。」 |
+|  | *Xin lỗi, tôi đến hơi sớm quá.* |
+| **リン** | 「あっ、9:30 ですよね？ロビーでお<ruby>待<rt>ま</rt></ruby>ちいただけますか…」 |
+|  | *À, 9:30 đúng không ạ? Anh đợi ở lobby được không ạ...* |
 | **大垣** | 「…はい。」 |
+|  | *...Vâng.* |
 
 ### Scenario B — muộn (XẤU):
 
-*9:45, đoàn chưa đến, nhắn Slack giận · 9:50 đến, vội · thoáng cau mặt*
+*9:45, đoàn chưa đến, nhắn Slack với giọng bực · 9:50 đến, vội · thoáng cau mặt*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオンさん、白鷗 まだ来てない。15分遅れ…」 |
-| **大垣** | 「申し訳ございません、渋滞で…」 |
-| **ズン** | 「**もう20分も…**会議時間調整しないとですね。」 |
+| **ズン** | 「フオンさん、<ruby>白鷗<rt>はくおう</rt></ruby> まだ<ruby>来<rt>き</rt></ruby>てない。15分<ruby>遅<rt>おく</rt></ruby>れ…」 |
+|  | *Chị Hương ơi, bên Hakuō vẫn chưa tới. Muộn 15 phút rồi...* |
+| **大垣** | 「<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません、<ruby>渋滞<rt>じゅうたい</rt></ruby>で…」 |
+|  | *Xin lỗi quý công ty, vì tắc đường nên...* |
+| **ズン** | 「**もう20分も…**<ruby>会議<rt>かいぎ</rt></ruby><ruby>時間<rt>じかん</rt></ruby><ruby>調整<rt>ちょうせい</rt></ruby>しないとですね。」 |
+|  | *Đã 20 phút rồi... phải chỉnh lại giờ họp thôi nhỉ.* |
 
-**Vì sao xấu:** Sớm = bắt khách đứng lobby = mệt thêm 15 phút. Muộn = nói "もう20分も" = passive-aggressive, khách imprint ngay.
+**Vì sao xấu:** Sớm = bắt khách đứng sảnh = mệt thêm 15 phút. Muộn = nói "もう20分も" = mỉa mai ngầm khó chịu, khách ghi nhớ ngay.
 
 ---
 
@@ -1313,35 +1439,45 @@ Sáng hôm sau visit (ngày D+1, 9:00). Linh đã làm xong 24h memo (rule 07). 
 
 ### Scenario A — sớm (TỐT):
 
-*9:15 · bình tĩnh, đã được briefing · dẫn vào, Slack senior 'Ōgaki sớm 15p, đã đưa vào phòng A' · slack to ズン+フオン*
+*9:15 · bình tĩnh, đã được dặn trước · dẫn vào, Slack báo cấp trên 'Ōgaki sớm 15p, đã đưa vào phòng A' · slack gửi ズン+フオン*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **大垣** | 「すみません、早く着きすぎました。」 |
-| **リン** | 「**いえいえ、お早いお越しをありがとうございます。会議室の準備はできておりますので、よろしければ先にお通しいたします**【1】。」 |
-| **大垣** | 「ありがとうございます、助かります。」 |
-| **リン** | 「**こちらでお待ちいただけますでしょうか。お茶をお持ちいたします**【2】。」 |
-| **リン** | *『大垣様 9:15 ご到着、会議室Aご案内済。お茶配膳中。』*【3】 |
+| **大垣** | 「すみません、<ruby>早<rt>はや</rt></ruby>く<ruby>着<rt>つ</rt></ruby>きすぎました。」 |
+|  | *Xin lỗi, tôi đến sớm quá.* |
+| **リン** | 「**いえいえ、お<ruby>早<rt>はや</rt></ruby>いお<ruby>越<rt>こ</rt></ruby>しをありがとうございます。<ruby>会議室<rt>かいぎしつ</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>はできておりますので、よろしければ<ruby>先<rt>さき</rt></ruby>にお<ruby>通<rt>とお</rt></ruby>しいたします**【1】。」 |
+|  | *Không không, cảm ơn anh đã đến sớm ạ. Phòng họp đã chuẩn bị xong rồi, nếu được anh cho phép em đưa vào trước ạ.* |
+| **大垣** | 「ありがとうございます、<ruby>助<rt>たす</rt></ruby>かります。」 |
+|  | *Cảm ơn em, tôi đỡ được nhiều.* |
+| **リン** | 「**こちらでお<ruby>待<rt>ま</rt></ruby>ちいただけますでしょうか。お<ruby>茶<rt>ちゃ</rt></ruby>をお<ruby>持<rt>も</rt></ruby>ちいたします**【2】。」 |
+|  | *Mời anh đợi ở đây ạ. Em xin mang trà tới.* |
+| **リン** | *『<ruby>大垣<rt>おおがき</rt></ruby>様 9:15 ご<ruby>到着<rt>とうちゃく</rt></ruby>、<ruby>会議室<rt>かいぎしつ</rt></ruby>Aご<ruby>案内<rt>あんない</rt></ruby><ruby>済<rt>ず</rt></ruby>。お<ruby>茶<rt>ちゃ</rt></ruby><ruby>配膳<rt>はいぜん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>。』*【3】 |
+|  | *(Slack gửi Dũng + Hương: Anh Ōgaki đến 9:15, đã đưa vào phòng A. Đang phục vụ trà.)* |
 
 ### Scenario B — muộn (TỐT):
 
-*9:40, gọi điện status · qua phone · 9:50 đến lobby · bow đón ấm như bình thường, KHÔNG đề cập muộn*
+*9:40, gọi điện hỏi tình hình · qua điện thoại · 9:50 đến sảnh · cúi chào đón ấm như bình thường, KHÔNG đề cập muộn*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「大垣様、本日ご来訪予定の件でご確認のお電話です。**何かございましたでしょうか**【4】。」 |
-| **大垣** | 「申し訳ございません、渋滞で15分遅れます。」 |
-| **ズン** | 「**ご無事で何よりです。会議室は整っておりますので、お気をつけてお越しくださいませ**【5】。」 |
-| **大垣** | 「申し訳ございません…」 |
-| **ズン** | 「**ようこそお越しくださいました**【6】。お疲れさまでございます。会議室にご案内いたします。」 |
+| **ズン** | 「<ruby>大垣<rt>おおがき</rt></ruby>様、<ruby>本日<rt>ほんじつ</rt></ruby>ご<ruby>来訪<rt>らいほう</rt></ruby><ruby>予定<rt>よてい</rt></ruby>の<ruby>件<rt>けん</rt></ruby>でご<ruby>確認<rt>かくにん</rt></ruby>のお<ruby>電話<rt>でんわ</rt></ruby>です。**<ruby>何<rt>なに</rt></ruby>かございましたでしょうか**【4】。」 |
+|  | *Anh Ōgaki, em gọi xác nhận về buổi visit hôm nay ạ. Có chuyện gì không ạ?* |
+| **大垣** | 「<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません、<ruby>渋滞<rt>じゅうたい</rt></ruby>で15分<ruby>遅<rt>おく</rt></ruby>れます。」 |
+|  | *Xin lỗi em, tắc đường nên muộn 15 phút.* |
+| **ズン** | 「**ご<ruby>無事<rt>ぶじ</rt></ruby>で<ruby>何<rt>なに</rt></ruby>よりです。<ruby>会議室<rt>かいぎしつ</rt></ruby>は<ruby>整<rt>ととの</rt></ruby>っておりますので、お<ruby>気<rt>き</rt></ruby>をつけてお<ruby>越<rt>こ</rt></ruby>しくださいませ**【5】。」 |
+|  | *An toàn là quan trọng nhất ạ. Phòng họp đã sẵn sàng rồi, mong anh đến cẩn thận.* |
+| **大垣** | 「<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません…」 |
+|  | *Xin lỗi em...* |
+| **ズン** | 「**ようこそお<ruby>越<rt>こ</rt></ruby>しくださいました**【6】。お<ruby>疲<rt>つか</rt></ruby>れさまでございます。<ruby>会議室<rt>かいぎしつ</rt></ruby>にご<ruby>案内<rt>あんない</rt></ruby>いたします。」 |
+|  | *Hân hạnh được đón anh ạ. Anh vất vả ạ. Em xin phép dẫn anh vào phòng họp.* |
 
 📝 **Ghi chú:**
-- 【1】**Sớm 15+ phút** → đón vào phòng chờ NGAY, KHÔNG bắt đợi lobby. Câu chuẩn: 「会議室の準備はできておりますので、よろしければ先にお通しいたします」.
-- 【2】**Trà ra trong 3 phút** với khách sớm. Đợi senior xuống là việc của host, KHÔNG để khách đứng đợi.
-- 【3】**Slack senior** ngay khi xử lý xong = senior biết để xuống sớm hoặc reschedule nội bộ.
-- 【4】**「何かございましたでしょうか」** — gọi muộn 10+ phút bằng câu này, KHÔNG「遅れていますか」(passive-aggressive). Cho khách space để giải thích.
-- 【5】**「ご無事で何よりです」** — nhấn mạnh "an toàn quan trọng hơn punctuality" = giảm áp lực khách.
-- 【6】**KHÔNG đề cập "anh muộn"** khi đến — bow như bình thường + 「ようこそ」. Sau meeting, KHÔNG bao giờ gửi mail "lần sau xin đến đúng giờ". Khách đã nội bộ chịu trách nhiệm rồi.
+- 【1】**Sớm 15+ phút** → đón vào phòng chờ NGAY, KHÔNG bắt đợi ở sảnh. Câu chuẩn: 「会議室の準備はできておりますので、よろしければ先にお通しいたします」.
+- 【2】**Trà ra trong 3 phút** với khách sớm. Đợi cấp trên xuống là việc của người tiếp đón, KHÔNG để khách đứng đợi.
+- 【3】**Báo Slack cho cấp trên** ngay khi xử lý xong = cấp trên biết để xuống sớm hoặc sắp xếp lại lịch nội bộ.
+- 【4】**「何かございましたでしょうか」** — gọi muộn 10+ phút bằng câu này, KHÔNG「遅れていますか」(mỉa mai ngầm khó chịu). Cho khách khoảng trống để giải thích.
+- 【5】**「ご無事で何よりです」** — nhấn mạnh "an toàn quan trọng hơn đúng giờ" = giảm áp lực khách.
+- 【6】**KHÔNG đề cập "anh muộn"** khi đến — cúi chào như bình thường + 「ようこそ」. Sau buổi họp, KHÔNG bao giờ gửi mail "lần sau xin đến đúng giờ". Trong nội bộ khách đã tự thấy trách nhiệm rồi.
 
 ---
 
@@ -1349,18 +1485,18 @@ Sáng hôm sau visit (ngày D+1, 9:00). Linh đã làm xong 24h memo (rule 07). 
 
 > **「早着は『即会議室案内+お茶3分+slack通知』、遅刻は『1回status確認+到着時温かく非言及』。」**
 >
-> *Sớm = đón vào phòng ngay + trà 3 phút + báo senior. Muộn = gọi status 1 lần + đón ấm không đề cập.*
+> *Sớm = đón vào phòng ngay + trà 3 phút + báo cấp trên. Muộn = gọi hỏi tình hình 1 lần + đón ấm không đề cập.*
 
 ---
 
 ## ⚠ Tránh
 
-- Khách **sớm 15p** mà bắt đứng lobby → đưa vào phòng chờ NGAY
-- Gọi muộn nói "**遅れていますか**" → "何かございましたでしょうか" (cho space)
-- Khi khách muộn đến, nói "**もう20分**" / "**お忙しいですよね、結構結構**" sarcasm → tone bình thường, KHÔNG đề cập
-- Sau meeting gửi mail "**次回は時間通りに**" → không bao giờ
-- **Không Slack senior** khi sớm → senior bị bất ngờ
-- **Bắt đầu meeting đúng giờ** dù khách chưa đến (bỏ khách lại sau) → chờ tối thiểu 15 phút trước khi reschedule
+- Khách **sớm 15p** mà bắt đứng ở sảnh → đưa vào phòng chờ NGAY
+- Gọi muộn nói "**遅れていますか**" → "何かございましたでしょうか" (cho khoảng trống)
+- Khi khách muộn đến, nói "**もう20分**" / "**お忙しいですよね、結構結構**" mỉa mai → giọng bình thường, KHÔNG đề cập
+- Sau buổi họp gửi mail "**次回は時間通りに**" → không bao giờ
+- **Không báo Slack cho cấp trên** khi sớm → cấp trên bị bất ngờ
+- **Bắt đầu họp đúng giờ** dù khách chưa đến (bỏ khách lại sau) → chờ tối thiểu 15 phút trước khi sắp xếp lại lịch
 
 ---
 
@@ -1403,15 +1539,20 @@ Dũng + Tuấn lần đầu đi onsite Tokyo cho 白鷗 office tại Shinjuku, P
 
 *D-1, 17:00 chiều*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「ズン、明日の白鷗 onsite、住所どこだっけ？」 |
-| **ズン** | 「えっ、まだ確認してない？田中PMOにメール送ったか？」 |
-| **トゥアン** | 「あ、まだ。今日中に送る。あとスーツは…ジャケットだけでいいよね？」 |
-| **ズン** | 「**白鷗本社は CFO 同席だぞ。スーツ濃紺+ネクタイ必須**。お土産は？」 |
-| **トゥアン** | 「えっ、お土産も？空港で買えばいいかな…」 |
+| **トゥアン** | 「ズン、明日の<ruby>白鷗<rt>はくおう</rt></ruby> onsite、<ruby>住所<rt>じゅうしょ</rt></ruby>どこだっけ？」 |
+|  | *Dũng, onsite 白鷗 mai địa chỉ ở đâu nhỉ?* |
+| **ズン** | 「えっ、まだ<ruby>確認<rt>かくにん</rt></ruby>してない？<ruby>田中<rt>たなか</rt></ruby>PMOにメール<ruby>送<rt>おく</rt></ruby>ったか？」 |
+|  | *Hả, chưa confirm à? Đã gửi mail anh Tanaka PMO chưa?* |
+| **トゥアン** | 「あ、まだ。<ruby>今日中<rt>きょうじゅう</rt></ruby>に送る。あとスーツは…ジャケットだけでいいよね？」 |
+|  | *À chưa. Hôm nay gửi. Còn suit thì... jacket thôi được nhỉ?* |
+| **ズン** | 「**<ruby>白鷗<rt>はくおう</rt></ruby><ruby>本社<rt>ほんしゃ</rt></ruby>は CFO <ruby>同席<rt>どうせき</rt></ruby>だぞ。スーツ<ruby>濃紺<rt>のうこん</rt></ruby>+ネクタイ<ruby>必須<rt>ひっす</rt></ruby>**。お<ruby>土産<rt>みやげ</rt></ruby>は？」 |
+|  | *Trụ sở 白鷗 có CFO ngồi cùng đó. Bắt buộc suit đậm + cravate. Còn omiyage?* |
+| **トゥアン** | 「えっ、お<ruby>土産<rt>みやげ</rt></ruby>も？<ruby>空港<rt>くうこう</rt></ruby>で<ruby>買<rt>か</rt></ruby>えばいいかな…」 |
+|  | *Ơ, cả omiyage à? Hay là mua tại sân bay nhỉ...* |
 
-**Vì sao xấu:** D-1 17:00 mà chưa confirm địa chỉ + outfit + omiyage = miss multiple lanes. Mai sáng confirm = Tanaka PMO không kịp prep phòng + receptionist guide. Outfit "ジャケットだけ" với CFO meeting = lộ không chuyên nghiệp.
+**Vì sao xấu:** D-1 17:00 mà chưa confirm địa chỉ + trang phục + omiyage = thiếu cùng lúc nhiều mục. Sáng mai mới confirm = Tanaka PMO không kịp chuẩn bị phòng + dặn lễ tân đón. Trang phục "ジャケットだけ" với meeting có CFO = lộ không chuyên nghiệp.
 
 ---
 
@@ -1419,17 +1560,22 @@ Dũng + Tuấn lần đầu đi onsite Tokyo cho 白鷗 office tại Shinjuku, P
 
 *D-1, 14:00*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「トゥアン、明日の白鷗 onsite チェックリスト共有しよう。」 |
-| **トゥアン** | 「① **田中PMOへ確認メール送信済**【1】 (10時到着・私とズン2名・名刺準備済) ② **スーツ濃紺+白シャツ+紺ネクタイ**【2】 ③ **ルート: ホテル→新宿駅→白鷗本社 徒歩7分、buffer 30分**【3】 ④ **ICカード Suica チャージ済+現金1万**【4】 ⑤ **お土産: ベトナムコーヒー(高級ブランド)6箱**【5】。」 |
-| **ズン** | 「完璧。田中PMOからの返信は？」 |
-| **トゥアン** | 「**『10時にロビーでお迎えします』** とのこと。受付で『白鷗株式会社 田中様、約束のティエンファットのトゥアンとズンです』と申告予定。」 |
-| **ズン** | 「OK。明朝 9:00 ホテル ロビー集合。」 |
+| **ズン** | 「トゥアン、明日の<ruby>白鷗<rt>はくおう</rt></ruby> onsite チェックリスト<ruby>共有<rt>きょうゆう</rt></ruby>しよう。」 |
+|  | *Tuấn, mình share checklist onsite 白鷗 mai đi.* |
+| **トゥアン** | 「① **<ruby>田中<rt>たなか</rt></ruby>PMOへ<ruby>確認<rt>かくにん</rt></ruby>メール<ruby>送信済<rt>そうしんずみ</rt></ruby>**【1】 (10<ruby>時<rt>じ</rt></ruby><ruby>到着<rt>とうちゃく</rt></ruby>・<ruby>私<rt>わたし</rt></ruby>とズン2<ruby>名<rt>めい</rt></ruby>・<ruby>名刺<rt>めいし</rt></ruby><ruby>準備済<rt>じゅんびずみ</rt></ruby>) ② **スーツ<ruby>濃紺<rt>のうこん</rt></ruby>+<ruby>白<rt>しろ</rt></ruby>シャツ+<ruby>紺<rt>こん</rt></ruby>ネクタイ**【2】 ③ **ルート: ホテル→<ruby>新宿駅<rt>しんじゅくえき</rt></ruby>→<ruby>白鷗<rt>はくおう</rt></ruby><ruby>本社<rt>ほんしゃ</rt></ruby> <ruby>徒歩<rt>とほ</rt></ruby>7<ruby>分<rt>ふん</rt></ruby>、buffer 30<ruby>分<rt>ぷん</rt></ruby>**【3】 ④ **ICカード Suica チャージ<ruby>済<rt>ずみ</rt></ruby>+<ruby>現金<rt>げんきん</rt></ruby>1<ruby>万<rt>まん</rt></ruby>**【4】 ⑤ **お<ruby>土産<rt>みやげ</rt></ruby>: ベトナムコーヒー(<ruby>高級<rt>こうきゅう</rt></ruby>ブランド)6<ruby>箱<rt>はこ</rt></ruby>**【5】。」 |
+|  | *① Mail confirm Tanaka PMO đã gửi (10h đến, anh+Dũng 2 người, danh thiếp xong). ② Suit xanh đậm + áo trắng + cravate xanh. ③ Route: hotel → ga Shinjuku → trụ sở 白鷗 đi bộ 7p, dự phòng 30p. ④ Suica đã charge + cash 1 man. ⑤ Omiyage: cà phê VN cao cấp 6 hộp.* |
+| **ズン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。<ruby>田中<rt>たなか</rt></ruby>PMOからの<ruby>返信<rt>へんしん</rt></ruby>は？」 |
+|  | *Hoàn hảo. Tanaka PMO reply chưa?* |
+| **トゥアン** | 「**『10<ruby>時<rt>じ</rt></ruby>にロビーでお<ruby>迎<rt>むか</rt></ruby>えします』** とのこと。<ruby>受付<rt>うけつけ</rt></ruby>で『<ruby>白鷗<rt>はくおう</rt></ruby><ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby> <ruby>田中<rt>たなか</rt></ruby><ruby>様<rt>さま</rt></ruby>、<ruby>約束<rt>やくそく</rt></ruby>のティエンファットのトゥアンとズンです』と<ruby>申告<rt>しんこく</rt></ruby><ruby>予定<rt>よてい</rt></ruby>。」 |
+|  | *Anh ấy nói '10h sẽ ra đón ở lobby'. Em sẽ trình lễ tân: 'Hẹn anh Tanaka Cty 白鷗, em là Tuấn và Dũng bên Tiên Phát'.* |
+| **ズン** | 「OK。<ruby>明朝<rt>みょうちょう</rt></ruby> 9:00 ホテル ロビー<ruby>集合<rt>しゅうごう</rt></ruby>。」 |
+|  | *OK. Sáng mai 9:00 tập trung lobby hotel.* |
 
 📝 **Ghi chú:**
 - 【1】**24h前確認メール** — confirm: 時間/人数/場所/agenda。Format: 「明日10時のお打ち合わせの件、ティエンファットのトゥアン・ズン2名でお伺いいたします。受付対応のご手配をお願いいたします」.
-- 【2】**Dress code** — JP 大手 default = suit đậm (濃紺 / 黒). Cravate đơn sắc. Áo trắng. Tránh: shirt màu / chỉ áo vest / chinos.
+- 【2】**Dress code** — JP 大手 default = suit đậm (濃紺 / 黒). Cravate đơn sắc. Áo trắng. Tránh: áo sơ mi màu / chỉ mặc áo vest / quần chinos.
 - 【3】**Route + 30 phút buffer** — Tokyo subway peak hour delay 5-15 phút thường. Calculate route + add 30 phút. Đến lobby trước 5-10 phút (rule 17).
 - 【4】**IC card + cash** — Suica/Pasmo charge sẵn. Cash 1 man yen cho taxi emergency. Card Visa nhiều shop nhỏ Tokyo không nhận.
 - 【5】**Omiyage** — chuẩn bị từ VN, KHÔNG mua tại sân bay Narita (giảm tâm). Brand uy tín, 6 hộp = 1 cho đoàn 大垣 + 1 cho 中村 + 1 cho 松本 + 1 cho 田中 + 2 buffer.
@@ -1447,7 +1593,7 @@ Dũng + Tuấn lần đầu đi onsite Tokyo cho 白鷗 office tại Shinjuku, P
 ## ⚠ Tránh
 
 - Confirm **D-1 evening** → senior khách JP đã off work, không reply kịp
-- **Jacket-only** / áo màu sáng / chinos cho meeting CFO → suit đậm
+- **Chỉ mặc áo vest** / áo màu sáng / quần chinos cho meeting có CFO → suit đậm
 - Route **không có buffer** → Tokyo delay = đến muộn = rule 17 fail
 - **Quên IC card** → mua tại ga sáng D = mất 10 phút trễ giờ
 - Mua **omiyage tại Narita** → khách nhận thấy = giảm tâm
@@ -1515,7 +1661,7 @@ Dũng + Tuấn lần đầu đi onsite Tokyo cho 白鷗 office tại Shinjuku, P
 
 # Rule 17 — Đến lobby 5-10 phút trước / 5-10分前到着
 
-> **Luận điểm.** Đến lobby khách Nhật **5-10 phút trước** giờ hẹn (KHÔNG sớm hơn, KHÔNG đúng giờ). Sớm 30 phút = bắt host bất ngờ + phải tiếp sớm. Đúng giờ = muộn (vì lễ tân + tự xưng + nhận pass + đi thang máy = 5-10 phút). Quy tắc cross-ref sách 03 rule_06 — "đúng giờ" trong văn hóa Nhật business = đến trước 5-10 phút.
+> **Luận điểm.** Đến lobby khách Nhật **5-10 phút trước** giờ hẹn (KHÔNG sớm hơn, KHÔNG đúng giờ). Sớm 30 phút = bắt chủ nhà bất ngờ + phải tiếp sớm. Đúng giờ = muộn (vì lễ tân + tự xưng + nhận thẻ vào + đi thang máy = 5-10 phút). Quy tắc đối chiếu sách 03 rule_06 — "đúng giờ" trong văn hóa kinh doanh Nhật = đến trước 5-10 phút.
 >
 > 訪問は『5-10分前ロビー到着』。早すぎ(30分前)は host surprise、ぴったりは受付処理時間で実質遅刻。
 >
@@ -1525,7 +1671,7 @@ Dũng + Tuấn lần đầu đi onsite Tokyo cho 白鷗 office tại Shinjuku, P
 
 ## Bối cảnh / 場面
 
-Sáng ngày D, Dũng + Tuấn đi từ hotel Shinjuku đến trụ sở 白鷗 (cách 7 phút đi bộ + 3 phút thang máy). Hẹn 10:00. Họ phải tính ngược: đến lobby 9:50-9:55 = optimal.
+Sáng ngày D, Dũng + Tuấn đi từ hotel Shinjuku đến trụ sở 白鷗 (cách 7 phút đi bộ + 3 phút thang máy). Hẹn 10:00. Họ phải tính ngược: đến lobby 9:50-9:55 = tối ưu.
 
 ---
 
@@ -1535,23 +1681,28 @@ Sáng ngày D, Dũng + Tuấn đi từ hotel Shinjuku đến trụ sở 白鷗 (
 
 *9:30, đến lobby 30 phút sớm · báo Tanaka · qua điện thoại Slack, đang trong meeting khác*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「ズン、もう着いた。」 |
-| **ズン** | 「30分も前？まずいよ、田中PMOまだ会議中の可能性。」 |
-| **受付** | 「田中様、ティエンファットの方が30分早く到着…どうしますか？」 |
-| **田中PMO** | 「えっ、もう？…まあ、ロビーで待ってもらってください。10時に降ります。」 |
+| **トゥアン** | 「ズン、もう<ruby>着<rt>つ</rt></ruby>いた。」 |
+|  | *Dũng, em tới rồi.* |
+| **ズン** | 「30分も前？まずいよ、田中PMOまだ<ruby>会議<rt>かいぎ</rt></ruby>中の<ruby>可能性<rt>かのうせい</rt></ruby>。」 |
+|  | *Trước 30 phút? Toi rồi, anh Tanaka có thể đang họp khác.* |
+| **受付** | 「田中様、ティエンファットの方が30分早く<ruby>到着<rt>とうちゃく</rt></ruby>…どうしますか？」 |
+|  | *Anh Tanaka ơi, phía Tiên Phát đến sớm 30 phút… anh tính sao ạ?* |
+| **田中PMO** | 「えっ、もう？…まあ、ロビーで待ってもらってください。10時に<ruby>降<rt>お</rt></ruby>ります。」 |
+|  | *Hả, đến rồi? …Thôi nhờ chị bảo họ đợi lobby. 10h tôi xuống.* |
 
 **Scenario B — đúng giờ:**
 
 *10:00 đúng, vào lobby · 10:08, sau khi đợi 8 phút trên tầng 8*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアン + ズン** | *(check-in lễ tân, được bảo "tầng 8 phòng 805")* |
 | **田中PMO** | 「あ、いらっしゃいました。お待ちしておりました。」*(thoáng cười nhẹ — nhưng đã đợi 8 phút)* |
+|  | *(10:08 phòng tầng 8) À, các anh đến rồi. Tôi đã đợi.* |
 
-**Vì sao xấu:** A — Tuấn 30 phút sớm = Tanaka đang meeting khác, bất ngờ. B — đúng giờ = đã muộn 8 phút trên thực tế (lễ tân + an ninh + thang máy). Senior khách đợi 8 phút = mất face.
+**Vì sao xấu:** A — Tuấn 30 phút sớm = Tanaka đang họp khác, bất ngờ. B — đúng giờ = đã muộn 8 phút trên thực tế (lễ tân + an ninh + thang máy). Khách cấp trên đợi 8 phút = mất thể diện.
 
 ---
 
@@ -1559,23 +1710,31 @@ Sáng ngày D, Dũng + Tuấn đi từ hotel Shinjuku đến trụ sở 白鷗 (
 
 *9:30, hotel lobby · 9:53, đến trước cửa 白鷗 ビル · 9:54, vào lobby · check sổ, ký pass · 9:58, bước ra thang máy đúng lúc*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「**白鷗本社到着目標 9:55**【1】。新宿駅まで5分、駅から徒歩7分、+buffer3分 = 9:50 出発で OK。」 |
-| **トゥアン** | 「了解。早すぎたら駅近のカフェで時間調整しよう。」 |
+| **ズン** | 「**<ruby>白鷗<rt>はくおう</rt></ruby><ruby>本社<rt>ほんしゃ</rt></ruby><ruby>到着<rt>とうちゃく</rt></ruby><ruby>目標<rt>もくひょう</rt></ruby> 9:55**【1】。<ruby>新宿駅<rt>しんじゅくえき</rt></ruby>まで5分、駅から<ruby>徒歩<rt>とほ</rt></ruby>7分、+buffer3分 = 9:50 <ruby>出発<rt>しゅっぱつ</rt></ruby>で OK。」 |
+|  | *Mục tiêu đến trụ sở 白鷗 9:55. Đến ga Shinjuku 5p, từ ga đi bộ 7p, + dự phòng 3p = 9:50 xuất phát OK.* |
+| **トゥアン** | 「<ruby>了解<rt>りょうかい</rt></ruby>。早すぎたら<ruby>駅近<rt>えきちか</rt></ruby>のカフェで<ruby>時間調整<rt>じかんちょうせい</rt></ruby>しよう。」 |
+|  | *Hiểu rồi. Nếu sớm quá thì điều chỉnh ở cafe gần ga.* |
 | **ズン + トゥアン** | *(quan sát cửa, đợi 1 phút)* |
+|  | *(9:53 đến trước tòa 白鷗, quan sát 1 phút)* |
 | **ズン**【2】 | *(điều hướng đến quầy lễ tân)* |
+|  | *(9:54 vào lobby, đến quầy lễ tân)* |
 | **受付** | 「いらっしゃいませ。」 |
-| **ズン** | 「**ティエンファットのズンとトゥアンと申します。10時から田中様とお打ち合わせのお約束です**【3】。」 |
-| **受付** | 「お待ちしておりました。8階会議室へどうぞ。田中も間もなく参ります。」 |
+|  | *Xin chào quý khách.* |
+| **ズン** | 「**ティエンファットのズンとトゥアンと<ruby>申<rt>もう</rt></ruby>します。10時から田中様とお<ruby>打<rt>う</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせのお<ruby>約束<rt>やくそく</rt></ruby>です**【3】。」 |
+|  | *Em là Dũng và Tuấn bên Cty Tiên Phát. Có hẹn họp với anh Tanaka từ 10h ạ.* |
+| **受付** | 「お待ちしておりました。8階<ruby>会議室<rt>かいぎしつ</rt></ruby>へどうぞ。田中も<ruby>間<rt>ま</rt></ruby>もなく<ruby>参<rt>まい</rt></ruby>ります。」 |
+|  | *Em đã đợi ạ. Mời các anh lên phòng họp tầng 8 ạ. Anh Tanaka cũng sắp đến.* |
 | **田中PMO** | 「ズンさん、トゥアンさん、ようこそ。」 |
+|  | *Anh Dũng, anh Tuấn, hân hạnh.* |
 
 📝 **Ghi chú:**
-- 【1】**到着目標 9:55** — 5 phút trước hẹn 10:00. Tính ngược: lễ tân (2 phút) + thang máy (3 phút) = đến phòng 10:00 sharp.
-- 【2】**Vào lobby 9:54** — KHÔNG vào sớm hơn 10 phút. Nếu đến địa điểm sớm hơn → đứng ngoài cửa hoặc cafe gần đó để time. Vào lobby 30 phút sớm = "tôi vô tổ chức".
+- 【1】**到着目標 9:55** — 5 phút trước hẹn 10:00. Tính ngược: lễ tân (2 phút) + thang máy (3 phút) = đến phòng đúng 10:00.
+- 【2】**Vào lobby 9:54** — KHÔNG vào sớm hơn 10 phút. Nếu đến địa điểm sớm hơn → đứng ngoài cửa hoặc cafe gần đó để canh giờ. Vào lobby 30 phút sớm = "tôi vô tổ chức".
 - 【3】**Tự xưng tại lễ tân** — chuyển sang rule 18.
 
-> 🔗 **Cross-ref sách 03 rule_06** — Online meeting "đúng giờ" = vào Zoom 5 phút trước. Offline visit "đúng giờ" = đến lobby 5-10 phút trước. Cùng nguyên tắc: "punctual = sớm".
+> 🔗 **Đối chiếu sách 03 rule_06** — Họp online "đúng giờ" = vào Zoom 5 phút trước. Gặp trực tiếp "đúng giờ" = đến lobby 5-10 phút trước. Cùng nguyên tắc: "đúng giờ = đến sớm".
 
 ---
 
@@ -1583,18 +1742,18 @@ Sáng ngày D, Dũng + Tuấn đi từ hotel Shinjuku đến trụ sở 白鷗 (
 
 > **「訪問は『5-10分前ロビー到着』。早すぎ30分は迷惑、定刻は実質遅刻。」**
 >
-> *Onsite = đến lobby trước 5-10 phút. Sớm 30 phút = phiền, đúng giờ = thực tế muộn.*
+> *Đến tận nơi = đến lobby trước 5-10 phút. Sớm 30 phút = phiền, đúng giờ = thực tế muộn.*
 
 ---
 
 ## ⚠ Tránh
 
-- Đến **30 phút sớm** → host bất ngờ + phải đợi
-- **Đúng giờ** sharp lobby → đã muộn 5-10 phút trên phòng họp
-- Đến **sớm 15-20 phút** → đứng cafe gần đó time đến 5-10p trước, KHÔNG vào lobby
-- **Hối thúc lễ tân** "tôi đến 5 phút sớm thôi nhanh lên" → bình thường giọng formal, KHÔNG hối
-- Đến lobby xong **xem phone** thay vì observe surroundings → quan sát atmosphere = data cho meeting
-- **Quên ID** → một số tòa Tokyo cần passport/ID check security
+- Đến **30 phút sớm** → chủ nhà bất ngờ + phải đợi
+- **Đúng giờ** chuẩn lobby → đã muộn 5-10 phút trên phòng họp
+- Đến **sớm 15-20 phút** → đứng cafe gần đó canh giờ đến 5-10p trước, KHÔNG vào lobby
+- **Hối thúc lễ tân** "tôi đến 5 phút sớm thôi nhanh lên" → bình thường giọng trang trọng, KHÔNG hối
+- Đến lobby xong **xem điện thoại** thay vì quan sát xung quanh → quan sát không khí = thông tin cho buổi họp
+- **Quên giấy tờ tùy thân** → một số tòa Tokyo cần kiểm tra hộ chiếu/giấy tờ ở khâu an ninh
 
 ---
 
@@ -1614,7 +1773,7 @@ Sáng ngày D, Dũng + Tuấn đi từ hotel Shinjuku đến trụ sở 白鷗 (
 
 # Rule 18 — Check-in tại lễ tân / 受付対応
 
-> **Luận điểm.** Tại lễ tân khách Nhật, tự xưng **đầy đủ 4 yếu tố**: (1) Tên cty mình (2) Họ tên đầy đủ (3) Tên 担当者 muốn gặp (4) Lý do hẹn (giờ + topic). Bow nhẹ 15° khi nói. KHÔNG hỏi "phòng số mấy" — lễ tân sẽ guide. KHÔNG đi tìm thang máy tự ý — đợi lễ tân chỉ + sign pass.
+> **Luận điểm.** Tại lễ tân khách Nhật, tự xưng **đầy đủ 4 yếu tố**: (1) Tên cty mình (2) Họ tên đầy đủ (3) Tên 担当者 muốn gặp (4) Lý do hẹn (giờ + chủ đề). Bow nhẹ 15° khi nói. KHÔNG hỏi "phòng số mấy" — lễ tân sẽ hướng dẫn. KHÔNG đi tìm thang máy tự ý — đợi lễ tân chỉ + ký nhận pass.
 >
 > 受付では『社名+氏名+担当者+用件(時刻+目的)』の4要素自己申告。15度お辞儀。エレベーター場所は受付指示待ち。
 >
@@ -1632,17 +1791,24 @@ Sáng ngày D, Dũng + Tuấn đi từ hotel Shinjuku đến trụ sở 白鷗 (
 
 *đến quầy, nói tiếng Anh · không hiểu rõ Tanaka nào — 白鷗 có 5 Tanaka · thấy thang máy, đi luôn · vội*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **トゥアン** | 「Hi, we're here for a meeting with Tanaka-san.」 |
-| **受付** | 「Tanaka...どちらの田中でしょうか？」 |
-| **ズン** | 「えっと、PMO の田中さんです。多分 Phase 3 関連…」 |
-| **受付** | 「御社名と御芳名を伺ってもよろしいでしょうか？」 |
+|  | *Hi, chúng tôi đến họp với anh Tanaka.* |
+| **受付** | 「Tanaka...どちらの<ruby>田中<rt>たなか</rt></ruby>でしょうか？」 |
+|  | *Tanaka... anh Tanaka phòng nào ạ?* |
+| **ズン** | 「えっと、PMO の<ruby>田中<rt>たなか</rt></ruby>さんです。<ruby>多分<rt>たぶん</rt></ruby> Phase 3 <ruby>関連<rt>かんれん</rt></ruby>…」 |
+|  | *Ờ, anh Tanaka PMO ạ. Chắc là về Phase 3...* |
+| **受付** | 「<ruby>御社名<rt>おんしゃめい</rt></ruby>と<ruby>御芳名<rt>ごほうめい</rt></ruby>を<ruby>伺<rt>うかが</rt></ruby>ってもよろしいでしょうか？」 |
+|  | *Xin phép em hỏi tên cty và quý danh ạ?* |
 | **ズン** | 「あ、ティエンファットの…ズンとトゥアンです。」 |
-| **トゥアン** | 「あ、エレベーター見えた、行こう。」 |
-| **受付** | 「あの、入館証がまだ…」 |
+|  | *À, em bên Tiên Phát... Dũng và Tuấn ạ.* |
+| **トゥアン** | 「あ、エレベーター<ruby>見<rt>み</rt></ruby>えた、<ruby>行<rt>い</rt></ruby>こう。」 |
+|  | *À thấy thang máy rồi, đi thôi.* |
+| **受付** | 「あの、<ruby>入館証<rt>にゅうかんしょう</rt></ruby>がまだ…」 |
+|  | *Xin lỗi, pass vào còn chưa...* |
 
-**Vì sao xấu:** (1) Tiếng Anh tại lễ tân JP corporate = không formal. (2) "Tanaka-san" mà không nói chức/phòng = lễ tân phải hỏi lại. (3) Thông tin nhỏ giọt từng câu = mất 2 phút thay vì 30 giây. (4) Tự ý đi thang máy chưa nhận pass = security vi phạm.
+**Vì sao xấu:** (1) Tiếng Anh tại lễ tân doanh nghiệp Nhật = không trang trọng. (2) "Tanaka-san" mà không nói chức/phòng = lễ tân phải hỏi lại. (3) Thông tin nhỏ giọt từng câu = mất 2 phút thay vì 30 giây. (4) Tự ý đi thang máy chưa nhận pass = security vi phạm.
 
 ---
 
@@ -1650,22 +1816,29 @@ Sáng ngày D, Dũng + Tuấn đi từ hotel Shinjuku đến trụ sở 白鷗 (
 
 *đến quầy, bow 15° · check sổ · ký pass, đeo lên ngực · bow 15°*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「**おはようございます**【1】。」 |
+|  | *Chào buổi sáng ạ.* |
 | **受付** | 「いらっしゃいませ。」 |
-| **ズン** | 「**ティエンファットのズンとトゥアンと申します**【2】。**本日10時より、PMO部の田中様とお打ち合わせのお約束**【3】**にてお伺いしました**。」 |
-| **受付** | 「お待ちしておりました。**入館証**【4】**をお渡しいたします。お名前のサインをお願いいたします**。」 |
-| **ズン + トゥアン** | 「失礼いたします。」 |
-| **受付** | 「会議室は8階の803号室でございます。**エレベーターは右奥、左側を3号機**【5】**でお上がりください**。田中はすでにお待ちしております。」 |
+|  | *Xin chào quý khách ạ.* |
+| **ズン** | 「**ティエンファットのズンとトゥアンと<ruby>申<rt>もう</rt></ruby>します**【2】。**<ruby>本日<rt>ほんじつ</rt></ruby>10<ruby>時<rt>じ</rt></ruby>より、PMO<ruby>部<rt>ぶ</rt></ruby>の<ruby>田中<rt>たなか</rt></ruby><ruby>様<rt>さま</rt></ruby>とお<ruby>打<rt>う</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせのお<ruby>約束<rt>やくそく</rt></ruby>**【3】**にてお<ruby>伺<rt>うかが</rt></ruby>いしました**。」 |
+|  | *Em là Dũng và Tuấn bên Cty Tiên Phát. Hôm nay từ 10h, em có hẹn họp với anh Tanaka phòng PMO ạ.* |
+| **受付** | 「お<ruby>待<rt>ま</rt></ruby>ちしておりました。**<ruby>入館証<rt>にゅうかんしょう</rt></ruby>**【4】**をお<ruby>渡<rt>わた</rt></ruby>しいたします。お<ruby>名前<rt>なまえ</rt></ruby>のサインをお<ruby>願<rt>ねが</rt></ruby>いいたします**。」 |
+|  | *Em đã đợi ạ. Em xin gửi pass vào ạ. Mong các anh ký tên giúp ạ.* |
+| **ズン + トゥアン** | 「<ruby>失礼<rt>しつれい</rt></ruby>いたします。」 |
+|  | *Xin phép ạ.* |
+| **受付** | 「<ruby>会議室<rt>かいぎしつ</rt></ruby>は8<ruby>階<rt>かい</rt></ruby>の803<ruby>号室<rt>ごうしつ</rt></ruby>でございます。**エレベーターは<ruby>右奥<rt>みぎおく</rt></ruby>、<ruby>左側<rt>ひだりがわ</rt></ruby>を3<ruby>号機<rt>ごうき</rt></ruby>**【5】**でお<ruby>上<rt>あ</rt></ruby>がりください**。<ruby>田中<rt>たなか</rt></ruby>はすでにお<ruby>待<rt>ま</rt></ruby>ちしております。」 |
+|  | *Phòng họp 803 tầng 8 ạ. Thang máy bên phải phía trong, các anh đi thang máy số 3 bên trái ạ. Anh Tanaka cũng đang đợi rồi ạ.* |
 | **ズン** | 「ありがとうございます。」 |
+|  | *Cảm ơn chị ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**「おはようございます」** — câu chào lễ tân JP, KHÔNG「Hi」/「Hello」. Sau 11h chuyển sang「こんにちは」.
 - 【2】**社名+氏名先** — bắt đầu với "ティエンファットの…" để lễ tân biết bạn là ai.
 - 【3】**4 yếu tố trong 1 câu**: 時刻 (10時より) + 部署役職 (PMO部の田中様) + 用件 (お打ち合わせのお約束). Lễ tân không phải hỏi lại.
-- 【4】**入館証 sign + đeo** — KHÔNG để trong túi. Đeo lên ngực. Trả lại lúc về (rule 22).
-- 【5】**Đợi guide thang máy** — lễ tân chỉ rõ "3号機 left side". Tokyo big buildings có nhiều thang máy theo tầng — đi nhầm = bị block.
+- 【4】**入館証 ký + đeo** — KHÔNG để trong túi. Đeo lên ngực. Trả lại lúc về (rule 22).
+- 【5】**Đợi hướng dẫn thang máy** — lễ tân chỉ rõ "3号機 bên trái". Tòa nhà lớn ở Tokyo có nhiều thang máy theo tầng — đi nhầm = bị chặn.
 
 ---
 
@@ -1679,10 +1852,10 @@ Sáng ngày D, Dũng + Tuấn đi từ hotel Shinjuku đến trụ sở 白鷗 (
 
 ## ⚠ Tránh
 
-- **Tiếng Anh** với lễ tân JP corporate → tiếng Nhật formal
+- **Tiếng Anh** với lễ tân doanh nghiệp Nhật → tiếng Nhật trang trọng
 - "**Tanaka-san**" mà không có 部署 → "PMO 部の田中様"
 - **Thông tin nhỏ giọt** từng câu → 1 câu chứa 4 yếu tố
-- **Tự ý đi thang máy** chưa nhận pass → đợi guide
+- **Tự ý đi thang máy** chưa nhận pass → đợi hướng dẫn
 - **Pass trong túi** → đeo lên ngực
 - **Quên bow** lúc chào lễ tân → bow 15° đầu + cuối
 - Lễ tân hỏi "**御芳名**" mà bí → 御芳名 = "tên quý khách". Trả lời họ tên đầy đủ.
@@ -1708,7 +1881,7 @@ Sáng ngày D, Dũng + Tuấn đi từ hotel Shinjuku đến trụ sở 白鷗 (
 
 > **Luận điểm.** Áo khoác / coat / muffler **cởi TRƯỚC khi vào tòa nhà** (hoặc trước cửa phòng họp ở tầng), cầm gấp gọn ở tay trái. KHÔNG cởi sau khi đã ngồi (= "tôi mệt + nóng"). Lý do văn hóa: coat = "đường xa bụi bặm" → cởi ngoài = không mang bụi vào không gian khách. Quan trọng đặc biệt mùa đông Tokyo (tháng 12-2, ai cũng có coat).
 >
-> コート/マフラーは『建物入る前 or 会議室入る前』に脱ぎ、左手で畳んで持つ。着席後脱ぎは『疲れた』signaling NG。
+> コート/マフラーは『建物に入る前、または会議室に入る前』に脱ぎ、左手で畳んで持つ。着席後に脱ぐのは『疲れた』という印象を与えるためNG。
 >
 > **Liên quan:** rule 17 (5分前), rule 20 (待機), rule 21 (入室).
 
@@ -1724,15 +1897,20 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 
 *mở cửa phòng họp · vào phòng, mặc cả coat + muffler · thoáng tỏ thái độ · cởi sau khi đã ngồi xuống ghế · cười nhẹ, cầm coat treo*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **田中PMO** | 「ようこそ、お入りください。」 |
-| **トゥアン** | 「失礼します。」 |
-| **田中PMO** | 「あの…コート、お預かりしましょうか？」 |
-| **トゥアン** | 「あ、すみません、ちょっと暑くて…」 |
-| **田中PMO** | 「(本来は入室前脱ぐマナー…)」 |
+| **田中PMO** | 「ようこそ、お<ruby>入<rt>はい</rt></ruby>りください。」 |
+|  | *Hân hạnh, mời anh vào ạ.* |
+| **トゥアン** | 「<ruby>失礼<rt>しつれい</rt></ruby>します。」 |
+|  | *Em xin phép. (vào phòng còn nguyên coat + muffler)* |
+| **田中PMO** | 「あの…コート、お<ruby>預<rt>あず</rt></ruby>かりしましょうか？」 |
+|  | *Ơ... coat, em xin giữ giúp anh ạ?* |
+| **トゥアン** | 「あ、すみません、ちょっと<ruby>暑<rt>あつ</rt></ruby>くて…」 |
+|  | *À xin lỗi, hơi nóng quá...* |
+| **田中PMO** | 「(<ruby>本来<rt>ほんらい</rt></ruby>は<ruby>入室前<rt>にゅうしつまえ</rt></ruby><ruby>脱<rt>ぬ</rt></ruby>ぐマナー…)」 |
+|  | *(Lẽ ra phải cởi trước khi vào phòng mới đúng phép…)* |
 
-**Vì sao xấu:** (1) Vào phòng họp với coat = mang "bụi đường" vào không gian. (2) Cởi sau khi ngồi = phát tín hiệu "tôi nóng/mệt" = thiếu chuẩn bị. (3) Tanaka phải đề nghị cầm coat → host bị shift task không cần thiết.
+**Vì sao xấu:** (1) Vào phòng họp với coat = mang "bụi đường" vào không gian. (2) Cởi sau khi ngồi = phát tín hiệu "tôi nóng/mệt" = thiếu chuẩn bị. (3) Tanaka phải đề nghị cầm coat → chủ nhà bị đẩy thêm việc không cần thiết.
 
 ---
 
@@ -1740,20 +1918,27 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 
 *đến trước cửa 803, dừng 30 giây · cởi coat + muffler, gấp 2 lần, đặt trên cánh tay trái【2】 · gõ cửa 2 lần, đợi 2 giây · mở cửa · bow 15° tại cửa, vào phòng, cầm coat tay trái · treo coat lên hanger góc phòng*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「**コート脱ごう**【1】。」 |
-| **ズン + トゥアン** | *(im lặng)* |
+| **ズン** | 「**コート<ruby>脱<rt>ぬ</rt></ruby>ごう**【1】。」 |
+|  | *Cởi áo nha.* |
+| **ズン + トゥアン** | *(im lặng)*【2】 |
+|  | *(gấp coat + muffler 2 lần, đặt lên cẳng tay trái)* |
 | **ズン** | *(コン コン)* |
+|  | *(gõ cửa 2 lần)* |
 | **田中PMO** | 「どうぞ。」 |
-| **ズン + トゥアン**【3】 | 「**失礼いたします**。」 |
+|  | *Mời vào.* |
+| **ズン + トゥアン**【3】 | 「**<ruby>失礼<rt>しつれい</rt></ruby>いたします**。」 |
+|  | *Em xin phép ạ.* |
 | **田中PMO** | 「コート、こちらの ハンガーへどうぞ。」 |
+|  | *Coat, mời các anh treo móc bên này ạ.* |
 | **ズン** | 「ありがとうございます。」 |
+|  | *Cảm ơn anh ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**Cởi trước cửa phòng họp** — KHÔNG sau khi ngồi. Tốt nhất: cởi ngay trước cửa tòa nhà (nếu lobby ấm) hoặc cửa phòng họp (nếu hành lang lạnh).
-- 【2】**Gấp 2 lần, tay trái** — gấp úp vào trong (mặt trong ra ngoài, mặt ngoài ẩn). Đặt trên cẳng tay trái (tay phải sẵn sàng bow / nhận danh thiếp / mở cửa).
-- 【3】**Cầm coat lúc bow** — coat đã ở tay trái = bow / shake hand / mở cửa = tay phải tự do. Vào phòng không lúng túng.
+- 【2】**Gấp 2 lần, tay trái** — gấp úp vào trong (mặt ngoài giấu vào trong, mặt trong lộ ra). Đặt trên cẳng tay trái (tay phải sẵn sàng bow / nhận danh thiếp / mở cửa).
+- 【3】**Cầm coat lúc bow** — coat đã ở tay trái = bow / bắt tay / mở cửa = tay phải tự do. Vào phòng không lúng túng.
 
 ---
 
@@ -1769,10 +1954,10 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 
 - **Cởi sau khi ngồi** → phát tín hiệu "tôi mệt/nóng"
 - Vào phòng họp **mặc coat** → mang "bụi đường" vào
-- Cầm coat **tay phải** → tay phải bị bận = không bow/shake hand được
-- **Đặt coat trên ghế** chưa được mời → đợi host chỉ chỗ (hanger / chair)
+- Cầm coat **tay phải** → tay phải bị bận = không bow/bắt tay được
+- **Đặt coat trên ghế** chưa được mời → đợi chủ nhà chỉ chỗ (móc treo / ghế)
 - **Đặt trên bàn họp** → KHÔNG bao giờ
-- Áo khoác **không gấp** → Cẩu thả. Gấp inside-out.
+- Áo khoác **không gấp** → Cẩu thả. Gấp úp mặt ngoài vào trong.
 - **Quên tháo muffler / scarf** → cởi cùng coat. Khăn cũng không vào phòng.
 
 ---
@@ -1793,7 +1978,7 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 
 # Rule 20 — Ngồi đợi đúng cách / 待機マナー
 
-> **Luận điểm.** Đợi trong phòng họp khách Nhật **TRƯỚC khi senior bên họ đến**: (1) **KHÔNG ngồi 上座** dù được mời "どこでもどうぞ" (2) **Đứng** đợi cho tới khi 担当者 chỉ ghế cụ thể (3) Nếu được dẫn vào sớm: ngồi **下座** (gần cửa) (4) **KHÔNG sờ điện thoại** (5) **KHÔNG mở laptop** trước khi senior đến (6) Tay đặt trên gối, lưng thẳng. Sờ phone = "tôi không tôn trọng đợi anh".
+> **Luận điểm.** Đợi trong phòng họp khách Nhật **TRƯỚC khi cấp trên bên họ đến**: (1) **KHÔNG ngồi 上座** dù được mời "どこでもどうぞ" (2) **Đứng** đợi cho tới khi 担当者 chỉ ghế cụ thể (3) Nếu được dẫn vào sớm: ngồi **下座** (gần cửa) (4) **KHÔNG sờ điện thoại** (5) **KHÔNG mở laptop** trước khi cấp trên đến (6) Tay đặt trên gối, lưng thẳng. Sờ phone = "tôi không tôn trọng đợi anh".
 >
 > 待機中は『上座非占有・指示なき限り立位 or 下座着席・スマホ/laptop非操作・正座姿勢』。
 >
@@ -1809,39 +1994,51 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 
 ## ❌ Hội thoại XẤU — ngồi 上座 + xem phone
 
-*dẫn vào, đi ra · ngồi luôn vào ghế 上座 ở giữa, xa cửa · rút phone, scroll · mở laptop, gõ ầm ầm · bước vào, thấy 2 người đang ngồi 上座 + phone + laptop*
+*dẫn vào, đi ra · ngồi luôn vào ghế 上座 ở giữa, xa cửa · rút phone, lướt màn hình · mở laptop, gõ ầm ầm · bước vào, thấy 2 người đang ngồi 上座 + phone + laptop*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **田中PMO** | 「中村CFOが間もなく来ます。お掛けになってお待ちください。」 |
-| **トゥアン** | 「お、いい席だね。」 |
-| **ズン** | 「ちょっとSlack確認するわ…」 |
-| **トゥアン** | 「俺もmail処理…」 |
+| **田中PMO** | 「中村CFOが<ruby>間<rt>ま</rt></ruby>もなく<ruby>来<rt>き</rt></ruby>ます。お<ruby>掛<rt>か</rt></ruby>けになってお<ruby>待<rt>ま</rt></ruby>ちください。」 |
+|  | *Anh Nakamura CFO sắp đến. Mời các anh ngồi đợi.* |
+| **トゥアン** | 「お、いい<ruby>席<rt>せき</rt></ruby>だね。」 |
+|  | *Ơ, ghế đẹp đấy.* |
+| **ズン** | 「ちょっとSlack<ruby>確認<rt>かくにん</rt></ruby>するわ…」 |
+|  | *Em check Slack tí...* |
+| **トゥアン** | 「<ruby>俺<rt>おれ</rt></ruby>もmail<ruby>処理<rt>しょり</rt></ruby>…」 |
+|  | *Anh xử lý mail...* |
 | **中村CFO** | 「…おはようございます。」 *(bow ngắn, đi vòng sang shimoza)* |
+|  | *...Chào buổi sáng.* |
 
-**Vì sao xấu:** (1) Ngồi 上座 = chiếm chỗ Nakamura CFO trước khi anh ấy đến = vô lễ. (2) Phone + laptop = "tôi đang busy hơn việc đợi anh". (3) Nakamura phải ngồi shimoza host = role reversed = khách imprint mãi.
+**Vì sao xấu:** (1) Ngồi 上座 = chiếm chỗ Nakamura CFO trước khi anh ấy đến = vô lễ. (2) Phone + laptop = ra tín hiệu "tôi đang bận hơn việc đợi anh". (3) Nakamura phải ngồi shimoza của chủ nhà = đảo ngược vai trò = khách ghi nhớ ấn tượng xấu mãi.
 
 ---
 
 ## ✅ Hội thoại TỐT — đứng đợi / ngồi 下座 / im lặng
 
-*dẫn vào, chỉ tay · quan sát layout: 上座 xa cửa = chỗ Nakamura, 下座 gần cửa = chỗ mình · thoáng cười · ngồi 下座 cạnh cửa, lưng thẳng, tay trên gối · KHÔNG phone, KHÔNG laptop · bước vào sau 5 phút · đứng dậy ngay, bow 30°*
+*dẫn vào, chỉ tay · quan sát bố trí phòng: 上座 xa cửa = chỗ Nakamura, 下座 gần cửa = chỗ mình · thoáng cười · ngồi 下座 cạnh cửa, lưng thẳng, tay trên gối · KHÔNG phone, KHÔNG laptop · bước vào sau 5 phút · đứng dậy ngay, bow 30°*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **田中PMO** | 「**中村CFOが間もなく来ます**。お掛けになってお待ちください。」 |
-| **ズン** | 「**ありがとうございます。下座でお待ちいたします**【1】。」 |
-| **田中PMO** | 「ご丁寧に。」 |
-| **ズン + トゥアン**【2】 | *(im lặng quan sát phòng — agenda giấy, slide projector, lay layout, tranh treo)* |
-| **ズン + トゥアン**【3】 | *(im lặng, tâm thế ready)* |
-| **中村CFO** | 「お待たせいたしました、中村です。」 |
-| **ズン + トゥアン** | 「**お忙しいところ、お時間頂戴いたしまして恐縮でございます**【4】。」 |
+| **田中PMO** | 「**中村CFOが<ruby>間<rt>ま</rt></ruby>もなく<ruby>来<rt>き</rt></ruby>ます**。お<ruby>掛<rt>か</rt></ruby>けになってお<ruby>待<rt>ま</rt></ruby>ちください。」 |
+|  | *Anh Nakamura CFO sắp đến. Mời các anh ngồi đợi.* |
+| **ズン** | 「**ありがとうございます。<ruby>下座<rt>しもざ</rt></ruby>でお<ruby>待<rt>ま</rt></ruby>ちいたします**【1】。」 |
+|  | *Cảm ơn anh ạ. Em xin ngồi 下座 đợi ạ.* |
+| **田中PMO** | 「ご<ruby>丁寧<rt>ていねい</rt></ruby>に。」 |
+|  | *Lịch sự quá.* |
+| **ズン + トゥアン**【2】 | *(<ruby>下座<rt>しもざ</rt></ruby>に<ruby>着席<rt>ちゃくせき</rt></ruby>、<ruby>背筋<rt>せすじ</rt></ruby><ruby>伸<rt>の</rt></ruby>ばし、<ruby>手<rt>て</rt></ruby>は<ruby>膝<rt>ひざ</rt></ruby><ruby>上<rt>うえ</rt></ruby>)* |
+|  | *(ngồi 下座, lưng thẳng, tay trên gối)* |
+| **ズン + トゥアン**【3】 | *(phone マナーモード+ポケット、laptop は<ruby>鞄<rt>かばん</rt></ruby><ruby>内<rt>ない</rt></ruby>のまま)* |
+|  | *(phone manner mode + để túi, laptop để nguyên trong cặp)* |
+| **中村CFO** | 「お<ruby>待<rt>ま</rt></ruby>たせいたしました、中村です。」 |
+|  | *Xin lỗi đã để các anh chờ, tôi là Nakamura.* |
+| **ズン + トゥアン** | 「**お<ruby>忙<rt>いそが</rt></ruby>しいところ、お<ruby>時間<rt>じかん</rt></ruby><ruby>頂戴<rt>ちょうだい</rt></ruby>いたしまして<ruby>恐縮<rt>きょうしゅく</rt></ruby>でございます**【4】。」 |
+|  | *Anh bận rộn mà dành thời gian cho em, em ngại quá ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**「下座でお待ちいたします」** — chủ động báo "tôi sẽ ngồi 下座" = mượn câu này để KHÔNG bị mời nhầm 上座. Tanaka thấy = ấn tượng "junior trained".
-- 【2】**Lưng thẳng, tay trên gối** — KHÔNG dựa lưng ghế. KHÔNG bắt chéo chân. Tay 2 bàn tay đặt nhẹ trên gối hoặc trên bàn.
-- 【3】**Phone + laptop OFF** — phone manner mode, để trong túi. Laptop trong cặp. Đợi senior đến, mở laptop CHỈ khi được mời "資料ご準備ください".
-- 【4】**「お忙しいところ、お時間頂戴いたしまして恐縮でございます」** — câu chào CFO senior khi anh xuất hiện. Cao hơn「よろしくお願いします」.
+- 【1】**「下座でお待ちいたします」** — chủ động báo "tôi sẽ ngồi 下座" = mượn câu này để KHÔNG bị mời nhầm 上座. Tanaka thấy = ấn tượng "nhân viên trẻ được đào tạo bài bản".
+- 【2】**Lưng thẳng, tay trên gối** — KHÔNG dựa lưng ghế. KHÔNG bắt chéo chân. Hai bàn tay đặt nhẹ trên gối hoặc trên bàn.
+- 【3】**Phone + laptop đều tắt** — phone để chế độ rung, cất trong túi. Laptop trong cặp. Đợi cấp trên đến, mở laptop CHỈ khi được mời "資料ご準備ください".
+- 【4】**「お忙しいところ、お時間頂戴いたしまして恐縮でございます」** — câu chào CFO cấp cao khi anh xuất hiện. Cao hơn「よろしくお願いします」.
 
 ---
 
@@ -1856,12 +2053,12 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 ## ⚠ Tránh
 
 - Ngồi **上座** dù được mời "どこでもどうぞ" → ngồi 下座 và báo "下座でお待ちいたします"
-- **Phone scrolling** → manner mode, để túi, đợi
-- **Laptop mở** trước khi senior đến → đóng + để cặp
-- **Bắt chéo chân** / dựa lưng casual → lưng thẳng, 2 chân song song
-- **Nói chuyện ầm ầm** với người đi cùng → small talk nhỏ giọt
-- **Ăn / uống** trà chưa được mời → đợi senior đến mới uống
-- Khi senior đến **không đứng dậy** → đứng ngay + bow 30°
+- **Lướt điện thoại** → để chế độ rung, cất túi, ngồi đợi
+- **Laptop mở** trước khi cấp trên đến → đóng + để cặp
+- **Bắt chéo chân** / dựa lưng thoải mái → lưng thẳng, 2 chân song song
+- **Nói chuyện ầm ầm** với người đi cùng → trò chuyện nhỏ giọt
+- **Ăn / uống** trà chưa được mời → đợi cấp trên đến mới uống
+- Khi cấp trên đến **không đứng dậy** → đứng ngay + bow 30°
 
 ---
 
@@ -1882,7 +2079,7 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 
 # Rule 21 — Vào phòng họp với chủ nhà / 入室マナー
 
-> **Luận điểm.** Vào phòng họp = nghi lễ 4 bước: (1) **Gõ cửa 2 lần** (kể cả cửa mở) (2) Đợi 「どうぞ」 + 2 giây (3) Mở cửa, đứng tại ngưỡng, **bow 15°** + 「**失礼いたします**」 (4) Bước vào, đóng cửa nhẹ (KHÔNG quay lưng đóng — xoay 1/4 đóng bằng tay sau lưng). Bỏ bước = "đột nhập".
+> **Luận điểm.** Vào phòng họp = nghi lễ 4 bước: (1) **Gõ cửa 2 lần** (kể cả cửa mở) (2) Đợi 「どうぞ」 + 2 giây (3) Mở cửa, đứng tại ngưỡng, **cúi chào 15°** + 「**失礼いたします**」 (4) Bước vào, đóng cửa nhẹ (KHÔNG quay lưng đóng — xoay 1/4 đóng bằng tay sau lưng). Bỏ bước = "đột nhập".
 >
 > 入室は『2回ノック・"どうぞ"+2秒待機・15度お辞儀+"失礼いたします"・後ろ手で静かに閉扉』の4ステップ。
 >
@@ -1892,54 +2089,66 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 
 ## Bối cảnh / 場面
 
-10:00. Tanaka PMO dẫn Dũng + Tuấn lên tầng 8, đến cửa phòng 803. Phòng có Nakamura CFO + Ōgaki 部長 đã ngồi chờ. Tanaka nhường cho Dũng vào. Đây là **first impression** với Nakamura ở Tokyo (lần đầu visit).
+10:00. Tanaka PMO dẫn Dũng + Tuấn lên tầng 8, đến cửa phòng 803. Phòng có Nakamura CFO + Ōgaki 部長 đã ngồi chờ. Tanaka nhường cho Dũng vào. Đây là **ấn tượng đầu tiên** với Nakamura ở Tokyo (lần đầu đến thăm).
 
 ---
 
 ## ❌ Hội thoại XẤU — không gõ + quay lưng đóng cửa
 
-*đến cửa, mở thẳng · đẩy cửa vào ngay, không bow · theo sau, không gõ, im lặng vào · quay lưng lại, đóng cửa rầm · thoáng thái độ, im lặng nhận xét*
+*đến cửa, mở thẳng · đẩy cửa vào ngay, không cúi chào · theo sau, không gõ, im lặng vào · quay lưng lại, đóng cửa rầm · thoáng thái độ, im lặng nhận xét*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中PMO** | 「どうぞ。」 |
+|  | *Mời vào.* |
 | **トゥアン** | 「Hi、皆さん〜」 |
+|  | *Hi, mọi người~* |
 | **ズン** | *(im lặng)* |
-| **トゥアン** | *(đóng cửa "BANG")* |
-| **中村CFO** | *(im lặng)* |
+| **トゥアン** | *(<ruby>背中<rt>せなか</rt></ruby>を<ruby>向<rt>む</rt></ruby>けてドアをBANG<ruby>音<rt>おん</rt></ruby>で<ruby>閉<rt>し</rt></ruby>める)* |
+|  | *(quay lưng đóng cửa "BANG")* |
+| **中村CFO** | *(<ruby>無言<rt>むごん</rt></ruby>、<ruby>表情<rt>ひょうじょう</rt></ruby>にわずかな<ruby>曇<rt>くも</rt></ruby>り)* |
+|  | *(im lặng, mặt thoáng nhíu)* |
 
-**Vì sao xấu:** (1) Không gõ cửa = "đột nhập". (2) "Hi" + casual = sai formal level. (3) Không bow tại ngưỡng = miss greeting. (4) Quay lưng đóng cửa = lưng về phía Nakamura (vô lễ) + đóng "BANG" = thiếu finesse.
+**Vì sao xấu:** (1) Không gõ cửa = "đột nhập". (2) "Hi" + suồng sã = sai mức trang trọng. (3) Không cúi chào tại ngưỡng = thiếu lời chào. (4) Quay lưng đóng cửa = lưng về phía Nakamura (vô lễ) + đóng "BANG" = thiếu tinh tế.
 
 ---
 
 ## ✅ Hội thoại TỐT — 4 bước nghi lễ
 
-*đến cửa · gõ 2 lần nhẹ, đợi 2 giây · từ trong · mở cửa, đứng tại ngưỡng, bow 15° · theo sau, bow 15°, vào trong · đóng cửa: xoay 1/4 chứ KHÔNG quay lưng, tay sau lưng đẩy nhẹ cửa · bước đến gần bàn, bow 30°*
+*đến cửa · gõ 2 lần nhẹ, đợi 2 giây · từ trong · mở cửa, đứng tại ngưỡng, cúi chào 15° · theo sau, cúi chào 15°, vào trong · đóng cửa: xoay 1/4 chứ KHÔNG quay lưng, tay sau lưng đẩy nhẹ cửa · bước đến gần bàn, cúi chào 30°*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **田中PMO** | 「どうぞ、お入りください。」 |
-| **ズン**【1】 | *(コン コン)* |
+| **田中PMO** | 「どうぞ、お<ruby>入<rt>はい</rt></ruby>りください。」 |
+|  | *Mời các anh vào.* |
+| **ズン**【1】 | *(コン コン — 2<ruby>回<rt>かい</rt></ruby>ノック、2<ruby>秒<rt>びょう</rt></ruby><ruby>待機<rt>たいき</rt></ruby>)* |
+|  | *(cốc cốc — gõ 2 lần, đợi 2 giây)* |
 | **中村CFO** | 「どうぞ。」 |
-| **ズン**【2】 | 「**失礼いたします**【3】。ティエンファットのズンと申します。」 |
-| **トゥアン** | 「**失礼いたします**。技術リーダーのトゥアンと申します。」 |
-| **ズン**【4】 | *(không tiếng)* |
-| **中村CFO** | 「お入りください。中村です。」 |
-| **ズン + トゥアン** | 「お忙しいところ、お時間頂戴いたしまして恐縮でございます。」 |
+|  | *Mời vào.* |
+| **ズン**【2】 | 「**<ruby>失礼<rt>しつれい</rt></ruby>いたします**【3】。ティエンファットのズンと<ruby>申<rt>もう</rt></ruby>します。」 |
+|  | *Em xin phép ạ. Em là Dũng bên Cty Tiên Phát.* |
+| **トゥアン** | 「**失礼いたします**。<ruby>技術<rt>ぎじゅつ</rt></ruby>リーダーのトゥアンと申します。」 |
+|  | *Em xin phép ạ. Em là Tuấn, Tech Lead.* |
+| **ズン**【4】 | *(1/4<ruby>回転<rt>かいてん</rt></ruby>、<ruby>後<rt>うし</rt></ruby>ろ<ruby>手<rt>で</rt></ruby>で<ruby>扉<rt>とびら</rt></ruby>を<ruby>音<rt>おと</rt></ruby><ruby>無<rt>な</rt></ruby>し<ruby>閉<rt>し</rt></ruby>め)* |
+|  | *(xoay 1/4, tay sau lưng đóng cửa không tiếng)* |
+| **中村CFO** | 「お入りください。<ruby>中村<rt>なかむら</rt></ruby>です。」 |
+|  | *Mời các anh vào. Tôi là Nakamura.* |
+| **ズン + トゥアン** | 「お<ruby>忙<rt>いそが</rt></ruby>しいところ、お<ruby>時間<rt>じかん</rt></ruby><ruby>頂戴<rt>ちょうだい</rt></ruby>いたしまして<ruby>恐縮<rt>きょうしゅく</rt></ruby>でございます。」 |
+|  | *Anh bận rộn dành thời gian, em ngại quá ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**Gõ 2 lần** — chuẩn JP business. 3 lần = WC code, 1 lần = thân mật. Nhẹ nhàng. Đợi 2 giây sau gõ trước khi mở.
-- 【2】**Đứng tại ngưỡng bow 15°** — chân chưa bước qua ngưỡng, mở cửa, bow. KHÔNG vừa đi vừa bow.
+- 【1】**Gõ 2 lần** — chuẩn JP business. 3 lần = kiểu gõ cửa WC, 1 lần = thân mật. Nhẹ nhàng. Đợi 2 giây sau gõ trước khi mở.
+- 【2】**Đứng tại ngưỡng cúi chào 15°** — chân chưa bước qua ngưỡng, mở cửa, cúi chào. KHÔNG vừa đi vừa cúi chào.
 - 【3】**「失礼いたします」** — câu cố định vào phòng. KHÔNG「Hi」/「すみません」/「こんにちは」.
-- 【4】**Đóng cửa không quay lưng** — xoay 1/4 (mặt vẫn hơi nhìn trong phòng), tay phải hoặc trái sau lưng đẩy nhẹ cửa. Nếu chỗ chật xoay không được = quay xong xoay lại bow nhẹ với phòng.
+- 【4】**Đóng cửa không quay lưng** — xoay 1/4 (mặt vẫn hơi nhìn trong phòng), tay phải hoặc trái sau lưng đẩy nhẹ cửa. Nếu chỗ chật xoay không được = quay xong xoay lại cúi chào nhẹ với phòng.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「入室は『2回ノック・"失礼いたします"・15度bow・後ろ手で静かに閉扉』の4ステップ。」**
+> **「入室は『2回ノック・"失礼いたします"・15度お辞儀・後ろ手で静かに閉扉』の4ステップ。」**
 >
-> *Vào phòng = gõ 2 lần / "失礼いたします" / bow 15° / đóng cửa không quay lưng.*
+> *Vào phòng = gõ 2 lần / "失礼いたします" / cúi chào 15° / đóng cửa không quay lưng.*
 
 ---
 
@@ -1947,10 +2156,10 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 
 - **Không gõ cửa** dù cửa mở → vẫn gõ 2 lần
 - "**Hi**" / "**こんにちは**" / "**すみません**" → 「失礼いたします」 cố định
-- **Vừa đi vừa bow** → đứng tại ngưỡng, bow xong mới bước
+- **Vừa đi vừa cúi chào** → đứng tại ngưỡng, cúi chào xong mới bước
 - Đóng cửa **quay lưng** + tiếng "**BANG**" → xoay 1/4, tay sau lưng, đóng nhẹ
-- Vào phòng **mở phone/laptop ngay** → đứng đợi senior chỉ chỗ ngồi rồi mới ngồi (rule 10)
-- **Không bow khi senior trong phòng** → bow 30° khi nói câu chào CFO
+- Vào phòng **mở điện thoại/laptop ngay** → đứng đợi cấp trên chỉ chỗ ngồi rồi mới ngồi (rule 10)
+- **Không cúi chào khi cấp trên trong phòng** → cúi chào 30° khi nói câu chào CFO
 
 ---
 
@@ -1970,7 +2179,7 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 
 # Rule 22 — Đi quanh văn phòng / nhà máy / 工場・社内案内
 
-> **Luận điểm.** Khi được tour văn phòng / nhà máy: **đi sau guide 1-2 bước**, **không tự mở cửa**, **không chụp ảnh chưa được phép**, **không sờ thiết bị / monitor**, **không vào phòng kế bên dù cửa mở**. Hỏi trước khi chụp ("**お写真撮ってもよろしいでしょうか**"). Tour thường có **NDA implicit** — ngay cả không ký giấy. Vi phạm = mất hợp đồng + uy tín.
+> **Luận điểm.** Khi được tour văn phòng / nhà máy: **đi sau guide 1-2 bước**, **không tự mở cửa**, **không chụp ảnh chưa được phép**, **không sờ thiết bị / monitor**, **không vào phòng kế bên dù cửa mở**. Hỏi trước khi chụp ("**お写真撮ってもよろしいでしょうか**"). Tour thường có **NDA ngầm định** — ngay cả không ký giấy. Vi phạm = mất hợp đồng + uy tín.
 >
 > 社内案内は『ガイド後ろ1-2歩・勝手にドア開閉禁止・無断撮影禁止・機器/モニター非接触・隣室立入禁止』。撮影は事前許可必須。
 >
@@ -1980,24 +2189,30 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 
 ## Bối cảnh / 場面
 
-11:30 sáng, sau meeting Phase 3 xong, Tanaka PMO offer "ご希望でしたら、開発部のフロアもご覧ください。Phase 3 development team の environment ご覧頂けます". Dũng + Tuấn đồng ý. Tour gồm: hành lang → dev room (gặp dev team) → phòng demo lab → cửa sổ ngắm Shinjuku.
+11:30 sáng, sau meeting Phase 3 xong, Tanaka PMO mời "ご希望でしたら、開発部のフロアもご覧ください。Phase 3 development team の environment ご覧頂けます". Dũng + Tuấn đồng ý. Tour gồm: hành lang → phòng dev (gặp team dev) → phòng demo lab → cửa sổ ngắm Shinjuku.
 
 ---
 
 ## ❌ Hội thoại XẤU — chụp lén + tự mở cửa
 
-*dẫn vào dev room · rút phone, chụp luôn không hỏi · thoáng cứng người · thấy cửa phòng kế bên đang mở, đi vào · vội theo · đã thấy whiteboard có thông tin client khác*
+*dẫn vào phòng dev · rút phone, chụp luôn không hỏi · thoáng cứng người · thấy cửa phòng kế bên đang mở, đi vào · vội theo · đã thấy whiteboard có thông tin khách hàng khác*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **田中PMO** | 「こちらが Phase 3 開発チームです。」 |
+| **田中PMO** | 「こちらが Phase 3 <ruby>開発<rt>かいはつ</rt></ruby>チームです。」 |
+|  | *Đây là team dev Phase 3.* |
 | **トゥアン** | *(cạch — chụp ảnh nhóm phát triển)* |
-| **田中PMO** | 「あの…撮影は、ちょっと…」 |
+|  | *(rút phone chụp không hỏi)* |
+| **田中PMO** | 「あの…<ruby>撮影<rt>さつえい</rt></ruby>は、ちょっと…」 |
+|  | *Ơ... chụp ảnh thì hơi...* |
 | **ズン** | 「あ、この部屋は何ですか？」 |
-| **田中PMO** | 「そこは、別件のmeeting中で…」 |
+|  | *À, phòng này là gì ạ?* |
+| **田中PMO** | 「そこは、<ruby>別件<rt>べっけん</rt></ruby>のmeeting中で…」 |
+|  | *Phòng đó đang họp về việc khác...* |
 | **ズン** | 「あ、すみません！」 |
+|  | *À xin lỗi anh!* |
 
-**Vì sao xấu:** (1) Chụp ảnh không hỏi = JP coi nghiêm trọng (privacy + IP). (2) Tự ý vào phòng cửa mở = vi phạm not-NDA implicit. (3) Có thể đã thấy info confidential client khác = legal risk. Tour kết thúc đột ngột, Tanaka phải report incident.
+**Vì sao xấu:** (1) Chụp ảnh không hỏi = phía Nhật coi rất nghiêm trọng (riêng tư + sở hữu trí tuệ). (2) Tự ý vào phòng cửa mở = vi phạm NDA ngầm định. (3) Có thể đã thấy thông tin mật của khách hàng khác = rủi ro pháp lý. Tour kết thúc đột ngột, Tanaka phải báo cáo sự cố.
 
 ---
 
@@ -2005,25 +2220,36 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 
 *dẫn ra hành lang · đi sau Tanaka 1-2 bước, mắt quan sát nhưng KHÔNG sờ gì · mở cửa dev room · trước khi rút phone · chụp ảnh group, không zoom mặt · đi qua phòng cửa mở · theo Tanaka, KHÔNG nhìn vào, KHÔNG bước gần · đến cửa sổ · quan sát cảnh, KHÔNG chụp khi chưa hỏi*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **田中PMO** | 「こちらが Phase 3 開発チームのフロアです。」 |
+| **田中PMO** | 「こちらが Phase 3 <ruby>開発<rt>かいはつ</rt></ruby>チームのフロアです。」 |
+|  | *Đây là tầng team dev Phase 3.* |
 | **ズン + トゥアン**【1】 | *(im lặng theo)* |
-| **田中PMO** | 「Phase 3 dev team のリーダーをご紹介します。」 |
-| **ズン** | 「**お写真を撮ってもよろしいでしょうか**【2】？team合影として記念に。」 |
-| **田中PMO** | 「team の許可も取りますね。…許可出ました。dev team 全体のみ、個人特定不可の構図でお願いします。」 |
+|  | *(đi sau Tanaka 1-2 bước, tay khoanh sau lưng, không sờ gì)* |
+| **田中PMO** | 「Phase 3 dev team のリーダーをご<ruby>紹介<rt>しょうかい</rt></ruby>します。」 |
+|  | *Tôi xin giới thiệu lead team dev Phase 3.* |
+| **ズン** | 「**お<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ってもよろしいでしょうか**【2】？team合影として<ruby>記念<rt>きねん</rt></ruby>に。」 |
+|  | *Em xin phép chụp ảnh được không ạ? Để làm kỷ niệm chung của team ạ.* |
+| **田中PMO** | 「team の<ruby>許可<rt>きょか</rt></ruby>も取りますね。…許可出ました。dev team <ruby>全体<rt>ぜんたい</rt></ruby>のみ、<ruby>個人<rt>こじん</rt></ruby>特定不可の<ruby>構図<rt>こうず</rt></ruby>でお願いします。」 |
+|  | *Để tôi hỏi team đã. ...OK rồi. Chỉ team toàn cảnh, bố cục không nhận diện cá nhân nhé.* |
 | **ズン** | 「ありがとうございます。」 |
-| **田中PMO** | 「こちらは別件のmeeting中で、通り過ぎましょう。」 |
+|  | *Cảm ơn anh ạ.* |
+| **田中PMO** | 「こちらは<ruby>別件<rt>べっけん</rt></ruby>のmeeting中で、お通りすぎいたしましょう。」 |
+|  | *Phòng này đang họp việc khác, mình đi qua thôi nhé.* |
 | **ズン + トゥアン**【3】 | *(im lặng đi qua)* |
-| **田中PMO** | 「こちらから新宿の街並みがご覧いただけます。」 |
-| **ズン** | 「**こちらの景色は撮影してもよろしいでしょうか**【4】？建物の確認を含む可能性があれば撮影しません。」 |
+|  | *(im lặng theo Tanaka, không nhìn vào phòng kế)* |
+| **田中PMO** | 「こちらから新宿の<ruby>街並<rt>まちな</rt></ruby>みがご覧いただけます。」 |
+|  | *Từ đây các anh có thể ngắm phố Shinjuku.* |
+| **ズン** | 「**こちらの<ruby>景色<rt>けしき</rt></ruby>は<ruby>撮影<rt>さつえい</rt></ruby>してもよろしいでしょうか**【4】？<ruby>建物<rt>たてもの</rt></ruby>の<ruby>確認<rt>かくにん</rt></ruby>を含む<ruby>可能性<rt>かのうせい</rt></ruby>があれば撮影しません。」 |
+|  | *Em xin phép chụp cảnh này có được không ạ? Nếu có thể chụp phải tòa khác thì em không chụp ạ.* |
 | **田中PMO** | 「景色だけでしたら問題ございません。」 |
+|  | *Cảnh thôi thì không sao ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**Đi sau 1-2 bước** — KHÔNG đi ngang Tanaka. KHÔNG đi trước. Mắt quan sát nhưng tay không sờ thiết bị / monitor / whiteboard.
-- 【2】**「お写真を撮ってもよろしいでしょうか」** — câu cố định xin phép chụp. Nói rõ purpose ("team合影"). Chờ explicit OK.
-- 【3】**Phòng cửa mở** — KHÔNG nhìn vào dù tò mò. Đi qua nhanh. Tanaka có thể nói "通りすぎいたしましょう" (chúng ta đi qua thôi) = nhận hint không vào.
-- 【4】**Cảnh ngoài cửa sổ** — vẫn xin phép vì có thể chụp được tòa nhà khác (cty competitor) → "建物の確認を含む可能性があれば撮影しません" = self-aware proactive.
+- 【2】**「お写真を撮ってもよろしいでしょうか」** — câu cố định xin phép chụp. Nói rõ mục đích ("team合影"). Chờ host đồng ý rõ ràng.
+- 【3】**Phòng cửa mở** — KHÔNG nhìn vào dù tò mò. Đi qua nhanh. Tanaka có thể nói "通りすぎいたしましょう" (chúng ta đi qua thôi) = ngầm ý không vào.
+- 【4】**Cảnh ngoài cửa sổ** — vẫn xin phép vì có thể chụp được tòa nhà khác (công ty đối thủ) → "建物の確認を含む可能性があれば撮影しません" = tự ý thức chủ động.
 
 ---
 
@@ -2042,7 +2268,7 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 - Vào **phòng cửa mở** vì tò mò → đi qua, KHÔNG nhìn vào
 - **Sờ monitor / whiteboard / thiết bị** → mắt nhìn, tay đặt sau lưng
 - Đi **trước hoặc ngang** guide → 1-2 bước phía sau
-- Hỏi "**この案件のクライアントは誰?**" về thông tin trên whiteboard → KHÔNG bao giờ
+- Hỏi "**この案件のクライアントは誰？**" về thông tin trên whiteboard → KHÔNG bao giờ
 - **Quên cảm ơn** sau tour → "貴重なご案内ありがとうございました" cuối tour
 
 ---
@@ -2065,7 +2291,7 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 
 # Rule 23 — Rời văn phòng trang trọng / 退室マナー
 
-> **Luận điểm.** Rời meeting không phải chỉ là "đứng dậy đi ra cửa". Combo退室 Nhật = **đứng dậy → bow chính thức 30° → ra tới cửa quay lại bow lần 2 → 「失礼いたします」**. Ấn tượng cuối cùng được khắc sâu nhất, đừng phá nó bằng việc ngồi luôn chào hay ôm cặp chạy nhanh.
+> **Luận điểm.** Rời meeting không phải chỉ là "đứng dậy đi ra cửa". Bộ động tác rời phòng (退室) kiểu Nhật = **đứng dậy → cúi chào chính thức 30° → ra tới cửa quay lại cúi chào lần 2 → 「失礼いたします」**. Ấn tượng cuối cùng được khắc sâu nhất, đừng phá nó bằng việc ngồi luôn chào hay ôm cặp chạy nhanh.
 >
 > 退室は『起立 → 30°お辞儀 → ドア前で再bow → 失礼いたします』の3点固定。最後の印象=最大記憶=日本式『去り際の美学』。
 >
@@ -2083,36 +2309,49 @@ Trụ sở 白鷗 Tokyo, meeting + tour Phase 3 kickoff vừa xong lúc 12:30. D
 
 *vẫn ngồi*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **田中PMO** | 「本日はありがとうございました。」 |
-| **ズン** | 「はい、ありがとうございました。じゃ、帰ります。」 |
-| **トゥアンリーダー** | （鞄を前で抱えてドアへ早足） |
-| **田中PMO** | 「あ、出口はこちら…」 |
-| **ズン** | （振り返らずドアを開けて出る） |
+|  | *Hôm nay cảm ơn các anh ạ.* |
+| **ズン** | 「はい、ありがとうございました。じゃ、<ruby>帰<rt>かえ</rt></ruby>ります。」 |
+|  | *Vâng, cảm ơn anh. Bọn em về đây.* |
+| **トゥアンリーダー** | （<ruby>鞄<rt>かばん</rt></ruby>を前で<ruby>抱<rt>かか</rt></ruby>えてドアへ<ruby>早足<rt>はやあし</rt></ruby>） |
+|  | *(ôm cặp trước ngực, sải bước nhanh ra cửa)* |
+| **田中PMO** | 「あ、<ruby>出口<rt>でぐち</rt></ruby>はこちら…」 |
+|  | *Ơ, lối ra bên này...* |
+| **ズン** | （<ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>らずドアを<ruby>開<rt>あ</rt></ruby>けて<ruby>出<rt>で</rt></ruby>る） |
+|  | *(không quay đầu, mở cửa đi luôn)* |
 
 **Vì sao xấu:** (1) Ngồi luôn chào = thiếu lễ từ đầu đến cuối. (2) Ôm cặp trước ngực + bước vội = giống đang trốn chạy. (3) Đến cửa không quay lại = ấn tượng cuối = 0. Cả buổi meeting hay cũng bị 30 giây cuối phá hỏng.
 
 ---
 
-## ✅ Hội thoại TỐT — đứng dậy → bow 30° → trước cửa bow lần 2
+## ✅ Hội thoại TỐT — đứng dậy → cúi chào 30° → trước cửa cúi chào lần 2
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **田中PMO** | 「本日はお越しいただき、誠にありがとうございました。」 |
-| **ズン** | （椅子を引いて起立、鞄は左手、お辞儀30°）「こちらこそ、貴重なお時間をありがとうございました。」【1】 |
-| **トゥアンリーダー** | （同様に起立 → お辞儀30°）「Phase 3 kickoff、実りのあるお打ち合わせでした。」 |
-| **田中PMO** | （手を平らに開いてドアを指す）「出口はあちらでございます。エレベーターまでご案内いたします。」【2】 |
-| **ズン** | 「恐れ入ります、お願いいたします。」 |
-| **ズン** | （ドア前で振り返り、再度お辞儀30°）【3】 |
-| **トゥアンリーダー** | 「失礼いたします。」【4】 |
-| **田中PMO** | 「お気をつけてお帰りください。」 |
+| **田中PMO** | 「本日はお<ruby>越<rt>こ</rt></ruby>しいただき、<ruby>誠<rt>まこと</rt></ruby>にありがとうございました。」 |
+|  | *Hôm nay các anh đã đến, tôi xin chân thành cảm ơn.* |
+| **ズン** | （<ruby>椅子<rt>いす</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>いて<ruby>起立<rt>きりつ</rt></ruby>、<ruby>鞄<rt>かばん</rt></ruby>は<ruby>左手<rt>ひだりて</rt></ruby>、お<ruby>辞儀<rt>じぎ</rt></ruby>30°）「こちらこそ、<ruby>貴重<rt>きちょう</rt></ruby>なお<ruby>時間<rt>じかん</rt></ruby>をありがとうございました。」【1】 |
+|  | *(đẩy ghế, đứng dậy, cặp ở tay trái, bow 30°) Em mới phải cảm ơn anh đã dành thời gian quý báu ạ.* |
+| **トゥアンリーダー** | （<ruby>同様<rt>どうよう</rt></ruby>に<ruby>起立<rt>きりつ</rt></ruby> → お<ruby>辞儀<rt>じぎ</rt></ruby>30°）「Phase 3 kickoff、<ruby>実<rt>みの</rt></ruby>りのあるお<ruby>打<rt>う</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせでした。」 |
+|  | *(cũng đứng dậy → bow 30°) Buổi họp kickoff Phase 3 rất nhiều giá trị ạ.* |
+| **田中PMO** | （<ruby>手<rt>て</rt></ruby>を<ruby>平<rt>たい</rt></ruby>らに<ruby>開<rt>ひら</rt></ruby>いてドアを<ruby>指<rt>さ</rt></ruby>す）「<ruby>出口<rt>でぐち</rt></ruby>はあちらでございます。エレベーターまでご<ruby>案内<rt>あんない</rt></ruby>いたします。」【2】 |
+|  | *(mở bàn tay phẳng chỉ cửa) Lối ra bên kia ạ. Tôi xin dẫn các anh ra thang máy.* |
+| **ズン** | 「<ruby>恐<rt>おそ</rt></ruby>れ<ruby>入<rt>い</rt></ruby>ります、お<ruby>願<rt>ねが</rt></ruby>いいたします。」 |
+|  | *Phiền anh ạ, em xin nhờ.* |
+| **ズン** | （ドア前で<ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>り、<ruby>再度<rt>さいど</rt></ruby>お<ruby>辞儀<rt>じぎ</rt></ruby>30°）【3】 |
+|  | *(tới cửa quay lại, bow lần 2 — 30°)* |
+| **トゥアンリーダー** | 「<ruby>失礼<rt>しつれい</rt></ruby>いたします。」【4】 |
+|  | *Em xin phép ạ.* |
+| **田中PMO** | 「お<ruby>気<rt>き</rt></ruby>をつけてお<ruby>帰<rt>かえ</rt></ruby>りください。」 |
+|  | *Các anh về cẩn thận ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**Đứng dậy hơi sau host hoặc cùng lúc** — bow 30° lúc rời sâu hơn lúc vào. Cặp giữ tay trái để tay phải sẵn sàng cho mọi cử chỉ.
-- 【2】**Tanaka mở bàn tay phẳng chỉ cửa** — đây là ushering chính thức, khách phải xoay người theo hướng đó, không tự đoán.
-- 【3】**Trước cửa quay lại bow lần 2** — 'mỹ học khi rời' kiểu Nhật. Ấn tượng cuối nhớ lâu nhất.
-- 【4】**「失礼いたします」** — câu cố định khi rời, đi kèm bow 30° sâu. Pair với câu lúc vào.
+- 【1】**Đứng dậy hơi sau host hoặc cùng lúc** — cúi chào 30° lúc rời sâu hơn lúc vào. Cặp giữ tay trái để tay phải sẵn sàng cho mọi cử chỉ.
+- 【2】**Tanaka mở bàn tay phẳng chỉ cửa** — đây là động tác dẫn đường chính thức, khách phải xoay người theo hướng đó, không tự đoán.
+- 【3】**Trước cửa quay lại cúi chào lần 2** — 'mỹ học khi rời' kiểu Nhật. Ấn tượng cuối nhớ lâu nhất.
+- 【4】**「失礼いたします」** — câu cố định khi rời, đi kèm cúi chào 30° sâu. Ghép cặp với câu lúc vào.
 
 ---
 
@@ -2129,7 +2368,7 @@ Trụ sở 白鷗 Tokyo, meeting + tour Phase 3 kickoff vừa xong lúc 12:30. D
 - Ngồi luôn chào — bắt buộc đứng dậy trước khi nói câu cảm ơn
 - Ôm cặp trước ngực + sải bước vội — giống đang trốn
 - Mở cửa đi luôn không quay lại — mất hoàn toàn ấn tượng cuối
-- Bow lúc rời nông hơn lúc vào — ngược logic 'gratitude tăng dần'
+- Cúi chào lúc rời nông hơn lúc vào — ngược logic 'lòng biết ơn tăng dần'
 - Quay lưng hoàn toàn về phía host khi đi ra — luôn giữ thân nửa hướng host
 
 ---
@@ -2170,32 +2409,41 @@ Trụ sở 白鷗 Tokyo, meeting + tour Phase 3 kickoff vừa xong lúc 12:30. D
 
 ## ❌ Hội thoại XẤU — sáng cùng ngày mới đặt + để khách tự chọn menu
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ハーCTO** | 「ズン、明晩の dinner、レストラン決まった？」 |
-| **ズン** | 「明日の朝予約しようかと…現地でmenu見ながら大垣さん達に選んでもらおうかなと…」 |
-| **ハーCTO** | 「それは接待じゃない。CFO 同席で当日予約=B級店しか空いてない。menu丸投げ=客に決断負担。食事制限+alcohol確認も未だろ？」 |
+| **ハーCTO** | 「ズン、<ruby>明晩<rt>みょうばん</rt></ruby>の dinner、レストラン<ruby>決<rt>き</rt></ruby>まった？」 |
+|  | *Dũng, dinner mai tối nhà hàng chốt chưa?* |
+| **ズン** | 「<ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby><ruby>予約<rt>よやく</rt></ruby>しようかと…<ruby>現地<rt>げんち</rt></ruby>でmenu<ruby>見<rt>み</rt></ruby>ながら<ruby>大垣<rt>おおがき</rt></ruby>さん<ruby>達<rt>たち</rt></ruby>に<ruby>選<rt>えら</rt></ruby>んでもらおうかなと…」 |
+|  | *Em định mai sáng mới đặt... Tới nhà hàng đưa menu để anh Ōgaki và mọi người tự chọn ạ...* |
+| **ハーCTO** | 「それは<ruby>接待<rt>せったい</rt></ruby>じゃない。CFO <ruby>同席<rt>どうせき</rt></ruby>で<ruby>当日<rt>とうじつ</rt></ruby><ruby>予約<rt>よやく</rt></ruby>=B<ruby>級<rt>きゅう</rt></ruby><ruby>店<rt>てん</rt></ruby>しか<ruby>空<rt>あ</rt></ruby>いてない。menu<ruby>丸投<rt>まるな</rt></ruby>げ=<ruby>客<rt>きゃく</rt></ruby>に<ruby>決断<rt>けつだん</rt></ruby><ruby>負担<rt>ふたん</rt></ruby>。<ruby>食事<rt>しょくじ</rt></ruby><ruby>制限<rt>せいげん</rt></ruby>+alcohol<ruby>確認<rt>かくにん</rt></ruby>も<ruby>未<rt>ま</rt></ruby>だろ？」 |
+|  | *Đấy không phải tiếp khách. Có CFO mà đặt cùng ngày = chỉ còn quán B. Bắt khách tự chọn menu = đẩy gánh nặng quyết định. Dị ứng với rượu cũng chưa hỏi đúng không?* |
 | **ズン** | 「あ、すみません…」 |
+|  | *À em xin lỗi anh...* |
 
-**Vì sao xấu:** (1) Đặt cùng ngày = nhà hàng tốt full, phải đi quán thường = mất tầm với CFO. (2) Menu để khách chọn tại chỗ = không biết dị ứng / kiêng = risk offensive. (3) Không đặt phòng riêng = mất privacy cho cuộc nói chuyện business. (4) Không hỏi rượu / bia = khách kiêng rượu sẽ awkward.
+**Vì sao xấu:** (1) Đặt cùng ngày = nhà hàng tốt full, phải đi quán thường = mất tầm với CFO. (2) Menu để khách chọn tại chỗ = không biết dị ứng / kiêng = nguy cơ thất lễ với khách. (3) Không đặt phòng riêng = mất sự riêng tư cho cuộc nói chuyện công việc. (4) Không hỏi rượu / bia = khách kiêng rượu sẽ khó xử.
 
 ---
 
 ## ✅ Hội thoại TỐT — đặt từ D-2 + chốt course trước + hỏi dị ứng
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ハーCTO** | 「ズン、明晩の白鷗様dinner、状況共有してくれる？」 |
-| **ズン** | 「① 店: Q1の和食「〇〇」、個室・6名・コース 〇〇万VND/人 (D-2予約済)【1】 ② 食事制限事前確認済 (中村CFO: 生魚OK/甲殻類NG、松本様: 制限なし、大垣様: 軽め希望)【2】 ③ alcohol: 日本酒+ワイン両方準備、ノンアルも【3】。」 |
-| **ハーCTO** | 「送迎は？」 |
-| **ズン** | 「送迎タクシー2台手配済。18:00 ホテルロビーお迎え、18:30 レストラン到着、終了後ホテルまで送り。」【4】 |
-| **ハーCTO** | 「完璧。当日はホスト側着席は私+ズン+トゥアン+フオン副部長。よろしく。」 |
+| **ハーCTO** | 「ズン、<ruby>明晩<rt>みょうばん</rt></ruby>の<ruby>白鷗<rt>はくおう</rt></ruby><ruby>様<rt>さま</rt></ruby>dinner、<ruby>状況<rt>じょうきょう</rt></ruby><ruby>共有<rt>きょうゆう</rt></ruby>してくれる？」 |
+|  | *Dũng, dinner đoàn 白鷗 mai tối, em cập nhật giúp anh nhé?* |
+| **ズン** | 「① <ruby>店<rt>みせ</rt></ruby>: Q1の<ruby>和食<rt>わしょく</rt></ruby>「〇〇」、<ruby>個室<rt>こしつ</rt></ruby>・6<ruby>名<rt>めい</rt></ruby>・コース 〇〇<ruby>万<rt>まん</rt></ruby>VND/<ruby>人<rt>にん</rt></ruby> (D-2<ruby>予約済<rt>よやくず</rt></ruby>)【1】 ② <ruby>食事<rt>しょくじ</rt></ruby><ruby>制限<rt>せいげん</rt></ruby><ruby>事前<rt>じぜん</rt></ruby><ruby>確認済<rt>かくにんず</rt></ruby> (<ruby>中村<rt>なかむら</rt></ruby>CFO: <ruby>生魚<rt>なまざかな</rt></ruby>OK/<ruby>甲殻類<rt>こうかくるい</rt></ruby>NG、<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>: <ruby>制限<rt>せいげん</rt></ruby>なし、<ruby>大垣<rt>おおがき</rt></ruby><ruby>様<rt>さま</rt></ruby>: <ruby>軽<rt>かる</rt></ruby>め<ruby>希望<rt>きぼう</rt></ruby>)【2】 ③ alcohol: <ruby>日本酒<rt>にほんしゅ</rt></ruby>+ワイン<ruby>両方<rt>りょうほう</rt></ruby><ruby>準備<rt>じゅんび</rt></ruby>、ノンアルも【3】。」 |
+|  | *(1) Quán: nhà hàng Nhật 'OO' Q1, phòng riêng, 6 người, course OO triệu/người (đã đặt từ D-2). (2) Dị ứng đã hỏi: CFO Nakamura ăn được sashimi nhưng tránh giáp xác, anh Matsumoto không kiêng, anh Ōgaki muốn nhẹ. (3) Đồ uống: cả sake + vang + nonalc.* |
+| **ハーCTO** | 「<ruby>送迎<rt>そうげい</rt></ruby>は？」 |
+|  | *Xe đưa đón thì sao?* |
+| **ズン** | 「<ruby>送迎<rt>そうげい</rt></ruby>タクシー2<ruby>台<rt>だい</rt></ruby><ruby>手配済<rt>てはいず</rt></ruby>。18:00 ホテルロビーお<ruby>迎<rt>むか</rt></ruby>え、18:30 レストラン<ruby>到着<rt>とうちゃく</rt></ruby>、<ruby>終了後<rt>しゅうりょうご</rt></ruby>ホテルまで<ruby>送<rt>おく</rt></ruby>り。」【4】 |
+|  | *Em đã đặt 2 taxi đưa đón. 18:00 đón ở lobby hotel, 18:30 đến nhà hàng, kết thúc đưa về hotel.* |
+| **ハーCTO** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。<ruby>当日<rt>とうじつ</rt></ruby>はホスト<ruby>側<rt>がわ</rt></ruby><ruby>着席<rt>ちゃくせき</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>+ズン+トゥアン+フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>。よろしく。」 |
+|  | *Tốt. Bên host hôm đó anh + em + Tuấn + chị Hương phó phòng. Em lo nhé.* |
 
 📝 **Ghi chú:**
-- 【1】**Phòng riêng + course chốt trước** = privacy + đẳng cấp. Có CFO = course top + wine pairing là chuẩn. Số người + 1 ghế dự phòng.
-- 【2】**Confirm dị ứng / tôn giáo / không thích** qua Tanaka PMO trước D-3. Hỏi tại chỗ = thất lễ. Note rõ từng người.
-- 【3】**Default sake + vang + nonalc** → khách có lựa chọn. CFO không uống cũng không bị áp lực.
-- 【4】**Hotel ↔ restaurant 2 chiều** = chuẩn tiếp khách. Không để khách tự đặt xe — mất tầm host.
+- 【1】**Phòng riêng + course chốt trước** = riêng tư + đẳng cấp. Có CFO = course top + wine pairing là chuẩn. Số người + 1 ghế dự phòng.
+- 【2】**Xác nhận dị ứng / tôn giáo / không thích** qua Tanaka PMO trước D-3. Hỏi tại chỗ = thất lễ. Ghi rõ từng người.
+- 【3】**Mặc định sake + vang + nonalc** → khách có lựa chọn. CFO không uống cũng không bị áp lực.
+- 【4】**Hotel ↔ restaurant 2 chiều** = chuẩn tiếp khách. Không để khách tự đặt xe — mất tầm chủ nhà.
 
 ---
 
@@ -2210,9 +2458,9 @@ Trụ sở 白鷗 Tokyo, meeting + tour Phase 3 kickoff vừa xong lúc 12:30. D
 ## ⚠ Tránh
 
 - Đặt cùng ngày — chỉ còn quán B
-- Phòng chung cho dinner business — không có privacy
+- Phòng chung cho dinner business — không có sự riêng tư
 - Để khách tự chọn từ menu tại chỗ — đẩy gánh nặng cho khách
-- Không hỏi dị ứng / rượu trước — risk offensive cao
+- Không hỏi dị ứng / rượu trước — nguy cơ thất lễ cao
 - Không đặt xe đưa đón — host chưa chuẩn
 
 ---
@@ -2266,41 +2514,54 @@ Trụ sở 白鷗 Tokyo, meeting + tour Phase 3 kickoff vừa xong lúc 12:30. D
 
 ## Bối cảnh / 場面
 
-Phòng riêng nhà hàng Nhật Q1, dinner bắt đầu 18:30. Bên host: Hà CTO, chị Hương phó phòng, Dũng, Tuấn. Bên guest: CFO Nakamura, Ōgaki, Matsumoto, Tanaka PMO. Đây là cú test toàn diện cho team về tinh thần host.
+Phòng riêng nhà hàng Nhật Q1, dinner bắt đầu 18:30. Bên host: Hà CTO, chị Hương phó phòng, Dũng, Tuấn. Bên guest: CFO Nakamura, Ōgaki, Matsumoto, Tanaka PMO. Đây là phép thử toàn diện cho team về tinh thần host.
 
 ---
 
 ## ❌ Hội thoại XẤU — host bắt khách order + khách tự rót
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | （menuを大垣さんに渡す）「何にされますか？」 |
-| **大垣営業部長** | 「あ、では…どれが…」 |
-| **松本PM** | （自分のglassに自分でビールを注ぐ） |
-| **ズン** | 「じゃ、最後は割り勘で…」 |
-| **ハーCTO** | （後で）「ズン、接待は host が全責任。今日は私が請求書受け取る。次回からはorder+pour+payの3点徹底。」 |
+| **ズン** | （menuを<ruby>大垣<rt>おおがき</rt></ruby>さんに<ruby>渡<rt>わた</rt></ruby>す）「何にされますか？」 |
+|  | *(đẩy menu cho anh Ōgaki) Anh dùng gì ạ?* |
+| **<ruby>大垣<rt>おおがき</rt></ruby><ruby>営業部長<rt>えいぎょうぶちょう</rt></ruby>** | 「あ、では…どれが…」 |
+|  | *À thì... cái nào...* |
+| **<ruby>松本<rt>まつもと</rt></ruby>PM** | （自分のglassに自分でビールを<ruby>注<rt>そそ</rt></ruby>ぐ） |
+|  | *(tự rót bia vào ly của mình)* |
+| **ズン** | 「じゃ、最後は<ruby>割<rt>わ</rt></ruby>り<ruby>勘<rt>かん</rt></ruby>で…」 |
+|  | *Cuối bữa thì mình chia tiền nhé...* |
+| **ハーCTO** | （後で）「ズン、<ruby>接待<rt>せったい</rt></ruby>は host が<ruby>全責任<rt>ぜんせきにん</rt></ruby>。今日は私が<ruby>請求書<rt>せいきゅうしょ</rt></ruby><ruby>受<rt>う</rt></ruby>け取る。次回からはorder+pour+payの3点徹底。」 |
+|  | *(sau đó) Dũng, tiếp khách là host chịu toàn bộ. Hôm nay anh nhận hóa đơn. Lần sau order + rót rượu + trả tiền 3 điểm phải triệt để.* |
 
-**Vì sao xấu:** (1) Mở menu hỏi 'anh chọn gì' = đẩy gánh nặng cho khách. (2) Khách tự rót cho mình = host bỏ vai chăm sóc. (3) Đề xuất chia tiền = phá cả khái niệm tiếp khách. CFO sẽ ngầm đánh giá host chưa được train.
+**Vì sao xấu:** (1) Mở menu hỏi 'anh chọn gì' = đẩy gánh nặng cho khách. (2) Khách tự rót cho mình = host bỏ vai chăm sóc. (3) Đề xuất chia tiền = phá cả khái niệm tiếp khách. CFO sẽ ngầm đánh giá host chưa được huấn luyện.
 
 ---
 
 ## ✅ Hội thoại TỐT — host order trước + host rót + host trả
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ハーCTO** | 「本日はお越しいただき、誠にありがとうございます。」 |
-| **ズン** | 「コースは事前にお決めいただきました。お飲み物は日本酒・ワイン・ノンアルご用意しております。」【1】 |
-| **トゥアンリーダー** | （瓶を両手で持ち、ラベルを上にして大垣様のglassへ）「お注ぎいたします。」【2】 |
-| **大垣営業部長** | （glassを両手で持ち上げて受ける）「恐れ入ります。」 |
-| **ズン** | （中村CFOのglassが空になりそう→すぐ pour）「中村様、もう一杯いかがでしょうか。」【3】 |
-| **中村CFO** | 「ありがとう、頂戴いたします。」 |
-| **ハーCTO** | （中座してこっそりleft、bill決済 → 戻る）「お会計はこちらで承りました。」【4】 |
-| **中村CFO** | 「ご馳走になりました、ありがとうございました。」 |
+| **ハーCTO** | 「<ruby>本日<rt>ほんじつ</rt></ruby>はお<ruby>越<rt>こ</rt></ruby>しいただき、<ruby>誠<rt>まこと</rt></ruby>にありがとうございます。」 |
+|  | *Hôm nay quý vị đã đến, chúng tôi xin chân thành cảm ơn.* |
+| **ズン** | 「コースは<ruby>事前<rt>じぜん</rt></ruby>にお<ruby>決<rt>き</rt></ruby>めいただきました。お<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>は<ruby>日本酒<rt>にほんしゅ</rt></ruby>・ワイン・ノンアルご<ruby>用意<rt>ようい</rt></ruby>しております。」【1】 |
+|  | *Bên em đã chốt course trước rồi ạ. Đồ uống có sake, vang và đồ không cồn ạ.* |
+| **トゥアンリーダー** | （<ruby>瓶<rt>びん</rt></ruby>を<ruby>両手<rt>りょうて</rt></ruby>で持ち、ラベルを上にして<ruby>大垣<rt>おおがき</rt></ruby><ruby>様<rt>さま</rt></ruby>のglassへ）「お<ruby>注<rt>つ</rt></ruby>ぎいたします。」【2】 |
+|  | *(cầm chai 2 tay, nhãn hướng lên, rót vào ly anh Ōgaki) Em xin rót ạ.* |
+| **<ruby>大垣<rt>おおがき</rt></ruby><ruby>営業部長<rt>えいぎょうぶちょう</rt></ruby>** | （glassを<ruby>両手<rt>りょうて</rt></ruby>で<ruby>持<rt>も</rt></ruby>ち上げて<ruby>受<rt>う</rt></ruby>ける）「<ruby>恐<rt>おそ</rt></ruby>れ入ります。」 |
+|  | *(nâng ly bằng 2 tay đón) Phiền các anh quá.* |
+| **ズン** | （<ruby>中村<rt>なかむら</rt></ruby>CFOのglassが<ruby>空<rt>から</rt></ruby>になりそう→すぐ pour）「<ruby>中村<rt>なかむら</rt></ruby><ruby>様<rt>さま</rt></ruby>、もう<ruby>一杯<rt>いっぱい</rt></ruby>いかがでしょうか。」【3】 |
+|  | *(thấy ly CFO Nakamura sắp cạn → rót ngay) Anh Nakamura, em rót thêm cho anh ly nữa được không ạ?* |
+| **中村CFO** | 「ありがとう、<ruby>頂戴<rt>ちょうだい</rt></ruby>いたします。」 |
+|  | *Cảm ơn, tôi xin nhận.* |
+| **ハーCTO** | （<ruby>中座<rt>ちゅうざ</rt></ruby>してこっそりleft、bill<ruby>決済<rt>けっさい</rt></ruby> → <ruby>戻<rt>もど</rt></ruby>る）「お<ruby>会計<rt>かいけい</rt></ruby>はこちらで<ruby>承<rt>うけたまわ</rt></ruby>りました。」【4】 |
+|  | *(rời bàn kín đáo trả tiền rồi quay lại) Hóa đơn bên em đã lo rồi ạ.* |
+| **中村CFO** | 「ご<ruby>馳走<rt>ちそう</rt></ruby>になりました、ありがとうございました。」 |
+|  | *Tôi đã được thiết đãi, cảm ơn rất nhiều.* |
 
 📝 **Ghi chú:**
 - 【1】**Thông báo quyết định trước của chủ nhà** = khách khỏi phải chọn. Không mở menu trước mặt khách. Course đã chốt qua nhà hàng từ D-2.
 - 【2】**「お注ぎいたします」** — cầm chai bằng 2 tay (hoặc tay phải + tay trái đỡ), nhãn hướng lên. Ly khách thì khách cầm 2 tay nâng đón.
-- 【3】**Host canh ly khách liên tục** = rót trước khi cạn. Hành động trước khi khách phải tự rót = score.
+- 【3】**Host canh ly khách liên tục** = rót trước khi cạn. Hành động trước khi khách phải tự rót = ghi điểm.
 - 【4】**「お会計はこちらで承りました」** — bill được host thanh toán bí mật trước khi tan tiệc, không rút ví trước mặt khách. Đây là tinh hoa tiếp khách Nhật.
 
 ---
@@ -2338,7 +2599,7 @@ Phòng riêng nhà hàng Nhật Q1, dinner bắt đầu 18:30. Bên host: Hà CT
 
 # Rule 26 — Cụng ly 乾杯 chuẩn / 乾杯のマナー
 
-> **Luận điểm.** Kanpai không phải "ai hô cũng được, cụng càng kêu càng vui". Quy tắc cứng: **(1) Quyền hô = senior bên host. (2) Ly mình hạ hơi thấp hơn ly senior khách (CFO Nakamura). (3) Chạm nhẹ, không cụng kêu cốp. (4) Đợi host nhấp trước rồi mình mới uống.** Sai 1 trong 4 = đảo trên dưới hoặc thiếu sang.
+> **Luận điểm.** Kanpai không phải "ai hô cũng được, cụng càng kêu càng vui". Quy tắc cứng: **(1) Quyền hô = người cấp cao nhất bên host. (2) Ly mình hạ hơi thấp hơn ly cấp cao của khách (CFO Nakamura). (3) Chạm nhẹ, không cụng kêu cốp. (4) Đợi host nhấp trước rồi mình mới uống.** Sai 1 trong 4 = đảo trên dưới hoặc thiếu sang.
 >
 > 乾杯=『host senior 発声・客側上位より僅か低く・軽く触れるだけ・host より先に飲まない』の4点。
 >
@@ -2354,12 +2615,16 @@ Phòng riêng nhà hàng Q1, mọi người vừa ngồi xong lúc 18:35. Hà CT
 
 ## ❌ Hội thoại XẤU — uống trước khi hô + ly cao hơn senior
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **トゥアンリーダー** | （発声前に一口飲む）「あ、美味しい。」 |
-| **ハーCTO** | 「では、乾杯！」 |
-| **ズン** | （自分のglassを中村CFOのglassより高く合わせる、カチンと音）「乾杯！」 |
-| **中村CFO** | （沈黙、軽く頷く） |
+| **トゥアンリーダー** | （<ruby>発声<rt>はっせい</rt></ruby>前に一口飲む）「あ、<ruby>美味<rt>おい</rt></ruby>しい。」 |
+|  | *(uống trước khi có hô) À ngon ghê.* |
+| **ハーCTO** | 「では、<ruby>乾杯<rt>かんぱい</rt></ruby>！」 |
+|  | *Vậy, kanpai!* |
+| **ズン** | （自分のglassを<ruby>中村<rt>なかむら</rt></ruby>CFOのglassより高く合わせる、カチンと音）「乾杯！」 |
+|  | *(nâng ly cao hơn ly CFO Nakamura, cụng kêu cốp) Kanpai!* |
+| **中村CFO** | （<ruby>沈黙<rt>ちんもく</rt></ruby>、軽く<ruby>頷<rt>うなず</rt></ruby>く） |
+|  | *(im lặng, gật đầu nhẹ)* |
 
 **Vì sao xấu:** (1) Uống trước khi có hô = phá thứ tự. (2) Ly cao hơn ly CFO = đảo trên dưới (ngầm nói "tôi cao hơn anh"). (3) Cụng mạnh kêu 'cốp' = vỡ ly + phản cảm. CFO im lặng = đã chấm điểm âm.
 
@@ -2367,17 +2632,22 @@ Phòng riêng nhà hàng Q1, mọi người vừa ngồi xong lúc 18:35. Hà CT
 
 ## ✅ Hội thoại TỐT — host hô → cả nhóm hạ ly thấp hơn CFO
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ハーCTO** | 「皆様、本日はお越しいただきありがとうございます。Phase 3 成功と末永いお付き合いを願いまして…乾杯！」【1】 |
+| **ハーCTO** | 「<ruby>皆様<rt>みなさま</rt></ruby>、<ruby>本日<rt>ほんじつ</rt></ruby>はお<ruby>越<rt>こ</rt></ruby>しいただきありがとうございます。Phase 3 <ruby>成功<rt>せいこう</rt></ruby>と<ruby>末永<rt>すえなが</rt></ruby>いお<ruby>付<rt>つ</rt></ruby>き<ruby>合<rt>あ</rt></ruby>いを<ruby>願<rt>ねが</rt></ruby>いまして…乾杯！」【1】 |
+|  | *Thưa quý vị, cảm ơn đã đến hôm nay. Chúc Phase 3 thành công và quan hệ dài lâu... kanpai!* |
 | **中村CFO** | 「乾杯。」 |
-| **ズン** | （自分のglassを中村CFOのglassより僅かに低く合わせ、軽く触れる）「乾杯。」【2】【3】 |
-| **トゥアンリーダー** | （同様にglassを低く、host のハーCTO が一口飲んでから自分も飲む）【4】 |
+|  | *Kanpai.* |
+| **ズン** | （自分のglassを中村CFOのglassより<ruby>僅<rt>わず</rt></ruby>かに低く合わせ、軽く<ruby>触<rt>ふ</rt></ruby>れる）「乾杯。」【2】【3】 |
+|  | *(hạ ly hơi thấp hơn ly CFO Nakamura, chạm nhẹ) Kanpai.* |
+| **トゥアンリーダー** | （<ruby>同様<rt>どうよう</rt></ruby>にglassを低く、host のハーCTO が一口飲んでから自分も飲む）【4】 |
+|  | *(cũng hạ ly thấp, đợi host Hà CTO nhấp trước rồi mới uống)* |
 | **松本PM** | 「ありがとうございます。Phase 3、よろしくお願いします。」 |
+|  | *Cảm ơn rất nhiều. Phase 3, mong các anh chị giúp đỡ.* |
 
 📝 **Ghi chú:**
-- 【1】**Quyền hô = senior bên host** — hôm nay là Hà CTO. Khách hô trước = sai. Câu pattern: 「[công ty / dự án] の [thành công] と [継続関係] を願いまして、乾杯！」
-- 【2】**Thấp hơn ly senior = kính trọng** — cùng cấp = ngang. Cấp dưới = thấp nhất. Linh (junior) phải thấp hơn cả Dũng.
+- 【1】**Quyền hô = cấp cao nhất bên host** — hôm nay là Hà CTO. Khách hô trước = sai. Câu mẫu cố định: 「[công ty / dự án] の [thành công] と [継続関係] を願いまして、乾杯！」
+- 【2】**Thấp hơn ly cấp trên = kính trọng** — cùng cấp = ngang. Cấp dưới = thấp nhất. Linh (nhân viên trẻ) phải thấp hơn cả Dũng.
 - 【3】**Chạm nhẹ + giao mắt cười** = chính thức. Cụng mạnh = vỡ ly + thiếu sang.
 - 【4】**Cụng xong, host nhấp trước, khách uống sau** — thứ tự uống cũng giống thứ tự hô.
 
@@ -2393,11 +2663,11 @@ Phòng riêng nhà hàng Q1, mọi người vừa ngồi xong lúc 18:35. Hà CT
 
 ## ⚠ Tránh
 
-- Uống trước khi senior host hô — phá thứ tự
-- Ly cao hơn ly senior khách — đảo trên dưới
+- Uống trước khi người cấp cao bên host hô — phá thứ tự
+- Ly cao hơn ly cấp cao của khách — đảo trên dưới
 - Cụng mạnh kêu cốp — vỡ ly + thiếu sang
 - Hô kanpai khi khách chưa cầm ly — ép tốc độ
-- Junior cụng ngang ly Dũng / senior — phải thấp hơn cả senior bên mình
+- Nhân viên trẻ cụng ngang ly Dũng / cấp trên — phải thấp hơn cả cấp trên bên mình
 
 ---
 
@@ -2416,9 +2686,9 @@ Phòng riêng nhà hàng Q1, mọi người vừa ngồi xong lúc 18:35. Hà CT
 
 # Rule 27 — Cuộc trò chuyện không công việc / 雑談トピック
 
-> **Luận điểm.** Khi câu chuyện business hết, đừng bỏ trống — và đừng bịa. Có **safe topic 4 nhóm**: **ẩm thực (món đang ăn) · sở thích (vòng qua "cuối tuần") · du lịch (gợi mở lần sau) · thời tiết / mùa**. Có **NG topic 3 nhóm cấm tuyệt đối**: **chính trị · tuổi · lương**. Sai 1 cái = bữa dinner còn 30 phút awkward.
+> **Luận điểm.** Khi câu chuyện công việc đã hết, đừng bỏ trống — và đừng bịa. Có **chủ đề an toàn 4 nhóm**: **ẩm thực (món đang ăn) · sở thích (vòng qua "cuối tuần") · du lịch (gợi mở lần sau) · thời tiết / mùa**. Có **chủ đề cấm tuyệt đối 3 nhóm**: **chính trị · tuổi · lương**. Sai 1 cái = bữa tối còn 30 phút khó xử.
 >
-> 雑談 safe = 食・趣味・観光・天気。NG = 政治・年齢・給与。
+> 雑談 an toàn = 食・趣味・観光・天気。Cấm = 政治・年齢・給与。
 >
 > **Liên quan:** rule 25 (ホスト・ゲスト), rule 33 (文化衝突).
 
@@ -2426,43 +2696,57 @@ Phòng riêng nhà hàng Q1, mọi người vừa ngồi xong lúc 18:35. Hà CT
 
 ## Bối cảnh / 場面
 
-Giữa bữa dinner Q1 lúc 19:30, khoảng nghỉ giữa món. Dũng + Tuấn cần nối chuyện với Ōgaki, Matsumoto. Đây là test cho khả năng "small talk business" — không phải tiếng Nhật cao siêu, mà là chọn topic đúng.
+Giữa bữa tối Q1 lúc 19:30, khoảng nghỉ giữa món. Dũng + Tuấn cần nối chuyện với Ōgaki, Matsumoto. Đây là phép thử cho khả năng "trò chuyện ngoài lề trong công việc" — không phải tiếng Nhật cao siêu, mà là chọn chủ đề đúng.
 
 ---
 
 ## ❌ Hội thoại XẤU — hỏi chính trị, tuổi, lương
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **トゥアンリーダー** | 「大垣様、最近の日本の首相どう思われますか？」 |
-| **大垣営業部長** | （沈黙）「…そうですね、ちょっと…」 |
-| **ズン** | 「あ、松本様、お年は？」 |
-| **松本PM** | （笑顔崩れる）「…まあ、それは…」 |
-| **トゥアンリーダー** | 「白鷗のPMの給与水準ってどれぐらい？」 |
-| **松本PM** | （無言で水を飲む） |
+| **トゥアンリーダー** | 「大垣様、最近の日本の<ruby>首相<rt>しゅしょう</rt></ruby>どう<ruby>思<rt>おも</rt></ruby>われますか？」 |
+|  | *Anh Ōgaki, gần đây thủ tướng Nhật anh nghĩ sao ạ?* |
+| **大垣営業部長** | （<ruby>沈黙<rt>ちんもく</rt></ruby>）「…そうですね、ちょっと…」 |
+|  | *(im lặng) ...à thì, hơi...* |
+| **ズン** | 「あ、松本様、お<ruby>年<rt>とし</rt></ruby>は？」 |
+|  | *À, anh Matsumoto, anh bao nhiêu tuổi ạ?* |
+| **松本PM** | （<ruby>笑顔<rt>えがお</rt></ruby><ruby>崩<rt>くず</rt></ruby>れる）「…まあ、それは…」 |
+|  | *(nụ cười tắt) ...à, cái đó...* |
+| **トゥアンリーダー** | 「白鷗のPMの<ruby>給与<rt>きゅうよ</rt></ruby><ruby>水準<rt>すいじゅん</rt></ruby>ってどれぐらい？」 |
+|  | *Lương PM bên 白鷗 tầm bao nhiêu nhỉ?* |
+| **松本PM** | （<ruby>無言<rt>むごん</rt></ruby>で<ruby>水<rt>みず</rt></ruby>を<ruby>飲<rt>の</rt></ruby>む） |
+|  | *(im lặng uống nước)* |
 
-**Vì sao xấu:** (1) Bình chính trị Nhật = khách awkward, không trả lời được mà cũng không đồng ý / phản đối. (2) Hỏi thẳng tuổi = bất lịch sự. (3) Lương = taboo cấp tối đa. 3 cái này = NG pattern hay ra trong BJT.
+**Vì sao xấu:** (1) Bình chính trị Nhật = khách khó xử, không trả lời được mà cũng không đồng ý / phản đối. (2) Hỏi thẳng tuổi = bất lịch sự. (3) Lương = điều cấm kỵ cấp tối đa. 3 cái này = công thức nên tránh hay ra trong BJT.
 
 ---
 
-## ✅ Hội thoại TỐT — triển khai theo safe topic ẩm thực, du lịch, sở thích
+## ✅ Hội thoại TỐT — triển khai theo chủ đề an toàn ẩm thực, du lịch, sở thích
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「今お召し上がりの和牛、A5ランクで地元の方にも人気なんです。お味いかがでしょうか？」【1】 |
-| **松本PM** | 「とても柔らかく、東京で食べる和牛より風味が濃い気がします。」 |
-| **トゥアンリーダー** | 「松本様は週末などはどうお過ごしですか？」【2】 |
-| **松本PM** | 「登山が趣味で、月1回は奥多摩あたりに。最近はカメラも始めまして。」 |
-| **ズン** | 「次回ベトナムにお越しの際は、ダラットの高原がおすすめです。涼しくて景色も綺麗で、写真好きの方が多くいらっしゃいます。」【3】 |
-| **松本PM** | 「それは魅力的ですね。次回お休みを取って訪れてみたいです。」 |
-| **大垣営業部長** | 「今年のHCMCは、雨季の入りはどうですか？」【4】 |
-| **ズン** | 「今年は例年より少し遅れまして、5月中旬から本格的になりそうです。」 |
+| **ズン** | 「今お<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がりの<ruby>和牛<rt>わぎゅう</rt></ruby>、A5ランクで<ruby>地元<rt>じもと</rt></ruby>の<ruby>方<rt>かた</rt></ruby>にも<ruby>人気<rt>にんき</rt></ruby>なんです。お<ruby>味<rt>あじ</rt></ruby>いかがでしょうか？」【1】 |
+|  | *Wagyu anh chị đang dùng là hạng A5, dân địa phương cũng rất thích. Vị các anh thấy thế nào ạ?* |
+| **松本PM** | 「とても<ruby>柔<rt>やわ</rt></ruby>らかく、<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>食<rt>た</rt></ruby>べる<ruby>和牛<rt>わぎゅう</rt></ruby>より<ruby>風味<rt>ふうみ</rt></ruby>が<ruby>濃<rt>こ</rt></ruby>い<ruby>気<rt>き</rt></ruby>がします。」 |
+|  | *Rất mềm, vị đậm hơn wagyu tôi ăn ở Tokyo.* |
+| **トゥアンリーダー** | 「松本様は<ruby>週末<rt>しゅうまつ</rt></ruby>などはどうお<ruby>過<rt>す</rt></ruby>ごしですか？」【2】 |
+|  | *Anh Matsumoto cuối tuần thường làm gì ạ?* |
+| **松本PM** | 「<ruby>登山<rt>とざん</rt></ruby>が<ruby>趣味<rt>しゅみ</rt></ruby>で、<ruby>月<rt>つき</rt></ruby>1<ruby>回<rt>かい</rt></ruby>は<ruby>奥多摩<rt>おくたま</rt></ruby>あたりに。<ruby>最近<rt>さいきん</rt></ruby>はカメラも<ruby>始<rt>はじ</rt></ruby>めまして。」 |
+|  | *Tôi thích leo núi, mỗi tháng đi Okutama một lần. Gần đây mới tập chụp ảnh nữa.* |
+| **ズン** | 「<ruby>次回<rt>じかい</rt></ruby>ベトナムにお<ruby>越<rt>こ</rt></ruby>しの<ruby>際<rt>さい</rt></ruby>は、ダラットの<ruby>高原<rt>こうげん</rt></ruby>がおすすめです。<ruby>涼<rt>すず</rt></ruby>しくて<ruby>景色<rt>けしき</rt></ruby>も<ruby>綺麗<rt>きれい</rt></ruby>で、<ruby>写真<rt>しゃしん</rt></ruby><ruby>好<rt>ず</rt></ruby>きの<ruby>方<rt>かた</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くいらっしゃいます。」【3】 |
+|  | *Lần sau anh sang Việt Nam, em gợi ý cao nguyên Đà Lạt. Mát mẻ, cảnh đẹp, nhiều người mê chụp ảnh lắm ạ.* |
+| **松本PM** | 「それは<ruby>魅力的<rt>みりょくてき</rt></ruby>ですね。<ruby>次回<rt>じかい</rt></ruby>お<ruby>休<rt>やす</rt></ruby>みを<ruby>取<rt>と</rt></ruby>って<ruby>訪<rt>おとず</rt></ruby>れてみたいです。」 |
+|  | *Nghe hấp dẫn quá. Lần sau xin nghỉ tôi muốn đi thử.* |
+| **大垣営業部長** | 「<ruby>今年<rt>ことし</rt></ruby>のHCMCは、<ruby>雨季<rt>うき</rt></ruby>の<ruby>入<rt>い</rt></ruby>りはどうですか？」【4】 |
+|  | *Năm nay HCMC vào mùa mưa thế nào ạ?* |
+| **ズン** | 「<ruby>今年<rt>ことし</rt></ruby>は<ruby>例年<rt>れいねん</rt></ruby>より<ruby>少<rt>すこ</rt></ruby>し<ruby>遅<rt>おく</rt></ruby>れまして、5<ruby>月<rt>がつ</rt></ruby><ruby>中旬<rt>ちゅうじゅん</rt></ruby>から<ruby>本格的<rt>ほんかくてき</rt></ruby>になりそうです。」 |
+|  | *Năm nay hơi muộn so với mọi năm, chắc khoảng giữa tháng 5 mới thật sự bắt đầu ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**Món đang ăn** = chủ đề chung chắc chắn. Khách dễ kể chi tiết, tự nhiên. Hỏi cảm nhận về vị + chia sẻ background nguyên liệu.
-- 【2】**Hỏi sở thích vòng qua "cuối tuần" / "ngày nghỉ"** = gián tiếp. Hỏi thẳng「趣味は何ですか」hơi formal cứng.
+- 【1】**Món đang ăn** = chủ đề chung chắc chắn. Khách dễ kể chi tiết, tự nhiên. Hỏi cảm nhận về vị + chia sẻ nguồn gốc nguyên liệu.
+- 【2】**Hỏi sở thích vòng qua "cuối tuần" / "ngày nghỉ"** = gián tiếp. Hỏi thẳng「趣味は何ですか」hơi trang trọng cứng nhắc.
 - 【3】**Du lịch = dẫn dắt tự nhiên cho lần sau quay lại** — gợi 2-3 quán ăn / cà phê / điểm du lịch ở HCMC, Đà Lạt cụ thể.
-- 【4】**Thời tiết / mùa = safe topic vạn năng**. Khi bí, "tuần này HCMC..." / "sakura Tokyo..." để nối.
+- 【4】**Thời tiết / mùa = chủ đề an toàn vạn năng**. Khi bí, "tuần này HCMC..." / "sakura Tokyo..." để nối.
 
 ---
 
@@ -2470,17 +2754,17 @@ Giữa bữa dinner Q1 lúc 19:30, khoảng nghỉ giữa món. Dũng + Tuấn c
 
 > **「週末などはどうお過ごしですか？」 / 「次回ベトナムにお越しの際は、〇〇がおすすめです。」**
 >
-> *Cuối tuần anh thường làm gì ạ? / Lần sau anh sang Việt Nam, em recommend OO.*
+> *Cuối tuần anh thường làm gì ạ? / Lần sau anh sang Việt Nam, em gợi ý OO.*
 
 ---
 
 ## ⚠ Tránh
 
-- Hỏi về thủ tướng / đảng phái / bầu cử Nhật — politics taboo
+- Hỏi về thủ tướng / đảng phái / bầu cử Nhật — chính trị là điều cấm kỵ
 - Hỏi tuổi trực tiếp 「お年は？」 — vòng qua "thế hệ" hoặc không hỏi
-- Hỏi lương / thu nhập / nhà ở (mua hay thuê) — privacy taboo
-- Bình luận tôn giáo Nhật — risk cao
-- Khoe Vietnam là rẻ / nhân công thấp — nghe như xúc phạm guest's home
+- Hỏi lương / thu nhập / nhà ở (mua hay thuê) — đời tư là điều cấm kỵ
+- Bình luận tôn giáo Nhật — rủi ro cao
+- Khoe Việt Nam là rẻ / nhân công thấp — nghe như xúc phạm đất nước của khách
 
 ---
 
@@ -2515,31 +2799,42 @@ Cuối bữa dinner Q1 lúc 21:00, sau trà kết thúc course. Dũng trao omiya
 
 ## ❌ Hội thoại XẤU — đưa cả túi + thuyết minh quá đà
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「あ、これお土産です。」（紙袋ごと机に置く） |
-| **ズン** | 「ベトナムの高級ブランドのコーヒーで、5千円もするんですよ。」 |
-| **大垣営業部長** | （少し戸惑い）「あ、はい、ありがとうございます…」 |
-| **リン** | （後で）「ズン先輩、紙袋ごとってダメだったんですよね…？」 |
+| **ズン** | 「あ、これ<ruby>お土産<rt>おみやげ</rt></ruby>です。」（<ruby>紙袋<rt>かみぶくろ</rt></ruby>ごと<ruby>机<rt>つくえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>く） |
+|  | *À, đây là omiyage. (đặt cả túi giấy lên bàn)* |
+| **ズン** | 「ベトナムの<ruby>高級<rt>こうきゅう</rt></ruby>ブランドのコーヒーで、5<ruby>千円<rt>せんえん</rt></ruby>もするんですよ。」 |
+|  | *Cà phê brand cao cấp Việt Nam, đến 5 nghìn yên đấy ạ.* |
+| **大垣営業部長** | （<ruby>少<rt>すこ</rt></ruby>し<ruby>戸惑<rt>とまど</rt></ruby>い）「あ、はい、ありがとうございます…」 |
+|  | *(hơi bối rối) À vâng, cảm ơn anh...* |
+| **リン** | （<ruby>後<rt>あと</rt></ruby>で）「ズン<ruby>先輩<rt>せんぱい</rt></ruby>、<ruby>紙袋<rt>かみぶくろ</rt></ruby>ごとってダメだったんですよね…？」 |
+|  | *(sau đó) Anh Dũng, đưa cả túi là không đúng phải không ạ...?* |
 
-**Vì sao xấu:** (1) Đưa cả túi giấy = NG. Phải lấy quà ra khỏi túi, đưa 2 tay cho khách. (2) "Brand cao cấp 5 nghìn yên đó" = khoe giá = ngược tinh thần Nhật khiêm nhường. (3) Đặt bừa lên bàn không trao tận tay từng người = thất lễ.
+**Vì sao xấu:** (1) Đưa cả túi giấy = NG. Phải lấy quà ra khỏi túi, đưa 2 tay cho khách. (2) "Thương hiệu cao cấp 5 nghìn yên đó" = khoe giá = ngược tinh thần Nhật khiêm nhường. (3) Đặt bừa lên bàn không trao tận tay từng người = thất lễ.
 
 ---
 
 ## ✅ Hội thoại TỐT — lấy ra khỏi túi, đưa 2 tay + 'tsumaranai mono desu ga'
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ハーCTO** | 「それでは、ささやかではございますが、ベトナムからお土産をご用意いたしました。ズン、お渡ししてください。」 |
-| **ズン** | 「中村様、つまらないものですが、お受け取りください。」【1】 |
-| **ズン** | （紙袋から出して、文字向きを相手側にし、両手で差し出す）【2】 |
-| **ズン** | 「ベトナムの高地で取れたコーヒーで、皆様で召し上がっていただければ幸いです。」【3】 |
-| **中村CFO** | （起立気味で両手で受け取る）「頂戴いたします。お心遣いありがとうございます。」 |
-| **ズン** | （続いて大垣様 → 松本様 → 田中様の順で同じ手順）【4】 |
-| **リン** | （ズンの隣で観察、メモ）「紙袋から出す → 文字向き → 両手 → 上位者順、ですね。」 |
+| **ハーCTO** | 「それでは、ささやかではございますが、ベトナムから<ruby>お土産<rt>おみやげ</rt></ruby>をご<ruby>用意<rt>ようい</rt></ruby>いたしました。ズン、お<ruby>渡<rt>わた</rt></ruby>ししてください。」 |
+|  | *Vậy thì, tuy đơn sơ, bên em đã chuẩn bị chút quà từ Việt Nam. Dũng, em trao đi.* |
+| **ズン** | 「<ruby>中村<rt>なかむら</rt></ruby>様、つまらないものですが、お<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>りください。」【1】 |
+|  | *Anh Nakamura, đây là chút quà mọn, mong anh nhận giúp em ạ.* |
+| **ズン** | （<ruby>紙袋<rt>かみぶくろ</rt></ruby>から<ruby>出<rt>だ</rt></ruby>して、<ruby>文字<rt>もじ</rt></ruby><ruby>向<rt>む</rt></ruby>きを<ruby>相手<rt>あいて</rt></ruby><ruby>側<rt>がわ</rt></ruby>にし、<ruby>両手<rt>りょうて</rt></ruby>で<ruby>差<rt>さ</rt></ruby>し<ruby>出<rt>だ</rt></ruby>す）【2】 |
+|  | *(lấy quà ra khỏi túi giấy, xoay mặt chữ về phía khách, đưa 2 tay)* |
+| **ズン** | 「ベトナムの<ruby>高地<rt>こうち</rt></ruby>で<ruby>取<rt>と</rt></ruby>れたコーヒーで、<ruby>皆様<rt>みなさま</rt></ruby>で<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がっていただければ<ruby>幸<rt>さいわ</rt></ruby>いです。」【3】 |
+|  | *Cà phê trồng ở vùng cao Việt Nam, mong cả nhà mình cùng thưởng thức ạ.* |
+| **中村CFO** | （<ruby>起立<rt>きりつ</rt></ruby><ruby>気味<rt>ぎみ</rt></ruby>で<ruby>両手<rt>りょうて</rt></ruby>で<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>る）「<ruby>頂戴<rt>ちょうだい</rt></ruby>いたします。お<ruby>心遣<rt>こころづか</rt></ruby>いありがとうございます。」 |
+|  | *(hơi nhổm dậy nhận bằng 2 tay) Tôi xin nhận. Cảm ơn tấm lòng các anh.* |
+| **ズン** | （<ruby>続<rt>つづ</rt></ruby>いて<ruby>大垣<rt>おおがき</rt></ruby>様 → <ruby>松本<rt>まつもと</rt></ruby>様 → <ruby>田中<rt>たなか</rt></ruby>様の<ruby>順<rt>じゅん</rt></ruby>で<ruby>同<rt>おな</rt></ruby>じ<ruby>手順<rt>てじゅん</rt></ruby>）【4】 |
+|  | *(tiếp tục anh Ōgaki → anh Matsumoto → anh Tanaka theo cùng trình tự)* |
+| **リン** | （ズンの<ruby>隣<rt>となり</rt></ruby>で<ruby>観察<rt>かんさつ</rt></ruby>、メモ）「<ruby>紙袋<rt>かみぶくろ</rt></ruby>から<ruby>出<rt>だ</rt></ruby>す → <ruby>文字<rt>もじ</rt></ruby><ruby>向<rt>む</rt></ruby>き → <ruby>両手<rt>りょうて</rt></ruby> → <ruby>上位者<rt>じょういしゃ</rt></ruby><ruby>順<rt>じゅん</rt></ruby>、ですね。」 |
+|  | *(ngồi cạnh Dũng quan sát, ghi chú) Lấy ra khỏi túi → mặt chữ → 2 tay → trao theo thứ tự cấp bậc, ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**「つまらないものですが」** — câu khiêm nhường cố định. Dù thật sự cao cấp vẫn nói "không đáng gì". Khoe giá / brand / độ hiếm = đại kỵ.
+- 【1】**「つまらないものですが」** — câu khiêm nhường cố định. Dù thật sự cao cấp vẫn nói "không đáng gì". Khoe giá / thương hiệu / độ hiếm = đại kỵ.
 - 【2】**Túi chỉ để mang** — lúc trao = lấy ra khỏi túi, hướng chữ về phía khách, đưa 2 tay. Túi giấy bỏ đi (kiểu Nhật).
 - 【3】**Giải thích = "xuất xứ + cách dùng"** thôi. Giá tuyệt đối không. "Cả nhà cùng dùng" = dấu hiệu có thể chia trong cty.
 - 【4】**Thứ tự**: CFO Nakamura → trưởng Ōgaki → PM Matsumoto → PMO Tanaka. Trao từng người, mỗi người đứng / nhổm dậy nhận bằng 2 tay.
@@ -2557,7 +2852,7 @@ Cuối bữa dinner Q1 lúc 21:00, sau trà kết thúc course. Dũng trao omiya
 ## ⚠ Tránh
 
 - Đưa cả túi giấy — NG, phải lấy ra
-- Khoe giá / brand / độ hiếm — phá tinh thần khiêm nhường
+- Khoe giá / thương hiệu / độ hiếm — phá tinh thần khiêm nhường
 - Đặt bừa lên bàn không trao tận tay — thất lễ
 - Giục khách mở quà tại chỗ — ép khách
 - Túi giấy logo công ty mình to chiếm hết — trông như quảng cáo
@@ -2618,9 +2913,9 @@ Cuối bữa dinner Q1 lúc 21:00, sau trà kết thúc course. Dũng trao omiya
 
 # Rule 29 — Nhận omiyage / お土産の受け取り
 
-> **Luận điểm.** Nhận omiyage chuẩn Nhật = **(1) Đưa 2 tay đón, (2) câu cố định「頂戴いたします」+ bow 30°, (3) đặt lên 上座 (kamiza) của bàn, (4) KHÔNG mở tại chỗ, (5) báo "lát em mời cả phòng cùng dùng", (6) gửi thank-you mail trong 24h**. Mở quà tại chỗ + hỏi giá = NG cấp tối đa.
+> **Luận điểm.** Nhận omiyage chuẩn Nhật = **(1) Đưa 2 tay đón, (2) câu cố định「頂戴いたします」+ cúi chào 30°, (3) đặt lên 上座 (kamiza) của bàn, (4) KHÔNG mở tại chỗ, (5) báo "lát em mời cả phòng cùng dùng", (6) gửi thư cảm ơn trong 24h**. Mở quà tại chỗ + hỏi giá = NG cấp tối đa.
 >
-> お土産受領=『両手→「頂戴いたします」+30°礼→机上座置き→即開封せず→share signal→24h以内お礼メール』6点。
+> お土産受領=『両手→「頂戴いたします」+30°礼→机上座置き→即開封せず→皆で分ける告知→24h以内お礼メール』6点。
 >
 > **Liên quan:** rule 28 (お土産渡し), rule 33 (文化衝突).
 
@@ -2634,34 +2929,45 @@ Sáng hôm sau, PM Matsumoto bên 白鷗 sang văn phòng HCMC mang theo yokan T
 
 ## ❌ Hội thoại XẤU — mở ngay + hỏi giá + bình luận chất lượng
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **松本PM** | 「東京からのお土産です。よろしければ皆様で。」 |
-| **リン** | 「わ、虎屋ですか！」（その場で包みを開ける）「これって有名ですよね？値段は…？」 |
-| **松本PM** | （少し戸惑い）「あ、まあ…」 |
-| **フオン副部長** | （後でリンに）「リン、お土産は『頂戴いたします』だけで、その場で開けない。値段は絶対 NG。」 |
+| **松本PM** | 「東京からのお<ruby>土産<rt>みやげ</rt></ruby>です。よろしければ<ruby>皆様<rt>みなさま</rt></ruby>で。」 |
+|  | *Đây là quà từ Tokyo. Mời cả nhà mình ạ.* |
+| **リン** | 「わ、<ruby>虎屋<rt>とらや</rt></ruby>ですか！」（その<ruby>場<rt>ば</rt></ruby>で<ruby>包<rt>つつ</rt></ruby>みを<ruby>開<rt>あ</rt></ruby>ける）「これって<ruby>有名<rt>ゆうめい</rt></ruby>ですよね？<ruby>値段<rt>ねだん</rt></ruby>は…？」 |
+|  | *Ơ, Toraya à! (mở gói luôn tại chỗ) Cái này nổi tiếng phải không ạ? Giá thì...?* |
+| **松本PM** | （<ruby>少<rt>すこ</rt></ruby>し<ruby>戸惑<rt>とまど</rt></ruby>い）「あ、まあ…」 |
+|  | *(hơi bối rối) À thì...* |
+| **フオン副部長** | （<ruby>後<rt>あと</rt></ruby>でリンに）「リン、お<ruby>土産<rt>みやげ</rt></ruby>は『<ruby>頂戴<rt>ちょうだい</rt></ruby>いたします』だけで、その<ruby>場<rt>ば</rt></ruby>で<ruby>開<rt>あ</rt></ruby>けない。<ruby>値段<rt>ねだん</rt></ruby>は<ruby>絶対<rt>ぜったい</rt></ruby> NG。」 |
+|  | *(sau đó với Linh) Linh, omiyage chỉ cần 'tôi xin nhận' thôi, không mở tại chỗ. Tuyệt đối không hỏi giá.* |
 
-**Vì sao xấu:** (1) Mở quà tại chỗ = thất lễ (tín hiệu "tôi quan tâm vật chất hơn tấm lòng"). (2) Hỏi giá = NG cấp tối đa. (3) Khen "trông ngon" / "Toraya nổi tiếng" tại chỗ = nông. Đúng = mở sau giờ làm việc + thank-you mail trong 24h.
+**Vì sao xấu:** (1) Mở quà tại chỗ = thất lễ (tín hiệu "tôi quan tâm vật chất hơn tấm lòng"). (2) Hỏi giá = NG cấp tối đa. (3) Khen "trông ngon" / "Toraya nổi tiếng" tại chỗ = nông. Đúng = mở sau giờ làm việc + gửi thư cảm ơn trong 24h.
 
 ---
 
 ## ✅ Hội thoại TỐT — nhận 2 tay + 'tôi xin nhận' + mở sau
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **松本PM** | 「東京からのお土産です。皆様で召し上がっていただければ。」 |
-| **フオン副部長** | （両手で受け取り、お辞儀30°）「頂戴いたします。お心遣いありがとうございます。」【1】 |
-| **フオン副部長** | （受け取った包みを机の上座側に丁寧に置く）【2】 |
-| **松本PM** | 「羊羹で、日持ちもしますので。」 |
-| **フオン副部長** | 「ありがとうございます。後ほど社内で皆でいただきます。」【3】 |
-| **リン** | （包みは開けず、机に置いたまま） |
-| **フオン副部長** | （後ほど松本様にメール）「本日は素敵なお土産をいただき、ありがとうございました。社内で皆でおいしくいただきました。後ほど改めて御礼のメールを送らせていただきます。」【4】 |
+| **松本PM** | 「東京からのお<ruby>土産<rt>みやげ</rt></ruby>です。<ruby>皆様<rt>みなさま</rt></ruby>で<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がっていただければ。」 |
+|  | *Đây là quà từ Tokyo. Mong cả nhà mình thưởng thức ạ.* |
+| **フオン副部長** | （<ruby>両手<rt>りょうて</rt></ruby>で<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>り、お<ruby>辞儀<rt>じぎ</rt></ruby>30°）「<ruby>頂戴<rt>ちょうだい</rt></ruby>いたします。お<ruby>心遣<rt>こころづか</rt></ruby>いありがとうございます。」【1】 |
+|  | *(nhận 2 tay, bow 30°) Em xin nhận. Cảm ơn tấm lòng của anh ạ.* |
+| **フオン副部長** | （<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>った<ruby>包<rt>つつ</rt></ruby>みを<ruby>机<rt>つくえ</rt></ruby>の<ruby>上座<rt>かみざ</rt></ruby><ruby>側<rt>がわ</rt></ruby>に<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>置<rt>お</rt></ruby>く）【2】 |
+|  | *(đặt gói quà nhận được lên phía 上座 (kamiza = phía trên) của bàn một cách trang trọng)* |
+| **松本PM** | 「<ruby>羊羹<rt>ようかん</rt></ruby>で、<ruby>日持<rt>ひも</rt></ruby>ちもしますので。」 |
+|  | *Là yokan, để được khá lâu ạ.* |
+| **フオン副部長** | 「ありがとうございます。<ruby>後<rt>のち</rt></ruby>ほど<ruby>社内<rt>しゃない</rt></ruby>で<ruby>皆<rt>みな</rt></ruby>でいただきます。」【3】 |
+|  | *Cảm ơn anh ạ. Lát nữa em mời cả phòng cùng dùng.* |
+| **リン** | （<ruby>包<rt>つつ</rt></ruby>みは<ruby>開<rt>あ</rt></ruby>けず、<ruby>机<rt>つくえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いたまま） |
+|  | *(không mở gói, giữ nguyên trên bàn)* |
+| **フオン副部長** | （<ruby>後<rt>のち</rt></ruby>ほど<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>にメール）「<ruby>本日<rt>ほんじつ</rt></ruby>は<ruby>素敵<rt>すてき</rt></ruby>なお<ruby>土産<rt>みやげ</rt></ruby>をいただき、ありがとうございました。<ruby>社内<rt>しゃない</rt></ruby>で<ruby>皆<rt>みな</rt></ruby>でおいしくいただきました。<ruby>後<rt>のち</rt></ruby>ほど<ruby>改<rt>あらた</rt></ruby>めて<ruby>御礼<rt>おれい</rt></ruby>のメールを<ruby>送<rt>おく</rt></ruby>らせていただきます。」【4】 |
+|  | *(sau đó mail anh Matsumoto) Hôm nay anh tặng quà rất ý nghĩa, em xin cảm ơn ạ. Cả phòng đã cùng thưởng thức ngon lành. Em xin gửi lại thư cảm ơn trang trọng sau ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**「頂戴いたします」** — câu nhận cố định, formal hơn 「ありがとう」. Đi kèm bow 30°. Nhổm dậy nhẹ nếu đang ngồi.
+- 【1】**「頂戴いたします」** — câu nhận cố định, trang trọng hơn 「ありがとう」. Đi kèm cúi chào 30°. Nhổm dậy nhẹ nếu đang ngồi.
 - 【2】**Đặt 2 tay → đặt lên phía 上座 (kamiza) của bàn đàng hoàng**. Để dưới sàn = NG. Để góc bàn lăn lóc = NG.
 - 【3】**「皆でいただきます」** = báo sẽ chia → tôn trọng ý người gửi ('cả nhà mình'). Mang về nhà ăn riêng = dấu hiệu sai.
-- 【4】**Mail cảm ơn trong 24h** = follow-up chính thức. Bình luận chất lượng viết trong mail tử tế, không phải tại bàn.
+- 【4】**Mail cảm ơn trong 24h** = liên lạc tiếp chính thức. Bình luận chất lượng viết trong mail tử tế, không phải tại bàn.
 
 ---
 
@@ -2679,7 +2985,7 @@ Sáng hôm sau, PM Matsumoto bên 白鷗 sang văn phòng HCMC mang theo yokan T
 - Hỏi giá / nơi mua — taboo cấp cao nhất
 - Bình luận chất lượng "trông ngon quá" tại bàn — nông
 - Nhận 1 tay / để dưới chân / để bừa lên bàn — thất lễ
-- Quên gửi thank-you mail trong 24h — mất follow-up
+- Quên gửi thư cảm ơn trong 24h — mất bước liên lạc tiếp
 
 ---
 
@@ -2708,32 +3014,41 @@ Sáng hôm sau, PM Matsumoto bên 白鷗 sang văn phòng HCMC mang theo yokan T
 
 ## Bối cảnh / 場面
 
-Sáng sau dinner Q1 lúc 8:30. Dũng cần gửi thank-you mail tới Ōgaki, Matsumoto, CFO Nakamura, Tanaka PMO trong 24h. Hà CTO review draft trước khi gửi.
+Sáng sau dinner Q1 lúc 8:30. Dũng cần gửi thank-you mail tới Ōgaki, Matsumoto, CFO Nakamura, Tanaka PMO trong 24h. Hà CTO kiểm tra bản nháp trước khi gửi.
 
 ---
 
 ## ❌ Hội thoại XẤU — gửi sau 3 ngày + quá ngắn + dùng BCC chung
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ハーCTO** | 「ズン、昨日のお礼メールは送った？」 |
-| **ズン** | 「あ、まだです。今週中に書こうかと…」 |
-| **ハーCTO** | 「24時間以内が原則。3日後では鮮度切れ。To別+CC上司で一通ずつ書け。BCC一括NG。」 |
-| **ズン** | 「あ、すみません！今すぐ書きます。」 |
+| **ハーCTO** | 「ズン、昨日のお<ruby>礼<rt>れい</rt></ruby>メールは<ruby>送<rt>おく</rt></ruby>った？」 |
+|  | *Dũng, mail cảm ơn hôm qua em gửi chưa?* |
+| **ズン** | 「あ、まだです。<ruby>今週中<rt>こんしゅうちゅう</rt></ruby>に<ruby>書<rt>か</rt></ruby>こうかと…」 |
+|  | *À chưa anh. Em định trong tuần sẽ viết...* |
+| **ハーCTO** | 「24<ruby>時間以内<rt>じかんいない</rt></ruby>が<ruby>原則<rt>げんそく</rt></ruby>。3<ruby>日<rt>か</rt></ruby><ruby>後<rt>ご</rt></ruby>では<ruby>鮮度<rt>せんど</rt></ruby><ruby>切<rt>ぎ</rt></ruby>れ。To<ruby>別<rt>べつ</rt></ruby>+CC<ruby>上司<rt>じょうし</rt></ruby>で<ruby>一通<rt>いっつう</rt></ruby>ずつ<ruby>書<rt>か</rt></ruby>け。BCC<ruby>一括<rt>いっかつ</rt></ruby>NG。」 |
+|  | *Nguyên tắc trong 24h. 3 ngày sau là mất độ tươi rồi. To gửi riêng từng người + CC cấp trên, viết từng mail một. BCC chung NG.* |
+| **ズン** | 「あ、すみません！<ruby>今<rt>いま</rt></ruby>すぐ<ruby>書<rt>か</rt></ruby>きます。」 |
+|  | *Em xin lỗi anh! Em viết ngay đây ạ.* |
 
-**Vì sao xấu:** (1) 3 ngày sau = mất độ tươi của lời cảm ơn — khách đã quên một phần chi tiết. (2) Chỉ "hôm qua cảm ơn anh" = không có nhiệt. (3) BCC nhiều người = mất cảm giác cá nhân — khách thấy ngay là form mail. 3 cái này = negative cho quan hệ.
+**Vì sao xấu:** (1) 3 ngày sau = mất độ tươi của lời cảm ơn — khách đã quên một phần chi tiết. (2) Chỉ "hôm qua cảm ơn anh" = không có nhiệt. (3) BCC nhiều người = mất cảm giác cá nhân — khách thấy ngay là mail mẫu hàng loạt. 3 cái này = tiêu cực cho quan hệ.
 
 ---
 
 ## ✅ Hội thoại TỐT — gửi sáng hôm sau + To riêng + đề cập cụ thể
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ハーCTO** | 「ズン、昨日のお礼メール、ドラフト見せて。」 |
-| **ズン** | 「翌朝8時送信予定【1】。To = 中村CFO様 / 大垣様 / 松本様 / 田中様 個別4通、CC = ハーCTO+フオン副部長【2】。各メールに昨夜の和牛のご感想・松本様の登山のお話を1-2行引用しております【3】。」 |
-| **ハーCTO** | 「いいね。次回約束は入れた？」 |
-| **ズン** | 「はい、『次回はぜひ当方からも東京へお伺いし、5月のお花見の頃に改めて』と入れています。」【4】 |
-| **ハーCTO** | 「完璧。8時に送信して、午後にハーから中村CFOへ補足の謝意メールも送る。」 |
+| **ハーCTO** | 「ズン、昨日のお<ruby>礼<rt>れい</rt></ruby>メール、ドラフト<ruby>見<rt>み</rt></ruby>せて。」 |
+|  | *Dũng, draft mail cảm ơn hôm qua đưa anh xem.* |
+| **ズン** | 「<ruby>翌朝<rt>よくあさ</rt></ruby>8<ruby>時<rt>じ</rt></ruby><ruby>送信予定<rt>そうしんよてい</rt></ruby>【1】。To = <ruby>中村<rt>なかむら</rt></ruby>CFO<ruby>様<rt>さま</rt></ruby> / <ruby>大垣<rt>おおがき</rt></ruby><ruby>様<rt>さま</rt></ruby> / <ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby> / <ruby>田中<rt>たなか</rt></ruby><ruby>様<rt>さま</rt></ruby> <ruby>個別<rt>こべつ</rt></ruby>4<ruby>通<rt>つう</rt></ruby>、CC = ハーCTO+フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>【2】。<ruby>各<rt>かく</rt></ruby>メールに<ruby>昨夜<rt>さくや</rt></ruby>の<ruby>和牛<rt>わぎゅう</rt></ruby>のご<ruby>感想<rt>かんそう</rt></ruby>・<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>の<ruby>登山<rt>とざん</rt></ruby>のお<ruby>話<rt>はなし</rt></ruby>を1-2<ruby>行<rt>ぎょう</rt></ruby><ruby>引用<rt>いんよう</rt></ruby>しております【3】。」 |
+|  | *Em định gửi 8h sáng nay. To = anh Nakamura / anh Ōgaki / anh Matsumoto / anh Tanaka — 4 mail riêng từng người. CC = anh Hà CTO + chị Hương phó phòng. Mỗi mail em trích 1-2 dòng về wagyu hôm qua + chuyện leo núi của anh Matsumoto.* |
+| **ハーCTO** | 「いいね。<ruby>次回約束<rt>じかいやくそく</rt></ruby>は<ruby>入<rt>い</rt></ruby>れた？」 |
+|  | *Tốt. Hẹn lần sau em đã cho vào chưa?* |
+| **ズン** | 「はい、『<ruby>次回<rt>じかい</rt></ruby>はぜひ<ruby>当方<rt>とうほう</rt></ruby>からも<ruby>東京<rt>とうきょう</rt></ruby>へお<ruby>伺<rt>うかが</rt></ruby>いし、5<ruby>月<rt>がつ</rt></ruby>のお<ruby>花見<rt>はなみ</rt></ruby>の<ruby>頃<rt>ころ</rt></ruby>に<ruby>改<rt>あらた</rt></ruby>めて』と<ruby>入<rt>い</rt></ruby>れています。」【4】 |
+|  | *Vâng, em viết 'lần sau em xin đến thăm Tokyo, khoảng tháng 5 mùa hoa anh đào sẽ liên hệ lại ạ'.* |
+| **ハーCTO** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。8<ruby>時<rt>じ</rt></ruby>に<ruby>送信<rt>そうしん</rt></ruby>して、<ruby>午後<rt>ごご</rt></ruby>にハーから<ruby>中村<rt>なかむら</rt></ruby>CFOへ<ruby>補足<rt>ほそく</rt></ruby>の<ruby>謝意<rt>しゃい</rt></ruby>メールも<ruby>送<rt>おく</rt></ruby>る。」 |
+|  | *Hoàn hảo. 8h gửi nhé. Chiều anh sẽ gửi mail bổ sung cảm ơn anh CFO Nakamura.* |
 
 📝 **Ghi chú:**
 - 【1】**Lý tưởng = sáng hôm sau vừa đến cty 8-9h** — trước khi sang ngày mới = tươi + dấu hiệu chỉn chu. 24h là giới hạn cứng.
@@ -2745,7 +3060,7 @@ Sáng sau dinner Q1 lúc 8:30. Dũng cần gửi thank-you mail tới Ōgaki, Ma
 
 ## 🎯 Câu chốt
 
-> **「昨夜はお忙しい中、貴重なお時間を頂戴し、誠にありがとうございました。次回はぜひ当方からも東京へお伺いさせていただきます。」**
+> **「<ruby>昨夜<rt>さくや</rt></ruby>はお<ruby>忙<rt>いそが</rt></ruby>しい<ruby>中<rt>なか</rt></ruby>、<ruby>貴重<rt>きちょう</rt></ruby>なお<ruby>時間<rt>じかん</rt></ruby>を<ruby>頂戴<rt>ちょうだい</rt></ruby>し、<ruby>誠<rt>まこと</rt></ruby>にありがとうございました。<ruby>次回<rt>じかい</rt></ruby>はぜひ<ruby>当方<rt>とうほう</rt></ruby>からも<ruby>東京<rt>とうきょう</rt></ruby>へお<ruby>伺<rt>うかが</rt></ruby>いさせていただきます。」**
 >
 > *Tối qua anh bận mà vẫn dành thời gian quý báu, em xin chân thành cảm ơn ạ. Lần sau bên em xin được đến thăm Tokyo.*
 
@@ -2756,7 +3071,7 @@ Sáng sau dinner Q1 lúc 8:30. Dũng cần gửi thank-you mail tới Ōgaki, Ma
 - Gửi sau 3+ ngày — mất "độ tươi"
 - BCC nhiều người chung 1 mail — mất cá nhân hóa
 - Chỉ 1 dòng "hôm qua cảm ơn anh" — không có nhiệt
-- Không trích chủ đề cụ thể — giống form mail
+- Không trích chủ đề cụ thể — giống mail mẫu hàng loạt
 - Hẹn lần sau mơ hồ "khi có dịp" — không có tín hiệu duy trì
 
 ---
@@ -2782,7 +3097,7 @@ Sáng sau dinner Q1 lúc 8:30. Dũng cần gửi thank-you mail tới Ōgaki, Ma
 
 末筆ながら、皆様のますますのご健勝をお祈り申し上げます。
 
-──
+--
 ティエンファット 営業部
 ズン (Tran Van Dung)
 TEL: 〇〇
@@ -2813,7 +3128,7 @@ E-mail: 〇〇
 
 # Rule 31 — Khách Nhật đoàn lớn 5+ người / 5名以上の対応
 
-> **Luận điểm.** Từ 5 người trở lên = "tự ngồi tự xoay" sẽ thành thảm họa. Bắt buộc 4 thứ chuẩn bị: **(1) Bảng tên + sơ đồ ngồi (席札+席次表) đặt giữa bàn trước khi khách đến, (2) chỉ định ghế: 上位 khách giữa上座, senior host đối diện ở下座, (3) chia zone 3-4 người mỗi host phụ trách rót, (4) flow table 30-phút in sẵn cho cả host team**. 11 người 1 người rót = không kham nổi.
+> **Luận điểm.** Từ 5 người trở lên = "tự ngồi tự xoay" sẽ thành thảm họa. Bắt buộc 4 thứ chuẩn bị: **(1) Bảng tên + sơ đồ ngồi (席札+席次表) đặt giữa bàn trước khi khách đến, (2) chỉ định ghế: khách cấp cao ngồi giữa 上座, cấp trên bên chủ nhà ngồi đối diện ở 下座, (3) chia cụm 3-4 người, mỗi chủ nhà phụ trách rót, (4) bảng tiến trình 30 phút in sẵn cho cả nhóm chủ nhà**. 11 người mà 1 người rót = không kham nổi.
 >
 > 5+人 = 席札+席次表+zone別pour担当+flow table 4点必須。自由着席は混乱の元。
 >
@@ -2823,58 +3138,69 @@ E-mail: 〇〇
 
 ## Bối cảnh / 場面
 
-Trong onsite Tokyo, final ceremony tại trụ sở 白鷗. Bên 白鷗 6 người (CFO Nakamura, Ōgaki, Matsumoto, PMO Tanaka + 2 kỹ thuật), bên Tiên Phát 5 người (Hà CTO, chị Hương phó phòng, Tuấn, Dũng, Hải) = tổng 11 người. Hà CTO check Dũng về sơ đồ + flow.
+Trong onsite Tokyo, buổi lễ tổng kết tại trụ sở 白鷗. Bên 白鷗 6 người (CFO Nakamura, Ōgaki, Matsumoto, PMO Tanaka + 2 kỹ thuật), bên Tiên Phát 5 người (Hà CTO, chị Hương phó phòng, Tuấn, Dũng, Hải) = tổng 11 người. Hà CTO check Dũng về sơ đồ ngồi + tiến trình.
 
 ---
 
-## ❌ Hội thoại XẤU — ngồi tự do + tự quản drink + không có flow
+## ❌ Hội thoại XẤU — ngồi tự do + tự quản đồ uống + không có tiến trình
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ハーCTO** | 「ズン、明日のceremony seat layoutは？」 |
-| **ズン** | 「あ、自由着席で…大丈夫かと…」 |
-| **ハーCTO** | 「11人で自由着席は混乱の元。中村CFOが上座に入れず格落ちリスク。pour担当は？」 |
-| **ズン** | 「私一人でと…」 |
-| **ハーCTO** | 「11人 1人pourは無理。3-4人ずつzoneに分けてpour担当を配置。flow tableも作って。」 |
+|  | *Dũng, sơ đồ ngồi cho ceremony mai sao?* |
+| **ズン** | 「あ、<ruby>自由<rt>じゆう</rt></ruby><ruby>着席<rt>ちゃくせき</rt></ruby>で…<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>かと…」 |
+|  | *À, em định để mọi người tự ngồi... chắc cũng ổn ạ...* |
+| **ハーCTO** | 「11人で<ruby>自由<rt>じゆう</rt></ruby><ruby>着席<rt>ちゃくせき</rt></ruby>は<ruby>混乱<rt>こんらん</rt></ruby>の<ruby>元<rt>もと</rt></ruby>。<ruby>中村<rt>なかむら</rt></ruby>CFOが<ruby>上座<rt>かみざ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>れず<ruby>格落<rt>かくお</rt></ruby>ちリスク。pour<ruby>担当<rt>たんとう</rt></ruby>は？」 |
+|  | *11 người mà tự ngồi = nguồn gốc của hỗn loạn. CFO Nakamura không vào được 上座 (kamiza) = mất tầm. Ai rót đồ uống?* |
+| **ズン** | 「<ruby>私<rt>わたし</rt></ruby><ruby>一人<rt>ひとり</rt></ruby>でと…」 |
+|  | *Em định một mình em...* |
+| **ハーCTO** | 「11人 1人pourは<ruby>無理<rt>むり</rt></ruby>。3-4人ずつzoneに<ruby>分<rt>わ</rt></ruby>けてpour<ruby>担当<rt>たんとう</rt></ruby>を<ruby>配置<rt>はいち</rt></ruby>。flow tableも<ruby>作<rt>つく</rt></ruby>って。」 |
+|  | *11 người 1 người rót là không kham nổi. Chia zone 3-4 người, mỗi zone có người rót. Bảng flow cũng phải làm.* |
 
-**Vì sao xấu:** (1) Không chỉ định ghế = khách lưỡng lự + CFO có thể không vào được上座 = mất tầm. (2) 11 người mà 1 người rót = không kịp, ly cạn không ai để ý. (3) Không có flow = thứ tự chào lộn xộn + có thể CFO không có chỗ chen vào phát biểu.
+**Vì sao xấu:** (1) Không chỉ định ghế = khách lưỡng lự + CFO có thể không vào được 上座 = mất tầm. (2) 11 người mà 1 người rót = không kịp, ly cạn không ai để ý. (3) Không có tiến trình = thứ tự chào lộn xộn + có thể CFO không có chỗ chen vào phát biểu.
 
 ---
 
-## ✅ Hội thoại TỐT — ghế chỉ định + chia zone rót + flow 30 phút
+## ✅ Hội thoại TỐT — ghế chỉ định + chia cụm rót + tiến trình 30 phút
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ハーCTO** | 「ズン、明日 11名 ceremony 準備状況を共有して。」 |
-| **ズン** | 「① seat layout: 中村CFOが上座中央、両側に大垣様・松本様。下座側中央にハーCTO、両側にフオン副部長・トゥアン。席札+席次表をテーブル中央に【1】【2】。」 |
-| **ズン** | 「② zone別pour: zone A (中村・大垣・松本) はハイ担当、zone B (田中PMO+技術2名) はトゥアン担当、zone C (host側自分達)は私が回します。Slack で空glass通報。」【3】 |
+| **ハーCTO** | 「ズン、明日 11名 ceremony <ruby>準備<rt>じゅんび</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>共有<rt>きょうゆう</rt></ruby>して。」 |
+|  | *Dũng, ceremony 11 người mai cập nhật anh đi.* |
+| **ズン** | 「① seat layout: <ruby>中村<rt>なかむら</rt></ruby>CFOが<ruby>上座<rt>かみざ</rt></ruby><ruby>中央<rt>ちゅうおう</rt></ruby>、<ruby>両側<rt>りょうがわ</rt></ruby>に<ruby>大垣<rt>おおがき</rt></ruby><ruby>様<rt>さま</rt></ruby>・<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>。<ruby>下座<rt>しもざ</rt></ruby><ruby>側<rt>がわ</rt></ruby><ruby>中央<rt>ちゅうおう</rt></ruby>にハーCTO、<ruby>両側<rt>りょうがわ</rt></ruby>にフオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>・トゥアン。<ruby>席札<rt>せきふだ</rt></ruby>+<ruby>席次表<rt>せきじひょう</rt></ruby>をテーブル<ruby>中央<rt>ちゅうおう</rt></ruby>に【1】【2】。」 |
+|  | *(1) Sơ đồ ngồi: CFO Nakamura giữa 上座 (kamiza), 2 bên là anh Ōgaki và anh Matsumoto. Phía 下座 (shimoza) giữa là anh Hà CTO, 2 bên là chị Hương phó phòng và anh Tuấn. Bảng tên + sơ đồ ngồi để giữa bàn.* |
+| **ズン** | 「② zone別pour: zone A (<ruby>中村<rt>なかむら</rt></ruby>・<ruby>大垣<rt>おおがき</rt></ruby>・<ruby>松本<rt>まつもと</rt></ruby>) はハイ<ruby>担当<rt>たんとう</rt></ruby>、zone B (<ruby>田中<rt>たなか</rt></ruby>PMO+<ruby>技術<rt>ぎじゅつ</rt></ruby>2名) はトゥアン<ruby>担当<rt>たんとう</rt></ruby>、zone C (host<ruby>側<rt>がわ</rt></ruby><ruby>自分達<rt>じぶんたち</rt></ruby>)は<ruby>私<rt>わたし</rt></ruby>が<ruby>回<rt>まわ</rt></ruby>します。Slack で<ruby>空<rt>あ</rt></ruby>glass<ruby>通報<rt>つうほう</rt></ruby>。」【3】 |
+|  | *(2) Rót theo zone: zone A (Nakamura, Ōgaki, Matsumoto) Hải lo, zone B (Tanaka PMO + 2 kỹ thuật) Tuấn lo, zone C (bên host mình) em quay vòng. Có Slack báo ly cạn.* |
 | **ハーCTO** | 「flow tableは？」 |
-| **ズン** | 「③ flow table: 18:30乾杯 → 18:40 中村CFOご挨拶 → 18:50 大垣部長 → 19:00 ハーCTO → 19:10 フオン副部長 → 19:20 自由歓談 → 20:30 お土産交換 → 21:00 締め。host 側全員に印刷配布済。」【4】 |
-| **ハーCTO** | 「完璧。明日17:30会場集合、最終確認。」 |
+|  | *Còn flow table?* |
+| **ズン** | 「③ flow table: 18:30<ruby>乾杯<rt>かんぱい</rt></ruby> → 18:40 <ruby>中村<rt>なかむら</rt></ruby>CFOご<ruby>挨拶<rt>あいさつ</rt></ruby> → 18:50 <ruby>大垣<rt>おおがき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby> → 19:00 ハーCTO → 19:10 フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby> → 19:20 <ruby>自由<rt>じゆう</rt></ruby><ruby>歓談<rt>かんだん</rt></ruby> → 20:30 お<ruby>土産<rt>みやげ</rt></ruby><ruby>交換<rt>こうかん</rt></ruby> → 21:00 <ruby>締<rt>し</rt></ruby>め。host <ruby>側<rt>がわ</rt></ruby><ruby>全員<rt>ぜんいん</rt></ruby>に<ruby>印刷<rt>いんさつ</rt></ruby><ruby>配布<rt>はいふ</rt></ruby><ruby>済<rt>ず</rt></ruby>。」【4】 |
+|  | *(3) Flow table: 18:30 kanpai → 18:40 CFO Nakamura phát biểu → 18:50 trưởng Ōgaki → 19:00 Hà CTO → 19:10 chị Hương phó phòng → 19:20 trò chuyện tự do → 20:30 trao omiyage → 21:00 kết thúc. Đã in phát cả nhóm host.* |
+| **ハーCTO** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。明日17:30<ruby>会場<rt>かいじょう</rt></ruby><ruby>集合<rt>しゅうごう</rt></ruby>、<ruby>最終<rt>さいしゅう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>。」 |
+|  | *Hoàn hảo. Mai 17:30 tập trung tại địa điểm, check lần cuối.* |
 
 📝 **Ghi chú:**
-- 【1】**Bàn 11 người vẫn 上座 (xa cửa nhất) ở giữa = vị trí tối cao**. 3 senior khách ngồi上座, senior host (Hà CTO) ngồi 下座 đối diện CFO Nakamura.
+- 【1】**Bàn 11 người vẫn 上座 (xa cửa nhất) ở giữa = vị trí tối cao**. 3 cấp cao bên khách ngồi 上座, cấp trên bên chủ nhà (Hà CTO) ngồi 下座 đối diện CFO Nakamura.
 - 【2】**5+ người = bắt buộc bảng tên + sơ đồ ngồi đặt giữa bàn**, bố trí xong trước khi khách đến. Tránh ngơ ngác + thứ bậc rõ ràng.
-- 【3】**Mỗi host phụ trách zone 3-4 người = phát hiện ly cạn trong 2 phút**. Zone leader nhau chat ngầm Slack check mức ly.
-- 【4】**Flow chia 30 phút in sẵn, phát cả nhóm host**. Phát biểu = CFO → trưởng Ōgaki → Hà CTO → chị Hương phó phòng — luân phiên khách-host.
+- 【3】**Mỗi chủ nhà phụ trách cụm 3-4 người = phát hiện ly cạn trong 2 phút**. Người phụ trách các cụm chat ngầm Slack check mức ly với nhau.
+- 【4】**Tiến trình chia 30 phút in sẵn, phát cả nhóm chủ nhà**. Phát biểu = CFO → trưởng Ōgaki → Hà CTO → chị Hương phó phòng — luân phiên khách-chủ nhà.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「席次表をご確認の上、お席にお着きください。本日のflow をお手元の表でご確認いただけます。」**
+> **「<ruby>席次表<rt>せきじひょう</rt></ruby>をご<ruby>確認<rt>かくにん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>、お<ruby>席<rt>せき</rt></ruby>にお<ruby>着<rt>つ</rt></ruby>きください。<ruby>本日<rt>ほんじつ</rt></ruby>のflow をお<ruby>手元<rt>てもと</rt></ruby>の<ruby>表<rt>ひょう</rt></ruby>でご<ruby>確認<rt>かくにん</rt></ruby>いただけます。」**
 >
-> *Xin quý vị xem sơ đồ ngồi và vào chỗ ạ. Flow hôm nay quý vị có thể xem trên bảng trước mặt.*
+> *Xin quý vị xem sơ đồ ngồi và vào chỗ ạ. Tiến trình hôm nay quý vị có thể xem trên bảng trước mặt.*
 
 ---
 
 ## ⚠ Tránh
 
 - Tự do ngồi cho đoàn 5+ người — nguồn hỗn loạn
-- 1 host phụ trách rót cho 11 người — không kham nổi
-- Không in flow table — phát biểu lộn xộn
-- Không có buffer ghế — khách dẫn thêm interpreter sẽ kẹt
-- Senior host không đối diện CFO — đảo position quan trọng
+- 1 chủ nhà phụ trách rót cho 11 người — không kham nổi
+- Không in bảng tiến trình — phát biểu lộn xộn
+- Không có ghế dự phòng — khách dẫn thêm phiên dịch sẽ kẹt
+- Cấp trên bên chủ nhà không đối diện CFO — đảo vị trí quan trọng
 
 ---
 
@@ -2903,36 +3229,49 @@ Trong onsite Tokyo, final ceremony tại trụ sở 白鷗. Bên 白鷗 6 ngư�
 
 ## Bối cảnh / 場面
 
-Tối trước khi đi onsite Tokyo, chị Hương phó phòng demo 4 loại bow cho Linh. Linh là intern lần đầu đi onsite, học để khỏi lúng túng giữa các tình huống mixed (gặp CFO / vào phòng / chào hành lang / tình huống lỗi).
+Tối trước khi đi onsite Tokyo, chị Hương phó phòng demo 4 loại bow cho Linh. Linh là thực tập sinh lần đầu đi onsite, học để khỏi lúng túng giữa các tình huống đan xen (gặp CFO / vào phòng / chào hành lang / tình huống lỗi).
 
 ---
 
 ## ❌ Hội thoại XẤU — bow nào cũng 15°
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **リン** | （中村CFOへ会釈程度）「よろしくお願いします。」 |
-| **フオン副部長** | 「リン、CFO相手に15°は軽すぎ。初対面+CFOは45°最敬礼。」 |
-| **リン** | （謝罪 simulation も15°）「すみません！」 |
-| **フオン副部長** | 「謝罪も15°じゃダメ。重大ミスは90°、軽いミスは30°。角度=反省深さの signal。」 |
+| **リン** | （<ruby>中村<rt>なかむら</rt></ruby>CFOへ<ruby>会釈<rt>えしゃく</rt></ruby><ruby>程度<rt>ていど</rt></ruby>）「よろしくお<ruby>願<rt>ねが</rt></ruby>いします。」 |
+|  | *(cúi nhẹ kiểu xã giao với CFO Nakamura) Mong anh giúp đỡ ạ.* |
+| **フオン副部長** | 「リン、CFO<ruby>相手<rt>あいて</rt></ruby>に15°は<ruby>軽<rt>かる</rt></ruby>すぎ。<ruby>初対面<rt>しょたいめん</rt></ruby>+CFOは45°<ruby>最敬礼<rt>さいけいれい</rt></ruby>。」 |
+|  | *Linh, gặp CFO mà 15° là quá nhẹ. Lần đầu + đối tượng CFO = phải 45° saikeirei (cúi sâu kính cẩn).* |
+| **リン** | （<ruby>謝罪<rt>しゃざい</rt></ruby> simulation も15°）「すみません！」 |
+|  | *(tập xin lỗi cũng 15°) Em xin lỗi!* |
+| **フオン副部長** | 「<ruby>謝罪<rt>しゃざい</rt></ruby>も15°じゃダメ。<ruby>重大<rt>じゅうだい</rt></ruby>ミスは90°、<ruby>軽<rt>かる</rt></ruby>いミスは30°。<ruby>角度<rt>かくど</rt></ruby>=<ruby>反省<rt>はんせい</rt></ruby><ruby>深<rt>ふか</rt></ruby>さの signal。」 |
+|  | *Xin lỗi mà 15° cũng không được. Sai nặng = 90°, sai nhẹ = 30°. Góc cúi = dấu hiệu độ ăn năn.* |
 
-**Vì sao xấu:** (1) Chào CFO bằng 15° = quá nhẹ, thất lễ. (2) Xin lỗi cũng 15° = không có vẻ ăn năn. (3) Bow giống nhau cho mọi tình huống = không truyền được nhiệt và mức nghiêm túc. Khách Nhật đọc "góc cúi" = đọc "temperature".
+**Vì sao xấu:** (1) Chào CFO bằng 15° = quá nhẹ, thất lễ. (2) Xin lỗi cũng 15° = không có vẻ ăn năn. (3) Bow giống nhau cho mọi tình huống = không truyền được nhiệt và mức nghiêm túc. Khách Nhật đọc "góc cúi" = đọc "độ nhiệt thành".
 
 ---
 
 ## ✅ Hội thoại TỐT — dùng 4 góc đúng tình huống
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **フオン副部長** | 「リン、お辞儀は4種類。場面で使い分ける。実演するから真似してね。」 |
-| **フオン副部長** | （15°、約1秒）「これが会釈。廊下ですれ違い・朝の挨拶。」【1】 |
-| **リン** | （15°真似）「はい、おはようございます。」 |
-| **フオン副部長** | （30°、約2-3秒）「これが敬礼。打合せ入退室・初対面同等職位。」【2】 |
-| **リン** | （30°真似、ゆっくり戻す）「よろしくお願いいたします。」 |
-| **フオン副部長** | （45°、約3-4秒）「これが最敬礼。CFO・社長・初対面の重要顧客に。」【3】 |
-| **リン** | （45°真似、深く静かに）「初めまして、リンと申します。」 |
-| **フオン副部長** | （90°、3秒以上）「これが謝罪お辞儀。重大ミス時のみ。普段の場面では絶対しない。」【4】 |
-| **リン** | 「わかりました。明日CFOへの初対面は45°、お部屋の出入りは30°、廊下挨拶は15°ですね。」 |
+| **フオン副部長** | 「リン、お<ruby>辞儀<rt>じぎ</rt></ruby>は4<ruby>種類<rt>しゅるい</rt></ruby>。<ruby>場面<rt>ばめん</rt></ruby>で<ruby>使<rt>つか</rt></ruby>い<ruby>分<rt>わ</rt></ruby>ける。<ruby>実演<rt>じつえん</rt></ruby>するから<ruby>真似<rt>まね</rt></ruby>してね。」 |
+|  | *Linh, bow có 4 loại. Tùy tình huống mà dùng. Chị làm mẫu, em theo nhé.* |
+| **フオン副部長** | （15°、<ruby>約<rt>やく</rt></ruby>1<ruby>秒<rt>びょう</rt></ruby>）「これが<ruby>会釈<rt>えしゃく</rt></ruby>。<ruby>廊下<rt>ろうか</rt></ruby>ですれ<ruby>違<rt>ちが</rt></ruby>い・<ruby>朝<rt>あさ</rt></ruby>の<ruby>挨拶<rt>あいさつ</rt></ruby>。」【1】 |
+|  | *(15°, khoảng 1 giây) Đây là eshaku. Đi qua hành lang, chào sáng.* |
+| **リン** | （15°<ruby>真似<rt>まね</rt></ruby>）「はい、おはようございます。」 |
+|  | *(bắt chước 15°) Vâng, chào buổi sáng.* |
+| **フオン副部長** | （30°、約2-3秒）「これが<ruby>敬礼<rt>けいれい</rt></ruby>。<ruby>打合<rt>うちあわ</rt></ruby>せ<ruby>入退室<rt>にゅうたいしつ</rt></ruby>・<ruby>初対面<rt>しょたいめん</rt></ruby><ruby>同等<rt>どうとう</rt></ruby><ruby>職位<rt>しょくい</rt></ruby>。」【2】 |
+|  | *(30°, khoảng 2-3 giây) Đây là keirei. Vào/ra phòng họp, gặp lần đầu cùng cấp.* |
+| **リン** | （30°真似、ゆっくり<ruby>戻<rt>もど</rt></ruby>す）「よろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。」 |
+|  | *(bắt chước 30°, ngẩng từ từ) Mong anh chị giúp đỡ ạ.* |
+| **フオン副部長** | （45°、約3-4秒）「これが<ruby>最敬礼<rt>さいけいれい</rt></ruby>。CFO・<ruby>社長<rt>しゃちょう</rt></ruby>・<ruby>初対面<rt>しょたいめん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>顧客<rt>こきゃく</rt></ruby>に。」【3】 |
+|  | *(45°, khoảng 3-4 giây) Đây là saikeirei. Dùng với CFO, GĐ, khách quan trọng lần đầu gặp.* |
+| **リン** | （45°真似、<ruby>深<rt>ふか</rt></ruby>く<ruby>静<rt>しず</rt></ruby>かに）「<ruby>初<rt>はじ</rt></ruby>めまして、リンと<ruby>申<rt>もう</rt></ruby>します。」 |
+|  | *(bắt chước 45°, sâu và lặng) Em là Linh, lần đầu gặp anh ạ.* |
+| **フオン副部長** | （90°、3秒以上）「これが<ruby>謝罪<rt>しゃざい</rt></ruby>お<ruby>辞儀<rt>じぎ</rt></ruby>。<ruby>重大<rt>じゅうだい</rt></ruby>ミス<ruby>時<rt>じ</rt></ruby>のみ。<ruby>普段<rt>ふだん</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>では<ruby>絶対<rt>ぜったい</rt></ruby>しない。」【4】 |
+|  | *(90°, 3+ giây) Đây là bow xin lỗi. Chỉ dùng khi sai nặng. Tình huống bình thường tuyệt đối không bow vậy.* |
+| **リン** | 「わかりました。<ruby>明日<rt>あした</rt></ruby>CFOへの<ruby>初対面<rt>しょたいめん</rt></ruby>は45°、お<ruby>部屋<rt>へや</rt></ruby>の<ruby>出入<rt>でい</rt></ruby>りは30°、<ruby>廊下<rt>ろうか</rt></ruby><ruby>挨拶<rt>あいさつ</rt></ruby>は15°ですね。」 |
+|  | *Em hiểu rồi. Mai gặp CFO lần đầu = 45°, vào/ra phòng = 30°, chào hành lang = 15° ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**15° 会釈 (eshaku)** — đi qua nhau ở hành lang, chào nhẹ trong cty, chào sáng đồng nghiệp. Cúi 1 giây rồi ngẩng. Dùng trong cùng cty.
@@ -2956,7 +3295,7 @@ Tối trước khi đi onsite Tokyo, chị Hương phó phòng demo 4 loại bow
 - 90° cho lời xin lỗi nhẹ — làm khách hoảng / ngại
 - Cúi đầu nhanh, ngẩng nhanh — thiếu thành ý
 - Cúi nửa người (gập eo nhưng đầu vẫn ngẩng) — không phải bow Nhật
-- Dùng cùng góc cho mọi tình huống — không truyền được "temperature"
+- Dùng cùng góc cho mọi tình huống — không truyền được "độ nhiệt thành"
 
 ---
 
@@ -2975,7 +3314,7 @@ Tối trước khi đi onsite Tokyo, chị Hương phó phòng demo 4 loại bow
 
 # Rule 33 — Tránh culture clash VN-JP / 文化衝突の回避
 
-> **Luận điểm.** 3 thói quen Việt Nam xung đột thẳng với kiểu Nhật khi tiếp khách: **(1) "Em tự rót cho em" → kiểu Nhật phải rót cho nhau (相互ケア), (2) "Để em trả" với người mời → mất face người mời, (3) "Đáp lễ quà ngay" → tín hiệu "tôi nợ" tạo gánh nặng**. Đúng cách = nhường, hẹn lần sau mình mời lại / đáp lễ ở dịp khác.
+> **Luận điểm.** 3 thói quen Việt Nam xung đột thẳng với kiểu Nhật khi tiếp khách: **(1) "Em tự rót cho em" → kiểu Nhật phải rót cho nhau (相互ケア), (2) "Để em trả" với người mời → mất thể diện người mời, (3) "Đáp lễ quà ngay" → tín hiệu "tôi nợ" tạo gánh nặng**. Đúng cách = nhường, hẹn lần sau mình mời lại / đáp lễ ở dịp khác.
 >
 > VN流『自分でやる/俺が払う/即返し』 vs JP『相互pour/招待者支払い/別日返し』。後者を follow が正解。
 >
@@ -2985,43 +3324,58 @@ Tối trước khi đi onsite Tokyo, chị Hương phó phòng demo 4 loại bow
 
 ## Bối cảnh / 場面
 
-Ngày 3 onsite Tokyo buổi tối, Tanaka PMO + PM Matsumoto rủ Dũng + Tuấn đến izakaya casual không chính thức. Đây là lúc dễ rơi vào reflex VN nhất vì không khí thoải mái. Chị Hương đã dặn 3 chú ý trước khi đi, đây là thực hành.
+Ngày 3 onsite Tokyo buổi tối, Tanaka PMO + PM Matsumoto rủ Dũng + Tuấn đến izakaya casual không chính thức. Đây là lúc dễ rơi vào phản xạ kiểu VN nhất vì không khí thoải mái. Chị Hương đã dặn 3 chú ý trước khi đi, đây là thực hành.
 
 ---
 
 ## ❌ Hội thoại XẤU — làm thẳng theo kiểu VN
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **松本PM** | 「ズンさん、もう一杯どうぞ。」 |
-| **ズン** | （自分で自分のglassに注ぐ）「あ、自分でやります。」 |
-| **松本PM** | （少し違和感）「あ、はい…」 |
-| **トゥアンリーダー** | （会計時、自分のカードを先に出す）「今日は私達が…」 |
-| **田中PMO** | 「あ、今日は私が誘ったので…」 (face損なう) |
-| **ズン** | （鞄から即お返しのgiftを取り出す）「これ、お返しに…」 |
+| **松本PM** | 「ズンさん、もう<ruby>一杯<rt>いっぱい</rt></ruby>どうぞ。」 |
+|  | *Anh Dũng, thêm ly nữa nhé.* |
+| **ズン** | （<ruby>自分<rt>じぶん</rt></ruby>で<ruby>自分<rt>じぶん</rt></ruby>のglassに<ruby>注<rt>そそ</rt></ruby>ぐ）「あ、<ruby>自分<rt>じぶん</rt></ruby>でやります。」 |
+|  | *(tự rót cho mình) À em tự rót được ạ.* |
+| **松本PM** | （<ruby>少<rt>すこ</rt></ruby>し<ruby>違和感<rt>いわかん</rt></ruby>）「あ、はい…」 |
+|  | *(hơi bối rối) À, vâng...* |
+| **トゥアンリーダー** | （<ruby>会計時<rt>かいけいじ</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>のカードを<ruby>先<rt>さき</rt></ruby>に<ruby>出<rt>だ</rt></ruby>す）「<ruby>今日<rt>きょう</rt></ruby>は<ruby>私達<rt>わたしたち</rt></ruby>が…」 |
+|  | *(thấy bill, rút thẻ ra trước) Hôm nay bọn em...* |
+| **田中PMO** | 「あ、<ruby>今日<rt>きょう</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>が<ruby>誘<rt>さそ</rt></ruby>ったので…」 (face損なう) |
+|  | *Ơ, hôm nay tôi mời mà... (mất mặt)* |
+| **ズン** | （<ruby>鞄<rt>かばん</rt></ruby>から<ruby>即<rt>そく</rt></ruby>お<ruby>返<rt>かえ</rt></ruby>しのgiftを<ruby>取<rt>と</rt></ruby>り<ruby>出<rt>だ</rt></ruby>す）「これ、お<ruby>返<rt>かえ</rt></ruby>しに…」 |
+|  | *(rút quà đáp lễ từ cặp ngay) Đây ạ, em đáp lễ...* |
 
-**Vì sao xấu:** (1) Tự rót cho mình = phá kiểu Nhật chăm sóc lẫn nhau (Matsumoto đề xuất rót cho mình mà bị từ chối). (2) Thấy bill rút thẻ trước khi người mời rút = mất mặt người mời (Tanaka PMO). (3) Đáp lễ quà ngay = tín hiệu "tôi nợ phải trả ngay" = tạo cảm giác gánh nặng.
+**Vì sao xấu:** (1) Tự rót cho mình = phá kiểu Nhật chăm sóc lẫn nhau (Matsumoto đề xuất rót cho mình mà bị từ chối). (2) Thấy hóa đơn rút thẻ trước khi người mời rút = mất mặt người mời (Tanaka PMO). (3) Đáp lễ quà ngay = tín hiệu "tôi nợ phải trả ngay" = tạo cảm giác gánh nặng.
 
 ---
 
 ## ✅ Hội thoại TỐT — rót lẫn nhau + nhường người mời trả + đáp lễ ngày khác
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **松本PM** | 「ズンさん、もう一杯どうぞ。」 |
-| **ズン** | 「ありがとうございます。松本様、お注ぎします。」（瓶を両手で持ち、松本のglassへ）【1】 |
-| **松本PM** | （glass両手で受け）「どうも。では私もズンさんに。」 |
-| **田中PMO** | （会計時に立ち上がる）「会計、私が。」 |
-| **ズン** | 「今日は田中様にお誘いいただきましたので、お言葉に甘えさせていただきます。次回はぜひ当方が皆様をお招きしたく。」【2】 |
+| **松本PM** | 「ズンさん、もう<ruby>一杯<rt>いっぱい</rt></ruby>どうぞ。」 |
+|  | *Anh Dũng, thêm ly nữa nhé.* |
+| **ズン** | 「ありがとうございます。<ruby>松本<rt>まつもと</rt></ruby>様、お<ruby>注<rt>そそ</rt></ruby>ぎします。」（<ruby>瓶<rt>びん</rt></ruby>を<ruby>両手<rt>りょうて</rt></ruby>で<ruby>持<rt>も</rt></ruby>ち、<ruby>松本<rt>まつもと</rt></ruby>のglassへ）【1】 |
+|  | *Cảm ơn anh ạ. Anh Matsumoto, em rót anh ạ. (cầm chai 2 tay rót vào ly Matsumoto)* |
+| **松本PM** | （glass<ruby>両手<rt>りょうて</rt></ruby>で<ruby>受<rt>う</rt></ruby>け）「どうも。では<ruby>私<rt>わたし</rt></ruby>もズンさんに。」 |
+|  | *(đón ly bằng 2 tay) Cảm ơn. Vậy tôi cũng rót anh Dũng nhé.* |
+| **田中PMO** | （<ruby>会計時<rt>かいけいじ</rt></ruby>に<ruby>立<rt>た</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>がる）「<ruby>会計<rt>かいけい</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>が。」 |
+|  | *(đến lúc tính tiền, đứng dậy) Hóa đơn để tôi.* |
+| **ズン** | 「<ruby>今日<rt>きょう</rt></ruby>は<ruby>田中<rt>たなか</rt></ruby>様にお<ruby>誘<rt>さそ</rt></ruby>いいただきましたので、お<ruby>言葉<rt>ことば</rt></ruby>に<ruby>甘<rt>あま</rt></ruby>えさせていただきます。<ruby>次回<rt>じかい</rt></ruby>はぜひ<ruby>当方<rt>とうほう</rt></ruby>が<ruby>皆様<rt>みなさま</rt></ruby>をお<ruby>招<rt>まね</rt></ruby>きしたく。」【2】 |
+|  | *Hôm nay anh Tanaka đã mời, em xin phép nhận sự tiếp đón ạ. Lần sau bên em xin được mời quý vị ạ.* |
 | **田中PMO** | 「ありがとうございます。」 |
-| **トゥアンリーダー** | 「次回ベトナムにお越しの際に、ささやかですがお返しの席をご用意させていただきます。」【3】 |
-| **松本PM** | 「楽しみにしております。」 |
-| **ズン** | 「本日はご馳走になりました。誠にありがとうございました。」【4】 |
+|  | *Cảm ơn anh.* |
+| **トゥアンリーダー** | 「<ruby>次回<rt>じかい</rt></ruby>ベトナムにお<ruby>越<rt>こ</rt></ruby>しの<ruby>際<rt>さい</rt></ruby>に、ささやかですがお<ruby>返<rt>かえ</rt></ruby>しの<ruby>席<rt>せき</rt></ruby>をご<ruby>用意<rt>ようい</rt></ruby>させていただきます。」【3】 |
+|  | *Lần sau anh sang Việt Nam, bên em xin chuẩn bị bữa nhỏ đáp lễ ạ.* |
+| **松本PM** | 「<ruby>楽<rt>たの</rt></ruby>しみにしております。」 |
+|  | *Tôi rất mong chờ.* |
+| **ズン** | 「<ruby>本日<rt>ほんじつ</rt></ruby>はご<ruby>馳走<rt>ちそう</rt></ruby>になりました。<ruby>誠<rt>まこと</rt></ruby>にありがとうございました。」【4】 |
+|  | *Hôm nay em đã được tiếp đãi, em xin chân thành cảm ơn ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**Đảo ngược "mình tự rót cho mình" kiểu VN**. Kiểu Nhật = chăm sóc lẫn nhau: rót cho đối phương → đối phương rót lại cho mình. Đó là nhịp相互ケア.
-- 【2】**Giữ thể diện người mời** — kìm "để em trả" kiểu VN, để người mời trả theo kiểu Nhật. Thay vào đó **đề xuất lần sau mình mời lại** = win-win.
-- 【3】**Đáp lễ ngay = tín hiệu "tôi nợ phải trả"** → kiểu Nhật là cách thời gian, "lần sau" / "tháng sau" = return tự nhiên không tạo gánh nặng tâm lý.
+- 【2】**Giữ thể diện người mời** — kìm "để em trả" kiểu VN, để người mời trả theo kiểu Nhật. Thay vào đó **đề xuất lần sau mình mời lại** = đôi bên cùng vui.
+- 【3】**Đáp lễ ngay = tín hiệu "tôi nợ phải trả"** → kiểu Nhật là cách thời gian, "lần sau" / "tháng sau" = đáp lễ tự nhiên không tạo gánh nặng tâm lý.
 - 【4】**「ご馳走になりました」** — câu cố định lúc tạm biệt người mời. Sáng hôm sau gửi mail cảm ơn lần nữa = hoàn hảo.
 
 ---
@@ -3037,10 +3391,10 @@ Ngày 3 onsite Tokyo buổi tối, Tanaka PMO + PM Matsumoto rủ Dũng + Tuấn
 ## ⚠ Tránh
 
 - Tự rót cho ly mình khi đối phương đề nghị rót — phá相互ケア
-- Tranh trả tiền với người mời — mất face người mời
+- Tranh trả tiền với người mời — mất thể diện người mời
 - Đáp lễ quà / bữa ăn ngay trong cùng dịp — tín hiệu "tôi nợ"
 - Từ chối mạnh "không không em không nhận đâu" — phá thiện chí
-- Quên gửi thank-you mail sáng hôm sau — mất follow-up
+- Quên gửi mail cảm ơn sáng hôm sau — mất bước theo dõi sau buổi gặp
 
 ---
 
@@ -3075,27 +3429,34 @@ D-2 trước onsite Tokyo, Hải (lần đầu đi onsite) check bộ đồ thi�
 
 ## ❌ Hội thoại XẤU — nghĩ tới Nhật mua cũng được
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **トゥアンリーダー** | 「ハイ、明後日出発、持ち物 OK？」 |
-| **ハイ** | 「現金は現地ATMで引きます。スーツは spray でいいかな。お土産は Narita 空港で見ます。」 |
-| **トゥアンリーダー** | 「全部NG。①日本ATMはVN cardを多く拒否、空港着いた時点で taxi 必要 ②sprayでwrinkleは取れない ③Narita のお土産=brand微妙+brand不揃い。Survival kit 整理しよう。」 |
+| **トゥアンリーダー** | 「ハイ、<ruby>明後日<rt>あさって</rt></ruby><ruby>出発<rt>しゅっぱつ</rt></ruby>、<ruby>持<rt>も</rt></ruby>ち<ruby>物<rt>もの</rt></ruby> OK？」 |
+|  | *Hải, ngày kia đi rồi, đồ chuẩn bị OK chưa?* |
+| **ハイ** | 「<ruby>現金<rt>げんきん</rt></ruby>は<ruby>現地<rt>げんち</rt></ruby>ATMで<ruby>引<rt>ひ</rt></ruby>きます。スーツは spray でいいかな。お<ruby>土産<rt>みやげ</rt></ruby>は Narita <ruby>空港<rt>くうこう</rt></ruby>で<ruby>見<rt>み</rt></ruby>ます。」 |
+|  | *Tiền mặt em rút ATM bên đó. Suit em xịt spray là được. Omiyage em xem ở Narita.* |
+| **トゥアンリーダー** | 「<ruby>全部<rt>ぜんぶ</rt></ruby>NG。①<ruby>日本<rt>にほん</rt></ruby>ATMはVN cardを<ruby>多<rt>おお</rt></ruby>く<ruby>拒否<rt>きょひ</rt></ruby>、<ruby>空港<rt>くうこう</rt></ruby><ruby>着<rt>つ</rt></ruby>いた<ruby>時点<rt>じてん</rt></ruby>で taxi <ruby>必要<rt>ひつよう</rt></ruby> ②sprayでwrinkleは<ruby>取<rt>と</rt></ruby>れない ③Narita のお<ruby>土産<rt>みやげ</rt></ruby>=brand<ruby>微妙<rt>びみょう</rt></ruby>+brand<ruby>不揃<rt>ふぞろ</rt></ruby>い。Survival kit <ruby>整理<rt>せいり</rt></ruby>しよう。」 |
+|  | *Toàn NG. (1) ATM Nhật từ chối thẻ VN nhiều, vừa hạ cánh đã cần taxi rồi. (2) Spray không hết nhăn được. (3) Omiyage Narita brand không ổn, không đồng bộ. Mình check bộ đồ thiết yếu lại.* |
 
-**Vì sao xấu:** (1) Đến không có tiền mặt = ATM Nhật từ chối thẻ VN nhiều = không mua được IC card sân bay = không đi taxi được. (2) Không phòng nhăn vest = ngày đầu mất tầm. (3) Omiyage chưa có, định mua sân bay = brand không ổn, không đồng bộ — pattern fail giống rule_16.
+**Vì sao xấu:** (1) Đến không có tiền mặt = ATM Nhật từ chối thẻ VN nhiều = không mua được IC card sân bay = không đi taxi được. (2) Không phòng nhăn vest = ngày đầu mất tầm. (3) Omiyage chưa có, định mua sân bay = brand không ổn, không đồng bộ — lặp lại lỗi giống rule_16.
 
 ---
 
 ## ✅ Hội thoại TỐT — chia 6 nhóm + tách VN / mua tại Nhật
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **トゥアンリーダー** | 「ハイ、Survival Kit 6カテゴリで整理した。共有する。」 |
-| **トゥアンリーダー** | 「① 現金 5万円 (VN出発前両替)【1】 ② IC card Suica初日窓口【2】 ③ スーツケース内ハンガー+折り目テクニック【3】 ④ お土産: VN高品質 6箱【4】 ⑤ 天気: 折りたたみ傘+カーディガン【5】 ⑥ Wifi: pocket Wi-Fi or eSIM 出発前契約【6】。」 |
-| **ハイ** | 「わかりました。今日中にすべて準備して、明日チェックリスト見せます。」 |
-| **トゥアンリーダー** | 「あと、現地D1 朝はホテルロビー 7:30 集合。スーツ+IC card 持参で。」 |
+| **トゥアンリーダー** | 「ハイ、Survival Kit 6カテゴリで<ruby>整理<rt>せいり</rt></ruby>した。<ruby>共有<rt>きょうゆう</rt></ruby>する。」 |
+|  | *Hải, anh đã sắp xong bộ đồ thiết yếu theo 6 nhóm. Anh share em.* |
+| **トゥアンリーダー** | 「① <ruby>現金<rt>げんきん</rt></ruby> 5<ruby>万円<rt>まんえん</rt></ruby> (VN<ruby>出発<rt>しゅっぱつ</rt></ruby><ruby>前<rt>まえ</rt></ruby><ruby>両替<rt>りょうがえ</rt></ruby>)【1】 ② IC card Suica<ruby>初日<rt>しょにち</rt></ruby><ruby>窓口<rt>まどぐち</rt></ruby>【2】 ③ スーツケース<ruby>内<rt>ない</rt></ruby>ハンガー+<ruby>折<rt>お</rt></ruby>り<ruby>目<rt>め</rt></ruby>テクニック【3】 ④ お<ruby>土産<rt>みやげ</rt></ruby>: VN<ruby>高品質<rt>こうひんしつ</rt></ruby> 6<ruby>箱<rt>はこ</rt></ruby>【4】 ⑤ <ruby>天気<rt>てんき</rt></ruby>: <ruby>折<rt>お</rt></ruby>りたたみ<ruby>傘<rt>がさ</rt></ruby>+カーディガン【5】 ⑥ Wifi: pocket Wi-Fi or eSIM <ruby>出発<rt>しゅっぱつ</rt></ruby><ruby>前<rt>まえ</rt></ruby><ruby>契約<rt>けいやく</rt></ruby>【6】。」 |
+|  | *(1) Tiền mặt 5 man yen — đổi trước ở VN. (2) IC card Suica mua tại quầy ngày đầu. (3) Hanger + kỹ thuật xếp suit trong vali. (4) Omiyage VN cao cấp 6 hộp. (5) Thời tiết: ô gấp + cardigan. (6) Wi-Fi: pocket Wi-Fi / eSIM ký trước khi đi.* |
+| **ハイ** | 「わかりました。<ruby>今日中<rt>きょうじゅう</rt></ruby>にすべて<ruby>準備<rt>じゅんび</rt></ruby>して、<ruby>明日<rt>あした</rt></ruby>チェックリスト<ruby>見<rt>み</rt></ruby>せます。」 |
+|  | *Em hiểu rồi. Hôm nay em chuẩn bị xong hết, mai đưa anh checklist xem.* |
+| **トゥアンリーダー** | 「あと、<ruby>現地<rt>げんち</rt></ruby>D1 <ruby>朝<rt>あさ</rt></ruby>はホテルロビー 7:30 <ruby>集合<rt>しゅうごう</rt></ruby>。スーツ+IC card <ruby>持参<rt>じさん</rt></ruby>で。」 |
+|  | *À, ngày 1 tại Nhật sáng tập trung lobby hotel 7:30. Mặc suit + mang IC card.* |
 
 📝 **Ghi chú:**
-- 【1】**Cash 5 man yen — đổi trước ở VN** (sân bay / ngân hàng). Đến Narita mua được IC card + đi taxi luôn. ATM Nhật hay từ chối thẻ VN.
+- 【1】**Tiền mặt 5 man yen — đổi trước ở VN** (sân bay / ngân hàng). Đến Narita mua được IC card + đi taxi luôn. ATM Nhật hay từ chối thẻ VN.
 - 【2】**Suica mua tại quầy xanh JR Narita** (deposit 2,000 yên + 3,000 yên dư). iPhone hỗ trợ thì setup eSIM Suica trước càng tốt.
 - 【3】**Hanger + kỹ thuật xếp vest trong vali** (gập tay áo vào trong tránh nhăn). Đến hotel treo lên + máy hấp nhỏ ngay.
 - 【4】**Omiyage chuẩn bị từ VN** — cà phê / trà / bánh brand cao cấp, đóng gói riêng. Mua tại Narita = mất tâm (trùng rule 16).
@@ -3188,7 +3549,7 @@ D-2 trước onsite Tokyo, Hải (lần đầu đi onsite) check bộ đồ thi�
 
 # Rule 35 — Tự đánh giá ceremony etiquette / 振り返り
 
-> **Luận điểm.** Sau mỗi onsite / 接待 / event quan trọng, **Hizashi式 self-review = 5 mục cấu trúc**: **(1) 3 điểm tốt (kiểu pattern tái lặp được), (2) 3 vấn đề (format "ai + làm gì + kết quả"), (3) 3 action cải thiện (CHỦ + DEADLINE bắt buộc), (4) phát hiện mới (phrase / nghi thức / khách trait), (5) lưu hồ sơ Notion + CRM 2 nơi**. "Lần sau em cẩn thận hơn" = không phải self-review.
+> **Luận điểm.** Sau mỗi onsite / 接待 / event quan trọng, **Hizashi式 self-review = 5 mục cấu trúc**: **(1) 3 điểm tốt (kiểu pattern tái lặp được), (2) 3 vấn đề (format "ai + làm gì + kết quả"), (3) 3 action cải thiện (CHỦ + DEADLINE bắt buộc), (4) phát hiện mới (phrase / nghi thức / khách trait), (5) lưu hồ sơ Notion + CRM 2 nơi**. "Lần sau em cẩn thận hơn" = không phải tự đánh giá.
 >
 > Hizashi式振り返り=『良かった点・課題・改善action(担当+期限)・新発見・記録(Notion+CRM)』5項目。
 >
@@ -3202,33 +3563,47 @@ Sau onsite Tokyo + final ceremony, về HCMC chiều thứ 6 hôm sau. Chị Hư
 
 ---
 
-## ❌ Hội thoại XẤU — bỏ qua self-review + phản tỉnh chung chung
+## ❌ Hội thoại XẤU — bỏ qua tự đánh giá + phản tỉnh chung chung
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **フオン副部長** | 「Tokyo onsite どうだった？」 |
-| **ズン** | 「全体的にOK でした。次は気をつけます。」 |
-| **フオン副部長** | 「それじゃ振り返りにならない。具体的に良かった3点・課題3点・改善 action 3点・新発見・記録、5項目で文章化して。」 |
+| **フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>** | 「Tokyo onsite どうだった？」 |
+|  | *Onsite Tokyo thế nào?* |
+| **ズン** | 「<ruby>全体的<rt>ぜんたいてき</rt></ruby>にOK でした。<ruby>次<rt>つぎ</rt></ruby>は<ruby>気<rt>き</rt></ruby>をつけます。」 |
+|  | *Tổng thể OK ạ. Lần sau em cẩn thận hơn.* |
+| **フオン副部長** | 「それじゃ<ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>りにならない。<ruby>具体的<rt>ぐたいてき</rt></ruby>に<ruby>良<rt>よ</rt></ruby>かった3<ruby>点<rt>てん</rt></ruby>・<ruby>課題<rt>かだい</rt></ruby>3点・<ruby>改善<rt>かいぜん</rt></ruby> action 3点・<ruby>新発見<rt>しんはっけん</rt></ruby>・<ruby>記録<rt>きろく</rt></ruby>、5<ruby>項目<rt>こうもく</rt></ruby>で<ruby>文章化<rt>ぶんしょうか</rt></ruby>して。」 |
+|  | *Vậy không gọi là tự đánh giá được. Phải cụ thể: 3 điểm tốt, 3 vấn đề, 3 action cải thiện, phát hiện mới, lưu hồ sơ — viết thành văn theo 5 mục.* |
 
-**Vì sao xấu:** (1) Không self-review = lần sau lại sai y chang. (2) "Lần sau em cẩn thận hơn" = không có action cụ thể, không ai chịu trách nhiệm, không có deadline. (3) Không ghi lại từng lỗi = team không học được gì = mỗi onsite reset từ 0.
+**Vì sao xấu:** (1) Không tự đánh giá = lần sau lại sai y chang. (2) "Lần sau em cẩn thận hơn" = không có action cụ thể, không ai chịu trách nhiệm, không có deadline. (3) Không ghi lại từng lỗi = team không học được gì = mỗi onsite reset từ 0.
 
 ---
 
 ## ✅ Hội thoại TỐT — cụ thể hóa 5 mục + biến thành action
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **フオン副部長** | 「皆様、Tokyo onsite + final ceremony おつかれさまでした。5項目で振り返りしましょう。まず良かった3点。」 |
-| **ズン** | 「①ceremony 11人 seat指定+zone別pour+flow table が機能、空glass 0件 ②お土産順序 (CFO→部長→PM→PMO) で中村CFOから個別感謝のメール ③お礼メール翌朝送信で全員から24h以内返信。」【1】 |
-| **フオン副部長** | 「課題3点は？」 |
-| **トゥアンリーダー** | 「①リンがD1朝CFO初対面で90°bow→中村CFO『そんなに深く…』と恐縮。45°が正解 ②ハイが居酒屋で自分でpour→松本PM違和感 ③D2 14時の道中Suica残高不足で改札停止30秒。」【2】 |
-| **フオン副部長** | 「改善 action は？」 |
-| **ズン** | 「①リン担当でbow角度 visual guide 作成、来週金曜まで ②ハイ担当で『相互pour』練習 video 共有、来週水曜まで ③Suicaは出発前残高 5,000円 minimum 規則化、checklistへ追加 (今日中)。」【3】 |
-| **フオン副部長** | 「新発見は？」 |
-| **リン** | 「新phrase: 田中PMOの『通り過ぎましょう』(隣室回避) と『お言葉に甘えさせていただきます』(招待受領)、社内 vocabulary に追加します。」【4】 |
-| **フオン副部長** | 「記録は？」 |
-| **ズン** | 「Notion『 onsite playbook v2』+ CRM 白鷗社tab『2026-04 Tokyo onsite log』両方更新。次回担当者が同じ過ちをしないよう。」【5】 |
-| **フオン副部長** | 「完璧。これがHizashi式振り返り。今後も毎 onsite/接待後にこの5項目で。」 |
+| **フオン副部長** | 「<ruby>皆様<rt>みなさま</rt></ruby>、Tokyo onsite + final ceremony おつかれさまでした。5<ruby>項目<rt>こうもく</rt></ruby>で<ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>りしましょう。まず<ruby>良<rt>よ</rt></ruby>かった3<ruby>点<rt>てん</rt></ruby>。」 |
+|  | *Cả nhóm onsite Tokyo + ceremony vất vả nhé. Mình tự đánh giá theo 5 mục. Đầu tiên 3 điểm tốt.* |
+| **ズン** | 「①ceremony 11<ruby>人<rt>にん</rt></ruby> seat<ruby>指定<rt>してい</rt></ruby>+zone<ruby>別<rt>べつ</rt></ruby>pour+flow table が<ruby>機能<rt>きのう</rt></ruby>、<ruby>空<rt>あ</rt></ruby>glass 0<ruby>件<rt>けん</rt></ruby> ②お<ruby>土産<rt>みやげ</rt></ruby><ruby>順序<rt>じゅんじょ</rt></ruby> (CFO→<ruby>部長<rt>ぶちょう</rt></ruby>→PM→PMO) で<ruby>中村<rt>なかむら</rt></ruby>CFOから<ruby>個別<rt>こべつ</rt></ruby><ruby>感謝<rt>かんしゃ</rt></ruby>のメール ③お<ruby>礼<rt>れい</rt></ruby>メール<ruby>翌朝<rt>よくあさ</rt></ruby><ruby>送信<rt>そうしん</rt></ruby>で<ruby>全員<rt>ぜんいん</rt></ruby>から24h<ruby>以内<rt>いない</rt></ruby><ruby>返信<rt>へんしん</rt></ruby>。」【1】 |
+|  | *(1) Ceremony 11 người chỉ định ghế + zone rót + flow table hoạt động tốt, không có ly cạn. (2) Trao omiyage theo thứ tự (CFO → trưởng → PM → PMO) → CFO Nakamura mail cảm ơn riêng. (3) Mail cảm ơn gửi sáng hôm sau → tất cả reply trong 24h.* |
+| **フオン副部長** | 「<ruby>課題<rt>かだい</rt></ruby>3点は？」 |
+|  | *3 vấn đề thì sao?* |
+| **トゥアンリーダー** | 「①リンがD1<ruby>朝<rt>あさ</rt></ruby>CFO<ruby>初対面<rt>はつたいめん</rt></ruby>で90°bow→<ruby>中村<rt>なかむら</rt></ruby>CFO『そんなに<ruby>深<rt>ふか</rt></ruby>く…』と<ruby>恐縮<rt>きょうしゅく</rt></ruby>。45°が<ruby>正解<rt>せいかい</rt></ruby> ②ハイが<ruby>居酒屋<rt>いざかや</rt></ruby>で<ruby>自分<rt>じぶん</rt></ruby>でpour→<ruby>松本<rt>まつもと</rt></ruby>PM<ruby>違和感<rt>いわかん</rt></ruby> ③D2 14<ruby>時<rt>じ</rt></ruby>の<ruby>道中<rt>どうちゅう</rt></ruby>Suica<ruby>残高<rt>ざんだか</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>で<ruby>改札<rt>かいさつ</rt></ruby><ruby>停止<rt>ていし</rt></ruby>30<ruby>秒<rt>びょう</rt></ruby>。」【2】 |
+|  | *(1) Sáng D1 Linh gặp CFO lần đầu bow 90° → CFO Nakamura ngại 'sâu vậy...'. Đúng phải 45°. (2) Hải tự rót ở izakaya → PM Matsumoto bối rối. (3) D2 14h trên đường Suica thiếu số dư, bị chặn cổng 30 giây.* |
+| **フオン副部長** | 「<ruby>改善<rt>かいぜん</rt></ruby> action は？」 |
+|  | *Action cải thiện?* |
+| **ズン** | 「①リン<ruby>担当<rt>たんとう</rt></ruby>でbow<ruby>角度<rt>かくど</rt></ruby> visual guide <ruby>作成<rt>さくせい</rt></ruby>、<ruby>来週<rt>らいしゅう</rt></ruby><ruby>金曜<rt>きんよう</rt></ruby>まで ②ハイ担当で『<ruby>相互<rt>そうご</rt></ruby>pour』<ruby>練習<rt>れんしゅう</rt></ruby> video <ruby>共有<rt>きょうゆう</rt></ruby>、来週<ruby>水曜<rt>すいよう</rt></ruby>まで ③Suicaは<ruby>出発<rt>しゅっぱつ</rt></ruby><ruby>前<rt>まえ</rt></ruby><ruby>残高<rt>ざんだか</rt></ruby> 5,000<ruby>円<rt>えん</rt></ruby> minimum <ruby>規則化<rt>きそくか</rt></ruby>、checklistへ<ruby>追加<rt>ついか</rt></ruby> (<ruby>今日中<rt>きょうじゅう</rt></ruby>)。」【3】 |
+|  | *(1) Linh phụ trách làm visual guide bow angle, trước thứ 6 tuần sau. (2) Hải phụ trách share video luyện 'rót lẫn nhau', trước thứ 4 tuần sau. (3) Suica luật mới: số dư trước khi đi tối thiểu 5,000 yên, thêm vào checklist (trong hôm nay).* |
+| **フオン副部長** | 「<ruby>新発見<rt>しんはっけん</rt></ruby>は？」 |
+|  | *Phát hiện mới?* |
+| **リン** | 「<ruby>新<rt>しん</rt></ruby>phrase: <ruby>田中<rt>たなか</rt></ruby>PMOの『<ruby>通<rt>とお</rt></ruby>り<ruby>過<rt>す</rt></ruby>ぎましょう』(<ruby>隣室<rt>りんしつ</rt></ruby><ruby>回避<rt>かいひ</rt></ruby>) と『お<ruby>言葉<rt>ことば</rt></ruby>に<ruby>甘<rt>あま</rt></ruby>えさせていただきます』(<ruby>招待<rt>しょうたい</rt></ruby><ruby>受領<rt>じゅりょう</rt></ruby>)、<ruby>社内<rt>しゃない</rt></ruby> vocabulary に<ruby>追加<rt>ついか</rt></ruby>します。」【4】 |
+|  | *Cụm mới: 'Otoorisugi itashimashou' của Tanaka PMO (đi qua phòng kế) và 'Okotoba ni amaesasete itadakimasu' (nhận lời mời). Em thêm vào vocabulary nội bộ.* |
+| **フオン副部長** | 「<ruby>記録<rt>きろく</rt></ruby>は？」 |
+|  | *Lưu hồ sơ?* |
+| **ズン** | 「Notion『 onsite playbook v2』+ CRM <ruby>白鷗社<rt>はくおうしゃ</rt></ruby>tab『2026-04 Tokyo onsite log』<ruby>両方<rt>りょうほう</rt></ruby><ruby>更新<rt>こうしん</rt></ruby>。<ruby>次回<rt>じかい</rt></ruby><ruby>担当者<rt>たんとうしゃ</rt></ruby>が<ruby>同<rt>おな</rt></ruby>じ<ruby>過<rt>あやま</rt></ruby>ちをしないよう。」【5】 |
+|  | *Update cả Notion 'onsite playbook v2' + CRM tab 白鷗 'log onsite Tokyo 2026-04'. Để lần sau ai phụ trách không lặp lỗi.* |
+| **フオン副部長** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。これがHizashi<ruby>式<rt>しき</rt></ruby><ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>り。<ruby>今後<rt>こんご</rt></ruby>も<ruby>毎<rt>まい</rt></ruby> onsite/<ruby>接待<rt>せったい</rt></ruby><ruby>後<rt>ご</rt></ruby>にこの5項目で。」 |
+|  | *Hoàn hảo. Đây là tự đánh giá kiểu Hizashi. Sau này sau mỗi onsite / tiếp khách đều làm 5 mục này.* |
 
 📝 **Ghi chú:**
 - 【1】**Cụ thể hóa thành công thành pattern tái sử dụng được** — viết kiểu "chỉ định ghế + zone rót + flow table" để dự án khác apply lại.
@@ -3243,7 +3618,7 @@ Sau onsite Tokyo + final ceremony, về HCMC chiều thứ 6 hôm sau. Chị Hư
 
 > **「5項目で振り返りましょう: 良かった点・課題・改善action・新発見・記録。Notion + CRM 両方更新で次回担当者が同じ過ちをしないように。」**
 >
-> *Mình self-review theo 5 mục: điểm tốt, vấn đề, action cải thiện, phát hiện mới, lưu hồ sơ. Update cả Notion + CRM để lần sau ai phụ trách không lặp lỗi.*
+> *Mình tự đánh giá theo 5 mục: điểm tốt, vấn đề, action cải thiện, phát hiện mới, lưu hồ sơ. Update cả Notion + CRM để lần sau ai phụ trách không lặp lỗi.*
 
 ---
 
@@ -3257,7 +3632,7 @@ Sau onsite Tokyo + final ceremony, về HCMC chiều thứ 6 hôm sau. Chị Hư
 
 ---
 
-## 📐 Template — Self-Review Hizashi 5 mục
+## 📐 Template — Tự đánh giá Hizashi 5 mục
 
 ```
 【Hizashi式 振り返り — 5項目】
@@ -3293,12 +3668,12 @@ Sau onsite Tokyo + final ceremony, về HCMC chiều thứ 6 hôm sau. Chị Hư
 [ ] Gửi thank-you message cho người liên quan
 
 [Deadline]
-- Họp self-review: trong 1 ngày làm việc sau event
+- Họp tự đánh giá: trong 1 ngày làm việc sau event
 - Viết thành văn: trong 3 ngày làm việc
 - Action cải thiện: theo deadline từng action
 
 [Checkpoint lần sau]
-Trước event cùng loại lần sau, đọc lại self-review này, kiểm tra
+Trước event cùng loại lần sau, đọc lại bài tự đánh giá này, kiểm tra
 vấn đề + action đã giải quyết chưa.
 ```
 
@@ -3428,7 +3803,7 @@ vấn đề + action đã giải quyết chưa.
 
 > 🇯🇵 「24時間以内に CRM 入力・文脈メモ・スキャン・フォロー送信を完了させます。」
 >
-> 🇻🇳 *Trong 24h em sẽ xong nhập CRM + memo context + scan + gửi follow-up ạ.*
+> 🇻🇳 *Trong 24h em sẽ xong nhập CRM + ghi chú ngữ cảnh + scan + gửi thư tiếp theo ạ.*
 >
 > 📝 _名刺管理4ステップ宣言_
 
@@ -3698,7 +4073,7 @@ vấn đề + action đã giải quyết chưa.
 
 ## Phần IV — Tình huống khó
 
-### Rule 24 — Mời khách bữa ăn tối trang trọng / 接待ディナーへの招待
+### Rule 24 — Mời khách dinner formal / 接待ディナーへの招待
 
 **ズン (em Dũng):**
 
@@ -3750,7 +4125,7 @@ vấn đề + action đã giải quyết chưa.
 
 > 🇯🇵 「（glassを上位者より低く合わせる）」
 >
-> 🇻🇳 *(hạ ly thấp hơn ly senior)*
+> 🇻🇳 *(hạ ly thấp hơn ly cấp trên)*
 >
 > 📝 _乾杯時 glass 高さ ルール_
 
@@ -3867,7 +4242,7 @@ vấn đề + action đã giải quyết chưa.
 
 > 🇯🇵 「角度=温度+敬意+反省深さの signal。」
 >
-> 🇻🇳 *Góc cúi = tín hiệu nhiệt + kính trọng + độ ăn năn.*
+> 🇻🇳 *Góc cúi = dấu hiệu nhiệt + kính trọng + độ ăn năn.*
 >
 > 📝 _角度の意味_
 
@@ -3897,18 +4272,18 @@ vấn đề + action đã giải quyết chưa.
 
 > 🇯🇵 「Survival Kit は現金・IC card・スーツ・お土産・天気・Wifi の6カテゴリで整理。」
 >
-> 🇻🇳 *Bộ đồ thiết yếu chia 6 nhóm: tiền mặt, IC card, vest, omiyage, thời tiết, Wi-Fi.*
+> 🇻🇳 *Bộ đồ thiết yếu chia 6 nhóm: cash, IC card, suit, omiyage, thời tiết, Wi-Fi.*
 >
 > 📝 _6カテゴリ summary_
 
 
-### Rule 35 — Tự đánh giá ceremony etiquette / 振り返り
+### Rule 35 — Tự đánh giá sau nghi lễ tiếp khách / 振り返り
 
 **フオン副部長 (chị Hương):**
 
 > 🇯🇵 「5項目で振り返りましょう: 良かった点・課題・改善action・新発見・記録。」
 >
-> 🇻🇳 *Mình self-review theo 5 mục: điểm tốt, vấn đề, action cải thiện, phát hiện mới, lưu hồ sơ.*
+> 🇻🇳 *Mình tự đánh giá theo 5 mục: điểm tốt, vấn đề, action cải thiện, phát hiện mới, lưu hồ sơ.*
 >
 > 📝 _5項目振り返りの宣言_
 
@@ -3918,7 +4293,7 @@ vấn đề + action đã giải quyết chưa.
 >
 > 🇻🇳 *Update cả Notion + CRM để lần sau ai phụ trách không lặp lỗi.*
 >
-> 📝 _team learning 記録 signal_
+> 📝 _team learning 記録_
 
 
 
@@ -4029,7 +4404,7 @@ vấn đề + action đã giải quyết chưa.
 | 長旅 | ながたび | Đi xa (đường dài) | rule_12 |
 | 誠に | まことに | Vô cùng / thật lòng | rule_12 |
 | お手元 | おてもと | Trong tay (kính ngữ) | rule_12 |
-| お代わり | おかわり | Refill | rule_12 |
+| お代わり | おかわり | Châm thêm (lượt nữa) | rule_12 |
 | お手洗い | おてあらい | Nhà vệ sinh (lịch sự) | rule_12 |
 | お申し付けください | おもうしつけください | Mong anh nói (kính ngữ) | rule_12 |
 | マナーモード | manaa moodo | Chế độ im lặng | rule_12 |
@@ -4231,12 +4606,12 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** 顧客訪問前の名刺準備で最も重要でないものは？
 
-- A) 専用名刺ケースに入れる
-- B) 両面(日本語+英語)印刷
-- C) 人数×2倍の枚数+buffer
-- **D) 鞄の中に直接バラで持参**
+- **A) 鞄の中に直接バラで持参**
+- B) 人数×2倍の枚数+buffer
+- C) 専用名刺ケースに入れる
+- D) 両面(日本語+英語)印刷
 
-**Đáp án:** D
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 鞄の中バラ入れは折れ・汚れの原因。専用ケース必須。
@@ -4250,8 +4625,8 @@ vấn đề + action đã giải quyết chưa.
 
 - A) ポケットに仕舞って次の人と挨拶を続ける
 - **B) 両手で持ち、相手の名前と役職を声に出して読む**
-- C) すぐに自分の名刺ケースに入れる
-- D) 片手で受け取り、もう片手で自分の名刺を渡す
+- C) 片手で受け取り、もう片手で自分の名刺を渡す
+- D) すぐに自分の名刺ケースに入れる
 
 **Đáp án:** B
 
@@ -4265,12 +4640,12 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** 名刺を渡す時の自己紹介で『ティエンファット 営業部 BD担当の、チャン・ヴァン・ズンと申します』の語順は何を表す？
 
-- A) 個人名を最も強調する順
-- **B) 会社→部署→役職→氏名 の日本標準語順**
-- C) 氏名→役職→部署→会社 の英語語順
-- D) ランダムでよい
+- **A) 会社→部署→役職→氏名 の日本標準語順**
+- B) 氏名→役職→部署→会社 の英語語順
+- C) ランダムでよい
+- D) 個人名を最も強調する順
 
-**Đáp án:** B
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 JP自己紹介標準語順。所属を先に提示し最後に個人名。
@@ -4283,11 +4658,11 @@ vấn đề + action đã giải quyết chưa.
 **Q:** 会議中、受け取った名刺3枚の最適な扱い方は？
 
 - A) 重ねて机の隅に置く
-- B) すぐにケースに仕舞う
-- **C) 相手の座席順通り机上に並べ、退室後に仕舞う**
-- D) ポケットに分けて入れる
+- B) ポケットに分けて入れる
+- C) すぐにケースに仕舞う
+- **D) 相手の座席順通り机上に並べ、退室後に仕舞う**
 
-**Đáp án:** C
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 座席順配置→視認で名前+役職確認→誤呼び防止。仕舞いは相手退室後。
@@ -4299,16 +4674,16 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** 受け取った名刺の処理として最も適切なのは？
 
-- A) 週末にまとめて CRM 入力
-- **B) 24時間以内に CRM 入力 + 文脈メモ1行 + スキャン + フォロー送信**
+- **A) 24時間以内に CRM 入力 + 文脈メモ1行 + スキャン + フォロー送信**
+- B) 週末にまとめて CRM 入力
 - C) 名刺ケースに保管のみ
 - D) 次回会った時に再確認
 
-**Đáp án:** B
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 24時間以内処理が原則。脳の文脈記憶は24h以内に80%以上保持。
-- 🇻🇳 Quy tắc 24h. Não giữ >80% context trong 24h.
+- 🇻🇳 Quy tắc 24h. Não giữ >80% ngữ cảnh trong 24h.
 
 ### J3.6 (từ rule_08 — Đón khách tại lobby)
 
@@ -4316,10 +4691,10 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** 9:30 来客予定の場合、最も適切なロビー待機開始時刻は？
 
-- A) 9:30 ちょうど
+- A) 9:00 (30分前)
 - **B) 9:25 (5分前)**
 - C) 9:35 (5分遅れで十分)
-- D) 9:00 (30分前)
+- D) 9:30 ちょうど
 
 **Đáp án:** B
 
@@ -4333,12 +4708,12 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** エレベーター内で host が立つ位置として最も適切なのは？
 
-- A) 中央
-- B) 扉のすぐ前
-- **C) 操作盤側 (奥は客=上座)**
+- A) 扉のすぐ前
+- **B) 操作盤側 (奥は客=上座)**
+- C) 中央
 - D) 客の真後ろ
 
-**Đáp án:** C
+**Đáp án:** B
 
 **Giải thích / 解説:**
 - 🇯🇵 host が操作盤を担当、客は奥(エレベーター内の上座)。
@@ -4352,14 +4727,14 @@ vấn đề + action đã giải quyết chưa.
 
 - A) host先→客後の順
 - **B) 客側CFO→部長→PM→host副部長→BD→Lead 順**
-- C) 客側junior(PM)から先
-- D) ランダムでよい
+- C) ランダムでよい
+- D) 客側junior(PM)から先
 
 **Đáp án:** B
 
 **Giải thích / 解説:**
 - 🇯🇵 客最上位優先→客内hierarchy→host内hierarchy順。右側両手配置。
-- 🇻🇳 Senior khách trước → hierarchy khách → hierarchy host. Đặt bên phải 2 tay.
+- 🇻🇳 Cấp cao nhất bên khách trước → thứ bậc khách → thứ bậc host. Đặt bên phải 2 tay.
 
 ### J3.9 (từ rule_16 — Chuẩn bị trước khi đi onsite)
 
@@ -4367,10 +4742,10 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** Tokyo onsite 訪問前24h以内に必要な準備で最も重要でないのは？
 
-- A) 担当者への確認メール送信
+- A) ICカード残高チャージ
 - B) ルート+30分buffer計算
 - **C) 現地空港でのお土産購入**
-- D) ICカード残高チャージ
+- D) 担当者への確認メール送信
 
 **Đáp án:** C
 
@@ -4384,10 +4759,10 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** 10:00 開始の訪問アポイント、ロビー到着時刻として最も適切なのは？
 
-- A) 9:30 (30分前)
+- A) 10:05 (5分後でOK)
 - **B) 9:55 (5分前)**
 - C) 10:00 (定刻)
-- D) 10:05 (5分後でOK)
+- D) 9:30 (30分前)
 
 **Đáp án:** B
 
@@ -4401,10 +4776,10 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** 受付で『御芳名を伺ってもよろしいでしょうか』と聞かれた時の意味は？
 
-- A) 業界経験を聞かれている
+- A) 出身地を尋ねられている
 - **B) 氏名を尋ねられている (敬語)**
-- C) 出身地を尋ねられている
-- D) 趣味を聞かれている
+- C) 趣味を聞かれている
+- D) 業界経験を聞かれている
 
 **Đáp án:** B
 
@@ -4419,15 +4794,15 @@ vấn đề + action đã giải quyết chưa.
 **Q:** 冬の訪問でコートを脱ぐタイミングとして最も適切なのは？
 
 - A) 会議室入室後、着席してから
-- **B) 建物に入る前 or 会議室入室前**
-- C) 担当者に促されてから
-- D) 脱がなくてよい
+- B) 脱がなくてよい
+- **C) 建物に入る前 or 会議室入室前**
+- D) 担当者に促されてから
 
-**Đáp án:** B
+**Đáp án:** C
 
 **Giải thích / 解説:**
 - 🇯🇵 建物外気を会議室に持ち込まないため入室前脱ぐ。着席後脱ぎは『疲れ』signaling。
-- 🇻🇳 Cởi trước khi vào để không mang khí ngoài vào phòng họp. Cởi sau khi ngồi = signaling 'mệt'.
+- 🇻🇳 Cởi trước khi vào để không mang khí ngoài vào phòng họp. Cởi sau khi ngồi = ra tín hiệu 'mệt'.
 
 ### J3.13 (từ rule_21 — Vào phòng họp với chủ nhà)
 
@@ -4435,9 +4810,9 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** 客先会議室入室時のノック回数として最も適切なのは？
 
-- A) 1回
+- A) 3回
 - **B) 2回**
-- C) 3回
+- C) 1回
 - D) 回数は問わない
 
 **Đáp án:** B
@@ -4454,8 +4829,8 @@ vấn đề + action đã giải quyết chưa.
 
 - A) 座ったまま『ありがとうございました』と言って急ぎ退出
 - **B) 起立 → お辞儀30° → ドア前で振り返り再bow → 『失礼いたします』**
-- C) ドアを開けたまま振り返り長く話し続ける
-- D) 鞄を前で抱えて早足で先に出る
+- C) 鞄を前で抱えて早足で先に出る
+- D) ドアを開けたまま振り返り長く話し続ける
 
 **Đáp án:** B
 
@@ -4463,14 +4838,14 @@ vấn đề + action đã giải quyết chưa.
 - 🇯🇵 起立 → 正式bow → ドア前で再bow が日本式退室の3点セット。最後の印象=最大記憶。
 - 🇻🇳 Đứng dậy → bow chính thức → trước cửa bow lần 2 = combo退室 Nhật. Ấn tượng cuối ăn sâu nhất.
 
-### J3.15 (từ rule_24 — Mời khách bữa ăn tối trang trọng)
+### J3.15 (từ rule_24 — Mời khách dinner formal)
 
 **Skill:** 場面把握
 
 **Q:** CFO同席の接待ディナー準備で最も適切なのは？
 
-- A) 当日朝に予約、現地でmenu選び
-- B) 前日予約、coachクラス coursesで送迎なし
+- A) 前日予約、coachクラス coursesで送迎なし
+- B) 当日朝に予約、現地でmenu選び
 - **C) D-2予約、個室・コース事前確定、食事制限確認、送迎手配**
 - D) 客に予約してもらう
 
@@ -4486,12 +4861,12 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** お土産を受け取る時の正しい作法は？
 
-- A) その場で開封して中身を確認
-- B) 値段や購入先を尋ねる
-- **C) 両手で受け取り『頂戴いたします』+お辞儀30°、開封は後で社内で**
-- D) 片手で受け取って机にバラ置き
+- A) 値段や購入先を尋ねる
+- B) その場で開封して中身を確認
+- C) 片手で受け取って机にバラ置き
+- **D) 両手で受け取り『頂戴いたします』+お辞儀30°、開封は後で社内で**
 
-**Đáp án:** C
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 両手 + 『頂戴いたします』 + 後で開封 が3点セット。値段・即開封は最大NG。
@@ -4503,12 +4878,12 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** 接待ディナー後のお礼メールで最も適切なのは？
 
-- A) 3日後にBCC一括で短文送信
-- **B) 翌朝24h以内、To個別+CC上司、具体的話題引用、次回約束を含む**
-- C) 送らない (口頭でお礼済)
+- **A) 翌朝24h以内、To個別+CC上司、具体的話題引用、次回約束を含む**
+- B) 送らない (口頭でお礼済)
+- C) 3日後にBCC一括で短文送信
 - D) 1週間後に詳細な議事録のみ
 
-**Đáp án:** B
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 24h以内 + 個別To + CC上司 + 具体話題引用 + 次回約束 が黄金パターン。
@@ -4521,11 +4896,11 @@ vấn đề + action đã giải quyết chưa.
 **Q:** 客先CFOへの初対面お辞儀の正しい角度は？
 
 - A) 15° 会釈
-- B) 30° 敬礼
-- **C) 45° 最敬礼**
-- D) 90° 謝罪お辞儀
+- **B) 45° 最敬礼**
+- C) 90° 謝罪お辞儀
+- D) 30° 敬礼
 
-**Đáp án:** C
+**Đáp án:** B
 
 **Giải thích / 解説:**
 - 🇯🇵 CFOクラスの初対面は45°最敬礼。30°だと軽すぎ、90°は謝罪専用。
@@ -4537,12 +4912,12 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** 東京初訪問で VN 出発前に必須の準備は？
 
-- A) 現地ATMで現金引き出し前提で日本円ゼロで出発
-- B) Narita空港でお土産購入前提
-- **C) 現金5万円・お土産・eSIM/Wi-Fi・スーツwrinkle対策をVN出発前に完了**
-- D) スーツはspray対応、お土産は現地で
+- A) スーツはspray対応、お土産は現地で
+- B) 現地ATMで現金引き出し前提で日本円ゼロで出発
+- C) Narita空港でお土産購入前提
+- **D) 現金5万円・お土産・eSIM/Wi-Fi・スーツwrinkle対策をVN出発前に完了**
 
-**Đáp án:** C
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 現金事前両替・お土産VN準備・通信事前契約・スーツ wrinkle 対策の4点が出発前必須。
@@ -4558,11 +4933,11 @@ vấn đề + action đã giải quyết chưa.
 **Q:** 名刺の同時交換で右手・左手の役割は？
 
 - A) 右手で受け取り、左手で渡す
-- **B) 右手で自分の名刺を低く差し出し、左手で相手の名刺を高く受ける**
-- C) 両手で同時に渡し合う
-- D) どちらの手でもよい
+- B) どちらの手でもよい
+- **C) 右手で自分の名刺を低く差し出し、左手で相手の名刺を高く受ける**
+- D) 両手で同時に渡し合う
 
-**Đáp án:** B
+**Đáp án:** C
 
 **Giải thích / 解説:**
 - 🇯🇵 『出すは低く、受けるは高く』が基本。受領後すぐに両手保持に切り替える。
@@ -4574,16 +4949,16 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** 自社4名(intern/BD/Lead/副部長)が客側3名(CFO/部長/PM)と名刺交換する場合の順序として最も適切なのは？
 
-- A) 副部長が先頭でCFOから交換
-- **B) intern → BD → Lead → 副部長 の順、各自CFOから交換**
-- C) ランダムでよい
+- **A) intern → BD → Lead → 副部長 の順、各自CFOから交換**
+- B) ランダムでよい
+- C) 副部長が先頭でCFOから交換
 - D) 客側部長から先に交換
 
-**Đáp án:** B
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 自社内junior先、相手最上位優先のマトリクス順。
-- 🇻🇳 Ma trận: junior bên mình trước, senior bên khách ưu tiên.
+- 🇻🇳 Ma trận: nhân viên trẻ bên mình trước, cấp cao bên khách ưu tiên.
 
 ### J2.3 (từ rule_10 — Vị trí ngồi (kamiza/shimoza))
 
@@ -4591,16 +4966,16 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** 客側 CFO/部長/PM 3名が来訪。会議室での適切な配置は？
 
-- A) PM中央、CFO・部長は両脇
-- **B) CFO中央、部長は右(CFOから見て)、PMは左**
-- C) 全員下座(host席)に配置
-- D) 順序は客が決める
+- A) 順序は客が決める
+- B) 全員下座(host席)に配置
+- **C) CFO中央、部長は右(CFOから見て)、PMは左**
+- D) PM中央、CFO・部長は両脇
 
-**Đáp án:** B
+**Đáp án:** C
 
 **Giải thích / 解説:**
 - 🇯🇵 上座中央=客側最上位。右>左の格付けが日本標準。
-- 🇻🇳 Trung tâm 上座 = senior nhất. Phải > Trái về cấp.
+- 🇻🇳 Trung tâm 上座 = cấp cao nhất. Phải > Trái về cấp.
 
 ### J2.4 (từ rule_12 — Mở đầu hội nghị offline)
 
@@ -4608,12 +4983,12 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** 対面会議の冒頭で、online会議と異なる必須要素は？
 
-- A) 画面共有確認
-- B) 音声テスト
-- **C) 長旅謝辞 + agenda紙 + intro round**
-- D) 録画許可
+- A) 音声テスト
+- B) 録画許可
+- C) 画面共有確認
+- **D) 長旅謝辞 + agenda紙 + intro round**
 
-**Đáp án:** C
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 対面固有: 移動への謝辞・紙agenda・新メンバーintro round。online要素は不要。
@@ -4625,10 +5000,10 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** C-level客のお見送りで車発車後、host が起立保持すべき期間は？
 
-- A) 車のドアが閉まるまで
-- B) 車が動き出した瞬間まで
+- A) 発車5秒後
+- B) 車のドアが閉まるまで
 - **C) 車が視界から消えるまで(曲がって見えなくなるまで)**
-- D) 発車5秒後
+- D) 車が動き出した瞬間まで
 
 **Đáp án:** C
 
@@ -4642,16 +5017,16 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** 訪問後のお礼メールに含めるべき3要素は？
 
-- A) 天気・移動・宿泊
-- **B) specific quote + action item + personal note**
-- C) 会社紹介・商品PR・次回提案
-- D) 謝罪・釈明・改善
+- **A) specific quote + action item + personal note**
+- B) 謝罪・釈明・改善
+- C) 天気・移動・宿泊
+- D) 会社紹介・商品PR・次回提案
 
-**Đáp án:** B
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 quote=傾聴証明、action=follow-up、personal note=relationship build。3点必須。
-- 🇻🇳 Quote = chứng minh đã nghe, action = follow-up, personal note = build relationship. 3 yếu tố bắt buộc.
+- 🇻🇳 Trích dẫn = chứng minh đã nghe, action = liên lạc tiếp, ghi chú cá nhân = xây dựng quan hệ. 3 yếu tố bắt buộc.
 
 ### J2.7 (từ rule_15 — Khách đến sớm / muộn)
 
@@ -4660,11 +5035,11 @@ vấn đề + action đã giải quyết chưa.
 **Q:** 客が15分以上遅刻して到着した時、host の発話として最も不適切なのは？
 
 - A) ようこそお越しくださいました
-- B) お疲れさまでございます
-- **C) もう20分も経っていますね**
-- D) 会議室にご案内いたします
+- B) 会議室にご案内いたします
+- C) お疲れさまでございます
+- **D) もう20分も経っていますね**
 
-**Đáp án:** C
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 到着時は遅刻非言及が原則。passive-aggressive な発話は relationship を毀損。
@@ -4676,12 +5051,12 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** 客先会議室で『お掛けになってお待ちください』と言われた時の最適な対応は？
 
-- A) 案内された椅子(中央)に座る
-- **B) 下座で待つと宣言し、phone/laptop OFF で待機**
+- **A) 下座で待つと宣言し、phone/laptop OFF で待機**
+- B) 立ったまま待ち続ける
 - C) 好きな席に座って自分の仕事をする
-- D) 立ったまま待ち続ける
+- D) 案内された椅子(中央)に座る
 
-**Đáp án:** B
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 上座占有回避+phone/laptop OFFが基本。下座宣言で trained junior 印象。
@@ -4693,12 +5068,12 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** 客先社内案内中、撮影したい時の最適な発話は？
 
-- A) 黙って撮影する
-- B) 撮影後に『撮りました』と報告
-- **C) 事前に『お写真を撮ってもよろしいでしょうか』と許可を求める**
-- D) 案内終了後に許可を取る
+- A) 案内終了後に許可を取る
+- B) 黙って撮影する
+- C) 撮影後に『撮りました』と報告
+- **D) 事前に『お写真を撮ってもよろしいでしょうか』と許可を求める**
 
-**Đáp án:** C
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 事前許可必須。purpose+構図条件付きで host 判断容易に。
@@ -4710,12 +5085,12 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** 接待ディナーで host が果たすべき3つの役割は？
 
-- A) 予約・menu指定・割り勘
-- **B) order・pour・pay の3つを host 側が全責任**
-- C) 客にmenuを渡し選んでもらう
-- D) alcohol を客に注がせる
+- **A) order・pour・pay の3つを host 側が全責任**
+- B) alcohol を客に注がせる
+- C) 予約・menu指定・割り勘
+- D) 客にmenuを渡し選んでもらう
 
-**Đáp án:** B
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 host = order(menu決定) + pour(常時注ぐ) + pay(こっそり清算) の3点全責任。
@@ -4727,16 +5102,16 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** 上位者(中村CFO)同席の乾杯で正しい glass の合わせ方は？
 
-- A) CFOのglassより高く合わせる
+- A) 音を立てて強く合わせる
 - B) CFOのglassと同じ高さ
 - **C) CFOのglassより僅かに低く、軽く触れる**
-- D) 音を立てて強く合わせる
+- D) CFOのglassより高く合わせる
 
 **Đáp án:** C
 
 **Giải thích / 解説:**
 - 🇯🇵 上位者より低く=尊敬。音は立てず軽く触れる。
-- 🇻🇳 Thấp hơn senior = kính trọng. Không kêu, chạm nhẹ thôi.
+- 🇻🇳 Thấp hơn cấp trên = kính trọng. Không kêu, chạm nhẹ thôi.
 
 ### J2.12 (từ rule_27 — Cuộc trò chuyện không công việc)
 
@@ -4744,12 +5119,12 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** 接待ディナー雑談で最も避けるべき topic は？
 
-- A) 今食べている料理の感想
-- B) 週末の過ごし方・趣味
-- **C) 首相の評価・年齢・給与水準**
-- D) 天気・季節
+- A) 週末の過ごし方・趣味
+- B) 天気・季節
+- C) 今食べている料理の感想
+- **D) 首相の評価・年齢・給与水準**
 
-**Đáp án:** C
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 政治評価・年齢・給与の3点は接待で絶対NG。食・趣味・観光・天気が安全。
@@ -4761,8 +5136,8 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** お土産を渡す時の正しい作法は？
 
-- A) 紙袋ごと机に置く
-- B) 値段とブランドをアピールする
+- A) 値段とブランドをアピールする
+- B) 紙袋ごと机に置く
 - **C) 袋から出し、文字向きを相手にし、両手で差し出し『つまらないものですが』と添える**
 - D) 下位者から順番に渡す
 
@@ -4770,7 +5145,7 @@ vấn đề + action đã giải quyết chưa.
 
 **Giải thích / 解説:**
 - 🇯🇵 袋から出す → 文字向き相手 → 両手 → 謙遜固定句 → 上位者順 が4点セット。
-- 🇻🇳 Lấy ra khỏi túi → hướng chữ về khách → 2 tay → câu khiêm nhường → trao theo thứ tự senior — combo 4 điểm.
+- 🇻🇳 Lấy ra khỏi túi → hướng chữ về khách → 2 tay → câu khiêm nhường → trao theo thứ tự cấp bậc — combo 4 điểm.
 
 ### J2.14 (từ rule_31 — Khách Nhật đoàn lớn 5+ người)
 
@@ -4778,12 +5153,12 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** 11名規模ceremonyで host 側準備として最も重要なのは？
 
-- A) 自由着席で柔軟性を確保
-- B) 1人ですべてのpourを担当
-- **C) 席札+席次表+zone別pour担当+flow table の4点を事前準備**
-- D) flow を当日ad-libで進行
+- A) 1人ですべてのpourを担当
+- B) flow を当日ad-libで進行
+- C) 自由着席で柔軟性を確保
+- **D) 席札+席次表+zone別pour担当+flow table の4点を事前準備**
 
-**Đáp án:** C
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 5+人は席札・席次表・zone pour・flow table の4点が必須。自由着席は混乱の元。
@@ -4795,27 +5170,27 @@ vấn đề + action đã giải quyết chưa.
 
 **Q:** 日本人客にお誘いされた時、VN流と異なる対応で正しいのは？
 
-- A) 自分のglassに自分で注ぐ
-- B) 招待されても自分が支払うと主張
-- C) 受け取ったgiftにその場で同等のお返しを渡す
-- **D) 相互pour・招待者支払いを尊重・お返しは次回または別日**
+- **A) 相互pour・招待者支払いを尊重・お返しは次回または別日**
+- B) 受け取ったgiftにその場で同等のお返しを渡す
+- C) 招待されても自分が支払うと主張
+- D) 自分のglassに自分で注ぐ
 
-**Đáp án:** D
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 VN流『自分でやる/俺が払う/即返し』は日本式相互ケアと衝突。譲って次回 host を申し出るのが正解。
 - 🇻🇳 Kiểu VN 'tự làm/để em trả/đáp lễ ngay' xung đột với kiểu Nhật chăm sóc lẫn nhau. Đúng là nhường, hẹn lần sau mình mời.
 
-### J2.16 (từ rule_35 — Tự đánh giá ceremony etiquette)
+### J2.16 (từ rule_35 — Tự đánh giá sau nghi lễ tiếp khách)
 
 **Skill:** 場面把握
 
 **Q:** onsite/接待後の振り返りで最も効果的な方法は？
 
-- A) 『次は気をつけます』で終了
-- B) 良かった点だけ記録
+- A) 良かった点だけ記録
+- B) 口頭で共有して終わり
 - **C) 良かった点・課題・改善action(担当+期限)・新発見・記録の5項目を文章化、Notion+CRM両方更新**
-- D) 口頭で共有して終わり
+- D) 『次は気をつけます』で終了
 
 **Đáp án:** C
 
@@ -4865,7 +5240,7 @@ vấn đề + action đã giải quyết chưa.
 
 末筆ながら、皆様のますますのご健勝をお祈り申し上げます。
 
-──
+--
 ティエンファット 営業部
 ズン (Tran Van Dung)
 TEL: 〇〇
@@ -4893,7 +5268,7 @@ Lần sau bên em xin được sang Tokyo, khoảng tháng 5 em xin liên hệ t
 
 Cuối thư, em xin chúc anh và quý vị luôn mạnh khỏe.
 
-──
+--
 Thiên Phát — Phòng Kinh doanh
 Dũng (Trần Văn Dũng)
 TEL: 〇〇
@@ -4958,12 +5333,12 @@ E-mail: 〇〇
 □ ③ Số lượng
    - Cần thiết: số người × 2 lần
      Tính: ___ người × 2 = ___ tờ
-   - Buffer: + ___ tờ (phòng surprise + interpreter)
+   - Dự phòng: + ___ tờ (phòng surprise + interpreter)
    - Tổng: ___ tờ
 
 □ ④ Check typo
    - Tự check
-   - Senior (Tech Lead / Phó phòng) kiểm tra hai lượt
+   - Cấp trên (Tech Lead / Phó phòng) kiểm tra hai lượt
    - Ngày giờ + người check: ___
 
 □ Check sáng ngày G (trước khi xuất phát)
@@ -5018,9 +5393,9 @@ E-mail: 〇〇
    - Liên hệ (mail / TEL / SNS sau danh thiếp)
    - Ngày gặp / Tên event
 
-[ ] STEP 2: Memo context (1 dòng/người)
+[ ] STEP 2: Ghi chú ngữ cảnh (1 dòng/người)
    Format:
-   '[Topic] / quote đặc trưng '〇〇' / Next action [〇〇 by 〇/〇]'
+   '[Chủ đề] / câu nói đặc trưng '〇〇' / Việc tiếp theo [〇〇 by 〇/〇]'
    Ví dụ:
    Nakamura CFO → 'Lo trần budget Phase 4 15tr yên / 'Sẽ xem lại sau quyết toán Q3' / Gửi RFP Phase 4 by 15/7'
 
@@ -5029,17 +5404,17 @@ E-mail: 〇〇
    - Folder chung Google Drive /danh_thiep/[năm-tháng]/
    - Tên file: [yyyymmdd]_[họ tên]_[cty].jpg
 
-[ ] STEP 4: Share team
+[ ] STEP 4: Chia sẻ nội bộ
    - PM / Lead / Phó phòng liên quan qua Slack
-   - Tránh contact trùng
+   - Tránh liên hệ trùng lặp
 
-[ ] STEP 5: Gửi follow-up
+[ ] STEP 5: Gửi thư tiếp theo
    - Mail cảm ơn trong 24h
-   - Quote 1 điểm từ memo context (ấn tượng)
-   - Next action rõ ràng
+   - Trích 1 điểm từ ghi chú ngữ cảnh (gây ấn tượng)
+   - Việc tiếp theo rõ ràng
 ```
 
-📝 **Ghi chú VN:** Bắt buộc 24h. Sau 3 ngày mất 70% context, chỉ viết được follow-up generic.
+📝 **Ghi chú VN:** Bắt buộc 24h. Sau 3 ngày mất 70% ngữ cảnh, chỉ viết được thư tiếp theo sáo rỗng.
 📝 **Ghi chú JP:** 24時間ルール厳守。3日経過で文脈70%消失、汎用フォローアップしか書けなくなる。
 
 ### Rule 16 — Checklist Trước Onsite 24h
@@ -5090,7 +5465,7 @@ E-mail: 〇〇
 [Checklist trước onsite 24h — hoàn tất trước D-1 18:00]
 
 [ ] (1) Mail confirm (trước 24h)
-   - To: 担当者 / CC: senior
+   - To: 担当者 / CC: cấp trên
    - Nội dung: ngày giờ + số người + tên + giờ dự kiến đến (5-10p trước)
    - Yêu cầu lễ tân support
    Giờ nhận reply: ___
@@ -5106,7 +5481,7 @@ E-mail: 〇〇
    - Xuất phát: ___
    - Route: ___
    - Thời gian chuẩn: ___ phút
-   - +Buffer 30p
+   - +Dự phòng 30p
    - Mục tiêu đến: trước 5-10 phút
 
 [ ] (4) Đồ mang
@@ -5119,7 +5494,7 @@ E-mail: 〇〇
 
 [ ] (5) Omiyage
    - Brand: ___
-   - Số lượng: số 担当者 + 2 buffer
+   - Số lượng: số 担当者 + 2 dự phòng
    - Xuất xứ VN / đóng gói riêng / hạn dài
    - Túi giấy (logo nhẹ)
 ```
@@ -5181,7 +5556,7 @@ E-mail: 〇〇
 [ ] Size: mang lên máy bay / về nước OK
 [ ] Giá: tương đương 1,500-3,000 yên/người (đắt quá NG)
 [ ] Brand: ___
-[ ] Số lượng: số 担当者 + buffer 2 = ___ phần
+[ ] Số lượng: số 担当者 + dự phòng 2 = ___ phần
 
 [B] Đóng gói
 [ ] Có gói riêng + bao ngoài (giấy washi / giấy nền tối)
@@ -5199,7 +5574,7 @@ E-mail: 〇〇
 [ ] (3) Đưa 2 tay
 [ ] (4) Câu cố định: 'tsumaranai mono desu ga' / 'sasayaka de wa gozaimasu ga'
 [ ] (5) Giải thích chỉ 'xuất xứ + cách dùng' (giá NG)
-[ ] (6) Trao theo thứ tự senior (CFO → trưởng → PM → 担当者)
+[ ] (6) Trao theo thứ tự cấp bậc (CFO → trưởng → PM → 担当者)
 
 [E] Danh sách NG
 [ ] x Đưa cả túi giấy
@@ -5209,10 +5584,10 @@ E-mail: 〇〇
 [ ] x Túi giấy logo cty mình to chiếm hết
 ```
 
-📝 **Ghi chú VN:** 3 điều tối kỵ: khoe giá, giục mở, đặt bừa. 'Tsumaranai mono desu ga' + 2 tay + thứ tự senior = công thức vàng.
+📝 **Ghi chú VN:** 3 điều tối kỵ: khoe giá, giục mở, đặt bừa. 'Tsumaranai mono desu ga' + 2 tay + thứ tự cấp bậc = công thức vàng.
 📝 **Ghi chú JP:** 値段アピール・開封促進・一括置きの3つが日本式omiyage最大NG。『つまらないものですが』 + 両手 + 上位者順 が黄金パターン。
 
-### Rule 34 — Checklist Survival Kit Lần Đầu Onsite Tokyo
+### Rule 34 — Checklist Bộ Đồ Thiết Yếu Lần Đầu Onsite Tokyo
 
 *JP: 東京初訪問 Survival Kit チェックリスト*
 
@@ -5269,7 +5644,7 @@ E-mail: 〇〇
 **Bản Việt placeholder:**
 
 ```
-[Checklist Survival Kit Onsite Tokyo Lần Đầu — xong trước D-2]
+[Checklist Bộ Đồ Thiết Yếu Onsite Tokyo Lần Đầu — xong trước D-2]
 
 [1] Tiền mặt + thẻ
 [ ] Yên Nhật 5 man (đổi trước khi rời VN)
@@ -5297,7 +5672,7 @@ E-mail: 〇〇
 [4] Omiyage
 [ ] 6 phần brand VN cao cấp (đóng gói riêng)
 [ ] 6 túi giấy (logo nhẹ)
-[ ] Phân bổ: CFO 1 / trưởng 1 / PM 1 / PMO 1 / buffer 2
+[ ] Phân bổ: CFO 1 / trưởng 1 / PM 1 / PMO 1 / dự phòng 2
 
 [5] Thời tiết + sức khỏe
 [ ] Ô gấp
@@ -5321,7 +5696,7 @@ E-mail: 〇〇
 📝 **Ghi chú VN:** Phân biệt rõ thứ làm trước khi rời VN và thứ mua tại sân bay Nhật. Omiyage / cash / mạng = bắt buộc xong tại VN.
 📝 **Ghi chú JP:** 出発前(VN)に終わらせるもの・現地空港で揃えるものを混同しない。お土産・現金・通信は必ずVN出発前。
 
-### Rule 35 — Template Self-Review 5 Mục Kiểu Hizashi
+### Rule 35 — Template Tự Đánh Giá 5 Mục Kiểu Hizashi
 
 *JP: Hizashi 式 5項目振り返りテンプレート*
 
@@ -5370,7 +5745,7 @@ E-mail: 〇〇
 **Bản Việt placeholder:**
 
 ```
-[Template Self-Review Hizashi — 5 mục]
+[Template Tự Đánh Giá Hizashi — 5 mục]
 Sự kiện: ___
 Ngày: ___
 Người tham gia: ___
@@ -5403,12 +5778,12 @@ Người điền: ___
 [ ] Gửi thank-you message cho người liên quan
 
 [Deadline]
-- Họp self-review: trong 1 ngày làm việc sau event
+- Họp tự đánh giá: trong 1 ngày làm việc sau event
 - Viết thành văn: trong 3 ngày làm việc
 - Action cải thiện: theo deadline từng action
 
 [Checkpoint lần sau]
-Trước event cùng loại lần sau, đọc lại self-review này, kiểm tra vấn đề + action đã giải quyết chưa.
+Trước event cùng loại lần sau, đọc lại bài tự đánh giá này, kiểm tra vấn đề + action đã giải quyết chưa.
 ```
 
 📝 **Ghi chú VN:** 5 mục bắt buộc làm sau mỗi onsite / tiếp khách / họp quan trọng. 'Cải thiện' không có chủ + deadline = không bao giờ làm. Lưu Notion + CRM để team tích lũy kinh nghiệm.

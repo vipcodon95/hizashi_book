@@ -135,7 +135,7 @@ Tháng 12/2029. Đại vừa nhận term sheet pre-seed ¥30M từ Anri (sách t
 
 | Vai | Lời thoại |
 |---|---|
-| Tuấn | <ruby>大兄<rt>あにき</rt></ruby>、<ruby>1<rt>ひと</rt></ruby>つ<ruby>聞<rt>き</rt></ruby>いていい?「OKR」って<ruby>具体的<rt>ぐたいてき</rt></ruby>に<ruby>何<rt>なに</rt></ruby>?<ruby>聞<rt>き</rt></ruby>いたことあるけど、<ruby>使<rt>つか</rt></ruby>ったことない。<br>*(Anh ơi, em hỏi 1 cái. "OKR" cụ thể là gì? Em nghe rồi mà chưa dùng bao giờ.)* |
+| Tuấn | ダイさん、<ruby>1<rt>ひと</rt></ruby>つ<ruby>聞<rt>き</rt></ruby>いていい?「OKR」って<ruby>具体的<rt>ぐたいてき</rt></ruby>に<ruby>何<rt>なに</rt></ruby>?<ruby>聞<rt>き</rt></ruby>いたことあるけど、<ruby>使<rt>つか</rt></ruby>ったことない。<br>*(Anh ơi, em hỏi 1 cái. "OKR" cụ thể là gì? Em nghe rồi mà chưa dùng bao giờ.)* |
 | Đại | いい<ruby>質問<rt>しつもん</rt></ruby>。Objectives and Key Results の<ruby>略<rt>りゃく</rt></ruby>。<ruby>目標<rt>もくひょう</rt></ruby>(O)<ruby>1<rt>ひと</rt></ruby>つに<ruby>対<rt>たい</rt></ruby>して、<ruby>計測可能<rt>けいそくかのう</rt></ruby>な KR を 3〜5 つ<ruby>付<rt>つ</rt></ruby>ける。<br>*(Câu hỏi hay. Viết tắt của Objectives and Key Results. Mỗi 1 mục tiêu (O) gắn 3-5 KR đo được.)* |
 | Tuấn | <ruby>例<rt>れい</rt></ruby>を<ruby>1<rt>ひと</rt></ruby>つお<ruby>願<rt>ねが</rt></ruby>いできる?<br>*(Cho em xin 1 ví dụ được không?)* |
 | Đại | O:「3<ruby>月末<rt>がつまつ</rt></ruby>までに Hizashi v1.0 を<ruby>公開<rt>こうかい</rt></ruby>する」。KR1:<ruby>登録<rt>とうろく</rt></ruby>ユーザー 1000<ruby>名<rt>めい</rt></ruby>。KR2:retention 4<ruby>週<rt>しゅう</rt></ruby> 70%。KR3:NPS 50<ruby>以上<rt>いじょう</rt></ruby>。<br>*(O: "Đến cuối tháng 3 ra mắt Hizashi v1.0". KR1: 1000 user đăng ký. KR2: retention 4 tuần 70%. KR3: NPS từ 50 trở lên.)* |

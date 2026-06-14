@@ -9,7 +9,12 @@
     "ja": "ズンが Phase 2 デモ後、フオン副部長へ結果報告する場面。GRCA フレームワーク（目標→結果→原因→今後の対応）を実演。",
     "vi": "Em Dũng báo kết quả demo Phase 2 cho chị Hương. Áp dụng framework GRCA: Goal → Result → Cause → Action."
   },
-  "related_rules": ["rule_01", "rule_05", "rule_06", "rule_11"],
+  "related_rules": [
+    "rule_01",
+    "rule_05",
+    "rule_06",
+    "rule_11"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -116,7 +121,9 @@
           "sentence": "フオン副部長、Phase 2デモのご報告です。目標は『松本様から書面で承認をいただく』ことでした。",
           "sentence_translation": "Chị Hương, em xin báo cáo demo Phase 2. Mục tiêu là 'nhận được phê duyệt bằng văn bản từ anh Matsumoto' ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_03_good_02",
@@ -126,7 +133,9 @@
           "sentence": "結果：書面承認は明日いただける見込み。指摘は3件のみで、致命的なものはございません。",
           "sentence_translation": "Kết quả: phê duyệt bằng văn bản dự kiến nhận được ngày mai. Comment chỉ 3 mục, không có mục nào nghiêm trọng ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_03_good_03",
@@ -136,7 +145,9 @@
           "sentence": "原因分析としては、事前に大垣様へ仮承認をいただいたことで、デモ当日の論点が画面の細部に絞られたためと考えております。",
           "sentence_translation": "Phân tích nguyên nhân: do em đã xin phê duyệt sơ bộ từ anh Ōgaki trước, nên trong ngày demo các điểm tranh luận đã thu hẹp về chi tiết màn hình ạ.",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_03_good_04",
@@ -146,7 +157,9 @@
           "sentence": "今後の対応：3件の指摘は今週中に修正、来週月曜にPhase 3キックオフを松本様へ提案いたします。",
           "sentence_translation": "Hành động tiếp theo: sửa 3 comment trong tuần này, thứ hai tuần sau em sẽ đề xuất kick-off Phase 3 với anh Matsumoto ạ.",
           "tone": "formal",
-          "annotation_ids": ["4"]
+          "annotation_ids": [
+            "4"
+          ]
         },
         {
           "line_id": "rule_03_good_05",
@@ -177,12 +190,12 @@
       "skill": "場面把握",
       "question_ja": "結果報告で「目標」を最初に述べる理由として最も適切なのは？",
       "options": [
+        "失敗を隠すため",
         "報告を長くするため",
         "聞き手に評価軸を提示するため",
-        "失敗を隠すため",
         "丁寧に聞こえるため"
       ],
-      "correct": "B",
+      "correct": "C",
       "explanation": {
         "ja": "Goal は Result を評価する物差し。物差しを共有しないと「OK」が何との比較か分からない。",
         "vi": "Goal là thước đo để đánh giá Result. Không chia sẻ thước đo thì 'OK' so với gì?"

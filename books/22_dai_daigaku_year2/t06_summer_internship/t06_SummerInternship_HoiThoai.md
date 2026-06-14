@@ -16,7 +16,7 @@
 |---|---|
 | HR | <ruby>本日<rt>ほんじつ</rt></ruby>はサマーインターンシップにお<ruby>越<rt>こ</rt></ruby>しくださいまして、ありがとうございます。<ruby>5<rt>ご</rt></ruby><ruby>名<rt>めい</rt></ruby>の<ruby>皆<rt>みな</rt></ruby>さん、<ruby>歓迎<rt>かんげい</rt></ruby>いたします。<br>*(Cảm ơn 5 bạn đã đến với Cybozu summer internship. Xin chào mừng các bạn.)* |
 | HR | まず、<ruby>一人<rt>ひとり</rt></ruby>ずつ<ruby>自己<rt>じこ</rt></ruby><ruby>紹介<rt>しょうかい</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。<br>*(Trước tiên, xin từng bạn giới thiệu bản thân.)* |
-| Đại | (đứng dậy, cúi nhẹ) <ruby>大阪大学<rt>おおさかだいがく</rt></ruby><ruby>情報科学<rt>じょうほうかがく</rt></ruby><ruby>研究科<rt>けんきゅうか</rt></ruby><ruby>2<rt>に</rt></ruby><ruby>年<rt>ねん</rt></ruby>のグエン・ヴァン・ダイと<ruby>申<rt>もう</rt></ruby>します。ベトナムから<ruby>参<rt>まい</rt></ruby>りました。<br>*(Em xin giới thiệu, em là Nguyễn Văn Đại, sinh viên năm 2 khoa CNTT Osaka University, đến từ Việt Nam.)* |
+| Đại | (đứng dậy, cúi nhẹ) <ruby>大阪大学<rt>おおさかだいがく</rt></ruby><ruby>情報科学科<rt>じょうほうかがくか</rt></ruby><ruby>2<rt>に</rt></ruby><ruby>年<rt>ねん</rt></ruby>のグエン・ヴァン・ダイと<ruby>申<rt>もう</rt></ruby>します。ベトナムから<ruby>参<rt>まい</rt></ruby>りました。<br>*(Em xin giới thiệu, em là Nguyễn Văn Đại, sinh viên năm 2 khoa Khoa học Thông tin Osaka University, đến từ Việt Nam.)* |
 | Đại | <ruby>得意<rt>とくい</rt></ruby>な<ruby>分野<rt>ぶんや</rt></ruby>は React と PostgreSQL です。<ruby>本日<rt>ほんじつ</rt></ruby>から<ruby>二週間<rt>にしゅうかん</rt></ruby>、どうぞよろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。<br>*(Mảng em mạnh là React và PostgreSQL. 2 tuần tới rất mong được học hỏi ạ.)* |
 | HR | ありがとうございます。それでは、メンターの<ruby>猪股<rt>いのまた</rt></ruby>さんをご<ruby>紹介<rt>しょうかい</rt></ruby>します。<br>*(Cảm ơn. Tiếp theo xin giới thiệu mentor Inomata-san.)* |
 

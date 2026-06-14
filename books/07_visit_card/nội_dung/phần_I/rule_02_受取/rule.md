@@ -20,12 +20,16 @@
 
 | Vai | Câu |
 |---------|-----|
-| **大垣** | 「白鷗株式会社、営業部長の大垣でございます。よろしくお願いいたします。」 |
+| **大垣** | 「<ruby>白鷗<rt>はくおう</rt></ruby><ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby>、<ruby>営業<rt>えいぎょう</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>の大垣でございます。よろしくお願いいたします。」 |
+|  | *Tôi là Ōgaki, Giám đốc Kinh doanh Cty Hakuō. Rất mong được hợp tác.* |
 | **リン** | 「あ、はい、リンです、よろしくお願いします。」 |
+|  | *À vâng, em Linh ạ, rất mong được hợp tác.* |
 | **大垣** | 「…はい。」 |
-| **フオン副部長** | 「リンさん、両手で。それから名刺はその場で読むの。」 |
+|  | *...Vâng.* |
+| **フオン副部長** | 「リンさん、<ruby>両手<rt>りょうて</rt></ruby>で。それから<ruby>名刺<rt>めいし</rt></ruby>はその<ruby>場<rt>ば</rt></ruby>で<ruby>読<rt>よ</rt></ruby>むの。」 |
+|  | *Linh, 2 tay nha em. Với cả danh thiếp phải đọc ngay tại chỗ.* |
 
-**Vì sao xấu:** Linh nhận 1 tay = từ chối không khí trang trọng khách đang tạo. Không đọc tên, nhét túi = tín hiệu "danh thiếp này không quan trọng". Ōgaki sẽ không nói gì nhưng ấn tượng đầu = "junior chưa được train".
+**Vì sao xấu:** Linh nhận 1 tay = từ chối không khí trang trọng khách đang tạo. Không đọc tên, nhét túi = tín hiệu "danh thiếp này không quan trọng". Ōgaki sẽ không nói gì nhưng ấn tượng đầu = "nhân viên mới chưa được đào tạo".
 
 ---
 
@@ -35,9 +39,12 @@
 
 | Vai | Câu |
 |---------|-----|
-| **大垣** | 「白鷗株式会社、営業部長の大垣でございます。よろしくお願いいたします。」 |
-| **リン** | 「**頂戴いたします**【2】。ティエンファットのリンと申します。**大垣 営業部長、よろしくお願いいたします**【3】。」 |
+| **大垣** | 「<ruby>白鷗<rt>はくおう</rt></ruby><ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby>、<ruby>営業<rt>えいぎょう</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>の大垣でございます。よろしくお願いいたします。」 |
+|  | *Tôi là Ōgaki, Giám đốc Kinh doanh Cty Hakuō. Rất mong được hợp tác.* |
+| **リン** | 「**<ruby>頂戴<rt>ちょうだい</rt></ruby>いたします**【2】。ティエンファットのリンと<ruby>申<rt>もう</rt></ruby>します。**大垣 <ruby>営業<rt>えいぎょう</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>、よろしくお願いいたします**【3】。」 |
+|  | *Em xin nhận ạ. Em là Linh bên Tiên Phát. Anh Ōgaki Giám đốc Kinh doanh, rất mong được hợp tác ạ.* |
 | **大垣** | 「リンさん、こちらこそ。」 |
+|  | *Cô Linh, tôi cũng vậy.* |
 | **リン** | *(im lặng, đỡ trang trọng)* |
 
 📝 **Ghi chú:**

@@ -9,7 +9,11 @@
     "ja": "Phase 2交渉会議終了後、ズンが大垣営業部長と松本PMに議事録とは別にお礼メールを送る場面。①感謝 ②3つの key takeaway ③次のステップ ④結語の4部構成。",
     "vi": "Sau họp đàm phán phase 2, em Dũng gửi follow-up mail riêng cho anh Ōgaki + Matsumoto (ngoài biên bản). 4 phần: cảm ơn → 3 takeaway → next step → kết."
   },
-  "related_rules": ["rule_02", "rule_45", "rule_49"],
+  "related_rules": [
+    "rule_02",
+    "rule_45",
+    "rule_49"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -62,7 +66,9 @@
           "sentence": "（メール subject）御礼：4月28日の打合せ",
           "sentence_translation": "(Subject email) Cảm ơn: Buổi họp 28/4",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_47_good_02",
@@ -72,7 +78,9 @@
           "sentence": "（本文）大垣様、松本様 / お世話になっております。本日はお忙しい中、貴重なお時間を頂戴し、誠にありがとうございました。今回の打合せでは、以下3点が特に印象に残りました — ①Phase 2 スコープ A 案の合意、②QA体制の課題共有、③7月末リリースの方向性確認。",
           "sentence_translation": "(Body) Anh Ōgaki, anh Matsumoto, lúc nào cũng cảm ơn anh ạ. Hôm nay anh chị bận nhưng vẫn dành thời gian quý báu, em xin chân thành cảm ơn ạ. Buổi họp lần này em đặc biệt ấn tượng 3 điểm — (1) đồng thuận scope Phase 2 phương án A, (2) chia sẻ challenge bố trí QA, (3) confirm hướng release cuối tháng 7.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         }
       ]
     }
@@ -102,12 +110,12 @@
       "skill": "表現読解",
       "question_ja": "重要顧客との会議後、最も適切なフォローアップは？",
       "options": [
-        "議事録のみ送付",
+        "次回会議まで何も送らない",
         "お礼メールのみ送付",
-        "議事録（formal record）+お礼メール（関係構築）の両方を24時間以内に送付",
-        "次回会議まで何も送らない"
+        "議事録のみ送付",
+        "議事録（formal record）+お礼メール（関係構築）の両方を24時間以内に送付"
       ],
-      "correct": "C",
+      "correct": "D",
       "explanation": {
         "ja": "議事録は記録、お礼メールは関係構築。役割が異なるため両方送るのが業界標準。",
         "vi": "Biên bản = record, thank-you mail = quan hệ. Hai chức năng khác nhau → gửi cả 2 là chuẩn industry."

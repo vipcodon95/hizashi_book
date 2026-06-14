@@ -68,6 +68,42 @@ BUNDLES = {
             ("26_dai_brse_year2", "BrSE Y2 — Quit + startup full-time + Series A"),
         ],
     },
+    # === Bundle ĐƠN từng sách (build riêng để review nội dung) ===
+    "dai_19_year1": {
+        "title": "Đại 19 — Du học sinh tiếng Nhật năm 1 tại Osaka",
+        "subtitle": "4/2024 → 3/2025 (Tennoji, Osaka)",
+        "books": [("19_dai_year1", "Năm 1 — Du học sinh tại Osaka")],
+    },
+    "dai_20_year2": {
+        "title": "Đại 20 — Du học sinh tiếng Nhật năm 2 tại Osaka",
+        "subtitle": "4/2025 → 3/2026 (ký túc, ôn N2 + EJU)",
+        "books": [("20_dai_year2", "Năm 2 — Ký túc, N2, EJU, vào ĐH")],
+    },
+    "dai_21_daigaku_y1": {
+        "title": "Đại 21 — Đại học Osaka năm 1 (Khoa học Thông tin)",
+        "subtitle": "4/2026 → 3/2027 (Toyonaka, foundation CS)",
+        "books": [("21_dai_daigaku_year1", "ĐH năm 1 — Foundation CS + cưới Mai")],
+    },
+    "dai_22_daigaku_y2": {
+        "title": "Đại 22 — Đại học Osaka năm 2",
+        "subtitle": "4/2027 → 3/2028 (Web, Mobile, Mai sang Nhật)",
+        "books": [("22_dai_daigaku_year2", "ĐH năm 2 — Web + Mobile + Mai")],
+    },
+    "dai_23_daigaku_y3": {
+        "title": "Đại 23 — Đại học Osaka năm 3 (Lab AI/NLP)",
+        "subtitle": "4/2028 → 3/2029 (Cybozu intern, bé Hana, ý tưởng Hizashi)",
+        "books": [("23_dai_daigaku_year3", "ĐH năm 3 — AI/NLP + Hana + Hizashi")],
+    },
+    "dai_24_daigaku_y4": {
+        "title": "Đại 24 — Đại học Osaka năm 4 (Tốt nghiệp)",
+        "subtitle": "4/2029 → 3/2030 (Hizashi beta → startup → VC → tốt nghiệp)",
+        "books": [("24_dai_daigaku_year4", "ĐH năm 4 — Hizashi 卒研 + 内定 + startup")],
+    },
+    "dai_25_brse_y1": {
+        "title": "Đại 25 — BrSE năm 1 + khởi nghiệp Hizashi",
+        "subtitle": "4/2030 → 3/2031 (BrSE Thanh A + Hizashi v1)",
+        "books": [("25_dai_brse_year1", "BrSE Y1 — Bridge engineer + Hizashi v1")],
+    },
     "kaigo_full": {
         "title": "Kaigo — Hành trình thực tập sinh điều dưỡng",
         "subtitle": "Y1 → Senior Y3 (TTS + SSW)",

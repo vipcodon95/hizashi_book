@@ -9,7 +9,12 @@
     "ja": "ズンが新人リンに4つの連絡シナリオの channel 選択を coaching する場面。緊急度 × 受信者数の2軸マトリクスを教える。",
     "vi": "Em Dũng coach em Linh (junior mới) chọn channel cho 4 scenario. Dạy decision matrix urgency × audience size."
   },
-  "related_rules": ["rule_09", "rule_13", "rule_16", "rule_17"],
+  "related_rules": [
+    "rule_09",
+    "rule_13",
+    "rule_16",
+    "rule_17"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -100,7 +105,9 @@
           "sentence": "リンちゃん、マトリクスを覚えて。",
           "sentence_translation": "Linh, học matrix nhé.",
           "tone": "warm",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_15_good_02",
@@ -110,7 +117,9 @@
           "sentence": "緊急 × 1人 → 電話。緊急 × チーム → Slack @here または @channel。通常 × 1人 → メールまたは Slack DM。通常 × チーム → Slack #channel または定例。長期参照 × 全員 → Notion/Confluence。",
           "sentence_translation": "Khẩn x 1 người → điện thoại. Khẩn x team → Slack @here hoặc @channel. Thường x 1 người → mail hoặc Slack DM. Thường x team → Slack #channel hoặc họp định kỳ. Tham khảo dài hạn x cả nhà → Notion/Confluence.",
           "tone": "neutral",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_15_good_03",
@@ -129,7 +138,9 @@
           "sentence": "正解。ただし critical bug は電話で第一報、Slack でフォロー — 二重に。",
           "sentence_translation": "Đúng rồi. Nhưng critical bug thì điện thoại báo đầu, Slack follow — 2 lớp.",
           "tone": "warm",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_15_good_05",
@@ -160,10 +171,10 @@
       "skill": "表現読解",
       "question_ja": "本番で critical bug が発生した場合、最も適切な channel 選択は？",
       "options": [
-        "Slack の #general に投稿のみ",
+        "翌日の朝礼で口頭報告",
         "メールで詳細を送るのみ",
         "電話で第一報、その後 Slack でフォロー",
-        "翌日の朝礼で口頭報告"
+        "Slack の #general に投稿のみ"
       ],
       "correct": "C",
       "explanation": {

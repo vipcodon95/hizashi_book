@@ -66,7 +66,7 @@
 > 📝 _数量報告の定型句_
 
 
-### Rule 04 — Setup video call (Zoom/Teams) / オンライン会議のセットアップ
+### Rule 04 — Cài đặt video call (Zoom/Teams) / オンライン会議のセットアップ
 
 **ハイ (em Hải):**
 
@@ -85,7 +85,7 @@
 > 📝 _録画許可確認のリマインド_
 
 
-### Rule 05 — Gửi tài liệu trước 24h / 資料の事前配布
+### Rule 05 — Phát tài liệu trước 24h / 資料の事前配布
 
 **ズン (em Dũng):**
 
@@ -123,7 +123,7 @@
 > 📝 _会議開始の宣言_
 
 
-### Rule 07 — Kiểm tra nội bộ trước họp / 事前すり合わせ
+### Rule 07 — Thống nhất nội bộ trước họp / 事前すり合わせ
 
 **フオン副部長 (chị Hương):**
 
@@ -142,7 +142,7 @@
 > 📝 _BDに即答を避けさせる指示_
 
 
-### Rule 08 — Chuẩn bị Plan B + phản biện / 想定問答集の準備
+### Rule 08 — Chuẩn bị Plan B + counter-arguments / 想定問答集の準備
 
 **ズン (em Dũng):**
 
@@ -428,7 +428,7 @@
 
 > 🇯🇵 「改めて実現可否をご報告したく存じます。」
 >
-> 🇻🇳 *Em xin được báo lại tính khả thi sau ạ.*
+> 🇻🇳 *Em xin được report lại feasibility sau ạ.*
 >
 > 📝 _即決を避ける表現_
 
@@ -555,7 +555,7 @@
 >
 > 🇻🇳 *Em e là khó kết luận tại đây hôm nay. Hai bên mang về và bàn riêng có được không ạ?*
 >
-> 📝 _デッドロックを hạ nhiệt する標準フレーズ_
+> 📝 _デッドロックを defuse する標準フレーズ_
 
 **ズン (em Dũng):**
 
@@ -830,13 +830,13 @@
 > 📝 _関係継続の結びフレーズ_
 
 
-### Rule 44 — Confirm action items + owner / アクションアイテムの確認
+### Rule 44 — Confirm việc cần làm + người phụ trách / アクションアイテムの確認
 
 **ズン (em Dũng):**
 
 > 🇯🇵 「本日のアクションアイテムを確認させていただきます。〇件ございます。」
 >
-> 🇻🇳 *Em xin được rà lại action items hôm nay ạ. Có 〇 item ạ.*
+> 🇻🇳 *Em xin được rà lại các việc cần làm hôm nay ạ. Có 〇 mục ạ.*
 >
 > 📝 _アクション確認のオープナー_
 

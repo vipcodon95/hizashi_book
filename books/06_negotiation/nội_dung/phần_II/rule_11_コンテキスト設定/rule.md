@@ -1,6 +1,6 @@
 # Rule 11 — Set context + agenda / コンテキスト設定
 
-> **Luận điểm.** Sau câu mở chào (rule 10), set **shared context** trong 60-90s: (1) recap 2-3 điểm key từ meeting trước, (2) confirm nothing changed/something changed phía khách, (3) đề xuất agenda hôm nay. Bỏ qua → khách CFO senior bị "lost", bầu không khí xuống.
+> **Luận điểm.** Sau câu mở chào (rule 10), thiết lập **bối cảnh chung** trong 60-90s: (1) điểm lại 2-3 ý then chốt từ buổi họp trước, (2) xác nhận phía khách có gì thay đổi hay không, (3) đề xuất agenda hôm nay. Bỏ qua → khách CFO cấp cao bị lạc mạch, bầu không khí đi xuống.
 >
 > 冒頭挨拶後、60-90秒で共通コンテキストを設定する: 前回ハイライト recap → 状況確認 → 本日 agenda 提示。CFO 同席など senior 入りでは特に重要。
 >
@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Sau câu mở (rule 10), Dũng vào phần thứ 2 — set context. 中村 CFO mới join lần này (Phase 2 không có), Dũng cần bridge.
+Sau câu mở (rule 10), Dũng vào phần thứ 2 — thiết lập bối cảnh. 中村 CFO mới tham gia lần này (Phase 2 không có), Dũng cần bắc cầu.
 
 ---
 
@@ -20,11 +20,14 @@ Sau câu mở (rule 10), Dũng vào phần thứ 2 — set context. 中村 CFO m
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「では早速、Phase 3 のご要件についてお伺いします。最も重要視されているポイントは何でしょうか？」 |
-| **中村CFO** | 「あ…えっと、Phase 3 って、Phase 2 はどこまで進んだんですか？」 |
-| **大垣** | 「中村さん、Phase 2 は昨年12月に完了して、次は…」 |
+| **ズン** | 「では早速、Phase 3 のご<ruby>要件<rt>ようけん</rt></ruby>についてお<ruby>伺<rt>うかが</rt></ruby>いします。<ruby>最<rt>もっと</rt></ruby>も<ruby>重要視<rt>じゅうようし</rt></ruby>されているポイントは<ruby>何<rt>なん</rt></ruby>でしょうか？」 |
+|  | *Vậy em xin phép vào luôn — về yêu cầu Phase 3, mục quý anh xem trọng nhất là gì ạ?* |
+| **中村CFO** | 「あ…えっと、Phase 3 って、Phase 2 はどこまで<ruby>進<rt>すす</rt></ruby>んだんですか？」 |
+|  | *À... ờ, Phase 3 ấy à — Phase 2 đã đến đâu rồi nhỉ?* |
+| **大垣** | 「<ruby>中村<rt>なかむら</rt></ruby>さん、Phase 2 は<ruby>昨年<rt>さくねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>に<ruby>完了<rt>かんりょう</rt></ruby>して、<ruby>次<rt>つぎ</rt></ruby>は…」 |
+|  | *Anh Nakamura, Phase 2 đã xong tháng 12 năm ngoái, tiếp theo là...* |
 
-**Vì sao xấu:** CFO không có context Phase 2. Dũng vào discovery question luôn → CFO bị lost → 大垣 phải giải thích thay → tốn 5 phút và mất control. Lý ra Dũng phải proactively recap.
+**Vì sao xấu:** CFO không có bối cảnh Phase 2. Dũng vào câu hỏi khai thác luôn → CFO bị lạc mạch → 大垣 phải giải thích thay → tốn 5 phút và mất quyền dẫn dắt. Lẽ ra Dũng phải chủ động điểm lại trước.
 
 ---
 
@@ -32,23 +35,28 @@ Sau câu mở (rule 10), Dũng vào phần thứ 2 — set context. 中村 CFO m
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「本題に入ります前に、**簡単な振り返り**【1】をさせていただきます。中村 CFO 様には Phase 2 の経緯をお伝えする意味でも。」 |
-| **ズン** | 「Phase 2 は昨年 12 月完了、月間 GMV +18%、運用コスト -22% という成果をお出しすることができました【2】。Phase 3 のご相談を 3 月に賜り、今日 3 段階のご提案をお持ちしました。**直近で御社側のご状況に変更はございますでしょうか**【3】？」 |
-| **中村CFO** | 「コスト圧縮の方針はより強くなっています。Phase 2 のような ROI が出る案件であれば積極的に検討します。」 |
-| **ズン** | 「承知しました。それを念頭に進めます。**本日のagenda、案として: (1) Phase 3 提案の概要 10 分、(2) 御社側のご質問・ディスカッション 30 分、(3) 価格と次ステップの確認 20 分**【4】、合計 60 分。よろしいでしょうか？」 |
-| **大垣** | 「結構です。」 |
+| **ズン** | 「<ruby>本題<rt>ほんだい</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります<ruby>前<rt>まえ</rt></ruby>に、**<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>り**【1】をさせていただきます。<ruby>中村<rt>なかむら</rt></ruby> CFO <ruby>様<rt>さま</rt></ruby>には Phase 2 の<ruby>経緯<rt>けいい</rt></ruby>をお<ruby>伝<rt>つた</rt></ruby>えする<ruby>意味<rt>いみ</rt></ruby>でも。」 |
+|  | *Trước khi vào nội dung chính, xin phép em điểm lại nhanh ạ. Cũng là để truyền lại bối cảnh Phase 2 cho anh Nakamura CFO.* |
+| **ズン** | 「Phase 2 は<ruby>昨年<rt>さくねん</rt></ruby> 12 <ruby>月<rt>がつ</rt></ruby><ruby>完了<rt>かんりょう</rt></ruby>、<ruby>月間<rt>げっかん</rt></ruby> GMV +18%、<ruby>運用<rt>うんよう</rt></ruby>コスト -22% という<ruby>成果<rt>せいか</rt></ruby>をお<ruby>出<rt>だ</rt></ruby>しすることができました【2】。Phase 3 のご<ruby>相談<rt>そうだん</rt></ruby>を 3 <ruby>月<rt>がつ</rt></ruby>に<ruby>賜<rt>たまわ</rt></ruby>り、<ruby>今日<rt>きょう</rt></ruby> 3 <ruby>段階<rt>だんかい</rt></ruby>のご<ruby>提案<rt>ていあん</rt></ruby>をお<ruby>持<rt>も</rt></ruby>ちしました。**<ruby>直近<rt>ちょっきん</rt></ruby>で<ruby>御社<rt>おんしゃ</rt></ruby><ruby>側<rt>がわ</rt></ruby>のご<ruby>状況<rt>じょうきょう</rt></ruby>に<ruby>変更<rt>へんこう</rt></ruby>はございますでしょうか**【3】？」 |
+|  | *Phase 2 hoàn thành tháng 12 năm ngoái, kết quả là GMV tháng +18%, chi phí vận hành -22% ạ. Đề xuất Phase 3 quý anh trao đổi hồi tháng 3, hôm nay em mang 3 phương án ạ. Gần đây phía quý cty có thay đổi gì không ạ?* |
+| **中村CFO** | 「コスト<ruby>圧縮<rt>あっしゅく</rt></ruby>の<ruby>方針<rt>ほうしん</rt></ruby>はより<ruby>強<rt>つよ</rt></ruby>くなっています。Phase 2 のような ROI が<ruby>出<rt>で</rt></ruby>る<ruby>案件<rt>あんけん</rt></ruby>であれば<ruby>積極的<rt>せっきょくてき</rt></ruby>に<ruby>検討<rt>けんとう</rt></ruby>します。」 |
+|  | *Phương châm nén chi phí đang mạnh lên. Nếu ROI ra như Phase 2 thì chúng tôi tích cực xem xét.* |
+| **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。それを<ruby>念頭<rt>ねんとう</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めます。**<ruby>本日<rt>ほんじつ</rt></ruby>のagenda、<ruby>案<rt>あん</rt></ruby>として: (1) Phase 3 <ruby>提案<rt>ていあん</rt></ruby>の<ruby>概要<rt>がいよう</rt></ruby> 10 <ruby>分<rt>ふん</rt></ruby>、(2) <ruby>御社<rt>おんしゃ</rt></ruby><ruby>側<rt>がわ</rt></ruby>のご<ruby>質問<rt>しつもん</rt></ruby>・ディスカッション 30 <ruby>分<rt>ぷん</rt></ruby>、(3) <ruby>価格<rt>かかく</rt></ruby>と<ruby>次<rt>つぎ</rt></ruby>ステップの<ruby>確認<rt>かくにん</rt></ruby> 20 <ruby>分<rt>ぷん</rt></ruby>**【4】、<ruby>合計<rt>ごうけい</rt></ruby> 60 <ruby>分<rt>ぷん</rt></ruby>。よろしいでしょうか？」 |
+|  | *Em rõ ạ. Em sẽ lưu ý điều đó. Agenda đề xuất hôm nay: (1) Tổng quan đề xuất Phase 3 — 10 phút, (2) Câu hỏi & thảo luận từ phía quý cty — 30 phút, (3) Xác nhận giá và bước tiếp — 20 phút, tổng 60 phút. Anh thấy ổn không ạ?* |
+| **大垣** | 「<ruby>結構<rt>けっこう</rt></ruby>です。」 |
+|  | *Được ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**振り返り (recap)** — chỉ cần 30-45s, key 2-3 số liệu của Phase trước. KHÔNG kể lể dài.
-- 【2】**Số liệu cụ thể** (+18%, -22%) tốt hơn "成功" mơ hồ. Tạo trust ngay.
-- 【3】**「直近で変更ございますか」** — câu mở để khách proactively share constraint mới (ai mới join, budget cut, etc).
-- 【4】**Agenda 3 phần với time-box** — cho khách feel control, dễ buộc bản thân giữ schedule (rule 17).
+- 【1】**振り返り (điểm lại)** — chỉ cần 30-45s, nhấn 2-3 số liệu then chốt của Phase trước. KHÔNG kể lể dài.
+- 【2】**Số liệu cụ thể** (+18%, -22%) tốt hơn "成功" mơ hồ. Tạo niềm tin ngay.
+- 【3】**「直近で変更ございますか」** — câu mở để khách chủ động chia sẻ ràng buộc mới (ai mới tham gia, cắt ngân sách, v.v.).
+- 【4】**Agenda 3 phần có khung thời gian** — cho khách cảm giác nắm quyền dẫn dắt, dễ buộc bản thân giữ đúng lịch (rule 17).
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「振り返り→状況確認→agenda提示の3拍。CFO 同席時は特に必須。」**
+> **「<ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>り→<ruby>状況<rt>じょうきょう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>→agenda<ruby>提示<rt>ていじ</rt></ruby>の3<ruby>拍<rt>はく</rt></ruby>。CFO <ruby>同席時<rt>どうせきじ</rt></ruby>は<ruby>特<rt>とく</rt></ruby>に<ruby>必須<rt>ひっす</rt></ruby>。」**
 >
 > *Recap → confirm tình hình → đề xuất agenda — 3 nhịp. Có CFO ngồi cùng càng bắt buộc.*
 
@@ -56,10 +64,10 @@ Sau câu mở (rule 10), Dũng vào phần thứ 2 — set context. 中村 CFO m
 
 ## ⚠ Tránh
 
-- Vào discovery luôn không recap → senior khách bị lost
-- Recap dài lê thê (3 phút) → tốn quỹ thời gian
+- Vào khai thác luôn, không điểm lại → khách cấp cao bị lạc mạch
+- Điểm lại dài lê thê (3 phút) → tốn quỹ thời gian
 - Quên hỏi "状況変更ありますか" → bỏ lỡ thông tin sớm về cắt ngân sách, cơ cấu lại
-- Agenda không có time-box → buổi đàm phán lê thê
+- Agenda không có khung thời gian → buổi đàm phán lê thê
 
 ---
 
@@ -67,10 +75,10 @@ Sau câu mở (rule 10), Dũng vào phần thứ 2 — set context. 中村 CFO m
 
 | 漢字 / Tiếng Nhật | よみ | Nghĩa |
 |------|------|-------|
-| 振り返り | ふりかえり | Recap / nhìn lại |
+| 振り返り | ふりかえり | Điểm lại / nhìn lại |
 | 経緯 | けいい | Diễn biến / quá trình |
 | 直近 | ちょっきん | Gần đây |
-| アジェンダ | ajenda | Agenda |
-| ディスカッション | disukasshon | Discussion |
+| アジェンダ | ajenda | Chương trình nghị sự (agenda) |
+| ディスカッション | disukasshon | Thảo luận |
 | 念頭に置く | ねんとうにおく | Lưu ý / để trong đầu |
 | 共通認識 | きょうつうにんしき | Nhận thức chung |

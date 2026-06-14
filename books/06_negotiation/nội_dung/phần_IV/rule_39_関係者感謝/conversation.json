@@ -9,7 +9,11 @@
     "ja": "Phase 3 締結後、senior 6 名 + junior 4 名に個別 specific な thank-you DM を送る場面。Linh の overtime と Loan の経理指摘も specific に言及。",
     "vi": "Sau ký Phase 3, gửi thank-you DM riêng cho từng stakeholder — 6 senior + 4 junior với specific contribution. Đặc biệt nhắc detail effort của Linh và Loan."
   },
-  "related_rules": ["rule_36", "rule_37", "rule_38"],
+  "related_rules": [
+    "rule_36",
+    "rule_37",
+    "rule_38"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -101,7 +105,9 @@
           "sentence": "フオン副部長、Phase 3 関係者感謝メールを書きます。Senior 6 名、 junior 4 名分で個別 specific にします。レビューお願いします。",
           "sentence_translation": "Chị Hương, em viết mail cảm ơn stakeholders Phase 3. 6 senior + 4 junior em viết riêng specific. Phiền chị review ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_39_good_02",
@@ -112,7 +118,9 @@
           "sentence_translation": "Anh Ōgaki, anh Tanaka, anh Nakamura — việc ký Phase 3 thực sự nhờ sự giúp đỡ của các anh. Anh Tanaka kiểm tra tiến độ tỉ mỉ hàng tuần, anh Nakamura chỉ ra điểm chặt trong financial review — em xin gửi lời cảm ơn ạ.",
           "tone": "formal",
           "speed_multiplier": 0.95,
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_39_good_03",
@@ -122,7 +130,9 @@
           "sentence": "リン、Phase 3 PR の件 ありがとう! 特に embargo 5/15 09:00 に間に合わせるため 5/13-14 で 2 晩 overtime 対応してくれた件、本当に助かった。両社 release が同時刻 timing に成功したのは Linh の effort 直接的に。Phase 4 でも力借りたい。",
           "sentence_translation": "Linh, cảm ơn em vụ PR Phase 3! Đặc biệt vụ em làm overtime 2 đêm 13-14/5 để kịp embargo 09:00 ngày 15/5 — anh thực sự cảm ơn. Việc release đồng thời 2 bên thành công là nhờ effort trực tiếp của Linh. Phase 4 anh cũng muốn nhờ em.",
           "tone": "warm",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_39_good_04",
@@ -141,7 +151,9 @@
           "sentence": "ロアンさん、Phase 3 経理レビューありがとうございました。特に LOI 段階での税抜表記指摘、indemnity 上限の取締役会規定確認、契約の死角 を全部 catch していただきました。ロアンさんなしでは ¥17M 救えませんでした。",
           "sentence_translation": "Chị Loan, cảm ơn chị đã review kế toán Phase 3. Đặc biệt việc chị chỉ ra 'ghi rõ chưa thuế' ở giai đoạn LOI, kiểm tra quy định HĐQT về cap indemnity — chị bắt được hết các điểm mù của hợp đồng. Không có chị thì không cứu được ¥17M.",
           "tone": "formal",
-          "annotation_ids": ["4"]
+          "annotation_ids": [
+            "4"
+          ]
         },
         {
           "line_id": "rule_39_good_06",
@@ -160,7 +172,9 @@
           "sentence": "Phase 3 締結! 関係者全員に個別感謝 DM 済。Tuấn、ハー CTO、フオン副部長、リン、ロアン、田中様、大垣様、Nakamura 様 — ありがとうございました。",
           "sentence_translation": "Ký Phase 3 rồi! Em đã DM cảm ơn riêng từng stakeholder. Anh Tuấn, anh Hà CTO, chị Hương, Linh, chị Loan, anh Tanaka, anh Ōgaki, anh Nakamura — em xin cảm ơn.",
           "tone": "warm",
-          "annotation_ids": ["5"]
+          "annotation_ids": [
+            "5"
+          ]
         }
       ]
     }
@@ -190,10 +204,10 @@
       "skill": "場面把握",
       "question_ja": "junior staff への感謝として最も loyalty を高めるのは？",
       "options": [
-        "全社 Slack で「みんなお疲れ様」",
+        "上司から代わりに伝える",
         "個別 DM で specific contribution (例: 「embargo 間に合わせの 2 晩 overtime」) に言及",
         "ボーナスを出す",
-        "上司から代わりに伝える"
+        "全社 Slack で「みんなお疲れ様」"
       ],
       "correct": "B",
       "explanation": {

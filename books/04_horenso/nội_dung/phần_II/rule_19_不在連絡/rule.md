@@ -1,10 +1,10 @@
 # Rule 19 — Báo vắng / 不在連絡 (休暇 / 病欠)
 
-> **Luận điểm.** Báo vắng (nghỉ phép, ốm) phải có 4 yếu tố: **(1) Thông báo trước 24h** (trừ ốm đột xuất), **(2) Ngày return cụ thể**, **(3) Cover person** (ai thay), **(4) Out-of-office message** auto-reply email/Slack.
+> **Luận điểm.** Báo vắng (nghỉ phép, ốm) phải có 4 yếu tố: **(1) Thông báo trước 24h** (trừ ốm đột xuất), **(2) Ngày trở lại cụ thể**, **(3) Người thay** (ai làm thay), **(4) Tin nhắn báo vắng** (tự động trả lời email/Slack).
 >
 > 不在連絡4要素：①24時間前通知（病欠は除く）、②復帰日明示、③代行者指定、④自動返信設定。
 >
-> **Liên quan:** rule 14 (broadcast), rule 33 (退職/長期休暇).
+> **Liên quan:** rule 14 (báo cả nhóm), rule 33 (退職/長期休暇).
 
 ---
 
@@ -20,12 +20,16 @@ Em Dũng cần xin nghỉ thứ Sáu để dự đám cưới em họ. Lần đ�
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、明日の金曜、休みたいです。」 |
-| **フオン** | 「えっ、12時間前？明日松本様との会議があるよ。誰が代わる？」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、明日の金曜、休みたいです。」 |
+|  | *Chị Hương, mai thứ Sáu em muốn nghỉ ạ.* |
+| **フオン** | 「えっ、12時間前？明日<ruby>松本<rt>まつもと</rt></ruby>様との<ruby>会議<rt>かいぎ</rt></ruby>があるよ。誰が<ruby>代<rt>か</rt></ruby>わる？」 |
+|  | *Hả, trước 12 giờ? Mai có họp với anh Matsumoto đấy. Ai thay em?* |
 | **ズン** | 「あ、忘れてました…」 |
-| **フオン** | 「休暇は **24時間前 + 代行者指定 + 復帰日 + 自動返信** が基本。今からじゃ松本様にも迷惑かかる。」 |
+|  | *À em quên ạ...* |
+| **フオン** | 「<ruby>休暇<rt>きゅうか</rt></ruby>は **24時間前 + <ruby>代行者指定<rt>だいこうしゃしてい</rt></ruby> + <ruby>復帰日<rt>ふっきび</rt></ruby> + <ruby>自動返信<rt>じどうへんしん</rt></ruby>** が基本。今からじゃ松本様にも<ruby>迷惑<rt>めいわく</rt></ruby>かかる。」 |
+|  | *Nghỉ phép phải trước 24h + chỉ định người thay + ngày trở lại + tự động trả lời. Bây giờ thì cả anh Matsumoto cũng bị phiền.* |
 
-**Vì sao xấu:** Báo 12h trước + chỉ thông báo "muốn nghỉ", không có Plan cover. Sếp phải tự xếp lại.
+**Vì sao xấu:** Báo 12h trước + chỉ thông báo "muốn nghỉ", không có phương án người thay. Sếp phải tự xếp lại.
 
 ---
 
@@ -35,14 +39,18 @@ Em Dũng cần xin nghỉ thứ Sáu để dự đám cưới em họ. Lần đ�
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「件名：【休暇申請】4/26(金) 終日不在のご連絡」(body — see template) |
-| **フオン** | 「OK、休暇承認します。」 |
-| **ズン** | 「@here 念のため再連絡。**明日4/26(金)1日不在**。代行：松本様会議はトゥアン、Slack/メール対応はハイ。**復帰：4/29(月)朝礼から**【1】。自動返信も設定済みです。」 |
-| **トゥアン** | 「松本様会議の引き継ぎ資料、確認しました。任せて。」 |
+| **ズン** | 「<ruby>件名<rt>けんめい</rt></ruby>：【<ruby>休暇申請<rt>きゅうかしんせい</rt></ruby>】4/26(金) <ruby>終日不在<rt>しゅうじつふざい</rt></ruby>のご<ruby>連絡<rt>れんらく</rt></ruby>」(body — theo mẫu template) |
+|  | *Tiêu đề: '[Đơn nghỉ phép] 26/4 (T6) báo vắng cả ngày' (nội dung mail theo mẫu).* |
+| **フオン** | 「OK、休暇<ruby>承認<rt>しょうにん</rt></ruby>します。」 |
+|  | *OK, chị duyệt nghỉ phép.* |
+| **ズン** | 「@here <ruby>念<rt>ねん</rt></ruby>のため<ruby>再連絡<rt>さいれんらく</rt></ruby>。**明日4/26(金)1日不在**。代行：松本様会議はトゥアン、Slack/メール<ruby>対応<rt>たいおう</rt></ruby>はハイ。**復帰：4/29(月)<ruby>朝礼<rt>ちょうれい</rt></ruby>から**【1】。自動返信も<ruby>設定済<rt>せっていず</rt></ruby>みです。」 |
+|  | *@here em nhắc lại cho chắc. Mai 26/4 thứ Sáu em nghỉ cả ngày. Người thay: họp anh Matsumoto là anh Tuấn, Slack/mail là anh Hải. Trở lại: từ buổi họp sáng (朝礼) thứ Hai 29/4. Tự động trả lời em cũng đã cài rồi ạ.* |
+| **トゥアン** | 「松本様会議の<ruby>引<rt>ひ</rt></ruby>き<ruby>継<rt>つ</rt></ruby>ぎ<ruby>資料<rt>しりょう</rt></ruby>、確認しました。任せて。」 |
+|  | *Tài liệu bàn giao cho họp anh Matsumoto anh check rồi. Cứ giao anh.* |
 
 📝 **Ghi chú:**
-- 【1】**「念のため再連絡」 + 4 yếu tố** — báo lần 1 (1 tuần trước, formal email) + lần 2 (1 ngày trước, Slack reminder).
-- Out-of-office mail: 「〇月〇日まで休暇のため不在です。緊急の場合は〇〇まで」.
+- 【1】**「念のため再連絡」 + 4 yếu tố** — báo lần 1 (1 tuần trước, mail trang trọng) + lần 2 (1 ngày trước, nhắc lại trên Slack).
+- Mail tự động trả lời khi vắng mặt: 「〇月〇日まで休暇のため不在です。緊急の場合は〇〇まで」.
 
 ---
 
@@ -79,10 +87,10 @@ Em Dũng cần xin nghỉ thứ Sáu để dự đám cưới em họ. Lần đ�
 
 ## ⚠ Tránh
 
-- "明日休みます" + nothing else — không cover, không return date.
-- Đưa "代行者" mà chưa hỏi đối tượng — phải confirm với cover person trước.
-- Quên set out-of-office auto-reply — khách gửi mail không biết, đợi 3 ngày.
-- Báo nghỉ đột xuất qua DM 1 người — cả team không biết, ai cũng nhắn cho bạn.
+- "明日休みます" mà không kèm gì thêm — không người thay, không ngày trở lại.
+- Đưa "代行者" mà chưa hỏi đối tượng — phải xác nhận với người thay trước.
+- Quên cài tự động trả lời khi vắng — khách gửi mail không biết, đợi 3 ngày.
+- Báo nghỉ đột xuất qua DM 1 người — cả nhóm không biết, ai cũng nhắn cho bạn.
 
 ---
 

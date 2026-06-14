@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Sáng sau dinner Q1 lúc 8:30. Dũng cần gửi thank-you mail tới Ōgaki, Matsumoto, CFO Nakamura, Tanaka PMO trong 24h. Hà CTO review draft trước khi gửi.
+Sáng sau dinner Q1 lúc 8:30. Dũng cần gửi thank-you mail tới Ōgaki, Matsumoto, CFO Nakamura, Tanaka PMO trong 24h. Hà CTO kiểm tra bản nháp trước khi gửi.
 
 ---
 
@@ -18,12 +18,16 @@ Sáng sau dinner Q1 lúc 8:30. Dũng cần gửi thank-you mail tới Ōgaki, Ma
 
 | Vai | Câu |
 |---------|-----|
-| **ハーCTO** | 「ズン、昨日のお礼メールは送った？」 |
-| **ズン** | 「あ、まだです。今週中に書こうかと…」 |
-| **ハーCTO** | 「24時間以内が原則。3日後では鮮度切れ。To別+CC上司で一通ずつ書け。BCC一括NG。」 |
-| **ズン** | 「あ、すみません！今すぐ書きます。」 |
+| **ハーCTO** | 「ズン、昨日のお<ruby>礼<rt>れい</rt></ruby>メールは<ruby>送<rt>おく</rt></ruby>った？」 |
+|  | *Dũng, mail cảm ơn hôm qua em gửi chưa?* |
+| **ズン** | 「あ、まだです。<ruby>今週中<rt>こんしゅうちゅう</rt></ruby>に<ruby>書<rt>か</rt></ruby>こうかと…」 |
+|  | *À chưa anh. Em định trong tuần sẽ viết...* |
+| **ハーCTO** | 「24<ruby>時間以内<rt>じかんいない</rt></ruby>が<ruby>原則<rt>げんそく</rt></ruby>。3<ruby>日<rt>か</rt></ruby><ruby>後<rt>ご</rt></ruby>では<ruby>鮮度<rt>せんど</rt></ruby><ruby>切<rt>ぎ</rt></ruby>れ。To<ruby>別<rt>べつ</rt></ruby>+CC<ruby>上司<rt>じょうし</rt></ruby>で<ruby>一通<rt>いっつう</rt></ruby>ずつ<ruby>書<rt>か</rt></ruby>け。BCC<ruby>一括<rt>いっかつ</rt></ruby>NG。」 |
+|  | *Nguyên tắc trong 24h. 3 ngày sau là mất độ tươi rồi. To gửi riêng từng người + CC cấp trên, viết từng mail một. BCC chung NG.* |
+| **ズン** | 「あ、すみません！<ruby>今<rt>いま</rt></ruby>すぐ<ruby>書<rt>か</rt></ruby>きます。」 |
+|  | *Em xin lỗi anh! Em viết ngay đây ạ.* |
 
-**Vì sao xấu:** (1) 3 ngày sau = mất độ tươi của lời cảm ơn — khách đã quên một phần chi tiết. (2) Chỉ "hôm qua cảm ơn anh" = không có nhiệt. (3) BCC nhiều người = mất cảm giác cá nhân — khách thấy ngay là form mail. 3 cái này = negative cho quan hệ.
+**Vì sao xấu:** (1) 3 ngày sau = mất độ tươi của lời cảm ơn — khách đã quên một phần chi tiết. (2) Chỉ "hôm qua cảm ơn anh" = không có nhiệt. (3) BCC nhiều người = mất cảm giác cá nhân — khách thấy ngay là mail mẫu hàng loạt. 3 cái này = tiêu cực cho quan hệ.
 
 ---
 
@@ -31,11 +35,16 @@ Sáng sau dinner Q1 lúc 8:30. Dũng cần gửi thank-you mail tới Ōgaki, Ma
 
 | Vai | Câu |
 |---------|-----|
-| **ハーCTO** | 「ズン、昨日のお礼メール、ドラフト見せて。」 |
-| **ズン** | 「翌朝8時送信予定【1】。To = 中村CFO様 / 大垣様 / 松本様 / 田中様 個別4通、CC = ハーCTO+フオン副部長【2】。各メールに昨夜の和牛のご感想・松本様の登山のお話を1-2行引用しております【3】。」 |
-| **ハーCTO** | 「いいね。次回約束は入れた？」 |
-| **ズン** | 「はい、『次回はぜひ当方からも東京へお伺いし、5月のお花見の頃に改めて』と入れています。」【4】 |
-| **ハーCTO** | 「完璧。8時に送信して、午後にハーから中村CFOへ補足の謝意メールも送る。」 |
+| **ハーCTO** | 「ズン、昨日のお<ruby>礼<rt>れい</rt></ruby>メール、ドラフト<ruby>見<rt>み</rt></ruby>せて。」 |
+|  | *Dũng, draft mail cảm ơn hôm qua đưa anh xem.* |
+| **ズン** | 「<ruby>翌朝<rt>よくあさ</rt></ruby>8<ruby>時<rt>じ</rt></ruby><ruby>送信予定<rt>そうしんよてい</rt></ruby>【1】。To = <ruby>中村<rt>なかむら</rt></ruby>CFO<ruby>様<rt>さま</rt></ruby> / <ruby>大垣<rt>おおがき</rt></ruby><ruby>様<rt>さま</rt></ruby> / <ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby> / <ruby>田中<rt>たなか</rt></ruby><ruby>様<rt>さま</rt></ruby> <ruby>個別<rt>こべつ</rt></ruby>4<ruby>通<rt>つう</rt></ruby>、CC = ハーCTO+フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>【2】。<ruby>各<rt>かく</rt></ruby>メールに<ruby>昨夜<rt>さくや</rt></ruby>の<ruby>和牛<rt>わぎゅう</rt></ruby>のご<ruby>感想<rt>かんそう</rt></ruby>・<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>の<ruby>登山<rt>とざん</rt></ruby>のお<ruby>話<rt>はなし</rt></ruby>を1-2<ruby>行<rt>ぎょう</rt></ruby><ruby>引用<rt>いんよう</rt></ruby>しております【3】。」 |
+|  | *Em định gửi 8h sáng nay. To = anh Nakamura / anh Ōgaki / anh Matsumoto / anh Tanaka — 4 mail riêng từng người. CC = anh Hà CTO + chị Hương phó phòng. Mỗi mail em trích 1-2 dòng về wagyu hôm qua + chuyện leo núi của anh Matsumoto.* |
+| **ハーCTO** | 「いいね。<ruby>次回約束<rt>じかいやくそく</rt></ruby>は<ruby>入<rt>い</rt></ruby>れた？」 |
+|  | *Tốt. Hẹn lần sau em đã cho vào chưa?* |
+| **ズン** | 「はい、『<ruby>次回<rt>じかい</rt></ruby>はぜひ<ruby>当方<rt>とうほう</rt></ruby>からも<ruby>東京<rt>とうきょう</rt></ruby>へお<ruby>伺<rt>うかが</rt></ruby>いし、5<ruby>月<rt>がつ</rt></ruby>のお<ruby>花見<rt>はなみ</rt></ruby>の<ruby>頃<rt>ころ</rt></ruby>に<ruby>改<rt>あらた</rt></ruby>めて』と<ruby>入<rt>い</rt></ruby>れています。」【4】 |
+|  | *Vâng, em viết 'lần sau em xin đến thăm Tokyo, khoảng tháng 5 mùa hoa anh đào sẽ liên hệ lại ạ'.* |
+| **ハーCTO** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。8<ruby>時<rt>じ</rt></ruby>に<ruby>送信<rt>そうしん</rt></ruby>して、<ruby>午後<rt>ごご</rt></ruby>にハーから<ruby>中村<rt>なかむら</rt></ruby>CFOへ<ruby>補足<rt>ほそく</rt></ruby>の<ruby>謝意<rt>しゃい</rt></ruby>メールも<ruby>送<rt>おく</rt></ruby>る。」 |
+|  | *Hoàn hảo. 8h gửi nhé. Chiều anh sẽ gửi mail bổ sung cảm ơn anh CFO Nakamura.* |
 
 📝 **Ghi chú:**
 - 【1】**Lý tưởng = sáng hôm sau vừa đến cty 8-9h** — trước khi sang ngày mới = tươi + dấu hiệu chỉn chu. 24h là giới hạn cứng.
@@ -47,7 +56,7 @@ Sáng sau dinner Q1 lúc 8:30. Dũng cần gửi thank-you mail tới Ōgaki, Ma
 
 ## 🎯 Câu chốt
 
-> **「昨夜はお忙しい中、貴重なお時間を頂戴し、誠にありがとうございました。次回はぜひ当方からも東京へお伺いさせていただきます。」**
+> **「<ruby>昨夜<rt>さくや</rt></ruby>はお<ruby>忙<rt>いそが</rt></ruby>しい<ruby>中<rt>なか</rt></ruby>、<ruby>貴重<rt>きちょう</rt></ruby>なお<ruby>時間<rt>じかん</rt></ruby>を<ruby>頂戴<rt>ちょうだい</rt></ruby>し、<ruby>誠<rt>まこと</rt></ruby>にありがとうございました。<ruby>次回<rt>じかい</rt></ruby>はぜひ<ruby>当方<rt>とうほう</rt></ruby>からも<ruby>東京<rt>とうきょう</rt></ruby>へお<ruby>伺<rt>うかが</rt></ruby>いさせていただきます。」**
 >
 > *Tối qua anh bận mà vẫn dành thời gian quý báu, em xin chân thành cảm ơn ạ. Lần sau bên em xin được đến thăm Tokyo.*
 
@@ -58,7 +67,7 @@ Sáng sau dinner Q1 lúc 8:30. Dũng cần gửi thank-you mail tới Ōgaki, Ma
 - Gửi sau 3+ ngày — mất "độ tươi"
 - BCC nhiều người chung 1 mail — mất cá nhân hóa
 - Chỉ 1 dòng "hôm qua cảm ơn anh" — không có nhiệt
-- Không trích chủ đề cụ thể — giống form mail
+- Không trích chủ đề cụ thể — giống mail mẫu hàng loạt
 - Hẹn lần sau mơ hồ "khi có dịp" — không có tín hiệu duy trì
 
 ---
@@ -84,7 +93,7 @@ Sáng sau dinner Q1 lúc 8:30. Dũng cần gửi thank-you mail tới Ōgaki, Ma
 
 末筆ながら、皆様のますますのご健勝をお祈り申し上げます。
 
-──
+--
 ティエンファット 営業部
 ズン (Tran Van Dung)
 TEL: 〇〇

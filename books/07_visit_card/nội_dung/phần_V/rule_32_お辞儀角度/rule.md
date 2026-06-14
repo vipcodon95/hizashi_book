@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Tối trước khi đi onsite Tokyo, chị Hương phó phòng demo 4 loại bow cho Linh. Linh là intern lần đầu đi onsite, học để khỏi lúng túng giữa các tình huống mixed (gặp CFO / vào phòng / chào hành lang / tình huống lỗi).
+Tối trước khi đi onsite Tokyo, chị Hương phó phòng demo 4 loại bow cho Linh. Linh là thực tập sinh lần đầu đi onsite, học để khỏi lúng túng giữa các tình huống đan xen (gặp CFO / vào phòng / chào hành lang / tình huống lỗi).
 
 ---
 
@@ -18,12 +18,16 @@ Tối trước khi đi onsite Tokyo, chị Hương phó phòng demo 4 loại bow
 
 | Vai | Câu |
 |---------|-----|
-| **リン** | （中村CFOへ会釈程度）「よろしくお願いします。」 |
-| **フオン副部長** | 「リン、CFO相手に15°は軽すぎ。初対面+CFOは45°最敬礼。」 |
-| **リン** | （謝罪 simulation も15°）「すみません！」 |
-| **フオン副部長** | 「謝罪も15°じゃダメ。重大ミスは90°、軽いミスは30°。角度=反省深さの signal。」 |
+| **リン** | （<ruby>中村<rt>なかむら</rt></ruby>CFOへ<ruby>会釈<rt>えしゃく</rt></ruby><ruby>程度<rt>ていど</rt></ruby>）「よろしくお<ruby>願<rt>ねが</rt></ruby>いします。」 |
+|  | *(cúi nhẹ kiểu xã giao với CFO Nakamura) Mong anh giúp đỡ ạ.* |
+| **フオン副部長** | 「リン、CFO<ruby>相手<rt>あいて</rt></ruby>に15°は<ruby>軽<rt>かる</rt></ruby>すぎ。<ruby>初対面<rt>しょたいめん</rt></ruby>+CFOは45°<ruby>最敬礼<rt>さいけいれい</rt></ruby>。」 |
+|  | *Linh, gặp CFO mà 15° là quá nhẹ. Lần đầu + đối tượng CFO = phải 45° saikeirei (cúi sâu kính cẩn).* |
+| **リン** | （<ruby>謝罪<rt>しゃざい</rt></ruby> simulation も15°）「すみません！」 |
+|  | *(tập xin lỗi cũng 15°) Em xin lỗi!* |
+| **フオン副部長** | 「<ruby>謝罪<rt>しゃざい</rt></ruby>も15°じゃダメ。<ruby>重大<rt>じゅうだい</rt></ruby>ミスは90°、<ruby>軽<rt>かる</rt></ruby>いミスは30°。<ruby>角度<rt>かくど</rt></ruby>=<ruby>反省<rt>はんせい</rt></ruby><ruby>深<rt>ふか</rt></ruby>さの signal。」 |
+|  | *Xin lỗi mà 15° cũng không được. Sai nặng = 90°, sai nhẹ = 30°. Góc cúi = dấu hiệu độ ăn năn.* |
 
-**Vì sao xấu:** (1) Chào CFO bằng 15° = quá nhẹ, thất lễ. (2) Xin lỗi cũng 15° = không có vẻ ăn năn. (3) Bow giống nhau cho mọi tình huống = không truyền được nhiệt và mức nghiêm túc. Khách Nhật đọc "góc cúi" = đọc "temperature".
+**Vì sao xấu:** (1) Chào CFO bằng 15° = quá nhẹ, thất lễ. (2) Xin lỗi cũng 15° = không có vẻ ăn năn. (3) Bow giống nhau cho mọi tình huống = không truyền được nhiệt và mức nghiêm túc. Khách Nhật đọc "góc cúi" = đọc "độ nhiệt thành".
 
 ---
 
@@ -31,15 +35,24 @@ Tối trước khi đi onsite Tokyo, chị Hương phó phòng demo 4 loại bow
 
 | Vai | Câu |
 |---------|-----|
-| **フオン副部長** | 「リン、お辞儀は4種類。場面で使い分ける。実演するから真似してね。」 |
-| **フオン副部長** | （15°、約1秒）「これが会釈。廊下ですれ違い・朝の挨拶。」【1】 |
-| **リン** | （15°真似）「はい、おはようございます。」 |
-| **フオン副部長** | （30°、約2-3秒）「これが敬礼。打合せ入退室・初対面同等職位。」【2】 |
-| **リン** | （30°真似、ゆっくり戻す）「よろしくお願いいたします。」 |
-| **フオン副部長** | （45°、約3-4秒）「これが最敬礼。CFO・社長・初対面の重要顧客に。」【3】 |
-| **リン** | （45°真似、深く静かに）「初めまして、リンと申します。」 |
-| **フオン副部長** | （90°、3秒以上）「これが謝罪お辞儀。重大ミス時のみ。普段の場面では絶対しない。」【4】 |
-| **リン** | 「わかりました。明日CFOへの初対面は45°、お部屋の出入りは30°、廊下挨拶は15°ですね。」 |
+| **フオン副部長** | 「リン、お<ruby>辞儀<rt>じぎ</rt></ruby>は4<ruby>種類<rt>しゅるい</rt></ruby>。<ruby>場面<rt>ばめん</rt></ruby>で<ruby>使<rt>つか</rt></ruby>い<ruby>分<rt>わ</rt></ruby>ける。<ruby>実演<rt>じつえん</rt></ruby>するから<ruby>真似<rt>まね</rt></ruby>してね。」 |
+|  | *Linh, bow có 4 loại. Tùy tình huống mà dùng. Chị làm mẫu, em theo nhé.* |
+| **フオン副部長** | （15°、<ruby>約<rt>やく</rt></ruby>1<ruby>秒<rt>びょう</rt></ruby>）「これが<ruby>会釈<rt>えしゃく</rt></ruby>。<ruby>廊下<rt>ろうか</rt></ruby>ですれ<ruby>違<rt>ちが</rt></ruby>い・<ruby>朝<rt>あさ</rt></ruby>の<ruby>挨拶<rt>あいさつ</rt></ruby>。」【1】 |
+|  | *(15°, khoảng 1 giây) Đây là eshaku. Đi qua hành lang, chào sáng.* |
+| **リン** | （15°<ruby>真似<rt>まね</rt></ruby>）「はい、おはようございます。」 |
+|  | *(bắt chước 15°) Vâng, chào buổi sáng.* |
+| **フオン副部長** | （30°、約2-3秒）「これが<ruby>敬礼<rt>けいれい</rt></ruby>。<ruby>打合<rt>うちあわ</rt></ruby>せ<ruby>入退室<rt>にゅうたいしつ</rt></ruby>・<ruby>初対面<rt>しょたいめん</rt></ruby><ruby>同等<rt>どうとう</rt></ruby><ruby>職位<rt>しょくい</rt></ruby>。」【2】 |
+|  | *(30°, khoảng 2-3 giây) Đây là keirei. Vào/ra phòng họp, gặp lần đầu cùng cấp.* |
+| **リン** | （30°真似、ゆっくり<ruby>戻<rt>もど</rt></ruby>す）「よろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。」 |
+|  | *(bắt chước 30°, ngẩng từ từ) Mong anh chị giúp đỡ ạ.* |
+| **フオン副部長** | （45°、約3-4秒）「これが<ruby>最敬礼<rt>さいけいれい</rt></ruby>。CFO・<ruby>社長<rt>しゃちょう</rt></ruby>・<ruby>初対面<rt>しょたいめん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>顧客<rt>こきゃく</rt></ruby>に。」【3】 |
+|  | *(45°, khoảng 3-4 giây) Đây là saikeirei. Dùng với CFO, GĐ, khách quan trọng lần đầu gặp.* |
+| **リン** | （45°真似、<ruby>深<rt>ふか</rt></ruby>く<ruby>静<rt>しず</rt></ruby>かに）「<ruby>初<rt>はじ</rt></ruby>めまして、リンと<ruby>申<rt>もう</rt></ruby>します。」 |
+|  | *(bắt chước 45°, sâu và lặng) Em là Linh, lần đầu gặp anh ạ.* |
+| **フオン副部長** | （90°、3秒以上）「これが<ruby>謝罪<rt>しゃざい</rt></ruby>お<ruby>辞儀<rt>じぎ</rt></ruby>。<ruby>重大<rt>じゅうだい</rt></ruby>ミス<ruby>時<rt>じ</rt></ruby>のみ。<ruby>普段<rt>ふだん</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>では<ruby>絶対<rt>ぜったい</rt></ruby>しない。」【4】 |
+|  | *(90°, 3+ giây) Đây là bow xin lỗi. Chỉ dùng khi sai nặng. Tình huống bình thường tuyệt đối không bow vậy.* |
+| **リン** | 「わかりました。<ruby>明日<rt>あした</rt></ruby>CFOへの<ruby>初対面<rt>しょたいめん</rt></ruby>は45°、お<ruby>部屋<rt>へや</rt></ruby>の<ruby>出入<rt>でい</rt></ruby>りは30°、<ruby>廊下<rt>ろうか</rt></ruby><ruby>挨拶<rt>あいさつ</rt></ruby>は15°ですね。」 |
+|  | *Em hiểu rồi. Mai gặp CFO lần đầu = 45°, vào/ra phòng = 30°, chào hành lang = 15° ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**15° 会釈 (eshaku)** — đi qua nhau ở hành lang, chào nhẹ trong cty, chào sáng đồng nghiệp. Cúi 1 giây rồi ngẩng. Dùng trong cùng cty.
@@ -63,7 +76,7 @@ Tối trước khi đi onsite Tokyo, chị Hương phó phòng demo 4 loại bow
 - 90° cho lời xin lỗi nhẹ — làm khách hoảng / ngại
 - Cúi đầu nhanh, ngẩng nhanh — thiếu thành ý
 - Cúi nửa người (gập eo nhưng đầu vẫn ngẩng) — không phải bow Nhật
-- Dùng cùng góc cho mọi tình huống — không truyền được "temperature"
+- Dùng cùng góc cho mọi tình huống — không truyền được "độ nhiệt thành"
 
 ---
 

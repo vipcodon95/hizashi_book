@@ -99,7 +99,7 @@ Ngày 25/7/2024. Tenjin Matsuri — top 3 lễ hội Nhật, top 1 Osaka, 1000 n
 | Yatai-san | いらっしゃい！たこ<ruby>焼<rt>や</rt></ruby>き、<ruby>祭<rt>まつ</rt></ruby>り<ruby>限定<rt>げんてい</rt></ruby>で<ruby>8<rt>はっ</rt></ruby><ruby>個<rt>こ</rt></ruby><ruby>500<rt>ごひゃく</rt></ruby><ruby>円<rt>えん</rt></ruby>やで！<br>*(Chào! Takoyaki, đặc biệt lễ hội 8 viên 500 yên đây!)* |
 | Đại | すみません、たこ<ruby>焼<rt>や</rt></ruby>き<ruby>3<rt>みっ</rt></ruby>つください。<br>*(Cho tôi 3 phần takoyaki.)* |
 | Yatai-san | <ruby>3<rt>みっ</rt></ruby>つやな、<ruby>1500<rt>せんごひゃく</rt></ruby><ruby>円<rt>えん</rt></ruby>。<ruby>少々<rt>しょうしょう</rt></ruby>お<ruby>待<rt>ま</rt></ruby>ち！<br>*(3 phần à, 1500 yên. Đợi chút nhé!)* |
-| Đại | あの、<ruby>青<rt>あお</rt></ruby>のりとマヨネーズはおかけしますか？<br>*(Dạ, có rắc rong biển xanh và mayonnaise không ạ?)* |
+| Đại | あの、<ruby>青<rt>あお</rt></ruby>のりとマヨネーズはかけてもらえますか？<br>*(Dạ, cho cháu xin rắc rong biển xanh và mayonnaise được không ạ?)* |
 | Yatai-san | <ruby>全部<rt>ぜんぶ</rt></ruby>のせるで！それが<ruby>大阪流<rt>おおさかりゅう</rt></ruby>や！<br>*(Cho hết! Đó là kiểu Osaka đó!)* |
 | Đại | （<ruby>食<rt>た</rt></ruby>べる）あつっ！でも<ruby>美味<rt>おい</rt></ruby>しい！<br>*(Ăn. Nóng quá! Nhưng ngon!)* |
 | Sumi | <ruby>祭<rt>まつ</rt></ruby>りで<ruby>食<rt>た</rt></ruby>べると<ruby>特別<rt>とくべつ</rt></ruby><ruby>美味<rt>おい</rt></ruby>しいね！<br>*(Ăn ở lễ hội thấy đặc biệt ngon nhỉ!)* |
@@ -113,9 +113,9 @@ Ngày 25/7/2024. Tenjin Matsuri — top 3 lễ hội Nhật, top 1 Osaka, 1000 n
 | Yifan | ダイ<ruby>君<rt>くん</rt></ruby>、あの<ruby>担<rt>かつ</rt></ruby>いでるやつ<ruby>何<rt>なに</rt></ruby>？<br>*(Đại, cái người ta khiêng kia là gì thế?)* |
 | Đại | あれは<ruby>御輿<rt>みこし</rt></ruby>です。<ruby>神様<rt>かみさま</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶ<ruby>移動式<rt>いどうしき</rt></ruby>の<ruby>神社<rt>じんじゃ</rt></ruby>と<ruby>聞<rt>き</rt></ruby>きました。<br>*(Đó là mikoshi. Nghe nói là đền di động dùng để rước thần.)* |
 | Sumi | <ruby>担<rt>かつ</rt></ruby>ぐ<ruby>人<rt>ひと</rt></ruby>、<ruby>何<rt>なん</rt></ruby><ruby>人<rt>にん</rt></ruby>いますか？<br>*(Người khiêng bao nhiêu người?)* |
-| Đại | <ruby>1<rt>いっ</rt></ruby>つの<ruby>御輿<rt>みこし</rt></ruby>に<ruby>30<rt>さんじゅう</rt></ruby><ruby>人<rt>にん</rt></ruby>ぐらい。<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>1000<rt>せん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>近<rt>ちか</rt></ruby>く<ruby>参加<rt>さんか</rt></ruby>するそうです。<br>*(Mỗi mikoshi khoảng 30 người. Toàn bộ gần 1000 người tham gia thì phải.)* |
+| Đại | <ruby>1<rt>ひと</rt></ruby>つの<ruby>御輿<rt>みこし</rt></ruby>に<ruby>30<rt>さんじゅう</rt></ruby><ruby>人<rt>にん</rt></ruby>ぐらい。<ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>1000<rt>せん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>近<rt>ちか</rt></ruby>く<ruby>参加<rt>さんか</rt></ruby>するそうです。<br>*(Mỗi mikoshi khoảng 30 người. Toàn bộ gần 1000 người tham gia thì phải.)* |
 | Aung | ベトナムにも<ruby>同<rt>おな</rt></ruby>じようなお<ruby>祭<rt>まつ</rt></ruby>りはありますか？<br>*(Việt Nam có lễ tương tự không?)* |
-| Đại | <ruby>北部<rt>ほくぶ</rt></ruby>に「<ruby>鬪寺<rt>とうじ</rt></ruby>のお<ruby>祭<rt>まつ</rt></ruby>り」というのがあって、<ruby>神様<rt>かみさま</rt></ruby>を<ruby>輿<rt>こし</rt></ruby>で<ruby>運<rt>はこ</rt></ruby>びます。でも<ruby>規模<rt>きぼ</rt></ruby>は<ruby>天神祭<rt>てんじんまつり</rt></ruby>のほうがずっと<ruby>大<rt>おお</rt></ruby>きいです。<br>*(Ở miền Bắc có "Hội chùa Tó/Dâu" rước kiệu thần. Nhưng quy mô Tenjin Matsuri lớn hơn nhiều.)* |
+| Đại | <ruby>北部<rt>ほくぶ</rt></ruby>に「<ruby>寺<rt>てら</rt></ruby>のお<ruby>祭<rt>まつ</rt></ruby>り」というのがあって、<ruby>神様<rt>かみさま</rt></ruby>を<ruby>輿<rt>こし</rt></ruby>で<ruby>運<rt>はこ</rt></ruby>びます。でも<ruby>規模<rt>きぼ</rt></ruby>は<ruby>天神祭<rt>てんじんまつり</rt></ruby>のほうがずっと<ruby>大<rt>おお</rt></ruby>きいです。<br>*(Ở miền Bắc có lễ hội chùa, rước kiệu thần. Nhưng quy mô Tenjin Matsuri lớn hơn nhiều.)* |
 | Yifan | <ruby>面白<rt>おもしろ</rt></ruby>い！<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>媽祖<rt>まそ</rt></ruby><ruby>祭<rt>まつ</rt></ruby>りに<ruby>似<rt>に</rt></ruby>てる。<br>*(Hay! Giống lễ Mã Tổ của TQ.)* |
 
 ---
@@ -226,7 +226,7 @@ Ngày 25/7/2024. Tenjin Matsuri — top 3 lễ hội Nhật, top 1 Osaka, 1000 n
 
 ## Đọng lại chương 7
 
-Đại trải nghiệm Tenjin Matsuri đầu tiên trong đời — 1000 năm lịch sử, top 3 lễ hội Nhật. Đi cùng 5 quốc tịch (VN-TQ-HQ-Myanmar) tạo thành kỷ niệm liên văn hoá. Học được **mẫu rủ rê** (〜に行きませんか), **mẫu hỏi đường** (〜はどう行けばいいですか・〜はどこですか), **mẫu thuê dịch vụ** (〜をお願いします・〜は何分かかりますか), **mẫu gọi yatai** (これ〜つください・〜はおかけしますか), **mẫu hỏi văn hoá lạ** (あれは何ですか・〜とは何ですか), **mẫu xin lỗi khi làm bẩn** (申し訳ありません・追加料金はいくらですか), **mẫu cảm ơn lúc nhận giúp đỡ** (助かります・勉強になりました). Bonus học từ vựng văn hoá lễ hội Nhật: 御輿・篝火・船渡御・陸渡御・奉納花火・屋台・下駄・帯・着付け. Khoảnh khắc bờ sông Okawa với hanabi định hình cảm xúc "đây là Nhật anh muốn học".
+Đại trải nghiệm Tenjin Matsuri đầu tiên trong đời — 1000 năm lịch sử, top 3 lễ hội Nhật. Đi cùng 5 quốc tịch (VN-TQ-HQ-Myanmar) tạo thành kỷ niệm liên văn hoá. Học được **mẫu rủ rê** (〜に行きませんか), **mẫu hỏi đường** (〜はどう行けばいいですか・〜はどこですか), **mẫu thuê dịch vụ** (〜をお願いします・〜は何分かかりますか), **mẫu gọi yatai** (これ〜つください・〜はかけてもらえますか), **mẫu hỏi văn hoá lạ** (あれは何ですか・〜とは何ですか), **mẫu xin lỗi khi làm bẩn** (申し訳ありません・追加料金はいくらですか), **mẫu cảm ơn lúc nhận giúp đỡ** (助かります・勉強になりました). Bonus học từ vựng văn hoá lễ hội Nhật: 御輿・篝火・船渡御・陸渡御・奉納花火・屋台・下駄・帯・着付け. Khoảnh khắc bờ sông Okawa với hanabi định hình cảm xúc "đây là Nhật anh muốn học".
 
 > Từ vựng & mẫu câu chương này: 天神祭・大阪三大夏祭り・大阪天満宮・陸渡御・船渡御・奉納花火・御輿・篝火・大川・河川敷・屋台・たこ焼き・青のり・ゆかた・着付け・下駄・小幅で歩く・帯・〜に行きませんか・〜はどう行けばいいですか・〜はどこですか・〜をお願いします・〜は何分かかりますか・これ〜つください・あれは何ですか・〜とは何ですか・申し訳ありません・追加料金・助かります・勉強になりました・約束
 
@@ -235,7 +235,7 @@ Ngày 25/7/2024. Tenjin Matsuri — top 3 lễ hội Nhật, top 1 Osaka, 1000 n
 - **Top 3 lễ Nhật**: Yamada-sensei giới thiệu trong lớp — tự nhiên dẫn vào.
 - **5 quốc tịch một nhóm**: Đặc trưng trường tiếng — kỷ niệm liên văn hoá.
 - **Hỏi đường ông cụ Osaka**: Osaka-ben `〜やで`・`〜わ` — khác Tokyo, ấm áp.
-- **「〜はおかけしますか」**: Yatai-san hỏi cực lịch sự, không phải Tokyo-only.
+- **「〜はかけてもらえますか」**: Mẫu khách nhờ yatai-san rắc topping (rong biển/mayonnaise) một cách lịch sự — đúng vai khách nhờ người bán.
 - **Geta khó đi**: Chi tiết thực — bước nhỏ, đau chân, đó là một phần của lễ hội.
 - **Vết sốt takoyaki**: Tình huống thật — Đại lo "tsuika ryoukin" (phí thêm), staff hiền.
 - **Hứa lại sang năm**: Pattern lễ hội Nhật — Tenjin 25/7 cố định, cả nhóm hứa quay lại.

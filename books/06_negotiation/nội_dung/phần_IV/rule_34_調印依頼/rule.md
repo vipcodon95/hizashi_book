@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Final contract v3 sau 3 round terms negotiation đã OK. Hà CTO ký bên Tiên Phát. Bây giờ Dũng request 大垣 ký bên 白鷗. Kickoff dự kiến 7/1 → cần ký xong 6/25.
+Final contract v3 sau 3 vòng đàm phán điều khoản đã OK. Hà CTO ký bên Tiên Phát. Bây giờ Dũng mời 大垣 ký bên 白鷗. Kickoff dự kiến 7/1 → cần ký xong 6/25.
 
 ---
 
@@ -18,12 +18,16 @@ Final contract v3 sau 3 round terms negotiation đã OK. Hà CTO ký bên Tiên 
 
 | | Vai | Câu (mail) |
 |--|---------|-----|
-| **L1** | (件名:「契約書」) **ズン** | 「大垣様、契約書を添付しました。サインお願いします。」 |
-| **L2** | (3 週間沈黙) **ズン** *(焦)* | 「大垣様、その後いかがでしょうか？」 |
-| **L3** | **大垣** | 「ズン様、優先順位として social engineer 案件が走っており、契約書は来月見ます。」 |
-| **L4** | **ズン** *(キックオフ delay)* | (キックオフ 7/1 → 7/22 後ろ倒し決定) |
+| **L1** | (件名:「<ruby>契約書<rt>けいやくしょ</rt></ruby>」) **ズン** | 「大垣様、<ruby>契約書<rt>けいやくしょ</rt></ruby>を<ruby>添付<rt>てんぷ</rt></ruby>しました。サインお<ruby>願<rt>ねが</rt></ruby>いします。」 |
+| | | *Tiêu đề 'Hợp đồng' — Anh Ōgaki, em đính kèm hợp đồng ạ. Anh ký giúp em.* |
+| **L2** | (3 <ruby>週間<rt>しゅうかん</rt></ruby><ruby>沈黙<rt>ちんもく</rt></ruby>) **ズン** *(焦)* | 「大垣様、その<ruby>後<rt>ご</rt></ruby>いかがでしょうか？」 |
+| | | *(Sau 3 tuần im lặng) Anh Ōgaki, bên anh thế nào rồi ạ?* |
+| **L3** | **大垣** | 「ズン様、<ruby>優先順位<rt>ゆうせんじゅんい</rt></ruby>として social engineer <ruby>案件<rt>あんけん</rt></ruby>が<ruby>走<rt>はし</rt></ruby>っており、<ruby>契約書<rt>けいやくしょ</rt></ruby>は<ruby>来月<rt>らいげつ</rt></ruby><ruby>見<rt>み</rt></ruby>ます。」 |
+| | | *Anh Dũng, ưu tiên hiện tại bên anh đang chạy vụ social engineer, hợp đồng tháng sau anh xem.* |
+| **L4** | **ズン** *(キックオフ delay)* | (キックオフ 7/1 → 7/22 <ruby>後<rt>うし</rt></ruby>ろ<ruby>倒<rt>だお</rt></ruby>し<ruby>決定<rt>けってい</rt></ruby>) |
+| | | *(Kickoff 7/1 → quyết định lùi 7/22)* |
 
-**Vì sao xấu:** (a) 件名 「契約書」 — không urgency, archive bottom, (b) 「サイン」 casual với business JP, (c) không deadline → khách de-prioritize, (d) follow-up muộn. Project delay 3 週間 = ¥1.5M margin loss.
+**Vì sao xấu:** (a) 件名 「契約書」 — không tạo cảm giác gấp, dễ bị trôi xuống đáy hòm thư, (b) 「サイン」 không trang trọng với business JP, (c) không deadline → khách hạ ưu tiên, (d) follow-up muộn. Dự án trễ 3 週間 = mất ¥1.5M lợi nhuận.
 
 ---
 
@@ -31,18 +35,24 @@ Final contract v3 sau 3 round terms negotiation đã OK. Hà CTO ký bên Tiên 
 
 | | Vai | Câu (mail) |
 |--|---------|-----|
-| **L1** | (件名:「【ご捺印のお願い】Phase 3 業務委託契約書 (キックオフ 7/1 予定)」) **ズン** | 「大垣様、いつもお世話になっております。」 |
-| **L2** | **ズン** *(本文)* | 「Phase 3 業務委託契約書 final 版が両社合意に至りましたので、お送りいたします。**つきましては、ご署名・ご捺印いただけますでしょうか**【1】。」 |
-| **L3** | **ズン** | 「**キックオフを 7 月 1 日に予定**しているため、**6 月 25 日 (水) までに**ご捺印頂けますと幸いです【2】。」 |
-| **L4** | **ズン** | 「方法は、(a) eSignature (DocuSign リンク添付)、または (b) 紙原本郵送 (本日中に発送可能) のいずれかをお選びいただけます【3】。ご都合のよろしい方をお知らせください。」 |
-| **L5** | (翌日) **大垣** | 「ズン様、迅速なご手配ありがとうございます。eSignature で進めさせていただきます。本日午後に処理いたします。」 |
-| **L6** | (16:30) **DocuSign 完了通知** → **ズン** *(Slack Hương)* | 「Phase 3 契約締結完了しました。Hà CTO + 大垣様 両社捺印済【4】。」 |
+| **L1** | (件名:「【ご<ruby>捺印<rt>なついん</rt></ruby>のお<ruby>願<rt>ねが</rt></ruby>い】Phase 3 <ruby>業務委託契約書<rt>ぎょうむいたくけいやくしょ</rt></ruby> (キックオフ 7/1 <ruby>予定<rt>よてい</rt></ruby>)」) **ズン** | 「大垣様、いつもお<ruby>世話<rt>せわ</rt></ruby>になっております。」 |
+| | | *Tiêu đề 'Kính nhờ đóng dấu — Hợp đồng Phase 3 (kickoff 7/1)' — Anh Ōgaki, em vẫn luôn được anh giúp đỡ ạ.* |
+| **L2** | **ズン** *(本文)* | 「Phase 3 <ruby>業務委託契約書<rt>ぎょうむいたくけいやくしょ</rt></ruby> final <ruby>版<rt>ばん</rt></ruby>が<ruby>両社<rt>りょうしゃ</rt></ruby><ruby>合意<rt>ごうい</rt></ruby>に<ruby>至<rt>いた</rt></ruby>りましたので、お<ruby>送<rt>おく</rt></ruby>りいたします。**つきましては、ご<ruby>署名<rt>しょめい</rt></ruby>・ご<ruby>捺印<rt>なついん</rt></ruby>いただけますでしょうか**【1】。」 |
+| | | *Hợp đồng Phase 3 bản final đã đạt đồng thuận giữa hai bên, em xin gửi anh. Phiền anh ký và đóng dấu giúp em ạ.* |
+| **L3** | **ズン** | 「**キックオフを 7 <ruby>月<rt>がつ</rt></ruby> 1 <ruby>日<rt>にち</rt></ruby>に<ruby>予定<rt>よてい</rt></ruby>**しているため、**6 <ruby>月<rt>がつ</rt></ruby> 25 <ruby>日<rt>にち</rt></ruby> (<ruby>水<rt>すい</rt></ruby>) までに**ご<ruby>捺印<rt>なついん</rt></ruby><ruby>頂<rt>いただ</rt></ruby>けますと<ruby>幸<rt>さいわ</rt></ruby>いです【2】。」 |
+| | | *Vì kickoff dự kiến ngày 1/7, em rất mong anh đóng dấu trước thứ Tư 25/6 ạ.* |
+| **L4** | **ズン** | 「<ruby>方法<rt>ほうほう</rt></ruby>は、(a) eSignature (DocuSign リンク<ruby>添付<rt>てんぷ</rt></ruby>)、または (b) <ruby>紙<rt>かみ</rt></ruby><ruby>原本<rt>げんぽん</rt></ruby><ruby>郵送<rt>ゆうそう</rt></ruby> (<ruby>本日<rt>ほんじつ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>発送<rt>はっそう</rt></ruby><ruby>可能<rt>かのう</rt></ruby>) のいずれかをお<ruby>選<rt>えら</rt></ruby>びいただけます【3】。ご<ruby>都合<rt>つごう</rt></ruby>のよろしい<ruby>方<rt>ほう</rt></ruby>をお<ruby>知<rt>し</rt></ruby>らせください。」 |
+| | | *Về phương thức, anh có thể chọn: (a) eSignature (link DocuSign đính kèm) hoặc (b) gửi bản giấy gốc (em có thể chuyển phát trong ngày). Anh chọn cách nào tiện cho anh thì báo lại giúp em ạ.* |
+| **L5** | (翌日) **大垣** | 「ズン様、<ruby>迅速<rt>じんそく</rt></ruby>なご<ruby>手配<rt>てはい</rt></ruby>ありがとうございます。eSignature で<ruby>進<rt>すす</rt></ruby>めさせていただきます。<ruby>本日<rt>ほんじつ</rt></ruby><ruby>午後<rt>ごご</rt></ruby>に<ruby>処理<rt>しょり</rt></ruby>いたします。」 |
+| | | *Anh Dũng, cảm ơn em đã chuẩn bị nhanh. Bên tôi đi theo eSignature. Chiều nay tôi xử lý.* |
+| **L6** | (16:30) **DocuSign <ruby>完了通知<rt>かんりょうつうち</rt></ruby>** → **ズン** *(Slack Hương)* | 「Phase 3 <ruby>契約<rt>けいやく</rt></ruby><ruby>締結<rt>ていけつ</rt></ruby><ruby>完了<rt>かんりょう</rt></ruby>しました。Hà CTO + 大垣様 <ruby>両社<rt>りょうしゃ</rt></ruby><ruby>捺印済<rt>なついんずみ</rt></ruby>【4】。」 |
+| | | *Hợp đồng Phase 3 ký xong rồi ạ. Anh Hà CTO + anh Ōgaki cả 2 bên đã đóng dấu ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**「ご署名・ご捺印いただけますでしょうか」** = 調印依頼の決まり文句. 「サイン」 không trang trọng (casual) NG.
+- 【1】**「ご署名・ご捺印いただけますでしょうか」** = 調印依頼の決まり文句. 「サイン」 không trang trọng → NG.
 - 【2】**Deadline 明示 + 理由 (キックオフ日)** = 急かしではなく合理的. 期限 1 週間以上余裕を持つ.
-- 【3】**2 method 提示** = 紙印鑑文化と eSignature 普及の混在期。選ばせると自分の都合で動ける.
-- 【4】**両社捺印済 = closure**. 内部 Slack で完了報告 → rule 37 internal kickoff へ.
+- 【3】**Đưa 2 phương án (2 method 提示)** = 紙印鑑文化と eSignature 普及の混在期。選ばせると自分の都合で動ける.
+- 【4】**両社捺印済 = khép thương vụ**. 内部 Slack で完了報告 → rule 37 kickoff nội bộ へ.
 
 ---
 
@@ -50,7 +60,7 @@ Final contract v3 sau 3 round terms negotiation đã OK. Hà CTO ký bên Tiên 
 
 > **「ご署名・ご捺印いただけますでしょうか + キックオフ日逆算 deadline + 2 method 提示 = 調印依頼の標準。」**
 >
-> *Câu formal + deadline logic ngược từ kickoff + 2 phương án = signature request chuẩn.*
+> *Câu formal + deadline tính ngược từ kickoff + 2 phương án = lời mời ký chuẩn.*
 
 ---
 

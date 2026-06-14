@@ -1,6 +1,6 @@
 # Rule 15 — Chốt mục tiêu output cuộc họp / 本日のゴール確認
 
-> **Luận điểm.** Sau khi giới thiệu agenda + phân vai, 司会 chốt **「本日のゴール」**: cuối họp phải **quyết được cái gì** (1-3 mục cụ thể, có thể action). Goal không rõ = họp xong "trao đổi tốt nhỉ" mà không quyết được gì.
+> **Luận điểm.** Sau khi giới thiệu agenda + phân vai, người điều phối chốt **「本日のゴール」**: cuối họp phải **quyết được cái gì** (1-3 mục cụ thể, có thể hành động). Mục tiêu không rõ = họp xong "trao đổi tốt nhỉ" mà không quyết được gì.
 >
 > 議題前に『本日決めたいのは〇〇』と goal を明示。1〜3個に絞る。決定事項として議事録に記録できる粒度で書く。
 >
@@ -10,36 +10,44 @@
 
 ## Bối cảnh / 場面
 
-司会 Dũng đã làm xong rules 09-14. Trước議題 1, chốt mục tiêu để tất cả thống nhất hướng đi.
+Người điều phối Dũng đã làm xong rules 09-14. Trước議題 1, chốt mục tiêu để tất cả thống nhất hướng đi.
 
 ---
 
-## ❌ Hội thoại XẤU — goal vague
+## ❌ Hội thoại XẤU — mục tiêu mơ hồ
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「本日は皆様で意見交換させていただければと思います。」 |
-| **大垣** | 「ズンさん、本日 何を decide したいのか教えていただけますか。」 |
-| **ズン** | 「えーと、進捗確認と、できれば 5月のスコープも…」 |
-| **大垣** | 「『できれば』ですか…明確に決めたい点は？」 |
+| **ズン** | 「本日は<ruby>皆様<rt>みなさま</rt></ruby>で<ruby>意見交換<rt>いけんこうかん</rt></ruby>させていただければと思います。」 |
+|  | *Hôm nay em mong được trao đổi ý kiến cùng quý anh chị ạ.* |
+| **大垣** | 「ズンさん、本日 何を<ruby>決<rt>き</rt></ruby>めたいのか<ruby>教<rt>おし</rt></ruby>えていただけますか。」 |
+|  | *Dũng à, hôm nay muốn quyết cái gì thì cho anh biết được không?* |
+| **ズン** | 「えーと、<ruby>進捗確認<rt>しんちょくかくにん</rt></ruby>と、できれば 5月のスコープも…」 |
+|  | *Ờ thì... xác nhận tiến độ, và nếu được thì cả scope tháng 5...* |
+| **大垣** | 「『できれば』ですか…<ruby>明確<rt>めいかく</rt></ruby>に決めたい<ruby>点<rt>てん</rt></ruby>は？」 |
+|  | *'Nếu được' à... vậy điểm muốn quyết rõ là gì?* |
 
-**Vì sao xấu:** "意見交換" = "trao đổi ý kiến" nghe tốt nhưng không có output. "できれば" = chần chừ. Khách Nhật cấp cao luôn hỏi "quyết cái gì" → vague = không chuẩn bị.
+**Vì sao xấu:** "意見交換" = "trao đổi ý kiến" nghe tốt nhưng không có kết quả cụ thể. "できれば" = chần chừ. Khách Nhật cấp cao luôn hỏi "quyết cái gì" → mơ hồ = không chuẩn bị.
 
 ---
 
-## ✅ Hội thoại TỐT — goal cụ thể, 2 mục
+## ✅ Hội thoại TỐT — mục tiêu cụ thể, 2 mục
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「本日のゴールを2点ご共有させていただきます【1】。」 |
-| **ズン** | 「1点目、5月開発スコープの合意。2点目、次回会議日程の決定でございます【2】。」 |
-| **ズン** | 「この2点を本日の議事録に決定事項として記録できる状態に持っていく、というのが本日のゴールです【3】。」 |
-| **大垣 / 松本** | 「明確で良いですね。承知しました。」 |
+| **ズン** | 「本日のゴールを2<ruby>点<rt>てん</rt></ruby>ご<ruby>共有<rt>きょうゆう</rt></ruby>させていただきます【1】。」 |
+|  | *Em xin chia sẻ 2 mục tiêu của hôm nay ạ.* |
+| **ズン** | 「1点目、5月<ruby>開発<rt>かいはつ</rt></ruby>スコープの<ruby>合意<rt>ごうい</rt></ruby>。2点目、<ruby>次回会議日程<rt>じかいかいぎにってい</rt></ruby>の<ruby>決定<rt>けってい</rt></ruby>でございます【2】。」 |
+|  | *Điểm 1: thống nhất scope phát triển tháng 5. Điểm 2: quyết ngày buổi họp tiếp ạ.* |
+| **ズン** | 「この2点を本日の<ruby>議事録<rt>ぎじろく</rt></ruby>に<ruby>決定事項<rt>けっていじこう</rt></ruby>として<ruby>記録<rt>きろく</rt></ruby>できる<ruby>状態<rt>じょうたい</rt></ruby>に<ruby>持<rt>も</rt></ruby>っていく、というのが本日のゴールです【3】。」 |
+|  | *Đưa được 2 điểm này vào biên bản hôm nay dưới dạng quyết định — đó là goal của hôm nay ạ.* |
+| **大垣 / 松本** | 「明確で<ruby>良<rt>よ</rt></ruby>いですね。<ruby>承知<rt>しょうち</rt></ruby>しました。」 |
+|  | *Rõ ràng, tốt đấy. Tôi hiểu rồi ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**「ゴールを〇点ご共有」** — 「ゴール」 (kata-katakana) hơn 「目標」 vì context business JP hiện đại.
-- 【2】Goal phải có động từ: **合意 / 決定 / 確認**. Tránh động từ vague như 共有 / 検討.
-- 【3】**「議事録に決定事項として記録できる状態」** — định nghĩa goal qua "ghi vào biên bản được". Khái niệm tactical, khách Nhật rất thích.
+- 【1】**「ゴールを〇点ご共有」** — 「ゴール」 (katakana) hơn 「目標」 vì hợp bối cảnh business JP hiện đại.
+- 【2】Mục tiêu phải có động từ: **合意 / 決定 / 確認**. Tránh động từ mơ hồ như 共有 / 検討.
+- 【3】**「議事録に決定事項として記録できる状態」** — định nghĩa mục tiêu qua "ghi vào biên bản được". Khái niệm thực chiến, khách Nhật rất thích.
 
 ---
 
@@ -47,13 +55,13 @@
 
 > **「本日のゴールは〇〇 — 議事録に書ける粒度で。」**
 >
-> *Goal hôm nay là 〇〇 — viết được vào biên bản dạng decision.*
+> *Mục tiêu hôm nay là 〇〇 — viết được vào biên bản dạng quyết định.*
 
 ---
 
-## 💡 Format goal chuẩn
+## 💡 Định dạng mục tiêu chuẩn
 
-| ❌ Vague | ✅ Cụ thể |
+| ❌ Mơ hồ | ✅ Cụ thể |
 |---------|----------|
 | Phase 2 について話す | Phase 2 のスコープを **合意** する |
 | 進捗を共有する | 4月の delay 2 件への **対応策を決定** する |
@@ -64,10 +72,10 @@
 
 ## ⚠ Tránh
 
-- Goal vague: 「意見交換」「進捗共有」「検討」 → không quyết được.
-- Quá nhiều goal (>3) → 60分 không đủ.
-- Goal không action-able: 「Phase 2 について理解する」 → không đo được.
-- Goal lệch agenda → khách lúng túng.
+- Mục tiêu mơ hồ: 「意見交換」「進捗共有」「検討」 → không quyết được.
+- Quá nhiều mục tiêu (>3) → 60分 không đủ.
+- Mục tiêu không thể hành động: 「Phase 2 について理解する」 → không đo được.
+- Mục tiêu lệch agenda → khách lúng túng.
 
 ---
 

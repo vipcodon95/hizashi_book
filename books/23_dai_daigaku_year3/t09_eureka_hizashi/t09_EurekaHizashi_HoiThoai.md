@@ -93,7 +93,7 @@ Tháng 11/2028. Mùa thu Osaka, lá phong đỏ rực ở công viên Senri. Đ�
 | Inoue | グエンくん、どうぞ。<ruby>卒研<rt>そつけん</rt></ruby>テーマは<ruby>決<rt>き</rt></ruby>まりましたか？<br>*(Vào đi. Đề tài tốt nghiệp quyết chưa?)* |
 | Đại | はい、<ruby>決<rt>き</rt></ruby>まりました。テーマは「Hizashi」――ベトナム<ruby>人<rt>じん</rt></ruby><ruby>向<rt>む</rt></ruby>けの<ruby>適応的<rt>てきおうてき</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby><ruby>学習<rt>がくしゅう</rt></ruby>システムです。<br>*(Tên Hizashi — hệ thống học tiếng Nhật thích ứng cho người Việt.)* |
 | Inoue | <ruby>動機<rt>どうき</rt></ruby>を<ruby>聞<rt>き</rt></ruby>かせてください。<br>*(Cho thầy nghe động lực.)* |
-| Đại | <ruby>妻<rt>つま</rt></ruby>、<ruby>従妹<rt>いとこ</rt></ruby>、ベトナムの<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>、<ruby>後輩<rt>こうはい</rt></ruby>――この4<ruby>人<rt>にん</rt></ruby>が<ruby>同<rt>おな</rt></ruby>じ<ruby>問題<rt>もんだい</rt></ruby>を<ruby>抱<rt>かか</rt></ruby>えています。「<ruby>説明<rt>せつめい</rt></ruby>がベトナム<ruby>語<rt>ご</rt></ruby>ではない」――この<ruby>市場<rt>しじょう</rt></ruby>のギャップを<ruby>埋<rt>う</rt></ruby>めたいんです。<br>*(Bốn người cùng vấn đề: thiếu giải thích tiếng Việt. Cháu muốn lấp khoảng trống thị trường này.)* |
+| Đại | <ruby>妻<rt>つま</rt></ruby>、<ruby>妹<rt>いもうと</rt></ruby>、ベトナムの<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>、<ruby>後輩<rt>こうはい</rt></ruby>――この4<ruby>人<rt>にん</rt></ruby>が<ruby>同<rt>おな</rt></ruby>じ<ruby>問題<rt>もんだい</rt></ruby>を<ruby>抱<rt>かか</rt></ruby>えています。「<ruby>説明<rt>せつめい</rt></ruby>がベトナム<ruby>語<rt>ご</rt></ruby>ではない」――この<ruby>市場<rt>しじょう</rt></ruby>のギャップを<ruby>埋<rt>う</rt></ruby>めたいんです。<br>*(Bốn người cùng vấn đề: thiếu giải thích tiếng Việt. Cháu muốn lấp khoảng trống thị trường này.)* |
 | Inoue | <ruby>技術<rt>ぎじゅつ</rt></ruby>スタックは？<br>*(Stack kỹ thuật?)* |
 | Đại | Flutter モバイルアプリ、FastAPI バックエンド、PostgreSQL に pgvector を<ruby>追加<rt>ついか</rt></ruby>、Claude API でチューターを<ruby>実装<rt>じっそう</rt></ruby>します。RAG で<ruby>文法<rt>ぶんぽう</rt></ruby><ruby>説明<rt>せつめい</rt></ruby>を<ruby>検索<rt>けんさく</rt></ruby>します。<br>*(Flutter + FastAPI + Postgres pgvector + Claude API. RAG cho giải thích ngữ pháp.)* |
 | Inoue | <ruby>目的<rt>もくてき</rt></ruby>が<ruby>明確<rt>めいかく</rt></ruby>で、<ruby>動機<rt>どうき</rt></ruby>も<ruby>強<rt>つよ</rt></ruby>い、<ruby>市場<rt>しじょう</rt></ruby>ニーズもあります。<ruby>正式<rt>せいしき</rt></ruby>に<ruby>承認<rt>しょうにん</rt></ruby>します。<br>*(Mục tiêu rõ, động lực mạnh, có nhu cầu thị trường. Thầy chính thức phê duyệt.)* |
@@ -210,7 +210,7 @@ Một tuần đổi đời. Đại học được mẫu câu báo cáo 卒研テ
 |---|---|---|---|
 | 文法 | ぶんぽう | VĂN PHÁP | Ngữ pháp |
 | 後輩 | こうはい | HẬU BỐI | Đàn em |
-| 従妹 | いとこ | TÒNG MUỘI | Em họ gái |
+| 妹 | いもうと | MUỘI | Em gái |
 | 近所 | きんじょ | CẬN SỞ | Hàng xóm |
 | 抱える | かかえる | BÃO | Mang vác, gánh |
 | 市場 | しじょう | THỊ TRƯỜNG | Thị trường |

@@ -20,12 +20,16 @@ Sau soft transition (rule 17), Dũng vào phase 価格. Tuấn whisper "để h�
 
 | Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「ズン、こっちが先に値段出すと足元見られる。先に向こうに言わせよう。」 |
-| **ズン** | 「では大垣様、Phase 3 の **予算感はおいくらでしたら検討可能でしょうか**？」 |
-| **大垣** | 「我々の希望は ¥14M 程度です。」 |
+| **トゥアン** | 「ズン、こっちが<ruby>先<rt>さき</rt></ruby>に<ruby>値段<rt>ねだん</rt></ruby><ruby>出<rt>だ</rt></ruby>すと<ruby>足元<rt>あしもと</rt></ruby>を<ruby>見<rt>み</rt></ruby>られる。<ruby>先<rt>さき</rt></ruby>に<ruby>向<rt>む</rt></ruby>こうに<ruby>言<rt>い</rt></ruby>わせよう。」 |
+|  | *Dũng, mình quote trước là bị bắt thóp. Để bên kia quote trước đi.* |
+| **ズン** | 「では<ruby>大垣<rt>おおがき</rt></ruby>様、Phase 3 の **<ruby>予算感<rt>よさんかん</rt></ruby>はおいくらでしたら<ruby>検討<rt>けんとう</rt></ruby><ruby>可能<rt>かのう</rt></ruby>でしょうか**？」 |
+|  | *Vậy thưa anh Ōgaki, cảm giác ngân sách Phase 3 ở mức nào thì quý cty xem xét được ạ?* |
+| **大垣** | 「<ruby>我々<rt>われわれ</rt></ruby>の<ruby>希望<rt>きぼう</rt></ruby>は ¥14M <ruby>程度<rt>ていど</rt></ruby>です。」 |
+|  | *Mong muốn bên tôi tầm ¥14M.* |
 | **ズン** | 「えっ、¥14M ですか…」 |
+|  | *Ơ, ¥14M ạ...* |
 
-**Vì sao xấu:** Dũng đã có ZOPA mapping (rule 02) — biết ceiling ¥17M. Để khách go first → khách anchor low ¥14M → "anchor war" không có lợi cho mình. Lúc này phải go first ¥19M để pull median lên ~¥17-18M.
+**Vì sao xấu:** Dũng đã có ZOPA mapping (rule 02) — biết trần ¥17M. Để khách go first → khách anchor thấp ¥14M → "anchor war" không có lợi cho mình. Lúc này phải go first ¥19M để kéo điểm giữa lên ~¥17-18M.
 
 ---
 
@@ -35,11 +39,16 @@ Sau soft transition (rule 17), Dũng vào phase 価格. Tuấn whisper "để h�
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「価格について、本日 3 段階でご提案させていただいております。**まずは Better tier — ¥18M、Anchor として Best tier ¥24M も併せて**【1】、ご検討の materialとしてお持ちしました。」 |
-| **ズン** | 「**¥18M の根拠は**、Phase 2 比 +24%、AI レコメンドエンジンの開発工数 + 専任 PM + SLA 99.9% を含めた構成。**御社の +¥80M GMV インパクトに対し ROI 4.4 倍**【2】に位置します。」 |
+| **ズン** | 「<ruby>価格<rt>かかく</rt></ruby>について、<ruby>本日<rt>ほんじつ</rt></ruby> 3 <ruby>段階<rt>だんかい</rt></ruby>でご<ruby>提案<rt>ていあん</rt></ruby>させていただいております。**まずは Better tier — ¥18M、Anchor として Best tier ¥24M も<ruby>併<rt>あわ</rt></ruby>せて**【1】、ご<ruby>検討<rt>けんとう</rt></ruby>の materialとしてお<ruby>持<rt>も</rt></ruby>ちしました。」 |
+|  | *Về giá, hôm nay em đề xuất 3-tier ạ. Trước hết là Better tier ¥18M, kèm Best tier ¥24M làm anchor, em mang theo làm material để quý anh xem xét ạ.* |
+| **ズン** | 「**¥18M の<ruby>根拠<rt>こんきょ</rt></ruby>は**、Phase 2 <ruby>比<rt>ひ</rt></ruby> +24%、AI レコメンドエンジンの<ruby>開発<rt>かいはつ</rt></ruby><ruby>工数<rt>こうすう</rt></ruby> + <ruby>専任<rt>せんにん</rt></ruby> PM + SLA 99.9% を<ruby>含<rt>ふく</rt></ruby>めた<ruby>構成<rt>こうせい</rt></ruby>。**<ruby>御社<rt>おんしゃ</rt></ruby>の +¥80M GMV インパクトに<ruby>対<rt>たい</rt></ruby>し ROI 4.4 <ruby>倍<rt>ばい</rt></ruby>**【2】に<ruby>位置<rt>いち</rt></ruby>します。」 |
+|  | *Cơ sở ¥18M: tăng 24% so Phase 2, gồm dev AI recommend engine + PM chuyên trách + SLA 99.9%. So với impact +¥80M GMV của quý cty, ROI ở mức 4.4 lần ạ.* |
 | **大垣** | 「…¥18M ですね。」 |
-| **ズン** | (沈黙) |
-| **大垣** | 「悪くない数字ですが、社内で議論が必要です。」 |
+|  | *...¥18M nhỉ.* |
+| **ズン** | (<ruby>沈黙<rt>ちんもく</rt></ruby>) |
+|  | *(im lặng)* |
+| **大垣** | 「<ruby>悪<rt>わる</rt></ruby>くない<ruby>数字<rt>すうじ</rt></ruby>ですが、<ruby>社内<rt>しゃない</rt></ruby>で<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。」 |
+|  | *Con số không tệ, nhưng cần thảo luận nội bộ.* |
 
 📝 **Ghi chú:**
 - 【1】**Anchor 構造**: 出 Better (target) + Best (high anchor). 両方見せると Better が "現実解" に見える (rule 06 連携).
@@ -59,9 +68,9 @@ Sau soft transition (rule 17), Dũng vào phase 価格. Tuấn whisper "để h�
 
 ## ⚠ Tránh
 
-- Go first khi ZOPA chưa map → anchor sai cả ceiling lẫn floor
-- Quote anchor mà không kèm root cause → khách dễ thấy "vô lý"
-- Sau anchor, lập tức nói thêm để lấp im lặng → kill anchoring effect (rule 25)
+- Go first khi ZOPA chưa map → anchor sai cả trần lẫn sàn
+- Quote anchor mà không kèm cơ sở → khách dễ thấy "vô lý"
+- Sau anchor, lập tức nói thêm để lấp im lặng → triệt tiêu hiệu ứng anchoring (rule 25)
 - Để khách quote trước rồi mới ra anchor cao hơn — vẫn có hiệu lực nhưng yếu hơn 30-50%
 
 ---

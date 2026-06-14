@@ -9,7 +9,11 @@
     "ja": "60分会議の58分時点でアジェンダ2/3完了。ズン司会が時間切れ宣言→決定済み確認→積み残し+次回スロット提案の3ステップで締める場面。",
     "vi": "Họp 60 phút, phút 58 mới xong 2/3 agenda. Dũng chủ trì đóng họp 3 bước: báo hết giờ → confirm quyết định → carry-forward + đề slot mới."
   },
-  "related_rules": ["rule_16", "rule_32", "rule_43"],
+  "related_rules": [
+    "rule_16",
+    "rule_32",
+    "rule_43"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -78,7 +82,9 @@
           "sentence": "お時間が来てしまいましたので、本日はここまでとさせていただきます。",
           "sentence_translation": "Đã đến giờ rồi nên hôm nay em xin dừng tại đây ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_42_good_02",
@@ -88,7 +94,9 @@
           "sentence": "【決定済み】本日決定したのは、Phase 2スコープA案、リリース7月末、責任者はトゥアンリーダー、の3点でございます。",
           "sentence_translation": "[Đã quyết] Hôm nay mình chốt 3 điểm: scope phase 2 phương án A, release cuối tháng 7, người phụ trách là anh Tuấn ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_42_good_03",
@@ -98,7 +106,9 @@
           "sentence": "【積み残し】残るスケジュール詳細とコスト試算につきましては、別途打合せにてご相談させていただきます。来週水曜午後で30分のお時間頂戴できますでしょうか？",
           "sentence_translation": "[Còn lại] Phần chi tiết schedule và tính cost em xin được bàn ở buổi riêng ạ. Anh dành cho em 30 phút chiều thứ Tư tuần sau được không ạ?",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_42_good_04",
@@ -146,12 +156,12 @@
       "skill": "場面把握",
       "question_ja": "会議終了2分前、議題が3分の2しか終わっていない。司会の最善対応は？",
       "options": [
+        "全議題終わるまで強行",
         "「もう少し続けましょうか」と聞く",
-        "「お時間が来ましたので、本日はここまで。決定済みは〇、積み残しは〇月〇日に」と3ステップで締める",
         "勝手に延長する",
-        "全議題終わるまで強行"
+        "「お時間が来ましたので、本日はここまで。決定済みは〇、積み残しは〇月〇日に」と3ステップで締める"
       ],
-      "correct": "B",
+      "correct": "D",
       "explanation": {
         "ja": "時間→決定済み確認→積み残し+次回スロットの3ステップで締めるのが顧客の予定を尊重する標準。",
         "vi": "Time → confirm decisions → carry-forward + slot mới = chuẩn tôn trọng lịch khách."

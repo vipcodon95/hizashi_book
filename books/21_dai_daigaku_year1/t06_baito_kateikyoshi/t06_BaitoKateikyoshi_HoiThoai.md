@@ -55,7 +55,7 @@ Hè 7-8/2026, kỳ nghỉ 8 tuần đầu tiên của Đại ở ĐH Osaka. Sau 
 | Tanaka (PreSchool) | グエン・ヴァン・ダイさんですね。<ruby>本日<rt>ほんじつ</rt></ruby>はよろしくお<ruby>願<rt>ねが</rt></ruby>いします。<br>*(Anh Nguyễn Thanh Đại đúng không. Hôm nay nhờ anh nhé.)* |
 | Đại | はい、よろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。<br>*(Vâng, em xin nhờ chị.)* |
 | Tanaka | <ruby>自己紹介<rt>じこしょうかい</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。<br>*(Anh tự giới thiệu nhé.)* |
-| Đại | <ruby>大阪大学<rt>おおさかだいがく</rt></ruby><ruby>情報科学部<rt>じょうほうかがくぶ</rt></ruby><ruby>1<rt>いち</rt></ruby><ruby>年生<rt>ねんせい</rt></ruby>のグエン・ヴァン・ダイです。<ruby>専門<rt>せんもん</rt></ruby>はアルゴリズムと Python、AtCoder<ruby>茶色<rt>ちゃいろ</rt></ruby>です。<br>*(Em là Nguyễn Thanh Đại, năm 1 khoa CNTT ĐH Osaka. Chuyên về thuật toán và Python, AtCoder Brown.)* |
+| Đại | <ruby>大阪大学<rt>おおさかだいがく</rt></ruby><ruby>情報科学科<rt>じょうほうかがくか</rt></ruby><ruby>1<rt>いち</rt></ruby><ruby>年生<rt>ねんせい</rt></ruby>のグエン・ヴァン・ダイです。<ruby>専門<rt>せんもん</rt></ruby>はアルゴリズムと Python、AtCoder<ruby>茶色<rt>ちゃいろ</rt></ruby>です。<br>*(Em là Nguyễn Văn Đại, năm 1 khoa Khoa học Thông tin ĐH Osaka. Chuyên về thuật toán và Python, AtCoder Brown.)* |
 | Tanaka | <ruby>日本語<rt>にほんご</rt></ruby>は N2 でよろしいですか?<br>*(Tiếng Nhật N2 đúng không?)* |
 | Đại | はい、<ruby>昨年<rt>さくねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>に N2 を<ruby>取得<rt>しゅとく</rt></ruby>しました。N1 は<ruby>来年<rt>らいねん</rt></ruby><ruby>受<rt>う</rt></ruby>けます。<br>*(Vâng, tháng 12 năm ngoái em đỗ N2. N1 năm sau em thi.)* |
 | Tanaka | <ruby>担当<rt>たんとう</rt></ruby>できる<ruby>言語<rt>げんご</rt></ruby>は?<br>*(Ngôn ngữ phụ trách được?)* |
@@ -200,7 +200,7 @@ Hè 7-8/2026, kỳ nghỉ 8 tuần đầu tiên của Đại ở ĐH Osaka. Sau 
 | Yumi | （<ruby>笑<rt>わら</rt></ruby>う）<ruby>嘘<rt>うそ</rt></ruby>でしょう! ダイ<ruby>君<rt>くん</rt></ruby>、お<ruby>世辞<rt>せじ</rt></ruby><ruby>上手<rt>じょうず</rt></ruby>になったね。<br>*(Cười. Nói dối! Đại khéo nịnh thật.)* |
 | Đại | <ruby>家庭教師<rt>かていきょうし</rt></ruby>でコミュニケーション<ruby>力<rt>りょく</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がりました。<br>*(Làm gia sư nên kỹ năng giao tiếp tăng đó.)* |
 | Tony | マイちゃんは<ruby>元気<rt>げんき</rt></ruby>か?<ruby>結婚式<rt>けっこんしき</rt></ruby>はいつ?<br>*(Mai khoẻ không? Đám cưới bao giờ?)* |
-| Đại | <ruby>来年<rt>らいねん</rt></ruby>の<ruby>2月<rt>にがつ</rt></ruby>です。ハノイで。<br>*(Tháng 2 năm sau ạ. Ở Hà Nội.)* |
+| Đại | <ruby>来年<rt>らいねん</rt></ruby>の<ruby>1月<rt>いちがつ</rt></ruby>です。ハノイで。<br>*(Tháng 1 năm sau ạ. Ở Hà Nội.)* |
 | Yumi | <ruby>絶対<rt>ぜったい</rt></ruby><ruby>呼<rt>よ</rt></ruby>んでね! <ruby>結婚<rt>けっこん</rt></ruby>のお<ruby>祝<rt>いわ</rt></ruby>いに<ruby>行<rt>い</rt></ruby>く!<br>*(Nhất định mời nhé! Cô đi mừng cưới!)* |
 
 ---
@@ -262,7 +262,7 @@ Hè 7-8/2026, kỳ nghỉ 8 tuần đầu tiên của Đại ở ĐH Osaka. Sau 
 | 応援 | おうえん | ỨNG VIỆN | ủng hộ |
 | 祝い | いわい | CHÚC | chúc mừng |
 | 自己紹介 | じこしょうかい | TỰ KỶ THIỆU GIỚI | tự giới thiệu |
-| 情報科学部 | じょうほうかがくぶ | TÌNH BÁO KHOA HỌC BỘ | khoa CNTT |
+| 情報科学科 | じょうほうかがくか | TÌNH BÁO KHOA HỌC KHOA | khoa Khoa học Thông tin (thuộc 基礎工学部 ĐH Osaka) |
 | 専門 | せんもん | CHUYÊN MÔN | chuyên môn |
 | 昨年 | さくねん | TẠC NIÊN | năm ngoái |
 | 言語 | げんご | NGÔN NGỮ | ngôn ngữ |

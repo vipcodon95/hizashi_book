@@ -20,13 +20,18 @@ Dũng + Tuấn lần đầu đi onsite Tokyo cho 白鷗 office tại Shinjuku, P
 
 | Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「ズン、明日の白鷗 onsite、住所どこだっけ？」 |
-| **ズン** | 「えっ、まだ確認してない？田中PMOにメール送ったか？」 |
-| **トゥアン** | 「あ、まだ。今日中に送る。あとスーツは…ジャケットだけでいいよね？」 |
-| **ズン** | 「**白鷗本社は CFO 同席だぞ。スーツ濃紺+ネクタイ必須**。お土産は？」 |
-| **トゥアン** | 「えっ、お土産も？空港で買えばいいかな…」 |
+| **トゥアン** | 「ズン、明日の<ruby>白鷗<rt>はくおう</rt></ruby> onsite、<ruby>住所<rt>じゅうしょ</rt></ruby>どこだっけ？」 |
+|  | *Dũng, onsite 白鷗 mai địa chỉ ở đâu nhỉ?* |
+| **ズン** | 「えっ、まだ<ruby>確認<rt>かくにん</rt></ruby>してない？<ruby>田中<rt>たなか</rt></ruby>PMOにメール<ruby>送<rt>おく</rt></ruby>ったか？」 |
+|  | *Hả, chưa confirm à? Đã gửi mail anh Tanaka PMO chưa?* |
+| **トゥアン** | 「あ、まだ。<ruby>今日中<rt>きょうじゅう</rt></ruby>に送る。あとスーツは…ジャケットだけでいいよね？」 |
+|  | *À chưa. Hôm nay gửi. Còn suit thì... jacket thôi được nhỉ?* |
+| **ズン** | 「**<ruby>白鷗<rt>はくおう</rt></ruby><ruby>本社<rt>ほんしゃ</rt></ruby>は CFO <ruby>同席<rt>どうせき</rt></ruby>だぞ。スーツ<ruby>濃紺<rt>のうこん</rt></ruby>+ネクタイ<ruby>必須<rt>ひっす</rt></ruby>**。お<ruby>土産<rt>みやげ</rt></ruby>は？」 |
+|  | *Trụ sở 白鷗 có CFO ngồi cùng đó. Bắt buộc suit đậm + cravate. Còn omiyage?* |
+| **トゥアン** | 「えっ、お<ruby>土産<rt>みやげ</rt></ruby>も？<ruby>空港<rt>くうこう</rt></ruby>で<ruby>買<rt>か</rt></ruby>えばいいかな…」 |
+|  | *Ơ, cả omiyage à? Hay là mua tại sân bay nhỉ...* |
 
-**Vì sao xấu:** D-1 17:00 mà chưa confirm địa chỉ + outfit + omiyage = miss multiple lanes. Mai sáng confirm = Tanaka PMO không kịp prep phòng + receptionist guide. Outfit "ジャケットだけ" với CFO meeting = lộ không chuyên nghiệp.
+**Vì sao xấu:** D-1 17:00 mà chưa confirm địa chỉ + trang phục + omiyage = thiếu cùng lúc nhiều mục. Sáng mai mới confirm = Tanaka PMO không kịp chuẩn bị phòng + dặn lễ tân đón. Trang phục "ジャケットだけ" với meeting có CFO = lộ không chuyên nghiệp.
 
 ---
 
@@ -36,15 +41,20 @@ Dũng + Tuấn lần đầu đi onsite Tokyo cho 白鷗 office tại Shinjuku, P
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「トゥアン、明日の白鷗 onsite チェックリスト共有しよう。」 |
-| **トゥアン** | 「① **田中PMOへ確認メール送信済**【1】 (10時到着・私とズン2名・名刺準備済) ② **スーツ濃紺+白シャツ+紺ネクタイ**【2】 ③ **ルート: ホテル→新宿駅→白鷗本社 徒歩7分、buffer 30分**【3】 ④ **ICカード Suica チャージ済+現金1万**【4】 ⑤ **お土産: ベトナムコーヒー(高級ブランド)6箱**【5】。」 |
-| **ズン** | 「完璧。田中PMOからの返信は？」 |
-| **トゥアン** | 「**『10時にロビーでお迎えします』** とのこと。受付で『白鷗株式会社 田中様、約束のティエンファットのトゥアンとズンです』と申告予定。」 |
-| **ズン** | 「OK。明朝 9:00 ホテル ロビー集合。」 |
+| **ズン** | 「トゥアン、明日の<ruby>白鷗<rt>はくおう</rt></ruby> onsite チェックリスト<ruby>共有<rt>きょうゆう</rt></ruby>しよう。」 |
+|  | *Tuấn, mình share checklist onsite 白鷗 mai đi.* |
+| **トゥアン** | 「① **<ruby>田中<rt>たなか</rt></ruby>PMOへ<ruby>確認<rt>かくにん</rt></ruby>メール<ruby>送信済<rt>そうしんずみ</rt></ruby>**【1】 (10<ruby>時<rt>じ</rt></ruby><ruby>到着<rt>とうちゃく</rt></ruby>・<ruby>私<rt>わたし</rt></ruby>とズン2<ruby>名<rt>めい</rt></ruby>・<ruby>名刺<rt>めいし</rt></ruby><ruby>準備済<rt>じゅんびずみ</rt></ruby>) ② **スーツ<ruby>濃紺<rt>のうこん</rt></ruby>+<ruby>白<rt>しろ</rt></ruby>シャツ+<ruby>紺<rt>こん</rt></ruby>ネクタイ**【2】 ③ **ルート: ホテル→<ruby>新宿駅<rt>しんじゅくえき</rt></ruby>→<ruby>白鷗<rt>はくおう</rt></ruby><ruby>本社<rt>ほんしゃ</rt></ruby> <ruby>徒歩<rt>とほ</rt></ruby>7<ruby>分<rt>ふん</rt></ruby>、buffer 30<ruby>分<rt>ぷん</rt></ruby>**【3】 ④ **ICカード Suica チャージ<ruby>済<rt>ずみ</rt></ruby>+<ruby>現金<rt>げんきん</rt></ruby>1<ruby>万<rt>まん</rt></ruby>**【4】 ⑤ **お<ruby>土産<rt>みやげ</rt></ruby>: ベトナムコーヒー(<ruby>高級<rt>こうきゅう</rt></ruby>ブランド)6<ruby>箱<rt>はこ</rt></ruby>**【5】。」 |
+|  | *① Mail confirm Tanaka PMO đã gửi (10h đến, anh+Dũng 2 người, danh thiếp xong). ② Suit xanh đậm + áo trắng + cravate xanh. ③ Route: hotel → ga Shinjuku → trụ sở 白鷗 đi bộ 7p, dự phòng 30p. ④ Suica đã charge + cash 1 man. ⑤ Omiyage: cà phê VN cao cấp 6 hộp.* |
+| **ズン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。<ruby>田中<rt>たなか</rt></ruby>PMOからの<ruby>返信<rt>へんしん</rt></ruby>は？」 |
+|  | *Hoàn hảo. Tanaka PMO reply chưa?* |
+| **トゥアン** | 「**『10<ruby>時<rt>じ</rt></ruby>にロビーでお<ruby>迎<rt>むか</rt></ruby>えします』** とのこと。<ruby>受付<rt>うけつけ</rt></ruby>で『<ruby>白鷗<rt>はくおう</rt></ruby><ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby> <ruby>田中<rt>たなか</rt></ruby><ruby>様<rt>さま</rt></ruby>、<ruby>約束<rt>やくそく</rt></ruby>のティエンファットのトゥアンとズンです』と<ruby>申告<rt>しんこく</rt></ruby><ruby>予定<rt>よてい</rt></ruby>。」 |
+|  | *Anh ấy nói '10h sẽ ra đón ở lobby'. Em sẽ trình lễ tân: 'Hẹn anh Tanaka Cty 白鷗, em là Tuấn và Dũng bên Tiên Phát'.* |
+| **ズン** | 「OK。<ruby>明朝<rt>みょうちょう</rt></ruby> 9:00 ホテル ロビー<ruby>集合<rt>しゅうごう</rt></ruby>。」 |
+|  | *OK. Sáng mai 9:00 tập trung lobby hotel.* |
 
 📝 **Ghi chú:**
 - 【1】**24h前確認メール** — confirm: 時間/人数/場所/agenda。Format: 「明日10時のお打ち合わせの件、ティエンファットのトゥアン・ズン2名でお伺いいたします。受付対応のご手配をお願いいたします」.
-- 【2】**Dress code** — JP 大手 default = suit đậm (濃紺 / 黒). Cravate đơn sắc. Áo trắng. Tránh: shirt màu / chỉ áo vest / chinos.
+- 【2】**Dress code** — JP 大手 default = suit đậm (濃紺 / 黒). Cravate đơn sắc. Áo trắng. Tránh: áo sơ mi màu / chỉ mặc áo vest / quần chinos.
 - 【3】**Route + 30 phút buffer** — Tokyo subway peak hour delay 5-15 phút thường. Calculate route + add 30 phút. Đến lobby trước 5-10 phút (rule 17).
 - 【4】**IC card + cash** — Suica/Pasmo charge sẵn. Cash 1 man yen cho taxi emergency. Card Visa nhiều shop nhỏ Tokyo không nhận.
 - 【5】**Omiyage** — chuẩn bị từ VN, KHÔNG mua tại sân bay Narita (giảm tâm). Brand uy tín, 6 hộp = 1 cho đoàn 大垣 + 1 cho 中村 + 1 cho 松本 + 1 cho 田中 + 2 buffer.
@@ -62,7 +72,7 @@ Dũng + Tuấn lần đầu đi onsite Tokyo cho 白鷗 office tại Shinjuku, P
 ## ⚠ Tránh
 
 - Confirm **D-1 evening** → senior khách JP đã off work, không reply kịp
-- **Jacket-only** / áo màu sáng / chinos cho meeting CFO → suit đậm
+- **Chỉ mặc áo vest** / áo màu sáng / quần chinos cho meeting có CFO → suit đậm
 - Route **không có buffer** → Tokyo delay = đến muộn = rule 17 fail
 - **Quên IC card** → mua tại ga sáng D = mất 10 phút trễ giờ
 - Mua **omiyage tại Narita** → khách nhận thấy = giảm tâm

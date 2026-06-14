@@ -25,7 +25,7 @@
 
 下記の通り代替候補を3つご提案させていただきます。ご都合の良い候補をご返信いただけますと幸いです。
 
-──────────────────────
+----------------------
 ■ 代替候補
   ① 〇月〇日(〇) 〇〇:〇〇〜〇〇:〇〇 (JST)
   ② 〇月〇日(〇) 〇〇:〇〇〜〇〇:〇〇 (JST)
@@ -33,7 +33,7 @@
 
 ■ 形式：〇〇（リンク：https://...）
 ■ アジェンダ：当初の通り（変更なし）
-──────────────────────
+----------------------
 
 ご都合よろしい候補が確定次第、当方にてカレンダー更新および新規招待をお送りいたします。
 会議室・Zoom リンクは変更不要です。
@@ -56,7 +56,7 @@ Em xin lỗi anh/chị ạ.
 
 Em xin đề xuất 3 phương án thay thế như dưới đây. Phiền anh/chị reply giúp em phương án thuận tiện ạ.
 
-──────────────────────
+----------------------
 [Phương án thay thế]
   ① 〇/〇 (〇) 〇:〇〇 - 〇:〇〇 (JST)
   ② 〇/〇 (〇) 〇:〇〇 - 〇:〇〇 (JST)
@@ -64,7 +64,7 @@ Em xin đề xuất 3 phương án thay thế như dưới đây. Phiền anh/ch
 
 [Hình thức] 〇〇 (link: https://...)
 [Agenda] Như ban đầu (không đổi)
-──────────────────────
+----------------------
 
 Ngay khi anh/chị chốt phương án, em sẽ update lịch và gửi invite mới ạ.
 Phòng họp và link Zoom không cần đổi ạ.
@@ -138,7 +138,7 @@ Em xin cảm ơn ạ.
 評価: A=完全実施 / B=概ね実施 / C=一部不足 / D=未実施
 判定: 必ず Slack履歴 + Decision Register + 客先メール の3点と照合
 
-──────────────────────────────────────────
+------------------------------------------
 ■ 報告 (Hōkoku) — 5項目
   □ ① 結論先出し: 報告冒頭で『結論:〇〇』と明示できているか?
   □ ② Fact / Opinion 分離: 『事実として〜』『私見では〜』を意識して使っているか?
@@ -160,7 +160,7 @@ Em xin cảm ơn ạ.
   □ ⑭ DR化: 相談で決まったことを Decision Register に1行残したか?
   □ ⑮ 客先敬語: 客への相談で『ご相談させていただけますでしょうか』を使えたか?
 
-──────────────────────────────────────────
+------------------------------------------
 【記録欄】
   - 評価分布: A〇 / B〇 / C〇 / D〇
   - C-D 評価の具体ケース:
@@ -180,7 +180,7 @@ Em xin cảm ơn ạ.
 Đánh giá: A = đầy đủ / B = cơ bản / C = thiếu một phần / D = chưa làm
 Xác định: BẮT BUỘC đối chiếu Slack history + Decision Register + mail khách
 
-──────────────────────────────────────────
+------------------------------------------
 [Báo cáo (Hōkoku) — 5 mục]
   [ ] [1] Kết luận trước: Mở báo cáo có 'Kết luận: 〇〇' rõ không?
   [ ] [2] Tách Fact/Opinion: Có ý thức dùng 'Sự thật là...' và 'Theo ý em...' không?
@@ -190,7 +190,7 @@ Xác định: BẮT BUỘC đối chiếu Slack history + Decision Register + ma
 
 [Liên lạc (Renraku) — 5 mục]
   [ ] [6] Tức thì: Liên lạc khách trong 24h ít nhất ack chưa?
-  [ ] [7] Tone với khách: Lúc khiếu nại có lắng nghe + lặp lại thay vì defensive không?
+  [ ] [7] Giọng với khách: Lúc khiếu nại có lắng nghe + lặp lại thay vì phòng thủ không?
   [ ] [8] Chọn channel: Có chia Slack/Notion/Email/Outlook theo từng việc không?
   [ ] [9] Chọn audience: @here / @channel / DM đã dùng đúng chưa?
   [ ] [10] EOD log: Ngày WFH có post EOD log lên Slack chưa?
@@ -202,7 +202,7 @@ Xác định: BẮT BUỘC đối chiếu Slack history + Decision Register + ma
   [ ] [14] DR hóa: Việc đã quyết có lưu 1 dòng vào Decision Register không?
   [ ] [15] Kính ngữ với khách: Tham vấn khách có dùng 'ご相談させていただけますでしょうか' không?
 
-──────────────────────────────────────────
+------------------------------------------
 [Mục ghi chép]
   - Phân bổ đánh giá: A〇 / B〇 / C〇 / D〇
   - Case cụ thể của C-D:
@@ -229,7 +229,7 @@ Facilitator: フオン副部長 (バックアップ: トゥアン)
 ツール: Notion ページ + Slack #retro 通知
 運用: 木曜EODまでに各自 KPT を pre-fill、金曜 16:00 から発表
 
-──────────────────────────────────────────
+------------------------------------------
 ■ ① Keep (今週うまくいったこと — 来週も継続)
   □ 〇〇 (具体的事案 + 数値があれば)
   □ 〇〇
@@ -246,7 +246,7 @@ Facilitator: フオン副部長 (バックアップ: トゥアン)
   □ 〇〇 ← Problem ② への対策
   □ 〇〇 ← 新しい挑戦 (Problem 由来でなくてOK)
 
-──────────────────────────────────────────
+------------------------------------------
 ■ ④ Action Items (Try を実行可能形式に)
   □ Action 1: 〇〇
      Owner: 〇〇
@@ -261,13 +261,13 @@ Facilitator: フオン副部長 (バックアップ: トゥアン)
   □ Action 3: 〇〇
      ...
 
-──────────────────────────────────────────
+------------------------------------------
 ■ ⑤ 先週 Action items の review (retro 冒頭で実施)
   □ 先週 Action 1 → 完了 / 進行中 / 未着手 → 理由
   □ 先週 Action 2 → 完了 / 進行中 / 未着手 → 理由
   □ 先週 Action 3 → 完了 / 進行中 / 未着手 → 理由
 
-──────────────────────────────────────────
+------------------------------------------
 【記録欄】
   - 出席者: 〇〇
   - 欠席者: 〇〇 (理由: 〇〇、catch-up: 〇〇)
@@ -284,7 +284,7 @@ Facilitator: chị Hương (backup: anh Tuấn)
 Tool: trang Notion + Slack #retro thông báo
 Vận hành: thứ Năm EOD mỗi người pre-fill KPT, thứ Sáu 16:00 present
 
-──────────────────────────────────────────
+------------------------------------------
 [1 Keep (Tuần này tốt — tuần sau giữ tiếp)]
   [ ] 〇〇 (case cụ thể + số nếu có)
   [ ] 〇〇
@@ -301,7 +301,7 @@ Vận hành: thứ Năm EOD mỗi người pre-fill KPT, thứ Sáu 16:00 presen
   [ ] 〇〇 ← Đối phó Problem [2]
   [ ] 〇〇 ← Thử nghiệm mới (không cần xuất phát từ Problem)
 
-──────────────────────────────────────────
+------------------------------------------
 [4 Action Items (Biến Try thành dạng thực thi được)]
   [ ] Action 1: 〇〇
      Owner: 〇〇
@@ -316,13 +316,13 @@ Vận hành: thứ Năm EOD mỗi người pre-fill KPT, thứ Sáu 16:00 presen
   [ ] Action 3: 〇〇
      ...
 
-──────────────────────────────────────────
+------------------------------------------
 [5 Review Action items tuần trước (làm đầu retro)]
   [ ] Action 1 tuần trước → Xong / Đang làm / Chưa khởi → Lý do
   [ ] Action 2 tuần trước → Xong / Đang làm / Chưa khởi → Lý do
   [ ] Action 3 tuần trước → Xong / Đang làm / Chưa khởi → Lý do
 
-──────────────────────────────────────────
+------------------------------------------
 [Mục ghi chép]
   - Có mặt: 〇〇
   - Vắng mặt: 〇〇 (lý do: 〇〇, catch-up: 〇〇)
@@ -577,10 +577,10 @@ Em xin cảm ơn ạ.
 *JP: 完了報告書（formal 7要素）テンプレート*
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 Phase 2 完了報告書
 （対象期間：2026年4月1日〜4月20日）
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 
 【宛先】
   主：白鷗株式会社 松本PM
@@ -593,14 +593,14 @@ Phase 2 完了報告書
 【作成者】
   ティエンファット社 営業部 〇〇
 
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 ■ 概要（Executive Summary）
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 Phase 2 を予定通り 4月20日に完了。納品物5点、検収完了。画面ロード時間 -67%、バグ件数 -70% を達成。Phase 3 着手は5月7日を提案。
 
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 ■ 詳細
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 1. 納品物一覧
    1-1. 要件定義書 v2.0
    1-2. 設計書 v1.3
@@ -612,14 +612,14 @@ Phase 2 を予定通り 4月20日に完了。納品物5点、検収完了。画�
 3. 振り返り（Lessons Learned）
    ...
 
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 ■ 結論・提言
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 Phase 2 を予定通り完了。Phase 3 は5月7日キックオフを提案。仕様確認手順を着手前必須化することを Phase 3 の運営ルールに追加したい。
 
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 ■ 添付資料
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
   1. 検収書（白鷗株式会社発行、2026年4月20日付）
   2. KPI ダッシュボード（PDF、v1.0）
   3. 第N回定例議事録（2026年4月18日）
@@ -630,10 +630,10 @@ Phase 2 を予定通り完了。Phase 3 は5月7日キックオフを提案。�
 **Bản Việt placeholder:**
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 Báo cáo hoàn thành Phase 2
 (Kỳ: 1/4/2026 - 20/4/2026)
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 
 [Người nhận]
   Chính: anh Matsumoto PM (Cty Hakuō)
@@ -646,14 +646,14 @@ Báo cáo hoàn thành Phase 2
 [Người lập]
   Phòng Kinh doanh, Thiên Phát — 〇〇
 
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 [Tổng quan (Executive Summary)]
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 Phase 2 hoàn thành đúng kế hoạch ngày 20/4. 5 deliverable, đã có nghiệm thu. Đạt -67% load time, -70% số bug. Đề xuất kick-off Phase 3 ngày 7/5.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 [Chi tiết]
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 1. Danh sách deliverable
    1-1. Tài liệu yêu cầu v2.0
    1-2. Tài liệu thiết kế v1.3
@@ -665,14 +665,14 @@ Phase 2 hoàn thành đúng kế hoạch ngày 20/4. 5 deliverable, đã có ngh
 3. Retrospective (Lessons Learned)
    ...
 
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 [Kết luận & Đề xuất]
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 Phase 2 hoàn thành đúng kế hoạch. Đề xuất kick-off Phase 3 ngày 7/5. Đề xuất thêm 'bắt buộc xác nhận spec trước khi bắt tay làm' vào quy tắc vận hành Phase 3.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
 [Tài liệu đính kèm]
-━━━━━━━━━━━━━━━━━━━━━━━━━
+-------------------------
   1. Văn bản nghiệm thu (Cty Hakuō phát hành, ngày 20/4/2026)
   2. KPI dashboard (PDF, v1.0)
   3. Biên bản họp định kỳ lần N (18/4/2026)
@@ -693,13 +693,13 @@ Hết.
 更新頻度: 週次（毎週金曜 EOD）
 命名規則: DR-YYYY-MMDD (例: DR-2026-0118)
 
-──────────────────────────────────────────
+------------------------------------------
 | ID            | 日付       | 論点                | 検討案                          | 採用案    | 理由 (1〜2行)                                       | 承認者                  | リスク / 留意点                  | ステータス   |
 |---------------|-----------|---------------------|--------------------------------|----------|-----------------------------------------------------|------------------------|--------------------------------|-------------|
 | DR-2026-0118  | 2026/1/18 | Phase 2 DB選定      | ①MySQL ②Postgres ③DynamoDB    | MySQL    | 松本様運用チームが経験豊富 + コスト低 + Phase 1連携容易 | ハーCTO + フオン副部長 | 水平分散時の制約                | 採用済      |
 | DR-2026-0224  | 2026/2/24 | API遅延対応         | ①クエリ最適化 ②Index ③Redis    | Index    | 半日で実装可 + コスト増なし + EXPLAIN で候補特定済    | トゥアンリーダー        | デプロイ時の lock 時間          | 採用済      |
 | DR-2026-0422  | 2026/4/22 | 印刷会社変更        | ①C社 ②D社 ③A社継続           | C社      | 納期遅れ1日のみ + コスト同等                          | ズン (フオン副部長承認) | C社初取引のため検収厳重         | 採用済      |
-──────────────────────────────────────────
+------------------------------------------
 
 【記入ルール】
 - 1相談1行。複数論点が絡む場合は分割。
@@ -717,13 +717,13 @@ Lưu trữ: Notion / Confluence / Google Sheets
 Tần suất cập nhật: hàng tuần (thứ Sáu EOD)
 Quy ước đặt tên: DR-YYYY-MMDD (vd: DR-2026-0118)
 
-──────────────────────────────────────────
+------------------------------------------
 | ID            | Ngày       | Luận điểm           | Options đã xét                 | Chọn      | Lý do (1-2 dòng)                                     | Người duyệt              | Risk / Ghi chú                  | Trạng thái  |
 |---------------|-----------|---------------------|--------------------------------|-----------|------------------------------------------------------|-------------------------|--------------------------------|-------------|
 | DR-2026-0118  | 18/1/2026 | Chọn DB Phase 2     | MySQL / Postgres / DynamoDB    | MySQL     | Team anh Matsumoto quen + cost thấp + dễ tích hợp Phase 1 | Hà CTO + chị Hương     | Hạn chế khi cần phân tán ngang | Đã chọn     |
 | DR-2026-0224  | 24/2/2026 | API chậm            | Tối ưu query / Index / Redis   | Index     | Nửa ngày xong + không tăng cost + đã EXPLAIN ra ứng viên | Tuấn (Tech Lead)        | Lock time khi deploy           | Đã chọn     |
 | DR-2026-0422  | 22/4/2026 | Đổi nhà in          | Nhà C / Nhà D / Tiếp nhà A    | Nhà C     | Chỉ trễ 1 ngày + cost tương đương                    | Dũng (chị Hương duyệt) | Lần đầu hợp tác C, nghiệm thu kỹ | Đã chọn     |
-──────────────────────────────────────────
+------------------------------------------
 
 [Quy tắc ghi]
 - 1 tham vấn = 1 dòng. Nếu có nhiều luận điểm thì tách dòng.
@@ -746,7 +746,7 @@ Last updated: 2026-04-25
 Culture sponsor: ハー CTO + フオン副部長
 Tech ritual owner: トゥアン Tech Lead
 
-──────────────────────────────────────────
+------------------------------------------
 ■ ① Rituals (定例)
   - 朝会 Slack #team-daily 毎平日 9:30 (DDBN format、5分)
   - 週次 retrospective 毎金曜 16:00-16:30 (Keep/Problem/Try)
@@ -781,7 +781,7 @@ Tech ritual owner: トゥアン Tech Lead
   - Day 61-90: 1人立ちタスク 1件、客先デビュー、自己診断 2回目
   - Day 90+: regular member、月次自己診断
 
-──────────────────────────────────────────
+------------------------------------------
 【Playbook の使い方】
   - 全 member 月初 5分で再読
   - 違反検知時はその場で Playbook §〇 を引用
@@ -795,10 +795,10 @@ Tech ritual owner: トゥアン Tech Lead
 ```
 [Thiên Phát Hou-Ren-Sou Playbook v1]
 Cập nhật: 25/4/2026
-Culture sponsor: anh Hà CTO + chị Hương
+Người bảo trợ văn hóa: anh Hà CTO + chị Hương
 Tech ritual owner: anh Tuấn Tech Lead
 
-──────────────────────────────────────────
+------------------------------------------
 [1 Rituals (định kỳ)]
   - Standup Slack #team-daily mỗi ngày làm việc 9:30 (format DDBN, 5 phút)
   - Retrospective hàng tuần thứ Sáu 16:00-16:30 (Keep/Problem/Try)
@@ -833,7 +833,7 @@ Tech ritual owner: anh Tuấn Tech Lead
   - Day 61-90: 1 task tự đứng, debut với khách, self-diagnostic lần 2
   - Day 90+: Member chính thức, self-diagnostic hàng tháng
 
-──────────────────────────────────────────
+------------------------------------------
 [Cách dùng Playbook]
   - Toàn bộ member đầu tháng dành 5 phút đọc lại
   - Phát hiện vi phạm thì trích §〇 Playbook ngay tại chỗ

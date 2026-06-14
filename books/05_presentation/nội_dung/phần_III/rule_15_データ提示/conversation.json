@@ -9,7 +9,11 @@
     "ja": "ズンが Phase 1/2/3 比較の3D円グラフ7色を作成、ハーCTOが棒グラフ＋出典明示に修正させる場面。",
     "vi": "Dũng làm 3D pie chart 7 màu so sánh Phase 1/2/3 — Hà CTO bắt sửa sang bar chart + ghi rõ nguồn."
   },
-  "related_rules": ["rule_02", "rule_04", "rule_17"],
+  "related_rules": [
+    "rule_02",
+    "rule_04",
+    "rule_17"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -98,7 +102,9 @@
           "sentence": "水平棒グラフに変更、3 phase 比較で 差異率 をX軸に。色は2色のみ(白鷗ブルー＋グレー)、Phase 3 のみアクセント。",
           "sentence_translation": "Em đổi sang horizontal bar ạ, so sánh 3 phase với trục X là tỷ lệ sai lệch. Chỉ 2 màu (xanh Hakuō + xám), riêng Phase 3 dùng accent.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_15_good_02",
@@ -117,7 +123,9 @@
           "sentence": "『出典: 2024年Q3〜Q4 弊社運用ログ集計、対象SKU=120、月次平均』と入れました。コールアウトは『Phase 2 で64%削減、Phase 3 で90%削減見込み』の1つだけ。",
           "sentence_translation": "Em đã ghi 「Nguồn: tổng hợp log vận hành Q3-Q4/2024, đối tượng SKU=120, trung bình tháng」 ạ. Callout chỉ 1 cái: 「Phase 2 giảm 64%, Phase 3 dự kiến giảm 90%」.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_15_good_04",
@@ -149,11 +157,11 @@
       "question_ja": "Phase 1, 2, 3 を比較するチャートとして最適なのは？",
       "options": [
         "3D pie chart 7色",
-        "横棒グラフ 2-3色",
+        "ワードクラウド",
         "ドーナツチャート",
-        "ワードクラウド"
+        "横棒グラフ 2-3色"
       ],
-      "correct": "B",
+      "correct": "D",
       "explanation": {
         "ja": "比較データは棒グラフ。3Dや多色は perception distortion + noise。",
         "vi": "Data so sánh dùng bar chart. 3D / nhiều màu = bóp méo + noise."

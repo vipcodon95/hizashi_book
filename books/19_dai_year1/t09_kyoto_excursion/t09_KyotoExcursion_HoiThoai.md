@@ -100,7 +100,7 @@ Tháng 11/2024. Trường Kansai Gogo Gakuin tổ chức **遠足** Kyoto một 
 | Đại | はい、<ruby>分<rt>わ</rt></ruby>かりました。<ruby>昼食<rt>ちゅうしょく</rt></ruby>は<ruby>各自<rt>かくじ</rt></ruby>ですか？<br>*(Vâng em rõ. Bữa trưa tự do ạ?)* |
 | Yamada | はい、<ruby>各自<rt>かくじ</rt></ruby>で<ruby>食<rt>た</rt></ruby>べてください。<ruby>京都<rt>きょうと</rt></ruby>の<ruby>名物<rt>めいぶつ</rt></ruby>は<ruby>湯豆腐<rt>ゆどうふ</rt></ruby>ですよ。<br>*(Vâng, mỗi em tự ăn. Đặc sản Kyoto là yu-doufu đấy.)* |
 | Yifan | ダイさん、<ruby>湯豆腐<rt>ゆどうふ</rt></ruby><ruby>食<rt>た</rt></ruby>べに<ruby>行<rt>い</rt></ruby>きませんか？<br>*(Đại ơi, mình đi ăn yu-doufu không?)* |
-| Đại | いいですね、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きましょう。リンさんと<ruby>南<rt>なん</rt></ruby><ruby>君<rt>くん</rt></ruby>も。<br>*(Hay đấy, cùng đi nhé. Cả Linh và Nam nữa.)* |
+| Đại | いいですね、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きましょう。リンさんとトゥアン<ruby>君<rt>くん</rt></ruby>も。<br>*(Hay đấy, cùng đi nhé. Cả Linh và Tuấn nữa.)* |
 
 ---
 
@@ -111,8 +111,8 @@ Tháng 11/2024. Trường Kansai Gogo Gakuin tổ chức **遠足** Kyoto một 
 | Vai | Lời thoại |
 |---|---|
 | Bà chủ | いらっしゃいませ！<ruby>何<rt>なん</rt></ruby><ruby>名様<rt>めいさま</rt></ruby>ですか？<br>*(Quý khách. Mấy vị ạ?)* |
-| Đại | <ruby>4<rt>よ</rt></ruby><ruby>名<rt>めい</rt></ruby>です。<ruby>湯豆腐<rt>ゆどうふ</rt></ruby><ruby>定食<rt>ていしょく</rt></ruby>を<ruby>4<rt>よっ</rt></ruby>つお<ruby>願<rt>ねが</rt></ruby>いします。<br>*(4 người ạ. Cho 4 set yu-doufu ạ.)* |
-| Bà chủ | はい、<ruby>湯豆腐<rt>ゆどうふ</rt></ruby><ruby>定食<rt>ていしょく</rt></ruby><ruby>4<rt>よん</rt></ruby><ruby>つ<rt></rt></ruby>ですね。<ruby>1<rt>いっ</rt></ruby><ruby>名<rt>めい</rt></ruby><ruby>様<rt>さま</rt></ruby><ruby>1100<rt>せんひゃく</rt></ruby><ruby>円<rt>えん</rt></ruby>です。<br>*(Vâng, 4 set yu-doufu. 1100 yên một suất.)* |
+| Đại | <ruby>4<rt>よん</rt></ruby><ruby>名<rt>めい</rt></ruby>です。<ruby>湯豆腐<rt>ゆどうふ</rt></ruby><ruby>定食<rt>ていしょく</rt></ruby>を<ruby>4<rt>よっ</rt></ruby>つお<ruby>願<rt>ねが</rt></ruby>いします。<br>*(4 người ạ. Cho 4 set yu-doufu ạ.)* |
+| Bà chủ | はい、<ruby>湯豆腐<rt>ゆどうふ</rt></ruby><ruby>定食<rt>ていしょく</rt></ruby><ruby>4<rt>よっ</rt></ruby>つですね。<ruby>1<rt>いち</rt></ruby><ruby>名<rt>めい</rt></ruby><ruby>様<rt>さま</rt></ruby><ruby>1100<rt>せんひゃく</rt></ruby><ruby>円<rt>えん</rt></ruby>です。<br>*(Vâng, 4 set yu-doufu. 1100 yên một suất.)* |
 | Tuấn | (tiếng Việt) Đắt thật. Mua 5 bữa Lawson được. |
 | Đại | (tiếng Việt) Kyoto giá du khách mà. Năm mới một lần. |
 | Bà chủ | (sau 10 phút mang ra) お<ruby>待<rt>ま</rt></ruby>たせいたしました。<ruby>京都<rt>きょうと</rt></ruby>の<ruby>水<rt>みず</rt></ruby>で<ruby>作<rt>つく</rt></ruby>った<ruby>豆腐<rt>とうふ</rt></ruby>です。<br>*(Xin lỗi đã để chờ. Đậu hũ làm bằng nước Kyoto đấy.)* |

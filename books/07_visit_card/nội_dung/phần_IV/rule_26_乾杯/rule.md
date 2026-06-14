@@ -1,6 +1,6 @@
 # Rule 26 — Cụng ly 乾杯 chuẩn / 乾杯のマナー
 
-> **Luận điểm.** Kanpai không phải "ai hô cũng được, cụng càng kêu càng vui". Quy tắc cứng: **(1) Quyền hô = senior bên host. (2) Ly mình hạ hơi thấp hơn ly senior khách (CFO Nakamura). (3) Chạm nhẹ, không cụng kêu cốp. (4) Đợi host nhấp trước rồi mình mới uống.** Sai 1 trong 4 = đảo trên dưới hoặc thiếu sang.
+> **Luận điểm.** Kanpai không phải "ai hô cũng được, cụng càng kêu càng vui". Quy tắc cứng: **(1) Quyền hô = người cấp cao nhất bên host. (2) Ly mình hạ hơi thấp hơn ly cấp cao của khách (CFO Nakamura). (3) Chạm nhẹ, không cụng kêu cốp. (4) Đợi host nhấp trước rồi mình mới uống.** Sai 1 trong 4 = đảo trên dưới hoặc thiếu sang.
 >
 > 乾杯=『host senior 発声・客側上位より僅か低く・軽く触れるだけ・host より先に飲まない』の4点。
 >
@@ -18,10 +18,14 @@ Phòng riêng nhà hàng Q1, mọi người vừa ngồi xong lúc 18:35. Hà CT
 
 | Vai | Câu |
 |---------|-----|
-| **トゥアンリーダー** | （発声前に一口飲む）「あ、美味しい。」 |
-| **ハーCTO** | 「では、乾杯！」 |
-| **ズン** | （自分のglassを中村CFOのglassより高く合わせる、カチンと音）「乾杯！」 |
-| **中村CFO** | （沈黙、軽く頷く） |
+| **トゥアンリーダー** | （<ruby>発声<rt>はっせい</rt></ruby>前に一口飲む）「あ、<ruby>美味<rt>おい</rt></ruby>しい。」 |
+|  | *(uống trước khi có hô) À ngon ghê.* |
+| **ハーCTO** | 「では、<ruby>乾杯<rt>かんぱい</rt></ruby>！」 |
+|  | *Vậy, kanpai!* |
+| **ズン** | （自分のglassを<ruby>中村<rt>なかむら</rt></ruby>CFOのglassより高く合わせる、カチンと音）「乾杯！」 |
+|  | *(nâng ly cao hơn ly CFO Nakamura, cụng kêu cốp) Kanpai!* |
+| **中村CFO** | （<ruby>沈黙<rt>ちんもく</rt></ruby>、軽く<ruby>頷<rt>うなず</rt></ruby>く） |
+|  | *(im lặng, gật đầu nhẹ)* |
 
 **Vì sao xấu:** (1) Uống trước khi có hô = phá thứ tự. (2) Ly cao hơn ly CFO = đảo trên dưới (ngầm nói "tôi cao hơn anh"). (3) Cụng mạnh kêu 'cốp' = vỡ ly + phản cảm. CFO im lặng = đã chấm điểm âm.
 
@@ -31,15 +35,20 @@ Phòng riêng nhà hàng Q1, mọi người vừa ngồi xong lúc 18:35. Hà CT
 
 | Vai | Câu |
 |---------|-----|
-| **ハーCTO** | 「皆様、本日はお越しいただきありがとうございます。Phase 3 成功と末永いお付き合いを願いまして…乾杯！」【1】 |
+| **ハーCTO** | 「<ruby>皆様<rt>みなさま</rt></ruby>、<ruby>本日<rt>ほんじつ</rt></ruby>はお<ruby>越<rt>こ</rt></ruby>しいただきありがとうございます。Phase 3 <ruby>成功<rt>せいこう</rt></ruby>と<ruby>末永<rt>すえなが</rt></ruby>いお<ruby>付<rt>つ</rt></ruby>き<ruby>合<rt>あ</rt></ruby>いを<ruby>願<rt>ねが</rt></ruby>いまして…乾杯！」【1】 |
+|  | *Thưa quý vị, cảm ơn đã đến hôm nay. Chúc Phase 3 thành công và quan hệ dài lâu... kanpai!* |
 | **中村CFO** | 「乾杯。」 |
-| **ズン** | （自分のglassを中村CFOのglassより僅かに低く合わせ、軽く触れる）「乾杯。」【2】【3】 |
-| **トゥアンリーダー** | （同様にglassを低く、host のハーCTO が一口飲んでから自分も飲む）【4】 |
+|  | *Kanpai.* |
+| **ズン** | （自分のglassを中村CFOのglassより<ruby>僅<rt>わず</rt></ruby>かに低く合わせ、軽く<ruby>触<rt>ふ</rt></ruby>れる）「乾杯。」【2】【3】 |
+|  | *(hạ ly hơi thấp hơn ly CFO Nakamura, chạm nhẹ) Kanpai.* |
+| **トゥアンリーダー** | （<ruby>同様<rt>どうよう</rt></ruby>にglassを低く、host のハーCTO が一口飲んでから自分も飲む）【4】 |
+|  | *(cũng hạ ly thấp, đợi host Hà CTO nhấp trước rồi mới uống)* |
 | **松本PM** | 「ありがとうございます。Phase 3、よろしくお願いします。」 |
+|  | *Cảm ơn rất nhiều. Phase 3, mong các anh chị giúp đỡ.* |
 
 📝 **Ghi chú:**
-- 【1】**Quyền hô = senior bên host** — hôm nay là Hà CTO. Khách hô trước = sai. Câu pattern: 「[công ty / dự án] の [thành công] と [継続関係] を願いまして、乾杯！」
-- 【2】**Thấp hơn ly senior = kính trọng** — cùng cấp = ngang. Cấp dưới = thấp nhất. Linh (junior) phải thấp hơn cả Dũng.
+- 【1】**Quyền hô = cấp cao nhất bên host** — hôm nay là Hà CTO. Khách hô trước = sai. Câu mẫu cố định: 「[công ty / dự án] の [thành công] と [継続関係] を願いまして、乾杯！」
+- 【2】**Thấp hơn ly cấp trên = kính trọng** — cùng cấp = ngang. Cấp dưới = thấp nhất. Linh (nhân viên trẻ) phải thấp hơn cả Dũng.
 - 【3】**Chạm nhẹ + giao mắt cười** = chính thức. Cụng mạnh = vỡ ly + thiếu sang.
 - 【4】**Cụng xong, host nhấp trước, khách uống sau** — thứ tự uống cũng giống thứ tự hô.
 
@@ -55,11 +64,11 @@ Phòng riêng nhà hàng Q1, mọi người vừa ngồi xong lúc 18:35. Hà CT
 
 ## ⚠ Tránh
 
-- Uống trước khi senior host hô — phá thứ tự
-- Ly cao hơn ly senior khách — đảo trên dưới
+- Uống trước khi người cấp cao bên host hô — phá thứ tự
+- Ly cao hơn ly cấp cao của khách — đảo trên dưới
 - Cụng mạnh kêu cốp — vỡ ly + thiếu sang
 - Hô kanpai khi khách chưa cầm ly — ép tốc độ
-- Junior cụng ngang ly Dũng / senior — phải thấp hơn cả senior bên mình
+- Nhân viên trẻ cụng ngang ly Dũng / cấp trên — phải thấp hơn cả cấp trên bên mình
 
 ---
 

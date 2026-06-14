@@ -447,7 +447,7 @@
 
 > 🇯🇵 「5要素 setup 完了です: 目線・照明・音声・マイク・背景。」
 >
-> 🇻🇳 *Em hoàn tất setup 5 yếu tố ạ: eye line, lighting, voice, mic, background.*
+> 🇻🇳 *Em hoàn tất thiết lập 5 yếu tố ạ: eye line, lighting, voice, mic, background.*
 >
 > 📝 _オンラインプレゼン setup チェック_
 
@@ -536,13 +536,13 @@
 > 📝 _限定共有 framework 説明_
 
 
-### Rule 34 — Self-review checklist / 自己評価
+### Rule 34 — Tự đánh giá sau pitch / 自己評価
 
 **ズン (em Dũng):**
 
 > 🇯🇵 「Self-review 12項目、平均 〇/5。3 strengths と 3 improvements を抽出いたしました。」
 >
-> 🇻🇳 *Self-review 12 item, trung bình 〇/5 ạ. Em đã extract 3 strengths và 3 improvements ạ.*
+> 🇻🇳 *Tự đánh giá 12 tiêu chí, trung bình 〇/5 ạ. Em đã rút ra 3 điểm mạnh và 3 điểm cần cải thiện ạ.*
 >
 > 📝 _Self-review 報告標準_
 
@@ -569,7 +569,7 @@
 
 > 🇯🇵 「次サイクルまでに rubric 平均 〇/5 を目標にする。」
 >
-> 🇻🇳 *Đến cycle sau target trung bình rubric 〇/5.*
+> 🇻🇳 *Đến cycle sau mục tiêu trung bình bảng tiêu chí 〇/5.*
 >
 > 📝 _Quantitative target setting_
 

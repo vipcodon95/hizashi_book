@@ -9,7 +9,11 @@
     "ja": "ズンが Phase 2 の完了をフオン副部長へ報告する場面。Output / Acceptance / Lessons の3要素フレームワークを実演。納品 ≠ 完了の概念を強調。",
     "vi": "Em Dũng báo cáo hoàn thành Phase 2 cho chị Hương. Áp dụng framework Output / Acceptance / Lessons. Nhấn mạnh giao hàng ≠ hoàn thành."
   },
-  "related_rules": ["rule_01", "rule_03", "rule_08"],
+  "related_rules": [
+    "rule_01",
+    "rule_03",
+    "rule_08"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -109,7 +113,9 @@
           "sentence": "Phase 2 完了報告です。Output：納品物5点（要件定義書、設計書、ソースコード、テスト報告書、運用手順書）、すべて納品済み。",
           "sentence_translation": "Em báo cáo hoàn thành Phase 2 ạ. Output: 5 deliverable (Tài liệu yêu cầu, thiết kế, source code, test report, hướng dẫn vận hành), đã giao hết ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_05_good_02",
@@ -119,7 +125,9 @@
           "sentence": "Acceptance：松本様より昨日付で書面検収をいただきました。検収書のコピーを別途共有いたします。",
           "sentence_translation": "Acceptance: anh Matsumoto đã ký nghiệm thu bằng văn bản đề ngày hôm qua. Em sẽ chia sẻ bản copy nghiệm thu riêng ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_05_good_03",
@@ -129,7 +137,9 @@
           "sentence": "Lessons：(1) 中間報告を 25/50/75% で行ったことで手戻りゼロ、(2) 反省点として、画面遷移仕様の確認が遅れ、テスト工数が当初比 +20% になりました。Phase 3 では仕様確認を着手前に必ず行います。",
           "sentence_translation": "Lessons: (1) Báo cáo trung gian 25/50/75% giúp không phải làm lại lần nào, (2) Điểm rút kinh nghiệm: xác nhận spec luồng chuyển màn bị chậm, làm effort test tăng +20% so với dự kiến. Phase 3 em sẽ luôn xác nhận spec trước khi bắt tay làm ạ.",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_05_good_04",

@@ -9,7 +9,11 @@
     "ja": "大垣営業部長がPhase 2のスコープを説明中。ズンがリリース日・主担当などを5W1Hの観点で順番に質問する場面。",
     "vi": "Anh Ōgaki đang trình bày scope phase 2. Em Dũng cần hỏi rõ deadline / người phụ trách / scope theo từng câu 5W1H riêng biệt."
   },
-  "related_rules": ["rule_19", "rule_21", "rule_28"],
+  "related_rules": [
+    "rule_19",
+    "rule_21",
+    "rule_28"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -89,7 +93,10 @@
           "sentence": "ありがとうございます。3点、順番にお伺いしたく存じます。まず、リリース予定日について確認させていただきたいのですが、いつ頃をお考えでしょうか？",
           "sentence_translation": "Cảm ơn anh. Em xin được hỏi 3 điểm theo thứ tự ạ. Đầu tiên, về ngày dự kiến release, anh đang nghĩ khoảng bao giờ ạ?",
           "tone": "formal",
-          "annotation_ids": ["1", "2"]
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
         },
         {
           "line_id": "rule_20_good_03",
@@ -137,10 +144,10 @@
       "skill": "表現読解",
       "question_ja": "会議で複数の質問をしたいとき、最も適切な始め方はどれか？",
       "options": [
-        "色々聞きたいことがあるんですが…",
+        "全部まとめて答えてください",
         "あれもこれも教えてほしいです",
         "3点、順番にお伺いしたく存じます",
-        "全部まとめて答えてください"
+        "色々聞きたいことがあるんですが…"
       ],
       "correct": "C",
       "explanation": {

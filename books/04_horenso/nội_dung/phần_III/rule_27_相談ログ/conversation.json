@@ -9,7 +9,11 @@
     "ja": "ハーCTO が3ヶ月前の Phase 2 の MySQL 採用理由を尋ねる場面。Slack を1時間遡る悪い例から、Decision Register 1行で30秒回答する良い例へ。",
     "vi": "Anh Hà CTO hỏi tại sao Phase 2 chọn MySQL từ 3 tháng trước. Từ pattern xấu (đào Slack 1 giờ) → đúng (Decision Register 1 dòng, 30 giây xong)."
   },
-  "related_rules": ["rule_22", "rule_26", "rule_39"],
+  "related_rules": [
+    "rule_22",
+    "rule_26",
+    "rule_39"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -118,7 +122,9 @@
           "sentence": "Decision Register をご確認ください。DR-2026-0118 の1行です。",
           "sentence_translation": "Anh xem Decision Register giúp em ạ. Là dòng DR-2026-0118 ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_27_good_03",
@@ -128,7 +134,9 @@
           "sentence": "日付:2026/1/18 / 論点:Phase 2 DB選定 / 検討案:①MySQL ②Postgres ③DynamoDB / 採用:MySQL / 理由:松本様運用チームが MySQL 経験豊富 + ライセンスコスト低 + Phase 1 連携容易 / 承認者:ハーCTO + フオン副部長 / リスク:水平分散時の制約。",
           "sentence_translation": "Date: 18/1/2026 / Topic: chọn DB Phase 2 / Options xét: MySQL / Postgres / DynamoDB / Chọn: MySQL / Lý do: team vận hành anh Matsumoto quen MySQL + cost license thấp + dễ tích hợp Phase 1 / Duyệt: anh Hà CTO + chị Hương / Risk: hạn chế khi cần phân tán ngang.",
           "tone": "neutral",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_27_good_04",
@@ -147,7 +155,9 @@
           "sentence": "はい。今週分も明日 EOD までに3件追加します: AWS リージョン、デプロイ時間帯、印刷会社変更です。",
           "sentence_translation": "Vâng. Tuần này em sẽ thêm 3 dòng trước EOD ngày mai: AWS region, thời điểm deploy, đổi nhà in ạ.",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         }
       ]
     }
@@ -169,8 +179,8 @@
       "skill": "場面把握",
       "question_ja": "相談で決まった内容を最も適切に保存する方法は?",
       "options": [
-        "上司の記憶に頼る",
         "Slack スレッドだけ",
+        "上司の記憶に頼る",
         "Decision Register に日付・論点・検討案・採用案・理由・承認者の1行を残す",
         "口頭で決めて文書化しない"
       ],

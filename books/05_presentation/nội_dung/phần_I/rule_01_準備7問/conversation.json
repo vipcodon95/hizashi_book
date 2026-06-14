@@ -9,7 +9,11 @@
     "ja": "ズンが Phase 3 プレゼンの準備で、PowerPoint を開く前に 7 つの問いを埋める場面。フオン副部長がレビュー。",
     "vi": "Dũng chuẩn bị pitch Phase 3, fill 7 câu hỏi checklist trước khi mở PowerPoint. Chị Hương review."
   },
-  "related_rules": ["rule_02", "rule_07", "rule_08"],
+  "related_rules": [
+    "rule_02",
+    "rule_07",
+    "rule_08"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -90,7 +94,9 @@
           "sentence": "フオン副部長、Phase 3 プレゼンの準備 7問を埋めました。レビューいただけますでしょうか？",
           "sentence_translation": "Chị Hương, em đã fill xong 7 câu hỏi chuẩn bị cho pitch Phase 3 ạ. Phiền chị review giúp em được không ạ?",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_01_good_02",
@@ -110,7 +116,9 @@
           "sentence": "ありがとうございます。⑤アウトプットを『Phase 3 スコープ＋金額レンジ合意』と書きましたが、合意までいかなくても方向性決定で十分でしょうか？",
           "sentence_translation": "Em cảm ơn chị ạ. Em ghi ⑤ output = 'thống nhất scope + range giá Phase 3', nhưng nếu không chốt được thỏa thuận, chỉ cần quyết được hướng đi cũng OK chứ ạ?",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_01_good_04",
@@ -149,12 +157,12 @@
       "skill": "場面把握",
       "question_ja": "プレゼン準備で最初にやるべきは？",
       "options": [
-        "PowerPoint を開いてデザインを始める",
-        "競合他社のスライドをコピーする",
         "7つの問い(対象/目的/時間/場所/出力/リスク/バックアップ)に答える",
-        "ストック画像を集める"
+        "ストック画像を集める",
+        "PowerPoint を開いてデザインを始める",
+        "競合他社のスライドをコピーする"
       ],
-      "correct": "C",
+      "correct": "A",
       "explanation": {
         "ja": "デザイン前に対象・目的・期待出力を明確にしないと、後で全面再設計になる。",
         "vi": "Phải làm rõ đối tượng / mục đích / output trước khi design — không thì redo lại toàn bộ."

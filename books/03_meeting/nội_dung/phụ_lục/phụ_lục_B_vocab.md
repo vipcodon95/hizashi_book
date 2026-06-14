@@ -55,7 +55,7 @@
 | 遅刻 | ちこく | Trễ giờ | rule_06 |
 | お早めのお越し | おはやめのおこし | "(Cảm ơn) anh/chị đến sớm" | rule_06 |
 | お揃い | おそろい | Đông đủ | rule_06 |
-| 余裕 | よゆう | Có dư / margin | rule_06 |
+| 余裕 | よゆう | Có dư / thong thả | rule_06 |
 | 開始する | かいしする | Bắt đầu | rule_06 |
 | 事前すり合わせ | じぜんすりあわせ | Pre-alignment / pre-check-in | rule_07 |
 | 役割分担 | やくわりぶんたん | Phân vai | rule_07 |
@@ -110,7 +110,7 @@
 | 合計 | ごうけい | Tổng | rule_13 |
 | 〇点目 | てんめ | Mục thứ〇 | rule_13 |
 | 担当 | たんとう | Người phụ trách | rule_13 |
-| 合意確認 | ごういかくにん | Confirm thống nhất | rule_13 |
+| 合意確認 | ごういかくにん | Xác nhận thống nhất | rule_13 |
 | 沿って | そって | Theo (kế hoạch) | rule_13 |
 | 書記 | しょき | Thư ký / scribe | rule_14 |
 | 議事録 | ぎじろく | Biên bản | rule_14 |
@@ -217,11 +217,11 @@
 | 別途 | べっと | Riêng / khác buổi | rule_29 |
 | 修正案 | しゅうせいあん | Phương án sửa | rule_29 |
 | 曖昧 | あいまい | Mơ hồ | rule_30 |
-| 延期 | えんき | Hoãn / postpone | rule_30 |
+| 延期 | えんき | Hoãn lại | rule_30 |
 | 死守 | ししゅ | Giữ chặt / không thay đổi | rule_30 |
 | 支援 | しえん | Hỗ trợ | rule_30 |
 | 後者 | こうしゃ | Cái thứ 2 | rule_30 |
-| リソース | risōsu | Resource | rule_30 |
+| リソース | risōsu | Nguồn lực | rule_30 |
 | 多数決 | たすうけつ | Bỏ phiếu đa số | rule_31 |
 | 意思決定 | いしけってい | Ra quyết định | rule_31 |
 | 確定 | かくてい | Chốt | rule_31 |
@@ -250,7 +250,7 @@
 | フィージブル | fījiburu | Feasible | rule_34 |
 | 接続 | せつぞく | Kết nối | rule_35 |
 | 不安定 | ふあんてい | Không ổn định | rule_35 |
-| 再接続 | さいせつぞく | Reconnect | rule_35 |
+| 再接続 | さいせつぞく | Kết nối lại | rule_35 |
 | 復帰 | ふっき | Trở lại | rule_35 |
 | 達成率 | たっせいりつ | Tỷ lệ đạt | rule_35 |
 | ご覧いただく | ごらんいただく | Phiền xem (sonkei) | rule_36 |
@@ -261,17 +261,17 @@
 | 目処 | めど | Mục đích / mốc dự kiến | rule_37 |
 | 責任者 | せきにんしゃ | Người phụ trách | rule_37 |
 | ロールバック | rōrubakku | Rollback | rule_37 |
-| 直前 | ちょくぜん | Sát giờ / last minute | rule_38 |
-| リスケジュール | risukejūru | Reschedule | rule_38 |
+| 直前 | ちょくぜん | Sát giờ / ngay trước | rule_38 |
+| リスケジュール | risukejūru | Dời lịch / sắp xếp lại lịch | rule_38 |
 | 突発的 | とっぱつてき | Đột xuất | rule_38 |
 | 代替日 | だいたいび | Ngày thay thế | rule_38 |
 | 恐縮 | きょうしゅく | Áy náy | rule_38 |
 | 打合せ | うちあわせ | Buổi trao đổi | rule_38 |
 | 1on1 | ワンオンワン | 1 đối 1 | rule_39 |
 | 進捗 | しんちょく | Tiến độ | rule_39 |
-| 課題 | かだい | Vấn đề / challenge | rule_39 |
-| アサイン | asain | Assign | rule_39 |
-| 再見積もり | さいみつもり | Re-estimate | rule_39 |
+| 課題 | かだい | Vấn đề / điểm vướng | rule_39 |
+| アサイン | あさいん | Bố trí / phân công người | rule_39 |
+| 再見積もり | さいみつもり | Ước lượng lại | rule_39 |
 | ブレスト | buresuto | Brainstorming | rule_40 |
 | 批判禁止 | ひはんきんし | No critique | rule_40 |
 | 量重視 | りょうじゅうし | Coi trọng số lượng | rule_40 |
@@ -295,15 +295,15 @@
 |------|------|------|------|
 | 引き続き | ひきつづき | Tiếp tục | rule_43 |
 | 一式 | いっしき | Trọn bộ | rule_43 |
-| アクションアイテム | akushon aitemu | Action item | rule_44 |
-| 仕様書 | しようしょ | Specification | rule_44 |
-| 計画書 | けいかくしょ | Kế hoạch | rule_44 |
+| アクションアイテム | akushon aitemu | Việc cần làm (action item) | rule_44 |
+| 仕様書 | しようしょ | Bản đặc tả / spec | rule_44 |
+| 計画書 | けいかくしょ | Bản kế hoạch | rule_44 |
 | 配布 | はいふ | Phân phát | rule_45 |
 | 修正点 | しゅうせいてん | Điểm cần sửa | rule_45 |
 | 迅速 | じんそく | Nhanh chóng | rule_45 |
 | 概要 | がいよう | Tổng quan | rule_46 |
 | 要旨 | ようし | Tóm ý | rule_46 |
-| 未決事項 | みけつじこう | Item chưa quyết | rule_46 |
+| 未決事項 | みけつじこう | Hạng mục chưa quyết | rule_46 |
 | 補足 | ほそく | Bổ sung | rule_46 |
 | 議論 | ぎろん | Thảo luận | rule_46 |
 | 御礼 | おんれい | Cảm ơn (formal) | rule_47 |
@@ -322,7 +322,7 @@
 | 改善 | かいぜん | Cải thiện | rule_50 |
 | 継続 | けいぞく | Liên tục | rule_50 |
 | 日記 | にっき | Nhật ký | rule_50 |
-| チェックリスト | chekkurisuto | Checklist | rule_50 |
+| チェックリスト | chekkurisuto | Bảng kiểm (danh sách kiểm tra) | rule_50 |
 
 
 **Tổng:** 288 từ unique đã liệt kê trong sách.

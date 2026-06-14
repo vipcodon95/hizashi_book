@@ -20,10 +20,14 @@ Em Dũng vào Slack workspace chung với khách Hakuō. 田中 PMO (anh Tanaka)
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「**@channel** リンク確認お願いします。https://docs.../spec_v3」 |
-| **田中PMO** | 「ズンさん、おはようございます。お疲れ様です。@channel は **本番障害など緊急時のみ** 使う運用ルールがございます【1】。今回は @here、または特定メンバーへのメンションが適切かと存じます。」 |
-| **田中PMO** | 「また、関連投稿は **スレッド化** いただけますと、main channel が読みやすくなります【2】。」 |
-| **ズン** | 「申し訳ございません。今後 @channel は緊急時のみ使用し、関連は thread にいたします。」 |
+| **ズン** | 「**@channel** リンク<ruby>確認<rt>かくにん</rt></ruby>お<ruby>願<rt>ねが</rt></ruby>いします。https://docs.../spec_v3」 |
+|  | *@channel mọi người check link giúp em. https://docs.../spec_v3* |
+| **田中PMO** | 「ズンさん、おはようございます。お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>です。@channel は **<ruby>本番障害<rt>ほんばんしょうがい</rt></ruby>など<ruby>緊急時<rt>きんきゅうじ</rt></ruby>のみ** <ruby>使<rt>つか</rt></ruby>う<ruby>運用<rt>うんよう</rt></ruby>ルールがございます【1】。<ruby>今回<rt>こんかい</rt></ruby>は @here、または<ruby>特定<rt>とくてい</rt></ruby>メンバーへの<ruby>メンション<rt>めんしょん</rt></ruby>が<ruby>適切<rt>てきせつ</rt></ruby>かと<ruby>存<rt>ぞん</rt></ruby>じます。」 |
+|  | *Dũng, chào buổi sáng. Quy tắc vận hành là @channel chỉ dùng khi khẩn cấp như sự cố production. Lần này nên dùng @here hoặc mention member cụ thể.* |
+| **田中PMO** | 「また、<ruby>関連投稿<rt>かんれんとうこう</rt></ruby>は **スレッド<ruby>化<rt>か</rt></ruby>** いただけますと、main channel が<ruby>読<rt>よ</rt></ruby>みやすくなります【2】。」 |
+|  | *Thêm nữa, các bài đăng liên quan nếu chuyển vào thread thì main channel sẽ dễ đọc hơn.* |
+| **ズン** | 「<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。<ruby>今後<rt>こんご</rt></ruby> @channel は<ruby>緊急時<rt>きんきゅうじ</rt></ruby>のみ<ruby>使用<rt>しよう</rt></ruby>し、<ruby>関連<rt>かんれん</rt></ruby>は thread にいたします。」 |
+|  | *Em xin lỗi anh ạ. Từ giờ @channel em chỉ dùng khi khẩn, các liên quan em chuyển vào thread ạ.* |
 
 **Vì sao xấu:** L1 (1) @channel 23:30 → ping cả 30 người (mặc dù DnD), (2) không thread → 5 reply tiếp theo ngập #phase3.
 
@@ -35,11 +39,16 @@ Em Dũng vào Slack workspace chung với khách Hakuō. 田中 PMO (anh Tanaka)
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「**@here** Phase 3 仕様書 v3 をアップロードしました。本日中にご確認をお願いいたします【1】。https://docs.../spec_v3」 |
-| **田中PMO** | 「確認いたします。」 |
-| **トゥアン** | 「セクション3に質問あります、後ほど DM します。」 |
-| **ズン** | 「@トゥアン お待ちしております。」 |
-| **田中PMO** | 「v3 確認完了。承認します。」 |
+| **ズン** | 「**@here** Phase 3 <ruby>仕様書<rt>しようしょ</rt></ruby> v3 をアップロードしました。<ruby>本日中<rt>ほんじつちゅう</rt></ruby>にご<ruby>確認<rt>かくにん</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いいたします【1】。https://docs.../spec_v3」 |
+|  | *@here em đã upload tài liệu spec v3 Phase 3. Phiền mọi người check trong hôm nay ạ. https://docs.../spec_v3* |
+| **田中PMO** | 「<ruby>確認<rt>かくにん</rt></ruby>いたします。」 |
+|  | *Tôi xem nhé.* |
+| **トゥアン** | 「セクション3に<ruby>質問<rt>しつもん</rt></ruby>あります、<ruby>後<rt>のち</rt></ruby>ほど DM します。」 |
+|  | *Anh có câu hỏi ở section 3, lát anh DM nhé.* |
+| **ズン** | 「@トゥアン お<ruby>待<rt>ま</rt></ruby>ちしております。」 |
+|  | *@Tuấn em đợi anh ạ.* |
+| **田中PMO** | 「v3 <ruby>確認完了<rt>かくにんかんりょう</rt></ruby>。<ruby>承認<rt>しょうにん</rt></ruby>します。」 |
+|  | *Tôi check xong v3. Tôi duyệt nhé.* |
 
 📝 **Ghi chú:**
 - 【1】**「@here」** — chỉ ping người đang online. Không phá DnD/giờ riêng.

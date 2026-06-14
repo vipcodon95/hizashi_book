@@ -236,7 +236,7 @@ Tháng 4/2029. Đại bước vào năm 4 ĐH Osaka, ngành CS, lab Inoue. Khoá
 | 項目 | こうもく | HẠNG MỤC | mục |
 | 共有 | きょうゆう | CỘNG HỮU | chia sẻ |
 | 就活 | しゅうかつ | TỰU HOẠT | xin việc |
-| 並行 | へいこう | TÍNH HÀNH | song song |
+| 並行 | へいこう | TỊNH HÀNH | song song |
 | 面接 | めんせつ | DIỆN TIẾP | phỏng vấn |
 | 情報交換 | じょうほうこうかん | THÔNG TIN GIAO HOÁN | trao đổi thông tin |
 | 仕様書 | しようしょ | SĨ DẠNG THƯ | tài liệu spec |

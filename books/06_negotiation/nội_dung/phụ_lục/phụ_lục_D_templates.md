@@ -23,11 +23,11 @@
 本日はお時間を頂戴し、誠にありがとうございました。
 以下の通り、本日の合意事項をまとめましたのでご確認ください。
 
-━━━ ① 出席者 ━━━
+--- ① 出席者 ---
 貴社: 〇〇 部長、〇〇 様
 弊社: 〇〇、〇〇
 
-━━━ ② 合意事項 ━━━
+--- ② 合意事項 ---
 1. 価格: 〇〇円 (税抜)
 2. 契約期間: 〇〇年〇月-〇〇年〇月
 3. スコープ: 〇〇
@@ -36,18 +36,18 @@
 6. 成果物 IP: 〇〇
 7. 稟議スケジュール: 〇月〇日まで
 
-━━━ ③ 未決事項 ━━━
+--- ③ 未決事項 ---
 1. 〇〇 — 〇月〇日までに弊社より追加情報提供
 2. 〇〇 — 貴社にて社内検討
 
-━━━ ④ 次のアクション ━━━
+--- ④ 次のアクション ---
 | # | アクション | Owner | 期限 |
 |---|-----------|-------|------|
 | 1 | 契約書ドラフト送付 | 〇〇 (弊社) | 〇月〇日 |
 | 2 | 稟議上申 | 〇〇 (貴社) | 〇月〇日 |
 | 3 | キックオフ MTG 設定 | 〇〇 | 〇月〇日 |
 
-━━━ ⑤ 添付 ━━━
+--- ⑤ 添付 ---
 - 提案書 v〇.〇
 - 議事メモ
 
@@ -72,11 +72,11 @@ Xin chào, em là 〇〇 (Tiên Phát).
 Hôm nay em xin chân thành cảm ơn anh/chị đã dành thời gian.
 Dưới đây là tổng hợp các điểm đã đồng thuận hôm nay, phiền anh/chị xác nhận giúp em.
 
-━━━ ① Người tham dự ━━━
+--- ① Người tham dự ---
 Bên anh/chị: 〇〇, 〇〇
 Bên em: 〇〇, 〇〇
 
-━━━ ② Items đã đồng thuận ━━━
+--- ② Items đã đồng thuận ---
 1. Giá: 〇〇 ¥ (chưa thuế)
 2. Kỳ hạn: 〇/〇 - 〇/〇
 3. Scope: 〇〇
@@ -85,18 +85,18 @@ Bên em: 〇〇, 〇〇
 6. IP sản phẩm: 〇〇
 7. Lịch ringi (稟議): trước 〇/〇
 
-━━━ ③ Items chưa quyết ━━━
+--- ③ Items chưa quyết ---
 1. 〇〇 — bên em sẽ cung cấp info bổ sung trước 〇/〇
 2. 〇〇 — bên anh/chị nội bộ thảo luận
 
-━━━ ④ Next actions ━━━
+--- ④ Next actions ---
 | # | Action | Owner | Deadline |
 |---|--------|-------|----------|
 | 1 | Gửi contract draft | 〇〇 (Tiên Phát) | 〇/〇 |
 | 2 | Đệ trình ringi | 〇〇 (bên anh/chị) | 〇/〇 |
 | 3 | Set kickoff MTG | 〇〇 | 〇/〇 |
 
-━━━ ⑤ Đính kèm ━━━
+--- ⑤ Đính kèm ---
 - Proposal v〇.〇
 - Meeting note
 
@@ -124,26 +124,26 @@ Tel: 〇〇
 【日時】〇〇年〇月〇日
 【相手】〇〇 様
 
-━━━ シナリオ A: 成立 (Deal as-is) ━━━
+--- シナリオ A: 成立 (Deal as-is) ---
   価格: 〇〇円
   スコープ: 〇〇
   条件: 〇〇
   期待結果: shake hand 当日
 
-━━━ シナリオ B: 再交渉 (Counter-offer) ━━━
+--- シナリオ B: 再交渉 (Counter-offer) ---
   価格: 〇〇円 (target: 〇〇円)
   譲歩: 〇〇 (例: scope -10%)
   根拠: 利益率〇〇%維持可能
   内部承認者: 〇〇 (済 / 未済)
   反対 trade: 〇〇 を相手から得る
 
-━━━ シナリオ C: 撤退 (Walk-away) ━━━
+--- シナリオ C: 撤退 (Walk-away) ---
   撤退ライン: 〇〇円以下
   代替案件: 〇〇 (案件名 + ステータス)
   代替案件の数値: 〇〇円, 〇〇 締切
   撤退時の言い回し: 「本日は持ち帰りとさせてください…」
 
-━━━ 当日チェックリスト ━━━
+--- 当日チェックリスト ---
   □ シナリオ A/B/C を声に出して練習済み
   □ シナリオ C 撤退時の挨拶 練習済み
   □ 内部承認エビデンス (Slack/メール) 持参
@@ -158,26 +158,26 @@ Tel: 〇〇
 [Thời gian] 〇/〇/〇
 [Đối tác] anh/chị 〇〇
 
-━━━ Scenario A: Deal as-is ━━━
+--- Scenario A: Deal as-is ---
   Giá: 〇〇 ¥
   Scope: 〇〇
   Điều kiện: 〇〇
   Kết quả mong đợi: bắt tay trong ngày
 
-━━━ Scenario B: Counter-offer ━━━
+--- Scenario B: Counter-offer ---
   Giá: 〇〇 ¥ (target: 〇〇 ¥)
   Nhượng bộ: 〇〇 (vd: scope -10%)
   Cơ sở: profit margin 〇〇% giữ được
   Người duyệt nội bộ: 〇〇 (đã / chưa)
   Trade ngược: lấy 〇〇 từ phía họ
 
-━━━ Scenario C: Walk-away ━━━
+--- Scenario C: Walk-away ---
   Walk-away line: dưới 〇〇 ¥
   Lựa chọn thay thế: 〇〇 (tên dự án + status)
   Số liệu lựa chọn TT: 〇〇 ¥, deadline 〇〇
   Câu rút lui: 「本日は持ち帰りとさせてください…」
 
-━━━ Checklist ngày G ━━━
+--- Checklist ngày G ---
   □ Đã practice nói A/B/C ra miệng
   □ Câu chào rút lui scenario C đã practice
   □ Mang theo bằng chứng internal approval (Slack/mail)
@@ -193,7 +193,7 @@ Tel: 〇〇
 *JP: 価格提示フレーズ チェックリスト + 5シナリオ*
 
 ```
-━━━ 価格提示フレーズ 4要素チェック ━━━
+--- 価格提示フレーズ 4要素チェック ---
 
 【提示前チェック】
   □ Frame: 相手状況を踏まえた前置き準備済み
@@ -218,7 +218,7 @@ Tel: 〇〇
 ■ シナリオ5 — 持ち帰り (escalation)
 「ご提案いただいた条件、その場で即答致しかねます。弊社 CTO 確認の上、〇曜日までに正式回答いたします。」
 
-━━━ 当日チェック ━━━
+--- 当日チェック ---
   □ 4要素を声に出して練習済み
   □ 沈黙 7秒練習済み (rule 25)
   □ Trade-back trigger 確認済み (rule 09)
@@ -227,7 +227,7 @@ Tel: 〇〇
 **Bản Việt placeholder:**
 
 ```
-━━━ Checklist 4 yếu tố pricing phrase ━━━
+--- Checklist 4 yếu tố pricing phrase ---
 
 [Trước khi quote]
   □ Frame: đã chuẩn bị câu mở dựa trên tình huống khách
@@ -252,7 +252,7 @@ Tel: 〇〇
 [5] Mang về xem xét (escalation)
 'Điều kiện quý anh đề xuất em không trả lời ngay tại chỗ được. Em xin xác nhận với CTO bên em, trả lời chính thức trước thứ 〇 ạ.'
 
-━━━ Check ngày G ━━━
+--- Check ngày G ---
   □ Đã practice 4 yếu tố ra miệng
   □ Đã practice im lặng 7 giây (rule 25)
   □ Confirm trigger trade-back (rule 09)
@@ -266,12 +266,12 @@ Tel: 〇〇
 *JP: 「高い」対応 3-step チェックリスト*
 
 ```
-━━━ Step 1: ACKNOWLEDGE (5-10秒) ━━━
+--- Step 1: ACKNOWLEDGE (5-10秒) ---
   □ 即値引きを我慢 (沈黙2秒OK)
   □ 「ご指摘の点、もっともでございます」
   □ 相手の状況に共感: コスト圧縮 / 予算枠 / 業績圧力
 
-━━━ Step 2: REFRAME (30-60秒) ━━━
+--- Step 2: REFRAME (30-60秒) ---
   □ 「ただ少し別の角度から」
   □ 数値根拠を提示 (どれか or 複数):
     □ Cost-of-inaction (継続コスト計算)
@@ -280,13 +280,13 @@ Tel: 〇〇
     □ Risk-adjusted (失敗時のコスト)
   □ 月次・年次に分解 (大きい数字を小さく見せる)
 
-━━━ Step 3: 3 OPTIONS (60-90秒) ━━━
+--- Step 3: 3 OPTIONS (60-90秒) ---
   □ Option A: 元価格維持 + trade で価値追加
   □ Option B: scope 削減で価格下げ
   □ Option C: 拡大版 (decoy)
   □ 「御社のコスト感に合うのはどちらでしょうか？」で締める
 
-━━━ ❌ NG リスト ━━━
+--- ❌ NG リスト ---
   ✗ 即値引き「では ¥16M で…」
   ✗ 反論「高くないですよ」
   ✗ 1 option のみ
@@ -296,12 +296,12 @@ Tel: 〇〇
 **Bản Việt placeholder:**
 
 ```
-━━━ Step 1: ACKNOWLEDGE (5-10s) ━━━
+--- Step 1: ACKNOWLEDGE (5-10s) ---
   □ Nén phản xạ giảm giá (2s im lặng OK)
   □ 「ご指摘の点、もっともでございます」 (Em xin tiếp thu)
   □ Đồng cảm tình huống: nén chi phí / budget khung / áp lực kết quả
 
-━━━ Step 2: REFRAME (30-60s) ━━━
+--- Step 2: REFRAME (30-60s) ---
   □ 「ただ少し別の角度から」 (Xin phép từ góc khác)
   □ Show cơ sở số (1 hoặc nhiều):
     □ Cost-of-inaction (tính chi phí giữ nguyên)
@@ -310,13 +310,13 @@ Tel: 〇〇
     □ Risk-adjusted (chi phí nếu fail)
   □ Chia ra tháng / năm (số lớn nhìn nhỏ)
 
-━━━ Step 3: 3 OPTIONS (60-90s) ━━━
+--- Step 3: 3 OPTIONS (60-90s) ---
   □ Option A: giữ giá gốc + trade thêm value
   □ Option B: cắt scope hạ giá
   □ Option C: mở rộng (decoy)
   □ Chốt 'phương án nào hợp cảm giác chi phí của quý cty ạ?'
 
-━━━ ❌ NG ━━━
+--- ❌ NG ---
   ✗ Giảm ngay 'vậy ¥16M ạ'
   ✗ Phản bác '不 không đắt đâu ạ'
   ✗ Chỉ 1 option
@@ -336,31 +336,31 @@ Tel: 〇〇
 【参加者】〇〇 (lead)、 〇〇、 〇〇
 【retro 開催日】商談から 〇 日後
 
-━━━ ① What Worked (うまくいった点) ━━━
+--- ① What Worked (うまくいった点) ---
   □ 〇〇 (例: BATNA 3 シナリオで walk-away 明確)
   □ 〇〇 (例: recap mail 24h 以内送付で稟議 block なし)
   □ 〇〇
 
-━━━ ② What Didn't (改善点) ━━━
+--- ② What Didn't (改善点) ---
   □ 〇〇 (例: indemnity 無制限 push に 5 秒 freeze)
   □ 〇〇 (例: VN style discount を 0.5 秒 miss)
   □ 〇〇
 
-━━━ ③ Counterfactual (もし〜していれば) ━━━
+--- ③ Counterfactual (もし〜していれば) ---
   □ もし 〇〇 していれば、〇〇 できた
   □ もし 〇〇 を pre-print していれば、〇〇 防げた
   □ もし pre-MTG で 〇〇 brief 1 分していれば、〇〇 …
 
-━━━ ④ Pattern Recognition (across vụ で repeat?) ━━━
+--- ④ Pattern Recognition (across vụ で repeat?) ---
   □ 過去 〇 vụ で同じ pattern 観察 (例: VN BD immediate concession)
   □ Cultural default? 個人差? team-level intervention 必要?
 
-━━━ ⑤ Next Commit (3 個 max) ━━━
+--- ⑤ Next Commit (3 個 max) ---
   (a) 具体 action: 〇〇 / Owner: 〇〇 / Deadline: 〇月〇日 / 効果測定: 〇〇
   (b) 具体 action: 〇〇 / Owner: 〇〇 / Deadline: 〇月〇日 / 効果測定: 〇〇
   (c) 具体 action: 〇〇 / Owner: 〇〇 / Deadline: 〇月〇日 / 効果測定: 〇〇
 
-━━━ Follow-up Retro 予定 ━━━
+--- Follow-up Retro 予定 ---
   □ 3 ヶ月後 (〇月〇日) に commit (a)/(b)/(c) adherence 確認 retro 開催
   □ team wiki に本 retro doc 保存済み
   □ 関係者に共有済み
@@ -374,31 +374,31 @@ Tel: 〇〇
 [Tham dự] 〇〇 (lead), 〇〇, 〇〇
 [Ngày retro] 〇 ngày sau đàm phán
 
-━━━ ① What Worked ━━━
+--- ① What Worked ---
   □ 〇〇 (vd: BATNA 3 scenario làm walk-away rõ)
   □ 〇〇 (vd: recap mail trong 24h khiến ringi không block)
   □ 〇〇
 
-━━━ ② What Didn't ━━━
+--- ② What Didn't ---
   □ 〇〇 (vd: freeze 5 giây với indemnity unlimited push)
   □ 〇〇 (vd: miss VN-style discount 0.5 giây)
   □ 〇〇
 
-━━━ ③ Counterfactual (Nếu mình ~) ━━━
+--- ③ Counterfactual (Nếu mình ~) ---
   □ Nếu 〇〇, có thể 〇〇
   □ Nếu pre-print 〇〇, có thể ngăn 〇〇
   □ Nếu pre-MTG brief 1 phút 〇〇, có thể 〇〇
 
-━━━ ④ Pattern Recognition (lặp lại across vụ?) ━━━
+--- ④ Pattern Recognition (lặp lại across vụ?) ---
   □ Quan sát cùng pattern ở 〇 vụ trước (vd: VN BD nhảy vào immediate concession)
   □ Cultural default? Cá biệt? Cần intervention cấp team?
 
-━━━ ⑤ Next Commit (tối đa 3) ━━━
+--- ⑤ Next Commit (tối đa 3) ---
   (a) Action cụ thể: 〇〇 / Owner: 〇〇 / Deadline: 〇/〇 / Đo hiệu quả: 〇〇
   (b) Action cụ thể: 〇〇 / Owner: 〇〇 / Deadline: 〇/〇 / Đo hiệu quả: 〇〇
   (c) Action cụ thể: 〇〇 / Owner: 〇〇 / Deadline: 〇/〇 / Đo hiệu quả: 〇〇
 
-━━━ Lịch Follow-up Retro ━━━
+--- Lịch Follow-up Retro ---
   □ 3 tháng sau (〇/〇) tổ chức retro check adherence của commit (a)/(b)/(c)
   □ Đã lưu retro doc trong team wiki
   □ Đã share cho stakeholder
@@ -415,35 +415,35 @@ Tel: 〇〇
 *JP: 3段階提案シート (Good / Better / Best)*
 
 ```
-━━━ 3段階ご提案 — 〇〇プロジェクト ━━━
+--- 3段階ご提案 — 〇〇プロジェクト ---
 御社名:〇〇 様
 提案日:〇〇年〇月〇日
 提案者:ティエンファット 〇〇
 
-┌─────────────────────────────────────────────┐
-│  【Good】 ¥〇〇M (basic)                                  │
-│  • コア機能: 〇〇                                          │
-│  • SLA: 〇〇% (営業時間サポート)                            │
-│  • 含まれない: 〇〇 / 〇〇                                  │
-│  • 適合先: PoC 用途・予算厳しい場合                           │
-└─────────────────────────────────────────────┘
++---------------------------------------------+
+|  【Good】 ¥〇〇M (basic)                                  |
+|  • コア機能: 〇〇                                          |
+|  • SLA: 〇〇% (営業時間サポート)                            |
+|  • 含まれない: 〇〇 / 〇〇                                  |
+|  • 適合先: PoC 用途・予算厳しい場合                           |
++---------------------------------------------+
 
-┌─────────────────────────────────────────────┐
-│  【Better】 ¥〇〇M  ★おすすめ★                            │
-│  • コア機能 + 〇〇 (key feature)                            │
-│  • SLA: 〇〇.〇% (24/7サポート)                            │
-│  • 含む: 〇〇 / 〇〇 / 〇〇                                  │
-│  • 適合先: 御社の Phase 〇 目的「〇〇」に最適                  │
-│  • 期待 ROI: 〇〇                                          │
-└─────────────────────────────────────────────┘
++---------------------------------------------+
+|  【Better】 ¥〇〇M  ★おすすめ★                            |
+|  • コア機能 + 〇〇 (key feature)                            |
+|  • SLA: 〇〇.〇% (24/7サポート)                            |
+|  • 含む: 〇〇 / 〇〇 / 〇〇                                  |
+|  • 適合先: 御社の Phase 〇 目的「〇〇」に最適                  |
+|  • 期待 ROI: 〇〇                                          |
++---------------------------------------------+
 
-┌─────────────────────────────────────────────┐
-│  【Best】 ¥〇〇M (full)                                   │
-│  • Better のすべて + 専任 SRE 常駐                          │
-│  • SLA: 〇〇.〇〇%                                          │
-│  • 含む: 優先開発枠・カスタムレポート                          │
-│  • 適合先: 大規模・ミッションクリティカル運用                    │
-└─────────────────────────────────────────────┘
++---------------------------------------------+
+|  【Best】 ¥〇〇M (full)                                   |
+|  • Better のすべて + 専任 SRE 常駐                          |
+|  • SLA: 〇〇.〇〇%                                          |
+|  • 含む: 優先開発枠・カスタムレポート                          |
+|  • 適合先: 大規模・ミッションクリティカル運用                    |
++---------------------------------------------+
 
 ■ 比較表 (主要項目のみ)
   項目        | Good   | Better | Best  
@@ -458,35 +458,35 @@ Tel: 〇〇
 **Bản Việt placeholder:**
 
 ```
-━━━ Đề xuất 3-tier — Dự án 〇〇 ━━━
+--- Đề xuất 3-tier — Dự án 〇〇 ---
 Khách hàng: Quý công ty 〇〇
 Ngày đề xuất: 〇/〇/〇
 Người đề xuất: ティエンファット 〇〇
 
-┌─────────────────────────────────────────────┐
-│  [Good] ¥〇〇M (basic)                                    │
-│  • Tính năng core: 〇〇                                   │
-│  • SLA: 〇〇% (support trong giờ)                          │
-│  • Không bao gồm: 〇〇 / 〇〇                              │
-│  • Phù hợp: PoC, ngân sách hạn                             │
-└─────────────────────────────────────────────┘
++---------------------------------------------+
+|  [Good] ¥〇〇M (basic)                                    |
+|  • Tính năng core: 〇〇                                   |
+|  • SLA: 〇〇% (support trong giờ)                          |
+|  • Không bao gồm: 〇〇 / 〇〇                              |
+|  • Phù hợp: PoC, ngân sách hạn                             |
++---------------------------------------------+
 
-┌─────────────────────────────────────────────┐
-│  [Better] ¥〇〇M  ★ ĐỀ XUẤT ★                          │
-│  • Core + 〇〇 (key feature)                              │
-│  • SLA: 〇〇.〇% (support 24/7)                            │
-│  • Bao gồm: 〇〇 / 〇〇 / 〇〇                              │
-│  • Phù hợp: Mục tiêu Phase 〇 '〇〇' của quý cty           │
-│  • ROI kỳ vọng: 〇〇                                       │
-└─────────────────────────────────────────────┘
++---------------------------------------------+
+|  [Better] ¥〇〇M  ★ ĐỀ XUẤT ★                          |
+|  • Core + 〇〇 (key feature)                              |
+|  • SLA: 〇〇.〇% (support 24/7)                            |
+|  • Bao gồm: 〇〇 / 〇〇 / 〇〇                              |
+|  • Phù hợp: Mục tiêu Phase 〇 '〇〇' của quý cty           |
+|  • ROI kỳ vọng: 〇〇                                       |
++---------------------------------------------+
 
-┌─────────────────────────────────────────────┐
-│  [Best] ¥〇〇M (full)                                     │
-│  • Toàn bộ Better + SRE chuyên trách túc trực              │
-│  • SLA: 〇〇.〇〇%                                          │
-│  • Bao gồm: ưu tiên dev feature, báo cáo custom             │
-│  • Phù hợp: vận hành quy mô lớn, mission-critical           │
-└─────────────────────────────────────────────┘
++---------------------------------------------+
+|  [Best] ¥〇〇M (full)                                     |
+|  • Toàn bộ Better + SRE chuyên trách túc trực              |
+|  • SLA: 〇〇.〇〇%                                          |
+|  • Bao gồm: ưu tiên dev feature, báo cáo custom             |
+|  • Phù hợp: vận hành quy mô lớn, mission-critical           |
++---------------------------------------------+
 
 ■ Bảng so sánh (mục chính)
   Mục         | Good   | Better | Best   
@@ -586,11 +586,11 @@ Bên B: Cty Tiên Phát — Đại diện pháp luật 〇〇 〇〇  (Dấu)
 〇〇年〇月〇日
 ティエンファット社 / 〇〇株式会社
 
-━━━━━━━━━━━━━━━━━━━━
+--------------------
 【プレスリリース】
 ティエンファット社、〇〇株式会社と AI 〇〇 Phase 〇 業務委託契約締結
 — 数千万円規模、〇〇年〇月キックオフ —
-━━━━━━━━━━━━━━━━━━━━
+--------------------
 
 ティエンファット社 (本社: ハノイ、代表取締役: 〇〇 〇〇、以下「ティエンファット」) は、〇〇株式会社 (本社: 東京、代表取締役: 〇〇 〇〇、以下「〇〇社」) との間で、AI 〇〇 Phase 〇 業務委託契約を 〇〇年〇月〇日付で締結しましたのでお知らせいたします。
 
@@ -628,11 +628,11 @@ Kính gửi báo chí
 Ngày 〇/〇/〇
 Cty Tiên Phát / Cty 〇〇
 
-━━━━━━━━━━━━━━━━━━━━
+--------------------
 [PRESS RELEASE]
 Cty Tiên Phát ký Hợp đồng giao việc AI 〇〇 Phase 〇 với Cty 〇〇
 — Quy mô vài chục triệu yên, kickoff 〇/〇 —
-━━━━━━━━━━━━━━━━━━━━
+--------------------
 
 Cty Tiên Phát (HQ: Hà Nội, Đại diện: 〇〇 〇〇, sau đây 'Tiên Phát') ký Hợp đồng giao việc AI 〇〇 Phase 〇 với Cty 〇〇 (HQ: Tokyo, Đại diện: 〇〇 〇〇, sau đây 'Cty 〇〇') vào ngày 〇/〇/〇.
 

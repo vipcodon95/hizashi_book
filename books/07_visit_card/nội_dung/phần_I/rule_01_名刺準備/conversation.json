@@ -9,7 +9,12 @@
     "ja": "白鷗3名(大垣・松本・中村CFO)+通訳の HCMC 訪問前日、ズンがリンに名刺準備の4条件を確認させる場面。",
     "vi": "Tối trước ngày đoàn 白鷗 3 người + thông dịch đến HCMC, Dũng kiểm tra Linh đã chuẩn bị danh thiếp 4 điều kiện."
   },
-  "related_rules": ["rule_02", "rule_03", "rule_04", "rule_05"],
+  "related_rules": [
+    "rule_02",
+    "rule_03",
+    "rule_04",
+    "rule_05"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -98,7 +103,9 @@
           "sentence": "ズン先輩、明日の名刺準備の4条件チェック完了しました。",
           "sentence_translation": "Anh Dũng, em đã check xong 4 điều kiện chuẩn bị danh thiếp cho mai ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_01_good_02",
@@ -118,7 +125,10 @@
           "sentence_translation": "① Hộp riêng: hộp danh thiếp đã có. ② 2 mặt JP/EN: đã in (ảnh mẫu đính kèm). ③ Số lượng: 14 + dự phòng 6 = 20 tờ. ④ Check typo: anh Tuấn kiểm tra lại rồi ạ.",
           "tone": "formal",
           "speed_multiplier": 0.95,
-          "annotation_ids": ["2", "3"]
+          "annotation_ids": [
+            "2",
+            "3"
+          ]
         },
         {
           "line_id": "rule_01_good_04",
@@ -157,12 +167,12 @@
       "skill": "場面把握",
       "question_ja": "顧客訪問前の名刺準備で最も重要でないものは？",
       "options": [
-        "専用名刺ケースに入れる",
-        "両面(日本語+英語)印刷",
+        "鞄の中に直接バラで持参",
         "人数×2倍の枚数+buffer",
-        "鞄の中に直接バラで持参"
+        "専用名刺ケースに入れる",
+        "両面(日本語+英語)印刷"
       ],
-      "correct": "D",
+      "correct": "A",
       "explanation": {
         "ja": "鞄の中バラ入れは折れ・汚れの原因。専用ケース必須。",
         "vi": "Để bừa trong cặp = nhăn/bẩn. Hộp riêng bắt buộc."

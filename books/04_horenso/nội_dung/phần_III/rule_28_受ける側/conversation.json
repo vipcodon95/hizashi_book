@@ -9,7 +9,11 @@
     "ja": "リンがズンに挨拶メールのテンプレ選択を相談する場面。即答する悪い例から、要約・仮説確認・観点追加・相手に結論を下させる・DR化の coaching 5ステップへ。",
     "vi": "Em Linh tham vấn anh Dũng về template email khách Nhật. Từ pattern xấu (trả lời thẳng) → coaching 5 bước (tóm tắt / xác nhận giả thuyết / thêm axis / để Linh kết luận / DR hóa)."
   },
-  "related_rules": ["rule_25", "rule_27", "rule_34"],
+  "related_rules": [
+    "rule_25",
+    "rule_27",
+    "rule_34"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -125,7 +129,9 @@
           "sentence": "①要約: AとBで迷っているということだね。②リン自身の仮説は?どっちに寄ってる、その理由は?",
           "sentence_translation": "[Tóm tắt] Em đang phân vân giữa A và B đúng không. [Giả thuyết của Linh] Em nghiêng cái nào, lý do gì?",
           "tone": "warm",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_28_good_03",
@@ -153,7 +159,9 @@
           "sentence": "あ、なるほど…キックオフだとフォーマルさも残したい…Aをベースに、最後の1段落だけ親しみやすい表現に変えるのがいいかも。",
           "sentence_translation": "À đúng rồi... kickoff thì cũng muốn giữ formal... Em nghĩ lấy A làm gốc, đoạn cuối đổi sang phong cách thân thiện thôi ạ.",
           "tone": "neutral",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_28_good_06",
@@ -163,7 +171,10 @@
           "sentence": "④良い結論。それで進めて。⑤Decision Register に1行残しておいて: 論点・検討案・採用・理由・観点。来週レビューするね。",
           "sentence_translation": "[Kết luận tốt] Em đi theo đó. [DR] Lưu 1 dòng vào Decision Register: luận điểm / options / chọn / lý do / axis. Tuần sau anh review nhé.",
           "tone": "warm",
-          "annotation_ids": ["3", "4"]
+          "annotation_ids": [
+            "3",
+            "4"
+          ]
         },
         {
           "line_id": "rule_28_good_07",
@@ -202,12 +213,12 @@
       "skill": "場面把握",
       "question_ja": "junior から相談を受けた時、最も適切な対応は?",
       "options": [
-        "即答1語で答え、効率よく終わらせる",
-        "『自分で考えろ』と突き返す",
         "要約 → 仮説確認 → 観点追加 → 相手に結論を下させ → DR化",
+        "『自分で考えろ』と突き返す",
+        "即答1語で答え、効率よく終わらせる",
         "全ての選択肢を網羅的に提示する"
       ],
-      "correct": "C",
+      "correct": "A",
       "explanation": {
         "ja": "即答は学習機会を奪い、同じ相談が繰り返される。突き返すと相談文化が崩壊する。コーチング5ステップで判断軸を内在化させるのが最適。",
         "vi": "Trả lời ngay = cướp cơ hội học, lặp tham vấn cùng pattern. Đẩy ra = phá văn hóa tham vấn. Coaching 5 bước để nội hóa axis là tối ưu."

@@ -9,7 +9,12 @@
     "ja": "ズンが Phase 2 デモ後、フオン副部長へ口頭報告する場面。3原則（結論先出し・事実と意見の分離・タイムリー）を実演。",
     "vi": "Em Dũng báo cáo chị Hương sau buổi demo Phase 2. Áp dụng 3 nguyên tắc: kết luận trước, tách fact/opinion, kịp thời."
   },
-  "related_rules": ["rule_02", "rule_03", "rule_07", "rule_09"],
+  "related_rules": [
+    "rule_02",
+    "rule_03",
+    "rule_07",
+    "rule_09"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -97,7 +102,9 @@
           "sentence": "フオン副部長、Phase 2デモのご報告です。結論は、概ね合格、ただし画面遷移の1点は再検討が必要です。",
           "sentence_translation": "Chị Hương, em xin báo cáo về demo Phase 2. Kết luận: cơ bản đạt, nhưng luồng chuyển màn cần xem lại ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_01_good_02",
@@ -116,7 +123,9 @@
           "sentence": "事実として、松本様から『画面遷移のスピードが遅く感じる』とのコメントがございました。私見では、APIレスポンス待ちが原因と推測しております。",
           "sentence_translation": "Sự thật: anh Matsumoto có comment 'cảm giác luồng chuyển màn hơi chậm'. Theo ý kiến em, nguyên nhân có thể do thời gian chờ API ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_01_good_04",
@@ -126,7 +135,9 @@
           "sentence": "対応としては、明日トゥアンと原因切り分けを行い、対応方針を水曜中にご報告いたします。",
           "sentence_translation": "Về cách xử lý, ngày mai em với anh Tuấn sẽ phân tách nguyên nhân, và em sẽ báo cáo phương án trong thứ Tư ạ.",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_01_good_05",
@@ -165,12 +176,12 @@
       "skill": "場面把握",
       "question_ja": "口頭報告で最も避けるべきパターンは？",
       "options": [
-        "結論を最初に述べる",
         "事実と私見を明示的に分ける",
         "経過から長々と話し、最後に結論を出す",
-        "対応策と期限を最後に伝える"
+        "対応策と期限を最後に伝える",
+        "結論を最初に述べる"
       ],
-      "correct": "C",
+      "correct": "B",
       "explanation": {
         "ja": "報告の3原則は『結論先出し・事実/私見分離・タイムリー』。経過から始めると相手は判断できず時間を消耗する。",
         "vi": "3 nguyên tắc báo cáo: kết luận trước / tách fact-opinion / kịp thời. Kể quá trình trước = đối phương không quyết được, mất thời gian."

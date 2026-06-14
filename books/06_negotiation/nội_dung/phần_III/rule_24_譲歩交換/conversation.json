@@ -9,7 +9,11 @@
     "ja": "Ōgaki が AI dashboard 込み ¥17M を要求。Dũng が tit-for-tat で 2年契約 + 事例公開を交換条件にする場面。",
     "vi": "Ōgaki ép AI dashboard kèm ¥17M. Dũng tit-for-tat đổi 2 năm hợp đồng + cho phép công bố case."
   },
-  "related_rules": ["rule_09", "rule_19", "rule_21"],
+  "related_rules": [
+    "rule_09",
+    "rule_19",
+    "rule_21"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -112,7 +116,11 @@
           "sentence": "ご検討ありがとうございます。AI dashboard 込みで ¥17M、もし以下の 2 点をお取り計らいいただけましたら、お受けできます: (1) 契約期間 2 年確定 + 自動 1 年更新条項、(2) 公式事例として御社名公開許可 (来期 marketing で活用)。",
           "sentence_translation": "Cảm ơn quý anh đã xem xét ạ. AI dashboard kèm ¥17M, nếu quý anh sắp xếp được 2 điểm sau thì em có thể nhận: (1) Hợp đồng cố định 2 năm + điều khoản tự động gia hạn 1 năm, (2) Cho phép công bố tên quý cty làm case chính thức (em dùng cho marketing kỳ sau) ạ.",
           "tone": "formal",
-          "annotation_ids": ["1", "2", "3"]
+          "annotation_ids": [
+            "1",
+            "2",
+            "3"
+          ]
         },
         {
           "line_id": "rule_24_good_03",
@@ -131,7 +139,9 @@
           "sentence": "もちろんです。両方ご了承いただけた段階で ¥17M + dashboard 込みで確定、もし (2) のみ難しい場合は contractual に scope 調整となります。",
           "sentence_translation": "Tất nhiên ạ. Khi cả 2 đều OK em sẽ chốt ¥17M + dashboard, nếu chỉ (2) khó thì sẽ điều chỉnh scope trong hợp đồng ạ.",
           "tone": "formal",
-          "annotation_ids": ["4"]
+          "annotation_ids": [
+            "4"
+          ]
         },
         {
           "line_id": "rule_24_good_05",
@@ -171,11 +181,11 @@
       "question_ja": "顧客が「dashboard 込みで ¥17M に」と要求した際の最適 phrase は？",
       "options": [
         "「分かりました、¥17M で」",
-        "「もし契約期間2年化と事例公開許可をいただけましたら、¥17M+dashboard でお受けできます」",
+        "「上司に聞きます」と保留",
         "「dashboard は別料金です」と切る",
-        "「上司に聞きます」と保留"
+        "「もし契約期間2年化と事例公開許可をいただけましたら、¥17M+dashboard でお受けできます」"
       ],
-      "correct": "B",
+      "correct": "D",
       "explanation": {
         "ja": "tit-for-tat は trade とセット。条件提示で leverage を保ち、unilateral concession を避ける。",
         "vi": "Tit-for-tat luôn đi với trade. Đưa điều kiện giữ leverage, tránh nhượng đơn phương."

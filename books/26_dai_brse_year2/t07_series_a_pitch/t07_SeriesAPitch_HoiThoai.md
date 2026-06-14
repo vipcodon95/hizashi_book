@@ -65,7 +65,7 @@
 
 | Vai | Lời thoại |
 |---|---|
-| Đại | (VN) Anh ơi! 9h Zoom WiL. Mori-san partner Tokyo + Mark Suzuki SV partner. |
+| Đại | (VN) Anh ơi! 9h Zoom WiL. Hayashi-san partner Tokyo + Mark Suzuki SV partner. |
 | Tuấn | (VN) Mark Suzuki sẽ nói tiếng Anh. Em chuẩn bị câu trả lời US expansion. |
 | Đại | (VN) Vâng anh. Em đã rehearse câu "1.2M Asian-American JP learners, year 4-5 US entry". |
 | Tuấn | (VN) Khi nào Hayashi nói JP thì em respond JP. Khi nào Mark hỏi EN em switch EN luôn. Không lúng túng. |
@@ -78,7 +78,7 @@
 | Vai | Lời thoại |
 |---|---|
 | Hayashi (JP) | (JP) ダイさん、トゥアンさん、おはようございます。WiLの<ruby>林<rt>はやし</rt></ruby>です。<ruby>本日<rt>ほんじつ</rt></ruby>はサンフランシスコのマーク・<ruby>鈴木<rt>すずき</rt></ruby><ruby>共同<rt>きょうどう</rt></ruby>パートナーと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>させていただきます。<br>*(Đại-san, Tuấn-san, chào buổi sáng. Tôi Hayashi của WiL. Hôm nay cùng Mark Suzuki partner SF tham dự.)* |
-| Đại | <ruby>林<rt>はやし</rt></ruby>さん、マークさん、<ruby>本日<rt>ほんじつ</rt></ruby>はピッチの<ruby>機会<rt>きかい</rt></ruby>をいただき、ありがとうございます。<br>*(Mori-san, Mark-san, cảm ơn đã cho cơ hội pitch hôm nay.)* |
+| Đại | <ruby>林<rt>はやし</rt></ruby>さん、マークさん、<ruby>本日<rt>ほんじつ</rt></ruby>はピッチの<ruby>機会<rt>きかい</rt></ruby>をいただき、ありがとうございます。<br>*(Hayashi-san, Mark-san, cảm ơn đã cho cơ hội pitch hôm nay.)* |
 | Đại | Mark, good morning! Thank you for joining from SF.<br>*(Mark, chào buổi sáng! Cảm ơn anh tham gia từ SF.)* |
 | Mark Suzuki | (EN) Good evening on my side, Đại! Looking forward to the pitch.<br>*(Bên tôi là buổi tối, Đại! Mong chờ phần pitch.)* |
 | Đại | (pitch 30 phút bilingual — slide chính JP, comment quick EN cho Mark) | 

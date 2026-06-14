@@ -224,12 +224,12 @@
       "skill": "発言聴解",
       "question_ja": "Sev1 incident 検知時の正しい第一報内容は?",
       "options": [
-        "原因を推測して伝える",
-        "発生事実 + 影響範囲 + 調査中ステータス（原因とETAは未確定なら別途）",
+        "客先には復旧後にまとめて報告",
         "解決時間を約束する",
-        "客先には復旧後にまとめて報告"
+        "発生事実 + 影響範囲 + 調査中ステータス（原因とETAは未確定なら別途）",
+        "原因を推測して伝える"
       ],
-      "correct": "B",
+      "correct": "C",
       "explanation": {
         "ja": "第一報は『事実+影響範囲+調査中』のみ。原因推測やETA約束は二重約束のリスク。情報が固まり次第、別報で順次更新。",
         "vi": "Báo cáo đầu chỉ 'fact + impact + investigating'. Suy đoán nguyên nhân hoặc hứa ETA = rủi ro hứa kép. Khi info cứng thì update từng phần."

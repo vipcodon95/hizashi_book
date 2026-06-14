@@ -9,7 +9,11 @@
     "ja": "ズンが4月度月例会議（白鷗 × ティエンファット）のアジェンダを作成し、フオン副部長に確認をもらう場面。5要素（目的・議題・出席者・時間・アウトプット）が揃ったアジェンダを作る。",
     "vi": "Em Dũng draft agenda cho buổi họp định kỳ tháng 4 (白鷗 × ティエンファット), nhờ chị Hương review. Phải có đủ 5 yếu tố: mục đích / nội dung / người tham dự / thời lượng / output."
   },
-  "related_rules": ["rule_02", "rule_13", "rule_45"],
+  "related_rules": [
+    "rule_02",
+    "rule_13",
+    "rule_45"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -90,7 +94,9 @@
           "sentence": "フオン副部長、4月度月例会議のアジェンダ案を作成しました。ご確認お願いいたします。",
           "sentence_translation": "Chị Hương, đây là draft agenda cho buổi họp định kỳ tháng 4 ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_01_good_02",
@@ -109,7 +115,9 @@
           "sentence": "はい、Phase 2 の進捗共有と来月の計画を1時間で決めたい旨を冒頭に書きました。",
           "sentence_translation": "Vâng, em đã ghi rõ ngay đầu là chia sẻ tiến độ Phase 2 và quyết kế hoạch tháng sau trong 1 tiếng ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_01_good_04",
@@ -148,12 +156,12 @@
       "skill": "場面把握",
       "question_ja": "アジェンダに含めるべきでない要素は次のうちどれか？",
       "options": [
-        "目的とアウトプット",
+        "参加者の個人的な趣味",
         "出席者と時間配分",
-        "事前資料の有無",
-        "参加者の個人的な趣味"
+        "目的とアウトプット",
+        "事前資料の有無"
       ],
-      "correct": "D",
+      "correct": "A",
       "explanation": {
         "ja": "アジェンダの5要素は『目的・議題・出席者・時間・アウトプット』。趣味は不要。",
         "vi": "5 yếu tố agenda: mục đích / nội dung / người tham dự / thời gian / output. Sở thích cá nhân không cần."

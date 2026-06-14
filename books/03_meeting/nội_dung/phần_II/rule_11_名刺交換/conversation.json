@@ -9,7 +9,10 @@
     "ja": "リンが大垣営業部長と初めて名刺交換する場面。両手・氏名復唱・席順配置の3原則を実践。詳細は別途サック07参照。",
     "vi": "Linh lần đầu trao danh thiếp với anh Ōgaki. Áp dụng 3 nguyên tắc: hai tay, đọc lại tên, đặt theo vị trí ngồi. Chi tiết xem Sách 07."
   },
-  "related_rules": ["rule_10", "rule_12"],
+  "related_rules": [
+    "rule_10",
+    "rule_12"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -93,7 +96,9 @@
           "sentence": "頂戴いたします。大垣様、ティエンファット社、マーケティング部のリンでございます。",
           "sentence_translation": "Em xin phép nhận ạ. Anh Ōgaki, em là Linh — phòng Marketing bên Thiên Phát ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_11_good_03",
@@ -103,7 +108,9 @@
           "sentence": "よろしくお願いいたします。",
           "sentence_translation": "Em rất mong được anh giúp đỡ ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_11_good_04",
@@ -142,9 +149,9 @@
       "skill": "場面把握",
       "question_ja": "名刺を受け取った直後に正しい行動はどれか？",
       "options": [
-        "すぐに財布の中にしまう",
-        "相手の氏名を声に出して確認し、卓上に席順どおり並べる",
         "名刺の裏に出席日付をメモする",
+        "相手の氏名を声に出して確認し、卓上に席順どおり並べる",
+        "すぐに財布の中にしまう",
         "二つに折って胸ポケットに入れる"
       ],
       "correct": "B",

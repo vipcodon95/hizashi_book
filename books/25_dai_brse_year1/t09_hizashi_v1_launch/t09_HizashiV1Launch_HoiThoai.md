@@ -34,7 +34,7 @@
 | Đại | おはようございます!<ruby>準備<rt>じゅんび</rt></ruby>はいかがですか?<br>*(Chào buổi sáng! Chuẩn bị thế nào rồi ạ?)* |
 | Tuấn | サーバー<ruby>側<rt>がわ</rt></ruby>のオートスケール<ruby>設定<rt>せってい</rt></ruby>が<ruby>完了<rt>かんりょう</rt></ruby>しました。CPU 30%、メモリ40%、エラー<ruby>率<rt>りつ</rt></ruby>0.1%。<ruby>問題<rt>もんだい</rt></ruby>ないです。<br>*(Setup auto-scale server xong rồi. CPU 30%, memory 40%, error 0.1%. Không vấn đề.)* |
 | Aiko | アプリストアと Google Play の<ruby>掲載情報<rt>けいさいじょうほう</rt></ruby>も<ruby>最終<rt>さいしゅう</rt></ruby><ruby>確認済<rt>かくにんず</rt></ruby>みです。スクリーンショットも<ruby>差<rt>さ</rt></ruby>し<ruby>替<rt>か</rt></ruby>えました。<br>*(Thông tin trên App Store với Google Play đã check lần cuối. Screenshot cũng đã đổi.)* |
-| Đại | ありがとうございます。<ruby>9時<rt>くじ</rt></ruby>の TechCrunch <ruby>記事<rt>きじ</rt></ruby><ruby>公開<rt>こうかい</rt></ruby>まで<ruby>あと<rt></rt></ruby>1<ruby>時間<rt>じかん</rt></ruby>です。<ruby>各自<rt>かくじ</rt></ruby>、もう<ruby>一度<rt>いちど</rt></ruby><ruby>持<rt>も</rt></ruby>ち<ruby>場<rt>ば</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>しましょう。<br>*(Cảm ơn. Còn 1 tiếng nữa là bài TechCrunch public. Mỗi người check lại vị trí của mình một lần nữa nhé.)* |
+| Đại | ありがとうございます。<ruby>9時<rt>くじ</rt></ruby>の TechCrunch <ruby>記事<rt>きじ</rt></ruby><ruby>公開<rt>こうかい</rt></ruby>まであと1<ruby>時間<rt>じかん</rt></ruby>です。<ruby>各自<rt>かくじ</rt></ruby>、もう<ruby>一度<rt>いちど</rt></ruby><ruby>持<rt>も</rt></ruby>ち<ruby>場<rt>ば</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>しましょう。<br>*(Cảm ơn. Còn 1 tiếng nữa là bài TechCrunch public. Mỗi người check lại vị trí của mình một lần nữa nhé.)* |
 | Tuấn | <ruby>了解<rt>りょうかい</rt></ruby>。<ruby>僕<rt>ぼく</rt></ruby>はサーバー<ruby>担当<rt>たんとう</rt></ruby>です。<br>*(Hiểu. Em phụ trách server.)* |
 | Aiko | <ruby>私<rt>わたし</rt></ruby>はSNSとコミュニティ<ruby>対応<rt>たいおう</rt></ruby>を<ruby>担当<rt>たんとう</rt></ruby>します。<br>*(Em phụ trách SNS với phản hồi cộng đồng.)* |
 
@@ -69,16 +69,16 @@
 
 ## Tình huống 5 — WeWork · 9:30, phỏng vấn chớp nhoáng với phóng viên TechCrunch JP
 
-*Phóng viên Kobayashi-san của TechCrunch JP gọi follow-up qua Zoom 10 phút để xin thêm comment cho bản update bài.*
+*Phóng viên Sato-san của TechCrunch JP gọi follow-up qua Zoom 10 phút để xin thêm comment cho bản update bài.*
 
 | Vai | Lời thoại |
 |---|---|
-| Kobayashi | グエンさん、<ruby>本日<rt>ほんじつ</rt></ruby>はお<ruby>時間<rt>じかん</rt></ruby>ありがとうございます。<ruby>記事<rt>きじ</rt></ruby>の<ruby>反響<rt>はんきょう</rt></ruby>はいかがですか?<br>*(Anh Đại, cảm ơn anh đã dành thời gian. Phản hồi của bài viết thế nào ạ?)* |
+| Sato | グエンさん、<ruby>本日<rt>ほんじつ</rt></ruby>はお<ruby>時間<rt>じかん</rt></ruby>ありがとうございます。<ruby>記事<rt>きじ</rt></ruby>の<ruby>反響<rt>はんきょう</rt></ruby>はいかがですか?<br>*(Anh Đại, cảm ơn anh đã dành thời gian. Phản hồi của bài viết thế nào ạ?)* |
 | Đại | お<ruby>陰<rt>かげ</rt></ruby>さまで、<ruby>30分<rt>さんじゅっぷん</rt></ruby>で<ruby>67名<rt>ろくじゅうななめい</rt></ruby>の<ruby>新規<rt>しんき</rt></ruby><ruby>登録<rt>とうろく</rt></ruby>をいただいております。<ruby>想定<rt>そうてい</rt></ruby>を<ruby>大<rt>おお</rt></ruby>きく<ruby>上回<rt>うわまわ</rt></ruby>っております。<br>*(Nhờ anh, trong 30 phút đã có 67 lượt đăng ký mới ạ. Vượt xa dự kiến ban đầu.)* |
-| Kobayashi | Hizashi の<ruby>強<rt>つよ</rt></ruby>みについて、<ruby>一言<rt>ひとこと</rt></ruby>で<ruby>説明<rt>せつめい</rt></ruby>していただけますか?<br>*(Có thể giải thích trong một câu về thế mạnh của Hizashi không ạ?)* |
-| Đại | はい、<ruby>簡単<rt>かんたん</rt></ruby>にご<ruby>説明<rt>せつめい</rt></ruby>します。Hizashi は、ベトナム<ruby>人学習者<rt>じんがくしゅうしゃ</rt></ruby>の<ruby>母語<rt>ぼご</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせて<ruby>設計<rt>せっけい</rt></ruby>された AI チューターです。<br>*(Vâng, em xin giải thích đơn giản. Hizashi là AI tutor được thiết kế phù hợp đặc điểm tiếng mẹ đẻ của người học Việt Nam.)* |
+| Sato | Hizashi の<ruby>強<rt>つよ</rt></ruby>みについて、<ruby>一言<rt>ひとこと</rt></ruby>で<ruby>説明<rt>せつめい</rt></ruby>していただけますか?<br>*(Có thể giải thích trong một câu về thế mạnh của Hizashi không ạ?)* |
+| Đại | はい、<ruby>簡単<rt>かんたん</rt></ruby>にご<ruby>説明<rt>せつめい</rt></ruby>します。Hizashi は、ベトナム<ruby>人<rt>じん</rt></ruby><ruby>学習者<rt>がくしゅうしゃ</rt></ruby>の<ruby>母語<rt>ぼご</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせて<ruby>設計<rt>せっけい</rt></ruby>された AI チューターです。<br>*(Vâng, em xin giải thích đơn giản. Hizashi là AI tutor được thiết kế phù hợp đặc điểm tiếng mẹ đẻ của người học Việt Nam.)* |
 | Đại | <ruby>特<rt>とく</rt></ruby>に<ruby>発音<rt>はつおん</rt></ruby>の<ruby>誤<rt>あやま</rt></ruby>りやすい<ruby>箇所<rt>かしょ</rt></ruby>を<ruby>自動<rt>じどう</rt></ruby>で<ruby>検出<rt>けんしゅつ</rt></ruby>し、<ruby>個別<rt>こべつ</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>メニューを<ruby>提案<rt>ていあん</rt></ruby>します。<br>*(Đặc biệt tự động phát hiện điểm phát âm hay sai và đề xuất menu luyện tập cá nhân hoá.)* |
-| Kobayashi | <ruby>素晴<rt>すば</rt></ruby>らしいです。<ruby>追加記事<rt>ついかきじ</rt></ruby>に<ruby>反映<rt>はんえい</rt></ruby>させていただきます。ありがとうございました。<br>*(Tuyệt vời. Em sẽ phản ánh vào bài bổ sung. Cảm ơn anh.)* |
+| Sato | <ruby>素晴<rt>すば</rt></ruby>らしいです。<ruby>追加記事<rt>ついかきじ</rt></ruby>に<ruby>反映<rt>はんえい</rt></ruby>させていただきます。ありがとうございました。<br>*(Tuyệt vời. Em sẽ phản ánh vào bài bổ sung. Cảm ơn anh.)* |
 | Đại | こちらこそ、ありがとうございました。<br>*(Em mới phải cảm ơn anh ạ.)* |
 
 ---

@@ -189,12 +189,12 @@
       "skill": "発言聴解",
       "question_ja": "本番で critical bug を発見してから上司に第一報を入れるまでの理想的時間は？",
       "options": [
+        "原因が判明してから",
         "翌営業日の朝",
         "発見から30分以内",
-        "原因が判明してから",
         "対応が完了してから"
       ],
-      "correct": "B",
+      "correct": "C",
       "explanation": {
         "ja": "Critical 障害は『発見即報告』が原則。原因が分からなくても Fact / Impact / 暫定 Plan を30分以内に第一報する。",
         "vi": "Sự cố critical nguyên tắc 'phát hiện = báo ngay'. Chưa rõ nguyên nhân vẫn phải báo Fact / Impact / Plan tạm trong 30 phút."

@@ -1,34 +1,34 @@
-# Rule 65 — 添付ファイルは本文で名前・形式・サイズを明示する
+# Rule 65 — <ruby>添付<rt>てんぷ</rt></ruby>ファイルは<ruby>本文<rt>ほんぶん</rt></ruby>で<ruby>名前<rt>なまえ</rt></ruby>・<ruby>形式<rt>けいしき</rt></ruby>・サイズを<ruby>明示<rt>めいじ</rt></ruby>する
 
-> **要点.** ファイルを添付しても本文で触れないと、読み手はファイルを見逃す可能性がある。本文で必ず明示：**ファイル名（正確に）、形式、1行の要約**。
+> **<ruby>要点<rt>ようてん</rt></ruby>.** ファイルを添付しても本文で<ruby>触<rt>ふ</rt></ruby>れないと、<ruby>読<rt>よ</rt></ruby>み<ruby>手<rt>て</rt></ruby>はファイルを<ruby>見逃<rt>みのが</rt></ruby>す<ruby>可能性<rt>かのうせい</rt></ruby>がある。本文で<ruby>必<rt>かなら</rt></ruby>ず明示：**ファイル名（<ruby>正確<rt>せいかく</rt></ruby>に）、形式、1<ruby>行<rt>ぎょう</rt></ruby>の<ruby>要約<rt>ようやく</rt></ruby>**。
 >
 > キーワード：**「本文でファイル名を明示」**。
 
-## 悪い例
+## <ruby>悪<rt>わる</rt></ruby>い<ruby>例<rt>れい</rt></ruby>
 
-> 「フオン副部長、関連資料を添付いたします。」
+> 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、<ruby>関連<rt>かんれん</rt></ruby><ruby>資料<rt>しりょう</rt></ruby>を<ruby>添付<rt>てんぷ</rt></ruby>いたします。」
 
-→ 添付3ファイルがあるが、どれが重要かわからない。
+→ 添付3ファイルがあるが、どれが<ruby>重要<rt>じゅうよう</rt></ruby>かわからない。
 
 ## 良い例
 
-> 「フオン副部長、3ファイルを添付いたします：
+> 「フオン副部長、3ファイルを<ruby>添付<rt>てんぷ</rt></ruby>いたします：
 >
-> 1. **`weekly_report_w19.xlsx`** (1.2 MB) — 主要な週報、こちらを優先的にご確認ください。
-> 2. **`progress_chart.pdf`** (450 KB) — 進捗グラフ、参考資料。
-> 3. **`contract_ankang_v3.docx`** (320 KB) — 参考までに、詳細なご確認は不要です。」
+> 1. **`weekly_report_w19.xlsx`** (1.2 MB) — <ruby>主要<rt>しゅよう</rt></ruby>な<ruby>週報<rt>しゅうほう</rt></ruby>、こちらを<ruby>優先的<rt>ゆうせんてき</rt></ruby>にご<ruby>確認<rt>かくにん</rt></ruby>ください。
+> 2. **`progress_chart.pdf`** (450 KB) — <ruby>進捗<rt>しんちょく</rt></ruby>グラフ、<ruby>参考<rt>さんこう</rt></ruby><ruby>資料<rt>しりょう</rt></ruby>。
+> 3. **`contract_ankang_v3.docx`** (320 KB) — 参考までに、<ruby>詳細<rt>しょうさい</rt></ruby>なご確認は<ruby>不要<rt>ふよう</rt></ruby>です。」
 
 フオンは：
-- ファイル数を把握。
-- どれを先に開くべきか分かる。
-- 処理時間を予測できる。
+- ファイル<ruby>数<rt>すう</rt></ruby>を<ruby>把握<rt>はあく</rt></ruby>。
+- どれを<ruby>先<rt>さき</rt></ruby>に<ruby>開<rt>ひら</rt></ruby>くべきか<ruby>分<rt>わ</rt></ruby>かる。
+- <ruby>処理<rt>しょり</rt></ruby><ruby>時間<rt>じかん</rt></ruby>を<ruby>予測<rt>よそく</rt></ruby>できる。
 
 ## ファイル名のルール
 
-- 日本語文字・特殊文字は避ける（システムにより文字化け）。
-- フォーマット：`[トピック]_[バージョン]_[日付].ext`。例：`weekly_report_w19_2026-05-12.xlsx`。
-- 使用可能な記号は`_`と`-`のみ。
+- <ruby>日本語<rt>にほんご</rt></ruby><ruby>文字<rt>もじ</rt></ruby>・<ruby>特殊<rt>とくしゅ</rt></ruby>文字は<ruby>避<rt>さ</rt></ruby>ける（システムにより<ruby>文字化<rt>もじば</rt></ruby>け）。
+- フォーマット：`[トピック]_[バージョン]_[日付].ext`。<ruby>例<rt>れい</rt></ruby>：`weekly_report_w19_2026-05-12.xlsx`。
+- <ruby>使用<rt>しよう</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>記号<rt>きごう</rt></ruby>は`_`と`-`のみ。
 
-## 使えるフレーズ
+## <ruby>使<rt>つか</rt></ruby>えるフレーズ
 
-> **「ファイル名 ＋ 形式 ＋ サイズ ＋ 1文の説明、各ファイルに。」**
+> **「ファイル名 ＋ <ruby>形式<rt>けいしき</rt></ruby> ＋ サイズ ＋ 1<ruby>文<rt>ぶん</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>、<ruby>各<rt>かく</rt></ruby>ファイルに。」**

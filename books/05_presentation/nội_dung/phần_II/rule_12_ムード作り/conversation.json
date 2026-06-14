@@ -9,7 +9,11 @@
     "ja": "リン(インターン)が US-style な hype words (『ゲームチェンジャー』『革命的』『ファンタスティック』) で練習している → ズンが『着実』『確実』『丁寧』『安心』に置き換えるよう coach する場面。",
     "vi": "Linh đang luyện pitch với hype words kiểu US (「game changer」「cách mạng」「fantastic」) — Dũng coach chuyển sang nhóm từ 「chắc chắn / chỉn chu / yên tâm」."
   },
-  "related_rules": ["rule_08", "rule_11", "rule_18"],
+  "related_rules": [
+    "rule_08",
+    "rule_11",
+    "rule_18"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -90,7 +94,9 @@
           "sentence": "言葉を着実なものに置き換えよう。『ゲームチェンジャー』→『業務改善に確実に貢献』。『革命的』→『着実な改善』。『ファンタスティック』→『安心してお任せいただける』。",
           "sentence_translation": "Đổi sang nhóm từ chắc chắn nhé. 「Game changer」 → 「đóng góp chắc chắn vào việc cải tiến」. 「Cách mạng」 → 「cải thiện chắc chắn từng bước」. 「Fantastic」 → 「yên tâm giao phó」.",
           "tone": "warm",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_12_good_02",
@@ -110,7 +116,9 @@
           "sentence": "うん、いい。あと話速は5-10%遅めに。早口だと『売り急ぎ』に聞こえる。",
           "sentence_translation": "Ổn rồi. Với cả pace chậm hơn 5-10% nữa. Nói nhanh nghe như 「đang vội bán」.",
           "tone": "warm",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_12_good_04",
@@ -141,12 +149,12 @@
       "skill": "表現読解",
       "question_ja": "日本顧客向けプレゼンで「ゲームチェンジャー」を置き換えるなら？",
       "options": [
-        "革命的なソリューション",
-        "業務改善に確実に貢献するソリューション",
         "圧倒的に最強のソリューション",
-        "ファンタスティックなソリューション"
+        "ファンタスティックなソリューション",
+        "革命的なソリューション",
+        "業務改善に確実に貢献するソリューション"
       ],
-      "correct": "B",
+      "correct": "D",
       "explanation": {
         "ja": "JP business は『確実に』『着実に』『安心』が positive lexicon。Hype words は警戒される。",
         "vi": "JP business dùng 「确实」「chắc chắn」「yên tâm」 làm nhóm tích cực. Hype words bị đề phòng."

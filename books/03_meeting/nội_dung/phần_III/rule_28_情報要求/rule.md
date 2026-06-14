@@ -1,10 +1,10 @@
 # Rule 28 — Xin thêm thông tin / data / データ・情報を求める
 
-> **Luận điểm.** Quyết định chính xác cần data đầy đủ. Khi thiếu → xin thẳng nhưng có **lý do** + **mục đích sử dụng**: 「判断するために、〇〇のデータをいただけますでしょうか？」. Khách Nhật sẽ readily cung cấp khi biết data dùng vào đâu.
+> **Luận điểm.** Quyết định chính xác cần data đầy đủ. Khi thiếu → xin thẳng nhưng có **lý do** + **mục đích sử dụng**: 「判断するために、〇〇のデータをいただけますでしょうか？」. Khách Nhật sẽ sẵn sàng cung cấp khi biết data dùng vào đâu.
 >
 > 「判断するために、〇〇のデータをいただけますでしょうか？」— 用途を添えると相手は応じやすい。
 >
-> **Liên quan:** Rule 20 (5W1H), Rule 21 (clarification), Rule 27 (phản biện có data).
+> **Liên quan:** Rule 20 (5W1H), Rule 21 (hỏi lại cho rõ), Rule 27 (phản biện có data).
 
 ---
 
@@ -20,12 +20,16 @@ Em Dũng cần ước lượng tải hệ thống mới. Anh Matsumoto nói "lư
 
 | Vai | Câu |
 |---------|-----|
-| **松本** | 「リリース後、アクセス数はかなり増える見込みです。」 |
+| **松本** | 「リリース<ruby>後<rt>ご</rt></ruby>、アクセス<ruby>数<rt>すう</rt></ruby>はかなり<ruby>増<rt>ふ</rt></ruby>える<ruby>見込<rt>みこ</rt></ruby>みです。」 |
+|  | *Sau khi release, lượng truy cập dự kiến tăng đáng kể.* |
 | **ズン** | 「データください。」 |
+|  | *Anh cho em xin data ạ.* |
 | **松本** | 「…どのデータでしょうか？」 |
-| **ズン** | 「えーと、何でもいいんですが…」 |
+|  | *...Data nào nhỉ?* |
+| **ズン** | 「えーと、<ruby>何<rt>なん</rt></ruby>でもいいんですが…」 |
+|  | *Ơ... Cái gì cũng được ạ...* |
 
-**Vì sao xấu:** "データください" mơ hồ. 「何でもいい」 = không pro. Khách Nhật cần specific request.
+**Vì sao xấu:** "データください" mơ hồ. 「何でもいい」 = không pro. Khách Nhật cần yêu cầu cụ thể.
 
 ---
 
@@ -35,13 +39,17 @@ Em Dũng cần ước lượng tải hệ thống mới. Anh Matsumoto nói "lư
 
 | Vai | Câu |
 |---------|-----|
-| **松本** | 「リリース後、アクセス数はかなり増える見込みです。」 |
-| **ズン** | 「ありがとうございます。サーバーのキャパシティ設計を進めるために【1】、3点のデータをいただけますでしょうか？」 |
-| **ズン** | 「①現状のDAU・MAU、②ピーク時間帯のリクエスト数、③想定成長率の3点でございます【2】。月次データで構いません。」 |
-| **松本** | 「分かりました。来週月曜までに共有します。」 |
+| **松本** | 「リリース<ruby>後<rt>ご</rt></ruby>、アクセス<ruby>数<rt>すう</rt></ruby>はかなり<ruby>増<rt>ふ</rt></ruby>える<ruby>見込<rt>みこ</rt></ruby>みです。」 |
+|  | *Sau khi release, lượng truy cập dự kiến tăng đáng kể.* |
+| **ズン** | 「ありがとうございます。サーバーの<ruby>キャパシティ<rt>きゃぱしてぃ</rt></ruby><ruby>設計<rt>せっけい</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めるために【1】、3<ruby>点<rt>てん</rt></ruby>のデータをいただけますでしょうか？」 |
+|  | *Em cảm ơn ạ. Để thiết kế capacity server, em xin anh 3 data ạ.* |
+| **ズン** | 「①<ruby>現状<rt>げんじょう</rt></ruby>のDAU・MAU、②<ruby>ピーク時間帯<rt>ピークじかんたい</rt></ruby>のリクエスト<ruby>数<rt>すう</rt></ruby>、③<ruby>想定<rt>そうてい</rt></ruby><ruby>成長率<rt>せいちょうりつ</rt></ruby>の3<ruby>点<rt>てん</rt></ruby>でございます【2】。<ruby>月次<rt>げつじ</rt></ruby>データで<ruby>構<rt>かま</rt></ruby>いません。」 |
+|  | *Cụ thể là (1) DAU/MAU hiện tại, (2) số request giờ peak, (3) tỷ lệ tăng trưởng dự kiến ạ. Data hàng tháng là được ạ.* |
+| **松本** | 「<ruby>分<rt>わ</rt></ruby>かりました。<ruby>来週<rt>らいしゅう</rt></ruby><ruby>月曜<rt>げつよう</rt></ruby>までに<ruby>共有<rt>きょうゆう</rt></ruby>します。」 |
+|  | *OK rồi. Tôi share trước thứ Hai tuần sau.* |
 
 📝 **Ghi chú:**
-- 【1】**「〜するために、〇〇をいただけますでしょうか？」** — kèm mục đích sử dụng. Đối phương biết data dùng vào đâu → readily cung cấp.
+- 【1】**「〜するために、〇〇をいただけますでしょうか？」** — kèm mục đích sử dụng. Đối phương biết data dùng vào đâu → sẵn sàng cung cấp.
 - 【2】**「3点のデータ」** + danh sách cụ thể → không cãi nhau "data nào". Đếm số + liệt kê = chuẩn.
 
 ---
@@ -50,7 +58,7 @@ Em Dũng cần ước lượng tải hệ thống mới. Anh Matsumoto nói "lư
 
 > **「〜するために、〇〇のデータをいただけますでしょうか？」**
 >
-> *Mục đích + specific data = nhận được nhanh.*
+> *Mục đích + data cụ thể = nhận được nhanh.*
 
 ---
 

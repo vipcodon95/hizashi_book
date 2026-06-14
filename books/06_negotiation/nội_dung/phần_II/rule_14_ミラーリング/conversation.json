@@ -9,7 +9,10 @@
     "ja": "Discovery 中、相手の数値回答 (+15%、半減) を即 mirror して認識違いを防ぐ場面。",
     "vi": "Trong discovery, mirror ngay con số khách trả lời (+15%, giảm một nửa) để tránh hiểu sai."
   },
-  "related_rules": ["rule_12", "rule_13"],
+  "related_rules": [
+    "rule_12",
+    "rule_13"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -107,7 +110,9 @@
           "sentence": "つまり、目標は予測精度を現状から +15%、手動調整時間を 50% 削減 — この2点が Phase 3 の主要KPI、とのご認識でよろしいでしょうか？",
           "sentence_translation": "Tức là mục tiêu là độ chính xác dự báo +15% so với hiện tại, thời gian điều chỉnh thủ công -50% — 2 mục này là KPI chính của Phase 3, em hiểu vậy có đúng không ạ?",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_14_good_03",
@@ -126,7 +131,9 @@
           "sentence": "+15% は超過不要、cost との trade-off を意識、承知しました。次に予算感を伺ってもよろしいでしょうか？",
           "sentence_translation": "+15% không cần vượt, cân nhắc trade-off với cost — em rõ ạ. Tiếp theo cho phép em hỏi cảm giác ngân sách được không ạ?",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         }
       ]
     }
@@ -148,10 +155,10 @@
       "skill": "場面把握",
       "question_ja": "Discovery 中の mirroring の主目的は？",
       "options": [
-        "相手を称賛するため",
+        "値段を提示する前置き",
         "誤解防止と相手に「聞かれている」感を与えるため",
-        "時間を稼ぐため",
-        "値段を提示する前置き"
+        "相手を称賛するため",
+        "時間を稼ぐため"
       ],
       "correct": "B",
       "explanation": {

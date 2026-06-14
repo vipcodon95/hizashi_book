@@ -211,7 +211,7 @@ Tháng 4-5/2030. Hizashi Inc một tuần tuổi đã thuê 3 desks tại WeWork
 | Mai | (tiếng Việt) Câu đấy hay quá. "家庭の都合" — vì việc gia đình. Em ghi nhớ. |
 | Đại | (tiếng Việt) Còn nữa. Tuấn ép anh nghỉ Chủ Nhật, không laptop. Từ tuần sau Chủ Nhật là của ba mẹ con mình. |
 | Mai | (tiếng Việt, đôi mắt sáng) Thật á anh? |
-| Đại | (tiếng Việt) Thật. Sáng nay anh gặp cô Ueno nhà trẻ. Cô bảo Hana có hơi chậm tiếng vì song ngữ nhưng không lo. Mình cứ nói cả Việt cả Nhật ở nhà như đang làm. |
+| Đại | (tiếng Việt) Thật. Sáng nay anh gặp cô Yamada nhà trẻ. Cô bảo Hana có hơi chậm tiếng vì song ngữ nhưng không lo. Mình cứ nói cả Việt cả Nhật ở nhà như đang làm. |
 | Mai | (tiếng Việt) Em mừng anh nói chuyện được với cô. Em nói tiếng Nhật ngại lắm. |
 | Đại | (tiếng Việt) Anh sẽ làm cho em bộ flashcard câu cô giáo nhà trẻ. 20 câu thôi: "お世話になっております", "連絡帳に書きます", "熱が出ました", "お迎えに参ります"... Em học 1 tuần là dùng được. |
 | Hana | (tiếng Việt) Bố! Mẹ! Đây! Đây! |

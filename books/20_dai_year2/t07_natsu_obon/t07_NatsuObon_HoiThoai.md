@@ -146,7 +146,7 @@
 | (Đại ra quầy vé) | <br> |
 | Đại | (quầy) <ruby>大人<rt>おとな</rt></ruby><ruby>3<rt>さん</rt></ruby><ruby>枚<rt>まい</rt></ruby>お<ruby>願<rt>ねが</rt></ruby>いします。<br>*(Cho 3 vé người lớn ạ.)* |
 | Nhân viên | <ruby>1500<rt>せんごひゃく</rt></ruby><ruby>円<rt>えん</rt></ruby>になります。<ruby>御朱印<rt>ごしゅいん</rt></ruby>はいかがですか?<br>*(1500 yên. Quý khách có muốn lấy con dấu chùa không?)* |
-| Đại | はい、<ruby>3<rt>さん</rt></ruby>つお<ruby>願<rt>ねが</rt></ruby>いします。<br>*(Vâng, cho 3 dấu ạ.)* |
+| Đại | はい、<ruby>3<rt>みっ</rt></ruby>つお<ruby>願<rt>ねが</rt></ruby>いします。<br>*(Vâng, cho 3 dấu ạ.)* |
 | Đại | (tiếng Việt) Con xin "goshuin" — dấu chùa, đem về làm kỷ niệm cho mẹ. |
 | Mẹ | (tiếng Việt) Con tinh tế thế. |
 

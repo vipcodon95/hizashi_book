@@ -21,12 +21,16 @@ Tháng 5/2026, Phase 3 với 白鷗 vào round đàm phán giá lần 1. Anh Hà
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、明日 Phase 3 の価格交渉です。¥18M で出すんですが、もし大垣さんが下げてと言ったらどこまで下げますか？」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、明日 Phase 3 の<ruby>価格交渉<rt>かかくこうしょう</rt></ruby>です。¥18M で出すんですが、もし<ruby>大垣<rt>おおがき</rt></ruby>さんが下げてと言ったらどこまで下げますか？」 |
+|  | *Chị Hương, mai là round đàm phán giá Phase 3 ạ. Em ra giá ¥18M, nhưng nếu anh Ōgaki ép giảm thì giảm xuống tới đâu ạ?* |
 | **フオン** | 「BATNA は？」 |
-| **ズン** | 「BATNA…えっと、まだ考えてないです。譲歩は¥17Mぐらいまでかなと…」 |
-| **フオン** | 「**ダメ。BATNA がないなら、明日交渉に行かないで**。¥17M も曖昧で根拠がない。今夜中に BATNA 3 シナリオ書いて、明日朝レビューしよう。」 |
+|  | *BATNA của em là gì?* |
+| **ズン** | 「BATNA…えっと、まだ考えてないです。<ruby>譲歩<rt>じょうほ</rt></ruby>は¥17Mぐらいまでかなと…」 |
+|  | *BATNA... ờ, em chưa nghĩ ạ. Em định nhượng bộ chừng ¥17M ạ...* |
+| **フオン** | 「**ダメ。BATNA がないなら、明日交渉に行かないで**。¥17M も<ruby>曖昧<rt>あいまい</rt></ruby>で<ruby>根拠<rt>こんきょ</rt></ruby>がない。今夜中に BATNA 3 シナリオ書いて、明日朝レビューしよう。」 |
+|  | *Không được. BATNA không có thì mai không vào đàm phán. ¥17M cũng mơ hồ không có cơ sở. Tối nay viết BATNA 3 scenario, sáng mai chị review.* |
 
-**Vì sao xấu:** Dũng vào đàm phán mà không có BATNA → không biết walk-away point. ¥17M chỉ là cảm giác, không có cơ sở. Khách Nhật sharp như 大垣 sẽ test → đẩy Dũng đến ¥15M dễ dàng. Hương từ chối let Dũng vào phòng — đây là correct mentor decision.
+**Vì sao xấu:** Dũng vào đàm phán mà không có BATNA → không biết walk-away point. ¥17M chỉ là cảm giác, không có cơ sở. Khách Nhật sắc sảo như 大垣 sẽ thăm dò → đẩy Dũng đến ¥15M dễ dàng. Hương từ chối cho Dũng vào phòng — đây là quyết định đúng của người hướng dẫn.
 
 ---
 
@@ -36,21 +40,25 @@ Tháng 5/2026, Phase 3 với 白鷗 vào round đàm phán giá lần 1. Anh Hà
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、Phase 3 価格交渉の **BATNA 3 シナリオ**を作成しました【1】。レビューいただけますでしょうか？」 |
-| **フオン** | 「シナリオA(成立): ¥18M、target、shake hand。シナリオB(再交渉): ¥16.5M + scope -10%、ハー CTO 承認済。シナリオC(walk-away): ¥15M 以下なら撤退、別案件 X 社の話進める。これは具体的でいいね。」 |
-| **ズン** | 「シナリオB の根拠は、**Phase 2 同等スコープなら ¥16.5M で利益率 22% 維持可能**【2】、ハー CTO に確認済みです。シナリオC は **3月にX社から ¥17M の MoU 受領** が走っているので、こちらに切り替え可能です【3】。」 |
-| **フオン** | 「完璧。明日大垣さんが ¥15M 以下を出してきたら、シナリオ C を堂々と提示。『弊社にも他のオプションがある』ことを声に出さなくても tone で伝わる。それが BATNA の力。」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、Phase 3 <ruby>価格交渉<rt>かかくこうしょう</rt></ruby>の **BATNA 3 シナリオ**を<ruby>作成<rt>さくせい</rt></ruby>しました【1】。レビューいただけますでしょうか？」 |
+|  | *Chị Hương, em đã tạo BATNA 3 scenario cho đàm phán giá Phase 3 ạ. Phiền chị review giúp em được không ạ?* |
+| **フオン** | 「シナリオA(<ruby>成立<rt>せいりつ</rt></ruby>): ¥18M、target、shake hand。シナリオB(<ruby>再交渉<rt>さいこうしょう</rt></ruby>): ¥16.5M + scope -10%、ハー CTO <ruby>承認済<rt>しょうにんずみ</rt></ruby>。シナリオC(walk-away): ¥15M <ruby>以下<rt>いか</rt></ruby>なら<ruby>撤退<rt>てったい</rt></ruby>、<ruby>別案件<rt>べつあんけん</rt></ruby> X 社の話進める。これは<ruby>具体的<rt>ぐたいてき</rt></ruby>でいいね。」 |
+|  | *Scenario A (deal): ¥18M, target, bắt tay. Scenario B (counter): ¥16.5M + scope -10%, anh Hà CTO đã duyệt. Scenario C (walk-away): dưới ¥15M thì rút lui, switch sang X社. Cụ thể, OK.* |
+| **ズン** | 「シナリオB の<ruby>根拠<rt>こんきょ</rt></ruby>は、**Phase 2 <ruby>同等<rt>どうとう</rt></ruby>スコープなら ¥16.5M で<ruby>利益率<rt>りえきりつ</rt></ruby> 22% <ruby>維持可能<rt>いじかのう</rt></ruby>**【2】、ハー CTO に<ruby>確認済<rt>かくにんず</rt></ruby>みです。シナリオC は **3月にX社から ¥17M の MoU <ruby>受領<rt>じゅりょう</rt></ruby>** が走っているので、こちらに切り替え可能です【3】。」 |
+|  | *Cơ sở scenario B: scope tương đương Phase 2 thì ¥16.5M giữ profit margin 22%, anh Hà CTO đã confirm ạ. Scenario C: tháng 3 đã có MoU ¥17M từ X社 đang chạy, em có thể switch sang ạ.* |
+| **フオン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。明日<ruby>大垣<rt>おおがき</rt></ruby>さんが ¥15M 以下を出してきたら、シナリオ C を<ruby>堂々<rt>どうどう</rt></ruby>と<ruby>提示<rt>ていじ</rt></ruby>。『<ruby>弊社<rt>へいしゃ</rt></ruby>にも他のオプションがある』ことを声に出さなくても tone で伝わる。それが BATNA の力。」 |
+|  | *Tuyệt. Mai anh Ōgaki đẩy xuống dưới ¥15M thì em đưa scenario C ra một cách thẳng thắn. 'Bên em cũng có lựa chọn khác' không cần nói thành lời, giọng điệu cũng truyền tải. Đó là sức mạnh BATNA.* |
 
 📝 **Ghi chú:**
-- 【1】**「BATNA 3 シナリオ」** — A (deal as-is), B (counter-offer prepared), C (walk-away). Mỗi scenario phải có **con số + điều kiện + người đã approve**.
-- 【2】**シナリオB phải có xác thực tài chính nội bộ** — không chỉ "cảm giác". Profit margin maintained ≥ 20% là internal threshold.
-- 【3】**シナリオC walk-away cần real alternative** — không phải bluff. X 社 MoU thật → Dũng vào phòng với confidence.
+- 【1】**「BATNA 3 シナリオ」** — A (deal as-is), B (counter-offer prepared), C (walk-away). Mỗi scenario phải có **con số + điều kiện + người đã duyệt**.
+- 【2】**シナリオB phải có xác thực tài chính nội bộ** — không chỉ "cảm giác". Giữ profit margin ≥ 20% là ngưỡng nội bộ.
+- 【3】**シナリオC walk-away cần lựa chọn thay thế thật** — không phải đòn dọa suông. X 社 MoU thật → Dũng vào phòng với sự tự tin.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「BATNAなしで交渉に入らない。3シナリオ(成立／再交渉／撤退)を数値で持つ。」**
+> **「BATNAなしで<ruby>交渉<rt>こうしょう</rt></ruby>に入らない。3シナリオ(<ruby>成立<rt>せいりつ</rt></ruby>／<ruby>再交渉<rt>さいこうしょう</rt></ruby>／<ruby>撤退<rt>てったい</rt></ruby>)を<ruby>数値<rt>すうち</rt></ruby>で持つ。」**
 >
 > *Không vào đàm phán khi chưa có BATNA. 3 scenario (deal / counter / walk-away) phải có con số.*
 
@@ -58,10 +66,10 @@ Tháng 5/2026, Phase 3 với 白鷗 vào round đàm phán giá lần 1. Anh Hà
 
 ## ⚠ Tránh
 
-- BATNA mơ hồ ("nếu không thì cũng OK") → khách Nhật sharp đọc được trong 5 phút
-- Không có scenario C (walk-away real) → mọi concession của bạn = bottomless
-- BATNA không có internal approval → đến giờ G phát hiện scenario B vượt quyền
-- Nói trực tiếp "我々には他のオプションがあります" → JP business kỵ threat-talk; thay bằng tone confidence (sound trong giọng) + body language
+- BATNA mơ hồ ("nếu không thì cũng OK") → khách Nhật sắc sảo đọc được trong 5 phút
+- Không có scenario C (walk-away thật) → mọi nhượng bộ của bạn = không có đáy
+- BATNA không có duyệt nội bộ → đến giờ G phát hiện scenario B vượt quyền
+- Nói trực tiếp "我々には他のオプションがあります" → doanh nghiệp Nhật kỵ kiểu nói đe dọa; thay bằng giọng điệu tự tin (toát ra trong giọng) + ngôn ngữ cơ thể
 
 ---
 

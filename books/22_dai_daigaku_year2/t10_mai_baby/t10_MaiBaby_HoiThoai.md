@@ -118,7 +118,7 @@ Tháng 1-2/2028. Mai (22 tuổi, đã sang Nhật được 1 năm, đang học N
 | Đại | (LINE, tiếng Việt) Hehe. Em chuẩn bị tinh thần nhé. Tháng 8 này lên cô. |
 | Linh-Anh | (LINE, tiếng Việt) Em với Sato sắp gửi quà sang đây. Tên bé gọi là gì? |
 | Đại | (LINE, tiếng Việt) Hana — 花 ấy em. Mai chọn. |
-| Sato (bạn trai Linh-Anh) | (LINE) <ruby>大兄<rt>たいけい</rt></ruby>、<ruby>姉<rt>あね</rt></ruby>さん、おめでとうございます! <ruby>姪<rt>めい</rt></ruby>っ<ruby>子<rt>こ</rt></ruby>のハナちゃん、<ruby>楽<rt>たの</rt></ruby>しみにしております。<br>*(Anh Đại, chị Mai, chúc mừng anh chị ạ! Em mong gặp cháu Hana lắm ạ.)* |
+| Sato (bạn trai Linh-Anh) | (LINE) ダイさん、マイさん、おめでとうございます! <ruby>姪<rt>めい</rt></ruby>っ<ruby>子<rt>こ</rt></ruby>のハナちゃん、<ruby>楽<rt>たの</rt></ruby>しみにしております。<br>*(Anh Đại, chị Mai, chúc mừng anh chị ạ! Em mong gặp cháu Hana lắm ạ.)* |
 | Đại | (LINE) ありがとう、サト<ruby>君<rt>くん</rt></ruby>。<br>*(Cảm ơn Sato-kun.)* |
 
 ---

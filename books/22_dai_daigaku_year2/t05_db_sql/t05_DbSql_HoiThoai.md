@@ -6,7 +6,7 @@
 
 ## Bối cảnh
 
-Tháng 7 năm 2027. Đại đang học kỳ hè năm 2 ở Osaka University, campus Toyonaka. Lecture 「データベース入門」 do Takahashi-sensei (continued T1) phụ trách. Project nhóm: hệ thống đăng ký học `school enrollment` với 5 bảng (students, courses, enrollments, professors, departments). Mai vẫn ở Việt Nam, chuẩn bị đăng ký lớp N2 ở Yamato School từ tháng 9. Chương này tập trung các mẫu câu hỏi-đáp với sensei về DB, cách trình bày SQL trong meeting và cách hỏi lại thuật ngữ.
+Tháng 7 năm 2027. Đại đang học kỳ hè năm 2 ở Osaka University, campus Toyonaka. Lecture 「データベース入門」 do Takahashi-sensei (continued T1) phụ trách. Project nhóm: hệ thống đăng ký học `school enrollment` với 5 bảng (students, courses, enrollments, professors, departments). Mai đã sang Nhật ở cùng Đại tại Senri-chuo, chuẩn bị đăng ký lớp N2 ở trường tiếng vùng Osaka từ tháng 9. Chương này tập trung các mẫu câu hỏi-đáp với sensei về DB, cách trình bày SQL trong meeting và cách hỏi lại thuật ngữ.
 
 ---
 
@@ -135,7 +135,7 @@ Tháng 7 năm 2027. Đại đang học kỳ hè năm 2 ở Osaka University, cam
 
 | Vai | Lời thoại |
 |---|---|
-| Đại | <ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>進捗<rt>しんちょく</rt></ruby>を<ruby>報告<rt>ほうこく</rt></ruby>します。<ruby>5<rt>ご</rt></ruby>つのテーブルを 3NF まで<ruby>正規化<rt>せいきか</rt></ruby>しました。<br>*(Em xin báo cáo tiến độ hôm nay. Đã chuẩn hoá 5 bảng đến 3NF.)* |
+| Đại | <ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>進捗<rt>しんちょく</rt></ruby>を<ruby>報告<rt>ほうこく</rt></ruby>します。<ruby>5<rt>いつ</rt></ruby>つのテーブルを 3NF まで<ruby>正規化<rt>せいきか</rt></ruby>しました。<br>*(Em xin báo cáo tiến độ hôm nay. Đã chuẩn hoá 5 bảng đến 3NF.)* |
 | Đại | INDEX も<ruby>三<rt>みっ</rt></ruby>つ<ruby>追加<rt>ついか</rt></ruby>して、<ruby>主<rt>しゅ</rt></ruby>なクエリは<ruby>5<rt>ご</rt></ruby>ミリ<ruby>秒<rt>びょう</rt></ruby><ruby>以内<rt>いない</rt></ruby>で<ruby>動<rt>うご</rt></ruby>くようになりました。<br>*(Đã thêm 3 INDEX, các truy vấn chính chạy dưới 5ms.)* |
 | SV nhóm | <ruby>登録<rt>とうろく</rt></ruby><ruby>処理<rt>しょり</rt></ruby>は Transaction で<ruby>囲<rt>かこ</rt></ruby>む？<br>*(Xử lý đăng ký có bọc Transaction không?)* |
 | Đại | はい、`enrollments` への INSERT と `courses.remaining_seats` の UPDATE は<ruby>一<rt>ひと</rt></ruby>つの Transaction にします。<br>*(Có, INSERT vào enrollments và UPDATE courses.remaining_seats sẽ bọc chung một Transaction.)* |
@@ -157,7 +157,7 @@ Tháng 7 năm 2027. Đại đang học kỳ hè năm 2 ở Osaka University, cam
 
 ## Tình huống 12 — Trước cổng campus Toyonaka · 21:00, gọi điện về VN cho Mai
 
-> Cảnh tiếng Việt — Đại gọi điện về cho Mai (vợ chưa cưới, đang chuẩn bị nhập học N2 Yamato School).
+> Cảnh tiếng Việt — Đại gọi cho Mai (vợ, đang ở Senri-chuo, chuẩn bị nhập học lớp N2 trường tiếng Osaka).
 
 | Vai | Lời thoại |
 |---|---|

@@ -1,40 +1,46 @@
 # Rule 34 — Phở — câu chuyện văn hóa / フォーの話
 
-> **Luận điểm.** Khách Nhật ai cũng biết "phở" — nhưng mức độ hiểu sâu chỉ tới đó. Bạn = người am hiểu ẩm thực VN → kể được **Bắc vs Nam, gà vs bò, sáng vs đêm, Bát Đàn vs Pasteur** = mở topic kéo dài 20 phút mà khách Nhật say sưa nghe.
+> **Luận điểm.** Khách Nhật ai cũng biết "phở" — nhưng mức độ hiểu sâu chỉ tới đó. Bạn = người am hiểu ẩm thực VN → kể được **Bắc vs Nam, gà vs bò, sáng vs đêm, Bát Đàn vs Pasteur** = mở chủ đề kéo dài 20 phút mà khách Nhật say sưa nghe.
 
 ---
 
 ## 🧠 Tâm lý JP (4 dòng)
 
-- Phở = food gateway dễ tiếp cận nhất với JP — họ đã ăn ở Tokyo / Osaka rồi nên có "kiến thức ban đầu".
+- Phở = cánh cửa ẩm thực dễ tiếp cận nhất với khách Nhật — họ đã ăn ở Tokyo / Osaka rồi nên có "kiến thức ban đầu".
 - JP rất thích **phân loại tinh tế** (ramen Kyushu vs Hakata vs Sapporo) — nên khi mình kể "phở Bắc vs Nam khác nhau thế nào" họ sẽ cực thích.
-- Senior 50t+ thường tự hào đã đến VN ăn phở "đúng vị" — đừng mâu thuẫn, hãy add layer.
+- Senior 50t+ thường tự hào đã đến VN ăn phở "đúng vị" — đừng mâu thuẫn, hãy bổ sung thêm tầng hiểu biết.
 - Điểm thú nhất với khách: ăn phở **6h sáng đứng vỉa hè** = trải nghiệm họ chưa có.
 
 ---
 
 ## 🎬 Bối cảnh
 
-Tháng 5/2026, dinner Tokyo izakaya với Matsumoto / Nakamura / Yamamoto (Osaka). Câu chuyện dạo quanh chuyển sang "lần tới onsite Hà Nội nên ăn gì" → Dũng có 15 phút để đưa khách vào hành trình khám phá phở đầy hấp dẫn.
+Tháng 5/2026, bữa tối ở izakaya Tokyo với Matsumoto / Nakamura / Yamamoto (Osaka). Câu chuyện dạo quanh chuyển sang "lần tới công tác Hà Nội nên ăn gì" → Dũng có 15 phút để đưa khách vào hành trình khám phá phở đầy hấp dẫn.
 
 ---
 
-## 💬 4 Scenarios — dialogue thực chiến
+## 💬 4 Scenarios — hội thoại thực chiến
 
-### 📍 Scenario 1 — Mở topic: Bắc vs Nam (đủ depth, không academic)
+### 📍 Scenario 1 — Mở chủ đề: Bắc vs Nam (đủ chiều sâu, không hàn lâm)
 
 *食関心*
 
 | Vai | Câu |
 |---------|-----|
-| **松本** | 「ズンさん、来月ハノイ出張なんだけど、フォーって朝食でいいの?」 |
-| **ズン** | 「はい、ハノイのフォーは**朝6時から並ぶ**のが本場です。実は松本さん、フォーって**北と南で全く別物**なんですよ。」 |
+| **松本** | 「ズンさん、来月ハノイ<ruby>出張<rt>しゅっちょう</rt></ruby>なんだけど、フォーって<ruby>朝食<rt>ちょうしょく</rt></ruby>でいいの?」 |
+|  | *Dũng, tháng sau tôi đi Hà Nội công tác, phở ăn sáng được không?* |
+| **ズン** | 「はい、ハノイのフォーは**朝6時から<ruby>並ぶ<rt>ならぶ</rt></ruby>**のが<ruby>本場<rt>ほんば</rt></ruby>です。実は松本さん、フォーって**北と南で<ruby>全<rt>まった</rt></ruby>く<ruby>別物<rt>べつもの</rt></ruby>**なんですよ。」 |
+|  | *Vâng, phở Hà Nội bản gốc là 6h sáng xếp hàng ạ. Thật ra anh Matsumoto, phở Bắc và Nam là hai món hoàn toàn khác nhau ạ.* |
 | **松本** | 「えっ、そうなの?」 |
-| **ズン** | 「ハノイ(北)は**澄んだスープ**で、ネギと黒胡椒だけ。シンプルで出汁の旨味勝負。一方ホーチミン(南)は**もやし・パクチー・ライム・チリソース**を山ほど入れて、自分でカスタマイズします。」 |
-| **山本** | 「ほんま?それ全然知らんかった!ほな北の方が"きつね蕎麦"系で、南が"汁なし担々麺"系の味付け文化ってこと?」 |
-| **ズン** | 「まさにその喩えがぴったりです!**北=引き算の美学、南=足し算の楽しさ**、です。」 |
+|  | *Ơ, vậy à?* |
+| **ズン** | 「ハノイ(北)は**<ruby>澄<rt>す</rt></ruby>んだスープ**で、ネギと<ruby>黒胡椒<rt>くろこしょう</rt></ruby>だけ。シンプルで<ruby>出汁<rt>だし</rt></ruby>の<ruby>旨味<rt>うまみ</rt></ruby>勝負。一方ホーチミン(南)は**もやし・パクチー・ライム・チリソース**を山ほど入れて、自分でカスタマイズします。」 |
+|  | *Hà Nội (Bắc) nước trong, chỉ hành và tiêu đen. Đơn giản, ăn vị nước dùng. Còn HCM (Nam) thêm giá, ngò, chanh, tương ớt đầy ụ, tự pha theo ý mình.* |
+| **山本** | 「ほんま?それ全然知らんかった!ほな北の方が"きつね<ruby>蕎麦<rt>そば</rt></ruby>"系で、南が"汁なし<ruby>担々麺<rt>たんたんめん</rt></ruby>"系の味付け文化ってこと?」 |
+|  | *Thật á? Tôi chả biết luôn! Vậy là Bắc kiểu "kitsune soba" còn Nam kiểu "tantanmen không nước" về văn hóa nêm nhỉ?* |
+| **ズン** | 「まさにその<ruby>喩<rt>たと</rt></ruby>えがぴったりです!**北=<ruby>引<rt>ひ</rt></ruby>き<ruby>算<rt>ざん</rt></ruby>の<ruby>美学<rt>びがく</rt></ruby>、南=<ruby>足<rt>た</rt></ruby>し<ruby>算<rt>ざん</rt></ruby>の楽しさ**、です。」 |
+|  | *Đúng phép so sánh đó luôn ạ! Bắc = mỹ học phép trừ, Nam = niềm vui phép cộng.* |
 
-📝 **Công thức vàng:** so sánh phở Bắc-Nam với văn hóa ẩm thực JP họ đã biết (蕎麦 vs 担々麺) → khách "Aha!" ngay lập tức.
+📝 **Công thức vàng:** so sánh phở Bắc-Nam với văn hóa ẩm thực Nhật mà họ đã biết (蕎麦 vs 担々麺) → khách "Aha!" ngay lập tức.
 
 ---
 
@@ -42,15 +48,22 @@ Tháng 5/2026, dinner Tokyo izakaya với Matsumoto / Nakamura / Yamamoto (Osaka
 
 | Vai | Câu |
 |---------|-----|
-| **中村** | 「ズンさん、フォーって牛が定番でしょ?」 |
-| **ズン** | 「実は地元では**フォーガー(鶏)**もすごく人気です。ハノイの古い店だと、朝は鶏で**夜は牛**って使い分けする店もあります。」 |
+| **中村** | 「ズンさん、フォーって牛が<ruby>定番<rt>ていばん</rt></ruby>でしょ?」 |
+|  | *Dũng, phở thì bò là chuẩn nhỉ?* |
+| **ズン** | 「実は<ruby>地元<rt>じもと</rt></ruby>では**フォーガー(<ruby>鶏<rt>とり</rt></ruby>)**もすごく人気です。ハノイの古い店だと、朝は鶏で**夜は牛**って<ruby>使<rt>つか</rt></ruby>い<ruby>分<rt>わ</rt></ruby>けする店もあります。」 |
+|  | *Thực ra ở VN phở gà cũng cực phổ biến. Quán cũ Hà Nội có nơi sáng bán gà, tối bán bò ạ.* |
 | **中村** | 「夜にも食べるんだ。」 |
-| **ズン** | 「はい、ハノイの**24時間営業の屋台**もあって、夜2時に酔っ払いが食べに来ます(笑)。日本でいう"締めのラーメン"のポジションです。」 |
-| **中村** | 「あー、それは分かるわ。札幌でも飲んだ後の味噌ラーメンが定番だから。」 |
-| **ズン** | 「なので、出張の時に夜食べる体験もぜひ。**屋外のプラスチック椅子**で食べるのが一番美味しいです。」 |
-| **中村** | 「プラスチック椅子!それ写真撮って妻に送るわ(笑)」 |
+|  | *Tối cũng ăn à.* |
+| **ズン** | 「はい、ハノイの**24<ruby>時間営業<rt>じかんえいぎょう</rt></ruby>の<ruby>屋台<rt>やたい</rt></ruby>**もあって、夜2時に<ruby>酔<rt>よ</rt></ruby>っ<ruby>払<rt>ぱら</rt></ruby>いが食べに来ます(笑)。日本でいう"<ruby>締<rt>し</rt></ruby>めのラーメン"のポジションです。」 |
+|  | *Vâng, Hà Nội có quán 24h, 2h sáng dân nhậu kéo đến (cười). Vị trí giống "ramen chốt buổi nhậu" của Nhật.* |
+| **中村** | 「あー、それは分かるわ。<ruby>札幌<rt>さっぽろ</rt></ruby>でも飲んだ後の<ruby>味噌<rt>みそ</rt></ruby>ラーメンが定番だから。」 |
+|  | *À, tôi hiểu. Ở Sapporo cũng vậy, nhậu xong miso ramen là chuẩn.* |
+| **ズン** | 「なので、出張の時に夜食べる<ruby>体験<rt>たいけん</rt></ruby>もぜひ。**<ruby>屋外<rt>おくがい</rt></ruby>のプラスチック<ruby>椅子<rt>いす</rt></ruby>**で食べるのが一番美味しいです。」 |
+|  | *Nên lần công tác này anh thử ăn buổi đêm nhé. Ngồi ghế nhựa vỉa hè là ngon nhất.* |
+| **中村** | 「プラスチック椅子!それ写真撮って<ruby>妻<rt>つま</rt></ruby>に送るわ(笑)」 |
+|  | *Ghế nhựa! Tôi sẽ chụp gửi vợ (cười)* |
 
-> **VN:** Nối phở dawn-night với "締めラーメン" Hokkaido → khách Hokkaido "đồng cảm" instant. Chi tiết "ghế nhựa vỉa hè" = vivid, khách nhớ lâu.
+> **VN:** Nối phở sáng-đêm với "締めラーメン" Hokkaido → khách Hokkaido "đồng cảm" tức thì. Chi tiết "ghế nhựa vỉa hè" = sống động, khách nhớ lâu.
 
 ---
 
@@ -58,14 +71,20 @@ Tháng 5/2026, dinner Tokyo izakaya với Matsumoto / Nakamura / Yamamoto (Osaka
 
 | Vai | Câu |
 |---------|-----|
-| **松本** | 「ハノイで一番のフォー屋、どこ?」 |
-| **ズン** | 「3つ候補あります。**①フォー・バッダン(Phở Bát Đàn)** — 行列必至、自分でトレイ取りに行くスタイル。**②フォー・ティン(Phở Thìn)** — 牛肉炒めスタイル、味濃いめ。**③フォー・ザートゥエン(Phở Gia Truyền)** — 観光客少なめ、地元ファン多い。」 |
+| **松本** | 「ハノイで一番のフォー<ruby>屋<rt>や</rt></ruby>、どこ?」 |
+|  | *Hà Nội phở ngon nhất ở đâu?* |
+| **ズン** | 「3つ<ruby>候補<rt>こうほ</rt></ruby>あります。**①フォー・バッダン(Phở Bát Đàn)** — <ruby>行列必至<rt>ぎょうれつひっし</rt></ruby>、自分でトレイ取りに行くスタイル。**②フォー・ティン(Phở Thìn)** — <ruby>牛肉炒<rt>ぎゅうにくいた</rt></ruby>めスタイル、<ruby>味濃<rt>あじこ</rt></ruby>いめ。**③フォー・ザートゥエン(Phở Gia Truyền)** — <ruby>観光客<rt>かんこうきゃく</rt></ruby>少なめ、地元ファン多い。」 |
+|  | *Có 3 ứng viên ạ. ① Phở Bát Đàn — chắc chắn xếp hàng, tự bê khay. ② Phở Thìn — bò xào, vị đậm. ③ Phở Gia Truyền — ít khách du lịch, đông khách ruột địa phương.* |
 | **松本** | 「最初の客なら、どれがいい?」 |
-| **ズン** | 「最初は**バッダン**を朝7時に。並ぶの込みで体験です。但し、**店員はぶっきらぼう**【1】なので、それも込みで楽しんで下さい(笑)」 |
-| **松本** | 「あはは、築地の場外市場みたいなもんか。」 |
-| **ズン** | 「まさに!ホーチミンなら**フォー・パスツール(Phở Pasteur)**か**フォー・ホア(Phở Hòa)**。こちらは席まで運んでくれて優しいです。」 |
+|  | *Lần đầu thì chọn cái nào?* |
+| **ズン** | 「最初は**バッダン**を朝7時に。<ruby>並<rt>なら</rt></ruby>ぶの込みで体験です。但し、**<ruby>店員<rt>てんいん</rt></ruby>はぶっきらぼう**【1】なので、それも込みで楽しんで下さい(笑)」 |
+|  | *Lần đầu thì Bát Đàn 7h sáng. Xếp hàng coi như phần trải nghiệm. Nhưng nhân viên thô mộc, anh chuẩn bị tinh thần cùng vui nhé (cười)* |
+| **松本** | 「あはは、<ruby>築地<rt>つきじ</rt></ruby>の<ruby>場外市場<rt>じょうがいいちば</rt></ruby>みたいなもんか。」 |
+|  | *Haha, kiểu chợ ngoài Tsukiji nhỉ.* |
+| **ズン** | 「まさに!ホーチミンなら**フォー・パスツール(Phở Pasteur)**か**フォー・ホア(Phở Hòa)**。こちらは<ruby>席<rt>せき</rt></ruby>まで<ruby>運<rt>はこ</rt></ruby>んでくれて優しいです。」 |
+|  | *Đúng rồi ạ! Còn HCM thì Phở Pasteur hoặc Phở Hòa. Họ bưng tận bàn, dễ chịu hơn.* |
 
-📝【1】 「ぶっきらぼう」 = thô mộc, không niềm nở. Vibe phở HN huyền thoại — khách Nhật nghe sẽ thấy thú vị, không bị xúc phạm.
+📝【1】 「ぶっきらぼう」 = thô mộc, không niềm nở. Cái chất phở HN huyền thoại — khách Nhật nghe sẽ thấy thú vị, không bị xúc phạm.
 
 ---
 
@@ -75,20 +94,25 @@ Tháng 5/2026, dinner Tokyo izakaya với Matsumoto / Nakamura / Yamamoto (Osaka
 
 | Vai | Câu |
 |---------|-----|
-| **大垣** | 「フォーってフランスの影響なの?中華?」 |
-| **ズン** | 「色々説あって、面白いんですが**今でも研究者が議論中**でして…私は専門家じゃないので断言できないんですが、**北部のナムディン省発祥**説が有力と聞きます。」【2】 |
+| **大垣** | 「フォーってフランスの<ruby>影響<rt>えいきょう</rt></ruby>なの?<ruby>中華<rt>ちゅうか</rt></ruby>?」 |
+|  | *Phở là ảnh hưởng Pháp à? Hay Trung Hoa?* |
+| **ズン** | 「色々説あって、面白いんですが**今でも<ruby>研究者<rt>けんきゅうしゃ</rt></ruby>が<ruby>議論中<rt>ぎろんちゅう</rt></ruby>**でして…私は<ruby>専門家<rt>せんもんか</rt></ruby>じゃないので<ruby>断言<rt>だんげん</rt></ruby>できないんですが、**<ruby>北部<rt>ほくぶ</rt></ruby>のナムディン<ruby>省<rt>しょう</rt></ruby><ruby>発祥<rt>はっしょう</rt></ruby>**説が<ruby>有力<rt>ゆうりょく</rt></ruby>と聞きます。」【2】 |
+|  | *Có nhiều thuyết thú vị, nhưng đến giờ học giả vẫn tranh luận... Em không phải chuyên gia nên không dám khẳng định, nhưng nghe nói thuyết tỉnh Nam Định khởi nguồn là mạnh nhất.* |
 | **大垣** | 「ふーん、ナムディン省ね。今度行ってみたい。」 |
-| **ズン** | 「ナムディンの**フォー村(Cồ Lễ村)**ってのがあって、職人がほとんどそこ出身らしいです。」 |
-| **大垣** | 「面白いね、職人の村か。日本の蕎麦の信州みたいなもんだ。」 |
+|  | *Hử, tỉnh Nam Định. Lần sau tôi muốn đi thử.* |
+| **ズン** | 「ナムディンの**フォー村(Cồ Lễ村)**ってのがあって、<ruby>職人<rt>しょくにん</rt></ruby>がほとんどそこ<ruby>出身<rt>しゅっしん</rt></ruby>らしいです。」 |
+|  | *Nam Định có "làng phở Cồ Lễ", nghe nói thợ nấu phần lớn xuất thân từ đó.* |
+| **大垣** | 「面白いね、職人の村か。日本の<ruby>蕎麦<rt>そば</rt></ruby>の<ruby>信州<rt>しんしゅう</rt></ruby>みたいなもんだ。」 |
+|  | *Hay nhỉ, làng nghề. Giống Shinshu của soba Nhật vậy.* |
 
-📝【2】 **NG:** dẫn dắt vào "thuộc địa Pháp" / nguồn gốc TQ-VN căng thẳng. **OK:** "có nhiều thuyết, tôi không phải chuyên gia" + add fact dễ chịu (làng nghề Cồ Lễ).
+📝【2】 **NG:** dẫn dắt vào "thuộc địa Pháp" / nguồn gốc TQ-VN căng thẳng. **OK:** "có nhiều thuyết, tôi không phải chuyên gia" + bổ sung chi tiết dễ chịu (làng nghề Cồ Lễ).
 
 ---
 
 ## 🎯 Câu vàng copy-paste
 
 ```
-■ MỞ TOPIC:
+■ MỞ CHỦ ĐỀ:
 「フォーって、北と南で全く別物なんですよ。」
 「ハノイのフォーは朝6時から並ぶのが本場です。」
 「北=引き算、南=足し算、の味付け文化です。」
@@ -126,21 +150,21 @@ Tháng 5/2026, dinner Tokyo izakaya với Matsumoto / Nakamura / Yamamoto (Osaka
 |------|------|-------|
 | フォー | — | Phở |
 | 澄んだスープ | すんだスープ | Nước dùng trong (kiểu Bắc) |
-| 出汁 | だし | Nước dùng (concept JP — phở Bắc match khái niệm này) |
+| 出汁 | だし | Nước dùng (khái niệm Nhật — phở Bắc khớp với khái niệm này) |
 | 屋台 | やたい | Quán vỉa hè |
-| 締め | しめ | Món chốt buổi nhậu (= phở đêm với JP dễ hiểu) |
+| 締め | しめ | Món chốt buổi nhậu (= phở đêm, khách Nhật dễ hiểu) |
 | ぶっきらぼう | — | Thô mộc, không niềm nở |
 | 行列必至 | ぎょうれつひっし | Chắc chắn phải xếp hàng |
 | 諸説あり | しょせつあり | Có nhiều thuyết |
-| 引き算/足し算の美学 | ひきざん/たしざんのびがく | Mỹ học subtract / add |
+| 引き算/足し算の美学 | ひきざん/たしざんのびがく | Mỹ học phép trừ / phép cộng |
 
 ---
 
 ## 🎓 BJT
 
-**J3 — 場面把握:** Khi khách Nhật nói "ハノイ出張" → biết bridge sang topic phở + gợi ý quán cụ thể.
+**J3 — 場面把握:** Khi khách Nhật nói "ハノイ出張" → biết bắc cầu sang chủ đề phở + gợi ý quán cụ thể.
 **J2 — 表現読解:** Phân biệt "ぶっきらぼう" (mô tả) vs "失礼" (xúc phạm) — sắc thái mỏng.
-**J1 — 発言聴解:** Né khéo câu hỏi nguồn gốc Pháp/TQ → "諸説あり" + chuyển sang fact dễ chịu.
+**J1 — 発言聴解:** Né khéo câu hỏi nguồn gốc Pháp/TQ → "諸説あり" + chuyển sang thông tin dễ chịu.
 
 ---
 

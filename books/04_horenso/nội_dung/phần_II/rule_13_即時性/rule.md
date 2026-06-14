@@ -1,6 +1,6 @@
 # Rule 13 — Nguyên tắc liên lạc tức thì / 連絡の即時性原則
 
-> **Luận điểm.** Liên lạc trễ = liên lạc sai. **"Thông tin trễ = thông tin sai"** (Information delayed = information wrong). Trong Hou-Ren-Sou, 連絡 (sharing thông tin) có giá trị giảm theo cấp số mũ theo thời gian. Biết 1 thông tin → share trong **15 phút** với người liên quan. Để 1 ngày = giá trị giảm 80%.
+> **Luận điểm.** Liên lạc trễ = liên lạc sai. **"Thông tin trễ = thông tin sai"** ("Information delayed = information wrong"). Trong Hou-Ren-Sou, 連絡 (chia sẻ thông tin) có giá trị giảm theo cấp số mũ theo thời gian. Biết 1 thông tin → chia sẻ trong **15 phút** với người liên quan. Để 1 ngày = giá trị giảm 80%.
 >
 > 連絡は鮮度がすべて。**「遅れた情報は誤った情報と同じ」**。知ったら15分以内に共有。1日寝かせると価値は80%消える。
 >
@@ -20,12 +20,16 @@ Anh Matsumoto báo Dũng (qua phone) thay đổi yêu cầu Phase 3 — cần th
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「皆さん、今朝松本様から電話があり、機能 X を追加するそうです。」 |
-| **トゥアン** | 「**今朝**？私6時間、機能 Y のロジック書いてたんだけど。X 追加なら Y は再設計だよ。」 |
-| **ズン** | 「あ、すみません、忙しくて連絡が遅れて…」 |
-| **トゥアン** | 「連絡は **15分以内** が原則。半日寝かせるなら共有しないのと同じ。」 |
+| **ズン** | 「皆さん、今朝<ruby>松本<rt>まつもと</rt></ruby>様から電話があり、機能 X を<ruby>追加<rt>ついか</rt></ruby>するそうです。」 |
+|  | *Mọi người, sáng nay anh Matsumoto gọi điện, bảo thêm tính năng X.* |
+| **トゥアン** | 「**今朝**？私6時間、機能 Y のロジック書いてたんだけど。X <ruby>追加<rt>ついか</rt></ruby>なら Y は<ruby>再設計<rt>さいせっけい</rt></ruby>だよ。」 |
+|  | *Sáng nay? Anh đã code logic Y suốt 6 giờ rồi. Thêm X thì Y phải design lại đó.* |
+| **ズン** | 「あ、すみません、忙しくて連絡が<ruby>遅<rt>おく</rt></ruby>れて…」 |
+|  | *À em xin lỗi, em bận nên trễ liên lạc...* |
+| **トゥアン** | 「連絡は **15分以内** が<ruby>原則<rt>げんそく</rt></ruby>。<ruby>半日<rt>はんにち</rt></ruby><ruby>寝<rt>ね</rt></ruby>かせるなら共有しないのと同じ。」 |
+|  | *Liên lạc trong 15 phút là nguyên tắc. Ngâm nửa ngày thì như chưa share.* |
 
-**Vì sao xấu:** Dũng "ngâm" 7 giờ vì "忙しい". Trong 7 giờ đó anh Tuấn lãng phí 6 giờ work. Chi phí trễ liên lạc = 6 hour-Tuấn.
+**Vì sao xấu:** Dũng "ngâm" 7 giờ vì "忙しい". Trong 7 giờ đó anh Tuấn lãng phí 6 giờ làm việc. Chi phí trễ liên lạc = 6 giờ-công của Tuấn.
 
 ---
 
@@ -35,15 +39,19 @@ Anh Matsumoto báo Dũng (qua phone) thay đổi yêu cầu Phase 3 — cần th
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「皆さん、**緊急共有** です【1】。10時に松本様から電話。**Phase 3 に機能 X 追加**との要望。Y との関係性は午後の打ち合わせで詰めます。一旦 Y のコーディングは保留してください【2】。」 |
-| **トゥアン** | 「了解、Y は中断します。15分前に教えてくれて助かった。」 |
-| **ズン** | 「**詳細議事録は 10:45 までに共有**します【3】。」 |
-| **トゥアン** | 「OK、待ちます。」 |
+| **ズン** | 「皆さん、**<ruby>緊急共有<rt>きんきゅうきょうゆう</rt></ruby>** です【1】。10時に<ruby>松本<rt>まつもと</rt></ruby>様から電話。**Phase 3 に機能 X 追加**との<ruby>要望<rt>ようぼう</rt></ruby>。Y との<ruby>関係性<rt>かんけいせい</rt></ruby>は午後の<ruby>打<rt>う</rt></ruby>ち合わせで<ruby>詰<rt>つ</rt></ruby>めます。<ruby>一旦<rt>いったん</rt></ruby> Y のコーディングは<ruby>保留<rt>ほりゅう</rt></ruby>してください【2】。」 |
+|  | *Mọi người, em xin chia sẻ khẩn. 10h anh Matsumoto gọi điện. Yêu cầu thêm tính năng X cho Phase 3. Quan hệ với Y em sẽ chốt trong họp chiều. Tạm thời mọi người hold code Y giúp em ạ.* |
+| **トゥアン** | 「<ruby>了解<rt>りょうかい</rt></ruby>、Y は<ruby>中断<rt>ちゅうだん</rt></ruby>します。15分前に教えてくれて<ruby>助<rt>たす</rt></ruby>かった。」 |
+|  | *OK, anh dừng Y. May em báo trước 15 phút.* |
+| **ズン** | 「**詳細<ruby>議事録<rt>ぎじろく</rt></ruby>は 10:45 までに共有**します【3】。」 |
+|  | *Biên bản chi tiết em share trước 10:45 ạ.* |
+| **トゥアン** | 「OK、<ruby>待<rt>ま</rt></ruby>ちます。」 |
+|  | *OK, anh đợi.* |
 
 📝 **Ghi chú:**
-- 【1】**「緊急共有」** — gắn label. Đồng nghiệp biết priority cao, ngừng việc đang làm.
-- 【2】**「保留してください」** — không chỉ chia sẻ mà nói **action cần làm ngay**. "保留 (hold)" tránh wasted work.
-- 【3】**「10:45 までに共有」** — show next step + deadline. Tránh đồng nghiệp hỏi "詳細は?".
+- 【1】**「緊急共有」** — gắn nhãn. Đồng nghiệp biết mức ưu tiên cao, ngừng việc đang làm.
+- 【2】**「保留してください」** — không chỉ chia sẻ mà nói rõ **hành động cần làm ngay**. "保留 (tạm dừng)" tránh làm việc lãng phí.
+- 【3】**「10:45 までに共有」** — nêu rõ bước tiếp theo + hạn chót. Tránh đồng nghiệp hỏi "詳細は?".
 
 ---
 
@@ -63,15 +71,15 @@ Bạn nhận thông tin có ảnh hưởng team/khách:
 
 ## 🎯 Câu chốt
 
-> **「【緊急共有】〇〇発生。一旦〇〇してください。詳細は〇〇までに共有します。」**
+> **「【<ruby>緊急共有<rt>きんきゅうきょうゆう</rt></ruby>】〇〇<ruby>発生<rt>はっせい</rt></ruby>。<ruby>一旦<rt>いったん</rt></ruby>〇〇してください。詳細は〇〇までに共有します。」**
 
 ---
 
 ## ⚠ Tránh
 
 - "忙しいので後で" — sau là khi nào? Định lượng đi: 「30分後に詳細共有」.
-- Share thông tin to without action item — đồng nghiệp đọc xong vẫn không biết phải làm gì.
-- Dùng DM cho thông tin team-level — DM = chỉ 1 người biết. Phải #channel.
+- Chia sẻ thông tin lớn mà không kèm việc cần làm — đồng nghiệp đọc xong vẫn không biết phải làm gì.
+- Dùng DM cho thông tin cấp team — DM = chỉ 1 người biết. Phải #channel.
 - Đợi đến daily standup hôm sau mới chia sẻ — đã trễ 12-18 giờ.
 
 ---

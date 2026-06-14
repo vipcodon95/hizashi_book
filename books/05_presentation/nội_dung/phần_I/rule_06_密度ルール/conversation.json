@@ -9,7 +9,11 @@
     "ja": "ズンが『念のため』4枚追加して14枚にした deck を、ハーCTO が指摘して10枚＋appendix構成に戻す場面。",
     "vi": "Dũng thêm 4 slide 「để chắc」 → deck phồng lên 14 slide. Anh Hà CTO chỉ ra và yêu cầu giữ 10 slide + appendix riêng."
   },
-  "related_rules": ["rule_02", "rule_04", "rule_13"],
+  "related_rules": [
+    "rule_02",
+    "rule_04",
+    "rule_13"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -89,7 +93,9 @@
           "sentence": "10-20-30ルールで再auditしました。本編10枚、appendix 5枚は質問対応用（必要なら出す）。",
           "sentence_translation": "Em đã re-audit theo rule 10-20-30 ạ. Body 10 slide, appendix 5 slide để trả lời câu hỏi (cần thì hiện ra).",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_06_good_02",
@@ -108,7 +114,9 @@
           "sentence": "フォントは最小24ptで統一、appendix も同じです。",
           "sentence_translation": "Font em thống nhất tối thiểu 24pt ạ, appendix cũng vậy.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_06_good_04",
@@ -140,11 +148,11 @@
       "question_ja": "30分のプレゼン枠で本編スライドの目安は？",
       "options": [
         "5枚以内",
-        "10-12枚",
+        "30枚以上",
         "20枚以上",
-        "30枚以上"
+        "10-12枚"
       ],
-      "correct": "B",
+      "correct": "D",
       "explanation": {
         "ja": "1枚1.5-2分が目安。30分枠なら自己紹介+Q&Aを引いて10-12枚が安全ゾーン。",
         "vi": "1 slide tốn 1.5-2 phút. 30 phút trừ intro + Q&A → 10-12 slide là vùng an toàn."

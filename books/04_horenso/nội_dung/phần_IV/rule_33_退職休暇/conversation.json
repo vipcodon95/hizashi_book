@@ -178,12 +178,12 @@
       "skill": "場面把握",
       "question_ja": "6ヶ月のサバティカル取得を最初に伝えるべき相手は?",
       "options": [
-        "Slack #general で全社broadcast",
-        "Tech lead に1-on-1 で Handover Plan ドラフト持参",
         "客先の Matsumoto に直接メール",
-        "HR にメールのみ"
+        "HR にメールのみ",
+        "Tech lead に1-on-1 で Handover Plan ドラフト持参",
+        "Slack #general で全社broadcast"
       ],
-      "correct": "B",
+      "correct": "C",
       "explanation": {
         "ja": "退職・長期休暇は階層順序が重要。Tech lead 1-on-1 → CTO → 客向け正式案内（CTO名義）→ 全社通知 → チーム個別。Slack 先行や客への junior 直接連絡はNG。",
         "vi": "Nghỉ việc / nghỉ dài quan trọng thứ tự hierarchy. Tech lead 1-on-1 → CTO → announcement khách (CTO ký) → Slack công ty → 1-on-1 từng người. Slack đi trước hoặc junior báo khách trực tiếp đều NG."

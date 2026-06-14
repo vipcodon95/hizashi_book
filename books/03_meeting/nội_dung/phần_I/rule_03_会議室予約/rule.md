@@ -20,12 +20,16 @@ Em Linh (mới gia nhập, được Dũng mentor) được giao đặt phòng + 
 
 | Vai | Câu |
 |---------|-----|
-| **リン** | 「ズン先輩、火曜の会議室、3階の会議室Aを押さえました。」 |
-| **ズン** | 「OK、設備は確認した？プロジェクター、ケーブル、Wi-Fi…」 |
-| **リン** | 「あっ、部屋を予約しただけで…プロジェクターがあるかは…」 |
-| **ズン** | 「HDMIケーブルがない。リンさん、急ぎ総務に借りに行って！松本様あと10分で来る。」 |
+| **リン** | 「ズン<ruby>先輩<rt>せんぱい</rt></ruby>、火曜の<ruby>会議室<rt>かいぎしつ</rt></ruby>、3階の会議室Aを<ruby>押<rt>お</rt></ruby>さえました。」 |
+|  | *Anh Dũng, em đã giữ phòng họp thứ Ba — phòng A tầng 3 ạ.* |
+| **ズン** | 「OK、<ruby>設備<rt>せつび</rt></ruby>は確認した？プロジェクター、ケーブル、Wi-Fi…」 |
+|  | *OK, em kiểm tra thiết bị chưa? Projector, cable, Wi-Fi...* |
+| **リン** | 「あっ、部屋を<ruby>予約<rt>よやく</rt></ruby>しただけで…プロジェクターがあるかは…」 |
+|  | *À... em mới chỉ đặt phòng thôi ạ... có projector hay không thì em chưa...* |
+| **ズン** | 「HDMIケーブルがない。リンさん、<ruby>急<rt>いそ</rt></ruby>ぎ<ruby>総務<rt>そうむ</rt></ruby>に<ruby>借<rt>か</rt></ruby>りに行って！<ruby>松本<rt>まつもと</rt></ruby>様あと10分で来る。」 |
+|  | *Không có HDMI cable. Linh, em chạy xuống văn phòng tổng vụ mượn ngay! Anh Matsumoto 10 phút nữa tới.* |
 
-**Vì sao xấu:** "Đặt phòng" ≠ "Setup họp". Nhân viên trẻ thường chỉ làm 1 bước rồi báo xong. Đến hôm họp khách Nhật vào → phải chạy đi tìm cable = lỗi mất mặt nghiêm trọng với khách.
+**Vì sao xấu:** "Đặt phòng" ≠ "Chuẩn bị xong cho buổi họp". Nhân viên trẻ thường chỉ làm 1 bước rồi báo xong. Đến hôm họp khách Nhật vào → phải chạy đi tìm cable = lỗi mất mặt nghiêm trọng với khách.
 
 ---
 
@@ -33,10 +37,14 @@ Em Linh (mới gia nhập, được Dũng mentor) được giao đặt phòng + 
 
 | Vai | Câu |
 |---------|-----|
-| **リン** | 「ズン先輩、火曜の会議室Aを予約し、設備チェックリストも完了しました【1】。」 |
+| **リン** | 「ズン先輩、火曜の会議室Aを予約し、設備チェックリストも<ruby>完了<rt>かんりょう</rt></ruby>しました【1】。」 |
+|  | *Anh Dũng, em đã đặt phòng họp A thứ Ba và xong cả checklist thiết bị ạ.* |
 | **ズン** | 「ありがとう。プロジェクター・HDMI・Wi-Fiは？」 |
-| **リン** | 「プロジェクターは昨日テスト済み、HDMIとUSB-C両方備品あり、Wi-Fi パスワードはネームプレートに記載しました。お茶とお水も人数分用意しております【2】。」 |
-| **ズン** | 「完璧。ネームプレートは席順どおり配置してね。当日は10分前に最終チェックしよう。」 |
+|  | *Cảm ơn em. Projector, HDMI, Wi-Fi thì sao?* |
+| **リン** | 「プロジェクターは<ruby>昨日<rt>きのう</rt></ruby>テスト<ruby>済<rt>ず</rt></ruby>み、HDMIとUSB-C<ruby>両方<rt>りょうほう</rt></ruby><ruby>備品<rt>びひん</rt></ruby>あり、Wi-Fi パスワードはネームプレートに<ruby>記載<rt>きさい</rt></ruby>しました。お茶とお水も<ruby>人数分<rt>にんずうぶん</rt></ruby><ruby>用意<rt>ようい</rt></ruby>しております【2】。」 |
+|  | *Projector hôm qua test rồi ạ, HDMI và USB-C có sẵn cả hai loại, password Wi-Fi em viết lên name plate. Trà với nước em chuẩn bị đủ số người ạ.* |
+| **ズン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。ネームプレートは<ruby>席順<rt>せきじゅん</rt></ruby>どおり<ruby>配置<rt>はいち</rt></ruby>してね。当日は10分前に<ruby>最終<rt>さいしゅう</rt></ruby>チェックしよう。」 |
+|  | *Hoàn hảo. Name plate em xếp đúng thứ tự chỗ ngồi nhé. Hôm họp mình kiểm tra lại lần cuối 10 phút trước.* |
 
 📝 **Ghi chú:**
 - 【1】**「設備チェックリスト」** — không chỉ "予約しました" mà là "予約 + チェックリスト完了". Phân biệt rõ 2 bước.
@@ -46,7 +54,7 @@ Em Linh (mới gia nhập, được Dũng mentor) được giao đặt phòng + 
 
 ## 🎯 Câu chốt
 
-> **「予約 ≠ 準備完了。チェックリストが完了して初めて『準備完了』。」**
+> **「予約 ≠ <ruby>準備<rt>じゅんび</rt></ruby>完了。チェックリストが完了して<ruby>初<rt>はじ</rt></ruby>めて『準備完了』。」**
 >
 > *Đặt phòng không bằng chuẩn bị xong. Checklist tick hết mới là "chuẩn bị xong".*
 

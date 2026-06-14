@@ -20,10 +20,14 @@
 
 | Vai | Câu |
 |---------|-----|
-| (月曜 15:00、商談から 5日後) **ズン** | 「大垣様、先日はありがとうございました！合意事項を後ほどメールでお送りします。」 |
-| **大垣** | 「ズン様、社内稟議が **金曜から動き始めて**、文書がないため **保留中**です。本日中にいただけますか？」 |
-| **ズン** | 「申し訳ございません、すぐ送ります！」 |
-| (16:30 送信、 fields 抜けあり) | (件名: 「Phase 3 の件」… body: 短い「合意ありがとうございました。¥17M で 2 年です」) |
+| (月曜 15:00、<ruby>商談<rt>しょうだん</rt></ruby>から 5日後) **ズン** | 「<ruby>大垣<rt>おおがき</rt></ruby>様、<ruby>先日<rt>せんじつ</rt></ruby>はありがとうございました！<ruby>合意<rt>ごうい</rt></ruby><ruby>事項<rt>じこう</rt></ruby>を<ruby>後<rt>のち</rt></ruby>ほどメールでお<ruby>送<rt>おく</rt></ruby>りします。」 |
+|  | *Anh Ōgaki, hôm trước em cảm ơn anh nhiều ạ! Các điểm đã đồng thuận em sẽ gửi mail sau ạ.* |
+| **大垣** | 「ズン様、<ruby>社内<rt>しゃない</rt></ruby><ruby>稟議<rt>りんぎ</rt></ruby>が **<ruby>金曜<rt>きんよう</rt></ruby>から<ruby>動<rt>うご</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めて**、<ruby>文書<rt>ぶんしょ</rt></ruby>がないため **<ruby>保留<rt>ほりゅう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>**です。<ruby>本日<rt>ほんじつ</rt></ruby><ruby>中<rt>じゅう</rt></ruby>にいただけますか？」 |
+|  | *Anh Dũng, ringi nội bộ bên anh đã chạy từ thứ Sáu, vì chưa có văn bản nên đang phải tạm dừng. Trong hôm nay gửi được không?* |
+| **ズン** | 「<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません、すぐ<ruby>送<rt>おく</rt></ruby>ります！」 |
+|  | *Em xin lỗi anh ạ, em gửi ngay ạ!* |
+| (16:30 送信、項目抜けあり) | (件名: 「Phase 3 の件」… 本文: 短い「合意ありがとうございました。¥17M で 2 年です」) |
+|  | *(Tiêu đề: "Vụ Phase 3"… body ngắn: "Cảm ơn anh đã đồng thuận. ¥17M, 2 năm")* |
 
 **Vì sao xấu:** (a) 5日遅延 = ringi blocked, (b) 件名 vague, (c) body thiếu attendees, open items, next steps. Khách phải nhờ Tiên Phát draft lại → trust降下. Phase 3 lùi 2 tuần.
 

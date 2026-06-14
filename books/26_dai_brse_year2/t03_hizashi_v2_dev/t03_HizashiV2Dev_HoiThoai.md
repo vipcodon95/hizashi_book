@@ -1,6 +1,6 @@
 # Sách kỹ sư cầu nối & khởi nghiệp · T3. Sprint 6 tuần v2.0 multi-language
 
-> **Mục tiêu nhân vật:** Đại 26 tuổi, tháng 5-6/2031. Sprint v2.0 6 tuần — mở rộng Hizashi sang Korean + Chinese learner. Học các mẫu hội thoại tiếng Nhật của founder trong sprint dev: (1) kickoff sprint chia 3 luồng song song 「<ruby>3<rt>さん</rt></ruby>つの<ruby>並行<rt>へいこう</rt></ruby>トラック」, (2) phỏng vấn freelance writer keigo 「<ruby>業務<rt>ぎょうむ</rt></ruby><ruby>委託<rt>いたく</rt></ruby><ruby>契約<rt>けいやく</rt></ruby>」, (3) review thiết kế Figma với Aiko bằng JP, (4) trao đổi kỹ thuật stack với Tuấn xen Anh-Việt, (5) báo cáo siêu âm 16w với bác sĩ, (6) retrospective sprint kết thúc.
+> **Mục tiêu nhân vật:** Đại 26 tuổi, tháng 5-6/2031. Sprint v2.0 6 tuần — mở rộng Hizashi sang Korean + Chinese learner. Học các mẫu hội thoại tiếng Nhật của founder trong sprint dev: (1) kickoff sprint chia 3 luồng song song 「<ruby>3<rt>みっ</rt></ruby>つの<ruby>並行<rt>へいこう</rt></ruby>トラック」, (2) phỏng vấn freelance writer keigo 「<ruby>業務<rt>ぎょうむ</rt></ruby><ruby>委託<rt>いたく</rt></ruby><ruby>契約<rt>けいやく</rt></ruby>」, (3) review thiết kế Figma với Aiko bằng JP, (4) trao đổi kỹ thuật stack với Tuấn xen Anh-Việt, (5) báo cáo siêu âm 16w với bác sĩ, (6) retrospective sprint kết thúc.
 
 ---
 
@@ -15,7 +15,7 @@
 | Vai | Lời thoại |
 |---|---|
 | Đại | (whiteboard) みんな、おはようございます。<ruby>本日<rt>ほんじつ</rt></ruby>からv2.0スプリント、<ruby>6週間<rt>ろくしゅうかん</rt></ruby>です。<br>*(Mọi người chào buổi sáng. Hôm nay bắt đầu sprint v2.0 — 6 tuần.)* |
-| Đại | <ruby>3<rt>さん</rt></ruby>つの<ruby>並行<rt>へいこう</rt></ruby>トラックに<ruby>分<rt>わ</rt></ruby>けます。<br>*(Chia 3 luồng song song.)* |
+| Đại | <ruby>3<rt>みっ</rt></ruby>つの<ruby>並行<rt>へいこう</rt></ruby>トラックに<ruby>分<rt>わ</rt></ruby>けます。<br>*(Chia 3 luồng song song.)* |
 | Đại | トラックA、トゥアンさん: backend を multi-tenant に refactor + <ruby>韓国語<rt>かんこくご</rt></ruby>と<ruby>中国語<rt>ちゅうごくご</rt></ruby>のコンテンツを<ruby>1万問<rt>いちまんもん</rt></ruby>ずつ seed。<br>*(Track A — Tuấn: refactor backend multi-tenant + seed 10k câu hỏi mỗi ngôn ngữ KR+ZH.)* |
 | Đại | トラックB、アイコさん: UI <ruby>3言語<rt>さんげんご</rt></ruby>(<ruby>日本語<rt>にほんご</rt></ruby>・<ruby>英語<rt>えいご</rt></ruby>・<ruby>ベトナム語<rt>ベトナムご</rt></ruby> base + <ruby>韓国語<rt>かんこくご</rt></ruby>・<ruby>中国語<rt>ちゅうごくご</rt></ruby>) + onboarding flow <ruby>再設計<rt>さいせっけい</rt></ruby>。<br>*(Track B — Aiko: UI 3 ngôn ngữ + thiết kế lại onboarding.)* |
 | Đại | トラックC、<ruby>私<rt>わたし</rt></ruby>: Series A の pitch deck + financial model + <ruby>5年<rt>ごねん</rt></ruby><ruby>予測<rt>よそく</rt></ruby> + コンテンツ QA。<br>*(Track C — tôi: pitch deck Series A + financial model + dự báo 5 năm + QA nội dung.)* |
@@ -59,7 +59,7 @@
 
 | Vai | Lời thoại |
 |---|---|
-| Aiko | <ruby>3<rt>さん</rt></ruby>つのバージョンを<ruby>作<rt>つく</rt></ruby>りました。<ruby>共通<rt>きょうつう</rt></ruby>のレイアウトで、<ruby>言語<rt>げんご</rt></ruby>だけ<ruby>切<rt>き</rt></ruby>り<ruby>替<rt>か</rt></ruby>えます。<br>*(Em đã làm 3 phiên bản. Layout chung, chỉ đổi ngôn ngữ.)* |
+| Aiko | <ruby>3<rt>みっ</rt></ruby>つのバージョンを<ruby>作<rt>つく</rt></ruby>りました。<ruby>共通<rt>きょうつう</rt></ruby>のレイアウトで、<ruby>言語<rt>げんご</rt></ruby>だけ<ruby>切<rt>き</rt></ruby>り<ruby>替<rt>か</rt></ruby>えます。<br>*(Em đã làm 3 phiên bản. Layout chung, chỉ đổi ngôn ngữ.)* |
 | Aiko | <ruby>右上<rt>みぎうえ</rt></ruby>に<ruby>言語<rt>げんご</rt></ruby><ruby>切替<rt>きりかえ</rt></ruby>ボタン。<ruby>初回起動時<rt>しょかいきどうじ</rt></ruby>は<ruby>端末<rt>たんまつ</rt></ruby>の<ruby>言語設定<rt>げんごせってい</rt></ruby>を<ruby>自動<rt>じどう</rt></ruby><ruby>検出<rt>けんしゅつ</rt></ruby>します。<br>*(Góc trên phải nút đổi ngôn ngữ. Lần đầu khởi động sẽ tự detect ngôn ngữ thiết bị.)* |
 | Đại | アイコさん、<ruby>韓国語<rt>かんこくご</rt></ruby>のフォントは<ruby>何<rt>なに</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っていますか?<br>*(Aiko-san, font tiếng Hàn dùng gì ạ?)* |
 | Aiko | Pretendard です。<ruby>韓国<rt>かんこく</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>人気<rt>にんき</rt></ruby>のあるオープンソースフォントです。<br>*(Pretendard. Font opensource phổ biến nhất Hàn Quốc.)* |
@@ -191,7 +191,7 @@
 
 ## Đọng lại chương 3
 
-Đại lead sprint v2.0 6 tuần với 3 luồng song song. Mẫu câu kickoff sprint `<ruby>3<rt>さん</rt></ruby>つの<ruby>並行<rt>へいこう</rt></ruby>トラックに<ruby>分<rt>わ</rt></ruby>けます` chuẩn agile keigo. Phỏng vấn freelance writer Park Min-jee với cấu trúc `<ruby>業務<rt>ぎょうむ</rt></ruby><ruby>委託<rt>いたく</rt></ruby>の<ruby>条件<rt>じょうけん</rt></ruby>は〜です` + `<ruby>納品物<rt>のうひんぶつ</rt></ruby>は〜です`. Review Figma 3 ngôn ngữ với Aiko — học mẫu câu `<ruby>韓国語<rt>かんこくご</rt></ruby>のフォントは<ruby>何<rt>なに</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っていますか` và quan trọng nhất là mẫu hỏi lại `「<ruby>地域<rt>ちいき</rt></ruby>SEO」というのは?`. Hỏi bác sĩ về lớp tiền sản `<ruby>出産前教室<rt>しゅっさんまえきょうしつ</rt></ruby>は<ruby>何月<rt>なんがつ</rt></ruby>からですか`. Retrospective cuối sprint với cấu trúc `<ruby>達成事項<rt>たっせいじこう</rt></ruby>/<ruby>残課題<rt>ざんかだい</rt></ruby>`. Đêm cuối gọi Zalo cho Mai ở Hà Nội — Hana ngoan, bé Đông đá 5 lần.
+Đại lead sprint v2.0 6 tuần với 3 luồng song song. Mẫu câu kickoff sprint `<ruby>3<rt>みっ</rt></ruby>つの<ruby>並行<rt>へいこう</rt></ruby>トラックに<ruby>分<rt>わ</rt></ruby>けます` chuẩn agile keigo. Phỏng vấn freelance writer Park Min-jee với cấu trúc `<ruby>業務<rt>ぎょうむ</rt></ruby><ruby>委託<rt>いたく</rt></ruby>の<ruby>条件<rt>じょうけん</rt></ruby>は〜です` + `<ruby>納品物<rt>のうひんぶつ</rt></ruby>は〜です`. Review Figma 3 ngôn ngữ với Aiko — học mẫu câu `<ruby>韓国語<rt>かんこくご</rt></ruby>のフォントは<ruby>何<rt>なに</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っていますか` và quan trọng nhất là mẫu hỏi lại `「<ruby>地域<rt>ちいき</rt></ruby>SEO」というのは?`. Hỏi bác sĩ về lớp tiền sản `<ruby>出産前教室<rt>しゅっさんまえきょうしつ</rt></ruby>は<ruby>何月<rt>なんがつ</rt></ruby>からですか`. Retrospective cuối sprint với cấu trúc `<ruby>達成事項<rt>たっせいじこう</rt></ruby>/<ruby>残課題<rt>ざんかだい</rt></ruby>`. Đêm cuối gọi Zalo cho Mai ở Hà Nội — Hana ngoan, bé Đông đá 5 lần.
 
 > Từ vựng & mẫu câu chương này: <ruby>並行<rt>へいこう</rt></ruby>トラック・<ruby>業務<rt>ぎょうむ</rt></ruby><ruby>委託<rt>いたく</rt></ruby>・<ruby>納品物<rt>のうひんぶつ</rt></ruby>・<ruby>合格率<rt>ごうかくりつ</rt></ruby>・<ruby>韓国語<rt>かんこくご</rt></ruby>・<ruby>中国語<rt>ちゅうごくご</rt></ruby>・<ruby>簡体字<rt>かんたいじ</rt></ruby>・<ruby>繁体字<rt>はんたいじ</rt></ruby>・<ruby>地域<rt>ちいき</rt></ruby>SEO・<ruby>自動<rt>じどう</rt></ruby><ruby>検出<rt>けんしゅつ</rt></ruby>・<ruby>胎動<rt>たいどう</rt></ruby>・<ruby>出産前教室<rt>しゅっさんまえきょうしつ</rt></ruby>・<ruby>達成事項<rt>たっせいじこう</rt></ruby>・<ruby>残課題<rt>ざんかだい</rt></ruby>・<ruby>共有<rt>きょうゆう</rt></ruby>・<ruby>具体的<rt>ぐたいてき</rt></ruby>・〜というのは・<ruby>視覚<rt>しかく</rt></ruby><ruby>面<rt>めん</rt></ruby>・<ruby>統一感<rt>とういつかん</rt></ruby>・お<ruby>疲<rt>つか</rt></ruby>れさまでした
 

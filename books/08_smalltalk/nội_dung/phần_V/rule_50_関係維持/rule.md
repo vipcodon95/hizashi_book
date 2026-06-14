@@ -1,58 +1,82 @@
-# Rule 50 — Memory bank — duy trì lâu dài / 関係維持の記憶バンク
+# Rule 50 — Kho ghi nhớ — duy trì quan hệ lâu dài / 関係維持の記憶バンク
 
-> **Luận điểm.** Sau mỗi cuộc gặp, **30 phút ghi kho ghi nhớ** = đầu tư có giá trị nhất + lợi suất cao nhất trong career với khách Nhật. **Trước mỗi cuộc gặp, 3 phút ôn lại** = senior cảm thấy "anh ấy nhớ tôi" — đó là lợi thế không ai bắt chước được.
+> **Luận điểm.** Sau mỗi cuộc gặp, **30 phút ghi kho ghi nhớ** = khoản đầu tư có giá trị nhất, lợi suất cao nhất trong sự nghiệp với khách Nhật. **Trước mỗi cuộc gặp, 3 phút ôn lại** = senior cảm thấy "anh ấy nhớ tôi" — đó là lợi thế không ai bắt chước được.
 
 ---
 
 ## 🧠 Tâm lý JP (4 dòng)
 
-- Senior JP **nhớ chi tiết** về đối tác — và **expect** đối tác nhớ về họ.
+- Senior JP **nhớ chi tiết** về đối tác — và **mong đợi** đối tác nhớ về họ.
 - "Tuần trước anh kể về cháu 5 tuổi, hôm nay cháu sao rồi?" = câu nói cảm động nhất với senior 60t.
-- Kho ghi nhớ = **sổ tay quan hệ cá nhân** — không phải phần mềm CRM công ty (mà CRM công ty hiếm khi ghi được chi tiết relationship).
-- Junior nhớ chi tiết = **lợi thế thực sự** — vì AI không có ngữ cảnh bữa dinner riêng tư đêm hôm.
+- Kho ghi nhớ = **sổ tay quan hệ cá nhân** — không phải phần mềm CRM công ty (mà CRM công ty hiếm khi ghi được chi tiết về mối quan hệ).
+- Junior nhớ chi tiết = **lợi thế thực sự** — vì AI không có ngữ cảnh bữa tối riêng tư đêm hôm.
 
 ---
 
 ## 🎬 Bối cảnh
 
-Tham khảo. 1 scenario "applying memory bank" + 1 scenario "ghi memory bank ngay sau dinner" + **TEMPLATE** đầy đủ.
+Tham khảo. 1 scenario "vận dụng kho ghi nhớ" + 1 scenario "ghi kho ghi nhớ ngay sau bữa tối" + **MẪU GHI CHÉP** đầy đủ.
 
 ---
 
-## 💬 2 Scenarios — dialogue thực chiến
+## 💬 3 Scenarios — hội thoại thực chiến
 
-### 📍 Scenario 1 — Applying memory bank: 3 phút trước họp
+### 📍 Scenario 1 — Vận dụng kho ghi nhớ: 3 phút trước họp
 
-*arrives · face lights, surprise + warm*
+*khách bước vào · mặt sáng lên, vừa bất ngờ vừa ấm áp*
 
 | Vai | Câu |
 |---------|-----|
-| *(8:55 AM, Dũng đợi Ōgaki, đã review CRM 3 phút trước:* |  |
+| *(8:55 AM, Dũng đợi Ōgaki, đã ôn lại CRM 3 phút trước:* |  |
 | *"Ōgaki: Osaka Kansai 弁, 阪神 fan, 娘 受験 来年大学, 牡蠣 NG, 前回桂米朝の話")* |  |
 | **大垣** | 「ズン、おはよう。」 |
-| **ズン** | 「大垣さん、おはようございます。**お嬢様、もう大学受験迫ってきましたね、調子いかがですか?**」【1】 |
-| **大垣** | 「えっ、よく覚えてるなあ!来月共通テストやけど、最近スランプ気味でな…」 |
+|  | *Dũng, chào em.* |
+| **ズン** | 「大垣さん、おはようございます。**お<ruby>嬢様<rt>じょうさま</rt></ruby>、もう大学<ruby>受験<rt>じゅけん</rt></ruby><ruby>迫<rt>せま</rt></ruby>ってきましたね、調子いかがですか?**」【1】 |
+|  | *Anh Ōgaki, chào anh. Cháu sắp đến kỳ thi đại học rồi nhỉ, cháu ổn không ạ?* |
+| **大垣** | 「えっ、よく覚えてるなあ!来月<ruby>共通<rt>きょうつう</rt></ruby>テストやけど、最近スランプ<ruby>気味<rt>ぎみ</rt></ruby>でな…」 |
+|  | *Ơ, em nhớ giỏi vậy! Tháng sau thi chung rồi, gần đây cháu hơi sa sút phong độ...* |
 | **ズン** | 「3か月前で大変な時期ですよね。ご家族でサポート、大変ですね。」 |
-| **大垣** | 「妻が一番気合い入っとるわ(笑)。じゃ、今日のキックオフ、よろしく。」 |
+|  | *3 tháng trước thi là giai đoạn căng. Cả nhà cùng động viên cũng vất vả nhỉ.* |
+| **大垣** | 「妻が一番<ruby>気合<rt>きあ</rt></ruby>い<ruby>入<rt>はい</rt></ruby>っとるわ(笑)。じゃ、今日のキックオフ、よろしく。」 |
+|  | *Vợ anh dồn tâm sức vào nhất (cười). Thôi, buổi khởi động hôm nay nhờ em.* |
 
 📝【1】 **3 phút ôn lại kho ghi nhớ trước họp = senior cảm thấy "anh ấy nhớ tôi".** Chi tiết cụ thể (受験 + 来月) đã được Ōgaki kể 2 tháng trước — junior nhớ lại = đẳng cấp. **Đây là lợi thế duy nhất AI không thay thế được.**
 
 ---
 
-### 📍 Scenario 2 — Ghi memory bank ngay sau dinner
+### 📍 Scenario 2 — Senior hé lộ chi tiết, Dũng nhắc đúng việc nửa năm trước
 
-| | Action | Detail |
-|--|--------|--------|
-| **23:30** | Vừa về phòng khách sạn | Mở Notion / Notes app |
-| **23:35** | Ghi 5-7 fact mới về mỗi khách | Dùng template (xem dưới) |
-| **23:50** | Ghi Action items | "Send Ōgaki the 桂米朝 link Tuấn nhắc tới" |
-| **00:00** | Save + đóng | Sáng hôm sau review lại 5 phút |
+*đầu buổi họp online · Matsumoto buông lời như thường lệ*
 
-> **VN:** "Trí nhớ tươi" = ghi trong 30 phút sau dinner. Sau 8 tiếng + ngủ + sáng → 50% chi tiết bị mờ. **Discipline this** = single biggest investment in JP relationships.
+| Vai | Câu |
+|---------|-----|
+| **松本** | 「ズン、最近どう?」 |
+|  | *Dũng, gần đây sao?* |
+| **ズン** | 「順調です。あ、松本さん、<ruby>半年前<rt>はんとしまえ</rt></ruby>におっしゃってた『<ruby>月島<rt>つきしま</rt></ruby>のもんじゃ<ruby>案内<rt>あんない</rt></ruby>する』って件、まだ<ruby>機会<rt>きかい</rt></ruby>ありますか?(笑)」【2】 |
+|  | *Em ổn ạ. À, anh Matsumoto, nửa năm trước anh nói 'sẽ dẫn em đi monjayaki Tsukishima', còn cơ hội không ạ? (cười)* |
+| **松本** | 「えっ、<ruby>覚<rt>おぼ</rt></ruby>えてるの!?もちろん!<ruby>来月<rt>らいげつ</rt></ruby>東京来る時、行こうよ。」 |
+|  | *Ơ, em nhớ luôn à? Đương nhiên! Tháng sau em đến Tokyo, mình đi.* |
+| **ズン** | 「ありがとうございます、<ruby>楽<rt>たの</rt></ruby>しみにしてます。」 |
+|  | *Cảm ơn anh, em mong lắm.* |
+
+📝【2】 Một lời hứa nhỏ ("dẫn đi monjayaki") senior nói nửa năm trước — junior nhớ và nhắc lại đúng lúc = khoảnh khắc lòng tin bật lên. Đây chính là thứ kho ghi nhớ tạo ra.
 
 ---
 
-## 🎯 Câu vàng copy-paste (apply memory bank)
+### 📍 Scenario 3 — Ghi kho ghi nhớ ngay sau bữa tối
+
+| | Việc làm | Chi tiết |
+|--|--------|--------|
+| **23:30** | Vừa về phòng khách sạn | Mở Notion / ứng dụng ghi chú |
+| **23:35** | Ghi 5-7 thông tin mới về mỗi khách | Dùng mẫu ghi chép (xem dưới) |
+| **23:50** | Ghi các việc cần làm | "Gửi anh Ōgaki đường link 桂米朝 mà Tuấn nhắc tới" |
+| **00:00** | Lưu + đóng | Sáng hôm sau ôn lại 5 phút |
+
+> **VN:** "Trí nhớ tươi" = ghi trong 30 phút sau bữa tối. Sau 8 tiếng + ngủ + sáng → 50% chi tiết bị mờ. **Hãy biến đây thành kỷ luật** = khoản đầu tư đơn lẻ lớn nhất cho mối quan hệ với người Nhật.
+
+---
+
+## 🎯 Câu vàng copy-paste (vận dụng kho ghi nhớ)
 
 ```
 ■ MỞ TOPIC dùng MEMORY:
@@ -73,11 +97,11 @@ Tham khảo. 1 scenario "applying memory bank" + 1 scenario "ghi memory bank nga
 
 ## ⚠ NG — tuyệt đối tránh
 
-- **Không** ghi memory bank → trí nhớ rò rỉ → 6 tháng sau gặp lại = "ai vậy?".
-- Ghi quá generic ("Ōgaki = Osaka") → useless. Phải **chi tiết** (受験 / 牡蠣 NG / 桂米朝 fan).
-- Reference fact **sai** ("お嬢様の受験うまくいかれましたか?" mà thực ra là 息子) → còn tệ hơn không nhớ.
-- Mention chi tiết **quá riêng tư** mà chưa thân (sức khỏe vợ, lương) → tò mò thái quá.
-- Lưu memory bank **ở chỗ không secure** → leak personal info khách.
+- **Không** ghi kho ghi nhớ → trí nhớ rò rỉ → 6 tháng sau gặp lại = "ai vậy?".
+- Ghi quá chung chung ("Ōgaki = Osaka") → vô dụng. Phải **chi tiết** (受験 / 牡蠣 không ăn được / 桂米朝 hâm mộ).
+- Nhắc lại thông tin **sai** ("お嬢様の受験うまくいかれましたか?" mà thực ra là 息子) → còn tệ hơn không nhớ.
+- Đề cập chi tiết **quá riêng tư** mà chưa thân (sức khỏe vợ, lương) → tò mò thái quá.
+- Lưu kho ghi nhớ **ở chỗ không an toàn** → lộ thông tin cá nhân của khách.
 
 ---
 
@@ -85,29 +109,29 @@ Tham khảo. 1 scenario "applying memory bank" + 1 scenario "ghi memory bank nga
 
 | 漢字 | よみ | Nghĩa |
 |------|------|-------|
-| 記憶バンク | きおくバンク | Memory bank |
+| 記憶バンク | きおくバンク | Kho ghi nhớ |
 | 受験 | じゅけん | Thi đại học |
-| 共通テスト | きょうつうテスト | Kỳ thi chung (universal entrance test) |
-| スランプ | — | Slump |
+| 共通テスト | きょうつうテスト | Kỳ thi chung (kỳ thi tuyển sinh toàn quốc) |
+| スランプ | — | Sa sút phong độ |
 | 気合い入る | きあいはいる | Tinh thần dồn vào |
-| 桂米朝 | かつらべいちょう | Rakugo legend Kansai |
+| 桂米朝 | かつらべいちょう | Bậc thầy rakugo huyền thoại vùng Kansai |
 | 御家族の皆様 | ごかぞくのみなさま | Cả gia đình anh chị (kính ngữ) |
 
 ---
 
 ## 🎓 BJT
 
-**J3 — 場面把握:** 3 phút review CRM trước họp = thói quen.
-**J2 — 表現読解:** Phân biệt "OK reference" vs "TOO MUCH" — pick 1-2 chi tiết, không quá 5.
-**J1 — 発言聴解:** Reference chính xác fact — bao gồm nuance ("3か月前 vs 半年前 vs 去年" — chính xác sẽ ấn tượng hơn vague).
+**J3 — 場面把握:** 3 phút ôn lại CRM trước họp = thói quen.
+**J2 — 表現読解:** Phân biệt "nhắc vừa đủ" và "nhắc quá nhiều" — chọn 1-2 chi tiết, không quá 5.
+**J1 — 発言聴解:** Nhắc lại thông tin chính xác — kể cả sắc thái tinh tế ("3か月前 vs 半年前 vs 去年" — chính xác sẽ ấn tượng hơn nói mơ hồ).
 
 ---
 
-## 📋 TEMPLATE đầy đủ (load vào Phụ lục D)
+## 📋 MẪU GHI CHÉP đầy đủ (nạp vào Phụ lục D)
 
-> Xem template chi tiết trong file `conversation.json` field `templates`. **2 templates chính**:
-> 1. **Memory bank entry** — sau dinner ghi chi tiết
-> 2. **Pre-meeting review checklist** — 3 phút trước họp
+> Xem mẫu chi tiết trong file `conversation.json` ở mục `templates`. **2 mẫu chính**:
+> 1. **Mẫu ghi kho ghi nhớ** — sau bữa tối ghi chi tiết
+> 2. **Bảng kiểm ôn lại trước họp** — 3 phút trước họp
 
 ---
 

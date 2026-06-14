@@ -9,7 +9,11 @@
     "ja": "Phase 2交渉会議3週間後、新人がスコープ決定について質問。ズンがNotion『決定事項一覧』を案内する。decision/source/owner/status 4フィールドで管理する場面。",
     "vi": "3 tuần sau họp đàm phán phase 2, dev mới onboard hỏi scope. Em Dũng chỉ tới Notion 'Decisions list' với 4 trường: decision/source/owner/status."
   },
-  "related_rules": ["rule_31", "rule_45", "rule_50"],
+  "related_rules": [
+    "rule_31",
+    "rule_45",
+    "rule_50"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -73,7 +77,9 @@
           "sentence": "Notion の『決定事項一覧』に記録があります。リンク送りますね。",
           "sentence_translation": "Có record trong Notion 'Decisions list' đấy. Anh gửi link nhé.",
           "tone": "warm",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_49_good_03",
@@ -104,12 +110,12 @@
       "skill": "場面把握",
       "question_ja": "会議の決定事項を社内で最も traceable に管理する方法は？",
       "options": [
-        "議事録メールに任せる",
         "Notion/CRMに decision/source/owner/status の4フィールドで48時間以内に記録",
         "口頭で伝える",
-        "個人メモ"
+        "個人メモ",
+        "議事録メールに任せる"
       ],
-      "correct": "B",
+      "correct": "A",
       "explanation": {
         "ja": "single source of truthがあれば onboarding・監査・後追いが全て効率化される。",
         "vi": "Có 1 source duy nhất → onboarding / audit / follow-up đều hiệu quả."

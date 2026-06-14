@@ -146,7 +146,7 @@
 | Sato | ありがとうございます。<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みされますか？<br>*(Cảm ơn. Anh có đăng ký không?)* |
 | Đại | <ruby>一<rt>ひと</rt></ruby>つ<ruby>相談<rt>そうだん</rt></ruby>があります。<br>*(Em có một việc muốn bàn.)* |
 | Sato | どうぞ。<br>*(Mời.)* |
-| Đại | <ruby>正直<rt>しょうじき</rt></ruby>に<ruby>言<rt>い</rt></ruby>うと、<ruby>150000<rt>じゅうごまん</rt></ruby><ruby>円<rt>えん</rt></ruby>は<ruby>留学生<rt>りゅうがくせい</rt></ruby>には<ruby>厳<rt>きび</rt></ruby>しいです。KCPは<ruby>N2<rt></rt></ruby><ruby>所持者<rt>しょじしゃ</rt></ruby><ruby>割引<rt>わりびき</rt></ruby>がありました。<br>*(Thật ra, 150000 yên với du học sinh hơi căng. KCP có giảm giá người có N2.)* |
+| Đại | <ruby>正直<rt>しょうじき</rt></ruby>に<ruby>言<rt>い</rt></ruby>うと、<ruby>150000<rt>じゅうごまん</rt></ruby><ruby>円<rt>えん</rt></ruby>は<ruby>留学生<rt>りゅうがくせい</rt></ruby>には<ruby>厳<rt>きび</rt></ruby>しいです。KCPはN2<ruby>所持者<rt>しょじしゃ</rt></ruby><ruby>割引<rt>わりびき</rt></ruby>がありました。<br>*(Thật ra, 150000 yên với du học sinh hơi căng. KCP có giảm giá người có N2.)* |
 | Sato | （<ruby>少<rt>すこ</rt></ruby>し<ruby>考<rt>かんが</rt></ruby>えて）...<ruby>店長<rt>てんちょう</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>してみます。<br>*(Suy nghĩ một chút. Tôi sẽ bàn với quản lý.)* |
 | Sato | （5<ruby>分後<rt>ふんご</rt></ruby><ruby>戻<rt>もど</rt></ruby>る）N2<ruby>合格<rt>ごうかく</rt></ruby><ruby>者<rt>しゃ</rt></ruby>かつ<ruby>11<rt>じゅういち</rt></ruby><ruby>月<rt>がつ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みされる<ruby>場合<rt>ばあい</rt></ruby>、<ruby>20000<rt>にまん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>値引<rt>ねび</rt></ruby>き<ruby>可能<rt>かのう</rt></ruby>です。<br>*(5 phút sau quay lại. Người đỗ N2 đăng ký trong tháng 11 được giảm 20000 yên.)* |
 | Đại | <ruby>130000<rt>じゅうさんまん</rt></ruby><ruby>円<rt>えん</rt></ruby>ですね。<ruby>検討<rt>けんとう</rt></ruby>させてください。<ruby>明日<rt>あした</rt></ruby>までにご<ruby>連絡<rt>れんらく</rt></ruby>します。<br>*(Vậy là 130000 yên. Cho em cân nhắc. Mai em sẽ liên hệ.)* |
@@ -160,7 +160,7 @@
 | Vai | Lời thoại |
 |---|---|
 | Đại | トニーさん、ユミさん、<ruby>予備校<rt>よびこう</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶのに<ruby>相談<rt>そうだん</rt></ruby>したいです。<br>*(Anh Tony, chị Yumi, em muốn xin ý kiến chọn yobikou.)* |
-| Tony | （パンフレット<ruby>見<rt>み</rt></ruby>る）<ruby>三<rt>さん</rt></ruby>つ<ruby>候補<rt>こうほ</rt></ruby>?<br>*(Xem brochure. Có 3 lựa chọn?)* |
+| Tony | （パンフレット<ruby>見<rt>み</rt></ruby>る）<ruby>三<rt>みっ</rt></ruby>つ<ruby>候補<rt>こうほ</rt></ruby>?<br>*(Xem brochure. Có 3 lựa chọn?)* |
 | Đại | はい。<ruby>栄光<rt>えいこう</rt></ruby> <ruby>130000<rt>じゅうさんまん</rt></ruby><ruby>円<rt>えん</rt></ruby> (<ruby>値引<rt>ねび</rt></ruby>き<ruby>後<rt>ご</rt></ruby>)、KCP <ruby>108000<rt>じゅうまんはっせん</rt></ruby><ruby>円<rt>えん</rt></ruby>、JASSO <ruby>80000<rt>はちまん</rt></ruby><ruby>円<rt>えん</rt></ruby>。<br>*(Vâng. Eikō 130000 sau giảm, KCP 108000, JASSO 80000.)* |
 | Yumi | <ruby>値段<rt>ねだん</rt></ruby>だけで<ruby>選<rt>えら</rt></ruby>ばないで。<ruby>内容<rt>ないよう</rt></ruby>が<ruby>大事<rt>だいじ</rt></ruby>。<br>*(Đừng chọn theo giá. Nội dung quan trọng.)* |
 | Đại | はい。<ruby>栄光<rt>えいこう</rt></ruby>は<ruby>合格率<rt>ごうかくりつ</rt></ruby> <ruby>53<rt>ごじゅうさん</rt></ruby>パーセント。<ruby>体験<rt>たいけん</rt></ruby><ruby>授業<rt>じゅぎょう</rt></ruby>受けて<ruby>講師<rt>こうし</rt></ruby>のレベルも<ruby>確認<rt>かくにん</rt></ruby>しました。<br>*(Vâng. Eikō tỷ lệ đỗ 53%. Em dự giờ thử thấy trình độ giảng viên ổn.)* |

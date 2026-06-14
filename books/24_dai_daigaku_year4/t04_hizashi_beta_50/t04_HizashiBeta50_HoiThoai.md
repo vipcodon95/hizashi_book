@@ -190,9 +190,9 @@ Tháng 7-8/2029. Hizashi từ v0.5 → v0.7 với 50 beta user thật. Hồ sơ:
 
 ---
 
-## Tình huống 12 — Cảnh tiếng Việt — call Tuấn cofounder (du học sinh + dev partner tại Tokyo)
+## Tình huống 12 — Cảnh tiếng Việt — call Tuấn (em cohort sách 19-20, đang học ở Kobe)
 
-*Đại gọi Tuấn — bạn ĐH Bách khoa cũ, hiện du học cao học Tokyo Tech, là dev partner kỹ thuật của Hizashi.*
+*Đại gọi Tuấn — em cohort sách 19-20, hiện học ngành kinh tế/IT ở Kobe, beta tester thân thiết và là người Đại đang nhắm làm cofounder mảng biz sau này.*
 
 | Vai | Lời thoại |
 |---|---|
@@ -202,7 +202,7 @@ Tháng 7-8/2029. Hizashi từ v0.5 → v0.7 với 50 beta user thật. Hồ sơ:
 | Đại | (VN) Cả 2. Yamada-senpai nhắc beta dễ bị inflate vì là người quen. Phải đợi 200 user mới biết thật. |
 | Tuấn | (VN) OK. Còn course Business JP với từ vựng nhà máy — content ai làm? |
 | Đại | (VN) Linh-Anh em gái tao làm content Business JP (cô ấy ở Toyota Boshoku). Course nhà máy tao đang tìm 1 TTS thâm niên. |
-| Tuấn | (VN) Mày add tao vào Notion. Tao code phần offline mode được — cache SQLite kết hợp service worker. v0.8 timeline tao xử lý 3 tuần. |
+| Tuấn | (VN) Mày add tao vào Notion. Tao lo được mảng cộng đồng người Việt — viết nội dung review, chạy nhóm Facebook, kéo beta user từ hội du học sinh. 3 tuần tao gom thêm 30-40 user cho mày. |
 | Đại | (VN) Quá ngon. Add tao tao mời ¥30k/tháng giai đoạn này — sau Series A lên ¥80k. |
 | Tuấn | (VN) Đừng trả tiền. Mày để tao cổ phần 5% là OK. Tao tin Hizashi sẽ thành. |
 | Đại | (VN) Trời mày tuyệt vời. Anh em ký SAFE note tuần sau nhé. |

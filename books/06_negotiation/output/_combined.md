@@ -65,14 +65,18 @@ Tháng 5/2026, Phase 3 với 白鷗 vào round đàm phán giá lần 1. Anh Hà
 
 *Slack 9:00, hỏi Hương*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、明日 Phase 3 の価格交渉です。¥18M で出すんですが、もし大垣さんが下げてと言ったらどこまで下げますか？」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、明日 Phase 3 の<ruby>価格交渉<rt>かかくこうしょう</rt></ruby>です。¥18M で出すんですが、もし<ruby>大垣<rt>おおがき</rt></ruby>さんが下げてと言ったらどこまで下げますか？」 |
+|  | *Chị Hương, mai là round đàm phán giá Phase 3 ạ. Em ra giá ¥18M, nhưng nếu anh Ōgaki ép giảm thì giảm xuống tới đâu ạ?* |
 | **フオン** | 「BATNA は？」 |
-| **ズン** | 「BATNA…えっと、まだ考えてないです。譲歩は¥17Mぐらいまでかなと…」 |
-| **フオン** | 「**ダメ。BATNA がないなら、明日交渉に行かないで**。¥17M も曖昧で根拠がない。今夜中に BATNA 3 シナリオ書いて、明日朝レビューしよう。」 |
+|  | *BATNA của em là gì?* |
+| **ズン** | 「BATNA…えっと、まだ考えてないです。<ruby>譲歩<rt>じょうほ</rt></ruby>は¥17Mぐらいまでかなと…」 |
+|  | *BATNA... ờ, em chưa nghĩ ạ. Em định nhượng bộ chừng ¥17M ạ...* |
+| **フオン** | 「**ダメ。BATNA がないなら、明日交渉に行かないで**。¥17M も<ruby>曖昧<rt>あいまい</rt></ruby>で<ruby>根拠<rt>こんきょ</rt></ruby>がない。今夜中に BATNA 3 シナリオ書いて、明日朝レビューしよう。」 |
+|  | *Không được. BATNA không có thì mai không vào đàm phán. ¥17M cũng mơ hồ không có cơ sở. Tối nay viết BATNA 3 scenario, sáng mai chị review.* |
 
-**Vì sao xấu:** Dũng vào đàm phán mà không có BATNA → không biết walk-away point. ¥17M chỉ là cảm giác, không có cơ sở. Khách Nhật sharp như 大垣 sẽ test → đẩy Dũng đến ¥15M dễ dàng. Hương từ chối let Dũng vào phòng — đây là correct mentor decision.
+**Vì sao xấu:** Dũng vào đàm phán mà không có BATNA → không biết walk-away point. ¥17M chỉ là cảm giác, không có cơ sở. Khách Nhật sắc sảo như 大垣 sẽ thăm dò → đẩy Dũng đến ¥15M dễ dàng. Hương từ chối cho Dũng vào phòng — đây là quyết định đúng của người hướng dẫn.
 
 ---
 
@@ -80,23 +84,27 @@ Tháng 5/2026, Phase 3 với 白鷗 vào round đàm phán giá lần 1. Anh Hà
 
 *Slack 9:00 · file 開く*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、Phase 3 価格交渉の **BATNA 3 シナリオ**を作成しました【1】。レビューいただけますでしょうか？」 |
-| **フオン** | 「シナリオA(成立): ¥18M、target、shake hand。シナリオB(再交渉): ¥16.5M + scope -10%、ハー CTO 承認済。シナリオC(walk-away): ¥15M 以下なら撤退、別案件 X 社の話進める。これは具体的でいいね。」 |
-| **ズン** | 「シナリオB の根拠は、**Phase 2 同等スコープなら ¥16.5M で利益率 22% 維持可能**【2】、ハー CTO に確認済みです。シナリオC は **3月にX社から ¥17M の MoU 受領** が走っているので、こちらに切り替え可能です【3】。」 |
-| **フオン** | 「完璧。明日大垣さんが ¥15M 以下を出してきたら、シナリオ C を堂々と提示。『弊社にも他のオプションがある』ことを声に出さなくても tone で伝わる。それが BATNA の力。」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、Phase 3 <ruby>価格交渉<rt>かかくこうしょう</rt></ruby>の **BATNA 3 シナリオ**を<ruby>作成<rt>さくせい</rt></ruby>しました【1】。レビューいただけますでしょうか？」 |
+|  | *Chị Hương, em đã tạo BATNA 3 scenario cho đàm phán giá Phase 3 ạ. Phiền chị review giúp em được không ạ?* |
+| **フオン** | 「シナリオA(<ruby>成立<rt>せいりつ</rt></ruby>): ¥18M、target、shake hand。シナリオB(<ruby>再交渉<rt>さいこうしょう</rt></ruby>): ¥16.5M + scope -10%、ハー CTO <ruby>承認済<rt>しょうにんずみ</rt></ruby>。シナリオC(walk-away): ¥15M <ruby>以下<rt>いか</rt></ruby>なら<ruby>撤退<rt>てったい</rt></ruby>、<ruby>別案件<rt>べつあんけん</rt></ruby> X 社の話進める。これは<ruby>具体的<rt>ぐたいてき</rt></ruby>でいいね。」 |
+|  | *Scenario A (deal): ¥18M, target, bắt tay. Scenario B (counter): ¥16.5M + scope -10%, anh Hà CTO đã duyệt. Scenario C (walk-away): dưới ¥15M thì rút lui, switch sang X社. Cụ thể, OK.* |
+| **ズン** | 「シナリオB の<ruby>根拠<rt>こんきょ</rt></ruby>は、**Phase 2 <ruby>同等<rt>どうとう</rt></ruby>スコープなら ¥16.5M で<ruby>利益率<rt>りえきりつ</rt></ruby> 22% <ruby>維持可能<rt>いじかのう</rt></ruby>**【2】、ハー CTO に<ruby>確認済<rt>かくにんず</rt></ruby>みです。シナリオC は **3月にX社から ¥17M の MoU <ruby>受領<rt>じゅりょう</rt></ruby>** が走っているので、こちらに切り替え可能です【3】。」 |
+|  | *Cơ sở scenario B: scope tương đương Phase 2 thì ¥16.5M giữ profit margin 22%, anh Hà CTO đã confirm ạ. Scenario C: tháng 3 đã có MoU ¥17M từ X社 đang chạy, em có thể switch sang ạ.* |
+| **フオン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。明日<ruby>大垣<rt>おおがき</rt></ruby>さんが ¥15M 以下を出してきたら、シナリオ C を<ruby>堂々<rt>どうどう</rt></ruby>と<ruby>提示<rt>ていじ</rt></ruby>。『<ruby>弊社<rt>へいしゃ</rt></ruby>にも他のオプションがある』ことを声に出さなくても tone で伝わる。それが BATNA の力。」 |
+|  | *Tuyệt. Mai anh Ōgaki đẩy xuống dưới ¥15M thì em đưa scenario C ra một cách thẳng thắn. 'Bên em cũng có lựa chọn khác' không cần nói thành lời, giọng điệu cũng truyền tải. Đó là sức mạnh BATNA.* |
 
 📝 **Ghi chú:**
-- 【1】**「BATNA 3 シナリオ」** — A (deal as-is), B (counter-offer prepared), C (walk-away). Mỗi scenario phải có **con số + điều kiện + người đã approve**.
-- 【2】**シナリオB phải có xác thực tài chính nội bộ** — không chỉ "cảm giác". Profit margin maintained ≥ 20% là internal threshold.
-- 【3】**シナリオC walk-away cần real alternative** — không phải bluff. X 社 MoU thật → Dũng vào phòng với confidence.
+- 【1】**「BATNA 3 シナリオ」** — A (deal as-is), B (counter-offer prepared), C (walk-away). Mỗi scenario phải có **con số + điều kiện + người đã duyệt**.
+- 【2】**シナリオB phải có xác thực tài chính nội bộ** — không chỉ "cảm giác". Giữ profit margin ≥ 20% là ngưỡng nội bộ.
+- 【3】**シナリオC walk-away cần lựa chọn thay thế thật** — không phải đòn dọa suông. X 社 MoU thật → Dũng vào phòng với sự tự tin.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「BATNAなしで交渉に入らない。3シナリオ(成立／再交渉／撤退)を数値で持つ。」**
+> **「BATNAなしで<ruby>交渉<rt>こうしょう</rt></ruby>に入らない。3シナリオ(<ruby>成立<rt>せいりつ</rt></ruby>／<ruby>再交渉<rt>さいこうしょう</rt></ruby>／<ruby>撤退<rt>てったい</rt></ruby>)を<ruby>数値<rt>すうち</rt></ruby>で持つ。」**
 >
 > *Không vào đàm phán khi chưa có BATNA. 3 scenario (deal / counter / walk-away) phải có con số.*
 
@@ -104,10 +112,10 @@ Tháng 5/2026, Phase 3 với 白鷗 vào round đàm phán giá lần 1. Anh Hà
 
 ## ⚠ Tránh
 
-- BATNA mơ hồ ("nếu không thì cũng OK") → khách Nhật sharp đọc được trong 5 phút
-- Không có scenario C (walk-away real) → mọi concession của bạn = bottomless
-- BATNA không có internal approval → đến giờ G phát hiện scenario B vượt quyền
-- Nói trực tiếp "我々には他のオプションがあります" → JP business kỵ threat-talk; thay bằng tone confidence (sound trong giọng) + body language
+- BATNA mơ hồ ("nếu không thì cũng OK") → khách Nhật sắc sảo đọc được trong 5 phút
+- Không có scenario C (walk-away thật) → mọi nhượng bộ của bạn = không có đáy
+- BATNA không có duyệt nội bộ → đến giờ G phát hiện scenario B vượt quyền
+- Nói trực tiếp "我々には他のオプションがあります" → doanh nghiệp Nhật kỵ kiểu nói đe dọa; thay bằng giọng điệu tự tin (toát ra trong giọng) + ngôn ngữ cơ thể
 
 ---
 
@@ -126,7 +134,7 @@ Tháng 5/2026, Phase 3 với 白鷗 vào round đàm phán giá lần 1. Anh Hà
 
 # Rule 02 — ZOPA: Vùng có thể thỏa thuận / ZOPA — 合意可能領域
 
-> **Luận điểm.** **ZOPA** (Zone Of Possible Agreement) là khoảng giao giữa "reservation price" của bên mình và "reservation price" của khách. Nếu hai khoảng KHÔNG giao nhau → no-deal. Trước đàm phán phải ước lượng cả 4 con số: *target* + *reservation* của mình, *budget ceiling* + *budget floor* của khách.
+> **Luận điểm.** **ZOPA** (Zone Of Possible Agreement) là khoảng giao giữa "reservation price" của bên mình và "reservation price" của khách. Nếu hai khoảng KHÔNG giao nhau → không có thương vụ. Trước đàm phán phải ước lượng cả 4 con số: *target* + *reservation* của mình, *budget ceiling* (trần ngân sách) + *budget floor* (sàn / mức tối thiểu) của khách.
 >
 > 交渉に入る前に、自社の **目標価格・撤退価格** だけでなく相手の **予算上限・最低期待品質** も推定し、**ZOPA**(合意可能領域) が存在するか確認する。ZOPAがゼロなら、その日の交渉は成立しない。
 >
@@ -136,42 +144,50 @@ Tháng 5/2026, Phase 3 với 白鷗 vào round đàm phán giá lần 1. Anh Hà
 
 ## Bối cảnh / 場面
 
-Sau khi review BATNA xong (rule 01), Hương yêu cầu Dũng thêm **ZOPA mapping** — ước lượng budget ceiling của 白鷗 dựa trên Phase 2 actual + thông tin từ Tanaka PMO. Dũng vào meeting room nhỏ với Hương sáng thứ Ba.
+Sau khi xem xét BATNA xong (rule 01), Hương yêu cầu Dũng thêm **ZOPA mapping** — ước lượng budget ceiling của 白鷗 dựa trên số liệu thực tế Phase 2 + thông tin từ Tanaka PMO. Dũng vào phòng họp nhỏ với Hương sáng thứ Ba.
 
 ---
 
 ## ❌ Hội thoại XẤU — chỉ tính giá phía mình, không estimate phía khách
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、目標 ¥18M、撤退 ¥15M で行きます。」 |
-| **フオン** | 「相手の予算上限は？」 |
-| **ズン** | 「分かりません。とりあえず ¥18M 出して反応見ます。」 |
-| **フオン** | 「それは博打。¥18M が相手上限 ¥16M を超えていたら、その時点で ZOPA ゼロ。**こっちが anchor を出す前に、相手の budget 帯を推定して。**」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、<ruby>目標<rt>もくひょう</rt></ruby> ¥18M、<ruby>撤退<rt>てったい</rt></ruby> ¥15M で行きます。」 |
+|  | *Chị Hương, em đi với target ¥18M, walk-away ¥15M ạ.* |
+| **フオン** | 「<ruby>相手<rt>あいて</rt></ruby>の<ruby>予算上限<rt>よさんじょうげん</rt></ruby>は？」 |
+|  | *Budget ceiling phía khách là bao nhiêu?* |
+| **ズン** | 「分かりません。とりあえず ¥18M 出して<ruby>反応<rt>はんのう</rt></ruby>見ます。」 |
+|  | *Em chưa biết ạ. Cứ ra ¥18M rồi xem phản ứng ạ.* |
+| **フオン** | 「それは<ruby>博打<rt>ばくち</rt></ruby>。¥18M が相手<ruby>上限<rt>じょうげん</rt></ruby> ¥16M を超えていたら、その時点で ZOPA ゼロ。**こっちが anchor を出す前に、相手の budget <ruby>帯<rt>たい</rt></ruby>を<ruby>推定<rt>すいてい</rt></ruby>して。**」 |
+|  | *Đó là đánh bạc. Nếu ¥18M vượt ceiling khách ¥16M là ZOPA = 0 ngay. Trước khi mình anchor, phải estimate dải budget của khách.* |
 
-**Vì sao xấu:** Chỉ tính một phía → không biết ZOPA có tồn tại hay không. Nếu khách budget ceiling là ¥16M mà mình anchor ¥18M, có thể bị walk-away ngay từ đầu hoặc bị ép giảm sâu. "Reaction を見る" là cách lười, không có data.
+**Vì sao xấu:** Chỉ tính một phía → không biết ZOPA có tồn tại hay không. Nếu budget ceiling của khách là ¥16M mà mình anchor ¥18M, có thể bị walk-away ngay từ đầu hoặc bị ép giảm sâu. "Reaction を見る" (chờ xem phản ứng) là cách lười, không có dữ liệu.
 
 ---
 
 ## ✅ Hội thoại TỐT — ZOPA mapping 4 số + cross-check intel
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、ZOPA マッピングを作りました【1】。弊社 target ¥18M、reservation ¥15M。白鷗側は推定 budget ceiling ¥17M、最低期待品質ライン Phase 2 同等以上。」 |
-| **フオン** | 「¥17M の根拠は？」 |
-| **ズン** | 「Phase 2 が ¥14.5M でクローズ、白鷗 IT 部の年度予算は前年比 +15% と田中さんが Slack で漏らしていました【2】。14.5 × 1.15 ≒ ¥16.7M、切り上げて ¥17M です。」 |
-| **フオン** | 「ZOPA は ¥15M〜¥17M の幅 2M ある。target ¥18M は ZOPA 上限を超えてるけど、anchor として出すには適切。**着地点は ¥16.5M 前後と想定して、譲歩計画(rule 09)に反映**して。」 |
+| **ズン** | 「フオン副部長、ZOPA マッピングを作りました【1】。<ruby>弊社<rt>へいしゃ</rt></ruby> target ¥18M、reservation ¥15M。<ruby>白鷗<rt>はくおう</rt></ruby>側は推定 budget ceiling ¥17M、<ruby>最低期待品質<rt>さいていきたいひんしつ</rt></ruby>ライン Phase 2 <ruby>同等<rt>どうとう</rt></ruby>以上。」 |
+|  | *Chị Hương, em đã làm ZOPA mapping ạ. Bên mình target ¥18M, reservation ¥15M. Bên Hakuō ước budget ceiling ¥17M, floor về chất lượng là tương đương Phase 2 trở lên ạ.* |
+| **フオン** | 「¥17M の<ruby>根拠<rt>こんきょ</rt></ruby>は？」 |
+|  | *Cơ sở của ¥17M là gì?* |
+| **ズン** | 「Phase 2 が ¥14.5M でクローズ、白鷗 IT 部の<ruby>年度予算<rt>ねんどよさん</rt></ruby>は<ruby>前年比<rt>ぜんねんひ</rt></ruby> +15% と<ruby>田中<rt>たなか</rt></ruby>さんが Slack で<ruby>漏<rt>も</rt></ruby>らしていました【2】。14.5 × 1.15 ≒ ¥16.7M、<ruby>切<rt>き</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げて ¥17M です。」 |
+|  | *Phase 2 chốt ¥14.5M, ngân sách năm phòng IT Hakuō tăng 15% — anh Tanaka có lộ trên Slack ạ. 14.5 × 1.15 ≒ ¥16.7M, làm tròn thành ¥17M ạ.* |
+| **フオン** | 「ZOPA は ¥15M〜¥17M の<ruby>幅<rt>はば</rt></ruby> 2M ある。target ¥18M は ZOPA 上限を超えてるけど、anchor として出すには<ruby>適切<rt>てきせつ</rt></ruby>。**<ruby>着地点<rt>ちゃくちてん</rt></ruby>は ¥16.5M <ruby>前後<rt>ぜんご</rt></ruby>と<ruby>想定<rt>そうてい</rt></ruby>して、<ruby>譲歩計画<rt>じょうほけいかく</rt></ruby>(rule 09)に<ruby>反映<rt>はんえい</rt></ruby>**して。」 |
+|  | *ZOPA rộng ¥15M〜¥17M, biên độ 2M. Target ¥18M vượt ceiling chút nhưng làm anchor thì OK. Landing point dự ¥16.5M, phản ánh vào kế hoạch nhượng bộ.* |
 
 📝 **Ghi chú:**
 - 【1】**ZOPA マッピング = 4 con số:** mình *target* + *reservation*, khách *ceiling* + *floor*. Vẽ trên 1 trục, kiểm tra có giao nhau không.
-- 【2】**Thông tin từ khách phải có nguồn cụ thể** — ai nói, ở đâu (Slack/họp/website), khi nào. Tránh "tôi đoán" thuần.
-- Anchor giá có thể **vượt ZOPA ceiling một chút** (target ¥18M > ¥17M) — đây là chủ ý để có dư địa nhượng bộ. Nhưng nếu vượt quá xa → khách offended, walk-away.
+- 【2】**Thông tin nội bộ về khách phải có nguồn cụ thể** — ai nói, ở đâu (Slack/họp/website), khi nào. Tránh "tôi đoán" thuần.
+- Anchor giá có thể **vượt ZOPA ceiling một chút** (target ¥18M > ¥17M) — đây là chủ ý để có dư địa nhượng bộ. Nhưng nếu vượt quá xa → khách cảm thấy bị xúc phạm, walk-away.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「自社2点+相手2点=ZOPA 4数値。ZOPAゼロなら今日は交渉成立しない。」**
+> **「<ruby>自社<rt>じしゃ</rt></ruby>2点+相手2点=ZOPA 4<ruby>数値<rt>すうち</rt></ruby>。ZOPAゼロなら今日は<ruby>交渉成立<rt>こうしょうせいりつ</rt></ruby>しない。」**
 >
 > *Mình 2 số + khách 2 số = ZOPA 4 con số. Nếu ZOPA = 0 thì hôm nay không có deal.*
 
@@ -179,9 +195,9 @@ Sau khi review BATNA xong (rule 01), Hương yêu cầu Dũng thêm **ZOPA mappi
 
 ## ⚠ Tránh
 
-- Chỉ tính giá phía mình, bỏ qua estimate phía khách → vào phòng mù
-- Estimate khách dựa trên "linh cảm" thay vì intel cụ thể (Slack, Phase trước, IR report)
-- Quên kiểm tra **mức sàn** của khách (chất lượng tối thiểu) — nhiều deal vỡ vì scope chứ không phải giá
+- Chỉ tính giá phía mình, bỏ qua ước lượng phía khách → vào phòng mù
+- Ước lượng khách dựa trên "linh cảm" thay vì thông tin nội bộ cụ thể (Slack, Phase trước, báo cáo IR)
+- Quên kiểm tra **mức sàn** của khách (chất lượng tối thiểu) — nhiều thương vụ vỡ vì phạm vi công việc chứ không phải giá
 - Anchor vượt ZOPA ceiling quá xa (>20%) → khách cảm thấy bị xúc phạm
 
 ---
@@ -201,11 +217,11 @@ Sau khi review BATNA xong (rule 01), Hương yêu cầu Dũng thêm **ZOPA mappi
 
 # Rule 03 — Hiểu phong cách quyết định ringi (稟議) / 稟議の理解
 
-> **Luận điểm.** Khách Nhật KHÔNG quyết định trong 1 cuộc họp. Quy trình là: **nemawashi (根回し — đi gặp riêng từng key person trước)** → **ringi (稟議書 — văn bản chuyền tay)** → **決裁 (kessai — sếp đóng dấu cuối)**. Push for "decision today" với khách Nhật = self-sabotage.
+> **Luận điểm.** Khách Nhật KHÔNG quyết định trong 1 cuộc họp. Quy trình là: **nemawashi (根回し — đi gặp riêng từng người chủ chốt trước)** → **ringi (稟議書 — văn bản chuyền tay)** → **決裁 (kessai — sếp đóng dấu cuối)**. Ép khách "chốt ngay hôm nay" với khách Nhật = tự phá hỏng thương vụ của mình.
 >
 > 日本企業の意思決定は「根回し → 稟議 → 決裁」の3段階。会議当日に即決を求めるのは逆効果。BD は **稟議が回る期間 (通常 2-3 週間)** を見込んだ提案スケジュールを組む。
 >
-> **Liên quan:** rule 04 (intel khách), rule 13 (lắng nghe constraints), rule 17 (time-box).
+> **Liên quan:** rule 04 (thông tin nội bộ về khách), rule 13 (lắng nghe ràng buộc), rule 17 (giới hạn thời gian).
 
 ---
 
@@ -219,49 +235,59 @@ Trong meeting nội bộ ティエンファット, Tuấn lo lắng vì sau pitc
 
 *横から*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「ズン、もう10日経ってる。今日大垣さんに『今週中にイエスかノーか決めてください』ってメール送ろうよ。」 |
-| **ズン** | 「そうですね、待ってばかりだとうちが弱く見えるかも…」 |
-| **フオン** | 「**待って。それ送ったら deal 死ぬ**。10 日は稟議が回ってる normal な期間。『今週中に決めろ』は日本企業に対して **タブー**。逆に『稟議の進捗を伺ってもよろしいでしょうか』なら OK。」 |
+| **トゥアン** | 「ズン、もう10日<ruby>経<rt>た</rt></ruby>ってる。今日<ruby>大垣<rt>おおがき</rt></ruby>さんに『今週中にイエスかノーか<ruby>決<rt>き</rt></ruby>めてください』ってメール<ruby>送<rt>おく</rt></ruby>ろうよ。」 |
+|  | *Dũng, 10 ngày rồi. Hôm nay gửi mail anh Ōgaki bảo 'tuần này quyết yes hay no' đi.* |
+| **ズン** | 「そうですね、待ってばかりだとうちが<ruby>弱<rt>よわ</rt></ruby>く見えるかも…」 |
+|  | *Vâng, cứ chờ thì bên em nhìn yếu thế anh nhỉ...* |
+| **フオン** | 「**待って。それ送ったら deal 死ぬ**。10 日は<ruby>稟議<rt>りんぎ</rt></ruby>が<ruby>回<rt>まわ</rt></ruby>ってる normal な<ruby>期間<rt>きかん</rt></ruby>。『今週中に決めろ』は日本企業に対して **タブー**。逆に『稟議の<ruby>進捗<rt>しんちょく</rt></ruby>を<ruby>伺<rt>うかが</rt></ruby>ってもよろしいでしょうか』なら OK。」 |
+|  | *Khoan. Mail đó gửi đi là deal chết. 10 ngày là khoảng thời gian ringi bình thường. 'Tuần này quyết' với doanh nghiệp Nhật là điều cấm. Ngược lại 'cho phép em hỏi thăm tiến độ ringi' thì OK.* |
 | **トゥアン** | 「えっ、待つしかないんですか？」 |
-| **フオン** | 「待つんじゃなくて、**進捗を聞く** + **追加情報を渡して稟議書を強くする**手伝いをする。決めるのは相手の社内プロセス。」 |
+|  | *Ơ, vậy chỉ chờ thôi sao chị?* |
+| **フオン** | 「待つんじゃなくて、**進捗を聞く** + **<ruby>追加情報<rt>ついかじょうほう</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>して<ruby>稟議書<rt>りんぎしょ</rt></ruby>を強くする**<ruby>手伝<rt>てつだ</rt></ruby>いをする。決めるのは相手の<ruby>社内<rt>しゃない</rt></ruby>プロセス。」 |
+|  | *Không phải chờ — mà hỏi thăm tiến độ + đưa thêm thông tin để giúp ringi-sho mạnh lên. Người quyết là quy trình nội bộ phía họ.* |
 
-**Vì sao xấu:** "今週中に決めて" = đặt deadline vào quy trình nội bộ của khách → bất lịch sự + tự nhận yếu thế ("đang vội"). 10 ngày chỉ là middle of ringi cycle. Tuấn không hiểu mechanism → suýt giết deal.
+**Vì sao xấu:** "今週中に決めて" = đặt hạn chót vào quy trình nội bộ của khách → bất lịch sự + tự nhận yếu thế ("đang vội"). 10 ngày chỉ là giữa chu kỳ ringi. Tuấn không hiểu cơ chế → suýt giết thương vụ.
 
 ---
 
-## ✅ Hội thoại TỐT — hiểu ringi cycle, support nemawashi
+## ✅ Hội thoại TỐT — hiểu chu kỳ ringi, hỗ trợ nemawashi
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「ズン、10 日経つけど、もう少し待つ感じ？」 |
-| **ズン** | 「はい、稟議は通常 2-3 週間【1】。先週松本 PM から『社内で議論中』とメッセージあったので、今は **根回しフェーズ**【2】と推定します。」 |
-| **フオン** | 「いいね。今やるべきは『追加 ROI 資料』と『FAQ 集』を作って松本さんに渡す。彼が稟議書に添付できる材料を増やす【3】。」 |
-| **ズン** | 「了解です。明日松本さんに『稟議のご検討にあたり、何か追加情報必要でしたらお声がけください』とメールします。**催促ではなく support 姿勢**で。」 |
-| **フオン** | 「正解。決めるのは大垣さんでも松本さんでもなく、**社内合意の総和**。我々はそれを助ける。」 |
+| **トゥアン** | 「ズン、10 日経つけど、もう少し待つ<ruby>感<rt>かん</rt></ruby>じ？」 |
+|  | *Dũng, 10 ngày rồi, mình chờ thêm chút nữa hả?* |
+| **ズン** | 「はい、稟議は<ruby>通常<rt>つうじょう</rt></ruby> 2-3 週間【1】。先週<ruby>松本<rt>まつもと</rt></ruby> PM から『社内で<ruby>議論中<rt>ぎろんちゅう</rt></ruby>』とメッセージあったので、今は **<ruby>根回<rt>ねまわ</rt></ruby>しフェーズ**【2】と<ruby>推定<rt>すいてい</rt></ruby>します。」 |
+|  | *Vâng, ringi thường 2-3 tuần ạ. Tuần trước anh Matsumoto PM có nhắn 'đang thảo luận nội bộ' nên hiện đoán là đang ở phase nemawashi ạ.* |
+| **フオン** | 「いいね。今やるべきは『追加 ROI 資料』と『FAQ 集』を<ruby>作<rt>つく</rt></ruby>って松本さんに渡す。<ruby>彼<rt>かれ</rt></ruby>が稟議書に<ruby>添付<rt>てんぷ</rt></ruby>できる<ruby>材料<rt>ざいりょう</rt></ruby>を<ruby>増<rt>ふ</rt></ruby>やす【3】。」 |
+|  | *Tốt. Việc cần làm bây giờ là làm 'ROI bổ sung' và 'FAQ tổng hợp' đưa cho anh Matsumoto. Tăng material anh ấy có thể đính kèm ringi-sho.* |
+| **ズン** | 「<ruby>了解<rt>りょうかい</rt></ruby>です。明日松本さんに『稟議のご<ruby>検討<rt>けんとう</rt></ruby>にあたり、何か追加情報<ruby>必要<rt>ひつよう</rt></ruby>でしたらお<ruby>声<rt>こえ</rt></ruby>がけください』とメールします。**催促ではなく support 姿勢**で。」 |
+|  | *Em rõ ạ. Mai em mail anh Matsumoto 'xin liên hệ nếu cần bổ sung thông tin cho việc thảo luận ringi'. Tư thế support, không hối thúc ạ.* |
+| **フオン** | 「正解。決めるのは大垣さんでも松本さんでもなく、**社内<ruby>合意<rt>ごうい</rt></ruby>の<ruby>総和<rt>そうわ</rt></ruby>**。<ruby>我々<rt>われわれ</rt></ruby>はそれを<ruby>助<rt>たす</rt></ruby>ける。」 |
+|  | *Chuẩn. Người quyết không phải anh Ōgaki hay anh Matsumoto, mà là tổng đồng thuận nội bộ. Mình hỗ trợ chuyện đó.* |
 
 📝 **Ghi chú:**
-- 【1】**Ringi cycle 2-3 週間 normal** —契約金額が大きいほど長い (¥18M なら 3-4 週). 1 週で返ってきたら逆に「真剣に検討してない」サイン.
-- 【2】**根回し (nemawashi)** = đi gặp riêng từng key person trước khi văn bản chính thức (ringi-sho) chuyền tay. Đây là không chính thức nhưng quyết định chính.
-- 【3】**Hỗ trợ nemawashi** = đưa cho contact (Matsumoto) tài liệu/argument để họ nói với các nhân vật then chốt khác. KHÔNG phải gọi điện hối thúc.
+- 【1】**Chu kỳ ringi 2-3 tuần là bình thường** — hợp đồng càng lớn càng lâu (¥18M thì 3-4 tuần). Nếu trả lời trong 1 tuần thì ngược lại là dấu hiệu "không xét nghiêm túc".
+- 【2】**根回し (nemawashi)** = đi gặp riêng từng người chủ chốt trước khi văn bản chính thức (ringi-sho) chuyền tay. Đây là không chính thức nhưng quyết định chính.
+- 【3】**Hỗ trợ nemawashi** = đưa cho người liên hệ (Matsumoto) tài liệu/luận điểm để họ nói với các nhân vật then chốt khác. KHÔNG phải gọi điện hối thúc.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「稟議は2-3週、催促ではなく材料を渡して支援する。」**
+> **「<ruby>稟議<rt>りんぎ</rt></ruby>は2-3週、<ruby>催促<rt>さいそく</rt></ruby>ではなく<ruby>材料<rt>ざいりょう</rt></ruby>を渡して<ruby>支援<rt>しえん</rt></ruby>する。」**
 >
-> *Ringi 2-3 tuần, không hối thúc — đưa thêm material để support quy trình của khách.*
+> *Ringi 2-3 tuần, không hối thúc — đưa thêm tài liệu để hỗ trợ quy trình của khách.*
 
 ---
 
 ## ⚠ Tránh
 
-- "今週中に決めて" / "deadline 設定します" → tự kill deal
-- Gọi điện 連日 hỏi "どうですか？" → bị xem là 焦り
-- Bỏ contact (Matsumoto) ra khỏi loop, trực tiếp ping 大垣 → phá vỡ giao thức nội bộ khách
-- Đoán bừa "chắc bị reject rồi" sau 10 ngày → sai 90% trường hợp
+- "今週中に決めて" / "deadline 設定します" → tự giết thương vụ
+- Gọi điện 連日 hỏi "どうですか？" → bị xem là 焦り (sốt ruột)
+- Bỏ người liên hệ (Matsumoto) ra ngoài luồng, trực tiếp ping 大垣 → phá vỡ giao thức nội bộ khách
+- Đoán bừa "chắc bị từ chối rồi" sau 10 ngày → sai 90% trường hợp
 
 ---
 
@@ -280,7 +306,7 @@ Trong meeting nội bộ ティエンファット, Tuấn lo lắng vì sau pitc
 
 # Rule 04 — Thu thập intel khách / 顧客リサーチ
 
-> **Luận điểm.** Trước đàm phán phải biết: **(1) Decision-makers** (決裁ライン), **(2) Budget cycle** (年度予算 4-3月), **(3) Competitor presence** (đối thủ nào cũng pitch), **(4) Recent business news** (IR, M&A, layoffs). Thiếu 1 trong 4 = bước vào phòng mù 25%.
+> **Luận điểm.** Trước đàm phán phải biết: **(1) Decision-makers** (決裁ライン), **(2) Budget cycle** (年度予算 4-3月), **(3) Competitor presence** (đối thủ nào cũng pitch), **(4) Recent business news** (IR, M&A, sa thải). Thiếu 1 trong 4 = bước vào phòng mù 25%.
 >
 > 交渉前に4軸 (決裁者・予算サイクル・競合・直近業績) を必ず調査する。一つでも欠けると譲歩判断を誤る。
 >
@@ -296,31 +322,39 @@ Trong meeting nội bộ ティエンファット, Tuấn lo lắng vì sau pitc
 
 ## ❌ Hội thoại XẤU — "đã biết khách rồi"
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **フオン** | 「白鷗の今期 IR、見た？」 |
-| **ズン** | 「IR…まだです。Phase 2 は私が担当だったので白鷗のことは知ってます。」 |
-| **フオン** | 「Phase 2 担当 ≠ 今の白鷗を知ってる、じゃない。**先月 IR で営業利益 -12%、コスト圧縮中**って公表されてる。これ知らずに ¥18M 出すと『高い』って言われる準備不足。」 |
+| **フオン** | 「<ruby>白鷗<rt>はくおう</rt></ruby>の<ruby>今期<rt>こんき</rt></ruby> IR、見た？」 |
+|  | *IR kỳ này của Hakuō em đã xem chưa?* |
+| **ズン** | 「IR…まだです。Phase 2 は私が<ruby>担当<rt>たんとう</rt></ruby>だったので白鷗のことは知ってます。」 |
+|  | *IR... em chưa ạ. Phase 2 em phụ trách rồi nên biết Hakuō ạ.* |
+| **フオン** | 「Phase 2 担当 ≠ 今の白鷗を知ってる、じゃない。**先月 IR で<ruby>営業利益<rt>えいぎょうりえき</rt></ruby> -12%、<ruby>圧縮<rt>あっしゅく</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>**って<ruby>公表<rt>こうひょう</rt></ruby>されてる。これ知らずに ¥18M 出すと『高い』って言われる<ruby>準備<rt>じゅんび</rt></ruby><ruby>不足<rt>ぶそく</rt></ruby>。」 |
+|  | *Phụ trách Phase 2 ≠ biết Hakuō hiện tại. Tháng trước IR công bố lợi nhuận hoạt động -12%, đang nén chi phí. Không biết điều này mà ra ¥18M là sẽ bị 'đắt' — chuẩn bị thiếu.* |
 | **ズン** | 「あ、すみません…」 |
+|  | *À, em xin lỗi ạ...* |
 
-**Vì sao xấu:** "Đã biết khách 2 năm" = quá khứ. Khách là tổ chức sống, IR/M&A/layoff thay đổi context mỗi quý. Dũng không cập nhật → vào phòng với mental model lệch 6 tháng.
+**Vì sao xấu:** "Đã biết khách 2 năm" = quá khứ. Khách là tổ chức sống, IR/M&A/sa thải thay đổi bối cảnh mỗi quý. Dũng không cập nhật → vào phòng với hình dung lệch 6 tháng.
 
 ---
 
 ## ✅ Hội thoại TỐT — 4-axis intel sheet
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、白鷗の **4軸インテルシート**【1】を更新しました。」 |
-| **フオン** | 「読み上げて。」 |
-| **ズン** | 「(1) 決裁ライン: ¥10M 超は中村 CFO 決裁、それ以下は大垣部長権限【2】。今回 ¥18M なので CFO 通る。(2) 予算サイクル: 白鷗は 4月-3月、現在 4 月初旬で **新年度 IT 予算は通ったばかり**【3】、追加要求しやすい時期。(3) 競合: 大手 SIer Y 社がパラレルに pitch 中、見積 ¥22M との噂【4】。(4) 直近業績: 先月 IR で営業利益 -12%、コスト圧縮トーンが強い。」 |
-| **フオン** | 「いいね。これで戦略決まる。**Y 社 ¥22M との対比で『品質同等で安い』を強調**、CFO に響く ROI 数値を全面に。利益 -12% への配慮として『段階導入で初期投資抑制可能』も用意して。」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、白鷗の **4<ruby>軸<rt>じく</rt></ruby>インテルシート**【1】を<ruby>更新<rt>こうしん</rt></ruby>しました。」 |
+|  | *Chị Hương, em đã cập nhật intel sheet 4 trục của Hakuō ạ.* |
+| **フオン** | 「<ruby>読<rt>よ</rt></ruby>み上げて。」 |
+|  | *Em đọc lên đi.* |
+| **ズン** | 「(1) <ruby>決裁<rt>けっさい</rt></ruby>ライン: ¥10M <ruby>超<rt>ちょう</rt></ruby>は中村 CFO 決裁、それ以下は<ruby>大垣<rt>おおがき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby><ruby>権限<rt>けんげん</rt></ruby>【2】。今回 ¥18M なので CFO 通る。(2) <ruby>予算<rt>よさん</rt></ruby>サイクル: 白鷗は 4月-3月、<ruby>現在<rt>げんざい</rt></ruby> 4 月<ruby>初旬<rt>しょじゅん</rt></ruby>で **<ruby>新年度<rt>しんねんど</rt></ruby> IT 予算は通ったばかり**【3】、<ruby>追加<rt>ついか</rt></ruby><ruby>要求<rt>ようきゅう</rt></ruby>しやすい<ruby>時期<rt>じき</rt></ruby>。(3) <ruby>競合<rt>きょうごう</rt></ruby>: <ruby>大手<rt>おおて</rt></ruby> SIer Y 社がパラレルに pitch 中、<ruby>見積<rt>みつもり</rt></ruby> ¥22M との<ruby>噂<rt>うわさ</rt></ruby>【4】。(4) <ruby>直近業績<rt>ちょっきんぎょうせき</rt></ruby>: 先月 IR で営業利益 -12%、コスト圧縮トーンが強いです。」 |
+|  | *(1) Decision: trên ¥10M là CFO Nakamura duyệt, dưới là quyền GĐKD Ōgaki. Lần này ¥18M nên qua CFO. (2) Budget cycle: Hakuō 4-3, hiện đầu tháng 4 — ngân sách IT năm mới vừa thông, dễ propose. (3) Đối thủ: Y社 SIer lớn đang pitch song song, có tin đồn báo giá ¥22M. (4) Kết quả gần: IR tháng trước lợi nhuận hoạt động -12%, tone nén chi phí mạnh ạ.* |
+| **フオン** | 「いいね。これで<ruby>戦略<rt>せんりゃく</rt></ruby>決まる。**Y 社 ¥22M との<ruby>対比<rt>たいひ</rt></ruby>で『品質<ruby>同等<rt>どうとう</rt></ruby>で安い』を<ruby>強調<rt>きょうちょう</rt></ruby>**、CFO に<ruby>響<rt>ひび</rt></ruby>く ROI <ruby>数値<rt>すうち</rt></ruby>を<ruby>全面<rt>ぜんめん</rt></ruby>に。利益 -12% への<ruby>配慮<rt>はいりょ</rt></ruby>として『<ruby>段階導入<rt>だんかいどうにゅう</rt></ruby>で<ruby>初期投資<rt>しょきとうし</rt></ruby><ruby>抑制<rt>よくせい</rt></ruby><ruby>可能<rt>かのう</rt></ruby>』も<ruby>用意<rt>ようい</rt></ruby>して。」 |
+|  | *Tốt. Vậy là chiến lược chốt. Đối chiếu Y社 ¥22M để nhấn 'chất lượng ngang, rẻ hơn', số liệu ROI nhắm trúng CFO lên đầu. Cân nhắc lợi nhuận -12%, chuẩn bị thêm 'triển khai theo giai đoạn để giảm initial investment'.* |
 
 📝 **Ghi chú:**
 - 【1】**4 軸インテルシート** = (1) 決裁ライン、(2) 予算サイクル、(3) 競合、(4) 直近業績。各軸ソース付きで管理.
-- 【2】**決裁権限の閾値** — biết được giúp đoán scenario approval. ¥10M là threshold thường gặp ở mid-cap JP.
-- 【3】**Budget cycle JP**: thường 4月-3月. Q1 (4-6月) = budget mới, dễ propose; Q4 (1-3月) = closeout, hạn chế.
-- 【4】**Competitor intel cần source** — "tin đồn" cũng được nhưng phải ghi rõ là rumor + ai nói.
+- 【2】**決裁権限の閾値** — biết được giúp đoán kịch bản phê duyệt. ¥10M là ngưỡng thường gặp ở doanh nghiệp tầm trung JP.
+- 【3】**Chu kỳ ngân sách JP**: thường 4月-3月. Q1 (4-6月) = ngân sách mới, dễ đề xuất; Q4 (1-3月) = chốt sổ cuối năm, hạn chế.
+- 【4】**Intel đối thủ cần nguồn** — "tin đồn" cũng được nhưng phải ghi rõ là tin đồn + ai nói.
 
 ---
 
@@ -336,8 +370,8 @@ Trong meeting nội bộ ティエンファット, Tuấn lo lắng vì sau pitc
 
 - "Tôi đã làm với khách 2 năm rồi nên biết" → quá khứ ≠ hiện tại
 - Bỏ qua IR công khai (có thể tra cứu tự do) — đây là thông tin miễn phí
-- Không xác định decision-maker threshold (¥X trở lên thì ai duyệt)
-- Coi competitor intel là "nice to have" — thực ra là core của định giá
+- Không xác định ngưỡng phê duyệt của người quyết (¥X trở lên thì ai duyệt)
+- Coi intel đối thủ là "có thì tốt, không có cũng được" — thực ra là cốt lõi của việc định giá
 
 ---
 
@@ -356,7 +390,7 @@ Trong meeting nội bộ ティエンファット, Tuấn lo lắng vì sau pitc
 
 # Rule 05 — Định giá strategy / 価格戦略
 
-> **Luận điểm.** Có 3 cách đặt giá: **(1) Cost-plus** (原価+利益率) — an toàn nhưng rẻ phía mình, **(2) Value-based** (giá trị khách nhận về) — cao nhất nhưng cần chứng minh ROI, **(3) Anchoring** (đặt cao trước, để khách kéo xuống). Chọn sai mô hình → hoặc bỏ tiền trên bàn, hoặc bị walk-away.
+> **Luận điểm.** Có 3 cách đặt giá: **(1) Cost-plus** (原価+利益率) — an toàn nhưng rẻ phía mình, **(2) Value-based** (giá trị khách nhận về) — cao nhất nhưng cần chứng minh ROI, **(3) Anchoring** (đặt cao trước, để khách kéo xuống). Chọn sai mô hình → hoặc bỏ tiền trên bàn, hoặc bị khách rút lui.
 >
 > 価格戦略は3種から選ぶ: cost-plus / value-based / anchoring。商談相手と案件性質に合わせて使い分ける。Phase 3 のような戦略案件は **value-based + anchoring** が標準。
 >
@@ -372,37 +406,46 @@ Hà CTO + Hương + Dũng họp 30 phút quyết mô hình giá Phase 3. Tuấn 
 
 ## ❌ Hội thoại XẤU — chọn cost-plus thuần cho deal chiến lược
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「原価 ¥13M、利益率 25% 上乗せで ¥16.25M、切り上げ ¥16.5M で出します。」 |
-| **ハー CTO** | 「Phase 3 は新機能 AI レコメンドエンジン込み、白鷗の売上 +¥80M/年見込めるんでしょ？それを ¥16.5M で売る？」 |
-| **ズン** | 「えっと、原価ベースだとそれが妥当かと…」 |
-| **ハー CTO** | 「**Value-based で考えて**。¥80M インパクトの 20% = ¥16M 程度なら value 的にお買い得感もあるけど、¥18-22M でも妥当。cost-plus は商品案件用、戦略案件には適さない。」 |
+| **ズン** | 「<ruby>原価<rt>げんか</rt></ruby> ¥13M、<ruby>利益率<rt>りえきりつ</rt></ruby> 25% <ruby>上乗<rt>うわの</rt></ruby>せで ¥16.25M、<ruby>切<rt>き</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げ ¥16.5M で<ruby>出<rt>だ</rt></ruby>します。」 |
+|  | *Cost ¥13M, cộng margin 25% thành ¥16.25M, làm tròn ¥16.5M ạ.* |
+| **ハー CTO** | 「Phase 3 は<ruby>新機能<rt>しんきのう</rt></ruby> AI レコメンドエンジン<ruby>込<rt>こ</rt></ruby>み、<ruby>白鷗<rt>はくおう</rt></ruby>の<ruby>売上<rt>うりあげ</rt></ruby> +¥80M/<ruby>年<rt>ねん</rt></ruby><ruby>見込<rt>みこ</rt></ruby>めるんでしょ？それを ¥16.5M で<ruby>売<rt>う</rt></ruby>る？」 |
+|  | *Phase 3 có cả AI recommend engine, ước doanh thu Hakuō +¥80M/năm đúng không? Mà bán ¥16.5M?* |
+| **ズン** | 「えっと、<ruby>原価<rt>げんか</rt></ruby>ベースだとそれが<ruby>妥当<rt>だとう</rt></ruby>かと…」 |
+|  | *Dạ ờ, theo cost-base thì em thấy hợp lý ạ...* |
+| **ハー CTO** | 「**Value-based で<ruby>考<rt>かんが</rt></ruby>えて**。¥80M インパクトの 20% = ¥16M <ruby>程度<rt>ていど</rt></ruby>なら value <ruby>的<rt>てき</rt></ruby>にお<ruby>買<rt>か</rt></ruby>い<ruby>得<rt>どく</rt></ruby><ruby>感<rt>かん</rt></ruby>もあるけど、¥18-22M でも<ruby>妥当<rt>だとう</rt></ruby>。cost-plus は<ruby>商品案件<rt>しょうひんあんけん</rt></ruby><ruby>用<rt>よう</rt></ruby>、<ruby>戦略案件<rt>せんりゃくあんけん</rt></ruby>には<ruby>適<rt>てき</rt></ruby>さない。」 |
+|  | *Nghĩ theo value-based đi. Impact ¥80M × 20% ≒ ¥16M là khách thấy hời, nhưng ¥18-22M cũng vẫn hợp lý. Cost-plus dùng cho commodity, không hợp deal chiến lược.* |
 
-**Vì sao xấu:** Cost-plus chỉ phản ánh chi phí mình, KHÔNG phản ánh giá trị khách nhận. Phase 3 có AI engine = strategic, value cao → đáng giá ¥18-22M chứ không phải ¥16.5M. Bỏ ¥2-5M tiền trên bàn.
+**Vì sao xấu:** Cost-plus chỉ phản ánh chi phí mình, KHÔNG phản ánh giá trị khách nhận. Phase 3 có AI engine = mang tính chiến lược, value cao → đáng giá ¥18-22M chứ không phải ¥16.5M. Bỏ ¥2-5M tiền trên bàn.
 
 ---
 
 ## ✅ Hội thoại TỐT — value-based + anchoring kết hợp
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「Phase 3 価格戦略案、3 つ比較しました【1】。」 |
-| **ズン** | 「Cost-plus: ¥16.5M。Value-based: 白鷗売上 +¥80M インパクト × 20% = ¥16M、+リスクシェア込みで ¥19M。Anchoring 起点 ¥22M (Y 社水準)、譲歩で ¥18M 着地想定。**推奨は value-based ¥19M を anchor、target ¥18M、reservation ¥15M**【2】。」 |
-| **ハー CTO** | 「ROI 説明はできる？」 |
-| **ズン** | 「はい。AI レコメンド導入で transaction 単価 +12%、white paper でモデルケース 3 社あります。CFO 中村さんへの ROI シート【3】も作成済みです。」 |
-| **フオン** | 「いいね。¥19M を堂々と出して、value で押す。¥18M に着地しても粗利率 26%、許容範囲。」 |
+| **ズン** | 「Phase 3 <ruby>価格戦略案<rt>かかくせんりゃくあん</rt></ruby>、3 つ<ruby>比較<rt>ひかく</rt></ruby>しました【1】。」 |
+|  | *Em đã so sánh 3 phương án giá Phase 3 ạ.* |
+| **ズン** | 「Cost-plus: ¥16.5M。Value-based: <ruby>白鷗<rt>はくおう</rt></ruby><ruby>売上<rt>うりあげ</rt></ruby> +¥80M インパクト × 20% = ¥16M、+リスクシェア<ruby>込<rt>こ</rt></ruby>みで ¥19M。Anchoring <ruby>起点<rt>きてん</rt></ruby> ¥22M (Y <ruby>社水準<rt>しゃすいじゅん</rt></ruby>)、<ruby>譲歩<rt>じょうほ</rt></ruby>で ¥18M <ruby>着地想定<rt>ちゃくちそうてい</rt></ruby>。**<ruby>推奨<rt>すいしょう</rt></ruby>は value-based ¥19M を anchor、target ¥18M、reservation ¥15M**【2】。」 |
+|  | *Cost-plus: ¥16.5M. Value-based: impact +¥80M × 20% = ¥16M, cộng risk-share thành ¥19M. Anchoring khởi ¥22M (mức Y社), nhượng bộ về ¥18M. Đề xuất: anchor ¥19M value-based, target ¥18M, reservation ¥15M ạ.* |
+| **ハー CTO** | 「ROI <ruby>説明<rt>せつめい</rt></ruby>はできる？」 |
+|  | *Em giải thích được ROI không?* |
+| **ズン** | 「はい。AI レコメンド<ruby>導入<rt>どうにゅう</rt></ruby>で transaction <ruby>単価<rt>たんか</rt></ruby> +12%、white paper でモデルケース 3 <ruby>社<rt>しゃ</rt></ruby>あります。CFO <ruby>中村<rt>なかむら</rt></ruby>さんへの ROI シート【3】も<ruby>作成済<rt>さくせいず</rt></ruby>みです。」 |
+|  | *Vâng ạ. Triển khai AI recommend giúp transaction unit price +12%, có 3 model case trong white paper. ROI sheet cho CFO Nakamura em cũng đã làm xong ạ.* |
+| **フオン** | 「いいね。¥19M を<ruby>堂々<rt>どうどう</rt></ruby>と<ruby>出<rt>だ</rt></ruby>して、value で<ruby>押<rt>お</rt></ruby>す。¥18M に<ruby>着地<rt>ちゃくち</rt></ruby>しても<ruby>粗利率<rt>あらりりつ</rt></ruby> 26%、<ruby>許容範囲<rt>きょようはんい</rt></ruby>。」 |
+|  | *Tốt. Em ra ¥19M một cách thẳng thắn, đẩy bằng value. Có chốt ¥18M thì gross margin 26%, vẫn nằm trong khoảng chấp nhận.* |
 
 📝 **Ghi chú:**
-- 【1】**3 mô hình so sánh**: 必ず benchmark cả 3, không jump straight vào 1 cái.
-- 【2】**Anchor > Target > Reservation** = 3 con số riêng biệt. Anchor = số mở miệng (cao), Target = số mong đạt, Reservation = walk-away.
-- 【3】**ROI シート** cho CFO = key conversion tool khi value-based. Không có ROI → value-based về bản chất là "anh tin tôi đi" → khó approve.
+- 【1】**3 mô hình so sánh**: bắt buộc đối chiếu cả 3, không nhảy thẳng vào 1 cái.
+- 【2】**Anchor > Target > Reservation** = 3 con số riêng biệt. Anchor = số mở miệng (cao), Target = số mong đạt, Reservation = mức rút lui.
+- 【3】**ROI シート** cho CFO = công cụ then chốt để chốt khi dùng value-based. Không có ROI → value-based về bản chất là "anh tin tôi đi" → khó được duyệt.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「Cost-plusは商品向け、戦略案件はvalue-based+anchoring。3モデル比較してから選ぶ。」**
+> **「Cost-plusは<ruby>商品向<rt>しょうひんむ</rt></ruby>け、<ruby>戦略案件<rt>せんりゃくあんけん</rt></ruby>はvalue-based+anchoring。3モデル<ruby>比較<rt>ひかく</rt></ruby>してから<ruby>選<rt>えら</rt></ruby>ぶ。」**
 >
 > *Cost-plus cho hàng phổ thông, deal chiến lược dùng value-based + anchoring. So 3 mô hình rồi chọn.*
 
@@ -411,8 +454,8 @@ Hà CTO + Hương + Dũng họp 30 phút quyết mô hình giá Phase 3. Tuấn 
 ## ⚠ Tránh
 
 - Mặc định cost-plus cho mọi deal → bỏ tiền trên bàn ở deal chiến lược
-- Anchor giá trên trời mà không có dữ liệu ROI dự phòng → khách walk
-- Quên validate粗利率 sàn (vd: 20%) khi tính reservation
+- Anchor giá trên trời mà không có dữ liệu ROI dự phòng → khách rút lui
+- Quên kiểm tra 粗利率 (gross margin) sàn (vd: 20%) khi tính reservation
 - Không có tài liệu kỹ thuật / tình huống thực tế → value-based khó thuyết phục CFO Nhật
 
 ---
@@ -433,7 +476,7 @@ Hà CTO + Hương + Dũng họp 30 phút quyết mô hình giá Phase 3. Tuấn 
 
 # Rule 06 — 3-tier proposal: Good / Better / Best / 3段階提案
 
-> **Luận điểm.** Đưa **1 giá duy nhất** = khách bị bắt yes/no. Đưa **3 tier (Good / Better / Best)** = khách compare nội bộ → kiến trúc lựa chọn (choice architecture) nghiêng về Better (hiệu ứng mồi / decoy effect). 95% khách Nhật sẽ chọn middle tier nếu cấu trúc đúng.
+> **Luận điểm.** Đưa **1 giá duy nhất** = khách bị bắt yes/no. Đưa **3 tier (Good / Better / Best)** = khách so sánh nội bộ → kiến trúc lựa chọn (choice architecture) nghiêng về Better (hiệu ứng mồi / decoy effect). 95% khách Nhật sẽ chọn tier giữa nếu cấu trúc đúng.
 >
 > 1価格提示は yes/no を迫る。3段階提案 (Good/Better/Best) は社内比較を促し、**中間案 (Better) が選ばれる確率を高める**。Phase 3 のような戦略案件は必ず 3 段階で出す。
 >
@@ -449,38 +492,48 @@ Họp với Hà CTO + Hương + Tuấn xong, Dũng cần soạn proposal deck. H
 
 ## ❌ Hội thoại XẤU — 1 tier duy nhất
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、提案 deck draft、価格 ¥18M で1 案にまとめました。」 |
-| **フオン** | 「1 案だけ？大垣さんは社内で比較できないし、yes か no しかなくなる。**no が出たら戻れない**。3 段階で作り直して。」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、提案 deck draft、<ruby>価格<rt>かかく</rt></ruby> ¥18M で1 案にまとめました。」 |
+|  | *Chị Hương, draft deck đề xuất em làm 1 phương án ¥18M ạ.* |
+| **フオン** | 「1 案だけ？<ruby>大垣<rt>おおがき</rt></ruby>さんは<ruby>社内<rt>しゃない</rt></ruby>で<ruby>比較<rt>ひかく</rt></ruby>できないし、yes か no しかなくなる。**no が出たら戻れない**。3 <ruby>段階<rt>だんかい</rt></ruby>で作り直して。」 |
+|  | *Chỉ 1 phương án? Anh Ōgaki không có gì so nội bộ, chỉ còn yes/no. No là không quay lại được. Làm lại 3-tier đi.* |
 | **ズン** | 「3 段階だと安い方を選ばれませんか？」 |
-| **フオン** | 「**逆。中間案を一番魅力的に設計**すれば、Better が選ばれる。Good は機能削減で『これじゃ意味ない』感、Best は scope 拡張で『高すぎる』感を出す。これ choice architecture。」 |
+|  | *3 tier thì khách chọn cái rẻ thì sao chị?* |
+| **フオン** | 「**逆。<ruby>中間案<rt>ちゅうかんあん</rt></ruby>を一番<ruby>魅力的<rt>みりょくてき</rt></ruby>に設計**すれば、Better が選ばれる。Good は<ruby>機能削減<rt>きのうさくげん</rt></ruby>で『これじゃ意味ない』感、Best は scope <ruby>拡張<rt>かくちょう</rt></ruby>で『高すぎる』感を出す。これ choice architecture。」 |
+|  | *Ngược lại. Thiết kế tier giữa hấp dẫn nhất là khách chọn Better. Good cắt feature kiểu 'cái này không đáng', Best mở rộng scope kiểu 'đắt quá'. Đó là choice architecture.* |
 
-**Vì sao xấu:** 1 tier = forced binary. Khách không có chỗ "thoả hiệp lịch sự" trong nội bộ ringi → reject probability tăng. Mất cơ hội định khung Better làm "perceived best value".
+**Vì sao xấu:** 1 tier = ép chọn yes/no. Khách không có chỗ "thoả hiệp lịch sự" trong nội bộ ringi → xác suất bị từ chối tăng. Mất cơ hội định khung Better thành "phương án giá trị tốt nhất trong mắt khách".
 
 ---
 
 ## ✅ Hội thoại TỐT — 3-tier deck với Better làm trung tâm
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「3 段階提案を作成しました。Good ¥14M / Better ¥18M / Best ¥24M。**Better を recommended 表示**【1】、Good は AI engine なし basic 版、Best は専任 SRE 含む full 版です。」 |
-| **フオン** | 「Good の機能削減は？」 |
-| **ズン** | 「Good は AI レコメンドなし、SLA 99.5% (Better は 99.9%)、サポート営業時間のみ【2】。白鷗の Phase 3 目的『売上 +¥80M』には実質届かない設計。」 |
+| **ズン** | 「3 <ruby>段階提案<rt>だんかいていあん</rt></ruby>を作成しました。Good ¥14M / Better ¥18M / Best ¥24M。**Better を recommended 表示**【1】、Good は AI engine なし basic 版、Best は<ruby>専任<rt>せんにん</rt></ruby> SRE 含む full 版です。」 |
+|  | *Em đã tạo 3-tier ạ. Good ¥14M / Better ¥18M / Best ¥24M. Better đánh dấu 'recommended', Good là bản basic không AI engine, Best là full kèm SRE chuyên trách ạ.* |
+| **フオン** | 「Good の<ruby>機能削減<rt>きのうさくげん</rt></ruby>は？」 |
+|  | *Phần cắt chức năng của Good là gì?* |
+| **ズン** | 「Good は AI レコメンドなし、SLA 99.5% (Better は 99.9%)、サポート<ruby>営業時間<rt>えいぎょうじかん</rt></ruby>のみ【2】。<ruby>白鷗<rt>はくおう</rt></ruby>の Phase 3 目的『<ruby>売上<rt>うりあげ</rt></ruby> +¥80M』には<ruby>実質<rt>じっしつ</rt></ruby>届かない設計。」 |
+|  | *Good không có AI recommend, SLA 99.5% (Better 99.9%), support chỉ trong giờ hành chính. Thiết kế thực chất không đạt mục tiêu Phase 3 'doanh thu +¥80M' của Hakuō ạ.* |
 | **フオン** | 「Best は？」 |
-| **ズン** | 「Best は専任 SRE 1 名常駐、SLA 99.99%、24/7 サポート、優先機能開発【3】。CFO 中村さんの『コスト圧縮』トーンに照らすと『出しすぎ』感を出す設計です。」 |
-| **フオン** | 「完璧。**Better が『現実解』に見える構造**。明日のキックオフで使おう。」 |
+|  | *Còn Best?* |
+| **ズン** | 「Best は<ruby>専任<rt>せんにん</rt></ruby> SRE 1 名<ruby>常駐<rt>じょうちゅう</rt></ruby>、SLA 99.99%、24/7 サポート、<ruby>優先機能開発<rt>ゆうせんきのうかいはつ</rt></ruby>【3】。CFO <ruby>中村<rt>なかむら</rt></ruby>さんの『コスト<ruby>圧縮<rt>あっしゅく</rt></ruby>』トーンに照らすと『出しすぎ』感を出す設計です。」 |
+|  | *Best có 1 SRE chuyên trách túc trực, SLA 99.99%, support 24/7, ưu tiên dev feature. Đối chiếu tone 'nén chi phí' của CFO Nakamura, thiết kế để cảm 'chi quá tay' ạ.* |
+| **フオン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。**Better が『<ruby>現実解<rt>げんじつかい</rt></ruby>』に見える<ruby>構造<rt>こうぞう</rt></ruby>**。明日のキックオフで使おう。」 |
+|  | *Hoàn hảo. Cấu trúc khiến Better hiện ra như 'phương án thực tế'. Mai kickoff dùng cái này.* |
 
 📝 **Ghi chú:**
-- 【1】**Recommended 表示** — chữ "おすすめ"/"推奨" trên ô Better, nghiên cứu trải nghiệm người dùng cho thấy +35% conversion.
-- 【2】**Good intentional weakness** — KHÔNG phải Good là "rẻ và OK", phải là "rẻ nhưng thiếu cái khách cần" → khách tự loại.
-- 【3】**Best intentional excess** — overspec để Better thành "vừa phải". Best vẫn phải là deal nếu khách chọn (không phải lựa chọn giả / fake option).
+- 【1】**Dấu "Recommended"** — chữ "おすすめ"/"推奨" trên ô Better, nghiên cứu trải nghiệm người dùng cho thấy tỷ lệ chốt tăng +35%.
+- 【2】**Good cố ý làm yếu** — KHÔNG phải Good là "rẻ và ổn", phải là "rẻ nhưng thiếu cái khách cần" → khách tự loại.
+- 【3】**Best cố ý làm dư** — vượt mức cần thiết để Better thành "vừa phải". Best vẫn phải là thương vụ thật nếu khách chọn (không phải lựa chọn giả / phương án bẫy).
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「Good/Better/Best の3段階で、中間案を最も魅力的に設計する。」**
+> **「Good/Better/Best の3<ruby>段階<rt>だんかい</rt></ruby>で、<ruby>中間案<rt>ちゅうかんあん</rt></ruby>を最も<ruby>魅力的<rt>みりょくてき</rt></ruby>に<ruby>設計<rt>せっけい</rt></ruby>する。」**
 >
 > *3 tier Good/Better/Best, design Better đẹp nhất.*
 
@@ -488,10 +541,10 @@ Họp với Hà CTO + Hương + Tuấn xong, Dũng cần soạn proposal deck. H
 
 ## ⚠ Tránh
 
-- 3 tier mà tier giữa không hấp dẫn → khách chọn Good (giá thấp, lose money)
+- 3 tier mà tier giữa không hấp dẫn → khách chọn Good (giá thấp, lỗ vốn)
 - Best phi thực tế đến mức khách cười → mất uy tín
-- Quên mark "Recommended" / "おすすめ" trên Better → mất 30%+ effect
-- Đặt giá gap đều (vd: ¥14M / ¥18M / ¥22M cách đều ¥4M) → không tận dụng decoy. Gap không đều giúp Better nổi bật hơn.
+- Quên đánh dấu "Recommended" / "おすすめ" trên Better → mất hơn 30% hiệu quả
+- Đặt khoảng cách giá đều (vd: ¥14M / ¥18M / ¥22M cách đều ¥4M) → không tận dụng được hiệu ứng mồi. Khoảng cách không đều giúp Better nổi bật hơn.
 
 ---
 
@@ -516,7 +569,7 @@ Họp với Hà CTO + Hương + Tuấn xong, Dũng cần soạn proposal deck. H
 
 # Rule 07 — Pre-meeting alignment nội bộ / 事前社内すり合わせ
 
-> **Luận điểm.** Trước khi đối diện khách, **internal team phải align 100%**: ai nói gì, ai im khi nào, walk-away được approve, concession ladder thống nhất. Khách Nhật phát hiện disagreement nội bộ trong 5 phút → đòn bẩy để chia rẽ.
+> **Luận điểm.** Trước khi đối diện khách, **đội nội bộ phải thống nhất 100%**: ai nói gì, ai im khi nào, walk-away được duyệt, chuỗi bậc nhượng bộ thống nhất. Khách Nhật phát hiện mâu thuẫn nội bộ trong 5 phút → đòn bẩy để chia rẽ.
 >
 > 商談前の社内すり合わせは『誰が何を言う・誰がいつ黙る・撤退ライン承認・譲歩順序』を全員一致させる作業。社内の不一致を相手に見られたら leverage 取られる。
 >
@@ -532,41 +585,53 @@ Sáng đàm phán Phase 3 lúc 9:00, đàm phán 14:00 với 大垣 + 中村 CFO
 
 ## ❌ Hội thoại XẤU — không align trước, mâu thuẫn trong phòng
 
-| | Speaker | Câu (in-meeting với khách) |
+| | Vai | Câu (đàm phán cùng khách) |
 |--|---------|-----|
-| **L1** | **大垣** | 「¥18M は高いですね。¥15M でいかがでしょう？」 |
-| **L2** | **ズン** | 「¥15M ですか…ちょっと持ち帰り…」 |
-| **L3** | **トゥアン** *(口を挟む)* | 「¥16M なら出せますよ、scope 削れば。」 |
-| **L4** | **大垣** *(微笑)* | 「あ、トゥアンさんは ¥16M でいけるんですね。じゃあそれでお願いします。」 |
-| **L5** | **ズン** *(顔色変)* | 「いえ、ちょっと…社内確認を…」 |
+| **L1** | **大垣** | 「¥18M は<ruby>高<rt>たか</rt></ruby>いですね。¥15M でいかがでしょう？」 |
+|  |  | *¥18M cao quá. ¥15M thì sao nhỉ?* |
+| **L2** | **ズン** | 「¥15M ですか…ちょっと<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り…」 |
+|  |  | *¥15M ạ... em xin phép mang về xem xét...* |
+| **L3** | **トゥアン** *(口を挟む)* | 「¥16M なら<ruby>出<rt>だ</rt></ruby>せますよ、scope <ruby>削<rt>けず</rt></ruby>れば。」 |
+|  |  | *¥16M là được đó, cắt scope đi.* |
+| **L4** | **大垣** *(微笑)* | 「あ、トゥアンさんは ¥16M でいけるんですね。じゃあそれでお<ruby>願<rt>ねが</rt></ruby>いします。」 |
+|  |  | *À, anh Tuấn nói ¥16M được. Vậy chốt như vậy nhé.* |
+| **L5** | **ズン** *(顔色変)* | 「いえ、ちょっと…<ruby>社内<rt>しゃない</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>を…」 |
+|  |  | *Dạ không, em xin phép... xác nhận nội bộ...* |
 
-**Vì sao xấu:** Tuấn không biết walk-away ¥15M, không biết concession ladder. Tự ý quote ¥16M trong phòng → 大垣 chốt ngay. Dũng mất control. Phải align trước: **Tuấn KHÔNG được quote giá**, chỉ Dũng quote, Tuấn trả lời phần kỹ thuật.
+**Vì sao xấu:** Tuấn không biết walk-away ¥15M, không biết chuỗi bậc nhượng bộ. Tự ý báo giá ¥16M trong phòng → 大垣 chốt ngay. Dũng mất kiểm soát. Phải thống nhất trước: **Tuấn KHÔNG được báo giá**, chỉ Dũng báo giá, Tuấn trả lời phần kỹ thuật.
 
 ---
 
 ## ✅ Hội thoại TỐT — pre-meeting alignment 60 phút
 
-| | Speaker | Câu (in-meeting nội bộ 9:00) |
+| | Vai | Câu (họp nội bộ 9:00) |
 |--|---------|-----|
-| **L1** | **フオン** | 「14:00 商談、最終すり合わせ。**役割確認**【1】: ズン主導 + 価格発言担当、トゥアンさん技術質問のみ、ハー CTO は escalation 必要時のみ発言。」 |
-| **L2** | **ハー CTO** | 「価格発言は誰がしてもいけない。ズン以外は『社内確認させてください』で受ける。」 |
-| **L3** | **ズン** | 「了解です。**譲歩順序**【2】も再確認:【ステップ1】¥19M anchor → 反応見る、【ステップ2】¥18M target、【ステップ3】¥17M with scope -10%、【ステップ4】¥16M with scope -20% + extra trade、**¥15M 以下は持ち帰り、その場で yes 言わない**。」 |
-| **L4** | **フオン** | 「¥15M 以下出てきたら、ハー CTO に振る。『弊社 CTO に確認させてください』で時間取る【3】。」 |
-| **L5** | **トゥアン** | 「私は技術以外、絶対黙ります。」 |
-| **L6** | **ズン** | 「最後、**沈黙の合図**【4】: 私が右手を膝に置いたら全員黙って 7 秒待つ。OK?」 |
+| **L1** | **フオン** | 「14:00 <ruby>商談<rt>しょうだん</rt></ruby>、<ruby>最終<rt>さいしゅう</rt></ruby>すり<ruby>合<rt>あ</rt></ruby>わせ。**<ruby>役割確認<rt>やくわりかくにん</rt></ruby>**【1】: ズン<ruby>主導<rt>しゅどう</rt></ruby> + <ruby>価格発言担当<rt>かかくはつげんたんとう</rt></ruby>、トゥアンさん<ruby>技術質問<rt>ぎじゅつしつもん</rt></ruby>のみ、ハー CTO は escalation <ruby>必要時<rt>ひつようじ</rt></ruby>のみ<ruby>発言<rt>はつげん</rt></ruby>。」 |
+|  |  | *Đàm phán 14:00, align cuối. Vai trò: Dũng dẫn + phụ trách phát ngôn về giá, anh Tuấn chỉ trả lời phần kỹ thuật, anh Hà CTO chỉ phát biểu khi cần escalation.* |
+| **L2** | **ハー CTO** | 「<ruby>価格発言<rt>かかくはつげん</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>がしてもいけない。ズン<ruby>以外<rt>いがい</rt></ruby>は『<ruby>社内確認<rt>しゃないかくにん</rt></ruby>させてください』で<ruby>受<rt>う</rt></ruby>ける。」 |
+|  |  | *Trừ Dũng, không ai được phát ngôn về giá. Mọi người khác chỉ nói 'cho phép em xác nhận nội bộ'.* |
+| **L3** | **ズン** | 「<ruby>了解<rt>りょうかい</rt></ruby>です。**<ruby>譲歩順序<rt>じょうほじゅんじょ</rt></ruby>**【2】も<ruby>再確認<rt>さいかくにん</rt></ruby>:【ステップ1】¥19M anchor → <ruby>反応見<rt>はんのうみ</rt></ruby>る、【ステップ2】¥18M target、【ステップ3】¥17M with scope -10%、【ステップ4】¥16M with scope -20% + extra trade、**¥15M <ruby>以下<rt>いか</rt></ruby>は<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り、その<ruby>場<rt>ば</rt></ruby>で yes <ruby>言<rt>い</rt></ruby>わない**。」 |
+|  |  | *Em rõ. Em confirm lại thứ tự nhượng bộ: B1 anchor ¥19M, B2 target ¥18M, B3 ¥17M kèm scope -10%, B4 ¥16M kèm scope -20% + trade thêm, dưới ¥15M là mang về xem xét, không nói yes tại chỗ.* |
+| **L4** | **フオン** | 「¥15M <ruby>以下出<rt>いかで</rt></ruby>てきたら、ハー CTO に<ruby>振<rt>ふ</rt></ruby>る。『<ruby>弊社<rt>へいしゃ</rt></ruby> CTO に<ruby>確認<rt>かくにん</rt></ruby>させてください』で<ruby>時間取<rt>じかんと</rt></ruby>る【3】。」 |
+|  |  | *Nếu khách đẩy dưới ¥15M, đẩy sang anh Hà CTO. Dùng câu 'cho phép em xác nhận với CTO bên em' để mua thời gian.* |
+| **L5** | **トゥアン** | 「<ruby>私<rt>わたし</rt></ruby>は<ruby>技術以外<rt>ぎじゅついがい</rt></ruby>、<ruby>絶対黙<rt>ぜったいだま</rt></ruby>ります。」 |
+|  |  | *Ngoài phần kỹ thuật, em im hoàn toàn.* |
+| **L6** | **ズン** | 「<ruby>最後<rt>さいご</rt></ruby>、**<ruby>沈黙<rt>ちんもく</rt></ruby>の<ruby>合図<rt>あいず</rt></ruby>**【4】: <ruby>私<rt>わたし</rt></ruby>が<ruby>右手<rt>みぎて</rt></ruby>を<ruby>膝<rt>ひざ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いたら<ruby>全員黙<rt>ぜんいんだま</rt></ruby>って 7 <ruby>秒待<rt>びょうま</rt></ruby>つ。OK?」 |
+|  |  | *Cuối cùng, signal im lặng: em đặt tay phải lên đùi là mọi người im 7 giây. OK?* |
 | **L7** | **全員** | 「OK。」 |
+|  |  | *OK.* |
 
 📝 **Ghi chú:**
-- 【1】**役割確認** = ai nói gì + ai im khi nào. Tránh "everyone can speak" — đó là disaster.
-- 【2】**譲歩順序** = ladder cụ thể, mỗi nấc có condition + trade. KHÔNG phải "giảm dần".
-- 【3】**Escalation phrase** "弊社 CTO に確認させてください" — câu trống dùng để mua thời gian, đã agree trước.
-- 【4】**Sinh hiệu im lặng** = signal vật lý (tay/bút) để team biết "lúc này im, đừng cứu vớt". Cực quan trọng.
+- 【1】**役割確認** = ai nói gì + ai im khi nào. Tránh kiểu "ai cũng được nói" — đó là thảm họa.
+- 【2】**譲歩順序** = chuỗi bậc cụ thể, mỗi nấc có điều kiện + trade. KHÔNG phải "giảm dần".
+- 【3】**Câu escalation** "弊社 CTO に確認させてください" — câu trống dùng để mua thời gian, đã thống nhất trước.
+- 【4】**Tín hiệu im lặng** = tín hiệu vật lý (tay/bút) để cả đội biết "lúc này im, đừng cứu vớt". Cực quan trọng.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「役割・譲歩順・撤退ライン・沈黙合図、4点を社内で100%一致させてから入室。」**
+> **「<ruby>役割<rt>やくわり</rt></ruby>・<ruby>譲歩順<rt>じょうほじゅん</rt></ruby>・<ruby>撤退<rt>てったい</rt></ruby>ライン・<ruby>沈黙合図<rt>ちんもくあいず</rt></ruby>、4<ruby>点<rt>てん</rt></ruby>を<ruby>社内<rt>しゃない</rt></ruby>で100%<ruby>一致<rt>いっち</rt></ruby>させてから<ruby>入室<rt>にゅうしつ</rt></ruby>。」**
 >
 > *Vai trò / thứ tự nhượng bộ / walk-away / signal im lặng — 4 điểm align 100% trước khi vào phòng.*
 
@@ -574,10 +639,10 @@ Sáng đàm phán Phase 3 lúc 9:00, đàm phán 14:00 với 大垣 + 中村 CFO
 
 ## ⚠ Tránh
 
-- "Ứng biến trong phòng cũng được" → 大垣 sharp đọc được trong 3 phút
-- Tuấn (technical) quote giá → mất control vĩnh viễn
-- Quên thống nhất escalation phrase → khách hỏi khó, mỗi người trả lời khác
-- Không có physical signal → trong phòng không thể "ssh" miệng nhau
+- "Ứng biến trong phòng cũng được" → 大垣 nhạy bén đọc được trong 3 phút
+- Tuấn (phụ trách kỹ thuật) báo giá → mất kiểm soát vĩnh viễn
+- Quên thống nhất câu escalation → khách hỏi khó, mỗi người trả lời khác
+- Không có tín hiệu vật lý → trong phòng không thể "suỵt" miệng nhau
 
 ---
 
@@ -585,18 +650,18 @@ Sáng đàm phán Phase 3 lúc 9:00, đàm phán 14:00 với 大垣 + 中村 CFO
 
 | 漢字 / Tiếng Nhật | よみ | Nghĩa |
 |------|------|-------|
-| すり合わせ | すりあわせ | Align / pre-meeting alignment |
+| すり合わせ | すりあわせ | Thống nhất / họp align trước đàm phán |
 | 役割確認 | やくわりかくにん | Xác nhận vai trò |
 | 譲歩順序 | じょうほじゅんじょ | Thứ tự nhượng bộ |
-| 撤退ライン | てったいライン | Walk-away line |
-| エスカレーション | esukarēshon | Escalation |
-| 沈黙の合図 | ちんもくのあいず | Signal im lặng |
-| 一致させる | いっちさせる | Đồng nhất |
+| 撤退ライン | てったいライン | Mức rút lui (walk-away) |
+| エスカレーション | esukarēshon | Trình lên cấp trên (escalation) |
+| 沈黙の合図 | ちんもくのあいず | Tín hiệu im lặng |
+| 一致させる | いっちさせる | Làm cho đồng nhất |
 
 
 # Rule 08 — Walk-away point / 撤退ライン
 
-> **Luận điểm.** **Walk-away** = list cứng các điều kiện "nếu vi phạm, bỏ deal". Khác BATNA (alternative): walk-away là **ranking đỏ tuyệt đối** (giá / scope / IP / SLA / payment terms). Phải được CTO + Hương ký xác nhận trước khi đàm phán.
+> **Luận điểm.** **Walk-away** = danh sách cứng các điều kiện "nếu vi phạm, bỏ thương vụ". Khác BATNA (phương án thay thế): walk-away là **lằn ranh đỏ tuyệt đối** (giá / phạm vi / IP / SLA / điều kiện thanh toán). Phải được CTO + Hương ký xác nhận trước khi đàm phán.
 >
 > 撤退ラインは「これを破られたら deal 不可」の絶対条件リスト。価格だけでなく scope・IP・SLA・支払条件 も含む。CTO+Hương の事前承認が必須。
 >
@@ -606,44 +671,54 @@ Sáng đàm phán Phase 3 lúc 9:00, đàm phán 14:00 với 大垣 + 中村 CFO
 
 ## Bối cảnh / 場面
 
-Sáng đàm phán Phase 3, sau alignment meeting. Hà CTO yêu cầu Dũng đọc lại walk-away list để confirm. Dũng chỉ nhớ giá, quên 3 điều kiện khác.
+Sáng đàm phán Phase 3, sau buổi họp thống nhất nội bộ. Hà CTO yêu cầu Dũng đọc lại walk-away list để xác nhận. Dũng chỉ nhớ giá, quên 3 điều kiện khác.
 
 ---
 
 ## ❌ Hội thoại XẤU — walk-away chỉ có giá
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ハー CTO** | 「ズン、撤退ライン全部読み上げて。」 |
-| **ズン** | 「¥15M 以下です。」 |
-| **ハー CTO** | 「それだけ？IP は？SLA は？支払 net 30 か net 60 か？大垣さんが『価格 ¥18M でも、IP は白鷗側 100%』と言い出したらどうする？」 |
-| **ズン** | 「えっ、それは…考えてなかったです。」 |
-| **ハー CTO** | 「**価格は撤退ラインの 1 軸でしかない**。今すぐ 5 軸書き出せ。書けないなら今日は出ない。」 |
+| **ハー CTO** | 「ズン、<ruby>撤退<rt>てったい</rt></ruby>ライン<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>読<rt>よ</rt></ruby>み<ruby>上<rt>あ</rt></ruby>げて。」 |
+|  | *Dũng, đọc hết walk-away list ra.* |
+| **ズン** | 「¥15M <ruby>以下<rt>いか</rt></ruby>です。」 |
+|  | *Dưới ¥15M ạ.* |
+| **ハー CTO** | 「それだけ？IP は？SLA は？<ruby>支払<rt>しはらい</rt></ruby> net 30 か net 60 か？<ruby>大垣<rt>おおがき</rt></ruby>さんが『<ruby>価格<rt>かかく</rt></ruby> ¥18M でも、IP は<ruby>白鷗<rt>はくおう</rt></ruby><ruby>側<rt>がわ</rt></ruby> 100%』と<ruby>言<rt>い</rt></ruby>い<ruby>出<rt>だ</rt></ruby>したらどうする？」 |
+|  | *Chỉ vậy thôi? IP? SLA? Payment net 30 hay net 60? Anh Ōgaki bảo 'giá ¥18M cũng được, nhưng IP 100% về Hakuō' thì em làm sao?* |
+| **ズン** | 「えっ、それは…<ruby>考<rt>かんが</rt></ruby>えてなかったです。」 |
+|  | *Ơ, cái đó... em chưa nghĩ tới ạ.* |
+| **ハー CTO** | 「**<ruby>価格<rt>かかく</rt></ruby>は<ruby>撤退<rt>てったい</rt></ruby>ラインの 1 <ruby>軸<rt>じく</rt></ruby>でしかない**。<ruby>今<rt>いま</rt></ruby>すぐ 5 軸<ruby>書<rt>か</rt></ruby>き<ruby>出<rt>だ</rt></ruby>せ。<ruby>書<rt>か</rt></ruby>けないなら<ruby>今日<rt>きょう</rt></ruby>は<ruby>出<rt>で</rt></ruby>ない。」 |
+|  | *Giá chỉ là 1 trong các trục walk-away. Viết ngay 5 trục. Không viết được thì hôm nay không đi.* |
 
-**Vì sao xấu:** Walk-away thường nghĩ chỉ là giá. Nhưng IP / SLA / payment / liability cap có thể destroy deal nhiều hơn giá. 大垣 sharp sẽ test walk-away ở 1 trong 5 trục, Dũng không có ranking đỏ → conceded sai chỗ.
+**Vì sao xấu:** Walk-away thường bị nghĩ chỉ là giá. Nhưng IP / SLA / payment / liability cap có thể phá vỡ thương vụ nhiều hơn cả giá. 大垣 sắc sảo sẽ thử walk-away ở 1 trong 5 trục, Dũng không có lằn ranh đỏ → nhượng bộ sai chỗ.
 
 ---
 
 ## ✅ Hội thoại TỐT — walk-away 5 軸 với approval
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ハー CTO** | 「ズン、撤退ライン全部読み上げて。」 |
-| **ズン** | 「**5 軸読み上げます**【1】。(1) **価格**: ¥15M 未満は撤退。(2) **IP**: ベース技術の所有権は弊社、white-label OK だが core IP 譲渡は撤退条件。(3) **SLA**: 99.5% 以下は受けない、その下は罰則賠償リスクが粗利を超える。(4) **支払**: net 60 まで OK、net 90 以上は撤退。(5) **責任上限**: 契約金額の 100% 超えは撤退【2】。」 |
-| **ハー CTO** | 「IP の white-label と core IP の境界は？」 |
-| **ズン** | 「白鷗向けカスタマイズ部分は white-label OK。AI レコメンドエンジン本体・モデルパラメータは core IP として留保【3】。これフオン副部長 + ハー CTO 両者承認済みです (Slack 昨日)。」 |
-| **ハー CTO** | 「OK、5 軸どれか破られたら『弊社 CTO に確認させてください』で持ち帰り。その場で yes は絶対言わない。」 |
+| **ハー CTO** | 「ズン、<ruby>撤退<rt>てったい</rt></ruby>ライン<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>読<rt>よ</rt></ruby>み<ruby>上<rt>あ</rt></ruby>げて。」 |
+|  | *Dũng, đọc hết walk-away list ra.* |
+| **ズン** | 「**5 <ruby>軸<rt>じく</rt></ruby><ruby>読<rt>よ</rt></ruby>み<ruby>上<rt>あ</rt></ruby>げます**【1】。(1) **<ruby>価格<rt>かかく</rt></ruby>**: ¥15M <ruby>未満<rt>みまん</rt></ruby>は<ruby>撤退<rt>てったい</rt></ruby>。(2) **IP**: ベース<ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>所有権<rt>しょゆうけん</rt></ruby>は<ruby>弊社<rt>へいしゃ</rt></ruby>、white-label OK だが core IP <ruby>譲渡<rt>じょうと</rt></ruby>は<ruby>撤退<rt>てったい</rt></ruby><ruby>条件<rt>じょうけん</rt></ruby>。(3) **SLA**: 99.5% <ruby>以下<rt>いか</rt></ruby>は<ruby>受<rt>う</rt></ruby>けない、その<ruby>下<rt>した</rt></ruby>は<ruby>罰則<rt>ばっそく</rt></ruby><ruby>賠償<rt>ばいしょう</rt></ruby>リスクが<ruby>粗利<rt>あらり</rt></ruby>を<ruby>超<rt>こ</rt></ruby>える。(4) **<ruby>支払<rt>しはらい</rt></ruby>**: net 60 まで OK、net 90 <ruby>以上<rt>いじょう</rt></ruby>は<ruby>撤退<rt>てったい</rt></ruby>。(5) **<ruby>責任<rt>せきにん</rt></ruby><ruby>上限<rt>じょうげん</rt></ruby>**: <ruby>契約<rt>けいやく</rt></ruby><ruby>金額<rt>きんがく</rt></ruby>の 100% <ruby>超<rt>こ</rt></ruby>えは<ruby>撤退<rt>てったい</rt></ruby>【2】。」 |
+|  | *Em đọc 5 trục ạ. (1) Giá: dưới ¥15M là rút. (2) IP: quyền sở hữu công nghệ nền là bên em, white-label OK nhưng nhượng core IP là walk-away. (3) SLA: dưới 99.5% không nhận, dưới ngưỡng đó risk penalty vượt margin. (4) Payment: tới net 60 OK, từ net 90 trở lên là rút. (5) Liability cap: vượt 100% giá hợp đồng là rút.* |
+| **ハー CTO** | 「IP の white-label と core IP の<ruby>境界<rt>きょうかい</rt></ruby>は？」 |
+|  | *Ranh giới white-label và core IP của em đâu?* |
+| **ズン** | 「<ruby>白鷗<rt>はくおう</rt></ruby><ruby>向<rt>む</rt></ruby>けカスタマイズ<ruby>部分<rt>ぶぶん</rt></ruby>は white-label OK。AI レコメンドエンジン<ruby>本体<rt>ほんたい</rt></ruby>・モデルパラメータは core IP として<ruby>留保<rt>りゅうほ</rt></ruby>【3】。これフオン<ruby>副部長<rt>ふくぶちょう</rt></ruby> + ハー CTO <ruby>両者<rt>りょうしゃ</rt></ruby><ruby>承認<rt>しょうにん</rt></ruby><ruby>済<rt>ず</rt></ruby>みです (Slack <ruby>昨日<rt>きのう</rt></ruby>)。」 |
+|  | *Phần customize cho Hakuō white-label OK. Bản thể AI recommend engine + model parameter giữ lại làm core IP. Cả chị Hương + anh Hà CTO đã duyệt trên Slack hôm qua ạ.* |
+| **ハー CTO** | 「OK、5 軸どれか<ruby>破<rt>やぶ</rt></ruby>られたら『<ruby>弊社<rt>へいしゃ</rt></ruby> CTO に<ruby>確認<rt>かくにん</rt></ruby>させてください』で<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り。その<ruby>場<rt>ば</rt></ruby>で yes は<ruby>絶対<rt>ぜったい</rt></ruby><ruby>言<rt>い</rt></ruby>わない。」 |
+|  | *OK, vi phạm 1 trong 5 trục là dùng câu 'cho phép em xác nhận với CTO bên em' để mang về. Tuyệt đối không nói yes tại chỗ.* |
 
 📝 **Ghi chú:**
 - 【1】**5 軸 walk-away** — 価格 / IP / SLA / 支払 / 責任上限. Một số vụ thêm: 競業避止、再委託禁止 etc.
-- 【2】**責任上限 (liability cap)** — thường = 契約金額の 100%. Khách JP đôi khi đòi unlimited → walk-away ngay.
-- 【3】**Core IP vs white-label** — định nghĩa rõ ranh giới. AI engine bản thể vs lớp tùy chỉnh.
+- 【2】**責任上限 (liability cap)** — thường = 契約金額の 100%. Khách JP đôi khi đòi vô hạn (unlimited) → walk-away ngay.
+- 【3】**Core IP vs white-label** — định nghĩa rõ ranh giới. AI engine bản thể vs lớp tùy chỉnh (customization layer).
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「撤退ラインは価格1軸ではなく5軸 (価格・IP・SLA・支払・責任) で持つ。CTO 承認必須。」**
+> **「<ruby>撤退<rt>てったい</rt></ruby>ラインは<ruby>価格<rt>かかく</rt></ruby>1<ruby>軸<rt>じく</rt></ruby>ではなく5軸 (<ruby>価格<rt>かかく</rt></ruby>・IP・SLA・<ruby>支払<rt>しはらい</rt></ruby>・<ruby>責任<rt>せきにん</rt></ruby>) で<ruby>持<rt>も</rt></ruby>つ。CTO <ruby>承認<rt>しょうにん</rt></ruby><ruby>必須<rt>ひっす</rt></ruby>。」**
 >
 > *Walk-away không chỉ là giá — 5 trục: giá / IP / SLA / payment / liability. CTO bắt buộc duyệt.*
 
@@ -651,10 +726,10 @@ Sáng đàm phán Phase 3, sau alignment meeting. Hà CTO yêu cầu Dũng đọ
 
 ## ⚠ Tránh
 
-- Walk-away chỉ có giá → bị bypass qua IP / SLA
-- Walk-away không có evidence approval → tới giờ G CTO không backup
-- Đàm phán ad-hoc thêm walk-away mới trong phòng → mất uy tín
-- Cho khách thấy walk-away list ("đây là red lines của em") → là tactical mistake, walk-away là internal info
+- Walk-away chỉ có giá → bị lách qua IP / SLA
+- Walk-away không có bằng chứng đã duyệt → tới giờ G CTO không bảo chứng
+- Tùy hứng thêm walk-away mới ngay trong phòng họp → mất uy tín
+- Cho khách thấy walk-away list ("đây là lằn ranh đỏ của em") → là sai lầm chiến thuật, walk-away là thông tin nội bộ
 
 ---
 
@@ -690,26 +765,35 @@ Tối hôm trước đàm phán, Hương review concession plan cuối của Dũ
 
 ## ❌ Hội thoại XẤU — concession ladder không có trade
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、譲歩計画です: ¥19M → ¥18M → ¥17M → ¥16M。」 |
-| **フオン** | 「**それ譲歩じゃなくてただの値引きカウント**。何と引き換え？大垣さんに『1M ずつ下げてくれた』と取られたら、最終 ¥15M まで押される。」 |
-| **ズン** | 「うーん、引き換え条件はまだ…」 |
-| **フオン** | 「**1譲歩 = 1 trade、これ法則**。¥18M → ¥17M なら『scope -10% AND 契約3年化』とかセット。引き換えなしの譲歩は『弱さの暴露』だけ。」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、<ruby>譲歩計画<rt>じょうほけいかく</rt></ruby>です: ¥19M → ¥18M → ¥17M → ¥16M。」 |
+|  | *Chị Hương, concession plan ạ: ¥19M → ¥18M → ¥17M → ¥16M.* |
+| **フオン** | 「**それ<ruby>譲歩<rt>じょうほ</rt></ruby>じゃなくてただの<ruby>値引<rt>ねび</rt></ruby>きカウント**。<ruby>何<rt>なに</rt></ruby>と<ruby>引<rt>ひ</rt></ruby>き<ruby>換<rt>か</rt></ruby>え？<ruby>大垣<rt>おおがき</rt></ruby>さんに『1M ずつ<ruby>下<rt>さ</rt></ruby>げてくれた』と<ruby>取<rt>と</rt></ruby>られたら、<ruby>最終<rt>さいしゅう</rt></ruby> ¥15M まで<ruby>押<rt>お</rt></ruby>される。」 |
+|  | *Cái đó không phải nhượng bộ — chỉ là đếm số lần giảm giá. Đổi cái gì? Anh Ōgaki đọc kiểu '¥1M mỗi lần là chịu giảm' thì sẽ ép tới ¥15M.* |
+| **ズン** | 「うーん、<ruby>引<rt>ひ</rt></ruby>き<ruby>換<rt>か</rt></ruby>え<ruby>条件<rt>じょうけん</rt></ruby>はまだ…」 |
+|  | *Ừm, điều kiện đổi em chưa...* |
+| **フオン** | 「**1<ruby>譲歩<rt>じょうほ</rt></ruby> = 1 trade、これ<ruby>法則<rt>ほうそく</rt></ruby>**。¥18M → ¥17M なら『scope -10% AND <ruby>契約<rt>けいやく</rt></ruby>3<ruby>年化<rt>ねんか</rt></ruby>』とかセット。<ruby>引<rt>ひ</rt></ruby>き<ruby>換<rt>か</rt></ruby>えなしの<ruby>譲歩<rt>じょうほ</rt></ruby>は『<ruby>弱<rt>よわ</rt></ruby>さの<ruby>暴露<rt>ばくろ</rt></ruby>』だけ。」 |
+|  | *1 nhượng bộ = 1 trade, đó là quy luật. ¥18M → ¥17M phải kèm 'scope -10% AND hợp đồng 3 năm'. Nhượng bộ không trade chỉ phơi bày yếu thế.* |
 
-**Vì sao xấu:** Plain ladder ¥19→18→17→16 không có condition → khách thấy "anh dễ nhượng" → push tiếp. Mỗi nấc cần 1 trade ngược (scope, term, payment, etc).
+**Vì sao xấu:** Ladder thuần ¥19→18→17→16 không có điều kiện → khách thấy "anh dễ nhượng" → ép tiếp. Mỗi nấc cần 1 trade ngược (scope, term, payment, v.v.).
 
 ---
 
 ## ✅ Hội thoại TỐT — concession ladder với trade từng nấc
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「譲歩計画 v2 です。**5 ladder、各段に trade**【1】。」 |
-| **ズン** | 「Step 0: ¥19M anchor (no concession)。Step 1: ¥18M target、trade なし (target 着地は譲歩ゼロ扱い)。Step 2: ¥17.5M ⇄ **契約期間 2 年化** (LTV +35%)【2】。Step 3: ¥17M ⇄ scope -10% (AI dashboard 2nd phase 後出し)。Step 4: ¥16M ⇄ scope -20% + payment net 30 化 + 事例公開許可。Step 5: ¥15M ⇄ scope -30% + 上記すべて + 早期支払割 (これ最終)。**¥15M 以下 = 撤退**。」 |
-| **フオン** | 「Step 2 の 2 年化、白鷗が断ったら？」 |
-| **ズン** | 「断られたら ¥17.5M も引っ込めて Step 1 に戻ります【3】。**譲歩は trade とセット、trade 拒否は譲歩取り下げ**。」 |
-| **フオン** | 「完璧。これ trade-back 原則。事例公開許可は marketing 側の価値あるから入れていい。」 |
+| **ズン** | 「<ruby>譲歩計画<rt>じょうほけいかく</rt></ruby> v2 です。**5 ladder、<ruby>各段<rt>かくだん</rt></ruby>に trade**【1】。」 |
+|  | *Concession plan v2 ạ. 5 ladder, mỗi nấc có trade.* |
+| **ズン** | 「Step 0: ¥19M anchor (no concession)。Step 1: ¥18M target、trade なし (target <ruby>着地<rt>ちゃくち</rt></ruby>は<ruby>譲歩<rt>じょうほ</rt></ruby>ゼロ<ruby>扱<rt>あつか</rt></ruby>い)。Step 2: ¥17.5M ⇄ **<ruby>契約期間<rt>けいやくきかん</rt></ruby> 2 <ruby>年化<rt>ねんか</rt></ruby>** (LTV +35%)【2】。Step 3: ¥17M ⇄ scope -10% (AI dashboard 2nd phase <ruby>後出<rt>あとだ</rt></ruby>し)。Step 4: ¥16M ⇄ scope -20% + payment net 30 <ruby>化<rt>か</rt></ruby> + <ruby>事例公開許可<rt>じれいこうかいきょか</rt></ruby>。Step 5: ¥15M ⇄ scope -30% + <ruby>上記<rt>じょうき</rt></ruby>すべて + <ruby>早期支払割<rt>そうきしはらいわり</rt></ruby> (これ<ruby>最終<rt>さいしゅう</rt></ruby>)。**¥15M <ruby>以下<rt>いか</rt></ruby> = <ruby>撤退<rt>てったい</rt></ruby>**。」 |
+|  | *Step 0: ¥19M anchor (chưa nhượng). Step 1: ¥18M target, không trade (chốt ở target = không tính nhượng). Step 2: ¥17.5M ⇄ kéo hợp đồng 2 năm (LTV +35%). Step 3: ¥17M ⇄ scope -10% (AI dashboard đẩy sang Phase 2 sau). Step 4: ¥16M ⇄ scope -20% + payment net 30 + cho phép công bố case. Step 5: ¥15M ⇄ scope -30% + tất cả trên + chiết khấu thanh toán sớm (đây là cuối). Dưới ¥15M = walk-away ạ.* |
+| **フオン** | 「Step 2 の 2 <ruby>年化<rt>ねんか</rt></ruby>、<ruby>白鷗<rt>はくおう</rt></ruby>が<ruby>断<rt>ことわ</rt></ruby>ったら？」 |
+|  | *Bước 2 kéo 2 năm, Hakuō từ chối thì sao?* |
+| **ズン** | 「<ruby>断<rt>ことわ</rt></ruby>られたら ¥17.5M も<ruby>引<rt>ひ</rt></ruby>っ<ruby>込<rt>こ</rt></ruby>めて Step 1 に<ruby>戻<rt>もど</rt></ruby>ります【3】。**<ruby>譲歩<rt>じょうほ</rt></ruby>は trade とセット、trade <ruby>拒否<rt>きょひ</rt></ruby>は<ruby>譲歩取<rt>じょうほと</rt></ruby>り<ruby>下<rt>さ</rt></ruby>げ**。」 |
+|  | *Bị từ chối thì em rút ¥17.5M, quay về Step 1 ạ. Nhượng bộ luôn đi cùng trade — trade bị từ chối là rút nhượng bộ.* |
+| **フオン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。これ trade-back <ruby>原則<rt>げんそく</rt></ruby>。<ruby>事例公開許可<rt>じれいこうかいきょか</rt></ruby>は marketing <ruby>側<rt>がわ</rt></ruby>の<ruby>価値<rt>かち</rt></ruby>あるから<ruby>入<rt>い</rt></ruby>れていい。」 |
+|  | *Hoàn hảo. Đó là nguyên tắc trade-back. Quyền công bố case có giá trị marketing nên đưa vào được.* |
 
 📝 **Ghi chú:**
 - 【1】**5 ladder + trade per step** — 譲歩の各段に必ず引き換え条件を1つ以上.
@@ -720,7 +804,7 @@ Tối hôm trước đàm phán, Hương review concession plan cuối của Dũ
 
 ## 🎯 Câu chốt
 
-> **「譲歩はladder化、各段にtrade、trade拒否されたら譲歩も取り下げる。」**
+> **「<ruby>譲歩<rt>じょうほ</rt></ruby>はladder<ruby>化<rt>か</rt></ruby>、<ruby>各段<rt>かくだん</rt></ruby>にtrade、trade<ruby>拒否<rt>きょひ</rt></ruby>されたら<ruby>譲歩<rt>じょうほ</rt></ruby>も<ruby>取<rt>と</rt></ruby>り<ruby>下<rt>さ</rt></ruby>げる。」**
 >
 > *Nhượng bộ theo bậc thang, mỗi nấc có điều kiện đổi, điều kiện bị từ chối thì rút lại nhượng bộ.*
 
@@ -728,10 +812,10 @@ Tối hôm trước đàm phán, Hương review concession plan cuối của Dũ
 
 ## ⚠ Tránh
 
-- Nhượng giá thuần "1M ずつ" → tự kill margin
-- Trade quên cho mỗi step → khách lấy không
+- Nhượng giá thuần "1M ずつ" → tự bào mòn biên lợi nhuận
+- Quên trade cho mỗi nấc → khách lấy không
 - Quên nguyên tắc đánh đổi ngược → bị bóc trade riêng, giữ lại nhượng bộ
-- Concession quá nhanh (¥19→¥17 trong 5 phút) → khách đoán còn dư địa lớn → push tới ¥14M
+- Nhượng quá nhanh (¥19→¥17 trong 5 phút) → khách đoán còn dư địa lớn → ép tới ¥14M
 
 ---
 
@@ -756,11 +840,11 @@ Tối hôm trước đàm phán, Hương review concession plan cuối của Dũ
 
 # Rule 10 — Câu mở chào lịch sự / 商談冒頭
 
-> **Luận điểm.** 30 giây đầu của đàm phán = anchor cho cả buổi. Câu mở phải có 4 phần: **(1) Cảm ơn thời gian**, **(2) Tự giới thiệu lại nếu có đa người**, **(3) Ghi nhận tình hình khách**, **(4) Nói rõ mục tiêu hôm nay ngắn gọn**. Đi thẳng vào bargain = mất giọng điệu trang trọng.
+> **Luận điểm.** 30 giây đầu của đàm phán = neo định sắc thái cho cả buổi. Câu mở phải có 4 phần: **(1) Cảm ơn thời gian**, **(2) Tự giới thiệu lại nếu có nhiều người**, **(3) Ghi nhận tình hình khách**, **(4) Nói rõ mục tiêu hôm nay ngắn gọn**. Đi thẳng vào mặc cả giá = mất giọng điệu trang trọng.
 >
 > 商談冒頭の30秒は全体のtoneを決める。4要素必須: お礼・再自己紹介・相手状況への言及・本日の意図。直で値段の話に入るのは粗野。
 >
-> **Liên quan:** rule 11 (context setting), sách 03 rule 09 (第一声), sách 05 rule 06 (deck opening).
+> **Liên quan:** rule 11 (thiết lập bối cảnh), sách 03 rule 09 (第一声), sách 05 rule 06 (mở đầu slide trình bày).
 
 ---
 
@@ -774,30 +858,37 @@ Tối hôm trước đàm phán, Hương review concession plan cuối của Dũ
 
 *座って即 · 微妙な顔 · 隣で書類を整理しながら*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「えー、本日 Phase 3 の見積 ¥19M でお持ちしました。早速ですがご検討お願いします。」 |
-| **大垣** | 「あ…はい。早速ですね。」 |
+| **ズン** | 「えー、本日 Phase 3 の<ruby>見積<rt>みつもり</rt></ruby> ¥19M でお<ruby>持<rt>も</rt></ruby>ちしました。<ruby>早速<rt>さっそく</rt></ruby>ですがご<ruby>検討<rt>けんとう</rt></ruby>お<ruby>願<rt>ねが</rt></ruby>いします。」 |
+|  | *Ờ, hôm nay em mang báo giá Phase 3 ¥19M ạ. Xin phép vào luôn để quý cty xem xét ạ.* |
+| **大垣** | 「あ…はい。<ruby>早速<rt>さっそく</rt></ruby>ですね。」 |
+|  | *À... vâng. Vào nhanh nhỉ.* |
 | **中村CFO** | 「…」 |
+|  | *(im lặng, sắp xếp tài liệu)* |
 
-**Vì sao xấu:** 0 phút đã ra giá → 失礼. Khách Nhật cảm "lạnh", không có tone professional. 中村 CFO senior bị "skip" trong câu chào → mất 顔. Cả buổi tone sẽ bị set là "transactional only".
+**Vì sao xấu:** 0 phút đã ra giá → 失礼. Khách Nhật cảm "lạnh", không có giọng điệu chuyên nghiệp. 中村 CFO senior bị bỏ qua trong câu chào → mất 顔. Cả buổi sắc thái sẽ bị định khung thành "chỉ giao dịch mua bán".
 
 ---
 
 ## ✅ Hội thoại TỐT — 30s opening 4 yếu tố
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「**本日はお忙しい中、お時間いただきまして誠にありがとうございます**【1】。改めまして、ティエンファットの BD 担当ズンと申します。隣のチーム技術リーダー、トゥアンと参りました【2】。」 |
-| **ズン** | 「**先日の IR でも拝見しましたが、新年度に向けて DX 推進を加速されるとのこと**【3】、私どもも Phase 2 でご協力させていただいた立場として大変心強く存じます。」 |
-| **ズン** | 「**本日は Phase 3 のご提案として、3 段階の選択肢をお持ちしました**【4】。御社のご要望に沿うか、ぜひ忌憚ないご意見をいただければと存じます。」 |
-| **大垣** | 「ご丁寧にありがとうございます。では拝見しましょう。」 |
+| **ズン** | 「**本日はお<ruby>忙<rt>いそが</rt></ruby>しい<ruby>中<rt>なか</rt></ruby>、お<ruby>時間<rt>じかん</rt></ruby>いただきまして<ruby>誠<rt>まこと</rt></ruby>にありがとうございます**【1】。<ruby>改<rt>あらた</rt></ruby>めまして、ティエンファットの BD <ruby>担当<rt>たんとう</rt></ruby>ズンと<ruby>申<rt>もう</rt></ruby>します。<ruby>隣<rt>となり</rt></ruby>のチーム<ruby>技術<rt>ぎじゅつ</rt></ruby>リーダー、トゥアンと<ruby>参<rt>まい</rt></ruby>りました【2】。」 |
+|  | *Hôm nay quý anh dành thời gian trong lúc bận rộn, em xin chân thành cảm ơn ạ. Một lần nữa, em là Dũng, BD bên ティエンファット. Cùng đi với em là anh Tuấn — Tech lead ạ.* |
+| **ズン** | 「**<ruby>先日<rt>せんじつ</rt></ruby>の IR でも<ruby>拝見<rt>はいけん</rt></ruby>しましたが、<ruby>新年度<rt>しんねんど</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて DX <ruby>推進<rt>すいしん</rt></ruby>を<ruby>加速<rt>かそく</rt></ruby>されるとのこと**【3】、<ruby>私<rt>わたくし</rt></ruby>どもも Phase 2 でご<ruby>協力<rt>きょうりょく</rt></ruby>させていただいた<ruby>立場<rt>たちば</rt></ruby>として<ruby>大変<rt>たいへん</rt></ruby><ruby>心強<rt>こころづよ</rt></ruby>く<ruby>存<rt>ぞん</rt></ruby>じます。」 |
+|  | *Em có xem IR vừa rồi, được biết quý cty đang đẩy mạnh DX hướng tới năm tài chính mới. Là bên đã đồng hành Phase 2, chúng em thấy rất phấn khởi ạ.* |
+| **ズン** | 「**本日は Phase 3 のご<ruby>提案<rt>ていあん</rt></ruby>として、3 <ruby>段階<rt>だんかい</rt></ruby>の<ruby>選択肢<rt>せんたくし</rt></ruby>をお<ruby>持<rt>も</rt></ruby>ちしました**【4】。<ruby>御社<rt>おんしゃ</rt></ruby>のご<ruby>要望<rt>ようぼう</rt></ruby>に<ruby>沿<rt>そ</rt></ruby>うか、ぜひ<ruby>忌憚<rt>きたん</rt></ruby>ないご<ruby>意見<rt>いけん</rt></ruby>をいただければと<ruby>存<rt>ぞん</rt></ruby>じます。」 |
+|  | *Hôm nay em mang theo 3 phương án đề xuất Phase 3 ạ. Liệu có đáp ứng được nhu cầu quý cty hay không, mong quý anh cho ý kiến thẳng thắn giúp ạ.* |
+| **大垣** | 「ご<ruby>丁寧<rt>ていねい</rt></ruby>にありがとうございます。では<ruby>拝見<rt>はいけん</rt></ruby>しましょう。」 |
+|  | *Cảm ơn em đã chu đáo. Vậy chúng tôi xin xem nhé.* |
 
 📝 **Ghi chú:**
 - 【1】**お礼が最初** — 「お忙しい中」必ず付ける。CFO クラスにはこの一言で「あなたの時間を尊重」を伝える.
 - 【2】**再自己紹介 + チームメンバー紹介** — 名刺交換しているが、口頭でも明示. 特に CFO 同席時.
-- 【3】**相手状況への言及 (IR / 業績 / 季節)** — 顧客リサーチ (rule 04) の成果をここで使う. "anh/chị nhớ đến tình hình bên em" tone Nhật quan trọng.
-- 【4】**Mục tiêu hôm nay gói trong 1 câu**: "3 段階の選択肢" — KHÔNG quote giá ngay, để discovery đi trước.
+- 【3】**相手状況への言及 (IR / 業績 / 季節)** — 顧客リサーチ (rule 04) の成果をここで使う. "anh/chị nhớ đến tình hình bên em" — sắc thái này rất quan trọng trong văn hóa Nhật.
+- 【4】**Mục tiêu hôm nay gói trong 1 câu**: "3 段階の選択肢" — KHÔNG báo giá ngay, để bước khai thác nhu cầu đi trước.
 
 ---
 
@@ -805,7 +896,7 @@ Tối hôm trước đàm phán, Hương review concession plan cuối của Dũ
 
 > **「商談冒頭30秒は4要素 (お礼・再紹介・相手状況・本日意図)。値段は冒頭に出さない。」**
 >
-> *30s mở đàm phán cần 4 yếu tố: cảm ơn / tự giới thiệu lại / ghi nhận tình hình khách / mục tiêu hôm nay. KHÔNG quote giá ngay đầu.*
+> *30s mở đàm phán cần 4 yếu tố: cảm ơn / tự giới thiệu lại / ghi nhận tình hình khách / mục tiêu hôm nay. KHÔNG báo giá ngay đầu.*
 
 ---
 
@@ -814,7 +905,7 @@ Tối hôm trước đàm phán, Hương review concession plan cuối của Dũ
 - "早速ですが値段は" → 失礼
 - Bỏ qua CFO trong câu chào (chỉ nhìn 大垣) → mất 顔 senior
 - "お忙しい中" thiếu → tone hời hợt
-- Acknowledge khách bằng câu chung chung "御社は素晴らしい会社" → mất specificity, không show prep
+- Ghi nhận khách bằng câu chung chung "御社は素晴らしい会社" → mất tính cụ thể, không cho thấy đã chuẩn bị kỹ
 
 ---
 
@@ -834,7 +925,7 @@ Tối hôm trước đàm phán, Hương review concession plan cuối của Dũ
 
 # Rule 11 — Set context + agenda / コンテキスト設定
 
-> **Luận điểm.** Sau câu mở chào (rule 10), set **shared context** trong 60-90s: (1) recap 2-3 điểm key từ meeting trước, (2) confirm nothing changed/something changed phía khách, (3) đề xuất agenda hôm nay. Bỏ qua → khách CFO senior bị "lost", bầu không khí xuống.
+> **Luận điểm.** Sau câu mở chào (rule 10), thiết lập **bối cảnh chung** trong 60-90s: (1) điểm lại 2-3 ý then chốt từ buổi họp trước, (2) xác nhận phía khách có gì thay đổi hay không, (3) đề xuất agenda hôm nay. Bỏ qua → khách CFO cấp cao bị lạc mạch, bầu không khí đi xuống.
 >
 > 冒頭挨拶後、60-90秒で共通コンテキストを設定する: 前回ハイライト recap → 状況確認 → 本日 agenda 提示。CFO 同席など senior 入りでは特に重要。
 >
@@ -844,7 +935,7 @@ Tối hôm trước đàm phán, Hương review concession plan cuối của Dũ
 
 ## Bối cảnh / 場面
 
-Sau câu mở (rule 10), Dũng vào phần thứ 2 — set context. 中村 CFO mới join lần này (Phase 2 không có), Dũng cần bridge.
+Sau câu mở (rule 10), Dũng vào phần thứ 2 — thiết lập bối cảnh. 中村 CFO mới tham gia lần này (Phase 2 không có), Dũng cần bắc cầu.
 
 ---
 
@@ -852,37 +943,45 @@ Sau câu mở (rule 10), Dũng vào phần thứ 2 — set context. 中村 CFO m
 
 *横から · CFOに説明し始める*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「では早速、Phase 3 のご要件についてお伺いします。最も重要視されているポイントは何でしょうか？」 |
-| **中村CFO** | 「あ…えっと、Phase 3 って、Phase 2 はどこまで進んだんですか？」 |
-| **大垣** | 「中村さん、Phase 2 は昨年12月に完了して、次は…」 |
+| **ズン** | 「では早速、Phase 3 のご<ruby>要件<rt>ようけん</rt></ruby>についてお<ruby>伺<rt>うかが</rt></ruby>いします。<ruby>最<rt>もっと</rt></ruby>も<ruby>重要視<rt>じゅうようし</rt></ruby>されているポイントは<ruby>何<rt>なん</rt></ruby>でしょうか？」 |
+|  | *Vậy em xin phép vào luôn — về yêu cầu Phase 3, mục quý anh xem trọng nhất là gì ạ?* |
+| **中村CFO** | 「あ…えっと、Phase 3 って、Phase 2 はどこまで<ruby>進<rt>すす</rt></ruby>んだんですか？」 |
+|  | *À... ờ, Phase 3 ấy à — Phase 2 đã đến đâu rồi nhỉ?* |
+| **大垣** | 「<ruby>中村<rt>なかむら</rt></ruby>さん、Phase 2 は<ruby>昨年<rt>さくねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>に<ruby>完了<rt>かんりょう</rt></ruby>して、<ruby>次<rt>つぎ</rt></ruby>は…」 |
+|  | *Anh Nakamura, Phase 2 đã xong tháng 12 năm ngoái, tiếp theo là...* |
 
-**Vì sao xấu:** CFO không có context Phase 2. Dũng vào discovery question luôn → CFO bị lost → 大垣 phải giải thích thay → tốn 5 phút và mất control. Lý ra Dũng phải proactively recap.
+**Vì sao xấu:** CFO không có bối cảnh Phase 2. Dũng vào câu hỏi khai thác luôn → CFO bị lạc mạch → 大垣 phải giải thích thay → tốn 5 phút và mất quyền dẫn dắt. Lẽ ra Dũng phải chủ động điểm lại trước.
 
 ---
 
 ## ✅ Hội thoại TỐT — recap 60s + agenda đề xuất
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「本題に入ります前に、**簡単な振り返り**【1】をさせていただきます。中村 CFO 様には Phase 2 の経緯をお伝えする意味でも。」 |
-| **ズン** | 「Phase 2 は昨年 12 月完了、月間 GMV +18%、運用コスト -22% という成果をお出しすることができました【2】。Phase 3 のご相談を 3 月に賜り、今日 3 段階のご提案をお持ちしました。**直近で御社側のご状況に変更はございますでしょうか**【3】？」 |
-| **中村CFO** | 「コスト圧縮の方針はより強くなっています。Phase 2 のような ROI が出る案件であれば積極的に検討します。」 |
-| **ズン** | 「承知しました。それを念頭に進めます。**本日のagenda、案として: (1) Phase 3 提案の概要 10 分、(2) 御社側のご質問・ディスカッション 30 分、(3) 価格と次ステップの確認 20 分**【4】、合計 60 分。よろしいでしょうか？」 |
-| **大垣** | 「結構です。」 |
+| **ズン** | 「<ruby>本題<rt>ほんだい</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります<ruby>前<rt>まえ</rt></ruby>に、**<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>り**【1】をさせていただきます。<ruby>中村<rt>なかむら</rt></ruby> CFO <ruby>様<rt>さま</rt></ruby>には Phase 2 の<ruby>経緯<rt>けいい</rt></ruby>をお<ruby>伝<rt>つた</rt></ruby>えする<ruby>意味<rt>いみ</rt></ruby>でも。」 |
+|  | *Trước khi vào nội dung chính, xin phép em điểm lại nhanh ạ. Cũng là để truyền lại bối cảnh Phase 2 cho anh Nakamura CFO.* |
+| **ズン** | 「Phase 2 は<ruby>昨年<rt>さくねん</rt></ruby> 12 <ruby>月<rt>がつ</rt></ruby><ruby>完了<rt>かんりょう</rt></ruby>、<ruby>月間<rt>げっかん</rt></ruby> GMV +18%、<ruby>運用<rt>うんよう</rt></ruby>コスト -22% という<ruby>成果<rt>せいか</rt></ruby>をお<ruby>出<rt>だ</rt></ruby>しすることができました【2】。Phase 3 のご<ruby>相談<rt>そうだん</rt></ruby>を 3 <ruby>月<rt>がつ</rt></ruby>に<ruby>賜<rt>たまわ</rt></ruby>り、<ruby>今日<rt>きょう</rt></ruby> 3 <ruby>段階<rt>だんかい</rt></ruby>のご<ruby>提案<rt>ていあん</rt></ruby>をお<ruby>持<rt>も</rt></ruby>ちしました。**<ruby>直近<rt>ちょっきん</rt></ruby>で<ruby>御社<rt>おんしゃ</rt></ruby><ruby>側<rt>がわ</rt></ruby>のご<ruby>状況<rt>じょうきょう</rt></ruby>に<ruby>変更<rt>へんこう</rt></ruby>はございますでしょうか**【3】？」 |
+|  | *Phase 2 hoàn thành tháng 12 năm ngoái, kết quả là GMV tháng +18%, chi phí vận hành -22% ạ. Đề xuất Phase 3 quý anh trao đổi hồi tháng 3, hôm nay em mang 3 phương án ạ. Gần đây phía quý cty có thay đổi gì không ạ?* |
+| **中村CFO** | 「コスト<ruby>圧縮<rt>あっしゅく</rt></ruby>の<ruby>方針<rt>ほうしん</rt></ruby>はより<ruby>強<rt>つよ</rt></ruby>くなっています。Phase 2 のような ROI が<ruby>出<rt>で</rt></ruby>る<ruby>案件<rt>あんけん</rt></ruby>であれば<ruby>積極的<rt>せっきょくてき</rt></ruby>に<ruby>検討<rt>けんとう</rt></ruby>します。」 |
+|  | *Phương châm nén chi phí đang mạnh lên. Nếu ROI ra như Phase 2 thì chúng tôi tích cực xem xét.* |
+| **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。それを<ruby>念頭<rt>ねんとう</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めます。**<ruby>本日<rt>ほんじつ</rt></ruby>のagenda、<ruby>案<rt>あん</rt></ruby>として: (1) Phase 3 <ruby>提案<rt>ていあん</rt></ruby>の<ruby>概要<rt>がいよう</rt></ruby> 10 <ruby>分<rt>ふん</rt></ruby>、(2) <ruby>御社<rt>おんしゃ</rt></ruby><ruby>側<rt>がわ</rt></ruby>のご<ruby>質問<rt>しつもん</rt></ruby>・ディスカッション 30 <ruby>分<rt>ぷん</rt></ruby>、(3) <ruby>価格<rt>かかく</rt></ruby>と<ruby>次<rt>つぎ</rt></ruby>ステップの<ruby>確認<rt>かくにん</rt></ruby> 20 <ruby>分<rt>ぷん</rt></ruby>**【4】、<ruby>合計<rt>ごうけい</rt></ruby> 60 <ruby>分<rt>ぷん</rt></ruby>。よろしいでしょうか？」 |
+|  | *Em rõ ạ. Em sẽ lưu ý điều đó. Agenda đề xuất hôm nay: (1) Tổng quan đề xuất Phase 3 — 10 phút, (2) Câu hỏi & thảo luận từ phía quý cty — 30 phút, (3) Xác nhận giá và bước tiếp — 20 phút, tổng 60 phút. Anh thấy ổn không ạ?* |
+| **大垣** | 「<ruby>結構<rt>けっこう</rt></ruby>です。」 |
+|  | *Được ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**振り返り (recap)** — chỉ cần 30-45s, key 2-3 số liệu của Phase trước. KHÔNG kể lể dài.
-- 【2】**Số liệu cụ thể** (+18%, -22%) tốt hơn "成功" mơ hồ. Tạo trust ngay.
-- 【3】**「直近で変更ございますか」** — câu mở để khách proactively share constraint mới (ai mới join, budget cut, etc).
-- 【4】**Agenda 3 phần với time-box** — cho khách feel control, dễ buộc bản thân giữ schedule (rule 17).
+- 【1】**振り返り (điểm lại)** — chỉ cần 30-45s, nhấn 2-3 số liệu then chốt của Phase trước. KHÔNG kể lể dài.
+- 【2】**Số liệu cụ thể** (+18%, -22%) tốt hơn "成功" mơ hồ. Tạo niềm tin ngay.
+- 【3】**「直近で変更ございますか」** — câu mở để khách chủ động chia sẻ ràng buộc mới (ai mới tham gia, cắt ngân sách, v.v.).
+- 【4】**Agenda 3 phần có khung thời gian** — cho khách cảm giác nắm quyền dẫn dắt, dễ buộc bản thân giữ đúng lịch (rule 17).
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「振り返り→状況確認→agenda提示の3拍。CFO 同席時は特に必須。」**
+> **「<ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>り→<ruby>状況<rt>じょうきょう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>→agenda<ruby>提示<rt>ていじ</rt></ruby>の3<ruby>拍<rt>はく</rt></ruby>。CFO <ruby>同席時<rt>どうせきじ</rt></ruby>は<ruby>特<rt>とく</rt></ruby>に<ruby>必須<rt>ひっす</rt></ruby>。」**
 >
 > *Recap → confirm tình hình → đề xuất agenda — 3 nhịp. Có CFO ngồi cùng càng bắt buộc.*
 
@@ -890,10 +989,10 @@ Sau câu mở (rule 10), Dũng vào phần thứ 2 — set context. 中村 CFO m
 
 ## ⚠ Tránh
 
-- Vào discovery luôn không recap → senior khách bị lost
-- Recap dài lê thê (3 phút) → tốn quỹ thời gian
+- Vào khai thác luôn, không điểm lại → khách cấp cao bị lạc mạch
+- Điểm lại dài lê thê (3 phút) → tốn quỹ thời gian
 - Quên hỏi "状況変更ありますか" → bỏ lỡ thông tin sớm về cắt ngân sách, cơ cấu lại
-- Agenda không có time-box → buổi đàm phán lê thê
+- Agenda không có khung thời gian → buổi đàm phán lê thê
 
 ---
 
@@ -901,18 +1000,18 @@ Sau câu mở (rule 10), Dũng vào phần thứ 2 — set context. 中村 CFO m
 
 | 漢字 / Tiếng Nhật | よみ | Nghĩa |
 |------|------|-------|
-| 振り返り | ふりかえり | Recap / nhìn lại |
+| 振り返り | ふりかえり | Điểm lại / nhìn lại |
 | 経緯 | けいい | Diễn biến / quá trình |
 | 直近 | ちょっきん | Gần đây |
-| アジェンダ | ajenda | Agenda |
-| ディスカッション | disukasshon | Discussion |
+| アジェンダ | ajenda | Chương trình nghị sự (agenda) |
+| ディスカッション | disukasshon | Thảo luận |
 | 念頭に置く | ねんとうにおく | Lưu ý / để trong đầu |
 | 共通認識 | きょうつうにんしき | Nhận thức chung |
 
 
 # Rule 12 — Discovery questions: 5 categories / ディスカバリー質問
 
-> **Luận điểm.** Trước khi đề xuất giá, hỏi 5 category: **(1) Pain** (vấn đề thực sự), **(2) Goal** (đích đến), **(3) Budget** (ngân sách), **(4) Timeline** (thời hạn), **(5) Decision** (ai duyệt, quy trình). Bỏ qua 1 category = đoán → khả năng cao quote sai. Tỉ lệ deal won tăng 2-3x với discovery đầy đủ.
+> **Luận điểm.** Trước khi đề xuất giá, hỏi 5 nhóm: **(1) Pain** (vấn đề thực sự), **(2) Goal** (đích đến), **(3) Budget** (ngân sách), **(4) Timeline** (thời hạn), **(5) Decision** (ai duyệt, quy trình). Bỏ qua 1 nhóm = đoán mò → khả năng cao báo giá sai. Tỉ lệ thương vụ chốt được tăng 2-3x khi khai thác thông tin đầy đủ.
 >
 > 価格提示前に必ず5カテゴリ (Pain/Goal/Budget/Timeline/Decision) を質問。1つでも飛ばすと当てずっぽう提案になる。
 >
@@ -922,51 +1021,67 @@ Sau câu mở (rule 10), Dũng vào phần thứ 2 — set context. 中村 CFO m
 
 ## Bối cảnh / 場面
 
-Sau context setting (rule 11), Dũng vào discovery 30 phút. Đây là phần dài nhất, cần bao quát 5 category.
+Sau khi thiết lập bối cảnh (rule 11), Dũng vào phần khai thác thông tin 30 phút. Đây là phần dài nhất, cần bao quát 5 nhóm.
 
 ---
 
 ## ❌ Hội thoại XẤU — chỉ hỏi Pain, bỏ qua Budget/Timeline/Decision
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「Phase 3 で解決したい課題は何でしょうか？」 |
-| **大垣** | 「AI レコメンドで購買単価を上げたい、それから運用負荷を減らしたいです。」 |
-| **ズン** | 「分かりました。それでは ¥19M でご提案します。」 |
-| **大垣** | 「あ…えっと、予算とか聞かないんですか？」 |
+| **ズン** | 「Phase 3 で解決したい<ruby>課題<rt>かだい</rt></ruby>は何でしょうか？」 |
+|  | *Vấn đề quý anh muốn giải quyết ở Phase 3 là gì ạ?* |
+| **大垣** | 「AI レコメンドで<ruby>購買単価<rt>こうばいたんか</rt></ruby>を上げたい、それから<ruby>運用負荷<rt>うんようふか</rt></ruby>を減らしたいです。」 |
+|  | *Tăng đơn giá mua hàng bằng AI recommend, và giảm tải vận hành.* |
+| **ズン** | 「分かりました。それでは ¥19M でご<ruby>提案<rt>ていあん</rt></ruby>します。」 |
+|  | *Em rõ ạ. Vậy em đề xuất ¥19M ạ.* |
+| **大垣** | 「あ…えっと、<ruby>予算<rt>よさん</rt></ruby>とか聞かないんですか？」 |
+|  | *À... ơ, không hỏi ngân sách à?* |
 | **ズン** | 「あ、そうですね、予算は…」 |
+|  | *À vâng ạ, ngân sách thì...* |
 
-**Vì sao xấu:** Hỏi Pain xong jump straight tới giá. Không biết budget ceiling, timeline urgency, decision flow. ¥19M có thể vượt quá ngân sách hoặc khách thực ra cần xong trong 3 tháng (nhưng mình quote lịch 6 tháng). Khách phải tự nhắc — embarrassing.
+**Vì sao xấu:** Hỏi Pain xong nhảy thẳng tới giá. Không biết trần ngân sách, mức độ gấp gáp của thời hạn, quy trình ra quyết định. ¥19M có thể vượt quá ngân sách hoặc khách thực ra cần xong trong 3 tháng (nhưng mình lại báo lịch 6 tháng). Khách phải tự nhắc — rất khó xử.
 
 ---
 
-## ✅ Hội thoại TỐT — 5 category covered trong 30 phút
+## ✅ Hội thoại TỐT — bao quát đủ 5 nhóm trong 30 phút
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「**5 観点でお伺いさせていただきます**【1】。まず Pain — 現状の運用で最も時間を取られている部分はどちらでしょうか？」 |
-| **大垣** | 「在庫予測の精度。営業部が手動で日次調整している。」 |
+| **ズン** | 「**5 <ruby>観点<rt>かんてん</rt></ruby>でお<ruby>伺<rt>うかが</rt></ruby>いさせていただきます**【1】。まず Pain — <ruby>現状<rt>げんじょう</rt></ruby>の<ruby>運用<rt>うんよう</rt></ruby>で最も時間を取られている部分はどちらでしょうか？」 |
+|  | *Em xin phép hỏi theo 5 trục ạ. Đầu tiên Pain — trong vận hành hiện tại, mục nào đang ngốn thời gian nhất ạ?* |
+| **大垣** | 「<ruby>在庫予測<rt>ざいこよそく</rt></ruby>の<ruby>精度<rt>せいど</rt></ruby>。<ruby>営業部<rt>えいぎょうぶ</rt></ruby>が<ruby>手動<rt>しゅどう</rt></ruby>で<ruby>日次調整<rt>にちじちょうせい</rt></ruby>している。」 |
+|  | *Độ chính xác dự báo tồn kho. Phòng KD đang điều chỉnh thủ công hàng ngày.* |
 | **ズン** | 「**Goal — Phase 3 完了時にどのような状態をイメージされていますか**【2】？」 |
-| **大垣** | 「予測精度 +15%、手動調整時間半減。GMV 影響としては年間 +¥80M 見込み。」 |
-| **ズン** | 「**予算感**につきまして、御社新年度 IT 投資のフレームの中で、Phase 3 はどの程度の位置付けでしょうか【3】？」 |
-| **中村CFO** | 「Phase 3 単体としては ¥15-20M 帯で考えています。それを大きく超えると稟議が難航します。」 |
+|  | *Goal — khi Phase 3 hoàn thành, quý anh hình dung trạng thái như thế nào ạ?* |
+| **大垣** | 「予測精度 +15%、手動調整時間<ruby>半減<rt>はんげん</rt></ruby>。GMV 影響としては<ruby>年間<rt>ねんかん</rt></ruby> +¥80M <ruby>見込<rt>みこ</rt></ruby>み。」 |
+|  | *Độ chính xác +15%, thời gian điều chỉnh thủ công giảm một nửa. Ảnh hưởng GMV ước +¥80M/năm.* |
+| **ズン** | 「**<ruby>予算感<rt>よさんかん</rt></ruby>**につきまして、御社<ruby>新年度<rt>しんねんど</rt></ruby> IT <ruby>投資<rt>とうし</rt></ruby>のフレームの中で、Phase 3 はどの程度の<ruby>位置付<rt>いちづ</rt></ruby>けでしょうか【3】？」 |
+|  | *Về cảm giác ngân sách, trong khung đầu tư IT năm mới của quý cty, Phase 3 ở vị trí nào ạ?* |
+| **中村CFO** | 「Phase 3 単体としては ¥15-20M <ruby>帯<rt>たい</rt></ruby>で考えています。それを大きく超えると<ruby>稟議<rt>りんぎ</rt></ruby>が<ruby>難航<rt>なんこう</rt></ruby>します。」 |
+|  | *Riêng Phase 3 chúng tôi tính dải ¥15-20M. Vượt nhiều là ringi sẽ khó.* |
 | **ズン** | 「ありがとうございます。**Timeline** — リリース希望時期は？」 |
-| **大垣** | 「7 月末までに本番投入できれば理想です。」 |
-| **ズン** | 「**最後に Decision — 本件のご判断は中村 CFO 様 + 大垣部長様の合議でよろしいでしょうか？それ以外に稟議経路で確認すべき方はいらっしゃいますか**【4】？」 |
-| **大垣** | 「我々2名の合議+IT部門長の technical review が必要です。あと取締役会 (¥18M 超は付議)。」 |
-| **ズン** | 「承知しました。これで5観点のご状況が揃いました。」 |
+|  | *Em cảm ơn ạ. Timeline — thời điểm release mong muốn?* |
+| **大垣** | 「7 月末までに<ruby>本番投入<rt>ほんばんとうにゅう</rt></ruby>できれば<ruby>理想<rt>りそう</rt></ruby>です。」 |
+|  | *Lý tưởng là đưa vào production trước cuối tháng 7.* |
+| **ズン** | 「**最後に Decision — 本件のご<ruby>判断<rt>はんだん</rt></ruby>は中村 CFO 様 + 大垣部長様の<ruby>合議<rt>ごうぎ</rt></ruby>でよろしいでしょうか？それ以外に<ruby>稟議経路<rt>りんぎけいろ</rt></ruby>で確認すべき方はいらっしゃいますか**【4】？」 |
+|  | *Cuối cùng Decision — quyết định vụ này là hợp nghị giữa anh Nakamura CFO và anh Ōgaki ạ? Ngoài ra trên đường ringi còn ai cần consult không ạ?* |
+| **大垣** | 「我々2名の合議+IT<ruby>部門長<rt>ぶもんちょう</rt></ruby>の technical review が必要です。あと<ruby>取締役会<rt>とりしまりやくかい</rt></ruby> (¥18M 超は<ruby>付議<rt>ふぎ</rt></ruby>)。」 |
+|  | *Hai chúng tôi hợp nghị + technical review của trưởng phòng IT. Thêm HĐQT (vượt ¥18M phải đưa lên).* |
+| **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。これで5観点のご<ruby>状況<rt>じょうきょう</rt></ruby>が<ruby>揃<rt>そろ</rt></ruby>いました。」 |
+|  | *Em rõ ạ. Vậy là 5 trục đã đủ thông tin ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**「5 観点」と最初に宣言** — khách biết bạn sẽ hỏi nhiều, kiên nhẫn. Tránh khách "khi nào tới giá?"
-- 【2】**Pain → Goal pair** — Pain alone là negative; Goal cho khách imagine future state, dễ trả lời con số.
-- 【3】**Budget hỏi gián tiếp** "新年度フレームの中で" — không hỏi thẳng "予算いくら?" (failure pattern). Rule 15 detail.
-- 【4】**Decision hỏi đầy đủ** — KHÔNG chỉ hỏi "ai duyệt" mà hỏi "ai cần consult", thường có hidden person (rule 16).
+- 【1】**「5 観点」と最初に宣言** — khách biết bạn sẽ hỏi nhiều, kiên nhẫn hơn. Tránh khách sốt ruột "khi nào tới giá?"
+- 【2】**Cặp Pain → Goal** — chỉ hỏi Pain thì mang sắc thái tiêu cực; Goal cho khách hình dung trạng thái tương lai, dễ trả lời bằng con số.
+- 【3】**Budget hỏi gián tiếp** "新年度フレームの中で" — không hỏi thẳng "予算いくら?" (kiểu hỏi dễ thất bại). Chi tiết ở rule 15.
+- 【4】**Decision hỏi đầy đủ** — KHÔNG chỉ hỏi "ai duyệt" mà hỏi "còn ai cần tham vấn", thường có người quyết định ẩn (rule 16).
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「Pain・Goal・Budget・Timeline・Decision の5観点を必ずカバー。1つ飛ばすと当てずっぽう。」**
+> **「Pain・Goal・<ruby>予算<rt>よさん</rt></ruby>・Timeline・Decision の5<ruby>観点<rt>かんてん</rt></ruby>を必ずカバー。1つ<ruby>飛<rt>と</rt></ruby>ばすと当てずっぽう。」**
 >
 > *5 trục Vấn đề/Mục tiêu/Ngân sách/Thời hạn/Người quyết định (Pain/Goal/Budget/Timeline/Decision) — bỏ 1 trục = đoán mò.*
 
@@ -974,10 +1089,10 @@ Sau context setting (rule 11), Dũng vào discovery 30 phút. Đây là phần d
 
 ## ⚠ Tránh
 
-- Chỉ hỏi Pain xong jump tới giá → quote sai
+- Chỉ hỏi Pain xong nhảy thẳng tới giá → báo giá sai
 - Hỏi Budget thẳng thừng "予算いくらですか?" → khách Nhật khó trả lời (rule 15)
-- Skip Decision question → tới giai đoạn closing mới biết có 5 người duyệt
-- Hỏi 5 category liên tiếp thành rapid-fire → tone interrogation. Đan xen mirror/summary (rule 14).
+- Bỏ qua câu hỏi Decision → tới giai đoạn chốt mới biết có 5 người duyệt
+- Hỏi 5 nhóm liên tiếp dồn dập → giọng điệu như hỏi cung. Đan xen phản chiếu / tóm lược (rule 14).
 
 ---
 
@@ -997,7 +1112,7 @@ Sau context setting (rule 11), Dũng vào discovery 30 phút. Đây là phần d
 
 # Rule 13 — Listen for hidden constraints / 隠れた制約の傾聴
 
-> **Luận điểm.** Khách Nhật rất hiếm khi trực tiếp nói "có vấn đề X", thay vào đó signals indirect: 言葉尻 ("ちょっと…"), 時間 ("少し時間かかる"), passive voice. Phải bắt được 3 loại constraint ẩn: **(1) 稟議 timeline (~ thực sự bao lâu)**, **(2) Budget cycle limit**, **(3) Internal politics** (sếp khác phản đối).
+> **Luận điểm.** Khách Nhật rất hiếm khi trực tiếp nói "có vấn đề X", thay vào đó phát tín hiệu gián tiếp: cách buông lửng câu 言葉尻 ("ちょっと…"), nhắc thời gian 時間 ("少し時間かかる"), dùng thể bị động. Phải bắt được 3 loại ràng buộc ẩn: **(1) thời hạn 稟議 (thực sự bao lâu)**, **(2) giới hạn chu kỳ ngân sách**, **(3) chính trị nội bộ** (sếp khác phản đối).
 >
 > 日本の顧客は制約を直接言わない。「ちょっと」「少し時間がかかる」「内部で議論が」などの signal を listen して隠れた制約 (稟議期間・予算枠・社内反対) を読み解く。
 >
@@ -1007,7 +1122,7 @@ Sau context setting (rule 11), Dũng vào discovery 30 phút. Đây là phần d
 
 ## Bối cảnh / 場面
 
-Discovery question xong (rule 12), 大垣 trả lời nhưng có vài "ちょっと…" và pause dài. Dũng phải đào hidden constraint chứ không bỏ qua.
+Discovery question xong (rule 12), 大垣 trả lời nhưng có vài "ちょっと…" và ngập ngừng dài. Dũng phải đào ràng buộc ẩn chứ không bỏ qua.
 
 ---
 
@@ -1015,14 +1130,18 @@ Discovery question xong (rule 12), 大垣 trả lời nhưng có vài "ちょっ
 
 *信号読まず*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **大垣** | 「7 月末ローンチが理想ですが…**ちょっと**社内で議論があって…」 |
+| **大垣** | 「7 月末ローンチが理想ですが…**ちょっと**<ruby>社内<rt>しゃない</rt></ruby>で<ruby>議論<rt>ぎろん</rt></ruby>があって…」 |
+|  | *Lý tưởng là launch cuối tháng 7, nhưng... hơi đang có thảo luận nội bộ...* |
 | **ズン** | 「では 7 月末ローンチでスケジュール組みます。」 |
+|  | *Vậy em lên lịch launch cuối tháng 7 ạ.* |
 | **大垣** | 「あ、はい…」 |
-| (3週間後 Slack) **大垣** | 「すみません、稟議が止まっており…」 |
+|  | *À, vâng ạ...* |
+| (3週間後 Slack) **大垣** | 「すみません、<ruby>稟議<rt>りんぎ</rt></ruby>が止まっており…」 |
+|  | *(3 tuần sau qua Slack) Xin lỗi, ringi đang dừng...* |
 
-**Vì sao xấu:** "ちょっと" + pause = signal có vấn đề, có thể là sếp khác phản đối hoặc budget chưa sure. Dũng push schedule luôn → 3 tuần sau bị surprise. Phải đào ngay tại chỗ.
+**Vì sao xấu:** "ちょっと" + ngập ngừng = tín hiệu có vấn đề, có thể là sếp khác phản đối hoặc ngân sách chưa chắc chắn. Dũng chốt lịch luôn → 3 tuần sau bị bất ngờ. Phải đào ngay tại chỗ.
 
 ---
 
@@ -1030,19 +1149,25 @@ Discovery question xong (rule 12), 大垣 trả lời nhưng có vài "ちょっ
 
 *signal キャッチ · 少し沈黙、その後*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「7 月末ローンチが理想ですが…**ちょっと**社内で議論があって…」 |
-| **ズン** | 「『社内で議論』とのこと、**もう少し詳しくお聞かせいただけますでしょうか**【1】？タイミングや調整事項に影響しそうでしたら、こちらでも対応を検討したいので。」 |
-| **大垣** | 「実は IT 部門長が AI レコメンドの導入リスクを慎重に見ていまして…7 月末は厳しいかもしれません。」 |
-| **ズン** | 「**承知しました。IT 部門長様のご懸念点、具体的にどのあたりでしょうか**【2】？こちらで white paper や PoC データをご用意できれば稟議の助けになるかと思います。」 |
-| **大垣** | 「データ漏洩リスクとモデル説明可能性。御社で説明できる資料があれば助かります。」 |
-| **ズン** | 「**白鷗様 IT 部門長様向けに security PoC + AI explainability の brief を 1 週間以内に**【3】。それに合わせて Timeline は 7 月末→ 8 月中旬に余裕を持たせる案も併せてご提案します。」 |
+|  | *Lý tưởng là launch cuối tháng 7, nhưng... hơi đang có thảo luận nội bộ...* |
+| **ズン** | 「『社内で議論』とのこと、**もう少し詳しくお聞かせいただけますでしょうか**【1】？タイミングや<ruby>調整<rt>ちょうせい</rt></ruby><ruby>事項<rt>じこう</rt></ruby>に<ruby>影響<rt>えいきょう</rt></ruby>しそうでしたら、こちらでも<ruby>対応<rt>たいおう</rt></ruby>を<ruby>検討<rt>けんとう</rt></ruby>したいので。」 |
+|  | *Anh có nhắc 'thảo luận nội bộ', em xin phép được nghe kỹ hơn ạ. Nếu có ảnh hưởng tới timing / việc điều chỉnh thì bên em cũng muốn tìm hướng xử lý ạ.* |
+| **大垣** | 「実は IT 部門長が AI レコメンドの<ruby>導入<rt>どうにゅう</rt></ruby>リスクを<ruby>慎重<rt>しんちょう</rt></ruby>に見ていまして…7 月末は<ruby>厳<rt>きび</rt></ruby>しいかもしれません。」 |
+|  | *Thật ra trưởng phòng IT đang xem rất thận trọng rủi ro khi triển khai AI recommend... cuối tháng 7 có thể khó.* |
+| **ズン** | 「**<ruby>承知<rt>しょうち</rt></ruby>しました。IT 部門長様のご<ruby>懸念点<rt>けねんてん</rt></ruby>、具体的にどのあたりでしょうか**【2】？こちらで white paper や PoC データをご<ruby>用意<rt>ようい</rt></ruby>できれば<ruby>稟議<rt>りんぎ</rt></ruby>の<ruby>助<rt>たす</rt></ruby>けになるかと思います。」 |
+|  | *Em rõ ạ. Cụ thể trưởng phòng IT lo điểm nào ạ? Bên em có thể chuẩn bị white paper hoặc PoC data, có thể hỗ trợ cho ringi ạ.* |
+| **大垣** | 「データ<ruby>漏洩<rt>ろうえい</rt></ruby>リスクとモデル<ruby>説明可能性<rt>せつめいかのうせい</rt></ruby>。御社で説明できる資料があれば助かります。」 |
+|  | *Rủi ro rò rỉ data và khả năng giải thích model. Nếu bên em có tài liệu giải thích được thì rất giúp.* |
+| **ズン** | 「**白鷗様 IT 部門長様向けに security PoC + AI explainability の brief を 1 週間以内に**【3】。それに合わせて Timeline は 7 月末→ 8 月中旬に<ruby>余裕<rt>よゆう</rt></ruby>を持たせる<ruby>案<rt>あん</rt></ruby>も<ruby>併<rt>あわ</rt></ruby>せてご<ruby>提案<rt>ていあん</rt></ruby>します。」 |
+|  | *Em sẽ chuẩn bị security PoC + brief AI explainability cho trưởng phòng IT bên Hakuō trong 1 tuần. Đồng thời em đề xuất nới timeline cuối tháng 7 → giữa tháng 8 cho có dư địa ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**「もう少し詳しく…」** = câu open-ended để khách elaborate. Tránh closed question (yes/no).
-- 【2】**「具体的にどのあたり」** — đào pain xuống level operational. Khách Nhật thường share khi đã build trust.
-- 【3】**Quay constraint thành solution** — biết IT lead lo, đề xuất security brief + dời timeline → tăng cơ hội稟議 pass.
+- 【1】**「もう少し詳しく…」** = câu hỏi mở để khách nói rõ thêm. Tránh câu hỏi đóng (có/không).
+- 【2】**「具体的にどのあたり」** — đào vấn đề xuống mức vận hành cụ thể. Khách Nhật thường chia sẻ khi đã tạo được niềm tin.
+- 【3】**Biến ràng buộc thành giải pháp** — biết trưởng phòng IT lo, đề xuất security brief + dời timeline → tăng cơ hội稟議 được duyệt.
 
 ---
 
@@ -1056,10 +1181,10 @@ Discovery question xong (rule 12), 大垣 trả lời nhưng có vài "ちょっ
 
 ## ⚠ Tránh
 
-- "ちょっと" 聞き流す → 3 週後 surprise
-- 詰問 tone "なんでですか？" → khách close down. Dùng "もう少し詳しく…"
-- Constraint ra rồi mà push schedule cứng → tone của bạn thành "không nghe"
-- Quên propose solution sau khi đào → discovery thuần info gathering, không value-add
+- "ちょっと" 聞き流す → 3 週後 bị bất ngờ
+- Giọng tra hỏi "なんでですか？" → khách đóng cửa. Dùng "もう少し詳しく…"
+- Ràng buộc lộ ra rồi mà vẫn ép lịch cứng → giọng của bạn thành "không chịu nghe"
+- Quên đề xuất giải pháp sau khi đào → discovery chỉ còn thuần thu thập thông tin, không tạo thêm giá trị
 
 ---
 
@@ -1067,18 +1192,18 @@ Discovery question xong (rule 12), 大垣 trả lời nhưng có vài "ちょっ
 
 | 漢字 / Tiếng Nhật | よみ | Nghĩa |
 |------|------|-------|
-| 隠れた制約 | かくれたせいやく | Constraint ẩn |
-| 議論 | ぎろん | Bàn luận / disagreement |
+| 隠れた制約 | かくれたせいやく | Ràng buộc ẩn |
+| 議論 | ぎろん | Bàn luận / bất đồng quan điểm |
 | 慎重 | しんちょう | Thận trọng |
-| 漏洩リスク | ろうえいリスク | Risk rò rỉ |
-| 説明可能性 | せつめいかのうせい | Explainability |
+| 漏洩リスク | ろうえいリスク | Rủi ro rò rỉ |
+| 説明可能性 | せつめいかのうせい | Khả năng giải thích (của model) |
 | 余裕を持たせる | よゆうをもたせる | Để dư địa |
 | 稟議の助け | りんぎのたすけ | Hỗ trợ ringi |
 
 
 # Rule 14 — Mirror + summarize / ミラーリング・要約
 
-> **Luận điểm.** Sau mỗi khối discovery (3-5 câu khách trả lời), **mirror back** bằng câu "つまり〜とのご認識でしょうか" — confirm hiểu đúng + cho khách cơ hội correct. Hai tác dụng: (1) tránh misinterpretation, (2) khách cảm "được lắng nghe" → cooperative hơn.
+> **Luận điểm.** Sau mỗi khối khai thác (3-5 câu khách trả lời), **phản chiếu lại** bằng câu "つまり〜とのご認識でしょうか" — xác nhận hiểu đúng + cho khách cơ hội điều chỉnh. Hai tác dụng: (1) tránh hiểu sai, (2) khách cảm "được lắng nghe" → hợp tác hơn.
 >
 > 質問→回答の塊ごとに「つまり〜とのご認識でしょうか」で要約 mirroring。誤解防止 + 相手の信頼獲得。
 >
@@ -1092,33 +1217,42 @@ Sau khi đào constraint của IT lead (rule 13), Dũng tiếp tục discovery. 
 
 ---
 
-## ❌ Hội thoại XẤU — không mirror, hiểu sai
+## ❌ Hội thoại XẤU — không phản chiếu, hiểu sai
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **大垣** | 「在庫予測精度 +15%、手動調整時間半減です。」 |
-| **ズン** | 「ありがとうございます。次の質問ですが、予算は…」 |
-| (1 週間後 deck で) **ズン** | 「在庫予測精度を 15% **以上**改善する提案です。」 |
-| **大垣** | 「いえ、+15% で十分です。それ以上は cost 倍以上になるので望んでいません。」 |
+| **大垣** | 「<ruby>在庫<rt>ざいこ</rt></ruby><ruby>予測<rt>よそく</rt></ruby><ruby>精度<rt>せいど</rt></ruby> +15%、<ruby>手動<rt>しゅどう</rt></ruby><ruby>調整<rt>ちょうせい</rt></ruby><ruby>時間<rt>じかん</rt></ruby><ruby>半減<rt>はんげん</rt></ruby>です。」 |
+|  | *Độ chính xác dự báo +15%, thời gian điều chỉnh thủ công giảm một nửa.* |
+| **ズン** | 「ありがとうございます。<ruby>次<rt>つぎ</rt></ruby>の<ruby>質問<rt>しつもん</rt></ruby>ですが、<ruby>予算<rt>よさん</rt></ruby>は…」 |
+|  | *Em cảm ơn ạ. Câu hỏi tiếp, ngân sách...* |
+| (1 週間後 deck で) **ズン** | 「在庫予測精度を 15% **以上**<ruby>改善<rt>かいぜん</rt></ruby>する<ruby>提案<rt>ていあん</rt></ruby>です。」 |
+|  | *(1 tuần sau trong deck) Đề xuất cải thiện độ chính xác dự báo từ 15% trở lên ạ.* |
+| **大垣** | 「いえ、+15% で<ruby>十分<rt>じゅうぶん</rt></ruby>です。それ<ruby>以上<rt>いじょう</rt></ruby>は cost <ruby>倍<rt>ばい</rt></ruby>以上になるので<ruby>望<rt>のぞ</rt></ruby>んでいません。」 |
+|  | *Không, +15% là đủ. Trên nữa thì cost gấp đôi, chúng tôi không muốn.* |
 | **ズン** | 「あ…」 |
+|  | *À...* |
 
-**Vì sao xấu:** Dũng nhớ "+15%" thành "15% trở lên" → over-design proposal. Không mirror tại chỗ → 1 tuần sau mới phát hiện. Mất thời gian + lost trust.
+**Vì sao xấu:** Dũng nhớ "+15%" thành "15% trở lên" → đề xuất quá mức cần thiết. Không phản chiếu tại chỗ → 1 tuần sau mới phát hiện. Mất thời gian + mất lòng tin.
 
 ---
 
-## ✅ Hội thoại TỐT — mirror tại chỗ, đúng từng số
+## ✅ Hội thoại TỐT — phản chiếu tại chỗ, đúng từng số
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「在庫予測精度 +15%、手動調整時間半減です。」 |
-| **ズン** | 「**つまり、目標は予測精度を現状から +15%、手動調整時間を 50% 削減 — この2点が Phase 3 の主要KPI、とのご認識でよろしいでしょうか**【1】？」 |
-| **大垣** | 「はい。+15% は超えなくて大丈夫、超えると cost 上がるので逆に困る。」 |
-| **ズン** | 「**+15% は超過不要、cost との trade-off を意識**【2】、承知しました。次に予算感を伺ってもよろしいでしょうか？」 |
+|  | *Độ chính xác dự báo +15%, thời gian điều chỉnh thủ công giảm một nửa.* |
+| **ズン** | 「**つまり、<ruby>目標<rt>もくひょう</rt></ruby>は予測精度を<ruby>現状<rt>げんじょう</rt></ruby>から +15%、手動調整時間を 50% <ruby>削減<rt>さくげん</rt></ruby> — この2<ruby>点<rt>てん</rt></ruby>が Phase 3 の<ruby>主要<rt>しゅよう</rt></ruby>KPI、とのご<ruby>認識<rt>にんしき</rt></ruby>でよろしいでしょうか**【1】？」 |
+|  | *Tức là mục tiêu là độ chính xác dự báo +15% so với hiện tại, thời gian điều chỉnh thủ công -50% — 2 mục này là KPI chính của Phase 3, em hiểu vậy có đúng không ạ?* |
+| **大垣** | 「はい。+15% は<ruby>超<rt>こ</rt></ruby>えなくて大丈夫、超えると cost <ruby>上<rt>あ</rt></ruby>がるので<ruby>逆<rt>ぎゃく</rt></ruby>に<ruby>困<rt>こま</rt></ruby>る。」 |
+|  | *Đúng. +15% không cần vượt, vượt là cost lên, ngược lại làm khó chúng tôi.* |
+| **ズン** | 「**+15% は<ruby>超過<rt>ちょうか</rt></ruby><ruby>不要<rt>ふよう</rt></ruby>、cost との trade-off を<ruby>意識<rt>いしき</rt></ruby>**【2】、<ruby>承知<rt>しょうち</rt></ruby>しました。次に予算<ruby>感<rt>かん</rt></ruby>を<ruby>伺<rt>うかが</rt></ruby>ってもよろしいでしょうか？」 |
+|  | *+15% không cần vượt, cân nhắc trade-off với cost — em rõ ạ. Tiếp theo cho phép em hỏi cảm giác ngân sách được không ạ?* |
 
 📝 **Ghi chú:**
-- 【1】**「つまり、〜とのご認識でよろしいでしょうか」** = mặc định mirror phrase. Đảm bảo khách correct nếu sai.
-- 【2】**Mirror back sắc thái khách thêm vào** ("超えなくて大丈夫" → "超過不要") — phải bắt được sắc thái tinh tế, KHÔNG paraphrase quá.
-- Mirror tại chỗ tốn 10 giây nhưng tiết kiệm ngày làm proposal sai.
+- 【1】**「つまり、〜とのご認識でよろしいでしょうか」** = câu phản chiếu mặc định. Đảm bảo khách điều chỉnh nếu sai.
+- 【2】**Phản chiếu lại sắc thái khách thêm vào** ("超えなくて大丈夫" → "超過不要") — phải bắt được sắc thái tinh tế, KHÔNG diễn đạt lại quá xa.
+- Phản chiếu tại chỗ tốn 10 giây nhưng tiết kiệm cả ngày làm đề xuất sai.
 
 ---
 
@@ -1126,16 +1260,16 @@ Sau khi đào constraint của IT lead (rule 13), Dũng tiếp tục discovery. 
 
 > **「つまり〜とのご認識でしょうか — 質問の塊ごとに必ず mirror。」**
 >
-> *"Tức là... — em hiểu vậy có đúng không ạ" — sau mỗi khối câu hỏi đều mirror.*
+> *"Tức là... — em hiểu vậy có đúng không ạ" — sau mỗi khối câu hỏi đều phản chiếu.*
 
 ---
 
 ## ⚠ Tránh
 
-- Paraphrase quá xa nguyên văn → khách không recognize → thấy mình "không nghe"
-- Mirror chỉ những gì mình thích, bỏ qua sắc thái khó (vd: "超えなくて大丈夫" mà mirror thành "+15% 以上目指す")
-- Mirror sau 30 phút → không kịp correct
-- Mirror ra dạng câu hỏi đóng yes/no liên tục → tone interrogation. Đan với open question.
+- Diễn đạt lại quá xa nguyên văn → khách không nhận ra → thấy mình "không nghe"
+- Phản chiếu chỉ những gì mình thích, bỏ qua sắc thái khó (vd: "超えなくて大丈夫" mà phản chiếu thành "+15% 以上目指す")
+- Phản chiếu sau 30 phút → không kịp điều chỉnh
+- Phản chiếu ra dạng câu hỏi đóng yes/no liên tục → giọng điệu tra hỏi. Đan xen với câu hỏi mở.
 
 ---
 
@@ -1154,7 +1288,7 @@ Sau khi đào constraint của IT lead (rule 13), Dũng tiếp tục discovery. 
 
 # Rule 15 — Probe price sensitivity / 価格感度の探り
 
-> **Luận điểm.** Hỏi "予算いくら?" trực tiếp = khách Nhật khó trả lời (cảm giác bị "ép"). Hỏi gián tiếp 3 cách: **(1) Frame** ("年度予算のフレームの中で"), **(2) Range** ("¥10M〜¥30M のどの帯域"), **(3) Comparable** ("Phase 2 と比較してどの程度の規模感"). Chọn đúng câu hỏi → khách share range 80% trường hợp.
+> **Luận điểm.** Hỏi "予算いくら?" trực tiếp = khách Nhật khó trả lời (cảm giác bị "ép"). Hỏi gián tiếp 3 cách: **(1) Frame / Khung** ("年度予算のフレームの中で"), **(2) Range / Dải** ("¥10M〜¥30M のどの帯域"), **(3) Comparable / So sánh** ("Phase 2 と比較してどの程度の規模感"). Chọn đúng câu hỏi → khách chia sẻ dải ngân sách 80% trường hợp.
 >
 > 直接「予算は？」は日本顧客に答えにくい。Frame / Range / Comparable の3パターンで間接的に探る。
 >
@@ -1164,7 +1298,7 @@ Sau khi đào constraint của IT lead (rule 13), Dũng tiếp tục discovery. 
 
 ## Bối cảnh / 場面
 
-Trong discovery (rule 12 step Budget), Dũng cần probe budget ceiling của Hakuō mà không offended.
+Trong discovery (rule 12 bước Budget), Dũng cần thăm dò trần ngân sách của Hakuō mà không làm khách khó chịu.
 
 ---
 
@@ -1172,31 +1306,40 @@ Trong discovery (rule 12 step Budget), Dũng cần probe budget ceiling của Ha
 
 *微妙な間*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「ところで、Phase 3 の予算はいくらですか？」 |
-| **大垣** | 「えっと、それは…まだ確定していなくて…」 |
-| **中村CFO** | 「そういう質問は社内でもまだ議論中なので、お答えしかねます。」 |
+| **ズン** | 「ところで、Phase 3 の<ruby>予算<rt>よさん</rt></ruby>はいくらですか？」 |
+|  | *À mà, ngân sách Phase 3 là bao nhiêu ạ?* |
+| **大垣** | 「えっと、それは…まだ<ruby>確定<rt>かくてい</rt></ruby>していなくて…」 |
+|  | *Ờ, cái đó... chưa chốt...* |
+| **中村CFO** | 「そういう<ruby>質問<rt>しつもん</rt></ruby>は<ruby>社内<rt>しゃない</rt></ruby>でもまだ<ruby>議論中<rt>ぎろんちゅう</rt></ruby>なので、お<ruby>答<rt>こた</rt></ruby>えしかねます。」 |
+|  | *Câu hỏi như vậy nội bộ chúng tôi cũng còn đang thảo luận nên xin phép không trả lời.* |
 | **ズン** | 「あ、すみません…」 |
+|  | *À, em xin lỗi ạ...* |
 
-**Vì sao xấu:** Direct câu hỏi budget = khách Nhật cảm "đe dọa", phản xạ là từ chối trả lời. Mất cơ hội intel + tone xuống. CFO senior bị uncomfortable.
+**Vì sao xấu:** Hỏi thẳng ngân sách = khách Nhật cảm thấy "bị đe dọa", phản xạ là từ chối trả lời. Mất cơ hội thu thập thông tin + tông giọng đi xuống. CFO cấp cao bị khó xử.
 
 ---
 
-## ✅ Hội thoại TỐT — frame + comparable approach
+## ✅ Hội thoại TỐT — cách hỏi theo khung + so sánh
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「**予算感につきまして** — 御社の新年度 IT 投資 framework の中で、Phase 3 はどの程度の **位置付け**でしょうか【1】？」 |
-| **中村CFO** | 「Phase 3 は重要案件として中位以上に位置付けています。」 |
-| **ズン** | 「**Phase 2 が ¥14.5M でしたが、Phase 3 は機能拡張として規模感的にどのあたりを想定されておられますか**【2】？」 |
-| **中村CFO** | 「Phase 2 比 1.2-1.4 倍程度、つまり ¥17-20M の帯域で考えています。」 |
-| **ズン** | 「ありがとうございます。**¥17-20M の帯域**、参考にさせていただきます【3】。本日の3段階提案も、その帯域を中心に位置付けております。」 |
+| **ズン** | 「**<ruby>予算感<rt>よさんかん</rt></ruby>につきまして** — <ruby>御社<rt>おんしゃ</rt></ruby>の<ruby>新年度<rt>しんねんど</rt></ruby> IT <ruby>投資<rt>とうし</rt></ruby> framework の中で、Phase 3 はどの程度の **<ruby>位置付<rt>いちづ</rt></ruby>け**でしょうか【1】？」 |
+|  | *Về cảm giác ngân sách — trong khung đầu tư IT năm mới của quý công ty, Phase 3 ở vị trí nào ạ?* |
+| **中村CFO** | 「Phase 3 は<ruby>重要案件<rt>じゅうようあんけん</rt></ruby>として<ruby>中位<rt>ちゅうい</rt></ruby>以上に位置付けています。」 |
+|  | *Phase 3 là dự án quan trọng, định vị ở mức trung vị trở lên.* |
+| **ズン** | 「**Phase 2 が ¥14.5M でしたが、Phase 3 は<ruby>機能拡張<rt>きのうかくちょう</rt></ruby>として<ruby>規模感的<rt>きぼかんてき</rt></ruby>にどのあたりを<ruby>想定<rt>そうてい</rt></ruby>されておられますか**【2】？」 |
+|  | *Phase 2 là ¥14.5M, Phase 3 là mở rộng chức năng thì quý anh dự ở mức quy mô nào ạ?* |
+| **中村CFO** | 「Phase 2 <ruby>比<rt>ひ</rt></ruby> 1.2-1.4 <ruby>倍程度<rt>ばいていど</rt></ruby>、つまり ¥17-20M の<ruby>帯域<rt>たいいき</rt></ruby>で考えています。」 |
+|  | *Khoảng 1.2-1.4 lần Phase 2, tức là dải ¥17-20M.* |
+| **ズン** | 「ありがとうございます。**¥17-20M の帯域**、<ruby>参考<rt>さんこう</rt></ruby>にさせていただきます【3】。<ruby>本日<rt>ほんじつ</rt></ruby>の3<ruby>段階<rt>だんかい</rt></ruby><ruby>提案<rt>ていあん</rt></ruby>も、その帯域を<ruby>中心<rt>ちゅうしん</rt></ruby>に位置付けております。」 |
+|  | *Em cảm ơn ạ. Em xin tham khảo dải ¥17-20M ạ. Đề xuất 3-tier hôm nay cũng định vị quanh dải đó ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**「位置付け」「フレームの中で」** = câu hỏi qualitative, dễ trả lời. Khách share rough rank, không phải con số chính xác.
-- 【2】**Comparable approach** dựa trên Phase 2 ¥14.5M (anchor đã biết). Khách dễ trả lời倍数 hơn 絶対値.
-- 【3】**Repeat back range** "¥17-20M の帯域" để khách confirm/correct + ghi nhớ vào ringi sheet.
+- 【1】**「位置付け」「フレームの中で」** = câu hỏi định tính, dễ trả lời. Khách chia sẻ thứ hạng đại khái, không phải con số chính xác.
+- 【2】**Cách hỏi so sánh** dựa trên Phase 2 ¥14.5M (mốc neo đã biết). Khách dễ trả lời倍数 (bội số) hơn 絶対値 (con số tuyệt đối).
+- 【3】**Nhắc lại dải số** "¥17-20M の帯域" để khách xác nhận/đính chính + ghi nhớ vào ringi sheet.
 
 ---
 
@@ -1204,16 +1347,16 @@ Trong discovery (rule 12 step Budget), Dũng cần probe budget ceiling của Ha
 
 > **「直接『予算は？』ではなく、frame / range / comparable で間接的に探る。」**
 >
-> *KHÔNG hỏi thẳng "ngân sách bao nhiêu" — dùng frame / range / comparable để probe gián tiếp.*
+> *KHÔNG hỏi thẳng "ngân sách bao nhiêu" — dùng khung / dải / so sánh để thăm dò gián tiếp.*
 
 ---
 
 ## ⚠ Tránh
 
-- "予算いくらですか" — tone interrogation, khách đóng cửa
-- Probe price quá sớm (chưa qua Pain/Goal) → khách thấy "anh chỉ quan tâm tiền"
-- Bỏ qua khi khách trả lời mơ hồ ("検討中") → push thêm 1 cách lịch sự, không lùi
-- Quên repeat back range → khách không feel committed
+- "予算いくらですか" — tông tra hỏi, khách đóng cửa
+- Thăm dò giá quá sớm (chưa qua Pain/Goal) → khách thấy "anh chỉ quan tâm tiền"
+- Bỏ qua khi khách trả lời mơ hồ ("検討中") → đẩy thêm 1 cách lịch sự, không lùi
+- Quên nhắc lại dải số → khách không cảm thấy đã cam kết
 
 ---
 
@@ -1232,7 +1375,7 @@ Trong discovery (rule 12 step Budget), Dũng cần probe budget ceiling của Ha
 
 # Rule 16 — Confirm decision authority / 決裁者確認
 
-> **Luận điểm.** Tỉnh táo: ai trong phòng là **真の決裁者**, ai chỉ là người gác cửa (gatekeeper). Câu hỏi chuẩn: "最終決裁は〜様でいらっしゃいますでしょうか？" + "ご決裁の前に、技術検証や予算審議など、どのようなステップが残っていらっしゃいますか？" Bỏ sót → quote sai người, mất thời gian.
+> **Luận điểm.** Tỉnh táo: ai trong phòng là **真の決裁者**, ai chỉ là người gác cửa (gatekeeper). Câu hỏi chuẩn: "最終決裁は〜様でいらっしゃいますでしょうか？" + "ご決裁の前に、技術検証や予算審議など、どのようなステップが残っていらっしゃいますか？" Bỏ sót → báo giá sai người, mất thời gian.
 >
 > 商談中、誰が真の決裁者で誰が gatekeeper か必ず確認。「最終決裁は〜様でしょうか」+「決裁前のステップは何が残っていますか」の2段階質問。
 >
@@ -1242,56 +1385,65 @@ Trong discovery (rule 12 step Budget), Dũng cần probe budget ceiling của Ha
 
 ## Bối cảnh / 場面
 
-Trong discovery Decision step (rule 12), Dũng đã hỏi sơ "ai duyệt". Bây giờ confirm ranking thực sự + steps remaining.
+Trong bước Decision của discovery (rule 12), Dũng đã hỏi sơ "ai duyệt". Bây giờ xác nhận thứ bậc quyền duyệt thực sự + các bước còn lại.
 
 ---
 
-## ❌ Hội thoại XẤU — confirm sai người
+## ❌ Hội thoại XẤU — xác nhận sai người
 
 *微妙な顔*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「決裁は大垣部長様ですよね？」 |
-| **大垣** | 「私は予算 ¥10M までです。¥18M なら中村 CFO 決裁です。」 |
-| **ズン** | 「あ、そうですか。じゃあ大垣様にも CFO に伝えていただけますか？」 |
-| **大垣** | 「いや、CFO 同席されてますが…」 |
+| **ズン** | 「<ruby>決裁<rt>けっさい</rt></ruby>は<ruby>大垣<rt>おおがき</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>様ですよね？」 |
+|  | *Người duyệt là anh Ōgaki phải không ạ?* |
+| **大垣** | 「私は<ruby>予算<rt>よさん</rt></ruby> ¥10M までです。¥18M なら<ruby>中村<rt>なかむら</rt></ruby> CFO <ruby>決裁<rt>けっさい</rt></ruby>です。」 |
+|  | *Tôi quyền tới ¥10M. ¥18M là CFO Nakamura duyệt.* |
+| **ズン** | 「あ、そうですか。じゃあ大垣様にも CFO に<ruby>伝<rt>つた</rt></ruby>えていただけますか？」 |
+|  | *À thế ạ. Vậy phiền anh Ōgaki chuyển cho CFO giúp em được không ạ?* |
+| **大垣** | 「いや、CFO <ruby>同席<rt>どうせき</rt></ruby>されてますが…」 |
+|  | *Ơ, CFO đang ngồi cùng đây mà...* |
 
-**Vì sao xấu:** Confirm decision sai → CFO ngay đó mà ignore → mất 顔 to. Cũng là dấu hiệu Dũng không research kỹ rule 04.
+**Vì sao xấu:** Xác nhận người quyết định sai → CFO ngồi ngay đó mà bỏ qua → mất 顔 (thể diện) to. Cũng là dấu hiệu Dũng không tìm hiểu kỹ rule 04.
 
 ---
 
-## ✅ Hội thoại TỐT — confirm đầy đủ + remaining steps
+## ✅ Hội thoại TỐT — xác nhận đầy đủ + các bước còn lại
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「**最終決裁につきまして** — 本件は ¥18M 帯ですので、中村 CFO 様のご決裁、加えて取締役会付議という理解でよろしいでしょうか【1】？」 |
-| **中村CFO** | 「はい、私の決裁 + 取締役会報告です。¥20M 超えると取締役会承認が必要になります。」 |
-| **ズン** | 「承知しました。**決裁の前段階で、技術 review、予算審議、法務 check など、どのようなステップが残っていらっしゃいますでしょうか**【2】？」 |
-| **大垣** | 「IT 部門長 technical review (rule 13 で出た件)、経理部の予算 cycle 審議、そして最終的に法務 contract review。3 ステップで、合計 3 週間程度です。」 |
-| **ズン** | 「**3 ステップ・3 週間、加えて取締役会の付議タイミング**【3】、ありがとうございます。それを踏まえて Timeline を組み直します。」 |
+| **ズン** | 「**<ruby>最終<rt>さいしゅう</rt></ruby><ruby>決裁<rt>けっさい</rt></ruby>につきまして** — <ruby>本件<rt>ほんけん</rt></ruby>は ¥18M <ruby>帯<rt>たい</rt></ruby>ですので、<ruby>中村<rt>なかむら</rt></ruby> CFO 様のご決裁、<ruby>加<rt>くわ</rt></ruby>えて<ruby>取締役会付議<rt>とりしまりやくかいふぎ</rt></ruby>という<ruby>理解<rt>りかい</rt></ruby>でよろしいでしょうか【1】？」 |
+|  | *Về duyệt cuối — vụ này ở dải ¥18M, em hiểu là anh Nakamura CFO duyệt + đưa lên HĐQT, có đúng không ạ?* |
+| **中村CFO** | 「はい、私の決裁 + <ruby>取締役会<rt>とりしまりやくかい</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby>です。¥20M <ruby>超<rt>こ</rt></ruby>えると取締役会<ruby>承認<rt>しょうにん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>になります。」 |
+|  | *Đúng, tôi duyệt + báo cáo HĐQT. Vượt ¥20M là cần HĐQT phê duyệt.* |
+| **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。**決裁の<ruby>前段階<rt>ぜんだんかい</rt></ruby>で、<ruby>技術<rt>ぎじゅつ</rt></ruby> review、<ruby>予算審議<rt>よさんしんぎ</rt></ruby>、<ruby>法務<rt>ほうむ</rt></ruby> check など、どのようなステップが<ruby>残<rt>のこ</rt></ruby>っていらっしゃいますでしょうか**【2】？」 |
+|  | *Em rõ ạ. Trước khi duyệt còn step nào ạ — kiểu technical review, thẩm định budget, hay legal check ạ?* |
+| **大垣** | 「IT <ruby>部門長<rt>ぶもんちょう</rt></ruby> technical review (rule 13 で出た件)、<ruby>経理部<rt>けいりぶ</rt></ruby>の予算 cycle 審議、そして<ruby>最終的<rt>さいしゅうてき</rt></ruby>に法務 contract review。3 ステップで、<ruby>合計<rt>ごうけい</rt></ruby> 3 <ruby>週間<rt>しゅうかん</rt></ruby><ruby>程度<rt>ていど</rt></ruby>です。」 |
+|  | *Trưởng phòng IT review technical, phòng kế toán thẩm định budget cycle, cuối cùng là pháp chế review hợp đồng. 3 step, tổng khoảng 3 tuần.* |
+| **ズン** | 「**3 ステップ・3 週間、加えて取締役会の付議タイミング**【3】、ありがとうございます。それを<ruby>踏<rt>ふ</rt></ruby>まえて Timeline を<ruby>組<rt>く</rt></ruby>み<ruby>直<rt>なお</rt></ruby>します。」 |
+|  | *3 step / 3 tuần, kèm timing đưa lên HĐQT — em cảm ơn ạ. Em sẽ ghép lại Timeline dựa trên đó ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**Confirm decision authority + reporting line** — không chỉ "ai duyệt" mà cả "ai cần báo cáo" (取締役会).
-- 【2】**Remaining steps question** = key. Khám phá technical / budget / legal review là 3 step phổ biến, mỗi step 1 tuần.
-- 【3】**Repeat back ステップ + 期間** — confirm hiểu đúng + dùng làm cơ sở khi tính timeline.
+- 【1】**Xác nhận thẩm quyền quyết định + tuyến báo cáo** — không chỉ "ai duyệt" mà cả "ai cần báo cáo" (取締役会).
+- 【2】**Câu hỏi về các bước còn lại** = mấu chốt. Khám phá technical / budget / legal review là 3 bước phổ biến, mỗi bước 1 tuần.
+- 【3】**Nhắc lại ステップ + 期間** — xác nhận hiểu đúng + dùng làm cơ sở khi tính timeline.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「最終決裁者 + 残ステップ + 期間 を明示的に確認。曖昧なまま提案するとtimeline崩壊。」**
+> **「<ruby>最終<rt>さいしゅう</rt></ruby><ruby>決裁者<rt>けっさいしゃ</rt></ruby> + <ruby>残<rt>のこ</rt></ruby>ステップ + <ruby>期間<rt>きかん</rt></ruby> を<ruby>明示的<rt>めいじてき</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>。<ruby>曖昧<rt>あいまい</rt></ruby>なまま<ruby>提案<rt>ていあん</rt></ruby>するとtimeline<ruby>崩壊<rt>ほうかい</rt></ruby>。」**
 >
-> *Decision-maker + remaining steps + thời gian — confirm rõ. Mơ hồ là timeline vỡ.*
+> *Người quyết định + các bước còn lại + thời gian — xác nhận rõ. Mơ hồ là timeline vỡ.*
 
 ---
 
 ## ⚠ Tránh
 
-- Đoán decision-maker → quote sai người
+- Đoán người quyết định → báo giá sai người
 - Hỏi "ai duyệt" mà không hỏi "còn bước nào" → biết tên nhưng không biết cách
-- Senior khách (CFO) ngồi đó mà nhìn về phía 部長 → mất 顔
-- Quên repeat back ステップ → khách không feel committed timeline
+- Người cấp cao bên khách (CFO) ngồi đó mà nhìn về phía 部長 → mất 顔 (thể diện)
+- Quên nhắc lại ステップ → khách không thấy cam kết với timeline
 
 ---
 
@@ -1310,9 +1462,9 @@ Trong discovery Decision step (rule 12), Dũng đã hỏi sơ "ai duyệt". Bây
 
 # Rule 17 — Time-box discussion / 時間管理
 
-> **Luận điểm.** Đàm phán 60 phút mà discovery ngốn 50 phút → không còn budget cho price + closing. Time-box mỗi phần (10/30/20) đã agreed ở rule 11. Khi discovery vượt 25 phút, **soft transition** "そろそろ次の段階に" — không "切ります" cứng.
+> **Luận điểm.** Đàm phán 60 phút mà discovery ngốn 50 phút → không còn thời gian cho price + closing. Time-box mỗi phần (10/30/20) đã chốt ở rule 11. Khi discovery vượt 25 phút, **chuyển mềm** (soft transition) "そろそろ次の段階に" — không "切ります" cứng.
 >
-> 商談時間は最初に合意した配分 (10/30/20分) を守る。soft transition で次フェーズへ。固い「切ります」は relationship を傷つける。
+> <ruby>商談時間<rt>しょうだんじかん</rt></ruby>は<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>合意<rt>ごうい</rt></ruby>した<ruby>配分<rt>はいぶん</rt></ruby> (10/30/20分) を<ruby>守<rt>まも</rt></ruby>る。soft transition で<ruby>次<rt>つぎ</rt></ruby>フェーズへ。<ruby>固<rt>かた</rt></ruby>い「<ruby>切<rt>き</rt></ruby>ります」は relationship を<ruby>傷<rt>きず</rt></ruby>つける。
 >
 > **Liên quan:** sách 05 rule_13, rule 11 (agenda agreed), rule 18 (anchoring 開始).
 
@@ -1320,7 +1472,7 @@ Trong discovery Decision step (rule 12), Dũng đã hỏi sơ "ai duyệt". Bây
 
 ## Bối cảnh / 場面
 
-Discovery rule 12-16 đã ngốn 30 phút (đúng agenda). Dũng cần soft transition sang phase 提案+価格 (10 phút deck + 20 phút price). 大垣 vẫn muốn hỏi thêm.
+Discovery rule 12-16 đã ngốn 30 phút (đúng agenda). Dũng cần chuyển mềm sang phase 提案+価格 (10 phút deck + 20 phút price). 大垣 vẫn muốn hỏi thêm.
 
 ---
 
@@ -1328,49 +1480,57 @@ Discovery rule 12-16 đã ngốn 30 phút (đúng agenda). Dũng cần soft tran
 
 *時計見て · 微妙に*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **大垣** | 「あ、もう1つ伺いたいんですが、AI モデルの再学習頻度は…」 |
-| **ズン** | 「すみません、もう discovery 時間が終わりですので、次へ進みます。」 |
+| **大垣** | 「あ、もう1つ<ruby>伺<rt>うかが</rt></ruby>いたいんですが、AI モデルの<ruby>再学習頻度<rt>さいがくしゅうひんど</rt></ruby>は…」 |
+|  | *À, tôi muốn hỏi thêm 1 ý — tần suất re-train AI model là...* |
+| **ズン** | 「すみません、もう discovery <ruby>時間<rt>じかん</rt></ruby>が<ruby>終<rt>お</rt></ruby>わりですので、<ruby>次<rt>つぎ</rt></ruby>へ<ruby>進<rt>すす</rt></ruby>みます。」 |
+|  | *Em xin lỗi, hết thời gian discovery rồi nên em chuyển tiếp ạ.* |
 | **大垣** | 「あ、はい…」 |
+|  | *À, vâng...* |
 
-**Vì sao xấu:** Cứng "終わりですので、次へ進みます" = lạnh, mất relationship. 大垣 cảm "không được nghe". Cũng không acknowledge câu hỏi quan trọng của khách.
+**Vì sao xấu:** Cứng "終わりですので、次へ進みます" = lạnh, mất quan hệ. 大垣 cảm "không được nghe". Cũng không ghi nhận câu hỏi quan trọng của khách.
 
-**Pattern XẤU 2** (ngược lại): để discovery chạy quá giờ → 60 phút mà chưa đến giá → kết thúc deals chưa quote → next meeting cần lại.
+**Công thức XẤU 2** (ngược lại): để discovery chạy quá giờ → 60 phút mà chưa đến giá → kết thúc thương vụ chưa quote → buổi họp sau phải làm lại.
 
 ---
 
-## ✅ Hội thoại TỐT — soft transition + park question
+## ✅ Hội thoại TỐT — chuyển mềm + tạm gác câu hỏi
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「あ、もう1つ伺いたいんですが、AI モデルの再学習頻度は…」 |
-| **ズン** | 「**いいご質問ありがとうございます**。再学習頻度は重要点なので、**price の段階にあわせて詳しくご説明させていただきます**【1】 — モデル運用 cost に直結しますので。」 |
-| **ズン** | 「**そろそろ提案の概要に移らせていただいてもよろしいでしょうか**【2】？10分でご説明、その後の Q&A + 価格議論で残り時間を使う想定です。」 |
-| **大垣** | 「お願いします。」 |
-| **ズン** | 「**お時間 30 分経過、agenda 通りに進んでおります**【3】。提案は3 段階でご用意しております…」 |
+|  | *À, tôi muốn hỏi thêm 1 ý — tần suất re-train AI model là...* |
+| **ズン** | 「**いいご<ruby>質問<rt>しつもん</rt></ruby>ありがとうございます**。再学習頻度は<ruby>重要点<rt>じゅうようてん</rt></ruby>なので、**price の<ruby>段階<rt>だんかい</rt></ruby>にあわせて<ruby>詳<rt>くわ</rt></ruby>しくご<ruby>説明<rt>せつめい</rt></ruby>させていただきます**【1】 — モデル<ruby>運用<rt>うんよう</rt></ruby> cost に<ruby>直結<rt>ちょっけつ</rt></ruby>しますので。」 |
+|  | *Câu hỏi rất hay ạ, em cảm ơn. Tần suất re-train là điểm quan trọng nên xin phép em giải thích kỹ ở phần giá ạ — gắn liền với cost vận hành model.* |
+| **ズン** | 「**そろそろ<ruby>提案<rt>ていあん</rt></ruby>の<ruby>概要<rt>がいよう</rt></ruby>に<ruby>移<rt>うつ</rt></ruby>らせていただいてもよろしいでしょうか**【2】？10分でご説明、その<ruby>後<rt>ご</rt></ruby>の Q&A + <ruby>価格議論<rt>かかくぎろん</rt></ruby>で<ruby>残<rt>のこ</rt></ruby>り時間を<ruby>使<rt>つか</rt></ruby>う<ruby>想定<rt>そうてい</rt></ruby>です。」 |
+|  | *Có lẽ em xin phép chuyển sang tổng quan đề xuất ạ? 10 phút trình bày, sau đó dùng thời gian còn lại cho Q&A + bàn giá ạ.* |
+| **大垣** | 「お<ruby>願<rt>ねが</rt></ruby>いします。」 |
+|  | *Mời em.* |
+| **ズン** | 「**お時間 30 分<ruby>経過<rt>けいか</rt></ruby>、agenda <ruby>通<rt>どお</rt></ruby>りに<ruby>進<rt>すす</rt></ruby>んでおります**【3】。提案は3 段階でご<ruby>用意<rt>ようい</rt></ruby>しております…」 |
+|  | *Đã trôi qua 30 phút, đang đúng agenda ạ. Em đã chuẩn bị đề xuất 3 tier...* |
 
 📝 **Ghi chú:**
-- 【1】**Tạm gác câu hỏi chứ không bỏ** — "next phaseで詳しく" = honor question + control time. Khách feel respected.
-- 【2】**「そろそろ〜よろしいでしょうか」** = soft transition phrase. Khác với "終わりですので".
-- 【3】**Time check vocal** — gọi tên agenda progress giúp cả 2 bên track time. Cũng là tactic để control.
+- 【1】**Tạm gác câu hỏi chứ không bỏ** — "next phaseで詳しく" = tôn trọng câu hỏi + kiểm soát thời gian. Khách thấy được coi trọng.
+- 【2】**「そろそろ〜よろしいでしょうか」** = câu chuyển mềm mặc định. Khác với "終わりですので".
+- 【3】**Đọc tiến độ thời gian thành tiếng** — gọi tên tiến độ agenda giúp cả 2 bên cùng theo dõi thời gian. Cũng là chiêu để giữ thế chủ động.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「『そろそろ次へ』+ 質問は park。固い『時間ですので』は relationship 傷つける。」**
+> **「『そろそろ<ruby>次<rt>つぎ</rt></ruby>へ』+ 質問は park。<ruby>固<rt>かた</rt></ruby>い『時間ですので』は relationship <ruby>傷<rt>きず</rt></ruby>つける。」**
 >
-> *"Có lẽ giờ chuyển sang phần tiếp..." + tạm gác câu hỏi. KHÔNG cứng "đã hết giờ". Cứng = hại relationship.*
+> *"Có lẽ giờ chuyển sang phần tiếp..." + tạm gác câu hỏi. KHÔNG cứng "đã hết giờ". Cứng = hại quan hệ.*
 
 ---
 
 ## ⚠ Tránh
 
 - 「時間ですので切ります」cứng → khách lạnh
-- Để discovery chạy quá 50 phút → không đến giá
+- Để discovery chạy quá 50 phút (quá giờ) → không đến giá
 - Tạm gác câu hỏi rồi quên không quay lại trong Q&A → khách cảm thấy bị phớt lờ
-- Không gọi tên agenda time check → cả 2 bên drift
+- Không gọi tên tiến độ thời gian theo agenda → cả 2 bên trôi dạt khỏi lịch trình
 
 ---
 
@@ -1412,14 +1572,18 @@ Sau soft transition (rule 17), Dũng vào phase 価格. Tuấn whisper "để h�
 
 *小声 · 同意 · 困*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「ズン、こっちが先に値段出すと足元見られる。先に向こうに言わせよう。」 |
-| **ズン** | 「では大垣様、Phase 3 の **予算感はおいくらでしたら検討可能でしょうか**？」 |
-| **大垣** | 「我々の希望は ¥14M 程度です。」 |
+| **トゥアン** | 「ズン、こっちが<ruby>先<rt>さき</rt></ruby>に<ruby>値段<rt>ねだん</rt></ruby><ruby>出<rt>だ</rt></ruby>すと<ruby>足元<rt>あしもと</rt></ruby>を<ruby>見<rt>み</rt></ruby>られる。<ruby>先<rt>さき</rt></ruby>に<ruby>向<rt>む</rt></ruby>こうに<ruby>言<rt>い</rt></ruby>わせよう。」 |
+|  | *Dũng, mình quote trước là bị bắt thóp. Để bên kia quote trước đi.* |
+| **ズン** | 「では<ruby>大垣<rt>おおがき</rt></ruby>様、Phase 3 の **<ruby>予算感<rt>よさんかん</rt></ruby>はおいくらでしたら<ruby>検討<rt>けんとう</rt></ruby><ruby>可能<rt>かのう</rt></ruby>でしょうか**？」 |
+|  | *Vậy thưa anh Ōgaki, cảm giác ngân sách Phase 3 ở mức nào thì quý cty xem xét được ạ?* |
+| **大垣** | 「<ruby>我々<rt>われわれ</rt></ruby>の<ruby>希望<rt>きぼう</rt></ruby>は ¥14M <ruby>程度<rt>ていど</rt></ruby>です。」 |
+|  | *Mong muốn bên tôi tầm ¥14M.* |
 | **ズン** | 「えっ、¥14M ですか…」 |
+|  | *Ơ, ¥14M ạ...* |
 
-**Vì sao xấu:** Dũng đã có ZOPA mapping (rule 02) — biết ceiling ¥17M. Để khách go first → khách anchor low ¥14M → "anchor war" không có lợi cho mình. Lúc này phải go first ¥19M để pull median lên ~¥17-18M.
+**Vì sao xấu:** Dũng đã có ZOPA mapping (rule 02) — biết trần ¥17M. Để khách go first → khách anchor thấp ¥14M → "anchor war" không có lợi cho mình. Lúc này phải go first ¥19M để kéo điểm giữa lên ~¥17-18M.
 
 ---
 
@@ -1427,13 +1591,18 @@ Sau soft transition (rule 17), Dũng vào phase 価格. Tuấn whisper "để h�
 
 *deck slide 価格表 · 沈黙2秒 · 沈黙保持 5秒*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「価格について、本日 3 段階でご提案させていただいております。**まずは Better tier — ¥18M、Anchor として Best tier ¥24M も併せて**【1】、ご検討の materialとしてお持ちしました。」 |
-| **ズン** | 「**¥18M の根拠は**、Phase 2 比 +24%、AI レコメンドエンジンの開発工数 + 専任 PM + SLA 99.9% を含めた構成。**御社の +¥80M GMV インパクトに対し ROI 4.4 倍**【2】に位置します。」 |
+| **ズン** | 「<ruby>価格<rt>かかく</rt></ruby>について、<ruby>本日<rt>ほんじつ</rt></ruby> 3 <ruby>段階<rt>だんかい</rt></ruby>でご<ruby>提案<rt>ていあん</rt></ruby>させていただいております。**まずは Better tier — ¥18M、Anchor として Best tier ¥24M も<ruby>併<rt>あわ</rt></ruby>せて**【1】、ご<ruby>検討<rt>けんとう</rt></ruby>の materialとしてお<ruby>持<rt>も</rt></ruby>ちしました。」 |
+|  | *Về giá, hôm nay em đề xuất 3-tier ạ. Trước hết là Better tier ¥18M, kèm Best tier ¥24M làm anchor, em mang theo làm material để quý anh xem xét ạ.* |
+| **ズン** | 「**¥18M の<ruby>根拠<rt>こんきょ</rt></ruby>は**、Phase 2 <ruby>比<rt>ひ</rt></ruby> +24%、AI レコメンドエンジンの<ruby>開発<rt>かいはつ</rt></ruby><ruby>工数<rt>こうすう</rt></ruby> + <ruby>専任<rt>せんにん</rt></ruby> PM + SLA 99.9% を<ruby>含<rt>ふく</rt></ruby>めた<ruby>構成<rt>こうせい</rt></ruby>。**<ruby>御社<rt>おんしゃ</rt></ruby>の +¥80M GMV インパクトに<ruby>対<rt>たい</rt></ruby>し ROI 4.4 <ruby>倍<rt>ばい</rt></ruby>**【2】に<ruby>位置<rt>いち</rt></ruby>します。」 |
+|  | *Cơ sở ¥18M: tăng 24% so Phase 2, gồm dev AI recommend engine + PM chuyên trách + SLA 99.9%. So với impact +¥80M GMV của quý cty, ROI ở mức 4.4 lần ạ.* |
 | **大垣** | 「…¥18M ですね。」 |
-| **ズン** | (沈黙) |
-| **大垣** | 「悪くない数字ですが、社内で議論が必要です。」 |
+|  | *...¥18M nhỉ.* |
+| **ズン** | (<ruby>沈黙<rt>ちんもく</rt></ruby>) |
+|  | *(im lặng)* |
+| **大垣** | 「<ruby>悪<rt>わる</rt></ruby>くない<ruby>数字<rt>すうじ</rt></ruby>ですが、<ruby>社内<rt>しゃない</rt></ruby>で<ruby>議論<rt>ぎろん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。」 |
+|  | *Con số không tệ, nhưng cần thảo luận nội bộ.* |
 
 📝 **Ghi chú:**
 - 【1】**Anchor 構造**: 出 Better (target) + Best (high anchor). 両方見せると Better が "現実解" に見える (rule 06 連携).
@@ -1453,9 +1622,9 @@ Sau soft transition (rule 17), Dũng vào phase 価格. Tuấn whisper "để h�
 
 ## ⚠ Tránh
 
-- Go first khi ZOPA chưa map → anchor sai cả ceiling lẫn floor
-- Quote anchor mà không kèm root cause → khách dễ thấy "vô lý"
-- Sau anchor, lập tức nói thêm để lấp im lặng → kill anchoring effect (rule 25)
+- Go first khi ZOPA chưa map → anchor sai cả trần lẫn sàn
+- Quote anchor mà không kèm cơ sở → khách dễ thấy "vô lý"
+- Sau anchor, lập tức nói thêm để lấp im lặng → triệt tiêu hiệu ứng anchoring (rule 25)
 - Để khách quote trước rồi mới ra anchor cao hơn — vẫn có hiệu lực nhưng yếu hơn 30-50%
 
 ---
@@ -1475,7 +1644,7 @@ Sau soft transition (rule 17), Dũng vào phase 価格. Tuấn whisper "để h�
 
 # Rule 19 — Cấu trúc câu đề xuất giá / 価格提示フレーズ
 
-> **Luận điểm.** Khi quote giá, tránh "¥18M です" trần. Cấu trúc 4 phần: **(1) Frame** (まずは〜の価格帯で), **(2) Number** (¥18M), **(3) Justification** (cơ sở), **(4) Hand-off** (chuyển sang khách phản hồi). Câu trần ngắn → tone hời hợt. 4-part phrase → tone professional + giảm pushback.
+> **Luận điểm.** Khi quote giá, tránh "¥18M です" trần. Cấu trúc 4 phần: **(1) Frame** (まずは〜の価格帯で), **(2) Number** (¥18M), **(3) Justification** (cơ sở), **(4) Hand-off** (chuyển sang khách phản hồi). Câu trần ngắn → giọng hời hợt. 4-part phrase → giọng chuyên nghiệp + giảm phản kháng.
 >
 > 価格提示は4要素 (Frame・Number・Justification・Hand-off) で構成。「¥18M です」だけでは tone が軽くなる。
 >
@@ -1485,19 +1654,22 @@ Sau soft transition (rule 17), Dũng vào phase 価格. Tuấn whisper "để h�
 
 ## Bối cảnh / 場面
 
-Sau anchor (rule 18), khách push back. Dũng cần phrase chuẩn cho counter offer ¥17.5M kèm trade契約2年化.
+Sau anchor (rule 18), khách phản kháng. Dũng cần phrase chuẩn cho counter offer ¥17.5M kèm trade 契約2年化 (đổi lấy hợp đồng 2 năm).
 
 ---
 
 ## ❌ Hội thoại XẤU — quote trần ngắn
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **大垣** | 「¥18M は厳しい。¥15M でいかがですか？」 |
+| **大垣** | 「¥18M は<ruby>厳<rt>きび</rt></ruby>しい。¥15M でいかがですか？」 |
+|  | *¥18M căng quá. ¥15M nhé?* |
 | **ズン** | 「えーと、¥17M で。」 |
+|  | *Ờ, ¥17M ạ.* |
 | **大垣** | 「¥17M ですか…」 |
+|  | *¥17M ạ...* |
 
-**Vì sao xấu:** Quote trần "¥17M で" → 大垣 đọc là "easy concession", push tiếp. Không có justification, không có trade. Mất leverage.
+**Vì sao xấu:** Quote trần "¥17M で" → 大垣 đọc là "nhượng bộ dễ dàng" (easy concession), ép tiếp. Không có justification, không có trade. Mất đòn bẩy.
 
 ---
 
@@ -1505,34 +1677,38 @@ Sau anchor (rule 18), khách push back. Dũng cần phrase chuẩn cho counter o
 
 *沈黙3秒*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **大垣** | 「¥18M は厳しい。¥15M でいかがですか？」 |
-| **ズン** | 「ご指摘の点、もっともでございます【1】。**フレーム**: 御社のコスト圧縮方針を踏まえ、構成を見直して再提案いたします。**金額**: **¥17.5M**。**根拠**: AI レコメンドエンジン coreは維持、但し dashboard カスタム部分を Phase 2 のテンプレート流用 (-工数 8%)【2】。**条件として**: 契約期間を 2 年契約へ延長していただければ、この価格でご提供可能です【3】。」 |
-| **大垣** | 「2 年契約の点、確認が必要です。」 |
-| **ズン** | 「もちろんです、お時間をお取りいただいて結構です。」 |
+| **大垣** | 「¥18M は<ruby>厳<rt>きび</rt></ruby>しい。¥15M でいかがですか？」 |
+|  | *¥18M căng quá. ¥15M nhé?* |
+| **ズン** | 「ご<ruby>指摘<rt>してき</rt></ruby>の点、もっともでございます【1】。**フレーム**: <ruby>御社<rt>おんしゃ</rt></ruby>のコスト<ruby>圧縮<rt>あっしゅく</rt></ruby><ruby>方針<rt>ほうしん</rt></ruby>を<ruby>踏<rt>ふ</rt></ruby>まえ、<ruby>構成<rt>こうせい</rt></ruby>を<ruby>見直<rt>みなお</rt></ruby>して<ruby>再提案<rt>さいていあん</rt></ruby>いたします。**金額**: **¥17.5M**。**根拠**: AI レコメンドエンジン coreは<ruby>維持<rt>いじ</rt></ruby>、<ruby>但<rt>ただ</rt></ruby>し dashboard カスタム部分を Phase 2 のテンプレート<ruby>流用<rt>りゅうよう</rt></ruby> (-<ruby>工数<rt>こうすう</rt></ruby> 8%)【2】。**条件として**: <ruby>契約期間<rt>けいやくきかん</rt></ruby>を 2 <ruby>年契約<rt>ねんけいやく</rt></ruby>へ<ruby>延長<rt>えんちょう</rt></ruby>していただければ、この<ruby>価格<rt>かかく</rt></ruby>でご<ruby>提供<rt>ていきょう</rt></ruby><ruby>可能<rt>かのう</rt></ruby>です【3】。」 |
+|  | *Em xin tiếp thu ý kiến quý anh ạ. Frame: dựa trên phương châm nén chi phí của quý công ty, em xem lại cấu thành để đề xuất lại. Số tiền: ¥17.5M. Cơ sở: giữ core AI recommend engine, nhưng phần dashboard custom dùng lại template Phase 2, giảm effort 8%. Điều kiện: nếu kéo hợp đồng lên 2 năm, em có thể cung cấp ở mức giá này ạ.* |
+| **大垣** | 「2 <ruby>年契約<rt>ねんけいやく</rt></ruby>の点、<ruby>確認<rt>かくにん</rt></ruby>が必要です。」 |
+|  | *Vụ hợp đồng 2 năm cần xác nhận lại.* |
+| **ズン** | 「もちろんです、お時間をお<ruby>取<rt>と</rt></ruby>りいただいて<ruby>結構<rt>けっこう</rt></ruby>です。」 |
+|  | *Tất nhiên ạ, quý anh cứ dành thời gian xem xét ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**Bridge phrase** "ご指摘の点、もっともでございます" — acknowledge khách trước khi counter (rule 26 cũng dùng).
-- 【2】**Justification cụ thể** — "Phase 2 テンプレート流用 -8%" thay vì "ちょっと安く". Khách Nhật trust số.
-- 【3】**Trade rõ ràng** "2 年契約していただければ" — counter có condition (rule 09 trade-back).
+- 【1】**Câu chuyển (bridge phrase)** "ご指摘の点、もっともでございます" — ghi nhận ý khách trước khi counter (rule 26 cũng dùng).
+- 【2】**Justification cụ thể** — "Phase 2 テンプレート流用 -8%" thay vì "ちょっと安く". Khách Nhật tin con số.
+- 【3】**Trade rõ ràng** "2 年契約していただければ" — counter có điều kiện đi kèm (rule 09 trade-back).
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「価格提示は4要素 (Frame・Number・Justification・Trade)。1要素抜けると leverage 失う。」**
+> **「<ruby>価格提示<rt>かかくていじ</rt></ruby>は4<ruby>要素<rt>ようそ</rt></ruby> (Frame・Number・Justification・Trade)。1<ruby>要素<rt>ようそ</rt></ruby><ruby>抜<rt>ぬ</rt></ruby>けると leverage <ruby>失<rt>うしな</rt></ruby>う。」**
 >
-> *Quote giá 4 yếu tố: Frame / Number / Justification / Trade. Thiếu 1 yếu tố là mất leverage.*
+> *Quote giá 4 yếu tố: Frame / Number / Justification / Trade. Thiếu 1 yếu tố là mất đòn bẩy.*
 
 ---
 
 ## ⚠ Tránh
 
-- "¥17M で" trần → easy concession signal
-- Quote không có Trade → unilateral concession (rule 09)
-- Justification mơ hồ "ちょっと安く" → không trust
-- Forget bridge phrase trước counter → tone confrontational
+- "¥17M で" trần → tín hiệu nhượng bộ dễ dàng
+- Quote không có Trade → nhượng bộ một chiều (rule 09)
+- Justification mơ hồ "ちょっと安く" → không tạo được niềm tin
+- Quên câu chuyển (bridge phrase) trước counter → giọng đối đầu
 
 ---
 
@@ -1557,7 +1733,7 @@ Sau anchor (rule 18), khách push back. Dũng cần phrase chuẩn cho counter o
 
 # Rule 20 — Đối phó với "高い" / 「高い」への対応
 
-> **Luận điểm.** "高い (đắt)" = signal khách quan tâm, KHÔNG phải reject. Pattern xử lý 3 bước: **(1) Ghi nhận** ("ご指摘の点、もっともでございます"), **(2) Đổi góc nhìn** (chuyển từ price sang value/ROI/chi phí khi không hành động), **(3) Option** (đưa scenario điều chỉnh có trade). Nhảy giảm giá ngay = rò giá trị.
+> **Luận điểm.** "高い (đắt)" = dấu hiệu khách quan tâm, KHÔNG phải từ chối. Công thức xử lý 3 bước: **(1) Ghi nhận** ("ご指摘の点、もっともでございます"), **(2) Đổi góc nhìn** (chuyển từ giá sang giá trị/ROI/chi phí khi không hành động), **(3) Phương án** (đưa kịch bản điều chỉnh có đánh đổi). Nhảy giảm giá ngay = rò giá trị.
 >
 > 「高い」は購買意欲のサイン、reject ではない。3ステップ (Acknowledge → Reframe → Option) で対応。即値引きは弱さ暴露。
 >
@@ -1575,14 +1751,18 @@ Sau anchor (rule 18), khách push back. Dũng cần phrase chuẩn cho counter o
 
 *慌 · 沈黙*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **中村CFO** | 「¥17.5M も高いですね。コスト圧縮中なので。」 |
+| **中村CFO** | 「¥17.5M も高いですね。コスト<ruby>圧縮<rt>あっしゅく</rt></ruby>中なので。」 |
+|  | *¥17.5M cũng đắt nhỉ. Đang nén chi phí mà.* |
 | **ズン** | 「あ、では ¥16M でいかがでしょうか？」 |
+|  | *À, vậy ¥16M được không ạ?* |
 | **中村CFO** | 「…¥16M でも高い。」 |
+|  | *...¥16M cũng đắt.* |
 | **ズン** | 「では ¥15M…」 |
+|  | *Vậy ¥15M ạ...* |
 
-**Vì sao xấu:** Phản xạ giảm 1.5M trong 5 giây = signal "còn dư địa". CFO sẽ push tiếp xuống ¥13M. Mất 2M+ chỉ vì mất bình tĩnh. Không ghi nhận, không đổi góc nhìn.
+**Vì sao xấu:** Phản xạ giảm 1.5M trong 5 giây = dấu hiệu "còn dư địa". CFO sẽ ép tiếp xuống ¥13M. Mất 2M+ chỉ vì mất bình tĩnh. Không ghi nhận, không đổi góc nhìn.
 
 ---
 
@@ -1590,19 +1770,24 @@ Sau anchor (rule 18), khách push back. Dũng cần phrase chuẩn cho counter o
 
 *沈黙2秒、その後 · 考え*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **中村CFO** | 「¥17.5M も高いですね。コスト圧縮中なので。」 |
-| **ズン** | 「**ご指摘の点、もっともでございます**【1】。コスト圧縮の方針、十分に理解しております。」 |
-| **ズン** | 「**ただ少し別の角度から**【2】 — Phase 3 を導入されない場合、現在の手動在庫調整 (営業部 5 名 × 年 240日 × 2 時間/日) ≒ 年 2,400 時間の運用工数が継続します。¥17.5M を 2 年で割れば月 ¥730K、運用工数削減 ¥1.2M/月 と比較すると **net positive ¥470K/月**【3】。」 |
-| **ズン** | 「**そのうえで、ご予算面でのご懸念があれば、以下のオプション**【4】**: (A) 2 年契約で ¥17.5M 維持、(B) 1 年契約 + scope -10% で ¥16M、(C) Best tier に拡大 ¥24M で AI dashboard 込み。御社のコスト感に合うのはどちらでしょうか？」 |
-| **中村CFO** | 「(A) の 2 年契約案、社内で持ち帰り検討します。」 |
+|  | *¥17.5M cũng đắt nhỉ. Đang nén chi phí mà.* |
+| **ズン** | 「**ご<ruby>指摘<rt>してき</rt></ruby>の点、もっともでございます**【1】。コスト圧縮の<ruby>方針<rt>ほうしん</rt></ruby>、十分に<ruby>理解<rt>りかい</rt></ruby>しております。」 |
+|  | *Em xin tiếp thu ý kiến quý anh ạ. Phương châm nén chi phí em hiểu đầy đủ ạ.* |
+| **ズン** | 「**ただ少し別の<ruby>角度<rt>かくど</rt></ruby>から**【2】 — Phase 3 を<ruby>導入<rt>どうにゅう</rt></ruby>されない場合、現在の手動<ruby>在庫調整<rt>ざいこちょうせい</rt></ruby> (営業部 5 名 × 年 240日 × 2 時間/日) ≒ 年 2,400 時間の<ruby>運用工数<rt>うんようこうすう</rt></ruby>が<ruby>継続<rt>けいぞく</rt></ruby>します。¥17.5M を 2 年で割れば月 ¥730K、運用工数<ruby>削減<rt>さくげん</rt></ruby> ¥1.2M/月 と<ruby>比較<rt>ひかく</rt></ruby>すると **net positive ¥470K/月**【3】。」 |
+|  | *Tuy nhiên xin phép em nhìn từ góc khác — không triển khai Phase 3 thì điều chỉnh tồn kho thủ công (5 KD × 240 ngày × 2h/ngày) ≒ 2.400h chi phí vận hành/năm tiếp tục. ¥17.5M chia 2 năm là ¥730K/tháng, so với giảm chi phí vận hành ¥1.2M/tháng — net positive ¥470K/tháng ạ.* |
+| **ズン** | 「**そのうえで、ご<ruby>予算面<rt>よさんめん</rt></ruby>でのご<ruby>懸念<rt>けねん</rt></ruby>があれば、以下のオプション**【4】**: (A) 2 年<ruby>契約<rt>けいやく</rt></ruby>で ¥17.5M <ruby>維持<rt>いじ</rt></ruby>、(B) 1 年契約 + scope -10% で ¥16M、(C) Best tier に拡大 ¥24M で AI dashboard 込み。御社のコスト感に合うのはどちらでしょうか？」 |
+|  | *Trên cơ sở đó, nếu vẫn lo về ngân sách, các phương án như sau: (A) Hợp đồng 2 năm giữ ¥17.5M, (B) Hợp đồng 1 năm + scope -10% còn ¥16M, (C) Mở rộng lên Best tier ¥24M kèm AI dashboard. Phương án nào phù hợp cảm giác chi phí của quý công ty ạ?* |
+| **中村CFO** | 「(A) の 2 年契約<ruby>案<rt>あん</rt></ruby>、社内で<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>検討<rt>けんとう</rt></ruby>します。」 |
+|  | *Phương án (A) hợp đồng 2 năm, chúng tôi mang về xem xét nội bộ.* |
 
 📝 **Ghi chú:**
-- 【1】**Ghi nhận trước** — không jump vào defense. Câu "ご指摘の点、もっともでございます" universal.
-- 【2】**Câu đổi góc nhìn** "別の角度から" — chuyển từ "high price" sang "chi phí khi không hành động" / "ROI compare".
-- 【3】**Reframe bằng số cụ thể** — 2,400 時間, ¥730K/月, ¥1.2M/月, net +¥470K/月. CFO trust số.
-- 【4】**Option phải 3, không phải 1** — choice architecture. Khách chọn thay vì reject toàn bộ.
+- 【1】**Ghi nhận trước** — không nhảy ngay vào phòng thủ. Câu "ご指摘の点、もっともでございます" dùng được mọi tình huống.
+- 【2】**Câu đổi góc nhìn** "別の角度から" — chuyển từ "giá cao" sang "chi phí khi không hành động" / "so sánh ROI".
+- 【3】**Đổi góc nhìn bằng số cụ thể** — 2.400 時間, ¥730K/月, ¥1.2M/月, net +¥470K/月. CFO tin con số.
+- 【4】**Phương án phải 3, không phải 1** — kiến trúc lựa chọn. Khách chọn thay vì từ chối toàn bộ.
 
 ---
 
@@ -1610,16 +1795,16 @@ Sau anchor (rule 18), khách push back. Dũng cần phrase chuẩn cho counter o
 
 > **「『高い』は購買意欲。Acknowledge → Reframe → 3 Option の3拍。即値引きは弱さの暴露。」**
 >
-> *"Đắt" là dấu mua. Ghi nhận → Đổi góc nhìn → 3 Option — 3 nhịp. Giảm ngay = phơi bày yếu thế.*
+> *"Đắt" là dấu hiệu muốn mua. Ghi nhận → Đổi góc nhìn → 3 phương án — 3 nhịp. Giảm ngay = phơi bày yếu thế.*
 
 ---
 
 ## ⚠ Tránh
 
-- 即値引き → leak value, push tiếp
-- Argue lại "高くないですよ" → confrontational, mất 顔
-- Đổi góc nhìn mơ hồ "value があります" → CFO không trust
-- Đưa 1 option duy nhất → khách chỉ có yes/no
+- 即値引き → rò giá trị, khách ép tiếp
+- Phản bác lại "高くないですよ" → đối đầu, mất 顔 (thể diện)
+- Đổi góc nhìn mơ hồ "value があります" → CFO không tin
+- Đưa 1 phương án duy nhất → khách chỉ có chọn hay không
 
 ---
 
@@ -1645,7 +1830,7 @@ Sau anchor (rule 18), khách push back. Dũng cần phrase chuẩn cho counter o
 
 # Rule 21 — Giảm scope thay vì giảm giá / 価格でなくスコープを削る
 
-> **Luận điểm.** Giảm giá đơn ¥18M → ¥16M = -11% margin **không hồi phục được**. Giảm scope (cắt feature, lùi deliverable, giảm SLA) → giữ unit price, giảm tổng tiền — về tài chính tương đương khách, về margin của mình **giữ nguyên 26%**. Khách Nhật accept tốt khi đề xuất rõ.
+> **Luận điểm.** Giảm giá đơn ¥18M → ¥16M = -11% margin **không hồi phục được**. Giảm scope (cắt tính năng, lùi hạng mục bàn giao, giảm SLA) → giữ đơn giá, giảm tổng tiền — về tài chính tương đương khách, về margin của mình **giữ nguyên 26%**. Khách Nhật dễ chấp nhận khi đề xuất rõ.
 >
 > 「scope -10% で ¥17M」は「¥17M ベタ値引き」より粗利率を保つ。価格でなく scope を交渉軸にする習慣。
 >
@@ -1655,7 +1840,7 @@ Sau anchor (rule 18), khách push back. Dũng cần phrase chuẩn cho counter o
 
 ## Bối cảnh / 場面
 
-CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M trên 1 năm". Dũng phải counter bằng scope cut chứ không phải giảm giá thuần.
+CFO chọn phương án (A) ¥17.5M 2 năm (rule 20). Nhưng 大垣 ép thêm "¥16M trên 1 năm". Dũng phải đáp trả bằng cắt scope chứ không phải giảm giá thuần.
 
 ---
 
@@ -1663,36 +1848,44 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 
 *計算なし*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **大垣** | 「中村 CFO は 2 年契約 OK、但し 1 年契約版だと ¥16M でいけませんか？」 |
+| **大垣** | 「<ruby>中村<rt>なかむら</rt></ruby> CFO は 2 <ruby>年<rt>ねん</rt></ruby><ruby>契約<rt>けいやく</rt></ruby> OK、<ruby>但<rt>ただ</rt></ruby>し 1 年契約<ruby>版<rt>ばん</rt></ruby>だと ¥16M でいけませんか？」 |
+|  | *CFO Nakamura OK hợp đồng 2 năm, nhưng bản 1 năm thì ¥16M được không?* |
 | **ズン** | 「えーと、では ¥16M で。」 |
-| (内部 Slack 翌日) **ハー CTO** | 「¥16M で同じ scope は粗利 14%、Phase 2 と同じスタッフ配置不可。なんで scope そのままで値引きした？」 |
+|  | *Ờ, vậy ¥16M ạ.* |
+| (<ruby>内部<rt>ないぶ</rt></ruby> Slack <ruby>翌日<rt>よくじつ</rt></ruby>) **ハー CTO** | 「¥16M で<ruby>同<rt>おな</rt></ruby>じ scope は<ruby>粗利<rt>あらり</rt></ruby> 14%、Phase 2 と同じスタッフ<ruby>配置<rt>はいち</rt></ruby><ruby>不可<rt>ふか</rt></ruby>。なんで scope そのままで<ruby>値引<rt>ねび</rt></ruby>きした？」 |
+|  | *(Slack nội bộ hôm sau) ¥16M giữ nguyên scope là margin 14%, không bố trí staff như Phase 2 được. Sao lại giảm giá mà giữ scope?* |
 
-**Vì sao xấu:** Giảm ¥1.5M nhưng scope vẫn nguyên → margin từ 26% xuống 14%. Internal financial pain. Đáng ra phải cắt scope tương đương để giữ margin.
+**Vì sao xấu:** Giảm ¥1.5M nhưng scope vẫn nguyên → margin từ 26% xuống 14%. Tổn thất tài chính nội bộ. Đáng ra phải cắt scope tương đương để giữ margin.
 
 ---
 
 ## ✅ Hội thoại TỐT — counter bằng scope cut
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「中村 CFO は 2 年契約 OK、但し 1 年契約版だと ¥16M でいけませんか？」 |
-| **ズン** | 「ご検討ありがとうございます。1 年契約 + ¥16M でしたら、**スコープ調整が必要**【1】になります。具体的には、AI dashboard カスタム部分 (-工数 ¥1M) + 専任 PM 半常駐化 (-工数 ¥0.5M) を Phase 4 に後出し【2】、これで ¥16M、SLA 99.5% (Better は 99.9%) も同時調整。」 |
-| **大垣** | 「AI dashboard を Phase 4 に？導入後で困りますか？」 |
-| **ズン** | 「AI レコメンドエンジン core は Phase 3 で稼働、dashboard は Phase 2 流用版で代替可能です。**unit price (機能あたり単価) は同等のまま、総額調整**【3】という形です。Phase 4 着手時に dashboard 追加で +¥1M、その時に再ご相談という形ではいかがでしょうか？」 |
-| **大垣** | 「unit price 同等であれば社内説明しやすい。検討します。」 |
+|  | *CFO Nakamura OK hợp đồng 2 năm, nhưng bản 1 năm thì ¥16M được không?* |
+| **ズン** | 「ご<ruby>検討<rt>けんとう</rt></ruby>ありがとうございます。1 年契約 + ¥16M でしたら、**スコープ<ruby>調整<rt>ちょうせい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>**【1】になります。<ruby>具体的<rt>ぐたいてき</rt></ruby>には、AI dashboard カスタム<ruby>部分<rt>ぶぶん</rt></ruby> (-<ruby>工数<rt>こうすう</rt></ruby> ¥1M) + <ruby>専任<rt>せんにん</rt></ruby> PM <ruby>半常駐化<rt>はんじょうちゅうか</rt></ruby> (-工数 ¥0.5M) を Phase 4 に<ruby>後出<rt>あとだ</rt></ruby>し【2】、これで ¥16M、SLA 99.5% (Better は 99.9%) も<ruby>同時<rt>どうじ</rt></ruby>調整。」 |
+|  | *Em cảm ơn quý anh đã xem xét ạ. Hợp đồng 1 năm + ¥16M thì cần điều chỉnh scope ạ. Cụ thể: phần custom AI dashboard (-effort ¥1M) + PM chuyên trách bán-túc trực (-effort ¥0.5M) đẩy sang Phase 4, tổng thành ¥16M, đồng thời SLA điều chỉnh 99.5% (Better 99.9%) ạ.* |
+| **大垣** | 「AI dashboard を Phase 4 に？<ruby>導入後<rt>どうにゅうご</rt></ruby>で<ruby>困<rt>こま</rt></ruby>りますか？」 |
+|  | *AI dashboard sang Phase 4? Sau triển khai có khó không?* |
+| **ズン** | 「AI レコメンドエンジン core は Phase 3 で<ruby>稼働<rt>かどう</rt></ruby>、dashboard は Phase 2 <ruby>流用版<rt>りゅうようばん</rt></ruby>で<ruby>代替可能<rt>だいたいかのう</rt></ruby>です。**unit price (<ruby>機能<rt>きのう</rt></ruby>あたり<ruby>単価<rt>たんか</rt></ruby>) は<ruby>同等<rt>どうとう</rt></ruby>のまま、<ruby>総額<rt>そうがく</rt></ruby>調整**【3】という<ruby>形<rt>かたち</rt></ruby>です。Phase 4 <ruby>着手時<rt>ちゃくしゅじ</rt></ruby>に dashboard <ruby>追加<rt>ついか</rt></ruby>で +¥1M、その<ruby>時<rt>とき</rt></ruby>に<ruby>再<rt>さい</rt></ruby>ご<ruby>相談<rt>そうだん</rt></ruby>という形ではいかがでしょうか？」 |
+|  | *Core AI recommend engine vẫn vận hành ở Phase 3, dashboard dùng bản tận dụng từ Phase 2 thay thế được ạ. Unit price (giá đơn vị tính năng) giữ nguyên, chỉ điều chỉnh tổng tiền. Phase 4 khởi động sẽ thêm dashboard +¥1M, lúc đó trao đổi lại ạ — quý anh thấy thế nào?* |
+| **大垣** | 「unit price 同等であれば<ruby>社内<rt>しゃない</rt></ruby><ruby>説明<rt>せつめい</rt></ruby>しやすい。検討します。」 |
+|  | *Unit price giữ nguyên thì dễ giải thích nội bộ. Tôi sẽ xem xét.* |
 
 📝 **Ghi chú:**
-- 【1】**「スコープ調整が必要」** — câu chuyển từ price negotiation sang scope negotiation. Giữ leverage.
-- 【2】**Cắt feature có thể đẩy về sau (後出し) Phase 4** — KHÔNG mất khách, chỉ lùi thời gian thu. Khách ringi dễ pass hơn.
-- 【3】**"Đơn giá tương đương (unit price 同等)"** = key sentence. CFO/部長 cần "internal explanation": "không bị giảm giá, chỉ giảm scope".
+- 【1】**「スコープ調整が必要」** — câu chuyển từ đàm phán giá sang đàm phán scope. Giữ đòn bẩy.
+- 【2】**Cắt tính năng có thể đẩy về sau (後出し) Phase 4** — KHÔNG mất khách, chỉ lùi thời gian thu. Khách ringi dễ duyệt hơn.
+- 【3】**"Đơn giá tương đương (unit price 同等)"** = câu chốt then chốt. CFO/部長 cần "lý do giải thích nội bộ": "không bị giảm giá, chỉ giảm scope".
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「価格でなく scope を交渉軸にする。Unit price 維持で総額調整、粗利率を守る。」**
+> **「<ruby>価格<rt>かかく</rt></ruby>でなく scope を<ruby>交渉軸<rt>こうしょうじく</rt></ruby>にする。Unit price <ruby>維持<rt>いじ</rt></ruby>で<ruby>総額<rt>そうがく</rt></ruby><ruby>調整<rt>ちょうせい</rt></ruby>、<ruby>粗利率<rt>あらりりつ</rt></ruby>を<ruby>守<rt>まも</rt></ruby>る。」**
 >
 > *Đàm phán scope, KHÔNG đàm phán đơn giá. Giữ đơn giá, điều chỉnh tổng tiền, bảo vệ margin.*
 
@@ -1702,8 +1895,8 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 
 - Giảm giá phẳng "¥16M でいきます" → margin chết
 - Cắt scope mơ hồ "ちょっと減らします" → khách không biết mất gì
-- Cắt core feature (AI engine bản thể) → khách không đạt mục tiêu Phase 3 → fail
-- Quên đề xuất "Phase 4 で復活" → khách feel lose forever, push back
+- Cắt tính năng lõi (AI engine bản thể) → khách không đạt mục tiêu Phase 3 → thất bại
+- Quên đề xuất "Phase 4 で復活" → khách cảm thấy mất hẳn, phản ứng đẩy lại
 
 ---
 
@@ -1723,7 +1916,7 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 
 # Rule 22 — Bundle / unbundle pricing / バンドリング・アンバンドリング
 
-> **Luận điểm.** **Bundle** = ghép nhiều item vào 1 giá tổng (khách khó so giá từng cái → giữ margin). **Unbundle** = tách từng item ra giá lẻ (khách thấy detail, dễ chấp nhận từng phần). Khi nào dùng cái nào: **Bundle** khi khách push tổng số; **Unbundle** khi khách push 1 item ("AI engine alone bao nhiêu?").
+> **Luận điểm.** **Bundle** = ghép nhiều hạng mục vào 1 giá tổng (khách khó so giá từng cái → giữ margin). **Unbundle** = tách từng hạng mục ra giá lẻ (khách thấy chi tiết, dễ chấp nhận từng phần). Khi nào dùng cái nào: **Bundle** khi khách ép tổng số; **Unbundle** khi khách ép 1 hạng mục ("AI engine riêng bao nhiêu?").
 >
 > Bundle は値下げ圧力に対する盾、Unbundle は単一機能の価値を可視化する剣。CFO 質問パターンで使い分け。
 >
@@ -1739,36 +1932,44 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 
 ## ❌ Hội thoại XẤU — bundle cứng đầu, mất cơ hội justify
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **中村CFO** | 「AI レコメンドエンジン単独だといくらですか？」 |
-| **ズン** | 「すみません、Phase 3 はパッケージ提供で、単独価格は出せません。」 |
-| **中村CFO** | 「それでは稟議書で個別 cost justify ができないので、難しいですね。」 |
+| **中村CFO** | 「AI レコメンドエンジン<ruby>単独<rt>たんどく</rt></ruby>だといくらですか？」 |
+|  | *AI recommend engine riêng giá bao nhiêu?* |
+| **ズン** | 「すみません、Phase 3 はパッケージ<ruby>提供<rt>ていきょう</rt></ruby>で、<ruby>単独<rt>たんどく</rt></ruby><ruby>価格<rt>かかく</rt></ruby>は<ruby>出<rt>だ</rt></ruby>せません。」 |
+|  | *Em xin lỗi, Phase 3 bán theo package nên không có giá riêng ạ.* |
+| **中村CFO** | 「それでは<ruby>稟議書<rt>りんぎしょ</rt></ruby>で<ruby>個別<rt>こべつ</rt></ruby> cost justify ができないので、<ruby>難<rt>むずか</rt></ruby>しいですね。」 |
+|  | *Vậy thì không justify được cost từng mục trong ringi-sho, khó đấy.* |
 
-**Vì sao xấu:** Bundle-only rejection không cho khách "internal explanation tool". CFO cần unbundled cost cho ringi-sho. Mất cơ hội close.
+**Vì sao xấu:** Từ chối kiểu bundle-only không cho khách "công cụ giải trình nội bộ". CFO cần cost đã tách (unbundle) cho ringi-sho. Mất cơ hội chốt.
 
 ---
 
 ## ✅ Hội thoại TỐT — strategic unbundle với "package discount"
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **中村CFO** | 「AI レコメンドエンジン単独だといくらですか？」 |
-| **ズン** | 「**個別 cost を分解いたします**【1】。AI レコメンドエンジン: ¥9M、専任 PM: ¥3M、AI dashboard: ¥3.5M、SLA 99.9% 運用: ¥3M。**合計 ¥18.5M**。**Phase 3 パッケージとしては ¥17.5M でご提供 (¥1M のパッケージディスカウント)**【2】、そして 2 年契約継続なら不変。」 |
-| **中村CFO** | 「ディスカウント分の根拠は？」 |
-| **ズン** | 「複数機能を同一プロジェクトで開発すると共通基盤化で工数 5% 削減できます。それを御社に還元する形【3】。稟議書に『パッケージ価格』として明記いただければ、個別 line item は internal cost justification としてお使いいただけます。」 |
-| **中村CFO** | 「これなら稟議書が書きやすい。ありがとうございます。」 |
+| **中村CFO** | 「AI レコメンドエンジン<ruby>単独<rt>たんどく</rt></ruby>だといくらですか？」 |
+|  | *AI recommend engine riêng giá bao nhiêu?* |
+| **ズン** | 「**<ruby>個別<rt>こべつ</rt></ruby> cost を<ruby>分解<rt>ぶんかい</rt></ruby>いたします**【1】。AI レコメンドエンジン: ¥9M、<ruby>専任<rt>せんにん</rt></ruby> PM: ¥3M、AI dashboard: ¥3.5M、SLA 99.9% <ruby>運用<rt>うんよう</rt></ruby>: ¥3M。**<ruby>合計<rt>ごうけい</rt></ruby> ¥18.5M**。**Phase 3 パッケージとしては ¥17.5M でご<ruby>提供<rt>ていきょう</rt></ruby> (¥1M のパッケージディスカウント)**【2】、そして 2 <ruby>年契約継続<rt>ねんけいやくけいぞく</rt></ruby>なら<ruby>不変<rt>ふへん</rt></ruby>です。」 |
+|  | *Em xin tách cost từng mục ạ. AI recommend engine: ¥9M, PM chuyên trách: ¥3M, AI dashboard: ¥3.5M, vận hành SLA 99.9%: ¥3M. Tổng ¥18.5M. Riêng Phase 3 package em cung cấp ¥17.5M (chiết khấu package ¥1M), tiếp tục hợp đồng 2 năm thì không đổi ạ.* |
+| **中村CFO** | 「ディスカウント<ruby>分<rt>ぶん</rt></ruby>の<ruby>根拠<rt>こんきょ</rt></ruby>は？」 |
+|  | *Cơ sở chiết khấu là gì?* |
+| **ズン** | 「<ruby>複数機能<rt>ふくすうきのう</rt></ruby>を<ruby>同一<rt>どういつ</rt></ruby>プロジェクトで<ruby>開発<rt>かいはつ</rt></ruby>すると<ruby>共通基盤化<rt>きょうつうきばんか</rt></ruby>で<ruby>工数<rt>こうすう</rt></ruby> 5% <ruby>削減<rt>さくげん</rt></ruby>できます。それを<ruby>御社<rt>おんしゃ</rt></ruby>に<ruby>還元<rt>かんげん</rt></ruby>する<ruby>形<rt>かたち</rt></ruby>【3】。<ruby>稟議書<rt>りんぎしょ</rt></ruby>に『パッケージ<ruby>価格<rt>かかく</rt></ruby>』として<ruby>明記<rt>めいき</rt></ruby>いただければ、<ruby>個別<rt>こべつ</rt></ruby> line item は internal cost justification としてお<ruby>使<rt>つか</rt></ruby>いいただけます。」 |
+|  | *Nhiều tính năng phát triển trong cùng dự án thì build trên nền chung giảm được 5% effort. Em chia sẻ phần đó với quý cty. Trong ringi-sho ghi rõ 'giá package', còn line item từng mục dùng làm internal cost justification ạ.* |
+| **中村CFO** | 「これなら<ruby>稟議書<rt>りんぎしょ</rt></ruby>が<ruby>書<rt>か</rt></ruby>きやすい。ありがとうございます。」 |
+|  | *Vậy thì ringi-sho dễ viết. Cảm ơn em.* |
 
 📝 **Ghi chú:**
-- 【1】**Unbundle 開示** — 4 line items với cost. CFO dùng cho ringi-sho.
-- 【2】**Package discount** — 個別合計 ¥18.5M > package ¥17.5M (¥1M lợi). Khách thấy "đang được khuyến mãi".
-- 【3】**Discount 根拠 = 共通基盤化 (-工数 5%)** — không bịa, có thật. CFO sẽ verify.
+- 【1】**Unbundle 開示** — 4 hạng mục kèm cost. CFO dùng cho ringi-sho.
+- 【2】**Package discount** — tổng từng mục ¥18.5M > package ¥17.5M (lợi ¥1M). Khách thấy "đang được khuyến mãi".
+- 【3】**Cơ sở chiết khấu = 共通基盤化 (giảm 工数 5%)** — không bịa, có thật. CFO sẽ kiểm chứng.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「個別 unbundle で justify、package で discount。両方見せて『お得感+ringi 容易』。」**
+> **「<ruby>個別<rt>こべつ</rt></ruby> unbundle で justify、package で discount。<ruby>両方<rt>りょうほう</rt></ruby><ruby>見<rt>み</rt></ruby>せて『お<ruby>得感<rt>とくかん</rt></ruby>+ringi <ruby>容易<rt>ようい</rt></ruby>』。」**
 >
 > *Unbundle giúp justify, package giúp discount. Show cả hai = "お得感 + ringi dễ".*
 
@@ -1776,10 +1977,10 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 
 ## ⚠ Tránh
 
-- Bundle-only refuse → CFO không soạn được ringi
-- Unbundle mà tổng KHÔNG bằng package → khách hỏi tại sao 不一致
-- Discount không có 根拠 → trust mất
-- Unbundle với tất cả khách → sometimes bundle-only better (đặc biệt khi client price-sensitive trên line items)
+- Chỉ bán bundle rồi từ chối → CFO không soạn được ringi
+- Unbundle mà tổng KHÔNG bằng package → khách hỏi tại sao 不一致 (không khớp)
+- Chiết khấu không có cơ sở → mất niềm tin
+- Unbundle với tất cả khách → đôi khi chỉ bán bundle lại tốt hơn (đặc biệt khi khách nhạy cảm về giá trên từng hạng mục)
 
 ---
 
@@ -1799,7 +2000,7 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 
 # Rule 23 — Quy đổi sang ROI / ROI 換算
 
-> **Luận điểm.** Khách Nhật (đặc biệt CFO) approve giá lớn dựa trên **ROI rõ ràng + được nội bộ verify**. Convert giá → ROI: **(1) Investment** (¥18M), **(2) Annual return** (cost saving + revenue uplift), **(3) Payback period** (tháng), **(4) IRR / NPV nếu deal lớn**. Quote không kèm ROI = CFO Nhật khó approve.
+> **Luận điểm.** Khách Nhật (đặc biệt CFO) duyệt giá lớn dựa trên **ROI rõ ràng + được nội bộ kiểm chứng**. Quy đổi giá → ROI: **(1) Investment** (¥18M), **(2) Annual return** (cost saving + revenue uplift), **(3) Payback period** (tháng), **(4) IRR / NPV nếu thương vụ lớn**. Báo giá không kèm ROI = CFO Nhật khó duyệt.
 >
 > CFO 説得は ROI 数値が核。投資額・年間リターン・回収期間 (payback) を必ず提示。「導入する value がある」では稟議通らない。
 >
@@ -1809,7 +2010,7 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 
 ## Bối cảnh / 場面
 
-中村 CFO request "正式 ROI シート" để đem vào ringi. Dũng đã có draft, present trong meeting.
+中村 CFO yêu cầu "正式 ROI シート" để đem vào ringi. Dũng đã có bản nháp, trình bày trong cuộc họp.
 
 ---
 
@@ -1817,33 +2018,42 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 
 *沈黙*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **中村CFO** | 「ROI はどのくらいですか？」 |
-| **ズン** | 「Phase 2 で実績ありますし、Phase 3 はそれ以上の value があります。」 |
-| **中村CFO** | 「具体的な数値がないと稟議には乗せられません。」 |
+|  | *ROI khoảng bao nhiêu?* |
+| **ズン** | 「Phase 2 で<ruby>実績<rt>じっせき</rt></ruby>ありますし、Phase 3 はそれ以上の value があります。」 |
+|  | *Phase 2 có thành tích rồi, Phase 3 có value lớn hơn ạ.* |
+| **中村CFO** | 「<ruby>具体的<rt>ぐたいてき</rt></ruby>な<ruby>数値<rt>すうち</rt></ruby>がないと<ruby>稟議<rt>りんぎ</rt></ruby>には<ruby>乗<rt>の</rt></ruby>せられません。」 |
+|  | *Không có con số cụ thể là không đưa vào ringi được.* |
 
-**Vì sao xấu:** "Value あります" = không có gì. CFO muốn 数値. Phase 2 reference chung chung không support Phase 3 ROI.
+**Vì sao xấu:** "Value あります" = không có gì. CFO muốn 数値. Việc dẫn chiếu Phase 2 chung chung không chống lưng cho ROI của Phase 3.
 
 ---
 
 ## ✅ Hội thoại TỐT — ROI 4 yếu tố cụ thể
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **中村CFO** | 「ROI はどのくらいですか？」 |
-| **ズン** | 「**ROI 4 indicators**【1】です。**Investment**: ¥17.5M。**Annual return**: (a) AI レコメンド導入で transaction 単価 +12% × 月 GMV ¥600M ≒ 年 +¥864M revenue uplift、利益率 9% 換算で **¥77.7M/年 net 利益**【2】、(b) 手動在庫調整削減 = 5名 × 240日 × 2h × 単価 ¥6,000 = **¥14.4M/年 cost saving**、合計 **¥92.1M/年**。」 |
-| **ズン** | 「**Payback period: ¥17.5M ÷ ¥92.1M ≒ 2.3 ヶ月**【3】、つまり初年度で 5.3 倍の return。**3 年 NPV (割引率 5%): ¥234M**【4】。」 |
-| **中村CFO** | 「数値の信頼性は？」 |
-| **ズン** | 「Phase 2 で transaction 単価 +9% を実現済み (vs. 予測 +8%、上振れ)。AI モデル精度向上で +12% は controlled extrapolation です。Whitepaper + 第三者監査済みデータをお渡しします【5】。」 |
-| **中村CFO** | 「これなら取締役会に出せます。」 |
+|  | *ROI khoảng bao nhiêu?* |
+| **ズン** | 「**ROI 4 indicators**【1】です。**Investment**: ¥17.5M。**Annual return**: (a) AI レコメンド<ruby>導入<rt>どうにゅう</rt></ruby>で transaction <ruby>単価<rt>たんか</rt></ruby> +12% × 月 GMV ¥600M ≒ 年 +¥864M revenue uplift、<ruby>利益率<rt>りえきりつ</rt></ruby> 9% <ruby>換算<rt>かんさん</rt></ruby>で **¥77.7M/年 net 利益**【2】、(b) <ruby>手動<rt>しゅどう</rt></ruby><ruby>在庫<rt>ざいこ</rt></ruby><ruby>調整<rt>ちょうせい</rt></ruby><ruby>削減<rt>さくげん</rt></ruby> = 5名 × 240日 × 2h × 単価 ¥6,000 = **¥14.4M/年 cost saving**、<ruby>合計<rt>ごうけい</rt></ruby> **¥92.1M/年**。」 |
+|  | *ROI 4 indicators ạ. Investment: ¥17.5M. Annual return: (a) AI recommend triển khai → unit price transaction +12% × GMV tháng ¥600M ≒ +¥864M doanh thu/năm, quy theo margin 9% là ¥77.7M/năm net lợi; (b) giảm điều chỉnh tồn kho thủ công = 5 người × 240 ngày × 2h × ¥6,000 = ¥14.4M/năm cost saving. Tổng ¥92.1M/năm ạ.* |
+| **ズン** | 「**Payback period: ¥17.5M ÷ ¥92.1M ≒ 2.3 ヶ月**【3】、つまり<ruby>初年度<rt>しょねんど</rt></ruby>で 5.3 倍の return。**3 年 NPV (<ruby>割引率<rt>わりびきりつ</rt></ruby> 5%): ¥234M**【4】。」 |
+|  | *Payback period: ¥17.5M ÷ ¥92.1M ≒ 2.3 tháng, tức năm đầu return 5.3 lần. NPV 3 năm (discount rate 5%): ¥234M ạ.* |
+| **中村CFO** | 「数値の<ruby>信頼性<rt>しんらいせい</rt></ruby>は？」 |
+|  | *Độ tin cậy của con số?* |
+| **ズン** | 「Phase 2 で transaction 単価 +9% を<ruby>実現済<rt>じつげんず</rt></ruby>み (vs. <ruby>予測<rt>よそく</rt></ruby> +8%、<ruby>上振<rt>うわぶ</rt></ruby>れ)。AI モデル<ruby>精度<rt>せいど</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>で +12% は controlled extrapolation です。Whitepaper + <ruby>第三者<rt>だいさんしゃ</rt></ruby><ruby>監査済<rt>かんさず</rt></ruby>みデータをお<ruby>渡<rt>わた</rt></ruby>しします【5】。」 |
+|  | *Phase 2 đã hiện thực được unit price transaction +9% (so với dự +8%, vượt). +12% với AI model nâng cấp là controlled extrapolation ạ. Em chuyển tới quý anh whitepaper + data đã audit bên thứ ba ạ.* |
+| **中村CFO** | 「これなら<ruby>取締役会<rt>とりしまりやくかい</rt></ruby>に<ruby>出<rt>だ</rt></ruby>せます。」 |
+|  | *Vậy thì đưa được lên HĐQT.* |
 
 📝 **Ghi chú:**
 - 【1】**ROI 4 indicators** — Investment / Annual Return / Payback / NPV. Đủ cả 4 = khoa học, không bịa.
-- 【2】**Annual return chia ra cost saving + revenue uplift** — CFO trust mỗi nhánh được verified độc lập.
-- 【3】**Payback period < 6 月 = "強い ROI"** trong context JP B2B. < 12 月 = "OK". > 24 月 = khó approve.
-- 【4】**NPV với discount rate** — JP firms thường dùng 5-7%. Show NPV = level senior, gây ấn tượng senior CFO.
-- 【5】**Third-party audit** — không bắt buộc, nhưng senior CFO trust hơn.
+- 【2】**Annual return chia ra cost saving + revenue uplift** — CFO tin tưởng vì mỗi nhánh được kiểm chứng độc lập.
+- 【3】**Payback period < 6 月 = "強い ROI"** trong ngữ cảnh B2B Nhật. < 12 月 = "OK". > 24 月 = khó duyệt.
+- 【4】**NPV với discount rate** — doanh nghiệp Nhật thường dùng 5-7%. Trình NPV = đẳng cấp senior, gây ấn tượng với CFO senior.
+- 【5】**Third-party audit** — không bắt buộc, nhưng CFO senior tin tưởng hơn.
 
 ---
 
@@ -1857,10 +2067,10 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 
 ## ⚠ Tránh
 
-- ROI mơ hồ "value あります" → CFO không trust
-- Annual return chỉ 1 nhánh (vd: chỉ revenue uplift) → CFO push back về reliability
-- Payback > 24 tháng → khó approve, suy nghĩ lại scope
-- Quên reference Phase 2 actual data → claim Phase 3 không có anchor
+- ROI mơ hồ "value あります" → CFO không tin tưởng
+- Annual return chỉ 1 nhánh (vd: chỉ revenue uplift) → CFO phản bác về độ tin cậy
+- Payback > 24 tháng → khó duyệt, cần xem lại phạm vi
+- Quên dẫn chiếu dữ liệu thực tế Phase 2 → tuyên bố về Phase 3 không có điểm neo
 
 ---
 
@@ -1880,7 +2090,7 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 
 # Rule 24 — Trade concession (tit-for-tat) / 譲歩交換
 
-> **Luận điểm.** Mọi nhượng bộ đều phải có **trade ngược** — đổi lấy điều gì đó. Phrase chuẩn: "**もし〇〇していただければ、〇〇いたします**" (if you give X, I'll give Y). KHÔNG bao giờ nhượng bộ đơn phương. Tit-for-tat duy trì equilibrium of value.
+> **Luận điểm.** Mọi nhượng bộ đều phải có **trade ngược** — đổi lấy điều gì đó. Câu chuẩn: "**もし〇〇していただければ、〇〇いたします**" (nếu quý anh cho X, em sẽ cho Y). KHÔNG bao giờ nhượng bộ đơn phương. Tit-for-tat duy trì sự cân bằng giá trị.
 >
 > 譲歩は単独で出さない。「もし〜していただければ、〜いたします」の双方向 phrase で交換する。
 >
@@ -1898,38 +2108,47 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 
 *微笑*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **大垣** | 「AI dashboard も込みで ¥17M なら社内通せそうですが…」 |
-| **ズン** | 「分かりました、AI dashboard 含めて ¥17M で。」 |
+| **大垣** | 「AI dashboard も<ruby>込<rt>こ</rt></ruby>みで ¥17M なら<ruby>社内<rt>しゃない</rt></ruby><ruby>通<rt>とお</rt></ruby>せそうですが…」 |
+|  | *AI dashboard kèm cùng ¥17M thì nội bộ duyệt được...* |
+| **ズン** | 「<ruby>分<rt>わ</rt></ruby>かりました、AI dashboard <ruby>含<rt>ふく</rt></ruby>めて ¥17M で。」 |
+|  | *Em rõ ạ, gồm cả AI dashboard ở mức ¥17M ạ.* |
 | **大垣** | 「ありがとうございます。」 |
-| (内部 Slack) **フオン** | 「dashboard ¥1M を ¥0 で追加？trade なしの単独譲歩。粗利は？」 |
+|  | *Cảm ơn anh.* |
+| (内部 Slack) **フオン** | 「dashboard ¥1M を ¥0 で<ruby>追加<rt>ついか</rt></ruby>？trade なしの<ruby>単独<rt>たんどく</rt></ruby><ruby>譲歩<rt>じょうほ</rt></ruby>。<ruby>粗利<rt>あらり</rt></ruby>は？」 |
+|  | *(Slack nội bộ) Dashboard ¥1M cho thêm miễn phí? Nhượng đơn phương không có trade. Margin sao?* |
 
-**Vì sao xấu:** Nhượng dashboard ¥1M không có trade ngược → unilateral concession. Margin xuống. 大垣 đọc Dũng "easy" → push tiếp ở rounds sau.
+**Vì sao xấu:** Nhượng dashboard ¥1M không có trade ngược, thành nhượng bộ đơn phương. Margin xuống. 大垣 đọc Dũng "dễ" rồi push tiếp ở các vòng sau.
 
 ---
 
 ## ✅ Hội thoại TỐT — tit-for-tat trade
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **大垣** | 「AI dashboard も込みで ¥17M なら社内通せそうですが…」 |
-| **ズン** | 「**ご検討ありがとうございます**【1】。AI dashboard 込みで ¥17M、**もし以下の 2 点をお取り計らいいただけましたら**【2】、お受けできます: (1) **契約期間 2 年確定** + 自動 1 年更新条項、(2) **公式事例として御社名公開許可** (来期 marketing で活用)【3】。」 |
-| **大垣** | 「(1) は内部で OK、(2) 事例公開は広報部に確認必要です。」 |
-| **ズン** | 「もちろんです。**両方ご了承いただけた段階で ¥17M + dashboard 込みで確定**【4】、もし (2) のみ難しい場合は contractual に scope 調整となります。」 |
-| **大垣** | 「整理して持ち帰り検討します。」 |
+| **大垣** | 「AI dashboard も<ruby>込<rt>こ</rt></ruby>みで ¥17M なら<ruby>社内<rt>しゃない</rt></ruby><ruby>通<rt>とお</rt></ruby>せそうですが…」 |
+|  | *AI dashboard kèm cùng ¥17M thì nội bộ duyệt được...* |
+| **ズン** | 「**<ruby>ご検討<rt>ごけんとう</rt></ruby>ありがとうございます**【1】。AI dashboard <ruby>込<rt>こ</rt></ruby>みで ¥17M、**もし<ruby>以下<rt>いか</rt></ruby>の 2 <ruby>点<rt>てん</rt></ruby>をお<ruby>取<rt>と</rt></ruby>り<ruby>計<rt>はか</rt></ruby>らいいただけましたら**【2】、<ruby>お受<rt>おう</rt></ruby>けできます: (1) **<ruby>契約期間<rt>けいやくきかん</rt></ruby> 2 <ruby>年確定<rt>ねんかくてい</rt></ruby>** + <ruby>自動<rt>じどう</rt></ruby> 1 <ruby>年更新条項<rt>ねんこうしんじょうこう</rt></ruby>、(2) **<ruby>公式事例<rt>こうしきじれい</rt></ruby>として<ruby>御社名公開許可<rt>おんしゃめいこうかいきょか</rt></ruby>** (<ruby>来期<rt>らいき</rt></ruby> marketing で<ruby>活用<rt>かつよう</rt></ruby>)【3】。」 |
+|  | *Cảm ơn quý anh đã xem xét ạ. AI dashboard kèm ¥17M, nếu quý anh sắp xếp được 2 điểm sau thì em có thể nhận: (1) Hợp đồng cố định 2 năm + điều khoản tự động gia hạn 1 năm, (2) Cho phép công bố tên quý cty làm case chính thức (em dùng cho marketing kỳ sau) ạ.* |
+| **大垣** | 「(1) は<ruby>内部<rt>ないぶ</rt></ruby>で OK、(2) <ruby>事例公開<rt>じれいこうかい</rt></ruby>は<ruby>広報部<rt>こうほうぶ</rt></ruby>に<ruby>確認必要<rt>かくにんひつよう</rt></ruby>です。」 |
+|  | *(1) nội bộ OK, (2) công bố case cần check với phòng PR.* |
+| **ズン** | 「もちろんです。**<ruby>両方<rt>りょうほう</rt></ruby><ruby>ご了承<rt>ごりょうしょう</rt></ruby>いただけた<ruby>段階<rt>だんかい</rt></ruby>で ¥17M + dashboard <ruby>込<rt>こ</rt></ruby>みで<ruby>確定<rt>かくてい</rt></ruby>**【4】、もし (2) のみ<ruby>難<rt>むずか</rt></ruby>しい<ruby>場合<rt>ばあい</rt></ruby>は contractual に scope <ruby>調整<rt>ちょうせい</rt></ruby>となります。」 |
+|  | *Tất nhiên ạ. Khi cả 2 đều OK em sẽ chốt ¥17M + dashboard, nếu chỉ (2) khó thì sẽ điều chỉnh scope trong hợp đồng ạ.* |
+| **大垣** | 「<ruby>整理<rt>せいり</rt></ruby>して<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>検討<rt>けんとう</rt></ruby>します。」 |
+|  | *Tôi tổng hợp rồi mang về xem xét.* |
 
 📝 **Ghi chú:**
-- 【1】**Acknowledge** trước khi counter — không jump vào trade ngay.
-- 【2】**「もし〜していただければ」** = phrase chuẩn cho tit-for-tat. KHÔNG bị thấy là "đòi", chỉ là điều kiện.
-- 【3】**Trade chọn 2 thứ value cho mình mà cost thấp cho khách** — 2 năm đã có ringi nội bộ rồi (rule 19), 事例公開 = marketing value.
-- 【4】**Conditional confirmation** "両方了承後に確定" — KHÔNG để khách lấy 1 nhượng bộ + từ chối 1 trade.
+- 【1】**Ghi nhận** trước khi phản hồi, không nhảy vào trade ngay.
+- 【2】**「もし〜していただければ」** = công thức chuẩn cho tit-for-tat. KHÔNG bị thấy là "đòi", chỉ là điều kiện.
+- 【3】**Trade chọn 2 thứ value cho mình mà cost thấp cho khách** — 2 năm đã có ringi nội bộ rồi (rule 19), 事例公開 = giá trị marketing.
+- 【4】**Conditional confirmation** "両方了承後に確定" — KHÔNG để khách lấy 1 nhượng bộ rồi từ chối 1 trade.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「『もし〇〇していただければ〇〇いたします』 — 譲歩には必ず trade。conditional confirmation で安全。」**
+> **「『もし〇〇していただければ〇〇いたします』 — <ruby>譲歩<rt>じょうほ</rt></ruby>には<ruby>必<rt>かなら</rt></ruby>ず trade。conditional confirmation で<ruby>安全<rt>あんぜん</rt></ruby>。」**
 >
 > *"Nếu quý anh ~ thì em sẽ ~" — nhượng bộ luôn đi với trade. Conditional confirmation để an toàn.*
 
@@ -1937,10 +2156,10 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 
 ## ⚠ Tránh
 
-- 即 "OK" → unilateral concession
-- Trade quá nặng → khách feel transactional, không close
-- Quên conditional confirmation ("両方了承後に") → khách bóc trade riêng
-- Trade chọn cái khách không value → useless
+- Đáp "OK" ngay lập tức, thành nhượng bộ đơn phương
+- Trade quá nặng, khách thấy nặng tính giao dịch nên khó chốt
+- Quên conditional confirmation ("両方了承後に"), khách bóc lẻ từng trade
+- Trade chọn cái khách không coi trọng, thành vô dụng
 
 ---
 
@@ -1959,7 +2178,7 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 
 # Rule 25 — Silence as tool / 沈黙の活用
 
-> **Luận điểm.** Sau khi đưa offer, **đếm 7 giây im lặng**. Người Việt thường lấp khoảng lặng (cultural discomfort) → tự talk down giá. Khách Nhật quen với 沈黙 → ai phá im lặng trước = mất lợi thế. Practice trước gương.
+> **Luận điểm.** Sau khi đưa offer, **đếm 7 giây im lặng**. Người Việt thường lấp khoảng lặng (vì khó chịu về mặt văn hoá) → tự nói hạ giá xuống. Khách Nhật quen với 沈黙 → ai phá im lặng trước = mất lợi thế. Luyện trước gương.
 >
 > Offer 後 7 秒沈黙ルール。最初に話した方が譲歩する。日本商談文化では沈黙は思考時間で当然。
 >
@@ -1969,7 +2188,7 @@ CFO chọn option (A) ¥17.5M 2-year (rule 20). Nhưng 大垣 push thêm "¥16M 
 
 ## Bối cảnh / 場面
 
-Trong phòng đàm phán, sau khi Dũng quote ¥18M anchor (rule 18), 大垣 im lặng 5 giây. Tuấn ngồi cạnh có signal sẽ nói lấp. Dũng dùng signal tay (rule 07) để stop Tuấn.
+Trong phòng đàm phán, sau khi Dũng báo ¥18M anchor (rule 18), 大垣 im lặng 5 giây. Tuấn ngồi cạnh có dấu hiệu sẽ nói lấp. Dũng dùng signal tay (rule 07) để chặn Tuấn.
 
 ---
 
@@ -1977,15 +2196,20 @@ Trong phòng đàm phán, sau khi Dũng quote ¥18M anchor (rule 18), 大垣 im 
 
 *沈黙 4 秒、考え · 不安、口開く · 微笑 · 顔色*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **ズン** | 「Better tier ¥18M、ROI 4.4 倍に位置します。」 |
+|  | *Better tier ¥18M, ROI ở mức 4.4 lần ạ.* |
 | **大垣** | 「…」 |
-| **トゥアン** | 「あの、もし価格がご懸念でしたら、scope 調整で ¥16M も可能です。」 |
-| **大垣** | 「あ、¥16M も可能ですか。それで進めましょう。」 |
+|  | *(im lặng 4 giây, suy nghĩ)* |
+| **トゥアン** | 「あの、もし価格がご<ruby>懸念<rt>けねん</rt></ruby>でしたら、scope <ruby>調整<rt>ちょうせい</rt></ruby>で ¥16M も<ruby>可能<rt>かのう</rt></ruby>です。」 |
+|  | *À, nếu quý anh lo về giá, điều chỉnh scope thì ¥16M cũng được ạ.* |
+| **大垣** | 「あ、¥16M も可能ですか。それで<ruby>進<rt>すす</rt></ruby>めましょう。」 |
+|  | *À, ¥16M cũng được à. Vậy chốt như thế nhé.* |
 | **ズン** | 「…」 |
+|  | *(mặt biến sắc)* |
 
-**Vì sao xấu:** Tuấn không chịu được khoảng lặng → tự nhảy xuống ¥16M trước cả khi 大垣 push back. Mất ¥2M bốc hơi trong 4 giây. Đây là pattern rất phổ biến với người Việt mới làm BD.
+**Vì sao xấu:** Tuấn không chịu được khoảng lặng → tự nhảy xuống ¥16M trước cả khi 大垣 phản đẩy lại. Mất ¥2M bốc hơi trong 4 giây. Đây là công thức rất phổ biến với người Việt mới làm BD.
 
 ---
 
@@ -1993,22 +2217,30 @@ Trong phòng đàm phán, sau khi Dũng quote ¥18M anchor (rule 18), 大垣 im 
 
 *右手を膝に置く — 事前合意の signal rule 07 · 沈黙 1 秒 · 口開きかけ、ズン signal 確認、止まる · 沈黙 3 秒 · 沈黙 5 秒 · 7 秒経過 · 内心: 7 秒勝った*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「Better tier ¥18M、ROI 4.4 倍に位置します。」 |
-| **ズン** | (沈黙) |
+| **ズン** | 「Better tier ¥18M、ROI 4.4 倍に<ruby>位置<rt>いち</rt></ruby>します。」 |
+|  | *Better tier ¥18M, ROI ở mức 4.4 lần ạ.* |
+| **ズン** | (<ruby>沈黙<rt>ちんもく</rt></ruby>) |
+|  | *(đặt tay phải lên đùi — signal đã hẹn, giữ im lặng)* |
 | **大垣** | 「…」 |
+|  | *(im lặng 1 giây)* |
 | **トゥアン** | (沈黙) |
+|  | *(định mở miệng, thấy signal Dũng, dừng lại)* |
 | **大垣** | 「…」 |
+|  | *(im lặng 3 giây)* |
 | **大垣** | 「…」 |
-| **大垣** | 「ROI 4.4 倍はインパクトありますね。但し ¥18M は社内ハードル高めです、scope か contract length で調整余地あれば検討します。」【1】 |
-| **ズン** | 「ありがとうございます。それでは scope 調整案と contract length 案、両方ご用意します。」 |
+|  | *(im lặng tiếp, tổng 5 giây)* |
+| **大垣** | 「ROI 4.4 倍はインパクトありますね。<ruby>但<rt>ただ</rt></ruby>し ¥18M は<ruby>社内<rt>しゃない</rt></ruby>ハードル<ruby>高<rt>たか</rt></ruby>めです、scope か contract length で<ruby>調整余地<rt>ちょうせいよち</rt></ruby>あれば<ruby>検討<rt>けんとう</rt></ruby>します。」【1】 |
+|  | *ROI 4.4 lần có sức tác động đấy. Nhưng ¥18M trong nội bộ rào cao, nếu có dư địa điều chỉnh ở scope hay contract length thì chúng tôi xem xét.* |
+| **ズン** | 「ありがとうございます。それでは scope <ruby>調整案<rt>ちょうせいあん</rt></ruby>と contract length <ruby>案<rt>あん</rt></ruby>、<ruby>両方<rt>りょうほう</rt></ruby>ご<ruby>用意<rt>ようい</rt></ruby>します。」 |
+|  | *Em cảm ơn ạ. Vậy em chuẩn bị cả phương án điều chỉnh scope lẫn contract length ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**大垣 phá im lặng trước = move forward bằng compromise** ("scope か contract length"). Đây là leverage shift về Dũng.
-- **沈黙 7 秒 = practice goal**. Cảm giác ban đầu mỗi giây như 5 giây. Practice trước gương / với senior.
-- **Team signal** (rule 07) cực quan trọng — không có signal thì junior member sẽ nói lấp.
-- Khi mình đưa offer + im lặng, ánh mắt giữ neutral, không "đợi mong khách trả lời". Tone confidence.
+- 【1】**大垣 phá im lặng trước = tiến tới bằng nhượng bộ** ("scope か contract length"). Đây là sự dịch chuyển lợi thế về phía Dũng.
+- **沈黙 7 秒 = mục tiêu luyện tập**. Cảm giác ban đầu mỗi giây như 5 giây. Luyện trước gương / với người đi trước.
+- **Signal trong team** (rule 07) cực quan trọng — không có dấu hiệu thì thành viên ít kinh nghiệm sẽ nói lấp.
+- Khi mình đưa offer + im lặng, ánh mắt giữ trung tính, không "đợi mong khách trả lời". Giọng điệu tự tin.
 
 ---
 
@@ -2016,16 +2248,16 @@ Trong phòng đàm phán, sau khi Dũng quote ¥18M anchor (rule 18), 大垣 im 
 
 > **「Offer 後 7 秒沈黙。最初に話した方が譲歩する。team signal で junior の口を封じる。」**
 >
-> *Sau offer im 7 giây. Ai phá im lặng trước = nhượng. Signal team để junior khỏi nói lấp.*
+> *Sau offer im 7 giây. Ai phá im lặng trước = nhượng. Ra dấu hiệu cho team để thành viên ít kinh nghiệm khỏi nói lấp.*
 
 ---
 
 ## ⚠ Tránh
 
 - 自分から 1-3 秒で口を開く → 自爆
-- "あの、もし高いようでしたら…" — suicide phrase, KHÔNG bao giờ tự cung cấp 値引き option
+- "あの、もし高いようでしたら…" — câu tự sát, KHÔNG bao giờ tự đưa ra phương án 値引き
 - Nhìn xuống / bồn chồn khi im lặng → khách đọc là "anh đang lo"
-- Practice không đủ → trong phòng tay run
+- Luyện không đủ → trong phòng tay run
 
 ---
 
@@ -2044,9 +2276,9 @@ Trong phòng đàm phán, sau khi Dũng quote ¥18M anchor (rule 18), 大垣 im 
 
 # Rule 26 — Đối phó với threat / ultimatum / 脅し・最終通告への対応
 
-> **Luận điểm.** Khách hard "¥15M でなければ Y 社に発注", "今週中に決めなければ" = pressure tactic. Pattern xử lý: **(1) Câu chuyển** ("ご指摘の点、もっともでございます"), **(2) Đổi góc nhìn + giữ ranh giới** ("ただ弊社として〜は難しい"), **(3) Escalate to senior** (anh Hà CTO step in). Match cứng = lose deal; nhượng bộ quá mức = lose margin. Câu chuyển + escalate = giữ được lợi thế.
+> **Luận điểm.** Khách gây áp lực "¥15M でなければ Y 社に発注", "今週中に決めなければ" = chiêu gây áp lực. Công thức xử lý: **(1) Câu chuyển** ("ご指摘の点、もっともでございます"), **(2) Đổi góc nhìn + giữ ranh giới** ("ただ弊社として〜は難しい"), **(3) Đẩy lên cấp trên** (anh Hà CTO vào cuộc). Đối đầu cứng = mất thương vụ; nhượng bộ quá mức = mất margin. Câu chuyển + đẩy lên cấp trên = giữ được lợi thế.
 >
-> 脅しや ultimatum は pressure tactic。Bridge phrase で受けて、reframe で boundary を示し、必要なら senior にエスカレーション。
+> 脅しや最終通告は pressure tactic（chiêu gây áp lực）。câu chuyển で受けて、định hình lại で ranh giới を示し、必要なら cấp trên にエスカレーション。
 >
 > **Liên quan:** rule 27 (再アンカリング), rule 28 (撤退の作法), sách 04 escalation.
 
@@ -2054,20 +2286,24 @@ Trong phòng đàm phán, sau khi Dũng quote ¥18M anchor (rule 18), 大垣 im 
 
 ## Bối cảnh / 場面
 
-大垣 push hard cuối: "¥15M でなければ Y 社に発注". Dũng dùng bridge phrase, sau đó signal anh Hà CTO step in.
+大垣 ép mạnh ở phút chót: "¥15M でなければ Y 社に発注". Dũng dùng câu chuyển, sau đó ra hiệu để anh Hà CTO vào cuộc.
 
 ---
 
-## ❌ Hội thoại XẤU — match cứng / cave-in
+## ❌ Hội thoại XẤU — đối đầu cứng / nhượng bộ quá mức
 
 *感情的 · 冷*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **大垣** | 「¥15M でなければ、Y 社に発注します。今日決めてください。」 |
-| **ズン** | 「Y 社で本当に発注できるとは思えませんが…」 |
-| **大垣** | 「冗談ではなく事実です。」 |
+| **大垣** | 「¥15M でなければ、Y 社に<ruby>発注<rt>はっちゅう</rt></ruby>します。<ruby>今日<rt>きょう</rt></ruby><ruby>決<rt>き</rt></ruby>めてください。」 |
+|  | *¥15M không thì tôi đặt Y社. Hôm nay phải quyết.* |
+| **ズン** | 「Y 社で<ruby>本当<rt>ほんとう</rt></ruby>に発注できるとは<ruby>思<rt>おも</rt></ruby>えませんが…」 |
+|  | *Y社 thì em không nghĩ là quý anh đặt được thật…* |
+| **大垣** | 「<ruby>冗談<rt>じょうだん</rt></ruby>ではなく<ruby>事実<rt>じじつ</rt></ruby>です。」 |
+|  | *Không phải nói đùa, là sự thật.* |
 | **ズン** | 「では…¥15M で…」 |
+|  | *Vậy… ¥15M ạ…* |
 
 **Vì sao xấu:** Dũng vừa challenge khách (mất 顔) vừa cave-in giảm ¥3M trong 1 phút. Cả 2 lỗi cùng lúc. Walk-away ¥15M là biên, scope phải cắt mạnh nhưng Dũng không tỉnh.
 
@@ -2077,15 +2313,22 @@ Trong phòng đàm phán, sau khi Dũng quote ¥18M anchor (rule 18), 大垣 im 
 
 *2 秒沈黙 · 少し緩む · 電話で 5 分後到着、入室、挨拶後*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「¥15M でなければ、Y 社に発注します。今日決めてください。」 |
-| **ズン** | 「**ご指摘の点、もっともでございます**【1】。御社のご事情、十分に理解いたします。」 |
-| **ズン** | 「**ただ、弊社として ¥15M で Phase 2 同等スコープのご提供は粗利を割り込みますので、その場でのお返事は致しかねます**【2】。」 |
-| **ズン** | 「**重要なご決定ですので、弊社 CTO のハーをこの場にお呼びしてもよろしいでしょうか**【3】？技術面・条件面の両方で正式な回答ができるようにいたします。」 |
-| **大垣** | 「では CTO に来ていただいて構いません。」 |
-| **ハー CTO** | 「大垣様、ハーでございます。¥15M というご要望、伺いました。**¥15M でしたら scope は -30% (AI dashboard・専任 PM・SLA 99.9%→99.5%) となり、Phase 3 当初目的の達成度合いは 65% 程度になります**【4】。**Phase 2 同等のスコープであれば、弊社 walk-away ライン ¥15.5M、これは承認済みの最終条件**でございます。」 |
-| **大垣** | 「…CTO 同席ですと話が変わりますね。¥15.5M なら社内に持ち帰り検討します。」 |
+|  | *¥15M không thì tôi đặt Y社. Hôm nay phải quyết.* |
+| **ズン** | 「**ご<ruby>指摘<rt>してき</rt></ruby>の<ruby>点<rt>てん</rt></ruby>、もっともでございます**【1】。<ruby>御社<rt>おんしゃ</rt></ruby>のご<ruby>事情<rt>じじょう</rt></ruby>、<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>理解<rt>りかい</rt></ruby>いたします。」 |
+|  | *Em xin tiếp thu ý kiến quý anh ạ. Tình huống quý công ty em hiểu đầy đủ ạ.* |
+| **ズン** | 「**ただ、<ruby>弊社<rt>へいしゃ</rt></ruby>として ¥15M で Phase 2 <ruby>同等<rt>どうとう</rt></ruby>スコープのご<ruby>提供<rt>ていきょう</rt></ruby>は<ruby>粗利<rt>あらり</rt></ruby>を<ruby>割<rt>わ</rt></ruby>り<ruby>込<rt>こ</rt></ruby>みますので、その<ruby>場<rt>ば</rt></ruby>でのお<ruby>返事<rt>へんじ</rt></ruby>は<ruby>致<rt>いた</rt></ruby>しかねます**【2】。」 |
+|  | *Tuy nhiên, ¥15M giữ scope tương đương Phase 2 thì bên em phá ngưỡng margin, em xin phép không trả lời ngay tại chỗ ạ.* |
+| **ズン** | 「**<ruby>重要<rt>じゅうよう</rt></ruby>なご<ruby>決定<rt>けってい</rt></ruby>ですので、弊社 CTO のハーをこの場にお<ruby>呼<rt>よ</rt></ruby>びしてもよろしいでしょうか**【3】？<ruby>技術面<rt>ぎじゅつめん</rt></ruby>・<ruby>条件面<rt>じょうけんめん</rt></ruby>の<ruby>両方<rt>りょうほう</rt></ruby>で<ruby>正式<rt>せいしき</rt></ruby>な<ruby>回答<rt>かいとう</rt></ruby>ができるようにいたします。」 |
+|  | *Đây là quyết định quan trọng, cho phép em mời anh Hà CTO bên em đến tại chỗ ạ? Để có thể trả lời chính thức cả mặt kỹ thuật lẫn điều kiện ạ.* |
+| **大垣** | 「では CTO に<ruby>来<rt>き</rt></ruby>ていただいて<ruby>構<rt>かま</rt></ruby>いません。」 |
+|  | *Vậy mời CTO đến cũng được.* |
+| **ハー CTO** | 「大垣<ruby>様<rt>さま</rt></ruby>、ハーでございます。¥15M というご<ruby>要望<rt>ようぼう</rt></ruby>、<ruby>伺<rt>うかが</rt></ruby>いました。**¥15M でしたら scope は -30% (AI dashboard・<ruby>専任<rt>せんにん</rt></ruby> PM・SLA 99.9%→99.5%) となり、Phase 3 <ruby>当初<rt>とうしょ</rt></ruby><ruby>目的<rt>もくてき</rt></ruby>の<ruby>達成度合<rt>たっせいどあ</rt></ruby>いは 65% <ruby>程度<rt>ていど</rt></ruby>になります**【4】。**Phase 2 同等のスコープであれば、弊社 walk-away ライン ¥15.5M、これは<ruby>承認済<rt>しょうにんず</rt></ruby>みの<ruby>最終条件<rt>さいしゅうじょうけん</rt></ruby>**でございます。」 |
+|  | *Anh Ōgaki, em là Hà ạ. Em đã nghe yêu cầu ¥15M. Nếu ¥15M thì scope -30% (bỏ AI dashboard, PM chuyên trách, SLA 99.9%→99.5%), mức đạt mục tiêu ban đầu Phase 3 chỉ ~65%. Scope tương đương Phase 2 thì walk-away bên em là ¥15.5M, đây là điều kiện cuối đã được duyệt ạ.* |
+| **大垣** | 「…CTO <ruby>同席<rt>どうせき</rt></ruby>ですと<ruby>話<rt>はなし</rt></ruby>が<ruby>変<rt>か</rt></ruby>わりますね。¥15.5M なら<ruby>社内<rt>しゃない</rt></ruby>に<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>検討<rt>けんとう</rt></ruby>します。」 |
+|  | *…CTO cùng dự thì câu chuyện khác. ¥15.5M thì tôi mang về xem xét nội bộ.* |
 
 📝 **Ghi chú:**
 - 【1】**Câu chuyển** = hạ nhiệt. KHÔNG argue ngay. "ご指摘の点、もっともでございます" = ghi nhận chính thức.
@@ -2128,7 +2371,7 @@ Trong phòng đàm phán, sau khi Dũng quote ¥18M anchor (rule 18), 大垣 im 
 
 # Rule 27 — Re-anchor sau pushback / 再アンカリング
 
-> **Luận điểm.** Sau khi khách reject anchor đầu (¥18M → "高い"), KHÔNG immediate cave-in. Cần **re-anchor**: lập lại VALUE ban đầu + extra justification + restate target. Effect: khách bị "anchor reset" về ¥18M một lần nữa, lần này có thêm cơ sở. Không re-anchor → mỗi pushback giảm giá → leak ¥1-2M.
+> **Luận điểm.** Sau khi khách bác bỏ anchor đầu (¥18M → "高い"), KHÔNG vội nhượng bộ ngay. Cần **re-anchor**: lập lại VALUE ban đầu + thêm lý lẽ + nhắc lại mục tiêu. Hiệu ứng: khách bị "kéo neo về" ¥18M một lần nữa, lần này có thêm cơ sở. Không re-anchor → mỗi lần khách ép là lại giảm giá → rò rỉ ¥1-2M.
 >
 > Pushback された anchor は単純に下げない。value 再強調 + 新事実追加で再 anchor。「¥18M は妥当」を相手に再認識させる。
 >
@@ -2144,13 +2387,16 @@ Sau khi 大垣 reject ¥18M là "厳しい" (rule 19), tới ngày 2 (持ち帰�
 
 ## ❌ Hội thoại XẤU — không re-anchor, lập tức cắt
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **大垣** | 「持ち帰り検討の結果、¥16M でないと社内通せません。」 |
-| **ズン** | 「分かりました、¥16M で scope -10% で。」 |
+| **大垣** | 「<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>検討<rt>けんとう</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>、¥16M でないと<ruby>社内<rt>しゃない</rt></ruby><ruby>通<rt>とお</rt></ruby>せません。」 |
+|  | *Mang về xem xét xong, không phải ¥16M là không qua nội bộ.* |
+| **ズン** | 「<ruby>分<rt>わ</rt></ruby>かりました、¥16M で scope -10% で。」 |
+|  | *Em rõ ạ, ¥16M kèm scope -10% ạ.* |
 | **大垣** | 「ありがとうございます。」 |
+|  | *Cảm ơn anh.* |
 
-**Vì sao xấu:** Dũng bỏ qua cơ hội re-anchor. ¥18M chỉ ngày trước còn solid value, giờ disappear. Khách "won" round 2 → có thể push tiếp ở contract round.
+**Vì sao xấu:** Dũng bỏ qua cơ hội re-anchor. ¥18M chỉ mới hôm trước còn là mức giá có giá trị vững chắc, giờ biến mất. Khách "thắng" vòng 2 → có thể ép tiếp ở vòng ký hợp đồng.
 
 ---
 
@@ -2158,13 +2404,18 @@ Sau khi 大垣 reject ¥18M là "厳しい" (rule 19), tới ngày 2 (持ち帰�
 
 *考え*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「持ち帰り検討の結果、¥16M でないと社内通せません。」 |
-| **ズン** | 「ご検討ありがとうございます。**改めて整理させていただきますと**【1】、¥18M はROI 4.4 倍、Payback 2.3 ヶ月、3 年 NPV ¥234M という構造で、御社の +¥80M GMV 目標達成に最も合致する設計でございます。」 |
-| **ズン** | 「**追加情報として**【2】、Phase 2 同等の SLA 99.9% を維持しつつ、AI レコメンドエンジンの精度を Phase 2 比 +18% (vs. 当初提案 +12%) に拡張可能との社内検証結果が出ました【3】。これにより transaction 単価期待値は +14% に上方修正、Annual return も +¥15M/年改善見込み。」 |
-| **ズン** | 「**この value を踏まえつつ、御社の社内ハードルにも合わせる形として**【4】 — **¥17M で scope 維持 + 2 年契約**を再提案。¥16M は scope -15% (AI dashboard 2nd phase 後出し) となります。**御社のご判断としていかがでしょうか**？」 |
-| **大垣** | 「+18% 精度の話、稟議書に追加できます。¥17M + 2 年なら社内再協議します。」 |
+|  | *Mang về xem xét xong, không phải ¥16M là không qua nội bộ.* |
+| **ズン** | 「ご<ruby>検討<rt>けんとう</rt></ruby>ありがとうございます。**<ruby>改<rt>あらた</rt></ruby>めて<ruby>整理<rt>せいり</rt></ruby>させていただきますと**【1】、¥18M はROI 4.4 <ruby>倍<rt>ばい</rt></ruby>、Payback 2.3 ヶ<ruby>月<rt>げつ</rt></ruby>、3 <ruby>年<rt>ねん</rt></ruby> NPV ¥234M という<ruby>構造<rt>こうぞう</rt></ruby>で、<ruby>御社<rt>おんしゃ</rt></ruby>の +¥80M GMV <ruby>目標達成<rt>もくひょうたっせい</rt></ruby>に<ruby>最<rt>もっと</rt></ruby>も<ruby>合致<rt>がっち</rt></ruby>する<ruby>設計<rt>せっけい</rt></ruby>でございます。」 |
+|  | *Em cảm ơn quý anh đã xem xét ạ. Xin phép em sắp xếp lại — ¥18M có cấu trúc ROI 4.4 lần, Payback 2.3 tháng, NPV 3 năm ¥234M, là thiết kế khớp nhất với mục tiêu +¥80M GMV của quý cty ạ.* |
+| **ズン** | 「**<ruby>追加情報<rt>ついかじょうほう</rt></ruby>として**【2】、Phase 2 <ruby>同等<rt>どうとう</rt></ruby>の SLA 99.9% を<ruby>維持<rt>いじ</rt></ruby>しつつ、AI レコメンドエンジンの<ruby>精度<rt>せいど</rt></ruby>を Phase 2 <ruby>比<rt>ひ</rt></ruby> +18% (vs. <ruby>当初提案<rt>とうしょていあん</rt></ruby> +12%) に<ruby>拡張<rt>かくちょう</rt></ruby><ruby>可能<rt>かのう</rt></ruby>との<ruby>社内検証<rt>しゃないけんしょう</rt></ruby><ruby>結果<rt>けっか</rt></ruby>が<ruby>出<rt>で</rt></ruby>ました【3】。これにより transaction <ruby>単価<rt>たんか</rt></ruby><ruby>期待値<rt>きたいち</rt></ruby>は +14% に<ruby>上方修正<rt>じょうほうしゅうせい</rt></ruby>、Annual return も +¥15M/<ruby>年<rt>ねん</rt></ruby><ruby>改善<rt>かいぜん</rt></ruby><ruby>見込<rt>みこ</rt></ruby>み。」 |
+|  | *Thông tin thêm: giữ SLA 99.9% tương đương Phase 2, độ chính xác AI recommend engine có thể mở rộng lên +18% so Phase 2 (so với đề xuất ban đầu +12%) — đã có kết quả kiểm chứng nội bộ. Theo đó kỳ vọng đơn giá transaction điều chỉnh tăng lên +14%, Annual return cải thiện +¥15M/năm ạ.* |
+| **ズン** | 「**この value を<ruby>踏<rt>ふ</rt></ruby>まえつつ、<ruby>御社<rt>おんしゃ</rt></ruby>の<ruby>社内<rt>しゃない</rt></ruby>ハードルにも<ruby>合<rt>あ</rt></ruby>わせる<ruby>形<rt>かたち</rt></ruby>として**【4】 — **¥17M で scope <ruby>維持<rt>いじ</rt></ruby> + 2 <ruby>年契約<rt>ねんけいやく</rt></ruby>**を<ruby>再提案<rt>さいていあん</rt></ruby>。¥16M は scope -15% (AI dashboard 2nd phase <ruby>後出<rt>あとだ</rt></ruby>し) となります。**御社のご<ruby>判断<rt>はんだん</rt></ruby>としていかがでしょうか**？」 |
+|  | *Trên nền value đó, đồng thời khớp rào nội bộ quý cty — em tái đề xuất ¥17M giữ scope + hợp đồng 2 năm. ¥16M là scope -15% (đẩy AI dashboard sang 2nd phase). Quý anh thấy thế nào ạ?* |
+| **大垣** | 「+18% <ruby>精度<rt>せいど</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>、<ruby>稟議書<rt>りんぎしょ</rt></ruby>に<ruby>追加<rt>ついか</rt></ruby>できます。¥17M + 2 <ruby>年<rt>ねん</rt></ruby>なら<ruby>社内再協議<rt>しゃないさいきょうぎ</rt></ruby>します。」 |
+|  | *Vụ +18% độ chính xác có thể thêm vào ringi-sho. ¥17M + 2 năm thì tôi đem ra thảo luận lại nội bộ.* |
 
 📝 **Ghi chú:**
 - 【1】**「改めて整理」** = signal "ta sẽ restate value", khách biết đợi.
@@ -2225,11 +2476,14 @@ Round 4: 大垣 + 中村 CFO push xuống ¥14M (dưới walk-away ¥15.5M). Hà
 
 *疲 · 冷*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **大垣** | 「最終的に ¥14M でないと無理です。」 |
-| **ズン** | 「分かりました、では今回はなしで。残念ですね。Y 社さんに発注ということで…」 |
-| **大垣** | 「では失礼します。」 |
+| **大垣** | 「<ruby>最終的<rt>さいしゅうてき</rt></ruby>に ¥14M でないと<ruby>無理<rt>むり</rt></ruby>です。」 |
+|  | *Cuối cùng không phải ¥14M là không được.* |
+| **ズン** | 「分かりました、では今回はなしで。<ruby>残念<rt>ざんねん</rt></ruby>ですね。Y 社さんに<ruby>発注<rt>はっちゅう</rt></ruby>ということで…」 |
+|  | *Em rõ ạ, vậy lần này không vậy ạ. Tiếc nhỉ. Vậy quý anh đặt Y社 ạ...* |
+| **大垣** | 「では<ruby>失礼<rt>しつれい</rt></ruby>します。」 |
+|  | *Vậy chào em.* |
 
 **Vì sao xấu:** "残念" + reference Y社 = thái độ thù địch gián tiếp. Door closed. Phase 4 không có cơ hội. Tone "失敗" rõ ràng.
 
@@ -2239,14 +2493,20 @@ Round 4: 大垣 + 中村 CFO push xuống ¥14M (dưới walk-away ¥15.5M). Hà
 
 *2 秒沈黙、その後 · softer tone*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **大垣** | 「最終的に ¥14M でないと無理です。」 |
-| **ズン** | 「**ご検討、本当にありがとうございました**【1】。¥14M でしたら弊社のご提供できる scope では Phase 3 当初目的の達成が困難となり、結果的に御社にご迷惑をおかけしてしまいます。」 |
-| **ズン** | 「**今回は条件面で折り合いがつかず、誠に残念ではございますが、本件はここでクローズとさせていただければと存じます**【2】。」 |
-| **ズン** | 「**Phase 2 でのご縁は弊社にとって大変貴重な経験でございます**。**今後御社の事業環境が変わり、またご縁がございましたら、ぜひお声がけください。再度ご一緒できる機会、ぜひお声がけください**【3】。例えば Phase 4 や別案件のご相談、いつでも歓迎いたします。」 |
-| **大垣** | 「ご丁寧にありがとうございます。今回は条件が合いませんでしたが、Phase 2 での協業は弊社としても評価しております。今後何かあれば、こちらからもお声がけします。」 |
-| **ハー CTO** | 「ありがとうございます。本日のお時間、感謝いたします。」 |
+|  | *Cuối cùng không phải ¥14M là không được.* |
+| **ズン** | 「**ご<ruby>検討<rt>けんとう</rt></ruby>、本当にありがとうございました**【1】。¥14M でしたら<ruby>弊社<rt>へいしゃ</rt></ruby>のご<ruby>提供<rt>ていきょう</rt></ruby>できる scope では Phase 3 <ruby>当初<rt>とうしょ</rt></ruby><ruby>目的<rt>もくてき</rt></ruby>の<ruby>達成<rt>たっせい</rt></ruby>が<ruby>困難<rt>こんなん</rt></ruby>となり、<ruby>結果的<rt>けっかてき</rt></ruby>に<ruby>御社<rt>おんしゃ</rt></ruby>にご<ruby>迷惑<rt>めいわく</rt></ruby>をおかけしてしまいます。」 |
+|  | *Em xin chân thành cảm ơn quý anh đã xem xét. ¥14M thì với scope bên em có thể cung cấp, đạt mục tiêu Phase 3 ban đầu khó, kết quả cuối lại làm phiền quý cty ạ.* |
+| **ズン** | 「**今回は<ruby>条件面<rt>じょうけんめん</rt></ruby>で<ruby>折<rt>お</rt></ruby>り<ruby>合<rt>あ</rt></ruby>いがつかず、<ruby>誠<rt>まこと</rt></ruby>に<ruby>残念<rt>ざんねん</rt></ruby>ではございますが、<ruby>本件<rt>ほんけん</rt></ruby>はここでクローズとさせていただければと<ruby>存<rt>ぞん</rt></ruby>じます**【2】。」 |
+|  | *Lần này điều kiện chưa khớp, em thực sự rất tiếc, xin phép cho em được khép lại vụ việc tại đây ạ.* |
+| **ズン** | 「**Phase 2 でのご<ruby>縁<rt>えん</rt></ruby>は弊社にとって<ruby>大変<rt>たいへん</rt></ruby><ruby>貴重<rt>きちょう</rt></ruby>な<ruby>経験<rt>けいけん</rt></ruby>でございます**。**今後御社の<ruby>事業<rt>じぎょう</rt></ruby><ruby>環境<rt>かんきょう</rt></ruby>が変わり、<ruby>再度<rt>さいど</rt></ruby>ご一緒できる<ruby>機会<rt>きかい</rt></ruby>がございましたら、ぜひお<ruby>声<rt>こえ</rt></ruby>がけください**【3】。例えば Phase 4 や<ruby>別案件<rt>べつあんけん</rt></ruby>のご<ruby>相談<rt>そうだん</rt></ruby>、いつでも<ruby>歓迎<rt>かんげい</rt></ruby>いたします。」 |
+|  | *Mối duyên ở Phase 2 là trải nghiệm rất quý với bên em ạ. Sau này nếu môi trường kinh doanh quý cty thay đổi, có cơ hội đồng hành lại, xin quý anh liên hệ em ạ. Ví dụ Phase 4 hay dự án khác, em luôn hoan nghênh ạ.* |
+| **大垣** | 「ご<ruby>丁寧<rt>ていねい</rt></ruby>にありがとうございます。今回は条件が合いませんでしたが、Phase 2 での<ruby>協業<rt>きょうぎょう</rt></ruby>は弊社としても<ruby>評価<rt>ひょうか</rt></ruby>しております。今後何かあれば、こちらからもお声がけします。」 |
+|  | *Cảm ơn em đã chu đáo. Lần này điều kiện chưa khớp, nhưng hợp tác Phase 2 bên tôi cũng đánh giá tốt. Sau này có việc gì, bên tôi cũng sẽ liên hệ lại.* |
+| **ハー CTO** | 「ありがとうございます。本日のお<ruby>時間<rt>じかん</rt></ruby>、<ruby>感謝<rt>かんしゃ</rt></ruby>いたします。」 |
+|  | *Em cảm ơn ạ. Cảm ơn quý anh dành thời gian hôm nay ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**Acknowledge thời gian khách** — họ đã invest 4 round, phải acknowledge.
@@ -2304,30 +2564,38 @@ Sau Phase 3 chốt ¥17M + 2 năm + dashboard kèm trade (rule 24), 田中 PMO S
 
 ## ❌ Hội thoại XẤU — accept nibble miễn phí
 
-| | Speaker | Câu (Slack) |
+| | Vai | Câu (Slack) |
 |--|---------|-----|
-| **L1** | **田中PMO** | 「ズン様、お世話になっております。Phase 3 contract draft 確認しましたが、ついでに social engineer 部署向け training 1 日無料で追加可能でしょうか？」 |
-| **L2** | **ズン** | 「分かりました、サービスで含めます。」 |
-| **L3** | (1 週間後) **田中PMO** | 「ありがとうございます！ついでに 2 日目も追加で…」 |
+| **L1** | **田中PMO** | 「ズン<ruby>様<rt>さま</rt></ruby>、お<ruby>世話<rt>せわ</rt></ruby>になっております。Phase 3 contract draft <ruby>確認<rt>かくにん</rt></ruby>しましたが、ついでに social engineer <ruby>部署<rt>ぶしょ</rt></ruby><ruby>向<rt>む</rt></ruby>け training 1 <ruby>日<rt>にち</rt></ruby><ruby>無料<rt>むりょう</rt></ruby>で<ruby>追加<rt>ついか</rt></ruby><ruby>可能<rt>かのう</rt></ruby>でしょうか？」 |
+|  | *Anh Dũng ơi, tôi đã xem draft hợp đồng Phase 3 rồi, tiện thể bên tôi thêm training 1 ngày miễn phí cho phòng social engineer được không ạ?* |
+| **L2** | **ズン** | 「分かりました、サービスで<ruby>含<rt>ふく</rt></ruby>めます。」 |
+|  | *Em rõ ạ, em cho thêm vào miễn phí ạ.* |
+| **L3** | (1 週間後) **田中PMO** | 「ありがとうございます！ついでに 2 <ruby>日目<rt>にちめ</rt></ruby>も<ruby>追加<rt>ついか</rt></ruby>で…」 |
+|  | *(1 tuần sau) Cảm ơn. Tiện thể tôi muốn thêm ngày 2…* |
 | **L4** | **ズン** | 「えっ、また…？」 |
+|  | *Ơ, lại nữa ạ…?* |
 
-**Vì sao xấu:** Accept lần 1 → khách push lần 2, 3. Mỗi lần ¥0.3-0.5M leak. Đã sang phase contract mà vẫn drift cost.
+**Vì sao xấu:** Accept lần 1 → khách push lần 2, 3. Mỗi lần ¥0.3-0.5M leak. Đã sang phase contract mà vẫn trôi chi phí.
 
 ---
 
 ## ✅ Hội thoại TỐT — trade reset + protect agreement
 
-| | Speaker | Câu (Slack) |
+| | Vai | Câu (Slack) |
 |--|---------|-----|
-| **L1** | **田中PMO** | 「ズン様、Phase 3 contract draft 確認しました。ついでに social engineer 部署向け training 1 日無料で追加可能でしょうか？」 |
-| **L2** | **ズン** | 「**お声がけありがとうございます**【1】。training 1 日 (¥0.4M 相当) は当初の契約 scope 外となります。**社内 training をご希望でしたら、以下 2 案**【2】**: (A) 有償で ¥0.4M 追加、(B) 既存 scope 内で AI dashboard カスタムを 1 機能 trade、トータル金額不変。」 |
-| **L3** | **ズン** | 「**なお、追加要素のご検討に際しては全体合意の再 review が必要となるため、契約締結スケジュールが 1 週間後ろ倒しとなる可能性があります**【3】。ご都合をお聞かせください。」 |
-| **L4** | **田中PMO** | 「ご丁寧に。社内で再協議し、後ほど正式に。スケジュール優先で training は当初通り無しで進めます。」 |
+| **L1** | **田中PMO** | 「ズン<ruby>様<rt>さま</rt></ruby>、Phase 3 contract draft <ruby>確認<rt>かくにん</rt></ruby>しました。ついでに social engineer <ruby>部署<rt>ぶしょ</rt></ruby><ruby>向<rt>む</rt></ruby>け training 1 <ruby>日<rt>にち</rt></ruby><ruby>無料<rt>むりょう</rt></ruby>で<ruby>追加<rt>ついか</rt></ruby><ruby>可能<rt>かのう</rt></ruby>でしょうか？」 |
+|  | *Anh Dũng, tôi đã xem draft hợp đồng Phase 3 rồi. Tiện thể thêm training 1 ngày miễn phí cho phòng social engineer được không ạ?* |
+| **L2** | **ズン** | 「**お<ruby>声<rt>こえ</rt></ruby>がけありがとうございます**【1】。training 1 <ruby>日<rt>にち</rt></ruby> (¥0.4M <ruby>相当<rt>そうとう</rt></ruby>) は<ruby>当初<rt>とうしょ</rt></ruby>の<ruby>契約<rt>けいやく</rt></ruby> scope <ruby>外<rt>がい</rt></ruby>となります。**<ruby>社内<rt>しゃない</rt></ruby> training をご<ruby>希望<rt>きぼう</rt></ruby>でしたら、<ruby>以下<rt>いか</rt></ruby> 2 <ruby>案<rt>あん</rt></ruby>**【2】**: (A) <ruby>有償<rt>ゆうしょう</rt></ruby>で ¥0.4M <ruby>追加<rt>ついか</rt></ruby>、(B) <ruby>既存<rt>きそん</rt></ruby> scope <ruby>内<rt>ない</rt></ruby>で AI dashboard カスタムを 1 <ruby>機能<rt>きのう</rt></ruby> trade、トータル<ruby>金額<rt>きんがく</rt></ruby><ruby>不変<rt>ふへん</rt></ruby>。」 |
+|  | *Cảm ơn em đã liên hệ. Training 1 ngày (tương đương ¥0.4M) nằm ngoài scope hợp đồng ban đầu. Nếu phía em muốn training nội bộ, có 2 phương án: (A) Có phí, thêm ¥0.4M, (B) Trade 1 chức năng AI dashboard custom trong scope hiện tại, tổng tiền không đổi ạ.* |
+| **L3** | **ズン** | 「**なお、<ruby>追加<rt>ついか</rt></ruby><ruby>要素<rt>ようそ</rt></ruby>のご<ruby>検討<rt>けんとう</rt></ruby>に<ruby>際<rt>さい</rt></ruByの</ruby>しては<ruby>全体<rt>ぜんたい</rt></ruby><ruby>合意<rt>ごうい</rt></ruby>の<ruby>再<rt>さい</rt></ruby> review が<ruby>必要<rt>ひつよう</rt></ruby>となるため、<ruby>契約<rt>けいやく</rt></ruby><ruby>締結<rt>ていけつ</rt></ruby>スケジュールが 1 <ruby>週間<rt>しゅうかん</rt></ruby><ruby>後<rt>うし</rt></ruby>ろ<ruby>倒<rt>だお</rt></ruby>しとなる<ruby>可能性<rt>かのうせい</rt></ruby>があります**【3】。ご<ruby>都合<rt>つごう</rt></ruby>をお<ruby>聞<rt>き</rt></ruby>かせください。」 |
+|  | *Thêm nữa, để xem xét yếu tố bổ sung này thì cần review lại toàn bộ thỏa thuận, có thể lịch ký hợp đồng sẽ lùi 1 tuần. Em xin nghe ý anh ạ.* |
+| **L4** | **田中PMO** | 「ご<ruby>丁寧<rt>ていねい</rt></ruby>に。<ruby>社内<rt>しゃない</rt></ruby>で<ruby>再協議<rt>さいきょうぎ</rt></ruby>し、<ruby>後<rt>のち</rt></ruby>ほど<ruby>正式<rt>せいしき</rt></ruby>に。スケジュール<ruby>優先<rt>ゆうせん</rt></ruby>で training は<ruby>当初<rt>とうしょ</rt></ruby><ruby>通<rt>どお</rt></ruById</ruby>り<ruby>無<rt>な</rt></ruby>しで<ruby>進<rt>すす</rt></ruby>めます。」 |
+|  | *Cảm ơn anh chu đáo. Tôi thảo luận lại nội bộ rồi báo chính thức sau. Ưu tiên lịch, training thì giữ nguyên không thêm, mình tiếp tục như ban đầu ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**Acknowledge nhẹ** "お声がけありがとうございます" — không cứng "no" ngay.
-- 【2】**Trade option (A) 有償 / (B) scope swap** — không cho free, nhưng cho path. Khách tự decide.
-- 【3】**Reset clock** = key. Yêu cầu mới = whole agreement re-review = schedule slip → khách thường self-rescind nibble vì timing.
+- 【2】**Trade option (A) 有償 / (B) đổi scope** — không cho miễn phí, nhưng vẫn mở đường. Khách tự quyết.
+- 【3】**Reset clock** = mấu chốt. Yêu cầu mới = review lại toàn bộ thỏa thuận = lùi lịch → khách thường tự rút nibble vì sợ trễ tiến độ.
 
 ---
 
@@ -2387,12 +2655,16 @@ Round 3 đàm phán Phase 3 vừa close ¥17M + 2 năm + dashboard. Trước khi
 
 *困*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **大垣** | 「では、概ね合意ということで。」 |
-| **ズン** | 「はい、ありがとうございます！では契約書を進めます。」 |
-| (3日後 Slack) **田中PMO** | 「ズン様、契約書ドラフト拝見しました。**SLA 99.9% となっていますが、当日 99.5% で合意では？**」 |
-| **ズン** | 「えっ、99.9% で合意したと記憶しているのですが…」 |
+| **大垣** | 「では、<ruby>概<rt>おおむ</rt></ruby>ね<ruby>合意<rt>ごうい</rt></ruby>ということで。」 |
+|  | *Thôi, coi như đã đại thể đồng thuận nhé.* |
+| **ズン** | 「はい、ありがとうございます！では<ruby>契約書<rt>けいやくしょ</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めます。」 |
+|  | *Vâng, em cảm ơn ạ! Em sẽ tiến hành soạn hợp đồng ạ.* |
+| (3日後 Slack) **田中PMO** | 「ズン<ruby>様<rt>さま</rt></ruby>、<ruby>契約書<rt>けいやくしょ</rt></ruby>ドラフト<ruby>拝見<rt>はいけん</rt></ruby>しました。**SLA 99.9% となっていますが、<ruby>当日<rt>とうじつ</rt></ruby> 99.5% で<ruby>合意<rt>ごうい</rt></ruby>では？**」 |
+|  | *Anh Dũng, tôi đã xem bản nháp hợp đồng. SLA ghi 99.9% nhưng hôm đó chúng ta thống nhất 99.5% mà?* |
+| **ズン** | 「えっ、99.9% で<ruby>合意<rt>ごうい</rt></ruby>したと<ruby>記憶<rt>きおく</rt></ruby>しているのですが…」 |
+|  | *Ơ, em nhớ là đã thống nhất 99.9% mà ạ...* |
 
 **Vì sao xấu:** Không read back → memory mismatch giữa 2 bên. Khi Dũng nhớ 99.9% còn Tanaka nhớ 99.5% — không có biên bản → khách win because seller phải back down. Skip 30 giây read back = mất ¥1-2M maintenance cost over 2 năm.
 
@@ -2402,13 +2674,18 @@ Round 3 đàm phán Phase 3 vừa close ¥17M + 2 năm + dashboard. Trước khi
 
 *メモ確認*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **大垣** | 「では、概ね合意ということで。」 |
-| **ズン** | 「ありがとうございます。**最後に本日の合意事項を確認させてください**【1】。1点ずつ読み上げます。」 |
-| **ズン** | 「**①価格**: ¥17M (税抜)、**②契約期間**: 2026年7月-2028年6月の2年間、**③スコープ**: AI レコメンドエンジン + 専任PM + AI dashboard カスタム1機能、**④SLA**: 99.9%、**⑤支払**: 月次後払い、**⑥成果物 IP**: 共同所有、**⑦稟議スケジュール**: 御社にて5月末まで【2】。以上で齟齬ございませんでしょうか？」 |
-| **大垣** | 「はい、その通りです。1点だけ、**支払サイトは月末締め翌月末払い**でお願いします。」 |
-| **ズン** | 「承知いたしました。**月末締め翌月末払いを追記**して、**24時間以内に確認メールをお送りいたします**【3】。本日はありがとうございました。」 |
+| **大垣** | 「では、<ruby>概<rt>おおむ</rt></ruby>ね<ruby>合意<rt>ごうい</rt></ruby>ということで。」 |
+|  | *Thôi, coi như đã đại thể đồng thuận nhé.* |
+| **ズン** | 「ありがとうございます。**<ruby>最後<rt>さいご</rt></ruby>に<ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>合意事項<rt>ごういじこう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>させてください**【1】。1<ruby>点<rt>てん</rt></ruby>ずつ<ruby>読<rt>よ</rt></ruby>み<ruby>上<rt>あ</rt></ruby>げます。」 |
+|  | *Em cảm ơn ạ. Cuối cùng cho phép em xác nhận các điểm đã đồng thuận hôm nay ạ. Em đọc từng mục một.* |
+| **ズン** | 「**①<ruby>価格<rt>かかく</rt></ruby>**: ¥17M (<ruby>税抜<rt>ぜいぬき</rt></ruby>)、**②<ruby>契約期間<rt>けいやくきかん</rt></ruby>**: 2026年7月-2028年6月の2<ruby>年間<rt>ねんかん</rt></ruby>、**③スコープ**: AI レコメンドエンジン + <ruby>専任<rt>せんにん</rt></ruby>PM + AI dashboard カスタム1<ruby>機能<rt>きのう</rt></ruby>、**④SLA**: 99.9%、**⑤<ruby>支払<rt>しはらい</rt></ruby>**: <ruby>月次後払<rt>げつじあとばら</rt></ruby>い、**⑥<ruby>成果物<rt>せいかぶつ</rt></ruby> IP**: <ruby>共同所有<rt>きょうどうしょゆう</rt></ruby>、**⑦<ruby>稟議<rt>りんぎ</rt></ruby>スケジュール**: <ruby>御社<rt>おんしゃ</rt></ruby>にて5<ruby>月末<rt>がつまつ</rt></ruby>まで【2】。<ruby>以上<rt>いじょう</rt></ruby>で<ruby>齟齬<rt>そご</rt></ruby>ございませんでしょうか？」 |
+|  | *①Giá: ¥17M (chưa thuế), ②Kỳ hạn: 7/2026 - 6/2028 (2 năm), ③Phạm vi: AI recommend engine + PM chuyên trách + 1 tính năng tùy biến dashboard, ④SLA: 99.9%, ⑤Thanh toán: trả sau hàng tháng, ⑥IP sản phẩm: đồng sở hữu, ⑦Lịch ringi: bên anh duyệt trong tháng 5. Tất cả không có sai lệch nào ạ?* |
+| **大垣** | 「はい、その<ruby>通<rt>とお</rt></ruby>りです。1<ruby>点<rt>てん</rt></ruby>だけ、**<ruby>支払<rt>しはらい</rt></ruby>サイトは<ruby>月末締<rt>げつまつじ</rt></ruby>め<ruby>翌月末払<rt>よくげつまつばら</rt></ruby>い**でお<ruby>願<rt>ねが</rt></ruby>いします。」 |
+|  | *Đúng vậy. Chỉ có một điểm: chu kỳ thanh toán là chốt cuối tháng, trả cuối tháng kế tiếp giúp tôi.* |
+| **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>いたしました。**<ruby>月末締<rt>げつまつじ</rt></ruby>め<ruby>翌月末払<rt>よくげつまつばら</rt></ruby>いを<ruby>追記<rt>ついき</rt></ruby>**して、**24<ruby>時間以内<rt>じかんいない</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>メールをお<ruby>送<rt>おく</rt></ruby>りいたします**【3】。<ruby>本日<rt>ほんじつ</rt></ruby>はありがとうございました。」 |
+|  | *Em nhận rồi ạ. Em sẽ bổ sung 'chốt cuối tháng - trả cuối tháng kế', và gửi mail tổng kết trong vòng 24 giờ ạ. Hôm nay em cảm ơn anh nhiều ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**「合意事項を確認させてください」** — set up read-back ritual. Không phải optional, là procedure.
@@ -2467,12 +2744,16 @@ Round 3 đàm phán Phase 3 vừa close ¥17M + 2 năm + dashboard. Trước khi
 
 *Slack 大垣に · 慌*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| (月曜 15:00、商談から 5日後) **ズン** | 「大垣様、先日はありがとうございました！合意事項を後ほどメールでお送りします。」 |
-| **大垣** | 「ズン様、社内稟議が **金曜から動き始めて**、文書がないため **保留中**です。本日中にいただけますか？」 |
-| **ズン** | 「申し訳ございません、すぐ送ります！」 |
-| (16:30 送信、 fields 抜けあり) | (件名: 「Phase 3 の件」… body: 短い「合意ありがとうございました。¥17M で 2 年です」) |
+| (月曜 15:00、<ruby>商談<rt>しょうだん</rt></ruby>から 5日後) **ズン** | 「<ruby>大垣<rt>おおがき</rt></ruby>様、<ruby>先日<rt>せんじつ</rt></ruby>はありがとうございました！<ruby>合意<rt>ごうい</rt></ruby><ruby>事項<rt>じこう</rt></ruby>を<ruby>後<rt>のち</rt></ruby>ほどメールでお<ruby>送<rt>おく</rt></ruby>りします。」 |
+|  | *Anh Ōgaki, hôm trước em cảm ơn anh nhiều ạ! Các điểm đã đồng thuận em sẽ gửi mail sau ạ.* |
+| **大垣** | 「ズン様、<ruby>社内<rt>しゃない</rt></ruby><ruby>稟議<rt>りんぎ</rt></ruby>が **<ruby>金曜<rt>きんよう</rt></ruby>から<ruby>動<rt>うご</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めて**、<ruby>文書<rt>ぶんしょ</rt></ruby>がないため **<ruby>保留<rt>ほりゅう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>**です。<ruby>本日<rt>ほんじつ</rt></ruby><ruby>中<rt>じゅう</rt></ruby>にいただけますか？」 |
+|  | *Anh Dũng, ringi nội bộ bên anh đã chạy từ thứ Sáu, vì chưa có văn bản nên đang phải tạm dừng. Trong hôm nay gửi được không?* |
+| **ズン** | 「<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません、すぐ<ruby>送<rt>おく</rt></ruby>ります！」 |
+|  | *Em xin lỗi anh ạ, em gửi ngay ạ!* |
+| (16:30 送信、項目抜けあり) | (件名: 「Phase 3 の件」… 本文: 短い「合意ありがとうございました。¥17M で 2 年です」) |
+|  | *(Tiêu đề: "Vụ Phase 3"… body ngắn: "Cảm ơn anh đã đồng thuận. ¥17M, 2 năm")* |
 
 **Vì sao xấu:** (a) 5日遅延 = ringi blocked, (b) 件名 vague, (c) body thiếu attendees, open items, next steps. Khách phải nhờ Tiên Phát draft lại → trust降下. Phase 3 lùi 2 tuần.
 
@@ -2482,7 +2763,7 @@ Round 3 đàm phán Phase 3 vừa close ¥17M + 2 năm + dashboard. Trước khi
 
 *Hương review trước khi gửi · file 開く · Slack Hương*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | (商談翌朝 09:30) **ズン** | 「フオン副部長、Phase 3 商談の確認メール drafts しました。送信前に一度ご確認お願いいたします。」 |
 | **フオン** | 「件名 OK、出席者 OK、合意 7 項目 numbered OK、未決 2 項目 OK、次アクション owner+deadline 明記 OK。**いいね、送信して**。」 |
@@ -2555,13 +2836,18 @@ Recap mail OK reply nhận được. Tuấn đề xuất "LOI khỏi cần, làm
 
 *Slack 内部 · 困*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「ズン、recap OK 来たし、契約書ドラフトを直接送ろう。LOI 余計な工程じゃない？」 |
-| **ズン** | 「では契約書 v1 を作成して大垣様に送ります。」 |
-| (2 週間後) **大垣** | 「ズン様、契約書 v1 拝見しました。**ところで価格 ¥17M は税込ですよね？**」 |
-| **ズン** | 「いえ、税抜で recap メールに記載しております…」 |
-| **大垣** | 「**社内では税込前提で稟議が動いており**、ここから差額で再交渉になります…」 |
+| **トゥアン** | 「ズン、recap OK 来たし、<ruby>契約書<rt>けいやくしょ</rt></ruby>ドラフトを<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>送<rt>おく</rt></ruby>ろう。LOI <ruby>余計<rt>よけい</rt></ruby>な<ruby>工程<rt>こうてい</rt></ruby>じゃない？」 |
+|  | *Dũng, recap OK rồi, gửi contract draft thẳng đi. LOI có phải bước thừa không?* |
+| **ズン** | 「では契約書 v1 を<ruby>作成<rt>さくせい</rt></ruby>して<ruby>大垣<rt>おおがき</rt></ruby>様に送ります。」 |
+|  | *Vâng, em sẽ làm contract v1 gửi anh Ōgaki ạ.* |
+| (2 週間後) **大垣** | 「ズン様、契約書 v1 <ruby>拝見<rt>はいけん</rt></ruby>しました。**ところで<ruby>価格<rt>かかく</rt></ruby> ¥17M は<ruby>税込<rt>ぜいこみ</rt></ruby>ですよね？**」 |
+|  | *Anh Dũng, đã xem contract v1. À mà giá ¥17M là đã bao gồm thuế đúng không?* |
+| **ズン** | 「いえ、<ruby>税抜<rt>ぜいぬき</rt></ruby>で recap メールに<ruby>記載<rt>きさい</rt></ruby>しております…」 |
+|  | *Dạ không, em ghi 'chưa thuế' trong recap mail rồi ạ...* |
+| **大垣** | 「**社内では税込<ruby>前提<rt>ぜんてい</rt></ruby>で<ruby>稟議<rt>りんぎ</rt></ruby>が動いており**、ここから<ruby>差額<rt>さがく</rt></ruby>で<ruby>再交渉<rt>さいこうしょう</rt></ruby>になります…」 |
+|  | *Bên anh ringi đang chạy theo giả định 'đã thuế', từ đây phần chênh lệch sẽ phải re-negotiate...* |
 
 **Vì sao xấu:** Skip LOI → commercial terms (giá, term, scope) chỉ ở mail, không có chữ ký. Khách dispute "tax inclusive vs exclusive" → re-negotiation ¥1.7M. LOI 1 trang ký 2 bên đã ngăn được chính xác chuyện này.
 
@@ -2571,7 +2857,7 @@ Recap mail OK reply nhận được. Tuấn đề xuất "LOI khỏi cần, làm
 
 *Slack · Slack Hương*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
 | **フオン** | 「ズン、recap OK 来たね。**次は LOI ドラフト 1-2 ページ**【1】を準備して。 commercial terms 6 項目だけ。詳細条項は後の契約書 draft で詰める。」 |
 | **ズン** | 「承知しました。LOI v1 作成して、本日中に弊社内で legal レビュー → 明日大垣様に送付いたします。」 |
@@ -2635,7 +2921,7 @@ Xem `conversation.json` → `templates[0]` (`format: "report"`) cho LOI 1-2 tran
 
 ## Bối cảnh / 場面
 
-Contract draft v1 Tiên Phát gửi 大垣. Bên 白鷗 legal trả về v2 với (a) indemnity cap unlimited, (b) IP toàn bộ thuộc 白鷗 (kể cả reusable component). Hà CTO phản đối — Dũng cần đàm phán 3 vòng để đạt cap = ¥17M + điều khoản phân chia IP (IP split clause).
+Contract draft v1 Tiên Phát gửi 大垣. Bên 白鷗 legal trả về v2 với (a) indemnity cap unlimited, (b) IP toàn bộ thuộc 白鷗 (kể cả reusable component). Hà CTO phản đối — Dũng cần đàm phán 3 vòng để đạt cap = ¥17M + điều khoản phân chia IP.
 
 ---
 
@@ -2643,29 +2929,39 @@ Contract draft v1 Tiên Phát gửi 大垣. Bên 白鷗 legal trả về v2 vớ
 
 *legal redline 共有 · 早く close したい · 急に call*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **大垣** | 「ズン様、弊社 legal からの修正版です。**indemnity は無制限**、IP は **当社帰属** でお願いします。」 |
+| **大垣** | 「ズン様、弊社 legal からの修正版です。**indemnity は<ruby>無制限<rt>むせいげん</rt></ruby>**、IP は **当社<ruby>帰属<rt>きぞく</rt></ruby>** でお願いします。」 |
+|  | *Anh Dũng, đây là bản sửa từ legal bên anh. Indemnity unlimited, IP thuộc bên tôi, anh giúp tôi.* |
 | **ズン** | 「承知しました、それで進めます。」 |
-| (1 ヶ月後 contract 締結、Tuấn 知る) **トゥアン** | 「ズン、これ **無制限損害賠償** じゃないか…1 件 bug で会社潰れるぞ。」 |
-| **ハー CTO** | 「これ legal レビュー通したのか？ **撤回交渉**を今すぐかけるしかない。」 |
+|  | *Em rõ rồi ạ, em đi tiếp như vậy ạ.* |
+| (1 ヶ月後 contract 締結、Tuấn 知る) **トゥアン** | 「ズン、これ **<ruby>無制限<rt>むせいげん</rt></ruby><ruby>損害<rt>そんがい</rt></ruby><ruby>賠償<rt>ばいしょう</rt></ruby>** じゃないか…1 件 bug で会社潰れるぞ。」 |
+|  | *Dũng, cái này indemnity unlimited mà… 1 cái bug là công ty mình phá sản đó.* |
+| **ハー CTO** | 「これ legal レビュー通したのか？ **<ruby>撤回<rt>てっかい</rt></ruby><ruby>交渉<rt>こうしょう</rt></ruby>**を今すぐかけるしかない。」 |
+|  | *Cái này có qua legal review không em? Bây giờ chỉ còn cách renegotiate rút lại thôi.* |
 
 **Vì sao xấu:** Indemnity unlimited = 1 production incident có thể dẫn đến ¥100M+ claim — Tiên Phát phá sản. IP toàn bộ thuộc 白鷗 = reusable AI component không thể dùng cho khách khác → Phase 4 mất margin. Đây là 2 sai sót nghiêm trọng.
 
 ---
 
-## ✅ Hội thoại TỐT — tinh chỉnh 3 điểm với data + escalation
+## ✅ Hội thoại TỐT — tinh chỉnh 3 điểm với dữ liệu + đẩy lên cấp trên
 
 *沈黙 5秒 → メモ*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **大垣** | 「indemnity 無制限、IP 当社帰属でお願いします。」 |
-| **ズン** | 「ご要望承知しました。**ただし**【1】**、indemnity 無制限は弊社 legal および取締役会上限規定 (年契約額) を超えるため、本日中に持ち帰り検討させてください**。」 |
-| (社内 緊急召集) **ハー CTO** | 「3 つ譲れない: ①損害賠償上限 = 年契約額 ¥17M、②IP 分割 (clientA 固有コードは貴社、reusable AI component は弊社)、③SLA 99.9% は維持。これ以下なら撤退【2】。」 |
-| (翌日 大垣との call) **ズン** | 「お時間いただきありがとうございます。**3 点ご相談**: (i) 損害賠償上限を **年契約額 ¥17M に設定**、業界標準でございます【3】。(ii) IP は **2 層構造**、御社固有 customization は御社、汎用 AI component は弊社、ライセンス供与いたします。(iii) SLA 99.9% 維持、罰則は **月額 5% upper cap**。」 |
-| **大垣** | 「…IP 2 層構造は理解できます。indemnity 上限も legal 慣行ですね。社内検討の上、**3 営業日以内にお返事**いたします。」 |
-| (3日後) **大垣** | 「3 点とも承諾いたします。final draft に反映お願いします。」 |
+| **大垣** | 「indemnity <ruby>無制限<rt>むせいげん</rt></ruby>、IP 当社<ruby>帰属<rt>きぞく</rt></ruby>でお願いします。」 |
+|  | *Indemnity unlimited, IP thuộc bên tôi, anh giúp tôi.* |
+| **ズン** | 「ご<ruby>要望<rt>ようぼう</rt></ruby>承知しました。**ただし**【1】**、indemnity 無制限は弊社 legal および<ruby>取締役会<rt>とりしまりやくかい</rt></ruby><ruby>上限<rt>じょうげん</rt></ruby><ruby>規定<rt>きてい</rt></ruby> (年契約額) を超えるため、本日中に<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り検討させてください**。」 |
+|  | *Em ghi nhận yêu cầu của anh. Tuy nhiên, indemnity unlimited vượt quá quy định cap của legal và HĐQT bên em (annual contract value), em xin phép mang về xem trong ngày hôm nay ạ.* |
+| (社内 緊急召集) **ハー CTO** | 「3 つ譲れない: ①<ruby>損害<rt>そんがい</rt></ruby><ruby>賠償<rt>ばいしょう</rt></ruby><ruby>上限<rt>じょうげん</rt></ruby> = 年契約額 ¥17M、②IP <ruby>分割<rt>ぶんかつ</rt></ruby> (clientA <ruby>固有<rt>こゆう</rt></ruby>コードは<ruby>貴社<rt>きしゃ</rt></ruby>、reusable AI component は弊社)、③SLA 99.9% は<ruby>維持<rt>いじ</rt></ruby>。これ以下なら<ruby>撤退<rt>てったい</rt></ruby>【2】。」 |
+|  | *3 điểm không nhân nhượng: ①Cap indemnity = annual ¥17M, ②IP chia 2 lớp (code riêng của khách thuộc khách, reusable AI component thuộc mình), ③SLA 99.9% giữ. Dưới mức này thì rút.* |
+| (翌日 大垣との call) **ズン** | 「お時間いただきありがとうございます。**3 点ご相談**: (i) <ruby>損害<rt>そんがい</rt></ruby><ruby>賠償<rt>ばいしょう</rt></ruby><ruby>上限<rt>じょうげん</rt></ruby>を **年契約額 ¥17M に設定**、<ruby>業界<rt>ぎょうかい</rt></ruby><ruby>標準<rt>ひょうじゅん</rt></ruby>でございます【3】。(ii) IP は **2 層構造**、御社<ruby>固有<rt>こゆう</rt></ruby> customization は御社、<ruby>汎用<rt>はんよう</rt></ruby> AI component は弊社、<ruby>供与<rt>きょうよ</rt></ruby>いたします。(iii) SLA 99.9% 維持、<ruby>罰則<rt>ばっそく</rt></ruby>は **月額 5% upper cap**。」 |
+|  | *Em cảm ơn anh đã dành thời gian. Em xin trao đổi 3 điểm: (i) Cap indemnity đặt ở annual ¥17M, đây là industry standard. (ii) IP cấu trúc 2 lớp, customization riêng của bên anh thuộc bên anh, AI component generic thuộc bên em và bên em license cho bên anh. (iii) SLA giữ 99.9%, penalty cap 5% giá trị tháng.* |
+| **大垣** | 「…IP 2 層構造は理解できます。indemnity 上限も legal <ruby>慣行<rt>かんこう</rt></ruby>ですね。社内検討の上、**3 <ruby>営業日<rt>えいぎょうび</rt></ruby>以内にお返事**いたします。」 |
+|  | *…IP 2 layers tôi hiểu được. Cap indemnity cũng là practice của legal. Bên anh nội bộ thảo luận, trong 3 ngày làm việc sẽ phản hồi.* |
+| (3日後) **大垣** | 「3 点とも<ruby>承諾<rt>しょうだく</rt></ruby>いたします。final draft に<ruby>反映<rt>はんえい</rt></ruby>お願いします。」 |
+|  | *Cả 3 điểm bên tôi đồng thuận. Phiền anh update vào final draft.* |
 
 📝 **Ghi chú:**
 - 【1】**「ただし」 + 「持ち帰り検討」** — 即決 NO ではなく escalation バッファ。日本流 disagree 礼儀.
@@ -2719,39 +3015,49 @@ Contract draft v1 Tiên Phát gửi 大垣. Bên 白鷗 legal trả về v2 vớ
 
 ## Bối cảnh / 場面
 
-Final contract v3 sau 3 round terms negotiation đã OK. Hà CTO ký bên Tiên Phát. Bây giờ Dũng request 大垣 ký bên 白鷗. Kickoff dự kiến 7/1 → cần ký xong 6/25.
+Final contract v3 sau 3 vòng đàm phán điều khoản đã OK. Hà CTO ký bên Tiên Phát. Bây giờ Dũng mời 大垣 ký bên 白鷗. Kickoff dự kiến 7/1 → cần ký xong 6/25.
 
 ---
 
 ## ❌ Hội thoại XẤU — request signature casual + không deadline
 
-| | Speaker | Câu (mail) |
+| | Vai | Câu (mail) |
 |--|---------|-----|
-| **L1** | (件名:「契約書」) **ズン** | 「大垣様、契約書を添付しました。サインお願いします。」 |
-| **L2** | (3 週間沈黙) **ズン** *(焦)* | 「大垣様、その後いかがでしょうか？」 |
-| **L3** | **大垣** | 「ズン様、優先順位として social engineer 案件が走っており、契約書は来月見ます。」 |
-| **L4** | **ズン** *(キックオフ delay)* | (キックオフ 7/1 → 7/22 後ろ倒し決定) |
+| **L1** | (件名:「<ruby>契約書<rt>けいやくしょ</rt></ruby>」) **ズン** | 「大垣様、<ruby>契約書<rt>けいやくしょ</rt></ruby>を<ruby>添付<rt>てんぷ</rt></ruby>しました。サインお<ruby>願<rt>ねが</rt></ruby>いします。」 |
+| | | *Tiêu đề 'Hợp đồng' — Anh Ōgaki, em đính kèm hợp đồng ạ. Anh ký giúp em.* |
+| **L2** | (3 <ruby>週間<rt>しゅうかん</rt></ruby><ruby>沈黙<rt>ちんもく</rt></ruby>) **ズン** *(焦)* | 「大垣様、その<ruby>後<rt>ご</rt></ruby>いかがでしょうか？」 |
+| | | *(Sau 3 tuần im lặng) Anh Ōgaki, bên anh thế nào rồi ạ?* |
+| **L3** | **大垣** | 「ズン様、<ruby>優先順位<rt>ゆうせんじゅんい</rt></ruby>として social engineer <ruby>案件<rt>あんけん</rt></ruby>が<ruby>走<rt>はし</rt></ruby>っており、<ruby>契約書<rt>けいやくしょ</rt></ruby>は<ruby>来月<rt>らいげつ</rt></ruby><ruby>見<rt>み</rt></ruby>ます。」 |
+| | | *Anh Dũng, ưu tiên hiện tại bên anh đang chạy vụ social engineer, hợp đồng tháng sau anh xem.* |
+| **L4** | **ズン** *(キックオフ delay)* | (キックオフ 7/1 → 7/22 <ruby>後<rt>うし</rt></ruby>ろ<ruby>倒<rt>だお</rt></ruby>し<ruby>決定<rt>けってい</rt></ruby>) |
+| | | *(Kickoff 7/1 → quyết định lùi 7/22)* |
 
-**Vì sao xấu:** (a) 件名 「契約書」 — không urgency, archive bottom, (b) 「サイン」 casual với business JP, (c) không deadline → khách de-prioritize, (d) follow-up muộn. Project delay 3 週間 = ¥1.5M margin loss.
+**Vì sao xấu:** (a) 件名 「契約書」 — không tạo cảm giác gấp, dễ bị trôi xuống đáy hòm thư, (b) 「サイン」 không trang trọng với business JP, (c) không deadline → khách hạ ưu tiên, (d) follow-up muộn. Dự án trễ 3 週間 = mất ¥1.5M lợi nhuận.
 
 ---
 
 ## ✅ Hội thoại TỐT — formal request + 3 elements
 
-| | Speaker | Câu (mail) |
+| | Vai | Câu (mail) |
 |--|---------|-----|
-| **L1** | (件名:「【ご捺印のお願い】Phase 3 業務委託契約書 (キックオフ 7/1 予定)」) **ズン** | 「大垣様、いつもお世話になっております。」 |
-| **L2** | **ズン** *(本文)* | 「Phase 3 業務委託契約書 final 版が両社合意に至りましたので、お送りいたします。**つきましては、ご署名・ご捺印いただけますでしょうか**【1】。」 |
-| **L3** | **ズン** | 「**キックオフを 7 月 1 日に予定**しているため、**6 月 25 日 (水) までに**ご捺印頂けますと幸いです【2】。」 |
-| **L4** | **ズン** | 「方法は、(a) eSignature (DocuSign リンク添付)、または (b) 紙原本郵送 (本日中に発送可能) のいずれかをお選びいただけます【3】。ご都合のよろしい方をお知らせください。」 |
-| **L5** | (翌日) **大垣** | 「ズン様、迅速なご手配ありがとうございます。eSignature で進めさせていただきます。本日午後に処理いたします。」 |
-| **L6** | (16:30) **DocuSign 完了通知** → **ズン** *(Slack Hương)* | 「Phase 3 契約締結完了しました。Hà CTO + 大垣様 両社捺印済【4】。」 |
+| **L1** | (件名:「【ご<ruby>捺印<rt>なついん</rt></ruby>のお<ruby>願<rt>ねが</rt></ruby>い】Phase 3 <ruby>業務委託契約書<rt>ぎょうむいたくけいやくしょ</rt></ruby> (キックオフ 7/1 <ruby>予定<rt>よてい</rt></ruby>)」) **ズン** | 「大垣様、いつもお<ruby>世話<rt>せわ</rt></ruby>になっております。」 |
+| | | *Tiêu đề 'Kính nhờ đóng dấu — Hợp đồng Phase 3 (kickoff 7/1)' — Anh Ōgaki, em vẫn luôn được anh giúp đỡ ạ.* |
+| **L2** | **ズン** *(本文)* | 「Phase 3 <ruby>業務委託契約書<rt>ぎょうむいたくけいやくしょ</rt></ruby> final <ruby>版<rt>ばん</rt></ruby>が<ruby>両社<rt>りょうしゃ</rt></ruby><ruby>合意<rt>ごうい</rt></ruby>に<ruby>至<rt>いた</rt></ruby>りましたので、お<ruby>送<rt>おく</rt></ruby>りいたします。**つきましては、ご<ruby>署名<rt>しょめい</rt></ruby>・ご<ruby>捺印<rt>なついん</rt></ruby>いただけますでしょうか**【1】。」 |
+| | | *Hợp đồng Phase 3 bản final đã đạt đồng thuận giữa hai bên, em xin gửi anh. Phiền anh ký và đóng dấu giúp em ạ.* |
+| **L3** | **ズン** | 「**キックオフを 7 <ruby>月<rt>がつ</rt></ruby> 1 <ruby>日<rt>にち</rt></ruby>に<ruby>予定<rt>よてい</rt></ruby>**しているため、**6 <ruby>月<rt>がつ</rt></ruby> 25 <ruby>日<rt>にち</rt></ruby> (<ruby>水<rt>すい</rt></ruby>) までに**ご<ruby>捺印<rt>なついん</rt></ruby><ruby>頂<rt>いただ</rt></ruby>けますと<ruby>幸<rt>さいわ</rt></ruby>いです【2】。」 |
+| | | *Vì kickoff dự kiến ngày 1/7, em rất mong anh đóng dấu trước thứ Tư 25/6 ạ.* |
+| **L4** | **ズン** | 「<ruby>方法<rt>ほうほう</rt></ruby>は、(a) eSignature (DocuSign リンク<ruby>添付<rt>てんぷ</rt></ruby>)、または (b) <ruby>紙<rt>かみ</rt></ruby><ruby>原本<rt>げんぽん</rt></ruby><ruby>郵送<rt>ゆうそう</rt></ruby> (<ruby>本日<rt>ほんじつ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>発送<rt>はっそう</rt></ruby><ruby>可能<rt>かのう</rt></ruby>) のいずれかをお<ruby>選<rt>えら</rt></ruby>びいただけます【3】。ご<ruby>都合<rt>つごう</rt></ruby>のよろしい<ruby>方<rt>ほう</rt></ruby>をお<ruby>知<rt>し</rt></ruby>らせください。」 |
+| | | *Về phương thức, anh có thể chọn: (a) eSignature (link DocuSign đính kèm) hoặc (b) gửi bản giấy gốc (em có thể chuyển phát trong ngày). Anh chọn cách nào tiện cho anh thì báo lại giúp em ạ.* |
+| **L5** | (翌日) **大垣** | 「ズン様、<ruby>迅速<rt>じんそく</rt></ruby>なご<ruby>手配<rt>てはい</rt></ruby>ありがとうございます。eSignature で<ruby>進<rt>すす</rt></ruby>めさせていただきます。<ruby>本日<rt>ほんじつ</rt></ruby><ruby>午後<rt>ごご</rt></ruby>に<ruby>処理<rt>しょり</rt></ruby>いたします。」 |
+| | | *Anh Dũng, cảm ơn em đã chuẩn bị nhanh. Bên tôi đi theo eSignature. Chiều nay tôi xử lý.* |
+| **L6** | (16:30) **DocuSign <ruby>完了通知<rt>かんりょうつうち</rt></ruby>** → **ズン** *(Slack Hương)* | 「Phase 3 <ruby>契約<rt>けいやく</rt></ruby><ruby>締結<rt>ていけつ</rt></ruby><ruby>完了<rt>かんりょう</rt></ruby>しました。Hà CTO + 大垣様 <ruby>両社<rt>りょうしゃ</rt></ruby><ruby>捺印済<rt>なついんずみ</rt></ruby>【4】。」 |
+| | | *Hợp đồng Phase 3 ký xong rồi ạ. Anh Hà CTO + anh Ōgaki cả 2 bên đã đóng dấu ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**「ご署名・ご捺印いただけますでしょうか」** = 調印依頼の決まり文句. 「サイン」 không trang trọng (casual) NG.
+- 【1】**「ご署名・ご捺印いただけますでしょうか」** = 調印依頼の決まり文句. 「サイン」 không trang trọng → NG.
 - 【2】**Deadline 明示 + 理由 (キックオフ日)** = 急かしではなく合理的. 期限 1 週間以上余裕を持つ.
-- 【3】**2 method 提示** = 紙印鑑文化と eSignature 普及の混在期。選ばせると自分の都合で動ける.
-- 【4】**両社捺印済 = closure**. 内部 Slack で完了報告 → rule 37 internal kickoff へ.
+- 【3】**Đưa 2 phương án (2 method 提示)** = 紙印鑑文化と eSignature 普及の混在期。選ばせると自分の都合で動ける.
+- 【4】**両社捺印済 = khép thương vụ**. 内部 Slack で完了報告 → rule 37 kickoff nội bộ へ.
 
 ---
 
@@ -2759,7 +3065,7 @@ Final contract v3 sau 3 round terms negotiation đã OK. Hà CTO ký bên Tiên 
 
 > **「ご署名・ご捺印いただけますでしょうか + キックオフ日逆算 deadline + 2 method 提示 = 調印依頼の標準。」**
 >
-> *Câu formal + deadline logic ngược từ kickoff + 2 phương án = signature request chuẩn.*
+> *Câu formal + deadline tính ngược từ kickoff + 2 phương án = lời mời ký chuẩn.*
 
 ---
 
@@ -2787,11 +3093,11 @@ Final contract v3 sau 3 round terms negotiation đã OK. Hà CTO ký bên Tiên 
 | 急かし | せかし | Thúc giục |
 
 
-# Rule 35 — Negotiation walk-away gracefully / 商談打ち切り
+# Rule 35 — Rút lui đàm phán phong nhã / 商談打ち切り
 
-> **Luận điểm.** Khi terms không thể thỏa thuận được → walk away. KHÔNG nói 「お断りします」 cứng. Câu chuẩn: 「**条件面で折り合いがつかず、今回は誠に残念ながら見送りとさせていただきます**」 + 「**ご縁がございましたら**」 maintain relationship door. JP business: relationship dài hạn quan trọng hơn deal đơn lẻ — walk away phong nhã = next opportunity.
+> **Luận điểm.** Khi điều kiện không thể thỏa thuận được → rút lui (walk-away). KHÔNG nói 「お断りします」 cứng. Câu chuẩn: 「**条件面で折り合いがつかず、今回は誠に残念ながら見送りとさせていただきます**」 + 「**ご縁がございましたら**」 để giữ cánh cửa quan hệ. Trong kinh doanh Nhật: quan hệ dài hạn quan trọng hơn một thương vụ đơn lẻ — rút lui phong nhã = cơ hội lần sau.
 >
-> 条件 bridge 不可で打ち切る場合、「お断り」 cứng は relationship 切断。「条件面で折り合いがつかず」+「ご縁がございましたら」で dignity 保持し関係維持。
+> 条件 bắc cầu 不可で打ち切る場合、「お断り」 cứng は relationship 切断。「条件面で折り合いがつかず」+「ご縁がございましたら」で giữ thể diện và duy trì quan hệ.
 >
 > **Liên quan:** rule 28 (撤退作法), rule 36 (post-deal挨拶).
 
@@ -2799,44 +3105,55 @@ Final contract v3 sau 3 round terms negotiation đã OK. Hà CTO ký bên Tiên 
 
 ## Bối cảnh / 場面
 
-Phase 3 round 4: 大垣 push final ¥14M (dưới walk-away ¥15M của Hà CTO). Dũng đã trade scope, đổi góc nhìn ROI — không tìm được điểm chung. Phải walk-away phong nhã, giữ door cho Phase 4 năm sau.
+Phase 3 vòng 4: 大垣 thúc ép mức cuối ¥14M (dưới ngưỡng rút lui ¥15M của Hà CTO). Dũng đã đánh đổi phạm vi, đổi góc nhìn ROI — không tìm được điểm chung. Phải rút lui phong nhã, giữ cánh cửa cho Phase 4 năm sau.
 
 ---
 
-## ❌ Hội thoại XẤU — walk-away cứng + relationship cắt
+## ❌ Hội thoại XẤU — rút lui cứng + cắt quan hệ
 
 *疲れ · 沈黙、メモ閉じる*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **大垣** | 「最終 ¥14M でお願いします。これ以上は弊社難しい。」 |
-| **ズン** | 「¥14M では弊社利益が出ません。**お断りします**。」 |
-| **大垣** | 「…そうですか。では、本日はここまでということで。」 |
-| (3 ヶ月後 Phase 4 案件発生時) **大垣** | (社内: 「ティエンファットは 1 ラウンドで打ち切る会社」と評価) → 入札不参加 |
+| **大垣** | 「<ruby>最終<rt>さいしゅう</rt></ruby> ¥14M でお<ruby>願<rt>ねが</rt></ruby>いします。これ<ruby>以上<rt>いじょう</rt></ruby>は<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>難<rt>むずか</rt></ruby>しい。」 |
+|  | *Cuối cùng ¥14M nhé. Hơn nữa thì bên anh khó.* |
+| **ズン** | 「¥14M では<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>利益<rt>りえき</rt></ruby>が<ruby>出<rt>で</rt></ruby>ません。**お<ruby>断<rt>ことわ</rt></ruby>りします**。」 |
+|  | *¥14M thì bên em không có lợi. Em xin từ chối.* |
+| **大垣** | 「…そうですか。では、<ruby>本日<rt>ほんじつ</rt></ruby>はここまでということで。」 |
+|  | *...Vậy à. Vậy hôm nay đến đây thôi.* |
+| (3 ヶ月後 Phase 4 案件発生時) **大垣** | (社内: 「ティエンファットは 1 ラウンドで<ruby>打<rt>う</rt></ruby>ち<ruby>切<rt>き</rt></ruby>る<ruby>会社<rt>かいしゃ</rt></ruby>」と<ruby>評価<rt>ひょうか</rt></ruby>) → <ruby>入札不参加<rt>にゅうさつふさんか</rt></ruby> |
+|  | *(3 tháng sau khi có vụ Phase 4) Trong nội bộ đánh giá: "Tiên Phát là công ty walk-away ngay vòng 1" → không cho tham gia đấu thầu.* |
 
-**Vì sao xấu:** "お断りします" cứng + không buffer phrase → khách felt rejected on personal level. JP business memory dài 5-10 năm. 1 vụ walk-away vụng có thể cắt 3-5 vụ tiếp theo. Phase 4 ¥30M lost.
+**Vì sao xấu:** "お断りします" cứng + không có câu đệm → khách cảm thấy bị từ chối ở mức cá nhân. Doanh nghiệp Nhật ghi nhớ dài 5-10 năm. 1 vụ rút lui vụng về có thể cắt 3-5 vụ tiếp theo. Mất luôn Phase 4 trị giá ¥30M.
 
 ---
 
-## ✅ Hội thoại TỐT — phong nhã, blame "条件" không "貴社"
+## ✅ Hội thoại TỐT — phong nhã, đổ lỗi cho "条件" không phải "貴社"
 
 *沈黙 5秒、メモ確認 · 姿勢正す、メモを取る*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **大垣** | 「最終 ¥14M でお願いします。」 |
-| **ズン** | 「ご検討いただきましてありがとうございます。」 |
-| **ズン** | 「**誠に申し訳ございませんが、条件面で折り合いがつかず、今回は誠に残念ながら見送りとさせていただきます**【1】。」 |
-| **ズン** | 「**¥14M は弊社の原価構造上、品質を維持しての提供が困難**【2】な水準でございます。半端な品質で御社にご迷惑をおかけする方が、長期的に良くないと判断いたしました。」 |
-| **ズン** | 「**今後また御社のご状況・ご予算が変わられた際、ご縁がございましたら**【3】、ぜひお声がけください。本日は貴重なお時間をいただき、誠にありがとうございました。」 |
-| **大垣** | 「ズン様、誠実なご回答ありがとうございます。**こちらも社内で再検討の余地**があります。一度持ち帰らせてください。」 |
-| (1 週間後) **大垣** | 「ズン様、社内で予算を ¥15.5M まで引き上げました。再度 negotiation お願いできますか？」 |
+| **大垣** | 「<ruby>最終<rt>さいしゅう</rt></ruby> ¥14M でお<ruby>願<rt>ねが</rt></ruby>いします。」 |
+|  | *Cuối cùng ¥14M nhé.* |
+| **ズン** | 「ご<ruby>検討<rt>けんとう</rt></ruby>いただきましてありがとうございます。」 |
+|  | *Em cảm ơn anh đã xem xét ạ.* |
+| **ズン** | 「**<ruby>誠<rt>まこと</rt></ruby>に<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございませんが、<ruby>条件面<rt>じょうけんめん</rt></ruby>で<ruby>折<rt>お</rt></ruby>り<ruby>合<rt>あ</rt></ruby>いがつかず、<ruby>今回<rt>こんかい</rt></ruby>は<ruby>誠<rt>まこと</rt></ruby>に<ruby>残念<rt>ざんねん</rt></ruby>ながら<ruby>見送<rt>みおく</rt></ruby>りとさせていただきます**【1】。」 |
+|  | *Thực sự xin lỗi anh, do điều kiện hai bên không đạt được, lần này em rất tiếc xin phép tạm gác lại ạ.* |
+| **ズン** | 「**¥14M は<ruby>弊社<rt>へいしゃ</rt></ruby>の<ruby>原価構造<rt>げんかこうぞう</rt></ruby><ruby>上<rt>じょう</rt></ruby>、<ruby>品質<rt>ひんしつ</rt></ruby>を<ruby>維持<rt>いじ</rt></ruby>しての<ruby>提供<rt>ていきょう</rt></ruby>が<ruby>困難<rt>こんなん</rt></ruby>**【2】な<ruby>水準<rt>すいじゅん</rt></ruby>でございます。<ruby>半端<rt>はんぱ</rt></ruby>な<ruby>品質<rt>ひんしつ</rt></ruby>で<ruby>御社<rt>おんしゃ</rt></ruby>にご<ruby>迷惑<rt>めいわく</rt></ruby>をおかけする<ruby>方<rt>ほう</rt></ruby>が、<ruby>長期的<rt>ちょうきてき</rt></ruby>に<ruby>良<rt>よ</rt></ruby>くないと<ruby>判断<rt>はんだん</rt></ruby>いたしました。」 |
+|  | *¥14M trên cấu trúc giá thành bên em, để giữ chất lượng thì khó cung cấp ạ. Em đánh giá rằng cung cấp chất lượng nửa vời gây phiền cho bên anh thì lâu dài không tốt cho cả 2.* |
+| **ズン** | 「**<ruby>今後<rt>こんご</rt></ruby>また<ruby>御社<rt>おんしゃ</rt></ruby>のご<ruby>状況<rt>じょうきょう</rt></ruby>・ご<ruby>予算<rt>よさん</rt></ruby>が<ruby>変<rt>か</rt></ruby>わられた<ruby>際<rt>さい</rt></ruby>、ご<ruby>縁<rt>えん</rt></ruby>がございましたら**【3】、ぜひお<ruby>声<rt>こえ</rt></ruby>がけください。<ruby>本日<rt>ほんじつ</rt></ruby>は<ruby>貴重<rt>きちょう</rt></ruby>なお<ruby>時間<rt>じかん</rt></ruby>をいただき、<ruby>誠<rt>まこと</rt></ruby>にありがとうございました。」 |
+|  | *Sau này nếu tình hình hay ngân sách bên anh có thay đổi, nếu có duyên, rất mong anh gọi lại em. Hôm nay em xin chân thành cảm ơn anh đã dành thời gian quý báu ạ.* |
+| **大垣** | 「ズン<ruby>様<rt>さま</rt></ruby>、<ruby>誠実<rt>せいじつ</rt></ruby>なご<ruby>回答<rt>かいとう</rt></ruby>ありがとうございます。**こちらも<ruby>社内<rt>しゃない</rt></ruby>で<ruby>再検討<rt>さいけんとう</rt></ruby>の<ruby>余地<rt>よち</rt></ruby>**があります。<ruby>一度<rt>いちど</rt></ruby><ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>らせてください。」 |
+|  | *Anh Dũng, cảm ơn em đã trả lời chân thành. Bên anh cũng còn dư địa xem xét lại nội bộ. Cho anh mang về một lần nhé.* |
+| (1 週間後) **大垣** | 「ズン<ruby>様<rt>さま</rt></ruby>、<ruby>社内<rt>しゃない</rt></ruby>で<ruby>予算<rt>よさん</rt></ruby>を ¥15.5M まで<ruby>引<rt>ひ</rt></ruby>き<ruby>上<rt>あ</rt></ruby>げました。<ruby>再度<rt>さいど</rt></ruby> negotiation お<ruby>願<rt>ねが</rt></ruby>いできますか？」 |
+|  | *(1 tuần sau) Anh Dũng, bên anh đã tăng budget nội bộ lên ¥15.5M. Mình đàm phán lại được không?* |
 
 📝 **Ghi chú:**
-- 【1】**「条件面で折り合いがつかず」** = blame "条件" abstract chứ không "貴社". Face保持 cả 2 bên.
-- 【2】**「品質維持困難」 framing** = walk-away là vì "御社のため" không phải tham. Reverses dynamic.
-- 【3】**「ご縁がございましたら」** = magic phrase mở door tương lai. JP relationship 5-10 năm memory.
-- L6-L7 bonus: walk-away phong nhã có khi trigger khách re-budget. Hard "no" thì không có cơ hội này.
+- 【1】**「条件面で折り合いがつかず」** = đổ lỗi cho "条件" trừu tượng chứ không phải "貴社". Giữ thể diện cả 2 bên.
+- 【2】**Cách diễn đạt 「品質維持困難」** = rút lui là vì "御社のため" (vì lợi ích bên anh) chứ không phải tham. Đảo ngược thế cờ.
+- 【3】**「ご縁がございましたら」** = câu then chốt mở cánh cửa tương lai. Người Nhật nhớ quan hệ 5-10 năm.
+- L6-L7 điểm cộng: rút lui phong nhã đôi khi kích hoạt việc khách tự điều chỉnh lại ngân sách. Nếu "không" cứng thì không có cơ hội này.
 
 ---
 
@@ -2844,17 +3161,17 @@ Phase 3 round 4: 大垣 push final ¥14M (dưới walk-away ¥15M của Hà CTO)
 
 > **「条件面で折り合いがつかず + ご縁がございましたら = 関係維持型 walk-away。」**
 >
-> *Blame condition không blame people + magic phrase ご縁 = walk-away maintain relationship.*
+> *Đổ lỗi cho điều kiện chứ không đổ lỗi cho con người + câu then chốt ご縁 = rút lui mà vẫn duy trì quan hệ.*
 
 ---
 
 ## ⚠ Tránh
 
-- 「お断りします」 / 「無理です」 cứng → relationship cắt 5-10 năm
-- Blame "貴社" / "御社の予算" → khách face đau
-- Walk-away rồi tiếp tục push 「もう一度ご検討を…」 → contradicts walk-away, lộ desperate
-- Skip 「ご縁がございましたら」 → không leave door
-- Walk-away mà không sau email follow-up giữ liên lạc level low (rule 36)
+- 「お断りします」 / 「無理です」 cứng → cắt quan hệ 5-10 năm
+- Đổ lỗi cho "貴社" / "御社の予算" → khách tổn thương thể diện
+- Rút lui rồi vẫn tiếp tục thúc ép 「もう一度ご検討を…」 → mâu thuẫn với việc rút lui, lộ vẻ cuống quýt
+- Bỏ qua 「ご縁がございましたら」 → không để lại cánh cửa
+- Rút lui mà sau đó không có email theo dõi giữ liên lạc ở mức thấp (rule 36)
 
 ---
 
@@ -2873,7 +3190,7 @@ Phase 3 round 4: 大垣 push final ¥14M (dưới walk-away ¥15M của Hà CTO)
 
 # Rule 36 — Post-deal greeting (conservative) / 商談成立後の挨拶
 
-> **Luận điểm.** Sau ký xong, KHÔNG nên thổi phồng "ありがとうございます！！" 3 dấu chấm than. JP business: giọng điệu chừng mực, focus 「**身が引き締まる**」 (cảm nhận trọng trách) thay vì ăn mừng. Phô trương quá = "未熟" perception. Câu chuẩn: 「**身の引き締まる思いです**」 + 「期待にお応えできるよう」 commit.
+> **Luận điểm.** Sau ký xong, KHÔNG nên thổi phồng "ありがとうございます！！" 3 dấu chấm than. Business Nhật: giọng điệu chừng mực, hướng vào 「**身が引き締まる**」 (cảm nhận trọng trách) thay vì ăn mừng. Phô trương quá = bị nhìn nhận là "未熟" (non nớt). Câu chuẩn: 「**身の引き締まる思いです**」 + 「期待にお応えできるよう」 (cam kết).
 >
 > 商談成立後の挨拶は控えめに。「ありがとうございます！！」は未熟な印象。「身の引き締まる思い」「期待に応える」が大人の表現。
 >
@@ -2883,39 +3200,49 @@ Phase 3 round 4: 大垣 push final ¥14M (dưới walk-away ¥15M của Hà CTO)
 
 ## Bối cảnh / 場面
 
-DocuSign 完了通知 16:30。Dũng vui vẻ. Cần gửi thank-you mail cho 大垣. Đây là ấn tượng đầu cho giai đoạn bàn giao — quá phô trương = lo ngại. Quá dry = lạnh. Cần "身が引き締まる" tone.
+DocuSign 完了通知 16:30。Dũng vui vẻ. Cần gửi mail cảm ơn cho 大垣. Đây là ấn tượng đầu cho giai đoạn bàn giao — quá phô trương = lo ngại. Quá khô khan = lạnh. Cần giọng "身が引き締まる".
 
 ---
 
-## ❌ Hội thoại XẤU — hype + casual
+## ❌ Hội thoại XẤU — thổi phồng + suồng sã
 
-| | Speaker | Câu (mail) |
+| | Vai | Câu (mail) |
 |--|---------|-----|
-| **L1** | (件名:「ありがとうございます！！」) **ズン** | 「大垣様!! 契約書ご捺印ありがとうございます！！本当に嬉しいです！！」 |
-| **L2** | **ズン** | 「これからも何卒よろしくお願いします！期待を超えるようがんばります！！」 |
-| **L3** | (大垣 内部 PM 田中 に転送) **大垣 メモ** | 「ティエンファットの BD ちょっと若いな。**delivery が大丈夫か少し不安**。田中さん、初回 weekly でしっかり grip お願い。」 |
-| **L4** | (Tanaka PMO 内部 Slack) **田中** | 「了解しました。最初は厳しめに review します。」 |
+| **L1** | (件名:「ありがとうございます！！」) **ズン** | 「大垣様!! <ruby>契約書<rt>けいやくしょ</rt></ruby>ご<ruby>捺印<rt>なついん</rt></ruby>ありがとうございます！！本当に<ruby>嬉<rt>うれ</rt></ruby>しいです！！」 |
+|  |  | *Tiêu đề「Cảm ơn anh!!」— Anh Ōgaki!! Cảm ơn anh đã đóng dấu hợp đồng!! Em thực sự rất vui!!* |
+| **L2** | **ズン** | 「これからも<ruby>何卒<rt>なにとぞ</rt></ruby>よろしくお願いします！<ruby>期待<rt>きたい</rt></ruby>を<ruby>超<rt>こ</rt></ruby>えるようがんばります！！」 |
+|  |  | *Sắp tới mong anh tiếp tục giúp em! Em sẽ cố gắng vượt kỳ vọng!!* |
+| **L3** | (大垣 内部 PM 田中 に転送) **大垣 メモ** | 「ティエンファットの BD ちょっと<ruby>若<rt>わか</rt></ruby>いな。**delivery が<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>か<ruby>少<rt>すこ</rt></ruby>し<ruby>不安<rt>ふあん</rt></ruby>**。田中さん、<ruby>初回<rt>しょかい</rt></ruby> weekly でしっかり grip お願い。」 |
+|  |  | *BD bên Tiên Phát hơi non nhỉ. Hơi lo phần bàn giao. Anh Tanaka, weekly đầu tiên cứ kèm chặt giúp tôi.* |
+| **L4** | (Tanaka PMO 内部 Slack) **田中** | 「<ruby>了解<rt>りょうかい</rt></ruby>しました。<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>厳<rt>きび</rt></ruby>しめに review します。」 |
+|  |  | *Tôi rõ rồi. Đầu tiên tôi sẽ kiểm tra chặt hơn.* |
 
-**Vì sao xấu:** 3 dấu chấm than + 「嬉しいです」 emotional expression → JP exec đọc thấy "学生っぽい". Khách trở nên **defensive** ngay từ đầu giai đoạn bàn giao — Tanaka PMO sẽ soi xét kỹ từng report. Project khó hơn 30%.
+**Vì sao xấu:** 3 dấu chấm than + 「嬉しいです」 lối diễn đạt cảm xúc → sếp Nhật đọc thấy "学生っぽい". Khách trở nên **thủ thế** ngay từ đầu giai đoạn bàn giao — Tanaka PMO sẽ soi xét kỹ từng báo cáo. Dự án khó hơn 30%.
 
 ---
 
-## ✅ Hội thoại TỐT — conservative + commit tone
+## ✅ Hội thoại TỐT — chừng mực + giọng cam kết
 
-| | Speaker | Câu (mail) |
+| | Vai | Câu (mail) |
 |--|---------|-----|
-| **L1** | (件名:「ご捺印御礼 — Phase 3 業務委託契約 締結のお礼」) **ズン** | 「大垣様、いつもお世話になっております。」 |
-| **L2** | **ズン** *(本文)* | 「この度は Phase 3 業務委託契約のご捺印を頂戴し、誠にありがとうございました【1】。長期にわたる discussion を経て、両社合意に至りましたこと、心より御礼申し上げます。」 |
-| **L3** | **ズン** | 「**御社からの信頼を頂戴したことに対し、身の引き締まる思いでございます**【2】。」 |
-| **L4** | **ズン** | 「**頂戴したご期待にお応えできますよう、弊社一同 全力で取り組んでまいります**【3】。引き続き、何卒よろしくお願い申し上げます。」 |
-| **L5** | (大垣 reply) **大垣** | 「ズン様、ご丁寧なご挨拶ありがとうございます。**こちらこそ、Phase 2 同様 高い品質**を期待しております。Tanaka PMO より **キックオフ MTG の段取り**をご連絡差し上げます。」 |
-| **L6** | (社内 Slack) **ズン → Hương** | 「Phase 3 締結御礼メール送信完了。返信から大垣様 friendly tone【4】。次は Tanaka PMO とキックオフ調整入ります。」 |
+| **L1** | (件名:「ご<ruby>捺印<rt>なついん</rt></ruby><ruby>御礼<rt>おんれい</rt></ruby> — Phase 3 <ruby>業務委託契約<rt>ぎょうむいたくけいやく</rt></ruby> <ruby>締結<rt>ていけつ</rt></ruby>のお礼」) **ズン** | 「大垣様、いつもお<ruby>世話<rt>せわ</rt></ruby>になっております。」 |
+|  |  | *Tiêu đề「Cảm ơn anh đã đóng dấu — Lời cảm ơn ký Hợp đồng Phase 3」— Anh Ōgaki, em vẫn luôn được anh giúp đỡ ạ.* |
+| **L2** | **ズン** *(本文)* | 「この<ruby>度<rt>たび</rt></ruby>は Phase 3 <ruby>業務委託契約<rt>ぎょうむいたくけいやく</rt></ruby>のご<ruby>捺印<rt>なついん</rt></ruby>を<ruby>頂戴<rt>ちょうだい</rt></ruby>し、<ruby>誠<rt>まこと</rt></ruby>にありがとうございました【1】。<ruby>長期<rt>ちょうき</rt></ruby>にわたる discussion を<ruby>経<rt>へ</rt></ruby>て、<ruby>両社<rt>りょうしゃ</rt></ruby><ruby>合意<rt>ごうい</rt></ruby>に<ruby>至<rt>いた</rt></ruby>りましたこと、<ruby>心<rt>こころ</rt></ruby>より<ruby>御礼<rt>おんれい</rt></ruby><ruby>申<rt>もう</rt></ruby>し上げます。」 |
+|  |  | *Lần này em đã nhận được dấu của anh trên hợp đồng Phase 3, em xin chân thành cảm ơn ạ. Qua quá trình thảo luận dài, hai bên đã đạt đồng thuận, em xin được gửi lời cảm ơn từ tận đáy lòng.* |
+| **L3** | **ズン** | 「**<ruby>御社<rt>おんしゃ</rt></ruby>からの<ruby>信頼<rt>しんらい</rt></ruby>を<ruby>頂戴<rt>ちょうだい</rt></ruby>したことに<ruby>対<rt>たい</rt></ruby>し、<ruby>身<rt>み</rt></ruby>の<ruby>引<rt>ひ</rt></ruby>き<ruby>締<rt>し</rt></ruby>まる思いでございます**【2】。」 |
+|  |  | *Việc nhận được sự tin tưởng từ bên anh khiến em cảm nhận trách nhiệm nặng nề ạ.* |
+| **L4** | **ズン** | 「**<ruby>頂戴<rt>ちょうだい</rt></ruby>したご<ruby>期待<rt>きたい</rt></ruby>にお<ruby>応<rt>こた</rt></ruby>えできますよう、<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>一同<rt>いちどう</rt></ruby> <ruby>全力<rt>ぜんりょく</rt></ruby>で<ruby>取<rt>と</rt></ruby>り<ruby>組<rt>く</rt></ruby>んでまいります**【3】。<ruby>引<rt>ひ</rt></ruby>き<ruby>続<rt>つづ</rt></ruby>き、<ruby>何卒<rt>なにとぞ</rt></ruby>よろしくお願い<ruby>申<rt>もう</rt></ruby>し上げます。」 |
+|  |  | *Để đáp lại kỳ vọng đã nhận được, toàn thể bên em sẽ toàn lực nỗ lực ạ. Mong anh tiếp tục giúp đỡ ạ.* |
+| **L5** | (大垣 reply) **大垣** | 「ズン様、ご<ruby>丁寧<rt>ていねい</rt></ruby>なご<ruby>挨拶<rt>あいさつ</rt></ruby>ありがとうございます。**こちらこそ、Phase 2 <ruby>同様<rt>どうよう</rt></ruby> <ruby>高<rt>たか</rt></ruby>い<ruby>品質<rt>ひんしつ</rt></ruby>**を<ruby>期待<rt>きたい</rt></ruby>しております。Tanaka PMO より **キックオフ MTG の<ruby>段取<rt>だんど</rt></ruby>り**をご<ruby>連絡<rt>れんらく</rt></ruby><ruby>差<rt>さ</rt></ruby>し上げます。」 |
+|  |  | *Anh Dũng, cảm ơn em đã chào lịch sự. Anh cũng vậy, kỳ vọng chất lượng cao như Phase 2. PM Tanaka sẽ liên lạc sắp xếp kickoff MTG.* |
+| **L6** | (社内 Slack) **ズン → Hương** | 「Phase 3 <ruby>締結<rt>ていけつ</rt></ruby><ruby>御礼<rt>おんれい</rt></ruby>メール<ruby>送信<rt>そうしん</rt></ruby><ruby>完了<rt>かんりょう</rt></ruby>。<ruby>返信<rt>へんしん</rt></ruby>から大垣様 friendly tone【4】。次は Tanaka PMO とキックオフ<ruby>調整<rt>ちょうせい</rt></ruby><ruby>入<rt>はい</rt></ruby>ります。」 |
+|  |  | *Mail cảm ơn ký Phase 3 đã gửi xong. Phản hồi của anh Ōgaki có giọng thân thiện. Tiếp theo em sẽ vào sắp xếp kickoff với PM Tanaka.* |
 
 📝 **Ghi chú:**
-- 【1】**「誠にありがとうございました」** — formal だが 1 つだけ. !!! 不要.
-- 【2】**「身の引き締まる思い」** = magic phrase. 「嬉しい」 emotion ではなく responsibility。Adult tone.
-- 【3】**「ご期待にお応えできますよう」** = 未来 commit. focused on delivery, not celebration.
-- 【4】**Reply の "こちらこそ"** = warm sign. Hype だと "ありがとうございました。引き続きよろしく" cold reply に終わる.
+- 【1】**「誠にありがとうございました」** — trang trọng nhưng chỉ 1 lần. Không cần !!!.
+- 【2】**「身の引き締まる思い」** = câu thần chú. Không phải cảm xúc 「嬉しい」 mà là truyền tải trách nhiệm. Giọng trưởng thành.
+- 【3】**「ご期待にお応えできますよう」** = cam kết về tương lai. Hướng vào việc bàn giao, không phải ăn mừng.
+- 【4】**Câu trả lời "こちらこそ"** = dấu hiệu ấm áp. Nếu thổi phồng quá thì sẽ nhận lại phản hồi lạnh kiểu "ありがとうございました。引き続きよろしく".
 
 ---
 
@@ -2929,11 +3256,11 @@ DocuSign 完了通知 16:30。Dũng vui vẻ. Cần gửi thank-you mail cho 大
 
 ## ⚠ Tránh
 
-- 「！！」 多用 → JP exec mail で完全 NG
+- 「！！」 多用 → mail gửi sếp Nhật thì hoàn toàn NG
 - 「嬉しい」 / 「最高です」 cảm xúc → 学生レベル
-- Cảm ơn thông thường 「サンキューです！」 → 即終了 relationship
-- 即 next step push (「次のフェーズも is お願いします!」) → desperate. Phase 3 delivery が先
-- Reply 待たずに follow-up 連発 → 静寂を尊重
+- Cảm ơn thông thường 「サンキューです！」 → quan hệ kết thúc ngay
+- Vội đẩy bước tiếp theo (「次のフェーズもお願いします!」) → lộ vẻ cuống. Bàn giao Phase 3 phải lo trước
+- Chưa chờ trả lời đã gửi nhắc liên tục → cần tôn trọng khoảng lặng
 
 ---
 
@@ -2952,7 +3279,7 @@ DocuSign 完了通知 16:30。Dũng vui vẻ. Cần gửi thank-you mail cho 大
 
 # Rule 37 — Internal kickoff hand-off / 社内キックオフ
 
-> **Luận điểm.** Sau ký, phase bàn giao do Tanaka PMO + Tuấn drive — KHÔNG phải Dũng. Nhưng Dũng chịu trách nhiệm bàn giao: **(1) Negotiation context summary** (tại sao ¥17M, scope mỗi phần đến từ trade nào), **(2) Hồ sơ nhân sự phía khách** (Ōgaki trực tiếp, Tanaka chi tiết), **(3) Open promises** (mọi commitment miệng còn nợ). Skip bàn giao → delivery team rediscover, redo work, tốn thời gian.
+> **Luận điểm.** Sau ký, giai đoạn bàn giao do Tanaka PMO + Tuấn dẫn dắt — KHÔNG phải Dũng. Nhưng Dũng chịu trách nhiệm bàn giao: **(1) Tóm tắt ngữ cảnh đàm phán** (tại sao ¥17M, scope mỗi phần đến từ trade nào), **(2) Hồ sơ nhân sự phía khách** (Ōgaki trực tiếp, Tanaka chi tiết), **(3) Open promises** (mọi cam kết miệng còn nợ). Bỏ qua bàn giao → delivery team phải dò lại từ đầu, làm lại, tốn thời gian.
 >
 > 商談 → delivery 引き継ぎでは、価格・スコープの背景、相手 personality、口頭 commitment を文書化して PMO + Tech Lead に渡す。
 >
@@ -2962,21 +3289,26 @@ DocuSign 完了通知 16:30。Dũng vui vẻ. Cần gửi thank-you mail cho 大
 
 ## Bối cảnh / 場面
 
-Phase 3 ký xong thứ Hai. Thứ Tư có internal kickoff: Tuấn (Tech Lead delivery), Tanaka PMO 白鷗 join async, Dũng bàn giao. Nếu Dũng chỉ "contract attach, có gì hỏi" → tuần thứ 2 Tuấn sẽ Slack "scope item này từ đâu ra?" và Ōgaki Slack lại Dũng → vòng xoáy leo thang.
+Phase 3 ký xong thứ Hai. Thứ Tư có internal kickoff: Tuấn (Tech Lead delivery), Tanaka PMO 白鷗 tham gia async, Dũng bàn giao. Nếu Dũng chỉ "đính kèm contract, có gì hỏi" → tuần thứ 2 Tuấn sẽ Slack "scope item này từ đâu ra?" và Ōgaki Slack lại Dũng → vòng xoáy leo thang.
 
 ---
 
 ## ❌ Hội thoại XẤU — bàn giao lỏng, không context
 
-| | Speaker | Câu (社内 MTG) |
+| | Vai | Câu (社内 MTG) |
 |--|---------|-----|
-| **L1** | **ズン** *(15分 MTG)* | 「トゥアン、Phase 3 contract attach しました。SOW 通りに進めてください。質問あれば Slack で。」 |
-| **L2** | **トゥアン** | 「OK、分かった。」 |
-| **L3** | (2 週間後) **トゥアン** *(Slack)* | 「ズン、SOW の **AI dashboard カスタム 1 機能** とは具体的に何？大垣様何ご希望？」 |
-| **L4** | **ズン** *(忙しく forget)* | 「えっと、確か customer churn prediction だった気がします…」 |
-| **L5** | **トゥアン** | 「気がしますじゃ困る。大垣様に直接確認するから、契約交渉の context 全部教えて。」 |
+| **L1** | **ズン** *(15分 MTG)* | 「トゥアン、Phase 3 contract attach しました。SOW 通りに進めてください。<ruby>質問<rt>しつもん</rt></ruby>あれば Slack で。」 |
+| | | *Anh Tuấn, em đính kèm contract Phase 3. Cứ đi theo SOW. Có gì hỏi Slack.* |
+| **L2** | **トゥアン** | 「OK、<ruby>分<rt>わ</rt></ruby>かった。」 |
+| | | *OK, hiểu rồi.* |
+| **L3** | (2 週間後) **トゥアン** *(Slack)* | 「ズン、SOW の **AI dashboard カスタム 1 <ruby>機能<rt>きのう</rt></ruby>** とは<ruby>具体的<rt>ぐたいてき</rt></ruby>に何？<ruby>大垣<rt>おおがき</rt></ruby>様何ご<ruby>希望<rt>きぼう</rt></ruby>？」 |
+| | | *Dũng, AI dashboard custom 1 feature trong SOW cụ thể là gì? Anh Ōgaki muốn cái nào?* |
+| **L4** | **ズン** *(忙しく forget)* | 「えっと、<ruby>確<rt>たし</rt></ruby>か customer churn prediction だった<ruby>気<rt>き</rt></ruby>がします…」 |
+| | | *À ờ, hình như là customer churn prediction thì phải...* |
+| **L5** | **トゥアン** | 「<ruby>気<rt>き</rt></ruby>がしますじゃ<ruby>困<rt>こま</rt></ruby>る。<ruby>大垣<rt>おおがき</rt></ruby>様に<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>するから、<ruby>契約<rt>けいやく</rt></ruby><ruby>交渉<rt>こうしょう</rt></ruby>の context <ruby>全部<rt>ぜんぶ</rt></ruby><ruby>教<rt>おし</rt></ruby>えて。」 |
+| | | *'Hình như' là kẹt rồi. Anh hỏi thẳng anh Ōgaki, em chia sẻ hết context đàm phán đi.* |
 
-**Vì sao xấu:** Hand-off 15 phút + "質問あれば Slack" → context loss. Tuấn buộc phải Slack Ōgaki direct → khách wonder "あれ、ズンさん共有してないの？" → trust dent. ¥0.5M effort lost trên unnecessary discovery.
+**Vì sao xấu:** Bàn giao 15 phút + "có gì hỏi Slack" → mất ngữ cảnh. Tuấn buộc phải Slack thẳng cho Ōgaki → khách thắc mắc "あれ、ズンさん共有してないの？" → sứt mẻ lòng tin. ¥0.5M công sức mất trên việc dò lại không cần thiết.
 
 ---
 
@@ -2984,14 +3316,20 @@ Phase 3 ký xong thứ Hai. Thứ Tư có internal kickoff: Tuấn (Tech Lead de
 
 *MTG 開始 · ① context · ② personality · ③ open promises · Slack 同期*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「Phase 3 内部キックオフ、30 分です。本日のアジェンダは **3 セクション**【1】: ①交渉 context、②白鷗側 personality map、③open promises。事前に hand-off doc 共有済み。質問はその場で。」 |
-| **ズン** | 「**価格 ¥17M は Phase 2 比 +24%**、内訳は AI レコメンド + 専任 PM + dashboard customization 1 機能。trade で 2 年契約を取った代わりに、契約期間中 SLA 99.9% commit。なので **SLA 99.5% に落とすことは交渉的に NG**【2】、技術的に可能でも避ける。」 |
-| **ズン** | 「大垣様 — direct、数字主義、沈黙が長い (=熟考中、急かさない)。**初回 weekly は厳しめ review される可能性高い** (rule 36 hype したら更に)。Tanaka PMO — Slack-heavy、detail-oriented、async OK。Nakamura CFO は monthly executive review 1 度だけ参加、財務指標厳しい。」 |
-| **ズン** | 「**口頭 commitment 2 件**【3】: (a) 8 月初旬に Phase 4 scope 軽く discussion (binding 無し)、(b) Tanaka PMO に毎週金曜 dashboard preview 共有 — これは契約外サービス、注意。」 |
-| **トゥアン** | 「了解。SLA 99.9% の reasoning ありがたい。最初 sprint で reliability budget 厳しめに設定する。Tanaka PMO の金曜 preview は内部 calendar 入れる。」 |
-| **田中PMO** | 「ズン様、ありがとうございました。tomorrow 朝、Tuấn さんと初回 sync 設定します。引継ぎ doc 拝見しました【4】、 personality map 助かります。」 |
+| **ズン** | 「Phase 3 <ruby>内部<rt>ないぶ</rt></ruby>キックオフ、30 分です。<ruby>本日<rt>ほんじつ</rt></ruby>のアジェンダは **3 セクション**【1】: ①<ruby>交渉<rt>こうしょう</rt></ruby> context、②<ruby>白鷗<rt>はくおう</rt></ruby><ruby>側<rt>がわ</rt></ruby> personality map、③open promises。<ruby>事前<rt>じぜん</rt></ruby>に hand-off doc <ruby>共有済<rt>きょうゆうず</rt></ruby>み。<ruby>質問<rt>しつもん</rt></ruby>はその<ruby>場<rt>ば</rt></ruby>で。」 |
+| | | *Internal kickoff Phase 3, 30 phút. Agenda hôm nay 3 sections: ①Context đàm phán, ②Personality map bên Hakuō, ③Open promises. Hand-off doc đã share trước. Câu hỏi nêu trực tiếp.* |
+| **ズン** | 「**<ruby>価格<rt>かかく</rt></ruby> ¥17M は Phase 2 <ruby>比<rt>ひ</rt></ruby> +24%**、<ruby>内訳<rt>うちわけ</rt></ruby>は AI レコメンド + <ruby>専任<rt>せんにん</rt></ruby> PM + dashboard customization 1 <ruby>機能<rt>きのう</rt></ruby>。trade で 2 <ruby>年契約<rt>ねんけいやく</rt></ruby>を<ruby>取<rt>と</rt></ruby>った<ruby>代<rt>か</rt></ruby>わりに、<ruby>契約期間中<rt>けいやくきかんちゅう</rt></ruby> SLA 99.9% commit。なので **SLA 99.5% に<ruby>落<rt>お</rt></ruby>とすことは<ruby>交渉的<rt>こうしょうてき</rt></ruby>に NG**【2】、<ruby>技術的<rt>ぎじゅつてき</rt></ruby>に<ruby>可能<rt>かのう</rt></ruby>でも<ruby>避<rt>さ</rt></ruby>ける。」 |
+| | | *Giá ¥17M là +24% so với Phase 2. Breakdown: AI recommend + PM chuyên trách + 1 dashboard customization. Trade lấy được 2 năm contract đổi lại commit SLA 99.9% suốt kỳ. Vì vậy hạ SLA xuống 99.5% là NG về mặt đàm phán — kỹ thuật có thể làm được nhưng tránh.* |
+| **ズン** | 「<ruby>大垣<rt>おおがき</rt></ruby>様 — direct、<ruby>数字主義<rt>すうじしゅぎ</rt></ruby>、<ruby>沈黙<rt>ちんもく</rt></ruby>が<ruby>長<rt>なが</rt></ruby>い (=<ruby>熟考中<rt>じゅっこうちゅう</rt></ruby>、<ruby>急<rt>せ</rt></ruby>かさない)。**<ruby>初回<rt>しょかい</rt></ruby> weekly は<ruby>厳<rt>きび</rt></ruby>しめ review される<ruby>可能性<rt>かのうせい</rt></ruby><ruby>高<rt>たか</rt></ruby>い** (rule 36 hype したら<ruby>更<rt>さら</rt></ruby>に)。Tanaka PMO — Slack-heavy、detail-oriented、async OK。Nakamura CFO は monthly executive review 1 <ruby>度<rt>ど</rt></ruby>だけ<ruby>参加<rt>さんか</rt></ruby>、<ruby>財務指標<rt>ざいむしひょう</rt></ruby><ruby>厳<rt>きび</rt></ruby>しい。」 |
+| | | *Anh Ōgaki — direct, số liệu, im lặng dài (=đang nghĩ, đừng giục). Weekly đầu khả năng cao bị review chặt (rule 36 hype thì còn chặt hơn). Anh Tanaka PMO — Slack nhiều, chi tiết, async OK. Anh Nakamura CFO chỉ join monthly executive review 1 lần, chỉ số tài chính chặt.* |
+| **ズン** | 「**<ruby>口頭<rt>こうとう</rt></ruby> commitment 2 <ruby>件<rt>けん</rt></ruby>**【3】: (a) 8 <ruby>月初旬<rt>がつしょじゅん</rt></ruby>に Phase 4 scope <ruby>軽<rt>かる</rt></ruby>く discussion (binding <ruby>無<rt>な</rt></ruby>し)、(b) Tanaka PMO に<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>金曜<rt>きんよう</rt></ruby> dashboard preview <ruby>共有<rt>きょうゆう</rt></ruby> — これは<ruby>契約外<rt>けいやくがい</rt></ruby>サービス、<ruby>注意<rt>ちゅうい</rt></ruby>。」 |
+| | | *2 commitments miệng: (a) Đầu tháng 8 thảo luận nhẹ scope Phase 4 (không binding), (b) Mỗi sáng thứ Sáu share dashboard preview cho Tanaka PMO — đây là dịch vụ ngoài contract, lưu ý.* |
+| **トゥアン** | 「<ruby>了解<rt>りょうかい</rt></ruby>。SLA 99.9% の reasoning ありがたい。<ruby>最初<rt>さいしょ</rt></ruby> sprint で reliability budget <ruby>厳<rt>きび</rt></ruby>しめに<ruby>設定<rt>せってい</rt></ruby>する。Tanaka PMO の<ruby>金曜<rt>きんよう</rt></ruby> preview は<ruby>内部<rt>ないぶ</rt></ruby> calendar <ruby>入<rt>い</rt></ruby>れる。」 |
+| | | *Hiểu rồi. Reasoning SLA 99.9% rất ích. Sprint đầu anh sẽ set reliability budget chặt hơn. Preview thứ Sáu cho Tanaka PMO anh đưa vào calendar nội bộ.* |
+| **田中PMO** | 「ズン様、ありがとうございました。tomorrow <ruby>朝<rt>あさ</rt></ruby>、Tuấn さんと<ruby>初回<rt>しょかい</rt></ruby> sync <ruby>設定<rt>せってい</rt></ruby>します。<ruby>引継<rt>ひきつ</rt></ruby>ぎ doc <ruby>拝見<rt>はいけん</rt></ruby>しました【4】、 personality map <ruby>助<rt>たす</rt></ruby>かります。」 |
+| | | *Anh Dũng, tôi cảm ơn. Sáng mai tôi sẽ set sync đầu tiên với anh Tuấn. Em đã xem doc bàn giao, personality map rất ích ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**Cấu trúc 3 phần** — context / hồ sơ nhân sự / promises. それぞれ 8-10 分.
@@ -3005,7 +3343,7 @@ Phase 3 ký xong thứ Hai. Thứ Tư có internal kickoff: Tuấn (Tech Lead de
 
 > **「ハンドオフ 3 セクション (context / personality / open promises) + 事前 doc 共有 = delivery team 立ち上がり -2 週間。」**
 >
-> *Bàn giao 3 phần + pre-share doc = delivery team start sớm 2 tuần.*
+> *Bàn giao 3 phần + chia sẻ doc trước = delivery team khởi động sớm 2 tuần.*
 
 ---
 
@@ -3014,7 +3352,7 @@ Phase 3 ký xong thứ Hai. Thứ Tư có internal kickoff: Tuấn (Tech Lead de
 - 「contract 読んでください」 only → context loss 100%
 - Hồ sơ nhân sự skip → delivery team が "なぜ Ōgaki さん厳しい" 自学。1 ヶ月コスト
 - 口頭 commitment 文書化忘れ → 顧客から急に "あれは" 引用 → contract 外なのに対応せざるを得ず
-- Không có buổi bàn giao, chỉ Slack DM → 文脈が search でき even retrievable
+- Không có buổi bàn giao, chỉ Slack DM → 文脈が散らばって後から検索できない (ngữ cảnh tản mác, sau không tra lại được)
 - Sau bàn giao Dũng が delivery 質問対応続ける → trách nhiệm が曖昧, Tuấn 育たず
 
 ---
@@ -3034,7 +3372,7 @@ Phase 3 ký xong thứ Hai. Thứ Tư có internal kickoff: Tuấn (Tech Lead de
 
 # Rule 38 — Public PR release joint approval / 対外発表
 
-> **Luận điểm.** PR release announce contract = excellent marketing for cả 2 bên — nhưng JP business **cực kỳ nhạy cảm** với cách dùng từ. Bắt buộc: (a) **joint approval** từ both legal + PR depts, (b) tránh exact ¥ figure (dùng "数千万円規模"), (c) tên client trong câu sau Tiên Phát (KHÔNG đặt 白鷗 đầu giả "勝った" tone), (d) embargo 同日同時刻 release.
+> **Luận điểm.** PR release thông báo hợp đồng = quảng bá rất tốt cho cả 2 bên — nhưng doanh nghiệp Nhật **cực kỳ nhạy cảm** với cách dùng từ. Bắt buộc: (a) **joint approval** (duyệt chung) từ cả phòng legal + PR, (b) tránh ghi con số ¥ chính xác (dùng "数千万円規模"), (c) tên khách đặt trong câu sau Tiên Phát (KHÔNG đặt 白鷗 lên đầu tạo cảm giác "勝った" — kiểu khoe thắng), (d) embargo 同日同時刻 release.
 >
 > 対外 PR は両社 legal + PR の joint approval 必須。金額明示は避け「数千万円規模」, embargo 同時 release が日本流。
 >
@@ -3044,7 +3382,7 @@ Phase 3 ký xong thứ Hai. Thứ Tư có internal kickoff: Tuấn (Tech Lead de
 
 ## Bối cảnh / 場面
 
-Phase 3 Pricing ¥17M — milestone. Marketing Hizashi muốn release. Linh (Marketing intern) draft v1, Dũng phối hợp với 白鷗 PR. Mistake # 1: announce trước khi 白鷗 PR approve. Mistake # 2: include exact ¥17M.
+Phase 3 Pricing ¥17M — cột mốc. Marketing Hizashi muốn phát hành. Linh (thực tập sinh Marketing) draft v1, Dũng phối hợp với 白鷗 PR. Lỗi 1: thông báo trước khi 白鷗 PR duyệt. Lỗi 2: ghi rõ chính xác ¥17M.
 
 ---
 
@@ -3052,15 +3390,20 @@ Phase 3 Pricing ¥17M — milestone. Marketing Hizashi muốn release. Linh (Mar
 
 *Slack Dũng · 忙しく流し読み · 電話 angry · 青*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **リン** | 「ズン先輩、Phase 3 締結 PR draft できました! ¥17M deal 強調しています! 明日 publish OK ですか?」 |
-| **ズン** | 「OK、進めて。」 |
-| (翌日 13:00 publish) | 「ティエンファット、白鷗株式会社と Phase 3 で ¥17M 契約締結」 |
-| (15:30) **大垣** | 「ズン様、**弊社 PR 部から何の連絡もなく**、しかも **金額が明示**されています。**競合他社に弊社 IT 予算が exposed**、即時 take-down お願いします!」 |
-| **ズン** | 「申し訳ございません、すぐ削除します…」 |
+| **リン** | 「ズン<ruby>先輩<rt>せんぱい</rt></ruby>、Phase 3 <ruby>締結<rt>ていけつ</rt></ruby> PR draft できました! ¥17M deal <ruby>強調<rt>きょうちょう</rt></ruby>しています! <ruby>明日<rt>あした</rt></ruby> publish OK ですか?」 |
+|  | *Anh Dũng, em làm xong PR draft Phase 3 rồi ạ! Em nhấn ¥17M deal! Mai publish OK không ạ?* |
+| **ズン** | 「OK、<ruby>進<rt>すす</rt></ruby>めて。」 |
+|  | *OK em, làm tiếp đi.* |
+| (翌日 13:00 publish) | 「ティエンファット、<ruby>白鷗<rt>はくおう</rt></ruby><ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby>と Phase 3 で ¥17M <ruby>契約締結<rt>けいやくていけつ</rt></ruby>」 |
+|  | *Tiên Phát, ký với Hakuō ¥17M Phase 3 — đã publish!* |
+| (15:30) **大垣** | 「ズン様、**<ruby>弊社<rt>へいしゃ</rt></ruby> PR 部から<ruby>何<rt>なん</rt></ruby>の連絡もなく**、しかも **<ruby>金額<rt>きんがく</rt></ruby>が<ruby>明示<rt>めいじ</rt></ruby>**されています。**<ruby>競合他社<rt>きょうごうたしゃ</rt></ruby>に弊社 IT <ruby>予算<rt>よさん</rt></ruby>が exposed**、<ruby>即時<rt>そくじ</rt></ruby> take-down お願いします!」 |
+|  | *Anh Dũng, bên anh PR không nhận được liên lạc gì, lại còn ghi rõ số tiền. Budget IT bên tôi lộ cho đối thủ, lập tức take-down giúp tôi!* |
+| **ズン** | 「申し訳ございません、すぐ<ruby>削除<rt>さくじょ</rt></ruby>します…」 |
+|  | *Em xin lỗi anh ạ, em xóa ngay ạ...* |
 
-**Vì sao xấu:** (a) Solo release → 白鷗 PR 未通知, (b) ¥17M exposed → 競合 → 来年予算 削減 risk, (c) Take-down が公開された fact = 白鷗 social reputation dent. Phase 4 機会消滅.
+**Vì sao xấu:** (a) Phát hành đơn phương → 白鷗 PR 未通知 (chưa thông báo cho PR Hakuō), (b) ¥17M lộ ra → 競合 (đối thủ) → rủi ro 来年予算 削減 (năm sau bị cắt ngân sách), (c) việc gỡ xuống một thông tin đã công khai = làm sứt mẻ uy tín Hakuō trên truyền thông. Phase 4 cơ hội tiêu tan.
 
 ---
 
@@ -3068,20 +3411,26 @@ Phase 3 Pricing ¥17M — milestone. Marketing Hizashi muốn release. Linh (Mar
 
 *Dũng + Hương に draft 共有 · 大垣にメール · Slack Hương*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **リン** | 「フオン副部長、ズン先輩、Phase 3 締結 PR ドラフト v1 です。**金額は『数千万円規模』表記**【1】、白鷗様の名前は弊社 名前の後段に配置しています。joint approval 想定。」 |
-| **フオン** | 「いいね。次に **白鷗 PR 部にメール → 田中 PMO 経由で大垣様に paralel 共有**【2】、両社 legal レビュー後に embargo date を decide。」 |
-| **ズン** | 「大垣様、Phase 3 締結を弊社 marketing が PR したい旨、ご相談です。draft 添付、 金額は『数千万円規模』表記。**御社 PR 部のレビュー・両社同時 embargo (例: 5 月 15 日 朝 9 時)** をご相談させていただけますでしょうか。」 |
-| (3日後) **大垣** | 「ズン様、弊社 PR 部 review 完了。文言 2 箇所 minor 修正で OK。embargo 5 月 15 日 朝 9 時、両社同日同時刻 release で問題ございません。**joint quote** として『大垣 営業部長コメント』も入れさせていただきます。」 |
-| (5/15 09:00 同時 release、件名:「ティエンファット株式会社、白鷗株式会社と AI 業務委託 Phase 3 締結 — 数千万円規模」) | (両社サイトに掲載) |
-| **ズン** | 「PR 同時 release 完了。大垣 quote 入りで joint announcement 体裁【3】。Linh 良い仕事した。」 |
+| **リン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、ズン先輩、Phase 3 締結 PR ドラフト v1 です。**金額は『<ruby>数千万円規模<rt>すうせんまんえんきぼ</rt></ruby>』<ruby>表記<rt>ひょうき</rt></ruby>**【1】、白鷗様の名前は弊社 名前の<ruby>後段<rt>こうだん</rt></ruby>に<ruby>配置<rt>はいち</rt></ruby>しています。joint approval <ruby>想定<rt>そうてい</rt></ruby>。」 |
+|  | *Chị Hương, anh Dũng, em làm PR draft v1 Phase 3 ạ. Số tiền em ghi 'quy mô vài chục triệu yên', tên Hakuō em đặt sau tên bên mình. Em assume sẽ joint approval ạ.* |
+| **フオン** | 「いいね。次に **白鷗 PR 部にメール → <ruby>田中<rt>たなか</rt></ruby> PMO <ruby>経由<rt>けいゆ</rt></ruby>で大垣様に paralel <ruby>共有<rt>きょうゆう</rt></ruby>**【2】、両社 legal レビュー後に embargo date を decide。」 |
+|  | *OK em. Tiếp theo gửi mail PR Hakuō → qua PMO Tanaka share parallel cho anh Ōgaki, legal cả 2 review xong rồi mới quyết embargo date.* |
+| **ズン** | 「大垣様、Phase 3 締結を弊社 marketing が PR したい<ruby>旨<rt>むね</rt></ruby>、ご<ruby>相談<rt>そうだん</rt></ruby>です。draft <ruby>添付<rt>てんぷ</rt></ruby>、 金額は『数千万円規模』表記。**御社 PR 部のレビュー・<ruby>両社<rt>りょうしゃ</rt></ruby><ruby>同時<rt>どうじ</rt></ruby> embargo (例: 5 月 15 日 朝 9 時)** をご相談させていただけますでしょうか。」 |
+|  | *Anh Ōgaki, marketing bên em muốn PR việc ký Phase 3 ạ, em xin trao đổi. Em đính kèm draft, số tiền ghi 'quy mô vài chục triệu yên'. Phiền anh để PR bên anh review + đồng thời embargo cả 2 bên (ví dụ 9h sáng 15/5) được không ạ?* |
+| (3日後) **大垣** | 「ズン様、弊社 PR 部 review 完了。<ruby>文言<rt>もんごん</rt></ruby> 2 <ruby>箇所<rt>かしょ</rt></ruby> minor <ruby>修正<rt>しゅうせい</rt></ruby>で OK。embargo 5 月 15 日 朝 9 時、<ruby>両社同日同時刻<rt>りょうしゃどうじつどうじこく</rt></ruby> release で問題ございません。**joint quote** として『大垣 営業部長コメント』も入れさせていただきます。」 |
+|  | *Anh Dũng, PR bên anh review xong rồi. 2 chỗ wording chỉnh nhẹ là OK. Embargo 9h sáng 15/5, cùng ngày cùng giờ release không vấn đề. Bên anh thêm 'comment Ōgaki' làm joint quote.* |
+| (5/15 09:00 同時 release、件名:「ティエンファット株式会社、白鷗株式会社と AI <ruby>業務委託<rt>ぎょうむいたく</rt></ruby> Phase 3 締結 — 数千万円規模」) | (両社サイトに<ruby>掲載<rt>けいさい</rt></ruby>) |
+|  | *(Phát hành đồng thời 09:00 ngày 15/5, tiêu đề: "Tiên Phát ký AI giao việc Phase 3 với Hakuō — quy mô vài chục triệu yên" — đăng trên site cả 2 bên)* |
+| **ズン** | 「PR 同時 release 完了。大垣 quote 入りで joint announcement <ruby>体裁<rt>ていさい</rt></ruby>【3】。Linh 良い仕事した。」 |
+|  | *PR release đồng thời xong rồi. Có quote anh Ōgaki nên joint announcement chuẩn vẻ. Linh làm tốt.* |
 
 📝 **Ghi chú:**
-- 【1】**「数千万円規模」 framing** = 競合に正確 budget exposed しない. Industry norm.
-- 【2】**Joint approval flow**: 自社 PR draft → 自社 legal → 白鷗 PR (formal channel) → 大垣 (営業窓口 parallel) → 両社 legal → embargo decide.
-- 【3】**Joint quote** = 「大垣コメント」入りで両社 announcement 体裁。一方的 announcement より trust 高.
-- **Embargo 同日同時刻** = 「うちが先に発表した」感を avoid. JP は 平等 release を重視.
+- 【1】**Cách diễn đạt 「数千万円規模」** = không để lộ ngân sách (budget) chính xác cho đối thủ. Đây là chuẩn ngành.
+- 【2】**Mạch joint approval (duyệt chung)**: 自社 PR draft → 自社 legal → 白鷗 PR (kênh chính thức) → 大垣 (cửa BD, share song song) → 両社 legal → quyết embargo.
+- 【3】**Joint quote (trích dẫn chung)** = có 「大垣コメント」 nên ra dáng thông báo của cả hai bên (両社 announcement 体裁). Độ tin cậy cao hơn thông báo đơn phương.
+- **Embargo 同日同時刻** = tránh tạo cảm giác「うちが先に発表した」 (mình thông báo trước). Người Nhật coi trọng việc release bình đẳng.
 
 ---
 
@@ -3089,17 +3438,17 @@ Phase 3 Pricing ¥17M — milestone. Marketing Hizashi muốn release. Linh (Mar
 
 > **「Joint approval + 数千万円規模 + 同時 embargo = 関係維持型 PR。¥ 明示は競合に予算暴露で来年マイナス。」**
 >
-> *Joint approval + framing số tiền + embargo simultaneous = PR giữ relationship. Lộ ¥ chính xác = lộ budget khách → năm sau bị cắt.*
+> *Joint approval + cách diễn đạt số tiền + embargo đồng thời = PR giữ quan hệ. Lộ ¥ chính xác = lộ ngân sách khách → năm sau bị cắt.*
 
 ---
 
 ## ⚠ Tránh
 
-- Phát hành riêng một bên → relationship dent immediate
-- ¥ exact figure → 競合に予算 exposed → 来年 budget cut risk
-- 白鷗 名前先 (例: 「白鷗株式会社、ティエンファット社と…」) → 「ティエンファットが selected vendor」 dynamic に逆 (謙虚さ的 OK だが embedded marketing 効果 reduced)
-- Embargo 1 日ズレ → "うちが先" 感
-- Joint quote なし → unilateral announcement, 信頼度 down
+- Phát hành riêng một bên → sứt mẻ quan hệ ngay lập tức
+- Ghi con số ¥ chính xác → 競合に予算 exposed (lộ ngân sách cho đối thủ) → rủi ro 来年 budget cut (năm sau bị cắt)
+- Đặt tên 白鷗 lên trước (例: 「白鷗株式会社、ティエンファット社と…」) → đi ngược thế "Tiên Phát là nhà cung cấp được chọn" (謙虚さ — khiêm tốn thì OK, nhưng hiệu quả quảng bá gài kèm bị giảm)
+- Embargo lệch 1 ngày → cảm giác "うちが先" (mình trước)
+- Không có joint quote → thành thông báo đơn phương, 信頼度 down (độ tin cậy giảm)
 
 ---
 
@@ -3125,7 +3474,7 @@ Xem `conversation.json` → `templates[0]` (`format: "report"`) cho PR release J
 
 # Rule 39 — Stakeholder thank-you / 関係者への感謝
 
-> **Luận điểm.** Sau ký, KHÔNG chỉ thank Ōgaki và Hà CTO. Phải thank toàn bộ chuỗi: **(1) Khách side** — Tanaka PMO, Nakamura CFO, even reception, **(2) Mình side** — Tuấn / Linh / Loan, đặc biệt **junior staff** thường bị overlook. Thank junior bằng cách specific (KHÔNG generic 「お疲れ様」). Junior cảm nhận đầu tư → loyalty + future performance.
+> **Luận điểm.** Sau ký, KHÔNG chỉ cảm ơn Ōgaki và Hà CTO. Phải cảm ơn toàn bộ chuỗi: **(1) Phía khách** — Tanaka PMO, Nakamura CFO, kể cả lễ tân, **(2) Phía mình** — Tuấn / Linh / Loan, đặc biệt **nhân sự junior** thường bị bỏ sót. Cảm ơn junior bằng cách cụ thể (KHÔNG chung chung 「お疲れ様」). Junior cảm nhận được đầu tư → gắn bó + hiệu suất về sau.
 >
 > 商談成立後の感謝は senior だけでなく PMO・CFO 含む chain 全員、特に junior 含めて specific に行う。"お疲れ様"だけでは未投資メッセージ。
 >
@@ -3135,46 +3484,56 @@ Xem `conversation.json` → `templates[0]` (`format: "report"`) cho PR release J
 
 ## Bối cảnh / 場面
 
-Phase 3 ký + PR release thứ Năm. Chiều thứ Sáu Dũng có 1 giờ — sequence thank-you mail. Senior dễ nhớ; thử thách là junior staff (Linh, Loan, Hải nếu support background).
+Phase 3 ký + PR phát hành thứ Năm. Chiều thứ Sáu Dũng có 1 giờ — chuỗi mail cảm ơn. Senior dễ nhớ; thử thách là nhân sự junior (Linh, Loan, Hải nếu thuộc nhóm hỗ trợ hậu cần).
 
 ---
 
-## ❌ Hội thoại XẤU — chỉ thank senior + generic 「お疲れ様」
+## ❌ Hội thoại XẤU — chỉ cảm ơn senior + chung chung 「お疲れ様」
 
 *冷*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| (金曜 16:00 Slack #general) **ズン** | 「Phase 3 締結! 大垣様 + ハー CTO に感謝! みなさんお疲れ様でした!」 |
+| (金曜 16:00 Slack #general) **ズン** | 「Phase 3 <ruby>締結<rt>ていけつ</rt></ruby>! <ruby>大垣<rt>おおがき</rt></ruby>様 + ハー CTO に<ruby>感謝<rt>かんしゃ</rt></ruby>! みなさんお<ruby>疲<rt>つか</rt></ruby>れ様でした!」 |
+|  | *Ký Phase 3 rồi! Cảm ơn anh Ōgaki + anh Hà CTO! Mọi người làm việc vất vả!* |
 | (Linh、Loan などはこれだけ) | … |
 | (1 ヶ月後、Phase 4 提案準備) **ズン** | 「リン、Phase 4 deck をお願い。」 |
+|  | *(1 tháng sau, chuẩn bị đề xuất Phase 4) Linh, làm deck Phase 4 giúp anh.* |
 | **リン** | 「ズン先輩、私は今 別案件で…」 |
+|  | *Anh Dũng, em đang bận việc khác ạ...* |
 | (背景: Linh は Phase 3 PR を 3 日 overtime で作成、感謝された記憶 specific になし) |  |
 
-**Vì sao xấu:** Generic "お疲れ様" = 全員に同じ = 個別貢献 không được thấy。Junior は「自分の effort 認識されてない」と感じる → 次のお願い時に冷たい response。Loyalty suy giảm。
+**Vì sao xấu:** Một câu chung chung "お疲れ様" = 全員に同じ = đóng góp cá nhân không được thấy。Junior は「自分の effort 認識されてない」と感じる → lần sau nhờ việc thì phản hồi lạnh nhạt。Sự gắn bó suy giảm。
 
 ---
 
-## ✅ Hội thoại TỐT — chain 全員 + junior specific
+## ✅ Hội thoại TỐT — cả chuỗi 全員 + junior cụ thể
 
 *白鷗 大垣にメール、CC: Tanaka PMO + Nakamura CFO · 社内 Slack DM Linh · 社内 Slack DM Loan*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| (金曜 16:00 Hương に相談) **ズン** | 「フオン副部長、Phase 3 関係者感謝メールを書きます。Senior 6 名、 junior 4 名分で個別 specific にします【1】。レビューお願いします。」 |
-| **ズン** | 「大垣様、Tanaka 様、Nakamura 様 — Phase 3 締結に至りましたこと、皆様のお力添えあってこそでございます。**Tanaka 様には毎週の細やかな進捗確認**、**Nakamura 様には financial review でのご厳格なご指摘**【2】、改めて感謝申し上げます。」 |
-| **ズン** | 「リン、Phase 3 PR の件 ありがとう! **特に embargo 5/15 09:00 に間に合わせるため 5/13-14 で 2 晩 overtime 対応してくれた件**【3】、本当に助かった。両社 release が同時刻 timing に成功したのは Linh の effort 直接的に。Phase 4 でも力借りたい。」 |
-| **リン** | 「ズン先輩、覚えていてくださってありがとうございます…! 嬉しいです。Phase 4 もぜひ呼んでください。」 |
-| **ズン** | 「ロアンさん、Phase 3 経理レビューありがとうございました。**特に LOI 段階での税抜表記指摘**、**indemnity 上限の取締役会規定確認**【4】、契約の死角 を全部 catch していただきました。ロアンさんなしでは ¥17M 救えませんでした。」 |
-| **ロアン** | 「ズンさん、ご丁寧に。指摘した分 役立ったと知れて嬉しいです。次の case でも遠慮なく。」 |
-| (Slack #general 全社向け、ただし thank-you DM 後に投稿) **ズン** | 「Phase 3 締結! 関係者全員に個別感謝 DM 済【5】。Tuấn、ハー CTO、フオン副部長、リン、ロアン、田中様、大垣様、Nakamura 様 — ありがとうございました。」 |
+| (金曜 16:00 Hương に相談) **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、Phase 3 <ruby>関係者<rt>かんけいしゃ</rt></ruby><ruby>感謝<rt>かんしゃ</rt></ruby>メールを<ruby>書<rt>か</rt></ruby>きます。Senior 6 <ruby>名<rt>めい</rt></ruby>、 junior 4 <ruby>名分<rt>めいぶん</rt></ruby>で<ruby>個別<rt>こべつ</rt></ruby> specific にします【1】。レビューお<ruby>願<rt>ねが</rt></ruby>いします。」 |
+|  | *Chị Hương, em viết mail cảm ơn stakeholders Phase 3. 6 senior + 4 junior em viết riêng specific. Phiền chị review ạ.* |
+| **ズン** | 「<ruby>大垣<rt>おおがき</rt></ruby>様、Tanaka 様、Nakamura 様 — Phase 3 <ruby>締結<rt>ていけつ</rt></ruby>に<ruby>至<rt>いた</rt></ruby>りましたこと、<ruby>皆様<rt>みなさま</rt></ruby>のお<ruby>力添<rt>ちからぞ</rt></ruby>えあってこそでございます。**Tanaka 様には<ruby>毎週<rt>まいしゅう</rt></ruby>の<ruby>細<rt>こま</rt></ruby>やかな<ruby>進捗確認<rt>しんちょくかくにん</rt></ruby>**、**Nakamura 様には financial review でのご<ruby>厳格<rt>げんかく</rt></ruby>なご<ruby>指摘<rt>してき</rt></ruby>**【2】、<ruby>改<rt>あらた</rt></ruby>めて<ruby>感謝<rt>かんしゃ</rt></ruby><ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます。」 |
+|  | *Anh Ōgaki, anh Tanaka, anh Nakamura — việc ký Phase 3 thực sự nhờ sự giúp đỡ của các anh. Anh Tanaka kiểm tra tiến độ tỉ mỉ hàng tuần, anh Nakamura chỉ ra điểm chặt trong financial review — em xin gửi lời cảm ơn ạ.* |
+| **ズン** | 「リン、Phase 3 PR の<ruby>件<rt>けん</rt></ruby> ありがとう! **<ruby>特<rt>とく</rt></ruby>に embargo 5/15 09:00 に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせるため 5/13-14 で 2 <ruby>晩<rt>ばん</rt></ruby> overtime <ruby>対応<rt>たいおう</rt></ruby>してくれた<ruby>件<rt>けん</rt></ruby>**【3】、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>助<rt>たす</rt></ruby>かった。<ruby>両社<rt>りょうしゃ</rt></ruby> release が<ruby>同時刻<rt>どうじこく</rt></ruby> timing に<ruby>成功<rt>せいこう</rt></ruby>したのは Linh の effort <ruby>直接的<rt>ちょくせつてき</rt></ruby>に。Phase 4 でも<ruby>力借<rt>ちからか</rt></ruby>りたい。」 |
+|  | *Linh, cảm ơn em vụ PR Phase 3! Đặc biệt vụ em làm overtime 2 đêm 13-14/5 để kịp embargo 09:00 ngày 15/5 — anh thực sự cảm ơn. Việc release đồng thời 2 bên thành công là nhờ effort trực tiếp của Linh. Phase 4 anh cũng muốn nhờ em.* |
+| **リン** | 「ズン先輩、<ruby>覚<rt>おぼ</rt></ruby>えていてくださってありがとうございます…! <ruby>嬉<rt>うれ</rt></ruby>しいです。Phase 4 もぜひ<ruby>呼<rt>よ</rt></ruby>んでください。」 |
+|  | *Anh Dũng, cảm ơn anh đã nhớ ạ...! Em vui ạ. Phase 4 anh nhớ gọi em nhé.* |
+| **ズン** | 「ロアンさん、Phase 3 <ruby>経理<rt>けいり</rt></ruby>レビューありがとうございました。**<ruby>特<rt>とく</rt></ruby>に LOI <ruby>段階<rt>だんかい</rt></ruby>での<ruby>税抜表記<rt>ぜいぬきひょうき</rt></ruby><ruby>指摘<rt>してき</rt></ruby>**、**indemnity <ruby>上限<rt>じょうげん</rt></ruby>の<ruby>取締役会規定確認<rt>とりしまりやくかいきていかくにん</rt></ruby>**【4】、<ruby>契約<rt>けいやく</rt></ruby>の<ruby>死角<rt>しかく</rt></ruby> を<ruby>全部<rt>ぜんぶ</rt></ruby> catch していただきました。ロアンさんなしでは ¥17M <ruby>救<rt>すく</rt></ruby>えませんでした。」 |
+|  | *Chị Loan, cảm ơn chị đã review kế toán Phase 3. Đặc biệt việc chị chỉ ra 'ghi rõ chưa thuế' ở giai đoạn LOI, kiểm tra quy định HĐQT về cap indemnity — chị bắt được hết các điểm mù của hợp đồng. Không có chị thì không cứu được ¥17M.* |
+| **ロアン** | 「ズンさん、ご<ruby>丁寧<rt>ていねい</rt></ruby>に。<ruby>指摘<rt>してき</rt></ruby>した<ruby>分<rt>ぶん</rt></ruby> <ruby>役立<rt>やくだ</rt></ruby>ったと<ruby>知<rt>し</rt></ruby>れて<ruby>嬉<rt>うれ</rt></ruby>しいです。<ruby>次<rt>つぎ</rt></ruby>の case でも<ruby>遠慮<rt>えんりょ</rt></ruby>なく。」 |
+|  | *Anh Dũng, em viết kỹ quá. Chị vui khi biết những chỗ chị chỉ ra hữu ích. Lần sau cứ gọi không ngại.* |
+| (Slack #general 全社向け、ただし thank-you DM 後に投稿) **ズン** | 「Phase 3 <ruby>締結<rt>ていけつ</rt></ruby>! <ruby>関係者<rt>かんけいしゃ</rt></ruby><ruby>全員<rt>ぜんいん</rt></ruby>に<ruby>個別<rt>こべつ</rt></ruby><ruby>感謝<rt>かんしゃ</rt></ruby> DM <ruby>済<rt>ずみ</rt></ruby>【5】。Tuấn、ハー CTO、フオン副部長、リン、ロアン、<ruby>田中<rt>たなか</rt></ruby>様、大垣様、Nakamura 様 — ありがとうございました。」 |
+|  | *Ký Phase 3 rồi! Em đã DM cảm ơn riêng từng stakeholder. Anh Tuấn, anh Hà CTO, chị Hương, Linh, chị Loan, anh Tanaka, anh Ōgaki, anh Nakamura — em xin cảm ơn.* |
 
 📝 **Ghi chú:**
-- 【1】**Senior + junior 別々 list** — junior thank の方が時間かかる (specific 必要) なので別 budget.
-- 【2】**Specific contribution 各人** — 「お疲れ様」 generic NG. 「毎週の細やかな進捗確認」 = Tanaka の actual contribution.
-- 【3】**Junior は effort detail を見られていることに重い価値**. Specific date + behavior 言及。
-- 【4】**Loan のような support function** はもっと忘れられがち. 経理は contract dispute で会社を救う sourceだが見えにくい.
-- 【5】**個別 DM 後に general post** が順序. 逆だと junior は "全体 post で済まされた" 感.
+- 【1】**Senior + junior tách danh sách riêng** — cảm ơn junior の方が時間かかる (cần cụ thể) なので別 budget.
+- 【2】**Đóng góp cụ thể từng người** — 「お疲れ様」 chung chung KHÔNG OK. 「毎週の細やかな進捗確認」 = đóng góp thực tế của Tanaka.
+- 【3】**Junior は effort detail を見られていることに重い価値**. Nhắc cụ thể ngày tháng + hành vi。
+- 【4】**Loan のような support function (bộ phận hỗ trợ)** はもっと忘れられがち. Kế toán は contract dispute で会社を救う nguồn nhưng khó thấy.
+- 【5】**個別 DM 後に bài đăng chung** が順序. 逆だと junior は "全体 post で済まされた" 感.
 
 ---
 
@@ -3182,17 +3541,17 @@ Phase 3 ký + PR release thứ Năm. Chiều thứ Sáu Dũng có 1 giờ — se
 
 > **「Senior + junior 別々、specific contribution で感謝。「お疲れ様」 generic は未投資メッセージ。」**
 >
-> *Senior + junior list riêng, specific contribution. 「お疲れ様」 chung chung = thông điệp 'không đầu tư'.*
+> *Senior + junior lập danh sách riêng, đóng góp cụ thể. 「お疲れ様」 chung chung = thông điệp 'không đầu tư'.*
 
 ---
 
 ## ⚠ Tránh
 
 - 「みんなお疲れ様」 1 行で済ませる → junior 心が冷める
-- Junior の貢献を generic 化 (「PR 作ってくれてありがとう」) → 詳細な effort が見えない
-- Senior だけ thank → junior は "自分は âm thầm, không ai thấy" と感じる
+- Junior の貢献を chung chung hóa (「PR 作ってくれてありがとう」) → 詳細な effort が見えない
+- Senior だけ cảm ơn → junior は "tự mình âm thầm, không ai thấy" と感じる
 - 全体 post 先 → 個別 DM の重みが減る
-- 経理・法務 などの support function 忘れ → これら 1 mistake で会社が潰れる職種
+- 経理・法務 などの bộ phận hỗ trợ (support function) 忘れ → これら 1 sai sót で会社が潰れる職種
 
 ---
 
@@ -3203,7 +3562,7 @@ Phase 3 ký + PR release thứ Năm. Chiều thứ Sáu Dũng có 1 giờ — se
 | 関係者 | かんけいしゃ | Stakeholder / người liên quan |
 | お力添え | おちからぞえ | Sự giúp sức (formal) |
 | 細やか | こまやか | Tỉ mỉ |
-| 指摘 | してき | Chỉ ra / point out |
+| 指摘 | してき | Chỉ ra / nêu ra điểm cần lưu ý |
 | 死角 | しかく | Điểm mù |
 | support function | サポートファンクション | Bộ phận hỗ trợ (kế toán, legal) |
 | 個別 | こべつ | Riêng từng người |
@@ -3216,7 +3575,7 @@ Phase 3 ký + PR release thứ Năm. Chiều thứ Sáu Dũng có 1 giờ — se
 
 # Rule 40 — Multi-party negotiation / 多者間交渉
 
-> **Luận điểm.** Khi 中村 CFO + 大垣 + 松本 PM **cùng tham gia** 1 phiên = 3 stakeholders, 3 priorities. **CFO** = giá / ROI, **営業部長** = total deal / relationship, **PM** = scope / timeline. Trả lời chỉ 1 người = 2 người mất kết nối. Pattern: **(1) Identify từng concern**, **(2) Address song song** (1 câu cho mỗi role), **(3) Address senior cuối cùng** (CFO).
+> **Luận điểm.** Khi 中村 CFO + 大垣 + 松本 PM **cùng tham gia** 1 phiên = 3 bên liên quan, 3 ưu tiên khác nhau. **CFO** = giá / ROI, **営業部長** = tổng giá trị thương vụ / quan hệ, **PM** = phạm vi / tiến độ. Trả lời chỉ 1 người = 2 người mất kết nối. Công thức: **(1) Nhận diện từng mối quan tâm**, **(2) Trả lời song song** (1 câu cho mỗi vai), **(3) Trả lời người cấp cao cuối cùng** (CFO).
 >
 > 多者間交渉では役割別 concern (CFO=ROI、営業=total deal、PM=scope) を識別し、各人に並列 address。最後に senior (CFO) に回す。
 >
@@ -3226,47 +3585,61 @@ Phase 3 ký + PR release thứ Năm. Chiều thứ Sáu Dũng có 1 giờ — se
 
 ## Bối cảnh / 場面
 
-Phase 3 final round, executive review: 中村 CFO + 大垣 + 松本 PM joined Tiên Phát side (Hà CTO + Hương + Dũng). 3 questions came in 90 giây — Dũng cần address all 3 trong 1 reply.
+Phase 3 vòng cuối, phiên review cấp lãnh đạo: 中村 CFO + 大垣 + 松本 PM cùng tham gia với phía Tiên Phát (Hà CTO + Hương + Dũng). 3 câu hỏi dồn đến trong 90 giây — Dũng cần trả lời cả 3 trong 1 lượt nói.
 
 ---
 
-## ❌ Hội thoại XẤU — chỉ trả lời 1 người, 2 người ignored
+## ❌ Hội thoại XẤU — chỉ trả lời 1 người, 2 người bị bỏ qua
 
 *中村だけ向く · 腕組み*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **中村CFO** | 「ROI 4.4 倍とのことですが、payback period は何ヶ月でしょうか？」 |
-| **大垣** | 「価格 ¥17M に **保守延長 オプション**は含まれますか？」 |
-| **松本PM** | 「Phase 2 同等 SLA 99.9% を維持できますか？」 |
-| **ズン** | 「中村様、ROI 4.4 倍は **18 ヶ月で payback** です。」 |
-| (大垣 + 松本 unaddressed) **大垣** | …(沈黙) |
+| **中村CFO** | 「ROI 4.4 <ruby>倍<rt>ばい</rt></ruby>とのことですが、payback period は<ruby>何<rt>なん</rt></ruby>ヶ<ruby>月<rt>げつ</rt></ruby>でしょうか？」 |
+|  | *Bên em báo ROI 4.4x, nhưng payback period bao nhiêu tháng?* |
+| **大垣** | 「<ruby>価格<rt>かかく</rt></ruby> ¥17M に **<ruby>保守<rt>ほしゅ</rt></ruby><ruby>延長<rt>えんちょう</rt></ruby> オプション**は<ruby>含<rt>ふく</rt></ruby>まれますか？」 |
+|  | *Giá ¥17M có bao gồm option gia hạn maintenance không?* |
+| **松本PM** | 「Phase 2 <ruby>同等<rt>どうとう</rt></ruby> SLA 99.9% を<ruby>維持<rt>いじ</rt></ruby>できますか？」 |
+|  | *Có giữ được SLA 99.9% tương đương Phase 2 không?* |
+| **ズン** | 「<ruby>中村<rt>なかむら</rt></ruby><ruby>様<rt>さま</rt></ruby>、ROI 4.4 <ruby>倍<rt>ばい</rt></ruby>は **18 ヶ<ruby>月<rt>げつ</rt></ruby>で payback** です。」 |
+|  | *Anh Nakamura, ROI 4.4x payback trong 18 tháng ạ.* |
+| (大垣 + 松本 unaddressed) **大垣** | …(<ruby>沈黙<rt>ちんもく</rt></ruby>) |
+|  | *…(im lặng)* |
 | **松本** | 「あの、SLA は…」 |
+|  | *Ờ thì... SLA là...* |
 
-**Vì sao xấu:** Dũng chọn CFO (highest title) nhưng skip 大垣 + 松本. 大垣 felt sidelined → relationship dent. 松本 phải repeat question = unprofessional impression. Multi-party rule: address ALL trong 1 lượt nói, KHÔNG turn-by-turn.
+**Vì sao xấu:** Dũng chọn CFO (chức vụ cao nhất) nhưng bỏ qua 大垣 + 松本. 大垣 cảm thấy bị gạt ra rìa → sứt mẻ quan hệ. 松本 phải hỏi lại = gây ấn tượng thiếu chuyên nghiệp. Nguyên tắc đa bên: trả lời TẤT CẢ trong 1 lượt nói, KHÔNG trả lời lần lượt từng người.
 
 ---
 
-## ✅ Hội thoại TỐT — parallel address 3 stakeholders
+## ✅ Hội thoại TỐT — trả lời song song 3 bên liên quan
 
 *沈黙 3秒、メモ確認 · 松本に向く · 大垣に向く · 中村に最後、deeper bow · 頷く*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **中村CFO** | 「ROI 4.4 倍の payback period は？」 |
-| **大垣** | 「保守延長は含まれますか？」 |
-| **松本** | 「SLA 99.9% 維持できますか？」 |
-| **ズン** | 「ご質問ありがとうございます。**3 点まとめてお答えいたします**【1】。」 |
-| **ズン** | 「**まず松本様の SLA**: Phase 2 同等の 99.9% 維持、加えて **専任 PM が weekly で reliability budget review**、達成困難時は早期 escalation の体制でございます【2】。」 |
-| **ズン** | 「**次に大垣様の保守延長**: ¥17M には初年度保守を含み、**2 年目以降の延長保守は別枠 (¥2M / 年)**、契約書 separate clause でご案内しております。」 |
-| **ズン** | 「**最後に中村 CFO の payback**: 御社 GMV インパクト ¥80M / 年に対し、Phase 3 投資 ¥17M、**payback 約 18 ヶ月**【3】、3 年目から純利益 acceleration、5 年累計 ROI 4.4 倍を試算しております。詳細 cashflow も別添にてご用意可能です。」 |
-| **中村CFO** | 「ありがとうございます。3 点ともクリアです。社内検討に入ります。」 |
+| **中村CFO** | 「ROI 4.4 <ruby>倍<rt>ばい</rt></ruby>の payback period は？」 |
+|  | *Payback period của ROI 4.4x là bao nhiêu?* |
+| **大垣** | 「<ruby>保守<rt>ほしゅ</rt></ruby><ruby>延長<rt>えんちょう</rt></ruby>は<ruby>含<rt>ふく</rt></ruby>まれますか？」 |
+|  | *Maintenance gia hạn có bao gồm không?* |
+| **松本** | 「SLA 99.9% <ruby>維持<rt>いじ</rt></ruby>できますか？」 |
+|  | *Có giữ được SLA 99.9% không?* |
+| **ズン** | 「ご<ruby>質問<rt>しつもん</rt></ruby>ありがとうございます。**3 <ruby>点<rt>てん</rt></ruby>まとめてお<ruby>答<rt>こた</rt></ruby>えいたします**【1】。」 |
+|  | *Em cảm ơn các câu hỏi ạ. Em xin trả lời gộp 3 điểm.* |
+| **ズン** | 「**まず<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>の SLA**: Phase 2 <ruby>同等<rt>どうとう</rt></ruby>の 99.9% <ruby>維持<rt>いじ</rt></ruby>、<ruby>加<rt>くわ</rt></ruby>えて **<ruby>専任<rt>せんにん</rt></ruby> PM が weekly で reliability budget review**、<ruby>達成<rt>たっせい</rt></ruby><ruby>困難<rt>こんなん</rt></ruby><ruby>時<rt>じ</rt></ruby>は<ruby>早期<rt>そうき</rt></ruby> escalation の<ruby>体制<rt>たいせい</rt></ruby>でございます【2】。」 |
+|  | *Đầu tiên SLA của anh Matsumoto: giữ 99.9% tương đương Phase 2, ngoài ra PM chuyên trách review reliability budget hàng tuần, khi khó đạt thì có cơ chế escalate sớm ạ.* |
+| **ズン** | 「**<ruby>次<rt>つぎ</rt></ruby>に<ruby>大垣<rt>おおがき</rt></ruby><ruby>様<rt>さま</rt></ruby>の<ruby>保守<rt>ほしゅ</rt></ruby><ruby>延長<rt>えんちょう</rt></ruby>**: ¥17M には<ruby>初年度<rt>しょねんど</rt></ruby><ruby>保守<rt>ほしゅ</rt></ruby>を<ruby>含<rt>ふく</rt></ruby>み、**2 <ruby>年目<rt>ねんめ</rt></ruby><ruby>以降<rt>いこう</rt></ruby>の<ruby>延長<rt>えんちょう</rt></ruby><ruby>保守<rt>ほしゅ</rt></ruby>は<ruby>別枠<rt>べつわく</rt></ruby> (¥2M / <ruby>年<rt>ねん</rt></ruby>)**、<ruby>契約書<rt>けいやくしょ</rt></ruby> separate clause でご<ruby>案内<rt>あんない</rt></ruby>しております。」 |
+|  | *Tiếp theo về maintenance gia hạn anh Ōgaki: ¥17M đã bao gồm maintenance năm đầu, gia hạn từ năm 2 trở đi là khung riêng (¥2M/năm), em ghi ở separate clause của contract ạ.* |
+| **ズン** | 「**<ruby>最後<rt>さいご</rt></ruby>に<ruby>中村<rt>なかむら</rt></ruby> CFO の payback**: <ruby>御社<rt>おんしゃ</rt></ruby> GMV インパクト ¥80M / <ruby>年<rt>ねん</rt></ruby>に<ruby>対<rt>たい</rt></ruby>し、Phase 3 <ruby>投資<rt>とうし</rt></ruby> ¥17M、**payback <ruby>約<rt>やく</rt></ruby> 18 ヶ<ruby>月<rt>げつ</rt></ruby>**【3】、3 <ruby>年目<rt>ねんめ</rt></ruby>から<ruby>純利益<rt>じゅんりえき</rt></ruby> acceleration、5 <ruby>年<rt>ねん</rt></ruby><ruby>累計<rt>るいけい</rt></ruby> ROI 4.4 <ruby>倍<rt>ばい</rt></ruby>を<ruby>試算<rt>しさん</rt></ruby>しております。<ruby>詳細<rt>しょうさい</rt></ruby> cashflow も<ruby>別添<rt>べってん</rt></ruby>にてご<ruby>用意<rt>ようい</rt></ruby><ruby>可能<rt>かのう</rt></ruby>です。」 |
+|  | *Cuối cùng payback của anh Nakamura CFO: GMV impact bên anh ¥80M/năm, đầu tư Phase 3 ¥17M, payback khoảng 18 tháng, từ năm 3 lợi nhuận ròng accelerate, ROI tích lũy 5 năm 4.4 lần. Cashflow chi tiết em có thể đính kèm thêm ạ.* |
+| **中村CFO** | 「ありがとうございます。3 <ruby>点<rt>てん</rt></ruby>ともクリアです。<ruby>社内<rt>しゃない</rt></ruby><ruby>検討<rt>けんとう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります。」 |
+|  | *Cảm ơn em. Cả 3 điểm đều rõ. Bên anh vào nội bộ thảo luận.* |
 
 📝 **Ghi chú:**
-- 【1】**「3 点まとめてお答えいたします」** = signal 全部 address. 1 人 ignored 不安を解消.
-- 【2】**Order: junior → senior** (松本 → 大垣 → 中村 CFO). Senior 最後 = "trumps the pyramid" of value (松本の technical detail → 大垣の total deal → CFO の ROI). 各層に response.
-- 【3】**CFO 質問は最後 + most detailed**. CFO は「自分の質問が most important で answered last」 と feel する.
-- **目線移動 + 浅い bow** = tín hiệu phi ngôn ngữ cho thấy đang address từng người. 1 人 fixed gaze は他 2 人 mất kết nối.
+- 【1】**「3 点まとめてお答えいたします」** = tín hiệu báo sẽ trả lời tất cả. Xua đi nỗi lo của người sợ bị bỏ qua.
+- 【2】**Thứ tự: junior → senior** (松本 → 大垣 → 中村 CFO). Người cấp cao trả lời cuối = đứng trên đỉnh kim tự tháp giá trị (chi tiết kỹ thuật của 松本 → tổng thương vụ của 大垣 → ROI của CFO). Mỗi cấp đều có câu trả lời riêng.
+- 【3】**Câu của CFO trả lời cuối cùng + chi tiết nhất**. CFO sẽ cảm thấy "câu hỏi của mình quan trọng nhất nên được trả lời sau cùng".
+- **Đảo mắt nhìn từng người + cúi nhẹ** = tín hiệu phi ngôn ngữ cho thấy đang trả lời từng người. Cố định ánh mắt vào 1 người thì 2 người còn lại mất kết nối.
 
 ---
 
@@ -3274,17 +3647,17 @@ Phase 3 final round, executive review: 中村 CFO + 大垣 + 松本 PM joined Ti
 
 > **「多者間 = 並列 address。junior → senior 順、CFO 最後 + detail 最大。1 人 ignored は 2 人を失う。」**
 >
-> *Đa bên = address song song. Junior → senior, CFO cuối cùng + detail nhiều nhất. Skip 1 = mất 2.*
+> *Đa bên = trả lời song song. Junior → senior, CFO cuối cùng + chi tiết nhiều nhất. Bỏ qua 1 = mất 2.*
 
 ---
 
 ## ⚠ Tránh
 
-- 1 人 (highest title) chỉ trả lời → 2 人 mất kết nối = ringi 反対 source
-- Senior 先 (CFO 最初) → junior の質問は dilute される
-- "あとで個別に" 流す → 当日の trust momentum lost
-- 全員に同じ depth で答える → CFO 質問は detail 多めにすべき
-- 目線固定 → tín hiệu phi ngôn ngữ cho thấy có người bị bỏ qua
+- Chỉ trả lời 1 người (chức vụ cao nhất) → 2 người mất kết nối = nguồn phản đối khi xét 稟議
+- Trả lời người cấp cao trước (CFO 最初) → câu hỏi của junior bị làm loãng đi
+- Gạt qua bằng "あとで個別に" (để sau sẽ trao đổi riêng) → mất đà tin cậy gây dựng được ngay hôm đó
+- Trả lời mọi người cùng một độ sâu → câu của CFO cần chi tiết nhiều hơn
+- Cố định ánh mắt → tín hiệu phi ngôn ngữ cho thấy có người bị bỏ qua
 
 ---
 
@@ -3299,12 +3672,12 @@ Phase 3 final round, executive review: 中村 CFO + 大垣 + 松本 PM joined Ti
 | 純利益 | じゅんりえき | Lợi nhuận ròng |
 | 別枠 | べつわく | Khung riêng |
 | 専任 PM | せんにん PM | PM chuyên trách |
-| Reliability budget | リライアビリティ・バジェット | Reliability budget |
+| Reliability budget | リライアビリティ・バジェット | Ngân sách độ tin cậy |
 
 
 # Rule 41 — Online negotiation tactics / オンライン交渉
 
-> **Luận điểm.** Online ≠ offline đơn giản. 4 differences key: **(1) Eye contact mock** (look at camera, KHÔNG screen), **(2) Screen share strategy** (chỉ share khi present, KHÔNG suốt phiên), **(3) Silence khó cảm nhận** — 7 giây offline = 4 giây online (network lag mask), **(4) 沈黙 trong meeting tools dễ bị "技術的に大丈夫?" interruption** kill anchoring effect.
+> **Luận điểm.** Online ≠ offline đơn giản. 4 khác biệt then chốt: **(1) Mô phỏng giao tiếp bằng mắt** (nhìn vào camera, KHÔNG nhìn màn hình), **(2) Chiến lược share màn hình** (chỉ share khi trình bày, KHÔNG suốt phiên), **(3) Silence khó cảm nhận** — 7 giây offline = 4 giây online (lag mạng che lấp), **(4) 沈黙 trong meeting tools dễ bị "技術的に大丈夫?" cắt ngang** làm mất hiệu ứng anchoring.
 >
 > オンライン交渉では eye contact = カメラ凝視、画面共有は present 時のみ、沈黙は短めに調整、interruption (「聞こえてますか?」) でアンカリング効果を消さない。
 >
@@ -3320,36 +3693,48 @@ Phase 3 round 2, 大垣 + 田中 PMO 在京、Tiên Phát side ハノイ → Zoo
 
 ## ❌ Hội thoại XẤU — nhìn lơ đãng qua camera + sa lầy silence
 
-| | Speaker | Câu (Zoom) |
+| | Vai | Câu (Zoom) |
 |--|---------|-----|
-| **L1** | **ズン** *(画面を見ながら)* | 「Phase 3 価格 ¥18M でご提案させていただきます。」 |
-| **L2** | (沈黙 7 秒、 Dũng は画面下の slide note を見続ける) | … |
-| **L3** | **大垣** *(4 秒目)* | 「あの…音声 大丈夫ですか？」 |
-| **L4** | **ズン** *(慌)* | 「あ、はい、聞こえてます！ ¥18M です、ご検討ください！」 |
-| **L5** | (アンカリング効果消滅、 anchoring 失敗) | |
+| **L1** | **ズン** *(<ruby>画面<rt>がめん</rt></ruby>を見ながら)* | 「Phase 3 <ruby>価格<rt>かかく</rt></ruby> ¥18M でご<ruby>提案<rt>ていあん</rt></ruby>させていただきます。」 |
+|  |  | *Em xin đề xuất giá Phase 3 là ¥18M ạ.* |
+| **L2** | (<ruby>沈黙<rt>ちんもく</rt></ruby> 7 秒、 Dũng は画面下の slide note を<ruby>見続<rt>みつづ</rt></ruby>ける) | … |
+|  |  | *(Im lặng 7 giây, mắt Dũng vẫn nhìn note dưới slide)* |
+| **L3** | **大垣** *(4 秒目)* | 「あの…<ruby>音声<rt>おんせい</rt></ruby> 大丈夫ですか？」 |
+|  |  | *Ờ thì... audio có ổn không em?* |
+| **L4** | **ズン** *(<ruby>慌<rt>あわ</rt></ruby>)* | 「あ、はい、<ruby>聞<rt>き</rt></ruby>こえてます！ ¥18M です、ご<ruby>検討<rt>けんとう</rt></ruby>ください！」 |
+|  |  | *À vâng, em nghe được ạ! ¥18M ạ, anh xem xét giúp em!* |
+| **L5** | (アンカリング<ruby>効果<rt>こうか</rt></ruby><ruby>消滅<rt>しょうめつ</rt></ruby>、 anchoring 失敗) | |
+|  |  | *(Hiệu ứng anchoring tan biến, anchoring thất bại)* |
 
-**Vì sao xấu:** (a) Eye contact ⇒ camera ではなく screen note → 「相手の目を avoid している」印象, (b) Online silence 7 giây = 大垣 が "technical issue" assume → "聞こえてますか" → anchor の重みが lost, (c) 慌てた reply で anchor を repeat = weak signal.
+**Vì sao xấu:** (a) Giao tiếp bằng mắt ⇒ nhìn note dưới màn hình chứ không nhìn camera → tạo ấn tượng "đang né ánh mắt đối phương", (b) Online silence 7 giây = ông Ōgaki cho rằng có sự cố kỹ thuật → "聞こえてますか" → sức nặng của anchor mất sạch, (c) Vội vàng nhắc lại anchor = tín hiệu yếu.
 
 ---
 
 ## ✅ Hội thoại TỐT — camera eye + 4 giây silence + screen share precise
 
-| | Speaker | Câu (Zoom) |
+| | Vai | Câu (Zoom) |
 |--|---------|-----|
-| **L1** | **ズン** *(camera 直視、 hand gesture で書類に指す)* | 「Phase 3 価格について、画面共有させていただきます。」 |
-| **L2** | (画面共有 ON、3 段階提案 slide 表示) **ズン** *(camera 戻して直視)* | 「**Better tier ¥18M、Best tier ¥24M**、本日は Better tier をベースにご相談させていただければと存じます【1】。」 |
-| **L3** | (画面共有 OFF、 camera のみに集中) **ズン** *(camera 直視のまま)* | 「¥18M の根拠は Phase 2 比 +24%、ROI 4.4 倍。御社のご感想を頂戴できればと存じます。」 |
-| **L4** | (沈黙 4 秒、 Dũng は camera 直視・微笑、 hand stillness) | … |
-| **L5** | **大垣** *(4 秒目で発言)* | 「…¥18M ですね。社内で検討します。」 |
-| **L6** | **ズン** *(頷き、 camera 維持)* | 「ありがとうございます。検討期間は 1 週間ほど見ていただけますでしょうか？」 |
-| **L7** | (Dũng Slack Hương 後で) **ズン** | 「online 4 秒 silence で大垣様 reply。screen share は anchor slide 出して即 OFF、camera 直視で沈黙保持。**相手が 'connection 大丈夫?' interrupt する前に reply 来た**【2】。」 |
+| **L1** | **ズン** *(camera 直視、 hand gesture で<ruby>書類<rt>しょるい</rt></ruby>に<ruby>指<rt>さ</rt></ruby>す)* | 「Phase 3 価格について、<ruby>画面共有<rt>がめんきょうゆう</rt></ruby>させていただきます。」 |
+|  |  | *Về giá Phase 3, em xin phép share screen ạ.* |
+| **L2** | (画面共有 ON、3 <ruby>段階提案<rt>だんかいていあん</rt></ruby> slide <ruby>表示<rt>ひょうじ</rt></ruby>) **ズン** *(camera <ruby>戻<rt>もど</rt></ruby>して<ruby>直視<rt>ちょくし</rt></ruby>)* | 「**Better tier ¥18M、Best tier ¥24M**、<ruby>本日<rt>ほんじつ</rt></ruby>は Better tier をベースにご<ruby>相談<rt>そうだん</rt></ruby>させていただければと<ruby>存<rt>ぞん</rt></ruby>じます【1】。」 |
+|  |  | *Better tier ¥18M, Best tier ¥24M, hôm nay em xin được trao đổi base trên Better tier ạ.* |
+| **L3** | (画面共有 OFF、 camera のみに<ruby>集中<rt>しゅうちゅう</rt></ruby>) **ズン** *(camera 直視のまま)* | 「¥18M の<ruby>根拠<rt>こんきょ</rt></ruby>は Phase 2 <ruby>比<rt>ひ</rt></ruby> +24%、ROI 4.4 <ruby>倍<rt>ばい</rt></ruby>。<ruby>御社<rt>おんしゃ</rt></ruby>のご<ruby>感想<rt>かんそう</rt></ruby>を<ruby>頂戴<rt>ちょうだい</rt></ruby>できればと存じます。」 |
+|  |  | *Cơ sở ¥18M là +24% so với Phase 2, ROI 4.4 lần. Em rất mong nhận được cảm nhận từ bên anh ạ.* |
+| **L4** | (沈黙 4 秒、 Dũng は camera 直視・<ruby>微笑<rt>びしょう</rt></ruby>、 hand stillness) | … |
+|  |  | *(Im lặng 4 giây, Dũng vẫn nhìn camera, mỉm cười nhẹ, tay không động)* |
+| **L5** | **大垣** *(4 秒目で<ruby>発言<rt>はつげん</rt></ruby>)* | 「…¥18M ですね。<ruby>社内<rt>しゃない</rt></ruby>で検討します。」 |
+|  |  | *...¥18M nhỉ. Bên anh nội bộ thảo luận.* |
+| **L6** | **ズン** *(<ruby>頷<rt>うなず</rt></ruby>き、 camera <ruby>維持<rt>いじ</rt></ruby>)* | 「ありがとうございます。<ruby>検討期間<rt>けんとうきかん</rt></ruby>は 1 <ruby>週間<rt>しゅうかん</rt></ruby>ほど見ていただけますでしょうか？」 |
+|  |  | *Em cảm ơn ạ. Phiền anh dành khoảng 1 tuần để xem xét được không ạ?* |
+| **L7** | (Dũng Slack Hương 後で) **ズン** | 「online 4 秒 silence で大垣様 reply。screen share は anchor slide <ruby>出<rt>だ</rt></ruby>して即 OFF、camera 直視で<ruby>沈黙保持<rt>ちんもくほじ</rt></ruby>。**相手が 'connection 大丈夫?' interrupt する前に reply 来た**【2】。」 |
+|  |  | *Online silence 4 giây thì anh Ōgaki đã reply. Screen share chỉ lúc show anchor slide rồi tắt ngay, camera giữ nhìn thẳng để giữ silence. Reply đến trước khi anh ấy interrupt 'connection OK?'.* |
 
 📝 **Ghi chú:**
-- 【1】**Anchor 提示時に screen share** → 視覚 reinforce. 提示後は **即 share OFF + camera back** = 顔で connection を取り戻す.
-- 【2】**Online silence = 4 giây** (offline 7 giây). 5 giây超えるとネット遅延と勘違いされる.
-- **Eye contact = camera lens 直視** (相手の顔ではない). 練習 1 週間必要; 最初は不自然.
-- **Hand gesture stillness** in silence = 「待っている」 confidence. 動くと "焦っている" 感.
-- **Connection check phrase** 「聞こえてますか？」 を anchor 後に発言は absolute NG.
+- 【1】**Chỉ share màn hình lúc đưa anchor** → củng cố bằng thị giác. Sau khi đưa xong thì **tắt share ngay + quay lại camera** = lấy lại kết nối bằng khuôn mặt.
+- 【2】**Online silence = 4 giây** (offline 7 giây). Quá 5 giây sẽ bị hiểu nhầm là lag mạng.
+- **Giao tiếp bằng mắt = nhìn thẳng vào ống kính camera** (không phải nhìn mặt đối phương). Cần luyện 1 tuần; lúc đầu sẽ thấy thiếu tự nhiên.
+- **Giữ tay yên** trong lúc im lặng = sự tự tin "đang chờ đợi". Cử động nhiều sẽ tạo cảm giác "đang bồn chồn".
+- **Câu kiểm tra kết nối** 「聞こえてますか？」 tuyệt đối không được nói sau khi đã đưa anchor.
 
 ---
 
@@ -3357,17 +3742,17 @@ Phase 3 round 2, 大垣 + 田中 PMO 在京、Tiên Phát side ハノイ → Zoo
 
 > **「Online: camera 直視 + screen share は anchor 時のみ + 沈黙 4 秒 (offline -3 秒) + interruption 自重。」**
 >
-> *Online: nhìn lens + screen share chỉ khi anchor + silence 4 giây + nén interruption.*
+> *Online: nhìn thẳng ống kính + chỉ share màn hình khi anchor + silence 4 giây + nén việc bị cắt ngang.*
 
 ---
 
 ## ⚠ Tránh
 
 - 画面下の note を見ながら anchor 提示 → giao tiếp bằng mắt = 0
-- 画面共有を session 全部 ON → 顔が見えず human connection 切れる
-- Online silence 7 giây 維持 → "audio disconnect" assume される
-- 「聞こえてますか?」 を 2 秒目で connect-check → anchor effect 即消滅
-- カメラ角度上から下 / 下から上 → 不自然 power dynamic
+- 画面共有を session 全部 ON → 顔が見えず、 sự kết nối giữa người với người bị cắt đứt
+- Online silence 7 giây 維持 → bị cho là "mất tiếng / rớt audio"
+- 「聞こえてますか?」 を 2 秒目で kiểm tra kết nối → hiệu ứng anchor tan biến ngay lập tức
+- カメラ角度上から下 / 下から上 → tạo thế quyền lực thiếu tự nhiên
 
 ---
 
@@ -3376,17 +3761,17 @@ Phase 3 round 2, 大垣 + 田中 PMO 在京、Tiên Phát side ハノイ → Zoo
 | 漢字 / Tiếng Nhật | よみ | Nghĩa |
 |------|------|-------|
 | カメラ直視 | カメラちょくし | Nhìn thẳng camera |
-| 画面共有 | がめんきょうゆう | Screen share |
-| 凝視 | ぎょうし | Gaze fixed |
+| 画面共有 | がめんきょうゆう | Chia sẻ màn hình (share màn hình) |
+| 凝視 | ぎょうし | Nhìn chằm chằm, nhìn cố định |
 | 沈黙保持 | ちんもくほじ | Giữ im lặng |
-| ネット遅延 | ネットちえん | Network lag |
-| Hand stillness | ハンドスティルネス | Tay không động |
-| Eye contact mock | アイコンタクトモック | Mô phỏng eye contact |
+| ネット遅延 | ネットちえん | Độ trễ mạng (lag mạng) |
+| Hand stillness | ハンドスティルネス | Giữ tay yên không cử động |
+| Eye contact mock | アイコンタクトモック | Mô phỏng giao tiếp bằng mắt |
 
 
 # Rule 42 — Translator-mediated negotiation / 通訳介在
 
-> **Luận điểm.** Khi Linh học interpret join phiên đàm phán: 4 rules cần follow. **(1) Pace** = câu ngắn 15-25 字 max, KHÔNG nói liên tục không ngắt, **(2) Pause sau câu** ≥ 2 giây cho Linh dịch, **(3) Speaker đứng sát translator nhưng nhìn KHÁCH** (không nhìn translator), **(4) Pre-brief** translator về key terms (BATNA, ZOPA, indemnity) trước phiên — translator được biết term đặc thù trước. Skip 1 trong 4 → translator overload, mistranslation = số tiền sai.
+> **Luận điểm.** Khi Linh học phiên dịch tham gia phiên đàm phán: 4 quy tắc cần theo. **(1) Pace** = câu ngắn 15-25 字 tối đa, KHÔNG nói liên tục không ngắt, **(2) Pause sau câu** ≥ 2 giây cho Linh dịch, **(3) Người nói đứng sát phiên dịch nhưng nhìn KHÁCH** (không nhìn phiên dịch), **(4) Pre-brief** phiên dịch về key terms (BATNA, ZOPA, indemnity) trước phiên — phiên dịch được biết thuật ngữ đặc thù trước. Bỏ 1 trong 4 → phiên dịch quá tải, dịch sai = số tiền sai.
 >
 > 通訳介在交渉では (a) 短い文 (b) 文末で 2 秒 pause (c) 相手を見る (d) 用語事前 brief。これらを守らないと通訳精度低下 = 数値ズレ → 商務 dispute。
 >
@@ -3396,7 +3781,7 @@ Phase 3 round 2, 大垣 + 田中 PMO 在京、Tiên Phát side ハノイ → Zoo
 
 ## Bối cảnh / 場面
 
-Phase 4 scoping với 1 client mới (Hà Nội office, JP exec không tiếng Anh / không tiếng Việt). Linh học interpret join. Pre-brief 30 phút trước. Trong phiên: Dũng phải điều chỉnh pace.
+Phase 4 scoping với 1 khách hàng mới (văn phòng Hà Nội, sếp JP không tiếng Anh / không tiếng Việt). Linh học phiên dịch tham gia. Pre-brief 30 phút trước. Trong phiên: Dũng phải điều chỉnh pace.
 
 ---
 
@@ -3404,13 +3789,18 @@ Phase 4 scoping với 1 client mới (Hà Nội office, JP exec không tiếng A
 
 *早口、 1 文 80 字 · panic、 30 字までしかメモ取れず · 訂正 · VN client へ · 困*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **ズン** | 「弊社の Phase 4 提案は、AI レコメンドエンジンに加えて customer churn prediction モデルも統合し、 indemnity は年契約額上限 ¥20M 想定、SLA は 99.95% で、 BATNA も別途用意しております。」 |
-| **リン** | 「えっと…AI engine と churn prediction、 indemnity ¥20M、SLA…99.5%? ですか?」 |
+| **ズン** | 「<ruby>弊社<rt>へいしゃ</rt></ruby>の Phase 4 <ruby>提案<rt>ていあん</rt></ruby>は、AI レコメンドエンジンに<ruby>加<rt>くわ</rt></ruby>えて customer churn prediction モデルも<ruby>統合<rt>とうごう</rt></ruby>し、 indemnity は<ruby>年契約額上限<rt>ねんけいやくがくじょうげん</rt></ruby> ¥20M <ruby>想定<rt>そうてい</rt></ruby>、SLA は 99.95% で、 BATNA も<ruby>別途用意<rt>べっとようい</rt></ruby>しております。」 |
+|  | *Đề xuất Phase 4 bên em ngoài AI recommend engine còn integrate cả model customer churn prediction, indemnity dự kiến trần annual ¥20M, SLA là 99.95%, BATNA bên em cũng có chuẩn bị riêng.* |
+| **リン** | 「えっと…AI engine と churn prediction、 indemnity ¥20M、SLA…99.5%？ ですか？」 |
+|  | *Ờ thì... AI engine và churn prediction, indemnity ¥20M, SLA... 99.5% à?* |
 | **ズン** | 「99.95% です。」 |
+|  | *99.95% ạ.* |
 | **リン** | 「Phase 4 sẽ có AI engine + churn prediction. Indemnity 20 triệu yên, SLA 99.5%...à 99.95%, em xin lỗi.」 |
+|  | *Phase 4 sẽ có AI engine + churn prediction. Indemnity 20 triệu yên, SLA 99.5%...à 99.95%, em xin lỗi.* |
 | **VN client** | 「SLA 99.95% à... bên em ngân sách dựa trên 99.5%.」 |
+|  | *SLA 99.95% à... bên em ngân sách dựa trên 99.5%.* |
 
 **Vì sao xấu:** (a) 1 文 80 字, Linh の memory buffer 超え, (b) BATNA / indemnity 用語 pre-brief なし → Linh interpret 苦戦, (c) 99.5 vs 99.95 の翻訳ミス = ¥1M+ dispute, (d) 訂正 mid-flow で credibility 崩壊.
 
@@ -3420,22 +3810,33 @@ Phase 4 scoping với 1 client mới (Hà Nội office, JP exec không tiếng A
 
 *Linh と 1-on-1 · VN client 直視、 1 文 20 字以内、 文末 2 秒 pause · VN client へ · VN client 凝視、 Linh は ear-shot 距離 · 明瞭発音 · Linh に*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| (商談 30 分前 pre-brief) **ズン** | 「Linh、本日の key terms 7 個 reviews【1】: indemnity =損害賠償, BATNA =交渉決裂代替案, ZOPA =合意可能領域, SLA = サービス水準合意。**99.95% は『きゅうきゅう・きゅうご パーセント』と区切って発音**【2】、99.5% との混同避ける。」 |
-| **リン** | 「ありがとうございます。99.95% pronunciation 練習しました。」 |
-| (商談中) **ズン** | 「Phase 4 では、AI レコメンドエンジンを継続いたします。」 (2 秒 pause) |
+| (商談 30 分前 pre-brief) **ズン** | 「Linh、<ruby>本日<rt>ほんじつ</rt></ruby>の key terms 7 <ruby>個<rt>こ</rt></ruby> reviews【1】: indemnity =<ruby>損害賠償<rt>そんがいばいしょう</rt></ruby>, BATNA =<ruby>交渉決裂代替案<rt>こうしょうけつれつだいたいあん</rt></ruby>, ZOPA =<ruby>合意可能領域<rt>ごういかのうりょういき</rt></ruby>, SLA = サービス<ruby>水準合意<rt>すいじゅんごうい</rt></ruby>。**99.95% は『きゅうきゅう・きゅうご パーセント』と<ruby>区切<rt>くぎ</rt></ruby>って<ruby>発音<rt>はつおん</rt></ruby>**【2】、99.5% との<ruby>混同<rt>こんどう</rt></ruby><ruby>避<rt>さ</rt></ruby>ける。」 |
+|  | *Linh, mình review 7 key terms hôm nay: indemnity = bồi thường thiệt hại, BATNA = phương án thay thế, ZOPA = vùng thỏa thuận, SLA = thỏa thuận mức dịch vụ. 99.95% đọc tách 'chín-chín chín-năm phần trăm' để khỏi nhầm với 99.5%.* |
+| **リン** | 「ありがとうございます。99.95% pronunciation <ruby>練習<rt>れんしゅう</rt></ruby>しました。」 |
+|  | *Em cảm ơn anh ạ. Em đã practice phát âm 99.95% rồi ạ.* |
+| (商談中) **ズン** | 「Phase 4 では、AI レコメンドエンジンを<ruby>継続<rt>けいぞく</rt></ruby>いたします。」 (2 秒 pause) |
+|  | *Phase 4 sẽ tiếp tục AI recommend engine ạ.* |
 | **リン** | 「Phase 4 vẫn duy trì AI recommend engine.」 |
-| **ズン** | 「加えて、 customer churn prediction を統合いたします。」 (2 秒 pause) |
+|  | *Phase 4 vẫn duy trì AI recommend engine.* |
+| **ズン** | 「<ruby>加<rt>くわ</rt></ruby>えて、 customer churn prediction を<ruby>統合<rt>とうごう</rt></ruby>いたします。」 (2 秒 pause) |
+|  | *Bổ sung thêm, em sẽ integrate customer churn prediction ạ.* |
 | **リン** | 「Bổ sung integrate model dự đoán churn.」 |
-| **ズン** | 「indemnity 上限は 年契約額相当の ¥20M。」 (2 秒 pause) |
-| **リン** | 「Indemnity (損害賠償上限) đặt ở mức annual ¥20M.」 |
+|  | *Bổ sung integrate model dự đoán churn.* |
+| **ズン** | 「indemnity <ruby>上限<rt>じょうげん</rt></ruby>は <ruby>年契約額相当<rt>ねんけいやくがくそうとう</rt></ruby>の ¥20M。」 (2 秒 pause) |
+|  | *Trần indemnity tương đương annual contract ¥20M.* |
+| **リン** | 「Indemnity (<ruby>損害賠償上限<rt>そんがいばいしょうじょうげん</rt></ruby>) đặt ở mức annual ¥20M.」 |
+|  | *Indemnity (trần bồi thường) đặt ở mức annual ¥20M.* |
 | **ズン** | 「SLA は『きゅうきゅう・きゅうご パーセント』、つまり 99.95% でございます【3】。」 (2 秒 pause) |
+|  | *SLA là 'chín-chín chín-năm phần trăm', tức là 99.95% ạ.* |
 | **リン** | 「SLA chín-chín-chín-năm phần trăm, tức là 99.95%.」 |
-| (商談後) **ズン** | 「お疲れ様。99.95% 区切り発音 + indemnity term pre-brief で精度 high。次回も同じ pattern で。」 |
+|  | *SLA chín-chín-chín-năm phần trăm, tức là 99.95%.* |
+| (商談後) **ズン** | 「お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>。99.95% <ruby>区切<rt>くぎ</rt></ruby>り<ruby>発音<rt>はつおん</rt></ruby> + indemnity term pre-brief で<ruby>精度<rt>せいど</rt></ruby> high。<ruby>次回<rt>じかい</rt></ruby>も<ruby>同<rt>おな</rt></ruby>じ pattern で。」 |
+|  | *Em vất vả rồi. Phát âm tách 99.95% + pre-brief term indemnity giúp accuracy cao. Lần sau công thức y vậy.* |
 
 📝 **Ghi chú:**
-- 【1】**Pre-brief 30 分** = key terms list + 数値 sensitive points + speaker style. Translator vào không có thông tin gì trước (cold start) thì độ chính xác giảm -30%.
+- 【1】**Pre-brief 30 分** = key terms list + 数値 sensitive points + speaker style. Phiên dịch vào không có thông tin gì trước (khởi đầu không có thông tin) thì độ chính xác giảm -30%.
 - 【2】**数値の区切り発音** (「99.95% = きゅうきゅう・きゅうご」) = mistranslation prevention. 3 と 5 / 9 と 4 は Vietnamese で類似音.
 - 【3】**Speaker は client を直視** (Linh ではなく). Linh は ear-shot 距離で stand. 相手は "Dũng と直接話している" 感.
 - **Linh の interpret 中は Dũng 沈黙 + 頷き**。 next sentence の preview を考えない、 listening focus.
@@ -3495,14 +3896,18 @@ Phase 4 round 3, 大垣 thay 中村 CFO + 大垣 + Tiên Phát luật sư on cal
 
 *panic、 escalate なし · Hà CTO に · 青*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **中村CFO** | 「indemnity 無制限じゃないと弊社決裁 down ません。今ここで決めてください。」 |
-| **ズン** | 「えっと…無制限ですか…承知いたしました、それで進めます…」 |
-| (1 時間後 Slack 報告) **ズン** | 「Hà CTO、Phase 4 indemnity 無制限で合意しました。」 |
-| **ハー CTO** | 「**何故 escalate しなかった？取締役会上限規定を超える。今すぐ撤回交渉**。社長 escalate も必要。」 |
+| **中村CFO** | 「indemnity <ruby>無制限<rt>むせいげん</rt></ruby>じゃないと<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>決裁<rt>けっさい</rt></ruby> down ません。<ruby>今<rt>いま</rt></ruby>ここで<ruby>決<rt>き</rt></ruby>めてください。」 |
+|  | *Indemnity không unlimited thì bên tôi không duyệt được. Bây giờ anh quyết đi.* |
+| **ズン** | 「えっと…<ruby>無制限<rt>むせいげん</rt></ruby>ですか…<ruby>承知<rt>しょうち</rt></ruby>いたしました、それで<ruby>進<rt>すす</rt></ruby>めます…」 |
+|  | *Ờ thì... unlimited ạ... em rõ rồi ạ, em đi tiếp như vậy ạ...* |
+| (1 <ruby>時間後<rt>じかんご</rt></ruby> Slack <ruby>報告<rt>ほうこく</rt></ruby>) **ズン** | 「Hà CTO、Phase 4 indemnity <ruby>無制限<rt>むせいげん</rt></ruby>で<ruby>合意<rt>ごうい</rt></ruby>しました。」 |
+|  | *Anh Hà CTO, Phase 4 em đã thống nhất indemnity unlimited rồi ạ.* |
+| **ハー CTO** | 「**<ruby>何故<rt>なぜ</rt></ruby> escalate しなかった？<ruby>取締役会<rt>とりしまりやくかい</rt></ruby><ruby>上限<rt>じょうげん</rt></ruby><ruby>規定<rt>きてい</rt></ruby>を<ruby>超<rt>こ</rt></ruby>える。<ruby>今<rt>いま</rt></ruby>すぐ<ruby>撤回<rt>てっかい</rt></ruby><ruby>交渉<rt>こうしょう</rt></ruby>**。<ruby>社長<rt>しゃちょう</rt></ruby> escalate も<ruby>必要<rt>ひつよう</rt></ruby>。」 |
+|  | *Sao em không escalate? Vượt quy định cap HĐQT. Bây giờ phải renegotiate rút lại ngay. Có khi phải escalate cả Tổng Giám đốc.* |
 
-**Vì sao xấu:** (a) T2 (権限外) recognize されず Dũng が即決, (b) T3 (ultimatum tone) も recognize されず, (c) Hà CTO 取締役会規定知らず → Tiên Phát 法的に không có hiệu lực ràng buộc → renegotiate = trust dent. Escalation skip = career-defining mistake.
+**Vì sao xấu:** (a) T2 (権限外) recognize されず Dũng が即決, (b) T3 (ultimatum tone) も recognize されず, (c) Hà CTO 取締役会規定知らず → Tiên Phát 法的に không có hiệu lực ràng buộc → đàm phán lại = sứt mẻ niềm tin. Bỏ qua việc đẩy lên cấp trên = sai lầm định mệnh cho sự nghiệp.
 
 ---
 
@@ -3510,18 +3915,28 @@ Phase 4 round 3, 大垣 thay 中村 CFO + 大垣 + Tiên Phát luật sư on cal
 
 *2 秒沈黙、 trigger T2 + T3 認識 · microexpression: 想定内 · 2 分後 · 中村に · 姿勢正す*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **中村CFO** | 「indemnity 無制限じゃないと弊社決裁 down ません。今ここで決めてください。」 |
-| **ズン** | 「ご要望承知しました。」 |
-| **ズン** | 「**indemnity 無制限の判断は弊社取締役会上限規定に関わるため、私の権限を超えます**【1】。**5 分ほどお時間頂戴し、Hà CTO に連絡を取らせてください**【2】。」 |
-| **中村CFO** | 「分かりました。5 分待ちます。」 |
-| (Slack Hà CTO、 30 秒 context: trigger / 数値 / urgency) **ズン** | 「ハー CTO、Phase 4 中村 CFO escalation。要点: indemnity 無制限 + ultimatum + 即決要請。**T2 + T3 trigger**。step-in 可否 ご判断ください。」 |
-| **ハー CTO** | 「私が join。3 分後 Zoom link 送る。Dũng は **メンバー紹介後そのまま session にいて**、撤退ではない【3】。」 |
-| (Zoom 再開) **ズン** | 「お待たせいたしました。弊社 CTO ハー が join いたします。」 |
-| **ハー CTO** | 「中村様、ハーでございます。indemnity 上限 ¥20M (年契約額) は弊社取締役会規定上の上限。これを超えるご提案は弊社で commit 不可です。代替として **段階的 cap** (1 年目 ¥20M、2 年目 ¥30M) のご相談は可能です。」 |
-| **中村CFO** | 「CTO 直接ご回答 助かります。段階的 cap、 持ち帰り検討します。」 |
-| (商談後 Slack) **ハー CTO → Dũng** | 「Good job escalate。T2/T3 認識 + 30 秒 context + setup 完璧【4】。学べた。」 |
+| **中村CFO** | 「indemnity <ruby>無制限<rt>むせいげん</rt></ruby>じゃないと<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>決裁<rt>けっさい</rt></ruby> down ません。<ruby>今<rt>いま</rt></ruby>ここで<ruby>決<rt>き</rt></ruby>めてください。」 |
+|  | *Indemnity không unlimited thì bên tôi không duyệt được. Bây giờ anh quyết đi.* |
+| **ズン** | 「ご<ruby>要望<rt>ようぼう</rt></ruby><ruby>承知<rt>しょうち</rt></ruby>しました。」 |
+|  | *Em ghi nhận yêu cầu của anh ạ.* |
+| **ズン** | 「**indemnity <ruby>無制限<rt>むせいげん</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>は<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>取締役会<rt>とりしまりやくかい</rt></ruby><ruby>上限<rt>じょうげん</rt></ruby><ruby>規定<rt>きてい</rt></ruby>に<ruby>関<rt>かか</rt></ruby>わるため、<ruby>私<rt>わたし</rt></ruby>の<ruby>権限<rt>けんげん</rt></ruby>を<ruby>超<rt>こ</rt></ruby>えます**【1】。**5 <ruby>分<rt>ふん</rt></ruby>ほどお<ruby>時間<rt>じかん</rt></ruby><ruby>頂戴<rt>ちょうだい</rt></ruby>し、Hà CTO に<ruby>連絡<rt>れんらく</rt></ruby>を<ruby>取<rt>と</rt></ruby>らせてください**【2】。」 |
+|  | *Quyết định về indemnity unlimited liên quan đến quy định cap HĐQT bên em, vượt thẩm quyền của em ạ. Phiền anh cho em 5 phút để liên lạc anh Hà CTO ạ.* |
+| **中村CFO** | 「<ruby>分<rt>わ</rt></ruby>かりました。5 <ruby>分<rt>ふん</rt></ruby><ruby>待<rt>ま</rt></ruby>ちます。」 |
+|  | *Hiểu rồi. Anh đợi 5 phút.* |
+| (Slack Hà CTO、 30 <ruby>秒<rt>びょう</rt></ruby> context: trigger / <ruby>数値<rt>すうち</rt></ruby> / urgency) **ズン** | 「ハー CTO、Phase 4 中村 CFO escalation。<ruby>要点<rt>ようてん</rt></ruby>: indemnity <ruby>無制限<rt>むせいげん</rt></ruby> + ultimatum + <ruby>即決<rt>そっけつ</rt></ruby><ruby>要請<rt>ようせい</rt></ruby>。**T2 + T3 trigger**。step-in <ruby>可否<rt>かひ</rt></ruby> ご<ruby>判断<rt>はんだん</rt></ruby>ください。」 |
+|  | *(Slack) Anh Hà CTO, escalate Phase 4 anh Nakamura CFO. Tóm tắt: indemnity unlimited + ultimatum + ép quyết ngay. Trigger T2 + T3. Anh quyết step-in được không ạ.* |
+| **ハー CTO** | 「<ruby>私<rt>わたし</rt></ruby>が join。3 <ruby>分後<rt>ふんご</rt></ruby> Zoom link <ruby>送<rt>おく</rt></ruby>る。Dũng は **メンバー<ruby>紹介後<rt>しょうかいご</rt></ruby>そのまま session にいて**、<ruby>撤退<rt>てったい</rt></ruby>ではない【3】。」 |
+|  | *Anh sẽ join. 3 phút nữa anh gửi Zoom link. Dũng giới thiệu xong cứ ở lại session, KHÔNG rút.* |
+| (Zoom <ruby>再開<rt>さいかい</rt></ruby>) **ズン** | 「お<ruby>待<rt>ま</rt></ruby>たせいたしました。<ruby>弊社<rt>へいしゃ</rt></ruby> CTO ハー が join いたします。」 |
+|  | *Em xin lỗi đã để anh đợi. CTO Hà bên em sẽ join ạ.* |
+| **ハー CTO** | 「<ruby>中村様<rt>なかむらさま</rt></ruby>、ハーでございます。indemnity <ruby>上限<rt>じょうげん</rt></ruby> ¥20M (<ruby>年契約額<rt>ねんけいやくがく</rt></ruby>) は<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>取締役会<rt>とりしまりやくかい</rt></ruby><ruby>規定<rt>きてい</rt></ruby><ruby>上<rt>じょう</rt></ruby>の<ruby>上限<rt>じょうげん</rt></ruby>。これを<ruby>超<rt>こ</rt></ruby>えるご<ruby>提案<rt>ていあん</rt></ruby>は<ruby>弊社<rt>へいしゃ</rt></ruby>で commit <ruby>不可<rt>ふか</rt></ruby>です。<ruby>代替<rt>だいたい</rt></ruby>として **<ruby>段階的<rt>だんかいてき</rt></ruby> cap** (1 <ruby>年目<rt>ねんめ</rt></ruby> ¥20M、2 <ruby>年目<rt>ねんめ</rt></ruby> ¥30M) のご<ruby>相談<rt>そうだん</rt></ruby>は<ruby>可能<rt>かのう</rt></ruby>です。」 |
+|  | *Anh Nakamura, tôi là Hà. Cap indemnity ¥20M (annual) là cap quy định HĐQT bên tôi. Vượt mức này thì bên tôi không commit được. Phương án thay thế: cap theo bậc (năm 1 ¥20M, năm 2 ¥30M) có thể trao đổi.* |
+| **中村CFO** | 「CTO <ruby>直接<rt>ちょくせつ</rt></ruby>ご<ruby>回答<rt>かいとう</rt></ruby> <ruby>助<rt>たす</rt></ruby>かります。<ruby>段階的<rt>だんかいてき</rt></ruby> cap、 <ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>検討<rt>けんとう</rt></ruby>します。」 |
+|  | *CTO trả lời trực tiếp giúp anh nhiều. Cap theo bậc, anh mang về xem.* |
+| (<ruby>商談後<rt>しょうだんご</rt></ruby> Slack) **ハー CTO → Dũng** | 「Good job escalate。T2/T3 <ruby>認識<rt>にんしき</rt></ruby> + 30 <ruby>秒<rt>びょう</rt></ruby> context + setup <ruby>完璧<rt>かんぺき</rt></ruby>【4】。<ruby>学<rt>まな</rt></ruby>べた。」 |
+|  | *Em escalate tốt. Nhận T2/T3 + 30s context + setup hoàn hảo. Anh cũng học được.* |
 
 📝 **Ghi chú:**
 - 【1】**「権限を超えます」 framing** = personal weakness ではなく organizational rule. 顧客は accept しやすい.
@@ -3541,11 +3956,11 @@ Phase 4 round 3, 大垣 thay 中村 CFO + 大垣 + Tiên Phát luật sư on cal
 
 ## ⚠ Tránh
 
-- 権限外 (T2) を即決 → 取締役会で法的に không có hiệu lực ràng buộc、 撤回 → trust dent
+- 権限外 (T2) を即決 → 取締役会で法的に không có hiệu lực ràng buộc、 撤回 → sứt mẻ niềm tin
 - "今ここで決めてください" pressure に屈する → 5 分 buffer 必ず request
-- Escalate するが session 退出 → ownership lost
+- Escalate するが session 退出 → mất quyền sở hữu (ownership)
 - Slack で senior に "どうしましょう?" 漠然と → 30 秒で trigger / 数値 / urgency まとめる
-- Senior step-in 後も Dũng が話を奪う → senior の authority dilute
+- Senior step-in 後も Dũng が話を奪う → làm loãng quyền uy của senior
 
 ---
 
@@ -3582,14 +3997,20 @@ Phase 4 với client mới (manufacturing JP, Tokyo HQ). Tuấn Tech Lead suppor
 
 *直接 · 沈黙、 メモを 取る · 沈黙不安*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **JP client (松本 stand-in)** | 「価格 ¥20M はやや高い印象がございます。」 |
-| **トゥアン** | 「では ¥18M でいかがですか？10% 下げます！」 |
-| **JP client** | …(無言、 表情変化なし) |
-| **トゥアン** | 「¥17M でも検討可能です…」 |
-| **JP client** | 「…御社 内部でじっくり再検討された後、改めてご提案頂けますでしょうか。」 |
-| (商談後 Slack) **JP client → Dũng の上司** | 「Tuấn さん、 concession を 2 回続けて下げました。 弊社 negotiate ratchet として **¥15M target で社内 anchor** が動いてしまいました。」 |
+| **JP client (松本 stand-in)** | 「<ruby>価格<rt>かかく</rt></ruby> ¥20M はやや<ruby>高<rt>たか</rt></ruby>い<ruby>印象<rt>いんしょう</rt></ruby>がございます。」 |
+|  | *Giá ¥20M hơi tạo cảm giác cao ạ.* |
+| **トゥアン** | 「では ¥18M でいかがですか？10% <ruby>下<rt>さ</rt></ruby>げます！」 |
+|  | *Vậy ¥18M có được không ạ? Em giảm 10%!* |
+| **JP client** | …(<ruby>無言<rt>むごん</rt></ruby>、 <ruby>表情変化<rt>ひょうじょうへんか</rt></ruby>なし) |
+|  | *(Im lặng, ghi note, không biến sắc)* |
+| **トゥアン** | 「¥17M でも<ruby>検討可能<rt>けんとうかのう</rt></ruby>です…」 |
+|  | *¥17M cũng xem xét được ạ...* |
+| **JP client** | 「…<ruby>御社<rt>おんしゃ</rt></ruby> <ruby>内部<rt>ないぶ</rt></ruby>でじっくり<ruby>再検討<rt>さいけんとう</rt></ruby>された<ruby>後<rt>あと</rt></ruby>、<ruby>改<rt>あらた</rt></ruby>めてご<ruby>提案<rt>ていあん</rt></ruby><ruby>頂<rt>いただ</rt></ruby>けますでしょうか。」 |
+|  | *Bên em sau khi cân nhắc kỹ trong nội bộ, đề xuất lại giúp tôi được không.* |
+| (商談後 Slack) **JP client → Dũng の上司** | 「Tuấn さん、 concession を 2 <ruby>回<rt>かい</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>下<rt>さ</rt></ruby>げました。 <ruby>弊社<rt>へいしゃ</rt></ruby> negotiate ratchet として **¥15M target で<ruby>社内<rt>しゃない</rt></ruby> anchor** が<ruby>動<rt>うご</rt></ruby>いてしまいました。」 |
+|  | *Anh Tuấn giảm liên tiếp 2 lần. Bên tôi ratchet trong đàm phán, anchor nội bộ đã dịch xuống mức ¥15M.* |
 
 **Vì sao xấu:** (a) 1 phát giảm 10% = "もっと下がる" signal. JP は concession を slow + reciprocal で expect, (b) 2 連続 concession なし trade = JP 内部 anchor が ¥15M に shift, (c) 「やや高い」は JP indirect signal で「具体的説明欲しい」意図、 直接 discount ではない.
 
@@ -3599,15 +4020,22 @@ Phase 4 với client mới (manufacturing JP, Tokyo HQ). Tuấn Tech Lead suppor
 
 *2 秒 silence、 Tuấn に micro-eye signal "wait" · 具体化 · 頷き、 メモ*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **JP client** | 「価格 ¥20M はやや高い印象がございます。」 |
-| **ズン** | 「ご感想ありがとうございます。**『高い』という印象の中で、特に気にされている内訳要素**【1】はございますでしょうか？AI engine 部分でしょうか、PM 体制でしょうか。」 |
-| **JP client** | 「…AI engine 部分、 御社 Phase 2 比 +30% の理由を伺いたい。」 |
-| **ズン** | 「Phase 2 比 +30% の内訳: customer churn prediction model 追加が +20%、SLA 99.5% → 99.95% upgrade が +10% です。**もしどちらかをスコープ外にする trade なら**【2】、 ¥18M に調整可能でございます。」 |
-| **JP client** | 「なるほど、 churn prediction の必要性は社内で 議論余地あり。**持ち帰り**社内検討します。」 |
-| (商談後 Slack Tuấn に) **ズン** | 「Tuấn、 JP は『高い』 ≠ 『discount せよ』。 specific reason を indirect に asking している【3】。VN style で即 10% 下げると ratchet 動く。next time も同じ pattern で。」 |
-| **トゥアン** | 「了解。沈黙 2 秒で Dũng の signal 待つ pattern 学んだ。」 |
+| **JP client** | 「<ruby>価格<rt>かかく</rt></ruby> ¥20M はやや<ruby>高<rt>たか</rt></ruby>い<ruby>印象<rt>いんしょう</rt></ruby>がございます。」 |
+|  | *Giá ¥20M hơi tạo cảm giác cao ạ.* |
+| **ズン** | 「ご<ruby>感想<rt>かんそう</rt></ruby>ありがとうございます。**『<ruby>高<rt>たか</rt></ruby>い』という<ruby>印象<rt>いんしょう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<ruby>特<rt>とく</rt></ruby>に<ruby>気<rt>き</rt></ruby>にされている<ruby>内訳要素<rt>うちわけようそ</rt></ruby>**【1】はございますでしょうか？AI engine <ruby>部分<rt>ぶぶん</rt></ruby>でしょうか、PM <ruby>体制<rt>たいせい</rt></ruby>でしょうか。」 |
+|  | *Em cảm ơn cảm nhận của anh ạ. Trong cảm nhận 'cao' đó, có phần breakdown nào anh đặc biệt quan tâm không ạ? Phần AI engine hay phần cơ chế PM ạ?* |
+| **JP client** | 「…AI engine <ruby>部分<rt>ぶぶん</rt></ruby>、 <ruby>御社<rt>おんしゃ</rt></ruby> Phase 2 <ruby>比<rt>ひ</rt></ruby> +30% の<ruby>理由<rt>りゆう</rt></ruby>を<ruby>伺<rt>うかが</rt></ruby>いたい。」 |
+|  | *Phần AI engine, anh muốn nghe lý do +30% so với Phase 2 bên em.* |
+| **ズン** | 「Phase 2 <ruby>比<rt>ひ</rt></ruby> +30% の<ruby>内訳<rt>うちわけ</rt></ruby>: customer churn prediction model <ruby>追加<rt>ついか</rt></ruby>が +20%、SLA 99.5% → 99.95% upgrade が +10% です。**もしどちらかをスコープ<ruby>外<rt>がい</rt></ruby>にする trade なら**【2】、 ¥18M に<ruby>調整可能<rt>ちょうせいかのう</rt></ruby>でございます。」 |
+|  | *Breakdown +30% so với Phase 2: thêm model customer churn prediction là +20%, upgrade SLA 99.5% → 99.95% là +10%. Nếu mình trade bằng cách đưa 1 trong 2 ra ngoài scope thì có thể điều chỉnh xuống ¥18M ạ.* |
+| **JP client** | 「なるほど、 churn prediction の<ruby>必要性<rt>ひつようせい</rt></ruby>は<ruby>社内<rt>しゃない</rt></ruby>で <ruby>議論余地<rt>ぎろんよち</rt></ruby>あり。**<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り**<ruby>社内検討<rt>しゃないけんとう</rt></ruby>します。」 |
+|  | *Hiểu rồi, mức độ cần thiết của churn prediction có dư địa thảo luận nội bộ. Anh mang về xem.* |
+| (商談後 Slack Tuấn に) **ズン** | 「Tuấn、 JP は『<ruby>高<rt>たか</rt></ruby>い』 ≠ 『discount せよ』。 specific reason を indirect に asking している【3】。VN style で<ruby>即<rt>そく</rt></ruby> 10% <ruby>下<rt>さ</rt></ruby>げると ratchet <ruby>動<rt>うご</rt></ruby>く。next time も<ruby>同<rt>おな</rt></ruby>じ pattern で。」 |
+|  | *Tuấn, JP 'cao' KHÔNG phải 'giảm đi'. Họ hỏi gián tiếp specific reason. Style VN giảm 10% phát thì ratchet xảy ra. Lần sau cùng pattern này.* |
+| **トゥアン** | 「<ruby>了解<rt>りょうかい</rt></ruby>。<ruby>沈黙<rt>ちんもく</rt></ruby> 2 <ruby>秒<rt>びょう</rt></ruby>で Dũng の signal <ruby>待<rt>ま</rt></ruby>つ pattern <ruby>学<rt>まな</rt></ruby>んだ。」 |
+|  | *Hiểu rồi. Anh học được pattern 'silence 2 giây chờ signal Dũng'.* |
 
 📝 **Ghi chú:**
 - 【1】**「内訳要素」 questioning** = JP indirect 「高い」 を unbundle + reframe. 即 discount せず discovery.
@@ -3621,7 +4049,7 @@ Phase 4 với client mới (manufacturing JP, Tokyo HQ). Tuấn Tech Lead suppor
 
 > **「JP『高い』≠『discount』。先に内訳 unbundle + trade 形 reciprocal concession。VN 1 発 10% はNG。」**
 >
-> *JP 'cao' không phải đề nghị discount. Phải unbundle + concession dạng trade. VN giảm 10% phát = NG.*
+> *JP 'cao' không phải đề nghị giảm giá. Phải unbundle + concession dạng trade. VN giảm 10% phát = NG.*
 
 ---
 
@@ -3670,12 +4098,16 @@ Phase 3 ¥17M ký xong, Phase 4 với new client cũng vừa kết thúc round 1
 
 *Phase 3 と同じ retro 学習なし · 青*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| (1 ヶ月後 Phase 5 商談、 同じ pattern) **大垣** | 「価格 ¥22M は高い印象が…」 |
+| (1 ヶ月後 Phase 5 <ruby>商談<rt>しょうだん</rt></ruby>、 同じ pattern) **大垣** | 「価格 ¥22M は<ruby>高<rt>たか</rt></ruby>い<ruby>印象<rt>いんしょう</rt></ruby>が…」 |
+|  | *Giá ¥22M tạo cảm giác cao...* |
 | **ズン** | 「では ¥20M でいかがでしょうか…」 |
-| (商談後 Hương) **フオン** | 「ズン、 Phase 3 で学んだ 『高い』 ≠ 『discount』 のはずが、 また直接 discount したね。**retro してないでしょ?**」 |
+|  | *Vậy ¥20M có được không ạ...* |
+| (<ruby>商談後<rt>しょうだんご</rt></ruby> Hương) **フオン** | 「ズン、 Phase 3 で<ruby>学<rt>まな</rt></ruby>んだ 『高い』 ≠ 『discount』 のはずが、 また<ruby>直接<rt>ちょくせつ</rt></ruby> discount したね。**retro してないでしょ?**」 |
+|  | *Dũng, lesson 'cao không phải discount' học từ Phase 3 mà sao em discount thẳng nữa. Em không làm retro đúng không?* |
 | **ズン** | 「…してませんでした。」 |
+|  | *...em chưa làm ạ.* |
 
 **Vì sao xấu:** Phase 3 で習得すべき lesson が retro なしで forget → Phase 5 で repeat。¥2M margin loss = exact same lesson. Retro 1 時間 vs ¥2M loss → 圧倒的 ROI.
 
@@ -3685,23 +4117,31 @@ Phase 3 ¥17M ký xong, Phase 4 với new client cũng vừa kết thúc round 1
 
 *retro 開始、 5 セクション template 共有 · ① worked · ② didn't · ② didn't · ③ Counterfactual · ④ Pattern · ⑤ Next commit、 doc 化*
 
-| Speaker | Câu |
+| Vai | Câu |
 |---------|-----|
-| **フオン** | 「Phase 3 + Phase 4 R1 retro 1 時間。テンプレ 5 セクション【1】: ①What worked ②What didn't ③Counterfactual ④Pattern ⑤Next commit。Dũng から start。」 |
-| **ズン** | 「Phase 3: BATNA 3 シナリオ + recap mail 24h + LOI → 本契約 2 段階で **predictable progress**。Phase 4 R1: JP「高い」を unbundle で reframe 成功。」 |
-| **ズン** | 「Phase 3: 中村 CFO の indemnity 無制限 push に、当初 5 秒 freeze した。escalation trigger 認識 速度遅い。Phase 4 R1: Tuấn の VN style discount 即時止められず、 client memo まで signal 流れた。」 |
-| **トゥアン** | 「私は VN style 自覚なく 10% 下げた。Dũng の eye signal も 0.5 秒 miss した。」 |
-| **ズン** | 「**もし escalation trigger checklist を pre-print しておけば**【2】、indemnity push に 2 秒で react できた。**もし pre-MTG で Tuấn と「JP は内訳 unbundle、即 discount NG」 brief 1 分**していれば、Phase 4 R1 ratchet 防げた。」 |
-| **フオン** | 「pattern: **VN BD は immediate concession に 流れがち**【3】。Phase 1 / 2 / 3 / 4 全部で発生。これは個人問題ではなく cultural default。team training で習慣化必要。」 |
-| **ズン** | 「commit 3 つ【4】: (a) escalation trigger checklist を pocket card 化、 来週月曜まで。(b) JP 商談 pre-MTG の 1 分 brief を mandatory ritual 化。(c) Phase 5 retro で a/b の効果測定。」 |
-| **フオン** | 「commit 文書化、 team wiki に保存。**3 ヶ月後 follow-up retro でこの commit の adherence 確認**【5】。お疲れ様。」 |
+| **フオン** | 「Phase 3 + Phase 4 R1 retro 1 <ruby>時間<rt>じかん</rt></ruby>。テンプレ 5 セクション【1】: ①What worked ②What didn't ③Counterfactual ④Pattern ⑤Next commit。Dũng から start。」 |
+|  | *Retro Phase 3 + Phase 4 R1 1 giờ. Template 5 sections: ①What worked ②What didn't ③Counterfactual ④Pattern ⑤Next commit. Dũng start.* |
+| **ズン** | 「Phase 3: BATNA 3 シナリオ + recap mail 24h + LOI → <ruby>本契約<rt>ほんけいやく</rt></ruby> 2 <ruby>段階<rt>だんかい</rt></ruby>で **predictable progress**。Phase 4 R1: JP「<ruby>高<rt>たか</rt></ruby>い」を unbundle で reframe <ruby>成功<rt>せいこう</rt></ruby>。」 |
+|  | *Phase 3: BATNA 3 scenario + recap mail 24h + LOI → contract 2 bước → predictable progress. Phase 4 R1: reframe JP 'cao' bằng unbundle thành công.* |
+| **ズン** | 「Phase 3: <ruby>中村<rt>なかむら</rt></ruby> CFO の indemnity <ruby>無制限<rt>むせいげん</rt></ruby> push に、<ruby>当初<rt>とうしょ</rt></ruby> 5 <ruby>秒<rt>びょう</rt></ruby> freeze した。escalation trigger <ruby>認識<rt>にんしき</rt></ruby> <ruby>速度<rt>そくど</rt></ruby><ruby>遅<rt>おそ</rt></ruby>い。Phase 4 R1: Tuấn の VN style discount <ruby>即時<rt>そくじ</rt></ruby><ruby>止<rt>と</rt></ruby>められず、 client memo まで signal <ruby>流<rt>なが</rt></ruby>れた。」 |
+|  | *Phase 3: lúc Nakamura CFO push indemnity unlimited, ban đầu em freeze 5 giây. Tốc độ nhận trigger escalation chậm. Phase 4 R1: không kịp dừng VN style discount của Tuấn, signal chạy đến client memo.* |
+| **トゥアン** | 「<ruby>私<rt>わたし</rt></ruby>は VN style <ruby>自覚<rt>じかく</rt></ruby>なく 10% <ruby>下<rt>さ</rt></ruby>げた。Dũng の eye signal も 0.5 <ruby>秒<rt>びょう</rt></ruby> miss した。」 |
+|  | *Anh không tự nhận ra mình theo VN style nên giảm 10%. Anh cũng miss eye signal của Dũng 0.5 giây.* |
+| **ズン** | 「**もし escalation trigger checklist を pre-print しておけば**【2】、indemnity push に 2 <ruby>秒<rt>びょう</rt></ruby>で react できた。**もし pre-MTG で Tuấn と「JP は<ruby>内訳<rt>うちわけ</rt></ruby> unbundle、<ruby>即<rt>そく</rt></ruby> discount NG」 brief 1 <ruby>分<rt>ぷん</rt></ruby>**していれば、Phase 4 R1 ratchet <ruby>防<rt>ふせ</rt></ruby>げた。」 |
+|  | *Nếu em pre-print escalation trigger checklist, có thể react trong 2 giây với indemnity push. Nếu pre-MTG brief 1 phút với Tuấn 'JP unbundle, KHÔNG discount ngay', có thể ngăn ratchet Phase 4 R1.* |
+| **フオン** | 「pattern: **VN BD は immediate concession に <ruby>流<rt>なが</rt></ruby>れがち**【3】。Phase 1 / 2 / 3 / 4 <ruby>全部<rt>ぜんぶ</rt></ruby>で<ruby>発生<rt>はっせい</rt></ruby>。これは<ruby>個人<rt>こじん</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>ではなく cultural default。team training で<ruby>習慣化<rt>しゅうかんか</rt></ruby><ruby>必要<rt>ひつよう</rt></ruby>。」 |
+|  | *Pattern: VN BD hay nhảy vào immediate concession. Phase 1/2/3/4 đều xảy ra. Đây không phải lỗi cá nhân mà cultural default. Team training để habit hóa.* |
+| **ズン** | 「commit 3 つ【4】: (a) escalation trigger checklist を pocket card <ruby>化<rt>か</rt></ruby>、 <ruby>来週<rt>らいしゅう</rt></ruby><ruby>月曜<rt>げつよう</rt></ruby>まで。(b) JP <ruby>商談<rt>しょうだん</rt></ruby> pre-MTG の 1 <ruby>分<rt>ぷん</rt></ruby> brief を mandatory ritual <ruby>化<rt>か</rt></ruby>。(c) Phase 5 retro で a/b の<ruby>効果<rt>こうか</rt></ruby><ruby>測定<rt>そくてい</rt></ruby>。」 |
+|  | *3 commits: (a) Pocket card hóa escalation trigger checklist, deadline thứ Hai tuần sau. (b) Mandatory ritual hóa 1-minute brief pre-MTG cho đàm phán JP. (c) Đo hiệu quả a/b ở retro Phase 5.* |
+| **フオン** | 「commit <ruby>文書化<rt>ぶんしょか</rt></ruby>、 team wiki に<ruby>保存<rt>ほぞん</rt></ruby>。**3 ヶ月後 follow-up retro でこの commit の adherence <ruby>確認<rt>かくにん</rt></ruby>**【5】。お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>。」 |
+|  | *Commit document hóa, lưu team wiki. 3 tháng sau follow-up retro để check adherence của commit này. Mọi người vất vả rồi.* |
 
 📝 **Ghi chú:**
 - 【1】**5 セクション固定 template** = retro skip / surface-level 防止. counterfactual は最も学習量多い.
 - 【2】**Counterfactual = 「もし〜していれば」** で具体的 alternative を spell out. 抽象な反省ではなく concrete next-time action.
 - 【3】**Pattern recognition** = 1 回ではなく across vụ. cultural default だと判明すれば team-level intervention.
 - 【4】**3 commit max** — 多すぎると tuân thủ không nổi, 少なすぎると change なし.
-- 【5】**Follow-up retro 3 ヶ月後** = commit が habit 化したか測定. これがないと commit は danh sách ước muốn rỗng.
+- 【5】**Follow-up retro 3 ヶ月後** = commit が habit 化したか測定. これがないと commit là danh sách mong muốn rỗng.
 
 ---
 
@@ -3709,7 +4149,7 @@ Phase 3 ¥17M ký xong, Phase 4 với new client cũng vừa kết thúc round 1
 
 > **「商談ごとに 1 週間以内 5 セクション retro。3 commit + 3 ヶ月 follow-up = lesson が habit 化。skip = 同じミスを repeat。」**
 >
-> *Mỗi vụ trong 1 tuần làm retro 5 sections. 3 commit + follow-up 3 tháng = lesson thành habit. Skip = lặp lỗi.*
+> *Mỗi vụ trong 1 tuần làm retro 5 sections. 3 commit + follow-up 3 tháng = lesson thành thói quen. Bỏ qua = lặp lỗi.*
 
 ---
 
@@ -3719,7 +4159,7 @@ Phase 3 ¥17M ký xong, Phase 4 với new client cũng vừa kết thúc round 1
 - Generic 「次回 頑張ります」 commit → mức độ tuân thủ = 0
 - Counterfactual section skip → lesson が abstract
 - Commit 10 個 list → không tuân thủ được dù 1 cái、3 個 max
-- Follow-up retro なし → commit は danh sách ước muốn rỗng
+- Follow-up retro なし → commit là danh sách mong muốn rỗng
 - Retro が blame session 化 → psychological safety なくなり honest input 消失
 - Retro doc を save しない → 半年後検索不可、 同じ retro 繰り返し
 
@@ -3935,7 +4375,7 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 > 📝 _隠れた決裁者の炙り出し_
 
 
-### Rule 13 — Listen for hidden constraints / 隠れた制約の傾聴
+### Rule 13 — Lắng nghe ràng buộc ẩn / 隠れた制約の傾聴
 
 **ズン (em Dũng):**
 
@@ -3954,7 +4394,7 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 > 📝 _operational掘り下げ_
 
 
-### Rule 14 — Mirror + summarize / ミラーリング・要約
+### Rule 14 — Phản chiếu + tóm tắt / ミラーリング・要約
 
 **ズン (em Dũng):**
 
@@ -3965,7 +4405,7 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 > 📝 _ミラーリング基本句_
 
 
-### Rule 15 — Probe price sensitivity / 価格感度の探り
+### Rule 15 — Thăm dò độ nhạy cảm giá / 価格感度の探り
 
 **ズン (em Dũng):**
 
@@ -3984,7 +4424,7 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 > 📝 _comparable approach 予算探り_
 
 
-### Rule 16 — Confirm decision authority / 決裁者確認
+### Rule 16 — Xác nhận thẩm quyền quyết định / 決裁者確認
 
 **ズン (em Dũng):**
 
@@ -4003,7 +4443,7 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 > 📝 _残ステップ確認_
 
 
-### Rule 17 — Time-box discussion / 時間管理
+### Rule 17 — Quản lý thời gian thảo luận / 時間管理
 
 **ズン (em Dũng):**
 
@@ -4025,7 +4465,7 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 ## Phần III — Gọi điện thoại đi
 
-### Rule 18 — Anchor first hay wait / アンカリングの判断
+### Rule 18 — Anchor trước hay chờ / アンカリングの判断
 
 **ズン (em Dũng):**
 
@@ -4129,7 +4569,7 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 > 📝 _offer後の沈黙保持_
 
 
-### Rule 26 — Đối phó với threat / ultimatum / 脅し・最終通告への対応
+### Rule 26 — Đối phó với lời đe / ultimatum / 脅し・最終通告への対応
 
 **ズン (em Dũng):**
 
@@ -4317,7 +4757,7 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 > 🇯🇵 「条件面で折り合いがつかず、今回は誠に残念ながら見送りとさせていただきます。」
 >
-> 🇻🇳 *Do điều kiện hai bên không bridge được, lần này em rất tiếc xin phép tạm gác lại ạ.*
+> 🇻🇳 *Do điều kiện hai bên không đạt được, lần này em rất tiếc xin phép tạm gác lại ạ.*
 >
 > 📝 _Walk-away 主語_
 
@@ -4572,7 +5012,7 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 | 粗利率 | あらりりつ | Gross margin | rule_05 |
 | 価値ベース | かちベース | Value-based | rule_05 |
 | 戦略案件 | せんりゃくあんけん | Deal chiến lược | rule_05 |
-| 商品案件 | しょうひんあんけん | Commodity deal | rule_05 |
+| 商品案件 | しょうひんあんけん | Deal hàng hóa phổ thông | rule_05 |
 | インパクト | impakuto | Impact (tác động) | rule_05 |
 | 3段階提案 | さんだんかいていあん | 3-tier proposal | rule_06 |
 | 推奨 / おすすめ | すいしょう | Recommended | rule_06 |
@@ -4581,13 +5021,13 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 | 常駐 | じょうちゅう | Túc trực / on-site | rule_06 |
 | 機能削減 | きのうさくげん | Cắt giảm chức năng | rule_06 |
 | 比較表 | ひかくひょう | Bảng so sánh | rule_06 |
-| すり合わせ | すりあわせ | Align / pre-meeting alignment | rule_07 |
+| すり合わせ | すりあわせ | Thống nhất / họp align trước đàm phán | rule_07 |
 | 役割確認 | やくわりかくにん | Xác nhận vai trò | rule_07 |
 | 譲歩順序 | じょうほじゅんじょ | Thứ tự nhượng bộ | rule_07 |
-| 撤退ライン | てったいライン | Walk-away line | rule_07 |
-| エスカレーション | esukarēshon | Escalation | rule_07 |
-| 沈黙の合図 | ちんもくのあいず | Signal im lặng | rule_07 |
-| 一致させる | いっちさせる | Đồng nhất | rule_07 |
+| 撤退ライン | てったいライン | Mức rút lui (walk-away) | rule_07 |
+| エスカレーション | esukarēshon | Trình lên cấp trên (escalation) | rule_07 |
+| 沈黙の合図 | ちんもくのあいず | Tín hiệu im lặng | rule_07 |
+| 一致させる | いっちさせる | Làm cho đồng nhất | rule_07 |
 | 知財 / IP | ちざい | Intellectual Property | rule_08 |
 | 所有権 | しょゆうけん | Quyền sở hữu | rule_08 |
 | white-label | howaitorēberu | OEM / nhãn trắng | rule_08 |
@@ -4617,11 +5057,11 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 | 意見 | いけん | Ý kiến | rule_10 |
 | DX 推進 | DXすいしん | Đẩy mạnh DX | rule_10 |
 | 立場 | たちば | Vị thế / lập trường | rule_10 |
-| 振り返り | ふりかえり | Recap / nhìn lại | rule_11 |
+| 振り返り | ふりかえり | Điểm lại / nhìn lại | rule_11 |
 | 経緯 | けいい | Diễn biến / quá trình | rule_11 |
 | 直近 | ちょっきん | Gần đây | rule_11 |
-| アジェンダ | ajenda | Agenda | rule_11 |
-| ディスカッション | disukasshon | Discussion | rule_11 |
+| アジェンダ | ajenda | Chương trình nghị sự (agenda) | rule_11 |
+| ディスカッション | disukasshon | Thảo luận | rule_11 |
 | 念頭に置く | ねんとうにおく | Lưu ý / để trong đầu | rule_11 |
 | 共通認識 | きょうつうにんしき | Nhận thức chung | rule_11 |
 | 観点 | かんてん | Perspective / góc nhìn | rule_12 |
@@ -4632,11 +5072,11 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 | 稟議経路 | りんぎけいろ | Đường ringi | rule_12 |
 | 合議 | ごうぎ | Quyết định tập thể | rule_12 |
 | 取締役会 | とりしまりやくかい | HĐQT / board | rule_12 |
-| 隠れた制約 | かくれたせいやく | Constraint ẩn | rule_13 |
-| 議論 | ぎろん | Bàn luận / disagreement | rule_13 |
+| 隠れた制約 | かくれたせいやく | Ràng buộc ẩn | rule_13 |
+| 議論 | ぎろん | Bàn luận / bất đồng quan điểm | rule_13 |
 | 慎重 | しんちょう | Thận trọng | rule_13 |
-| 漏洩リスク | ろうえいリスク | Risk rò rỉ | rule_13 |
-| 説明可能性 | せつめいかのうせい | Explainability | rule_13 |
+| 漏洩リスク | ろうえいリスク | Rủi ro rò rỉ | rule_13 |
+| 説明可能性 | せつめいかのうせい | Khả năng giải thích (của model) | rule_13 |
 | 余裕を持たせる | よゆうをもたせる | Để dư địa | rule_13 |
 | 稟議の助け | りんぎのたすけ | Hỗ trợ ringi | rule_13 |
 | ミラーリング | mirāringu | Mirroring | rule_14 |
@@ -4707,14 +5147,14 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 | パッケージディスカウント | pakkēji disukaunto | Package discount | rule_22 |
 | 共通基盤化 | きょうつうきばんか | Build trên nền chung | rule_22 |
 | 還元 | かんげん | Hoàn lại / chia sẻ | rule_22 |
-| ラインアイテム | rain'aitemu | Line item | rule_22 |
+| ラインアイテム | rain'aitemu | Dòng ngân sách / hạng mục | rule_22 |
 | 投資 | とうし | Đầu tư | rule_23 |
 | 年間リターン | ねんかんリターン | Annual return | rule_23 |
 | 回収期間 | かいしゅうきかん | Payback period | rule_23 |
 | 割引率 | わりびきりつ | Discount rate | rule_23 |
 | 上振れ | うわぶれ | Vượt dự kiến | rule_23 |
 | 第三者監査 | だいさんしゃかんさ | Third-party audit | rule_23 |
-| 控制された外挿 | せいぎょされたがいそう | Controlled extrapolation | rule_23 |
+| 控制された外挿 | せいぎょされたがいそう | Ngoại suy có kiểm soát | rule_23 |
 | 譲歩交換 | じょうほこうかん | Trade nhượng bộ | rule_24 |
 | お取り計らい | おとりはからい | Sắp xếp / hỗ trợ | rule_24 |
 | 条項 | じょうこう | Điều khoản | rule_24 |
@@ -4800,7 +5240,7 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 | 締結 | ていけつ | Ký kết | rule_34 |
 | 急かし | せかし | Thúc giục | rule_34 |
 | 打ち切り | うちきり | Hủy, dừng | rule_35 |
-| 折り合いがつかず | おりあいがつかず | Không bridge được điều kiện | rule_35 |
+| 折り合いがつかず | おりあいがつかず | Không khớp được điều kiện | rule_35 |
 | 見送り | みおくり | Tạm hoãn / không tiến hành | rule_35 |
 | 原価構造 | げんかこうぞう | Cấu trúc giá thành | rule_35 |
 | 半端な | はんぱな | Nửa vời | rule_35 |
@@ -4824,11 +5264,11 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 | 同時 release | どうじリリース | Cùng lúc release | rule_38 |
 | Joint quote | ジョイントクオート | Trích dẫn chung | rule_38 |
 | 体裁 | ていさい | Hình thức / dáng vẻ | rule_38 |
-| 文言 | もんごん | Câu chữ / wording | rule_38 |
+| 文言 | もんごん | Câu chữ / cách dùng từ | rule_38 |
 | 関係者 | かんけいしゃ | Stakeholder / người liên quan | rule_39 |
 | お力添え | おちからぞえ | Sự giúp sức (formal) | rule_39 |
 | 細やか | こまやか | Tỉ mỉ | rule_39 |
-| 指摘 | してき | Chỉ ra / point out | rule_39 |
+| 指摘 | してき | Chỉ ra / nêu ra điểm cần lưu ý | rule_39 |
 | 死角 | しかく | Điểm mù | rule_39 |
 | support function | サポートファンクション | Bộ phận hỗ trợ (kế toán, legal) | rule_39 |
 | 個別 | こべつ | Riêng từng người | rule_39 |
@@ -4845,14 +5285,14 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 | 純利益 | じゅんりえき | Lợi nhuận ròng | rule_40 |
 | 別枠 | べつわく | Khung riêng | rule_40 |
 | 専任 PM | せんにん PM | PM chuyên trách | rule_40 |
-| Reliability budget | リライアビリティ・バジェット | Reliability budget | rule_40 |
+| Reliability budget | リライアビリティ・バジェット | Ngân sách độ tin cậy | rule_40 |
 | カメラ直視 | カメラちょくし | Nhìn thẳng camera | rule_41 |
-| 画面共有 | がめんきょうゆう | Screen share | rule_41 |
-| 凝視 | ぎょうし | Gaze fixed | rule_41 |
+| 画面共有 | がめんきょうゆう | Chia sẻ màn hình (share màn hình) | rule_41 |
+| 凝視 | ぎょうし | Nhìn chằm chằm, nhìn cố định | rule_41 |
 | 沈黙保持 | ちんもくほじ | Giữ im lặng | rule_41 |
-| ネット遅延 | ネットちえん | Network lag | rule_41 |
-| Hand stillness | ハンドスティルネス | Tay không động | rule_41 |
-| Eye contact mock | アイコンタクトモック | Mô phỏng eye contact | rule_41 |
+| ネット遅延 | ネットちえん | Độ trễ mạng (lag mạng) | rule_41 |
+| Hand stillness | ハンドスティルネス | Giữ tay yên không cử động | rule_41 |
+| Eye contact mock | アイコンタクトモック | Mô phỏng giao tiếp bằng mắt | rule_41 |
 | 通訳 | つうやく | Phiên dịch | rule_42 |
 | 介在 | かいざい | Trung gian / mediated | rule_42 |
 | 区切り発音 | くぎりはつおん | Phát âm tách rõ | rule_42 |
@@ -4905,12 +5345,12 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** BATNAとして適切でないものは？
 
-- A) 数値化された撤退ライン
-- B) 実在する代替案件 (例: 他社からのMoU)
-- **C) 「感覚的にこの辺で妥協できそう」という曖昧な判断**
-- D) 内部承認済みの再交渉条件
+- **A) 「感覚的にこの辺で妥協できそう」という曖昧な判断**
+- B) 内部承認済みの再交渉条件
+- C) 実在する代替案件 (例: 他社からのMoU)
+- D) 数値化された撤退ライン
 
-**Đáp án:** C
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 BATNAは『数値+条件+承認者』が揃って初めて機能する。曖昧な感覚では交渉力にならない。
@@ -4924,8 +5364,8 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 - A) 自社 target + 自社 reservation のみ
 - **B) 自社 target + reservation + 相手 ceiling + 相手 floor**
-- C) 自社 target + 相手 ceiling のみ
-- D) 相手 ceiling + 競合価格 + 自社原価 + 利益率
+- C) 相手 ceiling + 競合価格 + 自社原価 + 利益率
+- D) 自社 target + 相手 ceiling のみ
 
 **Đáp án:** B
 
@@ -4939,12 +5379,12 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** 稟議が10日進行中の段階で、相手 PM に送るのに最も適切なメールは？
 
-- A) 「今週中にイエス・ノーをご回答ください」
-- **B) 「稟議の進捗、追加情報あればご遠慮なくお声がけください」**
-- C) 「ご返信ない場合は撤回いたします」
-- D) 「他社からも引き合いがありますのでお急ぎください」
+- A) 「ご返信ない場合は撤回いたします」
+- B) 「他社からも引き合いがありますのでお急ぎください」
+- **C) 「稟議の進捗、追加情報あればご遠慮なくお声がけください」**
+- D) 「今週中にイエス・ノーをご回答ください」
 
-**Đáp án:** B
+**Đáp án:** C
 
 **Giải thích / 解説:**
 - 🇯🇵 稟議中はサポート姿勢が正解。期限を切る・脅すのは日本企業との関係を破壊する。
@@ -4956,12 +5396,12 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** 顧客リサーチ4軸に含まれないものは？
 
-- A) 決裁ライン (誰がいくらまで決裁できるか)
-- B) 予算サイクル (年度予算のタイミング)
-- **C) 顧客社員の家族構成**
-- D) 直近業績 (IR・営業利益)
+- **A) 顧客社員の家族構成**
+- B) 直近業績 (IR・営業利益)
+- C) 決裁ライン (誰がいくらまで決裁できるか)
+- D) 予算サイクル (年度予算のタイミング)
 
-**Đáp án:** C
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 4軸は『決裁・予算・競合・業績』。家族構成は B2B 交渉に無関係でプライバシー侵害にもなる。
@@ -4973,12 +5413,12 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** 事前すり合わせで決めるべき4点に含まれないものは？
 
-- A) 誰が何を発言するかの役割
+- A) 撤退ライン (walk-away)
 - B) 譲歩の順序とトレード条件
-- C) 撤退ライン (walk-away)
-- **D) 商談後の打ち上げ会場**
+- **C) 商談後の打ち上げ会場**
+- D) 誰が何を発言するかの役割
 
-**Đáp án:** D
+**Đáp án:** C
 
 **Giải thích / 解説:**
 - 🇯🇵 4点は『役割・譲歩順・撤退ライン・沈黙合図』。打ち上げは交渉戦略と無関係。
@@ -4990,12 +5430,12 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** 商談冒頭30秒の4要素に含まれないものは？
 
-- A) お時間をいただいたことへの感謝
-- B) 再自己紹介とチーム紹介
-- C) 相手状況への言及 (IR・業績など)
-- **D) 値段と支払条件の即提示**
+- A) 再自己紹介とチーム紹介
+- B) 相手状況への言及 (IR・業績など)
+- **C) 値段と支払条件の即提示**
+- D) お時間をいただいたことへの感謝
 
-**Đáp án:** D
+**Đáp án:** C
 
 **Giải thích / 解説:**
 - 🇯🇵 値段は冒頭で出さない。冒頭は tone を作る30秒で、価格は discovery 後。
@@ -5007,12 +5447,12 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** コンテキスト設定の3拍として正しいものは？
 
-- A) 値段提示→交渉→契約
-- **B) 前回振り返り→状況確認→本日agenda提示**
-- C) 雑談→自慢→値引き
-- D) 謝罪→譲歩→約束
+- **A) 前回振り返り→状況確認→本日agenda提示**
+- B) 値段提示→交渉→契約
+- C) 謝罪→譲歩→約束
+- D) 雑談→自慢→値引き
 
-**Đáp án:** B
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 コンテキスト設定3拍は「振り返り・状況確認・agenda」。CFO 等 new joiner にも対応。
@@ -5024,27 +5464,27 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** Discovery 5観点に含まれないものは？
 
-- A) Pain (現状の課題)
+- A) Budget (予算感)
 - B) Goal (理想状態)
-- C) Budget (予算感)
-- **D) 競合社員の年収**
+- **C) 競合社員の年収**
+- D) Pain (現状の課題)
 
-**Đáp án:** D
+**Đáp án:** C
 
 **Giải thích / 解説:**
 - 🇯🇵 5観点は Pain/Goal/Budget/Timeline/Decision。競合社員年収は無関係。
 - 🇻🇳 5 trục: Pain/Goal/Budget/Timeline/Decision. Lương nhân viên đối thủ không liên quan.
 
-### J2.9 (từ rule_14 — Mirror + summarize)
+### J2.9 (từ rule_14 — Phản chiếu + tóm tắt)
 
 **Skill:** 場面把握
 
 **Q:** Discovery 中の mirroring の主目的は？
 
-- A) 相手を称賛するため
+- A) 値段を提示する前置き
 - **B) 誤解防止と相手に「聞かれている」感を与えるため**
-- C) 時間を稼ぐため
-- D) 値段を提示する前置き
+- C) 相手を称賛するため
+- D) 時間を稼ぐため
 
 **Đáp án:** B
 
@@ -5052,35 +5492,35 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 - 🇯🇵 Mirroring は誤解防止 + trust 構築。1週間後に誤解が露呈して deal を失うリスクを防ぐ。
 - 🇻🇳 Mirror để chống hiểu sai + xây trust. Tránh risk 1 tuần sau lộ hiểu lầm rồi mất deal.
 
-### J2.10 (từ rule_16 — Confirm decision authority)
+### J2.10 (từ rule_16 — Xác nhận thẩm quyền quyết định)
 
 **Skill:** 場面把握
 
 **Q:** 決裁者確認で必ず聞くべき2点は？
 
-- A) 誰が duyệt + その人の年齢
-- **B) 誰が duyệt + 残ステップと期間**
-- C) 誰が duyệt + その人の出身大学
+- A) 誰が duyệt + その人の出身大学
+- B) 誰が duyệt + その人の年齢
+- **C) 誰が duyệt + 残ステップと期間**
 - D) 誰が duyệt + その人の競合経歴
 
-**Đáp án:** B
+**Đáp án:** C
 
 **Giải thích / 解説:**
 - 🇯🇵 決裁者本人 + 決裁前のステップ・期間。両方揃って初めてtimelineが組める。
 - 🇻🇳 Người duyệt + step và thời gian trước duyệt. Đủ cả hai mới ghép được timeline.
 
-### J2.11 (từ rule_17 — Time-box discussion)
+### J2.11 (từ rule_17 — Quản lý thời gian thảo luận)
 
 **Skill:** 場面把握
 
 **Q:** Discovery が予定30分を超えそうな時、相手が追加質問してきた場合の最適対応は？
 
-- A) 「時間切れですので次へ」と固く切る
-- **B) 重要質問として認め、次フェーズに park する**
+- A) 質問を無視して提案に進む
+- B) 「時間切れですので次へ」と固く切る
 - C) 30分追加して全部答える
-- D) 質問を無視して提案に進む
+- **D) 重要質問として認め、次フェーズに park する**
 
-**Đáp án:** B
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 Park は質問を尊重しつつ time-box を守る両立解。固い切りも overrun も両方避ける。
@@ -5092,12 +5532,12 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** 商談クロージングで読み戻しが必要な理由として最も適切なものは？
 
-- A) 礼儀として形式上必要だから
-- **B) 稟議後に認識ズレが発覚すると再交渉になり、口頭読み戻しがその予防策だから**
-- C) 相手にプレッシャーをかけるため
-- D) 通訳の練習のため
+- A) 相手にプレッシャーをかけるため
+- B) 礼儀として形式上必要だから
+- C) 通訳の練習のため
+- **D) 稟議後に認識ズレが発覚すると再交渉になり、口頭読み戻しがその予防策だから**
 
-**Đáp án:** B
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 稟議プロセス中に認識ズレが発覚すると修正コストが大きい。読み戻しはそのリスクを当日に解消する手段。
@@ -5109,10 +5549,10 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** 商談後 recap メールを 24 時間以内に送る最大の理由は？
 
-- A) 礼儀作法のため
+- A) 翻訳に時間がかかるため
 - **B) クライアントの稟議文書に添付する正式な認識合わせ文書となるため**
-- C) 上司に報告するため
-- D) 翻訳に時間がかかるため
+- C) 礼儀作法のため
+- D) 上司に報告するため
 
 **Đáp án:** B
 
@@ -5128,8 +5568,8 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 - A) 本契約書を簡略化するため
 - **B) 商務条件 (価格・期間・スコープ) を先にロックし、本契約交渉を条項詳細だけに絞るため**
-- C) 支払を分割するため
-- D) 翻訳費を節約するため
+- C) 翻訳費を節約するため
+- D) 支払を分割するため
 
 **Đáp án:** B
 
@@ -5143,12 +5583,12 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** 商務メールで「サインお願いします」が不適切な理由は？
 
-- A) 短すぎるから
-- **B) 「サイン」はカジュアル表現で、商務文書では「ご署名・ご捺印」を用いる**
+- A) 送信時刻が遅いから
+- B) 短すぎるから
 - C) 敬語が足りないから
-- D) 送信時刻が遅いから
+- **D) 「サイン」はカジュアル表現で、商務文書では「ご署名・ご捺印」を用いる**
 
-**Đáp án:** B
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 「サイン」は日常会話レベル。商務契約は「ご署名・ご捺印いただけますでしょうか」が標準。
@@ -5161,11 +5601,11 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 **Q:** 商談成立後の挨拶として最も適切なものは？
 
 - A) ありがとうございます！！本当に嬉しいです！！
-- **B) 身の引き締まる思いでございます。ご期待にお応えできますよう全力で取り組んでまいります。**
+- B) 契約書受領しました。
 - C) サンキューです！次もよろしくお願いします！
-- D) 契約書受領しました。
+- **D) 身の引き締まる思いでございます。ご期待にお応えできますよう全力で取り組んでまいります。**
 
-**Đáp án:** B
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 JP exec 向けは emotional hype ではなく responsibility + commit tone が大人。A は学生っぽい、C はカジュアル過ぎ、D は dry。
@@ -5178,11 +5618,11 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 **Q:** 営業 → delivery のハンドオフで最も漏れやすく、漏れると顧客 trust に響く要素は？
 
 - A) 契約書 PDF
-- **B) 口頭 commitment (例: 「次回も検討」「金曜 preview 共有」)**
-- C) 請求書送付先
-- D) オフィス住所
+- B) 請求書送付先
+- C) オフィス住所
+- **D) 口頭 commitment (例: 「次回も検討」「金曜 preview 共有」)**
 
-**Đáp án:** B
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 口頭 commitment は契約外でも顧客の記憶に残る。文書化されないと delivery 側が知らず、後から「あれはどうなったか」と問われる。
@@ -5194,10 +5634,10 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** junior staff への感謝として最も loyalty を高めるのは？
 
-- A) 全社 Slack で「みんなお疲れ様」
+- A) 上司から代わりに伝える
 - **B) 個別 DM で specific contribution (例: 「embargo 間に合わせの 2 晩 overtime」) に言及**
 - C) ボーナスを出す
-- D) 上司から代わりに伝える
+- D) 全社 Slack で「みんなお疲れ様」
 
 **Đáp án:** B
 
@@ -5211,10 +5651,10 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** オンライン交渉でアンカー提示後の沈黙の effective range は？
 
-- A) オフライン同様 7-10 秒
+- A) 沈黙はオンラインでは効果なし
 - **B) online は 4 秒前後、5 秒超えるとネット遅延と勘違いされ interrupt される**
 - C) 1 秒
-- D) 沈黙はオンラインでは効果なし
+- D) オフライン同様 7-10 秒
 
 **Đáp án:** B
 
@@ -5228,12 +5668,12 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** 通訳介在交渉で「99.95%」を伝える時の最も安全な方法は？
 
-- A) 通常 pace で「99.95%」と一気に言う
-- **B) 「きゅうきゅう・きゅうご パーセント、つまり 99.95%」と区切り発音 + 数字 confirm**
-- C) 通訳に任せる
+- A) 通訳に任せる
+- B) 通常 pace で「99.95%」と一気に言う
+- **C) 「きゅうきゅう・きゅうご パーセント、つまり 99.95%」と区切り発音 + 数字 confirm**
 - D) メモに書いて見せるだけ
 
-**Đáp án:** B
+**Đáp án:** C
 
 **Giải thích / 解説:**
 - 🇯🇵 数値は通訳の最大ミス source。区切り発音 + 数字 confirm で 99.5/99.95 の混同を防ぐ。
@@ -5245,10 +5685,10 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** 商談 retro で「次回頑張ります」 commit が機能しない最大の理由は？
 
-- A) 敬語が足りない
+- A) 上司に共有していない
 - **B) 具体的 action / deadline / measurable 効果がなく adhere できない**
-- C) 上司に共有していない
-- D) 翻訳されていない
+- C) 翻訳されていない
+- D) 敬語が足りない
 
 **Đáp án:** B
 
@@ -5265,12 +5705,12 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** 戦略案件 (新機能込み・売上+¥80M インパクト) に最も適切な価格戦略は？
 
-- A) Cost-plus 単独
-- **B) Value-based + anchoring**
-- C) 競合追随 (競合と同額)
-- D) 市場最低価格
+- **A) Value-based + anchoring**
+- B) 市場最低価格
+- C) Cost-plus 単独
+- D) 競合追随 (競合と同額)
 
-**Đáp án:** B
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 戦略案件は cost ではなく value で売る。Anchoring で交渉余地を確保しつつ ROI で正当化する。
@@ -5284,8 +5724,8 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 - A) 顧客に最安値を選ばせるため
 - **B) 顧客が「これではニーズに届かない」と自覚し、Better を選ぶよう誘導するため**
-- C) 競合に Good の価格を見せるため
-- D) 原価を下げるため
+- C) 原価を下げるため
+- D) 競合に Good の価格を見せるため
 
 **Đáp án:** B
 
@@ -5299,12 +5739,12 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** 撤退ライン5軸の組み合わせとして正しいのは？
 
-- A) 価格・社員数・オフィス位置・出張日数・福利厚生
-- **B) 価格・IP・SLA・支払条件・責任上限**
+- **A) 価格・IP・SLA・支払条件・責任上限**
+- B) 価格・部長承認・部門予算・上司気分・天気
 - C) 価格・コーヒー予算・座席配置・服装規定・ランチ時間
-- D) 価格・部長承認・部門予算・上司気分・天気
+- D) 価格・社員数・オフィス位置・出張日数・福利厚生
 
-**Đáp án:** B
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 標準5軸は『価格・IP・SLA・支払・責任』。商務契約の主要リスク項目。
@@ -5327,52 +5767,52 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 - 🇯🇵 trade-back: trade(引き換え) 拒否時は譲歩も取り下げ、前段階の価格に戻す。unilateral concession 防止策。
 - 🇻🇳 Trade-back: nếu trade bị từ chối, rút nhượng bộ, quay lại giá nấc trước. Phòng tránh unilateral concession.
 
-### J1.5 (từ rule_13 — Listen for hidden constraints)
+### J1.5 (từ rule_13 — Lắng nghe ràng buộc ẩn)
 
 **Skill:** 発言聴解
 
 **Q:** 「ちょっと社内で議論があって…」と言う相手に最も適切な対応は？
 
-- A) 「では予定通り進めましょう」とそのまま流す
-- **B) 「もう少し詳しくお聞かせいただけますでしょうか」と open-end で掘る**
-- C) 「なんで議論があるんですか？」と詰問する
+- A) 「なんで議論があるんですか？」と詰問する
+- B) 「では予定通り進めましょう」とそのまま流す
+- **C) 「もう少し詳しくお聞かせいただけますでしょうか」と open-end で掘る**
 - D) 「社内のことは関係ないので結論だけください」と切る
 
-**Đáp án:** B
+**Đáp án:** C
 
 **Giải thích / 解説:**
 - 🇯🇵 日本の顧客は直接言わず signal で示す。聞き流すと後で稟議停止に陥る。詰問tone も close downさせる。
 - 🇻🇳 Khách Nhật không nói thẳng, dùng signal. Bỏ qua = sau bị ringi đứng. Tone tra hỏi cũng làm khách đóng cửa.
 
-### J1.6 (từ rule_15 — Probe price sensitivity)
+### J1.6 (từ rule_15 — Thăm dò độ nhạy cảm giá)
 
 **Skill:** 表現読解
 
 **Q:** 日本のCFOから予算帯域を引き出すのに最適な質問は？
 
-- A) 「予算はいくらですか？」
-- **B) 「Phase 2 と比較して規模感的にどのあたりを想定されていますか？」**
-- C) 「予算が少ないと困りますが…」
-- D) 「他社はもっと払っていますよ」
+- **A) 「Phase 2 と比較して規模感的にどのあたりを想定されていますか？」**
+- B) 「予算はいくらですか？」
+- C) 「他社はもっと払っていますよ」
+- D) 「予算が少ないと困りますが…」
 
-**Đáp án:** B
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 Comparable approach は既知anchor から倍数を聞き、相手が答えやすい形に分解する。直接質問は日本顧客にとって失礼に近い。
 - 🇻🇳 Comparable approach lấy anchor đã biết, hỏi bội số — dễ trả lời. Hỏi thẳng gần như bất lịch sự với khách Nhật.
 
-### J1.7 (từ rule_18 — Anchor first hay wait)
+### J1.7 (từ rule_18 — Anchor trước hay chờ)
 
 **Skill:** 表現読解
 
 **Q:** アンカリング判断 — 「先に値段を出すべき」場面はどれ？
 
-- A) ZOPA 推定が不十分・新規顧客で competitor 状況も不明
-- **B) ZOPA 推定が solid・根拠データが揃っている**
-- C) 上司に値段の事前承認を取っていない
-- D) 顧客が緊張している
+- A) 顧客が緊張している
+- B) 上司に値段の事前承認を取っていない
+- C) ZOPA 推定が不十分・新規顧客で competitor 状況も不明
+- **D) ZOPA 推定が solid・根拠データが揃っている**
 
-**Đáp án:** B
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 Go first は ZOPA を把握していて根拠が揃っている時のみ有効。条件未充足なら let them go first で intel を取る。
@@ -5384,16 +5824,16 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** 価格 counter で抜けてはいけない4要素は？
 
-- **A) Frame・Number・Justification・Trade**
-- B) 謝罪・低姿勢・遠慮・撤回
-- C) 脅し・期限・最終通告・ボーナス
-- D) 感情・記憶・推測・希望
+- A) 脅し・期限・最終通告・ボーナス
+- B) 感情・記憶・推測・希望
+- C) 謝罪・低姿勢・遠慮・撤回
+- **D) Frame・Number・Justification・Trade**
 
-**Đáp án:** A
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 4要素はFrame(枠組み)・Number(数字)・Justification(根拠)・Trade(引き換え)。1つでも抜けるとleverage失う。
-- 🇻🇳 4 yếu tố: Frame / Number / Justification / Trade. Thiếu 1 là mất leverage.
+- 🇻🇳 4 yếu tố: Frame / Number / Justification / Trade. Thiếu 1 là mất đòn bẩy.
 
 ### J1.9 (từ rule_20 — Đối phó với 'đắt')
 
@@ -5401,16 +5841,16 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** 顧客が「高い」と言った直後の最適行動は？
 
-- A) 即値引きする
-- **B) Acknowledge → Reframe (ROI/cost-of-inaction) → 3 Option を展開**
-- C) 「高くないですよ」と反論
+- A) 「高くないですよ」と反論
+- B) 即値引きする
+- **C) Acknowledge → Reframe (ROI/cost-of-inaction) → 3 Option を展開**
 - D) 沈黙して何も言わない
 
-**Đáp án:** B
+**Đáp án:** C
 
 **Giải thích / 解説:**
 - 🇯🇵 「高い」は購買意欲のサイン。3step (Ack→Reframe→Option) で leverage を保ちつつ deal を進める。
-- 🇻🇳 'Đắt' là sign quan tâm. 3 step (Ack→Reframe→Option) giữ leverage và đẩy deal.
+- 🇻🇳 'Đắt' là sign quan tâm. 3 step (Ghi nhận→Đổi góc nhìn→Option) giữ đòn bẩy và đẩy deal.
 
 ### J1.10 (từ rule_21 — Giảm scope thay vì giảm giá)
 
@@ -5418,12 +5858,12 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** 顧客が値下げを求めた時、粗利率を守る最善のアプローチは？
 
-- A) そのまま値下げして契約獲得を優先
-- **B) スコープ削減 (deferable feature を後出し) で unit price 維持**
-- C) 断って walk away
+- A) 断って walk away
+- B) そのまま値下げして契約獲得を優先
+- **C) スコープ削減 (deferable feature を後出し) で unit price 維持**
 - D) 他社競合価格に合わせる
 
-**Đáp án:** B
+**Đáp án:** C
 
 **Giải thích / 解説:**
 - 🇯🇵 scope 削減で unit price 維持は粗利率を守りつつ顧客 budget に合わせる両立解。defer 機能は Phase n+1 で復活させる。
@@ -5435,9 +5875,9 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** CFO が「個別 line item の価格を出してほしい」と言った時の最適対応は？
 
-- A) 「パッケージのみ」と拒否
+- A) 言われた1機能だけ抜き出して値段提示
 - **B) unbundle 開示 + package discount で稟議書作成を支援**
-- C) 言われた1機能だけ抜き出して値段提示
+- C) 「パッケージのみ」と拒否
 - D) 競合の line item を出す
 
 **Đáp án:** B
@@ -5452,12 +5892,12 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** 日本企業 CFO に提示する ROI に必須の指標は？
 
-- A) Investment と Annual return のみ
-- **B) Investment / Annual return / Payback period / NPV の4つ**
-- C) 値段だけ
-- D) 競合価格との差
+- **A) Investment / Annual return / Payback period / NPV の4つ**
+- B) 値段だけ
+- C) 競合価格との差
+- D) Investment と Annual return のみ
 
-**Đáp án:** B
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 4指標が稟議書 standard。1つでも欠けると CFO は取締役会に出せない。
@@ -5470,11 +5910,11 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 **Q:** 顧客が「dashboard 込みで ¥17M に」と要求した際の最適 phrase は？
 
 - A) 「分かりました、¥17M で」
-- **B) 「もし契約期間2年化と事例公開許可をいただけましたら、¥17M+dashboard でお受けできます」**
+- B) 「上司に聞きます」と保留
 - C) 「dashboard は別料金です」と切る
-- D) 「上司に聞きます」と保留
+- **D) 「もし契約期間2年化と事例公開許可をいただけましたら、¥17M+dashboard でお受けできます」**
 
-**Đáp án:** B
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 tit-for-tat は trade とセット。条件提示で leverage を保ち、unilateral concession を避ける。
@@ -5486,12 +5926,12 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** anchor を出した直後、相手が4秒間沈黙している。最適行動は？
 
-- A) 「もし高いようでしたら…」と値引きを提示
-- **B) そのまま沈黙を保つ (7秒目標)**
+- **A) そのまま沈黙を保つ (7秒目標)**
+- B) deck を次のページにめくる
 - C) 「ご質問ありませんか？」と詰問
-- D) deck を次のページにめくる
+- D) 「もし高いようでしたら…」と値引きを提示
 
-**Đáp án:** B
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 沈黙は思考時間。最初に話した方が leverage を失う。日本商談では7秒は normal。
@@ -5503,12 +5943,12 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** 前日の anchor ¥18M に対し相手が ¥16M を要求。最適 response は？
 
-- A) 即 ¥16M を受け入れる
-- **B) value再強調 + 新事実 + 2 option (¥17M + 2年 / ¥16M scope-15%) を再anchor**
-- C) 「¥18M でなければ撤退」と硬直
-- D) 「上司に聞きます」と保留
+- **A) value再強調 + 新事実 + 2 option (¥17M + 2年 / ¥16M scope-15%) を再anchor**
+- B) 「¥18M でなければ撤退」と硬直
+- C) 「上司に聞きます」と保留
+- D) 即 ¥16M を受け入れる
 
-**Đáp án:** B
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 再anchor は value再強調・新事実・flexibility (2 option) のセット。即値引きは leak、硬直は walk-away を呼ぶ。
@@ -5520,12 +5960,12 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** 契約 closing 直前の nibble (「ついでに training 1 日無料で」) への最適対応は？
 
-- A) 「サービスで含めます」と無償提供
-- **B) trade option (有償 or scope swap) + 全体 re-review で reset clock**
-- C) 「無理です」と一蹴
-- D) 上司に丸投げ
+- **A) trade option (有償 or scope swap) + 全体 re-review で reset clock**
+- B) 「サービスで含めます」と無償提供
+- C) 上司に丸投げ
+- D) 「無理です」と一蹴
 
-**Đáp án:** B
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 trade で対応しつつ reset clock(全体再review+schedule slip)を伝えれば、相手は通常自ら撤回。無償受けは leak の連鎖。
@@ -5537,12 +5977,12 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** クライアント側が「indemnity 無制限」を要求してきた時、最も適切な初動は？
 
-- A) 即決で承諾し relationship を保つ
-- **B) 「ただし、社内規定上限を超えるため持ち帰り検討させてください」と escalation バッファを作る**
-- C) その場で「無理です」と断る
-- D) 話題を変える
+- **A) 「ただし、社内規定上限を超えるため持ち帰り検討させてください」と escalation バッファを作る**
+- B) 即決で承諾し relationship を保つ
+- C) 話題を変える
+- D) その場で「無理です」と断る
 
-**Đáp án:** B
+**Đáp án:** A
 
 **Giải thích / 解説:**
 - 🇯🇵 即決承諾は致命的リスク。即決拒否は relationship dent。「持ち帰り」が双方を救う日本流。
@@ -5555,11 +5995,11 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 **Q:** 「条件面で折り合いがつかず、見送りとさせていただきます」が「お断りします」より優れている理由は？
 
 - A) 敬語が多いから
-- **B) blame 対象を「条件」(abstract) に置き、相手の face を保持しつつ関係維持の余地を残すから**
-- C) 短いから
-- D) 曖昧で逃げ場があるから
+- B) 短いから
+- C) 曖昧で逃げ場があるから
+- **D) blame 対象を「条件」(abstract) に置き、相手の face を保持しつつ関係維持の余地を残すから**
 
-**Đáp án:** B
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 「お断り」は人格 reject。「条件面」は abstract で、相手・自分どちらの face も傷つけず、関係継続の magic phrase 「ご縁」を続けやすい。
@@ -5571,12 +6011,12 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** PR release で金額を「数千万円規模」と表記する最大の理由は？
 
-- A) 数字を覚えにくいから
-- **B) クライアントの IT 予算を競合他社に exposed するのを避け、来年の予算削減 risk を防ぐため**
-- C) 計算が面倒だから
-- D) 印象を強くするため
+- A) 印象を強くするため
+- B) 数字を覚えにくいから
+- **C) クライアントの IT 予算を競合他社に exposed するのを避け、来年の予算削減 risk を防ぐため**
+- D) 計算が面倒だから
 
-**Đáp án:** B
+**Đáp án:** C
 
 **Giải thích / 解説:**
 - 🇯🇵 正確な金額の公開はクライアントの予算を競合に晒し、翌年の予算削減や競合 anchor に使われる。framing で防ぐ。
@@ -5589,11 +6029,11 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 **Q:** CFO + 営業部長 + PM が同席する場面で 3 つの質問が来た時、最も適切な対応は？
 
 - A) highest title (CFO) の質問だけ詳しく回答する
-- **B) 「3 点まとめてお答えいたします」と宣言し、junior (PM) → 中堅 → senior (CFO) の順で並列 address**
+- B) 全員に同じ短さで回答する
 - C) 「あとで個別に」と流す
-- D) 全員に同じ短さで回答する
+- **D) 「3 点まとめてお答えいたします」と宣言し、junior (PM) → 中堅 → senior (CFO) の順で並列 address**
 
-**Đáp án:** B
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 1 人 ignored は他 2 人 disengage = ringi 反対 source。junior → senior 順で CFO 最後 + detail 最大が standard。
@@ -5605,12 +6045,12 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** 「indemnity 無制限を今ここで決めて」と CFO に push された時、最も適切な対応は？
 
-- A) 迅速さを優先し即決する
-- **B) 「権限を超えるため 5 分頂戴し senior に escalate」と buffer 要請、Slack で 30 秒 context**
-- C) 「無理です」と即拒否
-- D) 話題を変えて時間稼ぎ
+- A) 話題を変えて時間稼ぎ
+- B) 「無理です」と即拒否
+- C) 迅速さを優先し即決する
+- **D) 「権限を超えるため 5 分頂戴し senior に escalate」と buffer 要請、Slack で 30 秒 context**
 
-**Đáp án:** B
+**Đáp án:** D
 
 **Giải thích / 解説:**
 - 🇯🇵 T2 (権限外) + T3 (ultimatum) は escalation trigger。即決は法的 bind 不可 risk。即拒否は relationship dent。5 分 buffer + Slack escalate が standard。
@@ -5636,22 +6076,22 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 ## Level J1+ (2 câu)
 
-### J1+.1 (từ rule_26 — Đối phó với threat / ultimatum)
+### J1+.1 (từ rule_26 — Đối phó với lời đe / ultimatum)
 
 **Skill:** 発言聴解
 
 **Q:** 「¥15M でなければY社に発注します」と言われた時の最適3step は？
 
-- A) challenge → 値引き → 沈黙
-- **B) Bridge phrase → boundary → senior escalation**
-- C) 値引き → 値引き → 値引き
-- D) 謝罪 → 撤回 → 再提案
+- A) 謝罪 → 撤回 → 再提案
+- B) challenge → 値引き → 沈黙
+- **C) Bridge phrase → boundary → senior escalation**
+- D) 値引き → 値引き → 値引き
 
-**Đáp án:** B
+**Đáp án:** C
 
 **Giải thích / 解説:**
 - 🇯🇵 脅しは pressure tactic。bridge で de-escalate、boundary でこちらの限度を示し、senior escalation で新権威を持ち込む。
-- 🇻🇳 Threat là pressure tactic. Bridge để de-escalate, boundary show giới hạn, senior escalate đưa authority mới vào.
+- 🇻🇳 Lời đe là pressure tactic. Bridge để de-escalate, boundary show giới hạn, senior escalate đưa authority mới vào.
 
 ### J1+.2 (từ rule_28 — Walk away phong nhã)
 
@@ -5659,10 +6099,10 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 
 **Q:** walk-away ライン以下の要求に直面した時の最適 closing は？
 
-- A) 「Y 社さんに発注ということで」と passive-aggressive で終わる
+- A) 「永遠に取引しません」と宣言
 - **B) 「条件面で折り合いがつかず、誠に残念」+ door open で neutral 撤退**
-- C) 「失敗しました」と謝罪
-- D) 「永遠に取引しません」と宣言
+- C) 「Y 社さんに発注ということで」と passive-aggressive で終わる
+- D) 「失敗しました」と謝罪
 
 **Đáp án:** B
 
@@ -5705,11 +6145,11 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 本日はお時間を頂戴し、誠にありがとうございました。
 以下の通り、本日の合意事項をまとめましたのでご確認ください。
 
-━━━ ① 出席者 ━━━
+--- ① 出席者 ---
 貴社: 〇〇 部長、〇〇 様
 弊社: 〇〇、〇〇
 
-━━━ ② 合意事項 ━━━
+--- ② 合意事項 ---
 1. 価格: 〇〇円 (税抜)
 2. 契約期間: 〇〇年〇月-〇〇年〇月
 3. スコープ: 〇〇
@@ -5718,18 +6158,18 @@ Xem `conversation.json` → `templates[0]` (`format: "checklist"`) cho retro 5-s
 6. 成果物 IP: 〇〇
 7. 稟議スケジュール: 〇月〇日まで
 
-━━━ ③ 未決事項 ━━━
+--- ③ 未決事項 ---
 1. 〇〇 — 〇月〇日までに弊社より追加情報提供
 2. 〇〇 — 貴社にて社内検討
 
-━━━ ④ 次のアクション ━━━
+--- ④ 次のアクション ---
 | # | アクション | Owner | 期限 |
 |---|-----------|-------|------|
 | 1 | 契約書ドラフト送付 | 〇〇 (弊社) | 〇月〇日 |
 | 2 | 稟議上申 | 〇〇 (貴社) | 〇月〇日 |
 | 3 | キックオフ MTG 設定 | 〇〇 | 〇月〇日 |
 
-━━━ ⑤ 添付 ━━━
+--- ⑤ 添付 ---
 - 提案書 v〇.〇
 - 議事メモ
 
@@ -5754,11 +6194,11 @@ Xin chào, em là 〇〇 (Tiên Phát).
 Hôm nay em xin chân thành cảm ơn anh/chị đã dành thời gian.
 Dưới đây là tổng hợp các điểm đã đồng thuận hôm nay, phiền anh/chị xác nhận giúp em.
 
-━━━ ① Người tham dự ━━━
+--- ① Người tham dự ---
 Bên anh/chị: 〇〇, 〇〇
 Bên em: 〇〇, 〇〇
 
-━━━ ② Items đã đồng thuận ━━━
+--- ② Items đã đồng thuận ---
 1. Giá: 〇〇 ¥ (chưa thuế)
 2. Kỳ hạn: 〇/〇 - 〇/〇
 3. Scope: 〇〇
@@ -5767,18 +6207,18 @@ Bên em: 〇〇, 〇〇
 6. IP sản phẩm: 〇〇
 7. Lịch ringi (稟議): trước 〇/〇
 
-━━━ ③ Items chưa quyết ━━━
+--- ③ Items chưa quyết ---
 1. 〇〇 — bên em sẽ cung cấp info bổ sung trước 〇/〇
 2. 〇〇 — bên anh/chị nội bộ thảo luận
 
-━━━ ④ Next actions ━━━
+--- ④ Next actions ---
 | # | Action | Owner | Deadline |
 |---|--------|-------|----------|
 | 1 | Gửi contract draft | 〇〇 (Tiên Phát) | 〇/〇 |
 | 2 | Đệ trình ringi | 〇〇 (bên anh/chị) | 〇/〇 |
 | 3 | Set kickoff MTG | 〇〇 | 〇/〇 |
 
-━━━ ⑤ Đính kèm ━━━
+--- ⑤ Đính kèm ---
 - Proposal v〇.〇
 - Meeting note
 
@@ -5806,26 +6246,26 @@ Tel: 〇〇
 【日時】〇〇年〇月〇日
 【相手】〇〇 様
 
-━━━ シナリオ A: 成立 (Deal as-is) ━━━
+--- シナリオ A: 成立 (Deal as-is) ---
   価格: 〇〇円
   スコープ: 〇〇
   条件: 〇〇
   期待結果: shake hand 当日
 
-━━━ シナリオ B: 再交渉 (Counter-offer) ━━━
+--- シナリオ B: 再交渉 (Counter-offer) ---
   価格: 〇〇円 (target: 〇〇円)
   譲歩: 〇〇 (例: scope -10%)
   根拠: 利益率〇〇%維持可能
   内部承認者: 〇〇 (済 / 未済)
   反対 trade: 〇〇 を相手から得る
 
-━━━ シナリオ C: 撤退 (Walk-away) ━━━
+--- シナリオ C: 撤退 (Walk-away) ---
   撤退ライン: 〇〇円以下
   代替案件: 〇〇 (案件名 + ステータス)
   代替案件の数値: 〇〇円, 〇〇 締切
   撤退時の言い回し: 「本日は持ち帰りとさせてください…」
 
-━━━ 当日チェックリスト ━━━
+--- 当日チェックリスト ---
   □ シナリオ A/B/C を声に出して練習済み
   □ シナリオ C 撤退時の挨拶 練習済み
   □ 内部承認エビデンス (Slack/メール) 持参
@@ -5840,26 +6280,26 @@ Tel: 〇〇
 [Thời gian] 〇/〇/〇
 [Đối tác] anh/chị 〇〇
 
-━━━ Scenario A: Deal as-is ━━━
+--- Scenario A: Deal as-is ---
   Giá: 〇〇 ¥
   Scope: 〇〇
   Điều kiện: 〇〇
   Kết quả mong đợi: bắt tay trong ngày
 
-━━━ Scenario B: Counter-offer ━━━
+--- Scenario B: Counter-offer ---
   Giá: 〇〇 ¥ (target: 〇〇 ¥)
   Nhượng bộ: 〇〇 (vd: scope -10%)
   Cơ sở: profit margin 〇〇% giữ được
   Người duyệt nội bộ: 〇〇 (đã / chưa)
   Trade ngược: lấy 〇〇 từ phía họ
 
-━━━ Scenario C: Walk-away ━━━
+--- Scenario C: Walk-away ---
   Walk-away line: dưới 〇〇 ¥
   Lựa chọn thay thế: 〇〇 (tên dự án + status)
   Số liệu lựa chọn TT: 〇〇 ¥, deadline 〇〇
   Câu rút lui: 「本日は持ち帰りとさせてください…」
 
-━━━ Checklist ngày G ━━━
+--- Checklist ngày G ---
   □ Đã practice nói A/B/C ra miệng
   □ Câu chào rút lui scenario C đã practice
   □ Mang theo bằng chứng internal approval (Slack/mail)
@@ -5875,7 +6315,7 @@ Tel: 〇〇
 *JP: 価格提示フレーズ チェックリスト + 5シナリオ*
 
 ```
-━━━ 価格提示フレーズ 4要素チェック ━━━
+--- 価格提示フレーズ 4要素チェック ---
 
 【提示前チェック】
   □ Frame: 相手状況を踏まえた前置き準備済み
@@ -5900,7 +6340,7 @@ Tel: 〇〇
 ■ シナリオ5 — 持ち帰り (escalation)
 「ご提案いただいた条件、その場で即答致しかねます。弊社 CTO 確認の上、〇曜日までに正式回答いたします。」
 
-━━━ 当日チェック ━━━
+--- 当日チェック ---
   □ 4要素を声に出して練習済み
   □ 沈黙 7秒練習済み (rule 25)
   □ Trade-back trigger 確認済み (rule 09)
@@ -5909,7 +6349,7 @@ Tel: 〇〇
 **Bản Việt placeholder:**
 
 ```
-━━━ Checklist 4 yếu tố pricing phrase ━━━
+--- Checklist 4 yếu tố pricing phrase ---
 
 [Trước khi quote]
   □ Frame: đã chuẩn bị câu mở dựa trên tình huống khách
@@ -5934,7 +6374,7 @@ Tel: 〇〇
 [5] Mang về xem xét (escalation)
 'Điều kiện quý anh đề xuất em không trả lời ngay tại chỗ được. Em xin xác nhận với CTO bên em, trả lời chính thức trước thứ 〇 ạ.'
 
-━━━ Check ngày G ━━━
+--- Check ngày G ---
   □ Đã practice 4 yếu tố ra miệng
   □ Đã practice im lặng 7 giây (rule 25)
   □ Confirm trigger trade-back (rule 09)
@@ -5948,12 +6388,12 @@ Tel: 〇〇
 *JP: 「高い」対応 3-step チェックリスト*
 
 ```
-━━━ Step 1: ACKNOWLEDGE (5-10秒) ━━━
+--- Step 1: ACKNOWLEDGE (5-10秒) ---
   □ 即値引きを我慢 (沈黙2秒OK)
   □ 「ご指摘の点、もっともでございます」
   □ 相手の状況に共感: コスト圧縮 / 予算枠 / 業績圧力
 
-━━━ Step 2: REFRAME (30-60秒) ━━━
+--- Step 2: REFRAME (30-60秒) ---
   □ 「ただ少し別の角度から」
   □ 数値根拠を提示 (どれか or 複数):
     □ Cost-of-inaction (継続コスト計算)
@@ -5962,13 +6402,13 @@ Tel: 〇〇
     □ Risk-adjusted (失敗時のコスト)
   □ 月次・年次に分解 (大きい数字を小さく見せる)
 
-━━━ Step 3: 3 OPTIONS (60-90秒) ━━━
+--- Step 3: 3 OPTIONS (60-90秒) ---
   □ Option A: 元価格維持 + trade で価値追加
   □ Option B: scope 削減で価格下げ
   □ Option C: 拡大版 (decoy)
   □ 「御社のコスト感に合うのはどちらでしょうか？」で締める
 
-━━━ ❌ NG リスト ━━━
+--- ❌ NG リスト ---
   ✗ 即値引き「では ¥16M で…」
   ✗ 反論「高くないですよ」
   ✗ 1 option のみ
@@ -5978,12 +6418,12 @@ Tel: 〇〇
 **Bản Việt placeholder:**
 
 ```
-━━━ Step 1: ACKNOWLEDGE (5-10s) ━━━
+--- Step 1: ACKNOWLEDGE (5-10s) ---
   □ Nén phản xạ giảm giá (2s im lặng OK)
   □ 「ご指摘の点、もっともでございます」 (Em xin tiếp thu)
   □ Đồng cảm tình huống: nén chi phí / budget khung / áp lực kết quả
 
-━━━ Step 2: REFRAME (30-60s) ━━━
+--- Step 2: REFRAME (30-60s) ---
   □ 「ただ少し別の角度から」 (Xin phép từ góc khác)
   □ Show cơ sở số (1 hoặc nhiều):
     □ Cost-of-inaction (tính chi phí giữ nguyên)
@@ -5992,13 +6432,13 @@ Tel: 〇〇
     □ Risk-adjusted (chi phí nếu fail)
   □ Chia ra tháng / năm (số lớn nhìn nhỏ)
 
-━━━ Step 3: 3 OPTIONS (60-90s) ━━━
+--- Step 3: 3 OPTIONS (60-90s) ---
   □ Option A: giữ giá gốc + trade thêm value
   □ Option B: cắt scope hạ giá
   □ Option C: mở rộng (decoy)
   □ Chốt 'phương án nào hợp cảm giác chi phí của quý cty ạ?'
 
-━━━ ❌ NG ━━━
+--- ❌ NG ---
   ✗ Giảm ngay 'vậy ¥16M ạ'
   ✗ Phản bác '不 không đắt đâu ạ'
   ✗ Chỉ 1 option
@@ -6018,31 +6458,31 @@ Tel: 〇〇
 【参加者】〇〇 (lead)、 〇〇、 〇〇
 【retro 開催日】商談から 〇 日後
 
-━━━ ① What Worked (うまくいった点) ━━━
+--- ① What Worked (うまくいった点) ---
   □ 〇〇 (例: BATNA 3 シナリオで walk-away 明確)
   □ 〇〇 (例: recap mail 24h 以内送付で稟議 block なし)
   □ 〇〇
 
-━━━ ② What Didn't (改善点) ━━━
+--- ② What Didn't (改善点) ---
   □ 〇〇 (例: indemnity 無制限 push に 5 秒 freeze)
   □ 〇〇 (例: VN style discount を 0.5 秒 miss)
   □ 〇〇
 
-━━━ ③ Counterfactual (もし〜していれば) ━━━
+--- ③ Counterfactual (もし〜していれば) ---
   □ もし 〇〇 していれば、〇〇 できた
   □ もし 〇〇 を pre-print していれば、〇〇 防げた
   □ もし pre-MTG で 〇〇 brief 1 分していれば、〇〇 …
 
-━━━ ④ Pattern Recognition (across vụ で repeat?) ━━━
+--- ④ Pattern Recognition (across vụ で repeat?) ---
   □ 過去 〇 vụ で同じ pattern 観察 (例: VN BD immediate concession)
   □ Cultural default? 個人差? team-level intervention 必要?
 
-━━━ ⑤ Next Commit (3 個 max) ━━━
+--- ⑤ Next Commit (3 個 max) ---
   (a) 具体 action: 〇〇 / Owner: 〇〇 / Deadline: 〇月〇日 / 効果測定: 〇〇
   (b) 具体 action: 〇〇 / Owner: 〇〇 / Deadline: 〇月〇日 / 効果測定: 〇〇
   (c) 具体 action: 〇〇 / Owner: 〇〇 / Deadline: 〇月〇日 / 効果測定: 〇〇
 
-━━━ Follow-up Retro 予定 ━━━
+--- Follow-up Retro 予定 ---
   □ 3 ヶ月後 (〇月〇日) に commit (a)/(b)/(c) adherence 確認 retro 開催
   □ team wiki に本 retro doc 保存済み
   □ 関係者に共有済み
@@ -6056,31 +6496,31 @@ Tel: 〇〇
 [Tham dự] 〇〇 (lead), 〇〇, 〇〇
 [Ngày retro] 〇 ngày sau đàm phán
 
-━━━ ① What Worked ━━━
+--- ① What Worked ---
   □ 〇〇 (vd: BATNA 3 scenario làm walk-away rõ)
   □ 〇〇 (vd: recap mail trong 24h khiến ringi không block)
   □ 〇〇
 
-━━━ ② What Didn't ━━━
+--- ② What Didn't ---
   □ 〇〇 (vd: freeze 5 giây với indemnity unlimited push)
   □ 〇〇 (vd: miss VN-style discount 0.5 giây)
   □ 〇〇
 
-━━━ ③ Counterfactual (Nếu mình ~) ━━━
+--- ③ Counterfactual (Nếu mình ~) ---
   □ Nếu 〇〇, có thể 〇〇
   □ Nếu pre-print 〇〇, có thể ngăn 〇〇
   □ Nếu pre-MTG brief 1 phút 〇〇, có thể 〇〇
 
-━━━ ④ Pattern Recognition (lặp lại across vụ?) ━━━
+--- ④ Pattern Recognition (lặp lại across vụ?) ---
   □ Quan sát cùng pattern ở 〇 vụ trước (vd: VN BD nhảy vào immediate concession)
   □ Cultural default? Cá biệt? Cần intervention cấp team?
 
-━━━ ⑤ Next Commit (tối đa 3) ━━━
+--- ⑤ Next Commit (tối đa 3) ---
   (a) Action cụ thể: 〇〇 / Owner: 〇〇 / Deadline: 〇/〇 / Đo hiệu quả: 〇〇
   (b) Action cụ thể: 〇〇 / Owner: 〇〇 / Deadline: 〇/〇 / Đo hiệu quả: 〇〇
   (c) Action cụ thể: 〇〇 / Owner: 〇〇 / Deadline: 〇/〇 / Đo hiệu quả: 〇〇
 
-━━━ Lịch Follow-up Retro ━━━
+--- Lịch Follow-up Retro ---
   □ 3 tháng sau (〇/〇) tổ chức retro check adherence của commit (a)/(b)/(c)
   □ Đã lưu retro doc trong team wiki
   □ Đã share cho stakeholder
@@ -6097,35 +6537,35 @@ Tel: 〇〇
 *JP: 3段階提案シート (Good / Better / Best)*
 
 ```
-━━━ 3段階ご提案 — 〇〇プロジェクト ━━━
+--- 3段階ご提案 — 〇〇プロジェクト ---
 御社名:〇〇 様
 提案日:〇〇年〇月〇日
 提案者:ティエンファット 〇〇
 
-┌─────────────────────────────────────────────┐
-│  【Good】 ¥〇〇M (basic)                                  │
-│  • コア機能: 〇〇                                          │
-│  • SLA: 〇〇% (営業時間サポート)                            │
-│  • 含まれない: 〇〇 / 〇〇                                  │
-│  • 適合先: PoC 用途・予算厳しい場合                           │
-└─────────────────────────────────────────────┘
++---------------------------------------------+
+|  【Good】 ¥〇〇M (basic)                                  |
+|  • コア機能: 〇〇                                          |
+|  • SLA: 〇〇% (営業時間サポート)                            |
+|  • 含まれない: 〇〇 / 〇〇                                  |
+|  • 適合先: PoC 用途・予算厳しい場合                           |
++---------------------------------------------+
 
-┌─────────────────────────────────────────────┐
-│  【Better】 ¥〇〇M  ★おすすめ★                            │
-│  • コア機能 + 〇〇 (key feature)                            │
-│  • SLA: 〇〇.〇% (24/7サポート)                            │
-│  • 含む: 〇〇 / 〇〇 / 〇〇                                  │
-│  • 適合先: 御社の Phase 〇 目的「〇〇」に最適                  │
-│  • 期待 ROI: 〇〇                                          │
-└─────────────────────────────────────────────┘
++---------------------------------------------+
+|  【Better】 ¥〇〇M  ★おすすめ★                            |
+|  • コア機能 + 〇〇 (key feature)                            |
+|  • SLA: 〇〇.〇% (24/7サポート)                            |
+|  • 含む: 〇〇 / 〇〇 / 〇〇                                  |
+|  • 適合先: 御社の Phase 〇 目的「〇〇」に最適                  |
+|  • 期待 ROI: 〇〇                                          |
++---------------------------------------------+
 
-┌─────────────────────────────────────────────┐
-│  【Best】 ¥〇〇M (full)                                   │
-│  • Better のすべて + 専任 SRE 常駐                          │
-│  • SLA: 〇〇.〇〇%                                          │
-│  • 含む: 優先開発枠・カスタムレポート                          │
-│  • 適合先: 大規模・ミッションクリティカル運用                    │
-└─────────────────────────────────────────────┘
++---------------------------------------------+
+|  【Best】 ¥〇〇M (full)                                   |
+|  • Better のすべて + 専任 SRE 常駐                          |
+|  • SLA: 〇〇.〇〇%                                          |
+|  • 含む: 優先開発枠・カスタムレポート                          |
+|  • 適合先: 大規模・ミッションクリティカル運用                    |
++---------------------------------------------+
 
 ■ 比較表 (主要項目のみ)
   項目        | Good   | Better | Best  
@@ -6140,35 +6580,35 @@ Tel: 〇〇
 **Bản Việt placeholder:**
 
 ```
-━━━ Đề xuất 3-tier — Dự án 〇〇 ━━━
+--- Đề xuất 3-tier — Dự án 〇〇 ---
 Khách hàng: Quý công ty 〇〇
 Ngày đề xuất: 〇/〇/〇
 Người đề xuất: ティエンファット 〇〇
 
-┌─────────────────────────────────────────────┐
-│  [Good] ¥〇〇M (basic)                                    │
-│  • Tính năng core: 〇〇                                   │
-│  • SLA: 〇〇% (support trong giờ)                          │
-│  • Không bao gồm: 〇〇 / 〇〇                              │
-│  • Phù hợp: PoC, ngân sách hạn                             │
-└─────────────────────────────────────────────┘
++---------------------------------------------+
+|  [Good] ¥〇〇M (basic)                                    |
+|  • Tính năng core: 〇〇                                   |
+|  • SLA: 〇〇% (support trong giờ)                          |
+|  • Không bao gồm: 〇〇 / 〇〇                              |
+|  • Phù hợp: PoC, ngân sách hạn                             |
++---------------------------------------------+
 
-┌─────────────────────────────────────────────┐
-│  [Better] ¥〇〇M  ★ ĐỀ XUẤT ★                          │
-│  • Core + 〇〇 (key feature)                              │
-│  • SLA: 〇〇.〇% (support 24/7)                            │
-│  • Bao gồm: 〇〇 / 〇〇 / 〇〇                              │
-│  • Phù hợp: Mục tiêu Phase 〇 '〇〇' của quý cty           │
-│  • ROI kỳ vọng: 〇〇                                       │
-└─────────────────────────────────────────────┘
++---------------------------------------------+
+|  [Better] ¥〇〇M  ★ ĐỀ XUẤT ★                          |
+|  • Core + 〇〇 (key feature)                              |
+|  • SLA: 〇〇.〇% (support 24/7)                            |
+|  • Bao gồm: 〇〇 / 〇〇 / 〇〇                              |
+|  • Phù hợp: Mục tiêu Phase 〇 '〇〇' của quý cty           |
+|  • ROI kỳ vọng: 〇〇                                       |
++---------------------------------------------+
 
-┌─────────────────────────────────────────────┐
-│  [Best] ¥〇〇M (full)                                     │
-│  • Toàn bộ Better + SRE chuyên trách túc trực              │
-│  • SLA: 〇〇.〇〇%                                          │
-│  • Bao gồm: ưu tiên dev feature, báo cáo custom             │
-│  • Phù hợp: vận hành quy mô lớn, mission-critical           │
-└─────────────────────────────────────────────┘
++---------------------------------------------+
+|  [Best] ¥〇〇M (full)                                     |
+|  • Toàn bộ Better + SRE chuyên trách túc trực              |
+|  • SLA: 〇〇.〇〇%                                          |
+|  • Bao gồm: ưu tiên dev feature, báo cáo custom             |
+|  • Phù hợp: vận hành quy mô lớn, mission-critical           |
++---------------------------------------------+
 
 ■ Bảng so sánh (mục chính)
   Mục         | Good   | Better | Best   
@@ -6268,11 +6708,11 @@ Bên B: Cty Tiên Phát — Đại diện pháp luật 〇〇 〇〇  (Dấu)
 〇〇年〇月〇日
 ティエンファット社 / 〇〇株式会社
 
-━━━━━━━━━━━━━━━━━━━━
+--------------------
 【プレスリリース】
 ティエンファット社、〇〇株式会社と AI 〇〇 Phase 〇 業務委託契約締結
 — 数千万円規模、〇〇年〇月キックオフ —
-━━━━━━━━━━━━━━━━━━━━
+--------------------
 
 ティエンファット社 (本社: ハノイ、代表取締役: 〇〇 〇〇、以下「ティエンファット」) は、〇〇株式会社 (本社: 東京、代表取締役: 〇〇 〇〇、以下「〇〇社」) との間で、AI 〇〇 Phase 〇 業務委託契約を 〇〇年〇月〇日付で締結しましたのでお知らせいたします。
 
@@ -6310,11 +6750,11 @@ Kính gửi báo chí
 Ngày 〇/〇/〇
 Cty Tiên Phát / Cty 〇〇
 
-━━━━━━━━━━━━━━━━━━━━
+--------------------
 [PRESS RELEASE]
 Cty Tiên Phát ký Hợp đồng giao việc AI 〇〇 Phase 〇 với Cty 〇〇
 — Quy mô vài chục triệu yên, kickoff 〇/〇 —
-━━━━━━━━━━━━━━━━━━━━
+--------------------
 
 Cty Tiên Phát (HQ: Hà Nội, Đại diện: 〇〇 〇〇, sau đây 'Tiên Phát') ký Hợp đồng giao việc AI 〇〇 Phase 〇 với Cty 〇〇 (HQ: Tokyo, Đại diện: 〇〇 〇〇, sau đây 'Cty 〇〇') vào ngày 〇/〇/〇.
 

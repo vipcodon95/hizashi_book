@@ -21,12 +21,16 @@ Sau khi chị Hương review xong agenda (rule 01), em Dũng được giao gửi
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「松本様、来週月曜15時から会議します。Zoomリンク添付。よろしくお願いします。」 |
-| **松本** | 「ズンさん、何の会議でしょうか？大垣も同席必要ですか？資料は？」 |
-| **ズン** | 「すみません、月例会議です。大垣様もご出席いただければ…資料は今作っております。」 |
-| **松本** | 「申し訳ない、来週月曜は別件があります。アジェンダと目的を見て調整したかったので…」 |
+| **ズン** | 「松本様、来週<ruby>月曜<rt>げつよう</rt></ruby>15時から<ruby>会議<rt>かいぎ</rt></ruby>します。Zoomリンク<ruby>添付<rt>てんぷ</rt></ruby>。よろしくお願いします。」 |
+|  | *Anh Matsumoto, thứ hai tuần sau 15h họp ạ. Link Zoom đính kèm. Phiền anh nhé.* |
+| **松本** | 「ズンさん、何の会議でしょうか？<ruby>大垣<rt>おおがき</rt></ruby>も<ruby>同席<rt>どうせき</rt></ruby>必要ですか？<ruby>資料<rt>しりょう</rt></ruby>は？」 |
+|  | *Dũng, họp gì vậy? Anh Ōgaki có cần ngồi cùng không? Tài liệu thì sao?* |
+| **ズン** | 「すみません、<ruby>月例<rt>げつれい</rt></ruby>会議です。大垣様もご<ruby>出席<rt>しゅっせき</rt></ruby>いただければ…資料は今作っております。」 |
+|  | *Em xin lỗi, là họp định kỳ ạ. Nếu anh Ōgaki dự được thì... tài liệu em đang làm ạ.* |
+| **松本** | 「<ruby>申<rt>もう</rt></ruby>し訳ない、来週月曜は<ruby>別件<rt>べっけん</rt></ruby>があります。アジェンダと<ruby>目的<rt>もくてき</rt></ruby>を見て<ruby>調整<rt>ちょうせい</rt></ruby>したかったので…」 |
+|  | *Xin lỗi, thứ hai tuần sau tôi có việc khác. Tôi muốn xem agenda và mục đích để xếp lịch nhưng...* |
 
-**Vì sao xấu:** Subject 「会議について」 quá vague → khách không nhận diện được mức ưu tiên. Không ghi mục đích, không attach agenda, không có deadline RSVP. Khách Nhật reply chậm → đến lúc rõ thì lịch đã trôi.
+**Vì sao xấu:** Subject 「会議について」 quá mơ hồ → khách không nhận diện được mức ưu tiên. Không ghi mục đích, không đính kèm agenda, không có deadline RSVP. Khách Nhật phản hồi chậm → đến lúc rõ thì lịch đã trôi.
 
 ---
 
@@ -36,20 +40,24 @@ Sau khi chị Hương review xong agenda (rule 01), em Dũng được giao gửi
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「松本様、お世話になっております。ティエンファットのズンでございます。下記のとおり4月度月例会議を開催いたしたく、ご案内申し上げます【1】。」 |
-| **ズン** | 「目的はPhase 2 進捗共有と5月スコープ合意の2点でございます。アジェンダを添付いたしましたので、ご確認のほどお願い申し上げます。」 |
-| **ズン** | 「ご出欠を 4月25日（金）17時まで にご返信いただけますと幸いです【2】。」 |
+| **ズン** | 「松本様、お世話になっております。ティエンファットのズンでございます。<ruby>下記<rt>かき</rt></ruby>のとおり4月度月例会議を<ruby>開催<rt>かいさい</rt></ruby>いたしたく、ご<ruby>案内<rt>あんない</rt></ruby>申し上げます【1】。」 |
+|  | *Anh Matsumoto, lúc nào cũng cảm ơn anh giúp đỡ ạ. Em Dũng bên Thiên Phát đây ạ. Em xin trân trọng thông báo về buổi họp định kỳ tháng 4 như dưới đây ạ.* |
+| **ズン** | 「目的はPhase 2 <ruby>進捗<rt>しんちょく</rt></ruby><ruby>共有<rt>きょうゆう</rt></ruby>と5月スコープ<ruby>合意<rt>ごうい</rt></ruby>の2点でございます。アジェンダを添付いたしましたので、ご<ruby>確認<rt>かくにん</rt></ruby>のほどお願い申し上げます。」 |
+|  | *Mục đích gồm 2 điểm: chia sẻ tiến độ Phase 2 và thống nhất scope tháng 5 ạ. Em đã đính kèm agenda, phiền anh xem giúp em ạ.* |
+| **ズン** | 「ご<ruby>出欠<rt>しゅっけつ</rt></ruby>を 4月25日（金）17時まで にご<ruby>返信<rt>へんしん</rt></ruby>いただけますと<ruby>幸<rt>さいわ</rt></ruby>いです【2】。」 |
+|  | *Phiền anh phản hồi giúp em việc tham dự trước 17h thứ Sáu ngày 25/4 ạ.* |
 | **松本** | 「ご案内ありがとうございます。出席いたします。大垣にも共有しておきます。」 |
+|  | *Cảm ơn Dũng đã thông báo. Tôi sẽ tham dự. Tôi cũng sẽ chia sẻ cho anh Ōgaki nhé.* |
 
 📝 **Ghi chú:**
-- 【1】**「ご案内申し上げます」** — formal hơn 「ご案内します」. Mail mời họp khách Nhật nên dùng. Cùng cấp với 「ご連絡申し上げます」.
+- 【1】**「ご案内申し上げます」** — trang trọng hơn 「ご案内します」. Mail mời họp khách Nhật nên dùng. Cùng cấp với 「ご連絡申し上げます」.
 - 【2】**「〜までにご返信いただけますと幸いです」** — câu deadline RSVP chuẩn. Không dùng 「〜までに返信してください」 (mệnh lệnh, lỗ mãng với khách).
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「件名・目的・アジェンダ・返信期限 — この4点が揃って招待メール。」**
+> **「<ruby>件名<rt>けんめい</rt></ruby>・目的・アジェンダ・<ruby>返信期限<rt>へんしんきげん</rt></ruby> — この4点が<ruby>揃<rt>そろ</rt></ruby>って<ruby>招待<rt>しょうたい</rt></ruby>メール。」**
 >
 > *Subject + mục đích + agenda + deadline RSVP — đủ 4 mới gọi là mail mời họp.*
 
@@ -68,20 +76,20 @@ Sau khi chị Hương review xong agenda (rule 01), em Dũng được giao gửi
 
 下記のとおり4月度月例会議を開催いたしたく、ご案内申し上げます。
 
-──────────────────────
+----------------------
 ■ 日時：2026年4月28日（火） 15:00〜16:00（JST）
 ■ 形式：Zoom（リンク：https://...）
 ■ 目的：① Phase 2 進捗共有
         ② 5月スコープ合意
 ■ アジェンダ：添付ファイル参照
 ■ 事前資料：4/26までに別途共有予定
-──────────────────────
+----------------------
 
 ご出欠を 4月25日（金）17時まで にご返信いただけますと幸いです。
 
 何卒よろしくお願い申し上げます。
 
-──
+--
 ティエンファット社 営業部
 ズン（Trần Văn Dũng）
 ```
@@ -90,8 +98,8 @@ Sau khi chị Hương review xong agenda (rule 01), em Dũng được giao gửi
 
 ## ⚠ Tránh
 
-- Subject vague kiểu「会議について」「ご相談」 → khách không phân biệt priority.
-- Không attach agenda → khách phải hỏi lại = mất 1 vòng email.
+- Subject mơ hồ kiểu「会議について」「ご相談」 → khách không phân biệt mức ưu tiên.
+- Không đính kèm agenda → khách phải hỏi lại = mất 1 vòng email.
 - Không deadline RSVP → đến hôm họp không biết ai đến.
 - Gửi mail mời < 3 ngày trước họp → khách Nhật chưa kịp đồng bộ lịch nội bộ.
 

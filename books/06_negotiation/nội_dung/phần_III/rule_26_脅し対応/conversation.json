@@ -9,7 +9,10 @@
     "ja": "Ōgaki が「¥15M でなければY社」と最終通告。Dũng が bridge phrase で受け、ハー CTO をエスカレーションする場面。",
     "vi": "Ōgaki ultimatum '¥15M không thì Y社'. Dũng bridge để đỡ, escalate anh Hà CTO."
   },
-  "related_rules": ["rule_27", "rule_28"],
+  "related_rules": [
+    "rule_27",
+    "rule_28"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -112,7 +115,9 @@
           "sentence": "ご指摘の点、もっともでございます。御社のご事情、十分に理解いたします。",
           "sentence_translation": "Em xin tiếp thu ý kiến quý anh ạ. Tình huống quý cty em hiểu đầy đủ ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"],
+          "annotation_ids": [
+            "1"
+          ],
           "pause_after_ms": 2000
         },
         {
@@ -123,7 +128,9 @@
           "sentence": "ただ、弊社として ¥15M で Phase 2 同等スコープのご提供は粗利を割り込みますので、その場でのお返事は致しかねます。",
           "sentence_translation": "Tuy nhiên, ¥15M giữ scope tương đương Phase 2 thì bên em phá ngưỡng margin, em xin phép không trả lời ngay tại chỗ ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_26_good_04",
@@ -133,7 +140,9 @@
           "sentence": "重要なご決定ですので、弊社 CTO のハーをこの場にお呼びしてもよろしいでしょうか？技術面・条件面の両方で正式な回答ができるようにいたします。",
           "sentence_translation": "Đây là quyết định quan trọng, cho phép em mời anh Hà CTO bên em đến tại chỗ ạ? Để có thể trả lời chính thức cả mặt kỹ thuật lẫn điều kiện ạ.",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_26_good_05",
@@ -152,7 +161,9 @@
           "sentence": "大垣様、ハーでございます。¥15M というご要望、伺いました。¥15M でしたら scope は -30% (AI dashboard・専任 PM・SLA 99.9%→99.5%) となり、Phase 3 当初目的の達成度合いは 65% 程度になります。Phase 2 同等のスコープであれば、弊社 walk-away ライン ¥15.5M、これは承認済みの最終条件でございます。",
           "sentence_translation": "Anh Ōgaki, em là Hà ạ. Em đã nghe yêu cầu ¥15M. Nếu ¥15M thì scope -30% (bỏ AI dashboard, PM chuyên trách, SLA 99.9%→99.5%), mức đạt mục tiêu ban đầu Phase 3 chỉ ~65%. Scope tương đương Phase 2 thì walk-away bên em là ¥15.5M, đây là điều kiện cuối đã được duyệt ạ.",
           "tone": "formal",
-          "annotation_ids": ["4"]
+          "annotation_ids": [
+            "4"
+          ]
         },
         {
           "line_id": "rule_26_good_07",
@@ -191,12 +202,12 @@
       "skill": "発言聴解",
       "question_ja": "「¥15M でなければY社に発注します」と言われた時の最適3step は？",
       "options": [
+        "謝罪 → 撤回 → 再提案",
         "challenge → 値引き → 沈黙",
         "Bridge phrase → boundary → senior escalation",
-        "値引き → 値引き → 値引き",
-        "謝罪 → 撤回 → 再提案"
+        "値引き → 値引き → 値引き"
       ],
-      "correct": "B",
+      "correct": "C",
       "explanation": {
         "ja": "脅しは pressure tactic。bridge で de-escalate、boundary でこちらの限度を示し、senior escalation で新権威を持ち込む。",
         "vi": "Lời đe là pressure tactic. Bridge để de-escalate, boundary show giới hạn, senior escalate đưa authority mới vào."

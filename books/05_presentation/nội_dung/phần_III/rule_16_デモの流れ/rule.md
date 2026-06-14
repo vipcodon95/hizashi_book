@@ -1,6 +1,6 @@
 # Rule 16 — Demo flow / デモの流れ
 
-> **Luận điểm.** Demo trong pitch ≠ feature tour. Cấu trúc 4-step: **Setup (誰が何をしようとしている、30s) → User journey (主操作、2分) → Key moment (決め手、30s) → Recap (何が起きたか、30s)**. Tổng 3-4 phút. Tránh "全機能ツアー" — chỉ show flow giải pain.
+> **Luận điểm.** Demo trong pitch ≠ tour liệt kê tính năng. Cấu trúc 4 bước: **Setup — thiết lập cảnh (誰が何をしようとしている、30s) → User journey — hành trình người dùng (主操作、2分) → Key moment — khoảnh khắc mấu chốt (決め手、30s) → Recap — tóm lược (何が起きたか、30s)**. Tổng 3-4 phút. Tránh "全機能ツアー" — chỉ trình diễn mạch thao tác giải nỗi đau.
 >
 > デモ4ステップ: Setup→User journey→Key moment→Recap。3-4分以内。全機能ツアーは禁止、痛み解消の1フローだけ。
 >
@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Tuấn (tech lead) sẽ chạy demo. Tuấn instinct là show toàn bộ feature menu (engineer mindset). Dũng coach trước rehearsal cuối.
+Tuấn (tech lead) sẽ chạy demo. Bản năng của Tuấn là trình diễn toàn bộ menu tính năng (tư duy engineer). Dũng kèm cặp trước buổi rehearsal cuối.
 
 ---
 
@@ -20,12 +20,16 @@ Tuấn (tech lead) sẽ chạy demo. Tuấn instinct là show toàn bộ feature
 
 | Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「では画面紹介します。これがダッシュボード、上に検索、左にメニュー、右にカード一覧、下にフッター…」 |
-| **ズン** | 「兄さん、それ**ツアーガイド**になってる。客は**機能名を聞きに来てない**。在庫差異が解消する flow を見せたい。」 |
+| **トゥアン** | 「では<ruby>画面<rt>がめん</rt></ruby>紹介します。これがダッシュボード、上に<ruby>検索<rt>けんさく</rt></ruby>、左にメニュー、右にカード<ruby>一覧<rt>いちらん</rt></ruby>、下にフッター…」 |
+|  | *Em xin giới thiệu màn hình ạ. Đây là dashboard, trên là search, trái là menu, phải là list card, dưới là footer...* |
+| **ズン** | 「兄さん、それ**ツアーガイド**になってる。客は**<ruby>機能名<rt>きのうめい</rt></ruby>を聞きに来てない**。<ruby>在庫差異<rt>ざいこさい</rt></ruby>が<ruby>解消<rt>かいしょう</rt></ruby>する flow を見せたい。」 |
+|  | *Anh, kiểu này là tour guide rồi. Khách không đến để nghe tên feature đâu. Mình muốn show flow sai lệch tồn kho được giải.* |
 | **トゥアン** | 「えっと…じゃあどう？」 |
+|  | *Ờ... vậy phải sao?* |
 | **ズン** | 「**4ステップ**でやろう。Setup→User journey→Key moment→Recap。3分で。」 |
+|  | *Đi 4 bước nhé. Setup → User journey → Key moment → Recap. Trong 3 phút.* |
 
-**Vì sao xấu:** Feature tour = engineer mindset, KHÔNG phải buyer mindset. Buyer hỏi "giải bài toán em không?" not "menu chỗ nào?". Khách Nhật phật ý vì cảm thấy "demo không tôn trọng pain mình".
+**Vì sao xấu:** Tour liệt kê tính năng = tư duy engineer, KHÔNG phải tư duy người mua. Người mua hỏi "có giải bài toán của em không?" chứ không phải "menu chỗ nào?". Khách Nhật phật ý vì cảm thấy "demo không tôn trọng nỗi đau của mình".
 
 ---
 
@@ -33,15 +37,19 @@ Tuấn (tech lead) sẽ chạy demo. Tuấn instinct là show toàn bộ feature
 
 | Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「**Setup**: 倉庫担当の田村さんが、季節商品の在庫差異に気づきました【1】。**User journey**: ダッシュボードでアラートを確認、原因SKUを drill-down、修正案を承認。**Key moment**【2】: 通常2時間の作業が**3分で完了**。**Recap**: 季節商品でも差異が month-end前 に検出・修正される。」 |
-| **ズン** | 「Perfect。**ナレーションは私**【3】、操作はトゥアンが、で行きましょう。」 |
-| **トゥアン** | 「了解。Key moment で2秒 pause 入れる？聴衆に効果実感させる用に。」 |
-| **ズン** | 「いいアイデア。『**ここがポイントです**』って一言入れて、2秒間。」 |
+| **トゥアン** | 「**Setup**: <ruby>倉庫担当<rt>そうこたんとう</rt></ruby>の<ruby>田村<rt>たむら</rt></ruby>さんが、<ruby>季節商品<rt>きせつしょうひん</rt></ruby>の<ruby>在庫差異<rt>ざいこさい</rt></ruby>に気づきました【1】。**User journey**: ダッシュボードでアラートを<ruby>確認<rt>かくにん</rt></ruby>、<ruby>原因<rt>げんいん</rt></ruby>SKUを drill-down、<ruby>修正案<rt>しゅうせいあん</rt></ruby>を<ruby>承認<rt>しょうにん</rt></ruby>。**Key moment**【2】: <ruby>通常<rt>つうじょう</rt></ruby>2時間の<ruby>作業<rt>さぎょう</rt></ruby>が**3分で<ruby>完了<rt>かんりょう</rt></ruby>**。**Recap**: 季節商品でも差異が month-end前 に<ruby>検出<rt>けんしゅつ</rt></ruby>・修正される。」 |
+|  | *Setup: Tamura-san phụ trách kho phát hiện sai lệch hàng theo mùa. User journey: kiểm tra alert trên dashboard, drill-down SKU nguyên nhân, phê duyệt phương án sửa. Key moment: việc thường mất 2 tiếng nay xong trong 3 phút. Recap: hàng theo mùa cũng được phát hiện + sửa trước month-end.* |
+| **ズン** | 「Perfect。**ナレーションは私**【3】、<ruby>操作<rt>そうさ</rt></ruby>はトゥアンが、で行きましょう。」 |
+|  | *Perfect. Narration em làm, thao tác anh Tuấn nhé.* |
+| **トゥアン** | 「了解。Key moment で2秒 pause 入れる？<ruby>聴衆<rt>ちょうしゅう</rt></ruby>に<ruby>効果実感<rt>こうかじっかん</rt></ruby>させる用に。」 |
+|  | *OK. Tại key moment thêm 2 giây pause được không? Để cho khán giả cảm hiệu quả.* |
+| **ズン** | 「いいアイデア。『**ここがポイントです**』って<ruby>一言<rt>ひとこと</rt></ruby>入れて、2秒間。」 |
+|  | *Ý hay. Em sẽ nói câu 「Đây là điểm mấu chốt」 rồi pause 2 giây.* |
 
 📝 **Ghi chú:**
-- 【1】**Setup =「人物 + 状況 + 目的」** — Persona名 (田村さん) を入れると immersion 強. 名前なし demo は弱い.
-- 【2】**Key moment =「pain解消の瞬間」** — "通常X → 今Y" 数字対比. 1 demo 1 key moment.
-- 【3】**「ナレーションは私」** — Co-presenter 役割分担. 操作担当 と narrator 分けると flow smooth. Sách 03 rule 32 cross-ref.
+- 【1】**Setup =「人物 + 状況 + 目的」** — Có tên persona (田村さん) thì độ nhập tâm cao. Demo không tên nhân vật thì yếu.
+- 【2】**Key moment =「pain解消の瞬間」** — đối chiếu số "通常X → 今Y". 1 demo chỉ 1 khoảnh khắc mấu chốt.
+- 【3】**「ナレーションは私」** — phân vai co-presenter. Tách người thao tác với người dẫn (narration) thì mạch demo mượt. Tham chiếu chéo sách 03 rule 32.
 
 ---
 
@@ -80,12 +88,12 @@ Tuấn (tech lead) sẽ chạy demo. Tuấn instinct là show toàn bộ feature
 
 ## ⚠ Tránh
 
-- Feature tour ("メニューがここに、ボタンがここに")
-- Persona không tên / không context — flow tan loãng
-- Demo > 5 phút — audience zone out
-- Live API call without offline backup (xem rule 07)
-- Recap thiếu → audience không nắm "đã được gì"
-- Co-presenter improv → tech term ngược / thiếu sync
+- Tour liệt kê tính năng ("メニューがここに、ボタンがここに")
+- Persona không tên / không bối cảnh — mạch demo tan loãng
+- Demo > 5 phút — đối tượng nghe mất tập trung
+- Gọi API trực tiếp mà không có bản dự phòng offline (xem rule 07)
+- Thiếu Recap → người nghe không nắm "đã được gì"
+- Co-presenter ứng biến tùy hứng → thuật ngữ kỹ thuật ngược / thiếu ăn khớp
 
 ---
 

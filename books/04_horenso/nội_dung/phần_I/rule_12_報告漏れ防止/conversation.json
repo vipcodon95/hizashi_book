@@ -9,7 +9,11 @@
     "ja": "ズンが報告漏れを指摘され、フオン副部長から10項目のセルフチェックリストを共有される。週末に運用し、未返信件数や口頭→書面変換状況を可視化する。",
     "vi": "Em Dũng bị chỉ ra báo cáo sót, chị Hương chia sẻ checklist 10 mục. Chạy cuối tuần, trực quan hóa số chưa reply và việc convert verbal sang văn bản."
   },
-  "related_rules": ["rule_01", "rule_02", "rule_38"],
+  "related_rules": [
+    "rule_01",
+    "rule_02",
+    "rule_38"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -109,7 +113,9 @@
           "sentence": "フオン副部長、今週の報告漏れチェック完了です。",
           "sentence_translation": "Chị Hương, em đã chạy xong checklist phòng ngừa báo cáo sót tuần này ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_12_good_02",
@@ -119,7 +125,9 @@
           "sentence": "今週の通信件数：受信18 / 返信17 / 未返信1件：松本様 4/22 のメール『Phase 3 予算確認』。本日中に返信予定です。",
           "sentence_translation": "Số communication tuần này: nhận 18 / đã reply 17 / chưa reply 1: mail 22/4 của anh Matsumoto 'Xác nhận budget Phase 3'. Em sẽ reply trong hôm nay ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_12_good_03",
@@ -129,7 +137,9 @@
           "sentence": "約束した期日：5件すべて期日内完了。口頭でOKもらった事項：3件、すべて書面化済。",
           "sentence_translation": "Deadline đã hứa: 5 cái xong đúng hạn. Việc verbal OK: 3 cái, đã convert thành văn bản hết ạ.",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_12_good_04",
@@ -160,10 +170,10 @@
       "skill": "場面把握",
       "question_ja": "報告漏れを防止する最も効果的な方法は？",
       "options": [
-        "記憶力を鍛える",
+        "返信は翌日にまとめて行う",
         "毎日17時に10項目のセルフチェックリストを実行する",
-        "毎週末に上司に確認してもらう",
-        "返信は翌日にまとめて行う"
+        "記憶力を鍛える",
+        "毎週末に上司に確認してもらう"
       ],
       "correct": "B",
       "explanation": {

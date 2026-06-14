@@ -9,7 +9,11 @@
     "ja": "ズンが3つの異なる用件を1つの長文メールにまとめて失敗する場面。緊急/進捗/リスケを channel ごとに分ける正解パターンを実演。",
     "vi": "Em Dũng gom 3 việc khác nhau vào 1 mail dài và thất bại. Show pattern đúng: chia urgent / tiến độ / reschedule theo channel."
   },
-  "related_rules": ["rule_07", "rule_15", "rule_17"],
+  "related_rules": [
+    "rule_07",
+    "rule_15",
+    "rule_17"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -86,7 +90,9 @@
           "sentence": "フオン副部長、緊急のご報告です。本番で critical bug が発生しております。詳細は今からメールも送ります。",
           "sentence_translation": "Chị Hương, em báo cáo khẩn cấp ạ. Production đang có bug critical. Chi tiết em gửi mail luôn ạ.",
           "tone": "urgent",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_09_good_02",
@@ -136,9 +142,9 @@
       "question_ja": "本番で critical bug が発生した時の最適な報告 channel は？",
       "options": [
         "翌朝のメールで報告",
-        "Slack の通常チャンネルに投稿",
+        "次回会議で口頭報告",
         "電話で第一報、その後メールでフォローアップ",
-        "次回会議で口頭報告"
+        "Slack の通常チャンネルに投稿"
       ],
       "correct": "C",
       "explanation": {

@@ -9,7 +9,11 @@
     "ja": "ズンが田中 PMO（白鷗）と Slack で時刻調整する場面。「明日10時」のあいまい表現から、「JST (ICT) 併記 + async + EOD handoff」のベストプラクティスへ。",
     "vi": "Em Dũng điều phối thời gian với anh Tanaka PMO (Hakuō) qua Slack. Từ 'mai 10h' mơ hồ sang thực hành tốt nhất 'JST (ICT) ghi cả 2 + async + EOD handoff'."
   },
-  "related_rules": ["rule_14", "rule_16", "rule_20"],
+  "related_rules": [
+    "rule_14",
+    "rule_16",
+    "rule_20"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -91,7 +95,10 @@
           "sentence": "田中さん、お疲れ様です。下記の時間帯で会議はいかがでしょうか？2026/4/22 (火) 10:00-11:00 JST (= 08:00-09:00 ICT)、または 2026/4/22 (火) 14:00-15:00 JST (= 12:00-13:00 ICT)。ご都合が合う方を、明日の朝 (JST) までにお返事いただければ幸いです。",
           "sentence_translation": "Anh Tanaka, em chào anh ạ. Khung giờ dưới đây họp được không ạ? 22/4/2026 (T3) 10:00-11:00 JST (= 08:00-09:00 ICT), hoặc 22/4/2026 (T3) 14:00-15:00 JST (= 12:00-13:00 ICT). Phiền anh chọn giúp em và phản hồi trước sáng mai (JST) ạ.",
           "tone": "formal",
-          "annotation_ids": ["1", "2"]
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
         },
         {
           "line_id": "rule_21_good_02",
@@ -110,7 +117,9 @@
           "sentence": "【EOD Handoff VN→JP】Done today: API修正完了 / Pending JP review: PR #234 / JP team が朝確認: ① 仕様書 v3 セクション3、② デモ動画リンク / 緊急時: トゥアン (+84-...) または ズン (24h reachable)。",
           "sentence_translation": "[EOD Handoff VN→JP] Done today: sửa API xong / Chờ JP review: PR #234 / JP team sáng check: ① spec v3 section 3, ② link video demo / Khẩn: anh Tuấn (+84-...) hoặc Dũng (24h reachable).",
           "tone": "neutral",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_21_good_04",
@@ -149,12 +158,12 @@
       "skill": "表現読解",
       "question_ja": "VN-JP cross-timezone Slack で時刻を伝える最も適切な表現は？",
       "options": [
-        "明日10時から",
-        "夕方頃に",
         "2026/4/22 (火) 10:00 JST (= 08:00 ICT)",
-        "業務時間内に"
+        "明日10時から",
+        "業務時間内に",
+        "夕方頃に"
       ],
-      "correct": "C",
+      "correct": "A",
       "explanation": {
         "ja": "cross-timezone では JST (ICT) を必ず併記。「明日」「夕方」のような相対時刻は両国で異なる解釈を生む。",
         "vi": "Cross-timezone phải ghi cả JST và ICT. 「明日」「夕方」 là giờ tương đối, mỗi nước hiểu khác nhau."

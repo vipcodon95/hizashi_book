@@ -9,7 +9,11 @@
     "ja": "ズンが2週間定例の電話で松本PMへ Phase 2 状況を報告する場面。formal 度を1段上げ、社内の役職呼びを外し、ジャーゴンには日本語説明を添える。",
     "vi": "Em Dũng báo cáo Phase 2 cho anh Matsumoto qua phone (định kỳ 2 tuần). Nâng formal level lên 1 bậc, bỏ title đồng nghiệp Việt, jargon kèm giải thích tiếng Nhật."
   },
-  "related_rules": ["rule_03", "rule_06", "rule_08"],
+  "related_rules": [
+    "rule_03",
+    "rule_06",
+    "rule_08"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -100,7 +104,9 @@
           "sentence": "松本様、お時間頂戴し申し訳ございません。Phase 2 進捗のご報告でございます。",
           "sentence_translation": "Anh Matsumoto, em xin lỗi anh dành thời gian. Em xin báo cáo tiến độ Phase 2 ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_11_good_02",
@@ -110,7 +116,10 @@
           "sentence": "結論：予定通り進捗、画面ロードは1.2秒から0.4秒まで改善。弊社のトゥアンが技術検証を完了し、自動テストの仕組み(CI/CD)も整いました。",
           "sentence_translation": "Kết luận: tiến độ đúng kế hoạch, load màn hình cải thiện từ 1.2s xuống 0.4s. Anh Tuấn bên em đã hoàn thành kiểm chứng kỹ thuật, cơ chế tự động test (CI/CD) cũng đã sẵn sàng ạ.",
           "tone": "formal",
-          "annotation_ids": ["2", "3"]
+          "annotation_ids": [
+            "2",
+            "3"
+          ]
         },
         {
           "line_id": "rule_11_good_03",
@@ -158,12 +167,12 @@
       "skill": "表現読解",
       "question_ja": "重要顧客の松本様に対して、社内の同僚トゥアン氏を紹介する最も適切な表現は？",
       "options": [
+        "トゥアンリーダー",
         "弊社のトゥアンリーダー",
         "うちのトゥアンさん",
-        "弊社のトゥアン",
-        "トゥアンリーダー"
+        "弊社のトゥアン"
       ],
-      "correct": "C",
+      "correct": "D",
       "explanation": {
         "ja": "ウチ・ソト原則：社外の人に対して社内同僚を呼ぶときは役職敬称を外し「弊社の〇〇」と表現する。",
         "vi": "Nguyên tắc ウチ・ソト: khi nói với người ngoài, gọi đồng nghiệp nội bộ phải bỏ title chức vụ, dùng 「弊社の〇〇」."

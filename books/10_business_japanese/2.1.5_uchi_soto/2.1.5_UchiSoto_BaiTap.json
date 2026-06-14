@@ -252,10 +252,10 @@
         "A": "こちらは弊社の田中部長でいらっしゃいます。",
         "B": "こちらは弊社の部長の田中でございます。",
         "C": "こちらは田中部長様です。どうぞよろしくお願いいたします。",
-        "D": "こちらが弊社の田中部長でございます。"
+        "D": "こちらが弊社の田中部長がいらっしゃいます。"
       },
       "answer": "B",
-      "explanation_vn": "「弊社の部長の田中でございます」= ĐÚNG. ①「弊社」(khiêm xưng cho công ty mình). ②「部長の田中」— chức danh xuất hiện nhưng là để GIỚI THIỆU (thông tin về người), không phải kính ngữ. ③「でございます」= khiêm ngữ. (A) 「でいらっしゃいます」= tôn kính cho Uchi → SAI. (D) 「田中部長でございます」= cũng OK nhưng ít trang trọng hơn (B). (C) 「田中部長様」= SAI.",
+      "explanation_vn": "「弊社の部長の田中でございます」= ĐÚNG. ①「弊社」(khiêm xưng cho công ty mình). ②「部長の田中」— chức danh xuất hiện nhưng là để GIỚI THIỆU (thông tin về người), không phải kính ngữ. ③「でございます」= khiêm ngữ. (A) 「でいらっしゃいます」= tôn kính cho Uchi → SAI. (D) 「田中部長がいらっしゃいます」= dùng tôn kính ngữ いらっしゃる cho người Uchi + sai trợ từ → SAI. (C) 「田中部長様」= thừa 様 sau chức danh + tôn kính Uchi → SAI.",
       "tip": "Giới thiệu người Uchi với Soto: 「こちらは弊社の[chức vụ]の[tên]でございます」— chức vụ là thông tin, でございます là mức tôn trọng với khách đang nghe."
     },
     {
@@ -578,7 +578,7 @@
         "D": "3個"
       },
       "answer": "D",
-      "explanation_vn": "Có 3 lỗi: ①「佐藤部長様」= 様 cho người Uchi (đang nói với Soto) — SAI. ②「おっしゃっておられました」= 「おっしゃる」(tôn kính ngữ của 言う) dùng cho Uchi — SAI. ③「おられました」= いる (tôn kính của おる trong tiếng Kansai/văn nói) + 「おっしゃっておられる」= 二重敬語 (chồng kính ngữ) — SAI. Đúng hoàn toàn: 「弊社の佐藤が申しておりました」",
+      "explanation_vn": "Có 3 lỗi: ①「佐藤部長様」= thêm 様 cho người Uchi (đang nói với Soto) — SAI. ②「おっしゃる」(tôn kính ngữ của 言う) dùng cho Uchi — SAI (phải hạ thấp người Uchi). ③「おっしゃっておられる」= đặt おられる (tôn kính) chồng lên おっしゃる (vốn đã là tôn kính) → 二重敬語 (kính ngữ kép) — SAI. Đúng hoàn toàn: 「弊社の佐藤が申しておりました」(bỏ 様/部長, dùng khiêm ngữ 申す cho Uchi).",
       "tip": "Chuỗi lỗi thường gặp: 様(cho Uchi) + おっしゃる(cho Uchi) + おられる(tôn kính thêm) = 3 lỗi. Sửa thành: [tên] + 申す/言う + おる."
     },
     {
@@ -612,7 +612,7 @@
         "D": "（ア）（イ）（ウ）（エ）すべて正しい"
       },
       "answer": "A",
-      "explanation_vn": "（ア）「田中部長はただいま外出しております」= ĐÚNG. 「外出しております」= khiêm cho Uchi (dù nói với ngoài). Lưu ý: 「田中部長は」còn chức danh nhưng với khách, giữ 部長 để khách biết người họ cần nói chuyện — chấp nhận được. （イ）「A社の鈴木様がお見えになりました」= ĐÚNG. お見えになる = tôn kính của 来る — dùng cho Soto (khách đến). （ウ）「山田がご案内いたします」= ĐÚNG. Bỏ さん, khiêm ngữ. （エ）「部長がいらっしゃいます」= LỖI. いらっしゃる cho Uchi (bộ phận Soto).",
+      "explanation_vn": "（ア）「田中部長はただいま外出しております」= ĐÚNG ở phần kính ngữ: 「外出しております」= khiêm ngữ cho Uchi (dù nói với ngoài). Lưu ý về 「田中部長」: cách chuẩn mực nhất khi nói với Soto là bỏ chức danh (「田中はただいま…」); tuy nhiên việc giữ 「部長」để khách định danh đúng người được xem là chấp nhận được trong thực tế lễ tân — không phải chuẩn vàng nhưng không bị tính là lỗi kính ngữ ở đây. （イ）「A社の鈴木様がお見えになりました」= ĐÚNG. お見えになる = tôn kính của 来る cho Soto (khách đến). （ウ）「山田がご案内いたします」= ĐÚNG. Bỏ さん, dùng khiêm ngữ. （エ）「部長がいらっしゃいます」= LỖI. いらっしゃる là tôn kính ngữ, không dùng cho Uchi.",
       "tip": "Bộ từ chuẩn: Khách đến → 「お見えになる/いらっしゃる」. Sếp vắng → 「外出しております/席を外しております」. Nhân viên hành động → 「〜いたす」."
     },
     {
@@ -697,7 +697,7 @@
         "D": "弊社の田中社長が来週参りたいと申し上げています。"
       },
       "answer": "B",
-      "explanation_vn": "「弊社の田中が来週お伺いしたいと申しております」= ĐÚNG HOÀN TOÀN. ①「弊社の田中」= bỏ 社長/様, gọi bằng tên (Uchi nói với Soto). ②「お伺いしたい」= 伺う là khiêm ngữ của 訪ねる/行く (Tanaka đến thăm = hành động của Uchi). ③「申しております」= 言う (khiêm ngữ, おる = trang thái hiện tại). (A) 「お伺いになる」= tôn kính → SAI cho Uchi. (C) 「田中社長様」+「いらっしゃいたい」= 3 lỗi. (D) 「申し上げる」= 言う hướng đến bề trên → không phù hợp ở đây.",
+      "explanation_vn": "「弊社の田中が来週お伺いしたいと申しております」= ĐÚNG HOÀN TOÀN. ①「弊社の田中」= bỏ 社長/様, gọi bằng tên (Uchi nói với Soto). ②「お伺いしたい」= 伺う là khiêm ngữ của 訪ねる/行く (Tanaka đến thăm = hành động của Uchi). ③「申しております」= 言う (khiêm ngữ, おる = trạng thái hiện tại). (A) 「お伺いになる」= tôn kính → SAI cho Uchi. (C) 「田中社長様」+「いらっしゃいたい」= nhiều lỗi (様 thừa + tôn kính cho Uchi). (D) SAI chủ yếu vì 「弊社の田中社長」còn giữ chức danh 社長 khi nói về Uchi với Soto (phải bỏ → 「弊社の田中」); ngoài ra 申し上げる thiên về 'thưa trình với bề trên', ở câu báo cáo điện thoại thông thường thì 申しております tự nhiên hơn.",
       "tip": "Câu chuẩn khi thông báo chuyến thăm của Uchi với Soto: 「弊社の[tên]が〜にお伺いしたいと申しております」— Tất cả đều khiêm ngữ."
     }
   ]

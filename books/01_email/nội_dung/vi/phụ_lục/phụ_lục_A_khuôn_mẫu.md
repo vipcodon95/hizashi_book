@@ -156,7 +156,7 @@ Em thông báo đổi giờ buổi họp Bình Minh đã hẹn thứ Ba 20/05:
 Lý do: Chị Hương có lịch bay đi Đà Nẵng lúc 16:00 cùng ngày, dời
 sớm lên buổi sáng để chị kịp thời gian ra sân bay.
 
-Google Calendar em đã update — các anh chị vui lòng confirm lại.
+Google Calendar em đã cập nhật — các anh chị vui lòng xác nhận lại.
 
 Anh chị nào không dự được giờ mới, báo em trước 13/05 để em sắp xếp
 tham dự từ xa hoặc gửi ghi âm.

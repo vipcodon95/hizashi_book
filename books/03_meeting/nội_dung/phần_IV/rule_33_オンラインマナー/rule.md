@@ -1,6 +1,6 @@
 # Rule 33 — Online meeting mute/unmute etiquette / オンライン会議のマナー
 
-> **Luận điểm.** Online meeting có 4 quy tắc bất thành văn ở Nhật: (1) **mặc định mute** khi không nói, (2) **camera-on khi phát biểu**, (3) **raise-hand** trên app thay vì cắt lời, (4) **không cắt lời** vì lag delay. Bỏ qua = unprofessional ngay từ phút đầu.
+> **Luận điểm.** Online meeting có 4 quy tắc bất thành văn ở Nhật: (1) **mặc định mute** khi không nói, (2) **camera-on khi phát biểu**, (3) **raise-hand** trên app thay vì cắt lời, (4) **không cắt lời** vì lag delay. Bỏ qua = thiếu chuyên nghiệp ngay từ phút đầu.
 >
 > オンライン会議4原則：①既定でミュート、②発言時カメラオン、③挙手機能で発言要求、④遅延を考慮し割り込まない。
 >
@@ -20,13 +20,18 @@ Họp Zoom định kỳ tháng 4. Em Linh (nhân viên mới) là một trong 8 
 
 | Vai | Câu |
 |---------|-----|
-| **松本** | 「では、進捗報告から始めます。まずズンさんお願いします。」 |
+| **松本** | 「では、<ruby>進捗<rt>しんちょく</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>めます。まずズンさんお<ruby>願<rt>ねが</rt></ruby>いします。」 |
+|  | *Vậy mình bắt đầu từ phần báo cáo tiến độ. Đầu tiên phiền Dũng nhé.* |
 |  | 「カチカチカチ…」 |
-| **ズン** | 「4月の進捗ですが…」 |
-| **リン** | 「ズンさん、その数字って合ってます？」 *(camera off, không thấy mặt)* |
+|  | *(Lạch cạch lạch cạch...)* |
+| **ズン** | 「4<ruby>月<rt>がつ</rt></ruby>の<ruby>進捗<rt>しんちょく</rt></ruby>ですが…」 |
+|  | *Về tiến độ tháng 4...* |
+| **リン** | 「ズンさん、その<ruby>数字<rt>すうじ</rt></ruby>って<ruby>合<rt>あ</rt></ruby>ってます？」 *(camera off, không thấy mặt)* |
+|  | *Anh Dũng, số đó đúng không ạ?* |
 | **松本** | 「…どなたでしょうか？」 |
+|  | *...Ai vậy nhỉ?* |
 
-**Vì sao xấu:** (a) Tiếng gõ phím làm phiền cả họp. (b) Cắt lời. (c) Camera-off khi phát biểu = đối phương không biết là ai → mất context.
+**Vì sao xấu:** (a) Tiếng gõ phím làm phiền cả họp. (b) Cắt lời. (c) Camera-off khi phát biểu = đối phương không biết là ai → mất ngữ cảnh.
 
 ---
 
@@ -37,16 +42,20 @@ Họp Zoom định kỳ tháng 4. Em Linh (nhân viên mới) là một trong 8 
 | Vai | Câu |
 |---------|-----|
 | **松本** | 「では、進捗報告から始めます。まずズンさんお願いします。」 |
+|  | *Vậy mình bắt đầu từ phần báo cáo tiến độ. Đầu tiên phiền Dũng nhé.* |
 | **ズン** | 「4月の進捗ですが…」 |
+|  | *Về tiến độ tháng 4...* |
 | **リン** 🖐️ |  |
-| **松本** | 「リンさん、何か質問でしょうか？」 |
-| **リン** 【1】 | 「失礼します。リンでございます【2】。先ほどの数字について、確認させていただきたい点がございます。」 |
+| **松本** | 「リンさん、<ruby>何<rt>なに</rt></ruby>か<ruby>質問<rt>しつもん</rt></ruby>でしょうか？」 |
+|  | *Linh có câu hỏi gì à?* |
+| **リン** 【1】 | 「<ruby>失礼<rt>しつれい</rt></ruby>します。リンで<ruby>御座<rt>ござ</rt></ruby>います【2】。<ruby>先<rt>さき</rt></ruby>ほどの<ruby>数字<rt>すうじ</rt></ruby>について、<ruby>確認<rt>かくにん</rt></ruby>させていただきたい<ruby>点<rt>てん</rt></ruby>がございます。」 |
+|  | *Em xin phép ạ. Em là Linh ạ. Em có 1 điểm muốn xin xác nhận về số liệu vừa rồi ạ.* |
 | **リン** 【3】 |  |
 
 📝 **Ghi chú:**
 - 【1】**Bật camera + unmute khi phát biểu** — đối phương cần thấy mặt + nghe rõ.
-- 【2】**Tự xưng tên trước khi nói** — khi online, nhiều người không nhớ giọng. Nói tên giúp anyone nghe biết là ai → ghi biên bản chính xác.
-- 【3】**Mute lại sau khi nói xong** — tiếng background (gõ phím, gia đình, xe ngoài) sẽ làm phiền.
+- 【2】**Tự xưng tên trước khi nói** — khi online, nhiều người không nhớ giọng. Nói tên giúp ai nghe cũng biết là ai → ghi biên bản chính xác.
+- 【3】**Mute lại sau khi nói xong** — tiếng ồn nền (gõ phím, gia đình, xe ngoài) sẽ làm phiền.
 
 ---
 
@@ -58,10 +67,10 @@ Họp Zoom định kỳ tháng 4. Em Linh (nhân viên mới) là một trong 8 
 
 ## ⚠ Tránh
 
-- Để mic on cả họp → tiếng noise.
+- Để mic on cả họp → tiếng ồn nền.
 - Camera off cả buổi → đối phương cảm giác không có mặt.
 - Cắt lời (online lag delay 0.5-1s → chồng tiếng).
-- Không tự giới thiệu tên → khó identify ai nói gì.
+- Không tự giới thiệu tên → khó nhận biết ai nói gì.
 
 ---
 

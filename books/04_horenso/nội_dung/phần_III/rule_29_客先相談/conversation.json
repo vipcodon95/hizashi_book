@@ -9,7 +9,11 @@
     "ja": "ズンが松本様に Phase 2 UAT 進め方（線形 vs 段階的）を相談する場面。Slack の casual トーンから、メールの最高敬語 + 焦点絞り + 候補打診型へ。",
     "vi": "Em Dũng tham vấn anh Matsumoto về cách triển khai UAT Phase 2 (linear vs incremental). Từ Slack tone casual → email formal cao + focus 1 axis + hỏi 候補 thay vì áp giờ."
   },
-  "related_rules": ["rule_24", "rule_25", "rule_30"],
+  "related_rules": [
+    "rule_24",
+    "rule_25",
+    "rule_30"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -107,7 +111,11 @@
           "sentence": "松本様、お世話になっております。ティエンファットのズンでございます。件名【ご相談】Phase 2 UAT 進め方について。Phase 2 の UAT を進めるにあたり、線形(全機能一括)か段階的(機能毎リリース)かで方針を絞りきれず、ご相談させていただけますでしょうか。特にお伺いしたいのは、御社運用チームの検証リソース確保のしやすさでございます。ご都合よろしい時に15分ほどお時間頂戴できますと幸甚です。今週後半 (4/24木 PM ~ 4/26土) のうち、ご都合の良い候補を3つお知らせいただけますと幸いです。",
           "sentence_translation": "Anh Matsumoto, em xin chào. Em Dũng bên Thiên Phát đây ạ. [Tiêu đề] [Tham vấn] Về cách triển khai UAT Phase 2. Khi triển khai UAT Phase 2, em đang phân vân giữa linear (toàn bộ chức năng 1 lần) và incremental (release theo chức năng), em xin được tham vấn anh ạ. Đặc biệt em muốn hỏi về độ thuận tiện trong việc bố trí resource kiểm thử của team vận hành bên anh ạ. Anh dành cho em 15 phút khi nào tiện ạ. Trong nửa cuối tuần này (24/4 thứ Năm chiều - 26/4 thứ Bảy), phiền anh báo giúp em 3 lựa chọn thuận tiện ạ.",
           "tone": "formal",
-          "annotation_ids": ["1", "2", "3"]
+          "annotation_ids": [
+            "1",
+            "2",
+            "3"
+          ]
         },
         {
           "line_id": "rule_29_good_02",
@@ -126,7 +134,9 @@
           "sentence": "松本様、本日はお時間頂戴し誠にありがとうございます。それでは、UAT 進め方についてご相談させていただきます。",
           "sentence_translation": "Anh Matsumoto, em cảm ơn anh đã dành thời gian hôm nay ạ. Vậy em xin phép tham vấn về cách triển khai UAT ạ.",
           "tone": "formal",
-          "annotation_ids": ["4"]
+          "annotation_ids": [
+            "4"
+          ]
         }
       ]
     }
@@ -164,12 +174,12 @@
       "skill": "表現読解",
       "question_ja": "客先に相談する際、最も適切な切り出しは?",
       "options": [
-        "ちょっと相談したいんですが",
         "相談に乗ってもらえますか",
-        "ご相談させていただけますでしょうか",
-        "教えてください"
+        "教えてください",
+        "ちょっと相談したいんですが",
+        "ご相談させていただけますでしょうか"
       ],
-      "correct": "C",
+      "correct": "D",
       "explanation": {
         "ja": "客先相談は謙譲語『させていただく』+ 丁寧語『でしょうか』の二重敬語が標準。社内 casual トーンとは明確に分けるべき。",
         "vi": "Tham vấn với khách phải khiêm nhường 「させていただく」 + lịch sự 「でしょうか」 ghép đôi. Phải tách bạch khỏi tone casual nội bộ."

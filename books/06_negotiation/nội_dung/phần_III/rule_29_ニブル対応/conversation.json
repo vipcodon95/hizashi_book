@@ -9,7 +9,10 @@
     "ja": "Phase 3 contract draft フェーズで Tanaka PMO が training 1 日無料を要求 (nibble)。Dũng が trade option + reset clock で防御する場面。",
     "vi": "Phase contract draft, anh Tanaka PMO Slack đòi training 1 ngày miễn phí (nibble). Dũng dùng trade option + reset clock để chặn."
   },
-  "related_rules": ["rule_24", "rule_09"],
+  "related_rules": [
+    "rule_24",
+    "rule_09"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -105,7 +108,10 @@
           "sentence": "お声がけありがとうございます。training 1 日 (¥0.4M 相当) は当初の契約 scope 外となります。社内 training をご希望でしたら、以下 2 案: (A) 有償で ¥0.4M 追加、(B) 既存 scope 内で AI dashboard カスタムを 1 機能 trade、トータル金額不変。",
           "sentence_translation": "Cảm ơn em đã liên hệ. Training 1 ngày (tương đương ¥0.4M) nằm ngoài scope hợp đồng ban đầu. Nếu phía em muốn training nội bộ, có 2 phương án: (A) Có phí, thêm ¥0.4M, (B) Trade 1 chức năng AI dashboard custom trong scope hiện tại, tổng tiền không đổi ạ.",
           "tone": "formal",
-          "annotation_ids": ["1", "2"]
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
         },
         {
           "line_id": "rule_29_good_03",
@@ -115,7 +121,9 @@
           "sentence": "なお、追加要素のご検討に際しては全体合意の再 review が必要となるため、契約締結スケジュールが 1 週間後ろ倒しとなる可能性があります。ご都合をお聞かせください。",
           "sentence_translation": "Thêm nữa, để xem xét yếu tố bổ sung này thì cần review lại toàn bộ thỏa thuận, có thể schedule ký hợp đồng sẽ lùi 1 tuần. Em xin nghe ý anh ạ.",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_29_good_04",
@@ -154,12 +162,12 @@
       "skill": "発言聴解",
       "question_ja": "契約 closing 直前の nibble (「ついでに training 1 日無料で」) への最適対応は？",
       "options": [
-        "「サービスで含めます」と無償提供",
         "trade option (有償 or scope swap) + 全体 re-review で reset clock",
-        "「無理です」と一蹴",
-        "上司に丸投げ"
+        "「サービスで含めます」と無償提供",
+        "上司に丸投げ",
+        "「無理です」と一蹴"
       ],
-      "correct": "B",
+      "correct": "A",
       "explanation": {
         "ja": "trade で対応しつつ reset clock(全体再review+schedule slip)を伝えれば、相手は通常自ら撤回。無償受けは leak の連鎖。",
         "vi": "Trade rồi reset clock (review toàn bộ + slip schedule), khách thường tự rút. Nhận miễn phí là chuỗi leak."

@@ -21,12 +21,16 @@ Tháng 5/2026, Phase 3 với 白鷗 sắp khởi động. Anh Hà CTO giao Dũng
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、Phase 3 のプレゼン、もう15枚作りました。レビューお願いします！」 |
-| **フオン** | 「えっと、これ誰向け？大垣さん？松本さん？両方？」 |
-| **ズン** | 「えっ…両方かと…思います。」 |
-| **フオン** | 「決めたいのは何？スコープ？金額？スケジュール？それも分かってない？じゃあスライド全部閉じて。**準備の7問**から始めよう。」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、Phase 3 のプレゼン、もう15<ruby>枚<rt>まい</rt></ruby><ruby>作<rt>つく</rt></ruby>りました。レビューお<ruby>願<rt>ねが</rt></ruby>いします！」 |
+|  | *Chị Hương, em đã làm xong 15 slide pitch Phase 3 rồi! Phiền chị review giúp em ạ!* |
+| **フオン** | 「えっと、これ<ruby>誰<rt>だれ</rt></ruby><ruby>向<rt>む</rt></ruby>け？<ruby>大垣<rt>おおがき</rt></ruby>さん？<ruby>松本<rt>まつもと</rt></ruby>さん？<ruby>両方<rt>りょうほう</rt></ruby>？」 |
+|  | *Ờ... cái này pitch cho ai? Anh Ōgaki? Anh Matsumoto? Hay cả hai?* |
+| **ズン** | 「えっ…<ruby>両方<rt>りょうほう</rt></ruby>かと…<ruby>思<rt>おも</rt></ruby>います。」 |
+|  | *Ơ... em nghĩ là cả hai ạ...* |
+| **フオン** | 「<ruby>決<rt>き</rt></ruby>めたいのは<ruby>何<rt>なに</rt></ruby>？スコープ？<ruby>金額<rt>きんがく</rt></ruby>？スケジュール？それも<ruby>分<rt>わ</rt></ruby>かってない？じゃあスライド<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>閉<rt>と</rt></ruby>じて。**<ruby>準備<rt>じゅんび</rt></ruby>の7<ruby>問<rt>もん</rt></ruby>**から<ruby>始<rt>はじ</rt></ruby>めよう。」 |
+|  | *Còn quyết cái gì? Scope? Giá? Schedule? Cũng không rõ? Vậy đóng hết slide đi. Bắt đầu lại từ 7 câu hỏi chuẩn bị.* |
 
-**Vì sao xấu:** Dũng nhảy vào thiết kế khi chưa trả lời được câu cốt lõi. 15 slide đẹp nhưng không có message thì cũng vứt — phải redo từ đầu, mất 1 ngày làm vô ích.
+**Vì sao xấu:** Dũng nhảy vào thiết kế khi chưa trả lời được câu cốt lõi. 15 slide đẹp nhưng không có thông điệp thì cũng vứt — phải làm lại từ đầu, mất 1 ngày làm vô ích.
 
 ---
 
@@ -36,20 +40,24 @@ Tháng 5/2026, Phase 3 với 白鷗 sắp khởi động. Anh Hà CTO giao Dũng
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、Phase 3 プレゼンの **準備 7問**を埋めました【1】。レビューいただけますでしょうか？」 |
-| **フオン** | 「いいね、let me see... ①対象=大垣・松本、②決めたい=Phase 3 スコープ合意、③時間=30分+15分Q&A、⑥リスク=価格反対、⑦バックアップ=PDF＋オフラインデモ。問題ない、これで設計開始していいよ。」 |
-| **ズン** | 「ありがとうございます。⑤アウトプットを **『Phase 3 スコープ＋金額レンジ合意』** と書きましたが、合意までいかなくても **方向性決定**で十分でしょうか？【2】」 |
-| **フオン** | 「いい質問。**方向性決定**の方が現実的。1回のプレゼンで金額完全合意は難しい。書き直して。」 |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、Phase 3 プレゼンの **<ruby>準備<rt>じゅんび</rt></ruby> 7<ruby>問<rt>もん</rt></ruby>**を<ruby>埋<rt>う</rt></ruby>めました【1】。レビューいただけますでしょうか？」 |
+|  | *Chị Hương, em đã fill xong 7 câu hỏi chuẩn bị cho pitch Phase 3 ạ. Phiền chị review giúp em được không ạ?* |
+| **フオン** | 「いいね、let me see... ①<ruby>対象<rt>たいしょう</rt></ruby>=<ruby>大垣<rt>おおがき</rt></ruby>・<ruby>松本<rt>まつもと</rt></ruby>、②<ruby>決<rt>き</rt></ruby>めたい=Phase 3 スコープ<ruby>合意<rt>ごうい</rt></ruby>、③<ruby>時間<rt>じかん</rt></ruby>=30<ruby>分<rt>ふん</rt></ruby>+15<ruby>分<rt>ふん</rt></ruby>Q&A、⑥リスク=<ruby>価格<rt>かかく</rt></ruby><ruby>反対<rt>はんたい</rt></ruby>、⑦バックアップ=PDF＋オフラインデモ。<ruby>問題<rt>もんだい</rt></ruby>ない、これで<ruby>設計<rt>せっけい</rt></ruby><ruby>開始<rt>かいし</rt></ruby>していいよ。」 |
+|  | *Tốt, để chị xem... ① đối tượng = Ōgaki + Matsumoto, ② quyết = thống nhất scope Phase 3, ③ thời gian = 30 phút + 15 phút Q&A, ⑥ rủi ro = phản đối giá, ⑦ backup = PDF + demo offline. Ổn, em bắt đầu design được rồi.* |
+| **ズン** | 「ありがとうございます。⑤アウトプットを **『Phase 3 スコープ＋<ruby>金額<rt>きんがく</rt></ruby>レンジ<ruby>合意<rt>ごうい</rt></ruby>』** と<ruby>書<rt>か</rt></ruby>きましたが、<ruby>合意<rt>ごうい</rt></ruby>までいかなくても **<ruby>方向性<rt>ほうこうせい</rt></ruby><ruby>決定<rt>けってい</rt></ruby>**で<ruby>十分<rt>じゅうぶん</rt></ruby>でしょうか？【2】」 |
+|  | *Em cảm ơn chị ạ. Em ghi ⑤ output = 'thống nhất scope + range giá Phase 3', nhưng nếu không chốt được thỏa thuận, chỉ cần quyết được hướng đi cũng OK chứ ạ?* |
+| **フオン** | 「いい<ruby>質問<rt>しつもん</rt></ruby>。**<ruby>方向性<rt>ほうこうせい</rt></ruby><ruby>決定<rt>けってい</rt></ruby>**の<ruby>方<rt>ほう</rt></ruby>が<ruby>現実的<rt>げんじつてき</rt></ruby>。1<ruby>回<rt>かい</rt></ruby>のプレゼンで<ruby>金額<rt>きんがく</rt></ruby><ruby>完全<rt>かんぜん</rt></ruby><ruby>合意<rt>ごうい</rt></ruby>は<ruby>難<rt>むずか</rt></ruby>しい。<ruby>書<rt>か</rt></ruby>き<ruby>直<rt>なお</rt></ruby>して。」 |
+|  | *Câu hỏi tốt đấy. Quyết hướng đi thì realistic hơn. Một buổi pitch khó mà chốt giá toàn bộ. Em sửa lại nhé.* |
 
 📝 **Ghi chú:**
-- 【1】**「準備の7問」** — checklist phải fill in TRƯỚC khi mở PowerPoint. Mỗi câu 1 dòng, total 5-10 phút.
-- 【2】**「合意までいかなくても」** — Dũng tự kiểm tra realistic của output. JP business **kỵ** "over-promise" → Hương khen.
+- 【1】**「準備の7問」** — checklist phải điền TRƯỚC khi mở PowerPoint. Mỗi câu 1 dòng, tổng cộng 5-10 phút.
+- 【2】**「合意までいかなくても」** — Dũng tự kiểm tra tính thực tế của output. Văn hóa công việc Nhật **kỵ** kiểu "hứa quá lời" → Hương khen.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「準備の7問に答えられないうちは PowerPoint を開かない。」**
+> **「<ruby>準備<rt>じゅんび</rt></ruby>の7<ruby>問<rt>もん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えられないうちは PowerPoint を<ruby>開<rt>ひら</rt></ruby>かない。」**
 >
 > *Chưa trả lời được 7 câu thì chưa được mở PowerPoint. Slide đẹp + message sai = vứt.*
 
@@ -60,37 +68,37 @@ Tháng 5/2026, Phase 3 với 白鷗 sắp khởi động. Anh Hà CTO giao Dũng
 ```
 【プレゼン準備チェックリスト】
 
-① 誰に？(Audience)
+① 誰に？(Audience / Đối tượng)
    - 主聴衆: ____  (役職・社名・関係性)
    - 副聴衆: ____
    - 不在の意思決定者: ____
 
-② 何を決めたい？(Decision target)
+② 何を決めたい？(Decision target / Mục tiêu quyết định)
    - 本日の合意ゴール: ____  (1文で)
    - 妥協可能ライン: ____
    - 絶対に譲れないライン: ____
 
-③ 時間 (Time)
+③ 時間 (Time / Thời gian)
    - 持ち時間: ____ 分
    - うち Q&A: ____ 分
    - 1スライド当たり: ____ 秒(目安)
 
-④ 場所 (Setting)
+④ 場所 (Setting / Địa điểm)
    - 対面 / オンライン / ハイブリッド
    - 機材: PC・プロジェクター・マイク
    - 接続テスト: ____ (時刻)
 
-⑤ 期待されるアウトプット (Output)
+⑤ 期待されるアウトプット (Output / Đầu ra mong đợi)
    - 主アウトプット: ____  (例: スコープ合意 / 方向性決定 / 検討開始)
    - 副アウトプット: ____  (例: 次回会議日決定)
    - NG ライン: ____  (これ以下なら失敗)
 
-⑥ リスク (Risk)
+⑥ リスク (Risk / Rủi ro)
    - リスク1: ____ → 対策: ____
    - リスク2: ____ → 対策: ____
    - リスク3: ____ → 対策: ____
 
-⑦ バックアップ (Backup)
+⑦ バックアップ (Backup / Dự phòng)
    - スライド: PDF版 USB+クラウド
    - デモ: オフライン版
    - インターネット: モバイルテザリング
@@ -100,10 +108,10 @@ Tháng 5/2026, Phase 3 với 白鷗 sắp khởi động. Anh Hà CTO giao Dũng
 
 ## ⚠ Tránh
 
-- Mở PowerPoint trước khi fill 7問 → 90% sẽ phải redo
-- Để trống ⑤ output → không biết success criteria
-- Bỏ qua ⑥ risk + ⑦ backup → vào pitch với mind 100% optimistic
-- Output quá tham vọng (vd "100% confirm contract trong 30 phút") → không realistic
+- Mở PowerPoint trước khi điền 7問 → 90% sẽ phải làm lại
+- Để trống ⑤ output → không biết tiêu chí thành công
+- Bỏ qua ⑥ rủi ro + ⑦ dự phòng → vào pitch với tâm thế lạc quan 100%
+- Output quá tham vọng (vd "chốt 100% hợp đồng trong 30 phút") → không thực tế
 
 ---
 

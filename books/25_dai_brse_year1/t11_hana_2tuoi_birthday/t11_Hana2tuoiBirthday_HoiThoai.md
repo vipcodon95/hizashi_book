@@ -71,7 +71,7 @@
 | Tony | (Osaka-ben) ダイ!Hizashi、その<ruby>後<rt>あと</rt></ruby><ruby>調子<rt>ちょうし</rt></ruby>はどうや?<br>*(Đại, sau đó Hizashi thế nào rồi?)* |
 | Đại | お<ruby>陰<rt>かげ</rt></ruby>さまで<ruby>順調<rt>じゅんちょう</rt></ruby>です。<ruby>今月<rt>こんげつ</rt></ruby>のMRRは¥1.67M、<ruby>有料<rt>ゆうりょう</rt></ruby>ユーザーは1,700<ruby>人<rt>にん</rt></ruby>になりました。<br>*(Nhờ ông bà, mọi việc thuận lợi. MRR tháng này ¥1.67M, paid user 1.700 người ạ.)* |
 | Yumi | (Osaka-ben) <ruby>素晴<rt>すば</rt></ruby>らしいやん!Tony、あんたも<ruby>株主<rt>かぶぬし</rt></ruby>やで、<ruby>誇<rt>ほこ</rt></ruby>らしいやろ?<br>*(Tuyệt quá! Tony này, ông cũng là cổ đông đấy, tự hào không?)* |
-| Tony | (cười) わしの 0.5%、<ruby>今<rt>いま</rt></ruby><ruby>なんぼ<rt></rt></ruby>になっとるん?<br>*(0.5% của ông giờ bao nhiêu rồi?)* |
+| Tony | (cười) わしの 0.5%、<ruby>今<rt>いま</rt></ruby>なんぼになっとるん?<br>*(0.5% của ông giờ bao nhiêu rồi?)* |
 | Đại | (cười) Tony さん、プレシードの<ruby>評価額<rt>ひょうかがく</rt></ruby>は<ruby>投資後<rt>とうしご</rt></ruby>で¥2<ruby>億<rt>おく</rt></ruby>です。0.5%は<ruby>紙<rt>かみ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>で¥100<ruby>万<rt>まん</rt></ruby>です。シリーズAの<ruby>後<rt>あと</rt></ruby>は5〜10<ruby>倍<rt>ばい</rt></ruby>になる<ruby>可能性<rt>かのうせい</rt></ruby>があります。<br>*(Tony ơi, định giá pre-seed sau đầu tư là ¥200 triệu. 0.5% trên giấy là ¥1M. Sau Series A có thể nhân 5-10 lần.)* |
 | Tony | (Osaka-ben) <ruby>面白<rt>おもしろ</rt></ruby>いやないか!ダイ、わしの<ruby>分<rt>ぶん</rt></ruby>もよう<ruby>頑張<rt>がんば</rt></ruby>ってや!<br>*(Thú vị ta! Đại, ráng cả phần của ông luôn nhé!)* |
 | Đại | はい、<ruby>全力<rt>ぜんりょく</rt></ruby>で<ruby>頑張<rt>がんば</rt></ruby>ります。<br>*(Vâng, em sẽ cố hết sức.)* |
@@ -213,7 +213,7 @@
 | Tony | (Osaka-ben) ダイ!<ruby>今月末<rt>こんげつまつ</rt></ruby>でタンハー<ruby>辞<rt>や</rt></ruby>めるんやろ?Hizashiに<ruby>専念<rt>せんねん</rt></ruby>して、よう<ruby>頑張<rt>がんば</rt></ruby>るんやで!<br>*(Đại! Cuối tháng nghỉ Thanh A nhỉ? Tập trung Hizashi, ráng làm hết mình!)* |
 | Đại | はい、Tony さん。<ruby>必<rt>かなら</rt></ruby>ず<ruby>結果<rt>けっか</rt></ruby>を<ruby>出<rt>だ</rt></ruby>します。お<ruby>気<rt>き</rt></ruby>をつけてお<ruby>帰<rt>かえ</rt></ruby>りください。<br>*(Vâng Tony. Em chắc chắn sẽ ra kết quả. Ông bà về cẩn thận nhé.)* |
 | Yumi | (Osaka-ben) ダイ、<ruby>体<rt>からだ</rt></ruby>を<ruby>大事<rt>だいじ</rt></ruby>にせなあかんで。12<ruby>月<rt>がつ</rt></ruby>の<ruby>過労<rt>かろう</rt></ruby>みたいなん、<ruby>二度<rt>にど</rt></ruby>とあかんで!<br>*(Đại, giữ sức nhé. Đừng quá tải như tháng 12 nữa!)* |
-| Đại | はい、<ruby>奥<rt>つま</rt></ruby>と<ruby>約束<rt>やくそく</rt></ruby>しております。ご<ruby>安心<rt>あんしん</rt></ruby>ください。<br>*(Vâng, em đã hứa với vợ. Ông bà yên tâm.)* |
+| Đại | はい、<ruby>妻<rt>つま</rt></ruby>と<ruby>約束<rt>やくそく</rt></ruby>しております。ご<ruby>安心<rt>あんしん</rt></ruby>ください。<br>*(Vâng, em đã hứa với vợ. Ông bà yên tâm.)* |
 
 ---
 

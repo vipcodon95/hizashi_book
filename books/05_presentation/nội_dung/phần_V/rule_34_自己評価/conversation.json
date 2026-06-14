@@ -9,7 +9,10 @@
     "ja": "Phase 3 ピッチ翌朝。ズンは self-review skip して詳細メールに行こうとするが、フオンが12項目 rubric review を強要 → 3 strengths + 3 improvements + drill plan を抽出。",
     "vi": "Sáng sau pitch Phase 3. Dũng định bỏ qua tự đánh giá để viết mail chi tiết. Hương yêu cầu chấm 12 tiêu chí → rút ra 3 điểm mạnh + 3 điểm cần cải thiện + kế hoạch luyện."
   },
-  "related_rules": ["rule_28", "rule_35"],
+  "related_rules": [
+    "rule_28",
+    "rule_35"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -96,7 +99,9 @@
           "sentence": "Self-review 完了です。12項目平均 3.8/5。詳細はテンプレ添付。",
           "sentence_translation": "Em xong tự đánh giá ạ. Trung bình 12 tiêu chí là 3.8/5 ạ. Chi tiết em đính template ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_34_good_02",
@@ -107,7 +112,9 @@
           "sentence_translation": "3 strengths: ① áp dụng LASR (xử Q&A khó), ② chuyển Plan B (sự cố net recover 30s), ③ CTA 3 điểm rõ. 3 improvements: ① hook yếu (đưa data trễ), ② phần price challenge của anh Ōgaki, bridge phrase em chậm 1 giây, ③ closing recap em phân bổ time -2 phút.",
           "tone": "formal",
           "speed_multiplier": 0.95,
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_34_good_03",
@@ -126,7 +133,9 @@
           "sentence": "了解、5/2 までに hook drill + 5/8 までに bridge phrase 暗唱完了いたします。",
           "sentence_translation": "Em rõ ạ. Trước 2/5 em làm xong hook drill, trước 8/5 thuộc xong bridge phrase ạ.",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         }
       ]
     }
@@ -156,12 +165,12 @@
       "skill": "場面把握",
       "question_ja": "プレゼン後 self-review の最適 format は？",
       "options": [
+        "他人にだけ評価してもらう",
         "Skip — 時間がもったいない",
-        "12項目 rubric (4 cụm) を1-5 chấm + 3 strengths + 3 improvements + deadline 付 drill",
         "全部 NG として再修行",
-        "他人にだけ評価してもらう"
+        "12項目 rubric (4 cụm) を1-5 chấm + 3 strengths + 3 improvements + deadline 付 drill"
       ],
-      "correct": "B",
+      "correct": "D",
       "explanation": {
         "ja": "Quantitative + qualitative + actionable。3+3 で negative spiral 防止、deadline 付き drill で実装。",
         "vi": "Định lượng + định tính + actionable. 3+3 chống negative spiral, drill có deadline để execute."

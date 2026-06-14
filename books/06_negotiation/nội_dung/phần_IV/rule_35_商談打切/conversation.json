@@ -9,7 +9,10 @@
     "ja": "Phase 3 round 4 で大垣 ¥14M push、walk-away ライン以下。条件面 framing で打ち切り、 ご縁文言で door 残す場面。",
     "vi": "Phase 3 round 4: Ōgaki push ¥14M (dưới walk-away). Dũng walk-away phong nhã, blame 'condition', mở door bằng câu 'ご縁'."
   },
-  "related_rules": ["rule_28", "rule_36"],
+  "related_rules": [
+    "rule_28",
+    "rule_36"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -117,7 +120,9 @@
           "sentence_translation": "Thực sự xin lỗi anh, do điều kiện hai bên không đạt được, lần này em rất tiếc xin phép tạm gác lại ạ.",
           "tone": "apologetic",
           "speed_multiplier": 0.9,
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_35_good_04",
@@ -127,7 +132,9 @@
           "sentence": "¥14M は弊社の原価構造上、品質を維持しての提供が困難な水準でございます。半端な品質で御社にご迷惑をおかけする方が、長期的に良くないと判断いたしました。",
           "sentence_translation": "¥14M trên cấu trúc giá thành bên em, để giữ chất lượng thì khó cung cấp ạ. Em đánh giá rằng việc cung cấp chất lượng nửa vời gây phiền cho bên anh thì lâu dài không tốt cho cả 2.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_35_good_05",
@@ -137,7 +144,9 @@
           "sentence": "今後また御社のご状況・ご予算が変わられた際、ご縁がございましたら、ぜひお声がけください。本日は貴重なお時間をいただき、誠にありがとうございました。",
           "sentence_translation": "Sau này nếu tình hình hay ngân sách bên anh có thay đổi, nếu có duyên, rất mong anh gọi lại em. Hôm nay em xin chân thành cảm ơn anh đã dành thời gian quý báu ạ.",
           "tone": "warm",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_35_good_06",
@@ -186,11 +195,11 @@
       "question_ja": "「条件面で折り合いがつかず、見送りとさせていただきます」が「お断りします」より優れている理由は？",
       "options": [
         "敬語が多いから",
-        "blame 対象を「条件」(abstract) に置き、相手の face を保持しつつ関係維持の余地を残すから",
         "短いから",
-        "曖昧で逃げ場があるから"
+        "曖昧で逃げ場があるから",
+        "blame 対象を「条件」(abstract) に置き、相手の face を保持しつつ関係維持の余地を残すから"
       ],
-      "correct": "B",
+      "correct": "D",
       "explanation": {
         "ja": "「お断り」は人格 reject。「条件面」は abstract で、相手・自分どちらの face も傷つけず、関係継続の magic phrase 「ご縁」を続けやすい。",
         "vi": "'お断り' reject ở mức cá nhân. 'Conditional' là abstract — không tổn thương face, dễ nối tiếp magic phrase 'ご縁' duy trì relationship."

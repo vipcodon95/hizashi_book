@@ -28,8 +28,6 @@ Tháng 1-3/2029. Đông qua xuân Osaka. Hana 5-7 tháng, biết ngồi, cười
 
 *Đại share screen, Yamada ngồi cạnh.*
 
-| Nhura vật | Lời thoại |
-
 | Vai | Lời thoại |
 |---|---|
 | Đại | (terminal) `poetry init` で<ruby>始<rt>はじ</rt></ruby>めます。`fastapi`、`uvicorn`、`sqlalchemy`、`alembic`、`pydantic-settings`、`anthropic` を<ruby>入<rt>い</rt></ruby>れます。<br>*(Khởi tạo bằng poetry init. Cài fastapi, uvicorn, sqlalchemy, alembic, pydantic-settings, anthropic.)* |

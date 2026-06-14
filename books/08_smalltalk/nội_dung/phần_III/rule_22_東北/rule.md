@@ -10,47 +10,59 @@
 
 - Người Tohoku tính trầm — không sởi lởi như Kansai. Đừng mong họ tự khoe quê.
 - Cảm động nhất khi đối tác **hỏi cụ thể tỉnh** chứ không gộp "東北" chung chung.
-- Sake brewery 山形・秋田 (山形=出羽桜, 秋田=新政) — senior nào cũng có "酒蔵推し" riêng.
+- Nhà nấu sake 山形・秋田 (山形=出羽桜, 秋田=新政) — tiền bối nào cũng có "酒蔵推し" (lò sake ruột) riêng.
 
 ---
 
 ## 🎬 Bối cảnh
 
-Tháng 6/2026, Dũng tham dự bữa nhậu cuối tuần với 4 khách Hakuō Tokyo HQ. Anh Tanaka PMO mở: "Hôm nay có anh **Yoshida** quê **仙台**, anh **Endo** quê **山形** sang giao lưu." → Dũng phải biết phân biệt 6 tỉnh để mở topic.
+Tháng 6/2026, Dũng tham dự bữa nhậu cuối tuần với 4 khách Hakuō Tokyo HQ. Anh Tanaka PMO mở lời: "Hôm nay có anh **Yoshida** quê **仙台**, anh **Endo** quê **山形** sang giao lưu." → Dũng phải biết phân biệt 6 tỉnh để mở chủ đề.
 
 ---
 
 ## 💬 4 Scenarios
 
-### 📍 Scenario 1 — Mở topic — phân biệt tỉnh trong Tohoku
+### 📍 Scenario 1 — Mở chủ đề — phân biệt tỉnh trong Tohoku
 
 *với khách Yoshida quê Sendai*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「吉田さん、ご出身は仙台でしたよね。先月、**仙台牛タン**の話を松本さんから聞いて、とても気になっていまして…」 |
-| **吉田 (placeholder)** | 「そうそう、仙台は牛タン!**利久**と**喜助**、どっちがいいかで地元民が論争するくらいですよ。」 |
-| **ズン** | 「では地元の方は、どちら派ですか?」 |
-| **吉田** | 「私は**喜助**。塩加減が絶妙で。あと**ずんだ餅**もぜひ食べてほしいなあ。」 |
-| **ズン** | 「ずんだ、枝豆を潰したお餅ですよね。優しい甘さって聞きました。」 |
-| **吉田** | 「よく知ってるね!夏の**七夕まつり**、いつか見に来てください。日本三大七夕です。」 |
+| **ズン** | 「吉田さん、ご<ruby>出身<rt>しゅっしん</rt></ruby>は<ruby>仙台<rt>せんだい</rt></ruby>でしたよね。<ruby>先月<rt>せんげつ</rt></ruby>、**仙台<ruby>牛<rt>ぎゅう</rt></ruby>タン**の話を松本さんから聞いて、とても<ruby>気<rt>き</rt></ruby>になっていまして…」 |
+|  | *Anh Yoshida quê Sendai nhỉ. Tháng trước em nghe anh Matsumoto kể về gyūtan Sendai, em quan tâm lắm...* |
+| **吉田 (placeholder)** | 「そうそう、仙台は牛タン!**<ruby>利久<rt>りきゅう</rt></ruby>**と**<ruby>喜助<rt>きすけ</rt></ruby>**、どっちがいいかで<ruby>地元民<rt>じもとみん</rt></ruby>が<ruby>論争<rt>ろんそう</rt></ruby>するくらいですよ。」 |
+|  | *Đúng rồi, Sendai = gyūtan! Riku vs Kisuke, người địa phương còn tranh luận nhau.* |
+| **ズン** | 「では<ruby>地元<rt>じもと</rt></ruby>の方は、どちら<ruby>派<rt>は</rt></ruby>ですか?」 |
+|  | *Vậy người địa phương anh thuộc phe nào ạ?* |
+| **吉田** | 「私は**喜助**。<ruby>塩加減<rt>しおかげん</rt></ruby>が<ruby>絶妙<rt>ぜつみょう</rt></ruby>で。あと**<ruby>ずんだ餅<rt>ずんだもち</rt></ruby>**もぜひ食べてほしいなあ。」 |
+|  | *Anh phe Kisuke. Vị muối tuyệt vời. Còn zunda mochi nữa, mong em ăn thử.* |
+| **ズン** | 「ずんだ、<ruby>枝豆<rt>えだまめ</rt></ruby>を<ruby>潰<rt>つぶ</rt></ruby>したお<ruby>餅<rt>もち</rt></ruby>ですよね。優しい<ruby>甘<rt>あま</rt></ruby>さって聞きました。」 |
+|  | *Zunda, mochi đậu nành xanh nghiền nhỉ. Em nghe vị ngọt nhẹ.* |
+| **吉田** | 「よく知ってるね!夏の**<ruby>七夕<rt>たなばた</rt></ruby>まつり**、いつか見に来てください。<ruby>日本三大七夕<rt>にほんさんだいたなばた</rt></ruby>です。」 |
+|  | *Em rành ghê! Tanabata mùa hè, lúc nào đó đến xem. Một trong 3 Tanabata lớn Nhật.* |
 
-> **VN:** Hỏi 利久 vs 喜助 (2 quán gyutan nổi tiếng nhất Sendai) = depth thật. Khách sẽ kể câu chuyện địa phương mà mình không thể đọc trên Wikipedia.
+> **VN:** Hỏi 利久 vs 喜助 (2 quán gyutan nổi tiếng nhất Sendai) = chiều sâu thật. Khách sẽ kể câu chuyện địa phương mà mình không thể đọc trên Wikipedia.
 
 ---
 
-### 📍 Scenario 2 — Khách Yamagata + sake topic
+### 📍 Scenario 2 — Khách Yamagata + chủ đề sake
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「遠藤さんは山形のご出身ですよね。山形といえば**さくらんぼ**と**米沢牛**、それと**日本酒**…」 |
-| **遠藤 (placeholder)** | 「お、よく言ってくれた!山形は**東北屈指の酒どころ**ですよ。**出羽桜**、**十四代**、**楯野川**…全部山形です。」 |
-| **ズン** | 「**十四代**!幻の酒って聞きました。」 |
-| **遠藤** | 「そう、なかなか手に入らない。今度東京で見つけたら一緒に飲みましょう。あと、**さくらんぼ**は**佐藤錦**が王様。6月が旬ですよ。」 |
-| **ズン** | 「**山形の蔵王温泉**もいつか行ってみたいんです。樹氷が有名ですよね。」 |
-| **遠藤** | 「冬の樹氷もいいけど、夏の蔵王も最高だよ。**山形花笠まつり**は8月、ぜひ。」 |
+| **ズン** | 「<ruby>遠藤<rt>えんどう</rt></ruby>さんは<ruby>山形<rt>やまがた</rt></ruby>のご出身ですよね。山形といえば**さくらんぼ**と**<ruby>米沢牛<rt>よねざわぎゅう</rt></ruby>**、それと**<ruby>日本酒<rt>にほんしゅ</rt></ruby>**…」 |
+|  | *Anh Endō quê Yamagata nhỉ. Yamagata thì cherry, bò Yonezawa, và nihonshu...* |
+| **遠藤 (placeholder)** | 「お、よく言ってくれた!山形は**<ruby>東北屈指<rt>とうほくくっし</rt></ruby>の<ruby>酒<rt>さけ</rt></ruby>どころ**ですよ。**<ruby>出羽桜<rt>でわざくら</rt></ruby>**、**<ruby>十四代<rt>じゅうよんだい</rt></ruby>**、**<ruby>楯野川<rt>たてのかわ</rt></ruby>**…全部山形です。」 |
+|  | *Ồ, em nói chuẩn! Yamagata là vùng sake số 1 Tohoku. Dewazakura, Juyondai, Tatenokawa... đều Yamagata.* |
+| **ズン** | 「**十四代**!<ruby>幻<rt>まぼろし</rt></ruby>の酒って聞きました。」 |
+|  | *Juyondai! Em nghe là sake huyền thoại.* |
+| **遠藤** | 「そう、なかなか手に<ruby>入<rt>はい</rt></ruby>らない。今度<ruby>東京<rt>とうきょう</rt></ruby>で見つけたら一緒に飲みましょう。あと、**さくらんぼ**は**<ruby>佐藤錦<rt>さとうにしき</rt></ruby>**が<ruby>王様<rt>おうさま</rt></ruby>。6月が<ruby>旬<rt>しゅん</rt></ruby>ですよ。」 |
+|  | *Đúng, khó kiếm lắm. Lần sau ở Tokyo tìm được, mình uống cùng. Còn cherry thì Sato Nishiki là vua. Tháng 6 là mùa.* |
+| **ズン** | 「**山形の<ruby>蔵王温泉<rt>ざおうおんせん</rt></ruby>**もいつか行ってみたいんです。<ruby>樹氷<rt>じゅひょう</rt></ruby>が有名ですよね。」 |
+|  | *Onsen Zaō Yamagata em muốn đi lúc nào đó. Cây băng nổi tiếng nhỉ.* |
+| **遠藤** | 「冬の樹氷もいいけど、夏の<ruby>蔵王<rt>ざおう</rt></ruby>も最高だよ。**山形<ruby>花笠<rt>はながさ</rt></ruby>まつり**は8月、ぜひ。」 |
+|  | *Cây băng mùa đông hay, nhưng Zaō mùa hè cũng đỉnh. Hanagasa matsuri tháng 8, đến nhé.* |
 
-> **VN:** Nhớ tên brand sake (出羽桜・十四代) = đẳng cấp. Nhớ 佐藤錦 (giống cherry king of kings) = food culture depth.
+> **VN:** Nhớ tên thương hiệu sake (出羽桜・十四代) = đẳng cấp. Nhớ 佐藤錦 (giống cherry vua của các vua) = chiều sâu văn hóa ẩm thực.
 
 ---
 
@@ -60,14 +72,20 @@ Tháng 6/2026, Dũng tham dự bữa nhậu cuối tuần với 4 khách Hakuō 
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「東北三大祭りといえば、**青森のねぶた**、**仙台の七夕**、そして…」 |
-| **吉田** | 「**秋田の竿燈**!よく言えました。」 |
-| **ズン** | 「**竿燈**、長い棒に提灯を46個つけて額や腰でバランス取るやつですよね。職人技ですね…」 |
-| **遠藤** | 「秋田は**なまはげ**もユニーク。大晦日に『泣ぐ子はいねがー』って子どもを驚かせる伝統。UNESCO無形文化遺産にも登録されてますよ。」 |
-| **ズン** | 「**きりたんぽ鍋**と**いぶりがっこ**、秋田の冬って美味しそうですね。」 |
-| **吉田** | 「ズンさん、東北検定の合格レベルだね(笑)」 |
+| **ズン** | 「<ruby>東北三大祭<rt>とうほくさんだいまつ</rt></ruby>りといえば、**<ruby>青森<rt>あおもり</rt></ruby>のねぶた**、**仙台の七夕**、そして…」 |
+|  | *Tohoku 3 đại lễ hội thì có Nebuta Aomori, Tanabata Sendai, và...* |
+| **吉田** | 「**<ruby>秋田<rt>あきた</rt></ruby>の<ruby>竿燈<rt>かんとう</rt></ruby>**!よく言えました。」 |
+|  | *Kantō Akita! Em nói chuẩn rồi.* |
+| **ズン** | 「**竿燈**、長い<ruby>棒<rt>ぼう</rt></ruby>に<ruby>提灯<rt>ちょうちん</rt></ruby>を46<ruby>個<rt>こ</rt></ruby>つけて<ruby>額<rt>ひたい</rt></ruby>や<ruby>腰<rt>こし</rt></ruby>でバランス取るやつですよね。<ruby>職人技<rt>しょくにんわざ</rt></ruby>ですね…」 |
+|  | *Kantō là sào dài đèn lồng 46 cái, cân bằng trên trán hay hông. Kỹ nghệ thần thánh nhỉ...* |
+| **遠藤** | 「秋田は**なまはげ**もユニーク。<ruby>大晦日<rt>おおみそか</rt></ruby>に『<ruby>泣<rt>な</rt></ruby>ぐ子はいねがー』って子どもを<ruby>驚<rt>おどろ</rt></ruby>かせる<ruby>伝統<rt>でんとう</rt></ruby>。UNESCO<ruby>無形文化遺産<rt>むけいぶんかいさん</rt></ruby>にも<ruby>登録<rt>とうろく</rt></ruby>されてますよ。」 |
+|  | *Akita còn có Namahage độc đáo. Đêm 30 Tết hỏi 'có đứa trẻ nào khóc không' để dọa trẻ. Đã được UNESCO ghi nhận.* |
+| **ズン** | 「**<ruby>きりたんぽ鍋<rt>きりたんぽなべ</rt></ruby>**と**いぶりがっこ**、秋田の冬って<ruby>美味<rt>おい</rt></ruby>しそうですね。」 |
+|  | *Lẩu kiritanpo và iburigakko, mùa đông Akita ngon nhỉ.* |
+| **吉田** | 「ズンさん、<ruby>東北検定<rt>とうほくけんてい</rt></ruby>の<ruby>合格<rt>ごうかく</rt></ruby>レベルだね(笑)」 |
+|  | *Em đạt chuẩn Tohoku-kentei luôn (cười).* |
 
-> **VN:** Phân biệt được **ねぶた (Aomori)** vs **七夕 (Sendai)** vs **竿燈 (Akita)** = tier S+ depth. Bonus point: nhớ **きりたんぽ** + **いぶりがっこ** (2 món Akita biểu tượng).
+> **VN:** Phân biệt được **ねぶた (Aomori)** vs **七夕 (Sendai)** vs **竿燈 (Akita)** = chiều sâu hạng S+. Điểm cộng: nhớ **きりたんぽ** + **いぶりがっこ** (2 món Akita biểu tượng).
 
 ---
 
@@ -75,12 +93,18 @@ Tháng 6/2026, Dũng tham dự bữa nhậu cuối tuần với 4 khách Hakuō 
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「岩手の**わんこそば**、100杯チャレンジって聞きました。本当ですか?」 |
-| **吉田** | 「本当だよ。**東家**(あづまや)が老舗で有名。ベテランは150杯食べる人もいるよ。」 |
-| **ズン** | 「すごい…!福島は**喜多方ラーメン**が有名ですよね。」 |
-| **遠藤** | 「**喜多方**は朝ラーメン文化があってね。**坂内食堂**が王道。あっさり醤油、平打ち縮れ麺。」 |
-| **ズン** | 「東北6県、それぞれ全然違うんですね。**桃**もありましたよね、福島。」 |
-| **吉田** | 「**福島の桃**は全国2位の生産量。あかつき、ゆうぞら、川中島白桃が品種。」 |
+| **ズン** | 「<ruby>岩手<rt>いわて</rt></ruby>の**わんこそば**、100<ruby>杯<rt>はい</rt></ruby>チャレンジって聞きました。本当ですか?」 |
+|  | *Wankosoba Iwate em nghe thử thách 100 bát. Thật ạ?* |
+| **吉田** | 「本当だよ。**<ruby>東家<rt>あづまや</rt></ruby>**が<ruby>老舗<rt>しにせ</rt></ruby>で有名。ベテランは150杯食べる人もいるよ。」 |
+|  | *Thật. Quán Azumaya nổi tiếng lâu đời. Cao thủ ăn 150 bát luôn.* |
+| **ズン** | 「すごい…!<ruby>福島<rt>ふくしま</rt></ruby>は**<ruby>喜多方<rt>きたかた</rt></ruby>ラーメン**が有名ですよね。」 |
+|  | *Ghê quá... Fukushima thì ramen Kitakata nổi tiếng nhỉ.* |
+| **遠藤** | 「**喜多方**は<ruby>朝<rt>あさ</rt></ruby>ラーメン<ruby>文化<rt>ぶんか</rt></ruby>があってね。**<ruby>坂内食堂<rt>ばんないしょくどう</rt></ruby>**が<ruby>王道<rt>おうどう</rt></ruby>。あっさり<ruby>醤油<rt>しょうゆ</rt></ruby>、<ruby>平打<rt>ひらう</rt></ruby>ち<ruby>縮<rt>ちぢ</rt></ruby>れ<ruby>麺<rt>めん</rt></ruby>。」 |
+|  | *Kitakata có văn hóa ramen sáng. Bannai shokudō là chính thống. Shoyu thanh, mì xoăn dẹt.* |
+| **ズン** | 「東北6県、それぞれ全然違うんですね。**<ruby>桃<rt>もも</rt></ruby>**もありましたよね、福島。」 |
+|  | *Tohoku 6 tỉnh khác nhau hết. Còn đào nữa, ở Fukushima.* |
+| **吉田** | 「**福島の桃**は<ruby>全国<rt>ぜんこく</rt></ruby>2<ruby>位<rt>い</rt></ruby>の<ruby>生産量<rt>せいさんりょう</rt></ruby>。あかつき、ゆうぞら、<ruby>川中島白桃<rt>かわなかじまはくとう</rt></ruby>が<ruby>品種<rt>ひんしゅ</rt></ruby>。」 |
+|  | *Đào Fukushima sản lượng đứng thứ 2 cả nước. Akatsuki, Yūzora, Kawanakajima Hakutō là các giống.* |
 
 > **VN:** Bổ sung 岩手 (わんこそば 東家) + 福島 (喜多方ラーメン 坂内食堂 + 桃) — đủ 6 tỉnh.
 
@@ -89,7 +113,7 @@ Tháng 6/2026, Dũng tham dự bữa nhậu cuối tuần với 4 khách Hakuō 
 ## 🎯 Câu vàng copy-paste
 
 ```
-■ MỞ TOPIC TỈNH:
+■ MỞ CHỦ ĐỀ TỈNH:
 「ご出身は東北のどちらですか?」(KHÔNG「東北のどこですか?」 — quá dứt)
 「[県名]といえば[料理]ですよね、[店名]が有名と聞きました。」
 
@@ -101,7 +125,7 @@ Tháng 6/2026, Dũng tham dự bữa nhậu cuối tuần với 4 khách Hakuō 
 山形 → さくらんぼ / 米沢牛 / 日本酒
 福島 → 喜多方ラーメン / 桃
 
-■ SAKE TOPIC:
+■ CHỦ ĐỀ SAKE:
 「山形の十四代、幻ですよね…」
 「秋田の新政、ラベルが綺麗で。」
 
@@ -112,9 +136,9 @@ Tháng 6/2026, Dũng tham dự bữa nhậu cuối tuần với 4 khách Hakuō 
 
 ---
 
-## 🗾 Regional Cheat Sheet — 東北 (6県)
+## 🗾 Bảng tra nhanh vùng miền — 東北 (6県)
 
-| 県 | Capital | Đặc sản | Sake/酒 | Lễ hội biểu tượng | Du lịch |
+| 県 | Tỉnh lỵ | Đặc sản | Sake/酒 | Lễ hội biểu tượng | Du lịch |
 |----|---------|---------|---------|-------------------|---------|
 | **青森** | 青森市 | 大間マグロ, りんご, せんべい汁 | 田酒, 豊盃 | **ねぶた祭** (8月初) | 弘前城, 奥入瀬, 十和田湖 |
 | **岩手** | 盛岡市 | わんこそば, 盛岡冷麺, 盛岡じゃじゃ麺 | 南部美人 | チャグチャグ馬コ (6月) | 平泉中尊寺 (UNESCO), 三陸海岸 |
@@ -129,10 +153,10 @@ Tháng 6/2026, Dũng tham dự bữa nhậu cuối tuần với 4 khách Hakuō 
 
 ## ⚠ NG
 
-- Hỏi **「東北のどこですか?」** quá đột ngột → cứ "ご出身は?" rồi react theo.
-- Gộp **6 tỉnh** với nhau khi nói "東北の方" → mất depth.
-- Nhầm **ねぶた (Aomori) ↔ 竿燈 (Akita) ↔ 七夕 (Sendai)** → fail nặng festival.
-- Khen **「東北弁、可愛いですね」** → có thể bị xem là patronizing với senior.
+- Hỏi **「東北のどこですか?」** quá đột ngột → cứ "ご出身は?" rồi phản hồi theo.
+- Gộp **6 tỉnh** với nhau khi nói "東北の方" → mất chiều sâu.
+- Nhầm **ねぶた (Aomori) ↔ 竿燈 (Akita) ↔ 七夕 (Sendai)** → hỏng nặng phần lễ hội.
+- Khen **「東北弁、可愛いですね」** → có thể bị xem là kẻ cả, bề trên với tiền bối.
 - Hỏi về **2011年 大震災** trừ phi khách tự đề cập → nhạy cảm.
 
 ---
@@ -159,8 +183,8 @@ Tháng 6/2026, Dũng tham dự bữa nhậu cuối tuần với 4 khách Hakuō 
 ## 🎓 BJT
 
 **J3 — 場面把握:** Nghe khách nói quê → match đúng đặc sản 1 món.
-**J2 — 表現読解:** Phân biệt 「東北屈指の酒どころ」 = niềm tự hào, react bằng ngưỡng mộ.
-**J1 — 発言聴解:** Catch 仙台弁 「いがった」 (=良かった) — không panic.
+**J2 — 表現読解:** Phân biệt 「東北屈指の酒どころ」 = niềm tự hào, phản hồi bằng sự ngưỡng mộ.
+**J1 — 発言聴解:** Bắt được giọng 仙台弁 「いがった」 (=良かった) — không hoảng.
 
 ---
 

@@ -9,7 +9,10 @@
     "ja": "リン(インターン)が draft した『某大手物流様』匿名 testimonial を、ズンが実名＋数字＋氏名付き引用に直させる場面。",
     "vi": "Linh draft testimonial anonymous 「某大手物流様」 — Dũng coach đổi sang 「tên thật + số + quote có tên người」."
   },
-  "related_rules": ["rule_11", "rule_15"],
+  "related_rules": [
+    "rule_11",
+    "rule_15"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -96,7 +99,10 @@
           "sentence": "山田倉庫株式会社様 (許可取得済)。Phase 1 で在庫差異 3.2%→0.8%(75%削減)。引用: 『月末締めの residue 残業が月20時間→3時間に減りました』 物流部 山田太郎部長。",
           "sentence_translation": "Cty Yamada Souko (đã xin phép). Phase 1 đã giảm sai lệch tồn kho 3.2%→0.8% (giảm 75%). Quote: 「Tăng ca chốt cuối tháng giảm từ 20 tiếng/tháng xuống 3 tiếng」 — Yamada Tarō, Trưởng phòng Logistics.",
           "tone": "formal",
-          "annotation_ids": ["1", "2"]
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
         },
         {
           "line_id": "rule_18_good_02",
@@ -124,7 +130,9 @@
           "sentence": "ロゴ permission も別途確認。OK ならロゴ＋写真(本人 OK あれば)入れる。NG なら社名のみ。",
           "sentence_translation": "Permission logo phải xin riêng. OK thì cho logo + ảnh (nếu cá nhân đồng ý). NG thì chỉ tên công ty.",
           "tone": "warm",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         }
       ]
     }
@@ -146,10 +154,10 @@
       "skill": "表現読解",
       "question_ja": "顧客事例スライドで信頼性が最も高い表現は？",
       "options": [
-        "某大手物流様から大変ご好評",
-        "山田倉庫(株) 物流部山田部長: 『残業20→3時間に減少』",
         "多くのお客様にご満足",
-        "業界トップクラスのお客様"
+        "山田倉庫(株) 物流部山田部長: 『残業20→3時間に減少』",
+        "業界トップクラスのお客様",
+        "某大手物流様から大変ご好評"
       ],
       "correct": "B",
       "explanation": {

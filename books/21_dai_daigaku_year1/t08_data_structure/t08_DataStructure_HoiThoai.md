@@ -192,7 +192,7 @@ Tháng 10-11/2026, học kỳ 2 năm 1. Lecture データ構造 mỗi tuần v�
 | Mai | (VN) Trời ơi Green hả? Anh kể em nghe Green nghĩa là gì đi. |
 | Đại | (VN) AtCoder có thang màu Gray → Brown → Green → Cyan → Blue → Yellow → Orange → Red. Anh leo từ Gray (3 tháng trước) → Brown → giờ Green. Mục tiêu năm 1 đạt rồi. |
 | Mai | (VN) Anh có Yamato, Aiko, Lin Wei làm bạn ở Nhật. Em ở Việt Nam mong từng tin nhắn của anh. |
-| Đại | (VN) Em à, 2 tháng nữa anh về. Anh đặt vé về 13/2 rồi. |
+| Đại | (VN) Em à, 2 tháng nữa anh về. Anh đặt vé về 8/1 rồi. |
 | Mai | (VN) Em hỏi mẹ, bố em đã thuê xe đám cưới chưa. À, mà anh có gặp anh chị Tony+Yumi không? |
 | Đại | (VN) Tối qua sang nhà ăn cơm. Anh Tony và chị Yumi đã đặt vé sang Hà Nội dự cưới rồi. Chị Yumi nói "ダイ君が息子みたいなものよ" — Đại như con trai vậy. |
 | Mai | (VN) Em xúc động quá. Hỏi anh, lecture data structure tuần này học gì? |
@@ -206,7 +206,7 @@ Tháng 10-11/2026, học kỳ 2 năm 1. Lecture データ構造 mỗi tuần v�
 
 ## Đọng lại chương 8
 
-Đại trải qua 8 tuần lecture データ構造 với Ohno-sensei. Mẫu câu **「<ruby>確認<rt>かくにん</rt></ruby>させてください」** (cho em xác nhận) là cách hỏi ngầm khẳng định hiểu biết. Khi xin extension deadline, Đại dùng combo trang trọng **「<ruby>誠<rt>まこと</rt></ruby>に<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ありませんが、〜していただけないでしょうか」** + giải thích lý do + tự kiểm điểm **「<ruby>反省<rt>はんせい</rt></ruby>しております」**. Tại thư viện, sempai Kimura gặp Đại, dùng văn phong sempai-kouhai: ngắn gọn `〜しろ・〜なれ`. Đại đáp keigo `〜していただきました`. Trong lecture, Đại tự tin giơ tay với **「<ruby>私<rt>わたし</rt></ruby>がやらせてください」** và được sensei khen **「<ruby>完璧<rt>かんぺき</rt></ruby>」**. LINE nhóm AtCoder dùng câu cụt khoe rating Green. Yakiniku ăn mừng dùng `カンパーイ` + `おごる`. Nhà Tony+Yumi vẫn là gia đình thứ hai — anh chị đã đặt vé sang dự cưới Mai. Cuối chương Đại gọi Mai khoe rating Green và xác nhận vé về 13/2.
+Đại trải qua 8 tuần lecture データ構造 với Ohno-sensei. Mẫu câu **「<ruby>確認<rt>かくにん</rt></ruby>させてください」** (cho em xác nhận) là cách hỏi ngầm khẳng định hiểu biết. Khi xin extension deadline, Đại dùng combo trang trọng **「<ruby>誠<rt>まこと</rt></ruby>に<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ありませんが、〜していただけないでしょうか」** + giải thích lý do + tự kiểm điểm **「<ruby>反省<rt>はんせい</rt></ruby>しております」**. Tại thư viện, sempai Kimura gặp Đại, dùng văn phong sempai-kouhai: ngắn gọn `〜しろ・〜なれ`. Đại đáp keigo `〜していただきました`. Trong lecture, Đại tự tin giơ tay với **「<ruby>私<rt>わたし</rt></ruby>がやらせてください」** và được sensei khen **「<ruby>完璧<rt>かんぺき</rt></ruby>」**. LINE nhóm AtCoder dùng câu cụt khoe rating Green. Yakiniku ăn mừng dùng `カンパーイ` + `おごる`. Nhà Tony+Yumi vẫn là gia đình thứ hai — anh chị đã đặt vé sang dự cưới Mai. Cuối chương Đại gọi Mai khoe rating Green và xác nhận vé về 8/1.
 
 > Từ vựng & mẫu câu chương này: <ruby>連続<rt>れんぞく</rt></ruby>メモリ・<ruby>分散<rt>ぶんさん</rt></ruby>メモリ・<ruby>挿入位置<rt>そうにゅういち</rt></ruby>・<ruby>括弧<rt>かっこ</rt></ruby><ruby>整合性<rt>せいごうせい</rt></ruby>・チェイニング・オープンアドレッシング・<ruby>線形探査<rt>せんけいたんさ</rt></ruby>・<ruby>二分探索木<rt>にぶんたんさくぎ</rt></ruby>・<ruby>右部分木<rt>みぎぶぶんき</rt></ruby>・<ruby>完全<rt>かんぜん</rt></ruby><ruby>二分木<rt>にぶんぎ</rt></ruby>・<ruby>優先度付<rt>ゆうせんどつ</rt></ruby>きキュー・<ruby>確認<rt>かくにん</rt></ruby>させてください・<ruby>誠<rt>まこと</rt></ruby>に<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ありません・<ruby>提出<rt>ていしゅつ</rt></ruby><ruby>締切<rt>しめきり</rt></ruby>を<ruby>延<rt>の</rt></ruby>ばしていただけないでしょうか・<ruby>反省<rt>はんせい</rt></ruby>しております・ご<ruby>迷惑<rt>めいわく</rt></ruby>をおかけしました・お<ruby>見事<rt>みごと</rt></ruby>です・カンパーイ・<ruby>太<rt>ふと</rt></ruby><ruby>っ腹<rt>ぱら</rt></ruby>
 
@@ -216,7 +216,7 @@ Tháng 10-11/2026, học kỳ 2 năm 1. Lecture データ構造 mỗi tuần v�
 - **「〜について<ruby>確認<rt>かくにん</rt></ruby>させてください」**: Câu khẳng định ngầm hiểu biết khi học. Khác `〜とは?` (hỏi vì không biết).
 - **Code-switch theo người**: Với sensei = full keigo `〜ていただく`. Với sempai = keigo nhẹ `〜です` + tôn trọng. Với bạn = `〜形` ngắn. Với gia đình homestay = nửa keigo nửa thân mật. Với người yêu VN = tiếng Việt chêm JP.
 - **AtCoder lên Green = milestone**: ¥0 phần thưởng vật chất nhưng team ăn mừng yakiniku. Mục tiêu năm 1 đạt, năm 2 sẽ là Cyan.
-- **Cảnh VN cuối là cầu nối**: Mai không hiểu thuật toán nhưng vẫn theo dõi tiến độ. Đại xác nhận vé về 13/2 — 2 tháng nữa cưới.
+- **Cảnh VN cuối là cầu nối**: Mai không hiểu thuật toán nhưng vẫn theo dõi tiến độ. Đại xác nhận vé về 8/1 — chuẩn bị cưới 14/1.
 
 ## Bảng từ vựng chương
 

@@ -10,22 +10,26 @@
 
 ## Bối cảnh / 場面
 
-Em Dũng cộng tác với anh Tanaka PMO ở Hakuō. Lần đầu Dũng dùng "明日" mơ hồ + expect anh Tanaka reply trong 5 phút. Lần 2 áp dụng UTC anchor + async + daily handoff.
+Em Dũng cộng tác với anh Tanaka PMO ở Hakuō. Lần đầu Dũng dùng "明日" mơ hồ và mong anh Tanaka phản hồi trong 5 phút. Lần 2 áp dụng mốc giờ UTC + async + bàn giao cuối ngày (daily handoff).
 
 ---
 
-## ❌ Hội thoại XẤU — không UTC + expect sync reply
+## ❌ Hội thoại XẤU — không có mốc UTC + đòi phản hồi đồng bộ ngay
 
 *VN 16h thứ Hai, Slack · JP 18h, đã offline · VN 17h · JP 翌朝 9h*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「田中さん、明日10時から会議できますか？」 |
+| **ズン** | 「田中さん、明日10時から<ruby>会議<rt>かいぎ</rt></ruby>できますか？」 |
+|  | *Anh Tanaka, mai 10h họp được không ạ?* |
 | **田中PMO** | (không reply) |
-| **ズン** | 「田中さん？返信お待ちしています。」 |
+|  | *(không phản hồi)* |
+| **ズン** | 「田中さん？<ruby>返信<rt>へんしん</rt></ruby>お待ちしています。」 |
+|  | *Anh Tanaka? Em đợi anh phản hồi ạ.* |
 | **田中PMO** | 「ズンさん、おはようございます。『**明日10時**』が JP の明日 (火 10時 JST) なのか、VN の明日 (月翌日 10時 ICT = 火 12時 JST) なのか分からないです…」 |
+|  | *Dũng, chào buổi sáng. 'Mai 10h' là mai theo JP (10h JST thứ Ba) hay theo VN (10h ICT của ngày sau hôm thứ Hai = 12h JST thứ Ba) tôi không biết...* |
 
-**Vì sao xấu:** L1 「明日」 mơ hồ vì 2 nước cùng đêm khác. L3 sai expectation — anh Tanaka đã offline. L4 ambiguity nữa: "10時" của VN hay JP?
+**Vì sao xấu:** L1 「明日」 mơ hồ vì 2 nước cùng đêm khác. L3 sai kỳ vọng — anh Tanaka đã offline. L4 lại mơ hồ thêm: "10時" của VN hay JP?
 
 ---
 
@@ -33,21 +37,25 @@ Em Dũng cộng tác với anh Tanaka PMO ở Hakuō. Lần đầu Dũng dùng "
 
 | Vai | Câu |
 |---------|-----|
-| **L1** | **ズン** *(VN 16h thứ Hai, Slack)* | 「田中さん、お疲れ様です。下記の時間帯で会議はいかがでしょうか？  
+| **L1** | **ズン** *(VN 16h thứ Hai, Slack)* | 「田中さん、お疲れ様です。<ruby>下記<rt>かき</rt></ruby>の<ruby>時間帯<rt>じかんたい</rt></ruby>で会議はいかがでしょうか？  
   - **2026/4/22 (火) 10:00-11:00 JST (= 08:00-09:00 ICT)**【1】  
   - **2026/4/22 (火) 14:00-15:00 JST (= 12:00-13:00 ICT)**  
-  ご都合が合う方を、明日の朝 (JST) までにお返事いただければ幸いです【2】。」 |
-| **L2** | **田中PMO** *(JP 翌朝 9:30)* | 「おはようございます。10:00 JST で確定でお願いします。」 |
+  ご<ruby>都合<rt>つごう</rt></ruby>が合う方を、明日の朝 (JST) までにお<ruby>返事<rt>へんじ</rt></ruby>いただければ<ruby>幸<rt>さいわ</rt></ruby>いです【2】。」 |
+|  |  | *Anh Tanaka, em chào anh ạ. Khung giờ dưới đây họp được không ạ? 22/4/2026 (T3) 10:00-11:00 JST (= 08:00-09:00 ICT), hoặc 22/4/2026 (T3) 14:00-15:00 JST (= 12:00-13:00 ICT). Phiền anh chọn giúp em và phản hồi trước sáng mai (JST) ạ.* |
+| **L2** | **田中PMO** *(JP 翌朝 9:30)* | 「おはようございます。10:00 JST で<ruby>確定<rt>かくてい</rt></ruby>でお願いします。」 |
+|  |  | *Chào buổi sáng. Chốt 10:00 JST giúp tôi nhé.* |
 | **L3** | **ズン** *(VN 18h thứ Hai, EOD handoff Slack #phase3)* | 「**【EOD Handoff VN→JP】**【3】  
   - Done today: 〇〇  
   - Pending JP review: 〇〇 (PR link)  
   - JP team が朝確認: ① 〇〇 ② 〇〇  
-  - 緊急時: トゥアン (+84-...) または ズン (24h reachable)」 |
-| **L4** | **田中PMO** *(JP 9:00 翌朝)* | 「Handoff 受領。① と ② を朝のうちに review します。」 |
+  - <ruby>緊急時<rt>きんきゅうじ</rt></ruby>: トゥアン (+84-...) または ズン (24h reachable)」 |
+|  |  | *[EOD Handoff VN→JP] Done today: sửa API xong / Chờ JP review: PR #234 / JP team sáng check: ① spec v3 section 3, ② link video demo / Khẩn: anh Tuấn (+84-...) hoặc Dũng (24h reachable).* |
+| **L4** | **田中PMO** *(JP 9:00 翌朝)* | 「Handoff <ruby>受領<rt>じゅりょう</rt></ruby>。① と ② を朝のうちに review します。」 |
+|  |  | *Tôi đã nhận handoff. ① và ② tôi review trong sáng nay.* |
 
 📝 **Ghi chú:**
 - 【1】**「JST (= 〇 ICT)」** — luôn ghi cả 2 timezone. Tránh "明日" / "明後日" mơ hồ.
-- 【2】**「明日の朝 (JST) までに」** — async expectation: "khi nào trước"chứ không phải "ngay lập tức".
+- 【2】**「明日の朝 (JST) までに」** — kỳ vọng kiểu async: "trước khi nào" chứ không phải "ngay lập tức".
 - 【3】**「EOD Handoff」** — VN end-of-day (18h ICT = 20h JST) là start-of-day JP hôm sau (9h JST). Bàn giao 1 message — JP team sáng đọc là biết tình hình.
 
 ---
@@ -60,7 +68,7 @@ Em Dũng cộng tác với anh Tanaka PMO ở Hakuō. Lần đầu Dũng dùng "
 - 「来週月曜午後 (JST 14時)」
 
 ❌ **Sai:**
-- 「明日10時」 (whose 明日? whose 10?)
+- 「明日10時」 (明日 của ai? 10 giờ của ai?)
 - 「夕方」 (5pm VN ≠ 5pm JP)
 - 「お昼」
 
@@ -82,14 +90,14 @@ VN 09:00 ICT (= JP 11:00 JST) — VN team reads
 
 ## 🎯 Câu chốt
 
-> **「JST (ICT) 併記 / async 前提 / EOD Handoff message」 = cross-timezone 3 trụ cột。**
+> **「JST (ICT) <ruby>併記<rt>へいき</rt></ruby> / async <ruby>前提<rt>ぜんてい</rt></ruby> / EOD Handoff message」 = cross-timezone 3 trụ cột。**
 
 ---
 
 ## ⚠ Tránh
 
-- 「明日」「来週」「夕方」 — relative time ambiguous khác timezone.
-- Expect Slack reply trong 5 phút khi đối phương đã EOD.
+- 「明日」「来週」「夕方」 — giờ tương đối, mơ hồ khi khác múi giờ.
+- Mong đối phương phản hồi Slack trong 5 phút khi họ đã hết giờ làm (EOD).
 - Schedule họp 8h JST (= 6h ICT) — VN chưa làm việc.
 - Bỏ daily handoff — JP team sáng dậy không biết VN team đã làm gì 12 giờ qua.
 

@@ -1,6 +1,6 @@
 # Rule 13 — Time-keeping promise / 時間管理の約束
 
-> **Luận điểm.** Trong phút thứ 2 của pitch, **promise rõ time budget**: "本日30分でPhase 3スコープを決めたく存じます。プレゼン20分、Q&A 10分の構成です。" Khách Nhật cực kỳ trân trọng người giữ giờ. Promise này = social contract — vỡ promise là vỡ trust.
+> **Luận điểm.** Trong phút thứ 2 của pitch, **cam kết rõ ngân sách thời gian**: "本日30分でPhase 3スコープを決めたく存じます。プレゼン20分、Q&A 10分の構成です。" Khách Nhật cực kỳ trân trọng người giữ giờ. Lời cam kết này = khế ước ngầm — phá vỡ cam kết là phá vỡ niềm tin.
 >
 > プレゼンの2分目までに『時間配分』を口頭宣言。「20分プレゼン+10分Q&A」とコミット。日本顧客は時間を守る人を信頼する。
 >
@@ -10,38 +10,46 @@
 
 ## Bối cảnh / 場面
 
-Sau phần intro + agenda, Dũng đến phần promise time. 2 cách: implicit ("頑張ります") hoặc explicit ("〇分でやります").
+Sau phần mở đầu + agenda, Dũng đến phần cam kết thời gian. 2 cách: ngầm định ("頑張ります") hoặc nói rõ ("〇分でやります").
 
 ---
 
-## ❌ Hội thoại XẤU — vague time
+## ❌ Hội thoại XẤU — thời gian mơ hồ
 
 *顔を上げる*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「えーと、なるべくコンパクトにお話しします。Q&Aの時間も**頑張って**残します。」 |
-| **大垣** | 「(……『頑張って』って具体的に何分？)」 |
-| **松本** | 「ズンさん、本日は何時までですか？」 |
-| **ズン** | 「えっと…30分の予定で…」 |
+| **ズン** | 「えーと、なるべくコンパクトにお<ruby>話<rt>はな</rt></ruby>しします。Q&Aの<ruby>時間<rt>じかん</rt></ruby>も**<ruby>頑張<rt>がんば</rt></ruby>って**<ruby>残<rt>のこ</rt></ruby>します。」 |
+|  | *Ờ, em cố gắng nói gọn ạ. Em sẽ cố giữ chỗ Q&A nữa ạ.* |
+| **大垣** | 「(……『頑張って』って<ruby>具体的<rt>ぐたいてき</rt></ruby>に<ruby>何分<rt>なんぷん</rt></ruby>？)」 |
+|  | *(…「Cố gắng」 cụ thể là mấy phút?)* |
+| **松本** | 「ズンさん、<ruby>本日<rt>ほんじつ</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>までですか？」 |
+|  | *Dũng-san, hôm nay đến mấy giờ thế?* |
+| **ズン** | 「えっと…30<ruby>分<rt>ぷん</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>で…」 |
+|  | *Ờ... dự kiến 30 phút ạ...* |
 
-**Vì sao xấu:** "なるべく" "頑張って" — không phải commitment, là wish. Khách Nhật cần time-budget cụ thể để track. Buộc Matsumoto phải hỏi → loss face cho Dũng.
+**Vì sao xấu:** "なるべく" "頑張って" — không phải lời cam kết, chỉ là mong muốn. Khách Nhật cần ngân sách thời gian cụ thể để theo dõi. Buộc Matsumoto phải hỏi lại → Dũng mất mặt.
 
 ---
 
-## ✅ Hội thoại TỐT — explicit time promise
+## ✅ Hội thoại TỐT — cam kết thời gian rõ ràng
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「**本日は30分の枠**でいただいております【1】。プレゼン20分、Q&A 10分の構成でございます。**20分経過した時点で必ず Q&A に切り替え**ます【2】、たとえ本編が途中でも。」 |
-| **松本** | 「分かりました。」 |
-| **ズン** | 「**スマホでタイマーをセット**しております【3】。残り時間は私の方で管理いたしますので、ご安心くださいませ。」 |
-| **大垣** | 「(……時間管理を意識してるな、好印象)」 |
+| **ズン** | 「**<ruby>本日<rt>ほんじつ</rt></ruby>は30<ruby>分<rt>ぷん</rt></ruby>の<ruby>枠<rt>わく</rt></ruby>**でいただいております【1】。プレゼン20分、Q&A 10分の<ruby>構成<rt>こうせい</rt></ruby>でございます。**20分<ruby>経過<rt>けいか</rt></ruby>した<ruby>時点<rt>じてん</rt></ruby>で<ruby>必<rt>かなら</rt></ruby>ず Q&A に<ruby>切<rt>き</rt></ruby>り<ruby>替<rt>か</rt></ruby>え**ます【2】、たとえ<ruby>本編<rt>ほんぺん</rt></ruby>が<ruby>途中<rt>とちゅう</rt></ruby>でも。」 |
+|  | *Hôm nay quý vị đã dành cho em khung 30 phút ạ. Cấu trúc gồm pitch 20 phút, Q&A 10 phút. Khi đến 20 phút em chắc chắn sẽ chuyển sang Q&A, dù phần chính chưa hết.* |
+| **松本** | 「<ruby>分<rt>わ</rt></ruby>かりました。」 |
+|  | *Rõ rồi.* |
+| **ズン** | 「**スマホでタイマーをセット**しております【3】。<ruby>残<rt>のこ</rt></ruby>り<ruby>時間<rt>じかん</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>で<ruby>管理<rt>かんり</rt></ruby>いたしますので、ご<ruby>安心<rt>あんしん</rt></ruby>くださいませ。」 |
+|  | *Em đã set timer trên điện thoại ạ. Thời gian còn lại em sẽ quản lý, mong quý vị cứ yên tâm ạ.* |
+| **大垣** | 「(……<ruby>時間管理<rt>じかんかんり</rt></ruby>を<ruby>意識<rt>いしき</rt></ruby>してるな、<ruby>好印象<rt>こういんしょう</rt></ruby>)」 |
+|  | *(…Có ý thức giữ giờ, ấn tượng tốt)* |
 
 📝 **Ghi chú:**
-- 【1】**「30分の枠でいただいております」** — Acknowledge time = recipient's gift, không phải bạn's right.
-- 【2】**「必ず Q&A に切り替え」** — Hard commitment. たとえ prés chưa hết. JP business respect mạnh promise này.
-- 【3】**「タイマーをセット」** — Visible signal of commitment. Có thể là phone trên bàn (silent) hoặc smartwatch.
+- 【1】**「30分の枠でいただいております」** — Ghi nhận thời gian = món quà khách dành cho mình, không phải quyền của bạn.
+- 【2】**「必ず Q&A に切り替え」** — Cam kết cứng. Dù phần chính chưa hết. Khách Nhật rất coi trọng lời cam kết này.
+- 【3】**「タイマーをセット」** — Tín hiệu nhìn thấy được của sự cam kết. Có thể là điện thoại đặt trên bàn (để im) hoặc smartwatch.
 
 ---
 
@@ -49,16 +57,16 @@ Sau phần intro + agenda, Dũng đến phần promise time. 2 cách: implicit (
 
 > **「30分の枠 → プレゼン20分 + Q&A 10分。20分で必ず切り替え。タイマー可視化。」**
 >
-> *30 phút = pitch 20 + Q&A 10. Bất kể bản thân pitch hết chưa, đến 20 phút là switch. Set timer hiện ra.*
+> *30 phút = pitch 20 + Q&A 10. Bất kể bản thân pitch hết chưa, đến 20 phút là chuyển sang Q&A. Đặt timer hiện ra cho thấy được.*
 
 ---
 
 ## ⚠ Tránh
 
-- "なるべく" "頑張って" — không phải promise
-- Promise giờ rồi over-run → vỡ trust nặng. Thà cắt content
-- Không acknowledge "枠でいただいております" → audience cảm thấy bị coi nhẹ
-- Hỏi audience "あと10分いただけますか？" mid-pitch → very negative signal về preparation
+- "なるべく" "頑張って" — không phải lời cam kết
+- Cam kết giờ rồi vượt quá → vỡ niềm tin nặng. Thà cắt bớt nội dung
+- Không ghi nhận "枠でいただいております" → người nghe cảm thấy bị coi nhẹ
+- Hỏi người nghe "あと10分いただけますか？" giữa lúc pitch → tín hiệu rất tiêu cực về sự chuẩn bị
 
 ---
 
@@ -66,11 +74,11 @@ Sau phần intro + agenda, Dũng đến phần promise time. 2 cách: implicit (
 
 | 漢字 / Tiếng Nhật | よみ | Nghĩa |
 |------|------|-------|
-| 枠 | わく | Khung / slot |
+| 枠 | わく | Khung giờ / suất giờ |
 | 切り替え | きりかえ | Chuyển đổi |
 | 経過 | けいか | Đã trôi qua |
-| タイマー | taimaa | Timer |
-| 可視化 | かしか | Visualization |
+| タイマー | taimaa | Đồng hồ đếm giờ |
+| 可視化 | かしか | Trực quan hóa |
 | 頑張って | がんばって | Cố gắng (vague — tránh khi commit) |
 | 構成 | こうせい | Cấu trúc |
 | 好印象 | こういんしょう | Ấn tượng tốt |

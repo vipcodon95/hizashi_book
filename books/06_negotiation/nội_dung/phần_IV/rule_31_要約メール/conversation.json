@@ -9,7 +9,10 @@
     "ja": "商談翌朝、Hương レビュー → 24時間以内に5セクション構成の確認メールを送信し、稟議に添付できる正式文書とする場面。",
     "vi": "Sáng hôm sau đàm phán, Hương review trước khi Dũng gửi recap mail trong 24h với 5 sections — trở thành tài liệu chính thức gửi kèm ringi."
   },
-  "related_rules": ["rule_30", "rule_32"],
+  "related_rules": [
+    "rule_30",
+    "rule_32"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -117,7 +120,9 @@
           "sentence": "本文の構成は ①出席者、②合意事項 7 項目、③未決事項 2 項目、④次のアクション owner+期限付き、⑤添付 提案書 v3.2 です。",
           "sentence_translation": "Cấu trúc body: ①Attendees, ②7 items đã đồng thuận, ③2 items chưa quyết, ④Next actions có owner + deadline, ⑤Đính kèm proposal v3.2.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_31_good_05",
@@ -136,7 +141,9 @@
           "sentence": "大垣様より OK 返信いただきました。稟議 5/7 上申とのことです。次は契約書 draft を準備します。",
           "sentence_translation": "Em đã nhận OK reply từ anh Ōgaki ạ. Ringi đệ trình 7/5 ạ. Tiếp theo em sẽ chuẩn bị contract draft ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         }
       ]
     }
@@ -166,10 +173,10 @@
       "skill": "場面把握",
       "question_ja": "商談後 recap メールを 24 時間以内に送る最大の理由は？",
       "options": [
-        "礼儀作法のため",
+        "翻訳に時間がかかるため",
         "クライアントの稟議文書に添付する正式な認識合わせ文書となるため",
-        "上司に報告するため",
-        "翻訳に時間がかかるため"
+        "礼儀作法のため",
+        "上司に報告するため"
       ],
       "correct": "B",
       "explanation": {

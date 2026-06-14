@@ -9,7 +9,11 @@
     "ja": "BATNA作成翌日、フオン副部長と相手側の予算上限を推定し ZOPA が存在するかマッピングする場面。",
     "vi": "Hôm sau khi xong BATNA, Dũng cùng chị Hương map ZOPA — ước lượng budget ceiling của khách để xác nhận có vùng deal khả dĩ."
   },
-  "related_rules": ["rule_01", "rule_08", "rule_18"],
+  "related_rules": [
+    "rule_01",
+    "rule_08",
+    "rule_18"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -89,7 +93,9 @@
           "sentence": "フオン副部長、ZOPA マッピングを作りました。弊社 target ¥18M、reservation ¥15M。白鷗側は推定 budget ceiling ¥17M、最低期待品質ライン Phase 2 同等以上です。",
           "sentence_translation": "Chị Hương, em đã làm ZOPA mapping ạ. Bên mình target ¥18M, reservation ¥15M. Bên Hakuō ước budget ceiling ¥17M, floor về chất lượng là tương đương Phase 2 trở lên ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_02_good_02",
@@ -108,7 +114,9 @@
           "sentence": "Phase 2 が ¥14.5M でクローズ、白鷗 IT 部の年度予算は前年比 +15% と田中さんが Slack で漏らしていました。14.5 × 1.15 ≒ ¥16.7M、切り上げて ¥17M です。",
           "sentence_translation": "Phase 2 chốt ¥14.5M, ngân sách năm phòng IT Hakuō tăng 15% — anh Tanaka có lộ trên Slack ạ. 14.5 × 1.15 ≒ ¥16.7M, làm tròn thành ¥17M ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_02_good_04",
@@ -149,8 +157,8 @@
       "options": [
         "自社 target + 自社 reservation のみ",
         "自社 target + reservation + 相手 ceiling + 相手 floor",
-        "自社 target + 相手 ceiling のみ",
-        "相手 ceiling + 競合価格 + 自社原価 + 利益率"
+        "相手 ceiling + 競合価格 + 自社原価 + 利益率",
+        "自社 target + 相手 ceiling のみ"
       ],
       "correct": "B",
       "explanation": {

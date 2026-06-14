@@ -9,7 +9,11 @@
     "ja": "ズンが Phase 3 リハーサル準備でスライドのフォントサイズと階層を見直す場面。最初は全部18pt+MS明朝で潰れる → チェックリストで修正。",
     "vi": "Dũng chuẩn bị rehearsal Phase 3 — review font size + hierarchy. Ban đầu toàn 18pt + MS明朝 bị mờ → sửa theo checklist."
   },
-  "related_rules": ["rule_02", "rule_05", "rule_06"],
+  "related_rules": [
+    "rule_02",
+    "rule_05",
+    "rule_06"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -89,7 +93,9 @@
           "sentence": "チェックリストで全スライド見直しました。タイトル36pt、サブ24pt、本文20pt、フォントはMeiryo統一です。",
           "sentence_translation": "Em đã review toàn slide theo checklist ạ. Title 36pt, sub 24pt, body 20pt, font thống nhất Meiryo ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_04_good_02",
@@ -108,7 +114,9 @@
           "sentence": "ラベル14pt でした…20pt以上に上げます。",
           "sentence_translation": "Label đang 14pt ạ... em sẽ chỉnh lên 20pt+ ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_04_good_04",
@@ -148,9 +156,9 @@
       "question_ja": "プロジェクターでプレゼンする場合、本文の最小フォントサイズは？",
       "options": [
         "12pt",
-        "16pt",
+        "30pt",
         "20pt",
-        "30pt"
+        "16pt"
       ],
       "correct": "C",
       "explanation": {

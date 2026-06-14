@@ -9,7 +9,12 @@
     "ja": "白鷗3名+随行3名のHCMC visit終了後、20:00時点でリンが6枚名刺を24h処理プランで管理する場面。",
     "vi": "Sau event đoàn 白鷗 3 cấp trên + 3 đi cùng visit HCMC, 20:00 tối, Linh xử lý 6 danh thiếp theo 24h plan."
   },
-  "related_rules": ["rule_02", "rule_06", "rule_14", "rule_30"],
+  "related_rules": [
+    "rule_02",
+    "rule_06",
+    "rule_14",
+    "rule_30"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -116,7 +121,10 @@
           "sentence_translation": "① Nhập CRM: tối nay xong. ② Ghi chú ngữ cảnh: 1 dòng/người. ③ Scan cloud: folder Google Drive chung. ④ Gửi thư tiếp theo: sáng mai 9:00 gửi qua anh Dũng.",
           "tone": "formal",
           "speed_multiplier": 0.95,
-          "annotation_ids": ["1", "2"]
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
         },
         {
           "line_id": "rule_07_good_03",
@@ -135,7 +143,9 @@
           "sentence": "『Phase 4 予算上限を 1,500万円で気にしている。Q3 決算後に再検討と発言』 — これでいいですか？",
           "sentence_translation": "'Phase 4 quan tâm trần budget 15 triệu yên. Phát biểu sẽ xem xét lại sau quyết toán Q3' — vậy được chưa anh?",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_07_good_05",
@@ -166,12 +176,12 @@
       "skill": "場面把握",
       "question_ja": "受け取った名刺の処理として最も適切なのは？",
       "options": [
-        "週末にまとめて CRM 入力",
         "24時間以内に CRM 入力 + 文脈メモ1行 + スキャン + フォロー送信",
+        "週末にまとめて CRM 入力",
         "名刺ケースに保管のみ",
         "次回会った時に再確認"
       ],
-      "correct": "B",
+      "correct": "A",
       "explanation": {
         "ja": "24時間以内処理が原則。脳の文脈記憶は24h以内に80%以上保持。",
         "vi": "Quy tắc 24h. Não giữ >80% ngữ cảnh trong 24h."

@@ -9,7 +9,10 @@
     "ja": "Phase 3 共同ピッチ。ズン (business + scope, slide 1-12) → ハー CTO (technical architecture, slide 13-18) → ズン (roadmap, slide 19-25)。",
     "vi": "Pitch chung Phase 3. Dũng (business + scope, slide 1-12) → Hà CTO (technical architecture, slide 13-18) → Dũng (roadmap, slide 19-25)."
   },
-  "related_rules": ["rule_09", "rule_14"],
+  "related_rules": [
+    "rule_09",
+    "rule_14"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -88,7 +91,9 @@
           "sentence": "以上で business overview と スコープ概要を終わらせていただきました。次の技術アーキテクチャ詳細につきましては、弊社 CTO ハーよりご説明させていただきます。",
           "sentence_translation": "Em xin phép kết thúc phần business overview và tổng quan scope ạ. Phần kiến trúc kỹ thuật chi tiết tiếp theo sẽ do anh Hà CTO bên em trình bày ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_32_good_02",
@@ -98,7 +103,9 @@
           "sentence": "ハー、よろしくお願いします。",
           "sentence_translation": "Anh Hà, nhờ anh ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_32_good_03",
@@ -108,7 +115,9 @@
           "sentence": "ハーでございます。技術アーキテクチャは3層構成ございます。スライド13 をご覧ください…",
           "sentence_translation": "Tôi là Hà ạ. Kiến trúc kỹ thuật có cấu trúc 3 layer ạ. Mời quý vị xem slide 13...",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_32_good_04",
@@ -158,8 +167,8 @@
       "options": [
         "「じゃあ次、〇〇さんお願いします」",
         "「以上で〇〇を終わらせていただきました。次の〇〇につきましては、〇〇よりご説明させていただきます」",
-        "「〇〇さん、何か言うことある？」",
-        "(silently 受け継ぎ)"
+        "(silently 受け継ぎ)",
+        "「〇〇さん、何か言うことある？」"
       ],
       "correct": "B",
       "explanation": {

@@ -44,12 +44,12 @@
 | 提案書 | ていあんしょ | Đề xuất / proposal | rule_04 |
 | 任せる | まかせる | Tin tưởng giao việc | rule_04 |
 | 完了報告 | かんりょうほうこく | Báo cáo hoàn thành | rule_05 |
-| 検収 | けんしゅう | Nghiệm thu / acceptance | rule_05 |
+| 検収 | けんしゅう | Nghiệm thu | rule_05 |
 | 検収書 | けんしゅうしょ | Văn bản nghiệm thu | rule_05 |
-| 納品 | のうひん | Giao hàng (deliverable) | rule_05 |
+| 納品 | のうひん | Giao hàng (sản phẩm bàn giao) | rule_05 |
 | 反省点 | はんせいてん | Điểm rút kinh nghiệm | rule_05 |
-| 振り返り | ふりかえり | Reflection / retrospective | rule_05 |
-| 工数 | こうすう | Effort / man-day | rule_05 |
+| 振り返り | ふりかえり | Nhìn lại / tổng kết rút kinh nghiệm | rule_05 |
+| 工数 | こうすう | Khối lượng công (man-day) | rule_05 |
 | 手順書 | てじゅんしょ | Tài liệu hướng dẫn | rule_05 |
 | 着手前 | ちゃくしゅまえ | Trước khi bắt đầu | rule_05 |
 | 数値 | すうち | Số liệu | rule_06 |
@@ -151,9 +151,9 @@
 | 詰める | つめる | Truy hỏi | rule_17 |
 | 収拾不能 | しゅうしゅうふのう | Không kiểm soát được | rule_17 |
 | リスケ | risuke | Reschedule (略) | rule_18 |
-| 候補 | こうほう | Phương án / candidate | rule_18 |
-| カレンダー更新 | カレンダーこうしん | Update lịch | rule_18 |
-| 新規招待 | しんきしょうたい | Invite mới | rule_18 |
+| 候補 | こうほ | Phương án / ứng viên (giờ đề xuất) | rule_18 |
+| カレンダー更新 | カレンダーこうしん | Cập nhật lịch | rule_18 |
+| 新規招待 | しんきしょうたい | Lời mời mới | rule_18 |
 | 直前 | ちょくぜん | Sát giờ | rule_18 |
 | 当方 | とうほう | Chúng tôi (formal) | rule_18 |
 | 出張中 | しゅっちょうちゅう | Đang đi công tác | rule_18 |
@@ -205,7 +205,7 @@
 | 見積 | みつもり | Báo giá | rule_24 |
 | 相談させていただきます | そうだんさせていただきます | Em xin phép tham vấn (formal) | rule_24 |
 | 見落とし | みおとし | Bỏ sót | rule_25 |
-| 観点 | かんてん | Góc nhìn / axis đánh giá | rule_25 |
+| 観点 | かんてん | Góc nhìn / tiêu chí đánh giá | rule_25 |
 | 補強 | ほきょう | Bồi đắp / củng cố | rule_25 |
 | 重み付け | おもみづけ | Đánh trọng số | rule_25 |
 | デプロイ | depuroi | Deploy | rule_25 |
@@ -232,10 +232,10 @@
 | 客先 | きゃくさき | Phía khách | rule_29 |
 | ご相談 | ごそうだん | Tham vấn (kính ngữ) | rule_29 |
 | ご教示 | ごきょうじ | Xin chỉ giáo | rule_29 |
-| 幸甚 | こうじん | Hết sức cảm ơn (formal cao) | rule_29 |
+| 幸甚 | こうじん | Hết sức cảm ơn (trang trọng cao) | rule_29 |
 | 線形 | せんけい | Tuyến tính | rule_29 |
 | 段階的 | だんかいてき | Theo giai đoạn | rule_29 |
-| 検証リソース | けんしょうリソース | Resource kiểm thử | rule_29 |
+| 検証リソース | けんしょうリソース | Nguồn lực kiểm thử | rule_29 |
 | 焦点 | しょうてん | Tiêu điểm | rule_29 |
 | 持ち帰り | もちかえり | Mang về (xem xét) | rule_30 |
 | 社内検討 | しゃないけんとう | Xem xét nội bộ | rule_30 |
@@ -296,16 +296,16 @@
 | 適応 | てきおう | Thích nghi | rule_36 |
 
 
-## Phần V — Voicemail, Online & Thực hành tốt nhất
+## Phần V — Voicemail, Online & Best Practice
 
 | 漢字 / Tiếng Nhật | Cách đọc (Romaji) | Nghĩa Việt | Lần đầu xuất hiện |
 |------|------|------|------|
-| ツール選択 | tool せんたく | Chọn tool | rule_37 |
+| ツール選択 | tool せんたく | Chọn công cụ | rule_37 |
 | 共同編集 | きょうどうへんしゅう | Cộng tác chỉnh sửa | rule_37 |
 | 証跡 | しょうせき | Bằng chứng / vết tích | rule_37 |
 | 招待 | しょうたい | Mời (calendar invite) | rule_37 |
 | 編集権 | へんしゅうけん | Quyền chỉnh sửa | rule_37 |
-| 検索 | けんさく | Search | rule_37 |
+| 検索 | けんさく | Tìm kiếm | rule_37 |
 | 改定案 | かいていあん | Bản sửa đổi | rule_37 |
 | 自己診断 | じこしんだん | Self-diagnostic | rule_38 |
 | 評価 | ひょうか | Đánh giá | rule_38 |

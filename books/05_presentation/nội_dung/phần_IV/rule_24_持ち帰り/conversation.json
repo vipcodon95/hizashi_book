@@ -9,7 +9,10 @@
     "ja": "Phase 3 Q&A で大垣部長が SOAP→REST 統合 + OAuth 2.0 の technical detail を質問。ズンは即答できない → 持ち帰り。",
     "vi": "Q&A Phase 3, Ōgaki hỏi chi tiết technical về tích hợp SOAP→REST + OAuth 2.0. Dũng không nắm sâu → 持ち帰り."
   },
-  "related_rules": ["rule_23", "rule_28"],
+  "related_rules": [
+    "rule_23",
+    "rule_28"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -115,7 +118,9 @@
           "sentence": "ご質問ありがとうございます。正直に申し上げますと、SOAP→REST 統合の technical detail は私の方で即答できかねます。",
           "sentence_translation": "Em cảm ơn câu hỏi của anh ạ. Em xin nói thẳng ạ — chi tiết technical về tích hợp SOAP→REST em không thể trả lời ngay tại chỗ ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_24_good_03",
@@ -125,7 +130,9 @@
           "sentence": "弊社 CTO ハーに確認の上、今週金曜17時までにメールで詳細回答させていただきます。OAuth 2.0 のフローも併せて確認いたします。",
           "sentence_translation": "Em sẽ confirm với anh Hà CTO bên em, và phản hồi chi tiết qua email trước 17h thứ Sáu tuần này ạ. Em sẽ check thêm flow OAuth 2.0 luôn ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_24_good_04",
@@ -135,7 +142,9 @@
           "sentence": "お時間3営業日いただいてよろしいでしょうか？",
           "sentence_translation": "Cho em xin 3 ngày làm việc được không ạ?",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_24_good_05",
@@ -183,8 +192,8 @@
       "skill": "表現読解",
       "question_ja": "プレゼンで答えられない技術質問への最も適切な対応は？",
       "options": [
-        "「たぶんできると思います」と推測で答える",
         "「わかりません」とだけ答える",
+        "「たぶんできると思います」と推測で答える",
         "「即答できかねます。〇日までに〇〇に確認の上、ご回答いたします」と deadline 付きで持ち帰り",
         "「後で確認します」と曖昧に答える"
       ],

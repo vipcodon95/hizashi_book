@@ -1,6 +1,6 @@
 # Rule 06 — Density rule (10-20-30) / 密度ルール
 
-> **Luận điểm.** Guy Kawasaki **10-20-30 rule**: tối đa **10 slide / 20 phút / font tối thiểu 30pt** (cho consumer pitch). Adapt cho B2B JP: **10-12 slide / 20-25 phút / 24pt min**. Quá đó = audience overload + slot Q&A bị bóp.
+> **Luận điểm.** Quy tắc **10-20-30** của Guy Kawasaki: tối đa **10 slide / 20 phút / font tối thiểu 30pt** (cho pitch tới người tiêu dùng). Điều chỉnh cho B2B JP: **10-12 slide / 20-25 phút / 24pt tối thiểu**. Quá đó = đối tượng nghe quá tải + slot Q&A bị bóp.
 >
 > 10-20-30ルール (川崎流)。10枚以内・20分以内・最小30pt。日本B2B版: 10-12枚 / 20-25分 / 最小24pt。これを超えると Q&A 時間が削られる。
 >
@@ -18,12 +18,16 @@ Sau review của Hương, Dũng cộng thêm 4 slide phụ "for safety" → quay
 
 | Vai | Câu |
 |---------|-----|
-| **ハーCTO** | 「ズン、最終版14枚？前回10枚って言ってたよね？」 |
-| **ズン** | 「あ、念のため4枚追加しました。バックアップ的に…」 |
-| **ハーCTO** | 「30分プレゼン＋15分Q&Aで14枚？1枚2分超過。**Q&A時間が消える**。あと、追加4枚はどれも『話したい』だけで『決めるのに必要』じゃない。」 |
+| **ハーCTO** | 「ズン、<ruby>最終版<rt>さいしゅうばん</rt></ruby>14<ruby>枚<rt>まい</rt></ruby>？<ruby>前回<rt>ぜんかい</rt></ruby>10枚って<ruby>言<rt>い</rt></ruby>ってたよね？」 |
+|  | *Dũng, bản cuối 14 slide à? Lần trước em bảo 10 slide mà?* |
+| **ズン** | 「あ、<ruby>念<rt>ねん</rt></ruby>のため4枚<ruby>追加<rt>ついか</rt></ruby>しました。バックアップ<ruby>的<rt>てき</rt></ruby>に…」 |
+|  | *À, em thêm 4 slide cho chắc ạ. Kiểu backup ấy ạ...* |
+| **ハーCTO** | 「30分プレゼン＋15分Q&Aで14枚？1枚2分<ruby>超過<rt>ちょうか</rt></ruby>。**Q&A<ruby>時間<rt>じかん</rt></ruby>が<ruby>消<rt>き</rt></ruby>える**。あと、追加4枚はどれも『<ruby>話<rt>はな</rt></ruby>したい』だけで『<ruby>決<rt>き</rt></ruby>めるのに<ruby>必要<rt>ひつよう</rt></ruby>』じゃない。」 |
+|  | *30 phút pitch + 15 phút Q&A mà 14 slide? Vượt 2 phút/slide. Q&A sẽ biến mất. Với 4 slide thêm này toàn 「muốn nói」 chứ không phải 「cần để quyết」.* |
 | **ズン** | 「えっと…」 |
+|  | *Ờ ạ...* |
 
-**Vì sao xấu:** "念のため追加" = scope creep classic. Mỗi slide cần 1.5-2 phút (incl. transition + breathing) → 14 slide × 2 phút = 28 phút → còn 2 phút cho Q&A. Khách Nhật rất quý phần Q&A.
+**Vì sao xấu:** "念のため追加" = phình phạm vi (scope creep) kinh điển. Mỗi slide cần 1.5-2 phút (gồm cả chuyển slide + lấy nhịp) → 14 slide × 2 phút = 28 phút → còn 2 phút cho Q&A. Khách Nhật rất quý phần Q&A.
 
 ---
 
@@ -31,20 +35,24 @@ Sau review của Hương, Dũng cộng thêm 4 slide phụ "for safety" → quay
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「10-20-30ルールで再 audit しました【1】。本編10枚、appendix 5枚は質問対応用（必要なら出す）。」 |
-| **ハーCTO** | 「いいね、appendix 分離は正しい。本編10枚 × 2分 = 20分、自己紹介+背景3分、Q&A 7分の枠で30分内。」 |
-| **ズン** | 「**フォントは最小24pt**で統一【2】、appendix も同じです。」 |
-| **ハーCTO** | 「OK。本番で14枚出すと『準備不足』に見える、10枚 + appendix の構成は『きっちり感』が出る。」 |
+| **ズン** | 「10-20-30ルールで<ruby>再<rt>さい</rt></ruby>audit しました【1】。<ruby>本編<rt>ほんぺん</rt></ruby>10枚、appendix 5枚は<ruby>質問<rt>しつもん</rt></ruby><ruby>対応用<rt>たいおうよう</rt></ruby>（<ruby>必要<rt>ひつよう</rt></ruby>なら<ruby>出<rt>だ</rt></ruby>す）。」 |
+|  | *Em đã re-audit theo rule 10-20-30 ạ. Body 10 slide, appendix 5 slide để trả lời câu hỏi (cần thì hiện ra).* |
+| **ハーCTO** | 「いいね、appendix <ruby>分離<rt>ぶんり</rt></ruby>は<ruby>正<rt>ただ</rt></ruby>しい。本編10枚 × 2分 = 20分、<ruby>自己紹介<rt>じこしょうかい</rt></ruby>+<ruby>背景<rt>はいけい</rt></ruby>3分、Q&A 7分の<ruby>枠<rt>わく</rt></ruby>で30分<ruby>内<rt>ない</rt></ruby>。」 |
+|  | *Được, tách appendix là đúng. Body 10 slide × 2 phút = 20 phút, intro + background 3 phút, Q&A 7 phút — nằm gọn trong 30 phút.* |
+| **ズン** | 「**フォントは<ruby>最小<rt>さいしょう</rt></ruby>24pt**で<ruby>統一<rt>とういつ</rt></ruby>【2】、appendix も<ruby>同<rt>おな</rt></ruby>じです。」 |
+|  | *Font em thống nhất tối thiểu 24pt ạ, appendix cũng vậy.* |
+| **ハーCTO** | 「OK。<ruby>本番<rt>ほんばん</rt></ruby>で14枚出すと『<ruby>準備不足<rt>じゅんびぶそく</rt></ruby>』に<ruby>見<rt>み</rt></ruby>える、10枚 + appendix の<ruby>構成<rt>こうせい</rt></ruby>は『きっちり<ruby>感<rt>かん</rt></ruby>』が<ruby>出<rt>で</rt></ruby>る。」 |
+|  | *OK. Trên thực tế chiếu 14 slide trông như 「chuẩn bị chưa kỹ」. 10 slide + appendix mới ra 「chỉn chu」.* |
 
 📝 **Ghi chú:**
-- 【1】**10-20-30ルール** — Original consumer用. JP B2B 版は 10-12 / 20-25 / 24pt min. Appendix 分離 = strong signal.
-- 【2】**「最小24pt」** — Rule 04 と整合. Projector後列 + screen share 両方で読める.
+- 【1】**10-20-30ルール** — Bản gốc dùng cho consumer. JP B2B 版は 10-12 / 20-25 / 24pt min. Tách Appendix = tín hiệu mạnh thể hiện sự chuẩn bị kỹ.
+- 【2】**「最小24pt」** — Rule 04 と整合. Đọc được trên cả projector hàng cuối lẫn khi screen share.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「本編10-12枚、20-25分、24pt以上。+ Appendix 分離。Q&A 時間を死守。」**
+> **「<ruby>本編<rt>ほんぺん</rt></ruby>10-12<ruby>枚<rt>まい</rt></ruby>、20-25分、24pt<ruby>以上<rt>いじょう</rt></ruby>。+ Appendix <ruby>分離<rt>ぶんり</rt></ruby>。Q&A <ruby>時間<rt>じかん</rt></ruby>を<ruby>死守<rt>ししゅ</rt></ruby>。」**
 >
 > *Body 10-12 slide, 20-25 phút, min 24pt. Appendix tách riêng. Bảo vệ slot Q&A.*
 
@@ -57,7 +65,7 @@ Sau review của Hương, Dũng cộng thêm 4 slide phụ "for safety" → quay
 - 自己紹介・挨拶: 2分
 - 背景・アジェンダ: 3分
 - Q&A: 7分 (確保)
-─────────────
+-------------
 本編に使える時間: 18分
 
 本編スライド数 = 18分 ÷ 1.5-2分/枚 = 9-12枚
@@ -69,11 +77,11 @@ Sau review của Hương, Dũng cộng thêm 4 slide phụ "for safety" → quay
 
 ## ⚠ Tránh
 
-- 「念のため追加」 → scope creep, 100% sẽ xảy ra nếu không strict
-- 1 slide < 30 giây → audience không kịp absorb, vô nghĩa
-- 1 slide > 3 phút → audience mất focus
-- Bỏ Q&A budget → khách Nhật seen as "không có chỗ thảo luận = không tự tin"
-- 24pt body trên projector vẫn hơi nhỏ → check thực tế
+- 「念のため追加」 → phình phạm vi (scope creep), 100% sẽ xảy ra nếu không siết chặt
+- 1 slide < 30 giây → người nghe không kịp tiếp nhận, vô nghĩa
+- 1 slide > 3 phút → người nghe mất tập trung
+- Bỏ ngân sách thời gian Q&A → khách Nhật nhìn nhận là "không có chỗ thảo luận = không tự tin"
+- 24pt cho phần thân trên projector vẫn hơi nhỏ → kiểm tra thực tế
 
 ---
 

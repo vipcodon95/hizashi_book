@@ -9,7 +9,11 @@
     "ja": "Phase 3 プレゼンの終盤、Q&A 後のクロージング。Recap 3点 + CTA 3点 + 次回会議の場で確定。",
     "vi": "Cuối pitch Phase 3, sau Q&A. Recap 3 + CTA 3 + chốt lịch họp tiếp ngay tại chỗ."
   },
-  "related_rules": ["rule_13", "rule_27", "rule_28"],
+  "related_rules": [
+    "rule_13",
+    "rule_27",
+    "rule_28"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -105,7 +109,9 @@
           "sentence": "では、本日のまとめをさせていただきます。",
           "sentence_translation": "Em xin phép tóm tắt nội dung hôm nay ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_26_good_02",
@@ -125,7 +131,9 @@
           "sentence": "次のステップは3つございます。",
           "sentence_translation": "Next step có 3 mục ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_26_good_04",
@@ -145,7 +153,9 @@
           "sentence": "次回会議は5月8日 14時から白鷗様会議室で予約させていただきました。ご都合いかがでしょうか？",
           "sentence_translation": "Họp tiếp em đã giữ chỗ 14h ngày 8/5 tại phòng họp Hakuō ạ. Quý vị có thuận tiện không ạ?",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_26_good_06",
@@ -193,12 +203,12 @@
       "skill": "場面把握",
       "question_ja": "プレゼンのクロージングで必須の構成は？",
       "options": [
-        "「ありがとうございました」のみ",
-        "Recap 3点 + CTA (action + owner + deadline) + 次回会議確定",
+        "Q&A に戻る",
         "全スライドをもう一度見せる",
-        "Q&A に戻る"
+        "Recap 3点 + CTA (action + owner + deadline) + 次回会議確定",
+        "「ありがとうございました」のみ"
       ],
-      "correct": "B",
+      "correct": "C",
       "explanation": {
         "ja": "Recap 3点で記憶定着、CTA で次の動きを明確化、次回会議その場確定で followup を最小化。",
         "vi": "Recap 3 = nhớ key. CTA = rõ động thái tiếp. Chốt lịch tại chỗ = giảm followup mail qua lại."

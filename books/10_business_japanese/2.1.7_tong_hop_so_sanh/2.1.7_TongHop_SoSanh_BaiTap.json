@@ -27,7 +27,7 @@
       "category": "授受vs受動 基礎",
       "category_vn": "Cơ bản — てもらう vs られる: Cùng sự việc, khác sắc thái",
       "question_ja": "友人が私の荷物を持ってくれた場面。次の2文の違いを正しく説明したものはどれですか？\n①「友人に荷物を持ってもらった。」\n②「友人に荷物を持たれた。」",
-      "question_vn": "Bạn xách đồ giúp tôi. Sự khác nhau giữa ①「〜てもらった」và ②「〜てもらった」(bị động) là gì?",
+      "question_vn": "Bạn xách đồ giúp tôi. Sự khác nhau giữa ①「〜てもらった」(cho-nhận) và ②「〜られた」(bị động) là gì?",
       "choices": {
         "A": "①②ともに同じ意味で違いはない",
         "B": "①は感謝・恩恵を感じている。②は迷惑・不快な気持ちを含む",
@@ -281,7 +281,7 @@
       "level": 2,
       "category": "授受 ビジネス初級",
       "category_vn": "Sơ cấp kinh doanh — Email cảm ơn: いただく vs くださる, góc nhìn khác nhau",
-      "question_ja": "「先日ご来社いただきありがとうございました」と「先日ご来社くださいありがとうございました」の違いはどれですか？",
+      "question_ja": "「先日ご来社いただきありがとうございました」と「先日ご来社くださりありがとうございました」の違いはどれですか？",
       "question_vn": "\"Cảm ơn đã đến thăm hôm trước\" — いただき vs くださり. Sự khác nhau là gì?",
       "choices": {
         "A": "「いただき」は間違い、「くださり」のみ正しい",
@@ -659,7 +659,7 @@
       "question_vn": "Phân loại đúng 6 cấu trúc theo 'Ai làm hành động' và 'Sắc thái'.",
       "choices": {
         "A": "①③⑤は話し手が行動、②④⑥は相手が行動",
-        "B": "①④⑤は話し手が行動（①③は恩恵を与える、②はもらう、④は命令、⑤は許可を得て）、②③はもらう・くれる視点、⑥は強制される",
+        "B": "①④⑤⑥は話し手が行動（①は恩恵を与える、④は命令、⑤は許可を得て、⑥は強制される）、②③は相手が話し手のために行動（②は受け取る視点、③は相手が主語）",
         "C": "すべて話し手が行動する",
         "D": "すべて相手が行動する"
       },
@@ -675,13 +675,13 @@
       "question_ja": "次のビジネス会話の（ア）〜（ウ）に最も適切な表現を選んでください。\n田中（上司）：「この企画、君が担当（ア）か。頑張って。」\n鈴木（部下）：「ありがとうございます。精一杯（イ）。わからないことがあれば、田中部長にご指導（ウ）と思っています。」",
       "question_vn": "Điền vào (ア)〜(ウ) trong hội thoại giữa sếp và nhân viên.",
       "choices": {
-        "A": "ア:させてもらえる／イ:やらせていただきます／ウ:していただきたい",
+        "A": "ア:してくれる／イ:やらせていただきます／ウ:していただきたい",
         "B": "ア:させてあげる／イ:させられます／ウ:させていただきたい",
         "C": "ア:してくれる／イ:してもらいます／ウ:させていただきたい",
         "D": "ア:させてもらえる／イ:させていただきます／ウ:させていただきたい"
       },
       "answer": "A",
-      "explanation_vn": "（ア）「担当させてもらえるか」= Sếp hỏi: Con có được phép phụ trách không? (させてもらう từ góc sếp cho phép cấp dưới). （イ）「精一杯やらせていただきます」= Tôi sẽ cố hết sức (させていただく — xin phép được làm, lịch sự với sếp). （ウ）「ご指導していただきたい」= Mong được sếp hướng dẫn (していただく — nhờ sếp làm, biết ơn). (D) sai ở イ: させていただきます = đúng nhưng「精一杯させていただきます」nghe hơi rườm rà. (B) させられます ở イ = bị ép làm hết sức — phi lý. (C) してもらいます ở イ = sai (ai làm cho tôi?).",
+      "explanation_vn": "（ア）「君が担当してくれるか」= Sếp giao/nhờ việc cho cấp dưới (してくれる — đối phương làm vì mình). KHÔNG dùng「させてもらえるか」vì đó là form người NÓI xin phép cấp trên, không hợp khi sếp chủ động giao việc cho cấp dưới. （イ）「精一杯やらせていただきます」= Tôi xin được làm hết sức (させていただく — nhân viên xin phép, lịch sự với sếp). （ウ）「ご指導していただきたい」= Mong được sếp hướng dẫn (していただく — nhờ sếp làm, biết ơn). (D) sai ở ア (させてもらえる không hợp miệng sếp). (B) させられます ở イ = bị ép làm — phi lý. (C) してもらいます ở イ = sai chủ thể (ai làm cho tôi?).",
       "tip": "Hội thoại sếp-nhân viên: Sếp cho phép → させてもらえるか. Nhân viên nhận → させていただきます. Nhân viên nhờ sếp → していただきたい/いただけますか."
     },
     {

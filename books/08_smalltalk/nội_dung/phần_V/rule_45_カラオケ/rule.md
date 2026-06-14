@@ -1,113 +1,140 @@
 # Rule 45 — Karaoke — chọn bài / カラオケ選曲
 
-> **Luận điểm.** Karaoke 二次会 = thường gặp. **Match thế hệ khách**: 50-60t = **Showa hits (1970s-80s)**, 30-40t = **J-pop / 平成 hits**, dưới 30 = **Reiwa idol / vocaloid**. Tránh **English pop khó hát** + **bài quá dark** + **bài chống nắng (隠れ名曲 không ai biết)**. Sai chọn bài = phá không khí.
+> **Luận điểm.** Karaoke 二次会 = thường gặp. **Khớp thế hệ khách**: 50-60t = **nhạc Showa (1970s-80s)**, 30-40t = **J-pop / nhạc hit thời Heisei**, dưới 30 = **idol Reiwa / vocaloid**. Tránh **nhạc Anh-Mỹ khó hát** + **bài quá u tối** + **bài kén nghe (隠れ名曲 không ai biết)**. Sai chọn bài = phá không khí.
 
 ---
 
 ## 🧠 Tâm lý JP (4 dòng)
 
-- 18番 (おはこ) = "song key" của mỗi người — biết được = +depth.
-- Karaoke = **tham gia là chính, hát hay không quan trọng**. Junior phải hát ít nhất 1 bài.
-- Hát **bài generation match khách** = "ơ em biết bài này à!" — 1 trong những moment cảm động nhất với senior.
-- Tránh: bài tiếng Anh khó / bài chống nắng / bài quá tình cảm với khách opposite gender.
+- <ruby>18番<rt>おはこ</rt></ruby> = "bài tủ" của mỗi người — biết được = thêm chiều sâu.
+- Karaoke = **tham gia là chính, hát hay không quan trọng**. Đàn em phải hát ít nhất 1 bài.
+- Hát **bài đúng thế hệ khách** = "ơ em biết bài này à!" — 1 trong những khoảnh khắc cảm động nhất với khách lớn tuổi.
+- Tránh: bài tiếng Anh khó / bài kén nghe / bài quá tình cảm với khách khác giới.
 
 ---
 
 ## 🎬 Bối cảnh
 
-Tháng 6/2026, sau dinner Phase 4 closing. 二次会 chuyển sang karaoke phòng riêng. Có 4 audience khác nhau: Ōgaki 55t (Showa fan), Tanaka 35t (Mr. Children), Hai 28t (junior VN, nervous), Yamamoto 38t Osaka (cười nhiều). Dũng phải drive playlist cho cả phòng vui.
+Tháng 6/2026, sau bữa tối Phase 4 closing. 二次会 chuyển sang karaoke phòng riêng. Có 4 đối tượng khác nhau: Ōgaki 55t (mê nhạc Showa), Tanaka 35t (Mr. Children), Hai 28t (đàn em VN, hồi hộp), Yamamoto 38t Osaka (cười nhiều). Dũng phải dẫn dắt danh sách bài cho cả phòng vui.
 
 ---
 
 ## 💬 4 Scenarios — dialogue thực chiến
 
-### 📍 Scenario 1 — Kick-off karaoke: bài đầu phòng
+### 📍 Scenario 1 — Mở màn karaoke: bài đầu phòng
 
-*Karaoke vào phòng, drinks ra · senior, đặt drink · KHÔNG để senior hát đầu — junior hát đầu để khởi động phòng · chọn bài an toàn, vui, phù hợp mọi thế hệ — Mr. Children『シーソーゲーム』 — 90s nhưng radio hit, ai cũng biết · end của bài*
+*Vừa vào phòng karaoke, đồ uống ra · KHÔNG để khách lớn tuổi hát đầu — đàn em hát đầu để khởi động không khí · chọn bài an toàn, sôi nổi, hợp mọi thế hệ — Mr. Children『シーソーゲーム』 — nhạc 90s nhưng từng hot trên radio, ai cũng biết · cuối bài*
 
 | Vai | Câu |
 |---------|-----|
 | **大垣** | 「ズン、まず誰行く?」 |
-| **ズン** | 「**まず私から行かせていただきます**。皆さんの空気作れたら(笑)」 |
-| **ズン** | 🎤 (hát) |
-| **皆** | (hát theo refrain — 一体感) |
-| **大垣** | 「ズン上手いやん!ベトナム語で歌うと思ってたわ(笑)」 |
-| **ズン** | 「日本語ばかり練習してます(笑)。次、大垣さんいかがですか?」 |
+|  | *Dũng, ai hát đầu?* |
+| **ズン** | 「**まず私から行かせていただきます**。皆さんの<ruby>空気<rt>くうき</rt></ruby>作れたら(笑)」 |
+|  | *Em xin hát đầu ạ. Để tạo không khí cho mọi người (cười)* |
+| **ズン** | 🎤 Mr. Childrenの『シーソーゲーム』で行きます。(hát) |
+|  | *Em hát 'Seesaw Game' của Mr. Children ạ. (hát)* |
+| **皆** | (hát theo điệp khúc — <ruby>一体感<rt>いったいかん</rt></ruby>) |
+|  | *(cả phòng hát theo — cảm giác hòa nhập)* |
+| **大垣** | 「ズン<ruby>上手<rt>うま</rt></ruby>いやん!ベトナム語で歌うと思ってたわ(笑)」 |
+|  | *Dũng hát hay luôn! Anh tưởng em hát tiếng Việt cơ (cười)* |
+| **ズン** | 「日本語ばかり<ruby>練習<rt>れんしゅう</rt></ruby>してます(笑)。次、大垣さんいかがですか?」 |
+|  | *Em luyện tiếng Nhật suốt (cười). Tiếp anh Ōgaki ạ?* |
 | **大垣** | 「俺な、サザンの『TSUNAMI』。」 |
+|  | *Anh thì 'TSUNAMI' của Southern All Stars.* |
 
-📝 **Công thức vàng:** Junior hát đầu **để khởi động phòng**, chọn bài **vui, nhịp nhanh + 90s** (an toàn, hầu hết JP biết). Sau đó nhường mic sang senior với gợi ý nhẹ.
+📝 **Công thức vàng:** Đàn em hát đầu **để khởi động không khí**, chọn bài **sôi nổi, nhịp nhanh + nhạc 90s** (an toàn, hầu hết người Nhật biết). Sau đó nhường mic sang khách lớn tuổi với gợi ý nhẹ.
 
 ---
 
-### 📍 Scenario 2 — Match Showa cho senior 55t
+### 📍 Scenario 2 — Khớp nhạc Showa cho khách 55t
 
-*60s — cuối bài 'TSUNAMI' · cầm mic, gợi ý bài ít biết nhưng đúng gu · Osaka, mê 80s idol · 年齢層直撃 · stand + mock dancing · ライブ感 — 一気に親密度UP*
+*Cuối bài 'TSUNAMI' · cầm mic, gợi ý bài ít người biết nhưng đúng gu · Osaka, mê idol thập niên 80 · <ruby>年齢層直撃<rt>ねんれいそうちょくげき</rt></ruby> (chạm đúng độ tuổi) · đứng dậy nhảy theo · cảm giác như đang live — tăng vọt độ thân thiết*
 
 | Vai | Câu |
 |---------|-----|
 | **大垣** | (hát xong, vỗ tay) |
-| **ズン** | 「大垣さん、**もし良ければ松田聖子の『青い珊瑚礁』**、Yamamotoさんと一緒にデュエットいかがですか?」【1】 |
+|  | *(hát xong TSUNAMI, vỗ tay)* |
+| **ズン** | 「大垣さん、**もし良ければ<ruby>松田聖子<rt>まつだせいこ</rt></ruby>の『<ruby>青<rt>あお</rt></ruby>い<ruby>珊瑚礁<rt>さんごしょう</rt></ruby>』**、Yamamotoさんと一緒にデュエットいかがですか?」【1】 |
+|  | *Anh Ōgaki, nếu được thì 'Aoi Sangoshou' của Matsuda Seiko, hát đôi với chị Yamamoto được không ạ?* |
 | **山本** | 「えーやっぱりズン、わかってるねえ!行こ大垣さん!」 |
-| **大垣** | 「ええなあ、聖子ちゃん!ズンも一緒に踊らな。」 |
-| **ズン** | 「お供します(笑)」 |
-📝【1】 **Showa idol 1980s = 直撃 senior 50-60t.** "青い珊瑚礁" / "ルビーの指輪 寺尾聰" / "天城越え 石川さゆり" / "高橋真梨子 for the night" = nhật ký tinh thần senior. Suggest cho senior cùng hát = "ơ em biết bài tôi yêu thời đó" — moment đặc biệt.
+|  | *Eee Dũng, em hiểu thật đó! Đi anh Ōgaki!* |
+| **大垣** | 「ええなあ、聖子ちゃん!ズンも一緒に<ruby>踊<rt>おど</rt></ruby>らな。」 |
+|  | *Hay đó, Seiko-chan! Dũng cũng nhảy cùng đi.* |
+| **ズン** | 「<ruby>お供<rt>おとも</rt></ruby>します(笑)」 |
+|  | *Em hầu ạ (cười)* |
+
+📝【1】 **Idol Showa thập niên 1980 = 直撃 khách 50-60t.** "青い珊瑚礁" / "ルビーの指輪 寺尾聰" / "天城越え 石川さゆり" / "高橋真梨子" = ký ức tinh thần của khách lớn tuổi. Gợi ý cho khách cùng hát = "ơ em biết bài tôi yêu thời đó" — khoảnh khắc đặc biệt.
 
 ---
 
-### 📍 Scenario 3 — Match J-pop cho 30-40t
+### 📍 Scenario 3 — Khớp J-pop cho 30-40t
 
-*35t, end của 大垣 + 山本 デュエット · hát · end of song · face lights up · hát · refrain*
+*35t, cuối màn hát đôi của 大垣 + 山本 · mặt rạng lên · điệp khúc hát cùng*
 
 | Vai | Câu |
 |---------|-----|
 | **田中** | 「俺の番か?Mr. Children『innocent world』で。」 |
-| **田中** | 🎤 |
-| **ズン** | 「田中さん、さすがミスチル似合いますね。次、私もう一曲、**スピッツ『チェリー』**でいいですか?」【1】 |
+|  | *Đến anh à? 'innocent world' Mr. Children.* |
+| **田中** | 🎤 (hát) |
+|  | *(hát)* |
+| **ズン** | 「田中さん、さすがミスチル<ruby>似合<rt>にあ</rt></ruby>いますね。次、私もう一曲、**スピッツ『チェリー』**でいいですか?」【1】 |
+|  | *Anh Tanaka đúng là hợp Mr. Children. Tiếp em hát 'Cherry' của Spitz được không?* |
 | **田中** | 「スピッツ!君、いいセンスしてる(笑)」 |
-| **ズン** | 🎤 |
-| **田中** | (hát together) |
+|  | *Spitz! Em gu hay đó (cười)* |
+| **ズン** | 🎤 (hát) |
+|  | *(hát)* |
+| **田中** | (サビで一緒に歌う) |
+|  | *(điệp khúc hát theo)* |
 
-📝【1】 **平成 hits cho 30-40t:** Mr. Children / スピッツ / B'z / ミスチル / aiko / 宇多田ヒカル / コブクロ / ゆず / レミオロメン / EXILE / GReeeeN. **Avoid:** SMAP (chia tay rồi lúng túng) / J-rap (khó khớp gu).
+📝【1】 **Nhạc hit thời Heisei cho 30-40t:** Mr. Children / スピッツ / B'z / ミスチル / aiko / 宇多田ヒカル / コブクロ / ゆず / レミオロメン / EXILE / GReeeeN. **Tránh:** SMAP (chia tay rồi nên dễ lúng túng) / J-rap (khó khớp gu).
 
 ---
 
-### 📍 Scenario 4 — Junior VN nervous + bridge bài VN
+### 📍 Scenario 4 — Đàn em VN hồi hộp + bắc cầu bài VN
 
-*28t junior VN, đầu tiên ở karaoke JP, nervous · rescue · curious · reassured · hát · end*
+*28t đàn em VN, lần đầu ở karaoke Nhật, hồi hộp · gỡ tình huống · tò mò · yên tâm · hát · cuối màn*
 
 | Vai | Câu |
 |---------|-----|
 | **ハイ** | 「すみません、日本の歌、あんまり歌えなくて…」 |
-| **ズン** | 「ハイ、**ベトナム語の歌**でいいよ!**Mỹ Tâm『Như một giấc mơ』** とか。日本人の方も新鮮で喜ばれる。」 |
+|  | *Em xin lỗi, em không hát được nhiều bài Nhật...* |
+| **ズン** | 「ハイ、**ベトナム語の歌**でいいよ!**Mỹ Tâm『Như một giấc mơ』** とか。日本人の方も<ruby>新鮮<rt>しんせん</rt></ruby>で<ruby>喜<rt>よろこ</rt></ruby>ばれる。」 |
+|  | *Hải, hát tiếng Việt được mà! Như 'Như một giấc mơ' của Mỹ Tâm. Khách Nhật cũng thấy mới mẻ.* |
 | **山本** | 「ベトナムの歌!?是非聞きたい!」 |
+|  | *Bài VN! Em muốn nghe lắm!* |
 | **ハイ** | 「では、**ファン・マイン・クイン『Có chàng trai viết lên cây』**で。」 |
-| **ハイ** | 🎤 |
-| **大垣** | 「ベトナム語、響きが綺麗やな。意味は?」 |
-| **ズン** | 「『木に名前を刻んだ少年』っていう恋の歌で、最近VNで流行りました。」 |
-| **大垣** | 「言語違っても、メロディの良さは伝わるんやな。ハイさん、上手かった!」 |
+|  | *Vậy em hát 'Có chàng trai viết lên cây' của Phan Mạnh Quỳnh.* |
+| **ハイ** | 🎤 (hát) |
+|  | *(hát)* |
+| **大垣** | 「ベトナム語、<ruby>響<rt>ひび</rt></ruby>きが<ruby>綺麗<rt>きれい</rt></ruby>やな。意味は?」 |
+|  | *Tiếng Việt nghe đẹp nhỉ. Nghĩa là gì?* |
+| **ズン** | 「『木に名前を<ruby>刻<rt>きざ</rt></ruby>んだ少年』っていう<ruby>恋<rt>こい</rt></ruby>の歌で、最近VNで<ruby>流行<rt>はや</rt></ruby>りました。」 |
+|  | *'Chàng trai khắc tên lên cây', bài tình hot ở VN gần đây.* |
+| **大垣** | 「言語<ruby>違<rt>ちが</rt></ruby>っても、メロディの良さは<ruby>伝<rt>つた</rt></ruby>わるんやな。ハイさん、上手かった!」 |
+|  | *Khác ngôn ngữ vẫn cảm được giai điệu hay. Hải hát giỏi!* |
 
-📝 **Junior VN ở karaoke JP:** không cần ép hát JP. **Bài VN kèm giải thích cho khách JP** = thú vị + phá băng tự nhiên. Gợi ý **bài có giai điệu dễ cảm nhận** (Mỹ Tâm / Sơn Tùng / Hà Anh Tuấn / Phan Mạnh Quỳnh).
+📝 **Đàn em VN ở karaoke Nhật:** không cần ép hát tiếng Nhật. **Bài VN kèm giải thích cho khách Nhật** = thú vị + phá băng tự nhiên. Gợi ý **bài có giai điệu dễ cảm nhận** (Mỹ Tâm / Sơn Tùng / Hà Anh Tuấn / Phan Mạnh Quỳnh).
 
 ---
 
 ## 🎯 Câu vàng copy-paste
 
 ```
-■ KICK-OFF:
+■ MỞ MÀN:
 「まず私から行かせていただきます。皆さんの空気作れたら(笑)」
-「次、[senior]さんいかがですか?」
+「次、[khách lớn tuổi]さんいかがですか?」
 
-■ SUGGEST cho SENIOR (Showa):
-「[senior]さん、もし良ければ松田聖子の『青い珊瑚礁』、いかがですか?」
+■ GỢI Ý cho KHÁCH LỚN TUỔI (nhạc Showa):
+「[khách lớn tuổi]さん、もし良ければ松田聖子の『青い珊瑚礁』、いかがですか?」
 「サザンの『TSUNAMI』、いきましょう!」
 「石川さゆりの『天城越え』、是非!」
 
-■ SUGGEST cho 30-40t (J-pop):
+■ GỢI Ý cho 30-40t (J-pop):
 「Mr. Children『innocent world』、いかがですか?」
 「スピッツの『チェリー』、私もう一曲。」
 「宇多田ヒカル『First Love』、デュエット?」
 
-■ JUNIOR VN bridge:
+■ BẮC CẦU cho ĐÀN EM VN:
 「ベトナム語の歌でいいよ!Mỹ Tâm とか、新鮮で喜ばれる。」
 「『[bài]』っていう[ý nghĩa]の歌で、最近VNで流行りました。」
 
@@ -119,11 +146,11 @@ Tháng 6/2026, sau dinner Phase 4 closing. 二次会 chuyển sang karaoke phòn
 
 ## 📚 Bảng cheat — Bài karaoke theo thế hệ JP
 
-| Thế hệ | Sinh năm | Bài 鉄板 (Showa hits / J-pop) |
+| Thế hệ | Sinh năm | Bài 鉄板 (nhạc Showa / J-pop) |
 |--------|----------|------------------------------|
-| **60t+** (rare karaoke) | 1955-1965 | 美空ひばり「川の流れのように」, 千昌夫「北国の春」 |
-| **50-60t** (Showa core) | 1965-1975 | 松田聖子「青い珊瑚礁」, 寺尾聰「ルビーの指輪」, 石川さゆり「天城越え」, サザン「TSUNAMI」, 中島みゆき「糸」 |
-| **40-50t** (Bubble + 平成 đầu) | 1975-1985 | サザン「真夏の果実」, B'z「ultra soul」, 米米CLUB「君がいるだけで」, ZARD「負けないで」 |
+| **60t+** (hiếm đi karaoke) | 1955-1965 | 美空ひばり「川の流れのように」, 千昌夫「北国の春」 |
+| **50-60t** (lõi Showa) | 1965-1975 | 松田聖子「青い珊瑚礁」, 寺尾聰「ルビーの指輪」, 石川さゆり「天城越え」, サザン「TSUNAMI」, 中島みゆき「糸」 |
+| **40-50t** (Bong bóng + đầu Heisei) | 1975-1985 | サザン「真夏の果実」, B'z「ultra soul」, 米米CLUB「君がいるだけで」, ZARD「負けないで」 |
 | **30-40t** (J-pop ổn định) | 1985-1995 | Mr. Children「innocent world」「シーソーゲーム」, スピッツ「チェリー」, 宇多田ヒカル「First Love」, コブクロ「桜」, ゆず「夏色」 |
 | **20-30t** (Reiwa) | 1995-2005 | YOASOBI「夜に駆ける」, 米津玄師「Lemon」, あいみょん「マリーゴールド」, Official髭男dism「Pretender」 |
 
@@ -131,12 +158,12 @@ Tháng 6/2026, sau dinner Phase 4 closing. 二次会 chuyển sang karaoke phòn
 
 ## ⚠ NG — tuyệt đối tránh
 
-- **Bài English pop khó hát** (Whitney Houston / Mariah Carey) → vocal yếu ai cũng nghe được.
-- **Bài quá dark** (椎名林檎 nội tâm sâu) → phá không khí.
+- **Bài nhạc Anh-Mỹ khó hát** (Whitney Houston / Mariah Carey) → giọng yếu ai cũng nghe ra.
+- **Bài quá u tối** (椎名林檎 nội tâm sâu) → phá không khí.
 - **Bài tình cảm 1-1** với khách khác giới → tín hiệu ngại ngùng.
 - **Bài quá kén** (隠れ名曲 không ai biết) → khách không hát theo được.
 - **Hát quá nhiều** liên tục 3-4 bài → không nhường mic.
-- **Refuse hát** hoàn toàn → "thiếu hợp tác".
+- **Từ chối hát** hoàn toàn → "thiếu hợp tác".
 
 ---
 
@@ -145,7 +172,7 @@ Tháng 6/2026, sau dinner Phase 4 closing. 二次会 chuyển sang karaoke phòn
 | 漢字 | よみ | Nghĩa |
 |------|------|-------|
 | カラオケ | — | Karaoke |
-| 18番 | おはこ | "Specialty song" của mỗi người |
+| 18番 | おはこ | "Bài tủ" của mỗi người |
 | デュエット | — | Hát đôi |
 | 一体感 | いったいかん | Cảm giác hòa nhập |
 | 鉄板 | てっぱん | "Chắc chắn hay" (idiom) |
@@ -159,9 +186,9 @@ Tháng 6/2026, sau dinner Phase 4 closing. 二次会 chuyển sang karaoke phòn
 
 ## 🎓 BJT
 
-**J3 — 場面把握:** Junior hát đầu để warmup. Chọn bài 90s upbeat an toàn.
-**J2 — 表現読解:** Suggest bài cho senior — biết match generation (Showa idol cho 50-60t).
-**J1 — 発言聴解:** Catch khi junior VN nervous → gỡ bằng bài VN + kết nối với JP.
+**J3 — 場面把握:** Đàn em hát đầu để khởi động không khí. Chọn bài 90s sôi nổi an toàn.
+**J2 — 表現読解:** Gợi ý bài cho khách lớn tuổi — biết khớp đúng thế hệ (idol Showa cho 50-60t).
+**J1 — 発言聴解:** Nhận ra khi đàn em VN hồi hộp → gỡ bằng bài VN + kết nối với khách Nhật.
 
 ---
 

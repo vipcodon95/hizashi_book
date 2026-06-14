@@ -21,7 +21,7 @@
         {
           "id": "1-1",
           "question_ja": "「先日の営業事例の説明をしていただき」で使われている「いただく」は、誰が誰に何をしたことを表していますか。",
-          "question_vn": "Trong 'Cảm ơn vì đã giải thích (いただき) về sự cố kinh doanh', ai đã làm gì cho ai?",
+          "question_vn": "Trong 'Cảm ơn vì đã giải thích (いただき) về các trường hợp/ví dụ kinh doanh (営業事例)', ai đã làm gì cho ai?",
           "choices": {
             "A": "佐藤さんが山田課長に説明をした",
             "B": "山田課長が佐藤さんに説明をした",
@@ -104,8 +104,8 @@
             "C": "山本さんが貴社から受け取った高い評価に感謝し、恭順な姿勢を示している",
             "D": "システムはあまり良くなかったが、社交辞令として褒めている"
           },
-          "answer": "C",
-          "explanation_vn": "いただく (nhận từ người cao) ở đây là cách lịch sự để nói 'chúng tôi nhận được đánh giá từ bạn', thể hiện sự cảm ơn và tôn trọng."
+          "answer": "B",
+          "explanation_vn": "Phải đọc kỹ chủ thể trong passage: '弊社のIT部門が貴社のシステムを検討いたしましたところ、非常に高い評価をいただきました' — chủ thể đánh giá là 弊社 (Tech Solution), đối tượng được đánh giá là 貴社のシステム. Tức 弊社 đánh giá hệ thống của 貴社, kết quả rất cao. 'いただきました' ở đây là cách nói khiêm tốn để diễn đạt 'thu được kết quả đánh giá tốt', KHÔNG có nghĩa 貴社 đánh giá 弊社. → (B) đúng. (C) SAI vì đảo ngược chiều đánh giá (tưởng Yamamoto nhận đánh giá TỪ quý công ty)."
         },
         {
           "id": "2-3",
@@ -231,7 +231,7 @@
             "D": "B社とC社は対等な立場で、どちらが決定権を持つか不明確"
           },
           "answer": "A",
-          "explanation_vn": "おられます / おっしゃっておられるため: cả hai đều dùng 敬語 để nói về hành động chủ động của B và C. Nhưng chiều nhân quả: C→B (C quyết định → B làm theo)."
+          "explanation_vn": "おられます / おっしゃっておられる: cả hai đều dùng tôn kính ngữ để mô tả hành động CHỦ ĐỘNG của B社 và C社 (B đang lập lịch, C đang phát biểu) — đáp án A đúng. (Lưu ý: おられる/おっしゃる là tôn kính ngữ, không phải 授受動詞; câu hỏi mượn ngữ cảnh để kiểm tra khả năng nhận diện chủ thể hành động.)"
         },
         {
           "id": "4-3",
@@ -257,7 +257,7 @@
             "D": "三社が競合する関係で、C社に圧力をかけている"
           },
           "answer": "B",
-          "explanation_vn": "協力 (kyōryoku) = cùng làm việc. 'B社とA社が' = cộng với. 'C社に対し' = hướng đến C. 'お願いする' = yêu cầu lịch sự. Quan hệ: B+A → C (liên minh để yêu cầu)."
+          "explanation_vn": "協力 = cùng hợp tác. Trong quyết định 'B社とA社が協力して、C社に対し…お願いする', A và B đứng cùng phía, cùng đề nghị C — nên trong NGỮ CẢNH yêu cầu này, B mô tả đúng quan hệ 'hợp tác cùng đề nghị C'. (Lưu ý: nhìn tổng thể A社 vẫn ở vai chủ trì/発注 cao hơn B社; ở đây từ '同等' chỉ áp cho việc cả hai cùng hướng tới C, không phải đồng đẳng tuyệt đối về cấp bậc.) Các đáp án A/C/D đều mô tả sai quan hệ ba bên."
         }
       ]
     },
@@ -267,7 +267,7 @@
       "level_name": "最上級 / Cao cấp nhất",
       "document_type": "FAX・公式依頼文書",
       "situation_vn": "Công ty Nhật Bản (chủ dự án) gửi công văn chính thức cho công ty nước ngoài (đối tác) để yêu cầu hợp tác và cấp dữ liệu kỹ thuật.",
-      "passage_ja": "平成38年4月13日\n\n【案件名：次世代スマートシティ開発プロジェクト — 技術協力依頼】\n\nGlobal Tech Partners Inc. \nCEO James Wilson 様\n\n平素より格別のお引き立てをいただき、誠にありがとうございます。\n\n弊社は、次世代スマートシティ開発プロジェクトを推進する過程において、貴社の高度な電子通信技術および人工知能システムを導入させていただきたく、本状を認めた次第でございます。\n\nつきましては、下記の事項についてご協力いただきたく、お願い申し上げます。\n\n1. 貴社が保有する基盤技術に関する技術仕様書、設計図面等の資料の提供を賜りたく存じます。弊社の技術部門が、これらの資料に基づいて、当地の気候風土及び社会基盤に適合するシステム設計をさせていただきたいと考えております。\n\n2. 貴社の技術チームによる現地での技術指導及び保守管理サービスを賜りたく、お願い申し上げます。弊社が実装作業を進める際に、随時ご指導をいただき、品質を確保したいと存じます。\n\n3. プロジェクト完了後、技術移転に関する正式契約をご締結いただきたく、お願い申し上げます。\n\n本プロジェクトが両国の技術交流と経済発展に貢献することを心待ちにしており、貴社のご理解とご協力を心よりお待ち申し上げております。何らかのご不明の点やご質問がございましたら、いつでもお気軽にお問い合わせください。\n\n敬具\n\n弊社代表取締役会長\n日本スマートシティ開発公社\n代表取締役会長 高橋一郎\n電話：03-xxxx-xxxx\nメール：info@jcscd.jp",
+      "passage_ja": "令和8年4月13日\n\n【案件名：次世代スマートシティ開発プロジェクト — 技術協力依頼】\n\nGlobal Tech Partners Inc. \nCEO James Wilson 様\n\n平素より格別のお引き立てをいただき、誠にありがとうございます。\n\n弊社は、次世代スマートシティ開発プロジェクトを推進する過程において、貴社の高度な電子通信技術および人工知能システムを導入させていただきたく、本状を認めた次第でございます。\n\nつきましては、下記の事項についてご協力いただきたく、お願い申し上げます。\n\n1. 貴社が保有する基盤技術に関する技術仕様書、設計図面等の資料の提供を賜りたく存じます。弊社の技術部門が、これらの資料に基づいて、当地の気候風土及び社会基盤に適合するシステム設計をさせていただきたいと考えております。\n\n2. 貴社の技術チームによる現地での技術指導及び保守管理サービスを賜りたく、お願い申し上げます。弊社が実装作業を進める際に、随時ご指導をいただき、品質を確保したいと存じます。\n\n3. プロジェクト完了後、技術移転に関する正式契約をご締結いただきたく、お願い申し上げます。\n\n本プロジェクトが両国の技術交流と経済発展に貢献することを心待ちにしており、貴社のご理解とご協力を心よりお待ち申し上げております。何らかのご不明の点やご質問がございましたら、いつでもお気軽にお問い合わせください。\n\n敬具\n\n弊社代表取締役会長\n日本スマートシティ開発公社\n代表取締役会長 高橋一郎\n電話：03-xxxx-xxxx\nメール：info@jcscd.jp",
       "passage_vn": "Ngày 13/4 năm Heisei 38\n\n[Tên dự án: Dự án phát triển Thành phố thông minh thế hệ mới — Đề nghị hợp tác kỹ thuật]\n\nGlobal Tech Partners Inc.\nKính gửi CEO James Wilson\n\nCảm ơn quý công ty đã luôn dành cho chúng tôi sự ưu ái đặc biệt.\n\nTrong quá trình thúc đẩy Dự án phát triển Thành phố thông minh thế hệ mới, công ty chúng tôi mong muốn được áp dụng công nghệ truyền thông điện tử cao cấp và hệ thống trí tuệ nhân tạo của quý công ty, nên xin viết bức thư này.\n\nVì vậy, chúng tôi kính mong quý công ty hợp tác trong các nội dung dưới đây.\n\n1. Chúng tôi kính mong quý công ty cung cấp các tài liệu như bản đặc tả kỹ thuật, bản vẽ thiết kế liên quan đến công nghệ nền tảng mà quý công ty sở hữu. Bộ phận kỹ thuật của chúng tôi mong muốn dựa trên các tài liệu này để thiết kế hệ thống phù hợp với khí hậu, thổ nhưỡng và hạ tầng xã hội của địa phương.\n\n2. Chúng tôi kính mong nhận được dịch vụ hướng dẫn kỹ thuật tại chỗ và bảo trì quản lý từ đội ngũ kỹ thuật của quý công ty. Khi chúng tôi tiến hành công việc lắp đặt, chúng tôi mong muốn nhận được sự chỉ dạy tùy lúc để đảm bảo chất lượng.\n\n3. Sau khi dự án hoàn thành, chúng tôi kính mong quý công ty ký kết hợp đồng chính thức liên quan đến chuyển giao công nghệ.\n\nChúng tôi mong mỏi dự án này sẽ đóng góp vào giao lưu kỹ thuật và phát triển kinh tế của hai nước, và tự đáy lòng chờ đợi sự thấu hiểu cùng hợp tác của quý công ty. Nếu có điểm gì chưa rõ hay có câu hỏi, xin quý công ty cứ thoải mái liên hệ với chúng tôi bất cứ lúc nào.\n\nTrân trọng kính chào,\n\nChủ tịch Hội đồng quản trị kiêm Tổng giám đốc công ty chúng tôi\nTổng công ty Phát triển Thành phố thông minh Nhật Bản\nChủ tịch HĐQT kiêm Tổng giám đốc Takahashi Ichiro\nĐiện thoại: 03-xxxx-xxxx\nEmail: info@jcscd.jp",
       "questions": [
         {

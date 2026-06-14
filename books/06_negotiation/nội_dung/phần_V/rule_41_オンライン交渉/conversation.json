@@ -9,7 +9,10 @@
     "ja": "Phase 3 round 2 を Zoom で実施。Anchor ¥18M 提示時の eye contact (カメラ直視)、screen share strategy、online 沈黙 4 秒の調整。",
     "vi": "Round 2 Phase 3 trên Zoom. Strategy lúc anchor ¥18M: nhìn camera, screen share đúng lúc, silence điều chỉnh xuống 4 giây."
   },
-  "related_rules": ["rule_18", "rule_25"],
+  "related_rules": [
+    "rule_18",
+    "rule_25"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -99,7 +102,9 @@
           "sentence": "Better tier ¥18M、Best tier ¥24M、本日は Better tier をベースにご相談させていただければと存じます。",
           "sentence_translation": "Better tier ¥18M, Best tier ¥24M, hôm nay em xin được trao đổi base trên Better tier ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_41_good_03",
@@ -146,7 +151,9 @@
           "sentence": "online 4 秒 silence で大垣様 reply。screen share は anchor slide 出して即 OFF、camera 直視で沈黙保持。相手が 'connection 大丈夫?' interrupt する前に reply 来た。",
           "sentence_translation": "Online silence 4 giây thì anh Ōgaki đã reply. Screen share chỉ lúc show anchor slide rồi tắt ngay, camera giữ direct gaze giữ silence. Reply đến trước khi anh ấy interrupt 'connection OK?'.",
           "tone": "warm",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         }
       ]
     }
@@ -176,10 +183,10 @@
       "skill": "場面把握",
       "question_ja": "オンライン交渉でアンカー提示後の沈黙の effective range は？",
       "options": [
-        "オフライン同様 7-10 秒",
+        "沈黙はオンラインでは効果なし",
         "online は 4 秒前後、5 秒超えるとネット遅延と勘違いされ interrupt される",
         "1 秒",
-        "沈黙はオンラインでは効果なし"
+        "オフライン同様 7-10 秒"
       ],
       "correct": "B",
       "explanation": {

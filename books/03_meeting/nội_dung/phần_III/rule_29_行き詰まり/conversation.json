@@ -9,7 +9,11 @@
     "ja": "Phase 2交渉で大垣（20%値引き要求）とハーCTO（10%が限界）が30分平行線。司会のズンが冷却期間を作るために『持ち帰り+期限+修正案』を提案する場面。",
     "vi": "Đàm phán phase 2 deadlock 30 phút giữa anh Ōgaki (yêu cầu 20%) và anh Hà CTO (giới hạn 10%). Em Dũng chủ trì phải defuse bằng 持ち帰り + deadline + re-propose."
   },
-  "related_rules": ["rule_25", "rule_32", "rule_42"],
+  "related_rules": [
+    "rule_25",
+    "rule_32",
+    "rule_42"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -114,7 +118,10 @@
           "sentence": "お互いの状況を共有いただきありがとうございます。本日この場で結論を出すのは難しいかと存じますので、一度持ち帰って、別途ご相談する形でいかがでしょうか？",
           "sentence_translation": "Cảm ơn cả hai bên đã chia sẻ tình hình ạ. Em e là khó kết luận tại đây hôm nay, hai bên xin phép mang về và bàn riêng có được không ạ?",
           "tone": "formal",
-          "annotation_ids": ["1", "2"]
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
         },
         {
           "line_id": "rule_29_good_04",
@@ -124,7 +131,9 @@
           "sentence": "弊社では本日のご要望をもとに再検討し、来週水曜までに修正案をお出しいたします。",
           "sentence_translation": "Bên em sẽ xem xét lại theo yêu cầu hôm nay và xin gửi phương án sửa trước thứ Tư tuần sau ạ.",
           "tone": "formal",
-          "annotation_ids": ["3"],
+          "annotation_ids": [
+            "3"
+          ],
           "continues_previous": true
         },
         {
@@ -173,10 +182,10 @@
       "skill": "場面把握",
       "question_ja": "顧客と自社の意見が30分平行線。司会者として最善の対応はどれか？",
       "options": [
+        "会議を強制終了する",
         "司会が独断で妥協案を出す",
-        "強引に決を採る",
         "「本日結論は難しい。一度持ち帰って別途相談」と冷却期間を提案する",
-        "会議を強制終了する"
+        "強引に決を採る"
       ],
       "correct": "C",
       "explanation": {

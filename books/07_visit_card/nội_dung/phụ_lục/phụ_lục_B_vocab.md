@@ -103,7 +103,7 @@
 | 長旅 | ながたび | Đi xa (đường dài) | rule_12 |
 | 誠に | まことに | Vô cùng / thật lòng | rule_12 |
 | お手元 | おてもと | Trong tay (kính ngữ) | rule_12 |
-| お代わり | おかわり | Refill | rule_12 |
+| お代わり | おかわり | Châm thêm (lượt nữa) | rule_12 |
 | お手洗い | おてあらい | Nhà vệ sinh (lịch sự) | rule_12 |
 | お申し付けください | おもうしつけください | Mong anh nói (kính ngữ) | rule_12 |
 | マナーモード | manaa moodo | Chế độ im lặng | rule_12 |

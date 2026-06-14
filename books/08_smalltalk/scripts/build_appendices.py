@@ -157,8 +157,15 @@ def build_appendix_c(rules):
             skill = q.get("skill", "")
             qja = q.get("question_ja", "")
             opts = q.get("options", [])
-            ans = q.get("answer", "")
+            # Schema cũ dùng answer/explain_vi; schema mới (v3) dùng correct/explanation.
+            ans = q.get("answer") or q.get("correct") or ""
             exp = q.get("explain_vi", "")
+            if not exp:
+                explanation = q.get("explanation")
+                if isinstance(explanation, dict):
+                    exp = explanation.get("vi") or explanation.get("ja") or ""
+                elif isinstance(explanation, str):
+                    exp = explanation
             lines.append(f"**{level}-{i:02d}** *(Rule {num:02d}, {skill})*: {qja}")
             lines.append("")
             for opt in opts:

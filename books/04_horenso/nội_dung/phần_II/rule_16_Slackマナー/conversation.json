@@ -158,10 +158,10 @@
       "skill": "表現読解",
       "question_ja": "Slack で深夜23時に通常の仕様書共有を投稿する際、最も適切なメンションは？",
       "options": [
-        "@channel",
         "@here",
+        "全員に DM",
         "メンションなし（翌朝の業務時間に @here）",
-        "全員に DM"
+        "@channel"
       ],
       "correct": "C",
       "explanation": {

@@ -1,10 +1,10 @@
 # Rule 10 — Câu mở chào lịch sự / 商談冒頭
 
-> **Luận điểm.** 30 giây đầu của đàm phán = anchor cho cả buổi. Câu mở phải có 4 phần: **(1) Cảm ơn thời gian**, **(2) Tự giới thiệu lại nếu có đa người**, **(3) Ghi nhận tình hình khách**, **(4) Nói rõ mục tiêu hôm nay ngắn gọn**. Đi thẳng vào bargain = mất giọng điệu trang trọng.
+> **Luận điểm.** 30 giây đầu của đàm phán = neo định sắc thái cho cả buổi. Câu mở phải có 4 phần: **(1) Cảm ơn thời gian**, **(2) Tự giới thiệu lại nếu có nhiều người**, **(3) Ghi nhận tình hình khách**, **(4) Nói rõ mục tiêu hôm nay ngắn gọn**. Đi thẳng vào mặc cả giá = mất giọng điệu trang trọng.
 >
 > 商談冒頭の30秒は全体のtoneを決める。4要素必須: お礼・再自己紹介・相手状況への言及・本日の意図。直で値段の話に入るのは粗野。
 >
-> **Liên quan:** rule 11 (context setting), sách 03 rule 09 (第一声), sách 05 rule 06 (deck opening).
+> **Liên quan:** rule 11 (thiết lập bối cảnh), sách 03 rule 09 (第一声), sách 05 rule 06 (mở đầu slide trình bày).
 
 ---
 
@@ -20,11 +20,14 @@
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「えー、本日 Phase 3 の見積 ¥19M でお持ちしました。早速ですがご検討お願いします。」 |
-| **大垣** | 「あ…はい。早速ですね。」 |
+| **ズン** | 「えー、本日 Phase 3 の<ruby>見積<rt>みつもり</rt></ruby> ¥19M でお<ruby>持<rt>も</rt></ruby>ちしました。<ruby>早速<rt>さっそく</rt></ruby>ですがご<ruby>検討<rt>けんとう</rt></ruby>お<ruby>願<rt>ねが</rt></ruby>いします。」 |
+|  | *Ờ, hôm nay em mang báo giá Phase 3 ¥19M ạ. Xin phép vào luôn để quý cty xem xét ạ.* |
+| **大垣** | 「あ…はい。<ruby>早速<rt>さっそく</rt></ruby>ですね。」 |
+|  | *À... vâng. Vào nhanh nhỉ.* |
 | **中村CFO** | 「…」 |
+|  | *(im lặng, sắp xếp tài liệu)* |
 
-**Vì sao xấu:** 0 phút đã ra giá → 失礼. Khách Nhật cảm "lạnh", không có tone professional. 中村 CFO senior bị "skip" trong câu chào → mất 顔. Cả buổi tone sẽ bị set là "transactional only".
+**Vì sao xấu:** 0 phút đã ra giá → 失礼. Khách Nhật cảm "lạnh", không có giọng điệu chuyên nghiệp. 中村 CFO senior bị bỏ qua trong câu chào → mất 顔. Cả buổi sắc thái sẽ bị định khung thành "chỉ giao dịch mua bán".
 
 ---
 
@@ -32,16 +35,20 @@
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「**本日はお忙しい中、お時間いただきまして誠にありがとうございます**【1】。改めまして、ティエンファットの BD 担当ズンと申します。隣のチーム技術リーダー、トゥアンと参りました【2】。」 |
-| **ズン** | 「**先日の IR でも拝見しましたが、新年度に向けて DX 推進を加速されるとのこと**【3】、私どもも Phase 2 でご協力させていただいた立場として大変心強く存じます。」 |
-| **ズン** | 「**本日は Phase 3 のご提案として、3 段階の選択肢をお持ちしました**【4】。御社のご要望に沿うか、ぜひ忌憚ないご意見をいただければと存じます。」 |
-| **大垣** | 「ご丁寧にありがとうございます。では拝見しましょう。」 |
+| **ズン** | 「**本日はお<ruby>忙<rt>いそが</rt></ruby>しい<ruby>中<rt>なか</rt></ruby>、お<ruby>時間<rt>じかん</rt></ruby>いただきまして<ruby>誠<rt>まこと</rt></ruby>にありがとうございます**【1】。<ruby>改<rt>あらた</rt></ruby>めまして、ティエンファットの BD <ruby>担当<rt>たんとう</rt></ruby>ズンと<ruby>申<rt>もう</rt></ruby>します。<ruby>隣<rt>となり</rt></ruby>のチーム<ruby>技術<rt>ぎじゅつ</rt></ruby>リーダー、トゥアンと<ruby>参<rt>まい</rt></ruby>りました【2】。」 |
+|  | *Hôm nay quý anh dành thời gian trong lúc bận rộn, em xin chân thành cảm ơn ạ. Một lần nữa, em là Dũng, BD bên ティエンファット. Cùng đi với em là anh Tuấn — Tech lead ạ.* |
+| **ズン** | 「**<ruby>先日<rt>せんじつ</rt></ruby>の IR でも<ruby>拝見<rt>はいけん</rt></ruby>しましたが、<ruby>新年度<rt>しんねんど</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて DX <ruby>推進<rt>すいしん</rt></ruby>を<ruby>加速<rt>かそく</rt></ruby>されるとのこと**【3】、<ruby>私<rt>わたくし</rt></ruby>どもも Phase 2 でご<ruby>協力<rt>きょうりょく</rt></ruby>させていただいた<ruby>立場<rt>たちば</rt></ruby>として<ruby>大変<rt>たいへん</rt></ruby><ruby>心強<rt>こころづよ</rt></ruby>く<ruby>存<rt>ぞん</rt></ruby>じます。」 |
+|  | *Em có xem IR vừa rồi, được biết quý cty đang đẩy mạnh DX hướng tới năm tài chính mới. Là bên đã đồng hành Phase 2, chúng em thấy rất phấn khởi ạ.* |
+| **ズン** | 「**本日は Phase 3 のご<ruby>提案<rt>ていあん</rt></ruby>として、3 <ruby>段階<rt>だんかい</rt></ruby>の<ruby>選択肢<rt>せんたくし</rt></ruby>をお<ruby>持<rt>も</rt></ruby>ちしました**【4】。<ruby>御社<rt>おんしゃ</rt></ruby>のご<ruby>要望<rt>ようぼう</rt></ruby>に<ruby>沿<rt>そ</rt></ruby>うか、ぜひ<ruby>忌憚<rt>きたん</rt></ruby>ないご<ruby>意見<rt>いけん</rt></ruby>をいただければと<ruby>存<rt>ぞん</rt></ruby>じます。」 |
+|  | *Hôm nay em mang theo 3 phương án đề xuất Phase 3 ạ. Liệu có đáp ứng được nhu cầu quý cty hay không, mong quý anh cho ý kiến thẳng thắn giúp ạ.* |
+| **大垣** | 「ご<ruby>丁寧<rt>ていねい</rt></ruby>にありがとうございます。では<ruby>拝見<rt>はいけん</rt></ruby>しましょう。」 |
+|  | *Cảm ơn em đã chu đáo. Vậy chúng tôi xin xem nhé.* |
 
 📝 **Ghi chú:**
 - 【1】**お礼が最初** — 「お忙しい中」必ず付ける。CFO クラスにはこの一言で「あなたの時間を尊重」を伝える.
 - 【2】**再自己紹介 + チームメンバー紹介** — 名刺交換しているが、口頭でも明示. 特に CFO 同席時.
-- 【3】**相手状況への言及 (IR / 業績 / 季節)** — 顧客リサーチ (rule 04) の成果をここで使う. "anh/chị nhớ đến tình hình bên em" tone Nhật quan trọng.
-- 【4】**Mục tiêu hôm nay gói trong 1 câu**: "3 段階の選択肢" — KHÔNG quote giá ngay, để discovery đi trước.
+- 【3】**相手状況への言及 (IR / 業績 / 季節)** — 顧客リサーチ (rule 04) の成果をここで使う. "anh/chị nhớ đến tình hình bên em" — sắc thái này rất quan trọng trong văn hóa Nhật.
+- 【4】**Mục tiêu hôm nay gói trong 1 câu**: "3 段階の選択肢" — KHÔNG báo giá ngay, để bước khai thác nhu cầu đi trước.
 
 ---
 
@@ -49,7 +56,7 @@
 
 > **「商談冒頭30秒は4要素 (お礼・再紹介・相手状況・本日意図)。値段は冒頭に出さない。」**
 >
-> *30s mở đàm phán cần 4 yếu tố: cảm ơn / tự giới thiệu lại / ghi nhận tình hình khách / mục tiêu hôm nay. KHÔNG quote giá ngay đầu.*
+> *30s mở đàm phán cần 4 yếu tố: cảm ơn / tự giới thiệu lại / ghi nhận tình hình khách / mục tiêu hôm nay. KHÔNG báo giá ngay đầu.*
 
 ---
 
@@ -58,7 +65,7 @@
 - "早速ですが値段は" → 失礼
 - Bỏ qua CFO trong câu chào (chỉ nhìn 大垣) → mất 顔 senior
 - "お忙しい中" thiếu → tone hời hợt
-- Acknowledge khách bằng câu chung chung "御社は素晴らしい会社" → mất specificity, không show prep
+- Ghi nhận khách bằng câu chung chung "御社は素晴らしい会社" → mất tính cụ thể, không cho thấy đã chuẩn bị kỹ
 
 ---
 

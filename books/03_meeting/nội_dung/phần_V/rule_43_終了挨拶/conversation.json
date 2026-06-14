@@ -9,7 +9,12 @@
     "ja": "4月度月例会議が定刻通り終了。ズン司会が①時間感謝 ②本日のアウトプット要約 ③次のコミット ④結び の4ステップで締めくくる場面。",
     "vi": "Họp định kỳ tháng 4 kết thúc đúng giờ. Dũng đóng họp 4 bước: cảm ơn time → tóm output → cam kết next → kết quan hệ."
   },
-  "related_rules": ["rule_09", "rule_42", "rule_44", "rule_47"],
+  "related_rules": [
+    "rule_09",
+    "rule_42",
+    "rule_44",
+    "rule_47"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -71,7 +76,9 @@
           "sentence": "本日はお忙しい中、お時間いただき誠にありがとうございました。",
           "sentence_translation": "Hôm nay anh chị bận mà vẫn dành thời gian, em xin chân thành cảm ơn ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_43_good_02",
@@ -99,7 +106,9 @@
           "sentence": "本日は誠にありがとうございました。今後ともどうぞよろしくお願い申し上げます。",
           "sentence_translation": "Hôm nay em xin chân thành cảm ơn ạ. Mong tiếp tục được anh chị giúp đỡ ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_43_good_05",
@@ -139,11 +148,11 @@
       "question_ja": "顧客会議の締めくくりに最も適切な挨拶はどれか？",
       "options": [
         "じゃあ、お疲れ様でした",
-        "本日はお時間いただき誠にありがとうございました。今後ともどうぞよろしくお願い申し上げます",
         "終わりました",
+        "本日はお時間いただき誠にありがとうございました。今後ともどうぞよろしくお願い申し上げます",
         "また今度"
       ],
-      "correct": "B",
+      "correct": "C",
       "explanation": {
         "ja": "感謝+関係継続の結びが顧客会議の formal 標準。",
         "vi": "Cảm ơn + cam kết duy trì quan hệ là chuẩn formal cho họp khách."

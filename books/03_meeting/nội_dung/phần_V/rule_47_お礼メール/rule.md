@@ -1,8 +1,8 @@
 # Rule 47 — Follow-up email cảm ơn / お礼メール
 
-> **Luận điểm.** Sau họp quan trọng (đàm phán, kick-off, lần đầu gặp), cần **email cảm ơn riêng** trong 24h, KHÁC với biên bản. Body 4 phần: (1) **cảm ơn time**, (2) **3 điểm chính ấn tượng**, (3) **next step cụ thể**, (4) **closing quan hệ**. Subject: 「**御礼：〇月〇日の打合せ**」.
+> **Luận điểm.** Sau họp quan trọng (đàm phán, khởi động dự án, lần đầu gặp), cần **email cảm ơn riêng** trong 24h, KHÁC với biên bản. Nội dung 4 phần: (1) **cảm ơn thời gian**, (2) **3 điểm chính ấn tượng**, (3) **bước tiếp theo cụ thể**, (4) **lời kết gắn kết quan hệ**. Tiêu đề: 「**御礼：〇月〇日の打合せ**」.
 >
-> お礼メール構成：①感謝 ②3つの điểm chính rút ra ③次のステップ ④結語。議事録とは別送。
+> お礼メール構成：①感謝 ②điểm chính rút ra (3 điểm) ③次のステップ ④結語。議事録とは別送。
 >
 > **Liên quan:** Rule 02 (mời họp), Rule 45 (biên bản), Rule 49 (CRM tracking).
 > Sách 01 (Email) Rule 25-32 (mail tổng quát).
@@ -21,9 +21,10 @@ Họp đàm phán phase 2 đầu tiên với anh Ōgaki vừa xong. Đây là l�
 
 | Vai | Câu |
 |---------|-----|
-| **大垣** | 「ズンさんは議事録だけで、初対面のお礼もないですね…」 |
+| **大垣** | 「ズンさんは<ruby>議事録<rt>ぎじろく</rt></ruby>だけで、<ruby>初対面<rt>しょたいめん</rt></ruby>のお<ruby>礼<rt>れい</rt></ruby>もないですね…」 |
+|  | *Dũng chỉ gửi biên bản, không có cảm ơn lần đầu gặp nhỉ...* |
 
-**Vì sao xấu:** Khách Nhật rất quý "お礼の文化". Lần đầu gặp + không có email cảm ơn = kết nối cá nhân yếu.
+**Vì sao xấu:** Khách Nhật rất quý "お礼の文化". Lần đầu gặp + không có thư cảm ơn = kết nối cá nhân yếu.
 
 ---
 
@@ -32,21 +33,21 @@ Họp đàm phán phase 2 đầu tiên với anh Ōgaki vừa xong. Đây là l�
 📐 **Xem template chi tiết** trong `conversation.json:templates[0]`. Cấu trúc:
 
 1. **Subject:** 「御礼：〇月〇日の打合せ」
-2. **Mở:** 「お世話になっております。本日はお忙しい中、貴重なお時間を頂戴し、誠にありがとうございました。」
-3. **3 điểm chính:** "今回の打合せでは、以下3点が特に印象に残りました — ①〜 ②〜 ③〜"
-4. **Next step:** "つきましては〇月〇日までに〇〇をお送りいたします。"
+2. **Mở:** 「お<ruby>世話<rt>せわ</rt></ruby>になっております。<ruby>本日<rt>ほんじつ</rt></ruby>はお<ruby>忙<rt>いそが</rt></ruby>しい<ruby>中<rt>なか</rt></ruby>、<ruby>貴重<rt>きちょう</rt></ruby>なお<ruby>時間<rt>じかん</rt></ruby>を<ruby>頂戴<rt>ちょうだい</rt></ruby>し、<ruby>誠<rt>まこと</rt></ruby>にありがとうございました。」
+3. **3 điểm chính:** "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>打合<rt>うちあわ</rt></ruby>せでは、<ruby>以下<rt>いか</rt></ruby>3<ruby>点<rt>てん</rt></ruby>が<ruby>特<rt>とく</rt></ruby>に<ruby>印象<rt>いんしょう</rt></ruby>に<ruby>残<rt>のこ</rt></ruby>りました — ①〜 ②〜 ③〜"
+4. **Bước tiếp theo:** "つきましては〇月〇日までに〇〇をお送りいたします。"
 5. **Closing:** "今後ともどうぞよろしくお願い申し上げます。"
 
 📝 **Phân biệt với biên bản:**
-- 議事録 = formal record (8 elements, structured).
-- お礼メール = chạm cảm xúc cá nhân (warm, ngắn ~150 từ JP).
+- 議事録 = bản ghi chính thức (8 thành phần, có cấu trúc).
+- お礼メール = chạm cảm xúc cá nhân (tone ấm, ngắn ~150 từ JP).
 - Cả 2 gửi trong 24h.
 
 ---
 
 ## 🎯 Câu chốt
 
-> **「御礼：〇月〇日の打合せ」 → cảm ơn → 3 takeaway → next step → 結語. ~150 từ.**
+> **「御礼：〇月〇日の打合せ」 → cảm ơn → 3 điểm chính rút ra → bước tiếp theo → 結語. ~150 từ.**
 
 ---
 
@@ -55,7 +56,7 @@ Họp đàm phán phase 2 đầu tiên với anh Ōgaki vừa xong. Đây là l�
 - Chỉ gửi biên bản, bỏ qua email cảm ơn.
 - Subject 「ありがとうございました」 trống không.
 - Follow-up mail dài như biên bản.
-- Quên next step → khách không biết phải chờ gì.
+- Quên bước tiếp theo → khách không biết phải chờ gì.
 
 ---
 

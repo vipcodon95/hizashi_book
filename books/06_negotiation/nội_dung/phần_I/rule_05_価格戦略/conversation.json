@@ -9,7 +9,12 @@
     "ja": "Phase 3 価格モデル決定会議。CTO + 副部長 + Tuấn + Dũng が cost-plus / value-based / anchoring を比較する。",
     "vi": "Họp quyết mô hình giá Phase 3. CTO + chị Hương + Tuấn + Dũng so 3 mô hình cost-plus / value-based / anchoring."
   },
-  "related_rules": ["rule_02", "rule_06", "rule_18", "rule_23"],
+  "related_rules": [
+    "rule_02",
+    "rule_06",
+    "rule_18",
+    "rule_23"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -96,7 +101,9 @@
           "sentence": "Phase 3 価格戦略案、3 つ比較しました。",
           "sentence_translation": "Em đã so sánh 3 phương án giá Phase 3 ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_05_good_02",
@@ -106,7 +113,9 @@
           "sentence": "Cost-plus: ¥16.5M。Value-based: 白鷗売上 +¥80M インパクト × 20% = ¥16M、+リスクシェア込みで ¥19M。Anchoring 起点 ¥22M (Y 社水準)、譲歩で ¥18M 着地想定。推奨は value-based ¥19M を anchor、target ¥18M、reservation ¥15M です。",
           "sentence_translation": "Cost-plus: ¥16.5M. Value-based: impact +¥80M × 20% = ¥16M, cộng risk-share thành ¥19M. Anchoring khởi ¥22M (mức Y社), nhượng bộ về ¥18M. Đề xuất: anchor ¥19M value-based, target ¥18M, reservation ¥15M ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_05_good_03",
@@ -125,7 +134,9 @@
           "sentence": "はい。AI レコメンド導入で transaction 単価 +12%、white paper でモデルケース 3 社あります。CFO 中村さんへの ROI シートも作成済みです。",
           "sentence_translation": "Vâng ạ. Triển khai AI recommend giúp transaction unit price +12%, có 3 model case trong white paper. ROI sheet cho CFO Nakamura em cũng đã làm xong ạ.",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_05_good_05",
@@ -156,12 +167,12 @@
       "skill": "表現読解",
       "question_ja": "戦略案件 (新機能込み・売上+¥80M インパクト) に最も適切な価格戦略は？",
       "options": [
-        "Cost-plus 単独",
         "Value-based + anchoring",
-        "競合追随 (競合と同額)",
-        "市場最低価格"
+        "市場最低価格",
+        "Cost-plus 単独",
+        "競合追随 (競合と同額)"
       ],
-      "correct": "B",
+      "correct": "A",
       "explanation": {
         "ja": "戦略案件は cost ではなく value で売る。Anchoring で交渉余地を確保しつつ ROI で正当化する。",
         "vi": "Deal chiến lược bán theo value, không theo cost. Anchoring để có chỗ đàm phán + ROI để biện minh."

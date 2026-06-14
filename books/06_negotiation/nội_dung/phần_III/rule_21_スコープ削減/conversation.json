@@ -9,7 +9,11 @@
     "ja": "Ōgaki が ¥16M (1年契約) を要求。Dũng は scope (dashboard / PM) を Phase 4 に後出ししunit price を維持する場面。",
     "vi": "Ōgaki ép ¥16M (hợp đồng 1 năm). Dũng counter bằng cắt scope (dashboard / PM) đẩy sang Phase 4, giữ unit price."
   },
-  "related_rules": ["rule_19", "rule_09", "rule_22"],
+  "related_rules": [
+    "rule_19",
+    "rule_09",
+    "rule_22"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -96,7 +100,10 @@
           "sentence": "ご検討ありがとうございます。1 年契約 + ¥16M でしたら、スコープ調整が必要になります。具体的には、AI dashboard カスタム部分 (-工数 ¥1M) + 専任 PM 半常駐化 (-工数 ¥0.5M) を Phase 4 に後出し、これで ¥16M、SLA 99.5% (Better は 99.9%) も同時調整。",
           "sentence_translation": "Em cảm ơn quý anh đã xem xét ạ. Hợp đồng 1 năm + ¥16M thì cần điều chỉnh scope ạ. Cụ thể: phần custom AI dashboard (-effort ¥1M) + PM chuyên trách bán-túc trực (-effort ¥0.5M) đẩy sang Phase 4, tổng thành ¥16M, đồng thời SLA điều chỉnh 99.5% (Better 99.9%) ạ.",
           "tone": "formal",
-          "annotation_ids": ["1", "2"]
+          "annotation_ids": [
+            "1",
+            "2"
+          ]
         },
         {
           "line_id": "rule_21_good_03",
@@ -115,7 +122,9 @@
           "sentence": "AI レコメンドエンジン core は Phase 3 で稼働、dashboard は Phase 2 流用版で代替可能です。unit price (機能あたり単価) は同等のまま、総額調整という形です。Phase 4 着手時に dashboard 追加で +¥1M、その時に再ご相談という形ではいかがでしょうか？",
           "sentence_translation": "Core AI recommend engine vẫn vận hành ở Phase 3, dashboard dùng bản tận dụng từ Phase 2 thay thế được ạ. Unit price (giá đơn vị tính năng) giữ nguyên, chỉ điều chỉnh tổng tiền. Phase 4 khởi động sẽ thêm dashboard +¥1M, lúc đó trao đổi lại ạ — quý anh thấy thế nào?",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_21_good_05",
@@ -154,12 +163,12 @@
       "skill": "表現読解",
       "question_ja": "顧客が値下げを求めた時、粗利率を守る最善のアプローチは？",
       "options": [
+        "断って walk away",
         "そのまま値下げして契約獲得を優先",
         "スコープ削減 (deferable feature を後出し) で unit price 維持",
-        "断って walk away",
         "他社競合価格に合わせる"
       ],
-      "correct": "B",
+      "correct": "C",
       "explanation": {
         "ja": "scope 削減で unit price 維持は粗利率を守りつつ顧客 budget に合わせる両立解。defer 機能は Phase n+1 で復活させる。",
         "vi": "Cắt scope giữ unit price = vừa giữ margin vừa khớp budget khách. Tính năng defer khôi phục ở Phase n+1."

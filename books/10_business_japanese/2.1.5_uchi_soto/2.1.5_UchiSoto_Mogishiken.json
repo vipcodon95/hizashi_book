@@ -64,16 +64,16 @@
         {
           "id": "1-4",
           "question_type": "mistake_find",
-          "question_ja": "次の文で敬語の使い方に誤りがあるのはどれですか。「何かご不明な点がございましたら、いつでもお気軽にお問い合わせください。」",
-          "question_vn": "Câu nào sau đây có lỗi dùng kính ngữ? \"何かご不明な点がございましたら、いつでもお気軽にお問い合わせください。\"",
+          "question_ja": "次の文で敬語の使い方に誤りがあるのはどれですか。「何かご不明な点がございましたら、いつでもお気軽にお問い合わせしてください。」",
+          "question_vn": "Câu nào sau đây có lỗi dùng kính ngữ? \"何かご不明な点がございましたら、いつでもお気軽にお問い合わせしてください。\"",
           "choices": {
             "A": "ご不明な点 — tôn kính đúng cho Soto",
-            "B": "ございました — tôn kính quá mức",
+            "B": "ございましたら — biểu hiện lịch sự đúng",
             "C": "お気軽に — biểu hiện tôn kính khách hàng",
-            "D": "お問い合わせください — yêu cầu khách hàng liên hệ"
+            "D": "お問い合わせしてください — sai cấu trúc tôn kính"
           },
           "answer": "D",
-          "explanation_vn": "Cụm 'お問い合わせください' là sai vì '問い合わせ' (liên hệ) là hành động của khách hàng (Soto), không của người tiếp nhận. Không được dùng 'お' trước động từ của Soto. Phải dùng '問い合わせください' hoặc 'ご連絡ください' (yêu cầu Soto hành động của họ)."
+          "explanation_vn": "Lỗi ở 'お問い合わせしてください'. Cấu trúc yêu cầu Soto làm gì đó (尊敬語) đúng là 'お + V連用形 + ください' → phải là 'お問い合わせください'. Thêm 'して' (お問い合わせ + して + ください) là sai, vì 'お〜してください' không phải cấu trúc tôn kính đúng ('お〜する' là khiêm nhường ngữ của Uchi, không dùng để yêu cầu Soto). Các đáp án A, B, C đều đúng: 'ご不明な点', 'ございましたら', 'お気軽に' đều là kính ngữ chuẩn hướng tới khách hàng."
         }
       ]
     },
@@ -131,16 +131,16 @@
         {
           "id": "2-4",
           "question_type": "mistake_find",
-          "question_ja": "下線部の表現が誤っている理由は何ですか。「田中も、貴社とのパートナーシップを大切にしておりますので」",
-          "question_vn": "Tại sao biểu hiện dưới đây là sai? \"田中も、貴社とのパートナーシップを大切にしておりますので\"",
+          "question_ja": "下線部の表現について、敬語の使い方として正しい評価はどれですか。「田中も、貴社とのパートナーシップを大切にしておりますので」",
+          "question_vn": "Đánh giá đúng về cách dùng kính ngữ của biểu hiện dưới đây là gì? \"田中も、貴社とのパートナーシップを大切にしておりますので\"",
           "choices": {
-            "A": "'おります' là tôn kính quá mức với Uchi",
-            "B": "'大切にしております' là biểu hiện tôn kính quá mức với Uchi",
-            "C": "'大切にしていますので' sẽ tự nhiên hơn",
-            "D": "Không có lỗi, biểu hiện hoàn toàn đúng"
+            "A": "'おります' là sai vì tôn kính quá mức với Uchi",
+            "B": "Phải đổi 'おります' thành 'いらっしゃいます'",
+            "C": "'大切にしています' (không khiêm nhường) sẽ đúng hơn khi nói với Soto",
+            "D": "Không có lỗi — 'おります' là khiêm nhường ngữ (謙譲語) dùng đúng cho Uchi"
           },
-          "answer": "A",
-          "explanation_vn": "Lỗi: Khi nói về hành động của người Uchi (田中) với Soto, không được dùng 'おります' (biểu hiện tôn kính quá mức). Phải dùng '大切にしています' hoặc '大切にしているので'. 'おります' chỉ dùng cho hành động của Soto."
+          "answer": "D",
+          "explanation_vn": "Biểu hiện HOÀN TOÀN ĐÚNG. 'おります' là khiêm nhường ngữ (謙譲語) của 'いる', dùng để HẠ THẤP hành động của Uchi (田中) khi nói với Soto — đây chính là cách dùng chuẩn và đáng khuyến khích. (A), (B) sai vì 'おります' không phải tôn kính ngữ và không hề quá mức; muốn tôn kính Soto mới dùng 'いらっしゃいます'. (C) sai vì khi viết cho đối tác, dùng khiêm nhường ngữ 'おります' lịch sự hơn 'います'."
         }
       ]
     },
@@ -175,11 +175,11 @@
           "choices": {
             "A": "弊社の山田課長より、こちらの商品化計画についてご説明させていただきました。",
             "B": "弊社の田中も本プロジェクトに参加する予定です。",
-            "C": "相手方の山本さんからも、貴社の営業戦略についてお尋ねをいただき",
+            "C": "佐藤さんから、貴社の新製品について、詳しく申し上げました。",
             "D": "鈴木部長がご回答させていただきました。"
           },
-          "answer": "A",
-          "explanation_vn": "Lỗi ở 'ご説明させていただきました': Đây là hành động của người Uchi (山田課長). Trong biên bản tài liệu chính thức gửi ra ngoài, không được dùng 'ご' trước hành động của Uchi. Phải dùng '説明させていただきました' hoặc '説明いたしました'. Tuy nhiên, C cũng có vấn đề tương tự với 'お尋ね'."
+          "answer": "C",
+          "explanation_vn": "Lỗi ở C: '申し上げました' là khiêm nhường ngữ (謙譲語) — chỉ dùng cho hành động của bản thân/Uchi. Nhưng chủ thể ở đây là 佐藤さん (Soto, đối tác), nên hạ thấp hành động của Soto là SAI. Phải dùng tôn kính ngữ: 'お話しくださいました' hoặc 'お聞かせくださいました'. → Các đáp án còn lại đều ĐÚNG: A và D dùng 'ご説明/ご回答させていただく' là khiêm nhường ngữ chuẩn cho Uchi (ご ở đây thuộc 謙譲語 'ご〜する/いたす', hoàn toàn hợp lệ); B trung tính, đúng."
         },
         {
           "id": "3-3",
@@ -193,21 +193,21 @@
             "D": "聞き"
           },
           "answer": "A",
-          "explanation_vn": "'お質問をいただき' là cách chính xác để nói về câu hỏi từ Soto. 'お尋ね' là từ tôn kính dành cho hành động của người Uchi (người nói), không phải Soto. 'お伺い' cũng không phù hợp trong trường hợp này."
+          "explanation_vn": "'お質問をいただき' là cách tự nhiên và phổ biến nhất để nói về câu hỏi từ Soto (お質問 tôn kính hành động hỏi của 山本さん + をいただく). (B) 'お尋ねをいただき' cũng chấp nhận được nhưng 'お質問' tự nhiên hơn trong văn bản chính thức. (C) 'お伺い' SAI vì 伺う là khiêm nhường ngữ (hành động hỏi của bản thân/Uchi), không dùng cho Soto. (D) 'お聞き' kém trang trọng."
         },
         {
           "id": "3-4",
           "question_type": "comprehensive",
-          "question_ja": "この議事録全体で見て、内/外ルール（Uchi/Soto）の観点から見て正しくない箇所は何箇所ありますか。",
-          "question_vn": "Xét toàn bộ biên bản, từ góc độ quy tắc Uchi/Soto, có bao nhiêu lỗi?",
+          "question_ja": "この議事録の敬語について、内/外ルール（Uchi/Soto）の観点から正しい説明はどれですか。",
+          "question_vn": "Về kính ngữ trong biên bản này, giải thích nào đúng theo quy tắc Uchi/Soto?",
           "choices": {
-            "A": "1箇所のみ",
-            "B": "2箇所",
-            "C": "3箇所",
-            "D": "4箇所以上"
+            "A": "'ご説明させていただきました'（弊社の山田）は誤りで、'ご' を外すべきだ",
+            "B": "'ご説明・ご回答させていただきました'（弊社側）は謙譲語として正しく、Uchi の行為に使える",
+            "C": "Soto（佐藤さん）の行為には謙譲語 '申し上げる' を使うべきだ",
+            "D": "Uchi（弊社）の人名には必ず 'さん' を付けるべきだ"
           },
-          "answer": "C",
-          "explanation_vn": "Có ít nhất 3 lỗi: 1) 'ご説明させていただきました' (không được dùng ご cho Uchi), 2) 'お尋ねをいただき' (không phù hợp với Soto), 3) 'ご回答させていただきました' (không được dùng ご cho hành động của Uchi). Tất cả đều liên quan đến Uchi/Soto rule."
+          "answer": "B",
+          "explanation_vn": "(B) ĐÚNG: 'ご説明する/ご回答する/させていただく' là khiêm nhường ngữ (謙譲語) — tiền tố 'ご' trong cấu trúc 'ご〜する/いたす/させていただく' thuộc khiêm nhường ngữ, dùng cho hành động của Uchi là hoàn toàn hợp lệ và lịch sự. (A) sai vì 'ご' ở đây không phải tôn kính ngữ thừa. (C) sai vì Soto phải dùng tôn kính ngữ (お話しくださる), không phải khiêm nhường ngữ. (D) sai vì với Soto mới thêm 'さん'; người Uchi nói với Soto thì bỏ 'さん', dùng tên trần hoặc tên + chức vụ."
         }
       ]
     },
@@ -254,13 +254,13 @@
           "question_ja": "以下の表現のうち、正しい内/外ルールの適用はどれですか。",
           "question_vn": "Biểu hiện nào dưới đây áp dụng đúng quy tắc Uchi/Soto?",
           "choices": {
-            "A": "弊社の鈴木がご指示させていただきました。",
-            "B": "相手方の田中さんからご提案をいただきました。",
-            "C": "弊社の山田がお電話いたしました。",
+            "A": "弊社の鈴木が貴社にご指示なさいました。",
+            "B": "相手方の田中さんが提案してさしあげました。",
+            "C": "弊社の山田が貴社にお電話してくださいました。",
             "D": "貴社のご意見を参考にさせていただきます。"
           },
           "answer": "D",
-          "explanation_vn": "D là đúng: 'ご意見' là từ tôn kính cho Soto (貴社). Các đáp án khác đều sai: A dùng 'ご' cho Uchi, B dùng 'ご提案' (nên 'お提案' hoặc '提案') cho Soto, C dùng 'お電話' không phù hợp (dùng 'お電話させていただきました' là không tự nhiên)."
+          "explanation_vn": "D ĐÚNG: 'ご意見' tôn kính ý kiến của Soto (貴社) + 'させていただきます' khiêm nhường hành động của Uchi. Các đáp án khác đều SAI: (A) 'ご指示なさいました' dùng tôn kính ngữ 'なさる' cho người Uchi (鈴木) — sai, phải hạ thấp Uchi. (B) '〜してさしあげました' (cho ơn Soto từ phía Uchi) là thất lễ với khách hàng. (C) 'お電話してくださいました' dùng tôn kính ngữ 'くださる' cho hành động của người Uchi (山田) — sai. → Lưu ý: 'ご提案をいただく' (nhận đề xuất từ Soto) và 'お電話いたす' (Uchi gọi điện) tự thân là đúng; lỗi ở các đáp án trên là dùng SAI hướng tôn kính/khiêm nhường."
         },
         {
           "id": "4-4",

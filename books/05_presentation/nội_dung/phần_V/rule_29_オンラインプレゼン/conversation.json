@@ -9,7 +9,10 @@
     "ja": "ズンが日曜夜にフオン副部長と Zoom rehearsal。最初は laptop 既定で setup → 5要素フルセットに修正。",
     "vi": "Tối Chủ Nhật, Dũng rehearse Zoom với Hương. Ban đầu laptop default → fix 5 yếu tố."
   },
-  "related_rules": ["rule_30", "rule_31"],
+  "related_rules": [
+    "rule_30",
+    "rule_31"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -105,7 +108,9 @@
           "sentence": "5要素 setup 完了です。①外付け webcam を本棚で目線に上げ、②正面にリングライト、③背景は virtual の薄グレー、④ピンマイク、⑤声は通常 +20% 意識します。",
           "sentence_translation": "Em đã thiết lập 5 yếu tố ạ. ① Webcam rời kê lên kệ sách ngang mắt, ② ring light trước mặt, ③ background virtual xám nhạt, ④ mic ve áo, ⑤ giọng em chú ý nói to hơn 20% so bình thường ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_29_good_02",
@@ -124,7 +129,9 @@
           "sentence": "画面下に置いて、重要 point だけ手を上げ gesture を camera frame 内に入れます。",
           "sentence_translation": "Em đặt dưới khung hình, chỉ những điểm quan trọng mới đưa tay lên gesture trong frame camera ạ.",
           "tone": "formal",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_29_good_04",
@@ -143,7 +150,9 @@
           "sentence": "トゥアンさんに chat moderator お願いしました。chat の質問は私が見ずトゥアンさんが verbal で「〇〇様から〜の質問が来ています」と私に渡します。",
           "sentence_translation": "Em nhờ anh Tuấn làm chat moderator ạ. Em không xem chat, anh Tuấn relay verbal kiểu 「Anh 〇〇 vừa gửi câu hỏi 〜」 cho em ạ.",
           "tone": "formal",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         },
         {
           "line_id": "rule_29_good_06",
@@ -182,12 +191,12 @@
       "skill": "場面把握",
       "question_ja": "オンラインプレゼンで最も重要な物理 setup は？",
       "options": [
-        "Laptop デフォルトで十分",
-        "①目線カメラ ②前方照明 ③ピンマイク ④背景クリーン ⑤声 +20%",
         "Virtual background は『Star Trek』など面白いもの",
-        "Chat は presenter 自身がモニター"
+        "Laptop デフォルトで十分",
+        "Chat は presenter 自身がモニター",
+        "①目線カメラ ②前方照明 ③ピンマイク ④背景クリーン ⑤声 +20%"
       ],
-      "correct": "B",
+      "correct": "D",
       "explanation": {
         "ja": "5要素全揃いで professional 印象を確保。Chat は co-presenter にモデレートさせるのが standard。",
         "vi": "Đủ 5 yếu tố mới giữ được professional. Chat để co-presenter moderate là chuẩn."

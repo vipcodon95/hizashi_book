@@ -1,6 +1,6 @@
 # Rule 18 — Báo dời lịch / スケジュール変更連絡
 
-> **Luận điểm.** Reschedule là việc thường xuyên nhưng làm sai dễ mất thiện cảm. Cấu trúc: **Apology → Reason (ngắn) → New options (2-3) → Action who updates calendar**. Báo trễ + chỉ 1 option + không update lịch dùm = sếp/khách bực.
+> **Luận điểm.** Dời lịch (reschedule) là việc thường xuyên nhưng làm sai dễ mất thiện cảm. Cấu trúc: **Xin lỗi → Lý do (ngắn) → Phương án mới (2-3) → Nói rõ ai cập nhật lịch**. Báo trễ + chỉ 1 phương án + không cập nhật lịch dùm = sếp/khách bực.
 >
 > リスケ連絡4要素：①謝罪、②理由（簡潔）、③代替候補2-3案、④カレンダーを誰が更新するか明示。
 >
@@ -12,44 +12,52 @@
 
 ## Bối cảnh / 場面
 
-Em Dũng phát hiện thứ Hai 9h: họp với anh Matsumoto thứ Ba 14h trùng họp nội bộ quan trọng. Cần reschedule. Lần đầu Dũng báo trễ + chỉ 1 option mới. Lần 2 đúng cấu trúc.
+Em Dũng phát hiện thứ Hai 9h: họp với anh Matsumoto thứ Ba 14h trùng họp nội bộ quan trọng. Cần dời lịch. Lần đầu Dũng báo trễ + chỉ 1 phương án mới. Lần 2 đúng cấu trúc.
 
 ---
 
-## ❌ Hội thoại XẤU — báo trễ + 1 option
+## ❌ Hội thoại XẤU — báo trễ + 1 phương án
 
-*thứ Ba 11h, mail · reply 13h*
+*thứ Ba 11h, mail · hồi đáp 13h*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「松本様、明日の14時の会議、社内事情で参加できなくなりました。来週の同じ時間でいかがでしょうか？」 |
-| **松本PM** | 「ズンさん、3時間前の連絡は厳しいです。それと、来週同じ時間は私が出張中です。**他の候補日時** はありますか？」 |
-| **ズン** | 「すみません、調整して再度お送りします…」 |
-| **松本PM** | 「リスケ連絡は **24時間以上前 + 候補3つ** が原則ですよ。」 |
+| **ズン** | 「松本様、明日の14時の<ruby>会議<rt>かいぎ</rt></ruby>、<ruby>社内事情<rt>しゃないじじょう</rt></ruby>で<ruby>参加<rt>さんか</rt></ruby>できなくなりました。<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>同<rt>おな</rt></ruby>じ<ruby>時間<rt>じかん</rt></ruby>でいかがでしょうか？」 |
+|  | *Anh Matsumoto, họp 14h ngày mai, vì việc nội bộ em không tham gia được. Cùng giờ tuần sau anh thấy thế nào ạ?* |
+| **松本PM** | 「ズンさん、3時間前の<ruby>連絡<rt>れんらく</rt></ruby>は<ruby>厳<rt>きび</rt></ruby>しいです。それと、来週同じ時間は<ruby>私<rt>わたし</rt></ruby>が<ruby>出張中<rt>しゅっちょうちゅう</rt></ruby>です。**他の<ruby>候補日時<rt>こうほにちじ</rt></ruby>** はありますか？」 |
+|  | *Dũng, báo trước 3 giờ thì khó. Còn tuần sau cùng giờ thì tôi đi công tác. Có ngày khác không?* |
+| **ズン** | 「すみません、<ruby>調整<rt>ちょうせい</rt></ruby>して<ruby>再度<rt>さいど</rt></ruby>お<ruby>送<rt>おく</rt></ruby>りします…」 |
+|  | *Xin lỗi, em điều chỉnh rồi gửi lại ạ...* |
+| **松本PM** | 「<ruby>リスケ<rt>りすけ</rt></ruby>連絡は **24時間以上前 + <ruby>候補<rt>こうほ</rt></ruby>3つ** が<ruby>原則<rt>げんそく</rt></ruby>ですよ。」 |
+|  | *Báo dời lịch nguyên tắc là 24h trước + 3 phương án đó.* |
 
-**Vì sao xấu:** (1) Báo trước 3 giờ — Nhật chuẩn 24h trước. (2) 1 option duy nhất + trùng với khách. (3) Không update calendar dùm khách.
+**Vì sao xấu:** (1) Báo trước 3 giờ — Nhật chuẩn 24h trước. (2) 1 phương án duy nhất + trùng với khách. (3) Không cập nhật lịch dùm khách.
 
 ---
 
-## ✅ Hội thoại TỐT — 24h trước + 3 options + action
+## ✅ Hội thoại TỐT — 24h trước + 3 phương án + hành động rõ
 
 *thứ 2 9:30, mail · 11h · 11:05*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「件名：【リスケ依頼】4/23(火)14時 定例会議」(body — see template) |
-| **松本PM** | 「ご丁寧にありがとうございます。**候補②(4/24 木 10時)** で確定しましょう。」 |
-| **ズン** | 「ありがとうございます。**こちらでカレンダー更新 + 新規招待をお送りします** 【1】。会議室・Zoom リンクも変更不要です。」 |
-| **松本PM** | 「承知しました。新しい招待をお待ちしております。」 |
+| **ズン** | 「<ruby>件名<rt>けんめい</rt></ruby>：【<ruby>リスケ依頼<rt>りすけいらい</rt></ruby>】4/23(火)14時 <ruby>定例会議<rt>ていれいかいぎ</rt></ruby>」(body — xem template) |
+|  | *Tiêu đề: '[Xin dời lịch] Họp định kỳ 14h thứ Ba 23/4' (phần nội dung — xem template).* |
+| **松本PM** | 「ご<ruby>丁寧<rt>ていねい</rt></ruby>にありがとうございます。**候補②(4/24 木 10時)** で<ruby>確定<rt>かくてい</rt></ruby>しましょう。」 |
+|  | *Cảm ơn em đã chu đáo. Chốt phương án ② (10h thứ Năm 24/4) nhé.* |
+| **ズン** | 「ありがとうございます。**こちらで<ruby>カレンダー更新<rt>カレンダーこうしん</rt></ruby> + <ruby>新規招待<rt>しんきしょうたい</rt></ruby>をお送りします** 【1】。会議室・Zoom リンクも<ruby>変更不要<rt>へんこうふよう</rt></ruby>です。」 |
+|  | *Em cảm ơn anh ạ. Em sẽ cập nhật lịch và gửi invite mới ạ 【1】. Phòng họp và link Zoom cũng không cần đổi ạ.* |
+| **松本PM** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。<ruby>新<rt>あたら</rt></ruby>しい招待をお<ruby>待<rt>ま</rt></ruby>ちしております。」 |
+|  | *Tôi hiểu rồi. Tôi đợi lời mời mới của em nhé.* |
 
 📝 **Ghi chú:**
-- 【1】**「こちらでカレンダー更新」** — bên gây reschedule chịu trách nhiệm update calendar. Không bắt khách tự update.
-- Subject 「【リスケ依頼】+ 日時 nguyên gốc」 — khách nhìn subject là biết.
-- Body có đủ: lý do ngắn (1 dòng) + 3 option mới + action.
+- 【1】**「こちらでカレンダー更新」** — bên gây ra việc dời lịch chịu trách nhiệm cập nhật lịch. Không bắt khách tự cập nhật.
+- Tiêu đề 「【リスケ依頼】+ 日時 nguyên gốc」 — khách nhìn tiêu đề là biết.
+- Phần body có đủ: lý do ngắn (1 dòng) + 3 phương án mới + hành động cụ thể.
 
 ---
 
-## Cấu trúc reschedule mail (4 phần)
+## Cấu trúc email dời lịch (4 phần)
 
 ```
 Subject: 【リスケ依頼】〇月〇日(〇)〇〇時 〇〇会議
@@ -81,22 +89,22 @@ Subject: 【リスケ依頼】〇月〇日(〇)〇〇時 〇〇会議
 
 > **「お詫び → 理由 → 候補3つ → カレンダー更新の責任明示。」**
 >
-> *24h 前を原則。trễ hơn = phone trước.*
+> *24h 前を原則。trễ hơn = gọi điện trước.*
 
 ---
 
 ## ⚠ Tránh
 
-- Báo trước 3 giờ — phải kèm phone call xin lỗi.
-- 1 option duy nhất — khách phải tự đề xuất → mất thời gian.
+- Báo trước 3 giờ — phải kèm gọi điện xin lỗi.
+- 1 phương án duy nhất — khách phải tự đề xuất → mất thời gian.
 - "ご都合の良い時間でお願いします" mở — quá rộng, đùn cho khách.
-- Reschedule mà bắt khách tự update calendar — không lịch sự.
+- Dời lịch mà bắt khách tự cập nhật lịch — không lịch sự.
 
 ---
 
 ## 📐 Template box
 
-Xem `templates[0]` của file conversation: **email_invite — reschedule format**.
+Xem `templates[0]` của file conversation: **email_invite — định dạng email dời lịch**.
 
 ---
 
@@ -105,9 +113,9 @@ Xem `templates[0]` của file conversation: **email_invite — reschedule format
 | 漢字 / Tiếng Nhật | よみ | Nghĩa |
 |------|------|-------|
 | リスケ | risuke | Reschedule (略) |
-| 候補 | こうほう | Phương án / candidate |
-| カレンダー更新 | カレンダーこうしん | Update lịch |
-| 新規招待 | しんきしょうたい | Invite mới |
+| 候補 | こうほ | Phương án / ứng viên (giờ đề xuất) |
+| カレンダー更新 | カレンダーこうしん | Cập nhật lịch |
+| 新規招待 | しんきしょうたい | Lời mời mới |
 | 直前 | ちょくぜん | Sát giờ |
 | 当方 | とうほう | Chúng tôi (formal) |
 | 出張中 | しゅっちょうちゅう | Đang đi công tác |

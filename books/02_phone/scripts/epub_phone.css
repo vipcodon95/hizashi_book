@@ -1,0 +1,128 @@
+/* CSS EPUB riêng cho Sách 02 — Điện thoại Công Việc / 電話応対 (song ngữ trong 1 file).
+
+   Phân tích bảng sách 02 (đếm thực tế ~158 bảng):
+   - 2 cột (đa số): hội thoại | Vai | Câu | — cột Vai ngắn nhưng có vài vai dài
+     ('5+ hồi chuông / hold 30s', 'CFO Nakamura'), cột Câu dài (JP + ruby + dịch).
+     → 20/80 (rộng hơn 16/84 của sách 09 để vai dài không bị bóp).
+   - 3 cột (59 bảng): từ vựng | 漢字 | よみ | Nghĩa | — khá cân → 30/30/40.
+   - 4 cột (5 bảng phụ lục): | Kanji | Romaji | Nghĩa Việt | Rule | — cột Rule rất
+     ngắn (rule_06), Nghĩa Việt dài nhất → 26/26/36/12.
+   - 6 cột (1 bảng quản lý): nhiều cột → class .wide-table (lua gắn) font nhỏ. */
+
+/* Heading */
+h1 { font-size: 1.6em; margin: 1em 0 0.6em; line-height: 1.25; page-break-before: always; }
+h2 { font-size: 1.3em; margin: 1.2em 0 0.5em; line-height: 1.3; }
+h3 { font-size: 1.15em; margin: 1em 0 0.4em; line-height: 1.35; }
+h4 { font-size: 1.05em; margin: 0.9em 0 0.35em; font-weight: bold; }
+h5 { font-size: 0.98em; margin: 0.7em 0 0.25em; font-weight: bold; }
+
+/* Bảng — border 1 nét full + table-layout:fixed để width % được tôn trọng. */
+table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  border: 1px solid #888;     /* viền 1 nét khung ngoài */
+  margin: 0.6em 0 1em;
+  font-size: 0.92em;
+}
+thead th {
+  text-align: left;
+  border: 1px solid #888;     /* viền 1 nét full ô header */
+  padding: 0.3em 0.6em;
+  font-weight: bold;
+  vertical-align: top;
+}
+tbody td {
+  border: 1px solid #ccc;     /* viền 1 nét full ô nội dung */
+  padding: 0.35em 0.6em;
+  vertical-align: top;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+/* === Bảng 2 CỘT (hội thoại: Vai | Câu) — 20/80 === */
+tr > td:first-child:nth-last-child(2),
+tr > th:first-child:nth-last-child(2) {
+  width: 20%;
+  font-weight: bold;
+}
+tr > td:first-child:nth-last-child(2) ~ td,
+tr > th:first-child:nth-last-child(2) ~ th {
+  width: 80%;
+  font-weight: normal;
+}
+
+/* === Bảng 3 CỘT (từ vựng: 漢字 | よみ | Nghĩa) — 30/30/40 === */
+tr > td:first-child:nth-last-child(3),
+tr > th:first-child:nth-last-child(3) {
+  width: 30%;
+}
+tr > td:first-child:nth-last-child(3) ~ td:nth-child(2),
+tr > th:first-child:nth-last-child(3) ~ th:nth-child(2) {
+  width: 30%;
+}
+tr > td:first-child:nth-last-child(3) ~ td:nth-child(3),
+tr > th:first-child:nth-last-child(3) ~ th:nth-child(3) {
+  width: 40%;
+}
+
+/* === Bảng 4 CỘT (phụ lục: Kanji | Romaji | Nghĩa | Rule) — 26/26/36/12 === */
+tr > td:first-child:nth-last-child(4),
+tr > th:first-child:nth-last-child(4) {
+  width: 26%;
+}
+tr > td:first-child:nth-last-child(4) ~ td:nth-child(2),
+tr > th:first-child:nth-last-child(4) ~ th:nth-child(2) {
+  width: 26%;
+}
+tr > td:first-child:nth-last-child(4) ~ td:nth-child(3),
+tr > th:first-child:nth-last-child(4) ~ th:nth-child(3) {
+  width: 36%;
+}
+tr > td:first-child:nth-last-child(4) ~ td:nth-child(4),
+tr > th:first-child:nth-last-child(4) ~ th:nth-child(4) {
+  width: 12%;
+}
+
+/* === Bảng RỘNG (≥6 cột, vd quản lý cuộc gọi) — lua gắn class .wide-table === */
+table.wide-table {
+  table-layout: auto;
+  font-size: 0.78em;
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+table.wide-table th,
+table.wide-table td {
+  padding: 0.25em 0.4em;
+  white-space: normal;
+  min-width: 4em;
+}
+
+/* Ruby furigana (bảng hội thoại có ruby) */
+ruby { ruby-align: center; }
+rt { font-size: 0.6em; }
+
+/* Blockquote — luận điểm, lưu ý */
+blockquote {
+  margin: 0.8em 0;
+  padding: 0.5em 1em;
+  border-left: 3px solid #888;
+  background: #f7f7f7;
+  font-size: 0.95em;
+}
+blockquote p { margin: 0.3em 0; }
+
+/* Code (script mẫu thoại) */
+pre, code { font-family: monospace; font-size: 0.9em; }
+pre {
+  background: #f4f4f4;
+  padding: 0.6em 0.8em;
+  border: 1px solid #ddd;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+hr { border: none; border-top: 1px solid #ccc; margin: 1.2em 0; }
+em { font-style: italic; color: #444; }
+body { font-family: serif; line-height: 1.6; }

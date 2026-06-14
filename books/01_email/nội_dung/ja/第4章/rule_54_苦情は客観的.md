@@ -1,50 +1,50 @@
-# Rule 54 — 苦情メール — 客観的に、感情を排除し、証拠を添付
+# Rule 54 — <ruby>苦情<rt>くじょう</rt></ruby>メール — <ruby>客観的<rt>きゃっかんてき</rt></ruby>に、<ruby>感情<rt>かんじょう</rt></ruby>を<ruby>排除<rt>はいじょ</rt></ruby>し、<ruby>証拠<rt>しょうこ</rt></ruby>を<ruby>添付<rt>てんぷ</rt></ruby>
 
-> **要点.** 苦情を申し立てる側の時、感情の重さは*苦情の信頼性を損なう*。正当な理由があっても、感情的なメールは「気難しい顧客」として読まれてしまう。原則：**怒るほど客観的に書く**。具体的な根拠、数値、侮辱的表現なし。
+> **<ruby>要点<rt>ようてん</rt></ruby>.** <ruby>苦情<rt>くじょう</rt></ruby>を<ruby>申<rt>もう</rt></ruby>し<ruby>立<rt>た</rt></ruby>てる<ruby>側<rt>がわ</rt></ruby>の<ruby>時<rt>とき</rt></ruby>、<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>重<rt>おも</rt></ruby>さは*<ruby>苦情<rt>くじょう</rt></ruby>の<ruby>信頼性<rt>しんらいせい</rt></ruby>を<ruby>損<rt>そこ</rt></ruby>なう*。<ruby>正当<rt>せいとう</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>があっても、<ruby>感情的<rt>かんじょうてき</rt></ruby>なメールは「<ruby>気難<rt>きむずか</rt></ruby>しい<ruby>顧客<rt>こきゃく</rt></ruby>」として<ruby>読<rt>よ</rt></ruby>まれてしまう。<ruby>原則<rt>げんそく</rt></ruby>：**<ruby>怒<rt>おこ</rt></ruby>るほど<ruby>客観的<rt>きゃっかんてき</rt></ruby>に<ruby>書<rt>か</rt></ruby>く**。<ruby>具体的<rt>ぐたいてき</rt></ruby>な<ruby>根拠<rt>こんきょ</rt></ruby>、<ruby>数値<rt>すうち</rt></ruby>、<ruby>侮辱的<rt>ぶじょくてき</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>なし。
 >
-> キーワード：**「苦情は客観的に」**。
+> キーワード：**「<ruby>苦情<rt>くじょう</rt></ruby>は<ruby>客観的<rt>きゃっかんてき</rt></ruby>に」**。
 
-## 悪い例 — 感情的
+## <ruby>悪<rt>わる</rt></ruby>い<ruby>例<rt>れい</rt></ruby> — <ruby>感情的<rt>かんじょうてき</rt></ruby>
 
-> 「安全セキュリティ社は本当に酷い！ 納品3回連続で遅延、毎回言い訳ばかり。こんな無責任な仕事の仕方は受け入れられません。早く補償してください！」
+> 「安全セキュリティ<ruby>社<rt>しゃ</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>酷<rt>ひど</rt></ruby>い！ <ruby>納品<rt>のうひん</rt></ruby>3<ruby>回<rt>かい</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>で<ruby>遅延<rt>ちえん</rt></ruby>、<ruby>毎回<rt>まいかい</rt></ruby><ruby>言<rt>い</rt></ruby>い<ruby>訳<rt>わけ</rt></ruby>ばかり。こんな<ruby>無責任<rt>むせきにん</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>の<ruby>仕方<rt>しかた</rt></ruby>は<ruby>受<rt>う</rt></ruby>け<ruby>入<rt>い</rt></ruby>れられません。<ruby>早<rt>はや</rt></ruby>く<ruby>補償<rt>ほしょう</rt></ruby>してください！」
 
-→ 相手は非難されたと感じ、防御的になり、協力的な解決が難しくなる。
+→ <ruby>相手<rt>あいて</rt></ruby>は<ruby>非難<rt>ひなん</rt></ruby>されたと<ruby>感<rt>かん</rt></ruby>じ、<ruby>防御的<rt>ぼうぎょてき</rt></ruby>になり、<ruby>協力的<rt>きょうりょくてき</rt></ruby>な<ruby>解決<rt>かいけつ</rt></ruby>が<ruby>難<rt>むずか</rt></ruby>しくなる。
 
-## 良い例 — 客観的
+## <ruby>良<rt>よ</rt></ruby>い<ruby>例<rt>れい</rt></ruby> — <ruby>客観的<rt>きゃっかんてき</rt></ruby>
 
-> 「安全セキュリティ株式会社 御中
+> 「安全セキュリティ<ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby> <ruby>御中<rt>おんちゅう</rt></ruby>
 >
-> 弊社より、直近3件の納期遅延についてご報告申し上げます：
+> <ruby>弊社<rt>へいしゃ</rt></ruby>より、<ruby>直近<rt>ちょっきん</rt></ruby>3<ruby>件<rt>けん</rt></ruby>の<ruby>納期<rt>のうき</rt></ruby><ruby>遅延<rt>ちえん</rt></ruby>についてご<ruby>報告<rt>ほうこく</rt></ruby><ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます：
 >
-> | PO番号 | 約定納期 | 実納期 | 遅延日数 |
+> | PO<ruby>番号<rt>ばんごう</rt></ruby> | <ruby>約定<rt>やくじょう</rt></ruby><ruby>納期<rt>のうき</rt></ruby> | <ruby>実<rt>じつ</rt></ruby><ruby>納期<rt>のうき</rt></ruby> | <ruby>遅延<rt>ちえん</rt></ruby><ruby>日数<rt>にっすう</rt></ruby> |
 > |-------|---------|-------|---------|
-> | PO-2026-001 | 3/10 | 3/15 | 5日 |
+> | PO-2026-001 | 3/10 | 3/15 | 5<ruby>日<rt>にち</rt></ruby> |
 > | PO-2026-005 | 4/25 | 5/02 | 7日 |
 > | PO-2026-008 | 5/09 | 5/14 | 5日 |
 >
-> 3件連続で合計17日の遅延が発生しております。契約書第4.3条に基づき、以下を要請させていただきます：
-> - 遅延損害金：PO金額の0.5%/日 = 8.5% = 40万円相当。
-> - 今後のPOにおけるタイムラインコミットメントの再検討。
+> 3<ruby>件<rt>けん</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>で<ruby>合計<rt>ごうけい</rt></ruby>17<ruby>日<rt>にち</rt></ruby>の<ruby>遅延<rt>ちえん</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>しております。<ruby>契約書<rt>けいやくしょ</rt></ruby><ruby>第<rt>だい</rt></ruby>4.3<ruby>条<rt>じょう</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づき、<ruby>以下<rt>いか</rt></ruby>を<ruby>要請<rt>ようせい</rt></ruby>させていただきます：
+> - <ruby>遅延<rt>ちえん</rt></ruby><ruby>損害金<rt>そんがいきん</rt></ruby>：PO<ruby>金額<rt>きんがく</rt></ruby>の0.5%/<ruby>日<rt>にち</rt></ruby> = 8.5% = 40<ruby>万円<rt>まんえん</rt></ruby><ruby>相当<rt>そうとう</rt></ruby>。
+> - <ruby>今後<rt>こんご</rt></ruby>のPOにおけるタイムラインコミットメントの<ruby>再検討<rt>さいけんとう</rt></ruby>。
 >
-> 安全セキュリティ社には以下をお願いいたします：
-> 1. 本メールの受領確認（48時間以内）。
-> 2. 補償案および改善コミットメントの提示（7営業日以内）。
+> 安全セキュリティ<ruby>社<rt>しゃ</rt></ruby>には<ruby>以下<rt>いか</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いいたします：
+> 1. <ruby>本<rt>ほん</rt></ruby>メールの<ruby>受領<rt>じゅりょう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>（48<ruby>時間<rt>じかん</rt></ruby><ruby>以内<rt>いない</rt></ruby>）。
+> 2. <ruby>補償案<rt>ほしょうあん</rt></ruby>および<ruby>改善<rt>かいぜん</rt></ruby>コミットメントの<ruby>提示<rt>ていじ</rt></ruby>（7<ruby>営業日<rt>えいぎょうび</rt></ruby><ruby>以内<rt>いない</rt></ruby>）。
 >
-> 契約書原本を添付いたします。
+> <ruby>契約書<rt>けいやくしょ</rt></ruby><ruby>原本<rt>げんぽん</rt></ruby>を<ruby>添付<rt>てんぷ</rt></ruby>いたします。
 >
-> よろしくお願い申し上げます。
+> よろしくお<ruby>願<rt>ねが</rt></ruby>い<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます。
 > ズン」
 
-客観的、証拠付き、契約条項への参照、具体的な要請。
+<ruby>客観的<rt>きゃっかんてき</rt></ruby>、<ruby>証拠<rt>しょうこ</rt></ruby><ruby>付<rt>つ</rt></ruby>き、<ruby>契約<rt>けいやく</rt></ruby><ruby>条項<rt>じょうこう</rt></ruby>への<ruby>参照<rt>さんしょう</rt></ruby>、<ruby>具体的<rt>ぐたいてき</rt></ruby>な<ruby>要請<rt>ようせい</rt></ruby>。
 
-## 公式
+## <ruby>公式<rt>こうしき</rt></ruby>
 
-1. **具体的事実** — 日付、PO番号、数値。
-2. **添付証拠** — 契約書、証憑、画像。
-3. **条項参照**（該当する場合）。
-4. **具体的要請** — 「補償して」ではなく具体的金額/行動。
-5. **返信期限**。
+1. **<ruby>具体的<rt>ぐたいてき</rt></ruby><ruby>事実<rt>じじつ</rt></ruby>** — <ruby>日付<rt>ひづけ</rt></ruby>、PO<ruby>番号<rt>ばんごう</rt></ruby>、<ruby>数値<rt>すうち</rt></ruby>。
+2. **<ruby>添付<rt>てんぷ</rt></ruby><ruby>証拠<rt>しょうこ</rt></ruby>** — <ruby>契約書<rt>けいやくしょ</rt></ruby>、<ruby>証憑<rt>しょうひょう</rt></ruby>、<ruby>画像<rt>がぞう</rt></ruby>。
+3. **<ruby>条項<rt>じょうこう</rt></ruby><ruby>参照<rt>さんしょう</rt></ruby>**（<ruby>該当<rt>がいとう</rt></ruby>する<ruby>場合<rt>ばあい</rt></ruby>）。
+4. **<ruby>具体的<rt>ぐたいてき</rt></ruby><ruby>要請<rt>ようせい</rt></ruby>** — 「<ruby>補償<rt>ほしょう</rt></ruby>して」ではなく<ruby>具体的<rt>ぐたいてき</rt></ruby><ruby>金額<rt>きんがく</rt></ruby>/<ruby>行動<rt>こうどう</rt></ruby>。
+5. **<ruby>返信<rt>へんしん</rt></ruby><ruby>期限<rt>きげん</rt></ruby>**。
 
-## 使えるフレーズ
+## <ruby>使<rt>つか</rt></ruby>えるフレーズ
 
-> **「怒るほど客観的に。証拠が感情の代わりに語る。」**
+> **「<ruby>怒<rt>おこ</rt></ruby>るほど<ruby>客観的<rt>きゃっかんてき</rt></ruby>に。<ruby>証拠<rt>しょうこ</rt></ruby>が<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>代<rt>か</rt></ruby>わりに<ruby>語<rt>かた</rt></ruby>る。」**

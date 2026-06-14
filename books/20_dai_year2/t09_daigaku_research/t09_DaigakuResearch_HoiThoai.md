@@ -19,7 +19,7 @@ Tháng 9 năm 2025. Đại đã ở Nhật 17 tháng, vừa thi xong EJU đợt 
 | Đại | <ruby>山田<rt>やまだ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>、<ruby>今<rt>いま</rt></ruby>ちょっとよろしいですか？<br>*(Cô Yamada, bây giờ cô có rảnh không ạ?)* |
 | Yamada | はい、どうしましたか？<br>*(Được, có chuyện gì vậy?)* |
 | Đại | <ruby>大学<rt>だいがく</rt></ruby><ruby>進学<rt>しんがく</rt></ruby>について<ruby>教<rt>おし</rt></ruby>えていただけませんか。<ruby>何<rt>なに</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>めればいいか、まだよく<ruby>分<rt>わ</rt></ruby>からなくて。<br>*(Cô có thể giảng giúp em về việc lên đại học không ạ? Em vẫn chưa biết nên bắt đầu từ đâu.)* |
-| Yamada | まず、<ruby>志望校<rt>しぼうこう</rt></ruby>を<ruby>3<rt>さん</rt></ruby>つに<ruby>絞<rt>しぼ</rt></ruby>りましょう。<ruby>第<rt>だい</rt></ruby><ruby>一<rt>いち</rt></ruby><ruby>志望<rt>しぼう</rt></ruby>、<ruby>第<rt>だい</rt></ruby><ruby>二<rt>に</rt></ruby><ruby>志望<rt>しぼう</rt></ruby>、<ruby>滑<rt>すべ</rt></ruby>り<ruby>止<rt>ど</rt></ruby>めです。<br>*(Trước hết, hãy thu hẹp lại 3 trường nguyện vọng. NV1, NV2, và trường dự phòng.)* |
+| Yamada | まず、<ruby>志望校<rt>しぼうこう</rt></ruby>を<ruby>3<rt>みっ</rt></ruby>つに<ruby>絞<rt>しぼ</rt></ruby>りましょう。<ruby>第<rt>だい</rt></ruby><ruby>一<rt>いち</rt></ruby><ruby>志望<rt>しぼう</rt></ruby>、<ruby>第<rt>だい</rt></ruby><ruby>二<rt>に</rt></ruby><ruby>志望<rt>しぼう</rt></ruby>、<ruby>滑<rt>すべ</rt></ruby>り<ruby>止<rt>ど</rt></ruby>めです。<br>*(Trước hết, hãy thu hẹp lại 3 trường nguyện vọng. NV1, NV2, và trường dự phòng.)* |
 | Đại | <ruby>滑<rt>すべ</rt></ruby>り<ruby>止<rt>ど</rt></ruby>めとは？<br>*(Trường dự phòng nghĩa là gì ạ?)* |
 | Yamada | <ruby>合格<rt>ごうかく</rt></ruby>する<ruby>可能性<rt>かのうせい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い<ruby>大学<rt>だいがく</rt></ruby>のことです。<ruby>万<rt>まん</rt></ruby>が<ruby>一<rt>いち</rt></ruby>に<ruby>備<rt>そな</rt></ruby>えて。<br>*(Là trường có khả năng đỗ cao. Để phòng trường hợp xấu.)* |
 | Đại | なるほど。<br>*(Em hiểu rồi.)* |
@@ -167,7 +167,7 @@ Tháng 9 năm 2025. Đại đã ở Nhật 17 tháng, vừa thi xong EJU đợt 
 
 ## Tình huống 10 — Phòng ký túc · 22:00, gọi điện về VN báo Mai
 
-*Đại video call Mai (vợ chưa cưới ở Hà Nội, mới biết tiếng Nhật cơ bản).*
+*Đại video call Mai (bạn gái ở Hà Nội, mới biết tiếng Nhật cơ bản).*
 
 | Vai | Lời thoại |
 |---|---|

@@ -2,7 +2,7 @@
 
 > **Luận điểm.** Áo khoác / coat / muffler **cởi TRƯỚC khi vào tòa nhà** (hoặc trước cửa phòng họp ở tầng), cầm gấp gọn ở tay trái. KHÔNG cởi sau khi đã ngồi (= "tôi mệt + nóng"). Lý do văn hóa: coat = "đường xa bụi bặm" → cởi ngoài = không mang bụi vào không gian khách. Quan trọng đặc biệt mùa đông Tokyo (tháng 12-2, ai cũng có coat).
 >
-> コート/マフラーは『建物入る前 or 会議室入る前』に脱ぎ、左手で畳んで持つ。着席後脱ぎは『疲れた』signaling NG。
+> コート/マフラーは『建物に入る前、または会議室に入る前』に脱ぎ、左手で畳んで持つ。着席後に脱ぐのは『疲れた』という印象を与えるためNG。
 >
 > **Liên quan:** rule 17 (5分前), rule 20 (待機), rule 21 (入室).
 
@@ -20,13 +20,18 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 
 | Vai | Câu |
 |---------|-----|
-| **田中PMO** | 「ようこそ、お入りください。」 |
-| **トゥアン** | 「失礼します。」 |
-| **田中PMO** | 「あの…コート、お預かりしましょうか？」 |
-| **トゥアン** | 「あ、すみません、ちょっと暑くて…」 |
-| **田中PMO** | 「(本来は入室前脱ぐマナー…)」 |
+| **田中PMO** | 「ようこそ、お<ruby>入<rt>はい</rt></ruby>りください。」 |
+|  | *Hân hạnh, mời anh vào ạ.* |
+| **トゥアン** | 「<ruby>失礼<rt>しつれい</rt></ruby>します。」 |
+|  | *Em xin phép. (vào phòng còn nguyên coat + muffler)* |
+| **田中PMO** | 「あの…コート、お<ruby>預<rt>あず</rt></ruby>かりしましょうか？」 |
+|  | *Ơ... coat, em xin giữ giúp anh ạ?* |
+| **トゥアン** | 「あ、すみません、ちょっと<ruby>暑<rt>あつ</rt></ruby>くて…」 |
+|  | *À xin lỗi, hơi nóng quá...* |
+| **田中PMO** | 「(<ruby>本来<rt>ほんらい</rt></ruby>は<ruby>入室前<rt>にゅうしつまえ</rt></ruby><ruby>脱<rt>ぬ</rt></ruby>ぐマナー…)」 |
+|  | *(Lẽ ra phải cởi trước khi vào phòng mới đúng phép…)* |
 
-**Vì sao xấu:** (1) Vào phòng họp với coat = mang "bụi đường" vào không gian. (2) Cởi sau khi ngồi = phát tín hiệu "tôi nóng/mệt" = thiếu chuẩn bị. (3) Tanaka phải đề nghị cầm coat → host bị shift task không cần thiết.
+**Vì sao xấu:** (1) Vào phòng họp với coat = mang "bụi đường" vào không gian. (2) Cởi sau khi ngồi = phát tín hiệu "tôi nóng/mệt" = thiếu chuẩn bị. (3) Tanaka phải đề nghị cầm coat → chủ nhà bị đẩy thêm việc không cần thiết.
 
 ---
 
@@ -36,18 +41,25 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「**コート脱ごう**【1】。」 |
-| **ズン + トゥアン** | *(im lặng)* |
+| **ズン** | 「**コート<ruby>脱<rt>ぬ</rt></ruby>ごう**【1】。」 |
+|  | *Cởi áo nha.* |
+| **ズン + トゥアン** | *(im lặng)*【2】 |
+|  | *(gấp coat + muffler 2 lần, đặt lên cẳng tay trái)* |
 | **ズン** | *(コン コン)* |
+|  | *(gõ cửa 2 lần)* |
 | **田中PMO** | 「どうぞ。」 |
-| **ズン + トゥアン**【3】 | 「**失礼いたします**。」 |
+|  | *Mời vào.* |
+| **ズン + トゥアン**【3】 | 「**<ruby>失礼<rt>しつれい</rt></ruby>いたします**。」 |
+|  | *Em xin phép ạ.* |
 | **田中PMO** | 「コート、こちらの ハンガーへどうぞ。」 |
+|  | *Coat, mời các anh treo móc bên này ạ.* |
 | **ズン** | 「ありがとうございます。」 |
+|  | *Cảm ơn anh ạ.* |
 
 📝 **Ghi chú:**
 - 【1】**Cởi trước cửa phòng họp** — KHÔNG sau khi ngồi. Tốt nhất: cởi ngay trước cửa tòa nhà (nếu lobby ấm) hoặc cửa phòng họp (nếu hành lang lạnh).
-- 【2】**Gấp 2 lần, tay trái** — gấp úp vào trong (mặt trong ra ngoài, mặt ngoài ẩn). Đặt trên cẳng tay trái (tay phải sẵn sàng bow / nhận danh thiếp / mở cửa).
-- 【3】**Cầm coat lúc bow** — coat đã ở tay trái = bow / shake hand / mở cửa = tay phải tự do. Vào phòng không lúng túng.
+- 【2】**Gấp 2 lần, tay trái** — gấp úp vào trong (mặt ngoài giấu vào trong, mặt trong lộ ra). Đặt trên cẳng tay trái (tay phải sẵn sàng bow / nhận danh thiếp / mở cửa).
+- 【3】**Cầm coat lúc bow** — coat đã ở tay trái = bow / bắt tay / mở cửa = tay phải tự do. Vào phòng không lúng túng.
 
 ---
 
@@ -63,10 +75,10 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ hotel mặc áo khoác le
 
 - **Cởi sau khi ngồi** → phát tín hiệu "tôi mệt/nóng"
 - Vào phòng họp **mặc coat** → mang "bụi đường" vào
-- Cầm coat **tay phải** → tay phải bị bận = không bow/shake hand được
-- **Đặt coat trên ghế** chưa được mời → đợi host chỉ chỗ (hanger / chair)
+- Cầm coat **tay phải** → tay phải bị bận = không bow/bắt tay được
+- **Đặt coat trên ghế** chưa được mời → đợi chủ nhà chỉ chỗ (móc treo / ghế)
 - **Đặt trên bàn họp** → KHÔNG bao giờ
-- Áo khoác **không gấp** → Cẩu thả. Gấp inside-out.
+- Áo khoác **không gấp** → Cẩu thả. Gấp úp mặt ngoài vào trong.
 - **Quên tháo muffler / scarf** → cởi cùng coat. Khăn cũng không vào phòng.
 
 ---

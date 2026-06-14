@@ -9,7 +9,10 @@
     "ja": "Phase 3 締結 PR を 両社 legal + PR レビューを経て『数千万円規模』表記で同時 embargo release する場面。",
     "vi": "PR release ký Phase 3 — qua joint review legal + PR cả 2 bên, framing 'quy mô vài chục triệu yên', release đồng thời theo embargo."
   },
-  "related_rules": ["rule_36", "rule_39"],
+  "related_rules": [
+    "rule_36",
+    "rule_39"
+  ],
   "conversations": [
     {
       "section": "bad_example",
@@ -105,7 +108,9 @@
           "sentence": "フオン副部長、ズン先輩、Phase 3 締結 PR ドラフト v1 です。金額は『数千万円規模』表記、白鷗様の名前は弊社 名前の後段に配置しています。joint approval 想定。",
           "sentence_translation": "Chị Hương, anh Dũng, em làm PR draft v1 Phase 3 ạ. Số tiền em ghi 'quy mô vài chục triệu yên', tên Hakuō em đặt sau tên bên mình. Em assume sẽ joint approval ạ.",
           "tone": "formal",
-          "annotation_ids": ["1"]
+          "annotation_ids": [
+            "1"
+          ]
         },
         {
           "line_id": "rule_38_good_02",
@@ -115,7 +120,9 @@
           "sentence": "いいね。次に白鷗 PR 部にメール → 田中 PMO 経由で大垣様に paralel 共有、両社 legal レビュー後に embargo date を decide。",
           "sentence_translation": "OK em. Tiếp theo gửi mail PR Hakuō → qua PMO Tanaka share parallel cho anh Ōgaki, legal cả 2 review xong rồi mới quyết embargo date.",
           "tone": "warm",
-          "annotation_ids": ["2"]
+          "annotation_ids": [
+            "2"
+          ]
         },
         {
           "line_id": "rule_38_good_03",
@@ -152,7 +159,9 @@
           "sentence": "PR 同時 release 完了。大垣 quote 入りで joint announcement 体裁。Linh 良い仕事した。",
           "sentence_translation": "PR release đồng thời xong rồi. Có quote anh Ōgaki nên joint announcement chuẩn vẻ. Linh làm tốt.",
           "tone": "warm",
-          "annotation_ids": ["3"]
+          "annotation_ids": [
+            "3"
+          ]
         }
       ]
     }
@@ -182,12 +191,12 @@
       "skill": "場面把握",
       "question_ja": "PR release で金額を「数千万円規模」と表記する最大の理由は？",
       "options": [
+        "印象を強くするため",
         "数字を覚えにくいから",
         "クライアントの IT 予算を競合他社に exposed するのを避け、来年の予算削減 risk を防ぐため",
-        "計算が面倒だから",
-        "印象を強くするため"
+        "計算が面倒だから"
       ],
-      "correct": "B",
+      "correct": "C",
       "explanation": {
         "ja": "正確な金額の公開はクライアントの予算を競合に晒し、翌年の予算削減や競合 anchor に使われる。framing で防ぐ。",
         "vi": "Lộ số tiền chính xác = lộ budget khách cho competitor → năm sau bị cắt hoặc bị competitor anchor. Framing tránh điều này."

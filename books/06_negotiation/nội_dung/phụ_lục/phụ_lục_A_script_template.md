@@ -184,7 +184,7 @@
 > 📝 _隠れた決裁者の炙り出し_
 
 
-### Rule 13 — Listen for hidden constraints / 隠れた制約の傾聴
+### Rule 13 — Lắng nghe ràng buộc ẩn / 隠れた制約の傾聴
 
 **ズン (em Dũng):**
 
@@ -203,7 +203,7 @@
 > 📝 _operational掘り下げ_
 
 
-### Rule 14 — Mirror + summarize / ミラーリング・要約
+### Rule 14 — Phản chiếu + tóm tắt / ミラーリング・要約
 
 **ズン (em Dũng):**
 
@@ -214,7 +214,7 @@
 > 📝 _ミラーリング基本句_
 
 
-### Rule 15 — Probe price sensitivity / 価格感度の探り
+### Rule 15 — Thăm dò độ nhạy cảm giá / 価格感度の探り
 
 **ズン (em Dũng):**
 
@@ -233,7 +233,7 @@
 > 📝 _comparable approach 予算探り_
 
 
-### Rule 16 — Confirm decision authority / 決裁者確認
+### Rule 16 — Xác nhận thẩm quyền quyết định / 決裁者確認
 
 **ズン (em Dũng):**
 
@@ -252,7 +252,7 @@
 > 📝 _残ステップ確認_
 
 
-### Rule 17 — Time-box discussion / 時間管理
+### Rule 17 — Quản lý thời gian thảo luận / 時間管理
 
 **ズン (em Dũng):**
 
@@ -274,7 +274,7 @@
 
 ## Phần III — Gọi điện thoại đi
 
-### Rule 18 — Anchor first hay wait / アンカリングの判断
+### Rule 18 — Anchor trước hay chờ / アンカリングの判断
 
 **ズン (em Dũng):**
 
@@ -378,7 +378,7 @@
 > 📝 _offer後の沈黙保持_
 
 
-### Rule 26 — Đối phó với threat / ultimatum / 脅し・最終通告への対応
+### Rule 26 — Đối phó với lời đe / ultimatum / 脅し・最終通告への対応
 
 **ズン (em Dũng):**
 
@@ -566,7 +566,7 @@
 
 > 🇯🇵 「条件面で折り合いがつかず、今回は誠に残念ながら見送りとさせていただきます。」
 >
-> 🇻🇳 *Do điều kiện hai bên không bridge được, lần này em rất tiếc xin phép tạm gác lại ạ.*
+> 🇻🇳 *Do điều kiện hai bên không đạt được, lần này em rất tiếc xin phép tạm gác lại ạ.*
 >
 > 📝 _Walk-away 主語_
 

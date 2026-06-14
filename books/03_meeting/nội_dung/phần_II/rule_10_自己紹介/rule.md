@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Buổi họp đầu tiên của em Linh (vừa join project) với 白鷗. Khi 司会 Dũng giới thiệu xong các thành viên cũ, đến lượt Linh tự giới thiệu vì là người mới.
+Buổi họp đầu tiên của em Linh (vừa tham gia dự án) với 白鷗. Khi 司会 Dũng giới thiệu xong các thành viên cũ, đến lượt Linh tự giới thiệu vì là người mới.
 
 ---
 
@@ -20,12 +20,16 @@ Buổi họp đầu tiên của em Linh (vừa join project) với 白鷗. Khi �
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「では、新メンバーのリンさんから自己紹介をお願いします。」 |
-| **リン** | 「は、はい！リンと申します。23歳で、ハノイ出身で、ハノイ大学を卒業して、入社2ヶ月目で、よろしくお願いします！趣味は…」 |
-| **ズン** | 「リンさん、業務の自己紹介は会社・部署・名前・役割でいいよ。」 |
-| **大垣** | *(まだ慣れていない感じだな)* |
+| **ズン** | 「では、新メンバーのリンさんから<ruby>自己紹介<rt>じこしょうかい</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。」 |
+|  | *Vâng, mời em Linh — thành viên mới — tự giới thiệu ạ.* |
+| **リン** | 「は、はい！リンと<ruby>申<rt>もう</rt></ruby>します。23<ruby>歳<rt>さい</rt></ruby>で、ハノイ<ruby>出身<rt>しゅっしん</rt></ruby>で、ハノイ<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>して、<ruby>入社<rt>にゅうしゃ</rt></ruby>2ヶ<ruby>月目<rt>げつめ</rt></ruby>で、よろしくお<ruby>願<rt>ねが</rt></ruby>いします！<ruby>趣味<rt>しゅみ</rt></ruby>は…」 |
+|  | *D... dạ! Em là Linh ạ. Em 23 tuổi, quê Hà Nội, học Đại học Hà Nội, em vào công ty được 2 tháng rồi ạ, mong được mọi người giúp đỡ! Sở thích của em là...* |
+| **ズン** | 「リンさん、<ruby>業務<rt>ぎょうむ</rt></ruby>の自己紹介は<ruby>会社<rt>かいしゃ</rt></ruby>・<ruby>部署<rt>ぶしょ</rt></ruby>・<ruby>名前<rt>なまえ</rt></ruby>・<ruby>役割<rt>やくわり</rt></ruby>でいいよ。」 |
+|  | *Linh, tự giới thiệu trong họp business chỉ cần công ty / phòng / tên / vai trò là được nhé.* |
+| **大垣** | *(まだ<ruby>慣<rt>な</rt></ruby>れていない<ruby>感<rt>かん</rt></ruby>じだな)* |
+|  | *(Có vẻ vẫn chưa quen nhỉ)* |
 
-**Vì sao xấu:** Tự giới thiệu kiểu **学校面接** (phỏng vấn vào trường) → khách Nhật cảm thấy "nhân viên mới chưa được đào tạo". Tuổi / quê / trường / sở thích = không cần. Mất 30s mà không cho khách thông tin business.
+**Vì sao xấu:** Tự giới thiệu kiểu **学校面接** (phỏng vấn vào trường) → khách Nhật cảm thấy "nhân viên mới chưa được đào tạo". Tuổi / quê / trường / sở thích = không cần. Mất 30 giây mà không cho khách thông tin công việc nào.
 
 ---
 
@@ -33,15 +37,19 @@ Buổi họp đầu tiên của em Linh (vừa join project) với 白鷗. Khi �
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「では、新メンバーのリンさんから自己紹介をお願いします。」 |
-| **リン** | 「ティエンファット社、マーケティング部のリンと申します【1】。」 |
-| **リン** | 「本プロジェクトでは、議事録および資料管理を担当いたします【2】。」 |
-| **リン** | 「不慣れな点もございますが、何卒よろしくお願いいたします【3】。」 |
+| **ズン** | 「では、新メンバーのリンさんから<ruby>自己紹介<rt>じこしょうかい</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。」 |
+|  | *Vâng, mời em Linh — thành viên mới — tự giới thiệu ạ.* |
+| **リン** | 「ティエンファット<ruby>社<rt>しゃ</rt></ruby>、マーケティング<ruby>部<rt>ぶ</rt></ruby>のリンと<ruby>申<rt>もう</rt></ruby>します【1】。」 |
+|  | *Em là Linh, phòng Marketing bên Thiên Phát ạ.* |
+| **リン** | 「<ruby>本<rt>ほん</rt></ruby>プロジェクトでは、<ruby>議事録<rt>ぎじろく</rt></ruby>および<ruby>資料管理<rt>しりょうかんり</rt></ruby>を<ruby>担当<rt>たんとう</rt></ruby>いたします【2】。」 |
+|  | *Trong dự án này em phụ trách biên bản và quản lý tài liệu ạ.* |
+| **リン** | 「<ruby>不慣<rt>ふな</rt></ruby>れな<ruby>点<rt>てん</rt></ruby>もございますが、<ruby>何卒<rt>なにとぞ</rt></ruby>よろしくお<ruby>願<rt>ねが</rt></ruby>いいたします【3】。」 |
+|  | *Em còn nhiều điều chưa thạo, rất mong mọi người chỉ bảo giúp em ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**「〇〇社、〇〇部の〇〇と申します」** — pattern chuẩn 1 câu chứa 3 element. 「と申します」 khiêm nhường hơn 「です」.
-- 【2】**「〇〇および〇〇を担当いたします」** — 「および」 = "và (formal)". Dùng khi liệt kê vai trò.
-- 【3】**「不慣れな点もございますが」** — câu humble đẹp khi mới join. Không quá overdo.
+- 【1】**「〇〇社、〇〇部の〇〇と申します」** — công thức chuẩn, 1 câu chứa 3 element. 「と申します」 khiêm nhường hơn 「です」.
+- 【2】**「〇〇および〇〇を担当いたします」** — 「および」 = "và (trang trọng)". Dùng khi liệt kê vai trò.
+- 【3】**「不慣れな点もございますが」** — câu kết khiêm nhường đẹp khi mới vào. Không khiêm tốn quá đà.
 
 ---
 
@@ -68,7 +76,7 @@ Buổi họp đầu tiên của em Linh (vừa join project) với 白鷗. Khi �
 ## ⚠ Tránh
 
 - Nói tuổi / quê / trường → không phải interview.
-- 「えーと、私は…えーと…」 filler nhiều → mất tự tin.
+- 「えーと、私は…えーと…」 lắp bắp "à... ờ..." nhiều → mất tự tin.
 - "Cú phang" hỏi lại 「あ、すみません、もう一度お名前を…」 → khách nói lại 1 lần thôi, lần 2 phải nhớ.
 - Cười khúc khích cuối câu → casual quá với khách Nhật.
 

@@ -11,7 +11,7 @@
 
 ## Bối cảnh / 場面
 
-Em Linh — nhân viên mới, lần đầu tham dự họp với khách 白鷗. Thường có thói quen "tới đúng giờ" theo VN style. Dũng nhắc trước.
+Em Linh — nhân viên mới, lần đầu tham dự họp với khách 白鷗. Thường có thói quen "tới đúng giờ" theo kiểu Việt Nam. Dũng nhắc trước.
 
 ---
 
@@ -21,12 +21,16 @@ Em Linh — nhân viên mới, lần đầu tham dự họp với khách 白鷗.
 
 | Vai | Câu |
 |---------|-----|
-| **リン** | 「ズン先輩、15時ちょうどなので会議室向かいます！」 |
-| **ズン** | 「もう松本様は5分前から待っているよ。今 15:00 は遅刻と同じ。」 |
-| **リン** | 「お待たせしました…遅れて申し訳ございません。」 |
-| **松本** | 「いえいえ、大丈夫ですよ。」 *(内心：定刻 = ベトナム流かな)* |
+| **リン** | 「ズン<ruby>先輩<rt>せんぱい</rt></ruby>、15時ちょうどなので<ruby>会議室<rt>かいぎしつ</rt></ruby>向かいます！」 |
+|  | *Anh Dũng, đúng 15h rồi, em đi qua phòng họp đây ạ!* |
+| **ズン** | 「もう<ruby>松本<rt>まつもと</rt></ruby>様は5分前から待っているよ。今 15:00 は<ruby>遅刻<rt>ちこく</rt></ruby>と同じ。」 |
+|  | *Anh Matsumoto đợi từ 5 phút trước rồi đấy. Bây giờ 15h vào là tính như trễ luôn.* |
+| **リン** | 「お待たせしました…遅れて<ruby>申<rt>もう</rt></ruby>し訳ございません。」 |
+|  | *Để anh đợi rồi ạ... Em xin lỗi vì đến muộn ạ.* |
+| **松本** | 「いえいえ、大丈夫ですよ。」 *(<ruby>内心<rt>ないしん</rt></ruby>：<ruby>定刻<rt>ていこく</rt></ruby> = ベトナム流かな)* |
+|  | *Không sao, không sao đâu. (Trong bụng: Đúng giờ kiểu Việt Nam chăng?)* |
 
-**Vì sao xấu:** "đúng giờ" theo Nhật = **5 phút trước**. 15:00 đến cửa = thực tế ngồi xuống 15:02 = trễ. Khách không nói thẳng nhưng impression: "không hiểu văn hóa Nhật". Lặp lại 2-3 lần là mất tin cậy.
+**Vì sao xấu:** "đúng giờ" theo Nhật = **5 phút trước**. 15:00 đến cửa = thực tế ngồi xuống 15:02 = trễ. Khách không nói thẳng nhưng ấn tượng để lại là: "không hiểu văn hóa Nhật". Lặp lại 2-3 lần là mất tin cậy.
 
 ---
 
@@ -36,13 +40,17 @@ Em Linh — nhân viên mới, lần đầu tham dự họp với khách 白鷗.
 
 | Vai | Câu |
 |---------|-----|
-| **リン** | 「ズン先輩、14:50 です。設備、ネームプレート、お茶、すべて完了しています【1】。」 |
-| **ズン** | 「松本様、お早めのお越しありがとうございます。お席にご案内いたします。」 |
-| **松本** | 「お気遣いありがとうございます。本日もよろしくお願いいたします。」 |
-| **リン** | 「皆様お揃いでいらっしゃいますので、これより4月度月例会議を開始いたします【2】。」 |
+| **リン** | 「ズン先輩、14:50 です。<ruby>設備<rt>せつび</rt></ruby>、ネームプレート、お茶、すべて<ruby>完了<rt>かんりょう</rt></ruby>しています【1】。」 |
+|  | *Anh Dũng, 14:50 rồi ạ. Thiết bị, name plate, trà nước — tất cả xong hết rồi ạ.* |
+| **ズン** | 「松本様、お<ruby>早<rt>はや</rt></ruby>めのお<ruby>越<rt>こ</rt></ruby>しありがとうございます。お<ruby>席<rt>せき</rt></ruby>にご<ruby>案内<rt>あんない</rt></ruby>いたします。」 |
+|  | *Anh Matsumoto, cảm ơn anh đến sớm ạ. Em mời anh vào chỗ ngồi ạ.* |
+| **松本** | 「お<ruby>気遣<rt>きづか</rt></ruby>いありがとうございます。本日もよろしくお願いいたします。」 |
+|  | *Cảm ơn em chu đáo. Hôm nay phiền em nhé.* |
+| **リン** | 「<ruby>皆様<rt>みなさま</rt></ruby>お<ruby>揃<rt>そろ</rt></ruby>いでいらっしゃいますので、これより4月度<ruby>月例<rt>げつれい</rt></ruby>会議を<ruby>開始<rt>かいし</rt></ruby>いたします【2】。」 |
+|  | *Mọi người đã đông đủ rồi, em xin phép bắt đầu buổi họp định kỳ tháng 4 ạ.* |
 
 📝 **Ghi chú:**
-- 【1】**「14:50 です。設備、ネームプレート、お茶、すべて完了しています」** — báo cáo timing + status, native style. Có timestamp + danh sách hoàn tất.
+- 【1】**「14:50 です。設備、ネームプレート、お茶、すべて完了しています」** — báo cáo thời điểm + tình trạng, đúng kiểu người Nhật. Có mốc giờ + danh sách hoàn tất.
 - 【2】**「皆様お揃いでいらっしゃいますので」** — câu mở chuẩn khi đủ người. 「お揃い」(おそろい) = "đông đủ". Đi với 「いらっしゃる」 (尊敬語).
 
 ---
@@ -59,7 +67,7 @@ Em Linh — nhân viên mới, lần đầu tham dự họp với khách 白鷗.
 
 - "Đúng 15:00 ra khỏi bàn làm việc" → đến phòng họp 15:02 = trễ.
 - Online: 14:59 mới click join Zoom → loading mất 30s = vào lúc 15:00:30 = trễ.
-- "Đường tắc" / "thang máy chậm" — không phải lý do chấp nhận được. Phải plan dư 10 phút.
+- "Đường tắc" / "thang máy chậm" — không phải lý do chấp nhận được. Phải tính dư 10 phút.
 - Đến trước 30 phút → cũng không tốt: phòng có khi đang chuẩn bị, gây phiền.
 
 ---
@@ -73,5 +81,5 @@ Em Linh — nhân viên mới, lần đầu tham dự họp với khách 白鷗.
 | 遅刻 | ちこく | Trễ giờ |
 | お早めのお越し | おはやめのおこし | "(Cảm ơn) anh/chị đến sớm" |
 | お揃い | おそろい | Đông đủ |
-| 余裕 | よゆう | Có dư / margin |
+| 余裕 | よゆう | Có dư / thong thả |
 | 開始する | かいしする | Bắt đầu |

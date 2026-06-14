@@ -1,41 +1,48 @@
 # Rule 17 — Sức khỏe + tuổi / 健康・年齢
 
-> **Luận điểm.** Senior 50-60t Nhật **rất thích chia sẻ về sức khỏe** — kết quả 人間ドック, máy đo huyết áp, đi gym, golf để giảm cân. NHƯNG: hỏi sai cách = invasion. **OK**: nói chung "お体お気をつけて" / "最近運動どうですか". **NG**: hỏi tuổi cụ thể (nhất là phụ nữ), hỏi bệnh chi tiết, "太りましたか?".
+> **Luận điểm.** Khách lớn tuổi 50-60t Nhật **rất thích chia sẻ về sức khỏe** — kết quả 人間ドック, máy đo huyết áp, đi gym, golf để giảm cân. NHƯNG: hỏi sai cách = xâm phạm riêng tư. **OK**: nói chung "お体お気をつけて" / "最近運動どうですか". **NG**: hỏi tuổi cụ thể (nhất là phụ nữ), hỏi bệnh chi tiết, "太りましたか?".
 
 ---
 
 ## 🧠 Tâm lý JP (4 dòng)
 
-- 健康 với senior JP = **proxy cho lo âu tuổi tác** — họ chủ động kể nếu thấy thân.
-- 人間ドック (kiểm tra sức khỏe toàn diện) = ritual quan trọng từ 40t. Hỏi đúng = senior thấy được care.
-- TUYỆT ĐỐI **không hỏi tuổi phụ nữ** — bất kể context.
-- Senior nam OK chia sẻ tuổi nếu chủ động — không hỏi trước.
+- 健康 với khách lớn tuổi JP = **đại diện cho lo âu tuổi tác** — họ chủ động kể nếu thấy thân.
+- 人間ドック (kiểm tra sức khỏe toàn diện) = nghi thức quan trọng từ 40t. Hỏi đúng = khách thấy được quan tâm.
+- TUYỆT ĐỐI **không hỏi tuổi phụ nữ** — bất kể ngữ cảnh.
+- Khách nam OK chia sẻ tuổi nếu chủ động — không hỏi trước.
 
 ---
 
 ## 🎬 Bối cảnh
 
-Dũng đang lo về relationship với Sato 60t (ho nhiều trong meeting), Nakamura 55t (mới làm 人間ドック), Yamamoto 38t (chia sẻ chuyện đi gym). Còn Linh (intern 22t) hỏi sai → bị nhắc nhẹ.
+Dũng đang lo về quan hệ với Sato 60t (ho nhiều trong cuộc họp), Nakamura 55t (mới làm 人間ドック), Yamamoto 38t (chia sẻ chuyện đi gym). Còn Linh (thực tập sinh 22t) hỏi sai → bị nhắc nhẹ.
 
 ---
 
 ## 💬 4 Scenarios — dialogue thực chiến
 
-### 📍 Scenario 1 — Quan tâm sức khỏe senior khéo (Sato ho)
+### 📍 Scenario 1 — Quan tâm sức khỏe khách lớn tuổi khéo (Sato ho)
 
-*Zoom với Sato 60t, thấy ho 3 lần · cuối meeting · impress*
+*Zoom với Sato 60t, thấy ho 3 lần · cuối cuộc họp · gây ấn tượng*
 
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「先生、本日もありがとうございました。**お体、大丈夫ですか?**最近お忙しそうで…」 |
-| **佐藤** | 「ああ、ズンさんが心配してくれるとは。実は先週から**喉の調子**が悪くて、**喉飴**【1】手放せん。」 |
-| **ズン** | 「**乾燥の季節**ですしね。**加湿器**は使われてますか?」 |
-| **佐藤** | 「使ってる。年取ると粘膜が弱くなるとかで(笑)。**マスク**もしてるよ。」 |
-| **ズン** | 「ご自愛ください【2】。**生姜湯**【3】とか**蜂蜜大根**【4】、ベトナムでも喉に効くって言われています。」 |
+|  | *Anh, hôm nay cảm ơn anh nhiều. Anh có ổn không ạ? Dạo này anh có vẻ bận...* |
+| **佐藤** | 「ああ、ズンさんが心配してくれるとは。実は先週から**<ruby>喉<rt>のど</rt></ruby>の調子**が悪くて、**<ruby>喉飴<rt>のどあめ</rt></ruby>**【1】手放せん。」 |
+|  | *À, Dũng quan tâm anh nhỉ. Thật ra tuần trước cổ họng anh không ổn, kẹo họng phải mang theo suốt.* |
+| **ズン** | 「**<ruby>乾燥<rt>かんそう</rt></ruby>の季節**ですしね。**<ruby>加湿器<rt>かしつき</rt></ruby>**は使われてますか?」 |
+|  | *Mùa hanh khô nữa nhỉ. Anh có dùng máy tạo ẩm không ạ?* |
+| **佐藤** | 「使ってる。年取ると<ruby>粘膜<rt>ねんまく</rt></ruby>が弱くなるとかで(笑)。**マスク**もしてるよ。」 |
+|  | *Có dùng. Già rồi niêm mạc yếu (cười). Đeo cả khẩu trang.* |
+| **ズン** | 「ご自愛ください【2】。**<ruby>生姜湯<rt>しょうがゆ</rt></ruby>**【3】とか**<ruby>蜂蜜大根<rt>はちみつだいこん</rt></ruby>**【4】、ベトナムでも喉に効くって言われています。」 |
+|  | *Anh giữ gìn sức khỏe ạ. Nước gừng với củ cải đường mật ong — Việt Nam cũng nói tốt cho cổ họng.* |
 | **佐藤** | 「**生姜湯**!うちの**かみさん**もよく作ってくれる。蜂蜜大根は知らんかった、調べてみる。」 |
+|  | *Nước gừng! Vợ anh cũng hay nấu. Củ cải đường mật ong anh chưa biết, để anh tìm hiểu.* |
 | **ズン** | 「お大事になさってください。」 |
+|  | *Anh chóng khỏe nhé.* |
 
-📝【1】 **喉飴** = kẹo họng. 【2】 **ご自愛ください** = "anh giữ gìn sức khỏe" (formal closing). 【3】 **生姜湯** = nước gừng nóng. 【4】 **蜂蜜大根** = củ cải đường ngâm mật ong.
+📝【1】 **喉飴** = kẹo họng. 【2】 **ご自愛ください** = "anh giữ gìn sức khỏe" (câu đóng trang trọng). 【3】 **生姜湯** = nước gừng nóng. 【4】 **蜂蜜大根** = củ cải đường ngâm mật ong.
 
 > **VN:** Quan tâm = **gián tiếp**, không "anh có bị bệnh gì không?". Mở bằng "お体お気をつけて" / "ご無理なさらず". Đóng bằng "ご自愛ください" / "お大事に".
 
@@ -47,56 +54,78 @@ Dũng đang lo về relationship với Sato 60t (ho nhiều trong meeting), Naka
 
 | Vai | Câu |
 |---------|-----|
-| **中村** | 「ズンさん、実は先週**人間ドック**【1】受けてきてね。」 |
+| **中村** | 「ズンさん、実は先週**<ruby>人間<rt>にんげん</rt></ruby>ドック**【1】受けてきてね。」 |
+|  | *Dũng, thật ra tuần trước anh đi khám sức khỏe full.* |
 | **ズン** | 「人間ドックお疲れ様でした。結果はいかがでした?」 |
-| **中村** | 「**メタボリック**【2】判定ギリギリで…ウエスト**85センチ**【3】超えそう。**血圧**もちょっと高めって言われた。」 |
+|  | *Anh vất vả rồi. Kết quả thế nào ạ?* |
+| **中村** | 「**メタボリック**【2】<ruby>判定<rt>はんてい</rt></ruby>ギリギリで…ウエスト**85センチ**【3】超えそう。**<ruby>血圧<rt>けつあつ</rt></ruby>**もちょっと高めって言われた。」 |
+|  | *Sát mức hội chứng chuyển hóa... eo sắp quá 85cm. Huyết áp cũng hơi cao.* |
 | **ズン** | 「**運動**【4】、最近されてますか?」 |
+|  | *Anh dạo này có vận động không ạ?* |
 | **中村** | 「ゴルフ月1じゃ足りないって言われた(笑)。**1万歩**目標で**Apple Watch**買ったよ。」 |
-| **ズン** | 「いいですね、**Apple Watch**!**心拍数**【5】とか**睡眠**もモニタリングできて便利ですよね。」 |
+|  | *Bác sĩ nói golf 1 tháng/lần không đủ (cười). Anh mua Apple Watch đặt mục tiêu 10.000 bước.* |
+| **ズン** | 「いいですね、**Apple Watch**!**<ruby>心拍数<rt>しんぱくすう</rt></ruby>**【5】とか**<ruby>睡眠<rt>すいみん</rt></ruby>**もモニタリングできて便利ですよね。」 |
+|  | *Hay đó, Apple Watch! Đo cả nhịp tim với giấc ngủ tiện nhỉ.* |
 | **中村** | 「**睡眠スコア**毎晩チェック(笑)。深い睡眠が少ないって出る。年だね。」 |
+|  | *Tối nào cũng kiểm tra điểm giấc ngủ (cười). Báo ngủ sâu ít. Già rồi.* |
 | **ズン** | 「中村さん、まだまだ若いですよ。**お酒**は控えめに、お互い気をつけましょう。」 |
+|  | *Anh Nakamura còn trẻ chán. Rượu uống ít thôi, mình cùng cẩn thận nhé.* |
 
-📝【1】 **人間ドック** = full medical checkup (1-2 ngày). 【2】 **メタボ(リック)** = metabolic syndrome. 【3】 = chuẩn vòng eo nam JP. 【4】 ưu tiên trung tính. 【5】 **心拍数** = nhịp tim.
+📝【1】 **人間ドック** = khám sức khỏe toàn diện (1-2 ngày). 【2】 **メタボ(リック)** = hội chứng chuyển hóa. 【3】 = chuẩn vòng eo nam JP. 【4】 ưu tiên trung tính. 【5】 **心拍数** = nhịp tim.
 
-> **VN:** Khi senior **chủ động** kể 人間ドック → react nghiêm túc nhưng không bi quan. **Không** hỏi specifics (gan, thận). **Đề xuất** vận động/Apple Watch nhẹ nhàng.
+> **VN:** Khi khách lớn tuổi **chủ động** kể 人間ドック → phản ứng nghiêm túc nhưng không bi quan. **Không** hỏi chi tiết cụ thể (gan, thận). **Đề xuất** vận động/Apple Watch nhẹ nhàng.
 
 ---
 
-### 📍 Scenario 3 — Gym + diet (Yamamoto nữ 38t — modern)
+### 📍 Scenario 3 — Gym + ăn kiêng (Yamamoto nữ 38t — hiện đại)
 
-*Slack, gửi photo gym*
+*Slack, gửi ảnh gym*
 
 | Vai | Câu |
 |---------|-----|
 | **山本** | 「最近**パーソナルトレーニング**【1】始めてん。週2ペース。」 |
-| **ズン** | 「お、**ジム**ですか!**痩せる**目的ですか、それとも**筋トレ**?」 |
-| **山本** | 「両方やわ。Osakaは**たこ焼**ばっかりで(笑)、**有酸素**【2】+**ウェイト**【3】のセット。**プロテイン**【4】も毎日飲み始めた。」 |
+|  | *Dạo này em bắt đầu PT. Tuần 2 buổi.* |
+| **ズン** | 「お、**ジム**ですか!**<ruby>痩<rt>や</rt></ruby>せる**目的ですか、それとも**<ruby>筋<rt>きん</rt></ruby>トレ**?」 |
+|  | *Ồ, gym à! Để giảm cân hay tập tạ ạ?* |
+| **山本** | 「両方やわ。Osakaは**<ruby>たこ焼<rt>や</rt></ruby>**ばっかりで(笑)、**<ruby>有酸素<rt>ゆうさんそ</rt></ruby>**【2】+**ウェイト**【3】のセット。**プロテイン**【4】も毎日飲み始めた。」 |
+|  | *Cả hai. Osaka toàn takoyaki (cười). Cardio + tạ combo. Bắt đầu uống protein mỗi ngày.* |
 | **ズン** | 「プロテインの種類いっぱいあって迷いますよね。**ホエイ**【5】ですか?」 |
+|  | *Protein nhiều loại khó chọn nhỉ. Whey ạ?* |
 | **山本** | 「ホエイ、**チョコレート味**。あと**HMB**【6】サプリもとってる。ベトナム人、痩せてる人多いよね、何してるの?」 |
-| **ズン** | 「ベトナム料理は**野菜たっぷり**で、**外食**でも野菜が多いです。最近私は**ランニング**を再開しました。」 |
-| **山本** | 「ええなあ、走るの。膝痛くならへん?」 |
-| **ズン** | 「**シューズ**を選べばいけます。次回大阪行ったら、ジム見学させてください。」 |
+|  | *Whey vị sô-cô-la. Còn uống thực phẩm bổ sung HMB. Người Việt đa số gầy nhỉ, ăn gì vậy?* |
+| **ズン** | 「ベトナム料理は**<ruby>野菜<rt>やさい</rt></ruby>たっぷり**で、**<ruby>外食<rt>がいしょく</rt></ruby>**でも野菜が多いです。最近私は**ランニング**を再開しました。」 |
+|  | *Đồ Việt nhiều rau, ăn ngoài cũng nhiều rau. Em vừa quay lại chạy bộ.* |
+| **山本** | 「ええなあ、走るの。<ruby>膝<rt>ひざ</rt></ruby>痛くならへん?」 |
+|  | *Hay đó, chạy. Đầu gối không đau à?* |
+| **ズン** | 「**シューズ**を選べばいけます。次回大阪行ったら、ジム<ruby>見学<rt>けんがく</rt></ruby>させてください。」 |
+|  | *Chọn giày tốt là được. Lần sau em đến Osaka, cho em ghé tham quan gym với ạ.* |
 
-📝【1】 **パーソナルトレーニング** = personal training. 【2】 **有酸素** = cardio. 【3】 **ウェイト** = weight training. 【4】 **プロテイン** = protein shake. 【5】 **ホエイ** = whey. 【6】 **HMB** = supplement.
+📝【1】 **パーソナルトレーニング** = tập luyện cá nhân với huấn luyện viên. 【2】 **有酸素** = bài tập cardio. 【3】 **ウェイト** = tập tạ. 【4】 **プロテイン** = sữa protein. 【5】 **ホエイ** = whey. 【6】 **HMB** = thực phẩm bổ sung.
 
-> **VN:** Khách 30-40t **chủ động** kể gym = OK đào sâu, vocab modern: **パーソナル / 有酸素 / ウェイト / プロテイン / 筋トレ / シックスパック**. **Không hỏi cân nặng / size**.
+> **VN:** Khách 30-40t **chủ động** kể gym = OK đào sâu, từ vựng hiện đại: **パーソナル / 有酸素 / ウェイト / プロテイン / 筋トレ / シックスパック**. **Không hỏi cân nặng / số đo**.
 
 ---
 
-### 📍 Scenario 4 — VÙNG CẤM: Linh hỏi sai (BAD example)
+### 📍 Scenario 4 — VÙNG CẤM: Linh hỏi sai (ví dụ SAI)
 
-*intern 22t, gặp Yamamoto lần đầu, vô ý · cười nhưng uncomfortable · không catch, tệ tiếp · rõ ràng đẩy lùi · cứu nguy, đổi topic · thoải mái lại*
+*thực tập sinh 22t, gặp Yamamoto lần đầu, vô ý · cười nhưng khó xử · không nhận ra, tệ tiếp · rõ ràng đẩy lùi · gỡ tình huống, đổi chủ đề · thoải mái lại*
 
 | Vai | Câu |
 |---------|-----|
-| **リン** | 「山本マネージャー、**おいくつですか?**お肌すごく綺麗で…」 |
+| **リン** | 「山本マネージャー、**おいくつですか?**お<ruby>肌<rt>はだ</rt></ruby>すごく綺麗で…」 |
+|  | *[NG] Chị Yamamoto, chị bao tuổi ạ? Da chị đẹp quá...* |
 | **山本** | 「あ、まあ、内緒(笑)。年齢の話はちょっとね…」 |
+|  | *À, ờ, bí mật (cười). Chuyện tuổi thì hơi...* |
 | **リン** | 「あ、すみません。**結婚はされてるんですか?**」 |
+|  | *[NG] À xin lỗi. Chị có chồng chưa ạ?* |
 | **山本** | 「リンちゃん、**個人的なこと**は仕事の関係性ができてからね。」 |
+|  | *Linh à, chuyện cá nhân để khi quan hệ công việc ổn rồi nhé.* |
 | **ズン** | 「山本さん、すみません、リンが…大阪のおすすめカフェ、教えてもらえますか?」 |
+|  | *Chị Yamamoto, xin lỗi, Linh... Chị có quán cà phê Osaka gợi ý không ạ?* |
 | **山本** | 「あ、それなら…」 |
+|  | *À, vậy thì...* |
 
-❌ **NG:** ① Hỏi tuổi phụ nữ = tabu hàng đầu. ② Hỏi marital status với khách mới = invasion. ③ Khen "肌綺麗" hàm ý "trẻ" = ý không tốt với senior nữ.
+❌ **NG:** ① Hỏi tuổi phụ nữ = tabu hàng đầu. ② Hỏi tình trạng hôn nhân với khách mới = xâm phạm riêng tư. ③ Khen "肌綺麗" hàm ý "trẻ" = ý không tốt với khách nữ lớn tuổi.
 
 ✅ **Đúng:** Khen công việc / đặc sản vùng / phong cách. **Không bao giờ** hỏi tuổi / cân nặng / hôn nhân với khách nữ.
 
@@ -105,10 +134,10 @@ Dũng đang lo về relationship với Sato 60t (ho nhiều trong meeting), Naka
 ## 🎯 Câu vàng copy-paste
 
 ```
-■ QUAN TÂM SỨC KHỎE (senior):
+■ QUAN TÂM SỨC KHỎE (khách lớn tuổi):
 「お体お気をつけてください。」
 「最近、お忙しそうですが、お疲れではないですか?」
-「ご自愛ください。」(formal đóng email/cuộc gặp)
+「ご自愛ください。」(trang trọng, đóng email/cuộc gặp)
 「お大事になさってください。」(khi khách bị bệnh)
 
 ■ KHI KHÁCH KỂ 人間ドック:
@@ -116,16 +145,16 @@ Dũng đang lo về relationship với Sato 60t (ho nhiều trong meeting), Naka
 「[運動]、最近されてますか?」
 「お互い、気をつけましょう。」
 
-■ GYM/RUNNING (younger):
+■ GYM/CHẠY BỘ (khách trẻ hơn):
 「[パーソナル]ですか、[ジム]ですか?」
 「[プロテイン]の種類、何派ですか?」
 「[皇居ラン]、ぜひ一緒に。」
 
-■ NEVER ASK:
+■ KHÔNG BAO GIỜ HỎI:
 × おいくつですか?(tuổi, đặc biệt nữ)
-× 体重は? / サイズは?(cân nặng / size)
+× 体重は? / サイズは?(cân nặng / số đo)
 × 結婚されてますか?(với khách mới)
-× 病気のこと、詳しく…(specific bệnh)
+× 病気のこと、詳しく…(bệnh cụ thể)
 ```
 
 ---
@@ -133,11 +162,11 @@ Dũng đang lo về relationship với Sato 60t (ho nhiều trong meeting), Naka
 ## ⚠ NG — tuyệt đối tránh
 
 - Hỏi **tuổi phụ nữ** → tabu hàng đầu, KHÔNG bao giờ.
-- Hỏi **cân nặng / size** với cả nam + nữ → invasion.
-- Comment "**太りましたか?**" / "**痩せましたね**" → **痩せましたね** đôi khi cũng tệ vì hàm ý "có vấn đề sức khỏe".
-- Hỏi specific bệnh / thuốc đang dùng → vùng riêng tư tuyệt đối.
-- "ご結婚は?" với khách mới → invasive.
-- Trêu về già / tuổi tác → Vietnamese culture có thể đùa, JP không OK.
+- Hỏi **cân nặng / số đo** với cả nam + nữ → xâm phạm riêng tư.
+- Nhận xét "**太りましたか?**" / "**痩せましたね**" → **痩せましたね** đôi khi cũng tệ vì hàm ý "có vấn đề sức khỏe".
+- Hỏi bệnh cụ thể / thuốc đang dùng → vùng riêng tư tuyệt đối.
+- "ご結婚は?" với khách mới → xâm phạm riêng tư.
+- Trêu về già / tuổi tác → văn hóa Việt có thể đùa, JP không OK.
 
 ---
 
@@ -148,16 +177,16 @@ Dũng đang lo về relationship với Sato 60t (ho nhiều trong meeting), Naka
 | 健康 | けんこう | Sức khỏe |
 | 人間ドック | にんげんドック | Khám sức khỏe full |
 | 健診 | けんしん | Khám sức khỏe định kỳ |
-| メタボ | — | Metabolic syndrome |
+| メタボ | — | Hội chứng chuyển hóa |
 | 血圧 | けつあつ | Huyết áp |
 | 血糖値 | けっとうち | Đường huyết |
-| コレステロール | — | Cholesterol |
+| コレステロール | — | Cholesterol (mỡ máu) |
 | 喉飴 | のどあめ | Kẹo họng |
 | 加湿器 | かしつき | Máy tạo ẩm |
-| 有酸素運動 | ゆうさんそうんどう | Cardio |
+| 有酸素運動 | ゆうさんそうんどう | Bài tập cardio |
 | 筋トレ | きんトレ | Tập tạ |
-| プロテイン | — | Protein shake |
-| パーソナルトレーニング | — | PT |
+| プロテイン | — | Sữa protein |
+| パーソナルトレーニング | — | Tập với huấn luyện viên riêng |
 | 1万歩 | いちまんぽ | 10,000 bước |
 | 心拍数 | しんぱくすう | Nhịp tim |
 | 睡眠 | すいみん | Giấc ngủ |
@@ -168,9 +197,9 @@ Dũng đang lo về relationship với Sato 60t (ho nhiều trong meeting), Naka
 
 ## 🎓 BJT
 
-**J3 — 場面把握:** Phân biệt OK / NG questions theo gender + relationship depth.
-**J2 — 表現読解:** "ご自愛ください" vs "お大事に" — khi nào dùng nào.
-**J1 — 発言聴解:** Catch tín hiệu khách kể bệnh nhẹ → react đúng độ (concerned ≠ panic).
+**J3 — 場面把握:** Phân biệt câu hỏi OK / NG theo giới tính + độ thân của quan hệ.
+**J2 — 表現読解:** "ご自愛ください" vs "お大事に" — khi nào dùng cái nào.
+**J1 — 発言聴解:** Nắm tín hiệu khách kể bệnh nhẹ → phản ứng đúng độ (quan tâm chứ không hoảng hốt).
 
 ---
 

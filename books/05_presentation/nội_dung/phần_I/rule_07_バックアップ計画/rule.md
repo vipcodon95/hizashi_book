@@ -1,6 +1,6 @@
 # Rule 07 — Backup plan (Plan B) / バックアップ計画
 
-> **Luận điểm.** Pre-pitch checklist phải có **5 backup**: ① PDF deck (USB + cloud), ② demo offline (local DB / mock — dữ liệu giả lập), ③ mobile hotspot, ④ HDMI / USB-C / VGA adapter trio, ⑤ printed handout (tài liệu phát tay) 5 bản. Tech failure không phải "nếu" mà là "khi nào". Plan B chuẩn bị trước = recovery 2 phút thay vì 15 phút.
+> **Luận điểm.** Checklist trước pitch phải có **5 lớp dự phòng**: ① PDF deck (USB + cloud), ② demo offline (local DB / mock — dữ liệu giả lập), ③ phát Wi-Fi từ điện thoại, ④ bộ 3 adapter HDMI / USB-C / VGA, ⑤ tài liệu in phát tay 5 bản. Sự cố kỹ thuật không phải "nếu" mà là "khi nào". Plan B chuẩn bị trước = khôi phục 2 phút thay vì 15 phút.
 >
 > プレゼン直前チェックリスト5点: ①PDFバックアップ、②オフラインデモ、③モバイルテザリング、④アダプタ3種、⑤印刷配布5部。トラブルは『if』ではなく『when』。準備済みなら2分で復旧。
 >
@@ -21,12 +21,17 @@ Ngày trước pitch, Hải DevOps tình cờ ngang qua phòng họp lúc Dũng 
 | Vai | Câu |
 |---------|-----|
 | **ハイ** | 「ズン、明日プレゼン？スライドどこ？」 |
+|  | *Dũng, mai pitch hả? Slide ở đâu?* |
 | **ズン** | 「Dropboxです。明日 Wi-Fi 借りて開きます。」 |
+|  | *Trên Dropbox ạ. Mai mượn Wi-Fi mở.* |
 | **ハイ** | 「Dropbox オンリー？**Wi-Fi 落ちたら deck 開けない**よ。デモは？」 |
-| **ズン** | 「ライブAPI呼ぶ実装で…」 |
-| **ハイ** | 「**全部 single point of failure**。明日朝3時に起きて慌てる前に、今日Plan B 揃えよう。」 |
+|  | *Mỗi Dropbox? Wi-Fi rớt là không mở được deck đâu. Còn demo?* |
+| **ズン** | 「ライブAPI呼ぶ<ruby>実装<rt>じっそう</rt></ruby>で…」 |
+|  | *Em implement gọi API live ạ...* |
+| **ハイ** | 「**全部 single point of failure**。明日朝3時に起きて<ruby>慌<rt>あわ</rt></ruby>てる前に、今日Plan B 揃えよう。」 |
+|  | *Toàn single point of failure đấy. Trước khi 3h sáng mai dậy hoảng loạn, hôm nay tụi mình set up Plan B đi.* |
 
-**Vì sao xấu:** Cloud-only deck + live API demo + 1 cable = 3 điểm rủi ro độc lập. Bất kỳ điểm nào fail là demo phá. Khách Nhật particularly không nương tay khi tech fail.
+**Vì sao xấu:** Deck chỉ trên cloud + live API demo + 1 cable = 3 điểm rủi ro độc lập. Bất kỳ điểm nào hỏng là demo phá. Khách Nhật đặc biệt không nương tay khi xảy ra sự cố kỹ thuật.
 
 ---
 
@@ -34,10 +39,14 @@ Ngày trước pitch, Hải DevOps tình cờ ngang qua phòng họp lúc Dũng 
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「ハイさん、ありがとう。**Plan Bチェックリスト**【1】で揃えました。①PDF版 USB+ローカル、②オフラインデモ準備、③テザリング有効、④HDMI+USB-C+VGAアダプタ持参、⑤印刷5部。」 |
-| **ハイ** | 「いいね。USB は2本？1本紛失リスク。」 |
-| **ズン** | 「2本持参します。**もう1本はトゥアンさんに渡します**【2】(co-presenter として保険)。」 |
-| **ハイ** | 「正解。それと PDF はクライアント側にも事前共有しておくと、最悪『画面共有なしで紙ベース』に切り替えできる。」 |
+| **ズン** | 「ハイさん、ありがとう。**Plan Bチェックリスト**【1】で揃えました。①PDF版 USB+ローカル、②オフラインデモ<ruby>準備<rt>じゅんび</rt></ruby>、③テザリング<ruby>有効<rt>ゆうこう</rt></ruby>、④HDMI+USB-C+VGAアダプタ<ruby>持参<rt>じさん</rt></ruby>、⑤<ruby>印刷<rt>いんさつ</rt></ruby>5部。」 |
+|  | *Anh Hải, cảm ơn anh ạ. Em đã chuẩn bị xong theo checklist Plan B. ① Bản PDF trên USB + local, ② demo offline, ③ tethering bật sẵn, ④ mang HDMI + USB-C + VGA adapter, ⑤ in 5 bản.* |
+| **ハイ** | 「いいね。USB は2本？1本<ruby>紛失<rt>ふんしつ</rt></ruby>リスク。」 |
+|  | *OK. USB 2 chiếc đúng không? 1 chiếc rủi ro mất đấy.* |
+| **ズン** | 「2本持参します。**もう1本はトゥアンさんに渡します**【2】(co-presenter として<ruby>保険<rt>ほけん</rt></ruby>)。」 |
+|  | *Em mang 2 chiếc ạ. Một chiếc đưa anh Tuấn (làm bảo hiểm với tư cách co-presenter).* |
+| **ハイ** | 「<ruby>正解<rt>せいかい</rt></ruby>。それと PDF はクライアント側にも<ruby>事前共有<rt>じぜんきょうゆう</rt></ruby>しておくと、最悪『<ruby>画面共有<rt>がめんきょうゆう</rt></ruby>なしで紙ベース』に切り替えできる。」 |
+|  | *Chuẩn. Với cả PDF share trước cho khách luôn — tệ nhất thì switch sang 「không share screen, chỉ dùng giấy」 cũng được.* |
 
 📝 **Ghi chú:**
 - 【1】**「Plan B チェックリスト」** — Pre-pitch 24h前に 1 round, pitch当日朝 final check. 5項目全部 ✅ で安心.
@@ -47,7 +56,7 @@ Ngày trước pitch, Hải DevOps tình cờ ngang qua phòng họp lúc Dũng 
 
 ## 🎯 Câu chốt
 
-> **「Plan B 5点: PDF / オフラインデモ / テザリング / アダプタ3種 / 印刷5部。Tech failure は『when』であって『if』ではない。」**
+> **「Plan B 5点: PDF / オフラインデモ / テザリング / アダプタ3種 / <ruby>印刷<rt>いんさつ</rt></ruby>5部。Tech failure は『when』であって『if』ではない。」**
 >
 > *5 điểm backup. Tech fail là chuyện khi nào, không phải có hay không.*
 
@@ -101,11 +110,11 @@ Ngày trước pitch, Hải DevOps tình cờ ngang qua phòng họp lúc Dũng 
 
 ## ⚠ Tránh
 
-- Cloud-only deck → no internet = no pitch
-- Live API demo without offline fallback → 1 connection drop = total fail
-- 1 USB only → 紛失 = panic
+- Deck chỉ để trên cloud → mất internet = không pitch được
+- Live API demo mà không có phương án offline dự phòng → rớt 1 kết nối = hỏng toàn bộ
+- Chỉ 1 USB → thất lạc = hoảng loạn
 - Adapter chỉ 1 loại → khách dùng VGA/USB-C khác là toang
-- Test ở văn phòng mình rồi tin → môi trường khách khác
+- Test ở văn phòng mình rồi yên tâm → môi trường khách khác hẳn
 
 ---
 
