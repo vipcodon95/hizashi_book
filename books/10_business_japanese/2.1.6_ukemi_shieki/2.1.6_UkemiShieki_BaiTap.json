@@ -51,8 +51,8 @@
         "D": "から"
       },
       "answer": "C",
-      "explanation_vn": "【によって】dùng trong bị động khi tác nhân là: ①Tổ chức/tập thể (会社、政府、チーム…). ②Thời đại/trừu tượng (江戸時代…). ③Phát minh, sáng tác (〜によって発見された、書かれた). に (A) = tác nhân là NGƯỜI cụ thể (人 + に). で (B) = phương tiện hoặc địa điểm. から (D) = nguồn gốc. 「江戸時代によって」= đúng về nghĩa tác nhân lịch sử.",
-      "tip": "Phân biệt に vs によって: に = người cụ thể (田中さんに叱られた). によって = tổ chức, trừu tượng, phát minh (会社によって決められた、〜によって発見された)."
+      "explanation_vn": "【によって】dùng trong bị động khi tác nhân là: ①Tổ chức/tập thể (会社、政府、チーム…). ②Tác nhân ẩn/tập thể lịch sử (江戸時代 = 'thời đại Edo', ngụ ý thợ thủ công, người dân, tập thể ẩn danh thời đó — không phải 1 người cụ thể). ③Phát minh, sáng tác (〜によって発見された、書かれた). QUAN TRỌNG: 江戸時代によって đúng KHÔNG phải vì 'thời đại' là trừu tượng, mà vì TÁC NHÂN THỰC SỰ là tập thể/ẩn danh (người thợ xây thời Edo) — khi tác nhân là tập thể ẩn/không rõ cá nhân → によって. に (A) = chỉ dùng cho NGƯỜI CỤ THỂ (田中さんに決められた). で (B) = phương tiện hoặc địa điểm. から (D) = nguồn gốc.",
+      "tip": "Phân biệt に vs によって: に = người cụ thể rõ danh (田中さんに叱られた). によって = tổ chức, tập thể, tác nhân ẩn/lịch sử, phát minh (会社によって決められた、江戸時代の職人によって建てられた)."
     },
     {
       "id": 3,
@@ -149,12 +149,12 @@
       "choices": {
         "A": "①書かれる ②書かせる ③書かせられる",
         "B": "①書かれる ②書けさせる ③書けさせられる",
-        "C": "①書かれる ②書かせる ③書かされる",
+        "C": "①書かれる ②書かせる ③書かせされる",
         "D": "①書けれる ②書かせる ③書かせられる"
       },
       "answer": "A",
-      "explanation_vn": "書く (グループ1 — nhóm 1, thân = か): ①受動: か + れる = 書かれる. ②使役: か + せる = 書かせる. ③使役受動: か + せられる = 書かせられる (hoặc rút gọn: 書かされる). Lưu ý (C): 書かされる = dạng rút gọn của 書かせられる — đúng nhưng chỉ dùng với グループ1 (không dùng với グループ2: 食べさせられる ≠ 食べさされる).",
-      "tip": "Chia nhanh: 動詞(ない形のない前) + れる(受身) / せる(使役) / せられる(使役受身). グループ1 rút gọn させられる → される (書かされる) nhưng グループ2 KHÔNG rút gọn được."
+      "explanation_vn": "書く (グループ1 — nhóm 1, thân = か): ①受動: か + れる = 書かれる. ②使役: か + せる = 書かせる. ③使役受動: か + せられる = 書かせられる. (B) 書けさせる = SAI — không tồn tại dạng này (nhầm với 可能形 書ける). (C) 書かせされる = SAI — không tồn tại (dạng rút gọn đúng là 書かされる nhưng đó cũng là đáp án đúng; 書かせされる là lỗi ghép 2 phần sai). (D) 書けれる = SAI — 可能形 đúng phải là 書ける. Chỉ (A) cho đủ 3 dạng đúng chuẩn.",
+      "tip": "Chia nhanh: 動詞(ない形のない前) + れる(受身) / せる(使役) / せられる(使役受身). グループ1 có dạng rút gọn させられる → される (書かされる) nhưng グループ2 KHÔNG rút gọn được. Dạng rút gọn 書かされる ĐÚNG nhưng không có trong đáp án câu này."
     },
     {
       "id": 9,
@@ -164,14 +164,14 @@
       "question_ja": "「先生に褒められた」と「先生に褒めてもらった」の違いとして正しいものはどれですか？",
       "question_vn": "Sự khác nhau giữa ①\"được thầy khen\" (bị động) và ②\"được thầy khen\" (授受動詞) là gì?",
       "choices": {
-        "A": "①は受身で不本意な気持ち、②は感謝の気持ちを表す",
+        "A": "①は受身で客観的な表現、②は感謝・恩恵の気持ちを表す",
         "B": "①②ともに同じ意味で違いはない",
         "C": "①は自然に起きたこと、②は頼んで起きたこと",
         "D": "①は先生が悪い人、②は先生が良い人"
       },
       "answer": "A",
-      "explanation_vn": "Tuy cùng nghĩa 'được khen' nhưng sắc thái khác: ①「褒められた」(受身) = trung tính, ghi nhận khách quan sự việc, không nhấn mạnh cảm xúc biết ơn. (Lưu ý: trong ngữ cảnh ĐƯỢC KHEN, 受身 KHÔNG mang hàm ý bất đắc dĩ — hàm ý bất đắc dĩ chỉ xuất hiện ở 迷惑の受身 như 雨に降られた.) ②「褒めてもらった」(授受) = biết ơn, vui mừng — nhấn mạnh ÂN HUỆ nhận được. Trong kinh doanh, もらった/いただく thường được chọn khi muốn thể hiện lòng biết ơn: 「ご評価いただいた」.",
-      "tip": "〜れる/られる (受身) vs 〜てもらう (授受): Cùng sự việc nhưng khác sắc thái. もらう = tôi biết ơn về điều đó. Trong kinh doanh, いただく được dùng thay bị động khi muốn thể hiện lòng biết ơn."
+      "explanation_vn": "Tuy cùng nghĩa 'được khen' nhưng sắc thái khác: ①「褒められた」(受身) = biểu đạt khách quan/trung tính — ghi nhận sự việc xảy ra mà không nhấn mạnh cảm xúc. LƯU Ý QUAN TRỌNG: 受身 KHÔNG mang hàm ý 'bất đắc dĩ' (不本意) ở đây vì 褒める (khen) là điều tích cực — hàm ý bất đắc dĩ chỉ xuất hiện ở 迷惑の受身 (bị động thiệt hại) như 雨に降られた, 財布を盗まれた. ②「褒めてもらった」(授受動詞) = biết ơn, trân trọng ÂN HUỆ nhận được — nhấn mạnh 'thầy đã làm ơn khen tôi'. Trong kinh doanh, いただく được dùng khi muốn thể hiện lòng biết ơn: 「ご評価いただいた」.",
+      "tip": "〜れる/られる (受身) = khách quan, trung tính. 〜てもらう/いただく (授受) = biết ơn, nhấn mạnh ân huệ. Bị động KHÔNG phải lúc nào cũng mang nghĩa 'bất đắc dĩ' — chỉ khi là 迷惑の受身 (bị hại) mới có hàm ý đó."
     },
     {
       "id": 10,
@@ -281,7 +281,7 @@
       "category": "使役受動形ビジネス初級",
       "category_vn": "Sơ cấp kinh doanh — Sai khiến bị động (させられる) trong công ty",
       "question_ja": "「新入社員は毎朝1時間（　）掃除させられる。」この文が表す状況として正しいものはどれですか？",
-      "question_vn": "\"Nhân viên mới bị bắt dọn dẹp 1 tiếng mỗi sáng.\" Tình huống nào phù hợp với câu này?",
+      "question_vn": "Nhân viên mới bị bắt dọn dẹp 1 tiếng mỗi sáng. Tình huống nào phù hợp với câu này?",
       "choices": {
         "A": "新入社員が自ら進んで掃除している",
         "B": "新入社員が掃除するよう誰かに命じられている（不本意）",
@@ -289,7 +289,7 @@
         "D": "新入社員が掃除を誰かにさせている"
       },
       "answer": "B",
-      "explanation_vn": "【させられる】= sai khiến bị động — BỊ ÉP PHẢI LÀM, không muốn nhưng phải làm. Câu này hàm ý nhân viên mới KHÔNG MUỐN nhưng bị buộc phải dọn dẹp mỗi ngày. Trợ từ: [người ép]に + [hành động]させられる. Hàm ý phàn nàn, bất đắc dĩ. (A) tự nguyện = không đúng. (C) được phép = sai nghĩa. (D) sai chủ thể.",
+      "explanation_vn": "【させられる】= sai khiến bị động — BỊ ÉP PHẢI LÀM, không muốn nhưng phải làm. Câu này hàm ý nhân viên mới KHÔNG MUỐN nhưng bị buộc phải dọn dẹp mỗi ngày. Trợ từ: [người ép]に + [hành động]させられる. Hàm ý phàn nàn, bất đắc dĩ. (A) 自ら進んで = TỰ NGUYỆN → sai vì させられる chứa hàm ý bị ép, trái với tự nguyện. (C) được phép = sai nghĩa (許可 dùng させてもらう). (D) sai chủ thể (nhân viên mới là người BỊ ép, không phải người sai khiến).",
       "tip": "させられる luôn có hàm ý BẤT ĐẮC DĨ. Nếu muốn nói TỰ NGUYỆN → する. Nếu muốn nói ĐƯỢC PHÉP → させてもらう/させていただく."
     },
     {
@@ -374,8 +374,8 @@
         "D": "彼女は風邪に休みました。"
       },
       "answer": "A",
-      "explanation_vn": "①「A氏によって書かれた」= ĐÚNG — tác giả (người sáng tác, phát minh) → によって. ②「上司によって叱られた」= SAI — 上司 = người cụ thể → phải dùng に: 「上司に叱られた」. ③「国会に制定された」= SAI — 国会 = tổ chức → phải dùng によって: 「国会によって制定された」. ④「風邪に休みました」= SAI — 風邪 = nguyên nhân → で: 「風邪で休みました」.",
-      "tip": "Bảng trợ từ bị động: ①Người cụ thể = に (先生に叱られた). ②Tổ chức/tập thể = によって (会社によって決められた). ③Tác giả/phát minh = によって (〜によって書かれた/発見された). ④Nguyên nhân tự nhiên = で (風邪で、事故で). ⑤Nguồn gốc = から (親から聞かされた)."
+      "explanation_vn": "①「A氏によって書かれた」= ĐÚNG — tác giả (người sáng tác, phát minh) → によって. NGOẠI LỆ QUAN TRỌNG: A氏 là cá nhân nhưng với TƯ CÁCH TÁC GIẢ/PHÁT MINH thì dùng によって (giống: シェイクスピアによって書かれた — dù Shakespeare là người cụ thể, vai trò tác giả/người sáng tạo → によって). Phân biệt: 「上司に叱られた」(ép/khiển trách trực tiếp → に) vs 「A氏によって書かれた」(sáng tác/phát minh → によって). ②「上司によって叱られた」= SAI — 上司 = người cụ thể với hành động trực tiếp → phải dùng に: 「上司に叱られた」. ③「国会に制定された」= SAI — 国会 = tổ chức → phải dùng によって: 「国会によって制定された」. ④「風邪に休みました」= SAI — 風邪 = nguyên nhân → で: 「風邪で休みました」.",
+      "tip": "Bảng trợ từ bị động: ①Người cụ thể (hành động trực tiếp) = に (先生に叱られた). ②Tổ chức/tập thể = によって (会社によって決められた). ③Tác giả/phát minh = によって kể cả khi là cá nhân (シェイクスピアによって書かれた、A氏によって発明された). ④Nguyên nhân tự nhiên = で (風邪で、事故で). ⑤Nguồn gốc = から (親から聞かされた)."
     },
     {
       "id": 22,
@@ -671,17 +671,17 @@
       "level": 4,
       "category": "総合上級",
       "category_vn": "Nâng cao — Tổng hợp: Chuyển đổi câu chủ động → bị động → sai khiến",
-      "question_ja": "「田中部長が山田さんに新しいプロジェクトの計画書を書いた。」という文を変換した時、正しいものはどれですか？\n① この文の受身文（山田さんを主語に）\n② この文の使役文（田中部長が山田さんに書かせた）の山田さんを主語にした使役受身文",
-      "question_vn": "Cho câu: \"Trưởng phòng Tanaka viết kế hoạch dự án mới cho Yamada.\" Chuyển đổi đúng là gì?",
+      "question_ja": "「田中部長が山田さんの評価書を書いた。」という文を変換した時、正しいものはどれですか？\n① この文の受身文（迷惑の受身・山田さんを主語に）\n② この文の使役文（田中部長が山田さんに評価書を書かせた）の山田さんを主語にした使役受身文",
+      "question_vn": "Cho câu: \"Trưởng phòng Tanaka đã viết bản đánh giá của Yamada (Yamada bị/thiệt thòi vì điều này).\" Chuyển đổi đúng là gì?\n①Câu bị động 迷惑の受身 (Yamada làm chủ ngữ)\n②Sai khiến bị động (Yamada bị Tanaka bắt viết bản đánh giá)",
       "choices": {
-        "A": "①山田さんは田中部長に計画書を書かれた。②山田さんは田中部長に計画書を書かせられた。",
-        "B": "①山田さんは田中部長に計画書が書かれた。②山田さんは田中部長によって計画書を書かせられた。",
-        "C": "①山田さんは田中部長に計画書を書かれた。②山田さんは田中部長によって計画書を書かせた。",
-        "D": "①山田さんは田中部長から計画書が書かれた。②山田さんは田中部長に計画書が書かせられた。"
+        "A": "①山田さんは田中部長に評価書を書かれた。②山田さんは田中部長に評価書を書かせられた。",
+        "B": "①山田さんは田中部長に評価書が書かれた。②山田さんは田中部長によって評価書を書かせられた。",
+        "C": "①山田さんは田中部長に評価書を書かれた。②山田さんは田中部長によって評価書を書かせた。",
+        "D": "①山田さんは田中部長から評価書が書かれた。②山田さんは田中部長に評価書が書かせられた。"
       },
       "answer": "A",
-      "explanation_vn": "①Bị động (山田 = người bị tác động gián tiếp — 田中 viết cho Yamada, Yamada 'bị' điều này): 「山田さんは田中部長に計画書を書かれた」. を giữ nguyên vì đây là bị động gián tiếp (迷惑の受身) — 計画書 không phải vật của Yamada bị lấy. ②Sai khiến bị động (Yamada bị Tanaka bắt viết): 「山田さんは田中部長に計画書を書かせられた」. Trong使役受動, tân ngữ を giữ nguyên. (B) sai ở ①「計画書が」thay vì を. (C) sai ở ②「書かせた」= sai khiến chứ không phải sai khiến bị động.",
-      "tip": "Chuyển đổi 3 dạng: 書いた(chủ động) → 書かれた(bị động, để ý を/が) → 書かせた(sai khiến) → 書かせられた(sai khiến bị động)."
+      "explanation_vn": "Câu gốc: 「田中部長が山田さんの評価書を書いた」(Tanaka viết bản đánh giá của Yamada). ①Bị động 迷惑 (Yamada = người bị thiệt — bị người khác viết bản đánh giá về mình, không kiểm soát được): 「山田さんは田中部長に評価書を書かれた」. を giữ nguyên vì đây là bị động gián tiếp/thiệt hại (迷惑の受身) — 山田 là người bị hại (chủ ngữ), 評価書 giữ を. Đây là 迷惑の受身 RÕ RÀNG vì Yamada bị người khác viết bản đánh giá về mình — điều ảnh hưởng trực tiếp đến quyền lợi. ②Sai khiến bị động (Yamada bị Tanaka ép phải tự viết bản đánh giá): 「山田さんは田中部長に評価書を書かせられた」. Trong 使役受動, tân ngữ を giữ nguyên. (B) sai ở ①「評価書が」thay vì を (bị động thiệt hại giữ を). (C) sai ở ②「書かせた」= sai khiến, không phải sai khiến bị động. (D) sai ở ①「から」và「が」đều sai.",
+      "tip": "迷惑の受身 rõ nhất khi vật liên quan trực tiếp đến quyền lợi người bị hại (評価書を書かれた = bị viết bản đánh giá về mình). Chuyển đổi: 書いた(chủ động) → 書かれた(bị động thiệt hại, を) → 書かせた(sai khiến) → 書かせられた(sai khiến bị động)."
     },
     {
       "id": 40,

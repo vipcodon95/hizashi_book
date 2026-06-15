@@ -368,13 +368,13 @@
       "question_ja": "A社（取引先）とB社（自社）とC社（別の取引先）の3社が絡む場面。B社社員（話し手）がA社の山田様にC社について話す場合、C社はA社とB社それぞれにとって何ですか？",
       "question_vn": "Tình huống 3 công ty: A (đối tác), B (công ty bạn), C (đối tác khác). Bạn (B) nói với ông Yamada (A) về C công ty. C là Soto hay Uchi với A và B?",
       "choices": {
-        "A": "C社はA社にとっても、B社にとっても「外（soto）」",
+        "A": "C社はB社にとって外（soto）だが、A社にとっては関係ないため判断不要",
         "B": "C社はA社にとって「内（uchi）」、B社にとって「外（soto）」",
         "C": "C社はA社にとって「外（soto）」、B社にとっても「外（soto）」だが、A社に話す時はC社を「外」として扱う",
         "D": "C社はすべての会社にとって「内（uchi）」"
       },
       "answer": "C",
-      "explanation_vn": "C công ty = Soto với cả A và B. Khi bạn (B) nói với A về C: C vẫn là Soto với bạn → dùng tôn kính ngữ cho C (nếu cần). Nhưng đây là tình huống phức tạp vì A cũng đang nghe → bạn tôn trọng cả A lẫn C (khi đề cập). Không có tình huống C là Uchi của A (trừ khi A và C là cùng tập đoàn). Khi có mặt đại diện của nhiều công ty khác nhau, tất cả họ đều là Soto của bạn.",
+      "explanation_vn": "C công ty = Soto với cả A và B. Khi bạn (B) nói với A về C: C vẫn là Soto với bạn → dùng tôn kính ngữ cho C (nếu cần). A cũng đang nghe → bạn tôn trọng cả A lẫn C khi đề cập. Không có tình huống C là Uchi của A (trừ khi A và C là cùng tập đoàn). Khi có mặt đại diện nhiều công ty khác nhau, tất cả đều là Soto của bạn. (A) SAI: C社 là Soto với A — quan hệ đó hoàn toàn xác định được và không thể bỏ qua. (B) SAI: C社 không là Uchi của A. (D) SAI: không có công ty nào là Uchi của công ty khác trong tình huống này.",
       "tip": "Khi có nhiều đại diện Soto trong cùng buổi họp: Tất cả đều là Soto của bạn → tôn kính với tất cả. Chỉ CÔNG TY BẠN mới là Uchi."
     },
     {
@@ -398,18 +398,18 @@
       "id": 23,
       "level": 3,
       "category": "内外ビジネス中級",
-      "category_vn": "Trung cấp — Truyền đạt thông tin 3 chiều",
-      "question_ja": "A社（取引先）の鈴木様から伝言を預かり、それを自社の田中部長に伝える。正しい伝え方はどれですか？",
-      "question_vn": "Nhận tin nhắn từ ông Suzuki (A công ty, đối tác) và truyền lại cho Trưởng phòng Tanaka (sếp của bạn). Cách nói ĐÚNG là gì?",
+      "category_vn": "Trung cấp — Báo cáo ý kiến sếp cho khách",
+      "question_ja": "上司（田中部長）の意向を、取引先のA社の鈴木様に伝える場面。正しい言い方はどれですか？",
+      "question_vn": "Bạn truyền đạt ý kiến của sếp (Trưởng phòng Tanaka) cho ông Suzuki (A công ty, đối tác). Cách nói ĐÚNG là gì?",
       "choices": {
-        "A": "A社の鈴木が申しておりました。",
-        "B": "A社の鈴木様がおっしゃっていました。",
-        "C": "A社の鈴木様が申し上げておりました。",
-        "D": "A社の鈴木さんが言っていました。"
+        "A": "田中部長がぜひご参加したいとおっしゃっていました。",
+        "B": "弊社の田中が、ぜひ参加したいと申しております。",
+        "C": "田中部長様が参加されるとおっしゃっていました。",
+        "D": "田中がぜひ参加したいと申し上げていました。"
       },
       "answer": "B",
-      "explanation_vn": "Khi kể lại cho SẾP (田中部長) về những gì KHÁCH (鈴木様) đã nói: ①鈴木様 = Soto → vẫn dùng tôn kính 「おっしゃる」và 「様」. ②Đang nói VỚI SẾP nên cần cẩn thận: với sếp bạn dùng tôn kính (sẽ có ở động từ chính), nhưng với Suzuki (Soto) vẫn dùng tôn kính. (A) 「申す」= khiêm cho uchi → SAI khi nói về Soto. (C) 「申し上げる」= khiêm → SAI cho Soto. (D) 「言っていました」= quá bình thường với khách.",
-      "tip": "Dù đang nói với ai, quan hệ Soto của khách KHÔNG thay đổi → luôn dùng tôn kính cho khách. Chỉ VỊ TRÍ của bạn (uchi/người nói) thay đổi cách bạn nói về hành động của mình."
+      "explanation_vn": "Khi nói VỚI KHÁCH (Soto) về SẾP (Uchi): ①「弊社の田中」= bỏ 部長 (Uchi, nói với Soto) + thêm 弊社 để rõ thuộc nhóm nào. ②「参加したい」= động từ bình thường cho hành động của Uchi. ③「申しております」= khiêm ngữ của 言う cho Uchi. (A) 「田中部長」còn chức danh + 「おっしゃる」tôn kính cho Uchi — 2 lỗi. (C) 「田中部長様」+ 「おっしゃる」+ 「される」= nhiều lỗi tôn kính cho Uchi. (D) 「申し上げる」= khiêm ngữ thiên về 'thưa với bề trên', dùng để báo cáo lời sếp với khách không tự nhiên — 申す/申しております phù hợp hơn.",
+      "tip": "Khi nói VỀ SẾP (Uchi) với KHÁCH (Soto): Bỏ chức danh + dùng khiêm ngữ (申す, いたす). Khác với câu 17 — ở đây chiều ngược lại: không phải kể lời khách cho sếp, mà kể lời sếp cho khách."
     },
     {
       "id": 24,
@@ -603,7 +603,7 @@
       "level": 4,
       "category": "内外上級",
       "category_vn": "Nâng cao — Phân tích toàn bộ đoạn hội thoại",
-      "question_ja": "次の受付での会話で、内外のルール通り正しく使われているものの組み合わせはどれですか？\n（ア）「田中部長はただいま外出しております。」\n（イ）「A社の鈴木様がお見えになりました。」\n（ウ）「山田がご案内いたします。」\n（エ）「部長がいらっしゃいます。」",
+      "question_ja": "次の受付での会話で、内外のルール通り正しく使われているものの組み合わせはどれですか？\n（ア）「田中はただいま外出しております。」\n（イ）「A社の鈴木様がお見えになりました。」\n（ウ）「山田がご案内いたします。」\n（エ）「部長がいらっしゃいます。」",
       "question_vn": "Trong đoạn hội thoại lễ tân trên, tổ hợp câu dùng ĐÚNG Uchi/Soto là gì?",
       "choices": {
         "A": "（ア）（イ）（ウ）",
@@ -612,7 +612,7 @@
         "D": "（ア）（イ）（ウ）（エ）すべて正しい"
       },
       "answer": "A",
-      "explanation_vn": "（ア）「田中部長はただいま外出しております」= ĐÚNG ở phần kính ngữ: 「外出しております」= khiêm ngữ cho Uchi (dù nói với ngoài). Lưu ý về 「田中部長」: cách chuẩn mực nhất khi nói với Soto là bỏ chức danh (「田中はただいま…」); tuy nhiên việc giữ 「部長」để khách định danh đúng người được xem là chấp nhận được trong thực tế lễ tân — không phải chuẩn vàng nhưng không bị tính là lỗi kính ngữ ở đây. （イ）「A社の鈴木様がお見えになりました」= ĐÚNG. お見えになる = tôn kính của 来る cho Soto (khách đến). （ウ）「山田がご案内いたします」= ĐÚNG. Bỏ さん, dùng khiêm ngữ. （エ）「部長がいらっしゃいます」= LỖI. いらっしゃる là tôn kính ngữ, không dùng cho Uchi.",
+      "explanation_vn": "（ア）「田中はただいま外出しております」= ĐÚNG: ①「田中」— bỏ chức danh 部長 vì Tanaka là Uchi, đang nói với Soto (nhất quán với quy tắc câu 5, 11, 31). ②「外出しております」= khiêm ngữ cho hành động của Uchi. （イ）「A社の鈴木様がお見えになりました」= ĐÚNG. お見えになる = tôn kính của 来る cho Soto (khách đến). （ウ）「山田がご案内いたします」= ĐÚNG. Bỏ さん, dùng khiêm ngữ. （エ）「部長がいらっしゃいます」= LỖI. いらっしゃる là tôn kính ngữ, không dùng cho Uchi.",
       "tip": "Bộ từ chuẩn: Khách đến → 「お見えになる/いらっしゃる」. Sếp vắng → 「外出しております/席を外しております」. Nhân viên hành động → 「〜いたす」."
     },
     {
@@ -697,7 +697,7 @@
         "D": "弊社の田中社長が来週参りたいと申し上げています。"
       },
       "answer": "B",
-      "explanation_vn": "「弊社の田中が来週お伺いしたいと申しております」= ĐÚNG HOÀN TOÀN. ①「弊社の田中」= bỏ 社長/様, gọi bằng tên (Uchi nói với Soto). ②「お伺いしたい」= 伺う là khiêm ngữ của 訪ねる/行く (Tanaka đến thăm = hành động của Uchi). ③「申しております」= 言う (khiêm ngữ, おる = trạng thái hiện tại). (A) 「お伺いになる」= tôn kính → SAI cho Uchi. (C) 「田中社長様」+「いらっしゃいたい」= nhiều lỗi (様 thừa + tôn kính cho Uchi). (D) SAI chủ yếu vì 「弊社の田中社長」còn giữ chức danh 社長 khi nói về Uchi với Soto (phải bỏ → 「弊社の田中」); ngoài ra 申し上げる thiên về 'thưa trình với bề trên', ở câu báo cáo điện thoại thông thường thì 申しております tự nhiên hơn.",
+      "explanation_vn": "「弊社の田中が来週お伺いしたいと申しております」= ĐÚNG HOÀN TOÀN. ①「弊社の田中」= bỏ 社長/様, gọi bằng tên (Uchi nói với Soto). ②「お伺いしたい」= 伺う là khiêm ngữ của 訪ねる/行く (Tanaka đến thăm = hành động của Uchi). ③「申しております」= 言う (khiêm ngữ, おる = trạng thái hiện tại). (A) 「お伺いになる」= tôn kính → SAI cho Uchi. (C) 「田中社長様」+「いらっしゃいたい」= nhiều lỗi (様 thừa + tôn kính cho Uchi). (D) SAI chủ yếu vì còn giữ「社長」khi nói về Uchi với Soto — phải bỏ chức danh →「弊社の田中」. Về 申し上げる: về mặt kính ngữ chấp nhận được, nhưng 申す/申しております tự nhiên hơn trong ngữ cảnh thông báo điện thoại này; lỗi CHÍNH là giữ 社長.",
       "tip": "Câu chuẩn khi thông báo chuyến thăm của Uchi với Soto: 「弊社の[tên]が〜にお伺いしたいと申しております」— Tất cả đều khiêm ngữ."
     }
   ]

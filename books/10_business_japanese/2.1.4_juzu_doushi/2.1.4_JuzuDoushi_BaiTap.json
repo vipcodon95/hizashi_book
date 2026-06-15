@@ -231,7 +231,7 @@
         "D": "くださって"
       },
       "answer": "C",
-      "explanation_vn": "【いただく】= tôi nhận từ người bề trên (khiêm nhường ngữ của もらう). Giám đốc = bề trên → ご指導をいただく. もらう (A) đúng chiều nhưng thiếu kính trọng với giám đốc. くれる (B) sai cấu trúc (chủ thể câu phải là giám đốc). くださる (D) đúng nếu chủ thể là giám đốc: 「社長がご指導をくださって」.",
+      "explanation_vn": "【いただく】= tôi nhận từ người bề trên (khiêm nhường ngữ của もらう). Giám đốc = bề trên → ご指導をいただく. もらう (A) đúng chiều nhưng thiếu kính trọng với giám đốc. くれる (B) sai cấu trúc — くださって cần chủ ngữ「が」(社長が), nhưng câu có「に」(社長に) → distractor くださって không điền được về cấu trúc, không chỉ về góc nhìn. くださる (D) đúng nếu chủ thể là giám đốc: 「社長がご指導をくださって」.",
       "tip": "いただく: CHỦ THỂ = tôi (tôi nhận). くださる: CHỦ THỂ = cấp trên (họ cho). Cùng tình huống nhưng góc nhìn khác nhau."
     },
     {
@@ -418,7 +418,7 @@
         "D": "鈴木部長がA社の山田様にプレゼントをさしあげました。"
       },
       "answer": "C",
-      "explanation_vn": "Khi báo cáo nội bộ về tình huống 3 bên: A社山田様 (ngoài) → Suzuki (trong). (B) và (C) đều đúng về chiều, nhưng: (B) くださいました = nhấn mạnh ân huệ của Yamada-san — hơi kỳ khi báo cáo nội bộ về quà cho sếp. (C) 「〜をいただきました」nhìn từ góc trong công ty, tự nhiên hơn khi báo cáo. (A) あげる với khách = thô lỗ. (D) sai chiều.",
+      "explanation_vn": "Khi báo cáo nội bộ về tình huống 3 bên: A社山田様 (ngoài) → Suzuki (trong). (B) và (C) đều đúng về chiều, nhưng: (B) くださいました = nhấn mạnh ân huệ của Yamada-san — hơi kỳ khi báo cáo nội bộ về quà cho sếp. (C) 「〜をいただきました」nhìn từ góc trong công ty (uchi), tự nhiên hơn khi báo cáo nội bộ. Khi báo cáo nội bộ việc người trong công ty nhận vật từ đối tác, tiếng Nhật ưu tiên góc nhìn uchi (いただく), không tôn kính hành động của soto. (A) あげる với khách = thô lỗ. (D) sai chiều.",
       "tip": "Khi báo cáo nội bộ: 「〜様からいただきました」(chiều: ngoài→trong, nhìn từ trong) là tự nhiên nhất."
     },
     {
@@ -600,12 +600,12 @@
       "question_vn": "Trong 3 câu: ①Tôi dạy tiếng Anh cho em. ②Em được tôi dạy tiếng Anh. ③Em dạy tiếng Anh cho tôi. — Câu nào KHÁC nghĩa?",
       "choices": {
         "A": "①だけが異なる",
-        "B": "③だけが異なる",
+        "B": "①と③が同じ意味、②だけが異なる",
         "C": "①と②は同じ意味、③だけが異なる",
         "D": "3つとも異なる意味"
       },
-      "answer": "B",
-      "explanation_vn": "①「私が弟に英語を教えてあげた」= TÔI dạy em. ②「弟は私に英語を教えてもらった」= Em được TÔI dạy → cùng sự kiện, chỉ khác chủ thể câu. ③「弟が私に英語を教えてくれた」= EM dạy TÔI → nghĩa hoàn toàn khác (em là người dạy). Câu ③ là câu duy nhất khác nghĩa.",
+      "answer": "C",
+      "explanation_vn": "①「私が弟に英語を教えてあげた」= TÔI dạy em. ②「弟は私に英語を教えてもらった」= Em được TÔI dạy → cùng sự kiện, chỉ khác chủ thể câu → ①=②. ③「弟が私に英語を教えてくれた」= EM dạy TÔI → nghĩa hoàn toàn khác (em là người dạy, tôi là người học). Vậy ①と②は同じ意味、③だけが異なる → đáp án C. Lưu ý: B sai vì ①てあげる và ③てくれる không cùng nghĩa — ① tôi dạy em, ③ em dạy tôi.",
       "tip": "①てあげる (tôi làm) = ②てもらう (tôi được nhận, cùng sự kiện nhìn từ góc khác) ≠ ③てくれる (người khác làm cho tôi)."
     },
     {
@@ -639,7 +639,7 @@
         "D": "（ア）（イ）（ウ）すべて正しい"
       },
       "answer": "C",
-      "explanation_vn": "（ア）「山田はただいま外出しております」= ĐÚNG — bỏ kính ngữ với 山田 (uchi), dùng おります (khiêm). （イ）「ご伝言をいただけますでしょうか」= ĐÚNG — nhờ khách để lại tin nhắn (tôi nhận = いただく). （ウ）「田中様からお電話くださったとお伝えいたします」= LỖI về văn phong báo cáo. Bản thân くださった đúng chiều (khách = bề trên cho tôi), nhưng khi BÁO LẠI NỘI BỘ về cuộc gọi, chuẩn business dùng dạng trung lập 「田中様よりお電話がございました」/「お電話をいただきました」, không dùng くださった vốn mang sắc thái cảm xúc/biết ơn không cần thiết trong câu báo cáo trung lập.",
+      "explanation_vn": "（ア）「山田はただいま外出しております」= ĐÚNG — bỏ kính ngữ với 山田 (uchi), dùng おります (khiêm). （イ）「ご伝言をいただけますでしょうか」= ĐÚNG — nhờ khách để lại tin nhắn (tôi nhận = いただく). （ウ）「田中様からお電話くださったとお伝えいたします」= LỖI về văn phong báo cáo. くださった không sai về chiều hướng (khách = bề trên cho tôi), nhưng trong câu báo lại chuẩn business, dùng「お電話がございました」tự nhiên/trung lập hơn vì không mang sắc thái cảm xúc/biết ơn không cần thiết trong câu báo cáo thuần túy. Đúng: 「田中様よりお電話がございました」hoặc「お電話をいただきました」.",
       "tip": "Khi báo lại nội bộ về cuộc gọi của khách: 「〜様よりお電話がございました」hoặc 「〜様からお電話をいただきました」."
     },
     {
@@ -685,12 +685,12 @@
       "question_vn": "Tình huống: Được trưởng phòng Tanaka nhờ, bạn gọi điện cho đối tác (ông Suzuki, B công ty) để yêu cầu dời lịch họp. Cách diễn đạt phù hợp nhất là gì?",
       "choices": {
         "A": "田中から頼まれたんですが、会議の日程を変えてもらえますか。",
-        "B": "田中部長からご依頼いただきまして、誠に勝手ながら、ご都合のよろしいようでしたら会議の日程をご変更いただけますでしょうか。",
+        "B": "田中より申し付かりまして、誠に勝手ながら、ご都合のよろしいようでしたら会議の日程をご変更いただけますでしょうか。",
         "C": "田中部長に頼まれましたので、会議の日程を変えてください。",
         "D": "田中部長が変更してあげると言っています。ご都合はいかがですか。"
       },
       "answer": "B",
-      "explanation_vn": "（B）phân tích đầy đủ: ①「田中部長からご依頼いただきまして」= được trưởng phòng (uchi, bề trên) nhờ → いただく ✓ (nhưng lưu ý: với người ngoài, có thể nói 「田中の指示で」để không dùng kính ngữ cho nội bộ). ②「誠に勝手ながら」= xin lỗi vì tự tiện. ③「ご変更いただけますでしょうか」= nhờ bạn thay đổi (lịch sự cao nhất). (A) quá thân mật. (C) てください với đối tác = thiếu lịch sự. (D) してあげる = thô lỗ nghiêm trọng.",
+      "explanation_vn": "（B）phân tích đầy đủ: ①「田中より申し付かりまして」= được chỉ thị từ Tanaka (uchi) — bỏ「部長」và tránh kính ngữ cho người trong công ty khi nói với bên ngoài (quy tắc uchi/soto). Dùng「申し付かる」(khiêm ngữ của 言いつかる = được giao nhiệm vụ) để hạ thấp hành động nội bộ ✓. ②「誠に勝手ながら」= xin lỗi vì tự tiện. ③「ご変更いただけますでしょうか」= nhờ bạn thay đổi (lịch sự cao nhất) ✓. (A) quá thân mật. (C) てください với đối tác = thiếu lịch sự. (D) してあげる = thô lỗ nghiêm trọng. Lưu ý: tránh「田中部長からご依頼いただきまして」vì dùng kính ngữ「部長」và「いただく」cho người trong công ty trước mặt người ngoài = vi phạm uchi/soto.",
       "tip": "Công thức gọi điện nhờ đối tác thay đổi: 「誠に勝手ながら、〜をご〜いただけますでしょうか」= xin lỗi vì phiền + nhờ lịch sự nhất."
     }
   ]

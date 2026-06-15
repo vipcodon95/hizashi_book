@@ -576,7 +576,7 @@
         "A": "ア:させて／イ:いただけます／ウ:連絡する／エ:ご伝言",
         "B": "ア:して／イ:もらえます／ウ:連絡させる／エ:ご連絡",
         "C": "ア:して／イ:いただけます／ウ:ご連絡する／エ:ご伝言",
-        "D": "ア:させて／イ:もらえます"
+        "D": "ア:させて／イ:もらえます／ウ:連絡する／エ:ご連絡"
       },
       "answer": "C",
       "explanation_vn": "Phân tích: 「（ア）ご連絡（イ）いただけますでしょうか」= Khách hỏi liệu Tanaka có thể liên lạc lại → して + いただけます = nhờ Tanaka liên lạc cho khách (khách nhận được). 「田中に（ウ）ご連絡するようお伝えし」= nhắn Tanaka liên lạc. 「（エ）ご伝言いたします」= Tôi sẽ nhắn lại (khiêm ngữ). させていただく ở đây không phù hợp vì đang nói về hành động của TANAKA với KHÁCH (không phải hành động của lễ tân).",
@@ -587,8 +587,8 @@
       "level": 4,
       "category": "授受vs使役 上級",
       "category_vn": "Nâng cao — Bẫy: させてもらう vs もらう trong cùng câu",
-      "question_ja": "次の文で、下線部の使い方が正しいものはどれですか？",
-      "question_vn": "Câu nào có chỗ gạch chân dùng ĐÚNG?",
+      "question_ja": "次の文で、下線部の使い方が最も丁寧なものはどれですか？",
+      "question_vn": "Câu nào có chỗ gạch chân dùng LỊCH SỰ NHẤT?",
       "choices": {
         "A": "会議の資料を確認させていただいたので、コピーをもらえますか。",
         "B": "コピーをもらって、会議の資料を確認させていただきました。",
@@ -647,7 +647,7 @@
         "D": "部長にプレゼンが良かったと言わせました。"
       },
       "answer": "C",
-      "explanation_vn": "「部長からプレゼンが良かったとのお言葉をいただきました」= CHUẨN NHẤT. Phân tích: ①「部長から」= từ trưởng phòng (nguồn). ②「お言葉をいただく」= NHẬN ĐƯỢC lời khen (お言葉 = lời nói, lịch sự) — coi lời khen là ÂN HUỆ. (A) 「言われました」= bị động thông thường — trung tính, không thể hiện biết ơn. (B) 「おっしゃっていただく」= tôn kính (おっしゃる) + いただく → chồng kính ngữ — OK nhưng hơi rườm rà. (D) 「言わせました」= tôi bắt sếp khen — phi lý.",
+      "explanation_vn": "「部長からプレゼンが良かったとのお言葉をいただきました」= CHUẨN NHẤT. Phân tích: ①「部長から」= từ trưởng phòng (nguồn). ②「お言葉をいただく」= NHẬN ĐƯỢC lời khen (お言葉 = lời nói, lịch sự) — coi lời khen là ÂN HUỆ. (A) 「言われました」= bị động thông thường — trung tính, không thể hiện biết ơn. (B) 「おっしゃっていただきました」= おっしゃる (Sonkeigo) + いただく (Kenjougo) → đây có mùi 二重敬語 (おっしゃる Sonkeigo + いただく Kenjougo chồng lên nhau cho cùng một hành động) — nên tránh. (D) 「言わせました」= tôi bắt sếp khen — phi lý.",
       "tip": "Nhận lời khen từ SẾP: 「お言葉をいただく」(coi lời khen là ân huệ, lịch sự nhất) > 「〜とおっしゃっていただいた」(OK) > 「〜と言われた」(trung tính)."
     },
     {
@@ -682,7 +682,7 @@
       },
       "answer": "A",
       "explanation_vn": "（ア）「君が担当してくれるか」= Sếp giao/nhờ việc cho cấp dưới (してくれる — đối phương làm vì mình). KHÔNG dùng「させてもらえるか」vì đó là form người NÓI xin phép cấp trên, không hợp khi sếp chủ động giao việc cho cấp dưới. （イ）「精一杯やらせていただきます」= Tôi xin được làm hết sức (させていただく — nhân viên xin phép, lịch sự với sếp). （ウ）「ご指導していただきたい」= Mong được sếp hướng dẫn (していただく — nhờ sếp làm, biết ơn). (D) sai ở ア (させてもらえる không hợp miệng sếp). (B) させられます ở イ = bị ép làm — phi lý. (C) してもらいます ở イ = sai chủ thể (ai làm cho tôi?).",
-      "tip": "Hội thoại sếp-nhân viên: Sếp cho phép → させてもらえるか. Nhân viên nhận → させていただきます. Nhân viên nhờ sếp → していただきたい/いただけますか."
+      "tip": "Hội thoại sếp-nhân viên: Sếp giao việc cho cấp dưới → してくれるか / してもらえるか (đối phương làm). Cấp dưới xin phép sếp để tự làm → させてもらえますか / させていただきます (mình làm). Nhân viên nhờ sếp hướng dẫn → していただきたい / いただけますか."
     },
     {
       "id": 40,
