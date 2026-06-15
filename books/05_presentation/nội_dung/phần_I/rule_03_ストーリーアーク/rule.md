@@ -55,7 +55,7 @@ Slide đã có 1-slide-1-message nhưng thứ tự lộn xộn: bắt đầu b�
 ## Tránh
 
 - Mở đầu bằng "弊社の強み" — khoe bên bán trước = mất sự chú ý của khán giả
-- Bỏ qua C (Complication) — không có "vấn đề" thì không có lý do nghe tiếp
+- Bỏ qua C (Vấn đề) — không có "vấn đề" thì không có lý do nghe tiếp
 - Q (Question) để ngầm — phải nêu rõ "本日決めたいのは」
 - A quá ngắn (1-2 slide) — đáp án phải đủ chi tiết để khách ra quyết định
 

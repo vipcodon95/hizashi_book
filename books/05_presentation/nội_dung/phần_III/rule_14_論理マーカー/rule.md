@@ -1,6 +1,6 @@
 # Rule 14 — Dấu hiệu luồng logic / 論理マーカー (まず／次に／最後に)
 
-> **Luận điểm.** Phần thân bài thuyết trình phải có **cột mốc bằng chữ** dắt người nghe. **「まず」「次に」「最後に」** là tối thiểu. Người nghe Nhật thường vừa nghe vừa làm việc khác (laptop, ghi chú) — các dấu hiệu luồng giúp họ bắt lại mạch trong 1 giây.
+> **Luận điểm.** Phần thân bài thuyết trình phải có **cột mốc bằng chữ** dắt người nghe. **「まず」「次に」「最後に」** là tối thiểu. Người nghe Nhật thường vừa nghe vừa làm việc khác (máy tính, ghi chú) — các dấu hiệu luồng giúp họ bắt lại mạch trong 1 giây.
 >
 > 本論には『まず／次に／最後に』のランドマーク必須。聴衆は常時 multitask しており、マーカーで1秒で flow に戻れる。
 >
@@ -16,7 +16,7 @@ Phần thân bài của Dũng — 3 luận cứ cho Phase 3. Lần đầu tập 
 
 ## Hội thoại XẤU — không dấu hiệu luồng
 
-*rehearsal*
+*tập dượt*
 
 | Vai | Câu |
 |---------|-----|

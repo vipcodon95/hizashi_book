@@ -1,6 +1,6 @@
 # Rule 22 — Đi quanh văn phòng / nhà máy / 工場・社内案内
 
-> **Luận điểm.** Khi được dẫn tham quan văn phòng / nhà máy: **đi sau guide 1-2 bước**, **không tự mở cửa**, **không chụp ảnh chưa được phép**, **không sờ thiết bị / monitor**, **không vào phòng kế bên dù cửa mở**. Hỏi trước khi chụp ("**お写真撮ってもよろしいでしょうか**"). Chuyến tham quan thường có **NDA ngầm định** — ngay cả không ký giấy. Vi phạm = mất hợp đồng + uy tín.
+> **Luận điểm.** Khi được dẫn tham quan văn phòng / nhà máy: **đi sau người dẫn 1-2 bước**, **không tự mở cửa**, **không chụp ảnh chưa được phép**, **không sờ thiết bị / màn hình**, **không vào phòng kế bên dù cửa mở**. Hỏi trước khi chụp ("**お写真撮ってもよろしいでしょうか**"). Chuyến tham quan thường có **NDA ngầm định** — ngay cả không ký giấy. Vi phạm = mất hợp đồng + uy tín.
 >
 > 社内案内は『ガイド後ろ1-2歩・勝手にドア開閉禁止・無断撮影禁止・機器/モニター非接触・隣室立入禁止』。撮影は事前許可必須。
 >
@@ -16,7 +16,7 @@
 
 ## Hội thoại XẤU — chụp lén + tự mở cửa
 
-*dẫn vào phòng dev · rút phone, chụp luôn không hỏi · thoáng cứng người · thấy cửa phòng kế bên đang mở, đi vào · vội theo · đã thấy whiteboard có thông tin khách hàng khác*
+*dẫn vào phòng dev · rút điện thoại, chụp luôn không hỏi · thoáng cứng người · thấy cửa phòng kế bên đang mở, đi vào · vội theo · đã thấy bảng trắng có thông tin khách hàng khác*
 
 | Vai | Câu |
 |---------|-----|
@@ -31,9 +31,9 @@
 
 ---
 
-## Hội thoại TỐT — theo guide + xin phép
+## Hội thoại TỐT — theo người dẫn + xin phép
 
-*dẫn ra hành lang · đi sau Tanaka 1-2 bước, mắt quan sát nhưng KHÔNG sờ gì · mở cửa dev room · trước khi rút phone · chụp ảnh group, không zoom mặt · đi qua phòng cửa mở · theo Tanaka, KHÔNG nhìn vào, KHÔNG bước gần · đến cửa sổ · quan sát cảnh, KHÔNG chụp khi chưa hỏi*
+*dẫn ra hành lang · đi sau Tanaka 1-2 bước, mắt quan sát nhưng KHÔNG sờ gì · mở cửa dev room · trước khi rút điện thoại · chụp ảnh group, không zoom mặt · đi qua phòng cửa mở · theo Tanaka, KHÔNG nhìn vào, KHÔNG bước gần · đến cửa sổ · quan sát cảnh, KHÔNG chụp khi chưa hỏi*
 
 | Vai | Câu |
 |---------|-----|
@@ -50,7 +50,7 @@
 | **田中PMO** | 「景色だけでしたら問題ございません。」 <br/>*Cảnh thôi thì không sao ạ.* |
 
  **Ghi chú:**
-- 【1】**Đi sau 1-2 bước** — KHÔNG đi ngang Tanaka. KHÔNG đi trước. Mắt quan sát nhưng tay không sờ thiết bị / monitor / whiteboard.
+- 【1】**Đi sau 1-2 bước** — KHÔNG đi ngang Tanaka. KHÔNG đi trước. Mắt quan sát nhưng tay không sờ thiết bị / màn hình / bảng trắng.
 - 【2】**「お写真を撮ってもよろしいでしょうか」** — câu cố định xin phép chụp. Nói rõ mục đích ("team合影"). Chờ bên tiếp đón đồng ý rõ ràng.
 - 【3】**Phòng cửa mở** — KHÔNG nhìn vào dù tò mò. Đi qua nhanh. Tanaka có thể nói "通りすぎいたしましょう" (chúng ta đi qua thôi) = ngầm ý không vào.
 - 【4】**Cảnh ngoài cửa sổ** — vẫn xin phép vì có thể chụp được tòa nhà khác (công ty đối thủ) → "建物の確認を含む可能性があれば撮影しません" = tự ý thức chủ động.
@@ -61,18 +61,18 @@
 
 > **「社内案内は『ガイド後ろ1-2歩・無断撮影禁止・勝手にドア禁止・隣室立入禁止・写真は事前許可"よろしいでしょうか"』。」**
 >
-> *Tham quan văn phòng = đi sau guide / cấm chụp lén / không tự mở cửa / không vào phòng kế / xin phép chụp với "よろしいでしょうか".*
+> *Tham quan văn phòng = đi sau người dẫn / cấm chụp lén / không tự mở cửa / không vào phòng kế / xin phép chụp với "よろしいでしょうか".*
 
 ---
 
 ## Tránh
 
 - **Chụp lén** dù chỉ "team selfie" → luôn xin phép trước
-- Tự **mở cửa** phòng kế → đợi guide chỉ
+- Tự **mở cửa** phòng kế → đợi người dẫn chỉ
 - Vào **phòng cửa mở** vì tò mò → đi qua, KHÔNG nhìn vào
-- **Sờ monitor / whiteboard / thiết bị** → mắt nhìn, tay đặt sau lưng
-- Đi **trước hoặc ngang** guide → 1-2 bước phía sau
-- Hỏi "**この案件のクライアントは誰？**" về thông tin trên whiteboard → KHÔNG bao giờ
+- **Sờ màn hình / bảng trắng / thiết bị** → mắt nhìn, tay đặt sau lưng
+- Đi **trước hoặc ngang** người dẫn → 1-2 bước phía sau
+- Hỏi "**この案件のクライアントは誰？**" về thông tin trên bảng trắng → KHÔNG bao giờ
 - **Quên cảm ơn** sau tham quan → "貴重なご案内ありがとうございました" cuối buổi tham quan
 
 ---

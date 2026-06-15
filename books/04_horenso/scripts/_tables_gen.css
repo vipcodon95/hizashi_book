@@ -1,12 +1,6 @@
 /* ===== CSS tỉ lệ cột bảng — TỰ SINH bởi analyze_tables.py ===== */
 /* KHÔNG sửa tay file này; chỉnh số đo qua nội dung .md rồi build lại. */
 
-/* Bước | Vai / Tình huống | Câu  (1 bảng, 13 / 40 / 47) */
-table.t-b-c-f63adc { table-layout: fixed; }
-table.t-b-c-f63adc td:nth-child(1), table.t-b-c-f63adc th:nth-child(1) { width: 13% !important; }
-table.t-b-c-f63adc td:nth-child(2), table.t-b-c-f63adc th:nth-child(2) { width: 40% !important; }
-table.t-b-c-f63adc td:nth-child(3), table.t-b-c-f63adc th:nth-child(3) { width: 47% !important; }
-
 /* Công cụ | Độ khẩn | Người nhận | Mức lưu trữ | Đúng cho  (1 bảng, 17 / 13 / 14 / 26 / 30) */
 table.t-c-ng-c-92d319 { table-layout: fixed; }
 table.t-c-ng-c-92d319 td:nth-child(1), table.t-c-ng-c-92d319 th:nth-child(1) { width: 17% !important; }
@@ -109,6 +103,11 @@ table.t-t-nh-hu-ng-3dda01 { table-layout: fixed; }
 table.t-t-nh-hu-ng-3dda01 td:nth-child(1), table.t-t-nh-hu-ng-3dda01 th:nth-child(1) { width: 37% !important; }
 table.t-t-nh-hu-ng-3dda01 td:nth-child(2), table.t-t-nh-hu-ng-3dda01 th:nth-child(2) { width: 32% !important; }
 table.t-t-nh-hu-ng-3dda01 td:nth-child(3), table.t-t-nh-hu-ng-3dda01 th:nth-child(3) { width: 31% !important; }
+
+/* Vai / Tình huống | Câu  (1 bảng, 51 / 49) */
+table.t-vai-t-nh-hu--09fe09 { table-layout: fixed; }
+table.t-vai-t-nh-hu--09fe09 td:nth-child(1), table.t-vai-t-nh-hu--09fe09 th:nth-child(1) { width: 51% !important; }
+table.t-vai-t-nh-hu--09fe09 td:nth-child(2), table.t-vai-t-nh-hu--09fe09 th:nth-child(2) { width: 49% !important; }
 
 /* Yếu tố | Nội bộ (rule 24) | Với khách (rule 29)  (1 bảng, 16 / 33 / 51) */
 table.t-y-u-t-a0a338 { table-layout: fixed; }

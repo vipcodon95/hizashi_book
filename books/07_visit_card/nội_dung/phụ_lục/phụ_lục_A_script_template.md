@@ -15,7 +15,7 @@
 
 >  「明日の名刺準備の4条件チェック完了しました。」
 >
->  *Em đã check xong 4 điều kiện chuẩn bị danh thiếp ạ.*
+>  *Em đã kiểm tra xong 4 điều kiện chuẩn bị danh thiếp ạ.*
 >
 >  _名刺準備完了報告_
 
@@ -23,7 +23,7 @@
 
 >  「名刺は『専用ケース・両面・数×2倍・誤字ゼロ』の4条件揃えて初めて出せる。」
 >
->  *Danh thiếp đủ 4 điều kiện (hộp/2 mặt/số lượng x2/0 typo) mới gọi là sẵn sàng.*
+>  *Danh thiếp đủ 4 điều kiện (hộp/2 mặt/số lượng x2/0 lỗi chính tả) mới gọi là sẵn sàng.*
 >
 >  _名刺準備の4原則_
 
@@ -83,7 +83,7 @@
 
 >  「順番は junior から先、相手は最上位から交換します。」
 >
->  *Thứ tự: junior trước, bên khách thì người cấp cao nhất trao danh thiếp trước.*
+>  *Thứ tự: nhân viên mới trước, bên khách thì người cấp cao nhất trao danh thiếp trước.*
 >
 >  _順序ブリーフィング_
 
@@ -105,7 +105,7 @@
 
 >  「24時間以内に CRM 入力・文脈メモ・スキャン・フォロー送信を完了させます。」
 >
->  *Trong 24h em sẽ xong nhập CRM + ghi chú ngữ cảnh + scan + gửi thư tiếp theo ạ.*
+>  *Trong 24h em sẽ xong nhập CRM + ghi chú ngữ cảnh + quét + gửi thư tiếp theo ạ.*
 >
 >  _名刺管理4ステップ宣言_
 
@@ -225,7 +225,7 @@
 
 >  「3要素チェック済: quote、action item、personal note。」
 >
->  *Đã check 3 yếu tố: câu trích dẫn, việc tiếp theo, ghi chú cá nhân.*
+>  *Đã xác nhận 3 yếu tố: câu trích dẫn, việc tiếp theo, ghi chú cá nhân.*
 >
 >  _アフターケア3要素確認_
 
@@ -260,7 +260,7 @@
 
 ## Phần III — Gọi điện thoại đi
 
-### Rule 16 — Chuẩn bị trước khi đi onsite / 訪問前の準備
+### Rule 16 — Chuẩn bị trước khi đến thực địa / 訪問前の準備
 
 **トゥアンリーダー (anh Tuấn):**
 
@@ -282,7 +282,7 @@
 >  _5-10分前到着逆算プラン_
 
 
-### Rule 18 — Check-in tại lễ tân / 受付対応
+### Rule 18 — Đăng ký tại lễ tân / 受付対応
 
 **ズン (em Dũng):**
 
@@ -299,7 +299,7 @@
 
 >  「コートは入室前に脱ぎ、2折で左腕に畳む。」
 >
->  *Coat cởi trước khi vào, gấp 2 lần đặt cẳng tay trái.*
+>  *Áo khoác cởi trước khi vào, gấp 2 lần đặt cẳng tay trái.*
 >
 >  _コート脱ぎ手順_
 
@@ -375,7 +375,7 @@
 
 ## Phần IV — Tình huống khó
 
-### Rule 24 — Mời khách dinner formal / 接待ディナーへの招待
+### Rule 24 — Mời khách bữa tối trang trọng / 接待ディナーへの招待
 
 **ズン (em Dũng):**
 
@@ -402,7 +402,7 @@
 >
 >  *Em xin rót ạ.*
 >
->  _host pour 固定句_
+>  _host rót 固定句_
 
 **ハー (anh Hà):**
 
@@ -410,7 +410,7 @@
 >
 >  *Hóa đơn bên em đã lo rồi ạ.*
 >
->  _host pay 完了報告_
+>  _host trả tiền 完了報告_
 
 
 ### Rule 26 — Cụng ly 乾杯 chuẩn / 乾杯のマナー
@@ -429,7 +429,7 @@
 >
 >  *(hạ ly thấp hơn ly cấp trên)*
 >
->  _乾杯時 glass 高さ ルール_
+>  _乾杯時 ly 高さ ルール_
 
 
 ### Rule 27 — Cuộc trò chuyện không công việc / 雑談トピック
@@ -446,7 +446,7 @@
 
 >  「次回ベトナムにお越しの際は、〇〇がおすすめです。」
 >
->  *Lần sau anh sang Việt Nam, em recommend OO.*
+>  *Lần sau anh sang Việt Nam, em đề xuất OO.*
 >
 >  _観光話で次回訪問誘導_
 
@@ -489,7 +489,7 @@
 >  _share signal で送り手の意図尊重_
 
 
-### Rule 30 — After-dinner thank-you mail / 食事後のお礼メール
+### Rule 30 — Thư cảm ơn sau bữa tối / 食事後のお礼メール
 
 **ズン (em Dũng):**
 
@@ -509,7 +509,7 @@
 
 
 
-## Phần V — Voicemail, Trực tuyến & Best Practice
+## Phần V — Hộp thư thoại, Trực tuyến & Thực hành tốt nhất
 
 ### Rule 31 — Khách Nhật đoàn lớn 5+ người / 5名以上の対応
 
@@ -519,15 +519,15 @@
 >
 >  *Xin quý vị xem sơ đồ ngồi và vào chỗ ạ.*
 >
->  _5+人 seat 案内 固定句_
+>  _5+人 chỗ ngồi 案内 固定句_
 
 **ズン (em Dũng):**
 
 >  「本日のflow をお手元の表でご確認いただけます。」
 >
->  *Flow hôm nay quý vị có thể xem trên bảng trước mặt ạ.*
+>  *Lịch trình hôm nay quý vị có thể xem trên bảng trước mặt ạ.*
 >
->  _flow共有 固定句_
+>  _lịch trình共有 固定句_
 
 
 ### Rule 32 — Góc độ cúi chào theo cấp bậc / お辞儀の角度
@@ -549,7 +549,7 @@
 >  _角度の意味_
 
 
-### Rule 33 — Tránh culture clash VN-JP / 文化衝突の回避
+### Rule 33 — Tránh khác biệt VN-JP / 文化衝突の回避
 
 **ズン (em Dũng):**
 
@@ -568,7 +568,7 @@
 >  _即返し回避 + 将来 return 約束_
 
 
-### Rule 34 — Onsite Nhật lần đầu — bộ đồ thiết yếu / 初訪問 Survival Kit
+### Rule 34 — Công tác Nhật lần đầu — bộ đồ thiết yếu / 初訪問 Survival Kit
 
 **トゥアンリーダー (anh Tuấn):**
 
@@ -593,7 +593,7 @@
 
 >  「Notion + CRM 両方更新で次回担当者が同じ過ちをしないように。」
 >
->  *Update cả Notion + CRM để lần sau ai phụ trách không lặp lỗi.*
+>  *Cập nhật cả Notion + CRM để lần sau ai phụ trách không lặp lỗi.*
 >
 >  _team learning 記録_
 

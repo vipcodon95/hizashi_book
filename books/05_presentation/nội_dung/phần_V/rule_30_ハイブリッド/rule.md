@@ -1,6 +1,6 @@
 # Rule 30 — Thuyết trình kết hợp / ハイブリッドプレゼン
 
-> **Luận điểm.** Kết hợp (1 nửa trực tiếp, 1 nửa trực tuyến) là **định dạng khó nhất**. Lỗi cố hữu: người thuyết trình chỉ giao tiếp với người ngồi trong phòng → đối tượng trực tuyến thành "second-class". Quy tắc 50/50: ① **Chào trực tuyến trước trực tiếp** ② **Chia giao tiếp bằng mắt** (đếm 30s trực tiếp, 30s nhìn camera) ③ **Lặp lại câu hỏi từ phòng** trước khi trả lời (trực tuyến không nghe rõ) ④ **Camera ở cạnh slide** không để sau lưng người thuyết trình.
+> **Luận điểm.** Kết hợp (1 nửa trực tiếp, 1 nửa trực tuyến) là **định dạng khó nhất**. Lỗi cố hữu: người thuyết trình chỉ giao tiếp với người ngồi trong phòng → đối tượng trực tuyến thành "hạng hai". Quy tắc 50/50: ① **Chào trực tuyến trước trực tiếp** ② **Chia giao tiếp bằng mắt** (đếm 30s trực tiếp, 30s nhìn camera) ③ **Lặp lại câu hỏi từ phòng** trước khi trả lời (trực tuyến không nghe rõ) ④ **Camera ở cạnh slide** không để sau lưng người thuyết trình.
 >
 > Hybrid は最難関。50/50 ルール: 挨拶は online 先、目線は 30s/30s 分配、室内質問は復唱、camera は slide 横。
 >
@@ -46,7 +46,7 @@ Bài thuyết trình Phase 3 chính thức. 大垣 + 田中 ở phòng họp 白
 
  **Ghi chú:**
 - 【1】**Chào trực tuyến TRƯỚC** — đảo thứ tự thông thường để trực tuyến cảm thấy được ưu tiên, không phải nghĩ đến sau cùng.
-- 【2】**Chia giao tiếp bằng mắt 30s** — đếm thầm. 30s nhìn trực tiếp → 30s nhìn camera (không nhìn màn hình monitor có người tham dự). Tránh "3 phút quay lưng với trực tuyến".
+- 【2】**Chia giao tiếp bằng mắt 30s** — đếm thầm. 30s nhìn trực tiếp → 30s nhìn camera (không nhìn màn hình có người tham dự). Tránh "3 phút quay lưng với trực tuyến".
 - 【3】**「〇〇様より〜のご質問でございます」** — lặp lại câu hỏi từ phòng trước khi trả lời. Người tham dự trực tuyến nghe được + có thời gian tiếp nhận.
 
 ---

@@ -1,6 +1,6 @@
 # Rule 40 — Đàm phán đa bên / 多者間交渉
 
-> **Luận điểm.** Khi 中村 CFO + 大垣 + 松本 PM **cùng tham gia** 1 phiên = 3 bên liên quan, 3 ưu tiên khác nhau. **CFO** = giá / ROI, **営業部長** = tổng giá trị thương vụ / quan hệ, **PM** = phạm vi / tiến độ. Trả lời chỉ 1 người = 2 người mất kết nối. Công thức: **(1) Nhận diện từng mối quan tâm**, **(2) Trả lời song song** (1 câu cho mỗi vai), **(3) Trả lời người cấp cao cuối cùng** (CFO).
+> **Luận điểm.** Khi 中村 CFO + 大垣 + 松本 PM **cùng tham gia** 1 phiên = 3 bên liên quan, 3 ưu tiên khác nhau. **CFO** = giá / ROI, **営業部長** = tổng giá trị thương vụ / quan hệ, **PM** = phạm vi / tiến độ. Trả lời chỉ 1 người = 2 người mất kết nối. Công thức: **(1) Nhận diện từng mối quan tâm**, **(2) Trả lời song song** (1 câu cho mỗi người), **(3) Trả lời người cấp cao cuối cùng** (CFO).
 >
 > 多者間交渉では役割別 concern (CFO=ROI、営業=total deal、PM=scope) を識別し、各人に並列 address。最後に senior (CFO) に回す。
 >
@@ -27,7 +27,7 @@ Phase 3 vòng cuối, buổi duyệt cấp lãnh đạo: 中村 CFO + 大垣 + �
 | (大垣 + 松本 unaddressed) **大垣** | …(<ruby>沈黙<rt>ちんもく</rt></ruby>) <br/>*…(im lặng)* |
 | **松本** | 「あの、SLA は…」 <br/>*Ờ thì... SLA là...* |
 
-**Vì sao xấu:** Dũng chọn CFO (chức vụ cao nhất) nhưng bỏ qua 大垣 + 松本. 大垣 cảm thấy bị gạt ra rìa → sứt mẻ quan hệ. 松本 phải hỏi lại = gây ấn tượng thiếu chuyên nghiệp. Nguyên tắc đa bên: trả lời TẤT CẢ trong 1 lượt nói, KHÔNG trả lời lần lượt từng người.
+**Vì sao xấu:** Dũng chọn CFO (chức vụ cao nhất) nhưng bỏ qua 大垣 + 松本. 大垣 cảm thấy bị gạt ra rìa → sứt mẻ quan hệ. 松本 phải hỏi lại = gây ấn tượng thiếu chuyên nghiệp. Nguyên tắc đa bên: trả lời TẤT CẢ trong 1 lượt nói, KHÔNG bỏ sót ai.
 
 ---
 
@@ -48,7 +48,7 @@ Phase 3 vòng cuối, buổi duyệt cấp lãnh đạo: 中村 CFO + 大垣 + �
 
  **Ghi chú:**
 - 【1】**「3 点まとめてお答えいたします」** = tín hiệu báo sẽ trả lời tất cả. Xua đi nỗi lo của người sợ bị bỏ qua.
-- 【2】**Thứ tự: junior → senior** (松本 → 大垣 → 中村 CFO). Người cấp cao trả lời cuối = đứng trên đỉnh kim tự tháp giá trị (chi tiết kỹ thuật của 松本 → tổng thương vụ của 大垣 → ROI của CFO). Mỗi cấp đều có câu trả lời riêng.
+- 【2】**Thứ tự: cấp dưới → cấp cao** (松本 → 大垣 → 中村 CFO). Người cấp cao trả lời cuối = đứng trên đỉnh kim tự tháp giá trị (chi tiết kỹ thuật của 松本 → tổng thương vụ của 大垣 → ROI của CFO). Mỗi cấp đều có câu trả lời riêng.
 - 【3】**Câu của CFO trả lời cuối cùng + chi tiết nhất**. CFO sẽ cảm thấy "câu hỏi của mình quan trọng nhất nên được trả lời sau cùng".
 - **Đảo mắt nhìn từng người + cúi nhẹ** = tín hiệu phi ngôn ngữ cho thấy đang trả lời từng người. Cố định ánh mắt vào 1 người thì 2 người còn lại mất kết nối.
 
@@ -58,17 +58,17 @@ Phase 3 vòng cuối, buổi duyệt cấp lãnh đạo: 中村 CFO + 大垣 + �
 
 > **「多者間 = 並列 address。junior → senior 順、CFO 最後 + detail 最大。1 人 ignored は 2 人を失う。」**
 >
-> *Đa bên = trả lời song song. Junior → senior, CFO cuối cùng + chi tiết nhiều nhất. Bỏ qua 1 = mất 2.*
+> *Đa bên = trả lời song song. Cấp dưới → cấp cao, CFO cuối cùng + chi tiết nhiều nhất. Bỏ qua 1 = mất 2.*
 
 ---
 
 ## Tránh
 
-- Chỉ trả lời 1 người (chức vụ cao nhất) → 2 người mất kết nối = nguồn phản đối khi xét 稟議
-- Trả lời người cấp cao trước (CFO 最初) → câu hỏi của junior bị làm loãng đi
+- Chỉ trả lời 1 người (chức vụ cao nhất) → 2 người còn lại mất kết nối = nguồn phản đối khi xét 稟議
+- Trả lời người cấp cao trước (CFO 最初) → câu hỏi của cấp dưới bị làm loãng đi
 - Gạt qua bằng "あとで個別に" (để sau sẽ trao đổi riêng) → mất đà tin cậy gây dựng được ngay hôm đó
 - Trả lời mọi người cùng một độ sâu → câu của CFO cần chi tiết nhiều hơn
-- Cố định ánh mắt → tín hiệu phi ngôn ngữ cho thấy có người bị bỏ qua
+- Cố định ánh mắt vào 1 người → tín hiệu phi ngôn ngữ bỏ qua những người còn lại
 
 ---
 

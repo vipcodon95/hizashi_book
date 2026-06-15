@@ -1,32 +1,32 @@
 # Rule 29 — Thuyết trình trực tuyến / オンラインプレゼン
 
-> **Luận điểm.** Thuyết trình trực tuyến không phải "trực tiếp + camera". 5 yếu tố vật lý: ① **Camera ngang mắt** (nhìn ống kính, không nhìn màn hình) ② **Ánh sáng** trước mặt (cửa sổ / ring light) ③ **Cách phát âm** = nói lớn hơn 20% so với trực tiếp ④ **Mic gắn ve áo** không mic laptop ⑤ **Phông nền** sạch (virtual hoặc tường trắng). Mỗi yếu tố sai = trừ điểm chuyên nghiệp.
+> **Luận điểm.** Thuyết trình trực tuyến không phải "trực tiếp + camera". 5 yếu tố vật lý: ① **Camera ngang mắt** (nhìn ống kính, không nhìn màn hình) ② **Ánh sáng** trước mặt (cửa sổ / đèn vòng) ③ **Cách phát âm** = nói lớn hơn 20% so với trực tiếp ④ **Mic gắn ve áo** không mic máy tính xách tay ⑤ **Phông nền** sạch (ảo hoặc tường trắng). Mỗi yếu tố sai = trừ điểm chuyên nghiệp.
 >
 > オンラインは「対面+カメラ」ではない。Camera 目線、前方照明、声 +20%、ピンマイク、背景クリーン — 5要素必須。
 >
-> **Liên quan:** rule 30 (lai/hybrid), rule 31 (sự cố kỹ thuật). Sách 03 rule 03 (video setup).
+> **Liên quan:** rule 30 (lai/kết hợp), rule 31 (sự cố kỹ thuật). Sách 03 rule 03 (thiết lập video).
 
 ---
 
 ## Bối cảnh / 場面
 
-Chủ Nhật. Dũng test Zoom với chị Hương trước bài thuyết trình trực tuyến sáng thứ Hai cho 松本 + 田中 (大垣 dự trực tiếp tại 白鷗). Tập dượt chia sẻ màn hình.
+Chủ Nhật. Dũng kiểm tra Zoom với chị Hương trước bài thuyết trình trực tuyến sáng thứ Hai cho 松本 + 田中 (大垣 dự trực tiếp tại 白鷗). Tập dượt chia sẻ màn hình.
 
 ---
 
-## Trường hợp xấu — laptop mặc định
+## Trường hợp xấu — máy tính xách tay mặc định
 
 *Zoom*
 
 | Vai | Câu |
 |---------|-----|
-| **フオン** | 「ズン、カメラが下から<ruby>見上<rt>みあ</rt></ruby>げてる。ノートPC のまま？」 <br/>*Dũng, camera đang ngước từ dưới lên. Vẫn để laptop à?* |
-| **ズン** | 「はい、ノート PC で…」 <br/>*Vâng, em để laptop ạ...* |
-| **フオン** | 「**double chin** で見える、それと **<ruby>逆光<rt>ぎゃっこう</rt></ruby>** ! 後ろが窓、顔が<ruby>真<rt>ま</rt></ruby>っ<ruby>黒<rt>くろ</rt></ruby>。声も小さい、laptop マイク？」 <br/>*Nhìn cằm đôi lắm, với cả ngược sáng (逆光)! Sau lưng là cửa sổ, mặt đen sì. Giọng cũng nhỏ, mic laptop à?* |
+| **フオン** | 「ズン、カメラが下から<ruby>見上<rt>みあ</rt></ruby>げてる。ノートPC のまま？」 <br/>*Dũng, camera đang ngước từ dưới lên. Vẫn để máy tính xách tay à?* |
+| **ズン** | 「はい、ノート PC で…」 <br/>*Vâng, em để máy tính xách tay ạ...* |
+| **フオン** | 「**double chin** で見える、それと **<ruby>逆光<rt>ぎゃっこう</rt></ruby>** ! 後ろが窓、顔が<ruby>真<rt>ま</rt></ruby>っ<ruby>黒<rt>くろ</rt></ruby>。声も小さい、laptop マイク？」 <br/>*Nhìn cằm đôi lắm, với cả ngược sáng (逆光)! Sau lưng là cửa sổ, mặt đen sì. Giọng cũng nhỏ, mic máy tính à?* |
 | **ズン** | 「全部デフォルトです…」 <br/>*Hết để mặc định ạ...* |
 | **フオン** | 「**全部 NG**。月曜まで12時間あるから<ruby>揃<rt>そろ</rt></ruby>えて。」 <br/>*NG hết. Còn 12 tiếng đến thứ Hai, lo set up đi.* |
 
-**Vì sao xấu:** Camera laptop góc dưới = cằm đôi + lộ lỗ mũi (bất lịch sự). 逆光 (ngược sáng) = chỉ thấy bóng đen không thấy mặt → ấn tượng người trình bày "ẩn mình". Mic laptop = âm bể, giọng nhỏ.
+**Vì sao xấu:** Camera máy tính xách tay góc dưới = cằm đôi + lộ lỗ mũi (bất lịch sự). 逆光 (ngược sáng) = chỉ thấy bóng đen không thấy mặt → ấn tượng người trình bày "ẩn mình". Mic máy tính = âm bể, giọng nhỏ.
 
 ---
 
@@ -36,7 +36,7 @@ Chủ Nhật. Dũng test Zoom với chị Hương trước bài thuyết trình 
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「**5<ruby>要素<rt>ようそ</rt></ruby> setup** 完了です【1】。①<ruby>外付<rt>そとづ</rt></ruby>け webcam を<ruby>本棚<rt>ほんだな</rt></ruby>で<ruby>目線<rt>めせん</rt></ruby>に上げ、②<ruby>正面<rt>しょうめん</rt></ruby>にリングライト、③<ruby>背景<rt>はいけい</rt></ruby>は virtual の<ruby>薄<rt>うす</rt></ruby>グレー、④ピンマイク、⑤声は<ruby>通常<rt>つうじょう</rt></ruby> +20% <ruby>意識<rt>いしき</rt></ruby>します。」 <br/>*Em đã thiết lập 5 yếu tố ạ. ① Webcam rời kê lên kệ sách ngang mắt, ② ring light trước mặt, ③ phông nền virtual xám nhạt, ④ mic ve áo, ⑤ giọng em chú ý nói to hơn 20% so bình thường ạ.* |
+| **ズン** | 「**5<ruby>要素<rt>ようそ</rt></ruby> setup** 完了です【1】。①<ruby>外付<rt>そとづ</rt></ruby>け webcam を<ruby>本棚<rt>ほんだな</rt></ruby>で<ruby>目線<rt>めせん</rt></ruby>に上げ、②<ruby>正面<rt>しょうめん</rt></ruby>にリングライト、③<ruby>背景<rt>はいけい</rt></ruby>は virtual の<ruby>薄<rt>うす</rt></ruby>グレー、④ピンマイク、⑤声は<ruby>通常<rt>つうじょう</rt></ruby> +20% <ruby>意識<rt>いしき</rt></ruby>します。」 <br/>*Em đã thiết lập 5 yếu tố ạ. ① Camera rời kê lên kệ sách ngang mắt, ② ring light trước mặt, ③ phông nền ảo xám nhạt, ④ mic ve áo, ⑤ giọng em chú ý nói to hơn 20% so bình thường ạ.* |
 | **フオン** | 「うん、顔が明るい、目線が natural。**手の<ruby>位置<rt>いち</rt></ruby>** どこ？」 <br/>*Ờ, mặt sáng rồi, đường nhìn (eye line) tự nhiên. Tay đặt đâu?* |
 | **ズン** | 「<ruby>画面下<rt>がめんした</rt></ruby>に置いて、**重要 point だけ手を上げ gesture** を camera frame 内に入れます【2】。」 <br/>*Em đặt dưới khung hình, chỉ những điểm quan trọng mới đưa tay lên ra động tác trong frame camera ạ.* |
 | **フオン** | 「いいね。あと **chat <ruby>監視<rt>かんし</rt></ruby>** は誰？1人で全部<ruby>見<rt>み</rt></ruby>れない。」 <br/>*Tốt. Còn nữa, chat ai theo dõi? 1 người không xem hết được.* |
@@ -54,18 +54,18 @@ Chủ Nhật. Dũng test Zoom với chị Hương trước bài thuyết trình 
 
 > **5要素: ①Camera 目線 ②前方 lighting ③声 +20% ④ピンマイク ⑤背景クリーン. + Người điều phối chat phụ.**
 >
-> *Trực tuyến ≠ trực tiếp + webcam. Thiết lập vật lý quyết định 50% ấn tượng chuyên nghiệp.*
+> *Trực tuyến ≠ trực tiếp + camera. Thiết lập vật lý quyết định 50% ấn tượng chuyên nghiệp.*
 
 ---
 
 ## Tránh
 
-- Camera laptop góc dưới → cằm đôi + lộ lỗ mũi
+- Camera máy tính xách tay góc dưới → cằm đôi + lộ lỗ mũi
 - 逆光 (cửa sổ phía sau) → chỉ thấy bóng đen
-- Mic laptop → âm bể, có vọng tiếng
+- Mic máy tính xách tay → âm bể, có vọng tiếng
 - Phông nền lộn xộn (giường, đồ giặt) → thiếu chuyên nghiệp
 - Tự xem chat trong khi trình bày → ánh nhìn gãy, mất nhịp
-- Phông nền virtual "beach" / "Star Trek" → không phù hợp khách Nhật
+- Phông nền ảo "bãi biển" / "phim viễn tưởng" (Star Trek) → không phù hợp khách Nhật
 
 ---
 

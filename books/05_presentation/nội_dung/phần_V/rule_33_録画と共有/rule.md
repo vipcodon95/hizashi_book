@@ -1,6 +1,6 @@
 # Rule 33 — Quay video + chia sẻ / 録画と共有
 
-> **Luận điểm.** Khi 田中 PMO yêu cầu quay video để gửi cho người vắng mặt → **không quyết tại chỗ một mình**. Quy trình: ① **Xin phép** toàn bộ người tham dự trước khi quay ② **Cắt bỏ** phần bảo mật (đàm phán giá, góp ý nội bộ) ③ **Kiểm soát phân phối** (link Drive giới hạn người xem, hết hạn 30 ngày). Quay tự do + chia sẻ lung tung = rủi ro rò rỉ + xâm phạm quyền riêng tư.
+> **Luận điểm.** Khi 田中 PMO yêu cầu quay video để gửi cho người vắng mặt → **không quyết tại chỗ một mình**. Quy trình: ① **Xin phép** toàn bộ người tham dự trước khi quay ② **Cắt bỏ** phần bảo mật (đàm phán giá, góp ý nội bộ) ③ **Kiểm soát phân phối** (đường dẫn Drive giới hạn người xem, hết hạn 30 ngày). Quay tự do + chia sẻ lung tung = rủi ro rò rỉ + xâm phạm quyền riêng tư.
 >
 > 録画依頼は ① 全員許可 ② confidential 部分編集 ③ 配布範囲制限。免許なし録画はトラブル元。
 >
@@ -25,7 +25,7 @@ Buổi pitch Phase 3 bắt đầu trong 5 phút. 田中 PMO nhắn Slack 田中 
 | **大垣** | 「実はもう1社<ruby>見積<rt>みつ</rt></ruby>もり<ruby>依頼<rt>いらい</rt></ruby>してて…」 <br/>*Thực ra tôi đã yêu cầu báo giá thêm 1 công ty nữa... (không biết đang REC)* |
 | **ズン** | 「<ruby>録画<rt>ろくが</rt></ruby>です、ご<ruby>共有<rt>きょうゆう</rt></ruby>くださいませ。」 <br/>*Đây là bản quay ạ, mời chia sẻ ạ. (gửi MP4 bản thô 200MB qua Gmail)* |
 
-**Vì sao xấu:** Không thông báo quay trong phòng → 大垣 phát biểu thông tin bảo mật mà không biết. Gửi MP4 bản thô qua Gmail = ① file lớn ② không kiểm soát phân phối ③ chứa thông tin bảo mật. Vi phạm cả quyền riêng tư lẫn bảo mật.
+**Vì sao xấu:** Không thông báo quay trong phòng → 大垣 phát biểu thông tin bảo mật mà không biết. Gửi MP4 bản thô qua Gmail = ① tệp lớn ② không kiểm soát phân phối ③ chứa thông tin bảo mật. Vi phạm cả quyền riêng tư lẫn bảo mật.
 
 ---
 
@@ -64,9 +64,9 @@ Buổi pitch Phase 3 bắt đầu trong 5 phút. 田中 PMO nhắn Slack 田中 
 - Quay mà không thông báo → xâm phạm quyền riêng tư
 - Biên tập bản thô không cắt phần bảo mật → rò rỉ khi chia sẻ
 - Gửi MP4 bản thô qua Gmail / email cá nhân → không kiểm soát phân phối
-- Link Drive công khai → ai cũng truy cập được
-- Không đặt hạn chót → file tồn tại vô thời hạn
-- Quên CC sếp khi chia sẻ file video quay → đứt chuỗi truy vết
+- Liên kết Drive công khai → ai cũng truy cập được
+- Không đặt hạn chót → tệp tồn tại vô thời hạn
+- Quên CC sếp khi chia sẻ tệp video quay → đứt chuỗi truy vết
 
 ---
 

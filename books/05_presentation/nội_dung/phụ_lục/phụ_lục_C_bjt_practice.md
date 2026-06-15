@@ -1,15 +1,15 @@
 # Phụ lục C — BJT Practice Tổng Hợp / BJT練習問題集
 
-*Tổng hợp tất cả BJT practice questions từ 60 rules, sắp xếp theo level và skill.*
+*Tổng hợp tất cả câu luyện thi BJT từ 60 rules, sắp xếp theo cấp và kỹ năng.*
 
-*Dùng để luyện thi BJT tiếng Nhật công việc — câu hỏi có audio prompt được link đến rule gốc.*
+*Dùng để luyện thi BJT tiếng Nhật công việc — câu hỏi có âm thanh gợi ý được liên kết đến rule gốc.*
 
 ---
 
 
 ## Level J3 (31 câu)
 
-### J3.1 (từ rule_01 — Checklist 7 câu hỏi trước khi soạn)
+### J3.1 (từ rule_01 — Danh sách 7 câu hỏi trước khi soạn)
 
 **Skill:** 場面把握
 
@@ -60,7 +60,7 @@
 - S=現状、C=変化(問題)、Q=問い、A=答え(提案)。Aは最後に置く。
 - S=hiện trạng, C=vấn đề, Q=câu hỏi, A=đáp án (đề xuất). A đặt cuối.
 
-### J3.4 (từ rule_04 — Phân cấp thị giác & font)
+### J3.4 (từ rule_04 — Phân cấp thị giác & phông chữ)
 
 **Skill:** 場面把握
 
@@ -75,7 +75,7 @@
 
 **Giải thích / 解説:**
 - 本文は20pt以上が原則。後列でも読めるか実機テスト推奨。
-- Phần thân tối thiểu 20pt. Phải kiểm tra thực tế trên projector từ hàng cuối.
+- Phần thân tối thiểu 20pt. Phải kiểm tra thực tế trên máy chiếu từ hàng cuối.
 
 ### J3.5 (từ rule_05 — Tâm lý màu sắc trong Tiếng Nhật công việc)
 
@@ -126,7 +126,7 @@
 
 **Giải thích / 解説:**
 - クラウドのみは Wi-Fi 落ちたら詰む。USB+ローカル+クラウドの3層が原則。
-- Chỉ cloud thì Wi-Fi rớt là chết. Phải 3 lớp: USB + máy tính + cloud.
+- Chỉ lưu đám mây thì Wi-Fi rớt là chết. Phải 3 lớp: USB + máy tính + đám mây.
 
 ### J3.8 (từ rule_08 — Câu mở đầu thu hút 30 giây)
 
@@ -245,7 +245,7 @@
 
 **Giải thích / 解説:**
 - N点宣言→まず／次に／最後にの3層マーカーが論理を明確にする。
-- Cấu trúc 3 lớp 「nêu N điểm → đầu tiên / tiếp theo / cuối cùng」 làm rõ mạch logic.
+- Cấu trúc 3 lớp 「nêu N điểm → đầu tiên / tiếp theo / cuối cùng」 làm rõ mạch lập luận.
 
 ### J3.15 (từ rule_15 — Trình bày dữ liệu)
 
@@ -279,7 +279,7 @@
 
 **Giải thích / 解説:**
 - Setup→Journey→Key→Recap が3-4分で痛み解消を可視化する。Tour 型は engineer mindset。
-- Thiết lập→Hành trình→Điểm chốt→Tóm tắt trong 3-4 phút để trực quan hoá giải quyết vấn đề. Kiểu tour = tư duy kỹ thuật viên.
+- Thiết lập→Hành trình→Điểm chốt→Tóm tắt trong 3-4 phút để trực quan hoá giải quyết vấn đề. Kiểu đi một vòng = tư duy kỹ thuật viên.
 
 ### J3.17 (từ rule_17 — So sánh phương án (bảng so sánh))
 
@@ -313,7 +313,7 @@
 
 **Giải thích / 解説:**
 - 実名＋数字＋氏名付き引用が信頼の3点セット。匿名事例は marketing fluff。
-- Tên thật + số + trích dẫn có tên người = bộ 3 tin cậy. Ví dụ ẩn danh = nội dung quảng cáo rỗng.
+- Tên thật + số + trích dẫn có tên người = bộ 3 tin cậy. Ví dụ ẩn danh = nội dung marketing rỗng.
 
 ### J3.19 (từ rule_20 — Rủi ro & biện pháp đối phó)
 
@@ -349,7 +349,7 @@
 - Gantt visualization + milestone 3点 (日付/成果物/owner) + buffer 明示 が標準。TBD と single owner は信頼を下げる。
 - Trực quan hoá Gantt + 3 điểm mốc (ngày / đầu ra / người phụ trách) + vùng đệm rõ là chuẩn. TBD + chỉ 1 người phụ trách làm giảm tin cậy.
 
-### J3.21 (từ rule_22 — Mời Q&A formal)
+### J3.21 (từ rule_22 — Mời hỏi đáp trang trọng)
 
 **Skill:** 表現読解
 
@@ -383,7 +383,7 @@
 - 持ち帰りには ① deadline 具体 ② 確認者 ③ 回答 format の3要素必須。「たぶん」は推測で危険、「わかりません」は cộc、「後で」は vague。
 - Mang về cần 3 yếu tố: ① hạn chót cụ thể ② người xác nhận ③ hình thức phản hồi. 「たぶん」 nguy hiểm vì mang tính đoán mò, 「わかりません」 cộc, 「後で」 mơ hồ.
 
-### J3.23 (từ rule_26 — Closing với CTA)
+### J3.23 (từ rule_26 — Phần kết với CTA)
 
 **Skill:** 場面把握
 
@@ -400,7 +400,7 @@
 - Recap 3点で記憶定着、CTA で次の動きを明確化、次回会議その場確定で followup を最小化。
 - Tóm tắt 3 điểm = giúp nhớ ý chính. Kêu gọi hành động = rõ bước tiếp. Chốt lịch tại chỗ = giảm mail theo dõi qua lại.
 
-### J3.24 (từ rule_27 — Thank-you slide)
+### J3.24 (từ rule_27 — Slide cảm ơn)
 
 **Skill:** 場面把握
 
@@ -415,7 +415,7 @@
 
 **Giải thích / 解説:**
 - 退室時 5-10 分映る slide。御礼+Recap+連絡先+QR の4要素で reinforcement と follow-up を促す。
-- Slide chiếu 5-10 phút lúc khách rời. 4 thành phần: cảm ơn + tóm tắt + liên hệ + QR để củng cố và thúc đẩy theo dõi sau.
+- Slide chiếu 5-10 phút lúc khách rời. 4 thành phần: cảm ơn + tóm tắt + liên lạc + QR để củng cố và thúc đẩy theo dõi sau.
 
 ### J3.25 (từ rule_28 — Mail theo dõi sau buổi thuyết trình)
 
@@ -432,7 +432,7 @@
 
 **Giải thích / 解説:**
 - 客は当日中に社内シェアするので、24h以内の acknowledgment が必須。詳細は翌営業日で OK。
-- Khách chia sẻ nội bộ trong ngày, nên xác nhận đã nhận trong 24h là bắt buộc. Bản chi tiết sang ngày làm việc kế tiếp là ổn.
+- Khách chia sẻ nội bộ trong ngày, nên xác nhận trong 24h là bắt buộc. Bản chi tiết sang ngày làm việc kế tiếp là ổn.
 
 ### J3.26 (từ rule_29 — Thuyết trình trực tuyến)
 
@@ -449,7 +449,7 @@
 
 **Giải thích / 解説:**
 - 5要素全揃いで professional 印象を確保。Chat は co-presenter にモデレートさせるのが standard。
-- Đủ 5 yếu tố mới giữ được hình ảnh chuyên nghiệp. Chat để người đồng trình bày điều phối là chuẩn.
+- Đủ 5 yếu tố mới giữ được hình ảnh chuyên nghiệp. Nhắn tin để người đồng trình bày điều phối là chuẩn.
 
 ### J3.27 (từ rule_30 — Thuyết trình kết hợp)
 
@@ -517,7 +517,7 @@
 
 **Giải thích / 解説:**
 - Quantitative + qualitative + actionable。3+3 で negative spiral 防止、deadline 付き drill で実装。
-- Định lượng + định tính + có thể thực thi. Công thức 3+3 chống vòng xoáy tiêu cực, luyện tập có hạn chót để triển khai.
+- Định lượng + định tính + có thể thực thi. Công thức 3+3 chống vòng xoáy tiêu cực, luyện tập có hạn chót để thực hiện.
 
 ### J3.31 (từ rule_35 — Chu kỳ cải thiện)
 
@@ -539,7 +539,7 @@
 
 ## Level J2 (4 câu)
 
-### J2.1 (từ rule_19 — Slide giá cả tactful)
+### J2.1 (từ rule_19 — Slide giá cả khéo léo)
 
 **Skill:** 表現読解
 
@@ -554,7 +554,7 @@
 
 **Giải thích / 解説:**
 - 「高い」反論には ALWAYS 3点理由で答える。1点は薄い、5点は希薄化、3点が説得力の sweet spot。
-- Phản biện 「高い」 LUÔN trả 3 điểm. 1 điểm quá mỏng, 5 điểm quá loãng, 3 điểm là mức thuyết phục tối ưu nhất.
+- Phản biện 「高い」 LUÔN trả 3 điểm. 1 điểm quá mỏng, 5 điểm quá loãng, 3 điểm là mức thuyết phục tối ưu.
 
 ### J2.2 (từ rule_23 — Trả lời câu hỏi khó — LASR)
 
@@ -573,7 +573,7 @@
 - LASR の A ステップ。Reframe + confirm で誤解を防ぐ。これを飛ばすと的外れの回答になりがち。
 - Bước A của LASR. Diễn giải lại + xác nhận để tránh hiểu sai. Bỏ bước này thường trả lời lệch ý.
 
-### J2.3 (từ rule_25 — Đối phó câu hostile)
+### J2.3 (từ rule_25 — Đối phó câu hỏi gay gắt)
 
 **Skill:** 表現読解
 
@@ -590,7 +590,7 @@
 - Bridge phrase で感情を中和 → 懸念に reframe してから内容に入る。直接否定や反論は escalate を招く。
 - Câu dẫn hướng trung hoà cảm xúc → chuyển sang mối lo ngại rồi mới vào nội dung. Phủ nhận trực tiếp / phản biện = leo thang căng thẳng.
 
-### J2.4 (từ rule_31 — Tech failure recovery)
+### J2.4 (từ rule_31 — Xử lý sự cố kỹ thuật)
 
 **Skill:** 発言聴解
 
@@ -605,7 +605,7 @@
 
 **Giải thích / 解説:**
 - Panic 表情は『本番障害も同じ』と暗示。Acknowledge → Switch → Entertain で control under pressure を示す。
-- Mặt hoảng loạn = ám chỉ 「sự cố vận hành thật cũng vậy」. Thừa nhận → Chuyển Plan B → Tiếp tục bằng lời thể hiện sự vững vàng trước áp lực.
+- Mặt hoảng loạn = ám chỉ 「sự cố vận hành thật cũng vậy」. Thừa nhận → Chuyển sang Plan B → Tiếp tục bằng lời thể hiện sự vững vàng trước áp lực.
 
 
 **Tổng số câu hỏi:** 35

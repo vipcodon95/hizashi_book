@@ -7,7 +7,7 @@
 
 ## Phần I — Nền tảng trước nhấc máy
 
-### Rule 01 — Checklist 7 câu hỏi trước khi soạn / プレゼン準備の7つの問い
+### Rule 01 — Danh sách kiểm tra 7 câu hỏi trước khi soạn / プレゼン準備の7つの問い
 
 **ズン (em Dũng):**
 
@@ -32,7 +32,7 @@
 
 >  「タイトルを全部結論型に書き直しました。」
 >
->  *Em đã sửa toàn bộ title sang dạng kết luận ạ.*
+>  *Em đã sửa toàn bộ tiêu đề sang dạng kết luận ạ.*
 >
 >  _結論型タイトルへの書き直し報告_
 
@@ -51,7 +51,7 @@
 
 >  「SCQAの順で組み直しました。」
 >
->  *Em đã reorder theo SCQA ạ.*
+>  *Em đã sắp xếp lại theo SCQA ạ.*
 >
 >  _ストーリーアーク報告_
 
@@ -59,7 +59,7 @@
 
 >  「現状(S) → 問題(C) → 問い(Q) → 答え(A)で進めます。」
 >
->  *Em đi theo flow: hiện trạng (S) → vấn đề (C) → câu hỏi (Q) → đáp án (A) ạ.*
+>  *Em đi theo luồng: hiện trạng (S) → vấn đề (C) → câu hỏi (Q) → đáp án (A) ạ.*
 >
 >  _プレゼン構造の口頭宣言_
 
@@ -70,7 +70,7 @@
 
 >  「タイトル36pt、本文20pt、フォントはMeiryo統一にしました。」
 >
->  *Em để tiêu đề 36pt, phần thân 20pt, font thống nhất Meiryo ạ.*
+>  *Em để tiêu đề 36pt, phần thân 20pt, phông chữ thống nhất Meiryo ạ.*
 >
 >  _視覚階層の標準報告_
 
@@ -78,7 +78,7 @@
 
 >  「ラベルを20pt以上に上げ直します。」
 >
->  *Em sẽ chỉnh label lên trên 20pt ạ.*
+>  *Em sẽ chỉnh nhãn lên trên 20pt ạ.*
 >
 >  _ラベル修正コミット_
 
@@ -111,7 +111,7 @@
 
 >  「Plan Bチェックリストの5点を揃えました。」
 >
->  *Em đã chuẩn bị xong 5 điểm trong checklist Plan B ạ.*
+>  *Em đã chuẩn bị xong 5 điểm trong danh sách kiểm tra Plan B ạ.*
 >
 >  _バックアップ完了報告_
 
@@ -147,7 +147,7 @@
 
 >  「本日は大きく〇部構成でお話しします。本日のゴールは〇〇でございます。」
 >
->  *Hôm nay em xin trình bày theo 〇 phần lớn ạ. Goal hôm nay là 〇〇 ạ.*
+>  *Hôm nay em xin trình bày theo 〇 phần lớn ạ. Mục tiêu hôm nay là 〇〇 ạ.*
 >
 >  _アジェンダ＋ゴール宣言_
 
@@ -190,7 +190,7 @@
 >
 >  *Đến 〇 phút em chắc chắn chuyển sang Q&A, dù phần chính chưa hết.*
 >
->  _Hard commit on time keeping_
+>  _Cam kết chắc chắn giữ đúng giờ_
 
 
 
@@ -202,7 +202,7 @@
 
 >  「〇点を実装いたします。まず1点目、〇〇。次に2点目、〇〇。最後の3点目、〇〇。」
 >
->  *Sẽ implement 〇 điểm ạ. Đầu tiên điểm 1, 〇〇. Tiếp theo điểm 2, 〇〇. Cuối cùng điểm 3, 〇〇.*
+>  *Sẽ triển khai 〇 điểm ạ. Đầu tiên điểm 1, 〇〇. Tiếp theo điểm 2, 〇〇. Cuối cùng điểm 3, 〇〇.*
 >
 >  _3点 enumerate の標準形_
 
@@ -267,7 +267,7 @@
 >  _Customer case 数字提示テンプレ_
 
 
-### Rule 19 — Slide giá cả tactful / 価格スライドの作り方
+### Rule 19 — Slide giá cả khéo léo / 価格スライドの作り方
 
 **ズン (em Dũng):**
 
@@ -311,7 +311,7 @@
 
 ## Phần IV — Tình huống khó
 
-### Rule 22 — Mời Q&A trang trọng / Q&A導入
+### Rule 22 — Mời hỏi đáp trang trọng / Q&A導入
 
 **ズン (em Dũng):**
 
@@ -387,7 +387,7 @@
 >  _選択肢提示 flip control_
 
 
-### Rule 26 — Closing với CTA / クロージング＋CTA
+### Rule 26 — Phần kết với CTA / クロージング＋CTA
 
 **ズン (em Dũng):**
 
@@ -406,18 +406,18 @@
 >  _CTA numbered 標準_
 
 
-### Rule 27 — Thank-you slide / 謝辞スライド
+### Rule 27 — Slide cảm ơn / 謝辞スライド
 
 **ズン (em Dũng):**
 
 >  「謝辞スライドは4要素 (御礼・Recap・連絡先・QR) で構成いたしました。」
 >
->  *Slide cảm ơn em làm theo 4 thành phần (cảm ơn, tóm tắt, liên hệ, QR) ạ.*
+>  *Slide cảm ơn em làm theo 4 thành phần (cảm ơn, tóm tắt, liên lạc, QR) ạ.*
 >
 >  _謝辞スライド構成説明_
 
 
-### Rule 28 — Post-pitch follow-up email / 事後フォローメール
+### Rule 28 — Mail theo dõi sau thuyết trình / 事後フォローメール
 
 **ズン (em Dũng):**
 
@@ -477,7 +477,7 @@
 >  _室内質問の復唱パターン_
 
 
-### Rule 31 — Xử lý sự cố kỹ thuật / 技術トラブル復旧
+### Rule 31 — Khôi phục sự cố kỹ thuật / 技術トラブル復旧
 
 **ズン (em Dũng):**
 
@@ -529,7 +529,7 @@
 
 >  「Drive 閲覧専用リンク、Email 限定 access、〇日後 自動 expire です。」
 >
->  *Link Drive chỉ-xem, giới hạn email, tự động hết hạn sau 〇 ngày ạ.*
+>  *Liên kết Drive chỉ-xem, giới hạn email, tự động hết hạn sau 〇 ngày ạ.*
 >
 >  _Giải thích khung chia sẻ giới hạn_
 

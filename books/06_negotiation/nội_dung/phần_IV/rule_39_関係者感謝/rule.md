@@ -2,7 +2,7 @@
 
 > **Luận điểm.** Sau ký, KHÔNG chỉ cảm ơn Ōgaki và Hà CTO. Phải cảm ơn toàn bộ chuỗi: **(1) Phía khách** — Tanaka PMO, Nakamura CFO, kể cả lễ tân, **(2) Phía mình** — Tuấn / Linh / Loan, đặc biệt **nhân sự trẻ** thường bị bỏ sót. Cảm ơn người trẻ một cách cụ thể (KHÔNG chung chung 「お疲れ様」). Nhân sự trẻ cảm nhận được đầu tư → gắn bó + hiệu suất về sau.
 >
-> 商談成立後の感謝は cấp cao だけでなく PMO・CFO 含む chain 全員、đặc biệt nhân sự trẻ 含めて cụ thể に行う。"お疲れ様"だけでは thông điệp "không quan tâm"。
+> 商談成立後の感謝は cấp cao だけでなく PMO・CFO 含む chain 全員、đặc biệt nhân sự trẻ 含めて cụ thể に行う。"お疲れ様"だけでは thông điệp "không quan tâm đến đóng góp của ai"。
 >
 > **Liên quan:** rule 36 (post-deal挨拶), rule 37 (kickoff), rule 38 (PR).
 
@@ -80,5 +80,5 @@ Phase 3 ký + thông cáo báo chí phát hành thứ Năm. Chiều thứ Sáu D
 | 細やか | こまやか | — | Tỉ mỉ |
 | 指摘 | してき | CHỈ TRÍCH | Chỉ ra / nêu ra điểm cần lưu ý |
 | 死角 | しかく | TỬ GIÁC | Điểm mù |
-| support function | サポートファンクション | — | Bộ phận hỗ trợ (kế toán, pháp chế) |
+| bộ phận hỗ trợ | サポートファンクション | — | Bộ phận hỗ trợ (kế toán, pháp chế) |
 | 個別 | こべつ | CÁ BIỆT | Riêng từng người |

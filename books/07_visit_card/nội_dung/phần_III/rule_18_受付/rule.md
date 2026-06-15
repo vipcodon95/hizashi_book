@@ -34,7 +34,7 @@
 
 ## Hội thoại TỐT — 4 yếu tố trong 1 câu
 
-*đến quầy, cúi chào 15° · check sổ · ký pass, đeo lên ngực · cúi chào 15°*
+*đến quầy, cúi chào 15° · kiểm tra sổ · ký thẻ ra vào, đeo lên ngực · cúi chào 15°*
 
 | Vai | Câu |
 |---------|-----|
@@ -59,7 +59,7 @@
 
 > **「受付は『社名+氏名+担当者+用件』の4要素を1文で・15度お辞儀・入館証着用・エレベーター指示待ち。」**
 >
-> *Lễ tân = 4 yếu tố trong 1 câu / cúi chào 15° / đeo pass / đợi chỉ thang máy.*
+> *Lễ tân = 4 yếu tố trong 1 câu / cúi chào 15° / đeo thẻ ra vào / đợi chỉ thang máy.*
 
 ---
 
@@ -68,8 +68,8 @@
 - **Tiếng Anh** với lễ tân doanh nghiệp Nhật → tiếng Nhật trang trọng
 - "**Tanaka-san**" mà không có 部署 → "PMO 部の田中様"
 - **Thông tin nhỏ giọt** từng câu → 1 câu chứa 4 yếu tố
-- **Tự ý đi thang máy** chưa nhận pass → đợi hướng dẫn
-- **Pass trong túi** → đeo lên ngực
+- **Tự ý đi thang máy** chưa nhận thẻ ra vào → đợi hướng dẫn
+- **Thẻ ra vào trong túi** → đeo lên ngực
 - **Quên cúi chào** lúc chào lễ tân → cúi chào 15° đầu + cuối
 - Lễ tân hỏi "**御芳名**" mà bí → 御芳名 = "tên quý khách". Trả lời họ tên đầy đủ.
 

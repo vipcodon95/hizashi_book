@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Đàm phán chốt 17:30 thứ Năm. Dũng về văn phòng 18:30. Trễ nhất 17:30 thứ Sáu phải gửi recap. Nếu để sang thứ Hai → khách Ōgaki ringi mà không có evidence → mọi rủi ro thuộc Tiên Phát.
+Đàm phán chốt 17:30 thứ Năm. Dũng về văn phòng 18:30. Trễ nhất 17:30 thứ Sáu phải gửi mail tóm tắtp. Nếu để sang thứ Hai → khách Ōgaki ringi mà không có evidence → mọi rủi ro thuộc Tiên Phát.
 
 ---
 
@@ -35,7 +35,7 @@
 
 | Vai | Câu |
 |---------|-----|
-| (商談翌朝 09:30) **ズン** | 「フオン副部長、Phase 3 商談の確認メール drafts しました。送信前に一度ご確認お願いいたします。」 |
+| (商談翌朝 09:30) **ズン** | 「フオン副部長、Phase 3 商談の確認メール bản thảo しました。送信前に一度ご確認お願いいたします。」 |
 | **フオン** | 「件名 OK、出席者 OK、合意 7 項目 numbered OK、未決 2 項目 OK、次アクション owner+deadline 明記 OK。**いいね、送信して**。」 |
 | (10:00 送信) **件名:** | 「【ご確認】Phase 3 商談合意事項のまとめ (4/24 開催)」 |
 | **本文要点:** | 「①出席者 ②合意事項 (7項目) ③未決事項 (2項目) ④次のアクション (owner + 期限) ⑤添付: 提案書 v3.2」【1】 |
@@ -43,7 +43,7 @@
 | **ズン** | 「大垣様より OK 返信いただきました【2】。稟議 5/7 上申とのことです。次は契約書 draft を準備します。」 |
 
  **Ghi chú:**
-- 【1】**5 phần** = 出席者 / 合意事項 / 未決事項 / 次のアクション / 添付. Bỏ phần nào = mail tóm tắt không phục vụ được ringi.
+- 【1】**5 phần** = Người tham dự / Điểm đồng thuận / Điểm chưa quyết / Bước tiếp theo / Đính kèm. Bỏ phần nào = mail tóm tắt không phục vụ được ringi.
 - 【2】**Phản hồi OK = chốt**. Lịch sử mail này được đính kèm vào tài liệu ringi → hồ sơ chính thức. Nếu khách tranh chấp sau, có bằng chứng.
 - **24h = hạn chuẩn**. Khách Nhật mong mail tóm tắt trong 24h giờ làm việc. Trễ → độ tin tưởng giảm đo được.
 
@@ -60,7 +60,7 @@
 ## Tránh
 
 - Tiêu đề mơ hồ "Phase 3 の件" → khách không lưu trữ được, tìm kiếm không ra
-- Bỏ "未決事項" → 1 tuần sau khi soạn hợp đồng sẽ phát hiện thiếu
+- Bỏ "Điểm chưa quyết" → 1 tuần sau khi soạn hợp đồng sẽ phát hiện thiếu
 - Bỏ "người phụ trách + hạn chót" trong bước tiếp theo → "誰がやるんですか" Slack 3 ngày sau
 - Gửi không qua người phụ trách xem lại → lỗi đánh máy / sai số sẽ thành hồ sơ chính thức
 - Gửi quá muộn cuối tuần (Thứ 7 22:00) → khách Nhật tránh mail cuối tuần; gửi Thứ 2 sáng còn gọn hơn

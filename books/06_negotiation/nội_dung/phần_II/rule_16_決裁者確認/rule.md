@@ -1,4 +1,4 @@
-# Rule 16 — Confirm decision authority / 決裁者確認
+# Rule 16 — Xác nhận người có quyền quyết định / 決裁者確認
 
 > **Luận điểm.** Tỉnh táo: ai trong phòng là **真の決裁者**, ai chỉ là người gác cổng. Câu hỏi chuẩn: "最終決裁は〜様でいらっしゃいますでしょうか？" + "ご決裁の前に、技術検証や予算審議など、どのようなステップが残っていらっしゃいますか？" Bỏ sót → báo giá sai người, mất thời gian.
 >
@@ -37,7 +37,7 @@ Trong bước Người quyết định của khai thác thông tin (rule 12), D�
 | **中村CFO** | 「はい、私の決裁 + <ruby>取締役会<rt>とりしまりやくかい</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby>です。¥20M <ruby>超<rt>こ</rt></ruby>えると取締役会<ruby>承認<rt>しょうにん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>になります。」 <br/>*Đúng, tôi duyệt + báo cáo HĐQT. Vượt ¥20M là cần HĐQT phê duyệt.* |
 | **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。**決裁の<ruby>前段階<rt>ぜんだんかい</rt></ruby>で、<ruby>技術<rt>ぎじゅつ</rt></ruby> review、<ruby>予算審議<rt>よさんしんぎ</rt></ruby>、<ruby>法務<rt>ほうむ</rt></ruby> check など、どのようなステップが<ruby>残<rt>のこ</rt></ruby>っていらっしゃいますでしょうか**【2】？」 <br/>*Em rõ ạ. Trước khi duyệt còn bước nào ạ — kiểu xem xét kỹ thuật, thẩm định ngân sách, hay kiểm tra pháp lý ạ?* |
 | **大垣** | 「IT <ruby>部門長<rt>ぶもんちょう</rt></ruby> technical review (rule 13 で出た件)、<ruby>経理部<rt>けいりぶ</rt></ruby>の予算 cycle 審議、そして<ruby>最終的<rt>さいしゅうてき</rt></ruby>に法務 contract review。3 ステップで、<ruby>合計<rt>ごうけい</rt></ruby> 3 <ruby>週間<rt>しゅうかん</rt></ruby><ruby>程度<rt>ていど</rt></ruby>です。」 <br/>*Trưởng phòng IT xem xét kỹ thuật (vấn đề nêu ở rule 13), phòng kế toán thẩm định chu kỳ ngân sách, cuối cùng là pháp chế xem xét hợp đồng. 3 bước, tổng khoảng 3 tuần.* |
-| **ズン** | 「**3 ステップ・3 週間、加えて取締役会の付議タイミング**【3】、ありがとうございます。それを<ruby>踏<rt>ふ</rt></ruby>まえて Timeline を<ruby>組<rt>く</rt></ruby>み<ruby>直<rt>なお</rt></ruby>します。」 <br/>*3 step / 3 tuần, kèm timing đưa lên HĐQT — em cảm ơn ạ. Em sẽ ghép lại Timeline dựa trên đó ạ.* |
+| **ズン** | 「**3 ステップ・3 週間、加えて取締役会の付議タイミング**【3】、ありがとうございます。それを<ruby>踏<rt>ふ</rt></ruby>まえて Timeline を<ruby>組<rt>く</rt></ruby>み<ruby>直<rt>なお</rt></ruby>します。」 <br/>*3 bước / 3 tuần, kèm thời điểm đưa lên HĐQT — em cảm ơn ạ. Em sẽ ghép lại thời hạn dựa trên đó ạ.* |
 
  **Ghi chú:**
 - 【1】**Xác nhận thẩm quyền quyết định + tuyến báo cáo** — không chỉ "ai duyệt" mà cả "ai cần báo cáo" (取締役会).

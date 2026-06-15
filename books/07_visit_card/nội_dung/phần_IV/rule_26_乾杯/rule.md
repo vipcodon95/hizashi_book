@@ -14,7 +14,7 @@ Phòng riêng nhà hàng Q1, mọi người vừa ngồi xong lúc 18:35. Hà CT
 
 ---
 
-## Hội thoại XẤU — uống trước khi hô + ly cao hơn senior
+## Hội thoại XẤU — uống trước khi hô + ly cao hơn cấp cao
 
 | Vai | Câu |
 |---------|-----|

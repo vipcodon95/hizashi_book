@@ -99,6 +99,11 @@ function Table(el)
     el.attr.classes:insert("when-what-table")
     return el
   end
+  -- Bảng CẤU TRÚC front matter (Phần|Tên|Số rule) → 25/50/25 (class cố định)
+  if hkey == "Phần|Tên|Số rule" then
+    el.attr.classes:insert("cautruc-table")
+    return el
+  end
   -- Bảng 2 cột không có câu thoại 「」 → đối chiếu 50/50
   if ncols == 2 and not body_text(el):find("「") and not GEN_MAP[hkey] then
     el.attr.classes:insert("compare-table")

@@ -80,8 +80,11 @@ function Table(el)
     el.attr.classes:insert("compare-table")
     return el
   end
-  -- Vai|Câu (20/80) và 漢字|よみ|Nghĩa (30/30/40): để CSS selector mặc định xử lý
-  if hkey == "Vai|Câu" or hkey == "漢字|よみ|Nghĩa" then
+  -- Vai|Câu (20/80) và 漢字|よみ|Nghĩa (30/30/40): để CSS selector mặc định xử lý.
+  -- Bảng 2 cột mà cột đầu là vai người nói (chứa "Vai", kể cả "Vai / Tình huống")
+  -- và cột Câu có thể kèm caption → vẫn áp 20/80, không để auto-gen bóp cột Vai.
+  if hkey == "Vai|Câu" or hkey == "漢字|よみ|Nghĩa"
+     or (ncols == 2 and hcells[1]:find("Vai")) then
     return el
   end
   -- Bảng từ vựng 4 cột → 22/22/22/34 (cố định)

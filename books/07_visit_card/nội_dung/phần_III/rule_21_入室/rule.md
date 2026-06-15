@@ -46,7 +46,7 @@
 | **ズン + トゥアン** | 「お<ruby>忙<rt>いそが</rt></ruby>しいところ、お<ruby>時間<rt>じかん</rt></ruby><ruby>頂戴<rt>ちょうだい</rt></ruby>いたしまして<ruby>恐縮<rt>きょうしゅく</rt></ruby>でございます。」 <br/>*Anh bận rộn dành thời gian, em ngại quá ạ.* |
 
  **Ghi chú:**
-- 【1】**Gõ 2 lần** — chuẩn JP business. 3 lần = kiểu gõ cửa WC, 1 lần = thân mật. Nhẹ nhàng. Đợi 2 giây sau gõ trước khi mở.
+- 【1】**Gõ 2 lần** — chuẩn nghi thức Nhật. 3 lần = kiểu gõ cửa WC, 1 lần = thân mật. Nhẹ nhàng. Đợi 2 giây sau gõ trước khi mở.
 - 【2】**Đứng tại ngưỡng cúi chào 15°** — chân chưa bước qua ngưỡng, mở cửa, cúi chào. KHÔNG vừa đi vừa cúi chào.
 - 【3】**「失礼いたします」** — câu cố định vào phòng. KHÔNG「Hi」/「すみません」/「こんにちは」.
 - 【4】**Đóng cửa không quay lưng** — xoay 1/4 (mặt vẫn hơi nhìn trong phòng), tay phải hoặc trái sau lưng đẩy nhẹ cửa. Nếu chỗ chật xoay không được = quay xong xoay lại cúi chào nhẹ với phòng.
@@ -67,7 +67,7 @@
 - "**Hi**" / "**こんにちは**" / "**すみません**" → 「失礼いたします」 cố định
 - **Vừa đi vừa cúi chào** → đứng tại ngưỡng, cúi chào xong mới bước
 - Đóng cửa **quay lưng** + tiếng "**BANG**" → xoay 1/4, tay sau lưng, đóng nhẹ
-- Vào phòng **mở điện thoại/laptop ngay** → đứng đợi cấp trên chỉ chỗ ngồi rồi mới ngồi (rule 10)
+- Vào phòng **mở điện thoại/máy tính ngay** → đứng đợi cấp trên chỉ chỗ ngồi rồi mới ngồi (rule 10)
 - **Không cúi chào khi cấp trên trong phòng** → cúi chào 30° khi nói câu chào CFO
 
 ---

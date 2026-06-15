@@ -5,7 +5,7 @@
 > 交渉に入る前に **BATNA**(交渉決裂時の代替案) を必ず数値化する。曖昧なBATNAを持って交渉に入ると、相手はこちらに代替案がないことを声色で察知し、攻めに転じる。
 >
 > **Liên quan:** rule 02 (ZOPA), rule 08 (điểm rút lui), rule 09 (kế hoạch nhượng bộ).
-> Sách 05 Rule 01 — checklist 7 câu.
+> Sách 05 Rule 01 — danh sách kiểm tra 7 câu.
 
 ---
 
@@ -30,7 +30,7 @@ Tháng 5/2026, Phase 3 với 白鷗 vào vòng đàm phán giá lần 1. Anh Hà
 
 ---
 
-## Hội thoại TỐT — BATNA định nghĩa rõ + 3 scenario
+## Hội thoại TỐT — BATNA định nghĩa rõ + 3 kịch bản
 
 *Slack 9:00 · file 開く*
 
@@ -43,7 +43,7 @@ Tháng 5/2026, Phase 3 với 白鷗 vào vòng đàm phán giá lần 1. Anh Hà
 
  **Ghi chú:**
 - 【1】**「BATNA 3 シナリオ」** — A (chốt nguyên), B (đã chuẩn bị trả giá ngược), C (rút lui). Mỗi kịch bản phải có **con số + điều kiện + người đã duyệt**.
-- 【2】**シナリオB phải có xác thực tài chính nội bộ** — không chỉ "cảm giác". Giữ profit margin ≥ 20% là ngưỡng nội bộ.
+- 【2】**シナリオB phải có xác thực tài chính nội bộ** — không chỉ "cảm giác". Giữ biên lợi nhuận ≥ 20% là ngưỡng nội bộ.
 - 【3】**Kịch bản C (rút lui) cần lựa chọn thay thế thật** — không phải đòn dọa suông. X 社 MoU thật → Dũng vào phòng với sự tự tin.
 
 ---

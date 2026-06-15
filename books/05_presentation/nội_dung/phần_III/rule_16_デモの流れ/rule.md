@@ -1,6 +1,6 @@
 # Rule 16 — Luồng demo / デモの流れ
 
-> **Luận điểm.** Demo trong bài thuyết trình ≠ tour liệt kê tính năng. Cấu trúc 4 bước: **Setup — thiết lập cảnh (誰が何をしようとしている、30s) → User journey — hành trình người dùng (主操作、2分) → Key moment — khoảnh khắc mấu chốt (決め手、30s) → Tóm tắt lại — tóm lược (何が起きたか、30s)**. Tổng 3-4 phút. Tránh "全機能ツアー" — chỉ trình diễn mạch thao tác giải nỗi đau.
+> **Luận điểm.** Demo trong bài thuyết trình ≠ đi liệt kê tính năng. Cấu trúc 4 bước: **Setup — thiết lập cảnh (誰が何をしようとしている、30s) → User journey — hành trình người dùng (主操作、2分) → Key moment — khoảnh khắc mấu chốt (決め手、30s) → Tóm tắt lại — tóm lược (何が起きたか、30s)**. Tổng 3-4 phút. Tránh "全機能ツアー" — chỉ trình diễn mạch thao tác giải nỗi đau.
 >
 > デモ4ステップ: Setup→User journey→Key moment→Recap。3-4分以内。全機能ツアーは禁止、痛み解消の1フローだけ。
 >
@@ -10,13 +10,13 @@
 
 ## Bối cảnh / 場面
 
-Tuấn (tech lead) sẽ chạy demo. Bản năng của Tuấn là trình diễn toàn bộ menu tính năng (tư duy engineer). Dũng kèm cặp trước buổi rehearsal cuối.
+Tuấn (trưởng nhóm kỹ thuật) sẽ chạy demo. Bản năng của Tuấn là trình diễn toàn bộ danh sách tính năng (tư duy kỹ sư). Dũng kèm cặp trước buổi tập dượt cuối.
 
 ---
 
 ## Hội thoại XẤU — liệt kê tính năng
 
-*rehearsal*
+*tập dượt*
 
 | Vai | Câu |
 |---------|-----|
@@ -80,11 +80,11 @@ Tuấn (tech lead) sẽ chạy demo. Bản năng của Tuấn là trình diễn 
 
 ## Tránh
 
-- Tour liệt kê tính năng ("メニューがここに、ボタンがここに")
+- Đi liệt kê tính năng ("メニューがここに、ボタンがここに")
 - Nhân vật đại diện không tên / không bối cảnh — mạch demo tan loãng
 - Demo > 5 phút — đối tượng nghe mất tập trung
 - Gọi API trực tiếp mà không có bản dự phòng ngoại tuyến (xem rule 07)
-- Thiếu Recap → người nghe không nắm "đã được gì"
+- Thiếu phần tóm tắt lại → người nghe không nắm "đã được gì"
 - Người đồng trình bày ứng biến tùy hứng → thuật ngữ kỹ thuật ngược / thiếu ăn khớp
 
 ---

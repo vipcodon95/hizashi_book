@@ -43,7 +43,7 @@
  **Ghi chú:**
 - 【1】**両手で角を持つ** — 2 ngón cái + trỏ giữ 2 góc dưới. KHÔNG che chữ in trên danh thiếp. KHÔNG cầm chính giữa.
 - 【2】**「頂戴いたします」** — câu cố định khi nhận danh thiếp. KHÔNG dùng「ありがとうございます」(quá nhẹ) hay「もらいます」(quá thường).
-- 【3】**Đọc lại tên + chức vụ** — xác nhận đã đọc, đã ghi nhớ. Cũng giúp mình phát âm đúng tên khách trong meeting.
+- 【3】**Đọc lại tên + chức vụ** — xác nhận đã đọc, đã ghi nhớ. Cũng giúp mình phát âm đúng tên khách trong cuộc họp.
 
 ---
 

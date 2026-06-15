@@ -10,18 +10,18 @@
 
 ## Bối cảnh / 場面
 
-Nhận được phản hồi OK cho mail tóm tắt. Tuấn đề xuất "LOI khỏi cần, làm bản thảo hợp đồng luôn cho nhanh". Hương phủ định — Phase 3 ¥17M qua ringi 5/7, LOI là cây cầu giữa miệng và hợp đồng chính thức.
+Nhận được phản hồi OK cho mail tóm tắt. Tuấn đề xuất "LOI khỏi cần, làm bản thảo hợp đồng luôn cho nhanh". Hương phủ định — Phase 3 ¥17M qua ringi 5/7, LOI là cầu nối giữa thỏa thuận miệng và hợp đồng chính thức.
 
 ---
 
-## Hội thoại XẤU — skip LOI, jump to full contract
+## Hội thoại XẤU — bỏ qua LOI, nhảy thẳng hợp đồng đầy đủ
 
 *Slack 内部 · 困*
 
 | Vai | Câu |
 |---------|-----|
-| **トゥアン** | 「ズン、recap OK 来たし、<ruby>契約書<rt>けいやくしょ</rt></ruby>ドラフトを<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>送<rt>おく</rt></ruby>ろう。LOI <ruby>余計<rt>よけい</rt></ruby>な<ruby>工程<rt>こうてい</rt></ruby>じゃない？」 <br/>*Dũng, recap OK rồi, gửi contract draft thẳng đi. LOI có phải bước thừa không?* |
-| **ズン** | 「では契約書 v1 を<ruby>作成<rt>さくせい</rt></ruby>して<ruby>大垣<rt>おおがき</rt></ruby>様に送ります。」 <br/>*Vâng, em sẽ làm contract v1 gửi anh Ōgaki ạ.* |
+| **トゥアン** | 「ズン、recap OK 来たし、<ruby>契約書<rt>けいやくしょ</rt></ruby>ドラフトを<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>送<rt>おく</rt></ruby>ろう。LOI <ruby>余計<rt>よけい</rt></ruby>な<ruby>工程<rt>こうてい</rt></ruby>じゃない？」 <br/>*Dũng, mail tóm tắt OK rồi, gửi bản thảo hợp đồng thẳng đi. LOI có phải bước thừa không?* |
+| **ズン** | 「では契約書 v1 を<ruby>作成<rt>さくせい</rt></ruby>して<ruby>大垣<rt>おおがき</rt></ruby>様に送ります。」 <br/>*Vâng, em sẽ làm bản thảo hợp đồng v1 gửi anh Ōgaki ạ.* |
 | (2 週間後) **大垣** | 「ズン様、契約書 v1 <ruby>拝見<rt>はいけん</rt></ruby>しました。**ところで<ruby>価格<rt>かかく</rt></ruby> ¥17M は<ruby>税込<rt>ぜいこみ</rt></ruby>ですよね？**」 <br/>*Anh Dũng, đã xem contract v1. À mà giá ¥17M là đã bao gồm thuế đúng không?* |
 | **ズン** | 「いえ、<ruby>税抜<rt>ぜいぬき</rt></ruby>で recap メールに<ruby>記載<rt>きさい</rt></ruby>しております…」 <br/>*Dạ không, em ghi 'chưa thuế' trong recap mail rồi ạ...* |
 | **大垣** | 「**社内では税込<ruby>前提<rt>ぜんてい</rt></ruby>で<ruby>稟議<rt>りんぎ</rt></ruby>が動いており**、ここから<ruby>差額<rt>さがく</rt></ruby>で<ruby>再交渉<rt>さいこうしょう</rt></ruby>になります…」 <br/>*Bên anh ringi đang chạy theo giả định 'đã thuế', từ đây phần chênh lệch sẽ phải re-negotiate...* |
@@ -30,7 +30,7 @@ Nhận được phản hồi OK cho mail tóm tắt. Tuấn đề xuất "LOI kh
 
 ---
 
-## Hội thoại TỐT — LOI 1-2 trang ký trước contract draft
+## Hội thoại TỐT — LOI 1-2 trang ký trước bản nháp hợp đồng
 
 *Slack · Slack Hương*
 
@@ -43,7 +43,7 @@ Nhận được phản hồi OK cho mail tóm tắt. Tuấn đề xuất "LOI kh
 | **ズン** | 「LOI 捺印戻り完了。次は本契約書 draft v1 を 4 週間以内に。条項面の調整に集中できます【3】。」 |
 
  **Ghi chú:**
-- 【1】**LOI 6 mục** = 価格 (税抜明記) / 期間 / phạm vi tóm tắt / SLA / 支払条件 / 効力発生日. Điều khoản chi tiết (bồi thường thiệt hại, IP chi tiết, hủy hợp đồng) chuyển sang hợp đồng chính.
+- 【1】**LOI 6 mục** = Giá (ghi rõ chưa thuế) / Kỳ hạn / Phạm vi tóm tắt / SLA / Điều kiện thanh toán / Ngày có hiệu lực. Điều khoản chi tiết (bồi thường thiệt hại, IP chi tiết, hủy hợp đồng) chuyển sang hợp đồng chính.
 - 【2】**LOI → hợp đồng chính trong 4 tuần** = kiểm soát nhịp độ. LOI 1 trang là nền tảng cho hợp đồng chính 30 trang.
 - 【3】**LOI đã chốt điều khoản thương mại** → đàm phán hợp đồng chính chỉ còn về "điều khoản chi tiết". Không mở lại phần thương mại (chuyển sang rule 33).
 
@@ -60,9 +60,9 @@ Nhận được phản hồi OK cho mail tóm tắt. Tuấn đề xuất "LOI kh
 ## Tránh
 
 - Tư duy "LOI là bước thừa" → 4 tuần soạn hợp đồng mà có 1 điều khoản bất đồng = mở lại toàn bộ
-- LOI không ghi rõ đã hay chưa gồm thuế → bẫy 100%
+- LOI không ghi rõ giá đã hay chưa gồm thuế → bẫy 100%
 - LOI gửi mà không qua pháp chế xem lại → lỗi chữ / cách diễn đạt sau này thành vấn đề diễn giải ràng buộc
-- LOI gửi xong để cả tháng không theo → hết hiệu lực / nguội dần; ghi rõ **hạn đóng dấu 2 tuần**
+- LOI gửi xong để cả tháng không theo dõi → hết hiệu lực / nguội dần; ghi rõ **hạn đóng dấu 2 tuần**
 
 ---
 

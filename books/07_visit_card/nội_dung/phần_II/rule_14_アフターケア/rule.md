@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Sáng hôm sau visit (ngày D+1, 9:00). Linh đã làm xong 24h memo (rule 07). Hương 副部長 kiểm tra bản nháp mail và gửi từ tài khoản chính chủ.
+Sáng hôm sau buổi thăm (ngày D+1, 9:00). Linh đã làm xong ghi chú 24h (rule 07). Hương 副部長 kiểm tra bản nháp mail và gửi từ tài khoản chính chủ.
 
 ---
 
@@ -20,9 +20,9 @@ Sáng hôm sau visit (ngày D+1, 9:00). Linh đã làm xong 24h memo (rule 07). 
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオンさん、<ruby>白鷗<rt>はくおう</rt></ruby> visit のお<ruby>礼<rt>れい</rt></ruby>メール、まだ<ruby>送<rt>おく</rt></ruby>ってないですね…」 <br/>*Chị Hương, mail cảm ơn 白鷗 visit chưa gửi đúng không ạ...* |
+| **ズン** | 「フオンさん、<ruby>白鷗<rt>はくおう</rt></ruby> visit のお<ruby>礼<rt>れい</rt></ruby>メール、まだ<ruby>送<rt>おく</rt></ruby>ってないですね…」 <br/>*Chị Hương, mail cảm ơn buổi thăm 白鷗 chưa gửi đúng không ạ...* |
 | **フオン副部長** | 「あ、<ruby>忘<rt>わす</rt></ruby>れてた。リンさん、generic で<ruby>送<rt>おく</rt></ruby>って。」 <br/>*À, quên mất. Linh, em gửi email sáo rỗng đi.* |
-| **リン** | 「**【<ruby>件名<rt>けんめい</rt></ruby>】<ruby>昨日<rt>きのう</rt></ruby>はありがとうございました ← visit 3日前なのに『昨日』...** 本文: 先日はお<ruby>越<rt>こ</rt></ruby>しいただきありがとうございました。今後ともよろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。」 <br/>*Tiêu đề 'Hôm qua cảm ơn anh', body 'Hôm trước cảm ơn anh đã đến. Mong tiếp tục hợp tác'.* |
+| **リン** | 「**【<ruby>件名<rt>けんめい</rt></ruby>】<ruby>昨日<rt>きのう</rt></ruby>はありがとうございました ← visit 3日前なのに『昨日』...** 本文: 先日はお<ruby>越<rt>こ</rt></ruby>しいただきありがとうございました。今後ともよろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。」 <br/>*Tiêu đề 'Hôm qua cảm ơn anh', nội dung thư 'Hôm trước cảm ơn anh đã đến. Mong tiếp tục hợp tác'.* |
 | **フオン副部長** | 「OK 送って。」 <br/>*OK gửi đi.* |
 
 **Vì sao xấu:** (1) D+3 = quá muộn, "độ tươi" đã chết. (2) "昨日" sai ngày. (3) Body 1 dòng sáo rỗng = không nhắc lại gì cụ thể = "tôi không thực sự để ý anh nói gì".

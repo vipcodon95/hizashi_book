@@ -68,7 +68,7 @@ Sau khi cúi chào đón tại tiền sảnh (rule 08), Dũng dẫn 3 khách 大
 - Đứng **giữa** thang máy / chắn cửa → đứng cạnh bảng nút
 - **Không gõ cửa** phòng họp dù phòng trống → luôn gõ 2 lần
 - Mở cửa rồi **bước vào trước** khách → giữ cửa, khách vào trước
-- **Im lặng** suốt đường đi → có thể chêm "thời tiết" / "Tokyo はいかがでしたか" small talk nhẹ
+- **Im lặng** suốt đường đi → có thể chêm "thời tiết" / "Tokyo はいかがでしたか" trò chuyện phiến nhẹ
 
 ---
 

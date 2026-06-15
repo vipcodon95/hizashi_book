@@ -1,8 +1,8 @@
 # Rule 35 — Rút lui đàm phán phong nhã / 商談打ち切り
 
-> **Luận điểm.** Khi điều kiện không thể thỏa thuận được → rút lui (walk-away). KHÔNG nói 「お断りします」 cứng. Câu chuẩn: 「**条件面で折り合いがつかず、今回は誠に残念ながら見送りとさせていただきます**」 + 「**ご縁がございましたら**」 để giữ cánh cửa quan hệ. Trong kinh doanh Nhật: quan hệ dài hạn quan trọng hơn một thương vụ đơn lẻ — rút lui phong nhã = cơ hội lần sau.
+> **Luận điểm.** Khi điều kiện không thể thỏa thuận được → rút lui. KHÔNG nói 「お断りします」 cứng. Câu chuẩn: 「**条件面で折り合いがつかず、今回は誠に残念ながら見送りとさせていただきます**」 + 「**ご縁がございましたら**」 để giữ cánh cửa quan hệ. Trong kinh doanh Nhật: quan hệ dài hạn quan trọng hơn một thương vụ đơn lẻ — rút lui phong nhã = cơ hội lần sau.
 >
-> 条件 bắc cầu 不可で打ち切る場合、「お断り」 cứng は relationship 切断。「条件面で折り合いがつかず」+「ご縁がございましたら」で giữ thể diện và duy trì quan hệ.
+> 条件 不一致で打ち切る場合、「お断り」 cứng は relationship 切断。「条件面で折り合いがつかず」+「ご縁がございましたら」で giữ thể diện và duy trì quan hệ.
 >
 > **Liên quan:** rule 28 (撤退作法), rule 36 (post-deal挨拶).
 
@@ -23,7 +23,7 @@ Phase 3 vòng 4: 大垣 thúc ép mức cuối ¥14M (dưới ngưỡng rút lui
 | **大垣** | 「<ruby>最終<rt>さいしゅう</rt></ruby> ¥14M でお<ruby>願<rt>ねが</rt></ruby>いします。これ<ruby>以上<rt>いじょう</rt></ruby>は<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>難<rt>むずか</rt></ruby>しい。」 <br/>*Cuối cùng ¥14M nhé. Hơn nữa thì bên anh khó.* |
 | **ズン** | 「¥14M では<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>利益<rt>りえき</rt></ruby>が<ruby>出<rt>で</rt></ruby>ません。**お<ruby>断<rt>ことわ</rt></ruby>りします**。」 <br/>*¥14M thì bên em không có lợi. Em xin từ chối.* |
 | **大垣** | 「…そうですか。では、<ruby>本日<rt>ほんじつ</rt></ruby>はここまでということで。」 <br/>*...Vậy à. Vậy hôm nay đến đây thôi.* |
-| (3 ヶ月後 Phase 4 案件発生時) **大垣** | (社内: 「ティエンファットは 1 ラウンドで<ruby>打<rt>う</rt></ruby>ち<ruby>切<rt>き</rt></ruby>る<ruby>会社<rt>かいしゃ</rt></ruby>」と<ruby>評価<rt>ひょうか</rt></ruby>) → <ruby>入札不参加<rt>にゅうさつふさんか</rt></ruby> <br/>*(3 tháng sau khi có vụ Phase 4) Trong nội bộ đánh giá: "Tiên Phát là công ty walk-away ngay vòng 1" → không cho tham gia đấu thầu.* |
+| (3 ヶ月後 Phase 4 案件発生時) **大垣** | (社内: 「ティエンファットは 1 ラウンドで<ruby>打<rt>う</rt></ruby>ち<ruby>切<rt>き</rt></ruby>る<ruby>会社<rt>かいしゃ</rt></ruby>」と<ruby>評価<rt>ひょうか</rt></ruby>) → <ruby>入札不参加<rt>にゅうさつふさんか</rt></ruby> <br/>*(3 tháng sau khi có vụ Phase 4) Trong nội bộ đánh giá: "Tiên Phát là công ty bỏ bàn ngay vòng 1" → không cho tham gia đấu thầu.* |
 
 **Vì sao xấu:** "お断りします" cứng + không có câu đệm → khách cảm thấy bị từ chối ở mức cá nhân. Doanh nghiệp Nhật ghi nhớ dài 5-10 năm. 1 vụ rút lui vụng về có thể cắt 3-5 vụ tiếp theo. Mất luôn Phase 4 trị giá ¥30M.
 
@@ -44,10 +44,10 @@ Phase 3 vòng 4: 大垣 thúc ép mức cuối ¥14M (dưới ngưỡng rút lui
 | (1 週間後) **大垣** | 「ズン<ruby>様<rt>さま</rt></ruby>、<ruby>社内<rt>しゃない</rt></ruby>で<ruby>予算<rt>よさん</rt></ruby>を ¥15.5M まで<ruby>引<rt>ひ</rt></ruby>き<ruby>上<rt>あ</rt></ruby>げました。<ruby>再度<rt>さいど</rt></ruby> negotiation お<ruby>願<rt>ねが</rt></ruby>いできますか？」 <br/>*(1 tuần sau) Anh Dũng, bên anh đã tăng ngân sách nội bộ lên ¥15.5M. Mình đàm phán lại được không?* |
 
  **Ghi chú:**
-- 【1】**「条件面で折り合いがつかず」** = đổ lỗi cho "条件" trừu tượng chứ không phải "貴社". Giữ thể diện cả 2 bên.
-- 【2】**Cách diễn đạt 「品質維持困難」** = rút lui là vì "御社のため" (vì lợi ích bên anh) chứ không phải tham. Đảo ngược thế cờ.
+- 【1】**「条件面で折り合いがつかず」** = đổ lỗi cho "điều kiện" trừu tượng chứ không phải "quý công ty". Giữ thể diện cả 2 bên.
+- 【2】**Cách diễn đạt 「品質維持困難」** = rút lui là vì "vì lợi ích bên anh" chứ không phải vì tham. Đảo ngược thế cờ.
 - 【3】**「ご縁がございましたら」** = câu then chốt mở cánh cửa tương lai. Người Nhật nhớ quan hệ 5-10 năm.
-- L6-L7 điểm cộng: rút lui phong nhã đôi khi kích hoạt việc khách tự điều chỉnh lại ngân sách. Nếu "không" cứng thì không có cơ hội này.
+- Điểm cộng: rút lui phong nhã đôi khi kích hoạt việc khách tự điều chỉnh lại ngân sách. Nếu từ chối cứng thì không có cơ hội này.
 
 ---
 

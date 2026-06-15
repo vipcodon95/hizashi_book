@@ -1,11 +1,11 @@
 # Phụ lục D — Template Tổng Hợp / テンプレート集
 
-*Tổng hợp các mẫu (chương trình, biên bản, mail) đính kèm trong các rules. Copy-paste để dùng.*
+*Tổng hợp các mẫu (chương trình, biên bản, mail) đính kèm trong các rules. Sao chép để dùng.*
 
 ---
 
 
-## Email follow-up (1 mẫu)
+## Email theo dõi (1 mẫu)
 
 ### Rule 28 — Mail theo dõi sau buổi thuyết trình (bản chi tiết)
 
@@ -55,7 +55,7 @@ EMAIL: zun@tienphat.vn
 --------------------
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
 Subject: 【Cảm ơn】Vấn đề đề xuất Phase 3 (Thiên Phát — Dũng)
@@ -82,8 +82,8 @@ Hôm nay quý vị bận rộn vẫn dành thời gian cho buổi đề xuất P
 ③ Trước 15/5: sign-off hợp đồng (qua pháp chế hai bên)
 
 [Tài liệu đính kèm]
-- Slide hôm nay (PDF) — link Drive read-only [URL]
-- Memo họp (PDF) — cùng link
+- Slide hôm nay (PDF) — liên kết Drive chỉ-xem [URL]
+- Memo họp (PDF) — cùng liên kết
 
 [Vấn đề mang về xem xét]
 - Tích hợp SOAP→REST + chi tiết flow OAuth 2.0
@@ -101,13 +101,13 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
 --------------------
 ```
 
- **Ghi chú VN:** Thời điểm gửi: Trong ngày thuyết trình — xác nhận ngắn (link slide + hạn chót 持ち帰り) → sáng ngày làm việc kế tiếp gửi mẫu này. Bản chi tiết thứ Hai nhớ CC CTO + trưởng nhóm kỹ thuật + phó phòng.
+ **Ghi chú VN:** Thời điểm gửi: Trong ngày thuyết trình — xác nhận ngắn (liên kết slide + hạn chót 持ち帰り) → sáng ngày làm việc kế tiếp gửi mẫu này. Bản chi tiết thứ Hai nhớ CC CTO + trưởng nhóm kỹ thuật + phó phòng.
  **Ghi chú JP:** 送付タイミング: ピッチ当日中に short ack (slide link + 持ち帰り deadline) → 翌営業日朝に本テンプレ送付。月曜詳細版には CTO+技術リード+副部長を CC。
 
 
-## Checklist (4 mẫu)
+## Danh sách kiểm tra (4 mẫu)
 
-### Rule 01 — Checklist Chuẩn Bị Thuyết Trình (7 câu)
+### Rule 01 — Danh sách kiểm tra Chuẩn Bị Thuyết Trình (7 câu)
 
 *JP: プレゼン準備チェックリスト(7問)*
 
@@ -150,10 +150,10 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
    - インターネット: モバイルテザリング
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
-[Checklist Chuẩn Bị Thuyết Trình]
+[Danh sách kiểm tra Chuẩn Bị Thuyết Trình]
 
 ① CHO AI? (Khán giả)
    - Đối tượng chính: ____ (chức vụ / cty / quan hệ)
@@ -172,7 +172,7 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
 
 ④ ĐỊA ĐIỂM
    - Trực tiếp / trực tuyến / kết hợp
-   - Thiết bị: PC / projector / mic
+   - Thiết bị: PC / máy chiếu / mic
    - Test kết nối: ____ (thời gian)
 
 ⑤ KẾT QUẢ MONG ĐỢI
@@ -186,7 +186,7 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
    - Rủi ro 3: ____ → đối sách: ____
 
 ⑦ DỰ PHÒNG (Plan B)
-   - Slide: PDF dự phòng USB + cloud
+   - Slide: PDF dự phòng USB + đám mây
    - Demo: phiên bản offline
    - Internet: chia sẻ mạng 4G/5G
 ```
@@ -194,7 +194,7 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
  **Ghi chú VN:** Bắt buộc điền trước khi mở PowerPoint. Cấp trên duyệt rồi mới bắt đầu thiết kế. Bỏ ra 5-10 phút để tránh làm lại nửa ngày.
  **Ghi chú JP:** PowerPoint を開く前に必ず埋める。Senior レビュー後 → 設計開始。5-10分の投資で半日のやり直しを防ぐ。
 
-### Rule 04 — Checklist Visual Hierarchy
+### Rule 04 — Danh sách kiểm tra Phân cấp thị giác
 
 *JP: 視覚階層チェックリスト*
 
@@ -228,36 +228,36 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
 □ 画面共有確認: オンライン参加者の画面でテスト
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
-[Checklist Visual Hierarchy]
+[Danh sách kiểm tra Phân cấp thị giác]
 
-[Font size]
-- Title 32-40pt (Bold)
-- Sub-message 24-28pt
-- Body (Bullet / luận cứ) 20-24pt
-- Chart label tối thiểu 18pt (NG: dưới 14pt)
-- Footer / page number 12-14pt
+[Cỡ chữ]
+- Tiêu đề 32-40pt (Bold)
+- Tiêu đề phụ 24-28pt
+- Thân (Bullet / luận cứ) 20-24pt
+- Nhãn biểu đồ tối thiểu 18pt (NG: dưới 14pt)
+- Footer / số trang 12-14pt
 
-[Font]
+[Phông chữ]
 - Thống nhất: Meiryo / Yu Gothic / Noto Sans JP
 - CẤM MS Mincho / MS Gothic (cũ + bị mờ)
-- Font Latin: Arial / Helvetica / Segoe UI
+- Phông chữ Latin: Arial / Helvetica / Segoe UI
 
-[Layout]
-- Alignment căn trái (chỉ heading dùng center)
-- Line spacing 1.3-1.5
-- Margin trên dưới trái phải tối thiểu 5%
+[Bố cục]
+- Căn trái (chỉ tiêu đề dùng căn giữa)
+- Giãn dòng 1.3-1.5
+- Lề trên dưới trái phải tối thiểu 5%
 
-[Contrast & color]
-- Contrast ratio chữ vs nền >= 4.5:1
+[Độ tương phản & màu sắc]
+- Tỉ lệ tương phản chữ vs nền >= 4.5:1
 - Nền trắng hoặc xám nhạt (#F5F5F5)
-- Bold tối đa 3 chỗ / slide
+- In đậm tối đa 3 chỗ / slide
 
-[Test thực tế]
-- Test projector: đọc được từ hàng cuối
-- Test chia sẻ màn hình: kiểm tra trên màn của người tham dự trực tuyến
+[Kiểm tra thực tế]
+- Kiểm tra máy chiếu: đọc được từ hàng cuối
+- Kiểm tra chia sẻ màn hình: xem trên màn của người tham dự trực tuyến
 ```
 
  **Ghi chú VN:** Bắt buộc kiểm tra thực tế trước khi tập dượt. Đọc không được ở hàng cuối / chia sẻ màn hình = FAIL.
@@ -309,31 +309,31 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
 □ Q&A appendix スライド再確認
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
-[Checklist Plan B Pitch] (24h trước + sáng ngày pitch)
+[Danh sách kiểm tra Plan B Pitch] (24h trước + sáng ngày pitch)
 
 [Slide]
-- File gốc PowerPoint/Keynote: cloud + local
-- Bản PDF: USB×2 + local + cloud
-- Google Slides Web backup
+- File gốc PowerPoint/Keynote: đám mây + máy tính
+- Bản PDF: USB×2 + máy tính + đám mây
+- Google Slides Web dự phòng
 - Bản in: chỉ slide chính 5-10 bản
 
 [Demo]
 - Demo offline (local DB / mock data)
-- Demo bản ghi hình (.mp4 USB+local) — cuối cùng của cuối cùng
-- Test account demo: kiểm tra chạy được
+- Demo bản ghi hình (.mp4 USB+máy tính) — cuối cùng của cuối cùng
+- Tài khoản demo: kiểm tra chạy được
 
-[Network]
+[Mạng]
 - Tethering 4G/5G bật sẵn
 - Pocket Wi-Fi sạc đầy (dự phòng)
-- Bật offline priority mode
+- Bật chế độ ưu tiên offline
 
 [Thiết bị]
 - Cáp HDMI
 - Adapter USB-C → HDMI / VGA
-- Lightning → HDMI (iPad backup)
+- Lightning → HDMI (iPad dự phòng)
 - Sạc + dây nối dài
 - Laser pointer (pin dự phòng)
 
@@ -342,15 +342,15 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
 - In slide chính 5 bản
 - Brochure / case study 5 bản
 
-[Redundancy team]
-- Co-presenter cũng giữ 1 USB
+[Dự phòng nhóm]
+- Người đồng trình bày cũng giữ 1 USB
 - Gửi PDF bộ slide qua Slack cho nhau
-- Note liên hệ phòng hờ (khách sạn / hãng taxi)
+- Ghi chú liên hệ phòng hờ (khách sạn / hãng taxi)
 
-[Sáng ngày pitch — final]
-- Test connect đủ thiết bị
-- Test audio / screen share
-- Re-check appendix slide cho Q&A
+[Sáng ngày pitch — chốt cuối]
+- Kiểm tra kết nối đủ thiết bị
+- Kiểm tra âm thanh / chia sẻ màn hình
+- Kiểm tra lại slide phụ lục cho Q&A
 ```
 
  **Ghi chú VN:** Kiểm tra 2 lần: 24h trước + sáng ngày. Tất cả 5 điểm  thì mới lên đường. Còn sót 1 điểm thì mang theo xử lý sau.
@@ -402,22 +402,22 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
 - ____
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
-[Checklist Tự Đánh Giá Thuyết Trình] (12 mục / 30 phút)
+[Danh sách kiểm tra Tự Đánh Giá Thuyết Trình] (12 mục / 30 phút)
 
 Thang điểm: 1=cần cải thiện / 2=chưa đủ / 3=trung bình / 4=tốt / 5=xuất sắc
 
 [Chuẩn bị] — 3 mục
-- 1. Đã điền checklist 7 câu chưa (rule 01)                _/5
+- 1. Đã điền danh sách kiểm tra 7 câu chưa (rule 01)      _/5
 - 2. Có giữ 1-slide-1-message không (rule 02)              _/5
 - 3. Có Plan B (PDF/tài liệu phát tay/hotspot) chưa (rule 07) _/5
 
 [Trình bày] — 4 mục
 - 4. Mở đầu 30 giây có lấy được sự chú ý không (rule 08)  _/5
 - 5. Có giữ đúng hẹn thời gian không (rule 13)            _/5
-- 6. Có dùng từ đánh dấu logic không (rule 14)            _/5
+- 6. Có dùng từ đánh dấu mạch lập luận không (rule 14)    _/5
 - 7. Giao tiếp bằng mắt đều không (rule 30 - 50/50)       _/5
 
 [Q&A] — 3 mục
@@ -426,7 +426,7 @@ Thang điểm: 1=cần cải thiện / 2=chưa đủ / 3=trung bình / 4=tốt /
 - 10. Câu dẫn hướng với câu hỏi đối nghịch (rule 25)     _/5
 
 [Kết thúc + Theo dõi] — 2 mục
-- 11. Recap 3 + CTA 3 (rule 26)                          _/5
+- 11. Tóm tắt 3 + CTA 3 (rule 26)                       _/5
 - 12. Mail xác nhận trong 24h (rule 28)                  _/5
 
 ----------------------------
@@ -489,10 +489,10 @@ Tổng: __/60     Trung bình: __/5
 - 移行失敗時: 旧環境 parallel 3ヶ月
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
-[Roadmap dự án] (Phase X)
+[Lộ trình dự án] (Phase X)
 
 [Tóm tắt Gantt]
                     5월  6월  7월  8월  9월  10월 11월 12월
@@ -524,7 +524,7 @@ Tổng: __/60     Trung bình: __/5
 - Migrate fail: chạy song song env cũ 3 tháng
 ```
 
- **Ghi chú VN:** Gantt vẽ đậm để projector đọc được. Mốc 5±2 cái. Vùng đệm 5-10% lịch thực. Điều kiện tiên quyết phải đưa vào hợp đồng.
+ **Ghi chú VN:** Gantt vẽ đậm để máy chiếu đọc được. Mốc 5±2 cái. Vùng đệm 5-10% lịch thực. Điều kiện tiên quyết phải đưa vào hợp đồng.
  **Ghi chú JP:** Gantt は projector でも判読できるよう太め。Milestone 5±2 個。Buffer は実工期の 5-10%。前提条件は契約書にも反映。
 
 

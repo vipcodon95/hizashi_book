@@ -30,9 +30,9 @@ Trong phòng đàm phán, sau khi Dũng báo ¥18M anchor (rule 18), 大垣 im l
 
 ---
 
-## Hội thoại TỐT — sustained silence + signal trong team
+## Hội thoại TỐT — giữ khoảng im lặng + tín hiệu trong nhóm
 
-*右手を膝に置く — 事前合意の signal rule 07 · 沈黙 1 秒 · 口開きかけ、ズン signal 確認、止まる · 沈黙 3 秒 · 沈黙 5 秒 · 7 秒経過 · 内心: 7 秒勝った*
+*右手を膝に置く — 事前合意の tín hiệu rule 07 · 沈黙 1 秒 · 口開きかけ、ズン tín hiệu 確認、止まる · 沈黙 3 秒 · 沈黙 5 秒 · 7 秒経過 · 内心: 7 秒勝った*
 
 | Vai | Câu |
 |---------|-----|
@@ -46,18 +46,18 @@ Trong phòng đàm phán, sau khi Dũng báo ¥18M anchor (rule 18), 大垣 im l
 | **ズン** | 「ありがとうございます。それでは scope <ruby>調整案<rt>ちょうせいあん</rt></ruby>と contract length <ruby>案<rt>あん</rt></ruby>、<ruby>両方<rt>りょうほう</rt></ruby>ご<ruby>用意<rt>ようい</rt></ruby>します。」 <br/>*Em cảm ơn ạ. Vậy em chuẩn bị cả phương án điều chỉnh scope lẫn contract length ạ.* |
 
  **Ghi chú:**
-- 【1】**大垣 phá im lặng trước = tiến tới bằng nhượng bộ** ("scope か contract length"). Đây là sự dịch chuyển lợi thế về phía Dũng.
-- **沈黙 7 秒 = mục tiêu luyện tập**. Cảm giác ban đầu mỗi giây như 5 giây. Luyện trước gương / với người đi trước.
-- **Hiệu tay trong nhóm** (rule 07) cực quan trọng — không có dấu hiệu thì thành viên ít kinh nghiệm sẽ nói lấp.
-- Khi mình đưa đề nghị + im lặng, ánh mắt giữ trung tính, không "đợi mong khách trả lời". Giọng điệu tự tin.
+- 【1】**大垣 phá khoảng im lặng trước = tiến tới bằng nhượng bộ** (về "phạm vi hay thời hạn hợp đồng"). Đây là sự dịch chuyển lợi thế về phía Dũng.
+- **Khoảng im lặng 7 giây = mục tiêu luyện tập**. Cảm giác ban đầu mỗi giây như 5 giây. Luyện trước gương / với người đi trước.
+- **Hiệu tay trong nhóm** (rule 07) cực quan trọng — không có tín hiệu thì thành viên ít kinh nghiệm sẽ nói lấp.
+- Khi mình đưa đề nghị + im lặng, ánh mắt giữ trung tính, không "đợi mong khách trả lời". Tông giọng tự tin.
 
 ---
 
 ## Câu chốt
 
-> **「Offer 後 7 秒沈黙。最初に話した方が譲歩する。team signal で junior の口を封じる。」**
+> **「Offer 後 7 秒沈黙。最初に話した方が譲歩する。nhóm tín hiệu で junior の口を封じる。」**
 >
-> *Sau khi đưa đề nghị, im 7 giây. Ai phá im lặng trước = nhượng. Ra hiệu tay cho nhóm để thành viên ít kinh nghiệm khỏi nói lấp.*
+> *Sau khi đưa đề nghị, im 7 giây. Ai phá khoảng im lặng trước = nhượng. Ra tín hiệu tay cho nhóm để thành viên ít kinh nghiệm khỏi nói lấp.*
 
 ---
 

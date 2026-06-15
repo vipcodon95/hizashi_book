@@ -35,7 +35,7 @@ Dũng đang hoàn thiện bộ slide. Đến slide cuối — chuẩn bị làm 
 |---------|-----|
 | **ズン** | 「**4<ruby>要素<rt>ようそ</rt></ruby>入りの<ruby>謝辞<rt>しゃじ</rt></ruby>スライド** に変更しました【1】。①<ruby>御礼<rt>おれい</rt></ruby>、②本日の3点 recap、③<ruby>連絡先<rt>れんらくさき</rt></ruby>、④deck PDF の QR コード。」 <br/>*Em đã đổi sang slide cảm ơn có 4 thành phần ạ. ① Cảm ơn, ② tóm tắt lại 3 điểm hôm nay, ③ thông tin liên hệ, ④ mã QR dẫn về bộ slide PDF ạ.* |
 | **トゥアン** | 「いいね、QR は何先？Drive <ruby>直<rt>ちょく</rt></ruby>リンク？」 <br/>*Tốt, mã QR dẫn đến đâu? Liên kết trực tiếp Drive à?* |
-| **ズン** | 「Drive **<ruby>閲覧専用<rt>えつらんせんよう</rt></ruby>** リンクの QR です【2】。**ダウンロード<ruby>可<rt>か</rt></ruby>、<ruby>編集不可<rt>へんしゅうふか</rt></ruby>**。Tanaka PMO 様にも同じリンク Slack で<ruby>共有予定<rt>きょうゆうよてい</rt></ruby>です。」 <br/>*Mã QR đến link Drive chỉ xem thôi ạ. Tải về được, không chỉnh sửa được. Em cũng chia sẻ cùng link đó qua Slack cho anh Tanaka PMO ạ.* |
+| **ズン** | 「Drive **<ruby>閲覧専用<rt>えつらんせんよう</rt></ruby>** リンクの QR です【2】。**ダウンロード<ruby>可<rt>か</rt></ruby>、<ruby>編集不可<rt>へんしゅうふか</rt></ruby>**。Tanaka PMO 様にも同じリンク Slack で<ruby>共有予定<rt>きょうゆうよてい</rt></ruby>です。」 <br/>*Mã QR đến đường dẫn Drive chỉ xem thôi ạ. Tải về được, không chỉnh sửa được. Em cũng chia sẻ cùng đường dẫn đó qua Slack cho anh Tanaka PMO ạ.* |
 | **トゥアン** | 「連絡先は<ruby>弊社<rt>へいしゃ</rt></ruby>2名 (ズン＋ハーCTO) でいいけど、**<ruby>営業時間<rt>えいぎょうじかん</rt></ruby>** 書いとけよ。客が<ruby>深夜<rt>しんや</rt></ruby>メールで<ruby>気<rt>き</rt></ruby>を<ruby>遣<rt>つか</rt></ruby>わない様に。」 <br/>*Thông tin liên hệ bên mình 2 người (Dũng + Hà CTO) là OK, nhưng ghi giờ làm việc vào. Để khách không phải ngại khi gửi mail đêm khuya.* |
 | **ズン** | 「『9:00-18:00 (JST)』<ruby>追記<rt>ついき</rt></ruby>します【3】。」 <br/>*Em thêm 「9:00-18:00 (JST)」 ạ.* |
 
@@ -79,7 +79,7 @@ Dũng đang hoàn thiện bộ slide. Đến slide cuối — chuẩn bị làm 
 
 - Slide cảm ơn trống → lãng phí 5-10 phút chiếu màn hình
 - Email cá nhân (gmail) → thiếu chuyên nghiệp → dùng tên miền công ty
-- QR link công khai → ai cũng truy cập được → lộ bộ slide
+- QR đường dẫn công khai → ai cũng truy cập được → lộ bộ slide
 - Quên 営業時間 → khách gửi mail 22h thấy ngại
 - Ảnh chân dung người trình bày → không cần thiết, gây xao nhãng
 

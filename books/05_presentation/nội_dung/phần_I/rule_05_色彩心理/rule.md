@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Dũng dùng khung mẫu rực rỡ — title đỏ, phần thân xanh lá, màu nhấn cam, biểu đồ 7 màu cầu vồng. Hương xem buổi diễn thử → ngay lập tức cản. Khách Hakuō là 老舗 (cty lâu đời) → bảng màu phải phù hợp.
+Dũng dùng khung mẫu rực rỡ — tiêu đề đỏ, phần thân xanh lá, màu nhấn cam, biểu đồ 7 màu cầu vồng. Hương xem buổi diễn thử → ngay lập tức cản. Khách Hakuō là 老舗 (cty lâu đời) → bảng màu phải phù hợp.
 
 ---
 
@@ -20,12 +20,12 @@ Dũng dùng khung mẫu rực rỡ — title đỏ, phần thân xanh lá, màu 
 
 | Vai | Câu |
 |---------|-----|
-| **フオン** | 「うわ、目が痛い。タイトル**赤**？」 <br/>*Ối, chói mắt. Title đỏ à?* |
+| **フオン** | 「うわ、目が痛い。タイトル**赤**？」 <br/>*Ối, chói mắt. Tiêu đề đỏ à?* |
 | **ズン** | 「目立つかと思って…緑と<ruby>橙<rt>だいだい</rt></ruby>でアクセント入れました。」 <br/>*Em nghĩ cho nổi bật ạ... còn thêm xanh lá với cam làm accent...* |
 | **フオン** | 「白鷗様は**<ruby>老舗<rt>しにせ</rt></ruby>**よ？<ruby>派手<rt>はで</rt></ruby>な色使う相手じゃない。**赤は<ruby>警告<rt>けいこく</rt></ruby>とCTA専用**。<ruby>装飾<rt>そうしょく</rt></ruby>に使うと『<ruby>軽薄<rt>けいはく</rt></ruby>』に見える。」 <br/>*Bên Hakuō là cty lâu đời mà? Không phải đối tượng dùng màu sặc sỡ. Đỏ chỉ dành cho cảnh báo + CTA. Trang trí bằng đỏ = trông nông nổi.* |
 | **ズン** | 「あ、すみません…」 <br/>*À, em xin lỗi ạ...* |
 
-**Vì sao xấu:** Đỏ làm title trên JP corporate slide = tín hiệu "tay mơ" hoặc "spam quảng cáo". Khách 老舗 mong đợi: navy / charcoal — màu của một tổ chức uy tín.
+**Vì sao xấu:** Đỏ làm tiêu đề trên slide corporate Nhật = tín hiệu "tay mơ" hoặc "spam quảng cáo". Khách 老舗 mong đợi: navy / charcoal — màu của một tổ chức uy tín.
 
 ---
 
@@ -55,10 +55,10 @@ Dũng dùng khung mẫu rực rỡ — title đỏ, phần thân xanh lá, màu 
 ## Tránh
 
 - Biểu đồ 7 màu cầu vồng → người xem không phân biệt được
-- 赤 làm màu title → trong ngữ cảnh JP corporate = tay mơ
+- 赤 làm màu tiêu đề → trong ngữ cảnh JP corporate = tay mơ
 - Nền không phải trắng/xám nhạt → khó in, khó chiếu lên máy chiếu
 - Màu nhấn và màu chính tương phản thấp → không nổi
-- Chỉ mã hoá bằng màu (vd "đỏ = xấu, xanh = tốt") → bỏ qua đối tượng mù màu. Phải có icon/chữ kèm theo
+- Chỉ mã hoá bằng màu (vd "đỏ = xấu, xanh = tốt") → bỏ qua đối tượng mù màu. Phải có biểu tượng/chữ kèm theo
 
 ---
 

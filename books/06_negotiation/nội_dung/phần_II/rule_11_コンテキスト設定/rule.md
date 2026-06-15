@@ -1,10 +1,10 @@
-# Rule 11 — Set context + agenda / コンテキスト設定
+# Rule 11 — Thiết lập bối cảnh + chương trình / コンテキスト設定
 
-> **Luận điểm.** Sau câu mở chào (rule 10), thiết lập **bối cảnh chung** trong 60-90s: (1) điểm lại 2-3 ý then chốt từ buổi họp trước, (2) xác nhận phía khách có gì thay đổi hay không, (3) đề xuất agenda hôm nay. Bỏ qua → khách CFO cấp cao bị lạc mạch, bầu không khí đi xuống.
+> **Luận điểm.** Sau câu mở chào (rule 10), thiết lập **bối cảnh chung** trong 60-90s: (1) điểm lại 2-3 ý then chốt từ buổi họp trước, (2) xác nhận phía khách có gì thay đổi hay không, (3) đề xuất chương trình hôm nay. Bỏ qua → khách CFO cấp cao bị lạc mạch, bầu không khí đi xuống.
 >
 > 冒頭挨拶後、60-90秒で共通コンテキストを設定する: 前回ハイライト recap → 状況確認 → 本日 agenda 提示。CFO 同席など senior 入りでは特に重要。
 >
-> **Liên quan:** rule 10 (冒頭), rule 17 (時間管理), sách 03 rule 13 (agenda).
+> **Liên quan:** rule 10 (冒頭), rule 17 (時間管理), sách 03 rule 13 (chương trình nghị sự).
 
 ---
 
@@ -28,7 +28,7 @@ Sau câu mở (rule 10), Dũng vào phần thứ 2 — thiết lập bối cản
 
 ---
 
-## Hội thoại TỐT — recap 60s + agenda đề xuất
+## Hội thoại TỐT — tóm tắt lại 60s + đề xuất chương trình
 
 | Vai | Câu |
 |---------|-----|
@@ -50,7 +50,7 @@ Sau câu mở (rule 10), Dũng vào phần thứ 2 — thiết lập bối cản
 
 > **「<ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>り→<ruby>状況<rt>じょうきょう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>→agenda<ruby>提示<rt>ていじ</rt></ruby>の3<ruby>拍<rt>はく</rt></ruby>。CFO <ruby>同席時<rt>どうせきじ</rt></ruby>は<ruby>特<rt>とく</rt></ruby>に<ruby>必須<rt>ひっす</rt></ruby>。」**
 >
-> *Recap → confirm tình hình → đề xuất agenda — 3 nhịp. Có CFO ngồi cùng càng bắt buộc.*
+> *Tóm tắt lại → xác nhận tình hình → đề xuất chương trình — 3 nhịp. Có CFO ngồi cùng càng bắt buộc.*
 
 ---
 

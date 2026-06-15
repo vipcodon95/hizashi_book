@@ -38,7 +38,7 @@ Slide 8 = giá cả. Trong buổi diễn tập, Hà CTO đóng giả vai Ōgaki 
 | **ズン** | 「価格の前に**3点ご説明**します。**(1) Anchor**: <ruby>業界平均<rt>ぎょうかいへいきん</rt></ruby> 1案件4,000万、Phase 2 は1,800万でした【1】。**(2) Tier**: A案2,400万 / B案3,200万(<ruby>推奨<rt>すいしょう</rt></ruby>) / C案4,800万。**(3) ROI**: B案で**年間1.2億円のロス削減**【2】見込み、**8ヶ月で投資回収**。」 <br/>*Trước khi báo giá em xin trình bày 3 điểm ạ. (1) Neo giá: trung bình ngành 1 case 40 triệu yên, Phase 2 là 18 triệu. (2) Bậc giá: case A 24 triệu / case B 32 triệu (khuyến nghị) / case C 48 triệu. (3) ROI: case B dự kiến giảm lỗ 120 triệu/năm, hoàn vốn 8 tháng.* |
 | **ハーCTO** | 「Phase 2 比で約2倍だね、なぜ？」 <br/>*Gần gấp đôi Phase 2 nhỉ, vì sao?* |
 | **ズン** | 「3点理由がございます【3】。①リアルタイム<ruby>同期<rt>どうき</rt></ruby>インフラの新規<ruby>構築<rt>こうちく</rt></ruby>、②機械学習アラートの<ruby>実装<rt>じっそう</rt></ruby>、③24/7サポート3年<ruby>付帯<rt>ふたい</rt></ruby>。Phase 2 は基本機能のみでした。」 <br/>*Có 3 lý do ạ. ① Xây mới hạ tầng đồng bộ realtime, ② implement machine learning alert, ③ kèm theo 3 năm support 24/7. Phase 2 chỉ có chức năng cơ bản ạ.* |
-| **ハーCTO** | 「うん、**3点回答**で説得力出る。Reherearsal 通った。本番もこの調子で。」 <br/>*Ờ, trả 3 điểm thế là có sức thuyết phục. Pass rehearsal rồi. Bữa thật giữ nhịp này nhé.* |
+| **ハーCTO** | 「うん、**3点回答**で説得力出る。Reherearsal 通った。本番もこの調子で。」 <br/>*Ờ, trả 3 điểm thế là có sức thuyết phục. Qua buổi tập dượt rồi. Bữa thật giữ nhịp này nhé.* |
 
  **Ghi chú:**
 - 【1】**Neo giá** — 業界平均 + 自社過去 cùng đặt → "B案 3,200万 = mức hời nếu xét trong bối cảnh".

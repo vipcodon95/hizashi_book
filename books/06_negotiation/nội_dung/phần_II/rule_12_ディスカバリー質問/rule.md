@@ -38,8 +38,8 @@ Sau khi thiết lập bối cảnh (rule 11), Dũng vào phần khai thác thôn
 | **大垣** | 「予測精度 +15%、手動調整時間<ruby>半減<rt>はんげん</rt></ruby>。GMV 影響としては<ruby>年間<rt>ねんかん</rt></ruby> +¥80M <ruby>見込<rt>みこ</rt></ruby>み。」 <br/>*Độ chính xác +15%, thời gian điều chỉnh thủ công giảm một nửa. Ảnh hưởng GMV ước +¥80M/năm.* |
 | **ズン** | 「**<ruby>予算感<rt>よさんかん</rt></ruby>**につきまして、御社<ruby>新年度<rt>しんねんど</rt></ruby> IT <ruby>投資<rt>とうし</rt></ruby>のフレームの中で、Phase 3 はどの程度の<ruby>位置付<rt>いちづ</rt></ruby>けでしょうか【3】？」 <br/>*Về cảm giác ngân sách, trong khung đầu tư IT năm mới của quý cty, Phase 3 ở vị trí nào ạ?* |
 | **中村CFO** | 「Phase 3 単体としては ¥15-20M <ruby>帯<rt>たい</rt></ruby>で考えています。それを大きく超えると<ruby>稟議<rt>りんぎ</rt></ruby>が<ruby>難航<rt>なんこう</rt></ruby>します。」 <br/>*Riêng Phase 3 chúng tôi tính dải ¥15-20M. Vượt nhiều là ringi sẽ khó.* |
-| **ズン** | 「ありがとうございます。**Timeline** — リリース希望時期は？」 <br/>*Em cảm ơn ạ. Timeline — thời điểm release mong muốn?* |
-| **大垣** | 「7 月末までに<ruby>本番投入<rt>ほんばんとうにゅう</rt></ruby>できれば<ruby>理想<rt>りそう</rt></ruby>です。」 <br/>*Lý tưởng là đưa vào production trước cuối tháng 7.* |
+| **ズン** | 「ありがとうございます。**Timeline** — リリース希望時期は？」 <br/>*Em cảm ơn ạ. Thời hạn — thời điểm ra mắt mong muốn?* |
+| **大垣** | 「7 月末までに<ruby>本番投入<rt>ほんばんとうにゅう</rt></ruby>できれば<ruby>理想<rt>りそう</rt></ruby>です。」 <br/>*Lý tưởng là đưa vào vận hành thực tế trước cuối tháng 7.* |
 | **ズン** | 「**最後に Decision — 本件のご<ruby>判断<rt>はんだん</rt></ruby>は中村 CFO 様 + 大垣部長様の<ruby>合議<rt>ごうぎ</rt></ruby>でよろしいでしょうか？それ以外に<ruby>稟議経路<rt>りんぎけいろ</rt></ruby>で確認すべき方はいらっしゃいますか**【4】？」 <br/>*Cuối cùng là Người quyết định — quyết định vụ này là hợp nghị giữa anh Nakamura CFO và anh Ōgaki ạ? Ngoài ra trên đường ringi còn ai cần tham vấn không ạ?* |
 | **大垣** | 「我々2名の合議+IT<ruby>部門長<rt>ぶもんちょう</rt></ruby>の technical review が必要です。あと<ruby>取締役会<rt>とりしまりやくかい</rt></ruby> (¥18M 超は<ruby>付議<rt>ふぎ</rt></ruby>)。」 <br/>*Hai chúng tôi hợp nghị + xem xét kỹ thuật của trưởng phòng IT. Thêm HĐQT (vượt ¥18M phải đưa lên).* |
 | **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。これで5観点のご<ruby>状況<rt>じょうきょう</rt></ruby>が<ruby>揃<rt>そろ</rt></ruby>いました。」 <br/>*Em rõ ạ. Vậy là 5 trục đã đủ thông tin ạ.* |

@@ -10,11 +10,11 @@
 
 ## Bối cảnh / 場面
 
-Round 3 đàm phán Phase 3 vừa close ¥17M + 2 năm + dashboard. Trước khi 大垣 đứng dậy, Dũng phải read back. Nếu skip, Slack hôm sau sẽ có "あれ、SLA は 99.5% でしたっけ" và mọi thứ start lại.
+Round 3 đàm phán Phase 3 vừa close ¥17M + 2 năm + dashboard. Trước khi 大垣 đứng dậy, Dũng phải đọc lại xác nhận. Nếu bỏ qua, Slack hôm sau sẽ có "あれ、SLA は 99.5% でしたっけ" và mọi thứ bắt đầu lại.
 
 ---
 
-## Hội thoại XẤU — close mà không read back
+## Hội thoại XẤU — chốt mà không đọc lại xác nhận
 
 *困*
 
@@ -25,11 +25,11 @@ Round 3 đàm phán Phase 3 vừa close ¥17M + 2 năm + dashboard. Trước khi
 | (3日後 Slack) **田中PMO** | 「ズン<ruby>様<rt>さま</rt></ruby>、<ruby>契約書<rt>けいやくしょ</rt></ruby>ドラフト<ruby>拝見<rt>はいけん</rt></ruby>しました。**SLA 99.9% となっていますが、<ruby>当日<rt>とうじつ</rt></ruby> 99.5% で<ruby>合意<rt>ごうい</rt></ruby>では？**」 <br/>*Anh Dũng, tôi đã xem bản nháp hợp đồng. SLA ghi 99.9% nhưng hôm đó chúng ta thống nhất 99.5% mà?* |
 | **ズン** | 「えっ、99.9% で<ruby>合意<rt>ごうい</rt></ruby>したと<ruby>記憶<rt>きおく</rt></ruby>しているのですが…」 <br/>*Ơ, em nhớ là đã thống nhất 99.9% mà ạ...* |
 
-**Vì sao xấu:** Không read back → memory mismatch giữa 2 bên. Khi Dũng nhớ 99.9% còn Tanaka nhớ 99.5% — không có biên bản → khách win because seller phải back down. Skip 30 giây read back = mất ¥1-2M maintenance cost over 2 năm.
+**Vì sao xấu:** Không đọc lại xác nhận → mỗi bên nhớ khác. Khi Dũng nhớ 99.9% còn Tanaka nhớ 99.5% — không có biên bản → khách thắng vì người bán phải nhượng. Bỏ qua 30 giây đọc lại = mất ¥1-2M chi phí bảo trì suốt 2 năm.
 
 ---
 
-## Hội thoại TỐT — read back từng item
+## Hội thoại TỐT — đọc lại xác nhận từng mục
 
 *メモ確認*
 
@@ -42,15 +42,15 @@ Round 3 đàm phán Phase 3 vừa close ¥17M + 2 năm + dashboard. Trước khi
 | **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>いたしました。**<ruby>月末締<rt>げつまつじ</rt></ruby>め<ruby>翌月末払<rt>よくげつまつばら</rt></ruby>いを<ruby>追記<rt>ついき</rt></ruby>**して、**24<ruby>時間以内<rt>じかんいない</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>メールをお<ruby>送<rt>おく</rt></ruby>りいたします**【3】。<ruby>本日<rt>ほんじつ</rt></ruby>はありがとうございました。」 <br/>*Em nhận rồi ạ. Em sẽ bổ sung 'chốt cuối tháng - trả cuối tháng kế', và gửi mail tổng kết trong vòng 24 giờ ạ. Hôm nay em cảm ơn anh nhiều ạ.* |
 
  **Ghi chú:**
-- 【1】**「合意事項を確認させてください」** — set up read-back ritual. Không phải optional, là procedure.
-- 【2】**7 mục đánh số** — giá / thời hạn / phạm vi / SLA / thanh toán / sở hữu trí tuệ / lịch ringi. Mỗi mục là 1 nguồn lệch tiềm ẩn.
-- 【3】**24h recap mail commit** — bridge sang rule 31. Read back miệng + recap mail = double lock.
+- 【1】**「合意事項を確認させてください」** — thiết lập nghi thức đọc lại. Không phải tuỳ chọn, là quy trình bắt buộc.
+- 【2】**7 mục đánh số** — giá / thời hạn / phạm vi / SLA / thanh toán / sở hữu trí tuệ / lịch ringi. Mỗi mục là 1 nguồn sai lệch tiềm ẩn.
+- 【3】**Cam kết mail tóm tắt trong 24h** — bắc cầu sang rule 31. Đọc lại xác nhận miệng + mail tóm tắt = chốt kép.
 
 ---
 
 ## Câu chốt
 
-> **「合意の口頭読み戻し + 24時間以内 recap メール = ダブルロック。」**
+> **「合意の口頭読み戻し + 24時間以内 mail tóm tắt = ダブルロック。」**
 >
 > *Đọc lại xác nhận miệng + mail tóm tắt trong 24h = chốt kép. Bỏ qua = đàm phán lại.*
 
@@ -59,7 +59,7 @@ Round 3 đàm phán Phase 3 vừa close ¥17M + 2 năm + dashboard. Trước khi
 ## Tránh
 
 - "概ね合意" mà không liệt kê từng mục → mơ hồ = mỗi bên nhớ khác
-- Đọc lại xác nhận nhanh mà bỏ qua SLA / điều khoản thanh toán → đây là phần khách hay nhớ khác
+- Đọc lại xác nhận nhanh mà bỏ qua SLA / điều khoản thanh toán → đây là phần khách hay nhớ lệch
 - Không hỏi "齟齬ございませんでしょうか" → khách không có cơ hội sửa ngay tại chỗ
 - Đọc lại xác nhận xong rồi đứng dậy luôn — phải cam kết thời hạn mail tóm tắt ngay
 
@@ -71,7 +71,7 @@ Round 3 đàm phán Phase 3 vừa close ¥17M + 2 năm + dashboard. Trước khi
 |------|------|------|-------|
 | 合意事項 | ごういじこう | HỢP Ý SỰ HẠNG | Các điểm đã đồng thuận |
 | 読み戻し | よみもどし | — | Đọc lại xác nhận |
-| 齟齬 | そご | TRỞ NGỮ | Sự sai lệch / không khớp |
+| 齟齬 | そご | TRỞ NGỮ | Sai lệch / không khớp |
 | 月末締め | げつまつじめ | NGUYỆT MẠT ĐÌNH | Chốt cuối tháng |
 | 翌月末払い | よくげつまつばらい | DỰC NGUYỆT MẠT BẢI | Trả cuối tháng kế |
 | 共同所有 | きょうどうしょゆう | CỘNG ĐỒNG SỞ HỮU | Đồng sở hữu |

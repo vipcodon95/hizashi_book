@@ -14,7 +14,7 @@ Bài thuyết trình Phase 3 kết thúc 16:00 thứ Năm. Dũng về văn phòn
 
 ---
 
-## Hội thoại XẤU — kéo qua weekend
+## Hội thoại XẤU — kéo qua cuối tuần
 
 *Slack 17:30 thứ Năm*
 
@@ -23,7 +23,7 @@ Bài thuyết trình Phase 3 kết thúc 16:00 thứ Năm. Dũng về văn phòn
 | **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、ピッチ<ruby>無事<rt>ぶじ</rt></ruby><ruby>終了<rt>しゅうりょう</rt></ruby>！フォローメールは<ruby>月曜<rt>げつよう</rt></ruby><ruby>送<rt>おく</rt></ruby>ろうと<ruby>思<rt>おも</rt></ruby>います、<ruby>週末<rt>しゅうまつ</rt></ruby>ゆっくり<ruby>書<rt>か</rt></ruby>きたいので。」 <br/>*Chị Hương, bài thuyết trình xong an toàn! Mail phản hồi em định gửi thứ Hai, để cuối tuần em viết kỹ ạ.* |
 | **フオン** | 「**月曜だと72<ruby>時間<rt>じかん</rt></ruby><ruby>後<rt>ご</rt></ruby>**。<ruby>客<rt>きゃく</rt></ruby>が<ruby>今夜<rt>こんや</rt></ruby><ruby>社内<rt>しゃない</rt></ruby>シェアする<ruby>時<rt>とき</rt></ruby>に<ruby>資料<rt>しりょう</rt></ruby><ruby>無<rt>な</rt></ruby>いの? **今夜送って**。3<ruby>行<rt>ぎょう</rt></ruby>でも。」 <br/>*Thứ Hai là 72h sau. Khách tối nay chia sẻ nội bộ mà không có tài liệu à? Tối nay gửi đi. 3 dòng cũng được.* |
 | **ズン** | 「あ、それは…」 <br/>*À, cái đó...* |
-| **フオン** | 「**24h ルール**。<ruby>詳細<rt>しょうさい</rt></ruby><ruby>版<rt>ばん</rt></ruby>は週末に書いて月曜 update。**今夜は acknowledgment + slide PDF link** だけでいい。」 <br/>*Quy tắc 24h. Bản chi tiết để cuối tuần viết, thứ Hai cập nhật. Tối nay chỉ cần xác nhận ngắn + link PDF slide là đủ.* |
+| **フオン** | 「**24h ルール**。<ruby>詳細<rt>しょうさい</rt></ruby><ruby>版<rt>ばん</rt></ruby>は週末に書いて月曜 update。**今夜は acknowledgment + slide PDF link** だけでいい。」 <br/>*Quy tắc 24h. Bản chi tiết để cuối tuần viết, thứ Hai cập nhật. Tối nay chỉ cần xác nhận ngắn + đường dẫn PDF slide là đủ.* |
 
 **Vì sao xấu:** 月曜 = 72h sau. Khách Nhật thường chia sẻ nội bộ trong 24h sau bài thuyết trình — không có slide = họ phải nhớ nội dung nói miệng → ấn tượng "người trình bày chậm". 「週末ゆっくり書く」 = đặt việc riêng của mình lên trên khách hàng.
 
@@ -35,13 +35,13 @@ Bài thuyết trình Phase 3 kết thúc 16:00 thứ Năm. Dũng về văn phòn
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、ピッチ<ruby>終了<rt>しゅうりょう</rt></ruby>。**<ruby>今夜<rt>こんや</rt></ruby><ruby>中<rt>じゅう</rt></ruby>に acknowledgment メール** <ruby>送<rt>おく</rt></ruby>ります (slide PDF link + <ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り deadline <ruby>確認<rt>かくにん</rt></ruby>のみ)。**<ruby>詳細<rt>しょうさい</rt></ruby> recap + <ruby>議事<rt>ぎじ</rt></ruby>メモは<ruby>月曜<rt>げつよう</rt></ruby><ruby>朝<rt>あさ</rt></ruby>** に send します。テンプレ<ruby>使<rt>つか</rt></ruby>います。」 <br/>*Chị Hương, bài thuyết trình xong rồi ạ. Tối nay em gửi mail xác nhận trước (chỉ link PDF slide + xác nhận hạn chót 持ち帰り). Tóm tắt chi tiết + ghi chú họp em gửi sáng thứ Hai. Em dùng mẫu có sẵn ạ.* |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、ピッチ<ruby>終了<rt>しゅうりょう</rt></ruby>。**<ruby>今夜<rt>こんや</rt></ruby><ruby>中<rt>じゅう</rt></ruby>に acknowledgment メール** <ruby>送<rt>おく</rt></ruby>ります (slide PDF link + <ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り deadline <ruby>確認<rt>かくにん</rt></ruby>のみ)。**<ruby>詳細<rt>しょうさい</rt></ruby> recap + <ruby>議事<rt>ぎじ</rt></ruby>メモは<ruby>月曜<rt>げつよう</rt></ruby><ruby>朝<rt>あさ</rt></ruby>** に send します。テンプレ<ruby>使<rt>つか</rt></ruby>います。」 <br/>*Chị Hương, bài thuyết trình xong rồi ạ. Tối nay em gửi mail xác nhận trước (chỉ đường dẫn PDF slide + xác nhận hạn chót 持ち帰り). Tóm tắt chi tiết + ghi chú họp em gửi sáng thứ Hai. Em dùng mẫu có sẵn ạ.* |
 | **フオン** | 「いいね、その2<ruby>段階<rt>だんかい</rt></ruby>で。今夜の acknowledgment は **20<ruby>時<rt>じ</rt></ruby>まで** に<ruby>出<rt>だ</rt></ruby>すと<ruby>安心<rt>あんしん</rt></ruby>。<ruby>文面<rt>ぶんめん</rt></ruby>ドラフト<ruby>見<rt>み</rt></ruby>せて。」 <br/>*Tốt, đi 2 bước đó. Xác nhận ngắn tối nay ra trước 20h là an toàn. Bản thảo nội dung mail chị xem nhé.* |
-| **ズン** | 「ドラフトです。3パラ + <ruby>添付<rt>てんぷ</rt></ruby>3<ruby>点<rt>てん</rt></ruby> + 持ち帰り SOAP detail <ruby>期限<rt>きげん</rt></ruby><ruby>金曜<rt>きんよう</rt></ruby>17時 <ruby>明記<rt>めいき</rt></ruby>しました【1】。」 <br/>*Bản thảo đây ạ. 3 đoạn + 3 file đính kèm + ghi rõ hạn chót 持ち帰り chi tiết SOAP trước 17h thứ Sáu ạ.* |
+| **ズン** | 「ドラフトです。3パラ + <ruby>添付<rt>てんぷ</rt></ruby>3<ruby>点<rt>てん</rt></ruby> + 持ち帰り SOAP detail <ruby>期限<rt>きげん</rt></ruby><ruby>金曜<rt>きんよう</rt></ruby>17時 <ruby>明記<rt>めいき</rt></ruby>しました【1】。」 <br/>*Bản thảo đây ạ. 3 đoạn + 3 tệp đính kèm + ghi rõ hạn chót 持ち帰り chi tiết SOAP trước 17h thứ Sáu ạ.* |
 | **フオン** | 「OK、send。月曜の詳細版にはトゥアン+ハー CTO も CC に。」 <br/>*OK, gửi đi. Bản chi tiết thứ Hai nhớ CC anh Tuấn + anh Hà CTO vào nhé.* |
 
  **Ghi chú:**
-- 【1】**2段階送付** (gửi 2 bước) — 当日 (cùng ngày): xác nhận ngắn + slide PDF + xác nhận deadline 持ち帰り. 翌営業日朝 (sáng ngày làm việc kế tiếp): tóm tắt chi tiết + ghi chú họp + danh mục việc cần làm. Khách chia sẻ nội bộ ngay trong ngày, phần xem xét chi tiết để đầu tuần → khớp với nhịp làm việc của phía Nhật.
+- 【1】**2段階送付** (gửi 2 bước) — 当日 (cùng ngày): xác nhận ngắn + slide PDF + xác nhận hạn chót 持ち帰り. 翌営業日朝 (sáng ngày làm việc kế tiếp): tóm tắt chi tiết + ghi chú họp + danh mục việc cần làm. Khách chia sẻ nội bộ ngay trong ngày, phần xem xét chi tiết để đầu tuần → khớp với nhịp làm việc của phía Nhật.
 
 ---
 
@@ -106,8 +106,8 @@ EMAIL: zun@tienphat.vn
 - Gửi sau 48h → ấn tượng đã loãng, khách đã quên sắc thái lời nói miệng
 - 件名 mơ hồ ("先日はありがとうございました") → email bị chìm trong hộp thư
 - Quên CC nội bộ (CTO, sếp) → không có chuỗi người làm chứng
-- Đính kèm file nặng qua mail (file 30MB) → dùng link Drive
-- Quên 持ち帰り deadline trong email → khách không biết khi nào phải phản hồi
+- Đính kèm tệp nặng qua mail (tệp 30MB) → dùng đường dẫn Drive
+- Quên ghi hạn chót 持ち帰り trong email → khách không biết khi nào phải phản hồi
 
 ---
 

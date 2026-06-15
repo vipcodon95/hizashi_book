@@ -16,9 +16,9 @@ Sáng ngày D, Dũng + Tuấn đi từ hotel Shinjuku đến trụ sở 白鷗 (
 
 ## Hội thoại XẤU — quá sớm hoặc đúng giờ
 
-**Scenario A — quá sớm:**
+**Tình huống A — quá sớm:**
 
-*9:30, đến sảnh 30 phút sớm · báo Tanaka · qua điện thoại Slack, đang trong meeting khác*
+*9:30, đến sảnh 30 phút sớm · báo Tanaka · qua điện thoại Slack, đang trong cuộc họp khác*
 
 | Vai | Câu |
 |---------|-----|
@@ -27,7 +27,7 @@ Sáng ngày D, Dũng + Tuấn đi từ hotel Shinjuku đến trụ sở 白鷗 (
 | **受付** | 「田中様、ティエンファットの方が30分早く<ruby>到着<rt>とうちゃく</rt></ruby>…どうしますか？」 <br/>*Anh Tanaka ơi, phía Tiên Phát đến sớm 30 phút… anh tính sao ạ?* |
 | **田中PMO** | 「えっ、もう？…まあ、ロビーで待ってもらってください。10時に<ruby>降<rt>お</rt></ruby>ります。」 <br/>*Hả, đến rồi? …Thôi nhờ chị bảo họ đợi ở sảnh. 10h tôi xuống.* |
 
-**Scenario B — đúng giờ:**
+**Tình huống B — đúng giờ:**
 
 *10:00 đúng, vào sảnh · 10:08, sau khi đợi 8 phút trên tầng 8*
 
@@ -76,7 +76,7 @@ Sáng ngày D, Dũng + Tuấn đi từ hotel Shinjuku đến trụ sở 白鷗 (
 
 - Đến **30 phút sớm** → chủ nhà bất ngờ + phải đợi
 - **Đúng giờ** chuẩn sảnh → đã muộn 5-10 phút trên phòng họp
-- Đến **sớm 15-20 phút** → đứng cafe gần đó canh giờ đến 5-10p trước, KHÔNG vào sảnh
+- Đến **sớm 15-20 phút** → đứng quán cà phê gần đó canh giờ đến 5-10p trước, KHÔNG vào sảnh
 - **Hối thúc lễ tân** "tôi đến 5 phút sớm thôi nhanh lên" → bình thường giọng trang trọng, KHÔNG hối
 - Đến sảnh xong **xem điện thoại** thay vì quan sát xung quanh → quan sát không khí = thông tin cho buổi họp
 - **Quên giấy tờ tùy thân** → một số tòa Tokyo cần kiểm tra hộ chiếu/giấy tờ ở khâu an ninh

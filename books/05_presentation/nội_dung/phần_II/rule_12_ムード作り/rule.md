@@ -37,7 +37,7 @@ Linh (thực tập sinh) sau buổi diễn thử (rule 11), Dũng xem lại các
 |---------|-----|
 | **ズン** | 「<ruby>言葉<rt>ことば</rt></ruby>を**<ruby>着実<rt>ちゃくじつ</rt></ruby>な**ものに<ruby>置<rt>お</rt></ruby>き<ruby>換<rt>か</rt></ruby>えよう【1】。『ゲームチェンジャー』→『**<ruby>業務改善<rt>ぎょうむかいぜん</rt></ruby>に<ruby>確実<rt>かくじつ</rt></ruby>に<ruby>貢献<rt>こうけん</rt></ruby>**』。『<ruby>革命的<rt>かくめいてき</rt></ruby>』→『**<ruby>着実<rt>ちゃくじつ</rt></ruby>な<ruby>改善<rt>かいぜん</rt></ruby>**』。『ファンタスティック』→『**<ruby>安心<rt>あんしん</rt></ruby>してお<ruby>任<rt>まか</rt></ruby>せいただける**』。」 <br/>*Đổi sang nhóm từ chắc chắn nhé. 「Game changer」 → 「đóng góp chắc chắn vào việc cải tiến」. 「Cách mạng」 → 「cải thiện chắc chắn từng bước」. 「Fantastic」 → 「yên tâm giao phó」.* |
 | **リン** | 「この<ruby>機能<rt>きのう</rt></ruby>は**<ruby>御社<rt>おんしゃ</rt></ruby>の<ruby>在庫管理<rt>ざいこかんり</rt></ruby>に<ruby>確実<rt>かくじつ</rt></ruby>に<ruby>貢献<rt>こうけん</rt></ruby>いたします**。3<ruby>年<rt>ねん</rt></ruby><ruby>運用実績<rt>うんようじっせき</rt></ruby>があり、**<ruby>安心<rt>あんしん</rt></ruby>してお<ruby>任<rt>まか</rt></ruby>せいただける**<ruby>仕組<rt>しく</rt></ruby>みでございます。」 <br/>*Tính năng này chắc chắn sẽ đóng góp cho việc quản lý tồn kho bên quý vị ạ. Đã có 3 năm thành tích vận hành, là cơ chế quý vị có thể yên tâm giao phó ạ.* |
-| **ズン** | 「うん、いい。あと**<ruby>話速<rt>わそく</rt></ruby>は5-10%<ruby>遅<rt>おそ</rt></ruby>めに**。<ruby>早口<rt>はやくち</rt></ruby>だと『<ruby>売<rt>う</rt></ruby>り<ruby>急<rt>いそ</rt></ruby>ぎ』に<ruby>聞<rt>き</rt></ruby>こえる【2】。」 <br/>*Ổn rồi. Với cả pace chậm hơn 5-10% nữa. Nói nhanh nghe như 「đang vội bán」.* |
+| **ズン** | 「うん、いい。あと**<ruby>話速<rt>わそく</rt></ruby>は5-10%<ruby>遅<rt>おそ</rt></ruby>めに**。<ruby>早口<rt>はやくち</rt></ruby>だと『<ruby>売<rt>う</rt></ruby>り<ruby>急<rt>いそ</rt></ruby>ぎ』に<ruby>聞<rt>き</rt></ruby>こえる【2】。」 <br/>*Ổn rồi. Với cả nhịp nói chậm hơn 5-10% nữa. Nói nhanh nghe như 「đang vội bán」.* |
 | **リン** | 「<ruby>分<rt>わ</rt></ruby>かりました。<ruby>練習<rt>れんしゅう</rt></ruby>し<ruby>直<rt>なお</rt></ruby>します。」 <br/>*Em rõ rồi ạ. Em luyện lại ạ.* |
 
  **Ghi chú:**
@@ -50,7 +50,7 @@ Linh (thực tập sinh) sau buổi diễn thử (rule 11), Dũng xem lại các
 
 > **「着実・確実・丁寧・安心の4語族で語る。Pace 5-10% 遅め。低テンション + 高信頼 = 売れる。」**
 >
-> *Dùng nhóm từ "chắc chắn / chỉn chu / yên tâm". Pace chậm 5-10%. Tone trầm + tin cậy cao = bán được.*
+> *Dùng nhóm từ "chắc chắn / chỉn chu / yên tâm". Nhịp nói chậm 5-10%. Tông giọng trầm + tin cậy cao = bán được.*
 
 ---
 

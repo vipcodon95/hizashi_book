@@ -11,13 +11,13 @@
 
 ## Bối cảnh / 場面
 
-Tháng 6/2026, đoàn 大垣 + 松本 + 中村 (3 người 白鷗) đến HCMC visit Tiên Phát kickoff Phase 3. Đây là LẦN ĐẦU em Linh (intern) tham gia. Sáng hôm trước, Dũng dạy Linh chuẩn bị danh thiếp.
+Tháng 6/2026, đoàn 大垣 + 松本 + 中村 (3 người 白鷗) đến thăm Tiên Phát kickoff Phase 3 tại HCMC. Đây là LẦN ĐẦU em Linh (intern) tham gia. Sáng hôm trước, Dũng dạy Linh chuẩn bị danh thiếp.
 
 ---
 
 ## Hội thoại XẤU — không chuẩn bị
 
-*15:00 chiều ngày trước event*
+*15:00 chiều ngày trước sự kiện*
 
 | Vai | Câu |
 |---------|-----|
@@ -32,7 +32,7 @@ Tháng 6/2026, đoàn 大垣 + 松本 + 中村 (3 người 白鷗) đến HCMC v
 
 ## Hội thoại TỐT — chuẩn bị 4 điều kiện
 
-*15:00 chiều ngày trước event*
+*15:00 chiều ngày trước sự kiện*
 
 | Vai | Câu |
 |---------|-----|
@@ -58,7 +58,7 @@ Tháng 6/2026, đoàn 大垣 + 松本 + 中村 (3 người 白鷗) đến HCMC v
 
 ## Tránh
 
-- Để danh thiếp trong **ví** → khi rút ra bị nhăn / mặt bẩn = mất face
+- Để danh thiếp trong **ví** → khi rút ra bị nhăn / mặt bẩn = mất thể diện
 - In **chỉ 1 mặt JP** hoặc **chỉ EN** → khách Nhật cấp cao có thể không đọc được mặt còn lại
 - **Số lượng tính sát** (vừa đủ người mình thấy) → khách dẫn thêm thông dịch / lãnh đạo bất ngờ = không đủ
 - Để **lỗi chính tả** trong tên / chức vụ / công ty → khách Nhật ghi nhớ ngay, sửa lần sau cũng không quên

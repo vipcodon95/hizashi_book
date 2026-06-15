@@ -41,7 +41,7 @@
 | **フオン副部長** | 「**本日のagendaは<ruby>皆様<rt>みなさま</rt></ruby>のお<ruby>手元<rt>てもと</rt></ruby>にございます**【2】。**<ruby>全体<rt>ぜんたい</rt></ruby>9:40〜12:00、3つのトピック**を<ruby>予定<rt>よてい</rt></ruby>しております。」 <br/>*Chương trình họp hôm nay đã có trong tay các anh ạ. Toàn bộ 9:40 đến 12:00, dự kiến 3 chủ đề.* |
 | **フオン副部長** | 「**本日は<ruby>弊社<rt>へいしゃ</rt></ruby>からも<ruby>新<rt>しん</rt></ruby>メンバーが<ruby>参加<rt>さんか</rt></ruby>していますので、<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>自己紹介<rt>じこしょうかい</rt></ruby>を**【3】。<ruby>皆様<rt>みなさま</rt></ruby>、<ruby>続<rt>つづ</rt></ruby>けてお<ruby>願<rt>ねが</rt></ruby>いします。」 <br/>*Hôm nay bên em có thành viên mới tham gia, xin phép tự giới thiệu trước ạ. Mong các anh cũng giới thiệu tiếp ạ.* |
 | **フオン副部長** | *(vòng giới thiệu 6 người, 30 giây/người hoàn tất)* |
-| **フオン副部長** | 「**お<ruby>茶<rt>ちゃ</rt></ruby>のお<ruby>代<rt>か</rt></ruby>わり、お<ruby>手洗<rt>てあら</rt></ruby>い、いつでもお<ruby>申<rt>もう</rt></ruby>し<ruby>付<rt>つ</rt></ruby>けください。<ruby>携帯<rt>けいたい</rt></ruby>はマナーモードでお<ruby>願<rt>ねが</rt></ruby>いいたします**【4】。」 <br/>*Trà refill, WC, lúc nào các anh cần cứ nói ạ. Mong các anh để điện thoại chế độ im lặng giúp em.* |
+| **フオン副部長** | 「**お<ruby>茶<rt>ちゃ</rt></ruby>のお<ruby>代<rt>か</rt></ruby>わり、お<ruby>手洗<rt>てあら</rt></ruby>い、いつでもお<ruby>申<rt>もう</rt></ruby>し<ruby>付<rt>つ</rt></ruby>けください。<ruby>携帯<rt>けいたい</rt></ruby>はマナーモードでお<ruby>願<rt>ねが</rt></ruby>いいたします**【4】。」 <br/>*Trà châm thêm, WC, lúc nào các anh cần cứ nói ạ. Mong các anh để điện thoại chế độ im lặng giúp em.* |
 | **フオン副部長** | 「では、<ruby>最初<rt>さいしょ</rt></ruby>のトピック『Phase 3 スコープ<ruby>確認<rt>かくにん</rt></ruby>』に<ruby>入<rt>はい</rt></ruby>らせていただきます。」 <br/>*Vậy em xin phép vào chủ đề đầu 'Xác nhận phạm vi Phase 3' ạ.* |
 
  **Ghi chú:**

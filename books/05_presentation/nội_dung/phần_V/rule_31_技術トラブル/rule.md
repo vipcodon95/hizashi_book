@@ -1,22 +1,22 @@
 # Rule 31 — Xử lý sự cố kỹ thuật / 技術トラブル復旧
 
-> **Luận điểm.** Khi projector chết / internet down / Zoom freeze giữa bài thuyết trình — **3 bước gỡ tình huống**: ① **Thừa nhận bình tĩnh** (5 giây): "申し訳ございません、技術トラブルが発生しております" ② **Chuyển nhanh sang Plan B** (Plan B đã chuẩn bị ở rule 07: PDF dự phòng, mobile hotspot, tài liệu phát tay) ③ **Tiếp tục bằng lời** (nói tiếp ngay phần slide kế) trong khi đang khôi phục. Tuyệt đối **không hoảng loạn** trên mặt — khán giả Nhật xem hoảng loạn = "cty không đáng tin trong khủng hoảng vận hành thật".
+> **Luận điểm.** Khi máy chiếu chết / mạng down / Zoom freeze giữa bài thuyết trình — **3 bước gỡ tình huống**: ① **Thừa nhận bình tĩnh** (5 giây): "申し訳ございません、技術トラブルが発生しております" ② **Chuyển nhanh sang Plan B** (Plan B đã chuẩn bị ở rule 07: PDF dự phòng, phát mạng di động, tài liệu phát tay) ③ **Tiếp tục bằng lời** (nói tiếp ngay phần slide kế) trong khi đang khôi phục. Tuyệt đối **không hoảng loạn** trên mặt — khán giả Nhật xem hoảng loạn = "cty không đáng tin trong khủng hoảng vận hành thật".
 >
 > 技術トラブルは acknowledge (5秒で) → switch Plan B → entertain (verbal で次 slide 内容を語る) の3ステップ。Panic 表情は『本番障害も同じ』と暗示。
 >
-> **Liên quan:** rule 07 (Phương án B), rule 29 (trực tuyến), rule 30 (lai/hybrid).
+> **Liên quan:** rule 07 (Phương án B), rule 29 (trực tuyến), rule 30 (lai/kết hợp).
 
 ---
 
 ## Bối cảnh / 場面
 
-Thuyết trình Phase 3 phút 12. Đang chia sẻ slide 8 (bảng giá) — đột nhiên cty 白鷗 cúp internet toàn tòa nhà. Zoom freeze, projector hiện "no signal". 大垣 + 田中 trong phòng nhìn Dũng. 松本 trực tuyến → màn hình Dũng cứng đơ.
+Thuyết trình Phase 3 phút 12. Đang chia sẻ slide 8 (bảng giá) — đột nhiên cty 白鷗 cúp mạng toàn tòa nhà. Zoom freeze, máy chiếu hiện "no signal". 大垣 + 田中 trong phòng nhìn Dũng. 松本 trực tuyến → màn hình Dũng cứng đơ.
 
 ---
 
 ## Trường hợp xấu — hoảng loạn + im lặng kéo dài
 
-*thấy projector mất, mặt hoảng · loay hoay 30 giây, gọi IT helpdesk · 60s sau · im lặng 2 phút trong khi Dũng tìm file*
+*thấy máy chiếu mất, mặt hoảng · loay hoay 30 giây, gọi bộ phận hỗ trợ · 60s sau · im lặng 2 phút trong khi Dũng tìm tệp*
 
 | Vai | Câu |
 |---------|-----|
@@ -31,7 +31,7 @@ Thuyết trình Phase 3 phút 12. Đang chia sẻ slide 8 (bảng giá) — đ�
 
 ## Trường hợp tốt — xử lý sự cố 3 bước
 
-*projector mất, hít sâu 3 giây, giọng vững · rút USB, cắm dongle USB-C HDMI, kết nối local — đã chuẩn bị sẵn · người đồng trình bày, gọi mobile hotspot · không có slide hiện, vẫn tiếp tục bằng lời · 45 giây sau*
+*máy chiếu mất, hít sâu 3 giây, giọng vững · rút USB, cắm đầu chuyển USB-C HDMI, kết nối local — đã chuẩn bị sẵn · người đồng trình bày, bật phát mạng di động · không có slide hiện, vẫn tiếp tục bằng lời · 45 giây sau*
 
 | Vai | Câu |
 |---------|-----|
@@ -61,7 +61,7 @@ Thuyết trình Phase 3 phút 12. Đang chia sẻ slide 8 (bảng giá) — đ�
 
 - "あ、あ、えっ…" lắp bắp hoảng → khán giả đọc được sự bối rối trên mặt
 - Loay hoay > 30s im lặng → quá giờ + ấn tượng "không có phương án"
-- "誰か助けて〜" gọi IT helpdesk lớn tiếng → thiếu chuyên nghiệp
+- "誰か助けて〜" gọi bộ phận hỗ trợ lớn tiếng → thiếu chuyên nghiệp
 - Không có Plan B → người thuyết trình tự biết mình không có dự phòng
 - Đổ lỗi hạ tầng ("白鷗のネットが…") → đổ lỗi khách = làm khách mất mặt
 - Bỏ qua các slide còn lại vì hoảng → bài thuyết trình lỡ phần kết quả

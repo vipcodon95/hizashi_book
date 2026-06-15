@@ -4,7 +4,7 @@
 >
 > クロージングは ① Recap 3点 + ② CTA (next step + owner + deadline)。「ありがとうございました」だけは pitch を opaque にする。
 >
-> **Liên quan:** rule 13 (cam kết giữ giờ), rule 27 (slide cảm ơn), rule 28 (follow-up).
+> **Liên quan:** rule 13 (cam kết giữ giờ), rule 27 (slide cảm ơn), rule 28 (theo dõi sau).
 
 ---
 

@@ -34,7 +34,7 @@ Sau phần mở đầu thu hút, Dũng đến phần tự giới thiệu. Phòng
 |---------|-----|
 | **ズン** | 「私、ティエンファットのズンと<ruby>申<rt>もう</rt></ruby>します【1】。<ruby>本日<rt>ほんじつ</rt></ruby>は **Phase 3 の<ruby>主担当<rt>しゅたんとう</rt></ruby>**としてご<ruby>提案<rt>ていあん</rt></ruby>いたします【2】。Phase 2 で**<ruby>在庫差異<rt>ざいこさい</rt></ruby>の<ruby>削減<rt>さくげん</rt></ruby>ロジック**を<ruby>担当<rt>たんとう</rt></ruby>しており、<ruby>本案件<rt>ほんあんけん</rt></ruby>はその<ruby>継続<rt>けいぞく</rt></ruby>でございます【3】。」 <br/>*Em là Dũng, bên Thiên Phát ạ. Hôm nay em xin trình bày với tư cách phụ trách chính Phase 3 ạ. Em đã phụ trách phần logic giảm sai lệch tồn kho ở Phase 2, dự án lần này là phần kế tiếp đó ạ.* |
 | **松本** | 「はい、よろしくお願いします。」 <br/>*Vâng, mong em giúp đỡ.* |
-| **ズン** | 「<ruby>右側<rt>みぎがわ</rt></ruby>のトゥアンが<ruby>技術<rt>ぎじゅつ</rt></ruby>リード、<ruby>後<rt>のち</rt></ruby>ほどデモパートを<ruby>担当<rt>たんとう</rt></ruby>いたします。それでは<ruby>本題<rt>ほんだい</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります。」 <br/>*Anh Tuấn bên phải là tech lead, sẽ phụ trách phần demo sau ạ. Vậy em xin vào đề ạ.* |
+| **ズン** | 「<ruby>右側<rt>みぎがわ</rt></ruby>のトゥアンが<ruby>技術<rt>ぎじゅつ</rt></ruby>リード、<ruby>後<rt>のち</rt></ruby>ほどデモパートを<ruby>担当<rt>たんとう</rt></ruby>いたします。それでは<ruby>本題<rt>ほんだい</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります。」 <br/>*Anh Tuấn bên phải là trưởng nhóm kỹ thuật, sẽ phụ trách phần demo sau ạ. Vậy em xin vào đề ạ.* |
 
  **Ghi chú:**
 - 【1】**「ティエンファットのズン」** — KHÔNG dùng "社" (ティエンファット社) khi tự xưng (ウチ rule).

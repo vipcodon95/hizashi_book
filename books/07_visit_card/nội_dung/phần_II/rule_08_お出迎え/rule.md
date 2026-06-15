@@ -16,7 +16,7 @@
 
 ## Hội thoại XẤU — đến đúng giờ + ngồi xem điện thoại
 
-*9:30:30 đúng, chạy xuống tiền sảnh vừa lúc 大垣 bước vào, đang nghe điện thoại · ngồi sofa tiền sảnh xem điện thoại, nhận ra muộn 5 giây · thoáng tỏ thái độ · nhận tin lễ tân chậm 2 phút*
+*9:30:30 đúng, chạy xuống tiền sảnh vừa lúc 大垣 bước vào, đang nghe điện thoại · ngồi ghế sô pha tiền sảnh xem điện thoại, nhận ra muộn 5 giây · thoáng tỏ thái độ · nhận tin lễ tân chậm 2 phút*
 
 | Vai | Câu |
 |---------|-----|
@@ -31,7 +31,7 @@
 
 ## Hội thoại TỐT — 5 phút trước, dặn lễ tân
 
-*9:25, dặn lễ tân · 9:27, đứng tại tiền sảnh, không điện thoại, không sofa · 9:30, thấy đoàn 3 người bước vào · cùng tiến lên, cúi chào 30°*
+*9:25, dặn lễ tân · 9:27, đứng tại tiền sảnh, không điện thoại, không ngồi ghế sô pha · 9:30, thấy đoàn 3 người bước vào · cùng tiến lên, cúi chào 30°*
 
 | Vai | Câu |
 |---------|-----|
@@ -62,7 +62,7 @@
 ## Tránh
 
 - **Đến đúng giờ** → đúng giờ là muộn. Tối thiểu 5 phút trước.
-- **Ngồi sofa tiền sảnh xem điện thoại** → đứng đợi, tắt điện thoại / im lặng
+- **Ngồi ghế sô pha tiền sảnh xem điện thoại** → đứng đợi, tắt điện thoại / im lặng
 - Lễ tân **không được dặn trước** → khách phải tự giới thiệu lại với lễ tân = mất thể diện
 - Cấp trên xuống **chậm sau khi khách đến** → cấp trên sẵn sàng từ 5 phút trước hoặc có người gọi ngay khi báo
 - **Không cúi chào khi khách bước vào** → cúi chào 30° là chuẩn trang trọng khi đón

@@ -1,13 +1,13 @@
 # Phụ lục D — Mẫu Tổng Hợp / テンプレート集
 
-*Tổng hợp các mẫu (chương trình, biên bản, mail) đính kèm trong các rules. Copy-paste để dùng.*
+*Tổng hợp các mẫu (chương trình, biên bản, mail) đính kèm trong các rules. Sao chép để dùng.*
 
 ---
 
 
-## Email follow-up (1 mẫu)
+## Email theo dõi (1 mẫu)
 
-### Rule 31 — Recap mail đàm phán (5 sections)
+### Rule 31 — Mail tóm tắt đàm phán (5 mục)
 
 *JP: 商談後 確認メール (5セクション構成)*
 
@@ -60,7 +60,7 @@ Mail: 〇〇@tienphat.vn
 Tel: 〇〇
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
 To: anh/chị 〇〇; Cc: 〇〇, 〇〇
@@ -109,11 +109,11 @@ Mail: 〇〇@tienphat.vn
 Tel: 〇〇
 ```
 
- **Ghi chú VN:** Bắt buộc gửi trong 24h sau đàm phán. Phải qua duyệt cấp trên trước khi gửi. Phản hồi OK = có thể đính kèm vào ringi document.
+ **Ghi chú VN:** Bắt buộc gửi trong 24h sau đàm phán. Phải qua duyệt cấp trên trước khi gửi. Phản hồi OK = có thể đính kèm vào tài liệu ringi.
  **Ghi chú JP:** 送信は商談から24時間以内必須。Senior レビューを通してから送信。OK 返信 = 稟議添付可能。
 
 
-## Checklist (4 mẫu)
+## Danh sách kiểm tra (4 mẫu)
 
 ### Rule 01 — Mẫu BATNA 3 Kịch bản
 
@@ -151,7 +151,7 @@ Tel: 〇〇
   □ 沈黙 7秒 練習済み
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
 [Vụ đàm phán] 〇〇
@@ -185,10 +185,10 @@ Tel: 〇〇
   □ Đã luyện tập im lặng 7 giây
 ```
 
- **Ghi chú VN:** Bắt buộc tạo + luyện tập tối hôm trước đàm phán. Số liệu mơ hồ thì KHÔNG vào đàm phán. Duyệt cấp trên bắt buộc.
+ **Ghi chú VN:** Bắt buộc tạo + luyện tập tối hôm trước đàm phán. Số liệu mơ hồ thì KHÔNG vào đàm phán. Bắt buộc duyệt cấp trên.
  **Ghi chú JP:** 交渉前夜に必ず作成・練習。数値が曖昧なら交渉に行かない。Senior レビュー必須。
 
-### Rule 19 — Danh sách kiểm tra câu định giá + 5 kịch bản
+### Rule 19 — Danh sách kiểm tra câu chào giá + 5 kịch bản
 
 *JP: 価格提示フレーズ チェックリスト + 5シナリオ*
 
@@ -224,7 +224,7 @@ Tel: 〇〇
   □ Trade-back trigger 確認済み (rule 09)
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
 --- Danh sách kiểm tra 4 yếu tố câu chào giá ---
@@ -247,7 +247,7 @@ Tel: 〇〇
 'Đề xuất 〇〇¥ vừa rồi dựa trên tiền đề 〇〇, nếu tiền đề thay đổi thì xin phép em quay lại mức 〇〇¥ trước ạ.'
 
 [4] Đề nghị cuối tốt nhất
-'Đây là điều kiện cuối em có thể đưa ra. 〇〇¥ + 〇〇 (bao gồm). Vượt nữa là dưới mức gross margin, em không nhận được ạ.'
+'Đây là điều kiện cuối em có thể đưa ra. 〇〇¥ + 〇〇 (bao gồm). Vượt nữa là dưới mức biên lợi nhuận, em không nhận được ạ.'
 
 [5] Mang về xem xét (leo thang)
 'Điều kiện quý anh đề xuất em không trả lời ngay tại chỗ được. Em xin xác nhận với CTO bên em, trả lời chính thức trước thứ 〇 ạ.'
@@ -261,7 +261,7 @@ Tel: 〇〇
  **Ghi chú VN:** Đọc miệng 5 kịch bản ít nhất 5 lần đêm trước. Luyện tập cảm giác im lặng 7 giây.
  **Ghi chú JP:** 5シナリオを商談前夜に必ず音読 5回以上。沈黙7秒も体感練習。
 
-### Rule 20 — Checklist phản hồi 'đắt' 3 bước
+### Rule 20 — Danh sách kiểm tra phản hồi 'đắt' 3 bước
 
 *JP: 「高い」対応 3-step チェックリスト*
 
@@ -293,7 +293,7 @@ Tel: 〇〇
    数値なしの reframe「value があります」
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
 --- Step 1: ACKNOWLEDGE (5-10s) ---
@@ -304,7 +304,7 @@ Tel: 〇〇
 --- Step 2: REFRAME (30-60s) ---
   □ 「ただ少し別の角度から」 (Xin phép từ góc khác)
   □ Show cơ sở số (1 hoặc nhiều):
-    □ Cost-of-inaction (tính chi phí giữ nguyên)
+    □ Chi phí của việc không hành động (tính chi phí giữ nguyên)
     □ Bội số ROI
     □ Giá trị thời gian (tổn thất chậm trễ)
     □ Risk-adjusted (chi phí nếu fail)
@@ -313,7 +313,7 @@ Tel: 〇〇
 --- Bước 3: 3 PHƯƠNG ÁN (60-90s) ---
   □ Phương án A: giữ giá gốc + đánh đổi thêm giá trị
   □ Phương án B: cắt phạm vi hạ giá
-  □ Phương án C: mở rộng (decoy)
+  □ Phương án C: mở rộng (mồi nhử)
   □ Chốt 'phương án nào hợp cảm giác chi phí của quý cty ạ?'
 
 ---  NG ---
@@ -323,10 +323,10 @@ Tel: 〇〇
    Đổi góc nhìn không có số 'có giá trị lắm ạ'
 ```
 
- **Ghi chú VN:** Chuẩn bị trước phép tính Cost-of-inaction. KHÔNG tính trong phòng đàm phán.
+ **Ghi chú VN:** Chuẩn bị trước phép tính chi phí của việc không hành động. KHÔNG tính trong phòng đàm phán.
  **Ghi chú JP:** 事前に Cost-of-inaction 計算を準備。商談中に計算しない。
 
-### Rule 45 — Mẫu nhìn lại 5 mục cho đàm phán
+### Rule 45 — Mẫu nhìn lại và cải tiến 5 mục
 
 *JP: 商談 Retro 5-section テンプレート*
 
@@ -366,7 +366,7 @@ Tel: 〇〇
   □ 関係者に共有済み
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
 [Nhìn lại Đàm Phán] vụ 〇〇 (vòng 〇)
@@ -376,7 +376,7 @@ Tel: 〇〇
 
 --- ① What Worked ---
   □ 〇〇 (vd: BATNA 3 kịch bản làm điểm rút lui rõ)
-  □ 〇〇 (vd: recap mail trong 24h khiến ringi không block)
+  □ 〇〇 (vd: mail tóm tắt trong 24h khiến ringi không block)
   □ 〇〇
 
 --- ② What Didn't ---
@@ -387,7 +387,7 @@ Tel: 〇〇
 --- ③ Giả định "nếu mình~" ---
   □ Nếu 〇〇, có thể 〇〇
   □ Nếu in sẵn 〇〇, có thể ngăn 〇〇
-  □ Nếu brief trước họp 1 phút 〇〇, có thể 〇〇
+  □ Nếu dặn dò trước họp 1 phút 〇〇, có thể 〇〇
 
 --- ④ Nhận diện xu hướng (lặp lại qua các vụ?) ---
   □ Quan sát cùng xu hướng ở 〇 vụ trước (vd: VN BD nhảy vào nhượng bộ ngay)
@@ -404,7 +404,7 @@ Tel: 〇〇
   □ Đã chia sẻ cho các bên liên quan
 ```
 
- **Ghi chú VN:** Tổ chức trong 1 tuần sau mỗi vụ. Lưu tài liệu trong team wiki. Cam kết không theo dõi 3 tháng = danh sách mong muốn rỗng. Tối đa 3 cam kết.
+ **Ghi chú VN:** Tổ chức trong 1 tuần sau mỗi vụ. Lưu tài liệu trong nhóm wiki. Cam kết không theo dõi 3 tháng = danh sách mong muốn rỗng. Tối đa 3 cam kết.
  **Ghi chú JP:** 商談ごとに 1 週間以内 開催。doc は team wiki 保存。3 ヶ月 follow-up なしの commit は wishlist。3 commit max。
 
 
@@ -455,7 +455,7 @@ Tel: 〇〇
 ※ Better をご選択の場合、〇月〇日着手可能
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
 --- Đề xuất 3 bậc — Dự án 〇〇 ---
@@ -498,10 +498,10 @@ Người đề xuất: ティエンファット 〇〇
 * Chọn Better có thể khởi động từ 〇/〇.
 ```
 
- **Ghi chú VN:** Better bắt buộc đặt giữa + đánh dấu 'Đề xuất'. Good cố ý yếu, Best overspec. Gap giá KHÔNG cách đều (giữ decoy).
+ **Ghi chú VN:** Better bắt buộc đặt giữa + đánh dấu 'Đề xuất'. Good cố ý yếu, Best quá mức cần thiết. Khoảng cách giá KHÔNG đều nhau (giữ hiệu ứng mồi nhử).
  **Ghi chú JP:** Better は「中央寄せ」「おすすめ」マーク必須。Good は意図的弱体化、Best は overspec。価格ギャップは均等にしない (decoy効果)。
 
-### Rule 32 — Mẫu LOI (basic agreement)
+### Rule 32 — Mẫu LOI (thỏa thuận cơ bản)
 
 *JP: 基本合意書 (LOI) テンプレート*
 
@@ -538,7 +538,7 @@ Người đề xuất: ティエンファット 〇〇
 乙: ティエンファット社  代表取締役 〇〇 〇〇  ㊞
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
 BASIC AGREEMENT (LOI)
@@ -576,7 +576,7 @@ Bên B: Cty Tiên Phát — Đại diện pháp luật 〇〇 〇〇  (Dấu)
  **Ghi chú VN:** LOI gói gọn 1-2 trang. KHÔNG đưa điều khoản chi tiết. Bắt buộc duyệt pháp chế. Ghi rõ hạn chót đóng dấu 2 tuần.
  **Ghi chú JP:** LOI は 1-2 ページに収める。詳細条項を入れない。法務レビュー必須。捺印期限 2 週間明記。
 
-### Rule 38 — Mẫu thông cáo báo chí chung (số tiền dạng quy mô)
+### Rule 38 — Mẫu thông cáo báo chí chung (số tiền dạng quy mô — duyệt chung)
 
 *JP: Joint PR Release テンプレート (数千万円規模 framing)*
 
@@ -620,7 +620,7 @@ Mail: pr@tienphat.vn
 Mail: pr@〇〇.co.jp
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
 Kính gửi báo chí
@@ -660,7 +660,7 @@ Tiên Phát PR 〇〇 — Mail: pr@tienphat.vn
 Cty 〇〇 PR 〇〇 — Mail: pr@〇〇.co.jp
 ```
 
- **Ghi chú VN:** BẮT BUỘC qua duyệt chung PR + pháp chế cả 2 bên. Embargo cùng ngày cùng giờ. Số tiền dùng cách đóng khung 'quy mô vài chục triệu yên', 'quy mô vài tỷ đồng'...
+ **Ghi chú VN:** BẮT BUỘC qua duyệt chung PR + pháp chế cả 2 bên. Đồng loạt phát tin cùng ngày cùng giờ. Số tiền dùng cách đóng khung 'quy mô vài chục triệu yên', 'quy mô vài tỷ đồng'...
  **Ghi chú JP:** 両社 PR + legal の joint approval 必須。embargo 同日同時刻 release。金額は『数千万円規模』『〇千万円規模』など framing。
 
 

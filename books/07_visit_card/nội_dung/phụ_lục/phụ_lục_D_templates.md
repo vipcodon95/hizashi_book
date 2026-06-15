@@ -1,13 +1,13 @@
 # Phụ lục D — Mẫu Tổng Hợp / テンプレート集
 
-*Tổng hợp các mẫu (agenda, biên bản, mail) đính kèm trong các rules. Copy-paste để dùng.*
+*Tổng hợp các mẫu (chương trình họp, biên bản, mail) đính kèm trong các rules. Sao chép để dùng.*
 
 ---
 
 
-## Email follow-up (1 mẫu)
+## Email theo dõi (1 mẫu)
 
-### Rule 30 — Mẫu Mail Cảm Ơn Sau Dinner Tiếp Khách
+### Rule 30 — Mẫu Mail Cảm Ơn Sau Bữa Tối Tiếp Khách
 
 *JP: 接待ディナー後 お礼メール・テンプレート*
 
@@ -37,7 +37,7 @@ TEL: 〇〇
 E-mail: 〇〇
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
 [Subject] Cảm ơn: Bữa tối hôm qua
@@ -65,7 +65,7 @@ TEL: 〇〇
 E-mail: 〇〇
 ```
 
- **Ghi chú VN:** Lý tưởng = gửi 8-9h sáng hôm sau. To riêng từng người + CC sếp, BCC = đại kỵ. Trích 1-2 chủ đề cụ thể + hẹn lần sau để giữ 'nhiệt'. Dài quá NG (cỡ 200-300 chữ JP).
+ **Ghi chú VN:** Lý tưởng = gửi 8-9h sáng hôm sau. To riêng từng người + CC sếp, BCC = đại kỵ. Trích 1-2 chủ đề cụ thể + hẹn lần sau để giữ 'nhiệt'. Dài quá NG (khoảng 200-300 chữ JP).
  **Ghi chú JP:** 翌朝8-9時送信が理想。To個別+CC上司、BCC禁忌。具体的話題引用1-2点+次回約束で『温度』を保つ。長すぎるNG (200-300字目安)。
 
 
@@ -105,7 +105,7 @@ E-mail: 〇〇
    - 名刺取り出し練習 (3秒以内)
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
 [Danh sách kiểm tra 4 Điều Kiện Chuẩn Bị Danh Thiếp — hoàn tất chiều hôm trước sự kiện]
@@ -113,25 +113,25 @@ E-mail: 〇〇
 □ ① Hộp riêng
    - Mang hộp đựng danh thiếp (KHÔNG ví)
    - Hộp sạch không bẩn
-   - Hộp dự phòng 1 cái (backup)
+   - Hộp dự phòng 1 cái
 
 □ ② In 2 mặt
    - Mặt JP: tên kanji + furigana + chức vụ
    - Mặt EN: tên romaji + chức danh + tên công ty
-   - Check 2 mặt khớp nhau (chức vụ không lệch)
+   - Kiểm tra 2 mặt khớp nhau (chức vụ không lệch)
 
 □ ③ Số lượng
    - Cần thiết: số người × 2 lần
      Tính: ___ người × 2 = ___ tờ
-   - Dự phòng: + ___ tờ (phòng surprise + interpreter)
+   - Dự phòng: + ___ tờ (phòng khách bất ngờ + phiên dịch)
    - Tổng: ___ tờ
 
-□ ④ Check typo
-   - Tự check
-   - Cấp trên (Tech Lead / Phó phòng) kiểm tra hai lượt
-   - Ngày giờ + người check: ___
+□ ④ Kiểm tra lỗi chính tả
+   - Tự kiểm tra
+   - Cấp trên (Trưởng nhóm kỹ thuật / Phó phòng) kiểm tra hai lượt
+   - Ngày giờ + người kiểm tra: ___
 
-□ Check sáng ngày G (trước khi xuất phát)
+□ Kiểm tra sáng ngày G (trước khi xuất phát)
    - Mở hộp xem có đủ
    - Để túi áo phải vị trí cố định
    - Tập rút danh thiếp (trong 3 giây)
@@ -173,7 +173,7 @@ E-mail: 〇〇
    - 次のアクション明記
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
 [Quản lý danh thiếp trong 24h — mỗi tờ ~3-5 phút]
@@ -181,21 +181,21 @@ E-mail: 〇〇
 [ ] STEP 1: Nhập CRM (trong ngày)
    - Họ tên / Cty / Phòng / Chức vụ
    - Liên hệ (mail / TEL / SNS sau danh thiếp)
-   - Ngày gặp / Tên event
+   - Ngày gặp / Tên sự kiện
 
 [ ] STEP 2: Ghi chú ngữ cảnh (1 dòng/người)
    Cấu trúc:
    '[Chủ đề] / câu nói đặc trưng '〇〇' / Việc tiếp theo [〇〇 by 〇/〇]'
    Ví dụ:
-   Nakamura CFO → 'Lo trần budget Phase 4 15tr yên / 'Sẽ xem lại sau quyết toán Q3' / Gửi RFP Phase 4 by 15/7'
+   Nakamura CFO → 'Lo trần ngân sách Phase 4 15tr yên / 'Sẽ xem lại sau quyết toán Q3' / Gửi RFP Phase 4 by 15/7'
 
-[ ] STEP 3: Scan lưu
+[ ] STEP 3: Quét lưu
    - Cả mặt trước + sau
-   - Folder chung Google Drive /danh_thiep/[năm-tháng]/
+   - Thư mục chung Google Drive /danh_thiep/[năm-tháng]/
    - Tên file: [yyyymmdd]_[họ tên]_[cty].jpg
 
 [ ] STEP 4: Chia sẻ nội bộ
-   - PM / Lead / Phó phòng liên quan qua Slack
+   - PM / Trưởng nhóm / Phó phòng liên quan qua Slack
    - Tránh liên hệ trùng lặp
 
 [ ] STEP 5: Gửi thư tiếp theo
@@ -249,18 +249,18 @@ E-mail: 〇〇
    - 紙袋(ロゴ控えめ)
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
 [Danh sách kiểm tra trước chuyến công tác 24h — hoàn tất trước D-1 18:00]
 
-[ ] (1) Mail confirm (trước 24h)
+[ ] (1) Mail xác nhận (trước 24h)
    - To: 担当者 / CC: cấp trên
    - Nội dung: ngày giờ + số người + tên + giờ dự kiến đến (5-10p trước)
-   - Yêu cầu lễ tân support
-   Giờ nhận reply: ___
+   - Yêu cầu lễ tân hỗ trợ
+   Giờ nhận phản hồi: ___
 
-[ ] (2) Dress code
+[ ] (2) Trang phục
    - Suit: xanh đậm / đen
    - Áo: trắng (xanh nhạt cũng được)
    - Cravate: đơn sắc / hoa văn nhẹ
@@ -276,20 +276,20 @@ E-mail: 〇〇
 
 [ ] (4) Đồ mang
    - Danh thiếp 50 tờ (rule 01)
-   - IC card Suica/Pasmo đã charge
-   - Cash 1 man yen (taxi / emergency)
+   - IC card Suica/Pasmo đã nạp tiền
+   - Tiền mặt 1 man yen (taxi / khẩn cấp)
    - Sổ ghi chú + bút
-   - Phone pin đầy + mobile battery
+   - Pin điện thoại đầy + pin sạc dự phòng
    - In bản đồ địa điểm (bản in sẵn)
 
 [ ] (5) Omiyage
-   - Brand: ___
+   - Thương hiệu: ___
    - Số lượng: số 担当者 + 2 dự phòng
    - Xuất xứ VN / đóng gói riêng / hạn dài
    - Túi giấy (logo nhẹ)
 ```
 
- **Ghi chú VN:** 5 mục xong trước D-1 18:00. Phát hiện thiếu sáng ngày G = chắc chắn delay.
+ **Ghi chú VN:** 5 mục xong trước D-1 18:00. Phát hiện thiếu sáng ngày G = chắc chắn trễ.
  **Ghi chú JP:** 5要素D-1 18:00までに完了。当日朝発覚=即遅延。
 
 ### Rule 28 — Danh sách kiểm tra Chuẩn Bị + Trao Omiyage
@@ -334,7 +334,7 @@ E-mail: 〇〇
 □ × 自分のロゴ大きい袋
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
 [Danh sách kiểm tra Omiyage — chuẩn bị trước VN + trao tại chỗ]
@@ -343,9 +343,9 @@ E-mail: 〇〇
 [ ] Xuất xứ VN (cà phê / trà / bánh / thêu / sơn mài)
 [ ] Đóng gói riêng từng phần (chia trong cty được)
 [ ] HSD còn 1 tháng+
-[ ] Size: mang lên máy bay / về nước OK
+[ ] Kích thước: mang lên máy bay / về nước OK
 [ ] Giá: tương đương 1,500-3,000 yên/người (đắt quá NG)
-[ ] Brand: ___
+[ ] Thương hiệu: ___
 [ ] Số lượng: số 担当者 + dự phòng 2 = ___ phần
 
 [B] Đóng gói
@@ -354,8 +354,8 @@ E-mail: 〇〇
 [ ] Túi logo to NG (trông như quảng cáo)
 
 [C] Thời điểm trao (ngày G)
-[ ] Meeting: sau khi xong, trước khi rời phòng
-[ ] Dinner: sau trà cuối course
+[ ] Họp: sau khi xong, trước khi rời phòng
+[ ] Bữa tối: sau trà cuối suất ăn
 [ ] Trao ngay đầu = NG (cả buổi quà nằm trên bàn)
 
 [D] Cách trao (từng người)
@@ -368,7 +368,7 @@ E-mail: 〇〇
 
 [E] Danh sách NG
 [ ] x Đưa cả túi giấy
-[ ] x Khoe giá / brand / độ hiếm
+[ ] x Khoe giá / thương hiệu / độ hiếm
 [ ] x Đặt bừa lên bàn
 [ ] x Giục mở quà ('mở ra xem đi' = NG)
 [ ] x Túi giấy logo cty mình to chiếm hết
@@ -431,7 +431,7 @@ E-mail: 〇〇
 □ 緊急連絡先 list
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
 [Danh sách kiểm tra Bộ Đồ Thiết Yếu Công Tác Tokyo Lần Đầu — xong trước D-2]
@@ -446,27 +446,27 @@ E-mail: 〇〇
 [2] Giao thông
 [ ] IC card Suica/Pasmo (mua tại quầy xanh JR Narita)
    - Số dư khuyên: 5,000 yên
-   - iPhone hỗ trợ thì setup eSIM Suica trước
+   - iPhone hỗ trợ thì cài eSIM Suica trước
 [ ] In bản đồ khách sạn → địa điểm (bản in sẵn)
 [ ] Đặt vé Narita Express / Skyliner
 
 [3] Trang phục
 [ ] Suit xanh đậm 1 bộ (mặc D1)
-[ ] Suit đen 1 bộ (dự phòng / formal)
+[ ] Suit đen 1 bộ (dự phòng / trang trọng)
 [ ] Áo trắng x số ngày + 1
 [ ] Cravate đơn sắc x 2
 [ ] Giày da đen + bộ đánh giày
-[ ] Hanger (chống nhăn trong vali)
-[ ] Steamer mini (dùng tại khách sạn)
+[ ] Móc áo (chống nhăn trong vali)
+[ ] Máy hơi nước mini (dùng tại khách sạn)
 
 [4] Omiyage
-[ ] 6 phần brand VN cao cấp (đóng gói riêng)
+[ ] 6 phần thương hiệu VN cao cấp (đóng gói riêng)
 [ ] 6 túi giấy (logo nhẹ)
 [ ] Phân bổ: CFO 1 / trưởng 1 / PM 1 / PMO 1 / dự phòng 2
 
 [5] Thời tiết + sức khỏe
 [ ] Ô gấp
-[ ] Cardigan / áo khoác mỏng
+[ ] Áo len / áo khoác mỏng
 [ ] Thuốc đặc trị + thuốc thông thường (đau đầu, dạ dày)
 [ ] Khẩu trang (phấn hoa / dịch)
 
@@ -475,15 +475,15 @@ E-mail: 〇〇
 [ ] Pin sạc dự phòng 10,000 mAh+
 [ ] Phích cắm chuyển A type (Nhật 100V)
 [ ] Laptop + sạc
-[ ] Slack/Teams đã login trên phone
+[ ] Slack/Teams đã đăng nhập trên điện thoại
 
-[7] Giấy tờ (cặp riêng, secure)
-[ ] Bản sao giấy mời / invitation letter
+[7] Giấy tờ (cặp riêng, bảo mật)
+[ ] Bản sao giấy mời / thư mời
 [ ] In địa chỉ + SĐT địa điểm thăm (bản in sẵn)
 [ ] Danh sách liên hệ khẩn cấp
 ```
 
- **Ghi chú VN:** Phân biệt rõ thứ làm trước khi rời VN và thứ mua tại sân bay Nhật. Omiyage / cash / mạng = bắt buộc xong tại VN.
+ **Ghi chú VN:** Phân biệt rõ thứ làm trước khi rời VN và thứ mua tại sân bay Nhật. Omiyage / tiền mặt / mạng = bắt buộc xong tại VN.
  **Ghi chú JP:** 出発前(VN)に終わらせるもの・現地空港で揃えるものを混同しない。お土産・現金・通信は必ずVN出発前。
 
 ### Rule 35 — Mẫu Tự Đánh Giá 5 Mục Kiểu Hizashi
@@ -532,7 +532,7 @@ E-mail: 〇〇
 本振り返りを次回同種イベント前日に再読し、課題・改善 action が解消されたか確認。
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
 [Mẫu Tự Đánh Giá Hizashi — 5 mục]
@@ -541,7 +541,7 @@ Ngày: ___
 Người tham gia: ___
 Người điền: ___
 
-[1] Điểm tốt (3 cái, viết kiểu pattern tái lặp được)
+[1] Điểm tốt (3 cái, viết kiểu mẫu tái lặp được)
 (1) ___
 (2) ___
 (3) ___
@@ -562,10 +562,10 @@ Người điền: ___
 - Đặc điểm khách mới: ___
 
 [5] Lưu hồ sơ (cập nhật 2 nơi)
-[ ] Notion 'OO playbook' update
+[ ] Notion 'OO playbook' cập nhật
 [ ] CRM tab khách 'log OO/OO của OO' thêm vào
 [ ] Chia sẻ tóm tắt qua Slack #learning
-[ ] Gửi thank-you message cho người liên quan
+[ ] Gửi tin nhắn cảm ơn cho người liên quan
 
 [Hạn chót]
 - Họp tự đánh giá: trong 1 ngày làm việc sau sự kiện
@@ -576,7 +576,7 @@ Người điền: ___
 Trước sự kiện cùng loại lần sau, đọc lại bài tự đánh giá này, kiểm tra vấn đề + việc cần cải thiện đã giải quyết chưa.
 ```
 
- **Ghi chú VN:** 5 mục bắt buộc làm sau mỗi chuyến công tác / tiếp khách / họp quan trọng. 'Cải thiện' không có chủ + hạn chót = không bao giờ làm. Lưu Notion + CRM để team tích lũy kinh nghiệm.
+ **Ghi chú VN:** 5 mục bắt buộc làm sau mỗi chuyến công tác / tiếp khách / họp quan trọng. 'Cải thiện' không có chủ + hạn chót = không bao giờ làm. Lưu Notion + CRM để đội nhóm tích lũy kinh nghiệm.
  **Ghi chú JP:** 5項目を毎 onsite/接待/重要会議 後に必ず実行。担当者+期限なしの『改善』は実行されない。Notion+CRM 両方記録で team learning 蓄積。
 
 

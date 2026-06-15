@@ -2,7 +2,7 @@
 
 *Tổng hợp tất cả BJT practice questions từ 60 rules, sắp xếp theo level và skill.*
 
-*Dùng để luyện thi BJT business Japanese — câu hỏi có audio prompt được link đến rule gốc.*
+*Dùng để luyện thi BJT tiếng Nhật công việc — câu hỏi có audio prompt được link đến rule gốc.*
 
 ---
 
@@ -94,6 +94,7 @@
 - 24時間以内処理が原則。脳の文脈記憶は24h以内に80%以上保持。
 - Quy tắc 24h. Não giữ >80% ngữ cảnh trong 24h.
 
+
 ### J3.6 (từ rule_08 — Đón khách tại sảnh)
 
 **Skill:** 場面把握
@@ -160,7 +161,7 @@
 
 **Giải thích / 解説:**
 - お土産はVN出発前に高品質ブランドで準備。空港購入は心遣いマイナス。
-- Omiyage chuẩn bị từ VN với brand chất lượng. Mua sân bay = giảm tâm.
+- Omiyage chuẩn bị từ VN với thương hiệu chất lượng. Mua sân bay = giảm tâm.
 
 ### J3.10 (từ rule_17 — Đến sảnh 5-10 phút trước)
 
@@ -177,9 +178,9 @@
 
 **Giải thích / 解説:**
 - 5-10分前が standard。早すぎ30分は host surprise、定刻=受付/エレベーターで実質遅刻。
-- Tiêu chuẩn 5-10p trước. Sớm 30p = surprise. Đúng giờ = lễ tân/thang máy = thực muộn.
+- Tiêu chuẩn 5-10p trước. Sớm 30p = bất ngờ. Đúng giờ = lễ tân/thang máy = thực muộn.
 
-### J3.11 (từ rule_18 — Check-in tại lễ tân)
+### J3.11 (từ rule_18 — Đăng ký tại lễ tân)
 
 **Skill:** 表現読解
 
@@ -228,7 +229,7 @@
 
 **Giải thích / 解説:**
 - businessは2回。3回はWC、1回は親密。
-- Business 2 lần. 3 lần = WC, 1 lần = thân mật.
+- Gõ 2 lần. 3 lần = WC, 1 lần = thân mật.
 
 ### J3.14 (từ rule_23 — Rời văn phòng trang trọng)
 
@@ -245,9 +246,9 @@
 
 **Giải thích / 解説:**
 - 起立 → 正式bow → ドア前で再bow が日本式退室の3点セット。最後の印象=最大記憶。
-- Đứng dậy → bow chính thức → trước cửa bow lần 2 = combo退室 Nhật. Ấn tượng cuối ăn sâu nhất.
+- Đứng dậy → cúi chào chính thức → trước cửa cúi chào lần 2 = tổ hợp退室 Nhật. Ấn tượng cuối ăn sâu nhất.
 
-### J3.15 (từ rule_24 — Mời khách dinner formal)
+### J3.15 (từ rule_24 — Mời khách bữa tối trang trọng)
 
 **Skill:** 場面把握
 
@@ -262,7 +263,7 @@
 
 **Giải thích / 解説:**
 - 接待ディナーは個室+事前menu+食事制限確認+送迎の4点セット。
-- Tiếp khách dinner = combo phòng riêng + menu đặt trước + hỏi dị ứng + xe đưa đón.
+- Tiếp khách bữa tối = tổ hợp phòng riêng + thực đơn đặt trước + hỏi dị ứng + xe đưa đón.
 
 ### J3.16 (từ rule_29 — Nhận omiyage)
 
@@ -279,9 +280,9 @@
 
 **Giải thích / 解説:**
 - 両手 + 『頂戴いたします』 + 後で開封 が3点セット。値段・即開封は最大NG。
-- 2 tay + 'choudai itashimasu' + mở sau = combo 3 điểm. Hỏi giá + mở ngay = NG cấp tối đa.
+- 2 tay + 'choudai itashimasu' + mở sau = tổ hợp 3 điểm. Hỏi giá + mở ngay = NG cấp tối đa.
 
-### J3.17 (từ rule_30 — After-dinner thank-you mail)
+### J3.17 (từ rule_30 — Thư cảm ơn sau bữa tối)
 
 **Skill:** 場面把握
 
@@ -296,9 +297,9 @@
 
 **Giải thích / 解説:**
 - 24h以内 + 個別To + CC上司 + 具体話題引用 + 次回約束 が黄金パターン。
-- Trong 24h + To riêng + CC sếp + trích chủ đề cụ thể + hẹn lần sau = công thức vàng.
+- Trong 24h + To riêng + CC sếp + trích chủ đề cụ thể + hẹn lần sau = kiểu vàng.
 
-### J3.18 (từ rule_32 — Cúi chào angle theo cấp bậc)
+### J3.18 (từ rule_32 — Góc cúi chào theo cấp bậc)
 
 **Skill:** 場面把握
 
@@ -316,6 +317,7 @@
 - Lần đầu gặp CFO = 45° saikeirei. 30° hơi nhẹ, 90° chỉ dùng xin lỗi.
 
 ### J3.19 (từ rule_34 — Công tác Nhật lần đầu — bộ đồ thiết yếu)
+
 
 **Skill:** 場面把握
 
@@ -452,7 +454,7 @@
 
 **Giải thích / 解説:**
 - 到着時は遅刻非言及が原則。passive-aggressive な発話は relationship を毀損。
-- Đến nơi KHÔNG đề cập muộn. Câu passive-aggressive làm hỏng relationship.
+- Đến nơi KHÔNG đề cập muộn. Câu nói có ý công kích ngầm làm hỏng quan hệ.
 
 ### J2.8 (từ rule_20 — Ngồi đợi đúng cách trong phòng khách)
 
@@ -469,7 +471,7 @@
 
 **Giải thích / 解説:**
 - 上座占有回避+phone/laptop OFFが基本。下座宣言で trained junior 印象。
-- Không chiếm 上座 + phone/laptop OFF. Báo 下座 = ấn tượng 'junior trained'.
+- Không chiếm 上座 + phone/laptop OFF. Báo 下座 = ấn tượng 'nhân viên mới được đào tạo bài bản'.
 
 ### J2.9 (từ rule_22 — Đi quanh văn phòng / nhà máy)
 
@@ -503,7 +505,7 @@
 
 **Giải thích / 解説:**
 - host = order(menu決定) + pour(常時注ぐ) + pay(こっそり清算) の3点全責任。
-- Bên tiếp đón = order (chốt menu) + pour (rót liên tục) + pay (trả kín đáo) — 3 trách nhiệm trọn gói.
+- Bên tiếp đón = gọi món (chốt thực đơn) + rót (rót liên tục) + trả tiền (trả kín đáo) — 3 trách nhiệm trọn gói.
 
 ### J2.11 (từ rule_26 — Cụng ly 乾杯 chuẩn)
 
@@ -554,7 +556,7 @@
 
 **Giải thích / 解説:**
 - 袋から出す → 文字向き相手 → 両手 → 謙遜固定句 → 上位者順 が4点セット。
-- Lấy ra khỏi túi → hướng chữ về khách → 2 tay → câu khiêm nhường → trao theo thứ tự cấp bậc — combo 4 điểm.
+- Lấy ra khỏi túi → hướng chữ về khách → 2 tay → câu khiêm nhường → trao theo thứ tự cấp bậc — tổ hợp 4 điểm.
 
 ### J2.14 (từ rule_31 — Khách Nhật đoàn lớn 5+ người)
 
@@ -571,9 +573,9 @@
 
 **Giải thích / 解説:**
 - 5+人は席札・席次表・zone pour・flow table の4点が必須。自由着席は混乱の元。
-- 5+ người = bắt buộc 4 thứ: bảng tên, sơ đồ ngồi, rót theo zone, flow table. Tự do = nguồn hỗn loạn.
+- 5+ người = bắt buộc 4 thứ: bảng tên, sơ đồ ngồi, rót theo khu vực, bảng lịch trình. Tự do = nguồn hỗn loạn.
 
-### J2.15 (từ rule_33 — Tránh culture clash VN-JP)
+### J2.15 (từ rule_33 — Tránh khác biệt VN-JP)
 
 **Skill:** 表現読解
 
@@ -588,7 +590,7 @@
 
 **Giải thích / 解説:**
 - VN流『自分でやる/俺が払う/即返し』は日本式相互ケアと衝突。譲って次回 host を申し出るのが正解。
-- Kiểu VN 'tự làm/để em trả/đáp lễ ngay' xung đột với kiểu Nhật chăm sóc lẫn nhau. Đúng là nhường, hẹn lần sau mình mời.
+- Kiểu VN 'tự làm / để em trả / đáp lễ ngay' xung đột với kiểu Nhật chăm sóc lẫn nhau. Đúng là nhường, hẹn lần sau mình mời.
 
 ### J2.16 (từ rule_35 — Tự đánh giá sau nghi lễ tiếp khách)
 
@@ -605,11 +607,11 @@
 
 **Giải thích / 解説:**
 - 5項目構造化 + 担当者&期限付きaction + 2系統記録 が再現可能な team learning。
-- 5 mục cấu trúc + việc cần làm có chủ + hạn chót + lưu 2 nơi = team learning tái sử dụng được.
+- 5 mục cấu trúc + việc cần làm có chủ + hạn chót + lưu 2 nơi = học hỏi đội nhóm tái sử dụng được.
 
 
 **Tổng số câu hỏi:** 35
 
 ---
 
-*Tài liệu này có thể export thành quiz tương tác.*
+*Tài liệu này có thể xuất thành bài trắc nghiệm tương tác.*

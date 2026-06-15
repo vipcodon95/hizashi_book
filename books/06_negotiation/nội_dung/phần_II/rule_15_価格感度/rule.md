@@ -1,4 +1,4 @@
-# Rule 15 — Probe price sensitivity / 価格感度の探り
+# Rule 15 — Thăm dò mức độ nhạy cảm giá / 価格感度の探り
 
 > **Luận điểm.** Hỏi "予算いくら?" trực tiếp = khách Nhật khó trả lời (cảm giác bị "ép"). Hỏi gián tiếp 3 cách: **(1) Theo khung** ("年度予算のフレームの中で"), **(2) Theo dải** ("¥10M〜¥30M のどの帯域"), **(3) So sánh** ("Phase 2 と比較してどの程度の規模感"). Chọn đúng câu hỏi → khách chia sẻ dải ngân sách 80% trường hợp.
 >
@@ -37,12 +37,12 @@ Trong bước khai thác thông tin (rule 12, phần Ngân sách), Dũng cần t
 | **中村CFO** | 「Phase 3 は<ruby>重要案件<rt>じゅうようあんけん</rt></ruby>として<ruby>中位<rt>ちゅうい</rt></ruby>以上に位置付けています。」 <br/>*Phase 3 là dự án quan trọng, định vị ở mức trung vị trở lên.* |
 | **ズン** | 「**Phase 2 が ¥14.5M でしたが、Phase 3 は<ruby>機能拡張<rt>きのうかくちょう</rt></ruby>として<ruby>規模感的<rt>きぼかんてき</rt></ruby>にどのあたりを<ruby>想定<rt>そうてい</rt></ruby>されておられますか**【2】？」 <br/>*Phase 2 là ¥14.5M, Phase 3 là mở rộng chức năng thì quý anh dự ở mức quy mô nào ạ?* |
 | **中村CFO** | 「Phase 2 <ruby>比<rt>ひ</rt></ruby> 1.2-1.4 <ruby>倍程度<rt>ばいていど</rt></ruby>、つまり ¥17-20M の<ruby>帯域<rt>たいいき</rt></ruby>で考えています。」 <br/>*Khoảng 1.2-1.4 lần Phase 2, tức là dải ¥17-20M.* |
-| **ズン** | 「ありがとうございます。**¥17-20M の帯域**、<ruby>参考<rt>さんこう</rt></ruby>にさせていただきます【3】。<ruby>本日<rt>ほんじつ</rt></ruby>の3<ruby>段階<rt>だんかい</rt></ruby><ruby>提案<rt>ていあん</rt></ruby>も、その帯域を<ruby>中心<rt>ちゅうしん</rt></ruby>に位置付けております。」 <br/>*Em cảm ơn ạ. Em xin tham khảo dải ¥17-20M ạ. Đề xuất 3-tier hôm nay cũng định vị quanh dải đó ạ.* |
+| **ズン** | 「ありがとうございます。**¥17-20M の帯域**、<ruby>参考<rt>さんこう</rt></ruby>にさせていただきます【3】。<ruby>本日<rt>ほんじつ</rt></ruby>の3<ruby>段階<rt>だんかい</rt></ruby><ruby>提案<rt>ていあん</rt></ruby>も、その帯域を<ruby>中心<rt>ちゅうしん</rt></ruby>に位置付けております。」 <br/>*Em cảm ơn ạ. Em xin tham khảo dải ¥17-20M ạ. Đề xuất 3 bậc hôm nay cũng định vị quanh dải đó ạ.* |
 
  **Ghi chú:**
 - 【1】**「位置付け」「フレームの中で」** = câu hỏi định tính, dễ trả lời. Khách chia sẻ thứ hạng đại khái, không phải con số chính xác.
 - 【2】**Cách hỏi theo so sánh** dựa trên Phase 2 ¥14.5M (mốc tham chiếu đã biết). Khách dễ trả lời倍数 (bội số) hơn 絶対値 (con số tuyệt đối).
-- 【3】**Nhắc lại dải số** "¥17-20M の帯域" để khách xác nhận/đính chính + ghi nhớ vào ringi sheet.
+- 【3】**Nhắc lại dải số** "¥17-20M の帯域" để khách xác nhận/đính chính + ghi nhớ vào phiếu ringi.
 
 ---
 
@@ -57,7 +57,7 @@ Trong bước khai thác thông tin (rule 12, phần Ngân sách), Dũng cần t
 ## Tránh
 
 - "予算いくらですか" — tông tra hỏi, khách đóng cửa
-- Thăm dò giá quá sớm (chưa qua Pain/Goal) → khách thấy "anh chỉ quan tâm tiền"
+- Thăm dò giá quá sớm (chưa qua Vấn đề/Mục tiêu) → khách thấy "anh chỉ quan tâm tiền"
 - Bỏ qua khi khách trả lời mơ hồ ("検討中") → đẩy thêm 1 cách lịch sự, không lùi
 - Quên nhắc lại dải số → khách không cảm thấy đã cam kết
 

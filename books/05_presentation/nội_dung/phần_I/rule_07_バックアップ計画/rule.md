@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Ngày trước buổi trình bày, Hải DevOps tình cờ ngang qua phòng họp lúc Dũng kiểm tra → phát hiện: laptop chưa có đầu chuyển HDMI, bộ slide chỉ ở Dropbox (cần internet), demo gọi API trực tiếp. Một sự cố là toàn bộ bế tắc.
+Ngày trước buổi trình bày, Hải DevOps tình cờ ngang qua phòng họp lúc Dũng kiểm tra → phát hiện: máy tính xách tay chưa có đầu chuyển HDMI, bộ slide chỉ ở Dropbox (cần mạng), demo gọi API trực tiếp. Một sự cố là toàn bộ bế tắc.
 
 ---
 
@@ -34,7 +34,7 @@ Ngày trước buổi trình bày, Hải DevOps tình cờ ngang qua phòng họ
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「ハイさん、ありがとう。**Plan Bチェックリスト**【1】で揃えました。①PDF版 USB+ローカル、②オフラインデモ<ruby>準備<rt>じゅんび</rt></ruby>、③テザリング<ruby>有効<rt>ゆうこう</rt></ruby>、④HDMI+USB-C+VGAアダプタ<ruby>持参<rt>じさん</rt></ruby>、⑤<ruby>印刷<rt>いんさつ</rt></ruby>5部。」 <br/>*Anh Hải, cảm ơn anh ạ. Em đã chuẩn bị xong theo checklist Plan B. ① Bản PDF trên USB + local, ② demo offline, ③ tethering bật sẵn, ④ mang HDMI + USB-C + VGA adapter, ⑤ in 5 bản.* |
+| **ズン** | 「ハイさん、ありがとう。**Plan Bチェックリスト**【1】で揃えました。①PDF版 USB+ローカル、②オフラインデモ<ruby>準備<rt>じゅんび</rt></ruby>、③テザリング<ruby>有効<rt>ゆうこう</rt></ruby>、④HDMI+USB-C+VGAアダプタ<ruby>持参<rt>じさん</rt></ruby>、⑤<ruby>印刷<rt>いんさつ</rt></ruby>5部。」 <br/>*Anh Hải, cảm ơn anh ạ. Em đã chuẩn bị xong theo danh sách kiểm tra Plan B. ① Bản PDF trên USB + local, ② demo offline, ③ phát mạng di động bật sẵn, ④ mang HDMI + USB-C + VGA bộ chuyển đổi, ⑤ in 5 bản.* |
 | **ハイ** | 「いいね。USB は2本？1本<ruby>紛失<rt>ふんしつ</rt></ruby>リスク。」 <br/>*OK. USB 2 chiếc đúng không? 1 chiếc rủi ro mất đấy.* |
 | **ズン** | 「2本持参します。**もう1本はトゥアンさんに渡します**【2】(co-presenter として<ruby>保険<rt>ほけん</rt></ruby>)。」 <br/>*Em mang 2 chiếc ạ. Một chiếc đưa anh Tuấn (dự phòng với tư cách người đồng trình bày).* |
 | **ハイ** | 「<ruby>正解<rt>せいかい</rt></ruby>。それと PDF はクライアント側にも<ruby>事前共有<rt>じぜんきょうゆう</rt></ruby>しておくと、最悪『<ruby>画面共有<rt>がめんきょうゆう</rt></ruby>なしで紙ベース』に切り替えできる。」 <br/>*Chuẩn. Với cả PDF chia sẻ trước cho khách luôn — tệ nhất thì chuyển sang 「không chia sẻ màn hình, chỉ dùng giấy」 cũng được.* |
@@ -49,7 +49,7 @@ Ngày trước buổi trình bày, Hải DevOps tình cờ ngang qua phòng họ
 
 > **「Plan B 5点: PDF / オフラインデモ / テザリング / アダプタ3種 / <ruby>印刷<rt>いんさつ</rt></ruby>5部。Tech failure は『when』であって『if』ではない。」**
 >
-> *5 điểm backup. Tech fail là chuyện khi nào, không phải có hay không.*
+> *5 điểm dự phòng. Sự cố kỹ thuật là chuyện khi nào, không phải có hay không.*
 
 ---
 
@@ -101,11 +101,11 @@ Ngày trước buổi trình bày, Hải DevOps tình cờ ngang qua phòng họ
 
 ## Tránh
 
-- Bộ slide chỉ để trên đám mây → mất internet = không trình bày được
+- Bộ slide chỉ để trên đám mây → mất mạng = không trình bày được
 - Demo gọi API trực tiếp mà không có phương án không cần mạng → rớt 1 kết nối = hỏng toàn bộ
 - Chỉ 1 USB → thất lạc = hoảng loạn
-- Adapter chỉ 1 loại → khách dùng VGA/USB-C khác là toang
-- Test ở văn phòng mình rồi yên tâm → môi trường khách khác hẳn
+- Bộ chuyển đổi chỉ 1 loại → khách dùng VGA/USB-C khác là toang
+- Kiểm tra ở văn phòng mình rồi yên tâm → môi trường khách khác hẳn
 
 ---
 

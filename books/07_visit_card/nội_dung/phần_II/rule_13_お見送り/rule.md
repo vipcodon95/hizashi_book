@@ -1,6 +1,6 @@
 # Rule 13 — Kết thúc + tiễn khách / お見送り
 
-> **Luận điểm.** Tiễn khách = **đi cùng đến tiền sảnh/cửa thang máy/cửa taxi tùy mức trọng** + **đứng đợi cho đến khi cửa thang máy đóng / xe đi khuất** + **cúi chào 45° cuối**. Không tiễn (chào tạm biệt tại phòng họp) = "tôi xong với anh rồi". Tiễn ngắn (đến cửa thôi) = thiếu trọng lượng cho khách C-level.
+> **Luận điểm.** Tiễn khách = **đi cùng đến tiền sảnh/cửa thang máy/cửa taxi tùy mức trọng** + **đứng đợi cho đến khi cửa thang máy đóng / xe đi khuất** + **cúi chào 45° cuối**. Không tiễn (chào tạm biệt tại phòng họp) = "tôi xong với anh rồi". Tiễn ngắn (đến cửa thôi) = thiếu trọng lượng cho khách cấp lãnh đạo (C-level).
 >
 > お見送りは『送る場所(エレベーター/玄関/タクシー)を相手の格で決定・扉が閉まるまで起立・最後に45度お辞儀』。
 >
@@ -10,14 +10,14 @@
 
 ## Bối cảnh / 場面
 
-12:00 trưa, meeting Phase 3 kickoff kết thúc. Đoàn 大垣 + 中村 + 松本 chuẩn bị về khách sạn nghỉ. Chiều có dinner. Hương 副部長 + Dũng + Linh tiễn.
+12:00 trưa, cuộc họp Phase 3 kickoff kết thúc. Đoàn 大垣 + 中村 + 松本 chuẩn bị về khách sạn nghỉ. Chiều có bữa tối. Hương 副部長 + Dũng + Linh tiễn.
 
 **Quy tắc theo mức trọng:**
 - Khách thường: tiễn đến **cửa phòng họp / lễ tân**
 - Khách quan trọng: tiễn đến **tiền sảnh / cửa thang máy** (đợi cửa đóng)
-- C-level / lần gặp đầu: tiễn đến **cửa taxi / xe** (đợi xe đi khuất)
+- Cấp lãnh đạo (C-level) / lần gặp đầu: tiễn đến **cửa taxi / xe** (đợi xe đi khuất)
 
-Đoàn 中村 CFO + 大垣 部長 = C-level → tiễn đến cửa taxi.
+Đoàn 中村 CFO + 大垣 部長 = cấp lãnh đạo (C-level) → tiễn đến cửa taxi.
 
 ---
 
@@ -32,7 +32,7 @@
 | **ズン** | 「お<ruby>気<rt>き</rt></ruby>をつけて〜」 <br/>*Cẩn thận nhé~* |
 | **大垣** | *(im lặng đi)* |
 
-**Vì sao xấu:** (1) Chào tạm biệt tại phòng họp với C-level = vô lễ. (2) 「気をつけて帰ってください」+「お気をつけて〜」= quá suồng sã cho CFO cấp cao. (3) Không tiễn ra tiền sảnh = "việc tôi xong rồi anh tự về" = mất quan hệ.
+**Vì sao xấu:** (1) Chào tạm biệt tại phòng họp với cấp lãnh đạo (C-level) = vô lễ. (2) 「気をつけて帰ってください」+「お気をつけて〜」= quá suồng sã cho CFO cấp cao. (3) Không tiễn ra tiền sảnh = "việc tôi xong rồi anh tự về" = mất quan hệ.
 
 ---
 
@@ -53,7 +53,7 @@
 - 【1】**「お見送りさせていただきます」** — câu cố định khi đề nghị tiễn. KHÔNG dùng 「送ります」(quá suồng sã).
 - 【2】**Taxi đặt sẵn** — bên chủ nhà trách nhiệm. Khách Nhật không tự bắt Grab. Đặt trước 15 phút bằng app công ty hoặc taxi của khách sạn.
 - 【3】**Đợi xe khuất tầm mắt** — không phải đợi xe khởi hành rồi quay vào ngay. Đợi 5-10 giây cho đến khi xe **rẽ khuất** mới được đứng thẳng. Khách Nhật quay lại vẫy = mình vẫy lại được.
-- 【4】**「お気をつけてお帰りくださいませ」** > 「気をつけて帰ってください」 — bậc trang trọng cao nhất cho C-level.
+- 【4】**「お気をつけてお帰りくださいませ」** > 「気をつけて帰ってください」 — bậc trang trọng cao nhất cho cấp lãnh đạo (C-level).
 
 ---
 
@@ -67,7 +67,7 @@
 
 ## Tránh
 
-- Chào tạm biệt **tại phòng họp** với C-level → tiễn đến cửa
+- Chào tạm biệt **tại phòng họp** với cấp lãnh đạo (C-level) → tiễn đến cửa
 - **Quay vào ngay** sau khi xe lăn bánh → đợi xe khuất tầm mắt
 - "**Bye-bye**" / vẫy tay suồng sã với khách cấp cao → cúi chào 45° + câu cố định
 - Khách phải **tự bắt taxi** → bên chủ nhà đặt sẵn 15 phút trước

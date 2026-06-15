@@ -66,6 +66,13 @@ table.vocab5-table td, table.vocab5-table th { width: 20% !important; }
 table.cast-table { table-layout: fixed; }
 table.cast-table td, table.cast-table th { width: 25% !important; }
 
+/* === Bảng CẤU TRÚC front matter (Phần | Tên | Số rule) — 25/50/25 ===
+   Class cố định .cautruc-table do reset_colwidth.lua gán. */
+table.cautruc-table { table-layout: fixed; }
+table.cautruc-table td:nth-child(1), table.cautruc-table th:nth-child(1) { width: 25% !important; }
+table.cautruc-table td:nth-child(2), table.cautruc-table th:nth-child(2) { width: 50% !important; }
+table.cautruc-table td:nth-child(3), table.cautruc-table th:nth-child(3) { width: 25% !important; }
+
 /* === Bảng "Lúc nào|Việc gì" / "Khi nào|Việc cần làm" — custom 30/70 (rule_14, rule_17) ===
    Cột thời điểm → 30%; cột việc cần làm → 70%. */
 table.when-what-table { table-layout: fixed; }

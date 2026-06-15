@@ -42,7 +42,7 @@ lang: vi
 
 # Phần I — Chuẩn bị (準備)
 
-# Rule 01 — Checklist 7 câu hỏi trước khi soạn / プレゼン準備の7つの問い
+# Rule 01 — Danh sách 7 câu hỏi trước khi soạn / プレゼン準備の7つの問い
 
 > **Luận điểm.** Chưa trả lời được 7 câu hỏi này thì **chưa được mở PowerPoint**. Đa số người trình bày Việt nhảy thẳng vào thiết kế slide → ra bộ slide đẹp nhưng sai thông điệp. Khách Nhật không tha cho bộ slide "kỹ thuật cao, mục đích thấp".
 >
@@ -95,11 +95,11 @@ Tháng 5/2026, Phase 3 với 白鷗 sắp khởi động. Anh Hà CTO giao Dũng
 
 > **「<ruby>準備<rt>じゅんび</rt></ruby>の7<ruby>問<rt>もん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えられないうちは PowerPoint を<ruby>開<rt>ひら</rt></ruby>かない。」**
 >
-> *Chưa trả lời được 7 câu thì chưa được mở PowerPoint. Slide đẹp + message sai = vứt.*
+> *Chưa trả lời được 7 câu thì chưa được mở PowerPoint. Slide đẹp + thông điệp sai = vứt.*
 
 ---
 
-## Khung checklist 7 câu
+## Khung kiểm tra 7 câu
 
 ```
 【プレゼン準備チェックリスト】
@@ -166,7 +166,7 @@ Tháng 5/2026, Phase 3 với 白鷗 sắp khởi động. Anh Hà CTO giao Dũng
 
 # Rule 02 — Quy tắc mỗi slide một thông điệp / 1スライド1メッセージ
 
-> **Luận điểm.** Mỗi slide chỉ tải **1 điểm cốt lõi**. Title không phải chủ đề ("売上について") mà là kết luận ("Q2売上はQ1比+18%"). Người nghe Nhật quét slide trong 3 giây — nếu không thấy ngay thông điệp, slide vô dụng.
+> **Luận điểm.** Mỗi slide chỉ tải **1 điểm cốt lõi**. Tiêu đề không phải chủ đề ("売上について") mà là kết luận ("Q2売上はQ1比+18%"). Người nghe Nhật quét slide trong 3 giây — nếu không thấy ngay thông điệp, slide vô dụng.
 >
 > 1スライド＝1メッセージ。タイトルは「テーマ」ではなく「結論」を書く。聴衆は3秒でスキャンする — メッセージが見えなければそのスライドは無価値。
 >
@@ -177,37 +177,37 @@ Tháng 5/2026, Phase 3 với 白鷗 sắp khởi động. Anh Hà CTO giao Dũng
 
 ## Bối cảnh / 場面
 
-Sau khi điền xong 7問, Dũng quay lại với bản thảo 15 slide. Mỗi slide có title kiểu "Phase 3 について", "システム構成について" — toàn chủ đề, không có kết luận. Chị Hương xem lại trước buổi diễn thử.
+Sau khi điền xong 7問, Dũng quay lại với bản thảo 15 slide. Mỗi slide có tiêu đề kiểu "Phase 3 について", "システム構成について" — toàn chủ đề, không có kết luận. Chị Hương xem lại trước buổi diễn thử.
 
 ---
 
-## Trường hợp xấu — title là chủ đề
+## Trường hợp xấu — tiêu đề là chủ đề
 
 *chia sẻ màn hình*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、スライド10枚に<ruby>絞<rt>しぼ</rt></ruby>りました。タイトルご<ruby>確認<rt>かくにん</rt></ruby>ください。」 <br/>*Chị Hương, em đã rút xuống còn 10 slide. Phiền chị xem qua title giúp em ạ.* |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、スライド10枚に<ruby>絞<rt>しぼ</rt></ruby>りました。タイトルご<ruby>確認<rt>かくにん</rt></ruby>ください。」 <br/>*Chị Hương, em đã rút xuống còn 10 slide. Phiền chị xem qua tiêu đề giúp em ạ.* |
 | **フオン** | 「『Phase 3 について』『システム<ruby>構成<rt>こうせい</rt></ruby>について』… 全部『〜について』？それ**テーマ**でしょう？で、<ruby>結局<rt>けっきょく</rt></ruby>**何が言いたい**の？」 <br/>*「Phase 3 について」「Cấu hình hệ thống について」... toàn 「〜について」 hết? Đó là chủ đề mà? Cuối cùng em muốn nói gì?* |
 | **ズン** | 「えっと…Phase 3 ではこれをやるという…」 <br/>*Ờ... ý em là Phase 3 sẽ làm cái này...* |
-| **フオン** | 「だから『何を』をタイトルに書く。**1スライド1メッセージ**。タイトル＝<ruby>結論<rt>けつろん</rt></ruby>。<ruby>聴衆<rt>ちょうしゅう</rt></ruby>はタイトルだけ見て分かるべき。」 <br/>*Đó, viết 『cái gì』 vào title. Một slide một message. Title = kết luận. Khán giả chỉ nhìn title là phải hiểu.* |
+| **フオン** | 「だから『何を』をタイトルに書く。**1スライド1メッセージ**。タイトル＝<ruby>結論<rt>けつろん</rt></ruby>。<ruby>聴衆<rt>ちょうしゅう</rt></ruby>はタイトルだけ見て分かるべき。」 <br/>*Đó, viết 『cái gì』 vào tiêu đề. Một slide một thông điệp. Tiêu đề = kết luận. Khán giả chỉ nhìn tiêu đề là phải hiểu.* |
 
-**Vì sao xấu:** Title kiểu 「〜について」 chỉ nêu chủ đề chứ không truyền thông điệp. Khách Nhật xem bộ slide nhanh (3 giây/slide) — nếu title chỉ là chủ đề, họ phải đọc nội dung phần thân → mệt → mất tập trung.
+**Vì sao xấu:** Tiêu đề kiểu 「〜について」 chỉ nêu chủ đề chứ không truyền thông điệp. Khách Nhật xem bộ slide nhanh (3 giây/slide) — nếu tiêu đề chỉ là chủ đề, họ phải đọc nội dung phần thân → mệt → mất tập trung.
 
 ---
 
-## Trường hợp tốt — title là kết luận
+## Trường hợp tốt — tiêu đề là kết luận
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン副部長、タイトルを全部**<ruby>結論型<rt>けつろんがた</rt></ruby>**に書き<ruby>直<rt>なお</rt></ruby>しました【1】。10枚お願いします。」 <br/>*Chị Hương, em đã sửa toàn bộ title sang dạng kết luận ạ. Phiền chị rà soát 10 slide giúp em.* |
-| **フオン** | 「『Phase 3 で<ruby>在庫<rt>ざいこ</rt></ruby><ruby>差異<rt>さい</rt></ruby>を<ruby>月平均<rt>つきへいきん</rt></ruby>5%→1%に<ruby>削減<rt>さくげん</rt></ruby>』… うん、これなら**タイトルだけ読めば結論が分かる**。本文は何？」 <br/>*「Phase 3 giảm sai lệch tồn kho từ 5%/tháng xuống 1%」... ờ, thế này chỉ cần đọc title là hiểu kết luận. Phần thân em viết gì?* |
+| **ズン** | 「フオン副部長、タイトルを全部**<ruby>結論型<rt>けつろんがた</rt></ruby>**に書き<ruby>直<rt>なお</rt></ruby>しました【1】。10枚お願いします。」 <br/>*Chị Hương, em đã sửa toàn bộ tiêu đề sang dạng kết luận ạ. Phiền chị rà soát 10 slide giúp em.* |
+| **フオン** | 「『Phase 3 で<ruby>在庫<rt>ざいこ</rt></ruby><ruby>差異<rt>さい</rt></ruby>を<ruby>月平均<rt>つきへいきん</rt></ruby>5%→1%に<ruby>削減<rt>さくげん</rt></ruby>』… うん、これなら**タイトルだけ読めば結論が分かる**。本文は何？」 <br/>*「Phase 3 giảm sai lệch tồn kho từ 5%/tháng xuống 1%」... ờ, thế này chỉ cần đọc tiêu đề là hiểu kết luận. Phần thân em viết gì?* |
 | **ズン** | 「本文は**<ruby>根拠<rt>こんきょ</rt></ruby>3点**だけ書きました。<ruby>在庫<rt>ざいこ</rt></ruby><ruby>管理<rt>かんり</rt></ruby>ロジック、リアルタイム<ruby>同期<rt>どうき</rt></ruby>、アラート<ruby>機構<rt>きこう</rt></ruby>の3つです【2】。」 <br/>*Phần thân em chỉ viết 3 luận cứ ạ. Logic quản lý tồn kho, đồng bộ thời gian thực, cơ chế cảnh báo — ba điểm đó ạ.* |
 | **フオン** | 「いいね。1枚で1メッセージ＋根拠3点。これが<ruby>基本<rt>きほん</rt></ruby>フォーマット。<ruby>残<rt>のこ</rt></ruby>り9枚も同じパターンで<ruby>通<rt>とお</rt></ruby>して。」 <br/>*Tốt. 1 slide 1 thông điệp + 3 luận cứ. Đó là khuôn chuẩn. 9 slide còn lại em làm cùng kiểu luôn.* |
 
  **Ghi chú:**
 - 【1】**「結論型タイトル」** — Công thức: 「〇〇により××を△△に改善」「〇〇により××%削減」。動詞+数字 を入れると一段強くなる。
-- 【2】**「根拠3点」** — Title=結論、本文=根拠3点 (それ以上は別スライド)。3点ルールは認知負荷の上限。
+- 【2】**「根拠3点」** — Tiêu đề=Kết luận、本文=根拠3点 (それ以上は別スライド)。3点ルールは認知負荷の上限。
 
 ---
 
@@ -215,15 +215,15 @@ Sau khi điền xong 7問, Dũng quay lại với bản thảo 15 slide. Mỗi s
 
 > **「タイトル＝結論。本文＝根拠3点。それ以外はカット。」**
 >
-> *Title = kết luận, phần thân = 3 luận cứ. Còn lại cắt sang slide khác.*
+> *Tiêu đề = kết luận, phần thân = 3 luận cứ. Còn lại cắt sang slide khác.*
 
 ---
 
 ## Tránh
 
-- Title 「〇〇について」「〇〇の件」 — đó là chủ đề, không phải message
-- 1 slide chứa 5-7 bullet points — não chỉ giữ được 3 ± 1
-- Title dài quá 25 chữ — đọc không kịp trong 3 giây
+- Tiêu đề 「〇〇について」「〇〇の件」 — đó là chủ đề, không phải thông điệp
+- 1 slide chứa 5-7 gạch đầu dòng — não chỉ giữ được 3 ± 1
+- Tiêu đề dài quá 25 chữ — đọc không kịp trong 3 giây
 - Phần thân có chữ nhỏ < 24pt để nhồi nội dung — vi phạm rule 06
 
 ---
@@ -297,7 +297,7 @@ Slide đã có 1-slide-1-message nhưng thứ tự lộn xộn: bắt đầu b�
 ## Tránh
 
 - Mở đầu bằng "弊社の強み" — khoe bên bán trước = mất sự chú ý của khán giả
-- Bỏ qua C (Complication) — không có "vấn đề" thì không có lý do nghe tiếp
+- Bỏ qua C (Vấn đề) — không có "vấn đề" thì không có lý do nghe tiếp
 - Q (Question) để ngầm — phải nêu rõ "本日決めたいのは」
 - A quá ngắn (1-2 slide) — đáp án phải đủ chi tiết để khách ra quyết định
 
@@ -317,7 +317,7 @@ Slide đã có 1-slide-1-message nhưng thứ tự lộn xộn: bắt đầu b�
 
 # Rule 04 — Phân cấp thị giác & phông chữ / 視覚階層・フォント
 
-> **Luận điểm.** Slide tốt phải có **3 cấp thị giác**: (1) Title 32-40pt, (2) Sub-message 24-28pt, (3) Phần thân 18-22pt. Font Nhật mặc định: **Meiryo / 游ゴシック** (sans). Tránh MS明朝 (mảnh, khó đọc projector). Căn lề phải **trục trái**, không căn giữa bừa.
+> **Luận điểm.** Slide tốt phải có **3 cấp thị giác**: (1) Tiêu đề 32-40pt, (2) Thông điệp phụ 24-28pt, (3) Phần thân 18-22pt. Phông chữ Nhật mặc định: **Meiryo / 游ゴシック** (sans). Tránh MS明朝 (mảnh, khó đọc trên máy chiếu). Căn lề phải **trục trái**, không căn giữa bừa.
 >
 > 視覚階層は3段階。タイトル(32-40pt) > サブメッセージ(24-28pt) > 本文(18-22pt)。日本語フォントはMeiryo/游ゴシック推奨、明朝は projector で潰れる。
 >
@@ -327,7 +327,7 @@ Slide đã có 1-slide-1-message nhưng thứ tự lộn xộn: bắt đầu b�
 
 ## Bối cảnh / 場面
 
-Dũng làm slide với mọi text 18pt + căn giữa + font MS Mincho mặc định. Hương xem rehearsal trên projector, nhìn từ hàng cuối thấy mờ + lộn xộn.
+Dũng làm slide với mọi văn bản 18pt + căn giữa + phông chữ MS Mincho mặc định. Hương xem buổi tập dượt trên máy chiếu, nhìn từ hàng cuối thấy mờ + lộn xộn.
 
 ---
 
@@ -337,12 +337,12 @@ Dũng làm slide với mọi text 18pt + căn giữa + font MS Mincho mặc đ�
 
 | Vai | Câu |
 |---------|-----|
-| **フオン** | 「ズン、<ruby>後<rt>うし</rt></ruby>ろからタイトル<ruby>読<rt>よ</rt></ruby>めない。<ruby>何<rt>なん</rt></ruby>ポイント？」 <br/>*Dũng, ngồi sau chị không đọc được title. Mấy point thế?* |
+| **フオン** | 「ズン、<ruby>後<rt>うし</rt></ruby>ろからタイトル<ruby>読<rt>よ</rt></ruby>めない。<ruby>何<rt>なん</rt></ruby>ポイント？」 <br/>*Dũng, ngồi sau chị không đọc được tiêu đề. Mấy point thế?* |
 | **ズン** | 「<ruby>全部<rt>ぜんぶ</rt></ruby>18ポイントです。<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>入<rt>い</rt></ruby>れたかったので…」 <br/>*Em để hết 18 point ạ. Vì muốn nhồi thông tin vào...* |
-| **フオン** | 「<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>同<rt>おな</rt></ruby>じサイズ＝**<ruby>階層<rt>かいそう</rt></ruby>がない**。<ruby>聴衆<rt>ちょうしゅう</rt></ruby>はどこを<ruby>見<rt>み</rt></ruby>ればいいか<ruby>分<rt>わ</rt></ruby>からない。それと**<ruby>MS明朝<rt>エムエスみんちょう</rt></ruby>**？プロジェクターで<ruby>潰<rt>つぶ</rt></ruby>れる。」 <br/>*Cùng size hết = không có cấp bậc. Khán giả không biết nhìn vào đâu. Với cả MS Mincho à? Lên projector là mờ đấy.* |
+| **フオン** | 「<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>同<rt>おな</rt></ruby>じサイズ＝**<ruby>階層<rt>かいそう</rt></ruby>がない**。<ruby>聴衆<rt>ちょうしゅう</rt></ruby>はどこを<ruby>見<rt>み</rt></ruby>ればいいか<ruby>分<rt>わ</rt></ruby>からない。それと**<ruby>MS明朝<rt>エムエスみんちょう</rt></ruby>**？プロジェクターで<ruby>潰<rt>つぶ</rt></ruby>れる。」 <br/>*Cùng size hết = không có cấp bậc. Khán giả không biết nhìn vào đâu. Với cả MS Mincho à? Lên máy chiếu là mờ đấy.* |
 | **ズン** | 「あ…デフォルトのまま<ruby>使<rt>つか</rt></ruby>っていました…」 <br/>*À... em để default luôn ạ...* |
 
-**Vì sao xấu:** Không có phân cấp = không có dẫn hướng thị giác. 18pt cho title quá nhỏ trên máy chiếu nhìn từ hàng cuối. MS明朝 (serif) bị mảnh, máy chiếu không đủ độ tương phản.
+**Vì sao xấu:** Không có phân cấp = không có dẫn hướng thị giác. 18pt cho tiêu đề quá nhỏ trên máy chiếu nhìn từ hàng cuối. MS明朝 (serif) bị mảnh, máy chiếu không đủ độ tương phản.
 
 ---
 
@@ -352,14 +352,14 @@ Dũng làm slide với mọi text 18pt + căn giữa + font MS Mincho mặc đ�
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「**チェックリスト**で<ruby>全<rt>ぜん</rt></ruby>スライド<ruby>見直<rt>みなお</rt></ruby>しました【1】。タイトル36pt、サブ24pt、<ruby>本文<rt>ほんぶん</rt></ruby>20pt、フォントは**Meiryo**<ruby>統一<rt>とういつ</rt></ruby>です。」 <br/>*Em đã xem lại toàn bộ slide theo danh sách kiểm tra ạ. Title 36pt, sub 24pt, phần thân 20pt, font thống nhất Meiryo ạ.* |
-| **フオン** | 「うん、<ruby>後<rt>うし</rt></ruby>ろからタイトル<ruby>読<rt>よ</rt></ruby>める。<ruby>本文<rt>ほんぶん</rt></ruby>はギリギリ。<ruby>図表<rt>ずひょう</rt></ruby>のラベルは<ruby>何<rt>なん</rt></ruby>pt？」 <br/>*Ờ, từ sau đọc được title rồi. Phần thân thì sát giới hạn. Nhãn biểu đồ mấy point?* |
-| **ズン** | 「ラベル14pt でした…20pt<ruby>以上<rt>いじょう</rt></ruby>に<ruby>上<rt>あ</rt></ruby>げます【2】。」 <br/>*Label đang 14pt ạ... em sẽ chỉnh lên 20pt+ ạ.* |
+| **ズン** | 「**チェックリスト**で<ruby>全<rt>ぜん</rt></ruby>スライド<ruby>見直<rt>みなお</rt></ruby>しました【1】。タイトル36pt、サブ24pt、<ruby>本文<rt>ほんぶん</rt></ruby>20pt、フォントは**Meiryo**<ruby>統一<rt>とういつ</rt></ruby>です。」 <br/>*Em đã xem lại toàn bộ slide theo danh sách kiểm tra ạ. Tiêu đề 36pt, sub 24pt, phần thân 20pt, phông chữ thống nhất Meiryo ạ.* |
+| **フオン** | 「うん、<ruby>後<rt>うし</rt></ruby>ろからタイトル<ruby>読<rt>よ</rt></ruby>める。<ruby>本文<rt>ほんぶん</rt></ruby>はギリギリ。<ruby>図表<rt>ずひょう</rt></ruby>のラベルは<ruby>何<rt>なん</rt></ruby>pt？」 <br/>*Ờ, từ sau đọc được tiêu đề rồi. Phần thân thì sát giới hạn. Nhãn biểu đồ mấy point?* |
+| **ズン** | 「ラベル14pt でした…20pt<ruby>以上<rt>いじょう</rt></ruby>に<ruby>上<rt>あ</rt></ruby>げます【2】。」 <br/>*Nhãn đang 14pt ạ... em sẽ chỉnh lên 20pt+ ạ.* |
 | **フオン** | 「お<ruby>願<rt>ねが</rt></ruby>い。それと**alignment は<ruby>左揃<rt>ひだりぞろ</rt></ruby>え**。<ruby>中央揃<rt>ちゅうおうぞろ</rt></ruby>えは<ruby>見出<rt>みだ</rt></ruby>しだけ、<ruby>本文<rt>ほんぶん</rt></ruby>はNG。」 <br/>*Em làm giúp chị. Với cả căn lề để trái. Căn giữa chỉ dùng cho heading, phần thân NG.* |
 
  **Ghi chú:**
 - 【1】**チェックリスト** — Danh sách kiểm tra phân cấp thị giác (xem khung mẫu). Áp dụng trên TOÀN bộ bộ slide trước khi diễn thử.
-- 【2】**「ラベル14pt」** — Lỗi phổ biến: label biểu đồ nhỏ vì để mặc định tự động. Phải cưỡng chế chỉnh lên 20pt+.
+- 【2】**「ラベル14pt」** — Lỗi phổ biến: nhãn biểu đồ nhỏ vì để mặc định tự động. Phải cưỡng chế chỉnh lên 20pt+.
 
 ---
 
@@ -367,7 +367,7 @@ Dũng làm slide với mọi text 18pt + căn giữa + font MS Mincho mặc đ�
 
 > **「タイトル36-40pt、<ruby>本文<rt>ほんぶん</rt></ruby>20-24pt、<ruby>最小<rt>さいしょう</rt></ruby>20pt。Meiryo / <ruby>游<rt>ゆう</rt></ruby>ゴシックで<ruby>左揃<rt>ひだりぞろ</rt></ruby>え。」**
 >
-> *Title 36-40pt, phần thân 20-24pt, không nhỏ hơn 20pt. Font sans-serif Nhật, căn trái.*
+> *Tiêu đề 36-40pt, phần thân 20-24pt, không nhỏ hơn 20pt. Phông chữ sans-serif Nhật, căn trái.*
 
 ---
 
@@ -434,7 +434,7 @@ Dũng làm slide với mọi text 18pt + căn giữa + font MS Mincho mặc đ�
 
 ## Bối cảnh / 場面
 
-Dũng dùng khung mẫu rực rỡ — title đỏ, phần thân xanh lá, màu nhấn cam, biểu đồ 7 màu cầu vồng. Hương xem buổi diễn thử → ngay lập tức cản. Khách Hakuō là 老舗 (cty lâu đời) → bảng màu phải phù hợp.
+Dũng dùng khung mẫu rực rỡ — tiêu đề đỏ, phần thân xanh lá, màu nhấn cam, biểu đồ 7 màu cầu vồng. Hương xem buổi diễn thử → ngay lập tức cản. Khách Hakuō là 老舗 (cty lâu đời) → bảng màu phải phù hợp.
 
 ---
 
@@ -444,12 +444,12 @@ Dũng dùng khung mẫu rực rỡ — title đỏ, phần thân xanh lá, màu 
 
 | Vai | Câu |
 |---------|-----|
-| **フオン** | 「うわ、目が痛い。タイトル**赤**？」 <br/>*Ối, chói mắt. Title đỏ à?* |
+| **フオン** | 「うわ、目が痛い。タイトル**赤**？」 <br/>*Ối, chói mắt. Tiêu đề đỏ à?* |
 | **ズン** | 「目立つかと思って…緑と<ruby>橙<rt>だいだい</rt></ruby>でアクセント入れました。」 <br/>*Em nghĩ cho nổi bật ạ... còn thêm xanh lá với cam làm accent...* |
 | **フオン** | 「白鷗様は**<ruby>老舗<rt>しにせ</rt></ruby>**よ？<ruby>派手<rt>はで</rt></ruby>な色使う相手じゃない。**赤は<ruby>警告<rt>けいこく</rt></ruby>とCTA専用**。<ruby>装飾<rt>そうしょく</rt></ruby>に使うと『<ruby>軽薄<rt>けいはく</rt></ruby>』に見える。」 <br/>*Bên Hakuō là cty lâu đời mà? Không phải đối tượng dùng màu sặc sỡ. Đỏ chỉ dành cho cảnh báo + CTA. Trang trí bằng đỏ = trông nông nổi.* |
 | **ズン** | 「あ、すみません…」 <br/>*À, em xin lỗi ạ...* |
 
-**Vì sao xấu:** Đỏ làm title trên JP corporate slide = tín hiệu "tay mơ" hoặc "spam quảng cáo". Khách 老舗 mong đợi: navy / charcoal — màu của một tổ chức uy tín.
+**Vì sao xấu:** Đỏ làm tiêu đề trên slide corporate Nhật = tín hiệu "tay mơ" hoặc "spam quảng cáo". Khách 老舗 mong đợi: navy / charcoal — màu của một tổ chức uy tín.
 
 ---
 
@@ -479,10 +479,10 @@ Dũng dùng khung mẫu rực rỡ — title đỏ, phần thân xanh lá, màu 
 ## Tránh
 
 - Biểu đồ 7 màu cầu vồng → người xem không phân biệt được
-- 赤 làm màu title → trong ngữ cảnh JP corporate = tay mơ
+- 赤 làm màu tiêu đề → trong ngữ cảnh JP corporate = tay mơ
 - Nền không phải trắng/xám nhạt → khó in, khó chiếu lên máy chiếu
 - Màu nhấn và màu chính tương phản thấp → không nổi
-- Chỉ mã hoá bằng màu (vd "đỏ = xấu, xanh = tốt") → bỏ qua đối tượng mù màu. Phải có icon/chữ kèm theo
+- Chỉ mã hoá bằng màu (vd "đỏ = xấu, xanh = tốt") → bỏ qua đối tượng mù màu. Phải có biểu tượng/chữ kèm theo
 
 ---
 
@@ -521,7 +521,7 @@ Sau khi Hương xem lại, Dũng cộng thêm 4 slide phụ "cho chắc" → qua
 | Vai | Câu |
 |---------|-----|
 | **ハーCTO** | 「ズン、<ruby>最終版<rt>さいしゅうばん</rt></ruby>14<ruby>枚<rt>まい</rt></ruby>？<ruby>前回<rt>ぜんかい</rt></ruby>10枚って<ruby>言<rt>い</rt></ruby>ってたよね？」 <br/>*Dũng, bản cuối 14 slide à? Lần trước em bảo 10 slide mà?* |
-| **ズン** | 「あ、<ruby>念<rt>ねん</rt></ruby>のため4枚<ruby>追加<rt>ついか</rt></ruby>しました。バックアップ<ruby>的<rt>てき</rt></ruby>に…」 <br/>*À, em thêm 4 slide cho chắc ạ. Kiểu backup ấy ạ...* |
+| **ズン** | 「あ、<ruby>念<rt>ねん</rt></ruby>のため4枚<ruby>追加<rt>ついか</rt></ruby>しました。バックアップ<ruby>的<rt>てき</rt></ruby>に…」 <br/>*À, em thêm 4 slide cho chắc ạ. Kiểu dự phòng ấy ạ...* |
 | **ハーCTO** | 「30分プレゼン＋15分Q&Aで14枚？1枚2分<ruby>超過<rt>ちょうか</rt></ruby>。**Q&A<ruby>時間<rt>じかん</rt></ruby>が<ruby>消<rt>き</rt></ruby>える**。あと、追加4枚はどれも『<ruby>話<rt>はな</rt></ruby>したい』だけで『<ruby>決<rt>き</rt></ruby>めるのに<ruby>必要<rt>ひつよう</rt></ruby>』じゃない。」 <br/>*30 phút thuyết trình + 15 phút Q&A mà 14 slide? Vượt 2 phút/slide. Q&A sẽ biến mất. Với 4 slide thêm này toàn 「muốn nói」 chứ không phải 「cần để quyết」.* |
 | **ズン** | 「えっと…」 <br/>*Ờ ạ...* |
 
@@ -535,12 +535,12 @@ Sau khi Hương xem lại, Dũng cộng thêm 4 slide phụ "cho chắc" → qua
 |---------|-----|
 | **ズン** | 「10-20-30ルールで<ruby>再<rt>さい</rt></ruby>audit しました【1】。<ruby>本編<rt>ほんぺん</rt></ruby>10枚、appendix 5枚は<ruby>質問<rt>しつもん</rt></ruby><ruby>対応用<rt>たいおうよう</rt></ruby>（<ruby>必要<rt>ひつよう</rt></ruby>なら<ruby>出<rt>だ</rt></ruby>す）。」 <br/>*Em đã rà soát lại theo quy tắc 10-20-30 ạ. Phần chính 10 slide, phụ lục 5 slide để trả lời câu hỏi (cần thì hiện ra).* |
 | **ハーCTO** | 「いいね、appendix <ruby>分離<rt>ぶんり</rt></ruby>は<ruby>正<rt>ただ</rt></ruby>しい。本編10枚 × 2分 = 20分、<ruby>自己紹介<rt>じこしょうかい</rt></ruby>+<ruby>背景<rt>はいけい</rt></ruby>3分、Q&A 7分の<ruby>枠<rt>わく</rt></ruby>で30分<ruby>内<rt>ない</rt></ruby>。」 <br/>*Được, tách phụ lục là đúng. Phần chính 10 slide × 2 phút = 20 phút, giới thiệu + bối cảnh 3 phút, Q&A 7 phút — nằm gọn trong 30 phút.* |
-| **ズン** | 「**フォントは<ruby>最小<rt>さいしょう</rt></ruby>24pt**で<ruby>統一<rt>とういつ</rt></ruby>【2】、appendix も<ruby>同<rt>おな</rt></ruby>じです。」 <br/>*Font em thống nhất tối thiểu 24pt ạ, appendix cũng vậy.* |
+| **ズン** | 「**フォントは<ruby>最小<rt>さいしょう</rt></ruby>24pt**で<ruby>統一<rt>とういつ</rt></ruby>【2】、appendix も<ruby>同<rt>おな</rt></ruby>じです。」 <br/>*Phông chữ em thống nhất tối thiểu 24pt ạ, appendix cũng vậy.* |
 | **ハーCTO** | 「OK。<ruby>本番<rt>ほんばん</rt></ruby>で14枚出すと『<ruby>準備不足<rt>じゅんびぶそく</rt></ruby>』に<ruby>見<rt>み</rt></ruby>える、10枚 + appendix の<ruby>構成<rt>こうせい</rt></ruby>は『きっちり<ruby>感<rt>かん</rt></ruby>』が<ruby>出<rt>で</rt></ruby>る。」 <br/>*OK. Trên thực tế chiếu 14 slide trông như 「chuẩn bị chưa kỹ」. 10 slide + phụ lục mới ra 「chỉn chu」.* |
 
  **Ghi chú:**
 - 【1】**10-20-30ルール** — Bản gốc dùng cho người tiêu dùng. JP B2B 版は 10-12 / 20-25 / 24pt min. Tách phụ lục = tín hiệu mạnh thể hiện sự chuẩn bị kỹ.
-- 【2】**「最小24pt」** — Rule 04 と整合. Đọc được trên cả projector hàng cuối lẫn khi chia sẻ màn hình.
+- 【2】**「最小24pt」** — Rule 04 と整合. Đọc được trên cả máy chiếu hàng cuối lẫn khi chia sẻ màn hình.
 
 ---
 
@@ -575,7 +575,7 @@ Sau khi Hương xem lại, Dũng cộng thêm 4 slide phụ "cho chắc" → qua
 - 1 slide < 30 giây → người nghe không kịp tiếp nhận, vô nghĩa
 - 1 slide > 3 phút → người nghe mất tập trung
 - Bỏ ngân sách thời gian cho Q&A → khách Nhật nhìn nhận là "không có chỗ thảo luận = không tự tin"
-- 24pt cho phần thân trên projector vẫn hơi nhỏ → kiểm tra thực tế
+- 24pt cho phần thân trên máy chiếu vẫn hơi nhỏ → kiểm tra thực tế
 
 ---
 
@@ -603,7 +603,7 @@ Sau khi Hương xem lại, Dũng cộng thêm 4 slide phụ "cho chắc" → qua
 
 ## Bối cảnh / 場面
 
-Ngày trước buổi trình bày, Hải DevOps tình cờ ngang qua phòng họp lúc Dũng kiểm tra → phát hiện: laptop chưa có đầu chuyển HDMI, bộ slide chỉ ở Dropbox (cần internet), demo gọi API trực tiếp. Một sự cố là toàn bộ bế tắc.
+Ngày trước buổi trình bày, Hải DevOps tình cờ ngang qua phòng họp lúc Dũng kiểm tra → phát hiện: máy tính xách tay chưa có đầu chuyển HDMI, bộ slide chỉ ở Dropbox (cần mạng), demo gọi API trực tiếp. Một sự cố là toàn bộ bế tắc.
 
 ---
 
@@ -627,7 +627,7 @@ Ngày trước buổi trình bày, Hải DevOps tình cờ ngang qua phòng họ
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「ハイさん、ありがとう。**Plan Bチェックリスト**【1】で揃えました。①PDF版 USB+ローカル、②オフラインデモ<ruby>準備<rt>じゅんび</rt></ruby>、③テザリング<ruby>有効<rt>ゆうこう</rt></ruby>、④HDMI+USB-C+VGAアダプタ<ruby>持参<rt>じさん</rt></ruby>、⑤<ruby>印刷<rt>いんさつ</rt></ruby>5部。」 <br/>*Anh Hải, cảm ơn anh ạ. Em đã chuẩn bị xong theo checklist Plan B. ① Bản PDF trên USB + local, ② demo offline, ③ tethering bật sẵn, ④ mang HDMI + USB-C + VGA adapter, ⑤ in 5 bản.* |
+| **ズン** | 「ハイさん、ありがとう。**Plan Bチェックリスト**【1】で揃えました。①PDF版 USB+ローカル、②オフラインデモ<ruby>準備<rt>じゅんび</rt></ruby>、③テザリング<ruby>有効<rt>ゆうこう</rt></ruby>、④HDMI+USB-C+VGAアダプタ<ruby>持参<rt>じさん</rt></ruby>、⑤<ruby>印刷<rt>いんさつ</rt></ruby>5部。」 <br/>*Anh Hải, cảm ơn anh ạ. Em đã chuẩn bị xong theo danh sách kiểm tra Plan B. ① Bản PDF trên USB + local, ② demo offline, ③ phát mạng di động bật sẵn, ④ mang HDMI + USB-C + VGA bộ chuyển đổi, ⑤ in 5 bản.* |
 | **ハイ** | 「いいね。USB は2本？1本<ruby>紛失<rt>ふんしつ</rt></ruby>リスク。」 <br/>*OK. USB 2 chiếc đúng không? 1 chiếc rủi ro mất đấy.* |
 | **ズン** | 「2本持参します。**もう1本はトゥアンさんに渡します**【2】(co-presenter として<ruby>保険<rt>ほけん</rt></ruby>)。」 <br/>*Em mang 2 chiếc ạ. Một chiếc đưa anh Tuấn (dự phòng với tư cách người đồng trình bày).* |
 | **ハイ** | 「<ruby>正解<rt>せいかい</rt></ruby>。それと PDF はクライアント側にも<ruby>事前共有<rt>じぜんきょうゆう</rt></ruby>しておくと、最悪『<ruby>画面共有<rt>がめんきょうゆう</rt></ruby>なしで紙ベース』に切り替えできる。」 <br/>*Chuẩn. Với cả PDF chia sẻ trước cho khách luôn — tệ nhất thì chuyển sang 「không chia sẻ màn hình, chỉ dùng giấy」 cũng được.* |
@@ -642,7 +642,7 @@ Ngày trước buổi trình bày, Hải DevOps tình cờ ngang qua phòng họ
 
 > **「Plan B 5点: PDF / オフラインデモ / テザリング / アダプタ3種 / <ruby>印刷<rt>いんさつ</rt></ruby>5部。Tech failure は『when』であって『if』ではない。」**
 >
-> *5 điểm backup. Tech fail là chuyện khi nào, không phải có hay không.*
+> *5 điểm dự phòng. Sự cố kỹ thuật là chuyện khi nào, không phải có hay không.*
 
 ---
 
@@ -694,11 +694,11 @@ Ngày trước buổi trình bày, Hải DevOps tình cờ ngang qua phòng họ
 
 ## Tránh
 
-- Bộ slide chỉ để trên đám mây → mất internet = không trình bày được
+- Bộ slide chỉ để trên đám mây → mất mạng = không trình bày được
 - Demo gọi API trực tiếp mà không có phương án không cần mạng → rớt 1 kết nối = hỏng toàn bộ
 - Chỉ 1 USB → thất lạc = hoảng loạn
-- Adapter chỉ 1 loại → khách dùng VGA/USB-C khác là toang
-- Test ở văn phòng mình rồi yên tâm → môi trường khách khác hẳn
+- Bộ chuyển đổi chỉ 1 loại → khách dùng VGA/USB-C khác là toang
+- Kiểm tra ở văn phòng mình rồi yên tâm → môi trường khách khác hẳn
 
 ---
 
@@ -831,7 +831,7 @@ Sau phần mở đầu thu hút, Dũng đến phần tự giới thiệu. Phòng
 |---------|-----|
 | **ズン** | 「私、ティエンファットのズンと<ruby>申<rt>もう</rt></ruby>します【1】。<ruby>本日<rt>ほんじつ</rt></ruby>は **Phase 3 の<ruby>主担当<rt>しゅたんとう</rt></ruby>**としてご<ruby>提案<rt>ていあん</rt></ruby>いたします【2】。Phase 2 で**<ruby>在庫差異<rt>ざいこさい</rt></ruby>の<ruby>削減<rt>さくげん</rt></ruby>ロジック**を<ruby>担当<rt>たんとう</rt></ruby>しており、<ruby>本案件<rt>ほんあんけん</rt></ruby>はその<ruby>継続<rt>けいぞく</rt></ruby>でございます【3】。」 <br/>*Em là Dũng, bên Thiên Phát ạ. Hôm nay em xin trình bày với tư cách phụ trách chính Phase 3 ạ. Em đã phụ trách phần logic giảm sai lệch tồn kho ở Phase 2, dự án lần này là phần kế tiếp đó ạ.* |
 | **松本** | 「はい、よろしくお願いします。」 <br/>*Vâng, mong em giúp đỡ.* |
-| **ズン** | 「<ruby>右側<rt>みぎがわ</rt></ruby>のトゥアンが<ruby>技術<rt>ぎじゅつ</rt></ruby>リード、<ruby>後<rt>のち</rt></ruby>ほどデモパートを<ruby>担当<rt>たんとう</rt></ruby>いたします。それでは<ruby>本題<rt>ほんだい</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります。」 <br/>*Anh Tuấn bên phải là tech lead, sẽ phụ trách phần demo sau ạ. Vậy em xin vào đề ạ.* |
+| **ズン** | 「<ruby>右側<rt>みぎがわ</rt></ruby>のトゥアンが<ruby>技術<rt>ぎじゅつ</rt></ruby>リード、<ruby>後<rt>のち</rt></ruby>ほどデモパートを<ruby>担当<rt>たんとう</rt></ruby>いたします。それでは<ruby>本題<rt>ほんだい</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります。」 <br/>*Anh Tuấn bên phải là trưởng nhóm kỹ thuật, sẽ phụ trách phần demo sau ạ. Vậy em xin vào đề ạ.* |
 
  **Ghi chú:**
 - 【1】**「ティエンファットのズン」** — KHÔNG dùng "社" (ティエンファット社) khi tự xưng (ウチ rule).
@@ -1068,7 +1068,7 @@ Linh (thực tập sinh) sau buổi diễn thử (rule 11), Dũng xem lại các
 |---------|-----|
 | **ズン** | 「<ruby>言葉<rt>ことば</rt></ruby>を**<ruby>着実<rt>ちゃくじつ</rt></ruby>な**ものに<ruby>置<rt>お</rt></ruby>き<ruby>換<rt>か</rt></ruby>えよう【1】。『ゲームチェンジャー』→『**<ruby>業務改善<rt>ぎょうむかいぜん</rt></ruby>に<ruby>確実<rt>かくじつ</rt></ruby>に<ruby>貢献<rt>こうけん</rt></ruby>**』。『<ruby>革命的<rt>かくめいてき</rt></ruby>』→『**<ruby>着実<rt>ちゃくじつ</rt></ruby>な<ruby>改善<rt>かいぜん</rt></ruby>**』。『ファンタスティック』→『**<ruby>安心<rt>あんしん</rt></ruby>してお<ruby>任<rt>まか</rt></ruby>せいただける**』。」 <br/>*Đổi sang nhóm từ chắc chắn nhé. 「Game changer」 → 「đóng góp chắc chắn vào việc cải tiến」. 「Cách mạng」 → 「cải thiện chắc chắn từng bước」. 「Fantastic」 → 「yên tâm giao phó」.* |
 | **リン** | 「この<ruby>機能<rt>きのう</rt></ruby>は**<ruby>御社<rt>おんしゃ</rt></ruby>の<ruby>在庫管理<rt>ざいこかんり</rt></ruby>に<ruby>確実<rt>かくじつ</rt></ruby>に<ruby>貢献<rt>こうけん</rt></ruby>いたします**。3<ruby>年<rt>ねん</rt></ruby><ruby>運用実績<rt>うんようじっせき</rt></ruby>があり、**<ruby>安心<rt>あんしん</rt></ruby>してお<ruby>任<rt>まか</rt></ruby>せいただける**<ruby>仕組<rt>しく</rt></ruby>みでございます。」 <br/>*Tính năng này chắc chắn sẽ đóng góp cho việc quản lý tồn kho bên quý vị ạ. Đã có 3 năm thành tích vận hành, là cơ chế quý vị có thể yên tâm giao phó ạ.* |
-| **ズン** | 「うん、いい。あと**<ruby>話速<rt>わそく</rt></ruby>は5-10%<ruby>遅<rt>おそ</rt></ruby>めに**。<ruby>早口<rt>はやくち</rt></ruby>だと『<ruby>売<rt>う</rt></ruby>り<ruby>急<rt>いそ</rt></ruby>ぎ』に<ruby>聞<rt>き</rt></ruby>こえる【2】。」 <br/>*Ổn rồi. Với cả pace chậm hơn 5-10% nữa. Nói nhanh nghe như 「đang vội bán」.* |
+| **ズン** | 「うん、いい。あと**<ruby>話速<rt>わそく</rt></ruby>は5-10%<ruby>遅<rt>おそ</rt></ruby>めに**。<ruby>早口<rt>はやくち</rt></ruby>だと『<ruby>売<rt>う</rt></ruby>り<ruby>急<rt>いそ</rt></ruby>ぎ』に<ruby>聞<rt>き</rt></ruby>こえる【2】。」 <br/>*Ổn rồi. Với cả nhịp nói chậm hơn 5-10% nữa. Nói nhanh nghe như 「đang vội bán」.* |
 | **リン** | 「<ruby>分<rt>わ</rt></ruby>かりました。<ruby>練習<rt>れんしゅう</rt></ruby>し<ruby>直<rt>なお</rt></ruby>します。」 <br/>*Em rõ rồi ạ. Em luyện lại ạ.* |
 
  **Ghi chú:**
@@ -1081,7 +1081,7 @@ Linh (thực tập sinh) sau buổi diễn thử (rule 11), Dũng xem lại các
 
 > **「着実・確実・丁寧・安心の4語族で語る。Pace 5-10% 遅め。低テンション + 高信頼 = 売れる。」**
 >
-> *Dùng nhóm từ "chắc chắn / chỉn chu / yên tâm". Pace chậm 5-10%. Tone trầm + tin cậy cao = bán được.*
+> *Dùng nhóm từ "chắc chắn / chỉn chu / yên tâm". Nhịp nói chậm 5-10%. Tông giọng trầm + tin cậy cao = bán được.*
 
 ---
 
@@ -1206,7 +1206,7 @@ Sau phần mở đầu + chương trình, Dũng đến phần cam kết thời g
 
 # Rule 14 — Dấu hiệu luồng logic / 論理マーカー (まず／次に／最後に)
 
-> **Luận điểm.** Phần thân bài thuyết trình phải có **cột mốc bằng chữ** dắt người nghe. **「まず」「次に」「最後に」** là tối thiểu. Người nghe Nhật thường vừa nghe vừa làm việc khác (laptop, ghi chú) — các dấu hiệu luồng giúp họ bắt lại mạch trong 1 giây.
+> **Luận điểm.** Phần thân bài thuyết trình phải có **cột mốc bằng chữ** dắt người nghe. **「まず」「次に」「最後に」** là tối thiểu. Người nghe Nhật thường vừa nghe vừa làm việc khác (máy tính, ghi chú) — các dấu hiệu luồng giúp họ bắt lại mạch trong 1 giây.
 >
 > 本論には『まず／次に／最後に』のランドマーク必須。聴衆は常時 multitask しており、マーカーで1秒で flow に戻れる。
 >
@@ -1222,7 +1222,7 @@ Phần thân bài của Dũng — 3 luận cứ cho Phase 3. Lần đầu tập 
 
 ## Hội thoại XẤU — không dấu hiệu luồng
 
-*rehearsal*
+*tập dượt*
 
 | Vai | Câu |
 |---------|-----|
@@ -1387,7 +1387,7 @@ Slide 5 của Dũng = biểu đồ so sánh Phase 1 vs Phase 2 vs Phase 3 (dự 
 
 # Rule 16 — Luồng demo / デモの流れ
 
-> **Luận điểm.** Demo trong bài thuyết trình ≠ tour liệt kê tính năng. Cấu trúc 4 bước: **Setup — thiết lập cảnh (誰が何をしようとしている、30s) → User journey — hành trình người dùng (主操作、2分) → Key moment — khoảnh khắc mấu chốt (決め手、30s) → Tóm tắt lại — tóm lược (何が起きたか、30s)**. Tổng 3-4 phút. Tránh "全機能ツアー" — chỉ trình diễn mạch thao tác giải nỗi đau.
+> **Luận điểm.** Demo trong bài thuyết trình ≠ đi liệt kê tính năng. Cấu trúc 4 bước: **Setup — thiết lập cảnh (誰が何をしようとしている、30s) → User journey — hành trình người dùng (主操作、2分) → Key moment — khoảnh khắc mấu chốt (決め手、30s) → Tóm tắt lại — tóm lược (何が起きたか、30s)**. Tổng 3-4 phút. Tránh "全機能ツアー" — chỉ trình diễn mạch thao tác giải nỗi đau.
 >
 > デモ4ステップ: Setup→User journey→Key moment→Recap。3-4分以内。全機能ツアーは禁止、痛み解消の1フローだけ。
 >
@@ -1397,13 +1397,13 @@ Slide 5 của Dũng = biểu đồ so sánh Phase 1 vs Phase 2 vs Phase 3 (dự 
 
 ## Bối cảnh / 場面
 
-Tuấn (tech lead) sẽ chạy demo. Bản năng của Tuấn là trình diễn toàn bộ menu tính năng (tư duy engineer). Dũng kèm cặp trước buổi rehearsal cuối.
+Tuấn (trưởng nhóm kỹ thuật) sẽ chạy demo. Bản năng của Tuấn là trình diễn toàn bộ danh sách tính năng (tư duy kỹ sư). Dũng kèm cặp trước buổi tập dượt cuối.
 
 ---
 
 ## Hội thoại XẤU — liệt kê tính năng
 
-*rehearsal*
+*tập dượt*
 
 | Vai | Câu |
 |---------|-----|
@@ -1467,11 +1467,11 @@ Tuấn (tech lead) sẽ chạy demo. Bản năng của Tuấn là trình diễn 
 
 ## Tránh
 
-- Tour liệt kê tính năng ("メニューがここに、ボタンがここに")
+- Đi liệt kê tính năng ("メニューがここに、ボタンがここに")
 - Nhân vật đại diện không tên / không bối cảnh — mạch demo tan loãng
 - Demo > 5 phút — đối tượng nghe mất tập trung
 - Gọi API trực tiếp mà không có bản dự phòng ngoại tuyến (xem rule 07)
-- Thiếu Recap → người nghe không nắm "đã được gì"
+- Thiếu phần tóm tắt lại → người nghe không nắm "đã được gì"
 - Người đồng trình bày ứng biến tùy hứng → thuật ngữ kỹ thuật ngược / thiếu ăn khớp
 
 ---
@@ -1725,7 +1725,7 @@ Slide 8 = giá cả. Trong buổi diễn tập, Hà CTO đóng giả vai Ōgaki 
 | **ズン** | 「価格の前に**3点ご説明**します。**(1) Anchor**: <ruby>業界平均<rt>ぎょうかいへいきん</rt></ruby> 1案件4,000万、Phase 2 は1,800万でした【1】。**(2) Tier**: A案2,400万 / B案3,200万(<ruby>推奨<rt>すいしょう</rt></ruby>) / C案4,800万。**(3) ROI**: B案で**年間1.2億円のロス削減**【2】見込み、**8ヶ月で投資回収**。」 <br/>*Trước khi báo giá em xin trình bày 3 điểm ạ. (1) Neo giá: trung bình ngành 1 case 40 triệu yên, Phase 2 là 18 triệu. (2) Bậc giá: case A 24 triệu / case B 32 triệu (khuyến nghị) / case C 48 triệu. (3) ROI: case B dự kiến giảm lỗ 120 triệu/năm, hoàn vốn 8 tháng.* |
 | **ハーCTO** | 「Phase 2 比で約2倍だね、なぜ？」 <br/>*Gần gấp đôi Phase 2 nhỉ, vì sao?* |
 | **ズン** | 「3点理由がございます【3】。①リアルタイム<ruby>同期<rt>どうき</rt></ruby>インフラの新規<ruby>構築<rt>こうちく</rt></ruby>、②機械学習アラートの<ruby>実装<rt>じっそう</rt></ruby>、③24/7サポート3年<ruby>付帯<rt>ふたい</rt></ruby>。Phase 2 は基本機能のみでした。」 <br/>*Có 3 lý do ạ. ① Xây mới hạ tầng đồng bộ realtime, ② implement machine learning alert, ③ kèm theo 3 năm support 24/7. Phase 2 chỉ có chức năng cơ bản ạ.* |
-| **ハーCTO** | 「うん、**3点回答**で説得力出る。Reherearsal 通った。本番もこの調子で。」 <br/>*Ờ, trả 3 điểm thế là có sức thuyết phục. Pass rehearsal rồi. Bữa thật giữ nhịp này nhé.* |
+| **ハーCTO** | 「うん、**3点回答**で説得力出る。Reherearsal 通った。本番もこの調子で。」 <br/>*Ờ, trả 3 điểm thế là có sức thuyết phục. Qua buổi tập dượt rồi. Bữa thật giữ nhịp này nhé.* |
 
  **Ghi chú:**
 - 【1】**Neo giá** — 業界平均 + 自社過去 cùng đặt → "B案 3,200万 = mức hời nếu xét trong bối cảnh".
@@ -1834,7 +1834,7 @@ Slide 9 = slide rủi ro. Linh thảo nháp → ghi "リスクは特にござい
 
 ## Hội thoại TỐT — 4 rủi ro + biện pháp đối phó cụ thể
 
-*revised*
+*bản chỉnh sửa*
 
 | Vai | Câu |
 |---------|-----|
@@ -2029,7 +2029,7 @@ Cuối bài thuyết trình Phase 3 cho 大垣 + 松本 + 田中. Dũng vừa k�
 
 ---
 
-## Hội thoại XẤU — cụt + lấp silence
+## Hội thoại XẤU — cụt + lấp khoảng lặng
 
 *slide cuối · 2秒沈黙 · 後で松本に小声*
 
@@ -2103,7 +2103,7 @@ Cuối bài thuyết trình Phase 3 cho 大垣 + 松本 + 田中. Dũng vừa k�
 
 ## Bối cảnh / 場面
 
-Q&A bài thuyết trình Phase 3. Anh Matsumoto hỏi câu phức tạp 2 vế: "scope phase 3 có chồng lên phase 2 không + nếu chồng thì bên nào xử lý?"
+Q&A bài thuyết trình Phase 3. Anh Matsumoto hỏi câu phức tạp 2 vế: "phạm vi phase 3 có chồng lên phase 2 không + nếu chồng thì bên nào xử lý?"
 
 ---
 
@@ -2129,7 +2129,7 @@ Q&A bài thuyết trình Phase 3. Anh Matsumoto hỏi câu phức tạp 2 vế: 
 | Vai | Câu |
 |---------|-----|
 | **松本** | 「Phase 3 のスコープは Phase 2 と<ruby>重複<rt>ちょうふく</rt></ruby>しないか？<ruby>重複<rt>ちょうふく</rt></ruby>したら<ruby>誰<rt>だれ</rt></ruby>が<ruby>調整<rt>ちょうせい</rt></ruby>するのか？」 <br/>*Scope Phase 3 có trùng với Phase 2 không? Nếu trùng thì ai điều phối?* |
-| **ズン** | 「**ご<ruby>質問<rt>しつもん</rt></ruby>ありがとうございます**【1】。**ご<ruby>質問<rt>しつもん</rt></ruby>の<ruby>趣旨<rt>しゅし</rt></ruby>は『Phase 2 / 3 のスコープ<ruby>重複<rt>ちょうふく</rt></ruby>の<ruby>有無<rt>うむ</rt></ruby>』と『<ruby>重複時<rt>ちょうふくじ</rt></ruby>の<ruby>調整責任者<rt>ちょうせいせきにんしゃ</rt></ruby>』の2<ruby>点<rt>てん</rt></ruby>と<ruby>理解<rt>りかい</rt></ruby>しました**【2】、よろしいでしょうか？」 — A <br/>*Em cảm ơn câu hỏi của anh ạ. Em hiểu ý anh là 2 điểm: 「có trùng scope Phase 2 / 3 hay không」 và 「nếu trùng thì ai chịu trách nhiệm điều phối」, có đúng không ạ?* |
+| **ズン** | 「**ご<ruby>質問<rt>しつもん</rt></ruby>ありがとうございます**【1】。**ご<ruby>質問<rt>しつもん</rt></ruby>の<ruby>趣旨<rt>しゅし</rt></ruby>は『Phase 2 / 3 のスコープ<ruby>重複<rt>ちょうふく</rt></ruby>の<ruby>有無<rt>うむ</rt></ruby>』と『<ruby>重複時<rt>ちょうふくじ</rt></ruby>の<ruby>調整責任者<rt>ちょうせいせきにんしゃ</rt></ruby>』の2<ruby>点<rt>てん</rt></ruby>と<ruby>理解<rt>りかい</rt></ruby>しました**【2】、よろしいでしょうか？」 — A <br/>*Em cảm ơn câu hỏi của anh ạ. Em hiểu ý anh là 2 điểm: 「có trùng phạm vi Phase 2 / 3 hay không」 và 「nếu trùng thì ai chịu trách nhiệm điều phối」, có đúng không ạ?* |
 | **松本** | 「はい、その<ruby>通<rt>とお</rt></ruby>りです。」 <br/>*Vâng, đúng vậy.* |
 | **ズン** | 「**まず1<ruby>点目<rt>てんめ</rt></ruby>**、スライド12の<ruby>比較表<rt>ひかくひょう</rt></ruby>のとおり<ruby>重複<rt>ちょうふく</rt></ruby>は **3<ruby>機能<rt>きのう</rt></ruby>** ございます。**2<ruby>点目<rt>てんめ</rt></ruby>**、<ruby>調整責任者<rt>ちょうせいせきにんしゃ</rt></ruby>は **<ruby>弊社<rt>へいしゃ</rt></ruby>トゥアン＋<ruby>御社<rt>おんしゃ</rt></ruby><ruby>田中<rt>たなか</rt></ruby><ruby>様<rt>さま</rt></ruby>の<ruby>合同<rt>ごうどう</rt></ruby>レビュー**で<ruby>月次<rt>げつじ</rt></ruby><ruby>調整<rt>ちょうせい</rt></ruby>いたします。」 — S 【3】 <br/>*Trước hết điểm 1: theo bảng so sánh slide 12, có 3 chức năng trùng ạ. Điểm 2: người điều phối là anh Tuấn bên em + anh Tanaka bên quý vị, review chung và điều phối hàng tháng ạ.* |
 | **ズン** | 「**<ruby>以上<rt>いじょう</rt></ruby>、お<ruby>答<rt>こた</rt></ruby>えできておりますでしょうか**【4】？<ruby>他<rt>ほか</rt></ruby>にご<ruby>不明<rt>ふめい</rt></ruby>な<ruby>点<rt>てん</rt></ruby>がございましたら、<ruby>続<rt>つづ</rt></ruby>けてどうぞ。」 — R <br/>*Như trên có giải đáp được không ạ? Nếu còn điểm chưa rõ, mời anh tiếp tục ạ.* |
@@ -2176,7 +2176,7 @@ Q&A bài thuyết trình Phase 3. Anh Matsumoto hỏi câu phức tạp 2 vế: 
 
 # Rule 24 — Mang về xem xét cho câu chưa biết / 不明事項の持ち帰り
 
-> **Luận điểm.** Câu hỏi không biết → **đừng đoán bừa**. Công thức Nhật chuẩn: 「申し訳ございません、その点は **持ち帰って確認** させていただきます。**〇日までに** ご回答いたします」. **Bắt buộc deadline cụ thể** + ghi chép tại chỗ + theo dõi phản hồi đúng hẹn. Đoán bừa = mất uy tín trầm trọng hơn nói "không biết".
+> **Luận điểm.** Câu hỏi không biết → **đừng đoán bừa**. Công thức Nhật chuẩn: 「申し訳ございません、その点は **持ち帰って確認** させていただきます。**〇日までに** ご回答いたします」. **Bắt buộc hạn chót cụ thể** + ghi chép tại chỗ + theo dõi phản hồi đúng hẹn. Đoán bừa = mất uy tín trầm trọng hơn nói "không biết".
 >
 > 不明事項は推測せず「持ち帰って確認＋〇日まで回答」が標準。Deadline 必須。Honest 持ち帰り＞いい加減な推測。
 >
@@ -2190,29 +2190,29 @@ Q&A Phase 3. Anh Ōgaki hỏi câu technical chi tiết về protocol tích hợ
 
 ---
 
-## Hội thoại XẤU — đoán bừa + không deadline
+## Hội thoại XẤU — đoán bừa + không hạn chót
 
-*không biết, đoán · impression: không reliable*
+*không biết, đoán · ấn tượng: không đáng tin*
 
 | Vai | Câu |
 |---------|-----|
 | **大垣** | 「<ruby>弊社<rt>へいしゃ</rt></ruby>レガシーの SOAP API、Phase 3 で REST に<ruby>統合<rt>とうごう</rt></ruby>できますか？<ruby>認証<rt>にんしょう</rt></ruby>は OAuth 2.0 ですが<ruby>対応可能<rt>たいおうかのう</rt></ruby>ですか？」 <br/>*SOAP API legacy bên chúng tôi, Phase 3 có tích hợp được sang REST không? Auth OAuth 2.0, có xử lý được không?* |
 | **ズン** | 「えっと、たぶんできると思います。OAuth 2.0 は<ruby>標準<rt>ひょうじゅん</rt></ruby>なので…」 <br/>*Ờ, em nghĩ chắc làm được ạ. OAuth 2.0 là chuẩn nên...* |
 | **大垣** | 「『たぶん』ですか？OAuth 2.0 のどのフロー<ruby>対応<rt>たいおう</rt></ruby>ですか？」 <br/>*「Chắc」 à? Flow OAuth 2.0 nào hỗ trợ?* |
-| **ズン** | 「あ、それは…<ruby>後<rt>あと</rt></ruby>で<ruby>確認<rt>かくにん</rt></ruby>します…」 *(không deadline)* <br/>*À, cái đó... em sẽ kiểm tra sau ạ...* |
+| **ズン** | 「あ、それは…<ruby>後<rt>あと</rt></ruby>で<ruby>確認<rt>かくにん</rt></ruby>します…」 *(không hạn chót)* <br/>*À, cái đó... em sẽ kiểm tra sau ạ...* |
 | **大垣** | 「…<ruby>分<rt>わ</rt></ruby>かりました、<ruby>回答<rt>かいとう</rt></ruby>お<ruby>待<rt>ま</rt></ruby>ちします。」 <br/>*...Hiểu rồi, tôi đợi câu trả lời.* |
 
-**Vì sao xấu:** "たぶん" = đoán bừa không cơ sở. Khách technical đặt câu hỏi sâu thêm → lộ ngay. "後で確認" không deadline = lời hứa mơ hồ → khách không biết khi nào có câu trả lời → ấn tượng "không đáng tin".
+**Vì sao xấu:** "たぶん" = đoán bừa không cơ sở. Khách kỹ thuật đặt câu hỏi sâu thêm → lộ ngay. "後で確認" không hạn chót = lời hứa mơ hồ → khách không biết khi nào có câu trả lời → ấn tượng "không đáng tin".
 
 ---
 
-## Hội thoại TỐT — honest 持ち帰り + deadline + ghi chép
+## Hội thoại TỐT — thành thật 持ち帰り + hạn chót + ghi chép
 
 | Vai | Câu |
 |---------|-----|
 | **大垣** | 「<ruby>弊社<rt>へいしゃ</rt></ruby>レガシーの SOAP API、Phase 3 で REST に<ruby>統合<rt>とうごう</rt></ruby>できますか？<ruby>認証<rt>にんしょう</rt></ruby>は OAuth 2.0 ですが<ruby>対応可能<rt>たいおうかのう</rt></ruby>ですか？」 <br/>*SOAP API legacy bên chúng tôi, Phase 3 có tích hợp được sang REST không? Auth OAuth 2.0, có xử lý được không?* |
 | **ズン** | 「**ご<ruby>質問<rt>しつもん</rt></ruby>ありがとうございます**。**<ruby>正直<rt>しょうじき</rt></ruby>に<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げますと**、SOAP→REST <ruby>統合<rt>とうごう</rt></ruby>の technical detail は **<ruby>私<rt>わたし</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>で<ruby>即答<rt>そくとう</rt></ruby>できかねます**【1】。」 <br/>*Em cảm ơn câu hỏi của anh ạ. Em xin nói thẳng ạ — chi tiết technical về tích hợp SOAP→REST em không thể trả lời ngay tại chỗ ạ.* |
-| **ズン** | 「**<ruby>弊社<rt>へいしゃ</rt></ruby> CTO ハー** に<ruby>確認<rt>かくにん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>、**<ruby>今週金曜<rt>こんしゅうきんよう</rt></ruby> 17時までに** メールで<ruby>詳細回答<rt>しょうさいかいとう</rt></ruby>させていただきます。**OAuth 2.0 のフロー** も<ruby>併<rt>あわ</rt></ruby>せて<ruby>確認<rt>かくにん</rt></ruby>いたします【2】。」 — ghi chép vào sổ tay <br/>*Em sẽ xác nhận với anh Hà CTO bên em, và phản hồi chi tiết qua email trước 17h thứ Sáu tuần này ạ. Em sẽ kiểm tra thêm flow OAuth 2.0 luôn ạ.* |
+| **ズン** | 「**<ruby>弊社<rt>へいしゃ</rt></ruby> CTO ハー** に<ruby>確認<rt>かくにん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>、**<ruby>今週金曜<rt>こんしゅうきんよう</rt></ruby> 17時までに** メールで<ruby>詳細回答<rt>しょうさいかいとう</rt></ruby>させていただきます。**OAuth 2.0 のフロー** も<ruby>併<rt>あわ</rt></ruby>せて<ruby>確認<rt>かくにん</rt></ruby>いたします【2】。」 — ghi chép vào sổ tay <br/>*Em sẽ xác nhận với anh Hà CTO bên em, và phản hồi chi tiết qua email trước 17h thứ Sáu tuần này ạ. Em sẽ kiểm tra thêm luồng OAuth 2.0 luôn ạ.* |
 | **ズン** | 「**お<ruby>時間<rt>じかん</rt></ruby> 3<ruby>営業日<rt>えいぎょうび</rt></ruby>いただいて** よろしいでしょうか？」【3】 <br/>*Cho em xin 3 ngày làm việc được không ạ?* |
 | **大垣** | 「<ruby>結構<rt>けっこう</rt></ruby>です、お<ruby>待<rt>ま</rt></ruby>ちします。<ruby>技術詳細<rt>ぎじゅつしょうさい</rt></ruby>は<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>了解<rt>りょうかい</rt></ruby>です。」 <br/>*Được, tôi đợi. Chi tiết technical mang về xem xét, OK.* |
 | **ズン** | 「ありがとうございます。**<ruby>期限内<rt>きげんない</rt></ruby>に<ruby>必<rt>かなら</rt></ruby>ずご<ruby>回答<rt>かいとう</rt></ruby>いたします**。」 <br/>*Em cảm ơn ạ. Em xin chắc chắn phản hồi đúng hẹn ạ.* |
@@ -2220,7 +2220,7 @@ Q&A Phase 3. Anh Ōgaki hỏi câu technical chi tiết về protocol tích hợ
  **Ghi chú:**
 - 【1】**「即答できかねます」** — khiêm tốn + trang trọng. Tốt hơn "わかりません". 「〜かねます」 = "không thể (do hoàn cảnh)" → từ chối lịch sự.
 - 【2】**Deadline cụ thể + ai xác nhận + định dạng phản hồi** — 3 yếu tố bắt buộc của 持ち帰り. Ghi chép tại chỗ → khách thấy mình nghiêm túc.
-- 【3】**「お時間〇営業日いただいて」** — đề nghị deadline + xin phép. Khách có thể thương lượng rút ngắn hơn nếu gấp.
+- 【3】**「お時間〇営業日いただいて」** — đề nghị hạn chót + xin phép. Khách có thể thương lượng rút ngắn hơn nếu gấp.
 
 ---
 
@@ -2228,17 +2228,17 @@ Q&A Phase 3. Anh Ōgaki hỏi câu technical chi tiết về protocol tích hợ
 
 > **「<ruby>即答<rt>そくとう</rt></ruby>できかねます。〇<ruby>日<rt>にち</rt></ruby>までに、〇〇に<ruby>確認<rt>かくにん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>、〇〇でご<ruby>回答<rt>かいとう</rt></ruby>いたします。」**
 >
-> *Thành thật "không thể trả lời ngay" + deadline + người xác nhận + định dạng phản hồi.*
+> *Thành thật "không thể trả lời ngay" + hạn chót + người xác nhận + định dạng phản hồi.*
 
 ---
 
 ## Tránh
 
 - "たぶん…と思います" đoán bừa → khách hỏi sâu thêm là vỡ
-- "後で確認します" không deadline → mơ hồ, ấn tượng không nghiêm túc
+- "後で確認します" không hạn chót → mơ hồ, ấn tượng không nghiêm túc
 - "わかりません" cộc → thiếu chuyên nghiệp. Dùng 「即答できかねます」 / 「持ち帰らせていただきます」
 - 持ち帰り xong quên theo dõi phản hồi → mất uy tín toàn bộ (xem rule 28)
-- Hứa deadline không khả thi ("明日まで") khi cần xác nhận nhiều bên → trễ hẹn còn tệ hơn
+- Hứa hạn chót không khả thi ("明日まで") khi cần xác nhận nhiều bên → trễ hẹn còn tệ hơn
 
 ---
 
@@ -2296,14 +2296,14 @@ Q&A Phase 3. Anh Ōgaki chất vấn mạnh về giá: "Phase 2 đã 800万、gi
 | **大垣** | 「Phase 3 で1200万？Phase 2 が800万だったのに 50%増？ベトナム会社で東京開発の値段ですか？」 <br/>*Phase 3 mà 12 triệu yên? Phase 2 là 8 triệu mà tăng 50%? Cty Việt Nam mà giá kiểu dev Tokyo à?* |
 | **ズン** | 「**<ruby>ご指摘<rt>ごしてき</rt></ruby>の点、もっともでございます**【1】。**ご<ruby>懸念<rt>けねん</rt></ruby>は『<ruby>価格<rt>かかく</rt></ruby><ruby>上昇<rt>じょうしょう</rt></ruby> 50% の<ruby>妥当性<rt>だとうせい</rt></ruby>』** と<ruby>理解<rt>りかい</rt></ruby>しました。」 — Bắc cầu + Chuyển khung <br/>*Điểm anh nêu rất hợp lý ạ. Em hiểu mối quan ngại của anh là 「tính hợp lý của việc tăng giá 50%」 ạ.* |
 | **ズン** | 「**<ruby>結論<rt>けつろん</rt></ruby>から<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げますと**、価格上昇分の<ruby>内訳<rt>うちわけ</rt></ruby>は **3点** ございます【2】。」 <br/>*Em xin nói thẳng kết luận trước ạ — phần tăng giá có 3 cấu phần ạ.* |
-| **ズン** | 「①Phase 3 はスコープが Phase 2 の 1.6倍 (<ruby>機能数<rt>きのうすう</rt></ruby> 12→19)、②セキュリティ<ruby>要件<rt>ようけん</rt></ruby> ISO27001 <ruby>対応<rt>たいおう</rt></ruby>で <ruby>工数<rt>こうすう</rt></ruby>+15%、③24/7 サポート<ruby>初年度<rt>しょねんど</rt></ruby><ruby>込<rt>こ</rt></ruby>み。**スコープ<ruby>単価<rt>たんか</rt></ruby>で見ますと Phase 2 <ruby>比<rt>ひ</rt></ruby> -8%** でございます。<ruby>詳細<rt>しょうさい</rt></ruby>はスライド19の<ruby>比較表<rt>ひかくひょう</rt></ruby>のとおりです。」 — Trả lời đánh số <br/>*① Phase 3 scope gấp 1.6 lần Phase 2 (12 chức năng → 19), ② yêu cầu bảo mật ISO27001 = effort +15%, ③ bao gồm support 24/7 năm đầu. Tính theo đơn giá scope thì giảm 8% so với Phase 2 ạ. Chi tiết ở slide 19 bảng so sánh ạ.* |
-| **ズン** | 「**もしスコープを Phase 2 と<ruby>同等<rt>どうとう</rt></ruby>に<ruby>絞<rt>しぼ</rt></ruby>れば** 950万まで<ruby>圧縮<rt>あっしゅく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>です。**いずれの<ruby>方向性<rt>ほうこうせい</rt></ruby>をご<ruby>希望<rt>きぼう</rt></ruby>でしょうか**【3】？」 <br/>*Nếu cắt scope về tương đương Phase 2, có thể nén xuống 9,5 triệu yên ạ. Quý vị muốn theo hướng nào ạ?* |
-| **大垣** | 「…なるほど、スコープ単価で -8% か。比較表をもう一度見せてください。」 <br/>*...Hiểu rồi, đơn giá scope giảm 8% à. Cho tôi xem lại bảng so sánh.* |
+| **ズン** | 「①Phase 3 はスコープが Phase 2 の 1.6倍 (<ruby>機能数<rt>きのうすう</rt></ruby> 12→19)、②セキュリティ<ruby>要件<rt>ようけん</rt></ruby> ISO27001 <ruby>対応<rt>たいおう</rt></ruby>で <ruby>工数<rt>こうすう</rt></ruby>+15%、③24/7 サポート<ruby>初年度<rt>しょねんど</rt></ruby><ruby>込<rt>こ</rt></ruby>み。**スコープ<ruby>単価<rt>たんか</rt></ruby>で見ますと Phase 2 <ruby>比<rt>ひ</rt></ruby> -8%** でございます。<ruby>詳細<rt>しょうさい</rt></ruby>はスライド19の<ruby>比較表<rt>ひかくひょう</rt></ruby>のとおりです。」 — Trả lời đánh số <br/>*① Phase 3 phạm vi gấp 1.6 lần Phase 2 (12 chức năng → 19), ② yêu cầu bảo mật ISO27001 = effort +15%, ③ bao gồm support 24/7 năm đầu. Tính theo đơn giá phạm vi thì giảm 8% so với Phase 2 ạ. Chi tiết ở slide 19 bảng so sánh ạ.* |
+| **ズン** | 「**もしスコープを Phase 2 と<ruby>同等<rt>どうとう</rt></ruby>に<ruby>絞<rt>しぼ</rt></ruby>れば** 950万まで<ruby>圧縮<rt>あっしゅく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>です。**いずれの<ruby>方向性<rt>ほうこうせい</rt></ruby>をご<ruby>希望<rt>きぼう</rt></ruby>でしょうか**【3】？」 <br/>*Nếu cắt phạm vi về tương đương Phase 2, có thể nén xuống 9,5 triệu yên ạ. Quý vị muốn theo hướng nào ạ?* |
+| **大垣** | 「…なるほど、スコープ単価で -8% か。比較表をもう一度見せてください。」 <br/>*...Hiểu rồi, đơn giá phạm vi giảm 8% à. Cho tôi xem lại bảng so sánh.* |
 
  **Ghi chú:**
 - 【1】**「ご指摘の点、もっともでございます」** — câu bắc cầu kinh điển. KHÔNG đồng ý với nội dung (không công nhận đắt), mà công nhận **việc nêu vấn đề là hợp lý**. Trung hoà cảm xúc, không nhượng bộ lập trường.
 - 【2】**「結論から申し上げますと…3点」** — câu trả lời có cấu trúc ngay sau câu bắc cầu. Số liệu rõ ràng → khách không thể gạt phăng đi được.
-- 【3】**「いずれの方向性をご希望でしょうか」** — trao lại quyền quyết định cho khách. Cho khách lựa chọn (giảm scope hay giữ giá) → khách thấy được tôn trọng, không bị "ấn" giá vào mặt.
+- 【3】**「いずれの方向性をご希望でしょうか」** — trao lại quyền quyết định cho khách. Cho khách lựa chọn (giảm phạm vi hay giữ giá) → khách thấy được tôn trọng, không bị "ấn" giá vào mặt.
 
 ---
 
@@ -2345,7 +2345,7 @@ Q&A Phase 3. Anh Ōgaki chất vấn mạnh về giá: "Phase 2 đã 800万、gi
 >
 > クロージングは ① Recap 3点 + ② CTA (next step + owner + deadline)。「ありがとうございました」だけは pitch を opaque にする。
 >
-> **Liên quan:** rule 13 (cam kết giữ giờ), rule 27 (slide cảm ơn), rule 28 (follow-up).
+> **Liên quan:** rule 13 (cam kết giữ giờ), rule 27 (slide cảm ơn), rule 28 (theo dõi sau).
 
 ---
 
@@ -2461,7 +2461,7 @@ Dũng đang hoàn thiện bộ slide. Đến slide cuối — chuẩn bị làm 
 |---------|-----|
 | **ズン** | 「**4<ruby>要素<rt>ようそ</rt></ruby>入りの<ruby>謝辞<rt>しゃじ</rt></ruby>スライド** に変更しました【1】。①<ruby>御礼<rt>おれい</rt></ruby>、②本日の3点 recap、③<ruby>連絡先<rt>れんらくさき</rt></ruby>、④deck PDF の QR コード。」 <br/>*Em đã đổi sang slide cảm ơn có 4 thành phần ạ. ① Cảm ơn, ② tóm tắt lại 3 điểm hôm nay, ③ thông tin liên hệ, ④ mã QR dẫn về bộ slide PDF ạ.* |
 | **トゥアン** | 「いいね、QR は何先？Drive <ruby>直<rt>ちょく</rt></ruby>リンク？」 <br/>*Tốt, mã QR dẫn đến đâu? Liên kết trực tiếp Drive à?* |
-| **ズン** | 「Drive **<ruby>閲覧専用<rt>えつらんせんよう</rt></ruby>** リンクの QR です【2】。**ダウンロード<ruby>可<rt>か</rt></ruby>、<ruby>編集不可<rt>へんしゅうふか</rt></ruby>**。Tanaka PMO 様にも同じリンク Slack で<ruby>共有予定<rt>きょうゆうよてい</rt></ruby>です。」 <br/>*Mã QR đến link Drive chỉ xem thôi ạ. Tải về được, không chỉnh sửa được. Em cũng chia sẻ cùng link đó qua Slack cho anh Tanaka PMO ạ.* |
+| **ズン** | 「Drive **<ruby>閲覧専用<rt>えつらんせんよう</rt></ruby>** リンクの QR です【2】。**ダウンロード<ruby>可<rt>か</rt></ruby>、<ruby>編集不可<rt>へんしゅうふか</rt></ruby>**。Tanaka PMO 様にも同じリンク Slack で<ruby>共有予定<rt>きょうゆうよてい</rt></ruby>です。」 <br/>*Mã QR đến đường dẫn Drive chỉ xem thôi ạ. Tải về được, không chỉnh sửa được. Em cũng chia sẻ cùng đường dẫn đó qua Slack cho anh Tanaka PMO ạ.* |
 | **トゥアン** | 「連絡先は<ruby>弊社<rt>へいしゃ</rt></ruby>2名 (ズン＋ハーCTO) でいいけど、**<ruby>営業時間<rt>えいぎょうじかん</rt></ruby>** 書いとけよ。客が<ruby>深夜<rt>しんや</rt></ruby>メールで<ruby>気<rt>き</rt></ruby>を<ruby>遣<rt>つか</rt></ruby>わない様に。」 <br/>*Thông tin liên hệ bên mình 2 người (Dũng + Hà CTO) là OK, nhưng ghi giờ làm việc vào. Để khách không phải ngại khi gửi mail đêm khuya.* |
 | **ズン** | 「『9:00-18:00 (JST)』<ruby>追記<rt>ついき</rt></ruby>します【3】。」 <br/>*Em thêm 「9:00-18:00 (JST)」 ạ.* |
 
@@ -2505,7 +2505,7 @@ Dũng đang hoàn thiện bộ slide. Đến slide cuối — chuẩn bị làm 
 
 - Slide cảm ơn trống → lãng phí 5-10 phút chiếu màn hình
 - Email cá nhân (gmail) → thiếu chuyên nghiệp → dùng tên miền công ty
-- QR link công khai → ai cũng truy cập được → lộ bộ slide
+- QR đường dẫn công khai → ai cũng truy cập được → lộ bộ slide
 - Quên 営業時間 → khách gửi mail 22h thấy ngại
 - Ảnh chân dung người trình bày → không cần thiết, gây xao nhãng
 
@@ -2540,7 +2540,7 @@ Bài thuyết trình Phase 3 kết thúc 16:00 thứ Năm. Dũng về văn phòn
 
 ---
 
-## Hội thoại XẤU — kéo qua weekend
+## Hội thoại XẤU — kéo qua cuối tuần
 
 *Slack 17:30 thứ Năm*
 
@@ -2549,7 +2549,7 @@ Bài thuyết trình Phase 3 kết thúc 16:00 thứ Năm. Dũng về văn phòn
 | **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、ピッチ<ruby>無事<rt>ぶじ</rt></ruby><ruby>終了<rt>しゅうりょう</rt></ruby>！フォローメールは<ruby>月曜<rt>げつよう</rt></ruby><ruby>送<rt>おく</rt></ruby>ろうと<ruby>思<rt>おも</rt></ruby>います、<ruby>週末<rt>しゅうまつ</rt></ruby>ゆっくり<ruby>書<rt>か</rt></ruby>きたいので。」 <br/>*Chị Hương, bài thuyết trình xong an toàn! Mail phản hồi em định gửi thứ Hai, để cuối tuần em viết kỹ ạ.* |
 | **フオン** | 「**月曜だと72<ruby>時間<rt>じかん</rt></ruby><ruby>後<rt>ご</rt></ruby>**。<ruby>客<rt>きゃく</rt></ruby>が<ruby>今夜<rt>こんや</rt></ruby><ruby>社内<rt>しゃない</rt></ruby>シェアする<ruby>時<rt>とき</rt></ruby>に<ruby>資料<rt>しりょう</rt></ruby><ruby>無<rt>な</rt></ruby>いの? **今夜送って**。3<ruby>行<rt>ぎょう</rt></ruby>でも。」 <br/>*Thứ Hai là 72h sau. Khách tối nay chia sẻ nội bộ mà không có tài liệu à? Tối nay gửi đi. 3 dòng cũng được.* |
 | **ズン** | 「あ、それは…」 <br/>*À, cái đó...* |
-| **フオン** | 「**24h ルール**。<ruby>詳細<rt>しょうさい</rt></ruby><ruby>版<rt>ばん</rt></ruby>は週末に書いて月曜 update。**今夜は acknowledgment + slide PDF link** だけでいい。」 <br/>*Quy tắc 24h. Bản chi tiết để cuối tuần viết, thứ Hai cập nhật. Tối nay chỉ cần xác nhận ngắn + link PDF slide là đủ.* |
+| **フオン** | 「**24h ルール**。<ruby>詳細<rt>しょうさい</rt></ruby><ruby>版<rt>ばん</rt></ruby>は週末に書いて月曜 update。**今夜は acknowledgment + slide PDF link** だけでいい。」 <br/>*Quy tắc 24h. Bản chi tiết để cuối tuần viết, thứ Hai cập nhật. Tối nay chỉ cần xác nhận ngắn + đường dẫn PDF slide là đủ.* |
 
 **Vì sao xấu:** 月曜 = 72h sau. Khách Nhật thường chia sẻ nội bộ trong 24h sau bài thuyết trình — không có slide = họ phải nhớ nội dung nói miệng → ấn tượng "người trình bày chậm". 「週末ゆっくり書く」 = đặt việc riêng của mình lên trên khách hàng.
 
@@ -2561,13 +2561,13 @@ Bài thuyết trình Phase 3 kết thúc 16:00 thứ Năm. Dũng về văn phòn
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、ピッチ<ruby>終了<rt>しゅうりょう</rt></ruby>。**<ruby>今夜<rt>こんや</rt></ruby><ruby>中<rt>じゅう</rt></ruby>に acknowledgment メール** <ruby>送<rt>おく</rt></ruby>ります (slide PDF link + <ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り deadline <ruby>確認<rt>かくにん</rt></ruby>のみ)。**<ruby>詳細<rt>しょうさい</rt></ruby> recap + <ruby>議事<rt>ぎじ</rt></ruby>メモは<ruby>月曜<rt>げつよう</rt></ruby><ruby>朝<rt>あさ</rt></ruby>** に send します。テンプレ<ruby>使<rt>つか</rt></ruby>います。」 <br/>*Chị Hương, bài thuyết trình xong rồi ạ. Tối nay em gửi mail xác nhận trước (chỉ link PDF slide + xác nhận hạn chót 持ち帰り). Tóm tắt chi tiết + ghi chú họp em gửi sáng thứ Hai. Em dùng mẫu có sẵn ạ.* |
+| **ズン** | 「フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、ピッチ<ruby>終了<rt>しゅうりょう</rt></ruby>。**<ruby>今夜<rt>こんや</rt></ruby><ruby>中<rt>じゅう</rt></ruby>に acknowledgment メール** <ruby>送<rt>おく</rt></ruby>ります (slide PDF link + <ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り deadline <ruby>確認<rt>かくにん</rt></ruby>のみ)。**<ruby>詳細<rt>しょうさい</rt></ruby> recap + <ruby>議事<rt>ぎじ</rt></ruby>メモは<ruby>月曜<rt>げつよう</rt></ruby><ruby>朝<rt>あさ</rt></ruby>** に send します。テンプレ<ruby>使<rt>つか</rt></ruby>います。」 <br/>*Chị Hương, bài thuyết trình xong rồi ạ. Tối nay em gửi mail xác nhận trước (chỉ đường dẫn PDF slide + xác nhận hạn chót 持ち帰り). Tóm tắt chi tiết + ghi chú họp em gửi sáng thứ Hai. Em dùng mẫu có sẵn ạ.* |
 | **フオン** | 「いいね、その2<ruby>段階<rt>だんかい</rt></ruby>で。今夜の acknowledgment は **20<ruby>時<rt>じ</rt></ruby>まで** に<ruby>出<rt>だ</rt></ruby>すと<ruby>安心<rt>あんしん</rt></ruby>。<ruby>文面<rt>ぶんめん</rt></ruby>ドラフト<ruby>見<rt>み</rt></ruby>せて。」 <br/>*Tốt, đi 2 bước đó. Xác nhận ngắn tối nay ra trước 20h là an toàn. Bản thảo nội dung mail chị xem nhé.* |
-| **ズン** | 「ドラフトです。3パラ + <ruby>添付<rt>てんぷ</rt></ruby>3<ruby>点<rt>てん</rt></ruby> + 持ち帰り SOAP detail <ruby>期限<rt>きげん</rt></ruby><ruby>金曜<rt>きんよう</rt></ruby>17時 <ruby>明記<rt>めいき</rt></ruby>しました【1】。」 <br/>*Bản thảo đây ạ. 3 đoạn + 3 file đính kèm + ghi rõ hạn chót 持ち帰り chi tiết SOAP trước 17h thứ Sáu ạ.* |
+| **ズン** | 「ドラフトです。3パラ + <ruby>添付<rt>てんぷ</rt></ruby>3<ruby>点<rt>てん</rt></ruby> + 持ち帰り SOAP detail <ruby>期限<rt>きげん</rt></ruby><ruby>金曜<rt>きんよう</rt></ruby>17時 <ruby>明記<rt>めいき</rt></ruby>しました【1】。」 <br/>*Bản thảo đây ạ. 3 đoạn + 3 tệp đính kèm + ghi rõ hạn chót 持ち帰り chi tiết SOAP trước 17h thứ Sáu ạ.* |
 | **フオン** | 「OK、send。月曜の詳細版にはトゥアン+ハー CTO も CC に。」 <br/>*OK, gửi đi. Bản chi tiết thứ Hai nhớ CC anh Tuấn + anh Hà CTO vào nhé.* |
 
  **Ghi chú:**
-- 【1】**2段階送付** (gửi 2 bước) — 当日 (cùng ngày): xác nhận ngắn + slide PDF + xác nhận deadline 持ち帰り. 翌営業日朝 (sáng ngày làm việc kế tiếp): tóm tắt chi tiết + ghi chú họp + danh mục việc cần làm. Khách chia sẻ nội bộ ngay trong ngày, phần xem xét chi tiết để đầu tuần → khớp với nhịp làm việc của phía Nhật.
+- 【1】**2段階送付** (gửi 2 bước) — 当日 (cùng ngày): xác nhận ngắn + slide PDF + xác nhận hạn chót 持ち帰り. 翌営業日朝 (sáng ngày làm việc kế tiếp): tóm tắt chi tiết + ghi chú họp + danh mục việc cần làm. Khách chia sẻ nội bộ ngay trong ngày, phần xem xét chi tiết để đầu tuần → khớp với nhịp làm việc của phía Nhật.
 
 ---
 
@@ -2632,8 +2632,8 @@ EMAIL: zun@tienphat.vn
 - Gửi sau 48h → ấn tượng đã loãng, khách đã quên sắc thái lời nói miệng
 - 件名 mơ hồ ("先日はありがとうございました") → email bị chìm trong hộp thư
 - Quên CC nội bộ (CTO, sếp) → không có chuỗi người làm chứng
-- Đính kèm file nặng qua mail (file 30MB) → dùng link Drive
-- Quên 持ち帰り deadline trong email → khách không biết khi nào phải phản hồi
+- Đính kèm tệp nặng qua mail (tệp 30MB) → dùng đường dẫn Drive
+- Quên ghi hạn chót 持ち帰り trong email → khách không biết khi nào phải phản hồi
 
 ---
 
@@ -2654,33 +2654,33 @@ EMAIL: zun@tienphat.vn
 
 # Rule 29 — Thuyết trình trực tuyến / オンラインプレゼン
 
-> **Luận điểm.** Thuyết trình trực tuyến không phải "trực tiếp + camera". 5 yếu tố vật lý: ① **Camera ngang mắt** (nhìn ống kính, không nhìn màn hình) ② **Ánh sáng** trước mặt (cửa sổ / ring light) ③ **Cách phát âm** = nói lớn hơn 20% so với trực tiếp ④ **Mic gắn ve áo** không mic laptop ⑤ **Phông nền** sạch (virtual hoặc tường trắng). Mỗi yếu tố sai = trừ điểm chuyên nghiệp.
+> **Luận điểm.** Thuyết trình trực tuyến không phải "trực tiếp + camera". 5 yếu tố vật lý: ① **Camera ngang mắt** (nhìn ống kính, không nhìn màn hình) ② **Ánh sáng** trước mặt (cửa sổ / đèn vòng) ③ **Cách phát âm** = nói lớn hơn 20% so với trực tiếp ④ **Mic gắn ve áo** không mic máy tính xách tay ⑤ **Phông nền** sạch (ảo hoặc tường trắng). Mỗi yếu tố sai = trừ điểm chuyên nghiệp.
 >
 > オンラインは「対面+カメラ」ではない。Camera 目線、前方照明、声 +20%、ピンマイク、背景クリーン — 5要素必須。
 >
-> **Liên quan:** rule 30 (lai/hybrid), rule 31 (sự cố kỹ thuật). Sách 03 rule 03 (video setup).
+> **Liên quan:** rule 30 (lai/kết hợp), rule 31 (sự cố kỹ thuật). Sách 03 rule 03 (thiết lập video).
 
 ---
 
 ## Bối cảnh / 場面
 
-Chủ Nhật. Dũng test Zoom với chị Hương trước bài thuyết trình trực tuyến sáng thứ Hai cho 松本 + 田中 (大垣 dự trực tiếp tại 白鷗). Tập dượt chia sẻ màn hình.
+Chủ Nhật. Dũng kiểm tra Zoom với chị Hương trước bài thuyết trình trực tuyến sáng thứ Hai cho 松本 + 田中 (大垣 dự trực tiếp tại 白鷗). Tập dượt chia sẻ màn hình.
 
 ---
 
-## Trường hợp xấu — laptop mặc định
+## Trường hợp xấu — máy tính xách tay mặc định
 
 *Zoom*
 
 | Vai | Câu |
 |---------|-----|
-| **フオン** | 「ズン、カメラが下から<ruby>見上<rt>みあ</rt></ruby>げてる。ノートPC のまま？」 <br/>*Dũng, camera đang ngước từ dưới lên. Vẫn để laptop à?* |
-| **ズン** | 「はい、ノート PC で…」 <br/>*Vâng, em để laptop ạ...* |
-| **フオン** | 「**double chin** で見える、それと **<ruby>逆光<rt>ぎゃっこう</rt></ruby>** ! 後ろが窓、顔が<ruby>真<rt>ま</rt></ruby>っ<ruby>黒<rt>くろ</rt></ruby>。声も小さい、laptop マイク？」 <br/>*Nhìn cằm đôi lắm, với cả ngược sáng (逆光)! Sau lưng là cửa sổ, mặt đen sì. Giọng cũng nhỏ, mic laptop à?* |
+| **フオン** | 「ズン、カメラが下から<ruby>見上<rt>みあ</rt></ruby>げてる。ノートPC のまま？」 <br/>*Dũng, camera đang ngước từ dưới lên. Vẫn để máy tính xách tay à?* |
+| **ズン** | 「はい、ノート PC で…」 <br/>*Vâng, em để máy tính xách tay ạ...* |
+| **フオン** | 「**double chin** で見える、それと **<ruby>逆光<rt>ぎゃっこう</rt></ruby>** ! 後ろが窓、顔が<ruby>真<rt>ま</rt></ruby>っ<ruby>黒<rt>くろ</rt></ruby>。声も小さい、laptop マイク？」 <br/>*Nhìn cằm đôi lắm, với cả ngược sáng (逆光)! Sau lưng là cửa sổ, mặt đen sì. Giọng cũng nhỏ, mic máy tính à?* |
 | **ズン** | 「全部デフォルトです…」 <br/>*Hết để mặc định ạ...* |
 | **フオン** | 「**全部 NG**。月曜まで12時間あるから<ruby>揃<rt>そろ</rt></ruby>えて。」 <br/>*NG hết. Còn 12 tiếng đến thứ Hai, lo set up đi.* |
 
-**Vì sao xấu:** Camera laptop góc dưới = cằm đôi + lộ lỗ mũi (bất lịch sự). 逆光 (ngược sáng) = chỉ thấy bóng đen không thấy mặt → ấn tượng người trình bày "ẩn mình". Mic laptop = âm bể, giọng nhỏ.
+**Vì sao xấu:** Camera máy tính xách tay góc dưới = cằm đôi + lộ lỗ mũi (bất lịch sự). 逆光 (ngược sáng) = chỉ thấy bóng đen không thấy mặt → ấn tượng người trình bày "ẩn mình". Mic máy tính = âm bể, giọng nhỏ.
 
 ---
 
@@ -2690,7 +2690,7 @@ Chủ Nhật. Dũng test Zoom với chị Hương trước bài thuyết trình 
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「**5<ruby>要素<rt>ようそ</rt></ruby> setup** 完了です【1】。①<ruby>外付<rt>そとづ</rt></ruby>け webcam を<ruby>本棚<rt>ほんだな</rt></ruby>で<ruby>目線<rt>めせん</rt></ruby>に上げ、②<ruby>正面<rt>しょうめん</rt></ruby>にリングライト、③<ruby>背景<rt>はいけい</rt></ruby>は virtual の<ruby>薄<rt>うす</rt></ruby>グレー、④ピンマイク、⑤声は<ruby>通常<rt>つうじょう</rt></ruby> +20% <ruby>意識<rt>いしき</rt></ruby>します。」 <br/>*Em đã thiết lập 5 yếu tố ạ. ① Webcam rời kê lên kệ sách ngang mắt, ② ring light trước mặt, ③ phông nền virtual xám nhạt, ④ mic ve áo, ⑤ giọng em chú ý nói to hơn 20% so bình thường ạ.* |
+| **ズン** | 「**5<ruby>要素<rt>ようそ</rt></ruby> setup** 完了です【1】。①<ruby>外付<rt>そとづ</rt></ruby>け webcam を<ruby>本棚<rt>ほんだな</rt></ruby>で<ruby>目線<rt>めせん</rt></ruby>に上げ、②<ruby>正面<rt>しょうめん</rt></ruby>にリングライト、③<ruby>背景<rt>はいけい</rt></ruby>は virtual の<ruby>薄<rt>うす</rt></ruby>グレー、④ピンマイク、⑤声は<ruby>通常<rt>つうじょう</rt></ruby> +20% <ruby>意識<rt>いしき</rt></ruby>します。」 <br/>*Em đã thiết lập 5 yếu tố ạ. ① Camera rời kê lên kệ sách ngang mắt, ② ring light trước mặt, ③ phông nền ảo xám nhạt, ④ mic ve áo, ⑤ giọng em chú ý nói to hơn 20% so bình thường ạ.* |
 | **フオン** | 「うん、顔が明るい、目線が natural。**手の<ruby>位置<rt>いち</rt></ruby>** どこ？」 <br/>*Ờ, mặt sáng rồi, đường nhìn (eye line) tự nhiên. Tay đặt đâu?* |
 | **ズン** | 「<ruby>画面下<rt>がめんした</rt></ruby>に置いて、**重要 point だけ手を上げ gesture** を camera frame 内に入れます【2】。」 <br/>*Em đặt dưới khung hình, chỉ những điểm quan trọng mới đưa tay lên ra động tác trong frame camera ạ.* |
 | **フオン** | 「いいね。あと **chat <ruby>監視<rt>かんし</rt></ruby>** は誰？1人で全部<ruby>見<rt>み</rt></ruby>れない。」 <br/>*Tốt. Còn nữa, chat ai theo dõi? 1 người không xem hết được.* |
@@ -2708,18 +2708,18 @@ Chủ Nhật. Dũng test Zoom với chị Hương trước bài thuyết trình 
 
 > **5要素: ①Camera 目線 ②前方 lighting ③声 +20% ④ピンマイク ⑤背景クリーン. + Người điều phối chat phụ.**
 >
-> *Trực tuyến ≠ trực tiếp + webcam. Thiết lập vật lý quyết định 50% ấn tượng chuyên nghiệp.*
+> *Trực tuyến ≠ trực tiếp + camera. Thiết lập vật lý quyết định 50% ấn tượng chuyên nghiệp.*
 
 ---
 
 ## Tránh
 
-- Camera laptop góc dưới → cằm đôi + lộ lỗ mũi
+- Camera máy tính xách tay góc dưới → cằm đôi + lộ lỗ mũi
 - 逆光 (cửa sổ phía sau) → chỉ thấy bóng đen
-- Mic laptop → âm bể, có vọng tiếng
+- Mic máy tính xách tay → âm bể, có vọng tiếng
 - Phông nền lộn xộn (giường, đồ giặt) → thiếu chuyên nghiệp
 - Tự xem chat trong khi trình bày → ánh nhìn gãy, mất nhịp
-- Phông nền virtual "beach" / "Star Trek" → không phù hợp khách Nhật
+- Phông nền ảo "bãi biển" / "phim viễn tưởng" (Star Trek) → không phù hợp khách Nhật
 
 ---
 
@@ -2738,7 +2738,7 @@ Chủ Nhật. Dũng test Zoom với chị Hương trước bài thuyết trình 
 
 # Rule 30 — Thuyết trình kết hợp / ハイブリッドプレゼン
 
-> **Luận điểm.** Kết hợp (1 nửa trực tiếp, 1 nửa trực tuyến) là **định dạng khó nhất**. Lỗi cố hữu: người thuyết trình chỉ giao tiếp với người ngồi trong phòng → đối tượng trực tuyến thành "second-class". Quy tắc 50/50: ① **Chào trực tuyến trước trực tiếp** ② **Chia giao tiếp bằng mắt** (đếm 30s trực tiếp, 30s nhìn camera) ③ **Lặp lại câu hỏi từ phòng** trước khi trả lời (trực tuyến không nghe rõ) ④ **Camera ở cạnh slide** không để sau lưng người thuyết trình.
+> **Luận điểm.** Kết hợp (1 nửa trực tiếp, 1 nửa trực tuyến) là **định dạng khó nhất**. Lỗi cố hữu: người thuyết trình chỉ giao tiếp với người ngồi trong phòng → đối tượng trực tuyến thành "hạng hai". Quy tắc 50/50: ① **Chào trực tuyến trước trực tiếp** ② **Chia giao tiếp bằng mắt** (đếm 30s trực tiếp, 30s nhìn camera) ③ **Lặp lại câu hỏi từ phòng** trước khi trả lời (trực tuyến không nghe rõ) ④ **Camera ở cạnh slide** không để sau lưng người thuyết trình.
 >
 > Hybrid は最難関。50/50 ルール: 挨拶は online 先、目線は 30s/30s 分配、室内質問は復唱、camera は slide 横。
 >
@@ -2784,7 +2784,7 @@ Bài thuyết trình Phase 3 chính thức. 大垣 + 田中 ở phòng họp 白
 
  **Ghi chú:**
 - 【1】**Chào trực tuyến TRƯỚC** — đảo thứ tự thông thường để trực tuyến cảm thấy được ưu tiên, không phải nghĩ đến sau cùng.
-- 【2】**Chia giao tiếp bằng mắt 30s** — đếm thầm. 30s nhìn trực tiếp → 30s nhìn camera (không nhìn màn hình monitor có người tham dự). Tránh "3 phút quay lưng với trực tuyến".
+- 【2】**Chia giao tiếp bằng mắt 30s** — đếm thầm. 30s nhìn trực tiếp → 30s nhìn camera (không nhìn màn hình có người tham dự). Tránh "3 phút quay lưng với trực tuyến".
 - 【3】**「〇〇様より〜のご質問でございます」** — lặp lại câu hỏi từ phòng trước khi trả lời. Người tham dự trực tuyến nghe được + có thời gian tiếp nhận.
 
 ---
@@ -2823,23 +2823,23 @@ Bài thuyết trình Phase 3 chính thức. 大垣 + 田中 ở phòng họp 白
 
 # Rule 31 — Xử lý sự cố kỹ thuật / 技術トラブル復旧
 
-> **Luận điểm.** Khi projector chết / internet down / Zoom freeze giữa bài thuyết trình — **3 bước gỡ tình huống**: ① **Thừa nhận bình tĩnh** (5 giây): "申し訳ございません、技術トラブルが発生しております" ② **Chuyển nhanh sang Plan B** (Plan B đã chuẩn bị ở rule 07: PDF dự phòng, mobile hotspot, tài liệu phát tay) ③ **Tiếp tục bằng lời** (nói tiếp ngay phần slide kế) trong khi đang khôi phục. Tuyệt đối **không hoảng loạn** trên mặt — khán giả Nhật xem hoảng loạn = "cty không đáng tin trong khủng hoảng vận hành thật".
+> **Luận điểm.** Khi máy chiếu chết / mạng down / Zoom freeze giữa bài thuyết trình — **3 bước gỡ tình huống**: ① **Thừa nhận bình tĩnh** (5 giây): "申し訳ございません、技術トラブルが発生しております" ② **Chuyển nhanh sang Plan B** (Plan B đã chuẩn bị ở rule 07: PDF dự phòng, phát mạng di động, tài liệu phát tay) ③ **Tiếp tục bằng lời** (nói tiếp ngay phần slide kế) trong khi đang khôi phục. Tuyệt đối **không hoảng loạn** trên mặt — khán giả Nhật xem hoảng loạn = "cty không đáng tin trong khủng hoảng vận hành thật".
 >
 > 技術トラブルは acknowledge (5秒で) → switch Plan B → entertain (verbal で次 slide 内容を語る) の3ステップ。Panic 表情は『本番障害も同じ』と暗示。
 >
-> **Liên quan:** rule 07 (Phương án B), rule 29 (trực tuyến), rule 30 (lai/hybrid).
+> **Liên quan:** rule 07 (Phương án B), rule 29 (trực tuyến), rule 30 (lai/kết hợp).
 
 ---
 
 ## Bối cảnh / 場面
 
-Thuyết trình Phase 3 phút 12. Đang chia sẻ slide 8 (bảng giá) — đột nhiên cty 白鷗 cúp internet toàn tòa nhà. Zoom freeze, projector hiện "no signal". 大垣 + 田中 trong phòng nhìn Dũng. 松本 trực tuyến → màn hình Dũng cứng đơ.
+Thuyết trình Phase 3 phút 12. Đang chia sẻ slide 8 (bảng giá) — đột nhiên cty 白鷗 cúp mạng toàn tòa nhà. Zoom freeze, máy chiếu hiện "no signal". 大垣 + 田中 trong phòng nhìn Dũng. 松本 trực tuyến → màn hình Dũng cứng đơ.
 
 ---
 
 ## Trường hợp xấu — hoảng loạn + im lặng kéo dài
 
-*thấy projector mất, mặt hoảng · loay hoay 30 giây, gọi IT helpdesk · 60s sau · im lặng 2 phút trong khi Dũng tìm file*
+*thấy máy chiếu mất, mặt hoảng · loay hoay 30 giây, gọi bộ phận hỗ trợ · 60s sau · im lặng 2 phút trong khi Dũng tìm tệp*
 
 | Vai | Câu |
 |---------|-----|
@@ -2854,7 +2854,7 @@ Thuyết trình Phase 3 phút 12. Đang chia sẻ slide 8 (bảng giá) — đ�
 
 ## Trường hợp tốt — xử lý sự cố 3 bước
 
-*projector mất, hít sâu 3 giây, giọng vững · rút USB, cắm dongle USB-C HDMI, kết nối local — đã chuẩn bị sẵn · người đồng trình bày, gọi mobile hotspot · không có slide hiện, vẫn tiếp tục bằng lời · 45 giây sau*
+*máy chiếu mất, hít sâu 3 giây, giọng vững · rút USB, cắm đầu chuyển USB-C HDMI, kết nối local — đã chuẩn bị sẵn · người đồng trình bày, bật phát mạng di động · không có slide hiện, vẫn tiếp tục bằng lời · 45 giây sau*
 
 | Vai | Câu |
 |---------|-----|
@@ -2884,7 +2884,7 @@ Thuyết trình Phase 3 phút 12. Đang chia sẻ slide 8 (bảng giá) — đ�
 
 - "あ、あ、えっ…" lắp bắp hoảng → khán giả đọc được sự bối rối trên mặt
 - Loay hoay > 30s im lặng → quá giờ + ấn tượng "không có phương án"
-- "誰か助けて〜" gọi IT helpdesk lớn tiếng → thiếu chuyên nghiệp
+- "誰か助けて〜" gọi bộ phận hỗ trợ lớn tiếng → thiếu chuyên nghiệp
 - Không có Plan B → người thuyết trình tự biết mình không có dự phòng
 - Đổ lỗi hạ tầng ("白鷗のネットが…") → đổ lỗi khách = làm khách mất mặt
 - Bỏ qua các slide còn lại vì hoảng → bài thuyết trình lỡ phần kết quả
@@ -2987,7 +2987,7 @@ Thuyết trình Phase 3. Dũng trình bày phần nghiệp vụ + phạm vi (sli
 
 # Rule 33 — Quay video + chia sẻ / 録画と共有
 
-> **Luận điểm.** Khi 田中 PMO yêu cầu quay video để gửi cho người vắng mặt → **không quyết tại chỗ một mình**. Quy trình: ① **Xin phép** toàn bộ người tham dự trước khi quay ② **Cắt bỏ** phần bảo mật (đàm phán giá, góp ý nội bộ) ③ **Kiểm soát phân phối** (link Drive giới hạn người xem, hết hạn 30 ngày). Quay tự do + chia sẻ lung tung = rủi ro rò rỉ + xâm phạm quyền riêng tư.
+> **Luận điểm.** Khi 田中 PMO yêu cầu quay video để gửi cho người vắng mặt → **không quyết tại chỗ một mình**. Quy trình: ① **Xin phép** toàn bộ người tham dự trước khi quay ② **Cắt bỏ** phần bảo mật (đàm phán giá, góp ý nội bộ) ③ **Kiểm soát phân phối** (đường dẫn Drive giới hạn người xem, hết hạn 30 ngày). Quay tự do + chia sẻ lung tung = rủi ro rò rỉ + xâm phạm quyền riêng tư.
 >
 > 録画依頼は ① 全員許可 ② confidential 部分編集 ③ 配布範囲制限。免許なし録画はトラブル元。
 >
@@ -3012,7 +3012,7 @@ Buổi pitch Phase 3 bắt đầu trong 5 phút. 田中 PMO nhắn Slack 田中 
 | **大垣** | 「実はもう1社<ruby>見積<rt>みつ</rt></ruby>もり<ruby>依頼<rt>いらい</rt></ruby>してて…」 <br/>*Thực ra tôi đã yêu cầu báo giá thêm 1 công ty nữa... (không biết đang REC)* |
 | **ズン** | 「<ruby>録画<rt>ろくが</rt></ruby>です、ご<ruby>共有<rt>きょうゆう</rt></ruby>くださいませ。」 <br/>*Đây là bản quay ạ, mời chia sẻ ạ. (gửi MP4 bản thô 200MB qua Gmail)* |
 
-**Vì sao xấu:** Không thông báo quay trong phòng → 大垣 phát biểu thông tin bảo mật mà không biết. Gửi MP4 bản thô qua Gmail = ① file lớn ② không kiểm soát phân phối ③ chứa thông tin bảo mật. Vi phạm cả quyền riêng tư lẫn bảo mật.
+**Vì sao xấu:** Không thông báo quay trong phòng → 大垣 phát biểu thông tin bảo mật mà không biết. Gửi MP4 bản thô qua Gmail = ① tệp lớn ② không kiểm soát phân phối ③ chứa thông tin bảo mật. Vi phạm cả quyền riêng tư lẫn bảo mật.
 
 ---
 
@@ -3051,9 +3051,9 @@ Buổi pitch Phase 3 bắt đầu trong 5 phút. 田中 PMO nhắn Slack 田中 
 - Quay mà không thông báo → xâm phạm quyền riêng tư
 - Biên tập bản thô không cắt phần bảo mật → rò rỉ khi chia sẻ
 - Gửi MP4 bản thô qua Gmail / email cá nhân → không kiểm soát phân phối
-- Link Drive công khai → ai cũng truy cập được
-- Không đặt hạn chót → file tồn tại vô thời hạn
-- Quên CC sếp khi chia sẻ file video quay → đứt chuỗi truy vết
+- Liên kết Drive công khai → ai cũng truy cập được
+- Không đặt hạn chót → tệp tồn tại vô thời hạn
+- Quên CC sếp khi chia sẻ tệp video quay → đứt chuỗi truy vết
 
 ---
 
@@ -3204,7 +3204,7 @@ Bài thuyết trình Phase 3 chiều thứ Năm xong. Tối thứ Năm, Dũng đ
 >
 > 改善サイクルは Rehearse → Pilot → Live → Retro の4ステップ。Linh の初 pitch を題材にグループ retro。
 >
-> **Liên quan:** rule 34 (self-review). Sách 04 rule 35 (chu kỳ cải thiện).
+> **Liên quan:** rule 34 (tự đánh giá). Sách 04 rule 35 (chu kỳ cải thiện).
 
 ---
 
@@ -3292,7 +3292,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 ## Phần I — Nền tảng trước nhấc máy
 
-### Rule 01 — Checklist 7 câu hỏi trước khi soạn / プレゼン準備の7つの問い
+### Rule 01 — Danh sách kiểm tra 7 câu hỏi trước khi soạn / プレゼン準備の7つの問い
 
 **ズン (em Dũng):**
 
@@ -3317,7 +3317,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 >  「タイトルを全部結論型に書き直しました。」
 >
->  *Em đã sửa toàn bộ title sang dạng kết luận ạ.*
+>  *Em đã sửa toàn bộ tiêu đề sang dạng kết luận ạ.*
 >
 >  _結論型タイトルへの書き直し報告_
 
@@ -3336,7 +3336,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 >  「SCQAの順で組み直しました。」
 >
->  *Em đã reorder theo SCQA ạ.*
+>  *Em đã sắp xếp lại theo SCQA ạ.*
 >
 >  _ストーリーアーク報告_
 
@@ -3344,7 +3344,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 >  「現状(S) → 問題(C) → 問い(Q) → 答え(A)で進めます。」
 >
->  *Em đi theo flow: hiện trạng (S) → vấn đề (C) → câu hỏi (Q) → đáp án (A) ạ.*
+>  *Em đi theo luồng: hiện trạng (S) → vấn đề (C) → câu hỏi (Q) → đáp án (A) ạ.*
 >
 >  _プレゼン構造の口頭宣言_
 
@@ -3355,7 +3355,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 >  「タイトル36pt、本文20pt、フォントはMeiryo統一にしました。」
 >
->  *Em để tiêu đề 36pt, phần thân 20pt, font thống nhất Meiryo ạ.*
+>  *Em để tiêu đề 36pt, phần thân 20pt, phông chữ thống nhất Meiryo ạ.*
 >
 >  _視覚階層の標準報告_
 
@@ -3363,7 +3363,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 >  「ラベルを20pt以上に上げ直します。」
 >
->  *Em sẽ chỉnh label lên trên 20pt ạ.*
+>  *Em sẽ chỉnh nhãn lên trên 20pt ạ.*
 >
 >  _ラベル修正コミット_
 
@@ -3396,7 +3396,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 >  「Plan Bチェックリストの5点を揃えました。」
 >
->  *Em đã chuẩn bị xong 5 điểm trong checklist Plan B ạ.*
+>  *Em đã chuẩn bị xong 5 điểm trong danh sách kiểm tra Plan B ạ.*
 >
 >  _バックアップ完了報告_
 
@@ -3432,7 +3432,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 >  「本日は大きく〇部構成でお話しします。本日のゴールは〇〇でございます。」
 >
->  *Hôm nay em xin trình bày theo 〇 phần lớn ạ. Goal hôm nay là 〇〇 ạ.*
+>  *Hôm nay em xin trình bày theo 〇 phần lớn ạ. Mục tiêu hôm nay là 〇〇 ạ.*
 >
 >  _アジェンダ＋ゴール宣言_
 
@@ -3475,7 +3475,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 >
 >  *Đến 〇 phút em chắc chắn chuyển sang Q&A, dù phần chính chưa hết.*
 >
->  _Hard commit on time keeping_
+>  _Cam kết chắc chắn giữ đúng giờ_
 
 
 
@@ -3487,7 +3487,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 >  「〇点を実装いたします。まず1点目、〇〇。次に2点目、〇〇。最後の3点目、〇〇。」
 >
->  *Sẽ implement 〇 điểm ạ. Đầu tiên điểm 1, 〇〇. Tiếp theo điểm 2, 〇〇. Cuối cùng điểm 3, 〇〇.*
+>  *Sẽ triển khai 〇 điểm ạ. Đầu tiên điểm 1, 〇〇. Tiếp theo điểm 2, 〇〇. Cuối cùng điểm 3, 〇〇.*
 >
 >  _3点 enumerate の標準形_
 
@@ -3552,7 +3552,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 >  _Customer case 数字提示テンプレ_
 
 
-### Rule 19 — Slide giá cả tactful / 価格スライドの作り方
+### Rule 19 — Slide giá cả khéo léo / 価格スライドの作り方
 
 **ズン (em Dũng):**
 
@@ -3596,7 +3596,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 ## Phần IV — Tình huống khó
 
-### Rule 22 — Mời Q&A trang trọng / Q&A導入
+### Rule 22 — Mời hỏi đáp trang trọng / Q&A導入
 
 **ズン (em Dũng):**
 
@@ -3672,7 +3672,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 >  _選択肢提示 flip control_
 
 
-### Rule 26 — Closing với CTA / クロージング＋CTA
+### Rule 26 — Phần kết với CTA / クロージング＋CTA
 
 **ズン (em Dũng):**
 
@@ -3691,18 +3691,18 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 >  _CTA numbered 標準_
 
 
-### Rule 27 — Thank-you slide / 謝辞スライド
+### Rule 27 — Slide cảm ơn / 謝辞スライド
 
 **ズン (em Dũng):**
 
 >  「謝辞スライドは4要素 (御礼・Recap・連絡先・QR) で構成いたしました。」
 >
->  *Slide cảm ơn em làm theo 4 thành phần (cảm ơn, tóm tắt, liên hệ, QR) ạ.*
+>  *Slide cảm ơn em làm theo 4 thành phần (cảm ơn, tóm tắt, liên lạc, QR) ạ.*
 >
 >  _謝辞スライド構成説明_
 
 
-### Rule 28 — Post-pitch follow-up email / 事後フォローメール
+### Rule 28 — Mail theo dõi sau thuyết trình / 事後フォローメール
 
 **ズン (em Dũng):**
 
@@ -3762,7 +3762,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 >  _室内質問の復唱パターン_
 
 
-### Rule 31 — Xử lý sự cố kỹ thuật / 技術トラブル復旧
+### Rule 31 — Khôi phục sự cố kỹ thuật / 技術トラブル復旧
 
 **ズン (em Dũng):**
 
@@ -3814,7 +3814,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 >  「Drive 閲覧専用リンク、Email 限定 access、〇日後 自動 expire です。」
 >
->  *Link Drive chỉ-xem, giới hạn email, tự động hết hạn sau 〇 ngày ạ.*
+>  *Liên kết Drive chỉ-xem, giới hạn email, tự động hết hạn sau 〇 ngày ạ.*
 >
 >  _Giải thích khung chia sẻ giới hạn_
 
@@ -4137,16 +4137,16 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 # Phụ lục C — BJT Practice Tổng Hợp / BJT練習問題集
 
-*Tổng hợp tất cả BJT practice questions từ 60 rules, sắp xếp theo level và skill.*
+*Tổng hợp tất cả câu luyện thi BJT từ 60 rules, sắp xếp theo cấp và kỹ năng.*
 
-*Dùng để luyện thi BJT tiếng Nhật công việc — câu hỏi có audio prompt được link đến rule gốc.*
+*Dùng để luyện thi BJT tiếng Nhật công việc — câu hỏi có âm thanh gợi ý được liên kết đến rule gốc.*
 
 ---
 
 
 ## Level J3 (31 câu)
 
-### J3.1 (từ rule_01 — Checklist 7 câu hỏi trước khi soạn)
+### J3.1 (từ rule_01 — Danh sách 7 câu hỏi trước khi soạn)
 
 **Skill:** 場面把握
 
@@ -4197,7 +4197,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 - S=現状、C=変化(問題)、Q=問い、A=答え(提案)。Aは最後に置く。
 - S=hiện trạng, C=vấn đề, Q=câu hỏi, A=đáp án (đề xuất). A đặt cuối.
 
-### J3.4 (từ rule_04 — Phân cấp thị giác & font)
+### J3.4 (từ rule_04 — Phân cấp thị giác & phông chữ)
 
 **Skill:** 場面把握
 
@@ -4212,7 +4212,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 **Giải thích / 解説:**
 - 本文は20pt以上が原則。後列でも読めるか実機テスト推奨。
-- Phần thân tối thiểu 20pt. Phải kiểm tra thực tế trên projector từ hàng cuối.
+- Phần thân tối thiểu 20pt. Phải kiểm tra thực tế trên máy chiếu từ hàng cuối.
 
 ### J3.5 (từ rule_05 — Tâm lý màu sắc trong Tiếng Nhật công việc)
 
@@ -4263,7 +4263,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 **Giải thích / 解説:**
 - クラウドのみは Wi-Fi 落ちたら詰む。USB+ローカル+クラウドの3層が原則。
-- Chỉ cloud thì Wi-Fi rớt là chết. Phải 3 lớp: USB + máy tính + cloud.
+- Chỉ lưu đám mây thì Wi-Fi rớt là chết. Phải 3 lớp: USB + máy tính + đám mây.
 
 ### J3.8 (từ rule_08 — Câu mở đầu thu hút 30 giây)
 
@@ -4382,7 +4382,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 **Giải thích / 解説:**
 - N点宣言→まず／次に／最後にの3層マーカーが論理を明確にする。
-- Cấu trúc 3 lớp 「nêu N điểm → đầu tiên / tiếp theo / cuối cùng」 làm rõ mạch logic.
+- Cấu trúc 3 lớp 「nêu N điểm → đầu tiên / tiếp theo / cuối cùng」 làm rõ mạch lập luận.
 
 ### J3.15 (từ rule_15 — Trình bày dữ liệu)
 
@@ -4416,7 +4416,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 **Giải thích / 解説:**
 - Setup→Journey→Key→Recap が3-4分で痛み解消を可視化する。Tour 型は engineer mindset。
-- Thiết lập→Hành trình→Điểm chốt→Tóm tắt trong 3-4 phút để trực quan hoá giải quyết vấn đề. Kiểu tour = tư duy kỹ thuật viên.
+- Thiết lập→Hành trình→Điểm chốt→Tóm tắt trong 3-4 phút để trực quan hoá giải quyết vấn đề. Kiểu đi một vòng = tư duy kỹ thuật viên.
 
 ### J3.17 (từ rule_17 — So sánh phương án (bảng so sánh))
 
@@ -4450,7 +4450,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 **Giải thích / 解説:**
 - 実名＋数字＋氏名付き引用が信頼の3点セット。匿名事例は marketing fluff。
-- Tên thật + số + trích dẫn có tên người = bộ 3 tin cậy. Ví dụ ẩn danh = nội dung quảng cáo rỗng.
+- Tên thật + số + trích dẫn có tên người = bộ 3 tin cậy. Ví dụ ẩn danh = nội dung marketing rỗng.
 
 ### J3.19 (từ rule_20 — Rủi ro & biện pháp đối phó)
 
@@ -4486,7 +4486,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 - Gantt visualization + milestone 3点 (日付/成果物/owner) + buffer 明示 が標準。TBD と single owner は信頼を下げる。
 - Trực quan hoá Gantt + 3 điểm mốc (ngày / đầu ra / người phụ trách) + vùng đệm rõ là chuẩn. TBD + chỉ 1 người phụ trách làm giảm tin cậy.
 
-### J3.21 (từ rule_22 — Mời Q&A formal)
+### J3.21 (từ rule_22 — Mời hỏi đáp trang trọng)
 
 **Skill:** 表現読解
 
@@ -4520,7 +4520,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 - 持ち帰りには ① deadline 具体 ② 確認者 ③ 回答 format の3要素必須。「たぶん」は推測で危険、「わかりません」は cộc、「後で」は vague。
 - Mang về cần 3 yếu tố: ① hạn chót cụ thể ② người xác nhận ③ hình thức phản hồi. 「たぶん」 nguy hiểm vì mang tính đoán mò, 「わかりません」 cộc, 「後で」 mơ hồ.
 
-### J3.23 (từ rule_26 — Closing với CTA)
+### J3.23 (từ rule_26 — Phần kết với CTA)
 
 **Skill:** 場面把握
 
@@ -4537,7 +4537,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 - Recap 3点で記憶定着、CTA で次の動きを明確化、次回会議その場確定で followup を最小化。
 - Tóm tắt 3 điểm = giúp nhớ ý chính. Kêu gọi hành động = rõ bước tiếp. Chốt lịch tại chỗ = giảm mail theo dõi qua lại.
 
-### J3.24 (từ rule_27 — Thank-you slide)
+### J3.24 (từ rule_27 — Slide cảm ơn)
 
 **Skill:** 場面把握
 
@@ -4552,7 +4552,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 **Giải thích / 解説:**
 - 退室時 5-10 分映る slide。御礼+Recap+連絡先+QR の4要素で reinforcement と follow-up を促す。
-- Slide chiếu 5-10 phút lúc khách rời. 4 thành phần: cảm ơn + tóm tắt + liên hệ + QR để củng cố và thúc đẩy theo dõi sau.
+- Slide chiếu 5-10 phút lúc khách rời. 4 thành phần: cảm ơn + tóm tắt + liên lạc + QR để củng cố và thúc đẩy theo dõi sau.
 
 ### J3.25 (từ rule_28 — Mail theo dõi sau buổi thuyết trình)
 
@@ -4569,7 +4569,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 **Giải thích / 解説:**
 - 客は当日中に社内シェアするので、24h以内の acknowledgment が必須。詳細は翌営業日で OK。
-- Khách chia sẻ nội bộ trong ngày, nên xác nhận đã nhận trong 24h là bắt buộc. Bản chi tiết sang ngày làm việc kế tiếp là ổn.
+- Khách chia sẻ nội bộ trong ngày, nên xác nhận trong 24h là bắt buộc. Bản chi tiết sang ngày làm việc kế tiếp là ổn.
 
 ### J3.26 (từ rule_29 — Thuyết trình trực tuyến)
 
@@ -4586,7 +4586,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 **Giải thích / 解説:**
 - 5要素全揃いで professional 印象を確保。Chat は co-presenter にモデレートさせるのが standard。
-- Đủ 5 yếu tố mới giữ được hình ảnh chuyên nghiệp. Chat để người đồng trình bày điều phối là chuẩn.
+- Đủ 5 yếu tố mới giữ được hình ảnh chuyên nghiệp. Nhắn tin để người đồng trình bày điều phối là chuẩn.
 
 ### J3.27 (từ rule_30 — Thuyết trình kết hợp)
 
@@ -4654,7 +4654,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 **Giải thích / 解説:**
 - Quantitative + qualitative + actionable。3+3 で negative spiral 防止、deadline 付き drill で実装。
-- Định lượng + định tính + có thể thực thi. Công thức 3+3 chống vòng xoáy tiêu cực, luyện tập có hạn chót để triển khai.
+- Định lượng + định tính + có thể thực thi. Công thức 3+3 chống vòng xoáy tiêu cực, luyện tập có hạn chót để thực hiện.
 
 ### J3.31 (từ rule_35 — Chu kỳ cải thiện)
 
@@ -4676,7 +4676,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 ## Level J2 (4 câu)
 
-### J2.1 (từ rule_19 — Slide giá cả tactful)
+### J2.1 (từ rule_19 — Slide giá cả khéo léo)
 
 **Skill:** 表現読解
 
@@ -4691,7 +4691,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 **Giải thích / 解説:**
 - 「高い」反論には ALWAYS 3点理由で答える。1点は薄い、5点は希薄化、3点が説得力の sweet spot。
-- Phản biện 「高い」 LUÔN trả 3 điểm. 1 điểm quá mỏng, 5 điểm quá loãng, 3 điểm là mức thuyết phục tối ưu nhất.
+- Phản biện 「高い」 LUÔN trả 3 điểm. 1 điểm quá mỏng, 5 điểm quá loãng, 3 điểm là mức thuyết phục tối ưu.
 
 ### J2.2 (từ rule_23 — Trả lời câu hỏi khó — LASR)
 
@@ -4710,7 +4710,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 - LASR の A ステップ。Reframe + confirm で誤解を防ぐ。これを飛ばすと的外れの回答になりがち。
 - Bước A của LASR. Diễn giải lại + xác nhận để tránh hiểu sai. Bỏ bước này thường trả lời lệch ý.
 
-### J2.3 (từ rule_25 — Đối phó câu hostile)
+### J2.3 (từ rule_25 — Đối phó câu hỏi gay gắt)
 
 **Skill:** 表現読解
 
@@ -4727,7 +4727,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 - Bridge phrase で感情を中和 → 懸念に reframe してから内容に入る。直接否定や反論は escalate を招く。
 - Câu dẫn hướng trung hoà cảm xúc → chuyển sang mối lo ngại rồi mới vào nội dung. Phủ nhận trực tiếp / phản biện = leo thang căng thẳng.
 
-### J2.4 (từ rule_31 — Tech failure recovery)
+### J2.4 (từ rule_31 — Xử lý sự cố kỹ thuật)
 
 **Skill:** 発言聴解
 
@@ -4742,7 +4742,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 **Giải thích / 解説:**
 - Panic 表情は『本番障害も同じ』と暗示。Acknowledge → Switch → Entertain で control under pressure を示す。
-- Mặt hoảng loạn = ám chỉ 「sự cố vận hành thật cũng vậy」. Thừa nhận → Chuyển Plan B → Tiếp tục bằng lời thể hiện sự vững vàng trước áp lực.
+- Mặt hoảng loạn = ám chỉ 「sự cố vận hành thật cũng vậy」. Thừa nhận → Chuyển sang Plan B → Tiếp tục bằng lời thể hiện sự vững vàng trước áp lực.
 
 
 **Tổng số câu hỏi:** 35
@@ -4755,12 +4755,12 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 
 # Phụ lục D — Template Tổng Hợp / テンプレート集
 
-*Tổng hợp các mẫu (chương trình, biên bản, mail) đính kèm trong các rules. Copy-paste để dùng.*
+*Tổng hợp các mẫu (chương trình, biên bản, mail) đính kèm trong các rules. Sao chép để dùng.*
 
 ---
 
 
-## Email follow-up (1 mẫu)
+## Email theo dõi (1 mẫu)
 
 ### Rule 28 — Mail theo dõi sau buổi thuyết trình (bản chi tiết)
 
@@ -4810,7 +4810,7 @@ EMAIL: zun@tienphat.vn
 --------------------
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
 Subject: 【Cảm ơn】Vấn đề đề xuất Phase 3 (Thiên Phát — Dũng)
@@ -4837,8 +4837,8 @@ Hôm nay quý vị bận rộn vẫn dành thời gian cho buổi đề xuất P
 ③ Trước 15/5: sign-off hợp đồng (qua pháp chế hai bên)
 
 [Tài liệu đính kèm]
-- Slide hôm nay (PDF) — link Drive read-only [URL]
-- Memo họp (PDF) — cùng link
+- Slide hôm nay (PDF) — liên kết Drive chỉ-xem [URL]
+- Memo họp (PDF) — cùng liên kết
 
 [Vấn đề mang về xem xét]
 - Tích hợp SOAP→REST + chi tiết flow OAuth 2.0
@@ -4856,13 +4856,13 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
 --------------------
 ```
 
- **Ghi chú VN:** Thời điểm gửi: Trong ngày thuyết trình — xác nhận ngắn (link slide + hạn chót 持ち帰り) → sáng ngày làm việc kế tiếp gửi mẫu này. Bản chi tiết thứ Hai nhớ CC CTO + trưởng nhóm kỹ thuật + phó phòng.
+ **Ghi chú VN:** Thời điểm gửi: Trong ngày thuyết trình — xác nhận ngắn (liên kết slide + hạn chót 持ち帰り) → sáng ngày làm việc kế tiếp gửi mẫu này. Bản chi tiết thứ Hai nhớ CC CTO + trưởng nhóm kỹ thuật + phó phòng.
  **Ghi chú JP:** 送付タイミング: ピッチ当日中に short ack (slide link + 持ち帰り deadline) → 翌営業日朝に本テンプレ送付。月曜詳細版には CTO+技術リード+副部長を CC。
 
 
-## Checklist (4 mẫu)
+## Danh sách kiểm tra (4 mẫu)
 
-### Rule 01 — Checklist Chuẩn Bị Thuyết Trình (7 câu)
+### Rule 01 — Danh sách kiểm tra Chuẩn Bị Thuyết Trình (7 câu)
 
 *JP: プレゼン準備チェックリスト(7問)*
 
@@ -4905,10 +4905,10 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
    - インターネット: モバイルテザリング
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
-[Checklist Chuẩn Bị Thuyết Trình]
+[Danh sách kiểm tra Chuẩn Bị Thuyết Trình]
 
 ① CHO AI? (Khán giả)
    - Đối tượng chính: ____ (chức vụ / cty / quan hệ)
@@ -4927,7 +4927,7 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
 
 ④ ĐỊA ĐIỂM
    - Trực tiếp / trực tuyến / kết hợp
-   - Thiết bị: PC / projector / mic
+   - Thiết bị: PC / máy chiếu / mic
    - Test kết nối: ____ (thời gian)
 
 ⑤ KẾT QUẢ MONG ĐỢI
@@ -4941,7 +4941,7 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
    - Rủi ro 3: ____ → đối sách: ____
 
 ⑦ DỰ PHÒNG (Plan B)
-   - Slide: PDF dự phòng USB + cloud
+   - Slide: PDF dự phòng USB + đám mây
    - Demo: phiên bản offline
    - Internet: chia sẻ mạng 4G/5G
 ```
@@ -4949,7 +4949,7 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
  **Ghi chú VN:** Bắt buộc điền trước khi mở PowerPoint. Cấp trên duyệt rồi mới bắt đầu thiết kế. Bỏ ra 5-10 phút để tránh làm lại nửa ngày.
  **Ghi chú JP:** PowerPoint を開く前に必ず埋める。Senior レビュー後 → 設計開始。5-10分の投資で半日のやり直しを防ぐ。
 
-### Rule 04 — Checklist Visual Hierarchy
+### Rule 04 — Danh sách kiểm tra Phân cấp thị giác
 
 *JP: 視覚階層チェックリスト*
 
@@ -4983,36 +4983,36 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
 □ 画面共有確認: オンライン参加者の画面でテスト
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
-[Checklist Visual Hierarchy]
+[Danh sách kiểm tra Phân cấp thị giác]
 
-[Font size]
-- Title 32-40pt (Bold)
-- Sub-message 24-28pt
-- Body (Bullet / luận cứ) 20-24pt
-- Chart label tối thiểu 18pt (NG: dưới 14pt)
-- Footer / page number 12-14pt
+[Cỡ chữ]
+- Tiêu đề 32-40pt (Bold)
+- Tiêu đề phụ 24-28pt
+- Thân (Bullet / luận cứ) 20-24pt
+- Nhãn biểu đồ tối thiểu 18pt (NG: dưới 14pt)
+- Footer / số trang 12-14pt
 
-[Font]
+[Phông chữ]
 - Thống nhất: Meiryo / Yu Gothic / Noto Sans JP
 - CẤM MS Mincho / MS Gothic (cũ + bị mờ)
-- Font Latin: Arial / Helvetica / Segoe UI
+- Phông chữ Latin: Arial / Helvetica / Segoe UI
 
-[Layout]
-- Alignment căn trái (chỉ heading dùng center)
-- Line spacing 1.3-1.5
-- Margin trên dưới trái phải tối thiểu 5%
+[Bố cục]
+- Căn trái (chỉ tiêu đề dùng căn giữa)
+- Giãn dòng 1.3-1.5
+- Lề trên dưới trái phải tối thiểu 5%
 
-[Contrast & color]
-- Contrast ratio chữ vs nền >= 4.5:1
+[Độ tương phản & màu sắc]
+- Tỉ lệ tương phản chữ vs nền >= 4.5:1
 - Nền trắng hoặc xám nhạt (#F5F5F5)
-- Bold tối đa 3 chỗ / slide
+- In đậm tối đa 3 chỗ / slide
 
-[Test thực tế]
-- Test projector: đọc được từ hàng cuối
-- Test chia sẻ màn hình: kiểm tra trên màn của người tham dự trực tuyến
+[Kiểm tra thực tế]
+- Kiểm tra máy chiếu: đọc được từ hàng cuối
+- Kiểm tra chia sẻ màn hình: xem trên màn của người tham dự trực tuyến
 ```
 
  **Ghi chú VN:** Bắt buộc kiểm tra thực tế trước khi tập dượt. Đọc không được ở hàng cuối / chia sẻ màn hình = FAIL.
@@ -5064,31 +5064,31 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
 □ Q&A appendix スライド再確認
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
-[Checklist Plan B Pitch] (24h trước + sáng ngày pitch)
+[Danh sách kiểm tra Plan B Pitch] (24h trước + sáng ngày pitch)
 
 [Slide]
-- File gốc PowerPoint/Keynote: cloud + local
-- Bản PDF: USB×2 + local + cloud
-- Google Slides Web backup
+- File gốc PowerPoint/Keynote: đám mây + máy tính
+- Bản PDF: USB×2 + máy tính + đám mây
+- Google Slides Web dự phòng
 - Bản in: chỉ slide chính 5-10 bản
 
 [Demo]
 - Demo offline (local DB / mock data)
-- Demo bản ghi hình (.mp4 USB+local) — cuối cùng của cuối cùng
-- Test account demo: kiểm tra chạy được
+- Demo bản ghi hình (.mp4 USB+máy tính) — cuối cùng của cuối cùng
+- Tài khoản demo: kiểm tra chạy được
 
-[Network]
+[Mạng]
 - Tethering 4G/5G bật sẵn
 - Pocket Wi-Fi sạc đầy (dự phòng)
-- Bật offline priority mode
+- Bật chế độ ưu tiên offline
 
 [Thiết bị]
 - Cáp HDMI
 - Adapter USB-C → HDMI / VGA
-- Lightning → HDMI (iPad backup)
+- Lightning → HDMI (iPad dự phòng)
 - Sạc + dây nối dài
 - Laser pointer (pin dự phòng)
 
@@ -5097,15 +5097,15 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
 - In slide chính 5 bản
 - Brochure / case study 5 bản
 
-[Redundancy team]
-- Co-presenter cũng giữ 1 USB
+[Dự phòng nhóm]
+- Người đồng trình bày cũng giữ 1 USB
 - Gửi PDF bộ slide qua Slack cho nhau
-- Note liên hệ phòng hờ (khách sạn / hãng taxi)
+- Ghi chú liên hệ phòng hờ (khách sạn / hãng taxi)
 
-[Sáng ngày pitch — final]
-- Test connect đủ thiết bị
-- Test audio / screen share
-- Re-check appendix slide cho Q&A
+[Sáng ngày pitch — chốt cuối]
+- Kiểm tra kết nối đủ thiết bị
+- Kiểm tra âm thanh / chia sẻ màn hình
+- Kiểm tra lại slide phụ lục cho Q&A
 ```
 
  **Ghi chú VN:** Kiểm tra 2 lần: 24h trước + sáng ngày. Tất cả 5 điểm  thì mới lên đường. Còn sót 1 điểm thì mang theo xử lý sau.
@@ -5157,22 +5157,22 @@ Giờ làm việc: 9:00-18:00 (JST / T2-T6)
 - ____
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
-[Checklist Tự Đánh Giá Thuyết Trình] (12 mục / 30 phút)
+[Danh sách kiểm tra Tự Đánh Giá Thuyết Trình] (12 mục / 30 phút)
 
 Thang điểm: 1=cần cải thiện / 2=chưa đủ / 3=trung bình / 4=tốt / 5=xuất sắc
 
 [Chuẩn bị] — 3 mục
-- 1. Đã điền checklist 7 câu chưa (rule 01)                _/5
+- 1. Đã điền danh sách kiểm tra 7 câu chưa (rule 01)      _/5
 - 2. Có giữ 1-slide-1-message không (rule 02)              _/5
 - 3. Có Plan B (PDF/tài liệu phát tay/hotspot) chưa (rule 07) _/5
 
 [Trình bày] — 4 mục
 - 4. Mở đầu 30 giây có lấy được sự chú ý không (rule 08)  _/5
 - 5. Có giữ đúng hẹn thời gian không (rule 13)            _/5
-- 6. Có dùng từ đánh dấu logic không (rule 14)            _/5
+- 6. Có dùng từ đánh dấu mạch lập luận không (rule 14)    _/5
 - 7. Giao tiếp bằng mắt đều không (rule 30 - 50/50)       _/5
 
 [Q&A] — 3 mục
@@ -5181,7 +5181,7 @@ Thang điểm: 1=cần cải thiện / 2=chưa đủ / 3=trung bình / 4=tốt /
 - 10. Câu dẫn hướng với câu hỏi đối nghịch (rule 25)     _/5
 
 [Kết thúc + Theo dõi] — 2 mục
-- 11. Recap 3 + CTA 3 (rule 26)                          _/5
+- 11. Tóm tắt 3 + CTA 3 (rule 26)                       _/5
 - 12. Mail xác nhận trong 24h (rule 28)                  _/5
 
 ----------------------------
@@ -5244,10 +5244,10 @@ Tổng: __/60     Trung bình: __/5
 - 移行失敗時: 旧環境 parallel 3ヶ月
 ```
 
-**Bản Việt placeholder:**
+**Bản Việt (chỗ điền):**
 
 ```
-[Roadmap dự án] (Phase X)
+[Lộ trình dự án] (Phase X)
 
 [Tóm tắt Gantt]
                     5월  6월  7월  8월  9월  10월 11월 12월
@@ -5279,7 +5279,7 @@ Tổng: __/60     Trung bình: __/5
 - Migrate fail: chạy song song env cũ 3 tháng
 ```
 
- **Ghi chú VN:** Gantt vẽ đậm để projector đọc được. Mốc 5±2 cái. Vùng đệm 5-10% lịch thực. Điều kiện tiên quyết phải đưa vào hợp đồng.
+ **Ghi chú VN:** Gantt vẽ đậm để máy chiếu đọc được. Mốc 5±2 cái. Vùng đệm 5-10% lịch thực. Điều kiện tiên quyết phải đưa vào hợp đồng.
  **Ghi chú JP:** Gantt は projector でも判読できるよう太め。Milestone 5±2 個。Buffer は実工期の 5-10%。前提条件は契約書にも反映。
 
 

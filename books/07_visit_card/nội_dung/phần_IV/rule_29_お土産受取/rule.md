@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Sáng hôm sau, PM Matsumoto bên 白鷗 sang văn phòng HCMC mang theo yokan Toraya (Tokyo) làm quà. Bên nhận: chị Hương phó phòng + Dũng + Linh. Linh là junior, đây là lần đầu được học cách nhận đúng.
+Sáng hôm sau, PM Matsumoto bên 白鷗 sang văn phòng HCMC mang theo yokan Toraya (Tokyo) làm quà. Bên nhận: chị Hương phó phòng + Dũng + Linh. Linh là nhân viên mới, đây là lần đầu được học cách nhận đúng.
 
 ---
 
@@ -58,7 +58,7 @@ Sáng hôm sau, PM Matsumoto bên 白鷗 sang văn phòng HCMC mang theo yokan T
 ## Tránh
 
 - Mở quà tại chỗ — tín hiệu "quan tâm vật chất"
-- Hỏi giá / nơi mua — taboo cấp cao nhất
+- Hỏi giá / nơi mua — điều cấm kỵ cấp cao nhất
 - Bình luận chất lượng "trông ngon quá" tại bàn — nông
 - Nhận 1 tay / để dưới chân / để bừa lên bàn — thất lễ
 - Quên gửi thư cảm ơn trong 24h — mất bước liên lạc tiếp

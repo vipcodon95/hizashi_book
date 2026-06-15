@@ -4,7 +4,7 @@
 >
 > 改善サイクルは Rehearse → Pilot → Live → Retro の4ステップ。Linh の初 pitch を題材にグループ retro。
 >
-> **Liên quan:** rule 34 (self-review). Sách 04 rule 35 (chu kỳ cải thiện).
+> **Liên quan:** rule 34 (tự đánh giá). Sách 04 rule 35 (chu kỳ cải thiện).
 
 ---
 

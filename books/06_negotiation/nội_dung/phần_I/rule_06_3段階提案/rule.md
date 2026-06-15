@@ -1,6 +1,6 @@
-# Rule 06 — 3-tier proposal: Good / Better / Best / 3段階提案
+# Rule 06 — Đề xuất 3 bậc: Good / Better / Best / 3段階提案
 
-> **Luận điểm.** Đưa **1 giá duy nhất** = khách bị bắt có/không. Đưa **3 bậc (Cơ bản / Tiêu chuẩn / Cao cấp)** = khách so sánh nội bộ → kiến trúc lựa chọn nghiêng về bậc giữa (hiệu ứng mồi / decoy effect). 95% khách Nhật sẽ chọn bậc giữa nếu cấu trúc đúng.
+> **Luận điểm.** Đưa **1 giá duy nhất** = khách bị bắt có/không. Đưa **3 bậc (Cơ bản / Tiêu chuẩn / Cao cấp)** = khách so sánh nội bộ → kiến trúc lựa chọn nghiêng về bậc giữa (hiệu ứng mồi nhử). 95% khách Nhật sẽ chọn bậc giữa nếu cấu trúc đúng.
 >
 > 1価格提示は yes/no を迫る。3段階提案 (Good/Better/Best) は社内比較を促し、**中間案 (Better) が選ばれる確率を高める**。Phase 3 のような戦略案件は必ず 3 段階で出す。
 >
@@ -14,7 +14,7 @@ Họp với Hà CTO + Hương + Tuấn xong, Dũng cần soạn bản đề xu�
 
 ---
 
-## Hội thoại XẤU — 1 tier duy nhất
+## Hội thoại XẤU — 1 bậc duy nhất
 
 | Vai | Câu |
 |---------|-----|
@@ -27,7 +27,7 @@ Họp với Hà CTO + Hương + Tuấn xong, Dũng cần soạn bản đề xu�
 
 ---
 
-## Hội thoại TỐT — 3-tier deck với Better làm trung tâm
+## Hội thoại TỐT — bộ slide 3 bậc với Better làm trung tâm
 
 | Vai | Câu |
 |---------|-----|

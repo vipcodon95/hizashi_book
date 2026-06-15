@@ -1,4 +1,4 @@
-# Rule 07 — Pre-meeting alignment nội bộ / 事前社内すり合わせ
+# Rule 07 — Thống nhất nội bộ trước đàm phán / 事前社内すり合わせ
 
 > **Luận điểm.** Trước khi đối diện khách, **đội nội bộ phải thống nhất 100%**: ai nói gì, ai im khi nào, điểm rút lui được duyệt, chuỗi bậc nhượng bộ thống nhất. Khách Nhật phát hiện mâu thuẫn nội bộ trong 5 phút → lợi thế để chia rẽ.
 >
@@ -14,43 +14,43 @@ Sáng đàm phán Phase 3 lúc 9:00, đàm phán 14:00 với 大垣 + 中村 CFO
 
 ---
 
-## Hội thoại XẤU — không align trước, mâu thuẫn trong phòng
+## Hội thoại XẤU — không thống nhất trước, mâu thuẫn trong phòng
 
-| | Vai | Câu (đàm phán cùng khách) |
-|--|---------|-----|
-| **L1** | **大垣** | 「¥18M は<ruby>高<rt>たか</rt></ruby>いですね。¥15M でいかがでしょう？」 |
-|  |  | *¥18M cao quá. ¥15M thì sao nhỉ?* |
-| **L2** | **ズン** | 「¥15M ですか…ちょっと<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り…」 |
-|  |  | *¥15M ạ... em xin phép mang về xem xét...* |
-| **L3** | **トゥアン** *(口を挟む)* | 「¥16M なら<ruby>出<rt>だ</rt></ruby>せますよ、scope <ruby>削<rt>けず</rt></ruby>れば。」 |
-|  |  | *¥16M là được đó, cắt bớt phạm vi đi.* |
-| **L4** | **大垣** *(微笑)* | 「あ、トゥアンさんは ¥16M でいけるんですね。じゃあそれでお<ruby>願<rt>ねが</rt></ruby>いします。」 |
-|  |  | *À, anh Tuấn nói ¥16M được. Vậy chốt như vậy nhé.* |
-| **L5** | **ズン** *(顔色変)* | 「いえ、ちょっと…<ruby>社内<rt>しゃない</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>を…」 |
-|  |  | *Dạ không, em xin phép... xác nhận nội bộ...* |
+| Vai | Câu (đàm phán cùng khách) |
+|---------|-----|
+| **大垣** | 「¥18M は<ruby>高<rt>たか</rt></ruby>いですね。¥15M でいかがでしょう？」 |
+|  | *¥18M cao quá. ¥15M thì sao nhỉ?* |
+| **ズン** | 「¥15M ですか…ちょっと<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り…」 |
+|  | *¥15M ạ... em xin phép mang về xem xét...* |
+| **トゥアン** *(口を挟む)* | 「¥16M なら<ruby>出<rt>だ</rt></ruby>せますよ、scope <ruby>削<rt>けず</rt></ruby>れば。」 |
+|  | *¥16M là được đó, cắt bớt phạm vi đi.* |
+| **大垣** *(微笑)* | 「あ、トゥアンさんは ¥16M でいけるんですね。じゃあそれでお<ruby>願<rt>ねが</rt></ruby>いします。」 |
+|  | *À, anh Tuấn nói ¥16M được. Vậy chốt như vậy nhé.* |
+| **ズン** *(顔色変)* | 「いえ、ちょっと…<ruby>社内<rt>しゃない</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>を…」 |
+|  | *Dạ không, em xin phép... xác nhận nội bộ...* |
 
 **Vì sao xấu:** Tuấn không biết điểm rút lui ¥15M, không biết chuỗi bậc nhượng bộ. Tự ý báo giá ¥16M trong phòng → 大垣 chốt ngay. Dũng mất kiểm soát. Phải thống nhất trước: **Tuấn KHÔNG được báo giá**, chỉ Dũng báo giá, Tuấn trả lời phần kỹ thuật.
 
 ---
 
-## Hội thoại TỐT — pre-meeting alignment 60 phút
+## Hội thoại TỐT — họp thống nhất nội bộ 60 phút
 
-| | Vai | Câu (họp nội bộ 9:00) |
-|--|---------|-----|
-| **L1** | **フオン** | 「14:00 <ruby>商談<rt>しょうだん</rt></ruby>、<ruby>最終<rt>さいしゅう</rt></ruby>すり<ruby>合<rt>あ</rt></ruby>わせ。**<ruby>役割確認<rt>やくわりかくにん</rt></ruby>**【1】: ズン<ruby>主導<rt>しゅどう</rt></ruby> + <ruby>価格発言担当<rt>かかくはつげんたんとう</rt></ruby>、トゥアンさん<ruby>技術質問<rt>ぎじゅつしつもん</rt></ruby>のみ、ハー CTO は escalation <ruby>必要時<rt>ひつようじ</rt></ruby>のみ<ruby>発言<rt>はつげん</rt></ruby>。」 |
-|  |  | *Đàm phán 14:00, align cuối. Vai trò: Dũng dẫn + phụ trách phát ngôn về giá, anh Tuấn chỉ trả lời phần kỹ thuật, anh Hà CTO chỉ phát biểu khi cần escalation.* |
-| **L2** | **ハー CTO** | 「<ruby>価格発言<rt>かかくはつげん</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>がしてもいけない。ズン<ruby>以外<rt>いがい</rt></ruby>は『<ruby>社内確認<rt>しゃないかくにん</rt></ruby>させてください』で<ruby>受<rt>う</rt></ruby>ける。」 |
-|  |  | *Trừ Dũng, không ai được phát ngôn về giá. Mọi người khác chỉ nói 'cho phép em xác nhận nội bộ'.* |
-| **L3** | **ズン** | 「<ruby>了解<rt>りょうかい</rt></ruby>です。**<ruby>譲歩順序<rt>じょうほじゅんじょ</rt></ruby>**【2】も<ruby>再確認<rt>さいかくにん</rt></ruby>:【ステップ1】¥19M anchor → <ruby>反応見<rt>はんのうみ</rt></ruby>る、【ステップ2】¥18M target、【ステップ3】¥17M with scope -10%、【ステップ4】¥16M with scope -20% + extra trade、**¥15M <ruby>以下<rt>いか</rt></ruby>は<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り、その<ruby>場<rt>ば</rt></ruby>で yes <ruby>言<rt>い</rt></ruby>わない**。」 |
-|  |  | *Em rõ. Em xác nhận lại thứ tự nhượng bộ: Bước 1 neo giá ¥19M, Bước 2 mục tiêu ¥18M, Bước 3 ¥17M kèm phạm vi -10%, Bước 4 ¥16M kèm phạm vi -20% + trao đổi thêm, dưới ¥15M là mang về xem xét, không nói có tại chỗ.* |
-| **L4** | **フオン** | 「¥15M <ruby>以下出<rt>いかで</rt></ruby>てきたら、ハー CTO に<ruby>振<rt>ふ</rt></ruby>る。『<ruby>弊社<rt>へいしゃ</rt></ruby> CTO に<ruby>確認<rt>かくにん</rt></ruby>させてください』で<ruby>時間取<rt>じかんと</rt></ruby>る【3】。」 |
-|  |  | *Nếu khách đẩy dưới ¥15M, đẩy sang anh Hà CTO. Dùng câu 'cho phép em xác nhận với CTO bên em' để mua thời gian.* |
-| **L5** | **トゥアン** | 「<ruby>私<rt>わたし</rt></ruby>は<ruby>技術以外<rt>ぎじゅついがい</rt></ruby>、<ruby>絶対黙<rt>ぜったいだま</rt></ruby>ります。」 |
-|  |  | *Ngoài phần kỹ thuật, em im hoàn toàn.* |
-| **L6** | **ズン** | 「<ruby>最後<rt>さいご</rt></ruby>、**<ruby>沈黙<rt>ちんもく</rt></ruby>の<ruby>合図<rt>あいず</rt></ruby>**【4】: <ruby>私<rt>わたし</rt></ruby>が<ruby>右手<rt>みぎて</rt></ruby>を<ruby>膝<rt>ひざ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いたら<ruby>全員黙<rt>ぜんいんだま</rt></ruby>って 7 <ruby>秒待<rt>びょうま</rt></ruby>つ。OK?」 |
-|  |  | *Cuối cùng, tín hiệu im lặng: em đặt tay phải lên đùi là mọi người im 7 giây. OK?* |
-| **L7** | **全員** | 「OK。」 |
-|  |  | *OK.* |
+| Vai | Câu (họp nội bộ 9:00) |
+|---------|-----|
+| **フオン** | 「14:00 <ruby>商談<rt>しょうだん</rt></ruby>、<ruby>最終<rt>さいしゅう</rt></ruby>すり<ruby>合<rt>あ</rt></ruby>わせ。**<ruby>役割確認<rt>やくわりかくにん</rt></ruby>**【1】: ズン<ruby>主導<rt>しゅどう</rt></ruby> + <ruby>価格発言担当<rt>かかくはつげんたんとう</rt></ruby>、トゥアンさん<ruby>技術質問<rt>ぎじゅつしつもん</rt></ruby>のみ、ハー CTO は escalation <ruby>必要時<rt>ひつようじ</rt></ruby>のみ<ruby>発言<rt>はつげん</rt></ruby>。」 |
+|  | *Đàm phán 14:00, thống nhất cuối. Vai trò: Dũng dẫn + phụ trách phát ngôn về giá, anh Tuấn chỉ trả lời phần kỹ thuật, anh Hà CTO chỉ phát biểu khi cần báo cấp trên.* |
+| **ハー CTO** | 「<ruby>価格発言<rt>かかくはつげん</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>がしてもいけない。ズン<ruby>以外<rt>いがい</rt></ruby>は『<ruby>社内確認<rt>しゃないかくにん</rt></ruby>させてください』で<ruby>受<rt>う</rt></ruby>ける。」 |
+|  | *Trừ Dũng, không ai được phát ngôn về giá. Mọi người khác chỉ nói 'cho phép em xác nhận nội bộ'.* |
+| **ズン** | 「<ruby>了解<rt>りょうかい</rt></ruby>です。**<ruby>譲歩順序<rt>じょうほじゅんじょ</rt></ruby>**【2】も<ruby>再確認<rt>さいかくにん</rt></ruby>:【ステップ1】¥19M anchor → <ruby>反応見<rt>はんのうみ</rt></ruby>る、【ステップ2】¥18M target、【ステップ3】¥17M with scope -10%、【ステップ4】¥16M with scope -20% + extra trade、**¥15M <ruby>以下<rt>いか</rt></ruby>は<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り、その<ruby>場<rt>ば</rt></ruby>で yes <ruby>言<rt>い</rt></ruby>わない**。」 |
+|  | *Em rõ. Em xác nhận lại thứ tự nhượng bộ: Bước 1 neo giá ¥19M, Bước 2 mục tiêu ¥18M, Bước 3 ¥17M kèm phạm vi -10%, Bước 4 ¥16M kèm phạm vi -20% + trao đổi thêm, dưới ¥15M là mang về xem xét, không nói có tại chỗ.* |
+| **フオン** | 「¥15M <ruby>以下出<rt>いかで</rt></ruby>てきたら、ハー CTO に<ruby>振<rt>ふ</rt></ruby>る。『<ruby>弊社<rt>へいしゃ</rt></ruby> CTO に<ruby>確認<rt>かくにん</rt></ruby>させてください』で<ruby>時間取<rt>じかんと</rt></ruby>る【3】。」 |
+|  | *Nếu khách đẩy dưới ¥15M, đẩy sang anh Hà CTO. Dùng câu 'cho phép em xác nhận với CTO bên em' để mua thời gian.* |
+| **トゥアン** | 「<ruby>私<rt>わたし</rt></ruby>は<ruby>技術以外<rt>ぎじゅついがい</rt></ruby>、<ruby>絶対黙<rt>ぜったいだま</rt></ruby>ります。」 |
+|  | *Ngoài phần kỹ thuật, em im hoàn toàn.* |
+| **ズン** | 「<ruby>最後<rt>さいご</rt></ruby>、**<ruby>沈黙<rt>ちんもく</rt></ruby>の<ruby>合図<rt>あいず</rt></ruby>**【4】: <ruby>私<rt>わたし</rt></ruby>が<ruby>右手<rt>みぎて</rt></ruby>を<ruby>膝<rt>ひざ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いたら<ruby>全員黙<rt>ぜんいんだま</rt></ruby>って 7 <ruby>秒待<rt>びょうま</rt></ruby>つ。OK?」 |
+|  | *Cuối cùng, tín hiệu im lặng: em đặt tay phải lên đùi là mọi người im 7 giây. OK?* |
+| **全員** | 「OK。」 |
+|  | *OK.* |
 
  **Ghi chú:**
 - 【1】**役割確認** = ai nói gì + ai im khi nào. Tránh kiểu "ai cũng được nói" — đó là thảm họa.

@@ -1,4 +1,4 @@
-# Rule 05 — Định giá strategy / 価格戦略
+# Rule 05 — Chiến lược định giá / 価格戦略
 
 > **Luận điểm.** Có 3 cách đặt giá: **(1) Cộng chi phí** (原価+利益率) — an toàn nhưng tự định giá thấp, **(2) Theo giá trị** (giá trị khách nhận về) — cao nhất nhưng cần chứng minh ROI, **(3) Neo giá** (đặt cao trước, để khách kéo xuống). Chọn sai mô hình → hoặc bỏ tiền trên bàn, hoặc bị khách rút lui.
 >
@@ -18,9 +18,9 @@ Hà CTO + Hương + Dũng họp 30 phút quyết mô hình giá Phase 3. Tuấn 
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「<ruby>原価<rt>げんか</rt></ruby> ¥13M、<ruby>利益率<rt>りえきりつ</rt></ruby> 25% <ruby>上乗<rt>うわの</rt></ruby>せで ¥16.25M、<ruby>切<rt>き</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げ ¥16.5M で<ruby>出<rt>だ</rt></ruby>します。」 <br/>*Cost ¥13M, cộng margin 25% thành ¥16.25M, làm tròn ¥16.5M ạ.* |
+| **ズン** | 「<ruby>原価<rt>げんか</rt></ruby> ¥13M、<ruby>利益率<rt>りえきりつ</rt></ruby> 25% <ruby>上乗<rt>うわの</rt></ruby>せで ¥16.25M、<ruby>切<rt>き</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げ ¥16.5M で<ruby>出<rt>だ</rt></ruby>します。」 <br/>*Giá vốn ¥13M, cộng biên lợi nhuận 25% thành ¥16.25M, làm tròn ¥16.5M ạ.* |
 | **ハー CTO** | 「Phase 3 は<ruby>新機能<rt>しんきのう</rt></ruby> AI レコメンドエンジン<ruby>込<rt>こ</rt></ruby>み、<ruby>白鷗<rt>はくおう</rt></ruby>の<ruby>売上<rt>うりあげ</rt></ruby> +¥80M/<ruby>年<rt>ねん</rt></ruby><ruby>見込<rt>みこ</rt></ruby>めるんでしょ？それを ¥16.5M で<ruby>売<rt>う</rt></ruby>る？」 <br/>*Phase 3 có cả AI recommend engine, ước doanh thu Hakuō +¥80M/năm đúng không? Mà bán ¥16.5M?* |
-| **ズン** | 「えっと、<ruby>原価<rt>げんか</rt></ruby>ベースだとそれが<ruby>妥当<rt>だとう</rt></ruby>かと…」 <br/>*Dạ ờ, theo cost-base thì em thấy hợp lý ạ...* |
+| **ズン** | 「えっと、<ruby>原価<rt>げんか</rt></ruby>ベースだとそれが<ruby>妥当<rt>だとう</rt></ruby>かと…」 <br/>*Dạ ờ, theo cách tính cộng chi phí thì em thấy hợp lý ạ...* |
 | **ハー CTO** | 「**Value-based で<ruby>考<rt>かんが</rt></ruby>えて**。¥80M インパクトの 20% = ¥16M <ruby>程度<rt>ていど</rt></ruby>なら value <ruby>的<rt>てき</rt></ruby>にお<ruby>買<rt>か</rt></ruby>い<ruby>得<rt>どく</rt></ruby><ruby>感<rt>かん</rt></ruby>もあるけど、¥18-22M でも<ruby>妥当<rt>だとう</rt></ruby>。cost-plus は<ruby>商品案件<rt>しょうひんあんけん</rt></ruby><ruby>用<rt>よう</rt></ruby>、<ruby>戦略案件<rt>せんりゃくあんけん</rt></ruby>には<ruby>適<rt>てき</rt></ruby>さない。」 <br/>*Nghĩ theo định giá theo giá trị đi. Tác động ¥80M × 20% ≒ ¥16M là khách thấy hời, nhưng ¥18-22M cũng vẫn hợp lý. Cộng chi phí dùng cho hàng phổ thông, không hợp thương vụ chiến lược.* |
 
 **Vì sao xấu:** Định giá theo chi phí chỉ phản ánh chi phí mình, KHÔNG phản ánh giá trị khách nhận. Phase 3 có AI engine = mang tính chiến lược, giá trị cao → đáng giá ¥18-22M chứ không phải ¥16.5M. Bỏ ¥2-5M tiền trên bàn.

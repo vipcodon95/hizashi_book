@@ -80,8 +80,11 @@ function Table(el)
     el.attr.classes:insert("compare-table")
     return el
   end
-  -- Vai|Câu (20/80) và 漢字|よみ|Nghĩa (30/30/40): để CSS selector mặc định xử lý
-  if hkey == "Vai|Câu" or hkey == "漢字|よみ|Nghĩa" then
+  -- Vai|Câu (20/80) và 漢字|よみ|Nghĩa (30/30/40): để CSS selector mặc định xử lý.
+  -- Cột đầu là "Vai" + đúng 2 cột → bảng hội thoại, kể cả cột Câu có caption
+  -- (vd "Câu (Slack)", "Câu (mail)") → vẫn áp 20/80, không để auto-gen bóp cột Vai.
+  if hkey == "Vai|Câu" or hkey == "漢字|よみ|Nghĩa"
+     or (ncols == 2 and hcells[1] == "Vai") then
     return el
   end
   -- Bảng từ vựng 4 cột → 22/22/22/34 (cố định)
@@ -97,6 +100,11 @@ function Table(el)
   -- Bảng "lúc nào|việc" 2 cột (rule_14, rule_17) → custom 30/70
   if hkey == "Lúc nào|Việc gì" or hkey == "Khi nào|Việc cần làm" then
     el.attr.classes:insert("when-what-table")
+    return el
+  end
+  -- Bảng CẤU TRÚC front matter (Phần|Tên|Số rule) → 25/50/25 (class cố định)
+  if hkey == "Phần|Tên|Số rule" then
+    el.attr.classes:insert("cautruc-table")
     return el
   end
   -- Bảng 2 cột không có câu thoại 「」 → đối chiếu 50/50

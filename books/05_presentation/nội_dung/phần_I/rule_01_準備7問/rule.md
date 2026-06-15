@@ -1,4 +1,4 @@
-# Rule 01 — Checklist 7 câu hỏi trước khi soạn / プレゼン準備の7つの問い
+# Rule 01 — Danh sách 7 câu hỏi trước khi soạn / プレゼン準備の7つの問い
 
 > **Luận điểm.** Chưa trả lời được 7 câu hỏi này thì **chưa được mở PowerPoint**. Đa số người trình bày Việt nhảy thẳng vào thiết kế slide → ra bộ slide đẹp nhưng sai thông điệp. Khách Nhật không tha cho bộ slide "kỹ thuật cao, mục đích thấp".
 >
@@ -51,11 +51,11 @@ Tháng 5/2026, Phase 3 với 白鷗 sắp khởi động. Anh Hà CTO giao Dũng
 
 > **「<ruby>準備<rt>じゅんび</rt></ruby>の7<ruby>問<rt>もん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えられないうちは PowerPoint を<ruby>開<rt>ひら</rt></ruby>かない。」**
 >
-> *Chưa trả lời được 7 câu thì chưa được mở PowerPoint. Slide đẹp + message sai = vứt.*
+> *Chưa trả lời được 7 câu thì chưa được mở PowerPoint. Slide đẹp + thông điệp sai = vứt.*
 
 ---
 
-## Khung checklist 7 câu
+## Khung kiểm tra 7 câu
 
 ```
 【プレゼン準備チェックリスト】

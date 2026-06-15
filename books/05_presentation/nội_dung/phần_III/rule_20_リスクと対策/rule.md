@@ -31,7 +31,7 @@ Slide 9 = slide rủi ro. Linh thảo nháp → ghi "リスクは特にござい
 
 ## Hội thoại TỐT — 4 rủi ro + biện pháp đối phó cụ thể
 
-*revised*
+*bản chỉnh sửa*
 
 | Vai | Câu |
 |---------|-----|

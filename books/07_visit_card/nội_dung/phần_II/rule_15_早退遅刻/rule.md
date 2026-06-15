@@ -10,15 +10,15 @@
 
 ## Bối cảnh / 場面
 
-**Scenario A** (sớm): Lần thứ 2 đoàn 大垣 visit (ngày khác, buổi họp nhỏ hơn). 9:15 sáng, khách đến **15 phút sớm** so với lịch 9:30. Linh ở lễ tân.
+**Tình huống A** (sớm): Lần thứ 2 đoàn 大垣 đến thăm (ngày khác, buổi họp nhỏ hơn). 9:15 sáng, khách đến **15 phút sớm** so với lịch 9:30. Linh ở lễ tân.
 
-**Scenario B** (muộn): 9:45 sáng, lịch 9:30 nhưng đoàn chưa đến. Dũng phải xử lý.
+**Tình huống B** (muộn): 9:45 sáng, lịch 9:30 nhưng đoàn chưa đến. Dũng phải xử lý.
 
 ---
 
 ## Hội thoại XẤU — bắt đợi sớm + hối muộn
 
-### Scenario A — sớm (XẤU):
+### Tình huống A — sớm (XẤU):
 
 *9:15, đến sảnh sớm 15 phút · không biết xử lý · đứng ở sảnh 15 phút*
 
@@ -28,7 +28,7 @@
 | **リン** | 「あっ、9:30 ですよね？ロビーでお<ruby>待<rt>ま</rt></ruby>ちいただけますか…」 <br/>*À, 9:30 đúng không ạ? Anh đợi ở tiền sảnh được không ạ...* |
 | **大垣** | 「…はい。」 <br/>*...Vâng.* |
 
-### Scenario B — muộn (XẤU):
+### Tình huống B — muộn (XẤU):
 
 *9:45, đoàn chưa đến, nhắn Slack với giọng bực · 9:50 đến, vội · thoáng cau mặt*
 
@@ -42,9 +42,9 @@
 
 ---
 
-## Hội thoại TỐT — đón sớm ngay + receive muộn ấm
+## Hội thoại TỐT — đón sớm ngay + đón muộn ấm áp
 
-### Scenario A — sớm (TỐT):
+### Tình huống A — sớm (TỐT):
 
 *9:15 · bình tĩnh, đã được dặn trước · dẫn vào, Slack báo cấp trên 'Ōgaki sớm 15p, đã đưa vào phòng A' · slack gửi ズン+フオン*
 
@@ -56,13 +56,13 @@
 | **リン** | 「**こちらでお<ruby>待<rt>ま</rt></ruby>ちいただけますでしょうか。お<ruby>茶<rt>ちゃ</rt></ruby>をお<ruby>持<rt>も</rt></ruby>ちいたします**【2】。」 <br/>*Mời anh đợi ở đây ạ. Em xin mang trà tới.* |
 | **リン** | *『<ruby>大垣<rt>おおがき</rt></ruby>様 9:15 ご<ruby>到着<rt>とうちゃく</rt></ruby>、<ruby>会議室<rt>かいぎしつ</rt></ruby>Aご<ruby>案内<rt>あんない</rt></ruby><ruby>済<rt>ず</rt></ruby>。お<ruby>茶<rt>ちゃ</rt></ruby><ruby>配膳<rt>はいぜん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>。』*【3】 <br/>*(Slack gửi Dũng + Hương: Anh Ōgaki đến 9:15, đã đưa vào phòng A. Đang phục vụ trà.)* |
 
-### Scenario B — muộn (TỐT):
+### Tình huống B — muộn (TỐT):
 
 *9:40, gọi điện hỏi tình hình · qua điện thoại · 9:50 đến sảnh · cúi chào đón ấm như bình thường, KHÔNG đề cập muộn*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「<ruby>大垣<rt>おおがき</rt></ruby>様、<ruby>本日<rt>ほんじつ</rt></ruby>ご<ruby>来訪<rt>らいほう</rt></ruby><ruby>予定<rt>よてい</rt></ruby>の<ruby>件<rt>けん</rt></ruby>でご<ruby>確認<rt>かくにん</rt></ruby>のお<ruby>電話<rt>でんわ</rt></ruby>です。**<ruby>何<rt>なに</rt></ruby>かございましたでしょうか**【4】。」 <br/>*Anh Ōgaki, em gọi xác nhận về buổi visit hôm nay ạ. Có chuyện gì không ạ?* |
+| **ズン** | 「<ruby>大垣<rt>おおがき</rt></ruby>様、<ruby>本日<rt>ほんじつ</rt></ruby>ご<ruby>来訪<rt>らいほう</rt></ruby><ruby>予定<rt>よてい</rt></ruby>の<ruby>件<rt>けん</rt></ruby>でご<ruby>確認<rt>かくにん</rt></ruby>のお<ruby>電話<rt>でんわ</rt></ruby>です。**<ruby>何<rt>なに</rt></ruby>かございましたでしょうか**【4】。」 <br/>*Anh Ōgaki, em gọi xác nhận về buổi thăm hôm nay ạ. Có chuyện gì không ạ?* |
 | **大垣** | 「<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません、<ruby>渋滞<rt>じゅうたい</rt></ruby>で15分<ruby>遅<rt>おく</rt></ruby>れます。」 <br/>*Xin lỗi em, tắc đường nên muộn 15 phút.* |
 | **ズン** | 「**ご<ruby>無事<rt>ぶじ</rt></ruby>で<ruby>何<rt>なに</rt></ruby>よりです。<ruby>会議室<rt>かいぎしつ</rt></ruby>は<ruby>整<rt>ととの</rt></ruby>っておりますので、お<ruby>気<rt>き</rt></ruby>をつけてお<ruby>越<rt>こ</rt></ruby>しくださいませ**【5】。」 <br/>*An toàn là quan trọng nhất ạ. Phòng họp đã sẵn sàng rồi, mong anh đến cẩn thận.* |
 | **大垣** | 「<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません…」 <br/>*Xin lỗi em...* |

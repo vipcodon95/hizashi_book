@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Q&A bài thuyết trình Phase 3. Anh Matsumoto hỏi câu phức tạp 2 vế: "scope phase 3 có chồng lên phase 2 không + nếu chồng thì bên nào xử lý?"
+Q&A bài thuyết trình Phase 3. Anh Matsumoto hỏi câu phức tạp 2 vế: "phạm vi phase 3 có chồng lên phase 2 không + nếu chồng thì bên nào xử lý?"
 
 ---
 
@@ -36,7 +36,7 @@ Q&A bài thuyết trình Phase 3. Anh Matsumoto hỏi câu phức tạp 2 vế: 
 | Vai | Câu |
 |---------|-----|
 | **松本** | 「Phase 3 のスコープは Phase 2 と<ruby>重複<rt>ちょうふく</rt></ruby>しないか？<ruby>重複<rt>ちょうふく</rt></ruby>したら<ruby>誰<rt>だれ</rt></ruby>が<ruby>調整<rt>ちょうせい</rt></ruby>するのか？」 <br/>*Scope Phase 3 có trùng với Phase 2 không? Nếu trùng thì ai điều phối?* |
-| **ズン** | 「**ご<ruby>質問<rt>しつもん</rt></ruby>ありがとうございます**【1】。**ご<ruby>質問<rt>しつもん</rt></ruby>の<ruby>趣旨<rt>しゅし</rt></ruby>は『Phase 2 / 3 のスコープ<ruby>重複<rt>ちょうふく</rt></ruby>の<ruby>有無<rt>うむ</rt></ruby>』と『<ruby>重複時<rt>ちょうふくじ</rt></ruby>の<ruby>調整責任者<rt>ちょうせいせきにんしゃ</rt></ruby>』の2<ruby>点<rt>てん</rt></ruby>と<ruby>理解<rt>りかい</rt></ruby>しました**【2】、よろしいでしょうか？」 — A <br/>*Em cảm ơn câu hỏi của anh ạ. Em hiểu ý anh là 2 điểm: 「có trùng scope Phase 2 / 3 hay không」 và 「nếu trùng thì ai chịu trách nhiệm điều phối」, có đúng không ạ?* |
+| **ズン** | 「**ご<ruby>質問<rt>しつもん</rt></ruby>ありがとうございます**【1】。**ご<ruby>質問<rt>しつもん</rt></ruby>の<ruby>趣旨<rt>しゅし</rt></ruby>は『Phase 2 / 3 のスコープ<ruby>重複<rt>ちょうふく</rt></ruby>の<ruby>有無<rt>うむ</rt></ruby>』と『<ruby>重複時<rt>ちょうふくじ</rt></ruby>の<ruby>調整責任者<rt>ちょうせいせきにんしゃ</rt></ruby>』の2<ruby>点<rt>てん</rt></ruby>と<ruby>理解<rt>りかい</rt></ruby>しました**【2】、よろしいでしょうか？」 — A <br/>*Em cảm ơn câu hỏi của anh ạ. Em hiểu ý anh là 2 điểm: 「có trùng phạm vi Phase 2 / 3 hay không」 và 「nếu trùng thì ai chịu trách nhiệm điều phối」, có đúng không ạ?* |
 | **松本** | 「はい、その<ruby>通<rt>とお</rt></ruby>りです。」 <br/>*Vâng, đúng vậy.* |
 | **ズン** | 「**まず1<ruby>点目<rt>てんめ</rt></ruby>**、スライド12の<ruby>比較表<rt>ひかくひょう</rt></ruby>のとおり<ruby>重複<rt>ちょうふく</rt></ruby>は **3<ruby>機能<rt>きのう</rt></ruby>** ございます。**2<ruby>点目<rt>てんめ</rt></ruby>**、<ruby>調整責任者<rt>ちょうせいせきにんしゃ</rt></ruby>は **<ruby>弊社<rt>へいしゃ</rt></ruby>トゥアン＋<ruby>御社<rt>おんしゃ</rt></ruby><ruby>田中<rt>たなか</rt></ruby><ruby>様<rt>さま</rt></ruby>の<ruby>合同<rt>ごうどう</rt></ruby>レビュー**で<ruby>月次<rt>げつじ</rt></ruby><ruby>調整<rt>ちょうせい</rt></ruby>いたします。」 — S 【3】 <br/>*Trước hết điểm 1: theo bảng so sánh slide 12, có 3 chức năng trùng ạ. Điểm 2: người điều phối là anh Tuấn bên em + anh Tanaka bên quý vị, review chung và điều phối hàng tháng ạ.* |
 | **ズン** | 「**<ruby>以上<rt>いじょう</rt></ruby>、お<ruby>答<rt>こた</rt></ruby>えできておりますでしょうか**【4】？<ruby>他<rt>ほか</rt></ruby>にご<ruby>不明<rt>ふめい</rt></ruby>な<ruby>点<rt>てん</rt></ruby>がございましたら、<ruby>続<rt>つづ</rt></ruby>けてどうぞ。」 — R <br/>*Như trên có giải đáp được không ạ? Nếu còn điểm chưa rõ, mời anh tiếp tục ạ.* |

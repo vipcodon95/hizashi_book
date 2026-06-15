@@ -77,18 +77,18 @@
 >  _顧客インテル報告の標準_
 
 
-### Rule 05 — Định giá strategy / 価格戦略
+### Rule 05 — Định giá chiến lược / 価格戦略
 
 **ズン (em Dũng):**
 
 >  「Cost-plus / value-based / anchoring の3モデルを比較し、推奨は value-based です。」
 >
->  *Em đã so 3 mô hình cost-plus / định giá theo giá trị / neo giá, đề xuất là định giá theo giá trị ạ.*
+>  *Em đã so 3 mô hình cộng chi phí / định giá theo giá trị / neo giá, đề xuất là định giá theo giá trị ạ.*
 >
 >  _価格戦略提案の標準_
 
 
-### Rule 06 — 3-tier proposal: Good / Better / Best / 3段階提案
+### Rule 06 — Đề xuất 3 bậc: Good / Better / Best / 3段階提案
 
 **ズン (em Dũng):**
 
@@ -99,24 +99,24 @@
 >  _3段階提案の口頭イントロ_
 
 
-### Rule 07 — Pre-meeting alignment nội bộ / 事前社内すり合わせ
+### Rule 07 — Thống nhất nội bộ trước họp / 事前社内すり合わせ
 
 **フオン副部長 (chị Hương):**
 
 >  「役割・譲歩順・撤退ライン・沈黙合図、4点を社内で100%一致させてから入室。」
 >
->  *Vai trò / thứ tự nhượng bộ / điểm rút lui / tín hiệu im lặng — 4 điểm thống nhất 100% trước khi vào phòng.*
+>  *Vai trò / thứ tự nhượng bộ / điểm rút lui / tín hiệu im lặng — 4 điểm thống nhất 100% nội bộ trước khi vào phòng.*
 >
 >  _事前すり合わせ4点原則_
 
 
-### Rule 08 — Walk-away point / 撤退ライン
+### Rule 08 — Điểm rút lui / 撤退ライン
 
 **ズン (em Dũng):**
 
 >  「撤退ラインは価格・IP・SLA・支払・責任の5軸でCTO承認済みです。」
 >
->  *Điểm rút lui là 5 trục: giá / IP / SLA / điều kiện thanh toán / giới hạn trách nhiệm — CTO đã duyệt ạ.*
+>  *Điểm rút lui là 5 trục: giá / IP / SLA / điều kiện thanh toán / giới hạn trách nhiệm pháp lý — CTO đã duyệt ạ.*
 >
 >  _撤退ライン読み上げ標準_
 
@@ -127,7 +127,7 @@
 
 >  「譲歩は trade とセット、trade 拒否は譲歩取り下げ。」
 >
->  *Nhượng bộ luôn đi cùng điều kiện đổi, điều kiện đổi bị từ chối là rút nhượng bộ.*
+>  *Nhượng bộ luôn đi cùng điều kiện đổi, điều kiện đổi bị từ chối thì rút lại nhượng bộ.*
 >
 >  _trade-back 原則_
 
@@ -154,13 +154,13 @@
 >  _本日の意図表明_
 
 
-### Rule 11 — Set context + agenda / コンテキスト設定
+### Rule 11 — Thiết lập bối cảnh + chương trình / コンテキスト設定
 
 **ズン (em Dũng):**
 
 >  「簡単な振り返りをさせていただきます。直近で御社側のご状況に変更はございますでしょうか？」
 >
->  *Em xin phép điểm lại nhanh ạ. Gần đây phía quý cty có thay đổi gì không ạ?*
+>  *Em xin phép tóm tắt lại nhanh ạ. Gần đây phía quý cty có thay đổi gì không ạ?*
 >
 >  _コンテキスト設定の標準_
 
@@ -171,7 +171,7 @@
 
 >  「5 観点でお伺いさせていただきます。Pain・Goal・予算感・Timeline・Decision の順で。」
 >
->  *Em xin hỏi theo 5 trục: Pain / Goal / cảm giác ngân sách / Timeline / Decision ạ.*
+>  *Em xin hỏi theo 5 trục: Nỗi đau / Mục tiêu / cảm giác ngân sách / Tiến trình thời gian / Quyết định ạ.*
 >
 >  _discovery 開始の宣言_
 
@@ -179,7 +179,7 @@
 
 >  「稟議経路で確認すべき方はいらっしゃいますか？」
 >
->  *Trên đường ringi còn ai cần consult không ạ?*
+>  *Trên đường ringi còn ai cần hỏi ý kiến không ạ?*
 >
 >  _隠れた決裁者の炙り出し_
 
@@ -266,7 +266,7 @@
 
 >  「重要点ですので、price の段階にあわせて詳しくご説明させていただきます。」
 >
->  *Điểm quan trọng nên xin phép em giải thích kỹ ở phần giá ạ.*
+>  *Điểm quan trọng nên xin phép em giải thích kỹ ở phần giá (sẽ gác lại đến đó) ạ.*
 >
 >  _park question 定型_
 
@@ -321,7 +321,7 @@
 
 >  「unit price は同等のまま、総額を調整する形になります。」
 >
->  *Giữ nguyên unit price, chỉ điều chỉnh tổng tiền ạ.*
+>  *Giữ nguyên đơn giá, chỉ điều chỉnh tổng tiền ạ.*
 >
 >  _unit price 維持説明_
 
@@ -367,7 +367,7 @@
 >  _conditional confirmation_
 
 
-### Rule 25 — Silence as tool / 沈黙の活用
+### Rule 25 — Im lặng làm công cụ / 沈黙の活用
 
 **ズン (em Dũng):**
 
@@ -378,7 +378,7 @@
 >  _offer後の沈黙保持_
 
 
-### Rule 26 — Đối phó với lời đe / ultimatum / 脅し・最終通告への対応
+### Rule 26 — Đối phó với lời đe / tối hậu thư / 脅し・最終通告への対応
 
 **ズン (em Dũng):**
 
@@ -416,7 +416,7 @@
 >  _新事実追加_
 
 
-### Rule 28 — Walk away phong nhã / 撤退の作法
+### Rule 28 — Rút lui phong nhã / 撤退の作法
 
 **ズン (em Dũng):**
 
@@ -435,7 +435,7 @@
 >  _door open phrase_
 
 
-### Rule 29 — Nibble & late demand handling / ニブル・後出し対応
+### Rule 29 — Xử lý đòi thêm & yêu cầu muộn / ニブル・後出し対応
 
 **ズン (em Dũng):**
 
@@ -457,7 +457,7 @@
 
 ## Phần IV — Tình huống khó
 
-### Rule 30 — Confirm point of agreement / 合意点の確認
+### Rule 30 — Xác nhận điểm đã thống nhất / 合意点の確認
 
 **ズン (em Dũng):**
 
@@ -479,12 +479,12 @@
 
 >  「24時間以内に確認メールをお送りいたします。」
 >
->  *Em sẽ gửi recap mail trong vòng 24 giờ ạ.*
+>  *Em sẽ gửi mail tóm tắt trong vòng 24 giờ ạ.*
 >
 >  _Recap mail commitment_
 
 
-### Rule 31 — Recap email — tổng hợp xác nhận / 要約・確認メール
+### Rule 31 — Mail tóm tắt — tổng hợp xác nhận / 要約・確認メール
 
 **ズン (em Dũng):**
 
@@ -503,13 +503,13 @@
 >  _Senior レビュー依頼_
 
 
-### Rule 32 — LOI rồi mới đến contract draft / 契約書ドラフト・LOI
+### Rule 32 — LOI rồi mới đến bản nháp hợp đồng / 契約書ドラフト・LOI
 
 **ズン (em Dũng):**
 
 >  「ご捺印頂きましたら、続いて 4 週間以内に本契約書ドラフトをご提示いたします。」
 >
->  *Sau khi anh đóng dấu, trong 4 tuần em sẽ gửi contract draft chính ạ.*
+>  *Sau khi anh đóng dấu, trong 4 tuần em sẽ gửi bản nháp hợp đồng chính ạ.*
 >
 >  _LOI → 本契約 pace control_
 
@@ -517,7 +517,7 @@
 
 >  「LOI = 商務合意のロック、本契約 = 条項詳細。」
 >
->  *LOI khóa commercial. Contract khóa terms.*
+>  *LOI khóa điều khoản thương mại. Hợp đồng khóa điều khoản chi tiết.*
 >
 >  _2 段階契約フローの原則_
 
@@ -541,7 +541,7 @@
 >  _条項主張の framing_
 
 
-### Rule 34 — Mời ký formal / 調印依頼
+### Rule 34 — Mời ký trang trọng / 調印依頼
 
 **ズン (em Dũng):**
 
@@ -560,7 +560,7 @@
 >  _Deadline 明示_
 
 
-### Rule 35 — Walk-away phong nhã / 商談打ち切り
+### Rule 35 — Rút lui phong nhã / 商談打ち切り
 
 **ズン (em Dũng):**
 
@@ -598,32 +598,32 @@
 >  _未来 commit phrase_
 
 
-### Rule 37 — Internal kickoff sau ký / 社内キックオフ
+### Rule 37 — Khởi động nội bộ sau ký / 社内キックオフ
 
 **ズン (em Dũng):**
 
 >  「本日のアジェンダは 3 セクション: ①交渉 context、②相手 personality map、③open promises。」
 >
->  *Agenda hôm nay 3 sections: ①Context đàm phán, ②Personality map, ③Open promises.*
+>  *Chương trình hôm nay 3 phần: ①Bối cảnh đàm phán, ②Sơ đồ tính cách, ③Cam kết còn ngỏ.*
 >
->  _Internal kickoff structure_
+>  _Cấu trúc khởi động nội bộ_
 
 **ズン (em Dũng):**
 
 >  「事前に hand-off doc 共有済み。質問はその場で。」
 >
->  *Hand-off doc đã share trước. Câu hỏi nêu trực tiếp.*
+>  *Tài liệu bàn giao đã chia sẻ trước. Câu hỏi nêu trực tiếp.*
 >
 >  _Pre-share + 同期 read 形式_
 
 
-### Rule 38 — PR release joint approval / 対外発表
+### Rule 38 — Duyệt chung phát hành PR / 対外発表
 
 **ズン (em Dũng):**
 
 >  「御社 PR 部のレビュー・両社同時 embargo をご相談させていただけますでしょうか。」
 >
->  *Phiền anh để PR bên anh duyệt + đồng thời embargo cả 2 bên được không ạ?*
+>  *Phiền anh để PR bên anh duyệt + đồng loạt phát tin cả 2 bên được không ạ?*
 >
 >  _PR joint approval リクエスト_
 
@@ -636,7 +636,7 @@
 >  _PR 金額 framing_
 
 
-### Rule 39 — Cảm ơn stakeholders / 関係者への感謝
+### Rule 39 — Cảm ơn các bên liên quan / 関係者への感謝
 
 **ズン (em Dũng):**
 
@@ -644,7 +644,7 @@
 >
 >  *Thực sự nhờ sự giúp đỡ của các anh ạ.*
 >
->  _Stakeholder formal opener_
+>  _Câu mở đầu trang trọng với các bên_
 
 **ズン (em Dũng):**
 
@@ -656,7 +656,7 @@
 
 
 
-## Phần V — Voicemail, Trực tuyến & Thực hành tốt nhất
+## Phần V — Hộp thư thoại, Trực tuyến & Thực hành tốt nhất
 
 ### Rule 40 — Đàm phán đa bên / 多者間交渉
 
@@ -677,13 +677,13 @@
 >  _Junior → senior 順序の transition_
 
 
-### Rule 41 — Đàm phán online / オンライン交渉
+### Rule 41 — Đàm phán trực tuyến / オンライン交渉
 
 **ズン (em Dũng):**
 
 >  「画面共有させていただきます。」
 >
->  *Em xin phép share screen ạ.*
+>  *Em xin phép chia sẻ màn hình ạ.*
 >
 >  _Screen share ON 宣言_
 
@@ -702,9 +702,9 @@
 
 >  「本日の key terms 7 個 reviews。」
 >
->  *Mình xem lại 7 thuật ngữ chính hôm nay.*
+>  *Mình dặn dò lại 7 thuật ngữ chính hôm nay.*
 >
->  _Pre-brief opener_
+>  _Câu mở đầu dặn trước_
 
 **ズン (em Dũng):**
 
@@ -715,13 +715,13 @@
 >  _数値区切り発音_
 
 
-### Rule 43 — Khi nào escalate senior / エスカレーション
+### Rule 43 — Khi nào báo cấp trên / エスカレーション
 
 **ズン (em Dũng):**
 
 >  「私の権限を超えます。5 分ほどお時間頂戴し、Hà CTO に連絡を取らせてください。」
 >
->  *Vượt thẩm quyền của em ạ. Phiền anh cho em 5 phút để liên lạc anh Hà CTO ạ.*
+>  *Vượt thẩm quyền của em ạ. Phiền anh cho em 5 phút liên lạc anh Hà CTO ạ.*
 >
 >  _Escalation 要請の標準_
 
@@ -729,7 +729,7 @@
 
 >  「T2 + T3 trigger。step-in 可否 ご判断ください。」
 >
->  *Trigger T2 + T3. Anh quyết step-in được không ạ.*
+>  *Tín hiệu T2 + T3. Anh quyết can thiệp được không ạ.*
 >
 >  _30 秒 Slack escalate format_
 
@@ -740,7 +740,7 @@
 
 >  「特に気にされている内訳要素はございますでしょうか？」
 >
->  *Có phần breakdown nào anh đặc biệt quan tâm không ạ?*
+>  *Có phần phân tách cấu thành nào anh đặc biệt quan tâm không ạ?*
 >
 >  _JP「高い」 unbundle reframe_
 
@@ -753,13 +753,13 @@
 >  _Nhượng bộ có điều kiện đổi ngang giá_
 
 
-### Rule 45 — Retro và cải tiến / 振り返りと改善
+### Rule 45 — Nhìn lại và cải tiến / 振り返りと改善
 
 **フオン副部長 (chị Hương):**
 
 >  「5 セクション: worked / didn't / counterfactual / pattern / commit。」
 >
->  *5 sections: worked / didn't / counterfactual / pattern / commit.*
+>  *5 mục: cái được / chưa được / giả định ngược / mô hình / cam kết.*
 >
 >  _Mẫu nhìn lại sau đàm phán_
 

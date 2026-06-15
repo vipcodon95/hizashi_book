@@ -25,13 +25,13 @@ Sau khi trao đổi danh thiếp tại tiền sảnh, đoàn vào phòng họp. 
 | **大垣** | 「…<ruby>大垣<rt>おおがき</rt></ruby>です。」 <br/>*...Tôi là Ōgaki.* |
 | **フオン副部長** | 「リンさん、名刺は<ruby>座席順<rt>ざせきじゅん</rt></ruby>に<ruby>並<rt>なら</rt></ruby>べて。<ruby>重<rt>かさ</rt></ruby>ねたら<ruby>誰<rt>だれ</rt></ruby>が<ruby>誰<rt>だれ</rt></ruby>か<ruby>分<rt>わ</rt></ruby>からなくなるの。」 <br/>*Linh, danh thiếp phải xếp theo thứ tự chỗ ngồi. Xếp chồng thì không phân biệt được ai với ai đâu.* |
 
-**Vì sao xấu:** Linh xếp chồng → Dũng không nhìn thấy danh thiếp → gọi nhầm chức vụ "松本部長" (Matsumoto là PM, không phải 部長) → Ōgaki tưởng bị gọi nhầm người. Trong meeting JP, gọi sai tên/chức = giảm độ tin cậy ngay trong 15 phút đầu.
+**Vì sao xấu:** Linh xếp chồng → Dũng không nhìn thấy danh thiếp → gọi nhầm chức vụ "松本部長" (Matsumoto là PM, không phải 部長) → Ōgaki tưởng bị gọi nhầm người. Trong cuộc họp, gọi sai tên/chức = giảm độ tin cậy ngay trong 15 phút đầu.
 
 ---
 
 ## Hội thoại TỐT — bố trí theo thứ tự chỗ ngồi
 
-*vào phòng họp, đặt 3 danh thiếp **theo đúng vị trí 3 khách ngồi**【1】 · nhìn lướt danh thiếp trước mặt, gọi đúng · 15 phút sau, hỏi 大垣 · cuối meeting, sau khi khách đứng dậy*
+*vào phòng họp, đặt 3 danh thiếp **theo đúng vị trí 3 khách ngồi**【1】 · nhìn lướt danh thiếp trước mặt, gọi đúng · 15 phút sau, hỏi 大垣 · cuối buổi họp, sau khi khách đứng dậy*
 
 | Vai | Câu |
 |---------|-----|
@@ -44,7 +44,7 @@ Sau khi trao đổi danh thiếp tại tiền sảnh, đoàn vào phòng họp. 
 
  **Ghi chú:**
 - 【1】**Bố trí theo thứ tự chỗ ngồi** — danh thiếp Nakamura ở chỗ Nakamura ngồi, Ōgaki ở chỗ Ōgaki, Matsumoto ở chỗ Matsumoto. Như vậy Dũng nhìn lướt = đối chiếu mặt người + danh thiếp = nhớ tên/chức ngay. CFO cấp cao nhất thường ngồi 上座 trung tâm.
-- 【2】**Cất khi khách đã đứng dậy** — KHÔNG cất giữa meeting. KHÔNG cất khi nói "今日のミーティング終了". Đợi khách rời chỗ, đứng dậy mình rồi mới gom 2 tay xếp vào hộp ngay ngắn (KHÔNG nhét túi).
+- 【2】**Cất khi khách đã đứng dậy** — KHÔNG cất giữa buổi họp. KHÔNG cất khi nói "今日のミーティング終了". Đợi khách rời chỗ, đứng dậy mình rồi mới gom 2 tay xếp vào hộp ngay ngắn (KHÔNG nhét túi).
 
 ---
 
@@ -59,10 +59,10 @@ Sau khi trao đổi danh thiếp tại tiền sảnh, đoàn vào phòng họp. 
 ## Tránh
 
 - **Xếp chồng** 3 danh thiếp → không nhìn được = quên tên/chức
-- **Cất túi giữa meeting** → "tôi xong với anh rồi" = mất face
+- **Cất túi giữa buổi họp** → "tôi xong với anh rồi" = mất thể diện
 - Đặt danh thiếp **bừa** (không theo vị trí ngồi) → gọi nhầm tên = mất uy
-- Để danh thiếp **rớt xuống đất** → KHÔNG dùng chân nhặt, dừng meeting cúi nhặt 2 tay + xin lỗi
-- **Viết / vẽ / gấp** lên danh thiếp giữa meeting → nếu cần ghi chú bối cảnh, dùng sổ riêng (rule 07)
+- Để danh thiếp **rớt xuống đất** → KHÔNG dùng chân nhặt, dừng buổi họp cúi nhặt 2 tay + xin lỗi
+- **Viết / vẽ / gấp** lên danh thiếp giữa buổi họp → nếu cần ghi chú bối cảnh, dùng sổ riêng (rule 07)
 - **Đặt vật khác lên trên** danh thiếp (cốc nước, sổ) → tuyệt đối không
 
 ---

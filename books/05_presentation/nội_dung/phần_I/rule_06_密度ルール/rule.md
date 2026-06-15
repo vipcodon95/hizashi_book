@@ -19,7 +19,7 @@ Sau khi Hương xem lại, Dũng cộng thêm 4 slide phụ "cho chắc" → qua
 | Vai | Câu |
 |---------|-----|
 | **ハーCTO** | 「ズン、<ruby>最終版<rt>さいしゅうばん</rt></ruby>14<ruby>枚<rt>まい</rt></ruby>？<ruby>前回<rt>ぜんかい</rt></ruby>10枚って<ruby>言<rt>い</rt></ruby>ってたよね？」 <br/>*Dũng, bản cuối 14 slide à? Lần trước em bảo 10 slide mà?* |
-| **ズン** | 「あ、<ruby>念<rt>ねん</rt></ruby>のため4枚<ruby>追加<rt>ついか</rt></ruby>しました。バックアップ<ruby>的<rt>てき</rt></ruby>に…」 <br/>*À, em thêm 4 slide cho chắc ạ. Kiểu backup ấy ạ...* |
+| **ズン** | 「あ、<ruby>念<rt>ねん</rt></ruby>のため4枚<ruby>追加<rt>ついか</rt></ruby>しました。バックアップ<ruby>的<rt>てき</rt></ruby>に…」 <br/>*À, em thêm 4 slide cho chắc ạ. Kiểu dự phòng ấy ạ...* |
 | **ハーCTO** | 「30分プレゼン＋15分Q&Aで14枚？1枚2分<ruby>超過<rt>ちょうか</rt></ruby>。**Q&A<ruby>時間<rt>じかん</rt></ruby>が<ruby>消<rt>き</rt></ruby>える**。あと、追加4枚はどれも『<ruby>話<rt>はな</rt></ruby>したい』だけで『<ruby>決<rt>き</rt></ruby>めるのに<ruby>必要<rt>ひつよう</rt></ruby>』じゃない。」 <br/>*30 phút thuyết trình + 15 phút Q&A mà 14 slide? Vượt 2 phút/slide. Q&A sẽ biến mất. Với 4 slide thêm này toàn 「muốn nói」 chứ không phải 「cần để quyết」.* |
 | **ズン** | 「えっと…」 <br/>*Ờ ạ...* |
 
@@ -33,12 +33,12 @@ Sau khi Hương xem lại, Dũng cộng thêm 4 slide phụ "cho chắc" → qua
 |---------|-----|
 | **ズン** | 「10-20-30ルールで<ruby>再<rt>さい</rt></ruby>audit しました【1】。<ruby>本編<rt>ほんぺん</rt></ruby>10枚、appendix 5枚は<ruby>質問<rt>しつもん</rt></ruby><ruby>対応用<rt>たいおうよう</rt></ruby>（<ruby>必要<rt>ひつよう</rt></ruby>なら<ruby>出<rt>だ</rt></ruby>す）。」 <br/>*Em đã rà soát lại theo quy tắc 10-20-30 ạ. Phần chính 10 slide, phụ lục 5 slide để trả lời câu hỏi (cần thì hiện ra).* |
 | **ハーCTO** | 「いいね、appendix <ruby>分離<rt>ぶんり</rt></ruby>は<ruby>正<rt>ただ</rt></ruby>しい。本編10枚 × 2分 = 20分、<ruby>自己紹介<rt>じこしょうかい</rt></ruby>+<ruby>背景<rt>はいけい</rt></ruby>3分、Q&A 7分の<ruby>枠<rt>わく</rt></ruby>で30分<ruby>内<rt>ない</rt></ruby>。」 <br/>*Được, tách phụ lục là đúng. Phần chính 10 slide × 2 phút = 20 phút, giới thiệu + bối cảnh 3 phút, Q&A 7 phút — nằm gọn trong 30 phút.* |
-| **ズン** | 「**フォントは<ruby>最小<rt>さいしょう</rt></ruby>24pt**で<ruby>統一<rt>とういつ</rt></ruby>【2】、appendix も<ruby>同<rt>おな</rt></ruby>じです。」 <br/>*Font em thống nhất tối thiểu 24pt ạ, appendix cũng vậy.* |
+| **ズン** | 「**フォントは<ruby>最小<rt>さいしょう</rt></ruby>24pt**で<ruby>統一<rt>とういつ</rt></ruby>【2】、appendix も<ruby>同<rt>おな</rt></ruby>じです。」 <br/>*Phông chữ em thống nhất tối thiểu 24pt ạ, appendix cũng vậy.* |
 | **ハーCTO** | 「OK。<ruby>本番<rt>ほんばん</rt></ruby>で14枚出すと『<ruby>準備不足<rt>じゅんびぶそく</rt></ruby>』に<ruby>見<rt>み</rt></ruby>える、10枚 + appendix の<ruby>構成<rt>こうせい</rt></ruby>は『きっちり<ruby>感<rt>かん</rt></ruby>』が<ruby>出<rt>で</rt></ruby>る。」 <br/>*OK. Trên thực tế chiếu 14 slide trông như 「chuẩn bị chưa kỹ」. 10 slide + phụ lục mới ra 「chỉn chu」.* |
 
  **Ghi chú:**
 - 【1】**10-20-30ルール** — Bản gốc dùng cho người tiêu dùng. JP B2B 版は 10-12 / 20-25 / 24pt min. Tách phụ lục = tín hiệu mạnh thể hiện sự chuẩn bị kỹ.
-- 【2】**「最小24pt」** — Rule 04 と整合. Đọc được trên cả projector hàng cuối lẫn khi chia sẻ màn hình.
+- 【2】**「最小24pt」** — Rule 04 と整合. Đọc được trên cả máy chiếu hàng cuối lẫn khi chia sẻ màn hình.
 
 ---
 
@@ -73,7 +73,7 @@ Sau khi Hương xem lại, Dũng cộng thêm 4 slide phụ "cho chắc" → qua
 - 1 slide < 30 giây → người nghe không kịp tiếp nhận, vô nghĩa
 - 1 slide > 3 phút → người nghe mất tập trung
 - Bỏ ngân sách thời gian cho Q&A → khách Nhật nhìn nhận là "không có chỗ thảo luận = không tự tin"
-- 24pt cho phần thân trên projector vẫn hơi nhỏ → kiểm tra thực tế
+- 24pt cho phần thân trên máy chiếu vẫn hơi nhỏ → kiểm tra thực tế
 
 ---
 

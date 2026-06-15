@@ -1,6 +1,6 @@
 # Rule 28 — Walk away phong nhã / 撤退の作法
 
-> **Luận điểm.** Khi vượt điểm rút lui, phải rút — nhưng rút **lịch sự để giữ quan hệ cho thương vụ sau**. Pattern: **(1) Ghi nhận khách**, **(2) Bày tỏ tiếc nuối**, **(3) Để ngỏ cánh cửa** ("Phase 4 で改めて"), **(4) Giữ thể diện cả 2 bên**. KHÔNG kết thúc bằng giọng "thất bại".
+> **Luận điểm.** Khi vượt điểm rút lui, phải rút — nhưng rút **lịch sự để giữ quan hệ cho thương vụ sau**. Mô hình: **(1) Ghi nhận khách**, **(2) Bày tỏ tiếc nuối**, **(3) Để ngỏ cánh cửa** ("Phase 4 で改めて"), **(4) Giữ thể diện cả 2 bên**. KHÔNG kết thúc bằng tông giọng "thất bại".
 >
 > 撤退は失敗ではない。次回再 approach のため relationship を保つ。「今回は折り合わなかった」という neutral tone が標準。
 >
@@ -14,7 +14,7 @@ Round 4: 大垣 + 中村 CFO push xuống ¥14M (dưới điểm rút lui ¥15.5
 
 ---
 
-## Hội thoại XẤU — emotional walk
+## Hội thoại XẤU — rút lui trong xúc động
 
 *疲 · 冷*
 
@@ -24,11 +24,11 @@ Round 4: 大垣 + 中村 CFO push xuống ¥14M (dưới điểm rút lui ¥15.5
 | **ズン** | 「分かりました、では今回はなしで。<ruby>残念<rt>ざんねん</rt></ruby>ですね。Y 社さんに<ruby>発注<rt>はっちゅう</rt></ruby>ということで…」 <br/>*Em rõ ạ, vậy lần này không vậy ạ. Tiếc nhỉ. Vậy quý anh đặt Y社 ạ...* |
 | **大垣** | 「では<ruby>失礼<rt>しつれい</rt></ruby>します。」 <br/>*Vậy chào em.* |
 
-**Vì sao xấu:** "残念" + reference Y社 = thái độ thù địch gián tiếp. Door closed. Phase 4 không có cơ hội. Tone "失敗" rõ ràng.
+**Vì sao xấu:** "残念" + nhắc đến Y社 = thái độ thù địch gián tiếp. Cánh cửa đóng lại. Phase 4 không có cơ hội. Tông giọng "失敗" rõ ràng.
 
 ---
 
-## Hội thoại TỐT — neutral walk + door open
+## Hội thoại TỐT — rút lui điềm tĩnh + để ngỏ cửa
 
 *2 秒沈黙、その後 · softer tone*
 
@@ -44,24 +44,24 @@ Round 4: 大垣 + 中村 CFO push xuống ¥14M (dưới điểm rút lui ¥15.5
  **Ghi chú:**
 - 【1】**Ghi nhận thời gian khách** — họ đã đầu tư 4 vòng, phải ghi nhận.
 - 【2】**Ngôn ngữ kết thúc trung tính** "条件面で折り合いがつかず" — KHÔNG đổ lỗi cho ai. "残念" + trung tính.
-- 【3】**Câu để ngỏ cánh cửa** "Phase 4 や別案件、いつでも歓迎" — để lại khả năng. Khách Nhật ghi nhớ giọng điệu này, có thể quay lại 6-12 tháng sau.
+- 【3】**Câu để ngỏ cánh cửa** "Phase 4 や別案件、いつでも歓迎" — để lại khả năng. Khách Nhật ghi nhớ tông giọng này, có thể quay lại 6-12 tháng sau.
 
 ---
 
 ## Câu chốt
 
-> **「『条件面で折り合いがつかず、誠に残念』+door open。emotional + 失敗 tone は禁。」**
+> **「『条件面で折り合いがつかず、誠に残念』+ để ngỏ cửa。tông xúc động + thất bại は禁。」**
 >
-> *"Không khớp được điều kiện, thật tiếc" + door open. Tone tình cảm + thất bại = cấm.*
+> *"Không khớp được điều kiện, thật tiếc" + để ngỏ cửa. Tông xúc động + thất bại = cấm.*
 
 ---
 
 ## Tránh
 
-- "Y 社さんに" gợi ý thái độ thù địch gián tiếp → cánh cửa đóng lại
+- Nhắc đến Y社 gợi ý thái độ thù địch gián tiếp → cánh cửa đóng lại
 - Bộc lộ tức giận / thất vọng → thiếu chuyên nghiệp, tin lan ra
-- Giọng "失敗" / "ダメ" → khách Nhật ghi nhớ + truyền tai
-- Quên câu để ngỏ cánh cửa → không có cơ hội Phase 4
+- Tông giọng "失敗" / "ダメ" → khách Nhật ghi nhớ + truyền tai
+- Quên câu để ngỏ cửa → không có cơ hội Phase 4
 
 ---
 

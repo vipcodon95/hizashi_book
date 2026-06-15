@@ -1,42 +1,6 @@
 /* ===== CSS tỉ lệ cột bảng — TỰ SINH bởi analyze_tables.py ===== */
 /* KHÔNG sửa tay file này; chỉnh số đo qua nội dung .md rồi build lại. */
 
-/*  | Vai | Câu (Slack)  (2 bảng, 13 / 13 / 74) */
-table.t-tbl-3a6186 { table-layout: fixed; }
-table.t-tbl-3a6186 td:nth-child(1), table.t-tbl-3a6186 th:nth-child(1) { width: 13% !important; }
-table.t-tbl-3a6186 td:nth-child(2), table.t-tbl-3a6186 th:nth-child(2) { width: 13% !important; }
-table.t-tbl-3a6186 td:nth-child(3), table.t-tbl-3a6186 th:nth-child(3) { width: 74% !important; }
-
-/*  | Vai | Câu (Zoom)  (2 bảng, 13 / 32 / 55) */
-table.t-tbl-09fbbf { table-layout: fixed; }
-table.t-tbl-09fbbf td:nth-child(1), table.t-tbl-09fbbf th:nth-child(1) { width: 13% !important; }
-table.t-tbl-09fbbf td:nth-child(2), table.t-tbl-09fbbf th:nth-child(2) { width: 32% !important; }
-table.t-tbl-09fbbf td:nth-child(3), table.t-tbl-09fbbf th:nth-child(3) { width: 55% !important; }
-
-/*  | Vai | Câu (họp nội bộ 9:00)  (1 bảng, 13 / 13 / 74) */
-table.t-tbl-27b0ba { table-layout: fixed; }
-table.t-tbl-27b0ba td:nth-child(1), table.t-tbl-27b0ba th:nth-child(1) { width: 13% !important; }
-table.t-tbl-27b0ba td:nth-child(2), table.t-tbl-27b0ba th:nth-child(2) { width: 13% !important; }
-table.t-tbl-27b0ba td:nth-child(3), table.t-tbl-27b0ba th:nth-child(3) { width: 74% !important; }
-
-/*  | Vai | Câu (mail)  (4 bảng, 13 / 22 / 65) */
-table.t-tbl-980c8a { table-layout: fixed; }
-table.t-tbl-980c8a td:nth-child(1), table.t-tbl-980c8a th:nth-child(1) { width: 13% !important; }
-table.t-tbl-980c8a td:nth-child(2), table.t-tbl-980c8a th:nth-child(2) { width: 22% !important; }
-table.t-tbl-980c8a td:nth-child(3), table.t-tbl-980c8a th:nth-child(3) { width: 65% !important; }
-
-/*  | Vai | Câu (đàm phán cùng khách)  (1 bảng, 13 / 18 / 69) */
-table.t-tbl-6ab53e { table-layout: fixed; }
-table.t-tbl-6ab53e td:nth-child(1), table.t-tbl-6ab53e th:nth-child(1) { width: 13% !important; }
-table.t-tbl-6ab53e td:nth-child(2), table.t-tbl-6ab53e th:nth-child(2) { width: 18% !important; }
-table.t-tbl-6ab53e td:nth-child(3), table.t-tbl-6ab53e th:nth-child(3) { width: 69% !important; }
-
-/*  | Vai | Câu (社内 MTG)  (1 bảng, 13 / 19 / 68) */
-table.t-tbl-f025b1 { table-layout: fixed; }
-table.t-tbl-f025b1 td:nth-child(1), table.t-tbl-f025b1 th:nth-child(1) { width: 13% !important; }
-table.t-tbl-f025b1 td:nth-child(2), table.t-tbl-f025b1 th:nth-child(2) { width: 19% !important; }
-table.t-tbl-f025b1 td:nth-child(3), table.t-tbl-f025b1 th:nth-child(3) { width: 68% !important; }
-
 /* # | Hành động | Người thực hiện | Hạn chót  (1 bảng, 13 / 29 / 40 / 18) */
 table.t-tbl-babde8 { table-layout: fixed; }
 table.t-tbl-babde8 td:nth-child(1), table.t-tbl-babde8 th:nth-child(1) { width: 13% !important; }
@@ -69,3 +33,33 @@ table.t-t-f3e657 td:nth-child(2), table.t-t-f3e657 th:nth-child(2) { width: 22% 
 table.t-t-f3e657 td:nth-child(3), table.t-t-f3e657 th:nth-child(3) { width: 21% !important; }
 table.t-t-f3e657 td:nth-child(4), table.t-t-f3e657 th:nth-child(4) { width: 28% !important; }
 table.t-t-f3e657 td:nth-child(5), table.t-t-f3e657 th:nth-child(5) { width: 13% !important; }
+
+/* Vai | Câu (Slack)  (2 bảng, 13 / 87) */
+table.t-vai-d7e61a { table-layout: fixed; }
+table.t-vai-d7e61a td:nth-child(1), table.t-vai-d7e61a th:nth-child(1) { width: 13% !important; }
+table.t-vai-d7e61a td:nth-child(2), table.t-vai-d7e61a th:nth-child(2) { width: 87% !important; }
+
+/* Vai | Câu (Zoom)  (2 bảng, 33 / 67) */
+table.t-vai-55f8cc { table-layout: fixed; }
+table.t-vai-55f8cc td:nth-child(1), table.t-vai-55f8cc th:nth-child(1) { width: 33% !important; }
+table.t-vai-55f8cc td:nth-child(2), table.t-vai-55f8cc th:nth-child(2) { width: 67% !important; }
+
+/* Vai | Câu (họp nội bộ 9:00)  (1 bảng, 13 / 87) */
+table.t-vai-ac1e0c { table-layout: fixed; }
+table.t-vai-ac1e0c td:nth-child(1), table.t-vai-ac1e0c th:nth-child(1) { width: 13% !important; }
+table.t-vai-ac1e0c td:nth-child(2), table.t-vai-ac1e0c th:nth-child(2) { width: 87% !important; }
+
+/* Vai | Câu (mail)  (4 bảng, 22 / 78) */
+table.t-vai-e578cd { table-layout: fixed; }
+table.t-vai-e578cd td:nth-child(1), table.t-vai-e578cd th:nth-child(1) { width: 22% !important; }
+table.t-vai-e578cd td:nth-child(2), table.t-vai-e578cd th:nth-child(2) { width: 78% !important; }
+
+/* Vai | Câu (đàm phán cùng khách)  (1 bảng, 18 / 82) */
+table.t-vai-860fa2 { table-layout: fixed; }
+table.t-vai-860fa2 td:nth-child(1), table.t-vai-860fa2 th:nth-child(1) { width: 18% !important; }
+table.t-vai-860fa2 td:nth-child(2), table.t-vai-860fa2 th:nth-child(2) { width: 82% !important; }
+
+/* Vai | Câu (社内 MTG)  (1 bảng, 19 / 81) */
+table.t-vai-03357a { table-layout: fixed; }
+table.t-vai-03357a td:nth-child(1), table.t-vai-03357a th:nth-child(1) { width: 19% !important; }
+table.t-vai-03357a td:nth-child(2), table.t-vai-03357a th:nth-child(2) { width: 81% !important; }

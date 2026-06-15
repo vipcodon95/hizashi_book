@@ -1,10 +1,10 @@
-# Rule 04 — Thu thập intel khách / 顧客リサーチ
+# Rule 04 — Thu thập thông tin khách / 顧客リサーチ
 
 > **Luận điểm.** Trước đàm phán phải biết: **(1) Người quyết định** (決裁ライン), **(2) Chu kỳ ngân sách** (年度予算 4-3月), **(3) Đối thủ** (đối thủ nào cũng đang chào hàng), **(4) Tin tức kinh doanh gần đây** (IR, M&A, sa thải). Thiếu 1 trong 4 = bước vào phòng mù 25%.
 >
 > 交渉前に4軸 (決裁者・予算サイクル・競合・直近業績) を必ず調査する。一つでも欠けると譲歩判断を誤る。
 >
-> **Liên quan:** rule 02 (ZOPA), rule 16 (確認決裁者), rule 13 (constraints).
+> **Liên quan:** rule 02 (ZOPA), rule 16 (確認決裁者), rule 13 (ràng buộc ẩn).
 
 ---
 
@@ -48,7 +48,7 @@
 
 > **「決裁・予算・競合・業績の4軸を全てupdate。「過去に知っていた」は無効。」**
 >
-> *4 trục: người duyệt / chu kỳ ngân sách / đối thủ / kết quả gần đây — đều phải update. "Biết hồi xưa" không tính.*
+> *4 trục: người duyệt / chu kỳ ngân sách / đối thủ / kết quả gần đây — đều phải cập nhật. "Biết hồi xưa" không tính.*
 
 ---
 

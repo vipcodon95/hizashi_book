@@ -1,16 +1,16 @@
 # Rule 30 — Thư cảm ơn sau bữa tối / 食事後のお礼メール
 
-> **Luận điểm.** Mail cảm ơn sau dinner = **24h trong giới hạn vàng** (lý tưởng = sáng hôm sau 8-9h). Bốn yếu tố: **(1) To riêng từng người + CC sếp (BCC = đại kỵ), (2) trích 1-2 chủ đề cụ thể từ buổi dinner, (3) hẹn lần sau với mốc thời gian rõ, (4) độ dài 200-300 chữ JP**. 3 ngày sau gửi = mất "độ tươi". BCC chung = mất cảm giác cá nhân hóa.
+> **Luận điểm.** Mail cảm ơn sau bữa tối = **24h trong giới hạn vàng** (lý tưởng = sáng hôm sau 8-9h). Bốn yếu tố: **(1) To riêng từng người + CC sếp (BCC = đại kỵ), (2) trích 1-2 chủ đề cụ thể từ buổi dinner, (3) hẹn lần sau với mốc thời gian rõ, (4) độ dài 200-300 chữ JP**. 3 ngày sau gửi = mất "độ tươi". BCC chung = mất cảm giác cá nhân hóa.
 >
 > お礼メール=『24h以内・個別To+CC上司 (BCC禁忌)・具体話題引用1-2点・次回約束 with timeline・200-300字』。
 >
-> **Liên quan:** rule 24 (đặt dinner), rule 25 (bên tiếp đón và khách), rule 28 (お土産).
+> **Liên quan:** rule 24 (đặt bữa tối), rule 25 (bên tiếp đón và khách), rule 28 (お土産).
 
 ---
 
 ## Bối cảnh / 場面
 
-Sáng sau dinner Q1 lúc 8:30. Dũng cần gửi thank-you mail tới Ōgaki, Matsumoto, CFO Nakamura, Tanaka PMO trong 24h. Hà CTO kiểm tra bản nháp trước khi gửi.
+Sáng sau bữa tối Q1 lúc 8:30. Dũng cần gửi mail cảm ơn tới Ōgaki, Matsumoto, CFO Nakamura, Tanaka PMO trong 24h. Hà CTO kiểm tra bản nháp trước khi gửi.
 
 ---
 
@@ -31,7 +31,7 @@ Sáng sau dinner Q1 lúc 8:30. Dũng cần gửi thank-you mail tới Ōgaki, Ma
 
 | Vai | Câu |
 |---------|-----|
-| **ハーCTO** | 「ズン、昨日のお<ruby>礼<rt>れい</rt></ruby>メール、ドラフト<ruby>見<rt>み</rt></ruby>せて。」 <br/>*Dũng, draft mail cảm ơn hôm qua đưa anh xem.* |
+| **ハーCTO** | 「ズン、昨日のお<ruby>礼<rt>れい</rt></ruby>メール、ドラフト<ruby>見<rt>み</rt></ruby>せて。」 <br/>*Dũng, bản nháp mail cảm ơn hôm qua đưa anh xem.* |
 | **ズン** | 「<ruby>翌朝<rt>よくあさ</rt></ruby>8<ruby>時<rt>じ</rt></ruby><ruby>送信予定<rt>そうしんよてい</rt></ruby>【1】。To = <ruby>中村<rt>なかむら</rt></ruby>CFO<ruby>様<rt>さま</rt></ruby> / <ruby>大垣<rt>おおがき</rt></ruby><ruby>様<rt>さま</rt></ruby> / <ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby> / <ruby>田中<rt>たなか</rt></ruby><ruby>様<rt>さま</rt></ruby> <ruby>個別<rt>こべつ</rt></ruby>4<ruby>通<rt>つう</rt></ruby>、CC = ハーCTO+フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>【2】。<ruby>各<rt>かく</rt></ruby>メールに<ruby>昨夜<rt>さくや</rt></ruby>の<ruby>和牛<rt>わぎゅう</rt></ruby>のご<ruby>感想<rt>かんそう</rt></ruby>・<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>の<ruby>登山<rt>とざん</rt></ruby>のお<ruby>話<rt>はなし</rt></ruby>を1-2<ruby>行<rt>ぎょう</rt></ruby><ruby>引用<rt>いんよう</rt></ruby>しております【3】。」 <br/>*Em định gửi 8h sáng nay. To = anh Nakamura / anh Ōgaki / anh Matsumoto / anh Tanaka — 4 mail riêng từng người. CC = anh Hà CTO + chị Hương phó phòng. Mỗi mail em trích 1-2 dòng về wagyu hôm qua + chuyện leo núi của anh Matsumoto.* |
 | **ハーCTO** | 「いいね。<ruby>次回約束<rt>じかいやくそく</rt></ruby>は<ruby>入<rt>い</rt></ruby>れた？」 <br/>*Tốt. Hẹn lần sau em đã cho vào chưa?* |
 | **ズン** | 「はい、『<ruby>次回<rt>じかい</rt></ruby>はぜひ<ruby>当方<rt>とうほう</rt></ruby>からも<ruby>東京<rt>とうきょう</rt></ruby>へお<ruby>伺<rt>うかが</rt></ruby>いし、5<ruby>月<rt>がつ</rt></ruby>のお<ruby>花見<rt>はなみ</rt></ruby>の<ruby>頃<rt>ころ</rt></ruby>に<ruby>改<rt>あらた</rt></ruby>めて』と<ruby>入<rt>い</rt></ruby>れています。」【4】 <br/>*Vâng, em viết 'lần sau em xin đến thăm Tokyo, khoảng tháng 5 mùa hoa anh đào sẽ liên hệ lại ạ'.* |
@@ -39,9 +39,9 @@ Sáng sau dinner Q1 lúc 8:30. Dũng cần gửi thank-you mail tới Ōgaki, Ma
 
  **Ghi chú:**
 - 【1】**Lý tưởng = sáng hôm sau vừa đến cty 8-9h** — trước khi sang ngày mới = tươi + dấu hiệu chỉn chu. 24h là giới hạn cứng.
-- 【2】**To = cá nhân từng người. CC = sếp mình + thư ký khách / Tanaka PMO. BCC = đại kỵ** — khách Nhật check header thấy BCC sẽ giảm điểm.
-- 【3】**Trích 1-2 điểm cụ thể từ buổi dinner** = dấu hiệu "tôi nghe kỹ". Cá nhân hóa đáng nhớ → tăng nhiệt. Mỗi mail có 1-2 chi tiết riêng cho người đó.
-- 【4】**Hứa hẹn lần sau với timeline cụ thể** ("tháng 5", "mùa hoa anh đào") = tín hiệu muốn duy trì quan hệ.
+- 【2】**To = cá nhân từng người. CC = sếp mình + thư ký khách / Tanaka PMO. BCC = đại kỵ** — khách Nhật kiểm tra tiêu đề mail thấy BCC sẽ giảm điểm.
+- 【3】**Trích 1-2 điểm cụ thể từ buổi tối** = dấu hiệu "tôi nghe kỹ". Cá nhân hóa đáng nhớ → tăng nhiệt. Mỗi mail có 1-2 chi tiết riêng cho người đó.
+- 【4】**Hứa hẹn lần sau với mốc thời gian cụ thể** ("tháng 5", "mùa hoa anh đào") = tín hiệu muốn duy trì quan hệ.
 
 ---
 
@@ -63,7 +63,7 @@ Sáng sau dinner Q1 lúc 8:30. Dũng cần gửi thank-you mail tới Ōgaki, Ma
 
 ---
 
-## Mẫu — Thư cảm ơn sau dinner tiếp khách
+## Mẫu — Thư cảm ơn sau bữa tiếp khách
 
 ```
 件名：御礼：昨夜のお食事の件

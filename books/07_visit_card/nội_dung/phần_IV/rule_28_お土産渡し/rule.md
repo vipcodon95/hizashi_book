@@ -1,16 +1,16 @@
 # Rule 28 — Trao omiyage (quà) / お土産の渡し方
 
-> **Luận điểm.** Trao omiyage chuẩn Nhật = **(1) Lấy ra khỏi túi giấy, (2) xoay mặt chữ về phía khách, (3) đưa 2 tay, (4) câu khiêm nhường「つまらないものですが」, (5) chỉ giải thích "xuất xứ + cách dùng" (KHÔNG nói giá / brand / hiếm), (6) trao theo thứ tự senior**. Đưa cả túi + khoe giá = phá hết tinh thần Nhật.
+> **Luận điểm.** Trao omiyage chuẩn Nhật = **(1) Lấy ra khỏi túi giấy, (2) xoay mặt chữ về phía khách, (3) đưa 2 tay, (4) câu khiêm nhường「つまらないものですが」, (5) chỉ giải thích "xuất xứ + cách dùng" (KHÔNG nói giá / thương hiệu / độ hiếm), (6) trao theo thứ tự cấp bậc**. Đưa cả túi + khoe giá = phá hết tinh thần Nhật.
 >
 > お土産=『袋から出す→文字向き相手→両手→つまらないもの but→産地+用途→上位者順』6点固定。
 >
-> **Liên quan:** rule 24 (đặt dinner), rule 29 (お土産受取), rule 33 (文化衝突).
+> **Liên quan:** rule 24 (đặt bữa tối), rule 29 (お土産受取), rule 33 (文化衝突).
 
 ---
 
 ## Bối cảnh / 場面
 
-Cuối bữa dinner Q1 lúc 21:00, sau trà kết thúc course. Dũng trao omiyage cà phê VN cao cấp (đóng gói riêng) + túi giấy cho Ōgaki, Matsumoto, CFO Nakamura, Tanaka PMO. Linh ngồi cạnh quan sát, đã được rehearse trước.
+Cuối bữa tối Q1 lúc 21:00, sau trà kết thúc suất ăn. Dũng trao omiyage cà phê VN cao cấp (đóng gói riêng) + túi giấy cho Ōgaki, Matsumoto, CFO Nakamura, Tanaka PMO. Linh ngồi cạnh quan sát, đã được rehearse trước.
 
 ---
 
@@ -19,7 +19,7 @@ Cuối bữa dinner Q1 lúc 21:00, sau trà kết thúc course. Dũng trao omiya
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「あ、これ<ruby>お土産<rt>おみやげ</rt></ruby>です。」（<ruby>紙袋<rt>かみぶくろ</rt></ruby>ごと<ruby>机<rt>つくえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>く） <br/>*À, đây là omiyage. (đặt cả túi giấy lên bàn)* |
-| **ズン** | 「ベトナムの<ruby>高級<rt>こうきゅう</rt></ruby>ブランドのコーヒーで、5<ruby>千円<rt>せんえん</rt></ruby>もするんですよ。」 <br/>*Cà phê brand cao cấp Việt Nam, đến 5 nghìn yên đấy ạ.* |
+| **ズン** | 「ベトナムの<ruby>高級<rt>こうきゅう</rt></ruby>ブランドのコーヒーで、5<ruby>千円<rt>せんえん</rt></ruby>もするんですよ。」 <br/>*Cà phê thương hiệu cao cấp Việt Nam, đến 5 nghìn yên đấy ạ.* |
 | **大垣営業部長** | （<ruby>少<rt>すこ</rt></ruby>し<ruby>戸惑<rt>とまど</rt></ruby>い）「あ、はい、ありがとうございます…」 <br/>*(hơi bối rối) À vâng, cảm ơn anh...* |
 | **リン** | （<ruby>後<rt>あと</rt></ruby>で）「ズン<ruby>先輩<rt>せんぱい</rt></ruby>、<ruby>紙袋<rt>かみぶくろ</rt></ruby>ごとってダメだったんですよね…？」 <br/>*(sau đó) Anh Dũng, đưa cả túi là không đúng phải không ạ...?* |
 

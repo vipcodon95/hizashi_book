@@ -1,4 +1,4 @@
-# Rule 33 — Tránh culture clash VN-JP / 文化衝突の回避
+# Rule 33 — Tránh xung đột văn hóa VN-JP / 文化衝突の回避
 
 > **Luận điểm.** 3 thói quen Việt Nam xung đột thẳng với kiểu Nhật khi tiếp khách: **(1) "Em tự rót cho em" → kiểu Nhật phải rót cho nhau (相互ケア), (2) "Để em trả" với người mời → mất thể diện người mời, (3) "Đáp lễ quà ngay" → tín hiệu "tôi nợ" tạo gánh nặng**. Đúng cách = nhường, hẹn lần sau mình mời lại / đáp lễ ở dịp khác.
 >

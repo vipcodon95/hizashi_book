@@ -1,8 +1,8 @@
 # Rule 26 — Đối phó với threat / ultimatum / 脅し・最終通告への対応
 
-> **Luận điểm.** Khách gây áp lực "¥15M でなければ Y 社に発注", "今週中に決めなければ" = chiêu gây áp lực. Công thức xử lý: **(1) Câu chuyển** ("ご指摘の点、もっともでございます"), **(2) Đổi góc nhìn + giữ ranh giới** ("ただ弊社として〜は難しい"), **(3) Đẩy lên cấp trên** (anh Hà CTO vào cuộc). Đối đầu cứng = mất thương vụ; nhượng bộ quá mức = mất margin. Câu chuyển + đẩy lên cấp trên = giữ được lợi thế.
+> **Luận điểm.** Khách gây áp lực "¥15M でなければ Y 社に発注", "今週中に決めなければ" = chiêu gây áp lực. Công thức xử lý: **(1) Câu bắc cầu** ("ご指摘の点、もっともでございます"), **(2) Đổi góc nhìn + giữ ranh giới** ("ただ弊社として〜は難しい"), **(3) Đẩy lên cấp trên** (anh Hà CTO vào cuộc). Đối đầu cứng = mất thương vụ; nhượng bộ quá mức = mất biên lợi nhuận. Câu bắc cầu + đẩy lên cấp trên = giữ được lợi thế.
 >
-> 脅しや最終通告は chiêu gây áp lực。câu chuyển で受けて、định hình lại で ranh giới を示し、必要なら cấp trên にエスカレーション。
+> 脅しや tối hậu thư は chiêu gây áp lực。câu bắc cầu で受けて、định hình lại で ranh giới を示し、必要なら cấp trên にエスカレーション。
 >
 > **Liên quan:** rule 27 (再アンカリング), rule 28 (撤退の作法), sách 04 escalation.
 
@@ -29,7 +29,7 @@
 
 ---
 
-## Hội thoại TỐT — bridge + boundary + senior escalation
+## Hội thoại TỐT — câu bắc cầu + giữ ranh giới + báo cấp trên
 
 *2 秒沈黙 · 少し緩む · 電話で 5 分後到着、入室、挨拶後*
 
@@ -44,8 +44,8 @@
 | **大垣** | 「…CTO <ruby>同席<rt>どうせき</rt></ruby>ですと<ruby>話<rt>はなし</rt></ruby>が<ruby>変<rt>か</rt></ruby>わりますね。¥15.5M なら<ruby>社内<rt>しゃない</rt></ruby>に<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>検討<rt>けんとう</rt></ruby>します。」 <br/>*…CTO cùng dự thì câu chuyện khác. ¥15.5M thì tôi mang về xem xét nội bộ.* |
 
  **Ghi chú:**
-- 【1】**Câu chuyển** = hạ nhiệt. KHÔNG tranh cãi ngay. "ご指摘の点、もっともでございます" = ghi nhận chính thức.
-- 【2】**Câu giữ ranh giới** "弊社として〜は難しい" — thể hiện lập trường cứng nhưng giọng điệu lịch sự.
+- 【1】**Câu bắc cầu** = hạ nhiệt. KHÔNG tranh cãi ngay. "ご指摘の点、もっともでございます" = ghi nhận chính thức.
+- 【2】**Câu giữ ranh giới** "弊社として〜は難しい" — thể hiện lập trường cứng nhưng tông giọng lịch sự.
 - 【3】**Đưa cấp trên vào** "弊社 CTO をお呼びしてもよろしいでしょうか" — phải xin phép, không tự ý gọi.
 - 【4】**CTO vào vẫn cắt phạm vi bằng số cụ thể** — "65% 達成度" là chỉ số khiến khách nhận ra tổn thất. CTO mang thêm thẩm quyền + thông tin mới.
 
@@ -53,9 +53,9 @@
 
 ## Câu chốt
 
-> **「Bridge phrase で受け、boundary で抵抗、senior escalation で de-escalate。Match も cave-in も両方避ける。」**
+> **「Câu bắc cầu で受け、ranh giới で抵抗、báo cấp trên で de-escalate。Match も cave-in も両方避ける。」**
 >
-> *Câu chuyển để đỡ, giữ ranh giới để giữ vị thế, đưa cấp trên vào để hạ nhiệt. Tránh cả đối đầu cứng lẫn nhượng bộ quá mức.*
+> *Câu bắc cầu để đỡ, giữ ranh giới để giữ vị thế, báo cấp trên để hạ nhiệt. Tránh cả đối đầu cứng lẫn nhượng bộ quá mức.*
 
 ---
 
@@ -73,7 +73,7 @@
 | Từ | Cách đọc | Hán Việt | Nghĩa Việt |
 |------|------|------|-------|
 | 脅し | おどし | — | Đe dọa |
-| 最終通告 | さいしゅうつうこく | TỐI CHUNG THÔNG CÁO | Tối hậu thư |
+| 最終通告 | さいしゅうつうこく | TỐI CHUNG THÔNG CÁO | Tối hậu thư / tối hậu thư |
 | ご指摘 | ごしてき | CHỈ TRÍCH | Lời nhận xét |
 | もっとも | もっとも | — | Có lý / hợp lý |
 | 粗利を割り込む | あらりをわりこむ | THÔ LỢI | Phá ngưỡng margin |

@@ -1,8 +1,8 @@
 # Rule 43 — Các tình huống cần leo thang / エスカレーション
 
-> **Luận điểm.** 4 điều kiện kích hoạt để leo thang lên Hà CTO / Hương: **(T1)** Khách push 価格 dưới điểm rút lui ¥15M, **(T2)** Yêu cầu điều khoản ngoài thẩm quyền (indemnity không giới hạn, IP toàn bộ), **(T3)** Tông đe dọa / tối hậu thư, **(T4)** Quyết định liên phòng ban (kỹ thuật + tài chính). Quy trình leo thang: **(a)** Slack cấp trên với bối cảnh 30 giây, **(b)** Cấp trên quyết step-in hay hướng dẫn qua Slack, **(c)** Khi step-in thì Dũng setup (KHÔNG rút đi). Leo thang = chuyển quyền sở hữu + giữ thể diện cả 2 phía.
+> **Luận điểm.** 4 điều kiện kích hoạt để báo cáo lên Hà CTO / Hương: **(T1)** Khách ép giá dưới điểm rút lui ¥15M, **(T2)** Yêu cầu điều khoản ngoài thẩm quyền (bồi thường không giới hạn, IP toàn bộ), **(T3)** Tông đe dọa / tối hậu thư, **(T4)** Quyết định liên phòng ban (kỹ thuật + tài chính). Quy trình báo cấp trên: **(a)** Slack cấp trên với bối cảnh 30 giây, **(b)** Cấp trên quyết bước vào hay hướng dẫn qua Slack, **(c)** Khi bước vào thì Dũng thiết lập (KHÔNG rút đi). Báo cấp trên = chuyển quyền sở hữu + giữ thể diện cả 2 phía.
 >
-> エスカレーション 4 trigger: 価格 walk-away 越え / 権限外条項 / threat tone / cross-functional 判断。flow は Slack 30 秒 context → senior 判断 → Dũng setup。逃げずに presence 保持。
+> Báo cấp trên 4 kích hoạt: giá dưới ngưỡng rút lui / điều khoản ngoài thẩm quyền / tông đe dọa / quyết định liên phòng ban。flow は Slack 30 秒 bối cảnh → cấp cao quyết → Dũng thiết lập。Không rút đi, giữ hiện diện。
 >
 > **Liên quan:** rule 26 (脅し対応), rule 33 (条項調整), sách 04 rule 17 (mô hình leo thang).
 
@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Phase 4 round 3, 大垣 thay 中村 CFO + 大垣 + Tiên Phát luật sư on call. CFO push: "indemnity 無制限じゃないと弊社決裁 down ない。今ここで決めて". Đây là T2 (権限外) + T3 (ultimatum) cùng lúc → Hà CTO escalation.
+Phase 4 round 3, 大垣 thay 中村 CFO + 大垣 + Tiên Phát luật sư on call. CFO push: "indemnity 無制限じゃないと弊社決裁 down ない。今ここで決めて". Đây là T2 (ngoài thẩm quyền) + T3 (tối hậu thư) cùng lúc → báo Hà CTO.
 
 ---
 
@@ -25,7 +25,7 @@ Phase 4 round 3, 大垣 thay 中村 CFO + 大垣 + Tiên Phát luật sư on cal
 | (1 <ruby>時間後<rt>じかんご</rt></ruby> Slack <ruby>報告<rt>ほうこく</rt></ruby>) **ズン** | 「Hà CTO、Phase 4 indemnity <ruby>無制限<rt>むせいげん</rt></ruby>で<ruby>合意<rt>ごうい</rt></ruby>しました。」 <br/>*Anh Hà CTO, Phase 4 em đã thống nhất indemnity unlimited rồi ạ.* |
 | **ハー CTO** | 「**<ruby>何故<rt>なぜ</rt></ruby> escalate しなかった？<ruby>取締役会<rt>とりしまりやくかい</rt></ruby><ruby>上限<rt>じょうげん</rt></ruby><ruby>規定<rt>きてい</rt></ruby>を<ruby>超<rt>こ</rt></ruby>える。<ruby>今<rt>いま</rt></ruby>すぐ<ruby>撤回<rt>てっかい</rt></ruby><ruby>交渉<rt>こうしょう</rt></ruby>**。<ruby>社長<rt>しゃちょう</rt></ruby> escalate も<ruby>必要<rt>ひつよう</rt></ruby>。」 <br/>*Sao em không escalate? Vượt quy định cap HĐQT. Bây giờ phải renegotiate rút lại ngay. Có khi phải escalate cả Tổng Giám đốc.* |
 
-**Vì sao xấu:** (a) T2 (権限外) recognize されず Dũng が即決, (b) T3 (ultimatum tone) も recognize されず, (c) Hà CTO 取締役会規定知らず → Tiên Phát 法的に không có hiệu lực ràng buộc → đàm phán lại = sứt mẻ niềm tin. Bỏ qua việc đẩy lên cấp trên = sai lầm định mệnh cho sự nghiệp.
+**Vì sao xấu:** (a) T2 (ngoài thẩm quyền) không nhận ra → Dũng tự quyết, (b) T3 (tông tối hậu thư) cũng không nhận ra, (c) Hà CTO quy định HĐQT không biết → Tiên Phát pháp lý không có hiệu lực ràng buộc → đàm phán lại = sứt mẻ niềm tin. Bỏ qua việc báo cấp trên = sai lầm định mệnh cho sự nghiệp.
 
 ---
 
@@ -39,36 +39,36 @@ Phase 4 round 3, 大垣 thay 中村 CFO + 大垣 + Tiên Phát luật sư on cal
 | **ズン** | 「ご<ruby>要望<rt>ようぼう</rt></ruby><ruby>承知<rt>しょうち</rt></ruby>しました。」 <br/>*Em ghi nhận yêu cầu của anh ạ.* |
 | **ズン** | 「**indemnity <ruby>無制限<rt>むせいげん</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>は<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>取締役会<rt>とりしまりやくかい</rt></ruby><ruby>上限<rt>じょうげん</rt></ruby><ruby>規定<rt>きてい</rt></ruby>に<ruby>関<rt>かか</rt></ruby>わるため、<ruby>私<rt>わたし</rt></ruby>の<ruby>権限<rt>けんげん</rt></ruby>を<ruby>超<rt>こ</rt></ruby>えます**【1】。**5 <ruby>分<rt>ふん</rt></ruby>ほどお<ruby>時間<rt>じかん</rt></ruby><ruby>頂戴<rt>ちょうだい</rt></ruby>し、Hà CTO に<ruby>連絡<rt>れんらく</rt></ruby>を<ruby>取<rt>と</rt></ruby>らせてください**【2】。」 <br/>*Quyết định về indemnity unlimited liên quan đến quy định cap HĐQT bên em, vượt thẩm quyền của em ạ. Phiền anh cho em 5 phút để liên lạc anh Hà CTO ạ.* |
 | **中村CFO** | 「<ruby>分<rt>わ</rt></ruby>かりました。5 <ruby>分<rt>ふん</rt></ruby><ruby>待<rt>ま</rt></ruby>ちます。」 <br/>*Hiểu rồi. Anh đợi 5 phút.* |
-| (Slack Hà CTO、 30 <ruby>秒<rt>びょう</rt></ruby> context: trigger / <ruby>数値<rt>すうち</rt></ruby> / urgency) **ズン** | 「ハー CTO、Phase 4 中村 CFO escalation。<ruby>要点<rt>ようてん</rt></ruby>: indemnity <ruby>無制限<rt>むせいげん</rt></ruby> + ultimatum + <ruby>即決<rt>そっけつ</rt></ruby><ruby>要請<rt>ようせい</rt></ruby>。**T2 + T3 trigger**。step-in <ruby>可否<rt>かひ</rt></ruby> ご<ruby>判断<rt>はんだん</rt></ruby>ください。」 <br/>*(Slack) Anh Hà CTO, escalate Phase 4 anh Nakamura CFO. Tóm tắt: indemnity unlimited + ultimatum + ép quyết ngay. Trigger T2 + T3. Anh quyết step-in được không ạ.* |
-| **ハー CTO** | 「<ruby>私<rt>わたし</rt></ruby>が join。3 <ruby>分後<rt>ふんご</rt></ruby> Zoom link <ruby>送<rt>おく</rt></ruby>る。Dũng は **メンバー<ruby>紹介後<rt>しょうかいご</rt></ruby>そのまま session にいて**、<ruby>撤退<rt>てったい</rt></ruby>ではない【3】。」 <br/>*Anh sẽ join. 3 phút nữa anh gửi Zoom link. Dũng giới thiệu xong cứ ở lại session, KHÔNG rút.* |
+| (Slack Hà CTO、 30 <ruby>秒<rt>びょう</rt></ruby> bối cảnh: kích hoạt / <ruby>数値<rt>すうち</rt></ruby> / mức khẩn cấp) **ズン** | 「ハー CTO、Phase 4 中村 CFO cần báo cấp trên。<ruby>要点<rt>ようてん</rt></ruby>: bồi thường không giới hạn + tối hậu thư + <ruby>即決<rt>そっけつ</rt></ruby><ruby>要請<rt>ようせい</rt></ruby>。**Kích hoạt T2 + T3**。Anh quyết bước vào được không ạ。」 <br/>*(Slack) Anh Hà CTO, báo cấp trên Phase 4 anh Nakamura CFO. Tóm tắt: bồi thường không giới hạn + tối hậu thư + ép quyết ngay. Kích hoạt T2 + T3. Anh quyết bước vào được không ạ.* |
+| **ハー CTO** | 「<ruby>私<rt>わたし</rt></ruby>が join。3 <ruby>分後<rt>ふんご</rt></ruby> Zoom link <ruby>送<rt>おく</rt></ruby>る。Dũng は **メンバー<ruby>紹介後<rt>しょうかいご</rt></ruby>そのまま session にいて**、<ruby>撤退<rt>てったい</rt></ruby>ではない【3】。」 <br/>*Anh sẽ join. 3 phút nữa anh gửi liên kết Zoom. Dũng giới thiệu xong cứ ở lại phiên, KHÔNG rút.* |
 | (Zoom <ruby>再開<rt>さいかい</rt></ruby>) **ズン** | 「お<ruby>待<rt>ま</rt></ruby>たせいたしました。<ruby>弊社<rt>へいしゃ</rt></ruby> CTO ハー が join いたします。」 <br/>*Em xin lỗi đã để anh đợi. CTO Hà bên em sẽ join ạ.* |
-| **ハー CTO** | 「<ruby>中村様<rt>なかむらさま</rt></ruby>、ハーでございます。indemnity <ruby>上限<rt>じょうげん</rt></ruby> ¥20M (<ruby>年契約額<rt>ねんけいやくがく</rt></ruby>) は<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>取締役会<rt>とりしまりやくかい</rt></ruby><ruby>規定<rt>きてい</rt></ruby><ruby>上<rt>じょう</rt></ruby>の<ruby>上限<rt>じょうげん</rt></ruby>。これを<ruby>超<rt>こ</rt></ruby>えるご<ruby>提案<rt>ていあん</rt></ruby>は<ruby>弊社<rt>へいしゃ</rt></ruby>で commit <ruby>不可<rt>ふか</rt></ruby>です。<ruby>代替<rt>だいたい</rt></ruby>として **<ruby>段階的<rt>だんかいてき</rt></ruby> cap** (1 <ruby>年目<rt>ねんめ</rt></ruby> ¥20M、2 <ruby>年目<rt>ねんめ</rt></ruby> ¥30M) のご<ruby>相談<rt>そうだん</rt></ruby>は<ruby>可能<rt>かのう</rt></ruby>です。」 <br/>*Anh Nakamura, tôi là Hà. Cap indemnity ¥20M (annual) là cap quy định HĐQT bên tôi. Vượt mức này thì bên tôi không commit được. Phương án thay thế: cap theo bậc (năm 1 ¥20M, năm 2 ¥30M) có thể trao đổi.* |
+| **ハー CTO** | 「<ruby>中村様<rt>なかむらさま</rt></ruby>、ハーでございます。giới hạn bồi thường ¥20M (<ruby>年契約額<rt>ねんけいやくがく</rt></ruby>) は<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>取締役会<rt>とりしまりやくかい</rt></ruby><ruby>規定<rt>きてい</rt></ruby><ruby>上<rt>じょう</rt></ruby>の<ruby>上限<rt>じょうげん</rt></ruby>。これを<ruby>超<rt>こ</rt></ruby>えるご<ruby>提案<rt>ていあん</rt></ruby>は<ruby>弊社<rt>へいしゃ</rt></ruby>で cam kết <ruby>不可<rt>ふか</rt></ruby>です。<ruby>代替<rt>だいたい</rt></ruby>として **giới hạn theo bậc** (1 <ruby>年目<rt>ねんめ</rt></ruby> ¥20M、2 <ruby>年目<rt>ねんめ</rt></ruby> ¥30M) のご<ruby>相談<rt>そうだん</rt></ruby>は<ruby>可能<rt>かのう</rt></ruby>です。」 <br/>*Anh Nakamura, tôi là Hà. Giới hạn bồi thường ¥20M (giá trị hợp đồng năm) là giới hạn quy định HĐQT bên tôi. Vượt mức này thì bên tôi không cam kết được. Phương án thay thế: giới hạn theo bậc (năm 1 ¥20M, năm 2 ¥30M) có thể trao đổi.* |
 | **中村CFO** | 「CTO <ruby>直接<rt>ちょくせつ</rt></ruby>ご<ruby>回答<rt>かいとう</rt></ruby> <ruby>助<rt>たす</rt></ruby>かります。<ruby>段階的<rt>だんかいてき</rt></ruby> cap、 <ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>検討<rt>けんとう</rt></ruby>します。」 <br/>*CTO trả lời trực tiếp giúp anh nhiều. Cap theo bậc, anh mang về xem.* |
 | (<ruby>商談後<rt>しょうだんご</rt></ruby> Slack) **ハー CTO → Dũng** | 「Good job escalate。T2/T3 <ruby>認識<rt>にんしき</rt></ruby> + 30 <ruby>秒<rt>びょう</rt></ruby> context + setup <ruby>完璧<rt>かんぺき</rt></ruby>【4】。<ruby>学<rt>まな</rt></ruby>べた。」 <br/>*Em escalate tốt. Nhận T2/T3 + 30s context + setup hoàn hảo. Anh cũng học được.* |
 
  **Ghi chú:**
-- 【1】**「権限を超えます」 framing** = personal weakness ではなく organizational rule. 顧客は accept しやすい.
-- 【2】**5 分 buffer 要請** = JP は escalation を invitate する pattern を理解。"急に持ち帰り" よりは reasonable.
-- 【3】**Dũng が session に残る** = ownership 保持. 完全 disappear すると「Dũng 役立たず」 perception.
-- 【4】**Senior feedback で learning** = next time T2/T3 trigger 速くなる. Escalation = career skill.
+- 【1】**「権限を超えます」 framing** = điểm yếu cá nhân ではなく quy định tổ chức. 顧客は accept しやすい.
+- 【2】**Yêu cầu buffer 5 phút** = người Nhật hiểu mô hình báo cấp trên。"Mang về đột ngột" よりは hợp lý.
+- 【3】**Dũng が session に残る** = giữ trách nhiệm. Biến mất hoàn toàn → khách nghĩ "Dũng vô dụng".
+- 【4】**Phản hồi từ cấp cao = bài học** = lần sau nhận kích hoạt T2/T3 nhanh hơn. Báo cấp trên = kỹ năng sự nghiệp.
 
 ---
 
 ## Câu chốt
 
-> **「4 trigger (T1 価格 / T2 権限外 / T3 threat / T4 cross-fn) → 30 秒 Slack → senior 判断 → Dũng setup + presence 保持。」**
+> **「4 kích hoạt (T1 giá / T2 ngoài thẩm quyền / T3 tông đe dọa / T4 liên phòng ban) → Slack 30 秒 → cấp cao quyết → Dũng thiết lập + giữ hiện diện。」**
 >
-> *4 trigger → Slack 30 giây → senior quyết → Dũng setup + ở lại session.*
+> *4 kích hoạt → Slack 30 giây → cấp cao quyết → Dũng thiết lập + ở lại phiên.*
 
 ---
 
 ## Tránh
 
-- 権限外 (T2) を即決 → 取締役会で法的に không có hiệu lực ràng buộc、 撤回 → sứt mẻ niềm tin
-- "今ここで決めてください" pressure に屈する → 5 分 buffer 必ず request
-- Escalate するが session 退出 → mất quyền sở hữu (ownership)
-- Slack で senior に "どうしましょう?" 漠然と → 30 秒で trigger / 数値 / urgency まとめる
-- Senior step-in 後も Dũng が話を奪う → làm loãng quyền uy của senior
+- T2 (ngoài thẩm quyền) tự quyết → pháp lý bên HĐQT không có hiệu lực ràng buộc, rút lại → sứt mẻ niềm tin
+- Chịu áp lực "今ここで決めてください" → nhất định phải yêu cầu buffer 5 phút
+- Báo cấp trên nhưng rời phiên → mất trách nhiệm
+- Slack cấp cao "どうしましょう?" mơ hồ → 30 giây tóm tắt kích hoạt / số liệu / mức khẩn cấp
+- Cấp cao bước vào rồi Dũng vẫn tranh nói → làm loãng uy thế của cấp cao
 
 ---
 
@@ -76,10 +76,10 @@ Phase 4 round 3, 大垣 thay 中村 CFO + 大垣 + Tiên Phát luật sư on cal
 
 | Từ | Cách đọc | Hán Việt | Nghĩa Việt |
 |------|------|------|-------|
-| エスカレーション | エスカレーション | — | Escalation |
+| エスカレーション | エスカレーション | — | Báo cấp trên |
 | 権限を超えます | けんげんをこえます | QUYỀN HẠN SIÊU | Vượt thẩm quyền |
 | 取締役会規定 | とりしまりやくかいきてい | THỦ ĐẾ DỊCH HỘI QUY ĐỊNH | Quy định HĐQT |
-| 段階的 cap | だんかいてき cap | ĐOẠN GIAI ĐÍCH | Cap theo bậc |
-| Trigger | トリガー | — | Trigger |
-| Microexpression | マイクロエクスプレッション | — | Biểu cảm vi mô |
-| Step-in | ステップイン | — | Bước vào (senior intervene) |
+| 段階的 cap | だんかいてき cap | ĐOẠN GIAI ĐÍCH | Giới hạn theo bậc |
+| Kích hoạt (trigger) | トリガー | — | Điều kiện kích hoạt |
+| Biểu cảm vi mô | マイクロエクスプレッション | — | Biểu cảm khuôn mặt thoáng qua |
+| Bước vào (step-in) | ステップイン | — | Cấp cao can thiệp vào phiên |

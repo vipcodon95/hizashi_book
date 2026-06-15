@@ -14,7 +14,7 @@ Cuối bài thuyết trình Phase 3 cho 大垣 + 松本 + 田中. Dũng vừa k�
 
 ---
 
-## Hội thoại XẤU — cụt + lấp silence
+## Hội thoại XẤU — cụt + lấp khoảng lặng
 
 *slide cuối · 2秒沈黙 · 後で松本に小声*
 

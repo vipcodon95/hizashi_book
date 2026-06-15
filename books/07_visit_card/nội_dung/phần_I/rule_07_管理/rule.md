@@ -1,6 +1,6 @@
 # Rule 07 — Lưu trữ sau cuộc gặp / 名刺管理
 
-> **Luận điểm.** Trong **24 giờ** sau cuộc gặp: (1) Nhập CRM kèm bối cảnh (ngày/sự kiện/chủ đề) (2) Dán ghi chú bối cảnh ("ai giới thiệu", "chủ đề họ quan tâm", "việc tiếp theo nào") (3) Scan + lưu đám mây (4) Gửi email tiếp theo kèm liên kết nội dung. Không nhập trong 24h = quên 70% bối cảnh = chết tài sản mạng lưới quan hệ.
+> **Luận điểm.** Trong **24 giờ** sau cuộc gặp: (1) Nhập CRM kèm bối cảnh (ngày/sự kiện/chủ đề) (2) Dán ghi chú bối cảnh ("ai giới thiệu", "chủ đề họ quan tâm", "việc tiếp theo nào") (3) Quét (lưu) đám mây (4) Gửi email tiếp theo kèm liên kết nội dung. Không nhập trong 24h = quên 70% bối cảnh = chết tài sản mạng lưới quan hệ.
 >
 > 名刺は『24時間以内に CRM 入力 + 文脈メモ + クラウドスキャン + フォローアップ送信』。24時間超えで文脈70%消失。
 >
@@ -10,13 +10,13 @@
 
 ## Bối cảnh / 場面
 
-Tối cùng ngày event 大垣 + 松本 + 中村 visit, Dũng yêu cầu Linh xử lý 6 danh thiếp đã nhận (3 cấp trên 白鷗 + 3 thành viên khác trong đoàn). Hạn chót: trước 23:00 cùng ngày → gửi mail cảm ơn sáng hôm sau.
+Tối cùng ngày sự kiện 大垣 + 松本 + 中村 đến thăm, Dũng yêu cầu Linh xử lý 6 danh thiếp đã nhận (3 cấp trên 白鷗 + 3 thành viên khác trong đoàn). Hạn chót: trước 23:00 cùng ngày → gửi mail cảm ơn sáng hôm sau.
 
 ---
 
 ## Hội thoại XẤU — chậm + thiếu ngữ cảnh
 
-*3 ngày sau event*
+*3 ngày sau sự kiện*
 
 | Vai | Câu |
 |---------|-----|
@@ -30,21 +30,21 @@ Tối cùng ngày event 大垣 + 松本 + 中村 visit, Dũng yêu cầu Linh x�
 
 ---
 
-## Hội thoại TỐT — 24h + memo bối cảnh
+## Hội thoại TỐT — 24h + ghi chú bối cảnh
 
-*20:00 tối cùng ngày event*
+*20:00 tối cùng ngày sự kiện*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「リンさん、6<ruby>枚<rt>まい</rt></ruby><ruby>名刺<rt>めいし</rt></ruby>の<ruby>処理<rt>しょり</rt></ruby>プラン<ruby>共有<rt>きょうゆう</rt></ruby>して。」 <br/>*Linh, em chia sẻ plan xử lý 6 danh thiếp đi.* |
-| **リン** | 「① CRM <ruby>入力<rt>にゅうりょく</rt></ruby>: <ruby>今夜中<rt>こんやじゅう</rt></ruby>【1】 ② <ruby>文脈<rt>ぶんみゃく</rt></ruby>メモ: <ruby>各人<rt>かくじん</rt></ruby> 1 <ruby>行<rt>ぎょう</rt></ruby>【2】 ③ Cloud スキャン: Google Drive <ruby>共有<rt>きょうゆう</rt></ruby>フォルダ ④ Follow-up: <ruby>明朝<rt>みょうちょう</rt></ruby> 9:00 ズン<ruby>先輩<rt>せんぱい</rt></ruby><ruby>経由<rt>けいゆ</rt></ruby><ruby>送信<rt>そうしん</rt></ruby>。」 <br/>*① Nhập CRM: tối nay xong. ② Ghi chú ngữ cảnh: 1 dòng/người. ③ Scan đám mây: folder Google Drive chung. ④ Gửi email tiếp theo: sáng mai 9:00 gửi qua anh Dũng.* |
-| **ズン** | 「<ruby>中村<rt>なかむら</rt></ruby>CFO のメモは？」 <br/>*Memo cho Nakamura CFO thế nào?* |
+| **ズン** | 「リンさん、6<ruby>枚<rt>まい</rt></ruby><ruby>名刺<rt>めいし</rt></ruby>の<ruby>処理<rt>しょり</rt></ruby>プラン<ruby>共有<rt>きょうゆう</rt></ruby>して。」 <br/>*Linh, em chia sẻ kế hoạch xử lý 6 danh thiếp đi.* |
+| **リン** | 「① CRM <ruby>入力<rt>にゅうりょく</rt></ruby>: <ruby>今夜中<rt>こんやじゅう</rt></ruby>【1】 ② <ruby>文脈<rt>ぶんみゃく</rt></ruby>メモ: <ruby>各人<rt>かくじん</rt></ruby> 1 <ruby>行<rt>ぎょう</rt></ruby>【2】 ③ Cloud スキャン: Google Drive <ruby>共有<rt>きょうゆう</rt></ruby>フォルダ ④ Follow-up: <ruby>明朝<rt>みょうちょう</rt></ruby> 9:00 ズン<ruby>先輩<rt>せんぱい</rt></ruby><ruby>経由<rt>けいゆ</rt></ruby><ruby>送信<rt>そうしん</rt></ruby>。」 <br/>*① Nhập CRM: tối nay xong. ② Ghi chú ngữ cảnh: 1 dòng/người. ③ Quét lưu đám mây: folder Google Drive chung. ④ Gửi email tiếp theo: sáng mai 9:00 gửi qua anh Dũng.* |
+| **ズン** | 「<ruby>中村<rt>なかむら</rt></ruby>CFO のメモは？」 <br/>*Ghi chú cho Nakamura CFO thế nào?* |
 | **リン** | 「**『Phase 4 <ruby>予算<rt>よさん</rt></ruby><ruby>上限<rt>じょうげん</rt></ruby>を 1,500<ruby>万円<rt>まんえん</rt></ruby>で<ruby>気<rt>き</rt></ruby>にしている。Q3 <ruby>決算後<rt>けっさんご</rt></ruby>に<ruby>再検討<rt>さいけんとう</rt></ruby>と<ruby>発言<rt>はつげん</rt></ruby>』**【3】 — これでいいですか？」 <br/>*'Phase 4 quan tâm trần budget 15 triệu yên. Phát biểu sẽ xem xét lại sau quyết toán Q3' — vậy được chưa anh?* |
-| **ズン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。トゥアン<ruby>先輩<rt>せんぱい</rt></ruby>・フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>にも<ruby>共有<rt>きょうゆう</rt></ruby>して。<ruby>明朝<rt>みょうちょう</rt></ruby>のお<ruby>礼<rt>れい</rt></ruby>メールにこの context <ruby>入<rt>い</rt></ruby>れる。」 <br/>*Hoàn hảo. Em chia sẻ cho cả anh Tuấn + chị Hương phó phòng. Mail cảm ơn sáng mai sẽ nhét ngữ cảnh này vào.* |
+| **ズン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。トゥアン<ruby>先輩<rt>せんぱい</rt></ruby>・フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>にも<ruby>共有<rt>きょうゆう</rt></ruby>して。<ruby>明朝<rt>みょうちょう</rt></ruby>のお<ruby>礼<rt>れい</rt></ruby>メールにこの context <ruby>入<rt>い</rt></ruby>れる。」 <br/>*Hoàn hảo. Em chia sẻ cho cả anh Tuấn + chị Hương phó phòng. Mail cảm ơn sáng mai sẽ nhét bối cảnh này vào.* |
 
  **Ghi chú:**
 - 【1】**24時間ルール** — não người quên 70% bối cảnh sau 24h. Nhập trong cùng ngày = giữ chi tiết. Sau 3 ngày = chỉ còn chung chung.
-- 【2】**Memo bối cảnh 1 dòng/người** — không cần dài. Công thức: "chủ đề họ quan tâm + câu nói đặc trưng họ nói + việc tiếp theo nào". Đủ để 6 tháng sau gặp lại = nhớ ngay bối cảnh.
+- 【2】**Ghi chú bối cảnh 1 dòng/người** — không cần dài. Công thức: "chủ đề họ quan tâm + câu nói đặc trưng họ nói + việc tiếp theo nào". Đủ để 6 tháng sau gặp lại = nhớ ngay bối cảnh.
 - 【3】**Câu trích dẫn cụ thể** — "Phase 4 予算上限 1,500万円 で気にしている" >> "Phase 4 quan tâm" — câu cụ thể giúp email tiếp theo dẫn lại đúng = chứng minh "tôi nghe và nhớ".
 
 ---
@@ -53,18 +53,18 @@ Tối cùng ngày event 大垣 + 松本 + 中村 visit, Dũng yêu cầu Linh x�
 
 > **「名刺は24時間以内に『CRM入力・文脈メモ1行・スキャン・フォロー送信』を完了させる。」**
 >
-> *Trong 24h: nhập CRM / ghi chú bối cảnh 1 dòng / scan / gửi email tiếp theo.*
+> *Trong 24h: nhập CRM / ghi chú bối cảnh 1 dòng / quét (lưu) / gửi email tiếp theo.*
 
 ---
 
 ## Tránh
 
 - **Để 1 tuần** rồi mới nhập → bối cảnh bay 70%
-- Memo **chỉ tên + chức vụ** (đã có trên danh thiếp) → memo phải là **BỐI CẢNH** (họ nói gì, quan tâm gì)
-- **Không scan cloud** → mất danh thiếp = mất hết
+- Ghi chú **chỉ tên + chức vụ** (đã có trên danh thiếp) → ghi chú phải là **BỐI CẢNH** (họ nói gì, quan tâm gì)
+- **Không quét lưu đám mây** → mất danh thiếp = mất hết
 - **Không chia sẻ cho nhóm** → cấp trên không biết bạn đã trao đổi danh thiếp với ai = liên hệ trùng người gây mất mặt
 - Email tiếp theo **sáo rỗng** ("Cảm ơn anh hôm trước") → dẫn lại cụ thể câu trích dẫn / chủ đề họ nói
-- Viết memo lên **chính danh thiếp** → KHÔNG bao giờ. Memo trong CRM hoặc sổ riêng.
+- Viết ghi chú lên **chính danh thiếp** → KHÔNG bao giờ. Ghi chú trong CRM hoặc sổ riêng.
 
 ---
 

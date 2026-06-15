@@ -30,7 +30,7 @@ Sau khi nhận danh thiếp Ōgaki (rule 02), Dũng tự giới thiệu và trao
 
 ---
 
-## Hội thoại TỐT — 2 tay, mặt JP, full giới thiệu
+## Hội thoại TỐT — 2 tay, mặt JP, giới thiệu đầy đủ
 
 *2 tay cầm danh thiếp ở 2 góc dưới, mặt JP hướng về Ōgaki, cúi chào 15° · 2 tay đỡ · giữ tư thế cúi nhẹ thêm 1 nhịp rồi đứng thẳng*
 
