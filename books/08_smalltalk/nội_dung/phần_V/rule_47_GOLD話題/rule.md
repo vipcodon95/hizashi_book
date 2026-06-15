@@ -1,26 +1,26 @@
-# Rule 47 — Topic GOLD (an toàn 100%) / 安全話題TOP10
+# Rule 47 — Chủ đề VÀNG (an toàn 100%) / 安全話題TOP10
 
-> **Luận điểm.** 10 topic an toàn 100% với khách Nhật — bất kỳ thế hệ, vùng miền, mức thân quen. Khi bạn **bị mất ý** trong 雑談, **rút 1 trong 10** này để cứu cơ. Mỗi topic có **1 câu mở chuẩn** + **2-3 follow-up** để đào sâu.
-
----
-
-## 🧠 Tâm lý JP (3 dòng)
-
-- Khách JP cảm thấy **thoải mái** khi mình mở topic an toàn — không cần tự lo "có đụng nhạy cảm không".
-- Topic GOLD = **đường mòn** ai cũng đi được — nhưng đào sâu thì vẫn rất sâu sắc.
-- 90% buổi 雑談 senior thành công đến từ **10 topic GOLD** này, không phải từ xu hướng Reiwa mới.
+> **Luận điểm.** 10 chủ đề an toàn 100% với khách Nhật — bất kỳ thế hệ, vùng miền, mức thân quen. Khi bạn **bị mất ý** trong 雑談, **rút 1 trong 10** này để cứu cơ. Mỗi chủ đề có **1 câu mở chuẩn** + **2-3 câu đào sâu** để khai thác.
 
 ---
 
-## 🎬 Bối cảnh
+## Tâm lý JP (3 dòng)
+
+- Khách JP cảm thấy **thoải mái** khi mình mở chủ đề an toàn — không cần tự lo "có đụng nhạy cảm không".
+- Chủ đề VÀNG = **đường mòn** ai cũng đi được — nhưng đào sâu thì vẫn rất sâu sắc.
+- 90% buổi 雑談 senior thành công đến từ **10 chủ đề VÀNG** này, không phải từ xu hướng Reiwa mới.
+
+---
+
+## Bối cảnh
 
 Tham khảo. 1 scenario chính + 1 scenario "khi không biết nói gì" để gỡ tình huống.
 
 ---
 
-## 📋 BẢNG VÀNG — 10 TOPIC GOLD
+## BẢNG VÀNG — 10 CHỦ ĐỀ VÀNG
 
-| # | Topic | Câu mở chuẩn | Follow-up |
+| # | Chủ đề | Câu mở chuẩn | Câu đào sâu |
 |---|-------|--------------|-----------|
 | 1 | **天気・季節** | 「今朝は冷えますね/蒸し暑いですね。」 | "[地名]はもう[花/紅葉]の季節ですか?" / "今年の梅雨入り、早そうですね" / "週末はお出かけ日和ですね" |
 | 2 | **食(món địa phương)** | 「[地名]に行ったら、何食べたらいいですか?」 | "[地名]の[名物]、本場で食べてみたいです" / "おすすめのお店ありますか?" / "酒のあてには何が合いますか?" |
@@ -35,11 +35,11 @@ Tham khảo. 1 scenario chính + 1 scenario "khi không biết nói gì" để g
 
 ---
 
-## 💬 2 Scenarios — dialogue thực chiến
+## 2 Scenarios — dialogue thực chiến
 
-### 📍 Scenario 1 — Đào sâu 1 topic GOLD: 出身地
+### Scenario 1 — Đào sâu 1 chủ đề VÀNG: 出身地
 
-*taxi với Hiroshi-san · follow-up #1 · rạng rỡ*
+*taxi với Hiroshi-san · câu đào sâu #1 · rạng rỡ*
 
 | Vai | Câu |
 |---------|-----|
@@ -56,13 +56,13 @@ Tham khảo. 1 scenario chính + 1 scenario "khi không biết nói gì" để g
 | **広島** | 「マツダスタジアム、年に5-6回は行く。今度ズンも来い、<ruby>案内<rt>あんない</rt></ruby>するわ!」 |
 |  | *Mazda Stadium năm 5-6 lần. Lần sau Dũng đi cùng anh nhé, tôi dẫn!* |
 
-> **VN:** 1 topic GOLD (出身地) + 3 follow-up đúng khuôn mẫu → khách mời dẫn đi xem trận. **Đó là sức mạnh của topic GOLD đào sâu.**
+> **VN:** 1 chủ đề VÀNG (出身地) + 3 câu đào sâu đúng khuôn mẫu → khách mời dẫn đi xem trận. **Đó là sức mạnh của chủ đề VÀNG đào sâu.**
 
 ---
 
-### 📍 Scenario 2 — Gỡ tình huống khi mất ý: 4 topic GOLD nhanh
+### Scenario 2 — Gỡ tình huống khi mất ý: 4 chủ đề VÀNG nhanh
 
-*Dũng + Sato (60t senior, lần đầu chính thức) trong hành lang đợi họp 5 phút · im lặng khó xử — cần mở topic ngay, rút #1 thời tiết · chuyển sang #2 食 · khách sáng mắt · chuyển sang #6 sport · 他のメンバー到着、自然に商談モードへ*
+*Dũng + Sato (60t senior, lần đầu chính thức) trong hành lang đợi họp 5 phút · im lặng khó xử — cần mở chủ đề ngay, rút #1 thời tiết · chuyển sang #2 食 · khách sáng mắt · chuyển sang #6 thể thao · 他のメンバー到着、自然に商談モードへ*
 
 | Vai | Câu |
 |---------|-----|
@@ -80,11 +80,11 @@ Tham khảo. 1 scenario chính + 1 scenario "khi không biết nói gì" để g
 |  | *Đương nhiên! Năm nay có cơ. Em đến PayPay Dome chưa?* |
 | **ズン** | 「まだないんです。一度行ってみたいです。」 |
 |  | *Em chưa ạ. Một lần em muốn đi.* |
-📝 **Công thức gỡ tình huống:** Khi mất ý → topic #1 thời tiết → chuyển sang #2 食 → chuyển sang #6 sport → 5 phút trôi qua tự nhiên. **3 topic GOLD = 5 phút đầy đủ.**
+ **Công thức gỡ tình huống:** Khi mất ý → chủ đề #1 thời tiết → chuyển sang #2 食 → chuyển sang #6 thể thao → 5 phút trôi qua tự nhiên. **3 chủ đề VÀNG = 5 phút đầy đủ.**
 
 ---
 
-## 🎯 Câu vàng copy-paste (10 câu mở)
+## Câu vàng copy-paste (10 câu mở)
 
 ```
 1. 「今朝は冷えますね/蒸し暑いですね。」(thời tiết)
@@ -92,7 +92,7 @@ Tham khảo. 1 scenario chính + 1 scenario "khi không biết nói gì" để g
 3. 「[地名]のお酒、何かお勧めありますか?」(酒)
 4. 「[Tên]さん、ご出身どちらでしたっけ?」(quê)
 5. 「お休みの日は何をされていますか?」(hobby)
-6. 「[Sport team], 今シーズン調子どうですか?」(sport)
+6. 「[Đội thể thao], 今シーズン調子どうですか?」(thể thao)
 7. 「最近どこか行かれましたか?」(du lịch)
 8. 「もうすぐ[花見/紅葉/正月]ですね。」(seasonal)
 9. 「お子さん、お元気ですか?」(family — chỉ senior thân)
@@ -101,34 +101,34 @@ Tham khảo. 1 scenario chính + 1 scenario "khi không biết nói gì" để g
 
 ---
 
-## ⚠ NG khi dùng GOLD topic
+## NG khi dùng chủ đề VÀNG
 
 - Dùng #9 (お子さん) hoặc #10 (健康) với khách **chưa thân** → quá riêng tư.
-- Lặp lại **cùng 1 topic** với cùng khách 3 lần liên tiếp → "không nhớ đã hỏi rồi".
-- Hỏi follow-up **bị bỏ trống** (khách đáp ngắn + không hào hứng) → đổi sang topic khác ngay.
-- Hỏi follow-up **quá riêng tư** mà chưa đủ thân (sức khỏe, gia đình) → bị xem là tò mò thái quá.
+- Lặp lại **cùng 1 chủ đề** với cùng khách 3 lần liên tiếp → "không nhớ đã hỏi rồi".
+- Hỏi câu đào sâu **bị bỏ trống** (khách đáp ngắn + không hào hứng) → đổi sang chủ đề khác ngay.
+- Hỏi câu đào sâu **quá riêng tư** mà chưa đủ thân (sức khỏe, gia đình) → bị xem là tò mò thái quá.
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 地名 | ちめい | Tên địa phương |
-| 名物 | めいぶつ | Đặc sản |
-| 地酒 | じざけ | Sake địa phương |
-| 故郷 | こきょう | Quê hương |
-| 鉄人 | てつじん | "Người sắt" (vd: 衣笠 baseball legend) |
-| お変わりなく | おかわりなく | "Vẫn khỏe như cũ" |
-| 楽しんでらっしゃる | たのしんでらっしゃる | "Đang vui vẻ" (kính ngữ) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 地名 | ちめい | ĐỊA DANH | Tên địa phương |
+| 名物 | めいぶつ | DANH VẬT | Đặc sản |
+| 地酒 | じざけ | ĐỊA TỬU | Sake địa phương |
+| 故郷 | こきょう | CỐ HƯƠNG | Quê hương |
+| 鉄人 | てつじん | THIẾT NHÂN | "Người sắt" (vd: 衣笠 baseball legend) |
+| お変わりなく | おかわりなく | — | "Vẫn khỏe như cũ" |
+| 楽しんでらっしゃる | たのしんでらっしゃる | — | "Đang vui vẻ" (kính ngữ) |
 
 ---
 
-## 🎓 BJT
+## BJT
 
-**J3 — 場面把握:** Chọn 1 topic GOLD phù hợp với khách trong 5 giây.
-**J2 — 表現読解:** Phân biệt câu mở với câu follow-up — độ sâu khác nhau.
-**J1 — 発言聴解:** Bắt được sự hào hứng của khách = giữ nguyên topic. Bắt được phản hồi nhạt = đổi topic ngay.
+**J3 — 場面把握:** Chọn 1 chủ đề VÀNG phù hợp với khách trong 5 giây.
+**J2 — 表現読解:** Phân biệt câu mở với câu đào sâu — độ sâu khác nhau.
+**J1 — 発言聴解:** Bắt được sự hào hứng của khách = giữ nguyên chủ đề. Bắt được phản hồi nhạt = đổi chủ đề ngay.
 
 ---
 

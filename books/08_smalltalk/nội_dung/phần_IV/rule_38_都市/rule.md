@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - JP du lịch chuẩn bị kỹ — đa số đã đọc Lonely Planet / るるぶ trước. Bạn cần khác sách hướng dẫn.
 - "Đặc trưng 1 câu mỗi thành phố" = khuôn mẫu JP rất thích (vì vậy sách hướng dẫn mới bán chạy).
@@ -14,15 +14,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 6/2026, bữa tối ở Tokyo. Matsumoto đi cùng vợ HN-HCM-Đà Nẵng-Hội An 7 ngày tháng 9. Yamamoto (Osaka) định đi riêng 3 ngày, tập trung ẩm thực. Sato (khách lớn tuổi) chỉ 1 ngày quá cảnh ở HCM. 3 đối tượng khác nhau → Dũng phải gợi ý cho khớp.
 
 ---
 
-## 💬 4 Scenario — hội thoại thực chiến
+## 4 Scenario — hội thoại thực chiến
 
-### 📍 Scenario 1 — Hà Nội (cho khách lớn tuổi + cặp đôi)
+### Scenario 1 — Hà Nội (cho khách lớn tuổi + cặp đôi)
 
 | Vai | Câu |
 |---------|-----|
@@ -43,11 +43,11 @@ Tháng 6/2026, bữa tối ở Tokyo. Matsumoto đi cùng vợ HN-HCM-Đà Nẵn
 | **ズン** | 「あります、**当時のテーブル保存**して<ruby>観光名所<rt>かんこうめいしょ</rt></ruby>化してます(笑)。**観光客5割、地元5割**でちょうどいいリアル感。」 |
 |  | *Còn ạ, bàn năm đó được giữ lại làm điểm du lịch (cười). Du khách 50% local 50%, vừa đủ thật.* |
 
-📝 **Câu giới thiệu 1 dòng cho HN:** "歩く街、ベトナム1000年の都"。
+ **Câu giới thiệu 1 dòng cho HN:** "歩く街、ベトナム1000年の都"。
 
 ---
 
-### 📍 Scenario 2 — TP HCM (cho blogger ẩm thực Yamamoto)
+### Scenario 2 — TP HCM (cho blogger ẩm thực Yamamoto)
 
 | Vai | Câu |
 |---------|-----|
@@ -68,11 +68,11 @@ Tháng 6/2026, bữa tối ở Tokyo. Matsumoto đi cùng vợ HN-HCM-Đà Nẵn
 | **ズン** | 「**The Workshop**(specialty coffee<ruby>聖地<rt>せいち</rt></ruby>)、**Cafe Apartment(Block 42 Nguyen Hue)**(1棟全部カフェ・古いアパート)、**Vietcetera Café**(<ruby>若手<rt>わかて</rt></ruby>アーティスト集まる)。あと**Saigon Saigon Bar**でルーフトップ、<ruby>教会<rt>きょうかい</rt></ruby>と<ruby>市役所<rt>しやくしょ</rt></ruby>が<ruby>見渡せ<rt>みわたせ</rt></ruby>ます。」 |
 |  | *The Workshop (specialty), Cafe Apartment 42 Nguyễn Huệ (cả tòa nhà cafe), Vietcetera Café (nghệ sĩ trẻ tụ tập). Rooftop thì Saigon Saigon Bar, view nhà thờ + UBND.* |
 
-📝 **Câu giới thiệu 1 dòng cho HCM:** "路上が食堂、夜は屋上が酒場"。
+ **Câu giới thiệu 1 dòng cho HCM:** "路上が食堂、夜は屋上が酒場"。
 
 ---
 
-### 📍 Scenario 3 — Đà Nẵng + Hội An (cho chuyến đi của cặp đôi)
+### Scenario 3 — Đà Nẵng + Hội An (cho chuyến đi của cặp đôi)
 
 | Vai | Câu |
 |---------|-----|
@@ -93,11 +93,11 @@ Tháng 6/2026, bữa tối ở Tokyo. Matsumoto đi cùng vợ HN-HCM-Đà Nẵn
 | **ズン** | 「夜のランタン+<ruby>水路<rt>すいろ</rt></ruby>の光が一番美しいので、**朝<ruby>早出<rt>はやで</rt></ruby>**じゃなく**夕方着ホイアン泊**がベスト。」 |
 |  | *Đèn lồng + sông đêm đẹp nhất, nên check-in chiều ngủ HA thay vì đi sớm.* |
 
-📝 **Câu 1 dòng cho ĐN:** "発展する近代ビーチ都市"。 **Câu 1 dòng cho HA:** "夜のランタンの世界遺産"。
+ **Câu 1 dòng cho ĐN:** "発展する近代ビーチ都市"。 **Câu 1 dòng cho HA:** "夜のランタンの世界遺産"。
 
 ---
 
-### 📍 Scenario 4 — Khách lớn tuổi 1 ngày quá cảnh HCM (Sato 60t)
+### Scenario 4 — Khách lớn tuổi 1 ngày quá cảnh HCM (Sato 60t)
 
 | Vai | Câu |
 |---------|-----|
@@ -116,11 +116,11 @@ Tháng 6/2026, bữa tối ở Tokyo. Matsumoto đi cùng vợ HN-HCM-Đà Nẵn
 | **佐藤** | 「歴史とつながるバーね、それは<ruby>粋<rt>いき</rt></ruby>やね。任せた、行ってみる。」 |
 |  | *Bar gắn với lịch sử nhỉ, chất đó. Anh tin em, sẽ đi.* |
 
-📝 **Khách lớn tuổi chỉ 1 ngày:** Bám sát lịch sử + ăn uống cao cấp (KHÔNG khu vui đêm trẻ trung Bùi Viện).
+ **Khách lớn tuổi chỉ 1 ngày:** Bám sát lịch sử + ăn uống cao cấp (KHÔNG khu vui đêm trẻ trung Bùi Viện).
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ HÀ NỘI (1-line):
@@ -138,14 +138,14 @@ Tháng 6/2026, bữa tối ở Tokyo. Matsumoto đi cùng vợ HN-HCM-Đà Nẵn
 「Mì Quảng、黄金橋、ミーケビーチのサンライズが定番。」
 「ホイアンは夜が本番、夕方着ホイアン泊がベスト。」
 
-■ SENIOR 1 NGÀY HCM:
+■ NGƯỜI CẤP CAO 1 NGÀY HCM:
 「統一会堂・戦争証跡博物館・大聖堂・中央郵便局を午前。」
 「Sài Gòn Saigon Bar(Caravelle屋上)はシニアに最適、歴史も。」
 ```
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - Gợi ý **phố Bùi Viện** cho khách lớn tuổi 60t → quá ồn / khu vui đêm không phù hợp.
 - Gợi ý 戦争証跡博物館 mà KHÔNG giải thích trước → khách bất ngờ.
@@ -155,25 +155,25 @@ Tháng 6/2026, bữa tối ở Tokyo. Matsumoto đi cùng vợ HN-HCM-Đà Nẵn
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 旧市街 | きゅうしがい | Phố cổ |
-| 水上人形劇 | すいじょうにんぎょうげき | Múa rối nước |
-| ミシュランガイド | — | Michelin Guide |
-| 世界遺産 | せかいいさん | Di sản thế giới (Hội An, Mỹ Sơn) |
-| ランタン | — | Đèn lồng (Hội An signature) |
-| ルーフトップバー | — | Rooftop bar |
-| 統一会堂 | とういつかいどう | Dinh Thống Nhất |
-| 戦争証跡博物館 | せんそうしょうせきはくぶつかん | Bảo tàng Chứng tích Chiến tranh |
-| 中央郵便局 | ちゅうおうゆうびんきょく | Bưu điện Trung tâm |
-| サンライズ | — | Bình minh |
-| 灯篭流し | とうろうながし | Thả đèn (Hội An sông Hoài) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 旧市街 | きゅうしがい | CỰU THỊ NHAI | Phố cổ |
+| 水上人形劇 | すいじょうにんぎょうげき | THỦY THƯỢNG NHÂN HÌNH KỊCH | Múa rối nước |
+| ミシュランガイド | ミシュランガイド | — | Michelin Guide |
+| 世界遺産 | せかいいさん | THẾ GIỚI DI SẢN | Di sản thế giới (Hội An, Mỹ Sơn) |
+| ランタン | ランタン | — | Đèn lồng (Hội An signature) |
+| ルーフトップバー | ルーフトップバー | — | Rooftop bar |
+| 統一会堂 | とういつかいどう | THỐNG NHẤT HỘI ĐƯỜNG | Dinh Thống Nhất |
+| 戦争証跡博物館 | せんそうしょうせきはくぶつかん | CHIẾN TRANH CHỨNG TÍCH BÁC VẬT QUÁN | Bảo tàng Chứng tích Chiến tranh |
+| 中央郵便局 | ちゅうおうゆうびんきょく | TRUNG ƯƠNG BƯU TIỆN CỤC | Bưu điện Trung tâm |
+| サンライズ | サンライズ | — | Bình minh |
+| 灯篭流し | とうろうながし | ĐĂNG LUNG | Thả đèn (Hội An sông Hoài) |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Khớp gợi ý theo đối tượng: khách lớn tuổi mê lịch sử / khách trẻ mê cuộc vui về đêm / cặp đôi mê văn hóa / blogger mê ẩm thực.
 **J2 — 表現読解:** Phân biệt khi tư vấn "重い" (戦争博物館) — khách JP cần được cảnh báo trước.

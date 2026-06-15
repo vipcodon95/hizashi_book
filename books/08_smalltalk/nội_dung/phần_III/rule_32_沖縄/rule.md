@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Tâm lý JP
+## Tâm lý JP
 
 - 「**なんくるないさー**」 (= "なんとかなる" / "rồi sẽ ổn") — tư duy không căng thẳng.
 - 「**沖縄時間**」: chậm, không trễ là vấn đề. Người đại lục đến Okinawa **phải hạ nhịp**.
@@ -16,15 +16,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 2/2027, Dũng được mời sang **văn phòng 那覇** Hakuō để giao lưu với anh **Kobayashi** (người gốc Okinawa, 沖縄出張担当). Nói rằng "Đến Okinawa thì phải ăn bữa Ryūkyū đầy đủ rồi tham quan 首里城." Lịch: 国際通り → 沖縄料理 ら **ゆうなんぎい** → 三線 ライブ → sáng 首里城 + 美ら海水族館.
 
 ---
 
-## 💬 4 Scenarios
+## 4 Scenarios
 
-### 📍 Scenario 1 — 那覇空港 — ハイサイ + 沖縄時間
+### Scenario 1 — 那覇空港 — ハイサイ + 沖縄時間
 
 *nhịp chậm, mỉm cười · 目が輝く*
 
@@ -49,7 +49,7 @@ Tháng 2/2027, Dũng được mời sang **văn phòng 那覇** Hakuō để gia
 
 ---
 
-### 📍 Scenario 2 — ゆうなんぎい — 沖縄料理 trọn mâm
+### Scenario 2 — ゆうなんぎい — 沖縄料理 trọn mâm
 
 *thực đơn · 感心 · sức*
 
@@ -78,7 +78,7 @@ Tháng 2/2027, Dũng được mời sang **văn phòng 那覇** Hakuō để gia
 
 ---
 
-### 📍 Scenario 3 — 三線 ライブ — 琉球音楽
+### Scenario 3 — 三線 ライブ — 琉球音楽
 
 *quán có 三線 sống · 誇らしげ*
 
@@ -107,7 +107,7 @@ Tháng 2/2027, Dũng được mời sang **văn phòng 那覇** Hakuō để gia
 
 ---
 
-### 📍 Scenario 4 — 首里城 + 美ら海水族館 + 平和 nhắc đến
+### Scenario 4 — 首里城 + 美ら海水族館 + 平和 nhắc đến
 
 *首里城公園 · 感動 · 沈黙数秒*
 
@@ -136,7 +136,7 @@ Tháng 2/2027, Dũng được mời sang **văn phòng 那覇** Hakuō để gia
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ MỞ CHỦ ĐỀ OKINAWA:
@@ -171,7 +171,7 @@ Tháng 2/2027, Dũng được mời sang **văn phòng 那覇** Hakuō để gia
 
 ---
 
-## 🗾 Sổ tay vùng miền — 沖縄
+## Sổ tay vùng miền — 沖縄
 
 | Hạng mục | Nội dung |
 |----------|----------|
@@ -192,7 +192,7 @@ Tháng 2/2027, Dũng được mời sang **văn phòng 那覇** Hakuō để gia
 
 ---
 
-## ⚠ NG
+## NG
 
 - **Hối thúc tiến độ** ở Okinawa → bị xem là "本土ペース", thiếu tôn trọng.
 - Hỏi **米軍基地** thẳng → chủ đề phức tạp, chỉ nói khi khách mở.
@@ -204,38 +204,38 @@ Tháng 2/2027, Dũng được mời sang **văn phòng 那覇** Hakuō để gia
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| ゴーヤチャンプル | — | Đồ xào mướp đắng |
-| ソーキそば | — | Mì sườn heo Okinawa |
-| 沖縄そば | おきなわそば | Mì 100% lúa mì |
-| ラフテー | — | Ba chỉ heo kho |
-| ミミガー | — | Tai heo |
-| てびち | — | Chân heo |
-| 海ぶどう | うみぶどう | Nho biển |
-| 泡盛 | あわもり | Rượu Okinawa 600 năm |
-| 古酒 | クース | Awamori ủ ≥3 năm |
-| 三線 | さんしん | Đàn 3 dây da rắn |
-| シーサー | — | Sư tử thần Okinawa |
-| 首里城 | しゅりじょう | Lâu đài Ryūkyū UNESCO |
-| 琉球王国 | りゅうきゅうおうこく | Vương quốc 1429-1879 |
-| 美ら海水族館 | ちゅらうみすいぞくかん | Aquarium |
-| ハイサイ | — | "Xin chào" (nam) |
-| ハイタイ | — | "Xin chào" (nữ) |
-| めんそ〜れ | — | "Welcome" |
-| なんくるないさー | — | "Rồi sẽ ổn" |
-| ゆいまーる | — | Tinh thần giúp đỡ |
-| 沖縄時間 | おきなわじかん | Nhịp chậm |
-| カチャーシー | — | Vũ điệu kết thúc |
-| ちゅら | — | "Đẹp" Okinawa |
-| 慰霊の日 | いれいのひ | 6/23 ngày tưởng niệm |
-| ひめゆりの塔 | ひめゆりのとう | Đài tưởng niệm |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| ゴーヤチャンプル | ゴーヤチャンプル | — | Đồ xào mướp đắng |
+| ソーキそば | ソーキそば | — | Mì sườn heo Okinawa |
+| 沖縄そば | おきなわそば | XUNG THẰNG — | Mì 100% lúa mì |
+| ラフテー | ラフテー | — | Ba chỉ heo kho |
+| ミミガー | ミミガー | — | Tai heo |
+| てびち | てびち | — | Chân heo |
+| 海ぶどう | うみぶどう | HẢI — | Nho biển |
+| 泡盛 | あわもり | BÀO THỊNH | Rượu Okinawa 600 năm |
+| 古酒 | クース | CỔ TỬU | Awamori ủ ≥3 năm |
+| 三線 | さんしん | TAM TUYẾN | Đàn 3 dây da rắn |
+| シーサー | シーサー | — | Sư tử thần Okinawa |
+| 首里城 | しゅりじょう | THỦ LÝ THÀNH | Lâu đài Ryūkyū UNESCO |
+| 琉球王国 | りゅうきゅうおうこく | LƯU CẦU VƯƠNG QUỐC | Vương quốc 1429-1879 |
+| 美ら海水族館 | ちゅらうみすいぞくかん | MỸ — HẢI THỦY TỘC QUÁN | Aquarium |
+| ハイサイ | ハイサイ | — | "Xin chào" (nam) |
+| ハイタイ | ハイタイ | — | "Xin chào" (nữ) |
+| めんそ〜れ | めんそ〜れ | — | "Welcome" |
+| なんくるないさー | なんくるないさー | — | "Rồi sẽ ổn" |
+| ゆいまーる | ゆいまーる | — | Tinh thần giúp đỡ |
+| 沖縄時間 | おきなわじかん | XUNG THẰNG THỜI GIAN | Nhịp chậm |
+| カチャーシー | カチャーシー | — | Vũ điệu kết thúc |
+| ちゅら | ちゅら | — | "Đẹp" Okinawa |
+| 慰霊の日 | いれいのひ | ÚY LINH — NHẬT | 6/23 ngày tưởng niệm |
+| ひめゆりの塔 | ひめゆりのとう | — THÁP | Đài tưởng niệm |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Khách Okinawa nói chậm + mỉm cười → mình **chậm lại**, không hối thúc.
 **J2 — 表現読解:** Tâm trạng "なんくるないさ〜" — phản hồi bằng "了解です、沖縄時間で" thay vì lên lịch cứng.

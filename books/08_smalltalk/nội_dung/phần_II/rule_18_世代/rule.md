@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - Thế hệ JP đo bằng **元号** (niên hiệu 元号 thay vì năm dương lịch).
 - 50-60t = 昭和世代, **hoài niệm** về 1970-80s tuổi thơ + バブル経済 1986-1991.
@@ -13,15 +13,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Dũng phải xoay chủ đề tham chiếu theo từng đối tác: Sato 60t (hoài niệm Showa), Hiroshi 50t (バブル), Tanaka 35t (平成 game/anime), Linh 22t (令和). Mỗi thế hệ có chủ đề văn hóa quen thuộc hoàn toàn khác.
 
 ---
 
-## 💬 4 Scenarios — hội thoại thực chiến
+## 4 Scenarios — hội thoại thực chiến
 
-### 📍 Scenario 1 — Hoài niệm Showa (Sato 60t)
+### Scenario 1 — Hoài niệm Showa (Sato 60t)
 
 *bàn tiệc tối, bên ly rượu · rạng rỡ · 感動*
 
@@ -44,13 +44,13 @@ Dũng phải xoay chủ đề tham chiếu theo từng đối tác: Sato 60t (ho
 | **ズン** | 「ぜひ!**<ruby>北島三郎<rt>きたじまさぶろう</rt></ruby>**まで行ったら<ruby>本物<rt>ほんもの</rt></ruby>ですね。」 |
 |  | *Vâng! Vào đến Kitajima Saburō là dân thứ thiệt nhỉ.* |
 
-📝【1】 **昭和** = 1926-1989. 【2】 **山口百恵** = thần tượng Showa 70-80s, giải nghệ năm 21t. 【3】 **夜のヒットスタジオ** = chương trình âm nhạc Showa. 【4】 **松田聖子** = thần tượng đỉnh cao cuối Showa. 【5】 **中森明菜** = thần tượng phong cách ngầu. 【6】 **ピンクレディー** = bộ đôi nhảy thập niên 70. 【7】 **ザ・ブルーハーツ** = nhạc punk rock cuối Showa. 【8】 **長渕剛** = nhạc ballad thập niên 80.
+【1】 **昭和** = 1926-1989. 【2】 **山口百恵** = thần tượng Showa 70-80s, giải nghệ năm 21t. 【3】 **夜のヒットスタジオ** = chương trình âm nhạc Showa. 【4】 **松田聖子** = thần tượng đỉnh cao cuối Showa. 【5】 **中森明菜** = thần tượng phong cách ngầu. 【6】 **ピンクレディー** = bộ đôi nhảy thập niên 70. 【7】 **ザ・ブルーハーツ** = nhạc punk rock cuối Showa. 【8】 **長渕剛** = nhạc ballad thập niên 80.
 
 > **VN:** Chủ đề Showa: **山口百恵 / 松田聖子 / 中森明菜 / ピンクレディー / 美空ひばり / ザ・ブルーハーツ / 長渕剛 / 北島三郎 / X JAPAN / 寺尾聰**. Người lớn tuổi 60t rất khoái khi gặp người Việt biết.
 
 ---
 
-### 📍 Scenario 2 — バブル世代 (Hiroshi 50t)
+### Scenario 2 — バブル世代 (Hiroshi 50t)
 
 *bàn tiệc tối, ngắm cảnh · hoài niệm · cảm phục*
 
@@ -73,13 +73,13 @@ Dũng phải xoay chủ đề tham chiếu theo từng đối tác: Sato 60t (ho
 | **ズン** | 「**サザン**は**TSUNAMI**から入りました。**ユーミン**も少しずつ。」 |
 |  | *Southern em bắt đầu từ TSUNAMI. Yuming cũng đang nghe dần.* |
 
-📝【1】 **バブル** = 1986-1991. 【2】 **ジュリアナ東京** = vũ trường huyền thoại. 【3】 **ボディコン** = body con (váy bó sát). 【4】 **ディスコ** = vũ trường disco. 【5】 **お立ち台** = bục nhảy nổi. 【6】 **フジテレビ** = kênh truyền hình. 【7】 **月9** = phim chiếu 9 giờ tối thứ 2. 【8】 **東京ラブストーリー** = phim truyền hình 1991. 【9】 **101回目のプロポーズ** = phim truyền hình 1991. 【10】 **サザンオールスターズ** = ban nhạc quốc dân. 【11】 **ユーミン** = Matsutoya Yumi, huyền thoại ballad.
+【1】 **バブル** = 1986-1991. 【2】 **ジュリアナ東京** = vũ trường huyền thoại. 【3】 **ボディコン** = body con (váy bó sát). 【4】 **ディスコ** = vũ trường disco. 【5】 **お立ち台** = bục nhảy nổi. 【6】 **フジテレビ** = kênh truyền hình. 【7】 **月9** = phim chiếu 9 giờ tối thứ 2. 【8】 **東京ラブストーリー** = phim truyền hình 1991. 【9】 **101回目のプロポーズ** = phim truyền hình 1991. 【10】 **サザンオールスターズ** = ban nhạc quốc dân. 【11】 **ユーミン** = Matsutoya Yumi, huyền thoại ballad.
 
 > **VN:** Chủ đề バブル: **ジュリアナ / ディスコ / 月9 / 東京ラブストーリー / フジテレビ / サザン / ユーミン / チャゲアス / 山手線土地神話**. Hiroshi 50t cực kỳ hoài niệm.
 
 ---
 
-### 📍 Scenario 3 — 平成 (Tanaka 35t — game/anime)
+### Scenario 3 — 平成 (Tanaka 35t — game/anime)
 
 *Slack, gửi meme Pokemon*
 
@@ -102,13 +102,13 @@ Dũng phải xoay chủ đề tham chiếu theo từng đối tác: Sato 60t (ho
 | **ズン** | 「**スラムダンク**、最近の<ruby>映画<rt>えいが</rt></ruby>**The First Slam Dunk**で<ruby>再<rt>さい</rt></ruby>ブームですよね。」 |
 |  | *Slam Dunk gần đây có phim The First Slam Dunk làm lại trend nhỉ.* |
 
-📝【1】 **ポケモンSV** = Pokémon Scarlet/Violet (2022). 【2】 **DLC** = nội dung tải thêm. 【3】 **赤緑** = Pokémon đầu tiên (1996). 【4】 **ゲームボーイ** = máy Gameboy. 【5】 = Pokemon đầu tiên 151 con. 【6】 **金銀** = Pokémon Gold/Silver (1999). 【7】 **エヴァ** = Evangelion. 【8】 **碇シンジ** = nhân vật chính.
+【1】 **ポケモンSV** = Pokémon Scarlet/Violet (2022). 【2】 **DLC** = nội dung tải thêm. 【3】 **赤緑** = Pokémon đầu tiên (1996). 【4】 **ゲームボーイ** = máy Gameboy. 【5】 = Pokemon đầu tiên 151 con. 【6】 **金銀** = Pokémon Gold/Silver (1999). 【7】 **エヴァ** = Evangelion. 【8】 **碇シンジ** = nhân vật chính.
 
 > **VN:** Chủ đề 平成: **ポケモン / エヴァ / ドラゴンボール / スラムダンク / 幽遊白書 / セーラームーン / 千と千尋 / X JAPAN / B'z / Mr.Children**. Khách 30-40t = hợp.
 
 ---
 
-### 📍 Scenario 4 — 令和 / Z世代 (Linh 22t với Tanaka)
+### Scenario 4 — 令和 / Z世代 (Linh 22t với Tanaka)
 
 *Zoom, thân mật · cười*
 
@@ -131,13 +131,13 @@ Dũng phải xoay chủ đề tham chiếu theo từng đối tác: Sato 60t (ho
 | **田中** | 「俺はFacebook+LINEだから、もう<ruby>違<rt>ちが</rt></ruby>う<ruby>星<rt>ほし</rt></ruby>だね。」 |
 |  | *Anh thì Facebook + LINE, đúng là hành tinh khác rồi.* |
 
-📝【1】 **推し** = oshi (thần tượng/nhân vật yêu thích). 【2】 **Vtuber** = Virtual YouTuber. 【3】 **ホロライブ** = công ty Vtuber lớn. 【4】 **白上フブキ** = nhân vật Vtuber. 【5】 **スパチャ** = Super Chat (ủng hộ tiền). 【6】 **Z世代** = Gen Z. 【7】 **踊ってみた** = video "thử nhảy theo". 【8】 **NewJeans** = nhóm nhạc K-pop. 【9】 = Instagram chính.
+【1】 **推し** = oshi (thần tượng/nhân vật yêu thích). 【2】 **Vtuber** = Virtual YouTuber. 【3】 **ホロライブ** = công ty Vtuber lớn. 【4】 **白上フブキ** = nhân vật Vtuber. 【5】 **スパチャ** = Super Chat (ủng hộ tiền). 【6】 **Z世代** = Gen Z. 【7】 **踊ってみた** = video "thử nhảy theo". 【8】 **NewJeans** = nhóm nhạc K-pop. 【9】 = Instagram chính.
 
 > **VN:** Chủ đề 令和 / Z世代: **推し / Vtuber / ホロライブ / TikTok / NewJeans / LE SSERAFIM / Spotify / Netflix / 配信**. Người lớn tuổi thường KHÔNG hiểu — không ép họ nói chủ đề này.
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ SHOWA (50-60t):
@@ -163,7 +163,7 @@ Dũng phải xoay chủ đề tham chiếu theo từng đối tác: Sato 60t (ho
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - Hỏi người lớn tuổi 60t về **TikTok / Vtuber / 推し** → trống không.
 - Hỏi 22t về **山口百恵 / バブル** → họ KHÔNG biết, lệch sóng khó xử.
@@ -173,31 +173,31 @@ Dũng phải xoay chủ đề tham chiếu theo từng đối tác: Sato 60t (ho
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 元号 | げんごう | Era name |
-| 昭和 | しょうわ | Showa (1926-1989) |
-| 平成 | へいせい | Heisei (1989-2019) |
-| 令和 | れいわ | Reiwa (2019-) |
-| バブル経済 | バブルけいざい | Bubble economy 1986-91 |
-| 失われた10年 | うしなわれたじゅうねん | Lost decade (1990s) |
-| デフレ | — | Deflation |
-| Z世代 | ゼットせだい | Gen Z |
-| 月9 | げつく | Drama 21:00 thứ 2 (Fuji TV) |
-| 推し | おし | Favourite idol/character |
-| 推し活 | おしかつ | Activity supporting oshi |
-| 配信 | はいしん | Streaming |
-| バーチャルYouTuber | — | Vtuber |
-| 古い | ふるい | Cũ |
-| ジェネレーションギャップ | — | Generation gap |
-| 死語 | しご | Từ "chết" (lỗi thời) |
-| 流行語 | りゅうこうご | Buzzword |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 元号 | げんごう | NGUYÊN HIỆU | Era name |
+| 昭和 | しょうわ | CHIÊU HOÀ | Showa (1926-1989) |
+| 平成 | へいせい | BÌNH THÀNH | Heisei (1989-2019) |
+| 令和 | れいわ | LỆNH HOÀ | Reiwa (2019-) |
+| バブル経済 | バブルけいざい | KINH TẾ | Bubble economy 1986-91 |
+| 失われた10年 | うしなわれたじゅうねん | THẤT / THẬP NIÊN | Lost decade (1990s) |
+| デフレ | デフレ | — | Deflation |
+| Z世代 | ゼットせだい | THẾ ĐẠI | Gen Z |
+| 月9 | げつく | NGUYỆT CỬU | Drama 21:00 thứ 2 (Fuji TV) |
+| 推し | おし | — | Favourite idol/character |
+| 推し活 | おしかつ | — | Activity supporting oshi |
+| 配信 | はいしん | PHỐI TÍN | Streaming |
+| バーチャルYouTuber | バーチャルYouTuber | — | Vtuber |
+| 古い | ふるい | CỔ | Cũ |
+| ジェネレーションギャップ | ジェネレーションギャップ | — | Generation gap |
+| 死語 | しご | TỬ NGỮ | Từ "chết" (lỗi thời) |
+| 流行語 | りゅうこうご | LƯU HÀNH NGỮ | Buzzword |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Khớp tuổi → niên hiệu + chủ đề tham chiếu. Người lớn tuổi 60t → hoài niệm Showa.
 **J2 — 表現読解:** Phân biệt "**昭和の人**" (hoài niệm) vs "**昭和的**" (cũ kỹ).

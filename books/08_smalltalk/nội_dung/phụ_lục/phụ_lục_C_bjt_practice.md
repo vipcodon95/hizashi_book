@@ -1,10 +1,10 @@
-# Phụ lục C — BJT Practice Tổng Hợp
+# Phụ lục C — BJT Bài Luyện Tổng Hợp
 
-*Tổng hợp practice từ 51 rules.*
+*Tổng hợp bài luyện từ 51 rules.*
 
 ---
 
-**Tổng: 153 câu practice.**
+**Tổng: 153 câu luyện.**
 
 ## Level J3 — 51 câu
 
@@ -16,7 +16,7 @@
 - D. 初対面で名刺交換の前
 
 **Đáp án:** A
-**Giải thích:** Sau họp đi cùng ra hành lang là cửa sổ vàng số 2. A = vùng cấm negotiation. C = chưa giao danh thiếp coi là suồng sã. D = khách đang bận tâm việc khác.
+**Giải thích:** Sau họp đi cùng ra hành lang là cửa sổ vàng số 2. A = vùng cấm đàm phán. C = chưa giao danh thiếp coi là suồng sã. D = khách đang bận tâm việc khác.
 
 **J3-02** *(Rule 08, 場面把握)*: 雑談で「8:2のルール」とは?
 
@@ -56,7 +56,7 @@
 - D. 質問 → 答える → 反論
 
 **Đáp án:** B
-**Giải thích:** Mirror (lặp keyword) → Summarize (tóm tắt) → Follow-up (đào sâu). 3 lớp chồng = 聞き上手.
+**Giải thích:** Lặp lại từ khóa → Tóm tắt → Hỏi sâu thêm. 3 lớp chồng = 聞き上手.
 
 **J3-06** *(Rule 08, 場面把握)*: 「ところで」と「そういえば」の違いとして正しいものは?
 
@@ -66,7 +66,7 @@
 - D. 同じ意味
 
 **Đáp án:** A
-**Giải thích:** ところで = formal break (không cần liên kết). そういえば = associative (có keyword chung).
+**Giải thích:** ところで = chuyển chủ đề trang trọng (không cần liên kết). そういえば = liên tưởng (có từ khóa chung).
 
 **J3-07** *(Rule 08, 場面把握)*: お客様が5秒間黙ってビールを飲んでいる時、最も適切な対応は?
 
@@ -76,7 +76,7 @@
 - D. お客様に質問する
 
 **Đáp án:** C
-**Giải thích:** Im lặng thoải mái = cùng im. Nhồi câu / xem điện thoại / hỏi = phá moment, mất điểm.
+**Giải thích:** Im lặng thoải mái = cùng im. Nhồi câu / xem điện thoại / hỏi = phá khoảnh khắc, mất điểm.
 
 **J3-08** *(Rule 08, 場面把握)*: 次のうち、絶対NG話題はどれですか?
 
@@ -86,7 +86,7 @@
 - D. 出身地
 
 **Đáp án:** A
-**Giải thích:** Lương = taboo lớn nhất ở JP. A/B/D đều OK ở các level phù hợp.
+**Giải thích:** Lương = chủ đề cấm kỵ lớn nhất ở JP. A/B/D đều OK ở các mức độ thân mật phù hợp.
 
 **J3-09** *(Rule 08, 場面把握)*: 中村CFO(札幌出身)に5月の雑談で最も適切な話題は?
 
@@ -106,7 +106,7 @@
 - D. さくらんぼ佐藤錦
 
 **Đáp án:** D
-**Giải thích:** 佐藤錦 = cherry king của Yamagata. A=Sendai, C=Fukushima, D=Aomori.
+**Giải thích:** 佐藤錦 = anh đào số 1 của Yamagata. A=Sendai, C=Fukushima, D=Aomori.
 
 **J3-11** *(Rule 08, 場面把握)*: 横浜出身のお客様に最も適切な野球話題は?
 
@@ -116,7 +116,7 @@
 - D. DeNAベイスターズ
 
 **Đáp án:** D
-**Giải thích:** Yokohama = DeNA ハマスタ. Match đúng vùng.
+**Giải thích:** Yokohama = DeNA ハマスタ. Ghép đúng vùng.
 
 **J3-12** *(Rule 08, 場面把握)*: 名古屋のお客様の典型的な意思決定スタイルは?
 
@@ -136,7 +136,7 @@
 - D. 横浜のシュウマイ
 
 **Đáp án:** C
-**Giải thích:** Hida specialty. A=Hokkaido, C=Aichi, D=Yokohama.
+**Giải thích:** Đặc sản Hida. A=Hokkaido, C=Aichi, D=Yokohama.
 
 **J3-14** *(Rule 08, 場面把握)*: 大阪のお客様が「今日は奥さんが綺麗やで!」と冗談で言った場合の理想的な反応は?
 
@@ -146,7 +146,7 @@
 - D. 「自分で言うんかい!」(つっこみ)
 
 **Đáp án:** D
-**Giải thích:** Osaka conversation = entertainment. つっこみ = active engagement.
+**Giải thích:** Hội thoại Osaka = giải trí. つっこみ = thể hiện nhiệt tình tham gia.
 
 **J3-15** *(Rule 08, 場面把握)*: 京都のお客様にお茶を出された時の最初の一言は?
 
@@ -156,7 +156,7 @@
 - D. 「ありがとう」
 
 **Đáp án:** A
-**Giải thích:** 「お点前頂戴いたします」 = nghi thức formal trà 道.
+**Giải thích:** 「お点前頂戴いたします」 = nghi thức trang trọng trong trà 道.
 
 **J3-16** *(Rule 08, 場面把握)*: 広島出身のお客様に「お好み焼」の話で最初に確認すべきは?
 
@@ -166,7 +166,7 @@
 - D. 嫌いですか?
 
 **Đáp án:** C
-**Giải thích:** 重ね焼き + そば派 = depth Hiroshima.
+**Giải thích:** 重ね焼き + そば派 = chiều sâu Hiroshima.
 
 **J3-17** *(Rule 08, 場面把握)*: 高知出身のお客様に最も自然な雑談話題は?
 
@@ -176,7 +176,7 @@
 - D. カツオの塩たたきと坂本龍馬
 
 **Đáp án:** D
-**Giải thích:** Kōchi specialty. A=Kagawa, B=Ehime, D=Tokushima.
+**Giải thích:** Đặc sản Kōchi. A=Kagawa, B=Ehime, D=Tokushima.
 
 **J3-18** *(Rule 08, 場面把握)*: 博多ラーメンで「替え玉お願いします、バリカタで」 と頼む状況は?
 
@@ -196,7 +196,7 @@
 - D. 引っ越したい
 
 **Đáp án:** A
-**Giải thích:** Sakurajima-san = thân thiện. Mindset đặc trưng Kagoshima.
+**Giải thích:** Sakurajima-san = thân thiện. Tư duy đặc trưng Kagoshima.
 
 **J3-20** *(Rule 08, 場面把握)*: 沖縄のお客様に「予定が押してます、急ぎましょう」と言うのは?
 
@@ -206,7 +206,7 @@
 - D. 関係なし
 
 **Đáp án:** C
-**Giải thích:** 沖縄時間 = relax pace. Hối thúc = thiếu tôn trọng văn hóa.
+**Giải thích:** 沖縄時間 = nhịp sống thư thái. Hối thúc = thiếu tôn trọng văn hóa.
 
 **J3-21** *(Rule 08, 場面把握)*: Memory bankの記録、最も理想的なタイミングは?
 
@@ -226,7 +226,7 @@
 - D. フォーの起源論争に詳しく入る
 
 **Đáp án:** A
-**Giải thích:** Mở bằng 'phở Bắc Nam khác nhau' → tạo điểm thú vị, mở conversation 20 phút. A nông; C nhạy cảm; D NG.
+**Giải thích:** Mở bằng 'phở Bắc Nam khác nhau' → tạo điểm thú vị, mở cuộc trò chuyện 20 phút. A nông; C nhạy cảm; D NG.
 
 **J3-23** *(Rule 08, 場面把握)*: 「2月の連休、何の祝日?」と聞かれた時、最も適切な説明の入り方は?
 
@@ -236,7 +236,7 @@
 - D. 「ベトナムの大事な祝日です」だけで終える
 
 **Đáp án:** C
-**Giải thích:** Mechanism + bridge với お盆+正月 → khách Nhật instant hiểu. C nhầm (Tết VN, không phải TQ). D vùng cấm.
+**Giải thích:** Giải thích cơ chế + bắc cầu với お盆+正月 → khách Nhật hiểu ngay. C nhầm (Tết VN, không phải TQ). D vùng cấm.
 
 **J3-24** *(Rule 08, 場面把握)*: 「ベトナムコーヒーってArabica?」と聞かれた時、最も適切な返答は?
 
@@ -246,7 +246,7 @@
 - D. 「日本のコーヒーの方が美味しい」と話題を逸らす
 
 **Đáp án:** A
-**Giải thích:** Phá định kiến robusta = industrial bằng fact #1 world + Fine Robusta. A sai (chủ yếu robusta); C củng cố định kiến; D né topic + so sánh negative.
+**Giải thích:** Phá định kiến robusta = thô bằng dữ kiện xuất khẩu #1 thế giới + Fine Robusta. A sai (chủ yếu robusta); C củng cố định kiến; D né chủ đề + so sánh tiêu cực.
 
 **J3-25** *(Rule 08, 場面把握)*: 「来年1月にハノイ出張、半袖でいいよね?」と聞かれたら最も適切な返答は?
 
@@ -266,7 +266,7 @@
 - D. ベンタイン市場朝食 / 3区ローカル / 1区カフェ+ルーフトップの3日構成
 
 **Đáp án:** D
-**Giải thích:** Phù hợp đối tượng food blogger = market + local + cafe trend. A dành senior; C nhầm city; D nightlife trẻ.
+**Giải thích:** Phù hợp đối tượng blogger ẩm thực = chợ + quán địa phương + xu hướng cà phê. A dành cấp cao; C nhầm thành phố; D khu ăn chơi về đêm dành giới trẻ.
 
 **J3-27** *(Rule 08, 場面把握)*: 「9月2日は何の祝日?」と聞かれた時、最も適切な返答は?
 
@@ -276,7 +276,7 @@
 - D. 「特に意味はないです」
 
 **Đáp án:** A
-**Giải thích:** Stick fact + 連休 + 帰省 + bridge SW. A vùng cấm chính trị; C né cứng nhắc; D nói dối.
+**Giải thích:** Bám vào sự kiện thực tế + 連休 + 帰省 + bắc cầu với tuần lễ vàng Nhật. A vùng cấm chính trị; C né cứng nhắc; D nói dối.
 
 **J3-28** *(Rule 08, 場面把握)*: ハノイ出張中の若手客が『居酒屋っぽいところある?』と言った時、最も適切な提案は?
 
@@ -286,7 +286,7 @@
 - D. ベトナム料理屋を提案
 
 **Đáp án:** C
-**Giải thích:** Match request casual + price-friendly. A formal quá; C nhầm topic; D không phải Nhật.
+**Giải thích:** Phù hợp yêu cầu thoải mái + giá hợp lý. A quá trang trọng; C nhầm chủ đề; D không phải Nhật.
 
 **J3-29** *(Rule 08, 場面把握)*: 60代senior夫婦に5日のVN旅行を提案する時、最も適切な構成は?
 
@@ -296,7 +296,7 @@
 - D. ハロン湾(船上泊)+ サパ夜行寝台 + ハノイ旧市街
 
 **Đáp án:** D
-**Giải thích:** Senior couple = scenic + experiential + comfort. A nightlife sai đối tượng; C beach + nightlife trẻ; D quá hẻo lánh cho người chưa quen.
+**Giải thích:** Cặp đôi lớn tuổi cần phong cảnh + trải nghiệm + tiện nghi. A nhầm đối tượng khu ăn chơi về đêm; C biển + khu ăn chơi về đêm dành giới trẻ; D quá hẻo lánh cho người chưa quen.
 
 **J3-30** *(Rule 08, 場面把握)*: 5名で居酒屋に座った直後、最若手として最も適切な行動は?
 
@@ -306,7 +306,7 @@
 - D. 黙って店員が来るのを待つ
 
 **Đáp án:** A
-**Giải thích:** Junior = order role, confirm 1 lần + pattern mặc định 'とりあえずビール' + mồi ngay. A self-focus; C miss role; D mất thời gian + 空気読めない.
+**Giải thích:** Nhân viên mới = vai trò gọi món, xác nhận 1 lần + mặc định 'とりあえずビール' + gọi mồi ngay. A chỉ lo cho mình; C bỏ lỡ vai trò; D mất thời gian + 空気読めない.
 
 **J3-31** *(Rule 08, 場面把握)*: 乾杯の時、最若手として最も適切なグラスの位置は?
 
@@ -316,7 +316,7 @@
 - D. テーブルに置いたまま
 
 **Đáp án:** C
-**Giải thích:** Junior nhất = ly thấp nhất. A NG signal; C miss kính trọng; D refuse 乾杯.
+**Giải thích:** Nhân viên mới nhất = ly thấp nhất. A tín hiệu sai; C bỏ lỡ thể hiện kính trọng; D từ chối 乾杯.
 
 **J3-32** *(Rule 08, 場面把握)*: Senior が『二次会どうする?』と聞いた時、最若手の最適な対応は?
 
@@ -326,7 +326,7 @@
 - D. 即座に「行きません」と断る
 
 **Đáp án:** C
-**Giải thích:** Junior scan + report + defer = pro. A miss bonding; C tự đề xuất sai role; D thiếu sức bền.
+**Giải thích:** Nhân viên mới rà soát + báo cáo + nhường quyết định = chuyên nghiệp. A bỏ lỡ gắn kết; C tự đề xuất sai vai trò; D thiếu sức bền.
 
 **J3-33** *(Rule 08, 場面把握)*: カラオケに入ったばかりの時、最若手の最適な行動は?
 
@@ -336,7 +336,7 @@
 - D. 英語の難しい曲を選ぶ
 
 **Đáp án:** C
-**Giải thích:** Junior warmup phòng = pro. Bài 90s safe + ai cũng biết. A senior phải start awkward; C không hợp tác; D hát yếu hơn.
+**Giải thích:** Nhân viên mới khởi động bầu không khí = chuyên nghiệp. Bài 90s an toàn + ai cũng biết. A để cấp cao phải mở màn gượng; C không hợp tác; D hát yếu hơn.
 
 **J3-34** *(Rule 08, 場面把握)*: Senior に『もう一杯どう?』と勧められたが、もう十分の時、最も適切な返答は?
 
@@ -346,7 +346,7 @@
 - D. 「ありがとうございます。もう十分いただきました。明日もご一緒できる体でいたいので(笑)」と感謝+理由+ユーモア
 
 **Đáp án:** D
-**Giải thích:** Thanks + reason + humor → senior không thấy refused. A flat; C signal mơ hồ; D nói dối.
+**Giải thích:** Cảm ơn + lý do + hài hước → cấp cao không cảm giác bị từ chối. A cụt lủn; C tín hiệu mơ hồ; D nói dối.
 
 **J3-35** *(Rule 08, 場面把握)*: 雑談で話題が切れた時、最初にrescueに使うべきTOP10安全話題は?
 
@@ -366,7 +366,7 @@
 - D. 「日本も同じです」と話題を相対化
 
 **Đáp án:** B
-**Giải thích:** Né khéo + bridge an toàn = pro. A nguy hiểm; C nhạy cảm; D có thể xúc phạm khách.
+**Giải thích:** Né khéo + chuyển sang chủ đề an toàn = chuyên nghiệp. A nguy hiểm; C nhạy cảm; D có thể xúc phạm khách.
 
 **J3-37** *(Rule 08, 場面把握)*: 週30分の入力で雑談ネタを充実させる時、最初に押さえるべき2つの情報源は?
 
@@ -376,7 +376,7 @@
 - D. SNSの個人投稿
 
 **Đáp án:** A
-**Giải thích:** NHK = topic an toàn vocab chuẩn / 日経 = business depth senior đọc. A nhánh hẹp; C unverified; D miss JP context.
+**Giải thích:** NHK = chủ đề an toàn, từ vựng chuẩn / 日経 = chiều sâu thương mại mà cấp cao hay đọc. A phạm vi hẹp; C chưa kiểm chứng; D bỏ lỡ ngữ cảnh JP.
 
 **J3-38** *(Rule 08, 場面把握)*: 会議前3分の最適なルーチンは?
 
@@ -386,7 +386,7 @@
 - D. 何もしない
 
 **Đáp án:** C
-**Giải thích:** 3 min review CRM = đầu tư đỉnh. A bỏ lỡ; C bỏ lỡ; D bỏ lỡ việc chuẩn bị thông tin khách.
+**Giải thích:** 3 phút xem lại CRM = đầu tư xứng đáng nhất. A bỏ lỡ; C bỏ lỡ; D bỏ lỡ việc chuẩn bị thông tin khách.
 
 **J3-39** *(Rule 08, 場面把握)*: 雑談セッション後の振り返り、最適なフレームは?
 
@@ -396,7 +396,7 @@
 - D. 何もしない
 
 **Đáp án:** C
-**Giải thích:** Framework concrete = actionable. A vague; C binary; D miss skill compound.
+**Giải thích:** Khung nhìn cụ thể = làm được ngay. A mơ hồ; C cứng nhắc; D bỏ lỡ tích lũy kỹ năng.
 
 **J3-40** *(Rule 09, 場面把握)*: 東京で7月、湿度80%・気温33度の日に最も適切な天気の表現はどれですか?
 
@@ -416,7 +416,7 @@
 - D. 「ベトナムにも広島みたいな所があります」と比較する
 
 **Đáp án:** A
-**Giải thích:** Sau 出身 phải có 1 association follow-up. Hỏi địa chỉ = xâm phạm. So sánh = có thể bất lịch sự.
+**Giải thích:** Sau 出身 phải có 1 câu liên tưởng tiếp theo. Hỏi địa chỉ = xâm phạm. So sánh = có thể bất lịch sự.
 
 **J3-42** *(Rule 11, 場面把握)*: 広島出身のお客様と大阪出身のお客様が同席し、お好み焼きの議論になった時、最も適切な対応は?
 
@@ -446,7 +446,7 @@
 - D. 奥様はおいくつですか?
 
 **Đáp án:** D
-**Giải thích:** Tuổi vợ = tabu bất kể độ thân. C là sai nhất.
+**Giải thích:** Tuổi vợ = điều cấm kỵ bất kể độ thân. C là sai nhất.
 
 **J3-45** *(Rule 14, 場面把握)*: 広島出身のお客様にbaseball topicを開く時、応援すべきteamは?
 
@@ -456,7 +456,7 @@
 - D. 広島カープ
 
 **Đáp án:** D
-**Giải thích:** Hiroshima = fan Carp đại đa số. Regional team identity mạnh.
+**Giải thích:** Hiroshima = fan Carp đại đa số. Bản sắc đội theo vùng rất mạnh.
 
 **J3-46** *(Rule 15, 場面把握)*: 温泉に入る前に最初にすべきことは?
 
@@ -486,7 +486,7 @@
 - D. おいくつですか?
 
 **Đáp án:** D
-**Giải thích:** Hỏi tuổi nữ = tabu hàng đầu bất kể quan hệ.
+**Giải thích:** Hỏi tuổi nữ = điều cấm kỵ hàng đầu bất kể quan hệ.
 
 **J3-49** *(Rule 18, 場面把握)*: 60代senior(昭和世代)に最も響くreferenceは?
 
@@ -506,7 +506,7 @@
 - D. 「ジブリの作品、お好きですか?」
 
 **Đáp án:** D
-**Giải thích:** Ghibli xem cả nhà, vượt thế hệ. A/C/D hướng trẻ — senior có thể không respond.
+**Giải thích:** Ghibli xem cả nhà, vượt thế hệ. A/C/D hướng giới trẻ — cấp cao có thể không hưởng ứng.
 
 **J3-51** *(Rule 20, 場面把握)*: ビジネスの場で最も避けるべきtopicは?
 
@@ -516,7 +516,7 @@
 - D. パリ五輪のメダルラッシュ
 
 **Đáp án:** B
-**Giải thích:** Chính trị quốc tế gây tranh cãi, business avoid. A/C/D = safe.
+**Giải thích:** Chính trị quốc tế gây tranh cãi, nên tránh trong môi trường kinh doanh. A/C/D = an toàn.
 
 ---
 
@@ -530,7 +530,7 @@
 - D. その話題を続けたい
 
 **Đáp án:** B
-**Giải thích:** 「あ、まあ…」là tín hiệu nhẹ rằng họ không muốn tiếp topic. Phải đổi chủ đề ngay.
+**Giải thích:** 「あ、まあ…」là tín hiệu nhẹ rằng họ không muốn tiếp chủ đề này. Phải đổi chủ đề ngay.
 
 **J2-02** *(Rule 08, 表現読解)*: お客様が「へえ…そうなんだ…」と返した時の本音は?
 
@@ -540,7 +540,7 @@
 - D. 怒っている
 
 **Đáp án:** B
-**Giải thích:** 「へえ…そうなんだ…」kéo dài + giọng tụt = đang chán. Phải đổi topic ngay, ngừng 自分語り.
+**Giải thích:** 「へえ…そうなんだ…」kéo dài + giọng tụt = đang chán. Phải đổi chủ đề ngay, ngừng 自分語り.
 
 **J2-03** *(Rule 08, 表現読解)*: 「次回ご案内しますよ」とお客様が言った時、関係レベルは?
 
@@ -560,7 +560,7 @@
 - D. 関西弁の違い
 
 **Đáp án:** C
-**Giải thích:** いかがでしたか = formal mở; 良かったですか = đóng (trả lời Yes/No).
+**Giải thích:** いかがでしたか = câu hỏi trang trọng, mở; 良かったですか = đóng (trả lời Yes/No).
 
 **J2-05** *(Rule 08, 表現読解)*: 「つまり、〜ということですね」を使う最適なタイミングは?
 
@@ -570,7 +570,7 @@
 - D. 相手が長く話し終わった後、整理を伝えるとき
 
 **Đáp án:** D
-**Giải thích:** Summarize dùng SAU khi khách kể dài 1-2 phút → cô đặc lại = chứng minh đã nghe + hiểu.
+**Giải thích:** Tóm tắt dùng SAU khi khách kể dài 1-2 phút → cô đặc lại = chứng minh đã nghe + hiểu.
 
 **J2-06** *(Rule 08, 表現読解)*: 「話は変わりますが」の使用が最も適切な状況は?
 
@@ -580,7 +580,7 @@
 - D. 沈黙を埋めるため
 
 **Đáp án:** B
-**Giải thích:** 話は変わりますが = pivot rõ ràng nhất. Dùng khi cần báo hiệu topic sau khác hoàn toàn (sang business serious).
+**Giải thích:** 話は変わりますが = chuyển chủ đề rõ ràng nhất. Dùng khi cần báo hiệu chủ đề tiếp theo khác hoàn toàn (sang nội dung công việc nghiêm túc).
 
 **J2-07** *(Rule 08, 表現読解)*: 「間(ま)」の文化的意味として最も適切なものは?
 
@@ -590,7 +590,7 @@
 - D. 会話の失敗
 
 **Đáp án:** C
-**Giải thích:** 間 = thẩm mỹ JP từ trà đạo, 能, 俳句. Im lặng có ý nghĩa = nghệ thuật, không phải awkward.
+**Giải thích:** 間 = thẩm mỹ JP từ trà đạo, 能, 俳句. Im lặng có ý nghĩa = nghệ thuật, không phải gượng gạo.
 
 **J2-08** *(Rule 08, 表現読解)*: 女性のお客様が「私、来年で40」と自分で言った時の最適な反応は?
 
@@ -600,7 +600,7 @@
 - D. 「40は人生の折り返しですね」
 
 **Đáp án:** B
-**Giải thích:** B = khen năng lượng/năng lực không reference tuổi. A = confirm tuổi + 'trẻ hơn' = NG. C = khẳng định tuổi. D = NG topic gia đình.
+**Giải thích:** B = khen năng lượng/năng lực không nhắc tuổi. A = xác nhận tuổi + khen 'trẻ hơn' = NG. C = khẳng định tuổi. D = NG chủ đề gia đình.
 
 **J2-09** *(Rule 08, 表現読解)*: 「北海道は東北とは違うんですよ」というお客様の反応の意図は?
 
@@ -620,7 +620,7 @@
 - D. 「酒は新潟が一番では?」
 
 **Đáp án:** A
-**Giải thích:** Knowledge depth + ngưỡng mộ = best. A/C = phản công khó chịu. D = bỏ lỡ topic.
+**Giải thích:** Chiều sâu kiến thức + ngưỡng mộ = tốt nhất. A/C = phản công khó chịu. D = bỏ lỡ chủ đề.
 
 **J2-11** *(Rule 08, 表現読解)*: 「下町っ子」と言うと何を意味する?
 
@@ -650,7 +650,7 @@
 - D. 関係ない
 
 **Đáp án:** A
-**Giải thích:** 並ぶ giữ identity riêng + recognize. 同じ erase identity = mất tinh tế.
+**Giải thích:** 並ぶ giữ bản sắc riêng + ghi nhận giá trị. 同じ xóa bản sắc = mất tinh tế.
 
 **J2-14** *(Rule 08, 表現読解)*: 「ほんま美味い」 = ?
 
@@ -670,7 +670,7 @@
 - D. 食事の時間
 
 **Đáp án:** C
-**Giải thích:** Urban legend Kyoto — không nhất thiết literal nhưng hiểu nuance.
+**Giải thích:** Giai thoại dân gian Kyoto — không nhất thiết theo nghĩa đen nhưng nên hiểu hàm ý.
 
 **J2-16** *(Rule 08, 表現読解)*: 「男気黒田」の含意は?
 
@@ -690,7 +690,7 @@
 - D. ビジネス接待
 
 **Đáp án:** A
-**Giải thích:** Osettai Shikoku tradition tặng henro miễn phí.
+**Giải thích:** Truyền thống Osettai Shikoku tặng người hành hương miễn phí.
 
 **J2-18** *(Rule 08, 表現読解)*: 「博多人の一年は山笠で始まり山笠で終わる」 = ?
 
@@ -700,7 +700,7 @@
 - D. 山笠以外興味なし
 
 **Đáp án:** B
-**Giải thích:** Yamakasa là tâm Hakata identity, cả năm xoay quanh lễ này.
+**Giải thích:** Yamakasa là tâm bản sắc Hakata, cả năm xoay quanh lễ này.
 
 **J2-19** *(Rule 08, 表現読解)*: 「西郷どん」の意味は?
 
@@ -720,7 +720,7 @@
 - D. 何とかなる/大丈夫 — 沖縄の楽観マインド
 
 **Đáp án:** D
-**Giải thích:** Nankuru naisā = 'rồi sẽ ổn', mindset Okinawa lạc quan.
+**Giải thích:** Nankuru naisā = 'rồi sẽ ổn', tư duy lạc quan đặc trưng Okinawa.
 
 **J2-21** *(Rule 08, 表現読解)*: 「覚えていてくれたの…!」というお客様の反応は?
 
@@ -730,7 +730,7 @@
 - D. 困惑
 
 **Đáp án:** B
-**Giải thích:** JP cực cảm động khi đối tác nhớ chi tiết — moment trust spike.
+**Giải thích:** JP cực cảm động khi đối tác nhớ chi tiết — khoảnh khắc tin tưởng tăng vọt.
 
 **J2-22** *(Rule 08, 表現読解)*: 「店員はぶっきらぼう」と説明する時、お客様に対して気をつけるべきことは?
 
@@ -740,7 +740,7 @@
 - D. 笑いを誘いつつ事前に共有して、ショックを和らげる
 
 **Đáp án:** D
-**Giải thích:** Mention trước + tone hài → khách chuẩn bị tinh thần, không bị shock. KHÔNG so sánh negative với JP.
+**Giải thích:** Báo trước + giọng hài hước → khách chuẩn bị tinh thần, không bị sốc. KHÔNG so sánh tiêu cực với JP.
 
 **J2-23** *(Rule 08, 表現読解)*: 「五果盆」を説明する時、関西出身のお客様に響く話し方は?
 
@@ -750,7 +750,7 @@
 - D. 北の習慣ではないと強調する
 
 **Đáp án:** C
-**Giải thích:** Khách Kansai mê ダジャレ → 'Cầu Sung Vừa Đủ Xài' chơi chữ thành 'mong đủ xài' = topic vàng. A formal quá; C khoe tiền; D divisive.
+**Giải thích:** Khách Kansai mê ダジャレ → 'Cầu Sung Vừa Đủ Xài' chơi chữ thành 'mong đủ xài' = chủ đề vàng. A quá trang trọng; C khoe tiền; D gây chia rẽ.
 
 **J2-24** *(Rule 08, 表現読解)*: フィンコーヒーの『4-5分待つ』ことを日本人に説明する時、最も響く比喩は?
 
@@ -760,7 +760,7 @@
 - D. 「急須でお茶を入れる時間感覚に近い」
 
 **Đáp án:** D
-**Giải thích:** Bridge với 急須茶 ritual JP đã có → slow culture. A/B chỉ so sánh máy móc; D negative.
+**Giải thích:** Bắc cầu với nghi thức pha 急須茶 quen thuộc của JP → văn hóa thong thả. A/B chỉ so sánh máy móc; D tiêu cực.
 
 **J2-25** *(Rule 08, 表現読解)*: 沖縄出身のお客様に中部VNの台風を説明する時、最も響く言い方は?
 
@@ -770,7 +770,7 @@
 - D. 「沖縄と中部VNはほぼ同じ緯度なので、台風の通り道が似てます」と地理的共通点を指摘
 
 **Đáp án:** D
-**Giải thích:** Bridge bằng vĩ độ tương đồng → khách Okinawa instant đồng cảm. C so sánh negative; D vùng cấm.
+**Giải thích:** Bắc cầu bằng vĩ độ tương đồng → khách Okinawa đồng cảm ngay. C so sánh tiêu cực; D vùng cấm.
 
 **J2-26** *(Rule 08, 表現読解)*: 60代senior が『博物館は重そうやな…』と言った時、最も適切な対応は?
 
@@ -780,7 +780,7 @@
 - D. 「では行かなくていいです」と引っ込める
 
 **Đáp án:** C
-**Giải thích:** Acknowledge nặng + add value + bound time → senior decide với info đủ. A withdraw too fast; C lừa; D né với lý do sai.
+**Giải thích:** Ghi nhận phần nặng + nêu giá trị + giới hạn thời gian → cấp cao quyết định với đủ thông tin. A rút lui quá nhanh; C lừa; D né với lý do sai.
 
 **J2-27** *(Rule 08, 表現読解)*: 中秋節を日本のお盆と区別して説明する時、最も響くのは?
 
@@ -790,7 +790,7 @@
 - D. 「お盆は祖先供養、中秋は『次世代』中心、雰囲気が180度違います」
 
 **Đáp án:** D
-**Giải thích:** So sánh trục tâm điểm (祖先 vs 次世代) → khách Nhật instant phân biệt. A sai; C arrogant; D nhạy cảm.
+**Giải thích:** So sánh trục tâm điểm (祖先 vs 次世代) → khách Nhật phân biệt được ngay. A sai; C kiêu ngạo; D nhạy cảm.
 
 **J2-28** *(Rule 08, 表現読解)*: 広島出身のお客様にHCMの和食を勧める時、最も加点になるのは?
 
@@ -800,7 +800,7 @@
 - D. 出身地は関係ないので一般的なチェーンだけ
 
 **Đáp án:** A
-**Giải thích:** Match regional native = +20 điểm host. C nhầm vùng (Hiroshima vs Osaka okonomiyaki khác); D miss cơ hội.
+**Giải thích:** Ghép đúng người bản địa vùng đó = +20 điểm chủ nhà tiếp khách. C nhầm vùng (Hiroshima vs Osaka okonomiyaki khác); D bỏ lỡ cơ hội.
 
 **J2-29** *(Rule 08, 表現読解)*: 若手客が『タヒエン行きたい』と言った時、最も適切な対応は?
 
@@ -810,7 +810,7 @@
 - D. 自分の悪い体験を長く話す
 
 **Đáp án:** C
-**Giải thích:** Recommend + warning trước = pro host. A cấm đoán; C phá trải nghiệm; D self-talk.
+**Giải thích:** Gợi ý + cảnh báo trước = chủ nhà chuyên nghiệp. A cấm đoán; C phá trải nghiệm; D tự nói về mình.
 
 **J2-30** *(Rule 08, 表現読解)*: お客様が「生牡蠣だけは苦手」と言った時の最適な対応は?
 
@@ -820,7 +820,7 @@
 - D. 了解+メモり、お刺身盛り合わせを頼む時に『生牡蠣は外して』と店員に伝える
 
 **Đáp án:** D
-**Giải thích:** Acknowledge + handle silently với 店員 = pro. Memory bank ghi vào CRM. A miss; C overreact; D xúc phạm.
+**Giải thích:** Ghi nhận + xử lý âm thầm với 店員 = chuyên nghiệp. Ghi vào sổ lưu ký ức. A bỏ qua; C phản ứng thái quá; D xúc phạm.
 
 **J2-31** *(Rule 08, 表現読解)*: お客様のグラスが残り1/3になった時の最適な行動は?
 
@@ -830,7 +830,7 @@
 - D. お客様が頼むまで何もしない
 
 **Đáp án:** C
-**Giải thích:** Notice + đề nghị + 2 tay + label. A miss role; C vô lễ; D xúc phạm.
+**Giải thích:** Để ý + đề nghị + 2 tay + hướng nhãn về khách. A bỏ lỡ vai trò; C vô lễ; D xúc phạm.
 
 **J2-32** *(Rule 08, 表現読解)*: 二次会で先に帰る時、最も適切な日本語表現は?
 
@@ -840,7 +840,7 @@
 - D. 黙って消える
 
 **Đáp án:** B
-**Giải thích:** Phrase chuẩn: addressee + apology + concrete reason + permission form. A vắn cụt; C casual quá; D NG.
+**Giải thích:** Cấu trúc chuẩn: gọi tên người nhận + xin lỗi + lý do cụ thể + hỏi phép. A vắn cụt; C thân mật quá; D NG.
 
 **J2-33** *(Rule 08, 表現読解)*: 55歳の関西出身senior にカラオケで提案する曲として最適なのは?
 
@@ -850,7 +850,7 @@
 - D. 椎名林檎『歌舞伎町の女王』
 
 **Đáp án:** B
-**Giải thích:** Showa idol 80s = 直撃 senior 55t. A Reiwa young; C dark + niche; D English khó.
+**Giải thích:** Thần tượng Showa 80s = trúng đúng cấp cao 55 tuổi. A thế hệ Reiwa trẻ; C tối nghĩa + quá ngách; D tiếng Anh khó.
 
 **J2-34** *(Rule 08, 表現読解)*: 同じ会社の田中さんが酔って不適切な発言を始めた時、最適な対応は?
 
@@ -860,7 +860,7 @@
 - D. 別の話題に強引に変える
 
 **Đáp án:** B
-**Giải thích:** Care concern cover-up = defuse + escort path. A đồng lõa; C xúc phạm đồng nghiệp; D awkward.
+**Giải thích:** Thể hiện quan tâm để che chắn = hạ nhiệt + mở lối thoát. A đồng lõa; C xúc phạm đồng nghiệp; D gượng gạo.
 
 **J2-35** *(Rule 08, 表現読解)*: 出身地について深掘りする時の最適なfollow-upは?
 
@@ -870,7 +870,7 @@
 - D. 「給料はいくらでしたか?」
 
 **Đáp án:** C
-**Giải thích:** Học sinh thời kỳ = câu mở memory + cảm xúc, an toàn. A money invasive; C cấm; D quá riêng.
+**Giải thích:** Thời học sinh = câu mở hồi ký + cảm xúc, an toàn. A hỏi tiền là xâm phạm; C vùng cấm; D quá riêng tư.
 
 **J2-36** *(Rule 08, 表現読解)*: お客様の表情が0.5秒固まった後の最適な対応は?
 
@@ -880,7 +880,7 @@
 - D. もっと深く掘る
 
 **Đáp án:** A
-**Giải thích:** Catch freeze = đã chạm LM → đổi topic ngay, không đào sâu hố. A NG; C overdo; D nguy hiểm.
+**Giải thích:** Bắt kịp đóng băng = đã chạm vùng cấm → đổi chủ đề ngay, không đào sâu hố. A NG; C thái quá; D nguy hiểm.
 
 **J2-37** *(Rule 08, 表現読解)*: NHKで読んだ『観測史上最も早い積雪』をHokkaido出身のお客様に話す時の最適な切り出しは?
 
@@ -890,7 +890,7 @@
 - D. 「Hokkaidoは寒いですね」と generic に振る
 
 **Đáp án:** B
-**Giải thích:** Exact NHK vocab + care concern → đẳng cấp 'biết Nhật thật'. A flat; C tự nói; D bỏ lỡ đối tượng.
+**Giải thích:** Dùng đúng từ vựng NHK + hỏi thăm quan tâm → đẳng cấp 'biết Nhật thật'. A nhạt; C tự nói về mình; D bỏ lỡ đối tượng.
 
 **J2-38** *(Rule 08, 表現読解)*: memory bankを活用する時のNG行為は?
 
@@ -900,7 +900,7 @@
 - D. プライベートすぎる質問をする
 
 **Đáp án:** B
-**Giải thích:** Trick câu: 全 NG nhưng B (overdo) ít rõ nhất. Pattern dùng 1-2 fact = vừa đủ. (B/C/D đều NG, chọn B vì rõ là 'over-use')
+**Giải thích:** Câu đánh lừa: tất cả đều sai nhưng B (dùng quá nhiều) ít rõ nhất. Nên dùng 1-2 dữ kiện = vừa đủ. (B/C/D đều sai, chọn B vì rõ là dùng quá liều)
 
 **J2-39** *(Rule 08, 表現読解)*: MISS項目の書き方として最適なのは?
 
@@ -910,7 +910,7 @@
 - D. 「allergy hỏi quá muộn → NEXT: hỏi NGAY khi mở menu」 (concrete + actionable)
 
 **Đáp án:** D
-**Giải thích:** Concrete fact + concrete next action = actionable. A/D vague; C demotivate.
+**Giải thích:** Sự kiện cụ thể + hành động cụ thể tiếp theo = làm được ngay. A/D mơ hồ; C gây nản.
 
 **J2-40** *(Rule 09, 表現読解)*: 北海道出身のお客様に「梅雨入りしましたか?」と聞いた場合、最も予想される反応は?
 
@@ -920,7 +920,7 @@
 - D. 「北海道に梅雨はないんですよ(笑)」
 
 **Đáp án:** D
-**Giải thích:** Hokkaido KHÔNG có 梅雨. Hỏi câu này lộ thiếu regional knowledge.
+**Giải thích:** Hokkaido KHÔNG có 梅雨. Hỏi câu này lộ ra thiếu hiểu biết về đặc thù vùng.
 
 **J2-41** *(Rule 10, 表現読解)*: 「地元」「出身」「故郷」のニュアンスとして最も正しいのは?
 
@@ -930,7 +930,7 @@
 - D. 地元=今住んでる町、出身=formalな質問、故郷=ノスタルジック
 
 **Đáp án:** D
-**Giải thích:** 地元 = chỗ quen thân, 出身 = formal, 故郷 = cảm xúc nostalgic.
+**Giải thích:** 地元 = chỗ quen thân, 出身 = câu hỏi trang trọng, 故郷 = cảm xúc hoài niệm.
 
 **J2-42** *(Rule 11, 表現読解)*: 「朴葉味噌」を食べて感想を述べる時、最も自然な表現は?
 
@@ -940,7 +940,7 @@
 - D. 「ベトナムにはこういうのないですね」
 
 **Đáp án:** B
-**Giải thích:** Nhận xét cụ thể (mùi, độ đậm) = khen connoisseur. B chuẩn nhất.
+**Giải thích:** Nhận xét cụ thể (mùi, độ đậm) = khen theo kiểu người sành ăn. B chuẩn nhất.
 
 **J2-43** *(Rule 12, 表現読解)*: 「精米歩合35%」と書かれた日本酒の特徴は?
 
@@ -960,7 +960,7 @@
 - D. 質問を理解していない
 
 **Đáp án:** A
-**Giải thích:** Reply ngắn = lùi nhẹ. Không đào sâu, chuyển topic khác.
+**Giải thích:** Trả lời ngắn = lùi nhẹ. Không đào sâu, chuyển chủ đề khác.
 
 **J2-45** *(Rule 14, 表現読解)*: ゴルフコンペに誘われた時、最も避けるべき返答は?
 
@@ -1000,7 +1000,7 @@
 - D. 性別で使い分ける
 
 **Đáp án:** A
-**Giải thích:** ご自愛 = chào formal đóng. お大事に = khi khách rõ ràng đang bị bệnh.
+**Giải thích:** ご自愛 = câu chào trang trọng khi kết thúc. お大事に = khi khách rõ ràng đang bị bệnh.
 
 **J2-49** *(Rule 18, 表現読解)*: 「平成3年」は西暦何年ですか?
 
@@ -1010,7 +1010,7 @@
 - D. 1993年
 
 **Đáp án:** C
-**Giải thích:** Heisei 1 = 1989. Heisei 3 = 1991. Quy đổi 元号 = kỹ năng zatsudan.
+**Giải thích:** Heisei 1 = 1989. Heisei 3 = 1991. Quy đổi 元号 = kỹ năng trò chuyện phiếm.
 
 **J2-50** *(Rule 19, 表現読解)*: 「オタク」と「推し」のニュアンスとして正しいのは?
 
@@ -1020,7 +1020,7 @@
 - D. 推し=ネガティブ、オタク=positiv
 
 **Đáp án:** C
-**Giải thích:** Otaku từ 80s, đôi khi hàm ý xấu. Oshi = Z gen, positive.
+**Giải thích:** Otaku từ 80s, đôi khi hàm ý xấu. Oshi = thế hệ Z, tích cực.
 
 **J2-51** *(Rule 20, 表現読解)*: お客様の地域で大型台風があった場合、最も適切な最初の言葉は?
 
@@ -1054,7 +1054,7 @@
 - D. 馬鹿にされている印象を与える
 
 **Đáp án:** B
-**Giải thích:** Lặp lại keyword = tín hiệu 'tôi đang nghe' → khách thoải mái kể tiếp. Đẳng cấp 聞き上手.
+**Giải thích:** Lặp lại từ khóa = tín hiệu 'tôi đang nghe' → khách thoải mái kể tiếp. Đẳng cấp 聞き上手.
 
 **J1-03** *(Rule 08, 発言聴解)*: 「なれなれしい」の意味として正しいものは?
 
@@ -1064,7 +1064,7 @@
 - D. 関係に対して不適切に親しすぎる
 
 **Đáp án:** D
-**Giải thích:** なれなれしい = thân quá mức không phù hợp với cấp quan hệ thực = NG. Khác 親しみやすい (dễ gần — positive).
+**Giải thích:** なれなれしい = thân quá mức không phù hợp với cấp quan hệ thực = NG. Khác 親しみやすい (dễ gần — tích cực).
 
 **J1-04** *(Rule 08, 発言聴解)*: 閉じた質問が3回連続した時、お客様が感じる本音は?
 
@@ -1074,7 +1074,7 @@
 - D. 興味を持ってくれて嬉しい
 
 **Đáp án:** C
-**Giải thích:** Câu hỏi đóng dồn dập = cảm giác 尋問. Phải break bằng câu hỏi mở + react.
+**Giải thích:** Câu hỏi đóng dồn dập = cảm giác 尋問. Phải phá mạch bằng câu hỏi mở + phản hồi tự nhiên.
 
 **J1-05** *(Rule 08, 発言聴解)*: お客様が話している途中で「いえ、それ2018年じゃなくて2019年です」と訂正するのは?
 
@@ -1084,7 +1084,7 @@
 - D. 沈黙より良い
 
 **Đáp án:** C
-**Giải thích:** Sửa sai chi tiết nhỏ giữa câu chuyện = phá flow + làm khách mất mặt. Phải đợi xong mới khéo bổ sung nếu thật cần.
+**Giải thích:** Sửa sai chi tiết nhỏ giữa câu chuyện = phá mạch + làm khách mất mặt. Phải đợi xong mới khéo bổ sung nếu thật cần.
 
 **J1-06** *(Rule 08, 発言聴解)*: コネクターなしで突然話題を変えた場合、お客様の本音は?
 
@@ -1094,7 +1094,7 @@
 - D. 何も感じない
 
 **Đáp án:** B
-**Giải thích:** Cắt phũ không connector = khách thấy bị ngắt lời, mất điểm 空気. Phải close topic + connector + lý do mềm.
+**Giải thích:** Cắt phũ không câu chuyển = khách thấy bị ngắt lời, mất điểm 空気. Phải đóng chủ đề + câu chuyển + lý do mềm.
 
 **J1-07** *(Rule 08, 発言聴解)*: お客様が眉をひそめ、上を見ながら7秒黙っている時、本人の状態は?
 
@@ -1104,7 +1104,7 @@
 - D. 質問に答えたくない
 
 **Đáp án:** A
-**Giải thích:** Body language = nhíu mày + nhìn xa = đang suy nghĩ thật. Hối = phá mạch. Đợi = answer chất lượng.
+**Giải thích:** Ngôn ngữ cơ thể nhíu mày + nhìn xa = đang suy nghĩ thật. Hối = phá mạch. Đợi = câu trả lời chất lượng.
 
 **J1-08** *(Rule 08, 発言聴解)*: お客様が酒の席で社内スキャンダルを匂わせた時、最も適切な対応は?
 
@@ -1114,7 +1114,7 @@
 - D. 自社のスキャンダルも共有して仲良くなる
 
 **Đáp án:** A
-**Giải thích:** Đào sâu = khách regret share. Mình kín đáo = đáng tin. React tối thiểu + pivot ngay = level cao.
+**Giải thích:** Đào sâu = khách hối hận khi chia sẻ. Mình kín đáo = đáng tin. Phản ứng tối thiểu + đổi chủ đề ngay = đẳng cấp cao.
 
 **J1-09** *(Rule 08, 発言聴解)*: 「なまら美味しい」と言われた場合、意味は?
 
@@ -1164,7 +1164,7 @@
 - D. 質問
 
 **Đáp án:** B
-**Giải thích:** Hida-ben cám ơn ấm cúng. React bằng「こちらこそ」hay「とんでもないです」.
+**Giải thích:** Hida-ben cám ơn ấm cúng. Đáp lại bằng「こちらこそ」hay「とんでもないです」.
 
 **J1-14** *(Rule 08, 発言聴解)*: 阪神ファンに「2023年のアレ、感動的でしたね」と言うのは?
 
@@ -1184,7 +1184,7 @@
 - D. 田舎っぽい
 
 **Đáp án:** B
-**Giải thích:** 「はんなり」 = top khen Kyoto — thanh + dịu.
+**Giải thích:** 「はんなり」 = lời khen cao nhất Kyoto — thanh + dịu.
 
 **J1-16** *(Rule 08, 発言聴解)*: 広島弁「ぶち美味い」の意味は?
 
@@ -1254,7 +1254,7 @@
 - D. 「諸説あって、私は専門家じゃないですが…」と保留しつつ別の安全な事実を添える
 
 **Đáp án:** D
-**Giải thích:** Nguồn gốc phở vùng nhạy cảm chính trị (thuộc địa Pháp / ảnh hưởng TQ) — né khéo bằng 諸説あり + add fact an toàn (làng nghề Cồ Lễ).
+**Giải thích:** Nguồn gốc phở vùng nhạy cảm chính trị (thuộc địa Pháp / ảnh hưởng TQ) — né khéo bằng 諸説あり + bổ sung thêm dữ kiện an toàn (làng nghề Cồ Lễ).
 
 **J1-23** *(Rule 08, 発言聴解)*: テト関連で絶対に避けるべき話題は?
 
@@ -1264,7 +1264,7 @@
 - D. お年玉と日本のリーシーの違い
 
 **Đáp án:** C
-**Giải thích:** Tết Mậu Thân 1968 + nội chiến / thống nhất là vùng cấm chính trị. Stick với văn hóa gia đình + ẩm thực + hoa.
+**Giải thích:** Tết Mậu Thân 1968 + nội chiến / thống nhất là vùng cấm chính trị. Bám vào văn hóa gia đình + ẩm thực + hoa.
 
 **J1-24** *(Rule 08, 発言聴解)*: 「卵コーヒー大丈夫?」と心配されたら、最も適切な対応は?
 
@@ -1274,7 +1274,7 @@
 - D. 「全然大丈夫です」と一言で済ます
 
 **Đáp án:** B
-**Giải thích:** Bắt sắc thái lo (大丈夫?) → reassure bằng tone hài + history + creator家族 → khách JP yên tâm + thấy có depth.
+**Giải thích:** Bắt sắc thái lo (大丈夫?) → trấn an bằng giọng hài hước + lịch sử + gia đình người sáng tạo → khách JP yên tâm + thấy có chiều sâu.
 
 **J1-25** *(Rule 08, 発言聴解)*: 「ハノイの人とホーチミンの人で四季感が違う」と説明する時、お客様に響くアナロジーは?
 
@@ -1284,7 +1284,7 @@
 - D. 「全く同じです」
 
 **Đáp án:** B
-**Giải thích:** 東京-那覇 = same nation nhưng khí hậu / cảm thức 4 mùa hoàn toàn khác → match Bắc-Nam VN. A khác cấp; C nông; D sai.
+**Giải thích:** Tokyo-Naha = cùng quốc gia nhưng khí hậu / cảm thức 4 mùa hoàn toàn khác → ghép được với Bắc-Nam VN. A khác cấp độ; C nông; D sai.
 
 **J1-26** *(Rule 08, 発言聴解)*: ホイアンに泊まるべき時間帯として、最も適切なアドバイスは?
 
@@ -1294,7 +1294,7 @@
 - D. 「夜が本番なので、夕方着ホイアン泊がベスト」と理由付きで伝える
 
 **Đáp án:** D
-**Giải thích:** HA đèn lồng đẹp tối → advise chiều check-in + lý do. A/B miss best time; D nông.
+**Giải thích:** Hội An đèn lồng đẹp về tối → khuyên chiều check-in + có lý do. A/B bỏ lỡ thời điểm đẹp nhất; D nông.
 
 **J1-27** *(Rule 08, 発言聴解)*: 佐藤さんが2/9に関して『戦後の話やね…』と呟いた時、ズンの最適な反応は?
 
@@ -1304,7 +1304,7 @@
 - D. 戦争の話を詳しく展開する
 
 **Đáp án:** A
-**Giải thích:** Catch sắc thái senior 'chiến tranh' → KHÔNG develop, đổi sang life today. A vùng cấm; C nhạy cảm; D awkward.
+**Giải thích:** Bắt sắc thái cấp cao nhắc tới 'chiến tranh' → KHÔNG đào sâu, đổi sang cuộc sống hiện tại. A vùng cấm; C nhạy cảm; D gượng gạo.
 
 **J1-28** *(Rule 08, 発言聴解)*: クロージングディナーの予約で、ホストとして気を回すべき項目は?
 
@@ -1314,7 +1314,7 @@
 - D. お客様に自分で予約させる
 
 **Đáp án:** B
-**Giải thích:** Full host mode: room + dress + chef background → khách không phải lo gì. A miss professional; C/D phá host role.
+**Giải thích:** Tiếp khách trọn vẹn: phòng + trang phục + lai lịch đầu bếp → khách không phải lo gì. A bỏ lỡ vai trò chuyên nghiệp; C/D phá vai trò chủ nhà.
 
 **J1-29** *(Rule 08, 発言聴解)*: 「九州の人間として、自然好きなんやけど」と言ったSatoさんに最適な提案+ブリッジは?
 
@@ -1324,7 +1324,7 @@
 - D. ナイトライフの話に切り替える
 
 **Đáp án:** C
-**Giải thích:** Catch 自然好き + 九州 → bridge với 阿蘇 quê khách = +Insider. A miss; C negative; D phá topic.
+**Giải thích:** Bắt kịp 自然好き + 九州 → bắc cầu với 阿蘇 quê khách = điểm cộng của người hiểu biết. A bỏ lỡ; C tiêu cực; D phá chủ đề.
 
 **J1-30** *(Rule 08, 発言聴解)*: Senior が『まとめてくれ。今日は俺持ち』と言った時の最適な返答は?
 
@@ -1334,7 +1334,7 @@
 - D. 「いえ、割り勘で」と断る
 
 **Đáp án:** C
-**Giải thích:** Nhận lời + báo lần sau bên mình → đẳng cấp khách Nhật. A flat; C refuse senior khi không cần; D awkward.
+**Giải thích:** Nhận lời + báo lần sau bên mình sẽ trả → đẳng cấp giao tiếp Nhật. A cụt lủn; C từ chối cấp cao khi không cần; D gượng gạo.
 
 **J1-31** *(Rule 08, 発言聴解)*: ベトナム人同僚が日本の客に『100%一気飲み』を強要した時、最適なrescueは?
 
@@ -1344,7 +1344,7 @@
 - D. お客様に文句を言う
 
 **Đáp án:** A
-**Giải thích:** Rescue khéo: defend khách + giải thích văn hóa cho đồng nghiệp + bridge nhẹ. A xúc phạm đồng nghiệp; C ép khách; D đảo ngược.
+**Giải thích:** Gỡ khéo: bênh vực khách + giải thích văn hóa cho đồng nghiệp + bắc cầu nhẹ giải tỏa. A xúc phạm đồng nghiệp; C ép khách; D đảo ngược.
 
 **J1-32** *(Rule 08, 発言聴解)*: 二次会でSenior が『内心では大丈夫かな?って思ってた』と本音を漏らした時、最適な反応は?
 
@@ -1354,7 +1354,7 @@
 - D. 「いや、私たちはずっと自信ありました」と返す
 
 **Đáp án:** A
-**Giải thích:** Senior 内心 hé lộ = moment quý → listen, react gọn, KHÔNG cướp lời. A phá; C arrogant; D miss moment.
+**Giải thích:** Cấp cao hé lộ 内心 = khoảnh khắc quý → lắng nghe, phản hồi gọn, KHÔNG cướp lời. A phá; C kiêu ngạo; D bỏ lỡ khoảnh khắc.
 
 **J1-33** *(Rule 08, 発言聴解)*: ベトナム人junior が『日本の歌歌えない』と言った時、最適な対応は?
 
@@ -1364,7 +1364,7 @@
 - D. 「練習しといて」と叱る
 
 **Đáp án:** B
-**Giải thích:** Junior VN nervous → bridge VN song + explain → khách JP thấy thú vị. A skip miss bonding; C pressure; D ép junior tan.
+**Giải thích:** Nhân viên mới VN lúng túng → bắc cầu bài VN + giải thích → khách JP thấy thú vị. A bỏ qua làm mất gắn kết; C tạo áp lực; D ép nhân viên mới bỏ cuộc.
 
 **J1-34** *(Rule 08, 発言聴解)*: 翌朝の信頼回復で、最も効果的な行動は?
 
@@ -1374,7 +1374,7 @@
 - D. 昨日のことを話題にしない
 
 **Đáp án:** B
-**Giải thích:** Sáng hôm sau = bài test thực sự. Tỉnh táo + cảm ơn + báo cáo kèm + sẵn sàng làm việc = đẳng cấp. A bỏ lỡ; C thiếu chuyên nghiệp; D gượng gạo.
+**Giải thích:** Sáng hôm sau = bài kiểm tra thực sự. Tỉnh táo + cảm ơn + báo cáo kèm + sẵn sàng làm việc = đẳng cấp. A bỏ lỡ; C thiếu chuyên nghiệp; D gượng gạo.
 
 **J1-35** *(Rule 08, 発言聴解)*: 5分で複数のGOLD topicを使う時の最適なbridgeパターンは?
 
@@ -1384,7 +1384,7 @@
 - D. 天気→食→スポーツのように自然にbridge
 
 **Đáp án:** D
-**Giải thích:** Bridge giữa topic khi flat → flow tự nhiên. A có thể dead-end; C không bonding; D awkward.
+**Giải thích:** Chuyển đề bằng cách bắc cầu tự nhiên khi trống → mạch trôi chảy. A một chủ đề kéo 5 phút dễ chạm; C không tạo kết nối; D gượng gạo.
 
 **J1-36** *(Rule 08, 発言聴解)*: ベトナム人junior が日本人女性のお客様に年齢を聞いた時、最適なrescueは?
 
@@ -1394,7 +1394,7 @@
 - D. 「ベトナムでは普通だけど、日本では年齢を聞くのは控える文化」とeducate+「呼び方が違う文化の違い」とbridge
 
 **Đáp án:** D
-**Giải thích:** Educate VN khéo + bridge văn hóa = save 3 bên. A xúc phạm junior; C đổ thêm dầu; D awkward.
+**Giải thích:** Hướng dẫn nhân viên VN khéo + bắc cầu văn hóa = cứu cả 3 bên. A xúc phạm nhân viên mới; C đổ thêm dầu; D gượng gạo.
 
 **J1-37** *(Rule 08, 発言聴解)*: 1回の雑談で、ニュースから引用するfact数として最適なのは?
 
@@ -1404,7 +1404,7 @@
 - D. 5-7個
 
 **Đáp án:** C
-**Giải thích:** 1-2 fact = vừa đủ + người nghe nhớ. A khoe khoang; C bỏ lỡ cơ hội; D kiêu ngạo.
+**Giải thích:** 1-2 dữ kiện = vừa đủ + người nghe nhớ được. A khoe khoang; C bỏ lỡ cơ hội; D kiêu ngạo.
 
 **J1-38** *(Rule 08, 発言聴解)*: 半年前のお客様の発言を正確にreferenceできた時の効果は?
 
@@ -1414,7 +1414,7 @@
 - D. 効果はない
 
 **Đáp án:** B
-**Giải thích:** Long memory + accurate = senior cảm nhận sâu sắc. Đây là moat #1.
+**Giải thích:** Nhớ lâu + chính xác = cấp cao cảm nhận sâu sắc. Đây là lợi thế cạnh tranh số 1.
 
 **J1-39** *(Rule 08, 発言聴解)*: 100回 dinner後、累積効果として最も期待されるのは?
 
@@ -1424,7 +1424,7 @@
 - D. 同じミスを繰り返す
 
 **Đáp án:** C
-**Giải thích:** Skill compound: 100 dinner = top 1% smalltalk skill VN làm khách JP. Đó là 2 năm discipline.
+**Giải thích:** Kỹ năng tích lũy: 100 bữa = top 1% kỹ năng trò chuyện phiếm người VN tiếp khách JP. Đó là 2 năm kỷ luật.
 
 **J1-40** *(Rule 09, 発言聴解)*: 「真冬日」と「冬日」の違いとして正しいものは?
 
@@ -1444,7 +1444,7 @@
 - D. 関西(大阪・京都)
 
 **Đáp án:** B
-**Giải thích:** '~toyo/~tone' = đặc trưng Hakata-ben (Fukuoka). Catch được giọng = đoán 出身 không cần hỏi.
+**Giải thích:** '~とよ/~とね' = đặc trưng Hakata-ben (Fukuoka). Nhận ra được giọng = đoán 出身 không cần hỏi.
 
 **J1-42** *(Rule 11, 発言聴解)*: 「ザンギ」とは何ですか?
 
@@ -1454,7 +1454,7 @@
 - D. 北海道の郷土料理で、味付けの濃い唐揚げ
 
 **Đáp án:** D
-**Giải thích:** Zangi = soul food Hokkaido, kiểu gà chiên ướp đậm hơn karaage.
+**Giải thích:** Zangi = món quê hương Hokkaido, kiểu gà chiên ướp đậm hơn karaage.
 
 **J1-43** *(Rule 12, 発言聴解)*: 焼酎の「3M」とは何を指しますか?
 
@@ -1474,7 +1474,7 @@
 - D. 「学費高いんでしょうね」
 
 **Đáp án:** A
-**Giải thích:** Khoe = chúc mừng chân thành. Hỏi học phí/điểm = tabu. Chuyển sang con mình = bất lịch sự.
+**Giải thích:** Khoe = chúc mừng chân thành. Hỏi học phí/điểm = điều cấm kỵ. Chuyển sang con mình = bất lịch sự.
 
 **J1-45** *(Rule 14, 発言聴解)*: 「九州場所」とは何月に開催されますか?
 
@@ -1514,7 +1514,7 @@
 - D. 話題を変える
 
 **Đáp án:** A
-**Giải thích:** A bất lịch sự, C kiểu giảng đạo, D như không quan tâm. B chuẩn — mở topic vận động trung tính.
+**Giải thích:** A bất lịch sự, C kiểu giảng đạo, D như không quan tâm. B chuẩn — mở chủ đề vận động trung tính.
 
 **J1-49** *(Rule 18, 発言聴解)*: 「推し活」とは何ですか?
 
@@ -1524,7 +1524,7 @@
 - D. ボランティア活動
 
 **Đáp án:** B
-**Giải thích:** Buzzword Z gen. Bao gồm mua merchandise, đi live, share SNS, ủng hộ idol/character yêu thích.
+**Giải thích:** Buzzword thế hệ Z. Bao gồm mua đồ lưu niệm, đi live, chia sẻ mạng xã hội, ủng hộ idol/nhân vật yêu thích.
 
 **J1-50** *(Rule 19, 発言聴解)*: お客様が「最近のアニメ、あんまり詳しくなくてね」と言った場合、最適な対応は?
 
@@ -1534,7 +1534,7 @@
 - D. ジブリやコナンなど世代を超えた作品に切り替える
 
 **Đáp án:** D
-**Giải thích:** Không bỏ hẳn — chuyển Ghibli/Conan tìm điểm chung. A = ép, D = xúc phạm.
+**Giải thích:** Không bỏ hẳn chủ đề — chuyển sang Ghibli/Conan tìm điểm chung. A = ép, D = xúc phạm.
 
 **J1-51** *(Rule 20, 発言聴解)*: お客様が「政治的な話は控えてるんですよ」と言った場合、最適な対応は?
 
@@ -1544,6 +1544,6 @@
 - D. 「日本人は政治を語らないんですね」とコメント
 
 **Đáp án:** A
-**Giải thích:** Tín hiệu rõ — đổi topic ngay. A = ép, C = đào sâu hơn, D = áp đặt thiếu lịch sự.
+**Giải thích:** Tín hiệu rõ — đổi chủ đề ngay. A = ép buộc, C = đào sâu hơn, D = áp đặt thiếu lịch sự.
 
 ---

@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - 温泉 = **văn hóa chữa lành** đẳng cấp #1 Nhật. Senior 50-60t coi onsen cuối tuần = thuốc thần.
 - Mỗi vùng có 名湯 riêng — Hokkaido **登別** / Kyushu **黒川** / Gunma **草津** / Hyogo **有馬**.
@@ -13,15 +13,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Dũng + Hà CTO sắp đi công tác kết hợp 1 đêm ở 旅館 tại 箱根. Ōgaki gợi ý đặt giúp. Đồng thời Nakamura kể về 登別 (Hokkaido) và Sato kể về 黒川 (Kumamoto). Dũng phải biết nói đúng "ngôn ngữ" của giới mê onsen.
 
 ---
 
-## 💬 4 Scenarios — hội thoại thực chiến
+## 4 Scenarios — hội thoại thực chiến
 
-### 📍 Scenario 1 — 箱根 — gợi ý 旅館 + kaiseki
+### Scenario 1 — 箱根 — gợi ý 旅館 + kaiseki
 
 *giờ giải lao cuộc họp*
 
@@ -44,13 +44,13 @@ Dũng + Hà CTO sắp đi công tác kết hợp 1 đêm ở 旅館 tại 箱根
 | **ズン** | 「3回!1泊で3回入るんですね。覚えておきます。」 |
 |  | *3 lần! 1 đêm tắm 3 lần. Em ghi nhớ.* |
 
-📝【1】 **箱根** = thánh địa onsen gần Tokyo. 【2】 **旅館** = ryokan (kiểu truyền thống). 【3】 **強羅・仙石原・湯本** = 3 vùng onsen lớn Hakone. 【4】 **会席料理** = mâm nhiều món kèm rượu. 【5】 **露天風呂付き客室** = phòng có bồn lộ thiên riêng (hạng sang). 【6】 **懐石** = bữa ăn nhẹ trước 茶事 (trang trọng). 【7】 = 10 món truyền thống. 【8】 **仲居** = nakai-san (女性 phục vụ). 【9】 Vào onsen 2-3 lần/đêm = chuẩn.
+【1】 **箱根** = thánh địa onsen gần Tokyo. 【2】 **旅館** = ryokan (kiểu truyền thống). 【3】 **強羅・仙石原・湯本** = 3 vùng onsen lớn Hakone. 【4】 **会席料理** = mâm nhiều món kèm rượu. 【5】 **露天風呂付き客室** = phòng có bồn lộ thiên riêng (hạng sang). 【6】 **懐石** = bữa ăn nhẹ trước 茶事 (trang trọng). 【7】 = 10 món truyền thống. 【8】 **仲居** = nakai-san (女性 phục vụ). 【9】 Vào onsen 2-3 lần/đêm = chuẩn.
 
 > **VN:** Từ vựng onsen-ryokan: **会席 / 懐石 / 露天風呂 / 仲居 / 部屋食 / 朝風呂 / 夕食前湯 / 浴衣**. Senior cảm động khi người Việt biết đúng văn hóa 1 đêm 旅館.
 
 ---
 
-### 📍 Scenario 2 — 登別: Hokkaido + 地獄谷 (Nakamura kể)
+### Scenario 2 — 登別: Hokkaido + 地獄谷 (Nakamura kể)
 
 *Zoom kể chuyện cuối tuần · gây ấn tượng*
 
@@ -73,13 +73,13 @@ Dũng + Hà CTO sắp đi công tác kết hợp 1 đêm ở 旅館 tại 箱根
 | **ズン** | 「ぜひ計画させてください!」 |
 |  | *Vâng anh để em lên kế hoạch!* |
 
-📝【1】 **登別温泉** (Noboribetsu) = onsen hàng đầu Hokkaido. 【2】 **地獄谷** = "thung lũng địa ngục" — hơi nước nóng. 【3】 **第一滝本館** = ryokan 150 năm. 【4】 = 5 loại nước khác nhau cùng khu nghỉ. 【5】**硫黄泉** = lưu huỳnh. 【6】**鉄泉** = sắt.
+【1】 **登別温泉** (Noboribetsu) = onsen hàng đầu Hokkaido. 【2】 **地獄谷** = "thung lũng địa ngục" — hơi nước nóng. 【3】 **第一滝本館** = ryokan 150 năm. 【4】 = 5 loại nước khác nhau cùng khu nghỉ. 【5】**硫黄泉** = lưu huỳnh. 【6】**鉄泉** = sắt.
 
 > **VN:** Mỗi onsen có **泉質** riêng. **硫黄泉 / 鉄泉 / 単純泉 / 塩化物泉 / 炭酸水素塩泉**. Vốn từ này = trình độ senior.
 
 ---
 
-### 📍 Scenario 3 — 黒川温泉: Kyushu (Sato giới thiệu)
+### Scenario 3 — 黒川温泉: Kyushu (Sato giới thiệu)
 
 *rạng rỡ*
 
@@ -102,13 +102,13 @@ Dũng + Hà CTO sắp đi công tác kết hợp 1 đêm ở 旅館 tại 箱根
 | **ズン** | 「黒川+湯布院+阿蘇、絶対計画します!」 |
 |  | *Kurokawa + Yufuin + Aso, em chắc chắn sẽ lên kế hoạch!* |
 
-📝【1】 **黒川温泉** (Kumamoto) = onsen làng truyền thống. 【2】 **入湯手形** = "thẻ tắm" gỗ — vào 3 ryokan khác nhau. 【3】 **阿蘇山** = núi lửa Aso. 【4】 **湯布院** (Oita) = onsen khác Kyushu. 【5】 **由布岳** = núi Yufu. 【6】 **馬刺し** = sashimi ngựa Kumamoto. 【7】 **地鶏** = gà địa phương Miyazaki.
+【1】 **黒川温泉** (Kumamoto) = onsen làng truyền thống. 【2】 **入湯手形** = "thẻ tắm" gỗ — vào 3 ryokan khác nhau. 【3】 **阿蘇山** = núi lửa Aso. 【4】 **湯布院** (Oita) = onsen khác Kyushu. 【5】 **由布岳** = núi Yufu. 【6】 **馬刺し** = sashimi ngựa Kumamoto. 【7】 **地鶏** = gà địa phương Miyazaki.
 
 > **VN:** **湯布院** vs **黒川** vs **別府** = 3 onsen Kyushu. Mỗi nơi có concept riêng. **入湯手形** ở Kurokawa = đặc sản trải nghiệm.
 
 ---
 
-### 📍 Scenario 4 — Quy tắc ứng xử onsen (lần đầu Dũng đi)
+### Scenario 4 — Quy tắc ứng xử onsen (lần đầu Dũng đi)
 
 *lần đầu, hỏi 大垣 trước khi đi*
 
@@ -131,38 +131,38 @@ Dũng + Hà CTO sắp đi công tác kết hợp 1 đêm ở 旅館 tại 箱根
 | **大垣** | 「<ruby>脱衣所<rt>だついじょ</rt></ruby>でも<ruby>浴室<rt>よくしつ</rt></ruby>でもNG。<ruby>廊下<rt>ろうか</rt></ruby>と外だけ。あと<ruby>飲酒<rt>いんしゅ</rt></ruby>後すぐ温泉は気をつけて、<ruby>血圧<rt>けつあつ</rt></ruby>上がるから。<ruby>水分補給<rt>すいぶんほきゅう</rt></ruby>忘れずに。」 |
 |  | *Cả phòng thay đồ lẫn phòng tắm đều NG. Chỉ hành lang với ngoài thôi. Còn vừa uống rượu vào tắm là cẩn thận, huyết áp lên. Đừng quên uống nước.* |
 
-📝【1】 **かけ湯** = dội nước trước khi vào bồn. 【2】 **入れ墨** (irezumi) = xăm. Truyền thống = tránh.
+【1】 **かけ湯** = dội nước trước khi vào bồn. 【2】 **入れ墨** (irezumi) = xăm. Truyền thống = tránh.
 
 > **VN:** Quy tắc ứng xử onsen — 7 điều: ① **かけ湯** trước; ② **rửa kỹ ở 洗い場**; ③ **tóc búi cao**; ④ **không mang khăn vào nước**; ⑤ **không xăm** (truyền thống); ⑥ **không chụp ảnh** trong khu tắm; ⑦ **không vào ngay sau rượu**.
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ HỎI GỢI Ý CHUYẾN ĐI:
-「[<ruby>箱根<rt>はこね</rt></ruby>]の旅館、おすすめありますか?」
-「[<ruby>露天風呂付き客室<rt>ろてんぶろつききゃくしつ</rt></ruby>]って、<ruby>追加料金<rt>ついかりょうきん</rt></ruby>どれくらいですか?」
-「[<ruby>会席<rt>かいせき</rt></ruby>と<ruby>懐石<rt>かいせき</rt></ruby>]の違いって何ですか?」(người sành sỏi)
+「[箱根]の旅館、おすすめありますか?」
+「[露天風呂付き客室]って、追加料金どれくらいですか?」
+「[会席と懐石]の違いって何ですか?」(người sành sỏi)
 
 ■ TỪ VỰNG ONSEN:
-「[<ruby>硫黄泉<rt>いおうせん</rt></ruby>/<ruby>鉄泉<rt>てっせん</rt></ruby>]、<ruby>効能<rt>こうのう</rt></ruby>違うんですよね。」
-「[<ruby>雪見露天<rt>ゆきみろてん</rt></ruby>]、いつか入ってみたいです。」
-「[<ruby>泉質<rt>せんしつ</rt></ruby>]別の楽しみ方、教えてください。」
+「[硫黄泉/鉄泉]、効能違うんですよね。」
+「[雪見露天]、いつか入ってみたいです。」
+「[泉質]別の楽しみ方、教えてください。」
 
 ■ QUY TẮC ỨNG XỬ (lần đầu xin lời khuyên):
 「初めてなので、マナー教えていただけますか?」
-「[<ruby>かけ湯<rt>かけゆ</rt></ruby>]、入る前にしますよね。」
+「[かけ湯]、入る前にしますよね。」
 「[タオル]は頭の上ですよね。」
 
 ■ MỜI / ĐƯỢC MỜI:
 「次回[Hokkaido/Kyushu]、温泉一緒にいかがですか?」
-「[<ruby>登別<rt>のぼりべつ</rt></ruby>/<ruby>黒川<rt>くろかわ</rt></ruby>]、ぜひ計画させてください。」
+「[登別/黒川]、ぜひ計画させてください。」
 ```
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - Vào 湯船 mà **không かけ湯** trước → bị khách khác trừng mắt.
 - **Mang khăn xuống nước** → vi phạm quy tắc cơ bản.
@@ -172,34 +172,34 @@ Dũng + Hà CTO sắp đi công tác kết hợp 1 đêm ở 旅館 tại 箱根
 
 ---
 
-## 📚 Bảng từ vựng
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 温泉 | おんせん | Onsen |
-| 旅館 | りょかん | Ryokan |
-| 露天風呂 | ろてんぶろ | Bồn lộ thiên |
-| 内湯 | うちゆ | Bồn trong nhà |
-| 貸切風呂 | かしきりぶろ | Bồn riêng (private) |
-| 大浴場 | だいよくじょう | Bồn lớn chung |
-| 浴衣 | ゆかた | Yukata (kimono mỏng) |
-| 仲居 | なかい | Nakai-san (phục vụ ryokan) |
-| 部屋食 | へやしょく | Ăn tại phòng |
-| 会席料理 | かいせきりょうり | Mâm nhiều món kèm rượu |
-| 懐石 | かいせき | Bữa nhẹ trước 茶事 (trang trọng) |
-| 泉質 | せんしつ | Loại nước khoáng |
-| 硫黄泉 | いおうせん | Lưu huỳnh |
-| 単純泉 | たんじゅんせん | Nước đơn giản |
-| 塩化物泉 | えんかぶつせん | Natri clorua |
-| 名湯 | めいとう | Onsen nổi tiếng |
-| 入湯手形 | にゅうとうてがた | Thẻ gỗ vào nhiều bồn |
-| 雪見露天 | ゆきみろてん | Bồn lộ thiên ngắm tuyết |
-| 朝風呂 | あさぶろ | Tắm sáng |
-| かけ湯 | — | Dội nước trước khi vào |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 温泉 | おんせん | ÔN TUYỀN | Onsen |
+| 旅館 | りょかん | LỮ QUÁN | Ryokan |
+| 露天風呂 | ろてんぶろ | LỘ THIÊN PHONG LỮ | Bồn lộ thiên |
+| 内湯 | うちゆ | NỘI THANG | Bồn trong nhà |
+| 貸切風呂 | かしきりぶろ | THẢI THIẾT PHONG LỮ | Bồn riêng (private) |
+| 大浴場 | だいよくじょう | ĐẠI DỤC TRƯỜNG | Bồn lớn chung |
+| 浴衣 | ゆかた | DỤC Y | Yukata (kimono mỏng) |
+| 仲居 | なかい | TRỌNG CƯ | Nakai-san (phục vụ ryokan) |
+| 部屋食 | へやしょく | BỘ ỐC THỰC | Ăn tại phòng |
+| 会席料理 | かいせきりょうり | HỘI TỊCH LIỆU LÝ | Mâm nhiều món kèm rượu |
+| 懐石 | かいせき | HOÀI THẠCH | Bữa nhẹ trước 茶事 (trang trọng) |
+| 泉質 | せんしつ | TUYỀN CHẤT | Loại nước khoáng |
+| 硫黄泉 | いおうせん | LƯU HOÀNG TUYỀN | Lưu huỳnh |
+| 単純泉 | たんじゅんせん | ĐƠN THUẦN TUYỀN | Nước đơn giản |
+| 塩化物泉 | えんかぶつせん | DIÊM HÓA VẬT TUYỀN | Natri clorua |
+| 名湯 | めいとう | DANH THANG | Onsen nổi tiếng |
+| 入湯手形 | にゅうとうてがた | NHẬP THANG THỦ HÌNH | Thẻ gỗ vào nhiều bồn |
+| 雪見露天 | ゆきみろてん | TUYẾT KIẾN LỘ THIÊN | Bồn lộ thiên ngắm tuyết |
+| 朝風呂 | あさぶろ | TRIÊU PHONG LỮ | Tắm sáng |
+| かけ湯 | かけゆ | — | Dội nước trước khi vào |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Phân biệt 旅館 vs ホテル / 会席 vs 懐石.
 **J2 — 表現読解:** Từ vựng 泉質 (硫黄/鉄/単純) + công dụng tương ứng.

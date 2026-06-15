@@ -4,24 +4,24 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - 出身 = **danh tính cốt lõi** với người Nhật. Khác với người Việt khá thoáng chuyện quê.
 - Người vùng quê (地方) thường tự hào và **thiếu cơ hội kể** ở Tokyo → ai hỏi đúng là cảm động.
-- Senior 50-60t đặc biệt thích người trẻ nhớ quê họ — gợi nhớ tuổi trẻ.
+- Người cấp cao 50-60t đặc biệt thích người trẻ nhớ quê họ — gợi nhớ tuổi trẻ.
 - Hỏi 出身 ngay buổi đầu OK. Nhưng đừng hỏi địa chỉ chi tiết — đó là vùng riêng tư.
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Dũng vừa được giới thiệu 4 thành viên mới của 白鷗 (Hiroshi/Yamamoto/Sato/Kobayashi). Mỗi người một vùng. Dũng phải biết: hỏi → ghi vào CRM → tìm hiểu tư liệu → tuần sau quay lại bằng câu hỏi sâu cụ thể.
 
 ---
 
-## 💬 4 Scenario — hội thoại thực chiến
+## 4 Scenario — hội thoại thực chiến
 
-### 📍 Scenario 1 — Bước 1: HỎI lần đầu (gặp Hiroshi tại 関西支店)
+### Scenario 1 — Bước 1: HỎI lần đầu (gặp Hiroshi tại 関西支店)
 
 *sau 名刺交換, ngồi xuống · rạng rỡ*
 
@@ -40,15 +40,15 @@ Dũng vừa được giới thiệu 4 thành viên mới của 白鷗 (Hiroshi/Y
 | **広島部長** | 「そうそう!**マツダスタジアム**周りはお<ruby>祭<rt>まつ</rt></ruby>り<ruby>騒<rt>さわ</rt></ruby>ぎ。今度試合のチケット取れたら、ぜひ一緒に。」 |
 |  | *Đúng đúng! Quanh sân Mazda như lễ hội. Lần sau em mua được vé thì đi cùng nhé.* |
 
-📝【1】 **広島カープ** = đội Hiroshima Toyo Carp. Fan cuồng nhiệt nhất Nippon Professional Baseball.
+【1】 **広島カープ** = đội Hiroshima Toyo Carp. Fan cuồng nhiệt nhất Nippon Professional Baseball.
 
 > **VN:** Bước 1 = hỏi 出身 → kết nối ngay với 1 hình ảnh liên tưởng cụ thể (Carp). Đừng hỏi xong rồi im. Phải có 1 câu hỏi nối tiếp theo vùng miền ngay.
 
 ---
 
-### 📍 Scenario 2 — Bước 2: GHI NHỚ + về tìm hiểu tư liệu (Dũng trong khách sạn)
+### Scenario 2 — Bước 2: GHI NHỚ + về tìm hiểu tư liệu (Dũng trong khách sạn)
 
-*20:00 khách sạn, mở Notion CRM · Notion entry · tự nhủ · Wikipedia + Yahoo Japan check 30 phút · ghi vào CRM*
+*20:00 khách sạn, mở Notion CRM · ghi thẻ Notion · tự nhủ · Wikipedia + Yahoo Japan kiểm tra 30 phút · ghi vào CRM*
 
 | Vai | Câu |
 |---------|-----|
@@ -63,7 +63,7 @@ Dũng vừa được giới thiệu 4 thành viên mới của 白鷗 (Hiroshi/Y
 
 ---
 
-### 📍 Scenario 3 — Bước 3: QUAY LẠI bằng câu hỏi sâu (1 tuần sau)
+### Scenario 3 — Bước 3: QUAY LẠI bằng câu hỏi sâu (1 tuần sau)
 
 *zoom call 1 tuần sau, mở đầu · bất ngờ + vui · thực sự surprise*
 
@@ -82,13 +82,13 @@ Dũng vừa được giới thiệu 4 thành viên mới của 白鷗 (Hiroshi/Y
 | **広島部長** | 「全部<ruby>押<rt>お</rt></ruby>さえてるね。じゃあ次回広島<ruby>出張<rt>しゅっちょう</rt></ruby>するとき、<ruby>必<rt>かなら</rt></ruby>ず<ruby>連絡<rt>れんらく</rt></ruby>して。お好み焼きの**みっちゃん<ruby>総本店<rt>そうほんてん</rt></ruby>**、<ruby>案内<rt>あんない</rt></ruby>するよ。」 |
 |  | *Em chọn đúng hết rồi. Vậy lần sau công tác Hiroshima, nhớ báo anh. Quán okonomiyaki Mitchan Sōhonten anh dẫn đi.* |
 
-📝 **新井貴浩** (Arai Takahiro) = HLV 広島カープ (cựu cầu thủ, hiện huấn luyện viên). **みっちゃん総本店** = quán お好み焼 nổi tiếng nhất Hiroshima.
+ **新井貴浩** (Arai Takahiro) = HLV 広島カープ (cựu cầu thủ, hiện huấn luyện viên). **みっちゃん総本店** = quán お好み焼 nổi tiếng nhất Hiroshima.
 
 > **VN:** Bước 3 = quay lại bằng **3 chi tiết cụ thể** (kết quả trận, tên huấn luyện viên, tên quán). Khách 50 tuổi Hiroshima gặp đúng người am hiểu vùng quê → cảm động → mời dẫn đi quán.
 
 ---
 
-### 📍 Scenario 4 — Variant: Khách Okinawa (đặc biệt — văn hóa khác)
+### Scenario 4 — Variant: Khách Okinawa (đặc biệt — văn hóa khác)
 
 *gặp Kobayashi lần đầu · thoải mái*
 
@@ -107,13 +107,13 @@ Dũng vừa được giới thiệu 4 thành viên mới của 白鷗 (Hiroshi/Y
 | **小林** | 「あはは、ベトナムと沖縄、<ruby>合<rt>あ</rt></ruby>うかもね。今度那覇出張あったら、**<ruby>国際通<rt>こくさいどお</rt></ruby>り**と**<ruby>首里城<rt>しゅりじょう</rt></ruby>**、案内するよ。**ゴーヤチャンプル**もぜひ。」 |
 |  | *Haha, Việt Nam với Okinawa hợp nhau đó. Lần sau công tác Naha, đường Kokusai với đền Shuri anh dẫn đi. Goya chanpuru cũng phải thử.* |
 
-📝【1】 **三線** (さんしん) = đàn 3 dây Okinawa, tiền thân của shamisen. **沖縄時間** = giờ Okinawa (chậm rãi).
+【1】 **三線** (さんしん) = đàn 3 dây Okinawa, tiền thân của shamisen. **沖縄時間** = giờ Okinawa (chậm rãi).
 
 > **VN:** Okinawa = văn hóa **琉球** riêng — không gộp chung như "Nhật Bản nói chung". Phải biết từ khóa: 三線 / 沖縄時間 / ハイサイ / ゴーヤ / 泡盛.
 
 ---
 
-## 🎯 Câu vàng dùng ngay
+## Câu vàng dùng ngay
 
 ```
 ■ HỎI LẦN ĐẦU:
@@ -137,7 +137,7 @@ Dũng vừa được giới thiệu 4 thành viên mới của 白鷗 (Hiroshi/Y
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - Hỏi 出身 nhưng **không nối tiếp câu hỏi** → khách trả lời rồi mình im → khó xử.
 - Quên 出身 lần sau → đặc biệt với khách lớn tuổi, quên = mất điểm lớn.
@@ -147,25 +147,25 @@ Dũng vừa được giới thiệu 4 thành viên mới của 白鷗 (Hiroshi/Y
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 出身 | しゅっしん | Quê quán |
-| 生まれも育ちも | うまれもそだちも | Cả sinh lẫn lớn lên đều ở |
-| 単身赴任 | たんしんふにん | Đi công tác xa nhà một mình (vợ con ở quê) |
-| 名物 | めいぶつ | Đặc sản nổi tiếng vùng |
-| 地元 | じもと | Quê / địa phương |
-| ご当地 | ごとうち | "Của vùng đó" (お当地グルメ / お当地アイドル) |
-| 県人会 | けんじんかい | Hội đồng hương cấp tỉnh |
-| 方言 | ほうげん | Phương ngữ |
-| 訛り | なまり | Giọng địa phương |
-| 標準語 | ひょうじゅんご | Tiếng tiêu chuẩn (Tokyo) |
-| 地方 | ちほう | Tỉnh lẻ / vùng nông thôn (đối với Tokyo) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 出身 | しゅっしん | XUẤT THÂN | Quê quán |
+| 生まれも育ちも | うまれもそだちも | SINH / DỤC | Cả sinh lẫn lớn lên đều ở |
+| 単身赴任 | たんしんふにん | ĐƠN THÂN PHÓ NHẬM | Đi công tác xa nhà một mình (vợ con ở quê) |
+| 名物 | めいぶつ | DANH VẬT | Đặc sản nổi tiếng vùng |
+| 地元 | じもと | ĐỊA NGUYÊN | Quê / địa phương |
+| ご当地 | ごとうち | ĐƯƠNG ĐỊA | "Của vùng đó" (お当地グルメ / お当地アイドル) |
+| 県人会 | けんじんかい | HUYỆN NHÂN HỘI | Hội đồng hương cấp tỉnh |
+| 方言 | ほうげん | PHƯƠNG NGÔN | Phương ngữ |
+| 訛り | なまり | NGOA | Giọng địa phương |
+| 標準語 | ひょうじゅんご | TIÊU CHUẨN NGỮ | Tiếng tiêu chuẩn (Tokyo) |
+| 地方 | ちほう | ĐỊA PHƯƠNG | Tỉnh lẻ / vùng nông thôn (đối với Tokyo) |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Khi khách nói 出身 → mình phải trả lời gì. 3 bước: hỏi → kết nối → mời.
 **J2 — 表現読解:** Phân biệt "地元" (thân quen) vs "出身" (trang trọng) vs "故郷" (cảm xúc hoài niệm).

@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - JP văn hóa 二十四節気 — họ rất quan tâm thời tiết và sẽ tra cứu trước khi đi công tác.
 - "Hà Nội mùa đông 5°C" gây bất ngờ thực sự — JP tưởng nhiệt đới 365 ngày.
@@ -13,15 +13,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị công tác Đà Nẵng cho buổi tổng kết Phase 5. Đang tháng 10 — bão đang vào miền Trung. Phải giải thích cẩn thận.
 
 ---
 
-## 💬 4 Scenarios — hội thoại thực chiến
+## 4 Scenarios — hội thoại thực chiến
 
-### 📍 Scenario 1 — Hà Nội 4 mùa thật
+### Scenario 1 — Hà Nội 4 mùa thật
 
 *意外*
 
@@ -48,7 +48,7 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị cô
 
 ---
 
-### 📍 Scenario 2 — Bão và lũ miền Trung
+### Scenario 2 — Bão và lũ miền Trung
 
 *Okinawa · tra thời tiết ngay*
 
@@ -69,11 +69,11 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị cô
 | **小林** | 「そりゃ<ruby>生活の知恵<rt>せいかつのちえ</rt></ruby>だね。じゃ来週で調整しよう。」 |
 |  | *Đó đúng là kinh nghiệm sống. Vậy sắp lịch tuần sau.* |
 
-📝【1】 Hội An, Huế: "ngôi nhà 1 tầng để trống mùa lũ" — chi tiết sống động + dùng được thực tế. Sẽ ấn tượng khách Okinawa quen 防災.
+【1】 Hội An, Huế: "ngôi nhà 1 tầng để trống mùa lũ" — chi tiết sống động + dùng được thực tế. Sẽ ấn tượng khách Okinawa quen 防災.
 
 ---
 
-### 📍 Scenario 3 — HCM 2 mùa mưa khô
+### Scenario 3 — HCM 2 mùa mưa khô
 
 | Vai | Câu |
 |---------|-----|
@@ -98,7 +98,7 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị cô
 
 ---
 
-### 📍 Scenario 4 — So sánh với 4 mùa Nhật + bắc cầu
+### Scenario 4 — So sánh với 4 mùa Nhật + bắc cầu
 
 | Vai | Câu |
 |---------|-----|
@@ -123,7 +123,7 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị cô
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ HÀ NỘI:
@@ -150,7 +150,7 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị cô
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - "VN nóng quanh năm, dễ chịu" → sai, gây khách mặc sai khi công tác tháng 1 HN.
 - Bão miền Trung → nhắc đến viện trợ / chính trị quốc gia → vùng cấm.
@@ -160,25 +160,25 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị cô
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 北部/中部/南部 | ほくぶ/ちゅうぶ/なんぶ | Bắc / Trung / Nam |
-| 雨季/乾季 | うき/かんき | Mùa mưa / mùa khô |
-| 熱帯モンスーン | ねったいモンスーン | Khí hậu nhiệt đới gió mùa |
-| スコール | — | Mưa rào nhiệt đới |
-| 台風シーズン | たいふうシーズン | Mùa bão |
-| 浸水 | しんすい | Ngập nước |
-| 防災 | ぼうさい | Phòng chống thiên tai (vocab senior thích) |
-| 湿った冷気 | しめったれいき | Lạnh ẩm (đặc trưng HN) |
-| 蒸し暑い | むしあつい | Oi nóng có ẩm |
-| 紅葉狩り | もみじがり | Đi ngắm lá đỏ |
-| 季語 | きご | Quý ngữ (haiku culture) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 北部/中部/南部 | ほくぶ/ちゅうぶ/なんぶ | BẮC BỘ / TRUNG BỘ / NAM BỘ | Bắc / Trung / Nam |
+| 雨季/乾季 | うき/かんき | VŨ KỲ / CÀN KỲ | Mùa mưa / mùa khô |
+| 熱帯モンスーン | ねったいモンスーン | NHIỆT ĐỚI | Khí hậu nhiệt đới gió mùa |
+| スコール | スコール | — | Mưa rào nhiệt đới |
+| 台風シーズン | たいふうシーズン | ĐÀI PHONG | Mùa bão |
+| 浸水 | しんすい | THẨM THỦY | Ngập nước |
+| 防災 | ぼうさい | PHÒNG TAI | Phòng chống thiên tai (vocab senior thích) |
+| 湿った冷気 | しめったれいき | — | Lạnh ẩm (đặc trưng HN) |
+| 蒸し暑い | むしあつい | — | Oi nóng có ẩm |
+| 紅葉狩り | もみじがり | HỒNG DIỆP | Đi ngắm lá đỏ |
+| 季語 | きご | KỲ NGỮ | Quý ngữ (haiku culture) |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Khi khách hỏi đi công tác tháng X → biết tư vấn quần áo + tránh bão / mưa.
 **J2 — 表現読解:** Bắc cầu "Hà Nội ↔ HCM = Tokyo ↔ Naha" — sắc thái khác biệt văn hóa trong cùng 1 nước.

@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (3 dòng)
+## Tâm lý JP (3 dòng)
 
 - Câu hỏi đóng nhiều liên tiếp = "thẩm vấn" (尋問されてる感じ) → khách nặng nề.
 - Câu hỏi mở khéo + thì lịch sự ("〜いかがでしたか") = thể hiện tôn trọng senior.
@@ -12,7 +12,7 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 3 cấp câu hỏi mở từ mức formal → casual:
 
@@ -26,9 +26,9 @@
 
 ---
 
-## 💬 4 Scenarios — dialogue thực chiến
+## 4 Scenarios — dialogue thực chiến
 
-### 📍 Scenario 1 — BAD: Toàn câu hỏi đóng → mạch chết
+### Scenario 1 — XẤU: Toàn câu hỏi đóng → mạch chết
 
 *hoảng · không biết hỏi gì nữa*
 
@@ -49,11 +49,11 @@
 | **ズン** | 「…そうですか…」 |
 |  | *...vậy ạ...* |
 
-❌ **Vì sao XẤU:** 4 câu hỏi đóng = khách trả 4 lần "Yes/No" + "ええ" → mạch đứt. Khách không có cơ hội kể chuyện. Bạn cạn chủ đề trong 30 giây.
+ **Vì sao XẤU:** 4 câu hỏi đóng = khách trả 4 lần "Yes/No" + "ええ" → mạch đứt. Khách không có cơ hội kể chuyện. Bạn cạn chủ đề trong 30 giây.
 
 ---
 
-### 📍 Scenario 2 — GOOD: Đổi sang câu hỏi mở → khách kể tự nhiên
+### Scenario 2 — TỐT: Đổi sang câu hỏi mở → khách kể tự nhiên
 
 *phản hồi ngắn + đào sâu mở · kể tiếp 2 phút*
 
@@ -72,13 +72,13 @@
 | **松本** | 「東京湾の<ruby>若洲海浜公園<rt>わかすかいひんこうえん</rt></ruby>が多いかな…」 |
 |  | *Hay đi công viên biển Wakasu vịnh Tokyo.* |
 
-📝【1】 「いかがでしたか」 thay 「良かったですか」 = mở thay vì đóng. Đẳng cấp giữ nhịp 雑談.
+【1】 「いかがでしたか」 thay 「良かったですか」 = mở thay vì đóng. Đẳng cấp giữ nhịp 雑談.
 
 > **VN:** 1 câu hỏi mở khéo → khách kể một mạch dài (運動会 + 釣り) — bạn có 2 chủ đề mới để đào sâu. Khác hẳn Scenario 1.
 
 ---
 
-### 📍 Scenario 3 — Trường hợp đặc biệt: Khi cần xác nhận sự kiện (đóng OK) → ngay sau đó mở
+### Scenario 3 — Trường hợp đặc biệt: Khi cần xác nhận sự kiện (đóng OK) → ngay sau đó mở
 
 *đóng — xác nhận thông tin · mở ngay — đào sâu*
 
@@ -95,11 +95,11 @@
 | **ズン** | 「**藻岩山の夜景、どんな感じですか?**東京タワーから見るのとずいぶん違いますか?」 |
 |  | *Dạ cảnh từ Moiwa thế nào ạ? Khác nhiều so với tháp Tokyo không ạ?* |
 
-📝【2】 Kết hợp: "đóng để xác nhận" → "mở để đào". Đừng cứ đóng-đóng-đóng. Đóng = dọn sân, mở = trận đấu chính.
+【2】 Kết hợp: "đóng để xác nhận" → "mở để đào". Đừng cứ đóng-đóng-đóng. Đóng = dọn sân, mở = trận đấu chính.
 
 ---
 
-### 📍 Scenario 4 — Câu hỏi mở "tinh" — không hỏi 1 chiều, lồng ý
+### Scenario 4 — Câu hỏi mở "tinh" — không hỏi 1 chiều, lồng ý
 
 *với 大垣 ở izakaya · ngạc nhiên + đào*
 
@@ -114,14 +114,14 @@
 | **大垣** | 「あるよ、<ruby>丸の内<rt>まるのうち</rt></ruby>の『つるとんたん』とか、<ruby>本格的<rt>ほんかくてき</rt></ruby>でね。今度ご一緒しましょう。」 |
 |  | *Có chứ, 'Tsurutontan' ở Marunouchi, đúng vị lắm. Lần sau đi cùng nhé.* |
 
-📝【3】 Câu hỏi mở "có ý" — đặt trong bối cảnh (関西 vs 関東) thay vì hỏi suông "好きな食べ物は?". Khách có nguyên cớ để kể sâu, mình thể hiện hiểu vùng miền.
+【3】 Câu hỏi mở "có ý" — đặt trong bối cảnh (関西 vs 関東) thay vì hỏi suông "好きな食べ物は?". Khách có nguyên cớ để kể sâu, mình thể hiện hiểu vùng miền.
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
-■ MỞ TRANG TRỌNG (senior / khách mới):
+■ MỞ TRANG TRỌNG (người cấp cao / khách mới):
 「〜はいかがでしたか?」(週末は・出張は・お試しは)
 「〜について、どのようにお考えですか?」
 「〜のご経験、お聞かせいただけますか?」
@@ -145,7 +145,7 @@
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - **3 câu hỏi đóng liên tiếp** → khách cảm thấy "bị thẩm vấn" → mạch hội thoại đứt.
 - "**お元気ですか?**" với khách thân → công thức cứng, khách đáp 「元気です」 và hết. (Thay bằng「最近どうですか?」)
@@ -155,22 +155,22 @@
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 開かれた質問 | ひらかれたしつもん | Câu hỏi mở (open question) |
-| 閉じた質問 | とじたしつもん | Câu hỏi đóng (closed question) |
-| いかがでしたか | — | "Như thế nào ạ?" — formal mở |
-| どんな感じ | — | "Cảm giác thế nào" — standard mở |
-| 尋問 | じんもん | Thẩm vấn (cảm giác bị hỏi liên tiếp) |
-| 出汁 | だし | Nước dùng (Kansai vs Kanto) |
-| 藻岩山 | もいわやま | Núi Moiwa, Sapporo (vd) |
-| 物足りない | ものたりない | Thiếu thiếu, chưa đủ đã |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 開かれた質問 | ひらかれたしつもん | KHAI CHẤT VẤN | Câu hỏi mở (open question) |
+| 閉じた質問 | とじたしつもん | BẾ CHẤT VẤN | Câu hỏi đóng (closed question) |
+| いかがでしたか | いかがでしたか | — | "Như thế nào ạ?" — formal mở |
+| どんな感じ | どんなかんじ | — | "Cảm giác thế nào" — standard mở |
+| 尋問 | じんもん | TẦM VẤN | Thẩm vấn (cảm giác bị hỏi liên tiếp) |
+| 出汁 | だし | XUẤT CHẤP | Nước dùng (Kansai vs Kanto) |
+| 藻岩山 | もいわやま | TẢO NHAM SƠN | Núi Moiwa, Sapporo (vd) |
+| 物足りない | ものたりない | VẬT TÚC | Thiếu thiếu, chưa đủ đã |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Phân biệt câu hỏi mở vs đóng → khi nào dùng cái nào.
 **J2 — 表現読解:** 「いかがでしたか」 vs「良かったですか」 — keigo + tính chất câu hỏi.

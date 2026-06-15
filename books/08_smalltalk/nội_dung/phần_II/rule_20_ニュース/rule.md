@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - Văn hóa công sở Nhật **tránh tranh luận chính trị** trong môi trường làm việc — quy tắc ngầm.
 - Thể thao quốc tế (WBC, Olympics, World Cup) = chủ đề ai cũng nói được, an toàn.
@@ -13,15 +13,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Năm 2026 có WBC tháng 3 + bão lớn tháng 9 đổ bộ Kyushu. Dũng phải biết nói đúng "ngôn ngữ" về thể thao + thiên tai chuẩn xác. Còn Linh ngây thơ hỏi chính trị Mỹ-Trung → bị nhắc nhở.
 
 ---
 
-## 💬 4 Scenario — hội thoại thực chiến
+## 4 Scenario — hội thoại thực chiến
 
-### 📍 Scenario 1 — WBC 2026: thể thao quốc tế (Hiroshi)
+### Scenario 1 — WBC 2026: thể thao quốc tế (Hiroshi)
 
 *giờ giải lao họp, tháng 3 WBC đang diễn ra · gây ấn tượng*
 
@@ -38,19 +38,19 @@ Năm 2026 có WBC tháng 3 + bão lớn tháng 9 đổ bộ Kyushu. Dũng phải
 | **広島** | 「あれは**<ruby>伝説<rt>でんせつ</rt></ruby>の**<ruby>最終打席<rt>さいしゅうだせき</rt></ruby>【6】。<ruby>三振<rt>さんしん</rt></ruby>取ったとき、<ruby>日本中<rt>にほんじゅう</rt></ruby><ruby>震<rt>ふる</rt></ruby>えた。日本はベトナムでもWBC<ruby>人気<rt>にんき</rt></ruby>あると?」 |
 |  | *Cú at-bat huyền thoại. Lúc bắt được strike, cả nước Nhật rung. Việt Nam cũng có WBC fan à?* |
 | **ズン** | 「ベトナムは**ベースボール**マイナーですが、**MLBのDAZN<ruby>中継<rt>ちゅうけい</rt></ruby>**でファン<ruby>増<rt>ふ</rt></ruby>えてます。**ハノイ・ホーチミン**で**<ruby>草野球<rt>くさやきゅう</rt></ruby>**サークルもあります。」 |
-|  | *Việt Nam baseball ít phổ biến nhưng nhờ DAZN phát MLB nên fan tăng. Hà Nội với HCM cũng có CLB nghiệp dư.* |
+|  | *Việt Nam bóng chày ít phổ biến nhưng nhờ DAZN phát MLB nên fan tăng. Hà Nội với HCM cũng có CLB nghiệp dư.* |
 | **広島** | 「お、いつかベトナムでも**<ruby>プロ野球<rt>やきゅう</rt></ruby>**できるかもね。」 |
-|  | *Ồ, có khi Việt Nam tương lai cũng có pro baseball.* |
+|  | *Ồ, có khi Việt Nam tương lai cũng có bóng chày chuyên nghiệp.* |
 | **ズン** | 「夢ですね。**カープ**【7】が**<ruby>広島<rt>ひろしま</rt></ruby>**でやるみたいに、**ハノイ・タイガース**とか(笑)。」 |
 |  | *Là ước mơ. Như Carp ở Hiroshima, Hanoi Tigers chẳng hạn (cười).* |
 
-📝【1】 **WBC** = World Baseball Classic. 【2】 **大谷翔平** = Ohtani Shōhei. 【3】 **佐々木朗希** = Sasaki Rōki. 【4】 **山本由伸** = Yamamoto Yoshinobu. 【5】 **マイク・トラウト** = Mike Trout. 【6】 = at-bat huyền thoại 2023 finals. 【7】 **カープ** = Hiroshima Carp.
+【1】 **WBC** = World Baseball Classic. 【2】 **大谷翔平** = Ohtani Shōhei. 【3】 **佐々木朗希** = Sasaki Rōki. 【4】 **山本由伸** = Yamamoto Yoshinobu. 【5】 **マイク・トラウト** = Mike Trout. 【6】 = at-bat huyền thoại 2023 finals. 【7】 **カープ** = Hiroshima Carp.
 
 > **VN:** Thể thao quốc tế: **WBC / Olympics / W杯 / NBA / MLB**. Trận **日韓** / **日米** = chủ đề ai cũng nói được. Tên cầu thủ Nhật ở MLB (**大谷 / 山本 / 鈴木誠也 / 千賀**) = phải biết.
 
 ---
 
-### 📍 Scenario 2 — 台風 (bão Kyushu 9月 — Sato bị ảnh hưởng)
+### Scenario 2 — 台風 (bão Kyushu 9月 — Sato bị ảnh hưởng)
 
 *Zoom buổi sáng sau bão lớn*
 
@@ -73,13 +73,13 @@ Năm 2026 có WBC tháng 3 + bão lớn tháng 9 đổ bộ Kyushu. Dũng phải
 | **佐藤** | 「ベトナム側のサポート、本当に<ruby>助<rt>たす</rt></ruby>かる。」 |
 |  | *Việt Nam hỗ trợ cảm ơn nhiều.* |
 
-📝【1】 **台風** = bão. 【2】 **九州地方** = Kyushu region. 【3】 **避難所** = nơi sơ tán. 【4】 = 65m/s gió cực mạnh. 【5】 **停電** = mất điện. 【6】 **中部地方** = miền Trung VN.
+【1】 **台風** = bão. 【2】 **九州地方** = Kyushu region. 【3】 **避難所** = nơi sơ tán. 【4】 = 65m/s gió cực mạnh. 【5】 **停電** = mất điện. 【6】 **中部地方** = miền Trung VN.
 
 > **VN:** Khi khách Nhật gặp thiên tai = **đồng cảm + đề nghị giúp** + **không** đẩy việc. Từ vựng: **台風 / 地震 / 津波 / 避難 / 停電 / 浸水 / 安否確認 / 復旧**. Đàn anh rất cảm động khi đối tác Việt quan tâm.
 
 ---
 
-### 📍 Scenario 3 — Olympics tin gần đây (Tanaka)
+### Scenario 3 — Olympics tin gần đây (Tanaka)
 
 *Zoom, 2026*
 
@@ -102,13 +102,13 @@ Năm 2026 có WBC tháng 3 + bão lớn tháng 9 đổ bộ Kyushu. Dũng phải
 | **ズン** | 「お好み焼きパーティー!最高ですね。」 |
 |  | *Tiệc okonomiyaki! Tuyệt vời!* |
 
-📝【1】 **ミラノ・コルティナ五輪** = Milano-Cortina 2026 Winter Olympics. 【2】 **スピードスケート** = speed skating. 【3】 **高木美帆** = Takagi Miho. 【4】 **フィギュアスケート** = figure skating. 【5】 **鍵山優真** = Kagiyama Yuma. 【6】 **坂本花織** = Sakamoto Kaori. 【7】 **羽生結弦** = Hanyu Yuzuru (retired pro). 【8】 **平野歩夢** = Hirano Ayumu. 【9】 **スーパーフライト** = trick gold-winning Beijing 2022.
+【1】 **ミラノ・コルティナ五輪** = Milano-Cortina 2026 Winter Olympics. 【2】 **スピードスケート** = speed skating. 【3】 **高木美帆** = Takagi Miho. 【4】 **フィギュアスケート** = figure skating. 【5】 **鍵山優真** = Kagiyama Yuma. 【6】 **坂本花織** = Sakamoto Kaori. 【7】 **羽生結弦** = Hanyu Yuzuru (retired pro). 【8】 **平野歩夢** = Hirano Ayumu. 【9】 **スーパーフライト** = trick gold-winning Beijing 2022.
 
 > **VN:** Olympics là chủ đề theo mùa: 夏季 (**東京2020 / パリ2024 / LA 2028**), 冬季 (**北京2022 / ミラノ2026**). Tên vận động viên Nhật cần thuộc.
 
 ---
 
-### 📍 Scenario 4 — NG: Linh hỏi chính trị Mỹ-Trung
+### Scenario 4 — NG: Linh hỏi chính trị Mỹ-Trung
 
 *họp với Matsumoto, ngây thơ · rõ ràng khó xử · không nhận ra · cứng rắn lịch sự · 救援 · thoải mái lại*
 
@@ -127,13 +127,13 @@ Năm 2026 có WBC tháng 3 + bão lớn tháng 9 đổ bộ Kyushu. Dũng phải
 | **松本** | 「ああ、WBCね!大谷くんは本当にすごい。」 |
 |  | *À, WBC! Ohtani thực sự đỉnh.* |
 
-❌ **Danh sách NG:** ① 米中 chính trị; ② 北朝鮮 / 韓国 vấn đề lịch sử; ③ Đài Loan; ④ 安倍 / 岸田 / 石破 cá nhân 政治家; ⑤ 天皇制; ⑥ 靖国神社; ⑦ vụ án hình sự cụ thể; ⑧ scandal showbiz; ⑨ tôn giáo.
+ **Danh sách NG:** ① 米中 chính trị; ② 北朝鮮 / 韓国 vấn đề lịch sử; ③ Đài Loan; ④ 安倍 / 岸田 / 石破 cá nhân 政治家; ⑤ 天皇制; ⑥ 靖国神社; ⑦ vụ án hình sự cụ thể; ⑧ scandal showbiz; ⑨ tôn giáo.
 
-✅ **OK:** Thể thao / thiên tai (đồng cảm) / **科学技術** nói chung (大谷 / iPS / NASA) / 文化 (Oscar / Cannes).
+ **OK:** Thể thao / thiên tai (đồng cảm) / **科学技術** nói chung (大谷 / iPS / NASA) / 文化 (Oscar / Cannes).
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ THỂ THAO QUỐC TẾ:
@@ -161,7 +161,7 @@ Năm 2026 có WBC tháng 3 + bão lớn tháng 9 đổ bộ Kyushu. Dũng phải
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - Mở chính trị **米中 / 中台 / 韓国 / 北朝鮮**.
 - Nhắc đến **天皇 / 靖国 / 戦争** — quá nhạy cảm.
@@ -172,35 +172,35 @@ Năm 2026 có WBC tháng 3 + bão lớn tháng 9 đổ bộ Kyushu. Dũng phải
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| ニュース | — | Tin tức |
-| 国際 | こくさい | Quốc tế |
-| 時事問題 | じじもんだい | Vấn đề thời sự |
-| スポーツ | — | Thể thao |
-| ワールドカップ | — | World Cup |
-| オリンピック | — | Olympics |
-| WBC | — | World Baseball Classic |
-| 五輪 | ごりん | Olympics (kanji) |
-| 台風 | たいふう | Bão |
-| 地震 | じしん | Động đất |
-| 津波 | つなみ | Tsunami |
-| 災害 | さいがい | Thiên tai |
-| 避難所 | ひなんじょ | Nơi sơ tán |
-| 停電 | ていでん | Mất điện |
-| 復旧 | ふっきゅう | Phục hồi |
-| 安否確認 | あんぴかくにん | Xác nhận an nguy |
-| お見舞い | おみまい | Thăm hỏi (khi bệnh / disaster) |
-| 政治 | せいじ | Chính trị |
-| 政治的な話 | せいじてきなはなし | Chuyện chính trị |
-| 国民的話題 | こくみんてきわだい | Topic quốc dân |
-| 科学技術 | かがくぎじゅつ | Khoa học công nghệ |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| ニュース | ニュース | — | Tin tức |
+| 国際 | こくさい | QUỐC TẾ | Quốc tế |
+| 時事問題 | じじもんだい | THỜI SỰ VẤN ĐỀ | Vấn đề thời sự |
+| スポーツ | スポーツ | — | Thể thao |
+| ワールドカップ | ワールドカップ | — | World Cup |
+| オリンピック | オリンピック | — | Olympics |
+| WBC | WBC | — | World Baseball Classic |
+| 五輪 | ごりん | NGŨ LUÂN | Olympics (kanji) |
+| 台風 | たいふう | ĐÀI PHONG | Bão |
+| 地震 | じしん | ĐỊA CHẤN | Động đất |
+| 津波 | つなみ | TÂN BA | Tsunami |
+| 災害 | さいがい | TAI HẠI | Thiên tai |
+| 避難所 | ひなんじょ | TỴ NẠN SỞ | Nơi sơ tán |
+| 停電 | ていでん | ĐÌNH ĐIỆN | Mất điện |
+| 復旧 | ふっきゅう | PHỤC CỰU | Phục hồi |
+| 安否確認 | あんぴかくにん | AN PHỦ XÁC NHẬN | Xác nhận an nguy |
+| お見舞い | おみまい | KIẾN VŨ | Thăm hỏi (khi bệnh / disaster) |
+| 政治 | せいじ | CHÍNH TRỊ | Chính trị |
+| 政治的な話 | せいじてきなはなし | CHÍNH TRỊ ĐÍCH THOẠI | Chuyện chính trị |
+| 国民的話題 | こくみんてきわだい | QUỐC DÂN ĐÍCH THOẠI ĐỀ | Topic quốc dân |
+| 科学技術 | かがくぎじゅつ | KHOA HỌC KỸ THUẬT | Khoa học công nghệ |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Phân biệt chủ đề an toàn (thể thao / thiên tai đồng cảm) vs NG (chính trị / scandal).
 **J2 — 表現読解:** "**お見舞い申し上げます**" trang trọng vs "**お気の毒に**" thân mật — khi nào dùng cái nào.

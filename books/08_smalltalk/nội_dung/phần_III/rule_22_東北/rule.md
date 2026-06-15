@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Tâm lý JP
+## Tâm lý JP
 
 - Người Tohoku tính trầm — không sởi lởi như Kansai. Đừng mong họ tự khoe quê.
 - Cảm động nhất khi đối tác **hỏi cụ thể tỉnh** chứ không gộp "東北" chung chung.
@@ -14,15 +14,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 6/2026, Dũng tham dự bữa nhậu cuối tuần với 4 khách Hakuō Tokyo HQ. Anh Tanaka PMO mở lời: "Hôm nay có anh **Yoshida** quê **仙台**, anh **Endo** quê **山形** sang giao lưu." → Dũng phải biết phân biệt 6 tỉnh để mở chủ đề.
 
 ---
 
-## 💬 4 Scenarios
+## 4 Scenarios
 
-### 📍 Scenario 1 — Mở chủ đề — phân biệt tỉnh trong Tohoku
+### Scenario 1 — Mở chủ đề — phân biệt tỉnh trong Tohoku
 
 *với khách Yoshida quê Sendai*
 
@@ -45,7 +45,7 @@ Tháng 6/2026, Dũng tham dự bữa nhậu cuối tuần với 4 khách Hakuō 
 
 ---
 
-### 📍 Scenario 2 — Khách Yamagata + chủ đề sake
+### Scenario 2 — Khách Yamagata + chủ đề sake
 
 | Vai | Câu |
 |---------|-----|
@@ -66,7 +66,7 @@ Tháng 6/2026, Dũng tham dự bữa nhậu cuối tuần với 4 khách Hakuō 
 
 ---
 
-### 📍 Scenario 3 — Akita + なまはげ + 竿燈まつり
+### Scenario 3 — Akita + なまはげ + 竿燈まつり
 
 *say chuyện về 3 大祭り*
 
@@ -89,7 +89,7 @@ Tháng 6/2026, Dũng tham dự bữa nhậu cuối tuần với 4 khách Hakuō 
 
 ---
 
-### 📍 Scenario 4 — Iwate わんこそば + Fukushima 喜多方ラーメン
+### Scenario 4 — Iwate わんこそば + Fukushima 喜多方ラーメン
 
 | Vai | Câu |
 |---------|-----|
@@ -110,7 +110,7 @@ Tháng 6/2026, Dũng tham dự bữa nhậu cuối tuần với 4 khách Hakuō 
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ MỞ CHỦ ĐỀ TỈNH:
@@ -136,7 +136,7 @@ Tháng 6/2026, Dũng tham dự bữa nhậu cuối tuần với 4 khách Hakuō 
 
 ---
 
-## 🗾 Bảng tra nhanh vùng miền — 東北 (6県)
+## Bảng tra nhanh vùng miền — 東北 (6県)
 
 | 県 | Tỉnh lỵ | Đặc sản | Sake/酒 | Lễ hội biểu tượng | Du lịch |
 |----|---------|---------|---------|-------------------|---------|
@@ -151,7 +151,7 @@ Tháng 6/2026, Dũng tham dự bữa nhậu cuối tuần với 4 khách Hakuō 
 
 ---
 
-## ⚠ NG
+## NG
 
 - Hỏi **「東北のどこですか?」** quá đột ngột → cứ "ご出身は?" rồi phản hồi theo.
 - Gộp **6 tỉnh** với nhau khi nói "東北の方" → mất chiều sâu.
@@ -161,26 +161,26 @@ Tháng 6/2026, Dũng tham dự bữa nhậu cuối tuần với 4 khách Hakuō 
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 牛タン | ぎゅうたん | Lưỡi bò nướng (Sendai) |
-| ずんだ餅 | ずんだもち | Mochi đậu nành xanh |
-| わんこそば | — | Soba ăn nhiều bát nhỏ (Iwate) |
-| きりたんぽ鍋 | — | Lẩu cơm que (Akita) |
-| いぶりがっこ | — | Củ cải hun khói muối |
-| なまはげ | — | Ác quỷ truyền thống Akita |
-| 竿燈まつり | かんとうまつり | Lễ hội đèn sào Akita |
-| ねぶた祭 | — | Lễ hội thuyền giấy Aomori |
-| 七夕まつり | たなばたまつり | Lễ hội Tanabata Sendai |
-| さくらんぼ | — | Quả cherry (山形佐藤錦) |
-| 喜多方ラーメン | きたかたらーめん | Ramen Kitakata Fukushima |
-| 樹氷 | じゅひょう | Cây băng tuyết (Zaō Yamagata) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 牛タン | ぎゅうたん | NGƯU — | Lưỡi bò nướng (Sendai) |
+| ずんだ餅 | ずんだもち | — BÍNH | Mochi đậu nành xanh |
+| わんこそば | わんこそば | — | Soba ăn nhiều bát nhỏ (Iwate) |
+| きりたんぽ鍋 | きりたんぽなべ | — | Lẩu cơm que (Akita) |
+| いぶりがっこ | いぶりがっこ | — | Củ cải hun khói muối |
+| なまはげ | なまはげ | — | Ác quỷ truyền thống Akita |
+| 竿燈まつり | かんとうまつり | CAN ĐĂNG — | Lễ hội đèn sào Akita |
+| ねぶた祭 | ねぶたまつり | — TẾ | Lễ hội thuyền giấy Aomori |
+| 七夕まつり | たなばたまつり | THẤT TỊCH — | Lễ hội Tanabata Sendai |
+| さくらんぼ | さくらんぼ | — | Quả cherry (山形佐藤錦) |
+| 喜多方ラーメン | きたかたらーめん | HỈ ĐA PHƯƠNG — | Ramen Kitakata Fukushima |
+| 樹氷 | じゅひょう | THỤ BĂNG | Cây băng tuyết (Zaō Yamagata) |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Nghe khách nói quê → match đúng đặc sản 1 món.
 **J2 — 表現読解:** Phân biệt 「東北屈指の酒どころ」 = niềm tự hào, phản hồi bằng sự ngưỡng mộ.

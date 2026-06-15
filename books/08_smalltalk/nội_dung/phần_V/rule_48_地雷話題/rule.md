@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (3 dòng)
+## Tâm lý JP (3 dòng)
 
 - Một sai chủ đề MÌN = mất 6 tháng uy tín, không cứu được nhanh.
 - JP thường **không phản ứng** ngay khi mình lỡ chạm — chỉ **lặng đi** + sau đó "không gọi nữa".
@@ -12,32 +12,32 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tham khảo. 2 tình huống — 1 ví dụ né khéo khi khách thử dò, 1 ví dụ gỡ tình huống khi đồng nghiệp VN suýt nổ.
 
 ---
 
-## 📋 BẢNG ĐỎ — 10 CHỦ ĐỀ MÌN
+## BẢNG ĐỎ — 10 CHỦ ĐỀ MÌN
 
 | # | Chủ đề | Mức nguy | Câu né khéo |
 |---|-------|----------|----------------|
-| 1 | **Tuổi tác phụ nữ** | 🟥🟥🟥 | "個人的なことなのでお伺いするの控えますね" |
-| 2 | **Lương / thu nhập** | 🟥🟥🟥 | "そういうの私あんまり詳しくなくて…" |
-| 3 | **Chính trị (TQ-Mỹ-Nhật-VN)** | 🟥🟥🟥 | "私、政治はあまり詳しくないので…" |
-| 4 | **Tôn giáo** | 🟥🟥 | "宗教の話は詳しくないので…" |
-| 5 | **Bê bối nội bộ công ty Nhật** | 🟥🟥🟥 | "(im lặng), 業界のことですか…" |
-| 6 | **Hôn nhân — chưa kết hôn / chưa con** | 🟥🟥 | "[名前]さんは?" + đổi chủ đề ngay |
-| 7 | **Ngoại tình / chuyện hôn nhân không êm** | 🟥🟥🟥 | "(không đáp lại), 話変わりますが…" |
-| 8 | **So sánh "VN > JP" / "JP > VN" tiêu cực** | 🟥🟥 | "それぞれ良いところありますよね" |
-| 9 | **Tết Mậu Thân / Thống nhất 30/4 / Pháp thuộc địa** | 🟥🟥🟥 | "歴史は専門家に任せるとして…(đổi chủ đề)" |
-| 10 | **Yakuza / 暴力団 / 同和** | 🟥🟥🟥 | "(không đáp lại), 別の話で…" |
+| 1 | **Tuổi tác phụ nữ** |  | "個人的なことなのでお伺いするの控えますね" |
+| 2 | **Lương / thu nhập** |  | "そういうの私あんまり詳しくなくて…" |
+| 3 | **Chính trị (TQ-Mỹ-Nhật-VN)** |  | "私、政治はあまり詳しくないので…" |
+| 4 | **Tôn giáo** |  | "宗教の話は詳しくないので…" |
+| 5 | **Bê bối nội bộ công ty Nhật** |  | "(im lặng), 業界のことですか…" |
+| 6 | **Hôn nhân — chưa kết hôn / chưa con** |  | "[名前]さんは?" + đổi chủ đề ngay |
+| 7 | **Ngoại tình / chuyện hôn nhân không êm** |  | "(không đáp lại), 話変わりますが…" |
+| 8 | **So sánh "VN > JP" / "JP > VN" tiêu cực** |  | "それぞれ良いところありますよね" |
+| 9 | **Tết Mậu Thân / Thống nhất 30/4 / Pháp thuộc địa** |  | "歴史は専門家に任せるとして…(đổi chủ đề)" |
+| 10 | **Yakuza / 暴力団 / 同和** |  | "(không đáp lại), 別の話で…" |
 
 ---
 
-## 💬 2 Tình huống — hội thoại thực chiến
+## 2 Tình huống — hội thoại thực chiến
 
-### 📍 Scenario 1 — Khi khách thử dò: chính trị TQ
+### Scenario 1 — Khi khách thử dò: chính trị TQ
 
 *夜の二次会, hơi say · né khéo · không ép · chuyển sang thể thao · biết ơn vì đổi chủ đề*
 
@@ -54,11 +54,11 @@ Tham khảo. 2 tình huống — 1 ví dụ né khéo khi khách thử dò, 1 v�
 | **大垣** | 「あー、阪神な、今年は…(20分không khí trở lại)」 |
 |  | *À, Hanshin nhỉ, năm nay... (20 phút không khí trở lại)* |
 
-📝【1】 **Câu chuẩn né chính trị:** "私、政治はあまり詳しくないので…" + "色んな見方あって" + "普通の市民なので". 3 lớp = né mà không xúc phạm. **Sau đó chuyển sang chủ đề thân thuộc khách** ngay (thể thao / quê).
+【1】 **Câu chuẩn né chính trị:** "私、政治はあまり詳しくないので…" + "色んな見方あって" + "普通の市民なので". 3 lớp = né mà không xúc phạm. **Sau đó chuyển sang chủ đề thân thuộc khách** ngay (thể thao / quê).
 
 ---
 
-### 📍 Scenario 2 — Gỡ tình huống đồng nghiệp VN suýt nổ chủ đề mìn #1 (tuổi PN)
+### Scenario 2 — Gỡ tình huống đồng nghiệp VN suýt nổ chủ đề mìn #1 (tuổi PN)
 
 *nhân viên trẻ VN 28t, thân mật · mặt cứng đờ 0,5 giây · gỡ ngay, ngắt vào · nhận ra · độ lượng · chuyển sang chủ đề an toàn · tò mò, không khí hồi phục · trở lại bình thường*
 
@@ -81,11 +81,11 @@ Tham khảo. 2 tình huống — 1 ví dụ né khéo khi khách thử dò, 1 v�
 | **ハイ** | 「これからは気をつけます、ありがとうございます。」 |
 |  | *Em rút kinh nghiệm, cảm ơn ạ.* |
 
-📝【1】 **Gỡ tình huống 3 bước:** ① Ngắt vào giải thích cho **đồng nghiệp VN** (không trách công khai), ② **Giải thích nhẹ nhàng bằng "ở VN bình thường, ở JP khác"**, ③ **Chuyển sang chủ đề an toàn** (giao lưu văn hóa) để cả 3 bên có chủ đề mới.
+【1】 **Gỡ tình huống 3 bước:** ① Ngắt vào giải thích cho **đồng nghiệp VN** (không trách công khai), ② **Giải thích nhẹ nhàng bằng "ở VN bình thường, ở JP khác"**, ③ **Chuyển sang chủ đề an toàn** (giao lưu văn hóa) để cả 3 bên có chủ đề mới.
 
 ---
 
-## 🎯 Câu vàng copy-paste — Câu NÉ KHÉO
+## Câu vàng copy-paste — Câu NÉ KHÉO
 
 ```
 ■ NÉ CHÍNH TRỊ:
@@ -121,7 +121,7 @@ Tham khảo. 2 tình huống — 1 ví dụ né khéo khi khách thử dò, 1 v�
 
 ---
 
-## ⚠ KHI ĐÃ LỠ CHẠM MÌN
+## KHI ĐÃ LỠ CHẠM MÌN
 
 - **KHÔNG** giải thích thêm / bào chữa → đào sâu hố.
 - **Im lặng 1 giây** → "話変わりますが…" → đổi sang chủ đề mới.
@@ -130,25 +130,25 @@ Tham khảo. 2 tình huống — 1 ví dụ né khéo khi khách thử dò, 1 v�
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 地雷 | じらい | Mìn (cách nói ví: chủ đề nguy hiểm) |
-| 政治 | せいじ | Chính trị |
-| 宗教 | しゅうきょう | Tôn giáo |
-| 年齢 | ねんれい | Tuổi tác |
-| 給料 | きゅうりょう | Lương |
-| 暴力団 | ぼうりょくだん | Yakuza (cấm hỏi) |
-| 同和 | どうわ | Vùng nhạy cảm xã hội Burakumin (cấm hỏi) |
-| お控えします | おひかえします | "Em xin không hỏi/nói" (cách né lịch sự) |
-| 専門家 | せんもんか | Chuyên gia |
-| 個人的 | こじんてき | Riêng tư cá nhân |
-| 一般市民 | いっぱんしみん | Công dân bình thường |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 地雷 | じらい | ĐỊA LÔI | Mìn (cách nói ví: chủ đề nguy hiểm) |
+| 政治 | せいじ | CHÍNH TRỊ | Chính trị |
+| 宗教 | しゅうきょう | TÔNG GIÁO | Tôn giáo |
+| 年齢 | ねんれい | NIÊN LINH | Tuổi tác |
+| 給料 | きゅうりょう | CẤP LIỆU | Lương |
+| 暴力団 | ぼうりょくだん | BẠO LỰC ĐOÀN | Yakuza (cấm hỏi) |
+| 同和 | どうわ | ĐỒNG HÒA | Vùng nhạy cảm xã hội Burakumin (cấm hỏi) |
+| お控えします | おひかえします | KHỐNG | "Em xin không hỏi/nói" (cách né lịch sự) |
+| 専門家 | せんもんか | CHUYÊN MÔN GIA | Chuyên gia |
+| 個人的 | こじんてき | CÁ NHÂN ĐÍCH | Riêng tư cá nhân |
+| 一般市民 | いっぱんしみん | NHẤT BAN THỊ DÂN | Công dân bình thường |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Nhận biết 10 chủ đề MÌN + có câu né chuẩn.
 **J2 — 表現読解:** Bắt sắc thái "0,5 giây cứng đờ" của khách → đã chạm mìn, đổi chủ đề ngay.

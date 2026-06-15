@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - 一次会 = nửa trang trọng. **二次会 = gắn kết thật sự** — nơi senior hé lộ chuyện thật.
 - "Tôi xin phép về trước" sau 一次会 = OK nếu có lý do thuyết phục, nhưng **mất cơ hội**.
@@ -13,15 +13,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 5/2026, bữa tối kết thúc Phase 4 đang ở giai đoạn cuối 一次会 izakaya Tokyo. Ōgaki muốn 二次会, hỏi "tiếp không?". Dũng phải quyết định + dẫn dắt. Sau đó 23h câu hỏi 締め.
 
 ---
 
-## 💬 4 Scenarios — dialogue thực chiến
+## 4 Scenarios — dialogue thực chiến
 
-### 📍 Scenario 1 — Chuyển 一次会 → 二次会 (thời điểm quyết định)
+### Scenario 1 — Chuyển 一次会 → 二次会 (thời điểm quyết định)
 
 *21:30, 一次会 đang tàn · lướt nhìn bàn nhanh — Tuấn OK, Tanaka OK, Matsumoto đã đặt taxi nói "今日はここで"… · rời · tiễn Matsumoto ra cửa, sau đó quay lại bàn · quay vào*
 
@@ -42,11 +42,11 @@ Tháng 5/2026, bữa tối kết thúc Phase 4 đang ở giai đoạn cuối 一
 | **大垣** | 「<ruby>銀座一丁目<rt>ぎんざいっちょうめ</rt></ruby>の『**ベルトラム**』。<ruby>古<rt>ふる</rt></ruby>いウイスキーバーで、<ruby>店長<rt>てんちょう</rt></ruby>と<ruby>仲良<rt>なかよ</rt></ruby>いんだ。」 |
 |  | *Bar 'Bertram' Ginza 1-chome. Bar whisky cũ, anh thân với chủ.* |
 
-📝 **Công thức:** Junior **không tự đề xuất 二次会** — đợi senior. Khi senior rủ, **nhìn quanh bàn xem ai về ai ở** rồi xác nhận lại cho senior. **Tiễn khách về** (Matsumoto) trước khi đi 二次会 = chuyên nghiệp.
+ **Công thức:** Junior **không tự đề xuất 二次会** — đợi senior. Khi senior rủ, **nhìn quanh bàn xem ai về ai ở** rồi xác nhận lại cho senior. **Tiễn khách về** (Matsumoto) trước khi đi 二次会 = chuyên nghiệp.
 
 ---
 
-### 📍 Scenario 2 — 二次会 bar — kéo câu chuyện sâu hơn
+### Scenario 2 — 二次会 bar — kéo câu chuyện sâu hơn
 
 *ベルトラム, 22:00, không khí trầm hơn izakaya · gọi whisky cho cả bàn — giọng thân hơn · kể chuyện riêng tư hơn · lắng nghe — không cướp lời · gật đầu chừng mực · thân thiết*
 
@@ -71,11 +71,11 @@ Tháng 5/2026, bữa tối kết thúc Phase 4 đang ở giai đoạn cuối 一
 | **田中** | 「ホーチミン行くとき<ruby>教<rt>おし</rt></ruby>えて。」 |
 |  | *Khi nào tôi đi HCM em chỉ nhé.* |
 
-📝【1】 **二次会 = senior hé lộ thật.** Junior phải lắng nghe kỹ → đây là khoảnh khắc quan trọng nhất cho quan hệ. KHÔNG phá bằng đùa cợt / đổi chủ đề.
+【1】 **二次会 = senior hé lộ thật.** Junior phải lắng nghe kỹ → đây là khoảnh khắc quan trọng nhất cho quan hệ. KHÔNG phá bằng đùa cợt / đổi chủ đề.
 
 ---
 
-### 📍 Scenario 3 — Khi nào "xin về sớm" — và cách nói
+### Scenario 3 — Khi nào "xin về sớm" — và cách nói
 
 *23:00, ベルトラム, Tuấn đã có vợ + con nhỏ + sáng mai bay sớm · cẩn trọng — quay sang Ōgaki · quay sang Tanaka, Dũng · đứng dậy, tiễn ra cửa · ra tới cửa*
 
@@ -96,13 +96,13 @@ Tháng 5/2026, bữa tối kết thúc Phase 4 đang ở giai đoạn cuối 一
 | **ズン** | 「<ruby>了解<rt>りょうかい</rt></ruby>、もう<ruby>少<rt>すこ</rt></ruby>し残ります。」 |
 |  | *Vâng, em ở thêm chút ạ.* |
 
-📝【1】 **「先に失礼させていただいてもよろしいでしょうか?」** = mẫu câu chuẩn xin về. Có **lý do thuyết phục** (sáng mai bay sớm / con đau / vợ chờ) — không mơ hồ.
+【1】 **「先に失礼させていただいてもよろしいでしょうか?」** = mẫu câu chuẩn xin về. Có **lý do thuyết phục** (sáng mai bay sớm / con đau / vợ chờ) — không mơ hồ.
 
-📝【2】 Tuấn (senior) dặn Dũng ở lại = có tính toán — câu chuyện Phase 5 đang trôi chảy. Junior nhỏ tuổi nhất nên về muộn nhất.
+【2】 Tuấn (người cấp cao) dặn Dũng ở lại = có tính toán — câu chuyện Phase 5 đang trôi chảy. Nhân viên mới nhỏ tuổi nhất nên về muộn nhất.
 
 ---
 
-### 📍 Scenario 4 — 締め: ラーメン hay 帰宅?
+### Scenario 4 — 締め: ラーメン hay 帰宅?
 
 *23:50, 二次会 vừa chốt · xem mức "sung sức" của Ōgaki · 00:20, ラーメン店, ăn nhanh 15 phút · húp xong · đứng ngoài cửa, tiễn senior lên taxi · trong taxi, mỉm cười*
 
@@ -125,11 +125,11 @@ Tháng 5/2026, bữa tối kết thúc Phase 4 đang ở giai đoạn cuối 一
 | **大垣** | 「ズン、お疲れ。」 |
 |  | *Dũng, em vất vả.* |
 
-📝 **締め = tùy chọn nhưng thể hiện sự đồng hành của junior.** "ハノイにも締め麺 文化ある" = bắc cầu khéo + thể hiện quan tâm. **Tiễn senior lên taxi** = kết thúc trọn vẹn.
+ **締め = tùy chọn nhưng thể hiện sự đồng hành của junior.** "ハノイにも締め麺 文化ある" = bắc cầu khéo + thể hiện quan tâm. **Tiễn senior lên taxi** = kết thúc trọn vẹn.
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ CHUYỂN 一次会 → 二次会:
@@ -137,7 +137,7 @@ Tháng 5/2026, bữa tối kết thúc Phase 4 đang ở giai đoạn cuối 一
 「[senior]さん、お店のご案内をお願いします。」
 
 ■ 二次会 LẮNG NGHE:
-(KHÔNG cướp lời khi senior hé lộ thật)
+(KHÔNG cướp lời khi người cấp cao hé lộ thật)
 「…そうだったんですか。光栄です。」
 「ありがとうございます。社内で準備しておきます。」
 
@@ -152,34 +152,34 @@ Tháng 5/2026, bữa tối kết thúc Phase 4 đang ở giai đoạn cuối 一
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - Tự đề xuất 二次会 trước senior → "tự cho mình quá thân".
 - Xin về 一次会 mà không có **lý do thuyết phục** → "thiếu sức bền".
 - Cướp lời / đổi chủ đề khi senior 二次会 đang hé lộ thật.
 - Uống quá đà ở 二次会 → ngày mai họp lờ đờ = mất uy tín thực sự.
-- Không **tiễn senior lên taxi** ở cuối → kết thúc lửng.
+- Không **tiễn người cấp cao lên taxi** ở cuối → kết thúc lửng.
 - 締め lái khách "phải đi" → là tùy chọn, không ép.
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 一次会 | いちじかい | Round 1 (izakaya) |
-| 二次会 | にじかい | Round 2 (bar / karaoke) |
-| 三次会 | さんじかい | Round 3 (rare, hard core) |
-| 締め | しめ | Món chốt cuối / round chốt |
-| 締め麺 | しめめん | Mì chốt |
-| 先に失礼させていただきます | さきにしつれい〜 | Em xin phép về trước |
-| お開き | おひらき | Kết thúc buổi (tone formal) |
-| 内心では | ないしんでは | "Trong lòng thật ra…" (signal hé lộ thật) |
-| 心構え | こころがまえ | Sự chuẩn bị tinh thần |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 一次会 | いちじかい | NHẤT THỨ HỘI | Round 1 (izakaya) |
+| 二次会 | にじかい | NHỊ THỨ HỘI | Round 2 (bar / karaoke) |
+| 三次会 | さんじかい | TAM THỨ HỘI | Round 3 (rare, hard core) |
+| 締め | しめ | — | Món chốt cuối / round chốt |
+| 締め麺 | しめめん | MÌ | Mì chốt |
+| 先に失礼させていただきます | さきにしつれい〜 | TIÊN THẤT LỄ | Em xin phép về trước |
+| お開き | おひらき | KHAI | Kết thúc buổi (tone formal) |
+| 内心では | ないしんでは | NỘI TÂM | "Trong lòng thật ra…" (signal hé lộ thật) |
+| 心構え | こころがまえ | TÂM CẤU | Sự chuẩn bị tinh thần |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Khi senior hỏi "二次会どうする?" → lướt nhìn bàn + xác nhận + KHÔNG đề xuất trước.
 **J2 — 表現読解:** Mẫu câu chuẩn xin về sớm — "先に失礼させていただいてもよろしいでしょうか?" với lý do.

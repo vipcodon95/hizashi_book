@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Tâm lý JP
+## Tâm lý JP
 
 - 熊本人 = 「**肥後もっこす**」 — 頑固で誠実、義理人情. 熊本城 + 加藤清正への愛.
 - 鹿児島人 = 「**薩摩隼人**」 — 志高く前向き. 西郷隆盛 = 神. 「**ぼっけ**」 (=とても薩摩弁).
@@ -15,15 +15,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 1/2027, Dũng + Tuấn được mời sang **熊本** trước (1日) rồi **鹿児島** (1日) bởi 1 partner mới. Lịch: 熊本城 → 馬刺し dinner → sáng hôm sau Shinkansen 鹿児島中央 → 桜島 ferry → 黒豚しゃぶしゃぶ + 芋焼酎.
 
 ---
 
-## 💬 4 Scenarios
+## 4 Scenarios
 
-### 📍 Scenario 1 — 熊本城 + 加藤清正 + くまモン
+### Scenario 1 — 熊本城 + 加藤清正 + くまモン
 
 *熊本城前 · 感激*
 
@@ -48,7 +48,7 @@ Tháng 1/2027, Dũng + Tuấn được mời sang **熊本** trước (1日) r�
 
 ---
 
-### 📍 Scenario 2 — Dinner — からし蓮根 + 阿蘇
+### Scenario 2 — Dinner — からし蓮根 + 阿蘇
 
 | Vai | Câu |
 |---------|-----|
@@ -71,7 +71,7 @@ Tháng 1/2027, Dũng + Tuấn được mời sang **熊本** trước (1日) r�
 
 ---
 
-### 📍 Scenario 3 — 鹿児島中央 + 桜島 ferry + 西郷隆盛
+### Scenario 3 — 鹿児島中央 + 桜島 ferry + 西郷隆盛
 
 *桜島 ferry · 声が震える · 沈黙数秒*
 
@@ -100,7 +100,7 @@ Tháng 1/2027, Dũng + Tuấn được mời sang **熊本** trước (1日) r�
 
 ---
 
-### 📍 Scenario 4 — Dinner 黒豚しゃぶしゃぶ + 芋焼酎前割り
+### Scenario 4 — Dinner 黒豚しゃぶしゃぶ + 芋焼酎前割り
 
 *黒豚しゃぶしゃぶ店 · 目が輝く · sững người*
 
@@ -129,7 +129,7 @@ Tháng 1/2027, Dũng + Tuấn được mời sang **熊本** trước (1日) r�
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ KUMAMOTO:
@@ -154,7 +154,7 @@ Tháng 1/2027, Dũng + Tuấn được mời sang **熊本** trước (1日) r�
 
 ---
 
-## 🗾 Bảng tra nhanh vùng miền — 熊本 + 鹿児島
+## Bảng tra nhanh vùng miền — 熊本 + 鹿児島
 
 ### 熊本
 
@@ -184,7 +184,7 @@ Tháng 1/2027, Dũng + Tuấn được mời sang **熊本** trước (1日) r�
 
 ---
 
-## ⚠ NG
+## NG
 
 - Khen **「桜島は迷惑な火山ですよね」** → 鹿児島県人 đắng (桜島 = 親しみのシンボル).
 - Hỏi **特攻 / 知覧** quá nhanh chỉ vì tò mò → cần trang trọng.
@@ -194,36 +194,36 @@ Tháng 1/2027, Dũng + Tuấn được mời sang **熊本** trước (1日) r�
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 馬刺し | ばさし | Sashimi ngựa |
-| たてがみ | — | Phần mỡ trên cổ ngựa |
-| からし蓮根 | からしれんこん | Củ sen mù tạt 400 năm |
-| だご汁 | だごじる | Súp dango Kumamoto |
-| いきなり団子 | いきなりだんご | Bánh khoai+đậu đỏ |
-| 太平燕 | タイピーエン | Mì miến Kumamoto |
-| 阿蘇山 | あそさん | Núi Aso caldera |
-| 黒川温泉 | くろかわおんせん | Onsen top 10 |
-| くまモン | — | Yuru-chara mascot |
-| 熊本城 | くまもとじょう | Lâu đài Kumamoto |
-| 加藤清正 | かとうきよまさ | Lãnh chúa 1607 |
-| 桜島 | さくらじま | Núi lửa Kagoshima |
-| 黒豚 | くろぶた | Heo đen Kagoshima |
-| さつま揚げ | さつまあげ | Chả cá Satsuma |
-| 芋焼酎 | いもじょうちゅう | Shōchū khoai lang |
-| 前割り | まえわり | Pha trước 1 đêm |
-| 西郷隆盛 | さいごうたかもり | Anh hùng minh trị |
-| 城山 | しろやま | Nơi Saigō tự sát |
-| 薩摩藩 | さつまはん | Phiên Satsuma |
-| 知覧 | ちらん | Bảo tàng tokkō |
-| 黒酢 | くろず | Giấm đen |
-| 屋久島 | やくしま | UNESCO 1993 |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 馬刺し | ばさし | MÃ THÍCH | Sashimi ngựa |
+| たてがみ | たてがみ | — | Phần mỡ trên cổ ngựa |
+| からし蓮根 | からしれんこん | — LIÊN CĂN | Củ sen mù tạt 400 năm |
+| だご汁 | だごじる | — TRẤP | Súp dango Kumamoto |
+| いきなり団子 | いきなりだんご | — ĐOÀN TỬ | Bánh khoai+đậu đỏ |
+| 太平燕 | タイピーエン | THÁI BÌNH YẾN | Mì miến Kumamoto |
+| 阿蘇山 | あそさん | A TÔ SAN | Núi Aso caldera |
+| 黒川温泉 | くろかわおんせん | HẮC XUYÊN ÔN TUYỀN | Onsen top 10 |
+| くまモン | くまモン | — | Yuru-chara mascot |
+| 熊本城 | くまもとじょう | HÙNG BẢN THÀNH | Lâu đài Kumamoto |
+| 加藤清正 | かとうきよまさ | GIA ĐẰNG THANH CHÍNH | Lãnh chúa 1607 |
+| 桜島 | さくらじま | ANH ĐẢO | Núi lửa Kagoshima |
+| 黒豚 | くろぶた | HẮC ĐỒN | Heo đen Kagoshima |
+| さつま揚げ | さつまあげ | TIẾT MA DƯƠNG | Chả cá Satsuma |
+| 芋焼酎 | いもじょうちゅう | VU THIÊU TRÚ | Shōchū khoai lang |
+| 前割り | まえわり | TIỀN PHÂN | Pha trước 1 đêm |
+| 西郷隆盛 | さいごうたかもり | TÂY HƯƠNG LONG THỊNH | Anh hùng minh trị |
+| 城山 | しろやま | THÀNH SAN | Nơi Saigō tự sát |
+| 薩摩藩 | さつまはん | TIẾT MA PHIÊN | Phiên Satsuma |
+| 知覧 | ちらん | TRI LÃM | Bảo tàng tokkō |
+| 黒酢 | くろず | HẮC THỐC | Giấm đen |
+| 屋久島 | やくしま | ỐC CỬU ĐẢO | UNESCO 1993 |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Nắm bắt sắc thái khi khách Kagoshima nhắc 西郷 → phản hồi bằng kiến thức tinh tế (1828-1877).
 **J2 — 表現読解:** "桜島さんが今日も元気" = không phải than phiền mà là tư duy thân thiện — hiểu được = chiều sâu.

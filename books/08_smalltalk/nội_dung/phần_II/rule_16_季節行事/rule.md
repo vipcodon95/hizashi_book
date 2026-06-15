@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - Người Nhật sống theo lịch lễ hội — mỗi lễ là **mốc cảm xúc tập thể**.
 - Hỏi đúng tuần có lễ = thể hiện **lịch tinh tế** + đồng điệu cảm xúc.
@@ -13,15 +13,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Năm 2026 Dũng có nhiều buổi gặp khách JP đúng giai đoạn lễ hội — 4月 hanami với Matsumoto, 8月 花火 với Nakamura, 11月 紅葉 với Kato (Hida-Takayama), 12月-1月 お正月 với Ōgaki. Mỗi lễ một nhóm từ vựng + một quy tắc ứng xử.
 
 ---
 
-## 💬 4 Scenario — hội thoại thực chiến
+## 4 Scenario — hội thoại thực chiến
 
-### 📍 Scenario 1 — お花見 (4月 — Matsumoto Tokyo)
+### Scenario 1 — お花見 (4月 — Matsumoto Tokyo)
 
 *thứ 2 đầu tháng 4, Tokyo, vào sảnh*
 
@@ -44,13 +44,13 @@ Năm 2026 Dũng có nhiều buổi gặp khách JP đúng giai đoạn lễ hộ
 | **松本** | 「うちの会社は新人が朝7時から場所取り(笑)。**<ruby>幹事<rt>かんじ</rt></ruby>**【9】の役目、ベトナムでも似てる?」 |
 |  | *Công ty anh nhân viên mới giữ chỗ từ 7h sáng (cười). Vai "kanji" — Việt Nam có giống không?* |
 
-📝【1】 **目黒川** = phố sông sakura nổi tiếng Tokyo. 【2】 **桜餅** = bánh mochi gói lá đào muối. 【3】 **花見団子** = 3 viên dango 3 màu. 【4】 = 3 màu = 3 mùa. 【5】 **新宿御苑** = công viên Hoàng gia. 【6】 **ソメイヨシノ** = giống đào phổ biến. 【7】**山桜** = đào núi. 【8】 **八重桜** = đào nhiều cánh. 【9】 **幹事** = người tổ chức.
+【1】 **目黒川** = phố sông sakura nổi tiếng Tokyo. 【2】 **桜餅** = bánh mochi gói lá đào muối. 【3】 **花見団子** = 3 viên dango 3 màu. 【4】 = 3 màu = 3 mùa. 【5】 **新宿御苑** = công viên Hoàng gia. 【6】 **ソメイヨシノ** = giống đào phổ biến. 【7】**山桜** = đào núi. 【8】 **八重桜** = đào nhiều cánh. 【9】 **幹事** = người tổ chức.
 
 > **VN:** Từ vựng hanami: **満開 / 散り際 / 場所取り / 花見団子 / 桜餅 / 夜桜 / ライトアップ / 八重桜**. Biết ý nghĩa 3 màu dango = trình độ cao.
 
 ---
 
-### 📍 Scenario 2 — 花火大会 (8月 — Nakamura Hokkaido)
+### Scenario 2 — 花火大会 (8月 — Nakamura Hokkaido)
 
 *cuối tháng 7 · gây ấn tượng*
 
@@ -73,13 +73,13 @@ Năm 2026 Dũng có nhiều buổi gặp khách JP đúng giai đoạn lễ hộ
 | **ズン** | 「来年8月、長岡<ruby>計画<rt>けいかく</rt></ruby>させてください。」 |
 |  | *Tháng 8 năm sau em sẽ lên kế hoạch đi Nagaoka.* |
 
-📝【1】 **隅田川花火大会** = 7月 cuối tuần thứ 4-5, lễ hội 240 năm. 【2】 thường thứ 7 cuối 7月. 【3】 **屋形船** = thuyền truyền thống. 【4】 **浴衣** = yukata mùa hè. 【5】 = 30,000 quả. 【6】 **長岡花火** = lễ Phượng hoàng tưởng niệm động đất. 【7】 **フェニックス** = pháo hoa hình phượng hoàng dài 2km.
+【1】 **隅田川花火大会** = 7月 cuối tuần thứ 4-5, lễ hội 240 năm. 【2】 thường thứ 7 cuối 7月. 【3】 **屋形船** = thuyền truyền thống. 【4】 **浴衣** = yukata mùa hè. 【5】 = 30,000 quả. 【6】 **長岡花火** = lễ Phượng hoàng tưởng niệm động đất. 【7】 **フェニックス** = pháo hoa hình phượng hoàng dài 2km.
 
 > **VN:** Từ vựng 花火: **打ち上げ花火 / 仕掛け花火 / フィナーレ / 三尺玉 / 玉屋・鍵屋**. **三大花火大会** = vốn quan trọng.
 
 ---
 
-### 📍 Scenario 3 — 紅葉狩り (11月 — Kato Gifu/Hida)
+### Scenario 3 — 紅葉狩り (11月 — Kato Gifu/Hida)
 
 *họp Zoom giữa tháng 10*
 
@@ -102,13 +102,13 @@ Năm 2026 Dũng có nhiều buổi gặp khách JP đúng giai đoạn lễ hộ
 | **ズン** | 「ユネスコ!10月の**秋の高山祭**、ぜひ行きたいです。」 |
 |  | *UNESCO! Lễ Takayama mùa thu tháng 10 em rất muốn đi.* |
 
-📝【1】 **紅葉** (こうよう / もみじ) = lá đỏ. 【2】 **白川郷** = UNESCO làng cỏ tranh. 【3】 **茅葺屋根** = mái cỏ tranh. 【4】 **香嵐渓** = điểm 紅葉 hàng đầu Aichi. 【5】 **永観堂** = chùa 紅葉 Kyoto. 【6】 **新穂高ロープウェイ** = cáp treo Hida. 【7】 = độ cao 3000m. 【8】 = chuẩn bị chống lạnh. 【9】 **飛騨高山祭** = lễ tháng 4 và 10. 【10】 **山車** = xe diễu hành.
+【1】 **紅葉** (こうよう / もみじ) = lá đỏ. 【2】 **白川郷** = UNESCO làng cỏ tranh. 【3】 **茅葺屋根** = mái cỏ tranh. 【4】 **香嵐渓** = điểm 紅葉 hàng đầu Aichi. 【5】 **永観堂** = chùa 紅葉 Kyoto. 【6】 **新穂高ロープウェイ** = cáp treo Hida. 【7】 = độ cao 3000m. 【8】 = chuẩn bị chống lạnh. 【9】 **飛騨高山祭** = lễ tháng 4 và 10. 【10】 **山車** = xe diễu hành.
 
 > **VN:** Từ vựng 紅葉: **見頃 / 紅葉狩り / 紅葉前線 / モミジ / イチョウ**. Lễ vùng: **高山祭 (4/10月) / 京都時代祭 (10月) / 神戸ルミナリエ (12月)**.
 
 ---
 
-### 📍 Scenario 4 — お正月 (12月-1月 — Ōgaki)
+### Scenario 4 — お正月 (12月-1月 — Ōgaki)
 
 *họp Zoom 28/12 · rạng rỡ*
 
@@ -131,13 +131,13 @@ Năm 2026 Dũng có nhiều buổi gặp khách JP đúng giai đoạn lễ hộ
 | **大垣** | 「<ruby>完璧<rt>かんぺき</rt></ruby>!ベトナム人で、ここまで知ってる人初めて(笑)。来年もよろしくお願いします。**良いお年を**。」 |
 |  | *Hoàn hảo! Người Việt biết đến mức này anh gặp lần đầu (cười). Năm sau cũng nhờ em. Chúc năm mới tốt lành.* |
 
-📝【1】 **お節料理** = osechi, đồ năm mới truyền thống. 【2】 **お雑煮** = súp mochi (vùng khác nhau). 【3】 **初詣** = thăm đền lần đầu năm mới. 【4】 khác biệt 関東 với 関西. 【5】 **頭芋** = khoai sọ to (Kyoto). 【6】 **縁起** = điềm lành.
+【1】 **お節料理** = osechi, đồ năm mới truyền thống. 【2】 **お雑煮** = súp mochi (vùng khác nhau). 【3】 **初詣** = thăm đền lần đầu năm mới. 【4】 khác biệt 関東 với 関西. 【5】 **頭芋** = khoai sọ to (Kyoto). 【6】 **縁起** = điềm lành.
 
 > **VN:** Từ vựng お正月 cực phong phú. **お節 (一の重〜与の重) / お雑煮 (角/丸 + すまし/白味噌) / 初詣 / 鏡餅 / お年玉 / 年越しそば / 紅白歌合戦 / 除夜の鐘**. Người lớn tuổi cảm phục khi biết phân biệt 関東/関西/博多 雑煮.
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ 桜 (3-4月):
@@ -164,7 +164,7 @@ Năm 2026 Dũng có nhiều buổi gặp khách JP đúng giai đoạn lễ hộ
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - Mở 桜 sau 4月20日 (phía Tokyo đã rụng) → lệch mùa.
 - Hỏi 花火 vào 9月 → đã hết mùa.
@@ -174,34 +174,34 @@ Năm 2026 Dũng có nhiều buổi gặp khách JP đúng giai đoạn lễ hộ
 
 ---
 
-## 📚 Bảng từ vựng
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| お花見 | おはなみ | Ngắm hoa đào |
-| 満開 | まんかい | Nở rộ |
-| 散り際 | ちりぎわ | Lúc tàn rơi |
-| 桜前線 | さくらぜんせん | Đường đi của mùa đào (Bắc dần) |
-| ライトアップ | — | Thắp đèn |
-| 場所取り | ばしょとり | Giữ chỗ ngắm |
-| 花火大会 | はなびたいかい | Lễ hội pháo hoa |
-| 打ち上げ花火 | うちあげはなび | Pháo bắn lên |
-| 三尺玉 | さんじゃくだま | Pháo 90cm (lớn) |
-| 浴衣 | ゆかた | Yukata mùa hè |
-| 紅葉 | こうよう/もみじ | Lá đỏ |
-| 紅葉狩り | もみじがり | Đi ngắm lá đỏ |
-| 見頃 | みごろ | Đỉnh đẹp |
-| お正月 | おしょうがつ | Năm mới |
-| お節料理 | おせちりょうり | Osechi |
-| お雑煮 | おぞうに | Súp mochi |
-| 初詣 | はつもうで | Thăm đền lần đầu năm mới |
-| お年玉 | おとしだま | Tiền lì xì trẻ em |
-| 年越しそば | としこしそば | Soba qua năm |
-| 鏡餅 | かがみもち | Mochi tròn 2 tầng |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| お花見 | おはなみ | HOA KIẾN | Ngắm hoa đào |
+| 満開 | まんかい | MÃN KHAI | Nở rộ |
+| 散り際 | ちりぎわ | TÁN TẾ | Lúc tàn rơi |
+| 桜前線 | さくらぜんせん | ANH ĐÀO TIỀN TUYẾN | Đường đi của mùa đào (Bắc dần) |
+| ライトアップ | ライトアップ | — | Thắp đèn |
+| 場所取り | ばしょとり | TRƯỜNG SỞ THỦ | Giữ chỗ ngắm |
+| 花火大会 | はなびたいかい | HOA HỎA ĐẠI HỘI | Lễ hội pháo hoa |
+| 打ち上げ花火 | うちあげはなび | PHÓNG THƯỢNG HOA HỎA | Pháo bắn lên |
+| 三尺玉 | さんじゃくだま | TAM THƯỚC NGỌC | Pháo 90cm (lớn) |
+| 浴衣 | ゆかた | DỤC Y | Yukata mùa hè |
+| 紅葉 | こうよう/もみじ | HỒNG DIỆP | Lá đỏ |
+| 紅葉狩り | もみじがり | HỒNG DIỆP TỬ | Đi ngắm lá đỏ |
+| 見頃 | みごろ | KIẾN KHOẢNH | Đỉnh đẹp |
+| お正月 | おしょうがつ | CHÍNH NGUYỆT | Năm mới |
+| お節料理 | おせちりょうり | TIẾT LIỆU LÝ | Osechi |
+| お雑煮 | おぞうに | TẠP NẤU | Súp mochi |
+| 初詣 | はつもうで | SƠ TỪ | Thăm đền lần đầu năm mới |
+| お年玉 | おとしだま | NIÊN NGỌC | Tiền lì xì trẻ em |
+| 年越しそば | としこしそば | NIÊN VIỆT | Soba qua năm |
+| 鏡餅 | かがみもち | KÍNH BÁT | Mochi tròn 2 tầng |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Ghép đúng lễ với tháng + vùng — không lệch mùa.
 **J2 — 表現読解:** Phân biệt 関東/関西/博多 雑煮.

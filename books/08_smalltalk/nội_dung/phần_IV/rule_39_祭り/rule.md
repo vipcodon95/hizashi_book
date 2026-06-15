@@ -4,24 +4,24 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - 祭り JP = một trong 3 chủ đề JP cảm xúc nhất (cùng 食 + 故郷). Kết nối với lễ hội VN = mở chủ đề hội thoại vàng.
 - Trung thu VN = "Tết của trẻ con" gần lăng kính tâm tình của Obon JP (gia đình + ánh trăng) → kết nối tự nhiên.
 - 2/9 (Quốc Khánh) là **dây nhạy** — chỉ dùng nếu khách hỏi, tập trung vào **nghỉ lễ + bắn pháo hoa**, KHÔNG sa đà chính trị.
-- Senior JP rất thích nghe về "truyền thống còn lưu giữ tới nay" — múa rồng, đèn ông sao, bánh trung thu.
+- Người cấp cao JP rất thích nghe về "truyền thống còn lưu giữ tới nay" — múa rồng, đèn ông sao, bánh trung thu.
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng họp Zoom với Matsumoto + Sato + Kato để chốt lịch onsite tháng 9 → nhắc đến "trùng Trung thu" → khách hỏi sâu.
 
 ---
 
-## 💬 4 Scenarios — dialogue thực chiến
+## 4 Scenarios — dialogue thực chiến
 
-### 📍 Scenario 1 — Trung thu (Tết Thiếu Nhi) — bắc cầu với Obon
+### Scenario 1 — Trung thu (Tết Thiếu Nhi) — bắc cầu với Obon
 
 | Vai | Câu |
 |---------|-----|
@@ -48,7 +48,7 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng họp 
 
 ---
 
-### 📍 Scenario 2 — Lễ Hùng Vương (Quốc giỗ — 10/3 âm)
+### Scenario 2 — Lễ Hùng Vương (Quốc giỗ — 10/3 âm)
 
 | Vai | Câu |
 |---------|-----|
@@ -67,11 +67,11 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng họp 
 | **加藤** | 「100人兄弟!それは岐阜の<ruby>山岳信仰<rt>さんがくしんこう</rt></ruby>系の伝説に近いね、面白い。」 |
 |  | *100 anh em! Gần truyền thuyết tín ngưỡng núi Gifu nhỉ, hay.* |
 
-📝 **Cách kể an toàn:** bám vào 4000 năm + 神話 + 聖地 — KHÔNG sa đà vào "Bắc-Nam tách 100 con" theo lăng kính chính trị.
+ **Cách kể an toàn:** bám vào 4000 năm + 神話 + 聖地 — KHÔNG sa đà vào "Bắc-Nam tách 100 con" theo lăng kính chính trị.
 
 ---
 
-### 📍 Scenario 3 — Quốc Khánh 2/9 — kể an toàn
+### Scenario 3 — Quốc Khánh 2/9 — kể an toàn
 
 *giọng trung tính, chỉ nêu thông tin · tập trung vào hiện tại, không nói quá khứ*
 
@@ -94,11 +94,11 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng họp 
 | **ズン** | 「但し**この<ruby>時期<rt>じき</rt></ruby>はホテル<ruby>予約<rt>よやく</rt></ruby>が取りにくい**ので、出張なら**避けるか早めに**お願いします。」 |
 |  | *Nhưng thời điểm này khó đặt khách sạn, công tác nên tránh hoặc đặt sớm ạ.* |
 
-📝 **NG:** "アメリカに勝った", "戦争の勝利", "南進" → tuyệt đối tránh. **OK:** "祝日 + 連休 + 花火 + 帰省" — đời sống hôm nay.
+ **NG:** "アメリカに勝った", "戦争の勝利", "南進" → tuyệt đối tránh. **OK:** "祝日 + 連休 + 花火 + 帰省" — đời sống hôm nay.
 
 ---
 
-### 📍 Scenario 4 — So sánh lễ hội JP-VN (nhiều lễ hội)
+### Scenario 4 — So sánh lễ hội JP-VN (nhiều lễ hội)
 
 | Vai | Câu |
 |---------|-----|
@@ -121,37 +121,37 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng họp 
 | **山本** | 「祭りの違いって、文化の違いがダイレクトに出るね。」 |
 |  | *Khác biệt lễ hội phản ánh khác biệt văn hóa trực tiếp nhỉ.* |
 
-📝 **Điểm cốt lõi:** đối ứng lễ hội JP-VN = chủ đề vàng cho khách Kansai (mê 祭り). Tết Đoan Ngọ "diệt sâu bọ" = lạ tai, dễ nhớ.
+ **Điểm cốt lõi:** đối ứng lễ hội JP-VN = chủ đề vàng cho khách Kansai (mê 祭り). Tết Đoan Ngọ "diệt sâu bọ" = lạ tai, dễ nhớ.
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ TRUNG THU:
-「9月7日は<ruby>中秋節<rt>ちゅうしゅうせつ</rt></ruby>、ベトナムの子供のお<ruby>祭<rt>まつ</rt></ruby>りです。」
-「お<ruby>盆<rt>ぼん</rt></ruby>と違って『<ruby>次世代<rt>じせだい</rt></ruby>』が中心で、<ruby>雰囲気<rt>ふんいき</rt></ruby>が180度違います。」
-「子供たちが赤い<ruby>星型<rt>ほしがた</rt></ruby>の<ruby>提灯<rt>ちょうちん</rt></ruby>を持って<ruby>獅子舞<rt>ししまい</rt></ruby>を見ながら街を歩きます。」
-「Bánh Trung Thu(<ruby>月餅<rt>げっぺい</rt></ruby>)はカラスミ入りもあって<ruby>衝撃<rt>しょうげき</rt></ruby>受けます(笑)」
+「9月7日は中秋節、ベトナムの子供のお祭りです。」
+「お盆と違って『次世代』が中心で、雰囲気が180度違います。」
+「子供たちが赤い星型の提灯を持って獅子舞を見ながら街を歩きます。」
+「Bánh Trung Thu(月餅)はカラスミ入りもあって衝撃受けます(笑)」
 
 ■ HÙNG VƯƠNG:
-「フンヴオン王の<ruby>命日<rt>めいにち</rt></ruby>、4000年前の<ruby>初代<rt>しょだい</rt></ruby>王様の命日で祝日です。」
-「日本の<ruby>伊勢神宮<rt>いせじんぐう</rt></ruby>みたいに、<ruby>国家鎮護<rt>こっかちんご</rt></ruby>の<ruby>聖地<rt>せいち</rt></ruby>です。」
-「『<ruby>龍<rt>りゅう</rt></ruby>の父と<ruby>仙女<rt>せんにょ</rt></ruby>の母から生まれた100人<ruby>兄弟<rt>きょうだい</rt></ruby>』の<ruby>建国神話<rt>けんこくしんわ</rt></ruby>があります。」
+「フンヴオン王の命日、4000年前の初代王様の命日で祝日です。」
+「日本の伊勢神宮みたいに、国家鎮護の聖地です。」
+「『龍の父と仙女の母から生まれた100人兄弟』の建国神話があります。」
 
 ■ QUỐC KHÁNH (an toàn):
-「9月2日はベトナム<ruby>独立記念日<rt>どくりつきねんび</rt></ruby>、<ruby>国民<rt>こくみん</rt></ruby>の祝日です。」
-「3-4日<ruby>連休<rt>れんきゅう</rt></ruby>になって、家族で<ruby>帰省<rt>きせい</rt></ruby>や<ruby>国内旅行<rt>こくないりょこう</rt></ruby>が<ruby>一般的<rt>いっぱんてき</rt></ruby>です。」
+「9月2日はベトナム独立記念日、国民の祝日です。」
+「3-4日連休になって、家族で帰省や国内旅行が一般的です。」
 「日本のシルバーウィークみたいな感じです。」
 
 ■ ĐOAN NGỌ + BẮC CẦU:
-「5/5は『<ruby>虫殺<rt>むしころ</rt></ruby>しの日』、<ruby>酒漬<rt>さけづ</rt></ruby>けもち米で<ruby>寄生虫<rt>きせいちゅう</rt></ruby>を<ruby>殺<rt>ころ</rt></ruby>す<ruby>民間療法的<rt>みんかんりょうほうてき</rt></ruby>な日(笑)」
-「<ruby>七夕<rt>たなばた</rt></ruby>は同じ<ruby>日付<rt>ひづけ</rt></ruby>、<ruby>牽牛織女<rt>けんぎゅうしょくじょ</rt></ruby>の伝説も同じです。」
+「5/5は『虫殺しの日』、酒漬けもち米で寄生虫を殺す民間療法的な日(笑)」
+「七夕は同じ日付、牽牛織女の伝説も同じです。」
 ```
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - 2/9 → "戦勝記念日" / 戦争 / 米国敗退 → vùng cấm chính trị tuyệt đối.
 - 30/4 (Ngày Thống nhất) cũng tránh nói sâu — chỉ nhắc 連休 nếu có.
@@ -161,26 +161,26 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng họp 
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 中秋節 | ちゅうしゅうせつ | Trung thu |
-| 月餅 | げっぺい | Bánh trung thu |
-| 提灯 | ちょうちん | Đèn lồng |
-| 獅子舞・龍舞 | ししまい・りゅうまい | Múa lân / múa rồng |
-| 祖先供養 | そせんくよう | Cúng tổ tiên (Obon JP) |
-| 建国神話 | けんこくしんわ | Thần thoại lập quốc |
-| 国家鎮護 | こっかちんご | Hộ quốc (聖地 quan trọng) |
-| 独立記念日 | どくりつきねんび | Quốc khánh (2/9 VN) |
-| シルバーウィーク | — | Tuần nghỉ tháng 9 JP (dùng để bắc cầu) |
-| 端午の節句 | たんごのせっく | Tết Đoan Ngọ JP (5/5) |
-| 七夕 | たなばた | Tết thất tịch / Tết Ngâu |
-| カラスミ | — | Trứng cá muối (bắc cầu sang trứng muối VN) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 中秋節 | ちゅうしゅうせつ | TRUNG THU TIẾT | Trung thu |
+| 月餅 | げっぺい | NGUYỆT BÍNH | Bánh trung thu |
+| 提灯 | ちょうちん | ĐỀ ĐĂNG | Đèn lồng |
+| 獅子舞・龍舞 | ししまい・りゅうまい | SƯ TỬ VŨ / LONG VŨ | Múa lân / múa rồng |
+| 祖先供養 | そせんくよう | TỔ TIÊN CÚNG DƯỠNG | Cúng tổ tiên (Obon JP) |
+| 建国神話 | けんこくしんわ | KIẾN QUỐC THẦN THOẠI | Thần thoại lập quốc |
+| 国家鎮護 | こっかちんご | QUỐC GIA TRẤN HỘ | Hộ quốc (聖地 quan trọng) |
+| 独立記念日 | どくりつきねんび | ĐỘC LẬP KỶ NIỆM NHẬT | Quốc khánh (2/9 VN) |
+| シルバーウィーク | シルバーウィーク | — | Tuần nghỉ tháng 9 JP (dùng để bắc cầu) |
+| 端午の節句 | たんごのせっく | ĐOAN NGỌ TIẾT CÚ | Tết Đoan Ngọ JP (5/5) |
+| 七夕 | たなばた | THẤT TỊCH | Tết thất tịch / Tết Ngâu |
+| カラスミ | カラスミ | — | Trứng cá muối (bắc cầu sang trứng muối VN) |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Khi khách hỏi "9月X日は祝日?" → trả lời gọn + 1-2 chi tiết thú vị + bắc cầu sang JP.
 **J2 — 表現読解:** Phân biệt khi nói 2/9 — bám "祝日 + 連休 + 花火", né "戦争" / "勝利".

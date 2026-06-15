@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Tâm lý JP
+## Tâm lý JP
 
 - 岐阜県人 = quê không phải Tokyo-Osaka — bị bỏ qua bởi đa số người nước ngoài, nên cảm động khi đối tác biết sâu.
 - **飛騨地方 (Hida)** = Bắc Gifu (Takayama / Shirakawa-go), văn hóa 工匠 (thợ thủ công cổ).
@@ -15,15 +15,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 7/2026, Dũng + Tuấn được anh Kato mời lên **Takayama** 2 ngày (work + visit). Dự kiến: chiều 1 đi tour 古い町並み Sannomachi → dinner **飛騨牛** ở **丸明** → sáng hôm sau lái xe lên **白川郷** → chiều về Nagoya. Dũng đã đọc kỹ.
 
 ---
 
-## 💬 4 Scenarios
+## 4 Scenarios
 
-### 📍 Scenario 1 — Sáng đến Takayama JR — phá băng bằng 朴葉味噌
+### Scenario 1 — Sáng đến Takayama JR — phá băng bằng 朴葉味噌
 
 *đón ở Takayama station · 目を輝かせる*
 
@@ -44,11 +44,11 @@ Tháng 7/2026, Dũng + Tuấn được anh Kato mời lên **Takayama** 2 ngày 
 | **kato_gifu** | 「そう、**飛騨牛**は**A5ランク**でも<ruby>他<rt>ほか</rt></ruby>のブランド<ruby>和牛<rt>わぎゅう</rt></ruby>より<ruby>霜降<rt>しもふ</rt></ruby>りが<ruby>繊細<rt>せんさい</rt></ruby>で、<ruby>口<rt>くち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でとろけますよ。」 |
 |  | *Đúng, 飛騨牛 dù A5 vẫn vân thịt mịn hơn wagyu khác, tan trong miệng.* |
 
-> **VN:** **朴葉味噌 (hōba miso)** = món "khách Việt 99% không biết". Mở topic này = anh Kato lập tức thân thiện cởi mở. **飛騨牛 (Hida-gyū)** A5 = thương hiệu wagyu hàng đầu sánh ngang 神戸/松阪.
+> **VN:** **朴葉味噌 (hōba miso)** = món "khách Việt 99% không biết". Mở chủ đề này = anh Kato lập tức thân thiện cởi mở. **飛騨牛 (Hida-gyū)** A5 = thương hiệu wagyu hàng đầu sánh ngang 神戸/松阪.
 
 ---
 
-### 📍 Scenario 2 — Chiều Sannomachi 古い町並み — chuyện nghề thủ công
+### Scenario 2 — Chiều Sannomachi 古い町並み — chuyện nghề thủ công
 
 *đi bộ trên 三町 · 笑*
 
@@ -73,7 +73,7 @@ Tháng 7/2026, Dũng + Tuấn được anh Kato mời lên **Takayama** 2 ngày 
 
 ---
 
-### 📍 Scenario 3 — Bữa tối 丸明 — chuyện 飛騨牛 + 鵜飼
+### Scenario 3 — Bữa tối 丸明 — chuyện 飛騨牛 + 鵜飼
 
 *nhìn miếng 飛騨牛 sashimi · 感動*
 
@@ -100,7 +100,7 @@ Tháng 7/2026, Dũng + Tuấn được anh Kato mời lên **Takayama** 2 ngày 
 
 ---
 
-### 📍 Scenario 4 — Sáng hôm sau 白川郷 + 関の刃物 + 美濃焼
+### Scenario 4 — Sáng hôm sau 白川郷 + 関の刃物 + 美濃焼
 
 *lái xe lên 白川郷 · 満面の笑み*
 
@@ -129,7 +129,7 @@ Tháng 7/2026, Dũng + Tuấn được anh Kato mời lên **Takayama** 2 ngày 
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ MỞ CHỦ ĐỀ GIFU:
@@ -157,7 +157,7 @@ Tháng 7/2026, Dũng + Tuấn được anh Kato mời lên **Takayama** 2 ngày 
 
 ---
 
-## 🗾 Regional Cheat Sheet — 岐阜 (Master)
+## Bảng tra nhanh vùng miền — 岐阜 (Toàn diện)
 
 | Hạng mục | Nội dung |
 |----------|----------|
@@ -171,13 +171,13 @@ Tháng 7/2026, Dũng + Tuấn được anh Kato mời lên **Takayama** 2 ngày 
 | **観光** | **古い町並み Sannomachi (高山)**, **宮川朝市**, **陣屋前朝市**, **下呂温泉 (日本三名泉)**, **新穂高ロープウェイ**, **モネの池 (関)**, **岐阜城 (織田信長居城)**, **馬籠・妻籠宿 (中山道)** |
 | **祭り** | **高山祭** (春4/14-15, 秋10/9-10) — 日本三大美祭, **長良川鵜飼** (5/11-10/15 毎晩), **郡上踊り** (7-9月, 徹夜踊り 8/13-16), **大垣まつり** |
 | **Đặc sản đồ chơi** | **さるぼぼ** (赤=厄除/ピンク=恋愛/青=学業/黄=金運/緑=健康) |
-| **Sport** | **FC岐阜** (Jリーグ J3), **岐阜スゥープス** (Bリーグ) |
+| **Thể thao** | **FC岐阜** (Jリーグ J3), **岐阜スゥープス** (Bリーグ) |
 | **Dialect (飛騨弁・美濃弁)** | 飛騨: 「〜やに」「〜やお」「ありがとさんな」. 美濃: 「〜やお」「〜やて」. Senior dùng. |
 | **Famous figures** | 織田信長 (居城岐阜城), 斎藤道三, 杉原千畝 (Schindler Nhật, 八百津町出身) |
 
 ---
 
-## ⚠ NG
+## NG
 
 - Gộp **岐阜 với 愛知** kiểu "中部の方" → mất depth.
 - Gọi **白川郷** thành "**白川村**" chung chung → thiếu tôn trọng UNESCO.
@@ -188,34 +188,34 @@ Tháng 7/2026, Dũng + Tuấn được anh Kato mời lên **Takayama** 2 ngày 
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 飛騨牛 | ひだぎゅう | Wagyu Hida (top brand) |
-| 朴葉味噌 | ほおばみそ | Miso nướng trên lá hōba |
-| 白川郷 | しらかわごう | Shirakawa-go UNESCO 1995 |
-| 合掌造り | がっしょうづくり | Nhà chắp tay 60° |
-| 鵜飼 | うかい | Cormorant fishing 長良川 |
-| 鵜匠 | うしょう | Người dạy chim cốc |
-| 関の刃物 | せきのはもの | Dao Seki, world top 3 |
-| 孫六兼元 | まごろくかねもと | Tổ sư Seki blade |
-| 美濃焼 | みのやき | Gốm Mino |
-| 志野焼 | しのやき | Shino-yaki style |
-| 織部焼 | おりべやき | Oribe-yaki (xanh) |
-| 中津川栗きんとん | なかつがわくりきんとん | Kẹo dẻo hạt dẻ Nakatsugawa |
-| すや | すや | Quán栗きんとん 元禄年間創業 |
-| 古い町並み | ふるいまちなみ | Phố cổ Takayama Sannomachi |
-| 高山祭 | たかやままつり | Lễ hội mùa xuân & thu Takayama |
-| 下呂温泉 | げろおんせん | Onsen top 3 Nhật |
-| さるぼぼ | さるぼぼ | Búp bê khỉ con Hida |
-| 美濃和紙 | みのわし | Giấy Mino UNESCO 2014 |
-| 馬籠・妻籠 | まごめ・つまご | Phố cổ Nakasendō |
-| 杉原千畝 | すぎはらちうね | "Schindler Nhật" 八百津町 |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 飛騨牛 | ひだぎゅう | PHI ĐÁ NGƯU | Wagyu Hida (top brand) |
+| 朴葉味噌 | ほおばみそ | PHÁC DIỆP VỊ TƯƠNG | Miso nướng trên lá hōba |
+| 白川郷 | しらかわごう | BẠCH XUYÊN HƯƠNG | Shirakawa-go UNESCO 1995 |
+| 合掌造り | がっしょうづくり | HỢP CHƯỞNG TẠO | Nhà chắp tay 60° |
+| 鵜飼 | うかい | ĐỀ TỰ | Bắt cá bằng chim cốc (sông 長良川) |
+| 鵜匠 | うしょう | ĐỀ TƯỢNG | Người dạy chim cốc |
+| 関の刃物 | せきのはもの | QUAN — NHẬN VẬT | Dao Seki, world top 3 |
+| 孫六兼元 | まごろくかねもと | TÔN LỤC KIÊM NGUYÊN | Tổ sư Seki blade |
+| 美濃焼 | みのやき | MỸ NỒNG THIÊU | Gốm Mino |
+| 志野焼 | しのやき | CHÍ DÃ THIÊU | Shino-yaki style |
+| 織部焼 | おりべやき | CHỨC BỘ THIÊU | Oribe-yaki (xanh) |
+| 中津川栗きんとん | なかつがわくりきんとん | TRUNG TÂN XUYÊN LẬT — | Kẹo dẻo hạt dẻ Nakatsugawa |
+| すや | すや | — | Quán栗きんとん 元禄年間創業 |
+| 古い町並み | ふるいまちなみ | CỔ — ĐINH — | Phố cổ Takayama Sannomachi |
+| 高山祭 | たかやままつり | CAO SAN TẾ | Lễ hội mùa xuân & thu Takayama |
+| 下呂温泉 | げろおんせん | HẠ LỮ ÔN TUYỀN | Onsen top 3 Nhật |
+| さるぼぼ | さるぼぼ | — | Búp bê khỉ con Hida |
+| 美濃和紙 | みのわし | MỸ NỒNG HÒA CHỈ | Giấy Mino UNESCO 2014 |
+| 馬籠・妻籠 | まごめ・つまご | MÃ LUNG · THÊ LUNG | Phố cổ Nakasendō |
+| 杉原千畝 | すぎはらちうね | SAM NGUYÊN THIÊN MÔ | "Schindler Nhật" 八百津町 |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Nhận biết khách Hida (北) vs Mino (南) → mở chủ đề phù hợp.
 **J2 — 表現読解:** Khen 「飛騨牛は神戸牛と並ぶ」 vs 「神戸牛と同じ」 — phân biệt được thì chiều sâu hạng S.

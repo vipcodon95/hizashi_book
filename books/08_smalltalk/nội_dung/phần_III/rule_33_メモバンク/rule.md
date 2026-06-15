@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Tâm lý JP
+## Tâm lý JP
 
 - <ruby>日本人<rt>にほんじん</rt></ruby>は「**<ruby>覚<rt>おぼ</rt></ruby>えていてくれた**」<ruby>事<rt>こと</rt></ruby>に<ruby>異常<rt>いじょう</rt></ruby>に<ruby>弱<rt>よわ</rt></ruby>い → <ruby>顧客忠誠<rt>こきゃくちゅうせい</rt></ruby>の<ruby>核<rt>かく</rt></ruby>.
 - <ruby>但<rt>ただ</rt></ruby>し「**しつこく<ruby>覚<rt>おぼ</rt></ruby>えている<ruby>感<rt>かん</rt></ruby>**」(soi-mói cảm) は<ruby>逆効果<rt>ぎゃくこうか</rt></ruby> → さりげなく<ruby>出<rt>だ</rt></ruby>す.
@@ -14,15 +14,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 3/2027. Dũng tổng kết 1 năm zatsudan thực chiến với 19 khách Nhật. Lập **Bảng kho ghi nhớ tổng hợp** trong Notion + Salesforce CRM, chia 4 phần theo từng khách. Anh Hà CTO yêu cầu Dũng đào tạo cả team.
 
 ---
 
-## 💬 4 Scenarios
+## 4 Scenarios
 
-### 📍 Scenario 1 — SAU dinner: ghi memo trong taxi về
+### Scenario 1 — SAU dinner: ghi memo trong taxi về
 
 *độc thoại nội tâm, vừa kết thúc dinner với 中村CFO ở Sapporo · tự nhắc · cùng taxi*
 
@@ -31,13 +31,13 @@ Tháng 3/2027. Dũng tổng kết 1 năm zatsudan thực chiến với 19 khách
 | **ズン** | (Mở Notion, gõ ngay…) |
 |  | *(Đang ghi vào Notion)...* |
 | *— Memo —* | **DATE**: 2027-03-15 / **WHO**: <ruby>中村<rt>なかむら</rt></ruby>CFO <ruby>札幌<rt>さっぽろ</rt></ruby> / **TOPIC**: ライラック・<ruby>新庄<rt>しんじょう</rt></ruby>ファイターズ・<ruby>積丹<rt>しゃこたん</rt></ruby>ウニ. **NEW INFO**: <ruby>娘<rt>むすめ</rt></ruby>さん<ruby>北海道大学<rt>ほっかいどうだいがく</rt></ruby>2<ruby>年<rt>ねん</rt></ruby>(<ruby>法学部<rt>ほうがくぶ</rt></ruby>), <ruby>来年留学予定<rt>らいねんりゅうがくよてい</rt></ruby>スウェーデン. **REQUEST**: <ruby>次回<rt>じかい</rt></ruby><ruby>札幌時<rt>さっぽろじ</rt></ruby>、<ruby>円山公園案内<rt>まるやまこうえんあんない</rt></ruby>してくれる. **MOOD**: warm, 30<ruby>分<rt>ぷん</rt></ruby>中村CFOしゃべり. |
-|  | *Ngày 15/3/2027 / Khách Nakamura CFO Sapporo / Topic: lilac, Fighters Shinjō, uni Shakotan. Info mới: con gái năm 2 ĐH Hokkaido (khoa luật), du học Thụy Điển sang năm. Yêu cầu: lần sau dẫn đi công viên Maruyama. Mood: ấm, Nakamura CFO nói chuyện suốt 30 phút.* |
+|  | *Ngày 15/3/2027 / Khách Nakamura CFO Sapporo / Chủ đề: lilac, Fighters Shinjō, uni Shakotan. Thông tin mới: con gái năm 2 ĐH Hokkaido (khoa luật), du học Thụy Điển sang năm. Yêu cầu: lần sau dẫn đi công viên Maruyama. Tâm trạng: ấm, Nakamura CFO nói chuyện suốt 30 phút.* |
 | **ズン** | "**3か<ruby>月後<rt>げつご</rt></ruby>**にメッセージ: お<ruby>嬢様<rt>じょうさま</rt></ruby>の<ruby>留学準備<rt>りゅうがくじゅんび</rt></ruby>、いかがですか?" |
 |  | *"3 tháng sau gửi message: chuẩn bị du học của con gái thế nào ạ?"* |
 | **トゥアン** | 「ズン、<ruby>何書<rt>なにか</rt></ruby>いてるの?」 |
 |  | *"Dũng, viết gì đó?"* |
 | **ズン** | 「Memory bank。さっきの中村CFOの<ruby>話<rt>はなし</rt></ruby>、<ruby>忘<rt>わす</rt></ruby>れる<ruby>前<rt>まえ</rt></ruby>に。3ヶ月後フォローアップに<ruby>使<rt>つか</rt></ruby>う。」 |
-|  | *"Memory bank. Chuyện anh Nakamura nãy, ghi trước khi quên. 3 tháng sau follow-up dùng."* |
+|  | *"Kho ghi nhớ. Chuyện anh Nakamura nãy, ghi trước khi quên. 3 tháng sau dùng để theo dõi."* |
 | **トゥアン** | 「<ruby>俺<rt>おれ</rt></ruby>もやらないと…iPhone のメモでもいいかな?」 |
 |  | *"Em cũng phải làm... Note iPhone được không nhỉ?"* |
 | **ズン** | 「<ruby>最初<rt>さいしょ</rt></ruby>はメモアプリで OK。<ruby>慣<rt>な</rt></ruby>れたらNotion + Salesforceに<ruby>統合<rt>とうごう</rt></ruby>した<ruby>方<rt>ほう</rt></ruby>が<ruby>検索効<rt>けんさくき</rt></ruby>くよ。」 |
@@ -47,7 +47,7 @@ Tháng 3/2027. Dũng tổng kết 1 năm zatsudan thực chiến với 19 khách
 
 ---
 
-### 📍 Scenario 2 — TRƯỚC cuộc gặp tiếp — xem lại 3 phút
+### Scenario 2 — TRƯỚC cuộc gặp tiếp — xem lại 3 phút
 
 *8:50 sáng, trước họp 9:00 với 松本PM, mở Notion 3 phút · vào phòng · mở tự nhiên · 目を見開く · 感動*
 
@@ -55,7 +55,7 @@ Tháng 3/2027. Dũng tổng kết 1 năm zatsudan thực chiến với 19 khách
 |---------|-----|
 | **ズン** | (Đọc memo)… |
 | *— Memo cũ 2026-12 —* | <ruby>松本<rt>まつもと</rt></ruby>PM. <ruby>浅草下町<rt>あさくさしたまち</rt></ruby>, <ruby>江戸前寿司派<rt>えどまえずしは</rt></ruby>, <ruby>月島<rt>つきしま</rt></ruby>いろは<ruby>推<rt>お</rt></ruby>し. **<ruby>奥様<rt>おくさま</rt></ruby>**: <ruby>元<rt>もと</rt></ruby> OL → <ruby>現在<rt>げんざい</rt></ruby>ペット<ruby>同伴<rt>どうはん</rt></ruby>カフェ<ruby>経営<rt>けいえい</rt></ruby>. **<ruby>息子<rt>むすこ</rt></ruby>**: <ruby>高校<rt>こうこう</rt></ruby>2<ruby>年<rt>ねん</rt></ruby> (16<ruby>歳<rt>さい</rt></ruby>), <ruby>野球部<rt>やきゅうぶ</rt></ruby>. **<ruby>次回<rt>じかい</rt></ruby>ネタ**: 息子の野球部の<ruby>進捗<rt>しんちょく</rt></ruby>. |
-|  | *Matsumoto PM. Khu phố cổ Asakusa, gu sushi Edo-mae, mê quán Iroha ở Tsukishima. Vợ: trước là nhân viên văn phòng → giờ kinh doanh quán cà phê cho mang thú cưng. Con trai: lớp 11 (16 tuổi), đội bóng chày. Topic lần sau: tiến triển đội bóng chày của con.* |
+|  | *Matsumoto PM. Khu phố cổ Asakusa, gu sushi Edo-mae, mê quán Iroha ở Tsukishima. Vợ: trước là nhân viên văn phòng → giờ kinh doanh quán cà phê cho mang thú cưng. Con trai: lớp 11 (16 tuổi), đội bóng chày. Chủ đề lần sau: tiến triển đội bóng chày của con.* |
 | **松本** | 「ズンさん、おはよう。」 |
 |  | *"Em Dũng, chào em."* |
 | **ズン** | 「松本さん、おはようございます。お<ruby>元気<rt>げんき</rt></ruby>ですか?**ご<ruby>子息<rt>しそく</rt></ruby>、たしか野球部ですよね、<ruby>高<rt>こう</rt></ruby>3になられましたか?**」 |
@@ -71,14 +71,14 @@ Tháng 3/2027. Dũng tổng kết 1 năm zatsudan thực chiến với 19 khách
 
 ---
 
-### 📍 Scenario 3 — ĐÀO TẠO team — Dũng dạy kho ghi nhớ cho Linh + Hải
+### Scenario 3 — ĐÀO TẠO nhóm — Dũng dạy kho ghi nhớ cho Linh + Hải
 
 *phòng họp, bảng trắng*
 
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「**Memory Bank の5<ruby>要素<rt>ようそ</rt></ruby>** — <ruby>出身地<rt>しゅっしんち</rt></ruby> / <ruby>食<rt>しょく</rt></ruby> / Sport / <ruby>家族<rt>かぞく</rt></ruby> / <ruby>前回話<rt>ぜんかいはな</rt></ruby>した<ruby>内容<rt>ないよう</rt></ruby>。<ruby>最低<rt>さいてい</rt></ruby>この5つ<ruby>毎回<rt>まいかい</rt></ruby>ログる。」 |
-|  | *"5 yếu tố Memory Bank — quê quán / món ăn / thể thao / gia đình / chuyện lần trước nói. Tối thiểu ghi 5 cái này mỗi lần."* |
+|  | *"5 yếu tố Kho ghi nhớ — quê quán / món ăn / thể thao / gia đình / chuyện lần trước nói. Tối thiểu ghi 5 cái này mỗi lần."* |
 | **リン** | 「家族<ruby>情報<rt>じょうほう</rt></ruby>って、どこまでOKですか?ストーカーっぽくないですか?」 |
 |  | *"Thông tin gia đình ghi đến đâu ạ? Có giống soi mói không?"* |
 | **ズン** | 「いい<ruby>質問<rt>しつもん</rt></ruby>。**お<ruby>客様<rt>きゃくさま</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>で<ruby>語<rt>かた</rt></ruby>った<ruby>範囲<rt>はんい</rt></ruby>**だけ<ruby>記録<rt>きろく</rt></ruby>。プライベートを<ruby>探<rt>さぐ</rt></ruby>って<ruby>書<rt>か</rt></ruby>くのはNG。**<ruby>子供<rt>こども</rt></ruby>の<ruby>学年<rt>がくねん</rt></ruby>**とか**奥様の<ruby>職業<rt>しょくぎょう</rt></ruby>**は、お客様が<ruby>話<rt>はな</rt></ruby>してくれた<ruby>時<rt>とき</rt></ruby>だけ。」 |
@@ -90,17 +90,17 @@ Tháng 3/2027. Dũng tổng kết 1 năm zatsudan thực chiến với 19 khách
 | **リン** | 「Notion でテンプレートありますか?」 |
 |  | *"Có template Notion không ạ?"* |
 | **ズン** | 「**templates field <ruby>見<rt>み</rt></ruby>て**。**5要素 + 次回ネタ + Mood + Follow up date** 構造で。**Salesforce<ruby>連携<rt>れんけい</rt></ruby>**もある。」 |
-|  | *"Xem field templates. Cấu trúc 5 yếu tố + topic lần sau + mood + ngày follow up. Có cả Salesforce sync."* |
+|  | *"Xem field templates. Cấu trúc 5 yếu tố + chủ đề lần sau + tâm trạng + ngày theo dõi. Có cả Salesforce sync."* |
 | **ハイ** | 「次回ネタって?」 |
-|  | *"Topic lần sau là gì ạ?"* |
+|  | *"Chủ đề lần sau là gì ạ?"* |
 | **ズン** | 「『**3ヶ月後にお子様の野球部<ruby>様子<rt>ようす</rt></ruby>を<ruby>聞<rt>き</rt></ruby>こう**』みたいな**<ruby>自分宛<rt>じぶんあて</rt></ruby>リマインダー**。Salesforceでtask<ruby>登録<rt>とうろく</rt></ruby>、3ヶ月後に<ruby>通知<rt>つうち</rt></ruby>が<ruby>来<rt>く</rt></ruby>る。」 |
 |  | *"Kiểu '3 tháng sau hỏi tình hình đội bóng chày của con khách'. Reminder gửi cho chính mình. Đăng task Salesforce, 3 tháng sau nó báo."* |
 
-> **VN:** Đào tạo team = nhân rộng. **5 yếu tố + quy tắc 24h + reminder tự nhắc** = hệ thống.
+> **VN:** Đào tạo nhóm = nhân rộng. **5 yếu tố + quy tắc 24h + reminder tự nhắc** = hệ thống.
 
 ---
 
-### 📍 Scenario 4 — 3 ヶ月後 follow-up message — chủ động liên hệ tự nhiên
+### Scenario 4 — 3 ヶ月後 — thông điệp theo dõi — chủ động liên hệ tự nhiên
 
 *LINE/email 中村CFOに 3 ヶ月後 reminder kêu · reply 2時間後 · nội tâm — ghi log lại*
 
@@ -118,7 +118,7 @@ Tháng 3/2027. Dũng tổng kết 1 năm zatsudan thực chiến với 19 khách
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ MỞ kho ghi nhớ tự nhiên:
@@ -141,7 +141,7 @@ Tháng 3/2027. Dũng tổng kết 1 năm zatsudan thực chiến với 19 khách
 
 ---
 
-## 🗾 Kho ghi nhớ — 5 yếu tố
+## Kho ghi nhớ — 5 yếu tố
 
 | Yếu tố | Ghi gì | Khi nào hỏi lại |
 |---------|--------|----------------|
@@ -153,7 +153,7 @@ Tháng 3/2027. Dũng tổng kết 1 năm zatsudan thực chiến với 19 khách
 
 ---
 
-## ⚠ NG
+## NG
 
 - **Ghi quá chi tiết** (moi móc chi tiết, bệnh án) → nguy cơ bị xem là soi mói.
 - **Hỏi memo lúc đang gặp** ("ちょっと…メモ確認します") → thiếu chuyên nghiệp.
@@ -163,24 +163,24 @@ Tháng 3/2027. Dũng tổng kết 1 năm zatsudan thực chiến với 19 khách
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 雑談メモバンク | ざつだんメモバンク | Kho ghi nhớ chuyện phiếm |
-| 出身地 | しゅっしんち | Quê quán |
-| 好物 | こうぶつ | Món yêu |
-| 応援チーム | おうえんチーム | Đội ủng hộ |
-| 家族構成 | かぞくこうせい | Cấu trúc gia đình |
-| 学年 | がくねん | Lớp/cấp học |
-| ど忘れ | どわすれ | Quên đột ngột |
-| さりげなく | — | Tự nhiên không quá |
-| フォローアップ | — | Theo dõi sau |
-| リマインダー | — | Nhắc nhở |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 雑談メモバンク | ざつだんメモバンク | TẠP ĐÀM | Kho ghi nhớ chuyện phiếm |
+| 出身地 | しゅっしんち | XUẤT THÂN ĐỊA | Quê quán |
+| 好物 | こうぶつ | HẢO VẬT | Món yêu |
+| 応援チーム | おうえんチーム | ỨNG VIÊN | Đội ủng hộ |
+| 家族構成 | かぞくこうせい | GIA TỘC CẤU THÀNH | Cấu trúc gia đình |
+| 学年 | がくねん | HỌC NIÊN | Lớp/cấp học |
+| ど忘れ | どわすれ | VONG | Quên đột ngột |
+| さりげなく | さりげなく | — | Tự nhiên không quá |
+| フォローアップ | フォローアップ | — | Theo dõi sau |
+| リマインダー | リマインダー | — | Nhắc nhở |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** 24h sau dinner = lúc lý tưởng ghi memo.
 **J2 — 表現読解:** "覚えていてくれた" = niềm vui sâu của khách JP. Dùng cẩn thận.

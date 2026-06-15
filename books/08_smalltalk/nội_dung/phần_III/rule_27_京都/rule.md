@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Tâm lý JP
+## Tâm lý JP
 
 - 「ぶぶ漬けでもどうどす?」 = **"đến giờ khách nên về"** (giai thoại dân gian nhưng phản ánh **本音建前** Kyoto thật rõ).
 - Khách Kyoto đánh giá rất **chú ý chi tiết** — chọn từ, tốc độ nói, cách rót trà.
@@ -15,15 +15,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 9/2026, Dũng + Hà CTO + Tuấn được anh Matsumoto giới thiệu khách hàng mới: **黒田社長** (黒田屋, công ty 200 năm tuổi, nhà sản xuất dệt may **西陣織** ở Kyoto). Lịch: trà buổi sáng theo phong cách **京都迎賓館** → ăn trưa 懐石 ở **菊乃井 (3 sao)** → chiều thăm xưởng 西陣 → tối uống sake ở 先斗町.
 
 ---
 
-## 💬 4 Scenarios
+## 4 Scenarios
 
-### 📍 Scenario 1 — Sáng — おもてなし vào trà
+### Scenario 1 — Sáng — おもてなし vào trà
 
 *rót抹茶 cho Dũng · nhận bằng 2 tay, xoay碗 2 lần kim đồng hồ · 感心 · nhỏ giọng*
 
@@ -48,7 +48,7 @@ Tháng 9/2026, Dũng + Hà CTO + Tuấn được anh Matsumoto giới thiệu kh
 
 ---
 
-### 📍 Scenario 2 — Trưa 懐石 ở 菊乃井 — chiều sâu lễ thức
+### Scenario 2 — Trưa 懐石 ở 菊乃井 — chiều sâu lễ thức
 
 *nhìn món 先付 · 目を見開く · nhỏ với Dũng · 小声*
 
@@ -75,7 +75,7 @@ Tháng 9/2026, Dũng + Hà CTO + Tuấn được anh Matsumoto giới thiệu kh
 
 ---
 
-### 📍 Scenario 3 — Chiều thăm xưởng 西陣 — di sản nghề thủ công
+### Scenario 3 — Chiều thăm xưởng 西陣 — di sản nghề thủ công
 
 *dẫn vào xưởng dệt*
 
@@ -100,7 +100,7 @@ Tháng 9/2026, Dũng + Hà CTO + Tuấn được anh Matsumoto giới thiệu kh
 
 ---
 
-### 📍 Scenario 4 — Tối 先斗町 sake — chủ đề 舞妓 cần cẩn thận
+### Scenario 4 — Tối 先斗町 sake — chủ đề 舞妓 cần cẩn thận
 
 *dẫn dọc 先斗町 · 微笑 · さりげなく · うなずく*
 
@@ -125,7 +125,7 @@ Tháng 9/2026, Dũng + Hà CTO + Tuấn được anh Matsumoto giới thiệu kh
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ MỞ TOPIC KYOTO:
@@ -155,7 +155,7 @@ Tháng 9/2026, Dũng + Hà CTO + Tuấn được anh Matsumoto giới thiệu kh
 
 ---
 
-## 🗾 Bảng tra nhanh vùng miền — 京都
+## Bảng tra nhanh vùng miền — 京都
 
 | Hạng mục | Nội dung |
 |----------|----------|
@@ -174,7 +174,7 @@ Tháng 9/2026, Dũng + Hà CTO + Tuấn được anh Matsumoto giới thiệu kh
 
 ---
 
-## ⚠ NG
+## NG
 
 - Khen **「派手で華やか」** trước khách Kyoto → lệch tông (Kyoto trân trọng sự sang trọng kín đáo).
 - Hỏi **「ぶぶ漬けでもどうですか?」** ngược lại để đùa → có thể bị xem là sỉ nhục.
@@ -185,34 +185,34 @@ Tháng 9/2026, Dũng + Hà CTO + Tuấn được anh Matsumoto giới thiệu kh
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 懐石 | かいせき | Kaiseki — món tinh hoa |
-| 抹茶 | まっちゃ | Bột trà xanh |
-| 茶道 | さどう | Trà đạo |
-| お点前 | おてまえ | Nghi thức pha trà |
-| 裏千家 | うらせんけ | 1 trong 3 流派 |
-| 西陣織 | にしじんおり | Vải dệt Kyoto 500年 |
-| 京友禅 | きょうゆうぜん | Nhuộm Kyoto |
-| 清水焼 | きよみずやき | Gốm Kyoto |
-| 舞妓 | まいこ | Maiko (15-20 tuổi) |
-| 芸妓 | げいこ | Geiko (20+) |
-| だらりの帯 | だらりのおび | Đai 5m của Maiko |
-| 一見さんお断り | いちげんさんおことわり | Không tiếp khách lạ |
-| おもてなし | — | Tinh thần đoán ý phục vụ |
-| 祇園祭 | ぎおんまつり | Lễ tháng 7 lớn nhất |
-| 五花街 | ごかがい | 5 hanamachi |
-| はんなり | — | Thanh + nhẹ (top khen Kyoto) |
-| 〜どす | — | "〜です" Kyoto-ben |
-| 八ツ橋 | やつはし | Bánh đặc sản |
-| 湯豆腐 | ゆどうふ | Đậu hủ luộc |
-| 宇治 | うじ | Uji — vùng matcha |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 懐石 | かいせき | HOÀI THẠCH | Kaiseki — món tinh hoa |
+| 抹茶 | まっちゃ | MẠT TRÀ | Bột trà xanh |
+| 茶道 | さどう | TRÀ ĐẠO | Trà đạo |
+| お点前 | おてまえ | ĐIỂM TIỀN | Nghi thức pha trà |
+| 裏千家 | うらせんけ | LÝ THIÊN GIA | 1 trong 3 流派 |
+| 西陣織 | にしじんおり | TÂY TRẬN CHỨC | Vải dệt Kyoto 500年 |
+| 京友禅 | きょうゆうぜん | KINH HỮU THIỀN | Nhuộm Kyoto |
+| 清水焼 | きよみずやき | THANH THỦY THIÊU | Gốm Kyoto |
+| 舞妓 | まいこ | VŨ KỸ | Maiko (15-20 tuổi) |
+| 芸妓 | げいこ | NGHỆ KỸ | Geiko (20+) |
+| だらりの帯 | だらりのおび | — ĐỚI | Đai 5m của Maiko |
+| 一見さんお断り | いちげんさんおことわり | NHẤT KIẾN — ĐOẠN | Không tiếp khách lạ |
+| おもてなし | おもてなし | — | Tinh thần đoán ý phục vụ |
+| 祇園祭 | ぎおんまつり | KỲ VIÊN TẾ | Lễ tháng 7 lớn nhất |
+| 五花街 | ごかがい | NGŨ HOA NHAI | 5 hanamachi |
+| はんなり | はんなり | — | Thanh + nhẹ (top khen Kyoto) |
+| 〜どす | どす | — | "〜です" Kyoto-ben |
+| 八ツ橋 | やつはし | BÁT KIỀU | Bánh đặc sản |
+| 湯豆腐 | ゆどうふ | THANG ĐẬU PHỤ | Đậu hủ luộc |
+| 宇治 | うじ | VŨ TRỊ | Uji — vùng matcha |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Khách Kyoto im lặng 3 giây sau câu hỏi → đợi, không lấp.
 **J2 — 表現読解:** "ぶぶ漬けでも…" = dấu hiệu "đến lúc về" theo giai thoại dân gian, hiểu nghĩa ngầm.

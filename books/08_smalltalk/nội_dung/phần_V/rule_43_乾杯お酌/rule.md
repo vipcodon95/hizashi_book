@@ -4,26 +4,26 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - お酌 = **biểu đạt sự tôn trọng + chăm sóc** quan trọng nhất bàn nhậu Nhật.
-- Junior thấy ly senior hết → **đổ ngay không cần được mời** = chuyên nghiệp. Senior phải tự đổ = junior hỏng việc.
+- Nhân viên mới thấy ly người cấp cao hết → **đổ ngay không cần được mời** = chuyên nghiệp. Người cấp cao phải tự đổ = nhân viên mới hỏng việc.
 - "**Giữ ly thấp hơn**" khi cạn = sự khiêm nhường.
 - **Rượu Việt khác rượu Nhật**: ở VN nhậu 1-1 ("trăm phần trăm") không bắt buộc ở Nhật — đừng áp đặt.
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 5/2026, tiệc liên hoan Phase 4 closing tại izakaya Tokyo. Cùng dàn nhân vật với rule 42 — Ōgaki (senior), Matsumoto, Tanaka, Tuấn, Dũng. Sau 1 tiếng, Ōgaki đã hết ly bia số 2. Tanaka đã chuyển sake. Dũng phải vận hành quy tắc お酌 cả bàn.
 
 ---
 
-## 💬 4 Scenarios — hội thoại thực chiến
+## 4 Scenarios — hội thoại thực chiến
 
-### 📍 Scenario 1 — 乾杯 đầu buổi: thứ tự ly + cao thấp
+### Scenario 1 — 乾杯 đầu buổi: thứ tự ly + cao thấp
 
-*senior vào vai chủ trì sau khi bia ra · tất cả nâng ly · QUAN TRỌNG: ly Dũng giữ thấp hơn ly Ōgaki ~3cm khi chạm · uống xong, đặt ly, nhìn về senior*
+*người cấp cao vào vai chủ trì sau khi bia ra · tất cả nâng ly · QUAN TRỌNG: ly Dũng giữ thấp hơn ly Ōgaki ~3cm khi chạm · uống xong, đặt ly, nhìn về người cấp cao*
 
 | Vai | Câu |
 |---------|-----|
@@ -38,15 +38,15 @@ Tháng 5/2026, tiệc liên hoan Phase 4 closing tại izakaya Tokyo. Cùng dàn
 | **大垣** | 「ありがとう。ま、とりあえず<ruby>一杯<rt>いっぱい</rt></ruby>。」 |
 |  | *Cảm ơn em. Trước hết một ly đã.* |
 
-📝【1】 **Phép tắc 乾杯:** ly junior **THẤP HƠN** ly senior khi chạm. Không sát quá (không cần đập to). Lực bị xem nhẹ là sai — nhẹ nhưng có tiếp xúc.
+【1】 **Phép tắc 乾杯:** ly junior **THẤP HƠN** ly senior khi chạm. Không sát quá (không cần đập to). Lực bị xem nhẹ là sai — nhẹ nhưng có tiếp xúc.
 
-> **VN:** Ly Dũng thấp hơn Ōgaki ~3cm. Nếu nhiều người, junior nhất ly thấp nhất bàn. Có thể không thực sự chạm tất cả — giơ ly, nâng nhẹ, nói "kanpai".
+> **VN:** Ly Dũng thấp hơn Ōgaki ~3cm. Nếu nhiều người, nhân viên mới nhất ly thấp nhất bàn. Có thể không thực sự chạm tất cả — giơ ly, nâng nhẹ, nói "kanpai".
 
 ---
 
-### 📍 Scenario 2 — お酌 lượt 2: rót bia cho senior
+### Scenario 2 — お酌 lượt 2: rót bia cho senior
 
-*20 phút sau, ly Ōgaki còn 1/3 · để ý thấy + cầm chai bằng 2 tay, nhãn hướng về phía Ōgaki · rót: 80% bia + 20% bọt mịn · tự nhiên: senior lấy chai rồi rót lại cho Dũng · 2 tay đỡ ly, ly thấp hơn chai 1 chút · uống 1 ngụm — KHÔNG để senior rót xong rồi không uống*
+*20 phút sau, ly Ōgaki còn 1/3 · để ý thấy + cầm chai bằng 2 tay, nhãn hướng về phía Ōgaki · rót: 80% bia + 20% bọt mịn · tự nhiên: người cấp cao lấy chai rồi rót lại cho Dũng · 2 tay đỡ ly, ly thấp hơn chai 1 chút · uống 1 ngụm — KHÔNG để người cấp cao rót xong rồi không uống*
 
 | Vai | Câu |
 |---------|-----|
@@ -63,13 +63,13 @@ Tháng 5/2026, tiệc liên hoan Phase 4 closing tại izakaya Tokyo. Cùng dàn
 | **ズン** | 「<ruby>美味<rt>おい</rt></ruby>しいです。」 |
 |  | *Ngon ạ. (uống 1 ngụm)* |
 
-📝【1】 **Rót bia chuẩn:** nhãn hướng về **người được rót** (tín hiệu "tôi cho anh thấy chai gì"). 2 tay cầm chai (tay phải cầm + tay trái đỡ đáy chai). Nghiêng ly 30°, rót gần đáy → cuối dựng thẳng ly để tạo bọt 20%.
+【1】 **Rót bia chuẩn:** nhãn hướng về **người được rót** (tín hiệu "tôi cho anh thấy chai gì"). 2 tay cầm chai (tay phải cầm + tay trái đỡ đáy chai). Nghiêng ly 30°, rót gần đáy → cuối dựng thẳng ly để tạo bọt 20%.
 
-📝【2】 **Khi được rót:** 2 tay đỡ ly + ly thấp hơn chai senior + sau đó **uống 1 ngụm ngay** (không để ly đầy mà không uống = lãng phí lòng tốt).
+【2】 **Khi được rót:** 2 tay đỡ ly + ly thấp hơn chai người cấp cao + sau đó **uống 1 ngụm ngay** (không để ly đầy mà không uống = lãng phí lòng tốt).
 
 ---
 
-### 📍 Scenario 3 — お酌 sake: tokkuri + ochoko
+### Scenario 3 — お酌 sake: tokkuri + ochoko
 
 *Matsumoto chuyển sake lạnh — tokkuri ra · Matsumoto cầm tokkuri · Dũng 2 tay đỡ ochoko, hơi nghiêng cười nhẹ · Matsumoto nâng tokkuri 2 tay, rót vào ochoko Dũng · Dũng uống nửa ngụm · để ý ochoko Matsumoto vơi → lấy tokkuri · 2 tay đỡ ochoko · 2 tay rót — phép tắc お酌: cầm tokkuri hai tay, rót vào ochoko Matsumoto đang đỡ*
 
@@ -88,13 +88,13 @@ Tháng 5/2026, tiệc liên hoan Phase 4 closing tại izakaya Tokyo. Cùng dàn
 | **松本** | 「ありがとう。」 |
 |  | *Cảm ơn em. (2 tay đỡ ochoko)* |
 | **ズン** | (rót xong) |
-|  | *(2 tay tokkuri, miệng thấp hơn ochoko Matsumoto vì mình junior)* |
+|  | *(2 tay tokkuri, miệng thấp hơn ochoko Matsumoto vì mình nhân viên mới)* |
 
-📝 **Riêng về sake:** tokkuri = bình sake nhỏ. Ochoko = ly sake. **お酌 (rót cho nhau): cầm tokkuri hai tay, rót vào ochoko đối phương đang đỡ — không liên quan đến chiều cao ly**. **乾杯 (chạm cốc): junior giữ ly thấp hơn ly senior khi chạm**. Rót 80% (không tràn). Còn 1 ngụm = thay tokkuri / gọi thêm. **Sake nóng (atsukan) — kiểm tra nhiệt bằng cách chạm bình** trước khi rót để khỏi quá nóng.
+ **Riêng về sake:** tokkuri = bình sake nhỏ. Ochoko = ly sake. **お酌 (rót cho nhau): cầm tokkuri hai tay, rót vào ochoko đối phương đang đỡ — không liên quan đến chiều cao ly**. **乾杯 (chạm cốc): junior giữ ly thấp hơn ly senior khi chạm**. Rót 80% (không tràn). Còn 1 ngụm = thay tokkuri / gọi thêm. **Sake nóng (atsukan) — kiểm tra nhiệt bằng cách chạm bình** trước khi rót để khỏi quá nóng.
 
 ---
 
-### 📍 Scenario 4 — Vùng cấm: ép uống "trăm phần trăm" kiểu VN
+### Scenario 4 — Vùng cấm: ép uống "trăm phần trăm" kiểu VN
 
 *kiểu VN — với ý tốt nhưng NG · lúng túng, không quen 一気飲み · gỡ tình huống ngay · để ý · nhẹ nhàng · chuyển chủ đề khéo*
 
@@ -113,11 +113,11 @@ Tháng 5/2026, tiệc liên hoan Phase 4 closing tại izakaya Tokyo. Cùng dàn
 | **ズン** | 「松本さんがいつかハノイに<ruby>来<rt>こ</rt></ruby>られた時、ぜひ"100%"してください(笑)。今日は**獺祭ペース**でゆっくりと。」 |
 |  | *Khi nào anh đến HN nhất định '100%' nha (cười). Hôm nay theo nhịp Dassai đi từ từ ạ.* |
 
-📝 **Cảnh báo:** "1, 2, 3 dô" / 100% = phong tục VN, không **ép** sang Nhật. Senior Nhật không quen có thể buộc phải nhậu = mất sức + cảm giác không thoải mái. **Bắc cầu**: "100% là kiểu VN, ペース là kiểu Nhật — cả hai đều là nghệ thuật".
+ **Cảnh báo:** "1, 2, 3 dô" / 100% = phong tục VN, không **ép** sang Nhật. Senior Nhật không quen có thể buộc phải nhậu = mất sức + cảm giác không thoải mái. **Bắc cầu**: "100% là kiểu VN, ペース là kiểu Nhật — cả hai đều là nghệ thuật".
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ 乾杯 ETIQUETTE:
@@ -143,37 +143,37 @@ Tháng 5/2026, tiệc liên hoan Phase 4 closing tại izakaya Tokyo. Cùng dàn
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - Ly junior **cao hơn hoặc ngang** senior khi 乾杯 → mất tín hiệu khiêm nhường.
-- Để **ly senior trống** mà không rót → "không quan sát".
-- Tự rót cho mình **trước** khi rót cho người khác → "tự cho mình trước senior".
+- Để **ly người cấp cao trống** mà không rót → "không quan sát".
+- Tự rót cho mình **trước** khi rót cho người khác → "tự cho mình trước người cấp cao".
 - Rót bia **100% bia 0% bọt** hoặc **100% bọt** → kỹ thuật yếu.
 - **Ép senior 一気飲み** kiểu "trăm phần trăm" VN → văn hóa khác, gây không thoải mái.
-- Không **uống 1 ngụm ngay** sau khi senior rót cho mình → lãng phí lòng tốt.
-- **1 tay** rót cho senior → vô lễ.
+- Không **uống 1 ngụm ngay** sau khi người cấp cao rót cho mình → lãng phí lòng tốt.
+- **1 tay** rót cho người cấp cao → vô lễ.
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 乾杯 | かんぱい | Cạn ly |
-| お酌 | おしゃく | Rót cho người khác |
-| お注ぎする | おつぎする | Rót (kính ngữ) |
-| 一気飲み | いっきのみ | Uống 1 hơi (NG ở Nhật hiện đại) |
-| 徳利 | とっくり | Bình sake nhỏ |
-| お猪口 | おちょこ | Ly sake nhỏ |
-| ぐい呑み | ぐいのみ | Ly sake to (tea-cup size) |
-| 熱燗 | あつかん | Sake nóng |
-| 冷酒 | れいしゅ | Sake lạnh |
-| 獺祭 | だっさい | Tên sake nổi tiếng (Yamaguchi) |
-| ペース | — | Tốc độ uống (tôn trọng) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 乾杯 | かんぱい | CAN BÔI | Cạn ly |
+| お酌 | おしゃく | CHƯỚC | Rót cho người khác |
+| お注ぎする | おつぎする | CHÚ | Rót (kính ngữ) |
+| 一気飲み | いっきのみ | NHẤT KHÍ ẨM | Uống 1 hơi (NG ở Nhật hiện đại) |
+| 徳利 | とっくり | ĐỨC LỢI | Bình sake nhỏ |
+| お猪口 | おちょこ | — | Ly sake nhỏ |
+| ぐい呑み | ぐいのみ | — | Ly sake to (tea-cup size) |
+| 熱燗 | あつかん | NHIỆT HÃN | Sake nóng |
+| 冷酒 | れいしゅ | LÃNH TỬU | Sake lạnh |
+| 獺祭 | だっさい | ĐẠT TẾ | Tên sake nổi tiếng (Yamaguchi) |
+| ペース | ペース | — | Tốc độ uống (tôn trọng) |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Ly junior thấp hơn ly senior khi 乾杯. Để ý ly trống của senior → rót ngay.
 **J2 — 表現読解:** Phân biệt "強要" (ép) vs "勧める" (mời) — không vượt quá ranh giới.

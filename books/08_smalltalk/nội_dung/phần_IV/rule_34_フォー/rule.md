@@ -4,24 +4,24 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - Phở = cánh cửa ẩm thực dễ tiếp cận nhất với khách Nhật — họ đã ăn ở Tokyo / Osaka rồi nên có "kiến thức ban đầu".
 - JP rất thích **phân loại tinh tế** (ramen Kyushu vs Hakata vs Sapporo) — nên khi mình kể "phở Bắc vs Nam khác nhau thế nào" họ sẽ cực thích.
-- Senior 50t+ thường tự hào đã đến VN ăn phở "đúng vị" — đừng mâu thuẫn, hãy bổ sung thêm tầng hiểu biết.
+- Người cấp cao 50t+ thường tự hào đã đến VN ăn phở "đúng vị" — đừng mâu thuẫn, hãy bổ sung thêm tầng hiểu biết.
 - Điểm thú nhất với khách: ăn phở **6h sáng đứng vỉa hè** = trải nghiệm họ chưa có.
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 5/2026, bữa tối ở izakaya Tokyo với Matsumoto / Nakamura / Yamamoto (Osaka). Câu chuyện dạo quanh chuyển sang "lần tới công tác Hà Nội nên ăn gì" → Dũng có 15 phút để đưa khách vào hành trình khám phá phở đầy hấp dẫn.
 
 ---
 
-## 💬 4 Scenarios — hội thoại thực chiến
+## 4 Scenarios — hội thoại thực chiến
 
-### 📍 Scenario 1 — Mở chủ đề: Bắc vs Nam (đủ chiều sâu, không hàn lâm)
+### Scenario 1 — Mở chủ đề: Bắc vs Nam (đủ chiều sâu, không hàn lâm)
 
 *食関心*
 
@@ -40,11 +40,11 @@ Tháng 5/2026, bữa tối ở izakaya Tokyo với Matsumoto / Nakamura / Yamamo
 | **ズン** | 「まさにその<ruby>喩<rt>たと</rt></ruby>えがぴったりです!**北=<ruby>引<rt>ひ</rt></ruby>き<ruby>算<rt>ざん</rt></ruby>の<ruby>美学<rt>びがく</rt></ruby>、南=<ruby>足<rt>た</rt></ruby>し<ruby>算<rt>ざん</rt></ruby>の楽しさ**、です。」 |
 |  | *Đúng phép so sánh đó luôn ạ! Bắc = mỹ học phép trừ, Nam = niềm vui phép cộng.* |
 
-📝 **Công thức vàng:** so sánh phở Bắc-Nam với văn hóa ẩm thực Nhật mà họ đã biết (蕎麦 vs 担々麺) → khách "Aha!" ngay lập tức.
+ **Công thức vàng:** so sánh phở Bắc-Nam với văn hóa ẩm thực Nhật mà họ đã biết (蕎麦 vs 担々麺) → khách "Aha!" ngay lập tức.
 
 ---
 
-### 📍 Scenario 2 — Gà vs Bò + thời điểm ăn
+### Scenario 2 — Gà vs Bò + thời điểm ăn
 
 | Vai | Câu |
 |---------|-----|
@@ -67,7 +67,7 @@ Tháng 5/2026, bữa tối ở izakaya Tokyo với Matsumoto / Nakamura / Yamamo
 
 ---
 
-### 📍 Scenario 3 — Bát Đàn (HN) vs Pasteur (HCM) — gợi ý cụ thể
+### Scenario 3 — Bát Đàn (HN) vs Pasteur (HCM) — gợi ý cụ thể
 
 | Vai | Câu |
 |---------|-----|
@@ -84,11 +84,11 @@ Tháng 5/2026, bữa tối ở izakaya Tokyo với Matsumoto / Nakamura / Yamamo
 | **ズン** | 「まさに!ホーチミンなら**フォー・パスツール(Phở Pasteur)**か**フォー・ホア(Phở Hòa)**。こちらは<ruby>席<rt>せき</rt></ruby>まで<ruby>運<rt>はこ</rt></ruby>んでくれて優しいです。」 |
 |  | *Đúng rồi ạ! Còn HCM thì Phở Pasteur hoặc Phở Hòa. Họ bưng tận bàn, dễ chịu hơn.* |
 
-📝【1】 「ぶっきらぼう」 = thô mộc, không niềm nở. Cái chất phở HN huyền thoại — khách Nhật nghe sẽ thấy thú vị, không bị xúc phạm.
+【1】 「ぶっきらぼう」 = thô mộc, không niềm nở. Cái chất phở HN huyền thoại — khách Nhật nghe sẽ thấy thú vị, không bị xúc phạm.
 
 ---
 
-### 📍 Scenario 4 — Đào sâu thêm: vùng nguy hiểm né (chính trị nguồn gốc phở)
+### Scenario 4 — Đào sâu thêm: vùng nguy hiểm né (chính trị nguồn gốc phở)
 
 *hơi tò mò sâu · né khéo*
 
@@ -105,11 +105,11 @@ Tháng 5/2026, bữa tối ở izakaya Tokyo với Matsumoto / Nakamura / Yamamo
 | **大垣** | 「面白いね、職人の村か。日本の<ruby>蕎麦<rt>そば</rt></ruby>の<ruby>信州<rt>しんしゅう</rt></ruby>みたいなもんだ。」 |
 |  | *Hay nhỉ, làng nghề. Giống Shinshu của soba Nhật vậy.* |
 
-📝【2】 **NG:** dẫn dắt vào "thuộc địa Pháp" / nguồn gốc TQ-VN căng thẳng. **OK:** "có nhiều thuyết, tôi không phải chuyên gia" + bổ sung chi tiết dễ chịu (làng nghề Cồ Lễ).
+【2】 **NG:** dẫn dắt vào "thuộc địa Pháp" / nguồn gốc TQ-VN căng thẳng. **OK:** "có nhiều thuyết, tôi không phải chuyên gia" + bổ sung chi tiết dễ chịu (làng nghề Cồ Lễ).
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ MỞ CHỦ ĐỀ:
@@ -134,7 +134,7 @@ Tháng 5/2026, bữa tối ở izakaya Tokyo với Matsumoto / Nakamura / Yamamo
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - "Phở đúng vị chỉ ở VN" → khách Nhật đã ăn phở Tokyo có thể tự ái. **OK:** "phở Tokyo cũng好評ですが、地元はちょっと違うんですよ".
 - Thuyết nguồn gốc Pháp/Trung quá mạnh → vùng nhạy cảm chính trị, né.
@@ -144,23 +144,23 @@ Tháng 5/2026, bữa tối ở izakaya Tokyo với Matsumoto / Nakamura / Yamamo
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| フォー | — | Phở |
-| 澄んだスープ | すんだスープ | Nước dùng trong (kiểu Bắc) |
-| 出汁 | だし | Nước dùng (khái niệm Nhật — phở Bắc khớp với khái niệm này) |
-| 屋台 | やたい | Quán vỉa hè |
-| 締め | しめ | Món chốt buổi nhậu (= phở đêm, khách Nhật dễ hiểu) |
-| ぶっきらぼう | — | Thô mộc, không niềm nở |
-| 行列必至 | ぎょうれつひっし | Chắc chắn phải xếp hàng |
-| 諸説あり | しょせつあり | Có nhiều thuyết |
-| 引き算/足し算の美学 | ひきざん/たしざんのびがく | Mỹ học phép trừ / phép cộng |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| フォー | フォー | — | Phở |
+| 澄んだスープ | すんだスープ | TRỪNG | Nước dùng trong (kiểu Bắc) |
+| 出汁 | だし | XUẤT TRẤP | Nước dùng (khái niệm Nhật — phở Bắc khớp với khái niệm này) |
+| 屋台 | やたい | ỐC ĐÀI | Quán vỉa hè |
+| 締め | しめ | — | Món chốt buổi nhậu (= phở đêm, khách Nhật dễ hiểu) |
+| ぶっきらぼう | ぶっきらぼう | — | Thô mộc, không niềm nở |
+| 行列必至 | ぎょうれつひっし | HÀNH LIỆT TẤT CHÍ | Chắc chắn phải xếp hàng |
+| 諸説あり | しょせつあり | CHƯ THUYẾT | Có nhiều thuyết |
+| 引き算/足し算の美学 | ひきざん/たしざんのびがく | DẪN TOÁN / TÚC TOÁN / MỸ HỌC | Mỹ học phép trừ / phép cộng |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Khi khách Nhật nói "ハノイ出張" → biết bắc cầu sang chủ đề phở + gợi ý quán cụ thể.
 **J2 — 表現読解:** Phân biệt "ぶっきらぼう" (mô tả) vs "失礼" (xúc phạm) — sắc thái mỏng.

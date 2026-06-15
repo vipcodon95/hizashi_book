@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (3 dòng)
+## Tâm lý JP (3 dòng)
 
 - Khách JP cảm thấy "**đối tác hiểu Nhật thật sự**" khi mình nhắc tới NHK ニュース hoặc bài báo 日経.
 - 1-2 thông tin mới mỗi tuần = đủ làm mới kho 雑談 — không cần "biết tất cả".
@@ -12,13 +12,13 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tham khảo. 1 tình huống "áp dụng nguồn thu nạp vào bữa tối" + phân tích 5 nguồn.
 
 ---
 
-## 📋 5 NGUỒN CHÍNH — 雑談ネタ
+## 5 NGUỒN CHÍNH — 雑談ネタ
 
 | # | Nguồn | Địa chỉ/Ứng dụng | Tần suất | Ghi chú |
 |---|-------|---------|-----------|------|
@@ -30,21 +30,21 @@ Tham khảo. 1 tình huống "áp dụng nguồn thu nạp vào bữa tối" + p
 
 ---
 
-## 📋 BONUS NGUỒN
+## BONUS NGUỒN
 
 | Nguồn | Lý do |
 |-------|-------|
 | **天気予報JP** (Yahoo 天気) | Kiểm tra trước họp / bữa tối — biết hôm đó thời tiết quê khách |
 | **Tabelog**(食べログ) | Gợi ý nhà hàng cho khách + biết xu hướng quán mới Tokyo |
 | **Sumo日程** (sumo.or.jp) | Khách 50t+ thường mê sumo, lịch 場所 = chủ đề vàng |
-| **NPB sport** (npb.jp) | Lịch + bảng xếp hạng bóng chày — khớp đội quê khách |
+| **NPB bóng chày** (npb.jp) | Lịch + bảng xếp hạng bóng chày — khớp đội quê khách |
 | **NHK 大河ドラマ** | Khách cấp cao hâm mộ, phim đang chiếu = 1 câu mở chủ đề |
 
 ---
 
-## 💬 2 Scenario — hội thoại thực chiến
+## 2 Scenario — hội thoại thực chiến
 
-### 📍 Scenario 1 — Áp dụng nguồn NHK vào bữa tối
+### Scenario 1 — Áp dụng nguồn NHK vào bữa tối
 
 *Sáng dùng 5 phút đọc ứng dụng tin NHK — ghi chú: "Hokkaido 観測史上最も早い積雪 札幌で12cm" · zoom call Nakamura CFO Hokkaido buổi tối · rạng rỡ — JPに住んでも遠方の同僚さえ知らないvocab*
 
@@ -61,11 +61,11 @@ Tham khảo. 1 tình huống "áp dụng nguồn thu nạp vào bữa tối" + p
 | **ズン** | 「ハノイでお迎えします、暖かくしておきます(笑)」 |
 |  | *Em đón anh ở HN, sẽ giữ ấm cho anh (cười)* |
 
-📝 **Công thức:** **5 phút sáng → 1 thông tin mới** = rất ấn tượng với khách cấp cao JP. "観測史上最も早い積雪" = từ vựng chuẩn của NHK, không phải Google dịch.
+ **Công thức:** **5 phút sáng → 1 thông tin mới** = rất ấn tượng với khách cấp cao JP. "観測史上最も早い積雪" = từ vựng chuẩn của NHK, không phải Google dịch.
 
 ---
 
-### 📍 Scenario 2 — Lịch đều đặn 30 phút/tuần — phân tích
+### Scenario 2 — Lịch đều đặn 30 phút/tuần — phân tích
 
 | | Ghi chú | Chi tiết |
 |--|------|--------|
@@ -79,28 +79,28 @@ Tham khảo. 1 tình huống "áp dụng nguồn thu nạp vào bữa tối" + p
 **Mẫu ghi chép:**
 
 ```
-📅 Week of YYYY-MM-DD
+ Week of YYYY-MM-DD
 
-🌤 Weather:
+ Weather:
 - Sapporo 12cm 積雪 (NHK 11/X)
 - Tokyo 紅葉見頃 (Yahoo 11/X)
 
-📰 Business:
+ Business:
 - 自動車業界、半導体不足解消 (日経 11/X)
 
-⚽ Sport:
+ Sport:
 - 広島カープ、ドラフト1位 [選手名] (47News 11/X)
 
-🍂 Culture/Seasonal:
+ Culture/Seasonal:
 - 紅葉狩り、京都嵐山ピーク (NHK 11/X)
 
-🎬 TV bangumi this week:
+ TV bangumi this week:
 - ブラタモリ「奈良の興福寺」(NHK 土曜)
 ```
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ ÁP DỤNG TIN NHK:
@@ -123,7 +123,7 @@ Tham khảo. 1 tình huống "áp dụng nguồn thu nạp vào bữa tối" + p
 
 ---
 
-## ⚠ NG khi dùng nguồn thu nạp
+## NG khi dùng nguồn thu nạp
 
 - Nói **thông tin sai** (đọc lướt mà không kiểm chứng) → mất uy tín hơn không biết.
 - Khoe **5 thông tin / 1 buổi** → kiêu ngạo. **1-2 thông tin** là vừa đủ.
@@ -133,22 +133,22 @@ Tham khảo. 1 tình huống "áp dụng nguồn thu nạp vào bữa tối" + p
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 雑談ネタ | ざつだんネタ | Vốn chủ đề 雑談 |
-| 観測史上 | かんそくしじょう | "Trong lịch sử quan trắc" (từ vựng NHK) |
-| 積雪 | せきせつ | Tích tuyết (cm) |
-| 紅葉見頃 | こうようみごろ | Đỉnh điểm lá đỏ |
-| 半導体不足 | はんどうたいぶそく | Thiếu chip bán dẫn |
-| ドラフト | — | Tuyển chọn cầu thủ (NPB) |
-| バズる | — | Đang lan truyền mạnh |
-| 異常気象 | いじょうきしょう | Khí hậu bất thường |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 雑談ネタ | ざつだんネタ | TẠP ĐÀM | Vốn chủ đề 雑談 |
+| 観測史上 | かんそくしじょう | QUAN TRẮC SỬ THƯỢNG | "Trong lịch sử quan trắc" (từ vựng NHK) |
+| 積雪 | せきせつ | TÍCH TUYẾT | Tích tuyết (cm) |
+| 紅葉見頃 | こうようみごろ | HỒNG DIỆP KIẾN KHOẢNH | Đỉnh điểm lá đỏ |
+| 半導体不足 | はんどうたいぶそく | BÁN DẪN THỂ BẤT TÚC | Thiếu chip bán dẫn |
+| ドラフト | ドラフト | — | Tuyển chọn cầu thủ (NPB) |
+| バズる | バズる | — | Đang lan truyền mạnh |
+| 異常気象 | いじょうきしょう | DỊ THƯỜNG KHÍ TƯỢNG | Khí hậu bất thường |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Sáng 5 phút NHK = 1 chủ đề mở chủ đạo.
 **J2 — 表現読解:** Phân biệt khi nào nhắc tin = phù hợp / khi nào sai thời điểm (lúc đàm phán).

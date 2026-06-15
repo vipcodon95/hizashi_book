@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - JP đã bùng nổ specialty coffee 10 năm nay (Blue Bottle, Onibus...) — họ có mặt bằng cảm nhận cao về Arabica.
 - Robusta thường bị JP gắn nhãn "công nghiệp / hòa tan" — nên **giải thích lại để họ hiểu robusta VN khác** = phá định kiến.
@@ -13,15 +13,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 5/2026, café Tokyo buổi tối sau họp. Yamamoto (Osaka, blogger ẩm thực) hỏi Dũng "chỗ nào uống cà phê đúng vị VN ở Tokyo?" → mở chủ đề. Tanaka (PMO 35t, mê specialty) vào sau, đào sâu robusta với arabica.
 
 ---
 
-## 💬 4 Scenario — hội thoại thực chiến
+## 4 Scenario — hội thoại thực chiến
 
-### 📍 Scenario 1 — Robusta vs Arabica + #2 thế giới
+### Scenario 1 — Robusta vs Arabica + #2 thế giới
 
 *người mê cà phê specialty · 意外 (bất ngờ)*
 
@@ -42,11 +42,11 @@ Tháng 5/2026, café Tokyo buổi tối sau họp. Yamamoto (Osaka, blogger ẩm
 | **田中** | 「面白い、それは<ruby>飲<rt>の</rt></ruby>み比べたい。」 |
 |  | *Hay, tôi muốn uống thử so sánh.* |
 
-📝【1】 Sản lượng robusta VN = ~ 60% robusta toàn cầu. Arabica = #1 Brazil, robusta = #1 VN. Tổng cà phê = #2 sau Brazil.
+【1】 Sản lượng robusta VN = ~ 60% robusta toàn cầu. Arabica = #1 Brazil, robusta = #1 VN. Tổng cà phê = #2 sau Brazil.
 
 ---
 
-### 📍 Scenario 2 — Phin lọc + nghi thức chờ
+### Scenario 2 — Phin lọc + nghi thức chờ
 
 | Vai | Câu |
 |---------|-----|
@@ -65,11 +65,11 @@ Tháng 5/2026, café Tokyo buổi tối sau họp. Yamamoto (Osaka, blogger ẩm
 | **山本** | 「メモった!<ruby>週末<rt>しゅうまつ</rt></ruby>行ってみる。」 |
 |  | *Em ghi rồi! Cuối tuần đi thử.* |
 
-📝【1】 Phin nhỏ giọt rất chậm (4-5 phút). Nghi thức chậm này tương đồng đẹp với văn hóa 急須茶 (trà ấm kyusu) JP → kết nối tự nhiên.
+【1】 Phin nhỏ giọt rất chậm (4-5 phút). Nghi thức chậm này tương đồng đẹp với văn hóa 急須茶 (trà ấm kyusu) JP → kết nối tự nhiên.
 
 ---
 
-### 📍 Scenario 3 — Cà phê sữa đá (món "đậm gấp đôi" hấp dẫn JP)
+### Scenario 3 — Cà phê sữa đá (món "đậm gấp đôi" hấp dẫn JP)
 
 | Vai | Câu |
 |---------|-----|
@@ -92,7 +92,7 @@ Tháng 5/2026, café Tokyo buổi tối sau họp. Yamamoto (Osaka, blogger ẩm
 
 ---
 
-### 📍 Scenario 4 — Cà phê trứng Hà Nội (món "wow")
+### Scenario 4 — Cà phê trứng Hà Nội (món "wow")
 
 *目を丸く*
 
@@ -119,7 +119,7 @@ Tháng 5/2026, café Tokyo buổi tối sau họp. Yamamoto (Osaka, blogger ẩm
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ MỞ TOPIC:
@@ -147,7 +147,7 @@ Tháng 5/2026, café Tokyo buổi tối sau họp. Yamamoto (Osaka, blogger ẩm
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - "Cà phê VN > Starbucks" → khách JP coi là kiêu ngạo, đa số họ thích Starbucks.
 - Chỉ nói "robusta" mà không giải thích về độ cao / Fine Robusta → khách giữ định kiến "công nghiệp".
@@ -157,25 +157,25 @@ Tháng 5/2026, café Tokyo buổi tối sau họp. Yamamoto (Osaka, blogger ẩm
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| ロブスタ | — | Robusta |
-| アラビカ | — | Arabica |
-| ファインロブスタ | — | Fine Robusta (specialty) |
-| 中部高原 | ちゅうぶこうげん | Cao nguyên Trung phần (Buôn Ma Thuột, Đà Lạt) |
-| フィン | — | Phin (cà phê filter VN) |
-| 練乳 | れんにゅう | Sữa đặc |
-| カフェスアダー | — | Cà phê sữa đá |
-| カフェチュン | — | Cà phê trứng |
-| 急須 | きゅうす | Ấm trà JP (điểm kết nối với nghi thức phin) |
-| 昭和コーヒー | しょうわコーヒー | Cà phê kiểu Showa retro JP |
-| 旧市街 | きゅうしがい | Phố cổ |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| ロブスタ | ロブスタ | — | Robusta |
+| アラビカ | アラビカ | — | Arabica |
+| ファインロブスタ | ファインロブスタ | — | Fine Robusta (specialty) |
+| 中部高原 | ちゅうぶこうげん | TRUNG BỘ CAO NGUYÊN | Cao nguyên Trung phần (Buôn Ma Thuột, Đà Lạt) |
+| フィン | フィン | — | Phin (cà phê filter VN) |
+| 練乳 | れんにゅう | LUYỆN NHŨ | Sữa đặc |
+| カフェスアダー | カフェスアダー | — | Cà phê sữa đá |
+| カフェチュン | カフェチュン | — | Cà phê trứng |
+| 急須 | きゅうす | CẤP TU | Ấm trà JP (điểm kết nối với nghi thức phin) |
+| 昭和コーヒー | しょうわコーヒー | CHIÊU HÒA | Cà phê kiểu Showa retro JP |
+| 旧市街 | きゅうしがい | CỰU THỊ NHAI | Phố cổ |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Khi khách JP nói "Arabica?" → kéo về "Robusta + Fine Robusta" để phá định kiến.
 **J2 — 表現読解:** Kết nối "phin = nghi thức 急須でお茶" — sắc thái văn hóa chậm rãi.

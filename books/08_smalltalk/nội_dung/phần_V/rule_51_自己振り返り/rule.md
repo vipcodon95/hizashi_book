@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (3 dòng)
+## Tâm lý JP (3 dòng)
 
 - Tự đánh giá (振り返り) = giá trị cốt lõi văn hóa Nhật (PDCA, kaizen). Bạn cũng nên áp dụng cho mình.
 - "**3 điều làm tốt** + **3 điều còn lỡ** + **3 việc cần làm tiếp**" = khuôn mẫu đơn giản đủ để kỹ năng tích lũy lãi kép.
@@ -12,15 +12,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tham khảo. 1 ví dụ bản tự đánh giá sau buổi tiệc Phase 4 + **MẪU đầy đủ**.
 
 ---
 
-## 💬 2 Scenario — tình huống thực chiến
+## 2 Scenario — tình huống thực chiến
 
-### 📍 Scenario 1 — Viết bản tự đánh giá (sau buổi tiệc Phase 4 chốt deal)
+### Scenario 1 — Viết bản tự đánh giá (sau buổi tiệc Phase 4 chốt deal)
 
 | Giờ | Hành động | Chi tiết |
 |------|--------|--------|
@@ -32,36 +32,36 @@ Tham khảo. 1 ví dụ bản tự đánh giá sau buổi tiệc Phase 4 + **M�
 **Bản tự đánh giá viết ra:**
 
 ```
-📅 2026-05-20 Phase 4 Chốt deal — Yurakucho izakaya + ベルトラム + ラーメン
+ 2026-05-20 Phase 4 Chốt deal — Yurakucho izakaya + ベルトラム + ラーメン
 Đối tượng: Ōgaki, Matsumoto, Tanaka, Tuấn
 Vai trò của mình: 最若手 / phụ trách gọi đồ / chủ nhà phía VN
 Tổng: 一次 + 二次 + 締め (5 tiếng)
 
-🎯 3 ĐIỀU LÀM TỐT
+ 3 ĐIỀU LÀM TỐT
 1. Rót rượu (お酌) cho Ōgaki ngay khi ly cạn → senior gật đầu ấm áp. (Áp dụng Rule 43 OK.)
 2. Nhắc lại chuyện Ōgaki hâm mộ 桂米朝 từ ghi chú 2 tháng trước → phản ứng "覚えてるなあ!" (Rule 50 hiệu quả.)
 3. Gỡ tình huống Tanaka say + đưa lên taxi → sáng hôm sau Ōgaki khen "しっかりしてるな" (Rule 46 có thành quả.)
 
-❌ 3 ĐIỀU CÒN LỠ
+ 3 ĐIỀU CÒN LỠ
 1. 一次会 BƯỚC 2: hỏi dị ứng quá muộn (sau món sashimi đầu) → Matsumoto suýt ăn hàu. LẦN SAU: hỏi NGAY khi mở thực đơn.
 2. 二次会 ベルトラム: khi Ōgaki hé lộ chi tiết Phase 5, mình phản ứng thiếu hào hứng, chỉ nói "光栄です". LẦN SAU: thêm 1 câu hỏi cụ thể để thể hiện sự quan tâm.
 3. カラオケ Yamamoto đề nghị mình hát thêm 1 bài, mình từ chối "もう十分" → có thể phá nhịp vui. LẦN SAU: hát thêm 1 bài (90 giây, an toàn) cho không khí.
 
-🔁 3 VIỆC CẦN LÀM TIẾP
+ 3 VIỆC CẦN LÀM TIẾP
 1. Gửi Ōgaki đường link 桂米朝 'jigokubakkyō' theo lời hứa tuần trước → mai gửi mail ngay sáng.
 2. Báo chi tiết Phase 5 với CTO Hà nội bộ → gọi 9:30 sáng nay.
 3. Ghi nhớ Tanaka quan tâm "ベトナムウイスキーバー" → lưu vào kho ghi nhớ để giới thiệu EON Heli Bar khi anh đến HCM.
 
-📊 Tự chấm điểm
+ Tự chấm điểm
 - 全体 (tổng thể): 8/10 (上々)
 - 改善点 (điểm cần cải tiến): kỹ năng canh thời điểm (hỏi dị ứng + phản ứng hào hứng)
 ```
 
-📝 **Kết quả:** 15 phút = 1 trang ghi chú. **Sau 50 buổi tiệc = 50 trang = cẩm nang zatsudan Việt-Nhật của riêng bạn.**
+ **Kết quả:** 15 phút = 1 trang ghi chú. **Sau 50 buổi tiệc = 50 trang = cẩm nang zatsudan Việt-Nhật của riêng bạn.**
 
 ---
 
-### 📍 Scenario 2 — Lịch luyện tập: 30 phút/tuần luyện tập thử
+### Scenario 2 — Lịch luyện tập: 30 phút/tuần luyện tập thử
 
 | | Giờ | Hành động |
 |--|------|--------|
@@ -71,20 +71,20 @@ Tổng: 一次 + 二次 + 締め (5 tiếng)
 | L4 | (5 phút) | So với bản chuẩn, tìm ra 1 từ phát âm còn yếu |
 | L5 | **Sáng thứ Hai** | Áp dụng trong cuộc gọi thực với khách → để ý nếu dùng được = +1 vào kho ghi nhớ |
 
-📝 Công thức: **Sách 08 = 51 rule → 1 năm = 51 tuần = 1 rule/tuần luyện tập thử.** Sau 1 năm = nắm toàn bộ.
+ Công thức: **Sách 08 = 51 rule → 1 năm = 51 tuần = 1 rule/tuần luyện tập thử.** Sau 1 năm = nắm toàn bộ.
 
 ---
 
-## 🎯 Câu vàng (tự nhủ với bản thân bằng tiếng Việt — không phải nói với khách)
+## Câu vàng (tự nhủ với bản thân bằng tiếng Việt — không phải nói với khách)
 
 ```
 ■ NHẬN DIỆN ĐIỀU LÀM TỐT:
-"Lần này mình đã làm gì khiến senior gật đầu / cười thân thiện?"
+"Lần này mình đã làm gì khiến người cấp cao gật đầu / cười thân thiện?"
 "Câu nào hôm nay senior khen 'よく覚えてる' (nhớ giỏi thế)?"
 
 ■ NHẬN DIỆN ĐIỀU CÒN LỠ:
 "Có khoảnh khắc nào không khí đông cứng 0.5 giây? Mình nói gì làm đông?"
-"Có lần senior đổi chủ đề đột ngột? Có thể mình lỡ chạm chủ đề nhạy cảm (LANDMINE)."
+"Có lần người cấp cao đổi chủ đề đột ngột? Có thể mình lỡ chạm chủ đề nhạy cảm (LANDMINE)."
 "Có dị ứng / thông tin cá nhân nào lỡ chưa hỏi / chưa ghi?"
 
 ■ NHẬN DIỆN VIỆC CẦN LÀM TIẾP:
@@ -95,7 +95,7 @@ Tổng: 一次 + 二次 + 締め (5 tiếng)
 
 ---
 
-## ⚠ NG khi tự đánh giá
+## NG khi tự đánh giá
 
 - **Không** tự đánh giá (bỏ qua) → sau 1 năm vẫn lặp lỗi cũ.
 - Tự đánh giá **quá tự ái** ("hôm nay tôi giỏi nhất") → bỏ sót điều còn lỡ.
@@ -105,22 +105,22 @@ Tổng: 一次 + 二次 + 締め (5 tiếng)
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 振り返り | ふりかえり | Tự đánh giá / nhìn lại |
-| PDCA | — | Lập kế hoạch - Thực hiện - Kiểm tra - Hành động (chuẩn quản trị Nhật) |
-| 改善 | かいぜん | Cải tiến (kaizen) |
-| 上々 | じょうじょう | Rất tốt |
-| 改善点 | かいぜんてん | Điểm cần cải tiến |
-| ドライラン | — | Luyện tập thử (trước khi dùng thật) |
-| 反省 | はんせい | Tự kiểm điểm |
-| 学び | まなび | Bài học rút ra |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 振り返り | ふりかえり | — | Tự đánh giá / nhìn lại |
+| PDCA | PDCA | — | Lập kế hoạch - Thực hiện - Kiểm tra - Hành động (chuẩn quản trị Nhật) |
+| 改善 | かいぜん | CẢI THIỆN | Cải tiến (kaizen) |
+| 上々 | じょうじょう | THƯỢNG THƯỢNG | Rất tốt |
+| 改善点 | かいぜんてん | CẢI THIỆN ĐIỂM | Điểm cần cải tiến |
+| ドライラン | ドライラン | — | Luyện tập thử (trước khi dùng thật) |
+| 反省 | はんせい | PHẢN TỈNH | Tự kiểm điểm |
+| 学び | まなび | HỌC | Bài học rút ra |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Sau mỗi buổi tiệc, 15 phút tự đánh giá = thói quen.
 **J2 — 表現読解:** Phân biệt "điều làm tốt" thực sự với "hôm nay không tệ" — phải là thông tin cụ thể.
@@ -128,7 +128,7 @@ Tổng: 一次 + 二次 + 締め (5 tiếng)
 
 ---
 
-## 📋 MẪU đầy đủ (đưa vào Phụ lục D)
+## MẪU đầy đủ (đưa vào Phụ lục D)
 
 > Xem mẫu chi tiết trong file `conversation.json` mục `templates`. **2 mẫu chính**:
 > 1. **Bản tự đánh giá** — sau mỗi buổi <ruby>雑談<rt>ざつだん</rt></ruby>

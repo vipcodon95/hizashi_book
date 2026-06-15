@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (3 dòng)
+## Tâm lý JP (3 dòng)
 
 - Người Nhật nghĩ "người biết lắng nghe = người đáng tin" — gấp đôi văn hóa VN.
 - 自分語り (kể chuyện về bản thân) quá nhiều = nông cạn, "ấu trĩ" trong mắt senior 50t+.
@@ -12,15 +12,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 5/2026, bữa tối sau lễ khởi động Phase 4. Dũng ngồi cạnh 中村 CFO (Hokkaido) tại izakaya 2 tiếng. Mục tiêu của Dũng: rời bàn với 3 thông tin mới về 中村-san (quê / sở thích / gia đình) — KHÔNG phải để 中村-san biết thêm về Dũng.
 
 ---
 
-## 💬 4 Scenarios — hội thoại thực chiến
+## 4 Scenarios — hội thoại thực chiến
 
-### 📍 Scenario 1 — GOOD: 80/20 đúng nhịp
+### Scenario 1 — TỐT: 80/20 đúng nhịp
 
 *rót bia cho 中村, mở câu hỏi · phản hồi ngắn → đào sâu · rạng rỡ kể tiếp 5 phút về gia đình*
 
@@ -39,13 +39,13 @@ Tháng 5/2026, bữa tối sau lễ khởi động Phase 4. Dũng ngồi cạnh 
 | **中村** | 「いやあ、もう<ruby>膝<rt>ひざ</rt></ruby>がねえ…でも<ruby>孫<rt>まご</rt></ruby>が3歳になったら…」 |
 |  | *Hà, đầu gối tôi không còn ngon nữa... Nhưng đợi cháu 3 tuổi...* |
 
-📝【1】 **Công thức vàng:** lặp lại từ khóa của khách (オウム返し) + thêm 1 câu hỏi đào sâu. Đây là 80/20 chuẩn — bạn nói 1 câu, khách nói 3-4 câu.
+【1】 **Công thức vàng:** lặp lại từ khóa của khách (オウム返し) + thêm 1 câu hỏi đào sâu. Đây là 80/20 chuẩn — bạn nói 1 câu, khách nói 3-4 câu.
 
 > **VN:** Dũng chỉ thả 3 câu hỏi mở. 中村-san kể 80% — về quê, con trai, cháu. Cuối buổi Dũng có 5 thông tin mới ghi vào kho ghi nhớ → lần sau gặp dùng tiếp.
 
 ---
 
-### 📍 Scenario 2 — BAD: Nói về mình quá nhiều (NG điển hình của người Việt)
+### Scenario 2 — XẤU: Nói về mình quá nhiều (NG điển hình của người Việt)
 
 *NG — 自分語り 2 phút · gật lịch sự, mắt bắt đầu lờ đờ · vẫn tiếp · tự cứu — đổi chủ đề*
 
@@ -62,13 +62,13 @@ Tháng 5/2026, bữa tối sau lễ khởi động Phase 4. Dũng ngồi cạnh 
 | **中村** | 「あ、**お酒もう一杯どう?**」 |
 |  | *À, anh thêm rượu nữa nhé?* |
 
-❌ **Vì sao XẤU:** Câu hỏi của khách ("ご出身どちら?") chỉ cần **1-2 câu** trả lời + **đá ngược** lại cho khách: "ハノイです。中村さんは札幌でしたよね?". Bạn kể tiểu sử = ép khách lắng nghe = tốn năng lượng họ.
+ **Vì sao XẤU:** Câu hỏi của khách ("ご出身どちら?") chỉ cần **1-2 câu** trả lời + **đá ngược** lại cho khách: "ハノイです。中村さんは札幌でしたよね?". Bạn kể tiểu sử = ép khách lắng nghe = tốn năng lượng họ.
 
-✅ **Đúng:** 「ハノイです。古い街並みが好きで、今も実家がそこにあります。**中村さんは札幌のどちらでしたっけ?**」 → 30 giây xong, đá bóng về sân khách.
+ **Đúng:** 「ハノイです。古い街並みが好きで、今も実家がそこにあります。**中村さんは札幌のどちらでしたっけ?**」 → 30 giây xong, đá bóng về sân khách.
 
 ---
 
-### 📍 Scenario 3 — Trường hợp đặc biệt: Khách hỏi sâu về mình → vẫn ngắn + đá ngược
+### Scenario 3 — Trường hợp đặc biệt: Khách hỏi sâu về mình → vẫn ngắn + đá ngược
 
 *thật sự tò mò · trả lời thật + ngắn · đá ngược ngay*
 
@@ -85,13 +85,13 @@ Tháng 5/2026, bữa tối sau lễ khởi động Phase 4. Dũng ngồi cạnh 
 | **ズン** | 「うわぁ、目がそっくりですね!」 |
 |  | *Ôi, mắt giống ông thật!* |
 
-📝【2】 **Mẹo:** ghi nhớ chi tiết khách kể trước đó (孫が3歳) → nhắc lại = thể hiện "tôi đang nghe thật". Đẳng cấp 80/20.
+【2】 **Mẹo:** ghi nhớ chi tiết khách kể trước đó (孫が3歳) → nhắc lại = thể hiện "tôi đang nghe thật". Đẳng cấp 80/20.
 
 > **VN:** Khách thật lòng quan tâm → vẫn trả lời thật, nhưng **2 câu là đủ** rồi đá bóng. Dùng chi tiết khách ĐÃ nói trước đó để hỏi tiếp = +10 điểm.
 
 ---
 
-### 📍 Scenario 4 — Khi 3 người: cân nhịp với senior
+### Scenario 4 — Khi 3 người: cân nhịp với người cấp cao
 
 *hỏi Tuấn · KHÔNG cướp lời — chờ Tuấn xong · lúc Tuấn dừng tự nhiên → bắc cầu sang Ōgaki · vui*
 
@@ -111,11 +111,11 @@ Tháng 5/2026, bữa tối sau lễ khởi động Phase 4. Dũng ngồi cạnh 
 | **大垣** | 「よく覚えてるね!来年<ruby>大学受験<rt>だいがくじゅけん</rt></ruby>で、もう大変よ…」 |
 |  | *Em nhớ giỏi! Năm sau thi đại học, vất lắm...* |
 
-📝【3】 Khi senior đang lái câu chuyện, các junior khác (Dũng) **không cướp lời**. Đợi nhịp → bắc cầu để khách lớn nhất bàn (Ōgaki) cũng được nói. Đây là 80/20 nhiều người.
+【3】 Khi người cấp cao đang lái câu chuyện, các nhân viên mới khác (Dũng) **không cướp lời**. Đợi nhịp → bắc cầu để khách lớn nhất bàn (Ōgaki) cũng được nói. Đây là 80/20 nhiều người.
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ MỞ CÂU HỎI (đào sâu khách):
@@ -138,7 +138,7 @@ Tháng 5/2026, bữa tối sau lễ khởi động Phase 4. Dũng ngồi cạnh 
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - **自分語り 2 phút trở lên** → khách lờ đờ, mất hứng, chuyển chủ đề.
 - **Cướp lời** khi khách đang kể (kể cả "sai sót nhỏ trong dữ kiện") → mất uy tín nghe.
@@ -148,21 +148,21 @@ Tháng 5/2026, bữa tối sau lễ khởi động Phase 4. Dũng ngồi cạnh 
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 自分語り | じぶんがたり | Tự kể về mình quá nhiều (mang nghĩa tiêu cực) |
-| 聞き上手 | ききじょうず | Người giỏi lắng nghe |
-| オウム返し | おうむがえし | Nhại lại từ khóa (kỹ thuật lặp gương) |
-| 相槌 | あいづち | Tiếng đệm "へえ"/"なるほど" khi nghe |
-| 掘り下げる | ほりさげる | Đào sâu (chủ đề) |
-| 真駒内 | まこまない | Khu Makomanai, Nam Sapporo (vd) |
-| 受験 | じゅけん | Thi đại học |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 自分語り | じぶんがたり | TỰ PHÂN NGỮ | Tự kể về mình quá nhiều (mang nghĩa tiêu cực) |
+| 聞き上手 | ききじょうず | VĂN THƯỢNG THỦ | Người giỏi lắng nghe |
+| オウム返し | おうむがえし | — | Nhại lại từ khóa (kỹ thuật lặp gương) |
+| 相槌 | あいづち | TƯƠNG CHÙY | Tiếng đệm "へえ"/"なるほど" khi nghe |
+| 掘り下げる | ほりさげる | QUẬT HẠ | Đào sâu (chủ đề) |
+| 真駒内 | まこまない | CHÂN XÁ NỘI | Khu Makomanai, Nam Sapporo (vd) |
+| 受験 | じゅけん | THỤ HIỂM | Thi đại học |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Phân biệt khi nào mình nên nói vs nên hỏi (8:2). Câu hỏi mở vs trả lời ngắn.
 **J2 — 表現読解:** Bắt được "へえ…そうなんだ…" của khách = đang chán → đổi nhịp ngay.

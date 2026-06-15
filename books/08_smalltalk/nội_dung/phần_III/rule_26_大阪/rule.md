@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Tâm lý JP
+## Tâm lý JP
 
 - 大阪人 nói thẳng, cười to, không câu nệ — cảm giác "**家族みたい**" trong 30 phút.
 - "**つっこみ・ボケ**" = 双方向 hài. Khách Osaka đợi mình phản ứng lại bằng giọng "なんでやねん!".
@@ -15,15 +15,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 8/2026, Dũng + Linh sang **văn phòng Osaka** của Hakuō để đào tạo thực tập sinh VN với chị **Yamamoto (BD)**. Yamamoto là **blogger ẩm thực** người Osaka chính gốc. Lịch: trưa ăn たこ焼 ở 法善寺 → chiều đào tạo → tối ăn 串カツ ở 新世界 → đêm xem Hanshin tại 甲子園 (nếu có vé).
 
 ---
 
-## 💬 4 Scenarios
+## 4 Scenarios
 
-### 📍 Scenario 1 — Trưa たこ焼 ở 法善寺横丁
+### Scenario 1 — Trưa たこ焼 ở 法善寺横丁
 
 *dẫn vào quán · 笑 · mắt mở to*
 
@@ -52,7 +52,7 @@ Tháng 8/2026, Dũng + Linh sang **văn phòng Osaka** của Hakuō để đào 
 
 ---
 
-### 📍 Scenario 2 — Chiều training — 笑い văn hóa
+### Scenario 2 — Chiều training — 笑い văn hóa
 
 *thực tập sinh, hỏi nhỏ · ずっこける · 笑*
 
@@ -79,7 +79,7 @@ Tháng 8/2026, Dũng + Linh sang **văn phòng Osaka** của Hakuō để đào 
 
 ---
 
-### 📍 Scenario 3 — Dinner 串カツ 新世界 — ルール of 二度漬け禁止
+### Scenario 3 — Dinner 串カツ 新世界 — ルール of 二度漬け禁止
 
 *dẫn vào 通天閣 chân, quán 串カツだるま · つっこみ · 笑*
 
@@ -106,7 +106,7 @@ Tháng 8/2026, Dũng + Linh sang **văn phòng Osaka** của Hakuō để đào 
 
 ---
 
-### 📍 Scenario 4 — 阪神タイガース 甲子園 — đỉnh cao thân mật
+### Scenario 4 — 阪神タイガース 甲子園 — đỉnh cao thân mật
 
 *感動 · nghẹn lời*
 
@@ -123,7 +123,7 @@ Tháng 8/2026, Dũng + Linh sang **văn phòng Osaka** của Hakuō để đào 
 | **yamamoto_kansai** | 「**18<ruby>年<rt>ねん</rt></ruby>ぶり**やった!アレ(=優勝)、ほんま<ruby>泣<rt>な</rt></ruby>いた…<ruby>道頓堀<rt>どうとんぼり</rt></ruby><ruby>飛<rt>と</rt></ruby>び<ruby>込<rt>こ</rt></ruby>んだ人<ruby>何百人<rt>なんびゃくにん</rt></ruby>もおったで(笑)」 |
 |  | *18 năm mới có! "Are" (= vô địch), khóc thật... Hàng trăm người nhảy Dōtonbori (cười).* |
 | **ズン** | 「**道頓堀ダイブ**、TVで…」 |
-|  | *Dōtonbori dive em xem TV...* |
+|  | *Dōtonbori em chỉ xem qua TV...* |
 | **yamamoto_kansai** | 「<ruby>危<rt>あぶ</rt></ruby>ないからアカンけどな(笑)。あ、**カーネル・サンダース**の話、知ってる?**1985年優勝の<ruby>呪<rt>のろ</rt></ruby>い**ってやつ?」 |
 |  | *Nguy hiểm không nên đâu (cười). À, chuyện Colonel Sanders biết không? Lời nguyền vô địch 1985?* |
 | **ズン** | 「あ、**KFCの像を道頓堀に<ruby>投<rt>な</rt></ruby>げ<ruby>込<rt>こ</rt></ruby>んで18年<ruby>勝<rt>か</rt></ruby>てなかった**<ruby>伝説<rt>でんせつ</rt></ruby>…!2009年に<ruby>発見<rt>はっけん</rt></ruby>されたんですよね?」 |
@@ -135,7 +135,7 @@ Tháng 8/2026, Dũng + Linh sang **văn phòng Osaka** của Hakuō để đào 
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ MỞ TOPIC OSAKA:
@@ -164,7 +164,7 @@ Tháng 8/2026, Dũng + Linh sang **văn phòng Osaka** của Hakuō để đào 
 
 ---
 
-## 🗾 Bảng tra nhanh vùng miền — 大阪
+## Bảng tra nhanh vùng miền — 大阪
 
 | Hạng mục | Nội dung |
 |----------|----------|
@@ -183,7 +183,7 @@ Tháng 8/2026, Dũng + Linh sang **văn phòng Osaka** của Hakuō để đào 
 
 ---
 
-## ⚠ NG
+## NG
 
 - **Lạm dụng quá đà Kansai-ben** ("わいは〜やで!") → coi như nhạo người Osaka.
 - Mặt **lạnh + trang trọng cứng nhắc** với khách Osaka → bị cho là "**冷たい**" / kiểu Tokyo.
@@ -194,31 +194,31 @@ Tháng 8/2026, Dũng + Linh sang **văn phòng Osaka** của Hakuō để đào 
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| お好み焼 | おこのみやき | Bánh xèo Osaka 混ぜ焼き |
-| たこ焼 | たこやき | Bánh bạch tuộc |
-| 串カツ | くしかつ | Xiên chiên |
-| 二度漬け禁止 | にどづけきんし | Cấm chấm 2 lần |
-| 阪神タイガース | はんしんタイガース | Đội Osaka |
-| 甲子園 | こうしえん | Sân Hanshin Kōshien |
-| 六甲おろし | ろっこうおろし | Bài cổ vũ Hanshin |
-| 道頓堀 | どうとんぼり | Phố ăn nổi tiếng |
-| 通天閣 | つうてんかく | Tháp 新世界 biểu tượng |
-| ビリケン | — | Tượng thần may mắn |
-| 法善寺横丁 | ほうぜんじよこちょう | Hẻm cổ Namba |
-| 天神祭 | てんじんまつり | Lễ hội 7月 top 3 |
-| ボケ | — | Vai gây cười |
-| つっこみ | — | Vai đá phụ |
-| ほんま | — | Thật/rất (Kansai-ben) |
-| おおきに | — | Cảm ơn (Kansai) |
-| なんでやねん | — | "Sao kỳ vậy!" (đấm hài) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| お好み焼 | おこのみやき | — HIẾU — THIÊU | Bánh xèo Osaka 混ぜ焼き |
+| たこ焼 | たこやき | — THIÊU | Bánh bạch tuộc |
+| 串カツ | くしかつ | XUYẾN — | Xiên chiên |
+| 二度漬け禁止 | にどづけきんし | NHỊ ĐỘ — CẤM CHỈ | Cấm chấm 2 lần |
+| 阪神タイガース | はんしんタイガース | PHẢN THẦN — | Đội Osaka |
+| 甲子園 | こうしえん | GIÁP TỬ VIÊN | Sân Hanshin Kōshien |
+| 六甲おろし | ろっこうおろし | LỤC GIÁP — | Bài cổ vũ Hanshin |
+| 道頓堀 | どうとんぼり | ĐẠO ĐÔN QUẬT | Phố ăn nổi tiếng |
+| 通天閣 | つうてんかく | THÔNG THIÊN CÁC | Tháp 新世界 biểu tượng |
+| ビリケン | ビリケン | — | Tượng thần may mắn |
+| 法善寺横丁 | ほうぜんじよこちょう | PHÁP THIỆN TỰ HOÀNH ĐINH | Hẻm cổ Namba |
+| 天神祭 | てんじんまつり | THIÊN THẦN TẾ | Lễ hội 7月 top 3 |
+| ボケ | ボケ | — | Vai gây cười |
+| つっこみ | つっこみ | — | Vai đá phụ |
+| ほんま | ほんま | — | Thật/rất (Kansai-ben) |
+| おおきに | おおきに | — | Cảm ơn (Kansai) |
+| なんでやねん | なんでやねん | — | "Sao kỳ vậy!" (đấm hài) |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Khách Osaka 笑い反応 → phản ứng lại bằng giọng "なんでやねん", không im lặng.
 **J2 — 表現読解:** "ほんま" mức độ nhấn mạnh ≈ 「本当に」 + cảm xúc. Phân biệt với 「本当」 trang trọng.

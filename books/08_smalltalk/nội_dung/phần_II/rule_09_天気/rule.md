@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - Người Nhật sống cùng **二十四節気** (24 tiết khí) — cảm xúc về mùa rất tinh tế.
 - 天気 KHÔNG bao giờ là câu chêm vô nghĩa — nó là **tín hiệu mở chủ đề vùng miền / sở thích / sức khỏe**.
@@ -13,15 +13,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Đầu tháng 4/2026, Dũng + Linh onsite Tokyo 1 tuần. Tuần này đặc biệt: Tokyo đào nở rộ, Hokkaido vẫn -2°C, Kyushu đã 22°C và sắp 梅雨. Dũng gặp 4 khách quê khác nhau (Matsumoto Tokyo / Nakamura Hokkaido / Sato Fukuoka / Hiroshi Hiroshima) — phải biết bồi câu thời tiết theo từng vùng miền.
 
 ---
 
-## 💬 4 Scenarios — dialogue thực chiến
+## 4 Scenarios — dialogue thực chiến
 
-### 📍 Scenario 1 — 花冷え (Tokyo, đầu tháng 4 — đào đã nở nhưng lạnh đột ngột)
+### Scenario 1 — 花冷え (Tokyo, đầu tháng 4 — đào đã nở nhưng lạnh đột ngột)
 
 *8:50, sảnh 白鷗 Tokyo, đang đợi Matsumoto · hơi ngạc nhiên — vui*
 
@@ -38,13 +38,13 @@
 | **ズン** | 「ありがとうございます!<ruby>夜桜<rt>よざくら</rt></ruby>は<ruby>初<rt>はじ</rt></ruby>めてなので、ぜひ一度行ってみたいです。」 |
 |  | *Cảm ơn anh! Em chưa ngắm hoa đào ban đêm bao giờ, rất muốn đi thử ạ.* |
 
-📝【1】 **花冷え** (はなびえ) = lạnh đột ngột giữa mùa hoa đào nở. Từ cổ điển — nói được từ này = khách Nhật lớn tuổi cảm phục.
+【1】 **花冷え** (はなびえ) = lạnh đột ngột giữa mùa hoa đào nở. Từ cổ điển — nói được từ này = khách Nhật lớn tuổi cảm phục.
 
 > **VN:** "Anh Matsumoto, sáng nay 'lạnh giữa mùa hoa' nhỉ" → khách bất ngờ vui → mở chủ đề ngắm hoa → khách mời đi cùng. **Một từ vựng vùng miền kéo cả quan hệ lên 1 bậc.**
 
 ---
 
-### 📍 Scenario 2 — 蒸し暑い vs カラッと暑い (taxi ra sân bay Haneda, tháng 7)
+### Scenario 2 — 蒸し暑い vs カラッと暑い (taxi ra sân bay Haneda, tháng 7)
 
 *taxi 14:00 tháng 7, Tokyo 33°C độ ẩm 80%*
 
@@ -67,7 +67,7 @@
 
 ---
 
-### 📍 Scenario 3 — 梅雨 (Fukuoka — cuối tháng 5 đã 梅雨入り sớm hơn Tokyo)
+### Scenario 3 — 梅雨 (Fukuoka — cuối tháng 5 đã 梅雨入り sớm hơn Tokyo)
 
 *zoom call 5/25, mặc áo cuối tháng 5 · khách lớn tuổi, giọng Hakata*
 
@@ -86,13 +86,13 @@
 | **佐藤** | 「うん、<ruby>傘<rt>かさ</rt></ruby>持って<ruby>来<rt>き</rt></ruby>んしゃい。<ruby>案内<rt>あんない</rt></ruby>するけん。」 |
 |  | *Ừ, mang ô đến nhé. Anh dẫn đi cho.* |
 
-📝 **梅雨入り** (つゆいり) = bắt đầu mùa mưa. Kyushu thường 5月末 / Tokyo 6月上旬 / Hokkaido **không có** 梅雨.
+ **梅雨入り** (つゆいり) = bắt đầu mùa mưa. Kyushu thường 5月末 / Tokyo 6月上旬 / Hokkaido **không có** 梅雨.
 
 > **VN:** Hỏi đúng vùng Kyushu vào 梅雨 sớm → khách bất ngờ vui → kể đặc sản mùa mưa (紫陽花 / もつ鍋). Hokkaido nếu hỏi "梅雨" sẽ bị kêu "北海道に梅雨はないよ(笑)" — đó là kiến thức vùng miền.
 
 ---
 
-### 📍 Scenario 4 — 雪 + 寒さ (Sapporo, tháng 1, gọi Nakamura)
+### Scenario 4 — 雪 + 寒さ (Sapporo, tháng 1, gọi Nakamura)
 
 *zoom 1/15, Sapporo -8°C · ngạc nhiên thích thú*
 
@@ -111,13 +111,13 @@
 | **中村** | 「あはは、ヒートテック2枚<ruby>重<rt>かさ</rt></ruby>ねといて。あと**ホッカイロ**<ruby>忘<rt>わす</rt></ruby>れずに。」 |
 |  | *Haha, mặc Heattech 2 lớp nhé. Với cả nhớ mang miếng dán ấm.* |
 
-📝【1】 **真冬日** (まふゆび) = ngày mà cả nhiệt độ cao nhất cũng dưới 0°C. **冬日** (ふゆび) = ngày min < 0°C. Là từ chuẩn (標準語) vùng Hokkaido / Tohoku mùa đông.
+【1】 **真冬日** (まふゆび) = ngày mà cả nhiệt độ cao nhất cũng dưới 0°C. **冬日** (ふゆび) = ngày min < 0°C. Là từ chuẩn (標準語) vùng Hokkaido / Tohoku mùa đông.
 
 > **VN:** Từ vựng **真冬日 / 冬日 / 雪まつり** = trình độ cao. Khách Hokkaido sẽ rất ấn tượng khi người Việt biết → mời đi 雪まつり ngay.
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ XUÂN (3-5月):
@@ -144,7 +144,7 @@
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - Chỉ dừng ở **"暑いですね/寒いですね"** → bị xem là "tán bằng AI". Phải có từ vựng lớp 2.
 - Nói "梅雨ですね" với khách Hokkaido → **北海道に梅雨はない**, lộ thiếu kiến thức vùng miền.
@@ -154,27 +154,27 @@
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 蒸し暑い | むしあつい | Oi nóng có độ ẩm cao |
-| カラッと晴れた | — | Nắng khô (kiểu Hokkaido) |
-| 花冷え | はなびえ | Lạnh đột ngột giữa mùa hoa đào |
-| 梅雨入り/梅雨明け | つゆいり/つゆあけ | Vào / kết thúc mùa mưa |
-| 紫陽花 | あじさい | Hoa cẩm tú cầu (biểu tượng 梅雨) |
-| 猛暑日 | もうしょび | Ngày >35°C |
-| 真夏日 | まなつび | Ngày >30°C |
-| 真冬日 | まふゆび | Ngày max < 0°C |
-| 冬日 | ふゆび | Ngày min < 0°C |
-| 木枯らし | こがらし | Gió đông đầu mùa (tháng 11) |
-| 秋晴れ | あきばれ | Trời thu trong xanh |
-| 残暑 | ざんしょ | Nóng còn sót sau lập thu |
-| 三寒四温 | さんかんしおん | "3 lạnh 4 ấm" (cuối đông) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 蒸し暑い | むしあつい | CHƯNG NHIỆT | Oi nóng có độ ẩm cao |
+| カラッと晴れた | カラッとはれた | — | Nắng khô (kiểu Hokkaido) |
+| 花冷え | はなびえ | HOA LÃNH | Lạnh đột ngột giữa mùa hoa đào |
+| 梅雨入り/梅雨明け | つゆいり/つゆあけ | MAI VŨ NHẬP / MAI VŨ MINH | Vào / kết thúc mùa mưa |
+| 紫陽花 | あじさい | TỬ DƯƠNG HOA | Hoa cẩm tú cầu (biểu tượng 梅雨) |
+| 猛暑日 | もうしょび | MÃNH THỬ NHẬT | Ngày >35°C |
+| 真夏日 | まなつび | CHÂN HẠ NHẬT | Ngày >30°C |
+| 真冬日 | まふゆび | CHÂN ĐÔNG NHẬT | Ngày max < 0°C |
+| 冬日 | ふゆび | ĐÔNG NHẬT | Ngày min < 0°C |
+| 木枯らし | こがらし | MỘC KHÔ | Gió đông đầu mùa (tháng 11) |
+| 秋晴れ | あきばれ | THU TÌNH | Trời thu trong xanh |
+| 残暑 | ざんしょ | TÀN THỬ | Nóng còn sót sau lập thu |
+| 三寒四温 | さんかんしおん | TAM HÀN TỨ ÔN | "3 lạnh 4 ấm" (cuối đông) |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Nhận biết khi nào dùng 蒸し暑い vs カラッと暑い vs 猛暑日.
 **J2 — 表現読解:** Phân biệt 花冷え vs 春寒 — sắc thái thời điểm.

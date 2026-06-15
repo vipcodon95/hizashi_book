@@ -4,24 +4,24 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - "**お酒に強い人 = 信用 + 仕事もできる**" định kiến cũ của người Nhật — đang yếu đi nhưng senior vẫn còn nghĩ vậy.
-- Đàn em **say nặng + làm chuyện sai** trước senior → uy tín mất 6-12 tháng, không cứu được.
+- Đàn em **say nặng + làm chuyện sai** trước người cấp cao → uy tín mất 6-12 tháng, không cứu được.
 - Từ chối rượu **không phải bị xem yếu** — mà là **chứng tỏ kỷ luật + tự kiểm soát**.
 - Quan trọng: **sáng hôm sau dù <ruby>二日酔い<rt>ふつかよい</rt></ruby> vẫn phải đến đúng giờ + tỉnh táo sắc bén** — đó là bài kiểm tra thực sự.
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 5/2026, tiệc tối Phase 4 với Ōgaki + Matsumoto + Tanaka. Đến cuối <ruby>二次会<rt>にじかい</rt></ruby> (23:30), mọi người đã uống nhiều. Sáng mai 9h họp brief Phase 5 với CTO. Dũng phải biết: từ chối thêm rượu lịch sự + gỡ tình huống khi Tanaka đã say.
 
 ---
 
-## 💬 4 Scenario — hội thoại thực chiến
+## 4 Scenario — hội thoại thực chiến
 
-### 📍 Scenario 1 — Từ chối thêm rượu — câu chuẩn
+### Scenario 1 — Từ chối thêm rượu — câu chuẩn
 
 *23:30, tăng 2, đã 5 ly · thực ra đã 4 ly, ngày mai 9h họp · không ép*
 
@@ -38,12 +38,12 @@ Tháng 5/2026, tiệc tối Phase 4 với Ōgaki + Matsumoto + Tanaka. Đến cu
 | **大垣** | 「<ruby>賢明<rt>けんめい</rt></ruby>やな。じゃ<ruby>俺<rt>おれ</rt></ruby>だけもう一杯。」 |
 |  | *Khôn đó. Vậy anh thêm một mình.* |
 
-📝【1】 **「もう十分いただきました」** = câu chuẩn từ chối thêm rượu (nghĩa đen: "đã uống đủ rồi"). Lịch sự nhưng dứt khoát.
-📝【2】 **「明日もご一緒できる体でいたい」** = lý do nhẹ + hài (cười) — hóa giải áp lực mà không từ chối thẳng.
+【1】 **「もう十分いただきました」** = câu chuẩn từ chối thêm rượu (nghĩa đen: "đã uống đủ rồi"). Lịch sự nhưng dứt khoát.
+【2】 **「明日もご一緒できる体でいたい」** = lý do nhẹ + hài (cười) — hóa giải áp lực mà không từ chối thẳng.
 
 ---
 
-### 📍 Scenario 2 — Đổi sang đồ uống không cồn một cách mượt mà
+### Scenario 2 — Đổi sang đồ uống không cồn một cách mượt mà
 
 *rủ nhẹ · nói với 店員, lịch sự · 15 phút sau, uống nước + nhấm nháp chút · nếu muốn uống lại, chọn loại nhẹ · không hỏi lý do*
 
@@ -62,11 +62,11 @@ Tháng 5/2026, tiệc tối Phase 4 với Ōgaki + Matsumoto + Tanaka. Đến cu
 | **松本** | 「うん、それでいいよ。」 |
 |  | *Ừ, được.* |
 
-📝 **Cách an toàn:** "**水で一旦休む**" → 15 phút uống nước → quay lại với đồ uống không cồn (ginger ale / <ruby>烏龍茶<rt>ウーロンちゃ</rt></ruby> trà ô long) → cuối buổi không bị kéo say. Senior Nhật hiện đại hoàn toàn OK với điều này.
+ **Cách an toàn:** "**水で一旦休む**" → 15 phút uống nước → quay lại với đồ uống không cồn (ginger ale / <ruby>烏龍茶<rt>ウーロンちゃ</rt></ruby> trà ô long) → cuối buổi không bị kéo say. Senior Nhật hiện đại hoàn toàn OK với điều này.
 
 ---
 
-### 📍 Scenario 3 — Gỡ tình huống khi đồng nghiệp Nhật say
+### Scenario 3 — Gỡ tình huống khi đồng nghiệp Nhật say
 
 *00:15, Tanaka 35t đã 7 ly + sake — bắt đầu lè nhè · say, lảo đảo · xen vào NGAY trước khi chủ đề xấu · dừng lại, chớp mắt · nói với 店員 · để ý, cũng can thiệp · nói với Ōgaki*
 
@@ -91,11 +91,11 @@ Tháng 5/2026, tiệc tối Phase 4 với Ōgaki + Matsumoto + Tanaka. Đến cu
 | **ズン** | 「了解です。お<ruby>先<rt>さき</rt></ruby>に<ruby>失礼<rt>しつれい</rt></ruby>します。」 |
 |  | *Vâng ạ. Em xin phép trước.* |
 
-📝【1】 **Ngắt nhẹ bằng sự quan tâm sức khỏe** — KHÔNG phải "im đi", mà "mặt anh trông mệt → nước" → giải tỏa + chuyển chủ đề. Sau đó **tiễn lên taxi** + có thể nhắn team PM báo "Tanaka về an toàn". Đây là gỡ cho ĐỒNG NGHIỆP của khách → +đẳng cấp.
+【1】 **Ngắt nhẹ bằng sự quan tâm sức khỏe** — KHÔNG phải "im đi", mà "mặt anh trông mệt → nước" → giải tỏa + chuyển chủ đề. Sau đó **tiễn lên taxi** + có thể nhắn team PM báo "Tanaka về an toàn". Đây là gỡ cho ĐỒNG NGHIỆP của khách → +đẳng cấp.
 
 ---
 
-### 📍 Scenario 4 — Sáng hôm sau: <ruby>二日酔い<rt>ふつかよい</rt></ruby> nhưng đến đúng giờ
+### Scenario 4 — Sáng hôm sau: <ruby>二日酔い<rt>ふつかよい</rt></ruby> nhưng đến đúng giờ
 
 *8:50 sáng hôm sau, sảnh 白鷗 Tokyo, Dũng + Tuấn check-in · hơi mệt nhưng tỉnh táo sắc bén, áo sạch, cà phê đen ở tay · bước tới, hơi mệt hơn Dũng · tỏ ra nể*
 
@@ -118,11 +118,11 @@ Tháng 5/2026, tiệc tối Phase 4 với Ōgaki + Matsumoto + Tanaka. Đến cu
 | **大垣** | 「すごいな、もう<ruby>動<rt>うご</rt></ruby>いてるんか。」 |
 |  | *Đỉnh, em đã chạy rồi à.* |
 
-📝【1】 **Theo dõi sáng hôm sau** = chuyên nghiệp. Báo Tanaka đã về an toàn = đẳng cấp chăm sóc của chủ tiệc. Đến đúng giờ + tỉnh táo sắc bén + đã xem trước tài liệu = "uy tín thực sự".
+【1】 **Theo dõi sáng hôm sau** = chuyên nghiệp. Báo Tanaka đã về an toàn = đẳng cấp chăm sóc của chủ tiệc. Đến đúng giờ + tỉnh táo sắc bén + đã xem trước tài liệu = "uy tín thực sự".
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ TỪ CHỐI RƯỢU LỊCH SỰ:
@@ -148,36 +148,36 @@ Tháng 5/2026, tiệc tối Phase 4 với Ōgaki + Matsumoto + Tanaka. Đến cu
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - Để khách say nặng nói **chuyện sex / phụ nữ / đùa tục** → cắt ngay, không hùa.
 - Tự say nặng đến mức **nói tiếng Việt với khách Nhật** → mất kiểm soát rõ.
 - Sáng hôm sau **đến muộn / lờ đờ / nồng mùi rượu** → "uy tín mất 6 tháng".
 - Từ chối thẳng "**飲めません**" mà không có lý do → khách hiểu nhầm "không hợp tác".
 - Ép khách Nhật uống thêm khi họ say → mất tinh tế.
-- KHÔNG tiễn senior + đồng nghiệp say lên taxi → thiếu chuyên nghiệp.
+- KHÔNG tiễn người cấp cao + đồng nghiệp say lên taxi → thiếu chuyên nghiệp.
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 飲み過ぎ | のみすぎ | Uống quá |
-| 二日酔い | ふつかよい | Say rượu sáng hôm sau |
-| もう十分 | もうじゅうぶん | "Đã đủ rồi" |
-| ペース落とせ | ペースおとせ | "Chậm lại" |
-| お水召し上がります? | おみずめしあがります? | "Anh uống nước nhé?" (kính ngữ khi gỡ tình huống) |
-| ジンジャエール | — | Ginger ale |
-| 烏龍茶 | ウーロンちゃ | Trà ô long (lựa chọn không cồn mặc định) |
-| お開き | おひらき | Kết thúc buổi |
-| 顔色 | かおいろ | Sắc mặt |
-| おしぼり | — | Khăn ướt (dùng khi cần gỡ tình huống) |
-| 賢明 | けんめい | Khôn ngoan (lời khen senior thường nói) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 飲み過ぎ | のみすぎ | ẨM QUÁ | Uống quá |
+| 二日酔い | ふつかよい | NHỊ NHẬT TÚY | Say rượu sáng hôm sau |
+| もう十分 | もうじゅうぶん | THẬP PHÂN | "Đã đủ rồi" |
+| ペース落とせ | ペースおとせ | — | "Chậm lại" |
+| お水召し上がります? | おみずめしあがります? | — | "Anh uống nước nhé?" (kính ngữ khi gỡ tình huống) |
+| ジンジャエール | ジンジャエール | — | Ginger ale |
+| 烏龍茶 | ウーロンちゃ | Ô LONG TRÀ | Trà ô long (lựa chọn không cồn mặc định) |
+| お開き | おひらき | KHAI | Kết thúc buổi |
+| 顔色 | かおいろ | NHAN SẮC | Sắc mặt |
+| おしぼり | おしぼり | — | Khăn ướt (dùng khi cần gỡ tình huống) |
+| 賢明 | けんめい | HIỀN MINH | Khôn ngoan (lời khen senior thường nói) |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Câu chuẩn từ chối "もう十分いただきました" + lý do nhẹ + hài.
 **J2 — 表現読解:** Sắc thái "大丈夫?" của senior khi mình từ chối — không phải đang ép, mà là thể hiện sự quan tâm.

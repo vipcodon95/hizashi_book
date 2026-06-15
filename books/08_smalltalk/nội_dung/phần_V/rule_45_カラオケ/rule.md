@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - <ruby>18番<rt>おはこ</rt></ruby> = "bài tủ" của mỗi người — biết được = thêm chiều sâu.
 - Karaoke = **tham gia là chính, hát hay không quan trọng**. Đàn em phải hát ít nhất 1 bài.
@@ -13,15 +13,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 6/2026, sau bữa tối Phase 4 closing. 二次会 chuyển sang karaoke phòng riêng. Có 4 đối tượng khác nhau: Ōgaki 55t (mê nhạc Showa), Tanaka 35t (Mr. Children), Hai 28t (đàn em VN, hồi hộp), Yamamoto 38t Osaka (cười nhiều). Dũng phải dẫn dắt danh sách bài cho cả phòng vui.
 
 ---
 
-## 💬 4 Scenarios — dialogue thực chiến
+## 4 Scenarios — dialogue thực chiến
 
-### 📍 Scenario 1 — Mở màn karaoke: bài đầu phòng
+### Scenario 1 — Mở màn karaoke: bài đầu phòng
 
 *Vừa vào phòng karaoke, đồ uống ra · KHÔNG để khách lớn tuổi hát đầu — đàn em hát đầu để khởi động không khí · chọn bài an toàn, sôi nổi, hợp mọi thế hệ — Mr. Children『シーソーゲーム』 — nhạc 90s nhưng từng hot trên radio, ai cũng biết · cuối bài*
 
@@ -31,7 +31,7 @@ Tháng 6/2026, sau bữa tối Phase 4 closing. 二次会 chuyển sang karaoke 
 |  | *Dũng, ai hát đầu?* |
 | **ズン** | 「**まず私から行かせていただきます**。皆さんの<ruby>空気<rt>くうき</rt></ruby>作れたら(笑)」 |
 |  | *Em xin hát đầu ạ. Để tạo không khí cho mọi người (cười)* |
-| **ズン** | 🎤 Mr. Childrenの『シーソーゲーム』で行きます。(hát) |
+| **ズン** |  Mr. Childrenの『シーソーゲーム』で行きます。(hát) |
 |  | *Em hát 'Seesaw Game' của Mr. Children ạ. (hát)* |
 | **皆** | (hát theo điệp khúc — <ruby>一体感<rt>いったいかん</rt></ruby>) |
 |  | *(cả phòng hát theo — cảm giác hòa nhập)* |
@@ -42,11 +42,11 @@ Tháng 6/2026, sau bữa tối Phase 4 closing. 二次会 chuyển sang karaoke 
 | **大垣** | 「俺な、サザンの『TSUNAMI』。」 |
 |  | *Anh thì 'TSUNAMI' của Southern All Stars.* |
 
-📝 **Công thức vàng:** Đàn em hát đầu **để khởi động không khí**, chọn bài **sôi nổi, nhịp nhanh + nhạc 90s** (an toàn, hầu hết người Nhật biết). Sau đó nhường mic sang khách lớn tuổi với gợi ý nhẹ.
+ **Công thức vàng:** Đàn em hát đầu **để khởi động không khí**, chọn bài **sôi nổi, nhịp nhanh + nhạc 90s** (an toàn, hầu hết người Nhật biết). Sau đó nhường mic sang khách lớn tuổi với gợi ý nhẹ.
 
 ---
 
-### 📍 Scenario 2 — Khớp nhạc Showa cho khách 55t
+### Scenario 2 — Khớp nhạc Showa cho khách 55t
 
 *Cuối bài 'TSUNAMI' · cầm mic, gợi ý bài ít người biết nhưng đúng gu · Osaka, mê idol thập niên 80 · <ruby>年齢層直撃<rt>ねんれいそうちょくげき</rt></ruby> (chạm đúng độ tuổi) · đứng dậy nhảy theo · cảm giác như đang live — tăng vọt độ thân thiết*
 
@@ -63,11 +63,11 @@ Tháng 6/2026, sau bữa tối Phase 4 closing. 二次会 chuyển sang karaoke 
 | **ズン** | 「<ruby>お供<rt>おとも</rt></ruby>します(笑)」 |
 |  | *Em hầu ạ (cười)* |
 
-📝【1】 **Idol Showa thập niên 1980 = 直撃 khách 50-60t.** "青い珊瑚礁" / "ルビーの指輪 寺尾聰" / "天城越え 石川さゆり" / "高橋真梨子" = ký ức tinh thần của khách lớn tuổi. Gợi ý cho khách cùng hát = "ơ em biết bài tôi yêu thời đó" — khoảnh khắc đặc biệt.
+【1】 **Idol Showa thập niên 1980 = 直撃 khách 50-60t.** "青い珊瑚礁" / "ルビーの指輪 寺尾聰" / "天城越え 石川さゆり" / "高橋真梨子" = ký ức tinh thần của khách lớn tuổi. Gợi ý cho khách cùng hát = "ơ em biết bài tôi yêu thời đó" — khoảnh khắc đặc biệt.
 
 ---
 
-### 📍 Scenario 3 — Khớp J-pop cho 30-40t
+### Scenario 3 — Khớp J-pop cho 30-40t
 
 *35t, cuối màn hát đôi của 大垣 + 山本 · mặt rạng lên · điệp khúc hát cùng*
 
@@ -75,22 +75,22 @@ Tháng 6/2026, sau bữa tối Phase 4 closing. 二次会 chuyển sang karaoke 
 |---------|-----|
 | **田中** | 「俺の番か?Mr. Children『innocent world』で。」 |
 |  | *Đến anh à? 'innocent world' Mr. Children.* |
-| **田中** | 🎤 (hát) |
+| **田中** |  (hát) |
 |  | *(hát)* |
 | **ズン** | 「田中さん、さすがミスチル<ruby>似合<rt>にあ</rt></ruby>いますね。次、私もう一曲、**スピッツ『チェリー』**でいいですか?」【1】 |
 |  | *Anh Tanaka đúng là hợp Mr. Children. Tiếp em hát 'Cherry' của Spitz được không?* |
 | **田中** | 「スピッツ!君、いいセンスしてる(笑)」 |
 |  | *Spitz! Em gu hay đó (cười)* |
-| **ズン** | 🎤 (hát) |
+| **ズン** |  (hát) |
 |  | *(hát)* |
 | **田中** | (サビで一緒に歌う) |
 |  | *(điệp khúc hát theo)* |
 
-📝【1】 **Nhạc hit thời Heisei cho 30-40t:** Mr. Children / スピッツ / B'z / ミスチル / aiko / 宇多田ヒカル / コブクロ / ゆず / レミオロメン / EXILE / GReeeeN. **Tránh:** SMAP (chia tay rồi nên dễ lúng túng) / J-rap (khó khớp gu).
+【1】 **Nhạc hit thời Heisei cho 30-40t:** Mr. Children / スピッツ / B'z / ミスチル / aiko / 宇多田ヒカル / コブクロ / ゆず / レミオロメン / EXILE / GReeeeN. **Tránh:** SMAP (chia tay rồi nên dễ lúng túng) / J-rap (khó khớp gu).
 
 ---
 
-### 📍 Scenario 4 — Đàn em VN hồi hộp + bắc cầu bài VN
+### Scenario 4 — Đàn em VN hồi hộp + bắc cầu bài VN
 
 *28t đàn em VN, lần đầu ở karaoke Nhật, hồi hộp · gỡ tình huống · tò mò · yên tâm · hát · cuối màn*
 
@@ -104,7 +104,7 @@ Tháng 6/2026, sau bữa tối Phase 4 closing. 二次会 chuyển sang karaoke 
 |  | *Bài VN! Em muốn nghe lắm!* |
 | **ハイ** | 「では、**ファン・マイン・クイン『Có chàng trai viết lên cây』**で。」 |
 |  | *Vậy em hát 'Có chàng trai viết lên cây' của Phan Mạnh Quỳnh.* |
-| **ハイ** | 🎤 (hát) |
+| **ハイ** |  (hát) |
 |  | *(hát)* |
 | **大垣** | 「ベトナム語、<ruby>響<rt>ひび</rt></ruby>きが<ruby>綺麗<rt>きれい</rt></ruby>やな。意味は?」 |
 |  | *Tiếng Việt nghe đẹp nhỉ. Nghĩa là gì?* |
@@ -113,11 +113,11 @@ Tháng 6/2026, sau bữa tối Phase 4 closing. 二次会 chuyển sang karaoke 
 | **大垣** | 「言語<ruby>違<rt>ちが</rt></ruby>っても、メロディの良さは<ruby>伝<rt>つた</rt></ruby>わるんやな。ハイさん、上手かった!」 |
 |  | *Khác ngôn ngữ vẫn cảm được giai điệu hay. Hải hát giỏi!* |
 
-📝 **Đàn em VN ở karaoke Nhật:** không cần ép hát tiếng Nhật. **Bài VN kèm giải thích cho khách Nhật** = thú vị + phá băng tự nhiên. Gợi ý **bài có giai điệu dễ cảm nhận** (Mỹ Tâm / Sơn Tùng / Hà Anh Tuấn / Phan Mạnh Quỳnh).
+ **Đàn em VN ở karaoke Nhật:** không cần ép hát tiếng Nhật. **Bài VN kèm giải thích cho khách Nhật** = thú vị + phá băng tự nhiên. Gợi ý **bài có giai điệu dễ cảm nhận** (Mỹ Tâm / Sơn Tùng / Hà Anh Tuấn / Phan Mạnh Quỳnh).
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ MỞ MÀN:
@@ -144,7 +144,7 @@ Tháng 6/2026, sau bữa tối Phase 4 closing. 二次会 chuyển sang karaoke 
 
 ---
 
-## 📚 Bảng cheat — Bài karaoke theo thế hệ JP
+## Bảng cheat — Bài karaoke theo thế hệ JP
 
 | Thế hệ | Sinh năm | Bài 鉄板 (nhạc Showa / J-pop) |
 |--------|----------|------------------------------|
@@ -156,7 +156,7 @@ Tháng 6/2026, sau bữa tối Phase 4 closing. 二次会 chuyển sang karaoke 
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - **Bài nhạc Anh-Mỹ khó hát** (Whitney Houston / Mariah Carey) → giọng yếu ai cũng nghe ra.
 - **Bài quá u tối** (椎名林檎 nội tâm sâu) → phá không khí.
@@ -167,24 +167,24 @@ Tháng 6/2026, sau bữa tối Phase 4 closing. 二次会 chuyển sang karaoke 
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| カラオケ | — | Karaoke |
-| 18番 | おはこ | "Bài tủ" của mỗi người |
-| デュエット | — | Hát đôi |
-| 一体感 | いったいかん | Cảm giác hòa nhập |
-| 鉄板 | てっぱん | "Chắc chắn hay" (idiom) |
-| 隠れ名曲 | かくれめいきょく | Bài hay nhưng không ai biết (nguy hiểm) |
-| 直撃 | ちょくげき | "Chạm đúng gu" (đúng đối tượng) |
-| 空気作る | くうきつくる | Tạo không khí |
-| Showa歌謡 | しょうわかよう | Nhạc Showa truyền thống |
-| 平成ヒット | へいせいヒット | Hit thời Heisei (1989-2019) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| カラオケ | カラオケ | — | Karaoke |
+| 18番 | おはこ | — | "Bài tủ" của mỗi người |
+| デュエット | デュエット | — | Hát đôi |
+| 一体感 | いったいかん | NHẤT THỂ CẢM | Cảm giác hòa nhập |
+| 鉄板 | てっぱん | THIẾT BẢN | "Chắc chắn hay" (idiom) |
+| 隠れ名曲 | かくれめいきょく | DANH KHÚC | Bài hay nhưng không ai biết (nguy hiểm) |
+| 直撃 | ちょくげき | TRỰC KÍCH | "Chạm đúng gu" (đúng đối tượng) |
+| 空気作る | くうきつくる | KHÔNG KHÍ | Tạo không khí |
+| Showa歌謡 | しょうわかよう | CA DÂU | Nhạc Showa truyền thống |
+| 平成ヒット | へいせいヒット | BÌNH THÀNH | Hit thời Heisei (1989-2019) |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Đàn em hát đầu để khởi động không khí. Chọn bài 90s sôi nổi an toàn.
 **J2 — 表現読解:** Gợi ý bài cho khách lớn tuổi — biết khớp đúng thế hệ (idol Showa cho 50-60t).

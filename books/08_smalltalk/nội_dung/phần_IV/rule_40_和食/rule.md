@@ -4,24 +4,24 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - Khách JP onsite VN tránh tiếng Anh, tránh thực đơn lạ — quay về 和食 **để nạp lại năng lượng tinh thần**.
 - "Chef người Nhật" = mức tin cậy 1. "Chef VN tu nghiệp ở Nhật" = mức 2. "Chuỗi VN" = mức 3.
 - Sai khi gợi ý nhà hàng "sushi kiểu VN" cho khách JP đã ở VN 5 ngày — họ cần **đúng vị gốc**.
-- Senior thường thích **tonkatsu / unagi / sushi** (món họ tin tưởng). Junior linh hoạt hơn.
+- Người cấp cao thường thích **tonkatsu / unagi / sushi** (món họ tin tưởng). Nhân viên mới linh hoạt hơn.
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 11/2026, Matsumoto + Tanaka onsite Hà Nội 5 ngày. Đến ngày 3 — đã ăn đủ phở, cơm tấm. Hai khách hỏi "tối nay ăn 和食 được không?". Dũng phải gợi ý chính xác. Cuối tuần Hiroshi (Hiroshima) bay vào HCM — cần list HCM.
 
 ---
 
-## 💬 4 Scenarios — dialogue thực chiến
+## 4 Scenarios — dialogue thực chiến
 
-### 📍 Scenario 1 — Hà Nội: chef gốc Nhật (level 1)
+### Scenario 1 — Hà Nội: chef gốc Nhật (mức 1)
 
 *ngày 3 onsite HN · 感動*
 
@@ -48,7 +48,7 @@ Tháng 11/2026, Matsumoto + Tanaka onsite Hà Nội 5 ngày. Đến ngày 3 — 
 
 ---
 
-### 📍 Scenario 2 — Hà Nội: izakaya cho buổi tối thư giãn sau giờ làm
+### Scenario 2 — Hà Nội: izakaya cho buổi tối thư giãn sau giờ làm
 
 *nhân viên PMO trẻ*
 
@@ -69,20 +69,20 @@ Tháng 11/2026, Matsumoto + Tanaka onsite Hà Nội 5 ngày. Đến ngày 3 — 
 | **田中** | 「ホタテバターって(笑)、北海道感やばい。今夜行こう。」 |
 |  | *Hotate bata (cười), không khí Hokkaido luôn. Tối nay đi!* |
 
-📝 **Cách làm của chủ nhà:** đề cập giá "東京の○分の1" (giá rẻ là điểm hấp dẫn với khách JP onsite, không phải khoe mẽ vì chính khách hỏi).
+ **Cách làm của chủ nhà:** đề cập giá "東京の○分の1" (giá rẻ là điểm hấp dẫn với khách JP onsite, không phải khoe mẽ vì chính khách hỏi).
 
 ---
 
-### 📍 Scenario 3 — HCM: chuỗi nhập khẩu (Hiroshi senior)
+### Scenario 3 — HCM: chuỗi nhập khẩu (Hiroshi người cấp cao)
 
-*chuyến HCM 2 ngày, senior 50t*
+*chuyến HCM 2 ngày, người cấp cao 50t*
 
 | Vai | Câu |
 |---------|-----|
 | **広島** | 「ズンさん、ホーチミンで日本食、おすすめは?」 |
 |  | *Dũng, đồ Nhật ở HCM em gợi ý gì?* |
 | **ズン** | 「広島さん、シニアの方でしたら**<ruby>信頼<rt>しんらい</rt></ruby>できるチェーン**を中心に。**①ぐるなびソウル系の『Sushi Tei』(マレーシア発、<ruby>品質安定<rt>ひんしつあんてい</rt></ruby>)、②大阪『<ruby>串<rt>くし</rt></ruby>かつだるま』ホーチミン店(本店レシピ<ruby>忠実<rt>ちゅうじつ</rt></ruby>)、③『AKA House』<ruby>焼肉<rt>やきにく</rt></ruby>(<ruby>神戸牛輸入<rt>こうべぎゅうゆにゅう</rt></ruby>で本格)**、3つ<ruby>間違<rt>まちが</rt></ruby>いないです。」 |
-|  | *Anh Hiroshi, với senior thì chuỗi tin cậy là chính. ① Sushi Tei, ② 'Kushikatsu Daruma' Osaka chi nhánh HCM, ③ 'AKA House' nướng (bò Kobe nhập). 3 chỗ chắc chắn ạ.* |
+|  | *Anh Hiroshi, với người cấp cao thì chuỗi tin cậy là chính. ① Sushi Tei, ② 'Kushikatsu Daruma' Osaka chi nhánh HCM, ③ 'AKA House' nướng (bò Kobe nhập). 3 chỗ chắc chắn ạ.* |
 | **広島** | 「神戸牛がホーチミンで食べられんの?」 |
 |  | *Bò Kobe ăn được ở HCM à?* |
 | **ズン** | 「はい、**A5ランクを空輸**してます。値段は東京と<ruby>同等<rt>どうとう</rt></ruby>(コース150万ドン〜)ですが、**ハサミで切る焼肉スタイルで<ruby>肉質保証<rt>にくしつほしょう</rt></ruby>**してます。」 |
@@ -100,7 +100,7 @@ Tháng 11/2026, Matsumoto + Tanaka onsite Hà Nội 5 ngày. Đến ngày 3 — 
 
 ---
 
-### 📍 Scenario 4 — HCM: omakase cao cấp (bữa tối chốt hợp đồng)
+### Scenario 4 — HCM: omakase cao cấp (bữa tối chốt hợp đồng)
 
 *bữa tối chốt hợp đồng, cần gây ấn tượng mạnh với Tanaka + Matsumoto*
 
@@ -127,7 +127,7 @@ Tháng 11/2026, Matsumoto + Tanaka onsite Hà Nội 5 ngày. Đến ngày 3 — 
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ HÀ NỘI:
@@ -151,7 +151,7 @@ Tháng 11/2026, Matsumoto + Tanaka onsite Hà Nội 5 ngày. Đến ngày 3 — 
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - Gợi ý "sushi kiểu VN" cho khách JP đã 3-5 ngày trong VN → họ cần đúng vị gốc, không cần biến tấu.
 - Gợi ý nhà hàng đông khách du lịch nói tiếng Anh tới chef → khách JP không thoải mái.
@@ -161,26 +161,26 @@ Tháng 11/2026, Matsumoto + Tanaka onsite Hà Nội 5 ngày. Đến ngày 3 — 
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 和食 | わしょく | Ẩm thực Nhật |
-| 割烹 | かっぽう | Nhà hàng cao cấp counter-style |
-| おまかせ | — | Combo chef chọn |
-| カウンター | — | Quầy ăn (chef đối diện) |
-| 朝引き地鶏 | あさびきじどり | Gà địa phương sáng giết |
-| 備長炭 | びんちょうたん | Than tre cao cấp Wakayama |
-| A5ランク | エーごランク | Bò Wagyu hạng A5 (cao nhất) |
-| 広島焼 | ひろしまやき | Okonomiyaki Hiroshima |
-| 修行帰り | しゅぎょうがえり | Đã được tu nghiệp xong |
-| ドレスコード | — | Dress code |
-| 個室・半個室 | こしつ・はんこしつ | Phòng riêng / bán riêng |
-| 空輸 | くうゆ | Vận chuyển hàng không |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 和食 | わしょく | HÒA THỰC | Ẩm thực Nhật |
+| 割烹 | かっぽう | CÁT PHANH | Nhà hàng cao cấp counter-style |
+| おまかせ | おまかせ | — | Combo chef chọn |
+| カウンター | カウンター | — | Quầy ăn (chef đối diện) |
+| 朝引き地鶏 | あさびきじどり | TRIÊU ĐỊA KÊ | Gà địa phương sáng giết |
+| 備長炭 | びんちょうたん | BỊ TRƯỜNG THAN | Than tre cao cấp Wakayama |
+| A5ランク | エーごランク | — | Bò Wagyu hạng A5 (cao nhất) |
+| 広島焼 | ひろしまやき | QUẢNG ĐẢO THIÊU | Okonomiyaki Hiroshima |
+| 修行帰り | しゅぎょうがえり | TU HÀNH | Đã được tu nghiệp xong |
+| ドレスコード | ドレスコード | — | Dress code |
+| 個室・半個室 | こしつ・はんこしつ | CÁ THẤT / BÁN CÁ THẤT | Phòng riêng / bán riêng |
+| 空輸 | くうゆ | KHÔNG VẬN | Vận chuyển hàng không |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Chọn nhà hàng theo đối tượng khách (senior tin chuỗi / junior thích thử mới / người gốc vùng cần đặc sản quê).
 **J2 — 表現読解:** Phân biệt khi khách nói "畏まり過ぎ" → đổi sang izakaya thoải mái.

@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - 名物 (đặc sản) = niềm tự hào vùng quê. Hỏi đúng món = trúng tim.
 - JP thích **so sánh nội bộ** (大阪お好み焼 vs 広島お好み焼 — hai bên cãi nhau yêu) — bạn góp vui vào = thân.
@@ -13,15 +13,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Dũng + Hà CTO sang làm việc trực tiếp tại Tokyo + Osaka 5 ngày. Ăn tối mỗi tối với khách quê khác nhau — Tokyo (Matsumoto), Osaka (Yamamoto), Hiroshima (Hiroshi), Nagoya (Ito), Gifu (Kato). Phải xoay chủ đề 食 để mỗi người được kể về đặc sản của vùng họ.
 
 ---
 
-## 💬 4 Scenario — hội thoại thực chiến
+## 4 Scenario — hội thoại thực chiến
 
-### 📍 Scenario 1 — お好み焼 戦争: Hiroshima vs Osaka
+### Scenario 1 — お好み焼 戦争: Hiroshima vs Osaka
 
 *izakaya Osaka, đã uống 2 ly · cười · thận trọng + ngoại giao · rạng rỡ · không chịu*
 
@@ -42,13 +42,13 @@ Dũng + Hà CTO sang làm việc trực tiếp tại Tokyo + Osaka 5 ngày. Ăn 
 | **山本** | 「ズンさん、大阪のディープな店も知っとるんやな!**お<ruby>初天神<rt>はつてんじん</rt></ruby>**通りの**<ruby>福太郎<rt>ふくたろう</rt></ruby>**、ぜひ。」 |
 |  | *Dũng biết cả quán "ruột" ở Osaka nhỉ! Phố Ohatsu Tenjin có Fukutaro, đi thử nhé.* |
 
-📝【1】 **広島お好み焼** = xếp lớp: bánh kếp mỏng → bắp cải → thịt → mì soba → trứng. 【2】 **大阪お好み焼** = trộn đều: trộn bột với cải + thịt + trứng → đổ chảo. 【3】 **そば入り** = có mì soba bên trong (đặc trưng Hiroshima).
+【1】 **広島お好み焼** = xếp lớp: bánh kếp mỏng → bắp cải → thịt → mì soba → trứng. 【2】 **大阪お好み焼** = trộn đều: trộn bột với cải + thịt + trứng → đổ chảo. 【3】 **そば入り** = có mì soba bên trong (đặc trưng Hiroshima).
 
 > **VN:** Đứng giữa 2 vùng = ngoại giao. **Biết chi tiết kỹ thuật** (xếp lớp vs trộn đều, soba) + tên quán cụ thể = chứng tỏ tìm hiểu nghiêm túc.
 
 ---
 
-### 📍 Scenario 2 — 飛騨牛 + 朴葉味噌 (Gifu — anh Kato)
+### Scenario 2 — 飛騨牛 + 朴葉味噌 (Gifu — anh Kato)
 
 *ăn tối ở Gifu, 加藤さん dẫn đến quán Hida-Takayama · 自慢気 · càng vui*
 
@@ -71,13 +71,13 @@ Dũng + Hà CTO sang làm việc trực tiếp tại Tokyo + Osaka 5 ngày. Ăn 
 | **加藤** | 「秋なら**<ruby>飛騨高山祭<rt>ひだたかやままつり</rt></ruby>**、4月と10月。<ruby>屋台<rt>やたい</rt></ruby>もすごい。一緒に行こうよ。」 |
 |  | *Thu thì có lễ Hida-Takayama, tháng 4 và 10. Xe diễu hành hoành tráng. Cùng đi nhé.* |
 
-📝【1】 **飛騨牛** = bò Hida, hạng A5 vân mỡ. 【2】 **朴葉味噌** (ほおばみそ) = miso nướng trên lá hồ (mộc lan), đặc sản núi Gifu.
+【1】 **飛騨牛** = bò Hida, hạng A5 vân mỡ. 【2】 **朴葉味噌** (ほおばみそ) = miso nướng trên lá hồ (mộc lan), đặc sản núi Gifu.
 
 > **VN:** Khách Gifu 50t, đặc sản vùng = vốn quý không ai biết. Biết **朴葉味噌 / 中津川栗きんとん / 川上屋 / 飛騨高山祭** = trình độ tìm hiểu của người dày dạn.
 
 ---
 
-### 📍 Scenario 3 — 名古屋 — 味噌文化 (Ito)
+### Scenario 3 — 名古屋 — 味噌文化 (Ito)
 
 *ăn tối ở Nagoya · điềm tĩnh kiểu Nagoya · gây ấn tượng · cười nhẹ*
 
@@ -100,13 +100,13 @@ Dũng + Hà CTO sang làm việc trực tiếp tại Tokyo + Osaka 5 ngày. Ăn 
 | **伊藤** | 「名古屋の喫茶店、モーニング文化すごいよ。コーヒー1<ruby>杯<rt>ぱい</rt></ruby>でトースト+ゆで<ruby>卵<rt>たまご</rt></ruby>+小倉あん。**コメダ<ruby>珈琲<rt>こーひー</rt></ruby>**は東京にも<ruby>進出<rt>しんしゅつ</rt></ruby>したけどね。」 |
 |  | *Quán cà phê Nagoya, văn hóa morning kinh đó. 1 ly cà phê kèm toast + trứng luộc + ogura. Komeda đã mở rộng ra Tokyo rồi.* |
 
-📝【1】 **八丁味噌** = miso đậu nành lên men 2-3 năm, đặc trưng Aichi. 【2】 **ひつまぶし** = lươn nướng cắt nhỏ trên cơm — 3 cách ăn.
+【1】 **八丁味噌** = miso đậu nành lên men 2-3 năm, đặc trưng Aichi. 【2】 **ひつまぶし** = lươn nướng cắt nhỏ trên cơm — 3 cách ăn.
 
 > **VN:** Món Nagoya: **味噌カツ / ひつまぶし / 手羽先 / 小倉トースト / きしめん**. Biết tên quán **蓬莱軒 / 山ちゃん vs 風来坊 / コメダ** = lên hạng.
 
 ---
 
-### 📍 Scenario 4 — Biến thể: Hokkaido — biển + sữa (Nakamura)
+### Scenario 4 — Biến thể: Hokkaido — biển + sữa (Nakamura)
 
 *ăn tối ở Tokyo, Nakamura gọi món · giọng hoài niệm*
 
@@ -129,13 +129,13 @@ Dũng + Hà CTO sang làm việc trực tiếp tại Tokyo + Osaka 5 ngày. Ăn 
 | **中村** | 「<ruby>下味<rt>したあじ</rt></ruby>が<ruby>濃<rt>こ</rt></ruby>い、ニンニク<ruby>醤油<rt>しょうゆ</rt></ruby><ruby>生姜<rt>しょうが</rt></ruby>たっぷり。**ジンギスカンのキング**ってチェーン、東京にもあるから<ruby>今度<rt>こんど</rt></ruby>行ってみて。」 |
 |  | *Ướp đậm, tỏi-nước tương-gừng nhiều. Chuỗi Jingisukan no King ở Tokyo cũng có, lần sau thử nhé.* |
 
-📝【1】 **ウニ** = nhím biển, Hokkaido chất lượng hàng đầu. 【2】 **イクラ** = trứng cá hồi muối. 【3】 **ジンギスカン** = thịt cừu nướng (kiểu Thành Cát Tư Hãn), món "soul food" Hokkaido. 【4】 **ザンギ** = gà chiên kiểu Hokkaido (hơi giống karaage nhưng đậm hơn).
+【1】 **ウニ** = nhím biển, Hokkaido chất lượng hàng đầu. 【2】 **イクラ** = trứng cá hồi muối. 【3】 **ジンギスカン** = thịt cừu nướng (kiểu Thành Cát Tư Hãn), món "soul food" Hokkaido. 【4】 **ザンギ** = gà chiên kiểu Hokkaido (hơi giống karaage nhưng đậm hơn).
 
 > **VN:** Hokkaido: **海鮮 (ウニ・イクラ・カニ) / ラーメン味噌 / ジンギスカン / ザンギ / 石狩鍋**. Khách lớn tuổi hay hoài niệm — hỏi "子供の頃" (hồi bé) = trúng tim.
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ MỞ CHỦ ĐỀ MÓN ĂN:
@@ -159,39 +159,39 @@ Dũng + Hà CTO sang làm việc trực tiếp tại Tokyo + Osaka 5 ngày. Ăn 
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - "ベトナム料理の方が美味しい" → KHÔNG so sánh tiêu cực.
-- "[món] あまり好きじゃない" → khách host buồn. Chỉ nói "初めてです" / "新鮮です".
+- "[món] あまり好きじゃない" → khách dẫn đi buồn. Chỉ nói "初めてです" / "新鮮です".
 - Chê 1 vùng để khen vùng khác trước mặt khách vùng đó.
 - Hỏi giá tiền món đắt (寿司 cao cấp / 神戸牛) → không lịch sự.
-- Tự gọi món lạ trước khi check khách → mất quyền host.
+- Tự gọi món lạ trước khi hỏi khách → mất quyền chủ tiệc.
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 名物 | めいぶつ | Đặc sản nổi tiếng |
-| ご当地グルメ | ごとうちぐるめ | Món "của vùng đó" |
-| 郷土料理 | きょうどりょうり | Món truyền thống vùng |
-| 食べ歩き | たべあるき | Đi ăn dạo (rong ruổi nếm món) |
-| 老舗 | しにせ | Quán lâu đời |
-| 定食 | ていしょく | Set ăn cơm + món chính + canh |
-| 出汁 | だし | Nước dùng |
-| 八丁味噌 | はっちょうみそ | Miso đậu Aichi (Nagoya) |
-| 朴葉味噌 | ほおばみそ | Miso nướng lá magnolia (Gifu) |
-| ジンギスカン | — | Thịt cừu nướng kiểu Hokkaido |
-| ザンギ | — | Gà chiên Hokkaido |
-| ひつまぶし | — | Lươn nướng cơm Nagoya (3 cách ăn) |
-| もつ鍋 | もつなべ | Lẩu lòng bò Fukuoka |
-| 馬刺し | ばさし | Sashimi thịt ngựa Kumamoto |
-| 締め | しめ | Món chốt cuối bữa nhậu |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 名物 | めいぶつ | DANH VẬT | Đặc sản nổi tiếng |
+| ご当地グルメ | ごとうちぐるめ | ĐƯƠNG ĐỊA | Món "của vùng đó" |
+| 郷土料理 | きょうどりょうり | HƯƠNG THỔ LIỆU LÝ | Món truyền thống vùng |
+| 食べ歩き | たべあるき | — | Đi ăn dạo (rong ruổi nếm món) |
+| 老舗 | しにせ | LÃO PHỐ | Quán lâu đời |
+| 定食 | ていしょく | ĐỊNH THỰC | Set ăn cơm + món chính + canh |
+| 出汁 | だし | XUẤT CHẤP | Nước dùng |
+| 八丁味噌 | はっちょうみそ | BÁT ĐINH VỊ TĂNG | Miso đậu Aichi (Nagoya) |
+| 朴葉味噌 | ほおばみそ | PHÓ DIỆP VỊ TĂNG | Miso nướng lá magnolia (Gifu) |
+| ジンギスカン | ジンギスカン | — | Thịt cừu nướng kiểu Hokkaido |
+| ザンギ | ザンギ | — | Gà chiên Hokkaido |
+| ひつまぶし | ひつまぶし | — | Lươn nướng cơm Nagoya (3 cách ăn) |
+| もつ鍋 | もつなべ | — | Lẩu lòng bò Fukuoka |
+| 馬刺し | ばさし | MÃ TÊ | Sashimi thịt ngựa Kumamoto |
+| 締め | しめ | ĐÍNH | Món chốt cuối bữa nhậu |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Phân biệt 名物 vs 郷土料理 vs ご当地グルメ.
 **J2 — 表現読解:** Khen món đúng cách: "美味しい" mức cơ bản / "風味が違う" mức sành ăn.

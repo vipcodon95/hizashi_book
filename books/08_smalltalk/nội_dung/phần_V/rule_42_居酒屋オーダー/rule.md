@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - Izakaya = **đồ uống và đồ ăn ra cùng tiến độ**, không phải "ăn xong rồi uống".
 - Gọi món **theo nhịp** (từng đợt nhỏ, hỏi thêm) = chuyên nghiệp. Gọi **1 lần hết** = "cảm giác người ngoại quốc".
@@ -13,15 +13,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 5/2026, ăn tối sau lễ khởi động Phase 4 tại izakaya Tokyo Yurakucho. Có 5 người: Ōgaki (tiền bối Kansai), Matsumoto, Tanaka, Tuấn, Dũng (người trẻ nhất). Dũng = người gọi món. Cuối buổi → cân nhắc 二次会.
 
 ---
 
-## 💬 4 Scenarios — hội thoại thực chiến
+## 4 Scenarios — hội thoại thực chiến
 
-### 📍 Scenario 1 — STEP 1: Đầu buổi "とりあえずビール"
+### Scenario 1 — STEP 1: Đầu buổi "とりあえずビール"
 
 *vừa ngồi · tiền bối nhìn Dũng · lướt bàn nhanh, xác nhận · với nhân viên*
 
@@ -44,11 +44,11 @@ Tháng 5/2026, ăn tối sau lễ khởi động Phase 4 tại izakaya Tokyo Yur
 | **店員** | 「かしこまりました。」 |
 |  | *Vâng ạ.* |
 
-📝 **Công thức vàng:** "とりあえずビール" = câu nói mặc định. Không hỏi từng người (mất thời gian, không đọc không khí). Người trẻ nhất hỏi tiền bối 1 lần, sau đó gọi chung. **Mồi (枝豆+冷奴)** gọi ngay = bàn có cái nhâm khi chờ.
+ **Công thức vàng:** "とりあえずビール" = câu nói mặc định. Không hỏi từng người (mất thời gian, không đọc không khí). Người trẻ nhất hỏi tiền bối 1 lần, sau đó gọi chung. **Mồi (枝豆+冷奴)** gọi ngay = bàn có cái nhâm khi chờ.
 
 ---
 
-### 📍 Scenario 2 — STEP 2: Gọi món chính theo đợt
+### Scenario 2 — STEP 2: Gọi món chính theo đợt
 
 *sau cạn ly đầu, mở thực đơn · ghi vào kho ghi nhớ · với nhân viên*
 
@@ -73,11 +73,11 @@ Tháng 5/2026, ăn tối sau lễ khởi động Phase 4 tại izakaya Tokyo Yur
 | **店員** | 「かしこまりました。」 |
 |  | *Vâng ạ.* |
 
-📝【1】 **Hỏi trước dị ứng + 苦手** = nước đi chuyên nghiệp. Sau đó tự xử lý với nhân viên (không bắt khách lặp lại). Ghi vào kho ghi nhớ "Matsumoto = không ăn 生牡蠣".
+【1】 **Hỏi trước dị ứng + 苦手** = nước đi chuyên nghiệp. Sau đó tự xử lý với nhân viên (không bắt khách lặp lại). Ghi vào kho ghi nhớ "Matsumoto = không ăn 生牡蠣".
 
 ---
 
-### 📍 Scenario 3 — STEP 3: Gọi đợt 2 + đổi đồ uống
+### Scenario 3 — STEP 3: Gọi đợt 2 + đổi đồ uống
 
 *40 phút sau, bàn vơi 70% · với nhân viên · quay sang Ōgaki · gọi thêm với nhân viên*
 
@@ -104,11 +104,11 @@ Tháng 5/2026, ăn tối sau lễ khởi động Phase 4 tại izakaya Tokyo Yur
 | **ズン** | 「すみません、**生ビールもう1杯追加**お願いします。」 |
 |  | *Cho em thêm 1 bia tươi nữa ạ.* |
 
-📝 **Công thức:** Chuyển đồ uống ở đợt 2 = chuẩn nhịp JP (bia đầu tiên → sake / shochu / hailbol). KHÔNG ép tiền bối chuyển nếu họ vẫn muốn bia (Ōgaki).
+ **Công thức:** Chuyển đồ uống ở đợt 2 = chuẩn nhịp JP (bia đầu tiên → sake / shochu / hailbol). KHÔNG ép tiền bối chuyển nếu họ vẫn muốn bia (Ōgaki).
 
 ---
 
-### 📍 Scenario 4 — STEP 4: 締め — chốt buổi
+### Scenario 4 — STEP 4: 締め — chốt buổi
 
 *2 tiếng, no rồi · với nhân viên · quay sang Ōgaki, mặc định JP = tiền bối trả nhưng vẫn xác nhận*
 
@@ -137,11 +137,11 @@ Tháng 5/2026, ăn tối sau lễ khởi động Phase 4 tại izakaya Tokyo Yur
 | **ズン** | 「いつもありがとうございます。<ruby>次回<rt>じかい</rt></ruby>はぜひこちらに。」 |
 |  | *Cảm ơn anh, lần sau nhất định bên em ạ.* |
 
-📝 **締め = món nhẹ** (không gọi tonkatsu thêm lúc 22h). Phổ biến: お茶漬け / 焼きおにぎり / おじや / ラーメン (締めラーメン thường ở quán khác). **Hóa đơn mặc định 1 tờ** với tiền bối trả — vẫn phải xác nhận + báo "lần sau bên em mời".
+ **締め = món nhẹ** (không gọi tonkatsu thêm lúc 22h). Phổ biến: お茶漬け / 焼きおにぎり / おじや / ラーメン (締めラーメン thường ở quán khác). **Hóa đơn mặc định 1 tờ** với tiền bối trả — vẫn phải xác nhận + báo "lần sau bên em mời".
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ STEP 1 — ĐẦU BUỔI:
@@ -166,7 +166,7 @@ Tháng 5/2026, ăn tối sau lễ khởi động Phase 4 tại izakaya Tokyo Yur
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - Gọi **tất cả 1 lần** rồi không gọi thêm → "外人っぽい" / cảm giác không thoải mái.
 - Hỏi từng người về đồ uống **5 lần riêng lẻ** → mất thời gian, không đọc không khí.
@@ -177,28 +177,28 @@ Tháng 5/2026, ăn tối sau lễ khởi động Phase 4 tại izakaya Tokyo Yur
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| とりあえずビール | — | "Trước tiên là bia" — phrase mặc định |
-| お通し | おとおし | Món khai vị tự ra (charge) |
-| 枝豆 | えだまめ | Đậu nành tươi luộc |
-| 冷奴 | ひややっこ | Đậu hủ lạnh |
-| 刺身5点盛り | さしみごてんもり | Sashimi tổng hợp 5 loại |
-| だし巻き卵 | だしまきたまご | Trứng cuộn dashi |
-| 揚げ出し豆腐 | あげだしどうふ | Đậu hủ chiên dashi |
-| 銀ダラ西京焼 | ぎんダラさいきょうやき | Cá bạc nướng miso Saikyo |
-| 馬刺し | ばさし | Sashimi thịt ngựa |
-| 締め | しめ | Món chốt |
-| 鯛茶漬け | たいちゃづけ | Cơm chan trà cá tráp |
-| 焼きおにぎり | やきおにぎり | Cơm nắm nướng |
-| 苦手 | にがて | Không hợp / không thích ăn được |
-| アレルギー | — | Dị ứng |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| とりあえずビール | とりあえずビール | — | "Trước tiên là bia" — phrase mặc định |
+| お通し | おとおし | THÔNG | Món khai vị tự ra (charge) |
+| 枝豆 | えだまめ | CHI ĐẬU | Đậu nành tươi luộc |
+| 冷奴 | ひややっこ | LÃNH NÔ | Đậu hủ lạnh |
+| 刺身5点盛り | さしみごてんもり | THỨT THÂN | Sashimi tổng hợp 5 loại |
+| だし巻き卵 | だしまきたまご | QUYỂN NOÃN | Trứng cuộn dashi |
+| 揚げ出し豆腐 | あげだしどうふ | ĐẬU PHỤ | Đậu hủ chiên dashi |
+| 銀ダラ西京焼 | ぎんダラさいきょうやき | BẠC TÂY KINH THIÊU | Cá bạc nướng miso Saikyo |
+| 馬刺し | ばさし | MÃ THỨT | Sashimi thịt ngựa |
+| 締め | しめ | — | Món chốt |
+| 鯛茶漬け | たいちゃづけ | ĐIÊU TRÀ | Cơm chan trà cá tráp |
+| 焼きおにぎり | やきおにぎり | THIÊU | Cơm nắm nướng |
+| 苦手 | にがて | — | Không hợp / không thích ăn được |
+| アレルギー | アレルギー | — | Dị ứng |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Người trẻ nhất ở izakaya = vai trò gọi món, biết trình tự 4 bước.
 **J2 — 表現読解:** Phân biệt khi tiền bối nói "**まとめてくれ**" (gộp hóa đơn mình trả) vs "**割り勘**" (chia đều) — xử lý phù hợp.

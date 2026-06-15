@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Tâm lý JP
+## Tâm lý JP
 
 - Shikoku人 = ít gặp ngoài 4 県, nên đặc biệt cảm động khi đối tác biết.
 - 香川県人 cuồng うどん 1日3食 thật. 愛媛 cuồng ポンジュース từ vòi nước (chuyện đồn nhưng có thật ở 1 số trường).
@@ -14,15 +14,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 11/2026, Dũng đi công tác Takamatsu (香川) gặp một khách hàng mới — **anh Kondo**, nhân viên kinh doanh của 1 nhà cung cấp Hakuō. Sau họp anh Kondo gợi ý đi ăn tối. Trên đường, Dũng dạo quanh 4 県 trong đầu — Kondo từng làm ở 高知 + Matsuyama nên rất am hiểu 4 県.
 
 ---
 
-## 💬 4 Scenarios
+## 4 Scenarios
 
-### 📍 Scenario 1 — Kagawa うどん văn hóa
+### Scenario 1 — Kagawa うどん văn hóa
 
 | Vai | Câu |
 |---------|-----|
@@ -45,7 +45,7 @@ Tháng 11/2026, Dũng đi công tác Takamatsu (香川) gặp một khách hàng
 
 ---
 
-### 📍 Scenario 2 — Ehime みかん + 道後温泉
+### Scenario 2 — Ehime みかん + 道後温泉
 
 | Vai | Câu |
 |---------|-----|
@@ -68,7 +68,7 @@ Tháng 11/2026, Dũng đi công tác Takamatsu (香川) gặp một khách hàng
 
 ---
 
-### 📍 Scenario 3 — Kochi カツオ + 坂本龍馬
+### Scenario 3 — Kochi カツオ + 坂本龍馬
 
 | Vai | Câu |
 |---------|-----|
@@ -91,7 +91,7 @@ Tháng 11/2026, Dũng đi công tác Takamatsu (香川) gặp một khách hàng
 
 ---
 
-### 📍 Scenario 4 — Tokushima 阿波踊り + すだち + お遍路 thông xuyên 4 県
+### Scenario 4 — Tokushima 阿波踊り + すだち + お遍路 thông xuyên 4 県
 
 *(giàu cảm xúc)*
 
@@ -120,7 +120,7 @@ Tháng 11/2026, Dũng đi công tác Takamatsu (香川) gặp một khách hàng
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ MỞ TOPIC SHIKOKU:
@@ -154,7 +154,7 @@ Tháng 11/2026, Dũng đi công tác Takamatsu (香川) gặp một khách hàng
 
 ---
 
-## 🗾 Bảng tra nhanh vùng miền — 四国 (4県)
+## Bảng tra nhanh vùng miền — 四国 (4県)
 
 | 県 | 県庁 | 名物 | 観光 | 祭り | Thể thao |
 |----|------|------|------|------|-------|
@@ -171,7 +171,7 @@ Tháng 11/2026, Dũng đi công tác Takamatsu (香川) gặp một khách hàng
 
 ---
 
-## ⚠ NG
+## NG
 
 - Hỏi **「四国の方ですよね」** chung chung → 4 県 có bản sắc riêng, mất chiều sâu.
 - Khen **「香川のうどんって讃岐っていう品種ですか?」** → "讃岐" là地名古 (tên đất cổ), không phải品種 (giống).
@@ -181,34 +181,34 @@ Tháng 11/2026, Dũng đi công tác Takamatsu (香川) gặp một khách hàng
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 讃岐うどん | さぬきうどん | Sanuki udon Kagawa |
-| かまたま | — | Udon trứng nóng |
-| 金刀比羅宮 | ことひらぐう | Konpira Kagawa 1368段 |
-| 道後温泉 | どうごおんせん | Onsen 3000 năm |
-| 今治タオル | いまばりタオル | Khăn Imabari brand |
-| しまなみ海道 | しまなみかいどう | Đường biển 70km |
-| ポンジュース | — | Ehime juice |
-| カツオたたき | — | Tataki cá ngừ |
-| 藁焼き | わらやき | Nướng rơm |
-| 司牡丹 | つかさぼたん | Sake Kochi |
-| 桂浜 | かつらはま | Bãi biển龍馬 |
-| 坂本龍馬 | さかもとりょうま | Anh hùng Mạc mạt |
-| よさこい祭り | よさこいまつり | Yosakoi (Aug 9-12) |
-| 阿波踊り | あわおどり | Awa Odori (Aug 12-15) |
-| 鳴門の渦潮 | なるとのうずしお | Xoáy biển Naruto |
-| すだち | — | Citrus Tokushima 95% |
-| お遍路 | おへんろ | Hành hương 88 |
-| 弘法大師 | こうぼうだいし | Kūkai 空海 |
-| お接待 | おせったい | Văn hóa tiếp đãi miễn phí |
-| 同行二人 | どうぎょうににん | "2 người cùng đi" (với大師) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 讃岐うどん | さぬきうどん | TÁN KỲ — | Sanuki udon Kagawa |
+| かまたま | かまたま | — | Udon trứng nóng |
+| 金刀比羅宮 | ことひらぐう | KIM ĐAO TỈ LA CUNG | Konpira Kagawa 1368段 |
+| 道後温泉 | どうごおんせん | ĐẠO HẬU ÔN TUYỀN | Onsen 3000 năm |
+| 今治タオル | いまばりタオル | KIM TRỊ — | Khăn Imabari brand |
+| しまなみ海道 | しまなみかいどう | — HẢI ĐẠO | Đường biển 70km |
+| ポンジュース | ポンジュース | — | Ehime juice |
+| カツオたたき | カツオたたき | — | Tataki cá ngừ |
+| 藁焼き | わらやき | THẢO THIÊU | Nướng rơm |
+| 司牡丹 | つかさぼたん | TƯ MẪU ĐAN | Sake Kochi |
+| 桂浜 | かつらはま | QUẾ TÂN | Bãi biển龍馬 |
+| 坂本龍馬 | さかもとりょうま | PHẢN BẢN LONG MÃ | Anh hùng Mạc mạt |
+| よさこい祭り | よさこいまつり | — TẾ | Yosakoi (Aug 9-12) |
+| 阿波踊り | あわおどり | A BA VŨ | Awa Odori (Aug 12-15) |
+| 鳴門の渦潮 | なるとのうずしお | MINH MÔN — OA TRIỀU | Xoáy biển Naruto |
+| すだち | すだち | — | Citrus Tokushima 95% |
+| お遍路 | おへんろ | — BIẾN LỘ | Hành hương 88 |
+| 弘法大師 | こうぼうだいし | HOẰNG PHÁP ĐẠI SƯ | Kūkai 空海 |
+| お接待 | おせったい | — TIẾP ĐÃI | Văn hóa tiếp đãi miễn phí |
+| 同行二人 | どうぎょうににん | ĐỒNG HÀNH NHỊ NHÂN | "2 người cùng đi" (với大師) |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Hỏi 4 県 cụ thể thay vì "Shikoku の方".
 **J2 — 表現読解:** "うどん県を公式名称に" — trò đùa県 nhưng phản ánh tự hào thật.

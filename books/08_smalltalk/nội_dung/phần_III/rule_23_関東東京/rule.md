@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Tâm lý JP
+## Tâm lý JP
 
 - 東京っ子 (Tokyokko) = sinh ra & lớn ở Tokyo từ 3 đời → niềm tự hào ngầm.
 - 下町: thẳng tính, giàu tình người, "江戸っ子気質" — nói nhanh, không câu nệ.
@@ -15,15 +15,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 5/2026, Dũng đi với 松本PM (người gốc Tokyo, 浅草 lớn lên) + 田中PMO (Kanagawa-Yokohama) ăn bữa tối ở 月島もんじゃ. Sau bữa tối, Matsumoto đề xuất 二次会 ở 神田 — quán sake quen của ông từ thời 大学.
 
 ---
 
-## 💬 4 Scenarios
+## 4 Scenarios
 
-### 📍 Scenario 1 — Mở chủ đề 下町 với Matsumoto
+### Scenario 1 — Mở chủ đề 下町 với Matsumoto
 
 *trong taxi đến 月島 · impressed*
 
@@ -46,7 +46,7 @@ Tháng 5/2026, Dũng đi với 松本PM (người gốc Tokyo, 浅草 lớn lên
 
 ---
 
-### 📍 Scenario 2 — Tại quán もんじゃ — chiều sâu giữa もんじゃ vs お好み焼
+### Scenario 2 — Tại quán もんじゃ — chiều sâu giữa もんじゃ vs お好み焼
 
 *dạy Dũng cách đảo もんじゃ*
 
@@ -69,7 +69,7 @@ Tháng 5/2026, Dũng đi với 松本PM (người gốc Tokyo, 浅草 lớn lên
 
 ---
 
-### 📍 Scenario 3 — Baseball — 巨人 vs ヤクルト vs DeNA
+### Scenario 3 — Baseball — 巨人 vs ヤクルト vs DeNA
 
 | Vai | Câu |
 |---------|-----|
@@ -90,7 +90,7 @@ Tháng 5/2026, Dũng đi với 松本PM (người gốc Tokyo, 浅草 lớn lên
 
 ---
 
-### 📍 Scenario 4 — 二次会 神田 sake quán cũ
+### Scenario 4 — 二次会 神田 sake quán cũ
 
 *dẫn đến 神田 quán sake*
 
@@ -113,33 +113,33 @@ Tháng 5/2026, Dũng đi với 松本PM (người gốc Tokyo, 浅草 lớn lên
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ TOKYO 下町:
-「松本さんは<ruby>下町<rt>したまち</rt></ruby><ruby>育<rt>そだ</rt></ruby>ちですよね。<ruby>浅草寺<rt>せんそうじ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くですか?」
-「<ruby>江戸前寿司<rt>えどまえずし</rt></ruby>、いつかいい<ruby>店<rt>みせ</rt></ruby>に<ruby>連<rt>つ</rt></ruby>れて<ruby>行<rt>い</rt></ruby>ってください。」
-「<ruby>月島<rt>つきしま</rt></ruby>のもんじゃ、いろはとくう、どちらが<ruby>好<rt>この</rt></ruby>みですか?」
+「松本さんは下町育ちですよね。浅草寺の近くですか?」
+「江戸前寿司、いつかいい店に連れて行ってください。」
+「月島のもんじゃ、いろはとくう、どちらが好みですか?」
 
 ■ 山の手:
-「<ruby>青山<rt>あおやま</rt></ruby>/<ruby>麻布<rt>あざぶ</rt></ruby>/<ruby>世田谷<rt>せたがや</rt></ruby>あたり、<ruby>洗練<rt>せんれん</rt></ruby>されてますよね。」
+「青山/麻布/世田谷あたり、洗練されてますよね。」
 
 ■ BÓNG CHÀY:
-「<ruby>巨人<rt>きょじん</rt></ruby>ファンですか、ヤクルトですか、それとも<ruby>横浜<rt>よこはま</rt></ruby>?」
-「<ruby>東京<rt>とうきょう</rt></ruby>ドーム/<ruby>神宮<rt>じんぐう</rt></ruby>/ハマスタ、それぞれ<ruby>雰囲気<rt>ふんいき</rt></ruby><ruby>違<rt>ちが</rt></ruby>いますよね。」
+「巨人ファンですか、ヤクルトですか、それとも横浜?」
+「東京ドーム/神宮/ハマスタ、それぞれ雰囲気違いますよね。」
 
 ■ 神田 chủ đề khách lớn tuổi:
-「<ruby>神田神保町<rt>かんだじんぼうちょう</rt></ruby>の<ruby>古書店街<rt>こしょてんがい</rt></ruby>、雰囲気いいですよね。」
+「神田神保町の古書店街、雰囲気いいですよね。」
 「みますや、行ったことあります。」(khách lớn tuổi 大ヒット)
 
 ■ 観光 (cho khách lần đầu Tokyo):
-「<ruby>浅草<rt>あさくさ</rt></ruby>・<ruby>上野<rt>うえの</rt></ruby>・スカイツリー、<ruby>王道<rt>おうどう</rt></ruby>ですよね。」
-「<ruby>築地<rt>つきじ</rt></ruby>は<ruby>移転<rt>いてん</rt></ruby>したけど<ruby>豊洲市場<rt>とよすしじょう</rt></ruby>、<ruby>寿司<rt>すし</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>が<ruby>一番<rt>いちばん</rt></ruby>。」
+「浅草・上野・スカイツリー、王道ですよね。」
+「築地は移転したけど豊洲市場、寿司は朝が一番。」
 ```
 
 ---
 
-## 🗾 Bảng tra cứu nhanh vùng miền — 関東・東京
+## Bảng tra cứu nhanh vùng miền — 関東・東京
 
 | Hạng mục | Nội dung |
 |----------|----------|
@@ -157,7 +157,7 @@ Tháng 5/2026, Dũng đi với 松本PM (người gốc Tokyo, 浅草 lớn lên
 
 ---
 
-## ⚠ NG
+## NG
 
 - Hỏi **「東京の人ってクールですよね」** → định kiến rập khuôn, dễ chạm.
 - So sánh tiêu cực **「大阪より東京は冷たい」** trước khách Tokyo → ngại.
@@ -167,26 +167,26 @@ Tháng 5/2026, Dũng đi với 松本PM (người gốc Tokyo, 浅草 lớn lên
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 下町 | したまち | Khu phố cổ Tokyo (Asakusa, Tsukishima...) |
-| 山の手 | やまのて | Khu cao cấp Tokyo (Aoyama, Setagaya...) |
-| 東京っ子 | とうきょうっこ | Người sinh ở Tokyo 3 đời |
-| 江戸前 | えどまえ | Phong cách sushi Tokyo cổ |
-| もんじゃ焼 | もんじゃやき | Monjayaki — đặc sản Tsukishima |
-| 雷門 | かみなりもん | Cổng Asakusa biểu tượng |
-| 神保町 | じんぼうちょう | Khu sách cũ thế giới |
-| 巨人 | きょじん | Yomiuri Giants |
-| 神宮球場 | じんぐうきゅうじょう | Sân Yakult Tokyo |
-| ハマスタ | — | Hama-stadium Yokohama DeNA |
-| 三社祭 | さんじゃまつり | Lễ hội Asakusa tháng 5 |
-| ON砲 | おーえぬほう | "Ō-Nagashima" Giants legend |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 下町 | したまち | HẠ ĐINH | Khu phố cổ Tokyo (Asakusa, Tsukishima...) |
+| 山の手 | やまのて | SAN THỦ | Khu cao cấp Tokyo (Aoyama, Setagaya...) |
+| 東京っ子 | とうきょうっこ | ĐÔNG KINH — | Người sinh ở Tokyo 3 đời |
+| 江戸前 | えどまえ | GIANG HỘ TIỀN | Phong cách sushi Tokyo cổ |
+| もんじゃ焼 | もんじゃやき | — THIÊU | Monjayaki — đặc sản Tsukishima |
+| 雷門 | かみなりもん | LÔI MÔN | Cổng Asakusa biểu tượng |
+| 神保町 | じんぼうちょう | THẦN BẢO ĐINH | Khu sách cũ thế giới |
+| 巨人 | きょじん | CỰ NHÂN | Yomiuri Giants |
+| 神宮球場 | じんぐうきゅうじょう | THẦN CUNG CẦU TRƯỜNG | Sân Yakult Tokyo |
+| ハマスタ | ハマスタ | — | Hama-stadium Yokohama DeNA |
+| 三社祭 | さんじゃまつり | TAM XÃ TẾ | Lễ hội Asakusa tháng 5 |
+| ON砲 | おーえぬほう | — PHÁO | "Ō-Nagashima" Giants legend |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Xếp khách Tokyo vào 下町 hay 山の手 dựa địa chỉ.
 **J2 — 表現読解:** Phân biệt "東京っ子" (bản sắc tích cực) vs "都会的" (trung tính).

@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - 健康 với khách lớn tuổi JP = **đại diện cho lo âu tuổi tác** — họ chủ động kể nếu thấy thân.
 - 人間ドック (kiểm tra sức khỏe toàn diện) = nghi thức quan trọng từ 40t. Hỏi đúng = khách thấy được quan tâm.
@@ -13,15 +13,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Dũng đang lo về quan hệ với Sato 60t (ho nhiều trong cuộc họp), Nakamura 55t (mới làm 人間ドック), Yamamoto 38t (chia sẻ chuyện đi gym). Còn Linh (thực tập sinh 22t) hỏi sai → bị nhắc nhẹ.
 
 ---
 
-## 💬 4 Scenarios — dialogue thực chiến
+## 4 Scenarios — dialogue thực chiến
 
-### 📍 Scenario 1 — Quan tâm sức khỏe khách lớn tuổi khéo (Sato ho)
+### Scenario 1 — Quan tâm sức khỏe khách lớn tuổi khéo (Sato ho)
 
 *Zoom với Sato 60t, thấy ho 3 lần · cuối cuộc họp · gây ấn tượng*
 
@@ -42,13 +42,13 @@ Dũng đang lo về quan hệ với Sato 60t (ho nhiều trong cuộc họp), Na
 | **ズン** | 「お大事になさってください。」 |
 |  | *Anh chóng khỏe nhé.* |
 
-📝【1】 **喉飴** = kẹo họng. 【2】 **ご自愛ください** = "anh giữ gìn sức khỏe" (câu đóng trang trọng). 【3】 **生姜湯** = nước gừng nóng. 【4】 **蜂蜜大根** = củ cải đường ngâm mật ong.
+【1】 **喉飴** = kẹo họng. 【2】 **ご自愛ください** = "anh giữ gìn sức khỏe" (câu đóng trang trọng). 【3】 **生姜湯** = nước gừng nóng. 【4】 **蜂蜜大根** = củ cải đường ngâm mật ong.
 
 > **VN:** Quan tâm = **gián tiếp**, không "anh có bị bệnh gì không?". Mở bằng "お体お気をつけて" / "ご無理なさらず". Đóng bằng "ご自愛ください" / "お大事に".
 
 ---
 
-### 📍 Scenario 2 — 人間ドック (Nakamura tự kể)
+### Scenario 2 — 人間ドック (Nakamura tự kể)
 
 *dinner, gọi rượu*
 
@@ -71,13 +71,13 @@ Dũng đang lo về quan hệ với Sato 60t (ho nhiều trong cuộc họp), Na
 | **ズン** | 「中村さん、まだまだ若いですよ。**お酒**は控えめに、お互い気をつけましょう。」 |
 |  | *Anh Nakamura còn trẻ chán. Rượu uống ít thôi, mình cùng cẩn thận nhé.* |
 
-📝【1】 **人間ドック** = khám sức khỏe toàn diện (1-2 ngày). 【2】 **メタボ(リック)** = hội chứng chuyển hóa. 【3】 = chuẩn vòng eo nam JP. 【4】 ưu tiên trung tính. 【5】 **心拍数** = nhịp tim.
+【1】 **人間ドック** = khám sức khỏe toàn diện (1-2 ngày). 【2】 **メタボ(リック)** = hội chứng chuyển hóa. 【3】 = chuẩn vòng eo nam JP. 【4】 ưu tiên trung tính. 【5】 **心拍数** = nhịp tim.
 
 > **VN:** Khi khách lớn tuổi **chủ động** kể 人間ドック → phản ứng nghiêm túc nhưng không bi quan. **Không** hỏi chi tiết cụ thể (gan, thận). **Đề xuất** vận động/Apple Watch nhẹ nhàng.
 
 ---
 
-### 📍 Scenario 3 — Gym + ăn kiêng (Yamamoto nữ 38t — hiện đại)
+### Scenario 3 — Gym + ăn kiêng (Yamamoto nữ 38t — hiện đại)
 
 *Slack, gửi ảnh gym*
 
@@ -100,13 +100,13 @@ Dũng đang lo về quan hệ với Sato 60t (ho nhiều trong cuộc họp), Na
 | **ズン** | 「**シューズ**を選べばいけます。次回大阪行ったら、ジム<ruby>見学<rt>けんがく</rt></ruby>させてください。」 |
 |  | *Chọn giày tốt là được. Lần sau em đến Osaka, cho em ghé tham quan gym với ạ.* |
 
-📝【1】 **パーソナルトレーニング** = tập luyện cá nhân với huấn luyện viên. 【2】 **有酸素** = bài tập cardio. 【3】 **ウェイト** = tập tạ. 【4】 **プロテイン** = sữa protein. 【5】 **ホエイ** = whey. 【6】 **HMB** = thực phẩm bổ sung.
+【1】 **パーソナルトレーニング** = tập luyện cá nhân với huấn luyện viên. 【2】 **有酸素** = bài tập cardio. 【3】 **ウェイト** = tập tạ. 【4】 **プロテイン** = sữa protein. 【5】 **ホエイ** = whey. 【6】 **HMB** = thực phẩm bổ sung.
 
 > **VN:** Khách 30-40t **chủ động** kể gym = OK đào sâu, từ vựng hiện đại: **パーソナル / 有酸素 / ウェイト / プロテイン / 筋トレ / シックスパック**. **Không hỏi cân nặng / số đo**.
 
 ---
 
-### 📍 Scenario 4 — VÙNG CẤM: Linh hỏi sai (ví dụ SAI)
+### Scenario 4 — VÙNG CẤM: Linh hỏi sai (ví dụ SAI)
 
 *thực tập sinh 22t, gặp Yamamoto lần đầu, vô ý · cười nhưng khó xử · không nhận ra, tệ tiếp · rõ ràng đẩy lùi · gỡ tình huống, đổi chủ đề · thoải mái lại*
 
@@ -125,13 +125,13 @@ Dũng đang lo về quan hệ với Sato 60t (ho nhiều trong cuộc họp), Na
 | **山本** | 「あ、それなら…」 |
 |  | *À, vậy thì...* |
 
-❌ **NG:** ① Hỏi tuổi phụ nữ = tabu hàng đầu. ② Hỏi tình trạng hôn nhân với khách mới = xâm phạm riêng tư. ③ Khen "肌綺麗" hàm ý "trẻ" = ý không tốt với khách nữ lớn tuổi.
+ **NG:** ① Hỏi tuổi phụ nữ = tabu hàng đầu. ② Hỏi tình trạng hôn nhân với khách mới = xâm phạm riêng tư. ③ Khen "肌綺麗" hàm ý "trẻ" = ý không tốt với khách nữ lớn tuổi.
 
-✅ **Đúng:** Khen công việc / đặc sản vùng / phong cách. **Không bao giờ** hỏi tuổi / cân nặng / hôn nhân với khách nữ.
+ **Đúng:** Khen công việc / đặc sản vùng / phong cách. **Không bao giờ** hỏi tuổi / cân nặng / hôn nhân với khách nữ.
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ QUAN TÂM SỨC KHỎE (khách lớn tuổi):
@@ -159,7 +159,7 @@ Dũng đang lo về quan hệ với Sato 60t (ho nhiều trong cuộc họp), Na
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - Hỏi **tuổi phụ nữ** → tabu hàng đầu, KHÔNG bao giờ.
 - Hỏi **cân nặng / số đo** với cả nam + nữ → xâm phạm riêng tư.
@@ -170,32 +170,32 @@ Dũng đang lo về quan hệ với Sato 60t (ho nhiều trong cuộc họp), Na
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 健康 | けんこう | Sức khỏe |
-| 人間ドック | にんげんドック | Khám sức khỏe full |
-| 健診 | けんしん | Khám sức khỏe định kỳ |
-| メタボ | — | Hội chứng chuyển hóa |
-| 血圧 | けつあつ | Huyết áp |
-| 血糖値 | けっとうち | Đường huyết |
-| コレステロール | — | Cholesterol (mỡ máu) |
-| 喉飴 | のどあめ | Kẹo họng |
-| 加湿器 | かしつき | Máy tạo ẩm |
-| 有酸素運動 | ゆうさんそうんどう | Bài tập cardio |
-| 筋トレ | きんトレ | Tập tạ |
-| プロテイン | — | Sữa protein |
-| パーソナルトレーニング | — | Tập với huấn luyện viên riêng |
-| 1万歩 | いちまんぽ | 10,000 bước |
-| 心拍数 | しんぱくすう | Nhịp tim |
-| 睡眠 | すいみん | Giấc ngủ |
-| ご自愛ください | ごじあいください | "Anh giữ sức khỏe" (formal) |
-| お大事に | おだいじに | "Nhanh khỏe" (khi bị bệnh) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 健康 | けんこう | KIỆN KHANG | Sức khỏe |
+| 人間ドック | にんげんドック | NHÂN GIAN | Khám sức khỏe full |
+| 健診 | けんしん | KIỆN CHẨN | Khám sức khỏe định kỳ |
+| メタボ | メタボ | — | Hội chứng chuyển hóa |
+| 血圧 | けつあつ | HUYẾT ÁP | Huyết áp |
+| 血糖値 | けっとうち | HUYẾT ĐƯỜNG TRỊ | Đường huyết |
+| コレステロール | コレステロール | — | Cholesterol (mỡ máu) |
+| 喉飴 | のどあめ | HẦU ĐƯỜNG | Kẹo họng |
+| 加湿器 | かしつき | GIA THẤP KHÍ | Máy tạo ẩm |
+| 有酸素運動 | ゆうさんそうんどう | HỮU TOAN TỐ VẬN ĐỘNG | Bài tập cardio |
+| 筋トレ | きんトレ | CƠ | Tập tạ |
+| プロテイン | プロテイン | — | Sữa protein |
+| パーソナルトレーニング | パーソナルトレーニング | — | Tập với huấn luyện viên riêng |
+| 1万歩 | いちまんぽ | VẠN BỘ | 10,000 bước |
+| 心拍数 | しんぱくすう | TÂM BÁC SỐ | Nhịp tim |
+| 睡眠 | すいみん | TUỲ MIÊN | Giấc ngủ |
+| ご自愛ください | ごじあいください | TỰ ÁI | "Anh giữ sức khỏe" (formal) |
+| お大事に | おだいじに | ĐẠI SỰ | "Nhanh khỏe" (khi bị bệnh) |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Phân biệt câu hỏi OK / NG theo giới tính + độ thân của quan hệ.
 **J2 — 表現読解:** "ご自愛ください" vs "お大事に" — khi nào dùng cái nào.

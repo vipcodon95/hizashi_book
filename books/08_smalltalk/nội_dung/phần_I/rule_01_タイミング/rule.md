@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (3 dòng)
+## Tâm lý JP (3 dòng)
 
 - Người Nhật phân vùng "業務モード ↔ 雑談モード" (trạng thái công việc ↔ trạng thái trò chuyện) rõ ràng. Nhảy trạng thái sai = nguy hiểm.
 - 雑談 đúng lúc = "biết đọc không khí" (空気を読む) — đẳng cấp cao trong văn hóa.
@@ -12,15 +12,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tuần đầu tháng 5/2026, Dũng + Tuấn onsite Tokyo 3 ngày làm việc với 大垣 (Osaka), 松本 PM, 中村 CFO. Lịch dày: kickoff Phase 4, rà soát báo cáo Q1, dinner 2 buổi. Dũng phải biết "tán" lúc nào — và dứt lúc nào.
 
 ---
 
-## 💬 4 Scenario — hội thoại thực chiến
+## 4 Scenario — hội thoại thực chiến
 
-### 📍 Scenario 1 — Cửa sổ vàng #1: TRƯỚC khi họp (5 phút thời gian đệm)
+### Scenario 1 — Cửa sổ vàng #1: TRƯỚC khi họp (5 phút thời gian đệm)
 
 *8:55, đứng đợi 大垣 vào phòng họp 9:00*
 
@@ -35,13 +35,13 @@ Tuần đầu tháng 5/2026, Dũng + Tuấn onsite Tokyo 3 ngày làm việc v�
 | **大垣** | 「こちらこそ。じゃあ<ruby>始<rt>はじ</rt></ruby>めよっか。」 |
 |  | *Tôi cũng vậy. Bắt đầu nhé.* |
 
-📝【1】 「あるある」 = "chuyện hay xảy ra" — slang nhẹ, dùng trước họp với khách thân quen được. Buổi đầu thì tránh.
+【1】 「あるある」 = "chuyện hay xảy ra" — slang nhẹ, dùng trước họp với khách thân quen được. Buổi đầu thì tránh.
 
 > **VN:** "Anh Ōgaki, chào anh. Sáng nay lạnh nhỉ. Tối qua khách sạn có dễ ngủ không ạ?" → Khách kể chuyện ngủ trên Shinkansen → cười → bắt đầu họp. **3-4 lượt là dừng.**
 
 ---
 
-### 📍 Scenario 2 — Cửa sổ vàng #2: SAU khi họp (đi cùng ra thang máy)
+### Scenario 2 — Cửa sổ vàng #2: SAU khi họp (đi cùng ra thang máy)
 
 *11:30, vừa kết thúc họp, đi cùng 中村 CFO ra hành lang*
 
@@ -62,7 +62,7 @@ Tuần đầu tháng 5/2026, Dũng + Tuấn onsite Tokyo 3 ngày làm việc v�
 
 ---
 
-### 📍 Scenario 3 — Cửa sổ vàng #3: TAXI / Di chuyển
+### Scenario 3 — Cửa sổ vàng #3: TAXI / Di chuyển
 
 *13:30, ngồi taxi cùng 松本 đến nhà hàng dinner*
 
@@ -83,7 +83,7 @@ Tuần đầu tháng 5/2026, Dũng + Tuấn onsite Tokyo 3 ngày làm việc v�
 
 ---
 
-### 📍 Scenario 4 — VÙNG CẤM: Đang đàm phán / khách căng thẳng
+### Scenario 4 — VÙNG CẤM: Đang đàm phán / khách căng thẳng
 
 *14:00 họp giá Phase 4, bầu không khí căng. 大垣 vừa đề xuất giảm 8% — Tuấn đang tính lại · KHÔNG NÊN — vô duyên cắt mạch · ngắc ngứ*
 
@@ -94,13 +94,13 @@ Tuần đầu tháng 5/2026, Dũng + Tuấn onsite Tokyo 3 ngày làm việc v�
 | **大垣** | 「…え、ああ…まあ…(と、<ruby>内心<rt>ないしん</rt></ruby>:<ruby>今<rt>いま</rt></ruby>その<ruby>話<rt>はなし</rt></ruby>?)」 |
 |  | *...ờ, à... thì... (trong bụng: giờ mà nói chuyện đó à?)* |
 
-❌ **Vì sao XẤU:** Khách đang chờ lời chào giá lại của mình. Cắt ngang bằng bóng chày = không đọc không khí, mất uy tín đàm phán.
+ **Vì sao XẤU:** Khách đang chờ lời chào giá lại của mình. Cắt ngang bằng bóng chày = không đọc không khí, mất uy tín đàm phán.
 
-✅ **Đúng:** Im lặng, đợi Tuấn xong tính → trả lời nghiêm túc về giá → SAU KHI chốt hợp đồng mới mở "Phù, vụ giá xong rồi! Mà nhân tiện anh Ōgaki — mùa này 阪神 thế nào?"
+ **Đúng:** Im lặng, đợi Tuấn xong tính → trả lời nghiêm túc về giá → SAU KHI chốt hợp đồng mới mở "Phù, vụ giá xong rồi! Mà nhân tiện anh Ōgaki — mùa này 阪神 thế nào?"
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ TRƯỚC HỌP:
@@ -123,7 +123,7 @@ Tuần đầu tháng 5/2026, Dũng + Tuấn onsite Tokyo 3 ngày làm việc v�
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - Mở 雑談 **giữa lúc đang đàm phán giá / kỹ thuật cốt lõi** → mất uy tín.
 - "Tán" ngay **lần đầu gặp chưa giao danh thiếp** → bị xem là "なれなれしい" (suồng sã).
@@ -133,21 +133,21 @@ Tuần đầu tháng 5/2026, Dũng + Tuấn onsite Tokyo 3 ngày làm việc v�
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 雑談 | ざつだん | Trò chuyện phiếm |
-| タイミング | — | Thời điểm |
-| 空気を読む | くうきをよむ | Đọc không khí (cực kỳ quan trọng JP) |
-| あるある | — | "Chuyện thường gặp" (slang nhẹ) |
-| 連休 | れんきゅう | Kỳ nghỉ liên tiếp (Golden Week) |
-| 見頃 | みごろ | Đỉnh điểm đẹp (hoa) |
-| なれなれしい | — | Suồng sã, thân quá mức không phù hợp |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 雑談 | ざつだん | TẠP ĐÀM | Trò chuyện phiếm |
+| タイミング | タイミング | — | Thời điểm |
+| 空気を読む | くうきをよむ | KHÔNG KHÍ | Đọc không khí (cực kỳ quan trọng JP) |
+| あるある | あるある | — | "Chuyện thường gặp" (slang nhẹ) |
+| 連休 | れんきゅう | LIÊN HƯU | Kỳ nghỉ liên tiếp (Golden Week) |
+| 見頃 | みごろ | KIẾN KHOẢNH | Đỉnh điểm đẹp (hoa) |
+| なれなれしい | なれなれしい | — | Suồng sã, thân quá mức không phù hợp |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Khi nào 雑談 OK / NG → 4 cửa sổ vàng + 3 vùng cấm.
 **J2 — 表現読解:** Phân biệt "なれなれしい" vs "親しみやすい" — sắc thái mỏng.

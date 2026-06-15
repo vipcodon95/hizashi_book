@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Tâm lý JP
+## Tâm lý JP
 
 - 博多人 = 「**祭り好き・酒好き・人懐っこい**」. Senior Sato 60t先生 dùng **Hakata-ben** nhẹ ("〜と?", "〜やけん", "ばってん").
 - **博多祇園山笠** (7/1-15) = "博多人の一年は山笠で始まり山笠で終わる" — niềm tự hào tuyệt đối.
@@ -14,15 +14,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 12/2026, Dũng + chị Hương + Hà CTO bay xuống **Fukuoka** dự tiệc tối cuối năm với **anh Sato 先生** (60t, phụ trách chi nhánh 福岡). Lịch: chiều xuống ga Hakata → dạo 中洲川端 → ăn tối **もつ鍋 おおやま** → 二次会 ramen ở **中洲屋台** → sáng hôm sau **太宰府天満宮** + **梅ヶ枝餅**.
 
 ---
 
-## 💬 4 Scenarios
+## 4 Scenarios
 
-### 📍 Scenario 1 — もつ鍋 おおやま — chiều sâu ẩm thực + Hakata-ben
+### Scenario 1 — もつ鍋 おおやま — chiều sâu ẩm thực + Hakata-ben
 
 *Hakata-ben nhẹ · 感心*
 
@@ -47,7 +47,7 @@ Tháng 12/2026, Dũng + chị Hương + Hà CTO bay xuống **Fukuoka** dự ti�
 
 ---
 
-### 📍 Scenario 2 — 中洲屋台 — chiều sâu ramen 4 派
+### Scenario 2 — 中洲屋台 — chiều sâu ramen 4 派
 
 *dẫn ra 川端 phố 屋台 · 目を見開く · 笑*
 
@@ -76,7 +76,7 @@ Tháng 12/2026, Dũng + chị Hương + Hà CTO bay xuống **Fukuoka** dự ti�
 
 ---
 
-### 📍 Scenario 3 — Tối khuya 二次会 — ホークス + 山笠
+### Scenario 3 — Tối khuya 二次会 — ホークス + 山笠
 
 *熱 · á khẩu kinh ngạc*
 
@@ -105,7 +105,7 @@ Tháng 12/2026, Dũng + chị Hương + Hà CTO bay xuống **Fukuoka** dự ti�
 
 ---
 
-### 📍 Scenario 4 — Sáng 太宰府 + 梅ヶ枝餅
+### Scenario 4 — Sáng 太宰府 + 梅ヶ枝餅
 
 *太宰府天満宮*
 
@@ -130,7 +130,7 @@ Tháng 12/2026, Dũng + chị Hương + Hà CTO bay xuống **Fukuoka** dự ti�
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ MỞ CHỦ ĐỀ FUKUOKA:
@@ -161,7 +161,7 @@ Tháng 12/2026, Dũng + chị Hương + Hà CTO bay xuống **Fukuoka** dự ti�
 
 ---
 
-## 🗾 Bảng tra nhanh vùng miền — 福岡
+## Bảng tra nhanh vùng miền — 福岡
 
 | Hạng mục | Nội dung |
 |----------|----------|
@@ -180,7 +180,7 @@ Tháng 12/2026, Dũng + chị Hương + Hà CTO bay xuống **Fukuoka** dự ti�
 
 ---
 
-## ⚠ NG
+## NG
 
 - Lạm dụng Hakata-ben (「ばい!」「と?」乱用) → nghe như nhại.
 - Khen ramen **「一蘭が一番美味しいですよね」** → 一蘭 đại trà, người địa phương thường có quán riêng.
@@ -190,34 +190,34 @@ Tháng 12/2026, Dũng + chị Hương + Hà CTO bay xuống **Fukuoka** dự ti�
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 博多豚骨ラーメン | はかたとんこつラーメン | Ramen tonkotsu Hakata |
-| もつ鍋 | もつなべ | Lẩu lòng bò |
-| 明太子 | めんたいこ | Trứng cá tuyết cay |
-| 水炊き | みずたき | Lẩu gà nước |
-| 屋台 | やたい | Quán đường phố |
-| 中洲 | なかす | Phố ăn đêm |
-| 替え玉 | かえだま | Thêm mì |
-| バリカタ | — | Mì cứng nhất |
-| 粉落とし | こなおとし | Mì siêu cứng |
-| 麦焼酎 | むぎじょうちゅう | Shōchū lúa mạch |
-| ホークス | — | Đội Fukuoka |
-| みずほPayPayドーム | — | Sân Hawks |
-| 山笠 | やまかさ | Lễ hội mùa hè |
-| 博多どんたく | はかたどんたく | Lễ hội tháng 5 |
-| 太宰府天満宮 | だざいふてんまんぐう | Đền học vấn |
-| 菅原道真 | すがわらのみちざね | Thần học vấn |
-| 梅ヶ枝餅 | うめがえもち | Bánh nướng đặc sản |
-| ばい | — | "Đó/yo" Hakata-ben |
-| ばってん | — | "Nhưng" Hakata-ben |
-| 〜やけん | — | "Vì" Hakata-ben |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 博多豚骨ラーメン | はかたとんこつラーメン | BÁC ĐA ĐỒN CỐT — | Ramen tonkotsu Hakata |
+| もつ鍋 | もつなべ | — QUÃ | Lẩu lòng bò |
+| 明太子 | めんたいこ | MINH THÁI TỬ | Trứng cá tuyết cay |
+| 水炊き | みずたき | THỦY THÔI | Lẩu gà nước |
+| 屋台 | やたい | ỐC ĐÀI | Quán đường phố |
+| 中洲 | なかす | TRUNG CHÂU | Phố ăn đêm |
+| 替え玉 | かえだま | THẾ NGỌC | Thêm mì |
+| バリカタ | バリカタ | — | Mì cứng nhất |
+| 粉落とし | こなおとし | PHẤN LẠC | Mì siêu cứng |
+| 麦焼酎 | むぎじょうちゅう | MẠCH THIÊU TRỪU | Shōchū lúa mạch |
+| ホークス | ホークス | — | Đội Fukuoka |
+| みずほPayPayドーム | みずほPayPayドーム | — | Sân Hawks |
+| 山笠 | やまかさ | SAN LẠP | Lễ hội mùa hè |
+| 博多どんたく | はかたどんたく | BÁC ĐA — | Lễ hội tháng 5 |
+| 太宰府天満宮 | だざいふてんまんぐう | THÁI TỂ PHỦ THIÊN MAN CUNG | Đền học vấn |
+| 菅原道真 | すがわらのみちざね | QUẢN NGUYÊN ĐẠO CHÂN | Thần học vấn |
+| 梅ヶ枝餅 | うめがえもち | MAI CHI BÍNH | Bánh nướng đặc sản |
+| ばい | ばい | — | "Đó/yo" Hakata-ben |
+| ばってん | ばってん | — | "Nhưng" Hakata-ben |
+| 〜やけん | やけん | — | "Vì" Hakata-ben |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Khi ăn ramen Hakata, biết đáp lại "替え玉ください" + chọn "バリカタ".
 **J2 — 表現読解:** "山笠で始まり山笠で終わる" = một năm của Hakata xoay quanh 山笠.

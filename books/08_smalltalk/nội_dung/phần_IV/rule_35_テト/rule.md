@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - Người Nhật từ Meiji đã chuyển 正月 sang dương lịch — họ tò mò khi VN vẫn giữ âm lịch.
 - 12 con giáp gần như giống y JP — chỉ **Trâu/Bò (丑) và Mèo/Thỏ (卯/兎)** khác → đây là điểm "ơ thật á?" mà JP cực thích.
@@ -13,15 +13,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Cuối tháng 1/2026 (gần Tết VN — mùng 1 = 17/2/2026, năm Ngọ 午年). Dũng gọi zoom với Matsumoto / Kato (Gifu) chuẩn bị lịch trình Phase 5 — phải giải thích "VN nghỉ Tết 1 tuần" mà khách Nhật chưa hiểu cơ chế.
 
 ---
 
-## 💬 4 Scenarios — hội thoại thực chiến
+## 4 Scenarios — hội thoại thực chiến
 
-### 📍 Scenario 1 — Giải thích cơ chế âm vs dương lịch
+### Scenario 1 — Giải thích cơ chế âm vs dương lịch
 
 | Vai | Câu |
 |---------|-----|
@@ -46,7 +46,7 @@ Cuối tháng 1/2026 (gần Tết VN — mùng 1 = 17/2/2026, năm Ngọ 午年)
 
 ---
 
-### 📍 Scenario 2 — 12 con giáp + năm Ngọ 2026
+### Scenario 2 — 12 con giáp + năm Ngọ 2026
 
 *Gifu, có vợ thuộc 1986 寅年*
 
@@ -67,12 +67,12 @@ Cuối tháng 1/2026 (gần Tết VN — mùng 1 = 17/2/2026, năm Ngọ 午年)
 | **加藤** | 「あはは、<ruby>猪<rt>いのしし</rt></ruby>じゃなくて<ruby>豚<rt>ぶた</rt></ruby>!<ruby>家畜<rt>かちく</rt></ruby>の方ね、それも文化が出るね。」 |
 |  | *Haha, không phải lợn rừng mà lợn nhà! Văn hóa khác nhau hiện rõ nhỉ.* |
 
-📝【1】 12 giáp VN: **Tý/Sửu(水牛)/Dần/卯(猫)/Thìn/Tỵ/Ngọ/Mùi(山羊)/Thân/Dậu/Tuất/Hợi(豚)**. So với JP: 子・丑・寅・卯(兎)・辰・巳・午・未・申・酉・戌・亥(猪).
-📝【2】 **3 con giáp VN khác JP:** Sửu = trâu (vs ushi/bò), Mão = mèo (vs u/thỏ), Hợi = lợn (vs i/lợn rừng), Mùi = dê (vs cừu) — JP có 4 điểm khác nhỏ, nhưng "mèo vs thỏ" là điểm gây ấn tượng nhất.
+【1】 12 giáp VN: **Tý/Sửu(水牛)/Dần/卯(猫)/Thìn/Tỵ/Ngọ/Mùi(山羊)/Thân/Dậu/Tuất/Hợi(豚)**. So với JP: 子・丑・寅・卯(兎)・辰・巳・午・未・申・酉・戌・亥(猪).
+【2】 **3 con giáp VN khác JP:** Sửu = trâu (vs ushi/bò), Mão = mèo (vs u/thỏ), Hợi = lợn (vs i/lợn rừng), Mùi = dê (vs cừu) — JP có 4 điểm khác nhỏ, nhưng "mèo vs thỏ" là điểm gây ấn tượng nhất.
 
 ---
 
-### 📍 Scenario 3 — Hoa đào Bắc / hoa mai Nam + mâm ngũ quả
+### Scenario 3 — Hoa đào Bắc / hoa mai Nam + mâm ngũ quả
 
 *携帯で見せる*
 
@@ -101,7 +101,7 @@ Cuối tháng 1/2026 (gần Tết VN — mùng 1 = 17/2/2026, năm Ngọ 午年)
 
 ---
 
-### 📍 Scenario 4 — Lì xì + né chính trị
+### Scenario 4 — Lì xì + né chính trị
 
 *深く印象付けられる*
 
@@ -126,11 +126,11 @@ Cuối tháng 1/2026 (gần Tết VN — mùng 1 = 17/2/2026, năm Ngọ 午年)
 | **松本** | 「いやあ、こういう話を聞けるのが本当に<ruby>嬉<rt>うれ</rt></ruby>しいよ。」 |
 |  | *Ôi, được nghe những chuyện thế này tôi rất vui.* |
 
-📝 **Vùng cấm:** Tết Mậu Thân 1968, dòng người từ TP HCM về quê (gợi nhớ chiến tranh & nội chiến), so sánh "Bắc-Nam ăn Tết khác". Chỉ nên giữ ở **văn hóa gia đình + ẩm thực + hoa**.
+ **Vùng cấm:** Tết Mậu Thân 1968, dòng người từ TP HCM về quê (gợi nhớ chiến tranh & nội chiến), so sánh "Bắc-Nam ăn Tết khác". Chỉ nên giữ ở **văn hóa gia đình + ẩm thực + hoa**.
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ CƠ CHẾ:
@@ -155,7 +155,7 @@ Cuối tháng 1/2026 (gần Tết VN — mùng 1 = 17/2/2026, năm Ngọ 午年)
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - Nhắc đến "Tết Mậu Thân 1968" / chiến tranh → vùng cấm tuyệt đối.
 - So sánh "Bắc ăn Tết khác Nam" theo hướng **chính trị / lịch sử** → chỉ nên giữ ở **ẩm thực + hoa**.
@@ -165,25 +165,25 @@ Cuối tháng 1/2026 (gần Tết VN — mùng 1 = 17/2/2026, năm Ngọ 午年)
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 旧正月 | きゅうしょうがつ | Tết âm lịch (= Tết VN) |
-| 旧暦 | きゅうれき | Âm lịch |
-| 新暦 | しんれき | Dương lịch |
-| 干支 | えと | 12 con giáp |
-| 午年 | うまどし | Năm Ngọ (2026) |
-| 帰省ラッシュ | きせいラッシュ | Đợt người về quê đông |
-| 桃の花 | もものはな | Hoa đào (北 VN) |
-| 五果盆 | ごかぼん | Mâm ngũ quả (mượn dịch) |
-| 仏壇 | ぶつだん | Bàn thờ |
-| 師事の感謝 | しじのかんしゃ | Tri ân thầy cô |
-| ダジャレ | — | Chơi chữ |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 旧正月 | きゅうしょうがつ | CỰU CHÍNH NGUYỆT | Tết âm lịch (= Tết VN) |
+| 旧暦 | きゅうれき | CỰU LỊCH | Âm lịch |
+| 新暦 | しんれき | TÂN LỊCH | Dương lịch |
+| 干支 | えと | CAN CHI | 12 con giáp |
+| 午年 | うまどし | NGỌ NIÊN | Năm Ngọ (2026) |
+| 帰省ラッシュ | きせいラッシュ | QUY TỈNH | Đợt người về quê đông |
+| 桃の花 | もものはな | ĐÀO HOA | Hoa đào (北 VN) |
+| 五果盆 | ごかぼん | NGŨ QUẢ BỒN | Mâm ngũ quả (mượn dịch) |
+| 仏壇 | ぶつだん | PHẬT ĐÀN | Bàn thờ |
+| 師事の感謝 | しじのかんしゃ | SƯ SỰ CẢM TẠ | Tri ân thầy cô |
+| ダジャレ | ダジャレ | — | Chơi chữ |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Khi khách hỏi "祝日何の?" → biết giải thích "旧正月 = Tết, không phải 1/1".
 **J2 — 表現読解:** So sánh "Tết = お盆 + 正月" — tạo hình ảnh tức thì trong đầu khách.

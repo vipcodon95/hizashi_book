@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - Khách lớn tuổi thích **cảnh thiên nhiên + di sản** — họ tra Lonely Planet trước.
 - Khách trẻ thích **không khí + ảnh chụp Instagram + khu phố đêm** — thích vui là chính.
@@ -13,15 +13,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 12/2026, bữa tối ở Tokyo. Vợ chồng Matsumoto sẽ đi 5 ngày Việt Nam tháng 1 (mùa mát). Tanaka + Hai (2 khách trẻ) đi riêng Hà Nội - HCM 4 ngày — có yêu cầu "1 đêm Tạ Hiện". Sato lớn tuổi đến Đà Nẵng + Hội An. Gợi ý đúng từng đối tượng.
 
 ---
 
-## 💬 4 Scenarios — hội thoại thực chiến
+## 4 Scenarios — hội thoại thực chiến
 
-### 📍 Scenario 1 — Hạ Long + Sapa cho vợ chồng khách lớn tuổi
+### Scenario 1 — Hạ Long + Sapa cho vợ chồng khách lớn tuổi
 
 | Vai | Câu |
 |---------|-----|
@@ -46,7 +46,7 @@ Tháng 12/2026, bữa tối ở Tokyo. Vợ chồng Matsumoto sẽ đi 5 ngày V
 
 ---
 
-### 📍 Scenario 2 — Phú Quốc cho cặp đôi mê biển
+### Scenario 2 — Phú Quốc cho cặp đôi mê biển
 
 | Vai | Câu |
 |---------|-----|
@@ -69,7 +69,7 @@ Tháng 12/2026, bữa tối ở Tokyo. Vợ chồng Matsumoto sẽ đi 5 ngày V
 
 ---
 
-### 📍 Scenario 3 — Bùi Viện / Tạ Hiện cho khách trẻ — kèm cảnh báo
+### Scenario 3 — Bùi Viện / Tạ Hiện cho khách trẻ — kèm cảnh báo
 
 | Vai | Câu |
 |---------|-----|
@@ -94,11 +94,11 @@ Tháng 12/2026, bữa tối ở Tokyo. Vợ chồng Matsumoto sẽ đi 5 ngày V
 | **ズン** | 「**ホーチミンはBui Vien Walking Street**、こちらも<ruby>同様<rt>どうよう</rt></ruby>の<ruby>警戒<rt>けいかい</rt></ruby>で。**もう少し<ruby>落<rt>お</rt></ruby>ち着いて飲みたいなら『Pasteur Street Brewing』のクラフトビール**、**屋上バーは『Glow Skybar』『Chill Skybar』**が安全で<ruby>景色<rt>けしき</rt></ruby>◎。」 |
 |  | *Sài Gòn thì phố đi bộ Bùi Viện, cũng cảnh giác tương tự. Muốn ngồi nhẹ nhàng hơn thì craft beer 'Pasteur Street Brewing', còn rooftop bar thì 'Glow Skybar' / 'Chill Skybar' an toàn mà view đẹp.* |
 
-📝 **NG:** Đưa khách trung niên 60 tuổi đến Tạ Hiện. **OK:** Khách trẻ 30 tuổi + cảnh báo trước = chủ nhà chuyên nghiệp.
+ **NG:** Đưa khách trung niên 60 tuổi đến Tạ Hiện. **OK:** Khách trẻ 30 tuổi + cảnh báo trước = chủ nhà chuyên nghiệp.
 
 ---
 
-### 📍 Scenario 4 — Mai Châu cho khách lớn tuổi mê thiên nhiên
+### Scenario 4 — Mai Châu cho khách lớn tuổi mê thiên nhiên
 
 | Vai | Câu |
 |---------|-----|
@@ -123,7 +123,7 @@ Tháng 12/2026, bữa tối ở Tokyo. Vợ chồng Matsumoto sẽ đi 5 ngày V
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ HẠ LONG / SAPA (vợ chồng lớn tuổi):
@@ -151,7 +151,7 @@ Tháng 12/2026, bữa tối ở Tokyo. Vợ chồng Matsumoto sẽ đi 5 ngày V
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - Đưa khách lớn tuổi 60t đến Tạ Hiện / Bùi Viện → sai đối tượng + nguy hiểm bị lừa đảo.
 - Gợi ý khu phố đêm mà không cảnh báo lừa đảo + ồn → trách nhiệm chủ nhà.
@@ -161,26 +161,26 @@ Tháng 12/2026, bữa tối ở Tokyo. Vợ chồng Matsumoto sẽ đi 5 ngày V
 
 ---
 
-## 📚 Bảng từ vựng
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| ハロン湾 | ハロンわん | Vịnh Hạ Long |
-| ジャンク船 | ジャンクせん | Tàu junk cruise |
-| 棚田 | たなだ | Ruộng bậc thang |
-| 高床式家屋 | たかゆかしきかおく | Nhà sàn |
-| 少数民族 | しょうすうみんぞく | Dân tộc thiểu số |
-| ぼったくりバー | — | Bar chặt chém |
-| スリ | — | Móc túi |
-| 屋上バー | おくじょうバー | Rooftop bar |
-| ビアホイ | — | Bia hơi (đặc trưng VN street) |
-| ホームステイ | — | Homestay |
-| 胡椒農園 | こしょうのうえん | Vườn tiêu (Phú Quốc) |
-| 焚き火 | たきび | Đốt lửa trại |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| ハロン湾 | ハロンわん | — | Vịnh Hạ Long |
+| ジャンク船 | ジャンクせん | — | Tàu junk cruise |
+| 棚田 | たなだ | BẰNG ĐIỀN | Ruộng bậc thang |
+| 高床式家屋 | たかゆかしきかおく | CAO SÀNG THỨC GIA ỐC | Nhà sàn |
+| 少数民族 | しょうすうみんぞく | THIỂU SỐ DÂN TỘC | Dân tộc thiểu số |
+| ぼったくりバー | ぼったくりバー | — | Bar chặt chém |
+| スリ | スリ | — | Móc túi |
+| 屋上バー | おくじょうバー | ỐC THƯỢNG | Rooftop bar |
+| ビアホイ | ビアホイ | — | Bia hơi (đặc trưng VN street) |
+| ホームステイ | ホームステイ | — | Homestay |
+| 胡椒農園 | こしょうのうえん | HỒ TIÊU NÔNG VIÊN | Vườn tiêu (Phú Quốc) |
+| 焚き火 | たきび | — | Đốt lửa trại |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Gợi ý đúng theo đối tượng (tuổi + sở thích). Khách lớn tuổi thiên nhiên / cặp đôi lãng mạn / khách trẻ cuộc vui đêm.
 **J2 — 表現読解:** Khi khách hỏi về khu phố đêm — biết kèm cảnh báo trước khi gợi ý.

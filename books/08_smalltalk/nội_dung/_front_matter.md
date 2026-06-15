@@ -1,28 +1,30 @@
-# Hizashi Sách 08 — Trò chuyện thân thiết với khách Nhật / 雑談・関係構築
+# Hizashi — Trò chuyện thân thiết / 雑談・関係構築
 
-**Hizashi Teams. 2026. v1.0**
+*Hizashi Teams.*
 
----
+## Sách song ngữ Việt-Nhật cho người Việt làm với khách hàng
 
-## 🇻🇳 Lời nói đầu (VN)
+51 quy tắc dạy cách trò chuyện thân tình ngoài công việc (雑談 — zatsudan) với khách hàng Nhật, theo đặc trưng 47 tỉnh thành.
 
-Bạn đã đọc xong sách 02–07 và làm việc với khách Nhật trôi chảy. Email không còn ngại. Họp không lúng túng. Đàm phán đã ký được hợp đồng.
+**Đối tượng:** Người Việt đã thạo email, họp, đàm phán với khách hàng, muốn từ "bên cung cấp" trở thành "đối tác tin cậy".
 
-Vậy mà sao bạn vẫn cảm thấy mình là **"vendor"** chứ chưa phải **"đối tác tin cậy"**?
+## Lời nói đầu
+
+Bạn đã đọc xong sách 02–07 và làm việc với khách hàng trôi chảy. Email không còn ngại. Họp không lúng túng. Đàm phán đã ký được hợp đồng.
+
+Vậy mà sao bạn vẫn cảm thấy mình là **bên cung cấp** chứ chưa phải **đối tác tin cậy**?
 
 Khoảng cách đó được lấp bằng đúng một thứ: **雑談 (zatsudan) — trò chuyện thân tình ngoài việc.**
 
-Trên bàn ăn, trong taxi, lúc đứng đợi thang máy, ở quán izakaya sau buổi họp — đó là lúc khách Nhật đo bạn. Không phải đo kỹ thuật. Đo *con người* bạn. Đo độ "hợp" để giao việc lớn hơn.
+Trên bàn ăn, trong taxi, lúc đứng đợi thang máy, ở quán izakaya sau buổi họp — đó là lúc khách hàng đo bạn. Không phải đo kỹ thuật. Đo *con người* bạn. Đo độ "hợp" để giao việc lớn hơn.
 
-Sách này dạy bạn 51 rule để "tán" sâu — không hời hợt. Bạn sẽ biết: khách quê **Hiroshima** thích Carp baseball và bánh okonomiyaki khác Osaka thế nào. Khách **Gifu** sẽ rạng rỡ khi bạn hỏi về 飛騨牛 và 白川郷. Khách **Okinawa** không vội — và bạn cũng đừng vội.
+Sách này dạy bạn 51 quy tắc để trò chuyện sâu — không hời hợt. Bạn sẽ biết: khách quê **Hiroshima** thích đội Carp và bánh okonomiyaki khác Osaka thế nào. Khách **Gifu** sẽ rạng rỡ khi bạn hỏi về 飛騨牛 và 白川郷. Khách **Okinawa** không vội — và bạn cũng đừng vội.
 
-Mỗi rule **NGẮN** ở phần lý thuyết, **DÀI** ở phần hội thoại — vì bạn cần ví dụ để dùng được ngay.
+Mỗi quy tắc **ngắn** ở phần lý thuyết, **dài** ở phần hội thoại — vì bạn cần ví dụ để dùng được ngay.
 
-Đọc xong, bạn sẽ là người Việt mà khách Nhật nhớ mặt và muốn gọi đi nhậu.
+Đọc xong, bạn sẽ là người Việt mà khách hàng nhớ mặt và muốn rủ đi nhậu.
 
----
-
-## 🇯🇵 はじめに (JP)
+## はじめに
 
 ベトナムから日本のお客様と仕事をされている皆さま。本書の第02巻〜第07巻を読み終えれば、メール・電話・会議・交渉・接客といった「仕事の日本語」は概ね問題なくこなせるはずです。
 
@@ -36,37 +38,26 @@ Mỗi rule **NGẮN** ở phần lý thuyết, **DÀI** ở phần hội thoại
 
 各ルールは **理論は短く、会話例は豊富に**。すぐ実戦で使える形を意識しました。
 
-読み終わる頃には、あなたは「ベンダー」から「信頼できるパートナー」へと変わっているはずです。
+## Cấu trúc
 
----
+| Phần | Tên | Nội dung |
+|------|-----|---------|
+| I | Khung tư duy trò chuyện (雑談の基本姿勢) | Nền tảng |
+| II | Chủ đề cốt lõi đào sâu (雑談トピック) | Thời tiết · Ẩm thực · Gia đình · Sở thích |
+| III | Theo vùng miền 47 tỉnh (地域別雑談) | Đặc trưng từng tỉnh |
+| IV | Chủ đề Việt Nam (ベトナムの話題) | Giới thiệu quê hương |
+| V | Văn hóa nhậu & Tự luyện tập (飲みの文化と自己練習) | Izakaya · Tự rèn |
 
-## 🎬 Dàn nhân vật (19 người)
+**Phụ lục:** A (tổng hợp mẫu câu), B (từ vựng), C (luyện BJT), D (tổng hợp mẫu), E (47 tỉnh).
 
-**Cty Thiên Phát (VN, ティエンファット社)** — em Dũng (ズン), chị Hương (フオン副部長), anh Tuấn (トゥアンリーダー), chị Loan (ロアン経理部長), em Linh (リン), em Hải (ハイ), anh Hà CTO (ハー).
+## Nhân vật
 
-**白鷗株式会社 (Tokyo HQ + chi nhánh)** — anh Matsumoto PM (Tokyo), anh Ōgaki 営業部長 (Osaka), anh Nakamura CFO (Hokkaido), anh Tanaka PMO (Kanagawa).
+- **Thiên Phát (ティエンファット社)** — Dũng, chị Hương, anh Tuấn, chị Loan, em Linh, em Hải, anh Hà CTO.
+- **白鷗株式会社 (Hakuō)** — anh Matsumoto, anh Ōgaki, anh Nakamura, anh Tanaka.
+- **Khách theo vùng:** anh Hiroshi (Hiroshima), chị Yamamoto (Osaka), anh Sato (Fukuoka), anh Kobayashi (Okinawa), anh Ito (Nagoya), anh Kato (Gifu).
 
-**Mới — Phần III + dialog:**
-- anh Hiroshi 広島部長 (Hiroshima — Carp, oysters)
-- chị Yamamoto マネージャー (Osaka — takoyaki, Hanshin Tigers)
-- anh Sato 先生 (Fukuoka — Hawks, ramen)
-- anh Kobayashi (Okinawa — Ryūkyū culture)
-- anh Ito (Nagoya — miso, tư duy Toyota)
-- anh Kato (Gifu — Hida beef, Shirakawa-go, 関の刃物)
+## Bản quyền
 
----
+© 2026 Hizashi Teams. Sáng tác gốc.
 
-## 📐 Format mỗi rule (NGẮN GỌN — DIALOGUE NHIỀU)
-
-1. **Luận điểm** (1 câu)
-2. **Bối cảnh** (2-3 câu — ai, lúc nào, mục tiêu)
-3. **Tâm lý JP** (3-5 dòng — tại sao quan trọng)
-4. **3-4 hội thoại scenarios** (đây là phần CHÍNH)
-5. **Câu vàng dùng ngay** (5-10 câu sẵn dùng)
-6. **NG list** (3-5 câu cấm)
-
-Mỗi rule có file `rule.md` (lý thuyết + dialogue) và `conversation.json` (data hóa cho TTS sau này).
-
----
-
-*Hizashi Teams 2026 — Tia nắng đầu ngày trong cuộc trò chuyện thân tình.*
+*Hizashi — Tia nắng đầu ngày trong cuộc trò chuyện thân tình.*

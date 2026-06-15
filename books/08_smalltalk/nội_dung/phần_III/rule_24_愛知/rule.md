@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Tâm lý JP
+## Tâm lý JP
 
 - Aichi = công nghiệp ô tô (Toyota), tài chính cẩn trọng. Đối tác Nagoya hỏi rõ chi tiết, ít gật bừa.
 - "**ケチ**" (kiệt) là hình ảnh hài hước gắn với Nagoya nhưng họ tự nhận = **コスパ重視** = giỏi tính toán. Khen kiểu này thì được.
@@ -14,15 +14,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 6/2026, Dũng + Hà CTO bay xuống Nagoya gặp 伊藤さん để bàn POC mở rộng cho khách hàng Toyota tier-2. Lịch: họp buổi sáng → trưa **ひつまぶし** ở **あつた蓬莱軒** → chiều thăm nhà máy → tối ăn 味噌カツ ở **矢場とん**.
 
 ---
 
-## 💬 4 Scenarios
+## 4 Scenarios
 
-### 📍 Scenario 1 — Sáng — モーニング văn hóa Nagoya
+### Scenario 1 — Sáng — モーニング văn hóa Nagoya
 
 *8:30, dẫn Dũng vào コメダ珈琲店*
 
@@ -45,7 +45,7 @@ Tháng 6/2026, Dũng + Hà CTO bay xuống Nagoya gặp 伊藤さん để bàn 
 
 ---
 
-### 📍 Scenario 2 — Trưa ひつまぶし ở あつた蓬莱軒
+### Scenario 2 — Trưa ひつまぶし ở あつた蓬莱軒
 
 *嬉しそう*
 
@@ -68,7 +68,7 @@ Tháng 6/2026, Dũng + Hà CTO bay xuống Nagoya gặp 伊藤さん để bàn 
 
 ---
 
-### 📍 Scenario 3 — Chiều thăm nhà máy — Tư duy Toyota
+### Scenario 3 — Chiều thăm nhà máy — Tư duy Toyota
 
 *sau khi xem dây chuyền*
 
@@ -91,7 +91,7 @@ Tháng 6/2026, Dũng + Hà CTO bay xuống Nagoya gặp 伊藤さん để bàn 
 
 ---
 
-### 📍 Scenario 4 — Bữa tối 矢場とん 味噌カツ + 中日ドラゴンズ
+### Scenario 4 — Bữa tối 矢場とん 味噌カツ + 中日ドラゴンズ
 
 *矢場とん · impressed*
 
@@ -116,7 +116,7 @@ Tháng 6/2026, Dũng + Hà CTO bay xuống Nagoya gặp 伊藤さん để bàn 
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ Cà phê sáng (モーニング):
@@ -144,7 +144,7 @@ Tháng 6/2026, Dũng + Hà CTO bay xuống Nagoya gặp 伊藤さん để bàn 
 
 ---
 
-## 🗾 Regional Cheat Sheet — 愛知・名古屋
+## Bảng tra nhanh vùng miền — 愛知・名古屋
 
 | Hạng mục | Nội dung |
 |----------|----------|
@@ -163,7 +163,7 @@ Tháng 6/2026, Dũng + Hà CTO bay xuống Nagoya gặp 伊藤さん để bàn 
 
 ---
 
-## ⚠ NG
+## NG
 
 - Hỏi **「東京と比べてどうですか?」** kiểu so sánh tiêu cực → chạm tự ái.
 - Khen **「派手で華やか」** → lệch với tư duy 質実剛健 (giản dị, thực chất).
@@ -173,29 +173,29 @@ Tháng 6/2026, Dũng + Hà CTO bay xuống Nagoya gặp 伊藤さん để bàn 
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| ひつまぶし | — | Lươn nướng cơm 3 cách ăn |
-| 味噌カツ | みそかつ | Tonkatsu sốt miso |
-| 味噌煮込みうどん | みそにこみうどん | Udon hầm miso |
-| 手羽先 | てばさき | Cánh gà chiên Nagoya |
-| 八丁味噌 | はっちょうみそ | Miso đỏ Okazaki ủ lâu |
-| きしめん | — | Mì dẹt Nagoya |
-| 名古屋コーチン | なごやコーチン | Gà cao cấp Nagoya |
-| 小倉トースト | おぐらトースト | Bánh mì + bơ + đậu đỏ |
-| シロノワール | — | Bánh đặc trưng của Komeda |
-| 中日ドラゴンズ | ちゅうにちドラゴンズ | Đội bóng chày Nagoya |
-| バンテリンドーム | — | Sân Dragons |
-| 燃えよドラゴンズ | もえよドラゴンズ | Bài cổ vũ Dragons |
-| カクキュー | — | Hãng miso 1645年 Okazaki |
-| 慎重 | しんちょう | Cẩn trọng |
-| コスパ | — | Cost performance |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| ひつまぶし | ひつまぶし | — | Lươn nướng cơm 3 cách ăn |
+| 味噌カツ | みそかつ | VỊ TƯƠNG — | Tonkatsu sốt miso |
+| 味噌煮込みうどん | みそにこみうどん | VỊ TƯƠNG TIỄN — | Udon hầm miso |
+| 手羽先 | てばさき | THỦ VŨ TIÊN | Cánh gà chiên Nagoya |
+| 八丁味噌 | はっちょうみそ | BÁT ĐINH VỊ TƯƠNG | Miso đỏ Okazaki ủ lâu |
+| きしめん | きしめん | — | Mì dẹt Nagoya |
+| 名古屋コーチン | なごやコーチン | DANH CỔ KHUẤT — | Gà cao cấp Nagoya |
+| 小倉トースト | おぐらトースト | TIỂU THƯƠNG — | Bánh mì + bơ + đậu đỏ |
+| シロノワール | シロノワール | — | Bánh đặc trưng của Komeda |
+| 中日ドラゴンズ | ちゅうにちドラゴンズ | TRUNG NHẬT — | Đội bóng chày Nagoya |
+| バンテリンドーム | バンテリンドーム | — | Sân Dragons |
+| 燃えよドラゴンズ | もえよドラゴンズ | NHIÊN — | Bài cổ vũ Dragons |
+| カクキュー | カクキュー | — | Hãng miso 1645年 Okazaki |
+| 慎重 | しんちょう | THẬN TRỌNG | Cẩn trọng |
+| コスパ | コスパ | — | Cost performance |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Khách Aichi yêu cầu xem ROI 3 năm trước khi ký hợp đồng → tư duy Toyota, KHÔNG đẩy cảm xúc.
 **J2 — 表現読解:** "コスパ" khen tích cực vs "ケチ" trêu — phân biệt được mới dùng.

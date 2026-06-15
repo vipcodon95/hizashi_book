@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - **Golf** = thú chơi công việc số 1. Sếp Nhật 50-60 tuổi chơi golf hàng tuần. Đi golf 1 ngày = 18 hố + onsen + ăn tối = 8 tiếng gắn kết.
 - **Bóng chày** = bản sắc theo vùng. Hỏi đúng đội theo quê = chạm tim.
@@ -13,15 +13,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tuần này có 3 buổi với 3 khách có thú chơi khác nhau: ① Hiroshi mời chơi golf cuối tuần; ② Sato cuồng Sumo; ③ Yamamoto mê 阪神タイガース. Dũng phải biết nói đúng "ngôn ngữ" của 3 thú chơi này.
 
 ---
 
-## 💬 4 Scenario — hội thoại thực chiến
+## 4 Scenario — hội thoại thực chiến
 
-### 📍 Scenario 1 — ゴルフ: được mời + cách nhận lịch sự
+### Scenario 1 — ゴルフ: được mời + cách nhận lịch sự
 
 *ăn tối, sau ly thứ 3 · thận trọng — chưa giỏi · gây ấn tượng*
 
@@ -44,13 +44,13 @@ Tuần này có 3 buổi với 3 khách có thú chơi khác nhau: ① Hiroshi m
 | **ズン** | 「お風呂と懇親会も!ぜひ、よろしくお願いします。」 |
 |  | *Cả tắm với tiệc luôn! Vâng, em xin nhờ anh.* |
 
-📝【1】 **コンペ** = giải đấu (giải golf nội bộ / giữa các công ty). 【2】 **スコア** = số gậy 18 hố. 100 = mới biết. 90 = trung bình. 80 = giỏi. 【3】 **広島カントリークラブ** = sân golf cao cấp Hiroshima.
+【1】 **コンペ** = giải đấu (giải golf nội bộ / giữa các công ty). 【2】 **スコア** = số gậy 18 hố. 100 = mới biết. 90 = trung bình. 80 = giỏi. 【3】 **広島カントリークラブ** = sân golf cao cấp Hiroshima.
 
 > **VN:** Từ vựng golf: **コンペ / スコア / ホームコース / ドライバー / ヤード / ラウンド / キャディ / 18ホール**. Khi được mời → **nhận luôn** kèm thành thật về trình độ. Đừng từ chối — lời mời golf = tín hiệu tin tưởng.
 
 ---
 
-### 📍 Scenario 2 — 野球: 阪神タイガース (Yamamoto cuồng)
+### Scenario 2 — 野球: 阪神タイガース (Yamamoto cuồng)
 
 *izakaya Osaka, mở tin tức · rạng rỡ · thực sự cảm phục*
 
@@ -73,7 +73,7 @@ Tuần này có 3 buổi với 3 khách có thú chơi khác nhau: ① Hiroshi m
 | **ズン** | 「六甲おろし、覚えていきます!」 |
 |  | *Rokkō Oroshi em sẽ thuộc trước!* |
 
-📝【1】 **佐藤輝明** = Sato Teruaki, tay đập chủ lực của Hanshin Tigers. 【2】 **サトテル** = biệt danh fan đặt. 【3】 **マジック点灯** = "số ma thuật" để vô địch giải. 【4】 **甲子園** = sân Koshien (sân nhà Hanshin). 【5】 **六甲おろし** = bài hát cổ vũ của Hanshin (fan thuộc lòng).
+【1】 **佐藤輝明** = Sato Teruaki, tay đập chủ lực của Hanshin Tigers. 【2】 **サトテル** = biệt danh fan đặt. 【3】 **マジック点灯** = "số ma thuật" để vô địch giải. 【4】 **甲子園** = sân Koshien (sân nhà Hanshin). 【5】 **六甲おろし** = bài hát cổ vũ của Hanshin (fan thuộc lòng).
 
 > **VN:** Đội bóng chày theo vùng:
 > - **Tokyo** → 巨人 / ヤクルト
@@ -88,7 +88,7 @@ Tuần này có 3 buổi với 3 khách có thú chơi khác nhau: ① Hiroshi m
 
 ---
 
-### 📍 Scenario 3 — 相撲: người lớn tuổi mê (Sato 60t)
+### Scenario 3 — 相撲: người lớn tuổi mê (Sato 60t)
 
 *ăn tối, mở TV thấy tin sumo · vui thích*
 
@@ -111,13 +111,13 @@ Tuần này có 3 buổi với 3 khách có thú chơi khác nhau: ① Hiroshi m
 | **ズン** | 「ちゃんこ、<ruby>力士<rt>りきし</rt></ruby>の食事ですよね。**チャンコ屋**ある通り、<ruby>両国<rt>りょうごく</rt></ruby>に。」 |
 |  | *Chanko là món của lực sĩ nhỉ. Ở Ryōgoku có cả phố quán Chanko.* |
 
-📝【1】 **6 場所/năm**: 1月初場所(東京)、3月大阪、5月東京、7月名古屋、9月東京、11月**九州場所**. 【2】 **大の里** = Ōnosato — yokozuna trẻ đang hot 2025-26. 【3】 **全勝優勝** = thắng cả 15 trận. 【4】 **福岡国際センター** = sân Kyushu basho. 【5】 **枡席** = ô vé 4 người ngồi sàn. 【6】 **ちゃんこ鍋** = lẩu sumo. 【7】 **断髪式** = lễ cắt mái tóc khi sumo giải nghệ.
+【1】 **6 場所/năm**: 1月初場所(東京)、3月大阪、5月東京、7月名古屋、9月東京、11月**九州場所**. 【2】 **大の里** = Ōnosato — yokozuna trẻ đang hot 2025-26. 【3】 **全勝優勝** = thắng cả 15 trận. 【4】 **福岡国際センター** = sân Kyushu basho. 【5】 **枡席** = ô vé 4 người ngồi sàn. 【6】 **ちゃんこ鍋** = lẩu sumo. 【7】 **断髪式** = lễ cắt mái tóc khi sumo giải nghệ.
 
 > **VN:** Từ vựng sumo: **場所 / 横綱・大関・関脇 / 幕内 / 優勝 / 千秋楽 / 土俵 / 枡席 / ちゃんこ**. Người 60 tuổi mê sumo nhưng thế hệ trẻ Nhật đang xa rời → ai biết = quý.
 
 ---
 
-### 📍 Scenario 4 — Biến thể: Khách trẻ thú chơi hiện đại (Tanaka 35t — chạy bộ + game)
+### Scenario 4 — Biến thể: Khách trẻ thú chơi hiện đại (Tanaka 35t — chạy bộ + game)
 
 *slack, gửi link Strava*
 
@@ -140,13 +140,13 @@ Tuần này có 3 buổi với 3 khách có thú chơi khác nhau: ① Hiroshi m
 | **ズン** | 「スプラ、X帯でくすぶってます…田中さん、上手そう。」 |
 |  | *Splatoon em vẫn loanh quanh rank X... anh Tanaka chắc giỏi.* |
 
-📝【1】 **サブ4** = dưới 4 tiếng (chạy full marathon < 4h). 【2】 **インターバル** = bài tập chạy biến tốc. 【3】 **皇居ラン** = chạy quanh 皇居 (Hoàng cung) 5km. 【4】 **ランステ** (ランニングステーション) = trạm có tủ khóa + tắm cho người chạy bộ.
+【1】 **サブ4** = dưới 4 tiếng (chạy full marathon < 4h). 【2】 **インターバル** = bài tập chạy biến tốc. 【3】 **皇居ラン** = chạy quanh 皇居 (Hoàng cung) 5km. 【4】 **ランステ** (ランニングステーション) = trạm có tủ khóa + tắm cho người chạy bộ.
 
 > **VN:** Khách trẻ 30t thú chơi hiện đại: **ランニング / ジム / 自転車 / Switch ゲーム / Netflix / アウトドア / キャンプ**. Ghép đúng thế hệ = mở được quan hệ.
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ GOLF (được mời):
@@ -172,7 +172,7 @@ Tuần này có 3 buổi với 3 khách có thú chơi khác nhau: ① Hiroshi m
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - Mời người 60t đi **karaoke + game center** → lệch thế hệ.
 - Hỏi sumo với khách 30t (chưa chắc quan tâm) → trật chủ đề.
@@ -182,37 +182,37 @@ Tuần này có 3 buổi với 3 khách có thú chơi khác nhau: ① Hiroshi m
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 趣味 | しゅみ | Thú chơi / sở thích |
-| ゴルフ | — | Golf |
-| コンペ | — | Giải đấu (golf) |
-| スコア | — | Số gậy |
-| ホームコース | — | Sân golf chủ chốt |
-| ラウンド | — | 1 vòng 18 hố |
-| キャディ | — | Caddy |
-| 野球 | やきゅう | Bóng chày |
-| プロ野球 | プロやきゅう | NPB |
-| セ・パ | — | Central League / Pacific League |
-| 甲子園 | こうしえん | Sân Hanshin |
-| ホームラン | — | Home run |
-| 相撲 | すもう | Sumo |
-| 場所 | ばしょ | Giải đấu sumo (15 ngày) |
-| 横綱 | よこづな | Hạng cao nhất |
-| 大関 | おおぜき | Hạng 2 |
-| 幕内 | まくうち | Hạng đấu cao nhất |
-| 千秋楽 | せんしゅうらく | Ngày cuối basho |
-| 枡席 | ますせき | Ô vé 4 người sumo |
-| ちゃんこ鍋 | ちゃんこなべ | Lẩu sumo |
-| 釣り | つり | Câu cá |
-| 登山 | とざん | Leo núi |
-| キャンプ | — | Cắm trại (giới trẻ) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 趣味 | しゅみ | THÚ VỊ | Thú chơi / sở thích |
+| ゴルフ | ゴルフ | — | Golf |
+| コンペ | コンペ | — | Giải đấu (golf) |
+| スコア | スコア | — | Số gậy |
+| ホームコース | ホームコース | — | Sân golf chủ chốt |
+| ラウンド | ラウンド | — | 1 vòng 18 hố |
+| キャディ | キャディ | — | Caddy |
+| 野球 | やきゅう | DÃ CẦU | Bóng chày |
+| プロ野球 | プロやきゅう | DÃ CẦU | NPB |
+| セ・パ | セ・パ | — | Central League / Pacific League |
+| 甲子園 | こうしえん | GIÁP TỬ VIÊN | Sân Hanshin |
+| ホームラン | ホームラン | — | Home run |
+| 相撲 | すもう | TƯƠNG BỘC | Sumo |
+| 場所 | ばしょ | TRƯỜNG SỞ | Giải đấu sumo (15 ngày) |
+| 横綱 | よこづな | HOÀNH CƯƠNG | Hạng cao nhất |
+| 大関 | おおぜき | ĐẠI QUAN | Hạng 2 |
+| 幕内 | まくうち | MẠC NỘI | Hạng đấu cao nhất |
+| 千秋楽 | せんしゅうらく | THIÊN THU LẠC | Ngày cuối basho |
+| 枡席 | ますせき | ĐẨU TỊCH | Ô vé 4 người sumo |
+| ちゃんこ鍋 | ちゃんこなべ | — | Lẩu sumo |
+| 釣り | つり | ĐIẾU | Câu cá |
+| 登山 | とざん | ĐĂNG SƠN | Leo núi |
+| キャンプ | キャンプ | — | Cắm trại (giới trẻ) |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Ghép đúng đội bóng chày với 出身 (Osaka→阪神 / Hiroshima→カープ).
 **J2 — 表現読解:** Nhận biết tín hiệu mời golf = dấu hiệu quan hệ đang sâu thêm.

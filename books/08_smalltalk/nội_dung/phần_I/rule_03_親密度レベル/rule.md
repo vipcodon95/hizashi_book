@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (3 dòng)
+## Tâm lý JP (3 dòng)
 
 - Người Nhật xây quan hệ **leo bậc**, không nhảy. Người cấp dưới cố nhảy bậc = mất điểm.
 - Mỗi cấp khách "mở cửa" cho 1 vùng chủ đề mới — mình phải **đợi tín hiệu** (khách hỏi mình vùng đó trước).
@@ -12,7 +12,7 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 5 cấp độ với 4 nhóm chủ đề cho từng cấp:
 
@@ -26,9 +26,9 @@
 
 ---
 
-## 💬 4 Scenario — hội thoại thực chiến
+## 4 Scenario — hội thoại thực chiến
 
-### 📍 Scenario 1 — L1: Mới gặp (chỉ thời tiết + di chuyển)
+### Scenario 1 — L1: Mới gặp (chỉ thời tiết + di chuyển)
 
 *lần đầu gặp 加藤さん, vừa giao danh thiếp*
 
@@ -41,13 +41,13 @@
 | **ズン** | 「そうなんですね。本日は<ruby>短<rt>みじか</rt></ruby>い時間ですが、よろしくお<ruby>願<rt>ねが</rt></ruby>いします。」 |
 |  | *Vậy ạ. Hôm nay thời gian ngắn nhưng nhờ anh giúp đỡ ạ.* |
 
-✅ **L1 đúng:** thời tiết + di chuyển. KHÔNG mở "ご家族は?" / "趣味は?" — quá sớm.
+ **L1 đúng:** thời tiết + di chuyển. KHÔNG mở "ご家族は?" / "趣味は?" — quá sớm.
 
-❌ **L1 NG:** 「加藤さんはご結婚されてますか?」 (lần đầu gặp = suồng sã / なれなれしい).
+ **L1 NG:** 「加藤さんはご結婚されてますか?」 (lần đầu gặp = suồng sã / なれなれしい).
 
 ---
 
-### 📍 Scenario 2 — L2: Sau 2 dự án — mở 出身地 + 食
+### Scenario 2 — L2: Sau 2 dự án — mở 出身地 + 食
 
 *lần thứ 4 gặp 松本, ăn trưa*
 
@@ -62,13 +62,13 @@
 | **松本** | 「じゃあ次回ご<ruby>案内<rt>あんない</rt></ruby>しますよ。**<ruby>門前仲町<rt>もんぜんなかちょう</rt></ruby>**にいい<ruby>店<rt>みせ</rt></ruby>があってね。」 |
 |  | *Vậy lần sau tôi dẫn đi. Ở Monzen-Nakacho có quán ngon.* |
 
-📝【1】 L2 = đã được khách kể về quê 1 lần trước → mình nhắc lại + mở rộng. KHÔNG nhảy thẳng vào "ご家族は?" — chưa đến cấp.
+【1】 L2 = đã được khách kể về quê 1 lần trước → mình nhắc lại + mở rộng. KHÔNG nhảy thẳng vào "ご家族は?" — chưa đến cấp.
 
 > **VN:** Ở L2, "món ăn của quê" là chủ đề vàng. Sau khi mở được, khách thường tự nguyện mời mình lần sau cùng đi ăn → leo lên L3.
 
 ---
 
-### 📍 Scenario 3 — L3: Bữa tối thứ 3 — vào 趣味 + thể thao
+### Scenario 3 — L3: Bữa tối thứ 3 — vào 趣味 + thể thao
 
 *izakaya với 中村, lần thứ 5 ăn tối*
 
@@ -83,15 +83,15 @@
 | **中村** | 「いいねえ、今度<ruby>札幌<rt>さっぽろ</rt></ruby>来たらエスコン<ruby>連<rt>つ</rt></ruby>れてくよ。<ruby>試合<rt>しあい</rt></ruby>よりビールうまいから(笑)」 |
 |  | *Hay đó, lần sau đến Sapporo tôi dẫn đi Es Con. Bia ngon hơn cả trận.* |
 
-📝【2】 L3 mở khi khách bắt đầu **mời mình tham gia hoạt động** ("連れてくよ") = tín hiệu rõ ràng đã sang L3.
+【2】 L3 mở khi khách bắt đầu **mời mình tham gia hoạt động** ("連れてくよ") = tín hiệu rõ ràng đã sang L3.
 
-✅ **L3 OK:** thể thao theo đội bóng quê / sở thích cuối tuần / 旅行先.
+ **L3 OK:** thể thao theo đội bóng quê / sở thích cuối tuần / 旅行先.
 
-❌ **L3 chưa được:** 「奥様も野球お好きですか?」 → vẫn chưa mở rộng chủ đề gia đình, chỉ mở khi khách kể trước.
+ **L3 chưa được:** 「奥様も野球お好きですか?」 → vẫn chưa mở rộng chủ đề gia đình, chỉ mở khi khách kể trước.
 
 ---
 
-### 📍 Scenario 4 — L4 → L1 fail: Nhảy bậc sai
+### Scenario 4 — L4 → L1 fail: Nhảy bậc sai
 
 *lần đầu gặp ズン, mới giới thiệu · NG — nhảy thẳng L4 · cứng mặt*
 
@@ -104,13 +104,13 @@
 | **加藤** | 「…ええ、まあ…(<ruby>內心<rt>ないしん</rt></ruby>: lần đầu hỏi vầy?)」 |
 |  | *...ờ, à... (Trong lòng: lần đầu gặp đã hỏi thế này?)* |
 
-❌ **Vì sao XẤU:** Lần đầu gặp = L1. Nhảy thẳng vào câu hỏi gia đình = なれなれしい. Mất điểm trang trọng. Khách Nhật lớn tuổi 50t+ rất nhạy với điều này.
+ **Vì sao XẤU:** Lần đầu gặp = L1. Nhảy thẳng vào câu hỏi gia đình = なれなれしい. Mất điểm trang trọng. Khách Nhật lớn tuổi 50t+ rất nhạy với điều này.
 
-✅ **Đúng:** L1 thời tiết → đợi 2-3 lần gặp → L2 quê + món → đợi khách mời → L3.
+ **Đúng:** L1 thời tiết → đợi 2-3 lần gặp → L2 quê + món → đợi khách mời → L3.
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ L1 — MỚI GẶP (an toàn 100%):
@@ -139,7 +139,7 @@
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - **Nhảy bậc** L1 → L4 (gia đình) ngay buổi đầu → なれなれしい, mất uy tín.
 - **Hỏi tuổi cụ thể** ở mọi cấp (đặc biệt phụ nữ). Người dày dạn gọi là 大ベテラン chứ không hỏi tuổi.
@@ -149,22 +149,22 @@
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 親密度 | しんみつど | Mức độ thân mật |
-| なれなれしい | — | Suồng sã, thân quá mức (tiêu cực) |
-| 親しみやすい | したしみやすい | Dễ gần (tích cực) |
-| 距離感 | きょりかん | Cảm giác khoảng cách quan hệ |
-| 出身地 | しゅっしんち | Quê quán |
-| 趣味 | しゅみ | Sở thích |
-| 本音 | ほんね | Suy nghĩ thật (vs 建前) |
-| 建前 | たてまえ | Lời ngoài mặt |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 親密度 | しんみつど | THÂN MẬT ĐỘ | Mức độ thân mật |
+| なれなれしい | なれなれしい | — | Suồng sã, thân quá mức (tiêu cực) |
+| 親しみやすい | したしみやすい | THÂN | Dễ gần (tích cực) |
+| 距離感 | きょりかん | CỰ LY CẢM | Cảm giác khoảng cách quan hệ |
+| 出身地 | しゅっしんち | XUẤT THÂN ĐỊA | Quê quán |
+| 趣味 | しゅみ | THÚ VỊ | Sở thích |
+| 本音 | ほんね | BẢN ÂM | Suy nghĩ thật (vs 建前) |
+| 建前 | たてまえ | KIẾN TIỀN | Lời ngoài mặt |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Đo đúng cấp quan hệ theo số lần gặp + chất lượng tương tác.
 **J2 — 表現読解:** Bắt tín hiệu khách "mở cửa" cấp tiếp theo (mời cùng đi / chia sẻ chi tiết gia đình / dùng ngôn ngữ thân mật hơn).

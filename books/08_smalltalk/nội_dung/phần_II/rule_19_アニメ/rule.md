@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - 30-40t đều xem anime — **エヴァ / ジブリ / 鬼滅 / 進撃 / ワンピ** là vốn chung.
 - Senior 50-60t có thể KHÔNG xem hoặc coi là "**子供のもの**". Nhắc tên cụ thể trước khi khách mở = mạo hiểm.
@@ -13,15 +13,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Dũng dùng chủ đề anime 4 cách: ① gắn kết tốt với Tanaka 35t qua 鬼滅; ② cẩn thận với Sato 60t — chỉ nhắc ジブリ; ③ mở mới với Yamamoto qua 名探偵コナン (ai cũng biết); ④ Linh (thực tập sinh) kể quá đà về 推し với senior — bị nhắc.
 
 ---
 
-## 💬 4 Scenario — hội thoại thực chiến
+## 4 Scenario — hội thoại thực chiến
 
-### 📍 Scenario 1 — Gắn kết tốt: Tanaka 35t qua 鬼滅
+### Scenario 1 — Gắn kết tốt: Tanaka 35t qua 鬼滅
 
 *Slack, sticker 禰豆子*
 
@@ -44,15 +44,15 @@ Dũng dùng chủ đề anime 4 cách: ① gắn kết tốt với Tanaka 35t qu
 | **ズン** | 「**もののけ姫**派です。**サン**【13】と**アシタカ**の…<ruby>自然<rt>しぜん</rt></ruby>と<ruby>人間<rt>にんげん</rt></ruby>の<ruby>対立<rt>たいりつ</rt></ruby>、深いテーマで。」 |
 |  | *Em phe Mononoke. San với Ashitaka... đối lập tự nhiên-con người, theme sâu.* |
 
-📝【1】 **鬼滅の刃** = Demon Slayer. 【2】 **無限城編** = arc cuối. 【3】 **炭治郎** = nhân chính. 【4】 **煉獄杏寿郎** = Rengoku, Hashira lửa. 【5】 **柱** = Hashira (top 9 demon slayer). 【6】 **冨岡義勇** = Hashira nước. 【7】 **LiSA** = ca sĩ chủ đề. 【8】 **炎** = bài Mugen Train. 【9】 **呪術廻戦** = Jujutsu Kaisen. 【10】 **チェンソーマン** = Chainsaw Man. 【11】 **進撃の巨人** = Attack on Titan. 【12】 **エレン** = nhân chính 進撃. 【13】 **サン** = nhân nữ もののけ姫.
+【1】 **鬼滅の刃** = Demon Slayer. 【2】 **無限城編** = arc cuối. 【3】 **炭治郎** = nhân chính. 【4】 **煉獄杏寿郎** = Rengoku, Hashira lửa. 【5】 **柱** = Hashira (top 9 demon slayer). 【6】 **冨岡義勇** = Hashira nước. 【7】 **LiSA** = ca sĩ chủ đề. 【8】 **炎** = bài Mugen Train. 【9】 **呪術廻戦** = Jujutsu Kaisen. 【10】 **チェンソーマン** = Chainsaw Man. 【11】 **進撃の巨人** = Attack on Titan. 【12】 **エレン** = nhân chính 進撃. 【13】 **サン** = nhân nữ もののけ姫.
 
 > **VN:** Anime hiện đại (鬼滅 / 呪術 / 進撃) = **gắn kết mạnh** với 30-40t. Từ vựng: **柱 / 主題歌 / 最終回 / 劇場版 / OP/ED**. Biết **Studio Ghibli + Studio MAPPA + Studio TRIGGER** = trình độ chuyên.
 
 ---
 
-### 📍 Scenario 2 — Cẩn thận: Sato 60t — chỉ ジブリ
+### Scenario 2 — Cẩn thận: Sato 60t — chỉ ジブリ
 
-*dinner, mở topic an toàn*
+*bữa tối, mở chủ đề an toàn*
 
 | Vai | Câu |
 |---------|-----|
@@ -73,13 +73,13 @@ Dũng dùng chủ đề anime 4 cách: ① gắn kết tốt với Tanaka 35t qu
 | **佐藤** | 「俺ら<ruby>世代<rt>せだい</rt></ruby>の<ruby>人生<rt>じんせい</rt></ruby><ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>るような、深い<ruby>映画<rt>えいが</rt></ruby>。次回<ruby>博多<rt>はかた</rt></ruby>来たら、ジブリ<ruby>美術館<rt>びじゅつかん</rt></ruby>の話もしたいね。」 |
 |  | *Phim như nhìn lại đời thế hệ anh, sâu lắm. Lần sau em đến Hakata, anh cũng muốn nói chuyện bảo tàng Ghibli.* |
 
-📝【1】 **ジブリ** = Studio Ghibli. 【2】 **となりのトトロ** = My Neighbor Totoro (1988). 【3】 **メイ・サツキ** = 2 chị em Totoro. 【4】 **千と千尋の神隠し** = Spirited Away (Oscar 2003). 【5】 **ハウルの動く城** = Howl's Moving Castle. 【6】 **宮崎駿** = Miyazaki Hayao. 【7】 **君たちはどう生きるか** = The Boy and the Heron (2023, Oscar 2024).
+【1】 **ジブリ** = Studio Ghibli. 【2】 **となりのトトロ** = My Neighbor Totoro (1988). 【3】 **メイ・サツキ** = 2 chị em Totoro. 【4】 **千と千尋の神隠し** = Spirited Away (Oscar 2003). 【5】 **ハウルの動く城** = Howl's Moving Castle. 【6】 **宮崎駿** = Miyazaki Hayao. 【7】 **君たちはどう生きるか** = The Boy and the Heron (2023, Oscar 2024).
 
 > **VN:** ジブリ = **an toàn vượt thế hệ**. Senior xem qua con/cháu. Từ vựng: **宮崎駿 / 高畑勲 / 鈴木敏夫 / スタジオジブリ**. Phim mới: **君生き** Oscar 2024.
 
 ---
 
-### 📍 Scenario 3 — Ai cũng biết: 名探偵コナン (Yamamoto)
+### Scenario 3 — Ai cũng biết: 名探偵コナン (Yamamoto)
 
 *dinner Osaka, casual*
 
@@ -102,13 +102,13 @@ Dũng dùng chủ đề anime 4 cách: ① gắn kết tốt với Tanaka 35t qu
 | **山本** | 「ベトナムの方がドラえもん人気って聞いたことある。<ruby>文化<rt>ぶんか</rt></ruby><ruby>伝<rt>つた</rt></ruby>わってるんやね、嬉しい。」 |
 |  | *Nghe nói Việt Nam Doraemon phổ biến hơn. Văn hóa lan truyền, vui nhỉ.* |
 
-📝【1】 **名探偵コナン** = Detective Conan (1996-). 【2】 = phim chiếu rạp 2024. 【3】 **毛利蘭** = nữ chính. 【4】 **新一** = nam chính. 【5】 = Conan vừa mới được kể với Ran sự thật. 【6】 **安室透** = nhân vật được fan mê. 【7】 **赤井秀一** = FBI character. 【8】 **安室の女** = "ladies of Amuro" (slang fan girl). 【9】 **怪盗キッド** = Kaitō Kid (anti-hero). 【10】 **サザエさん** = Sazae-san (1969-, longest running anime). 【11】 **ちびまる子ちゃん** = Chibi Maruko-chan.
+【1】 **名探偵コナン** = Detective Conan (1996-). 【2】 = phim chiếu rạp 2024. 【3】 **毛利蘭** = nữ chính. 【4】 **新一** = nam chính. 【5】 = Conan vừa mới được kể với Ran sự thật. 【6】 **安室透** = nhân vật được fan mê. 【7】 **赤井秀一** = FBI character. 【8】 **安室の女** = "ladies of Amuro" (slang fan girl). 【9】 **怪盗キッド** = Kaitō Kid (anti-hero). 【10】 **サザエさん** = Sazae-san (1969-, longest running anime). 【11】 **ちびまる子ちゃん** = Chibi Maruko-chan.
 
 > **VN:** Anime quốc dân ai cũng biết 国民的アニメ: **コナン / サザエさん / ちびまる子 / ドラえもん / クレヨンしんちゃん / アンパンマン**. An toàn vượt thế hệ.
 
 ---
 
-### 📍 Scenario 4 — NG: Linh kể quá đà 推し với senior
+### Scenario 4 — NG: Linh kể quá đà 推し với senior
 
 *Lần đầu gặp Sato · Linh kể quá đà · khách không biết · không bắt được nhịp · lịch sự lùi lại · Dũng gỡ tình huống · trở lại thoải mái*
 
@@ -127,16 +127,16 @@ Dũng dùng chủ đề anime 4 cách: ① gắn kết tốt với Tanaka 35t qu
 | **佐藤** | 「あ、ジブリね。**もののけ姫**は俺も好きだよ。」 |
 |  | *À, Ghibli. Mononoke anh cũng thích đó.* |
 
-❌ **Sao sai:** Senior 60t có thể không biết 呪術 / チェンソーマン. Đẩy anime hiện đại → khách lúng túng. Phải đợi khách mở hoặc dùng ジブリ làm cầu.
+ **Sao sai:** Senior 60t có thể không biết 呪術 / チェンソーマン. Đẩy anime hiện đại → khách lúng túng. Phải đợi khách mở hoặc dùng ジブリ làm cầu.
 
-✅ **Đúng:** Bắt đầu bằng **ジブリ** / **コナン** / **サザエさん** với senior. Anime hiện đại chỉ với 30-40t.
+ **Đúng:** Bắt đầu bằng **ジブリ** / **コナン** / **サザエさん** với senior. Anime hiện đại chỉ với 30-40t.
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
-■ AN TOÀN vượt thế hệ (cả senior):
+■ AN TOÀN vượt thế hệ (cả người cấp cao):
 「ジブリの作品、お好きですか?」
 「[千と千尋/もののけ姫]、ベトナムでも人気です。」
 「[コナン]の劇場版、毎年楽しみで。」
@@ -147,16 +147,16 @@ Dũng dùng chủ đề anime 4 cách: ① gắn kết tốt với Tanaka 35t qu
 「[五条悟/煉獄さん]、ファンです!」
 「[LiSA/Ado/YOASOBI]の主題歌、いいですよね。」
 
-■ TRÁNH với senior:
+■ TRÁNH với người cấp cao:
 × いきなり「呪術廻戦」「チェンソーマン」「Vtuber」
 × 「萌え」「オタク」「推し」(slang)
 ```
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
-- Đẩy anime hiện đại với senior 60t **lần đầu gặp** → lệch.
+- Đẩy anime hiện đại với người cấp cao 60t **lần đầu gặp** → lệch.
 - Dùng tiếng lóng **オタク / 萌え / 尊い / エモい** với senior → gây bối rối.
 - Phân tích quá sâu "鬼滅 vs 進撃 ý nghĩa triết học" → quá nặng cho zatsudan.
 - Khoe cosplay / có đồ sưu tầm → lệch vai chuyên nghiệp.
@@ -164,33 +164,33 @@ Dũng dùng chủ đề anime 4 cách: ① gắn kết tốt với Tanaka 35t qu
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| アニメ | — | Anime |
-| 漫画 | まんが | Manga |
-| ジブリ | — | Studio Ghibli |
-| 国民的アニメ | こくみんてきあにめ | Anime quốc dân |
-| 劇場版 | げきじょうばん | Phim chiếu rạp |
-| 続編 | ぞくへん | Phần tiếp |
-| 主題歌 | しゅだいか | Bài chủ đề |
-| OP/ED | — | Opening / Ending |
-| 最終回 | さいしゅうかい | Tập cuối |
-| 主人公 | しゅじんこう | Nhân vật chính |
-| 推し | おし | Nhân vật yêu thích |
-| 推しキャラ | — | Nhân vật mình "đẩy" (oshi) |
-| 萌え | もえ | "Rung động dễ thương" (tiếng lóng) |
-| オタク | — | Otaku |
-| 二次創作 | にじそうさく | Fan art / fan fiction |
-| 聖地巡礼 | せいちじゅんれい | Hành hương thăm địa điểm anime |
-| コミケ | — | Comic Market |
-| アニメ化 | あにめか | Chuyển thể manga thành anime |
-| 実写化 | じっしゃか | Chuyển thể thành phim người đóng |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| アニメ | アニメ | — | Anime |
+| 漫画 | まんが | MẠN HỌA | Manga |
+| ジブリ | ジブリ | — | Studio Ghibli |
+| 国民的アニメ | こくみんてきあにめ | QUỐC DÂN ĐÍCH | Anime quốc dân |
+| 劇場版 | げきじょうばん | KỊCH TRƯỜNG BẢN | Phim chiếu rạp |
+| 続編 | ぞくへん | TỤC THIÊN | Phần tiếp |
+| 主題歌 | しゅだいか | CHỦ ĐỀ CA | Bài chủ đề |
+| OP/ED | OP/ED | — | Opening / Ending |
+| 最終回 | さいしゅうかい | TỐI CHUNG HỒI | Tập cuối |
+| 主人公 | しゅじんこう | CHỦ NHÂN CÔNG | Nhân vật chính |
+| 推し | おし | — | Nhân vật yêu thích |
+| 推しキャラ | おしキャラ | — | Nhân vật mình "đẩy" (oshi) |
+| 萌え | もえ | — | "Rung động dễ thương" (tiếng lóng) |
+| オタク | オタク | — | Otaku |
+| 二次創作 | にじそうさく | NHỊ THỨ SÁNG TÁC | Fan art / fan fiction |
+| 聖地巡礼 | せいちじゅんれい | THÁNH ĐỊA TUẦN LỄ | Hành hương thăm địa điểm anime |
+| コミケ | コミケ | — | Comic Market |
+| アニメ化 | あにめか | — | Chuyển thể manga thành anime |
+| 実写化 | じっしゃか | THỰC TẢ HÓA | Chuyển thể thành phim người đóng |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Phân biệt khi nào dùng anime hiện đại / khi nào ジブリ.
 **J2 — 表現読解:** Phân biệt **オタク** (tiếng lóng cũ, nặng) vs **推し** (mới, nhẹ nhàng hơn).

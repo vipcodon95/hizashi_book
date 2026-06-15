@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Tâm lý JP
+## Tâm lý JP
 
 - Người Hokkaido tự hào "本州とは違う" — khí hậu, ẩm thực, không gian rộng — đừng gộp với 東北.
 - 雪まつり (đầu tháng 2 ở Sapporo Ōdōri) là lễ hội niềm tự hào toàn quốc.
@@ -14,15 +14,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 5/2026, Dũng + chị Hương được mời lên **công tác ngoài văn phòng tại Sapporo** 2 ngày với 中村CFO + đội chi nhánh Sapporo. Anh Nakamura quê **Sapporo** chính gốc. Lịch: tham quan Otaru → ăn tối ở 札幌ラーメン横丁 → sáng hôm sau ăn 海鮮丼 ở chợ Nijo. Dũng đã tìm hiểu kỹ trước khi đi.
 
 ---
 
-## 💬 4 Scenarios
+## 4 Scenarios
 
-### 📍 Scenario 1 — Trước khi đến Hokkaido (chuẩn bị, taxi sân bay Haneda)
+### Scenario 1 — Trước khi đến Hokkaido (chuẩn bị, taxi sân bay Haneda)
 
 | Vai | Câu |
 |---------|-----|
@@ -43,7 +43,7 @@ Tháng 5/2026, Dũng + chị Hương được mời lên **công tác ngoài vă
 
 ---
 
-### 📍 Scenario 2 — Tại 札幌ラーメン横丁 bữa tối đầu tiên
+### Scenario 2 — Tại 札幌ラーメン横丁 bữa tối đầu tiên
 
 *ngồi xuống quầy*
 
@@ -66,7 +66,7 @@ Tháng 5/2026, Dũng + chị Hương được mời lên **công tác ngoài vă
 
 ---
 
-### 📍 Scenario 3 — Sáng hôm sau, chợ 二条市場 ăn 海鮮丼
+### Scenario 3 — Sáng hôm sau, chợ 二条市場 ăn 海鮮丼
 
 | Vai | Câu |
 |---------|-----|
@@ -87,7 +87,7 @@ Tháng 5/2026, Dũng + chị Hương được mời lên **công tác ngoài vă
 
 ---
 
-### 📍 Scenario 4 — VÙNG CẨN THẬN: nhầm Hokkaido với Tohoku
+### Scenario 4 — VÙNG CẨN THẬN: nhầm Hokkaido với Tohoku
 
 *NG · hơi cau mày · luống cuống*
 
@@ -100,11 +100,11 @@ Tháng 5/2026, Dũng + chị Hương được mời lên **công tác ngoài vă
 | **ズン** | 「すみません!北海道と東北、つい…」 |
 |  | *Em xin lỗi! Em vô tình gộp Hokkaido với Tohoku...* |
 
-✅ **Đúng:** "中村CFOは札幌のご出身でしたよね、ライラックの季節はいかがですか?" — hỏi cụ thể tỉnh + đặc trưng vùng = không bao giờ sai.
+ **Đúng:** "中村CFOは札幌のご出身でしたよね、ライラックの季節はいかがですか?" — hỏi cụ thể tỉnh + đặc trưng vùng = không bao giờ sai.
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 **■ MỞ CHỦ ĐỀ HOKKAIDO:**
 
@@ -130,7 +130,7 @@ Tháng 5/2026, Dũng + chị Hương được mời lên **công tác ngoài vă
 
 ---
 
-## 🗾 Bảng tra nhanh vùng miền — 北海道
+## Bảng tra nhanh vùng miền — 北海道
 
 | Hạng mục | Nội dung |
 |----------|----------|
@@ -147,7 +147,7 @@ Tháng 5/2026, Dũng + chị Hương được mời lên **công tác ngoài vă
 
 ---
 
-## ⚠ NG
+## NG
 
 - **Gộp 北海道 với 東北** → sai vùng nghiêm trọng. Hokkaido là đảo riêng.
 - Khen **「寒くて大変ですね」** kiểu thương hại → người Hokkaido tự hào về tuyết, không cần ai thương.
@@ -157,26 +157,26 @@ Tháng 5/2026, Dũng + chị Hương được mời lên **công tác ngoài vă
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 海鮮丼 | かいせんどん | Cơm hải sản tươi (uni/ikura/cá hồi) |
-| ウニ | — | Nhím biển |
-| イクラ | — | Trứng cá hồi |
-| ジンギスカン | — | BBQ thịt cừu Hokkaido |
-| 雪まつり | ゆきまつり | Lễ hội tuyết (Sapporo, đầu 2月) |
-| ライラック | — | Hoa lilac (quốc hoa Sapporo) |
-| 富良野 | ふらの | Furano — cánh đồng lavender |
-| 函館夜景 | はこだてやけい | Cảnh đêm Hakodate (top 3 thế giới) |
-| 大通公園 | おおどおりこうえん | Công viên Ōdōri (Sapporo) |
-| エスコンフィールド | — | Sân vận động Fighters mới (2023) |
-| なまら | — | "Cực kỳ" (tiếng địa phương Hokkaido) |
-| 積丹 | しゃこたん | Bán đảo Shakotan — nổi tiếng uni |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 海鮮丼 | かいせんどん | HẢI TIÊN ĐÔN | Cơm hải sản tươi (uni/ikura/cá hồi) |
+| ウニ | ウニ | — | Nhím biển |
+| イクラ | イクラ | — | Trứng cá hồi |
+| ジンギスカン | ジンギスカン | — | BBQ thịt cừu Hokkaido |
+| 雪まつり | ゆきまつり | TUYẾT — | Lễ hội tuyết (Sapporo, đầu 2月) |
+| ライラック | ライラック | — | Hoa lilac (quốc hoa Sapporo) |
+| 富良野 | ふらの | PHÚ LƯƠNG DÃ | Furano — cánh đồng lavender |
+| 函館夜景 | はこだてやけい | HÀM QUÁN DẠ CẢNH | Cảnh đêm Hakodate (top 3 thế giới) |
+| 大通公園 | おおどおりこうえん | ĐẠI THÔNG CÔNG VIÊN | Công viên Ōdōri (Sapporo) |
+| エスコンフィールド | エスコンフィールド | — | Sân vận động Fighters mới (2023) |
+| なまら | なまら | — | "Cực kỳ" (tiếng địa phương Hokkaido) |
+| 積丹 | しゃこたん | TÍCH ĐAN | Bán đảo Shakotan — nổi tiếng uni |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Khi khách Hokkaido vừa hạ cánh Tokyo → mở "札幌は今ライラックですか?" — đúng thời điểm.
 **J2 — 表現読解:** Phân biệt sắc thái "大変ですね" (thương hại) với "羨ましいですね" (ngưỡng mộ) — tiền bối Hokkaido thích cái sau.

@@ -4,24 +4,24 @@
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
 - Người Nhật **đời tư phân tách rạch ròi** với đời công — đi sâu là xâm phạm.
-- Khi senior chủ động kể về con — đó là **tín hiệu thân**, hãy nhận và phản hồi cẩn thận.
+- Khi người cấp cao chủ động kể về con — đó là **tín hiệu thân**, hãy nhận và phản hồi cẩn thận.
 - TUYỆT ĐỐI không hỏi tuổi vợ / khi nào sinh con / lương vợ chồng.
 - **Thú cưng** là vùng an toàn nhất — người Nhật yêu chó mèo cuồng, ai cũng có ảnh trong điện thoại.
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Dũng đã làm với Matsumoto hơn 1 năm — mối quan hệ đã thân (đi nhậu 5-6 lần). Hôm nay Matsumoto chủ động khoe ảnh con gái mới đậu đại học. Dũng phải biết phản hồi — không quá đào sâu, không quá lạnh. Và Scenario 4 — tuyệt đối tránh hỏi gì với khách mới.
 
 ---
 
-## 💬 4 Scenario — hội thoại thực chiến
+## 4 Scenario — hội thoại thực chiến
 
-### 📍 Scenario 1 — Khi senior CHỦ ĐỘNG mở (con đậu đại học)
+### Scenario 1 — Khi người cấp cao CHỦ ĐỘNG mở (con đậu đại học)
 
 *bữa tối sau họp, tự lấy điện thoại · phản hồi chân thành · 自慢気 (tự hào) nhưng 控えめ (kín đáo)*
 
@@ -44,13 +44,13 @@ Dũng đã làm với Matsumoto hơn 1 năm — mối quan hệ đã thân (đi 
 | **ズン** | 「<ruby>青春<rt>せいしゅん</rt></ruby>ですね(笑)。本当におめでとうございます。」 |
 |  | *Tuổi trẻ thật (cười). Chúc mừng anh nhiều ạ.* |
 
-📝【1】 **国際教養学部** = School of International Liberal Studies (Waseda) — chương trình giảng dạy bằng tiếng Anh, nổi tiếng top.
+【1】 **国際教養学部** = School of International Liberal Studies (Waseda) — chương trình giảng dạy bằng tiếng Anh, nổi tiếng top.
 
 > **VN:** Khi senior CHỦ ĐỘNG khoe → 100% phải phản hồi chân thành. **おめでとうございます** ngay → hỏi cụ thể (ngành / tương lai) → CHIA SẺ cảm xúc bố mẹ → đóng bằng "おめでとう" lần nữa. **Đừng hỏi học phí / điểm thi.**
 
 ---
 
-### 📍 Scenario 2 — Chủ đề thú cưng (an toàn nhất)
+### Scenario 2 — Chủ đề thú cưng (an toàn nhất)
 
 *đang gọi Zoom, có tiếng mèo kêu · rạng rỡ*
 
@@ -73,13 +73,13 @@ Dũng đã làm với Matsumoto hơn 1 năm — mối quan hệ đã thân (đi 
 | **ズン** | 「ぜひ!たまちゃんの写真ももっと見たいです。」 |
 |  | *Vâng ạ! Em cũng muốn xem thêm ảnh bé Tama.* |
 
-📝【1】 **茶トラ** = mèo lông cam vằn. 【2】 **保護猫カフェ** = quán cà phê nhận nuôi mèo cứu hộ.
+【1】 **茶トラ** = mèo lông cam vằn. 【2】 **保護猫カフェ** = quán cà phê nhận nuôi mèo cứu hộ.
 
 > **VN:** Thú cưng = **chủ đề gia đình an toàn nhất**. Hỏi loại / tên / nguồn nhận → khoe lại thú cưng của mình → trao đổi ảnh. **Không bao giờ sai.**
 
 ---
 
-### 📍 Scenario 3 — Khéo lùi khi khách KHÔNG muốn (chia sẻ giới hạn)
+### Scenario 3 — Khéo lùi khi khách KHÔNG muốn (chia sẻ giới hạn)
 
 *bữa tối với Hiroshi, đã uống 2 ly · hơi dè dặt · 短く (trả lời ngắn) · bắt tín hiệu — không sâu thêm · thoải mái lại*
 
@@ -102,7 +102,7 @@ Dũng đã làm với Matsumoto hơn 1 năm — mối quan hệ đã thân (đi 
 
 ---
 
-### 📍 Scenario 4 — VÙNG CẤM: hỏi tuổi vợ / lương / sinh con (SAI)
+### Scenario 4 — VÙNG CẤM: hỏi tuổi vợ / lương / sinh con (SAI)
 
 *Dũng mới gặp Tanaka — chỉ 2-3 lần, chưa thân · NG — quá thân · khó chịu, lảng tránh · NG tiếp · sang chủ đề khác ngay*
 
@@ -117,13 +117,13 @@ Dũng đã làm với Matsumoto hơn 1 năm — mối quan hệ đã thân (đi 
 | **田中** | 「あ、ちょっと<ruby>電話<rt>でんわ</rt></ruby>、すみません。」 |
 |  | *À, em xin lỗi, có điện thoại.* |
 
-❌ **Sao xấu:** ① Mới gặp 2-3 lần chưa đủ thân để mở chủ đề gia đình. ② Hỏi tuổi vợ = vùng cấm. ③ Hỏi kế hoạch sinh con = đặc biệt nhạy cảm với cặp vợ chồng khó có con (tỉ lệ ở Nhật cao).
+ **Sao xấu:** ① Mới gặp 2-3 lần chưa đủ thân để mở chủ đề gia đình. ② Hỏi tuổi vợ = vùng cấm. ③ Hỏi kế hoạch sinh con = đặc biệt nhạy cảm với cặp vợ chồng khó có con (tỉ lệ ở Nhật cao).
 
-✅ **Đúng:** Đợi khách mở. Chỉ hỏi nếu khách kể trước. Hoặc chuyển sang **thú cưng** an toàn.
+ **Đúng:** Đợi khách mở. Chỉ hỏi nếu khách kể trước. Hoặc chuyển sang **thú cưng** an toàn.
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ KHI KHÁCH KHOE CON/VỢ:
@@ -147,7 +147,7 @@ Dũng đã làm với Matsumoto hơn 1 năm — mối quan hệ đã thân (đi 
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - Hỏi **tuổi vợ / chồng** → cấm kỵ hàng đầu.
 - Hỏi **lương** vợ chồng / con → cấm.
@@ -158,27 +158,27 @@ Dũng đã làm với Matsumoto hơn 1 năm — mối quan hệ đã thân (đi 
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| ご家族 | ごかぞく | Gia đình (kính ngữ về khách) |
-| 奥様 | おくさま | Vợ (kính ngữ) |
-| ご主人 | ごしゅじん | Chồng (kính ngữ) |
-| お子様 | おこさま | Con (kính ngữ) |
-| 単身赴任 | たんしんふにん | Công tác xa nhà 1 mình |
-| ご実家 | ごじっか | Nhà bố mẹ ruột (kính ngữ) |
-| 義実家 | ぎじっか | Nhà bố mẹ vợ/chồng |
-| 共働き | ともばたらき | Cả 2 vợ chồng đi làm |
-| 専業主婦 | せんぎょうしゅふ | Nội trợ toàn thời gian |
-| 育休 | いくきゅう | Nghỉ thai sản / chăm con |
-| 塾 | じゅく | Lò luyện thi |
-| 大学受験 | だいがくじゅけん | Thi đại học |
-| 保護猫/犬 | ほごねこ/いぬ | Mèo/chó cứu hộ |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| ご家族 | ごかぞく | GIA TỘC | Gia đình (kính ngữ về khách) |
+| 奥様 | おくさま | ÁO DẠNG | Vợ (kính ngữ) |
+| ご主人 | ごしゅじん | CHỦ NHÂN | Chồng (kính ngữ) |
+| お子様 | おこさま | TỬ | Con (kính ngữ) |
+| 単身赴任 | たんしんふにん | ĐƠN THÂN PHÓ NHẬM | Công tác xa nhà 1 mình |
+| ご実家 | ごじっか | THỰC GIA | Nhà bố mẹ ruột (kính ngữ) |
+| 義実家 | ぎじっか | NGHĨA THỰC GIA | Nhà bố mẹ vợ/chồng |
+| 共働き | ともばたらき | CỘNG ĐỘNG | Cả 2 vợ chồng đi làm |
+| 専業主婦 | せんぎょうしゅふ | CHUYÊN NGHIỆP CHỦ PHỤ | Nội trợ toàn thời gian |
+| 育休 | いくきゅう | DỤC HƯU | Nghỉ thai sản / chăm con |
+| 塾 | じゅく | TẬP | Lò luyện thi |
+| 大学受験 | だいがくじゅけん | ĐẠI HỌC THỤ HIỂM | Thi đại học |
+| 保護猫/犬 | ほごねこ/いぬ | BẢO HỘ | Mèo/chó cứu hộ |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Phân biệt khi nào OK mở chủ đề gia đình / khi nào dừng.
 **J2 — 表現読解:** Bắt tín hiệu "ええ" ngắn = không muốn tiếp = đổi chủ đề.

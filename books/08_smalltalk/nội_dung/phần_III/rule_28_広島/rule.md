@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Tâm lý JP
+## Tâm lý JP
 
 - カープファン = 信仰. **赤いユニフォーム** mặc đi nhậu. **マツダスタジアム** = thánh địa. **緒方/新井/黒田** là những tên tuổi huyền thoại.
 - お好み焼: **広島流 重ね焼き** (生地→キャベツ→豚→そば/うどん→卵 順番) ≠ **大阪流 混ぜ焼き** → 同じ物 nhưng triết lý khác. **ふみちゃん**, **みっちゃん**, **電光石火** là 3 quán bậc nhất.
@@ -16,15 +16,15 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tháng 10/2026, anh Hiroshi 部長 (関西支店長 gốc Hiroshima) mời Dũng + Tuấn + Hà CTO sang **Hiroshima** 2 ngày họp ngoài văn phòng kết hợp tham quan. Lịch: chiều xuống đến 広島駅 → ăn お好み焼 ở **お好み村** → tối uống ở 流川 (khu vui chơi về đêm Hiroshima) → sáng sau đi **宮島** → trưa ăn **牡蠣** ở **焼がきのはやし** → chiều **マツダスタジアム** xem trận đấu (nếu đúng mùa).
 
 ---
 
-## 💬 4 Scenarios
+## 4 Scenarios
 
-### 📍 Scenario 1 — お好み村 — phân biệt 広島流 vs 大阪流
+### Scenario 1 — お好み村 — phân biệt 広島流 vs 大阪流
 
 *dẫn vào お好み村, 3 tầng tổ hợp khoảng 20 quán · 感心*
 
@@ -53,7 +53,7 @@ Tháng 10/2026, anh Hiroshi 部長 (関西支店長 gốc Hiroshima) mời Dũng
 
 ---
 
-### 📍 Scenario 2 — Tối 流川 — カープ chủ đề full ブースト
+### Scenario 2 — Tối 流川 — カープ chủ đề full ブースト
 
 *uống ビール ở 居酒屋 流川 · chuẩn bị kỹ · 目を輝かせる · 目が潤む*
 
@@ -82,7 +82,7 @@ Tháng 10/2026, anh Hiroshi 部長 (関西支店長 gốc Hiroshima) mời Dũng
 
 ---
 
-### 📍 Scenario 3 — Sáng 宮島 + 厳島神社
+### Scenario 3 — Sáng 宮島 + 厳島神社
 
 *trên ferry đến Miyajima · absolutely shook*
 
@@ -111,7 +111,7 @@ Tháng 10/2026, anh Hiroshi 部長 (関西支店長 gốc Hiroshima) mời Dũng
 
 ---
 
-### 📍 Scenario 4 — Trưa 牡蠣 ở 焼がきのはやし — chiều sâu 牡蠣 + nhắc đến 平和記念公園
+### Scenario 4 — Trưa 牡蠣 ở 焼がきのはやし — chiều sâu 牡蠣 + nhắc đến 平和記念公園
 
 *焼がきのはやし · 慎重に · しばらく沈黙、yên trang trọng · 明るく戻る*
 
@@ -140,7 +140,7 @@ Tháng 10/2026, anh Hiroshi 部長 (関西支店長 gốc Hiroshima) mời Dũng
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ MỞ TOPIC HIROSHIMA:
@@ -174,7 +174,7 @@ Tháng 10/2026, anh Hiroshi 部長 (関西支店長 gốc Hiroshima) mời Dũng
 
 ---
 
-## 🗾 Bảng tra cứu vùng miền — 広島 (Tổng hợp)
+## Bảng tra cứu vùng miền — 広島 (Tổng hợp)
 
 | Hạng mục | Nội dung |
 |----------|----------|
@@ -196,7 +196,7 @@ Tháng 10/2026, anh Hiroshi 部長 (関西支店長 gốc Hiroshima) mời Dũng
 
 ---
 
-## ⚠ NG
+## NG
 
 - **Nhầm 大阪お好み焼 ↔ 広島お好み焼** → 重ね焼き vs 混ぜ焼き = chiến tranh.
 - **Trêu Carp khi thua** → ngay cả thua mùa, không động đến.
@@ -208,37 +208,37 @@ Tháng 10/2026, anh Hiroshi 部長 (関西支店長 gốc Hiroshima) mời Dũng
 
 ---
 
-## 📚 Bảng từ vựng
+## Bảng từ vựng
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| お好み焼 | おこのみやき | Bánh xèo |
-| 重ね焼き | かさねやき | Cách Hiroshima xếp lớp |
-| オタフクソース | — | Sốt Otafuku 1922 Hiroshima |
-| 広島東洋カープ | ひろしまとうようカープ | Đội bóng chày |
-| 市民球団 | しみんきゅうだん | Đội bóng dân |
-| 樽募金 | たるぼきん | Quyên góp thùng 1951 |
-| マツダスタジアム | — | Sân Carp |
-| 男気 | おとこぎ | Tinh thần "đàn ông" (Kuroda) |
-| 厳島神社 | いつくしまじんじゃ | Itsukushima UNESCO |
-| 大鳥居 | おおとりい | Cổng đỏ giữa biển |
-| 弥山 | みせん | Núi 535m Miyajima |
-| もみじ饅頭 | もみじまんじゅう | Bánh lá phong |
-| 牡蠣 | かき | Hàu |
-| 土手鍋 | どてなべ | Lẩu hàu+miso |
-| 穴子飯 | あなごめし | Cơm lươn biển |
-| 尾道ラーメン | おのみちラーメン | Ramen Onomichi |
-| 平和記念公園 | へいわきねんこうえん | CV Hòa Bình |
-| 原爆ドーム | げんばくドーム | Atomic Bomb Dome UNESCO |
-| サンフレッチェ | — | Sanfrecce 三本の矢 |
-| 毛利元就 | もうりもとなり | Lãnh chúa "三本の矢" |
-| 賀茂鶴 | かもつる | Sake 西条 |
-| じゃけぇ | — | Vì vậy (Hiroshima-ben) |
-| ぶち | — | Cực kỳ (Hiroshima-ben) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| お好み焼 | おこのみやき | — HIẾU — THIÊU | Bánh xèo |
+| 重ね焼き | かさねやき | TRỌNG THIÊU | Cách Hiroshima xếp lớp |
+| オタフクソース | オタフクソース | — | Sốt Otafuku 1922 Hiroshima |
+| 広島東洋カープ | ひろしまとうようカープ | QUẢNG ĐẢO ĐÔNG DƯƠNG — | Đội bóng chày |
+| 市民球団 | しみんきゅうだん | THỊ DÂN CẦU ĐOÀN | Đội bóng dân |
+| 樽募金 | たるぼきん | THÙNG MỘ KIM | Quyên góp thùng 1951 |
+| マツダスタジアム | マツダスタジアム | — | Sân Carp |
+| 男気 | おとこぎ | NAM KHÍ | Tinh thần "đàn ông" (Kuroda) |
+| 厳島神社 | いつくしまじんじゃ | NGHIÊM ĐẢO THẦN XÃ | Itsukushima UNESCO |
+| 大鳥居 | おおとりい | ĐẠI ĐIỂU CƯ | Cổng đỏ giữa biển |
+| 弥山 | みせん | DI SAN | Núi 535m Miyajima |
+| もみじ饅頭 | もみじまんじゅう | — ĐẦU | Bánh lá phong |
+| 牡蠣 | かき | MẪU LÃO | Hàu |
+| 土手鍋 | どてなべ | THỔ THỦ QUÃ | Lẩu hàu+miso |
+| 穴子飯 | あなごめし | HUYỆT TỬ PHẠN | Cơm lươn biển |
+| 尾道ラーメン | おのみちラーメン | VĨ ĐẠO — | Ramen Onomichi |
+| 平和記念公園 | へいわきねんこうえん | BÌNH HÒA KÝ NIỆM CÔNG VIÊN | CV Hòa Bình |
+| 原爆ドーム | げんばくドーム | NGUYÊN BẠO — | Atomic Bomb Dome UNESCO |
+| サンフレッチェ | サンフレッチェ | — | Sanfrecce 三本の矢 |
+| 毛利元就 | もうりもとなり | MAO LỢI NGUYÊN TỰU | Lãnh chúa "三本の矢" |
+| 賀茂鶴 | かもつる | HẠ MẬU HẠC | Sake 西条 |
+| じゃけぇ | じゃけぇ | — | Vì vậy (Hiroshima-ben) |
+| ぶち | ぶち | — | Cực kỳ (Hiroshima-ben) |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Phân biệt 大阪混ぜ焼き ↔ 広島重ね焼き → đáp đúng.
 **J2 — 表現読解:** "市民球団" depth = hiểu được lịch sử 樽募金 1951.

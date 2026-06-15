@@ -1,27 +1,27 @@
 # Rule 50 — Kho ghi nhớ — duy trì quan hệ lâu dài / 関係維持の記憶バンク
 
-> **Luận điểm.** Sau mỗi cuộc gặp, **30 phút ghi kho ghi nhớ** = khoản đầu tư có giá trị nhất, lợi suất cao nhất trong sự nghiệp với khách Nhật. **Trước mỗi cuộc gặp, 3 phút ôn lại** = senior cảm thấy "anh ấy nhớ tôi" — đó là lợi thế không ai bắt chước được.
+> **Luận điểm.** Sau mỗi cuộc gặp, **30 phút ghi kho ghi nhớ** = khoản đầu tư có giá trị nhất, lợi suất cao nhất trong sự nghiệp với khách Nhật. **Trước mỗi cuộc gặp, 3 phút ôn lại** = người cấp cao cảm thấy "anh ấy nhớ tôi" — đó là lợi thế không ai bắt chước được.
 
 ---
 
-## 🧠 Tâm lý JP (4 dòng)
+## Tâm lý JP (4 dòng)
 
-- Senior JP **nhớ chi tiết** về đối tác — và **mong đợi** đối tác nhớ về họ.
-- "Tuần trước anh kể về cháu 5 tuổi, hôm nay cháu sao rồi?" = câu nói cảm động nhất với senior 60t.
+- Người cấp cao JP **nhớ chi tiết** về đối tác — và **mong đợi** đối tác nhớ về họ.
+- "Tuần trước anh kể về cháu 5 tuổi, hôm nay cháu sao rồi?" = câu nói cảm động nhất với người cấp cao 60t.
 - Kho ghi nhớ = **sổ tay quan hệ cá nhân** — không phải phần mềm CRM công ty (mà CRM công ty hiếm khi ghi được chi tiết về mối quan hệ).
-- Junior nhớ chi tiết = **lợi thế thực sự** — vì AI không có ngữ cảnh bữa tối riêng tư đêm hôm.
+- Nhân viên mới nhớ chi tiết = **lợi thế thực sự** — vì AI không có ngữ cảnh bữa tối riêng tư đêm hôm.
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 Tham khảo. 1 scenario "vận dụng kho ghi nhớ" + 1 scenario "ghi kho ghi nhớ ngay sau bữa tối" + **MẪU GHI CHÉP** đầy đủ.
 
 ---
 
-## 💬 3 Scenarios — hội thoại thực chiến
+## 3 Scenarios — hội thoại thực chiến
 
-### 📍 Scenario 1 — Vận dụng kho ghi nhớ: 3 phút trước họp
+### Scenario 1 — Vận dụng kho ghi nhớ: 3 phút trước họp
 
 *khách bước vào · mặt sáng lên, vừa bất ngờ vừa ấm áp*
 
@@ -40,11 +40,11 @@ Tham khảo. 1 scenario "vận dụng kho ghi nhớ" + 1 scenario "ghi kho ghi n
 | **大垣** | 「妻が一番<ruby>気合<rt>きあ</rt></ruby>い<ruby>入<rt>はい</rt></ruby>っとるわ(笑)。じゃ、今日のキックオフ、よろしく。」 |
 |  | *Vợ anh dồn tâm sức vào nhất (cười). Thôi, buổi khởi động hôm nay nhờ em.* |
 
-📝【1】 **3 phút ôn lại kho ghi nhớ trước họp = senior cảm thấy "anh ấy nhớ tôi".** Chi tiết cụ thể (受験 + 来月) đã được Ōgaki kể 2 tháng trước — junior nhớ lại = đẳng cấp. **Đây là lợi thế duy nhất AI không thay thế được.**
+【1】 **3 phút ôn lại kho ghi nhớ trước họp = senior cảm thấy "anh ấy nhớ tôi".** Chi tiết cụ thể (受験 + 来月) đã được Ōgaki kể 2 tháng trước — junior nhớ lại = đẳng cấp. **Đây là lợi thế duy nhất AI không thay thế được.**
 
 ---
 
-### 📍 Scenario 2 — Senior hé lộ chi tiết, Dũng nhắc đúng việc nửa năm trước
+### Scenario 2 — Người cấp cao hé lộ chi tiết, Dũng nhắc đúng việc nửa năm trước
 
 *đầu buổi họp online · Matsumoto buông lời như thường lệ*
 
@@ -59,11 +59,11 @@ Tham khảo. 1 scenario "vận dụng kho ghi nhớ" + 1 scenario "ghi kho ghi n
 | **ズン** | 「ありがとうございます、<ruby>楽<rt>たの</rt></ruby>しみにしてます。」 |
 |  | *Cảm ơn anh, em mong lắm.* |
 
-📝【2】 Một lời hứa nhỏ ("dẫn đi monjayaki") senior nói nửa năm trước — junior nhớ và nhắc lại đúng lúc = khoảnh khắc lòng tin bật lên. Đây chính là thứ kho ghi nhớ tạo ra.
+【2】 Một lời hứa nhỏ ("dẫn đi monjayaki") người cấp cao nói nửa năm trước — nhân viên mới nhớ và nhắc lại đúng lúc = khoảnh khắc lòng tin bật lên. Đây chính là thứ kho ghi nhớ tạo ra.
 
 ---
 
-### 📍 Scenario 3 — Ghi kho ghi nhớ ngay sau bữa tối
+### Scenario 3 — Ghi kho ghi nhớ ngay sau bữa tối
 
 | | Việc làm | Chi tiết |
 |--|--------|--------|
@@ -76,7 +76,7 @@ Tham khảo. 1 scenario "vận dụng kho ghi nhớ" + 1 scenario "ghi kho ghi n
 
 ---
 
-## 🎯 Câu vàng copy-paste (vận dụng kho ghi nhớ)
+## Câu vàng copy-paste (vận dụng kho ghi nhớ)
 
 ```
 ■ MỞ TOPIC dùng MEMORY:
@@ -84,7 +84,7 @@ Tham khảo. 1 scenario "vận dụng kho ghi nhớ" + 1 scenario "ghi kho ghi n
 「お嬢様、もう[grade level]ですね、[topic]の調子いかがですか?」
 「[地名]の[hobby/team]、[最近のニュース]の件、見られました?」
 
-■ SENIOR HÉ LỘ:
+■ NGƯỜI CẤP CAO HÉ LỘ:
 「[chi tiết khách kể]、覚えてますよ。」
 「あの時[topic]の話、印象に残ってます。」
 
@@ -95,7 +95,7 @@ Tham khảo. 1 scenario "vận dụng kho ghi nhớ" + 1 scenario "ghi kho ghi n
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - **Không** ghi kho ghi nhớ → trí nhớ rò rỉ → 6 tháng sau gặp lại = "ai vậy?".
 - Ghi quá chung chung ("Ōgaki = Osaka") → vô dụng. Phải **chi tiết** (受験 / 牡蠣 không ăn được / 桂米朝 hâm mộ).
@@ -105,21 +105,21 @@ Tham khảo. 1 scenario "vận dụng kho ghi nhớ" + 1 scenario "ghi kho ghi n
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 記憶バンク | きおくバンク | Kho ghi nhớ |
-| 受験 | じゅけん | Thi đại học |
-| 共通テスト | きょうつうテスト | Kỳ thi chung (kỳ thi tuyển sinh toàn quốc) |
-| スランプ | — | Sa sút phong độ |
-| 気合い入る | きあいはいる | Tinh thần dồn vào |
-| 桂米朝 | かつらべいちょう | Bậc thầy rakugo huyền thoại vùng Kansai |
-| 御家族の皆様 | ごかぞくのみなさま | Cả gia đình anh chị (kính ngữ) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 記憶バンク | きおくバンク | KÝ ỨC | Kho ghi nhớ |
+| 受験 | じゅけん | THỤ NGHIỆM | Thi đại học |
+| 共通テスト | きょうつうテスト | CỘNG THÔNG | Kỳ thi chung (kỳ thi tuyển sinh toàn quốc) |
+| スランプ | スランプ | — | Sa sút phong độ |
+| 気合い入る | きあいはいる | KHÍ HỢP | Tinh thần dồn vào |
+| 桂米朝 | かつらべいちょう | QUẾ NGỌC TRIÊU | Bậc thầy rakugo huyền thoại vùng Kansai |
+| 御家族の皆様 | ごかぞくのみなさま | GIA TỘC | Cả gia đình anh chị (kính ngữ) |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** 3 phút ôn lại CRM trước họp = thói quen.
 **J2 — 表現読解:** Phân biệt "nhắc vừa đủ" và "nhắc quá nhiều" — chọn 1-2 chi tiết, không quá 5.
@@ -127,7 +127,7 @@ Tham khảo. 1 scenario "vận dụng kho ghi nhớ" + 1 scenario "ghi kho ghi n
 
 ---
 
-## 📋 MẪU GHI CHÉP đầy đủ (nạp vào Phụ lục D)
+## MẪU GHI CHÉP đầy đủ (nạp vào Phụ lục D)
 
 > Xem mẫu chi tiết trong file `conversation.json` ở mục `templates`. **2 mẫu chính**:
 > 1. **Mẫu ghi kho ghi nhớ** — sau bữa tối ghi chi tiết

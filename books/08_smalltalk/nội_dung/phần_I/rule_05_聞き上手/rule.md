@@ -4,15 +4,15 @@
 
 ---
 
-## 🧠 Tâm lý JP (3 dòng)
+## Tâm lý JP (3 dòng)
 
 - Khách Nhật đo "trí thông minh xã hội" qua chất lượng 相槌 (tiếng đệm) chứ không qua tài hùng biện.
 - Người Việt hay sai: nghe để **trả lời** (chuẩn bị câu mình sẽ nói tiếp) thay vì nghe để **hiểu**.
-- Senior 50t+ rất quý junior nào lặp lại được câu mình vừa nói 5 phút trước — chứng tỏ thật sự nghe.
+- Người cấp cao 50t+ rất quý nhân viên mới nào lặp lại được câu mình vừa nói 5 phút trước — chứng tỏ thật sự nghe.
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 3 lớp kỹ thuật 聞き上手 (theo độ khó):
 
@@ -24,9 +24,9 @@
 
 ---
 
-## 💬 4 Tình huống — hội thoại thực chiến
+## 4 Tình huống — hội thoại thực chiến
 
-### 📍 Scenario 1 — L1: 相槌 đa dạng (sai = chỉ "はい")
+### Scenario 1 — L1: 相槌 đa dạng (sai = chỉ "はい")
 
 *Sai · sai · thấy nhạt → cụt*
 
@@ -43,33 +43,33 @@
 | **中村** | 「…まあ、それで…」 |
 |  | *...thôi vậy...* |
 
-❌ "はい" 連発 = như cái máy, không có cảm xúc → khách thấy mình không quan tâm.
+ "はい" 連発 = như cái máy, không có cảm xúc → khách thấy mình không quan tâm.
 
-| | Vai | Câu (bản ĐÚNG) |
-|--|---------|-----|
-| L1 | **中村** | 「先週、新潟に出張で行ってきてさ…」 |
-|  |  | *Tuần trước tôi đi công tác Niigata...* |
-| L2 | **ズン** *(ĐÚNG — phản ứng có cảm)* | 「**新潟ですか!**お米と日本酒の<ruby>聖地<rt>せいち</rt></ruby>ですね。」【1】 |
-|  |  | *Niigata ạ! Thánh địa của gạo và sake nhỉ.* |
-| L3 | **中村** | 「そうそう、地元の蔵元に寄ってきたんだ。」 |
-|  |  | *Đúng rồi, anh ghé nhà sản xuất sake địa phương.* |
-| L4 | **ズン** | 「**蔵元!**<ruby>羨<rt>うらや</rt></ruby>ましい。<ruby>試飲<rt>しいん</rt></ruby>もされたんですか?」 |
-|  |  | *Nhà rượu sake! Em ghen tị quá. Anh có nếm thử không ạ?* |
-| L5 | **中村** *(rạng rỡ, kể tiếp)* | 「もちろん、5<ruby>種類<rt>しゅるい</rt></ruby>飲み比べてね…」 |
-|  |  | *Tất nhiên, anh thử 5 loại so sánh...* |
+| Vai | Câu (bản ĐÚNG) |
+|---------|-----|
+| **中村** | 「先週、新潟に出張で行ってきてさ…」 |
+|  | *Tuần trước tôi đi công tác Niigata...* |
+| **ズン** *(ĐÚNG — phản ứng có cảm)* | 「**新潟ですか!**お米と日本酒の<ruby>聖地<rt>せいち</rt></ruby>ですね。」【1】 |
+|  | *Niigata ạ! Thánh địa của gạo và sake nhỉ.* |
+| **中村** | 「そうそう、地元の蔵元に寄ってきたんだ。」 |
+|  | *Đúng rồi, anh ghé nhà sản xuất sake địa phương.* |
+| **ズン** | 「**蔵元!**<ruby>羨<rt>うらや</rt></ruby>ましい。<ruby>試飲<rt>しいん</rt></ruby>もされたんですか?」 |
+|  | *Nhà rượu sake! Em ghen tị quá. Anh có nếm thử không ạ?* |
+| **中村** *(rạng rỡ, kể tiếp)* | 「もちろん、5<ruby>種類<rt>しゅるい</rt></ruby>飲み比べてね…」 |
+|  | *Tất nhiên, anh thử 5 loại so sánh...* |
 
-📝【1】 **Lặp từ khóa + thêm giá trị** ("お米と日本酒の聖地") = thể hiện kiến thức nhẹ → khách thấy mình hiểu chứ không chỉ gật.
+【1】 **Lặp từ khóa + thêm giá trị** ("お米と日本酒の聖地") = thể hiện kiến thức nhẹ → khách thấy mình hiểu chứ không chỉ gật.
 
 ---
 
-### 📍 Scenario 2 — L2: Tóm tắt giữa câu chuyện dài
+### Scenario 2 — L2: Tóm tắt giữa câu chuyện dài
 
 *kể 2 phút về dự án quá khứ · L2 — tóm tắt ngắn · gật mạnh · L3 — đào sâu · mở lòng, kể chi tiết hơn*
 
 | Vai | Câu |
 |---------|-----|
 | **大垣** | 「…で、そのプロジェクトはね、<ruby>要件<rt>ようけん</rt></ruby>が3回変わって、<ruby>納期<rt>のうき</rt></ruby>が3ヶ月<ruby>遅<rt>おく</rt></ruby>れて、<ruby>最終的<rt>さいしゅうてき</rt></ruby>に<ruby>予算<rt>よさん</rt></ruby>も20%オーバーで、もう<ruby>大変<rt>たいへん</rt></ruby>だったわ。チームも<ruby>疲弊<rt>ひへい</rt></ruby>しちゃってね。」 |
-|  | *...Dự án đó yêu cầu đổi 3 lần, hạn giao trễ 3 tháng, ngân sách vượt 20%, mệt thật. Team cũng kiệt sức.* |
+|  | *...Dự án đó yêu cầu đổi 3 lần, hạn giao trễ 3 tháng, ngân sách vượt 20%, mệt thật. Nhóm cũng kiệt sức.* |
 | **ズン** | 「**つまり、要件のブレが3つも<ruby>重<rt>かさ</rt></ruby>なって、<ruby>結果<rt>けっか</rt></ruby>コストもスケジュールも<ruby>崩<rt>くず</rt></ruby>れた、という<ruby>難<rt>むずか</rt></ruby>しいケースだったんですね。**」【2】 |
 |  | *Tức là, yêu cầu dao động 3 lần khiến cả chi phí lẫn tiến độ sụp đổ, một trường hợp khó nhỉ.* |
 | **大垣** | 「そう!**まさにそれ。**ズンさん、よく分かってるね。」 |
@@ -77,15 +77,15 @@
 | **ズン** | 「**その時、大垣さんご自身、何を一番つらく<ruby>感<rt>かん</rt></ruby>じられましたか?**」【3】 |
 |  | *Lúc đó, bản thân anh Ōgaki cảm thấy điều gì khó chịu nhất ạ?* |
 | **大垣** | 「いやあ、お客様への<ruby>謝罪<rt>しゃざい</rt></ruby>より、チームに<ruby>無理<rt>むり</rt></ruby>させたことの方が辛かった…」 |
-|  | *Hà, hơn cả việc xin lỗi khách, anh đau lòng vì đã ép team quá sức...* |
+|  | *Hà, hơn cả việc xin lỗi khách, anh đau lòng vì đã ép nhóm quá sức...* |
 
-📝【2】 Tóm tắt = "cô đặc lại trong 1 câu" những gì khách kể → chứng tỏ mình thật sự nghe + xử lý thông tin.
+【2】 Tóm tắt = "cô đặc lại trong 1 câu" những gì khách kể → chứng tỏ mình thật sự nghe + xử lý thông tin.
 
-📝【3】 Đào sâu "anh cảm thấy gì" = đẳng cấp cao. Chuyển từ "thông tin" sang "cảm xúc" → khách mở lòng → quan hệ leo bậc.
+【3】 Đào sâu "anh cảm thấy gì" = đẳng cấp cao. Chuyển từ "thông tin" sang "cảm xúc" → khách mở lòng → quan hệ leo bậc.
 
 ---
 
-### 📍 Scenario 3 — Không cướp lời (cách làm sai)
+### Scenario 3 — Không cướp lời (cách làm sai)
 
 *Sai — cướp lời · im — bỏ ý định kể trải nghiệm*
 
@@ -98,9 +98,9 @@
 | **松本** | 「…そうなんですね。へえ。」 |
 |  | *...vậy à. Ờ.* |
 
-❌ **Vì sao XẤU:** Khách đang muốn kể trải nghiệm CỦA HỌ → bạn cướp lời để khoe kiến thức = đè bóng. Khách không kể nữa.
+ **Vì sao XẤU:** Khách đang muốn kể trải nghiệm CỦA HỌ → bạn cướp lời để khoe kiến thức = đè bóng. Khách không kể nữa.
 
-✅ **Đúng:**
+ **Đúng:**
 
 *lặp nhẹ + để khách kể · kể 3 phút · sau khi khách xong → mới thêm giá trị*
 
@@ -119,7 +119,7 @@
 
 ---
 
-### 📍 Scenario 4 — Kết hợp 3 lớp + nhắc lại chuyện cũ
+### Scenario 4 — Kết hợp 3 lớp + nhắc lại chuyện cũ
 
 *L1 lặp từ khóa · L2 tóm tắt + L3 đào sâu · nhắc lại chuyện cũ 5 phút sau, sang chủ đề khác*
 
@@ -138,11 +138,11 @@
 | **ズン** | 「**先ほどのじいじの話、本当に<ruby>温<rt>あたた</rt></ruby>かいエピソードでした。**ところで…」 |
 |  | *Câu chuyện 'ông ơi' lúc nãy thật ấm áp. À mà...* |
 
-📝【4】 Kết hợp tóm tắt → đào sâu "奥様は?" = mở rộng câu chuyện sang vợ → khách kể tiếp đoạn dài. Đẳng cấp bậc thầy 聞き上手.
+【4】 Kết hợp tóm tắt → đào sâu "奥様は?" = mở rộng câu chuyện sang vợ → khách kể tiếp đoạn dài. Đẳng cấp bậc thầy 聞き上手.
 
 ---
 
-## 🎯 Câu vàng dùng ngay
+## Câu vàng dùng ngay
 
 ```
 ■ L1 — 相槌 đa dạng (sai = chỉ "はい"):
@@ -169,7 +169,7 @@
 
 ---
 
-## ⚠ Điều tuyệt đối tránh
+## Điều tuyệt đối tránh
 
 - **"はい" / "ええ" 連発** không có nội dung → cảm giác như cái máy, không quan tâm.
 - **Cướp lời** khi khách đang kể (kể cả để khoe kiến thức) → khách dừng kể.
@@ -179,22 +179,22 @@
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| 聞き上手 | ききじょうず | Người giỏi lắng nghe |
-| 相槌 | あいづち | Tiếng đệm khi nghe |
-| オウム返し | おうむがえし | Lặp lại từ khóa của khách |
-| 要約 | ようやく | Tóm tắt |
-| 蔵元 | くらもと | Nhà sản xuất sake |
-| 聖地 | せいち | Thánh địa |
-| 疲弊 | ひへい | Kiệt sức |
-| ハロン湾 | — | Vịnh Hạ Long |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| 聞き上手 | ききじょうず | VĂN THƯỢNG THỦ | Người giỏi lắng nghe |
+| 相槌 | あいづち | TƯƠNG CHÙY | Tiếng đệm khi nghe |
+| オウム返し | おうむがえし | — | Lặp lại từ khóa của khách |
+| 要約 | ようやく | YẾU ƯỚC | Tóm tắt |
+| 蔵元 | くらもと | TÀNG NGUYÊN | Nhà sản xuất sake |
+| 聖地 | せいち | THÁNH ĐỊA | Thánh địa |
+| 疲弊 | ひへい | BỆ BỈ | Kiệt sức |
+| ハロン湾 | ハロンわん | — | Vịnh Hạ Long |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Khi nào lặp từ khóa, khi nào tóm tắt, khi nào đào sâu.
 **J2 — 表現読解:** Phân biệt 相槌 đa dạng với kiểu máy móc "はい" liên tục.

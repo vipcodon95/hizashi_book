@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Tâm lý JP (3 dòng)
+## Tâm lý JP (3 dòng)
 
 - Người Nhật rất nhạy với **cách chuyển chủ đề** — từ chuyển đúng = chuyên nghiệp, sai = vụng.
 - 3 từ chuyển chính có sắc thái RẤT KHÁC: ところで (ngắt trang trọng) / そういえば (liên tưởng) / 話は変わりますが (chuyển hẳn sang).
@@ -12,7 +12,7 @@
 
 ---
 
-## 🎬 Bối cảnh
+## Bối cảnh
 
 3 từ chuyển chính + 2 từ chuyển phụ:
 
@@ -26,9 +26,9 @@
 
 ---
 
-## 💬 4 Scenario — hội thoại thực chiến
+## 4 Scenario — hội thoại thực chiến
 
-### 📍 Scenario 1 — そういえば: Nhân tiện liên kết nhẹ
+### Scenario 1 — そういえば: Nhân tiện liên kết nhẹ
 
 *そういえば — liên kết "読み聞かせ" → 本*
 
@@ -45,13 +45,13 @@
 | **中村** | 「最近?ああ、<ruby>池井戸潤<rt>いけいどじゅん</rt></ruby>の<ruby>新刊<rt>しんかん</rt></ruby>、<ruby>銀行<rt>ぎんこう</rt></ruby>ものでね…」 |
 |  | *Dạo này à? À, tiểu thuyết mới của Ikeido Jun, về ngân hàng...* |
 
-📝【1】 「そういえば」 = "à mà nhân tiện nhớ ra" — chủ đề mới (sách) **có liên kết nhẹ** với chủ đề cũ (đọc sách cho cháu). Chuyển mượt.
+【1】 「そういえば」 = "à mà nhân tiện nhớ ra" — chủ đề mới (sách) **có liên kết nhẹ** với chủ đề cũ (đọc sách cho cháu). Chuyển mượt.
 
-✅ Khi nào dùng: chủ đề mới + chủ đề cũ có 1 từ khóa chung trong đầu.
+ Khi nào dùng: chủ đề mới + chủ đề cũ có 1 từ khóa chung trong đầu.
 
 ---
 
-### 📍 Scenario 2 — ところで: Đổi rõ ràng nhưng vẫn trang trọng
+### Scenario 2 — ところで: Đổi rõ ràng nhưng vẫn trang trọng
 
 *thấy chủ đề bóng chày đã 5 phút, nên ngắt*
 
@@ -64,13 +64,13 @@
 | **大垣** | 「ああ、そうそう、新大阪から<ruby>朝イチ<rt>あさイチ</rt></ruby>で。」 |
 |  | *À đúng, từ Shin-Osaka chuyến sớm nhất.* |
 
-📝【2】 「ところで」 = ngắt trang trọng, **không cần liên kết từ khóa**. Dùng khi cần đổi rõ — đặc biệt từ không khí thân mật sang công việc hoặc ngược lại.
+【2】 「ところで」 = ngắt trang trọng, **không cần liên kết từ khóa**. Dùng khi cần đổi rõ — đặc biệt từ không khí thân mật sang công việc hoặc ngược lại.
 
-✅ Khi nào dùng: chủ đề cũ đã cạn / cần kéo về vấn đề khác / khách lỏng nhịp.
+ Khi nào dùng: chủ đề cũ đã cạn / cần kéo về vấn đề khác / khách lỏng nhịp.
 
 ---
 
-### 📍 Scenario 3 — 話は変わりますが: Chuyển 180 độ — trang trọng nhất
+### Scenario 3 — 話は変わりますが: Chuyển 180 độ — trang trọng nhất
 
 *cần đổi sang vấn đề công việc nhạy cảm · chuyển sang tông nghiêm túc*
 
@@ -83,16 +83,16 @@
 | **松本** | 「ああ、はいはい、どうぞ。」 |
 |  | *À vâng vâng, em nói đi.* |
 
-📝【3】 「話は変わりますが」 = chuyển chủ đề rõ ràng nhất, trang trọng cao. Báo hiệu "chủ đề sau khác hoàn toàn". Dùng khi:
+【3】 「話は変わりますが」 = chuyển chủ đề rõ ràng nhất, trang trọng cao. Báo hiệu "chủ đề sau khác hoàn toàn". Dùng khi:
 - Chuyển từ 雑談 → công việc nghiêm túc.
 - Chuyển sang chủ đề nhạy cảm cần khách tập trung.
 - Khi không có liên kết tự nhiên giữa 2 chủ đề.
 
-❌ KHÔNG dùng「話は変わりますが」 quá thường — bị xem là cứng.
+ KHÔNG dùng「話は変わりますが」 quá thường — bị xem là cứng.
 
 ---
 
-### 📍 Scenario 4 — XẤU: Chuyển phũ, không từ chuyển
+### Scenario 4 — XẤU: Chuyển phũ, không từ chuyển
 
 *đang kể về 飛騨牛 say sưa · NG — cắt phũ · cứng*
 
@@ -105,9 +105,9 @@
 | **加藤** | 「…え、ああ…(內心: cắt giữa câu chuyện?)」 |
 |  | *...ơ, à... (trong lòng: bị cắt giữa câu chuyện?)* |
 
-❌ **Vì sao XẤU:** Không từ chuyển = phá nhịp đột ngột. "そうですか" + nhảy thẳng = lạnh, vô cảm. Khách đang hứng kể bị vứt giữa chừng.
+ **Vì sao XẤU:** Không từ chuyển = phá nhịp đột ngột. "そうですか" + nhảy thẳng = lạnh, vô cảm. Khách đang hứng kể bị vứt giữa chừng.
 
-✅ **Đúng:**
+ **Đúng:**
 
 *đóng chủ đề cũ + chuyển sang mềm mại*
 
@@ -126,7 +126,7 @@
 
 ---
 
-## 🎯 Câu vàng copy-paste
+## Câu vàng copy-paste
 
 ```
 ■ そういえば — liên kết nhẹ:
@@ -155,7 +155,7 @@
 
 ---
 
-## ⚠ NG — tuyệt đối tránh
+## NG — tuyệt đối tránh
 
 - **Cắt phũ giữa câu khách kể** (không từ chuyển, không phản ứng) → khách cứng mặt.
 - **Dùng「話は変わりますが」 liên tục** → cứng, máy móc.
@@ -165,21 +165,21 @@
 
 ---
 
-## 📚 Vocab
+## Vocab
 
-| 漢字 | よみ | Nghĩa |
-|------|------|-------|
-| ところで | — | "À mà…" — ngắt trang trọng |
-| そういえば | — | "Nhân tiện nhớ ra…" — liên tưởng |
-| 話は変わりますが | はなしはかわりますが | "Đổi chủ đề một chút…" — chuyển hẳn rõ |
-| 転換 | てんかん | Chuyển đổi |
-| 唐突 | とうとつ | Đột ngột (mang nghĩa tiêu cực) |
-| 自然な流れ | しぜんなながれ | Mạch tự nhiên |
-| 霜降り | しもふり | Vân mỡ trong thịt bò (vd 飛騨牛) |
+| Từ | Cách đọc | Hán Việt | Nghĩa Việt |
+|------|------|------|-------|
+| ところで | ところで | — | "À mà…" — ngắt trang trọng |
+| そういえば | そういえば | — | "Nhân tiện nhớ ra…" — liên tưởng |
+| 話は変わりますが | はなしはかわりますが | THOẠI BIẾN | "Đổi chủ đề một chút…" — chuyển hẳn rõ |
+| 転換 | てんかん | CHUYỂN HOÁN | Chuyển đổi |
+| 唐突 | とうとつ | ĐƯỜNG ĐỘT | Đột ngột (mang nghĩa tiêu cực) |
+| 自然な流れ | しぜんなながれ | TỰ NHIÊN | Mạch tự nhiên |
+| 霜降り | しもふり | SƯƠNG GIÁNG | Vân mỡ trong thịt bò (vd 飛騨牛) |
 
 ---
 
-## 🎓 BJT
+## BJT
 
 **J3 — 場面把握:** Chọn từ chuyển đúng cho ngữ cảnh (trang trọng hay thân mật, có liên kết hay không).
 **J2 — 表現読解:** Phân biệt sắc thái 3 từ chuyển chính + nhận biết câu báo hiệu trước khi chuyển chủ đề.
