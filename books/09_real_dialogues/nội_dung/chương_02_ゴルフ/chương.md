@@ -6,7 +6,7 @@
 
 ---
 
-## 💡 Bí quyết tổng
+## Bí quyết tổng
 
 - Golf với khách JP = 6 tiếng phi-nghiệp-vụ để xây dựng tin tưởng. Điểm thấp = không sao; thái độ đúng = quan trọng.
 - Dậy sớm cực (5h sáng) — uống cà phê sẵn, ăn nhẹ. Không được ngáp trước khách.
@@ -32,7 +32,7 @@
 *[Taxi chạy 1.5 tiếng tới Chiba. Dũng ngủ gật 30 phút giữa đường, Tuấn lắc tay 'dậy đi sắp tới rồi'.]*
 
 
-### 💡 Bí quyết — Dậy sớm cho vòng golf JP
+### Bí quyết — Dậy sớm cho vòng golf JP
 
 Tee off thường 7:30-8:00 sáng. Cộng 1.5h di chuyển + 30 phút khởi động → dậy 5:00-5:30. **Mẹo sống sót**: ngủ sớm tối hôm trước (22:00), uống caffeine nhẹ trước khi xuống sảnh, nhai kẹo cao su bạc hà — đừng để khách thấy ngáp. Túi golf thuê đặt trước qua lễ tân khách sạn.
 
@@ -61,7 +61,7 @@ Tee off thường 7:30-8:00 sáng. Cộng 1.5h di chuyển + 30 phút khởi đ�
 | **松本PM** | 「じゃあ、コーヒー一杯飲んで、ドライビングレンジで体ほぐそうか。」<br/>*Vậy uống ly cà phê đã, ra driving range khởi động nhé.* |
 
 
-### 💡 Bí quyết — Phép tắc trong nhà câu lạc bộ JP
+### Bí quyết — Phép tắc trong nhà câu lạc bộ JP
 
 Sân golf JP nghiêm ngặt:
 - **Cởi giày bước vào nhà câu lạc bộ** — đổi dép trong.
@@ -93,7 +93,7 @@ Sân golf JP nghiêm ngặt:
 | **松本PM** | 「OK、本コースで力<ruby>抜<rt>ぬ</rt></ruby>けば大丈夫。じゃあ7:55、1番ホールに行こう。」<br/>*OK, ra sân thật mà thả lỏng là được. Vậy 7:55 ra lỗ 1.* |
 
 
-### 💡 Bí quyết — Khởi động khi mới chơi
+### Bí quyết — Khởi động khi mới chơi
 
 Trượt bóng khởi động = OK, đừng hoảng. Khách JP **không đánh giá kỹ thuật** — họ đã mời biết bạn mới chơi. Họ đánh giá **thái độ**: bạn có cười được khi trượt không, có nhận lời khuyên không, có giữ nhịp khởi động không. Mẹo: khởi động chỉ dùng 7-iron, đừng động vào driver — quả driver trượt to giữa nhiều người là thảm họa tinh thần.
 
@@ -129,12 +129,12 @@ Trượt bóng khởi động = OK, đừng hoảng. Khách JP **không đánh g
 | **大垣 営業部長** | 「じゃあそれでいこう。<ruby>最初<rt>さいしょ</rt></ruby>の OB ボールは、田中の名前で残しとこうか(笑)。」<br/>*Vậy chơi với quả đó. Quả OB lúc nãy để tên Tanaka đi (cười).* |
 
 
-### 💡 Bí quyết — Mulligan = cử chỉ tin tưởng
+### Bí quyết — Mulligan = cử chỉ tin tưởng
 
 **Mulligan** = đánh lại miễn phí, không tính điểm. Ở Nhật:
-- ✅ Chủ nhà offer mulligan ở lỗ 1 cho người mới = **cử chỉ tin tưởng**, đừng từ chối kiêu.
-- ✅ Cảm ơn rõ ràng + chỉ xài 1 lần / vòng (không xài lại ở lỗ 2-3).
-- ❌ Đừng tự ý 'tao đánh lại nhé' — phải đợi chủ nhà đề nghị.
+- Chủ nhà offer mulligan ở lỗ 1 cho người mới = **cử chỉ tin tưởng**, đừng từ chối kiêu.
+- Cảm ơn rõ ràng + chỉ xài 1 lần / vòng (không xài lại ở lỗ 2-3).
+- Đừng tự ý 'tao đánh lại nhé' — phải đợi chủ nhà đề nghị.
 - 'Tee shot OB lỗ 1' là chuyện ai cũng từng — khách JP đã lường trước.
 
 
@@ -166,7 +166,7 @@ Trượt bóng khởi động = OK, đừng hoảng. Khách JP **không đánh g
 | **ズン** | 「<ruby>了解<rt>りょうかい</rt></ruby>、松本さんにもメールで送ります。」<br/>*Vâng, em gửi cả mail cho anh Matsumoto.* |
 
 
-### 💡 Bí quyết — Chụp ảnh kỷ niệm
+### Bí quyết — Chụp ảnh kỷ niệm
 
 Sân golf JP có 1-2 lỗ đặc trưng đẹp — chủ nhà hay đề nghị chụp ảnh. Mẹo:
 - **Luôn để điện thoại trong túi quần** (không bỏ trong bag), tránh phải chạy ra cart.
@@ -191,7 +191,7 @@ Sân golf JP có 1-2 lỗ đặc trưng đẹp — chủ nhà hay đề nghị c
 | **大垣 営業部長** | 「あと9ホールあるから、<ruby>後半<rt>こうはん</rt></ruby><ruby>挽回<rt>ばんかい</rt></ruby>しよう。お腹すいたから昼ごはん行こう。」<br/>*Còn 9 lỗ nữa, hiệp sau cứu lại đi. Đói rồi, đi ăn trưa.* |
 
 
-### 💡 Bí quyết — Điểm xấu — không sao
+### Bí quyết — Điểm xấu — không sao
 
 Người mới chơi golf điểm 100+ là bình thường. Khách JP biết. Họ đánh giá:
 - Bạn có **thực sự vui** không?
@@ -224,12 +224,12 @@ Người mới chơi golf điểm 100+ là bình thường. Khách JP biết. H�
 | **トゥアンリーダー** | 「美味しいですね。ベトナムにもこういう『コース後のお<ruby>決<rt>き</rt></ruby>まり料理』ないなあ、面白い<ruby>文化<rt>ぶんか</rt></ruby>。」<br/>*Ngon thật. Việt Nam không có món 'sau course là phải ăn cái này' kiểu này nhỉ, văn hóa thú vị.* |
 
 
-### 💡 Bí quyết — Bia bữa trưa golf — từ chối khéo
+### Bí quyết — Bia bữa trưa golf — từ chối khéo
 
 Chủ nhà hay mời 1 bia bữa trưa. Người mới chơi:
-- ❌ **Đừng nhận** — 9 lỗ sau sẽ khó tập trung + nguy hiểm khi swing.
-- ✅ **Từ chối khéo** với lý do kỹ thuật: '午後まだ 9 ホールあるので集中したい' = lý do chuyên nghiệp, chủ nhà chấp nhận.
-- ❌ Đừng từ chối kiểu '私はお酒飲めません' — quá tuyệt đối, chủ nhà khó mời lần sau.
+- **Đừng nhận** — 9 lỗ sau sẽ khó tập trung + nguy hiểm khi swing.
+- **Từ chối khéo** với lý do kỹ thuật: '午後まだ 9 ホールあるので集中したい' = lý do chuyên nghiệp, chủ nhà chấp nhận.
+- Đừng từ chối kiểu '私はお酒飲めません' — quá tuyệt đối, chủ nhà khó mời lần sau.
 - Sau vòng + onsen mới uống bia OK.
 
 
@@ -249,7 +249,7 @@ Chủ nhà hay mời 1 bia bữa trưa. Người mới chơi:
 | **松本PM** | 「OK、じゃあ降っても続けられる。Hole 10 行こう。」<br/>*OK, vậy mưa cũng chơi tiếp được. Ra lỗ 10 nhé.* |
 
 
-### 💡 Bí quyết — Chủ động theo dõi thời tiết
+### Bí quyết — Chủ động theo dõi thời tiết
 
 Người ít kinh nghiệm nhất trong nhóm = **người theo dõi thời tiết mặc định**. Kiểm tra Yahoo Weather Japan / tenki.jp mỗi 1-2 lỗ nếu trời nghi mưa. Báo cáo ngắn cho chủ nhà: '14h雨20%, 念のため傘確認しました'. Đàn anh ấn tượng vì không cần bận tâm thời tiết = giảm gánh nặng nhận thức.
 
@@ -279,13 +279,13 @@ Người ít kinh nghiệm nhất trong nhóm = **người theo dõi thời ti�
 *[Dũng cảm thấy ấm trong bụng. Lần đầu được Ōgaki vỗ vai từ Phase 1 đến giờ.]*
 
 
-### 💡 Bí quyết — Học từ đàn anh tại sân — khoảnh khắc vàng
+### Bí quyết — Học từ đàn anh tại sân — khoảnh khắc vàng
 
 Đàn anh dạy bạn 1 kỹ năng tại sân (bunker shot, putting line, chọn gậy approach) = khoảnh khắc gắn kết quan hệ mạnh nhất trong 6 tiếng vòng golf. Mẹo:
-- ✅ **Hỏi cụ thể** trước khi đàn anh đề nghị ('どう打つんだろう' — Dũng nói lớn cho Ōgaki nghe).
-- ✅ **Thử ngay** sau khi học — không nói 'để em tập sau'.
-- ✅ Sau khi thành công, **cảm ơn cụ thể** ('スタンスのアドバイス、効きました').
-- ❌ Đừng giả ngu để xin dạy — đàn anh nhận ra ngay.
+- **Hỏi cụ thể** trước khi đàn anh đề nghị ('どう打つんだろう' — Dũng nói lớn cho Ōgaki nghe).
+- **Thử ngay** sau khi học — không nói 'để em tập sau'.
+- Sau khi thành công, **cảm ơn cụ thể** ('スタンスのアドバイス、効きました').
+- Đừng giả ngu để xin dạy — đàn anh nhận ra ngay.
 
 
 ---
@@ -317,13 +317,13 @@ Người ít kinh nghiệm nhất trong nhóm = **người theo dõi thời ti�
 | **松本PM** | 「(ピンを<ruby>刺<rt>さ</rt></ruby>し<ruby>直<rt>なお</rt></ruby>して)ズンさん、ピンの置き方、後で<ruby>覚<rt>おぼ</rt></ruby>えとこう。グリーンを<ruby>大事<rt>だいじ</rt></ruby>にするのが日本ゴルフの<ruby>基本<rt>きほん</rt></ruby>。」<br/>*(cắm cờ pin lại) Dũng à, cách đặt pin nhớ cho lần sau. Giữ green cẩn thận là cơ bản của golf Nhật.* |
 
 
-### 💡 Bí quyết — Phép tắc cầm cờ pin
+### Bí quyết — Phép tắc cầm cờ pin
 
 Khi chủ nhà putt, người ít kinh nghiệm cầm cờ pin = nghi thức:
-- ✅ Rút cờ pin ra **trước khi chủ nhà putt**, không sau.
-- ✅ Đặt cờ pin **ngoài green hoặc trên fringe** — không trên mặt green.
-- ✅ Sau khi bóng vào lỗ, **cắm cờ pin lại** trước khi rời.
-- ❌ Đừng quăng cờ pin xuống — luôn đặt nhẹ nhàng (cờ có kim loại, có thể làm rách green).
+- Rút cờ pin ra **trước khi chủ nhà putt**, không sau.
+- Đặt cờ pin **ngoài green hoặc trên fringe** — không trên mặt green.
+- Sau khi bóng vào lỗ, **cắm cờ pin lại** trước khi rời.
+- Đừng quăng cờ pin xuống — luôn đặt nhẹ nhàng (cờ có kim loại, có thể làm rách green).
 - Lỗi nhỏ này chủ nhà **sẽ dạy nhẹ nhàng** chứ không la — nhưng tránh được là chuyên nghiệp hơn.
 
 
@@ -355,14 +355,14 @@ Khi chủ nhà putt, người ít kinh nghiệm cầm cờ pin = nghi thức:
 *[Dũng ngâm 5 phút, ra. Sauna 8 phút. Nước lạnh 30 giây. Lặp 2 lần. Sau 1 tiếng, người nhẹ tênh.]*
 
 
-### 💡 Bí quyết — Onsen sau golf — ôn lại từ sách 07
+### Bí quyết — Onsen sau golf — ôn lại từ sách 07
 
 **Ôn lại từ sách 07 (rule onsen):**
-- ✅ Ngồi ghế nhựa rửa người 5 phút trước khi vào bồn.
-- ✅ Khăn nhỏ trên đầu hoặc cạnh bồn — không nhúng vào nước.
-- ✅ Tóc dài thì cột lên.
-- ❌ Không bơi, không ngụp, không nói to.
-- ❌ Nếu có hình xăm to, **báo trước** cho chủ nhà về sân onsen có chấp nhận không (nhiều sân JP cấm xăm).
+- Ngồi ghế nhựa rửa người 5 phút trước khi vào bồn.
+- Khăn nhỏ trên đầu hoặc cạnh bồn — không nhúng vào nước.
+- Tóc dài thì cột lên.
+- Không bơi, không ngụp, không nói to.
+- Nếu có hình xăm to, **báo trước** cho chủ nhà về sân onsen có chấp nhận không (nhiều sân JP cấm xăm).
 
 **Chủ đề an toàn trong bồn**: thời tiết, cảm nhận onsen, hỏi quê khách. Tránh chuyện công việc.
 
@@ -391,18 +391,18 @@ Khi chủ nhà putt, người ít kinh nghiệm cầm cờ pin = nghi thức:
 | **松本PM** | 「じゃあ、また。気をつけて帰ってね。」<br/>*Vậy hẹn gặp lại. Về cẩn thận nhé.* |
 
 
-### 💡 Bí quyết — Khách rủ lần sau = dấu hiệu quan hệ đi sâu hơn
+### Bí quyết — Khách rủ lần sau = dấu hiệu quan hệ đi sâu hơn
 
 Chủ nhà rủ 'tháng sau làm tiếp' = quan hệ đã lên tầm mới. Cách trả lời:
-- ✅ **Cảm ơn rõ ràng** ('光栄です').
-- ✅ **Không hứa cụ thể ngay** nếu chưa kiểm tra lịch — chuyên nghiệp hơn câu 'はい行きます!' rồi sau đó hủy.
-- ✅ **Cam kết thời hạn trả lời** ('日程候補もらってからお返事します').
-- ❌ Đừng từ chối thẳng dù bận — hãy đề xuất ngày khác.
+- **Cảm ơn rõ ràng** ('光栄です').
+- **Không hứa cụ thể ngay** nếu chưa kiểm tra lịch — chuyên nghiệp hơn câu 'はい行きます!' rồi sau đó hủy.
+- **Cam kết thời hạn trả lời** ('日程候補もらってからお返事します').
+- Đừng từ chối thẳng dù bận — hãy đề xuất ngày khác.
 
 
 ---
 
-## 🌅 Tổng kết của Dũng — ghi vào nhật ký
+## Tổng kết của Dũng — ghi vào nhật ký
 
 *Trên xe taxi về Tokyo, 18:30. Dũng + Tuấn ngồi sau, mệt nhưng phấn khởi.*
 
@@ -437,5 +437,5 @@ Mình:
 
 ---
 
-> **Hizashi Sách 09 — Chương 02 — 週末ゴルフ同行記**  
+> **Hizashi Sách 09 — Chương 02 — 週末ゴルフ同行記**
 > *Cuối tuần đi golf cùng khách.*

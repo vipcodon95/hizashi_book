@@ -1,61 +1,32 @@
-# Hizashi Sách 09 — Hội thoại thực tế / 実践会話シーン集
+# Hizashi — Hội thoại thực tế / 実践会話シーン集
 
-**Hizashi Teams. 2027. Phiên bản 0.2**
+*Hizashi Teams.*
 
----
+## Sách song ngữ Việt-Nhật cho người Việt làm với khách hàng
 
-## 🇻🇳 Lời nói đầu
+8 chương hội thoại thực tế — mỗi chương là một sự kiện trọn ngày (triển lãm, golf, tiệc tất niên, công tác, tiếp khách, suối nước nóng, ra mắt sản phẩm, đám cưới) với khách hàng Nhật.
+
+## Lời nói đầu
 
 Sách 02–08 dạy bạn **quy tắc + tâm lý + kịch bản ngắn**. Đủ để bạn vào tình huống nào cũng có "khung" để bám.
 
-Nhưng đời thực **không phẳng theo từng quy tắc**. Một ngày đi triển lãm cùng khách Nhật là một dòng chảy: 8 giờ sáng chào nhau ở cổng → 9 giờ vào lấy thẻ tên → 10 giờ thăm gian hàng thứ nhất → 12 giờ ăn trưa → 14 giờ nghe bài phát biểu chính → 16 giờ chơi trò chơi ở gian hàng lấy quà → 17 giờ mua quà lưu niệm → 18 giờ chia tay. Mỗi đoạn ngắn nhưng nối liền. Lúc bạn đứng ở gian hàng thứ ba, bạn vẫn còn "**dư âm**" của gian hàng thứ hai trong đầu khách.
+Nhưng đời thực **không phẳng theo từng quy tắc**. Một ngày đi triển lãm cùng khách hàng là một dòng chảy: 8 giờ sáng chào nhau ở cổng → 9 giờ vào lấy thẻ tên → 10 giờ thăm gian hàng thứ nhất → 12 giờ ăn trưa → 14 giờ nghe bài phát biểu chính → 16 giờ chơi trò chơi ở gian hàng lấy quà → 17 giờ mua quà lưu niệm → 18 giờ chia tay. Mỗi đoạn ngắn nhưng nối liền. Lúc bạn đứng ở gian hàng thứ ba, bạn vẫn còn "**dư âm**" của gian hàng thứ hai trong đầu khách.
 
-Sách 09 là **dòng chảy đó**. Mỗi chương = 1 sự kiện kéo dài trọn ngày (hoặc trọn buổi, hoặc trọn tuần). Bạn đọc hội thoại **liên tục từ đầu đến cuối**, đúng như lúc bạn thật sự đi cùng khách.
+Sách 09 là **dòng chảy đó**. Mỗi chương = 1 sự kiện kéo dài trọn ngày (hoặc trọn buổi, hoặc trọn tuần). Bạn đọc hội thoại **liên tục từ đầu đến cuối**, đúng như lúc bạn thật sự đi cùng khách hàng. Khi nào cần lưu ý, sách chèn một đoạn **Bí quyết** ngắn vào giữa tình huống.
 
-Không có quy tắc cứng. Khi nào cần lưu ý, sách chèn **💡 Bí quyết** ngắn vào giữa tình huống.
+Mỗi lượt thoại gồm câu tiếng Nhật (có furigana cho từ N4 trở lên) và phần dịch tiếng Việt in nghiêng ngay bên dưới. Suy nghĩ trong đầu và mô tả khung cảnh được trình bày bằng *chữ in nghiêng* xen giữa các lượt thoại.
 
----
+## Nhân vật
 
-## 📐 Cách đọc mỗi câu hội thoại
+**Thiên Phát (ティエンファット社 — công ty phần mềm tại TP.HCM):** Dũng (chuyên viên phát triển kinh doanh, nhân vật chính), chị Hương, anh Tuấn, em Linh, em Hải, anh Hà CTO.
 
-> **Tên người**: 「câu tiếng Nhật」
-> *câu tiếng Việt dịch nghĩa — chữ in nghiêng*
+**Khách hàng 白鷗株式会社 (Hakuō):** anh Matsumoto (Tokyo), anh Ōgaki (Osaka), anh Nakamura CFO (Hokkaido), anh Tanaka PMO (Kanagawa), anh Inoue (quản lý sản phẩm).
 
-- Mỗi lượt thoại gồm 2 dòng: dòng trên là tiếng Nhật, dòng dưới là phần dịch tiếng Việt in nghiêng ngay bên dưới.
-- Tiếng Nhật có **furigana** (phiên âm hiragana nhỏ phía trên) cho các từ từ trình độ N4 trở lên.
-- Suy nghĩ trong đầu của Dũng được trình bày thành một dòng in nghiêng riêng *[Dũng nghĩ: ...]*, không có tên người đứng trước.
-- Mô tả khung cảnh, hành động, bối cảnh được trình bày bằng *chữ in nghiêng* xen giữa các lượt thoại.
+**Theo vùng:** chị Yamamoto (Osaka), anh Sato (Fukuoka), anh Itoki (Nagoya).
 
----
+**Đối thủ phía Việt Nam:** anh Hùng (Thanh Hà Software, văn phòng Tokyo) — bạn cũ của Dũng.
 
-## 🎬 Tuyến nhân vật (kế thừa từ sách 02–08 + 4 nhân vật mới)
-
-**Công ty Thiên Phát (ティエンファット社, công ty phần mềm tại TP.HCM):**
-- em Dũng / ズン — chuyên viên phát triển kinh doanh, nhân vật chính
-- chị Hương / フオン副部長 — sếp của Dũng
-- anh Tuấn / トゥアンリーダー — trưởng nhóm kỹ thuật
-- em Linh / リン — nhân viên mới
-- em Hải / ハイ — kỹ sư vận hành hệ thống
-- anh Hà / ハーCTO — giám đốc công nghệ
-
-**Khách 白鷗株式会社 (trụ sở Tokyo + các chi nhánh):**
-- anh Matsumoto / 松本PM — quản lý dự án (Tokyo)
-- anh Ōgaki / 大垣営業部長 — trưởng phòng kinh doanh (Osaka)
-- anh Nakamura / 中村CFO (Hokkaido)
-- anh Tanaka / 田中PMO (Kanagawa)
-- anh Inoue / 井上 — quản lý sản phẩm (mới sách 09, từ chương 1)
-
-**Nhân vật theo vùng (xuất hiện theo chương):**
-- chị Yamamoto / 山本マネージャー (Osaka, giọng Kansai) — chương 3 tiệc tất niên
-- anh Sato / 佐藤先生 (đàn anh ở Fukuoka) — chương 3 tiệc tất niên
-- anh Itoki / 伊藤 (kỹ sư Nagoya) — chương 4 onsite
-
-**Đối thủ phía Việt Nam (nhân vật hư cấu):**
-- anh Hùng / フン (Phạm Quốc Hùng, Thanh Hà Software / タインハー・ソフトウェア) — bạn cũ của Dũng, trưởng nhóm phát triển kinh doanh tại văn phòng Tokyo của Thanh Hà. Mới sách 09, chương 1 + 10.
-
----
-
-## 📚 Danh mục chương
+## Danh mục chương
 
 | # | Chương | Bối cảnh | Số tình huống |
 |---|--------|----------|----------|
@@ -68,8 +39,10 @@ Không có quy tắc cứng. Khi nào cần lưu ý, sách chèn **💡 Bí quy�
 | 07 | Lễ ra mắt sản phẩm chung | Lễ ra mắt sản phẩm chung tại Pacifico (3/2027) | 12 |
 | 08 | Tiệc cưới đồng nghiệp Nhật | Đám cưới Tanaka — khách sạn Imperial Tokyo (5/2027) | 11 |
 
-**Tổng: 94 tình huống, 8 chương** — mạch truyện kéo dài khoảng 12 tháng (5/2026 → 5/2027), từ giai đoạn Dũng còn là chuyên viên phát triển kinh doanh non trẻ đến khi được công nhận và được mời gặp gia đình.
+**Tổng: 94 tình huống, 8 chương** — mạch truyện kéo dài khoảng 12 tháng (5/2026 → 5/2027), từ giai đoạn Dũng còn là chuyên viên non trẻ đến khi được công nhận và được mời gặp gia đình khách hàng.
 
----
+## Bản quyền
 
-*Hizashi Sách 09 — Tia nắng theo từng giờ trong một ngày, một tuần, một năm làm việc cùng khách Nhật.*
+© 2026 Hizashi Teams. Sáng tác gốc.
+
+*Hizashi — Tia nắng theo từng giờ trong một ngày, một tuần, một năm làm việc cùng khách hàng.*

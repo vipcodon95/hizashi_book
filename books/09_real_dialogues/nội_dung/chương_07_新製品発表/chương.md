@@ -6,7 +6,7 @@
 
 ---
 
-## 💡 Bí quyết tổng
+## Bí quyết tổng
 
 - Lễ ra mắt sản phẩm chung = lần đầu Dũng có thời gian trên sân khấu tại sự kiện Tokyo. Áp lực cao.
 - Chuẩn bị sân khấu: chạy thử + tải slide + kiểm tra mic. Mọi thứ đều có thể trục trặc — có phương án dự phòng từng bước.
@@ -52,13 +52,13 @@
 | **ズン** | 「(<ruby>顔<rt>かお</rt></ruby><ruby>赤<rt>あか</rt></ruby>く)ありがとうございます…<ruby>内心<rt>ないしん</rt></ruby>ヒリヒリでした。」<br/>*(mặt đỏ) Cảm ơn anh… trong lòng em hồi hộp.* |
 
 
-### 💡 Bí quyết — Buổi chạy thử = kiểm tra trục trặc trong vùng an toàn
+### Bí quyết — Buổi chạy thử = kiểm tra trục trặc trong vùng an toàn
 
 Chạy thử hôm trước sự kiện = nơi để mọi thứ hỏng trong vùng AN TOÀN:
-- ✅ **Kiểm tra mic / slide / ánh sáng / thời gian** — phát hiện sự cố trước.
-- ✅ **Giữ bình tĩnh khi trục trặc** — Dũng đứng đợi 5 phút thản nhiên = luyện cho ngày thật.
-- ✅ **Phương án dự phòng**: 2 mic + 2 bộ slide (USB + đám mây) + slide in giấy phát tay.
-- ✅ **Dán kẹp mic cài áo** = tránh trượt khi thuyết trình.
+- **Kiểm tra mic / slide / ánh sáng / thời gian** — phát hiện sự cố trước.
+- **Giữ bình tĩnh khi trục trặc** — Dũng đứng đợi 5 phút thản nhiên = luyện cho ngày thật.
+- **Phương án dự phòng**: 2 mic + 2 bộ slide (USB + đám mây) + slide in giấy phát tay.
+- **Dán kẹp mic cài áo** = tránh trượt khi thuyết trình.
 - Bí quyết tâm lý: 'hỏng lúc chạy thử = thắng ngày biểu diễn thật'.
 
 
@@ -70,27 +70,27 @@ Chạy thử hôm trước sự kiện = nơi để mọi thứ hỏng trong vù
 
 *[Phòng yên. Dũng ngồi bàn nhỏ, MacBook mở bộ slide. Đọc lần thứ 8. Câu chuyển tiếp từ slide 3 → 4 vẫn còn gượng. Sửa lại lời.]*
 
-*[Mở YouTube — tìm 'TED talk product launch Japanese 5 minute'. Tìm 1 video giám đốc người Nhật thuyết trình 5 phút. Xem 2 lần, học nhịp điệu. Ghi nhớ: dừng 2 giây sau thông điệp chính, không sợ khoảng im lặng.]*
+*[Mở YouTube — tìm 'TED talk ra mắt sản phẩm tiếng Nhật 5 phút'. Tìm 1 video giám đốc người Nhật thuyết trình 5 phút. Xem 2 lần, học nhịp điệu. Ghi nhớ: dừng 2 giây sau thông điệp chính, không sợ khoảng im lặng.]*
 
 *[Đứng dậy. Đi quanh phòng đọc slide 5 phút đầy đủ. Bấm giờ bằng iPhone — 5:23. Hơi quá. Cắt 1 câu ở slide 4. Bấm giờ lại — 4:47. Ổn.]*
 
-*[Mở Slack — nhắn Tuấn (HCMC, 20:00 giờ VN): 'Anh, em vừa chạy thử slide cuối, 4:47. Mai sáng gặp anh ở hậu trường'. Tuấn trả lời 1 phút sau: '👍 Em ngủ sớm. Nhớ uống trà ấm trước khi thuyết trình'.]*
+*[Mở Slack — nhắn Tuấn (HCMC, 20:00 giờ VN): 'Anh, em vừa chạy thử slide cuối, 4:47. Mai sáng gặp anh ở hậu trường'. Tuấn trả lời 1 phút sau: ' Em ngủ sớm. Nhớ uống trà ấm trước khi thuyết trình'.]*
 
 *[Đặt báo thức 6:30. Tắt laptop. Vào phòng tắm rửa mặt. Nhìn gương — mặt thấy mình lạ. 'Mai mình lần đầu lên sân khấu Tokyo'. Hít thở 5 lần.]*
 
 *[Lên giường 22:45. Tắt đèn. Não vẫn chạy slide. Đếm thở 4-7-8 (kỹ thuật ngủ học từ Tuấn). 5 phút sau ngủ.]*
 
 
-### 💡 Bí quyết — Đêm trước sân khấu — danh sách kiểm tra trước giờ G
+### Bí quyết — Đêm trước sân khấu — danh sách kiểm tra trước giờ G
 
 Đêm trước sự kiện lớn = kiểm soát lo âu + chuẩn bị cuối:
-- ✅ **Chạy slide thật** đứng + nói to (không đọc thầm) — bắt các chỗ chuyển tiếp gượng.
-- ✅ **Bấm giờ bằng điện thoại** — quá giờ = cắt, không để vượt.
-- ✅ **Xem 1 bài phát biểu tham chiếu TED/khai mạc** cùng ngôn ngữ — học nhịp điệu.
-- ✅ **Liên lạc đồng đội** (Tuấn HCMC) — chốt thông tin, điểm tựa tinh thần.
-- ✅ **Kỹ thuật ngủ** (thở 4-7-8, không caffeine sau 18h) — ngủ là ưu tiên.
-- ❌ **Đừng tập quá nhiều** — mỏi giọng + mất tự nhiên.
-- ❌ **Đừng uống rượu xả stress** — phản tác dụng.
+- **Chạy slide thật** đứng + nói to (không đọc thầm) — bắt các chỗ chuyển tiếp gượng.
+- **Bấm giờ bằng điện thoại** — quá giờ = cắt, không để vượt.
+- **Xem 1 bài phát biểu tham chiếu TED/khai mạc** cùng ngôn ngữ — học nhịp điệu.
+- **Liên lạc đồng đội** (Tuấn HCMC) — chốt thông tin, điểm tựa tinh thần.
+- **Kỹ thuật ngủ** (thở 4-7-8, không caffeine sau 18h) — ngủ là ưu tiên.
+- **Đừng tập quá nhiều** — mỏi giọng + mất tự nhiên.
+- **Đừng uống rượu xả stress** — phản tác dụng.
 
 
 ---
@@ -116,14 +116,14 @@ Chạy thử hôm trước sự kiện = nơi để mọi thứ hỏng trong vù
 | **トゥアンリーダー** | 「(ベトナム語、肩を叩く)Mày OK. 5 phút đó mày sẽ nhớ cả đời, dù tốt hay không. Cứ là chính mày.」<br/>*(tiếng Việt, vỗ vai) Mày OK. 5 phút đó mày sẽ nhớ cả đời, dù tốt hay không. Cứ là chính mày.* |
 
 
-### 💡 Bí quyết — Đàn anh huấn luyện trước khoảnh khắc lên sân khấu
+### Bí quyết — Đàn anh huấn luyện trước khoảnh khắc lên sân khấu
 
 Tuấn đã đến đúng lúc, vai trò người dẫn dắt sáng sự kiện:
-- ✅ **Không ép ăn** — dạ dày mất ngon khi căng thẳng là chuyện sinh học, ép = phản tác dụng.
-- ✅ **Trà ấm hơn cà phê** — caffeine + lo lắng = tay run + tim đập nhanh.
-- ✅ **3 nhắc nhở cụ thể** — dừng slide 3-4 / kịch bản mic hỏng / 'cứ là mày'.
-- ✅ **Vỗ vai cuối** = ngôn ngữ cơ thể tạo điểm chốt.
-- ✅ Tuấn thực hiện vai trò 'phi công phụ' — Dũng là phi công chính, Tuấn dự phòng.
+- **Không ép ăn** — dạ dày mất ngon khi căng thẳng là chuyện sinh học, ép = phản tác dụng.
+- **Trà ấm hơn cà phê** — caffeine + lo lắng = tay run + tim đập nhanh.
+- **3 nhắc nhở cụ thể** — dừng slide 3-4 / kịch bản mic hỏng / 'cứ là mày'.
+- **Vỗ vai cuối** = ngôn ngữ cơ thể tạo điểm chốt.
+- Tuấn thực hiện vai trò 'phi công phụ' — Dũng là phi công chính, Tuấn dự phòng.
 
 
 ---
@@ -155,14 +155,14 @@ Tuấn đã đến đúng lúc, vai trò người dẫn dắt sáng sự kiện:
 | **トゥアンリーダー** | 「(ベトナム語、小声)Em sẵn sàng. Đi chuẩn bị nước + kiểm tra ngoại hình lần cuối.」<br/>*(tiếng Việt nhỏ giọng) Em sẵn sàng. Đi chuẩn bị nước + kiểm tra ngoại hình lần cuối.* |
 
 
-### 💡 Bí quyết — Slide tải lỗi = dùng thời gian chờ để thở
+### Bí quyết — Slide tải lỗi = dùng thời gian chờ để thở
 
 Trục trặc kỹ thuật trước sân khấu = chuyện thường. Cách biến thành điểm cộng:
-- ✅ **Nhận thông tin trung thực từ quản lý sân khấu** — biết chính xác còn bao lâu.
-- ✅ **Dùng 10 phút thở 4-7-8** — đặt lại hệ thần kinh theo cơ chế sinh lý.
-- ✅ **Không nhìn nhân viên IT sửa** — căng thẳng lan truyền. Đứng góc xa.
-- ✅ **Uống nước + vào nhà vệ sinh** — chuẩn bị thực tế.
-- ❌ Đừng mở slide trên iPhone xem lại — thay đổi phút chót = quên kịch bản.
+- **Nhận thông tin trung thực từ quản lý sân khấu** — biết chính xác còn bao lâu.
+- **Dùng 10 phút thở 4-7-8** — đặt lại hệ thần kinh theo cơ chế sinh lý.
+- **Không nhìn nhân viên IT sửa** — căng thẳng lan truyền. Đứng góc xa.
+- **Uống nước + vào nhà vệ sinh** — chuẩn bị thực tế.
+- Đừng mở slide trên iPhone xem lại — thay đổi phút chót = quên kịch bản.
 
 
 ---
@@ -195,15 +195,15 @@ Trục trặc kỹ thuật trước sân khấu = chuyện thường. Cách bi�
 | **松本PM** | 「(<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>目<rt>め</rt></ruby>)ありがとう、ズンさん、ナイス heads up。」<br/>*(mắt cảm kích) Cảm ơn Dũng, báo trước kịp đó.* |
 
 
-### 💡 Bí quyết — Phóng viên chặn hỏi — chuyển hướng sang đúng phiên
+### Bí quyết — Phóng viên chặn hỏi — chuyển hướng sang đúng phiên
 
 Phóng viên / chuyên gia phân tích hay 'phục kích trước sự kiện' để câu trả lời cá nhân (đôi khi ngoài kịch bản). Cách phòng:
-- ✅ **Ghi nhận + chuyển hướng** — không từ chối thẳng, chuyển sang đúng phiên.
-- ✅ **Chỉ rõ cụ thể**: 'Q&A 11:30' + 'anh Matsumoto trả lời' = họ biết chính xác khi nào.
-- ✅ **Nêu rõ phạm vi của mình**: 'phần em là giới thiệu 5 phút' = ranh giới rõ ràng.
-- ✅ **Báo trước đàn anh** ngay sau (Matsumoto) — đừng để Matsumoto bị bất ngờ lúc 11:30.
-- ❌ **Đừng đưa số liệu tùy tiện** — rủi ro pháp lý + PR.
-- ❌ **Đừng từ chối lạnh lùng** — phóng viên sẽ ghi nhớ, viết tiêu cực.
+- **Ghi nhận + chuyển hướng** — không từ chối thẳng, chuyển sang đúng phiên.
+- **Chỉ rõ cụ thể**: 'Q&A 11:30' + 'anh Matsumoto trả lời' = họ biết chính xác khi nào.
+- **Nêu rõ phạm vi của mình**: 'phần em là giới thiệu 5 phút' = ranh giới rõ ràng.
+- **Báo trước đàn anh** ngay sau (Matsumoto) — đừng để Matsumoto bị bất ngờ lúc 11:30.
+- **Đừng đưa số liệu tùy tiện** — rủi ro pháp lý + PR.
+- **Đừng từ chối lạnh lùng** — phóng viên sẽ ghi nhớ, viết tiêu cực.
 - Phóng viên khen 'プロな対応' = thái độ tôn trọng sẽ tiếp tục.
 
 
@@ -232,14 +232,14 @@ Phóng viên / chuyên gia phân tích hay 'phục kích trước sự kiện' �
 *[Dũng ghi nhẹ trên iPhone: 'Nakamura đã nhắc tên trước khán giả. Lát em thuyết trình phải đề cập 'cảm ơn gia đình Hakuō đã chào đón' — không giả vờ không nghe.']*
 
 
-### 💡 Bí quyết — Đàn anh gọi tên cá nhân trên sân khấu — ứng xử khéo léo
+### Bí quyết — Đàn anh gọi tên cá nhân trên sân khấu — ứng xử khéo léo
 
 Đàn anh phía khách (CFO Nakamura) gọi tên cá nhân + đứng lên trước khán giả = khoảnh khắc vinh dự:
-- ✅ **Đứng dậy ngay** — không do dự.
-- ✅ **Cúi đầu sâu 2 lần** — một lúc đứng, một lần sau câu khen.
-- ✅ **Mặt bình thản nhưng biết ơn** — không cười toét / không cúi gằm.
-- ✅ **Không nói từ chỗ ngồi** — nếu Nakamura không chuyển mic.
-- ✅ **Đề cập trong phần thuyết trình sau** — Dũng ghi nhớ để nhắc 'cảm ơn gia đình Hakuō' trong phần giới thiệu.
+- **Đứng dậy ngay** — không do dự.
+- **Cúi đầu sâu 2 lần** — một lúc đứng, một lần sau câu khen.
+- **Mặt bình thản nhưng biết ơn** — không cười toét / không cúi gằm.
+- **Không nói từ chỗ ngồi** — nếu Nakamura không chuyển mic.
+- **Đề cập trong phần thuyết trình sau** — Dũng ghi nhớ để nhắc 'cảm ơn gia đình Hakuō' trong phần giới thiệu.
 - Đây là dịp quảng bá cho Tien Phat + cá nhân — mối quan hệ lên tầm 'được công nhận công khai'.
 
 
@@ -280,16 +280,16 @@ Phóng viên / chuyên gia phân tích hay 'phục kích trước sự kiện' �
 | **ズン** | 「(<ruby>息切<rt>いきぎ</rt></ruby>れ)ありがとうございます…<ruby>冷<rt>ひ</rt></ruby>や<ruby>汗<rt>あせ</rt></ruby>かきました。」<br/>*(thở dốc) Cảm ơn anh… mồ hôi lạnh.* |
 
 
-### 💡 Bí quyết — Quên từ giữa sân khấu — ứng biến + nụ cười
+### Bí quyết — Quên từ giữa sân khấu — ứng biến + nụ cười
 
 Quên từ giữa bài thuyết trình = chuyện ai cũng từng. Cách xử lý khéo:
-- ✅ **Dừng 1 giây** — không giả vờ tiếp với từ sai.
-- ✅ **Thành thật + mỉm cười** — 'sorry, just escaped me' = gần gũi, khán giả thông cảm.
-- ✅ **Chuyển ngôn ngữ** nếu cần — Dũng chuyển sang tiếng Anh giải thích khái niệm, sau mới quay lại tiếng Nhật.
-- ✅ **Khán giả hỗ trợ được** — nhận '推論スピード' từ khán giả, cảm ơn.
-- ✅ **Quay ngay về số liệu** ('200ms') — lấy lại độ tin cậy.
-- ❌ **Đừng xin lỗi quá mức** — 1 câu là đủ, đừng kéo dài.
-- ❌ **Đừng giả vờ biết** rồi nói từ sai — nguy hiểm.
+- **Dừng 1 giây** — không giả vờ tiếp với từ sai.
+- **Thành thật + mỉm cười** — 'sorry, just escaped me' = gần gũi, khán giả thông cảm.
+- **Chuyển ngôn ngữ** nếu cần — Dũng chuyển sang tiếng Anh giải thích khái niệm, sau mới quay lại tiếng Nhật.
+- **Khán giả hỗ trợ được** — nhận '推論スピード' từ khán giả, cảm ơn.
+- **Quay ngay về số liệu** ('200ms') — lấy lại độ tin cậy.
+- **Đừng xin lỗi quá mức** — 1 câu là đủ, đừng kéo dài.
+- **Đừng giả vờ biết** rồi nói từ sai — nguy hiểm.
 - Kết quả: khán giả cười + Matsumoto khen 'làm khán giả cười là xử lý thần tình'.
 
 
@@ -321,15 +321,15 @@ Quên từ giữa bài thuyết trình = chuyện ai cũng từng. Cách xử l�
 | **モデレーター** | 「<ruby>次<rt>つぎ</rt></ruby>の<ruby>質問<rt>しつもん</rt></ruby>。<ruby>後<rt>うし</rt></ruby>ろの<ruby>方<rt>かた</rt></ruby>。」<br/>*Câu tiếp. Quý vị phía sau.* |
 
 
-### 💡 Bí quyết — Phiên Q&A — trả lời khi đàn anh ra hiệu
+### Bí quyết — Phiên Q&A — trả lời khi đàn anh ra hiệu
 
 Hội đồng 4 người, Q&A 30 phút = phân công ai trả lời câu nào:
-- ✅ **Đồng bộ trước phiên** — chốt mặc định 'chi phí = Matsumoto, kỹ thuật = Tuấn, BD/quy trình = Dũng, dự báo doanh thu = Ōgaki'.
-- ✅ **Đàn anh ra hiệu mắt** ('em trả lời') = khoảnh khắc tin tưởng, nhận lấy. Đừng nhường qua lại.
-- ✅ **Cấu trúc 3 điểm** — '3 lớp / 3 lý do / 3 ví dụ' = dễ theo dõi.
-- ✅ **Bằng chứng cụ thể** — 'ISO certified, 3 ngân hàng, 6 tháng vận hành' > tuyên bố mơ hồ.
-- ✅ **Chuyển chuyên gia phân tích** sang tài nguyên cụ thể nếu cần tiếp nối — không kéo dài hội thoại.
-- ❌ Đừng do dự lộ rõ — chuyên gia phân tích sẽ nghi ngờ nội dung.
+- **Đồng bộ trước phiên** — chốt mặc định 'chi phí = Matsumoto, kỹ thuật = Tuấn, BD/quy trình = Dũng, dự báo doanh thu = Ōgaki'.
+- **Đàn anh ra hiệu mắt** ('em trả lời') = khoảnh khắc tin tưởng, nhận lấy. Đừng nhường qua lại.
+- **Cấu trúc 3 điểm** — '3 lớp / 3 lý do / 3 ví dụ' = dễ theo dõi.
+- **Bằng chứng cụ thể** — 'ISO certified, 3 ngân hàng, 6 tháng vận hành' > tuyên bố mơ hồ.
+- **Chuyển chuyên gia phân tích** sang tài nguyên cụ thể nếu cần tiếp nối — không kéo dài hội thoại.
+- Đừng do dự lộ rõ — chuyên gia phân tích sẽ nghi ngờ nội dung.
 
 
 ---
@@ -362,14 +362,14 @@ Hội đồng 4 người, Q&A 30 phút = phân công ai trả lời câu nào:
 | **ズン** | 「<ruby>了解<rt>りょうかい</rt></ruby>、<ruby>来週<rt>らいしゅう</rt></ruby><ruby>月曜<rt>げつよう</rt></ruby>までに<ruby>送<rt>おく</rt></ruby>ります。」<br/>*Vâng, em gửi tới thứ 2 tuần sau.* |
 
 
-### 💡 Bí quyết — Bữa trưa giao lưu — ghi chú giữa các cuộc
+### Bí quyết — Bữa trưa giao lưu — ghi chú giữa các cuộc
 
 30 phút trưa = 6-10 cuộc gặp 5 phút. Quá tải bộ nhớ nếu không có hệ thống:
-- ✅ **Sổ tay nhỏ + bút trong túi áo** — lấy ra trong 1 giây.
-- ✅ **Sau MỖI cuộc**, ghi 1 dòng: tên / cty / vai trò / chủ đề chính / bước tiếp theo.
-- ✅ **Kẹp danh thiếp vào sổ** đúng thứ tự = không lẫn lộn.
-- ✅ **Nhắc lại tên** trong câu đầu ('Sato-san, ありがとう') = khắc sâu ký ức.
-- ✅ **Cam kết thời gian cụ thể** ('thứ 4 tuần sau') = chuyên nghiệp.
+- **Sổ tay nhỏ + bút trong túi áo** — lấy ra trong 1 giây.
+- **Sau MỖI cuộc**, ghi 1 dòng: tên / cty / vai trò / chủ đề chính / bước tiếp theo.
+- **Kẹp danh thiếp vào sổ** đúng thứ tự = không lẫn lộn.
+- **Nhắc lại tên** trong câu đầu ('Sato-san, ありがとう') = khắc sâu ký ức.
+- **Cam kết thời gian cụ thể** ('thứ 4 tuần sau') = chuyên nghiệp.
 - Cuối ngày: scan danh thiếp + sổ ghi chú vào CRM (Salesforce / HubSpot) trong 24h, không để muộn.
 
 
@@ -407,15 +407,15 @@ Hội đồng 4 người, Q&A 30 phút = phân công ai trả lời câu nào:
 | **ズン** | 「(<ruby>笑<rt>わら</rt></ruby>って)<ruby>了解<rt>りょうかい</rt></ruby>、<ruby>楽<rt>たの</rt></ruby>しみに<ruby>待<rt>ま</rt></ruby>ちます。」<br/>*(cười) Vâng, em đợi háo hức.* |
 
 
-### 💡 Bí quyết — Bản trình diễn treo — thành thật + hành động ngay
+### Bí quyết — Bản trình diễn treo — thành thật + hành động ngay
 
 Bản trình diễn treo trước khách hàng = có thể cứu được nếu xử lý đúng:
-- ✅ **Nhận lỗi ngay + cam kết mốc thời gian cụ thể** ('1 phút') — không nói lấp.
-- ✅ **Khởi động lại trong yên lặng** — không giải thích rườm rà.
-- ✅ **Khi được hỏi nguyên nhân, thành thật** — 'môi trường trình diễn dùng cấu hình tối thiểu' > 'ơ sao lại thế'.
-- ✅ **Chuyển sang môi trường thực tế + cam kết khắc phục** — thể hiện sự chín chắn, không đổ lỗi.
-- ✅ **Ghi nhận khách hàng tiềm năng** — danh thiếp + cam kết 'mai gửi thông số kỹ thuật' = biến tình huống xấu thành cơ hội.
-- ❌ Đừng chạy đi tìm Inoue khi mình có thể tự khởi động lại — lãng phí thời gian khách.
+- **Nhận lỗi ngay + cam kết mốc thời gian cụ thể** ('1 phút') — không nói lấp.
+- **Khởi động lại trong yên lặng** — không giải thích rườm rà.
+- **Khi được hỏi nguyên nhân, thành thật** — 'môi trường trình diễn dùng cấu hình tối thiểu' > 'ơ sao lại thế'.
+- **Chuyển sang môi trường thực tế + cam kết khắc phục** — thể hiện sự chín chắn, không đổ lỗi.
+- **Ghi nhận khách hàng tiềm năng** — danh thiếp + cam kết 'mai gửi thông số kỹ thuật' = biến tình huống xấu thành cơ hội.
+- Đừng chạy đi tìm Inoue khi mình có thể tự khởi động lại — lãng phí thời gian khách.
 
 
 ---
@@ -445,13 +445,13 @@ Bản trình diễn treo trước khách hàng = có thể cứu được nếu 
 *[Tiệc tiếp tân tiếp tục đến 20:00. Dũng gặp thêm 12 khách + cảm ơn Inoue + uống trà tổng kết với Tuấn.]*
 
 
-### 💡 Bí quyết — Tiệc tiếp tân = khoảnh khắc quyết định thân mật
+### Bí quyết — Tiệc tiếp tân = khoảnh khắc quyết định thân mật
 
 Tiệc tiếp tân sau sự kiện = thoải mái hơn cuộc họp kinh doanh → đàn anh nói thẳng quyết định lớn:
-- ✅ **Kiểm soát rượu** — 1 ly bia tối đa, để nhớ tên + xử lý quyết định.
-- ✅ **Phản hồi của Ōgaki** ('lần sau không cần ra hiệu') = huấn luyện sự nghiệp ngay tại chỗ.
-- ✅ **Cập nhật Tokyo onsite của Matsumoto** = chuyển từ ý tưởng (liên hoan cuối năm 12/2026) sang cụ thể (đầu năm 2027). Trả lời với cam kết mốc thời gian rõ ràng (cuối năm họp gia đình + Hương).
-- ✅ **Trân trọng chocolate / cử chỉ nhỏ** — tín hiệu đánh giá cao từ nhóm.
+- **Kiểm soát rượu** — 1 ly bia tối đa, để nhớ tên + xử lý quyết định.
+- **Phản hồi của Ōgaki** ('lần sau không cần ra hiệu') = huấn luyện sự nghiệp ngay tại chỗ.
+- **Cập nhật Tokyo onsite của Matsumoto** = chuyển từ ý tưởng (liên hoan cuối năm 12/2026) sang cụ thể (đầu năm 2027). Trả lời với cam kết mốc thời gian rõ ràng (cuối năm họp gia đình + Hương).
+- **Trân trọng chocolate / cử chỉ nhỏ** — tín hiệu đánh giá cao từ nhóm.
 - Tiệc tiếp tân là khoảnh khắc 'bản lề' của mối quan hệ — đôi khi quan trọng hơn sân khấu chính thức.
 
 
@@ -463,13 +463,13 @@ Tiệc tiếp tân sau sự kiện = thoải mái hơn cuộc họp kinh doanh �
 
 *[Phòng yên. Dũng cởi vest, mặc áo phông + quần thoải mái. Gọi dịch vụ phòng trà nóng + bánh nhẹ ¥1,200. Ngồi bàn nhỏ.]*
 
-*[Mở Ghi chú. Tiêu đề: 'SỰ KIỆN 2027/03/XX — Smart Bank Assistant launch — bản lề'.]*
+*[Mở Ghi chú. Tiêu đề: 'SỰ KIỆN 2027/03/XX — Smart Bank Assistant ra mắt — bản lề'.]*
 
 *[Viết: 'Hôm nay 3 khoảnh khắc lớn: (1) CFO Nakamura gọi tên trên phần khai mạc — lần đầu được công nhận công khai ở Tokyo. (2) Câu hỏi kỹ thuật Q&A của chuyên gia phân tích — Tuấn ra hiệu mắt, em tự trả lời, Matsumoto khen 完璧. Đây là khoảnh khắc tự chứng minh — không cần Tuấn cứu nữa. (3) Matsumoto tiệc tiếp tân xác nhận Tokyo onsite 6 tháng — đầu năm 2027 chuyển, 4 tháng chuẩn bị.']*
 
 *[Dừng. Trà ấm vào tay. Suy nghĩ. Viết tiếp: 'Cảm giác — không phải niềm vui 'đỉnh cao'. Là cảm giác 'bước qua 1 cánh cửa', và cánh cửa đó không quay được. Sự nghiệp định hình. Phase 1 BD trẻ 2 năm trước → hôm nay sân khấu Tokyo + đề xuất onsite 6 tháng. Tốc độ nhanh hơn mình tưởng.']*
 
-*[Mở Slack — Tuấn nhắn 22:30: 'Em ngủ sớm. Hôm nay em đã trưởng thành thật sự. Anh nói thật.'. Dũng trả lời 'Cảm ơn anh, không có anh em không tới đây được'. Tuấn trả lời 1 emoji 🌅.]*
+*[Mở Slack — Tuấn nhắn 22:30: 'Em ngủ sớm. Hôm nay em đã trưởng thành thật sự. Anh nói thật.'. Dũng trả lời 'Cảm ơn anh, không có anh em không tới đây được'. Tuấn trả lời 1 emoji .]*
 
 *[Bắt đầu liệt kê sai sót + lần sau. Ngắn — ngày phần lớn trôi suôn sẻ. 1 sai sót là quên từ '推論スピード' giữa sân khấu. Lần sau chuẩn bị thuộc lòng 30 từ vựng kỹ thuật tiếng Nhật trước sự kiện.]*
 
@@ -478,21 +478,21 @@ Tiệc tiếp tân sau sự kiện = thoải mái hơn cuộc họp kinh doanh �
 *[23:30 — gọi video cho mẹ ở TPHCM. Mẹ vừa ăn tối. Khoe 'hôm nay con lên sân khấu Tokyo, anh giám đốc khen'. Mẹ cười 'tốt, ngủ sớm con'. 5 phút. Cúp máy. Lên giường. Ngủ.]*
 
 
-### 💡 Bí quyết — Đêm sau sự kiện lớn — ghi lại những bài học sâu
+### Bí quyết — Đêm sau sự kiện lớn — ghi lại những bài học sâu
 
 Sự kiện 'bản lề' (điểm ngoặt) cần ghi chép trang nhật ký sự nghiệp phong phú hơn:
-- ✅ **Xác định 3 khoảnh khắc lớn** — không liệt kê 20, tập trung 3 quan trọng nhất.
-- ✅ **Ghi lại CẢM XÚC** không chỉ SỰ KIỆN — 'cảm giác bước qua cánh cửa' = bản thân tương lai sẽ nhớ cái này, không nhớ chi tiết hậu cần.
-- ✅ **Cảm ơn người dẫn dắt** (Tuấn) — nhắn ngay tối, không để sáng hôm sau.
-- ✅ **Kết nối với gia đình** — gọi mẹ 5 phút, giữ vững bản thân ngoài sự nghiệp.
-- ✅ **Lập danh sách tiếp nối ngày mai** ngay — khi còn tươi.
-- ✅ **Ngủ là ưu tiên** — không thức khuya ăn mừng 2h.
+- **Xác định 3 khoảnh khắc lớn** — không liệt kê 20, tập trung 3 quan trọng nhất.
+- **Ghi lại CẢM XÚC** không chỉ SỰ KIỆN — 'cảm giác bước qua cánh cửa' = bản thân tương lai sẽ nhớ cái này, không nhớ chi tiết hậu cần.
+- **Cảm ơn người dẫn dắt** (Tuấn) — nhắn ngay tối, không để sáng hôm sau.
+- **Kết nối với gia đình** — gọi mẹ 5 phút, giữ vững bản thân ngoài sự nghiệp.
+- **Lập danh sách tiếp nối ngày mai** ngay — khi còn tươi.
+- **Ngủ là ưu tiên** — không thức khuya ăn mừng 2h.
 - Sự kiện lớn = đỉnh cao học hỏi. Ghi chép phong phú = lãi kép cho sự nghiệp.
 
 
 ---
 
-## 🌅 Tổng kết của Dũng — ghi vào nhật ký sự nghiệp
+## Tổng kết của Dũng — ghi vào nhật ký sự nghiệp
 
 *Sáng thứ 2 sau sự kiện, Dũng ở văn phòng Tien Phat TPHCM 9:00. Hương + Tuấn + Hà CTO + Dũng trong phòng họp tổng kết.*
 
@@ -537,5 +537,5 @@ Bản thân:
 
 ---
 
-> **Hizashi Sách 09 — Chương 07 — 合同新製品発表会**  
+> **Hizashi Sách 09 — Chương 07 — 合同新製品発表会**
 > *Lễ ra mắt sản phẩm chung.*

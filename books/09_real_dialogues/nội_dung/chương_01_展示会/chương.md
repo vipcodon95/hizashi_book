@@ -6,7 +6,7 @@
 
 ---
 
-## 💡 Bí quyết tổng
+## Bí quyết tổng
 
 - Đi triển lãm cùng khách = 'thăm đồng minh + vẽ bản đồ ngành' chứ không phải bán hàng ép buộc. Vai trò Dũng: đối tác cấp dưới học hỏi, thỉnh thoảng ghi chú.
 - Ăn mặc: lịch sự thoải mái — sơ mi + quần tây + giày da đi bộ. KHÔNG vest (mỏi), KHÔNG giày thể thao (kém lịch sự).
@@ -42,7 +42,7 @@
 | **松本PM** | 「トゥアンさんおはよう。じゃあ、まず badge 取りに行こうか。」<br/>*Anh Tuấn chào nhé. Vậy mình đi lấy badge trước.* |
 
 
-### 💡 Bí quyết — Chào đầu ngày
+### Bí quyết — Chào đầu ngày
 
 Đầu ngày triển lãm (08:30-09:00) khách thường vẫn còn tâm thế 'làm việc buổi sáng' — chưa thư giãn. Chào ngắn gọn, **báo cáo trạng thái nhanh** ('anh Tuấn sắp đến', 'anh Ōgaki 9:00 đến'), KHÔNG mở chủ đề phiếm như 'tối qua ngủ ngon không' — dành cho buổi trưa. Ngoài ra, **đến đúng cổng** quan trọng hơn đến sớm 10 phút — Tokyo Big Sight có 4 cổng, đọc kỹ email xác nhận trước.
 
@@ -78,7 +78,7 @@
 | **松本PM** | 「OK、その<ruby>方<rt>ほう</rt></ruby>が<ruby>動<rt>うご</rt></ruby>きやすい。<ruby>展示者<rt>てんじしゃ</rt></ruby>だと<ruby>自分<rt>じぶん</rt></ruby>の booth <ruby>守<rt>まも</rt></ruby>らなきゃいけないからね。」<br/>*OK, vậy đi lại dễ hơn. Người trưng bày thì phải canh gian hàng của mình suốt.* |
 
 
-### 💡 Bí quyết — Màu thẻ nói lên tất cả + tên Việt khi đăng ký sự kiện ở Nhật
+### Bí quyết — Màu thẻ nói lên tất cả + tên Việt khi đăng ký sự kiện ở Nhật
 
 Triển lãm Nhật phân **3 màu dây đeo**: Đỏ/Vàng = Người trưng bày, Xanh = Khách tham quan, Trắng = Báo chí. Xem nhanh màu của người đối diện = biết ngay vai trò → điều chỉnh đối thoại.
 
@@ -120,12 +120,12 @@ Triển lãm Nhật phân **3 màu dây đeo**: Đỏ/Vàng = Người trưng b�
 | **大垣 営業部長** | 「そうそう。<ruby>実<rt>じつ</rt></ruby>は、僕も<ruby>若<rt>わか</rt></ruby>い<ruby>頃<rt>ころ</rt></ruby><ruby>同<rt>おな</rt></ruby>じだった。<ruby>質問<rt>しつもん</rt></ruby>1個<ruby>準備<rt>じゅんび</rt></ruby>して行くだけで<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>違<rt>ちが</rt></ruby>うよ。」<br/>*Đúng. Thật ra hồi trẻ tôi cũng vậy. Chuẩn bị 1 câu trước khi đi là khác hẳn.* |
 
 
-### 💡 Bí quyết — Đặt câu hỏi tại gian hàng lớn
+### Bí quyết — Đặt câu hỏi tại gian hàng lớn
 
 Gian hàng lớn (AWS, Microsoft, Salesforce, IBM) demo theo lịch cố định. Cách hỏi:
 
-- ❌ **Mơ hồ** — '御社のサービスはどんな特徴ですか?' → người demo đẩy tờ rơi rồi quay sang khách kế.
-- ✅ **Cụ thể với số** — 'X 機能の latency は典型的に何ms ですか?' / 'Y のコストは月100万呼び出しで概算いくら?' → kỹ sư ngồi xuống nói chuyện 5 phút.
+- **Mơ hồ** — '御社のサービスはどんな特徴ですか?' → người demo đẩy tờ rơi rồi quay sang khách kế.
+- **Cụ thể với số** — 'X 機能の latency は典型的に何ms ですか?' / 'Y のコストは月100万呼び出しで概算いくら?' → kỹ sư ngồi xuống nói chuyện 5 phút.
 
 Bạn không cần biết tất cả. **1 câu hỏi sắc** đủ để khách JP thấy bạn đáng dẫn theo. Trước khi đến gian hàng lớn, dành 2 phút tra nhanh Google về sản phẩm, chuẩn bị 1 câu hỏi có số.
 
@@ -162,13 +162,13 @@ Bạn không cần biết tất cả. **1 câu hỏi sắc** đủ để khách 
 | **ズン** | 「はい、わかっています。後でランチで<ruby>雑談<rt>ざつだん</rt></ruby>くらいで<ruby>止<rt>と</rt></ruby>めます。」<br/>*Vâng, em hiểu ạ. Lát ăn trưa em chỉ nói chuyện phiếm thôi.* |
 
 
-### 💡 Bí quyết — Gặp đối thủ VN cùng triển lãm
+### Bí quyết — Gặp đối thủ VN cùng triển lãm
 
 Triển lãm IT lớn ở Tokyo có nhiều cty VN cùng dự. Khả năng cao bạn gặp người quen.
 
-- ✅ **Chào nồng nhiệt, giới thiệu khách JP của mình** — khách JP thấy bạn có quan hệ rộng trong ngành = + điểm.
-- ❌ **TUYỆT ĐỐI tránh** nói tiếng Việt riêng dài (>30 giây) trước mặt khách JP — họ sẽ cảm thấy bị bỏ rơi. **Chuyển lại tiếng Nhật càng nhanh càng tốt** — như Dũng làm trên (chợt nhớ → chuyển trong 1 giây).
-- ❌ **Tránh** bàn công việc / giá cả với đối thủ VN ngay tại gian hàng — hẹn riêng buổi tối hoặc bữa khác.
+- **Chào nồng nhiệt, giới thiệu khách JP của mình** — khách JP thấy bạn có quan hệ rộng trong ngành = + điểm.
+- **TUYỆT ĐỐI tránh** nói tiếng Việt riêng dài (>30 giây) trước mặt khách JP — họ sẽ cảm thấy bị bỏ rơi. **Chuyển lại tiếng Nhật càng nhanh càng tốt** — như Dũng làm trên (chợt nhớ → chuyển trong 1 giây).
+- **Tránh** bàn công việc / giá cả với đối thủ VN ngay tại gian hàng — hẹn riêng buổi tối hoặc bữa khác.
 
 
 ---
@@ -199,7 +199,7 @@ Triển lãm IT lớn ở Tokyo có nhiều cty VN cùng dự. Khả năng cao b
 | **松本PM** | 「そういう<ruby>小<rt>ちい</rt></ruby>さい<ruby>配慮<rt>はいりょ</rt></ruby>、<ruby>覚<rt>おぼ</rt></ruby>えてるんだよ。田中も<ruby>家<rt>いえ</rt></ruby>でその<ruby>話<rt>はなし</rt></ruby>するから。」<br/>*Sự quan tâm nhỏ kiểu đó người ta nhớ đó. Tanaka về nhà sẽ kể chuyện này thôi.* |
 
 
-### 💡 Bí quyết — Quà nhỏ ở gian hàng — tác động lớn, chi phí bằng không
+### Bí quyết — Quà nhỏ ở gian hàng — tác động lớn, chi phí bằng không
 
 Gian hàng có trò chơi phát quà = cơ hội **xây thiện cảm cá nhân** không liên quan đến công việc.
 
@@ -255,7 +255,7 @@ Gian hàng có trò chơi phát quà = cơ hội **xây thiện cảm cá nhân*
 | **ズン** | 「了解、後で。」<br/>*OK, lát.* |
 
 
-### 💡 Bí quyết — Bữa trưa triển lãm — cửa sổ vàng
+### Bí quyết — Bữa trưa triển lãm — cửa sổ vàng
 
 Bữa trưa = **cửa sổ vàng nhất** trong ngày để chuyển từ 'công việc' sang 'con người'.
 
@@ -293,13 +293,13 @@ Bữa trưa = **cửa sổ vàng nhất** trong ngày để chuyển từ 'công
 | **田中PMO** | 「うん、井上が 4:00 までで<ruby>終<rt>お</rt></ruby>わるから先に<ruby>挨拶<rt>あいさつ</rt></ruby>しに行こう。」<br/>*Ừ, Inoue làm tới 4:00 thì hết, mình qua chào trước đi.* |
 
 
-### 💡 Bí quyết — Dự bài phát biểu chính cùng khách
+### Bí quyết — Dự bài phát biểu chính cùng khách
 
 Khách dẫn bạn nghe bài phát biểu chính = bạn được **chia sẻ 'khung tư duy' của họ**. Sau buổi phát biểu:
 
-- ✅ **Nhận xét 1 câu ngắn liên hệ với dự án chung** ('khung 70-30 áp được Phase 4') — khách thấy bạn đang **học cùng**, không chỉ lễ phép đứng cạnh.
-- ✅ **Đề nghị ghi chú** cho khách, gửi đường dẫn slide chính thức sau — họ hay quên, mình hỗ trợ = + điểm.
-- ❌ **Tránh** trích dẫn cả bài nói 5 phút để phân tích — bạn không phải Andrew Ng. 1 câu sắc đủ.
+- **Nhận xét 1 câu ngắn liên hệ với dự án chung** ('khung 70-30 áp được Phase 4') — khách thấy bạn đang **học cùng**, không chỉ lễ phép đứng cạnh.
+- **Đề nghị ghi chú** cho khách, gửi đường dẫn slide chính thức sau — họ hay quên, mình hỗ trợ = + điểm.
+- **Tránh** trích dẫn cả bài nói 5 phút để phân tích — bạn không phải Andrew Ng. 1 câu sắc đủ.
 - **Luôn có phương án dự phòng**: ứng dụng phụ đề tự động (Otter, tính năng Live Caption của iPhone) trên điện thoại — phòng khi tai nghe phiên dịch hỏng (xảy ra hơn bạn tưởng).
 
 
@@ -342,14 +342,14 @@ Khách dẫn bạn nghe bài phát biểu chính = bạn được **chia sẻ 'k
 | **井上** | 「ズンさん、本当に助かった!ありがとう。」<br/>*Dũng à, cứu anh thật sự! Cảm ơn cậu.* |
 
 
-### 💡 Bí quyết — Đến gian hàng của khách = thành viên nhóm mở rộng
+### Bí quyết — Đến gian hàng của khách = thành viên nhóm mở rộng
 
 Khi khách JP có gian hàng, bạn **đến không phải là khách** — bạn là **thành viên nhóm mở rộng**.
 
-- ✅ **Hỏi cụ thể '手伝えることありますか?'** — KHÔNG hỏi mơ hồ '何かお手伝い…?'. Cụ thể = người cấp trên dễ giao việc.
-- ✅ Việc nhẹ thôi: phát tờ rơi / chụp ảnh / dọn cà phê. **5-15 phút hành động**, đủ để thể hiện mặt + tinh thần.
-- ✅ Khi sự cố nhỏ xảy ra (tờ rơi hết) → **chủ động đề xuất giải pháp** thay vì chờ Inoue chỉ đạo. 'Em chạy lấy giúp' = +10 điểm.
-- ❌ **Tránh** đứng cạnh xem demo cả tiếng = trông như khách vãng lai lạc đường.
+- **Hỏi cụ thể '手伝えることありますか?'** — KHÔNG hỏi mơ hồ '何かお手伝い…?'. Cụ thể = người cấp trên dễ giao việc.
+- Việc nhẹ thôi: phát tờ rơi / chụp ảnh / dọn cà phê. **5-15 phút hành động**, đủ để thể hiện mặt + tinh thần.
+- Khi sự cố nhỏ xảy ra (tờ rơi hết) → **chủ động đề xuất giải pháp** thay vì chờ Inoue chỉ đạo. 'Em chạy lấy giúp' = +10 điểm.
+- **Tránh** đứng cạnh xem demo cả tiếng = trông như khách vãng lai lạc đường.
 
 
 ---
@@ -388,7 +388,7 @@ Khi khách JP có gian hàng, bạn **đến không phải là khách** — bạ
 | **田中PMO** | 「Phase 4 のキックオフでこういうの<ruby>大事<rt>だいじ</rt></ruby>。」<br/>*Kickoff Phase 4 mấy cái nhỏ này quan trọng đó.* |
 
 
-### 💡 Bí quyết — Quà về từ triển lãm — ít mà tinh
+### Bí quyết — Quà về từ triển lãm — ít mà tinh
 
 Khi đi cùng khách 1 ngày, **mua quà về VN cho chính mình** = bình thường. Mua cho khách JP **không bắt buộc** vì hôm nay không phải mình 'thăm khách' theo nghi thức trang trọng.
 
@@ -397,8 +397,8 @@ NHƯNG: **1 chiếc rất nhỏ** (1 cái gói riêng trong hộp 28 cái) đưa
 **Đừng đưa cả 3** = quá đà, phá sự tinh tế. Chỉ 1 người cấp trên cao nhất (hoặc người dẫn đoàn chính). Tuấn đã ra hiệu cứu Dũng kịp.
 
 Nguyên tắc:
-- ✅ **1 cái gói riêng** (đặc trưng đồ ngọt JP).
-- ❌ **Không** mở hộp lấy giữa đám đông đưa cho khách (mất vệ sinh + lộ là 'có sẵn từ trước'). → Mở hộp lấy 1 cái lúc khách không nhìn, rồi đưa riêng.
+- **1 cái gói riêng** (đặc trưng đồ ngọt JP).
+- **Không** mở hộp lấy giữa đám đông đưa cho khách (mất vệ sinh + lộ là 'có sẵn từ trước'). → Mở hộp lấy 1 cái lúc khách không nhìn, rồi đưa riêng.
 
 
 ---
@@ -442,7 +442,7 @@ Nguyên tắc:
 | **トゥアンリーダー** | 「(ベトナム語)Ờ. Cứ tiếp tục kiểu đó. Mai gặp Hùng thoải mái nhe, anh sẽ ngồi nghe thôi.」<br/>*(tiếng Việt) Ờ. Cứ tiếp tục kiểu đó. Mai gặp Hùng thoải mái nhe, anh sẽ ngồi nghe thôi.* |
 
 
-### 💡 Bí quyết — Chia tay cuối ngày
+### Bí quyết — Chia tay cuối ngày
 
 - Câu kết chuẩn: **「今日は本当にありがとうございました」「お疲れ様でした」「また来週よろしくお願いします」** — 3 câu này đủ.
 - **KHÔNG** câu nệ '我々がもっと…' / '次回はちゃんと…' tự ti — khách JP cảm thấy bạn đang gánh nặng vô lý.
@@ -452,7 +452,7 @@ Nguyên tắc:
 
 ---
 
-## 🌅 Tổng kết của Dũng — ghi vào sổ tay
+## Tổng kết của Dũng — ghi vào sổ tay
 
 *22:00, Dũng ngồi viết ghi chú trên điện thoại trước khi ngủ.*
 
@@ -486,5 +486,5 @@ Nhận xét bản thân:
 
 ---
 
-> **Hizashi Sách 09 — Chương 01 — IT WEEK東京・1日同行記**  
+> **Hizashi Sách 09 — Chương 01 — IT WEEK東京・1日同行記**
 > *Một ngày tại triển lãm IT WEEK Tokyo.*

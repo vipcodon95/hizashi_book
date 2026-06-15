@@ -6,7 +6,7 @@
 
 ---
 
-## 💡 Bí quyết tổng
+## Bí quyết tổng
 
 - Tiếp khách JP khó hơn đi onsite Nhật. Vai trò đảo ngược: bạn là người lên kế hoạch + thực thi mọi thứ.
 - Khách JP ngạc nhiên / choáng nhẹ với HCMC: giao thông, nhiệt độ, đồ ăn cay, cúp điện. Dặn dò trước qua mail.
@@ -46,13 +46,13 @@
 | **大垣 営業部長** | 「Tokyo は12度だったから、20度<ruby>差<rt>さ</rt></ruby>!<ruby>半袖<rt>はんそで</rt></ruby>に<ruby>着替え<rt>きがえ</rt></ruby>たいな(笑)」<br/>*Tokyo 12 độ, chênh 20 độ! Muốn thay áo cộc liền (cười)* |
 
 
-### 💡 Bí quyết — Bảng đón — luôn kiểm tra kỹ kanji
+### Bí quyết — Bảng đón — luôn kiểm tra kỹ kanji
 
 Bảng đón ở sân bay = ấn tượng đầu tiên. Sai kanji = rất tệ:
-- ✅ **In 2 bản** — dự phòng nếu bị gấp/bẩn.
-- ✅ **Nhờ người giỏi tiếng Nhật (Tuấn / Hương) kiểm tra trước** khi in. Dũng tự tin với '白鷗' nhưng quên kanji 鷗 / 鵬 / 鷲 dễ nhầm lẫn.
-- ✅ **Mang bút lông đen + mặt sau bảng trắng** = sửa tại chỗ khi cần.
-- ✅ **Khi bị phát hiện (Tanaka)**, thành thật cười xin lỗi — Tanaka đã nhẹ nhàng với 'いいよいいよ'. Đừng giả vờ không thấy.
+- **In 2 bản** — dự phòng nếu bị gấp/bẩn.
+- **Nhờ người giỏi tiếng Nhật (Tuấn / Hương) kiểm tra trước** khi in. Dũng tự tin với '白鷗' nhưng quên kanji 鷗 / 鵬 / 鷲 dễ nhầm lẫn.
+- **Mang bút lông đen + mặt sau bảng trắng** = sửa tại chỗ khi cần.
+- **Khi bị phát hiện (Tanaka)**, thành thật cười xin lỗi — Tanaka đã nhẹ nhàng với 'いいよいいよ'. Đừng giả vờ không thấy.
 
 Tên cty Nhật hay bị nhầm lẫn kanji:
 - 白鷗 (Hakuō) vs 白鵬 (sumo champion)
@@ -80,7 +80,7 @@ Tên cty Nhật hay bị nhầm lẫn kanji:
 | **ズン** | 「はい、ホテルから<ruby>徒歩<rt>とほ</rt></ruby>5<ruby>分<rt>ふん</rt></ruby>のレストラン<ruby>予約<rt>よやく</rt></ruby>してます。20:30<ruby>開始<rt>かいし</rt></ruby>、<ruby>軽<rt>かる</rt></ruby>めで、<ruby>明日<rt>あした</rt></ruby>に<ruby>響<rt>ひび</rt></ruby>かないよう<ruby>設計<rt>せっけい</rt></ruby>してます。」<br/>*Vâng, em đặt nhà hàng cách khách sạn đi bộ 5 phút. 20:30 bắt đầu, ăn nhẹ thôi, tính toán để không ảnh hưởng ngày mai.* |
 
 
-### 💡 Bí quyết — Khách JP choáng với HCMC — đón đầu + giải thích bình tĩnh
+### Bí quyết — Khách JP choáng với HCMC — đón đầu + giải thích bình tĩnh
 
 Khách JP lần đầu đến HCMC thường choáng 3 thứ:
 1. **Mật độ xe máy** — giải thích con số (7 triệu) + nhịp an toàn ngầm.
@@ -88,10 +88,10 @@ Khách JP lần đầu đến HCMC thường choáng 3 thứ:
 3. **Cúp điện** (sẽ thấy ở tình huống 4) — báo trước.
 
 Cách xử lý:
-- ✅ **Mail trước chuyến đi** 1 tuần trước, đính kèm PDF 'Mẹo sống ở HCMC' — ngăn bất ngờ từ đầu.
-- ✅ **Tại chỗ**: cười + giải thích bình tĩnh — không xin lỗi thay cho Việt Nam.
-- ✅ **Khi khách hỏi**, chia sẻ **logic văn hóa** (không bào chữa hay chỉ trích). Dũng giải thích 'nhịp ngầm' = đúng giọng điệu.
-- ❌ Đừng quá xin lỗi kiểu 'Việt Nam kém phát triển xin lỗi' — khách JP coi đó là thiếu tôn trọng VN.
+- **Mail trước chuyến đi** 1 tuần trước, đính kèm PDF 'Mẹo sống ở HCMC' — ngăn bất ngờ từ đầu.
+- **Tại chỗ**: cười + giải thích bình tĩnh — không xin lỗi thay cho Việt Nam.
+- **Khi khách hỏi**, chia sẻ **logic văn hóa** (không bào chữa hay chỉ trích). Dũng giải thích 'nhịp ngầm' = đúng giọng điệu.
+- Đừng quá xin lỗi kiểu 'Việt Nam kém phát triển xin lỗi' — khách JP coi đó là thiếu tôn trọng VN.
 
 
 ---
@@ -136,14 +136,14 @@ Cách xử lý:
 | **フオン副部長** | 「<ruby>明日<rt>あした</rt></ruby>と<ruby>明後日<rt>あさって</rt></ruby>、ベジ<ruby>料理<rt>りょうり</rt></ruby><ruby>優先<rt>ゆうせん</rt></ruby>で organize し<ruby>直<rt>なお</rt></ruby>しますね。」<br/>*Ngày mai và ngày mốt, em sẽ sắp xếp lại ưu tiên món chay nhé.* |
 
 
-### 💡 Bí quyết — Yêu cầu ăn uống — luôn hỏi trước
+### Bí quyết — Yêu cầu ăn uống — luôn hỏi trước
 
 Sai lầm của Dũng = không hỏi yêu cầu ăn uống trước. Cần cải thiện:
-- ✅ **Biểu mẫu mail trước chuyến đi** hỏi: ăn chay / thuần chay, dị ứng, halal, không ăn món gì cụ thể.
-- ✅ **Có biểu mẫu tiếng Nhật + tiếng Anh** — người Nhật đôi khi không chủ động nói yêu cầu ăn uống.
-- ✅ **Xử lý tại chỗ**: Hương xử lý xuất sắc — bình tĩnh + xin lỗi nhẹ + hành động ngay. Không dây dưa.
-- ✅ **Linh kéo Tanaka vào chuyện trò** ('con anh cũng ăn chay không?') = cứu khoảnh khắc ngượng, biến thành gắn kết.
-- ✅ **Điều chỉnh những ngày tới** — Hương tuyên bố sắp xếp lại cả 2 ngày sau.
+- **Biểu mẫu mail trước chuyến đi** hỏi: ăn chay / thuần chay, dị ứng, halal, không ăn món gì cụ thể.
+- **Có biểu mẫu tiếng Nhật + tiếng Anh** — người Nhật đôi khi không chủ động nói yêu cầu ăn uống.
+- **Xử lý tại chỗ**: Hương xử lý xuất sắc — bình tĩnh + xin lỗi nhẹ + hành động ngay. Không dây dưa.
+- **Linh kéo Tanaka vào chuyện trò** ('con anh cũng ăn chay không?') = cứu khoảnh khắc ngượng, biến thành gắn kết.
+- **Điều chỉnh những ngày tới** — Hương tuyên bố sắp xếp lại cả 2 ngày sau.
 
 
 ---
@@ -181,14 +181,14 @@ Sai lầm của Dũng = không hỏi yêu cầu ăn uống trước. Cần cải
 | **リン** | 「(<ruby>嬉<rt>うれ</rt></ruby>しそう)ありがとうございます。」<br/>*(vui) Cảm ơn anh.* |
 
 
-### 💡 Bí quyết — Cúp điện = thử nghiệm năng lực truyền thông BCP
+### Bí quyết — Cúp điện = thử nghiệm năng lực truyền thông BCP
 
 Cúp điện HCMC là chuyện thật, nhiều khách JP sẽ gặp. Cách xử lý:
-- ✅ **Thông báo trong tập hồ sơ chào mừng**: 'HCMC cúp điện theo kế hoạch hàng tháng — văn phòng có máy phát dự phòng, máy chủ production trên AWS Singapore.'
-- ✅ **Bình tĩnh tại chỗ**: Hà CTO + Dũng giải thích bình tĩnh → khách choáng chuyển thành ấn tượng (Matsumoto: 'quen rồi nhỉ').
-- ✅ **Chuyển hướng sang câu chuyện BCP**: 'mỗi tháng diễn tập, Phase 5 trên AWS Singapore' = câu chuyện BCP thuyết phục.
-- ✅ **Nhân viên mới hỗ trợ bên lề** (Linh đèn pin + trà) = phối hợp nhóm tốt.
-- ❌ Đừng hoảng loạn / xin lỗi quá mức — biến vấn đề bình thường thành khủng hoảng.
+- **Thông báo trong tập hồ sơ chào mừng**: 'HCMC cúp điện theo kế hoạch hàng tháng — văn phòng có máy phát dự phòng, máy chủ production trên AWS Singapore.'
+- **Bình tĩnh tại chỗ**: Hà CTO + Dũng giải thích bình tĩnh → khách choáng chuyển thành ấn tượng (Matsumoto: 'quen rồi nhỉ').
+- **Chuyển hướng sang câu chuyện BCP**: 'mỗi tháng diễn tập, Phase 5 trên AWS Singapore' = câu chuyện BCP thuyết phục.
+- **Nhân viên mới hỗ trợ bên lề** (Linh đèn pin + trà) = phối hợp nhóm tốt.
+- Đừng hoảng loạn / xin lỗi quá mức — biến vấn đề bình thường thành khủng hoảng.
 
 Cúp điện = lợi thế độc đáo cho cty VN: 'hạ tầng đã qua thử nghiệm BCP'.
 
@@ -224,13 +224,13 @@ Cúp điện = lợi thế độc đáo cho cty VN: 'hạ tầng đã qua thử 
 *[Phút 120 kết thúc. Dũng đầu nóng, giọng khàn. Nhưng hội thảo ổn — đoàn JP nắm được toàn bộ nội dung. Tuấn vỗ vai Dũng dưới gầm bàn.]*
 
 
-### 💡 Bí quyết — Phiên dịch trực tiếp — nhận khi cần
+### Bí quyết — Phiên dịch trực tiếp — nhận khi cần
 
 Khách đề nghị phiên dịch trực tiếp = không thoải mái nhưng là khoảnh khắc quan trọng:
-- ✅ **Nhận với điều kiện** ('dừng mỗi 2 phút') — tạo khoảng đệm cho bản thân.
-- ✅ **Thành thật về giới hạn** — phút 90 hỏi lại Tuấn 1 từ = OK, hơn là nói bừa.
-- ✅ **Uống nước** — uống trong lúc nghỉ.
-- ✅ **Trước khi tiếp đón khách tại chỗ**: chuẩn bị slide song ngữ (Anh + Nhật song song) — loại bỏ nhu cầu phiên dịch trực tiếp.
+- **Nhận với điều kiện** ('dừng mỗi 2 phút') — tạo khoảng đệm cho bản thân.
+- **Thành thật về giới hạn** — phút 90 hỏi lại Tuấn 1 từ = OK, hơn là nói bừa.
+- **Uống nước** — uống trong lúc nghỉ.
+- **Trước khi tiếp đón khách tại chỗ**: chuẩn bị slide song ngữ (Anh + Nhật song song) — loại bỏ nhu cầu phiên dịch trực tiếp.
 - Sau lần này, Dũng phải:
   1. Học lớp tiếng Nhật thương mại.
   2. Xây bộ từ thuật ngữ kỹ thuật tiếng Nhật cho Phase 5.
@@ -258,14 +258,14 @@ Khách đề nghị phiên dịch trực tiếp = không thoải mái nhưng là
 | **田中PMO** | 「(<ruby>野菜<rt>やさい</rt></ruby>フォー<ruby>食<rt>た</rt></ruby>べる)あ、これも<ruby>美味<rt>おい</rt></ruby>しい!ハーブの<ruby>香<rt>かお</rt></ruby>りすごい。」<br/>*(ăn phở rau) À, cái này cũng ngon! Mùi rau thơm tuyệt.* |
 
 
-### 💡 Bí quyết — Quán bình dân = khoảnh khắc gắn kết
+### Bí quyết — Quán bình dân = khoảnh khắc gắn kết
 
 Dẫn khách JP vào quán bình dân thay vì nhà hàng cao cấp = dấu hiệu tin tưởng + quan hệ đã sâu:
-- ✅ **Chỉ chọn quán bình dân khi quan hệ đã ở mức 2+** — lần đầu đến thăm thường tránh.
-- ✅ **Demo cách ăn** — người Nhật hay chưa quen kéo bún + múc nước bằng muỗng.
-- ✅ **Câu chuyện đi kèm** — '6 tiếng ninh xương' = truyền dạy văn hóa ẩm thực.
-- ✅ **Tôn trọng yêu cầu ăn uống** — Tanaka mua phở rau quán bên cạnh, vẫn ngồi cùng = tiếp đón chu đáo.
-- ❌ Đừng chọn quán quá tệ (không nhà vệ sinh / bàn bẩn) — bản sắc địa phương ≠ thử thách khách JP.
+- **Chỉ chọn quán bình dân khi quan hệ đã ở mức 2+** — lần đầu đến thăm thường tránh.
+- **Demo cách ăn** — người Nhật hay chưa quen kéo bún + múc nước bằng muỗng.
+- **Câu chuyện đi kèm** — '6 tiếng ninh xương' = truyền dạy văn hóa ẩm thực.
+- **Tôn trọng yêu cầu ăn uống** — Tanaka mua phở rau quán bên cạnh, vẫn ngồi cùng = tiếp đón chu đáo.
+- Đừng chọn quán quá tệ (không nhà vệ sinh / bàn bẩn) — bản sắc địa phương ≠ thử thách khách JP.
 
 
 ---
@@ -295,13 +295,13 @@ Dẫn khách JP vào quán bình dân thay vì nhà hàng cao cấp = dấu hi�
 *[19:15 mưa tạnh hẳn. Đoàn ra sân thượng lại — mặt trời lặn rực rỡ ngang sông Sài Gòn. Không có cầu vồng nhưng bầu trời cam hồng. Đoàn JP đứng chụp ảnh 10 phút.]*
 
 
-### 💡 Bí quyết — Mưa bất ngờ = chuyển hướng khéo
+### Bí quyết — Mưa bất ngờ = chuyển hướng khéo
 
 Thời tiết hỗn loạn không kiểm soát được — kiểm soát cách phản ứng:
-- ✅ **Hương + Tuấn chuyển hướng ngay** — vào trong, đặt khăn + trà ấm. 30 giây hành động.
-- ✅ **Nhìn theo hướng tích cực**: 'mưa Việt Nam ngắn + ấm' = trải nghiệm độc đáo, không phàn nàn.
-- ✅ **Hứa hẹn phục hồi** ('lát nữa quay lại xem cảnh') — cho khách hi vọng, không bị kẹt trong tiêu cực.
-- ✅ **Không xin lỗi quá mức** — Hương 'xin lỗi' 1 câu là đủ, không lặp lại.
+- **Hương + Tuấn chuyển hướng ngay** — vào trong, đặt khăn + trà ấm. 30 giây hành động.
+- **Nhìn theo hướng tích cực**: 'mưa Việt Nam ngắn + ấm' = trải nghiệm độc đáo, không phàn nàn.
+- **Hứa hẹn phục hồi** ('lát nữa quay lại xem cảnh') — cho khách hi vọng, không bị kẹt trong tiêu cực.
+- **Không xin lỗi quá mức** — Hương 'xin lỗi' 1 câu là đủ, không lặp lại.
 - Thêm điểm cộng: hoàng hôn Sài Gòn thường đẹp sau mưa = thu lại được cảm xúc tốt.
 
 
@@ -331,14 +331,14 @@ Thời tiết hỗn loạn không kiểm soát được — kiểm soát cách p
 | **ハイ** | 「(ベトナム語、頷く)OK em note rồi. Em quên có 2 audience khác level.」<br/>*(tiếng Việt, gật) OK em ghi nhớ rồi. Em quên mất có 2 người nghe khác trình độ.* |
 
 
-### 💡 Bí quyết — Người nghe trình độ khác nhau — dừng lại + thích ứng
+### Bí quyết — Người nghe trình độ khác nhau — dừng lại + thích ứng
 
 Họp kỹ thuật với khách JP có 2 nhóm: kỹ thuật cấp cao (Sasaki) + PM cấp cao (Tanaka). Cách xử lý:
-- ✅ **Dừng lại khi thấy 1 nhóm lạc** — Dũng ngắt Hải đúng thời điểm.
-- ✅ **Đổi ngôn ngữ** linh hoạt — tiếng Nhật chậm tốt hơn tiếng Anh nhanh với người nghe thiên PM.
-- ✅ **Hướng dẫn riêng cho nhóm mình** sau buổi: 'có người nghe khác trình độ'.
-- ✅ **Tanaka thành thật thừa nhận điểm yếu** ('PM 寄りで弱い') = không xấu hổ. Nhân viên mới học cách này.
-- ✅ **Nhắc lại thuật ngữ chính cả 2 ngôn ngữ** lần đầu: 'EventBridge + Step Functions' không cần dịch — giữ nguyên thuật ngữ kỹ thuật.
+- **Dừng lại khi thấy 1 nhóm lạc** — Dũng ngắt Hải đúng thời điểm.
+- **Đổi ngôn ngữ** linh hoạt — tiếng Nhật chậm tốt hơn tiếng Anh nhanh với người nghe thiên PM.
+- **Hướng dẫn riêng cho nhóm mình** sau buổi: 'có người nghe khác trình độ'.
+- **Tanaka thành thật thừa nhận điểm yếu** ('PM 寄りで弱い') = không xấu hổ. Nhân viên mới học cách này.
+- **Nhắc lại thuật ngữ chính cả 2 ngôn ngữ** lần đầu: 'EventBridge + Step Functions' không cần dịch — giữ nguyên thuật ngữ kỹ thuật.
 
 
 ---
@@ -371,14 +371,14 @@ Họp kỹ thuật với khách JP có 2 nhóm: kỹ thuật cấp cao (Sasaki) 
 | **フオン副部長** | 「<ruby>今日<rt>きょう</rt></ruby>は<ruby>皆様<rt>みなさま</rt></ruby>のお<ruby>口<rt>くち</rt></ruby>に<ruby>合<rt>あ</rt></ruby>うお<ruby>店<rt>みせ</rt></ruby><ruby>探<rt>さが</rt></ruby>すの<ruby>大変<rt>たいへん</rt></ruby>だった、まあ<ruby>何<rt>なん</rt></ruby>とか。」<br/>*Hôm nay tìm quán hợp khẩu vị các vị vất vả, may mắn thôi.* |
 
 
-### 💡 Bí quyết — Ăn cay bất ngờ — cứu bằng đồ uống địa phương
+### Bí quyết — Ăn cay bất ngờ — cứu bằng đồ uống địa phương
 
 Khách JP lần đầu ăn đường phố → đôi khi gặp sự cố cay. Cách xử lý:
-- ✅ **Hành động ngay** — gọi nước dừa / sữa đậu / trà đá.
-- ✅ **Giải thích ngắn** — 'ớt trong nước mắm' = lần sau biết tránh.
-- ✅ **Gợi ý cách khác** ('ăn từng chút với cơm') — không để khách tự vật lộn.
-- ✅ **Thêm điểm cộng**: nước dừa trở thành khám phá ngoài dự kiến — Hayashi mê ngay = thắng bất ngờ.
-- ❌ Đừng xin lỗi quá mức — biến sự cố thành khủng hoảng.
+- **Hành động ngay** — gọi nước dừa / sữa đậu / trà đá.
+- **Giải thích ngắn** — 'ớt trong nước mắm' = lần sau biết tránh.
+- **Gợi ý cách khác** ('ăn từng chút với cơm') — không để khách tự vật lộn.
+- **Thêm điểm cộng**: nước dừa trở thành khám phá ngoài dự kiến — Hayashi mê ngay = thắng bất ngờ.
+- Đừng xin lỗi quá mức — biến sự cố thành khủng hoảng.
 
 
 ---
@@ -411,15 +411,15 @@ Khách JP lần đầu ăn đường phố → đôi khi gặp sự cố cay. C�
 | **ズン** | 「(<ruby>顔<rt>かお</rt></ruby><ruby>赤<rt>あか</rt></ruby>く)ありがとうございます…<ruby>手<rt>て</rt></ruby>は<ruby>震<rt>ふる</rt></ruby>えてました。」<br/>*(mặt đỏ) Cảm ơn anh… tay em run cơ ạ.* |
 
 
-### 💡 Bí quyết — Ghi chú trong họp cấp lãnh đạo — quan sát im lặng
+### Bí quyết — Ghi chú trong họp cấp lãnh đạo — quan sát im lặng
 
 Nhân viên mới được vào họp cấp lãnh đạo làm người ghi chú = tín hiệu tin tưởng + cơ hội quan sát:
-- ✅ **Im lặng tuyệt đối**, chỉ gõ ghi chú.
-- ✅ **Ghi từ khóa + câu hỏi** — không chép lại nguyên văn.
-- ✅ **Không biểu lộ cảm xúc** — mặt trung tính. Đừng cười / nhăn mặt / phản ứng với ý kiến.
-- ✅ **Gửi ghi chú theo dõi trong ngày** cho cả 2 bên.
-- ✅ **Cấu trúc ghi chú**: Ngày / Người tham dự / Chủ đề / Quyết định / Việc cần làm / Câu hỏi còn mở.
-- ❌ **Không** lên tiếng dù được mời — nhân viên mới chưa ở vị trí lãnh đạo.
+- **Im lặng tuyệt đối**, chỉ gõ ghi chú.
+- **Ghi từ khóa + câu hỏi** — không chép lại nguyên văn.
+- **Không biểu lộ cảm xúc** — mặt trung tính. Đừng cười / nhăn mặt / phản ứng với ý kiến.
+- **Gửi ghi chú theo dõi trong ngày** cho cả 2 bên.
+- **Cấu trúc ghi chú**: Ngày / Người tham dự / Chủ đề / Quyết định / Việc cần làm / Câu hỏi còn mở.
+- **Không** lên tiếng dù được mời — nhân viên mới chưa ở vị trí lãnh đạo.
 - Sau họp, có thể thành thật 'tay em run' với người dẫn dắt bên mình (Hà) — rất người thường.
 
 
@@ -445,12 +445,12 @@ Nhân viên mới được vào họp cấp lãnh đạo làm người ghi chú 
 | **松本PM** | 「(笑い)これいいね、Tokyo で<ruby>覚<rt>おぼ</rt></ruby>えて<ruby>使<rt>つか</rt></ruby>う。」<br/>*(cười) Hay đó, em nhớ về Tokyo dùng.* |
 
 
-### 💡 Bí quyết — Bữa tối ngày 2 — quan hệ đã lên tầm mới
+### Bí quyết — Bữa tối ngày 2 — quan hệ đã lên tầm mới
 
 Bữa tối ngày 1 (Cuc Gach) = trang trọng. Bữa tối ngày 2 (quán nhậu bình dân) = tín hiệu tin tưởng thân mật. Cách thiết kế:
-- ✅ **Chuyển từ nhà hàng sang quán bình dân** — chỉ khi đã 2 ngày làm việc cùng + quan hệ đủ sâu.
-- ✅ **Khoảnh khắc 'Một hai ba dô'** = giao lưu văn hóa nhỏ + đáng nhớ.
-- ✅ **Khách Nhật đôi khi sẽ cảm ơn thẳng thắn** (Tanaka) — cơ hội thành thật nhìn nhận sai sót (Dũng) → Hương đứng ra bao cho cả nhóm — chứng minh tinh thần đồng đội.
+- **Chuyển từ nhà hàng sang quán bình dân** — chỉ khi đã 2 ngày làm việc cùng + quan hệ đủ sâu.
+- **Khoảnh khắc 'Một hai ba dô'** = giao lưu văn hóa nhỏ + đáng nhớ.
+- **Khách Nhật đôi khi sẽ cảm ơn thẳng thắn** (Tanaka) — cơ hội thành thật nhìn nhận sai sót (Dũng) → Hương đứng ra bao cho cả nhóm — chứng minh tinh thần đồng đội.
 
 
 ---
@@ -480,14 +480,14 @@ Bữa tối ngày 1 (Cuc Gach) = trang trọng. Bữa tối ngày 2 (quán nhậ
 | **リン** | 「(<ruby>嬉<rt>うれ</rt></ruby>しそう)はい、<ruby>皆<rt>みな</rt></ruby>さん、こちらを<ruby>見<rt>み</rt></ruby>てください…3、2、1!」<br/>*(vui) Vâng, mọi người nhìn đây… 3, 2, 1!* |
 
 
-### 💡 Bí quyết — Lễ ký MoU — trang trọng nhưng ngắn gọn
+### Bí quyết — Lễ ký MoU — trang trọng nhưng ngắn gọn
 
 Ký MoU = khoảnh khắc quan trọng nhưng không cần phô trương:
-- ✅ **Thiết lập giản dị**: cờ + 2 cuốn MoU + nhân viên trẻ chụp ảnh.
-- ✅ **Phát biểu tối đa 5-10 phút** — tóm tắt 5 điểm, không đọc cả MoU.
-- ✅ **Lễ ký 5 phút**: ký + bắt tay + ảnh.
-- ✅ **Phát biểu bế mạc 1 phút** + ảnh chung — kết thúc.
-- ❌ **Tránh**: phát biểu 30 phút, quà tặng quá mức, chiêng trống rình rang. Khách JP coi là thô.
+- **Thiết lập giản dị**: cờ + 2 cuốn MoU + nhân viên trẻ chụp ảnh.
+- **Phát biểu tối đa 5-10 phút** — tóm tắt 5 điểm, không đọc cả MoU.
+- **Lễ ký 5 phút**: ký + bắt tay + ảnh.
+- **Phát biểu bế mạc 1 phút** + ảnh chung — kết thúc.
+- **Tránh**: phát biểu 30 phút, quà tặng quá mức, chiêng trống rình rang. Khách JP coi là thô.
 - Sau lễ ký: bữa tối trang trọng tiếp tục trong đêm ngày 3 nếu khách ở lại đêm cuối — nhưng đoàn này bay 17h chiều nên bỏ bữa tối.
 
 
@@ -523,19 +523,19 @@ Ký MoU = khoảnh khắc quan trọng nhưng không cần phô trương:
 *[Đoàn vào cửa kiểm tra an ninh. Dũng + Linh + Tuấn + Hương vẫy tay đến khi đoàn khuất.]*
 
 
-### 💡 Bí quyết — Quà trùng — cẩn thận phối hợp trong nhóm
+### Bí quyết — Quà trùng — cẩn thận phối hợp trong nhóm
 
 Sai lầm của Dũng = không phối hợp quà tặng với Hương. Bài học:
-- ✅ **Một người phụ trách quà** — 1 người trong nhóm chịu trách nhiệm tránh trùng.
-- ✅ **Túi quà chào mừng ngày đầu + quà tiễn ngày cuối** — 2 thời điểm chuẩn, không thêm tự phát ở giữa.
-- ✅ **Thành thật thừa nhận khi trùng** — Dũng đỏ mặt OK, không giả vờ không có gì.
-- ✅ **Hương cứu khéo** — 'ズンが個人的に' — biến lỗi thành 'thêm tấm lòng cá nhân'. Matsumoto nhận 1 món mang tính biểu tượng.
-- ❌ Đừng chất đống quà 'cho chắc' — cho thấy làm quá + thiếu phối hợp.
+- **Một người phụ trách quà** — 1 người trong nhóm chịu trách nhiệm tránh trùng.
+- **Túi quà chào mừng ngày đầu + quà tiễn ngày cuối** — 2 thời điểm chuẩn, không thêm tự phát ở giữa.
+- **Thành thật thừa nhận khi trùng** — Dũng đỏ mặt OK, không giả vờ không có gì.
+- **Hương cứu khéo** — 'ズンが個人的に' — biến lỗi thành 'thêm tấm lòng cá nhân'. Matsumoto nhận 1 món mang tính biểu tượng.
+- Đừng chất đống quà 'cho chắc' — cho thấy làm quá + thiếu phối hợp.
 
 
 ---
 
-## 🌅 Tổng kết của Dũng — ghi vào ngân hàng ký ức
+## Tổng kết của Dũng — ghi vào ngân hàng ký ức
 
 *Phòng họp Thiên Phát 17:30, sau khi tiễn đoàn về. Hương + Tuấn + Dũng + Linh họp rút kinh nghiệm 30 phút.*
 
@@ -580,5 +580,5 @@ Suy nghĩ của mình:
 
 ---
 
-> **Hizashi Sách 09 — Chương 05 — 白鷗ご来訪・3日間**  
+> **Hizashi Sách 09 — Chương 05 — 白鷗ご来訪・3日間**
 > *Tiếp đoàn khách Nhật thăm HCMC 3 ngày.*

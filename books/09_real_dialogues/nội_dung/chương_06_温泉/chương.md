@@ -6,7 +6,7 @@
 
 ---
 
-## 💡 Bí quyết tổng
+## Bí quyết tổng
 
 - Onsen qua đêm = mức quan hệ cao nhất ngoài đám cưới. Được mời = tín hiệu tin tưởng mạnh.
 - Phép tắc ryokan nhiều quy tắc: genkan giày, futon, thứ tự kaiseki, rót sake. Sách 07 đã dạy — nghỉ dưỡng onsen là bài kiểm tra thực tế.
@@ -36,13 +36,13 @@
 *[Tàu vào sân ga 9:15. Đoàn lên toa 3, may có 4 ghế đối diện rộng. Ngồi xuống. Nhẹ người.]*
 
 
-### 💡 Bí quyết — Shinkansen reservation — đặt trước
+### Bí quyết — Shinkansen reservation — đặt trước
 
 Khách JP mặc định đặt chỗ ngồi Shinkansen trước:
-- ✅ **App SmartEX** (JR Tokai) đặt trước qua app, tích hợp Suica.
-- ✅ Chỗ ngồi có đặt = phụ thu ¥530 nhưng yên tâm hoàn toàn.
-- ✅ **Kodama (loại chậm, dừng mọi ga)** vắng nhất, chỗ tự do cũng được. **Nozomi (loại nhanh)** ngày Thứ Bảy đông — bắt buộc đặt trước.
-- ❌ Đàn em trong nhóm = mặc định có trách nhiệm đặt chỗ cho cả nhóm. Không đặt = mất mặt.
+- **App SmartEX** (JR Tokai) đặt trước qua app, tích hợp Suica.
+- Chỗ ngồi có đặt = phụ thu ¥530 nhưng yên tâm hoàn toàn.
+- **Kodama (loại chậm, dừng mọi ga)** vắng nhất, chỗ tự do cũng được. **Nozomi (loại nhanh)** ngày Thứ Bảy đông — bắt buộc đặt trước.
+- Đàn em trong nhóm = mặc định có trách nhiệm đặt chỗ cho cả nhóm. Không đặt = mất mặt.
 
 
 ---
@@ -70,15 +70,15 @@ Khách JP mặc định đặt chỗ ngồi Shinkansen trước:
 | **松本PM** | 「(<ruby>笑顔<rt>えがお</rt></ruby>)<ruby>約束<rt>やくそく</rt></ruby>だね、<ruby>夏<rt>なつ</rt></ruby>に<ruby>必<rt>かなら</rt></ruby>ず。」<br/>*(cười) Hứa rồi nhé, mùa hè chắc chắn.* |
 
 
-### 💡 Bí quyết — Eki-ben được chủ nhà tặng — nhận đúng cách
+### Bí quyết — Eki-ben được chủ nhà tặng — nhận đúng cách
 
 Đàn anh đãi eki-ben / đồ uống cho đàn em trên tàu = cử chỉ nhỏ, đừng phản ứng thái quá:
-- ✅ **Nhận 2 tay + 'いただきます'** = chuẩn.
-- ✅ **Tuấn xử lý khéo** ('hứa cà phê khách sạn') = đáp lễ nhẹ, không nặng nề.
-- ✅ **Chuyển chủ đề ngay** sang nội dung (nội dung bento) = không lảng vảng trong cảm giác nợ ơn.
-- ✅ **Đáp lễ sau thật sự** — Dũng hứa 'lần sau HCMC mời ốc' = cân bằng lâu dài.
-- ❌ **Không** rút ví trả lại — xúc phạm người mời.
-- ❌ Không kéo dài cảm ơn 5 lần.
+- **Nhận 2 tay + 'いただきます'** = chuẩn.
+- **Tuấn xử lý khéo** ('hứa cà phê khách sạn') = đáp lễ nhẹ, không nặng nề.
+- **Chuyển chủ đề ngay** sang nội dung (nội dung bento) = không lảng vảng trong cảm giác nợ ơn.
+- **Đáp lễ sau thật sự** — Dũng hứa 'lần sau HCMC mời ốc' = cân bằng lâu dài.
+- **Không** rút ví trả lại — xúc phạm người mời.
+- Không kéo dài cảm ơn 5 lần.
 
 
 ---
@@ -102,14 +102,14 @@ Khách JP mặc định đặt chỗ ngồi Shinkansen trước:
 | **松本PM** | 「車来た、乗ろう。15分で旅館。」<br/>*Xe đến rồi, lên đi. 15 phút là tới ryokan.* |
 
 
-### 💡 Bí quyết — Mượn khăn từ đàn anh — nhận với thái độ đúng mực
+### Bí quyết — Mượn khăn từ đàn anh — nhận với thái độ đúng mực
 
 Đàn anh đề nghị giúp (khăn, áo, ô) = đừng từ chối kiêu ngạo:
-- ✅ **Từ chối nhẹ 1 lần** ('大丈夫です') = lịch sự.
-- ✅ **Sau đàn anh nhấn 1 lần → nhận** ('ありがとうございます') — đừng lặp 3 lần.
-- ✅ **Thành thật nhận lỗi** ('海風想定外でした') — dễ thương, gần gũi.
-- ✅ **Học bài** — Ōgaki dạy HeatTech = mách nước thực tế.
-- ❌ **Giả vờ ổn** rồi run cả ngày — đàn anh thấy còn khó chịu hơn.
+- **Từ chối nhẹ 1 lần** ('大丈夫です') = lịch sự.
+- **Sau đàn anh nhấn 1 lần → nhận** ('ありがとうございます') — đừng lặp 3 lần.
+- **Thành thật nhận lỗi** ('海風想定外でした') — dễ thương, gần gũi.
+- **Học bài** — Ōgaki dạy HeatTech = mách nước thực tế.
+- **Giả vờ ổn** rồi run cả ngày — đàn anh thấy còn khó chịu hơn.
 - Atami tháng 1-2 gió biển 5-7°C cảm giác như 0°C — áo khoác + khăn quàng cần.
 
 
@@ -137,7 +137,7 @@ Khách JP mặc định đặt chỗ ngồi Shinkansen trước:
 | **女将** | 「お<ruby>部屋<rt>へや</rt></ruby>は2<ruby>階<rt>かい</rt></ruby>の『<ruby>松<rt>まつ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>』です。<ruby>仲居<rt>なかい</rt></ruby>が<ruby>荷物<rt>にもつ</rt></ruby>お<ruby>運<rt>はこ</rt></ruby>びします。」<br/>*Phòng quý vị là 'Matsu no ma' tầng 2. Nakai (lễ tân riêng) sẽ đem đồ lên.* |
 
 
-### 💡 Bí quyết — Genkan + agarikamachi — quy tắc cởi giày
+### Bí quyết — Genkan + agarikamachi — quy tắc cởi giày
 
 Ryokan truyền thống phân khu rõ:
 - **玄関 (genkan)** = khu thấp ngay cửa, đi giày OK.
@@ -145,10 +145,10 @@ Ryokan truyền thống phân khu rõ:
 - **Tatami / hành lang gỗ** = chỉ đi chân không / dép trong / tất tabi.
 
 Quy tắc:
-- ✅ Đứng ở genkan, cởi giày.
-- ✅ **Quay mũi giày ra ngoài** (= nghi thức cho người dọn).
-- ✅ Bước lên agarikamachi với chân không hoặc dép trong của ryokan.
-- ❌ **Tuyệt đối không giẫm giày lên tatami** — coi là 失礼.
+- Đứng ở genkan, cởi giày.
+- **Quay mũi giày ra ngoài** (= nghi thức cho người dọn).
+- Bước lên agarikamachi với chân không hoặc dép trong của ryokan.
+- **Tuyệt đối không giẫm giày lên tatami** — coi là 失礼.
 - Dũng mắc sai lầm = chuyện rất phổ biến lần đầu, bà chủ tốt sẽ nhắc nhẹ.
 - Tip: quan sát Matsumoto / Ōgaki, copy hành động.
 
@@ -182,14 +182,14 @@ Quy tắc:
 | **松本PM** | 「そう、お<ruby>吸<rt>す</rt></ruby>い<ruby>物<rt>もの</rt></ruby>。<ruby>蛤<rt>はまぐり</rt></ruby>の<ruby>出汁<rt>だし</rt></ruby>、<ruby>繊細<rt>せんさい</rt></ruby>。<ruby>最後<rt>さいご</rt></ruby>にゆっくり<ruby>飲<rt>の</rt></ruby>んで。」<br/>*Đúng, osuimono. Dashi từ con hàu, tinh tế. Cuối cùng uống chậm thôi.* |
 
 
-### 💡 Bí quyết — Kaiseki lần đầu — đừng giả vờ biết
+### Bí quyết — Kaiseki lần đầu — đừng giả vờ biết
 
 Kaiseki = 5-15 món khẩu phần nhỏ, mỗi món có triết lý riêng. Lần đầu:
-- ✅ **Thành thật 'không biết'** = kích thích đàn anh vui vẻ giải thích. Matsumoto + Ōgaki dạy chi tiết.
-- ✅ **Thứ tự ăn quan trọng**: 先付 (khai vị) → お造り (sashimi) → 焚合 (món ninh) → 揚げ物 (món chiên) → 蒸し物 (món hấp) → 御飯 (cơm) → お椀 (súp) → デザート. Thứ tự mặc định kaiseki.
-- ✅ **Nhận xét về vị** sau khi ăn — chủ nhà vui.
-- ✅ **Đàn anh dạy = khoảnh khắc gắn kết** — không phải bị hạ thấp.
-- ❌ **Đừng giả vờ** biết — hỏng nhanh hơn (như dính câu hỏi về vùng đặc sản).
+- **Thành thật 'không biết'** = kích thích đàn anh vui vẻ giải thích. Matsumoto + Ōgaki dạy chi tiết.
+- **Thứ tự ăn quan trọng**: 先付 (khai vị) → お造り (sashimi) → 焚合 (món ninh) → 揚げ物 (món chiên) → 蒸し物 (món hấp) → 御飯 (cơm) → お椀 (súp) → デザート. Thứ tự mặc định kaiseki.
+- **Nhận xét về vị** sau khi ăn — chủ nhà vui.
+- **Đàn anh dạy = khoảnh khắc gắn kết** — không phải bị hạ thấp.
+- **Đừng giả vờ** biết — hỏng nhanh hơn (như dính câu hỏi về vùng đặc sản).
 
 
 ---
@@ -221,13 +221,13 @@ Kaiseki = 5-15 món khẩu phần nhỏ, mỗi món có triết lý riêng. Lầ
 *[Dũng hiểu sâu hơn. Trước đây nghĩ onsen = thư giãn. Giờ thấy = nghi lễ xóa bỏ phân cấp địa vị.]*
 
 
-### 💡 Bí quyết — Hình xăm + onsen — báo trước
+### Bí quyết — Hình xăm + onsen — báo trước
 
 Nhiều ryokan onsen JP cấm hình xăm (từ lệnh cấm yakuza cũ). Cách xử lý:
-- ✅ **Gọi ryokan trước** hỏi chính sách — Tuấn / phía công ty bạn đặt phòng có thể hỏi giúp.
-- ✅ **Xăm nhỏ < 5cm**: nhiều ryokan chấp nhận với band-aid che ('シール対応').
-- ✅ **Xăm to**: cần chọn ryokan cho phép hình xăm (lọc trên Booking.com), hoặc đặt onsen riêng (家族風呂).
-- ❌ Đừng giấu rồi vào — bị phát hiện = bị mời ra = xấu hổ cho bản thân + người mời.
+- **Gọi ryokan trước** hỏi chính sách — Tuấn / phía công ty bạn đặt phòng có thể hỏi giúp.
+- **Xăm nhỏ < 5cm**: nhiều ryokan chấp nhận với band-aid che ('シール対応').
+- **Xăm to**: cần chọn ryokan cho phép hình xăm (lọc trên Booking.com), hoặc đặt onsen riêng (家族風呂).
+- Đừng giấu rồi vào — bị phát hiện = bị mời ra = xấu hổ cho bản thân + người mời.
 
 Ý nghĩa onsen sâu hơn thư giãn: '裸の付き合い' = nghi lễ xóa bỏ phân cấp địa vị. Hiểu được = mức thân mật mới với khách JP.
 
@@ -262,14 +262,14 @@ Nhiều ryokan onsen JP cấm hình xăm (từ lệnh cấm yakuza cũ). Cách x
 | **ズン** | 「(笑って)<ruby>了解<rt>りょうかい</rt></ruby>、<ruby>茶道<rt>さどう</rt></ruby>とビジネスの<ruby>比喩<rt>ひゆ</rt></ruby>、メモします。」<br/>*(cười) Vâng, ẩn dụ trà đạo với công việc, em ghi chú.* |
 
 
-### 💡 Bí quyết — Matcha lần đầu — wagashi là bạn
+### Bí quyết — Matcha lần đầu — wagashi là bạn
 
 Matcha (薄茶 / 濃茶) đắng mạnh với người mới:
-- ✅ **Wagashi (kẹo ngọt) ăn TRƯỚC trà** — không phải sau. Vị ngọt ngấm vào lưỡi → trà sau cảm giác cân bằng hơn.
-- ✅ **2 tay nhận chén**, xoay 90° (chuyển mặt chén ra phía chủ nhà).
-- ✅ **Phản ứng thành thật** — Matsumoto trân trọng sự thành thật hơn giả vờ thấu đáo.
-- ✅ **Khoảnh khắc khám phá** ('khác hẳn!') = thắng lợi nhỏ, chủ nhà vui khi được dạy.
-- ✅ Câu của Matsumoto '茶道 = sự kết hợp, không phải đơn lẻ' = khoảnh khắc triết lý, ghi chú để dùng buổi khởi động.
+- **Wagashi (kẹo ngọt) ăn TRƯỚC trà** — không phải sau. Vị ngọt ngấm vào lưỡi → trà sau cảm giác cân bằng hơn.
+- **2 tay nhận chén**, xoay 90° (chuyển mặt chén ra phía chủ nhà).
+- **Phản ứng thành thật** — Matsumoto trân trọng sự thành thật hơn giả vờ thấu đáo.
+- **Khoảnh khắc khám phá** ('khác hẳn!') = thắng lợi nhỏ, chủ nhà vui khi được dạy.
+- Câu của Matsumoto '茶道 = sự kết hợp, không phải đơn lẻ' = khoảnh khắc triết lý, ghi chú để dùng buổi khởi động.
 
 
 ---
@@ -309,15 +309,15 @@ Matcha (薄茶 / 濃茶) đắng mạnh với người mới:
 *[Kaiseki ra liên tục: tempura tôm, yakitori, nimono, bò hầm Hida-Takayama. Mỗi món Matsumoto / Ōgaki giải thích về vùng xuất xứ. Bữa tối kéo dài 1,5 tiếng.]*
 
 
-### 💡 Bí quyết — Phép tắc rót sake — 2 tay + nửa chén khôn ngoan
+### Bí quyết — Phép tắc rót sake — 2 tay + nửa chén khôn ngoan
 
 Sake nóng (atsukan) ryokan mùa đông:
-- ✅ **2 tay cầm o-choko** nhận sake.
-- ✅ **Không tự rót** — chờ người khác rót, hoặc rót cho người khác trước.
-- ✅ **Ngửa chén nhẹ** khi nhận để dễ rót.
-- ✅ **Xin nửa chén khi từ chối khéo** — 'sáng mai tỉnh' = lý do chuyên nghiệp. Đàn anh chấp nhận ('khôn').
-- ❌ **Tuyệt đối không úp chén** xuống = tín hiệu 'ngừng mãi mãi' thô lỗ.
-- ❌ **Không từ chối hoàn toàn vòng đầu** — ít nhất nhận mang tính tượng trưng.
+- **2 tay cầm o-choko** nhận sake.
+- **Không tự rót** — chờ người khác rót, hoặc rót cho người khác trước.
+- **Ngửa chén nhẹ** khi nhận để dễ rót.
+- **Xin nửa chén khi từ chối khéo** — 'sáng mai tỉnh' = lý do chuyên nghiệp. Đàn anh chấp nhận ('khôn').
+- **Tuyệt đối không úp chén** xuống = tín hiệu 'ngừng mãi mãi' thô lỗ.
+- **Không từ chối hoàn toàn vòng đầu** — ít nhất nhận mang tính tượng trưng.
 - Atsukan dễ uống hơn sake lạnh → Dũng chưa quen rượu Nhật có thể bắt đầu từ đây.
 
 
@@ -356,7 +356,7 @@ Sake nóng (atsukan) ryokan mùa đông:
 *[Ōgaki ra. Dũng còn 1 mình bồn. 5 phút nữa. Nhìn trần. Nghe giọng Ōgaki vẫn vang. Cảm thấy chuyển đổi gì đó trong mối quan hệ — Ōgaki giờ không chỉ là 'khách' nữa.]*
 
 
-### 💡 Bí quyết — Onsen 21h — khoảnh khắc thân mật nhất
+### Bí quyết — Onsen 21h — khoảnh khắc thân mật nhất
 
 **Onsen khuya 2 người** (sau bữa tối, bồn nhỏ, 2 người) = môi trường đàn anh JP hay mở lòng nhất:
 - Vì tắm trần → cởi bỏ vật chất.
@@ -365,13 +365,13 @@ Sake nóng (atsukan) ryokan mùa đông:
 - Vì chỉ 2 người → không có ai khác.
 
 Cách phản ứng khi đàn anh tâm sự sâu:
-- ✅ **Hạ giọng** — hòa theo tông của người kia.
-- ✅ **Đồng cảm với cảm xúc** ('お辛かったでしょう') — không cố giải quyết vấn đề.
-- ✅ **Lắng nghe, không xoay sang chuyện bản thân** — đừng kể chuyện mình ngay.
-- ✅ **Khi được hỏi ngược** — chia sẻ thành thật, ngắn gọn.
-- ✅ **Hứa hành động cụ thể** ('tuần sau em gọi video') — nhỏ nhưng rõ ràng.
-- ❌ **Đừng đùa** lúc này.
-- ❌ **Đừng kể rộng ra** với người khác sau (kể cả Tuấn) — chuyện riêng của Ōgaki.
+- **Hạ giọng** — hòa theo tông của người kia.
+- **Đồng cảm với cảm xúc** ('お辛かったでしょう') — không cố giải quyết vấn đề.
+- **Lắng nghe, không xoay sang chuyện bản thân** — đừng kể chuyện mình ngay.
+- **Khi được hỏi ngược** — chia sẻ thành thật, ngắn gọn.
+- **Hứa hành động cụ thể** ('tuần sau em gọi video') — nhỏ nhưng rõ ràng.
+- **Đừng đùa** lúc này.
+- **Đừng kể rộng ra** với người khác sau (kể cả Tuấn) — chuyện riêng của Ōgaki.
 
 
 ---
@@ -395,13 +395,13 @@ Cách phản ứng khi đàn anh tâm sự sâu:
 *[Tắt đèn. Futon ấm, mùi tatami nhẹ. Ngoài cửa sổ tiếng sóng biển xa. Dũng ngủ trong 5 phút.]*
 
 
-### 💡 Bí quyết — Nói chuyện với người cùng công ty trước khi ngủ
+### Bí quyết — Nói chuyện với người cùng công ty trước khi ngủ
 
 30 phút trước khi ngủ với người Việt cùng công ty (Tuấn) sau chuyến nghỉ dưỡng onsen:
-- ✅ **Xử lý cảm xúc** — chuyển trải nghiệm từ cảm giác thô sang hiểu biết rõ ràng.
-- ✅ **Tự quyết định chia sẻ gì / giữ lại gì** — Tuấn tôn trọng Dũng giữ chuyện Ōgaki riêng.
-- ✅ **Phân loại ghi chú**: mục 'cá nhân' vs 'dự án' — chuyện bố Ōgaki = cá nhân, không đưa vào hệ thống quản lý.
-- ✅ **Ghi lại hiểu biết cốt lõi** ('onsen = công cụ, không phải phúc lợi thêm') — áp dụng cho lần sau.
+- **Xử lý cảm xúc** — chuyển trải nghiệm từ cảm giác thô sang hiểu biết rõ ràng.
+- **Tự quyết định chia sẻ gì / giữ lại gì** — Tuấn tôn trọng Dũng giữ chuyện Ōgaki riêng.
+- **Phân loại ghi chú**: mục 'cá nhân' vs 'dự án' — chuyện bố Ōgaki = cá nhân, không đưa vào hệ thống quản lý.
+- **Ghi lại hiểu biết cốt lõi** ('onsen = công cụ, không phải phúc lợi thêm') — áp dụng cho lần sau.
 - Không lảng vảng quá lâu (30 phút tối đa) — sáng mai 7h dậy.
 
 
@@ -434,21 +434,21 @@ Cách phản ứng khi đàn anh tâm sự sâu:
 *[Lời mời cấp gia đình. Quan hệ đã sang chiều khác. Dũng nhìn Tuấn. Tuấn cười.]*
 
 
-### 💡 Bí quyết — Cà phê ấm sáng ga — cử chỉ kết thúc đẹp
+### Bí quyết — Cà phê ấm sáng ga — cử chỉ kết thúc đẹp
 
 Ngày cuối chuyến nghỉ onsen, sáng ra ga = khoảnh khắc cuối với chủ nhà:
-- ✅ **Cà phê hộp máy bán hàng ¥130** = cử chỉ nhỏ giá rẻ nhưng chạm lòng.
-- ✅ **Đưa cả 2 đàn anh** (Matsumoto + Ōgaki) — không quên ai.
-- ✅ **Ấm — phù hợp gió biển sáng**.
-- ✅ Tuấn cũng làm cùng = cả hai phối hợp ăn ý, không chỉ 1 người dúi.
-- ✅ **Đàn anh khen 'khí lợi'** = thắng lợi nhỏ, khép vòng tròn cuối tuần đẹp.
+- **Cà phê hộp máy bán hàng ¥130** = cử chỉ nhỏ giá rẻ nhưng chạm lòng.
+- **Đưa cả 2 đàn anh** (Matsumoto + Ōgaki) — không quên ai.
+- **Ấm — phù hợp gió biển sáng**.
+- Tuấn cũng làm cùng = cả hai phối hợp ăn ý, không chỉ 1 người dúi.
+- **Đàn anh khen 'khí lợi'** = thắng lợi nhỏ, khép vòng tròn cuối tuần đẹp.
 
 Matsumoto mời lần sau + gia đình = quan hệ đã sang chiều cá nhân, không chỉ công việc.
 
 
 ---
 
-## 🌅 Tổng kết của Dũng — ghi chú vào sổ nhớ
+## Tổng kết của Dũng — ghi chú vào sổ nhớ
 
 *Trên Shinkansen Atami → Tokyo, ghế cửa sổ. Dũng mở sổ ghi chú trong khi Tuấn ngủ gật cạnh.*
 
@@ -492,5 +492,5 @@ Mình:
 
 ---
 
-> **Hizashi Sách 09 — Chương 06 — 温泉一泊・関係づくり**  
+> **Hizashi Sách 09 — Chương 06 — 温泉一泊・関係づくり**
 > *Đi onsen 1 đêm cùng khách.*

@@ -1,14 +1,14 @@
-# Chương 04 — Onsite Nhật 1 tuần lần đầu / 初めての1週間出張
+# Chương 04 — Công tác Nhật 1 tuần lần đầu / 初めての1週間出張
 
-> **Bối cảnh.** Tháng 9/2026, Dũng đi 1 tuần văn phòng Tokyo của 白鷗. Mục tiêu: khởi động Phase 5 + gặp mặt những người chưa từng gặp. Lịch: Thứ 2-Thứ 6 làm việc, Thứ 7 về VN. Lần đầu Dũng onsite 1 tuần (sách 07 đã đi 3 ngày trước).
+> **Bối cảnh.** Tháng 9/2026, Dũng đi 1 tuần văn phòng Tokyo của 白鷗. Mục tiêu: khởi động Phase 5 + gặp mặt những người chưa từng gặp. Lịch: Thứ 2-Thứ 6 làm việc, Thứ 7 về VN. Lần đầu Dũng đi công tác 1 tuần (sách 07 đã đi 3 ngày trước).
 >
 > **背景.** 2026年9月、ズン初めての1週間東京出張。白鷗東京HQでフェーズ5キックオフ+未対面チームに挨拶。月〜金勤務、土曜帰国。
 
 ---
 
-## 💡 Bí quyết tổng
+## Bí quyết tổng
 
-- 1 tuần onsite ≠ 3 ngày. Nhịp dài hơn → cần quản lý năng lượng + ngân sách bảo trì sức khỏe.
+- 1 tuần công tác ≠ 3 ngày. Nhịp dài hơn → cần quản lý năng lượng + ngân sách bảo trì sức khỏe.
 - Lần đầu hơn có nghĩa: ngại nhiều thứ → anh Tuấn cố vấn từ xa qua Slack mỗi tối 30 phút.
 - Mỗi ngày có ít nhất 1 'chiến thắng nhỏ' để giữ tinh thần — ghi vào nhật ký tối.
 - Chuẩn bị omiyage 2 chiều: sang JP đem cà phê G7 / hạt điều cho nhóm Hakuō, về VN có omiyage cho nhóm HCMC.
@@ -39,12 +39,12 @@
 | **ズン** | 「(独り言、ベトナム語、小声)Hên là không phạt tiền. Ghi nhớ: lần sau khai sạch.」<br/>*(tự lẩm bẩm tiếng Việt, nhỏ giọng) Hên là không phạt tiền. Ghi nhớ: lần sau khai sạch.* |
 
 
-### 💡 Bí quyết — Khai báo hải quan JP
+### Bí quyết — Khai báo hải quan JP
 
 JP nghiêm với thực phẩm vào nước:
-- ✅ **Khai báo tất cả** thực phẩm trên tờ khai hải quan (phát trên máy bay hoặc ứng dụng Visit Japan Web).
-- ✅ Hạt / khô (cà phê, hạt điều, bánh mứt) = phải khai dù 'cá nhân'.
-- ❌ Cấm hoàn toàn: thịt heo (kể cả bánh nem có nhân), trái cây tươi, hạt giống, củ.
+- **Khai báo tất cả** thực phẩm trên tờ khai hải quan (phát trên máy bay hoặc ứng dụng Visit Japan Web).
+- Hạt / khô (cà phê, hạt điều, bánh mứt) = phải khai dù 'cá nhân'.
+- Cấm hoàn toàn: thịt heo (kể cả bánh nem có nhân), trái cây tươi, hạt giống, củ.
 - Lần đầu vi phạm thường được cảnh cáo. Lặp lại = phạt + có thể vào danh sách đen.
 
 
@@ -73,13 +73,13 @@ JP nghiêm với thực phẩm vào nước:
 | **ズン** | 「ありがとうございます。おやすみなさい。」<br/>*Cảm ơn chị. Chúc ngủ ngon.* |
 
 
-### 💡 Bí quyết — Quên từ vựng — xử lý trơn tru
+### Bí quyết — Quên từ vựng — xử lý trơn tru
 
 Mệt + lo + lần đầu → quên từ cơ bản là chuyện thường (Dũng quên 禁煙). Cách xử lý:
-- ✅ **Diễn giải khác** ('タバコ吸わない方で') — lễ tân hiểu ngay.
-- ✅ **Thừa nhận nhẹ** ('単語飛んじゃって') — thể hiện chân thật, lễ tân thân thiện hơn.
-- ❌ Đừng đứng im 5 giây cố nhớ — gây khó xử cho cả hai.
-- ❌ Đừng chuyển sang tiếng Anh ngay — nhân viên JP trân trọng nỗ lực dù chưa hoàn hảo.
+- **Diễn giải khác** ('タバコ吸わない方で') — lễ tân hiểu ngay.
+- **Thừa nhận nhẹ** ('単語飛んじゃって') — thể hiện chân thật, lễ tân thân thiện hơn.
+- Đừng đứng im 5 giây cố nhớ — gây khó xử cho cả hai.
+- Đừng chuyển sang tiếng Anh ngay — nhân viên JP trân trọng nỗ lực dù chưa hoàn hảo.
 
 Từ vựng khách sạn cần thuộc lòng: 禁煙室, 喫煙室, ツインルーム, シングルルーム, 朝食付き.
 
@@ -111,12 +111,12 @@ Từ vựng khách sạn cần thuộc lòng: 禁煙室, 喫煙室, ツインル
 | **白鷗社 受付** | 「こちらが visitor pass、<ruby>首<rt>くび</rt></ruby>にかけてください。8<ruby>階<rt>かい</rt></ruby><ruby>会議室<rt>かいぎしつ</rt></ruby>Cまで、エレベーターは<ruby>右手<rt>みぎて</rt></ruby><ruby>奥<rt>おく</rt></ruby>です。」<br/>*Đây visitor pass, đeo lên cổ ạ. Phòng họp C tầng 8, thang máy bên phải trong cùng.* |
 
 
-### 💡 Bí quyết — Thẻ khách + giấy tờ khi vào trụ sở JP
+### Bí quyết — Thẻ khách + giấy tờ khi vào trụ sở JP
 
 Công ty JP lớn (>500 nhân viên) thường yêu cầu giấy tờ khi cấp thẻ khách:
-- ✅ **Mặc định mang theo passport** mỗi sáng vào trụ sở — không để khách sạn.
-- ✅ Dự phòng: bản phô-tô passport in giấy + visa làm việc + danh thiếp công ty.
-- ✅ Đến sớm 30 phút lần đầu → dư thời gian cho mọi rắc rối giấy tờ, an ninh.
+- **Mặc định mang theo passport** mỗi sáng vào trụ sở — không để khách sạn.
+- Dự phòng: bản phô-tô passport in giấy + visa làm việc + danh thiếp công ty.
+- Đến sớm 30 phút lần đầu → dư thời gian cho mọi rắc rối giấy tờ, an ninh.
 - Lễ tân lớn (Hakuō HQ) thường linh hoạt với người Việt — nhưng đừng thử lại lần 2.
 
 
@@ -148,14 +148,14 @@ Công ty JP lớn (>500 nhân viên) thường yêu cầu giấy tờ khi cấp 
 *[Không ai hỏi tiếp. Dũng ngồi xuống, tay vẫn run nhẹ. Inoue gật đầu khen ngầm.]*
 
 
-### 💡 Bí quyết — Trình bày bất ngờ sáng đầu tiên
+### Bí quyết — Trình bày bất ngờ sáng đầu tiên
 
 Khách JP đôi khi yêu cầu trình bày mà không báo trước — kiểm tra khả năng ứng biến:
-- ✅ **Luôn chuẩn bị sẵn 1 bộ slide '3-5 trang giới thiệu'** trước mỗi chuyến onsite — phòng trường hợp này.
-- ✅ Cấu trúc 'quy tắc 3 điểm' — 3 điểm Phase 4 + 3 điểm Phase 5. Dễ nhớ + dễ trình bày.
-- ✅ **Số liệu cụ thể** ('sớm 2 tuần', '5 kỹ sư') > phát biểu chung chung.
-- ✅ **Kết bằng 'cảm ơn — ai có câu hỏi không?'** không kéo dài.
-- ❌ Đừng nói 'em không chuẩn bị' — mất uy tín ngay lập tức.
+- **Luôn chuẩn bị sẵn 1 bộ slide '3-5 trang giới thiệu'** trước mỗi chuyến công tác — phòng trường hợp này.
+- Cấu trúc 'quy tắc 3 điểm' — 3 điểm Phase 4 + 3 điểm Phase 5. Dễ nhớ + dễ trình bày.
+- **Số liệu cụ thể** ('sớm 2 tuần', '5 kỹ sư') > phát biểu chung chung.
+- **Kết bằng 'cảm ơn — ai có câu hỏi không?'** không kéo dài.
+- Đừng nói 'em không chuẩn bị' — mất uy tín ngay lập tức.
 
 
 ---
@@ -178,11 +178,11 @@ Khách JP đôi khi yêu cầu trình bày mà không báo trước — kiểm t
 | **ズン** | 「メモしました、<ruby>次回<rt>じかい</rt></ruby><ruby>必<rt>かなら</rt></ruby>ず。」<br/>*Em note rồi, lần sau chắc chắn.* |
 
 
-### 💡 Bí quyết — Nhận lời khen — đừng quá khiêm nhường
+### Bí quyết — Nhận lời khen — đừng quá khiêm nhường
 
 Người Việt + người Nhật đều có thói quen né lời khen ('まだまだ', 'em chưa đủ'). Nhưng JP hiện đại (2020s+) coi câu 'ありがとうございます' đơn giản là chuẩn:
-- ✅ Nhận lời khen thẳng thắn + 1 câu tiếp nối ('được anh X khen em vui').
-- ❌ Quá khiêm nhường ('まだまだです / em chưa giỏi') = đôi khi khiêm tốn giả tạo, làm người khen ngại.
+- Nhận lời khen thẳng thắn + 1 câu tiếp nối ('được anh X khen em vui').
+- Quá khiêm nhường ('まだまだです / em chưa giỏi') = đôi khi khiêm tốn giả tạo, làm người khen ngại.
 - Tanaka đã hướng dẫn Dũng đúng — khoảnh khắc xây dựng quan hệ.
 
 Tanaka giới thiệu Edo-Tokyo Museum = gợi ý địa phương thực sự, ghi vào nhật ký.
@@ -212,13 +212,13 @@ Tanaka giới thiệu Edo-Tokyo Museum = gợi ý địa phương thực sự, g
 *[Dũng ghi chú: 'Itoki - Bedrock Strands vs custom orchestration - hỏi Tuấn tối nay'. Sau buổi thăm văn phòng, Dũng nhắn Tuấn qua Slack ngay.]*
 
 
-### 💡 Bí quyết — Câu hỏi kỹ thuật vượt phạm vi = thừa nhận thẳng thắn
+### Bí quyết — Câu hỏi kỹ thuật vượt phạm vi = thừa nhận thẳng thắn
 
 Nhân sự cấp cao kỹ thuật (Itoki) hỏi sâu hơn phạm vi BD của Dũng. Cách trả lời:
-- ✅ **Thành thật 'không chắc' + cam kết thời hạn** (sáng mai gửi email) = xây dựng tin tưởng.
-- ✅ **Nêu rõ quy trình** ('hỏi anh Tuấn tối nay') — người cấp cao thấy bạn có cách tìm ra câu trả lời đúng.
-- ❌ **Trả lời bừa** = thảm họa nếu Itoki kiểm tra lại sau.
-- ❌ **Né tránh** ('để nhóm em trả lời sau, nay em không phụ trách kỹ thuật') = thụ động, mất điểm.
+- **Thành thật 'không chắc' + cam kết thời hạn** (sáng mai gửi email) = xây dựng tin tưởng.
+- **Nêu rõ quy trình** ('hỏi anh Tuấn tối nay') — người cấp cao thấy bạn có cách tìm ra câu trả lời đúng.
+- **Trả lời bừa** = thảm họa nếu Itoki kiểm tra lại sau.
+- **Né tránh** ('để nhóm em trả lời sau, nay em không phụ trách kỹ thuật') = thụ động, mất điểm.
 - Itoki khen 'người nói được không biết là tin được' = bài học truyền thống của nhân sự cấp cao Nagoya.
 
 
@@ -253,14 +253,14 @@ Nhân sự cấp cao kỹ thuật (Itoki) hỏi sâu hơn phạm vi BD của Dũ
 | **ズン** | 「Cá basa といって、<ruby>川魚<rt>かわざかな</rt></ruby>です。<ruby>家庭料理<rt>かていりょうり</rt></ruby>で<ruby>煮込<rt>にこ</rt></ruby>みが<ruby>多<rt>おお</rt></ruby>いです。<ruby>日本<rt>にほん</rt></ruby>のサーモンほど<ruby>油<rt>あぶら</rt></ruby>っぽくない。」<br/>*Cá basa, cá nước ngọt. Món gia đình hay kho. Không béo như salmon Nhật.* |
 
 
-### 💡 Bí quyết — Món lạ ở bữa tối — thành thật hơn giả vờ
+### Bí quyết — Món lạ ở bữa tối — thành thật hơn giả vờ
 
 Khách JP gọi món lạ (uni, natto, ankimo) cho khách nước ngoài thử = kiểm tra phản ứng:
-- ✅ **Thử 1 miếng nhỏ** — thể hiện sự sẵn lòng.
-- ✅ **Phản ứng thành thật** ('lần đầu', 'không hợp khẩu vị') — Matsumoto trân trọng sự thật.
-- ✅ **Nhận xét cụ thể** về kết cấu/vị — không chỉ 'ngon/dở'.
-- ❌ **Giả vờ thích** rồi cố ăn hết — chủ tiệc lo ngại sau, không gọi món lạ lần sau.
-- ❌ **Từ chối ngay từ đầu** ('em không ăn được') — thể hiện cứng nhắc.
+- **Thử 1 miếng nhỏ** — thể hiện sự sẵn lòng.
+- **Phản ứng thành thật** ('lần đầu', 'không hợp khẩu vị') — Matsumoto trân trọng sự thật.
+- **Nhận xét cụ thể** về kết cấu/vị — không chỉ 'ngon/dở'.
+- **Giả vờ thích** rồi cố ăn hết — chủ tiệc lo ngại sau, không gọi món lạ lần sau.
+- **Từ chối ngay từ đầu** ('em không ăn được') — thể hiện cứng nhắc.
 - Chủ tốt (Matsumoto) sẽ tự đổi món khi thấy bạn khó xử.
 
 
@@ -288,14 +288,14 @@ Khách JP gọi món lạ (uni, natto, ankimo) cho khách nước ngoài thử =
 | **ズン** | 「(<ruby>姿勢<rt>しせい</rt></ruby><ruby>正<rt>ただ</rt></ruby>して)<ruby>了解<rt>りょうかい</rt></ruby>いたしました、お<ruby>任<rt>まか</rt></ruby>せください。」<br/>*(chỉnh tư thế) Vâng em hiểu, anh giao em làm.* |
 
 
-### 💡 Bí quyết — 1-on-1 với CFO — quan sát chứ không đánh giá
+### Bí quyết — 1-on-1 với CFO — quan sát chứ không đánh giá
 
 Câu CFO 'cậu cảm thấy thế nào về nhóm' = kiểm tra độ chín chắn. Cách trả lời:
-- ✅ **Đặt khung 'dựa trên quan sát'** ('観察ベースで') — không phải 'phán xét'.
-- ✅ **Điểm tốt trước** — thể hiện tôn trọng nhóm trước khi nêu vấn đề.
-- ✅ **Cụ thể** ('kênh Slack phân tán' > 'giao tiếp kém').
-- ✅ **Gắn với hành động cụ thể** ('Phase 5 thêm 5 người, sẽ là ma sát') — thể hiện tư duy hướng tới.
-- ✅ **Rào đón nhẹ** ('余計なこと申し上げてたら') — phép lịch sự Nhật.
+- **Đặt khung 'dựa trên quan sát'** ('観察ベースで') — không phải 'phán xét'.
+- **Điểm tốt trước** — thể hiện tôn trọng nhóm trước khi nêu vấn đề.
+- **Cụ thể** ('kênh Slack phân tán' > 'giao tiếp kém').
+- **Gắn với hành động cụ thể** ('Phase 5 thêm 5 người, sẽ là ma sát') — thể hiện tư duy hướng tới.
+- **Rào đón nhẹ** ('余計なこと申し上げてたら') — phép lịch sự Nhật.
 - CFO đề nghị Dũng làm slide đề xuất = tín hiệu được tin tưởng giao việc lớn hơn.
 
 
@@ -325,14 +325,14 @@ Câu CFO 'cậu cảm thấy thế nào về nhóm' = kiểm tra độ chín ch�
 *[Ăn hết bento 22 phút. Đặt rác đúng chỗ (nhựa riêng, lon riêng). Tắm 15 phút. 21:00 lên giường, mở ứng dụng nhật ký — viết ghi chú ngày thứ 5.]*
 
 
-### 💡 Bí quyết — Đêm một mình ở konbini — bài học chăm sóc bản thân
+### Bí quyết — Đêm một mình ở konbini — bài học chăm sóc bản thân
 
-1 tuần onsite không phải mỗi đêm dùng bữa với khách. **Đêm một mình ở konbini quan trọng**:
-- ✅ **Nạp lại năng lượng** — 1-2 đêm/tuần một mình để giữ sức.
-- ✅ **Khách JP không phật lòng** nếu bạn từ chối ăn tối 1-2 đêm — họ hiểu (họ cũng cần thời gian riêng).
-- ✅ Bento + bia + TV NHK = trải nghiệm cơ bản Nhật, ổn thôi.
-- ✅ **Liên lạc gia đình** — 5 phút WhatsApp/Slack với người thân HCMC = điểm tựa tinh thần.
-- ❌ Đừng làm việc đến 11h đêm trong phòng → kiệt sức giữa tuần.
+1 tuần công tác không phải mỗi đêm dùng bữa với khách. **Đêm một mình ở konbini quan trọng**:
+- **Nạp lại năng lượng** — 1-2 đêm/tuần một mình để giữ sức.
+- **Khách JP không phật lòng** nếu bạn từ chối ăn tối 1-2 đêm — họ hiểu (họ cũng cần thời gian riêng).
+- Bento + bia + TV NHK = trải nghiệm cơ bản Nhật, ổn thôi.
+- **Liên lạc gia đình** — 5 phút WhatsApp/Slack với người thân HCMC = điểm tựa tinh thần.
+- Đừng làm việc đến 11h đêm trong phòng → kiệt sức giữa tuần.
 - Câu konbini Nhật cần thuộc: 温めますか? (hâm không), 袋は? (cần túi không).
 
 
@@ -360,13 +360,13 @@ Câu CFO 'cậu cảm thấy thế nào về nhóm' = kiểm tra độ chín ch�
 | **ズン** | 「<ruby>了解<rt>りょうかい</rt></ruby>、<ruby>月曜<rt>げつよう</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>に<ruby>送<rt>おく</rt></ruby>ります。」<br/>*Rõ, sáng thứ 2 em gửi.* |
 
 
-### 💡 Bí quyết — Họp tổng kết cuối tuần onsite
+### Bí quyết — Họp tổng kết cuối tuần công tác
 
-Cuối tuần onsite, phía chủ nhà muốn thấy:
-- ✅ **Bài học cụ thể** — 'quy tắc 3 điểm' > nói mơ hồ 'em học nhiều'.
-- ✅ **Tự nhận thức** — chỉ ra điểm yếu bản thân (khả năng ứng biến, chiều sâu kỹ thuật) = chín chắn.
-- ✅ **Hoãn lời mời với lý do cụ thể** — không hứa, không từ chối thẳng.
-- ✅ **Cam kết kết quả cụ thể** (báo cáo thứ 2) — khép vòng rõ ràng.
+Cuối tuần công tác, phía chủ nhà muốn thấy:
+- **Bài học cụ thể** — 'quy tắc 3 điểm' > nói mơ hồ 'em học nhiều'.
+- **Tự nhận thức** — chỉ ra điểm yếu bản thân (khả năng ứng biến, chiều sâu kỹ thuật) = chín chắn.
+- **Hoãn lời mời với lý do cụ thể** — không hứa, không từ chối thẳng.
+- **Cam kết kết quả cụ thể** (báo cáo thứ 2) — khép vòng rõ ràng.
 - Phía JP rất trân trọng nhân sự trẻ 'biết tự soi lại' > nhân sự trẻ 'tự khen'.
 
 
@@ -398,13 +398,13 @@ Cuối tuần onsite, phía chủ nhà muốn thấy:
 | **松本PM** | 「(<ruby>到着<rt>とうちゃく</rt></ruby>)ズンさん、エレベーターまで<ruby>送<rt>おく</rt></ruby>るよ。<ruby>気<rt>き</rt></ruby>をつけて<ruby>帰国<rt>きこく</rt></ruby>してね。」<br/>*(đến) Dũng à, tôi tiễn ra thang máy. Về cẩn thận nhé.* |
 
 
-### 💡 Bí quyết — Omiyage 2 chiều — khoảnh khắc bất ngờ
+### Bí quyết — Omiyage 2 chiều — khoảnh khắc bất ngờ
 
 Khách JP tặng omiyage chia tay cho đồng nghiệp ở nước nhà = thông thường. Khoảnh khắc đặc biệt khi:
 - **Cá nhân cấp cao (Tanaka) có cử chỉ riêng** — sticker từ con. Đó là bằng chứng chi tiết Dũng làm cho con tháng 5 đã lưu lại trong ký ức gia đình họ.
-- ✅ **Nhận bằng 2 tay + xúc động thật**.
-- ✅ **Cam kết truyền lại** ('chuyển cảm ơn tới con').
-- ✅ Ghi vào nhật ký ngay — chi tiết này phải nhớ cho lần thăm sau.
+- **Nhận bằng 2 tay + xúc động thật**.
+- **Cam kết truyền lại** ('chuyển cảm ơn tới con').
+- Ghi vào nhật ký ngay — chi tiết này phải nhớ cho lần thăm sau.
 
 
 ---
@@ -433,14 +433,14 @@ Khách JP tặng omiyage chia tay cho đồng nghiệp ở nước nhà = thông
 *[5 phút sau, có phiếu miễn thuế dán vào passport. Tay xách 4 túi to. Vác về khách sạn — vai mỏi nhưng vui.]*
 
 
-### 💡 Bí quyết — Mua omiyage gia đình — danh sách + ngân sách
+### Bí quyết — Mua omiyage gia đình — danh sách + ngân sách
 
-Ngày cuối onsite = mua omiyage cho gia đình + bạn HCMC. Mẹo:
-- ✅ **Chuẩn bị danh sách 10 món + ngân sách trước** từ ngày 2 ở Tokyo — không mua bốc đồng ngày cuối.
-- ✅ **Don Quijote / Loft / cửa hàng Tokyo Station** = mua một chỗ, đủ mức giá.
-- ✅ **Miễn thuế cho khách du lịch** > ¥5,000/cửa hàng/ngày → tiết kiệm 8%.
-- ✅ **Cắt bớt khi vượt ngân sách** — sắp xếp ưu tiên (gia đình > bạn thân > đồng nghiệp) — không cố chiều tất cả.
-- ✅ **Royce / KitKat matcha / Tokyo Banana** là lựa chọn an toàn mặc định.
+Ngày cuối công tác = mua omiyage cho gia đình + bạn HCMC. Mẹo:
+- **Chuẩn bị danh sách 10 món + ngân sách trước** từ ngày 2 ở Tokyo — không mua bốc đồng ngày cuối.
+- **Don Quijote / Loft / cửa hàng Tokyo Station** = mua một chỗ, đủ mức giá.
+- **Miễn thuế cho khách du lịch** > ¥5,000/cửa hàng/ngày → tiết kiệm 8%.
+- **Cắt bớt khi vượt ngân sách** — sắp xếp ưu tiên (gia đình > bạn thân > đồng nghiệp) — không cố chiều tất cả.
+- **Royce / KitKat matcha / Tokyo Banana** là lựa chọn an toàn mặc định.
 - Lưu ý trọng lượng: giới hạn hành lý ký gửi JAL/VN 23kg. Cộng túi máy tính + hành lý xách tay 7kg.
 
 
@@ -473,13 +473,13 @@ Ngày cuối onsite = mua omiyage cho gia đình + bạn HCMC. Mẹo:
 *[Slack thread '出張Tokyo週報' — gửi Hương: '今日13:00便でHCMC帰国。月曜の朝オフィスで Phase 5 月曜定例の前にちょっと話せますか?Slack整理プロジェクトの提案あります。'.]*
 
 
-### 💡 Bí quyết — Mẹo hành lý ký gửi
+### Bí quyết — Mẹo hành lý ký gửi
 
 Giới hạn 23kg JAL/VN/ANA hạng phổ thông. Mẹo:
-- ✅ **Hộp nặng + nhỏ** (chocolate, sake) → balo xách tay. Balo thường không cân nghiêm.
-- ✅ **Quần áo + bánh giòn** → hành lý ký gửi.
-- ✅ Nếu vượt 0.5-1kg → nhân viên quầy thường linh hoạt nếu bạn di chuyển đồ nhanh ngay tại chỗ. Vượt 2kg+ → tính phụ phí (≈¥3,000-5,000/kg).
-- ✅ **Cân thử ở khách sạn** bằng cân hành lý (¥1,000 ở Don Quijote, đáng đầu tư với người onsite thường xuyên).
+- **Hộp nặng + nhỏ** (chocolate, sake) → balo xách tay. Balo thường không cân nghiêm.
+- **Quần áo + bánh giòn** → hành lý ký gửi.
+- Nếu vượt 0.5-1kg → nhân viên quầy thường linh hoạt nếu bạn di chuyển đồ nhanh ngay tại chỗ. Vượt 2kg+ → tính phụ phí (≈¥3,000-5,000/kg).
+- **Cân thử ở khách sạn** bằng cân hành lý (¥1,000 ở Don Quijote, đáng đầu tư với người đi công tác thường xuyên).
 
 
 ---
@@ -492,7 +492,7 @@ Giới hạn 23kg JAL/VN/ANA hạng phổ thông. Mẹo:
 
 *[Mở ứng dụng ghi chú. Viết tiêu đề: '出張 Tokyo Week 1 — 2026/09/XX-XX | Tổng kết'.]*
 
-*[Ghi: 'Hôm nay là tuần đầu tiên onsite 1 tuần một mình. Mệt khủng nhưng cảm giác vất vả xứng đáng. 5 ngày — mỗi ngày 1 chiến thắng nhỏ. Mỗi tối 1 lần nhìn lại sai lầm. Cân bằng đẹp.']*
+*[Ghi: 'Hôm nay là tuần đầu tiên đi công tác 1 tuần một mình. Mệt khủng nhưng cảm giác vất vả xứng đáng. 5 ngày — mỗi ngày 1 chiến thắng nhỏ. Mỗi tối 1 lần nhìn lại sai lầm. Cân bằng đẹp.']*
 
 *[Liếc bên cạnh — bà cụ Nhật ≈70t đang ngủ. Dũng tiếp tục lướt danh sách sai lầm trong ngày: hải quan / passport / từ vựng 禁煙 / chiều sâu kỹ thuật với Itoki — và danh sách thắng lợi: trình bày sáng thứ 2 / thành thật trong buổi gặp riêng với Nakamura / sticker từ con Tanaka.]*
 
@@ -505,25 +505,25 @@ Giới hạn 23kg JAL/VN/ANA hạng phổ thông. Mẹo:
 *[Sau 30 phút — đói. Bữa trưa máy bay ra: cơm gà + soup miso. Ăn. Sau bữa ngủ 3 tiếng. Tỉnh lúc còn 1.5 tiếng đến HCMC.]*
 
 
-### 💡 Bí quyết — Tổng kết trên máy bay về
+### Bí quyết — Tổng kết trên máy bay về
 
-Tuần onsite dày đặc = thông tin quá tải. **Tổng kết ngay trên máy bay về** quan trọng vì:
+Tuần công tác dày đặc = thông tin quá tải. **Tổng kết ngay trên máy bay về** quan trọng vì:
 - 4-6 tiếng bay = khối thời gian không ai làm phiền.
 - Ký ức còn tươi — đến HCMC + văn phòng thứ 2 sẽ mờ dần.
-- ✅ **Dạng danh sách kiểm tra + 5 điểm thắng + 5 sai lầm** — cụ thể, dễ truy xuất sau.
-- ✅ **1 lời hứa với bản thân** cho lần thăm sau — hành động cụ thể.
-- ✅ Tải sẵn 1 video / chương trình podcast học liên quan — biến chuyến bay thành giờ học hiệu quả.
-- ❌ Đừng uống bia trên máy bay nếu định viết ghi chú nghiêm túc.
+- **Dạng danh sách kiểm tra + 5 điểm thắng + 5 sai lầm** — cụ thể, dễ truy xuất sau.
+- **1 lời hứa với bản thân** cho lần thăm sau — hành động cụ thể.
+- Tải sẵn 1 video / chương trình podcast học liên quan — biến chuyến bay thành giờ học hiệu quả.
+- Đừng uống bia trên máy bay nếu định viết ghi chú nghiêm túc.
 
 
 ---
 
-## 🌅 Tổng kết của Dũng — ghi vào nhật ký
+## Tổng kết của Dũng — ghi vào nhật ký
 
 *Trên máy bay, ghế 22A. Ghi chú cuối trước khi máy bay hạ cánh HCMC.*
 
 ```
-2026-09-XX  Onsite Tokyo Week 1 (Mon-Fri @ Hakuō HQ)
+2026-09-XX  Công tác Tokyo Tuần 1 (T2-T6 @ Hakuō HQ)
 
 5 điểm thắng:
 1. Thứ 2 trình bày bất ngờ kickoff — ứng biến 5 phút OK với quy tắc 3 điểm.
@@ -552,19 +552,19 @@ Việc cần làm tuần tới:
 Lời hứa bản thân:
 - Lần thăm sau: lên tiếng sớm hơn, không đợi được hỏi.
 - Học 50 từ vựng tiếng Nhật nghiệp vụ / tuần — hôm nay quên 禁煙 quá cơ bản.
-- Trước onsite lần sau: tìm hiểu trước từng người sẽ gặp (LinkedIn /
+- Trước chuyến công tác lần sau: tìm hiểu trước từng người sẽ gặp (LinkedIn /
   dự án cũ) — không bị bất ngờ như câu hỏi Bedrock của Itoki.
 
 Cảm nhận:
-- Chuyến onsite này là bước ngoặt. Trước đây 3 ngày thăm vẫn cảm giác là khách.
+- Chuyến công tác này là bước ngoặt. Trước đây 3 ngày thăm vẫn cảm giác là khách.
 - Tuần này — khoảnh khắc gặp riêng Nakamura + sticker của con Tanaka + bài kiểm tra
   kỹ thuật của Itoki — cảm giác bắt đầu thuộc về nhóm, không chỉ là đối tác ngoài.
-- Đề xuất onsite Tokyo 6 tháng (từ tiệc cuối năm tháng 12) giờ thấy thực
+- Đề xuất công tác Tokyo 6 tháng (từ tiệc cuối năm tháng 12) giờ thấy thực
   tế hơn — mình có thể làm được.
 - Mệt nhưng vui. Về HCMC chiều nay ăn phở mẹ nấu.
 ```
 
 ---
 
-> **Hizashi Sách 09 — Chương 04 — 初めての1週間出張**  
-> *Onsite Nhật 1 tuần lần đầu.*
+> **Hizashi Sách 09 — Chương 04 — 初めての1週間出張**
+> *Công tác Nhật 1 tuần lần đầu.*

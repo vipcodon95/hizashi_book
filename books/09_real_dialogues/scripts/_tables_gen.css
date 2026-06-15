@@ -1,0 +1,14 @@
+/* ===== CSS tỉ lệ cột bảng — TỰ SINH bởi analyze_tables.py ===== */
+/* KHÔNG sửa tay file này; chỉnh số đo qua nội dung .md rồi build lại. */
+
+/* # | Chương | Bối cảnh | Số tình huống  (1 bảng, 13 / 37 / 37 / 13) */
+table.t-tbl-1e8bc6 { table-layout: fixed; }
+table.t-tbl-1e8bc6 td:nth-child(1), table.t-tbl-1e8bc6 th:nth-child(1) { width: 13% !important; }
+table.t-tbl-1e8bc6 td:nth-child(2), table.t-tbl-1e8bc6 th:nth-child(2) { width: 37% !important; }
+table.t-tbl-1e8bc6 td:nth-child(3), table.t-tbl-1e8bc6 th:nth-child(3) { width: 37% !important; }
+table.t-tbl-1e8bc6 td:nth-child(4), table.t-tbl-1e8bc6 th:nth-child(4) { width: 13% !important; }
+
+/* Mục | Nội dung  (1 bảng, 25 / 75) */
+table.t-m-c-daf95f { table-layout: fixed; }
+table.t-m-c-daf95f td:nth-child(1), table.t-m-c-daf95f th:nth-child(1) { width: 25% !important; }
+table.t-m-c-daf95f td:nth-child(2), table.t-m-c-daf95f th:nth-child(2) { width: 75% !important; }

@@ -6,7 +6,7 @@
 
 ---
 
-## 💡 Bí quyết tổng
+## Bí quyết tổng
 
 - Được mời dự kekkonshiki = quan hệ đã sang tầng 'trong gia đình'. Không phải mọi đồng nghiệp công việc được mời.
 - Goshugi (lì xì cưới): 30,000円 cho đồng nghiệp đồng cấp. 50,000円 cho cấp trên gần. Tiền MỚI tinh, gói shugi-bukuro chuyên dụng.
@@ -37,7 +37,7 @@
 | **フオン副部長** | 「Một điều cuối — đừng căng thẳng. Tanaka mời em vì coi em là người nhà đó. Cứ tận hưởng nha.」<br/>*Một điều cuối — đừng căng thẳng. Tanaka mời em vì coi em như người nhà rồi. Cứ tận hưởng nha.* |
 
 
-### 💡 Bí quyết — Hướng dẫn trước kekkonshiki — 5 điểm
+### Bí quyết — Hướng dẫn trước kekkonshiki — 5 điểm
 
 Người lần đầu dự kekkonshiki Nhật cần đàn anh/chị hướng dẫn 5 thứ:
 1. **Goshugi**: đồng nghiệp = 30,000円, sếp gần = 50,000円, gia đình = 100,000円+. Tiền mới tinh + shugi-bukuro chuyên dụng (không dùng phong bì thường).
@@ -51,9 +51,9 @@ Quan trọng: được mời kekkonshiki = tín hiệu 'trong gia đình', khôn
 
 ---
 
-## Tình huống 2 — Thứ Bảy 11:30 · Sảnh chapel khách sạn Imperial Tokyo
+## Tình huống 2 — Thứ Bảy 11:30 · Sảnh nhà nguyện khách sạn Imperial Tokyo
 
-*Imperial Tokyo (khách sạn cao cấp) — chapel làm địa điểm tổ chức đám cưới. Sảnh trang trọng, quầy lễ tân có 2 nhân viên nữ mặc kimono. Dũng đến đúng giờ. Ký sổ + đưa goshugi. Gặp lỗi: tờ tiền 10,000 chưa gấp đúng chiều (quy tắc).*
+*Imperial Tokyo (khách sạn cao cấp) — nhà nguyện làm địa điểm tổ chức đám cưới. Sảnh trang trọng, quầy lễ tân có 2 nhân viên nữ mặc kimono. Dũng đến đúng giờ. Ký sổ + đưa goshugi. Gặp lỗi: tờ tiền 10,000 chưa gấp đúng chiều (quy tắc).*
 
 | Vai | Câu |
 |---------|-----|
@@ -75,35 +75,35 @@ Quan trọng: được mời kekkonshiki = tín hiệu 'trong gia đình', khôn
 | **ズン** | 「あ、すみません、<ruby>知<rt>し</rt></ruby>らなくて…<ruby>直<rt>なお</rt></ruby>してもいいですか?」<br/>*À, em xin lỗi, em không biết… em sửa được không ạ?* |
 | **結婚式スタッフ** | 「(微笑む)もちろんです、こちらの台で。お時間あります。」<br/>*(cười) Dĩ nhiên ạ, sửa ở bàn đây. Có thời gian.* |
 
-*[Dũng quay sang bàn nhỏ, mở shugi-bukuro, lấy 3 tờ 10,000 ra. Xếp lại — mặt có Fukuzawa Yukichi (mặt 'omote') hướng lên + đầu hướng vào trong shugi-bukuro. 30 giây xong. Trả lại staff.]*
+*[Dũng quay sang bàn nhỏ, mở phong bì mừng cưới (shugi-bukuro), lấy 3 tờ 10,000 ra. Xếp lại — mặt có Fukuzawa Yukichi (mặt 'omote') hướng lên + đầu hướng vào trong shugi-bukuro. 30 giây xong. Trả lại staff.]*
 
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「(<ruby>深<rt>ふか</rt></ruby>くお<ruby>辞儀<rt>じぎ</rt></ruby>)<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ありません。これでお<ruby>願<rt>ねが</rt></ruby>いします。」<br/>*(cúi đầu sâu) Em xin lỗi. Cái này nhờ chị.* |
-| **結婚式スタッフ** | 「(<ruby>微笑<rt>ほほえ</rt></ruby>む)はい、ありがとうございます。チャペル<ruby>入口<rt>いりぐち</rt></ruby>は2<ruby>階<rt>かい</rt></ruby>、エレベーターでどうぞ。<ruby>式<rt>しき</rt></ruby>は12<ruby>時<rt>じ</rt></ruby><ruby>開始<rt>かいし</rt></ruby>です。」<br/>*(cười) Vâng, cảm ơn ạ. Cửa chapel tầng 2, mời quý khách dùng thang máy. Lễ bắt đầu 12 giờ.* |
+| **結婚式スタッフ** | 「(<ruby>微笑<rt>ほほえ</rt></ruby>む)はい、ありがとうございます。チャペル<ruby>入口<rt>いりぐち</rt></ruby>は2<ruby>階<rt>かい</rt></ruby>、エレベーターでどうぞ。<ruby>式<rt>しき</rt></ruby>は12<ruby>時<rt>じ</rt></ruby><ruby>開始<rt>かいし</rt></ruby>です。」<br/>*(cười) Vâng, cảm ơn ạ. Cửa nhà nguyện tầng 2, mời quý khách dùng thang máy. Lễ bắt đầu 12 giờ.* |
 
 
-### 💡 Bí quyết — Quy tắc goshugi — tiền mới + chiều + gấp
+### Bí quyết — Quy tắc goshugi — tiền mới + chiều + gấp
 
 Chi tiết quy tắc goshugi:
-- ✅ **Tiền MỚI tinh** từ ngân hàng (新札). Tiền cũ = thiếu chuẩn bị / thất lễ. Đổi ở ATM Mizuho / SMBC hoặc quầy giao dịch trước 1 ngày.
-- ✅ **Chiều tiền**: mặt 'omote' (mặt có Fukuzawa Yukichi cho ¥10,000) hướng LÊN, đầu hướng VÀO TRONG shugi-bukuro. Tất cả tờ cùng chiều.
-- ✅ **Số tờ LẺ** (1, 3, 5) — không 2, 4 (số lẻ tốt, số chẵn có nghĩa 'chia rẽ'). 30,000 = 3 tờ 10K, không 2 tờ 10K + 1 tờ 5K + 5 tờ 1K. Đơn giản là tốt nhất.
-- ✅ **Tránh** số 4 (死) và 9 (苦) — 40K, 90K cấm.
-- ✅ **Shugi-bukuro chuyên dụng** (nơ trắng-bạc 結びきり) — Don Quijote / cửa hàng tiện lợi đều bán.
-- ✅ **Viết tên đầy đủ** mặt ngoài + bên trong số tiền chữ Hán: '金参萬円' (¥30,000).
+- **Tiền MỚI tinh** từ ngân hàng (新札). Tiền cũ = thiếu chuẩn bị / thất lễ. Đổi ở ATM Mizuho / SMBC hoặc quầy giao dịch trước 1 ngày.
+- **Chiều tiền**: mặt 'omote' (mặt có Fukuzawa Yukichi cho ¥10,000) hướng LÊN, đầu hướng VÀO TRONG shugi-bukuro. Tất cả tờ cùng chiều.
+- **Số tờ LẺ** (1, 3, 5) — không 2, 4 (số lẻ tốt, số chẵn có nghĩa 'chia rẽ'). 30,000 = 3 tờ 10K, không 2 tờ 10K + 1 tờ 5K + 5 tờ 1K. Đơn giản là tốt nhất.
+- **Tránh** số 4 (死) và 9 (苦) — 40K, 90K cấm.
+- **Shugi-bukuro chuyên dụng** (nơ trắng-bạc 結びきり) — Don Quijote / cửa hàng tiện lợi đều bán.
+- **Viết tên đầy đủ** mặt ngoài + bên trong số tiền chữ Hán: '金参萬円' (¥30,000).
 - Lỗi của Dũng = nhân viên sửa giúp nhẹ nhàng, không phải chuyện lớn. Nhưng lần sau thuộc lòng.
 
 
 ---
 
-## Tình huống 3 — Thứ Bảy 12:00 · Chapel — Lễ cưới theo phong cách Thiên Chúa giáo
+## Tình huống 3 — Thứ Bảy 12:00 · Nhà nguyện — Lễ cưới theo phong cách Thiên Chúa giáo
 
-*Chapel kiểu Tây, ghế gỗ + mái vòm + cửa sổ kính màu. ≈80 khách ngồi 2 hàng ghế dài. Tiếng đàn organ. Dũng ngồi hàng 5 bên phải. Lễ theo phong cách Thiên Chúa giáo 30 phút (phổ biến ở Nhật dù không theo đạo).*
+*Nhà nguyện kiểu Tây, ghế gỗ + mái vòm + cửa sổ kính màu. ≈80 khách ngồi 2 hàng ghế dài. Tiếng đàn organ. Dũng ngồi hàng 5 bên phải. Lễ theo phong cách Thiên Chúa giáo 30 phút (phổ biến ở Nhật dù không theo đạo).*
 
-*[Tiếng đàn organ vang lên. Cửa chapel mở. Tanaka đứng trước bàn thờ, suit đen trang trọng + cravat trắng. Mặt hồi hộp. Bố Tanaka đứng cạnh.]*
+*[Tiếng đàn organ vang lên. Cửa nhà nguyện mở. Tanaka đứng trước bàn thờ, suit đen trang trọng + cravat trắng. Mặt hồi hộp. Bố Tanaka đứng cạnh.]*
 
-*[Cửa cuối chapel mở — cô dâu trong váy cưới trắng dài, khăn che mặt, cầm bó hoa hồng trắng. Bố cô dâu khoác tay, dẫn từ cửa lên bàn thờ. Nhạc 'Wedding March'.]*
+*[Cửa cuối nhà nguyện mở — cô dâu trong váy cưới trắng dài, khăn che mặt, cầm bó hoa hồng trắng. Bố cô dâu khoác tay, dẫn từ cửa lên bàn thờ. Nhạc 'Wedding March' (Hành khúc đám cưới).]*
 
 *[Khách đứng dậy. Dũng đứng theo. Quan sát — cô dâu đẹp, mắt đỏ. Tanaka quay lại nhìn — cười rộng, lần đầu tiên Dũng thấy Tanaka cười kiểu đó.]*
 
@@ -120,15 +120,15 @@ Chi tiết quy tắc goshugi:
 *[30 phút lễ kết thúc. Khách di chuyển sang sảnh tiệc.]*
 
 
-### 💡 Bí quyết — Lễ cưới Thiên Chúa giáo kiểu Nhật — quan sát + theo mọi người
+### Bí quyết — Lễ cưới Thiên Chúa giáo kiểu Nhật — quan sát + theo mọi người
 
 Đám cưới Nhật hiện đại 70% theo phong cách Thiên Chúa giáo (không phải vì theo đạo, mà vì thẩm mỹ). Khách lần đầu:
-- ✅ **Đến đúng giờ** — chapel đóng cửa 5 phút trước khi bắt đầu.
-- ✅ **Ngồi hàng 4-7** — gần đủ thấy nhưng không ngồi đầu (dành cho gia đình).
-- ✅ **Theo mọi người** — đứng/ngồi theo. Không hát thánh ca nếu không biết.
-- ✅ **Tung cánh hoa khi ra** — cầm nhúm nhỏ, tung nhẹ về hướng cô dâu chú rể.
-- ✅ **Nhìn mắt + gật đầu** khi cô dâu chú rể đi qua — vậy là đủ.
-- ❌ **Không chụp ảnh** trong lễ (đã thuê nhiếp ảnh gia chuyên nghiệp). Trong tiệc chụp thoải mái.
+- **Đến đúng giờ** — nhà nguyện đóng cửa 5 phút trước khi bắt đầu.
+- **Ngồi hàng 4-7** — gần đủ thấy nhưng không ngồi đầu (dành cho gia đình).
+- **Theo mọi người** — đứng/ngồi theo. Không hát thánh ca nếu không biết.
+- **Tung cánh hoa khi ra** — cầm nhúm nhỏ, tung nhẹ về hướng cô dâu chú rể.
+- **Nhìn mắt + gật đầu** khi cô dâu chú rể đi qua — vậy là đủ.
+- **Không chụp ảnh** trong lễ (đã thuê nhiếp ảnh gia chuyên nghiệp). Trong tiệc chụp thoải mái.
 
 
 ---
@@ -165,16 +165,16 @@ Chi tiết quy tắc goshugi:
 *[Bố Tanaka khóc. Tanaka khóc. Yumi khóc. Nhiều khách lau nước mắt. Dũng cũng cay mắt — không phải vì hiểu hết tiếng Nhật, mà vì cảm xúc mang tính phổ quát.]*
 
 
-### 💡 Bí quyết — Phát biểu đám cưới — cảm xúc dâng, khóc theo là được
+### Bí quyết — Phát biểu đám cưới — cảm xúc dâng, khóc theo là được
 
 Đám cưới Nhật có 3-5 lời phát biểu dài 5-10 phút, nhiều đợt cảm xúc dâng:
-- ✅ **Phát biểu của sếp** mở màn trang trọng — lắng nghe chú tâm.
-- ✅ **Phát biểu của bố mẹ** thường khóc — khách khóc theo OK, không cần che giấu.
-- ✅ **Phát biểu của bạn bè** thường hài + xúc động — cười khi phù hợp.
-- ✅ **Bị nhắc tên** = vinh dự bất ngờ. Đỏ mặt + cúi đầu = đẹp.
-- ✅ Lau nước mắt bằng khăn tay (mang theo) — không dùng khăn ăn bàn.
-- ❌ **Không** xem điện thoại trong phát biểu.
-- ❌ **Không** chen ngang phát biểu bằng câu của mình.
+- **Phát biểu của sếp** mở màn trang trọng — lắng nghe chú tâm.
+- **Phát biểu của bố mẹ** thường khóc — khách khóc theo OK, không cần che giấu.
+- **Phát biểu của bạn bè** thường hài + xúc động — cười khi phù hợp.
+- **Bị nhắc tên** = vinh dự bất ngờ. Đỏ mặt + cúi đầu = đẹp.
+- Lau nước mắt bằng khăn tay (mang theo) — không dùng khăn ăn bàn.
+- **Không** xem điện thoại trong phát biểu.
+- **Không** chen ngang phát biểu bằng câu của mình.
 - Phát biểu bố Tanaka về Tanaka hồi nhỏ = cánh cửa vào con người thật của Tanaka — thêm bối cảnh quý giá cho Dũng.
 
 
@@ -204,15 +204,15 @@ Chi tiết quy tắc goshugi:
 | **ズン** | 「ぜひ<ruby>来<rt>き</rt></ruby>てください、Tanaka さんとも<ruby>一緒<rt>いっしょ</rt></ruby>に。」<br/>*Mời các anh chị qua, cùng với anh Tanaka.* |
 
 
-### 💡 Bí quyết — Tự giới thiệu tại bàn không quen — làm cầu nối
+### Bí quyết — Tự giới thiệu tại bàn không quen — làm cầu nối
 
 Bàn tròn đám cưới = 8 người không quen. Cách tiếp cận của người mới:
-- ✅ **Tự giới thiệu 30 giây**: tên + mối quan hệ với cô dâu chú rể + 1 câu cảm xúc về đám cưới.
-- ✅ **Khi được hỏi** ('Việt Nam à?') = cơ hội kể chuyện. Không giải thích dài dòng — 1 chi tiết nhỏ + mời đối phương kể lại.
-- ✅ **Trao đổi văn hóa** ('đám cưới VN 1000 người') = chất keo gắn kết. Một số khách sẽ nhớ 'anh người Việt trong đám cưới Tanaka'.
-- ✅ **Mời ngược lại** ('mời các anh chị qua VN') = thái độ chủ nhà rộng lượng.
-- ❌ **Không** chiếm hết lượt nói — chia sẻ lượt. 30% nói + 70% nghe.
-- ❌ **Không** chào hàng công việc — đám cưới không phải buổi kết nối kinh doanh.
+- **Tự giới thiệu 30 giây**: tên + mối quan hệ với cô dâu chú rể + 1 câu cảm xúc về đám cưới.
+- **Khi được hỏi** ('Việt Nam à?') = cơ hội kể chuyện. Không giải thích dài dòng — 1 chi tiết nhỏ + mời đối phương kể lại.
+- **Trao đổi văn hóa** ('đám cưới VN 1000 người') = chất keo gắn kết. Một số khách sẽ nhớ 'anh người Việt trong đám cưới Tanaka'.
+- **Mời ngược lại** ('mời các anh chị qua VN') = thái độ chủ nhà rộng lượng.
+- **Không** chiếm hết lượt nói — chia sẻ lượt. 30% nói + 70% nghe.
+- **Không** chào hàng công việc — đám cưới không phải buổi kết nối kinh doanh.
 
 
 ---
@@ -253,14 +253,14 @@ Bàn tròn đám cưới = 8 người không quen. Cách tiếp cận của ngư
 | **ズン** | 「ぜひ honeymoon でも、<ruby>後<rt>あと</rt></ruby>でも。HCMC tour <ruby>案内<rt>あんない</rt></ruby>します。」<br/>*Mời em, honeymoon hoặc sau cũng được. Em sẽ dẫn tour HCMC.* |
 
 
-### 💡 Bí quyết — Gặp cô dâu chú rể lúc chụp ảnh — khoảnh khắc ngắn
+### Bí quyết — Gặp cô dâu chú rể lúc chụp ảnh — khoảnh khắc ngắn
 
 Chụp ảnh cùng cô dâu chú rể tại bàn = khoảnh khắc ngắn 1-2 phút:
-- ✅ **Cảm ơn được mời** + **chúc mừng** ngắn gọn.
-- ✅ **Khen đôi bên cho nhau** — Dũng nói 'Tanaka may mắn' = hiệu quả.
-- ✅ **Nhắc kỷ niệm nhỏ chung** — Yumi nhắc 'cà phê Việt Nam' = bằng chứng Tanaka kể về Dũng ở nhà.
-- ✅ **Mời ngược lại** ('mời qua VN') = mở quan hệ tương lai.
-- ✅ **Cười tự nhiên cho ảnh** — không chữ V / không quá đà.
+- **Cảm ơn được mời** + **chúc mừng** ngắn gọn.
+- **Khen đôi bên cho nhau** — Dũng nói 'Tanaka may mắn' = hiệu quả.
+- **Nhắc kỷ niệm nhỏ chung** — Yumi nhắc 'cà phê Việt Nam' = bằng chứng Tanaka kể về Dũng ở nhà.
+- **Mời ngược lại** ('mời qua VN') = mở quan hệ tương lai.
+- **Cười tự nhiên cho ảnh** — không chữ V / không quá đà.
 - Sau đám cưới: gửi ảnh qua Slack/AirDrop cho Tanaka + Yumi trong 24 tiếng.
 
 
@@ -291,15 +291,15 @@ Chụp ảnh cùng cô dâu chú rể tại bàn = khoảnh khắc ngắn 1-2 ph
 | **同席ゲストC** | 「それで<ruby>十分<rt>じゅうぶん</rt></ruby>。<ruby>良<rt>よ</rt></ruby>いスピーチだった。」<br/>*Vậy là đủ. Speech hay.* |
 
 
-### 💡 Bí quyết — Phát biểu phương ngữ — cười đúng lúc
+### Bí quyết — Phát biểu phương ngữ — cười đúng lúc
 
 Phát biểu bạn bè đám cưới thường có tiếng lóng Kansai-ben / Hakata-ben. Người mới không hiểu hết:
-- ✅ **Quan sát cả phòng** — cười khi mọi người cười.
-- ✅ **Bắt từ khóa** — 1-2 từ + sắc thái đủ để biết hướng câu đùa.
-- ✅ **Thành thật sau đó** ('hiểu nửa thôi') — khách cùng bàn sẽ giải thích.
-- ✅ **Phát biểu bạn bè đám cưới thường có thông điệp** mang tính phổ quát — nội dung cuối luôn xoay quanh 'tình yêu / tình bạn / chúc mừng' = nắm được cốt lõi.
-- ❌ **Không** ngồi mặt thờ ơ — trông thất lễ.
-- ❌ **Không** nhờ người cùng bàn dịch trực tiếp — làm mất tập trung khi đang phát biểu.
+- **Quan sát cả phòng** — cười khi mọi người cười.
+- **Bắt từ khóa** — 1-2 từ + sắc thái đủ để biết hướng câu đùa.
+- **Thành thật sau đó** ('hiểu nửa thôi') — khách cùng bàn sẽ giải thích.
+- **Phát biểu bạn bè đám cưới thường có thông điệp** mang tính phổ quát — nội dung cuối luôn xoay quanh 'tình yêu / tình bạn / chúc mừng' = nắm được cốt lõi.
+- **Không** ngồi mặt thờ ơ — trông thất lễ.
+- **Không** nhờ người cùng bàn dịch trực tiếp — làm mất tập trung khi đang phát biểu.
 
 
 ---
@@ -320,7 +320,7 @@ Phát biểu bạn bè đám cưới thường có tiếng lóng Kansai-ben / Ha
 | **大垣 営業部長** | 「(うなずく)<ruby>結婚式<rt>けっこんしき</rt></ruby>は、<ruby>本人<rt>ほんにん</rt></ruby>たちの<ruby>祝<rt>いわ</rt></ruby>いだけじゃなくて、<ruby>家族<rt>かぞく</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>を<ruby>見<rt>み</rt></ruby>る<ruby>場所<rt>ばしょ</rt></ruby>。<ruby>海外<rt>かいがい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>にとってはショック<ruby>深<rt>ふか</rt></ruby>いと<ruby>思<rt>おも</rt></ruby>う。」<br/>*(gật) Đám cưới không chỉ chúc mừng đôi bên mà là nơi nhìn lịch sử gia đình. Với người nước ngoài có lẽ gây ấn tượng sâu.* |
 | **松本PM** | 「ズンさんが<ruby>招待<rt>しょうたい</rt></ruby>されたこと、<ruby>田中<rt>たなか</rt></ruby>にとってどれだけ<ruby>意味<rt>いみ</rt></ruby>あるか<ruby>分<rt>わ</rt></ruby>かる?」<br/>*Việc Dũng được mời, với Tanaka có ý nghĩa thế nào em biết không?* |
 | **ズン** | 「(首を振る)分からないです、教えてください。」<br/>*(lắc đầu) Em không biết, anh nói em ạ.* |
-| **松本PM** | 「<ruby>田中<rt>たなか</rt></ruby>、<ruby>結婚式<rt>けっこんしき</rt></ruby>の<ruby>招待<rt>しょうたい</rt></ruby>リスト、80<ruby>人<rt>にん</rt></ruby>だけど、<ruby>半年前<rt>はんとしまえ</rt></ruby>から1<ruby>人<rt>り</rt></ruby>1<ruby>人<rt>り</rt></ruby><ruby>選<rt>えら</rt></ruby>んでた。<ruby>社外<rt>しゃがい</rt></ruby>で<ruby>呼<rt>よ</rt></ruby>んだの、ほぼ<ruby>家族<rt>かぞく</rt></ruby>か<ruby>親友<rt>しんゆう</rt></ruby>のみ。ベトナムから<ruby>君<rt>きみ</rt></ruby>だけ<ruby>呼<rt>よ</rt></ruby>んだのは、<ruby>本当<rt>ほんとう</rt></ruby>に『<ruby>家族<rt>かぞく</rt></ruby>の<ruby>一員<rt>いちいん</rt></ruby>』として<ruby>認<rt>みと</rt></ruby>めてるってこと。」<br/>*Tanaka đó, danh sách 80 khách wedding cậu ấy chọn từng người trong 6 tháng. Mời ngoài công ty hầu như chỉ gia đình hoặc bạn thân. Mời mỗi mình em từ Việt Nam vì thực sự coi em là 'thành viên gia đình'.* |
+| **松本PM** | 「<ruby>田中<rt>たなか</rt></ruby>、<ruby>結婚式<rt>けっこんしき</rt></ruby>の<ruby>招待<rt>しょうたい</rt></ruby>リスト、80<ruby>人<rt>にん</rt></ruby>だけど、<ruby>半年前<rt>はんとしまえ</rt></ruby>から1<ruby>人<rt>り</rt></ruby>1<ruby>人<rt>り</rt></ruby><ruby>選<rt>えら</rt></ruby>んでた。<ruby>社外<rt>しゃがい</rt></ruby>で<ruby>呼<rt>よ</rt></ruby>んだの、ほぼ<ruby>家族<rt>かぞく</rt></ruby>か<ruby>親友<rt>しんゆう</rt></ruby>のみ。ベトナムから<ruby>君<rt>きみ</rt></ruby>だけ<ruby>呼<rt>よ</rt></ruby>んだのは、<ruby>本当<rt>ほんとう</rt></ruby>に『<ruby>家族<rt>かぞく</rt></ruby>の<ruby>一員<rt>いちいん</rt></ruby>』として<ruby>認<rt>みと</rt></ruby>めてるってこと。」<br/>*Tanaka đó, danh sách 80 khách dự cưới cậu ấy chọn từng người trong 6 tháng. Mời ngoài công ty hầu như chỉ gia đình hoặc bạn thân. Mời mỗi mình em từ Việt Nam vì thực sự coi em là 'thành viên gia đình'.* |
 
 *[Dũng nín lặng. Mắt cay. Không tìm được câu trả lại.]*
 
@@ -331,13 +331,13 @@ Phát biểu bạn bè đám cưới thường có tiếng lóng Kansai-ben / Ha
 | **松本PM** | 「(<ruby>時計<rt>とけい</rt></ruby>)あ、<ruby>後半<rt>こうはん</rt></ruby><ruby>始<rt>はじ</rt></ruby>まる。<ruby>戻<rt>もど</rt></ruby>ろう。」<br/>*(xem đồng hồ) À, hiệp 2 bắt đầu. Quay lại.* |
 
 
-### 💡 Bí quyết — Giải lao = cơ hội nói chuyện thật
+### Bí quyết — Giải lao = cơ hội nói chuyện thật
 
 Giải lao giữa đám cưới = đàn anh hay mở lòng nói chuyện thật:
-- ✅ **Chia sẻ cảm xúc thật** ('khóc, nhớ gia đình') — không giả vờ bình thản.
-- ✅ **Ōgaki + Matsumoto làm rõ ý nghĩa** — không phải Tanaka mời cho xong, mà là cố ý đưa vào 'trong gia đình'. Người trẻ cần được nghe nói thẳng.
-- ✅ **Đón nhận cảm xúc một cách đường hoàng** — tay run, mắt cay = tự nhiên và được chấp nhận.
-- ✅ **Kết lại nhanh** — 'cảm ơn các anh' là đủ. Không kéo dài giải lao.
+- **Chia sẻ cảm xúc thật** ('khóc, nhớ gia đình') — không giả vờ bình thản.
+- **Ōgaki + Matsumoto làm rõ ý nghĩa** — không phải Tanaka mời cho xong, mà là cố ý đưa vào 'trong gia đình'. Người trẻ cần được nghe nói thẳng.
+- **Đón nhận cảm xúc một cách đường hoàng** — tay run, mắt cay = tự nhiên và được chấp nhận.
+- **Kết lại nhanh** — 'cảm ơn các anh' là đủ. Không kéo dài giải lao.
 - Đây là khoảnh khắc bắc cầu văn hóa — Matsumoto + Ōgaki đóng vai 'người dẫn dắt' giúp Dũng hiểu ý nghĩa sâu của phía Nhật.
 
 
@@ -366,12 +366,12 @@ Giải lao giữa đám cưới = đàn anh hay mở lòng nói chuyện thật:
 *[Tung hoa cưới kết thúc. Khách trở vào sảnh tiệc cho phần phát biểu bế mạc.]*
 
 
-### 💡 Bí quyết — Tung hoa cưới — khách nước ngoài chỉ đứng xem
+### Bí quyết — Tung hoa cưới — khách nước ngoài chỉ đứng xem
 
 Tung hoa cưới = nghi lễ nội bộ của Nhật:
-- ✅ **Nam không tham gia** — chỉ dành cho phụ nữ chưa kết hôn.
-- ✅ **Khách nước ngoài** thường đứng xem — không bị kỳ vọng tham gia.
-- ✅ **Đứng góc xa**, chụp ảnh / quay video, vỗ tay.
+- **Nam không tham gia** — chỉ dành cho phụ nữ chưa kết hôn.
+- **Khách nước ngoài** thường đứng xem — không bị kỳ vọng tham gia.
+- **Đứng góc xa**, chụp ảnh / quay video, vỗ tay.
 - Cơ hội trò chuyện nhỏ với khách bàn — 'em kết hôn khi nào?' = chủ đề mở tự nhiên.
 - Kể kế hoạch riêng (Tết Việt Nam) = trao đổi văn hóa nhỏ thú vị.
 
@@ -401,15 +401,15 @@ Tung hoa cưới = nghi lễ nội bộ của Nhật:
 | **田中PMO** | 「(ハグの<ruby>素振<rt>そぶ</rt></ruby>り、でも<ruby>控<rt>ひか</rt></ruby>えめ)ズンさん、<ruby>二次会<rt>にじかい</rt></ruby>で<ruby>会<rt>あ</rt></ruby>おう。19<ruby>時<rt>じ</rt></ruby>、<ruby>銀座<rt>ぎんざ</rt></ruby>の Pub。」<br/>*(motion ôm nhưng nhẹ) Dũng, gặp ở tăng 2. 19h, pub Ginza.* |
 
 
-### 💡 Bí quyết — Hikidemono = quà cảm ơn, ≈2kg
+### Bí quyết — Hikidemono = quà cảm ơn, ≈2kg
 
 Hikidemono (引出物) = quà cảm ơn cô dâu chú rể trao cuối đám cưới:
 - Thường gồm: phiếu quà catalog (chọn online sau) + hộp bánh kẹo + 1 món mang ý nghĩa (đũa, khăn).
 - Trọng lượng 1.5-3kg, túi giấy đẹp.
-- ✅ **Nhận 2 tay + cảm ơn**.
-- ✅ **Không mở** tại địa điểm đám cưới — mang về nhà.
-- ✅ **Khách nước ngoài**: lên kế hoạch chỗ hành lý xách tay / ký gửi trước. Phiếu quà catalog = giấy nhẹ, mang được. Bánh kẹo nặng → ký gửi nếu vượt xách tay.
-- ✅ **Phiếu quà catalog**: chọn online trong 30 ngày. Một số catalog giao hàng miễn phí về VN.
+- **Nhận 2 tay + cảm ơn**.
+- **Không mở** tại địa điểm đám cưới — mang về nhà.
+- **Khách nước ngoài**: lên kế hoạch chỗ hành lý xách tay / ký gửi trước. Phiếu quà catalog = giấy nhẹ, mang được. Bánh kẹo nặng → ký gửi nếu vượt xách tay.
+- **Phiếu quà catalog**: chọn online trong 30 ngày. Một số catalog giao hàng miễn phí về VN.
 
 
 ---
@@ -450,20 +450,20 @@ Hikidemono (引出物) = quà cảm ơn cô dâu chú rể trao cuối đám cư
 | **ズン** | 「(<ruby>感動<rt>かんどう</rt></ruby>)もちろんです、<ruby>是非<rt>ぜひ</rt></ruby>。<ruby>両親<rt>りょうしん</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>えます、すごく<ruby>喜<rt>よろこ</rt></ruby>ぶと<ruby>思<rt>おも</rt></ruby>います。」<br/>*(xúc động) Đương nhiên ạ, em rất mong. Em sẽ báo bố mẹ, em nghĩ ông bà vui lắm.* |
 
 
-### 💡 Bí quyết — Tăng 2 sau đám cưới — kể chuyện gia đình mình
+### Bí quyết — Tăng 2 sau đám cưới — kể chuyện gia đình mình
 
 Tăng 2 sau đám cưới = quan hệ đã sang tầng 'quen biết như gia đình':
-- ✅ **Đàn anh hỏi về gia đình bạn** = tín hiệu quan tâm thật sự, không phải xã giao.
-- ✅ **Kể chi tiết gia đình cụ thể** — bố thú vui thư pháp, mẹ dậy 5h, em gái IT — cá nhân hơn câu 'gia đình em ổn'.
-- ✅ **Kể chuyện dễ bị tổn thương** — đám cưới bố mẹ thập niên 80 = cánh cửa vào lịch sử cá nhân, làm sâu thêm quan hệ.
-- ✅ **Tanaka mời gặp bố mẹ** = cuối chương quan hệ sang tầng 'sẽ vào nhà nhau'. Khoảnh khắc định hình sự nghiệp.
-- ✅ **Mời ngược lại** — Dũng hứa báo bố mẹ + chào đón.
+- **Đàn anh hỏi về gia đình bạn** = tín hiệu quan tâm thật sự, không phải xã giao.
+- **Kể chi tiết gia đình cụ thể** — bố thú vui thư pháp, mẹ dậy 5h, em gái IT — cá nhân hơn câu 'gia đình em ổn'.
+- **Kể chuyện dễ bị tổn thương** — đám cưới bố mẹ thập niên 80 = cánh cửa vào lịch sử cá nhân, làm sâu thêm quan hệ.
+- **Tanaka mời gặp bố mẹ** = cuối chương quan hệ sang tầng 'sẽ vào nhà nhau'. Khoảnh khắc định hình sự nghiệp.
+- **Mời ngược lại** — Dũng hứa báo bố mẹ + chào đón.
 - Tăng 2 ngắn (1 tiếng) sau đám cưới = lý tưởng — không kéo dài cho chú rể mới.
 
 
 ---
 
-## 🌅 Tổng kết của Dũng — ghi chú vào bộ nhớ
+## Tổng kết của Dũng — ghi chú vào bộ nhớ
 
 *Sáng Chủ Nhật trên máy bay JAL về HCMC, ghế cửa sổ. Dũng mở ứng dụng Notes — ghi chú cuối Sách 09.*
 
@@ -517,5 +517,5 @@ Hết Sách 09 Chương 8 — em viết ghi chú cuối. Máy bay sắp hạ HCM
 
 ---
 
-> **Hizashi Sách 09 — Chương 08 — 同僚の結婚式に招かれて**  
+> **Hizashi Sách 09 — Chương 08 — 同僚の結婚式に招かれて**
 > *Tiệc cưới đồng nghiệp Nhật.*

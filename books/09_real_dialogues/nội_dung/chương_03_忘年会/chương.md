@@ -6,7 +6,7 @@
 
 ---
 
-## 💡 Bí quyết tổng
+## Bí quyết tổng
 
 - Bonenkai = '忘年' nghĩa là 'quên đi 1 năm'. Không phải dịp để chào hàng — dịp thư giãn + thắt chặt nhân sự.
 - Thứ tự chỗ ngồi theo cấp bậc: kamiza (xa cửa) cho khách + người lớn hơn, shimoza (gần cửa) cho chủ nhà + người ít tuổi hơn.
@@ -31,7 +31,7 @@
 | **フオン副部長** | 「OK, vào đi. Linh nhớ cởi áo khoác treo cửa nhé.」<br/>*OK, vào đi. Linh nhớ cởi áo khoác treo cửa nhé.* |
 
 
-### 💡 Bí quyết — Dặn dò người mới trước bonenkai
+### Bí quyết — Dặn dò người mới trước bonenkai
 
 Người lần đầu dự bonenkai = lo lắng cao. Người có kinh nghiệm dặn trước (3 phút trước cửa):
 - 3 quy tắc cốt lõi: kanpai chờ cụng / không tự rót / ăn chậm.
@@ -64,7 +64,7 @@ Người lần đầu dự bonenkai = lo lắng cao. Người có kinh nghiệm 
 *[Mọi người ngồi xong. Linh ngồi giữa Yamamoto + Hương — vị trí an toàn, có 2 người Việt + 1 chị tốt Yamamoto. Hải ngồi cạnh Tuấn + Tanaka. Dũng ngồi shimoza nhất, gần cửa, ngay bên Matsumoto.]*
 
 
-### 💡 Bí quyết — Seniority chỗ ngồi izakaya
+### Bí quyết — Seniority chỗ ngồi izakaya
 
 **Kamiza (上座)** = chỗ xa cửa nhất, dành người cấp cao nhất / khách quý.
 **Shimoza (下座)** = chỗ gần cửa, dành người ít cấp hơn / bên chủ nhà.
@@ -72,7 +72,7 @@ Người lần đầu dự bonenkai = lo lắng cao. Người có kinh nghiệm 
 Quy tắc:
 - Khách nước ngoài thường được mời kamiza dù ít tuổi hơn — bên JP coi là 'khách đặc biệt'.
 - Tuấn + Dũng tự chọn shimoza = khéo léo, ngầm báo hiệu 'tôi ở đây để tiếp đón'.
-- Yamamoto kéo Linh ngồi cạnh = Yamamoto chủ động bảo vệ Linh = good colleague.
+- Yamamoto kéo Linh ngồi cạnh = Yamamoto chủ động bảo vệ Linh = đồng nghiệp tốt.
 
 
 ---
@@ -96,13 +96,13 @@ Quy tắc:
 *[Đồ uống ra trong 2 phút. Mọi người cầm ly. Chờ Nakamura speech.]*
 
 
-### 💡 Bí quyết — Từ chối bia ở bonenkai = OK
+### Bí quyết — Từ chối bia ở bonenkai = OK
 
 JP modern (2020s+) — **không ép uống** đã thành phổ biến. Người mới từ chối bia:
-- ✅ **Nói rõ đồ uống thay thế**: 'ウーロン茶でお願いします' / 'ソフトドリンクで'.
-- ✅ **Không cần xin lỗi** — chỉ cần nói rõ muốn uống gì khác.
+- **Nói rõ đồ uống thay thế**: 'ウーロン茶でお願いします' / 'ソフトドリンクで'.
+- **Không cần xin lỗi** — chỉ cần nói rõ muốn uống gì khác.
 - Người có kinh nghiệm tốt (như Yamamoto) **chủ động phát hiện** + đỡ cho người mới — nhận ra khi người mới đang do dự.
-- ❌ **Tránh** câu '私はお酒飲めません' tuyệt đối — nghe quá cứng nhắc. Câu 'ビール苦手で…' nhẹ hơn.
+- **Tránh** câu '私はお酒飲めません' tuyệt đối — nghe quá cứng nhắc. Câu 'ビール苦手で…' nhẹ hơn.
 
 
 ---
@@ -128,7 +128,7 @@ JP modern (2020s+) — **không ép uống** đã thành phổ biến. Người 
 | **フオン副部長** | 「(ベトナム語、<ruby>小声<rt>こごえ</rt></ruby>)Hồi nãy chị run muốn chết, em yên tâm.」<br/>*(tiếng Việt, nhỏ giọng) Hồi nãy chị run muốn chết, em yên tâm.* |
 
 
-### 💡 Bí quyết — Phát biểu khai mạc + đáp từ
+### Bí quyết — Phát biểu khai mạc + đáp từ
 
 Bonenkai chuẩn:
 1. Người cấp cao nhất bên chủ nhà (Nakamura) phát biểu khai mạc 1-2 phút.
@@ -136,10 +136,10 @@ Bonenkai chuẩn:
 3. Kanpai đồng thanh.
 
 Gợi ý lời đáp:
-- ✅ Cảm ơn cụ thể (Phase 4).
-- ✅ Cam kết tương lai (Phase 5).
-- ✅ Chuyển sang 'tận hưởng tối nay' để mọi người thư giãn.
-- ❌ Đừng quá dài (>1 phút) — giữ đà buổi tiệc.
+- Cảm ơn cụ thể (Phase 4).
+- Cam kết tương lai (Phase 5).
+- Chuyển sang 'tận hưởng tối nay' để mọi người thư giãn.
+- Đừng quá dài (>1 phút) — giữ đà buổi tiệc.
 - Tay cầm ly khi phát biểu.
 
 
@@ -167,14 +167,14 @@ Gợi ý lời đáp:
 | **ズン** | 「本当に。後で田中さんに<ruby>お礼<rt>おれい</rt></ruby>言います。」<br/>*Đúng vậy ạ. Lát em cảm ơn anh Tanaka.* |
 
 
-### 💡 Bí quyết — Người mới ăn nhanh — người có kinh nghiệm cứu
+### Bí quyết — Người mới ăn nhanh — người có kinh nghiệm cứu
 
 Người mới đói + lo lắng → ăn nhanh là phản xạ tự nhiên. Cách xử lý:
 - **Ngay lúc đó**: Người có kinh nghiệm cùng cty nhắc nhẹ tay (như Tuấn) — không la lớn.
 - **Sau đó**: Cảm ơn khách JP đã đỡ mặt cho mình (Tanaka).
 - **Bài học cho người mới**: Ăn 1 miếng → đặt đũa xuống → uống 1 ngụm → nói 1 câu → mới gắp tiếp. Cố tình ăn chậm.
-- ✅ **Đợi khách JP gắp trước** với món chung mới ra (đĩa sashimi, otsukuri).
-- ❌ Không gắp món cuối cùng còn lại trên đĩa — luôn để 1 miếng (enryo no katamari).
+- **Đợi khách JP gắp trước** với món chung mới ra (đĩa sashimi, otsukuri).
+- Không gắp món cuối cùng còn lại trên đĩa — luôn để 1 miếng (enryo no katamari).
 
 
 ---
@@ -204,13 +204,13 @@ Người mới đói + lo lắng → ăn nhanh là phản xạ tự nhiên. Các
 | **ズン** | 「本当ですか?<ruby>光栄<rt>こうえい</rt></ruby>です、ぜひ<ruby>伺<rt>うかが</rt></ruby>います。」<br/>*Thật ạ? Vinh dự lắm, em chắc chắn sẽ qua.* |
 
 
-### 💡 Bí quyết — Người 60t mời 1 ly = chấp nhận
+### Bí quyết — Người 60t mời 1 ly = chấp nhận
 
 Sách 08 đã dạy. Nhắc lại ở đây:
-- ✅ Người 60t (như Sato) mời ly là **cử chỉ rõ rệt** — không phải chuyện xã giao. Đi lại ngồi cạnh = thể hiện tôn trọng.
-- ✅ Nhận ly 2 tay, kanpai, uống 1 ngụm, nhận xét 1 câu về vị (Dũng nói 'mềm hơn rượu gạo').
-- ✅ Người lớn tuổi hơn thường kể chuyện kèm ly — lắng nghe chăm chú, hỏi thêm 1 câu (Sato kể về Fukuoka shochu → Dũng hỏi tiếp về Tết).
-- ✅ Khi người lớn tuổi hơn mời 'lần sau sang quê tôi' = lời mời thật, không xã giao. Ghi vào sổ nhớ.
+- Người 60t (như Sato) mời ly là **cử chỉ rõ rệt** — không phải chuyện xã giao. Đi lại ngồi cạnh = thể hiện tôn trọng.
+- Nhận ly 2 tay, kanpai, uống 1 ngụm, nhận xét 1 câu về vị (Dũng nói 'mềm hơn rượu gạo').
+- Người lớn tuổi hơn thường kể chuyện kèm ly — lắng nghe chăm chú, hỏi thêm 1 câu (Sato kể về Fukuoka shochu → Dũng hỏi tiếp về Tết).
+- Khi người lớn tuổi hơn mời 'lần sau sang quê tôi' = lời mời thật, không xã giao. Ghi vào sổ nhớ.
 
 
 ---
@@ -240,13 +240,13 @@ Sách 08 đã dạy. Nhắc lại ở đây:
 *[Linh đã vượt qua thử thách đầu tiên — chuyển từ lo lắng sang tự tin nhập cuộc. Dũng + Hương nhìn nhau, gật đầu.]*
 
 
-### 💡 Bí quyết — Kéo người mới vào hội thoại
+### Bí quyết — Kéo người mới vào hội thoại
 
 Người mới lo lắng = thường im. Người có kinh nghiệm cùng cty có nhiệm vụ **kéo người mới vào chuyện** với cách:
-- ✅ **Chọn chủ đề người mới dễ tham gia** (ảnh con khách, anime, sở thích thường gặp).
-- ✅ **Đặt câu hỏi sẵn** thay vì để người mới tự nghĩ ('em đã xem ảnh chưa?' — Linh chỉ cần đáp lại).
-- ✅ Khi người mới đã bắt đầu vào chuyện → **lùi ra**, để họ tự dẫn.
-- ✅ Nhắc lại chi tiết cũ (nhãn dán IT Week → ảnh hôm nay) = khách Nhật cảm động vì 'mình nhớ'.
+- **Chọn chủ đề người mới dễ tham gia** (ảnh con khách, anime, sở thích thường gặp).
+- **Đặt câu hỏi sẵn** thay vì để người mới tự nghĩ ('em đã xem ảnh chưa?' — Linh chỉ cần đáp lại).
+- Khi người mới đã bắt đầu vào chuyện → **lùi ra**, để họ tự dẫn.
+- Nhắc lại chi tiết cũ (nhãn dán IT Week → ảnh hôm nay) = khách Nhật cảm động vì 'mình nhớ'.
 - Linh biết Gundam = điểm cộng, không phải yêu cầu — nhưng thắng lớn.
 
 
@@ -270,14 +270,14 @@ Người mới lo lắng = thường im. Người có kinh nghiệm cùng cty c�
 | **山本マネージャー** | 「へえ、<ruby>面白<rt>おもしろ</rt></ruby>い!じゃあ Phase 5 でハノイ行ったら、ハノイ弁<ruby>覚<rt>おぼ</rt></ruby>えるわ!」<br/>*Hửm, thú vị! Vậy Phase 5 sang Hà Nội tôi học tiếng Hà Nội luôn!* |
 
 
-### 💡 Bí quyết — Đùa bằng phương ngữ — không hiểu thì sao?
+### Bí quyết — Đùa bằng phương ngữ — không hiểu thì sao?
 
 Kansai-ben / Hakata-ben / Hokkaido-ben có thể khó cho người N3-N2:
-- ✅ **Cười theo nhịp** — quan sát phòng, cười khi mọi người cười.
-- ✅ **Người cùng cty ghé tai dịch nhanh** (Hải làm với Linh) — không làm gián đoạn mạch chuyện.
-- ✅ **Thành thật hỏi sau** nếu thân: 'すみません、関西弁初めてで…'.
-- ✅ Khen chính phương ngữ ('響きが面白い') = khách Kansai vui vì tự hào về quê.
-- ❌ Không giả vờ hiểu rồi cười sai nhịp — lộ ra khó coi hơn.
+- **Cười theo nhịp** — quan sát phòng, cười khi mọi người cười.
+- **Người cùng cty ghé tai dịch nhanh** (Hải làm với Linh) — không làm gián đoạn mạch chuyện.
+- **Thành thật hỏi sau** nếu thân: 'すみません、関西弁初めてで…'.
+- Khen chính phương ngữ ('響きが面白い') = khách Kansai vui vì tự hào về quê.
+- Không giả vờ hiểu rồi cười sai nhịp — lộ ra khó coi hơn.
 
 
 ---
@@ -304,17 +304,17 @@ Kansai-ben / Hakata-ben / Hokkaido-ben có thể khó cho người N3-N2:
 *[Tuấn cụng ly nhẹ với Ōgaki. Sau đó Tuấn rút sổ tay nhỏ trong túi, ghi 3 dòng: 'Phase 5 / 1.5x resource / AI governance'. Cất.]*
 
 
-### 💡 Bí quyết — Khách gợi ý chuyện kinh doanh ở bonenkai
+### Bí quyết — Khách gợi ý chuyện kinh doanh ở bonenkai
 
 Khách cấp cao (như Ōgaki) đôi khi gợi ý chuyện kinh doanh ở bonenkai vì:
 - Thử phản ứng trong môi trường thoải mái.
 - Đã uống → dễ mở miệng hơn cuộc họp chính thức.
 - Cách phản hồi chuẩn:
-  - ✅ **Lắng nghe kỹ**, chỉnh tư thế nghiêm túc.
-  - ✅ **Dời sang cuộc họp chính thức** ('来週ちゃんと打ち合わせ設定') — không chào mời / cam kết ngay.
-  - ✅ **Ghi chú ngắn** (3 dòng trong sổ tay nhỏ) sau khi cuộc trò chuyện tạm dừng — không ghi khi khách đang nói.
-  - ❌ Không bắt đầu thương lượng giá / phạm vi tại bàn izakaya.
-  - ❌ Không giả vờ không nghe — mất lịch sự.
+  - **Lắng nghe kỹ**, chỉnh tư thế nghiêm túc.
+  - **Dời sang cuộc họp chính thức** ('来週ちゃんと打ち合わせ設定') — không chào mời / cam kết ngay.
+  - **Ghi chú ngắn** (3 dòng trong sổ tay nhỏ) sau khi cuộc trò chuyện tạm dừng — không ghi khi khách đang nói.
+  - Không bắt đầu thương lượng giá / phạm vi tại bàn izakaya.
+  - Không giả vờ không nghe — mất lịch sự.
 
 
 ---
@@ -338,7 +338,7 @@ Khách cấp cao (như Ōgaki) đôi khi gợi ý chuyện kinh doanh ở bonenk
 | **大垣 営業部長** | 「じゃあ、<ruby>二次会<rt>にじかい</rt></ruby><ruby>組<rt>ぐみ</rt></ruby>はカラオケへ。歩こか。」<br/>*Vậy nhóm tăng 2 đi karaoke. Đi nhé.* |
 
 
-### 💡 Bí quyết — Tăng 2 — ai đi ai về
+### Bí quyết — Tăng 2 — ai đi ai về
 
 Tăng 2 sau bonenkai = không bắt buộc. Quyết định:
 - **Người cấp cao nhất bên VN (Hương) quyết định** ai đi ai về — người ít kinh nghiệm không tự quyết.
@@ -378,7 +378,7 @@ Tăng 2 sau bonenkai = không bắt buộc. Quyết định:
 | **トゥアンリーダー** | 「(<ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>って)松本さん、ズン、こっちこっち、<ruby>入口<rt>いりぐち</rt></ruby>あった。」<br/>*(quay đầu) Anh Matsumoto, Dũng, đây đây, cửa vào đây.* |
 
 
-### 💡 Bí quyết — Khách gợi ý cơ hội sự nghiệp trên đường
+### Bí quyết — Khách gợi ý cơ hội sự nghiệp trên đường
 
 **Khoảnh khắc quan trọng nhất của bonenkai** thường xảy ra ở những lúc 'ngoài lề' — đi bộ giữa các địa điểm, đứng nghỉ hút thuốc, chờ taxi. Vì:
 - Người lớn tuổi hơn dễ thoải mái hơn khi ra ngoài bàn tiệc.
@@ -386,16 +386,16 @@ Tăng 2 sau bonenkai = không bắt buộc. Quyết định:
 - Thử phản ứng của người ít kinh nghiệm hơn trong môi trường không căng thẳng.
 
 Cách phản hồi:
-- ✅ **Cảm ơn rõ ràng** (đừng tỏ ra thờ ơ / bình thản quá mức).
-- ✅ **Chia sẻ cảm giác thật** ('正直、嬉しいです') — Matsumoto cần thấy phản ứng thật.
-- ✅ **Dời quyết định cụ thể** (gia đình + Hương) — không hứa ngay lập tức.
-- ✅ **Đáp lại cử chỉ vỗ vai bằng câu lịch sự** ('本当に光栄です').
-- ❌ Không từ chối ngay dù lo ('em không nghĩ em đủ trình' = khiêm tốn giả tạo, gây khó chịu).
+- **Cảm ơn rõ ràng** (đừng tỏ ra thờ ơ / bình thản quá mức).
+- **Chia sẻ cảm giác thật** ('正直、嬉しいです') — Matsumoto cần thấy phản ứng thật.
+- **Dời quyết định cụ thể** (gia đình + Hương) — không hứa ngay lập tức.
+- **Đáp lại cử chỉ vỗ vai bằng câu lịch sự** ('本当に光栄です').
+- Không từ chối ngay dù lo ('em không nghĩ em đủ trình' = khiêm tốn giả tạo, gây khó chịu).
 
 
 ---
 
-## 🌅 Tổng kết của Dũng — ghi vào sổ nhớ
+## Tổng kết của Dũng — ghi vào sổ nhớ
 
 *Sáng thứ 7 9:00, Dũng dậy với đầu hơi đau. Mở sổ nhớ trên iPhone trong khi pha cà phê.*
 
@@ -432,5 +432,5 @@ Việc cần làm:
 
 ---
 
-> **Hizashi Sách 09 — Chương 03 — 忘年会の夜**  
+> **Hizashi Sách 09 — Chương 03 — 忘年会の夜**
 > *Tiệc tất niên cuối năm 忘年会.*
