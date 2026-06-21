@@ -1,6 +1,6 @@
 ---
-id: 8001005
-curriculum_id: 8001
+id: 810000005
+curriculum_id: 800000001
 order_index: 5
 node_type: rule
 title: "Rule 05 — Tự hỏi \"Tôi muốn người đọc làm gì sau khi đọc?\""
@@ -12,12 +12,12 @@ language: vi
 # Rule 05 — Tự hỏi "Tôi muốn người đọc làm gì sau khi đọc?"
 > **Luận điểm.** Trước khi bấm Send, dừng 10 giây và tự trả lời một câu duy nhất: *"Sau khi đọc mail này, tôi muốn người đọc làm **chính xác** cái gì?"*. Nếu câu trả lời không phải một **động từ cụ thể** — *duyệt*, *chọn 1 trong 3*, *ký*, *gọi cho em Dũng trước 15h* — thì mail chưa sẵn sàng gửi.
 >
-> Từ khóa của rule này: **"CTA rõ"** (call-to-action rõ).
+> Từ khóa của rule này: **"yêu cầu hành động rõ"** (call-to-action).
 
 ## Bối cảnh
 Em Linh — thực tập sinh bên Marketing — viết mail đầu tiên gửi sếp chị Hương, đề xuất ý tưởng chiến dịch mạng xã hội cho Dự án Bình Minh.
 
-## Ví dụ XẤU — mail không có CTA
+## Ví dụ XẤU — mail không có yêu cầu hành động
 > Chị Hương ạ,
 >
 > Em là Linh, thực tập sinh bên Marketing. Em có ý tưởng về chiến dịch mạng xã hội cho Dự án Bình Minh. Em nghĩ là có thể làm theo 3 hướng: hướng A tập trung Facebook, hướng B dùng TikTok, hướng C kết hợp cả hai. Em viết gửi chị tham khảo ạ.
@@ -26,7 +26,7 @@ Em Linh — thực tập sinh bên Marketing — viết mail đầu tiên gửi 
 
 **Vì sao chưa ổn.** Chị Hương đọc xong không biết mình cần làm gì. *Đọc để biết? Chọn một hướng? Góp ý nội dung? Duyệt để Linh bắt tay làm?* Mail này gần như chắc chắn sẽ nằm trong hộp "đọc sau" vô thời hạn — không phải vì chị không quan tâm, mà vì chị không biết chị đang phải *hành động* gì.
 
-## Ví dụ TỐT — CTA rõ, deadline rõ
+## Ví dụ TỐT — yêu cầu hành động rõ, deadline rõ
 > Chị Hương ạ,
 >
 > Em là Linh, thực tập sinh bên Marketing. Em đã phác 3 hướng chiến dịch mạng xã hội cho Dự án Bình Minh (tài liệu đính kèm, dài 2 trang).
@@ -41,7 +41,7 @@ Em Linh — thực tập sinh bên Marketing — viết mail đầu tiên gửi 
 **So sánh.** Cùng một ý tưởng, cùng một mức độ cầu thị — nhưng bản TỐT gọi đúng tên hành động chị Hương phải làm (*chọn 1 trong 3*), đưa deadline (*trước thứ Sáu 09/05*) và có **phương án dự phòng** nếu chị chưa đủ thông tin để chọn (thuyết minh 15 phút).
 
 ## Biến thể — Khi không cần người đọc làm gì
-Nếu CTA của bạn thật sự là "đọc để biết, không cần phản hồi", **hãy nói thẳng điều đó**:
+Nếu yêu cầu hành động của bạn thật sự là "đọc để biết, không cần phản hồi", **hãy nói thẳng điều đó**:
 
 > "Mail này chỉ để chị nắm thông tin, em không cần chị phản hồi."
 
@@ -50,4 +50,4 @@ Một câu nhỏ này cứu chị Hương khỏi áp lực "có phải mình đa
 ## Cụm từ mẫu
 > **"Em xin chị/anh [động từ cụ thể] [cái gì cụ thể] trước [ngày cụ thể] để em [mục đích cụ thể]."**
 
-*Dùng khi:* mọi mail có yêu cầu hành động. Bốn ô *cụ thể* là bốn kiểm tra bắt buộc — nếu điền được cả bốn, CTA của bạn đã rõ.
+*Dùng khi:* mọi mail có yêu cầu hành động. Bốn ô *cụ thể* là bốn kiểm tra bắt buộc — nếu điền được cả bốn, yêu cầu hành động của bạn đã rõ.

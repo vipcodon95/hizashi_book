@@ -1,6 +1,6 @@
 ---
-id: 8001037
-curriculum_id: 8001
+id: 810000037
+curriculum_id: 800000001
 order_index: 37
 node_type: rule
 title: "Rule 37 — Trợ từ \"ạ\" — khi nào thêm, khi nào bỏ để không quá nặng"

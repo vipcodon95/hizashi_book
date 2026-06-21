@@ -1,6 +1,6 @@
 ---
-id: 8001010
-curriculum_id: 8001
+id: 810000010
+curriculum_id: 800000001
 order_index: 10
 node_type: rule
 title: "Rule 10 — Tên hiển thị đúng chuẩn: họ tên thật + công ty"

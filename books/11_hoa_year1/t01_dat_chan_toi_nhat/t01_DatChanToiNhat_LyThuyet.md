@@ -1,6 +1,6 @@
 # T1. Đặt chân tới Nhật (日本に着いた日)
 
-> **Mục tiêu:** Học chào hỏi + jiko-shoukai chuẩn cho TTS mới sang Nhật, vocab sân bay / ký túc / 入社式, và phân biệt cách nói formal (sếp Nhật) vs casual (sempai VN cùng ký túc).
+> **Mục tiêu:** Học chào hỏi + jiko-shoukai chuẩn cho TTS mới sang Nhật, từ vựng sân bay / ký túc / 入社式, và phân biệt cách nói formal (sếp Nhật) vs casual (sempai VN cùng ký túc).
 
 ---
 
@@ -46,11 +46,11 @@ Tháng 4 năm 2026. Hoa, 22 tuổi, vừa hoàn thành N5 sau 6 tháng học t�
 | Sempai VN cùng ký túc | おはよう / Chào chị | Casual |
 | Bạn TTS khác nước (Andi) | おはよう / Hi | Casual |
 
-> ⚠️ **Quy tắc vàng**: Trong nhà máy → luôn formal. Trong ký túc → có thể casual với bạn cùng phòng.
+> **Quy tắc vàng**: Trong nhà máy → luôn formal. Trong ký túc → có thể casual với bạn cùng phòng.
 
 ---
 
-## 2. Vocab sân bay / hải quan
+## 2. Từ vựng sân bay / hải quan
 
 | Kanji | Hiragana | Romaji | Nghĩa |
 |---|---|---|---|
@@ -70,7 +70,7 @@ Tháng 4 năm 2026. Hoa, 22 tuổi, vừa hoàn thành N5 sau 6 tháng học t�
 
 ---
 
-## 3. Vocab ký túc + đời sống
+## 3. Từ vựng ký túc + đời sống
 
 | Kanji | Romaji | Nghĩa |
 |---|---|---|
@@ -88,7 +88,7 @@ Tháng 4 năm 2026. Hoa, 22 tuổi, vừa hoàn thành N5 sau 6 tháng học t�
 - Thứ 3: 資源ゴミ
 - Thứ 5: 燃えないゴミ
 
-> 💡 Đổ sai ngày → bị nhắc nhở. Lần đầu xem kỹ bảng dán cửa ký túc.
+> Đổ sai ngày → bị nhắc nhở. Lần đầu xem kỹ bảng dán cửa ký túc.
 
 ---
 
@@ -116,11 +116,11 @@ Tháng 4 năm 2026. Hoa, 22 tuổi, vừa hoàn thành N5 sau 6 tháng học t�
 - **Tóc**: Buộc gọn (nữ), cắt ngắn (nam)
 - **Trang sức**: Tối thiểu (chỉ đồng hồ + 1 đôi bông tai nhỏ)
 
-> ⚠️ KHÔNG mặc áo có hoa văn / màu sáng. KHÔNG đeo nhẫn (ngoại trừ nhẫn cưới).
+> KHÔNG mặc áo có hoa văn / màu sáng. KHÔNG đeo nhẫn (ngoại trừ nhẫn cưới).
 
 ---
 
-## 5. Vocab OTIT Orientation
+## 5. Từ vựng OTIT Orientation
 
 OTIT (<ruby>外国人技能実習機構<rt>がいこくじんぎのうじっしゅうきこう</rt></ruby>) là cơ quan giám sát thực tập sinh kỹ năng. Trong tháng đầu, Hoa phải tham gia khoá <ruby>講習会<rt>こうしゅうかい</rt></ruby> bắt buộc.
 
@@ -172,13 +172,13 @@ OTIT (<ruby>外国人技能実習機構<rt>がいこくじんぎのうじっし�
 | 「こちらこそ」 | "Tôi cũng vậy" — phản hồi lại lời cảm ơn / chào |
 | 「大丈夫です」 | Từ chối lịch sự — dùng được trong nhiều ngữ cảnh |
 
-> 💡 Khi sempai/sếp đề nghị giúp xách đồ, lần đầu nên từ chối lịch sự ("自分で持ちます"). Nếu họ đề nghị lần 2 → có thể nhận, nhưng vẫn cảm ơn nhiều.
+> Khi sempai/sếp đề nghị giúp xách đồ, lần đầu nên từ chối lịch sự ("自分で持ちます"). Nếu họ đề nghị lần 2 → có thể nhận, nhưng vẫn cảm ơn nhiều.
 
 ---
 
 ## 7. So sánh / Phân tích lỗi
 
-| ❌ SAI | ✅ ĐÚNG |
+| Cách nói SAI | Cách nói ĐÚNG |
 |---|---|
 | 私はホアだ。 | <ruby>私<rt>わたし</rt></ruby>はホアと<ruby>申<rt>もう</rt></ruby>します。 |
 | (Quá casual cho jiko-shoukai chính thức) | (Kenjougo phù hợp) |
@@ -191,7 +191,7 @@ OTIT (<ruby>外国人技能実習機構<rt>がいこくじんぎのうじっし�
 
 ---
 
-## 8. 📖 Vocab nhà máy hôm nay (ngày 1)
+## 8. Từ vựng nhà máy hôm nay (ngày 1)
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -216,32 +216,32 @@ OTIT (<ruby>外国人技能実習機構<rt>がいこくじんぎのうじっし�
 
 ---
 
-## 10. 💡 Mẹo ghi nhớ
+## 10. Mẹo ghi nhớ
 
 | Mẹo | Nội dung |
 |---|---|
-| 🔺 Cúi đầu rule | Sếp = 30°, sempai = 15°, bạn = gật nhẹ |
-| 🔻 「すみません」 vs 「ありがとう」 | Gây phiền = すみません. Được giúp = ありがとうございます |
-| 💡 LINE app | Cài LINE ngay ngày đầu — sempai sẽ rủ thêm vào group ký túc |
-| ⚠️ KHÔNG | Không đưa danh thiếp bằng 1 tay. Không bỏ ví/điện thoại trong túi đồng phục vào nhà máy |
+|  Cúi đầu rule | Sếp = 30°, sempai = 15°, bạn = gật nhẹ |
+|  「すみません」 vs 「ありがとう」 | Gây phiền = すみません. Được giúp = ありがとうございます |
+|  LINE app | Cài LINE ngay ngày đầu — sempai sẽ rủ thêm vào nhóm ký túc |
+|  KHÔNG | Không đưa danh thiếp bằng 1 tay. Không bỏ ví/điện thoại trong túi đồng phục vào nhà máy |
 
 ---
 
-## ✅ Mini check
+## Tự kiểm tra nhanh
 
 1. Câu nào dùng đúng kenjougo khi giới thiệu mình?
-   - A. 私はホアです。
-   - B. <ruby>私<rt>わたし</rt></ruby>はホアと<ruby>申<rt>もう</rt></ruby>します。
-   - C. 私、ホア。
+ - A. 私はホアです。
+ - B. <ruby>私<rt>わたし</rt></ruby>はホアと<ruby>申<rt>もう</rt></ruby>します。
+ - C. 私、ホア。
 
 2. Khi sếp giúp xách đồ lần đầu, nên trả lời:
-   - A. はい、お<ruby>願<rt>ねが</rt></ruby>いします。
-   - B. いえ、<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。<ruby>自分<rt>じぶん</rt></ruby>で<ruby>持<rt>も</rt></ruby>ちます。
-   - C. どうも。
+ - A. はい、お<ruby>願<rt>ねが</rt></ruby>いします。
+ - B. いえ、<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。<ruby>自分<rt>じぶん</rt></ruby>で<ruby>持<rt>も</rt></ruby>ちます。
+ - C. どうも。
 
 3. 在留カード phải mang theo:
-   - A. Khi đi làm
-   - B. Khi đi ra ngoài ký túc
-   - C. Mọi lúc, mọi nơi
+ - A. Khi đi làm
+ - B. Khi đi ra ngoài ký túc
+ - C. Mọi lúc, mọi nơi
 
-*(Đáp án: 1B, 2B, 3C — chi tiết xem BaiTap.json)*
+*(Đáp án: 1B, 2B, 3C)*

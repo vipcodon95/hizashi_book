@@ -1,6 +1,6 @@
 ---
-id: 8001029
-curriculum_id: 8001
+id: 810000029
+curriculum_id: 800000001
 order_index: 29
 node_type: rule
 title: "Rule 29 — Thuyết phục chỉ cần 1 câu lý do, không cần 3 đoạn"

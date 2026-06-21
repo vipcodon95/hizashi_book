@@ -219,7 +219,7 @@ Lần đầu đứng vai sempai, Hoa học cách xử sự cố sản xuất b�
 
 ## Bí quyết chương
 
-- Mirror T5 sách 11 (Hoa sai lần đầu): năm nay Hoa đứng vai Satou năm ngoái — câu **「私の指導不足でもあります」** lặp lại đúng nguyên văn để cho thấy văn hoá truyền tay.
+- Lặp lại hình mẫu T5 sách 11 (Hoa sai lần đầu): năm nay Hoa đứng vai Satou năm ngoái — câu **「私の指導不足でもあります」** lặp lại đúng nguyên văn để cho thấy văn hoá truyền tay.
 - Sempai tốt = (1) bình tĩnh xử lý trước, xin lỗi sau; (2) đẩy điểm tốt về kohai trước 部長; (3) chuyển lỗi cá nhân thành đề xuất 標準化.
 - Hai khái niệm mới Hoa nhận từ Satou: **真因** và **標準化** — sẽ thấy kết quả khi Hoa lên trưởng dây chuyền ở các chương sau.
 - Cảnh tiếng Việt được tách 2 lớp: với Putri (đồng nghiệp Indonesia) để ôn KAIZEN, và gọi mẹ Mai để chốt cảm xúc gia đình.

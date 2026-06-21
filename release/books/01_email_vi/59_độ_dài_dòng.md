@@ -1,6 +1,6 @@
 ---
-id: 8001059
-curriculum_id: 8001
+id: 810000059
+curriculum_id: 800000001
 order_index: 59
 node_type: rule
 title: "Rule 58 — Độ dài dòng lý tưởng cho mail tiếng Việt có dấu: 40-50 ký tự"

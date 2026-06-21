@@ -1,6 +1,6 @@
 ---
-id: 8001036
-curriculum_id: 8001
+id: 810000036
+curriculum_id: 800000001
 order_index: 36
 node_type: rule
 title: "Rule 36 — Hệ xưng hô Việt: chọn đúng anh/chị/em/cô/chú/thầy ngay câu đầu"

@@ -1,6 +1,6 @@
 # T2. Tuần đầu trong nhà máy (工場での最初の一週間)
 
-> **Mục tiêu:** Học vocab thiết bị nhà máy thực phẩm, quy trình mặc đồ bảo hộ + air shower, 5 nguyên tắc 5S, cold chain căn bản, và mẫu câu mệnh lệnh nhẹ ~てください.
+> **Mục tiêu:** Học từ vựng thiết bị nhà máy thực phẩm, quy trình mặc đồ bảo hộ + buồng thổi gió, 5 nguyên tắc 5S, chuỗi lạnh căn bản, và mẫu câu mệnh lệnh nhẹ ~てください.
 
 ---
 
@@ -10,7 +10,7 @@ Tuần đầu chính thức làm việc. 6:30 sáng Hoa cùng Linh-chị và And
 
 ---
 
-## 1. Quy trình mặc đồ bảo hộ — 10 bước (chuẩn industry 2024+)
+## 1. Quy trình mặc đồ bảo hộ — 10 bước (chuẩn ngành 2024+)
 
 | Bước | Việc làm | Thời gian | Lý do |
 |---|---|---|---|
@@ -23,19 +23,19 @@ Tuần đầu chính thức làm việc. 6:30 sáng Hoa cùng Linh-chị và And
 | 7 | Đi ủng (<ruby>長靴<rt>ながぐつ</rt></ruby>) | 30s | Trước khu sản xuất |
 | 8 | <ruby>粘着<rt>ねんちゃく</rt></ruby>ローラー (lint roller) lăn toàn bộ đồng phục | 30s | Loại tóc/sợi vải còn dính |
 | 9 | **Rửa tay 二度洗い + cồn → Đeo găng tay (<ruby>手袋<rt>てぶくろ</rt></ruby>)** | 90s | Găng tay cuối, sau tay đã sạch tuyệt đối |
-| 10 | Air shower 30 giây | 30s | Loại bụi cuối cùng |
+| 10 | Buồng thổi gió 30 giây | 30s | Loại bụi cuối cùng |
 
 **Tổng**: ~6 phút mỗi lần thay đồ. Mỗi ca 1 lần.
 
-> ⚠️ **Quy tắc vàng**: **Găng tay LUÔN là bước cuối cùng sau khi rửa tay 二度洗い + cồn**. Nếu đeo găng trước → đụng bề mặt bẩn → contamination ngay từ găng tay.
+> **Quy tắc vàng**: **Găng tay LUÔN là bước cuối cùng sau khi rửa tay 二度洗い + cồn**. Nếu đeo găng trước → đụng bề mặt bẩn → contamination ngay từ găng tay.
 
-> 💡 **Tóc rơi = recall**. 1 sợi tóc trong cơm hộp có thể khiến công ty mất hợp đồng triệu yen + uy tín.
+> **Tóc rơi = thu hồi sản phẩm**. 1 sợi tóc trong cơm hộp có thể khiến công ty mất hợp đồng triệu yen + uy tín.
 
 ---
 
-## 2. Vocab thiết bị nhà máy
+## 2. Từ vựng thiết bị nhà máy
 
-### 2.1 Thiết bị line cơm hộp
+### 2.1 Thiết bị dây chuyền cơm hộp
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -80,7 +80,7 @@ Tuần đầu chính thức làm việc. 6:30 sáng Hoa cùng Linh-chị và And
 | <ruby>清潔<rt>せいけつ</rt></ruby> | Seiketsu | Sạch sẽ duy trì | Giữ tiêu chuẩn 3 chữ trên |
 | <ruby>躾<rt>しつけ</rt></ruby> | Shitsuke | Kỷ luật | Tuân thủ thành thói quen |
 
-> 💡 **5S là gốc của HACCP**. Không 5S thì không thể HACCP, không thể audit ISO.
+> **5S là gốc của HACCP**. Không 5S thì không thể HACCP, không thể kiểm tra ISO.
 
 ### Quy tắc 5S thực tế trong ca làm
 
@@ -90,7 +90,7 @@ Tuần đầu chính thức làm việc. 6:30 sáng Hoa cùng Linh-chị và And
 
 ---
 
-## 4. Cold chain (chuỗi lạnh) căn bản
+## 4. Chuỗi lạnh căn bản
 
 ### 4.1 Nhiệt độ chuẩn
 
@@ -108,7 +108,7 @@ Tuần đầu chính thức làm việc. 6:30 sáng Hoa cùng Linh-chị và And
 - Tối đa **30 phút mỗi lần** vào kho −18°C
 - Ra ngoài → nghỉ 10 phút uống nước ấm
 
-> ⚠️ Vào kho lạnh quá lâu → <ruby>低体温症<rt>ていたいおんしょう</rt></ruby> (hạ thân nhiệt). Nếu cảm thấy run, mất cảm giác đầu ngón tay → ra NGAY.
+> Vào kho lạnh quá lâu → <ruby>低体温症<rt>ていたいおんしょう</rt></ruby> (hạ thân nhiệt). Nếu cảm thấy run, mất cảm giác đầu ngón tay → ra NGAY.
 
 ---
 
@@ -169,13 +169,13 @@ Tuần đầu chính thức làm việc. 6:30 sáng Hoa cùng Linh-chị và And
 - 「申し訳ございません」 = mức xin lỗi formal cao, dùng khi mắc lỗi với sempai/sếp
 - 「教えていただいて、ありがとうございます」 = chuyển negative thành positive — biến lời nhắc thành cơ hội cảm ơn. Đây là kỹ năng quan trọng nhất khi sempai nhắc nhở.
 
-> 💡 Khi bị nhắc nhở: **xin lỗi → sửa ngay → cảm ơn**. KHÔNG bào chữa "vì... vì...".
+> Khi bị nhắc nhở: **xin lỗi → sửa ngay → cảm ơn**. KHÔNG bào chữa "vì... vì...".
 
 ---
 
 ## 7. So sánh / Phân tích lỗi
 
-| ❌ SAI | ✅ ĐÚNG |
+| Cách nói SAI | Cách nói ĐÚNG |
 |---|---|
 | すみません、でも<ruby>暑<rt>あつ</rt></ruby>くて... | <ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。すぐ<ruby>直<rt>なお</rt></ruby>します。 |
 | (Bào chữa "tại nóng quá") | (Xin lỗi + sửa ngay, không bào chữa) |
@@ -188,7 +188,7 @@ Tuần đầu chính thức làm việc. 6:30 sáng Hoa cùng Linh-chị và And
 
 ---
 
-## 8. 📖 Vocab nhà máy hôm nay
+## 8. Từ vựng nhà máy hôm nay
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -207,7 +207,7 @@ Tuần đầu chính thức làm việc. 6:30 sáng Hoa cùng Linh-chị và And
 
 - **Mặc đồ bảo hộ**: 8 bước, ~5 phút, KHÔNG bỏ bước
 - **5S**: 整理・整頓・清掃・清潔・躾 — gốc của vệ sinh thực phẩm
-- **Cold chain**: Reizou 4°C / Reitou −18°C / vào kho ≤30 phút
+- **Chuỗi lạnh**: Reizou 4°C / Reitou −18°C / vào kho ≤30 phút
 - **Bị nhắc nhở**: Xin lỗi → sửa ngay → cảm ơn (KHÔNG bào chữa)
 - **~てください**: Mệnh lệnh chuẩn nhà máy, lịch sự, OK với mọi đồng nghiệp
 
@@ -215,32 +215,32 @@ Tuần đầu chính thức làm việc. 6:30 sáng Hoa cùng Linh-chị và And
 
 ---
 
-## 10. 💡 Mẹo ghi nhớ
+## 10. Mẹo ghi nhớ
 
 | Mẹo | Nội dung |
 |---|---|
-| 🔺 8 bước bảo hộ | Đếm theo thứ tự "Giày → Áo → Mũ → Khẩu trang → Găng → Tạp dề → Ủng → Air" |
-| 🔻 5S nhớ nhanh | "Sàng-Sắp-Sạch-Sạch-Self" (S cuối = Self-discipline) |
-| 💡 Kho lạnh | Đặt báo thức 25 phút trên đồng hồ — tự ra trước 30 phút |
-| ⚠️ Kimura | Đừng sợ, sempai khắt khe = sempai có trách nhiệm. Cảm ơn chân thành = giảm tension |
+|  8 bước bảo hộ | Đếm theo thứ tự "Giày → Áo → Mũ → Khẩu trang → Găng → Tạp dề → Ủng → Air" |
+|  5S nhớ nhanh | "Sàng-Sắp-Sạch-Sạch-Self" (S cuối = Self-discipline) |
+|  Kho lạnh | Đặt báo thức 25 phút trên đồng hồ — tự ra trước 30 phút |
+|  Kimura | Đừng sợ, sempai khắt khe = sempai có trách nhiệm. Cảm ơn chân thành = giảm tension |
 
 ---
 
-## ✅ Mini check
+## Tự kiểm tra nhanh
 
 1. Tổng cộng 5S có bao nhiêu chữ?
-   - A. 4 chữ
-   - B. 5 chữ
-   - C. 6 chữ
+ - A. 4 chữ
+ - B. 5 chữ
+ - C. 6 chữ
 
 2. Khi sempai nhắc nhở, câu trả lời tốt nhất là:
-   - A. すみません、でも...
-   - B. <ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。すぐ<ruby>直<rt>なお</rt></ruby>します。
-   - C. はい、<ruby>分<rt>わ</rt></ruby>かりました。
+ - A. すみません、でも...
+ - B. <ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。すぐ<ruby>直<rt>なお</rt></ruby>します。
+ - C. はい、<ruby>分<rt>わ</rt></ruby>かりました。
 
 3. Nhiệt độ chuẩn của 冷凍 là:
-   - A. 0°C
-   - B. −10°C
-   - C. ≤ −18°C
+ - A. 0°C
+ - B. −10°C
+ - C. ≤ −18°C
 
 *(Đáp án: 1B, 2B, 3C)*

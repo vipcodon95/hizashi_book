@@ -1,6 +1,6 @@
 ---
-id: 8001066
-curriculum_id: 8001
+id: 810000066
+curriculum_id: 800000001
 order_index: 66
 node_type: rule
 title: "Rule 65 — File đính kèm: ghi rõ tên file + định dạng + dung lượng trong body"

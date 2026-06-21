@@ -1,6 +1,6 @@
 ---
-id: 8001008
-curriculum_id: 8001
+id: 810000008
+curriculum_id: 800000001
 order_index: 8
 node_type: rule
 title: "Rule 08 — Tiêu đề hai vế, ngăn bằng dấu \"|\""
@@ -35,7 +35,7 @@ Chị Hương sắp đi công tác 3 ngày và chỉ còn 10 phút trước khi 
 ## Body tương ứng
 > Chị Hương,
 >
-> Vì hai việc này phụ thuộc nhau (scope review sẽ chốt budget), em gộp trong một mail, chia làm 2 phần:
+> Vì hai việc này phụ thuộc nhau (phạm vi review sẽ chốt budget), em gộp trong một mail, chia làm 2 phần:
 >
 > **Phần 1 — Budget 80 triệu phát sinh**
 > (3 dòng tóm tắt + file đính kèm)

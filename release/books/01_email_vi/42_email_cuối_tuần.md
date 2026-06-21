@@ -1,6 +1,6 @@
 ---
-id: 8001042
-curriculum_id: 8001
+id: 810000042
+curriculum_id: 800000001
 order_index: 42
 node_type: rule
 title: "Rule 42 — Email cuối tuần, ngày lễ: tránh gửi trừ khi thật sự khẩn"

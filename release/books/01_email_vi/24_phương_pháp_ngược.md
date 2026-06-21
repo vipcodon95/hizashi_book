@@ -1,6 +1,6 @@
 ---
-id: 8001024
-curriculum_id: 8001
+id: 810000024
+curriculum_id: 800000001
 order_index: 24
 node_type: rule
 title: "Rule 24 — Phương pháp ngược: phác gạch đầu dòng trước, nối thành câu sau"

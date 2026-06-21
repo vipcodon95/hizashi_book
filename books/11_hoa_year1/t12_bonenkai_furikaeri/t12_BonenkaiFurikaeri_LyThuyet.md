@@ -1,12 +1,12 @@
 # T12. Một năm nhìn lại (1年間の振り返り)
 
-> **Mục tiêu:** Học cụm cảm ơn cao cấp (心より感謝申し上げます), biểu cảm xúc (嬉しい/感動/寂しい), vocab tiệc (忘年会/乾杯/一本締め), cụm chia tay (お元気で), và tổng hợp 1 năm.
+> **Mục tiêu:** Học cụm cảm ơn cao cấp (心より感謝申し上げます), biểu cảm xúc (嬉しい/感動/寂しい), từ vựng tiệc (忘年会/乾杯/一本締め), cụm chia tay (お元気で), và tổng hợp 1 năm.
 
 ---
 
 ## Bối cảnh
 
-Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo bonenkai dời sang tháng 3 (vì tháng 12 vướng crisis recall). Linh-chị báo về VN nghỉ phép dài (sau 2.5 năm chưa về). Andi báo chuyển công ty về Nagoya để làm cùng anh trai. Hoa chuẩn bị bài speech 1 năm. Tối bonenkai ở 居酒屋 gần nhà máy — bữa nướng + 乾杯. Hoa phát biểu cảm tưởng. Kimura-san gửi 1 hộp bento tự làm. Tanaka tặng Hoa cuốn sổ tay 指導員 cũ của ông — symbol "passing the torch". Cuối tiệc — 一本締め. Hoa về ký túc, viết nhật ký 1 năm + đặt mục tiêu năm 2.
+Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo bonenkai dời sang tháng 3 (vì tháng 12 vướng sự cố thu hồi sản phẩm). Linh-chị báo về VN nghỉ phép dài (sau 2.5 năm chưa về). Andi báo chuyển công ty về Nagoya để làm cùng anh trai. Hoa chuẩn bị bài phát biểu 1 năm. Tối bonenkai ở 居酒屋 gần nhà máy — bữa nướng + 乾杯. Hoa phát biểu cảm tưởng. Kimura-san gửi 1 hộp bento tự làm. Tanaka tặng Hoa cuốn sổ tay 指導員 cũ của ông — biểu tượng truyền lửa. Cuối tiệc — 一本締め. Hoa về ký túc, viết nhật ký 1 năm + đặt mục tiêu năm 2.
 
 ---
 
@@ -28,14 +28,14 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 | 19:00 | Tập trung 居酒屋 | Đến đúng giờ |
 | 19:10 | Sếp khai mạc + 乾杯 | Đợi sếp nâng ly trước |
 | 19:30-21:00 | Ăn + uống + nói chuyện | Trò chuyện, nghe |
-| 21:00 | Speech của vài người | Hoa có thể được mời |
-| 21:30 | <ruby>一本締<rt>いっぽんじ</rt></ruby>め | Clap đồng loạt 1 nhịp |
+| 21:00 | Phát biểu của vài người | Hoa có thể được mời |
+| 21:30 | <ruby>一本締<rt>いっぽんじ</rt></ruby>め | Vỗ tay đồng loạt 1 nhịp |
 | 21:45 | Dọn dẹp, về | Cảm ơn từng người |
 
 ### 1.3 Quy tắc bonenkai cho TTS
 
 ```
-1. Mặc smart casual (không suit, không quá thường)
+1. Mặc lịch sự nhẹ (không vest, không quá thường)
 2. Đến ĐÚNG GIỜ (không sớm, không muộn)
 3. Đợi sếp uống trước (nhất là cụng ly)
 4. Rót cho sếp/sempai TRƯỚC khi rót cho mình
@@ -74,7 +74,7 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 
 ---
 
-## 3. 一本締め (Ippon-jime) — Clap closing
+## 3. 一本締め (Ippon-jime) — Vỗ tay kết thúc
 
 ### 3.1 Cách thực hiện
 
@@ -82,7 +82,7 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 1. Người chủ trì nói: 「では、お手を拝借!」
 2. Mọi người đứng dậy + giơ tay
 3. Chủ trì nói: 「いよーお!」 → kéo dài
-4. Mọi người clap 1 nhịp ĐỒNG LOẠT: パン!
+4. Mọi người vỗ tay 1 nhịp ĐỒNG LOẠT: パン!
 5. Chủ trì nói: 「ありがとうございました!」
 ```
 
@@ -90,13 +90,13 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 
 | Loại | Số nhịp | Khi dùng |
 |---|---|---|
-| 一本締め | 1 nhịp clap | Bonenkai, năm hết |
+| 一本締め | 1 nhịp vỗ tay | Bonenkai, năm hết |
 | 三本締め | 3 nhịp × 3 = 9 | Long trọng, lễ lớn |
 | 一丁締め | 1 nhịp đơn | Nhỏ, không formal |
 
 ### 3.3 Ý nghĩa văn hoá
 
-→ "Tất cả thành viên cùng đồng lòng kết thúc, không có sự kiện nào còn dở dang". Đây là ritual quan trọng nhất của bonenkai.
+→ "Tất cả thành viên cùng đồng lòng kết thúc, không có sự kiện nào còn dở dang". Đây là nghi thức quan trọng nhất của bonenkai.
 
 ---
 
@@ -109,7 +109,7 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 | Thân mật | ありがとう | Bạn |
 | Lịch sự | ありがとうございます | Đồng nghiệp |
 | Formal | <ruby>誠<rt>まこと</rt></ruby>にありがとうございます | Khách / sếp |
-| Super formal | <ruby>心<rt>こころ</rt></ruby>より<ruby>感謝<rt>かんしゃ</rt></ruby><ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます | Speech, thư cảm ơn |
+| Super formal | <ruby>心<rt>こころ</rt></ruby>より<ruby>感謝<rt>かんしゃ</rt></ruby><ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます | Phát biểu, thư cảm ơn |
 
 ### 4.2 Cụm cảm ơn dài
 
@@ -141,13 +141,13 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 ### 5.2 Cách thể hiện cảm xúc Nhật
 
 ```
-✅ DO:
+ DO:
 - Nói nhẹ, không khoa trương
 - Dùng "ちょっと" giảm cường độ ("ちょっと寂しいです")
 - Cảm ơn cụ thể (không chung chung)
 - Mỉm cười (smile = lịch sự mặc định)
 
-❌ DON'T:
+ DON'T:
 - Khóc to nơi công cộng (phụ nữ Việt khác phụ nữ Nhật)
 - Ôm lúc tạm biệt (Nhật ít touch)
 - Quá khoa trương ("最高!" với sếp = OK / với khách = không)
@@ -161,7 +161,7 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 
 | Tiếng Nhật | Nghĩa | Khi dùng |
 |---|---|---|
-| お<ruby>元気<rt>げんき</rt></ruby>で | Take care | Chia tay lâu (vài tháng+) |
+| お<ruby>元気<rt>げんき</rt></ruby>で | Giữ gìn sức khoẻ | Chia tay lâu (vài tháng+) |
 | またお<ruby>会<rt>あ</rt></ruby>いしましょう | Hẹn gặp lại | Trang trọng |
 | また<ruby>明日<rt>あした</rt></ruby> | Mai gặp | Hàng ngày |
 | お<ruby>世話<rt>せわ</rt></ruby>になりました | Cảm ơn đã chăm sóc | Chuyển công ty / về quê |
@@ -182,12 +182,12 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 
 ---
 
-## 7. Tình huống mẫu — Hoa speech 1 năm tại bonenkai
+## 7. Tình huống mẫu — Hoa phát biểu 1 năm tại bonenkai
 
 **Cảnh: 居酒屋, 21:00, sau khi ăn uống**
 
 > **Tanaka**: <ruby>皆<rt>みな</rt></ruby>さん、ホアさんのスピーチを<ruby>聞<rt>き</rt></ruby>きましょう。ホアさん、お<ruby>願<rt>ねが</rt></ruby>いします。
-> *(Mọi người, nghe speech của Hoa-san. Hoa-san, mời em.)*
+> *(Mọi người, nghe phát biểu của Hoa-san. Hoa-san, mời em.)*
 >
 > **Hoa**: *(đứng dậy, cúi 30°)*
 >
@@ -210,7 +210,7 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 > *(Anh Tanaka, cảm ơn anh đã tha thứ những lần em mắc lỗi.)*
 >
 > 2つ<ruby>目<rt>め</rt></ruby>は、<ruby>反省<rt>はんせい</rt></ruby>。<ruby>確認漏<rt>かくにんも</rt></ruby>れ、リコール、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございませんでした。これからも<ruby>同<rt>おな</rt></ruby>じ<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>さないよう、<ruby>努力<rt>どりょく</rt></ruby><ruby>致<rt>いた</rt></ruby>します。
-> *(Thứ 2 là phản tỉnh. Vụ bỏ sót kiểm tra, recall, em thực sự xin lỗi. Em sẽ cố gắng không lặp lại.)*
+> *(Thứ 2 là phản tỉnh. Vụ bỏ sót kiểm tra, sự cố thu hồi, em thực sự xin lỗi. Em sẽ cố gắng không lặp lại.)*
 >
 > 3つ<ruby>目<rt>め</rt></ruby>は、<ruby>来年<rt>らいねん</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby>。<ruby>食品衛生責任者<rt>しょくひんえいせいせきにんしゃ</rt></ruby>の<ruby>資格<rt>しかく</rt></ruby>を<ruby>取<rt>と</rt></ruby>り、N3 に<ruby>合格<rt>ごうかく</rt></ruby>します。<ruby>皆様<rt>みなさま</rt></ruby>に<ruby>少<rt>すこ</rt></ruby>しでも<ruby>恩返<rt>おんがえ</rt></ruby>しできるよう、<ruby>頑張<rt>がんば</rt></ruby>ります。
 > *(Thứ 3 là mục tiêu năm sau. Lấy chứng chỉ Sekininsha và đậu N3. Để có thể đáp lại ơn các anh chị một chút, em sẽ cố gắng.)*
@@ -224,10 +224,10 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 
 ### Phân tích
 
-- **Cấu trúc 3 phần**: Cảm ơn → Phản tỉnh → Mục tiêu — chuẩn speech Nhật
+- **Cấu trúc 3 phần**: Cảm ơn → Phản tỉnh → Mục tiêu — chuẩn phát biểu Nhật
 - Cảm ơn **cụ thể từng người** với chi tiết hành động → ấn tượng
-- Nhận lỗi recall **thẳng thắn** → dũng cảm
-- Mục tiêu **CỤ THỂ** (Sekininsha + N3) → professional
+- Nhận lỗi thu hồi **thẳng thắn** → dũng cảm
+- Mục tiêu **CỤ THỂ** (Sekininsha + N3) → chuyên nghiệp
 - Câu cuối "<ruby>恩返<rt>おんがえ</rt></ruby>しできるよう" = đẹp văn hoá Nhật
 
 ---
@@ -257,26 +257,26 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 > **Tanaka**: <ruby>頑張<rt>がんば</rt></ruby>って。<ruby>君<rt>きみ</rt></ruby>なら<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>。
 > *(Cố lên. Em sẽ làm được.)*
 
-→ Cảnh "passing the torch" — Hoa từ TTS năm 1 sắp lên TTS năm 2 = sempai cho người mới.
+→ Cảnh truyền lửa — Hoa từ TTS năm 1 sắp lên TTS năm 2 = sempai cho người mới.
 
 ---
 
 ## 9. So sánh / Phân tích lỗi
 
-| ❌ SAI | ✅ ĐÚNG |
+| Cách nói SAI | Cách nói ĐÚNG |
 |---|---|
 | Khóc lớn ở bonenkai | Mỉm cười + cảm ơn cụ thể |
 | (Drama, không hợp văn hoá) | (Tatemae phù hợp) |
-| 「<ruby>了解<rt>りょうかい</rt></ruby>です」(với speech) | <ruby>承知<rt>しょうち</rt></ruby>いたしました / かしこまりました |
-| (Sai ngữ cảnh formal) | (Đúng) |
+| 「<ruby>了解<rt>りょうかい</rt></ruby>です」(trong phát biểu trang trọng) | <ruby>承知<rt>しょうち</rt></ruby>いたしました / かしこまりました |
+| (Sai ngữ cảnh trang trọng) | (Đúng) |
 | <ruby>最高<rt>さいこう</rt></ruby>!すごい!(với khách) | <ruby>素晴<rt>すば</rt></ruby>らしいです / <ruby>感動<rt>かんどう</rt></ruby>しました |
-| (Quá casual) | (Lịch sự) |
-| <ruby>頑張<rt>がんば</rt></ruby>ります trống | N3 + Sekininsha を<ruby>取<rt>と</rt></ruby>ります |
-| (Vague) | (Cụ thể) |
+| (Quá thân mật) | (Lịch sự) |
+| <ruby>頑張<rt>がんば</rt></ruby>ります chung chung | N3 + Sekininsha を<ruby>取<rt>と</rt></ruby>ります |
+| (Mơ hồ) | (Cụ thể) |
 
 ---
 
-## 10. 📖 Vocab hôm nay
+## 10. Vocab hôm nay
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -296,37 +296,37 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 | Tháng | Bài học cốt lõi |
 |---|---|
 | T1 | Chào hỏi + jiko-shoukai |
-| T2 | Bảo hộ + 5S + cold chain |
-| T3 | Vệ sinh + HACCP + allergen 9 |
-| T4 | Hou-ren-sou + line operation |
-| T5 | Keigo intro + xin lỗi 4 cấp |
+| T2 | Bảo hộ + 5S + chuỗi lạnh |
+| T3 | Vệ sinh + HACCP + 9 chất gây dị ứng |
+| T4 | Hou-ren-sou + vận hành dây chuyền |
+| T5 | Keigo căn bản + xin lỗi 4 cấp |
 | T6 | Mensetsu + đặt mục tiêu SMART |
 | T7 | Casual + yuukyuu + đời sống |
-| T8 | Audit + keigo cao cấp |
-| T9 | Meeting + đề xuất ý tưởng |
-| T10 | Crisis + recall + xin lỗi cao cấp |
-| T11 | Tương lai + 3 chứng chỉ realistic |
-| T12 | Cảm xúc + chia tay + speech |
+| T8 | Thanh tra + keigo cao cấp |
+| T9 | Cuộc họp + đề xuất ý tưởng |
+| T10 | Khủng hoảng + thu hồi + xin lỗi cao cấp |
+| T11 | Tương lai + 3 chứng chỉ khả thi |
+| T12 | Cảm xúc + chia tay + phát biểu |
 
 ---
 
-## 12. Roadmap năm 2 (preview)
+## 12. Lộ trình năm 2 (sơ lược)
 
 ```
 2026/4 — TTS Y1 finished. Lên TTS Y2.
-   ↓
-2026/12 — N4 合格 (target)
-   ↓
-2027/3 — Sekininsha (target)
-   ↓
+ ↓
+2026/12 — N4 合格 (mục tiêu)
+ ↓
+2027/3 — Sekininsha (mục tiêu)
+ ↓
 2027/4 — 育成就労 thi hành. Theo dõi cập nhật.
-   ↓
-2027/12 — HACCP coordinator (target)
-   ↓
+ ↓
+2027/12 — HACCP coordinator (mục tiêu)
+ ↓
 2028/4 — TTS Y3
-   ↓
-2028/6 — N3 合格 (target)
-   ↓
+ ↓
+2028/6 — N3 合格 (mục tiêu)
+ ↓
 2029/4 — TTS finish → 特定技能1号 (5 năm)
 ```
 
@@ -335,9 +335,9 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 ## 13. Tổng kết
 
 - **忘年会**: Tiệc cuối năm, đến đúng giờ, đợi sếp 乾杯, KHÔNG say
-- **一本締め**: 1 nhịp clap đồng loạt — ritual kết thúc bonenkai
+- **一本締め**: 1 nhịp vỗ tay đồng loạt — nghi thức kết thúc bonenkai
 - **Cụm cảm ơn cao cấp**: 心より感謝申し上げます / おかげさまで
-- **Speech 3 phần**: Cảm ơn → Phản tỉnh → Mục tiêu
+- **Phát biểu 3 phần**: Cảm ơn → Phản tỉnh → Mục tiêu
 - **Cụm chia tay**: お元気で / お世話になりました / これからもよろしく
 - **Cảm xúc Nhật**: Nhẹ, không khoa trương, "ちょっと" giảm cường độ
 
@@ -345,32 +345,32 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 
 ---
 
-## 14. 💡 Mẹo ghi nhớ
+## 14. Mẹo ghi nhớ
 
 | Mẹo | Nội dung |
 |---|---|
-| 🔺 Speech 3 phần | "Cảm ơn → Phản tỉnh → Mục tiêu" |
-| 🔻 Cảm ơn cụ thể | "Cảm ơn anh Satou đã ~" thay vì "Cảm ơn" trống |
-| 💡 Khi nhận quà | Cầm 2 tay + cúi + "大切に使わせていただきます" |
-| ⚠️ KHÔNG khóc to | Smile + cảm ơn = tatemae phù hợp |
+|  Phát biểu 3 phần | "Cảm ơn → Phản tỉnh → Mục tiêu" |
+|  Cảm ơn cụ thể | "Cảm ơn anh Satou đã ~" thay vì "Cảm ơn" chung chung |
+|  Khi nhận quà | Cầm 2 tay + cúi + "大切に使わせていただきます" |
+|  KHÔNG khóc to | Mỉm cười + cảm ơn = tatemae phù hợp |
 
 ---
 
-## ✅ Mini check
+## Tự kiểm tra nhanh
 
 1. Bonenkai dịch ra:
-   - A. Tiệc đầu năm
-   - B. Tiệc cuối năm
-   - C. Tiệc sinh nhật
+ - A. Tiệc đầu năm
+ - B. Tiệc cuối năm
+ - C. Tiệc sinh nhật
 
 2. Khi cụng ly với sếp, ly mình nên:
-   - A. Cao hơn ly sếp
-   - B. Thấp hơn ly sếp
-   - C. Bằng nhau
+ - A. Cao hơn ly sếp
+ - B. Thấp hơn ly sếp
+ - C. Bằng nhau
 
-3. Speech 1 năm chuẩn có 3 phần là:
-   - A. Mở đầu / Nội dung / Kết thúc
-   - B. Cảm ơn / Phản tỉnh / Mục tiêu
-   - C. Quá khứ / Hiện tại / Tương lai
+3. Phát biểu 1 năm chuẩn có 3 phần là:
+ - A. Mở đầu / Nội dung / Kết thúc
+ - B. Cảm ơn / Phản tỉnh / Mục tiêu
+ - C. Quá khứ / Hiện tại / Tương lai
 
 *(Đáp án: 1B, 2B, 3B)*

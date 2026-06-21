@@ -1,61 +1,61 @@
-# T10. Sự cố lớn — Recall (重大事故 — リコール)
+# T10. Sự cố lớn — Thu hồi sản phẩm (重大事故 — リコール)
 
-> **Mục tiêu:** Học cụm xin lỗi cấp cao (深くお詫び申し上げます), hou-ren-sou cấp khẩn, vocab khủng hoảng (自主回収/異物混入/PL Law), cách viết お詫び文, và 食品リコール 自主回収報告制度.
+> **Mục tiêu:** Học cụm xin lỗi cấp cao (深くお詫び申し上げます), hou-ren-sou cấp khẩn, từ vựng khủng hoảng (自主回収/異物混入/Luật Trách nhiệm Sản phẩm), cách viết お詫び文, và 食品リコール 自主回収報告制度.
 
 ---
 
 ## Bối cảnh
 
-Tháng 1 sau Tết. Sáng thứ 2, Tanaka-buchou triệu tập khẩn cấp toàn phòng. Khách đã khiếu nại 1 lô cơm hộp đông lạnh có dị vật — mảnh kim loại nhỏ ~1.5mm trong nhân thịt gà. Lô bị lỗi đã giao 5,000 hộp đến 12 cửa hàng aeon Saitama. Phải recall toàn lô. Hoa nhận ra đó là line cô đứng tháng 7. Cảm xúc nặng nề. Tanaka đứng họp khẩn cấp, viết プレスリリース trong 2 tiếng. Buổi chiều họp với CAA (消費者庁) qua Zoom. Linh-chị + Andi an ủi Hoa.
+Tháng 1 sau Tết. Sáng thứ 2, Tanaka-buchou triệu tập khẩn cấp toàn phòng. Khách đã khiếu nại 1 lô cơm hộp đông lạnh có dị vật — mảnh kim loại nhỏ ~1.5mm trong nhân thịt gà. Lô bị lỗi đã giao 5,000 hộp đến 12 cửa hàng aeon Saitama. Phải thu hồi toàn lô. Hoa nhận ra đó là dây chuyền cô đứng tháng 7. Cảm xúc nặng nề. Tanaka đứng họp khẩn cấp, viết プレスリリース trong 2 tiếng. Buổi chiều họp với CAA (消費者庁) qua Zoom. Linh-chị + Andi an ủi Hoa.
 
 ---
 
-## 1. Quy trình recall — 5 phases
+## 1. Quy trình thu hồi sản phẩm — 5 giai đoạn
 
 ```
-Phase 1: 検出 (Detection) — phát hiện lỗi
-Phase 2: 調査 (Investigation) — điều tra trace lot
-Phase 3: 判断 (Decision) — quyết định recall
-Phase 4: 通知 (Notification) — báo CAA + media + khách
-Phase 5: 回収 + KAIZEN — thu hồi + cải tiến
+Giai đoạn 1: 検出 (Phát hiện) — phát hiện lỗi
+Giai đoạn 2: 調査 (Điều tra) — điều tra truy vết lô
+Giai đoạn 3: 判断 (Quyết định) — quyết định thu hồi
+Giai đoạn 4: 通知 (Thông báo) — báo CAA + truyền thông + khách
+Giai đoạn 5: 回収 + KAIZEN — thu hồi + cải tiến
 ```
 
-### 1.1 Phase 1: 検出
+### 1.1 Giai đoạn 1: 検出
 
 | Nguồn phát hiện | Tỉ lệ |
 |---|---|
 | Khách khiếu nại (クレーム) | 60% |
 | QC nội bộ phát hiện | 25% |
-| Audit / kiểm tra cơ quan | 10% |
+| Thanh tra / kiểm tra cơ quan | 10% |
 | Báo chí / SNS | 5% |
 
-### 1.2 Phase 2: 調査 (24-48h)
+### 1.2 Giai đoạn 2: 調査 (24-48h)
 
 ```
-1. Verify lỗi có thật → đo / chụp ảnh / lưu mẫu
-2. Trace Lot → xác định scope
-3. Tìm root cause → 5 Why
-4. Estimate damage → bao nhiêu hộp / khách nào / nơi nào
+1. Xác minh lỗi có thật → đo / chụp ảnh / lưu mẫu
+2. Truy vết lô → xác định phạm vi
+3. Tìm nguyên nhân gốc rễ → 5 Why
+4. Ước tính thiệt hại → bao nhiêu hộp / khách nào / nơi nào
 ```
 
-### 1.3 Phase 3: 判断
+### 1.3 Giai đoạn 3: 判断
 
 - Mức nhẹ → 自主回収 1 lô
 - Mức trung → 自主回収 nhiều lô
 - Mức nặng → リコール toàn quốc
 
-### 1.4 Phase 4: 通知 (báo trong 24h)
+### 1.4 Giai đoạn 4: 通知 (báo trong 24h)
 
-**BẮT BUỘC từ 2021/6**: Báo CAA (消費者庁) trong 24 giờ kể từ khi quyết định recall.
+**BẮT BUỘC từ 2021/6**: Báo CAA (消費者庁) trong 24 giờ kể từ khi quyết định thu hồi.
 
 ```
-1. CAA report (web form)
-2. Khách hàng (email + điện thoại + visit)
-3. Press release (website công ty + SNS)
-4. Media (báo + TV nếu mức nặng)
+1. Báo cáo CAA (biểu mẫu web)
+2. Khách hàng (email + điện thoại + đến trực tiếp)
+3. Thông cáo báo chí (website công ty + SNS)
+4. Truyền thông (báo + TV nếu mức nặng)
 ```
 
-### 1.5 Phase 5: 回収 + KAIZEN
+### 1.5 Giai đoạn 5: 回収 + KAIZEN
 
 ```
 1. Thu hồi từ kệ siêu thị
@@ -89,7 +89,7 @@ Phase 5: 回収 + KAIZEN — thu hồi + cải tiến
 
 ### 2.3 KHÔNG được nói
 
-| ❌ Cấm | Lý do |
+|  Cấm | Lý do |
 |---|---|
 | <ruby>本当<rt>ほんとう</rt></ruby>にあるんですか? | Nghi ngờ khách = thảm hoạ |
 | <ruby>他<rt>ほか</rt></ruby>のお<ruby>客様<rt>きゃくさま</rt></ruby>からは... | So sánh với khách khác = tệ |
@@ -98,7 +98,7 @@ Phase 5: 回収 + KAIZEN — thu hồi + cải tiến
 
 ---
 
-## 3. 自主回収 (Voluntary Recall)
+## 3. 自主回収 (Thu hồi tự nguyện)
 
 ### 3.1 Định nghĩa
 
@@ -106,15 +106,15 @@ Phase 5: 回収 + KAIZEN — thu hồi + cải tiến
 
 → Hành động responsible. Báo CAA trong 24h là BẮT BUỘC LUẬT từ 2021/6.
 
-### 3.2 3 mức (Class)
+### 3.2 3 mức độ
 
-| Class | Tiếng Nhật | Mức nguy hiểm | Ví dụ |
+| Mức | Tiếng Nhật | Mức nguy hiểm | Ví dụ |
 |---|---|---|---|
 | I | <ruby>クラス<rt>くらす</rt></ruby> I | Có thể tử vong | Botulism, Listeria |
 | II | <ruby>クラス<rt>くらす</rt></ruby> II | Có thể bệnh | Salmonella, dị vật cứng |
-| III | <ruby>クラス<rt>くらす</rt></ruby> III | Vi phạm label, không nguy hại | Sai allergen label nhưng không có allergen |
+| III | <ruby>クラス<rt>くらす</rt></ruby> III | Vi phạm nhãn, không nguy hại | Sai nhãn chất gây dị ứng nhưng không có chất gây dị ứng |
 
-> Vụ của Hoa = **Class II** (dị vật kim loại, có thể gây thương tích miệng / nội tạng nếu nuốt)
+> Vụ của Hoa = **Mức II** (dị vật kim loại, có thể gây thương tích miệng / nội tạng nếu nuốt)
 
 ### 3.3 Báo CAA — Form online
 
@@ -124,8 +124,8 @@ URL: https://www.recall.caa.go.jp/
 Nội dung phải có:
 - Tên công ty + người chịu trách nhiệm
 - Sản phẩm (tên, lô, ngày SX, hạn dùng)
-- Lý do recall (mô tả lỗi)
-- Mức (Class I/II/III)
+- Lý do thu hồi (mô tả lỗi)
+- Mức (I/II/III)
 - Phạm vi (số lượng + khu vực)
 - Cách xử lý (đổi/hoàn tiền/tiêu huỷ)
 - Hotline cho khách
@@ -133,42 +133,42 @@ Nội dung phải có:
 
 ---
 
-## 4. 製造物責任法 (PL Law)
+## 4. 製造物責任法 (Luật Trách nhiệm Sản phẩm)
 
-### 4.1 PL Law là gì?
+### 4.1 Luật Trách nhiệm Sản phẩm là gì?
 
-製造物責任法 = Product Liability Act (1995) — Nhà sản xuất chịu trách nhiệm thiệt hại do sản phẩm gây ra cho khách hàng, **KHÔNG cần chứng minh nhà SX có lỗi (negligence)**.
+製造物責任法 = Luật Trách nhiệm Sản phẩm (1995) — Nhà sản xuất chịu trách nhiệm thiệt hại do sản phẩm gây ra cho khách hàng, **KHÔNG cần chứng minh nhà SX có lỗi (sơ suất)**.
 
-### 4.2 Điều kiện áp dụng PL Law
+### 4.2 Điều kiện áp dụng
 
 ```
 1. Có thiệt hại thực tế (sức khoẻ, tài sản, tính mạng)
-2. Sản phẩm có "khuyết tật" (defect)
+2. Sản phẩm có "khuyết tật"
 3. Có quan hệ nhân quả khuyết tật → thiệt hại
 ```
 
-### 4.3 3 loại defect
+### 4.3 3 loại khuyết tật
 
 | Loại | Tiếng Nhật | Ví dụ |
 |---|---|---|
 | Khuyết tật thiết kế | <ruby>設計上<rt>せっけいじょう</rt></ruby>の<ruby>欠陥<rt>けっかん</rt></ruby> | Công thức gây ngộ độc |
 | Khuyết tật sản xuất | <ruby>製造上<rt>せいぞうじょう</rt></ruby>の<ruby>欠陥<rt>けっかん</rt></ruby> | 1 lô bị nhiễm trùng (vụ Hoa) |
-| Khuyết tật cảnh báo | <ruby>表示上<rt>ひょうじじょう</rt></ruby>の<ruby>欠陥<rt>けっかん</rt></ruby> | Quên label allergen |
+| Khuyết tật cảnh báo | <ruby>表示上<rt>ひょうじじょう</rt></ruby>の<ruby>欠陥<rt>けっかん</rt></ruby> | Quên dán nhãn chất gây dị ứng |
 
 ### 4.4 Hậu quả
 
 - Bồi thường thiệt hại cá nhân
 - Bồi thường thiệt hại tài sản
-- Có thể bị kiện tập thể (class action) nếu nhiều khách
+- Có thể bị kiện tập thể nếu nhiều khách
 
 ---
 
-## 5. プレスリリース (Press Release)
+## 5. プレスリリース (Thông cáo báo chí)
 
 ### 5.1 Cấu trúc
 
 ```
-■ TITLE — Sự việc gì
+■ TIÊU ĐỀ — Sự việc gì
 ■ <ruby>件名<rt>けんめい</rt></ruby> — sản phẩm cụ thể
 ■ <ruby>原因<rt>げんいん</rt></ruby> — nguyên nhân
 ■ <ruby>対象範囲<rt>たいしょうはんい</rt></ruby> — lô / số lượng / khu vực
@@ -178,7 +178,7 @@ Nội dung phải có:
 ■ お<ruby>詫<rt>わ</rt></ruby>びの<ruby>言葉<rt>ことば</rt></ruby> — lời xin lỗi
 ```
 
-### 5.2 Mẫu Press Release của vụ Hoa
+### 5.2 Mẫu thông cáo báo chí của vụ Hoa
 
 ```
 ■ <ruby>自主回収<rt>じしゅかいしゅう</rt></ruby>のお<ruby>知<rt>し</rt></ruby>らせ
@@ -282,7 +282,7 @@ Nội dung phải có:
 > **Tanaka**: <ruby>緊急<rt>きんきゅう</rt></ruby>ミーティング、お<ruby>願<rt>ねが</rt></ruby>いします。<ruby>昨夜<rt>さくや</rt></ruby>、aeon さんから<ruby>連絡<rt>れんらく</rt></ruby>がありました。「<ruby>鶏<rt>とり</rt></ruby>そぼろ<ruby>弁当<rt>べんとう</rt></ruby>」のロット 20260720-A2-T3 に<ruby>金属<rt>きんぞく</rt></ruby><ruby>異物<rt>いぶつ</rt></ruby>の<ruby>可能性<rt>かのうせい</rt></ruby>。<ruby>該当<rt>がいとう</rt></ruby>5,000<ruby>個<rt>こ</rt></ruby>すべて<ruby>自主回収<rt>じしゅかいしゅう</rt></ruby>します。
 > *(Họp khẩn cấp. Tối qua aeon liên lạc. Lô bento gà bột 20260720-A2-T3 có khả năng dị vật kim loại. Sẽ thu hồi tất cả 5,000 hộp.)*
 >
-> *(Hoa giật mình — đó là line cô đứng tháng 7)*
+> *(Hoa giật mình — đó là dây chuyền cô đứng tháng 7)*
 >
 > **Hoa**: *(thì thầm)* ...あの、ロット...
 > *(Ờ... lô đó...)*
@@ -294,13 +294,13 @@ Nội dung phải có:
 > *(Em xin lỗi. Lô đó em phụ trách topping.)*
 >
 > **Tanaka**: そうか。ホアさん、<ruby>原因<rt>げんいん</rt></ruby>はまだ<ruby>分<rt>わ</rt></ruby>からない。<ruby>君<rt>きみ</rt></ruby>のせいかもしれないし、<ruby>機械<rt>きかい</rt></ruby>かもしれないし、<ruby>原料<rt>げんりょう</rt></ruby>かもしれない。<ruby>今<rt>いま</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>のせいかではなく、<ruby>回収<rt>かいしゅう</rt></ruby>を<ruby>速<rt>はや</rt></ruby>くやることが<ruby>大事<rt>だいじ</rt></ruby>。<ruby>君<rt>きみ</rt></ruby>はトレースロットの<ruby>確認<rt>かくにん</rt></ruby>を<ruby>佐藤<rt>さとう</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にやって。10<ruby>時<rt>じ</rt></ruby>までに<ruby>結果<rt>けっか</rt></ruby>を。
-> *(Vậy à. Hoa-san, nguyên nhân chưa rõ. Có thể tại em, có thể máy, có thể nguyên liệu. Bây giờ không phải vấn đề "ai", mà là RECALL nhanh. Em làm trace lot với Satou. Kết quả trước 10 giờ.)*
+> *(Vậy à. Hoa-san, nguyên nhân chưa rõ. Có thể tại em, có thể máy, có thể nguyên liệu. Bây giờ không phải vấn đề "ai", mà là THU HỒI nhanh. Em làm truy vết lô với Satou. Kết quả trước 10 giờ.)*
 >
 > **Hoa**: かしこまりました。<ruby>全力<rt>ぜんりょく</rt></ruby>で<ruby>対応<rt>たいおう</rt></ruby><ruby>致<rt>いた</rt></ruby>します。
 > *(Vâng ạ. Em sẽ làm hết sức.)*
 >
 > **Tanaka**: <ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>消費者庁<rt>しょうひしゃちょう</rt></ruby>に CAA <ruby>報告<rt>ほうこく</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>。<ruby>佐藤<rt>さとう</rt></ruby>さんはプレスリリース<ruby>下書<rt>したが</rt></ruby>き。<ruby>木村<rt>きむら</rt></ruby>さんは<ruby>店舗<rt>てんぽ</rt></ruby><ruby>連絡<rt>れんらく</rt></ruby>。みんな、<ruby>頑張<rt>がんば</rt></ruby>ろう。
-> *(Takahashi chuẩn bị báo cáo CAA. Satou viết draft press release. Kimura liên lạc cửa hàng. Mọi người, cùng cố gắng.)*
+> *(Takahashi chuẩn bị báo cáo CAA. Satou viết bản thảo thông cáo báo chí. Kimura liên lạc cửa hàng. Mọi người, cùng cố gắng.)*
 
 ### Phân tích
 
@@ -313,12 +313,12 @@ Nội dung phải có:
 
 ## 9. So sánh / Phân tích lỗi
 
-| ❌ SAI | ✅ ĐÚNG |
+| Cách nói SAI | Cách nói ĐÚNG |
 |---|---|
 | <ruby>機械<rt>きかい</rt></ruby>のせいだと<ruby>思<rt>おも</rt></ruby>います | <ruby>原因<rt>げんいん</rt></ruby>を<ruby>調査<rt>ちょうさ</rt></ruby><ruby>致<rt>いた</rt></ruby>します |
-| (Đoán + đổ lỗi) | (Hứa investigate) |
-| すみません (cho recall) | <ruby>心<rt>こころ</rt></ruby>よりお<ruby>詫<rt>わ</rt></ruby>び<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます |
-| (Quá nhẹ cho crisis) | (Cấp độ phù hợp) |
+| (Đoán + đổ lỗi) | (Hứa điều tra) |
+| すみません (cho tình huống thu hồi) | <ruby>心<rt>こころ</rt></ruby>よりお<ruby>詫<rt>わ</rt></ruby>び<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます |
+| (Quá nhẹ cho khủng hoảng) | (Cấp độ phù hợp) |
 | <ruby>明日<rt>あす</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby>します | <ruby>緊急<rt>きんきゅう</rt></ruby>のご<ruby>報告<rt>ほうこく</rt></ruby>がございます |
 | (Đợi = nguy hiểm) | (Khẩn cấp) |
 | CAA <ruby>報告<rt>ほうこく</rt></ruby>は<ruby>後<rt>あと</rt></ruby>でいいです | 24<ruby>時間以内<rt>じかんいない</rt></ruby>に CAA に<ruby>報告<rt>ほうこく</rt></ruby> |
@@ -326,7 +326,7 @@ Nội dung phải có:
 
 ---
 
-## 10. 📖 Vocab khủng hoảng
+## 10. Vocab khủng hoảng
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -343,43 +343,43 @@ Nội dung phải có:
 
 ## 11. Tổng kết
 
-- **Recall 5 phases**: 検出 → 調査 → 判断 → 通知 → 回収+KAIZEN
-- **CAA report**: BẮT BUỘC trong 24h kể từ 2021/6
-- **3 Class**: I (tử vong) / II (bệnh) / III (label)
-- **PL Law**: Nhà SX chịu trách nhiệm KHÔNG cần chứng minh negligence
+- **Thu hồi 5 giai đoạn**: 検出 → 調査 → 判断 → 通知 → 回収+KAIZEN
+- **Báo cáo CAA**: BẮT BUỘC trong 24h kể từ 2021/6
+- **3 mức độ**: I (tử vong) / II (bệnh) / III (nhãn)
+- **Luật Trách nhiệm Sản phẩm**: Nhà SX chịu trách nhiệm KHÔNG cần chứng minh sơ suất
 - **Xin lỗi cấp cao**: 心よりお詫び申し上げます / 重く受け止めております
 - **Hou-ren-sou khẩn**: BÁO NGAY, KHÔNG đợi cuối ca
 
-> **Quy tắc vàng:** *Trong crisis, "tốc độ + minh bạch" cứu được công ty. Che giấu = scandal. Chậm chạp = mất niềm tin.*
+> **Quy tắc vàng:** *Trong khủng hoảng, "tốc độ + minh bạch" cứu được công ty. Che giấu = bê bối. Chậm chạp = mất niềm tin.*
 
 ---
 
-## 12. 💡 Mẹo ghi nhớ
+## 12. Mẹo ghi nhớ
 
 | Mẹo | Nội dung |
 |---|---|
-| 🔺 24h Rule | Quyết định recall → báo CAA trong 24 giờ |
-| 🔻 Crisis communication | "事実 + お詫び + 対策" — Fact + Apology + Action |
-| 💡 Khi sợ báo | Tự hỏi: "Im lặng có cứu vãn được không?" — KHÔNG → báo ngay |
-| ⚠️ KHÔNG nói "他のお客様は..." | So sánh khách = tăng anger 10x |
+|  Quy tắc 24h | Quyết định thu hồi → báo CAA trong 24 giờ |
+|  Truyền thông khủng hoảng | "事実 + お詫び + 対策" — Sự thật + Xin lỗi + Hành động |
+|  Khi sợ báo | Tự hỏi: "Im lặng có cứu vãn được không?" — KHÔNG → báo ngay |
+|  KHÔNG nói "他のお客様は..." | So sánh khách = tăng tức giận 10x |
 
 ---
 
-## ✅ Mini check
+## Tự kiểm tra nhanh
 
-1. CAA report sau quyết định recall phải nộp trong:
-   - A. 24 giờ
-   - B. 48 giờ
-   - C. 1 tuần
+1. Báo cáo CAA sau quyết định thu hồi phải nộp trong:
+ - A. 24 giờ
+ - B. 48 giờ
+ - C. 1 tuần
 
-2. Mức Class II của recall là:
-   - A. Có thể tử vong
-   - B. Có thể bệnh / bị thương
-   - C. Sai label nhưng không nguy hại
+2. Mức II của thu hồi sản phẩm là:
+ - A. Có thể tử vong
+ - B. Có thể bệnh / bị thương
+ - C. Sai nhãn nhưng không nguy hại
 
-3. PL Law có nghĩa là:
-   - A. Khách phải chứng minh nhà SX có lỗi
-   - B. Nhà SX chịu trách nhiệm KHÔNG cần chứng minh negligence
-   - C. Recall là tự nguyện
+3. Luật Trách nhiệm Sản phẩm có nghĩa là:
+ - A. Khách phải chứng minh nhà SX có lỗi
+ - B. Nhà SX chịu trách nhiệm KHÔNG cần chứng minh sơ suất
+ - C. Thu hồi là tự nguyện
 
 *(Đáp án: 1A, 2B, 3B)*

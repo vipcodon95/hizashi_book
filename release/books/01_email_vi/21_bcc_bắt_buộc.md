@@ -1,6 +1,6 @@
 ---
-id: 8001021
-curriculum_id: 8001
+id: 810000021
+curriculum_id: 800000001
 order_index: 21
 node_type: rule
 title: "Rule 21 — BCC bắt buộc khi gửi hàng loạt tới nhóm không liên quan nhau"

@@ -108,12 +108,12 @@ Tháng 8 năm 2027. Hoa đã sang Nhật năm thứ hai, làm tại xưởng th�
 | Kondo | <ruby>一度<rt>いちど</rt></ruby><ruby>習<rt>なら</rt></ruby>ったことを、もう<ruby>一度<rt>いちど</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>することです。「<ruby>復<rt>ふく</rt></ruby>」は<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>す、「<ruby>習<rt>しゅう</rt></ruby>」は<ruby>習<rt>なら</rt></ruby>うです。<br>*(Là xác nhận lại điều đã học một lần. "復" là lặp lại, "習" là học.)* |
 | Hoa | なるほど、<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>し<ruby>習<rt>なら</rt></ruby>うということですね。ありがとうございます。<br>*(À ra vậy, là học đi học lại đúng không ạ. Em cảm ơn thầy.)* |
 | Hoa | <ruby>最後<rt>さいご</rt></ruby>、<ruby>5<rt>いつ</rt></ruby>つ<ruby>目<rt>め</rt></ruby>です。<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みの<ruby>方法<rt>ほうほう</rt></ruby>は?<br>*(Cuối cùng, câu thứ năm ạ. Cách đăng ký?)* |
-| Kondo | <ruby>埼玉県食品衛生協会<rt>さいたまけんしょくひんえいせいきょうかい</rt></ruby>のサイトからオンラインで<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>めます。リンクをメールでお<ruby>送<rt>おく</rt></ruby>りします。<br>*(Đăng ký online từ trang web Hiệp hội Vệ sinh Thực phẩm Saitama. Tôi sẽ gửi link qua email.)* |
+| Kondo | <ruby>埼玉県食品衛生協会<rt>さいたまけんしょくひんえいせいきょうかい</rt></ruby>のサイトからオンラインで<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>めます。リンクをメールでお<ruby>送<rt>おく</rt></ruby>りします。<br>*(Đăng ký trực tuyến từ trang web Hiệp hội Vệ sinh Thực phẩm Saitama. Tôi sẽ gửi link qua email.)* |
 | Hoa | <ruby>本当<rt>ほんとう</rt></ruby>にありがとうございます。<ruby>頭<rt>あたま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>がすっきりしました。<br>*(Em thực sự cảm ơn thầy. Đầu em sáng ra rồi ạ.)* |
 
 ---
 
-## Tình huống 7 — Phòng Hoa · 15:30, Kondo dạy mindset cuối buổi
+## Tình huống 7 — Phòng Hoa · 15:30, Kondo dạy tâm thế cuối buổi
 
 | Vai | Lời thoại |
 |---|---|
@@ -130,7 +130,7 @@ Tháng 8 năm 2027. Hoa đã sang Nhật năm thứ hai, làm tại xưởng th�
 
 ---
 
-## Tình huống 8 — Phòng Hoa · 16:00, đăng ký online + đọc form bằng tiếng Nhật
+## Tình huống 8 — Phòng Hoa · 16:00, đăng ký trực tuyến + đọc form bằng tiếng Nhật
 
 | Vai | Lời thoại |
 |---|---|
@@ -193,7 +193,7 @@ Hoa trải qua một bước ngoặt nghề nghiệp: chủ động xin tư vấ
 
 ## Bí quyết chương
 
-- **Pattern chủ động xin tư vấn**: xin 1 phút (ちょっとよろしいでしょうか) → nêu nguyện vọng + động cơ (きっかけ) → hỏi xác nhận chi tiết (料金・期間・レベル) → cảm ơn.
+- **Mẫu chủ động xin tư vấn**: xin 1 phút (ちょっとよろしいでしょうか) → nêu nguyện vọng + động cơ (きっかけ) → hỏi xác nhận chi tiết (料金・期間・レベル) → cảm ơn.
 - **Quan sát đàn anh gọi 先生 ngoài tổ chức**: お世話になっております / 今お時間よろしいでしょうか / 失礼いたします — bộ ba câu thoại điện thoại công sở.
 - **Chuẩn bị 5 câu trước khi gặp 先生**: kỹ năng "面談 chuyên nghiệp" — sẽ thấy kết quả khi Hoa làm 正社員 sau này.
 - **Bí quyết nghề**: 「準備する人は合格する」 — dán tường, mantra cả năm 2.
@@ -231,7 +231,7 @@ Hoa trải qua một bước ngoặt nghề nghiệp: chủ động xin tư vấ
 | 受講 | じゅこう | THỤ GIẢNG | Tham gia khoá học |
 | 面談 | めんだん | DIỆN ĐÀM | Buổi gặp trao đổi |
 | 過去問 | かこもん | QUÁ KHỨ VẤN | Đề thi các năm trước |
-| 申し込み | もうしこみ | THÂN ÁP | Đăng ký |
+| 申し込み | もうしこみ | THÂN | Đăng ký |
 | 専門用語 | せんもんようご | CHUYÊN MÔN DỤNG NGỮ | Thuật ngữ chuyên môn |
 | 復習 | ふくしゅう | PHỤC TẬP | Ôn lại |
 | 連絡先 | れんらくさき | LIÊN LẠC TIÊN | Thông tin liên lạc |

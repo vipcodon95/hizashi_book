@@ -1,6 +1,6 @@
 ---
-id: 8001020
-curriculum_id: 8001
+id: 810000020
+curriculum_id: 800000001
 order_index: 20
 node_type: rule
 title: "Rule 20 — CC có tâm: giới thiệu người thứ ba trong body mail"

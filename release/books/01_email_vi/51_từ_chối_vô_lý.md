@@ -1,6 +1,6 @@
 ---
-id: 8001051
-curriculum_id: 8001
+id: 810000051
+curriculum_id: 800000001
 order_index: 51
 node_type: rule
 title: "Rule 50 — Từ chối yêu cầu vô lý: đứng ở góc người nhờ, giải thích hệ quả"

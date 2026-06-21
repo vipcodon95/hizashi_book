@@ -1,6 +1,6 @@
 # T7. Mùa thu — Lễ hội & Đời sống (秋祭りと暮らし)
 
-> **Mục tiêu:** Học casual JP (formal vs casual phân biệt), Saitama dialect nhẹ, cách xin 有休 (yuukyuu), vocab matsuri (屋台/神輿/浴衣), và đọc 給与明細 (pay slip).
+> **Mục tiêu:** Học casual JP (formal vs casual phân biệt), Saitama dialect nhẹ, cách xin 有休 (yuukyuu), từ vựng matsuri (屋台/神輿/浴衣), và đọc 給与明細 (phiếu lương).
 
 ---
 
@@ -15,8 +15,8 @@ Tháng 10. Mùa cao điểm cơm hộp (lễ hội + Halloween + tour mùa thu) 
 ### 1.1 Quy tắc cốt lõi
 
 ```
-Trong nhà máy / với sếp     → FORMAL (です/ます)
-Ký túc / với bạn / matsuri  → CASUAL OK
+Trong nhà máy / với sếp → FORMAL (です/ます)
+Ký túc / với bạn / matsuri → CASUAL OK
 ```
 
 ### 1.2 Bảng đối chiếu formal vs casual
@@ -37,7 +37,7 @@ Ký túc / với bạn / matsuri  → CASUAL OK
 - **「~わよ」「~かしら」「~なの」** — phong cách nữ truyền thống, phụ nữ trẻ Nhật ngày nay ít dùng
 - **An toàn cho TTS nữ**: dùng casual neutral — bỏ ます/です nhưng KHÔNG thêm particle gender
 
-> 💡 Hoa ở matsuri có thể nói "<ruby>美味<rt>おい</rt></ruby>しい!" thay vì "<ruby>美味<rt>おい</rt></ruby>しいですね!" — tự nhiên hơn nhiều.
+> Hoa ở matsuri có thể nói "<ruby>美味<rt>おい</rt></ruby>しい!" thay vì "<ruby>美味<rt>おい</rt></ruby>しいですね!" — tự nhiên hơn nhiều.
 
 ---
 
@@ -45,9 +45,9 @@ Ký túc / với bạn / matsuri  → CASUAL OK
 
 ### 2.1 Đặc điểm
 
-Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có vài expression nhẹ:
+Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có vài cách nói địa phương nhẹ:
 
-| Saitama | Standard | Nghĩa |
+| Tiếng Saitama | Tiếng chuẩn | Nghĩa |
 |---|---|---|
 | ~だべ | ~でしょう | ... phải không / chắc là |
 | ~なんだよね | ~なんですよ | Nói thật là ~ |
@@ -62,7 +62,7 @@ Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có 
 | この<ruby>店<rt>みせ</rt></ruby>、<ruby>有名<rt>ゆうめい</rt></ruby>なんだよね。 | Quán này nổi tiếng đấy. |
 | そうじゃん。 | Thì đúng rồi mà. |
 
-> 💡 Yamada-san người Saitama gốc, hay dùng "~だべ". Hoa nghe + hiểu là đủ, không cần học để dùng (có thể nghe lạ tai khi người nước ngoài dùng dialect).
+> Yamada-san người Saitama gốc, hay dùng "~だべ". Hoa nghe + hiểu là đủ, không cần học để dùng (có thể nghe lạ tai khi người nước ngoài dùng dialect).
 
 ---
 
@@ -92,7 +92,7 @@ Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có 
 | Lý do (optional) | <ruby>東京<rt>とうきょう</rt></ruby>に<ruby>用事<rt>ようじ</rt></ruby>がありまして... |
 | Cảm ơn | ありがとうございます。 |
 
-> 💡 Luật KHÔNG yêu cầu nói lý do. Nhưng văn hoá Nhật → nói lý do "用事" (việc riêng) cho lịch sự.
+> Luật KHÔNG yêu cầu nói lý do. Nhưng văn hoá Nhật → nói lý do "用事" (việc riêng) cho lịch sự.
 
 ### 3.4 Khi nào KHÔNG nên xin
 
@@ -109,7 +109,7 @@ Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
 | <ruby>祭<rt>まつ</rt></ruby>り | matsuri | Lễ hội |
-| <ruby>屋台<rt>やたい</rt></ruby> | yatai | Quầy hàng (food stall) |
+| <ruby>屋台<rt>やたい</rt></ruby> | yatai | Quầy hàng (gian hàng ăn) |
 | <ruby>神輿<rt>みこし</rt></ruby> | mikoshi | Kiệu rước thần |
 | <ruby>山車<rt>だし</rt></ruby> | dashi | Xe rước (gỗ to, đặc trưng Kawagoe) |
 | <ruby>花火<rt>はなび</rt></ruby> | hanabi | Pháo hoa |
@@ -148,7 +148,7 @@ Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có 
 | 基本給 | Lương cơ bản (¥1,141 × 173.8h) | ¥198,300 |
 | 残業手当 | Phụ cấp tăng ca | ¥38,000 |
 | 通勤手当 | Trợ cấp đi lại | ¥10,000 |
-| | **Subtotal** | **¥246,300** |
+| | **Tổng cộng** | **¥246,300** |
 
 **【控除】 Khấu trừ:**
 
@@ -160,7 +160,7 @@ Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có 
 | 所得税 | Thuế thu nhập | ¥5,000 |
 | 住民税 | Thuế cư trú | ¥6,500 |
 | 寮費 | Tiền ký túc | ¥30,000 |
-| | **Subtotal** | **¥71,000** |
+| | **Tổng cộng** | **¥71,000** |
 
 **【手取り】 Tiền cầm về thực tế: ¥175,300**
 
@@ -208,7 +208,7 @@ Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có 
 > *(Vâng, em muốn đi Tokyo gặp bạn. Là ngày sau Kawagoe Matsuri ạ...)*
 >
 > **Suzuki**: あ、<ruby>祭<rt>まつ</rt></ruby>りの<ruby>後<rt>あと</rt></ruby>ね。<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>。<ruby>申請書<rt>しんせいしょ</rt></ruby>を<ruby>書<rt>か</rt></ruby>いて、ライン<ruby>長<rt>ちょう</rt></ruby>の<ruby>佐藤<rt>さとう</rt></ruby>さんにも<ruby>伝<rt>つた</rt></ruby>えておいて。
-> *(À, sau lễ hội. Được. Viết đơn đi, nhớ báo cả Satou-san trưởng line.)*
+> *(À, sau lễ hội. Được. Viết đơn đi, nhớ báo cả Satou-san trưởng dây chuyền.)*
 >
 > **Hoa**: ありがとうございます。すぐに<ruby>書<rt>か</rt></ruby>かせていただきます。
 > *(Cảm ơn anh. Em viết ngay.)*
@@ -221,13 +221,13 @@ Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có 
 - 「ちょっとよろしいでしょうか」 = câu mở chuẩn khi muốn xin gì
 - 「~たいんですが、よろしいでしょうか」 = cấu trúc xin phép lịch sự nhất
 - Hoa nói lý do "東京に友達" → không bắt buộc nhưng được lòng
-- 「<ruby>書<rt>か</rt></ruby>かせていただきます」 = saseteitadakimasu form — cực kỳ khiêm nhường
+- 「<ruby>書<rt>か</rt></ruby>かせていただきます」 = dạng saseteitadakimasu — cực kỳ khiêm nhường
 
 ---
 
 ## 7. So sánh / Phân tích lỗi
 
-| ❌ SAI | ✅ ĐÚNG |
+| Cách nói SAI | Cách nói ĐÚNG |
 |---|---|
 | <ruby>明日<rt>あした</rt></ruby><ruby>休<rt>やす</rt></ruby>みます | <ruby>明日<rt>あした</rt></ruby>、<ruby>有休<rt>ゆうきゅう</rt></ruby>を<ruby>取<rt>と</rt></ruby>らせていただきたいです |
 | (Báo phút chót, sai luật) | (Báo trước, lịch sự) |
@@ -240,7 +240,7 @@ Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có 
 
 ---
 
-## 8. 📖 Vocab hôm nay
+## 8. Vocab hôm nay
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -267,32 +267,32 @@ Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có 
 
 ---
 
-## 10. 💡 Mẹo ghi nhớ
+## 10. Mẹo ghi nhớ
 
 | Mẹo | Nội dung |
 |---|---|
-| 🔺 Formal vs Casual | "Mặt áo công ty = formal. Mặt áo thường = casual" |
-| 🔻 Yuukyuu | 10 ngày/năm. Tích luỹ tối đa 2 năm |
-| 💡 Gửi tiền VN | Wise app — phí thấp, tỉ giá tốt nhất |
-| ⚠️ KHÔNG xin yuukyuu sát ngày | Min 3 ngày trước. Tốt nhất 1 tuần |
+|  Formal vs Casual | "Mặt áo công ty = formal. Mặt áo thường = casual" |
+|  Yuukyuu | 10 ngày/năm. Tích luỹ tối đa 2 năm |
+|  Gửi tiền VN | Wise app — phí thấp, tỉ giá tốt nhất |
+|  KHÔNG xin yuukyuu sát ngày | Min 3 ngày trước. Tốt nhất 1 tuần |
 
 ---
 
-## ✅ Mini check
+## Tự kiểm tra nhanh
 
 1. Sau bao lâu làm việc thì TTS được yuukyuu?
-   - A. 1 tháng
-   - B. 6 tháng
-   - C. 1 năm
+ - A. 1 tháng
+ - B. 6 tháng
+ - C. 1 năm
 
 2. "美味しいですね" trong casual nữ:
-   - A. うめぇ
-   - B. <ruby>美味<rt>おい</rt></ruby>しい
-   - C. うまいぞ
+ - A. うめぇ
+ - B. <ruby>美味<rt>おい</rt></ruby>しい
+ - C. うまいぞ
 
 3. 川越祭り tổ chức ở đâu?
-   - A. Tokyo
-   - B. Saitama
-   - C. Kanagawa
+ - A. Tokyo
+ - B. Saitama
+ - C. Kanagawa
 
 *(Đáp án: 1B, 2B, 3B)*

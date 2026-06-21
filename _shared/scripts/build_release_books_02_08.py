@@ -30,6 +30,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from normalize_release import normalize_text  # noqa: E402
+from book_id_utils import make_book_id, make_id  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent.parent
 RELEASE_ROOT = ROOT / "release" / "books"
@@ -52,49 +53,49 @@ BOOKS: list[dict] = [
     {
         "source_slug": "02_phone",
         "release_slug": "02_phone",
-        "curriculum_id": 8003,
+        "book_seq": 3,
         "title_vi": "Điện thoại Công Việc",
         "title_jp": "電話応対",
     },
     {
         "source_slug": "03_meeting",
         "release_slug": "03_meeting",
-        "curriculum_id": 8004,
+        "book_seq": 4,
         "title_vi": "Họp",
         "title_jp": "会議",
     },
     {
         "source_slug": "04_horenso",
         "release_slug": "04_horenso",
-        "curriculum_id": 8005,
+        "book_seq": 5,
         "title_vi": "Báo · Liên · Tham vấn",
         "title_jp": "報・連・相",
     },
     {
         "source_slug": "05_presentation",
         "release_slug": "05_presentation",
-        "curriculum_id": 8006,
+        "book_seq": 6,
         "title_vi": "Thuyết trình",
         "title_jp": "プレゼンテーション",
     },
     {
         "source_slug": "06_negotiation",
         "release_slug": "06_negotiation",
-        "curriculum_id": 8007,
+        "book_seq": 7,
         "title_vi": "Đàm phán · Đề xuất",
         "title_jp": "商談・交渉",
     },
     {
         "source_slug": "07_visit_card",
         "release_slug": "07_visit_card",
-        "curriculum_id": 8008,
+        "book_seq": 8,
         "title_vi": "Tiếp khách · Thăm · Danh thiếp",
         "title_jp": "来客・訪問・名刺交換",
     },
     {
         "source_slug": "08_smalltalk",
         "release_slug": "08_smalltalk",
-        "curriculum_id": 8009,
+        "book_seq": 9,
         "title_vi": "Trò chuyện thân thiết",
         "title_jp": "雑談・関係構築",
     },
@@ -158,11 +159,13 @@ def extract_title(body: str) -> str:
     return m.group(1).strip()
 
 
-def build_frontmatter(node_id: int, order_index: int, rule: dict, title_full: str) -> str:
+def build_frontmatter(
+    node_id: int, curriculum_id: int, order_index: int, rule: dict, title_full: str
+) -> str:
     fm_lines = [
         "---",
         f"id: {node_id}",
-        f"curriculum_id: {node_id // 1000}",
+        f"curriculum_id: {curriculum_id}",
         f"order_index: {order_index}",
         "node_type: rule",
         f"title: {json.dumps(title_full, ensure_ascii=False)}",
@@ -178,7 +181,7 @@ def build_frontmatter(node_id: int, order_index: int, rule: dict, title_full: st
 
 def build_book_json(book_cfg: dict, rules_with_id: list[dict]) -> dict:
     return {
-        "id": book_cfg["curriculum_id"],
+        "id": make_book_id(book_cfg["book_seq"]),
         "title_vi": book_cfg["title_vi"],
         "title_jp": book_cfg["title_jp"],
         "language": "bilingual",
@@ -216,14 +219,15 @@ def build_one_book(book_cfg: dict) -> tuple[int, int, int]:
         raise RuntimeError(f"Không tìm thấy rule trong {book_source}")
 
     rules_with_id: list[dict] = []
-    cur_id = book_cfg["curriculum_id"]
+    book_seq = book_cfg["book_seq"]
+    cur_id = make_book_id(book_seq)
     for idx, rule in enumerate(rules, start=1):
-        node_id = cur_id * 1000 + idx
+        node_id = make_id(book_seq, idx)
         raw = rule["source_path"].read_text(encoding="utf-8")
         body = clean_body(raw)
         title_full = extract_title(body)
 
-        frontmatter = build_frontmatter(node_id, idx, rule, title_full)
+        frontmatter = build_frontmatter(node_id, cur_id, idx, rule, title_full)
         out_filename = f"{idx:02d}_{rule['slug']}.md"
         out_path = release_dir / out_filename
         out_path.write_text(frontmatter + body, encoding="utf-8")

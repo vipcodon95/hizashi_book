@@ -1,6 +1,6 @@
 ---
-id: 8001015
-curriculum_id: 8001
+id: 810000015
+curriculum_id: 800000001
 order_index: 15
 node_type: rule
 title: "Rule 15 — Thân mail đi theo trục Kết luận → Lý do → Chi tiết, không ngược lại"
@@ -10,7 +10,7 @@ part_original: "phần_I"
 language: vi
 ---
 # Rule 15 — Thân mail đi theo trục Kết luận → Lý do → Chi tiết, không ngược lại
-> **Luận điểm.** Khi viết báo chí có khái niệm **"kim tự tháp ngược"** (*inverted pyramid*): đưa thông tin quan trọng nhất lên đầu, thông tin bổ sung xuống đuôi. Email chuyên nghiệp đi theo đúng logic đó — **Kết luận trước, Lý do giữa, Chi tiết cuối**. Người bận đọc đến đâu cũng đủ hiểu để hành động.
+> **Luận điểm.** Khi viết báo chí có khái niệm **"kim tự tháp ngược"**: đưa thông tin quan trọng nhất lên đầu, thông tin bổ sung xuống đuôi. Email chuyên nghiệp đi theo đúng logic đó — **Kết luận trước, Lý do giữa, Chi tiết cuối**. Người bận đọc đến đâu cũng đủ hiểu để hành động.
 >
 > Từ khóa của rule này: **"kim tự tháp ngược"**.
 

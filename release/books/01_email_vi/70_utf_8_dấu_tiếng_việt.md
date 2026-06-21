@@ -1,6 +1,6 @@
 ---
-id: 8001070
-curriculum_id: 8001
+id: 810000070
+curriculum_id: 800000001
 order_index: 70
 node_type: rule
 title: "Rule 69 — UTF-8 và kiểm tra dấu tiếng Việt khi gửi ra nước ngoài"

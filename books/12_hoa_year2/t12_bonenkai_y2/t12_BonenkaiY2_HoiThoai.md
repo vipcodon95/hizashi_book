@@ -154,7 +154,7 @@ Cuối tháng 3 năm 2028. Hoa đã đi qua năm 2 tại nhà máy thực phẩm
 
 | Vai | Lời thoại |
 |---|---|
-| Suzuki | ホアさん、<ruby>来年<rt>らいねん</rt></ruby>の<ruby>監査<rt>かんさ</rt></ruby>では「<ruby>是正処置<rt>ぜせいしょち</rt></ruby>」もチェックされるよ。<ruby>覚<rt>おぼ</rt></ruby>えておいてね。<br>*(Hoa-san, kỳ kiểm tra năm sau cũng sẽ check "biện pháp khắc phục" nhé. Nhớ đấy.)* |
+| Suzuki | ホアさん、<ruby>来年<rt>らいねん</rt></ruby>の<ruby>監査<rt>かんさ</rt></ruby>では「<ruby>是正処置<rt>ぜせいしょち</rt></ruby>」もチェックされるよ。<ruby>覚<rt>おぼ</rt></ruby>えておいてね。<br>*(Hoa-san, kỳ kiểm tra năm sau cũng sẽ rà soát "biện pháp khắc phục" nhé. Nhớ đấy.)* |
 | Hoa | すみません、<ruby>鈴木<rt>すずき</rt></ruby>さん。「<ruby>是正処置<rt>ぜせいしょち</rt></ruby>」というのは、どんな<ruby>意味<rt>いみ</rt></ruby>ですか?<br>*(Xin lỗi anh Suzuki. "Biện pháp khắc phục" nghĩa là gì ạ?)* |
 | Suzuki | <ruby>問題<rt>もんだい</rt></ruby>が<ruby>起<rt>お</rt></ruby>きた<ruby>時<rt>とき</rt></ruby>に、<ruby>原因<rt>げんいん</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べて、もう<ruby>二度<rt>にど</rt></ruby>と<ruby>起<rt>お</rt></ruby>こさないように<ruby>手<rt>て</rt></ruby>を<ruby>打<rt>う</rt></ruby>つことです。<br>*(Khi vấn đề xảy ra, điều tra nguyên nhân và đưa ra biện pháp để không lặp lại lần nữa.)* |
 | Hoa | <ruby>原因<rt>げんいん</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べて<ruby>再発<rt>さいはつ</rt></ruby><ruby>防止<rt>ぼうし</rt></ruby>する、ということですね。<br>*(Tức là điều tra nguyên nhân và phòng tránh tái phát, đúng không ạ?)* |
@@ -338,7 +338,7 @@ Cuối năm 2, Hoa khép lại một năm tài khoá đầy biến động bằn
 | 楽しみ | たのしみ | LẠC | Mong chờ |
 | 一年半 | いちねんはん | NHẤT NIÊN BÁN | Một năm rưỡi |
 | 世代 | せだい | THẾ ĐẠI | Thế hệ |
-| 記念写真 | きねんしゃしん | KỶ NIỆM XẢ CHÂN | Ảnh kỷ niệm |
+| 記念写真 | きねんしゃしん | KỶ NIỆM TẢ CHÂN | Ảnh kỷ niệm |
 | 撮る | とる | TRÁC | Chụp ảnh |
 | 光景 | こうけい | QUANG CẢNH | Quang cảnh |
 | 邪魔 | じゃま | TÀ MA | Quấy quả, làm phiền |

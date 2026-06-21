@@ -1,6 +1,6 @@
 ---
-id: 8001045
-curriculum_id: 8001
+id: 810000045
+curriculum_id: 800000001
 order_index: 45
 node_type: rule
 title: "Rule 45 — Viết cho cấp trên: tránh cụm mang hàm ý ra lệnh, dùng đề nghị"

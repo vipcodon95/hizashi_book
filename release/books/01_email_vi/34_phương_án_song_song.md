@@ -1,6 +1,6 @@
 ---
-id: 8001034
-curriculum_id: 8001
+id: 810000034
+curriculum_id: 800000001
 order_index: 34
 node_type: rule
 title: "Rule 34 — Nhiều phương án → trình bày song song, đồng dạng"

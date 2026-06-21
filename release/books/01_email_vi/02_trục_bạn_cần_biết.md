@@ -1,6 +1,6 @@
 ---
-id: 8001002
-curriculum_id: 8001
+id: 810000002
+curriculum_id: 800000001
 order_index: 2
 node_type: rule
 title: "Rule 02 — Đổi trục câu từ \"tôi muốn\" sang \"bạn cần biết\""

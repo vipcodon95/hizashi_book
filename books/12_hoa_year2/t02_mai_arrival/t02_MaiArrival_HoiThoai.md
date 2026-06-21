@@ -272,7 +272,7 @@ Ngày đầu Mai đến Saitama, Hoa lần đầu đứng vị trí sempai và h
 
 ## Bí quyết chương
 
-- Mirror sempai cũ: cách 鈴木 đón Hoa năm ngoái → cách Hoa đón Mai năm nay.
+- Lặp lại hình mẫu đàn anh cũ: cách 鈴木 đón Hoa năm ngoái → cách Hoa đón Mai năm nay.
 - "やさしい日本語" = 3 ポイント: câu ngắn + ngôn từ đơn giản + nói chậm + cười.
 - Khi kohai gọi "姉さん/chị" lần đầu = dấu hiệu đã xây được lòng tin.
 - Sempai tốt là sempai cho phép kohai "泣いてもいい" — có không gian để có cảm xúc.
@@ -311,7 +311,7 @@ Ngày đầu Mai đến Saitama, Hoa lần đầu đứng vị trí sempai và h
 | 便利 | べんり | TIỆN LỢI | Tiện lợi |
 | 洗濯機 | せんたくき | TẨY TRẠCH CƠ | Máy giặt |
 | 共用 | きょうよう | CỘNG DỤNG | Dùng chung |
-| 以降 | いこう | DĨ HÀNG | Sau (mốc thời gian) |
+| 以降 | いこう | DĨ GIÁNG | Sau (mốc thời gian) |
 | 料理 | りょうり | LIỆU LÝ | Món ăn, nấu ăn |
 | 洗剤 | せんざい | TẨY TỄ | Bột giặt, nước giặt |
 | 液体 | えきたい | DỊCH THỂ | Chất lỏng |

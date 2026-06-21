@@ -1,6 +1,6 @@
 ---
-id: 8001038
-curriculum_id: 8001
+id: 810000038
+curriculum_id: 800000001
 order_index: 38
 node_type: rule
 title: "Rule 38 — Mail lần đầu liên hệ: giới thiệu 3 điểm \"ai — từ đâu — sao có email này\""

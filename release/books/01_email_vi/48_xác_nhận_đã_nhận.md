@@ -1,6 +1,6 @@
 ---
-id: 8001048
-curriculum_id: 8001
+id: 810000048
+curriculum_id: 800000001
 order_index: 48
 node_type: rule
 title: "Rule 47 — Mail quan trọng: nhờ xác nhận đã nhận rõ ràng, không phải \"đã đọc\""

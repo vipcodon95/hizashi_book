@@ -13,7 +13,7 @@ ID schema (NEW format, chuẩn 8 + STT 2 chữ số):
                        kind: 1=BaiTap, 2=Mogishiken
   question_sets    = 8011 0 {topic:1d} {kind:1d} {level:1d}  vd 801101110
 
-Đọc nguồn từ books/11_jisshusei_shokuhin/<module_folder>/*.json
+Đọc nguồn từ books/11_hoa_year1/<module_folder>/*.json
 Format JSON theo skill `study-course-questions-builder` (mới, không phải _normalized cũ).
 """
 from __future__ import annotations
@@ -22,7 +22,7 @@ import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-BOOK_DIR = ROOT / "books" / "11_jisshusei_shokuhin"
+BOOK_DIR = ROOT / "books" / "11_hoa_year1"
 SQL_OUT_DIR = ROOT / "release" / "jisshusei_shokuhin_sql"
 
 COURSE_ID = 8011
@@ -508,7 +508,7 @@ def main():
     lines = []
     lines.append("-- Hizashi — Một Năm của Hoa: Nhật Ký Thực Tập Sinh Ngành Thực Phẩm")
     lines.append(f"-- course_id = {COURSE_ID}, modules = 8011001..8011012")
-    lines.append("-- Generated từ _shared/scripts/build_sql_jisshusei_shokuhin.py")
+    lines.append("-- Generated từ _shared/scripts/build_sql_hoa_year1.py")
     lines.append("-- KHÔNG sửa thủ công.")
     lines.append("")
     lines.append("BEGIN;")

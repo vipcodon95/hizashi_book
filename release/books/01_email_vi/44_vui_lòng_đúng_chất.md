@@ -1,6 +1,6 @@
 ---
-id: 8001044
-curriculum_id: 8001
+id: 810000044
+curriculum_id: 800000001
 order_index: 44
 node_type: rule
 title: "Rule 44 — \"Vui lòng\" dùng nhiều thành rỗng — khi nào dùng cho đúng chất"

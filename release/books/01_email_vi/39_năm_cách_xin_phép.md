@@ -1,6 +1,6 @@
 ---
-id: 8001039
-curriculum_id: 8001
+id: 810000039
+curriculum_id: 800000001
 order_index: 39
 node_type: rule
 title: "Rule 39 — Năm cách \"xin phép\" phổ biến trong tiếng Việt và khi nào dùng cách nào"

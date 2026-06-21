@@ -1,6 +1,6 @@
 ---
-id: 8001031
-curriculum_id: 8001
+id: 810000031
+curriculum_id: 800000001
 order_index: 31
 node_type: rule
 title: "Rule 31 — Chủ ngữ rõ ràng: \"ai làm\", \"khi nào làm\""

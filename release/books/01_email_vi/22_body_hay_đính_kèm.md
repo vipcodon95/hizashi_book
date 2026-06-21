@@ -1,6 +1,6 @@
 ---
-id: 8001022
-curriculum_id: 8001
+id: 810000022
+curriculum_id: 800000001
 order_index: 22
 node_type: rule
 title: "Rule 22 — Viết trong body hay đính kèm: 3 tiêu chí"

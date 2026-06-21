@@ -1,6 +1,6 @@
 # T9. Triển khai sản phẩm mới (新商品開発)
 
-> **Mục tiêu:** Học vocab họp (議題/検討/承認), cụm đề xuất ý tưởng (~はいかがでしょうか / ~を提案させていただきます), cảm quan 官能評価 (vị giác / texture), khái quát quy trình thiết kế sản phẩm.
+> **Mục tiêu:** Học từ vựng cuộc họp (議題/検討/承認), cụm đề xuất ý tưởng (~はいかがでしょうか / ~を提案させていただきます), cảm quan 官能評価 (vị giác /食感), khái quát quy trình thiết kế sản phẩm.
 
 ---
 
@@ -10,14 +10,14 @@ Tháng 12, cuối năm. Công ty triển khai SP mới: 「ベトナム<ruby>風
 
 ---
 
-## 1. Văn hoá meeting Nhật
+## 1. Văn hoá họp Nhật
 
 ### 1.1 5 quy tắc cốt lõi
 
 ```
 1. Đến SỚM 5 phút (không phải đúng giờ)
 2. Tắt điện thoại + để úp trên bàn
-3. Mang sẵn note + bút (không laptop trong meeting nhỏ)
+3. Mang sẵn sổ + bút (không laptop trong họp nhỏ)
 4. Im lặng khi sếp/khách nói (không xen ngang)
 5. Trẻ tuổi nhất ngồi gần cửa (theo 席次 - sekiji)
 ```
@@ -28,22 +28,22 @@ Tháng 12, cuối năm. Công ty triển khai SP mới: 「ベトナム<ruby>風
 |---|---|---|
 | Xa cửa (chỗ trong cùng) | 上座 (kamiza) | Sếp to nhất / khách VIP |
 | Giữa | 中座 | Đồng nghiệp cấp trên |
-| Gần cửa ra vào | 下座 (shimoza) | Trẻ tuổi / host / TTS |
+| Gần cửa ra vào | 下座 (shimoza) | Trẻ tuổi / chủ trì / TTS |
 
 → Quy tắc: **Người to nhất ngồi xa cửa nhất** (an toàn + tôn trọng). TTS năm 1 thường ngồi gần cửa nhất.
 
 ### 1.3 Note tay vs laptop
 
-| Meeting | Recommended |
+| Cuộc họp | Khuyến nghị |
 |---|---|
-| Meeting 1-1 với sếp | Note tay (laptop = thiếu tôn trọng) |
-| Họp nhỏ 3-5 người | Note tay |
-| Họp lớn / brainstorm | Laptop OK |
-| Họp với khách | Note tay (luôn) |
+| Họp 1-1 với sếp | Ghi tay (laptop = thiếu tôn trọng) |
+| Họp nhỏ 3-5 người | Ghi tay |
+| Họp lớn / thảo luận nhóm | Laptop OK |
+| Họp với khách | Ghi tay (luôn) |
 
 ---
 
-## 2. Vocab meeting
+## 2. Từ vựng cuộc họp
 
 ### 2.1 Cấu trúc cuộc họp
 
@@ -86,11 +86,11 @@ Tháng 12, cuối năm. Công ty triển khai SP mới: 「ベトナム<ruby>風
 ### 3.2 Cấu trúc 1 đề xuất tốt
 
 ```
-1. <ruby>背景<rt>はいけい</rt></ruby> (Background) — vì sao
-2. <ruby>提案内容<rt>ていあんないよう</rt></ruby> (Proposal) — đề xuất gì
-3. <ruby>理由<rt>りゆう</rt></ruby> (Reason) — lý do
-4. リスク (Risk) — rủi ro nhận biết
-5. <ruby>確認<rt>かくにん</rt></ruby> (Check) — chờ phản hồi
+1. <ruby>背景<rt>はいけい</rt></ruby> (Bối cảnh) — vì sao
+2. <ruby>提案内容<rt>ていあんないよう</rt></ruby> (Đề xuất) — đề xuất gì
+3. <ruby>理由<rt>りゆう</rt></ruby> (Lý do) — lý do
+4. リスク (Rủi ro) — rủi ro nhận biết
+5. <ruby>確認<rt>かくにん</rt></ruby> (Xác nhận) — chờ phản hồi
 ```
 
 ### 3.3 Ví dụ Hoa đề xuất
@@ -99,7 +99,7 @@ Tháng 12, cuối năm. Công ty triển khai SP mới: 「ベトナム<ruby>風
 
 *(Ý kiến cá nhân, em nghĩ thêm rau thơm (coriander, bạc hà) vào bento Việt Nam có được không ạ? Đó là nguyên liệu chắc chắn dùng ở VN. Tuy nhiên, có thể hơi nồng với người Nhật. Thử với lượng nhỏ trước có được không ạ?)*
 
-→ Có đủ 5 yếu tố: bối cảnh (VN dùng), đề xuất (rau thơm), lý do (chắc chắn dùng), rủi ro (có thể nồng), xác nhận (thử nhỏ).
+→ Có đủ 5 yếu tố: bối cảnh (VN dùng), đề xuất (rau thơm), lý do (chắc chắn dùng), rủi ro (có thể nồng), xác nhận (thử lượng nhỏ).
 
 ---
 
@@ -119,7 +119,7 @@ Tháng 12, cuối năm. Công ty triển khai SP mới: 「ベトナム<ruby>風
 | <ruby>苦<rt>にが</rt></ruby>い | nigai | Đắng |
 | うま<ruby>味<rt>み</rt></ruby> | umami | Umami (vị thứ 5) |
 
-### 4.3 Texture (食感 - shokkan)
+### 4.3 食感 (Shokkan — Kết cấu thực phẩm)
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -149,11 +149,11 @@ Tháng 12, cuối năm. Công ty triển khai SP mới: 「ベトナム<ruby>風
 サンプル No: V1
 日付: 2026/12/05
 
-【外観】(1-5):  4
-【香り】(1-5):  3
-【味】(1-5):    2 ← TOO SALTY
-【食感】(1-5):  4
-【総合】(1-5):  3
+【外観】(1-5): 4
+【香り】(1-5): 3
+【味】(1-5): 2 ← QUÁ MẶN
+【食感】(1-5): 4
+【総合】(1-5): 3
 
 コメント:
 - ナンプラーの<ruby>量<rt>りょう</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らす
@@ -167,30 +167,30 @@ Tháng 12, cuối năm. Công ty triển khai SP mới: 「ベトナム<ruby>風
 ### 5.1 6 bước
 
 ```
-1. Concept    — ý tưởng + khách mục tiêu
-2. Recipe     — công thức ban đầu
-3. Trial Production — sản xuất thử lô nhỏ
-4. Sensory Test — đánh giá cảm quan
-5. Adjust     — điều chỉnh công thức
-6. Final + Launch — sản xuất lớn + tung ra
+1. Ý tưởng — ý tưởng + khách mục tiêu
+2. Công thức — công thức ban đầu
+3. Sản xuất thử — sản xuất thử lô nhỏ
+4. Đánh giá cảm quan — đánh giá cảm quan
+5. Điều chỉnh — điều chỉnh công thức
+6. Hoàn thiện + Ra mắt — sản xuất lớn + tung ra
 ```
 
 ### 5.2 Vai trò TTS trong từng bước
 
 | Bước | TTS làm gì |
 |---|---|
-| Concept | Quan sát, học, không đề xuất chính (trừ chuyên môn) |
-| Recipe | Tham khảo, có thể chia sẻ bối cảnh văn hoá |
-| Trial | Hỗ trợ line trial production |
-| Sensory | Có thể tham gia với tư cách "người tiêu dùng" |
-| Adjust | Hỗ trợ thử lại |
-| Final | Đứng line như SP thường |
+| Ý tưởng | Quan sát, học, không đề xuất chính (trừ chuyên môn) |
+| Công thức | Tham khảo, có thể chia sẻ bối cảnh văn hoá |
+| Sản xuất thử | Hỗ trợ dây chuyền sản xuất thử |
+| Cảm quan | Có thể tham gia với tư cách "người tiêu dùng" |
+| Điều chỉnh | Hỗ trợ thử lại |
+| Hoàn thiện | Đứng dây chuyền như sản phẩm thường |
 
-> 💡 Hoa năm 1 được mời tham gia là TRƯỜNG HỢP NGOẠI LỆ — vì có bối cảnh VN. Bình thường TTS năm 1 không vào meeting R&D.
+> Hoa năm 1 được mời tham gia là TRƯỜNG HỢP NGOẠI LỆ — vì có bối cảnh VN. Bình thường TTS năm 1 không vào họp R&D.
 
 ---
 
-## 6. Tình huống mẫu — Hoa lần đầu phát biểu trong meeting
+## 6. Tình huống mẫu — Hoa lần đầu phát biểu trong cuộc họp
 
 **Cảnh: Phòng họp R&D, 14:00**
 
@@ -220,29 +220,29 @@ Tháng 12, cuối năm. Công ty triển khai SP mới: 「ベトナム<ruby>風
 
 ### Phân tích
 
-- Hoa **xin phép** trước khi nói personal opinion → lịch sự
-- **Có cấu trúc**: 4 nguyên liệu (overview) → đề xuất từng cái
+- Hoa **xin phép** trước khi nói ý kiến cá nhân → lịch sự
+- **Có cấu trúc**: 4 nguyên liệu (tổng quan) → đề xuất từng cái
 - Khi bị Yamada thử thách → **CẢM ƠN** trước rồi mới đáp → văn hoá Nhật
-- Đề xuất concrete (V1 vs V2 với half+xì dầu) → actionable
+- Đề xuất cụ thể (V1 vs V2 với nửa+xì dầu) → khả thi
 
 ---
 
 ## 7. So sánh / Phân tích lỗi
 
-| ❌ SAI | ✅ ĐÚNG |
+| Cách nói SAI | Cách nói ĐÚNG |
 |---|---|
 | ナンプラーは<ruby>絶対<rt>ぜったい</rt></ruby><ruby>必要<rt>ひつよう</rt></ruby>! | ナンプラーは<ruby>少量<rt>しょうりょう</rt></ruby>から<ruby>試<rt>ため</rt></ruby>してみるのはいかがでしょうか |
-| (Khẳng định cứng nhắc) | (Soft proposal) |
+| (Khẳng định cứng nhắc) | (Đề xuất nhẹ nhàng) |
 | <ruby>意見<rt>いけん</rt></ruby>を<ruby>言<rt>い</rt></ruby>うだけ | <ruby>意見<rt>いけん</rt></ruby> + <ruby>理由<rt>りゆう</rt></ruby> + <ruby>リスク<rt>りすく</rt></ruby> |
-| (Vague) | (Có cấu trúc) |
+| (Chung chung) | (Có cấu trúc) |
 | <ruby>反論<rt>はんろん</rt></ruby> ngay khi bị thử thách | ご<ruby>指摘<rt>してき</rt></ruby>ありがとうございます + giải thích |
-| (Defensive) | (Lịch sự + chuyển tiếp) |
+| (Phản bác ngay) | (Lịch sự + chuyển tiếp) |
 | <ruby>遅刻<rt>ちこく</rt></ruby> 5 phút | <ruby>到着<rt>とうちゃく</rt></ruby> 5 phút trước |
-| (Cấm kỵ ở meeting Nhật) | (Đúng văn hoá) |
+| (Cấm kỵ ở họp Nhật) | (Đúng văn hoá) |
 
 ---
 
-## 8. 📖 Vocab hôm nay
+## 8. Vocab hôm nay
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -253,48 +253,48 @@ Tháng 12, cuối năm. Công ty triển khai SP mới: 「ベトナム<ruby>風
 | <ruby>原価<rt>げんか</rt></ruby> | genka | Giá thành |
 | <ruby>賞味期限<rt>しょうみきげん</rt></ruby> | shoumi kigen | Hạn dùng |
 | <ruby>消費期限<rt>しょうひきげん</rt></ruby> | shouhi kigen | Hạn sử dụng (hết = bỏ) |
-| パッケージ | package | Bao bì |
+| パッケージ | pakkeeji | Bao bì |
 
 ---
 
 ## 9. Tổng kết
 
-- **Meeting Nhật**: Đến sớm 5 phút, tắt phone, im khi sếp nói
+- **Họp Nhật**: Đến sớm 5 phút, tắt điện thoại, im khi sếp nói
 - **席次**: Sếp xa cửa, trẻ tuổi gần cửa
-- **Đề xuất 5 yếu tố**: Background → Proposal → Reason → Risk → Check
-- **官能評価**: 5 vị + texture + mùi + 5-point scale
-- **Bị thử thách**: CẢM ƠN trước rồi giải thích — KHÔNG defensive
+- **Đề xuất 5 yếu tố**: Bối cảnh → Đề xuất → Lý do → Rủi ro → Xác nhận
+- **官能評価**: 5 vị + kết cấu + mùi + thang 5 điểm
+- **Bị thử thách**: CẢM ƠN trước rồi giải thích — KHÔNG phản bác ngay
 
-> **Quy tắc vàng:** *Trong meeting Nhật, "có cấu trúc" quan trọng hơn "có ý tưởng hay". Idea siêu hay nói lung tung = bị từ chối.*
+> **Quy tắc vàng:** *Trong họp Nhật, "có cấu trúc" quan trọng hơn "có ý tưởng hay". Ý tưởng siêu hay nói lung tung = bị từ chối.*
 
 ---
 
-## 10. 💡 Mẹo ghi nhớ
+## 10. Mẹo ghi nhớ
 
 | Mẹo | Nội dung |
 |---|---|
-| 🔺 5 yếu tố đề xuất | "Why → What → Reason → Risk → Check" |
-| 🔻 「~はいかがでしょうか」 | Mọi đề xuất nên kết bằng câu này |
-| 💡 Bị thử thách | "ご指摘ありがとうございます" → giải thích |
-| ⚠️ KHÔNG đến đúng giờ | Phải SỚM 5 phút |
+|  5 yếu tố đề xuất | "Vì sao → Đề xuất gì → Lý do → Rủi ro → Xác nhận" |
+|  「~はいかがでしょうか」 | Mọi đề xuất nên kết bằng câu này |
+|  Bị thử thách | "ご指摘ありがとうございます" → giải thích |
+|  KHÔNG đến đúng giờ | Phải SỚM 5 phút |
 
 ---
 
-## ✅ Mini check
+## Tự kiểm tra nhanh
 
-1. Đến meeting Nhật nên đến:
-   - A. Đúng giờ
-   - B. Sớm 5 phút
-   - C. Sớm 30 phút
+1. Đến họp Nhật nên đến:
+ - A. Đúng giờ
+ - B. Sớm 5 phút
+ - C. Sớm 30 phút
 
-2. "Em đề xuất ~ thì sao ạ?" trong soft form:
-   - A. 〜はいかがでしょうか
-   - B. 〜は<ruby>絶対<rt>ぜったい</rt></ruby><ruby>必要<rt>ひつよう</rt></ruby>です
-   - C. 〜してください
+2. "Em đề xuất ~ thì sao ạ?" dạng gợi ý nhẹ nhàng:
+ - A. 〜はいかがでしょうか
+ - B. 〜は<ruby>絶対<rt>ぜったい</rt></ruby><ruby>必要<rt>ひつよう</rt></ruby>です
+ - C. 〜してください
 
 3. Khi bị đồng nghiệp thử thách:
-   - A. <ruby>反論<rt>はんろん</rt></ruby>ngay
-   - B. ご<ruby>指摘<rt>してき</rt></ruby>ありがとうございます + giải thích
-   - C. Im lặng
+ - A. <ruby>反論<rt>はんろん</rt></ruby>ngay
+ - B. ご<ruby>指摘<rt>してき</rt></ruby>ありがとうございます + giải thích
+ - C. Im lặng
 
 *(Đáp án: 1B, 2A, 3B)*

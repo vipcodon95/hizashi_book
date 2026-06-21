@@ -1,6 +1,6 @@
 ---
-id: 8001014
-curriculum_id: 8001
+id: 810000014
+curriculum_id: 800000001
 order_index: 14
 node_type: rule
 title: "Rule 14 — Dòng dẫn nhập: nêu mục đích mail trong 1–2 câu"
@@ -36,7 +36,7 @@ Dũng viết mail xin chị Hương duyệt phát sinh.
 > Em viết mail này để **xin chị duyệt phát sinh 80 triệu cho Dự án Bình Minh, trước thứ Năm 15/05**. Phần bên dưới là lý do và chi tiết để chị tham khảo.
 >
 > **Lý do phát sinh**
-> Tuần trước team bảo mật của Hakuō đưa ra yêu cầu kiểm thử mới, không nằm trong scope ban đầu. Em đã so sánh giá từ 3 nhà thầu phụ, kèm so sánh đính kèm.
+> Tuần trước team bảo mật của Hakuō đưa ra yêu cầu kiểm thử mới, không nằm trong phạm vi ban đầu. Em đã so sánh giá từ 3 nhà thầu phụ, kèm so sánh đính kèm.
 >
 > **Chi tiết**
 > - Hạng mục: thuê ngoài kiểm thử bảo mật.
@@ -65,7 +65,7 @@ Biến thể:
 - **Nhờ:** "Em viết mail này để nhờ chị hỗ trợ em [X] trước [ngày]."
 
 ## Biến thể — Khi dẫn nhập có thể rút xuống 1 câu
-Nếu mail rất ngắn (≤5 dòng) và CTA đã nằm ngay trong dòng dẫn nhập, không cần 2 câu:
+Nếu mail rất ngắn (≤5 dòng) và yêu cầu hành động đã nằm ngay trong dòng dẫn nhập, không cần 2 câu:
 
 > "Em xin chị duyệt giúp em phát sinh 80 triệu Bình Minh (file đính kèm), trước 15/05."
 

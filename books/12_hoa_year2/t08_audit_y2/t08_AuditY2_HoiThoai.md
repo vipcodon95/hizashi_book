@@ -1,12 +1,12 @@
 # Sách thực tập sinh thực phẩm · T8. Thanh tra năm 2 — Mai dẫn 1 phần (監査でマイさんがデビュー)
 
-> **Mục tiêu nhân vật:** Hoa (năm 2 tại nhà máy thực phẩm Aichi) lần đầu vào vai sempai hướng dẫn kohai chuẩn bị thanh tra khách hàng. Học các mẫu hội thoại tiếng Nhật khi đối ứng thanh tra ISO 22000 và coach kohai: **dạy 5 câu cốt lõi keigo dẫn khách** (ご案内致します・〜でございます), **dạy câu cứu sinh khi không biết** (申し訳ございません、確認させていただきます), **giải thích quy trình 金属探知 và 校正頻度**, **bổ sung sau lưng kohai trong thanh tra** (補足させていただきます), **trả lời câu hỏi kiểm tra viên về hệ thống AI 画像認識 mới**, và **chốt mạch nhân vật qua cảnh tiếng Việt cuối ngày** với đồng hương Putri và mẹ.
+> **Mục tiêu nhân vật:** Hoa (năm 2 tại nhà máy thực phẩm Aichi) lần đầu vào vai sempai hướng dẫn kohai chuẩn bị thanh tra khách hàng. Học các mẫu hội thoại tiếng Nhật khi đối ứng thanh tra ISO 22000 và huấn luyện kohai: **dạy 5 câu cốt lõi keigo dẫn khách** (ご案内致します・〜でございます), **dạy câu cứu sinh khi không biết** (申し訳ございません、確認させていただきます), **giải thích quy trình 金属探知 và 校正頻度**, **bổ sung sau lưng kohai trong thanh tra** (補足させていただきます), **trả lời câu hỏi kiểm tra viên về hệ thống AI 画像認識 mới**, và **chốt mạch nhân vật qua cảnh tiếng Việt cuối ngày** với đồng hương Putri và mẹ.
 
 ---
 
 ## Bối cảnh
 
-Tháng 11 năm 2027. Hoa đang ở năm thứ 2 thực tập sinh tại nhà máy thực phẩm liên kết Aeon (イオン) ở Aichi. Trình độ tiếng Nhật N3, đang luyện N2. Thanh tra thường niên năm nay đặc biệt: Aeon mang hệ thống **AI 画像認識** mới — yêu cầu nhà máy tích hợp trong 6 tháng. Trưởng phòng Tanaka quyết định cho Mai (kohai 6 tháng) dẫn kiểm tra viên khu đóng gói, Hoa đứng sau hỗ trợ. Chương này tập trung các mẫu câu keigo dẫn khách, câu cứu sinh khi bí, và mẫu câu sempai coach kohai trước thanh tra.
+Tháng 11 năm 2027. Hoa đang ở năm thứ 2 thực tập sinh tại nhà máy thực phẩm liên kết Aeon (イオン) ở Aichi. Trình độ tiếng Nhật N3, đang luyện N2. Thanh tra thường niên năm nay đặc biệt: Aeon mang hệ thống **AI 画像認識** mới — yêu cầu nhà máy tích hợp trong 6 tháng. Trưởng phòng Tanaka quyết định cho Mai (kohai 6 tháng) dẫn kiểm tra viên khu đóng gói, Hoa đứng sau hỗ trợ. Chương này tập trung các mẫu câu keigo dẫn khách, câu cứu sinh khi bí, và mẫu câu sempai huấn luyện kohai trước thanh tra.
 
 ---
 
@@ -19,7 +19,7 @@ Tháng 11 năm 2027. Hoa đang ở năm thứ 2 thực tập sinh tại nhà má
 | Yamada | AIですか? <ruby>初<rt>はじ</rt></ruby>めて<ruby>聞<rt>き</rt></ruby>きました。<br>*(AI ạ? Tôi mới nghe lần đầu.)* |
 | Tanaka | <ruby>異物検査<rt>いぶつけんさ</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<ruby>方法<rt>ほうほう</rt></ruby>です。イオンさんは6か<ruby>月以内<rt>げついない</rt></ruby>の<ruby>導入<rt>どうにゅう</rt></ruby>を<ruby>要求<rt>ようきゅう</rt></ruby>しています。<br>*(Là phương pháp mới kiểm tra dị vật. Aeon yêu cầu áp dụng trong 6 tháng.)* |
 | Satou | <ruby>説明<rt>せつめい</rt></ruby><ruby>担当<rt>たんとう</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>になりますか?<br>*(Người phụ trách giải thích là ai ạ?)* |
-| Tanaka | <ruby>高橋<rt>たかはし</rt></ruby>QCマネージャーと<ruby>佐藤<rt>さとう</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>が<ruby>本体<rt>ほんたい</rt></ruby>です。<ruby>包装<rt>ほうそう</rt></ruby><ruby>区域<rt>くいき</rt></ruby>はマイさんに<ruby>案内<rt>あんない</rt></ruby>してもらいます。ホアさんは<ruby>後<rt>うし</rt></ruby>ろでサポートしてください。<br>*(Trụ chính là QC manager Takahashi và đàn anh Satou. Khu đóng gói nhờ Mai dẫn, Hoa hỗ trợ phía sau.)* |
+| Tanaka | <ruby>高橋<rt>たかはし</rt></ruby>QCマネージャーと<ruby>佐藤<rt>さとう</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>が<ruby>本体<rt>ほんたい</rt></ruby>です。<ruby>包装<rt>ほうそう</rt></ruby><ruby>区域<rt>くいき</rt></ruby>はマイさんに<ruby>案内<rt>あんない</rt></ruby>してもらいます。ホアさんは<ruby>後<rt>うし</rt></ruby>ろでサポートしてください。<br>*(Trụ chính là quản lý QC Takahashi và đàn anh Satou. Khu đóng gói nhờ Mai dẫn, Hoa hỗ trợ phía sau.)* |
 | Mai | え! <ruby>私<rt>わたし</rt></ruby>がですか!? <ruby>無理<rt>むり</rt></ruby>です…<br>*(Ơ! Em ạ!? Em không làm được…)* |
 | Hoa | <ruby>大丈夫<rt>だいじょうぶ</rt></ruby>、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>準備<rt>じゅんび</rt></ruby>しましょう。<br>*(Không sao, mình cùng chuẩn bị.)* |
 
@@ -75,7 +75,7 @@ Tháng 11 năm 2027. Hoa đang ở năm thứ 2 thực tập sinh tại nhà má
 
 ---
 
-## Tình huống 5 — Phòng nghỉ · 20:00, Hoa dạy cách đi cùng khách (quan sát manner)
+## Tình huống 5 — Phòng nghỉ · 20:00, Hoa dạy cách đi cùng khách (quan sát phép tắc)
 
 | Vai | Lời thoại |
 |---|---|
@@ -130,7 +130,7 @@ Tháng 11 năm 2027. Hoa đang ở năm thứ 2 thực tập sinh tại nhà má
 | Kiểm tra viên | <ruby>校正<rt>こうせい</rt></ruby>の<ruby>頻度<rt>ひんど</rt></ruby>は?<br>*(Tần suất hiệu chuẩn là?)* |
 | Mai | え…<ruby>校正<rt>こうせい</rt></ruby>…<br>*(Ơ… hiệu chuẩn…)* |
 | Hoa | (thì thầm sát tai) <ruby>毎時<rt>まいじ</rt></ruby>ですよ。<br>*(Mỗi giờ đó.)* |
-| Mai | <ruby>毎時<rt>まいじ</rt></ruby>でございます。1<ruby>時間<rt>じかん</rt></ruby>に<ruby>1<rt>いっ</rt></ruby><ruby>回<rt>かい</rt></ruby>、テストピースを<ruby>通<rt>とお</rt></ruby>して<ruby>確認<rt>かくにん</rt></ruby>します。<br>*(Mỗi giờ ạ. Một giờ một lần, cho mảnh test đi qua để xác nhận.)* |
+| Mai | <ruby>毎時<rt>まいじ</rt></ruby>でございます。1<ruby>時間<rt>じかん</rt></ruby>に<ruby>1<rt>いっ</rt></ruby><ruby>回<rt>かい</rt></ruby>、テストピースを<ruby>通<rt>とお</rt></ruby>して<ruby>確認<rt>かくにん</rt></ruby>します。<br>*(Mỗi giờ ạ. Một giờ một lần, cho mảnh thử đi qua để xác nhận.)* |
 | Kiểm tra viên | <ruby>記録<rt>きろく</rt></ruby>はございますか?<br>*(Có hồ sơ ghi lại không?)* |
 | Mai | <ruby>記録<rt>きろく</rt></ruby>は…(quay sang Hoa) <br>*(Hồ sơ thì…)* |
 | Hoa | <ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません、ホアが<ruby>補足<rt>ほそく</rt></ruby>させていただきます。<ruby>記録<rt>きろく</rt></ruby>はこちらのバインダーにございます。お<ruby>確<rt>たし</rt></ruby>かめいただけますでしょうか。<br>*(Em xin lỗi, em Hoa xin bổ sung. Hồ sơ ở bìa hồ sơ này ạ. Quý vị có thể xác nhận không ạ?)* |
@@ -148,7 +148,7 @@ Tháng 11 năm 2027. Hoa đang ở năm thứ 2 thực tập sinh tại nhà má
 | Kiểm tra viên | いい<ruby>質問<rt>しつもん</rt></ruby>ですね。カメラで<ruby>製品<rt>せいひん</rt></ruby>を<ruby>撮影<rt>さつえい</rt></ruby>して、AIが<ruby>異物<rt>いぶつ</rt></ruby>を<ruby>自動<rt>じどう</rt></ruby>で<ruby>検出<rt>けんしゅつ</rt></ruby>します。<ruby>検出率<rt>けんしゅつりつ</rt></ruby>は<ruby>99.9<rt>きゅうじゅうきゅうてんきゅう</rt></ruby>パーセントです。<br>*(Câu hỏi hay. Camera chụp sản phẩm, AI tự phát hiện dị vật. Tỷ lệ phát hiện 99.9%.)* |
 | Mai | すごいですね! <ruby>金属<rt>きんぞく</rt></ruby><ruby>探知機<rt>たんちき</rt></ruby>とどう<ruby>違<rt>ちが</rt></ruby>いますか?<br>*(Tuyệt quá ạ! Khác máy dò kim loại thế nào ạ?)* |
 | Kiểm tra viên | <ruby>金属<rt>きんぞく</rt></ruby><ruby>探知機<rt>たんちき</rt></ruby>は<ruby>金属<rt>きんぞく</rt></ruby>だけですが、AIはプラスチック、ガラス、<ruby>毛髪<rt>もうはつ</rt></ruby>も<ruby>検出<rt>けんしゅつ</rt></ruby>できます。<br>*(Máy dò kim loại chỉ nhận kim loại, còn AI nhận được cả nhựa, thuỷ tinh, tóc.)* |
-| Hoa | <ruby>承知<rt>しょうち</rt></ruby>いたしました。<ruby>導入<rt>どうにゅう</rt></ruby>の<ruby>詳<rt>くわ</rt></ruby>しい<ruby>説明<rt>せつめい</rt></ruby>は<ruby>高橋<rt>たかはし</rt></ruby>QCマネージャーよりさせていただきます。<br>*(Em rõ rồi ạ. Giải thích chi tiết việc áp dụng sẽ do QC manager Takahashi trình bày ạ.)* |
+| Hoa | <ruby>承知<rt>しょうち</rt></ruby>いたしました。<ruby>導入<rt>どうにゅう</rt></ruby>の<ruby>詳<rt>くわ</rt></ruby>しい<ruby>説明<rt>せつめい</rt></ruby>は<ruby>高橋<rt>たかはし</rt></ruby>QCマネージャーよりさせていただきます。<br>*(Em rõ rồi ạ. Giải thích chi tiết việc áp dụng sẽ do quản lý QC Takahashi trình bày ạ.)* |
 | Kiểm tra viên | よろしくお<ruby>願<rt>ねが</rt></ruby>いします。マイさん、<ruby>分<rt>わ</rt></ruby>からない<ruby>時<rt>とき</rt></ruby>に「<ruby>確認<rt>かくにん</rt></ruby>させていただきます」と<ruby>言<rt>い</rt></ruby>えるのは<ruby>立派<rt>りっぱ</rt></ruby>ですよ。<br>*(Mong nhờ. Mai-san, khi không biết mà nói được "để em xác nhận" là xuất sắc đấy.)* |
 
 ---
@@ -210,7 +210,7 @@ Tháng 11 năm 2027. Hoa đang ở năm thứ 2 thực tập sinh tại nhà má
 
 ## Đọng lại chương 8
 
-Hôm nay Hoa lần đầu vào vai sempai chuẩn bị thanh tra ISO 22000 cho Mai, kohai 6 tháng. Cô học và truyền lại bộ **5 câu keigo cốt lõi dẫn kiểm tra viên**: **ご案内致します**, **こちらが〜でございます**, **お足元にお気をつけ下さい**, **ご不明な点はございませんか**, và "thuyền cứu sinh" **申し訳ございません、確認させていただきます** — câu dùng khi bị hỏi điều không biết, tuyệt đối không bịa. Hoa cũng dạy Mai **manner đi cùng khách** (半歩前 / không 並んで歩く / chỉ hướng bằng 手のひら không 指), và đứng sau lưng kohai để **thì thầm hỗ trợ** + **補足させていただきます** khi cần. Trong thanh tra, cả hai trả lời được câu hỏi về **金属探知機・校正頻度・記録**, và biết **hỏi lại lễ phép** (〜というのは具体的にどのようなシステムでしょうか) khi kiểm tra viên giới thiệu hệ thống **AI 画像認識** mới mà nhà máy phải áp dụng trong 6 tháng. Hoa nhận ra: năm 1 mình là kohai được Satou đỡ, năm 2 mình đỡ Mai — đó là cách chuỗi sempai-kohai dài mãi.
+Hôm nay Hoa lần đầu vào vai sempai chuẩn bị thanh tra ISO 22000 cho Mai, kohai 6 tháng. Cô học và truyền lại bộ **5 câu keigo cốt lõi dẫn kiểm tra viên**: **ご案内致します**, **こちらが〜でございます**, **お足元にお気をつけ下さい**, **ご不明な点はございませんか**, và "thuyền cứu sinh" **申し訳ございません、確認させていただきます** — câu dùng khi bị hỏi điều không biết, tuyệt đối không bịa. Hoa cũng dạy Mai **phép tắc đi cùng khách** (半歩前 / không 並んで歩く / chỉ hướng bằng 手のひら không 指), và đứng sau lưng kohai để **thì thầm hỗ trợ** + **補足させていただきます** khi cần. Trong thanh tra, cả hai trả lời được câu hỏi về **金属探知機・校正頻度・記録**, và biết **hỏi lại lễ phép** (〜というのは具体的にどのようなシステムでしょうか) khi kiểm tra viên giới thiệu hệ thống **AI 画像認識** mới mà nhà máy phải áp dụng trong 6 tháng. Hoa nhận ra: năm 1 mình là kohai được Satou đỡ, năm 2 mình đỡ Mai — đó là cách chuỗi sempai-kohai dài mãi.
 
 > Từ vựng & mẫu câu chương này: 監査・年次監査・監査対応・ISO 22000・包装区域・案内致します・〜でございます・お足元にお気をつけ下さい・ご不明な点はございませんか・申し訳ございません・確認させていただきます・補足させていただきます・金属探知機・校正・頻度・記録・テストピース・AI 画像認識・異物検出・導入・不適合・軽微な指摘・後輩指導・先輩・後輩・半歩前・手のひらで示す・恐れ入ります・承知いたしました
 
@@ -218,11 +218,11 @@ Hôm nay Hoa lần đầu vào vai sempai chuẩn bị thanh tra ISO 22000 cho M
 
 ## Bí quyết chương
 
-- Coach kohai trước thanh tra: chỉ 5 câu cốt lõi + "thuyền cứu sinh" `申し訳ございません、確認させていただきます`.
-- Walk manner: nửa bước trước khách, chỉ hướng bằng lòng bàn tay mở (không dùng ngón).
+- Huấn luyện kohai trước thanh tra: chỉ 5 câu cốt lõi + "thuyền cứu sinh" `申し訳ございません、確認させていただきます`.
+- Tác phong đi cùng khách: nửa bước trước khách, chỉ hướng bằng lòng bàn tay mở (không dùng ngón).
 - Sempai đứng phía sau = thì thầm hỗ trợ, KHÔNG cướp lời; chỉ chen vào khi `補足させていただきます`.
-- AI vision QC trend 2027 — phát hiện cả nhựa / thuỷ tinh / tóc, không chỉ kim loại; tỷ lệ 99.9%.
-- Kiểm tra viên khen kohai → Tanaka khen sempai → chuỗi credit công bằng cho cả 3 cấp.
+- AI kiểm tra hình ảnh — xu hướng QC 2027: phát hiện cả nhựa / thuỷ tinh / tóc, không chỉ kim loại; tỷ lệ 99.9%.
+- Kiểm tra viên khen kohai → Tanaka khen sempai → chuỗi ghi nhận công bằng cho cả 3 cấp.
 
 ---
 
@@ -230,7 +230,7 @@ Hôm nay Hoa lần đầu vào vai sempai chuẩn bị thanh tra ISO 22000 cho M
 
 | Từ | Cách đọc | Hán Việt | Nghĩa tiếng Việt |
 |---|---|---|---|
-| 年次監査 | ねんじかんさ | NIÊN THỨ GIÁM SÁT | Thanh tra thường niên |
+| 年次監査 | ねんじかんさ | NIÊN THỨ GIÁM TRA | Thanh tra thường niên |
 | 画像認識 | がぞうにんしき | HỌA TƯỢNG NHẬN THỨC | Nhận diện hình ảnh |
 | 導入 | どうにゅう | ĐẠO NHẬP | Đưa vào áp dụng |
 | 異物検査 | いぶつけんさ | DỊ VẬT KIỂM TRA | Kiểm tra dị vật |
@@ -250,7 +250,7 @@ Hôm nay Hoa lần đầu vào vai sempai chuẩn bị thanh tra ISO 22000 cho M
 | 包装後 | ほうそうご | BAO TRANG HẬU | Sau khi đóng gói |
 | 校正 | こうせい | HIỆU CHÍNH | Hiệu chuẩn |
 | 毎時 | まいじ | MỖI THỜI | Mỗi giờ |
-| テストピース | — | — | Mảnh test |
+| テストピース | — | — | Mảnh thử |
 | 補足 | ほそく | BỔ TÚC | Bổ sung |
 | 担当者 | たんとうしゃ | ĐẢM ĐƯƠNG GIẢ | Người phụ trách |
 | 撮影 | さつえい | NHIẾP ẢNH | Chụp, quay |

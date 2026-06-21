@@ -1,6 +1,6 @@
 ---
-id: 8001067
-curriculum_id: 8001
+id: 810000067
+curriculum_id: 800000001
 order_index: 67
 node_type: rule
 title: "Rule 66 — Tóm tắt 1 dòng cho mỗi file đính kèm để người đọc khỏi mở mù"

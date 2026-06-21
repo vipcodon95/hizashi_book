@@ -1,6 +1,6 @@
 ---
-id: 8001058
-curriculum_id: 8001
+id: 810000058
+curriculum_id: 800000001
 order_index: 58
 node_type: rule
 title: "Rule 57 — Báo trễ deadline: lý do cụ thể + hạn mới + biện pháp bù"
@@ -30,9 +30,9 @@ language: vi
 >
 > **Biện pháp bù:**
 > - Em sẽ gửi chị bản draft sớm thứ Sáu 16/05 để chị có thể review trước, không bị dồn vào thứ Hai.
-> - Em xin schedule 15 phút họp với chị sáng thứ Ba 20/05 để walk through những điểm quan trọng.
+> - Em xin đặt lịch 15 phút họp với chị sáng thứ Ba 20/05 để trình bày những điểm quan trọng.
 >
-> Nếu chị cần em hoàn thành đúng 15/05 bằng cách khác (giảm scope, xin hỗ trợ), chị cho em biết — em sẵn sàng điều chỉnh.
+> Nếu chị cần em hoàn thành đúng 15/05 bằng cách khác (giảm phạm vi, xin hỗ trợ), chị cho em biết — em sẵn sàng điều chỉnh.
 >
 > Em xin lỗi chị vì sự thay đổi này và cảm ơn chị thông cảm.
 > Dũng"

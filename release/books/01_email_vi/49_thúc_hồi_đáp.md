@@ -1,6 +1,6 @@
 ---
-id: 8001049
-curriculum_id: 8001
+id: 810000049
+curriculum_id: 800000001
 order_index: 49
 node_type: rule
 title: "Rule 48 — Thúc hồi đáp: chừa đường lui, đưa deadline mới, không trách móc"
@@ -22,7 +22,7 @@ language: vi
 ## Ví dụ TỐT — thúc có đường lui
 > "Anh Matsumoto,
 >
-> Em viết để follow up về phụ lục hợp đồng em gửi anh thứ Ba 13/05. **Em không chắc mail có vào spam của anh không, hoặc có thể anh đang bận với đợt đóng quý**.
+> Em viết để nhắc lại về phụ lục hợp đồng em gửi anh thứ Ba 13/05. **Em không chắc mail có vào spam của anh không, hoặc có thể anh đang bận với đợt đóng quý**.
 >
 > Em vẫn đang giữ bản nháp sẵn sàng cho anh. Anh có thể cho em biết:
 > - Nếu anh cần thêm thời gian → em có thể đợi đến **thứ Sáu 17/05**.

@@ -1,6 +1,6 @@
 ---
-id: 8001011
-curriculum_id: 8001
+id: 810000011
+curriculum_id: 800000001
 order_index: 11
 node_type: rule
 title: "Rule 11 — Khung 5 khối của một email hoàn chỉnh"

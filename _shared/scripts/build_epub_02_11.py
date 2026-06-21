@@ -44,7 +44,7 @@ BASH_BOOKS = {
 
 # Sách dùng cấu trúc t*/*_LyThuyet.md (concat trực tiếp)
 LYTHUYET_BOOKS = {
-    "11_jisshusei_shokuhin": ("hizashi_11_jisshusei", "Hizashi — Thực tập sinh ngành thực phẩm"),
+    "11_hoa_year1": ("hizashi_11_jisshusei", "Hizashi — Thực tập sinh ngành thực phẩm"),
 }
 
 

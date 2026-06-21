@@ -1,6 +1,6 @@
 ---
-id: 8001054
-curriculum_id: 8001
+id: 810000054
+curriculum_id: 800000001
 order_index: 54
 node_type: rule
 title: "Rule 53 — Mail xin lỗi 4 bước: Sự thật → Nguyên nhân → Biện pháp → Cam kết"

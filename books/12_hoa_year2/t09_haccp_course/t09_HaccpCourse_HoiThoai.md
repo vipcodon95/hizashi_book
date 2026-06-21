@@ -6,7 +6,7 @@
 
 ## Bối cảnh
 
-Tháng 12 năm 2027. Hoa đã đậu **食品衛生責任者** tháng 10, làm tại nhà máy cơm hộp ở Saitama. Trình độ tiếng Nhật N3+. Chương này tập trung các mẫu câu giao tiếp khi học viên người Việt bước vào khoá đào tạo chuyên môn 3 ngày tại JHTC Tokyo cùng 5 học viên Nhật: xin phép sếp đi học, hỏi trợ cấp công ty, tự giới thiệu nhóm, hỏi lại thuật ngữ HACCP chuyên sâu, làm quen 同期 và chia sẻ case study thực tế ngành.
+Tháng 12 năm 2027. Hoa đã đậu **食品衛生責任者** tháng 10, làm tại nhà máy cơm hộp ở Saitama. Trình độ tiếng Nhật N3+. Chương này tập trung các mẫu câu giao tiếp khi học viên người Việt bước vào khoá đào tạo chuyên môn 3 ngày tại JHTC Tokyo cùng 5 học viên Nhật: xin phép sếp đi học, hỏi trợ cấp công ty, tự giới thiệu nhóm, hỏi lại thuật ngữ HACCP chuyên sâu, làm quen 同期 và chia sẻ tình huống thực tế của ngành.
 
 ---
 
@@ -127,9 +127,9 @@ Tháng 12 năm 2027. Hoa đã đậu **食品衛生責任者** tháng 10, làm t
 
 | Vai | Lời thoại |
 |---|---|
-| Kondo | <ruby>本日<rt>ほんじつ</rt></ruby>のケーススタディはお<ruby>弁当工場<rt>べんとうこうじょう</rt></ruby>の<ruby>異物混入<rt>いぶつこんにゅう</rt></ruby>です。ホアさん、<ruby>当事者<rt>とうじしゃ</rt></ruby>として<ruby>何<rt>なに</rt></ruby>かご<ruby>意見<rt>いけん</rt></ruby>はありますか?<br>*(Case study hôm nay là nhiễm dị vật ở nhà máy cơm hộp. Hoa-san, với tư cách người trong cuộc, em có ý kiến gì không?)* |
+| Kondo | <ruby>本日<rt>ほんじつ</rt></ruby>のケーススタディはお<ruby>弁当工場<rt>べんとうこうじょう</rt></ruby>の<ruby>異物混入<rt>いぶつこんにゅう</rt></ruby>です。ホアさん、<ruby>当事者<rt>とうじしゃ</rt></ruby>として<ruby>何<rt>なに</rt></ruby>かご<ruby>意見<rt>いけん</rt></ruby>はありますか?<br>*(Tình huống thực tế hôm nay là nhiễm dị vật ở nhà máy cơm hộp. Hoa-san, với tư cách người trong cuộc, em có ý kiến gì không?)* |
 | Hoa | はい。<ruby>実<rt>じつ</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>の<ruby>10<rt>じゅう</rt></ruby><ruby>月<rt>がつ</rt></ruby>に、<ruby>当社<rt>とうしゃ</rt></ruby>でも<ruby>同<rt>おな</rt></ruby>じような<ruby>事件<rt>じけん</rt></ruby>が<ruby>起<rt>お</rt></ruby>こりました。<br>*(Vâng. Thực ra tháng 10 năm ngoái công ty em cũng có sự cố tương tự.)* |
-| Yamamoto | おお、リアルケースですね。<br>*(Ô, case thật.)* |
+| Yamamoto | おお、リアルケースですね。<br>*(Ô, tình huống thật.)* |
 | Hoa | <ruby>原因<rt>げんいん</rt></ruby>は<ruby>原料容器<rt>げんりょうようき</rt></ruby>の<ruby>破損<rt>はそん</rt></ruby>でした。プラスチックの<ruby>破片<rt>はへん</rt></ruby>が<ruby>製品<rt>せいひん</rt></ruby>に<ruby>混入<rt>こんにゅう</rt></ruby>してしまいました。<br>*(Nguyên nhân là hộp đựng nguyên liệu bị nứt. Mảnh nhựa bị lẫn vào sản phẩm.)* |
 | Kondo | <ruby>解決策<rt>かいけつさく</rt></ruby>は<ruby>何<rt>なに</rt></ruby>でしたか?<br>*(Giải pháp là gì?)* |
 | Hoa | <ruby>容器<rt>ようき</rt></ruby>チェックリストを<ruby>作<rt>つく</rt></ruby>りました。<ruby>使用<rt>しよう</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>必<rt>かなら</rt></ruby>ず<ruby>破損<rt>はそん</rt></ruby>がないか<ruby>確認<rt>かくにん</rt></ruby>します。<br>*(Em làm bảng kiểm hộp. Trước khi dùng nhất định kiểm tra xem có nứt không.)* |
@@ -197,7 +197,7 @@ Tháng 12 năm 2027. Hoa đã đậu **食品衛生責任者** tháng 10, làm t
 |---|---|
 | Sasaki | ホアさん、<ruby>3<rt>みっ</rt></ruby><ruby>日間<rt>かかん</rt></ruby>お<ruby>疲<rt>つか</rt></ruby>れさまでした。これからもよろしくお<ruby>願<rt>ねが</rt></ruby>いします。<br>*(Hoa-san, 3 ngày vất vả rồi. Sau này cũng nhờ em nhé.)* |
 | Hoa | こちらこそ、お<ruby>疲<rt>つか</rt></ruby>れさまでした。<ruby>困<rt>こま</rt></ruby>った<ruby>時<rt>とき</rt></ruby>は LINE してください。<br>*(Em cũng vậy, anh vất vả rồi. Có gì khó cứ LINE em nhé.)* |
-| Yamamoto | お<ruby>弁当工場<rt>べんとうこうじょう</rt></ruby>のケーススタディ、<ruby>大変<rt>たいへん</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>になりました。<br>*(Case study nhà máy cơm hộp, học được rất nhiều.)* |
+| Yamamoto | お<ruby>弁当工場<rt>べんとうこうじょう</rt></ruby>のケーススタディ、<ruby>大変<rt>たいへん</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>になりました。<br>*(Tình huống thực tế nhà máy cơm hộp, học được rất nhiều.)* |
 | Hoa | こちらこそ、パン<ruby>工場<rt>こうじょう</rt></ruby>のお<ruby>話<rt>はなし</rt></ruby>、<ruby>面白<rt>おもしろ</rt></ruby>かったです。<br>*(Em cũng vậy, chuyện nhà máy bánh thú vị lắm ạ.)* |
 | Kondo | みなさん、<ruby>本当<rt>ほんとう</rt></ruby>にお<ruby>疲<rt>つか</rt></ruby>れさまでした。<ruby>同期<rt>どうき</rt></ruby>として、これからも<ruby>連絡<rt>れんらく</rt></ruby>を<ruby>取<rt>と</rt></ruby>り<ruby>合<rt>あ</rt></ruby>ってください。<br>*(Mọi người vất vả rồi. Là 同期 thì sau này giữ liên lạc với nhau nhé.)* |
 | Hoa | はい、<ruby>近藤<rt>こんどう</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>、<ruby>本当<rt>ほんとう</rt></ruby>にありがとうございました。<br>*(Vâng, Kondo-sensei, em cảm ơn thầy nhiều ạ.)* |
@@ -234,9 +234,9 @@ Ba ngày ở Tokyo, Hoa không chỉ học chuyên môn HACCP mà còn tích lu�
 ## Bí quyết chương
 
 - HACCP coordinator = 3 ngày × 8h + bài thi cuối 30 câu (đậu 70%), lệ phí ¥60.000-70.000, công ty thường trợ cấp 50% nếu đã có Sekininsha.
-- Mẫu xin trợ cấp: nói rõ "đã đậu Sekininsha" → sếp dễ duyệt vì có precedent.
+- Mẫu xin trợ cấp: nói rõ "đã đậu Sekininsha" → sếp dễ duyệt vì có tiền lệ.
 - Khi chưa có 名刺 công ty cấp → đề nghị LINE QR là cách lịch sự, được chấp nhận rộng rãi sau 2020.
-- Chia sẻ ケーススタディ thật của công ty mình → instructor + 同期 ấn tượng, mở mạng lưới ngành.
+- Chia sẻ ケーススタディ thật của công ty mình → giảng viên + 同期 ấn tượng, mở mạng lưới ngành.
 
 ---
 
@@ -253,7 +253,7 @@ Ba ngày ở Tokyo, Hoa không chỉ học chuyên môn HACCP mà còn tích lu�
 | 研修費 | けんしゅうひ | NGHIÊN TU PHÍ | Học phí đào tạo |
 | 支援 | しえん | CHI VIỆN | Hỗ trợ |
 | 申請書 | しんせいしょ | THÂN THỈNH THƯ | Đơn xin |
-| 研修扱い | けんしゅうあつかい | NGHIÊN TU | Tính như đi đào tạo |
+| 研修扱い | けんしゅうあつかい | NGHIÊN TU — | Tính như đi đào tạo |
 | 会場 | かいじょう | HỘI TRƯỜNG | Hội trường |
 | 有給休暇 | ゆうきゅうきゅうか | HỮU CẤP HƯU HẠ | Phép có lương |
 | 有給研修 | ゆうきゅうけんしゅう | HỮU CẤP NGHIÊN TU | Đào tạo có lương |

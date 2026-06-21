@@ -1,6 +1,6 @@
 ---
-id: 8001064
-curriculum_id: 8001
+id: 810000064
+curriculum_id: 800000001
 order_index: 64
 node_type: rule
 title: "Rule 63 — Dùng ký hiệu, đường kẻ chia khối — nhưng đừng biến mail thành poster"

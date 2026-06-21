@@ -1,49 +1,49 @@
-# T8. Khách kiểm tra audit (お客様の監査)
+# T8. Khách kiểm tra — Thanh tra (お客様の監査)
 
-> **Mục tiêu:** Học keigo cao cấp dùng với khách (ご案内いたします / ご覧ください), vocab audit (監査/是正/不適合), ISO 22000 + FSSC 22000 căn bản, cách dẫn khách tham quan, và cách giải quyết xung đột nội bộ.
+> **Mục tiêu:** Học keigo cao cấp dùng với khách (ご案内いたします / ご覧ください), từ vựng thanh tra (監査/是正/不適合), ISO 22000 + FSSC 22000 căn bản, cách dẫn khách tham quan, và cách giải quyết xung đột nội bộ.
 
 ---
 
 ## Bối cảnh
 
-Tháng 11. Khách lớn (chuỗi siêu thị aeon hệ Saitama) sắp gửi đoàn audit ISO 22000 vào thứ 6. Cả nhà máy chuẩn bị 1 tuần. Kimura-san chỉ huy đội vệ sinh — căng thẳng, ngày thứ 3 Hoa làm sai 1 quy trình clean-as-you-go, Kimura **quát to** trước cả tổ. Hoa ấm ức, kể với Satou. Tanaka-buchou gọi Hoa và Kimura lên phòng — hoà giải. Hoa hiểu áp lực Kimura. Ngày audit, Hoa được giao dẫn auditor tham quan 1 phần line — keigo cao cấp lần đầu. Sau audit, Kimura đến cảm ơn Hoa.
+Tháng 11. Khách lớn (chuỗi siêu thị aeon hệ Saitama) sắp gửi đoàn thanh tra ISO 22000 vào thứ 6. Cả nhà máy chuẩn bị 1 tuần. Kimura-san chỉ huy đội vệ sinh — căng thẳng, ngày thứ 3 Hoa làm sai 1 quy trình clean-as-you-go, Kimura **quát to** trước cả tổ. Hoa ấm ức, kể với Satou. Tanaka-buchou gọi Hoa và Kimura lên phòng — hoà giải. Hoa hiểu áp lực Kimura. Ngày thanh tra, Hoa được giao dẫn thanh tra viên tham quan 1 phần dây chuyền — keigo cao cấp lần đầu. Sau thanh tra, Kimura đến cảm ơn Hoa.
 
 ---
 
-## 1. Audit là gì?
+## 1. Thanh tra là gì?
 
 ### 1.1 Định nghĩa
 
-監査 (kansa — audit) = đánh giá độc lập xem hệ thống quản lý có đúng tiêu chuẩn không.
+監査 (kansa — thanh tra) = đánh giá độc lập xem hệ thống quản lý có đúng tiêu chuẩn không.
 
-| Loại audit | Tiếng Nhật | Người làm |
+| Loại thanh tra | Tiếng Nhật | Người làm |
 |---|---|---|
 | Nội bộ | <ruby>内部監査<rt>ないぶかんさ</rt></ruby> | Nhân viên QC nhà máy |
 | Bên thứ 2 | <ruby>取引先監査<rt>とりひきさきかんさ</rt></ruby> | Khách hàng (siêu thị, thương hiệu) |
 | Bên thứ 3 | <ruby>第三者監査<rt>だいさんしゃかんさ</rt></ruby> | Tổ chức chứng nhận (BSI, SGS) |
 
-### 1.2 Quy trình 1 cuộc audit (1 ngày)
+### 1.2 Quy trình 1 cuộc thanh tra (1 ngày)
 
 | Thời gian | Nội dung |
 |---|---|
-| 9:00-9:30 | Opening meeting |
-| 9:30-12:00 | Tham quan nhà máy + check tài liệu |
+| 9:00-9:30 | Họp khai mạc |
+| 9:30-12:00 | Tham quan nhà máy + kiểm tra tài liệu |
 | 12:00-13:00 | Nghỉ trưa |
-| 13:00-15:30 | Phỏng vấn nhân viên + check sâu |
-| 15:30-16:00 | Closing meeting (báo findings) |
-| 16:00-17:00 | Viết report sơ bộ |
+| 13:00-15:30 | Phỏng vấn nhân viên + kiểm tra chuyên sâu |
+| 15:30-16:00 | Họp bế mạc (báo phát hiện) |
+| 16:00-17:00 | Viết báo cáo sơ bộ |
 
 ---
 
-## 2. Vocab audit
+## 2. Từ vựng thanh tra
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
-| <ruby>監査<rt>かんさ</rt></ruby> | kansa | Audit |
-| <ruby>監査員<rt>かんさいん</rt></ruby> | kansa-in | Auditor |
+| <ruby>監査<rt>かんさ</rt></ruby> | kansa | Thanh tra |
+| <ruby>監査員<rt>かんさいん</rt></ruby> | kansa-in | Thanh tra viên |
 | <ruby>是正<rt>ぜせい</rt></ruby> | zesei | Khắc phục |
-| <ruby>不適合<rt>ふてきごう</rt></ruby> | futekigou | Non-conformance |
-| エビデンス | evidence | Bằng chứng (record, log) |
+| <ruby>不適合<rt>ふてきごう</rt></ruby> | futekigou | Không phù hợp |
+| エビデンス | evidence | Bằng chứng (hồ sơ, nhật ký) |
 | <ruby>是正措置<rt>ぜせいそち</rt></ruby> | zesei sochi | Hành động khắc phục |
 | <ruby>予防措置<rt>よぼうそち</rt></ruby> | yobou sochi | Hành động phòng ngừa |
 | <ruby>指摘<rt>してき</rt></ruby> | shiteki | Chỉ ra (lỗi) |
@@ -57,7 +57,7 @@ Tháng 11. Khách lớn (chuỗi siêu thị aeon hệ Saitama) sắp gửi đo�
 ### 3.1 ISO 22000
 
 - **Tên**: Hệ thống quản lý an toàn thực phẩm (Food Safety Management System)
-- **Nội dung**: HACCP + ISO 9001 (quality management) merged
+- **Nội dung**: HACCP + ISO 9001 (quản lý chất lượng) kết hợp
 - **Phạm vi**: Mọi tổ chức trong chuỗi cung ứng thực phẩm
 
 ### 3.2 FSSC 22000
@@ -65,18 +65,18 @@ Tháng 11. Khách lớn (chuỗi siêu thị aeon hệ Saitama) sắp gửi đo�
 - **Tên**: Food Safety System Certification 22000
 - **Nội dung**: ISO 22000 + ISO/TS 22002 (technical specs) + GFSI requirements
 - **Phạm vi**: Sản xuất thực phẩm (cụ thể hơn ISO 22000)
-- **Đặc điểm**: Được GFSI (Global Food Safety Initiative) công nhận → khách lớn (Wal-mart, Aeon) yêu cầu
+- **Đặc điểm**: Được GFSI (Sáng kiến An toàn Thực phẩm Toàn cầu) công nhận → khách lớn (Wal-mart, Aeon) yêu cầu
 
 ### 3.3 So sánh
 
 | Tiêu chí | ISO 22000 | FSSC 22000 |
 |---|---|---|
 | Phạm vi | Rộng | Hẹp + sâu |
-| Recognition GFSI | KHÔNG | CÓ |
+| Được GFSI công nhận | KHÔNG | CÓ |
 | Phù hợp | SME / chuỗi nhỏ | Nhà máy lớn / xuất khẩu |
-| Audit độ khắc | Vừa | Khắt khe hơn |
+| Mức độ khắt khe | Vừa | Khắt khe hơn |
 
-> 💡 Nhà máy của Hoa có FSSC 22000 → audit của khách aeon càng nghiêm.
+> Nhà máy của Hoa có FSSC 22000 → thanh tra của khách aeon càng nghiêm.
 
 ---
 
@@ -113,7 +113,7 @@ Tháng 11. Khách lớn (chuỗi siêu thị aeon hệ Saitama) sắp gửi đo�
 ### 4.4 Quy tắc giới thiệu sếp với khách
 
 ```
-Nội bộ:    "<ruby>田中部長<rt>たなかぶちょう</rt></ruby>"
+Nội bộ: "<ruby>田中部長<rt>たなかぶちょう</rt></ruby>"
 Với khách: "<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たなか</rt></ruby>" (HOẶC chỉ "<ruby>田中<rt>たなか</rt></ruby>")
 ```
 
@@ -147,7 +147,7 @@ Với khách: "<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たな
 原料入荷 → 検品 → 加熱 → 包装 → 検品(2) → 出荷
 ```
 
-→ Theo flow của sản phẩm, dễ giải thích.
+→ Theo luồng của sản phẩm, dễ giải thích.
 
 ---
 
@@ -163,7 +163,7 @@ Với khách: "<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たな
 
 ### 6.2 Khi bị sempai quát
 
-| Sai | Đúng |
+| Cách nói SAI | Cách nói ĐÚNG |
 |---|---|
 | Quát lại | Im lặng, cúi đầu |
 | Khóc trước mặt | Khóc sau khi về phòng riêng |
@@ -181,9 +181,9 @@ Với khách: "<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たな
 
 ---
 
-## 7. Tình huống mẫu — Hoa dẫn auditor tham quan
+## 7. Tình huống mẫu — Hoa dẫn thanh tra viên tham quan
 
-**Cảnh: Cửa khu đóng gói, 10:30 AM ngày audit**
+**Cảnh: Cửa khu đóng gói, 10:30 sáng ngày thanh tra**
 
 > **Hoa**: ご<ruby>案内<rt>あんない</rt></ruby><ruby>致<rt>いた</rt></ruby>します。こちらが<ruby>包装<rt>ほうそう</rt></ruby><ruby>区域<rt>くいき</rt></ruby>でございます。<ruby>足元<rt>あしもと</rt></ruby>にお<ruby>気<rt>き</rt></ruby>をつけください。
 > *(Em xin dẫn ạ. Đây là khu đóng gói. Cẩn thận chân ạ.)*
@@ -215,11 +215,11 @@ Với khách: "<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たな
 ### Phân tích
 
 - Mọi câu của Hoa đều dùng formal cao: ご~/ お~/ ~でございます / かしこまりました
-- Hoa biết spec cụ thể (Fe 1.5mm, Sus 2.5mm) → chuẩn bị kỹ
-- Hoa **chủ động hỏi** "他にご不明な点は?" → professional
-- Auditor khen "素晴らしい" → tin tưởng nhân viên
+- Hoa biết chỉ số kỹ thuật cụ thể (Fe 1.5mm, Sus 2.5mm) → chuẩn bị kỹ
+- Hoa **chủ động hỏi** "他にご不明な点は?" → chuyên nghiệp
+- Thanh tra viên khen "素晴らしい" → tin tưởng nhân viên
 
-> 💡 Auditor đánh giá **không chỉ tài liệu mà cả thái độ + kiến thức nhân viên line**. TTS thuộc spec = ấn tượng tốt.
+> Thanh tra viên đánh giá **không chỉ tài liệu mà cả thái độ + kiến thức nhân viên dây chuyền**. TTS thuộc chỉ số kỹ thuật = ấn tượng tốt.
 
 ---
 
@@ -237,7 +237,7 @@ Với khách: "<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たな
 > *(Kimura-san, kể chuyện hôm nay đi.)*
 >
 > **Kimura**: はい。ホアさんがクリーン<ruby>手順<rt>てじゅん</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ばしたので、<ruby>大声<rt>おおごえ</rt></ruby>で<ruby>注意<rt>ちゅうい</rt></ruby>しました。<ruby>監査<rt>かんさ</rt></ruby><ruby>前<rt>まえ</rt></ruby>で<ruby>気持<rt>きも</rt></ruby>ちが<ruby>焦<rt>あせ</rt></ruby>っていたかもしれません。<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby>はよくなかったと<ruby>思<rt>おも</rt></ruby>います。
-> *(Vâng. Hoa-san bỏ qua bước clean nên tôi đã nhắc lớn. Có lẽ tôi nóng vì sắp audit. Cách nói không tốt.)*
+> *(Vâng. Hoa-san bỏ qua bước clean nên tôi đã nhắc lớn. Có lẽ tôi nóng vì sắp thanh tra. Cách nói không tốt.)*
 >
 > **Tanaka**: ホアさんは?
 > *(Hoa-san thì sao?)*
@@ -255,7 +255,7 @@ Với khách: "<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たな
 
 ## 9. So sánh / Phân tích lỗi
 
-| ❌ SAI | ✅ ĐÚNG |
+| Cách nói SAI | Cách nói ĐÚNG |
 |---|---|
 | <ruby>田中部長<rt>たなかぶちょう</rt></ruby>が... (với khách) | <ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たなか</rt></ruby>が... |
 | (Nâng sếp uchi quá cao trước soto) | (Đúng uchi-soto) |
@@ -268,7 +268,7 @@ Với khách: "<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たな
 
 ---
 
-## 10. 📖 Vocab hôm nay
+## 10. Vocab hôm nay
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -277,49 +277,49 @@ Với khách: "<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たな
 | <ruby>頻度<rt>ひんど</rt></ruby> | hindo | Tần suất |
 | <ruby>記録<rt>きろく</rt></ruby> | kiroku | Hồ sơ ghi chép |
 | <ruby>是正報告書<rt>ぜせいほうこくしょ</rt></ruby> | zesei houkokusho | Báo cáo khắc phục |
-| <ruby>サンプリング<rt>さんぷりんぐ</rt></ruby> | sampling | Lấy mẫu |
+| <ruby>サンプリング<rt>さんぷりんぐ</rt></ruby> | sanpuringu | Lấy mẫu |
 | <ruby>立<rt>た</rt></ruby>ち<ruby>会<rt>あ</rt></ruby>い | tachiai | Đi cùng giám sát |
 
 ---
 
 ## 11. Tổng kết
 
-- **Audit 3 loại**: Nội bộ / Khách / Bên thứ 3 (chứng nhận)
-- **ISO 22000 vs FSSC 22000**: FSSC sâu + GFSI recognized
+- **Thanh tra 3 loại**: Nội bộ / Khách / Bên thứ 3 (chứng nhận)
+- **ISO 22000 vs FSSC 22000**: FSSC sâu + GFSI công nhận
 - **Keigo cao cấp với khách**: ご~/ お~/ ~でございます / かしこまりました
 - **Uchi-soto**: Với khách → BỎ chức danh sau tên sếp uchi
 - **Xung đột**: Im lặng → kể trung gian → hoà giải qua sếp
 
-> **Quy tắc vàng:** *Audit không phải để bắt lỗi — audit là để KAIZEN. Tự tin + chuẩn bị kỹ + thái độ tốt = audit pass.*
+> **Quy tắc vàng:** *Thanh tra không phải để bắt lỗi — thanh tra là để KAIZEN. Tự tin + chuẩn bị kỹ + thái độ tốt = thanh tra đạt.*
 
 ---
 
-## 12. 💡 Mẹo ghi nhớ
+## 12. Mẹo ghi nhớ
 
 | Mẹo | Nội dung |
 |---|---|
-| 🔺 Dẫn khách | "Trước nửa bước, tay phẳng, dừng ở góc nhìn đẹp" |
-| 🔻 Uchi-soto | "Trong nhà = uchi cao chức. Ra ngoài = uchi bỏ chức" |
-| 💡 Khi bị quát | Im lặng → cúi → "申し訳ございません" → KHÔNG bào chữa |
-| ⚠️ Không có "了解です" với auditor | Phải "かしこまりました" |
+|  Dẫn khách | "Trước nửa bước, tay phẳng, dừng ở góc nhìn đẹp" |
+|  Uchi-soto | "Trong nhà = uchi cao chức. Ra ngoài = uchi bỏ chức" |
+|  Khi bị quát | Im lặng → cúi → "申し訳ございません" → KHÔNG bào chữa |
+|  Không có "了解です" với auditor | Phải "かしこまりました" |
 
 ---
 
-## ✅ Mini check
+## Tự kiểm tra nhanh
 
 1. FSSC 22000 khác ISO 22000 chỗ nào?
-   - A. Phạm vi rộng hơn
-   - B. Được GFSI recognized
-   - C. Không cần audit
+ - A. Phạm vi rộng hơn
+ - B. Được GFSI công nhận
+ - C. Không cần thanh tra
 
 2. Khi giới thiệu sếp với khách:
-   - A. <ruby>田中部長<rt>たなかぶちょう</rt></ruby>でございます
-   - B. <ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たなか</rt></ruby>でございます
-   - C. <ruby>田中<rt>たなか</rt></ruby>さんです
+ - A. <ruby>田中部長<rt>たなかぶちょう</rt></ruby>でございます
+ - B. <ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たなか</rt></ruby>でございます
+ - C. <ruby>田中<rt>たなか</rt></ruby>さんです
 
 3. Khi bị sempai quát công khai:
-   - A. Quát lại
-   - B. Im lặng + cúi + xin lỗi
-   - C. Đi mách buchou ngay
+ - A. Quát lại
+ - B. Im lặng + cúi + xin lỗi
+ - C. Đi mách buchou ngay
 
 *(Đáp án: 1B, 2B, 3B)*

@@ -1,6 +1,6 @@
 ---
-id: 8001003
-curriculum_id: 8001
+id: 810000003
+curriculum_id: 800000001
 order_index: 3
 node_type: rule
 title: "Rule 03 — Nguyên tắc 3 chạm: gửi — nhận — xác nhận là đủ đóng gói một trao đổi"

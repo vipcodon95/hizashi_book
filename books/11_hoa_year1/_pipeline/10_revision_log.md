@@ -90,7 +90,7 @@ Topic mapping:
 3. **Iterate v1.1**:
    - Rebuild JSON T4-T12 BaiTap Level 1 + Mogishiken 240 câu với content thật
    - Apply 7 major fixes deferred
-4. **Update memory** `book_11_jisshusei_shokuhin.md` với status "v1.0 seeded"
+4. **Update memory** `book_11_hoa_year1.md` với status "v1.0 seeded"
 
 ## Pipeline metrics
 

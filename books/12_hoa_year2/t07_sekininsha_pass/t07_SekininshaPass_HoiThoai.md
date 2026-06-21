@@ -106,7 +106,7 @@ Ngày 15 tháng 10 năm 2027. Hoa làm việc tại nhà máy thực phẩm ở 
 
 | Vai | Lời thoại |
 |---|---|
-| Hoa | (nhìn màn hình loading rồi reo lên) <ruby>結果<rt>けっか</rt></ruby>が<ruby>出<rt>で</rt></ruby>た!18/20!<ruby>合格<rt>ごうかく</rt></ruby>!<br>*(Có kết quả rồi! 18/20! Đậu!)* |
+| Hoa | (nhìn màn hình đang tải rồi reo lên) <ruby>結果<rt>けっか</rt></ruby>が<ruby>出<rt>で</rt></ruby>た!18/20!<ruby>合格<rt>ごうかく</rt></ruby>!<br>*(Có kết quả rồi! 18/20! Đậu!)* |
 | Hoa | (mở cửa, gặp Suzuki đi qua) <ruby>鈴木<rt>すずき</rt></ruby>さん、<ruby>合格<rt>ごうかく</rt></ruby>しました! 18<ruby>点<rt>てん</rt></ruby>でした!<br>*(Anh Suzuki, em đậu rồi ạ! Được 18 điểm!)* |
 | Suzuki | <ruby>本当<rt>ほんとう</rt></ruby>に? <ruby>素晴<rt>すば</rt></ruby>らしい! おめでとう、ホアさん!<br>*(Thật à? Tuyệt vời! Chúc mừng Hoa-san!)* |
 | Hoa | おかげさまで<ruby>合格<rt>ごうかく</rt></ruby>できました。<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>貸<rt>か</rt></ruby>していただいて<ruby>本当<rt>ほんとう</rt></ruby>にありがとうございました。<br>*(Nhờ anh em mới đậu được. Cảm ơn anh đã cho mượn chỗ ạ.)* |
@@ -195,7 +195,7 @@ Ngày thi 食品衛生責任者, Hoa học được trọn bộ mẫu câu giao 
 
 ---
 
-## 💡 Bí quyết chương (metadata phụ)
+## Bí quyết chương
 
 - 食品衛生責任者 thi cấu trúc: 6h học e-learning (3 môn — 公衆衛生学 1h, 食品衛生学 3h, 食品衛生法 2h) + 30 phút thi 20 câu trắc nghiệm.
 - Đỗ: 60% (12/20). Hoa được 90% — thừa.

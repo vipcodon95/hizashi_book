@@ -1,6 +1,6 @@
 ---
-id: 8001050
-curriculum_id: 8001
+id: 810000050
+curriculum_id: 800000001
 order_index: 50
 node_type: rule
 title: "Rule 49 — Nhờ vì việc của mình: khiêm tốn, rõ hạn, nêu lợi ích đôi bên"

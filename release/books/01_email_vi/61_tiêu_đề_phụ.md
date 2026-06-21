@@ -1,6 +1,6 @@
 ---
-id: 8001061
-curriculum_id: 8001
+id: 810000061
+curriculum_id: 800000001
 order_index: 61
 node_type: rule
 title: "Rule 60 — Nhiều ý chính → tiêu đề phụ đánh số, như heading H3"

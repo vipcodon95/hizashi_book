@@ -1,6 +1,6 @@
 ---
-id: 8001012
-curriculum_id: 8001
+id: 810000012
+curriculum_id: 800000001
 order_index: 12
 node_type: rule
 title: "Rule 12 — Dòng \"Kính gửi\" đầy đủ"

@@ -1,6 +1,6 @@
 ---
-id: 8001043
-curriculum_id: 8001
+id: 810000043
+curriculum_id: 800000001
 order_index: 43
 node_type: rule
 title: "Rule 43 — Chuyển tiếp mail: luôn kèm 2 dòng giải thích bối cảnh và yêu cầu"

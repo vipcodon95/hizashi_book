@@ -1,5 +1,5 @@
 -- Hizashi book SQL — Email Công Việc / メール業務
--- curriculum_id = 8001
+-- curriculum_id = 800000001
 -- node count = 71
 -- generated từ release/books/01_email_vi/
 -- KHÔNG sửa thủ công file này. Chạy lại scripts/build_sql_from_release.py.
@@ -7,10 +7,10 @@
 BEGIN;
 
 -- 1) Curricula
-INSERT INTO curricula (id, level, type, category, title, introduction, introduction_jp, tenant_id, is_system, is_public, is_active, is_deleted, free_preview_count, status, created_at) VALUES (8001, NULL, 'markdown_book', 'BJT', 'Email Công Việc', 'Bộ sách Hizashi — Email Công Việc', 'Hizashi シリーズ — メール業務', 'system', TRUE, TRUE, TRUE, FALSE, 20, 'published', NOW()) ON CONFLICT (id) DO UPDATE SET type = EXCLUDED.type, title = EXCLUDED.title, introduction = EXCLUDED.introduction, introduction_jp = EXCLUDED.introduction_jp, category = EXCLUDED.category, tenant_id = EXCLUDED.tenant_id, is_system = EXCLUDED.is_system, is_public = EXCLUDED.is_public, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, free_preview_count = EXCLUDED.free_preview_count, status = EXCLUDED.status, updated_at = NOW();
+INSERT INTO curricula (id, level, type, category, title, introduction, introduction_jp, tenant_id, is_system, is_public, is_active, is_deleted, free_preview_count, status, created_at) VALUES (800000001, NULL, 'markdown_book', 'BJT', 'Email Công Việc', 'Bộ sách Hizashi — Email Công Việc', 'Hizashi シリーズ — メール業務', 'system', TRUE, TRUE, TRUE, FALSE, 20, 'published', NOW()) ON CONFLICT (id) DO UPDATE SET type = EXCLUDED.type, title = EXCLUDED.title, introduction = EXCLUDED.introduction, introduction_jp = EXCLUDED.introduction_jp, category = EXCLUDED.category, tenant_id = EXCLUDED.tenant_id, is_system = EXCLUDED.is_system, is_public = EXCLUDED.is_public, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, free_preview_count = EXCLUDED.free_preview_count, status = EXCLUDED.status, updated_at = NOW();
 
 -- 2) Curriculum nodes
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001001, 8001, NULL, 'markdown_book', 'Rule 01 — Viết mail là xin hai phút chú ý của một người bận rộn', '# Rule 01 — Viết mail là xin hai phút chú ý của một người bận rộn
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000001, 800000001, NULL, 'markdown_book', 'Rule 01 — Viết mail là xin hai phút chú ý của một người bận rộn', '# Rule 01 — Viết mail là xin hai phút chú ý của một người bận rộn
 > **Luận điểm.** Hộp mail của chị Hương sáng thứ Hai có 80 mail chưa đọc. Mỗi mail bạn gửi đi là đang xin 2 phút chú ý của một người đã có 80 việc khác. Viết thế nào để 2 phút đó thật sự *đáng* là câu hỏi phải tự hỏi trước khi gõ phím đầu tiên.
 >
 > Từ khóa của rule này: **"hai phút chú ý"**.
@@ -38,7 +38,7 @@ Em Dũng phát hiện 3 rủi ro ở Dự án Bình Minh và cần chị Hương
 >
 > - Anh Khoa (FE) xin nghỉ từ 05/05, chưa có người thay.
 > - API bên Hakuō trễ 1 tuần so với cam kết.
-> - Scope bị mở rộng do feedback từ team CS của khách.
+> - Phạm vi dự án bị mở rộng do phản hồi từ team CS của khách.
 >
 > Em đề xuất họp 30 phút với chị + anh Tuấn trong các khung sau:
 >
@@ -65,7 +65,7 @@ Chị chưa cần mở file đính kèm đã nắm được tình hình.
 > **"Em viết mail này để chị/anh không mất thêm thời gian gọi hỏi ngược."**
 
 *Dùng khi:* Đặt câu này (hoặc biến thể) ở dòng dẫn nhập, nó buộc bạn phải rà lại mail của mình xem có tự trả lời hết các câu hỏi khả dĩ chưa — *ai, việc gì, khi nào, làm sao, tại sao*.', 'system', 1, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001002, 8001, NULL, 'markdown_book', 'Rule 02 — Đổi trục câu từ "tôi muốn" sang "bạn cần biết"', '# Rule 02 — Đổi trục câu từ "tôi muốn" sang "bạn cần biết"
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000002, 800000001, NULL, 'markdown_book', 'Rule 02 — Đổi trục câu từ "tôi muốn" sang "bạn cần biết"', '# Rule 02 — Đổi trục câu từ "tôi muốn" sang "bạn cần biết"
 > **Luận điểm.** Hầu hết email kém hiệu quả có cùng một khuyết tật: chủ ngữ của mọi câu là "tôi/em". *"Em muốn gửi chị…"*, *"Em nghĩ là…"*, *"Em đề xuất…"*. Người đọc phải tự dịch ngược: "Vậy tôi phải làm gì". Mail tốt đảo trục — chủ ngữ là *chị / anh* + động từ cần hành động.
 >
 > Từ khóa của rule này: **"trục bạn cần biết"**.
@@ -105,7 +105,7 @@ Vẫn là trục bạn, nhưng dưới dạng lời nhờ.
 > **"Chị/anh cần [hành động cụ thể] trước [ngày] để em [kết quả cụ thể]."**
 
 *Dùng khi:* mở đầu mọi mail xin phê duyệt, xin ý kiến, xin hành động. Ba chỗ trong ngoặc vuông là ba ô bắt buộc phải điền — nếu điền được cả ba, bạn đã chuyển thành công sang trục bạn cần biết.', 'system', 2, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001003, 8001, NULL, 'markdown_book', 'Rule 03 — Nguyên tắc 3 chạm: gửi — nhận — xác nhận là đủ đóng gói một trao đổi', '# Rule 03 — Nguyên tắc 3 chạm: gửi — nhận — xác nhận là đủ đóng gói một trao đổi
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000003, 800000001, NULL, 'markdown_book', 'Rule 03 — Nguyên tắc 3 chạm: gửi — nhận — xác nhận là đủ đóng gói một trao đổi', '# Rule 03 — Nguyên tắc 3 chạm: gửi — nhận — xác nhận là đủ đóng gói một trao đổi
 > **Luận điểm.** Một trao đổi email hiệu quả kết thúc trong **3 mail**: (1) bạn gửi yêu cầu kèm *đủ thông tin cần thiết*, (2) người kia trả lời / chọn, (3) bạn xác nhận ghi nhận. Hơn 3 mail là dấu hiệu bạn đã đóng gói thiếu ở mail đầu.
 >
 > Từ khóa của rule này: **"3 chạm"**.
@@ -160,7 +160,7 @@ Chìa khóa vẫn là một bên (ở đây là Dũng) chủ động đóng gói
 > **"Em đề xuất [N phương án cụ thể]. Anh/chị chọn khung phù hợp hoặc gợi ý khung khác giúp em nhé."**
 
 *Dùng khi:* bất cứ khi nào cần đối phương ra lựa chọn — lịch hẹn, chọn phương án, chọn mức ngân sách, chọn hạng mục ưu tiên. Câu này gom sẵn mọi phương án để đối phương chỉ cần 1 lượt reply là xong.', 'system', 3, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001004, 8001, NULL, 'markdown_book', 'Rule 04 — Cửa sổ 24 giờ vàng', '# Rule 04 — Cửa sổ 24 giờ vàng
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000004, 800000001, NULL, 'markdown_book', 'Rule 04 — Cửa sổ 24 giờ vàng', '# Rule 04 — Cửa sổ 24 giờ vàng
 > **Luận điểm.** Tiêu chuẩn ngầm ở hầu hết môi trường công sở chuyên nghiệp là **24 giờ**: nhận mail hôm nay thì trả lời trước giờ đi làm ngày mai. Kể cả khi chưa có câu trả lời đầy đủ, bạn vẫn phải gửi một mail xác nhận "đã nhận, sẽ trả lời vào X". Im lặng quá 24 giờ là tín hiệu bất ổn — dù bạn có đang thật sự xử lý.
 >
 > Từ khóa của rule này: **"24 giờ vàng"**.
@@ -204,15 +204,15 @@ Nếu *bạn* đã gửi mail quan trọng và sau 24 giờ chưa có phản h�
 > **"Em đã nhận mail của anh/chị. Em sẽ phản hồi đầy đủ trước [ngày và giờ cụ thể]."**
 
 *Dùng khi:* bạn chưa thể trả lời đầy đủ trong ngày. Câu này giữ niềm tin trong thời gian bạn xử lý sâu, và đặt ra một cam kết bạn có thể quản lý được — quan trọng hơn nhiều một mail hoàn chỉnh đến muộn.', 'system', 4, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001005, 8001, NULL, 'markdown_book', 'Rule 05 — Tự hỏi "Tôi muốn người đọc làm gì sau khi đọc?"', '# Rule 05 — Tự hỏi "Tôi muốn người đọc làm gì sau khi đọc?"
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000005, 800000001, NULL, 'markdown_book', 'Rule 05 — Tự hỏi "Tôi muốn người đọc làm gì sau khi đọc?"', '# Rule 05 — Tự hỏi "Tôi muốn người đọc làm gì sau khi đọc?"
 > **Luận điểm.** Trước khi bấm Send, dừng 10 giây và tự trả lời một câu duy nhất: *"Sau khi đọc mail này, tôi muốn người đọc làm **chính xác** cái gì?"*. Nếu câu trả lời không phải một **động từ cụ thể** — *duyệt*, *chọn 1 trong 3*, *ký*, *gọi cho em Dũng trước 15h* — thì mail chưa sẵn sàng gửi.
 >
-> Từ khóa của rule này: **"CTA rõ"** (call-to-action rõ).
+> Từ khóa của rule này: **"yêu cầu hành động rõ"** (call-to-action).
 
 ## Bối cảnh
 Em Linh — thực tập sinh bên Marketing — viết mail đầu tiên gửi sếp chị Hương, đề xuất ý tưởng chiến dịch mạng xã hội cho Dự án Bình Minh.
 
-## Ví dụ XẤU — mail không có CTA
+## Ví dụ XẤU — mail không có yêu cầu hành động
 > Chị Hương ạ,
 >
 > Em là Linh, thực tập sinh bên Marketing. Em có ý tưởng về chiến dịch mạng xã hội cho Dự án Bình Minh. Em nghĩ là có thể làm theo 3 hướng: hướng A tập trung Facebook, hướng B dùng TikTok, hướng C kết hợp cả hai. Em viết gửi chị tham khảo ạ.
@@ -221,7 +221,7 @@ Em Linh — thực tập sinh bên Marketing — viết mail đầu tiên gửi 
 
 **Vì sao chưa ổn.** Chị Hương đọc xong không biết mình cần làm gì. *Đọc để biết? Chọn một hướng? Góp ý nội dung? Duyệt để Linh bắt tay làm?* Mail này gần như chắc chắn sẽ nằm trong hộp "đọc sau" vô thời hạn — không phải vì chị không quan tâm, mà vì chị không biết chị đang phải *hành động* gì.
 
-## Ví dụ TỐT — CTA rõ, deadline rõ
+## Ví dụ TỐT — yêu cầu hành động rõ, deadline rõ
 > Chị Hương ạ,
 >
 > Em là Linh, thực tập sinh bên Marketing. Em đã phác 3 hướng chiến dịch mạng xã hội cho Dự án Bình Minh (tài liệu đính kèm, dài 2 trang).
@@ -236,7 +236,7 @@ Em Linh — thực tập sinh bên Marketing — viết mail đầu tiên gửi 
 **So sánh.** Cùng một ý tưởng, cùng một mức độ cầu thị — nhưng bản TỐT gọi đúng tên hành động chị Hương phải làm (*chọn 1 trong 3*), đưa deadline (*trước thứ Sáu 09/05*) và có **phương án dự phòng** nếu chị chưa đủ thông tin để chọn (thuyết minh 15 phút).
 
 ## Biến thể — Khi không cần người đọc làm gì
-Nếu CTA của bạn thật sự là "đọc để biết, không cần phản hồi", **hãy nói thẳng điều đó**:
+Nếu yêu cầu hành động của bạn thật sự là "đọc để biết, không cần phản hồi", **hãy nói thẳng điều đó**:
 
 > "Mail này chỉ để chị nắm thông tin, em không cần chị phản hồi."
 
@@ -245,8 +245,8 @@ Một câu nhỏ này cứu chị Hương khỏi áp lực "có phải mình đa
 ## Cụm từ mẫu
 > **"Em xin chị/anh [động từ cụ thể] [cái gì cụ thể] trước [ngày cụ thể] để em [mục đích cụ thể]."**
 
-*Dùng khi:* mọi mail có yêu cầu hành động. Bốn ô *cụ thể* là bốn kiểm tra bắt buộc — nếu điền được cả bốn, CTA của bạn đã rõ.', 'system', 5, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001006, 8001, NULL, 'markdown_book', 'Rule 06 — Bảy từ ở dòng tiêu đề quyết định mail được mở hay không', '# Rule 06 — Bảy từ ở dòng tiêu đề quyết định mail được mở hay không
+*Dùng khi:* mọi mail có yêu cầu hành động. Bốn ô *cụ thể* là bốn kiểm tra bắt buộc — nếu điền được cả bốn, yêu cầu hành động của bạn đã rõ.', 'system', 5, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000006, 800000001, NULL, 'markdown_book', 'Rule 06 — Bảy từ ở dòng tiêu đề quyết định mail được mở hay không', '# Rule 06 — Bảy từ ở dòng tiêu đề quyết định mail được mở hay không
 > **Luận điểm.** Trên màn hình điện thoại — nơi chị Hương kiểm mail 70% thời gian — chỉ khoảng **45–55 ký tự đầu** của tiêu đề được hiển thị, tương đương **7–10 từ tiếng Việt có dấu**. Nếu 7 từ đó không trả lời được *"mail này về cái gì và tôi có cần mở ngay không"*, mail của bạn bị đẩy xuống cuối danh sách chờ — có khi vĩnh viễn.
 >
 > Từ khóa của rule này: **"7 từ quyết định"**.
@@ -306,7 +306,7 @@ Chữ **FYI** (for your information) hoặc **[Thông tin]** là tín hiệu "kh
 > **`[Tag dự án]` + `Động từ rõ` + `Đối tượng cụ thể` + `Deadline/Mức độ`**
 
 *Dùng khi:* mọi tiêu đề mail công việc. Công thức 4 thành phần này áp dụng được cho ~90% mail. Nếu bạn không điền được 4 thành phần trong 55 ký tự, mail của bạn đang chứa nhiều chủ đề — xem Rule 07.', 'system', 6, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001007, 8001, NULL, 'markdown_book', 'Rule 07 — Một mail một chủ đề', '# Rule 07 — Một mail một chủ đề
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000007, 800000001, NULL, 'markdown_book', 'Rule 07 — Một mail một chủ đề', '# Rule 07 — Một mail một chủ đề
 > **Luận điểm.** Mỗi mail chỉ bàn **một việc**. Khi bạn nhét 2 việc khác nhau vào cùng 1 mail, xác suất lớn là phần được trả lời chỉ là phần đầu; phần thứ hai bị đọc lướt, rồi bị quên, rồi nằm im trong thread cho đến khi bạn phải gửi mail nhắc. Đây là cách tự tạo việc cho chính mình.
 >
 > Từ khóa của rule này: **"một mail một việc"**.
@@ -354,7 +354,7 @@ Chị Hương có 2 mail riêng. Chị trả lời mail 1, sau đó chị trả 
 ## Biến thể — Khi 2 việc thật sự gắn với nhau
 Có những trường hợp 2 việc không thể tách vì chúng phụ thuộc lẫn nhau:
 
-- Budget phát sinh *phụ thuộc vào* kết quả review: cần biết review có đồng ý mở scope không mới quyết được budget.
+- Budget phát sinh *phụ thuộc vào* kết quả review: cần biết review có đồng ý mở phạm vi không mới quyết được budget.
 
 Khi đó **phải gộp**, nhưng phải áp dụng **Rule 08** (tiêu đề hai vế) để người nhận biết trước mail có 2 phần.
 
@@ -362,7 +362,7 @@ Khi đó **phải gộp**, nhưng phải áp dụng **Rule 08** (tiêu đề hai
 > **"Hai việc khác nhau = hai mail khác nhau = hai thread khác nhau."**
 
 *Dùng khi:* đứng trước nút Send và thấy mail của mình có từ "và" nối 2 yêu cầu lớn. Đó là tín hiệu phải tách thành 2 mail.', 'system', 7, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001008, 8001, NULL, 'markdown_book', 'Rule 08 — Tiêu đề hai vế, ngăn bằng dấu "|"', '# Rule 08 — Tiêu đề hai vế, ngăn bằng dấu "|"
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000008, 800000001, NULL, 'markdown_book', 'Rule 08 — Tiêu đề hai vế, ngăn bằng dấu "|"', '# Rule 08 — Tiêu đề hai vế, ngăn bằng dấu "|"
 > **Luận điểm.** Khi hai việc thật sự gắn với nhau và bắt buộc phải đi chung một mail (xem Rule 07 để chắc chắn bạn đã tách được), tiêu đề phải **báo trước** cho người đọc rằng mail có hai vế. Quy ước đơn giản và dễ đọc: dùng dấu **`|`** (sổ đứng) làm phân cách giữa hai vế.
 >
 > Từ khóa của rule này: **"tiêu đề hai vế"**.
@@ -388,7 +388,7 @@ Chị Hương sắp đi công tác 3 ngày và chỉ còn 10 phút trước khi 
 ## Body tương ứng
 > Chị Hương,
 >
-> Vì hai việc này phụ thuộc nhau (scope review sẽ chốt budget), em gộp trong một mail, chia làm 2 phần:
+> Vì hai việc này phụ thuộc nhau (phạm vi review sẽ chốt budget), em gộp trong một mail, chia làm 2 phần:
 >
 > **Phần 1 — Budget 80 triệu phát sinh**
 > (3 dòng tóm tắt + file đính kèm)
@@ -411,7 +411,7 @@ Nếu tiêu đề cần 3 vế trở lên, đó là dấu hiệu mail của bạ
 > **`[Tag dự án] Việc 1 | Việc 2 — bối cảnh/deadline`**
 
 *Dùng khi:* bắt buộc gộp 2 việc trong một mail. Dấu `|` là "dấu hiệu hai vế" bạn và đội của bạn có thể quy ước dùng chung — sau một thời gian, chỉ cần nhìn dấu đó ở tiêu đề là biết mail cần đọc kỹ cả hai phần.', 'system', 8, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001009, 8001, NULL, 'markdown_book', 'Rule 09 — "Re:" và khi nào nên đặt tiêu đề mới', '# Rule 09 — "Re:" và khi nào nên đặt tiêu đề mới
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000009, 800000001, NULL, 'markdown_book', 'Rule 09 — "Re:" và khi nào nên đặt tiêu đề mới', '# Rule 09 — "Re:" và khi nào nên đặt tiêu đề mới
 > **Luận điểm.** Giữ **"Re:"** khi reply trong cùng một chủ đề — email client sẽ gom lại thành *thread* (chuỗi hội thoại) gọn gàng, tra cứu được. Nhưng khi chủ đề đổi, dù vẫn cùng người nhận, **phải bắt đầu một mail mới với tiêu đề mới**. Reply trong thread cũ rồi nói việc khác là cách nhanh nhất để biến hộp mail thành mớ lộn xộn.
 >
 > Từ khóa của rule này: **"giữ thread, đổi chủ đề"**.
@@ -466,7 +466,7 @@ Không phải mỗi thay đổi nhỏ đều cần tiêu đề mới. Nếu bạ
 > **"Giữ Re: khi cùng chủ đề. Đổi chủ đề thì mở mail mới."**
 
 *Dùng khi:* sau mỗi mail bạn định bấm Reply, tự hỏi: *"Nội dung tôi sắp viết có cùng chủ đề với tiêu đề thread hiện tại không?"*. Nếu không, bấm New Message.', 'system', 9, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001010, 8001, NULL, 'markdown_book', 'Rule 10 — Tên hiển thị đúng chuẩn: họ tên thật + công ty', '# Rule 10 — Tên hiển thị đúng chuẩn: họ tên thật + công ty
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000010, 800000001, NULL, 'markdown_book', 'Rule 10 — Tên hiển thị đúng chuẩn: họ tên thật + công ty', '# Rule 10 — Tên hiển thị đúng chuẩn: họ tên thật + công ty
 > **Luận điểm.** Tên hiển thị (*sender name*) là thứ người nhận thấy **trước cả tiêu đề**. Nó trả lời câu hỏi đầu tiên trong đầu họ: *"Ai đang nhắn tôi?"*. Nếu tên hiển thị là "Dũng", "D.", hay "dungdev", người nhận phải mở mail mới biết đây có phải là bạn — đặc biệt khi họ biết 3 người tên Dũng. Đây là thứ bạn chỉ cần chỉnh đúng 1 lần, nhưng ảnh hưởng mọi mail bạn gửi trong 5 năm tới.
 >
 > Từ khóa của rule này: **"họ tên + công ty"**.
@@ -523,7 +523,7 @@ Chị Hương nhận mail từ một người tên Dũng. Chị biết 4 ngườ
 > **"Tên hiển thị = Họ tên đầy đủ + dấu gạch + Công ty viết gọn."**
 
 *Dùng khi:* sáng thứ Hai tuần này. Mở email client, chỉnh đúng 1 lần, có hiệu lực cho mọi mail bạn gửi trong 5 năm tới. Đây là đầu tư 2 phút sinh lợi cao nhất trong cuốn sách này.', 'system', 10, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001011, 8001, NULL, 'markdown_book', 'Rule 11 — Khung 5 khối của một email hoàn chỉnh', '# Rule 11 — Khung 5 khối của một email hoàn chỉnh
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000011, 800000001, NULL, 'markdown_book', 'Rule 11 — Khung 5 khối của một email hoàn chỉnh', '# Rule 11 — Khung 5 khối của một email hoàn chỉnh
 > **Luận điểm.** Một email chuyên nghiệp luôn có **5 khối** theo trình tự cố định: **Kính gửi → Mở đầu → Thân mail → Kết → Chữ ký**. Bỏ hoặc đảo khối là chuyện của chat (Zalo, Slack) — ở email, khung 5 khối là mặc định. Người đọc lướt mắt từ trên xuống theo thói quen; phá khung nghĩa là buộc họ tìm thông tin ở chỗ bất ngờ.
 >
 > Từ khóa của rule này: **"5 khối"**.
@@ -601,7 +601,7 @@ Vẫn có *Kính gửi* rút gọn ("Chị Hương,"), vẫn có *Thân mail*, v
 > **"Kính gửi → Mở đầu → Thân → Kết → Chữ ký. Thiếu khối nào, biết lý do vì sao thiếu."**
 
 *Dùng khi:* trước khi bấm Send, lướt mắt từ trên xuống kiểm 5 khối. Một phút này phòng được cảm giác "mail sao mà cộc lốc".', 'system', 11, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001012, 8001, NULL, 'markdown_book', 'Rule 12 — Dòng "Kính gửi" đầy đủ', '# Rule 12 — Dòng "Kính gửi" đầy đủ
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000012, 800000001, NULL, 'markdown_book', 'Rule 12 — Dòng "Kính gửi" đầy đủ', '# Rule 12 — Dòng "Kính gửi" đầy đủ
 > **Luận điểm.** Dòng mở đầu đầy đủ có **5 thành phần** theo thứ tự: *Kính gửi* + *chức vụ* + *họ tên* + *phòng ban* + *công ty*. Ở các tình huống ít trang trọng hơn, bạn có thể lược bớt thành phần, nhưng phải **lược từ đầu ra sau theo một nguyên tắc nhất quán**, không phải bỏ tuỳ ý.
 >
 > Từ khóa của rule này: **"5 thành phần, lược có nguyên tắc"**.
@@ -674,7 +674,7 @@ Gửi hai cấp khác nhau trong cùng mail (người nhận chính là sếp, C
 > **"Kính gửi + chức vụ + họ tên + phòng ban + công ty. Lược từ ngoài vào, không lược tùy ý."**
 
 *Dùng khi:* trước khi gõ phần còn lại của mail. Dòng này là thứ người đọc thấy đầu tiên khi mở thư — nó định hình cảm giác về toàn bộ phần còn lại.', 'system', 12, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001013, 8001, NULL, 'markdown_book', 'Rule 13 — Câu chào mở đầu không bỏ qua, ngay cả với người đã quen', '# Rule 13 — Câu chào mở đầu không bỏ qua, ngay cả với người đã quen
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000013, 800000001, NULL, 'markdown_book', 'Rule 13 — Câu chào mở đầu không bỏ qua, ngay cả với người đã quen', '# Rule 13 — Câu chào mở đầu không bỏ qua, ngay cả với người đã quen
 > **Luận điểm.** Sau dòng "Kính gửi" là một **câu chào**. Nhiệm vụ của nó không phải truyền đạt thông tin — mà là *bật công tắc mềm* cho người đọc: chuyển từ trạng thái lướt hộp mail sang trạng thái đọc kỹ. Một câu. Không cần hơn. Nhưng cũng không được bỏ.
 >
 > Từ khóa của rule này: **"công tắc mềm"**.
@@ -747,7 +747,7 @@ Không có câu chào riêng, nhưng vì đang trong thread trao đổi liên t�
 > **"Một dòng chào. Không hơn. Nhưng không được thiếu."**
 
 *Dùng khi:* mọi mail mở mới (không phải reply trong ngày). Sau khi có chất liệu câu chào rồi, bạn có thể chuẩn bị sẵn 3–5 câu theo ngữ cảnh dùng luân phiên, để không lặp một câu "Chúc chị một tuần làm việc hiệu quả" suốt năm.', 'system', 13, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001014, 8001, NULL, 'markdown_book', 'Rule 14 — Dòng dẫn nhập: nêu mục đích mail trong 1–2 câu', '# Rule 14 — Dòng dẫn nhập: nêu mục đích mail trong 1–2 câu
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000014, 800000001, NULL, 'markdown_book', 'Rule 14 — Dòng dẫn nhập: nêu mục đích mail trong 1–2 câu', '# Rule 14 — Dòng dẫn nhập: nêu mục đích mail trong 1–2 câu
 > **Luận điểm.** Sau câu chào là một **dòng dẫn nhập** (1–2 câu) nói rõ *vì sao bạn đang viết mail này*. Không kể bối cảnh một đoạn dài rồi mới đến mục đích — người đọc đã mở mail, họ không cần được dẫn tay qua 5 đoạn ngoại đề; họ cần biết ngay mail này là về cái gì và mình phải làm gì.
 >
 > Từ khóa của rule này: **"dẫn nhập 1–2 câu"**.
@@ -774,7 +774,7 @@ Dũng viết mail xin chị Hương duyệt phát sinh.
 > Em viết mail này để **xin chị duyệt phát sinh 80 triệu cho Dự án Bình Minh, trước thứ Năm 15/05**. Phần bên dưới là lý do và chi tiết để chị tham khảo.
 >
 > **Lý do phát sinh**
-> Tuần trước team bảo mật của Hakuō đưa ra yêu cầu kiểm thử mới, không nằm trong scope ban đầu. Em đã so sánh giá từ 3 nhà thầu phụ, kèm so sánh đính kèm.
+> Tuần trước team bảo mật của Hakuō đưa ra yêu cầu kiểm thử mới, không nằm trong phạm vi ban đầu. Em đã so sánh giá từ 3 nhà thầu phụ, kèm so sánh đính kèm.
 >
 > **Chi tiết**
 > - Hạng mục: thuê ngoài kiểm thử bảo mật.
@@ -803,7 +803,7 @@ Biến thể:
 - **Nhờ:** "Em viết mail này để nhờ chị hỗ trợ em [X] trước [ngày]."
 
 ## Biến thể — Khi dẫn nhập có thể rút xuống 1 câu
-Nếu mail rất ngắn (≤5 dòng) và CTA đã nằm ngay trong dòng dẫn nhập, không cần 2 câu:
+Nếu mail rất ngắn (≤5 dòng) và yêu cầu hành động đã nằm ngay trong dòng dẫn nhập, không cần 2 câu:
 
 > "Em xin chị duyệt giúp em phát sinh 80 triệu Bình Minh (file đính kèm), trước 15/05."
 
@@ -813,8 +813,8 @@ Cả mail có thể chỉ là câu này + câu cảm ơn + chữ ký.
 > **"Em viết mail này để [động từ cụ thể] [đối tượng cụ thể] trước [deadline]."**
 
 *Dùng khi:* sau câu chào. Đây là câu thứ ba (tính cả "Kính gửi") của mail — nơi người đọc quyết định có tiếp tục đọc kỹ hay không.', 'system', 14, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001015, 8001, NULL, 'markdown_book', 'Rule 15 — Thân mail đi theo trục Kết luận → Lý do → Chi tiết, không ngược lại', '# Rule 15 — Thân mail đi theo trục Kết luận → Lý do → Chi tiết, không ngược lại
-> **Luận điểm.** Khi viết báo chí có khái niệm **"kim tự tháp ngược"** (*inverted pyramid*): đưa thông tin quan trọng nhất lên đầu, thông tin bổ sung xuống đuôi. Email chuyên nghiệp đi theo đúng logic đó — **Kết luận trước, Lý do giữa, Chi tiết cuối**. Người bận đọc đến đâu cũng đủ hiểu để hành động.
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000015, 800000001, NULL, 'markdown_book', 'Rule 15 — Thân mail đi theo trục Kết luận → Lý do → Chi tiết, không ngược lại', '# Rule 15 — Thân mail đi theo trục Kết luận → Lý do → Chi tiết, không ngược lại
+> **Luận điểm.** Khi viết báo chí có khái niệm **"kim tự tháp ngược"**: đưa thông tin quan trọng nhất lên đầu, thông tin bổ sung xuống đuôi. Email chuyên nghiệp đi theo đúng logic đó — **Kết luận trước, Lý do giữa, Chi tiết cuối**. Người bận đọc đến đâu cũng đủ hiểu để hành động.
 >
 > Từ khóa của rule này: **"kim tự tháp ngược"**.
 
@@ -871,7 +871,7 @@ Chị Hương phải xử lý 80 mail trong buổi sáng. Chị mở mail của 
 > **"Kết luận trước — Lý do giữa — Chi tiết cuối. Ai đọc đến đâu cũng hành động được đến đó."**
 
 *Dùng khi:* mọi mail báo cáo, xin duyệt, xin ý kiến, thông báo. Trước khi gửi, thử *xoá 50% từ cuối mail* — nếu người đọc vẫn biết phải làm gì thì cấu trúc của bạn đúng kim tự tháp ngược.', 'system', 15, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001016, 8001, NULL, 'markdown_book', 'Rule 16 — Câu kết: "đóng cửa" gọn gàng, không bỏ lửng', '# Rule 16 — Câu kết: "đóng cửa" gọn gàng, không bỏ lửng
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000016, 800000001, NULL, 'markdown_book', 'Rule 16 — Câu kết: "đóng cửa" gọn gàng, không bỏ lửng', '# Rule 16 — Câu kết: "đóng cửa" gọn gàng, không bỏ lửng
 > **Luận điểm.** Mail không có câu kết cho cảm giác **nói nửa chừng rồi bỏ đi**. Nó không lớn, chỉ 1–2 câu, nhưng là dấu *đóng cửa* cho cả thư. Câu kết tốt làm ba việc cùng lúc: (1) *tóm lại hành động chờ ở đối phương*, (2) *cảm ơn*, (3) *mở đường nếu cần trao đổi thêm*.
 >
 > Từ khóa của rule này: **"đóng cửa mail"**.
@@ -896,7 +896,7 @@ Dũng vừa trình bày xong phần thân mail xin duyệt phát sinh. Giờ đ�
 ### Mẫu 1 — Tiêu chuẩn (dùng cho 80% mail công việc)
 > Em cảm ơn chị và mong chị phản hồi trước thứ Năm 15/05.
 
-Làm đủ ba việc: tóm CTA (phản hồi), deadline (15/05), cảm ơn.
+Làm đủ ba việc: tóm yêu cầu hành động (phản hồi), deadline (15/05), cảm ơn.
 
 ### Mẫu 2 — Trang trọng hơn (mail gửi lên cao, khách hàng quan trọng)
 > Em chân thành cảm ơn chị đã dành thời gian. Nếu chị cần em bổ sung thông tin hoặc giải trình thêm, em sẵn sàng phản hồi. Em đợi phản hồi của chị trước thứ Năm 15/05.
@@ -906,7 +906,7 @@ Thêm: mở đường giải trình, nhấn mạnh sẵn sàng hỗ trợ.
 ### Mẫu 3 — Rút gọn (nội bộ, giữa hai người thân)
 > Em cảm ơn chị. Chị xem giúp em trước 15/05 nhé.
 
-Vẫn có đủ CTA + deadline + cảm ơn, chỉ cô đọng hơn.
+Vẫn có đủ yêu cầu hành động + deadline + cảm ơn, chỉ cô đọng hơn.
 
 ## Bộ công cụ câu kết theo tình huống
 | Tình huống | Câu kết gợi ý |
@@ -926,10 +926,10 @@ Nếu mail siêu ngắn (Rule 30 — mail 1 dòng), câu kết có thể *gộp*
 Cả "nội dung" và "cảm ơn" nằm trong 1 câu. Mail *đóng cửa* vẫn gọn.
 
 ## Cụm từ mẫu
-> **"Câu kết tóm CTA, cảm ơn, mở đường. Một đến hai câu. Không dấu ba chấm, không ''Thanks'' cụt."**
+> **"Câu kết tóm yêu cầu hành động, cảm ơn, mở đường. Một đến hai câu. Không dấu ba chấm, không ''Thanks'' cụt."**
 
 *Dùng khi:* trước chữ ký. Đây là câu cuối cùng người đọc thấy — nó quyết định dư vị còn đọng lại sau khi đóng mail.', 'system', 16, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001017, 8001, NULL, 'markdown_book', 'Rule 17 — Chữ ký hai kiểu: bản chuẩn cho khách hàng, bản ngắn cho nội bộ', '# Rule 17 — Chữ ký hai kiểu: bản chuẩn cho khách hàng, bản ngắn cho nội bộ
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000017, 800000001, NULL, 'markdown_book', 'Rule 17 — Chữ ký hai kiểu: bản chuẩn cho khách hàng, bản ngắn cho nội bộ', '# Rule 17 — Chữ ký hai kiểu: bản chuẩn cho khách hàng, bản ngắn cho nội bộ
 > **Luận điểm.** Email client hiện đại (Gmail, Outlook) cho phép lưu **nhiều chữ ký** và chọn lúc soạn. Bạn cần ít nhất **hai bản**: (A) *bản chuẩn* đầy đủ thông tin liên hệ, dùng khi gửi cho khách hàng hoặc đối tác; (B) *bản ngắn* chỉ có tên + phòng ban, dùng trong nội bộ. Dùng bản A cho bạn thân cùng công ty là phô trương; dùng bản B cho khách hàng là thiếu chuyên nghiệp.
 >
 > Từ khóa của rule này: **"hai chữ ký"**.
@@ -1028,7 +1028,7 @@ Thien Phat Co., Ltd.
 > **"Hai bản chữ ký. Đổi bản trước khi Send. Một giây."**
 
 *Dùng khi:* Thiết lập 2 bản vào thứ Hai tuần này. Từ đó, mỗi mail bạn gửi đều phản ánh đúng ngữ cảnh — chuyên nghiệp với khách, nhẹ nhàng với đồng nghiệp.', 'system', 17, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001018, 8001, NULL, 'markdown_book', 'Rule 18 — Mail lặp lại → tạo kho template cá nhân trong Drafts', '# Rule 18 — Mail lặp lại → tạo kho template cá nhân trong Drafts
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000018, 800000001, NULL, 'markdown_book', 'Rule 18 — Mail lặp lại → tạo kho template cá nhân trong Drafts', '# Rule 18 — Mail lặp lại → tạo kho template cá nhân trong Drafts
 > **Luận điểm.** Nếu bạn viết một loại mail **từ ba lần trở lên** — báo cáo tuần, xin dời lịch, nhắc hoá đơn, chào hàng, từ chối… — thì bạn đang lãng phí mỗi lần viết lại từ đầu. Tạo **template cá nhân** lưu trong Drafts hoặc trong tính năng Templates. Mỗi mail mới chỉ cần copy, điền 3 chỗ, gửi.
 >
 > Từ khóa của rule này: **"mail >3 lần = template"**.
@@ -1129,7 +1129,7 @@ Nhược điểm: thêm 1 cửa sổ phải quản lý.
 > **"Viết >3 lần = tạo template. 5 phút thiết lập, tiết kiệm 8 ngày công mỗi năm."**
 
 *Dùng khi:* lần tới bạn ngồi xuống viết một mail, hãy tự hỏi "mình có viết loại mail này 3 lần rồi chưa?". Nếu có — lần này viết xong, lưu làm template. Lần sau chỉ còn việc điền.', 'system', 18, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001019, 8001, NULL, 'markdown_book', 'Rule 19 — Ba dấu hiệu nên gọi điện hoặc họp thay vì mail', '# Rule 19 — Ba dấu hiệu nên gọi điện hoặc họp thay vì mail
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000019, 800000001, NULL, 'markdown_book', 'Rule 19 — Ba dấu hiệu nên gọi điện hoặc họp thay vì mail', '# Rule 19 — Ba dấu hiệu nên gọi điện hoặc họp thay vì mail
 > **Luận điểm.** Không phải việc gì cũng hợp với email. Có **ba dấu hiệu** rõ ràng báo cho bạn biết *"dừng gõ mail, nhấc máy lên"*. Biết nhận ra ba dấu hiệu này giúp bạn không biến một vấn đề giải quyết được trong 5 phút điện thoại thành một chuỗi mail qua lại 3 ngày.
 >
 > Từ khóa của rule này: **"3 dấu hiệu phải gọi"**.
@@ -1153,7 +1153,7 @@ Email có độ trễ. Mail gửi đi có thể được đọc sau 1 giờ, 1 n
 
 **Dấu hiệu nhận biết:**
 - "Nếu không chốt trong __ giờ tới thì __."
-- Vấn đề đang block bạn *ngay lúc này*.
+- Vấn đề đang cản trở bạn *ngay lúc này*.
 - Khách hàng đang đợi ở đầu dây bên kia.
 
 **Ví dụ:** Khách hàng đang bay vào TP.HCM tối nay, Dũng cần biết có đón sân bay không. Đây là câu hỏi cần câu trả lời trong 5 phút, không phải 5 giờ. → Gọi anh Tuấn ngay.
@@ -1210,7 +1210,7 @@ Mail này vừa là *biên bản* cho cả hai bên, vừa là cách để nếu
 > **"Cảm xúc, khẩn, hoặc đã qua lại 3 lần — nhấc máy."**
 
 *Dùng khi:* trong lúc soạn mail mà thấy mình *đang cố kìm cảm xúc*, *đang lo đối phương đọc sai ý*, hoặc *đây là mail thứ tư về cùng một chuyện*. Đó là lúc dừng gõ, gọi điện.', 'system', 19, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001020, 8001, NULL, 'markdown_book', 'Rule 20 — CC có tâm: giới thiệu người thứ ba trong body mail', '# Rule 20 — CC có tâm: giới thiệu người thứ ba trong body mail
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000020, 800000001, NULL, 'markdown_book', 'Rule 20 — CC có tâm: giới thiệu người thứ ba trong body mail', '# Rule 20 — CC có tâm: giới thiệu người thứ ba trong body mail
 > **Luận điểm.** Khi bạn CC một người vào mail, đối với người nhận chính, người CC là một **dấu chấm hỏi** ở dòng `Cc:` — *"tại sao người này ở đây?"*. Nếu bạn không trả lời câu hỏi đó trong body, bạn đang để người nhận chính tự đoán, và để người CC bị đưa vào cuộc một cách ngượng nghịu. Quy ước đơn giản: **gọi tên người CC trong body, kèm lý do CC**.
 >
 > Từ khóa của rule này: **"CC có tâm"**.
@@ -1293,7 +1293,7 @@ BCC (Rule 21) không hiển thị cho các người nhận khác. Không dùng B
 > **"CC ai, giới thiệu họ ngay trong body. Người nhận chính không phải đoán."**
 
 *Dùng khi:* bất cứ mail nào có dòng CC. Một câu giới thiệu 10 từ tiết kiệm được một chuỗi hiểu nhầm có thể kéo dài nhiều ngày.', 'system', 20, 'free', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001021, 8001, NULL, 'markdown_book', 'Rule 21 — BCC bắt buộc khi gửi hàng loạt tới nhóm không liên quan nhau', '# Rule 21 — BCC bắt buộc khi gửi hàng loạt tới nhóm không liên quan nhau
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000021, 800000001, NULL, 'markdown_book', 'Rule 21 — BCC bắt buộc khi gửi hàng loạt tới nhóm không liên quan nhau', '# Rule 21 — BCC bắt buộc khi gửi hàng loạt tới nhóm không liên quan nhau
 > **Luận điểm.** Khi bạn gửi **một mail cho nhiều người không quen biết nhau** — danh sách khách hàng, danh sách nhà cung cấp, thông báo chung tới nhiều phòng ban — **phải dùng BCC**. Để các địa chỉ email trong dòng `To:` hoặc `Cc:` là đang **làm lộ email của từng người cho tất cả những người còn lại**. Đây là vi phạm quyền riêng tư, có khi là vi phạm luật bảo vệ dữ liệu cá nhân (Nghị định 13/2023/NĐ-CP tại Việt Nam).
 >
 > Từ khóa của rule này: **"gửi hàng loạt = BCC"**.
@@ -1364,7 +1364,7 @@ Nếu bạn đang BCC vì *không muốn giải thích tại sao người đó �
 > **"Nhiều người không biết nhau = BCC, không phải Cc. Kiểm tra hai lần trước khi gửi."**
 
 *Dùng khi:* mỗi mail có từ 5 địa chỉ trở lên và bạn không chắc họ có biết nhau không. Khi phân vân, mặc định là BCC.', 'system', 21, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001022, 8001, NULL, 'markdown_book', 'Rule 22 — Viết trong body hay đính kèm: 3 tiêu chí', '# Rule 22 — Viết trong body hay đính kèm: 3 tiêu chí
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000022, 800000001, NULL, 'markdown_book', 'Rule 22 — Viết trong body hay đính kèm: 3 tiêu chí', '# Rule 22 — Viết trong body hay đính kèm: 3 tiêu chí
 > **Luận điểm.** Câu hỏi đứng giữa body và attachment hiện ra mỗi lần bạn soạn mail có nội dung hơi dài. Không có quy tắc tuyệt đối, nhưng có **3 tiêu chí** giúp quyết định nhanh: (1) **độ dài**, (2) **cách đọc** (scan hay đọc kỹ), (3) **khả năng lưu trữ/tra cứu**. Xác định sai thường dẫn đến tình trạng "đã gửi file nhưng không ai mở", hoặc "body dài quá không ai đọc hết".
 >
 > Từ khóa của rule này: **"3 tiêu chí body–file"**.
@@ -1453,7 +1453,7 @@ Nếu bạn chỉ gửi file mà không tóm tắt, bạn đang bắt người �
 > **"Ngắn → body. Dài, cần lưu, có bảng biểu → file. File luôn kèm tóm tắt 3 câu trong body."**
 
 *Dùng khi:* trước khi bấm Send và mail có file đính kèm. Đảm bảo body có đủ thông tin để người đọc hành động *mà không cần mở file*, còn file là nơi cung cấp chiều sâu cho ai cần.', 'system', 22, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001023, 8001, NULL, 'markdown_book', 'Rule 23 — Bỏ đoạn văn dài, ưu tiên danh sách có gạch đầu dòng', '# Rule 23 — Bỏ đoạn văn dài, ưu tiên danh sách có gạch đầu dòng
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000023, 800000001, NULL, 'markdown_book', 'Rule 23 — Bỏ đoạn văn dài, ưu tiên danh sách có gạch đầu dòng', '# Rule 23 — Bỏ đoạn văn dài, ưu tiên danh sách có gạch đầu dòng
 > **Luận điểm.** Đoạn văn dài bắt người đọc *tự tìm* các ý chính trong rừng chữ. Danh sách gạch đầu dòng làm cấu trúc *hiện ra*. Trong email công việc, 9 trên 10 lần, gạch đầu dòng đọc nhanh hơn, hiểu đúng hơn, và ghi nhớ lâu hơn.
 >
 > Từ khóa: **"gạch đầu dòng trước"**.
@@ -1484,7 +1484,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 
 ## Cụm từ mẫu
 > **"Thấy ''và'', ''cùng với'', ''ngoài ra'' nối >3 ý — tín hiệu chuyển sang gạch đầu dòng."**', 'system', 23, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001024, 8001, NULL, 'markdown_book', 'Rule 24 — Phương pháp ngược: phác gạch đầu dòng trước, nối thành câu sau', '# Rule 24 — Phương pháp ngược: phác gạch đầu dòng trước, nối thành câu sau
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000024, 800000001, NULL, 'markdown_book', 'Rule 24 — Phương pháp ngược: phác gạch đầu dòng trước, nối thành câu sau', '# Rule 24 — Phương pháp ngược: phác gạch đầu dòng trước, nối thành câu sau
 > **Luận điểm.** Thói quen xấu: viết thẳng thành đoạn văn, rồi khi đọc lại cắt thành gạch đầu dòng. Cách tốt: **viết gạch đầu dòng trước như phác họa**, rồi mới quyết định phần nào giữ dạng list, phần nào nối thành câu. Cấu trúc rõ từ đầu, đỡ sửa lại.
 >
 > Từ khóa: **"phác list trước"**.
@@ -1518,7 +1518,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 
 ## Cụm từ mẫu
 > **"Phác list trước khi câu."**', 'system', 24, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001025, 8001, NULL, 'markdown_book', 'Rule 25 — Câu hỏi viết dạng danh sách đánh số để đối phương trả lời từng ý', '# Rule 25 — Câu hỏi viết dạng danh sách đánh số để đối phương trả lời từng ý
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000025, 800000001, NULL, 'markdown_book', 'Rule 25 — Câu hỏi viết dạng danh sách đánh số để đối phương trả lời từng ý', '# Rule 25 — Câu hỏi viết dạng danh sách đánh số để đối phương trả lời từng ý
 > **Luận điểm.** Khi cần đối phương trả lời nhiều câu hỏi, **đánh số** từng câu. Việc này cho phép họ reply inline — quote câu hỏi của bạn và trả lời ngay dưới — mà không bị sót câu nào. Câu hỏi trộn trong đoạn văn thường bị trả lời một nửa.
 >
 > Từ khóa: **"câu hỏi = đánh số"**.
@@ -1549,7 +1549,7 @@ Cả 3 câu được trả lời đầy đủ.
 
 ## Cụm từ mẫu
 > **"Nhiều hơn 1 câu hỏi → đánh số. Đánh số giúp reply inline."**', 'system', 25, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001026, 8001, NULL, 'markdown_book', 'Rule 26 — "Ngày mai", "tuần tới" là bẫy — ghi ngày cụ thể', '# Rule 26 — "Ngày mai", "tuần tới" là bẫy — ghi ngày cụ thể
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000026, 800000001, NULL, 'markdown_book', 'Rule 26 — "Ngày mai", "tuần tới" là bẫy — ghi ngày cụ thể', '# Rule 26 — "Ngày mai", "tuần tới" là bẫy — ghi ngày cụ thể
 > **Luận điểm.** Viết "ngày mai, thứ Năm 15/05, 10:00 sáng". *Không* viết "ngày mai". Mail gửi lúc 23:00 thứ Tư → "ngày mai" là gì? Thứ Năm? Hay thứ Sáu (vì sang ngày mới)? Gửi quốc tế → múi giờ nào? Ghi rõ mọi chi tiết: thứ + ngày + giờ + (múi giờ nếu cần).
 >
 > Từ khóa: **"ngày tuyệt đối"**.
@@ -1586,7 +1586,7 @@ Nếu không ghi số cụ thể, 10 người đọc sẽ hiểu 10 cách khác 
 
 ## Cụm từ mẫu
 > **"Thứ + Ngày + Giờ + (Múi giờ nếu cần). 4 ô, điền hết."**', 'system', 26, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001027, 8001, NULL, 'markdown_book', 'Rule 27 — Một câu một ý', '# Rule 27 — Một câu một ý
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000027, 800000001, NULL, 'markdown_book', 'Rule 27 — Một câu một ý', '# Rule 27 — Một câu một ý
 > **Luận điểm.** Câu dài 3 dòng với 2-3 mệnh đề phụ buộc người đọc phải *giải mã* cấu trúc ngữ pháp trước khi hiểu ý. Nguyên tắc đơn giản và khó cãi: **một câu chở một ý**. Ý lớn → cắt thành nhiều câu. Câu dài hơn 2 dòng → cần cắt.
 >
 > Từ khóa: **"một câu một ý"**.
@@ -1612,7 +1612,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 
 ## Cụm từ mẫu
 > **"Một câu một ý. Câu dài hơn 2 dòng là câu cần cắt."**', 'system', 27, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001028, 8001, NULL, 'markdown_book', 'Rule 28 — Ý quan trọng nhất gói vào 1 câu đơn, đặt đầu đoạn', '# Rule 28 — Ý quan trọng nhất gói vào 1 câu đơn, đặt đầu đoạn
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000028, 800000001, NULL, 'markdown_book', 'Rule 28 — Ý quan trọng nhất gói vào 1 câu đơn, đặt đầu đoạn', '# Rule 28 — Ý quan trọng nhất gói vào 1 câu đơn, đặt đầu đoạn
 > **Luận điểm.** Mỗi đoạn văn có *một* ý chính. Ý đó nên được viết thành **1 câu đơn** — chủ ngữ + động từ + bổ ngữ, không mệnh đề phụ — và đặt **ngay câu đầu đoạn**. Người đọc đọc 1 câu biết toàn bộ đoạn nói gì.
 >
 > Từ khóa: **"ý chính câu đầu"**.
@@ -1634,7 +1634,7 @@ Câu đầu = kết luận. 30 giây đọc biết nên chọn ai.
 
 ## Cụm từ mẫu
 > **"1 đoạn = 1 ý chính = 1 câu đơn ở đầu đoạn."**', 'system', 28, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001029, 8001, NULL, 'markdown_book', 'Rule 29 — Thuyết phục chỉ cần 1 câu lý do, không cần 3 đoạn', '# Rule 29 — Thuyết phục chỉ cần 1 câu lý do, không cần 3 đoạn
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000029, 800000001, NULL, 'markdown_book', 'Rule 29 — Thuyết phục chỉ cần 1 câu lý do, không cần 3 đoạn', '# Rule 29 — Thuyết phục chỉ cần 1 câu lý do, không cần 3 đoạn
 > **Luận điểm.** Khi cần thuyết phục (xin duyệt, xin đổi lịch, bảo vệ quyết định), **một câu lý do súc tích** thường mạnh hơn 3 đoạn giải trình. Đoạn giải trình dài cho cảm giác *đang cố gắng thuyết phục* — đôi khi ngược lại, gây nghi ngờ.
 >
 > Từ khóa: **"lý do gói một câu"**.
@@ -1654,7 +1654,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 
 ## Cụm từ mẫu
 > **"1 lý do cụ thể + 1 hệ quả rõ. Đủ."**', 'system', 29, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001030, 8001, NULL, 'markdown_book', 'Rule 30 — Việc nhỏ — mail 1 dòng không có gì đáng ngại', '# Rule 30 — Việc nhỏ — mail 1 dòng không có gì đáng ngại
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000030, 800000001, NULL, 'markdown_book', 'Rule 30 — Việc nhỏ — mail 1 dòng không có gì đáng ngại', '# Rule 30 — Việc nhỏ — mail 1 dòng không có gì đáng ngại
 > **Luận điểm.** Văn hoá email trang trọng khiến nhiều người *không dám* gửi mail ngắn 1 dòng, sợ "cộc lốc". Nhưng 1 dòng đủ thông tin tốt hơn 10 dòng lãng phí. Nhiều loại mail **chỉ cần 1 dòng**: xác nhận đã nhận, cảm ơn, thông tin nhanh.
 >
 > Từ khóa: **"1 dòng không có lỗi"**.
@@ -1688,7 +1688,7 @@ Mail 1 dòng **vẫn có 5 khối** Rule 11, chỉ rút gọn:
 
 ## Cụm từ mẫu
 > **"Việc 1 dòng giải quyết xong — đừng viết 1 đoạn."**', 'system', 30, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001031, 8001, NULL, 'markdown_book', 'Rule 31 — Chủ ngữ rõ ràng: "ai làm", "khi nào làm"', '# Rule 31 — Chủ ngữ rõ ràng: "ai làm", "khi nào làm"
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000031, 800000001, NULL, 'markdown_book', 'Rule 31 — Chủ ngữ rõ ràng: "ai làm", "khi nào làm"', '# Rule 31 — Chủ ngữ rõ ràng: "ai làm", "khi nào làm"
 > **Luận điểm.** Tiếng Việt cho phép *lược chủ ngữ* rất linh hoạt — thuận tiện trong văn nói nhưng là bẫy trong email công việc. Câu không có chủ ngữ rõ → người đọc tự đoán ai làm → đoán sai → việc lạc tay. **Trong email, luôn nêu rõ chủ thể hành động.**
 >
 > Từ khóa: **"chủ ngữ lộ"**.
@@ -1718,7 +1718,7 @@ Tên trong ngoặc vuông = chủ ngữ hành động. Không có ngoại lệ.
 
 ## Cụm từ mẫu
 > **"Mỗi hành động, có tên người. Không ''sẽ làm'' mờ mịt."**', 'system', 31, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001032, 8001, NULL, 'markdown_book', 'Rule 32 — Tách sự thật khỏi nhận định, không trộn', '# Rule 32 — Tách sự thật khỏi nhận định, không trộn
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000032, 800000001, NULL, 'markdown_book', 'Rule 32 — Tách sự thật khỏi nhận định, không trộn', '# Rule 32 — Tách sự thật khỏi nhận định, không trộn
 > **Luận điểm.** **Sự thật** là thứ có thể xác minh (số liệu, ngày tháng, báo cáo có chứng cứ). **Nhận định** là đánh giá chủ quan của bạn. Hai thứ này **không được trộn trong cùng một câu**. Người đọc phải phân biệt được "đâu là dữ liệu để tin, đâu là ý kiến để cân nhắc".
 >
 > Từ khóa: **"tách sự thật / nhận định"**.
@@ -1752,7 +1752,7 @@ Chị Hương biết rõ: sự thật 100%, nhận định có cơ sở, dự đ
 
 ## Cụm từ mẫu
 > **"Sự thật là X. Em nghĩ Y. Không trộn hai vế trong một câu."**', 'system', 32, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001033, 8001, NULL, 'markdown_book', 'Rule 33 — Đưa nhận định phải kèm căn cứ: con số, ví dụ, trích dẫn', '# Rule 33 — Đưa nhận định phải kèm căn cứ: con số, ví dụ, trích dẫn
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000033, 800000001, NULL, 'markdown_book', 'Rule 33 — Đưa nhận định phải kèm căn cứ: con số, ví dụ, trích dẫn', '# Rule 33 — Đưa nhận định phải kèm căn cứ: con số, ví dụ, trích dẫn
 > **Luận điểm.** Nhận định không có căn cứ = **cảm tính**. Nhận định có căn cứ = **phân tích**. Ở email công việc, cảm tính không có giá trị quyết định. Mỗi nhận định đưa ra phải kèm **ít nhất 1 trong 3 loại căn cứ**: con số, ví dụ cụ thể, hoặc trích dẫn nguồn.
 >
 > Từ khóa: **"nhận định + 1 căn cứ"**.
@@ -1792,7 +1792,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 
 ## Cụm từ mẫu
 > **"Nhận định + ít nhất 1 trong 3 căn cứ: số, ví dụ, nguồn."**', 'system', 33, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001034, 8001, NULL, 'markdown_book', 'Rule 34 — Nhiều phương án → trình bày song song, đồng dạng', '# Rule 34 — Nhiều phương án → trình bày song song, đồng dạng
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000034, 800000001, NULL, 'markdown_book', 'Rule 34 — Nhiều phương án → trình bày song song, đồng dạng', '# Rule 34 — Nhiều phương án → trình bày song song, đồng dạng
 > **Luận điểm.** Khi đưa ra nhiều phương án (A / B / C) cho đối phương chọn, **mỗi phương án phải có cùng cấu trúc** — cùng số trường thông tin, cùng thứ tự, cùng cách diễn đạt. Trình bày lộn xộn khiến đối phương phải *so sánh bằng mắt* khó khăn.
 >
 > Từ khóa: **"cùng khung, so sánh dễ"**.
@@ -1832,7 +1832,7 @@ Nếu dùng bảng: mỗi cột = 1 phương án, mỗi hàng = 1 thuộc tính.
 
 ## Cụm từ mẫu
 > **"Cùng khung mới so sánh được. Bảng > danh sách khi có nhiều trường thông tin."**', 'system', 34, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001035, 8001, NULL, 'markdown_book', 'Rule 35 — Cắt những câu lịch sự rỗng không mang thông tin', '# Rule 35 — Cắt những câu lịch sự rỗng không mang thông tin
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000035, 800000001, NULL, 'markdown_book', 'Rule 35 — Cắt những câu lịch sự rỗng không mang thông tin', '# Rule 35 — Cắt những câu lịch sự rỗng không mang thông tin
 > **Luận điểm.** Nhiều câu "lịch sự mặc định" trong email thực tế **không mang thông tin** và chỉ làm dài mail. *"Em mong chị xem xét và cho em ý kiến khi rảnh."*, *"Em rất mong được nhận phản hồi từ chị."*, *"Em xin cảm ơn chị đã đọc mail này."* — cả 3 câu có thể thay bằng 1 câu rõ ràng.
 >
 > Từ khóa: **"cắt câu rỗng"**.
@@ -1874,7 +1874,7 @@ Cùng thông tin, ngắn hơn 70%.
 
 ## Cụm từ mẫu
 > **"Câu nào đọc xong không thêm thông tin mới — cắt."**', 'system', 35, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001036, 8001, NULL, 'markdown_book', 'Rule 36 — Hệ xưng hô Việt: chọn đúng anh/chị/em/cô/chú/thầy ngay câu đầu', '# Rule 36 — Hệ xưng hô Việt: chọn đúng anh/chị/em/cô/chú/thầy ngay câu đầu
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000036, 800000001, NULL, 'markdown_book', 'Rule 36 — Hệ xưng hô Việt: chọn đúng anh/chị/em/cô/chú/thầy ngay câu đầu', '# Rule 36 — Hệ xưng hô Việt: chọn đúng anh/chị/em/cô/chú/thầy ngay câu đầu
 > **Luận điểm.** Tiếng Việt có hệ xưng hô theo tuổi và quan hệ: *anh, chị, em, cô, chú, bác, ông, bà, thầy, cô* (giáo viên)… Chọn sai ngay câu đầu tiên làm hỏng cả mail — cho thấy bạn không đầu tư thời gian tìm hiểu đối phương. Quy tắc: *khi không chắc, chọn cao hơn tuổi thật*.
 >
 > Từ khóa: **"xưng hô đúng ngay câu đầu"**.
@@ -1902,7 +1902,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 
 ## Cụm từ mẫu
 > **"Không chắc? Dùng ''anh/chị'' + ''em''. An toàn trong 95% trường hợp."**', 'system', 36, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001037, 8001, NULL, 'markdown_book', 'Rule 37 — Trợ từ "ạ" — khi nào thêm, khi nào bỏ để không quá nặng', '# Rule 37 — Trợ từ "ạ" — khi nào thêm, khi nào bỏ để không quá nặng
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000037, 800000001, NULL, 'markdown_book', 'Rule 37 — Trợ từ "ạ" — khi nào thêm, khi nào bỏ để không quá nặng', '# Rule 37 — Trợ từ "ạ" — khi nào thêm, khi nào bỏ để không quá nặng
 > **Luận điểm.** Trợ từ "ạ" ở cuối câu là dấu hiệu kính trọng ở tiếng Việt. Dùng đúng → mail lịch sự, ấm. Dùng **quá nhiều** ("ạ" cuối mỗi câu) → mail nặng nề, lạc lõng. **Quy tắc đơn giản:** chỉ dùng "ạ" ở câu đầu và câu cuối mail; các câu giữa không cần.
 >
 > Từ khóa: **"ạ — mở và kết thôi"**.
@@ -1942,7 +1942,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 
 ## Cụm từ mẫu
 > **"1 mail = tối đa 2 chữ ''ạ'' (câu đầu, câu cuối). Không rải khắp."**', 'system', 37, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001038, 8001, NULL, 'markdown_book', 'Rule 38 — Mail lần đầu liên hệ: giới thiệu 3 điểm "ai — từ đâu — sao có email này"', '# Rule 38 — Mail lần đầu liên hệ: giới thiệu 3 điểm "ai — từ đâu — sao có email này"
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000038, 800000001, NULL, 'markdown_book', 'Rule 38 — Mail lần đầu liên hệ: giới thiệu 3 điểm "ai — từ đâu — sao có email này"', '# Rule 38 — Mail lần đầu liên hệ: giới thiệu 3 điểm "ai — từ đâu — sao có email này"
 > **Luận điểm.** Khi gửi mail cho người lần đầu, họ đọc sẽ có 3 câu hỏi trong đầu: *(1) Ai vậy? (2) Từ đâu? (3) Sao lại có email của tôi?*. **Đoạn đầu mail phải trả lời cả 3** — trước khi vào nội dung chính. Không trả lời = mail có khả năng bị bỏ qua hoặc đánh dấu spam.
 >
 > Từ khóa: **"3 điểm giới thiệu"**.
@@ -1977,7 +1977,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 
 ## Cụm từ mẫu
 > **"Mail đầu = (ai + từ đâu + sao có email) + nội dung. Không tránh được, không giấu được."**', 'system', 38, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001039, 8001, NULL, 'markdown_book', 'Rule 39 — Năm cách "xin phép" phổ biến trong tiếng Việt và khi nào dùng cách nào', '# Rule 39 — Năm cách "xin phép" phổ biến trong tiếng Việt và khi nào dùng cách nào
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000039, 800000001, NULL, 'markdown_book', 'Rule 39 — Năm cách "xin phép" phổ biến trong tiếng Việt và khi nào dùng cách nào', '# Rule 39 — Năm cách "xin phép" phổ biến trong tiếng Việt và khi nào dùng cách nào
 > **Luận điểm.** Tiếng Việt có nhiều cách "xin phép" khác nhau, mỗi cách mang mức trang trọng riêng. Dùng sai cách = gây khó chịu hoặc quá cứng. Năm cách phổ biến:
 >
 > Từ khóa: **"5 cách xin phép"**.
@@ -2010,7 +2010,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 
 ## Cụm từ mẫu
 > **"Khoảng cách càng xa → cách xin phép càng trang trọng. Chọn đúng cấp độ như chọn quần áo đi làm."**', 'system', 39, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001040, 8001, NULL, 'markdown_book', 'Rule 40 — Lời cảm ơn có cấp độ — tránh "cảm ơn anh" trôi nổi mọi mail', '# Rule 40 — Lời cảm ơn có cấp độ — tránh "cảm ơn anh" trôi nổi mọi mail
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000040, 800000001, NULL, 'markdown_book', 'Rule 40 — Lời cảm ơn có cấp độ — tránh "cảm ơn anh" trôi nổi mọi mail', '# Rule 40 — Lời cảm ơn có cấp độ — tránh "cảm ơn anh" trôi nổi mọi mail
 > **Luận điểm.** "Cảm ơn" nếu dùng cho mọi mail, mọi tình huống, sẽ **mất trọng lượng**. Khi bạn thật sự cần biết ơn một ai đó (họ giúp việc lớn), câu "cảm ơn" của bạn không còn tác dụng. **4 cấp độ cảm ơn** giúp điều chỉnh theo mức độ việc người ta đã làm cho bạn.
 >
 > Từ khóa: **"4 cấp độ cảm ơn"**.
@@ -2045,7 +2045,7 @@ Dùng khi: sự giúp đỡ có tác động lớn đến bạn / team / dự á
 
 ## Cụm từ mẫu
 > **"Mức độ giúp = mức độ cảm ơn. 4 cấp, chọn đúng."**', 'system', 40, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001041, 8001, NULL, 'markdown_book', 'Rule 41 — Email ngoài giờ hành chính: dặn trước + không yêu cầu hồi đáp gấp', '# Rule 41 — Email ngoài giờ hành chính: dặn trước + không yêu cầu hồi đáp gấp
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000041, 800000001, NULL, 'markdown_book', 'Rule 41 — Email ngoài giờ hành chính: dặn trước + không yêu cầu hồi đáp gấp', '# Rule 41 — Email ngoài giờ hành chính: dặn trước + không yêu cầu hồi đáp gấp
 > **Luận điểm.** Gửi email ngoài giờ (sau 18:00, trước 08:00) không sai — nhưng phải kèm **dòng dặn trước** rằng không cần hồi đáp ngay. Không làm vậy = tạo áp lực cho đối phương. Đặc biệt tránh yêu cầu hành động khẩn với đặt giờ trước 09:00 sáng hôm sau.
 >
 > Từ khóa: **"dặn trước khi gửi ngoài giờ"**.
@@ -2072,7 +2072,7 @@ Nếu thật sự khẩn (sự cố đang xảy ra, khách hàng đang chờ), m
 
 ## Cụm từ mẫu
 > **"Gửi sau 18:00 / trước 08:00 → luôn kèm ''không cần hồi đáp ngay''."**', 'system', 41, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001042, 8001, NULL, 'markdown_book', 'Rule 42 — Email cuối tuần, ngày lễ: tránh gửi trừ khi thật sự khẩn', '# Rule 42 — Email cuối tuần, ngày lễ: tránh gửi trừ khi thật sự khẩn
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000042, 800000001, NULL, 'markdown_book', 'Rule 42 — Email cuối tuần, ngày lễ: tránh gửi trừ khi thật sự khẩn', '# Rule 42 — Email cuối tuần, ngày lễ: tránh gửi trừ khi thật sự khẩn
 > **Luận điểm.** Cuối tuần và ngày lễ là thời gian nghỉ. Gửi mail công việc vào các ngày này = vi phạm ngầm ranh giới thời gian cá nhân của đối phương, ngay cả khi bạn "không yêu cầu phản hồi". Chỉ nên gửi trong 2 trường hợp: (1) khẩn cấp thật sự, (2) schedule-send để email vào hộp thư vào sáng thứ Hai.
 >
 > Từ khóa: **"cuối tuần — hoãn"**.
@@ -2095,7 +2095,7 @@ Tương tự, nhưng nghiêm khắc hơn. Tết Nguyên đán, Quốc khánh 2/9
 
 ## Cụm từ mẫu
 > **"Cuối tuần và ngày lễ → Schedule Send sang sáng thứ Hai. Khẩn thì gọi, không mail."**', 'system', 42, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001043, 8001, NULL, 'markdown_book', 'Rule 43 — Chuyển tiếp mail: luôn kèm 2 dòng giải thích bối cảnh và yêu cầu', '# Rule 43 — Chuyển tiếp mail: luôn kèm 2 dòng giải thích bối cảnh và yêu cầu
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000043, 800000001, NULL, 'markdown_book', 'Rule 43 — Chuyển tiếp mail: luôn kèm 2 dòng giải thích bối cảnh và yêu cầu', '# Rule 43 — Chuyển tiếp mail: luôn kèm 2 dòng giải thích bối cảnh và yêu cầu
 > **Luận điểm.** Forward một thread dài mà không giải thích = buộc người nhận đọc hết thread để hiểu họ nhận cái gì và phải làm gì. **Luôn kèm 2 dòng ở đầu**: (1) bối cảnh tóm tắt, (2) việc cụ thể bạn muốn họ làm.
 >
 > Từ khóa: **"forward + 2 dòng"**.
@@ -2138,7 +2138,7 @@ Em cảm ơn.
 
 ## Cụm từ mẫu
 > **"Forward = 2 dòng tóm (bối cảnh + yêu cầu) + thread gốc. Đừng bắt người đọc đọc 15 mail."**', 'system', 43, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001044, 8001, NULL, 'markdown_book', 'Rule 44 — "Vui lòng" dùng nhiều thành rỗng — khi nào dùng cho đúng chất', '# Rule 44 — "Vui lòng" dùng nhiều thành rỗng — khi nào dùng cho đúng chất
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000044, 800000001, NULL, 'markdown_book', 'Rule 44 — "Vui lòng" dùng nhiều thành rỗng — khi nào dùng cho đúng chất', '# Rule 44 — "Vui lòng" dùng nhiều thành rỗng — khi nào dùng cho đúng chất
 > **Luận điểm.** "Vui lòng" là cụm từ lịch sự phổ biến, nhưng bị lạm dụng. Khi đặt "vui lòng" trước mọi câu yêu cầu, từ đó mất trọng lượng. **Quy tắc:** dùng "vui lòng" chỉ khi yêu cầu *có chút phiền đối phương*, không dùng cho việc đương nhiên đối phương sẽ làm.
 >
 > Từ khóa: **"vui lòng đúng chất"**.
@@ -2178,7 +2178,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 
 ## Cụm từ mẫu
 > **"Vui lòng — dùng ít, dùng đúng. Quá nhiều = rỗng."**', 'system', 44, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001045, 8001, NULL, 'markdown_book', 'Rule 45 — Viết cho cấp trên: tránh cụm mang hàm ý ra lệnh, dùng đề nghị', '# Rule 45 — Viết cho cấp trên: tránh cụm mang hàm ý ra lệnh, dùng đề nghị
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000045, 800000001, NULL, 'markdown_book', 'Rule 45 — Viết cho cấp trên: tránh cụm mang hàm ý ra lệnh, dùng đề nghị', '# Rule 45 — Viết cho cấp trên: tránh cụm mang hàm ý ra lệnh, dùng đề nghị
 > **Luận điểm.** Một số cụm từ trong tiếng Việt mang hàm ý *ra lệnh* hoặc *áp đặt*. Khi viết cho cấp trên, phải **đổi sang dạng đề nghị/khẩn cầu**. Một từ khác biệt (ví dụ "phải" → "nên" → "xin chị") tạo khoảng cách rất lớn trong sự tôn trọng.
 >
 > Từ khóa: **"đề nghị, không ra lệnh"**.
@@ -2213,7 +2213,7 @@ Cùng yêu cầu, giọng đúng.
 
 ## Cụm từ mẫu
 > **"Với sếp: ''em xin'', ''em nhờ'', ''chị có thể''. Không ''phải'', không ''cần'', không ''hãy''."**', 'system', 45, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001046, 8001, NULL, 'markdown_book', 'Rule 45B — Xưng hô khi gửi mail cho nhóm hỗn hợp tuổi/cấp', '# Rule 45B — Xưng hô khi gửi mail cho nhóm hỗn hợp tuổi/cấp
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000046, 800000001, NULL, 'markdown_book', 'Rule 45B — Xưng hô khi gửi mail cho nhóm hỗn hợp tuổi/cấp', '# Rule 45B — Xưng hô khi gửi mail cho nhóm hỗn hợp tuổi/cấp
 > **Luận điểm.** Khi gửi mail cho **nhóm trộn nhiều cấp** — sếp + đồng nghiệp ngang + cấp dưới + khách hàng — không thể dùng "Chị Hương ơi" vì có khách, cũng không thể "Kính gửi Quý anh chị" vì quá xa cách với người trong cùng team. Quy tắc: **xưng hô theo người cấp cao nhất**, sau đó liệt kê thứ tự rõ ràng để mỗi người đọc biết mình ở đâu.
 >
 > **Liên quan:** Rule 12 (Kính gửi đầy đủ), Rule 36 (Hệ xưng hô Việt), Rule 20 (CC có tâm).
@@ -2275,7 +2275,7 @@ Nếu mail chỉ trong nội bộ cùng team, không có khách:
 
 ## Cụm từ mẫu
 > **"Người cấp cao nhất ở To. Khách trước nội bộ. Mở thư bằng người To. CC theo thứ tự từ cao xuống thấp."**', 'system', 46, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001047, 8001, NULL, 'markdown_book', 'Rule 46 — Điều khó nói — nói càng sớm càng nhẹ, im lặng chỉ làm nặng thêm', '# Rule 46 — Điều khó nói — nói càng sớm càng nhẹ, im lặng chỉ làm nặng thêm
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000047, 800000001, NULL, 'markdown_book', 'Rule 46 — Điều khó nói — nói càng sớm càng nhẹ, im lặng chỉ làm nặng thêm', '# Rule 46 — Điều khó nói — nói càng sớm càng nhẹ, im lặng chỉ làm nặng thêm
 > **Luận điểm.** Tin xấu không tự biến mất. Im lặng càng lâu = người nghe càng bị bất ngờ khi biết → tổn hại niềm tin càng lớn. Nguyên tắc: **đủ dữ liệu để nói là nói**, không đợi "đủ hoàn hảo".
 >
 > Từ khóa: **"nói sớm, nhẹ hơn"**.
@@ -2308,7 +2308,7 @@ Quá 24 giờ trì hoãn = không còn "kiểm tra" mà là "lẩn tránh".
 
 ## Cụm từ mẫu
 > **"Nói trong 24 giờ. Im lặng thêm ngày nào, mất niềm tin thêm ngày đó."**', 'system', 47, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001048, 8001, NULL, 'markdown_book', 'Rule 47 — Mail quan trọng: nhờ xác nhận đã nhận rõ ràng, không phải "đã đọc"', '# Rule 47 — Mail quan trọng: nhờ xác nhận đã nhận rõ ràng, không phải "đã đọc"
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000048, 800000001, NULL, 'markdown_book', 'Rule 47 — Mail quan trọng: nhờ xác nhận đã nhận rõ ràng, không phải "đã đọc"', '# Rule 47 — Mail quan trọng: nhờ xác nhận đã nhận rõ ràng, không phải "đã đọc"
 > **Luận điểm.** Với mail có thông tin quan trọng (hợp đồng, thông báo thay đổi, quyết định), bạn cần biết **đối phương đã nhận**. Không phải "đã thấy trong inbox" mà "đã đọc và hiểu". Cách nhanh nhất: **yêu cầu xác nhận ngay trong mail**.
 >
 > Từ khóa: **"xác nhận đã nhận"**.
@@ -2345,7 +2345,7 @@ Chị Hương biết rõ:
 
 ## Cụm từ mẫu
 > **"Mail quan trọng = yêu cầu xác nhận + có backup plan nếu không có."**', 'system', 48, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001049, 8001, NULL, 'markdown_book', 'Rule 48 — Thúc hồi đáp: chừa đường lui, đưa deadline mới, không trách móc', '# Rule 48 — Thúc hồi đáp: chừa đường lui, đưa deadline mới, không trách móc
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000049, 800000001, NULL, 'markdown_book', 'Rule 48 — Thúc hồi đáp: chừa đường lui, đưa deadline mới, không trách móc', '# Rule 48 — Thúc hồi đáp: chừa đường lui, đưa deadline mới, không trách móc
 > **Luận điểm.** Khi đối phương chậm reply, phản ứng tự nhiên là "nhắc cho gay gắt". Đó là sai. Người ta chậm vì bận, vì quên, vì lạc mail — **hiếm khi cố tình**. Mail thúc phải **chừa đường lui** cho họ: đề xuất lý do hợp lý (spam/bận), đưa deadline mới, không than phiền.
 >
 > Từ khóa: **"thúc có đường lui"**.
@@ -2358,7 +2358,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 ## Ví dụ TỐT — thúc có đường lui
 > "Anh Matsumoto,
 >
-> Em viết để follow up về phụ lục hợp đồng em gửi anh thứ Ba 13/05. **Em không chắc mail có vào spam của anh không, hoặc có thể anh đang bận với đợt đóng quý**.
+> Em viết để nhắc lại về phụ lục hợp đồng em gửi anh thứ Ba 13/05. **Em không chắc mail có vào spam của anh không, hoặc có thể anh đang bận với đợt đóng quý**.
 >
 > Em vẫn đang giữ bản nháp sẵn sàng cho anh. Anh có thể cho em biết:
 > - Nếu anh cần thêm thời gian → em có thể đợi đến **thứ Sáu 17/05**.
@@ -2383,7 +2383,7 @@ Nếu thúc email 1 lần vẫn không có reply, chuyển sang:
 
 ## Cụm từ mẫu
 > **"Thúc không trách móc. Chừa đường lui + deadline mới + 1 lần."**', 'system', 49, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001050, 8001, NULL, 'markdown_book', 'Rule 49 — Nhờ vì việc của mình: khiêm tốn, rõ hạn, nêu lợi ích đôi bên', '# Rule 49 — Nhờ vì việc của mình: khiêm tốn, rõ hạn, nêu lợi ích đôi bên
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000050, 800000001, NULL, 'markdown_book', 'Rule 49 — Nhờ vì việc của mình: khiêm tốn, rõ hạn, nêu lợi ích đôi bên', '# Rule 49 — Nhờ vì việc của mình: khiêm tốn, rõ hạn, nêu lợi ích đôi bên
 > **Luận điểm.** Khi nhờ đối phương *vì việc của mình* (không phải việc chung), bạn đang **lấy thời gian của họ**. Phải nhận diện rõ điều đó trong mail — khiêm tốn, rõ ràng về hạn, và nếu có thể, nêu lợi ích cho đối phương (có thể chỉ là "em sẽ nhớ ơn").
 >
 > Từ khóa: **"nhờ riêng, khiêm tốn"**.
@@ -2414,7 +2414,7 @@ Anh Tuấn có:
 
 ## Cụm từ mẫu
 > **"Nhờ riêng = thừa nhận + cụ thể + lợi ích + đường lui. Không ép."**', 'system', 50, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001051, 8001, NULL, 'markdown_book', 'Rule 50 — Từ chối yêu cầu vô lý: đứng ở góc người nhờ, giải thích hệ quả', '# Rule 50 — Từ chối yêu cầu vô lý: đứng ở góc người nhờ, giải thích hệ quả
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000051, 800000001, NULL, 'markdown_book', 'Rule 50 — Từ chối yêu cầu vô lý: đứng ở góc người nhờ, giải thích hệ quả', '# Rule 50 — Từ chối yêu cầu vô lý: đứng ở góc người nhờ, giải thích hệ quả
 > **Luận điểm.** Từ chối thẳng khiến đối phương cảm thấy bị bác. Từ chối tốt phải **đứng từ góc của họ** — thể hiện bạn hiểu tại sao họ cần, sau đó giải thích *hệ quả* nếu bạn đồng ý. Đối phương thường tự rút yêu cầu khi thấy hệ quả.
 >
 > Từ khóa: **"từ chối bằng hệ quả"**.
@@ -2450,7 +2450,7 @@ Anh Matsumoto nhận được:
 
 ## Cụm từ mẫu
 > **"Đứng từ góc đối phương + hệ quả cụ thể + phương án thay thế = từ chối khéo."**', 'system', 51, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001052, 8001, NULL, 'markdown_book', 'Rule 51 — Từ chối lời mời: "rất tiếc…" + đề xuất thay thế cụ thể', '# Rule 51 — Từ chối lời mời: "rất tiếc…" + đề xuất thay thế cụ thể
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000052, 800000001, NULL, 'markdown_book', 'Rule 51 — Từ chối lời mời: "rất tiếc…" + đề xuất thay thế cụ thể', '# Rule 51 — Từ chối lời mời: "rất tiếc…" + đề xuất thay thế cụ thể
 > **Luận điểm.** Từ chối lời mời (tiệc, sự kiện, networking) khác từ chối yêu cầu công việc — ở đây không có "hệ quả" để viện. Công thức khác: **thể hiện cảm kích + rất tiếc + lý do ngắn + đề xuất thay thế để giữ quan hệ**.
 >
 > Từ khóa: **"rất tiếc + thay thế"**.
@@ -2491,7 +2491,7 @@ Anh Matsumoto hiểu:
 
 ## Cụm từ mẫu
 > **"Cảm kích + rất tiếc + lý do ngắn + thay thế. Giữ quan hệ bằng hành động, không chỉ lời."**', 'system', 52, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001053, 8001, NULL, 'markdown_book', 'Rule 52 — Chỉ ra lỗi người khác: gói trong câu hỏi, tránh khẳng định trực diện', '# Rule 52 — Chỉ ra lỗi người khác: gói trong câu hỏi, tránh khẳng định trực diện
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000053, 800000001, NULL, 'markdown_book', 'Rule 52 — Chỉ ra lỗi người khác: gói trong câu hỏi, tránh khẳng định trực diện', '# Rule 52 — Chỉ ra lỗi người khác: gói trong câu hỏi, tránh khẳng định trực diện
 > **Luận điểm.** Chỉ lỗi dạng khẳng định ("Anh ghi sai số") làm đối phương *phòng thủ*. Gói trong câu hỏi ("Không biết số này là 80tr hay 800tr anh nhỉ?") mở cánh cửa cho họ tự sửa mà không mất thể diện.
 >
 > Từ khóa: **"lỗi gói trong câu hỏi"**.
@@ -2504,7 +2504,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 ## Ví dụ TỐT
 > "Anh Matsumoto, em không chắc em hiểu đúng — **số này là 80 triệu hay 800 triệu anh nhỉ?** Em muốn xác nhận trước khi đưa vào hợp đồng."
 
-Anh Matsumoto tự sửa mà không mất thể diện. Nếu đúng là 800tr thì anh xác nhận, nếu 80tr thì anh cảm ơn đã catch.
+Anh Matsumoto tự sửa mà không mất thể diện. Nếu đúng là 800tr thì anh xác nhận, nếu 80tr thì anh cảm ơn em đã phát hiện ra.
 
 ## Các mẫu câu
 | Tình huống | Câu hỏi khéo |
@@ -2525,7 +2525,7 @@ Khi đó: thẳng thắn + đề xuất cách sửa + không đổ lỗi.
 
 ## Cụm từ mẫu
 > **"Sai nhỏ → câu hỏi. Sai lớn có hệ quả → thẳng nhưng kèm giải pháp."**', 'system', 53, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001054, 8001, NULL, 'markdown_book', 'Rule 53 — Mail xin lỗi 4 bước: Sự thật → Nguyên nhân → Biện pháp → Cam kết', '# Rule 53 — Mail xin lỗi 4 bước: Sự thật → Nguyên nhân → Biện pháp → Cam kết
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000054, 800000001, NULL, 'markdown_book', 'Rule 53 — Mail xin lỗi 4 bước: Sự thật → Nguyên nhân → Biện pháp → Cam kết', '# Rule 53 — Mail xin lỗi 4 bước: Sự thật → Nguyên nhân → Biện pháp → Cam kết
 > **Luận điểm.** Xin lỗi không phải chỉ nói "xin lỗi". Một mail xin lỗi tốt cho đối phương thấy bạn *hiểu chuyện gì đã xảy ra* và *đang làm gì*. 4 bước bắt buộc: **Sự thật → Nguyên nhân → Biện pháp → Cam kết**.
 >
 > **Liên quan:** Rule 53 dùng khi *bạn chủ động xin lỗi* (đối phương chưa kịp phàn nàn). Khi *trả lời mail phàn nàn của đối phương*, dùng Rule 55 (5 bước, có thêm "xác nhận cảm xúc" ở đầu).
@@ -2580,7 +2580,7 @@ Làm gì để không lặp lại.
 
 ## Cụm từ mẫu
 > **"Sự thật → Nguyên nhân → Biện pháp → Cam kết. Thiếu bước nào, xin lỗi không đủ."**', 'system', 54, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001055, 8001, NULL, 'markdown_book', 'Rule 54 — Mail phàn nàn: khách quan, không cảm xúc, có bằng chứng đính kèm', '# Rule 54 — Mail phàn nàn: khách quan, không cảm xúc, có bằng chứng đính kèm
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000055, 800000001, NULL, 'markdown_book', 'Rule 54 — Mail phàn nàn: khách quan, không cảm xúc, có bằng chứng đính kèm', '# Rule 54 — Mail phàn nàn: khách quan, không cảm xúc, có bằng chứng đính kèm
 > **Luận điểm.** Khi bạn là người phàn nàn, cảm xúc nặng làm *mất uy tín* của chính phàn nàn. Dù có lý chính đáng, mail cảm xúc bị đọc như "khách khó tính". Quy tắc: **càng giận, càng viết khách quan**. Dẫn chứng cụ thể, số liệu, không từ miệt thị.
 >
 > Từ khóa: **"phàn nàn khách quan"**.
@@ -2625,7 +2625,7 @@ Khách quan, có bằng chứng, có dẫn chiếu hợp đồng, có yêu cầu
 
 ## Cụm từ mẫu
 > **"Càng giận, càng khách quan. Bằng chứng nói thay cảm xúc."**', 'system', 55, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001056, 8001, NULL, 'markdown_book', 'Rule 55 — Trả lời phàn nàn: xác nhận cảm xúc trước, giải pháp sau', '# Rule 55 — Trả lời phàn nàn: xác nhận cảm xúc trước, giải pháp sau
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000056, 800000001, NULL, 'markdown_book', 'Rule 55 — Trả lời phàn nàn: xác nhận cảm xúc trước, giải pháp sau', '# Rule 55 — Trả lời phàn nàn: xác nhận cảm xúc trước, giải pháp sau
 > **Luận điểm.** Khi nhận mail phàn nàn, **phản xạ sai**: vào thẳng giải pháp, lờ đi cảm xúc. Người phàn nàn cần cảm thấy **được lắng nghe** trước, rồi mới sẵn lòng nghe giải pháp. Công thức: **xác nhận cảm xúc → xin lỗi → nguyên nhân → giải pháp → ngăn tái phát**.
 >
 > **Liên quan:** Rule 53 (4 bước xin lỗi) cho mail mà *bạn chủ động xin lỗi*. Rule 55 này dùng khi *trả lời phàn nàn của người khác* — bước "xác nhận cảm xúc" thêm ở đầu là khác biệt cốt lõi.
@@ -2686,7 +2686,7 @@ Anh Matsumoto bên Hakuō (khách hàng Nhật) gửi mail phàn nàn về Dự 
 
 ## Cụm từ mẫu
 > **"Xác nhận cảm xúc → Xin lỗi → Nguyên nhân → Giải pháp → Ngăn tái phát. 5 bước, đặc biệt bước 1 không được bỏ."**', 'system', 56, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001057, 8001, NULL, 'markdown_book', 'Rule 56 — Báo sự cố: Tình huống → Tác động → Đang làm → Cần hỗ trợ', '# Rule 56 — Báo sự cố: Tình huống → Tác động → Đang làm → Cần hỗ trợ
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000057, 800000001, NULL, 'markdown_book', 'Rule 56 — Báo sự cố: Tình huống → Tác động → Đang làm → Cần hỗ trợ', '# Rule 56 — Báo sự cố: Tình huống → Tác động → Đang làm → Cần hỗ trợ
 > **Luận điểm.** Khi có sự cố đang xảy ra (production down, khách đang giận, team mất người), mail báo phải cho sếp biết 4 điều trong 30 giây đọc: *chuyện gì, ảnh hưởng ra sao, bạn đang làm gì, cần sếp giúp gì*. Bỏ 1 trong 4, sếp phải gọi lại hỏi.
 >
 > Từ khóa: **"4 khối báo sự cố"**.
@@ -2731,7 +2731,7 @@ Chị Hương trong 1 phút đọc xong biết đủ để quyết định hành
 
 ## Cụm từ mẫu
 > **"Tình huống → Tác động → Đang làm → Cần hỗ trợ. 4 khối. Không thiếu. Cập nhật 30p/lần."**', 'system', 57, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001058, 8001, NULL, 'markdown_book', 'Rule 57 — Báo trễ deadline: lý do cụ thể + hạn mới + biện pháp bù', '# Rule 57 — Báo trễ deadline: lý do cụ thể + hạn mới + biện pháp bù
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000058, 800000001, NULL, 'markdown_book', 'Rule 57 — Báo trễ deadline: lý do cụ thể + hạn mới + biện pháp bù', '# Rule 57 — Báo trễ deadline: lý do cụ thể + hạn mới + biện pháp bù
 > **Luận điểm.** Trễ deadline không phải thảm họa — **im lặng trước khi trễ** mới là thảm họa. Mail báo trễ phải có 3 thành phần: *lý do cụ thể (không bịa, không viện lý do chung)*, *hạn mới thực tế (đã tính kỹ)*, *biện pháp bù (nếu có)*.
 >
 > Từ khóa: **"báo trễ 3 thành phần"**.
@@ -2752,9 +2752,9 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 >
 > **Biện pháp bù:**
 > - Em sẽ gửi chị bản draft sớm thứ Sáu 16/05 để chị có thể review trước, không bị dồn vào thứ Hai.
-> - Em xin schedule 15 phút họp với chị sáng thứ Ba 20/05 để walk through những điểm quan trọng.
+> - Em xin đặt lịch 15 phút họp với chị sáng thứ Ba 20/05 để trình bày những điểm quan trọng.
 >
-> Nếu chị cần em hoàn thành đúng 15/05 bằng cách khác (giảm scope, xin hỗ trợ), chị cho em biết — em sẵn sàng điều chỉnh.
+> Nếu chị cần em hoàn thành đúng 15/05 bằng cách khác (giảm phạm vi, xin hỗ trợ), chị cho em biết — em sẵn sàng điều chỉnh.
 >
 > Em xin lỗi chị vì sự thay đổi này và cảm ơn chị thông cảm.
 > Dũng"
@@ -2767,7 +2767,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 
 ## Cụm từ mẫu
 > **"Báo trễ 48h trước deadline. Lý do cụ thể + hạn mới tính kỹ + biện pháp bù."**', 'system', 58, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001059, 8001, NULL, 'markdown_book', 'Rule 58 — Độ dài dòng lý tưởng cho mail tiếng Việt có dấu: 40-50 ký tự', '# Rule 58 — Độ dài dòng lý tưởng cho mail tiếng Việt có dấu: 40-50 ký tự
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000059, 800000001, NULL, 'markdown_book', 'Rule 58 — Độ dài dòng lý tưởng cho mail tiếng Việt có dấu: 40-50 ký tự', '# Rule 58 — Độ dài dòng lý tưởng cho mail tiếng Việt có dấu: 40-50 ký tự
 > **Luận điểm.** Trên mobile, dòng dài hơn 50 ký tự bị xuống dòng tự động (wrap) ngẫu nhiên — mắt người đọc phải nhảy zig zag. Xuống dòng *chủ động* ở 40-50 ký tự giúp mail đọc được đẹp trên cả mobile và desktop.
 >
 > Từ khóa: **"40-50 ký tự/dòng"**.
@@ -2790,7 +2790,7 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 
 ## Cụm từ mẫu
 > **"Xuống dòng ở 40-50 ký tự. Mobile đọc được. Desktop cũng đẹp."**', 'system', 59, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001060, 8001, NULL, 'markdown_book', 'Rule 59 — Block 2-5 dòng, cách nhau bằng 1 dòng trống', '# Rule 59 — Block 2-5 dòng, cách nhau bằng 1 dòng trống
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000060, 800000001, NULL, 'markdown_book', 'Rule 59 — Block 2-5 dòng, cách nhau bằng 1 dòng trống', '# Rule 59 — Block 2-5 dòng, cách nhau bằng 1 dòng trống
 > **Luận điểm.** Một "block" văn bản trên email nên **2-5 dòng**, kèm **1 dòng trống ngăn** với block kế tiếp. Block 1 dòng → cảm giác gãy nhịp. Block >5 dòng → bức tường chữ khó đọc. Dòng trống giúp mắt *nghỉ* giữa các ý.
 >
 > Từ khóa: **"block 2-5 dòng"**.
@@ -2830,7 +2830,7 @@ Mắt có chỗ nghỉ sau mỗi block.
 
 ## Cụm từ mẫu
 > **"2-5 dòng/block. 1 dòng trống ngăn. Mắt có chỗ nghỉ."**', 'system', 60, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001061, 8001, NULL, 'markdown_book', 'Rule 60 — Nhiều ý chính → tiêu đề phụ đánh số, như heading H3', '# Rule 60 — Nhiều ý chính → tiêu đề phụ đánh số, như heading H3
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000061, 800000001, NULL, 'markdown_book', 'Rule 60 — Nhiều ý chính → tiêu đề phụ đánh số, như heading H3', '# Rule 60 — Nhiều ý chính → tiêu đề phụ đánh số, như heading H3
 > **Luận điểm.** Email có 3+ ý chính (mỗi ý >3 dòng) cần **tiêu đề phụ** để người đọc *scan* thấy cấu trúc. Không dùng tiêu đề → người đọc phải tự nhận diện nhóm ý → mất thời gian.
 >
 > Từ khóa: **"heading phụ khi nhiều ý"**.
@@ -2859,7 +2859,7 @@ Chị Hương scan là thấy ngay 3 chủ đề, chọn đọc kỹ chủ đề
 
 ## Cụm từ mẫu
 > **"3 ý chính trở lên → tiêu đề phụ đánh số."**', 'system', 61, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001062, 8001, NULL, 'markdown_book', 'Rule 61 — Gạch đầu dòng + thụt lề làm cấu trúc lộ ra bằng mắt', '# Rule 61 — Gạch đầu dòng + thụt lề làm cấu trúc lộ ra bằng mắt
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000062, 800000001, NULL, 'markdown_book', 'Rule 61 — Gạch đầu dòng + thụt lề làm cấu trúc lộ ra bằng mắt', '# Rule 61 — Gạch đầu dòng + thụt lề làm cấu trúc lộ ra bằng mắt
 > **Luận điểm.** Mắt người đọc nhận diện cấu trúc qua **thụt lề** (indent) trước khi đọc nội dung. Gạch đầu dòng cấp 1 và cấp 2 có thụt lề khác nhau → người đọc thấy ngay đâu là ý chính, đâu là ý con.
 >
 > Từ khóa: **"thụt lề = cấu trúc"**.
@@ -2887,7 +2887,7 @@ Sau cấp 3, thụt lề làm bức tranh rối — chuyển sang heading phụ 
 
 ## Cụm từ mẫu
 > **"Cấp 1: `- `. Cấp 2: `  - `. Không quá 3 cấp."**', 'system', 62, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001063, 8001, NULL, 'markdown_book', 'Rule 62 — Hạn chế Hán Việt nặng, thay bằng từ thuần Việt khi có thể', '# Rule 62 — Hạn chế Hán Việt nặng, thay bằng từ thuần Việt khi có thể
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000063, 800000001, NULL, 'markdown_book', 'Rule 62 — Hạn chế Hán Việt nặng, thay bằng từ thuần Việt khi có thể', '# Rule 62 — Hạn chế Hán Việt nặng, thay bằng từ thuần Việt khi có thể
 > **Luận điểm.** Từ Hán Việt nặng (khả năng, tình huống, vấn đề, trạng thái, điều kiện) thay cho từ thuần Việt tương đương làm mail **cứng**, *già*, và xa cách người đọc trẻ. Không có nghĩa bỏ hết — chỉ khi có từ thuần Việt tự nhiên hơn.
 >
 > Từ khóa: **"chọn từ thuần Việt khi có thể"**.
@@ -2922,7 +2922,7 @@ Cùng thông tin, dễ đọc hơn hẳn.
 
 ## Cụm từ mẫu
 > **"Có thuần Việt tương đương → dùng thuần Việt. Mail nhẹ hơn, gần gũi hơn."**', 'system', 63, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001064, 8001, NULL, 'markdown_book', 'Rule 63 — Dùng ký hiệu, đường kẻ chia khối — nhưng đừng biến mail thành poster', '# Rule 63 — Dùng ký hiệu, đường kẻ chia khối — nhưng đừng biến mail thành poster
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000064, 800000001, NULL, 'markdown_book', 'Rule 63 — Dùng ký hiệu, đường kẻ chia khối — nhưng đừng biến mail thành poster', '# Rule 63 — Dùng ký hiệu, đường kẻ chia khối — nhưng đừng biến mail thành poster
 > **Luận điểm.** Ký hiệu (■, ▪, ○, ◇) và đường kẻ (━━━, ───, ═══) giúp chia block trong mail plain text. Dùng chừng mực → cấu trúc rõ. Dùng quá → mail thành poster marketing, trông thiếu chuyên nghiệp.
 >
 > Từ khóa: **"ký hiệu chừng mực"**.
@@ -2963,12 +2963,12 @@ INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title
 
 ## Cụm từ mẫu
 > **"Ký hiệu: chừng mực. Email không phải poster."**', 'system', 64, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001065, 8001, NULL, 'markdown_book', 'Rule 64 — Người đọc trên điện thoại: ưu tiên xuống dòng, tránh câu trôi dài', '# Rule 64 — Người đọc trên điện thoại: ưu tiên xuống dòng, tránh câu trôi dài
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000065, 800000001, NULL, 'markdown_book', 'Rule 64 — Người đọc trên điện thoại: ưu tiên xuống dòng, tránh câu trôi dài', '# Rule 64 — Người đọc trên điện thoại: ưu tiên xuống dòng, tránh câu trôi dài
 > **Luận điểm.** 70% email doanh nghiệp được đọc lần đầu trên điện thoại. Màn hình mobile hẹp → câu dài → mắt phải scroll ngang hoặc wrap loạn. **Viết mail là viết cho mobile trước**.
 >
 > Từ khóa: **"mobile first"**.
 
-## Checklist mobile-friendly
+## Danh sách kiểm tra mobile-friendly
 1. **Dòng ≤50 ký tự** (Rule 58).
 2. **Block 2-5 dòng** (Rule 59).
 3. **Tiêu đề ≤7 từ** (Rule 06).
@@ -2982,7 +2982,7 @@ Trước khi gửi mail quan trọng: **gửi nháp cho chính mình, mở trên
 
 ## Cụm từ mẫu
 > **"70% người đọc trên mobile. Viết cho màn hình nhỏ trước."**', 'system', 65, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001066, 8001, NULL, 'markdown_book', 'Rule 65 — File đính kèm: ghi rõ tên file + định dạng + dung lượng trong body', '# Rule 65 — File đính kèm: ghi rõ tên file + định dạng + dung lượng trong body
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000066, 800000001, NULL, 'markdown_book', 'Rule 65 — File đính kèm: ghi rõ tên file + định dạng + dung lượng trong body', '# Rule 65 — File đính kèm: ghi rõ tên file + định dạng + dung lượng trong body
 > **Luận điểm.** Mail có file nhưng body không đề cập → người đọc có thể bỏ qua file. Luôn ghi rõ trong body: **tên file (đúng tên), định dạng, và tóm tắt 1 dòng**.
 >
 > Từ khóa: **"đề tên file trong body"**.
@@ -3011,7 +3011,7 @@ Chị Hương:
 
 ## Cụm từ mẫu
 > **"Tên file + định dạng + dung lượng + ghi chú 1 câu cho mỗi file."**', 'system', 66, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001067, 8001, NULL, 'markdown_book', 'Rule 66 — Tóm tắt 1 dòng cho mỗi file đính kèm để người đọc khỏi mở mù', '# Rule 66 — Tóm tắt 1 dòng cho mỗi file đính kèm để người đọc khỏi mở mù
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000067, 800000001, NULL, 'markdown_book', 'Rule 66 — Tóm tắt 1 dòng cho mỗi file đính kèm để người đọc khỏi mở mù', '# Rule 66 — Tóm tắt 1 dòng cho mỗi file đính kèm để người đọc khỏi mở mù
 > **Luận điểm.** Khi có nhiều file, **mỗi file phải có 1 dòng mô tả nội dung**. Người đọc biết nên mở file nào trước, file nào skip được. Không có mô tả = họ phải mở từng file để biết — lãng phí thời gian.
 >
 > Từ khóa: **"1 dòng / file"**.
@@ -3036,7 +3036,7 @@ Chị Hương:
 
 ## Cụm từ mẫu
 > **"Mỗi file = 1 dòng mô tả + gợi ý đọc ưu tiên."**', 'system', 67, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001068, 8001, NULL, 'markdown_book', 'Rule 67 — Giới hạn dung lượng mail doanh nghiệp 10MB — nén hoặc dùng link', '# Rule 67 — Giới hạn dung lượng mail doanh nghiệp 10MB — nén hoặc dùng link
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000068, 800000001, NULL, 'markdown_book', 'Rule 67 — Giới hạn dung lượng mail doanh nghiệp 10MB — nén hoặc dùng link', '# Rule 67 — Giới hạn dung lượng mail doanh nghiệp 10MB — nén hoặc dùng link
 > **Luận điểm.** Hầu hết mail doanh nghiệp có giới hạn dung lượng **10MB hoặc 25MB**. Vượt giới hạn → mail bị block, nhưng **bạn không nhận được thông báo lỗi ngay**. 2-3 ngày sau bạn phát hiện không gửi được → trễ việc.
 >
 > Từ khóa: **"10MB hoặc dùng link"**.
@@ -3069,7 +3069,7 @@ File chứa PII, hợp đồng ký, số liệu tài chính → dùng **cloud st
 
 ## Cụm từ mẫu
 > **"File >10MB → nén hoặc link. Không đính kèm và hy vọng nó gửi được."**', 'system', 68, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001069, 8001, NULL, 'markdown_book', 'Rule 68 — Plain text an toàn hơn HTML — email công việc nên chọn plain', '# Rule 68 — Plain text an toàn hơn HTML — email công việc nên chọn plain
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000069, 800000001, NULL, 'markdown_book', 'Rule 68 — Plain text an toàn hơn HTML — email công việc nên chọn plain', '# Rule 68 — Plain text an toàn hơn HTML — email công việc nên chọn plain
 > **Luận điểm.** HTML email có format đẹp hơn (bold, color, bảng) nhưng nhiều rủi ro: (1) hiển thị khác nhau trên các email client, (2) dễ rơi vào spam folder, (3) khó copy-paste trích dẫn. **Plain text** là "mặc định an toàn" cho mail công việc thông thường.
 >
 > Từ khóa: **"plain text mặc định"**.
@@ -3099,7 +3099,7 @@ Message tab → Format Text → Plain Text.
 
 ## Cụm từ mẫu
 > **"Mail công việc: plain text mặc định. HTML chỉ khi thật sự cần và có kiểm tra."**', 'system', 69, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001070, 8001, NULL, 'markdown_book', 'Rule 69 — UTF-8 và kiểm tra dấu tiếng Việt khi gửi ra nước ngoài', '# Rule 69 — UTF-8 và kiểm tra dấu tiếng Việt khi gửi ra nước ngoài
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000070, 800000001, NULL, 'markdown_book', 'Rule 69 — UTF-8 và kiểm tra dấu tiếng Việt khi gửi ra nước ngoài', '# Rule 69 — UTF-8 và kiểm tra dấu tiếng Việt khi gửi ra nước ngoài
 > **Luận điểm.** Gửi email quốc tế có thể gặp **lỗi encoding** — dấu tiếng Việt hiển thị thành `?`, `□`, hoặc ký tự lạ. Lỗi này do email client sử dụng encoding khác UTF-8. Phòng tránh: (1) đặt encoding UTF-8 rõ, (2) test trước bằng cách gửi nháp cho chính mình, (3) có bản tiếng Anh backup.
 >
 > Từ khóa: **"UTF-8 + test trước"**.
@@ -3139,7 +3139,7 @@ Mail quan trọng gửi quốc tế, cân nhắc gửi **bản song ngữ**:
 
 ## Cụm từ mẫu
 > **"Quốc tế → UTF-8 + test trước + bản tiếng Anh backup nếu quan trọng."**', 'system', 70, 'premium', TRUE, FALSE, NOW()) ON CONFLICT (id) DO UPDATE SET curriculum_id = EXCLUDED.curriculum_id, node_type = EXCLUDED.node_type, node_title = EXCLUDED.node_title, node_content = EXCLUDED.node_content, tenant_id = EXCLUDED.tenant_id, order_index = EXCLUDED.order_index, access_level = EXCLUDED.access_level, is_active = EXCLUDED.is_active, is_deleted = EXCLUDED.is_deleted, updated_at = NOW();
-INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (8001071, 8001, NULL, 'markdown_book', 'Rule 70 — Zalo / Teams đã thay email cho việc nào? Khi nào email vẫn không thể thiếu?', '# Rule 70 — Zalo / Teams đã thay email cho việc nào? Khi nào email vẫn không thể thiếu?
+INSERT INTO curriculum_node (id, curriculum_id, parent_id, node_type, node_title, node_content, tenant_id, order_index, access_level, is_active, is_deleted, created_at) VALUES (810000071, 800000001, NULL, 'markdown_book', 'Rule 70 — Zalo / Teams đã thay email cho việc nào? Khi nào email vẫn không thể thiếu?', '# Rule 70 — Zalo / Teams đã thay email cho việc nào? Khi nào email vẫn không thể thiếu?
 > **Luận điểm.** Chat tool (Zalo, Teams, Slack) nhanh hơn email cho đa số việc hàng ngày, nhưng **không thay được email** trong các tình huống cần *bằng chứng*, *lưu trữ có hệ thống*, hoặc *trang trọng*. Biết chọn đúng kênh tiết kiệm nhiều thời gian.
 >
 > Từ khóa: **"chat vs email"**.

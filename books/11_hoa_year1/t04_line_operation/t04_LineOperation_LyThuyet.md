@@ -1,18 +1,18 @@
 # T4. Lần đầu đứng dây chuyền (初めてのライン作業)
 
-> **Mục tiêu:** Học vocab line operation, hou-ren-sou (報・連・相) intro, signature phrase 「異常があったら、すぐ呼んでください」, KAIZEN căn bản, và cụm xác nhận かしこまりました/承知しました.
+> **Mục tiêu:** Học từ vựng thao tác dây chuyền, hou-ren-sou (報・連・相) giới thiệu, signature phrase 「異常があったら、すぐ呼んでください」, KAIZEN căn bản, và cụm xác nhận かしこまりました/承知しました.
 
 ---
 
 ## Bối cảnh
 
-Tháng 7. Sau 2 tháng tập huấn vệ sinh, Hoa chính thức được Tanaka-buchou cho đứng line cơm hộp 弁当, vị trí トッピング (đặt rau củ trên cơm). Sáng đầu tiên Satou-senpai đứng kế bên hướng dẫn nhịp. Trưa máy báo lỗi nhỏ — Hoa lúng túng nhưng học được cụm 「異常があります」. Cuối tháng được rotate sang line đông lạnh −18°C, lạnh tê tay, Yamada chia sẻ tip giữ ấm.
+Tháng 7. Sau 2 tháng tập huấn vệ sinh, Hoa chính thức được Tanaka-buchou cho đứng dây chuyền cơm hộp 弁当, vị trí トッピング (đặt rau củ trên cơm). Sáng đầu tiên Satou-senpai đứng kế bên hướng dẫn nhịp. Trưa máy báo lỗi nhỏ — Hoa lúng túng nhưng học được cụm 「異常があります」. Cuối tháng được luân chuyển sang dây chuyền đông lạnh −18°C, lạnh tê tay, Yamada chia sẻ mẹo giữ ấm.
 
 ---
 
-## 1. Vocab line operation
+## 1. Từ vựng thao tác dây chuyền
 
-### 1.1 Việc làm trên line
+### 1.1 Việc làm trên dây chuyền
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -25,7 +25,7 @@ Tháng 7. Sau 2 tháng tập huấn vệ sinh, Hoa chính thức được Tanaka
 | <ruby>箱詰<rt>はこづ</rt></ruby>め | hakozume | Đóng thùng |
 | <ruby>出荷<rt>しゅっか</rt></ruby> | shukka | Xuất hàng |
 
-### 1.2 Vocab tình trạng máy
+### 1.2 Từ vựng tình trạng máy
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -39,18 +39,18 @@ Tháng 7. Sau 2 tháng tập huấn vệ sinh, Hoa chính thức được Tanaka
 
 ---
 
-## 2. Quy tắc đứng line — 5 điều cốt lõi
+## 2. Quy tắc đứng dây chuyền — 5 điều cốt lõi
 
-### 2.1 KHÔNG rời line tự ý
+### 2.1 KHÔNG rời dây chuyền tự ý
 
 - Muốn đi vệ sinh / uống nước → giơ tay → đợi sempai thay ca đến thay
-- Tuyệt đối KHÔNG bỏ vị trí trống → line dừng = lỗ tiền + ảnh hưởng cả tổ
+- Tuyệt đối KHÔNG bỏ vị trí trống → dây chuyền dừng = lỗ tiền + ảnh hưởng cả tổ
 
 ### 2.2 Nhịp tay đều
 
 - Mỗi vị trí có nhịp chuẩn (vd 3 giây/cơm hộp)
 - Quá nhanh → lỗi sai vị trí
-- Quá chậm → ùn line phía sau
+- Quá chậm → ùn dây chuyền phía sau
 
 ### 2.3 Mắt luôn nhìn vào sản phẩm
 
@@ -72,7 +72,7 @@ Tháng 7. Sau 2 tháng tập huấn vệ sinh, Hoa chính thức được Tanaka
 
 ---
 
-## 3. Hou-ren-sou (報・連・相) — Intro
+## 3. Hou-ren-sou (報・連・相) — Giới thiệu
 
 ### 3.1 Định nghĩa
 
@@ -89,16 +89,16 @@ Tháng 7. Sau 2 tháng tập huấn vệ sinh, Hoa chính thức được Tanaka
 | Loại | Mục đích | Ví dụ |
 |---|---|---|
 | 報告 | Báo việc đã/đang xảy ra | "Em đã đóng xong 1000 hộp" |
-| 連絡 | Truyền thông tin | "Hôm nay 3:00 có audit, mọi người đeo khẩu trang mới" |
+| 連絡 | Truyền thông tin | "Hôm nay 3:00 có thanh tra, mọi người đeo khẩu trang mới" |
 | 相談 | Hỏi ý kiến trước khi quyết | "Em định đổi vị trí, anh thấy sao?" |
 
-### 3.3 Quy tắc Hou-ren-sou ở line
+### 3.3 Quy tắc Hou-ren-sou ở dây chuyền
 
 - **Báo SỚM**: Nghi ngờ có lỗi → báo ngay, KHÔNG đợi confirm
 - **Báo NGẮN**: 1-2 câu, không lan man
 - **Báo CỤ THỂ**: 5W1H (When/Where/Who/What/Why/How)
 
-> 💡 **Báo sai 10 lần còn hơn không báo 1 lần đúng.**
+> **Báo sai 10 lần còn hơn không báo 1 lần đúng.**
 
 ---
 
@@ -141,17 +141,17 @@ Mỗi nhân viên (kể cả TTS) có **quyền + trách nhiệm** đề xuất 
 
 | Vấn đề | KAIZEN đơn giản |
 |---|---|
-| Đi xa lấy dụng cụ | Để gần line hơn |
+| Đi xa lấy dụng cụ | Để gần dây chuyền hơn |
 | Khó với tay lên kệ cao | Đặt thang phụ |
-| Tắc đường chuyền lúc 10:00 | Tăng người vị trí đó từ 9:50 |
-| Đèn LED line tối | Báo bảo trì thay |
+| Tắc dây chuyền lúc 10:00 | Tăng người vị trí đó từ 9:50 |
+| Đèn LED dây chuyền tối | Báo bảo trì thay |
 
 ### 5.3 Cách đề xuất
 
 - **Bằng miệng**: 「ちょっと<ruby>提案<rt>ていあん</rt></ruby>があるんですが」 → trình bày ngắn
 - **Bằng giấy**: Phiếu KAIZEN (nhà máy thường có hộp đề xuất)
 
-> 💡 KAIZEN = không cần lớn lao. 1 cải tiến tiết kiệm 10 giây/ca = 5 giờ/năm cho cả tổ.
+> KAIZEN = không cần lớn lao. 1 cải tiến tiết kiệm 10 giây/ca = 5 giờ/năm cho cả tổ.
 
 ---
 
@@ -165,13 +165,13 @@ Mỗi nhân viên (kể cả TTS) có **quyền + trách nhiệm** đề xuất 
 | <ruby>了解<rt>りょうかい</rt></ruby>です | ryoukai desu | Casual | Bạn cùng cấp (KHÔNG dùng với sếp) |
 | <ruby>承知<rt>しょうち</rt></ruby>いたしました | shouchi itashimashita | Rất cao | Khách VIP |
 
-> ⚠️ 「<ruby>了解<rt>りょうかい</rt></ruby>です」 KHÔNG dùng với sếp. Nhiều TTS mới hay sai chỗ này.
+> 「<ruby>了解<rt>りょうかい</rt></ruby>です」 KHÔNG dùng với sếp. Nhiều TTS mới hay sai chỗ này.
 
 ---
 
 ## 7. Tình huống mẫu — Hoa lần đầu báo lỗi
 
-**Cảnh: Line cơm hộp, 11:30 AM**
+**Cảnh: Dây chuyền cơm hộp, 11:30 AM**
 
 > *(Máy topping đột ngột phát tiếng "ピーピー" — alarm bất thường)*
 >
@@ -215,20 +215,20 @@ Mỗi nhân viên (kể cả TTS) có **quyền + trách nhiệm** đề xuất 
 
 ## 8. So sánh / Phân tích lỗi
 
-| ❌ SAI | ✅ ĐÚNG |
+| Cách nói SAI | Cách nói ĐÚNG |
 |---|---|
 | <ruby>機械<rt>きかい</rt></ruby>がうるさい... どうしよう... | <ruby>異常<rt>いじょう</rt></ruby>があります! |
 | (Lan man, không hành động) | (Báo ngay + cụm chuẩn) |
 | <ruby>分<rt>わ</rt></ruby>からない、<ruby>後<rt>あと</rt></ruby>で<ruby>聞<rt>き</rt></ruby>く | すぐ<ruby>聞<rt>き</rt></ruby>く |
 | (Đợi = mất thời gian + lỗi tăng) | (Hỏi ngay) |
-| トイレに<ruby>行<rt>い</rt></ruby>ってきます (rời line) | <ruby>佐藤<rt>さとう</rt></ruby>さん、トイレ<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですか? |
+| トイレに<ruby>行<rt>い</rt></ruby>ってきます (rời dây chuyền) | <ruby>佐藤<rt>さとう</rt></ruby>さん、トイレ<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですか? |
 | (Tự ý rời) | (Xin phép, đợi người thay ca) |
 | <ruby>了解<rt>りょうかい</rt></ruby>です (với sếp) | <ruby>承知<rt>しょうち</rt></ruby>しました / かしこまりました |
 | (Casual, sai ngữ cảnh) | (Formal đúng) |
 
 ---
 
-## 9. 📖 Vocab nhà máy hôm nay
+## 9. Từ vựng nhà máy hôm nay
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -249,38 +249,38 @@ Mỗi nhân viên (kể cả TTS) có **quyền + trách nhiệm** đề xuất 
 - **Cụm signature**: 「<ruby>異常<rt>いじょう</rt></ruby>があります」 — học thuộc để báo ngay khi có bất thường
 - **KAIZEN**: Cải tiến nhỏ hàng ngày, mọi người đều có quyền đề xuất
 - **Xác nhận với sếp**: かしこまりました / <ruby>承知<rt>しょうち</rt></ruby>しました (KHÔNG <ruby>了解<rt>りょうかい</rt></ruby>です)
-- **Rời line**: Phải xin sempai, đợi người thay ca
+- **Rời dây chuyền**: Phải xin sempai, đợi người thay ca
 
-> **Quy tắc vàng:** *Báo sớm, báo ngắn, báo cụ thể. Im lặng là lỗi nặng nhất ở line.*
+> **Quy tắc vàng:** *Báo sớm, báo ngắn, báo cụ thể. Im lặng là lỗi nặng nhất ở dây chuyền.*
 
 ---
 
-## 11. 💡 Mẹo ghi nhớ
+## 11. Mẹo ghi nhớ
 
 | Mẹo | Nội dung |
 |---|---|
-| 🔺 Hou-Ren-Sou | "Báo - Liên - Tư" (3 chữ đầu) |
-| 🔻 「異常があります」 | Học thuộc lòng — chỉ 1 cụm này cứu được rất nhiều tình huống |
-| 💡 Kho lạnh | Nhét miếng dán giữ nhiệt (カイロ) trong áo khoác |
-| ⚠️ KHÔNG nói "了解です" với sếp | Dùng "承知しました" hoặc "かしこまりました" |
+|  Hou-Ren-Sou | "Báo - Liên - Tư" (3 chữ đầu) |
+|  「異常があります」 | Học thuộc lòng — chỉ 1 cụm này cứu được rất nhiều tình huống |
+|  Kho lạnh | Nhét miếng dán giữ nhiệt (カイロ) trong áo khoác |
+|  KHÔNG nói "了解です" với sếp | Dùng "承知しました" hoặc "かしこまりました" |
 
 ---
 
-## ✅ Mini check
+## Tự kiểm tra nhanh
 
 1. 報・連・相 viết đầy đủ là gì?
-   - A. <ruby>報酬<rt>ほうしゅう</rt></ruby>・<ruby>連絡<rt>れんらく</rt></ruby>・<ruby>相談<rt>そうだん</rt></ruby>
-   - B. <ruby>報告<rt>ほうこく</rt></ruby>・<ruby>連絡<rt>れんらく</rt></ruby>・<ruby>相談<rt>そうだん</rt></ruby>
-   - C. <ruby>報告<rt>ほうこく</rt></ruby>・<ruby>連絡<rt>れんらく</rt></ruby>・<ruby>相手<rt>あいて</rt></ruby>
+ - A. <ruby>報酬<rt>ほうしゅう</rt></ruby>・<ruby>連絡<rt>れんらく</rt></ruby>・<ruby>相談<rt>そうだん</rt></ruby>
+ - B. <ruby>報告<rt>ほうこく</rt></ruby>・<ruby>連絡<rt>れんらく</rt></ruby>・<ruby>相談<rt>そうだん</rt></ruby>
+ - C. <ruby>報告<rt>ほうこく</rt></ruby>・<ruby>連絡<rt>れんらく</rt></ruby>・<ruby>相手<rt>あいて</rt></ruby>
 
 2. Khi máy báo lỗi, câu đầu tiên nên nói:
-   - A. どうしよう...
-   - B. <ruby>異常<rt>いじょう</rt></ruby>があります!
-   - C. ちょっと<ruby>待<rt>ま</rt></ruby>ってください
+ - A. どうしよう...
+ - B. <ruby>異常<rt>いじょう</rt></ruby>があります!
+ - C. ちょっと<ruby>待<rt>ま</rt></ruby>ってください
 
 3. Khi sếp giao việc, đáp lời nào ĐÚNG nhất:
-   - A. <ruby>了解<rt>りょうかい</rt></ruby>です
-   - B. かしこまりました / <ruby>承知<rt>しょうち</rt></ruby>しました
-   - C. うん、わかった
+ - A. <ruby>了解<rt>りょうかい</rt></ruby>です
+ - B. かしこまりました / <ruby>承知<rt>しょうち</rt></ruby>しました
+ - C. うん、わかった
 
 *(Đáp án: 1B, 2B, 3B)*

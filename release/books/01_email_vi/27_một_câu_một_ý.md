@@ -1,6 +1,6 @@
 ---
-id: 8001027
-curriculum_id: 8001
+id: 810000027
+curriculum_id: 800000001
 order_index: 27
 node_type: rule
 title: "Rule 27 — Một câu một ý"

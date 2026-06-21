@@ -1,12 +1,12 @@
 # Sách thực tập sinh thực phẩm · T10. Khủng hoảng nhiệt độ kho đông sau Tết (お正月明けのトラブル)
 
-> **Mục tiêu nhân vật:** Hoa (năm 2, Việt Nam) cùng Mai và Putri (Indonesia) xử lý sự cố nhiệt độ kho đông sau Tết. Học các mẫu hội thoại tiếng Nhật trong nhà máy thực phẩm: **báo cáo sự cố theo 5W1H** (本日10時30分・冷凍庫の温度が…), **mẫu xin lỗi formal** (申し訳ございません・本当に申し訳ございません), **hỏi lại từ chuyên ngành chế biến** (〜というのは?), **phân tích nguyên nhân 5 Why** (なぜ〜?), **đề xuất cải tiến quy trình** (〜を提案します・〜に変更します), và **chúc Tết / chia sẻ văn hoá đa quốc gia** (あけましておめでとう・反省・社内消費).
+> **Mục tiêu nhân vật:** Hoa (năm 2, Việt Nam) cùng Mai và Putri (Indonesia) xử lý sự cố nhiệt độ kho đông sau Tết. Học các mẫu hội thoại tiếng Nhật trong nhà máy thực phẩm: **báo cáo sự cố theo 5W1H** (本日10時30分・冷凍庫の温度が…), **mẫu xin lỗi trang trọng** (申し訳ございません・本当に申し訳ございません), **hỏi lại từ chuyên ngành chế biến** (〜というのは?), **phân tích nguyên nhân 5 Why** (なぜ〜?), **đề xuất cải tiến quy trình** (〜を提案します・〜に変更します), và **chúc Tết / chia sẻ văn hoá đa quốc gia** (あけましておめでとう・反省・社内消費).
 
 ---
 
 ## Bối cảnh
 
-Tháng 1 năm 2028. Hoa đã bước sang năm thứ 2 tại nhà máy thực phẩm đông lạnh ở Aichi, trình độ tiếng Nhật N3. Sau kỳ nghỉ 正月, Putri (Indonesia, cùng ký túc) quên check nhiệt độ 冷凍庫 — tụt xuống -25°C trong 1 tiếng. Không tới mức thu hồi, chỉ xử lý nội bộ. Chương này tập trung mẫu câu báo cáo lỗi 報告, mẫu xin lỗi formal trong nhà máy, hỏi lại từ chuyên ngành thực phẩm, và phân tích 5 Why để đề xuất KAIZEN.
+Tháng 1 năm 2028. Hoa đã bước sang năm thứ 2 tại nhà máy thực phẩm đông lạnh ở Aichi, trình độ tiếng Nhật N3. Sau kỳ nghỉ 正月, Putri (Indonesia, cùng ký túc) quên kiểm tra nhiệt độ 冷凍庫 — tụt xuống -25°C trong 1 tiếng. Không tới mức thu hồi, chỉ xử lý nội bộ. Chương này tập trung mẫu câu báo cáo lỗi 報告, mẫu xin lỗi trang trọng trong nhà máy, hỏi lại từ chuyên ngành thực phẩm, và phân tích 5 Why để đề xuất KAIZEN.
 
 ---
 
@@ -68,12 +68,12 @@ Tháng 1 năm 2028. Hoa đã bước sang năm thứ 2 tại nhà máy thực ph
 
 ---
 
-## Tình huống 5 — Phòng nghỉ · 10:50, luyện mẫu câu xin lỗi formal (hỏi lại đàn chị)
+## Tình huống 5 — Phòng nghỉ · 10:50, luyện mẫu câu xin lỗi trang trọng (hỏi lại đàn chị)
 
 | Vai | Lời thoại |
 |---|---|
 | Putri | ホアちゃん、すみません、<ruby>正<rt>ただ</rt></ruby>しい<ruby>謝<rt>あやま</rt></ruby>り<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。<ruby>緊張<rt>きんちょう</rt></ruby>すると<ruby>忘<rt>わす</rt></ruby>れます。<br>*(Hoa-chan, em xin lỗi, chỉ em cách xin lỗi đúng với. Cứ căng thẳng là em quên.)* |
-| Hoa | <ruby>大丈夫<rt>だいじょうぶ</rt></ruby>。フォーマルな<ruby>謝<rt>あやま</rt></ruby>り<ruby>方<rt>かた</rt></ruby>は<ruby>三<rt>みっ</rt></ruby>つあります。<ruby>軽<rt>かる</rt></ruby>い<ruby>順<rt>じゅん</rt></ruby>に「すみません」「<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ありません」「<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません」です。<br>*(Không sao. Cách xin lỗi formal có ba mẫu. Từ nhẹ đến nặng: sumimasen, moushiwake arimasen, moushiwake gozaimasen.)* |
+| Hoa | <ruby>大丈夫<rt>だいじょうぶ</rt></ruby>。フォーマルな<ruby>謝<rt>あやま</rt></ruby>り<ruby>方<rt>かた</rt></ruby>は<ruby>三<rt>みっ</rt></ruby>つあります。<ruby>軽<rt>かる</rt></ruby>い<ruby>順<rt>じゅん</rt></ruby>に「すみません」「<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ありません」「<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません」です。<br>*(Không sao. Cách xin lỗi trang trọng có ba mẫu. Từ nhẹ đến nặng: sumimasen, moushiwake arimasen, moushiwake gozaimasen.)* |
 | Putri | <ruby>今日<rt>きょう</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>はどれですか？<br>*(Trường hợp hôm nay là cái nào?)* |
 | Hoa | <ruby>業務上<rt>ぎょうむじょう</rt></ruby>のミスなので「<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません」が<ruby>正<rt>ただ</rt></ruby>しいです。<ruby>強調<rt>きょうちょう</rt></ruby>するときは「<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません」。<br>*(Lỗi nghiệp vụ nên dùng "moushiwake gozaimasen" là đúng. Khi nhấn mạnh thì "hontou ni moushiwake gozaimasen".)* |
 | Putri | むずかしい...インドネシアでは「Mohon maaf yang sebesar-besarnya」と<ruby>言<rt>い</rt></ruby>います。<ruby>長<rt>なが</rt></ruby>いですよね。<br>*(Khó quá... Ở Indonesia nói "Mohon maaf yang sebesar-besarnya". Dài lắm.)* |
@@ -130,11 +130,11 @@ Tháng 1 năm 2028. Hoa đã bước sang năm thứ 2 tại nhà máy thực ph
 | Takahashi | Q3：なぜ<ruby>眠<rt>ねむ</rt></ruby>かったんですか？<br>*(Q3: Tại sao buồn ngủ?)* |
 | Putri | <ruby>正月<rt>しょうがつ</rt></ruby><ruby>明<rt>あ</rt></ruby>けで<ruby>体<rt>からだ</rt></ruby>がまだ<ruby>休<rt>やす</rt></ruby>みモードでした。<br>*(Sau Tết, cơ thể vẫn ở chế độ nghỉ.)* |
 | Takahashi | Q4：なぜ<ruby>1<rt>いち</rt></ruby><ruby>時間<rt>じかん</rt></ruby><ruby>気<rt>き</rt></ruby>づきませんでしたか？<br>*(Q4: Tại sao 1 tiếng không phát hiện?)* |
-| Putri | <ruby>確認<rt>かくにん</rt></ruby>の<ruby>頻度<rt>ひんど</rt></ruby>が<ruby>低<rt>ひく</rt></ruby>かったです。<ruby>1<rt>いち</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>1<rt>いっ</rt></ruby><ruby>回<rt>かい</rt></ruby>でした。<br>*(Tần suất check thấp. 1 tiếng 1 lần.)* |
+| Putri | <ruby>確認<rt>かくにん</rt></ruby>の<ruby>頻度<rt>ひんど</rt></ruby>が<ruby>低<rt>ひく</rt></ruby>かったです。<ruby>1<rt>いち</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>1<rt>いっ</rt></ruby><ruby>回<rt>かい</rt></ruby>でした。<br>*(Tần suất kiểm tra thấp. 1 tiếng 1 lần.)* |
 | Takahashi | Q5：なぜ<ruby>頻度<rt>ひんど</rt></ruby>が<ruby>低<rt>ひく</rt></ruby>いんですか？<br>*(Q5: Tại sao tần suất thấp?)* |
 | Putri | <ruby>規定<rt>きてい</rt></ruby>でそう<ruby>決<rt>き</rt></ruby>まっています。<ruby>正月<rt>しょうがつ</rt></ruby><ruby>明<rt>あ</rt></ruby>けの<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>規定<rt>きてい</rt></ruby>はありません。<br>*(Quy định quy vậy. Không có quy định đặc biệt cho sau Tết.)* |
 | Takahashi | <ruby>結論<rt>けつろん</rt></ruby>：<ruby>規定<rt>きてい</rt></ruby>の<ruby>変更<rt>へんこう</rt></ruby>と<ruby>自動<rt>じどう</rt></ruby>アラームの<ruby>導入<rt>どうにゅう</rt></ruby>を<ruby>提案<rt>ていあん</rt></ruby>します。<br>*(Kết luận: đề xuất đổi quy định và đưa vào alarm tự động.)* |
-| Hoa | <ruby>正月<rt>しょうがつ</rt></ruby><ruby>明<rt>あ</rt></ruby>けの<ruby>2<rt>に</rt></ruby><ruby>週間<rt>しゅうかん</rt></ruby>は<ruby>確認<rt>かくにん</rt></ruby><ruby>頻度<rt>ひんど</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げるのはどうですか？<br>*(Sau Tết 2 tuần tăng tần suất check thì sao?)* |
+| Hoa | <ruby>正月<rt>しょうがつ</rt></ruby><ruby>明<rt>あ</rt></ruby>けの<ruby>2<rt>に</rt></ruby><ruby>週間<rt>しゅうかん</rt></ruby>は<ruby>確認<rt>かくにん</rt></ruby><ruby>頻度<rt>ひんど</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げるのはどうですか？<br>*(Sau Tết 2 tuần tăng tần suất kiểm tra thì sao?)* |
 | Takahashi | いいアイデアですね。チェックリストに<ruby>反映<rt>はんえい</rt></ruby>しましょう。<br>*(Ý hay đấy. Đưa vào bảng kiểm nhé.)* |
 
 ---
@@ -162,8 +162,8 @@ Tháng 1 năm 2028. Hoa đã bước sang năm thứ 2 tại nhà máy thực ph
 | Putri | はい、ぜひ。<br>*(Vâng, em rất muốn.)* |
 | Hoa | まず<ruby>正月<rt>しょうがつ</rt></ruby><ruby>明<rt>あ</rt></ruby>けの<ruby>2<rt>に</rt></ruby><ruby>週間<rt>しゅうかん</rt></ruby>は、<ruby>温度<rt>おんど</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>を<ruby>30<rt>さんじゅっ</rt></ruby><ruby>分<rt>ぷん</rt></ruby>に<ruby>1<rt>いっ</rt></ruby><ruby>回<rt>かい</rt></ruby>に<ruby>変更<rt>へんこう</rt></ruby>します。<br>*(Trước hết, 2 tuần sau Tết, đổi check nhiệt độ thành 30 phút/lần.)* |
 | Putri | <ruby>通常時<rt>つうじょうじ</rt></ruby>は<ruby>1<rt>いち</rt></ruby><ruby>時間<rt>じかん</rt></ruby>に<ruby>1<rt>いっ</rt></ruby><ruby>回<rt>かい</rt></ruby>のままですね。<br>*(Bình thường giữ 1 tiếng/lần đúng không?)* |
-| Hoa | そうです。それから、<ruby>設定<rt>せってい</rt></ruby><ruby>変更時<rt>へんこうじ</rt></ruby>は<ruby>必<rt>かなら</rt></ruby>ず<ruby>二<rt>ふた</rt></ruby>り<ruby>確認<rt>かくにん</rt></ruby>—ダブルチェックを<ruby>入<rt>い</rt></ruby>れましょう。<br>*(Đúng. Còn nữa, khi đổi thiết lập bắt buộc 2 người xác nhận — đưa double-check vào.)* |
-| Putri | <ruby>記録表<rt>きろくひょう</rt></ruby>のフォーマットも<ruby>変<rt>か</rt></ruby>えますか？<br>*(Đổi cả format bảng ghi luôn ạ?)* |
+| Hoa | そうです。それから、<ruby>設定<rt>せってい</rt></ruby><ruby>変更時<rt>へんこうじ</rt></ruby>は<ruby>必<rt>かなら</rt></ruby>ず<ruby>二<rt>ふた</rt></ruby>り<ruby>確認<rt>かくにん</rt></ruby>—ダブルチェックを<ruby>入<rt>い</rt></ruby>れましょう。<br>*(Đúng. Còn nữa, khi đổi thiết lập bắt buộc 2 người xác nhận — đưa kiểm tra kép vào.)* |
+| Putri | <ruby>記録表<rt>きろくひょう</rt></ruby>のフォーマットも<ruby>変<rt>か</rt></ruby>えますか？<br>*(Đổi cả định dạng bảng ghi luôn ạ?)* |
 | Hoa | はい。<ruby>確認者<rt>かくにんしゃ</rt></ruby>の<ruby>欄<rt>らん</rt></ruby>を<ruby>二<rt>ふた</rt></ruby>つに<ruby>増<rt>ふ</rt></ruby>やします。<br>*(Vâng. Tăng ô người xác nhận lên 2 ô.)* |
 | Putri | <ruby>完璧<rt>かんぺき</rt></ruby>です。<ruby>明日<rt>あした</rt></ruby><ruby>田中<rt>たなか</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>に<ruby>提案<rt>ていあん</rt></ruby>しましょう。<br>*(Hoàn hảo. Mai đề xuất trưởng phòng Tanaka nhé.)* |
 | Hoa | <ruby>2<rt>ふた</rt></ruby><ruby>人<rt>り</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>で<ruby>提案<rt>ていあん</rt></ruby>しますね。<br>*(Đề xuất dưới tên của hai chị em nhé.)* |
@@ -176,13 +176,13 @@ Tháng 1 năm 2028. Hoa đã bước sang năm thứ 2 tại nhà máy thực ph
 
 | Vai | Lời thoại |
 |---|---|
-| Hoa | (tiếng Việt) Chị Linh ơi, hôm nay em gặp chuyện căng. Putri — bạn Indonesia cùng ký túc — quên check nhiệt độ kho đông, tụt xuống -25 độ suốt 1 tiếng. |
+| Hoa | (tiếng Việt) Chị Linh ơi, hôm nay em gặp chuyện căng. Putri — bạn Indonesia cùng ký túc — quên kiểm tra nhiệt độ kho đông, tụt xuống -25 độ suốt 1 tiếng. |
 | Linh | (tiếng Việt) Trời, có sao không? Hỏng lô hàng à? |
 | Hoa | (tiếng Việt) Không hỏng. Anh Takahashi QC kiểm tra, 食感 với 外観 vẫn ổn. Cuối cùng trưởng phòng Tanaka chuyển 500 cái sang 食堂 nội bộ, không tiêu hủy. |
 | Linh | (tiếng Việt) Hay ghê. Bên Việt mình chắc trừ lương Putri rồi. |
 | Hoa | (tiếng Việt) Putri cũng nói y như chị. Em phải dạy cô ấy mẫu "本当に申し訳ございません" và cách báo cáo 5W1H — hôm nay tiếng Nhật N3 của em mới có chỗ dùng. |
 | Linh | (tiếng Việt) Em giờ đàn chị rồi đấy. Còn vụ phân tích nguyên nhân thế nào? |
-| Hoa | (tiếng Việt) Bọn em làm 5 Why với anh Takahashi. Hỏi "なぜ?" 5 lần liên tục, càng hỏi càng ra gốc — té ra là quy định không có riêng cho sau Tết. Em với Putri tự làm bảng kiểm mới: 30 phút/lần trong 2 tuần đầu năm, thêm double-check khi đổi thiết lập. |
+| Hoa | (tiếng Việt) Bọn em làm 5 Why với anh Takahashi. Hỏi "なぜ?" 5 lần liên tục, càng hỏi càng ra gốc — té ra là quy định không có riêng cho sau Tết. Em với Putri tự làm bảng kiểm mới: 30 phút/lần trong 2 tuần đầu năm, thêm kiểm tra kép khi đổi thiết lập. |
 | Linh | (tiếng Việt) Giỏi! Mai đề xuất sếp nhé. Tháng 3 chị qua thăm, chị đãi 3 đứa bún bò. |
 | Hoa | (tiếng Việt) Dạ chị! Em chuyển lời cho Putri với Mai. |
 
@@ -205,7 +205,7 @@ Tháng 1 năm 2028. Hoa đã bước sang năm thứ 2 tại nhà máy thực ph
 
 ## Đọng lại chương 10
 
-Hoa và Putri trải qua một ngày khủng hoảng nhẹ đầu năm mới: nhiệt độ **冷凍庫** tụt xuống -25°C trong 1 tiếng, 500 cái sản phẩm bị ảnh hưởng. Hoa làm đàn chị dẫn Putri qua chuỗi kỹ năng nghề: **báo cáo 5W1H** (本日10時30分・冷凍庫の温度が…・申し訳ございません), **bậc thang xin lỗi formal** (すみません → 申し訳ありません → 申し訳ございません → 本当に申し訳ございません), **hỏi lại từ chuyên ngành** (「食感」というのは?), **5 Why** (なぜ→なぜ→なぜ) để truy nguyên nhân gốc, rồi **đề xuất KAIZEN** (確認頻度を上げる・ダブルチェック・自動アラーム). Cùng đó là khái niệm **社内消費** — chuyển hàng không đạt sang **食堂** nội bộ thay vì **廃棄**, giảm **食品ロス**. Một sự cố nhỏ đã hé ra triết lý nghề thực phẩm Nhật: lỗi không phải để mắng, mà để **共有** và **反省** — biến thành tiêu chuẩn mới cho cả nhóm đa quốc gia.
+Hoa và Putri trải qua một ngày khủng hoảng nhẹ đầu năm mới: nhiệt độ **冷凍庫** tụt xuống -25°C trong 1 tiếng, 500 cái sản phẩm bị ảnh hưởng. Hoa làm đàn chị dẫn Putri qua chuỗi kỹ năng nghề: **báo cáo 5W1H** (本日10時30分・冷凍庫の温度が…・申し訳ございません), **bậc thang xin lỗi trang trọng** (すみません → 申し訳ありません → 申し訳ございません → 本当に申し訳ございません), **hỏi lại từ chuyên ngành** (「食感」というのは?), **5 Why** (なぜ→なぜ→なぜ) để truy nguyên nhân gốc, rồi **đề xuất KAIZEN** (確認頻度を上げる・ダブルチェック・自動アラーム). Cùng đó là khái niệm **社内消費** — chuyển hàng không đạt sang **食堂** nội bộ thay vì **廃棄**, giảm **食品ロス**. Một sự cố nhỏ đã hé ra triết lý nghề thực phẩm Nhật: lỗi không phải để mắng, mà để **共有** và **反省** — biến thành tiêu chuẩn mới cho cả nhóm đa quốc gia.
 
 > Từ vựng & mẫu câu chương này: 正月明け・冷凍庫・温度・規定・設定・申し訳ございません・本当に申し訳ございません・報連相・報告・5W1H・食感・外観・社内消費・廃棄・食品ロス・反省・共有・5Why・なぜ〜?・〜というのは?・〜を提案します・〜に変更します・ダブルチェック・自動アラーム・確認頻度・KAIZEN
 
@@ -213,9 +213,9 @@ Hoa và Putri trải qua một ngày khủng hoảng nhẹ đầu năm mới: nh
 
 - **正月明け** = thời điểm dễ mắc lỗi vì cơ thể vẫn ở chế độ nghỉ — cần KAIZEN tần suất kiểm tra.
 - **Chuỗi lạnh đứt 1h** ở -25°C: chưa chắc phải tiêu hủy, có thể chuyển 社内消費.
-- **Bậc thang xin lỗi formal**: sumimasen → moushiwake arimasen → moushiwake gozaimasen → hontou ni moushiwake gozaimasen.
+- **Bậc thang xin lỗi trang trọng**: sumimasen → moushiwake arimasen → moushiwake gozaimasen → hontou ni moushiwake gozaimasen.
 - **5 Why**: hỏi "なぜ?" liên tục 5 lần để chạm gốc nguyên nhân, không dừng ở triệu chứng.
-- **3 quốc tịch trong ký túc** = 3 cách xin lỗi (VN dài, Indo dài, Nhật ngắn nhưng formal hơn) — bonding qua cooking.
+- **3 quốc tịch trong ký túc** = 3 cách xin lỗi (VN dài, Indo dài, Nhật ngắn nhưng trang trọng hơn) — gắn kết qua nấu ăn.
 
 > *"5/1/2028. Nhiệt độ -25, Putri suýt khóc. Em làm đàn chị, dạy lại 報連相 và 5W1H mà sempai Linh từng dạy em. Vòng tròn đàn chị → đàn em khép lại."*
 
@@ -237,7 +237,7 @@ Hoa và Putri trải qua một ngày khủng hoảng nhẹ đầu năm mới: nh
 | 抜ける | ぬける | BẠT | Thoát ra |
 | 顔色 | かおいろ | NHAN SẮC | Sắc mặt |
 | 眠い | ねむい | MIÊN | Buồn ngủ |
-| 夜更かし | よふかし | DẠ CÁNH | Thức khuya |
+| 夜更かし | よふかし | DẠ CANH | Thức khuya |
 | 通話 | つうわ | THÔNG THOẠI | Cuộc gọi |
 | 冷凍庫 | れいとうこ | LÃNH ĐÔNG KHỐ | Kho đông |
 | 設定 | せってい | THIẾT ĐỊNH | Thiết lập |
@@ -254,7 +254,7 @@ Hoa và Putri trải qua một ngày khủng hoảng nhẹ đầu năm mới: nh
 | 規定外 | きていがい | QUY ĐỊNH NGOẠI | Ngoài quy định |
 | 一緒 | いっしょ | NHẤT TỰ | Cùng nhau |
 | 謝り方 | あやまりかた | TẠ PHƯƠNG | Cách xin lỗi |
-| 申し訳ありません | もうしわけありません | THÂN DỊCH | Xin lỗi (formal) |
+| 申し訳ありません | もうしわけありません | THÂN DỊCH | Xin lỗi (trang trọng) |
 | 場合 | ばあい | TRƯỜNG HỢP | Trường hợp |
 | 業務上 | ぎょうむじょう | NGHIỆP VỤ THƯỢNG | Trên (về) nghiệp vụ |
 | 強調 | きょうちょう | CƯỜNG ĐIỆU | Nhấn mạnh |

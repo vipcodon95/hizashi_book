@@ -78,7 +78,7 @@ Tháng 9 năm 2027. Hoa đã làm việc tại xưởng chế biến thực ph�
 |---|---|
 | Suzuki | ホアさん、<ruby>後輩指導<rt>こうはいしどう</rt></ruby>はどうですか? <ruby>難<rt>むずか</rt></ruby>しいところはありますか?<br>*(Hoa-san, chỉ dẫn kohai thế nào? Có chỗ nào khó không?)* |
 | Hoa | マイさんは<ruby>真面目<rt>まじめ</rt></ruby>でいい<ruby>子<rt>こ</rt></ruby>です。<ruby>失敗<rt>しっぱい</rt></ruby>もありましたが、<ruby>毎回<rt>まいかい</rt></ruby>きちんと<ruby>学<rt>まな</rt></ruby>んでくれます。<br>*(Mai nghiêm túc và ngoan. Có sai sót nhưng mỗi lần đều biết rút kinh nghiệm.)* |
-| Suzuki | <ruby>木村<rt>きむら</rt></ruby><ruby>主任<rt>しゅにん</rt></ruby>から<ruby>聞<rt>き</rt></ruby>きましたよ。ホアさんはやさしい<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>教<rt>おし</rt></ruby>えてくれるって。<br>*(Anh có nghe chủ nhiệm Kimura nói rồi. Hoa-san dạy bằng yasashii Japanese.)* |
+| Suzuki | <ruby>木村<rt>きむら</rt></ruby><ruby>主任<rt>しゅにん</rt></ruby>から<ruby>聞<rt>き</rt></ruby>きましたよ。ホアさんはやさしい<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>教<rt>おし</rt></ruby>えてくれるって。<br>*(Anh có nghe chủ nhiệm Kimura nói rồi. Hoa-san dạy bằng tiếng Nhật đơn giản.)* |
 | Hoa | はい、<ruby>難<rt>むずか</rt></ruby>しい<ruby>言葉<rt>ことば</rt></ruby>を<ruby>避<rt>さ</rt></ruby>けて、<ruby>短<rt>みじか</rt></ruby>い<ruby>文<rt>ぶん</rt></ruby>で<ruby>話<rt>はな</rt></ruby>すように<ruby>意識<rt>いしき</rt></ruby>しております。<br>*(Vâng, em ý thức tránh từ khó, nói câu ngắn ạ.)* |
 | Suzuki | それでいいですよ。<ruby>食品衛生責任者<rt>しょくひんえいせいせきにんしゃ</rt></ruby>の<ruby>後<rt>あと</rt></ruby>は<ruby>何<rt>なに</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えていますか?<br>*(Vậy là tốt rồi. Sau khoá Sekininsha em tính gì?)* |
 | Hoa | HACCP コーディネーターに<ruby>挑戦<rt>ちょうせん</rt></ruby>したいと<ruby>考<rt>かんが</rt></ruby>えております。<ruby>近藤<rt>こんどう</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>からもお<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きました。<br>*(Em muốn thử HACCP Coordinator. Em cũng đã nghe cô Kondo giảng về việc đó ạ.)* |
@@ -198,10 +198,10 @@ Buổi 中間面接 lần đầu trong vai trò sempai, Hoa học được nguy�
 
 ## Bí quyết chương
 
-- Mensetsu năm 2 = role sempai. Trình bày: 後輩指導 + chứng chỉ + N3 + tương lai dài hạn.
+- Mensetsu năm 2 = vai sempai. Trình bày: 後輩指導 + chứng chỉ + N3 + tương lai dài hạn.
 - Cụm **〜に挑戦したいと考えております** = trang trọng thể hiện nguyện vọng, chuẩn cho phỏng vấn nội bộ.
 - N3 = miễn thi SSW1 飲食料品製造業 → ưu tiên cao nhất từ chương này trở đi.
-- Hướng dẫn kohai trước mensetsu = chỉ pattern câu, luyện vài lần, khen điểm mạnh trước.
+- Hướng dẫn kohai trước mensetsu = chỉ mẫu câu, luyện vài lần, khen điểm mạnh trước.
 - **無理しないで** — sempai cấp trên dạy mình giới hạn, mình dạy lại kohai bằng やさしい日本語.
 
 > *"Năm 1 mensetsu, mình hỏi 'làm sao để học?'. Năm 2 mensetsu, mình hỏi 'làm sao để dạy + làm sao để xa hơn?'. Câu hỏi thay đổi = mình thay đổi."*

@@ -1,6 +1,6 @@
 ---
-id: 8001071
-curriculum_id: 8001
+id: 810000071
+curriculum_id: 800000001
 order_index: 71
 node_type: rule
 title: "Rule 70 — Zalo / Teams đã thay email cho việc nào? Khi nào email vẫn không thể thiếu?"

@@ -1,6 +1,6 @@
 ---
-id: 8001062
-curriculum_id: 8001
+id: 810000062
+curriculum_id: 800000001
 order_index: 62
 node_type: rule
 title: "Rule 61 — Gạch đầu dòng + thụt lề làm cấu trúc lộ ra bằng mắt"

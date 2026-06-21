@@ -23,30 +23,30 @@
       "choices": [
         {
           "id": "A",
-          "text": "Sân bay",
-          "text_translation": "Sân bay",
+          "text": "Văn phòng",
+          "text_translation": "Văn phòng",
           "is_correct": false,
           "order": 0
         },
         {
           "id": "B",
-          "text": "Nhà máy",
-          "text_translation": "Nhà máy",
-          "is_correct": true,
+          "text": "Trường học",
+          "text_translation": "Trường học",
+          "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "Văn phòng",
-          "text_translation": "Văn phòng",
+          "text": "Sân bay",
+          "text_translation": "Sân bay",
           "is_correct": false,
           "order": 2
         },
         {
           "id": "D",
-          "text": "Trường học",
-          "text_translation": "Trường học",
-          "is_correct": false,
+          "text": "Nhà máy",
+          "text_translation": "Nhà máy",
+          "is_correct": true,
           "order": 3
         }
       ],
@@ -71,15 +71,15 @@
         },
         {
           "id": "B",
-          "text": "Sách giáo khoa",
-          "text_translation": "Sách giáo khoa",
+          "text": "Tiền lương",
+          "text_translation": "Tiền lương",
           "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "Tiền lương",
-          "text_translation": "Tiền lương",
+          "text": "Sách giáo khoa",
+          "text_translation": "Sách giáo khoa",
           "is_correct": false,
           "order": 2
         },
@@ -105,29 +105,29 @@
       "choices": [
         {
           "id": "A",
-          "text": "0~10°C",
-          "text_translation": "0~10°C",
-          "is_correct": true,
+          "text": "≤ −18°C",
+          "text_translation": "≤ −18°C",
+          "is_correct": false,
           "order": 0
         },
         {
           "id": "B",
-          "text": "≤ −18°C",
-          "text_translation": "≤ −18°C",
-          "is_correct": false,
+          "text": "0~10°C",
+          "text_translation": "0~10°C",
+          "is_correct": true,
           "order": 1
         },
         {
           "id": "C",
-          "text": "15~25°C",
-          "text_translation": "15~25°C",
+          "text": "≥ 30°C",
+          "text_translation": "≥ 30°C",
           "is_correct": false,
           "order": 2
         },
         {
           "id": "D",
-          "text": "≥ 30°C",
-          "text_translation": "≥ 30°C",
+          "text": "15~25°C",
+          "text_translation": "15~25°C",
           "is_correct": false,
           "order": 3
         }
@@ -146,29 +146,29 @@
       "choices": [
         {
           "id": "A",
-          "text": "0~10°C",
-          "text_translation": "0~10°C",
+          "text": "≥ 30°C",
+          "text_translation": "≥ 30°C",
           "is_correct": false,
           "order": 0
         },
         {
           "id": "B",
-          "text": "≤ −18°C",
-          "text_translation": "≤ −18°C",
-          "is_correct": true,
+          "text": "0~10°C",
+          "text_translation": "0~10°C",
+          "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "15~25°C",
-          "text_translation": "15~25°C",
-          "is_correct": false,
+          "text": "≤ −18°C",
+          "text_translation": "≤ −18°C",
+          "is_correct": true,
           "order": 2
         },
         {
           "id": "D",
-          "text": "≥ 30°C",
-          "text_translation": "≥ 30°C",
+          "text": "15~25°C",
+          "text_translation": "15~25°C",
           "is_correct": false,
           "order": 3
         }
@@ -187,30 +187,30 @@
       "choices": [
         {
           "id": "A",
-          "text": "整理 (Seiri)",
+          "text": "躾 (Shitsuke)",
           "text_translation": null,
-          "is_correct": true,
+          "is_correct": false,
           "order": 0
         },
         {
           "id": "B",
-          "text": "清掃 (Seisou)",
+          "text": "整頓 (Seiton)",
           "text_translation": null,
           "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "躾 (Shitsuke)",
+          "text": "清掃 (Seisou)",
           "text_translation": null,
           "is_correct": false,
           "order": 2
         },
         {
           "id": "D",
-          "text": "整頓 (Seiton)",
+          "text": "整理 (Seiri)",
           "text_translation": null,
-          "is_correct": false,
+          "is_correct": true,
           "order": 3
         }
       ],
@@ -235,16 +235,16 @@
         },
         {
           "id": "B",
-          "text": "Phát hiện kim loại trong sản phẩm",
-          "text_translation": "Phát hiện kim loại trong sản phẩm",
-          "is_correct": true,
+          "text": "Khử trùng",
+          "text_translation": "Khử trùng",
+          "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "Khử trùng",
-          "text_translation": "Khử trùng",
-          "is_correct": false,
+          "text": "Phát hiện kim loại trong sản phẩm",
+          "text_translation": "Phát hiện kim loại trong sản phẩm",
+          "is_correct": true,
           "order": 2
         },
         {
@@ -317,23 +317,23 @@
         },
         {
           "id": "B",
-          "text": "30 giây",
-          "text_translation": "30 giây",
-          "is_correct": true,
+          "text": "1 phút",
+          "text_translation": "1 phút",
+          "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "1 phút",
-          "text_translation": "1 phút",
+          "text": "5 phút",
+          "text_translation": "5 phút",
           "is_correct": false,
           "order": 2
         },
         {
           "id": "D",
-          "text": "5 phút",
-          "text_translation": "5 phút",
-          "is_correct": false,
+          "text": "30 giây",
+          "text_translation": "30 giây",
+          "is_correct": true,
           "order": 3
         }
       ],
@@ -351,29 +351,29 @@
       "choices": [
         {
           "id": "A",
-          "text": "Mũ",
-          "text_translation": "Mũ",
-          "is_correct": false,
+          "text": "Ủng",
+          "text_translation": "Ủng",
+          "is_correct": true,
           "order": 0
         },
         {
           "id": "B",
-          "text": "Ủng",
-          "text_translation": "Ủng",
-          "is_correct": true,
+          "text": "Mũ",
+          "text_translation": "Mũ",
+          "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "Khẩu trang",
-          "text_translation": "Khẩu trang",
+          "text": "Găng tay",
+          "text_translation": "Găng tay",
           "is_correct": false,
           "order": 2
         },
         {
           "id": "D",
-          "text": "Găng tay",
-          "text_translation": "Găng tay",
+          "text": "Khẩu trang",
+          "text_translation": "Khẩu trang",
           "is_correct": false,
           "order": 3
         }
@@ -433,28 +433,28 @@
       "choices": [
         {
           "id": "A",
-          "text": "つけて",
+          "text": "つけ",
           "text_translation": null,
-          "is_correct": true,
+          "is_correct": false,
           "order": 0
         },
         {
           "id": "B",
-          "text": "つける",
+          "text": "つけて",
           "text_translation": null,
-          "is_correct": false,
+          "is_correct": true,
           "order": 1
         },
         {
           "id": "C",
-          "text": "つけた",
+          "text": "つける",
           "text_translation": null,
           "is_correct": false,
           "order": 2
         },
         {
           "id": "D",
-          "text": "つけ",
+          "text": "つけた",
           "text_translation": null,
           "is_correct": false,
           "order": 3
@@ -474,9 +474,9 @@
       "choices": [
         {
           "id": "A",
-          "text": "ら",
+          "text": "っ",
           "text_translation": null,
-          "is_correct": true,
+          "is_correct": false,
           "order": 0
         },
         {
@@ -488,9 +488,9 @@
         },
         {
           "id": "C",
-          "text": "っ",
+          "text": "ら",
           "text_translation": null,
-          "is_correct": false,
+          "is_correct": true,
           "order": 2
         },
         {
@@ -515,30 +515,30 @@
       "choices": [
         {
           "id": "A",
-          "text": "10 phút",
-          "text_translation": "10 phút",
+          "text": "1 giờ",
+          "text_translation": "1 giờ",
           "is_correct": false,
           "order": 0
         },
         {
           "id": "B",
-          "text": "30 phút",
-          "text_translation": "30 phút",
-          "is_correct": true,
+          "text": "Không giới hạn",
+          "text_translation": "Không giới hạn",
+          "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "1 giờ",
-          "text_translation": "1 giờ",
+          "text": "10 phút",
+          "text_translation": "10 phút",
           "is_correct": false,
           "order": 2
         },
         {
           "id": "D",
-          "text": "Không giới hạn",
-          "text_translation": "Không giới hạn",
-          "is_correct": false,
+          "text": "30 phút",
+          "text_translation": "30 phút",
+          "is_correct": true,
           "order": 3
         }
       ],
@@ -556,8 +556,8 @@
       "choices": [
         {
           "id": "A",
-          "text": "Đồng phục bình thường",
-          "text_translation": "Đồng phục bình thường",
+          "text": "Áo thun",
+          "text_translation": "Áo thun",
           "is_correct": false,
           "order": 0
         },
@@ -570,8 +570,8 @@
         },
         {
           "id": "C",
-          "text": "Áo thun",
-          "text_translation": "Áo thun",
+          "text": "Đồng phục bình thường",
+          "text_translation": "Đồng phục bình thường",
           "is_correct": false,
           "order": 2
         },
@@ -597,29 +597,29 @@
       "choices": [
         {
           "id": "A",
-          "text": "Sàng lọc",
-          "text_translation": "Sàng lọc",
-          "is_correct": false,
+          "text": "Sắp xếp",
+          "text_translation": "Sắp xếp",
+          "is_correct": true,
           "order": 0
         },
         {
           "id": "B",
-          "text": "Sắp xếp",
-          "text_translation": "Sắp xếp",
-          "is_correct": true,
+          "text": "Kỷ luật",
+          "text_translation": "Kỷ luật",
+          "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "Vệ sinh",
-          "text_translation": "Vệ sinh",
+          "text": "Sàng lọc",
+          "text_translation": "Sàng lọc",
           "is_correct": false,
           "order": 2
         },
         {
           "id": "D",
-          "text": "Kỷ luật",
-          "text_translation": "Kỷ luật",
+          "text": "Vệ sinh",
+          "text_translation": "Vệ sinh",
           "is_correct": false,
           "order": 3
         }
@@ -679,29 +679,29 @@
       "choices": [
         {
           "id": "A",
-          "text": "Lẫn tóc trong sản phẩm",
-          "text_translation": "Lẫn tóc trong sản phẩm",
-          "is_correct": true,
+          "text": "Lẫn kim loại",
+          "text_translation": "Lẫn kim loại",
+          "is_correct": false,
           "order": 0
         },
         {
           "id": "B",
-          "text": "Lẫn kim loại",
-          "text_translation": "Lẫn kim loại",
+          "text": "Sai nhãn",
+          "text_translation": "Sai nhãn",
           "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "Hết hàng",
-          "text_translation": "Hết hàng",
-          "is_correct": false,
+          "text": "Lẫn tóc trong sản phẩm",
+          "text_translation": "Lẫn tóc trong sản phẩm",
+          "is_correct": true,
           "order": 2
         },
         {
           "id": "D",
-          "text": "Sai nhãn",
-          "text_translation": "Sai nhãn",
+          "text": "Hết hàng",
+          "text_translation": "Hết hàng",
           "is_correct": false,
           "order": 3
         }
@@ -720,8 +720,8 @@
       "choices": [
         {
           "id": "A",
-          "text": "Mỗi ngày",
-          "text_translation": "Mỗi ngày",
+          "text": "Mỗi tháng 1 lần",
+          "text_translation": "Mỗi tháng 1 lần",
           "is_correct": false,
           "order": 0
         },
@@ -734,8 +734,8 @@
         },
         {
           "id": "C",
-          "text": "Mỗi tháng 1 lần",
-          "text_translation": "Mỗi tháng 1 lần",
+          "text": "Mỗi ngày",
+          "text_translation": "Mỗi ngày",
           "is_correct": false,
           "order": 2
         },
@@ -761,9 +761,9 @@
       "choices": [
         {
           "id": "A",
-          "text": "Bào chữa",
-          "text_translation": "Bào chữa",
-          "is_correct": false,
+          "text": "Xin lỗi → sửa → cảm ơn",
+          "text_translation": "Xin lỗi → sửa → cảm ơn",
+          "is_correct": true,
           "order": 0
         },
         {
@@ -775,9 +775,9 @@
         },
         {
           "id": "C",
-          "text": "Xin lỗi → sửa → cảm ơn",
-          "text_translation": "Xin lỗi → sửa → cảm ơn",
-          "is_correct": true,
+          "text": "Bào chữa",
+          "text_translation": "Bào chữa",
+          "is_correct": false,
           "order": 2
         },
         {
@@ -809,23 +809,23 @@
         },
         {
           "id": "B",
-          "text": "Tiền bối",
-          "text_translation": "Tiền bối",
-          "is_correct": true,
+          "text": "Khách hàng",
+          "text_translation": "Khách hàng",
+          "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "Khách hàng",
-          "text_translation": "Khách hàng",
+          "text": "Sếp",
+          "text_translation": "Sếp",
           "is_correct": false,
           "order": 2
         },
         {
           "id": "D",
-          "text": "Sếp",
-          "text_translation": "Sếp",
-          "is_correct": false,
+          "text": "Tiền bối",
+          "text_translation": "Tiền bối",
+          "is_correct": true,
           "order": 3
         }
       ],
@@ -843,29 +843,29 @@
       "choices": [
         {
           "id": "A",
-          "text": "Im lặng vì khác nước",
-          "text_translation": "Im lặng vì khác nước",
+          "text": "Đợi anh ấy chào trước",
+          "text_translation": "Đợi anh ấy chào trước",
           "is_correct": false,
           "order": 0
         },
         {
           "id": "B",
-          "text": "Chào + tự giới thiệu (English/JP đơn giản)",
-          "text_translation": "Chào + tự giới thiệu (English/JP đơn giản)",
-          "is_correct": true,
+          "text": "Im lặng vì khác nước",
+          "text_translation": "Im lặng vì khác nước",
+          "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "Chỉ chào tiếng Nhật formal",
-          "text_translation": "Chỉ chào tiếng Nhật formal",
-          "is_correct": false,
+          "text": "Chào + tự giới thiệu (English/JP đơn giản)",
+          "text_translation": "Chào + tự giới thiệu (English/JP đơn giản)",
+          "is_correct": true,
           "order": 2
         },
         {
           "id": "D",
-          "text": "Đợi anh ấy chào trước",
-          "text_translation": "Đợi anh ấy chào trước",
+          "text": "Chỉ chào tiếng Nhật formal",
+          "text_translation": "Chỉ chào tiếng Nhật formal",
           "is_correct": false,
           "order": 3
         }
@@ -925,29 +925,29 @@
       "choices": [
         {
           "id": "A",
-          "text": "Im lặng",
-          "text_translation": "Im lặng",
+          "text": "Cười to",
+          "text_translation": "Cười to",
           "is_correct": false,
           "order": 0
         },
         {
           "id": "B",
-          "text": "Chào lại + tên + cười nhẹ",
-          "text_translation": "Chào lại + tên + cười nhẹ",
-          "is_correct": true,
+          "text": "Im lặng",
+          "text_translation": "Im lặng",
+          "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "Cúi 90°",
-          "text_translation": "Cúi 90°",
-          "is_correct": false,
+          "text": "Chào lại + tên + cười nhẹ",
+          "text_translation": "Chào lại + tên + cười nhẹ",
+          "is_correct": true,
           "order": 2
         },
         {
           "id": "D",
-          "text": "Cười to",
-          "text_translation": "Cười to",
+          "text": "Cúi 90°",
+          "text_translation": "Cúi 90°",
           "is_correct": false,
           "order": 3
         }
@@ -966,29 +966,29 @@
       "choices": [
         {
           "id": "A",
-          "text": "Cố chịu vì sợ mất mặt",
-          "text_translation": "Cố chịu vì sợ mất mặt",
-          "is_correct": false,
+          "text": "Báo Yamada/Satou + ra ngoài nghỉ",
+          "text_translation": "Báo Yamada/Satou + ra ngoài nghỉ",
+          "is_correct": true,
           "order": 0
         },
         {
           "id": "B",
-          "text": "Báo Yamada/Satou + ra ngoài nghỉ",
-          "text_translation": "Báo Yamada/Satou + ra ngoài nghỉ",
-          "is_correct": true,
+          "text": "Cố chịu vì sợ mất mặt",
+          "text_translation": "Cố chịu vì sợ mất mặt",
+          "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "Tự ý ra mà không báo",
-          "text_translation": "Tự ý ra mà không báo",
+          "text": "Tăng nhiệt độ",
+          "text_translation": "Tăng nhiệt độ",
           "is_correct": false,
           "order": 2
         },
         {
           "id": "D",
-          "text": "Tăng nhiệt độ",
-          "text_translation": "Tăng nhiệt độ",
+          "text": "Tự ý ra mà không báo",
+          "text_translation": "Tự ý ra mà không báo",
           "is_correct": false,
           "order": 3
         }
@@ -1014,9 +1014,9 @@
         },
         {
           "id": "B",
-          "text": "Sợ + ấm ức + muốn khóc — bình thường",
-          "text_translation": "Sợ + ấm ức + muốn khóc — bình thường",
-          "is_correct": true,
+          "text": "Tức giận quát lại",
+          "text_translation": "Tức giận quát lại",
+          "is_correct": false,
           "order": 1
         },
         {
@@ -1028,9 +1028,9 @@
         },
         {
           "id": "D",
-          "text": "Tức giận quát lại",
-          "text_translation": "Tức giận quát lại",
-          "is_correct": false,
+          "text": "Sợ + ấm ức + muốn khóc — bình thường",
+          "text_translation": "Sợ + ấm ức + muốn khóc — bình thường",
+          "is_correct": true,
           "order": 3
         }
       ],
@@ -1048,9 +1048,9 @@
       "choices": [
         {
           "id": "A",
-          "text": "Sửa ngay",
-          "text_translation": "Sửa ngay",
-          "is_correct": false,
+          "text": "Bào chữa「でも、暑くて...」",
+          "text_translation": null,
+          "is_correct": true,
           "order": 0
         },
         {
@@ -1062,9 +1062,9 @@
         },
         {
           "id": "C",
-          "text": "Bào chữa「でも、暑くて...」",
-          "text_translation": null,
-          "is_correct": true,
+          "text": "Sửa ngay",
+          "text_translation": "Sửa ngay",
+          "is_correct": false,
           "order": 2
         },
         {
@@ -1137,9 +1137,9 @@
         },
         {
           "id": "B",
-          "text": "Quá casual cho sempai/sếp",
-          "text_translation": "Quá casual cho sempai/sếp",
-          "is_correct": true,
+          "text": "Không có nghĩa",
+          "text_translation": "Không có nghĩa",
+          "is_correct": false,
           "order": 1
         },
         {
@@ -1151,9 +1151,9 @@
         },
         {
           "id": "D",
-          "text": "Không có nghĩa",
-          "text_translation": "Không có nghĩa",
-          "is_correct": false,
+          "text": "Quá casual cho sempai/sếp",
+          "text_translation": "Quá casual cho sempai/sếp",
+          "is_correct": true,
           "order": 3
         }
       ],
@@ -1212,29 +1212,29 @@
       "choices": [
         {
           "id": "A",
-          "text": "Chạy đi báo sếp",
-          "text_translation": "Chạy đi báo sếp",
+          "text": "Đợi máy tự khôi phục",
+          "text_translation": "Đợi máy tự khôi phục",
           "is_correct": false,
           "order": 0
         },
         {
           "id": "B",
-          "text": "BẤM NÚT DỪNG → giơ tay → báo cụm chuẩn",
-          "text_translation": "BẤM NÚT DỪNG → giơ tay → báo cụm chuẩn",
-          "is_correct": true,
+          "text": "Chạy đi báo sếp",
+          "text_translation": "Chạy đi báo sếp",
+          "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "Tự sửa",
-          "text_translation": "Tự sửa",
-          "is_correct": false,
+          "text": "BẤM NÚT DỪNG → giơ tay → báo cụm chuẩn",
+          "text_translation": "BẤM NÚT DỪNG → giơ tay → báo cụm chuẩn",
+          "is_correct": true,
           "order": 2
         },
         {
           "id": "D",
-          "text": "Đợi máy tự khôi phục",
-          "text_translation": "Đợi máy tự khôi phục",
+          "text": "Tự sửa",
+          "text_translation": "Tự sửa",
           "is_correct": false,
           "order": 3
         }
@@ -1260,16 +1260,16 @@
         },
         {
           "id": "B",
-          "text": "Vì không 5S = không thể duy trì vệ sinh = không thể HACCP",
-          "text_translation": "Vì không 5S = không thể duy trì vệ sinh = không thể HACCP",
-          "is_correct": true,
+          "text": "Vì Toyota tạo ra",
+          "text_translation": "Vì Toyota tạo ra",
+          "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "Vì Toyota tạo ra",
-          "text_translation": "Vì Toyota tạo ra",
-          "is_correct": false,
+          "text": "Vì không 5S = không thể duy trì vệ sinh = không thể HACCP",
+          "text_translation": "Vì không 5S = không thể duy trì vệ sinh = không thể HACCP",
+          "is_correct": true,
           "order": 2
         },
         {
@@ -1294,28 +1294,28 @@
       "choices": [
         {
           "id": "A",
-          "text": "Cùng nghĩa",
-          "text_translation": "Cùng nghĩa",
-          "is_correct": false,
+          "text": "指導員 = vai trò chính thức quản lý TTS; 先輩 = người vào trước (relative)",
+          "text_translation": null,
+          "is_correct": true,
           "order": 0
         },
         {
           "id": "B",
-          "text": "指導員 = vai trò chính thức quản lý TTS; 先輩 = người vào trước (relative)",
-          "text_translation": null,
-          "is_correct": true,
+          "text": "Cùng nghĩa",
+          "text_translation": "Cùng nghĩa",
+          "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "指導員 trẻ hơn",
+          "text": "先輩 phải có chứng chỉ",
           "text_translation": null,
           "is_correct": false,
           "order": 2
         },
         {
           "id": "D",
-          "text": "先輩 phải có chứng chỉ",
+          "text": "指導員 trẻ hơn",
           "text_translation": null,
           "is_correct": false,
           "order": 3
@@ -1342,23 +1342,23 @@
         },
         {
           "id": "B",
-          "text": "Vai trò trách nhiệm vệ sinh nặng nề + áp lực audit/recall",
-          "text_translation": "Vai trò trách nhiệm vệ sinh nặng nề + áp lực audit/recall",
-          "is_correct": true,
+          "text": "Ghét người nước ngoài",
+          "text_translation": "Ghét người nước ngoài",
+          "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "Ghét người nước ngoài",
-          "text_translation": "Ghét người nước ngoài",
+          "text": "Mới được lên chức",
+          "text_translation": "Mới được lên chức",
           "is_correct": false,
           "order": 2
         },
         {
           "id": "D",
-          "text": "Mới được lên chức",
-          "text_translation": "Mới được lên chức",
-          "is_correct": false,
+          "text": "Vai trò trách nhiệm vệ sinh nặng nề + áp lực audit/recall",
+          "text_translation": "Vai trò trách nhiệm vệ sinh nặng nề + áp lực audit/recall",
+          "is_correct": true,
           "order": 3
         }
       ],
@@ -1376,8 +1376,8 @@
       "choices": [
         {
           "id": "A",
-          "text": "Phàn nàn với buchou",
-          "text_translation": "Phàn nàn với buchou",
+          "text": "Im lặng chịu đựng",
+          "text_translation": "Im lặng chịu đựng",
           "is_correct": false,
           "order": 0
         },
@@ -1390,8 +1390,8 @@
         },
         {
           "id": "C",
-          "text": "Im lặng chịu đựng",
-          "text_translation": "Im lặng chịu đựng",
+          "text": "Phàn nàn với buchou",
+          "text_translation": "Phàn nàn với buchou",
           "is_correct": false,
           "order": 2
         },
@@ -1417,29 +1417,29 @@
       "choices": [
         {
           "id": "A",
-          "text": "Cùng nghĩa",
-          "text_translation": "Cùng nghĩa",
+          "text": "Cả 2 = vệ sinh",
+          "text_translation": "Cả 2 = vệ sinh",
           "is_correct": false,
           "order": 0
         },
         {
           "id": "B",
-          "text": "整理 = sàng lọc/bỏ thứ không cần; 整頓 = sắp xếp thứ giữ lại",
-          "text_translation": null,
-          "is_correct": true,
+          "text": "Cùng nghĩa",
+          "text_translation": "Cùng nghĩa",
+          "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "整頓 trước 整理",
+          "text": "整理 = sàng lọc/bỏ thứ không cần; 整頓 = sắp xếp thứ giữ lại",
           "text_translation": null,
-          "is_correct": false,
+          "is_correct": true,
           "order": 2
         },
         {
           "id": "D",
-          "text": "Cả 2 = vệ sinh",
-          "text_translation": "Cả 2 = vệ sinh",
+          "text": "整頓 trước 整理",
+          "text_translation": null,
           "is_correct": false,
           "order": 3
         }
@@ -1458,29 +1458,29 @@
       "choices": [
         {
           "id": "A",
-          "text": "Đẹp",
-          "text_translation": "Đẹp",
-          "is_correct": false,
+          "text": "Dễ thấy bụi/vết bẩn → vệ sinh tốt hơn",
+          "text_translation": "Dễ thấy bụi/vết bẩn → vệ sinh tốt hơn",
+          "is_correct": true,
           "order": 0
         },
         {
           "id": "B",
-          "text": "Dễ thấy bụi/vết bẩn → vệ sinh tốt hơn",
-          "text_translation": "Dễ thấy bụi/vết bẩn → vệ sinh tốt hơn",
-          "is_correct": true,
+          "text": "Đẹp",
+          "text_translation": "Đẹp",
+          "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "Rẻ",
-          "text_translation": "Rẻ",
+          "text": "Truyền thống",
+          "text_translation": "Truyền thống",
           "is_correct": false,
           "order": 2
         },
         {
           "id": "D",
-          "text": "Truyền thống",
-          "text_translation": "Truyền thống",
+          "text": "Rẻ",
+          "text_translation": "Rẻ",
           "is_correct": false,
           "order": 3
         }
@@ -1506,23 +1506,23 @@
         },
         {
           "id": "B",
-          "text": "Buộc gọn + nhét hết vào mũ",
-          "text_translation": "Buộc gọn + nhét hết vào mũ",
-          "is_correct": true,
+          "text": "Cắt ngắn",
+          "text_translation": "Cắt ngắn",
+          "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "Cắt ngắn",
-          "text_translation": "Cắt ngắn",
+          "text": "Xịt keo",
+          "text_translation": "Xịt keo",
           "is_correct": false,
           "order": 2
         },
         {
           "id": "D",
-          "text": "Xịt keo",
-          "text_translation": "Xịt keo",
-          "is_correct": false,
+          "text": "Buộc gọn + nhét hết vào mũ",
+          "text_translation": "Buộc gọn + nhét hết vào mũ",
+          "is_correct": true,
           "order": 3
         }
       ],
@@ -1588,16 +1588,16 @@
         },
         {
           "id": "B",
-          "text": "Chủ động chào + tự giới thiệu nếu có cơ hội",
-          "text_translation": "Chủ động chào + tự giới thiệu nếu có cơ hội",
-          "is_correct": true,
+          "text": "Chỉ cúi đầu",
+          "text_translation": "Chỉ cúi đầu",
+          "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "Chỉ cúi đầu",
-          "text_translation": "Chỉ cúi đầu",
-          "is_correct": false,
+          "text": "Chủ động chào + tự giới thiệu nếu có cơ hội",
+          "text_translation": "Chủ động chào + tự giới thiệu nếu có cơ hội",
+          "is_correct": true,
           "order": 2
         },
         {
@@ -1629,23 +1629,23 @@
         },
         {
           "id": "B",
-          "text": "Vệ sinh khu vực mình + bàn giao + chào",
-          "text_translation": "Vệ sinh khu vực mình + bàn giao + chào",
-          "is_correct": true,
+          "text": "Đợi sếp gọi",
+          "text_translation": "Đợi sếp gọi",
+          "is_correct": false,
           "order": 1
         },
         {
           "id": "C",
-          "text": "Đợi sếp gọi",
-          "text_translation": "Đợi sếp gọi",
+          "text": "Nghỉ giải lao",
+          "text_translation": "Nghỉ giải lao",
           "is_correct": false,
           "order": 2
         },
         {
           "id": "D",
-          "text": "Nghỉ giải lao",
-          "text_translation": "Nghỉ giải lao",
-          "is_correct": false,
+          "text": "Vệ sinh khu vực mình + bàn giao + chào",
+          "text_translation": "Vệ sinh khu vực mình + bàn giao + chào",
+          "is_correct": true,
           "order": 3
         }
       ],

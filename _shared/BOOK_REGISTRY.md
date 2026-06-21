@@ -109,7 +109,7 @@ cho tên JP. KHÔNG tách thành 2 book_seq.
 | 8 | `08_smalltalk` | Trò chuyện thân thiết | READY TO SEED | Data cũ đã xoá |
 | 9 | `09_real_dialogues` | Hội thoại thực tế | DRAFT | Chưa seed DB |
 | 10 | `10_business_japanese` | Business Japanese — Kính ngữ (course + lý thuyết) | READY TO SEED | Data cũ đã xoá. Reseed gộp course/curriculum/modules vào book_seq=10 dùng chung make_id(10, ...) |
-| 11 | `11_jisshusei_shokuhin` | Một Năm của Hoa Y1 (Jisshusei Shokuhin) | READY TO SEED | Data cũ đã xoá |
+| 11 | `11_hoa_year1` | Một Năm của Hoa Y1 (Thực tập sinh ngành thực phẩm) | READY TO SEED | Data cũ đã xoá |
 | 12 | `12_hoa_year2` | Một Năm của Hoa Y2 | DRAFT | Chưa seed |
 | 13 | `13_hoa_year3` | Một Năm của Hoa Y3 | DRAFT | Chưa seed |
 | 14 | `14_thai_year1` | Thái Y1 | DRAFT | Chưa seed |

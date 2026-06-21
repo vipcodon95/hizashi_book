@@ -200,7 +200,7 @@ Hoa nhận chứng chỉ **HACCPコーディネーター認定証** và lần đ
 - **Chuỗi chuẩn bị 10 năm**: TTS → SSW1 → SSW2 → 永住権 — kết quả thấy ở sách 13 (Hoa year 3).
 - **Đàn anh nước ngoài**: Andi (Indo, đã SSW1 ở Nagoya) — sempai visa cho Hoa.
 - **Sempai-kohai trong tuyến nhân vật**: Hoa hướng dẫn Mai (kohai 育成就労) — chuyển vai từ kohai sang sempai.
-- **Cảnh báo nghiệp vụ**: TTS + SSW1 KHÔNG tính vào năm xét vĩnh trú — knowledge gap thường gặp ngoài đời thực.
+- **Cảnh báo nghiệp vụ**: TTS + SSW1 KHÔNG tính vào năm xét vĩnh trú — lỗ hổng kiến thức thường gặp ngoài đời thực.
 
 > *"2/2028. Hôm qua thấy 3 năm. Hôm nay thấy 16 năm. Đường dài nhưng đã hiện ra rõ."*
 

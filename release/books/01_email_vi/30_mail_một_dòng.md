@@ -1,6 +1,6 @@
 ---
-id: 8001030
-curriculum_id: 8001
+id: 810000030
+curriculum_id: 800000001
 order_index: 30
 node_type: rule
 title: "Rule 30 — Việc nhỏ — mail 1 dòng không có gì đáng ngại"

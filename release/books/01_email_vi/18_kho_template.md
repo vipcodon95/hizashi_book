@@ -1,6 +1,6 @@
 ---
-id: 8001018
-curriculum_id: 8001
+id: 810000018
+curriculum_id: 800000001
 order_index: 18
 node_type: rule
 title: "Rule 18 — Mail lặp lại → tạo kho template cá nhân trong Drafts"

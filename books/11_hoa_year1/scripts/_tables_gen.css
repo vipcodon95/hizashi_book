@@ -1,0 +1,459 @@
+/* ===== CSS tỉ lệ cột bảng — TỰ SINH bởi analyze_tables.py ===== */
+/* KHÔNG sửa tay file này; chỉnh số đo qua nội dung .md rồi build lại. */
+
+/* # | Nguyên tắc (Tiếng Nhật) | Romaji | Nghĩa  (1 bảng, 13 / 30 / 30 / 27) */
+table.t-tbl-57e4ed { table-layout: fixed; }
+table.t-tbl-57e4ed td:nth-child(1), table.t-tbl-57e4ed th:nth-child(1) { width: 13% !important; }
+table.t-tbl-57e4ed td:nth-child(2), table.t-tbl-57e4ed th:nth-child(2) { width: 30% !important; }
+table.t-tbl-57e4ed td:nth-child(3), table.t-tbl-57e4ed th:nth-child(3) { width: 30% !important; }
+table.t-tbl-57e4ed td:nth-child(4), table.t-tbl-57e4ed th:nth-child(4) { width: 27% !important; }
+
+/* # | Tiếng Nhật | Romaji | Nghĩa  (1 bảng, 13 / 27 / 23 / 37) */
+table.t-tbl-25b2f7 { table-layout: fixed; }
+table.t-tbl-25b2f7 td:nth-child(1), table.t-tbl-25b2f7 th:nth-child(1) { width: 13% !important; }
+table.t-tbl-25b2f7 td:nth-child(2), table.t-tbl-25b2f7 th:nth-child(2) { width: 27% !important; }
+table.t-tbl-25b2f7 td:nth-child(3), table.t-tbl-25b2f7 th:nth-child(3) { width: 23% !important; }
+table.t-tbl-25b2f7 td:nth-child(4), table.t-tbl-25b2f7 th:nth-child(4) { width: 37% !important; }
+
+/* # | Tiếng Nhật | Romaji | Tiếng Việt | Có trong gì  (1 bảng, 13 / 21 / 18 / 17 / 31) */
+table.t-tbl-aafcfe { table-layout: fixed; }
+table.t-tbl-aafcfe td:nth-child(1), table.t-tbl-aafcfe th:nth-child(1) { width: 13% !important; }
+table.t-tbl-aafcfe td:nth-child(2), table.t-tbl-aafcfe th:nth-child(2) { width: 21% !important; }
+table.t-tbl-aafcfe td:nth-child(3), table.t-tbl-aafcfe th:nth-child(3) { width: 18% !important; }
+table.t-tbl-aafcfe td:nth-child(4), table.t-tbl-aafcfe th:nth-child(4) { width: 17% !important; }
+table.t-tbl-aafcfe td:nth-child(5), table.t-tbl-aafcfe th:nth-child(5) { width: 31% !important; }
+
+/* Bình thường | Khẩn cấp  (1 bảng, 42 / 58) */
+table.t-b-nh-th-ng-1b2a3d { table-layout: fixed; }
+table.t-b-nh-th-ng-1b2a3d td:nth-child(1), table.t-b-nh-th-ng-1b2a3d th:nth-child(1) { width: 42% !important; }
+table.t-b-nh-th-ng-1b2a3d td:nth-child(2), table.t-b-nh-th-ng-1b2a3d th:nth-child(2) { width: 58% !important; }
+
+/* Bình thường | Sonkeigo (sếp làm) | Kenjougo (mình làm)  (1 bảng, 23 / 40 / 37) */
+table.t-b-nh-th-ng-d35db8 { table-layout: fixed; }
+table.t-b-nh-th-ng-d35db8 td:nth-child(1), table.t-b-nh-th-ng-d35db8 th:nth-child(1) { width: 23% !important; }
+table.t-b-nh-th-ng-d35db8 td:nth-child(2), table.t-b-nh-th-ng-d35db8 th:nth-child(2) { width: 40% !important; }
+table.t-b-nh-th-ng-d35db8 td:nth-child(3), table.t-b-nh-th-ng-d35db8 th:nth-child(3) { width: 37% !important; }
+
+/* Bình thường | お~いたします  (1 bảng, 38 / 62) */
+table.t-b-nh-th-ng-043624 { table-layout: fixed; }
+table.t-b-nh-th-ng-043624 td:nth-child(1), table.t-b-nh-th-ng-043624 th:nth-child(1) { width: 38% !important; }
+table.t-b-nh-th-ng-043624 td:nth-child(2), table.t-b-nh-th-ng-043624 th:nth-child(2) { width: 62% !important; }
+
+/* Bình thường | させていただきます  (1 bảng, 33 / 67) */
+table.t-b-nh-th-ng-f66c38 { table-layout: fixed; }
+table.t-b-nh-th-ng-f66c38 td:nth-child(1), table.t-b-nh-th-ng-f66c38 th:nth-child(1) { width: 33% !important; }
+table.t-b-nh-th-ng-f66c38 td:nth-child(2), table.t-b-nh-th-ng-f66c38 th:nth-child(2) { width: 67% !important; }
+
+/* Bình thường | ております  (1 bảng, 47 / 53) */
+table.t-b-nh-th-ng-999a93 { table-layout: fixed; }
+table.t-b-nh-th-ng-999a93 td:nth-child(1), table.t-b-nh-th-ng-999a93 th:nth-child(1) { width: 47% !important; }
+table.t-b-nh-th-ng-999a93 td:nth-child(2), table.t-b-nh-th-ng-999a93 th:nth-child(2) { width: 53% !important; }
+
+/* Bước | Nội dung | Vai trò Hoa  (1 bảng, 13 / 41 / 46) */
+table.t-b-c-5c09c3 { table-layout: fixed; }
+table.t-b-c-5c09c3 td:nth-child(1), table.t-b-c-5c09c3 th:nth-child(1) { width: 13% !important; }
+table.t-b-c-5c09c3 td:nth-child(2), table.t-b-c-5c09c3 th:nth-child(2) { width: 41% !important; }
+table.t-b-c-5c09c3 td:nth-child(3), table.t-b-c-5c09c3 th:nth-child(3) { width: 46% !important; }
+
+/* Bước | TTS làm gì  (1 bảng, 20 / 80) */
+table.t-b-c-ec594c { table-layout: fixed; }
+table.t-b-c-ec594c td:nth-child(1), table.t-b-c-ec594c th:nth-child(1) { width: 20% !important; }
+table.t-b-c-ec594c td:nth-child(2), table.t-b-c-ec594c th:nth-child(2) { width: 80% !important; }
+
+/* Bước | Việc làm | Thời gian  (1 bảng, 13 / 72 / 15) */
+table.t-b-c-0b98c1 { table-layout: fixed; }
+table.t-b-c-0b98c1 td:nth-child(1), table.t-b-c-0b98c1 th:nth-child(1) { width: 13% !important; }
+table.t-b-c-0b98c1 td:nth-child(2), table.t-b-c-0b98c1 th:nth-child(2) { width: 72% !important; }
+table.t-b-c-0b98c1 td:nth-child(3), table.t-b-c-0b98c1 th:nth-child(3) { width: 15% !important; }
+
+/* Bước | Việc làm | Thời gian | Lý do  (1 bảng, 13 / 35 / 13 / 39) */
+table.t-b-c-a98d35 { table-layout: fixed; }
+table.t-b-c-a98d35 td:nth-child(1), table.t-b-c-a98d35 th:nth-child(1) { width: 13% !important; }
+table.t-b-c-a98d35 td:nth-child(2), table.t-b-c-a98d35 th:nth-child(2) { width: 35% !important; }
+table.t-b-c-a98d35 td:nth-child(3), table.t-b-c-a98d35 th:nth-child(3) { width: 13% !important; }
+table.t-b-c-a98d35 td:nth-child(4), table.t-b-c-a98d35 th:nth-child(4) { width: 39% !important; }
+
+/* Chữ | Romaji | Nghĩa | Ví dụ  (1 bảng, 13 / 19 / 32 / 36) */
+table.t-ch-5da177 { table-layout: fixed; }
+table.t-ch-5da177 td:nth-child(1), table.t-ch-5da177 th:nth-child(1) { width: 13% !important; }
+table.t-ch-5da177 td:nth-child(2), table.t-ch-5da177 th:nth-child(2) { width: 19% !important; }
+table.t-ch-5da177 td:nth-child(3), table.t-ch-5da177 th:nth-child(3) { width: 32% !important; }
+table.t-ch-5da177 td:nth-child(4), table.t-ch-5da177 th:nth-child(4) { width: 36% !important; }
+
+/* Chữ | Romaji | Nghĩa | Ví dụ ở nhà máy  (1 bảng, 13 / 13 / 21 / 53) */
+table.t-ch-7c6318 { table-layout: fixed; }
+table.t-ch-7c6318 td:nth-child(1), table.t-ch-7c6318 th:nth-child(1) { width: 13% !important; }
+table.t-ch-7c6318 td:nth-child(2), table.t-ch-7c6318 th:nth-child(2) { width: 13% !important; }
+table.t-ch-7c6318 td:nth-child(3), table.t-ch-7c6318 th:nth-child(3) { width: 21% !important; }
+table.t-ch-7c6318 td:nth-child(4), table.t-ch-7c6318 th:nth-child(4) { width: 53% !important; }
+
+/* Chữ | Romaji | Đầy đủ | Nghĩa  (1 bảng, 13 / 18 / 19 / 50) */
+table.t-ch-03ba97 { table-layout: fixed; }
+table.t-ch-03ba97 td:nth-child(1), table.t-ch-03ba97 th:nth-child(1) { width: 13% !important; }
+table.t-ch-03ba97 td:nth-child(2), table.t-ch-03ba97 th:nth-child(2) { width: 18% !important; }
+table.t-ch-03ba97 td:nth-child(3), table.t-ch-03ba97 th:nth-child(3) { width: 19% !important; }
+table.t-ch-03ba97 td:nth-child(4), table.t-ch-03ba97 th:nth-child(4) { width: 50% !important; }
+
+/* Cuộc họp | Khuyến nghị  (1 bảng, 44 / 56) */
+table.t-cu-c-h-p-cd3e39 { table-layout: fixed; }
+table.t-cu-c-h-p-cd3e39 td:nth-child(1), table.t-cu-c-h-p-cd3e39 th:nth-child(1) { width: 44% !important; }
+table.t-cu-c-h-p-cd3e39 td:nth-child(2), table.t-cu-c-h-p-cd3e39 th:nth-child(2) { width: 56% !important; }
+
+/* Cách nói SAI | Cách nói ĐÚNG  (13 bảng, 51 / 49) */
+table.t-c-ch-n-i-sai-27f146 { table-layout: fixed; }
+table.t-c-ch-n-i-sai-27f146 td:nth-child(1), table.t-c-ch-n-i-sai-27f146 th:nth-child(1) { width: 51% !important; }
+table.t-c-ch-n-i-sai-27f146 td:nth-child(2), table.t-c-ch-n-i-sai-27f146 th:nth-child(2) { width: 49% !important; }
+
+/* Câu hỏi | Tiếng Nhật | Nội dung  (1 bảng, 15 / 21 / 64) */
+table.t-c-u-h-i-f416cd { table-layout: fixed; }
+table.t-c-u-h-i-f416cd td:nth-child(1), table.t-c-u-h-i-f416cd th:nth-child(1) { width: 15% !important; }
+table.t-c-u-h-i-f416cd td:nth-child(2), table.t-c-u-h-i-f416cd th:nth-child(2) { width: 21% !important; }
+table.t-c-u-h-i-f416cd td:nth-child(3), table.t-c-u-h-i-f416cd th:nth-child(3) { width: 64% !important; }
+
+/* Câu thường | Sonkeigo / Kenjougo  (1 bảng, 45 / 55) */
+table.t-c-u-th-ng-c9a31a { table-layout: fixed; }
+table.t-c-u-th-ng-c9a31a td:nth-child(1), table.t-c-u-th-ng-c9a31a th:nth-child(1) { width: 45% !important; }
+table.t-c-u-th-ng-c9a31a td:nth-child(2), table.t-c-u-th-ng-c9a31a th:nth-child(2) { width: 55% !important; }
+
+/* Cảm xúc | Thân mật | Lịch sự  (1 bảng, 25 / 23 / 52) */
+table.t-c-m-x-c-919e19 { table-layout: fixed; }
+table.t-c-m-x-c-919e19 td:nth-child(1), table.t-c-m-x-c-919e19 th:nth-child(1) { width: 25% !important; }
+table.t-c-m-x-c-919e19 td:nth-child(2), table.t-c-m-x-c-919e19 th:nth-child(2) { width: 23% !important; }
+table.t-c-m-x-c-919e19 td:nth-child(3), table.t-c-m-x-c-919e19 th:nth-child(3) { width: 52% !important; }
+
+/* Cấm | Lý do  (1 bảng, 43 / 57) */
+table.t-c-m-4a2d14 { table-layout: fixed; }
+table.t-c-m-4a2d14 td:nth-child(1), table.t-c-m-4a2d14 th:nth-child(1) { width: 43% !important; }
+table.t-c-m-4a2d14 td:nth-child(2), table.t-c-m-4a2d14 th:nth-child(2) { width: 57% !important; }
+
+/* Cấp | Tiếng Nhật | Cường độ  (1 bảng, 15 / 54 / 31) */
+table.t-c-p-117950 { table-layout: fixed; }
+table.t-c-p-117950 td:nth-child(1), table.t-c-p-117950 th:nth-child(1) { width: 15% !important; }
+table.t-c-p-117950 td:nth-child(2), table.t-c-p-117950 th:nth-child(2) { width: 54% !important; }
+table.t-c-p-117950 td:nth-child(3), table.t-c-p-117950 th:nth-child(3) { width: 31% !important; }
+
+/* Cấp | Tiếng Nhật | Khi dùng  (4 bảng, 18 / 43 / 39) */
+table.t-c-p-fc86c7 { table-layout: fixed; }
+table.t-c-p-fc86c7 td:nth-child(1), table.t-c-p-fc86c7 th:nth-child(1) { width: 18% !important; }
+table.t-c-p-fc86c7 td:nth-child(2), table.t-c-p-fc86c7 th:nth-child(2) { width: 43% !important; }
+table.t-c-p-fc86c7 td:nth-child(3), table.t-c-p-fc86c7 th:nth-child(3) { width: 39% !important; }
+
+/* Cấp độ | Tiếng Nhật | Tiếng Việt  (1 bảng, 22 / 38 / 40) */
+table.t-c-p-50c167 { table-layout: fixed; }
+table.t-c-p-50c167 td:nth-child(1), table.t-c-p-50c167 th:nth-child(1) { width: 22% !important; }
+table.t-c-p-50c167 td:nth-child(2), table.t-c-p-50c167 th:nth-child(2) { width: 38% !important; }
+table.t-c-p-50c167 td:nth-child(3), table.t-c-p-50c167 th:nth-child(3) { width: 40% !important; }
+
+/* Cấp độ | Ví dụ | Khi dùng  (1 bảng, 26 / 26 / 48) */
+table.t-c-p-519a72 { table-layout: fixed; }
+table.t-c-p-519a72 td:nth-child(1), table.t-c-p-519a72 th:nth-child(1) { width: 26% !important; }
+table.t-c-p-519a72 td:nth-child(2), table.t-c-p-519a72 th:nth-child(2) { width: 26% !important; }
+table.t-c-p-519a72 td:nth-child(3), table.t-c-p-519a72 th:nth-child(3) { width: 48% !important; }
+
+/* Cụm | Vai trò  (1 bảng, 29 / 71) */
+table.t-c-m-6f7f23 { table-layout: fixed; }
+table.t-c-m-6f7f23 td:nth-child(1), table.t-c-m-6f7f23 th:nth-child(1) { width: 29% !important; }
+table.t-c-m-6f7f23 td:nth-child(2), table.t-c-m-6f7f23 th:nth-child(2) { width: 71% !important; }
+
+/* Dòng | Câu gốc (rút gọn) | Từ Anh | Gợi ý Tiếng Việt | Lý do  (8 bảng, 13 / 22 / 13 / 26 / 26) */
+table.t-d-ng-039f6b { table-layout: fixed; }
+table.t-d-ng-039f6b td:nth-child(1), table.t-d-ng-039f6b th:nth-child(1) { width: 13% !important; }
+table.t-d-ng-039f6b td:nth-child(2), table.t-d-ng-039f6b th:nth-child(2) { width: 22% !important; }
+table.t-d-ng-039f6b td:nth-child(3), table.t-d-ng-039f6b th:nth-child(3) { width: 13% !important; }
+table.t-d-ng-039f6b td:nth-child(4), table.t-d-ng-039f6b th:nth-child(4) { width: 26% !important; }
+table.t-d-ng-039f6b td:nth-child(5), table.t-d-ng-039f6b th:nth-child(5) { width: 26% !important; }
+
+/* Formal | Casual nam | Casual nữ  (2 bảng, 42 / 29 / 29) */
+table.t-formal-dad623 { table-layout: fixed; }
+table.t-formal-dad623 td:nth-child(1), table.t-formal-dad623 th:nth-child(1) { width: 42% !important; }
+table.t-formal-dad623 td:nth-child(2), table.t-formal-dad623 th:nth-child(2) { width: 29% !important; }
+table.t-formal-dad623 td:nth-child(3), table.t-formal-dad623 th:nth-child(3) { width: 29% !important; }
+
+/* Hạng | Tên | Thời hạn | Đặc điểm  (1 bảng, 13 / 17 / 23 / 47) */
+table.t-h-ng-aebd3a { table-layout: fixed; }
+table.t-h-ng-aebd3a td:nth-child(1), table.t-h-ng-aebd3a th:nth-child(1) { width: 13% !important; }
+table.t-h-ng-aebd3a td:nth-child(2), table.t-h-ng-aebd3a th:nth-child(2) { width: 17% !important; }
+table.t-h-ng-aebd3a td:nth-child(3), table.t-h-ng-aebd3a th:nth-child(3) { width: 23% !important; }
+table.t-h-ng-aebd3a td:nth-child(4), table.t-h-ng-aebd3a th:nth-child(4) { width: 47% !important; }
+
+/* Issue | Linguist | Pedagogue | Domain | Severity  (1 bảng, 36 / 13 / 13 / 13 / 25) */
+table.t-issue-914f7e { table-layout: fixed; }
+table.t-issue-914f7e td:nth-child(1), table.t-issue-914f7e th:nth-child(1) { width: 36% !important; }
+table.t-issue-914f7e td:nth-child(2), table.t-issue-914f7e th:nth-child(2) { width: 13% !important; }
+table.t-issue-914f7e td:nth-child(3), table.t-issue-914f7e th:nth-child(3) { width: 13% !important; }
+table.t-issue-914f7e td:nth-child(4), table.t-issue-914f7e th:nth-child(4) { width: 13% !important; }
+table.t-issue-914f7e td:nth-child(5), table.t-issue-914f7e th:nth-child(5) { width: 25% !important; }
+
+/* Item | Count | Expected  (1 bảng, 27 / 13 / 60) */
+table.t-item-07772a { table-layout: fixed; }
+table.t-item-07772a td:nth-child(1), table.t-item-07772a th:nth-child(1) { width: 27% !important; }
+table.t-item-07772a td:nth-child(2), table.t-item-07772a th:nth-child(2) { width: 13% !important; }
+table.t-item-07772a td:nth-child(3), table.t-item-07772a th:nth-child(3) { width: 60% !important; }
+
+/* Kanji | Hiragana | Romaji | Nghĩa  (1 bảng, 15 / 29 / 26 / 30) */
+table.t-kanji-9c16c6 { table-layout: fixed; }
+table.t-kanji-9c16c6 td:nth-child(1), table.t-kanji-9c16c6 th:nth-child(1) { width: 15% !important; }
+table.t-kanji-9c16c6 td:nth-child(2), table.t-kanji-9c16c6 th:nth-child(2) { width: 29% !important; }
+table.t-kanji-9c16c6 td:nth-child(3), table.t-kanji-9c16c6 th:nth-child(3) { width: 26% !important; }
+table.t-kanji-9c16c6 td:nth-child(4), table.t-kanji-9c16c6 th:nth-child(4) { width: 30% !important; }
+
+/* Kanji | Romaji | Nghĩa  (1 bảng, 23 / 29 / 48) */
+table.t-kanji-696bd9 { table-layout: fixed; }
+table.t-kanji-696bd9 td:nth-child(1), table.t-kanji-696bd9 th:nth-child(1) { width: 23% !important; }
+table.t-kanji-696bd9 td:nth-child(2), table.t-kanji-696bd9 th:nth-child(2) { width: 29% !important; }
+table.t-kanji-696bd9 td:nth-child(3), table.t-kanji-696bd9 th:nth-child(3) { width: 48% !important; }
+
+/* Khoản | Tiếng Việt | Số tiền  (2 bảng, 20 / 59 / 21) */
+table.t-kho-n-05991d { table-layout: fixed; }
+table.t-kho-n-05991d td:nth-child(1), table.t-kho-n-05991d th:nth-child(1) { width: 20% !important; }
+table.t-kho-n-05991d td:nth-child(2), table.t-kho-n-05991d th:nth-child(2) { width: 59% !important; }
+table.t-kho-n-05991d td:nth-child(3), table.t-kho-n-05991d th:nth-child(3) { width: 21% !important; }
+
+/* Loại | Mục đích | Ví dụ  (1 bảng, 13 / 31 / 56) */
+table.t-lo-i-a23e57 { table-layout: fixed; }
+table.t-lo-i-a23e57 td:nth-child(1), table.t-lo-i-a23e57 th:nth-child(1) { width: 13% !important; }
+table.t-lo-i-a23e57 td:nth-child(2), table.t-lo-i-a23e57 th:nth-child(2) { width: 31% !important; }
+table.t-lo-i-a23e57 td:nth-child(3), table.t-lo-i-a23e57 th:nth-child(3) { width: 56% !important; }
+
+/* Loại | Nhiệt độ | Sản phẩm  (1 bảng, 25 / 34 / 41) */
+table.t-lo-i-f8f6d4 { table-layout: fixed; }
+table.t-lo-i-f8f6d4 td:nth-child(1), table.t-lo-i-f8f6d4 th:nth-child(1) { width: 25% !important; }
+table.t-lo-i-f8f6d4 td:nth-child(2), table.t-lo-i-f8f6d4 th:nth-child(2) { width: 34% !important; }
+table.t-lo-i-f8f6d4 td:nth-child(3), table.t-lo-i-f8f6d4 th:nth-child(3) { width: 41% !important; }
+
+/* Loại | Số nhịp | Khi dùng  (1 bảng, 20 / 34 / 46) */
+table.t-lo-i-aab7db { table-layout: fixed; }
+table.t-lo-i-aab7db td:nth-child(1), table.t-lo-i-aab7db th:nth-child(1) { width: 20% !important; }
+table.t-lo-i-aab7db td:nth-child(2), table.t-lo-i-aab7db th:nth-child(2) { width: 34% !important; }
+table.t-lo-i-aab7db td:nth-child(3), table.t-lo-i-aab7db th:nth-child(3) { width: 46% !important; }
+
+/* Loại | Tiếng Nhật | Ví dụ  (1 bảng, 32 / 21 / 47) */
+table.t-lo-i-8d2a08 { table-layout: fixed; }
+table.t-lo-i-8d2a08 td:nth-child(1), table.t-lo-i-8d2a08 th:nth-child(1) { width: 32% !important; }
+table.t-lo-i-8d2a08 td:nth-child(2), table.t-lo-i-8d2a08 th:nth-child(2) { width: 21% !important; }
+table.t-lo-i-8d2a08 td:nth-child(3), table.t-lo-i-8d2a08 th:nth-child(3) { width: 47% !important; }
+
+/* Loại thanh tra | Tiếng Nhật | Người làm  (1 bảng, 24 / 19 / 57) */
+table.t-lo-i-thanh-t-dc2201 { table-layout: fixed; }
+table.t-lo-i-thanh-t-dc2201 td:nth-child(1), table.t-lo-i-thanh-t-dc2201 th:nth-child(1) { width: 24% !important; }
+table.t-lo-i-thanh-t-dc2201 td:nth-child(2), table.t-lo-i-thanh-t-dc2201 th:nth-child(2) { width: 19% !important; }
+table.t-lo-i-thanh-t-dc2201 td:nth-child(3), table.t-lo-i-thanh-t-dc2201 th:nth-child(3) { width: 57% !important; }
+
+/* Module | Folder | LyThuyet.md | BaiTap.json | Mogishiken.json | Status  (1 bảng, 13 / 27 / 14 / 14 / 19 / 13) */
+table.t-module-88aa28 { table-layout: fixed; }
+table.t-module-88aa28 td:nth-child(1), table.t-module-88aa28 th:nth-child(1) { width: 13% !important; }
+table.t-module-88aa28 td:nth-child(2), table.t-module-88aa28 th:nth-child(2) { width: 27% !important; }
+table.t-module-88aa28 td:nth-child(3), table.t-module-88aa28 th:nth-child(3) { width: 14% !important; }
+table.t-module-88aa28 td:nth-child(4), table.t-module-88aa28 th:nth-child(4) { width: 14% !important; }
+table.t-module-88aa28 td:nth-child(5), table.t-module-88aa28 th:nth-child(5) { width: 19% !important; }
+table.t-module-88aa28 td:nth-child(6), table.t-module-88aa28 th:nth-child(6) { width: 13% !important; }
+
+/* Module | Section IDs | Tổng  (1 bảng, 19 / 68 / 13) */
+table.t-module-4fdba8 { table-layout: fixed; }
+table.t-module-4fdba8 td:nth-child(1), table.t-module-4fdba8 th:nth-child(1) { width: 19% !important; }
+table.t-module-4fdba8 td:nth-child(2), table.t-module-4fdba8 th:nth-child(2) { width: 68% !important; }
+table.t-module-4fdba8 td:nth-child(3), table.t-module-4fdba8 th:nth-child(3) { width: 13% !important; }
+
+/* Màu | Loại  (1 bảng, 31 / 69) */
+table.t-m-u-6f0a3f { table-layout: fixed; }
+table.t-m-u-6f0a3f td:nth-child(1), table.t-m-u-6f0a3f th:nth-child(1) { width: 31% !important; }
+table.t-m-u-6f0a3f td:nth-child(2), table.t-m-u-6f0a3f th:nth-child(2) { width: 69% !important; }
+
+/* Mẹo | Nội dung  (12 bảng, 28 / 72) */
+table.t-m-o-407177 { table-layout: fixed; }
+table.t-m-o-407177 td:nth-child(1), table.t-m-o-407177 th:nth-child(1) { width: 28% !important; }
+table.t-m-o-407177 td:nth-child(2), table.t-m-o-407177 th:nth-child(2) { width: 72% !important; }
+
+/* Mục | Nội dung  (1 bảng, 22 / 78) */
+table.t-m-c-daf95f { table-layout: fixed; }
+table.t-m-c-daf95f td:nth-child(1), table.t-m-c-daf95f th:nth-child(1) { width: 22% !important; }
+table.t-m-c-daf95f td:nth-child(2), table.t-m-c-daf95f th:nth-child(2) { width: 78% !important; }
+
+/* Mức | Tiếng Nhật | Hậu quả  (1 bảng, 33 / 15 / 52) */
+table.t-m-c-5aaaea { table-layout: fixed; }
+table.t-m-c-5aaaea td:nth-child(1), table.t-m-c-5aaaea th:nth-child(1) { width: 33% !important; }
+table.t-m-c-5aaaea td:nth-child(2), table.t-m-c-5aaaea th:nth-child(2) { width: 15% !important; }
+table.t-m-c-5aaaea td:nth-child(3), table.t-m-c-5aaaea th:nth-child(3) { width: 52% !important; }
+
+/* Mức | Tiếng Nhật | Mức nguy hiểm | Ví dụ  (1 bảng, 13 / 13 / 30 / 44) */
+table.t-m-c-2a4e32 { table-layout: fixed; }
+table.t-m-c-2a4e32 td:nth-child(1), table.t-m-c-2a4e32 th:nth-child(1) { width: 13% !important; }
+table.t-m-c-2a4e32 td:nth-child(2), table.t-m-c-2a4e32 th:nth-child(2) { width: 13% !important; }
+table.t-m-c-2a4e32 td:nth-child(3), table.t-m-c-2a4e32 th:nth-child(3) { width: 30% !important; }
+table.t-m-c-2a4e32 td:nth-child(4), table.t-m-c-2a4e32 th:nth-child(4) { width: 44% !important; }
+
+/* Nguồn phát hiện | Tỉ lệ  (1 bảng, 85 / 15) */
+table.t-ngu-n-ph-t-h-40afc8 { table-layout: fixed; }
+table.t-ngu-n-ph-t-h-40afc8 td:nth-child(1), table.t-ngu-n-ph-t-h-40afc8 th:nth-child(1) { width: 85% !important; }
+table.t-ngu-n-ph-t-h-40afc8 td:nth-child(2), table.t-ngu-n-ph-t-h-40afc8 th:nth-child(2) { width: 15% !important; }
+
+/* Nhóm | Tiếng Nhật | Romaji | Mục đích  (1 bảng, 13 / 18 / 27 / 42) */
+table.t-nh-m-5cd821 { table-layout: fixed; }
+table.t-nh-m-5cd821 td:nth-child(1), table.t-nh-m-5cd821 th:nth-child(1) { width: 13% !important; }
+table.t-nh-m-5cd821 td:nth-child(2), table.t-nh-m-5cd821 th:nth-child(2) { width: 18% !important; }
+table.t-nh-m-5cd821 td:nth-child(3), table.t-nh-m-5cd821 th:nth-child(3) { width: 27% !important; }
+table.t-nh-m-5cd821 td:nth-child(4), table.t-nh-m-5cd821 th:nth-child(4) { width: 42% !important; }
+
+/* Severity | Count | Status  (1 bảng, 31 / 16 / 53) */
+table.t-severity-8f1307 { table-layout: fixed; }
+table.t-severity-8f1307 td:nth-child(1), table.t-severity-8f1307 th:nth-child(1) { width: 31% !important; }
+table.t-severity-8f1307 td:nth-child(2), table.t-severity-8f1307 th:nth-child(2) { width: 16% !important; }
+table.t-severity-8f1307 td:nth-child(3), table.t-severity-8f1307 th:nth-child(3) { width: 53% !important; }
+
+/* Table | Expected | Actual | Match?  (1 bảng, 52 / 19 / 15 / 14) */
+table.t-table-cef677 { table-layout: fixed; }
+table.t-table-cef677 td:nth-child(1), table.t-table-cef677 th:nth-child(1) { width: 52% !important; }
+table.t-table-cef677 td:nth-child(2), table.t-table-cef677 th:nth-child(2) { width: 19% !important; }
+table.t-table-cef677 td:nth-child(3), table.t-table-cef677 th:nth-child(3) { width: 15% !important; }
+table.t-table-cef677 td:nth-child(4), table.t-table-cef677 th:nth-child(4) { width: 14% !important; }
+
+/* Thuật ngữ | Romaji | Nghĩa  (1 bảng, 20 / 29 / 51) */
+table.t-thu-t-ng-597397 { table-layout: fixed; }
+table.t-thu-t-ng-597397 td:nth-child(1), table.t-thu-t-ng-597397 th:nth-child(1) { width: 20% !important; }
+table.t-thu-t-ng-597397 td:nth-child(2), table.t-thu-t-ng-597397 th:nth-child(2) { width: 29% !important; }
+table.t-thu-t-ng-597397 td:nth-child(3), table.t-thu-t-ng-597397 th:nth-child(3) { width: 51% !important; }
+
+/* Tháng | Bài học cốt lõi  (1 bảng, 13 / 87) */
+table.t-th-ng-53cf20 { table-layout: fixed; }
+table.t-th-ng-53cf20 td:nth-child(1), table.t-th-ng-53cf20 th:nth-child(1) { width: 13% !important; }
+table.t-th-ng-53cf20 td:nth-child(2), table.t-th-ng-53cf20 th:nth-child(2) { width: 87% !important; }
+
+/* Tháng | Chương | Nội dung  (1 bảng, 13 / 38 / 49) */
+table.t-th-ng-9beacd { table-layout: fixed; }
+table.t-th-ng-9beacd td:nth-child(1), table.t-th-ng-9beacd th:nth-child(1) { width: 13% !important; }
+table.t-th-ng-9beacd td:nth-child(2), table.t-th-ng-9beacd th:nth-child(2) { width: 38% !important; }
+table.t-th-ng-9beacd td:nth-child(3), table.t-th-ng-9beacd th:nth-child(3) { width: 49% !important; }
+
+/* Thời gian | Hoạt động | Vai trò TTS  (1 bảng, 18 / 40 / 42) */
+table.t-th-i-gian-2b55ee { table-layout: fixed; }
+table.t-th-i-gian-2b55ee td:nth-child(1), table.t-th-i-gian-2b55ee th:nth-child(1) { width: 18% !important; }
+table.t-th-i-gian-2b55ee td:nth-child(2), table.t-th-i-gian-2b55ee th:nth-child(2) { width: 40% !important; }
+table.t-th-i-gian-2b55ee td:nth-child(3), table.t-th-i-gian-2b55ee th:nth-child(3) { width: 42% !important; }
+
+/* Thời gian | Nội dung  (1 bảng, 24 / 76) */
+table.t-th-i-gian-2067fd { table-layout: fixed; }
+table.t-th-i-gian-2067fd td:nth-child(1), table.t-th-i-gian-2067fd th:nth-child(1) { width: 24% !important; }
+table.t-th-i-gian-2067fd td:nth-child(2), table.t-th-i-gian-2067fd th:nth-child(2) { width: 76% !important; }
+
+/* Thời gian | Nội dung | Vai trò  (1 bảng, 17 / 51 / 32) */
+table.t-th-i-gian-19ff9a { table-layout: fixed; }
+table.t-th-i-gian-19ff9a td:nth-child(1), table.t-th-i-gian-19ff9a th:nth-child(1) { width: 17% !important; }
+table.t-th-i-gian-19ff9a td:nth-child(2), table.t-th-i-gian-19ff9a th:nth-child(2) { width: 51% !important; }
+table.t-th-i-gian-19ff9a td:nth-child(3), table.t-th-i-gian-19ff9a th:nth-child(3) { width: 32% !important; }
+
+/* Tiêu chí | ISO 22000 | FSSC 22000  (1 bảng, 34 / 26 / 40) */
+table.t-ti-u-ch-b6154f { table-layout: fixed; }
+table.t-ti-u-ch-b6154f td:nth-child(1), table.t-ti-u-ch-b6154f th:nth-child(1) { width: 34% !important; }
+table.t-ti-u-ch-b6154f td:nth-child(2), table.t-ti-u-ch-b6154f th:nth-child(2) { width: 26% !important; }
+table.t-ti-u-ch-b6154f td:nth-child(3), table.t-ti-u-ch-b6154f th:nth-child(3) { width: 40% !important; }
+
+/* Tiêu chí | Sekininsha | HACCP Coord  (1 bảng, 22 / 41 / 37) */
+table.t-ti-u-ch-56509d { table-layout: fixed; }
+table.t-ti-u-ch-56509d td:nth-child(1), table.t-ti-u-ch-56509d th:nth-child(1) { width: 22% !important; }
+table.t-ti-u-ch-56509d td:nth-child(2), table.t-ti-u-ch-56509d th:nth-child(2) { width: 41% !important; }
+table.t-ti-u-ch-56509d td:nth-child(3), table.t-ti-u-ch-56509d th:nth-child(3) { width: 37% !important; }
+
+/* Tiêu chí | 技能実習 (cũ) | 育成就労 (mới)  (1 bảng, 24 / 36 / 40) */
+table.t-ti-u-ch-395572 { table-layout: fixed; }
+table.t-ti-u-ch-395572 td:nth-child(1), table.t-ti-u-ch-395572 th:nth-child(1) { width: 24% !important; }
+table.t-ti-u-ch-395572 td:nth-child(2), table.t-ti-u-ch-395572 th:nth-child(2) { width: 36% !important; }
+table.t-ti-u-ch-395572 td:nth-child(3), table.t-ti-u-ch-395572 th:nth-child(3) { width: 40% !important; }
+
+/* Tiếng Nhật | Nghĩa  (13 bảng, 50 / 50) */
+table.t-ti-ng-nh-t-9551f2 { table-layout: fixed; }
+table.t-ti-ng-nh-t-9551f2 td:nth-child(1), table.t-ti-ng-nh-t-9551f2 th:nth-child(1) { width: 50% !important; }
+table.t-ti-ng-nh-t-9551f2 td:nth-child(2), table.t-ti-ng-nh-t-9551f2 th:nth-child(2) { width: 50% !important; }
+
+/* Tiếng Nhật | Nghĩa | Khi dùng  (1 bảng, 39 / 26 / 35) */
+table.t-ti-ng-nh-t-8b1f81 { table-layout: fixed; }
+table.t-ti-ng-nh-t-8b1f81 td:nth-child(1), table.t-ti-ng-nh-t-8b1f81 th:nth-child(1) { width: 39% !important; }
+table.t-ti-ng-nh-t-8b1f81 td:nth-child(2), table.t-ti-ng-nh-t-8b1f81 th:nth-child(2) { width: 26% !important; }
+table.t-ti-ng-nh-t-8b1f81 td:nth-child(3), table.t-ti-ng-nh-t-8b1f81 th:nth-child(3) { width: 35% !important; }
+
+/* Tiếng Nhật | Romaji | Cấp độ | Khi dùng  (1 bảng, 22 / 26 / 16 / 36) */
+table.t-ti-ng-nh-t-68209d { table-layout: fixed; }
+table.t-ti-ng-nh-t-68209d td:nth-child(1), table.t-ti-ng-nh-t-68209d th:nth-child(1) { width: 22% !important; }
+table.t-ti-ng-nh-t-68209d td:nth-child(2), table.t-ti-ng-nh-t-68209d th:nth-child(2) { width: 26% !important; }
+table.t-ti-ng-nh-t-68209d td:nth-child(3), table.t-ti-ng-nh-t-68209d th:nth-child(3) { width: 16% !important; }
+table.t-ti-ng-nh-t-68209d td:nth-child(4), table.t-ti-ng-nh-t-68209d th:nth-child(4) { width: 36% !important; }
+
+/* Tiếng Nhật | Romaji | Nghĩa  (27 bảng, 26 / 30 / 44) */
+table.t-ti-ng-nh-t-afdc9a { table-layout: fixed; }
+table.t-ti-ng-nh-t-afdc9a td:nth-child(1), table.t-ti-ng-nh-t-afdc9a th:nth-child(1) { width: 26% !important; }
+table.t-ti-ng-nh-t-afdc9a td:nth-child(2), table.t-ti-ng-nh-t-afdc9a th:nth-child(2) { width: 30% !important; }
+table.t-ti-ng-nh-t-afdc9a td:nth-child(3), table.t-ti-ng-nh-t-afdc9a th:nth-child(3) { width: 44% !important; }
+
+/* Tiếng Nhật | Romaji | Tiếng Việt  (1 bảng, 23 / 21 / 56) */
+table.t-ti-ng-nh-t-b83be5 { table-layout: fixed; }
+table.t-ti-ng-nh-t-b83be5 td:nth-child(1), table.t-ti-ng-nh-t-b83be5 th:nth-child(1) { width: 23% !important; }
+table.t-ti-ng-nh-t-b83be5 td:nth-child(2), table.t-ti-ng-nh-t-b83be5 th:nth-child(2) { width: 21% !important; }
+table.t-ti-ng-nh-t-b83be5 td:nth-child(3), table.t-ti-ng-nh-t-b83be5 th:nth-child(3) { width: 56% !important; }
+
+/* Tiếng Nhật | Tiếng Việt  (2 bảng, 56 / 44) */
+table.t-ti-ng-nh-t-f7f1d4 { table-layout: fixed; }
+table.t-ti-ng-nh-t-f7f1d4 td:nth-child(1), table.t-ti-ng-nh-t-f7f1d4 th:nth-child(1) { width: 56% !important; }
+table.t-ti-ng-nh-t-f7f1d4 td:nth-child(2), table.t-ti-ng-nh-t-f7f1d4 th:nth-child(2) { width: 44% !important; }
+
+/* Tiếng Saitama | Tiếng chuẩn | Nghĩa  (1 bảng, 28 / 25 / 47) */
+table.t-ti-ng-saitam-f50896 { table-layout: fixed; }
+table.t-ti-ng-saitam-f50896 td:nth-child(1), table.t-ti-ng-saitam-f50896 th:nth-child(1) { width: 28% !important; }
+table.t-ti-ng-saitam-f50896 td:nth-child(2), table.t-ti-ng-saitam-f50896 th:nth-child(2) { width: 25% !important; }
+table.t-ti-ng-saitam-f50896 td:nth-child(3), table.t-ti-ng-saitam-f50896 th:nth-child(3) { width: 47% !important; }
+
+/* Tài liệu đối thủ | Strengths | Weaknesses | Hizashi 11 có thể khác  (1 bảng, 14 / 18 / 39 / 29) */
+table.t-t-i-li-u-i-t-1d66de { table-layout: fixed; }
+table.t-t-i-li-u-i-t-1d66de td:nth-child(1), table.t-t-i-li-u-i-t-1d66de th:nth-child(1) { width: 14% !important; }
+table.t-t-i-li-u-i-t-1d66de td:nth-child(2), table.t-t-i-li-u-i-t-1d66de th:nth-child(2) { width: 18% !important; }
+table.t-t-i-li-u-i-t-1d66de td:nth-child(3), table.t-t-i-li-u-i-t-1d66de th:nth-child(3) { width: 39% !important; }
+table.t-t-i-li-u-i-t-1d66de td:nth-child(4), table.t-t-i-li-u-i-t-1d66de th:nth-child(4) { width: 29% !important; }
+
+/* Tình huống | Cụm  (1 bảng, 24 / 76) */
+table.t-t-nh-hu-ng-7c345c { table-layout: fixed; }
+table.t-t-nh-hu-ng-7c345c td:nth-child(1), table.t-t-nh-hu-ng-7c345c th:nth-child(1) { width: 24% !important; }
+table.t-t-nh-hu-ng-7c345c td:nth-child(2), table.t-t-nh-hu-ng-7c345c th:nth-child(2) { width: 76% !important; }
+
+/* Tình huống | Cụm tiếng Nhật | Tiếng Việt  (1 bảng, 30 / 33 / 37) */
+table.t-t-nh-hu-ng-020ef5 { table-layout: fixed; }
+table.t-t-nh-hu-ng-020ef5 td:nth-child(1), table.t-t-nh-hu-ng-020ef5 th:nth-child(1) { width: 30% !important; }
+table.t-t-nh-hu-ng-020ef5 td:nth-child(2), table.t-t-nh-hu-ng-020ef5 th:nth-child(2) { width: 33% !important; }
+table.t-t-nh-hu-ng-020ef5 td:nth-child(3), table.t-t-nh-hu-ng-020ef5 th:nth-child(3) { width: 37% !important; }
+
+/* Tình huống | Liên hệ  (1 bảng, 55 / 45) */
+table.t-t-nh-hu-ng-f62eee { table-layout: fixed; }
+table.t-t-nh-hu-ng-f62eee td:nth-child(1), table.t-t-nh-hu-ng-f62eee th:nth-child(1) { width: 55% !important; }
+table.t-t-nh-hu-ng-f62eee td:nth-child(2), table.t-t-nh-hu-ng-f62eee th:nth-child(2) { width: 45% !important; }
+
+/* Vai | Vai | Xuất hiện  (1 bảng, 27 / 40 / 33) */
+table.t-vai-114411 { table-layout: fixed; }
+table.t-vai-114411 td:nth-child(1), table.t-vai-114411 th:nth-child(1) { width: 27% !important; }
+table.t-vai-114411 td:nth-child(2), table.t-vai-114411 th:nth-child(2) { width: 40% !important; }
+table.t-vai-114411 td:nth-child(3), table.t-vai-114411 th:nth-child(3) { width: 33% !important; }
+
+/* Vi khuẩn | Triệu chứng | Hậu quả  (1 bảng, 38 / 34 / 28) */
+table.t-vi-khu-n-8029b6 { table-layout: fixed; }
+table.t-vi-khu-n-8029b6 td:nth-child(1), table.t-vi-khu-n-8029b6 th:nth-child(1) { width: 38% !important; }
+table.t-vi-khu-n-8029b6 td:nth-child(2), table.t-vi-khu-n-8029b6 th:nth-child(2) { width: 34% !important; }
+table.t-vi-khu-n-8029b6 td:nth-child(3), table.t-vi-khu-n-8029b6 th:nth-child(3) { width: 28% !important; }
+
+/* Viết tắt | Dạng đầy đủ | Nghĩa tiếng Việt  (1 bảng, 13 / 32 / 55) */
+table.t-vi-t-t-t-1f9af5 { table-layout: fixed; }
+table.t-vi-t-t-t-1f9af5 td:nth-child(1), table.t-vi-t-t-t-1f9af5 th:nth-child(1) { width: 13% !important; }
+table.t-vi-t-t-t-1f9af5 td:nth-child(2), table.t-vi-t-t-t-1f9af5 th:nth-child(2) { width: 32% !important; }
+table.t-vi-t-t-t-1f9af5 td:nth-child(3), table.t-vi-t-t-t-1f9af5 th:nth-child(3) { width: 55% !important; }
+
+/* Vấn đề | KAIZEN đơn giản  (1 bảng, 47 / 53) */
+table.t-v-n-8e5ec0 { table-layout: fixed; }
+table.t-v-n-8e5ec0 td:nth-child(1), table.t-v-n-8e5ec0 th:nth-child(1) { width: 47% !important; }
+table.t-v-n-8e5ec0 td:nth-child(2), table.t-v-n-8e5ec0 th:nth-child(2) { width: 53% !important; }
+
+/* Vị trí | Tên | Ai ngồi  (1 bảng, 36 / 23 / 41) */
+table.t-v-tr-28ba49 { table-layout: fixed; }
+table.t-v-tr-28ba49 td:nth-child(1), table.t-v-tr-28ba49 th:nth-child(1) { width: 36% !important; }
+table.t-v-tr-28ba49 td:nth-child(2), table.t-v-tr-28ba49 th:nth-child(2) { width: 23% !important; }
+table.t-v-tr-28ba49 td:nth-child(3), table.t-v-tr-28ba49 th:nth-child(3) { width: 41% !important; }
+
+/* Đối tượng | Cách chào | Cấp độ  (1 bảng, 34 / 51 / 15) */
+table.t-i-t-ng-ac354e { table-layout: fixed; }
+table.t-i-t-ng-ac354e td:nth-child(1), table.t-i-t-ng-ac354e th:nth-child(1) { width: 34% !important; }
+table.t-i-t-ng-ac354e td:nth-child(2), table.t-i-t-ng-ac354e th:nth-child(2) { width: 51% !important; }
+table.t-i-t-ng-ac354e td:nth-child(3), table.t-i-t-ng-ac354e th:nth-child(3) { width: 15% !important; }

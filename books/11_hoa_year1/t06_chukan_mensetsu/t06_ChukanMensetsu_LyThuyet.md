@@ -1,6 +1,6 @@
 # T6. Nửa năm — Đánh giá giữa kỳ (中間面接 — 半年間の振り返り)
 
-> **Mục tiêu:** Học cụm trình bày trong mensetsu (~について / ~と考えております), keigo trung cấp (~させていただきます / お~いたします), vocab đánh giá (評価/目標/反省/改善点), và intro Tokutei Ginou.
+> **Mục tiêu:** Học cụm trình bày trong mensetsu (~について / ~と考えております), keigo trung cấp (~させていただきます / お~いたします), từ vựng đánh giá (評価/目標/反省/改善点), và giới thiệu Tokutei Ginou.
 
 ---
 
@@ -42,10 +42,10 @@ Tháng 9. 6 tháng đã qua kể từ khi Hoa sang Nhật. Suzuki-shidouin tổ 
 ### 2.2 Cấu trúc 4 phần
 
 ```
-1. <ruby>強<rt>つよ</rt></ruby>み (Strengths) — 3 điểm mạnh đã thể hiện
-2. <ruby>弱<rt>よわ</rt></ruby>み (Weaknesses) — 2-3 điểm cần cải thiện
-3. <ruby>学<rt>まな</rt></ruby>んだこと (Learnings) — 3 bài học cụ thể
-4. <ruby>次<rt>つぎ</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby> (Next goals) — 3 mục tiêu nửa năm sau (CỤ THỂ + đo được)
+1. <ruby>強<rt>つよ</rt></ruby>み (Điểm mạnh) — 3 điểm mạnh đã thể hiện
+2. <ruby>弱<rt>よわ</rt></ruby>み (Điểm yếu) — 2-3 điểm cần cải thiện
+3. <ruby>学<rt>まな</rt></ruby>んだこと (Bài học) — 3 bài học cụ thể
+4. <ruby>次<rt>つぎ</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby> (Mục tiêu tiếp theo) — 3 mục tiêu nửa năm sau (CỤ THỂ + đo được)
 ```
 
 ### 2.3 Mẫu hansei của Hoa
@@ -73,7 +73,7 @@ Tháng 9. 6 tháng đã qua kể từ khi Hoa sang Nhật. Suzuki-shidouin tổ 
 3. <ruby>食品衛生責任者<rt>しょくひんえいせいせきにんしゃ</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>める
 ```
 
-> 💡 Mục tiêu phải **CỤ THỂ + ĐO ĐƯỢC** — không "cố gắng hơn", mà "N4 trước 12/2026".
+> Mục tiêu phải **CỤ THỂ + ĐO ĐƯỢC** — không "cố gắng hơn", mà "N4 trước 12/2026".
 
 ---
 
@@ -114,7 +114,7 @@ Tháng 9. 6 tháng đã qua kể từ khi Hoa sang Nhật. Suzuki-shidouin tổ 
 | <ruby>休<rt>やす</rt></ruby>みます | <ruby>休<rt>やす</rt></ruby>ませていただきます |
 | <ruby>説明<rt>せつめい</rt></ruby>します | <ruby>説明<rt>せつめい</rt></ruby>させていただきます |
 
-> 💡 Dùng khi xin phép sếp / khách. KHÔNG lạm dụng — quá nhiều = ngược tôn ti.
+> Dùng khi xin phép sếp / khách. KHÔNG lạm dụng — quá nhiều = ngược tôn ti.
 
 ### 4.2 お~いたします (kenjougo cao)
 
@@ -136,7 +136,7 @@ Tháng 9. 6 tháng đã qua kể từ khi Hoa sang Nhật. Suzuki-shidouin tổ 
 
 ---
 
-## 5. Vocab đánh giá
+## 5. Từ vựng đánh giá
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -160,17 +160,17 @@ Tháng 9. 6 tháng đã qua kể từ khi Hoa sang Nhật. Suzuki-shidouin tổ 
 - **Cơ quan giám sát chính** TTS Nhật
 - **Quyền**: 巡回指導 (junkai shidou — kiểm tra định kỳ tại nhà máy)
 - **Hỗ trợ TTS**:
-  - Hotline tiếng mẹ đẻ (VN, Indo, Phil, Trung)
-  - Tư vấn khi bị bóc lột / bạo lực
-  - Hỗ trợ chuyển công ty nếu công ty cũ vi phạm
+ - Hotline tiếng mẹ đẻ (VN, Indo, Phil, Trung)
+ - Tư vấn khi bị bóc lột / bạo lực
+ - Hỗ trợ chuyển công ty nếu công ty cũ vi phạm
 
 ### 6.2 JITCO (公益財団法人 国際人材協力機構)
 
 - **Tổ chức phi lợi nhuận** hỗ trợ TTS
 - **Dịch vụ**:
-  - 母国語相談 (tư vấn tiếng mẹ đẻ qua điện thoại)
-  - Tài liệu học tiếng Nhật miễn phí
-  - Khoá huấn luyện cho 指導員
+ - 母国語相談 (tư vấn tiếng mẹ đẻ qua điện thoại)
+ - Tài liệu học tiếng Nhật miễn phí
+ - Khoá huấn luyện cho 指導員
 
 ### 6.3 Khi nào TTS dùng
 
@@ -184,7 +184,7 @@ Tháng 9. 6 tháng đã qua kể từ khi Hoa sang Nhật. Suzuki-shidouin tổ 
 
 ---
 
-## 7. Tokutei Ginou (特定技能) — Intro
+## 7. Tokutei Ginou (特定技能) — Giới thiệu
 
 ### 7.1 Tokutei Ginou là gì?
 
@@ -201,19 +201,19 @@ Chế độ visa mới (2019) cho phép người nước ngoài làm việc lâu
 
 ```
 TTS 3 năm (技能実習1号→2号→3号)
-   ↓
+ ↓
 Auto-eligible chuyển 特定技能1号 (không cần thi nếu N3+)
-   ↓
+ ↓
 Làm 5 năm 特定技能1号
-   ↓
+ ↓
 Thi 特定技能2号 evaluation test
-   ↓
+ ↓
 特定技能2号: lương cao + gia đình + đường tới vĩnh trú
 ```
 
 ### 7.4 育成就労 2027 — Chế độ mới
 
-> ⚠️ Năm 2027 (1/4), chế độ 技能実習 sẽ bị thay bằng **育成就労 (Ikusei Shuurou)**. Hoa nhập 4/2026 → có thể chuyển tiếp sang Ikusei sau 3 năm. Sẽ học chi tiết ở T11.
+> Năm 2027 (1/4), chế độ 技能実習 sẽ bị thay bằng **育成就労 (Ikusei Shuurou)**. Hoa nhập 4/2026 → có thể chuyển tiếp sang Ikusei sau 3 năm. Sẽ học chi tiết ở T11.
 
 ---
 
@@ -262,7 +262,7 @@ Thi 特定技能2号 evaluation test
 
 ## 9. So sánh / Phân tích lỗi
 
-| ❌ SAI | ✅ ĐÚNG |
+| Cách nói SAI | Cách nói ĐÚNG |
 |---|---|
 | <ruby>頑張<rt>がんば</rt></ruby>ります! | N4 <ruby>合格<rt>ごうかく</rt></ruby>を12<ruby>月<rt>がつ</rt></ruby>に |
 | (Vague, không đo được) | (Cụ thể + deadline) |
@@ -275,7 +275,7 @@ Thi 特定技能2号 evaluation test
 
 ---
 
-## 10. 📖 Vocab hôm nay
+## 10. Từ vựng hôm nay
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -292,7 +292,7 @@ Thi 特定技能2号 evaluation test
 ## 11. Tổng kết
 
 - **中間面接**: 6 tháng/lần, bắt buộc, cấu trúc 5 phần
-- **反省 4 phần**: Strengths → Weaknesses → Learnings → Goals
+- **反省 4 phần**: Điểm mạnh → Điểm yếu → Bài học → Mục tiêu
 - **Mục tiêu**: CỤ THỂ + ĐO ĐƯỢC + có DEADLINE
 - **Keigo trung cấp**: ~させていただきます / お~いたします / ~ております
 - **Tokutei Ginou**: Hạng 1号 (5 năm) → 2号 (vô hạn). Auto-eligible từ TTS 3 năm.
@@ -301,32 +301,32 @@ Thi 特定技能2号 evaluation test
 
 ---
 
-## 12. 💡 Mẹo ghi nhớ
+## 12. Mẹo ghi nhớ
 
 | Mẹo | Nội dung |
 |---|---|
-| 🔺 4 phần hansei | Strength → Weakness → Learning → Goal |
-| 🔻 Mục tiêu SMART | Specific, Measurable, Achievable, Relevant, Time-bound |
-| 💡 Suzuki | 指導員 là đồng minh, không phải sếp — chia sẻ thật khó khăn |
-| ⚠️ KHÔNG nói "頑張ります" trống | Phải có data: "X trước Y" |
+|  4 phần hansei | Điểm mạnh → Điểm yếu → Bài học → Mục tiêu |
+|  Mục tiêu cụ thể | Cụ thể, Đo được, Thực tế, Phù hợp, Có thời hạn |
+|  Suzuki | 指導員 là đồng minh, không phải sếp — chia sẻ thật khó khăn |
+|  KHÔNG nói "頑張ります" trống | Phải có con số cụ thể: "X trước Y" |
 
 ---
 
-## ✅ Mini check
+## Tự kiểm tra nhanh
 
 1. 中間面接 tổ chức bao lâu/lần?
-   - A. 3 tháng
-   - B. 6 tháng
-   - C. 1 năm
+ - A. 3 tháng
+ - B. 6 tháng
+ - C. 1 năm
 
 2. "Em đang nghĩ rằng" trong keigo trung cấp:
-   - A. <ruby>思<rt>おも</rt></ruby>っています
-   - B. <ruby>考<rt>かんが</rt></ruby>えております
-   - C. <ruby>思<rt>おも</rt></ruby>うです
+ - A. <ruby>思<rt>おも</rt></ruby>っています
+ - B. <ruby>考<rt>かんが</rt></ruby>えております
+ - C. <ruby>思<rt>おも</rt></ruby>うです
 
 3. 特定技能1号 có thời hạn bao lâu?
-   - A. 3 năm
-   - B. 5 năm
-   - C. Vô hạn
+ - A. 3 năm
+ - B. 5 năm
+ - C. Vô hạn
 
 *(Đáp án: 1B, 2B, 3B)*

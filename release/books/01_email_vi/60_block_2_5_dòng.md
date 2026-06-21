@@ -1,6 +1,6 @@
 ---
-id: 8001060
-curriculum_id: 8001
+id: 810000060
+curriculum_id: 800000001
 order_index: 60
 node_type: rule
 title: "Rule 59 — Block 2-5 dòng, cách nhau bằng 1 dòng trống"

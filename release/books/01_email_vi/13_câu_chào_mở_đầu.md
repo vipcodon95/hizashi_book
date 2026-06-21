@@ -1,6 +1,6 @@
 ---
-id: 8001013
-curriculum_id: 8001
+id: 810000013
+curriculum_id: 800000001
 order_index: 13
 node_type: rule
 title: "Rule 13 — Câu chào mở đầu không bỏ qua, ngay cả với người đã quen"

@@ -1,6 +1,6 @@
 ---
-id: 8001057
-curriculum_id: 8001
+id: 810000057
+curriculum_id: 800000001
 order_index: 57
 node_type: rule
 title: "Rule 56 — Báo sự cố: Tình huống → Tác động → Đang làm → Cần hỗ trợ"

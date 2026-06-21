@@ -235,7 +235,7 @@ Ngày 1 tháng 4 năm 2027. Năm tài khoá mới bắt đầu, cũng là ngày 
 
 ## Đọng lại chương 1
 
-Ngày đầu năm tài khoá, Hoa học được bộ mẫu câu mới của sempai năm 2 trong môi trường công sở Nhật: **chào năm mới tài khoá** (新年度もよろしくお願いいたします), **đặt câu hỏi lễ phép trong họp** (質問してもよろしいでしょうか), **xác nhận lại thông tin chính sách** (〜ということですね・つまり〜), **hỏi lại từ chuyên ngành chưa biết** (〜というのは何ですか), **nhận chỉ thị từ 部長** (承知しました・精一杯頑張ります), và **cảm ơn lời chỉ bảo của 先輩** (ご指導ありがとうございます). Đồng thời nghe và phân biệt được hai chế độ visa **技能実習 (Gino Jisshu)** cũ và **育成就労 (Ikusei Shuurou)** mới — biết khái niệm **転籍**, **監理支援機関**, **外部監査人** — những từ chuyên ngành về luật visa Nhật phải nắm để trao đổi với 監理員 và 部長. Bí quyết coaching gom từ ba người: anh Satou dạy "**見せる→一緒に→一人で**", chị Kimura dạy "**厳しすぎない・褒める**", mẹ dạy "**優しく、ゆっくり、何度も**".
+Ngày đầu năm tài khoá, Hoa học được bộ mẫu câu mới của sempai năm 2 trong môi trường công sở Nhật: **chào năm mới tài khoá** (新年度もよろしくお願いいたします), **đặt câu hỏi lễ phép trong họp** (質問してもよろしいでしょうか), **xác nhận lại thông tin chính sách** (〜ということですね・つまり〜), **hỏi lại từ chuyên ngành chưa biết** (〜というのは何ですか), **nhận chỉ thị từ 部長** (承知しました・精一杯頑張ります), và **cảm ơn lời chỉ bảo của 先輩** (ご指導ありがとうございます). Đồng thời nghe và phân biệt được hai chế độ visa **技能実習 (Gino Jisshu)** cũ và **育成就労 (Ikusei Shuurou)** mới — biết khái niệm **転籍**, **監理支援機関**, **外部監査人** — những từ chuyên ngành về luật visa Nhật phải nắm để trao đổi với 監理員 và 部長. Bí quyết kèm cặp đàn em gom từ ba người: anh Satou dạy "**見せる→一緒に→一人で**", chị Kimura dạy "**厳しすぎない・褒める**", mẹ dạy "**優しく、ゆっくり、何度も**".
 
 > Từ vựng & mẫu câu chương này: 新年度・育成就労・技能実習・施行・転籍・業種・監理団体・監理支援機関・外部監査人・指導員・後輩・異常・異物・トッピング・新年度もよろしくお願いいたします・質問してもよろしいでしょうか・承知しました・〜というのは何ですか・〜ということですね・ご指導ありがとうございます・精一杯頑張ります・見せる→一緒に→一人で・優しくゆっくり何度も
 
@@ -245,7 +245,7 @@ Ngày đầu năm tài khoá, Hoa học được bộ mẫu câu mới của sem
 - TTS không thể chuyển sang Ikusei giữa chừng hợp đồng — phải hoàn tất trước.
 - Ikusei cho phép 転籍 sau 1 năm + tiếng Nhật A2; TTS thì không.
 - Mẫu câu Q&A lễ phép trong họp: `質問してもよろしいでしょうか` → `〜というのは何ですか` → `つまり〜ということですね` (xác nhận lại).
-- Bí quyết coaching kết hợp 3 nguồn: 「見せる→一緒に→一人で」+ 「厳しすぎない・褒める」+ 「優しく、ゆっくり、何度も」.
+- Bí quyết kèm cặp đàn em kết hợp 3 nguồn: 「見せる→一緒に→一人で」+ 「厳しすぎない・褒める」+ 「優しく、ゆっくり、何度も」.
 
 ---
 

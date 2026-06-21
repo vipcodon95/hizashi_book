@@ -1,6 +1,6 @@
 ---
-id: 8001032
-curriculum_id: 8001
+id: 810000032
+curriculum_id: 800000001
 order_index: 32
 node_type: rule
 title: "Rule 32 — Tách sự thật khỏi nhận định, không trộn"

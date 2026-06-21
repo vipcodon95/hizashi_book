@@ -1,6 +1,6 @@
 ---
-id: 8001017
-curriculum_id: 8001
+id: 810000017
+curriculum_id: 800000001
 order_index: 17
 node_type: rule
 title: "Rule 17 — Chữ ký hai kiểu: bản chuẩn cho khách hàng, bản ngắn cho nội bộ"

@@ -1,6 +1,6 @@
 ---
-id: 8001016
-curriculum_id: 8001
+id: 810000016
+curriculum_id: 800000001
 order_index: 16
 node_type: rule
 title: "Rule 16 — Câu kết: \"đóng cửa\" gọn gàng, không bỏ lửng"
@@ -34,7 +34,7 @@ Dũng vừa trình bày xong phần thân mail xin duyệt phát sinh. Giờ đ�
 ### Mẫu 1 — Tiêu chuẩn (dùng cho 80% mail công việc)
 > Em cảm ơn chị và mong chị phản hồi trước thứ Năm 15/05.
 
-Làm đủ ba việc: tóm CTA (phản hồi), deadline (15/05), cảm ơn.
+Làm đủ ba việc: tóm yêu cầu hành động (phản hồi), deadline (15/05), cảm ơn.
 
 ### Mẫu 2 — Trang trọng hơn (mail gửi lên cao, khách hàng quan trọng)
 > Em chân thành cảm ơn chị đã dành thời gian. Nếu chị cần em bổ sung thông tin hoặc giải trình thêm, em sẵn sàng phản hồi. Em đợi phản hồi của chị trước thứ Năm 15/05.
@@ -44,7 +44,7 @@ Thêm: mở đường giải trình, nhấn mạnh sẵn sàng hỗ trợ.
 ### Mẫu 3 — Rút gọn (nội bộ, giữa hai người thân)
 > Em cảm ơn chị. Chị xem giúp em trước 15/05 nhé.
 
-Vẫn có đủ CTA + deadline + cảm ơn, chỉ cô đọng hơn.
+Vẫn có đủ yêu cầu hành động + deadline + cảm ơn, chỉ cô đọng hơn.
 
 ## Bộ công cụ câu kết theo tình huống
 | Tình huống | Câu kết gợi ý |
@@ -64,6 +64,6 @@ Nếu mail siêu ngắn (Rule 30 — mail 1 dòng), câu kết có thể *gộp*
 Cả "nội dung" và "cảm ơn" nằm trong 1 câu. Mail *đóng cửa* vẫn gọn.
 
 ## Cụm từ mẫu
-> **"Câu kết tóm CTA, cảm ơn, mở đường. Một đến hai câu. Không dấu ba chấm, không 'Thanks' cụt."**
+> **"Câu kết tóm yêu cầu hành động, cảm ơn, mở đường. Một đến hai câu. Không dấu ba chấm, không 'Thanks' cụt."**
 
 *Dùng khi:* trước chữ ký. Đây là câu cuối cùng người đọc thấy — nó quyết định dư vị còn đọng lại sau khi đóng mail.

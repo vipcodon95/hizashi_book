@@ -1,6 +1,6 @@
 ---
-id: 8001007
-curriculum_id: 8001
+id: 810000007
+curriculum_id: 800000001
 order_index: 7
 node_type: rule
 title: "Rule 07 — Một mail một chủ đề"
@@ -57,7 +57,7 @@ Chị Hương có 2 mail riêng. Chị trả lời mail 1, sau đó chị trả 
 ## Biến thể — Khi 2 việc thật sự gắn với nhau
 Có những trường hợp 2 việc không thể tách vì chúng phụ thuộc lẫn nhau:
 
-- Budget phát sinh *phụ thuộc vào* kết quả review: cần biết review có đồng ý mở scope không mới quyết được budget.
+- Budget phát sinh *phụ thuộc vào* kết quả review: cần biết review có đồng ý mở phạm vi không mới quyết được budget.
 
 Khi đó **phải gộp**, nhưng phải áp dụng **Rule 08** (tiêu đề hai vế) để người nhận biết trước mail có 2 phần.
 

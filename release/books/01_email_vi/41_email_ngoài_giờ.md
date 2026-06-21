@@ -1,6 +1,6 @@
 ---
-id: 8001041
-curriculum_id: 8001
+id: 810000041
+curriculum_id: 800000001
 order_index: 41
 node_type: rule
 title: "Rule 41 — Email ngoài giờ hành chính: dặn trước + không yêu cầu hồi đáp gấp"

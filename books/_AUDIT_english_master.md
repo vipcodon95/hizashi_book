@@ -22,7 +22,7 @@
 | 08_smalltalk | ~88 | **Rất cao** | bridge(20), pattern(18), fact(14), flow(12) — lớp giải thích sư phạm |
 | 09_real_dialogues | ~29 | TB | Bí quyết/Recap xen nhiều từ Anh (overdo, debrief, pivot...) |
 | 10_business_japanese | ~27 | TB | subject/object (11), stem, passive — thuật ngữ ngữ pháp |
-| 11_jisshusei_shokuhin | ~21 | TB | "Polite" nhãn bảng keigo (8), checklist |
+| 11_hoa_year1 | ~21 | TB | "Polite" nhãn bảng keigo (8), checklist |
 | 12_hoa_year2 | ~9 | Thấp | Apply, Submit, Pass, Networking, Case study |
 | 13_hoa_year3 | ~14 | TB | **1 P0** (t06 factor/stay/go); double track, Deadline, Audit |
 | 14_thai_year1 | ~2 | Sạch | chỉ Tier-2/mirror finish (P2) |

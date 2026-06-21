@@ -4,7 +4,7 @@
 > Target: Thực tập sinh VN ngành thực phẩm vừa xong N5, phái cử công ty, người học N5-N4 tiếp xúc tiếng công xưởng
 > Researcher: book-researcher agent
 > Date: 2026-04-27
-> Course: 11_jisshusei_shokuhin (course_id 8011)
+> Course: 11_hoa_year1 (course_id 8011)
 
 ## 1. Existing Hizashi content
 

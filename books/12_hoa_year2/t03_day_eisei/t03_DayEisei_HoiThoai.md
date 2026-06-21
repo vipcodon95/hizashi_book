@@ -288,7 +288,7 @@ Hôm nay Hoa lần đầu đứng ở vị trí sempai dạy đàn em — và nh
 | 厳しい | きびしい | NGHIÊM | Nghiêm khắc |
 | 安心 | あんしん | AN TÂM | Yên tâm |
 | 恩返し | おんがえし | ÂN PHẢN | Đáp ơn, báo đáp |
-| 朝ご飯 | あさごはん | TRIỀU PHẠN | Bữa sáng |
+| 朝ご飯 | あさごはん | TRIÊU PHẠN | Bữa sáng |
 | 炊飯器 | すいはんき | XUY PHẠN KHÍ | Nồi cơm điện |
 | 集合 | しゅうごう | TẬP HỢP | Tập trung |
 | 制服 | せいふく | CHẾ PHỤC | Đồng phục |
@@ -302,7 +302,7 @@ Hôm nay Hoa lần đầu đứng ở vị trí sempai dạy đàn em — và nh
 | 両方 | りょうほう | LƯỠNG PHƯƠNG | Cả hai bên |
 | 覆う | おおう | PHÚ | Che, phủ |
 | 長靴 | ながぐつ | TRƯỜNG ỦNG | Ủng dài |
-| 粘着 | ねんちゃく | NIÊM TRẮC | Dính (con lăn) |
+| 粘着 | ねんちゃく | NIÊM TRƯỚC | Dính (con lăn) |
 | 糸くず | いとくず | TI | Sợi vải vụn |
 | 消毒 | しょうどく | TIÊU ĐỘC | Khử trùng |
 | 手袋 | てぶくろ | THỦ ĐẠI | Găng tay |

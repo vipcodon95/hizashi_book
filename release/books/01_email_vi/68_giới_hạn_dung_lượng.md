@@ -1,6 +1,6 @@
 ---
-id: 8001068
-curriculum_id: 8001
+id: 810000068
+curriculum_id: 800000001
 order_index: 68
 node_type: rule
 title: "Rule 67 — Giới hạn dung lượng mail doanh nghiệp 10MB — nén hoặc dùng link"

@@ -1,6 +1,6 @@
 ---
-id: 8001047
-curriculum_id: 8001
+id: 810000047
+curriculum_id: 800000001
 order_index: 47
 node_type: rule
 title: "Rule 46 — Điều khó nói — nói càng sớm càng nhẹ, im lặng chỉ làm nặng thêm"

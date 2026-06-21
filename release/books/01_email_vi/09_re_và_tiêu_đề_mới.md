@@ -1,6 +1,6 @@
 ---
-id: 8001009
-curriculum_id: 8001
+id: 810000009
+curriculum_id: 800000001
 order_index: 9
 node_type: rule
 title: "Rule 09 — \"Re:\" và khi nào nên đặt tiêu đề mới"

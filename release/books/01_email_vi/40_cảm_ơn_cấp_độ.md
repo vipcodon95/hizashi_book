@@ -1,6 +1,6 @@
 ---
-id: 8001040
-curriculum_id: 8001
+id: 810000040
+curriculum_id: 800000001
 order_index: 40
 node_type: rule
 title: "Rule 40 — Lời cảm ơn có cấp độ — tránh \"cảm ơn anh\" trôi nổi mọi mail"

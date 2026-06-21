@@ -1,6 +1,6 @@
 ---
-id: 8001065
-curriculum_id: 8001
+id: 810000065
+curriculum_id: 800000001
 order_index: 65
 node_type: rule
 title: "Rule 64 — Người đọc trên điện thoại: ưu tiên xuống dòng, tránh câu trôi dài"
@@ -14,7 +14,7 @@ language: vi
 >
 > Từ khóa: **"mobile first"**.
 
-## Checklist mobile-friendly
+## Danh sách kiểm tra mobile-friendly
 1. **Dòng ≤50 ký tự** (Rule 58).
 2. **Block 2-5 dòng** (Rule 59).
 3. **Tiêu đề ≤7 từ** (Rule 06).

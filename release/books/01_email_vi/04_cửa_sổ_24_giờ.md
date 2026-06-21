@@ -1,6 +1,6 @@
 ---
-id: 8001004
-curriculum_id: 8001
+id: 810000004
+curriculum_id: 800000001
 order_index: 4
 node_type: rule
 title: "Rule 04 — Cửa sổ 24 giờ vàng"

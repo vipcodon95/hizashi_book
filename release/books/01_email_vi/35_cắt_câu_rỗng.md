@@ -1,6 +1,6 @@
 ---
-id: 8001035
-curriculum_id: 8001
+id: 810000035
+curriculum_id: 800000001
 order_index: 35
 node_type: rule
 title: "Rule 35 — Cắt những câu lịch sự rỗng không mang thông tin"

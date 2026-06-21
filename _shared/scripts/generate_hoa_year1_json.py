@@ -1,23 +1,23 @@
 #!/usr/bin/env python3
 """
-Generator JSON BaiTap + Mogishiken cho sách 11_jisshusei_shokuhin.
+Generator JSON BaiTap + Mogishiken cho sách 11_hoa_year1.
 
 12 modules. Mỗi module:
   - 1 BaiTap.json (40 câu × 4 levels)
   - 1 Mogishiken.json (5 sections × 4 reading questions)
 
 Output:
-  books/11_jisshusei_shokuhin/<module_folder>/<topic>_<Name>_BaiTap.json
-  books/11_jisshusei_shokuhin/<module_folder>/<topic>_<Name>_Mogishiken.json
+  books/11_hoa_year1/<module_folder>/<topic>_<Name>_BaiTap.json
+  books/11_hoa_year1/<module_folder>/<topic>_<Name>_Mogishiken.json
 
-Run: python3 _shared/scripts/generate_jisshusei_shokuhin_json.py
+Run: python3 _shared/scripts/generate_hoa_year1_json.py
 """
 import json
 import os
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-BOOK_DIR = ROOT / "books" / "11_jisshusei_shokuhin"
+BOOK_DIR = ROOT / "books" / "11_hoa_year1"
 
 # ============================================================
 # DATA: 12 modules x 40 BaiTap questions + 5 reading sections

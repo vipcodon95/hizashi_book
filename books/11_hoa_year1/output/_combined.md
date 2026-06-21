@@ -1,12 +1,51 @@
 ---
-title: "Hizashi — Thực tập sinh ngành thực phẩm"
+title: "Hizashi — Thực tập sinh ngành thực phẩm / 技能実習・食品"
 author: "Hizashi Teams"
 lang: vi
 ---
 
+# Hizashi — Thực tập sinh ngành thực phẩm / 技能実習・食品
+
+*Hizashi Teams.*
+
+## Sách song ngữ Việt-Nhật cho thực tập sinh kỹ năng
+
+Giáo trình 12 tháng đồng hành cùng Hoa — một thực tập sinh kỹ năng (技能実習生) ngành thực phẩm — từ ngày đặt chân tới Nhật đến khi nhìn lại một năm trưởng thành. Mỗi chương là một tháng, một tình huống thực tế trong nhà máy và đời sống.
+
+**Đối tượng:** Thực tập sinh kỹ năng ngành thực phẩm chuẩn bị sang hoặc đang làm việc tại Nhật. Trình độ N5 trở lên.
+
+## Cấu trúc — 12 tháng
+
+| Tháng | Chương | Nội dung |
+|------|--------|----------|
+| 1 | Đặt chân tới Nhật | Chào hỏi · Jiko-shoukai · Sân bay · Ký túc |
+| 2 | Tuần đầu trong nhà máy | Vào ca · Đồng nghiệp · Quy định cơ bản |
+| 3 | Quy tắc vệ sinh thực phẩm | Rửa tay · HACCP · Dị ứng · 検便 |
+| 4 | Lần đầu đứng dây chuyền | Thao tác · Báo cáo · Phối hợp |
+| 5 | Lần đầu mắc lỗi | Hàng lỗi · Hou-Ren-Sou · Xin lỗi |
+| 6 | Nửa năm — Đánh giá giữa kỳ | Phỏng vấn · Nhìn lại 6 tháng |
+| 7 | Mùa thu — Lễ hội & Đời sống | Matsuri · Sinh hoạt · Quan hệ |
+| 8 | Khách kiểm tra audit | ISO · Tiếp khách kiểm tra |
+| 9 | Triển khai sản phẩm mới | Phát triển sản phẩm · Đề xuất |
+| 10 | Sự cố lớn — Recall | Thu hồi · Xử lý khủng hoảng |
+| 11 | Định hướng tương lai | Kế hoạch · Gia hạn · Đặc định |
+| 12 | Một năm nhìn lại | Bonenkai · Tổng kết |
+
+## Cách dùng sách
+
+Mỗi chương trình bày bối cảnh, mẫu câu hội thoại, từ vựng theo chủ đề và bảng đối chiếu cách nói SAI — ĐÚNG. Từ tiếng Nhật có furigana (phiên âm hiragana nhỏ phía trên) cho các từ khó.
+
+## Bản quyền
+
+© 2026 Hizashi Teams. Sáng tác gốc.
+
+*Hizashi — Tia nắng đầu ngày trên hành trình thực tập sinh của bạn.*
+
+
+
 # T1. Đặt chân tới Nhật (日本に着いた日)
 
-> **Mục tiêu:** Học chào hỏi + jiko-shoukai chuẩn cho TTS mới sang Nhật, vocab sân bay / ký túc / 入社式, và phân biệt cách nói formal (sếp Nhật) vs casual (sempai VN cùng ký túc).
+> **Mục tiêu:** Học chào hỏi + jiko-shoukai chuẩn cho TTS mới sang Nhật, từ vựng sân bay / ký túc / 入社式, và phân biệt cách nói formal (sếp Nhật) vs casual (sempai VN cùng ký túc).
 
 ---
 
@@ -52,11 +91,11 @@ Tháng 4 năm 2026. Hoa, 22 tuổi, vừa hoàn thành N5 sau 6 tháng học t�
 | Sempai VN cùng ký túc | おはよう / Chào chị | Casual |
 | Bạn TTS khác nước (Andi) | おはよう / Hi | Casual |
 
-> ⚠️ **Quy tắc vàng**: Trong nhà máy → luôn formal. Trong ký túc → có thể casual với bạn cùng phòng.
+> **Quy tắc vàng**: Trong nhà máy → luôn formal. Trong ký túc → có thể casual với bạn cùng phòng.
 
 ---
 
-## 2. Vocab sân bay / hải quan
+## 2. Từ vựng sân bay / hải quan
 
 | Kanji | Hiragana | Romaji | Nghĩa |
 |---|---|---|---|
@@ -76,7 +115,7 @@ Tháng 4 năm 2026. Hoa, 22 tuổi, vừa hoàn thành N5 sau 6 tháng học t�
 
 ---
 
-## 3. Vocab ký túc + đời sống
+## 3. Từ vựng ký túc + đời sống
 
 | Kanji | Romaji | Nghĩa |
 |---|---|---|
@@ -94,7 +133,7 @@ Tháng 4 năm 2026. Hoa, 22 tuổi, vừa hoàn thành N5 sau 6 tháng học t�
 - Thứ 3: 資源ゴミ
 - Thứ 5: 燃えないゴミ
 
-> 💡 Đổ sai ngày → bị nhắc nhở. Lần đầu xem kỹ bảng dán cửa ký túc.
+> Đổ sai ngày → bị nhắc nhở. Lần đầu xem kỹ bảng dán cửa ký túc.
 
 ---
 
@@ -122,11 +161,11 @@ Tháng 4 năm 2026. Hoa, 22 tuổi, vừa hoàn thành N5 sau 6 tháng học t�
 - **Tóc**: Buộc gọn (nữ), cắt ngắn (nam)
 - **Trang sức**: Tối thiểu (chỉ đồng hồ + 1 đôi bông tai nhỏ)
 
-> ⚠️ KHÔNG mặc áo có hoa văn / màu sáng. KHÔNG đeo nhẫn (ngoại trừ nhẫn cưới).
+> KHÔNG mặc áo có hoa văn / màu sáng. KHÔNG đeo nhẫn (ngoại trừ nhẫn cưới).
 
 ---
 
-## 5. Vocab OTIT Orientation
+## 5. Từ vựng OTIT Orientation
 
 OTIT (<ruby>外国人技能実習機構<rt>がいこくじんぎのうじっしゅうきこう</rt></ruby>) là cơ quan giám sát thực tập sinh kỹ năng. Trong tháng đầu, Hoa phải tham gia khoá <ruby>講習会<rt>こうしゅうかい</rt></ruby> bắt buộc.
 
@@ -178,13 +217,13 @@ OTIT (<ruby>外国人技能実習機構<rt>がいこくじんぎのうじっし�
 | 「こちらこそ」 | "Tôi cũng vậy" — phản hồi lại lời cảm ơn / chào |
 | 「大丈夫です」 | Từ chối lịch sự — dùng được trong nhiều ngữ cảnh |
 
-> 💡 Khi sempai/sếp đề nghị giúp xách đồ, lần đầu nên từ chối lịch sự ("自分で持ちます"). Nếu họ đề nghị lần 2 → có thể nhận, nhưng vẫn cảm ơn nhiều.
+> Khi sempai/sếp đề nghị giúp xách đồ, lần đầu nên từ chối lịch sự ("自分で持ちます"). Nếu họ đề nghị lần 2 → có thể nhận, nhưng vẫn cảm ơn nhiều.
 
 ---
 
 ## 7. So sánh / Phân tích lỗi
 
-| ❌ SAI | ✅ ĐÚNG |
+| Cách nói SAI | Cách nói ĐÚNG |
 |---|---|
 | 私はホアだ。 | <ruby>私<rt>わたし</rt></ruby>はホアと<ruby>申<rt>もう</rt></ruby>します。 |
 | (Quá casual cho jiko-shoukai chính thức) | (Kenjougo phù hợp) |
@@ -197,7 +236,7 @@ OTIT (<ruby>外国人技能実習機構<rt>がいこくじんぎのうじっし�
 
 ---
 
-## 8. 📖 Vocab nhà máy hôm nay (ngày 1)
+## 8. Từ vựng nhà máy hôm nay (ngày 1)
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -222,43 +261,41 @@ OTIT (<ruby>外国人技能実習機構<rt>がいこくじんぎのうじっし�
 
 ---
 
-## 10. 💡 Mẹo ghi nhớ
+## 10. Mẹo ghi nhớ
 
 | Mẹo | Nội dung |
 |---|---|
-| 🔺 Cúi đầu rule | Sếp = 30°, sempai = 15°, bạn = gật nhẹ |
-| 🔻 「すみません」 vs 「ありがとう」 | Gây phiền = すみません. Được giúp = ありがとうございます |
-| 💡 LINE app | Cài LINE ngay ngày đầu — sempai sẽ rủ thêm vào group ký túc |
-| ⚠️ KHÔNG | Không đưa danh thiếp bằng 1 tay. Không bỏ ví/điện thoại trong túi đồng phục vào nhà máy |
+|  Cúi đầu rule | Sếp = 30°, sempai = 15°, bạn = gật nhẹ |
+|  「すみません」 vs 「ありがとう」 | Gây phiền = すみません. Được giúp = ありがとうございます |
+|  LINE app | Cài LINE ngay ngày đầu — sempai sẽ rủ thêm vào nhóm ký túc |
+|  KHÔNG | Không đưa danh thiếp bằng 1 tay. Không bỏ ví/điện thoại trong túi đồng phục vào nhà máy |
 
 ---
 
-## ✅ Mini check
+## Tự kiểm tra nhanh
 
 1. Câu nào dùng đúng kenjougo khi giới thiệu mình?
-   - A. 私はホアです。
-   - B. <ruby>私<rt>わたし</rt></ruby>はホアと<ruby>申<rt>もう</rt></ruby>します。
-   - C. 私、ホア。
+ - A. 私はホアです。
+ - B. <ruby>私<rt>わたし</rt></ruby>はホアと<ruby>申<rt>もう</rt></ruby>します。
+ - C. 私、ホア。
 
 2. Khi sếp giúp xách đồ lần đầu, nên trả lời:
-   - A. はい、お<ruby>願<rt>ねが</rt></ruby>いします。
-   - B. いえ、<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。<ruby>自分<rt>じぶん</rt></ruby>で<ruby>持<rt>も</rt></ruby>ちます。
-   - C. どうも。
+ - A. はい、お<ruby>願<rt>ねが</rt></ruby>いします。
+ - B. いえ、<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。<ruby>自分<rt>じぶん</rt></ruby>で<ruby>持<rt>も</rt></ruby>ちます。
+ - C. どうも。
 
 3. 在留カード phải mang theo:
-   - A. Khi đi làm
-   - B. Khi đi ra ngoài ký túc
-   - C. Mọi lúc, mọi nơi
+ - A. Khi đi làm
+ - B. Khi đi ra ngoài ký túc
+ - C. Mọi lúc, mọi nơi
 
-*(Đáp án: 1B, 2B, 3C — chi tiết xem BaiTap.json)*
+*(Đáp án: 1B, 2B, 3C)*
 
 
-
----
 
 # T2. Tuần đầu trong nhà máy (工場での最初の一週間)
 
-> **Mục tiêu:** Học vocab thiết bị nhà máy thực phẩm, quy trình mặc đồ bảo hộ + air shower, 5 nguyên tắc 5S, cold chain căn bản, và mẫu câu mệnh lệnh nhẹ ~てください.
+> **Mục tiêu:** Học từ vựng thiết bị nhà máy thực phẩm, quy trình mặc đồ bảo hộ + buồng thổi gió, 5 nguyên tắc 5S, chuỗi lạnh căn bản, và mẫu câu mệnh lệnh nhẹ ~てください.
 
 ---
 
@@ -268,7 +305,7 @@ Tuần đầu chính thức làm việc. 6:30 sáng Hoa cùng Linh-chị và And
 
 ---
 
-## 1. Quy trình mặc đồ bảo hộ — 10 bước (chuẩn industry 2024+)
+## 1. Quy trình mặc đồ bảo hộ — 10 bước (chuẩn ngành 2024+)
 
 | Bước | Việc làm | Thời gian | Lý do |
 |---|---|---|---|
@@ -281,19 +318,19 @@ Tuần đầu chính thức làm việc. 6:30 sáng Hoa cùng Linh-chị và And
 | 7 | Đi ủng (<ruby>長靴<rt>ながぐつ</rt></ruby>) | 30s | Trước khu sản xuất |
 | 8 | <ruby>粘着<rt>ねんちゃく</rt></ruby>ローラー (lint roller) lăn toàn bộ đồng phục | 30s | Loại tóc/sợi vải còn dính |
 | 9 | **Rửa tay 二度洗い + cồn → Đeo găng tay (<ruby>手袋<rt>てぶくろ</rt></ruby>)** | 90s | Găng tay cuối, sau tay đã sạch tuyệt đối |
-| 10 | Air shower 30 giây | 30s | Loại bụi cuối cùng |
+| 10 | Buồng thổi gió 30 giây | 30s | Loại bụi cuối cùng |
 
 **Tổng**: ~6 phút mỗi lần thay đồ. Mỗi ca 1 lần.
 
-> ⚠️ **Quy tắc vàng**: **Găng tay LUÔN là bước cuối cùng sau khi rửa tay 二度洗い + cồn**. Nếu đeo găng trước → đụng bề mặt bẩn → contamination ngay từ găng tay.
+> **Quy tắc vàng**: **Găng tay LUÔN là bước cuối cùng sau khi rửa tay 二度洗い + cồn**. Nếu đeo găng trước → đụng bề mặt bẩn → contamination ngay từ găng tay.
 
-> 💡 **Tóc rơi = recall**. 1 sợi tóc trong cơm hộp có thể khiến công ty mất hợp đồng triệu yen + uy tín.
+> **Tóc rơi = thu hồi sản phẩm**. 1 sợi tóc trong cơm hộp có thể khiến công ty mất hợp đồng triệu yen + uy tín.
 
 ---
 
-## 2. Vocab thiết bị nhà máy
+## 2. Từ vựng thiết bị nhà máy
 
-### 2.1 Thiết bị line cơm hộp
+### 2.1 Thiết bị dây chuyền cơm hộp
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -338,7 +375,7 @@ Tuần đầu chính thức làm việc. 6:30 sáng Hoa cùng Linh-chị và And
 | <ruby>清潔<rt>せいけつ</rt></ruby> | Seiketsu | Sạch sẽ duy trì | Giữ tiêu chuẩn 3 chữ trên |
 | <ruby>躾<rt>しつけ</rt></ruby> | Shitsuke | Kỷ luật | Tuân thủ thành thói quen |
 
-> 💡 **5S là gốc của HACCP**. Không 5S thì không thể HACCP, không thể audit ISO.
+> **5S là gốc của HACCP**. Không 5S thì không thể HACCP, không thể kiểm tra ISO.
 
 ### Quy tắc 5S thực tế trong ca làm
 
@@ -348,7 +385,7 @@ Tuần đầu chính thức làm việc. 6:30 sáng Hoa cùng Linh-chị và And
 
 ---
 
-## 4. Cold chain (chuỗi lạnh) căn bản
+## 4. Chuỗi lạnh căn bản
 
 ### 4.1 Nhiệt độ chuẩn
 
@@ -366,7 +403,7 @@ Tuần đầu chính thức làm việc. 6:30 sáng Hoa cùng Linh-chị và And
 - Tối đa **30 phút mỗi lần** vào kho −18°C
 - Ra ngoài → nghỉ 10 phút uống nước ấm
 
-> ⚠️ Vào kho lạnh quá lâu → <ruby>低体温症<rt>ていたいおんしょう</rt></ruby> (hạ thân nhiệt). Nếu cảm thấy run, mất cảm giác đầu ngón tay → ra NGAY.
+> Vào kho lạnh quá lâu → <ruby>低体温症<rt>ていたいおんしょう</rt></ruby> (hạ thân nhiệt). Nếu cảm thấy run, mất cảm giác đầu ngón tay → ra NGAY.
 
 ---
 
@@ -427,13 +464,13 @@ Tuần đầu chính thức làm việc. 6:30 sáng Hoa cùng Linh-chị và And
 - 「申し訳ございません」 = mức xin lỗi formal cao, dùng khi mắc lỗi với sempai/sếp
 - 「教えていただいて、ありがとうございます」 = chuyển negative thành positive — biến lời nhắc thành cơ hội cảm ơn. Đây là kỹ năng quan trọng nhất khi sempai nhắc nhở.
 
-> 💡 Khi bị nhắc nhở: **xin lỗi → sửa ngay → cảm ơn**. KHÔNG bào chữa "vì... vì...".
+> Khi bị nhắc nhở: **xin lỗi → sửa ngay → cảm ơn**. KHÔNG bào chữa "vì... vì...".
 
 ---
 
 ## 7. So sánh / Phân tích lỗi
 
-| ❌ SAI | ✅ ĐÚNG |
+| Cách nói SAI | Cách nói ĐÚNG |
 |---|---|
 | すみません、でも<ruby>暑<rt>あつ</rt></ruby>くて... | <ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。すぐ<ruby>直<rt>なお</rt></ruby>します。 |
 | (Bào chữa "tại nóng quá") | (Xin lỗi + sửa ngay, không bào chữa) |
@@ -446,7 +483,7 @@ Tuần đầu chính thức làm việc. 6:30 sáng Hoa cùng Linh-chị và And
 
 ---
 
-## 8. 📖 Vocab nhà máy hôm nay
+## 8. Từ vựng nhà máy hôm nay
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -465,7 +502,7 @@ Tuần đầu chính thức làm việc. 6:30 sáng Hoa cùng Linh-chị và And
 
 - **Mặc đồ bảo hộ**: 8 bước, ~5 phút, KHÔNG bỏ bước
 - **5S**: 整理・整頓・清掃・清潔・躾 — gốc của vệ sinh thực phẩm
-- **Cold chain**: Reizou 4°C / Reitou −18°C / vào kho ≤30 phút
+- **Chuỗi lạnh**: Reizou 4°C / Reitou −18°C / vào kho ≤30 phút
 - **Bị nhắc nhở**: Xin lỗi → sửa ngay → cảm ơn (KHÔNG bào chữa)
 - **~てください**: Mệnh lệnh chuẩn nhà máy, lịch sự, OK với mọi đồng nghiệp
 
@@ -473,49 +510,47 @@ Tuần đầu chính thức làm việc. 6:30 sáng Hoa cùng Linh-chị và And
 
 ---
 
-## 10. 💡 Mẹo ghi nhớ
+## 10. Mẹo ghi nhớ
 
 | Mẹo | Nội dung |
 |---|---|
-| 🔺 8 bước bảo hộ | Đếm theo thứ tự "Giày → Áo → Mũ → Khẩu trang → Găng → Tạp dề → Ủng → Air" |
-| 🔻 5S nhớ nhanh | "Sàng-Sắp-Sạch-Sạch-Self" (S cuối = Self-discipline) |
-| 💡 Kho lạnh | Đặt báo thức 25 phút trên đồng hồ — tự ra trước 30 phút |
-| ⚠️ Kimura | Đừng sợ, sempai khắt khe = sempai có trách nhiệm. Cảm ơn chân thành = giảm tension |
+|  8 bước bảo hộ | Đếm theo thứ tự "Giày → Áo → Mũ → Khẩu trang → Găng → Tạp dề → Ủng → Air" |
+|  5S nhớ nhanh | "Sàng-Sắp-Sạch-Sạch-Self" (S cuối = Self-discipline) |
+|  Kho lạnh | Đặt báo thức 25 phút trên đồng hồ — tự ra trước 30 phút |
+|  Kimura | Đừng sợ, sempai khắt khe = sempai có trách nhiệm. Cảm ơn chân thành = giảm tension |
 
 ---
 
-## ✅ Mini check
+## Tự kiểm tra nhanh
 
 1. Tổng cộng 5S có bao nhiêu chữ?
-   - A. 4 chữ
-   - B. 5 chữ
-   - C. 6 chữ
+ - A. 4 chữ
+ - B. 5 chữ
+ - C. 6 chữ
 
 2. Khi sempai nhắc nhở, câu trả lời tốt nhất là:
-   - A. すみません、でも...
-   - B. <ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。すぐ<ruby>直<rt>なお</rt></ruby>します。
-   - C. はい、<ruby>分<rt>わ</rt></ruby>かりました。
+ - A. すみません、でも...
+ - B. <ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。すぐ<ruby>直<rt>なお</rt></ruby>します。
+ - C. はい、<ruby>分<rt>わ</rt></ruby>かりました。
 
 3. Nhiệt độ chuẩn của 冷凍 là:
-   - A. 0°C
-   - B. −10°C
-   - C. ≤ −18°C
+ - A. 0°C
+ - B. −10°C
+ - C. ≤ −18°C
 
 *(Đáp án: 1B, 2B, 3C)*
 
 
 
----
-
 # T3. Quy tắc vệ sinh thực phẩm (食品衛生のルール)
 
-> **Mục tiêu:** Học quy trình rửa tay 30s/7 bước, HACCP 7 nguyên tắc (overview), 9 chất allergen bắt buộc + 19 khuyến nghị (chuẩn 2026), và thủ tục 検便 hàng tháng cho nhân viên ngành thực phẩm.
+> **Mục tiêu:** Học quy trình rửa tay 30s/7 bước, HACCP 7 nguyên tắc (tổng quan), 9 chất gây dị ứng bắt buộc + 19 khuyến nghị (chuẩn 2026), và thủ tục 検便 hàng tháng cho nhân viên ngành thực phẩm.
 
 ---
 
 ## Bối cảnh
 
-Tháng 6, sắp vào mùa hè. Nhiệt độ tăng = vi khuẩn sinh sôi nhanh = vệ sinh thực phẩm trở thành ưu tiên số 1. Suzuki-shidouin tổ chức buổi học HACCP intro 2 tiếng cho toàn bộ TTS năm 1. Sau đó Takahashi-san (QC manager) đích thân dạy quy trình rửa tay chuẩn. Kimura-san vẫn theo sát Hoa, nhắc lại 1 lần khi Hoa rửa chưa đủ 30 giây.
+Tháng 6, sắp vào mùa hè. Nhiệt độ tăng = vi khuẩn sinh sôi nhanh = vệ sinh thực phẩm trở thành ưu tiên số 1. Suzuki-shidouin tổ chức buổi học giới thiệu HACCP 2 tiếng cho toàn bộ TTS năm 1. Sau đó Takahashi-san (quản lý chất lượng) đích thân dạy quy trình rửa tay chuẩn. Kimura-san vẫn theo sát Hoa, nhắc lại 1 lần khi Hoa rửa chưa đủ 30 giây.
 
 ---
 
@@ -535,9 +570,9 @@ Tháng 6, sắp vào mùa hè. Nhiệt độ tăng = vi khuẩn sinh sôi nhanh 
 
 **Tổng**: 30 giây tối thiểu cho **mỗi lần** rửa.
 
-### 1.2 二度洗い (Nido-arai — Rửa kép) — Industry standard 2024+
+### 1.2 二度洗い (Nido-arai — Rửa kép) — Tiêu chuẩn ngành 2024+
 
-Sau COVID, FSSC 22000 update yêu cầu **rửa 2 lần liên tiếp** cho nhà máy thực phẩm chế biến trực tiếp:
+Sau COVID, FSSC 22000 cập nhật yêu cầu **rửa 2 lần liên tiếp** cho nhà máy thực phẩm chế biến trực tiếp:
 
 ```
 Lần 1: 30s xà phòng → rửa sạch
@@ -550,24 +585,24 @@ Lần 2: 30s xà phòng → rửa sạch
 
 ### 1.3 Mẹo đo thời gian
 
-> 💡 Hát thầm bài hát "ABC" (alphabet) **2 lần** = đúng 30 giây cho mỗi lần. Tổng nido-arai = ABC × 4 lần.
+> Hát thầm bài hát "ABC" (alphabet) **2 lần** = đúng 30 giây cho mỗi lần. Tổng nido-arai = ABC × 4 lần.
 
 ### 1.4 Khi nào phải rửa tay
 
 - **Bắt buộc**:
-  - Trước khi vào khu sản xuất
-  - Sau khi đi vệ sinh
-  - Sau khi ăn / uống nước
-  - Sau khi xì mũi / ho / hắt hơi
-  - Sau khi chạm tóc / mặt
-  - Sau khi cầm thùng rác
+ - Trước khi vào khu sản xuất
+ - Sau khi đi vệ sinh
+ - Sau khi ăn / uống nước
+ - Sau khi xì mũi / ho / hắt hơi
+ - Sau khi chạm tóc / mặt
+ - Sau khi cầm thùng rác
 - **Khuyến nghị**:
-  - Mỗi 1 giờ trong ca làm
-  - Sau khi đổi sản phẩm khác (cross-contamination)
+ - Mỗi 1 giờ trong ca làm
+ - Sau khi đổi sản phẩm khác (tránh nhiễm chéo)
 
 ---
 
-## 2. HACCP — 7 nguyên tắc + 12 bước (overview)
+## 2. HACCP — 7 nguyên tắc + 12 bước (tổng quan)
 
 ### 2.1 HACCP là gì?
 
@@ -587,18 +622,18 @@ HACCP = **H**azard **A**nalysis and **C**ritical **C**ontrol **P**oints (危害�
 | 6 | <ruby>検証<rt>けんしょう</rt></ruby> | Kenshou | Xác minh |
 | 7 | <ruby>記録<rt>きろく</rt></ruby> | Kiroku | Ghi chép |
 
-> 💡 Cho TTS năm 1: chỉ cần thuộc **nguyên tắc 4 (Monitoring) + 5 (Kaizen)** — đó là việc làm hàng ngày của em.
+> Cho TTS năm 1: chỉ cần thuộc **nguyên tắc 4 (Giám sát) + 5 (Kaizen)** — đó là việc làm hàng ngày của em.
 
 ### 2.3 Việc TTS phải làm
 
-- **Monitoring**: Đo nhiệt độ, kiểm tra nhãn, đếm số lượng theo lịch
+- **Giám sát (Monitoring)**: Đo nhiệt độ, kiểm tra nhãn, đếm số lượng theo lịch
 - **Kaizen**: Khi phát hiện bất thường → báo Satou/Kimura ngay, KHÔNG tự ý sửa
 
 ---
 
-## 3. Allergen — 9 特定原材料 mandatory (chuẩn 2026/4)
+## 3. Chất gây dị ứng — 9 特定原材料 bắt buộc (chuẩn 2026/4)
 
-### 3.1 Danh sách 9 chất bắt buộc ghi label
+### 3.1 Danh sách 9 chất bắt buộc ghi nhãn
 
 | # | Tiếng Nhật | Romaji | Tiếng Việt | Có trong gì |
 |---|---|---|---|---|
@@ -612,23 +647,23 @@ HACCP = **H**azard **A**nalysis and **C**ritical **C**ontrol **P**oints (危害�
 | 8 | くるみ | kurumi | Óc chó | Bánh, salad |
 | 9 | **カシューナッツ** | **cashew nuts** | **Hạt điều** | **Bánh, kẹo (mới thêm 4/2026)** |
 
-> ⚠️ **9 chất này BẮT BUỘC ghi label** theo luật Shokuhin Hyouji Hou. Vi phạm = recall + phạt.
+> **9 chất này BẮT BUỘC ghi nhãn** theo luật Shokuhin Hyouji Hou. Vi phạm = thu hồi sản phẩm + phạt.
 
-### 3.2 Tại sao 2026 thêm cashew?
+### 3.2 Tại sao 2026 thêm hạt điều?
 
-Năm 2026, sau nhiều ca sốc phản vệ liên quan đến hạt điều (đặc biệt ở trẻ em), Cơ quan Bảo vệ Người tiêu dùng (CAA - 消費者庁) đã chính thức bổ sung cashew vào danh sách bắt buộc. Trước đó cashew chỉ ở mức khuyến nghị.
+Năm 2026, sau nhiều ca sốc phản vệ liên quan đến hạt điều (đặc biệt ở trẻ em), Cơ quan Bảo vệ Người tiêu dùng (CAA - 消費者庁) đã chính thức bổ sung hạt điều vào danh sách bắt buộc. Trước đó hạt điều chỉ ở mức khuyến nghị.
 
 ### 3.3 経過措置期間 (Giai đoạn chuyển tiếp) — 2 năm
 
-> ⚠️ **Quan trọng**: Có giai đoạn chuyển tiếp **2 năm** (2026/4 → 2028/3/31). Trong giai đoạn này:
-> - Sản phẩm cũ chưa ghi cashew **vẫn lưu thông được** (không phải recall)
-> - Sản phẩm mới phải có label cashew từ 2026/4
+> **Quan trọng**: Có giai đoạn chuyển tiếp **2 năm** (2026/4 → 2028/3/31). Trong giai đoạn này:
+> - Sản phẩm cũ chưa ghi hạt điều **vẫn lưu thông được** (không phải thu hồi)
+> - Sản phẩm mới phải có nhãn hạt điều từ 2026/4
 >
-> → TTS thấy hộp cũ trên kệ siêu thị **đừng panic** — đó là 経過措置.
+> → TTS thấy hộp cũ trên kệ siêu thị **đừng lo** — đó là 経過措置.
 
 ---
 
-## 4. Allergen — 20 推奨表示 recommended (chuẩn 2026/4)
+## 4. Chất gây dị ứng — 20 推奨表示 khuyến nghị (chuẩn 2026/4)
 
 | Tiếng Nhật | Romaji | Tiếng Việt |
 |---|---|---|
@@ -653,29 +688,29 @@ Năm 2026, sau nhiều ca sốc phản vệ liên quan đến hạt điều (đ�
 | ゼラチン | gelatin | Gelatin |
 | **ピスタチオ** | **pistachio** | **Hạt dẻ cười (mới thêm 2026/4)** |
 
-> 💡 20 chất này KHUYẾN NGHỊ ghi label, không bắt buộc nhưng các công ty lớn thường đều ghi để tránh kiện tụng. Pistachio vừa được thêm cùng đợt với cashew (4/2026).
+> 20 chất này KHUYẾN NGHỊ ghi nhãn, không bắt buộc nhưng các công ty lớn thường đều ghi để tránh kiện tụng. Hạt dẻ cười (ピスタチオ) vừa được thêm cùng đợt với hạt điều (4/2026).
 
 ---
 
-## 5. Cross-contamination prevention (ngăn nhiễm chéo)
+## 5. Ngăn nhiễm chéo
 
-### 5.1 Color-coded utensils
+### 5.1 Dụng cụ phân màu theo loại thực phẩm
 
 Hệ thống dụng cụ phân màu theo loại thực phẩm:
 
 | Màu | Loại |
 |---|---|
-| 🔴 Đỏ | Thịt sống |
-| 🔵 Xanh dương | Cá / hải sản |
-| 🟢 Xanh lá | Rau / trái cây |
-| 🟡 Vàng | Gia cầm |
-| ⚪ Trắng | Sản phẩm chín / sẵn ăn |
+|  Đỏ | Thịt sống |
+|  Xanh dương | Cá / hải sản |
+|  Xanh lá | Rau / trái cây |
+|  Vàng | Gia cầm |
+|  Trắng | Sản phẩm chín / sẵn ăn |
 
 ### 5.2 Quy tắc
 
 - KHÔNG dùng dao thớt loại này cho loại khác
-- Vệ sinh + tiệt trùng giữa các lô SP có / không allergen
-- Line allergen có khu vực riêng + nhân viên riêng
+- Vệ sinh + tiệt trùng giữa các lô sản phẩm có / không chất gây dị ứng
+- Dây chuyền chất gây dị ứng có khu vực riêng + nhân viên riêng
 
 ---
 
@@ -700,12 +735,12 @@ Hệ thống dụng cụ phân màu theo loại thực phẩm:
 3. Mang đến nhà máy 8:00 → nộp phòng y tế
 4. Kết quả < 1 tuần
 5. Nếu (+) dương tính:
-   - Báo ngay sếp
-   - Tạm nghỉ + khám bệnh viện
-   - Điều trị xong → xét nghiệm lại
-   - Âm tính 2 lần liên tiếp → quay lại làm
+ - Báo ngay sếp
+ - Tạm nghỉ + khám bệnh viện
+ - Điều trị xong → xét nghiệm lại
+ - Âm tính 2 lần liên tiếp → quay lại làm
 
-> ⚠️ Cố ý đi làm khi 検便 (+) = vi phạm luật + có thể gây bùng phát ngộ độc thực phẩm = sa thải + truy cứu trách nhiệm.
+> Cố ý đi làm khi 検便 (+) = vi phạm luật + có thể gây bùng phát ngộ độc thực phẩm = sa thải + truy cứu trách nhiệm.
 
 ---
 
@@ -739,18 +774,18 @@ Hệ thống dụng cụ phân màu theo loại thực phẩm:
 - 「<ruby>歌<rt>うた</rt></ruby>うといいよ」 = "hát thì tốt đấy" — ~といい construction = lời khuyên nhẹ
 - Kimura tuy khắt khe nhưng dạy mẹo (ABC 2 lần) → thực ra là sempai có tâm.
 
-> 💡 Khi sempai dạy mẹo → ghi nhớ + áp dụng + cảm ơn. Đây là cách xây dựng lòng tin.
+> Khi sempai dạy mẹo → ghi nhớ + áp dụng + cảm ơn. Đây là cách xây dựng lòng tin.
 
 ---
 
 ## 8. So sánh / Phân tích lỗi
 
-| ❌ SAI | ✅ ĐÚNG |
+| Cách nói SAI | Cách nói ĐÚNG |
 |---|---|
 | <ruby>手<rt>て</rt></ruby>を10<ruby>秒<rt>びょう</rt></ruby><ruby>洗<rt>あら</rt></ruby>う | <ruby>手<rt>て</rt></ruby>を30<ruby>秒<rt>びょう</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>洗<rt>あら</rt></ruby>う |
 | (Không đủ thời gian) | (Tối thiểu 30s) |
 | アレルゲンは8つ | アレルゲンは9つ (2026/4以降) |
-| (List cũ, thiếu cashew) | (Chuẩn mới có cashew) |
+| (Danh sách cũ, thiếu hạt điều) | (Chuẩn mới có hạt điều) |
 | <ruby>検便<rt>けんべん</rt></ruby>(+)でも<ruby>働<rt>はたら</rt></ruby>く | <ruby>検便<rt>けんべん</rt></ruby>(+)→ <ruby>休<rt>やす</rt></ruby>む + <ruby>病院<rt>びょういん</rt></ruby> |
 | (Vi phạm luật) | (Bắt buộc nghỉ) |
 | <ruby>赤<rt>あか</rt></ruby>い<ruby>包丁<rt>ほうちょう</rt></ruby>で<ruby>野菜<rt>やさい</rt></ruby>を<ruby>切<rt>き</rt></ruby>る | <ruby>緑<rt>みどり</rt></ruby>の<ruby>包丁<rt>ほうちょう</rt></ruby>で<ruby>野菜<rt>やさい</rt></ruby>を<ruby>切<rt>き</rt></ruby>る |
@@ -758,7 +793,7 @@ Hệ thống dụng cụ phân màu theo loại thực phẩm:
 
 ---
 
-## 9. 📖 Vocab vệ sinh hôm nay
+## 9. Từ vựng vệ sinh hôm nay
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -776,64 +811,62 @@ Hệ thống dụng cụ phân màu theo loại thực phẩm:
 ## 10. Tổng kết
 
 - **Rửa tay**: 30s, 7 bước, ABC × 2 lần
-- **HACCP**: 7 nguyên tắc, TTS focus #4 Monitoring + #5 Kaizen
-- **Allergen 2026**: **9 mandatory** (gồm cashew mới) + **19 recommended**
-- **Cross-contamination**: Color-coded utensils — KHÔNG dùng nhầm
+- **HACCP**: 7 nguyên tắc, TTS tập trung #4 Giám sát + #5 Kaizen
+- **Chất gây dị ứng 2026**: **9 bắt buộc** (gồm hạt điều mới) + **19 khuyến nghị**
+- **Nhiễm chéo**: Dụng cụ phân màu — KHÔNG dùng nhầm
 - **検便**: Hàng tháng, (+) phải nghỉ + điều trị, KHÔNG cố đi làm
 
 > **Quy tắc vàng:** *Vệ sinh không phải tốn thời gian — vệ sinh chính là công việc.*
 
 ---
 
-## 11. 💡 Mẹo ghi nhớ
+## 11. Mẹo ghi nhớ
 
 | Mẹo | Nội dung |
 |---|---|
-| 🔺 30 giây = ABC × 2 | Hát thầm để tự đếm |
-| 🔻 9 allergen mandatory | "卵・乳・小麦・そば・落花生・えび・かに・くるみ・カシュー" — học thuộc lòng |
-| 💡 Color code | Đỏ-thịt / Xanh-cá / Lá-rau / Vàng-gà / Trắng-chín |
-| ⚠️ 検便 (+) | KHÔNG đến nhà máy. Báo Suzuki ngay |
+|  30 giây = ABC × 2 | Hát thầm để tự đếm |
+|  9 chất gây dị ứng bắt buộc | "卵・乳・小麦・そば・落花生・えび・かに・くるみ・カシュー" — học thuộc lòng |
+|  Mã màu | Đỏ-thịt / Xanh-cá / Lá-rau / Vàng-gà / Trắng-chín |
+|  検便 (+) | KHÔNG đến nhà máy. Báo Suzuki ngay |
 
 ---
 
-## ✅ Mini check
+## Tự kiểm tra nhanh
 
 1. Rửa tay tối thiểu bao nhiêu giây?
-   - A. 15 giây
-   - B. 30 giây
-   - C. 60 giây
+ - A. 15 giây
+ - B. 30 giây
+ - C. 60 giây
 
-2. Năm 2026, danh sách allergen mandatory có:
-   - A. 7 chất
-   - B. 8 chất
-   - C. 9 chất (gồm cashew mới)
+2. Năm 2026, danh sách chất gây dị ứng bắt buộc có:
+ - A. 7 chất
+ - B. 8 chất
+ - C. 9 chất (gồm hạt điều mới)
 
 3. Khi 検便 cho kết quả dương tính, bạn nên:
-   - A. Cố gắng đi làm
-   - B. Nghỉ + đi bệnh viện + báo Suzuki
-   - C. Đợi kết quả lần 2
+ - A. Cố gắng đi làm
+ - B. Nghỉ + đi bệnh viện + báo Suzuki
+ - C. Đợi kết quả lần 2
 
 *(Đáp án: 1B, 2C, 3B)*
 
 
 
----
-
 # T4. Lần đầu đứng dây chuyền (初めてのライン作業)
 
-> **Mục tiêu:** Học vocab line operation, hou-ren-sou (報・連・相) intro, signature phrase 「異常があったら、すぐ呼んでください」, KAIZEN căn bản, và cụm xác nhận かしこまりました/承知しました.
+> **Mục tiêu:** Học từ vựng thao tác dây chuyền, hou-ren-sou (報・連・相) giới thiệu, signature phrase 「異常があったら、すぐ呼んでください」, KAIZEN căn bản, và cụm xác nhận かしこまりました/承知しました.
 
 ---
 
 ## Bối cảnh
 
-Tháng 7. Sau 2 tháng tập huấn vệ sinh, Hoa chính thức được Tanaka-buchou cho đứng line cơm hộp 弁当, vị trí トッピング (đặt rau củ trên cơm). Sáng đầu tiên Satou-senpai đứng kế bên hướng dẫn nhịp. Trưa máy báo lỗi nhỏ — Hoa lúng túng nhưng học được cụm 「異常があります」. Cuối tháng được rotate sang line đông lạnh −18°C, lạnh tê tay, Yamada chia sẻ tip giữ ấm.
+Tháng 7. Sau 2 tháng tập huấn vệ sinh, Hoa chính thức được Tanaka-buchou cho đứng dây chuyền cơm hộp 弁当, vị trí トッピング (đặt rau củ trên cơm). Sáng đầu tiên Satou-senpai đứng kế bên hướng dẫn nhịp. Trưa máy báo lỗi nhỏ — Hoa lúng túng nhưng học được cụm 「異常があります」. Cuối tháng được luân chuyển sang dây chuyền đông lạnh −18°C, lạnh tê tay, Yamada chia sẻ mẹo giữ ấm.
 
 ---
 
-## 1. Vocab line operation
+## 1. Từ vựng thao tác dây chuyền
 
-### 1.1 Việc làm trên line
+### 1.1 Việc làm trên dây chuyền
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -846,7 +879,7 @@ Tháng 7. Sau 2 tháng tập huấn vệ sinh, Hoa chính thức được Tanaka
 | <ruby>箱詰<rt>はこづ</rt></ruby>め | hakozume | Đóng thùng |
 | <ruby>出荷<rt>しゅっか</rt></ruby> | shukka | Xuất hàng |
 
-### 1.2 Vocab tình trạng máy
+### 1.2 Từ vựng tình trạng máy
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -860,18 +893,18 @@ Tháng 7. Sau 2 tháng tập huấn vệ sinh, Hoa chính thức được Tanaka
 
 ---
 
-## 2. Quy tắc đứng line — 5 điều cốt lõi
+## 2. Quy tắc đứng dây chuyền — 5 điều cốt lõi
 
-### 2.1 KHÔNG rời line tự ý
+### 2.1 KHÔNG rời dây chuyền tự ý
 
 - Muốn đi vệ sinh / uống nước → giơ tay → đợi sempai thay ca đến thay
-- Tuyệt đối KHÔNG bỏ vị trí trống → line dừng = lỗ tiền + ảnh hưởng cả tổ
+- Tuyệt đối KHÔNG bỏ vị trí trống → dây chuyền dừng = lỗ tiền + ảnh hưởng cả tổ
 
 ### 2.2 Nhịp tay đều
 
 - Mỗi vị trí có nhịp chuẩn (vd 3 giây/cơm hộp)
 - Quá nhanh → lỗi sai vị trí
-- Quá chậm → ùn line phía sau
+- Quá chậm → ùn dây chuyền phía sau
 
 ### 2.3 Mắt luôn nhìn vào sản phẩm
 
@@ -893,7 +926,7 @@ Tháng 7. Sau 2 tháng tập huấn vệ sinh, Hoa chính thức được Tanaka
 
 ---
 
-## 3. Hou-ren-sou (報・連・相) — Intro
+## 3. Hou-ren-sou (報・連・相) — Giới thiệu
 
 ### 3.1 Định nghĩa
 
@@ -910,16 +943,16 @@ Tháng 7. Sau 2 tháng tập huấn vệ sinh, Hoa chính thức được Tanaka
 | Loại | Mục đích | Ví dụ |
 |---|---|---|
 | 報告 | Báo việc đã/đang xảy ra | "Em đã đóng xong 1000 hộp" |
-| 連絡 | Truyền thông tin | "Hôm nay 3:00 có audit, mọi người đeo khẩu trang mới" |
+| 連絡 | Truyền thông tin | "Hôm nay 3:00 có thanh tra, mọi người đeo khẩu trang mới" |
 | 相談 | Hỏi ý kiến trước khi quyết | "Em định đổi vị trí, anh thấy sao?" |
 
-### 3.3 Quy tắc Hou-ren-sou ở line
+### 3.3 Quy tắc Hou-ren-sou ở dây chuyền
 
 - **Báo SỚM**: Nghi ngờ có lỗi → báo ngay, KHÔNG đợi confirm
 - **Báo NGẮN**: 1-2 câu, không lan man
 - **Báo CỤ THỂ**: 5W1H (When/Where/Who/What/Why/How)
 
-> 💡 **Báo sai 10 lần còn hơn không báo 1 lần đúng.**
+> **Báo sai 10 lần còn hơn không báo 1 lần đúng.**
 
 ---
 
@@ -962,17 +995,17 @@ Mỗi nhân viên (kể cả TTS) có **quyền + trách nhiệm** đề xuất 
 
 | Vấn đề | KAIZEN đơn giản |
 |---|---|
-| Đi xa lấy dụng cụ | Để gần line hơn |
+| Đi xa lấy dụng cụ | Để gần dây chuyền hơn |
 | Khó với tay lên kệ cao | Đặt thang phụ |
-| Tắc đường chuyền lúc 10:00 | Tăng người vị trí đó từ 9:50 |
-| Đèn LED line tối | Báo bảo trì thay |
+| Tắc dây chuyền lúc 10:00 | Tăng người vị trí đó từ 9:50 |
+| Đèn LED dây chuyền tối | Báo bảo trì thay |
 
 ### 5.3 Cách đề xuất
 
 - **Bằng miệng**: 「ちょっと<ruby>提案<rt>ていあん</rt></ruby>があるんですが」 → trình bày ngắn
 - **Bằng giấy**: Phiếu KAIZEN (nhà máy thường có hộp đề xuất)
 
-> 💡 KAIZEN = không cần lớn lao. 1 cải tiến tiết kiệm 10 giây/ca = 5 giờ/năm cho cả tổ.
+> KAIZEN = không cần lớn lao. 1 cải tiến tiết kiệm 10 giây/ca = 5 giờ/năm cho cả tổ.
 
 ---
 
@@ -986,13 +1019,13 @@ Mỗi nhân viên (kể cả TTS) có **quyền + trách nhiệm** đề xuất 
 | <ruby>了解<rt>りょうかい</rt></ruby>です | ryoukai desu | Casual | Bạn cùng cấp (KHÔNG dùng với sếp) |
 | <ruby>承知<rt>しょうち</rt></ruby>いたしました | shouchi itashimashita | Rất cao | Khách VIP |
 
-> ⚠️ 「<ruby>了解<rt>りょうかい</rt></ruby>です」 KHÔNG dùng với sếp. Nhiều TTS mới hay sai chỗ này.
+> 「<ruby>了解<rt>りょうかい</rt></ruby>です」 KHÔNG dùng với sếp. Nhiều TTS mới hay sai chỗ này.
 
 ---
 
 ## 7. Tình huống mẫu — Hoa lần đầu báo lỗi
 
-**Cảnh: Line cơm hộp, 11:30 AM**
+**Cảnh: Dây chuyền cơm hộp, 11:30 AM**
 
 > *(Máy topping đột ngột phát tiếng "ピーピー" — alarm bất thường)*
 >
@@ -1036,20 +1069,20 @@ Mỗi nhân viên (kể cả TTS) có **quyền + trách nhiệm** đề xuất 
 
 ## 8. So sánh / Phân tích lỗi
 
-| ❌ SAI | ✅ ĐÚNG |
+| Cách nói SAI | Cách nói ĐÚNG |
 |---|---|
 | <ruby>機械<rt>きかい</rt></ruby>がうるさい... どうしよう... | <ruby>異常<rt>いじょう</rt></ruby>があります! |
 | (Lan man, không hành động) | (Báo ngay + cụm chuẩn) |
 | <ruby>分<rt>わ</rt></ruby>からない、<ruby>後<rt>あと</rt></ruby>で<ruby>聞<rt>き</rt></ruby>く | すぐ<ruby>聞<rt>き</rt></ruby>く |
 | (Đợi = mất thời gian + lỗi tăng) | (Hỏi ngay) |
-| トイレに<ruby>行<rt>い</rt></ruby>ってきます (rời line) | <ruby>佐藤<rt>さとう</rt></ruby>さん、トイレ<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですか? |
+| トイレに<ruby>行<rt>い</rt></ruby>ってきます (rời dây chuyền) | <ruby>佐藤<rt>さとう</rt></ruby>さん、トイレ<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですか? |
 | (Tự ý rời) | (Xin phép, đợi người thay ca) |
 | <ruby>了解<rt>りょうかい</rt></ruby>です (với sếp) | <ruby>承知<rt>しょうち</rt></ruby>しました / かしこまりました |
 | (Casual, sai ngữ cảnh) | (Formal đúng) |
 
 ---
 
-## 9. 📖 Vocab nhà máy hôm nay
+## 9. Từ vựng nhà máy hôm nay
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -1070,55 +1103,53 @@ Mỗi nhân viên (kể cả TTS) có **quyền + trách nhiệm** đề xuất 
 - **Cụm signature**: 「<ruby>異常<rt>いじょう</rt></ruby>があります」 — học thuộc để báo ngay khi có bất thường
 - **KAIZEN**: Cải tiến nhỏ hàng ngày, mọi người đều có quyền đề xuất
 - **Xác nhận với sếp**: かしこまりました / <ruby>承知<rt>しょうち</rt></ruby>しました (KHÔNG <ruby>了解<rt>りょうかい</rt></ruby>です)
-- **Rời line**: Phải xin sempai, đợi người thay ca
+- **Rời dây chuyền**: Phải xin sempai, đợi người thay ca
 
-> **Quy tắc vàng:** *Báo sớm, báo ngắn, báo cụ thể. Im lặng là lỗi nặng nhất ở line.*
+> **Quy tắc vàng:** *Báo sớm, báo ngắn, báo cụ thể. Im lặng là lỗi nặng nhất ở dây chuyền.*
 
 ---
 
-## 11. 💡 Mẹo ghi nhớ
+## 11. Mẹo ghi nhớ
 
 | Mẹo | Nội dung |
 |---|---|
-| 🔺 Hou-Ren-Sou | "Báo - Liên - Tư" (3 chữ đầu) |
-| 🔻 「異常があります」 | Học thuộc lòng — chỉ 1 cụm này cứu được rất nhiều tình huống |
-| 💡 Kho lạnh | Nhét miếng dán giữ nhiệt (カイロ) trong áo khoác |
-| ⚠️ KHÔNG nói "了解です" với sếp | Dùng "承知しました" hoặc "かしこまりました" |
+|  Hou-Ren-Sou | "Báo - Liên - Tư" (3 chữ đầu) |
+|  「異常があります」 | Học thuộc lòng — chỉ 1 cụm này cứu được rất nhiều tình huống |
+|  Kho lạnh | Nhét miếng dán giữ nhiệt (カイロ) trong áo khoác |
+|  KHÔNG nói "了解です" với sếp | Dùng "承知しました" hoặc "かしこまりました" |
 
 ---
 
-## ✅ Mini check
+## Tự kiểm tra nhanh
 
 1. 報・連・相 viết đầy đủ là gì?
-   - A. <ruby>報酬<rt>ほうしゅう</rt></ruby>・<ruby>連絡<rt>れんらく</rt></ruby>・<ruby>相談<rt>そうだん</rt></ruby>
-   - B. <ruby>報告<rt>ほうこく</rt></ruby>・<ruby>連絡<rt>れんらく</rt></ruby>・<ruby>相談<rt>そうだん</rt></ruby>
-   - C. <ruby>報告<rt>ほうこく</rt></ruby>・<ruby>連絡<rt>れんらく</rt></ruby>・<ruby>相手<rt>あいて</rt></ruby>
+ - A. <ruby>報酬<rt>ほうしゅう</rt></ruby>・<ruby>連絡<rt>れんらく</rt></ruby>・<ruby>相談<rt>そうだん</rt></ruby>
+ - B. <ruby>報告<rt>ほうこく</rt></ruby>・<ruby>連絡<rt>れんらく</rt></ruby>・<ruby>相談<rt>そうだん</rt></ruby>
+ - C. <ruby>報告<rt>ほうこく</rt></ruby>・<ruby>連絡<rt>れんらく</rt></ruby>・<ruby>相手<rt>あいて</rt></ruby>
 
 2. Khi máy báo lỗi, câu đầu tiên nên nói:
-   - A. どうしよう...
-   - B. <ruby>異常<rt>いじょう</rt></ruby>があります!
-   - C. ちょっと<ruby>待<rt>ま</rt></ruby>ってください
+ - A. どうしよう...
+ - B. <ruby>異常<rt>いじょう</rt></ruby>があります!
+ - C. ちょっと<ruby>待<rt>ま</rt></ruby>ってください
 
 3. Khi sếp giao việc, đáp lời nào ĐÚNG nhất:
-   - A. <ruby>了解<rt>りょうかい</rt></ruby>です
-   - B. かしこまりました / <ruby>承知<rt>しょうち</rt></ruby>しました
-   - C. うん、わかった
+ - A. <ruby>了解<rt>りょうかい</rt></ruby>です
+ - B. かしこまりました / <ruby>承知<rt>しょうち</rt></ruby>しました
+ - C. うん、わかった
 
 *(Đáp án: 1B, 2B, 3B)*
 
 
 
----
-
 # T5. Lần đầu mắc lỗi (初めての失敗)
 
-> **Mục tiêu:** Học kenjougo / sonkeigo intro qua tình huống thực, 4 cấp độ xin lỗi, vocab unhappy (不良品/異物混入/クレーム/回収), trace lot căn bản, và cách viết báo cáo lỗi 5W1H.
+> **Mục tiêu:** Học kenjougo / sonkeigo giới thiệu qua tình huống thực, 4 cấp độ xin lỗi, từ vựng sự cố (不良品/異物混入/クレーム/回収), truy xuất lô căn bản, và cách viết báo cáo lỗi 5W1H.
 
 ---
 
 ## Bối cảnh
 
-Tháng 8, ca chiều. Hoa quên bước kiểm tra màu cơm trước đóng gói. 200 hộp đi xuống line, đến 検品 mới phát hiện 1 mảnh nhựa nhỏ (≤ 2mm) lẫn trong nhân. Toàn bộ 200 hộp bị giữ lại. Takahashi-san (QC) gọi Hoa lên phòng. Lần đầu Hoa phải đứng trước Tanaka-buchou báo cáo lỗi cá nhân. Văn hoá Nhật: lỗi là cơ hội KAIZEN, không phải để trừng phạt — nhưng cách xin lỗi + báo cáo phải đúng quy tắc.
+Tháng 8, ca chiều. Hoa quên bước kiểm tra màu cơm trước đóng gói. 200 hộp đi xuống dây chuyền, đến 検品 mới phát hiện 1 mảnh nhựa nhỏ (≤ 2mm) lẫn trong nhân. Toàn bộ 200 hộp bị giữ lại. Takahashi-san (QC) gọi Hoa lên phòng. Lần đầu Hoa phải đứng trước Tanaka-buchou báo cáo lỗi cá nhân. Văn hoá Nhật: lỗi là cơ hội KAIZEN, không phải để trừng phạt — nhưng cách xin lỗi + báo cáo phải đúng quy tắc.
 
 ---
 
@@ -1129,13 +1160,13 @@ Tháng 8, ca chiều. Hoa quên bước kiểm tra màu cơm trước đóng gó
 | 1. Cảnh báo | <ruby>注意<rt>ちゅうい</rt></ruby> | Sửa ngay, không ảnh hưởng |
 | 2. Hàng lỗi nội bộ | <ruby>不良品<rt>ふりょうひん</rt></ruby> | Loại bỏ trước khi xuất, KAIZEN |
 | 3. Phải thu hồi | <ruby>回収<rt>かいしゅう</rt></ruby> | Báo khách, thu hộp đã giao |
-| 4. Recall (toàn quốc) | リコール | Báo CAA, media, recall lô |
+| 4. Thu hồi (toàn quốc) | リコール | Báo CAA, truyền thông, thu hồi lô |
 
-> ⚠️ Lỗi của Hoa thuộc **mức 2 (不良品)** — chưa xuất hàng, chỉ ảnh hưởng nội bộ. Nếu đã xuất → mức 3.
+> Lỗi của Hoa thuộc **mức 2 (不良品)** — chưa xuất hàng, chỉ ảnh hưởng nội bộ. Nếu đã xuất → mức 3 (thu hồi).
 
 ---
 
-## 2. Keigo intro — Qua tình huống thực
+## 2. Giới thiệu keigo — Qua tình huống thực
 
 ### 2.1 3 nhóm keigo cốt lõi
 
@@ -1164,7 +1195,7 @@ Chủ ngữ là MÌNH → Kenjougo
 | <ruby>食<rt>た</rt></ruby>べる | <ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がる | いただく |
 | <ruby>見<rt>み</rt></ruby>る | <ruby>御覧<rt>ごらん</rt></ruby>になる | <ruby>拝見<rt>はいけん</rt></ruby>する |
 
-### 2.4 Ví dụ ở line
+### 2.4 Ví dụ ở dây chuyền
 
 | Câu thường | Sonkeigo / Kenjougo |
 |---|---|
@@ -1173,7 +1204,7 @@ Chủ ngữ là MÌNH → Kenjougo
 | <ruby>私<rt>わたし</rt></ruby>がします。 | <ruby>私<rt>わたし</rt></ruby>が<ruby>致<rt>いた</rt></ruby>します。 |
 | <ruby>部長<rt>ぶちょう</rt></ruby>、これ<ruby>見<rt>み</rt></ruby>てください。 | <ruby>部長<rt>ぶちょう</rt></ruby>、こちらを<ruby>御覧<rt>ごらん</rt></ruby>ください。 |
 
-> 💡 Lỗi phổ biến: Dùng sonkeigo cho hành động của MÌNH (vd 「<ruby>私<rt>わたし</rt></ruby>がいらっしゃいます」 → SAI). Quy tắc: **mình = kenjougo, người trên = sonkeigo**.
+> Lỗi phổ biến: Dùng sonkeigo cho hành động của MÌNH (vd 「<ruby>私<rt>わたし</rt></ruby>がいらっしゃいます」 → SAI). Quy tắc: **mình = kenjougo, người trên = sonkeigo**.
 
 ---
 
@@ -1184,7 +1215,7 @@ Chủ ngữ là MÌNH → Kenjougo
 | 1. Nhẹ | すみません | Chen ngang, gây bất tiện nhỏ |
 | 2. Vừa | ごめんなさい | Lỗi cá nhân, với bạn / sempai gần |
 | 3. Nặng | <ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません | Mắc lỗi công việc với sếp / khách |
-| 4. Rất nặng | <ruby>深<rt>ふか</rt></ruby>くお<ruby>詫<rt>わ</rt></ruby>び<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます | Crisis lớn, recall, scandal |
+| 4. Rất nặng | <ruby>深<rt>ふか</rt></ruby>くお<ruby>詫<rt>わ</rt></ruby>び<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます | Khủng hoảng lớn, thu hồi sản phẩm, bê bối |
 
 ### 3.1 Cấu trúc xin lỗi đầy đủ
 
@@ -1201,11 +1232,11 @@ Chủ ngữ là MÌNH → Kenjougo
 
 *(Em xin lỗi. Em đã quên bước kiểm tra topping. Là do em thiếu chú ý. Từ nay em sẽ dùng bảng kiểm để ngăn tái phạm.)*
 
-> 💡 KHÔNG bào chữa "vì máy hỏng / vì bận" → biến cớ = càng tệ hơn lỗi.
+> KHÔNG bào chữa "vì máy hỏng / vì bận" → biến cớ = càng tệ hơn lỗi.
 
 ---
 
-## 4. Vocab unhappy
+## 4. Từ vựng sự cố
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -1213,7 +1244,7 @@ Chủ ngữ là MÌNH → Kenjougo
 | <ruby>異物<rt>いぶつ</rt></ruby><ruby>混入<rt>こんにゅう</rt></ruby> | ibutsu konnyuu | Lẫn dị vật |
 | クレーム | kureemu | Khiếu nại của khách |
 | <ruby>回収<rt>かいしゅう</rt></ruby> | kaishuu | Thu hồi |
-| リコール | rikooru | Recall (toàn quốc) |
+| リコール | rikooru | Thu hồi (toàn quốc) |
 | <ruby>注意不足<rt>ちゅういぶそく</rt></ruby> | chuui busoku | Thiếu chú ý |
 | <ruby>確認漏<rt>かくにんも</rt></ruby>れ | kakunin-more | Bỏ sót kiểm tra |
 | <ruby>再発防止<rt>さいはつぼうし</rt></ruby> | saihatsu boushi | Ngăn tái phạm |
@@ -1222,33 +1253,33 @@ Chủ ngữ là MÌNH → Kenjougo
 
 ---
 
-## 5. Trace Lot — Truy xuất
+## 5. Truy xuất lô hàng
 
-### 5.1 Trace Lot là gì?
+### 5.1 Truy xuất lô hàng là gì?
 
-Mỗi lô sản xuất có **Lot Number** duy nhất. Trace lot = từ Lot Number, có thể truy ngược / truy xuôi:
+Mỗi lô sản xuất có **mã lô** duy nhất. Truy xuất lô = từ mã lô, có thể truy ngược / truy xuôi:
 
 - **Truy ngược**: Từ thành phẩm → biết nguyên liệu nào, ai làm, máy nào
 - **Truy xuôi**: Từ nguyên liệu lỗi → biết đã xuất sang khách nào
 
-### 5.2 Quy trình trace khi có lỗi
+### 5.2 Quy trình truy xuất khi có lỗi
 
 ```
-1. Thành phẩm lỗi → Lot Number
-2. Database → ngày sản xuất, ca, line, nhân viên
-3. Nguyên liệu cùng lot → kho có còn không?
-4. Sản phẩm cùng lot đã xuất → khách nào?
+1. Thành phẩm lỗi → mã lô
+2. Cơ sở dữ liệu → ngày sản xuất, ca, dây chuyền, nhân viên
+3. Nguyên liệu cùng lô → kho có còn không?
+4. Sản phẩm cùng lô đã xuất → khách nào?
 5. Quyết định: thu hồi 1 lô hay nhiều lô?
 ```
 
-### 5.3 Lot Number của Hoa
+### 5.3 Mã lô của Hoa
 
-> Vd Lot **20260815-A2-T3** =
+> Vd mã lô **20260815-A2-T3** =
 > - 2026-08-15 (ngày)
-> - A2 (line A2)
+> - A2 (dây chuyền A2)
 > - T3 (ca 3)
 
-→ Mỗi mã trên là 1 dimension để filter khi cần thu hồi.
+→ Mỗi mã trên là 1 chiều lọc khi cần thu hồi.
 
 ---
 
@@ -1259,7 +1290,7 @@ Mỗi lô sản xuất có **Lot Number** duy nhất. Trace lot = từ Lot Numbe
 | Câu hỏi | Tiếng Nhật | Nội dung |
 |---|---|---|
 | When | いつ | Ngày, giờ phát hiện |
-| Where | どこで | Line, vị trí |
+| Where | どこで | Dây chuyền, vị trí |
 | Who | <ruby>誰<rt>だれ</rt></ruby>が | Người liên quan |
 | What | <ruby>何<rt>なに</rt></ruby>が | Hiện tượng (gì xảy ra) |
 | Why | なぜ | Nguyên nhân |
@@ -1272,10 +1303,10 @@ Mỗi lô sản xuất có **Lot Number** duy nhất. Trace lot = từ Lot Numbe
 
 When : 2026年8月15日 14:30
 Where: ライン A2、トッピング<ruby>工程<rt>こうてい</rt></ruby>
-Who  : ホア(<ruby>担当<rt>たんとう</rt></ruby>)、<ruby>佐藤<rt>さとう</rt></ruby>(<ruby>確認者<rt>かくにんしゃ</rt></ruby>)
+Who : ホア(<ruby>担当<rt>たんとう</rt></ruby>)、<ruby>佐藤<rt>さとう</rt></ruby>(<ruby>確認者<rt>かくにんしゃ</rt></ruby>)
 What : <ruby>弁当<rt>べんとう</rt></ruby>200<ruby>個<rt>こ</rt></ruby>に<ruby>異物<rt>いぶつ</rt></ruby>(プラスチック2mm)<ruby>混入<rt>こんにゅう</rt></ruby>の<ruby>疑<rt>うたが</rt></ruby>い
-Why  : トッピング<ruby>前<rt>まえ</rt></ruby>の<ruby>原料<rt>げんりょう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れた
-How  : <ruby>金属探知機<rt>きんぞくたんちき</rt></ruby>では<ruby>検出<rt>けんしゅつ</rt></ruby>されず、<ruby>目視<rt>もくし</rt></ruby><ruby>検品<rt>けんぴん</rt></ruby>で<ruby>発見<rt>はっけん</rt></ruby>
+Why : トッピング<ruby>前<rt>まえ</rt></ruby>の<ruby>原料<rt>げんりょう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れた
+How : <ruby>金属探知機<rt>きんぞくたんちき</rt></ruby>では<ruby>検出<rt>けんしゅつ</rt></ruby>されず、<ruby>目視<rt>もくし</rt></ruby><ruby>検品<rt>けんぴん</rt></ruby>で<ruby>発見<rt>はっけん</rt></ruby>
 
 <ruby>対策<rt>たいさく</rt></ruby>:
 1. 200<ruby>個<rt>こ</rt></ruby>すべて<ruby>廃棄<rt>はいき</rt></ruby>
@@ -1285,7 +1316,7 @@ How  : <ruby>金属探知機<rt>きんぞくたんちき</rt></ruby>では<ruby>
 
 ---
 
-## 7. 5 Why Analysis — Tìm root cause
+## 7. Phân tích 5 Tại sao — Tìm nguyên nhân gốc
 
 ### 7.1 Nguyên tắc
 
@@ -1313,7 +1344,7 @@ A5: Vì SOP cũ không yêu cầu
 → KAIZEN: Cập nhật SOP, in bảng kiểm mới, tập huấn lại
 ```
 
-> 💡 5 Why không phải để đổ lỗi cá nhân — mà để sửa hệ thống.
+> Phân tích 5 Tại sao không phải để đổ lỗi cá nhân — mà để sửa hệ thống.
 
 ---
 
@@ -1331,7 +1362,7 @@ A5: Vì SOP cũ không yêu cầu
 > *(Có thể giải thích tình huống không?)*
 >
 > **Hoa**: はい。<ruby>本日<rt>ほんじつ</rt></ruby>14<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>、ライン A2 で<ruby>弁当<rt>べんとう</rt></ruby>200<ruby>個<rt>こ</rt></ruby>に<ruby>異物<rt>いぶつ</rt></ruby><ruby>混入<rt>こんにゅう</rt></ruby>の<ruby>疑<rt>うたが</rt></ruby>いがございました。<ruby>原因<rt>げんいん</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>のトッピング<ruby>前<rt>まえ</rt></ruby>の<ruby>原料<rt>げんりょう</rt></ruby><ruby>確認漏<rt>かくにんも</rt></ruby>れでございます。<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。
-> *(Vâng. Hôm nay 14:30, tại line A2, có 200 hộp cơm bị nghi nhiễm dị vật. Nguyên nhân là em đã bỏ sót bước kiểm tra nguyên liệu trước khi topping. Em xin lỗi.)*
+> *(Vâng. Hôm nay 14:30, tại dây chuyền A2, có 200 hộp cơm bị nghi nhiễm dị vật. Nguyên nhân là em đã bỏ sót bước kiểm tra nguyên liệu trước khi topping. Em xin lỗi.)*
 >
 > **Tanaka**: わかった。200<ruby>個<rt>こ</rt></ruby>はもう<ruby>廃棄<rt>はいき</rt></ruby>した?
 > *(Hiểu rồi. 200 hộp đã hủy chưa?)*
@@ -1350,13 +1381,13 @@ A5: Vì SOP cũ không yêu cầu
 - Hoa **dùng kenjougo cho mình** (「<ruby>致<rt>いた</rt></ruby>しました」「ございます」) — chuẩn formal
 - **Cấu trúc báo cáo**: When → What → Why → Apology — đúng order
 - Tanaka **không la mắng** mà nói "lỗi ai cũng có" → văn hoá Nhật về thất bại
-- Tanaka kết bằng hành động cụ thể (phân tích 5 Why) → KAIZEN-driven
+- Tanaka kết bằng hành động cụ thể (phân tích 5 Tại sao) → KAIZEN-driven
 
 ---
 
 ## 9. So sánh / Phân tích lỗi
 
-| ❌ SAI | ✅ ĐÚNG |
+| Cách nói SAI | Cách nói ĐÚNG |
 |---|---|
 | <ruby>機械<rt>きかい</rt></ruby>のせいです。 | <ruby>私<rt>わたし</rt></ruby>の<ruby>確認漏<rt>かくにんも</rt></ruby>れです。 |
 | (Đổ lỗi máy) | (Nhận trách nhiệm) |
@@ -1369,15 +1400,15 @@ A5: Vì SOP cũ không yêu cầu
 
 ---
 
-## 10. 📖 Vocab hôm nay
+## 10. Từ vựng hôm nay
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
 | <ruby>廃棄<rt>はいき</rt></ruby> | haiki | Tiêu hủy |
 | <ruby>分析<rt>ぶんせき</rt></ruby> | bunseki | Phân tích |
-| <ruby>真因<rt>しんいん</rt></ruby> | shin'in | Nguyên nhân thật sự (root cause) |
+| <ruby>真因<rt>しんいん</rt></ruby> | shin'in | Nguyên nhân gốc rễ |
 | <ruby>是正<rt>ぜせい</rt></ruby> | zesei | Khắc phục |
-| <ruby>水平展開<rt>すいへいてんかい</rt></ruby> | suihei tenkai | Mở rộng (áp dụng KAIZEN sang line khác) |
+| <ruby>水平展開<rt>すいへいてんかい</rt></ruby> | suihei tenkai | Mở rộng (áp dụng KAIZEN sang dây chuyền khác) |
 | <ruby>歯止<rt>はど</rt></ruby>め | hadome | Phanh (ngăn lặp lại) |
 
 ---
@@ -1387,50 +1418,48 @@ A5: Vì SOP cũ không yêu cầu
 - **Sonkeigo / Kenjougo**: Sếp = sonkeigo, mình = kenjougo
 - **4 cấp xin lỗi**: すみません < ごめんなさい < <ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません < <ruby>深<rt>ふか</rt></ruby>くお<ruby>詫<rt>わ</rt></ruby>び
 - **Báo cáo lỗi**: 5W1H + KHÔNG bào chữa
-- **5 Why**: Tìm root cause, không đổ lỗi cá nhân
-- **Trace Lot**: Mỗi lô có Lot Number → truy ngược/xuôi khi cần thu hồi
+- **5 Tại sao**: Tìm nguyên nhân gốc, không đổ lỗi cá nhân
+- **Truy xuất lô**: Mỗi lô có mã lô → truy ngược/xuôi khi cần thu hồi
 
 > **Quy tắc vàng:** *Ai cũng mắc lỗi. Sếp Nhật quan tâm "đã KAIZEN gì" hơn là "ai có lỗi".*
 
 ---
 
-## 12. 💡 Mẹo ghi nhớ
+## 12. Mẹo ghi nhớ
 
 | Mẹo | Nội dung |
 |---|---|
-| 🔺 Sonkeigo vs Kenjougo | "Người TRÊN dùng SON, người DƯỚI dùng KEN" |
-| 🔻 Xin lỗi 3 bước | Cụm xin lỗi → Mô tả lỗi → Cam kết khắc phục |
-| 💡 5 Why | Đếm tay 5 lần "tại sao" — không dừng lại ở Why thứ 1-2 |
-| ⚠️ KHÔNG bào chữa | "Vì máy / vì người khác / vì bận" = càng tệ hơn lỗi gốc |
+|  Sonkeigo vs Kenjougo | "Người TRÊN dùng SON, người DƯỚI dùng KEN" |
+|  Xin lỗi 3 bước | Cụm xin lỗi → Mô tả lỗi → Cam kết khắc phục |
+|  5 Tại sao | Đếm tay 5 lần "tại sao" — không dừng lại ở câu thứ 1-2 |
+|  KHÔNG bào chữa | "Vì máy / vì người khác / vì bận" = càng tệ hơn lỗi gốc |
 
 ---
 
-## ✅ Mini check
+## Tự kiểm tra nhanh
 
 1. Mức xin lỗi cao nhất là:
-   - A. すみません
-   - B. <ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません
-   - C. <ruby>深<rt>ふか</rt></ruby>くお<ruby>詫<rt>わ</rt></ruby>び<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます
+ - A. すみません
+ - B. <ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません
+ - C. <ruby>深<rt>ふか</rt></ruby>くお<ruby>詫<rt>わ</rt></ruby>び<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます
 
 2. "Tôi đi" trong kenjougo:
-   - A. <ruby>行<rt>い</rt></ruby>きます
-   - B. <ruby>参<rt>まい</rt></ruby>ります
-   - C. いらっしゃいます
+ - A. <ruby>行<rt>い</rt></ruby>きます
+ - B. <ruby>参<rt>まい</rt></ruby>ります
+ - C. いらっしゃいます
 
-3. 5 Why analysis dùng để:
-   - A. Đổ lỗi cá nhân
-   - B. Tìm root cause + KAIZEN hệ thống
-   - C. Báo cáo cho khách
+3. Phân tích 5 Tại sao dùng để:
+ - A. Đổ lỗi cá nhân
+ - B. Tìm nguyên nhân gốc + KAIZEN hệ thống
+ - C. Báo cáo cho khách
 
 *(Đáp án: 1C, 2B, 3B)*
 
 
 
----
-
 # T6. Nửa năm — Đánh giá giữa kỳ (中間面接 — 半年間の振り返り)
 
-> **Mục tiêu:** Học cụm trình bày trong mensetsu (~について / ~と考えております), keigo trung cấp (~させていただきます / お~いたします), vocab đánh giá (評価/目標/反省/改善点), và intro Tokutei Ginou.
+> **Mục tiêu:** Học cụm trình bày trong mensetsu (~について / ~と考えております), keigo trung cấp (~させていただきます / お~いたします), từ vựng đánh giá (評価/目標/反省/改善点), và giới thiệu Tokutei Ginou.
 
 ---
 
@@ -1472,10 +1501,10 @@ Tháng 9. 6 tháng đã qua kể từ khi Hoa sang Nhật. Suzuki-shidouin tổ 
 ### 2.2 Cấu trúc 4 phần
 
 ```
-1. <ruby>強<rt>つよ</rt></ruby>み (Strengths) — 3 điểm mạnh đã thể hiện
-2. <ruby>弱<rt>よわ</rt></ruby>み (Weaknesses) — 2-3 điểm cần cải thiện
-3. <ruby>学<rt>まな</rt></ruby>んだこと (Learnings) — 3 bài học cụ thể
-4. <ruby>次<rt>つぎ</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby> (Next goals) — 3 mục tiêu nửa năm sau (CỤ THỂ + đo được)
+1. <ruby>強<rt>つよ</rt></ruby>み (Điểm mạnh) — 3 điểm mạnh đã thể hiện
+2. <ruby>弱<rt>よわ</rt></ruby>み (Điểm yếu) — 2-3 điểm cần cải thiện
+3. <ruby>学<rt>まな</rt></ruby>んだこと (Bài học) — 3 bài học cụ thể
+4. <ruby>次<rt>つぎ</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby> (Mục tiêu tiếp theo) — 3 mục tiêu nửa năm sau (CỤ THỂ + đo được)
 ```
 
 ### 2.3 Mẫu hansei của Hoa
@@ -1503,7 +1532,7 @@ Tháng 9. 6 tháng đã qua kể từ khi Hoa sang Nhật. Suzuki-shidouin tổ 
 3. <ruby>食品衛生責任者<rt>しょくひんえいせいせきにんしゃ</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>める
 ```
 
-> 💡 Mục tiêu phải **CỤ THỂ + ĐO ĐƯỢC** — không "cố gắng hơn", mà "N4 trước 12/2026".
+> Mục tiêu phải **CỤ THỂ + ĐO ĐƯỢC** — không "cố gắng hơn", mà "N4 trước 12/2026".
 
 ---
 
@@ -1544,7 +1573,7 @@ Tháng 9. 6 tháng đã qua kể từ khi Hoa sang Nhật. Suzuki-shidouin tổ 
 | <ruby>休<rt>やす</rt></ruby>みます | <ruby>休<rt>やす</rt></ruby>ませていただきます |
 | <ruby>説明<rt>せつめい</rt></ruby>します | <ruby>説明<rt>せつめい</rt></ruby>させていただきます |
 
-> 💡 Dùng khi xin phép sếp / khách. KHÔNG lạm dụng — quá nhiều = ngược tôn ti.
+> Dùng khi xin phép sếp / khách. KHÔNG lạm dụng — quá nhiều = ngược tôn ti.
 
 ### 4.2 お~いたします (kenjougo cao)
 
@@ -1566,7 +1595,7 @@ Tháng 9. 6 tháng đã qua kể từ khi Hoa sang Nhật. Suzuki-shidouin tổ 
 
 ---
 
-## 5. Vocab đánh giá
+## 5. Từ vựng đánh giá
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -1590,17 +1619,17 @@ Tháng 9. 6 tháng đã qua kể từ khi Hoa sang Nhật. Suzuki-shidouin tổ 
 - **Cơ quan giám sát chính** TTS Nhật
 - **Quyền**: 巡回指導 (junkai shidou — kiểm tra định kỳ tại nhà máy)
 - **Hỗ trợ TTS**:
-  - Hotline tiếng mẹ đẻ (VN, Indo, Phil, Trung)
-  - Tư vấn khi bị bóc lột / bạo lực
-  - Hỗ trợ chuyển công ty nếu công ty cũ vi phạm
+ - Hotline tiếng mẹ đẻ (VN, Indo, Phil, Trung)
+ - Tư vấn khi bị bóc lột / bạo lực
+ - Hỗ trợ chuyển công ty nếu công ty cũ vi phạm
 
 ### 6.2 JITCO (公益財団法人 国際人材協力機構)
 
 - **Tổ chức phi lợi nhuận** hỗ trợ TTS
 - **Dịch vụ**:
-  - 母国語相談 (tư vấn tiếng mẹ đẻ qua điện thoại)
-  - Tài liệu học tiếng Nhật miễn phí
-  - Khoá huấn luyện cho 指導員
+ - 母国語相談 (tư vấn tiếng mẹ đẻ qua điện thoại)
+ - Tài liệu học tiếng Nhật miễn phí
+ - Khoá huấn luyện cho 指導員
 
 ### 6.3 Khi nào TTS dùng
 
@@ -1614,7 +1643,7 @@ Tháng 9. 6 tháng đã qua kể từ khi Hoa sang Nhật. Suzuki-shidouin tổ 
 
 ---
 
-## 7. Tokutei Ginou (特定技能) — Intro
+## 7. Tokutei Ginou (特定技能) — Giới thiệu
 
 ### 7.1 Tokutei Ginou là gì?
 
@@ -1631,19 +1660,19 @@ Chế độ visa mới (2019) cho phép người nước ngoài làm việc lâu
 
 ```
 TTS 3 năm (技能実習1号→2号→3号)
-   ↓
+ ↓
 Auto-eligible chuyển 特定技能1号 (không cần thi nếu N3+)
-   ↓
+ ↓
 Làm 5 năm 特定技能1号
-   ↓
+ ↓
 Thi 特定技能2号 evaluation test
-   ↓
+ ↓
 特定技能2号: lương cao + gia đình + đường tới vĩnh trú
 ```
 
 ### 7.4 育成就労 2027 — Chế độ mới
 
-> ⚠️ Năm 2027 (1/4), chế độ 技能実習 sẽ bị thay bằng **育成就労 (Ikusei Shuurou)**. Hoa nhập 4/2026 → có thể chuyển tiếp sang Ikusei sau 3 năm. Sẽ học chi tiết ở T11.
+> Năm 2027 (1/4), chế độ 技能実習 sẽ bị thay bằng **育成就労 (Ikusei Shuurou)**. Hoa nhập 4/2026 → có thể chuyển tiếp sang Ikusei sau 3 năm. Sẽ học chi tiết ở T11.
 
 ---
 
@@ -1692,7 +1721,7 @@ Thi 特定技能2号 evaluation test
 
 ## 9. So sánh / Phân tích lỗi
 
-| ❌ SAI | ✅ ĐÚNG |
+| Cách nói SAI | Cách nói ĐÚNG |
 |---|---|
 | <ruby>頑張<rt>がんば</rt></ruby>ります! | N4 <ruby>合格<rt>ごうかく</rt></ruby>を12<ruby>月<rt>がつ</rt></ruby>に |
 | (Vague, không đo được) | (Cụ thể + deadline) |
@@ -1705,7 +1734,7 @@ Thi 特定技能2号 evaluation test
 
 ---
 
-## 10. 📖 Vocab hôm nay
+## 10. Từ vựng hôm nay
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -1722,7 +1751,7 @@ Thi 特定技能2号 evaluation test
 ## 11. Tổng kết
 
 - **中間面接**: 6 tháng/lần, bắt buộc, cấu trúc 5 phần
-- **反省 4 phần**: Strengths → Weaknesses → Learnings → Goals
+- **反省 4 phần**: Điểm mạnh → Điểm yếu → Bài học → Mục tiêu
 - **Mục tiêu**: CỤ THỂ + ĐO ĐƯỢC + có DEADLINE
 - **Keigo trung cấp**: ~させていただきます / お~いたします / ~ております
 - **Tokutei Ginou**: Hạng 1号 (5 năm) → 2号 (vô hạn). Auto-eligible từ TTS 3 năm.
@@ -1731,43 +1760,41 @@ Thi 特定技能2号 evaluation test
 
 ---
 
-## 12. 💡 Mẹo ghi nhớ
+## 12. Mẹo ghi nhớ
 
 | Mẹo | Nội dung |
 |---|---|
-| 🔺 4 phần hansei | Strength → Weakness → Learning → Goal |
-| 🔻 Mục tiêu SMART | Specific, Measurable, Achievable, Relevant, Time-bound |
-| 💡 Suzuki | 指導員 là đồng minh, không phải sếp — chia sẻ thật khó khăn |
-| ⚠️ KHÔNG nói "頑張ります" trống | Phải có data: "X trước Y" |
+|  4 phần hansei | Điểm mạnh → Điểm yếu → Bài học → Mục tiêu |
+|  Mục tiêu cụ thể | Cụ thể, Đo được, Thực tế, Phù hợp, Có thời hạn |
+|  Suzuki | 指導員 là đồng minh, không phải sếp — chia sẻ thật khó khăn |
+|  KHÔNG nói "頑張ります" trống | Phải có con số cụ thể: "X trước Y" |
 
 ---
 
-## ✅ Mini check
+## Tự kiểm tra nhanh
 
 1. 中間面接 tổ chức bao lâu/lần?
-   - A. 3 tháng
-   - B. 6 tháng
-   - C. 1 năm
+ - A. 3 tháng
+ - B. 6 tháng
+ - C. 1 năm
 
 2. "Em đang nghĩ rằng" trong keigo trung cấp:
-   - A. <ruby>思<rt>おも</rt></ruby>っています
-   - B. <ruby>考<rt>かんが</rt></ruby>えております
-   - C. <ruby>思<rt>おも</rt></ruby>うです
+ - A. <ruby>思<rt>おも</rt></ruby>っています
+ - B. <ruby>考<rt>かんが</rt></ruby>えております
+ - C. <ruby>思<rt>おも</rt></ruby>うです
 
 3. 特定技能1号 có thời hạn bao lâu?
-   - A. 3 năm
-   - B. 5 năm
-   - C. Vô hạn
+ - A. 3 năm
+ - B. 5 năm
+ - C. Vô hạn
 
 *(Đáp án: 1B, 2B, 3B)*
 
 
 
----
-
 # T7. Mùa thu — Lễ hội & Đời sống (秋祭りと暮らし)
 
-> **Mục tiêu:** Học casual JP (formal vs casual phân biệt), Saitama dialect nhẹ, cách xin 有休 (yuukyuu), vocab matsuri (屋台/神輿/浴衣), và đọc 給与明細 (pay slip).
+> **Mục tiêu:** Học casual JP (formal vs casual phân biệt), Saitama dialect nhẹ, cách xin 有休 (yuukyuu), từ vựng matsuri (屋台/神輿/浴衣), và đọc 給与明細 (phiếu lương).
 
 ---
 
@@ -1782,8 +1809,8 @@ Tháng 10. Mùa cao điểm cơm hộp (lễ hội + Halloween + tour mùa thu) 
 ### 1.1 Quy tắc cốt lõi
 
 ```
-Trong nhà máy / với sếp     → FORMAL (です/ます)
-Ký túc / với bạn / matsuri  → CASUAL OK
+Trong nhà máy / với sếp → FORMAL (です/ます)
+Ký túc / với bạn / matsuri → CASUAL OK
 ```
 
 ### 1.2 Bảng đối chiếu formal vs casual
@@ -1804,7 +1831,7 @@ Ký túc / với bạn / matsuri  → CASUAL OK
 - **「~わよ」「~かしら」「~なの」** — phong cách nữ truyền thống, phụ nữ trẻ Nhật ngày nay ít dùng
 - **An toàn cho TTS nữ**: dùng casual neutral — bỏ ます/です nhưng KHÔNG thêm particle gender
 
-> 💡 Hoa ở matsuri có thể nói "<ruby>美味<rt>おい</rt></ruby>しい!" thay vì "<ruby>美味<rt>おい</rt></ruby>しいですね!" — tự nhiên hơn nhiều.
+> Hoa ở matsuri có thể nói "<ruby>美味<rt>おい</rt></ruby>しい!" thay vì "<ruby>美味<rt>おい</rt></ruby>しいですね!" — tự nhiên hơn nhiều.
 
 ---
 
@@ -1812,9 +1839,9 @@ Ký túc / với bạn / matsuri  → CASUAL OK
 
 ### 2.1 Đặc điểm
 
-Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có vài expression nhẹ:
+Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có vài cách nói địa phương nhẹ:
 
-| Saitama | Standard | Nghĩa |
+| Tiếng Saitama | Tiếng chuẩn | Nghĩa |
 |---|---|---|
 | ~だべ | ~でしょう | ... phải không / chắc là |
 | ~なんだよね | ~なんですよ | Nói thật là ~ |
@@ -1829,7 +1856,7 @@ Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có 
 | この<ruby>店<rt>みせ</rt></ruby>、<ruby>有名<rt>ゆうめい</rt></ruby>なんだよね。 | Quán này nổi tiếng đấy. |
 | そうじゃん。 | Thì đúng rồi mà. |
 
-> 💡 Yamada-san người Saitama gốc, hay dùng "~だべ". Hoa nghe + hiểu là đủ, không cần học để dùng (có thể nghe lạ tai khi người nước ngoài dùng dialect).
+> Yamada-san người Saitama gốc, hay dùng "~だべ". Hoa nghe + hiểu là đủ, không cần học để dùng (có thể nghe lạ tai khi người nước ngoài dùng dialect).
 
 ---
 
@@ -1859,7 +1886,7 @@ Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có 
 | Lý do (optional) | <ruby>東京<rt>とうきょう</rt></ruby>に<ruby>用事<rt>ようじ</rt></ruby>がありまして... |
 | Cảm ơn | ありがとうございます。 |
 
-> 💡 Luật KHÔNG yêu cầu nói lý do. Nhưng văn hoá Nhật → nói lý do "用事" (việc riêng) cho lịch sự.
+> Luật KHÔNG yêu cầu nói lý do. Nhưng văn hoá Nhật → nói lý do "用事" (việc riêng) cho lịch sự.
 
 ### 3.4 Khi nào KHÔNG nên xin
 
@@ -1876,7 +1903,7 @@ Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
 | <ruby>祭<rt>まつ</rt></ruby>り | matsuri | Lễ hội |
-| <ruby>屋台<rt>やたい</rt></ruby> | yatai | Quầy hàng (food stall) |
+| <ruby>屋台<rt>やたい</rt></ruby> | yatai | Quầy hàng (gian hàng ăn) |
 | <ruby>神輿<rt>みこし</rt></ruby> | mikoshi | Kiệu rước thần |
 | <ruby>山車<rt>だし</rt></ruby> | dashi | Xe rước (gỗ to, đặc trưng Kawagoe) |
 | <ruby>花火<rt>はなび</rt></ruby> | hanabi | Pháo hoa |
@@ -1915,7 +1942,7 @@ Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có 
 | 基本給 | Lương cơ bản (¥1,141 × 173.8h) | ¥198,300 |
 | 残業手当 | Phụ cấp tăng ca | ¥38,000 |
 | 通勤手当 | Trợ cấp đi lại | ¥10,000 |
-| | **Subtotal** | **¥246,300** |
+| | **Tổng cộng** | **¥246,300** |
 
 **【控除】 Khấu trừ:**
 
@@ -1927,7 +1954,7 @@ Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có 
 | 所得税 | Thuế thu nhập | ¥5,000 |
 | 住民税 | Thuế cư trú | ¥6,500 |
 | 寮費 | Tiền ký túc | ¥30,000 |
-| | **Subtotal** | **¥71,000** |
+| | **Tổng cộng** | **¥71,000** |
 
 **【手取り】 Tiền cầm về thực tế: ¥175,300**
 
@@ -1975,7 +2002,7 @@ Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có 
 > *(Vâng, em muốn đi Tokyo gặp bạn. Là ngày sau Kawagoe Matsuri ạ...)*
 >
 > **Suzuki**: あ、<ruby>祭<rt>まつ</rt></ruby>りの<ruby>後<rt>あと</rt></ruby>ね。<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>。<ruby>申請書<rt>しんせいしょ</rt></ruby>を<ruby>書<rt>か</rt></ruby>いて、ライン<ruby>長<rt>ちょう</rt></ruby>の<ruby>佐藤<rt>さとう</rt></ruby>さんにも<ruby>伝<rt>つた</rt></ruby>えておいて。
-> *(À, sau lễ hội. Được. Viết đơn đi, nhớ báo cả Satou-san trưởng line.)*
+> *(À, sau lễ hội. Được. Viết đơn đi, nhớ báo cả Satou-san trưởng dây chuyền.)*
 >
 > **Hoa**: ありがとうございます。すぐに<ruby>書<rt>か</rt></ruby>かせていただきます。
 > *(Cảm ơn anh. Em viết ngay.)*
@@ -1988,13 +2015,13 @@ Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có 
 - 「ちょっとよろしいでしょうか」 = câu mở chuẩn khi muốn xin gì
 - 「~たいんですが、よろしいでしょうか」 = cấu trúc xin phép lịch sự nhất
 - Hoa nói lý do "東京に友達" → không bắt buộc nhưng được lòng
-- 「<ruby>書<rt>か</rt></ruby>かせていただきます」 = saseteitadakimasu form — cực kỳ khiêm nhường
+- 「<ruby>書<rt>か</rt></ruby>かせていただきます」 = dạng saseteitadakimasu — cực kỳ khiêm nhường
 
 ---
 
 ## 7. So sánh / Phân tích lỗi
 
-| ❌ SAI | ✅ ĐÚNG |
+| Cách nói SAI | Cách nói ĐÚNG |
 |---|---|
 | <ruby>明日<rt>あした</rt></ruby><ruby>休<rt>やす</rt></ruby>みます | <ruby>明日<rt>あした</rt></ruby>、<ruby>有休<rt>ゆうきゅう</rt></ruby>を<ruby>取<rt>と</rt></ruby>らせていただきたいです |
 | (Báo phút chót, sai luật) | (Báo trước, lịch sự) |
@@ -2007,7 +2034,7 @@ Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có 
 
 ---
 
-## 8. 📖 Vocab hôm nay
+## 8. Vocab hôm nay
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -2034,86 +2061,84 @@ Saitama gần Tokyo nên gần như dùng tiếng tiêu chuẩn. Tuy nhiên có 
 
 ---
 
-## 10. 💡 Mẹo ghi nhớ
+## 10. Mẹo ghi nhớ
 
 | Mẹo | Nội dung |
 |---|---|
-| 🔺 Formal vs Casual | "Mặt áo công ty = formal. Mặt áo thường = casual" |
-| 🔻 Yuukyuu | 10 ngày/năm. Tích luỹ tối đa 2 năm |
-| 💡 Gửi tiền VN | Wise app — phí thấp, tỉ giá tốt nhất |
-| ⚠️ KHÔNG xin yuukyuu sát ngày | Min 3 ngày trước. Tốt nhất 1 tuần |
+|  Formal vs Casual | "Mặt áo công ty = formal. Mặt áo thường = casual" |
+|  Yuukyuu | 10 ngày/năm. Tích luỹ tối đa 2 năm |
+|  Gửi tiền VN | Wise app — phí thấp, tỉ giá tốt nhất |
+|  KHÔNG xin yuukyuu sát ngày | Min 3 ngày trước. Tốt nhất 1 tuần |
 
 ---
 
-## ✅ Mini check
+## Tự kiểm tra nhanh
 
 1. Sau bao lâu làm việc thì TTS được yuukyuu?
-   - A. 1 tháng
-   - B. 6 tháng
-   - C. 1 năm
+ - A. 1 tháng
+ - B. 6 tháng
+ - C. 1 năm
 
 2. "美味しいですね" trong casual nữ:
-   - A. うめぇ
-   - B. <ruby>美味<rt>おい</rt></ruby>しい
-   - C. うまいぞ
+ - A. うめぇ
+ - B. <ruby>美味<rt>おい</rt></ruby>しい
+ - C. うまいぞ
 
 3. 川越祭り tổ chức ở đâu?
-   - A. Tokyo
-   - B. Saitama
-   - C. Kanagawa
+ - A. Tokyo
+ - B. Saitama
+ - C. Kanagawa
 
 *(Đáp án: 1B, 2B, 3B)*
 
 
 
----
+# T8. Khách kiểm tra — Thanh tra (お客様の監査)
 
-# T8. Khách kiểm tra audit (お客様の監査)
-
-> **Mục tiêu:** Học keigo cao cấp dùng với khách (ご案内いたします / ご覧ください), vocab audit (監査/是正/不適合), ISO 22000 + FSSC 22000 căn bản, cách dẫn khách tham quan, và cách giải quyết xung đột nội bộ.
+> **Mục tiêu:** Học keigo cao cấp dùng với khách (ご案内いたします / ご覧ください), từ vựng thanh tra (監査/是正/不適合), ISO 22000 + FSSC 22000 căn bản, cách dẫn khách tham quan, và cách giải quyết xung đột nội bộ.
 
 ---
 
 ## Bối cảnh
 
-Tháng 11. Khách lớn (chuỗi siêu thị aeon hệ Saitama) sắp gửi đoàn audit ISO 22000 vào thứ 6. Cả nhà máy chuẩn bị 1 tuần. Kimura-san chỉ huy đội vệ sinh — căng thẳng, ngày thứ 3 Hoa làm sai 1 quy trình clean-as-you-go, Kimura **quát to** trước cả tổ. Hoa ấm ức, kể với Satou. Tanaka-buchou gọi Hoa và Kimura lên phòng — hoà giải. Hoa hiểu áp lực Kimura. Ngày audit, Hoa được giao dẫn auditor tham quan 1 phần line — keigo cao cấp lần đầu. Sau audit, Kimura đến cảm ơn Hoa.
+Tháng 11. Khách lớn (chuỗi siêu thị aeon hệ Saitama) sắp gửi đoàn thanh tra ISO 22000 vào thứ 6. Cả nhà máy chuẩn bị 1 tuần. Kimura-san chỉ huy đội vệ sinh — căng thẳng, ngày thứ 3 Hoa làm sai 1 quy trình clean-as-you-go, Kimura **quát to** trước cả tổ. Hoa ấm ức, kể với Satou. Tanaka-buchou gọi Hoa và Kimura lên phòng — hoà giải. Hoa hiểu áp lực Kimura. Ngày thanh tra, Hoa được giao dẫn thanh tra viên tham quan 1 phần dây chuyền — keigo cao cấp lần đầu. Sau thanh tra, Kimura đến cảm ơn Hoa.
 
 ---
 
-## 1. Audit là gì?
+## 1. Thanh tra là gì?
 
 ### 1.1 Định nghĩa
 
-監査 (kansa — audit) = đánh giá độc lập xem hệ thống quản lý có đúng tiêu chuẩn không.
+監査 (kansa — thanh tra) = đánh giá độc lập xem hệ thống quản lý có đúng tiêu chuẩn không.
 
-| Loại audit | Tiếng Nhật | Người làm |
+| Loại thanh tra | Tiếng Nhật | Người làm |
 |---|---|---|
 | Nội bộ | <ruby>内部監査<rt>ないぶかんさ</rt></ruby> | Nhân viên QC nhà máy |
 | Bên thứ 2 | <ruby>取引先監査<rt>とりひきさきかんさ</rt></ruby> | Khách hàng (siêu thị, thương hiệu) |
 | Bên thứ 3 | <ruby>第三者監査<rt>だいさんしゃかんさ</rt></ruby> | Tổ chức chứng nhận (BSI, SGS) |
 
-### 1.2 Quy trình 1 cuộc audit (1 ngày)
+### 1.2 Quy trình 1 cuộc thanh tra (1 ngày)
 
 | Thời gian | Nội dung |
 |---|---|
-| 9:00-9:30 | Opening meeting |
-| 9:30-12:00 | Tham quan nhà máy + check tài liệu |
+| 9:00-9:30 | Họp khai mạc |
+| 9:30-12:00 | Tham quan nhà máy + kiểm tra tài liệu |
 | 12:00-13:00 | Nghỉ trưa |
-| 13:00-15:30 | Phỏng vấn nhân viên + check sâu |
-| 15:30-16:00 | Closing meeting (báo findings) |
-| 16:00-17:00 | Viết report sơ bộ |
+| 13:00-15:30 | Phỏng vấn nhân viên + kiểm tra chuyên sâu |
+| 15:30-16:00 | Họp bế mạc (báo phát hiện) |
+| 16:00-17:00 | Viết báo cáo sơ bộ |
 
 ---
 
-## 2. Vocab audit
+## 2. Từ vựng thanh tra
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
-| <ruby>監査<rt>かんさ</rt></ruby> | kansa | Audit |
-| <ruby>監査員<rt>かんさいん</rt></ruby> | kansa-in | Auditor |
+| <ruby>監査<rt>かんさ</rt></ruby> | kansa | Thanh tra |
+| <ruby>監査員<rt>かんさいん</rt></ruby> | kansa-in | Thanh tra viên |
 | <ruby>是正<rt>ぜせい</rt></ruby> | zesei | Khắc phục |
-| <ruby>不適合<rt>ふてきごう</rt></ruby> | futekigou | Non-conformance |
-| エビデンス | evidence | Bằng chứng (record, log) |
+| <ruby>不適合<rt>ふてきごう</rt></ruby> | futekigou | Không phù hợp |
+| エビデンス | evidence | Bằng chứng (hồ sơ, nhật ký) |
 | <ruby>是正措置<rt>ぜせいそち</rt></ruby> | zesei sochi | Hành động khắc phục |
 | <ruby>予防措置<rt>よぼうそち</rt></ruby> | yobou sochi | Hành động phòng ngừa |
 | <ruby>指摘<rt>してき</rt></ruby> | shiteki | Chỉ ra (lỗi) |
@@ -2127,7 +2152,7 @@ Tháng 11. Khách lớn (chuỗi siêu thị aeon hệ Saitama) sắp gửi đo�
 ### 3.1 ISO 22000
 
 - **Tên**: Hệ thống quản lý an toàn thực phẩm (Food Safety Management System)
-- **Nội dung**: HACCP + ISO 9001 (quality management) merged
+- **Nội dung**: HACCP + ISO 9001 (quản lý chất lượng) kết hợp
 - **Phạm vi**: Mọi tổ chức trong chuỗi cung ứng thực phẩm
 
 ### 3.2 FSSC 22000
@@ -2135,18 +2160,18 @@ Tháng 11. Khách lớn (chuỗi siêu thị aeon hệ Saitama) sắp gửi đo�
 - **Tên**: Food Safety System Certification 22000
 - **Nội dung**: ISO 22000 + ISO/TS 22002 (technical specs) + GFSI requirements
 - **Phạm vi**: Sản xuất thực phẩm (cụ thể hơn ISO 22000)
-- **Đặc điểm**: Được GFSI (Global Food Safety Initiative) công nhận → khách lớn (Wal-mart, Aeon) yêu cầu
+- **Đặc điểm**: Được GFSI (Sáng kiến An toàn Thực phẩm Toàn cầu) công nhận → khách lớn (Wal-mart, Aeon) yêu cầu
 
 ### 3.3 So sánh
 
 | Tiêu chí | ISO 22000 | FSSC 22000 |
 |---|---|---|
 | Phạm vi | Rộng | Hẹp + sâu |
-| Recognition GFSI | KHÔNG | CÓ |
+| Được GFSI công nhận | KHÔNG | CÓ |
 | Phù hợp | SME / chuỗi nhỏ | Nhà máy lớn / xuất khẩu |
-| Audit độ khắc | Vừa | Khắt khe hơn |
+| Mức độ khắt khe | Vừa | Khắt khe hơn |
 
-> 💡 Nhà máy của Hoa có FSSC 22000 → audit của khách aeon càng nghiêm.
+> Nhà máy của Hoa có FSSC 22000 → thanh tra của khách aeon càng nghiêm.
 
 ---
 
@@ -2183,7 +2208,7 @@ Tháng 11. Khách lớn (chuỗi siêu thị aeon hệ Saitama) sắp gửi đo�
 ### 4.4 Quy tắc giới thiệu sếp với khách
 
 ```
-Nội bộ:    "<ruby>田中部長<rt>たなかぶちょう</rt></ruby>"
+Nội bộ: "<ruby>田中部長<rt>たなかぶちょう</rt></ruby>"
 Với khách: "<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たなか</rt></ruby>" (HOẶC chỉ "<ruby>田中<rt>たなか</rt></ruby>")
 ```
 
@@ -2217,7 +2242,7 @@ Với khách: "<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たな
 原料入荷 → 検品 → 加熱 → 包装 → 検品(2) → 出荷
 ```
 
-→ Theo flow của sản phẩm, dễ giải thích.
+→ Theo luồng của sản phẩm, dễ giải thích.
 
 ---
 
@@ -2233,7 +2258,7 @@ Với khách: "<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たな
 
 ### 6.2 Khi bị sempai quát
 
-| Sai | Đúng |
+| Cách nói SAI | Cách nói ĐÚNG |
 |---|---|
 | Quát lại | Im lặng, cúi đầu |
 | Khóc trước mặt | Khóc sau khi về phòng riêng |
@@ -2251,9 +2276,9 @@ Với khách: "<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たな
 
 ---
 
-## 7. Tình huống mẫu — Hoa dẫn auditor tham quan
+## 7. Tình huống mẫu — Hoa dẫn thanh tra viên tham quan
 
-**Cảnh: Cửa khu đóng gói, 10:30 AM ngày audit**
+**Cảnh: Cửa khu đóng gói, 10:30 sáng ngày thanh tra**
 
 > **Hoa**: ご<ruby>案内<rt>あんない</rt></ruby><ruby>致<rt>いた</rt></ruby>します。こちらが<ruby>包装<rt>ほうそう</rt></ruby><ruby>区域<rt>くいき</rt></ruby>でございます。<ruby>足元<rt>あしもと</rt></ruby>にお<ruby>気<rt>き</rt></ruby>をつけください。
 > *(Em xin dẫn ạ. Đây là khu đóng gói. Cẩn thận chân ạ.)*
@@ -2285,11 +2310,11 @@ Với khách: "<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たな
 ### Phân tích
 
 - Mọi câu của Hoa đều dùng formal cao: ご~/ お~/ ~でございます / かしこまりました
-- Hoa biết spec cụ thể (Fe 1.5mm, Sus 2.5mm) → chuẩn bị kỹ
-- Hoa **chủ động hỏi** "他にご不明な点は?" → professional
-- Auditor khen "素晴らしい" → tin tưởng nhân viên
+- Hoa biết chỉ số kỹ thuật cụ thể (Fe 1.5mm, Sus 2.5mm) → chuẩn bị kỹ
+- Hoa **chủ động hỏi** "他にご不明な点は?" → chuyên nghiệp
+- Thanh tra viên khen "素晴らしい" → tin tưởng nhân viên
 
-> 💡 Auditor đánh giá **không chỉ tài liệu mà cả thái độ + kiến thức nhân viên line**. TTS thuộc spec = ấn tượng tốt.
+> Thanh tra viên đánh giá **không chỉ tài liệu mà cả thái độ + kiến thức nhân viên dây chuyền**. TTS thuộc chỉ số kỹ thuật = ấn tượng tốt.
 
 ---
 
@@ -2307,7 +2332,7 @@ Với khách: "<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たな
 > *(Kimura-san, kể chuyện hôm nay đi.)*
 >
 > **Kimura**: はい。ホアさんがクリーン<ruby>手順<rt>てじゅん</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ばしたので、<ruby>大声<rt>おおごえ</rt></ruby>で<ruby>注意<rt>ちゅうい</rt></ruby>しました。<ruby>監査<rt>かんさ</rt></ruby><ruby>前<rt>まえ</rt></ruby>で<ruby>気持<rt>きも</rt></ruby>ちが<ruby>焦<rt>あせ</rt></ruby>っていたかもしれません。<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby>はよくなかったと<ruby>思<rt>おも</rt></ruby>います。
-> *(Vâng. Hoa-san bỏ qua bước clean nên tôi đã nhắc lớn. Có lẽ tôi nóng vì sắp audit. Cách nói không tốt.)*
+> *(Vâng. Hoa-san bỏ qua bước clean nên tôi đã nhắc lớn. Có lẽ tôi nóng vì sắp thanh tra. Cách nói không tốt.)*
 >
 > **Tanaka**: ホアさんは?
 > *(Hoa-san thì sao?)*
@@ -2325,7 +2350,7 @@ Với khách: "<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たな
 
 ## 9. So sánh / Phân tích lỗi
 
-| ❌ SAI | ✅ ĐÚNG |
+| Cách nói SAI | Cách nói ĐÚNG |
 |---|---|
 | <ruby>田中部長<rt>たなかぶちょう</rt></ruby>が... (với khách) | <ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たなか</rt></ruby>が... |
 | (Nâng sếp uchi quá cao trước soto) | (Đúng uchi-soto) |
@@ -2338,7 +2363,7 @@ Với khách: "<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たな
 
 ---
 
-## 10. 📖 Vocab hôm nay
+## 10. Vocab hôm nay
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -2347,60 +2372,58 @@ Với khách: "<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たな
 | <ruby>頻度<rt>ひんど</rt></ruby> | hindo | Tần suất |
 | <ruby>記録<rt>きろく</rt></ruby> | kiroku | Hồ sơ ghi chép |
 | <ruby>是正報告書<rt>ぜせいほうこくしょ</rt></ruby> | zesei houkokusho | Báo cáo khắc phục |
-| <ruby>サンプリング<rt>さんぷりんぐ</rt></ruby> | sampling | Lấy mẫu |
+| <ruby>サンプリング<rt>さんぷりんぐ</rt></ruby> | sanpuringu | Lấy mẫu |
 | <ruby>立<rt>た</rt></ruby>ち<ruby>会<rt>あ</rt></ruby>い | tachiai | Đi cùng giám sát |
 
 ---
 
 ## 11. Tổng kết
 
-- **Audit 3 loại**: Nội bộ / Khách / Bên thứ 3 (chứng nhận)
-- **ISO 22000 vs FSSC 22000**: FSSC sâu + GFSI recognized
+- **Thanh tra 3 loại**: Nội bộ / Khách / Bên thứ 3 (chứng nhận)
+- **ISO 22000 vs FSSC 22000**: FSSC sâu + GFSI công nhận
 - **Keigo cao cấp với khách**: ご~/ お~/ ~でございます / かしこまりました
 - **Uchi-soto**: Với khách → BỎ chức danh sau tên sếp uchi
 - **Xung đột**: Im lặng → kể trung gian → hoà giải qua sếp
 
-> **Quy tắc vàng:** *Audit không phải để bắt lỗi — audit là để KAIZEN. Tự tin + chuẩn bị kỹ + thái độ tốt = audit pass.*
+> **Quy tắc vàng:** *Thanh tra không phải để bắt lỗi — thanh tra là để KAIZEN. Tự tin + chuẩn bị kỹ + thái độ tốt = thanh tra đạt.*
 
 ---
 
-## 12. 💡 Mẹo ghi nhớ
+## 12. Mẹo ghi nhớ
 
 | Mẹo | Nội dung |
 |---|---|
-| 🔺 Dẫn khách | "Trước nửa bước, tay phẳng, dừng ở góc nhìn đẹp" |
-| 🔻 Uchi-soto | "Trong nhà = uchi cao chức. Ra ngoài = uchi bỏ chức" |
-| 💡 Khi bị quát | Im lặng → cúi → "申し訳ございません" → KHÔNG bào chữa |
-| ⚠️ Không có "了解です" với auditor | Phải "かしこまりました" |
+|  Dẫn khách | "Trước nửa bước, tay phẳng, dừng ở góc nhìn đẹp" |
+|  Uchi-soto | "Trong nhà = uchi cao chức. Ra ngoài = uchi bỏ chức" |
+|  Khi bị quát | Im lặng → cúi → "申し訳ございません" → KHÔNG bào chữa |
+|  Không có "了解です" với auditor | Phải "かしこまりました" |
 
 ---
 
-## ✅ Mini check
+## Tự kiểm tra nhanh
 
 1. FSSC 22000 khác ISO 22000 chỗ nào?
-   - A. Phạm vi rộng hơn
-   - B. Được GFSI recognized
-   - C. Không cần audit
+ - A. Phạm vi rộng hơn
+ - B. Được GFSI công nhận
+ - C. Không cần thanh tra
 
 2. Khi giới thiệu sếp với khách:
-   - A. <ruby>田中部長<rt>たなかぶちょう</rt></ruby>でございます
-   - B. <ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たなか</rt></ruby>でございます
-   - C. <ruby>田中<rt>たなか</rt></ruby>さんです
+ - A. <ruby>田中部長<rt>たなかぶちょう</rt></ruby>でございます
+ - B. <ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たなか</rt></ruby>でございます
+ - C. <ruby>田中<rt>たなか</rt></ruby>さんです
 
 3. Khi bị sempai quát công khai:
-   - A. Quát lại
-   - B. Im lặng + cúi + xin lỗi
-   - C. Đi mách buchou ngay
+ - A. Quát lại
+ - B. Im lặng + cúi + xin lỗi
+ - C. Đi mách buchou ngay
 
 *(Đáp án: 1B, 2B, 3B)*
 
 
 
----
-
 # T9. Triển khai sản phẩm mới (新商品開発)
 
-> **Mục tiêu:** Học vocab họp (議題/検討/承認), cụm đề xuất ý tưởng (~はいかがでしょうか / ~を提案させていただきます), cảm quan 官能評価 (vị giác / texture), khái quát quy trình thiết kế sản phẩm.
+> **Mục tiêu:** Học từ vựng cuộc họp (議題/検討/承認), cụm đề xuất ý tưởng (~はいかがでしょうか / ~を提案させていただきます), cảm quan 官能評価 (vị giác /食感), khái quát quy trình thiết kế sản phẩm.
 
 ---
 
@@ -2410,14 +2433,14 @@ Tháng 12, cuối năm. Công ty triển khai SP mới: 「ベトナム<ruby>風
 
 ---
 
-## 1. Văn hoá meeting Nhật
+## 1. Văn hoá họp Nhật
 
 ### 1.1 5 quy tắc cốt lõi
 
 ```
 1. Đến SỚM 5 phút (không phải đúng giờ)
 2. Tắt điện thoại + để úp trên bàn
-3. Mang sẵn note + bút (không laptop trong meeting nhỏ)
+3. Mang sẵn sổ + bút (không laptop trong họp nhỏ)
 4. Im lặng khi sếp/khách nói (không xen ngang)
 5. Trẻ tuổi nhất ngồi gần cửa (theo 席次 - sekiji)
 ```
@@ -2428,22 +2451,22 @@ Tháng 12, cuối năm. Công ty triển khai SP mới: 「ベトナム<ruby>風
 |---|---|---|
 | Xa cửa (chỗ trong cùng) | 上座 (kamiza) | Sếp to nhất / khách VIP |
 | Giữa | 中座 | Đồng nghiệp cấp trên |
-| Gần cửa ra vào | 下座 (shimoza) | Trẻ tuổi / host / TTS |
+| Gần cửa ra vào | 下座 (shimoza) | Trẻ tuổi / chủ trì / TTS |
 
 → Quy tắc: **Người to nhất ngồi xa cửa nhất** (an toàn + tôn trọng). TTS năm 1 thường ngồi gần cửa nhất.
 
 ### 1.3 Note tay vs laptop
 
-| Meeting | Recommended |
+| Cuộc họp | Khuyến nghị |
 |---|---|
-| Meeting 1-1 với sếp | Note tay (laptop = thiếu tôn trọng) |
-| Họp nhỏ 3-5 người | Note tay |
-| Họp lớn / brainstorm | Laptop OK |
-| Họp với khách | Note tay (luôn) |
+| Họp 1-1 với sếp | Ghi tay (laptop = thiếu tôn trọng) |
+| Họp nhỏ 3-5 người | Ghi tay |
+| Họp lớn / thảo luận nhóm | Laptop OK |
+| Họp với khách | Ghi tay (luôn) |
 
 ---
 
-## 2. Vocab meeting
+## 2. Từ vựng cuộc họp
 
 ### 2.1 Cấu trúc cuộc họp
 
@@ -2486,11 +2509,11 @@ Tháng 12, cuối năm. Công ty triển khai SP mới: 「ベトナム<ruby>風
 ### 3.2 Cấu trúc 1 đề xuất tốt
 
 ```
-1. <ruby>背景<rt>はいけい</rt></ruby> (Background) — vì sao
-2. <ruby>提案内容<rt>ていあんないよう</rt></ruby> (Proposal) — đề xuất gì
-3. <ruby>理由<rt>りゆう</rt></ruby> (Reason) — lý do
-4. リスク (Risk) — rủi ro nhận biết
-5. <ruby>確認<rt>かくにん</rt></ruby> (Check) — chờ phản hồi
+1. <ruby>背景<rt>はいけい</rt></ruby> (Bối cảnh) — vì sao
+2. <ruby>提案内容<rt>ていあんないよう</rt></ruby> (Đề xuất) — đề xuất gì
+3. <ruby>理由<rt>りゆう</rt></ruby> (Lý do) — lý do
+4. リスク (Rủi ro) — rủi ro nhận biết
+5. <ruby>確認<rt>かくにん</rt></ruby> (Xác nhận) — chờ phản hồi
 ```
 
 ### 3.3 Ví dụ Hoa đề xuất
@@ -2499,7 +2522,7 @@ Tháng 12, cuối năm. Công ty triển khai SP mới: 「ベトナム<ruby>風
 
 *(Ý kiến cá nhân, em nghĩ thêm rau thơm (coriander, bạc hà) vào bento Việt Nam có được không ạ? Đó là nguyên liệu chắc chắn dùng ở VN. Tuy nhiên, có thể hơi nồng với người Nhật. Thử với lượng nhỏ trước có được không ạ?)*
 
-→ Có đủ 5 yếu tố: bối cảnh (VN dùng), đề xuất (rau thơm), lý do (chắc chắn dùng), rủi ro (có thể nồng), xác nhận (thử nhỏ).
+→ Có đủ 5 yếu tố: bối cảnh (VN dùng), đề xuất (rau thơm), lý do (chắc chắn dùng), rủi ro (có thể nồng), xác nhận (thử lượng nhỏ).
 
 ---
 
@@ -2519,7 +2542,7 @@ Tháng 12, cuối năm. Công ty triển khai SP mới: 「ベトナム<ruby>風
 | <ruby>苦<rt>にが</rt></ruby>い | nigai | Đắng |
 | うま<ruby>味<rt>み</rt></ruby> | umami | Umami (vị thứ 5) |
 
-### 4.3 Texture (食感 - shokkan)
+### 4.3 食感 (Shokkan — Kết cấu thực phẩm)
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -2549,11 +2572,11 @@ Tháng 12, cuối năm. Công ty triển khai SP mới: 「ベトナム<ruby>風
 サンプル No: V1
 日付: 2026/12/05
 
-【外観】(1-5):  4
-【香り】(1-5):  3
-【味】(1-5):    2 ← TOO SALTY
-【食感】(1-5):  4
-【総合】(1-5):  3
+【外観】(1-5): 4
+【香り】(1-5): 3
+【味】(1-5): 2 ← QUÁ MẶN
+【食感】(1-5): 4
+【総合】(1-5): 3
 
 コメント:
 - ナンプラーの<ruby>量<rt>りょう</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らす
@@ -2567,30 +2590,30 @@ Tháng 12, cuối năm. Công ty triển khai SP mới: 「ベトナム<ruby>風
 ### 5.1 6 bước
 
 ```
-1. Concept    — ý tưởng + khách mục tiêu
-2. Recipe     — công thức ban đầu
-3. Trial Production — sản xuất thử lô nhỏ
-4. Sensory Test — đánh giá cảm quan
-5. Adjust     — điều chỉnh công thức
-6. Final + Launch — sản xuất lớn + tung ra
+1. Ý tưởng — ý tưởng + khách mục tiêu
+2. Công thức — công thức ban đầu
+3. Sản xuất thử — sản xuất thử lô nhỏ
+4. Đánh giá cảm quan — đánh giá cảm quan
+5. Điều chỉnh — điều chỉnh công thức
+6. Hoàn thiện + Ra mắt — sản xuất lớn + tung ra
 ```
 
 ### 5.2 Vai trò TTS trong từng bước
 
 | Bước | TTS làm gì |
 |---|---|
-| Concept | Quan sát, học, không đề xuất chính (trừ chuyên môn) |
-| Recipe | Tham khảo, có thể chia sẻ bối cảnh văn hoá |
-| Trial | Hỗ trợ line trial production |
-| Sensory | Có thể tham gia với tư cách "người tiêu dùng" |
-| Adjust | Hỗ trợ thử lại |
-| Final | Đứng line như SP thường |
+| Ý tưởng | Quan sát, học, không đề xuất chính (trừ chuyên môn) |
+| Công thức | Tham khảo, có thể chia sẻ bối cảnh văn hoá |
+| Sản xuất thử | Hỗ trợ dây chuyền sản xuất thử |
+| Cảm quan | Có thể tham gia với tư cách "người tiêu dùng" |
+| Điều chỉnh | Hỗ trợ thử lại |
+| Hoàn thiện | Đứng dây chuyền như sản phẩm thường |
 
-> 💡 Hoa năm 1 được mời tham gia là TRƯỜNG HỢP NGOẠI LỆ — vì có bối cảnh VN. Bình thường TTS năm 1 không vào meeting R&D.
+> Hoa năm 1 được mời tham gia là TRƯỜNG HỢP NGOẠI LỆ — vì có bối cảnh VN. Bình thường TTS năm 1 không vào họp R&D.
 
 ---
 
-## 6. Tình huống mẫu — Hoa lần đầu phát biểu trong meeting
+## 6. Tình huống mẫu — Hoa lần đầu phát biểu trong cuộc họp
 
 **Cảnh: Phòng họp R&D, 14:00**
 
@@ -2620,29 +2643,29 @@ Tháng 12, cuối năm. Công ty triển khai SP mới: 「ベトナム<ruby>風
 
 ### Phân tích
 
-- Hoa **xin phép** trước khi nói personal opinion → lịch sự
-- **Có cấu trúc**: 4 nguyên liệu (overview) → đề xuất từng cái
+- Hoa **xin phép** trước khi nói ý kiến cá nhân → lịch sự
+- **Có cấu trúc**: 4 nguyên liệu (tổng quan) → đề xuất từng cái
 - Khi bị Yamada thử thách → **CẢM ƠN** trước rồi mới đáp → văn hoá Nhật
-- Đề xuất concrete (V1 vs V2 với half+xì dầu) → actionable
+- Đề xuất cụ thể (V1 vs V2 với nửa+xì dầu) → khả thi
 
 ---
 
 ## 7. So sánh / Phân tích lỗi
 
-| ❌ SAI | ✅ ĐÚNG |
+| Cách nói SAI | Cách nói ĐÚNG |
 |---|---|
 | ナンプラーは<ruby>絶対<rt>ぜったい</rt></ruby><ruby>必要<rt>ひつよう</rt></ruby>! | ナンプラーは<ruby>少量<rt>しょうりょう</rt></ruby>から<ruby>試<rt>ため</rt></ruby>してみるのはいかがでしょうか |
-| (Khẳng định cứng nhắc) | (Soft proposal) |
+| (Khẳng định cứng nhắc) | (Đề xuất nhẹ nhàng) |
 | <ruby>意見<rt>いけん</rt></ruby>を<ruby>言<rt>い</rt></ruby>うだけ | <ruby>意見<rt>いけん</rt></ruby> + <ruby>理由<rt>りゆう</rt></ruby> + <ruby>リスク<rt>りすく</rt></ruby> |
-| (Vague) | (Có cấu trúc) |
+| (Chung chung) | (Có cấu trúc) |
 | <ruby>反論<rt>はんろん</rt></ruby> ngay khi bị thử thách | ご<ruby>指摘<rt>してき</rt></ruby>ありがとうございます + giải thích |
-| (Defensive) | (Lịch sự + chuyển tiếp) |
+| (Phản bác ngay) | (Lịch sự + chuyển tiếp) |
 | <ruby>遅刻<rt>ちこく</rt></ruby> 5 phút | <ruby>到着<rt>とうちゃく</rt></ruby> 5 phút trước |
-| (Cấm kỵ ở meeting Nhật) | (Đúng văn hoá) |
+| (Cấm kỵ ở họp Nhật) | (Đúng văn hoá) |
 
 ---
 
-## 8. 📖 Vocab hôm nay
+## 8. Vocab hôm nay
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -2653,114 +2676,112 @@ Tháng 12, cuối năm. Công ty triển khai SP mới: 「ベトナム<ruby>風
 | <ruby>原価<rt>げんか</rt></ruby> | genka | Giá thành |
 | <ruby>賞味期限<rt>しょうみきげん</rt></ruby> | shoumi kigen | Hạn dùng |
 | <ruby>消費期限<rt>しょうひきげん</rt></ruby> | shouhi kigen | Hạn sử dụng (hết = bỏ) |
-| パッケージ | package | Bao bì |
+| パッケージ | pakkeeji | Bao bì |
 
 ---
 
 ## 9. Tổng kết
 
-- **Meeting Nhật**: Đến sớm 5 phút, tắt phone, im khi sếp nói
+- **Họp Nhật**: Đến sớm 5 phút, tắt điện thoại, im khi sếp nói
 - **席次**: Sếp xa cửa, trẻ tuổi gần cửa
-- **Đề xuất 5 yếu tố**: Background → Proposal → Reason → Risk → Check
-- **官能評価**: 5 vị + texture + mùi + 5-point scale
-- **Bị thử thách**: CẢM ƠN trước rồi giải thích — KHÔNG defensive
+- **Đề xuất 5 yếu tố**: Bối cảnh → Đề xuất → Lý do → Rủi ro → Xác nhận
+- **官能評価**: 5 vị + kết cấu + mùi + thang 5 điểm
+- **Bị thử thách**: CẢM ƠN trước rồi giải thích — KHÔNG phản bác ngay
 
-> **Quy tắc vàng:** *Trong meeting Nhật, "có cấu trúc" quan trọng hơn "có ý tưởng hay". Idea siêu hay nói lung tung = bị từ chối.*
+> **Quy tắc vàng:** *Trong họp Nhật, "có cấu trúc" quan trọng hơn "có ý tưởng hay". Ý tưởng siêu hay nói lung tung = bị từ chối.*
 
 ---
 
-## 10. 💡 Mẹo ghi nhớ
+## 10. Mẹo ghi nhớ
 
 | Mẹo | Nội dung |
 |---|---|
-| 🔺 5 yếu tố đề xuất | "Why → What → Reason → Risk → Check" |
-| 🔻 「~はいかがでしょうか」 | Mọi đề xuất nên kết bằng câu này |
-| 💡 Bị thử thách | "ご指摘ありがとうございます" → giải thích |
-| ⚠️ KHÔNG đến đúng giờ | Phải SỚM 5 phút |
+|  5 yếu tố đề xuất | "Vì sao → Đề xuất gì → Lý do → Rủi ro → Xác nhận" |
+|  「~はいかがでしょうか」 | Mọi đề xuất nên kết bằng câu này |
+|  Bị thử thách | "ご指摘ありがとうございます" → giải thích |
+|  KHÔNG đến đúng giờ | Phải SỚM 5 phút |
 
 ---
 
-## ✅ Mini check
+## Tự kiểm tra nhanh
 
-1. Đến meeting Nhật nên đến:
-   - A. Đúng giờ
-   - B. Sớm 5 phút
-   - C. Sớm 30 phút
+1. Đến họp Nhật nên đến:
+ - A. Đúng giờ
+ - B. Sớm 5 phút
+ - C. Sớm 30 phút
 
-2. "Em đề xuất ~ thì sao ạ?" trong soft form:
-   - A. 〜はいかがでしょうか
-   - B. 〜は<ruby>絶対<rt>ぜったい</rt></ruby><ruby>必要<rt>ひつよう</rt></ruby>です
-   - C. 〜してください
+2. "Em đề xuất ~ thì sao ạ?" dạng gợi ý nhẹ nhàng:
+ - A. 〜はいかがでしょうか
+ - B. 〜は<ruby>絶対<rt>ぜったい</rt></ruby><ruby>必要<rt>ひつよう</rt></ruby>です
+ - C. 〜してください
 
 3. Khi bị đồng nghiệp thử thách:
-   - A. <ruby>反論<rt>はんろん</rt></ruby>ngay
-   - B. ご<ruby>指摘<rt>してき</rt></ruby>ありがとうございます + giải thích
-   - C. Im lặng
+ - A. <ruby>反論<rt>はんろん</rt></ruby>ngay
+ - B. ご<ruby>指摘<rt>してき</rt></ruby>ありがとうございます + giải thích
+ - C. Im lặng
 
 *(Đáp án: 1B, 2A, 3B)*
 
 
 
----
+# T10. Sự cố lớn — Thu hồi sản phẩm (重大事故 — リコール)
 
-# T10. Sự cố lớn — Recall (重大事故 — リコール)
-
-> **Mục tiêu:** Học cụm xin lỗi cấp cao (深くお詫び申し上げます), hou-ren-sou cấp khẩn, vocab khủng hoảng (自主回収/異物混入/PL Law), cách viết お詫び文, và 食品リコール 自主回収報告制度.
+> **Mục tiêu:** Học cụm xin lỗi cấp cao (深くお詫び申し上げます), hou-ren-sou cấp khẩn, từ vựng khủng hoảng (自主回収/異物混入/Luật Trách nhiệm Sản phẩm), cách viết お詫び文, và 食品リコール 自主回収報告制度.
 
 ---
 
 ## Bối cảnh
 
-Tháng 1 sau Tết. Sáng thứ 2, Tanaka-buchou triệu tập khẩn cấp toàn phòng. Khách đã khiếu nại 1 lô cơm hộp đông lạnh có dị vật — mảnh kim loại nhỏ ~1.5mm trong nhân thịt gà. Lô bị lỗi đã giao 5,000 hộp đến 12 cửa hàng aeon Saitama. Phải recall toàn lô. Hoa nhận ra đó là line cô đứng tháng 7. Cảm xúc nặng nề. Tanaka đứng họp khẩn cấp, viết プレスリリース trong 2 tiếng. Buổi chiều họp với CAA (消費者庁) qua Zoom. Linh-chị + Andi an ủi Hoa.
+Tháng 1 sau Tết. Sáng thứ 2, Tanaka-buchou triệu tập khẩn cấp toàn phòng. Khách đã khiếu nại 1 lô cơm hộp đông lạnh có dị vật — mảnh kim loại nhỏ ~1.5mm trong nhân thịt gà. Lô bị lỗi đã giao 5,000 hộp đến 12 cửa hàng aeon Saitama. Phải thu hồi toàn lô. Hoa nhận ra đó là dây chuyền cô đứng tháng 7. Cảm xúc nặng nề. Tanaka đứng họp khẩn cấp, viết プレスリリース trong 2 tiếng. Buổi chiều họp với CAA (消費者庁) qua Zoom. Linh-chị + Andi an ủi Hoa.
 
 ---
 
-## 1. Quy trình recall — 5 phases
+## 1. Quy trình thu hồi sản phẩm — 5 giai đoạn
 
 ```
-Phase 1: 検出 (Detection) — phát hiện lỗi
-Phase 2: 調査 (Investigation) — điều tra trace lot
-Phase 3: 判断 (Decision) — quyết định recall
-Phase 4: 通知 (Notification) — báo CAA + media + khách
-Phase 5: 回収 + KAIZEN — thu hồi + cải tiến
+Giai đoạn 1: 検出 (Phát hiện) — phát hiện lỗi
+Giai đoạn 2: 調査 (Điều tra) — điều tra truy vết lô
+Giai đoạn 3: 判断 (Quyết định) — quyết định thu hồi
+Giai đoạn 4: 通知 (Thông báo) — báo CAA + truyền thông + khách
+Giai đoạn 5: 回収 + KAIZEN — thu hồi + cải tiến
 ```
 
-### 1.1 Phase 1: 検出
+### 1.1 Giai đoạn 1: 検出
 
 | Nguồn phát hiện | Tỉ lệ |
 |---|---|
 | Khách khiếu nại (クレーム) | 60% |
 | QC nội bộ phát hiện | 25% |
-| Audit / kiểm tra cơ quan | 10% |
+| Thanh tra / kiểm tra cơ quan | 10% |
 | Báo chí / SNS | 5% |
 
-### 1.2 Phase 2: 調査 (24-48h)
+### 1.2 Giai đoạn 2: 調査 (24-48h)
 
 ```
-1. Verify lỗi có thật → đo / chụp ảnh / lưu mẫu
-2. Trace Lot → xác định scope
-3. Tìm root cause → 5 Why
-4. Estimate damage → bao nhiêu hộp / khách nào / nơi nào
+1. Xác minh lỗi có thật → đo / chụp ảnh / lưu mẫu
+2. Truy vết lô → xác định phạm vi
+3. Tìm nguyên nhân gốc rễ → 5 Why
+4. Ước tính thiệt hại → bao nhiêu hộp / khách nào / nơi nào
 ```
 
-### 1.3 Phase 3: 判断
+### 1.3 Giai đoạn 3: 判断
 
 - Mức nhẹ → 自主回収 1 lô
 - Mức trung → 自主回収 nhiều lô
 - Mức nặng → リコール toàn quốc
 
-### 1.4 Phase 4: 通知 (báo trong 24h)
+### 1.4 Giai đoạn 4: 通知 (báo trong 24h)
 
-**BẮT BUỘC từ 2021/6**: Báo CAA (消費者庁) trong 24 giờ kể từ khi quyết định recall.
+**BẮT BUỘC từ 2021/6**: Báo CAA (消費者庁) trong 24 giờ kể từ khi quyết định thu hồi.
 
 ```
-1. CAA report (web form)
-2. Khách hàng (email + điện thoại + visit)
-3. Press release (website công ty + SNS)
-4. Media (báo + TV nếu mức nặng)
+1. Báo cáo CAA (biểu mẫu web)
+2. Khách hàng (email + điện thoại + đến trực tiếp)
+3. Thông cáo báo chí (website công ty + SNS)
+4. Truyền thông (báo + TV nếu mức nặng)
 ```
 
-### 1.5 Phase 5: 回収 + KAIZEN
+### 1.5 Giai đoạn 5: 回収 + KAIZEN
 
 ```
 1. Thu hồi từ kệ siêu thị
@@ -2794,7 +2815,7 @@ Phase 5: 回収 + KAIZEN — thu hồi + cải tiến
 
 ### 2.3 KHÔNG được nói
 
-| ❌ Cấm | Lý do |
+|  Cấm | Lý do |
 |---|---|
 | <ruby>本当<rt>ほんとう</rt></ruby>にあるんですか? | Nghi ngờ khách = thảm hoạ |
 | <ruby>他<rt>ほか</rt></ruby>のお<ruby>客様<rt>きゃくさま</rt></ruby>からは... | So sánh với khách khác = tệ |
@@ -2803,7 +2824,7 @@ Phase 5: 回収 + KAIZEN — thu hồi + cải tiến
 
 ---
 
-## 3. 自主回収 (Voluntary Recall)
+## 3. 自主回収 (Thu hồi tự nguyện)
 
 ### 3.1 Định nghĩa
 
@@ -2811,15 +2832,15 @@ Phase 5: 回収 + KAIZEN — thu hồi + cải tiến
 
 → Hành động responsible. Báo CAA trong 24h là BẮT BUỘC LUẬT từ 2021/6.
 
-### 3.2 3 mức (Class)
+### 3.2 3 mức độ
 
-| Class | Tiếng Nhật | Mức nguy hiểm | Ví dụ |
+| Mức | Tiếng Nhật | Mức nguy hiểm | Ví dụ |
 |---|---|---|---|
 | I | <ruby>クラス<rt>くらす</rt></ruby> I | Có thể tử vong | Botulism, Listeria |
 | II | <ruby>クラス<rt>くらす</rt></ruby> II | Có thể bệnh | Salmonella, dị vật cứng |
-| III | <ruby>クラス<rt>くらす</rt></ruby> III | Vi phạm label, không nguy hại | Sai allergen label nhưng không có allergen |
+| III | <ruby>クラス<rt>くらす</rt></ruby> III | Vi phạm nhãn, không nguy hại | Sai nhãn chất gây dị ứng nhưng không có chất gây dị ứng |
 
-> Vụ của Hoa = **Class II** (dị vật kim loại, có thể gây thương tích miệng / nội tạng nếu nuốt)
+> Vụ của Hoa = **Mức II** (dị vật kim loại, có thể gây thương tích miệng / nội tạng nếu nuốt)
 
 ### 3.3 Báo CAA — Form online
 
@@ -2829,8 +2850,8 @@ URL: https://www.recall.caa.go.jp/
 Nội dung phải có:
 - Tên công ty + người chịu trách nhiệm
 - Sản phẩm (tên, lô, ngày SX, hạn dùng)
-- Lý do recall (mô tả lỗi)
-- Mức (Class I/II/III)
+- Lý do thu hồi (mô tả lỗi)
+- Mức (I/II/III)
 - Phạm vi (số lượng + khu vực)
 - Cách xử lý (đổi/hoàn tiền/tiêu huỷ)
 - Hotline cho khách
@@ -2838,42 +2859,42 @@ Nội dung phải có:
 
 ---
 
-## 4. 製造物責任法 (PL Law)
+## 4. 製造物責任法 (Luật Trách nhiệm Sản phẩm)
 
-### 4.1 PL Law là gì?
+### 4.1 Luật Trách nhiệm Sản phẩm là gì?
 
-製造物責任法 = Product Liability Act (1995) — Nhà sản xuất chịu trách nhiệm thiệt hại do sản phẩm gây ra cho khách hàng, **KHÔNG cần chứng minh nhà SX có lỗi (negligence)**.
+製造物責任法 = Luật Trách nhiệm Sản phẩm (1995) — Nhà sản xuất chịu trách nhiệm thiệt hại do sản phẩm gây ra cho khách hàng, **KHÔNG cần chứng minh nhà SX có lỗi (sơ suất)**.
 
-### 4.2 Điều kiện áp dụng PL Law
+### 4.2 Điều kiện áp dụng
 
 ```
 1. Có thiệt hại thực tế (sức khoẻ, tài sản, tính mạng)
-2. Sản phẩm có "khuyết tật" (defect)
+2. Sản phẩm có "khuyết tật"
 3. Có quan hệ nhân quả khuyết tật → thiệt hại
 ```
 
-### 4.3 3 loại defect
+### 4.3 3 loại khuyết tật
 
 | Loại | Tiếng Nhật | Ví dụ |
 |---|---|---|
 | Khuyết tật thiết kế | <ruby>設計上<rt>せっけいじょう</rt></ruby>の<ruby>欠陥<rt>けっかん</rt></ruby> | Công thức gây ngộ độc |
 | Khuyết tật sản xuất | <ruby>製造上<rt>せいぞうじょう</rt></ruby>の<ruby>欠陥<rt>けっかん</rt></ruby> | 1 lô bị nhiễm trùng (vụ Hoa) |
-| Khuyết tật cảnh báo | <ruby>表示上<rt>ひょうじじょう</rt></ruby>の<ruby>欠陥<rt>けっかん</rt></ruby> | Quên label allergen |
+| Khuyết tật cảnh báo | <ruby>表示上<rt>ひょうじじょう</rt></ruby>の<ruby>欠陥<rt>けっかん</rt></ruby> | Quên dán nhãn chất gây dị ứng |
 
 ### 4.4 Hậu quả
 
 - Bồi thường thiệt hại cá nhân
 - Bồi thường thiệt hại tài sản
-- Có thể bị kiện tập thể (class action) nếu nhiều khách
+- Có thể bị kiện tập thể nếu nhiều khách
 
 ---
 
-## 5. プレスリリース (Press Release)
+## 5. プレスリリース (Thông cáo báo chí)
 
 ### 5.1 Cấu trúc
 
 ```
-■ TITLE — Sự việc gì
+■ TIÊU ĐỀ — Sự việc gì
 ■ <ruby>件名<rt>けんめい</rt></ruby> — sản phẩm cụ thể
 ■ <ruby>原因<rt>げんいん</rt></ruby> — nguyên nhân
 ■ <ruby>対象範囲<rt>たいしょうはんい</rt></ruby> — lô / số lượng / khu vực
@@ -2883,7 +2904,7 @@ Nội dung phải có:
 ■ お<ruby>詫<rt>わ</rt></ruby>びの<ruby>言葉<rt>ことば</rt></ruby> — lời xin lỗi
 ```
 
-### 5.2 Mẫu Press Release của vụ Hoa
+### 5.2 Mẫu thông cáo báo chí của vụ Hoa
 
 ```
 ■ <ruby>自主回収<rt>じしゅかいしゅう</rt></ruby>のお<ruby>知<rt>し</rt></ruby>らせ
@@ -2987,7 +3008,7 @@ Nội dung phải có:
 > **Tanaka**: <ruby>緊急<rt>きんきゅう</rt></ruby>ミーティング、お<ruby>願<rt>ねが</rt></ruby>いします。<ruby>昨夜<rt>さくや</rt></ruby>、aeon さんから<ruby>連絡<rt>れんらく</rt></ruby>がありました。「<ruby>鶏<rt>とり</rt></ruby>そぼろ<ruby>弁当<rt>べんとう</rt></ruby>」のロット 20260720-A2-T3 に<ruby>金属<rt>きんぞく</rt></ruby><ruby>異物<rt>いぶつ</rt></ruby>の<ruby>可能性<rt>かのうせい</rt></ruby>。<ruby>該当<rt>がいとう</rt></ruby>5,000<ruby>個<rt>こ</rt></ruby>すべて<ruby>自主回収<rt>じしゅかいしゅう</rt></ruby>します。
 > *(Họp khẩn cấp. Tối qua aeon liên lạc. Lô bento gà bột 20260720-A2-T3 có khả năng dị vật kim loại. Sẽ thu hồi tất cả 5,000 hộp.)*
 >
-> *(Hoa giật mình — đó là line cô đứng tháng 7)*
+> *(Hoa giật mình — đó là dây chuyền cô đứng tháng 7)*
 >
 > **Hoa**: *(thì thầm)* ...あの、ロット...
 > *(Ờ... lô đó...)*
@@ -2999,13 +3020,13 @@ Nội dung phải có:
 > *(Em xin lỗi. Lô đó em phụ trách topping.)*
 >
 > **Tanaka**: そうか。ホアさん、<ruby>原因<rt>げんいん</rt></ruby>はまだ<ruby>分<rt>わ</rt></ruby>からない。<ruby>君<rt>きみ</rt></ruby>のせいかもしれないし、<ruby>機械<rt>きかい</rt></ruby>かもしれないし、<ruby>原料<rt>げんりょう</rt></ruby>かもしれない。<ruby>今<rt>いま</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>のせいかではなく、<ruby>回収<rt>かいしゅう</rt></ruby>を<ruby>速<rt>はや</rt></ruby>くやることが<ruby>大事<rt>だいじ</rt></ruby>。<ruby>君<rt>きみ</rt></ruby>はトレースロットの<ruby>確認<rt>かくにん</rt></ruby>を<ruby>佐藤<rt>さとう</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にやって。10<ruby>時<rt>じ</rt></ruby>までに<ruby>結果<rt>けっか</rt></ruby>を。
-> *(Vậy à. Hoa-san, nguyên nhân chưa rõ. Có thể tại em, có thể máy, có thể nguyên liệu. Bây giờ không phải vấn đề "ai", mà là RECALL nhanh. Em làm trace lot với Satou. Kết quả trước 10 giờ.)*
+> *(Vậy à. Hoa-san, nguyên nhân chưa rõ. Có thể tại em, có thể máy, có thể nguyên liệu. Bây giờ không phải vấn đề "ai", mà là THU HỒI nhanh. Em làm truy vết lô với Satou. Kết quả trước 10 giờ.)*
 >
 > **Hoa**: かしこまりました。<ruby>全力<rt>ぜんりょく</rt></ruby>で<ruby>対応<rt>たいおう</rt></ruby><ruby>致<rt>いた</rt></ruby>します。
 > *(Vâng ạ. Em sẽ làm hết sức.)*
 >
 > **Tanaka**: <ruby>高橋<rt>たかはし</rt></ruby>さんは<ruby>消費者庁<rt>しょうひしゃちょう</rt></ruby>に CAA <ruby>報告<rt>ほうこく</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>。<ruby>佐藤<rt>さとう</rt></ruby>さんはプレスリリース<ruby>下書<rt>したが</rt></ruby>き。<ruby>木村<rt>きむら</rt></ruby>さんは<ruby>店舗<rt>てんぽ</rt></ruby><ruby>連絡<rt>れんらく</rt></ruby>。みんな、<ruby>頑張<rt>がんば</rt></ruby>ろう。
-> *(Takahashi chuẩn bị báo cáo CAA. Satou viết draft press release. Kimura liên lạc cửa hàng. Mọi người, cùng cố gắng.)*
+> *(Takahashi chuẩn bị báo cáo CAA. Satou viết bản thảo thông cáo báo chí. Kimura liên lạc cửa hàng. Mọi người, cùng cố gắng.)*
 
 ### Phân tích
 
@@ -3018,12 +3039,12 @@ Nội dung phải có:
 
 ## 9. So sánh / Phân tích lỗi
 
-| ❌ SAI | ✅ ĐÚNG |
+| Cách nói SAI | Cách nói ĐÚNG |
 |---|---|
 | <ruby>機械<rt>きかい</rt></ruby>のせいだと<ruby>思<rt>おも</rt></ruby>います | <ruby>原因<rt>げんいん</rt></ruby>を<ruby>調査<rt>ちょうさ</rt></ruby><ruby>致<rt>いた</rt></ruby>します |
-| (Đoán + đổ lỗi) | (Hứa investigate) |
-| すみません (cho recall) | <ruby>心<rt>こころ</rt></ruby>よりお<ruby>詫<rt>わ</rt></ruby>び<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます |
-| (Quá nhẹ cho crisis) | (Cấp độ phù hợp) |
+| (Đoán + đổ lỗi) | (Hứa điều tra) |
+| すみません (cho tình huống thu hồi) | <ruby>心<rt>こころ</rt></ruby>よりお<ruby>詫<rt>わ</rt></ruby>び<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます |
+| (Quá nhẹ cho khủng hoảng) | (Cấp độ phù hợp) |
 | <ruby>明日<rt>あす</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby>します | <ruby>緊急<rt>きんきゅう</rt></ruby>のご<ruby>報告<rt>ほうこく</rt></ruby>がございます |
 | (Đợi = nguy hiểm) | (Khẩn cấp) |
 | CAA <ruby>報告<rt>ほうこく</rt></ruby>は<ruby>後<rt>あと</rt></ruby>でいいです | 24<ruby>時間以内<rt>じかんいない</rt></ruby>に CAA に<ruby>報告<rt>ほうこく</rt></ruby> |
@@ -3031,7 +3052,7 @@ Nội dung phải có:
 
 ---
 
-## 10. 📖 Vocab khủng hoảng
+## 10. Vocab khủng hoảng
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -3048,50 +3069,48 @@ Nội dung phải có:
 
 ## 11. Tổng kết
 
-- **Recall 5 phases**: 検出 → 調査 → 判断 → 通知 → 回収+KAIZEN
-- **CAA report**: BẮT BUỘC trong 24h kể từ 2021/6
-- **3 Class**: I (tử vong) / II (bệnh) / III (label)
-- **PL Law**: Nhà SX chịu trách nhiệm KHÔNG cần chứng minh negligence
+- **Thu hồi 5 giai đoạn**: 検出 → 調査 → 判断 → 通知 → 回収+KAIZEN
+- **Báo cáo CAA**: BẮT BUỘC trong 24h kể từ 2021/6
+- **3 mức độ**: I (tử vong) / II (bệnh) / III (nhãn)
+- **Luật Trách nhiệm Sản phẩm**: Nhà SX chịu trách nhiệm KHÔNG cần chứng minh sơ suất
 - **Xin lỗi cấp cao**: 心よりお詫び申し上げます / 重く受け止めております
 - **Hou-ren-sou khẩn**: BÁO NGAY, KHÔNG đợi cuối ca
 
-> **Quy tắc vàng:** *Trong crisis, "tốc độ + minh bạch" cứu được công ty. Che giấu = scandal. Chậm chạp = mất niềm tin.*
+> **Quy tắc vàng:** *Trong khủng hoảng, "tốc độ + minh bạch" cứu được công ty. Che giấu = bê bối. Chậm chạp = mất niềm tin.*
 
 ---
 
-## 12. 💡 Mẹo ghi nhớ
+## 12. Mẹo ghi nhớ
 
 | Mẹo | Nội dung |
 |---|---|
-| 🔺 24h Rule | Quyết định recall → báo CAA trong 24 giờ |
-| 🔻 Crisis communication | "事実 + お詫び + 対策" — Fact + Apology + Action |
-| 💡 Khi sợ báo | Tự hỏi: "Im lặng có cứu vãn được không?" — KHÔNG → báo ngay |
-| ⚠️ KHÔNG nói "他のお客様は..." | So sánh khách = tăng anger 10x |
+|  Quy tắc 24h | Quyết định thu hồi → báo CAA trong 24 giờ |
+|  Truyền thông khủng hoảng | "事実 + お詫び + 対策" — Sự thật + Xin lỗi + Hành động |
+|  Khi sợ báo | Tự hỏi: "Im lặng có cứu vãn được không?" — KHÔNG → báo ngay |
+|  KHÔNG nói "他のお客様は..." | So sánh khách = tăng tức giận 10x |
 
 ---
 
-## ✅ Mini check
+## Tự kiểm tra nhanh
 
-1. CAA report sau quyết định recall phải nộp trong:
-   - A. 24 giờ
-   - B. 48 giờ
-   - C. 1 tuần
+1. Báo cáo CAA sau quyết định thu hồi phải nộp trong:
+ - A. 24 giờ
+ - B. 48 giờ
+ - C. 1 tuần
 
-2. Mức Class II của recall là:
-   - A. Có thể tử vong
-   - B. Có thể bệnh / bị thương
-   - C. Sai label nhưng không nguy hại
+2. Mức II của thu hồi sản phẩm là:
+ - A. Có thể tử vong
+ - B. Có thể bệnh / bị thương
+ - C. Sai nhãn nhưng không nguy hại
 
-3. PL Law có nghĩa là:
-   - A. Khách phải chứng minh nhà SX có lỗi
-   - B. Nhà SX chịu trách nhiệm KHÔNG cần chứng minh negligence
-   - C. Recall là tự nguyện
+3. Luật Trách nhiệm Sản phẩm có nghĩa là:
+ - A. Khách phải chứng minh nhà SX có lỗi
+ - B. Nhà SX chịu trách nhiệm KHÔNG cần chứng minh sơ suất
+ - C. Thu hồi là tự nguyện
 
 *(Đáp án: 1A, 2B, 3B)*
 
 
-
----
 
 # T11. Định hướng tương lai (将来の計画)
 
@@ -3175,10 +3194,10 @@ Tháng 2. Sau crisis recall (T10), Hoa quyết tâm trở thành chuyên gia v�
 ### 3.2 Điều kiện
 
 ```
-✅ Tuổi: ≥ 17
-✅ Quốc tịch: Người nước ngoài có 在留カード — OK
-✅ Học vấn: KHÔNG yêu cầu (chỉ cần biết đọc kanji vừa)
-✅ Tiếng Nhật: ~N4 đủ để hiểu khoá học
+ Tuổi: ≥ 17
+ Quốc tịch: Người nước ngoài có 在留カード — OK
+ Học vấn: KHÔNG yêu cầu (chỉ cần biết đọc kanji vừa)
+ Tiếng Nhật: ~N4 đủ để hiểu khoá học
 ```
 
 → **Hoa hoàn toàn thi được sau 1 năm thực tập**.
@@ -3188,9 +3207,9 @@ Tháng 2. Sau crisis recall (T10), Hoa quyết tâm trở thành chuyên gia v�
 ```
 1. Đăng ký khoá <ruby>講習会<rt>こうしゅうかい</rt></ruby> (online hoặc offline)
 2. Học 6 tiếng (1 ngày):
-   - <ruby>公衆衛生学<rt>こうしゅうえいせいがく</rt></ruby>: 1h
-   - <ruby>食品衛生学<rt>しょくひんえいせいがく</rt></ruby>: 3h
-   - <ruby>食品衛生法<rt>しょくひんえいせいほう</rt></ruby>: 2h
+ - <ruby>公衆衛生学<rt>こうしゅうえいせいがく</rt></ruby>: 1h
+ - <ruby>食品衛生学<rt>しょくひんえいせいがく</rt></ruby>: 3h
+ - <ruby>食品衛生法<rt>しょくひんえいせいほう</rt></ruby>: 2h
 3. Thi cuối khoá: trắc nghiệm 30 phút (~80% pass)
 4. Nhận <ruby>修了証<rt>しゅうりょうしょう</rt></ruby> ngay trong ngày
 ```
@@ -3220,12 +3239,12 @@ Tháng 2. Sau crisis recall (T10), Hoa quyết tâm trở thành chuyên gia v�
 ### 4.2 Nội dung học
 
 ```
-1. HACCP 7 nguyên tắc + 12 bước (deep)
-2. Hazard analysis (chemical/biological/physical)
-3. CCP setting + monitoring
-4. Verification + audit
-5. Document & record management
-6. Thực hành case studies
+1. HACCP 7 nguyên tắc + 12 bước (chuyên sâu)
+2. Phân tích mối nguy (hoá học/sinh học/vật lý)
+3. Thiết lập CCP + giám sát
+4. Xác minh + kiểm tra
+5. Quản lý tài liệu & hồ sơ
+6. Thực hành qua tình huống thực tế
 ```
 
 ### 4.3 Khác với Sekininsha
@@ -3235,7 +3254,7 @@ Tháng 2. Sau crisis recall (T10), Hoa quyết tâm trở thành chuyên gia v�
 | Thời gian | 6h | 16-24h |
 | Lệ phí | ¥10,000 | ¥30,000-50,000 |
 | Mục tiêu | Quản lý vệ sinh chung | Chuyên sâu HACCP |
-| Renewal | KHÔNG | Mỗi 3-5 năm |
+| Gia hạn | KHÔNG | Mỗi 3-5 năm |
 | Cấp độ | Cơ bản | Trung cấp |
 
 ---
@@ -3249,27 +3268,27 @@ Visa **特定技能1号** ngành chế biến thực phẩm — cho phép làm v
 ### 5.2 2 đường có visa này
 
 ```
-ĐƯỜNG A: TTS finish → auto chuyển
+ĐƯỜNG A: TTS hoàn thành → tự động chuyển
 1. Hoàn thành TTS 3 năm (技能実習2号)
-2. Đậu N3 (auto-eligible) HOẶC pass JFT-Basic test
-3. Apply visa Tokutei 1号 → 5 năm
+2. Đậu N3 (đủ điều kiện tự động) HOẶC đậu JFT-Basic test
+3. Nộp hồ sơ visa Tokutei 1号 → 5 năm
 
 ĐƯỜNG B: Thi trực tiếp
 1. Có N4+ (JLPT hoặc JFT)
 2. Thi 特定技能1号 試験 (do OTAFF tổ chức)
-3. Đậu → apply visa
+3. Đậu → nộp hồ sơ visa
 ```
 
 ### 5.3 Thi 特定技能1号 ngành thực phẩm
 
 - **Tổ chức**: OTAFF (https://otaff1.jp/)
-- **Năm 2026**: CBT (Computer-Based Test), thi quanh năm
+- **Năm 2026**: Thi máy tính (CBT), tổ chức quanh năm
 - **Nội dung**:
-  - Vệ sinh + HACCP (50%)
-  - Quy trình SX (30%)
-  - An toàn LĐ (20%)
-- **Pass rate**: ~70%
-- **Có textbook miễn phí** trên website OTAFF (PDF furigana)
+ - Vệ sinh + HACCP (50%)
+ - Quy trình SX (30%)
+ - An toàn LĐ (20%)
+- **Tỉ lệ đậu**: ~70%
+- **Có tài liệu ôn tập miễn phí** trên website OTAFF (PDF furigana)
 
 ### 5.4 Sau 1号 → 2号
 
@@ -3277,7 +3296,7 @@ Visa **特定技能1号** ngành chế biến thực phẩm — cho phép làm v
 - **Vô hạn gia hạn** (mỗi 1-3 năm)
 - **Được mang gia đình** (vợ/chồng/con)
 - **Đường tới 永住権** (vĩnh trú)
-- **Yêu cầu**: 5 năm 1号 + thi 特定技能2号 evaluation
+- **Yêu cầu**: 5 năm 1号 + thi đánh giá 特定技能2号
 
 ---
 
@@ -3306,12 +3325,12 @@ Năm 2024, Quốc hội Nhật quyết định thay chế độ **技能実習**
 Hoa nhập 4/2026 — visa 技能実習1号
 ↓
 4/2027 — chế độ Ikusei thi hành. Hoa có 2 lựa chọn:
-  A. Tiếp tục TTS đến hết 3 năm (4/2029)
-  B. Chuyển sang Ikusei (nếu có cơ chế chuyển tiếp)
+ A. Tiếp tục TTS đến hết 3 năm (4/2029)
+ B. Chuyển sang Ikusei (nếu có cơ chế chuyển tiếp)
 ↓
 4/2029 — TTS finish:
-  → 特定技能1号 (5 năm)
-  → 永住権 path
+ → 特定技能1号 (5 năm)
+ → lộ trình 永住権
 ```
 
 ### 6.4 Lưu ý quan trọng
@@ -3322,26 +3341,26 @@ Hoa nhập 4/2026 — visa 技能実習1号
 
 ---
 
-## 7. Lộ trình recommended cho Hoa
+## 7. Lộ trình đề xuất cho Hoa
 
 ```
-2026/4 — TTS Y1 (current)
-   ↓
+2026/4 — TTS Y1 (hiện tại)
+ ↓
 2026/12 — N4 合格
-   ↓
+ ↓
 2027/3 — Sekininsha (¥10,000, 1 ngày)
-   ↓
+ ↓
 2027/12 — HACCP coordinator (¥30,000, 3 ngày)
-   ↓
+ ↓
 2028/6 — N3 合格
-   ↓
-2029/4 — TTS finish (3 năm) → 特定技能1号 (auto vì có N3)
-   ↓
-2034/4 — 5 năm 1号 → thi 特定技能2号 evaluation
-   ↓
-2034 onwards — 2号 (vô hạn) → 永住権 path
-   ↓
-2039 — Apply 永住権
+ ↓
+2029/4 — TTS hoàn thành (3 năm) → 特定技能1号 (tự động vì có N3)
+ ↓
+2034/4 — 5 năm 1号 → thi đánh giá 特定技能2号
+ ↓
+2034 trở đi — 2号 (vô hạn) → lộ trình 永住権
+ ↓
+2039 — Nộp đơn 永住権
 ```
 
 ---
@@ -3384,20 +3403,20 @@ Hoa nhập 4/2026 — visa 技能実習1号
 
 ## 9. So sánh / Phân tích lỗi
 
-| ❌ SAI | ✅ ĐÚNG |
+| Cách nói SAI | Cách nói ĐÚNG |
 |---|---|
 | <ruby>食品衛生管理者<rt>しょくひんえいせいかんりしゃ</rt></ruby>を<ruby>目指<rt>めざ</rt></ruby>します(không research) | <ruby>食品衛生責任者<rt>しょくひんえいせいせきにんしゃ</rt></ruby>を<ruby>目指<rt>めざ</rt></ruby>します |
 | (Không khả thi) | (Thực tế, có thể đạt được) |
 | アドバイスください | アドバイスをいただけますでしょうか |
 | (Casual, sai ngữ cảnh) | (Formal cao, lịch sự) |
 | <ruby>頑張<rt>がんば</rt></ruby>ります | <ruby>来年<rt>らいねん</rt></ruby>3<ruby>月<rt>がつ</rt></ruby>に<ruby>講習会<rt>こうしゅうかい</rt></ruby>を<ruby>受<rt>う</rt></ruby>けます |
-| (Vague) | (Cụ thể + deadline) |
-| <ruby>技能実習<rt>ぎのうじっしゅう</rt></ruby>と<ruby>特定技能<rt>とくていぎのう</rt></ruby>は<ruby>同<rt>おな</rt></ruby>じ | 2 chế độ KHÁC nhau, 1 path TTS → SSW |
-| (Sai concept) | (Đúng) |
+| (Chung chung) | (Cụ thể + hạn chót) |
+| <ruby>技能実習<rt>ぎのうじっしゅう</rt></ruby>と<ruby>特定技能<rt>とくていぎのう</rt></ruby>は<ruby>同<rt>おな</rt></ruby>じ | 2 chế độ KHÁC nhau, 1 lộ trình TTS → SSW |
+| (Sai ý tưởng) | (Đúng) |
 
 ---
 
-## 10. 📖 Vocab hôm nay
+## 10. Vocab hôm nay
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -3423,7 +3442,7 @@ Hoa nhập 4/2026 — visa 技能実習1号
 > *(Vâng, chị Kimura.)*
 >
 > **Kimura**: <ruby>監査<rt>かんさ</rt></ruby>のとき、<ruby>大声<rt>おおごえ</rt></ruby>で<ruby>怒鳴<rt>どな</rt></ruby>って<ruby>悪<rt>わる</rt></ruby>かった。<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>反省<rt>はんせい</rt></ruby>している。
-> *(Hôm audit, chị quát to là không phải. Chị thực sự thấy hối hận.)*
+> *(Hôm thanh tra, chị quát to là không phải. Chị thực sự thấy hối hận.)*
 >
 > **Hoa**: いえ、<ruby>木村<rt>きむら</rt></ruby>さん、もう<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。<ruby>私<rt>わたし</rt></ruby>が<ruby>手順<rt>てじゅん</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ばしたのが<ruby>原因<rt>げんいん</rt></ruby>でしたから。
 > *(Không, chị Kimura, em ổn rồi. Vì em đã bỏ qua quy trình mới là nguyên nhân.)*
@@ -3435,7 +3454,7 @@ Hoa nhập 4/2026 — visa 技能実習1号
 > *(Có chuyện đó sao... em không biết.)*
 >
 > **Kimura**: ホアさんの<ruby>監査<rt>かんさ</rt></ruby>での<ruby>対応<rt>たいおう</rt></ruby>、<ruby>素晴<rt>すば</rt></ruby>らしかった。<ruby>食品衛生責任者<rt>しょくひんえいせいせきにんしゃ</rt></ruby>を<ruby>目指<rt>めざ</rt></ruby>すって<ruby>聞<rt>き</rt></ruby>いた。<ruby>応援<rt>おうえん</rt></ruby>しているよ。<ruby>分<rt>わ</rt></ruby>からないことがあったら、いつでも<ruby>聞<rt>き</rt></ruby>いて。
-> *(Hôm audit em xử lý tốt lắm. Nghe nói em nhắm tới Sekininsha. Chị ủng hộ. Có gì không hiểu cứ hỏi bất cứ lúc nào.)*
+> *(Hôm thanh tra em xử lý tốt lắm. Nghe nói em nhắm tới Sekininsha. Chị ủng hộ. Có gì không hiểu cứ hỏi bất cứ lúc nào.)*
 >
 > **Hoa**: ありがとうございます、<ruby>木村<rt>きむら</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>。<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>嬉<rt>うれ</rt></ruby>しいです。
 > *(Cảm ơn chị Kimura. Em thực sự cảm động.)*
@@ -3447,7 +3466,7 @@ Hoa nhập 4/2026 — visa 技能実習1号
 - Kimura chia sẻ **lỗi của chính mình** = breakthrough trust
 - Hoa nhận lời + cảm ơn không quá khoa trương = tatemae phù hợp
 
-> 💡 Sempai khắt khe thường có **lý do cá nhân**. Hiểu được = chuyển từ "sợ" sang "tôn trọng".
+> Sempai khắt khe thường có **lý do cá nhân**. Hiểu được = chuyển từ "sợ" sang "tôn trọng".
 
 ---
 
@@ -3464,49 +3483,47 @@ Hoa nhập 4/2026 — visa 技能実習1号
 
 ---
 
-## 12. 💡 Mẹo ghi nhớ
+## 12. Mẹo ghi nhớ
 
 | Mẹo | Nội dung |
 |---|---|
-| 🔺 Sekininsha vs Kanrisha | "責任者 = TTS thi được. 管理者 = chỉ ĐH chuyên ngành" |
-| 🔻 Chứng chỉ thứ tự | Sekininsha → HACCP → SSW1 → SSW2 |
-| 💡 Suzuki = đồng minh | Hỏi sớm + thường xuyên — không ngại |
-| ⚠️ KHÔNG quên 育成就労 | 4/2027 thi hành — theo dõi tin tức |
+|  Sekininsha vs Kanrisha | "責任者 = TTS thi được. 管理者 = chỉ ĐH chuyên ngành" |
+|  Chứng chỉ thứ tự | Sekininsha → HACCP → SSW1 → SSW2 |
+|  Suzuki = đồng minh | Hỏi sớm + thường xuyên — không ngại |
+|  KHÔNG quên 育成就労 | 4/2027 thi hành — theo dõi tin tức |
 
 ---
 
-## ✅ Mini check
+## Tự kiểm tra nhanh
 
 1. TTS có thể thi 食品衛生管理者 (Kanrisha) không?
-   - A. Có, sau 1 năm
-   - B. KHÔNG, cần ĐH chuyên ngành dược/y/nông
-   - C. Có, sau 3 năm
+ - A. Có, sau 1 năm
+ - B. KHÔNG, cần ĐH chuyên ngành dược/y/nông
+ - C. Có, sau 3 năm
 
 2. 食品衛生責任者 (Sekininsha) khoá học bao lâu?
-   - A. 6 tiếng (1 ngày)
-   - B. 2-3 ngày
-   - C. 1 tuần
+ - A. 6 tiếng (1 ngày)
+ - B. 2-3 ngày
+ - C. 1 tuần
 
 3. 育成就労 thi hành khi nào?
-   - A. 4/2026
-   - B. 4/2027
-   - C. 4/2028
+ - A. 4/2026
+ - B. 4/2027
+ - C. 4/2028
 
 *(Đáp án: 1B, 2A, 3B)*
 
 
 
----
-
 # T12. Một năm nhìn lại (1年間の振り返り)
 
-> **Mục tiêu:** Học cụm cảm ơn cao cấp (心より感謝申し上げます), biểu cảm xúc (嬉しい/感動/寂しい), vocab tiệc (忘年会/乾杯/一本締め), cụm chia tay (お元気で), và tổng hợp 1 năm.
+> **Mục tiêu:** Học cụm cảm ơn cao cấp (心より感謝申し上げます), biểu cảm xúc (嬉しい/感動/寂しい), từ vựng tiệc (忘年会/乾杯/一本締め), cụm chia tay (お元気で), và tổng hợp 1 năm.
 
 ---
 
 ## Bối cảnh
 
-Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo bonenkai dời sang tháng 3 (vì tháng 12 vướng crisis recall). Linh-chị báo về VN nghỉ phép dài (sau 2.5 năm chưa về). Andi báo chuyển công ty về Nagoya để làm cùng anh trai. Hoa chuẩn bị bài speech 1 năm. Tối bonenkai ở 居酒屋 gần nhà máy — bữa nướng + 乾杯. Hoa phát biểu cảm tưởng. Kimura-san gửi 1 hộp bento tự làm. Tanaka tặng Hoa cuốn sổ tay 指導員 cũ của ông — symbol "passing the torch". Cuối tiệc — 一本締め. Hoa về ký túc, viết nhật ký 1 năm + đặt mục tiêu năm 2.
+Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo bonenkai dời sang tháng 3 (vì tháng 12 vướng sự cố thu hồi sản phẩm). Linh-chị báo về VN nghỉ phép dài (sau 2.5 năm chưa về). Andi báo chuyển công ty về Nagoya để làm cùng anh trai. Hoa chuẩn bị bài phát biểu 1 năm. Tối bonenkai ở 居酒屋 gần nhà máy — bữa nướng + 乾杯. Hoa phát biểu cảm tưởng. Kimura-san gửi 1 hộp bento tự làm. Tanaka tặng Hoa cuốn sổ tay 指導員 cũ của ông — biểu tượng truyền lửa. Cuối tiệc — 一本締め. Hoa về ký túc, viết nhật ký 1 năm + đặt mục tiêu năm 2.
 
 ---
 
@@ -3528,14 +3545,14 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 | 19:00 | Tập trung 居酒屋 | Đến đúng giờ |
 | 19:10 | Sếp khai mạc + 乾杯 | Đợi sếp nâng ly trước |
 | 19:30-21:00 | Ăn + uống + nói chuyện | Trò chuyện, nghe |
-| 21:00 | Speech của vài người | Hoa có thể được mời |
-| 21:30 | <ruby>一本締<rt>いっぽんじ</rt></ruby>め | Clap đồng loạt 1 nhịp |
+| 21:00 | Phát biểu của vài người | Hoa có thể được mời |
+| 21:30 | <ruby>一本締<rt>いっぽんじ</rt></ruby>め | Vỗ tay đồng loạt 1 nhịp |
 | 21:45 | Dọn dẹp, về | Cảm ơn từng người |
 
 ### 1.3 Quy tắc bonenkai cho TTS
 
 ```
-1. Mặc smart casual (không suit, không quá thường)
+1. Mặc lịch sự nhẹ (không vest, không quá thường)
 2. Đến ĐÚNG GIỜ (không sớm, không muộn)
 3. Đợi sếp uống trước (nhất là cụng ly)
 4. Rót cho sếp/sempai TRƯỚC khi rót cho mình
@@ -3574,7 +3591,7 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 
 ---
 
-## 3. 一本締め (Ippon-jime) — Clap closing
+## 3. 一本締め (Ippon-jime) — Vỗ tay kết thúc
 
 ### 3.1 Cách thực hiện
 
@@ -3582,7 +3599,7 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 1. Người chủ trì nói: 「では、お手を拝借!」
 2. Mọi người đứng dậy + giơ tay
 3. Chủ trì nói: 「いよーお!」 → kéo dài
-4. Mọi người clap 1 nhịp ĐỒNG LOẠT: パン!
+4. Mọi người vỗ tay 1 nhịp ĐỒNG LOẠT: パン!
 5. Chủ trì nói: 「ありがとうございました!」
 ```
 
@@ -3590,13 +3607,13 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 
 | Loại | Số nhịp | Khi dùng |
 |---|---|---|
-| 一本締め | 1 nhịp clap | Bonenkai, năm hết |
+| 一本締め | 1 nhịp vỗ tay | Bonenkai, năm hết |
 | 三本締め | 3 nhịp × 3 = 9 | Long trọng, lễ lớn |
 | 一丁締め | 1 nhịp đơn | Nhỏ, không formal |
 
 ### 3.3 Ý nghĩa văn hoá
 
-→ "Tất cả thành viên cùng đồng lòng kết thúc, không có sự kiện nào còn dở dang". Đây là ritual quan trọng nhất của bonenkai.
+→ "Tất cả thành viên cùng đồng lòng kết thúc, không có sự kiện nào còn dở dang". Đây là nghi thức quan trọng nhất của bonenkai.
 
 ---
 
@@ -3609,7 +3626,7 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 | Thân mật | ありがとう | Bạn |
 | Lịch sự | ありがとうございます | Đồng nghiệp |
 | Formal | <ruby>誠<rt>まこと</rt></ruby>にありがとうございます | Khách / sếp |
-| Super formal | <ruby>心<rt>こころ</rt></ruby>より<ruby>感謝<rt>かんしゃ</rt></ruby><ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます | Speech, thư cảm ơn |
+| Super formal | <ruby>心<rt>こころ</rt></ruby>より<ruby>感謝<rt>かんしゃ</rt></ruby><ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます | Phát biểu, thư cảm ơn |
 
 ### 4.2 Cụm cảm ơn dài
 
@@ -3641,13 +3658,13 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 ### 5.2 Cách thể hiện cảm xúc Nhật
 
 ```
-✅ DO:
+ DO:
 - Nói nhẹ, không khoa trương
 - Dùng "ちょっと" giảm cường độ ("ちょっと寂しいです")
 - Cảm ơn cụ thể (không chung chung)
 - Mỉm cười (smile = lịch sự mặc định)
 
-❌ DON'T:
+ DON'T:
 - Khóc to nơi công cộng (phụ nữ Việt khác phụ nữ Nhật)
 - Ôm lúc tạm biệt (Nhật ít touch)
 - Quá khoa trương ("最高!" với sếp = OK / với khách = không)
@@ -3661,7 +3678,7 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 
 | Tiếng Nhật | Nghĩa | Khi dùng |
 |---|---|---|
-| お<ruby>元気<rt>げんき</rt></ruby>で | Take care | Chia tay lâu (vài tháng+) |
+| お<ruby>元気<rt>げんき</rt></ruby>で | Giữ gìn sức khoẻ | Chia tay lâu (vài tháng+) |
 | またお<ruby>会<rt>あ</rt></ruby>いしましょう | Hẹn gặp lại | Trang trọng |
 | また<ruby>明日<rt>あした</rt></ruby> | Mai gặp | Hàng ngày |
 | お<ruby>世話<rt>せわ</rt></ruby>になりました | Cảm ơn đã chăm sóc | Chuyển công ty / về quê |
@@ -3682,12 +3699,12 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 
 ---
 
-## 7. Tình huống mẫu — Hoa speech 1 năm tại bonenkai
+## 7. Tình huống mẫu — Hoa phát biểu 1 năm tại bonenkai
 
 **Cảnh: 居酒屋, 21:00, sau khi ăn uống**
 
 > **Tanaka**: <ruby>皆<rt>みな</rt></ruby>さん、ホアさんのスピーチを<ruby>聞<rt>き</rt></ruby>きましょう。ホアさん、お<ruby>願<rt>ねが</rt></ruby>いします。
-> *(Mọi người, nghe speech của Hoa-san. Hoa-san, mời em.)*
+> *(Mọi người, nghe phát biểu của Hoa-san. Hoa-san, mời em.)*
 >
 > **Hoa**: *(đứng dậy, cúi 30°)*
 >
@@ -3710,7 +3727,7 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 > *(Anh Tanaka, cảm ơn anh đã tha thứ những lần em mắc lỗi.)*
 >
 > 2つ<ruby>目<rt>め</rt></ruby>は、<ruby>反省<rt>はんせい</rt></ruby>。<ruby>確認漏<rt>かくにんも</rt></ruby>れ、リコール、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございませんでした。これからも<ruby>同<rt>おな</rt></ruby>じ<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>さないよう、<ruby>努力<rt>どりょく</rt></ruby><ruby>致<rt>いた</rt></ruby>します。
-> *(Thứ 2 là phản tỉnh. Vụ bỏ sót kiểm tra, recall, em thực sự xin lỗi. Em sẽ cố gắng không lặp lại.)*
+> *(Thứ 2 là phản tỉnh. Vụ bỏ sót kiểm tra, sự cố thu hồi, em thực sự xin lỗi. Em sẽ cố gắng không lặp lại.)*
 >
 > 3つ<ruby>目<rt>め</rt></ruby>は、<ruby>来年<rt>らいねん</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby>。<ruby>食品衛生責任者<rt>しょくひんえいせいせきにんしゃ</rt></ruby>の<ruby>資格<rt>しかく</rt></ruby>を<ruby>取<rt>と</rt></ruby>り、N3 に<ruby>合格<rt>ごうかく</rt></ruby>します。<ruby>皆様<rt>みなさま</rt></ruby>に<ruby>少<rt>すこ</rt></ruby>しでも<ruby>恩返<rt>おんがえ</rt></ruby>しできるよう、<ruby>頑張<rt>がんば</rt></ruby>ります。
 > *(Thứ 3 là mục tiêu năm sau. Lấy chứng chỉ Sekininsha và đậu N3. Để có thể đáp lại ơn các anh chị một chút, em sẽ cố gắng.)*
@@ -3724,10 +3741,10 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 
 ### Phân tích
 
-- **Cấu trúc 3 phần**: Cảm ơn → Phản tỉnh → Mục tiêu — chuẩn speech Nhật
+- **Cấu trúc 3 phần**: Cảm ơn → Phản tỉnh → Mục tiêu — chuẩn phát biểu Nhật
 - Cảm ơn **cụ thể từng người** với chi tiết hành động → ấn tượng
-- Nhận lỗi recall **thẳng thắn** → dũng cảm
-- Mục tiêu **CỤ THỂ** (Sekininsha + N3) → professional
+- Nhận lỗi thu hồi **thẳng thắn** → dũng cảm
+- Mục tiêu **CỤ THỂ** (Sekininsha + N3) → chuyên nghiệp
 - Câu cuối "<ruby>恩返<rt>おんがえ</rt></ruby>しできるよう" = đẹp văn hoá Nhật
 
 ---
@@ -3757,26 +3774,26 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 > **Tanaka**: <ruby>頑張<rt>がんば</rt></ruby>って。<ruby>君<rt>きみ</rt></ruby>なら<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>。
 > *(Cố lên. Em sẽ làm được.)*
 
-→ Cảnh "passing the torch" — Hoa từ TTS năm 1 sắp lên TTS năm 2 = sempai cho người mới.
+→ Cảnh truyền lửa — Hoa từ TTS năm 1 sắp lên TTS năm 2 = sempai cho người mới.
 
 ---
 
 ## 9. So sánh / Phân tích lỗi
 
-| ❌ SAI | ✅ ĐÚNG |
+| Cách nói SAI | Cách nói ĐÚNG |
 |---|---|
 | Khóc lớn ở bonenkai | Mỉm cười + cảm ơn cụ thể |
 | (Drama, không hợp văn hoá) | (Tatemae phù hợp) |
-| 「<ruby>了解<rt>りょうかい</rt></ruby>です」(với speech) | <ruby>承知<rt>しょうち</rt></ruby>いたしました / かしこまりました |
-| (Sai ngữ cảnh formal) | (Đúng) |
+| 「<ruby>了解<rt>りょうかい</rt></ruby>です」(trong phát biểu trang trọng) | <ruby>承知<rt>しょうち</rt></ruby>いたしました / かしこまりました |
+| (Sai ngữ cảnh trang trọng) | (Đúng) |
 | <ruby>最高<rt>さいこう</rt></ruby>!すごい!(với khách) | <ruby>素晴<rt>すば</rt></ruby>らしいです / <ruby>感動<rt>かんどう</rt></ruby>しました |
-| (Quá casual) | (Lịch sự) |
-| <ruby>頑張<rt>がんば</rt></ruby>ります trống | N3 + Sekininsha を<ruby>取<rt>と</rt></ruby>ります |
-| (Vague) | (Cụ thể) |
+| (Quá thân mật) | (Lịch sự) |
+| <ruby>頑張<rt>がんば</rt></ruby>ります chung chung | N3 + Sekininsha を<ruby>取<rt>と</rt></ruby>ります |
+| (Mơ hồ) | (Cụ thể) |
 
 ---
 
-## 10. 📖 Vocab hôm nay
+## 10. Vocab hôm nay
 
 | Tiếng Nhật | Romaji | Nghĩa |
 |---|---|---|
@@ -3796,37 +3813,37 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 | Tháng | Bài học cốt lõi |
 |---|---|
 | T1 | Chào hỏi + jiko-shoukai |
-| T2 | Bảo hộ + 5S + cold chain |
-| T3 | Vệ sinh + HACCP + allergen 9 |
-| T4 | Hou-ren-sou + line operation |
-| T5 | Keigo intro + xin lỗi 4 cấp |
+| T2 | Bảo hộ + 5S + chuỗi lạnh |
+| T3 | Vệ sinh + HACCP + 9 chất gây dị ứng |
+| T4 | Hou-ren-sou + vận hành dây chuyền |
+| T5 | Keigo căn bản + xin lỗi 4 cấp |
 | T6 | Mensetsu + đặt mục tiêu SMART |
 | T7 | Casual + yuukyuu + đời sống |
-| T8 | Audit + keigo cao cấp |
-| T9 | Meeting + đề xuất ý tưởng |
-| T10 | Crisis + recall + xin lỗi cao cấp |
-| T11 | Tương lai + 3 chứng chỉ realistic |
-| T12 | Cảm xúc + chia tay + speech |
+| T8 | Thanh tra + keigo cao cấp |
+| T9 | Cuộc họp + đề xuất ý tưởng |
+| T10 | Khủng hoảng + thu hồi + xin lỗi cao cấp |
+| T11 | Tương lai + 3 chứng chỉ khả thi |
+| T12 | Cảm xúc + chia tay + phát biểu |
 
 ---
 
-## 12. Roadmap năm 2 (preview)
+## 12. Lộ trình năm 2 (sơ lược)
 
 ```
 2026/4 — TTS Y1 finished. Lên TTS Y2.
-   ↓
-2026/12 — N4 合格 (target)
-   ↓
-2027/3 — Sekininsha (target)
-   ↓
+ ↓
+2026/12 — N4 合格 (mục tiêu)
+ ↓
+2027/3 — Sekininsha (mục tiêu)
+ ↓
 2027/4 — 育成就労 thi hành. Theo dõi cập nhật.
-   ↓
-2027/12 — HACCP coordinator (target)
-   ↓
+ ↓
+2027/12 — HACCP coordinator (mục tiêu)
+ ↓
 2028/4 — TTS Y3
-   ↓
-2028/6 — N3 合格 (target)
-   ↓
+ ↓
+2028/6 — N3 合格 (mục tiêu)
+ ↓
 2029/4 — TTS finish → 特定技能1号 (5 năm)
 ```
 
@@ -3835,9 +3852,9 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 ## 13. Tổng kết
 
 - **忘年会**: Tiệc cuối năm, đến đúng giờ, đợi sếp 乾杯, KHÔNG say
-- **一本締め**: 1 nhịp clap đồng loạt — ritual kết thúc bonenkai
+- **一本締め**: 1 nhịp vỗ tay đồng loạt — nghi thức kết thúc bonenkai
 - **Cụm cảm ơn cao cấp**: 心より感謝申し上げます / おかげさまで
-- **Speech 3 phần**: Cảm ơn → Phản tỉnh → Mục tiêu
+- **Phát biểu 3 phần**: Cảm ơn → Phản tỉnh → Mục tiêu
 - **Cụm chia tay**: お元気で / お世話になりました / これからもよろしく
 - **Cảm xúc Nhật**: Nhẹ, không khoa trương, "ちょっと" giảm cường độ
 
@@ -3845,36 +3862,61 @@ Cuối tháng 3. Kết thúc năm tài khoá Nhật. Tanaka-buchou thông báo b
 
 ---
 
-## 14. 💡 Mẹo ghi nhớ
+## 14. Mẹo ghi nhớ
 
 | Mẹo | Nội dung |
 |---|---|
-| 🔺 Speech 3 phần | "Cảm ơn → Phản tỉnh → Mục tiêu" |
-| 🔻 Cảm ơn cụ thể | "Cảm ơn anh Satou đã ~" thay vì "Cảm ơn" trống |
-| 💡 Khi nhận quà | Cầm 2 tay + cúi + "大切に使わせていただきます" |
-| ⚠️ KHÔNG khóc to | Smile + cảm ơn = tatemae phù hợp |
+|  Phát biểu 3 phần | "Cảm ơn → Phản tỉnh → Mục tiêu" |
+|  Cảm ơn cụ thể | "Cảm ơn anh Satou đã ~" thay vì "Cảm ơn" chung chung |
+|  Khi nhận quà | Cầm 2 tay + cúi + "大切に使わせていただきます" |
+|  KHÔNG khóc to | Mỉm cười + cảm ơn = tatemae phù hợp |
 
 ---
 
-## ✅ Mini check
+## Tự kiểm tra nhanh
 
 1. Bonenkai dịch ra:
-   - A. Tiệc đầu năm
-   - B. Tiệc cuối năm
-   - C. Tiệc sinh nhật
+ - A. Tiệc đầu năm
+ - B. Tiệc cuối năm
+ - C. Tiệc sinh nhật
 
 2. Khi cụng ly với sếp, ly mình nên:
-   - A. Cao hơn ly sếp
-   - B. Thấp hơn ly sếp
-   - C. Bằng nhau
+ - A. Cao hơn ly sếp
+ - B. Thấp hơn ly sếp
+ - C. Bằng nhau
 
-3. Speech 1 năm chuẩn có 3 phần là:
-   - A. Mở đầu / Nội dung / Kết thúc
-   - B. Cảm ơn / Phản tỉnh / Mục tiêu
-   - C. Quá khứ / Hiện tại / Tương lai
+3. Phát biểu 1 năm chuẩn có 3 phần là:
+ - A. Mở đầu / Nội dung / Kết thúc
+ - B. Cảm ơn / Phản tỉnh / Mục tiêu
+ - C. Quá khứ / Hiện tại / Tương lai
 
 *(Đáp án: 1B, 2B, 3B)*
 
 
 
----
+# Liên hệ & Thông tin sách
+
+Cảm ơn bạn đã đọc đến những trang cuối cùng.
+
+Hizashi luôn mong nhận được góp ý, câu hỏi và phản hồi từ bạn — đó là nguồn động lực để chúng tôi hoàn thiện những phiên bản sau.
+
+**Email:** hizashinihongo@gmail.com<br/>
+**Website:** hizashi.net
+
+Nếu bạn phát hiện lỗi nội dung, có đề xuất cải thiện, hoặc muốn đồng hành cùng các dự án tiếp theo của Hizashi, đừng ngần ngại liên hệ với chúng tôi.
+
+## Thông tin sách
+
+| Mục | Nội dung |
+|-----|----------|
+| Tên sách | Hizashi — Thực tập sinh ngành thực phẩm / 技能実習・食品 |
+| Tác giả | Hizashi Teams |
+| Phiên bản | 1.1 |
+| Ngày phát hành | 30/04/2026 |
+| Ngôn ngữ | Song ngữ Việt–Nhật |
+| Bản quyền | © 2026 Hizashi Teams |
+
+© 2026 Hizashi Teams. Bảo lưu mọi quyền.
+
+*Hizashi — Tia nắng đầu ngày trên hành trình thực tập sinh của bạn.*
+

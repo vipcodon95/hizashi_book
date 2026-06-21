@@ -1,6 +1,6 @@
 ---
-id: 8001023
-curriculum_id: 8001
+id: 810000023
+curriculum_id: 800000001
 order_index: 23
 node_type: rule
 title: "Rule 23 — Bỏ đoạn văn dài, ưu tiên danh sách có gạch đầu dòng"

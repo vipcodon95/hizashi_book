@@ -1,6 +1,6 @@
 ---
-id: 8001056
-curriculum_id: 8001
+id: 810000056
+curriculum_id: 800000001
 order_index: 56
 node_type: rule
 title: "Rule 55 — Trả lời phàn nàn: xác nhận cảm xúc trước, giải pháp sau"

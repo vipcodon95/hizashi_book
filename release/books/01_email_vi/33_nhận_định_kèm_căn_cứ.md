@@ -1,6 +1,6 @@
 ---
-id: 8001033
-curriculum_id: 8001
+id: 810000033
+curriculum_id: 800000001
 order_index: 33
 node_type: rule
 title: "Rule 33 — Đưa nhận định phải kèm căn cứ: con số, ví dụ, trích dẫn"

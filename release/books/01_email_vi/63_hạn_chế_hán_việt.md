@@ -1,6 +1,6 @@
 ---
-id: 8001063
-curriculum_id: 8001
+id: 810000063
+curriculum_id: 800000001
 order_index: 63
 node_type: rule
 title: "Rule 62 — Hạn chế Hán Việt nặng, thay bằng từ thuần Việt khi có thể"

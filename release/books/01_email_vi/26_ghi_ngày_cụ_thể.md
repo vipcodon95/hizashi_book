@@ -1,6 +1,6 @@
 ---
-id: 8001026
-curriculum_id: 8001
+id: 810000026
+curriculum_id: 800000001
 order_index: 26
 node_type: rule
 title: "Rule 26 — \"Ngày mai\", \"tuần tới\" là bẫy — ghi ngày cụ thể"

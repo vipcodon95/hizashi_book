@@ -1,6 +1,6 @@
 ---
-id: 8001069
-curriculum_id: 8001
+id: 810000069
+curriculum_id: 800000001
 order_index: 69
 node_type: rule
 title: "Rule 68 — Plain text an toàn hơn HTML — email công việc nên chọn plain"

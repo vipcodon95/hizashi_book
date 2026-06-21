@@ -1,6 +1,6 @@
 ---
-id: 8001006
-curriculum_id: 8001
+id: 810000006
+curriculum_id: 800000001
 order_index: 6
 node_type: rule
 title: "Rule 06 — Bảy từ ở dòng tiêu đề quyết định mail được mở hay không"

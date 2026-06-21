@@ -1,6 +1,6 @@
 ---
-id: 8001046
-curriculum_id: 8001
+id: 810000046
+curriculum_id: 800000001
 order_index: 46
 node_type: rule
 title: "Rule 45B — Xưng hô khi gửi mail cho nhóm hỗn hợp tuổi/cấp"

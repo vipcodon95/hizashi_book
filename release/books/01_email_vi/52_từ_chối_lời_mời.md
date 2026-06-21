@@ -1,6 +1,6 @@
 ---
-id: 8001052
-curriculum_id: 8001
+id: 810000052
+curriculum_id: 800000001
 order_index: 52
 node_type: rule
 title: "Rule 51 — Từ chối lời mời: \"rất tiếc…\" + đề xuất thay thế cụ thể"

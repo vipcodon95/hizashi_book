@@ -1,6 +1,6 @@
 ---
-id: 8001028
-curriculum_id: 8001
+id: 810000028
+curriculum_id: 800000001
 order_index: 28
 node_type: rule
 title: "Rule 28 — Ý quan trọng nhất gói vào 1 câu đơn, đặt đầu đoạn"

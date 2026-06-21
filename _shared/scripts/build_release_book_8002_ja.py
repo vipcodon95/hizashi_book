@@ -21,12 +21,15 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from normalize_release import normalize_text  # noqa: E402
+from book_id_utils import make_book_id, make_id  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent.parent
 SOURCE_DIR = ROOT / "books" / "01_email" / "nội_dung" / "ja"
 RELEASE_DIR = ROOT / "release" / "books" / "01_email_ja"
 
-CURRICULUM_ID = 8002
+# book_seq theo BOOK_REGISTRY.md. Sách 01 JA tạm giữ row riêng = book_seq 2.
+BOOK_SEQ = 2
+CURRICULUM_ID = make_book_id(BOOK_SEQ)  # 800000002
 BOOK_TITLE_VI = "Email Công Việc"
 BOOK_TITLE_JP = "メール業務"
 
@@ -146,7 +149,7 @@ def main() -> None:
 
     rules_with_id: list[dict] = []
     for idx, rule in enumerate(rules, start=1):
-        node_id = CURRICULUM_ID * 1000 + idx
+        node_id = make_id(BOOK_SEQ, idx)
         raw = rule["source_path"].read_text(encoding="utf-8")
         body = clean_body(raw)
         title_full = extract_title(body)

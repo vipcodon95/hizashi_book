@@ -1,6 +1,6 @@
 ---
-id: 8001055
-curriculum_id: 8001
+id: 810000055
+curriculum_id: 800000001
 order_index: 55
 node_type: rule
 title: "Rule 54 — Mail phàn nàn: khách quan, không cảm xúc, có bằng chứng đính kèm"

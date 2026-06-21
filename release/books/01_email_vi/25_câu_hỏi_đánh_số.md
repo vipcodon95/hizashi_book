@@ -1,6 +1,6 @@
 ---
-id: 8001025
-curriculum_id: 8001
+id: 810000025
+curriculum_id: 800000001
 order_index: 25
 node_type: rule
 title: "Rule 25 — Câu hỏi viết dạng danh sách đánh số để đối phương trả lời từng ý"

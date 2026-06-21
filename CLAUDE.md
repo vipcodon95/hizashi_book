@@ -186,7 +186,7 @@ study_question_sets.id    = 8<NN>0<topic><kind><level>           (9 digits)
 | 08 | 08_smalltalk | ❌ | — | content có |
 | 09 | 09_real_dialogues | ❌ | — | content có |
 | **10** | **10_business_japanese** | ✓ | **8010** | đã seed ✓ |
-| **11** | **11_jisshusei_shokuhin** | ✓ | **8011** | đã seed ✓ (pipeline FULL) |
+| **11** | **11_hoa_year1** | ✓ | **8011** | đã seed ✓ (pipeline FULL). Bài tập t04-t12 (skeleton) đã tách `_skeleton_tach_rieng/` |
 
 ## Quy tắc CRITICAL khi viết content
 
