@@ -42,7 +42,7 @@ Anh Tanaka PMO (Hakuō) gửi Slack DM hỏi 4 việc khác nhau cho Dũng. Dũn
 | **ズン** | 「**③Notion** <ruby>契約書<rt>けいやくしょ</rt></ruby><ruby>改定案<rt>かいていあん</rt></ruby> v3 を Notion で<ruby>共有<rt>きょうゆう</rt></ruby>しました: 〈URL〉 <ruby>編集権<rt>へんしゅうけん</rt></ruby>あり、コメント<ruby>歓迎<rt>かんげい</rt></ruby>です。」 <br/>*[3 Notion] Em đã share bản sửa hợp đồng v3 qua Notion: 〈URL〉. Có quyền edit, hoan nghênh anh comment ạ.* |
 | **ズン** | 「**④Invite** Phase 3 <ruby>進捗<rt>しんちょく</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby> 4/29(<ruby>水<rt>すい</rt></ruby>) 14:00-15:00 JST」 <br/>*[4 Invite] Họp tiến độ Phase 3 thứ Tư 29/4 14:00-15:00 JST* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「4点それぞれ最適な手段で」** — tuyên bố trước khi hành động. Anh Tanaka biết Dũng đã phân loại.
 - 【2】**Slack giữ ② ETA** — đúng tình huống nên dùng: khẩn + nhỏ + ngắn hạn.
 - 【3】**Notion cho ③ 契約書 (hợp đồng)** — cộng tác chỉnh sửa + lịch sử phiên bản. Mail thì hỏng vì có 5 vòng cập nhật.
@@ -54,7 +54,7 @@ Anh Tanaka PMO (Hakuō) gửi Slack DM hỏi 4 việc khác nhau cho Dũng. Dũn
 
 | Công cụ | Độ khẩn | Người nhận | Mức lưu trữ | Đúng cho |
 |------|---------|----------|-------------|---------|
-| **Slack** | Cao | Nhỏ (1-10) | Thấp (~30 ngày là tìm không ra) | ETA, vướng mắc, họp đứng đầu ngày, 雑談 |
+| **Slack** | Cao | Nhỏ (1-10) | Thấp — trôi nhanh trong luồng chat, khó tra lại | ETA, vướng mắc, họp đứng đầu ngày, 雑談 |
 | **Notion / Confluence** | Thấp | Vừa-Lớn | Cao (lưu mãi) | Spec, contract draft, runbook, DR, OKR |
 | **Email** | Thấp-Vừa | Bên ngoài (khách) | Cao (bằng chứng pháp lý) | 公式提案、契約、リスケ依頼、悪い知らせ |
 | **Outlook / GCal invite** | — | Người dự họp | (theo sự kiện) | 会議招待 + ICS 付き |
@@ -84,7 +84,7 @@ Anh Tanaka PMO (Hakuō) gửi Slack DM hỏi 4 việc khác nhau cho Dũng. Dũn
 
 ## Tránh
 
-- 20MB PDF lên Slack → 1 tuần là tìm không ra.
+- File nặng ném lên Slack rồi để trôi trong luồng chat → vài ngày sau không ai tìm lại được. Tài liệu chính thức phải để trên Drive kèm link.
 - 公式 proposal qua Slack — khách Nhật coi là không nghiêm túc.
 - 契約書 nhồi Notion comments với mail reply-all chéo nhau → loạn phiên bản.
 - Sự kiện lịch qua Slack thuần — không theo dõi chấp nhận/từ chối được.

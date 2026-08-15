@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "2.1.4 Juzu Doushi Deep Dive",
+    "title": "2.1.4 Juzu Doushi Chuyên Sâu",
     "title_vn": "2.1.4 Bài Tập Chuyên Sâu: 授受動詞 (Động từ Cho–Nhận)",
     "total_questions": 40,
     "levels": {
       "level1": "基礎 (Cơ bản) — Chiều hướng あげる/くれる/もらう/やる/さしあげる/いただく/くださる",
       "level2": "初級ビジネス (Kinh doanh sơ cấp) — Quan hệ xã hội, đăng ký lịch sự, điện thoại/email cơ bản",
-      "level3": "中級ビジネス (Kinh doanh trung cấp) — Tiếp đón, 3 bên, させていただく, request forms nâng cao",
+      "level3": "中級ビジネス (Kinh doanh trung cấp) — Tiếp đón, 3 bên, させていただく, mẫu câu nhờ vả nâng cao",
       "level4": "上級ビジネス (Kinh doanh nâng cao) — Phát hiện lỗi, 賜る, phân tích hội thoại, tổng hợp"
     },
     "focus": "授受動詞 (Juzu doushi) — Động từ cho/nhận: あげる, くれる, もらう, やる, さしあげる, いただく, くださる, 賜る, 〜てあげる/くれる/もらう/いただく/くださる/させていただく",
@@ -16,681 +16,1321 @@
     {
       "id": 1,
       "level": 1,
-      "category": "授受動詞基礎",
-      "category_vn": "Cơ bản — Chiều hướng cho/nhận",
-      "question_ja": "「私は田中さんに花を（　）ました。」— 話し手が田中さんに花を渡した場面。空欄に入る最も適切な動詞はどれですか？",
+      "level_name": "Cơ bản",
+      "category": "Cơ bản — Chiều hướng cho/nhận",
+      "question_jp": "「私は田中さんに花を（　）ました。」— 話し手が田中さんに花を渡した場面。空欄に入る最も適切な動詞はどれですか？",
       "question_vn": "\"Tôi đã tặng hoa cho anh Tanaka.\" — Người nói trao hoa cho Tanaka. Chọn động từ phù hợp nhất.",
-      "choices": {
-        "A": "くれ",
-        "B": "もらい",
-        "C": "あげ",
-        "D": "いただき"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "くれ",
+          "vn": "くれ (cho — về phía tôi)"
+        },
+        {
+          "key": "B",
+          "jp": "もらい",
+          "vn": "もらい (nhận)"
+        },
+        {
+          "key": "C",
+          "jp": "あげ",
+          "vn": "あげ (cho — ra ngoài)"
+        },
+        {
+          "key": "D",
+          "jp": "いただき",
+          "vn": "いただき (nhận — khiêm nhường)"
+        }
+      ],
       "answer": "C",
-      "explanation_vn": "【あげる】= người nói (hoặc in-group) CHO người khác (out-group, ngang/thấp hơn). Chiều: Tôi → Tanaka. くれる (A) là chiều ngược lại (ai đó cho TÔI). もらう (B) = tôi nhận. いただく (D) = tôi nhận (lịch sự cao).",
+      "explanation": "【あげる】= người nói (hoặc nhóm mình) CHO người khác (nhóm ngoài, ngang/thấp hơn). Chiều: Tôi → Tanaka. くれる (A) là chiều ngược lại (ai đó cho TÔI). もらう (B) = tôi nhận. いただく (D) = tôi nhận (lịch sự cao).",
       "tip": "Nhớ chiều mũi tên: あげる (→ ra ngoài), くれる (→ vào trong/tôi), もらう (tôi nhận ←)"
     },
     {
       "id": 2,
       "level": 1,
-      "category": "授受動詞基礎",
-      "category_vn": "Cơ bản — Chiều hướng cho/nhận",
-      "question_ja": "「鈴木さんが私にプレゼントを（　）ました。」— 鈴木さん（同僚）が話し手にプレゼントをくれた場面。",
+      "level_name": "Cơ bản",
+      "category": "Cơ bản — Chiều hướng cho/nhận",
+      "question_jp": "「鈴木さんが私にプレゼントを（　）ました。」— 鈴木さん（同僚）が話し手にプレゼントをくれた場面。",
       "question_vn": "\"Anh Suzuki (đồng nghiệp ngang hàng) đã tặng quà cho tôi.\" Chọn động từ đúng.",
-      "choices": {
-        "A": "あげ",
-        "B": "くれ",
-        "C": "さしあげ",
-        "D": "くださり"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "あげ",
+          "vn": "あげ (tôi cho người khác)"
+        },
+        {
+          "key": "B",
+          "jp": "くれ",
+          "vn": "くれ (ai đó cho tôi)"
+        },
+        {
+          "key": "C",
+          "jp": "さしあげ",
+          "vn": "さしあげ (tôi cho bề trên)"
+        },
+        {
+          "key": "D",
+          "jp": "くださり",
+          "vn": "くださり (bề trên cho tôi)"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "【くれる】= người khác CHO tôi (hoặc in-group của tôi). Chiều: Suzuki → Tôi. あげる (A) là tôi cho người khác. さしあげる (C) là tôi cho người bề trên (khiêm). くださる (D) dùng khi người cho là bề trên (kính ngữ của くれる).",
+      "explanation": "【くれる】= người khác CHO tôi (hoặc nhóm mình của tôi). Chiều: Suzuki → Tôi. あげる (A) là tôi cho người khác. さしあげる (C) là tôi cho người bề trên (khiêm). くださる (D) dùng khi người cho là bề trên (kính ngữ của くれる).",
       "tip": "くれる = ai đó cho TÔI (ơn huệ về phía tôi). Cảm giác biết ơn, vui mừng."
     },
     {
       "id": 3,
       "level": 1,
-      "category": "授受動詞基礎",
-      "category_vn": "Cơ bản — Chiều hướng cho/nhận",
-      "question_ja": "「私は先生からお菓子を（　）ました。」— 話し手が先生からお菓子を受け取った（先生＝目上）。",
+      "level_name": "Cơ bản",
+      "category": "Cơ bản — Chiều hướng cho/nhận",
+      "question_jp": "「私は先生からお菓子を（　）ました。」— 話し手が先生からお菓子を受け取った（先生＝目上）。",
       "question_vn": "\"Tôi đã nhận bánh kẹo từ thầy giáo.\" (Thầy = bề trên). Chọn động từ phù hợp nhất.",
-      "choices": {
-        "A": "もらい",
-        "B": "くれ",
-        "C": "いただき",
-        "D": "あげ"
-      },
-      "answer": "C",
-      "explanation_vn": "【いただく】= tôi nhận từ người BỀ TRÊN (kính ngữ của もらう). Vì thầy giáo là bề trên → dùng いただく để thể hiện sự kính trọng. もらう (A) đúng về chiều nhưng không lịch sự khi nói về thầy. くれる (B) sai chiều. あげる (D) sai hoàn toàn (nghĩa: tôi cho).",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "もらい",
+          "vn": "もらい (nhận)"
+        },
+        {
+          "key": "B",
+          "jp": "くれ",
+          "vn": "くれ (ai đó cho tôi)"
+        },
+        {
+          "key": "C",
+          "jp": "あげ",
+          "vn": "あげ (tôi cho người khác)"
+        },
+        {
+          "key": "D",
+          "jp": "いただき",
+          "vn": "いただき (nhận từ bề trên)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "【いただく】= tôi nhận từ người BỀ TRÊN (kính ngữ khiêm nhường của もらう). Vì thầy giáo là bề trên → dùng いただく để thể hiện sự kính trọng → đáp án D. もらう (A) đúng về chiều nhưng không đủ lịch sự khi nói về thầy. くれる (B) sai chiều (くれる = ai đó cho tôi, nhưng câu dùng 「先生から」 nên cấu trúc không khớp). あげる (C) sai hoàn toàn (nghĩa: tôi cho).",
       "tip": "もらう → いただく (khi người cho là bề trên). Cặp: もらう/いただく đều là TÔI NHẬN."
     },
     {
       "id": 4,
       "level": 1,
-      "category": "授受動詞基礎",
-      "category_vn": "Cơ bản — やる vs あげる",
-      "question_ja": "次の文のうち、伝統的に最も自然とされる日本語はどれですか？",
+      "level_name": "Cơ bản",
+      "category": "Cơ bản — やる vs あげる",
+      "question_jp": "次の文のうち、伝統的に最も自然とされる日本語はどれですか？",
       "question_vn": "Câu nào là tiếng Nhật TRUYỀN THỐNG tự nhiên nhất?",
-      "choices": {
-        "A": "私は犬にエサをあげました。",
-        "B": "私は犬にエサをいただきました。",
-        "C": "私は犬にエサをくれました。",
-        "D": "私は犬にエサをやりました。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "私は犬にエサをあげました。",
+          "vn": "Tôi đã cho chó ăn. (あげる)"
+        },
+        {
+          "key": "B",
+          "jp": "私は犬にエサをいただきました。",
+          "vn": "Tôi đã nhận thức ăn từ chó. (いただく)"
+        },
+        {
+          "key": "C",
+          "jp": "私は犬にエサをくれました。",
+          "vn": "Chó đã cho tôi thức ăn. (くれる)"
+        },
+        {
+          "key": "D",
+          "jp": "私は犬にエサをやりました。",
+          "vn": "Tôi đã cho chó ăn. (やる)"
+        }
+      ],
       "answer": "D",
-      "explanation_vn": "【やる】= cho động vật, cây cối, hoặc người bề dưới rất nhiều (thân mật/thô). 'Chó' là động vật → やる tự nhiên nhất trong văn nói. Gần đây あげる (A) cũng được chấp nhận và lịch sự hơn, nhưng やる là truyền thống. いただく (B) sai chiều. くれる (C) sai (chó cho tôi?).",
+      "explanation": "【やる】= cho động vật, cây cối, hoặc người bề dưới rất nhiều (thân mật/thô). 'Chó' là động vật → やる tự nhiên nhất trong văn nói. Gần đây あげる (A) cũng được chấp nhận và lịch sự hơn, nhưng やる là truyền thống. いただく (B) sai chiều. くれる (C) sai (chó cho tôi?).",
       "tip": "やる: cho động vật/cây = truyền thống. あげる cho thú cưng = hiện đại/lịch sự hơn. Cả 2 đều dùng được nhưng やる tự nhiên hơn trong văn nói thông thường."
     },
     {
       "id": 5,
       "level": 1,
-      "category": "授受動詞基礎",
-      "category_vn": "Cơ bản — さしあげる",
-      "question_ja": "「私は部長に資料を（　）ました。」— 部長（上司）に資料を渡した場面。",
+      "level_name": "Cơ bản",
+      "category": "Cơ bản — さしあげる",
+      "question_jp": "「私は部長に資料を（　）ました。」— 部長（上司）に資料を渡した場面。",
       "question_vn": "\"Tôi đã trao tài liệu cho trưởng phòng (cấp trên).\" Chọn động từ phù hợp.",
-      "choices": {
-        "A": "あげ",
-        "B": "くれ",
-        "C": "さしあげ",
-        "D": "くださり"
-      },
-      "answer": "C",
-      "explanation_vn": "【さしあげる】= tôi cho người BỀ TRÊN (khiêm nhường ngữ của あげる). Chiều: Tôi → Trưởng phòng (bề trên) → dùng さしあげる để thể hiện sự khiêm tốn. あげる (A) dùng cho người ngang/thấp hơn → không phù hợp với cấp trên trong văn cảnh trang trọng.",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "あげ",
+          "vn": "あげ (cho người ngang/dưới)"
+        },
+        {
+          "key": "B",
+          "jp": "くれ",
+          "vn": "くれ (ai đó cho tôi)"
+        },
+        {
+          "key": "C",
+          "jp": "くださり",
+          "vn": "くださり (bề trên cho tôi)"
+        },
+        {
+          "key": "D",
+          "jp": "さしあげ",
+          "vn": "さしあげ (tôi cho bề trên)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "【さしあげる】= tôi cho người BỀ TRÊN (khiêm nhường ngữ của あげる). Chiều: Tôi → Trưởng phòng (bề trên) → dùng さしあげる để thể hiện sự khiêm tốn → đáp án D. あげる (A) dùng cho người ngang/thấp hơn → không phù hợp với cấp trên trong văn cảnh trang trọng. くれる (B) sai chiều (ai đó cho tôi). くださり (C) là kính ngữ của くれる — chủ ngữ phải là trưởng phòng, không phải tôi.",
       "tip": "あげる → さしあげる (khi người nhận là bề trên). Cặp nâng cấp: あげる↑さしあげる, くれる↑くださる, もらう↑いただく"
     },
     {
       "id": 6,
       "level": 1,
-      "category": "授受動詞基礎",
-      "category_vn": "Cơ bản — くださる (kính ngữ くれる)",
-      "question_ja": "「社長が私に賞状を（　）ました。」— 社長（目上）が話し手に賞状を渡した場面。",
+      "level_name": "Cơ bản",
+      "category": "Cơ bản — くださる (kính ngữ くれる)",
+      "question_jp": "「社長が私に賞状を（　）ました。」— 社長（目上）が話し手に賞状を渡した場面。",
       "question_vn": "\"Giám đốc đã trao giấy khen cho tôi.\" Chọn động từ phù hợp nhất.",
-      "choices": {
-        "A": "くれ",
-        "B": "あげ",
-        "C": "くださり",
-        "D": "さしあげ"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "くれ",
+          "vn": "くれ (ai đó cho tôi)"
+        },
+        {
+          "key": "B",
+          "jp": "あげ",
+          "vn": "あげ (tôi cho người khác)"
+        },
+        {
+          "key": "C",
+          "jp": "くださり",
+          "vn": "くださり (bề trên cho tôi)"
+        },
+        {
+          "key": "D",
+          "jp": "さしあげ",
+          "vn": "さしあげ (tôi cho bề trên)"
+        }
+      ],
       "answer": "C",
-      "explanation_vn": "【くださる】= người BỀ TRÊN cho tôi (tôn kính ngữ của くれる). Giám đốc = bề trên → dùng くださる. くれる (A) đúng chiều nhưng không đủ kính trọng khi nói về giám đốc. あげる (B) sai chiều hoàn toàn. さしあげる (D) là tôi cho bề trên.",
+      "explanation": "【くださる】= người BỀ TRÊN cho tôi (tôn kính ngữ của くれる). Giám đốc = bề trên → dùng くださる. くれる (A) đúng chiều nhưng không đủ kính trọng khi nói về giám đốc. あげる (B) sai chiều hoàn toàn. さしあげる (D) là tôi cho bề trên.",
       "tip": "くれる ↑ くださる. Khi người cho là bề trên → dùng くださる. Khi kể lại với người khác: 「社長がくださいました」"
     },
     {
       "id": 7,
       "level": 1,
-      "category": "授受動詞基礎",
-      "category_vn": "Cơ bản — ~てあげる / ~てくれる",
-      "question_ja": "「山田さんが私の荷物を持って（　）ました。」— 山田さん（同僚）が話し手のために荷物を持ってくれた。",
+      "level_name": "Cơ bản",
+      "category": "Cơ bản — ~てあげる / ~てくれる",
+      "question_jp": "「山田さんが私の荷物を持って（　）ました。」— 山田さん（同僚）が話し手のために荷物を持ってくれた。",
       "question_vn": "\"Anh Yamada (đồng nghiệp) đã xách đồ giúp tôi.\" Chọn dạng đúng.",
-      "choices": {
-        "A": "あげ",
-        "B": "くれ",
-        "C": "もらい",
-        "D": "いただき"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "あげ",
+          "vn": "あげ (tôi làm cho người khác)"
+        },
+        {
+          "key": "B",
+          "jp": "くれ",
+          "vn": "くれ (ai đó làm cho tôi)"
+        },
+        {
+          "key": "C",
+          "jp": "もらい",
+          "vn": "もらい (tôi nhờ và được làm cho)"
+        },
+        {
+          "key": "D",
+          "jp": "いただき",
+          "vn": "いただき (tôi được bề trên làm cho)"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "【〜てくれる】= ai đó LÀM gì đó cho TÔI (ân huệ về phía tôi). Yamada xách đồ cho tôi → てくれる. 〜てあげる (A) = tôi làm cho người khác (chiều ngược). 〜てもらう (C) = tôi nhờ/được ai làm cho mình (nhấn mạnh việc tôi nhận). 〜ていただく (D) = tôi được bề trên làm cho.",
+      "explanation": "【〜てくれる】= ai đó LÀM gì đó cho TÔI (ân huệ về phía tôi). Yamada xách đồ cho tôi → てくれる. 〜てあげる (A) = tôi làm cho người khác (chiều ngược). 〜てもらう (C) = tôi nhờ/được ai làm cho mình (nhấn mạnh việc tôi nhận). 〜ていただく (D) = tôi được bề trên làm cho.",
       "tip": "〜てくれる vs 〜てもらう: cùng chiều ÂN HUỆ VỀ PHÍA TÔI nhưng chủ thể câu khác. くれる: [người khác] làm cho tôi. もらう: tôi nhận được [từ người khác]."
     },
     {
       "id": 8,
       "level": 1,
-      "category": "授受動詞基礎",
-      "category_vn": "Cơ bản — ~てもらう vs ~てもらえる",
-      "question_ja": "「田中さんに書類を確認して（　）ました。」— 話し手が田中さん（同僚）に頼んで書類を確認してもらった。",
+      "level_name": "Cơ bản",
+      "category": "Cơ bản — ~てもらう vs ~てもらえる",
+      "question_jp": "「田中さんに書類を確認して（　）ました。」— 話し手が田中さん（同僚）に頼んで書類を確認してもらった。",
       "question_vn": "\"Tôi đã nhờ anh Tanaka kiểm tra tài liệu.\" Chọn dạng đúng.",
-      "choices": {
-        "A": "くれ",
-        "B": "あげ",
-        "C": "もらい",
-        "D": "くださり"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "くれ",
+          "vn": "くれ (ai đó làm cho tôi)"
+        },
+        {
+          "key": "B",
+          "jp": "あげ",
+          "vn": "あげ (tôi làm cho người khác)"
+        },
+        {
+          "key": "C",
+          "jp": "もらい",
+          "vn": "もらい (tôi nhờ và được làm cho)"
+        },
+        {
+          "key": "D",
+          "jp": "くださり",
+          "vn": "くださり (bề trên làm cho tôi)"
+        }
+      ],
       "answer": "C",
-      "explanation_vn": "【〜てもらう】= tôi nhờ/được ai đó làm cho mình. Nhấn mạnh tôi là người hưởng lợi. 「田中さんに〜してもらった」= Tôi nhờ Tanaka làm và đã được làm. 〜てくれる (A) sai vị trí — chủ thể câu phải là Tanaka: 「田中さんが〜してくれた」. あげる (B) sai chiều. くださる (D) dùng khi Tanaka là bề trên.",
+      "explanation": "【〜てもらう】= tôi nhờ/được ai đó làm cho mình. Nhấn mạnh tôi là người hưởng lợi. 「田中さんに〜してもらった」= Tôi nhờ Tanaka làm và đã được làm. 〜てくれる (A) sai vị trí — chủ thể câu phải là Tanaka: 「田中さんが〜してくれた」. あげる (B) sai chiều. くださる (D) dùng khi Tanaka là bề trên.",
       "tip": "〜てもらう: CHỦ THỂ = tôi (người hưởng lợi). 〜てくれる: CHỦ THỂ = người làm."
     },
     {
       "id": 9,
       "level": 1,
-      "category": "授受動詞基礎",
-      "category_vn": "Cơ bản — Xác định chiều hướng",
-      "question_ja": "次の授受動詞について、「話し手→相手」の方向を表すものをすべて選んでください。",
+      "level_name": "Cơ bản",
+      "category": "Cơ bản — Xác định chiều hướng",
+      "question_jp": "次の授受動詞について、「話し手→相手」の方向を表すものをすべて選んでください。",
       "question_vn": "Trong các động từ sau, những động từ nào thể hiện chiều \"người nói → người khác\" (tôi cho)?",
-      "choices": {
-        "A": "あげる・さしあげる・やる",
-        "B": "くれる・くださる",
-        "C": "もらう・いただく",
-        "D": "くれる・あげる・もらう"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "あげる・さしあげる・やる",
+          "vn": "あげる・さしあげる・やる"
+        },
+        {
+          "key": "B",
+          "jp": "くれる・くださる",
+          "vn": "くれる・くださる"
+        },
+        {
+          "key": "C",
+          "jp": "もらう・いただく",
+          "vn": "もらう・いただく"
+        },
+        {
+          "key": "D",
+          "jp": "くれる・あげる・もらう",
+          "vn": "くれる・あげる・もらう"
+        }
+      ],
       "answer": "A",
-      "explanation_vn": "Chiều TÔI → NGƯỜI KHÁC (tôi cho): あげる (cho ngang/thấp), さしあげる (cho bề trên, khiêm), やる (cho động vật/thứ thấp). Chiều NGƯỜI KHÁC → TÔI (tôi nhận): くれる/くださる (ai đó cho tôi). Chiều TÔI NHẬN: もらう/いただく (tôi nhận từ ai đó). Đây là hệ thống 3 chiều cơ bản nhất.",
+      "explanation": "Chiều TÔI → NGƯỜI KHÁC (tôi cho): あげる (cho ngang/thấp), さしあげる (cho bề trên, khiêm), やる (cho động vật/thứ thấp). Chiều NGƯỜI KHÁC → TÔI (tôi nhận): くれる/くださる (ai đó cho tôi). Chiều TÔI NHẬN: もらう/いただく (tôi nhận từ ai đó). Đây là hệ thống 3 chiều cơ bản nhất.",
       "tip": "Sơ đồ: あげる/さしあげる/やる (→), くれる/くださる (←), もらう/いただく (←, nhìn từ góc tôi nhận)"
     },
     {
       "id": 10,
       "level": 1,
-      "category": "授受動詞基礎",
-      "category_vn": "Cơ bản — Cặp kính ngữ tương ứng",
-      "question_ja": "「くれる」の尊敬語（目上の人が話し手にくれる時）と、「あげる」の謙譲語（話し手が目上の人にあげる時）の正しい組み合わせはどれですか？",
+      "level_name": "Cơ bản",
+      "category": "Cơ bản — Cặp kính ngữ tương ứng",
+      "question_jp": "「くれる」の尊敬語（目上の人が話し手にくれる時）と、「あげる」の謙譲語（話し手が目上の人にあげる時）の正しい組み合わせはどれですか？",
       "question_vn": "Tôn kính ngữ của くれる (bề trên cho tôi) và khiêm nhường ngữ của あげる (tôi cho bề trên) là gì?",
-      "choices": {
-        "A": "くださる／さしあげる",
-        "B": "くれる／あげる",
-        "C": "いただく／もらう",
-        "D": "くださる／いただく"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "くださる／さしあげる",
+          "vn": "くださる／さしあげる"
+        },
+        {
+          "key": "B",
+          "jp": "くれる／あげる",
+          "vn": "くれる／あげる"
+        },
+        {
+          "key": "C",
+          "jp": "いただく／もらう",
+          "vn": "いただく／もらう"
+        },
+        {
+          "key": "D",
+          "jp": "くださる／いただく",
+          "vn": "くださる／いただく"
+        }
+      ],
       "answer": "A",
-      "explanation_vn": "Hệ thống cặp kính ngữ của 授受動詞: ①くれる → くださる (tôn kính, bề trên cho tôi), ②あげる → さしあげる (khiêm nhường, tôi cho bề trên), ③もらう → いただく (khiêm nhường, tôi nhận từ bề trên). Đây là 3 cặp cơ bản nhất cần thuộc lòng.",
+      "explanation": "Hệ thống cặp kính ngữ của 授受動詞: ①くれる → くださる (tôn kính, bề trên cho tôi), ②あげる → さしあげる (khiêm nhường, tôi cho bề trên), ③もらう → いただく (khiêm nhường, tôi nhận từ bề trên). Đây là 3 cặp cơ bản nhất cần thuộc lòng.",
       "tip": "Bảng 3 cặp: くれる↔くださる / あげる↔さしあげる / もらう↔いただく. Hướng đều giữ nguyên, chỉ thay đổi mức độ lịch sự."
     },
     {
       "id": 11,
       "level": 2,
-      "category": "授受動詞ビジネス初級",
-      "category_vn": "Sơ cấp kinh doanh — Quan hệ xã hội & đăng ký lịch sự",
-      "question_ja": "上司（部長）が話し手に資料を渡してくれた場面。正しい表現はどれですか？",
+      "level_name": "Trung bình",
+      "category": "Sơ cấp kinh doanh — Quan hệ xã hội & đăng ký lịch sự",
+      "question_jp": "上司（部長）が話し手に資料を渡してくれた場面。正しい表現はどれですか？",
       "question_vn": "Trưởng phòng trao tài liệu cho bạn. Cách nói ĐÚNG là gì?",
-      "choices": {
-        "A": "部長が資料をくれました。",
-        "B": "部長が資料をくださいました。",
-        "C": "部長が資料をもらいました。",
-        "D": "部長が資料をさしあげました。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "部長が資料をくれました。",
+          "vn": "Trưởng phòng đã cho tôi tài liệu. (くれる)"
+        },
+        {
+          "key": "B",
+          "jp": "部長が資料をくださいました。",
+          "vn": "Trưởng phòng đã cho tôi tài liệu ạ. (くださる)"
+        },
+        {
+          "key": "C",
+          "jp": "部長が資料をもらいました。",
+          "vn": "Trưởng phòng đã nhận tài liệu. (もらう)"
+        },
+        {
+          "key": "D",
+          "jp": "部長が資料をさしあげました。",
+          "vn": "Trưởng phòng đã đưa tài liệu cho bề trên. (さしあげる)"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "Trưởng phòng là bề trên → khi họ CHO tôi phải dùng 【くださる】(tôn kính ngữ của くれる). くれる (A) đúng chiều nhưng thiếu kính trọng với cấp trên. もらう (C) sai cấu trúc (chủ thể phải là tôi). さしあげる (D) sai chiều hoàn toàn (= tôi cho).",
+      "explanation": "Trưởng phòng là bề trên → khi họ CHO tôi phải dùng 【くださる】(tôn kính ngữ của くれる). くれる (A) đúng chiều nhưng thiếu kính trọng với cấp trên. もらう (C) sai cấu trúc (chủ thể phải là tôi). さしあげる (D) sai chiều hoàn toàn (= tôi cho).",
       "tip": "Quy tắc: Khi CẤP TRÊN cho bạn → くださる. Khi ĐỒNG NGHIỆP NGANG cho bạn → くれる."
     },
     {
       "id": 12,
       "level": 2,
-      "category": "授受動詞ビジネス初級",
-      "category_vn": "Sơ cấp kinh doanh — Nói với khách hàng",
-      "question_ja": "取引先のお客様にお土産を渡す場面。適切な言い方はどれですか？",
+      "level_name": "Trung bình",
+      "category": "Sơ cấp kinh doanh — Nói với khách hàng",
+      "question_jp": "取引先のお客様にお土産を渡す場面。適切な言い方はどれですか？",
       "question_vn": "Bạn trao quà lưu niệm cho khách hàng (bề trên). Cách nói phù hợp nhất là gì?",
-      "choices": {
-        "A": "お土産をあげます。",
-        "B": "お土産をやります。",
-        "C": "お土産をさしあげます。",
-        "D": "お土産をくれます。"
-      },
-      "answer": "C",
-      "explanation_vn": "【さしあげる】= tôi cho người BỀ TRÊN (khiêm nhường ngữ của あげる). Khách hàng = bề trên trong kinh doanh → さしあげる. あげる (A) dùng cho ngang/thấp hơn → không phù hợp với khách. やる (B) dùng cho động vật/thứ thấp → hoàn toàn sai với người. くれる (D) sai chiều.",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "お土産をあげます。",
+          "vn": "Tôi tặng quà lưu niệm. (あげる)"
+        },
+        {
+          "key": "B",
+          "jp": "お土産をやります。",
+          "vn": "Tôi cho quà lưu niệm. (やる)"
+        },
+        {
+          "key": "C",
+          "jp": "お土産をくれます。",
+          "vn": "Quà lưu niệm được cho tôi. (くれる)"
+        },
+        {
+          "key": "D",
+          "jp": "お土産をさしあげます。",
+          "vn": "Tôi xin kính tặng quà lưu niệm. (さしあげる)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "【さしあげる】= tôi cho người BỀ TRÊN (khiêm nhường ngữ của あげる). Khách hàng = bề trên trong kinh doanh → さしあげる → đáp án D. あげる (A) dùng cho ngang/thấp hơn → không phù hợp với khách. やる (B) dùng cho động vật/thứ thấp → hoàn toàn sai với người. くれる (C) sai chiều (ai đó cho tôi).",
       "tip": "Với KHÁCH HÀNG và CẤP TRÊN: あげる → さしあげる. Dù khách hàng không hẳn 'bề trên' nhưng trong kinh doanh Nhật, khách là thượng đế."
     },
     {
       "id": 13,
       "level": 2,
-      "category": "授受動詞ビジネス初級",
-      "category_vn": "Sơ cấp kinh doanh — Báo cáo với đồng nghiệp",
-      "question_ja": "「社長に直接ご指導を（　）、大変勉強になりました。」— 話し手が社長から指導を受けた。",
+      "level_name": "Trung bình",
+      "category": "Sơ cấp kinh doanh — Báo cáo với đồng nghiệp",
+      "question_jp": "「社長に直接ご指導を（　）、大変勉強になりました。」— 話し手が社長から指導を受けた。",
       "question_vn": "\"Được giám đốc trực tiếp chỉ dạy, tôi học được rất nhiều.\" Chọn động từ đúng.",
-      "choices": {
-        "A": "もらって",
-        "B": "くれて",
-        "C": "いただいて",
-        "D": "くださって"
-      },
-      "answer": "C",
-      "explanation_vn": "【いただく】= tôi nhận từ người bề trên (khiêm nhường ngữ của もらう). Giám đốc = bề trên → ご指導をいただく. もらう (A) đúng chiều nhưng thiếu kính trọng với giám đốc. くれる (B) sai cấu trúc — くださって cần chủ ngữ「が」(社長が), nhưng câu có「に」(社長に) → distractor くださって không điền được về cấu trúc, không chỉ về góc nhìn. くださる (D) đúng nếu chủ thể là giám đốc: 「社長がご指導をくださって」.",
-      "tip": "いただく: CHỦ THỂ = tôi (tôi nhận). くださる: CHỦ THỂ = cấp trên (họ cho). Cùng tình huống nhưng góc nhìn khác nhau."
+      "choices": [
+        {
+          "key": "A",
+          "jp": "いただいて",
+          "vn": "いただいて (nhận từ bề trên)"
+        },
+        {
+          "key": "B",
+          "jp": "くれて",
+          "vn": "くれて (ai đó cho tôi)"
+        },
+        {
+          "key": "C",
+          "jp": "もらって",
+          "vn": "もらって (nhận)"
+        },
+        {
+          "key": "D",
+          "jp": "くださって",
+          "vn": "くださって (bề trên cho tôi)"
+        }
+      ],
+      "answer": "A",
+      "explanation": "【いただく】= tôi nhận từ người bề trên (khiêm nhường ngữ của もらう). Giám đốc = bề trên → ご指導をいただく → đáp án A. もらう (C) đúng chiều nhưng thiếu kính trọng với giám đốc. (B) くれて sai hai điểm: vừa thiếu kính trọng (くれる là dạng thường), vừa sai cấu trúc — くれる cần chủ ngữ「が」(社長が) trong khi câu đã có「に」(社長に). (D) くださって cũng cần chủ ngữ「が」nên không điền được vào chỗ trống này; câu đúng với くださる phải là「社長がご指導をくださって」.",
+      "tip": "いただく: CHỦ THỂ = tôi (tôi nhận, đi với 〜に). くださる: CHỦ THỂ = cấp trên (họ cho, đi với 〜が). Cùng tình huống nhưng góc nhìn và trợ từ khác nhau."
     },
     {
       "id": 14,
       "level": 2,
-      "category": "授受動詞ビジネス初級",
-      "category_vn": "Sơ cấp kinh doanh — ~てくれる vs ~てくださる",
-      "question_ja": "先輩が仕事を手伝ってくれた場面。改まった場（ビジネス）で最も丁寧な言い方はどれですか？",
+      "level_name": "Trung bình",
+      "category": "Sơ cấp kinh doanh — ~てくれる vs ~てくださる",
+      "question_jp": "先輩が仕事を手伝ってくれた場面。改まった場（ビジネス）で最も丁寧な言い方はどれですか？",
       "question_vn": "Senpai đã giúp đỡ công việc cho bạn. Cách nói LỊCH SỰ NHẤT trong môi trường kinh doanh trang trọng là gì?",
-      "choices": {
-        "A": "先輩が手伝ってくれました。",
-        "B": "先輩が手伝ってくださいました。",
-        "C": "先輩に手伝ってあげました。",
-        "D": "先輩から手伝ってもらいました。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "先輩が手伝ってくれました。",
+          "vn": "Senpai đã giúp tôi. (くれる)"
+        },
+        {
+          "key": "B",
+          "jp": "先輩が手伝ってくださいました。",
+          "vn": "Senpai đã giúp tôi ạ. (くださる)"
+        },
+        {
+          "key": "C",
+          "jp": "先輩に手伝ってあげました。",
+          "vn": "Tôi đã giúp senpai. (あげる)"
+        },
+        {
+          "key": "D",
+          "jp": "先輩から手伝ってもらいました。",
+          "vn": "Tôi được senpai giúp. (もらう, dùng から)"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "Senpai = bề trên → dùng 【〜てくださる】(tôn kính ngữ của 〜てくれる). (A) 〜てくれる cũng đúng nhưng trong văn cảnh kinh doanh/lịch sự với senpai, くださる được ưa dùng hơn. (C) sai chiều hoàn toàn. (D) 「先輩から」không tự nhiên — thường dùng 「先輩に〜してもらう」. Cả A và B đều dùng được, nhưng B lịch sự hơn với senpai.",
+      "explanation": "Senpai = bề trên → dùng 【〜てくださる】(tôn kính ngữ của 〜てくれる). (A) 〜てくれる cũng đúng nhưng trong văn cảnh kinh doanh/lịch sự với senpai, くださる được ưa dùng hơn. (C) sai chiều hoàn toàn. (D) 「先輩から」không tự nhiên — thường dùng 「先輩に〜してもらう」. Cả A và B đều dùng được, nhưng B lịch sự hơn với senpai.",
       "tip": "Mức độ kính trọng: 〜てくれる (bình thường) < 〜てくださる (lịch sự, với bề trên). Trong môi trường công ty Nhật, dùng くださる với senpai là an toàn nhất."
     },
     {
       "id": 15,
       "level": 2,
-      "category": "授受動詞ビジネス初級",
-      "category_vn": "Sơ cấp kinh doanh — ~てもらう vs ~ていただく",
-      "question_ja": "上司に書類を確認してもらう場面。より丁寧な表現はどれですか？",
+      "level_name": "Trung bình",
+      "category": "Sơ cấp kinh doanh — ~てもらう vs ~ていただく",
+      "question_jp": "上司に書類を確認してもらう場面。より丁寧な表現はどれですか？",
       "question_vn": "Nhờ cấp trên kiểm tra tài liệu giúp. Cách nói lịch sự hơn là gì?",
-      "choices": {
-        "A": "上司に書類を確認してもらいました。",
-        "B": "上司に書類を確認していただきました。",
-        "C": "上司に書類を確認してあげました。",
-        "D": "上司が書類を確認してくれました。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "上司に書類を確認してもらいました。",
+          "vn": "Tôi đã nhờ cấp trên kiểm tra tài liệu. (もらう)"
+        },
+        {
+          "key": "B",
+          "jp": "上司に書類を確認していただきました。",
+          "vn": "Tôi đã được cấp trên kiểm tra tài liệu ạ. (いただく)"
+        },
+        {
+          "key": "C",
+          "jp": "上司に書類を確認してあげました。",
+          "vn": "Tôi đã kiểm tra tài liệu giúp cấp trên. (あげる)"
+        },
+        {
+          "key": "D",
+          "jp": "上司が書類を確認してくれました。",
+          "vn": "Cấp trên đã kiểm tra tài liệu cho tôi. (くれる)"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "【〜ていただく】= tôi được/nhờ người bề trên làm gì (khiêm nhường ngữ của 〜てもらう). Khi đối tượng là cấp trên → dùng いただく thay vì もらう. (A) もらう đúng về ý nhưng thiếu kính trọng với cấp trên. (C) sai chiều. (D) đúng nhưng chủ thể là cấp trên, không phải tôi — đây là cách nói くれる, khác góc nhìn.",
+      "explanation": "【〜ていただく】= tôi được/nhờ người bề trên làm gì (khiêm nhường ngữ của 〜てもらう). Khi đối tượng là cấp trên → dùng いただく thay vì もらう. (A) もらう đúng về ý nhưng thiếu kính trọng với cấp trên. (C) sai chiều. (D) đúng nhưng chủ thể là cấp trên, không phải tôi — đây là cách nói くれる, khác góc nhìn.",
       "tip": "てもらう → ていただく (khi nhờ bề trên). Đây là một trong những cấu trúc quan trọng nhất trong kinh doanh Nhật."
     },
     {
       "id": 16,
       "level": 2,
-      "category": "授受動詞ビジネス初級",
-      "category_vn": "Sơ cấp kinh doanh — Câu xin phép lịch sự",
-      "question_ja": "取引先の担当者に「資料を送ってほしい」とお願いする時、最も丁寧な表現はどれですか？",
+      "level_name": "Trung bình",
+      "category": "Sơ cấp kinh doanh — Câu xin phép lịch sự",
+      "question_jp": "取引先の担当者に「資料を送ってほしい」とお願いする時、最も丁寧な表現はどれですか？",
       "question_vn": "Muốn yêu cầu đối tác gửi tài liệu, cách nói lịch sự nhất là gì?",
-      "choices": {
-        "A": "資料を送ってください。",
-        "B": "資料を送ってもらえますか。",
-        "C": "資料をお送りいただけますでしょうか。",
-        "D": "資料を送ってくれますか。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "この資料を送ってください。",
+          "vn": "Hãy gửi tài liệu này."
+        },
+        {
+          "key": "B",
+          "jp": "この資料を送ってもらえますか。",
+          "vn": "Anh/chị gửi tài liệu này cho tôi được không?"
+        },
+        {
+          "key": "C",
+          "jp": "この資料をお送りいただけますか。",
+          "vn": "Quý vị có thể gửi tài liệu này cho chúng tôi không ạ?"
+        },
+        {
+          "key": "D",
+          "jp": "この資料を送ってくれますか。",
+          "vn": "Anh/chị gửi tài liệu này cho tôi nhé?"
+        }
+      ],
       "answer": "C",
-      "explanation_vn": "【お〜いただけますでしょうか】= cấu trúc lịch sự cao nhất để xin phép/yêu cầu bề trên. Kết hợp: お〜 (tiếp đầu ngữ lịch sự) + いただく (khiêm) + ますでしょうか (không chắc chắn, nhã nhặn). (A) 〜てください = lịch sự cơ bản. (B) 〜てもらえますか = bình thường. (D) 〜てくれますか = không đủ lịch sự với đối tác.",
+      "explanation": "【お〜いただけますでしょうか】= cấu trúc lịch sự cao nhất để xin phép/yêu cầu bề trên. Kết hợp: お〜 (tiếp đầu ngữ lịch sự) + いただく (khiêm) + ますでしょうか (không chắc chắn, nhã nhặn). (A) 〜てください = lịch sự cơ bản. (B) 〜てもらえますか = bình thường. (D) 〜てくれますか = không đủ lịch sự với đối tác.",
       "tip": "Bậc thang lịch sự khi XIN: 送ってくれる？ < 送ってもらえますか < 送っていただけますか < お送りいただけますでしょうか"
     },
     {
       "id": 17,
       "level": 2,
-      "category": "授受動詞ビジネス初級",
-      "category_vn": "Sơ cấp kinh doanh — Điện thoại cơ bản",
-      "question_ja": "電話で「田中部長はいらっしゃいますか」と聞かれ、田中部長が不在の場面。折り返し電話をお願いするとき。",
+      "level_name": "Trung bình",
+      "category": "Sơ cấp kinh doanh — Điện thoại cơ bản",
+      "question_jp": "電話で「田中部長はいらっしゃいますか」と聞かれ、田中部長が不在の場面。折り返し電話をお願いするとき。",
       "question_vn": "Khách hỏi trưởng phòng Tanaka nhưng ngài đi vắng. Bạn nhờ khách gọi lại. Cách nói đúng là gì?",
-      "choices": {
-        "A": "後で田中から電話してあげます。",
-        "B": "後ほど田中よりご連絡させていただきます。",
-        "C": "田中に電話してもらえますか。",
-        "D": "田中部長が電話をくださいます。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "後で田中から折り返し電話してあげます。",
+          "vn": "Lát nữa Tanaka sẽ gọi lại cho quý vị. (してあげる)"
+        },
+        {
+          "key": "B",
+          "jp": "後ほど田中よりご連絡させていただきます。",
+          "vn": "Lát nữa Tanaka bên chúng tôi xin phép liên hệ ạ. (させていただく)"
+        },
+        {
+          "key": "C",
+          "jp": "田中に折り返し電話してもらえますか。",
+          "vn": "Anh/chị nhờ Tanaka gọi lại được không? (もらう)"
+        },
+        {
+          "key": "D",
+          "jp": "田中部長が後ほどお電話をくださいます。",
+          "vn": "Trưởng phòng Tanaka lát nữa sẽ gọi điện ạ. (くださる)"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "【ご連絡させていただく】= cấu trúc kính ngữ hoàn chỉnh cho lời hứa liên lạc với khách. させていただく = khiêm nhường khi xin phép làm gì. 後ほど = sau một lúc (lịch sự hơn 後で). 田中より = từ Tanaka (uchi member, bỏ kính ngữ). (A) してあげる với khách = cực kỳ thô lỗ. (C) cấu trúc sai hoàn toàn. (D) sai chiều và dùng kính ngữ cho nội bộ.",
+      "explanation": "【ご連絡させていただく】= cấu trúc kính ngữ hoàn chỉnh cho lời hứa liên lạc với khách. させていただく = khiêm nhường khi xin phép làm gì. 後ほど = sau một lúc (lịch sự hơn 後で). 田中より = từ Tanaka (bỏ kính ngữ). (A) してあげる với khách = cực kỳ thô lỗ. (C) cấu trúc sai hoàn toàn. (D) sai chiều và dùng kính ngữ cho nội bộ.",
       "tip": "Khi HỨA liên lạc với khách: 「後ほど〇〇よりご連絡させていただきます」là công thức chuẩn."
     },
     {
       "id": 18,
       "level": 2,
-      "category": "授受動詞ビジネス初級",
-      "category_vn": "Sơ cấp kinh doanh — Email cảm ơn",
-      "question_ja": "メールで「先日ご連絡いただきありがとうございました」の「いただき」の意味として正しいものはどれですか？",
+      "level_name": "Trung bình",
+      "category": "Sơ cấp kinh doanh — Email cảm ơn",
+      "question_jp": "メールで「先日ご連絡いただきありがとうございました」の「いただき」の意味として正しいものはどれですか？",
       "question_vn": "Trong câu email \"Cảm ơn đã liên lạc cho chúng tôi hôm trước\", 「いただき」có nghĩa gì?",
-      "choices": {
-        "A": "私がご連絡をあげた",
-        "B": "相手がご連絡をくれた（尊敬語）",
-        "C": "私が相手からご連絡をもらった（謙譲語）",
-        "D": "相手が私にご連絡をさしあげた"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "私が相手にご連絡をさしあげた",
+          "vn": "Tôi đã kính gửi liên lạc cho đối phương"
+        },
+        {
+          "key": "B",
+          "jp": "相手がご連絡をくれた（尊敬語）",
+          "vn": "Đối phương đã liên lạc cho tôi (Sonkeigo)"
+        },
+        {
+          "key": "C",
+          "jp": "私が相手からご連絡をもらった（謙譲）",
+          "vn": "Tôi nhận được sự liên lạc từ đối phương (khiêm nhường)"
+        },
+        {
+          "key": "D",
+          "jp": "相手が私にご連絡をさしあげた",
+          "vn": "Đối phương đã kính gửi liên lạc cho tôi (さしあげる)"
+        }
+      ],
       "answer": "C",
-      "explanation_vn": "「ご連絡いただく」= tôi nhận được sự liên lạc từ bạn (khiêm nhường ngữ của もらう). Chiều: Đối tác → Tôi. Tôi = người nhận ân huệ. いただく ở đây là khiêm nhường, thể hiện sự biết ơn. (B) Đúng về ý nhưng くれる không phải cách phân tích chính xác của いただく. いただく là khiêm ngữ nhìn từ góc tôi nhận, không phải tôn kính ngữ.",
+      "explanation": "「ご連絡いただく」= tôi nhận được sự liên lạc từ bạn (khiêm nhường ngữ của もらう). Chiều: Đối tác → Tôi. Tôi = người nhận ân huệ. いただく ở đây là khiêm nhường, thể hiện sự biết ơn. (B) Đúng về ý nhưng くれる không phải cách phân tích chính xác của いただく. いただく là khiêm ngữ nhìn từ góc tôi nhận, không phải tôn kính ngữ.",
       "tip": "「〜していただく」= Tôi nhận được hành động từ người khác (khiêm ngữ). Đây là cấu trúc RẤT phổ biến trong email kinh doanh Nhật."
     },
     {
       "id": 19,
       "level": 2,
-      "category": "授受動詞ビジネス初級",
-      "category_vn": "Sơ cấp kinh doanh — てあげる với khách hàng",
-      "question_ja": "お客様への対応で、次の表現のうち失礼なものはどれですか？",
+      "level_name": "Trung bình",
+      "category": "Sơ cấp kinh doanh — てあげる với khách hàng",
+      "question_jp": "お客様への対応で、次の表現のうち失礼なものはどれですか？",
       "question_vn": "Trong các cách nói với khách hàng, câu nào là THẤT LỄ?",
-      "choices": {
-        "A": "ご案内いたします。",
-        "B": "こちらにご案内してさしあげます。",
-        "C": "こちらへどうぞ、ご案内申し上げます。",
-        "D": "ご案内させていただきます。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "ご案内いたします。",
+          "vn": "Tôi xin hướng dẫn ạ. (いたす)"
+        },
+        {
+          "key": "B",
+          "jp": "こちらにご案内してさしあげます。",
+          "vn": "Tôi xin hướng dẫn quý vị đến đây. (してさしあげる)"
+        },
+        {
+          "key": "C",
+          "jp": "こちらへどうぞ、ご案内申し上げます。",
+          "vn": "Mời quý vị đi lối này, tôi xin hướng dẫn ạ. (申し上げる)"
+        },
+        {
+          "key": "D",
+          "jp": "ご案内させていただきます。",
+          "vn": "Tôi xin phép hướng dẫn ạ. (させていただく)"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "「〜してさしあげます」với khách hàng nghe có vẻ BỀ TRÊN hơn khách, mang ý 'tôi ban ơn cho anh' — rất thô lỗ trong kinh doanh Nhật. さしあげる dùng khi TÔI cho/làm cho bề trên, nhưng khi nói ra như vậy lại mang hàm ý tự cao. Thay vào đó: ご案内いたします (A), ご案内申し上げます (C), ご案内させていただく (D) đều tự nhiên và lịch sự.",
+      "explanation": "「〜してさしあげます」với khách hàng nghe có vẻ BỀ TRÊN hơn khách, mang ý 'tôi ban ơn cho anh' — rất thô lỗ trong kinh doanh Nhật. さしあげる dùng khi TÔI cho/làm cho bề trên, nhưng khi nói ra như vậy lại mang hàm ý tự cao. Thay vào đó: ご案内いたします (A), ご案内申し上げます (C), ご案内させていただく (D) đều tự nhiên và lịch sự.",
       "tip": "⚠️ TRÁNH「〜てさしあげます」với khách hàng! Dù đúng về ngữ pháp nhưng nghe kỳ cục vì hàm ý 'tôi đang ban ơn'. Thay bằng 〜いたします hoặc 〜させていただきます."
     },
     {
       "id": 20,
       "level": 2,
-      "category": "授受動詞ビジネス初級",
-      "category_vn": "Sơ cấp kinh doanh — Uchi/Soto với授受動詞",
-      "question_ja": "社外の取引先との電話で「弊社の鈴木が先ほどお電話（　）と伺っております。」空欄に入る正しい表現はどれですか？",
+      "level_name": "Trung bình",
+      "category": "Sơ cấp kinh doanh — Uchi/Soto với授受動詞",
+      "question_jp": "社外の取引先との電話で「弊社の鈴木が先ほどお電話（　）と伺っております。」空欄に入る正しい表現はどれですか？",
       "question_vn": "\"Tôi nghe nói nhân viên Suzuki của chúng tôi đã gọi điện cho quý vị lúc nãy.\" Điền vào chỗ trống.",
-      "choices": {
-        "A": "をいたした",
-        "B": "をくださった",
-        "C": "をさしあげた",
-        "D": "をいただいた"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "をいたした",
+          "vn": "をいたした (いたす — khiêm nhường ngữ của する)"
+        },
+        {
+          "key": "B",
+          "jp": "をくださった",
+          "vn": "をくださった (くださる — bề trên cho tôi)"
+        },
+        {
+          "key": "C",
+          "jp": "をさしあげた",
+          "vn": "をさしあげた (さしあげる — tôi cho bề trên)"
+        },
+        {
+          "key": "D",
+          "jp": "をいただいた",
+          "vn": "をいただいた (いただく — tôi nhận từ bề trên)"
+        }
+      ],
       "answer": "A",
-      "explanation_vn": "Suzuki là thành viên TRONG CÔNG TY (uchi) → khi nói với bên ngoài, KHÔNG dùng kính ngữ cho Suzuki. お電話をいたす = khiêm nhường ngữ của する, hạ thấp hành động của Suzuki (uchi). (B) くださる = bề trên cho tôi — sai chiều. (C) さしあげる = tôi cho bề trên — ngữ cảnh này Suzuki gọi cho đối tác, nhưng さしあげる nghe không tự nhiên ở đây. (D) sai chiều (= nhận).",
+      "explanation": "Suzuki là thành viên TRONG CÔNG TY (Uchi) → khi nói với bên ngoài, KHÔNG dùng kính ngữ cho Suzuki. お電話をいたす = khiêm nhường ngữ của する, hạ thấp hành động của Suzuki (Uchi). (B) くださる = bề trên cho tôi — sai chiều. (C) さしあげる = tôi cho bề trên — ngữ cảnh này Suzuki gọi cho đối tác, nhưng さしあげる nghe không tự nhiên ở đây. (D) sai chiều (= nhận).",
       "tip": "Quy tắc Uchi/Soto với 授受動詞: Khi NGƯỜI TRONG CÔNG TY làm gì với BÊN NGOÀI → dùng khiêm ngữ (〜いたす, 申す…) cho người trong công ty."
     },
     {
       "id": 21,
       "level": 3,
-      "category": "授受動詞ビジネス中級",
-      "category_vn": "Trung cấp kinh doanh — Tiếp đón khách & tình huống phức tạp",
-      "question_ja": "来客（取引先）が会社にお土産を持ってきてくれた場面。お客様の行為（くださったこと）を直接立てて感謝する言い方はどれですか？",
+      "level_name": "Khá",
+      "category": "Trung cấp kinh doanh — Tiếp đón khách & tình huống phức tạp",
+      "question_jp": "来客（取引先）が会社にお土産を持ってきてくれた場面。お客様の行為（くださったこと）を直接立てて感謝する言い方はどれですか？",
       "question_vn": "Khách hàng mang quà đến tặng. Cách cảm ơn TÔN VINH TRỰC TIẾP hành động (việc khách đã cho) của khách là gì?",
-      "choices": {
-        "A": "お土産をくれてありがとうございます。",
-        "B": "お土産をいただきまして、ありがとうございます。",
-        "C": "お土産をもらってうれしいです。",
-        "D": "お土産をくださいまして、誠にありがとうございます。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "お土産をくれてありがとうございます。",
+          "vn": "Cảm ơn vì đã cho quà. (くれる)"
+        },
+        {
+          "key": "B",
+          "jp": "お土産をいただきまして、ありがとうございます。",
+          "vn": "Cảm ơn vì tôi đã nhận được quà ạ. (いただく)"
+        },
+        {
+          "key": "C",
+          "jp": "お土産をもらってうれしいです。",
+          "vn": "Tôi vui vì nhận được quà. (もらう)"
+        },
+        {
+          "key": "D",
+          "jp": "お土産をくださいまして、誠にありがとうございます。",
+          "vn": "Thành thật cảm ơn quý vị đã tặng quà ạ. (くださる)"
+        }
+      ],
       "answer": "D",
-      "explanation_vn": "Khách hàng = bề trên → khi HỌ cho mình, dùng 【くださる】. 「くださいまして、誠にありがとうございます」TÔN VINH TRỰC TIẾP hành động của khách → đúng với yêu cầu đề. (B) 「お土産をいただき、ありがとうございます」cũng đúng và rất phổ biến, nhưng nhìn từ góc 'tôi nhận' (くださる nhìn từ góc 'khách cho') — vì đề hỏi cách tôn vinh trực tiếp hành động của khách nên D là đáp án.",
+      "explanation": "Khách hàng = bề trên → khi HỌ cho mình, dùng 【くださる】. 「くださいまして、誠にありがとうございます」TÔN VINH TRỰC TIẾP hành động của khách → đúng với yêu cầu đề. (B) 「お土産をいただき、ありがとうございます」cũng đúng và rất phổ biến, nhưng nhìn từ góc 'tôi nhận' (くださる nhìn từ góc 'khách cho') — vì đề hỏi cách tôn vinh trực tiếp hành động của khách nên D là đáp án.",
       "tip": "Cả「〜をいただきまして」và「〜をくださいまして」đều đúng khi cảm ơn quà từ khách. くださる nhấn mạnh ân huệ của đối phương; いただく nhấn mạnh việc tôi được nhận."
     },
     {
       "id": 22,
       "level": 3,
-      "category": "授受動詞ビジネス中級",
-      "category_vn": "Trung cấp kinh doanh — させていただく",
-      "question_ja": "会議で発表する場面で、「では、私が発表を（　）。」最も適切な表現はどれですか？",
+      "level_name": "Khá",
+      "category": "Trung cấp kinh doanh — させていただく",
+      "question_jp": "会議で発表する場面で、「では、私が発表を（　）。」最も適切な表現はどれですか？",
       "question_vn": "Trong buổi họp, bạn chuẩn bị thuyết trình. Cách nói phù hợp nhất là gì?",
-      "choices": {
-        "A": "します。",
-        "B": "いたします。",
-        "C": "させていただきます。",
-        "D": "してあげます。"
-      },
-      "answer": "C",
-      "explanation_vn": "【させていただく】= tôi xin phép được làm điều gì đó (謙譲語 nâng cao). Kết hợp: させる (sai khiến/cho phép) + いただく (nhận ân huệ) → 'Tôi được phép làm'. Trong họp, xin phép thuyết trình trước các bậc bề trên → させていただく phù hợp nhất. いたします (B) cũng tốt nhưng ít hàm ý 'xin phép'. してあげます (D) cực kỳ thô lỗ — hàm ý 'tôi ban ơn'.",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "します。",
+          "vn": "Tôi sẽ làm. (する)"
+        },
+        {
+          "key": "B",
+          "jp": "いたします。",
+          "vn": "Tôi xin làm ạ. (いたす)"
+        },
+        {
+          "key": "C",
+          "jp": "してあげます。",
+          "vn": "Tôi sẽ làm giúp cho. (してあげる)"
+        },
+        {
+          "key": "D",
+          "jp": "させていただきます。",
+          "vn": "Tôi xin phép được làm ạ. (させていただく)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "【させていただく】= tôi xin phép được làm điều gì đó (khiêm nhường ngữ nâng cao) → đáp án D. Kết hợp: させる (sai khiến/cho phép) + いただく (nhận ân huệ) → 'Tôi được phép làm'. Trong họp, xin phép thuyết trình trước các bậc bề trên → させていただく phù hợp nhất. します (A) đúng nhưng thiếu kính ngữ. いたします (B) cũng tốt nhưng ít hàm ý 'xin phép' hơn. してあげます (C) cực kỳ thô lỗ — hàm ý 'tôi ban ơn'.",
       "tip": "させていただく = 'Tôi xin phép được làm' — phổ biến nhất trong họp, thuyết trình, email. Lạm dụng sẽ nghe rườm rà nhưng dùng đúng chỗ rất hay."
     },
     {
       "id": 23,
       "level": 3,
-      "category": "授受動詞ビジネス中級",
-      "category_vn": "Trung cấp kinh doanh — Email request nâng cao",
-      "question_ja": "メールで「ご確認をお願いしたい」という意味で最も丁寧な表現はどれですか？",
+      "level_name": "Khá",
+      "category": "Trung cấp kinh doanh — Email request nâng cao",
+      "question_jp": "メールで「ご確認をお願いしたい」という意味で最も丁寧な表現はどれですか？",
       "question_vn": "Muốn nói trong email 'Kính nhờ quý vị xem xét', cách nói trang trọng nhất là gì?",
-      "choices": {
-        "A": "確認してください。",
-        "B": "確認してもらえますか。",
-        "C": "ご確認いただけますと幸いです。",
-        "D": "確認していただけますか。"
-      },
-      "answer": "C",
-      "explanation_vn": "【ご確認いただけますと幸いです】= cấu trúc email lịch sự nhất khi nhờ ai đó. Phân tích: ご確認 (danh từ kính) + いただく (khiêm, tôi nhận) + ますと幸いです (nếu… thì tôi rất vui). Không áp đặt, rất nhã nhặn. (D) 〜していただけますか cũng rất lịch sự nhưng hơi trực tiếp hơn. (C) mềm mại hơn vì có 幸いです.",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "ご確認いただけますと幸いです。",
+          "vn": "Rất mong quý vị vui lòng kiểm tra giúp ạ."
+        },
+        {
+          "key": "B",
+          "jp": "確認してもらえますか。",
+          "vn": "Anh/chị kiểm tra giúp tôi được không?"
+        },
+        {
+          "key": "C",
+          "jp": "確認してください。",
+          "vn": "Hãy kiểm tra."
+        },
+        {
+          "key": "D",
+          "jp": "確認していただけますか。",
+          "vn": "Quý vị có thể kiểm tra giúp không ạ?"
+        }
+      ],
+      "answer": "A",
+      "explanation": "【ご確認いただけますと幸いです】= cấu trúc email lịch sự nhất khi nhờ ai đó → đáp án A. Phân tích: ご確認 (danh từ kính) + いただく (khiêm, tôi nhận) + ますと幸いです (nếu… thì tôi rất vui). Không áp đặt, rất nhã nhặn. (C) 確認してください = mệnh lệnh, quá trực tiếp. (B) 確認してもらえますか = bình thường, thiếu trang trọng với đối tác. (D) 〜していただけますか cũng rất lịch sự nhưng hơi trực tiếp hơn A vì thiếu 幸いです làm mềm câu.",
       "tip": "Bậc thang lịch sự trong email nhờ: ください < もらえますか < いただけますか < いただけますと幸いです < いただければ幸いに存じます"
     },
     {
       "id": 24,
       "level": 3,
-      "category": "授受動詞ビジネス中級",
-      "category_vn": "Trung cấp kinh doanh — Báo cáo 3 bên",
-      "question_ja": "社内で「取引先のA社の山田様から、弊社の鈴木部長にプレゼントが届いた」という状況を報告する。正しい文はどれですか？",
-      "question_vn": "A công ty (đối tác) gửi quà cho trưởng phòng Suzuki công ty bạn. Cách báo cáo nội bộ đúng là gì?",
-      "choices": {
-        "A": "A社の山田様が鈴木部長にプレゼントをあげました。",
-        "B": "A社の山田様が鈴木部長にプレゼントをくださいました。",
-        "C": "鈴木部長がA社の山田様からプレゼントをいただきました。",
-        "D": "鈴木部長がA社の山田様にプレゼントをさしあげました。"
-      },
+      "level_name": "Khá",
+      "category": "Trung cấp kinh doanh — Báo cáo 3 bên",
+      "question_jp": "社内で「取引先のA社の山田様から、弊社の鈴木部長にプレゼントが届いた」という状況を、受け取った側（鈴木部長）を主語にして報告する言い方はどれですか。",
+      "question_vn": "A công ty (đối tác) gửi quà cho trưởng phòng Suzuki công ty bạn. Cách báo cáo nội bộ LẤY NGƯỜI NHẬN (Trưởng phòng Suzuki) LÀM CHỦ NGỮ là gì?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "A社の山田様が鈴木部長にプレゼントをあげました。",
+          "vn": "Ông Yamada công ty A đã tặng quà cho Trưởng phòng Suzuki. (あげる)"
+        },
+        {
+          "key": "B",
+          "jp": "A社の山田様が鈴木部長にプレゼントをくださいました。",
+          "vn": "Ông Yamada công ty A đã tặng quà cho Trưởng phòng Suzuki. (くださる)"
+        },
+        {
+          "key": "C",
+          "jp": "鈴木部長がA社の山田様からプレゼントをいただきました。",
+          "vn": "Trưởng phòng Suzuki đã nhận quà từ ông Yamada công ty A. (いただく)"
+        },
+        {
+          "key": "D",
+          "jp": "鈴木部長がA社の山田様にプレゼントをさしあげました。",
+          "vn": "Trưởng phòng Suzuki đã tặng quà cho ông Yamada công ty A. (さしあげる)"
+        }
+      ],
       "answer": "C",
-      "explanation_vn": "Khi báo cáo nội bộ về tình huống 3 bên: A社山田様 (ngoài) → Suzuki (trong). (B) và (C) đều đúng về chiều, nhưng: (B) くださいました = nhấn mạnh ân huệ của Yamada-san — hơi kỳ khi báo cáo nội bộ về quà cho sếp. (C) 「〜をいただきました」nhìn từ góc trong công ty (uchi), tự nhiên hơn khi báo cáo nội bộ. Khi báo cáo nội bộ việc người trong công ty nhận vật từ đối tác, tiếng Nhật ưu tiên góc nhìn uchi (いただく), không tôn kính hành động của soto. (A) あげる với khách = thô lỗ. (D) sai chiều.",
-      "tip": "Khi báo cáo nội bộ: 「〜様からいただきました」(chiều: ngoài→trong, nhìn từ trong) là tự nhiên nhất."
+      "explanation": "Đề yêu cầu lấy NGƯỜI NHẬN (鈴木部長) làm chủ ngữ → chỉ phương án C thỏa mãn về cấu trúc: 「鈴木部長がA社の山田様からプレゼントをいただきました」— chủ ngữ là Suzuki, dùng いただく (khiêm nhường ngữ của もらう) vì Suzuki là người Uchi nhận từ Soto. Phương án B「山田様が〜くださいました」cũng đúng ngữ pháp và đúng chiều kính ngữ, nhưng chủ ngữ là 山田様 (người CHO) nên không khớp yêu cầu đề. Phương án A dùng あげる với khách = thô lỗ. Phương án D sai chiều hoàn toàn (Suzuki tặng cho Yamada).",
+      "tip": "Cùng một sự việc, hai chủ ngữ: 「〜様がくださいました」(người cho làm chủ ngữ) ↔ 「〜がいただきました」(người nhận làm chủ ngữ). Chọn theo góc nhìn đề yêu cầu."
     },
     {
       "id": 25,
       "level": 3,
-      "category": "授受動詞ビジネス中級",
-      "category_vn": "Trung cấp kinh doanh — Phân biệt ~てくださる vs ~ていただく",
-      "question_ja": "「部長が書類を確認してくださいました」と「部長に書類を確認していただきました」の違いとして正しいものはどれですか？",
+      "level_name": "Khá",
+      "category": "Trung cấp kinh doanh — Phân biệt ~てくださる vs ~ていただく",
+      "question_jp": "「部長が書類を確認してくださいました」と「部長に書類を確認していただきました」の違いとして正しいものはどれですか？",
       "question_vn": "Sự khác nhau giữa hai câu: ①\"Trưởng phòng đã kiểm tra tài liệu cho tôi\" và ②\"Tôi được trưởng phòng kiểm tra tài liệu\" là gì?",
-      "choices": {
-        "A": "①は正しくて、②は間違い",
-        "B": "②は正しくて、①は間違い",
-        "C": "①は部長の行動を主体に、②は話し手（私）が恩恵を受けたことを主体に表す",
-        "D": "意味は完全に同じで、違いはない"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "①だけが正しい日本語で、②は文法的に誤り",
+          "vn": "Chỉ ① là tiếng Nhật đúng, ② sai ngữ pháp"
+        },
+        {
+          "key": "B",
+          "jp": "②だけが正しい日本語で、①は文法的に誤り",
+          "vn": "Chỉ ② là tiếng Nhật đúng, ① sai ngữ pháp"
+        },
+        {
+          "key": "C",
+          "jp": "①は部長の行動、②は私が受けた恩恵を主体にする",
+          "vn": "① lấy hành động của trưởng phòng làm trọng tâm, ② lấy việc tôi nhận được ân huệ làm trọng tâm"
+        },
+        {
+          "key": "D",
+          "jp": "意味も視点も完全に同じで、違いは全くない",
+          "vn": "Nghĩa lẫn góc nhìn hoàn toàn giống nhau, không có khác biệt"
+        }
+      ],
       "answer": "C",
-      "explanation_vn": "Cả 2 câu đều ĐÚNG và nghĩa gần như giống nhau, nhưng: ①「〜てくださいました」= Trưởng phòng là CHỦ THỂ, nhấn mạnh hành động của họ. ②「〜ていただきました」= Tôi là CHỦ THỂ, nhấn mạnh tôi được nhận ân huệ. Trong thực tế, ② phổ biến hơn trong văn viết/email vì thể hiện sự biết ơn từ góc người nhận.",
+      "explanation": "Cả 2 câu đều ĐÚNG và nghĩa gần như giống nhau, nhưng: ①「〜てくださいました」= Trưởng phòng là CHỦ THỂ, nhấn mạnh hành động của họ. ②「〜ていただきました」= Tôi là CHỦ THỂ, nhấn mạnh tôi được nhận ân huệ. Trong thực tế, ② phổ biến hơn trong văn viết/email vì thể hiện sự biết ơn từ góc người nhận.",
       "tip": "〜てくださる (chủ thể: người làm) vs 〜ていただく (chủ thể: tôi). Nghĩa gần giống nhau, nhưng ていただく phổ biến hơn trong email kinh doanh."
     },
     {
       "id": 26,
       "level": 3,
-      "category": "授受動詞ビジネス中級",
-      "category_vn": "Trung cấp kinh doanh — Email mở đầu chuẩn",
-      "question_ja": "ビジネスメールの書き出しとして最も自然な表現はどれですか？",
+      "level_name": "Khá",
+      "category": "Trung cấp kinh doanh — Email mở đầu chuẩn",
+      "question_jp": "ビジネスメールの書き出しとして最も自然な表現はどれですか？",
       "question_vn": "Câu mở đầu email kinh doanh nào là tự nhiên và chuẩn nhất?",
-      "choices": {
-        "A": "先日はお電話してあげてありがとうございました。",
-        "B": "先日はお電話くださいまして、誠にありがとうございました。",
-        "C": "先日はお電話もらってありがとうございました。",
-        "D": "先日はお電話させていただきありがとうございました。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "先日はお電話してあげまして、ありがとうございました。",
+          "vn": "Cảm ơn vì hôm trước đã gọi điện giúp. (してあげて)"
+        },
+        {
+          "key": "B",
+          "jp": "先日はお電話くださいまして、誠にありがとうございました。",
+          "vn": "Thành thật cảm ơn quý vị đã gọi điện hôm trước ạ. (くださる)"
+        },
+        {
+          "key": "C",
+          "jp": "先日はお電話もらいまして、本当にありがとうございました。",
+          "vn": "Cảm ơn nhiều vì hôm trước đã nhận được điện thoại. (もらって)"
+        },
+        {
+          "key": "D",
+          "jp": "先日はお電話させていただきありがとうございました。",
+          "vn": "Cảm ơn vì hôm trước tôi đã xin phép gọi điện ạ. (させていただく)"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "「お電話くださいまして、誠にありがとうございました」= chuẩn vàng cho câu mở email. Phân tích: お電話 (danh từ lịch sự) + くださる (đối tác gọi CHO tôi, tôn kính) + 誠に (thực sự, tăng mức độ). (A) してあげて = nghe như tôi ban ơn. (C) もらって = thiếu lịch sự. (D) させていただき = tôi gọi điện, sai chiều (ở đây đối tác đã gọi).",
+      "explanation": "「お電話くださいまして、誠にありがとうございました」= chuẩn vàng cho câu mở email. Phân tích: お電話 (danh từ lịch sự) + くださる (đối tác gọi CHO tôi, tôn kính) + 誠に (thực sự, tăng mức độ). (A) してあげて = nghe như tôi ban ơn. (C) もらって = thiếu lịch sự. (D) させていただき = tôi gọi điện, sai chiều (ở đây đối tác đã gọi).",
       "tip": "Mẫu email cảm ơn vì đã liên lạc: 「先日は〇〇をいただき/くださいまして、誠にありがとうございました。」"
     },
     {
       "id": 27,
       "level": 3,
-      "category": "授受動詞ビジネス中級",
-      "category_vn": "Trung cấp kinh doanh — Tình huống tiếp đón",
-      "question_ja": "受付で来客に「こちらへどうぞ」と案内するとき、最も適切な言い方はどれですか？",
+      "level_name": "Khá",
+      "category": "Trung cấp kinh doanh — Tình huống tiếp đón",
+      "question_jp": "受付で来客に「こちらへどうぞ」と案内するとき、最も適切な言い方はどれですか？",
       "question_vn": "Ở quầy tiếp tân, hướng dẫn khách đến chỗ ngồi. Cách nói phù hợp nhất là gì?",
-      "choices": {
-        "A": "こちらへ来てあげてください。",
-        "B": "こちらへご案内してさしあげます。",
-        "C": "こちらへご案内いたします。どうぞこちらへ。",
-        "D": "こちらへ来てもらいます。"
-      },
-      "answer": "C",
-      "explanation_vn": "「ご案内いたします」= khiêm nhường ngữ chuẩn khi hướng dẫn khách. いたす = する (khiêm). (B) ご案内してさしあげます = sai! さしあげる với khách nghe như 'tôi đang ban ơn cho ngài' — rất thô lỗ. (A) 来てあげて = sai hoàn toàn. (D) 来てもらいます = sai chiều.",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "こちらへ来てあげてください。どうぞ。",
+          "vn": "Xin mời đến đây giúp cho. Mời quý vị."
+        },
+        {
+          "key": "B",
+          "jp": "こちらへご案内してさしあげます。",
+          "vn": "Tôi xin hướng dẫn quý vị đến đây. (してさしあげる)"
+        },
+        {
+          "key": "C",
+          "jp": "こちらへ来てもらいます。どうぞこちらへ。",
+          "vn": "Tôi sẽ nhờ quý vị đến đây. Mời quý vị đi lối này."
+        },
+        {
+          "key": "D",
+          "jp": "こちらへご案内いたします。どうぞこちらへ。",
+          "vn": "Tôi xin hướng dẫn quý vị đến đây ạ. Mời quý vị. (いたす)"
+        }
+      ],
+      "answer": "D",
+      "explanation": "「ご案内いたします」= khiêm nhường ngữ chuẩn khi hướng dẫn khách → đáp án D. いたす = する (khiêm nhường). (B) ご案内してさしあげます = sai! さしあげる với khách nghe như 'tôi đang ban ơn cho ngài' — rất thô lỗ. (A) 来てあげて = sai hoàn toàn (dùng あげる ra lệnh cho khách). (C) 来てもらいます = sai chiều, nghe như bắt khách phải đến.",
       "tip": "Với khách: dùng 〜いたします cho hành động của mình. TRÁNH 〜てさしあげます — nghe như bề trên đang chiếu cố."
     },
     {
       "id": 28,
       "level": 3,
-      "category": "授受動詞ビジネス中級",
-      "category_vn": "Trung cấp kinh doanh — Cảm ơn khi nhận được việc",
-      "question_ja": "取引先から大きなプロジェクトを任された場面でのお礼メール。空欄に入る適切な表現は？「この度は、重要なプロジェクトをご用命（　）、誠にありがとうございます。」",
+      "level_name": "Khá",
+      "category": "Trung cấp kinh doanh — Cảm ơn khi nhận được việc",
+      "question_jp": "取引先から大きなプロジェクトを任された場面でのお礼メール。空欄に入る適切な表現は？「この度は、重要なプロジェクトをご用命（　）、誠にありがとうございます。」",
       "question_vn": "Email cảm ơn vì được giao dự án lớn từ đối tác. Điền vào chỗ trống phù hợp.",
-      "choices": {
-        "A": "してあげて",
-        "B": "していただき",
-        "C": "してくれて",
-        "D": "させていただき"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "してあげて",
+          "vn": "してあげて (tôi làm cho)"
+        },
+        {
+          "key": "B",
+          "jp": "していただき",
+          "vn": "していただき (tôi nhận được hành động từ quý vị)"
+        },
+        {
+          "key": "C",
+          "jp": "してくれて",
+          "vn": "してくれて (quý vị làm cho tôi)"
+        },
+        {
+          "key": "D",
+          "jp": "させていただき",
+          "vn": "させていただき (tôi xin phép làm)"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "「ご用命していただき、誠にありがとうございます」= Cảm ơn vì quý vị đã giao việc cho chúng tôi. いただく = tôi nhận (khiêm), chiều: đối tác → tôi. Đây là cách diễn đạt chuẩn trong email kinh doanh khi nhận được đơn hàng/dự án. (D) させていただく sẽ là 'tôi làm' không phải 'tôi nhận được'.",
+      "explanation": "「ご用命していただき、誠にありがとうございます」= Cảm ơn vì quý vị đã giao việc cho chúng tôi. いただく = tôi nhận (khiêm), chiều: đối tác → tôi. Đây là cách diễn đạt chuẩn trong email kinh doanh khi nhận được đơn hàng/dự án. (D) させていただく sẽ là 'tôi làm' không phải 'tôi nhận được'.",
       "tip": "「〜をご用命いただきありがとうございます」= mẫu cảm ơn khi nhận đơn hàng từ khách. ご用命 = đặt hàng/giao việc (từ trang trọng)."
     },
     {
       "id": 29,
       "level": 3,
-      "category": "授受動詞ビジネス中級",
-      "category_vn": "Trung cấp kinh doanh — Tình huống 3 chiều phức tạp",
-      "question_ja": "A社の田中様が、B社（自社）の山田部長を通じて、C社の鈴木様に情報を伝えてもらう場面。「田中様がB社を（　）して、鈴木様にご連絡（　）ます。」",
+      "level_name": "Khá",
+      "category": "Trung cấp kinh doanh — Tình huống 3 chiều phức tạp",
+      "question_jp": "A社の田中様が、B社（自社）の山田部長を通じて、C社の鈴木様に情報を伝えてもらう場面。「田中様がB社を（　）して、鈴木様にご連絡（　）ます。」",
       "question_vn": "Ông Tanaka (A công ty) muốn công ty bạn (B) chuyển thông tin đến ông Suzuki (C công ty). Điền vào chỗ trống.",
-      "choices": {
-        "A": "通じて／くれ",
-        "B": "通じて／いたし",
-        "C": "介して／させていただき",
-        "D": "介して／くださり"
-      },
-      "answer": "C",
-      "explanation_vn": "「〜を介して（かいして）」= thông qua. Khi CÔNG TY BẠN là trung gian thực hiện hành động cho/đến người khác → dùng 「ご連絡させていただきます」(khiêm nhường, chúng tôi xin phép liên lạc). させていただく = công ty B xin phép được liên lạc (hành động của uchi). (B) いたし cũng đúng về khiêm ngữ nhưng を介して thay 通じて tự nhiên hơn trong văn trang trọng.",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "通じて／くれ",
+          "vn": "通じて／くれ"
+        },
+        {
+          "key": "B",
+          "jp": "通じて／いたし",
+          "vn": "通じて／いたし"
+        },
+        {
+          "key": "C",
+          "jp": "介して／くださり",
+          "vn": "介して／くださり"
+        },
+        {
+          "key": "D",
+          "jp": "介して／させていただき",
+          "vn": "介して／させていただき"
+        }
+      ],
+      "answer": "D",
+      "explanation": "「〜を介して（かいして）」= thông qua → đáp án D. Khi CÔNG TY BẠN là trung gian thực hiện hành động cho/đến người khác → dùng 「ご連絡させていただきます」(khiêm nhường, chúng tôi xin phép liên lạc). させていただく = công ty B xin phép được liên lạc (hành động của Uchi). (A) 通じて／くれ sai cả hai vế: くれる sai chiều. (B) いたし cũng đúng về khiêm nhường ngữ nhưng を介して trang trọng hơn 通じて trong văn viết. (C) くださり sai chiều — くださる dùng khi bề trên cho mình.",
       "tip": "〜を介して (qua trung gian) + させていただく (chúng tôi xin phép làm) = công thức cho tình huống 3 bên."
     },
     {
       "id": 30,
       "level": 3,
-      "category": "授受動詞ビジネス中級",
-      "category_vn": "Trung cấp kinh doanh — Phân biệt chiều hướng trong ngữ cảnh",
-      "question_ja": "次の文で授受動詞の使い方が正しいものはどれですか？",
+      "level_name": "Khá",
+      "category": "Trung cấp kinh doanh — Phân biệt chiều hướng trong ngữ cảnh",
+      "question_jp": "次の文で授受動詞の使い方が正しいものはどれですか？",
       "question_vn": "Câu nào dùng 授受動詞 ĐÚNG?",
-      "choices": {
-        "A": "お客様に商品を説明してさしあげましたが、ご理解いただけませんでした。",
-        "B": "お客様に商品をご説明いたしましたが、ご理解いただけませんでした。",
-        "C": "お客様に商品を説明してくれましたが、ご理解いただけませんでした。",
-        "D": "お客様から商品をご説明くださいましたが、ご理解いただけませんでした。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "お客様に商品を説明してさしあげましたが、ご理解いただけませんでした。",
+          "vn": "Tôi đã giải thích sản phẩm cho khách nhưng khách không hiểu. (してさしあげる)"
+        },
+        {
+          "key": "B",
+          "jp": "お客様に商品をご説明いたしましたが、ご理解いただけませんでした。",
+          "vn": "Tôi đã giải thích sản phẩm cho khách nhưng khách chưa hiểu ạ. (いたす)"
+        },
+        {
+          "key": "C",
+          "jp": "お客様に商品を説明してくれましたが、ご理解いただけませんでした。",
+          "vn": "Khách đã giải thích sản phẩm cho tôi nhưng không hiểu được. (してくれる)"
+        },
+        {
+          "key": "D",
+          "jp": "お客様から商品をご説明くださいましたが、ご理解いただけませんでした。",
+          "vn": "Khách đã giải thích sản phẩm nhưng không hiểu được. (ご説明くださる)"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "「ご説明いたしました」(khiêm, tôi giải thích) + 「ご理解いただけませんでした」(tiếc là không nhận được sự hiểu từ khách). (A) してさしあげました = nghe như ban ơn cho khách — thô lỗ. (C) してくれました = sai chủ thể (khách là người giải thích?). (D) 「お客様から〜ご説明くださいました」= khách giải thích cho tôi — sai hoàn toàn.",
+      "explanation": "「ご説明いたしました」(khiêm, tôi giải thích) + 「ご理解いただけませんでした」(tiếc là không nhận được sự hiểu từ khách). (A) してさしあげました = nghe như ban ơn cho khách — thô lỗ. (C) してくれました = sai chủ thể (khách là người giải thích?). (D) 「お客様から〜ご説明くださいました」= khách giải thích cho tôi — sai hoàn toàn.",
       "tip": "Câu hoàn chỉnh chuẩn: 「ご〜いたしました」(tôi làm) + 「ご〜いただけました/いただけませんでした」(khách làm/không làm)."
     },
     {
       "id": 31,
       "level": 4,
-      "category": "授受動詞上級",
-      "category_vn": "Nâng cao — Phát hiện lỗi & tình huống phức tạp",
-      "question_ja": "次の文の誤りを指摘してください。「お客様、こちらの資料をあげますので、お持ちください。」",
+      "level_name": "Khó",
+      "category": "Nâng cao — Phát hiện lỗi & tình huống phức tạp",
+      "question_jp": "次の文の誤りを指摘してください。「お客様、こちらの資料をあげますので、お持ちください。」",
       "question_vn": "Tìm lỗi trong câu: \"Thưa quý khách, tôi tặng tài liệu này cho quý vị, xin hãy mang về.\"",
-      "choices": {
-        "A": "「お持ちください」が間違い",
-        "B": "「あげます」が間違い、「さしあげます」にすべき",
-        "C": "「こちらの資料」が間違い",
-        "D": "「お客様」の呼びかけが間違い"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "「お持ちください」が間違い",
+          "vn": "「お持ちください」sai"
+        },
+        {
+          "key": "B",
+          "jp": "「あげます」が間違い",
+          "vn": "「あげます」sai"
+        },
+        {
+          "key": "C",
+          "jp": "「こちらの資料」が間違い",
+          "vn": "「こちらの資料」sai"
+        },
+        {
+          "key": "D",
+          "jp": "「お客様」の呼びかけが間違い",
+          "vn": "Cách xưng hô「お客様」sai"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "「あげます」với khách hàng là LỖI THƯỜNG GẶP. あげる dùng cho người ngang/thấp hơn, trong khi khách hàng là bề trên. Đúng: 「こちらの資料をお持ちいただけますでしょうか」hoặc 「こちらの資料をどうぞ」. Nếu muốn dùng 授受動詞: 「さしあげます」— nhưng cũng nên hạn chế vì nghe lộ vẻ 'ban ơn'. Tốt nhất: 「こちらの資料をお持ちください」hoặc 「ご自由にお取りください」.",
-      "tip": "⚠️ LỖI THƯỜNG GẶP: あげます với お客様 = không phù hợp. Thay bằng さしあげます (đúng ngữ pháp) hoặc tốt hơn là tránh 授受動詞 và dùng 〜ください, どうぞ."
+      "explanation": "「あげます」với khách hàng là LỖI THƯỜNG GẶP: あげる dùng cho người ngang/thấp hơn, trong khi khách hàng là bề trên. Hướng sửa TỐT NHẤT là bỏ hẳn động từ cho–nhận: 「こちらの資料をどうぞ」hoặc「こちらの資料をお持ちください」hoặc「ご自由にお取りください」. Về mặt ngữ pháp 「さしあげます」đúng chiều kính ngữ, nhưng KHÔNG nên dùng với khách vì lộ vẻ 'ban ơn' (xem thêm câu 19 và 27 cùng bộ). Các phương án còn lại đều không có lỗi: 「お持ちください」là Sonkeigo hợp lệ, 「こちらの資料」và「お客様」đều là cách gọi chuẩn.",
+      "tip": "⚠️ あげます với お客様 = sai. Đừng thay bằng さしあげます (nghe ban ơn) — hãy bỏ hẳn động từ cho–nhận: どうぞ / お持ちください / ご自由にお取りください."
     },
     {
       "id": 32,
       "level": 4,
-      "category": "授受動詞上級",
-      "category_vn": "Nâng cao — Phát hiện lỗi đăng ký",
-      "question_ja": "次の文の誤りを指摘してください。「昨日、社長が私に賞状をくれました。とてもうれしかったです。」",
+      "level_name": "Khó",
+      "category": "Nâng cao — Phát hiện lỗi đăng ký",
+      "question_jp": "次の文の誤りを指摘してください。「昨日、社長が私に賞状をくれました。とてもうれしかったです。」",
       "question_vn": "Câu sau có lỗi không? \"Hôm qua giám đốc đã tặng cho tôi giấy khen. Tôi rất vui.\"",
-      "choices": {
-        "A": "「とてもうれしかったです」が間違い",
-        "B": "「くれました」が間違い、「くださいました」にすべき",
-        "C": "「賞状を」が間違い",
-        "D": "「昨日」が間違い、「先日」にすべき"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "「とてもうれしかったです」が間違い、敬語にすべき",
+          "vn": "「とてもうれしかったです」sai, phải dùng kính ngữ"
+        },
+        {
+          "key": "B",
+          "jp": "「くれました」が間違い、「くださいました」にすべき",
+          "vn": "「くれました」sai, phải là「くださいました」"
+        },
+        {
+          "key": "C",
+          "jp": "「賞状を」が間違い、「表彰状を」にすべき",
+          "vn": "「賞状を」sai, phải là「表彰状を」"
+        },
+        {
+          "key": "D",
+          "jp": "「昨日」が間違い、「先日」にすべきで日付も不要",
+          "vn": "「昨日」sai, phải là「先日」và không cần ghi ngày"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "「社長がくれました」= LỖI đăng ký. Giám đốc = bề trên tuyệt đối → khi nói về hành động của giám đốc (cho mình), phải dùng 【くださる】. Đúng: 「社長がくださいました」. くれる chỉ dùng với người ngang hàng hoặc thân thiết. Nói 社長がくれた nghe như không tôn trọng.",
+      "explanation": "「社長がくれました」= LỖI đăng ký. Giám đốc = bề trên tuyệt đối → khi nói về hành động của giám đốc (cho mình), phải dùng 【くださる】. Đúng: 「社長がくださいました」. くれる chỉ dùng với người ngang hàng hoặc thân thiết. Nói 社長がくれた nghe như không tôn trọng.",
       "tip": "Nhớ: CẤP TRÊN cho tôi → くださる (không bao giờ くれる trong văn trang trọng). Đây là lỗi đăng ký rất phổ biến của người học."
     },
     {
       "id": 33,
       "level": 4,
-      "category": "授受動詞上級",
-      "category_vn": "Nâng cao — 賜る (tamamawaru) trong văn bản chính thức",
-      "question_ja": "「ご支援を賜り、厚く御礼申し上げます」の「賜り（たまわり）」の意味と使用場面として正しいものはどれですか？",
+      "level_name": "Khó",
+      "category": "Nâng cao — 賜る (tamamawaru) trong văn bản chính thức",
+      "question_jp": "「ご支援を賜り、厚く御礼申し上げます」の「賜り（たまわり）」の意味と使用場面として正しいものはどれですか？",
       "question_vn": "Trong câu văn chính thức 'Trân trọng cảm ơn sự hỗ trợ mà quý vị đã ban cho chúng tôi', 「賜り」có nghĩa và được dùng trong hoàn cảnh nào?",
-      "choices": {
-        "A": "「あげる」の謙譲語で、日常会話でよく使われる",
-        "B": "「もらう・いただく」のさらに上の謙譲語で、公式文書・挨拶状で使われる",
-        "C": "「くれる・くださる」と同じ意味で、話し言葉でも使える",
-        "D": "「やる」の丁寧語で、目下の人に使う"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "「あげる」の謙譲語で、日常会話でよく使われる",
+          "vn": "Là khiêm nhường ngữ của「あげる」, hay dùng trong hội thoại hàng ngày"
+        },
+        {
+          "key": "B",
+          "jp": "「もらう・いただく」の上位の謙譲語で、公式文書で使う",
+          "vn": "Là khiêm nhường ngữ cao hơn「もらう・いただく」, dùng trong văn bản chính thức"
+        },
+        {
+          "key": "C",
+          "jp": "「くれる・くださる」と同じ意味で、話し言葉でも使える",
+          "vn": "Cùng nghĩa với「くれる・くださる」, dùng được cả trong khẩu ngữ"
+        },
+        {
+          "key": "D",
+          "jp": "「やる」の丁寧語で、目下の人に使う",
+          "vn": "Là Teineigo của「やる」, dùng với người bề dưới"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "【賜る（たまわる）】= hình thức trang trọng nhất của いただく/もらう, dùng trong: văn bản chính thức, thiệp mời, phát biểu khai mạc, báo cáo thường niên. Bậc thang: もらう < いただく < 賜る. 賜る KHÔNG dùng trong hội thoại thông thường — chỉ dành cho văn viết trang trọng và lời phát biểu chính thức.",
+      "explanation": "【賜る（たまわる）】= hình thức trang trọng nhất của いただく/もらう, dùng trong: văn bản chính thức, thiệp mời, phát biểu khai mạc, báo cáo thường niên. Bậc thang: もらう < いただく < 賜る. 賜る KHÔNG dùng trong hội thoại thông thường — chỉ dành cho văn viết trang trọng và lời phát biểu chính thức.",
       "tip": "賜る = cấp độ cao nhất của いただく. Chỉ gặp trong: 「ご支援を賜り」「ご来臨を賜り」「ご愛顧を賜り」— văn chính thức, thiệp, phát biểu."
     },
     {
       "id": 34,
       "level": 4,
-      "category": "授受動詞上級",
-      "category_vn": "Nâng cao — Lạm dụng させていただく",
-      "question_ja": "「させていただく」の使い方として最も不自然なものはどれですか？",
+      "level_name": "Khó",
+      "category": "Nâng cao — Lạm dụng させていただく",
+      "question_jp": "「させていただく」の使い方として最も不自然なものはどれですか？",
       "question_vn": "Cách dùng させていただく nào là KHÔNG TỰ NHIÊN nhất?",
-      "choices": {
-        "A": "では、資料をご説明させていただきます。",
-        "B": "明日から育児休暇を取得させていただきます。",
-        "C": "田中と申させていただきます。",
-        "D": "本日はよいお天気でございますね。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "では、資料をご説明させていただきます。",
+          "vn": "Vậy thì tôi xin phép giải thích tài liệu ạ."
+        },
+        {
+          "key": "B",
+          "jp": "明日から育児休暇を取得させていただきます。",
+          "vn": "Từ mai tôi xin phép nghỉ chế độ chăm con."
+        },
+        {
+          "key": "C",
+          "jp": "田中と申させていただきます。",
+          "vn": "Tôi xin phép được tự xưng là Tanaka."
+        },
+        {
+          "key": "D",
+          "jp": "本日は休業させていただきます。",
+          "vn": "Hôm nay chúng tôi xin phép nghỉ kinh doanh."
+        }
+      ],
       "answer": "C",
-      "explanation_vn": "「田中と申させていただきます」= LỖI. 申す (もうす) đã là khiêm nhường ngữ của 言う. Thêm させていただく vào sau = chồng khiêm ngữ không cần thiết. Đúng: 「田中と申します」. (A) ご説明させていただく = OK, xin phép giải thích. (B) 育児休暇を取得させていただく = OK, xin phép nghỉ phép. (D) không liên quan đến させていただく.",
+      "explanation": "「田中と申させていただきます」(C) = LỖI. 申す (もうす) đã là khiêm nhường ngữ của 言う. Thêm させていただく vào sau = chồng khiêm nhường ngữ không cần thiết (二重謙譲). Đúng: 「田中と申します」. Các phương án còn lại đều là cách dùng させていただく hợp lệ: (A) ご説明させていただく = xin phép giải thích. (B) 育児休暇を取得させていただく = xin phép nghỉ chế độ. (D) 本日は休業させていただきます = xin phép nghỉ kinh doanh hôm nay — mẫu thông báo rất phổ biến trên biển hiệu cửa hàng Nhật.",
       "tip": "⚠️ KHÔNG nói: 「申させていただきます」「いただかせていただく」— chồng khiêm ngữ (二重謙譲) là lỗi. 申します là đủ và chuẩn."
     },
     {
       "id": 35,
       "level": 4,
-      "category": "授受動詞上級",
-      "category_vn": "Nâng cao — Phân biệt あげる/もらう/くれる trong tình huống mơ hồ",
-      "question_ja": "「私は弟に英語を教えてあげた。／弟は私に英語を教えてもらった。／弟が私に英語を教えてくれた。」3つの文の中で意味が【異なる】ものはどれですか？",
+      "level_name": "Khó",
+      "category": "Nâng cao — Phân biệt あげる/もらう/くれる trong tình huống mơ hồ",
+      "question_jp": "「私は弟に英語を教えてあげた。／弟は私に英語を教えてもらった。／弟が私に英語を教えてくれた。」3つの文の中で意味が【異なる】ものはどれですか？",
       "question_vn": "Trong 3 câu: ①Tôi dạy tiếng Anh cho em. ②Em được tôi dạy tiếng Anh. ③Em dạy tiếng Anh cho tôi. — Câu nào KHÁC nghĩa?",
-      "choices": {
-        "A": "①だけが異なる",
-        "B": "①と③が同じ意味、②だけが異なる",
-        "C": "①と②は同じ意味、③だけが異なる",
-        "D": "3つとも異なる意味"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "①だけが異なる",
+          "vn": "Chỉ ① khác nghĩa"
+        },
+        {
+          "key": "B",
+          "jp": "①と③が同じ意味、②だけが異なる",
+          "vn": "① và ③ cùng nghĩa, chỉ ② khác"
+        },
+        {
+          "key": "C",
+          "jp": "①と②は同じ意味、③だけが異なる",
+          "vn": "① và ② cùng nghĩa, chỉ ③ khác"
+        },
+        {
+          "key": "D",
+          "jp": "3つとも異なる意味",
+          "vn": "Cả ba đều khác nghĩa"
+        }
+      ],
       "answer": "C",
-      "explanation_vn": "①「私が弟に英語を教えてあげた」= TÔI dạy em. ②「弟は私に英語を教えてもらった」= Em được TÔI dạy → cùng sự kiện, chỉ khác chủ thể câu → ①=②. ③「弟が私に英語を教えてくれた」= EM dạy TÔI → nghĩa hoàn toàn khác (em là người dạy, tôi là người học). Vậy ①と②は同じ意味、③だけが異なる → đáp án C. Lưu ý: B sai vì ①てあげる và ③てくれる không cùng nghĩa — ① tôi dạy em, ③ em dạy tôi.",
+      "explanation": "①「私が弟に英語を教えてあげた」= TÔI dạy em. ②「弟は私に英語を教えてもらった」= Em được TÔI dạy → cùng sự kiện, chỉ khác chủ thể câu → ①=②. ③「弟が私に英語を教えてくれた」= EM dạy TÔI → nghĩa hoàn toàn khác (em là người dạy, tôi là người học). Vậy ①と②は同じ意味、③だけが異なる → đáp án C. Lưu ý: B sai vì ①てあげる và ③てくれる không cùng nghĩa — ① tôi dạy em, ③ em dạy tôi.",
       "tip": "①てあげる (tôi làm) = ②てもらう (tôi được nhận, cùng sự kiện nhìn từ góc khác) ≠ ③てくれる (người khác làm cho tôi)."
     },
     {
       "id": 36,
       "level": 4,
-      "category": "授受動詞上級",
-      "category_vn": "Nâng cao — Từ chối lịch sự với 授受動詞",
-      "question_ja": "取引先から不当な要求をされ、断る場面。最も適切な断り方はどれですか？",
+      "level_name": "Khó",
+      "category": "Nâng cao — Từ chối lịch sự với 授受動詞",
+      "question_jp": "取引先から不当な要求をされ、断る場面。最も適切な断り方はどれですか？",
       "question_vn": "Đối tác yêu cầu điều không hợp lý, cần từ chối. Cách từ chối phù hợp nhất là gì?",
-      "choices": {
-        "A": "それはできません。",
-        "B": "それはいたしかねます。",
-        "C": "それはしてあげられません。",
-        "D": "それはさしあげられません。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "それはできません。",
+          "vn": "Điều đó không làm được."
+        },
+        {
+          "key": "B",
+          "jp": "それはいたしかねます。",
+          "vn": "Điều đó chúng tôi e rằng khó thực hiện được ạ."
+        },
+        {
+          "key": "C",
+          "jp": "それはしてあげられません。",
+          "vn": "Điều đó tôi không thể làm giúp được."
+        },
+        {
+          "key": "D",
+          "jp": "それはさしあげられません。",
+          "vn": "Điều đó tôi không thể kính tặng được."
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "【いたしかねます】= 'Chúng tôi e rằng không thể thực hiện được' — cách từ chối lịch sự chuẩn mực trong kinh doanh Nhật. Cấu trúc: いたす (khiêm = する) + かねます (khó/không thể). Không trực tiếp nói không, tránh xúc phạm. (A) できません = quá trực tiếp, cứng. (C)(D) sai ngữ pháp và nghĩa.",
+      "explanation": "【いたしかねます】= 'Chúng tôi e rằng không thể thực hiện được' — cách từ chối lịch sự chuẩn mực trong kinh doanh Nhật. Cấu trúc: いたす (khiêm = する) + かねます (khó/không thể). Không trực tiếp nói không, tránh xúc phạm. (A) できません = quá trực tiếp, cứng. (C)(D) sai ngữ pháp và nghĩa.",
       "tip": "Từ chối lịch sự trong kinh doanh: 「〜いたしかねます」「〜いたしかねる状況でございます」「〜は難しい状況でございます」."
     },
     {
       "id": 37,
       "level": 4,
-      "category": "授受動詞上級",
-      "category_vn": "Nâng cao — Phân tích hội thoại nhiều bên",
-      "question_ja": "次の電話での会話で、誤りを含む発言はどれですか？\n[A社の田中様から電話]\n受付：「いつもお世話になっております。」\n田中：「山田部長はいらっしゃいますか。」\n受付：「（ア）山田はただいま外出しております。（イ）よろしければ、ご伝言をいただけますでしょうか。（ウ）田中様からお電話くださったとお伝えいたします。」",
+      "level_name": "Khó",
+      "category": "Nâng cao — Phân tích hội thoại nhiều bên",
+      "question_jp": "次の電話での会話で、誤りを含む発言はどれですか？\n[A社の田中様から電話]\n受付：「いつもお世話になっております。」\n田中：「山田部長はいらっしゃいますか。」\n受付：「（ア）山田はただいま外出しております。（イ）よろしければ、ご伝言をいただけますでしょうか。（ウ）田中様からお電話いたしたとお伝えいたします。」",
       "question_vn": "Trong cuộc điện thoại từ ông Tanaka (A công ty), phần nào của câu trả lời của lễ tân có LỖI?",
-      "choices": {
-        "A": "（ア）のみ",
-        "B": "（イ）のみ",
-        "C": "（ウ）のみ",
-        "D": "（ア）（イ）（ウ）すべて正しい"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "（ア）のみ",
+          "vn": "Chỉ (ア)"
+        },
+        {
+          "key": "B",
+          "jp": "（イ）のみ",
+          "vn": "Chỉ (イ)"
+        },
+        {
+          "key": "C",
+          "jp": "（ウ）のみ",
+          "vn": "Chỉ (ウ)"
+        },
+        {
+          "key": "D",
+          "jp": "（ア）（イ）（ウ）すべて正しい",
+          "vn": "Cả (ア)(イ)(ウ) đều đúng"
+        }
+      ],
       "answer": "C",
-      "explanation_vn": "（ア）「山田はただいま外出しております」= ĐÚNG — bỏ kính ngữ với 山田 (uchi), dùng おります (khiêm). （イ）「ご伝言をいただけますでしょうか」= ĐÚNG — nhờ khách để lại tin nhắn (tôi nhận = いただく). （ウ）「田中様からお電話くださったとお伝えいたします」= LỖI về văn phong báo cáo. くださった không sai về chiều hướng (khách = bề trên cho tôi), nhưng trong câu báo lại chuẩn business, dùng「お電話がございました」tự nhiên/trung lập hơn vì không mang sắc thái cảm xúc/biết ơn không cần thiết trong câu báo cáo thuần túy. Đúng: 「田中様よりお電話がございました」hoặc「お電話をいただきました」.",
-      "tip": "Khi báo lại nội bộ về cuộc gọi của khách: 「〜様よりお電話がございました」hoặc 「〜様からお電話をいただきました」."
+      "explanation": "（ア）「山田はただいま外出しております」= ĐÚNG — bỏ chức danh với 山田 (người Uchi), dùng おる (khiêm nhường ngữ). （イ）「ご伝言をいただけますでしょうか」= ĐÚNG — nhờ khách để lại lời nhắn, mình là người nhận nên dùng いただく. （ウ）「田中様からお電話いたしたとお伝えいたします」= LỖI RÕ RÀNG: 「いたす」là khiêm nhường ngữ, chỉ dùng cho hành động của MÌNH hoặc người Uchi. Ở đây chủ thể hành động 'gọi điện' là 田中様 — người Soto, bề trên — nên tuyệt đối không được hạ thấp bằng いたす. Câu đúng: 「田中様よりお電話がございました」hoặc「田中様からお電話をいただきました」.",
+      "tip": "⚠️ Không bao giờ dùng khiêm nhường ngữ (いたす, 申す, 参る) cho hành động của KHÁCH. Khi báo lại nội bộ về cuộc gọi của khách: 「〜様よりお電話がございました」hoặc 「〜様からお電話をいただきました」."
     },
     {
       "id": 38,
       "level": 4,
-      "category": "授受動詞上級",
-      "category_vn": "Nâng cao — Bài kiểm tra tổng hợp 3 chiều",
-      "question_ja": "以下の場面に最も適した全体的な表現の流れはどれですか？\n場面：A社のお客様（山田様）が弊社を訪問。弊社社員（私）がお客様に製品を説明し、お客様はカタログをお持ち帰りになった。",
+      "level_name": "Khó",
+      "category": "Nâng cao — Bài kiểm tra tổng hợp 3 chiều",
+      "question_jp": "以下の場面に最も適した全体的な表現の流れはどれですか？\n場面：A社のお客様（山田様）が弊社を訪問。弊社社員（私）がお客様に製品を説明し、お客様はカタログをお持ち帰りになった。",
       "question_vn": "Chọn trình tự diễn đạt phù hợp nhất cho tình huống: Khách hàng (ông Yamada, A công ty) đến thăm, bạn giải thích sản phẩm, khách mang catalog về.",
-      "choices": {
-        "A": "製品を説明してあげて、カタログをあげた。",
-        "B": "製品をご説明いたし、カタログをお持ちいただいた。",
-        "C": "製品をご説明させていただき、カタログをお持ち帰りになった。",
-        "D": "製品を説明してさしあげ、カタログをいただいた。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "製品を説明してあげて、カタログをあげて帰ってもらった。",
+          "vn": "Tôi đã giải thích sản phẩm giúp, cho catalog rồi để khách về. (してあげて／あげた)"
+        },
+        {
+          "key": "B",
+          "jp": "製品をご説明いたし、カタログをお持ちいただいた。",
+          "vn": "Tôi đã giải thích sản phẩm ạ, và đã nhờ khách mang catalog. (いたし／お持ちいただいた)"
+        },
+        {
+          "key": "C",
+          "jp": "製品をご説明させていただき、カタログをお持ち帰りになった。",
+          "vn": "Tôi xin phép giải thích sản phẩm ạ, và quý khách đã mang catalog về. (させていただき／お持ち帰りになった)"
+        },
+        {
+          "key": "D",
+          "jp": "製品を説明してさしあげ、カタログをいただいて見送った。",
+          "vn": "Tôi đã giải thích sản phẩm giúp, nhận catalog rồi tiễn khách. (してさしあげ／いただいた)"
+        }
+      ],
       "answer": "C",
-      "explanation_vn": "（C）「ご説明させていただき」= tôi xin phép giải thích (khiêm nhường, phù hợp khi làm cho khách). 「カタログをお持ち帰りになった」= Sonkeigo (お〜になる) tôn kính hành động 'mang về' của khách — tự nhiên nhất vì khách mang catalog về cho chính họ. (A) してあげた + あげた = thô lỗ với khách. (B) お持ちいただいた = nghe như tôi nhờ khách mang — kỳ lạ. (D) してさしあげ = nghe ban ơn; いただいた với catalog = sai (không phải tôi nhận).",
+      "explanation": "（C）「ご説明させていただき」= tôi xin phép giải thích (khiêm nhường, phù hợp khi làm cho khách). 「カタログをお持ち帰りになった」= Sonkeigo (お〜になる) tôn kính hành động 'mang về' của khách — tự nhiên nhất vì khách mang catalog về cho chính họ. (A) してあげた + あげた = thô lỗ với khách. (B) お持ちいただいた = nghe như tôi nhờ khách mang — kỳ lạ. (D) してさしあげ = nghe ban ơn; いただいた với catalog = sai (không phải tôi nhận).",
       "tip": "TÔI làm gì cho khách: ご〜させていただく. KHÁCH làm gì (ân huệ về phía công ty): 〜てくださる / お〜くださる."
     },
     {
       "id": 39,
       "level": 4,
-      "category": "授受動詞上級",
-      "category_vn": "Nâng cao — Văn bản chính thức & 賜る",
-      "question_ja": "社外向けの正式な挨拶文として最も格調の高い表現はどれですか？",
+      "level_name": "Khó",
+      "category": "Nâng cao — Văn bản chính thức & 賜る",
+      "question_jp": "社外向けの正式な挨拶文として最も格調の高い表現はどれですか？",
       "question_vn": "Văn bản chào hỏi chính thức gửi ra ngoài công ty, câu nào có phong cách trang trọng nhất?",
-      "choices": {
-        "A": "皆様のご支援をもらい、ありがとうございます。",
-        "B": "皆様のご支援をいただき、ありがとうございます。",
-        "C": "皆様のご支援を賜り、厚く御礼申し上げます。",
-        "D": "皆様のご支援をくれて、誠にありがとうございます。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "皆様のご支援をもらい、ありがとうございます。",
+          "vn": "Cảm ơn vì đã nhận được sự hỗ trợ của mọi người. (もらう)"
+        },
+        {
+          "key": "B",
+          "jp": "皆様のご支援をいただき、ありがとうございます。",
+          "vn": "Cảm ơn vì đã nhận được sự hỗ trợ của quý vị ạ. (いただく)"
+        },
+        {
+          "key": "C",
+          "jp": "皆様のご支援を賜り、厚く御礼申し上げます。",
+          "vn": "Xin chân thành cảm tạ ân tình hỗ trợ mà quý vị đã ban cho. (賜る + 御礼申し上げる)"
+        },
+        {
+          "key": "D",
+          "jp": "皆様のご支援をくれて、誠にありがとうございます。",
+          "vn": "Thành thật cảm ơn vì mọi người đã cho sự hỗ trợ. (くれる)"
+        }
+      ],
       "answer": "C",
-      "explanation_vn": "「ご支援を賜り、厚く御礼申し上げます」= đỉnh cao của văn chính thức. Cấu trúc: 賜る (たまわる — hình thức trang trọng nhất của いただく) + 厚く (sâu sắc) + 御礼申し上げます (khiêm ngữ tổng hợp của ありがとう). Bậc thang: もらう < いただく < 賜る. (B) いただく cũng tốt, phổ biến trong email thông thường. (C) dành cho văn phòng chính thức, thư niên báo, phát biểu khai mạc.",
+      "explanation": "「ご支援を賜り、厚く御礼申し上げます」= đỉnh cao của văn chính thức. Cấu trúc: 賜る (たまわる — hình thức trang trọng nhất của いただく) + 厚く (sâu sắc) + 御礼申し上げます (khiêm ngữ tổng hợp của ありがとう). Bậc thang: もらう < いただく < 賜る. (B) いただく cũng tốt, phổ biến trong email thông thường. (C) dành cho văn phòng chính thức, thư niên báo, phát biểu khai mạc.",
       "tip": "Bậc thang trang trọng: ありがとう < ありがとうございます < 御礼申し上げます < 厚く御礼申し上げます. Kết hợp 賜る = trang trọng tuyệt đối."
     },
     {
       "id": 40,
       "level": 4,
-      "category": "授受動詞上級",
-      "category_vn": "Nâng cao — Tổng hợp toàn diện",
-      "question_ja": "次のビジネスシーンで、授受動詞・敬語を含む全体的に最も適切な表現はどれですか？\n場面：上司（田中部長）に頼まれて、取引先（B社の鈴木様）に電話し、会議の日程を変更するようお願いする。",
+      "level_name": "Khó",
+      "category": "Nâng cao — Tổng hợp toàn diện",
+      "question_jp": "次のビジネスシーンで、授受動詞・敬語を含む全体的に最も適切な表現はどれですか？\n場面：上司（田中部長）に頼まれて、取引先（B社の鈴木様）に電話し、会議の日程を変更するようお願いする。",
       "question_vn": "Tình huống: Được trưởng phòng Tanaka nhờ, bạn gọi điện cho đối tác (ông Suzuki, B công ty) để yêu cầu dời lịch họp. Cách diễn đạt phù hợp nhất là gì?",
-      "choices": {
-        "A": "田中から頼まれたんですが、会議の日程を変えてもらえますか。",
-        "B": "田中より申し付かりまして、誠に勝手ながら、ご都合のよろしいようでしたら会議の日程をご変更いただけますでしょうか。",
-        "C": "田中部長に頼まれましたので、会議の日程を変えてください。",
-        "D": "田中部長が変更してあげると言っています。ご都合はいかがですか。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "田中から頼まれたんですが、会議の日程を変えてもらえますか。",
+          "vn": "Tôi được Tanaka nhờ, anh/chị đổi lịch họp cho tôi được không?"
+        },
+        {
+          "key": "B",
+          "jp": "田中より申し付かりまして、誠に勝手ながら、会議の日程をご変更いただけますでしょうか。",
+          "vn": "Tôi được Tanaka giao nhiệm vụ, thật mạo muội, quý vị có thể đổi lịch họp được không ạ?"
+        },
+        {
+          "key": "C",
+          "jp": "田中部長に頼まれましたので、会議の日程を変更してください。",
+          "vn": "Vì được Trưởng phòng Tanaka nhờ nên xin hãy đổi lịch họp."
+        },
+        {
+          "key": "D",
+          "jp": "田中部長が日程を変更してあげると言っています。ご都合はいかがですか。",
+          "vn": "Trưởng phòng Tanaka nói sẽ đổi lịch giúp. Quý vị có tiện không?"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "（B）phân tích đầy đủ: ①「田中より申し付かりまして」= được chỉ thị từ Tanaka (uchi) — bỏ「部長」và tránh kính ngữ cho người trong công ty khi nói với bên ngoài (quy tắc uchi/soto). Dùng「申し付かる」(khiêm ngữ của 言いつかる = được giao nhiệm vụ) để hạ thấp hành động nội bộ ✓. ②「誠に勝手ながら」= xin lỗi vì tự tiện. ③「ご変更いただけますでしょうか」= nhờ bạn thay đổi (lịch sự cao nhất) ✓. (A) quá thân mật. (C) てください với đối tác = thiếu lịch sự. (D) してあげる = thô lỗ nghiêm trọng. Lưu ý: tránh「田中部長からご依頼いただきまして」vì dùng kính ngữ「部長」và「いただく」cho người trong công ty trước mặt người ngoài = vi phạm uchi/soto.",
+      "explanation": "（B）phân tích đầy đủ: ①「田中より申し付かりまして」= được chỉ thị từ Tanaka (người Uchi) — bỏ「部長」và tránh kính ngữ cho người trong công ty khi nói với bên ngoài (quy tắc Uchi/Soto). Dùng「申し付かる」(khiêm nhường ngữ của 言いつかる = được giao nhiệm vụ) để hạ thấp hành động nội bộ. ②「誠に勝手ながら」= xin lỗi vì tự tiện. ③「ご変更いただけますでしょうか」= nhờ đối tác thay đổi (mức lịch sự cao nhất). (A) quá thân mật, còn dùng 「〜んですが」và「もらえますか」. (C) 「田中部長」giữ chức danh cho người Uchi + 「てください」với đối tác = thiếu lịch sự. (D) 「してあげる」= thô lỗ nghiêm trọng với đối tác. Lưu ý: tránh「田中部長からご依頼いただきまして」vì dùng kính ngữ cho người trong công ty trước mặt người ngoài.",
       "tip": "Công thức gọi điện nhờ đối tác thay đổi: 「誠に勝手ながら、〜をご〜いただけますでしょうか」= xin lỗi vì phiền + nhờ lịch sự nhất."
     }
   ]

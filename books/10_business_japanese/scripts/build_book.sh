@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Build Hizashi Sách 10 (Tôn kính ngữ / 敬語) → EPUB
+# Build Hizashi Sách 10 (Kính ngữ / 敬語) → EPUB
 # Ghép 5 LyThuyet.md (lý thuyết keigo) → 1 EPUB. CSS riêng, bìa, front/back matter, furigana.
 set -e
 
@@ -10,7 +10,7 @@ mkdir -p "$OUTPUT"
 
 VERSION="1.1"
 # TITLE không kèm version (version quản lý ở trang cuối/colophon).
-TITLE="Hizashi — Tôn kính ngữ / 敬語マスター"
+TITLE="Hizashi — Kính ngữ / 敬語マスター"
 CSS="$SCRIPT_DIR/epub_keigo.css"
 LUA="$SCRIPT_DIR/reset_colwidth.lua"
 COVER="$OUTPUT/cover.png"

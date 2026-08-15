@@ -1,0 +1,2416 @@
+{
+  "part": 6,
+  "so_tu": 482,
+  "items": [
+    {
+      "id": 5246,
+      "thuat_ngu": "条件分岐",
+      "short_meaning": "rẽ nhánh có điều kiện"
+    },
+    {
+      "id": 5247,
+      "thuat_ngu": "条件分岐式",
+      "short_meaning": "biểu thức rẽ nhánh có điều kiện"
+    },
+    {
+      "id": 5248,
+      "thuat_ngu": "条件式",
+      "short_meaning": "biểu thức điều kiện"
+    },
+    {
+      "id": 5250,
+      "thuat_ngu": "架空請求",
+      "short_meaning": "yêu cầu thanh toán giả mạo"
+    },
+    {
+      "id": 5252,
+      "thuat_ngu": "校正",
+      "short_meaning": "hiệu chỉnh"
+    },
+    {
+      "id": 5253,
+      "thuat_ngu": "校正支援機能",
+      "short_meaning": "tính năng hỗ trợ hiệu chỉnh"
+    },
+    {
+      "id": 5254,
+      "thuat_ngu": "格納",
+      "short_meaning": "lưu trữ"
+    },
+    {
+      "id": 5255,
+      "thuat_ngu": "桁あふれ",
+      "short_meaning": "tràn chữ số"
+    },
+    {
+      "id": 5256,
+      "thuat_ngu": "桁落ち",
+      "short_meaning": "mất chữ số (làm tròn)"
+    },
+    {
+      "id": 5258,
+      "thuat_ngu": "棄却",
+      "short_meaning": "bác bỏ"
+    },
+    {
+      "id": 5259,
+      "thuat_ngu": "棄却値",
+      "short_meaning": "giá trị bác bỏ"
+    },
+    {
+      "id": 5260,
+      "thuat_ngu": "棄却域",
+      "short_meaning": "miền bác bỏ"
+    },
+    {
+      "id": 5261,
+      "thuat_ngu": "棄却限界値",
+      "short_meaning": "giá trị giới hạn bác bỏ"
+    },
+    {
+      "id": 5263,
+      "thuat_ngu": "検出もれ",
+      "short_meaning": "bỏ sót phát hiện"
+    },
+    {
+      "id": 5266,
+      "thuat_ngu": "検知器",
+      "short_meaning": "cảm biến phát hiện"
+    },
+    {
+      "id": 5267,
+      "thuat_ngu": "検知機能",
+      "short_meaning": "chức năng phát hiện"
+    },
+    {
+      "id": 5281,
+      "thuat_ngu": "検討する",
+      "short_meaning": "xem xét, suy nghĩ"
+    },
+    {
+      "id": 5284,
+      "thuat_ngu": "業務",
+      "short_meaning": "công việc kinh doanh"
+    },
+    {
+      "id": 5285,
+      "thuat_ngu": "業務システム",
+      "short_meaning": "hệ thống kinh doanh"
+    },
+    {
+      "id": 5288,
+      "thuat_ngu": "概念図",
+      "short_meaning": "biểu đồ khái niệm"
+    },
+    {
+      "id": 5291,
+      "thuat_ngu": "構成図",
+      "short_meaning": "sơ đồ cấu trúc"
+    },
+    {
+      "id": 5293,
+      "thuat_ngu": "構築",
+      "short_meaning": "xây dựng"
+    },
+    {
+      "id": 5320,
+      "thuat_ngu": "標準化",
+      "short_meaning": "chuẩn hóa"
+    },
+    {
+      "id": 5323,
+      "thuat_ngu": "標題",
+      "short_meaning": "tiêu đề"
+    },
+    {
+      "id": 5326,
+      "thuat_ngu": "権限",
+      "short_meaning": "quyền hạn"
+    },
+    {
+      "id": 5327,
+      "thuat_ngu": "樹形図",
+      "short_meaning": "sơ đồ hình cây"
+    },
+    {
+      "id": 5329,
+      "thuat_ngu": "機密保護",
+      "short_meaning": "bảo vệ bí mật"
+    },
+    {
+      "id": 5330,
+      "thuat_ngu": "機密性",
+      "short_meaning": "tính bảo mật thông tin"
+    },
+    {
+      "id": 5331,
+      "thuat_ngu": "機密性・完全性・可用性",
+      "short_meaning": "bảo mật, toàn vẹn, khả dụng"
+    },
+    {
+      "id": 5333,
+      "thuat_ngu": "機械判読性",
+      "short_meaning": "tính đọc được bằng máy"
+    },
+    {
+      "id": 5334,
+      "thuat_ngu": "機械可読性",
+      "short_meaning": "tính có thể đọc bằng máy"
+    },
+    {
+      "id": 5338,
+      "thuat_ngu": "機械語",
+      "short_meaning": "ngôn ngữ máy"
+    },
+    {
+      "id": 5342,
+      "thuat_ngu": "機能",
+      "short_meaning": "chức năng"
+    },
+    {
+      "id": 5344,
+      "thuat_ngu": "欠損値",
+      "short_meaning": "giá trị thiếu"
+    },
+    {
+      "id": 5345,
+      "thuat_ngu": "次世代のインターネット",
+      "short_meaning": "Internet thế hệ tiếp theo"
+    },
+    {
+      "id": 5346,
+      "thuat_ngu": "次元削減",
+      "short_meaning": "giảm chiều"
+    },
+    {
+      "id": 5348,
+      "thuat_ngu": "正の数",
+      "short_meaning": "số dương"
+    },
+    {
+      "id": 5350,
+      "thuat_ngu": "正則化",
+      "short_meaning": "chuẩn hóa"
+    },
+    {
+      "id": 5352,
+      "thuat_ngu": "正確性",
+      "short_meaning": "tính chính xác"
+    },
+    {
+      "id": 5357,
+      "thuat_ngu": "正解率",
+      "short_meaning": "tỷ lệ câu trả lời đúng"
+    },
+    {
+      "id": 5358,
+      "thuat_ngu": "歩きスマホ",
+      "short_meaning": "đi bộ dùng smartphone"
+    },
+    {
+      "id": 5359,
+      "thuat_ngu": "歯車式加算機",
+      "short_meaning": "máy cộng bánh răng"
+    },
+    {
+      "id": 5360,
+      "thuat_ngu": "残像",
+      "short_meaning": "ảo ảnh tồn lưu"
+    },
+    {
+      "id": 5361,
+      "thuat_ngu": "残像効果",
+      "short_meaning": "hiệu ứng ảo ảnh tồn lưu"
+    },
+    {
+      "id": 5362,
+      "thuat_ngu": "残像現象",
+      "short_meaning": "hiện tượng ảo ảnh tồn lưu"
+    },
+    {
+      "id": 5363,
+      "thuat_ngu": "残存性",
+      "short_meaning": "tính lưu lại của dữ liệu"
+    },
+    {
+      "id": 5364,
+      "thuat_ngu": "残差",
+      "short_meaning": "phần dư"
+    },
+    {
+      "id": 5365,
+      "thuat_ngu": "残差二乗和",
+      "short_meaning": "tổng bình phương phần dư"
+    },
+    {
+      "id": 5366,
+      "thuat_ngu": "残差平方和",
+      "short_meaning": "tổng bình phương phần dư"
+    },
+    {
+      "id": 5368,
+      "thuat_ngu": "段階",
+      "short_meaning": "giai đoạn"
+    },
+    {
+      "id": 5373,
+      "thuat_ngu": "比例尺度",
+      "short_meaning": "thang đo tỉ lệ"
+    },
+    {
+      "id": 5374,
+      "thuat_ngu": "比率尺度",
+      "short_meaning": "thang đo tỷ lệ"
+    },
+    {
+      "id": 5379,
+      "thuat_ngu": "気象予報システム",
+      "short_meaning": "hệ thống dự báo thời tiết"
+    },
+    {
+      "id": 5382,
+      "thuat_ngu": "気象観測システム",
+      "short_meaning": "hệ thống quan sát thời tiết"
+    },
+    {
+      "id": 5384,
+      "thuat_ngu": "気配り",
+      "short_meaning": "tỉnh táo, chu đáo"
+    },
+    {
+      "id": 5386,
+      "thuat_ngu": "水晶発振子",
+      "short_meaning": "tấm thạch anh dao động"
+    },
+    {
+      "id": 5387,
+      "thuat_ngu": "汎化",
+      "short_meaning": "tổng quát hóa"
+    },
+    {
+      "id": 5388,
+      "thuat_ngu": "汎用JPドメイン",
+      "short_meaning": "tên miền JP đa dụng"
+    },
+    {
+      "id": 5389,
+      "thuat_ngu": "汎用コンピュータ",
+      "short_meaning": "máy tính đa năng"
+    },
+    {
+      "id": 5390,
+      "thuat_ngu": "汎用トップレベルドメイン",
+      "short_meaning": "tên miền cấp cao đa dụng"
+    },
+    {
+      "id": 5391,
+      "thuat_ngu": "汎用性",
+      "short_meaning": "tính linh hoạt"
+    },
+    {
+      "id": 5392,
+      "thuat_ngu": "汎用機",
+      "short_meaning": "máy tính đa năng"
+    },
+    {
+      "id": 5394,
+      "thuat_ngu": "決定係数",
+      "short_meaning": "hệ số xác định"
+    },
+    {
+      "id": 5395,
+      "thuat_ngu": "決定木",
+      "short_meaning": "cây quyết định"
+    },
+    {
+      "id": 5400,
+      "thuat_ngu": "波形",
+      "short_meaning": "dạng sóng"
+    },
+    {
+      "id": 5401,
+      "thuat_ngu": "波長帯",
+      "short_meaning": "dải bước sóng"
+    },
+    {
+      "id": 5405,
+      "thuat_ngu": "派遣労働",
+      "short_meaning": "lao động thay thế"
+    },
+    {
+      "id": 5406,
+      "thuat_ngu": "流れ図",
+      "short_meaning": "sơ đồ luồng"
+    },
+    {
+      "id": 5407,
+      "thuat_ngu": "流れ線",
+      "short_meaning": "đường luồng"
+    },
+    {
+      "id": 5408,
+      "thuat_ngu": "流言",
+      "short_meaning": "tin đồn"
+    },
+    {
+      "id": 5409,
+      "thuat_ngu": "浮動小数点",
+      "short_meaning": "số dấu phẩy động"
+    },
+    {
+      "id": 5411,
+      "thuat_ngu": "浮動小数点数",
+      "short_meaning": "số dấu phẩy động"
+    },
+    {
+      "id": 5412,
+      "thuat_ngu": "浮動小数点表現",
+      "short_meaning": "biểu diễn dấu phẩy động"
+    },
+    {
+      "id": 5415,
+      "thuat_ngu": "海賊版",
+      "short_meaning": "phiên bản lậu"
+    },
+    {
+      "id": 5416,
+      "thuat_ngu": "消しゴムツール",
+      "short_meaning": "công cụ xóa"
+    },
+    {
+      "id": 5417,
+      "thuat_ngu": "消費者センター",
+      "short_meaning": "trung tâm bảo vệ tiêu dùng"
+    },
+    {
+      "id": 5422,
+      "thuat_ngu": "液晶プロジェクタ",
+      "short_meaning": "máy chiếu LCD"
+    },
+    {
+      "id": 5425,
+      "thuat_ngu": "混同行列",
+      "short_meaning": "ma trận nhầm lẫn"
+    },
+    {
+      "id": 5426,
+      "thuat_ngu": "添え字",
+      "short_meaning": "chỉ số mảng"
+    },
+    {
+      "id": 5427,
+      "thuat_ngu": "添付",
+      "short_meaning": "đính kèm"
+    },
+    {
+      "id": 5429,
+      "thuat_ngu": "添字",
+      "short_meaning": "chỉ số mảng"
+    },
+    {
+      "id": 5431,
+      "thuat_ngu": "清書原稿",
+      "short_meaning": "bản thảo sạch"
+    },
+    {
+      "id": 5434,
+      "thuat_ngu": "温度センサー",
+      "short_meaning": "cảm biến nhiệt độ"
+    },
+    {
+      "id": 5435,
+      "thuat_ngu": "測る",
+      "short_meaning": "đo"
+    },
+    {
+      "id": 5436,
+      "thuat_ngu": "満員超過",
+      "short_meaning": "quá tải"
+    },
+    {
+      "id": 5437,
+      "thuat_ngu": "演出効果",
+      "short_meaning": "hiệu ứng trình bày"
+    },
+    {
+      "id": 5438,
+      "thuat_ngu": "演奏権",
+      "short_meaning": "quyền biểu diễn"
+    },
+    {
+      "id": 5450,
+      "thuat_ngu": "演繹",
+      "short_meaning": "suy diễn"
+    },
+    {
+      "id": 5453,
+      "thuat_ngu": "演繹的",
+      "short_meaning": "tính suy diễn"
+    },
+    {
+      "id": 5460,
+      "thuat_ngu": "潜伏機能",
+      "short_meaning": "chức năng ẩn"
+    },
+    {
+      "id": 5461,
+      "thuat_ngu": "炎上",
+      "short_meaning": "sự tranh cãi trực tuyến"
+    },
+    {
+      "id": 5465,
+      "thuat_ngu": "点推定",
+      "short_meaning": "ước lượng điểm"
+    },
+    {
+      "id": 5466,
+      "thuat_ngu": "無人化",
+      "short_meaning": "tự động hóa"
+    },
+    {
+      "id": 5467,
+      "thuat_ngu": "無体財産",
+      "short_meaning": "tài sản vô hình"
+    },
+    {
+      "id": 5468,
+      "thuat_ngu": "無体財産権",
+      "short_meaning": "quyền tài sản vô hình"
+    },
+    {
+      "id": 5473,
+      "thuat_ngu": "無断利用",
+      "short_meaning": "sử dụng trái phép"
+    },
+    {
+      "id": 5487,
+      "thuat_ngu": "無責任な書きこみ",
+      "short_meaning": "bình luận thiếu trách nhiệm"
+    },
+    {
+      "id": 5491,
+      "thuat_ngu": "片方向リスト",
+      "short_meaning": "danh sách liên kết một chiều"
+    },
+    {
+      "id": 5492,
+      "thuat_ngu": "物流",
+      "short_meaning": "quản lý chuỗi cung ứng"
+    },
+    {
+      "id": 5504,
+      "thuat_ngu": "特定性",
+      "short_meaning": "tính cụ thể"
+    },
+    {
+      "id": 5509,
+      "thuat_ngu": "特性要因図",
+      "short_meaning": "biểu đồ nguyên nhân kết quả"
+    },
+    {
+      "id": 5517,
+      "thuat_ngu": "状態遷移",
+      "short_meaning": "chuyển đổi trạng thái"
+    },
+    {
+      "id": 5518,
+      "thuat_ngu": "状態遷移図",
+      "short_meaning": "sơ đồ chuyển đổi trạng thái"
+    },
+    {
+      "id": 5519,
+      "thuat_ngu": "状態遷移表",
+      "short_meaning": "bảng chuyển đổi trạng thái"
+    },
+    {
+      "id": 5520,
+      "thuat_ngu": "現地訪問",
+      "short_meaning": "thăm dò tại chỗ"
+    },
+    {
+      "id": 5521,
+      "thuat_ngu": "現実世界",
+      "short_meaning": "thế giới thực"
+    },
+    {
+      "id": 5522,
+      "thuat_ngu": "現実性の喪失",
+      "short_meaning": "mất tính thực tiễn"
+    },
+    {
+      "id": 5524,
+      "thuat_ngu": "現状",
+      "short_meaning": "tình trạng hiện tại"
+    },
+    {
+      "id": 5525,
+      "thuat_ngu": "現象",
+      "short_meaning": "hiện tượng"
+    },
+    {
+      "id": 5526,
+      "thuat_ngu": "現金自動支払機",
+      "short_meaning": "máy rút tiền tự động"
+    },
+    {
+      "id": 5527,
+      "thuat_ngu": "現金自動預払機",
+      "short_meaning": "máy gửi rút tiền tự động (ATM)"
+    },
+    {
+      "id": 5528,
+      "thuat_ngu": "現金自動預金支払機",
+      "short_meaning": "máy gửi rút tiền tự động"
+    },
+    {
+      "id": 5532,
+      "thuat_ngu": "産業用ロボット",
+      "short_meaning": "robot công nghiệp"
+    },
+    {
+      "id": 5533,
+      "thuat_ngu": "産業財産権",
+      "short_meaning": "quyền sở hữu công nghiệp"
+    },
+    {
+      "id": 5534,
+      "thuat_ngu": "産業革命",
+      "short_meaning": "cách mạng công nghiệp"
+    },
+    {
+      "id": 5567,
+      "thuat_ngu": "画質",
+      "short_meaning": "chất lượng ảnh"
+    },
+    {
+      "id": 5571,
+      "thuat_ngu": "番地",
+      "short_meaning": "địa chỉ (bộ nhớ)"
+    },
+    {
+      "id": 5572,
+      "thuat_ngu": "異常値",
+      "short_meaning": "giá trị bất thường"
+    },
+    {
+      "id": 5573,
+      "thuat_ngu": "異常検知",
+      "short_meaning": "phát hiện dị thường"
+    },
+    {
+      "id": 5576,
+      "thuat_ngu": "疑似乱数",
+      "short_meaning": "số ngẫu nhiên giả"
+    },
+    {
+      "id": 5577,
+      "thuat_ngu": "疑似体験",
+      "short_meaning": "trải nghiệm giả"
+    },
+    {
+      "id": 5579,
+      "thuat_ngu": "疲労",
+      "short_meaning": "mệt mỏi"
+    },
+    {
+      "id": 5582,
+      "thuat_ngu": "発光ダイオード",
+      "short_meaning": "LED (đèn phát sáng)"
+    },
+    {
+      "id": 5584,
+      "thuat_ngu": "発生する",
+      "short_meaning": "xuất hiện"
+    },
+    {
+      "id": 5585,
+      "thuat_ngu": "発病機能",
+      "short_meaning": "chức năng phát bệnh"
+    },
+    {
+      "id": 5586,
+      "thuat_ngu": "発表原稿",
+      "short_meaning": "bản thảo báo cáo"
+    },
+    {
+      "id": 5587,
+      "thuat_ngu": "発表時間",
+      "short_meaning": "thời gian trình bày"
+    },
+    {
+      "id": 5593,
+      "thuat_ngu": "登録簿",
+      "short_meaning": "sổ đăng ký"
+    },
+    {
+      "id": 5594,
+      "thuat_ngu": "白内障",
+      "short_meaning": "đục thủy tinh thể"
+    },
+    {
+      "id": 5595,
+      "thuat_ngu": "盗用",
+      "short_meaning": "lạm dụng bản quyền"
+    },
+    {
+      "id": 5596,
+      "thuat_ngu": "盗聴",
+      "short_meaning": "nghe trộm"
+    },
+    {
+      "id": 5597,
+      "thuat_ngu": "目標",
+      "short_meaning": "mục tiêu"
+    },
+    {
+      "id": 5598,
+      "thuat_ngu": "目次",
+      "short_meaning": "mục lục"
+    },
+    {
+      "id": 5599,
+      "thuat_ngu": "目次と索引の例",
+      "short_meaning": "ví dụ mục lục và chỉ mục"
+    },
+    {
+      "id": 5604,
+      "thuat_ngu": "目録",
+      "short_meaning": "danh mục"
+    },
+    {
+      "id": 5605,
+      "thuat_ngu": "直接コミュニケーション",
+      "short_meaning": "giao tiếp trực tiếp"
+    },
+    {
+      "id": 5606,
+      "thuat_ngu": "直接化",
+      "short_meaning": "trực tiếp hoá"
+    },
+    {
+      "id": 5615,
+      "thuat_ngu": "直線関係",
+      "short_meaning": "quan hệ tuyến tính"
+    },
+    {
+      "id": 5616,
+      "thuat_ngu": "相互確認",
+      "short_meaning": "kiểm tra lẫn nhau"
+    },
+    {
+      "id": 5620,
+      "thuat_ngu": "相対パス",
+      "short_meaning": "đường dẫn tương đối"
+    },
+    {
+      "id": 5623,
+      "thuat_ngu": "相対指定",
+      "short_meaning": "chỉ định tương đối"
+    },
+    {
+      "id": 5624,
+      "thuat_ngu": "相談する",
+      "short_meaning": "tham vấn"
+    },
+    {
+      "id": 5630,
+      "thuat_ngu": "省略時解釈",
+      "short_meaning": "cách diễn giải khi bỏ qua"
+    },
+    {
+      "id": 5631,
+      "thuat_ngu": "省略英文",
+      "short_meaning": "văn bản tiếng Anh viết tắt"
+    },
+    {
+      "id": 5632,
+      "thuat_ngu": "真",
+      "short_meaning": "giá trị logic đúng"
+    },
+    {
+      "id": 5633,
+      "thuat_ngu": "真理値",
+      "short_meaning": "giá trị chân lý"
+    },
+    {
+      "id": 5634,
+      "thuat_ngu": "真理値表",
+      "short_meaning": "bảng chân lý"
+    },
+    {
+      "id": 5635,
+      "thuat_ngu": "真空管",
+      "short_meaning": "ống chân không"
+    },
+    {
+      "id": 5636,
+      "thuat_ngu": "真陰性",
+      "short_meaning": "âm tính thực"
+    },
+    {
+      "id": 5637,
+      "thuat_ngu": "真陽性",
+      "short_meaning": "dương tính thực"
+    },
+    {
+      "id": 5638,
+      "thuat_ngu": "着手する",
+      "short_meaning": "bắt đầu"
+    },
+    {
+      "id": 5640,
+      "thuat_ngu": "知恵",
+      "short_meaning": "trí tuệ"
+    },
+    {
+      "id": 5641,
+      "thuat_ngu": "知的所有権",
+      "short_meaning": "quyền sở hữu trí tuệ"
+    },
+    {
+      "id": 5643,
+      "thuat_ngu": "知的所有物",
+      "short_meaning": "sản phẩm trí tuệ"
+    },
+    {
+      "id": 5648,
+      "thuat_ngu": "知能",
+      "short_meaning": "trí thông minh"
+    },
+    {
+      "id": 5649,
+      "thuat_ngu": "知能ロボット",
+      "short_meaning": "robot thông minh"
+    },
+    {
+      "id": 5653,
+      "thuat_ngu": "矩形波",
+      "short_meaning": "sóng vuông"
+    },
+    {
+      "id": 5667,
+      "thuat_ngu": "確認応答",
+      "short_meaning": "xác nhận (ACK)"
+    },
+    {
+      "id": 5668,
+      "thuat_ngu": "磁気カード",
+      "short_meaning": "thẻ từ tính"
+    },
+    {
+      "id": 5669,
+      "thuat_ngu": "磁気テープ",
+      "short_meaning": "băng từ tính"
+    },
+    {
+      "id": 5670,
+      "thuat_ngu": "磁気テープカートリッジ",
+      "short_meaning": "cartridge băng từ tính"
+    },
+    {
+      "id": 5673,
+      "thuat_ngu": "磁気ヘッド",
+      "short_meaning": "đầu từ tính"
+    },
+    {
+      "id": 5684,
+      "thuat_ngu": "祭り",
+      "short_meaning": "lễ hội"
+    },
+    {
+      "id": 5687,
+      "thuat_ngu": "私的使用",
+      "short_meaning": "sử dụng riêng tư"
+    },
+    {
+      "id": 5688,
+      "thuat_ngu": "私的機関",
+      "short_meaning": "tổ chức tư nhân"
+    },
+    {
+      "id": 5690,
+      "thuat_ngu": "科学的考え方",
+      "short_meaning": "tư duy khoa học"
+    },
+    {
+      "id": 5693,
+      "thuat_ngu": "秘密鍵",
+      "short_meaning": "khóa riêng tư"
+    },
+    {
+      "id": 5697,
+      "thuat_ngu": "移動する",
+      "short_meaning": "di chuyển"
+    },
+    {
+      "id": 5703,
+      "thuat_ngu": "移動電話",
+      "short_meaning": "điện thoại di động"
+    },
+    {
+      "id": 5704,
+      "thuat_ngu": "積",
+      "short_meaning": "tích (phép nhân)"
+    },
+    {
+      "id": 5708,
+      "thuat_ngu": "積集合",
+      "short_meaning": "giao tập hợp"
+    },
+    {
+      "id": 5709,
+      "thuat_ngu": "空リスト",
+      "short_meaning": "danh sách rỗng"
+    },
+    {
+      "id": 5713,
+      "thuat_ngu": "端子",
+      "short_meaning": "cổng/đầu nối"
+    },
+    {
+      "id": 5716,
+      "thuat_ngu": "競技用ロボット",
+      "short_meaning": "robot thi đấu"
+    },
+    {
+      "id": 5726,
+      "thuat_ngu": "第1正規形",
+      "short_meaning": "Dạng chuẩn 1 (1NF)"
+    },
+    {
+      "id": 5727,
+      "thuat_ngu": "第2レベルドメイン",
+      "short_meaning": "Tên miền cấp 2"
+    },
+    {
+      "id": 5729,
+      "thuat_ngu": "第3レベルドメイン",
+      "short_meaning": "Tên miền cấp 3"
+    },
+    {
+      "id": 5731,
+      "thuat_ngu": "第3正規形",
+      "short_meaning": "Dạng chuẩn 3 (3NF)"
+    },
+    {
+      "id": 5733,
+      "thuat_ngu": "第一正規形",
+      "short_meaning": "Dạng chuẩn 1 (1NF)"
+    },
+    {
+      "id": 5735,
+      "thuat_ngu": "第三正規形",
+      "short_meaning": "Dạng chuẩn 3 (3NF)"
+    },
+    {
+      "id": 5737,
+      "thuat_ngu": "第二正規形",
+      "short_meaning": "Dạng chuẩn 2 (2NF)"
+    },
+    {
+      "id": 5739,
+      "thuat_ngu": "等号",
+      "short_meaning": "Dấu bằng"
+    },
+    {
+      "id": 5741,
+      "thuat_ngu": "等比数列",
+      "short_meaning": "Dãy số nhân"
+    },
+    {
+      "id": 5742,
+      "thuat_ngu": "筐体",
+      "short_meaning": "Vỏ máy, thùng chứa"
+    },
+    {
+      "id": 5743,
+      "thuat_ngu": "箇条書き",
+      "short_meaning": "Danh sách dấu đầu dòng"
+    },
+    {
+      "id": 5748,
+      "thuat_ngu": "管理システム",
+      "short_meaning": "Hệ thống quản lý"
+    },
+    {
+      "id": 5749,
+      "thuat_ngu": "管理図",
+      "short_meaning": "Biểu đồ kiểm soát"
+    },
+    {
+      "id": 5750,
+      "thuat_ngu": "管理者権限",
+      "short_meaning": "Quyền admin"
+    },
+    {
+      "id": 5752,
+      "thuat_ngu": "箱ひげ図",
+      "short_meaning": "Biểu đồ hộp"
+    },
+    {
+      "id": 5757,
+      "thuat_ngu": "紐づく",
+      "short_meaning": "Liên kết, gắn kết"
+    },
+    {
+      "id": 5758,
+      "thuat_ngu": "素子",
+      "short_meaning": "Phần tử, thành phần"
+    },
+    {
+      "id": 5759,
+      "thuat_ngu": "素数",
+      "short_meaning": "Số nguyên tố"
+    },
+    {
+      "id": 5760,
+      "thuat_ngu": "素材",
+      "short_meaning": "Tài liệu, nguyên liệu"
+    },
+    {
+      "id": 5761,
+      "thuat_ngu": "素材の収集",
+      "short_meaning": "Thu thập tài liệu"
+    },
+    {
+      "id": 5762,
+      "thuat_ngu": "索引",
+      "short_meaning": "Chỉ mục"
+    },
+    {
+      "id": 5763,
+      "thuat_ngu": "索引化",
+      "short_meaning": "Lập chỉ mục"
+    },
+    {
+      "id": 5766,
+      "thuat_ngu": "組",
+      "short_meaning": "Tổ hợp, bộ"
+    },
+    {
+      "id": 5768,
+      "thuat_ngu": "組み込みシステム",
+      "short_meaning": "Hệ thống nhúng"
+    },
+    {
+      "id": 5774,
+      "thuat_ngu": "組立ロボット",
+      "short_meaning": "Robot lắp ráp"
+    },
+    {
+      "id": 5775,
+      "thuat_ngu": "組織の変革",
+      "short_meaning": "Cải cách tổ chức"
+    },
+    {
+      "id": 5776,
+      "thuat_ngu": "組織区分",
+      "short_meaning": "Phân chia tổ chức"
+    },
+    {
+      "id": 5777,
+      "thuat_ngu": "組織名",
+      "short_meaning": "Tên tổ chức"
+    },
+    {
+      "id": 5778,
+      "thuat_ngu": "組織名称",
+      "short_meaning": "Tên gọi tổ chức"
+    },
+    {
+      "id": 5780,
+      "thuat_ngu": "組織種別",
+      "short_meaning": "Loại tổ chức"
+    },
+    {
+      "id": 5783,
+      "thuat_ngu": "経路",
+      "short_meaning": "Đường dẫn, tuyến đường"
+    },
+    {
+      "id": 5788,
+      "thuat_ngu": "結合",
+      "short_meaning": "kết hợp (join)"
+    },
+    {
+      "id": 5791,
+      "thuat_ngu": "結合力",
+      "short_meaning": "lực kết hợp"
+    },
+    {
+      "id": 5795,
+      "thuat_ngu": "結合（ジョイン）",
+      "short_meaning": "kết hợp (join)"
+    },
+    {
+      "id": 5796,
+      "thuat_ngu": "絞りこみ",
+      "short_meaning": "lọc, thu hẹp"
+    },
+    {
+      "id": 5798,
+      "thuat_ngu": "絞り込み",
+      "short_meaning": "lọc, thu hẹp"
+    },
+    {
+      "id": 5800,
+      "thuat_ngu": "絞り込む",
+      "short_meaning": "lọc, thu hẹp"
+    },
+    {
+      "id": 5801,
+      "thuat_ngu": "統一モデリング言語",
+      "short_meaning": "ngôn ngữ mô hình hóa thống nhất"
+    },
+    {
+      "id": 5802,
+      "thuat_ngu": "統制語",
+      "short_meaning": "từ được kiểm soát"
+    },
+    {
+      "id": 5803,
+      "thuat_ngu": "統合",
+      "short_meaning": "tích hợp, hợp nhất"
+    },
+    {
+      "id": 5805,
+      "thuat_ngu": "統合ディジタルサービス網",
+      "short_meaning": "mạng dịch vụ dịch tử tích hợp"
+    },
+    {
+      "id": 5806,
+      "thuat_ngu": "統合脅威管理",
+      "short_meaning": "quản lý đe dọa thống nhất"
+    },
+    {
+      "id": 5811,
+      "thuat_ngu": "絵の貼り付け",
+      "short_meaning": "dán hình ảnh"
+    },
+    {
+      "id": 5812,
+      "thuat_ngu": "絵コンテ",
+      "short_meaning": "bộ ảnh cảnh"
+    },
+    {
+      "id": 5815,
+      "thuat_ngu": "絶対パス",
+      "short_meaning": "đường dẫn tuyệt đối"
+    },
+    {
+      "id": 5817,
+      "thuat_ngu": "絶対指定",
+      "short_meaning": "chỉ định tuyệt đối"
+    },
+    {
+      "id": 5818,
+      "thuat_ngu": "継続する",
+      "short_meaning": "tiếp tục"
+    },
+    {
+      "id": 5819,
+      "thuat_ngu": "継電器",
+      "short_meaning": "rơle điện từ"
+    },
+    {
+      "id": 5820,
+      "thuat_ngu": "継電器（電磁リレー）",
+      "short_meaning": "rơle điện từ"
+    },
+    {
+      "id": 5825,
+      "thuat_ngu": "緊急地震速報",
+      "short_meaning": "thông báo sớm động đất"
+    },
+    {
+      "id": 5828,
+      "thuat_ngu": "線形分離可能",
+      "short_meaning": "tách biệt được tuyến tính"
+    },
+    {
+      "id": 5829,
+      "thuat_ngu": "線形和",
+      "short_meaning": "kết hợp tuyến tính"
+    },
+    {
+      "id": 5835,
+      "thuat_ngu": "締切",
+      "short_meaning": "hạn chót, thời hạn"
+    },
+    {
+      "id": 5842,
+      "thuat_ngu": "繰り返し",
+      "short_meaning": "vòng lặp, lặp lại"
+    },
+    {
+      "id": 5846,
+      "thuat_ngu": "置換",
+      "short_meaning": "thay thế"
+    },
+    {
+      "id": 5847,
+      "thuat_ngu": "置換機能",
+      "short_meaning": "chức năng thay thế"
+    },
+    {
+      "id": 5848,
+      "thuat_ngu": "署名",
+      "short_meaning": "chữ ký số"
+    },
+    {
+      "id": 5850,
+      "thuat_ngu": "翻案権",
+      "short_meaning": "quyền chuyển đạo"
+    },
+    {
+      "id": 5851,
+      "thuat_ngu": "翻訳ソフト",
+      "short_meaning": "phần mềm dịch thuật"
+    },
+    {
+      "id": 5853,
+      "thuat_ngu": "翻訳権",
+      "short_meaning": "quyền dịch thuật"
+    },
+    {
+      "id": 5854,
+      "thuat_ngu": "翻訳機",
+      "short_meaning": "máy dịch"
+    },
+    {
+      "id": 5855,
+      "thuat_ngu": "考案",
+      "short_meaning": "phát minh; sáng tạo"
+    },
+    {
+      "id": 5857,
+      "thuat_ngu": "肖像権",
+      "short_meaning": "quyền hình ảnh cá nhân"
+    },
+    {
+      "id": 5858,
+      "thuat_ngu": "育成者権",
+      "short_meaning": "quyền người tạo giống"
+    },
+    {
+      "id": 5861,
+      "thuat_ngu": "腕木",
+      "short_meaning": "tay gác; cánh tay"
+    },
+    {
+      "id": 5870,
+      "thuat_ngu": "自動券売機",
+      "short_meaning": "máy bán vé tự động"
+    },
+    {
+      "id": 5871,
+      "thuat_ngu": "自動化",
+      "short_meaning": "tự động hóa"
+    },
+    {
+      "id": 5874,
+      "thuat_ngu": "自動改札",
+      "short_meaning": "cổng kiểm vé tự động"
+    },
+    {
+      "id": 5875,
+      "thuat_ngu": "自動料金収受システム",
+      "short_meaning": "hệ thống thu phí tự động"
+    },
+    {
+      "id": 5876,
+      "thuat_ngu": "自動洗濯機",
+      "short_meaning": "máy giặt tự động"
+    },
+    {
+      "id": 5877,
+      "thuat_ngu": "自動翻訳",
+      "short_meaning": "dịch tự động"
+    },
+    {
+      "id": 5878,
+      "thuat_ngu": "自動翻訳システム",
+      "short_meaning": "hệ thống dịch tự động"
+    },
+    {
+      "id": 5881,
+      "thuat_ngu": "自動車電話",
+      "short_meaning": "điện thoại ô tô"
+    },
+    {
+      "id": 5882,
+      "thuat_ngu": "自動運転",
+      "short_meaning": "lái tự động"
+    },
+    {
+      "id": 5883,
+      "thuat_ngu": "自動預払機",
+      "short_meaning": "máy rút/gửi tiền tự động"
+    },
+    {
+      "id": 5884,
+      "thuat_ngu": "自己伝染機能",
+      "short_meaning": "chức năng lây nhiễm tự"
+    },
+    {
+      "id": 5885,
+      "thuat_ngu": "自己解凍",
+      "short_meaning": "giải nén tự động"
+    },
+    {
+      "id": 5890,
+      "thuat_ngu": "自然数",
+      "short_meaning": "số tự nhiên"
+    },
+    {
+      "id": 5891,
+      "thuat_ngu": "自然現象",
+      "short_meaning": "hiện tượng tự nhiên"
+    },
+    {
+      "id": 5892,
+      "thuat_ngu": "自然観察",
+      "short_meaning": "quan sát tự nhiên"
+    },
+    {
+      "id": 5893,
+      "thuat_ngu": "自然言語",
+      "short_meaning": "ngôn ngữ tự nhiên"
+    },
+    {
+      "id": 5895,
+      "thuat_ngu": "自然言語解析",
+      "short_meaning": "phân tích ngôn ngữ tự nhiên"
+    },
+    {
+      "id": 5896,
+      "thuat_ngu": "自由利用マーク",
+      "short_meaning": "nhãn tự do sử dụng"
+    },
+    {
+      "id": 5897,
+      "thuat_ngu": "自由回答",
+      "short_meaning": "trả lời tự do"
+    },
+    {
+      "id": 5899,
+      "thuat_ngu": "自由度",
+      "short_meaning": "bậc tự do"
+    },
+    {
+      "id": 5901,
+      "thuat_ngu": "自由語",
+      "short_meaning": "từ tự do"
+    },
+    {
+      "id": 5919,
+      "thuat_ngu": "英数字",
+      "short_meaning": "ký tự chữ cái và số"
+    },
+    {
+      "id": 5922,
+      "thuat_ngu": "荒らし",
+      "short_meaning": "spam, phá hoại (forum)"
+    },
+    {
+      "id": 5923,
+      "thuat_ngu": "落ちる",
+      "short_meaning": "sụp đổ, lỗi"
+    },
+    {
+      "id": 5955,
+      "thuat_ngu": "蓄積性",
+      "short_meaning": "tính chất tích lũy"
+    },
+    {
+      "id": 5956,
+      "thuat_ngu": "蓄積量",
+      "short_meaning": "lượng tích lũy"
+    },
+    {
+      "id": 5959,
+      "thuat_ngu": "蔵書目録",
+      "short_meaning": "danh mục sách lưu"
+    },
+    {
+      "id": 5960,
+      "thuat_ngu": "蔵書管理システム",
+      "short_meaning": "hệ thống quản lý sách"
+    },
+    {
+      "id": 5961,
+      "thuat_ngu": "薬害訴訟",
+      "short_meaning": "vụ kiện về tác hại thuốc"
+    },
+    {
+      "id": 5963,
+      "thuat_ngu": "行",
+      "short_meaning": "hàng"
+    },
+    {
+      "id": 5966,
+      "thuat_ngu": "行の高さの変更",
+      "short_meaning": "thay đổi chiều cao hàng"
+    },
+    {
+      "id": 5967,
+      "thuat_ngu": "行列",
+      "short_meaning": "ma trận"
+    },
+    {
+      "id": 5968,
+      "thuat_ngu": "行動観察",
+      "short_meaning": "quan sát hành vi"
+    },
+    {
+      "id": 5971,
+      "thuat_ngu": "行政サービス",
+      "short_meaning": "dịch vụ hành chính"
+    },
+    {
+      "id": 5973,
+      "thuat_ngu": "行番号",
+      "short_meaning": "số hiệu hàng"
+    },
+    {
+      "id": 5979,
+      "thuat_ngu": "表の加工",
+      "short_meaning": "xử lý bảng"
+    },
+    {
+      "id": 5982,
+      "thuat_ngu": "表名",
+      "short_meaning": "tên bảng"
+    },
+    {
+      "id": 5984,
+      "thuat_ngu": "表現の多様性",
+      "short_meaning": "tính đa dạng của biểu hiện"
+    },
+    {
+      "id": 5985,
+      "thuat_ngu": "表現の自由",
+      "short_meaning": "tự do biểu đạt"
+    },
+    {
+      "id": 5987,
+      "thuat_ngu": "表現・伝達",
+      "short_meaning": "biểu đạt và truyền tải"
+    },
+    {
+      "id": 5997,
+      "thuat_ngu": "表組み",
+      "short_meaning": "bảng (lập bảng)"
+    },
+    {
+      "id": 6004,
+      "thuat_ngu": "表記揺れ",
+      "short_meaning": "biến thể cách viết"
+    },
+    {
+      "id": 6007,
+      "thuat_ngu": "表（表現）",
+      "short_meaning": "biểu thức (cách biểu đạt)"
+    },
+    {
+      "id": 6008,
+      "thuat_ngu": "被写体",
+      "short_meaning": "đối tượng chụp ảnh"
+    },
+    {
+      "id": 6010,
+      "thuat_ngu": "裏を取る",
+      "short_meaning": "xác minh nguồn thông tin"
+    },
+    {
+      "id": 6011,
+      "thuat_ngu": "補助単位",
+      "short_meaning": "đơn vị phụ trợ"
+    },
+    {
+      "id": 6012,
+      "thuat_ngu": "補助記号",
+      "short_meaning": "ký hiệu phụ trợ"
+    },
+    {
+      "id": 6018,
+      "thuat_ngu": "複写",
+      "short_meaning": "sao chép"
+    },
+    {
+      "id": 6019,
+      "thuat_ngu": "複合キー",
+      "short_meaning": "phím tổhợp"
+    },
+    {
+      "id": 6025,
+      "thuat_ngu": "複合条件",
+      "short_meaning": "điều kiện phức hợp"
+    },
+    {
+      "id": 6028,
+      "thuat_ngu": "複数化",
+      "short_meaning": "tạo đa bản"
+    },
+    {
+      "id": 6031,
+      "thuat_ngu": "複製",
+      "short_meaning": "bản sao"
+    },
+    {
+      "id": 6032,
+      "thuat_ngu": "複製性",
+      "short_meaning": "tính sao chép được"
+    },
+    {
+      "id": 6033,
+      "thuat_ngu": "複製権",
+      "short_meaning": "quyền sao chép"
+    },
+    {
+      "id": 6034,
+      "thuat_ngu": "複製物",
+      "short_meaning": "bản sao (sản phẩm sao chép)"
+    },
+    {
+      "id": 6042,
+      "thuat_ngu": "要約",
+      "short_meaning": "tóm tắt"
+    },
+    {
+      "id": 6043,
+      "thuat_ngu": "要約文",
+      "short_meaning": "văn bản tóm tắt"
+    },
+    {
+      "id": 6051,
+      "thuat_ngu": "見積もる",
+      "short_meaning": "ước lượng"
+    },
+    {
+      "id": 6052,
+      "thuat_ngu": "規格",
+      "short_meaning": "tiêu chuẩn sản phẩm"
+    },
+    {
+      "id": 6053,
+      "thuat_ngu": "規範",
+      "short_meaning": "quy chuẩn"
+    },
+    {
+      "id": 6054,
+      "thuat_ngu": "視差",
+      "short_meaning": "sai số góc nhìn"
+    },
+    {
+      "id": 6055,
+      "thuat_ngu": "視線移動",
+      "short_meaning": "chuyển động con mắt"
+    },
+    {
+      "id": 6060,
+      "thuat_ngu": "視認性",
+      "short_meaning": "khả năng nhận biết trực quan"
+    },
+    {
+      "id": 6061,
+      "thuat_ngu": "親告罪",
+      "short_meaning": "tội phải tố cáo"
+    },
+    {
+      "id": 6062,
+      "thuat_ngu": "観察",
+      "short_meaning": "quan sát"
+    },
+    {
+      "id": 6064,
+      "thuat_ngu": "解",
+      "short_meaning": "lời giải"
+    },
+    {
+      "id": 6066,
+      "thuat_ngu": "解凍",
+      "short_meaning": "giải nén"
+    },
+    {
+      "id": 6068,
+      "thuat_ngu": "解析機関",
+      "short_meaning": "cơ quan phân tích"
+    },
+    {
+      "id": 6078,
+      "thuat_ngu": "触覚",
+      "short_meaning": "xúc giác"
+    },
+    {
+      "id": 6079,
+      "thuat_ngu": "言い争い",
+      "short_meaning": "tranh cãi"
+    },
+    {
+      "id": 6080,
+      "thuat_ngu": "言語",
+      "short_meaning": "ngôn ngữ"
+    },
+    {
+      "id": 6094,
+      "thuat_ngu": "計画表",
+      "short_meaning": "biểu đồ kế hoạch"
+    },
+    {
+      "id": 6096,
+      "thuat_ngu": "計算を中心とするシステム",
+      "short_meaning": "hệ thống dựa trên tính toán"
+    },
+    {
+      "id": 6097,
+      "thuat_ngu": "計算システム",
+      "short_meaning": "hệ thống tính toán"
+    },
+    {
+      "id": 6098,
+      "thuat_ngu": "計算式",
+      "short_meaning": "công thức tính toán"
+    },
+    {
+      "id": 6101,
+      "thuat_ngu": "計算爆発",
+      "short_meaning": "nổ tung tính toán"
+    },
+    {
+      "id": 6104,
+      "thuat_ngu": "記号",
+      "short_meaning": "ký hiệu"
+    },
+    {
+      "id": 6105,
+      "thuat_ngu": "記号化",
+      "short_meaning": "ký hiệu hóa"
+    },
+    {
+      "id": 6117,
+      "thuat_ngu": "記録媒体",
+      "short_meaning": "phương tiện lưu trữ dữ liệu"
+    },
+    {
+      "id": 6119,
+      "thuat_ngu": "記録性",
+      "short_meaning": "tính chất có thể ghi"
+    },
+    {
+      "id": 6121,
+      "thuat_ngu": "設定する",
+      "short_meaning": "thiết lập, cấu hình"
+    },
+    {
+      "id": 6126,
+      "thuat_ngu": "許諾",
+      "short_meaning": "sự phê chuẩn, giấy phép"
+    },
+    {
+      "id": 6127,
+      "thuat_ngu": "許諾権",
+      "short_meaning": "quyền phê chuẩn"
+    },
+    {
+      "id": 6130,
+      "thuat_ngu": "詐称",
+      "short_meaning": "mạo danh"
+    },
+    {
+      "id": 6137,
+      "thuat_ngu": "試写会",
+      "short_meaning": "buổi xem thử"
+    },
+    {
+      "id": 6139,
+      "thuat_ngu": "詳しく",
+      "short_meaning": "chi tiết, cụ thể"
+    },
+    {
+      "id": 6147,
+      "thuat_ngu": "誕生月",
+      "short_meaning": "tháng sinh"
+    },
+    {
+      "id": 6148,
+      "thuat_ngu": "語学力",
+      "short_meaning": "khả năng ngoại ngữ"
+    },
+    {
+      "id": 6149,
+      "thuat_ngu": "誤り検出",
+      "short_meaning": "phát hiện lỗi"
+    },
+    {
+      "id": 6150,
+      "thuat_ngu": "誤り検出・訂正",
+      "short_meaning": "phát hiện và sửa lỗi"
+    },
+    {
+      "id": 6155,
+      "thuat_ngu": "誤検出",
+      "short_meaning": "phát hiện sai, false positive"
+    },
+    {
+      "id": 6157,
+      "thuat_ngu": "説明責任",
+      "short_meaning": "trách nhiệm giải trình"
+    },
+    {
+      "id": 6159,
+      "thuat_ngu": "読出し",
+      "short_meaning": "thao tác đọc dữ liệu"
+    },
+    {
+      "id": 6160,
+      "thuat_ngu": "読書相談",
+      "short_meaning": "tư vấn đọc sách"
+    },
+    {
+      "id": 6161,
+      "thuat_ngu": "誹謗",
+      "short_meaning": "sỉ nhục, chê bai"
+    },
+    {
+      "id": 6162,
+      "thuat_ngu": "誹謗中傷",
+      "short_meaning": "xúc phạm, chỉ trích công khai"
+    },
+    {
+      "id": 6163,
+      "thuat_ngu": "調整する",
+      "short_meaning": "điều chỉnh, tinh chỉnh"
+    },
+    {
+      "id": 6183,
+      "thuat_ngu": "識字",
+      "short_meaning": "nhận biết chữ viết"
+    },
+    {
+      "id": 6184,
+      "thuat_ngu": "議論する",
+      "short_meaning": "thảo luận"
+    },
+    {
+      "id": 6185,
+      "thuat_ngu": "議題設定効果",
+      "short_meaning": "hiệu ứng đặt chương trình nghị sự"
+    },
+    {
+      "id": 6186,
+      "thuat_ngu": "譲渡権",
+      "short_meaning": "quyền chuyển nhượng tác phẩm"
+    },
+    {
+      "id": 6188,
+      "thuat_ngu": "負の数",
+      "short_meaning": "số âm (bé hơn 0)"
+    },
+    {
+      "id": 6189,
+      "thuat_ngu": "負の整数の表現",
+      "short_meaning": "biểu diễn số âm"
+    },
+    {
+      "id": 6191,
+      "thuat_ngu": "財産権",
+      "short_meaning": "quyền tài sản"
+    },
+    {
+      "id": 6194,
+      "thuat_ngu": "販売時点管理システム",
+      "short_meaning": "hệ thống quản lý bán hàng"
+    },
+    {
+      "id": 6195,
+      "thuat_ngu": "貸与権",
+      "short_meaning": "quyền cho mượn"
+    },
+    {
+      "id": 6196,
+      "thuat_ngu": "貼りつけ",
+      "short_meaning": "dán, paste"
+    },
+    {
+      "id": 6198,
+      "thuat_ngu": "資源管理",
+      "short_meaning": "quản lý tài nguyên"
+    },
+    {
+      "id": 6199,
+      "thuat_ngu": "質問紙",
+      "short_meaning": "phiếu câu hỏi"
+    },
+    {
+      "id": 6201,
+      "thuat_ngu": "質疑応答",
+      "short_meaning": "hỏi đáp"
+    },
+    {
+      "id": 6204,
+      "thuat_ngu": "赤池弘次",
+      "short_meaning": "Akaike Hiroji"
+    },
+    {
+      "id": 6206,
+      "thuat_ngu": "走査",
+      "short_meaning": "quét, scan"
+    },
+    {
+      "id": 6207,
+      "thuat_ngu": "起動",
+      "short_meaning": "khởi động"
+    },
+    {
+      "id": 6208,
+      "thuat_ngu": "起承転結",
+      "short_meaning": "cấu trúc kỳ-khởi-chuyển-kết"
+    },
+    {
+      "id": 6209,
+      "thuat_ngu": "超LSI",
+      "short_meaning": "siêu LSI"
+    },
+    {
+      "id": 6212,
+      "thuat_ngu": "足し算",
+      "short_meaning": "phép cộng"
+    },
+    {
+      "id": 6213,
+      "thuat_ngu": "路線図",
+      "short_meaning": "sơ đồ tuyến"
+    },
+    {
+      "id": 6214,
+      "thuat_ngu": "踏み台",
+      "short_meaning": "bệ nấc, bậc nhảy"
+    },
+    {
+      "id": 6215,
+      "thuat_ngu": "踏台",
+      "short_meaning": "bệ nấc, bậc nhảy"
+    },
+    {
+      "id": 6217,
+      "thuat_ngu": "転置",
+      "short_meaning": "chuyển vị, transpose"
+    },
+    {
+      "id": 6219,
+      "thuat_ngu": "転載",
+      "short_meaning": "tái đăng tải"
+    },
+    {
+      "id": 6224,
+      "thuat_ngu": "辞書機能",
+      "short_meaning": "chức năng từ điển"
+    },
+    {
+      "id": 6226,
+      "thuat_ngu": "近代郵便",
+      "short_meaning": "bưu chính hiện đại"
+    },
+    {
+      "id": 6228,
+      "thuat_ngu": "近似",
+      "short_meaning": "xấp xỉ"
+    },
+    {
+      "id": 6230,
+      "thuat_ngu": "返り値",
+      "short_meaning": "giá trị trả về"
+    },
+    {
+      "id": 6231,
+      "thuat_ngu": "返信",
+      "short_meaning": "trả lời"
+    },
+    {
+      "id": 6232,
+      "thuat_ngu": "返信先欄",
+      "short_meaning": "trường trả lời"
+    },
+    {
+      "id": 6238,
+      "thuat_ngu": "追跡交換",
+      "short_meaning": "trao đổi theo dõi"
+    },
+    {
+      "id": 6239,
+      "thuat_ngu": "送り手",
+      "short_meaning": "người gửi"
+    },
+    {
+      "id": 6240,
+      "thuat_ngu": "送り手側",
+      "short_meaning": "phía người gửi"
+    },
+    {
+      "id": 6241,
+      "thuat_ngu": "送信",
+      "short_meaning": "gửi"
+    },
+    {
+      "id": 6242,
+      "thuat_ngu": "送信可能化権",
+      "short_meaning": "quyền cho phép gửi"
+    },
+    {
+      "id": 6243,
+      "thuat_ngu": "送信者欄",
+      "short_meaning": "trường người gửi"
+    },
+    {
+      "id": 6244,
+      "thuat_ngu": "送受信",
+      "short_meaning": "gửi và nhận"
+    },
+    {
+      "id": 6245,
+      "thuat_ngu": "逆オークション",
+      "short_meaning": "đấu giá ngược"
+    },
+    {
+      "id": 6252,
+      "thuat_ngu": "途中",
+      "short_meaning": "lúc giữa, trong quá trình"
+    },
+    {
+      "id": 6253,
+      "thuat_ngu": "通れた道マップ",
+      "short_meaning": "bản đồ đường đi qua"
+    },
+    {
+      "id": 6281,
+      "thuat_ngu": "通知システム",
+      "short_meaning": "hệ thống thông báo"
+    },
+    {
+      "id": 6282,
+      "thuat_ngu": "速報性",
+      "short_meaning": "tính nhanh báo cáo"
+    },
+    {
+      "id": 6284,
+      "thuat_ngu": "連結キー",
+      "short_meaning": "khóa liên kết"
+    },
+    {
+      "id": 6288,
+      "thuat_ngu": "連続量",
+      "short_meaning": "đại lượng liên tục"
+    },
+    {
+      "id": 6289,
+      "thuat_ngu": "進捗確認",
+      "short_meaning": "kiểm tra tiến độ"
+    },
+    {
+      "id": 6291,
+      "thuat_ngu": "遅延する",
+      "short_meaning": "trễ, chậm"
+    },
+    {
+      "id": 6294,
+      "thuat_ngu": "運行管理システム",
+      "short_meaning": "hệ thống quản lý vận hành"
+    },
+    {
+      "id": 6296,
+      "thuat_ngu": "過剰反応",
+      "short_meaning": "phản ứng quá mức"
+    },
+    {
+      "id": 6297,
+      "thuat_ngu": "過剰適合",
+      "short_meaning": "overfitting"
+    },
+    {
+      "id": 6299,
+      "thuat_ngu": "過少申告",
+      "short_meaning": "khai báo dưới mức"
+    },
+    {
+      "id": 6302,
+      "thuat_ngu": "達成する",
+      "short_meaning": "đạt được, hoàn thành"
+    },
+    {
+      "id": 6305,
+      "thuat_ngu": "遠隔アクセス",
+      "short_meaning": "truy cập từ xa"
+    },
+    {
+      "id": 6311,
+      "thuat_ngu": "遠隔授業",
+      "short_meaning": "dạy học từ xa"
+    },
+    {
+      "id": 6315,
+      "thuat_ngu": "遠隔診療",
+      "short_meaning": "tư vấn từ xa"
+    },
+    {
+      "id": 6316,
+      "thuat_ngu": "遠隔講義システム",
+      "short_meaning": "hệ thống giảng dạy từ xa"
+    },
+    {
+      "id": 6319,
+      "thuat_ngu": "適合不足",
+      "short_meaning": "thiếu sự phù hợp"
+    },
+    {
+      "id": 6320,
+      "thuat_ngu": "適性診断",
+      "short_meaning": "đánh giá năng lực"
+    },
+    {
+      "id": 6335,
+      "thuat_ngu": "遺伝子組みかえ食品",
+      "short_meaning": "thực phẩm chứa gen biến đổi"
+    },
+    {
+      "id": 6336,
+      "thuat_ngu": "部分一致",
+      "short_meaning": "trùng khớp từng phần"
+    },
+    {
+      "id": 6339,
+      "thuat_ngu": "郵便",
+      "short_meaning": "dịch vụ bưu chính"
+    },
+    {
+      "id": 6340,
+      "thuat_ngu": "都市鉱山",
+      "short_meaning": "mỏ quặng đô thị"
+    },
+    {
+      "id": 6348,
+      "thuat_ngu": "配布資料",
+      "short_meaning": "tài liệu phát hành"
+    },
+    {
+      "id": 6350,
+      "thuat_ngu": "酸性雨",
+      "short_meaning": "mưa axit"
+    },
+    {
+      "id": 6351,
+      "thuat_ngu": "重み付け",
+      "short_meaning": "gán trọng số"
+    },
+    {
+      "id": 6356,
+      "thuat_ngu": "量子コンピュータ",
+      "short_meaning": "máy tính lượng tử"
+    },
+    {
+      "id": 6357,
+      "thuat_ngu": "量子化",
+      "short_meaning": "lượng tử hóa"
+    },
+    {
+      "id": 6359,
+      "thuat_ngu": "量子化数",
+      "short_meaning": "số lượng tử hóa"
+    },
+    {
+      "id": 6362,
+      "thuat_ngu": "金融システム",
+      "short_meaning": "hệ thống tài chính"
+    },
+    {
+      "id": 6365,
+      "thuat_ngu": "金融機関のオンラインシステム",
+      "short_meaning": "hệ thống trực tuyến tổ chức tài chính"
+    },
+    {
+      "id": 6366,
+      "thuat_ngu": "鉛筆ツール",
+      "short_meaning": "công cụ bút chì"
+    },
+    {
+      "id": 6367,
+      "thuat_ngu": "鉱石ラジオ",
+      "short_meaning": "radio tinh thể"
+    },
+    {
+      "id": 6369,
+      "thuat_ngu": "銀行預金システム",
+      "short_meaning": "hệ thống gửi tiết kiệm ngân hàng"
+    },
+    {
+      "id": 6370,
+      "thuat_ngu": "銅線",
+      "short_meaning": "dây đồng"
+    },
+    {
+      "id": 6371,
+      "thuat_ngu": "鍵ペア",
+      "short_meaning": "cặp khóa"
+    },
+    {
+      "id": 6372,
+      "thuat_ngu": "長さ分解能",
+      "short_meaning": "độ phân giải chiều dài"
+    },
+    {
+      "id": 6373,
+      "thuat_ngu": "閉架式",
+      "short_meaning": "thư viện kín"
+    },
+    {
+      "id": 6374,
+      "thuat_ngu": "開始する",
+      "short_meaning": "khởi động"
+    },
+    {
+      "id": 6375,
+      "thuat_ngu": "開架式",
+      "short_meaning": "thư viện mở"
+    },
+    {
+      "id": 6378,
+      "thuat_ngu": "開示",
+      "short_meaning": "công khai"
+    },
+    {
+      "id": 6379,
+      "thuat_ngu": "閏年",
+      "short_meaning": "năm nhuận"
+    },
+    {
+      "id": 6380,
+      "thuat_ngu": "間接コミュニケーション",
+      "short_meaning": "giao tiếp gián tiếp"
+    },
+    {
+      "id": 6382,
+      "thuat_ngu": "間隔尺度",
+      "short_meaning": "thang đo khoảng cách"
+    },
+    {
+      "id": 6383,
+      "thuat_ngu": "関係する",
+      "short_meaning": "liên quan đến"
+    },
+    {
+      "id": 6390,
+      "thuat_ngu": "関係性",
+      "short_meaning": "tính chất liên quan"
+    },
+    {
+      "id": 6398,
+      "thuat_ngu": "関連づけ",
+      "short_meaning": "liên kết"
+    },
+    {
+      "id": 6399,
+      "thuat_ngu": "関連づける",
+      "short_meaning": "liên kết với"
+    },
+    {
+      "id": 6400,
+      "thuat_ngu": "防止機能",
+      "short_meaning": "chức năng ngăn chặn"
+    },
+    {
+      "id": 6401,
+      "thuat_ngu": "防火壁",
+      "short_meaning": "tường lửa"
+    },
+    {
+      "id": 6402,
+      "thuat_ngu": "防災システム",
+      "short_meaning": "hệ thống phòng chống thảm họa"
+    },
+    {
+      "id": 6404,
+      "thuat_ngu": "防災通報システム",
+      "short_meaning": "hệ thống thông báo khẩn cấp"
+    },
+    {
+      "id": 6406,
+      "thuat_ngu": "防衛手段",
+      "short_meaning": "biện pháp bảo vệ"
+    },
+    {
+      "id": 6408,
+      "thuat_ngu": "降順",
+      "short_meaning": "thứ tự giảm dần"
+    },
+    {
+      "id": 6410,
+      "thuat_ngu": "階層",
+      "short_meaning": "tầng, cấp bậc"
+    },
+    {
+      "id": 6413,
+      "thuat_ngu": "階層図",
+      "short_meaning": "sơ đồ tầng"
+    },
+    {
+      "id": 6421,
+      "thuat_ngu": "階差エンジン",
+      "short_meaning": "công cụ sai phân"
+    },
+    {
+      "id": 6422,
+      "thuat_ngu": "階差機関",
+      "short_meaning": "máy tính sai phân"
+    },
+    {
+      "id": 6423,
+      "thuat_ngu": "階級",
+      "short_meaning": "lớp, hạng"
+    },
+    {
+      "id": 6424,
+      "thuat_ngu": "階級の幅",
+      "short_meaning": "độ rộng lớp"
+    },
+    {
+      "id": 6425,
+      "thuat_ngu": "階級値",
+      "short_meaning": "giá trị lớp"
+    },
+    {
+      "id": 6430,
+      "thuat_ngu": "隣接関係",
+      "short_meaning": "mối quan hệ kề cạnh"
+    },
+    {
+      "id": 6431,
+      "thuat_ngu": "集中する",
+      "short_meaning": "tập trung"
+    },
+    {
+      "id": 6434,
+      "thuat_ngu": "集中化",
+      "short_meaning": "tập trung hóa"
+    },
+    {
+      "id": 6439,
+      "thuat_ngu": "集合知",
+      "short_meaning": "trí tuệ tập thể"
+    },
+    {
+      "id": 6442,
+      "thuat_ngu": "集計",
+      "short_meaning": "tổng hợp, tập kết"
+    },
+    {
+      "id": 6443,
+      "thuat_ngu": "雑談",
+      "short_meaning": "trò chuyện, tán gẫu"
+    },
+    {
+      "id": 6448,
+      "thuat_ngu": "離散量",
+      "short_meaning": "đại lượng rời rạc"
+    },
+    {
+      "id": 6449,
+      "thuat_ngu": "離脱状態",
+      "short_meaning": "trạng thái tách rời"
+    },
+    {
+      "id": 6450,
+      "thuat_ngu": "電信",
+      "short_meaning": "điện tín"
+    },
+    {
+      "id": 6451,
+      "thuat_ngu": "電信機",
+      "short_meaning": "máy phát điện tín"
+    },
+    {
+      "id": 6452,
+      "thuat_ngu": "電卓",
+      "short_meaning": "máy tính bỏ túi"
+    },
+    {
+      "id": 6453,
+      "thuat_ngu": "電圧",
+      "short_meaning": "điện áp"
+    },
+    {
+      "id": 6529,
+      "thuat_ngu": "電磁リレー",
+      "short_meaning": "rơle điện từ"
+    },
+    {
+      "id": 6530,
+      "thuat_ngu": "電磁波",
+      "short_meaning": "sóng điện từ"
+    },
+    {
+      "id": 6531,
+      "thuat_ngu": "電磁的記録偽造罪",
+      "short_meaning": "tội giả mạo bản ghi điện từ"
+    },
+    {
+      "id": 6532,
+      "thuat_ngu": "電磁誘導",
+      "short_meaning": "cảm ứng điện từ"
+    },
+    {
+      "id": 6533,
+      "thuat_ngu": "電磁誘導現象",
+      "short_meaning": "hiện tượng cảm ứng điện từ"
+    },
+    {
+      "id": 6534,
+      "thuat_ngu": "電算写植",
+      "short_meaning": "phototype điện toán"
+    },
+    {
+      "id": 6535,
+      "thuat_ngu": "電荷結合素子",
+      "short_meaning": "cảm biến CCD"
+    },
+    {
+      "id": 6537,
+      "thuat_ngu": "電話機",
+      "short_meaning": "máy điện thoại"
+    },
+    {
+      "id": 6540,
+      "thuat_ngu": "青空文庫",
+      "short_meaning": "thư viện văn bản mở"
+    },
+    {
+      "id": 6541,
+      "thuat_ngu": "静止画",
+      "short_meaning": "ảnh tĩnh"
+    },
+    {
+      "id": 6545,
+      "thuat_ngu": "静止画（像）",
+      "short_meaning": "ảnh tĩnh"
+    },
+    {
+      "id": 6548,
+      "thuat_ngu": "静的プロパティ",
+      "short_meaning": "thuộc tính tĩnh"
+    },
+    {
+      "id": 6552,
+      "thuat_ngu": "非可逆性",
+      "short_meaning": "tính không thuận nghịch"
+    },
+    {
+      "id": 6561,
+      "thuat_ngu": "非営利目的の演奏",
+      "short_meaning": "biểu diễn không lợi nhuận"
+    },
+    {
+      "id": 6569,
+      "thuat_ngu": "非言語コミュニケーション",
+      "short_meaning": "giao tiếp phi ngôn ngữ"
+    },
+    {
+      "id": 6607,
+      "thuat_ngu": "項目",
+      "short_meaning": "Mục, hạng mục"
+    },
+    {
+      "id": 6608,
+      "thuat_ngu": "順位回答",
+      "short_meaning": "Trả lời xếp hạng"
+    },
+    {
+      "id": 6609,
+      "thuat_ngu": "順序尺度",
+      "short_meaning": "Thang đo thứ tự"
+    },
+    {
+      "id": 6610,
+      "thuat_ngu": "順次",
+      "short_meaning": "Xử lý tuần tự"
+    },
+    {
+      "id": 6616,
+      "thuat_ngu": "頒布権",
+      "short_meaning": "Quyền phân phối"
+    },
+    {
+      "id": 6617,
+      "thuat_ngu": "頭括式",
+      "short_meaning": "Phương pháp mở đầu bằng kết luận"
+    },
+    {
+      "id": 6618,
+      "thuat_ngu": "頻度表",
+      "short_meaning": "Bảng tần suất"
+    },
+    {
+      "id": 6626,
+      "thuat_ngu": "飛び下り",
+      "short_meaning": "Nhảy xuống"
+    },
+    {
+      "id": 6627,
+      "thuat_ngu": "飛び越し",
+      "short_meaning": "Nhảy qua"
+    },
+    {
+      "id": 6628,
+      "thuat_ngu": "飛脚",
+      "short_meaning": "Dịch vụ chuyên chở nhanh"
+    },
+    {
+      "id": 6629,
+      "thuat_ngu": "駅伝制",
+      "short_meaning": "Hệ thống chuyên chở tiếp sức"
+    },
+    {
+      "id": 6631,
+      "thuat_ngu": "高品位テレビジョン",
+      "short_meaning": "Truyền hình độ phân giải cao"
+    },
+    {
+      "id": 6636,
+      "thuat_ngu": "高度道路交通システム",
+      "short_meaning": "Hệ thống giao thông đường bộ cao cấp"
+    },
+    {
+      "id": 6638,
+      "thuat_ngu": "高機能化",
+      "short_meaning": "Tăng tính năng cao"
+    },
+    {
+      "id": 6639,
+      "thuat_ngu": "高水準言語",
+      "short_meaning": "Ngôn ngữ bậc cao"
+    },
+    {
+      "id": 6640,
+      "thuat_ngu": "高級言語",
+      "short_meaning": "Ngôn ngữ cấp cao"
+    },
+    {
+      "id": 6641,
+      "thuat_ngu": "高速化",
+      "short_meaning": "Tăng tốc độ"
+    },
+    {
+      "id": 6642,
+      "thuat_ngu": "高速性",
+      "short_meaning": "Tính tốc độ cao"
+    },
+    {
+      "id": 6643,
+      "thuat_ngu": "高齢者",
+      "short_meaning": "Người cao tuổi"
+    },
+    {
+      "id": 6644,
+      "thuat_ngu": "魚拓",
+      "short_meaning": "Sao lưu trang web"
+    }
+  ]
+}

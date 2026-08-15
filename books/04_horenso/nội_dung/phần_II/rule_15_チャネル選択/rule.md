@@ -31,13 +31,13 @@ Em Linh (nhân viên mới, vừa vào nhóm) lần đầu cần chọn kênh li
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「リンちゃん、**<ruby>マトリクス<rt>matorikusu</rt></ruby>** を覚えて【1】。」 <br/>*Linh, học bảng ma trận nhé.* |
+| **ズン** | 「リンちゃん、**マトリクス** を覚えて【1】。」 <br/>*Linh, học bảng ma trận nhé.* |
 | **ズン** | 「**緊急 × 1人** → 電話。**緊急 × チーム** → Slack @here または @channel。**<ruby>通常<rt>つうじょう</rt></ruby> × 1人** → メールまたは Slack DM。**通常 × チーム** → Slack #channel または<ruby>定例<rt>ていれい</rt></ruby>。**<ruby>長期参照<rt>ちょうきさんしょう</rt></ruby> × <ruby>全員<rt>ぜんいん</rt></ruby>** → Notion/Confluence【2】。」 <br/>*Khẩn x 1 người → điện thoại. Khẩn x team → Slack @here hoặc @channel. Thường x 1 người → mail hoặc Slack DM. Thường x team → Slack #channel hoặc họp định kỳ. Tham khảo dài hạn x cả nhà → Notion/Confluence.* |
 | **リン** | 「なるほど。バグは緊急 × チームだから @channel ですね。」 <br/>*À hiểu rồi. Bug là khẩn x team nên @channel ạ.* |
 | **ズン** | 「<ruby>正解<rt>せいかい</rt></ruby>。**ただし critical bug は電話で<ruby>第一報<rt>だいいっぽう</rt></ruby>、Slack でフォロー** — <ruby>二重<rt>にじゅう</rt></ruby>に【3】。」 <br/>*Đúng rồi. Nhưng critical bug thì điện thoại báo đầu, Slack follow — 2 lớp.* |
 | **リン** | 「2<ruby>層<rt>そう</rt></ruby>に。覚えました。」 <br/>*2 lớp. Em ghi nhớ ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Ma trận có 5 ô** — Linh học 1 lần, dùng cả đời.
 - 【2】**「長期参照」** — thông tin cần tra cứu lâu dài → wiki, không Slack (thông tin trên Slack trôi nhanh).
 - 【3】**「critical bug は二重」** — ngoại lệ: critical mà chỉ Slack có thể bị trôi → gọi điện trước, Slack follow.

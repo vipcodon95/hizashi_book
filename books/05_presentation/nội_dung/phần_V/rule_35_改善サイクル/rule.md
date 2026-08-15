@@ -42,7 +42,7 @@ Thuyết trình Phase 3 đã xong + tự đánh giá xong. Cuối tháng 5, Linh
 | **リン** | 「Pilot やってない…次 pitch (6/15) は **6/8 rehearse 録画** + **6/12 ハイさん peer pilot** + **6/14 ハーCTOに senior pilot** + **6/15 live** + **6/16 group retro** で行きます【2】。」 <br/>*Em chưa thử nghiệm ạ... Bài thuyết trình tiếp (15/6) em sẽ đi theo: 8/6 tập dượt có quay + 12/6 thử nghiệm cùng anh Hải (đồng nghiệp) + 14/6 thử nghiệm với anh Hà CTO (cấp cao) + 15/6 thuyết trình thật + 16/6 nhóm nhìn lại ạ.* |
 | **フオン** | 「<ruby>素晴<rt>すば</rt></ruby>らしい。**4-step cycle full** で1ヶ月後の pitch <ruby>比較<rt>ひかく</rt></ruby>する。Phase 4 retro までに L さんの **rubric 平均 4.0/5** <ruby>目標<rt>もくひょう</rt></ruby>【3】。」 <br/>*Tuyệt vời. Đi đủ chu kỳ 4 bước, 1 tháng sau so sánh. Trước buổi nhóm nhìn lại Phase 4, mục tiêu trung bình bảng tiêu chí của Linh là 4.0/5.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Tập dượt có quay** — tập một mình mà không quay = còn điểm mù. Quay lại → tự xem ở tốc độ 1.5x → 5 phút phát hiện lỗi giọng/cử chỉ.
 - 【2】**Chu kỳ 4 bước**: Tập dượt (một mình + có quay) → Thử nghiệm (đồng nghiệp + cấp trên) → Thuyết trình thật → Nhóm nhìn lại. Mỗi bước có người + hình thức khác nhau.
 - 【3】**Mục tiêu định lượng cho bảng tiêu chí** — không nói "tốt hơn", phải "平均 4.0/5". Theo dõi qua từng chu kỳ để khách quan.

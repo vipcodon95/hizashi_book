@@ -43,7 +43,7 @@ Phase 3 vòng 4: 大垣 thúc ép mức cuối ¥14M (dưới ngưỡng rút lui
 | **大垣** | 「ズン<ruby>様<rt>さま</rt></ruby>、<ruby>誠実<rt>せいじつ</rt></ruby>なご<ruby>回答<rt>かいとう</rt></ruby>ありがとうございます。**こちらも<ruby>社内<rt>しゃない</rt></ruby>で<ruby>再検討<rt>さいけんとう</rt></ruby>の<ruby>余地<rt>よち</rt></ruby>**があります。<ruby>一度<rt>いちど</rt></ruby><ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>らせてください。」 <br/>*Anh Dũng, cảm ơn em đã trả lời chân thành. Bên anh cũng còn dư địa xem xét lại nội bộ. Cho anh mang về một lần nhé.* |
 | (1 週間後) **大垣** | 「ズン<ruby>様<rt>さま</rt></ruby>、<ruby>社内<rt>しゃない</rt></ruby>で<ruby>予算<rt>よさん</rt></ruby>を ¥15.5M まで<ruby>引<rt>ひ</rt></ruby>き<ruby>上<rt>あ</rt></ruby>げました。<ruby>再度<rt>さいど</rt></ruby> negotiation お<ruby>願<rt>ねが</rt></ruby>いできますか？」 <br/>*(1 tuần sau) Anh Dũng, bên anh đã tăng ngân sách nội bộ lên ¥15.5M. Mình đàm phán lại được không?* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「条件面で折り合いがつかず」** = đổ lỗi cho "điều kiện" trừu tượng chứ không phải "quý công ty". Giữ thể diện cả 2 bên.
 - 【2】**Cách diễn đạt 「品質維持困難」** = rút lui là vì "vì lợi ích bên anh" chứ không phải vì tham. Đảo ngược thế cờ.
 - 【3】**「ご縁がございましたら」** = câu then chốt mở cánh cửa tương lai. Người Nhật nhớ quan hệ 5-10 năm.

@@ -32,12 +32,12 @@ Anh Matsumoto đang giải thích về cấu trúc phân quyền mới (RBAC) b�
 
 | Vai | Câu |
 |---------|-----|
-| **松本** | 「権限は組織階層と職務属性のクロスマトリックスで管理します。」 <br/>*Quyền sẽ được quản lý theo cross-matrix giữa phân cấp tổ chức và thuộc tính chức trách.* |
+| **松本** | 「<ruby>権限<rt>けんげん</rt></ruby>は<ruby>組織<rt>そしき</rt></ruby><ruby>階層<rt>かいそう</rt></ruby>と<ruby>職務<rt>しょくむ</rt></ruby><ruby>属性<rt>ぞくせい</rt></ruby>のクロスマトリックスで<ruby>管理<rt>かんり</rt></ruby>します。」 <br/>*Quyền sẽ được quản lý theo cross-matrix giữa phân cấp tổ chức và thuộc tính chức trách.* |
 | **ズン** | 「<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません、『クロスマトリックス』という<ruby>点<rt>てん</rt></ruby>をもう<ruby>一度<rt>いちど</rt></ruby>ご<ruby>説明<rt>せつめい</rt></ruby>いただけますでしょうか【1】？」 <br/>*Xin lỗi anh, phần 'cross-matrix' phiền anh giải thích lại giúp em được không ạ?* |
 | **松本** | 「はい。<ruby>例<rt>たと</rt></ruby>えば、<ruby>部長<rt>ぶちょう</rt></ruby>という階層と、<ruby>経理<rt>けいり</rt></ruby>という職務、<ruby>両方<rt>りょうほう</rt></ruby>を<ruby>満<rt>み</rt></ruby>たす<ruby>人<rt>ひと</rt></ruby>だけが<ruby>見<rt>み</rt></ruby>られる、という<ruby>設計<rt>せっけい</rt></ruby>です。」 <br/>*Vâng. Ví dụ chỉ những người vừa có cấp trưởng phòng vừa có chức vụ kế toán mới được xem, là thiết kế như vậy.* |
 | **ズン** | 「ありがとうございます。階層 AND 職務、両方の<ruby>条件<rt>じょうけん</rt></ruby>を満たす<ruby>場合<rt>ばあい</rt></ruby>のみアクセス<ruby>可<rt>か</rt></ruby>、という<ruby>認識<rt>にんしき</rt></ruby>でよろしいでしょうか【2】？」 <br/>*Em cảm ơn ạ. Vậy là phải thoả mãn cả 2 điều kiện cấp bậc AND chức vụ thì mới truy cập được — em hiểu đúng không ạ?* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「〇〇という点をもう一度ご説明いただけますでしょうか？」** — chỉ rõ thuật ngữ không hiểu (「クロスマトリックス」). Không nói 「全部分からない」 — sẽ làm đối phương phải giải thích lại từ đầu.
 - 【2】**「〜という認識でよろしいでしょうか？」** — sau khi nghe giải thích, diễn đạt lại để xác nhận đã hiểu đúng. Đây là kỹ thuật lắng nghe tích cực chuẩn trong giao tiếp công sở Nhật.
 

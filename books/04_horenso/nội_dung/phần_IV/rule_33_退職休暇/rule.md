@@ -35,15 +35,15 @@ Em Hải quyết định du học Đức 6 tháng (sabbatical) bắt đầu từ
 
 | Vai | Câu |
 |---------|-----|
-| **ハイ** | 「トゥアンさん、ご<ruby>相談<rt>そうだん</rt></ruby>したいことがあるのですが、明日朝 30分お時間いただけますでしょうか?トピック: 個人キャリア計画と<ruby>引<rt>ひ</rt></ruby>き<ruby>継<rt>つ</rt></ruby>ぎについて。<ruby>緊急度<rt>きんきゅうど</rt></ruby>低、今後3ヶ月の<ruby>準備<rt>じゅんび</rt></ruby><ruby>期間<rt>きかん</rt></ruby>がございます【1】。」 <br/>*(Slack DM anh Tuấn) Anh Tuấn, em có việc muốn tham vấn, sáng mai anh dành 30 phút được không ạ? Chủ đề: kế hoạch cá nhân + bàn giao. Mức khẩn cấp thấp, em còn 3 tháng chuẩn bị ạ.* |
-| **ハイ** | 「ご<ruby>相談<rt>そうだん</rt></ruby>です。**7/1 から12/31 まで、6ヶ月間ドイツの<ruby>大学院<rt>だいがくいん</rt></ruby>でサバティカル**を<ruby>取得<rt>しゅとく</rt></ruby>したく、**3ヶ月前の本日4/22にご<ruby>報告<rt>ほうこく</rt></ruby>**いたします【2】。事前にハンドオーバー計画ドラフトを<ruby>作成<rt>さくせい</rt></ruby>しました【3】。」 <br/>*(Sáng hôm sau, 1-on-1) Em xin tham vấn. Em muốn đi sabbatical 6 tháng tại đại học bên Đức từ 1/7-31/12, hôm nay 22/4 em báo trước 3 tháng ạ. Em đã chuẩn bị bản nháp kế hoạch bàn giao ạ.* |
+| **ハイ** | 「トゥアンさん、ご<ruby>相談<rt>そうだん</rt></ruby>したいことがあるのですが、明日朝 30分お時間いただけますでしょうか?トピック: 個人キャリア計画と<ruby>引<rt>ひ</rt></ruby>き<ruby>継<rt>つ</rt></ruby>ぎについて。<ruby>緊急度<rt>きんきゅうど</rt></ruby>低、今後2ヶ月半の<ruby>準備<rt>じゅんび</rt></ruby><ruby>期間<rt>きかん</rt></ruby>がございます【1】。」 <br/>*(Slack DM anh Tuấn) Anh Tuấn, em có việc muốn tham vấn, sáng mai anh dành 30 phút được không ạ? Chủ đề: kế hoạch cá nhân + bàn giao. Mức khẩn cấp thấp, em còn 2 tháng rưỡi chuẩn bị ạ.* |
+| **ハイ** | 「ご<ruby>相談<rt>そうだん</rt></ruby>です。**7/1 から12/31 まで、6ヶ月間ドイツの<ruby>大学院<rt>だいがくいん</rt></ruby>でサバティカル**を<ruby>取得<rt>しゅとく</rt></ruby>したく、**約2ヶ月半前の本日4/22にご<ruby>報告<rt>ほうこく</rt></ruby>**いたします【2】。事前にハンドオーバー計画ドラフトを<ruby>作成<rt>さくせい</rt></ruby>しました【3】。」 <br/>*(Sáng hôm sau, 1-on-1) Em xin tham vấn. Em muốn đi sabbatical 6 tháng tại đại học bên Đức từ 1/7-31/12, hôm nay 22/4 em báo trước khoảng 2 tháng rưỡi ạ. Em đã chuẩn bị bản nháp kế hoạch bàn giao ạ.* |
 | **ハイ** | 「**Handover Plan**: ① DevOps タスク 12<ruby>項目<rt>こうもく</rt></ruby> (うち5項目を Linh と<ruby>共同化<rt>きょうどうか</rt></ruby>、7項目をズンへ<ruby>移管<rt>いかん</rt></ruby>) / ② AWS <ruby>認証<rt>にんしょう</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>・パスワード<ruby>管理<rt>かんり</rt></ruby> (1Passwordで Hà CTO へ owner 移管) / ③ ドキュメント<ruby>整備<rt>せいび</rt></ruby> (運用Runbook v2 を5月末までに<ruby>完成<rt>かんせい</rt></ruby>) / ④ <ruby>候補者<rt>こうほしゃ</rt></ruby>: <ruby>社内<rt>しゃない</rt></ruby>ローテーションでフロントエンドからの DevOps <ruby>兼任<rt>けんにん</rt></ruby>、または<ruby>採用<rt>さいよう</rt></ruby> / ⑤ Overlap <ruby>期間<rt>きかん</rt></ruby>: 6/1〜6/30 の1ヶ月を<ruby>引<rt>ひ</rt></ruby>き<ruby>継<rt>つ</rt></ruby>ぎ<ruby>専用<rt>せんよう</rt></ruby>に<ruby>充当<rt>じゅうとう</rt></ruby>。」 <br/>*[Kế hoạch bàn giao] ① 12 đầu việc vận hành hệ thống (5 cái chia chung với Linh, 7 cái chuyển Dũng) / ② Thông tin xác thực AWS + mật khẩu (chuyển người phụ trách sang anh Hà CTO qua 1Password) / ③ Tài liệu (Runbook v2 hoàn thành cuối tháng 5) / ④ Người kế nhiệm: luân phiên nội bộ FE kiêm vận hành hệ thống, hoặc tuyển / ⑤ Giai đoạn song song: 1 tháng 1/6-30/6 dành riêng cho bàn giao.* |
 | **トゥアン** | 「<ruby>準備<rt>じゅんび</rt></ruby>が<ruby>完璧<rt>かんぺき</rt></ruby>。Hà CTO に1-on-1 を私からセットして。<ruby>決裁<rt>けっさい</rt></ruby>後、客向けの<ruby>正式<rt>せいしき</rt></ruby><ruby>案内<rt>あんない</rt></ruby>は **Hà CTO <ruby>名義<rt>めいぎ</rt></ruby>で6月初** に。Slack <ruby>全社<rt>ぜんしゃ</rt></ruby><ruby>通知<rt>つうち</rt></ruby>は **客向け案内の<ruby>翌日<rt>よくじつ</rt></ruby>**。Hai 個人 broadcast は最後で OK。」 <br/>*Chuẩn bị hoàn hảo. Anh sẽ set 1-on-1 với Hà CTO. Sau khi duyệt, thông báo chính thức cho khách thì Hà CTO ký tên đầu tháng 6. Slack toàn công ty hôm sau. Thông báo cá nhân của Hải để cuối cùng OK.* |
 | **ハイ** | 「ありがとうございます。私からチーム<ruby>個別<rt>こべつ</rt></ruby>1-on-1 (リン・ズン) も Hà CTO <ruby>通知<rt>つうち</rt></ruby>後に<ruby>実施<rt>じっし</rt></ruby>します【4】。」 <br/>*Em cảm ơn anh. 1-on-1 từng người (Linh, Dũng) em cũng làm sau khi anh Hà CTO thông báo ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Slack DM 切り出し** — không gặp đột ngột. Đặt nội dung trước.
-- 【2】**3ヶ月前報告** — sabbatical 6 tháng → 3 tháng notice (nghỉ việc cần ≥ 30 ngày, nghỉ dài ≥ 14 ngày, sabbatical càng lâu càng dài).
+- 【2】**Báo trước ~2 tháng rưỡi** — sabbatical 6 tháng → càng sớm càng tốt, tối thiểu 2 tháng (nghỉ việc cần ≥ 30 ngày, nghỉ dài ≥ 14 ngày, sabbatical càng lâu càng dài).
 - 【3】**Kế hoạch bàn giao có sẵn** — không "sẽ làm sau", phải có ngay buổi 1-on-1.
 - 【4】**Thứ tự: 1-on-1 sếp → CTO → 客先 (sếp ký) → 全社通知 → 個別 1-on-1** — trật tự quan trọng để khách Nhật cảm thấy được tôn trọng.
 
@@ -55,7 +55,7 @@ Em Hải quyết định du học Đức 6 tháng (sabbatical) bắt đầu từ
 |-----------|-----------|----------|--------------|
 | 退職 (nghỉ việc) | 30 ngày | 60 ngày | Sếp trực tiếp 1-on-1 |
 | 長期休暇 / sabbatical | 14 ngày | 30 ngày + | Sếp trực tiếp 1-on-1 |
-| 出産・育休 | 60 ngày (luật) | sớm hơn | Sếp + HR |
+| 出産・育休 | **1 tháng** (育児・介護休業法) | sớm hơn càng tốt | Sếp + HR |
 | 手術休暇 | ASAP sau khi biết | 1 tuần+ | Sếp + cover plan |
 | 病欠 1-3 ngày | sáng cùng ngày | 1 ngày trước | Cả team |
 

@@ -42,7 +42,7 @@ Họp Zoom, em Dũng cần chia sẻ slide báo cáo. Đợi đến lượt mìn
 | **ズン** | 「ありがとうございます。それでは、<ruby>達成率<rt>たっせいりつ</rt></ruby>82%の<ruby>内訳<rt>うちわけ</rt></ruby>から…」 <br/>*Em cảm ơn ạ. Em xin bắt đầu từ chi tiết tỷ lệ đạt 82%...* |
 | **ズン** | 「<ruby>画面共有<rt>がめんきょうゆう</rt></ruby>を<ruby>終了<rt>しゅうりょう</rt></ruby>いたします【4】。」 <br/>*Em xin dừng share màn hình ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「これより、〜の画面を共有させていただきます」** — báo trước cụ thể: chia sẻ gì.
 - 【2】**Chờ 2-3 giây** — thời gian tải hình + người họp trực tuyến cần chuyển sang chế độ xem.
 - 【3】**「ご覧いただけますでしょうか？」** — xác nhận. Không bỏ qua bước này.

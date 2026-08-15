@@ -37,7 +37,7 @@ Em Hải tham vấn anh Tuấn về việc khắc phục bug performance API. L�
 | **ハイ** | 「**<ruby>推奨<rt>すいしょう</rt></ruby>は<ruby>案<rt>あん</rt></ruby>B (インデックス<ruby>追加<rt>ついか</rt></ruby>)** です。<ruby>理由<rt>りゆう</rt></ruby>は<ruby>半日<rt>はんにち</rt></ruby>で<ruby>実装<rt>じっそう</rt></ruby><ruby>可能<rt>かのう</rt></ruby> + <ruby>既<rt>すで</rt></ruby>に index <ruby>候補<rt>こうほ</rt></ruby>が `EXPLAIN` で<ruby>特定済<rt>とくていず</rt></ruby>み + コスト<ruby>増<rt>ぞう</rt></ruby>なしのためです。リスク<ruby>中<rt>ちゅう</rt></ruby>はメンテナンスウィンドウで<ruby>吸収<rt>きゅうしゅう</rt></ruby><ruby>可能<rt>かのう</rt></ruby>と<ruby>考<rt>かんが</rt></ruby>えております【3】。」 <br/>*Em recommend B (thêm index). Lý do: nửa ngày là xong + đã EXPLAIN ra ứng viên index + không tăng cost. Risk trung thì hấp thụ bằng maintenance window được ạ.* |
 | **トゥアン** | 「<ruby>分析<rt>ぶんせき</rt></ruby><ruby>正<rt>ただ</rt></ruby>しい。Bで<ruby>進<rt>すす</rt></ruby>めて。ただ、メンテナンスウィンドウは<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>の<ruby>許可<rt>きょか</rt></ruby>が<ruby>要<rt>い</rt></ruby>るから、ズンに<ruby>依頼<rt>いらい</rt></ruby>してね。」 <br/>*Phân tích đúng. Đi với B đi. Nhưng maintenance window phải xin phép anh Matsumoto, em nhờ Dũng nhé.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「3つ準備、コスト・時間・リスクで比較」** — câu mở cho thấy ngay cấu trúc trình bày. Anh Tuấn biết Hải chuẩn bị nghiêm túc.
 - 【2】**Bảng so sánh 3×3** — 3 phương án × 3 trục (chi phí / thời gian / rủi ro). Định lượng: ¥0, 2 ngày, thấp. Không 「ほぼ」「だいたい」.
 - 【3】**「推奨は案B」 + lý do** — Hải đã có ý kiến rõ. Sếp chỉ xác nhận hoặc phản biện, không phải nghĩ thay.

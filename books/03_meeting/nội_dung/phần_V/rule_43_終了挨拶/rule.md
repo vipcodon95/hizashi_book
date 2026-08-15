@@ -37,7 +37,7 @@ Họp định kỳ tháng 4 vừa kết thúc đúng giờ với thành quả r�
 | **ズン** | 「本日は誠にありがとうございました。<ruby>今後<rt>こんご</rt></ruby>ともどうぞよろしくお<ruby>願<rt>ねが</rt></ruby>い<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます【4】。」 <br/>*Hôm nay em xin chân thành cảm ơn ạ. Mong tiếp tục được anh chị giúp đỡ ạ.* |
 | **大垣・松本** | 「ありがとうございました。<ruby>引<rt>ひ</rt></ruby>き<ruby>続<rt>つづ</rt></ruby>きよろしくお願いします。」 <br/>*Cảm ơn nhé. Tiếp tục phối hợp nhé.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「お忙しい中、お時間いただき誠にありがとうございました」** — câu chuẩn cảm ơn.
 - 【2】**1 dòng tóm thành quả** — khách rời họp với cảm giác "có thành quả".
 - 【3】**Cam kết việc kế tiếp** — biên bản 24h, tài liệu có thời hạn cụ thể, ngày họp tới.

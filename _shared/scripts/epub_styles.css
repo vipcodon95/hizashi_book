@@ -7,107 +7,54 @@ h3 { font-size: 1.1em; margin: 1em 0 0.4em; line-height: 1.35; }
 h4 { font-size: 1.0em; margin: 0.8em 0 0.3em; font-weight: bold; }
 h5 { font-size: 0.95em; margin: 0.7em 0 0.25em; font-weight: bold; }
 
-/* Table — dùng auto layout để cột tự co theo nội dung, tránh chồng/sát nhau
-   khi bảng có 3-4 cột (bảng từ vựng). table-layout:fixed chỉ áp cho bảng
-   2 cột hội thoại (xem rule riêng bên dưới). */
+/* Table — mặc định auto layout, để Reader tự chia đều cột theo nội dung.
+   CHỈ bảng thoại 2 cột (Vai | Lời thoại) ép fixed 15/85.
+   Các bảng còn lại (3, 4, 5, 6+ cột) KHÔNG set width → trình đọc tự chia đều. */
 table {
   width: 100%;
-  table-layout: fixed;       /* buộc Reader tôn trọng width % đã set cho từng cột */
+  table-layout: auto;        /* cột tự co; Reader chia đều khi không có width */
   border-collapse: collapse;
-  border: 1px solid #888;    /* viền 1 nét khung ngoài bảng */
+  border: 1px solid #888;
   margin: 0.6em 0 1em;
   font-size: 0.95em;
 }
 thead th {
   text-align: left;
-  border: 1px solid #888;    /* viền 1 nét full (dọc + ngang) cho ô header */
+  border: 1px solid #888;
   padding: 0.3em 0.6em;
-  white-space: nowrap;       /* header không xuống dòng giữa chừng */
+  white-space: nowrap;
 }
 tbody td {
-  border: 1px solid #ccc;    /* viền 1 nét full cho mọi ô nội dung */
+  border: 1px solid #ccc;
   padding: 0.35em 0.6em;
   vertical-align: top;
-  word-wrap: break-word;     /* tránh tràn khi câu JP dài */
+  word-wrap: break-word;
   overflow-wrap: break-word;
 }
 
-/* === Bảng 2 CỘT (hội thoại: Vai | Lời thoại) ===
-   Chỉ áp khi <tr> có đúng 2 <td>. Cột Vai hẹp, cột Lời thoại lấy phần còn lại.
-   Lua filter cũng gắn class .dialogue-table cho bảng 2 cột → ép fixed cho chắc. */
+/* === Bảng 2 CỘT hội thoại (Vai | Lời thoại) — DUY NHẤT có width cố định 15/85.
+   Áp qua class .dialogue-table (lua filter tự gắn cho bảng đúng 2 cột). */
 table.dialogue-table {
   table-layout: fixed;
 }
-tr > td:first-child:nth-last-child(2) {
-  width: 16%;
+table.dialogue-table tr > td:first-child,
+table.dialogue-table tr > th:first-child {
+  width: 15%;
   font-weight: bold;
   white-space: normal;
   color: #000;
 }
-tr > td:first-child:nth-last-child(2) ~ td {
-  width: 84%;
-}
-tr > th:first-child:nth-last-child(2) {
-  width: 16%;
+table.dialogue-table tr > td:first-child ~ td,
+table.dialogue-table tr > th:first-child ~ th {
+  width: 85%;
 }
 
-/* === Bảng 3 CỘT === phân bổ rõ ràng để không sát nhau */
-tr > td:first-child:nth-last-child(3),
-tr > th:first-child:nth-last-child(3) {
-  width: 20%;
-}
-tr > td:first-child:nth-last-child(3) ~ td:nth-child(2),
-tr > th:first-child:nth-last-child(3) ~ th:nth-child(2) {
-  width: 25%;
-}
-tr > td:first-child:nth-last-child(3) ~ td:nth-child(3),
-tr > th:first-child:nth-last-child(3) ~ th:nth-child(3) {
-  width: 55%;
-}
-
-/* === Bảng 4 CỘT (từ vựng: Từ | Cách đọc | Hán Việt | Nghĩa) ===
-   Đây là bảng trước đây bị các cột giữa sát/chồng nhau vì thiếu width. */
-tr > td:first-child:nth-last-child(4),
-tr > th:first-child:nth-last-child(4) {
-  width: 18%;                /* Từ (kanji) */
-}
-tr > td:first-child:nth-last-child(4) ~ td:nth-child(2),
-tr > th:first-child:nth-last-child(4) ~ th:nth-child(2) {
-  width: 22%;                /* Cách đọc (kana) */
-}
-tr > td:first-child:nth-last-child(4) ~ td:nth-child(3),
-tr > th:first-child:nth-last-child(4) ~ th:nth-child(3) {
-  width: 22%;                /* Hán Việt */
-}
-tr > td:first-child:nth-last-child(4) ~ td:nth-child(4),
-tr > th:first-child:nth-last-child(4) ~ th:nth-child(4) {
-  width: 38%;                /* Nghĩa tiếng Việt */
-}
-
-/* === Bảng 5 CỘT (so sánh phương án / rủi ro) === chia đều 20% mỗi cột */
-tr > td:first-child:nth-last-child(5),
-tr > td:first-child:nth-last-child(5) ~ td,
-tr > th:first-child:nth-last-child(5),
-tr > th:first-child:nth-last-child(5) ~ th {
-  width: 20%;
-}
-
-/* === Bảng 6 CỘT (timeline / milestone) === chia đều ~16.6% */
-tr > td:first-child:nth-last-child(6),
-tr > td:first-child:nth-last-child(6) ~ td,
-tr > th:first-child:nth-last-child(6),
-tr > th:first-child:nth-last-child(6) ~ th {
-  width: 16.6%;
-}
-
-/* === Bảng 7-9 CỘT (decision log horenso, ma trận phức tạp) ===
-   Để table-layout:auto co theo nội dung — KHÔNG ép fixed vì 9 cột trên màn
-   epub hẹp sẽ chật; thêm font nhỏ + padding gọn + wrap. Áp qua class .wide-table
-   được lua filter gắn tự động cho bảng ≥7 cột. */
+/* === Bảng ≥7 cột (decision log, ma trận phức tạp) — class .wide-table
+   được lua filter gắn tự động. Cho cuộn ngang + font nhỏ. */
 table.wide-table {
   table-layout: auto;
   font-size: 0.78em;
-  display: block;            /* cho phép cuộn ngang trên reader hỗ trợ */
+  display: block;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
 }
@@ -115,7 +62,7 @@ table.wide-table th,
 table.wide-table td {
   padding: 0.25em 0.4em;
   white-space: normal;
-  min-width: 4em;            /* mỗi cột tối thiểu 4em để không dính nhau */
+  min-width: 4em;
 }
 
 /* Ruby furigana — rt nhỏ hơn surface */

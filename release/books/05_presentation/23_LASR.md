@@ -49,7 +49,7 @@ Q&A bài thuyết trình Phase 3. Anh Matsumoto hỏi câu phức tạp 2 vế: 
 | **ズン** | 「**<ruby>以上<rt>いじょう</rt></ruby>、お<ruby>答<rt>こた</rt></ruby>えできておりますでしょうか**【4】？<ruby>他<rt>ほか</rt></ruby>にご<ruby>不明<rt>ふめい</rt></ruby>な<ruby>点<rt>てん</rt></ruby>がございましたら、<ruby>続<rt>つづ</rt></ruby>けてどうぞ。」 — R <br/>*Như trên có giải đáp được không ạ? Nếu còn điểm chưa rõ, mời anh tiếp tục ạ.* |
 | **松本** | 「<ruby>明確<rt>めいかく</rt></ruby>です。ありがとうございます。」 <br/>*Rõ ràng rồi. Cảm ơn anh.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「ご質問ありがとうございます」** — câu đệm, mua 1 giây để sắp xếp câu trả lời.
 - 【2】**「ご質問の趣旨は〜と理解しました、よろしいでしょうか」** — bước A. Diễn đạt lại câu hỏi → khách xác nhận → tránh trả lời lệch.
 - 【3】**「まず1点目／2点目」** — bước S có cấu trúc đánh số. Câu khó nhiều vế phải tách thành từng điểm có số thứ tự.

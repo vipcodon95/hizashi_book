@@ -36,7 +36,7 @@ Sau rule 15, Dũng xác nhận lịch giờ bằng giờ đồng hồ cụ thể
 | **ズン** | 「もし<ruby>時間<rt>じかん</rt></ruby>が<ruby>押<rt>お</rt></ruby>した<ruby>場合<rt>ばあい</rt></ruby>は、議題3の<ruby>途中<rt>とちゅう</rt></ruby>で<ruby>一度<rt>いちど</rt></ruby><ruby>止<rt>と</rt></ruby>めて、<ruby>延長<rt>えんちょう</rt></ruby><ruby>可否<rt>かひ</rt></ruby>をご<ruby>相談<rt>そうだん</rt></ruby>させていただきます【3】。」 <br/>*Nếu thời gian bị trễ thì giữa mục 3 em sẽ dừng lại để xin các anh ý kiến về việc kéo dài ạ.* |
 | **大垣** | 「<ruby>了解<rt>りょうかい</rt></ruby>しました。その<ruby>方針<rt>ほうしん</rt></ruby>で<ruby>進<rt>すす</rt></ruby>めましょう。」 <br/>*Anh rõ rồi. Mình theo hướng đó nhé.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「15:00 開始、16:00 終了予定」** — thông báo giờ kết thúc là quan trọng nhất. Khách Nhật sắp lịch theo giờ kết thúc.
 - 【2】Công thức cố định: 「議題〇: タイトル 〇〇:〇〇〜〇〇:〇〇」. Cố định để khách nhìn chương trình họp đối chiếu được.
 - 【3】**「延長可否をご相談」** — báo trước sẽ xin phép nếu vượt giờ. Tránh trường hợp đến phút 60 vẫn nói "tiếp 10 phút nữa nhé" → không xin phép = thất lễ.

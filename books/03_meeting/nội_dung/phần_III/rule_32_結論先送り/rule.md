@@ -38,7 +38,7 @@ Họp đang bàn về việc dùng AWS hay Azure. Em Dũng cần hỏi anh Hà C
 | **ズン** | 「ご<ruby>回答<rt>かいとう</rt></ruby>にはAWS / Azure <ruby>比較表<rt>ひかくひょう</rt></ruby>とコスト<ruby>試算<rt>しさん</rt></ruby>を<ruby>添付<rt>てんぷ</rt></ruby>いたします【3】。」 <br/>*Trả lời em sẽ đính kèm bảng so sánh AWS/Azure và bảng tính cost ạ.* |
 | **大垣** | 「ありがとうございます。<ruby>期限<rt>きげん</rt></ruby>つきでしたら<ruby>問題<rt>もんだい</rt></ruby>ありません。お<ruby>待<rt>ま</rt></ruby>ちしております。」 <br/>*Cảm ơn Dũng. Có hạn chót cụ thể là không vấn đề gì. Tôi sẽ chờ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「インフラとコストの両面から弊社のCTOとCFOの確認が必要」** — nêu lý do cụ thể (cần ai duyệt) + uchi-soto: 「弊社の」 đứng trước CTO/CFO khi nói với khách. Không nói 「ちょっと」 mơ hồ.
 - 【2】**「本件は持ち帰り、〇月〇日〇時までにメールにてご回答いたします」** — câu chuẩn. Có hạn trả lời + kênh trả lời.
 - 【3】**「比較表とコスト試算を添付」** — kèm cam kết sản phẩm bàn giao cụ thể → khách hài lòng.

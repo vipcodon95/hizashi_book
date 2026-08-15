@@ -44,7 +44,7 @@ Họp phase 2: 4 người tại văn phòng VN (Dũng, Tuấn, Hải, Hà), 2 ng
 | **ズン** | 「<ruby>今<rt>いま</rt></ruby>のトゥアンさんの<ruby>発言<rt>はつげん</rt></ruby>を<ruby>要約<rt>ようやく</rt></ruby>いたしますと、A案にQA工程を2週間<ruby>追加<rt>ついか</rt></ruby>でフィージブル、ということでございます【2】。」 <br/>*Em xin tóm tắt ý anh Tuấn vừa rồi ạ — tức là phương án A + thêm 2 tuần QA thì khả thi ạ.* |
 | **松本** | 「ありがとうございます、よく分かりました。」 <br/>*Cảm ơn Dũng, tôi hiểu rõ rồi.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「まずオンラインでご参加の〇〇様、〇〇様、ご意見を…」** — chủ động mời phía trực tuyến TRƯỚC. Đây là nguyên tắc "trực tuyến được hỏi trước".
 - 【2】**「今の〇〇さんの発言を要約いたしますと〜」** — khi phía trực tiếp trao đổi qua lại nhanh, tóm tắt lại cho phía trực tuyến. Tránh để phía trực tuyến bị tụt lại phía sau.
 

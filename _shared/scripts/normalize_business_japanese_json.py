@@ -140,6 +140,8 @@ def normalize_question(q: dict) -> dict:
         out["tip"] = q["tip"]
     if "question_type" in q:  # chỉ Mogishiken 2.1.5 có
         out["question_type"] = q["question_type"]
+    if "category_detail" in q and q["category_detail"]:  # LuyenTap 2.1.7
+        out["category_detail"] = q["category_detail"]
     return out
 
 
@@ -165,6 +167,11 @@ def normalize_file(src_path: Path) -> dict:
         out["questions"] = [normalize_question(q) for q in raw["questions"]]
     elif "sections" in raw:
         out["sections"] = [normalize_section(s) for s in raw["sections"]]
+    # Giữ các khối cấp file khác (learning_notes, additional_notes...) —
+    # trước đây bị bỏ im lặng, làm mất phần tổng kết bài học khi seed.
+    for k, v in raw.items():
+        if k not in ("meta", "questions", "sections"):
+            out[k] = v
     return out
 
 

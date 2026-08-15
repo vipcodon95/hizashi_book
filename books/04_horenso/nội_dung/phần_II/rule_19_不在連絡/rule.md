@@ -35,12 +35,12 @@ Em Dũng cần xin nghỉ thứ Sáu để dự đám cưới em họ. Lần đ�
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「<ruby>件名<rt>けんめい</rt></ruby>：【<ruby>休暇申請<rt>きゅうかしんせい</rt></ruby>】4/26(金) <ruby>終日不在<rt>しゅうじつふざい</rt></ruby>のご<ruby>連絡<rt>れんらく</rt></ruby>」(body — theo mẫu template) <br/>*Tiêu đề: '[Đơn nghỉ phép] 26/4 (T6) báo vắng cả ngày' (nội dung mail theo mẫu).* |
+| **ズン** | 「<ruby>件名<rt>けんめい</rt></ruby>：【<ruby>休暇申請<rt>きゅうかしんせい</rt></ruby>】4/24(金) <ruby>終日不在<rt>しゅうじつふざい</rt></ruby>のご<ruby>連絡<rt>れんらく</rt></ruby>」(body — theo mẫu template) <br/>*Tiêu đề: '[Đơn nghỉ phép] 24/4 (T6) báo vắng cả ngày' (nội dung mail theo mẫu).* |
 | **フオン** | 「OK、休暇<ruby>承認<rt>しょうにん</rt></ruby>します。」 <br/>*OK, chị duyệt nghỉ phép.* |
-| **ズン** | 「@here <ruby>念<rt>ねん</rt></ruby>のため<ruby>再連絡<rt>さいれんらく</rt></ruby>。**明日4/26(金)1日不在**。代行：松本様会議はトゥアン、Slack/メール<ruby>対応<rt>たいおう</rt></ruby>はハイ。**復帰：4/29(月)<ruby>朝礼<rt>ちょうれい</rt></ruby>から**【1】。自動返信も<ruby>設定済<rt>せっていず</rt></ruby>みです。」 <br/>*@here em nhắc lại cho chắc. Mai 26/4 thứ Sáu em nghỉ cả ngày. Người thay: họp anh Matsumoto là anh Tuấn, Slack/mail là anh Hải. Trở lại: từ buổi họp sáng (朝礼) thứ Hai 29/4. Tự động trả lời em cũng đã cài rồi ạ.* |
+| **ズン** | 「@here <ruby>念<rt>ねん</rt></ruby>のため<ruby>再連絡<rt>さいれんらく</rt></ruby>。**明日4/24(金)1日不在**。代行：松本様会議はトゥアン、Slack/メール<ruby>対応<rt>たいおう</rt></ruby>はハイ。**復帰：4/27(月)<ruby>朝礼<rt>ちょうれい</rt></ruby>から**【1】。自動返信も<ruby>設定済<rt>せっていず</rt></ruby>みです。」 <br/>*@here em nhắc lại cho chắc. Mai 24/4 thứ Sáu em nghỉ cả ngày. Người thay: họp anh Matsumoto là anh Tuấn, Slack/mail là anh Hải. Trở lại: từ buổi họp sáng (朝礼) thứ Hai 27/4. Tự động trả lời em cũng đã cài rồi ạ.* |
 | **トゥアン** | 「松本様会議の<ruby>引<rt>ひ</rt></ruby>き<ruby>継<rt>つ</rt></ruby>ぎ<ruby>資料<rt>しりょう</rt></ruby>、確認しました。任せて。」 <br/>*Tài liệu bàn giao cho họp anh Matsumoto anh đã xem rồi. Cứ giao anh.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「念のため再連絡」 + 4 yếu tố** — báo lần 1 (1 tuần trước, mail trang trọng) + lần 2 (1 ngày trước, nhắc lại trên Slack).
 - Mail tự động trả lời khi vắng mặt: 「〇月〇日まで休暇のため不在です。緊急の場合は〇〇まで」.
 

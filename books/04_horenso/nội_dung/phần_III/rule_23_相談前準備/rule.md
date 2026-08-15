@@ -38,7 +38,7 @@ Em Linh (thực tập sinh Marketing) gặp vấn đề: nhà cung cấp in broc
 | **リン** | 「**③仮説:** C社で<ruby>代替<rt>だいたい</rt></ruby>するのが<ruby>最適<rt>さいてき</rt></ruby>と考えております。理由は<ruby>納品<rt>のうひん</rt></ruby><ruby>遅<rt>おく</rt></ruby>れが1日のみ + コスト<ruby>同等<rt>どうとう</rt></ruby>のためです。ただし<ruby>契約<rt>けいやく</rt></ruby>変更の<ruby>権限<rt>けんげん</rt></ruby>が私にないため、ご<ruby>判断<rt>はんだん</rt></ruby>をお願いいたします【4】。」 <br/>*[Giả thuyết] Em nghĩ chuyển sang nhà C là tốt nhất. Lý do: chỉ trễ 1 ngày + cost tương đương. Nhưng em không có quyền đổi hợp đồng, nhờ anh quyết ạ.* |
 | **ズン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>な<ruby>相談<rt>そうだん</rt></ruby>だね。<ruby>仮説<rt>かせつ</rt></ruby>に<ruby>賛成<rt>さんせい</rt></ruby>、C社で進めて。<ruby>契約<rt>けいやく</rt></ruby>変更はチームメールで僕も入れて。」 <br/>*Tham vấn hoàn hảo. Anh đồng ý giả thuyết của em, chốt nhà C. Mail thay đổi hợp đồng nhớ CC anh.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「事前に状況・参考事例・仮説をまとめてあります」** — 1 câu mở đã show 3 bộ vật liệu. Sếp biết ngay là tham vấn nghiêm túc.
 - 【2】**①5W1H** — Linh đã có sẵn date/time/quantity/reason. Sếp không phải hỏi lại.
 - 【3】**②3 trường hợp** — tiền lệ nội bộ + các phương án thay thế đã gọi điện. Đây là phần khó nhất nhưng then chốt: cho thấy đã tự tìm hiểu.

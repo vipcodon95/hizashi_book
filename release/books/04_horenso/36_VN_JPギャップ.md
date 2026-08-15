@@ -50,7 +50,7 @@ Em Dũng đang làm 1 đầu việc 3 ngày: soạn bản đề xuất báo giá
 | **ズン** | 「<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>、Phase 3 ご<ruby>提案書<rt>ていあんしょ</rt></ruby>をお<ruby>送<rt>おく</rt></ruby>りいたします。**<ruby>月曜<rt>げつよう</rt></ruby>お<ruby>約束通<rt>やくそくどお</rt></ruby>り**、<ruby>火曜<rt>かよう</rt></ruby>・<ruby>水曜<rt>すいよう</rt></ruby>に<ruby>中間報告<rt>ちゅうかんほうこく</rt></ruby>を<ruby>経<rt>へ</rt></ruby>て<ruby>本日<rt>ほんじつ</rt></ruby><ruby>完成<rt>かんせい</rt></ruby>いたしました。ご<ruby>確認<rt>かくにん</rt></ruby>のほどよろしくお<ruby>願<rt>ねが</rt></ruby>い<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます【3】。」 <br/>*Anh Matsumoto, em xin gửi bản đề xuất Phase 3 ạ. Đúng như hứa thứ Hai, qua 2 báo cáo trung gian thứ Ba và thứ Tư, hôm nay em đã hoàn thành ạ. Phiền anh xác nhận ạ.* |
 | **松本PM** | 「<ruby>進捗<rt>しんちょく</rt></ruby>の<ruby>見<rt>み</rt></ruby>える<ruby>化<rt>か</rt></ruby>、<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>分<rt>わ</rt></ruby>かりやすくなりました。ベトナムチームのホウレンソウが<ruby>大変<rt>たいへん</rt></ruby><ruby>分<rt>わ</rt></ruby>かりやすくなり、<ruby>感謝<rt>かんしゃ</rt></ruby>しております。」 <br/>*Việc hữu hình hóa tiến độ rõ hơn rất nhiều. Hou-Ren-Sou của team Việt Nam dễ hiểu hơn nhiều, tôi rất cảm kích.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**月曜時点で「進捗共有の予定」を約束** — cam kết trước nhịp báo cáo ngay từ đầu. Khách Nhật biết khi nào sẽ nghe lại.
 - 【2】**「ブロッカーなし、予定通り進行中」** — đây là **「báo cáo khi không có tin mới」**. Không có gì mới = vẫn báo 1 dòng.
 - 【3】**「月曜お約束通り、火曜・水曜に中間報告を経て」** — khép vòng báo cáo. Chứng minh mỗi lời hứa đều được giữ.

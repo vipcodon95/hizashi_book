@@ -15,7 +15,7 @@
 
 ## Bối cảnh
 
-Tham khảo. 1 scenario "vận dụng kho ghi nhớ" + 1 scenario "ghi kho ghi nhớ ngay sau bữa tối" + **MẪU GHI CHÉP** đầy đủ.
+Tháng 12/2026, sau gần một năm làm việc cùng Hakuō. Dũng đã tích được kha khá chi tiết đời thường của từng khách trong sổ tay riêng. Chương này là lúc **thu hoạch**: dùng lại đúng chi tiết đã ghi để mở đầu 3 phút trước cuộc họp, và cách **ghi kho ghi nhớ ngay sau bữa tối** khi trí nhớ còn nóng.
 
 ---
 

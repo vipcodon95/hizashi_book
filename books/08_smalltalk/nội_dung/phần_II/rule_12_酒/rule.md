@@ -163,7 +163,8 @@ Dũng tham gia 4 buổi nhậu khác nhau trong 2 tuần: izakaya với Nakamura
 
 ## NG — tuyệt đối tránh
 
-- "私はお酒飲めない" mà không thử nỗ lực 1 ly → mất cơ hội gắn kết. Nếu không uống được, nói "弱いので少しだけ" + uống 1 ngụm.
+- Từ chối cụt lủn "私はお酒飲めません" rồi im lặng → khách hụt hẫng. **Không phải vì bạn phải uống**, mà vì thiếu vế thứ hai: hãy nói `「お酒は弱いのですが、お付き合いさせてください」` + **cầm ly ウーロン茶 / ノンアルコール cụng cùng mọi người**. Người Nhật nâng ly là để cùng nhịp, không phải để đo tửu lượng.
+  ⚠️ **Tuyệt đối không ép bản thân uống "cho phải phép".** Khoảng 40% người Nhật thiếu men ALDH2 nên chính họ hiểu rõ chuyện không uống được; và **アルハラ (quấy rối rượu bia)** nay là điều cấm kỵ ở doanh nghiệp Nhật. Nếu bạn dị ứng rượu, nói thẳng `「体質的に飲めないんです」` — đây là lý do được chấp nhận hoàn toàn.
 - Khen vùng A xong chê vùng B trước mặt khách vùng B.
 - Hỏi giá chai sake thượng hạng (十四代 / 魔王) → thô.
 - Tự rót cho mình (自酌) khi senior chưa rót xong → tham chiếu Sách 07 rule_26.

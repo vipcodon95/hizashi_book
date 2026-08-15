@@ -38,7 +38,7 @@ Em Dũng tham vấn chị Hương về việc deploy vào cuối tuần (rủi r
 | **フオン** | 「その<ruby>観点<rt>かんてん</rt></ruby>正しい。<ruby>追加<rt>ついか</rt></ruby>で、<ruby>松本様<rt>まつもとさま</rt></ruby>サイドが<ruby>月曜午前<rt>げつようごぜん</rt></ruby>に<ruby>毎週定例会<rt>まいしゅうていれいかい</rt></ruby>あるから、リリース<ruby>直後<rt>ちょくご</rt></ruby>に何かあると<ruby>会議中<rt>かいぎちゅう</rt></ruby>に<ruby>騒<rt>さわ</rt></ruby>ぎになる。それを考えると<ruby>土曜深夜<rt>どようしんや</rt></ruby>+<ruby>待機体制<rt>たいきたいせい</rt></ruby>が<ruby>現実的<rt>げんじつてき</rt></ruby>。私は<ruby>土曜推<rt>どようお</rt></ruby>し。<ruby>最終判断<rt>さいしゅうはんだん</rt></ruby>は ズン。」 <br/>*Axis đó đúng. Bổ sung: phía anh Matsumoto sáng thứ Hai có định kỳ tuần, nên release xong mà có sự cố thì họp đang ồn lên. Tính cả cái đó thì đêm thứ Bảy + trực là thực tế. Chị nghiêng đêm thứ Bảy. Quyết cuối là Dũng.* |
 | **ズン** | 「ありがとうございます。<ruby>土曜深夜<rt>どようしんや</rt></ruby> + トゥアン<ruby>待機体制<rt>たいきたいせい</rt></ruby>で<ruby>進<rt>すす</rt></ruby>めます【4】。」 <br/>*Em cảm ơn chị. Em sẽ đi với đêm thứ Bảy + chế độ trực của anh Tuấn ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「判断材料を補強していただきたく存じます」** — câu vàng. Cho thấy Dũng tự ra quyết định, sếp chỉ giúp **bồi thêm dữ liệu**.
 - 【2】**A so với B kèm lợi/hại** — giả thuyết sẵn sàng. Sếp không phải tự nghĩ.
 - 【3】**「観点として〇〇」** — Dũng tự nêu góc nhìn cần xét. Mở đường cho sếp bồi góc nhìn mới.

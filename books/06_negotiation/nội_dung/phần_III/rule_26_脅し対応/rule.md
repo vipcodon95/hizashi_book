@@ -43,7 +43,7 @@
 | **ハー CTO** | 「大垣<ruby>様<rt>さま</rt></ruby>、ハーでございます。¥15M というご<ruby>要望<rt>ようぼう</rt></ruby>、<ruby>伺<rt>うかが</rt></ruby>いました。**¥15M でしたら scope は -30% (AI dashboard・<ruby>専任<rt>せんにん</rt></ruby> PM・SLA 99.9%→99.5%) となり、Phase 3 <ruby>当初<rt>とうしょ</rt></ruby><ruby>目的<rt>もくてき</rt></ruby>の<ruby>達成度合<rt>たっせいどあ</rt></ruby>いは 65% <ruby>程度<rt>ていど</rt></ruby>になります**【4】。**Phase 2 同等のスコープであれば、弊社 walk-away ライン ¥15.5M、これは<ruby>承認済<rt>しょうにんず</rt></ruby>みの<ruby>最終条件<rt>さいしゅうじょうけん</rt></ruby>**でございます。」 <br/>*Anh Ōgaki, em là Hà ạ. Em đã nghe yêu cầu ¥15M. Nếu ¥15M thì scope -30% (bỏ AI dashboard, PM chuyên trách, SLA 99.9%→99.5%), mức đạt mục tiêu ban đầu Phase 3 chỉ ~65%. Scope tương đương Phase 2 thì walk-away bên em là ¥15.5M, đây là điều kiện cuối đã được duyệt ạ.* |
 | **大垣** | 「…CTO <ruby>同席<rt>どうせき</rt></ruby>ですと<ruby>話<rt>はなし</rt></ruby>が<ruby>変<rt>か</rt></ruby>わりますね。¥15.5M なら<ruby>社内<rt>しゃない</rt></ruby>に<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>検討<rt>けんとう</rt></ruby>します。」 <br/>*…CTO cùng dự thì câu chuyện khác. ¥15.5M thì tôi mang về xem xét nội bộ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Câu bắc cầu** = hạ nhiệt. KHÔNG tranh cãi ngay. "ご指摘の点、もっともでございます" = ghi nhận chính thức.
 - 【2】**Câu giữ ranh giới** "弊社として〜は難しい" — thể hiện lập trường cứng nhưng tông giọng lịch sự.
 - 【3】**Đưa cấp trên vào** "弊社 CTO をお呼びしてもよろしいでしょうか" — phải xin phép, không tự ý gọi.

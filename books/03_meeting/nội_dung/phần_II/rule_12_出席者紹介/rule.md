@@ -38,7 +38,7 @@
 | **大垣 / 松本** | 「よろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。」 <br/>*Phiền các anh/chị giúp đỡ ạ.* |
 | **ズン** | 「本日もどうぞよろしくお願いいたします【3】。」 <br/>*Hôm nay rất mong các anh giúp đỡ ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「弊社より、副部長のフオン」** — bỏ 「様」、 bỏ chức danh đặt trước tên. Công thức: 「弊社 [役職] の [氏名]」. KHÔNG nói 「フオン副部長」 trước khách.
 - 【2】**「白鷗株式会社様より、大垣 営業部長様」** — GIỮ 「様」 cho cả công ty + cá nhân khách. Chức danh đặt **sau** tên là được.
 - 【3】Sau khi giới thiệu xong cả 2 bên, câu chốt 「本日もどうぞよろしくお願いいたします」 = chuyển sang rule 13 (giới thiệu chương trình họp).

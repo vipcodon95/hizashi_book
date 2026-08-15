@@ -4,7 +4,7 @@
 >
 > 客先相談の3要素：①相談理由（顧客の知見が必要）②相談範囲（焦点を絞る）③希望時間枠（顧客都合優先）。形式は最高敬語＋謙譲語。
 >
-> **Liên quan:** rule 22-26 (相談一般), rule 30 (持ち帰り), Sách 03 rule 29 (顧客交渉).
+> **Liên quan:** rule 22-26 (相談一般), rule 30 (持ち帰り), Sách 03 rule 29 (行き詰まり).
 
 ---
 
@@ -31,20 +31,20 @@ Em Dũng cần tham vấn anh Matsumoto về việc nên dùng 線形 (linear) h
 
 ## Hội thoại TỐT — sắc thái trang trọng với khách
 
-| Vai | Câu |
-|---------|-----|
-| **L1** | **ズン** *(メール)* | 「<ruby>松本<rt>まつもと</rt></ruby>様、お世話になっております。ティエンファットのズンでございます。
+| # | Vai | Câu |
+|---|---------|-----|
+| **L1** | **ズン** *(メール)* | 「<ruby>松本<rt>まつもと</rt></ruby>様、お世話になっております。ティエンファットのズンでございます。 |
   **件名:【ご<ruby>相談<rt>そうだん</rt></ruby>】Phase 2 UAT 進め方について**
   Phase 2 の UAT を進めるにあたり、**<ruby>線形<rt>せんけい</rt></ruby>(<ruby>全機能<rt>ぜんきのう</rt></ruby><ruby>一括<rt>いっかつ</rt></ruby>)** か **<ruby>段階的<rt>だんかいてき</rt></ruby>(<ruby>機能毎<rt>きのうごと</rt></ruby>リリース)** かで<ruby>方針<rt>ほうしん</rt></ruby>を絞りきれず、**ご<ruby>相談<rt>そうだん</rt></ruby>させていただけますでしょうか**【1】。
   特にお<ruby>伺<rt>うかが</rt></ruby>いしたいのは、**<ruby>御社<rt>おんしゃ</rt></ruby><ruby>運用<rt>うんよう</rt></ruby>チームの<ruby>検証<rt>けんしょう</rt></ruby>リソース<ruby>確保<rt>かくほ</rt></ruby>のしやすさ**でございます【2】。
   ご<ruby>都合<rt>つごう</rt></ruby>よろしい時に **15分ほどお時間<ruby>頂戴<rt>ちょうだい</rt></ruby>できますと<ruby>幸甚<rt>こうじん</rt></ruby>**です。今週<ruby>後半<rt>こうはん</rt></ruby> (4/24木 PM ~ 4/26土) のうち、ご都合の良い<ruby>候補<rt>こうほ</rt></ruby>を3つお知らせいただけますと<ruby>幸<rt>さいわ</rt></ruby>いです【3】。」 |
 |  |  | *Anh Matsumoto, em xin chào. Em Dũng bên Thiên Phát đây ạ. [Tiêu đề] [Tham vấn] Về cách triển khai UAT Phase 2. Khi triển khai UAT Phase 2, em đang phân vân giữa linear (toàn bộ chức năng 1 lần) và incremental (release theo chức năng), em xin được tham vấn anh ạ. Đặc biệt em muốn hỏi về độ thuận tiện trong việc bố trí resource kiểm thử của team vận hành bên anh ạ. Anh dành cho em 15 phút khi nào tiện ạ. Trong nửa cuối tuần này (24/4 thứ Năm chiều - 26/4 thứ Bảy), phiền anh báo giúp em 3 lựa chọn thuận tiện ạ.* |
-| **L2** | **松本PM** *(返信)* | 「ご丁寧にありがとうございます。4/24 (木) 15:00 JST で30分いかがでしょうか。<ruby>当方<rt>とうほう</rt></ruby>からも<ruby>運用<rt>うんよう</rt></ruby>チームの<ruby>実情<rt>じつじょう</rt></ruby>をお話しします。」 |
-|  |  | *Cảm ơn em đã chu đáo. 24/4 thứ Năm 15:00 JST trong 30 phút có ổn không? Bên tôi cũng sẽ chia sẻ thực tế team vận hành.* |
+| **L2** | **松本PM** *(返信)* | 「ご丁寧にありがとうございます。4/24 (金) 15:00 JST で30分いかがでしょうか。<ruby>当方<rt>とうほう</rt></ruby>からも<ruby>運用<rt>うんよう</rt></ruby>チームの<ruby>実情<rt>じつじょう</rt></ruby>をお話しします。」 |
+|  |  | *Cảm ơn em đã chu đáo. 24/4 thứ Sáu 15:00 JST trong 30 phút có ổn không? Bên tôi cũng sẽ chia sẻ thực tế team vận hành.* |
 | **L3** | **ズン** *(会議で)* | 「<ruby>松本<rt>まつもと</rt></ruby>様、本日はお時間<ruby>頂戴<rt>ちょうだい</rt></ruby>し<ruby>誠<rt>まこと</rt></ruby>にありがとうございます。それでは、UAT 進め方についてご<ruby>相談<rt>そうだん</rt></ruby>させていただきます【4】。」 |
 |  |  | *Anh Matsumoto, em cảm ơn anh đã dành thời gian hôm nay ạ. Vậy em xin phép tham vấn về cách triển khai UAT ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「ご相談させていただけますでしょうか」** — câu vàng khi tham vấn với khách. Khiêm nhường tối đa. Không "相談したい".
 - 【2】**Phạm vi cụ thể** — không hỏi rộng "anh nghĩ sao về UAT" mà tập trung vào 1 điểm (運用リソース). Khách dễ trả lời + chuẩn bị trước.
 - 【3】**Khung thời gian + 候補3つお知らせいただける** — không ép giờ, hỏi 3 lựa chọn của KHÁCH (không phải gửi 3 lựa chọn của mình như khi dời lịch). Trang trọng cao.

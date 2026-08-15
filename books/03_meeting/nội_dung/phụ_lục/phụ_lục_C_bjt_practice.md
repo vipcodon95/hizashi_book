@@ -400,8 +400,8 @@
 **Đáp án:** D
 
 **Giải thích / 解説:**
-- オンライン会議の4原則（既定ミュート・発言時カメラオン・挙手機能・名乗り）を全て守る選択肢はC。
-- C tuân thủ cả 4 quy tắc: mute mặc định, camera on khi nói, dùng raise-hand, tự xưng tên.
+- オンライン会議の4原則（既定ミュート・発言時カメラオン・挙手機能・名乗り）を全て守る選択肢はD。
+- D tuân thủ cả 4 quy tắc: tắt mic mặc định, bật camera khi phát biểu, dùng nút giơ tay, tự xưng tên trước khi nói.
 
 ### J3.23 (từ rule_35 — Khi mất kết nối)
 
@@ -675,8 +675,8 @@
 **Đáp án:** A
 
 **Giải thích / 解説:**
-- Aは完全同意で後でリスク。Cは弱い拒否で議論を止める。Dは完全同意で詳細確認の余地なし。Bが「概ね同意」を正確に表す。
-- A = full commit có rủi ro. C mơ hồ phủ định. D = full commit không kiểm tra được. B đúng level 'đồng ý đại thể'.
+- Bは弱い拒否で議論を止める。Cは完全同意で後でリスク。Dは完全同意で詳細確認の余地なし。Aが「概ね同意＋詳細は別途確認」を正確に表す。
+- B mơ hồ phủ định. C = đồng ý hoàn toàn, có rủi ro về sau. D = đồng ý hoàn toàn, không còn chỗ kiểm tra lại. A đúng mức 'đồng ý đại thể + xác nhận chi tiết sau'.
 
 ### J2.7 (từ rule_23 — Phản đối lịch sự)
 

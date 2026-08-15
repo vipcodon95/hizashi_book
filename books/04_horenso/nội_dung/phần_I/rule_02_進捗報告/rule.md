@@ -41,7 +41,7 @@ Sáng thứ Hai 9h. Em Dũng cần báo cáo tiến độ Phase 2 của tuần t
 | **ズン** | 「画面遷移スピードと、エラーメッセージの<ruby>日本語<rt>にほんご</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>の2件です。<ruby>両方<rt>りょうほう</rt></ruby>とも<ruby>今日中<rt>きょうじゅう</rt></ruby>に対応<ruby>見込<rt>みこ</rt></ruby>みです【3】。」 <br/>*Là tốc độ luồng chuyển màn và cách diễn đạt tiếng Nhật của thông báo lỗi ạ. Cả hai dự kiến xử trong hôm nay ạ.* |
 | **フオン** | 「OK、<ruby>進<rt>すす</rt></ruby>めてください。」 <br/>*OK, em làm tiếp đi.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「3/5 対応」** — định lượng tiến độ. Không viết "ほぼ完了" mơ hồ.
 - 【2】**「Next (今日)」** — daily thì Next chỉ trong ngày; weekly thì Next sẽ là tuần sau. Phải rõ phạm vi thời gian.
 - 【3】**「対応見込みです」** — nói hạn chót ước tính. Có hạn chót mới gọi là Next thực sự.

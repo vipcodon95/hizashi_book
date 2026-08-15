@@ -41,7 +41,7 @@ Sáng hôm sau buổi thăm (ngày D+1, 9:00). Linh đã làm xong ghi chú 24h 
 | **フオン副部長** | 「<ruby>私<rt>わたし</rt></ruby>の<ruby>名義<rt>めいぎ</rt></ruby>で送って。<ruby>署名<rt>しょめい</rt></ruby>は **副部長フオン**【2】。リンの名前は『<ruby>資料<rt>しりょう</rt></ruby><ruby>作成<rt>さくせい</rt></ruby>: リン』で本文に<ruby>明記<rt>めいき</rt></ruby>【3】。」 <br/>*Gửi tên chị nhé. Chữ ký '副部長 Hương'. Tên Linh ghi rõ trong body 'Tài liệu: Linh'.* |
 | **リン** | 「<ruby>承知<rt>しょうち</rt></ruby>いたしました。9:30 までに<ruby>送信<rt>そうしん</rt></ruby>いたします。」 <br/>*Em rõ ạ. Trước 9:30 em sẽ gửi.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**3要素必須** — câu trích dẫn + hành động + ghi chú cá nhân. Trích dẫn = chứng minh "tôi nghe và nhớ". Hành động = chuyển sang việc tiếp nối cụ thể. Ghi chú cá nhân = xây dựng quan hệ (tránh kiểu chỉ phản hồi nội dung họp đơn thuần).
 - 【2】**Senior 名義で送る** — email từ Hương (副部長) > từ Linh (thực tập sinh). Khách Nhật đánh giá trọng lượng email theo cấp người gửi.
 - 【3】**Linh được ghi tên trong body** — người làm thực sự là Linh nhưng cấp trên đứng tên gửi → ghi "資料作成: リン" để khách nhận diện được Linh (tạo nền cho lần gặp sau).

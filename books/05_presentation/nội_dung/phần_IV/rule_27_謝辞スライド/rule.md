@@ -39,7 +39,7 @@ Dũng đang hoàn thiện bộ slide. Đến slide cuối — chuẩn bị làm 
 | **トゥアン** | 「連絡先は<ruby>弊社<rt>へいしゃ</rt></ruby>2名 (ズン＋ハーCTO) でいいけど、**<ruby>営業時間<rt>えいぎょうじかん</rt></ruby>** 書いとけよ。客が<ruby>深夜<rt>しんや</rt></ruby>メールで<ruby>気<rt>き</rt></ruby>を<ruby>遣<rt>つか</rt></ruby>わない様に。」 <br/>*Thông tin liên hệ bên mình 2 người (Dũng + Hà CTO) là OK, nhưng ghi giờ làm việc vào. Để khách không phải ngại khi gửi mail đêm khuya.* |
 | **ズン** | 「『9:00-18:00 (JST)』<ruby>追記<rt>ついき</rt></ruby>します【3】。」 <br/>*Em thêm 「9:00-18:00 (JST)」 ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**4 thành phần = ① 御礼 (cảm ơn) ② Tóm tắt lại 3 điểm ③ Thông tin liên hệ ④ mã QR**. Bỏ qua một là lãng phí cả slide.
 - 【2】**Drive 閲覧専用 リンク** — KHÔNG để công khai. 閲覧 = chỉ xem, không cho chỉnh sửa. QR đặt phía dưới-phải, kích thước 4cm² đủ quét từ điện thoại.
 - 【3】**営業時間 (JST) ghi rõ** — khách Nhật rất chú trọng cân bằng công việc - cuộc sống, biết người trình bày ngoài giờ lúc nào → thể hiện sự tôn trọng.

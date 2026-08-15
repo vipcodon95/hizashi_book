@@ -1,6 +1,6 @@
 # Rule 50 — Sau khi nghe hộp thư thoại — gọi lại trong 24h / 留守番電話を聞いた後の対応
 
-> **Luận điểm.** Khi mình nghe được lời nhắn trong hộp thư thoại của khách → gọi lại **trong 24h**. Mở lời bằng "聞きました" + nội dung tóm tắt = thể hiện đã chú ý.
+> **Luận điểm.** Khi mình nghe được lời nhắn trong hộp thư thoại của khách → gọi lại **trong 24h**. Mở lời bằng 「メッセージを確認いたしました」 + tóm tắt nội dung = thể hiện đã chú ý. ⚠️ Đừng nói 「聞きました」 — nghe suồng sã, thiếu kính ngữ với khách.
 >
 > 留守電を聞いた後は24時間以内に折り返し。『メッセージを確認いたしました』で受信を伝える。
 >

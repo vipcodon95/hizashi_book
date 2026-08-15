@@ -36,7 +36,7 @@ Slide so sánh "Phase 3 のスコープ A=最小 / B=中規模 / C=フル". Dũn
 | **ズン** | 「**<ruby>最下行<rt>さいかぎょう</rt></ruby>に『<ruby>弊社<rt>へいしゃ</rt></ruby><ruby>推奨<rt>すいしょう</rt></ruby>: B案』** + 1<ruby>文<rt>ぶん</rt></ruby><ruby>理由<rt>りゆう</rt></ruby>【2】を<ruby>入<rt>い</rt></ruby>れました。『<ruby>投資額対効果<rt>とうしがくたいこうか</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>く、<ruby>運用負荷<rt>うんようふか</rt></ruby>も<ruby>中程度<rt>ちゅうていど</rt></ruby>のため』。」 <br/>*Em đã ghi 「Khuyến nghị bên em: case B」 + 1 câu lý do ở dòng cuối ạ. 「Hiệu quả trên đầu tư cao nhất, tải vận hành cũng vừa」.* |
 | **ハーCTO** | 「Perfect。<ruby>客<rt>きゃく</rt></ruby>は『B案で<ruby>進<rt>すす</rt></ruby>めましょう』と<ruby>言<rt>い</rt></ruby>いやすい。**<ruby>推奨<rt>すいしょう</rt></ruby>なしの matrix は<ruby>責任放棄<rt>せきにんほうき</rt></ruby>**に<ruby>見<rt>み</rt></ruby>える。」 <br/>*Hoàn hảo. Khách dễ nói 「OK đi phương án B」 hơn. Bảng so sánh không có khuyến nghị trông như bỏ trách nhiệm.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**3 × 4 = 12 ô** — đường trần của tải nhận thức. Nhiều hơn nữa thì tách sang slide khác.
 - 【2】**「khuyến nghị bên em」 + 1 câu lý do** — nêu rõ trách nhiệm của bên cung cấp. Business Nhật xem "không có khuyến nghị" là 「責任放棄」 (bỏ trách nhiệm).
 

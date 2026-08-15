@@ -38,7 +38,7 @@ CFO chọn phương án (A) ¥17.5M 2 năm (rule 20). Nhưng 大垣 ép thêm "�
 | **ズン** | 「AI レコメンドエンジン core は Phase 3 で<ruby>稼働<rt>かどう</rt></ruby>、dashboard は Phase 2 <ruby>流用版<rt>りゅうようばん</rt></ruby>で<ruby>代替可能<rt>だいたいかのう</rt></ruby>です。**đơn giá (<ruby>機能<rt>きのう</rt></ruby>あたり<ruby>単価<rt>たんか</rt></ruby>) は<ruby>同等<rt>どうとう</rt></ruby>のまま、<ruby>総額<rt>そうがく</rt></ruby>調整**【3】という<ruby>形<rt>かたち</rt></ruby>です。Phase 4 <ruby>着手時<rt>ちゃくしゅじ</rt></ruby>に dashboard <ruby>追加<rt>ついか</rt></ruby>で +¥1M、その<ruby>時<rt>とき</rt></ruby>に<ruby>再<rt>さい</rt></ruby>ご<ruby>相談<rt>そうだん</rt></ruby>という形ではいかがでしょうか？」 <br/>*Core AI recommend engine vẫn vận hành ở Phase 3, bảng theo dõi dùng bản tận dụng từ Phase 2 thay thế được ạ. Đơn giá (giá trên từng tính năng) giữ nguyên, chỉ điều chỉnh tổng tiền. Phase 4 khởi động sẽ thêm bảng theo dõi +¥1M, lúc đó trao đổi lại ạ — quý anh thấy thế nào?* |
 | **大垣** | 「unit price 同等であれば<ruby>社内<rt>しゃない</rt></ruby><ruby>説明<rt>せつめい</rt></ruby>しやすい。検討します。」 <br/>*Đơn giá giữ nguyên thì dễ giải thích nội bộ. Tôi sẽ xem xét.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「スコープ調整が必要」** — câu chuyển từ đàm phán giá sang đàm phán phạm vi. Giữ đòn bẩy.
 - 【2】**Cắt tính năng có thể đẩy về sau (後出し) Phase 4** — KHÔNG mất khách, chỉ lùi thời gian thu. Khách ringi dễ duyệt hơn.
 - 【3】**"Đơn giá tương đương (unit price 同等)"** = câu chốt then chốt. CFO/部長 cần "lý do giải thích nội bộ": "không bị giảm giá, chỉ giảm phạm vi".

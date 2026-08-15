@@ -37,12 +37,12 @@ Em Dũng phát hiện thứ Hai 9h: họp với anh Matsumoto thứ Ba 14h trùn
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「<ruby>件名<rt>けんめい</rt></ruby>：【<ruby>リスケ依頼<rt>りすけいらい</rt></ruby>】4/23(火)14時 <ruby>定例会議<rt>ていれいかいぎ</rt></ruby>」(body — xem template) <br/>*Tiêu đề: '[Xin dời lịch] Họp định kỳ 14h thứ Ba 23/4' (phần nội dung — xem template).* |
+| **ズン** | 「<ruby>件名<rt>けんめい</rt></ruby>：【<ruby>リスケ依頼<rt>りすけいらい</rt></ruby>】4/23(木)14時 <ruby>定例会議<rt>ていれいかいぎ</rt></ruby>」(body — xem template) <br/>*Tiêu đề: '[Xin dời lịch] Họp định kỳ 14h thứ Ba 23/4' (phần nội dung — xem template).* |
 | **松本PM** | 「ご<ruby>丁寧<rt>ていねい</rt></ruby>にありがとうございます。**候補②(4/24 木 10時)** で<ruby>確定<rt>かくてい</rt></ruby>しましょう。」 <br/>*Cảm ơn em đã chu đáo. Chốt phương án ② (10h thứ Năm 24/4) nhé.* |
 | **ズン** | 「ありがとうございます。**こちらで<ruby>カレンダー更新<rt>カレンダーこうしん</rt></ruby> + <ruby>新規招待<rt>しんきしょうたい</rt></ruby>をお送りします** 【1】。会議室・Zoom リンクも<ruby>変更不要<rt>へんこうふよう</rt></ruby>です。」 <br/>*Em cảm ơn anh ạ. Em sẽ cập nhật lịch và gửi lời mời mới ạ 【1】. Phòng họp và đường dẫn Zoom cũng không cần đổi ạ.* |
 | **松本PM** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。<ruby>新<rt>あたら</rt></ruby>しい招待をお<ruby>待<rt>ま</rt></ruby>ちしております。」 <br/>*Tôi hiểu rồi. Tôi đợi lời mời mới của em nhé.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「こちらでカレンダー更新」** — bên gây ra việc dời lịch chịu trách nhiệm cập nhật lịch. Không bắt khách tự cập nhật.
 - Tiêu đề 「【リスケ依頼】+ 日時 nguyên gốc」 — khách nhìn tiêu đề là biết.
 - Phần body có đủ: lý do ngắn (1 dòng) + 3 phương án mới + hành động cụ thể.

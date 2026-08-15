@@ -44,7 +44,7 @@ Phase 3 ¥17M ký xong, Phase 4 với khách mới cũng vừa kết thúc vòng
 | **ズン** | 「cam kết 3 つ【4】: (a) kích hoạt báo cấp trên checklist を thẻ bỏ túi <ruby>化<rt>か</rt></ruby>、 <ruby>来週<rt>らいしゅう</rt></ruby><ruby>月曜<rt>げつよう</rt></ruby>まで。(b) JP <ruby>商談<rt>しょうだん</rt></ruby> trước họp の 1 <ruby>分<rt>ぷん</rt></ruby> dặn trước を bắt buộc <ruby>化<rt>か</rt></ruby>。(c) Phase 5 nhìn lại で a/b の<ruby>効果<rt>こうか</rt></ruby><ruby>測定<rt>そくてい</rt></ruby>。」 <br/>*3 cam kết: (a) Làm thẻ bỏ túi từ bảng kiểm tra kích hoạt báo cấp trên, hạn chót thứ Hai tuần sau. (b) Bắt buộc hóa nghi thức dặn 1 phút trước họp đàm phán JP. (c) Đo hiệu quả a/b ở buổi nhìn lại Phase 5.* |
 | **フオン** | 「cam kết <ruby>文書化<rt>ぶんしょか</rt></ruby>、 team wiki に<ruby>保存<rt>ほぞん</rt></ruby>。**3 ヶ月後 nhìn lại tiếp theo でこの cam kết の mức tuân thủ <ruby>確認<rt>かくにん</rt></ruby>**【5】。お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>。」 <br/>*Tài liệu hóa cam kết, lưu vào wiki nhóm. 3 tháng sau buổi nhìn lại tiếp theo để kiểm tra mức tuân thủ các cam kết này. Mọi người vất vả rồi.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Mẫu 5 phần cố định** = ngăn bỏ qua hoặc làm hời hợt. Giả định ngược là phần học được nhiều nhất.
 - 【2】**Giả định ngược = 「もし〜していれば」** cụ thể hóa phương án thay thế. Không phải hối tiếc trừu tượng mà là hành động cụ thể lần sau.
 - 【3】**Nhận diện xu hướng** = không chỉ 1 vụ mà nhìn xuyên suốt. Nếu phát hiện thói quen văn hóa → can thiệp cấp nhóm.

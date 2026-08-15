@@ -38,7 +38,7 @@ Em Linh (mới gia nhập, được Dũng mentor) được giao đặt phòng + 
 | **リン** | 「プロジェクターは<ruby>昨日<rt>きのう</rt></ruby>テスト<ruby>済<rt>ず</rt></ruby>み、HDMIとUSB-C<ruby>両方<rt>りょうほう</rt></ruby><ruby>備品<rt>びひん</rt></ruby>あり、Wi-Fi パスワードはネームプレートに<ruby>記載<rt>きさい</rt></ruby>しました。お茶とお水も<ruby>人数分<rt>にんずうぶん</rt></ruby><ruby>用意<rt>ようい</rt></ruby>しております【2】。」 <br/>*Máy chiếu hôm qua kiểm tra rồi ạ, HDMI và USB-C có sẵn cả hai loại, mật khẩu Wi-Fi em viết lên bảng tên. Trà với nước em chuẩn bị đủ số người ạ.* |
 | **ズン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。ネームプレートは<ruby>席順<rt>せきじゅん</rt></ruby>どおり<ruby>配置<rt>はいち</rt></ruby>してね。当日は10分前に<ruby>最終<rt>さいしゅう</rt></ruby>チェックしよう。」 <br/>*Hoàn hảo. Bảng tên em xếp đúng thứ tự chỗ ngồi nhé. Hôm họp mình kiểm tra lại lần cuối 10 phút trước.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「設備チェックリスト」** — không chỉ "予約しました" mà là "予約 + danh sách kiểm tra hoàn thành". Phân biệt rõ 2 bước.
 - 【2】**「人数分」** = "đủ số người". Cụm chuẩn khi báo cáo về số lượng nước/tài liệu/ghế. Native dùng nhiều.
 

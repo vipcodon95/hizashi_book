@@ -40,7 +40,7 @@ Em Dũng cần ước lượng tải hệ thống mới. Anh Matsumoto nói "lư
 | **ズン** | 「①<ruby>現状<rt>げんじょう</rt></ruby>のDAU・MAU、②<ruby>ピーク時間帯<rt>ピークじかんたい</rt></ruby>のリクエスト<ruby>数<rt>すう</rt></ruby>、③<ruby>想定<rt>そうてい</rt></ruby><ruby>成長率<rt>せいちょうりつ</rt></ruby>の3<ruby>点<rt>てん</rt></ruby>でございます【2】。<ruby>月次<rt>げつじ</rt></ruby>データで<ruby>構<rt>かま</rt></ruby>いません。」 <br/>*Cụ thể là (1) DAU/MAU hiện tại, (2) số lượt yêu cầu giờ cao điểm, (3) tỷ lệ tăng trưởng dự kiến ạ. Dữ liệu hàng tháng là được ạ.* |
 | **松本** | 「<ruby>分<rt>わ</rt></ruby>かりました。<ruby>来週<rt>らいしゅう</rt></ruby><ruby>月曜<rt>げつよう</rt></ruby>までに<ruby>共有<rt>きょうゆう</rt></ruby>します。」 <br/>*OK rồi. Tôi share trước thứ Hai tuần sau.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「〜するために、〇〇をいただけますでしょうか？」** — kèm mục đích sử dụng. Đối phương biết dữ liệu dùng vào đâu → sẵn sàng cung cấp.
 - 【2】**「3点のデータ」** + danh sách cụ thể → không cãi nhau "dữ liệu nào". Đếm số + liệt kê = chuẩn.
 

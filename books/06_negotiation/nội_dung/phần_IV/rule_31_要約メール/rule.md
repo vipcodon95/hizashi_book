@@ -42,7 +42,7 @@
 | (14:00 大垣返信) **大垣** | 「ズン様、迅速なご対応ありがとうございます。**読み戻し通り**で齟齬ございません。1点、稟議の上申は **5月7日** で動きます。」 |
 | **ズン** | 「大垣様より OK 返信いただきました【2】。稟議 5/7 上申とのことです。次は契約書 draft を準備します。」 |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**5 phần** = Người tham dự / Điểm đồng thuận / Điểm chưa quyết / Bước tiếp theo / Đính kèm. Bỏ phần nào = mail tóm tắt không phục vụ được ringi.
 - 【2】**Phản hồi OK = chốt**. Lịch sử mail này được đính kèm vào tài liệu ringi → hồ sơ chính thức. Nếu khách tranh chấp sau, có bằng chứng.
 - **24h = hạn chuẩn**. Khách Nhật mong mail tóm tắt trong 24h giờ làm việc. Trễ → độ tin tưởng giảm đo được.

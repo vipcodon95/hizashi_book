@@ -40,7 +40,7 @@ Slide 7 — tình huống thực tế cũ Phase 1/Phase 2. Linh giúp Dũng dự
 | **リン** | 「ロゴも入れていいですか？」 <br/>*Có thể cho cả logo vào không ạ?* |
 | **ズン** | 「ロゴ permission も<ruby>別途<rt>べっと</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>【3】。OK ならロゴ＋<ruby>写真<rt>しゃしん</rt></ruby>(<ruby>本人<rt>ほんにん</rt></ruby> OK あれば)入れる。NG なら<ruby>社名<rt>しゃめい</rt></ruby>のみ。」 <br/>*Xin phép logo phải xin riêng. OK thì cho logo + ảnh (nếu cá nhân đồng ý). NG thì chỉ tên công ty.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「3.2%→0.8% (75%削減)」** — Bộ "trước/sau + % cải thiện" là chuẩn mực. Chỉ có 1 yếu tố thì yếu.
 - 【2】**「氏名 + 役職 + 部門」** — Trích dẫn phải đủ bộ 3 tin cậy: tên + chức vụ + phòng ban. 「Một nhân viên nào đó」 (ある担当者様) thì yếu.
 - 【3】**Xin phép logo** — Xin phép trích dẫn ≠ xin phép logo. Phải xin riêng từng cái (別途取得).

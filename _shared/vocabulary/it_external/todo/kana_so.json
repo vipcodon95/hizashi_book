@@ -1,0 +1,485 @@
+{
+  "so_tu": 80,
+  "items": [
+    {
+      "id": 7,
+      "thuat_ngu": "16進数",
+      "cach_doc": "16しんすう",
+      "short_meaning": "số thập lục phân"
+    },
+    {
+      "id": 8,
+      "thuat_ngu": "16進数表示",
+      "cach_doc": "16しんすうひょうじ",
+      "short_meaning": "hiển thị thập lục phân"
+    },
+    {
+      "id": 10,
+      "thuat_ngu": "1バイト",
+      "cach_doc": "1バイト",
+      "short_meaning": "một byte"
+    },
+    {
+      "id": 11,
+      "thuat_ngu": "1バイト文字",
+      "cach_doc": "1バイトもじ",
+      "short_meaning": "ký tự một byte"
+    },
+    {
+      "id": 12,
+      "thuat_ngu": "1ビットの情報量",
+      "cach_doc": "1ビットのじょうほうりょう",
+      "short_meaning": "lượng thông tin một bit"
+    },
+    {
+      "id": 14,
+      "thuat_ngu": "1対1型",
+      "cach_doc": "1たい1がた",
+      "short_meaning": "kiểu một-một"
+    },
+    {
+      "id": 16,
+      "thuat_ngu": "1対多型",
+      "cach_doc": "1ついたけい",
+      "short_meaning": "kiểu một-nhiều"
+    },
+    {
+      "id": 17,
+      "thuat_ngu": "1次キャッシュメモリ",
+      "cach_doc": "1じキャッシュメモリ",
+      "short_meaning": "bộ nhớ đệm cấp 1"
+    },
+    {
+      "id": 18,
+      "thuat_ngu": "1次元バーコード",
+      "cach_doc": "1じげんバーコード",
+      "short_meaning": "mã vạch một chiều"
+    },
+    {
+      "id": 19,
+      "thuat_ngu": "1次元配列",
+      "cach_doc": "1じげんはいれつ",
+      "short_meaning": "mảng một chiều"
+    },
+    {
+      "id": 20,
+      "thuat_ngu": "1次情報",
+      "cach_doc": "1じじょうほう",
+      "short_meaning": "thông tin cấp một"
+    },
+    {
+      "id": 22,
+      "thuat_ngu": "2038年問題",
+      "cach_doc": "2038ねんもんだい",
+      "short_meaning": "vấn đề năm 2038"
+    },
+    {
+      "id": 23,
+      "thuat_ngu": "24ビットカラー",
+      "cach_doc": "24ビットカラー",
+      "short_meaning": "màu 24 bit"
+    },
+    {
+      "id": 24,
+      "thuat_ngu": "24ビットフルカラー",
+      "cach_doc": "24ビットフルカラー",
+      "short_meaning": "màu đầy đủ 24 bit"
+    },
+    {
+      "id": 25,
+      "thuat_ngu": "256階調",
+      "cach_doc": "256かいちょう",
+      "short_meaning": "256 bậc độ"
+    },
+    {
+      "id": 26,
+      "thuat_ngu": "2の補数",
+      "cach_doc": "2のほすう",
+      "short_meaning": "bù hai"
+    },
+    {
+      "id": 27,
+      "thuat_ngu": "2の補数表現",
+      "cach_doc": "2のほすうひょうげん",
+      "short_meaning": "biểu diễn bù hai"
+    },
+    {
+      "id": 28,
+      "thuat_ngu": "2バイト文字",
+      "cach_doc": "2バイトもじ",
+      "short_meaning": "ký tự hai byte"
+    },
+    {
+      "id": 29,
+      "thuat_ngu": "2値データ",
+      "cach_doc": "2ちデータ",
+      "short_meaning": "dữ liệu nhị phân"
+    },
+    {
+      "id": 30,
+      "thuat_ngu": "2分探索",
+      "cach_doc": "2ふんたんさく",
+      "short_meaning": "tìm kiếm nhị phân"
+    },
+    {
+      "id": 31,
+      "thuat_ngu": "2次キャッシュメモリ",
+      "cach_doc": "2じキャッシュメモリ",
+      "short_meaning": "bộ nhớ đệm cấp 2"
+    },
+    {
+      "id": 32,
+      "thuat_ngu": "2次元の配列",
+      "cach_doc": "2じげんのはいれつ",
+      "short_meaning": "mảng hai chiều"
+    },
+    {
+      "id": 34,
+      "thuat_ngu": "2次元バーコード",
+      "cach_doc": "2じげんバーコード",
+      "short_meaning": "mã vạch hai chiều"
+    },
+    {
+      "id": 35,
+      "thuat_ngu": "2次元配列",
+      "cach_doc": "2じげんはいれつ",
+      "short_meaning": "mảng hai chiều"
+    },
+    {
+      "id": 36,
+      "thuat_ngu": "2次利用",
+      "cach_doc": "2じりよう",
+      "short_meaning": "sử dụng cấp hai"
+    },
+    {
+      "id": 37,
+      "thuat_ngu": "2次情報",
+      "cach_doc": "2じじょうほう",
+      "short_meaning": "thông tin cấp hai"
+    },
+    {
+      "id": 39,
+      "thuat_ngu": "2進接頭辞",
+      "cach_doc": "2しんせっとうじ",
+      "short_meaning": "tiền tố nhị phân"
+    },
+    {
+      "id": 41,
+      "thuat_ngu": "2進数の加減算",
+      "cach_doc": "2しんすうのかげんさん",
+      "short_meaning": "cộng trừ nhị phân"
+    },
+    {
+      "id": 42,
+      "thuat_ngu": "2進数の引き算",
+      "cach_doc": "2しんすうのひきざん",
+      "short_meaning": "phép trừ nhị phân"
+    },
+    {
+      "id": 43,
+      "thuat_ngu": "2進数の足し算",
+      "cach_doc": "2しんすうのたしざん",
+      "short_meaning": "phép cộng nhị phân"
+    },
+    {
+      "id": 44,
+      "thuat_ngu": "2進数表示",
+      "cach_doc": "2しんすうひょうじ",
+      "short_meaning": "hiển thị nhị phân"
+    },
+    {
+      "id": 47,
+      "thuat_ngu": "2進法で表す整数",
+      "cach_doc": "2しんほうであらわすせいすう",
+      "short_meaning": "số nguyên biểu diễn nhị phân"
+    },
+    {
+      "id": 48,
+      "thuat_ngu": "2進法で表す負の整数",
+      "cach_doc": "2しんほうであらわすふのせいすう",
+      "short_meaning": "số âm biểu diễn nhị phân"
+    },
+    {
+      "id": 49,
+      "thuat_ngu": "2進表現",
+      "cach_doc": "2しんひょうげん",
+      "short_meaning": "biểu diễn nhị phân"
+    },
+    {
+      "id": 50,
+      "thuat_ngu": "2進表記",
+      "cach_doc": "2しんひょうき",
+      "short_meaning": "ký hiệu nhị phân"
+    },
+    {
+      "id": 54,
+      "thuat_ngu": "3DCGソフトウェア",
+      "cach_doc": "3DCGソフトウェア",
+      "short_meaning": "phần mềm 3DCG"
+    },
+    {
+      "id": 55,
+      "thuat_ngu": "3Dグラフ",
+      "cach_doc": "3Dグラフ",
+      "short_meaning": "biểu đồ 3D"
+    },
+    {
+      "id": 58,
+      "thuat_ngu": "3Dモーションセンサ",
+      "cach_doc": "3Dモーションセンサ",
+      "short_meaning": "cảm biến chuyển động 3D"
+    },
+    {
+      "id": 61,
+      "thuat_ngu": "3原色",
+      "cach_doc": "3げんしょく",
+      "short_meaning": "ba màu sắc nguyên"
+    },
+    {
+      "id": 63,
+      "thuat_ngu": "3次元映像",
+      "cach_doc": "3じげんえいぞう",
+      "short_meaning": "hình ảnh ba chiều"
+    },
+    {
+      "id": 64,
+      "thuat_ngu": "3次元映像技術",
+      "cach_doc": "3じげんえいぞうぎじゅつ",
+      "short_meaning": "công nghệ hình ảnh 3D"
+    },
+    {
+      "id": 65,
+      "thuat_ngu": "3部構成",
+      "cach_doc": "3ぶこうせい",
+      "short_meaning": "cấu trúc ba phần"
+    },
+    {
+      "id": 66,
+      "thuat_ngu": "3面構成",
+      "cach_doc": "3めんこうせい",
+      "short_meaning": "cấu trúc ba mặt"
+    },
+    {
+      "id": 68,
+      "thuat_ngu": "4部構成",
+      "cach_doc": "4ぶこうせい",
+      "short_meaning": "cấu trúc 4 phần"
+    },
+    {
+      "id": 69,
+      "thuat_ngu": "4階層モデル",
+      "cach_doc": "4かいそうモデル",
+      "short_meaning": "mô hình 4 tầng"
+    },
+    {
+      "id": 72,
+      "thuat_ngu": "5大機能",
+      "cach_doc": "5だいきのう",
+      "short_meaning": "5 chức năng chính"
+    },
+    {
+      "id": 73,
+      "thuat_ngu": "5大装置",
+      "cach_doc": "5だいそうち",
+      "short_meaning": "5 thiết bị chính"
+    },
+    {
+      "id": 74,
+      "thuat_ngu": "5大要素",
+      "cach_doc": "5だいようそ",
+      "short_meaning": "5 yếu tố chính"
+    },
+    {
+      "id": 75,
+      "thuat_ngu": "64ビットCPU",
+      "cach_doc": "64ビットCPU",
+      "short_meaning": "CPU 64 bit"
+    },
+    {
+      "id": 78,
+      "thuat_ngu": "9マスブロック",
+      "cach_doc": "9マスブロック",
+      "short_meaning": "khối 9 ô vuông"
+    },
+    {
+      "id": 540,
+      "thuat_ngu": "JIS X0201文字コード",
+      "cach_doc": "JISX0201もじコード",
+      "short_meaning": "mã ký tự JIS X0201"
+    },
+    {
+      "id": 542,
+      "thuat_ngu": "JIS16ビットコード",
+      "cach_doc": "JIS16ビットコード",
+      "short_meaning": "mã 16-bit theo JIS"
+    },
+    {
+      "id": 543,
+      "thuat_ngu": "JIS8ビットコード",
+      "cach_doc": "JIS8ビットコード",
+      "short_meaning": "mã 8-bit theo JIS"
+    },
+    {
+      "id": 582,
+      "thuat_ngu": "L2スイッチ",
+      "cach_doc": "L2スイッチ",
+      "short_meaning": "switch L2"
+    },
+    {
+      "id": 583,
+      "thuat_ngu": "L3スイッチ",
+      "cach_doc": "L3スイッチ",
+      "short_meaning": "switch L3"
+    },
+    {
+      "id": 651,
+      "thuat_ngu": "MP3プレーヤ",
+      "cach_doc": "MP3プレーヤ",
+      "short_meaning": "máy nghe MP3"
+    },
+    {
+      "id": 653,
+      "thuat_ngu": "MP3形式",
+      "cach_doc": "MP3けいしき",
+      "short_meaning": "định dạng MP3"
+    },
+    {
+      "id": 656,
+      "thuat_ngu": "MP4形式",
+      "cach_doc": "MP4けいしき",
+      "short_meaning": "định dạng MP4"
+    },
+    {
+      "id": 721,
+      "thuat_ngu": "OECD8原則",
+      "cach_doc": "OECD8げんそく",
+      "short_meaning": "8 nguyên tắc OECD"
+    },
+    {
+      "id": 741,
+      "thuat_ngu": "P2P型",
+      "cach_doc": "P2Pがた",
+      "short_meaning": "mô hình peer-to-peer"
+    },
+    {
+      "id": 742,
+      "thuat_ngu": "P2P方式",
+      "cach_doc": "P2Pほうしき",
+      "short_meaning": "phương thức peer-to-peer"
+    },
+    {
+      "id": 768,
+      "thuat_ngu": "POP3サーバ",
+      "cach_doc": "POP3サーバ",
+      "short_meaning": "server POP3"
+    },
+    {
+      "id": 980,
+      "thuat_ngu": "W3C勧告",
+      "cach_doc": "W3Cかんこく",
+      "short_meaning": "khuyến nghị W3C"
+    },
+    {
+      "id": 1070,
+      "thuat_ngu": "Y2K問題",
+      "cach_doc": "Y2Kもんだい",
+      "short_meaning": "Vấn đề Y2K"
+    },
+    {
+      "id": 2858,
+      "thuat_ngu": "ビッグ6モデル",
+      "cach_doc": "ビッグ6モデル",
+      "short_meaning": "mô hình Big 6"
+    },
+    {
+      "id": 3268,
+      "thuat_ngu": "マイクロプロセッサ4004",
+      "cach_doc": "マイクロプロセッサ4004",
+      "short_meaning": "vi xử lý 4004"
+    },
+    {
+      "id": 3437,
+      "thuat_ngu": "モノクロ2階調",
+      "cach_doc": "モノクロ2かいちょう",
+      "short_meaning": "đơn sắc 2 tần độ"
+    },
+    {
+      "id": 4014,
+      "thuat_ngu": "光の3原色",
+      "cach_doc": "ひかりの3げんしょく",
+      "short_meaning": "ba màu cơ sở ánh sáng RGB"
+    },
+    {
+      "id": 4390,
+      "thuat_ngu": "問題解決の4つのステップ",
+      "cach_doc": "もんだいかいけつの4つのステップ",
+      "short_meaning": "4 bước giải quyết vấn đề"
+    },
+    {
+      "id": 4391,
+      "thuat_ngu": "問題解決のための5つのステップ",
+      "cach_doc": "もんだいかいけつのための5つのステップ",
+      "short_meaning": "5 bước giải quyết vấn đề"
+    },
+    {
+      "id": 4488,
+      "thuat_ngu": "基本4情報",
+      "cach_doc": "きほん4じょうほう",
+      "short_meaning": "4 thông tin cơ bản"
+    },
+    {
+      "id": 5317,
+      "thuat_ngu": "標準16色",
+      "cach_doc": "ひょうじゅん16しょく",
+      "short_meaning": "16 màu chuẩn"
+    },
+    {
+      "id": 5726,
+      "thuat_ngu": "第1正規形",
+      "cach_doc": "だい1せいきけい",
+      "short_meaning": "Dạng chuẩn 1 (1NF)"
+    },
+    {
+      "id": 5727,
+      "thuat_ngu": "第2レベルドメイン",
+      "cach_doc": "だい2レベルドメイン",
+      "short_meaning": "Tên miền cấp 2"
+    },
+    {
+      "id": 5729,
+      "thuat_ngu": "第3レベルドメイン",
+      "cach_doc": "だい3レベルドメイン",
+      "short_meaning": "Tên miền cấp 3"
+    },
+    {
+      "id": 5731,
+      "thuat_ngu": "第3正規形",
+      "cach_doc": "だい3せいきけい",
+      "short_meaning": "Dạng chuẩn 3 (3NF)"
+    },
+    {
+      "id": 5903,
+      "thuat_ngu": "色の3原色",
+      "cach_doc": "いろの3げんしょく",
+      "short_meaning": "3 sắc nguyên tố màu (CMY)"
+    },
+    {
+      "id": 5904,
+      "thuat_ngu": "色の3属性",
+      "cach_doc": "いろの3ぞくせい",
+      "short_meaning": "3 thuộc tính màu (bão hoà/sáng/sắc)"
+    },
+    {
+      "id": 5937,
+      "thuat_ngu": "著作権法第32条",
+      "cach_doc": "ちょさくけんほうだい32じょう",
+      "short_meaning": "điều 32 luật bản quyền"
+    },
+    {
+      "id": 6572,
+      "thuat_ngu": "音の3要素",
+      "cach_doc": "おとの3ようそ",
+      "short_meaning": "3 yếu tố âm thanh"
+    }
+  ]
+}

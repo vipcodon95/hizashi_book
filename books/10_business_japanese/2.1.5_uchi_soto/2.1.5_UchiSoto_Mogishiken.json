@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "2.1.5 Mogishiken — 内/外ルール Reading",
+    "title": "2.1.5 Mogishiken — 内/外ルール",
     "title_vn": "2.1.5 Mô Phỏng Đề Thi BJT Đọc Hiểu: 内/外ルール (Uchi/Soto)",
     "type": "mogishiken_dokkai",
     "description_vn": "Mô phỏng đề thi BJT phần đọc hiểu — chủ đề 内/外ルール. 5 phần, 20 câu hỏi tập trung vào quy tắc Uchi/Soto trong 5 loại văn bản khác nhau.",
     "total_sections": 5,
     "total_questions": 20,
-    "format_note": "Format BJT Phần 3②③ (Yomikai) — Chỉnh sửa từ file gốc 4 phần thành 5 phần, mỗi phần 4 câu",
+    "format_note": "Format BJT Phần 3②③ (Yomikai): mỗi phần gồm 1 văn bản kinh doanh + 4 câu hỏi trắc nghiệm 4 lựa chọn. 5 phần xếp theo độ khó tăng dần, tổng 20 câu.",
     "created_date": "2026-04-13"
   },
   "sections": [
@@ -16,8 +16,10 @@
       "level_name": "初級 / Cơ bản",
       "document_type": "電話応対スクリプト",
       "situation_vn": "Nhân viên tiếp nhận cuộc gọi từ khách hàng đối tác. Khách hỏi về các đồng nghiệp của mình (người bên trong công ty).",
-      "passage_ja": "お客様：お疲れ様です。田中さんはいますか。\n受付：いつもお世話になっております。申し訳ございません。田中は只今席を外しております。\nお客様：そうですか。何時に戻りますか。\n受付：15時頃に戻る予定です。何かご用件があれば、田中に伝言をお預かりすることはできますか。また、他の担当者に代わることもできます。\nお客様：いいえ、結構です。後で改めて電話します。\n受付：かしこまりました。本日はお電話いただき、ありがとうございました。何かご不明な点がございましたら、いつでもお気軽にお問い合わせください。",
-      "passage_vn": "Khách hàng: Chào anh/chị. Anh Tanaka có ở đó không ạ?\nLễ tân: Cảm ơn quý khách đã luôn quan tâm giúp đỡ. Xin lỗi quý khách, anh Tanaka hiện đang không có mặt tại chỗ ạ.\nKhách hàng: Vậy à. Mấy giờ anh ấy quay lại?\nLễ tân: Dự kiến khoảng 15 giờ anh ấy sẽ quay lại ạ. Nếu quý khách có việc gì, tôi có thể nhận lời nhắn để chuyển cho anh Tanaka được không ạ? Hoặc tôi cũng có thể chuyển máy cho người phụ trách khác.\nKhách hàng: Không, không cần đâu. Lát nữa tôi sẽ gọi lại sau.\nLễ tân: Vâng, tôi đã rõ ạ. Cảm ơn quý khách đã gọi điện hôm nay. Nếu có điểm gì chưa rõ, xin quý khách cứ thoải mái liên hệ bất cứ lúc nào ạ.",
+      "passage_ja": "お客様：お疲れ様です。田中さんはいますか。\n受付：いつもお世話になっております。申し訳ございません。田中は只今席を外しております。\nお客様：そうですか。何時に戻りますか。\n受付：15時頃に戻ってまいります。何かご用件がございましたら、よろしければ、ご伝言を承りましょうか。また、他の担当者に代わることもできます。\nお客様：いいえ、結構です。後で改めて電話します。\n受付：かしこまりました。本日はお電話いただき、ありがとうございました。何かご不明な点がございましたら、いつでもお気軽にお問い合わせください。",
+      "passage_vn": "Khách hàng: Chào anh/chị. Anh Tanaka có ở đó không ạ?\nLễ tân: Cảm ơn quý khách đã luôn quan tâm giúp đỡ. Xin lỗi quý khách, anh Tanaka hiện đang không có mặt tại chỗ ạ.\nKhách hàng: Vậy à. Mấy giờ anh ấy quay lại?\nLễ tân: Khoảng 15 giờ anh ấy sẽ quay lại ạ. Nếu quý khách có việc gì cần, nếu được thì tôi xin phép nhận lời nhắn ạ. Hoặc tôi cũng có thể chuyển máy cho người phụ trách khác.\nKhách hàng: Không, không cần đâu. Lát nữa tôi sẽ gọi lại sau.\nLễ tân: Vâng, tôi đã rõ ạ. Cảm ơn quý khách đã gọi điện hôm nay. Nếu có điểm gì chưa rõ, xin quý khách cứ thoải mái liên hệ bất cứ lúc nào ạ.",
+      "word_count": 247,
+      "difficulty_note": "Hội thoại điện thoại cơ bản. Kiểm tra phản xạ bỏ さん với người Uchi (田中は…) và khiêm nhường ngữ khi tiếp khách (席を外しております, 戻ってまいります, ご伝言を承る). Câu ngắn, từ vựng thông dụng.",
       "questions": [
         {
           "id": "1-1",
@@ -36,16 +38,16 @@
         {
           "id": "1-2",
           "question_type": "blank_fill",
-          "question_ja": "受付者が「田中に（　）をお預かりすることはできますか」と言った場合、（　）に入る正しい言葉は？",
-          "question_vn": "Khi người tiếp nhận nói \"田中に（　）をお預かりすることはできますか\", từ điền vào (　) là gì?",
+          "question_ja": "受付者が「よろしければ、ご伝言を（　）ましょうか」と言う場合、（　）に入る最も適切な言葉は？",
+          "question_vn": "Khi lễ tân nói \"よろしければ、ご伝言を（　）ましょうか\", từ điền vào (　) thích hợp nhất là gì?",
           "choices": {
-            "A": "ご伝言",
-            "B": "伝言",
-            "C": "お言葉",
-            "D": "ご指示"
+            "A": "承り",
+            "B": "お受け取りになり",
+            "C": "いただかれ",
+            "D": "お預かりくださり"
           },
           "answer": "A",
-          "explanation_vn": "'ご伝言' (tôn kính Soto) là từ dùng để tôn kính lời nói/lời nhắn từ khách hàng (Soto). Từ 'ご' được thêm vào đây để tôn kính khách hàng, không phải để tôn kính người Uchi (田中). 'お言葉' cũng có thể dùng nhưng 'ご伝言' phổ biến hơn trong bối cảnh này."
+          "explanation_vn": "'承る' là khiêm nhường ngữ (謙譲語) của '受ける/聞く' — lễ tân (Uchi) hạ thấp hành động nhận lời nhắn của chính mình trước khách (Soto), nên 'ご伝言を承りましょうか' là mẫu chuẩn trong tiếp điện thoại. Lưu ý 'ご' trong 'ご伝言' là tôn kính lời nhắn của KHÁCH, không liên quan tới hành động của lễ tân. (B) 'お受け取りになる' là tôn kính ngữ → tự tôn kính hành động của mình, sai chiều. (C) 'いただかれる' ghép khiêm nhường ngữ với đuôi tôn kính れる — kính ngữ hỗn loạn, không tồn tại. (D) 'お預かりくださる' là tôn kính ngữ hướng về người thực hiện, tức lại tôn kính chính lễ tân, sai chiều."
         },
         {
           "id": "1-3",
@@ -67,13 +69,13 @@
           "question_ja": "次の文で敬語の使い方に誤りがあるのはどれですか。「何かご不明な点がございましたら、いつでもお気軽にお問い合わせしてください。」",
           "question_vn": "Câu nào sau đây có lỗi dùng kính ngữ? \"何かご不明な点がございましたら、いつでもお気軽にお問い合わせしてください。\"",
           "choices": {
-            "A": "ご不明な点 — tôn kính đúng cho Soto",
-            "B": "ございましたら — biểu hiện lịch sự đúng",
-            "C": "お気軽に — biểu hiện tôn kính khách hàng",
-            "D": "お問い合わせしてください — sai cấu trúc tôn kính"
+            "A": "ご不明な点",
+            "B": "ございましたら",
+            "C": "お気軽に",
+            "D": "お問い合わせしてください"
           },
           "answer": "D",
-          "explanation_vn": "Lỗi ở 'お問い合わせしてください'. Cấu trúc yêu cầu Soto làm gì đó (尊敬語) đúng là 'お + V連用形 + ください' → phải là 'お問い合わせください'. Thêm 'して' (お問い合わせ + して + ください) là sai, vì 'お〜してください' không phải cấu trúc tôn kính đúng ('お〜する' là khiêm nhường ngữ của Uchi, không dùng để yêu cầu Soto). Các đáp án A, B, C đều đúng: 'ご不明な点', 'ございましたら', 'お気軽に' đều là kính ngữ chuẩn hướng tới khách hàng."
+          "explanation_vn": "Lỗi ở (D) 'お問い合わせしてください'. Mẫu yêu cầu Soto làm gì đó (tôn kính ngữ) là 'お + V thể liên dụng + ください' → phải là 'お問い合わせください'. Chen 'して' vào giữa tạo ra 'お〜してください', trộn khiêm nhường ngữ 'お〜する' (hành động của Uchi) vào câu nhờ vả hướng tới Soto nên sai chiều. (A) 'ご不明な点' — tôn kính điều khách chưa rõ, đúng. (B) 'ございましたら' — dạng lịch sự của 'ある', đúng. (C) 'お気軽に' — tôn kính hướng tới khách, đúng."
         }
       ]
     },
@@ -83,8 +85,10 @@
       "level_name": "中級基礎 / Cấp độ trung cơ bản",
       "document_type": "ビジネスメール",
       "situation_vn": "Email từ nhân viên công ty A gửi đối tác bên ngoài công ty B. Nhân viên báo cáo việc sếp mình không thể tham dự cuộc họp đã hẹn.",
-      "passage_ja": "いつもお世話になっております。\n\n本日は、弊社の鈴木部長がお伺いする予定でしたが、急な用件のため、私が代わりにお邪魔させていただくことになりました。何度もお詫び申し上げます。\n\n弊社の田中課長も同席する予定ですので、ご安心いただければ幸いです。田中も、貴社とのパートナーシップを大切にしておりますので、どうぞよろしくお願いいたします。\n\nご多忙のところ、恐れ入りますが、よろしくお願いいたします。\n\n何かご質問やご不明な点がございましたら、いつでもお気軽にお問い合わせください。\n\nよろしくお願いいたします。\n\n山田太郎\n営業部\nA社営業部営業課",
-      "passage_vn": "Cảm ơn quý công ty đã luôn quan tâm giúp đỡ.\n\nHôm nay, theo dự kiến thì trưởng ban Suzuki của công ty chúng tôi sẽ đến thăm quý công ty, nhưng do có việc gấp nên tôi sẽ thay anh ấy đến làm phiền quý công ty. Tôi xin thành thật cáo lỗi nhiều lần.\n\nTrưởng phòng Tanaka của chúng tôi cũng dự kiến sẽ cùng tham dự, nên rất mong quý công ty yên tâm. Anh Tanaka cũng rất coi trọng mối quan hệ đối tác với quý công ty, kính mong quý công ty giúp đỡ.\n\nTrong lúc quý công ty bận rộn, thật ngại quá nhưng kính mong được giúp đỡ.\n\nNếu có câu hỏi hay điểm gì chưa rõ, xin quý công ty cứ thoải mái liên hệ bất cứ lúc nào.\n\nRất mong được giúp đỡ.\n\nYamada Taro\nPhòng Kinh doanh\nPhòng Kinh doanh, ban Kinh doanh công ty A",
+      "passage_ja": "いつもお世話になっております。\n\n本日は、弊社の鈴木がお伺いする予定でしたが、急な用件のため、私が代わりにお邪魔させていただくことになりました。重ねてお詫び申し上げます。\n\n弊社の田中も同席する予定ですので、ご安心いただければ幸いです。田中も、貴社とのパートナーシップを大切にしておりますので、どうぞよろしくお願いいたします。\n\nご多忙のところ、恐れ入りますが、よろしくお願いいたします。\n\n何かご質問やご不明な点がございましたら、いつでもお気軽にお問い合わせください。\n\nよろしくお願いいたします。\n\nA社 営業部営業課\n山田太郎",
+      "passage_vn": "Cảm ơn quý công ty đã luôn quan tâm giúp đỡ.\n\nHôm nay, theo dự kiến thì anh Suzuki bên chúng tôi sẽ đến thăm quý công ty, nhưng do có việc gấp nên tôi sẽ thay anh ấy đến làm phiền quý công ty. Tôi xin một lần nữa thành thật cáo lỗi.\n\nAnh Tanaka bên chúng tôi cũng dự kiến sẽ cùng tham dự, nên rất mong quý công ty yên tâm. Anh Tanaka cũng rất coi trọng mối quan hệ đối tác với quý công ty, kính mong quý công ty giúp đỡ.\n\nTrong lúc quý công ty bận rộn, thật ngại quá nhưng kính mong được giúp đỡ.\n\nNếu có câu hỏi hay điểm gì chưa rõ, xin quý công ty cứ thoải mái liên hệ bất cứ lúc nào.\n\nRất mong được giúp đỡ.\n\nCông ty A - Ban Kinh doanh, phòng Kinh doanh\nYamada Taro",
+      "word_count": 252,
+      "difficulty_note": "Email gửi đối tác. Thêm một tầng khó: vừa bỏ さん vừa bỏ CHỨC DANH cho người Uchi (弊社の鈴木), kèm mẫu cố định 'よろしくお願いいたします' và 'お詫び申し上げます'. Cần đọc cả khối chữ ký.",
       "questions": [
         {
           "id": "2-1",
@@ -103,30 +107,30 @@
         {
           "id": "2-2",
           "question_type": "uchi_soto_check",
-          "question_ja": "このメールで、会社内の人物を指す表現として誤っているのはどれですか。",
-          "question_vn": "Trong email này, biểu hiện nào để chỉ người bên trong công ty là sai?",
+          "question_ja": "このメールの書き手（A社・山田）が、社外の相手に自社の鈴木について述べる場合、正しい表現はどれですか。",
+          "question_vn": "Khi người viết email (Yamada, công ty A) nói về anh Suzuki bên công ty mình với đối tác bên ngoài, biểu hiện nào là đúng?",
           "choices": {
-            "A": "弊社の鈴木部長",
-            "B": "弊社の田中課長",
-            "C": "弊社の山田さん",
-            "D": "私たちの山田"
+            "A": "弊社の鈴木がお伺いする予定でした。",
+            "B": "弊社の鈴木部長がお伺いする予定でした。",
+            "C": "弊社の鈴木さんがお伺いする予定でした。",
+            "D": "弊社の鈴木部長様がお伺いする予定でした。"
           },
-          "answer": "C",
-          "explanation_vn": "Khi nói về người Uchi (山田) với Soto trong email chính thức, không được dùng 'さん'. Chỉ dùng tên trần (山田), tên + chức vụ (山田課長), hoặc '弊社の山田'. 'さん' là từ tôn kính dành cho Soto nên không phù hợp."
+          "answer": "A",
+          "explanation_vn": "Khi nói với người ngoài công ty (Soto), TOÀN BỘ người công ty mình đều là Uchi — phải bỏ CẢ 'さん' LẪN chức danh. Chỉ nêu tên trần: '弊社の鈴木' → (A) đúng. (B) sai vì '部長' tự thân đã hàm ý tôn kính, giữ chức danh cho người Uchi trước Soto là nâng người nhà mình lên. (C) sai vì 'さん' là từ tôn kính chỉ dành cho Soto. (D) sai kép: vừa giữ chức danh cho Uchi, vừa mắc kính ngữ kép '部長様' (bản thân 部長 đã tôn kính, thêm 様 là thừa)."
         },
         {
           "id": "2-3",
           "question_type": "blank_fill",
-          "question_ja": "「弊社の田中も、貴社とのパートナーシップを大切にしておりますので、どうぞよろしく（　）いたします。」の（　）に入る正しい表現は？",
-          "question_vn": "\"弊社の田中も、貴社とのパートナーシップを大切にしておりますので、どうぞよろしく（　）いたします。\" - từ điền vào (　) là gì?",
+          "question_ja": "「田中も、貴社とのパートナーシップを大切にしておりますので、どうぞよろしく（　）いたします。」の（　）に入る正しい表現は？",
+          "question_vn": "\"田中も、貴社とのパートナーシップを大切にしておりますので、どうぞよろしく（　）いたします。\" - từ điền vào (　) là gì?",
           "choices": {
             "A": "お願い",
             "B": "お願いし",
             "C": "ご願い",
             "D": "願い"
           },
-          "answer": "B",
-          "explanation_vn": "Cấu trúc đúng là 'よろしくお願いいたします'. Dạng mở rộng của 'お願い' khi dùng với 'いたします' là 'お願いし + いたします'. 'ご願い' không tồn tại trong tiếng Nhật."
+          "answer": "A",
+          "explanation_vn": "Mẫu đúng là 'よろしくお願いいたします' → điền (A) 'お願い'. Đây là kết cấu khiêm nhường ngữ 'お + danh động từ + いたす', trong đó 'お願い' là danh từ, nối thẳng với 'いたします'. (B) 'お願いし' tạo ra 'お願いしいたします' — không tồn tại trong tiếng Nhật, vì đã dùng thể liên dụng của động từ 'お願いする' thì không thể ghép tiếp 'いたします' nữa. Bằng chứng ngay trong email: câu kết viết 'よろしくお願いいたします'. (C) 'ご願い' không tồn tại (願い là từ thuần Nhật nên đi với 'お'). (D) '願い' thiếu tiền tố kính ngữ, quá cộc với đối tác."
         },
         {
           "id": "2-4",
@@ -150,8 +154,10 @@
       "level_name": "中級上級 / Cấp độ trung nâng cao",
       "document_type": "商談・打ち合わせ記録",
       "situation_vn": "Biên bản cuộc họp thương thảo giữa công ty A (開催側) và công ty B (訪問側). Nhân viên công ty A (山田) ghi chép. Trong biên bản có sự hiện diện của các bên.",
-      "passage_ja": "【商談会議記録】\n\n日時：2026年4月13日（月）14:00～15:30\n場所：弊社 本社 会議室A\n参加者：\n　弊社：鈴木部長（営業部）、山田課長（営業課）、田中専門官（企画室）\n　相手方（B社）：佐藤さん（営業部長）、鈴木さん（営業課課長）、山本さん（企画部）\n\n【議題】\n新商品の共同展開について\n\n【主な内容】\n佐藤さんから、貴社の新製品について、詳しくお聞かせいただきました。弊社の山田課長より、こちらの商品化計画についてご説明させていただきました。\n\n佐藤さんより、「田中さんはこのプロジェクトに関わりますか」というご質問をいただきました。弊社の田中も本プロジェクトに参加する予定です。また、相手方の山本さんからも、貴社の営業戦略についてお尋ねをいただき、鈴木部長がご回答させていただきました。\n\n【次のステップ】\n1. 弊社は来週までに企画書を送付いたします。\n2. 貴社からのご回答をお待ち申し上げます。\n3. 次回の打ち合わせは5月10日に開催する予定です。\n\n記録者：山田太郎（弊社 営業課 課長）",
-      "passage_vn": "[Biên bản cuộc họp thương thảo]\n\nThời gian: 14:00 ~ 15:30 thứ Hai ngày 13/4/2026\nĐịa điểm: Phòng họp A, trụ sở chính công ty chúng tôi\nNgười tham dự:\n  Công ty chúng tôi: Trưởng ban Suzuki (phòng Kinh doanh), trưởng phòng Yamada (phòng Kinh doanh), chuyên viên Tanaka (phòng Kế hoạch)\n  Đối tác (công ty B): Anh Sato (trưởng ban Kinh doanh), anh Suzuki (trưởng phòng Kinh doanh), anh Yamamoto (phòng Kế hoạch)\n\n[Chủ đề]\nVề việc cùng triển khai sản phẩm mới\n\n[Nội dung chính]\nAnh Sato đã giới thiệu chi tiết cho chúng tôi về sản phẩm mới của quý công ty. Trưởng phòng Yamada của chúng tôi đã trình bày về kế hoạch thương mại hóa sản phẩm bên chúng tôi.\n\nAnh Sato đã đặt câu hỏi: \"Anh Tanaka có tham gia vào dự án này không?\". Anh Tanaka bên chúng tôi cũng dự kiến tham gia dự án này. Ngoài ra, anh Yamamoto bên đối tác cũng hỏi về chiến lược kinh doanh của quý công ty, và trưởng ban Suzuki đã trả lời.\n\n[Bước tiếp theo]\n1. Công ty chúng tôi sẽ gửi bản kế hoạch trước tuần sau.\n2. Chúng tôi xin chờ phản hồi từ quý công ty.\n3. Buổi trao đổi lần tới dự kiến tổ chức vào ngày 10/5.\n\nNgười ghi biên bản: Yamada Taro (trưởng phòng Kinh doanh công ty chúng tôi)",
+      "passage_ja": "【商談会議記録】\n\n日時：2026年4月13日（月）14:00～15:30\n場所：弊社 本社 会議室A\n参加者：\n　弊社：鈴木部長（営業部）、山田課長（営業課）、田中専門官（企画室）\n　相手方（B社）：佐藤さん（営業部長）、高橋さん（営業課課長）、山本さん（企画部）\n\n【議題】\n新商品の共同展開について\n\n【主な内容】\n佐藤さんから、B社の新製品について、詳しくお聞かせいただきました。弊社の山田課長より、こちらの商品化計画についてご説明させていただきました。\n\n佐藤さんより、「田中さんはこのプロジェクトに関わりますか」というご質問をいただきました。弊社の田中も本プロジェクトに参加する予定です。また、相手方の山本さんからも、弊社の営業戦略についてお尋ねをいただき、鈴木部長がご回答させていただきました。\n\n【次のステップ】\n1. 弊社は来週までに企画書を送付いたします。\n2. 貴社からのご回答をお待ち申し上げます。\n3. 次回の打ち合わせは5月10日に開催する予定です。\n\n記録者：山田太郎（弊社 営業課 課長）",
+      "passage_vn": "[Biên bản cuộc họp thương thảo]\n\nThời gian: 14:00 ~ 15:30 thứ Hai ngày 13/4/2026\nĐịa điểm: Phòng họp A, trụ sở chính công ty chúng tôi\nNgười tham dự:\n  Công ty chúng tôi: Trưởng ban Suzuki (phòng Kinh doanh), trưởng phòng Yamada (phòng Kinh doanh), chuyên viên Tanaka (phòng Kế hoạch)\n  Đối tác (công ty B): Anh Sato (trưởng ban Kinh doanh), anh Takahashi (trưởng phòng Kinh doanh), anh Yamamoto (phòng Kế hoạch)\n\n[Chủ đề]\nVề việc cùng triển khai sản phẩm mới\n\n[Nội dung chính]\nAnh Sato đã giới thiệu chi tiết cho chúng tôi về sản phẩm mới của công ty B. Trưởng phòng Yamada của chúng tôi đã trình bày về kế hoạch thương mại hóa sản phẩm bên chúng tôi.\n\nAnh Sato đã đặt câu hỏi: \"Anh Tanaka có tham gia vào dự án này không?\". Anh Tanaka bên chúng tôi cũng dự kiến tham gia dự án này. Ngoài ra, anh Yamamoto bên đối tác cũng hỏi về chiến lược kinh doanh của công ty chúng tôi, và trưởng ban Suzuki đã trả lời.\n\n[Bước tiếp theo]\n1. Công ty chúng tôi sẽ gửi bản kế hoạch trước tuần sau.\n2. Chúng tôi xin chờ phản hồi từ quý công ty.\n3. Buổi trao đổi lần tới dự kiến tổ chức vào ngày 10/5.\n\nNgười ghi biên bản: Yamada Taro (trưởng phòng Kinh doanh công ty chúng tôi)",
+      "word_count": 430,
+      "difficulty_note": "Biên bản họp hai bên. Phải theo dõi đồng thời ai thuộc 弊社 và ai thuộc B社 xuyên suốt văn bản, phân biệt 申し上げる (Uchi) với お話しくださる (Soto), và nắm trục 和語→お / 漢語→ご (お尋ね vs ご質問).",
       "questions": [
         {
           "id": "3-1",
@@ -175,7 +181,7 @@
           "choices": {
             "A": "弊社の山田課長より、こちらの商品化計画についてご説明させていただきました。",
             "B": "弊社の田中も本プロジェクトに参加する予定です。",
-            "C": "佐藤さんから、貴社の新製品について、詳しく申し上げました。",
+            "C": "佐藤さんから、B社の新製品について、詳しく申し上げました。",
             "D": "鈴木部長がご回答させていただきました。"
           },
           "answer": "C",
@@ -184,16 +190,16 @@
         {
           "id": "3-3",
           "question_type": "blank_fill",
-          "question_ja": "「相手方の山本さんからも、貴社の営業戦略についてお（　）をいただき」の（　）に入る正しい言葉は？",
-          "question_vn": "\"相手方の山本さんからも、貴社の営業戦略についてお（　）をいただき\" - từ điền vào (　) là gì?",
+          "question_ja": "「相手方の山本さんからも、弊社の営業戦略についてお（　）をいただき」の（　）に入る正しい言葉は？",
+          "question_vn": "\"相手方の山本さんからも、弊社の営業戦略についてお（　）をいただき\" - từ điền vào (　) là gì?",
           "choices": {
             "A": "質問",
             "B": "尋ね",
             "C": "伺い",
             "D": "聞き"
           },
-          "answer": "A",
-          "explanation_vn": "'お質問をいただき' là cách tự nhiên và phổ biến nhất để nói về câu hỏi từ Soto (お質問 tôn kính hành động hỏi của 山本さん + をいただく). (B) 'お尋ねをいただき' cũng chấp nhận được nhưng 'お質問' tự nhiên hơn trong văn bản chính thức. (C) 'お伺い' SAI vì 伺う là khiêm nhường ngữ (hành động hỏi của bản thân/Uchi), không dùng cho Soto. (D) 'お聞き' kém trang trọng."
+          "answer": "B",
+          "explanation_vn": "Chỗ trống đã có sẵn tiền tố 'お', nên chỉ từ thuần Nhật (和語, đọc kun) mới ghép được. Tiếng Nhật phân tiền tố kính ngữ theo trục 和語 → 'お' / 漢語 (từ Hán, đọc on) → 'ご'. (B) '尋ね' là từ thuần Nhật (尋ねる) → 'お尋ねをいただき' đúng, và chính biên bản đang dùng dạng này. (A) '質問' là từ Hán nên phải là 'ご質問'; 'お質問' không tồn tại trong tiếng Nhật chuẩn. (C) 'お伺い' sai chiều: 伺う là khiêm nhường ngữ chỉ hành động hỏi của bản thân/Uchi, không dùng cho Soto (山本さん). (D) 'お聞き' hợp ngữ pháp nhưng kém trang trọng, không hợp văn phong biên bản."
         },
         {
           "id": "3-4",
@@ -217,8 +223,10 @@
       "level_name": "上級 / Cấp độ nâng cao",
       "document_type": "社外向け報告書・文書",
       "situation_vn": "Văn bản báo cáo gửi ra ngoài (cho đối tác bên ngoài) có chứa các lỗi tinh vi về Uchi/Soto. Cần xác định và sửa lỗi.",
-      "passage_ja": "【プロジェクト進捗報告書】\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　2026年4月13日\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　A社営業部\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　山田太郎\n\n【報告】\nいつもお世話になっております。本プロジェクトの進捗についてご報告させていただきます。\n\n第1段階（企画）については、弊社の山田が中心となり、貴社のご指示に従い、計画書を作成いたしました。田中課長もこのプロジェクトに大変関心をお持ちで、積極的にご参加いただいています。\n\n第2段階（開発）については、相手方の鈴木さんのご協力により、順調に進めておられます。弊社の開発チームも、貴社のご要望を踏まえ、最高のサービスを提供させていただく所存です。\n\n【課題】\n現在の課題として、予算配分について田中課長がご提案させていただきたい内容がございます。詳しくは別紙をご参照ください。\n\n【お願い】\nお忙しいところ恐れ入りますが、来月末までにご回答をお待ち申し上げます。何かご不明な点がございましたら、いつでもお気軽にお問い合わせください。\n\nよろしくお願いいたします。",
-      "passage_vn": "[Báo cáo tiến độ dự án]\n                                                        Ngày 13/4/2026\n                                                        Phòng Kinh doanh công ty A\n                                                        Yamada Taro\n\n[Báo cáo]\nCảm ơn quý công ty đã luôn quan tâm giúp đỡ. Tôi xin báo cáo về tiến độ của dự án này.\n\nVề giai đoạn 1 (lập kế hoạch), Yamada bên chúng tôi đã làm chủ chốt, tuân theo chỉ thị của quý công ty để lập bản kế hoạch. Trưởng phòng Tanaka cũng rất quan tâm đến dự án này và đang tích cực tham gia.\n\nVề giai đoạn 2 (phát triển), nhờ sự hợp tác của anh Suzuki bên đối tác, công việc đang tiến triển thuận lợi. Đội phát triển của chúng tôi cũng quyết tâm dựa trên yêu cầu của quý công ty để cung cấp dịch vụ tốt nhất.\n\n[Vấn đề]\nVấn đề hiện tại là về phân bổ ngân sách, trưởng phòng Tanaka có nội dung muốn đề xuất. Chi tiết xin xem phụ lục kèm theo.\n\n[Đề nghị]\nTrong lúc quý công ty bận rộn thật ngại, nhưng chúng tôi xin chờ phản hồi của quý công ty trước cuối tháng sau. Nếu có điểm gì chưa rõ, xin quý công ty cứ thoải mái liên hệ bất cứ lúc nào.\n\nRất mong được giúp đỡ.",
+      "passage_ja": "【プロジェクト進捗報告書】\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　2026年4月13日\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　A社営業部\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　山田太郎\n\n【報告】\nいつもお世話になっております。本プロジェクトの進捗についてご報告させていただきます。\n\n第1段階（企画）については、弊社の山田が中心となり、貴社のご指示に従い、計画書を作成いたしました。田中課長もこのプロジェクトに大変関心をお持ちで、積極的にご参加いただいています。\n\n第2段階（開発）については、相手方の鈴木さんのご協力により、順調に進んでおります。弊社の開発チームも、貴社のご要望を踏まえ、最高のサービスを提供させていただく所存です。\n\n【課題】\n現在の課題として、予算配分について田中課長がご提案させていただきたい内容がございます。詳しくは別紙をご参照ください。\n\n【お願い】\nお忙しいところ恐れ入りますが、来月末までにご回答をお待ち申し上げます。何かご不明な点がございましたら、いつでもお気軽にお問い合わせください。\n\nよろしくお願いいたします。",
+      "passage_vn": "[Báo cáo tiến độ dự án]\n                                                        Ngày 13/4/2026\n                                                        Phòng Kinh doanh công ty A\n                                                        Yamada Taro\n\n[Báo cáo]\nCảm ơn quý công ty đã luôn quan tâm giúp đỡ. Tôi xin báo cáo về tiến độ của dự án này.\n\nVề giai đoạn 1 (lập kế hoạch), Yamada bên chúng tôi đã làm chủ chốt, tuân theo chỉ thị của quý công ty để lập bản kế hoạch. Trưởng phòng Tanaka cũng rất quan tâm đến dự án này và đang tích cực tham gia.\n\nVề giai đoạn 2 (phát triển), nhờ sự hợp tác của anh Suzuki bên đối tác, công việc bên chúng tôi đang tiến triển thuận lợi. Đội phát triển của chúng tôi cũng quyết tâm dựa trên yêu cầu của quý công ty để cung cấp dịch vụ tốt nhất.\n\n[Vấn đề]\nVấn đề hiện tại là về phân bổ ngân sách, trưởng phòng Tanaka có nội dung muốn đề xuất. Chi tiết xin xem phụ lục kèm theo.\n\n[Đề nghị]\nTrong lúc quý công ty bận rộn thật ngại, nhưng chúng tôi xin chờ phản hồi của quý công ty trước cuối tháng sau. Nếu có điểm gì chưa rõ, xin quý công ty cứ thoải mái liên hệ bất cứ lúc nào.\n\nRất mong được giúp đỡ.",
+      "word_count": 401,
+      "difficulty_note": "Báo cáo gửi ra ngoài, CỐ TÌNH cài lỗi tinh vi. Học viên phải tự phát hiện chỗ tôn kính nhầm người Uchi (お持ちで, ご参加いただく) trong khi vẫn nhận ra 'ご〜させていただく' là khiêm nhường ngữ ĐÚNG — đây là ranh giới dễ nhầm nhất của cả bài.",
       "questions": [
         {
           "id": "4-1",
@@ -227,12 +235,12 @@
           "question_vn": "Trong báo cáo này, biểu hiện nào vi phạm quy tắc Uchi/Soto?",
           "choices": {
             "A": "弊社の山田が中心となり、貴社のご指示に従い",
-            "B": "田中課長も、貴社とのプロジェクトに大変関心をお持ちで",
+            "B": "田中課長もこのプロジェクトに大変関心をお持ちで",
             "C": "積極的にご参加いただいています。",
             "D": "予算配分について田中課長がご提案させていただきたい"
           },
-          "answer": "D",
-          "explanation_vn": "Lỗi ở 'ご提案させていただきたい': Đây là hành động của người Uchi (田中課長), không được dùng 'ご' trước hành động của Uchi. Phải dùng '提案させていただきたい' hoặc '提案いたしたい'. 'ご提案' chỉ dùng khi nói về đề xuất từ Soto."
+          "answer": "B",
+          "explanation_vn": "Lỗi ở (B): báo cáo gửi ra ngoài cho đối tác (Soto) nhưng lại tôn kính người nhà. Thứ nhất, giữ chức danh '田中課長' cho người Uchi trước Soto là nâng người công ty mình lên. Thứ hai, 'お持ちで' là tôn kính ngữ (お + V + だ) mô tả trạng thái của 田中 — người Uchi — nên sai chiều; phải viết '田中も本プロジェクトに大変関心を持っており'. (A) đúng: '弊社の山田' bỏ chức danh cho Uchi, 'ご指示' tôn kính chỉ thị của Soto. (C) 'ご参加いただいています' cũng là lỗi nhưng nằm ở vế sau của cùng câu (B) — xem câu 4-2. (D) 'ご提案させていただきたい' hoàn toàn ĐÚNG: 'ご + danh động từ + させていただく' là khiêm nhường ngữ, chính là cách chuẩn để người Uchi hạ mình khi đề xuất với Soto."
         },
         {
           "id": "4-2",
@@ -268,13 +276,13 @@
           "question_ja": "この報告書全体で、修正が必要な箇所は最低何箇所ありますか。主な理由を選んでください。",
           "question_vn": "Trong toàn bộ báo cáo này, tối thiểu có bao nhiêu chỗ cần sửa? Lý do chính là gì?",
           "choices": {
-            "A": "2箇所。Uchi に敬語を使いすぎ。",
+            "A": "2箇所。Uchi の人物に尊敬語を使っている。",
             "B": "3箇所。Uchi/Soto の区別が混乱。",
             "C": "4箇所。複雑な敬語使用エラー。",
             "D": "1箇所。細かい敬語の誤り。"
           },
-          "answer": "B",
-          "explanation_vn": "Có ít nhất 3 lỗi liên quan đến Uchi/Soto: 1) 'ご参加いただいています' — dùng 'いただく' (nhận từ Soto) nhầm cho hành động của chính Uchi (田中課長); 2) 'ご提案させていただきたい' — thêm 'ご' trước hành động của Uchi là sai, vì 'ご〜' ở đây tôn kính đề xuất của Uchi thay vì hạ thấp; 3) 'お持ちで' — dùng tôn kính ngữ 'お持ち' để mô tả trạng thái của Uchi (田中課長), trong khi với Soto mới dùng tôn kính này. Tất cả đều do nhầm lẫn chiều Uchi/Soto."
+          "answer": "A",
+          "explanation_vn": "Còn đúng 2 lỗi Uchi/Soto, đều nằm ở câu về 田中課長: 1) 'お持ちで' — dùng tôn kính ngữ để mô tả trạng thái của người Uchi (田中) trước Soto, kèm việc giữ nguyên chức danh '課長' cho người nhà; 2) 'ご参加いただいています' — 'いただく' nghĩa là nhận ơn từ Soto, nhưng chủ thể tham gia ở đây lại là chính người Uchi, nên sai chiều hoàn toàn; phải viết '積極的に参加しております'. Lưu ý 'ご提案させていただきたい' và 'ご報告させていただきます' KHÔNG phải lỗi: 'ご〜させていただく' là khiêm nhường ngữ hợp lệ cho hành động của Uchi."
         }
       ]
     },
@@ -283,9 +291,11 @@
       "level": 5,
       "level_name": "最上級 / Cấp độ cao nhất",
       "document_type": "会議議事録（社外参加あり）",
-      "situation_vn": "Biên bản họp chính thức có sự hiện diện của nhân viên từ 3 công ty khác nhau (A, B, C). Cần xử lý các tình huống Uchi/Soto phức tạp với nhiều nhóm. Viết mới hoàn toàn 200-250 chữ.",
+      "situation_vn": "Biên bản họp chính thức có sự hiện diện của nhân viên từ 3 công ty khác nhau (A, B, C). Cần xử lý các tình huống Uchi/Soto phức tạp với nhiều nhóm.",
       "passage_ja": "【会議議事録：プロジェクト推進委員会 第5回会議】\n\n日時：2026年4月13日（月）10:00～12:00\n場所：A社 本社 大会議室\nホスト：A社 プロジェクト推進室\n\n参加者一覧：\nA社（開催側・ホスト）：鈴木部長（プロジェクト推進室）、山田課長（営業部）、田中課長（企画部）\nB社（パートナー企業）：佐藤さん（営業部長）、鈴木さん（企画課）\nC社（協力企業）：伊藤さん（営業部）、山本さん（企画室）\n\n【主要議題と決定事項】\n\n第1項目：プロジェクト予算について\nA社の田中課長より、予算案についてご説明させていただきました。B社の佐藤さんから、具体的な予算配分についてお尋ねをいただきました。A社の山田課長が詳しくご説明させていただきました。C社の伊藤さんからも、追加予算の可能性についてご提案をいただき、3社でお話し合いをさせていただきました。決定事項として、総予算は現案のまま承認されることになりました。\n\n第2項目：スケジュール管理\nB社の鈴木さんより、進捗管理ツールの導入について、貴社のご意見をお伺いしたいとのご依頼がございました。A社としましても、C社の山本さんのご指導を参考にさせていただき、最適なツールを選定いたしました。\n\n【今後の予定】\n次回会議：5月11日（日程はB社の佐藤さんに確認させていただく予定）\n成果物提出：各社の担当者より、来月末までに中間報告書をご提出いただきます。\n\n【議論事項】\nA社、B社、C社の3社それぞれの強みを活かし、協働体制を強化することで合意いたしました。\n\n記録者：A社 山田太郎（営業部 課長）",
       "passage_vn": "[Biên bản cuộc họp: Ủy ban thúc đẩy dự án — Cuộc họp lần 5]\n\nThời gian: 10:00 ~ 12:00 thứ Hai ngày 13/4/2026\nĐịa điểm: Phòng họp lớn, trụ sở chính công ty A\nĐơn vị chủ trì: Phòng thúc đẩy dự án công ty A\n\nDanh sách người tham dự:\nCông ty A (bên tổ chức, chủ trì): Trưởng ban Suzuki (phòng thúc đẩy dự án), trưởng phòng Yamada (phòng Kinh doanh), trưởng phòng Tanaka (phòng Kế hoạch)\nCông ty B (doanh nghiệp đối tác): Anh Sato (trưởng ban Kinh doanh), anh Suzuki (phòng Kế hoạch)\nCông ty C (doanh nghiệp hợp tác): Anh Ito (phòng Kinh doanh), anh Yamamoto (phòng Kế hoạch)\n\n[Chủ đề chính và các quyết định]\n\nMục 1: Về ngân sách dự án\nTrưởng phòng Tanaka công ty A đã trình bày về phương án ngân sách. Anh Sato công ty B đã hỏi về việc phân bổ ngân sách cụ thể. Trưởng phòng Yamada công ty A đã giải thích chi tiết. Anh Ito công ty C cũng đề xuất về khả năng có thêm ngân sách bổ sung, và ba công ty đã cùng nhau thảo luận. Về quyết định, tổng ngân sách được phê duyệt giữ nguyên theo phương án hiện tại.\n\nMục 2: Quản lý lịch trình\nAnh Suzuki công ty B đã đề nghị muốn tham khảo ý kiến của quý công ty về việc áp dụng công cụ quản lý tiến độ. Về phía công ty A, chúng tôi cũng đã tham khảo sự hướng dẫn của anh Yamamoto công ty C để chọn lựa công cụ tối ưu.\n\n[Kế hoạch sắp tới]\nCuộc họp lần tới: Ngày 11/5 (lịch cụ thể dự kiến sẽ xác nhận lại với anh Sato công ty B)\nNộp thành phẩm: Người phụ trách của mỗi công ty sẽ nộp báo cáo giữa kỳ trước cuối tháng sau.\n\n[Nội dung thảo luận]\nĐã thống nhất phát huy thế mạnh riêng của từng công ty A, B, C để tăng cường cơ chế hợp tác.\n\nNgười ghi biên bản: Yamada Taro công ty A (trưởng phòng Kinh doanh)",
+      "word_count": 648,
+      "difficulty_note": "Biên bản ba bên A/B/C, mức khó cao nhất. Ngoài Uchi/Soto thông thường còn phải xử lý lỗi quy chiếu: khi thuật lại lời đối tác, đại từ 貴社/弊社 phải đổi theo góc nhìn người ghi biên bản.",
       "questions": [
         {
           "id": "5-1",
@@ -313,7 +323,7 @@
             "D": "C社の山本さんのご指導を参考にさせていただき"
           },
           "answer": "C",
-          "explanation_vn": "Lỗi ở 'お伺いしたい': Đây là hành động của Soto (B社の鈴木さん) được dùng với 'お'. Khi Soto hành động, không được dùng từ tôn kính như 'お伺い'. Phải dùng 'ご意見をいただきたい' hoặc '意見をお聞きしたい' từ góc độ người Uchi. Cách đúng: '意見をお伺いしたい' (người Uchi muốn hỏi Soto)."
+          "explanation_vn": "Lỗi ở (C), nằm ở chữ '貴社'. Biên bản này do A社 ghi. Câu gốc là lời của 鈴木さん (B社) nói với A社, nên '貴社' trong miệng anh ấy chỉ A社. Nhưng người ghi biên bản CHÍNH LÀ A社, chép nguyên si khiến văn bản thành ra A社 tự gọi mình là '貴社' — tự tôn kính công ty mình, vi phạm Uchi/Soto. Khi thuật lại phải quy chiếu về góc nhìn người ghi: '弊社の意見をお伺いしたいとのご依頼がございました'. Cụm 'お伺いしたい' tự thân KHÔNG sai — 伺う là khiêm nhường ngữ chỉ hành động hỏi của người nói (B社 hỏi A社), dùng đúng. (A), (B), (D) đều đúng: 'お尋ねをいただく', 'ご提案をいただく', 'ご指導を参考にさせていただく' đều là nhận hành động từ Soto rồi hạ mình — chuẩn."
         },
         {
           "id": "5-3",
@@ -324,24 +334,24 @@
             "A": "確認させていただく",
             "B": "ご確認してもら",
             "C": "確認していただ",
-            "D": "ご確認させていただ"
+            "D": "ご確認にならせていただ"
           },
           "answer": "A",
-          "explanation_vn": "'確認させていただく' là cách đúng: Người Uchi (A社) xin phép/thực hiện việc xác nhận với Soto (B社の佐藤さん). Không được dùng 'ご' trước vì '確認' ở đây là hành động của Uchi, không phải của Soto. '確認していただく' (để Soto xác nhận cho mình) cũng có thể nhưng kém tự nhiên hơn trong ngữ cảnh này."
+          "explanation_vn": "(A) '確認させていただく' đúng: A社 (Uchi) xin phép thực hiện việc xác nhận lịch với 佐藤さん (Soto) — 'させていただく' là khiêm nhường ngữ chuẩn. (B) 'ご確認してもら' trộn 'ご〜する' (khiêm nhường ngữ, hành động của mình) với 'てもらう' (nhờ người khác làm) → mâu thuẫn chủ thể, và 'もらう' quá suồng sã với đối tác. (C) '確認していただく' nghĩa là nhờ 佐藤さん xác nhận hộ — đảo ngược chủ thể, vì việc đi xác nhận lịch là của A社. (D) 'ご確認にならせていただく' ghép tôn kính ngữ 'ご〜になる' với khiêm nhường ngữ 'させていただく' trong cùng một động từ → vừa tự tôn kính vừa tự hạ mình, kính ngữ hỗn loạn, không tồn tại. Lưu ý: 'ご確認させていただく' (ご + させていただく) tự thân là khiêm nhường ngữ HỢP LỆ; cái sai của (D) nằm ở 'ご〜になる', không phải ở tiền tố 'ご'."
         },
         {
           "id": "5-4",
           "question_type": "comprehensive_multi",
-          "question_ja": "この議事録全体を見て、3社（A・B・C）に対する敬語の使い分けが最も複雑な箇所はどこですか。また、その箇所で何箇所の修正が必要ですか。",
-          "question_vn": "Trong biên bản này, phần nào xử lý Uchi/Soto phức tạp nhất với 3 công ty? Cần sửa bao nhiêu chỗ?",
+          "question_ja": "この議事録全体を見て、3社（A・B・C）に対する敬語の使い分けに誤りがある箇所はどこですか。また、その箇所で何箇所の修正が必要ですか。",
+          "question_vn": "Xét toàn bộ biên bản, chỗ nào dùng sai kính ngữ khi phân biệt 3 công ty (A/B/C)? Và chỗ đó cần sửa bao nhiêu điểm?",
           "choices": {
             "A": "第1項目。決定事項の部分で、3社の立場が混在。最小2-3箇所修正。",
-            "B": "第2項目。B社とC社の立場を区別せず混乱。最小1箇所修正。",
-            "C": "【議論事項】の部分。A社自身についての記述で敬語誤用。最小1箇所修正。",
-            "D": "成果物提出の部分。各社の立場が不明確。最小2箇所修正。"
+            "B": "成果物提出の部分。各社の立場が不明確。最小2箇所修正。",
+            "C": "第2項目。A社が記録した文中で自社を「貴社」と呼んでいる。最小1箇所修正。",
+            "D": "【議論事項】の部分。A社自身についての記述で敬語誤用。最小1箇所修正。"
           },
-          "answer": "A",
-          "explanation_vn": "第1項目 là phần phức tạp nhất vì cần xử lý 3 công ty cùng một lúc: A社 (Uchi - người Uchi), B社 và C社 (đều là Soto). Có các lỗi như 'ご説明させていただきました' (Uchi không được dùng 'ご') và 'お話し合い' không phù hợp với Soto. Cần ít nhất 2-3 lần sửa để cân bằng Uchi/Soto cho 3 công ty."
+          "answer": "C",
+          "explanation_vn": "(C) ĐÚNG. Ở 第2項目, câu 'B社の鈴木さんより…貴社のご意見をお伺いしたいとのご依頼がございました' chép nguyên lời của 鈴木さん (B社). Trong miệng anh ấy '貴社' chỉ A社, nhưng biên bản này do chính A社 ghi, nên đọc lên thành A社 tự gọi mình là '貴社' — tự tôn kính bên mình, sai Uchi/Soto. Chỉ cần sửa 1 chỗ: đổi '貴社' thành '弊社'. (A) sai: 第1項目 tuy có 3 bên nhưng dùng đúng — 'ご説明させていただきました' là khiêm nhường ngữ hợp lệ cho A社, 'お尋ねをいただく / ご提案をいただく' là nhận hành động từ B社・C社 (Soto), đều chuẩn. (B) và (D) sai: hai phần đó không có lỗi kính ngữ nào."
         }
       ]
     }
@@ -349,20 +359,21 @@
   "learning_notes": {
     "uchi_soto_summary": "内/外ルール (Uchi/Soto Rule) là quy tắc phân biệt cách nói về người bên trong công ty (Uchi) và bên ngoài (Soto) khi giao tiếp với khách hàng hoặc đối tác (Soto). Trong biên bản/tài liệu chính thức gửi ra ngoài, quy tắc này cần tuân thủ chặt chẽ nhất.",
     "key_points": [
-      "Khi nói về Uchi với Soto: không dùng từ tôn kính. Chỉ dùng tên trần, tên + chức vụ, hoặc tên + さん (trong hội thoại không chính thức).",
+      "Khi nói về Uchi với Soto: bỏ hết kính ngữ hướng vào người nhà. Chỉ dùng tên trần (田中) hoặc chức danh + tên theo dạng '部長の山田'. Tuyệt đối không dùng さん, và không giữ chức danh đứng sau tên (山田部長).",
+      "PHÂN ĐỊNH THEO LOẠI VĂN BẢN — điểm dễ nhầm nhất: (a) Email/FAX/lời nói GỬI THẲNG cho Soto → siết chặt nhất, bỏ hẳn chức danh đứng sau tên: viết '弊社の鈴木', không viết '弊社の鈴木部長'. (b) Biên bản họp, báo cáo LƯU HỒ SƠ (dù có Soto tham dự) → được giữ chức danh để phân biệt vai trò người tham dự: '鈴木部長', '山田課長' là chấp nhận được, vì đây là văn bản ghi chép chứ không phải lời nói hướng thẳng vào Soto. Điểm chung của cả hai: TUYỆT ĐỐI không さん cho người Uchi, và không dùng tôn kính ngữ cho hành động của Uchi.",
       "Khi nói về Soto với Uchi: dùng từ tôn kính. Dùng さん, 様, chức vụ + 様, hoặc biểu hiện tôn kính.",
       "Không dùng 'さん' hoặc 'さま' cho Uchi khi nói với Soto. 'さん' là từ tôn kính dành cho Soto.",
-      "Không dùng 'お' hoặc 'ご' trước động từ liên quan đến Uchi khi nói với Soto. Ví dụ: 'ご参加いただく' là sai khi Uchi hành động.",
+      "Phân biệt HAI chức năng của tiền tố 'お/ご' theo kết cấu đi kèm, đừng nhìn mỗi tiền tố: 'お/ご + V + になる' là TÔN KÍNH NGỮ → chỉ dùng cho Soto; còn 'お/ご + V + する/いたす/させていただく' là KHIÊM NHƯỜNG NGỮ → chính là cách chuẩn để Uchi hạ mình. Vì vậy 'ご説明いたします', 'ご報告させていただきます', 'お送りいたします' đều ĐÚNG khi người Uchi hành động. Riêng 'ご参加いただく' mới sai, nhưng sai vì 'いただく' nghĩa là nhận ơn từ Soto — không dùng được khi chủ thể tham gia là chính người Uchi.",
       "Trong email/tài liệu chính thức: tuân thủ Uchi/Soto rule chặt chẽ. Trong hội thoại không chính thức: có thể linh động hơn nhưng vẫn cần cẩn thận.",
       "Khi giao tiếp với nhiều công ty (3+ công ty): mỗi công ty có Uchi/Soto tương ứng. A社 = Uchi, B社 = Soto, C社 = Soto. Cần làm rõ vị trí từng bên."
     ],
     "common_mistakes": [
       "Dùng 'さん' cho Uchi (sai)",
-      "Dùng 'お/ご' trước hành động của Uchi (sai)",
-      "Dùng 'ご提案' khi Uchi đề xuất với Soto (sai, phải 'ご提案' khi Soto đề xuất, còn Uchi dùng '提案')",
-      "Dùng 'おります' cho hành động của Uchi (tôn kính quá mức)",
+      "Dùng 'お/ご + V + になる' (tôn kính ngữ) cho người Uchi khi nói với Soto — ví dụ 'お持ちです', 'ご確認になる' để tả sếp mình trước mặt khách (sai, phải hạ mình)",
+      "Giữ chức danh cho người Uchi khi nói với Soto: '弊社の山田部長' (sai, phải là '弊社の山田' hoặc '部長の山田')",
+      "Dùng 'される/られる' hoặc 'いらっしゃる' cho hành động của Uchi trước Soto — ví dụ '山田さんは外出されています' (sai, phải '山田は外出しております')",
       "Nhầm lẫn giữa '伝言' (không tôn kính) và 'ご伝言' (tôn kính Soto)",
-      "Dùng 'ご指導を受ける' khi Uchi nhận hướng dẫn từ Soto (phải 'ご指導を参考にさせていただく')",
+      "Chép nguyên lời của đối tác vào biên bản khiến công ty mình tự gọi mình là '貴社/御社' (phải quy chiếu lại thành '弊社')",
       "Trong biên bản có nhiều Soto: quên đặt 'ご' cho từ tôn kính Soto"
     ]
   }

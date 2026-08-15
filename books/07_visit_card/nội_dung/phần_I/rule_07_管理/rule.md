@@ -42,7 +42,7 @@ Tối cùng ngày sự kiện 大垣 + 松本 + 中村 đến thăm, Dũng yêu 
 | **リン** | 「**『Phase 4 <ruby>予算<rt>よさん</rt></ruby><ruby>上限<rt>じょうげん</rt></ruby>を 1,500<ruby>万円<rt>まんえん</rt></ruby>で<ruby>気<rt>き</rt></ruby>にしている。Q3 <ruby>決算後<rt>けっさんご</rt></ruby>に<ruby>再検討<rt>さいけんとう</rt></ruby>と<ruby>発言<rt>はつげん</rt></ruby>』**【3】 — これでいいですか？」 <br/>*'Phase 4 quan tâm trần budget 15 triệu yên. Phát biểu sẽ xem xét lại sau quyết toán Q3' — vậy được chưa anh?* |
 | **ズン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。トゥアン<ruby>先輩<rt>せんぱい</rt></ruby>・フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>にも<ruby>共有<rt>きょうゆう</rt></ruby>して。<ruby>明朝<rt>みょうちょう</rt></ruby>のお<ruby>礼<rt>れい</rt></ruby>メールにこの context <ruby>入<rt>い</rt></ruby>れる。」 <br/>*Hoàn hảo. Em chia sẻ cho cả anh Tuấn + chị Hương phó phòng. Mail cảm ơn sáng mai sẽ nhét bối cảnh này vào.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**24時間ルール** — não người quên 70% bối cảnh sau 24h. Nhập trong cùng ngày = giữ chi tiết. Sau 3 ngày = chỉ còn chung chung.
 - 【2】**Ghi chú bối cảnh 1 dòng/người** — không cần dài. Công thức: "chủ đề họ quan tâm + câu nói đặc trưng họ nói + việc tiếp theo nào". Đủ để 6 tháng sau gặp lại = nhớ ngay bối cảnh.
 - 【3】**Câu trích dẫn cụ thể** — "Phase 4 予算上限 1,500万円 で気にしている" >> "Phase 4 quan tâm" — câu cụ thể giúp email tiếp theo dẫn lại đúng = chứng minh "tôi nghe và nhớ".

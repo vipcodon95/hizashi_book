@@ -4,7 +4,7 @@
 >
 > 持ち帰り運用5ステップ：①社内DB化 ②owner+期限(顧客約束より1日前)③社内会議 ④期限前日報告 ⑤客への回答。約束した『来週水曜』なら社内では『火曜EOD』。
 >
-> **Liên quan:** Sách 03 rule 25 (持ち帰り検討), rule 32 (持ち帰り bàn nội bộ). Rule 27 (DR), rule 39 (チーム文化).
+> **Liên quan:** Sách 03 rule 25 (持ち帰り検討), rule 32 (結論先送り). Rule 27 (DR), rule 39 (チーム文化).
 
 ---
 
@@ -34,18 +34,18 @@ Cuộc họp với khách xong, Dũng đã hứa anh Matsumoto: "**Phase 2 chố
 | Vai / Tình huống | Câu |
 |---------|-----|
 | **ズン** *(Thứ Hai 19h, sau họp Matsumoto)* | *(Notion #持ち帰りボード に<ruby>新規<rt>しんき</rt></ruby>チケット)*
-  「**TICKET-MOCH-2026-0421**: Phase 2 lock cost <ruby>回答<rt>かいとう</rt></ruby> / **<ruby>顧客約束<rt>こきゃくやくそく</rt></ruby>**: 4/24 (水) EOD / **<ruby>社内期限<rt>しゃないきげん</rt></ruby>**: 4/23 (火) EOD【1】 / **owner**: ズン / **<ruby>必要参加者<rt>ひつようさんかしゃ</rt></ruby>**: ハーCTO + フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby> + トゥアン / **<ruby>判断材料<rt>はんだんざいりょう</rt></ruby>**: 3社<ruby>見積<rt>みつもり</rt></ruby> + <ruby>過去<rt>かこ</rt></ruby>Phase1<ruby>実績<rt>じっせき</rt></ruby> / **ステータス**: open」 |
+  「**TICKET-MOCH-2026-0421**: Phase 2 lock cost <ruby>回答<rt>かいとう</rt></ruby> / **<ruby>顧客約束<rt>こきゃくやくそく</rt></ruby>**: 4/24 (金) EOD / **<ruby>社内期限<rt>しゃないきげん</rt></ruby>**: 4/23 (木) EOD【1】 / **owner**: ズン / **<ruby>必要参加者<rt>ひつようさんかしゃ</rt></ruby>**: ハーCTO + フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby> + トゥアン / **<ruby>判断材料<rt>はんだんざいりょう</rt></ruby>**: 3社<ruby>見積<rt>みつもり</rt></ruby> + <ruby>過去<rt>かこ</rt></ruby>Phase1<ruby>実績<rt>じっせき</rt></ruby> / **ステータス**: open」 |
 |  | *(Thứ Hai 19h, mở ticket Notion) TICKET-MOCH-2026-0421: Phản hồi chốt báo giá Phase 2 / Hứa khách: cuối ngày thứ Tư 24/4 / Hạn chót nội bộ: cuối ngày thứ Ba 23/4 / Người phụ trách: Dũng / Người cần dự: Hà CTO + chị Hương + anh Tuấn / Dữ kiện: 3 báo giá + thực tích Phase 1 / Trạng thái: đang mở.* |
 | **ズン** *(Slack #内部相談)* | 「@ハーCTO @フオン @トゥアン <ruby>火曜<rt>かよう</rt></ruby> (4/23) 11:00-11:30 で<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>相談<rt>そうだん</rt></ruby>セットしました。アジェンダと<ruby>判断材料<rt>はんだんざいりょう</rt></ruby>は TICKET-MOCH-2026-0421 をご<ruby>確認<rt>かくにん</rt></ruby>ください【2】。」 |
 |  | *(Slack #naibu-soudan) @anh Hà CTO @chị Hương @anh Tuấn em đã lên lịch buổi tham vấn lúc 11:00-11:30 thứ Ba (23/4). Nội dung họp và dữ kiện em đã ghi trong TICKET-MOCH-2026-0421 ạ.* |
 | **ズン** *(火曜 11:30, 会議後)* | 「<ruby>決定<rt>けってい</rt></ruby>: <ruby>案<rt>あん</rt></ruby>B (¥18M)。Decision Register DR-2026-0423 <ruby>起票<rt>きひょう</rt></ruby>。**<ruby>月曜<rt>げつよう</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby><ruby>通<rt>どお</rt></ruby>り、<ruby>明日<rt>あした</rt></ruby> EOD までに<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>へ<ruby>回答<rt>かいとう</rt></ruby>メール<ruby>送付<rt>そうふ</rt></ruby>します**【3】。」 |
 |  | *(Thứ Ba 11:30, sau họp) Quyết: phương án B (¥18M). Mở DR-2026-0423 trong Sổ ghi quyết định. Đúng lịch thứ Hai, em sẽ gửi mail phản hồi anh Matsumoto trước cuối ngày mai ạ.* |
-| **ズン** *(水曜 16:00, メール松本様)* | 「<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>、お<ruby>世話<rt>せわ</rt></ruby>になっております。<ruby>先日<rt>せんじつ</rt></ruby>お<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りした Phase 2 lock cost の<ruby>件<rt>けん</rt></ruby>、<ruby>社内<rt>しゃない</rt></ruby><ruby>検討<rt>けんとう</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>、**¥18M でご<ruby>提案<rt>ていあん</rt></ruby>させていただけますでしょうか**。<ruby>詳細<rt>しょうさい</rt></ruby>は<ruby>添付<rt>てんぷ</rt></ruby>ファイルをご<ruby>確認<rt>かくにん</rt></ruby>くださいませ。Phase 2 <ruby>内<rt>ない</rt></ruby> cost lock いただけますと<ruby>幸<rt>さいわ</rt></ruby>いです【4】。」 |
+| **ズン** *(水曜 16:00, メール松本様)* | 「<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>、お<ruby>世話<rt>せわ</rt></ruby>になっております。<ruby>先日<rt>せんじつ</rt></ruby>お<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りした Phase 2 lock cost の<ruby>件<rt>けん</rt></ruby>、<ruby>社内<rt>しゃない</rt></ruby><ruby>検討<rt>けんとう</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>、**¥18M でご<ruby>提案<rt>ていあん</rt></ruby><ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます**。<ruby>詳細<rt>しょうさい</rt></ruby>は<ruby>添付<rt>てんぷ</rt></ruby>ファイルをご<ruby>確認<rt>かくにん</rt></ruby>くださいませ。Phase 2 <ruby>内<rt>ない</rt></ruby> cost lock いただけますと<ruby>幸<rt>さいわ</rt></ruby>いです【4】。」 |
 |  | *(Thứ Tư 16h, mail) Anh Matsumoto, lúc nào cũng cảm ơn anh. Việc chốt báo giá Phase 2 hôm trước em đã mang về, sau khi tham vấn nội bộ, em xin đề xuất ¥18M ạ. Chi tiết em đính kèm file. Mong anh chốt báo giá cho Phase 2 ạ.* |
 | **松本PM** *(水曜 17:00)* | 「ご<ruby>回答<rt>かいとう</rt></ruby>ありがとうございます。<ruby>約束<rt>やくそく</rt></ruby><ruby>通<rt>どお</rt></ruby>りの<ruby>期日<rt>きじつ</rt></ruby>でしたね。<ruby>社内<rt>しゃない</rt></ruby>で<ruby>検収<rt>けんしゅう</rt></ruby>しまして<ruby>金曜<rt>きんよう</rt></ruby>までにお<ruby>返事<rt>へんじ</rt></ruby>します。」 |
 |  | *Cảm ơn em đã phản hồi. Đúng ngày hứa nhỉ. Tôi sẽ kiểm tra nội bộ và phản hồi trước thứ Sáu.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**社内期限 = 顧客期限 - 1日** — khoảng đệm chuẩn. Tránh trường hợp L4 trên (quên).
 - 【2】**TICKET ID + link nội dung họp** — không làm loạn Slack bằng chi tiết. 1 mục là nguồn tham chiếu duy nhất.
 - 【3】**「月曜の予定通り」** — đảm bảo tiến độ so với lời hứa với khách. Báo cáo nội bộ rõ.

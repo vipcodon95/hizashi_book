@@ -44,7 +44,7 @@ Bài thuyết trình Phase 3 sắp kết thúc. Q&A đã xong. Chuẩn bị slid
 | **大垣** | 「問題ない。5/8 で進めましょう。」 <br/>*Không vấn đề. Đi 8/5 đi.* |
 | **ズン** | 「ありがとうございます。本日のスライド + <ruby>議事<rt>ぎじ</rt></ruby>メモは **24時間以内に** メールでお送りいたします。本日はお時間<ruby>頂戴<rt>ちょうだい</rt></ruby>し、<ruby>誠<rt>まこと</rt></ruby>にありがとうございました。」 <br/>*Em cảm ơn ạ. Slide hôm nay + memo họp em sẽ gửi mail trong vòng 24h ạ. Hôm nay xin chân thành cảm ơn quý vị đã dành thời gian ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「本日のまとめ」** — slide tóm tắt lại phải có tiêu đề rõ. Khán giả tự động tập trung chú ý hơn.
 - 【2】**「次のステップは3つ」** — Lời kêu gọi hành động đánh số. Mỗi bước: hành động + người phụ trách + hạn chót. 3 bước là điểm vừa đẹp (1 quá ít, 5+ quá nhiều).
 - 【3】**「ご都合いかがでしょうか」** — chốt lịch họp tiếp ngay tại chỗ. Nếu khách đồng ý → xong; nếu không → dời lịch trong tuần.

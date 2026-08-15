@@ -37,7 +37,7 @@ Tối hôm trước đàm phán, Hương xem lại kế hoạch nhượng bộ c
 | **ズン** | 「<ruby>断<rt>ことわ</rt></ruby>られたら ¥17.5M も<ruby>引<rt>ひ</rt></ruby>っ<ruby>込<rt>こ</rt></ruby>めて Step 1 に<ruby>戻<rt>もど</rt></ruby>ります【3】。**<ruby>譲歩<rt>じょうほ</rt></ruby>は trade とセット、trade <ruby>拒否<rt>きょひ</rt></ruby>は<ruby>譲歩取<rt>じょうほと</rt></ruby>り<ruby>下<rt>さ</rt></ruby>げ**。」 <br/>*Bị từ chối thì em rút ¥17.5M, quay về Bước 1 ạ. Nhượng bộ luôn đi cùng điều kiện đổi — điều kiện bị từ chối thì rút nhượng bộ.* |
 | **フオン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。これ trade-back <ruby>原則<rt>げんそく</rt></ruby>。<ruby>事例公開許可<rt>じれいこうかいきょか</rt></ruby>は marketing <ruby>側<rt>がわ</rt></ruby>の<ruby>価値<rt>かち</rt></ruby>あるから<ruby>入<rt>い</rt></ruby>れていい。」 <br/>*Hoàn hảo. Đó là nguyên tắc rút điều kiện ngược. Quyền công bố tình huống thực tế có giá trị truyền thông nên đưa vào được.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**5 bậc + điều kiện đổi mỗi nấc** — 譲歩の各段に必ず引き換え条件を1つ以上.
 - 【2】**Các loại điều kiện đổi**: kéo dài thời hạn hợp đồng, giảm phạm vi, điều kiện thanh toán (net 60→net 30), công bố tình huống thực tế, điều khoản loại trừ đối thủ, thời gian độc quyền, phí giới thiệu, đẩy chức năng bổ sung sang giai đoạn sau.
 - 【3】**Nguyên tắc rút điều kiện ngược**: điều kiện đổi bị từ chối thì rút cả nhượng bộ. Không có nguyên tắc này → nhượng bộ một chiều.

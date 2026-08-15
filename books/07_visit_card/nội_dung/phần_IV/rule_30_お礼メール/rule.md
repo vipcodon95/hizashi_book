@@ -37,7 +37,7 @@ Sáng sau bữa tối Q1 lúc 8:30. Dũng cần gửi mail cảm ơn tới Ōgak
 | **ズン** | 「はい、『<ruby>次回<rt>じかい</rt></ruby>はぜひ<ruby>当方<rt>とうほう</rt></ruby>からも<ruby>東京<rt>とうきょう</rt></ruby>へお<ruby>伺<rt>うかが</rt></ruby>いし、5<ruby>月<rt>がつ</rt></ruby>のお<ruby>花見<rt>はなみ</rt></ruby>の<ruby>頃<rt>ころ</rt></ruby>に<ruby>改<rt>あらた</rt></ruby>めて』と<ruby>入<rt>い</rt></ruby>れています。」【4】 <br/>*Vâng, em viết 'lần sau em xin đến thăm Tokyo, khoảng tháng 5 mùa hoa anh đào sẽ liên hệ lại ạ'.* |
 | **ハーCTO** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。8<ruby>時<rt>じ</rt></ruby>に<ruby>送信<rt>そうしん</rt></ruby>して、<ruby>午後<rt>ごご</rt></ruby>にハーから<ruby>中村<rt>なかむら</rt></ruby>CFOへ<ruby>補足<rt>ほそく</rt></ruby>の<ruby>謝意<rt>しゃい</rt></ruby>メールも<ruby>送<rt>おく</rt></ruby>る。」 <br/>*Hoàn hảo. 8h gửi nhé. Chiều anh sẽ gửi mail bổ sung cảm ơn anh CFO Nakamura.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Lý tưởng = sáng hôm sau vừa đến cty 8-9h** — trước khi sang ngày mới = tươi + dấu hiệu chỉn chu. 24h là giới hạn cứng.
 - 【2】**To = cá nhân từng người. CC = sếp mình + thư ký khách / Tanaka PMO. BCC = đại kỵ** — khách Nhật kiểm tra tiêu đề mail thấy BCC sẽ giảm điểm.
 - 【3】**Trích 1-2 điểm cụ thể từ buổi tối** = dấu hiệu "tôi nghe kỹ". Cá nhân hóa đáng nhớ → tăng nhiệt. Mỗi mail có 1-2 chi tiết riêng cho người đó.
@@ -91,7 +91,7 @@ TEL: 〇〇
 E-mail: 〇〇
 ```
 
-**Ghi chú:** Lý tưởng = gửi 8-9h sáng hôm sau. To riêng + CC sếp, BCC = đại kỵ. Trích 1-2 chủ đề cụ thể + hẹn lần sau để giữ "nhiệt". Dài quá NG (cỡ 200-300 chữ JP).
+📝 **Ghi chú:** Lý tưởng = gửi 8-9h sáng hôm sau. To riêng + CC sếp, BCC = đại kỵ. Trích 1-2 chủ đề cụ thể + hẹn lần sau để giữ "nhiệt". Dài quá NG (cỡ 200-300 chữ JP).
 
 ---
 

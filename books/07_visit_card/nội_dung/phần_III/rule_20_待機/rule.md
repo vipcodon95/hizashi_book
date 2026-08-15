@@ -44,7 +44,7 @@
 | **中村CFO** | 「お<ruby>待<rt>ま</rt></ruby>たせいたしました、中村です。」 <br/>*Xin lỗi đã để các anh chờ, tôi là Nakamura.* |
 | **ズン + トゥアン** | 「**お<ruby>忙<rt>いそが</rt></ruby>しいところ、お<ruby>時間<rt>じかん</rt></ruby><ruby>頂戴<rt>ちょうだい</rt></ruby>いたしまして<ruby>恐縮<rt>きょうしゅく</rt></ruby>でございます**【4】。」 <br/>*Anh bận rộn mà dành thời gian cho em, em ngại quá ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「下座でお待ちいたします」** — chủ động báo "tôi sẽ ngồi 下座" = mượn câu này để KHÔNG bị mời nhầm 上座. Tanaka thấy = ấn tượng "nhân viên trẻ được đào tạo bài bản".
 - 【2】**Lưng thẳng, tay trên gối** — KHÔNG dựa lưng ghế. KHÔNG bắt chéo chân. Hai bàn tay đặt nhẹ trên gối hoặc trên bàn.
 - 【3】**Điện thoại + máy tính đều tắt** — điện thoại để chế độ rung, cất trong túi. Máy tính trong cặp. Đợi cấp trên đến, mở máy tính CHỈ khi được mời "資料ご準備ください".

@@ -39,9 +39,9 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng họp 
 |  | *Obon trọng tâm cúng tổ tiên đúng không. Trung thu VN trọng tâm 'thế hệ kế tiếp' — không khí ngược 180°. Tối trẻ con cầm đèn ông sao đỏ, xem múa lân đi quanh phố.* |
 | **松本** | 「ええ、<ruby>可愛<rt>かわい</rt></ruby>い!月餅は日本にもあるけど、ベトナムのは違うの?」 |
 |  | *Ơ, dễ thương! Bánh trung thu Nhật cũng có, VN khác à?* |
-| **ズン** | 「**バインチュンチュー(Bánh Trung Thu)**、表面にお花の<ruby>模様<rt>もよう</rt></ruby>で、中身は**<ruby>蓮<rt>はす</rt></ruby>の実、カラスミ<ruby>卵黄<rt>らんおう</rt></ruby>、<ruby>緑豆<rt>りょくとう</rt></ruby>あん、カスタード**等。**カラスミ入り**は日本人<ruby>結構<rt>けっこう</rt></ruby><ruby>衝撃<rt>しょうげき</rt></ruby>受けます(笑)。」 |
+| **ズン** | 「**バインチュンチュー(Bánh Trung Thu)**、表面にお花の<ruby>模様<rt>もよう</rt></ruby>で、中身は**<ruby>蓮<rt>はす</rt></ruby>の実、<ruby>塩漬<rt>しおづ</rt></ruby>け<ruby>卵黄<rt>らんおう</rt></ruby>、<ruby>緑豆<rt>りょくとう</rt></ruby>あん、カスタード**等。**<ruby>塩漬<rt>しおづ</rt></ruby>け<ruby>卵黄<rt>らんおう</rt></ruby><ruby>入<rt>い</rt></ruby>り**は日本人<ruby>結構<rt>けっこう</rt></ruby><ruby>衝撃<rt>しょうげき</rt></ruby>受けます(笑)。」 |
 |  | *Bánh Trung Thu, mặt có hoa văn, nhân hạt sen / trứng muối / đậu xanh / custard. Loại trứng muối nhiều người Nhật khá sốc (cười).* |
-| **松本** | 「カラスミ?それは食べてみたい!」 |
+| **松本** | 「<ruby>塩漬<rt>しおづ</rt></ruby>け<ruby>卵黄<rt>らんおう</rt></ruby>?それは食べてみたい!」 |
 |  | *Trứng muối! Tôi muốn thử!* |
 
 > **VN:** So sánh "Trung thu = Tết trẻ con / Obon = lễ tổ tiên" → khách Nhật lập tức phân biệt được và thấy thú vị.
@@ -132,7 +132,7 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng họp 
 「9月7日は中秋節、ベトナムの子供のお祭りです。」
 「お盆と違って『次世代』が中心で、雰囲気が180度違います。」
 「子供たちが赤い星型の提灯を持って獅子舞を見ながら街を歩きます。」
-「Bánh Trung Thu(月餅)はカラスミ入りもあって衝撃受けます(笑)」
+「Bánh Trung Thu(月餅)は<ruby>塩漬<rt>しおづ</rt></ruby>け<ruby>卵黄<rt>らんおう</rt></ruby><ruby>入<rt>い</rt></ruby>りもあって衝撃受けます(笑)」
 
 ■ HÙNG VƯƠNG:
 「フンヴオン王の命日、4000年前の初代王様の命日で祝日です。」
@@ -176,7 +176,7 @@ Tháng 9/2026, lịch trùng Trung thu VN (15/8 âm = 7/9 dương). Dũng họp 
 | シルバーウィーク | シルバーウィーク | — | Tuần nghỉ tháng 9 JP (dùng để bắc cầu) |
 | 端午の節句 | たんごのせっく | ĐOAN NGỌ TIẾT CÚ | Tết Đoan Ngọ JP (5/5) |
 | 七夕 | たなばた | THẤT TỊCH | Tết thất tịch / Tết Ngâu |
-| カラスミ | カラスミ | — | Trứng cá muối (bắc cầu sang trứng muối VN) |
+| 塩漬け卵黄 | しおづけらんおう | DIÊM TÍCH NOÃN HOÀNG | Lòng đỏ trứng (vịt) muối — nhân bánh trung thu VN. ⚠️ KHÔNG dùng カラスミ: đó là trứng cá đối muối khô, món khác hẳn |
 
 ---
 

@@ -37,7 +37,7 @@ Em Dũng họp với anh Hà CTO về tình hình Phase 2. Lần đầu Dũng b�
 | **ズン** | 「**<ruby>回答者<rt>かいとうしゃ</rt></ruby>は12<ruby>名<rt>めい</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>10名**（<ruby>回答率<rt>かいとうりつ</rt></ruby>83%）です【3】。サンプル<ruby>数<rt>すう</rt></ruby>が<ruby>小<rt>ちい</rt></ruby>さい<ruby>点<rt>てん</rt></ruby>、<ruby>私見<rt>しけん</rt></ruby>では<ruby>今後<rt>こんご</rt></ruby>3ヶ<ruby>月<rt>げつ</rt></ruby>で30名<ruby>以上<rt>いじょう</rt></ruby>に<ruby>拡大<rt>かくだい</rt></ruby><ruby>予定<rt>よてい</rt></ruby>です。」 <br/>*Có 10/12 người trả lời (tỉ lệ 83%) ạ. Cỡ mẫu còn nhỏ, theo ý em, 3 tháng tới sẽ mở rộng lên trên 30 người ạ.* |
 | **ハーCTO** | 「数字の<ruby>根拠<rt>こんきょ</rt></ruby>が<ruby>明確<rt>めいかく</rt></ruby>で良い。Phase 3 予算、<ruby>承認<rt>しょうにん</rt></ruby>します。」 <br/>*Cơ sở số liệu rõ ràng, tốt. Anh duyệt ngân sách Phase 3 nhé.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「1.2秒 → 0.4秒（-67%）」** — before/after kèm % thay đổi. CTO lướt 1 giây hiểu tác động.
 - 【2】**「+12 から +38 へ」** — số tuyệt đối + mức chênh. Không "改善した" mơ hồ.
 - 【3】**「12名中10名（回答率83%）」** — nói rõ cỡ mẫu (số người tham gia). Số đẹp mà cỡ mẫu n=3 thì... vô nghĩa.

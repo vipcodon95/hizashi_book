@@ -74,7 +74,7 @@ Tháng 12/2026, bữa tối ở Tokyo. Vợ chồng Matsumoto sẽ đi 5 ngày V
 | Vai | Câu |
 |---------|-----|
 | **田中** | 「タヒエン<ruby>通<rt>どお</rt></ruby>り、ベトナムのナイトライフの<ruby>聖地<rt>せいち</rt></ruby>って聞いたんだけど、行ってみたい。」 |
-|  | *Phố Tạ Hiện, nghe nói là thánh địa cuộc vui về đêm của Việt Nam, em muốn đi thử.* |
+|  | *Phố Tạ Hiện, nghe nói là thánh địa cuộc vui về đêm của Việt Nam, tôi muốn đi thử.* |
 | **ズン** | 「タヒエンですね、行けます。**3つ<ruby>事前<rt>じぜん</rt></ruby>に<ruby>共有<rt>きょうゆう</rt></ruby>させてください**。**①<ruby>音量<rt>おんりょう</rt></ruby><ruby>爆音<rt>ばくおん</rt></ruby>**(クラブ<ruby>並<rt>な</rt></ruby>み)、**②ぼったくりバー<ruby>注意<rt>ちゅうい</rt></ruby>**、**③スリ注意**。」 |
 |  | *Tạ Hiện được ạ. Có 3 điều em muốn chia sẻ trước. ① Âm lượng cực to (như club), ② cẩn thận bar chặt chém, ③ cẩn thận móc túi.* |
 | **田中** | 「クラブ並み?」 |
@@ -86,7 +86,7 @@ Tháng 12/2026, bữa tối ở Tokyo. Vợ chồng Matsumoto sẽ đi 5 ngày V
 | **ズン** | 「はい、**ビアホイ(Bia hơi)**って<ruby>地<rt>じ</rt></ruby>ビール<ruby>屋外<rt>おくがい</rt></ruby>バー<ruby>文化<rt>ぶんか</rt></ruby>で、**プラスチック<ruby>椅子<rt>いす</rt></ruby>+<ruby>生樽<rt>なまだる</rt></ruby>ビール**。<ruby>但<rt>ただ</rt></ruby>し**<ruby>外国人価格<rt>がいこくじんかかく</rt></ruby>に上がりやすい**ので、メニュー写真<ruby>撮<rt>と</rt></ruby>るのが安全。」 |
 |  | *Vâng, 'bia hơi' là văn hóa bia tươi vỉa hè — ghế nhựa, bia bom tươi. Nhưng giá cho người nước ngoài dễ bị đẩy lên, nên chụp ảnh menu cho an toàn.* |
 | **田中** | 「写真撮るね。スリは?」 |
-|  | *Em sẽ chụp. Còn móc túi?* |
+|  | *Tôi sẽ chụp. Còn móc túi?* |
 | **ズン** | 「**バックパック<ruby>前持<rt>まえも</rt></ruby>ち+iPhone<ruby>内<rt>うち</rt></ruby>ポケット**。**<ruby>現金<rt>げんきん</rt></ruby>は1<ruby>日分<rt>にちぶん</rt></ruby>だけ**で、**カード<ruby>持参<rt>じさん</rt></ruby>しない**のが<ruby>鉄則<rt>てっそく</rt></ruby>。Grab呼んで<ruby>戻<rt>もど</rt></ruby>る時は**<ruby>正規<rt>せいき</rt></ruby>Grabかドライバー<ruby>名<rt>めい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>**を。」 |
 |  | *Balo đeo trước + iPhone túi trong. Tiền mặt chỉ mang đủ 1 ngày, không mang thẻ — đó là quy tắc vàng. Gọi Grab về thì phải kiểm tra đúng Grab chính hãng và tên tài xế.* |
 | **田中** | 「全部メモ。サイゴンの方は?」 |

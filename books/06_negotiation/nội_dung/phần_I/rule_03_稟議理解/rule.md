@@ -40,7 +40,7 @@ Trong meeting nội bộ ティエンファット, Tuấn lo lắng vì sau pitc
 | **ズン** | 「<ruby>了解<rt>りょうかい</rt></ruby>です。明日松本さんに『稟議のご<ruby>検討<rt>けんとう</rt></ruby>にあたり、何か追加情報<ruby>必要<rt>ひつよう</rt></ruby>でしたらお<ruby>声<rt>こえ</rt></ruby>がけください』とメールします。**催促ではなく support 姿勢**で。」 <br/>*Em rõ ạ. Mai em mail anh Matsumoto 'xin liên hệ nếu cần bổ sung thông tin cho việc thảo luận ringi'. Tư thế support, không hối thúc ạ.* |
 | **フオン** | 「正解。決めるのは大垣さんでも松本さんでもなく、**社内<ruby>合意<rt>ごうい</rt></ruby>の<ruby>総和<rt>そうわ</rt></ruby>**。<ruby>我々<rt>われわれ</rt></ruby>はそれを<ruby>助<rt>たす</rt></ruby>ける。」 <br/>*Chuẩn. Người quyết không phải anh Ōgaki hay anh Matsumoto, mà là tổng đồng thuận nội bộ. Mình hỗ trợ chuyện đó.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Chu kỳ ringi 2-3 tuần là bình thường** — hợp đồng càng lớn càng lâu (¥18M thì 3-4 tuần). Nếu trả lời trong 1 tuần thì ngược lại là dấu hiệu "không xét nghiêm túc".
 - 【2】**根回し (nemawashi)** = đi gặp riêng từng người chủ chốt trước khi văn bản chính thức (ringi-sho) chuyền tay. Đây là không chính thức nhưng quyết định chính.
 - 【3】**Hỗ trợ nemawashi** = đưa cho người liên hệ (Matsumoto) tài liệu/luận điểm để họ nói với các nhân vật then chốt khác. KHÔNG phải gọi điện hối thúc.

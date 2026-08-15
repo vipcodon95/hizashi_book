@@ -60,8 +60,8 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị cô
 |  | *Tuần này bão số 12 vừa hình thành ở Biển Đông, dự báo áp sát Đà Nẵng thứ Sáu. Tuần sau chắc chắn an toàn hơn ạ.* |
 | **小林** | 「あー、台風?沖縄もしょっちゅう来るから慣れてるけど、ベトナムも来るんだ。」 |
 |  | *À, bão? Okinawa hay có nên anh quen, VN cũng có nhỉ.* |
-| **ズン** | 「**<ruby>中部<rt>ちゅうぶ</rt></ruby>(フエ・ダナン・ホイアン)が一番台風に弱い**地域で、**9-11月は<ruby>台風<rt>たいふう</rt></ruby>シーズン**。2017年のダムレイ台風では、ホイアン<ruby>旧市街<rt>きゅうしがい</rt></ruby>が**<ruby>腰<rt>こし</rt></ruby>の高さまで<ruby>浸水<rt>しんすい</rt></ruby>**しました。」 |
-|  | *Miền Trung (Huế-Đà Nẵng-Hội An) yếu nhất với bão. 9-11 là mùa bão. Bão Damrey 2017 phố cổ Hội An ngập đến hông.* |
+| **ズン** | 「**<ruby>中部<rt>ちゅうぶ</rt></ruby>(フエ・ダナン・ホイアン)が一番台風に弱い**地域で、**9-11月は<ruby>台風<rt>たいふう</rt></ruby>シーズン**。2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>の<ruby>大雨<rt>おおあめ</rt></ruby>では、ホイアン<ruby>旧市街<rt>きゅうしがい</rt></ruby>が**<ruby>腰<rt>こし</rt></ruby>の高さまで<ruby>浸水<rt>しんすい</rt></ruby>**しました。」 |
+|  | *Miền Trung (Huế-Đà Nẵng-Hội An) yếu nhất với bão. 9-11 là mùa bão. Đợt mưa lũ tháng 11/2017, phố cổ Hội An ngập đến hông.* |
 | **小林** | 「腰までか…沖縄の台風<ruby>被害<rt>ひがい</rt></ruby>と似てるな。」 |
 |  | *Đến hông à... giống thiệt hại bão Okinawa nhỉ.* |
 | **ズン** | 「沖縄と中部VNはほぼ同じ<ruby>緯度<rt>いど</rt></ruby>なので、台風の<ruby>通り道<rt>とおりみち</rt></ruby>がよく似てます。**現地は旧市街の家を1階<ruby>空っぽ<rt>からっぽ</rt></ruby>にして、<ruby>家具<rt>かぐ</rt></ruby>を2階に上げる**【1】っていう<ruby>適応<rt>てきおう</rt></ruby>してます。」 |
@@ -104,8 +104,8 @@ Tháng 10/2026, Dũng zoom call Matsumoto + Kobayashi (Okinawa) chuẩn bị cô
 |---------|-----|
 | **松本** | 「日本の<ruby>四季<rt>しき</rt></ruby>文化って、ベトナムの人にはピンと来ない?」 |
 |  | *Văn hóa 4 mùa của Nhật, người VN có hiểu không?* |
-| **ズン** | 「**ハノイ<ruby>出身者<rt>しゅっしんしゃ</rt></ruby>には四季は分かります**。私も小さい頃**<ruby>桃<rt>もも</rt></ruby>の花の春、ロータスの夏、<ruby>菊<rt>きく</rt></ruby>の秋、<ruby>菊酒<rt>きくざけ</rt></ruby>の冬**って母から<ruby>教わって<rt>おそわって</rt></ruby>育ちました。」 |
-|  | *Người gốc Hà Nội thì hiểu 4 mùa. Hồi bé em được mẹ dạy 'xuân hoa đào, hạ sen, thu cúc, đông rượu cúc' đó ạ.* |
+| **ズン** | 「**ハノイ<ruby>出身者<rt>しゅっしんしゃ</rt></ruby>には四季は分かります**。私も小さい頃**<ruby>桃<rt>もも</rt></ruby>の花の春、ロータスの夏、<ruby>菊<rt>きく</rt></ruby>の秋、スイセンの冬**って母から<ruby>教わって<rt>おそわって</rt></ruby>育ちました。」 |
+|  | *Người gốc Hà Nội thì hiểu 4 mùa. Hồi bé em được mẹ dạy 'xuân hoa đào, hạ sen, thu cúc, đông thủy tiên' đó ạ.* |
 | **松本** | 「あ、ベトナムにも<ruby>季語<rt>きご</rt></ruby>みたいなのあるんだ。」 |
 |  | *À, VN cũng có quý ngữ kiểu vậy.* |
 | **ズン** | 「**北部の<ruby>伝統文化<rt>でんとうぶんか</rt></ruby>には四季感**ありますね。**ホーチミン出身者には逆にピンと来ない**ようで、彼らに『<ruby>紅葉狩り<rt>もみじがり</rt></ruby>』の話をしても初めて知ることが多いです。」 |

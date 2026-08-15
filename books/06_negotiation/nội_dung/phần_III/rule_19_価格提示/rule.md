@@ -37,7 +37,7 @@ Sau anchor (rule 18), khách phản kháng. Dũng cần câu chuẩn cho đối 
 | **大垣** | 「2 <ruby>年契約<rt>ねんけいやく</rt></ruby>の点、<ruby>確認<rt>かくにん</rt></ruby>が必要です。」 <br/>*Vụ hợp đồng 2 năm cần xác nhận lại.* |
 | **ズン** | 「もちろんです、お時間をお<ruby>取<rt>と</rt></ruby>りいただいて<ruby>結構<rt>けっこう</rt></ruby>です。」 <br/>*Tất nhiên ạ, quý anh cứ dành thời gian xem xét ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Câu bắc cầu** "ご指摘の点、もっともでございます" — ghi nhận ý khách trước khi counter (rule 26 cũng dùng).
 - 【2】**Justification cụ thể** — "Phase 2 テンプレート流用 -8%" thay vì "ちょっと安く". Khách Nhật tin con số.
 - 【3】**Trade rõ ràng** "2 年契約していただければ" — counter có điều kiện đi kèm (rule 09 trade-back).

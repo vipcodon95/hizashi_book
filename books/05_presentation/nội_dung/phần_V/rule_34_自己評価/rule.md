@@ -40,7 +40,7 @@ Bài thuyết trình Phase 3 chiều thứ Năm xong. Tối thứ Năm, Dũng đ
 | **フオン** | 「いいね、<ruby>具体的<rt>ぐたいてき</rt></ruby>。**hook の<ruby>改善<rt>かいぜん</rt></ruby>** は次の pitch までに **rule 11 <ruby>再読<rt>さいどく</rt></ruby>** + 30秒 hook draft 5パターン<ruby>作成<rt>さくせい</rt></ruby>。Bridge phrase は **rule 25 <ruby>暗唱<rt>あんしょう</rt></ruby>** で 0.5秒 reflex まで。」 <br/>*Tốt, cụ thể. Cải mở đầu thì trước bài thuyết trình sau đọc lại rule 11 + soạn 5 mẫu mở đầu 30s. Câu dẫn hướng thì học thuộc rule 25 đến mức phản xạ 0.5 giây.* |
 | **ズン** | 「<ruby>了解<rt>りょうかい</rt></ruby>、**5/2 までに hook drill** + **5/8 までに bridge phrase 暗唱完了** いたします【3】。」 <br/>*Em rõ ạ. Trước 2/5 em luyện xong phần mở đầu, trước 8/5 thuộc xong câu dẫn hướng ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Tự đánh giá 30 phút** — ngân sách cố định. 12 mục × 1-2 phút/mục + 5 phút tóm tắt. Hơn 30 phút = phân tích quá đà, không duy trì lâu được.
 - 【2】**Công thức 3 + 3** — 3 điểm mạnh (giữ + nhân rộng) + 3 điểm cần cải thiện (hành động). Chia đều → không rơi vào vòng xoáy tiêu cực.
 - 【3】**Điểm cần cải thiện có hạn chót + luyện tập cụ thể** — tự đánh giá không hành động = bỏ phí. Gắn mỗi điểm cần cải thiện → rule + luyện tập + hạn chót.

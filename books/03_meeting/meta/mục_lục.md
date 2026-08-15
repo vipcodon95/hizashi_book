@@ -71,7 +71,7 @@ Bối cảnh sách 03: Quý 2/2026, dự án phase 2 với 白鷗株式会社 đ
 | 19 | Phát biểu xin lượt nói | 発言の挙手 | "恐れ入りますが、一点よろしいでしょうか？" |
 | 20 | Đặt câu hỏi 5W1H | 質問の5W1H | Hỏi rõ: who/what/when/where/why/how — không vòng vo |
 | 21 | Xin clarification khi không hiểu | 不明点の確認 | "申し訳ございません、〇〇という点をもう一度ご説明いただけますでしょうか？" |
-| 22 | Đồng ý lịch sự | 同意の表現 | 5 levels: 完全同意 → 概ね同意 → 部分同意 → 中立 → 異論あり |
+| 22 | Bày tỏ mức độ tán thành | 同意の表現 | 5 mức: 完全同意 → 概ね同意 → 部分同意 → 中立 → 異論あり |
 | 23 | Phản đối lịch sự | 異論の表現 | "ご意見はよく分かりました。ただ、〇〇という観点もあるかと存じます" |
 | 24 | Tóm tắt ý kiến của người khác | 相手の発言を要約 | "〇〇様のおっしゃるのは〜という認識でよろしいでしょうか" |
 | 25 | Xin thêm thời gian suy nghĩ | 検討時間を求める | "持ち帰って検討させてください" - khi không thể quyết ngay |

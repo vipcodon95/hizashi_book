@@ -42,7 +42,7 @@ Sau chuyến công tác Tokyo + lễ tổng kết, về HCMC chiều thứ 6 hô
 | **ズン** | 「Notion『 onsite playbook v2』+ CRM <ruby>白鷗社<rt>はくおうしゃ</rt></ruby>tab『2026-04 Tokyo onsite log』<ruby>両方<rt>りょうほう</rt></ruby><ruby>更新<rt>こうしん</rt></ruby>。<ruby>次回<rt>じかい</rt></ruby><ruby>担当者<rt>たんとうしゃ</rt></ruby>が<ruby>同<rt>おな</rt></ruby>じ<ruby>過<rt>あやま</rt></ruby>ちをしないよう。」【5】 <br/>*Cập nhật cả Notion 'sổ tay công tác v2' + CRM tab 白鷗 'nhật ký công tác Tokyo 2026-04'. Để lần sau ai phụ trách không lặp lỗi.* |
 | **フオン副部長** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。これがHizashi<ruby>式<rt>しき</rt></ruby><ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>り。<ruby>今後<rt>こんご</rt></ruby>も<ruby>毎<rt>まい</rt></ruby> onsite/<ruby>接待<rt>せったい</rt></ruby><ruby>後<rt>ご</rt></ruby>にこの5項目で。」 <br/>*Hoàn hảo. Đây là tự đánh giá kiểu Hizashi. Sau này sau mỗi chuyến công tác / tiếp khách đều làm 5 mục này.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Cụ thể hóa thành công thành mô hình tái sử dụng được** — viết kiểu "chỉ định ghế + cụm rót + bảng tiến trình" để dự án khác áp dụng lại.
 - 【2】**Kiểu "ai + làm gì + kết quả gì"** — cụ thể như "Linh cúi chào 90° làm CFO ngại". Sau đọc lại vẫn hình dung được tình huống.
 - 【3】**Bắt buộc CHỦ + HẠN CHÓT** — "Anh OO sẽ làm OO trước OO/OO". Không có chủ + hạn chót thì "cải thiện" không bao giờ thành hiện thực.

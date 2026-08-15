@@ -1,4 +1,4 @@
-# Hizashi — Tôn kính ngữ / 敬語マスター
+# Hizashi — Kính ngữ / 敬語マスター
 
 *Hizashi Teams.*
 
@@ -10,17 +10,19 @@ Cẩm nang làm chủ kính ngữ (敬語 — keigo) trong giao tiếp thương 
 
 ## Cấu trúc
 
-| Phần | Nội dung |
-|------|----------|
-| 1 | Phân loại kính ngữ (尊敬語 · 謙譲語 · 丁寧語) |
-| 2 | Động từ授受 (じゅじゅどうし — cho/nhận) |
-| 3 | Quy tắc Uchi/Soto (内・外 — trong/ngoài) |
-| 4 | Thể bị động · Sai khiến · Sai khiến bị động (受動・使役) |
-| 5 | Tổng hợp & phân biệt điểm dễ nhầm |
+| Phần | Số hiệu | Nội dung |
+|------|---------|----------|
+| 1 | §2.1.0 | Phân loại kính ngữ (尊敬語 · 謙譲語 · 丁寧語) |
+| 2 | §2.1.4 | Động từ 授受 (じゅじゅどうし — cho/nhận) |
+| 3 | §2.1.5 | Quy tắc Uchi/Soto (内・外 — trong/ngoài) |
+| 4 | §2.1.6 | Thể bị động · Sai khiến · Sai khiến bị động (受動・使役・使役受動) |
+| 5 | §2.1.7 | Tổng hợp & phân biệt: 授受動詞 với 受動形・使役形 |
+
+> Trong sách, các chương tham chiếu lẫn nhau bằng **số hiệu** (ví dụ "Xem lại §2.1.5"). Bảng trên là chỗ tra cứu số hiệu ứng với từng phần.
 
 ## Cách dùng sách
 
-Mỗi phần trình bày lý thuyết kèm bảng động từ, ví dụ câu mẫu và bảng đối chiếu lỗi sai — đúng. Từ tiếng Nhật có furigana (phiên âm hiragana nhỏ phía trên) cho các từ khó, kèm romaji trong ngoặc để tiện tra cách phát âm.
+Mỗi phần trình bày lý thuyết kèm bảng động từ, ví dụ câu mẫu và bảng đối chiếu lỗi sai — đúng. Một số từ tiếng Nhật khó có kèm furigana (phiên âm hiragana nhỏ phía trên) để tiện tra cách đọc.
 
 ## Bản quyền
 

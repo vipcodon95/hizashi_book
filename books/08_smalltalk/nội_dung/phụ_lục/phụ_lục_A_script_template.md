@@ -6,7 +6,7 @@
 
 ## Phần I — Khung tư duy 雑談
 
-### Rule 08 — Khi nào 'tán' được? / 雑談のタイミング
+### Rule 01 — Khi nào 'tán' được? / 雑談のタイミング
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -20,7 +20,7 @@
 | Izakaya | お疲れ様でした、まずは乾杯しましょう! | Hôm nay vất vả rồi, đầu tiên là cạn ly đã! | Mở không khí bữa tối |
 | Izakaya | これ美味しそうですね! | Cái này nhìn ngon nhỉ! | Khen món — JP rất thích |
 
-### Rule 08 — Quy tắc 80/20 (khách nói 80%) / 8:2のルール
+### Rule 02 — Quy tắc 80/20 (khách nói 80%) / 8:2のルール
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -32,7 +32,7 @@
 | React | なるほど、それで? | Em hiểu rồi, rồi sao ạ? | Đào sâu tiếp |
 | Reference | 以前[Tên]さんがおっしゃってた[chi tiết]、その後どうなりましたか? | Lần trước anh kể về [chi tiết], sau đó thế nào ạ? | Nhớ chi tiết = +10 điểm |
 
-### Rule 08 — 5 mức độ thân mật + chủ đề phù hợp / 親密度5レベル
+### Rule 03 — 5 mức độ thân mật + chủ đề phù hợp / 親密度5レベル
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -43,7 +43,7 @@
 | L3 | [sport team] 今シーズンどうですか? | [Đội bóng] mùa này thế nào ạ? | Thể thao theo quê khách |
 | L4 | 以前お子様の[chi tiết]おっしゃってましたよね、その後… | Lần trước anh kể về [chi tiết về con], sau đó thế nào ạ? | Family — chỉ dùng khi khách đã share trước |
 
-### Rule 08 — Câu hỏi mở vs đóng / 開かれた質問・閉じた質問
+### Rule 04 — Câu hỏi mở vs đóng / 開かれた質問・閉じた質問
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -54,7 +54,7 @@
 | Combo | [xác nhận fact]ですよね?で、どんな具合でしたか? | [Xác nhận]... đúng chứ ạ? Mà, kết quả thế nào ạ? | Đóng → mở combo |
 | Có ý | [context vùng miền]、〜って、何かありますか? | [Context], có gì [...] không ạ? | Khách có nguyên cớ kể sâu |
 
-### Rule 08 — 聞き上手 — listening + relay / 聞き上手の技術
+### Rule 05 — 聞き上手 — listening + relay / 聞き上手の技術
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -67,7 +67,7 @@
 | L3 Follow-up | もし今振り返ると、何を一番覚えていますか? | Giờ nhìn lại, anh nhớ nhất điều gì ạ? | Reflective question — đẳng cấp cao |
 | Reference back | 先ほどの[topic]の話、本当に[react]でした。 | Câu chuyện [topic] lúc nãy thật [react]. | Bridge sau 5-30 phút — chứng tỏ nhớ |
 
-### Rule 08 — Chuyển chủ đề mượt / トピック転換
+### Rule 06 — Chuyển chủ đề mượt / トピック転換
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -78,7 +78,7 @@
 | Đóng chủ đề | そろそろお時間気になってきましたので… | Em cũng đang để ý đồng hồ... | Lý do mềm trước khi pivot |
 | Bridge | お話の途中恐縮ですが、一点だけ… | Xin lỗi cắt giữa, một điểm thôi ạ... | Khi cần ngắt với formal cao |
 
-### Rule 08 — Khi im lặng — không panic / 沈黙の活用
+### Rule 07 — Khi im lặng — không panic / 沈黙の活用
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -244,7 +244,7 @@
 
 ## Phần III — Đào sâu theo vùng — 47 tỉnh
 
-### Rule 08 — Hokkaido — biển + sữa + tuyết / 北海道
+### Rule 21 — Hokkaido — biển + sữa + tuyết / 北海道
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -256,7 +256,7 @@
 | Thể thao | 新庄監督の采配、面白いですよね。 | Cách dùng cầu thủ của HLV Shinjō hay nhỉ. | HLV nổi tiếng cụ thể |
 | Festival | 2月の雪まつり、いつかは行きたいです。 | Lễ hội tuyết tháng 2, em muốn đi một lần. | Lễ hội biểu tượng |
 
-### Rule 08 — Tohoku — tuyết, sake, lễ hội mùa hè / 東北
+### Rule 22 — Tohoku — tuyết, sake, lễ hội mùa hè / 東北
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -268,7 +268,7 @@
 | Iwate | わんこそば、100杯目指してみたいです。 | Wankosoba em muốn thử 100 bát. | — |
 | Fukushima | 喜多方ラーメン、朝ラー文化って珍しいですよね。 | Kitakata ramen có văn hóa ramen sáng, độc đáo nhỉ. | — |
 
-### Rule 08 — Kanto/Tokyo — Shitamachi vs Yamanote / 関東・東京
+### Rule 23 — Kanto/Tokyo — Shitamachi vs Yamanote / 関東・東京
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -280,7 +280,7 @@
 | 神田 | 神田神保町の古書店街、雰囲気いいですよね。 | Khu sách cũ Kanda-Jinbōchō không khí tuyệt nhỉ. | — |
 | 観光 | 浅草・上野・スカイツリー、王道ですよね。 | Asakusa, Ueno, Skytree là chính thống. | — |
 
-### Rule 08 — Aichi/Nagoya — miso + Toyota mindset / 愛知・名古屋
+### Rule 24 — Aichi/Nagoya — miso + Toyota mindset / 愛知・名古屋
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -292,7 +292,7 @@
 | Mindset | コスパ重視、しっかり数値で見ていただけるのは助かります。 | Coi trọng cost-performance, được xem số liệu kỹ là rất tốt. | — |
 | Dragons | 中日ファンですか?バンテリンドーム、雰囲気いいですよね。 | Anh fan Chunichi không? Vantelin Dome không khí hay. | — |
 
-### Rule 08 — Gifu — núi, craft, đặc sản hiếm / 岐阜
+### Rule 25 — Gifu — núi, craft, đặc sản hiếm / 岐阜
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -307,7 +307,7 @@
 | 白川郷 | 合掌造り、釘を一本も使わないって本当ですか? | Gasshō-zukuri, không dùng 1 cây đinh thật ạ? | — |
 | さるぼぼ | さるぼぼ、色で意味が違うんですよね。黄色は金運… | Sarubobo theo màu khác ý nhỉ. Vàng là tiền... | — |
 
-### Rule 08 — Osaka — お好み焼, 阪神, 笑い / 大阪
+### Rule 26 — Osaka — お好み焼, 阪神, 笑い / 大阪
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -320,7 +320,7 @@
 | Hanshin | 六甲おろし、いつか甲子園で生で聞きたいです。 | Rokkō Oroshi muốn nghe ở Kōshien. | — |
 | 笑い | 『なんでやねん!』、これ覚えました(笑) | 'Nan de ya nen!' em học rồi. | — |
 
-### Rule 08 — Kyoto — tinh tế, おもてなし, subtle pride / 京都
+### Rule 27 — Kyoto — tinh tế, おもてなし, subtle pride / 京都
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -332,7 +332,7 @@
 | 舞妓 | 舞妓さんのだらりの帯、5メートルあるんですよね。 | Đai maiko 5m nhỉ. | — |
 | 京言葉 | 『はんなり』、京都ならではの美しい言葉ですね。 | 'Hannari' lời đẹp riêng Kyoto. | — |
 
-### Rule 08 — Hiroshima — Carp + 重ね焼き + 牡蠣 + 宮島 / 広島
+### Rule 28 — Hiroshima — Carp + 重ね焼き + 牡蠣 + 宮島 / 広島
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -346,7 +346,7 @@
 | 牡蠣 | 広島湾の牡蠣、全国シェア60%、12-2月が旬ですよね。 | Hàu vịnh Hiroshima 60% cả nước, mùa 12-2. | — |
 | 平和 | 次回広島に伺う際、平和記念公園をご一緒できたら光栄です。 | Lần sau đến Hiroshima, được cùng anh đi Heiwa Kinen Kōen sẽ là vinh dự. | — |
 
-### Rule 08 — Shikoku — udon, citrus, お遍路 / 四国
+### Rule 29 — Shikoku — udon, citrus, お遍路 / 四国
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -359,7 +359,7 @@
 | Tokushima | 阿波踊り、130万人の日本最大級盆踊り、いつかは… | Awa Odori 1.3 triệu, lớn nhất Nhật, lúc nào... | — |
 | お遍路 | お遍路88ヶ所、1番霊山寺から88番大窪寺、感動的な巡礼ですね。 | Ohenro 88, từ chùa 1 Ryōzenji đến 88 Ōkuboji, cuộc hành hương cảm động. | — |
 
-### Rule 08 — Fukuoka — 博多豚骨, もつ鍋, 屋台, ホークス / 福岡
+### Rule 30 — Fukuoka — 博多豚骨, もつ鍋, 屋台, ホークス / 福岡
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -374,7 +374,7 @@
 | Dazaifu | 太宰府天満宮、全国12000の総本宮ですよね。 | Dazaifu tổng bản 12,000. | — |
 | Hakata-ben | 『〜ばい』『〜と?』、博多弁いいですね。 | Bai/to? Hakata-ben hay nhỉ. | — |
 
-### Rule 08 — Kumamoto + Kagoshima — 馬刺し, くまモン, 黒豚, 西郷, 桜島 / 熊本・鹿児島
+### Rule 31 — Kumamoto + Kagoshima — 馬刺し, くまモン, 黒豚, 西郷, 桜島 / 熊本・鹿児島
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -387,7 +387,7 @@
 | Kagoshima | 芋焼酎の3M、いつかは森伊蔵を… | 3M imo shōchū, lúc nào em uống Mori Izō... | — |
 | Chiran | 次回知覧特攻平和会館、ご一緒できれば光栄です。 | Lần sau Chiran Tokkō Heiwa Kaikan, được cùng anh là vinh dự. | — |
 
-### Rule 08 — Okinawa — văn hóa khác, 沖縄時間, ハイサイ / 沖縄
+### Rule 32 — Okinawa — văn hóa khác, 沖縄時間, ハイサイ / 沖縄
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -402,7 +402,7 @@
 | 首里城 | 首里城、2019年火災から復興、応援しています。 | Shuri-jō từ cháy 2019 phục hồi, em ủng hộ. | — |
 | Peace | 次回ご一緒できれば、ひめゆりの塔をご案内お願いできれば光栄です。 | Lần sau cùng anh, được thăm Himeyuri là vinh dự. | — |
 
-### Rule 08 — Memory bank — ghi nhớ chi tiết cụ thể với khách JP / 雑談メモバンク
+### Rule 33 — Memory bank — ghi nhớ chi tiết cụ thể với khách JP / 雑談メモバンク
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -417,7 +417,7 @@
 
 ## Phần IV — Chủ đề Việt Nam
 
-### Rule 08 — Phở — câu chuyện văn hóa / フォーの話
+### Rule 34 — Phở — câu chuyện văn hóa / フォーの話
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -431,7 +431,7 @@
 | Né nguồn gốc | 諸説あって、私は専門家じゃないですが… | Nhiều thuyết, em không phải chuyên gia... | Né câu hỏi sâu nhạy cảm |
 | Né nguồn gốc | 北部のナムディン省発祥説が有力と聞きます。 | Nghe nói thuyết Nam Định khởi nguồn là mạnh nhất. | Cho fact an toàn |
 
-### Rule 08 — Tết — solar vs lunar / テト・旧正月
+### Rule 35 — Tết — solar vs lunar / テト・旧正月
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -446,7 +446,7 @@
 | Lì xì | 親や祖父母にも『健康と長寿の願い』として渡します。 | Tặng cả cha mẹ, ông bà với lời chúc trường thọ. | Điểm khác Nhật |
 | Mùng 3 | 3日目は先生を訪ねる『師事の感謝』の日です。 | Mùng 3 thăm thầy, ngày tri ân. | Văn hóa Nho giáo |
 
-### Rule 08 — Cà phê Việt / ベトナムコーヒー
+### Rule 36 — Cà phê Việt / ベトナムコーヒー
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -462,7 +462,7 @@
 | Trứng | ハノイ旧市街のCafé Giảngが発祥の地です。 | Café Giảng phố cổ HN là nơi sáng tạo. | Gợi ý cụ thể |
 | Tokyo | 清澄白河のフィンコーヒー、渋谷のベトちゃんが人気です。 | Phin Coffee Kiyosumi-Shirakawa, Bétchan Shibuya là hot. | Gợi ý cụ thể Tokyo |
 
-### Rule 08 — Khí hậu 3 miền VN / 3地域気候
+### Rule 37 — Khí hậu 3 miền VN / 3地域気候
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -476,7 +476,7 @@
 | HCM | 年間27-32度ほぼ一定、温度差はないです。 | Cả năm 27-32, không chênh. | Phân biệt với HN |
 | Bridge | 東京と那覇くらい文化違うイメージです。 | Khác văn hóa như Tokyo-Naha. | Bridge với khách Okinawa/Tokyo |
 
-### Rule 08 — Thành phố khách Nhật quan tâm / 注目都市
+### Rule 38 — Thành phố khách Nhật quan tâm / 注目都市
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -490,7 +490,7 @@
 | Senior | Sài Gòn Saigon Bar(Caravelle屋上)はシニアに最適、歴史も。 | Saigon Saigon Bar Caravelle hợp senior, có lịch sử. | Chọn theo đối tượng |
 | Cảnh báo | 戦争証跡博物館は重いですが、外せない場所です。 | Bảo tàng Chứng tích nặng nhưng không thể thiếu. | Cảnh báo trước khi gợi ý |
 
-### Rule 08 — Lễ hội VN / ベトナムの祭り
+### Rule 39 — Lễ hội VN / ベトナムの祭り
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -504,7 +504,7 @@
 | Đoan Ngọ | 5/5は『虫殺しの日』、酒漬けもち米で寄生虫を殺す民間療法的な日(笑) | 5/5 là 'diệt sâu bọ', ăn cơm rượu nếp. | Điểm bizarre dễ nhớ |
 | Thất tịch | 七夕は同じ日付、牽牛織女の伝説も同じです。 | Thất tịch cùng ngày, truyền thuyết Ngưu Lang Chức Nữ giống. | Điểm chung |
 
-### Rule 08 — Nhà hàng Nhật ở VN / ベトナムでの和食
+### Rule 40 — Nhà hàng Nhật ở VN / ベトナムでの和食
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -518,7 +518,7 @@
 | Chủ nhà pro | 東京の3分の1の値段で、本物です。 | 1/3 giá Tokyo nhưng chuẩn. | Pitch giá |
 | Chủ nhà pro | ドレスコードはスマートカジュアル、ジャケットあった方が無難です。 | Trang phục lịch sự-thường, jacket an toàn. | Tóm tắt trước chuyên nghiệp |
 
-### Rule 08 — Cảnh đẹp + nightlife / 観光・夜の楽しみ
+### Rule 41 — Cảnh đẹp + nightlife / 観光・夜の楽しみ
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -537,7 +537,7 @@
 
 ## Phần V — Uống + Tự nâng cấp
 
-### Rule 08 — Izakaya order flow / 居酒屋オーダー
+### Rule 42 — Izakaya order flow / 居酒屋オーダー
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -551,7 +551,7 @@
 | Bill | お会計いかがしますか? | Hóa đơn sao ạ? | Turn to senior |
 | Bill | いつもありがとうございます。次回はぜひこちらに。 | Cảm ơn anh, lần sau bên em. | Khi senior trả |
 
-### Rule 08 — Toast + thứ tự rót / 乾杯・お酌
+### Rule 43 — Toast + thứ tự rót / 乾杯・お酌
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -564,7 +564,7 @@
 | Né ép | 日本では一気飲みは強要しない文化なので。 | Nhật văn hóa không ép uống 1 hơi. | Educate đồng nghiệp VN |
 | Bridge | ハノイに来られた時、ぜひ100%してください(笑)。 | Khi nào anh đến HN nhất định '100%' nha (cười). | Bridge văn hóa |
 
-### Rule 08 — 一次会・二次会・締め / 一次会・二次会
+### Rule 44 — 一次会・二次会・締め / 一次会・二次会
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -576,7 +576,7 @@
 | 締め bridge | ハノイにも『締め麺』の文化あるので、東京でも経験したいです。 | HN cũng có 'mì chốt', muốn trải nghiệm ở Tokyo. | Bridge VN-JP |
 | Closing | 今日も貴重なお話、ありがとうございました。 | Hôm nay anh chia sẻ những điều quý báu, cảm ơn anh. | Escort taxi |
 
-### Rule 08 — Karaoke — chọn bài / カラオケ選曲
+### Rule 45 — Karaoke — chọn bài / カラオケ選曲
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -589,7 +589,7 @@
 | Explain | 『[bài]』っていう[ý nghĩa]の歌で、最近VNで流行りました。 | '[Bài]' là bài [ý nghĩa], hot ở VN gần đây. | Explain sau khi hát VN |
 | Đóng buổi | 皆さん、お疲れ様でした。今日もありがとうございました。 | Mọi người vất vả rồi. Hôm nay cảm ơn ạ. | Closing |
 
-### Rule 08 — Tránh say + dừng đúng lúc / 飲み過ぎ防止
+### Rule 46 — Tránh say + dừng đúng lúc / 飲み過ぎ防止
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -603,7 +603,7 @@
 | Sáng hôm sau | [Tên]さんもタクシーで無事帰宅確認しました。 | Em đã xác nhận anh về an toàn bằng taxi. | Theo dõi chuyên nghiệp |
 | Sáng hôm sau | 資料こちらに。[topic]、社内で先ほど確認しました。 | Tài liệu đây. [topic] em đã xác nhận nội bộ. | Sharp + đã work |
 
-### Rule 08 — Chủ đề VÀNG an toàn 100% / 安全話題TOP10
+### Rule 47 — Chủ đề VÀNG an toàn 100% / 安全話題TOP10
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -618,7 +618,7 @@
 | #9 Family | お子さん、お元気ですか? | Các cháu khỏe không ạ? | Chỉ senior thân |
 | #10 Sức khỏe | お変わりなくお元気そうで何よりです。 | Anh vẫn khỏe, em mừng quá. | Chỉ senior thân |
 
-### Rule 08 — Chủ đề VÙNG CẤM / 地雷話題
+### Rule 48 — Chủ đề VÙNG CẤM / 地雷話題
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -633,7 +633,7 @@
 | Bridge | 話変わりますが… | Đổi chủ đề chút... | Bridge thẳng |
 | Bridge văn hóa | 文化の違い、面白いですね。 | Khác văn hóa, thú vị nhỉ. | Sau rescue |
 
-### Rule 08 — Sách/báo/TV để có vốn nói / 雑談ネタ収集
+### Rule 49 — Sách/báo/TV để có vốn nói / 雑談ネタ収集
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -645,7 +645,7 @@
 | Thể thao | [Team]、[最近のニュース]、見ました! | [Đội] vừa có [tin], em xem rồi! | Mở chủ đề thể thao |
 | TV | ブラタモリの[最近の回]、見られました? | Buratamori tập [gần đây] anh xem chưa? | Chủ đề dành senior |
 
-### Rule 08 — Memory bank — duy trì lâu dài / 関係維持の記憶バンク
+### Rule 50 — Memory bank — duy trì lâu dài / 関係維持の記憶バンク
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|
@@ -656,7 +656,7 @@
 | Family | 御家族の皆様、お元気ですか? | Cả gia đình anh chị khỏe không ạ? | Care chung gia đình |
 | Stay context | あの時[topic]の話、印象に残ってます。 | Lần đó chuyện [topic] em nhớ mãi. | Show appreciation |
 
-### Rule 08 — Tự đánh giá + luyện tập / 振り返りと練習
+### Rule 51 — Tự đánh giá + luyện tập / 振り返りと練習
 
 | Tình huống | Mẫu câu Nhật | Nghĩa Việt | Cách dùng |
 |---|---|---|---|

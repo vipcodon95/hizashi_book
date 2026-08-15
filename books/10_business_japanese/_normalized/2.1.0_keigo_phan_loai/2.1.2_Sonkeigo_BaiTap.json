@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "2.1.2 Sonkeigo Deep Dive",
+    "title": "2.1.2 Sonkeigo Chuyên Sâu",
     "title_vn": "2.1.2 Bài Tập Chuyên Sâu: 尊敬語 (Sonkeigo)",
     "description": "40 câu trắc nghiệm chuyên sâu về Sonkeigo, chia 4 cấp độ, giải thích đầy đủ bằng tiếng Việt",
     "focus": "Sonkeigo (尊敬語) — Tôn kính ngữ",
@@ -48,8 +48,8 @@
       "level": 1,
       "level_name": "Cơ bản",
       "category": "Động từ Sonkeigo đặc biệt — nhận biết",
-      "question_jp": "「いらっしゃる」はどの動詞の尊敬語ですか？（正しいものをすべて選んでください）",
-      "question_vn": "「いらっしゃる」là dạng Sonkeigo của những động từ nào? (Chọn tất cả đáp án đúng)",
+      "question_jp": "「いらっしゃる」の元になる動詞として正しい組み合わせはどれですか？",
+      "question_vn": "Tổ hợp động từ nào là gốc đúng của「いらっしゃる」?",
       "choices": [
         {
           "key": "A",
@@ -229,7 +229,7 @@
         {
           "key": "C",
           "jp": "くれる（kureru）",
-          "vn": "くれる (cho — đối phương cho mình)"
+          "vn": "くれる (đối phương cho mình)"
         },
         {
           "key": "D",
@@ -238,7 +238,7 @@
         }
       ],
       "answer": "C",
-      "explanation": "「くださる」là Sonkeigo của くれる — dùng khi đối phương (khách hàng, cấp trên) cho hoặc làm ơn cho mình. Ví dụ: 「ご指導くださりありがとうございます」(Cảm ơn ngài đã chỉ bảo). Kenjougo tương ứng của もらう (nhận) là「いただく」— dùng khi mình nhận được từ đối phương.",
+      "explanation": "「くださる」là Sonkeigo của くれる — dùng khi đối phương (khách hàng, cấp trên) cho hoặc làm ơn cho mình. Ví dụ: 「ご指導くださりありがとうございます」. Phương án A sai: あげる có dạng Kenjougo là 差し上げる, không phải くださる. Phương án B sai: もらう có Kenjougo là いただく. Phương án D sai: 受け取る có dạng Sonkeigo là お受け取りになる, hoàn toàn không liên quan đến くださる.",
       "tip": "くださる = đối phương CHO mình (Sonkeigo) ↔ いただく = mình NHẬN từ đối phương (Kenjougo)"
     },
     {
@@ -318,26 +318,26 @@
         {
           "key": "A",
           "jp": "貴社（きしゃ）",
-          "vn": "貴社 — công ty ngài (dùng khi viết)"
+          "vn": "貴社 — công ty ngài"
         },
         {
           "key": "B",
           "jp": "御社（おんしゃ）",
-          "vn": "御社 — công ty ngài (dùng khi nói)"
+          "vn": "御社 — công ty ngài"
         },
         {
           "key": "C",
           "jp": "弊社（へいしゃ）",
-          "vn": "弊社 — công ty tôi (khiêm nhường)"
+          "vn": "弊社 — công ty tôi"
         },
         {
           "key": "D",
           "jp": "当社（とうしゃ）",
-          "vn": "当社 — công ty chúng tôi (trung lập)"
+          "vn": "当社 — công ty chúng tôi"
         }
       ],
       "answer": "B",
-      "explanation": "「御社（おんしゃ）」dùng trong hội thoại trực tiếp hoặc qua điện thoại khi nói về công ty của đối phương. Còn「貴社（きしゃ）」dùng khi VIẾT (email, thư từ, tài liệu). Đây là điểm phân biệt quan trọng trong BJT. 弊社/当社 là để chỉ công ty của chính mình.",
+      "explanation": "「御社（おんしゃ）」(B) dùng trong hội thoại trực tiếp hoặc qua điện thoại khi nói về công ty của đối phương. Còn「貴社（きしゃ）」(A) dùng khi VIẾT (email, thư từ, tài liệu) — đúng từ nhưng sai phong cách với yêu cầu 'khi NÓI' của đề. Đây là điểm phân biệt quan trọng trong BJT. 弊社 (C) là khiêm xưng và 当社 (D) là cách gọi trung tính — cả hai đều chỉ công ty của chính mình, không phải công ty đối phương.",
       "tip": "御社 (おんしゃ) = nói | 貴社 (きしゃ) = viết — cả hai đều chỉ công ty CỦA ĐỐI PHƯƠNG"
     },
     {
@@ -350,27 +350,27 @@
       "choices": [
         {
           "key": "A",
-          "jp": "お家（おうち）",
-          "vn": "お家 (nhà — thêm お, thân mật)"
+          "jp": "お家（おうち）— 親しみを込めた言い方",
+          "vn": "お家 (nhà) — cách nói có sắc thái thân mật"
         },
         {
           "key": "B",
-          "jp": "お宅（おたく）",
-          "vn": "お宅 (tư thất của ngài — Sonkeigo trang trọng)"
+          "jp": "お宅（おたく）— 話し言葉でよく使う",
+          "vn": "お宅 (tư thất của ngài) — hay dùng trong khẩu ngữ"
         },
         {
           "key": "C",
-          "jp": "ご自宅（ごじたく）",
-          "vn": "ご自宅 (tư thất của ngài — trang trọng hơn)"
+          "jp": "ご自宅（ごじたく）— 書き言葉で使う",
+          "vn": "ご自宅 (tư thất của ngài) — dùng trong văn viết"
         },
         {
           "key": "D",
-          "jp": "B và C đều đúng",
+          "jp": "お宅・ご自宅の両方が正しい",
           "vn": "Cả お宅 và ご自宅 đều đúng tùy mức độ"
         }
       ],
       "answer": "D",
-      "explanation": "Cả hai đều là Sonkeigo của 家 (nhà), nhưng mức độ trang trọng khác nhau: 「お宅（おたく）」thường dùng hơn trong hội thoại (Ngài ở đâu? → お宅はどちらですか). 「ご自宅（ごじたく）」trang trọng hơn, thường dùng trong văn viết hoặc khi hỏi địa chỉ. Trong BJT, cả hai đều xuất hiện.",
+      "explanation": "Cả 「お宅」và「ご自宅」đều là Sonkeigo của 家 (nhà), nhưng mức độ trang trọng khác nhau: 「お宅（おたく）」thường dùng hơn trong hội thoại (お宅はどちらですか). 「ご自宅（ごじたく）」trang trọng hơn, thường dùng trong văn viết hoặc khi hỏi địa chỉ. Phương án A「お家」chỉ thêm tiền tố お làm từ lịch sự hơn, mang sắc thái thân mật — không phải Sonkeigo trang trọng như đề yêu cầu. Trong BJT, cả お宅 và ご自宅 đều xuất hiện → đáp án D.",
       "tip": "お宅 (nói) / ご自宅 (viết/trang trọng hơn) = nhà của NGÀI — đều là Sonkeigo hợp lệ"
     },
     {
@@ -378,32 +378,32 @@
       "level": 2,
       "level_name": "Trung bình",
       "category": "Cấu trúc お〜になる trong câu",
-      "question_jp": "「部長はもう報告書を読みましたか？」を尊敬語に直すと？",
-      "question_vn": "Chuyển câu 「部長はもう報告書を読みましたか？」(Trưởng phòng đã đọc báo cáo chưa?) sang Sonkeigo:",
+      "question_jp": "「部長はもう報告書を読みましたか？」を尊敬語に直す場合、最も丁寧な表現はどれですか？",
+      "question_vn": "Hỏi trưởng phòng đã đọc báo cáo chưa, bằng Sonkeigo phù hợp nhất:",
       "choices": [
         {
           "key": "A",
           "jp": "部長はもう報告書をお読みになりましたか？",
-          "vn": "Trưởng phòng đã đọc báo cáo chưa ạ? (お読みになる — Sonkeigo chuẩn)"
+          "vn": "Trưởng phòng đã đọc báo cáo chưa ạ? (お読みになる)"
         },
         {
           "key": "B",
           "jp": "部長はもう報告書を拝読されましたか？",
-          "vn": "Trưởng phòng đã kính đọc báo cáo chưa ạ? (拝読 là Kenjougo — sai)"
+          "vn": "Trưởng phòng đã đọc báo cáo chưa ạ? (拝読)"
         },
         {
           "key": "C",
           "jp": "部長はもう報告書をお読みしましたか？",
-          "vn": "Trưởng phòng đã đọc báo cáo chưa? (お〜する = Kenjougo — sai)"
+          "vn": "Trưởng phòng đã đọc báo cáo chưa? (お〜する)"
         },
         {
           "key": "D",
           "jp": "部長はもう報告書を読まれましたか？",
-          "vn": "Trưởng phòng đã đọc báo cáo chưa ạ? (〜れる — Sonkeigo nhẹ)"
+          "vn": "Trưởng phòng đã đọc báo cáo chưa ạ? (〜れる)"
         }
       ],
       "answer": "A",
-      "explanation": "「お読みになる」là cấu trúc Sonkeigo chuẩn nhất: お + 読み (masu-stem) + になる. Câu D (読まれましたか) cũng là Sonkeigo nhưng dùng cấu trúc 〜れる — mức độ kính trọng thấp hơn A. Câu B sai vì 拝読 (はいどく) là Kenjougo. Câu C sai vì お〜する là Kenjougo.",
+      "explanation": "「お読みになる」(A) là cấu trúc Sonkeigo chuẩn nhất: お + 読み (gốc masu) + になる — mức tôn kính cao nhất trong 4 phương án. Phương án D (読まれましたか) cũng là Sonkeigo nhưng dùng cấu trúc 〜れる — mức độ kính trọng thấp hơn A, không sai nhưng ít trang trọng hơn khi hỏi cấp trên. Phương án B sai vì 拝読 (はいどく) là Kenjougo — dùng khi MÌNH đọc. Phương án C sai vì お〜する là Kenjougo.",
       "tip": "お〜になる > 〜れる/られる về mức độ tôn kính. Dùng お〜になる khi muốn thật trang trọng."
     },
     {
@@ -417,26 +417,26 @@
         {
           "key": "A",
           "jp": "サービスを利用しますか？",
-          "vn": "Bạn có sử dụng dịch vụ không? (thông thường)"
+          "vn": "Bạn có sử dụng dịch vụ không?"
         },
         {
           "key": "B",
           "jp": "サービスをご利用されますか？",
-          "vn": "Ngài có sử dụng dịch vụ không? (ご〜される — dùng kép sai)"
+          "vn": "Ngài có sử dụng dịch vụ không? (ご〜される)"
         },
         {
           "key": "C",
           "jp": "サービスをご利用になりますか？",
-          "vn": "Ngài có sử dụng dịch vụ không ạ? (ご〜になる — chuẩn)"
+          "vn": "Ngài có sử dụng dịch vụ không ạ? (ご〜になる)"
         },
         {
           "key": "D",
           "jp": "サービスをご利用いたしますか？",
-          "vn": "Ngài có sử dụng dịch vụ không? (ご〜いたす = Kenjougo — sai)"
+          "vn": "Ngài có sử dụng dịch vụ không? (ご〜いたす)"
         }
       ],
       "answer": "C",
-      "explanation": "「ご利用になる」là cấu trúc Sonkeigo chuẩn cho động từ gốc Hán (ご + danh từ Hán-Nhật + になる). Câu B: 「ご利用される」là lỗi phổ biến — kết hợp ご〜 với 〜れる tạo ra 'dùng kép kính ngữ' (二重敬語) không được chấp nhận. Câu D dùng いたす = Kenjougo, áp dụng sai cho chủ ngữ khách hàng.",
+      "explanation": "「ご利用になる」là cấu trúc Sonkeigo chuẩn cho động từ gốc Hán (ご + danh từ Hán-Nhật + になる). Câu B: 「ご利用される」là lỗi phổ biến — kết hợp ご〜 với 〜れる tạo ra 'dùng kép kính ngữ' (二重敬語) không được chấp nhận; lưu ý thêm: ご利用される bị phần lớn tiêu chuẩn BJT coi là 二重敬語 dù nghe có vẻ phổ biến trong thực tế. Câu D dùng いたす = Kenjougo, áp dụng sai cho chủ ngữ khách hàng.",
       "tip": "ご〜になる ✅ | ご〜される ❌ (二重敬語) — lỗi cực phổ biến cần tránh!"
     },
     {
@@ -444,23 +444,23 @@
       "level": 2,
       "level_name": "Trung bình",
       "category": "Cấu trúc 〜れる / 〜られる Sonkeigo",
-      "question_jp": "「来る」の尊敬語として正しいものをすべて選んでください。",
-      "question_vn": "Chọn TẤT CẢ các dạng Sonkeigo đúng của động từ「来る」(đến):",
+      "question_jp": "「来る」の尊敬語として正しい組み合わせはどれですか？",
+      "question_vn": "Tổ hợp nào là dạng Sonkeigo đúng của động từ「来る」(đến)?",
       "choices": [
         {
           "key": "A",
-          "jp": "いらっしゃる のみ",
-          "vn": "Chỉ いらっしゃる"
+          "jp": "いらっしゃる のみで、他は尊敬語ではない",
+          "vn": "Chỉ いらっしゃる, các dạng khác không phải Sonkeigo"
         },
         {
           "key": "B",
-          "jp": "来られる のみ",
-          "vn": "Chỉ 来られる"
+          "jp": "来られる のみで、他は尊敬語ではない",
+          "vn": "Chỉ 来られる, các dạng khác không phải Sonkeigo"
         },
         {
           "key": "C",
-          "jp": "おいでになる のみ",
-          "vn": "Chỉ おいでになる"
+          "jp": "おいでになる のみで、他は尊敬語ではない",
+          "vn": "Chỉ おいでになる, các dạng khác không phải Sonkeigo"
         },
         {
           "key": "D",
@@ -482,23 +482,23 @@
       "choices": [
         {
           "key": "A",
-          "jp": "座って",
-          "vn": "座って (thông thường)"
+          "jp": "座って（普通の言い方）",
+          "vn": "座って — cách nói thông thường"
         },
         {
           "key": "B",
-          "jp": "お座りになって",
-          "vn": "お座りになって (Sonkeigo — お〜になる)"
+          "jp": "お座りになって（お〜になる の形）",
+          "vn": "お座りになって — cấu trúc お〜になる"
         },
         {
           "key": "C",
-          "jp": "おかけになって",
-          "vn": "おかけになって (Sonkeigo — お掛けになる, tự nhiên hơn)"
+          "jp": "おかけになって（お掛けになる の形）",
+          "vn": "おかけになって — cấu trúc お掛けになる"
         },
         {
           "key": "D",
-          "jp": "B và C đều đúng",
-          "vn": "Cả B và C đều là Sonkeigo hợp lệ"
+          "jp": "お座りになって・おかけになって の両方",
+          "vn": "Cả お座りになって và おかけになって"
         }
       ],
       "answer": "D",
@@ -510,32 +510,32 @@
       "level": 2,
       "level_name": "Trung bình",
       "category": "Sonkeigo trong câu hỏi",
-      "question_jp": "お客様に「名前を知っていますか？」を丁寧に聞く場合、正しい表現は？",
-      "question_vn": "Khi lịch sự hỏi khách hàng 'Ngài có biết tên không?', câu nào đúng?",
+      "question_jp": "お客様に「名前を知っていますか？」と丁寧に聞く場合、最も自然で一般的な表現はどれですか？",
+      "question_vn": "Khi lịch sự hỏi khách hàng 'Ngài có biết tên không?', cách nói TỰ NHIÊN và PHỔ BIẾN NHẤT là câu nào?",
       "choices": [
         {
           "key": "A",
           "jp": "お名前を知っていますか？",
-          "vn": "Ngài có biết tên không? (thông thường)"
+          "vn": "Ngài có biết tên không?"
         },
         {
           "key": "B",
           "jp": "お名前をご存知でいらっしゃいますか？",
-          "vn": "Ngài có biết tên không ạ? (Sonkeigo kép — quá mức)"
+          "vn": "Ngài có biết tên không ạ?"
         },
         {
           "key": "C",
           "jp": "お名前をご存知でしょうか？",
-          "vn": "Không biết ngài có biết tên không ạ? (Sonkeigo + lịch sự)"
+          "vn": "Không biết ngài có biết tên không ạ?"
         },
         {
           "key": "D",
           "jp": "お名前を存じていますか？",
-          "vn": "Ngài có biết tên không? (存じる = Kenjougo — sai chủ ngữ)"
+          "vn": "Ngài có biết tên không?"
         }
       ],
       "answer": "C",
-      "explanation": "「ご存知でしょうか」là cách hỏi chuẩn nhất: ご存知 (Sonkeigo của 知る) + でしょうか (hỏi lịch sự). Câu B dùng でいらっしゃいます sau ご存知 — về nguyên tắc không sai nhưng nghe rất cứng, ít tự nhiên. Câu D sai vì 存じる là Kenjougo — chủ ngữ phải là MÌNH, không phải khách hàng.",
+      "explanation": "「ご存知でしょうか」(C) là cách hỏi tự nhiên và phổ biến nhất: ご存知 (Sonkeigo dạng danh từ của 知る) + でしょうか (hỏi lịch sự). Phương án A thiếu kính ngữ cho hành động 'biết' của khách. Phương án B「ご存知でいらっしゃいますか」về nguyên tắc là kính ngữ hợp lệ, nhưng nghe rất cứng và ít khi dùng trong thực tế — nên không phải đáp án cho câu hỏi 'tự nhiên và phổ biến nhất'. Phương án D sai vì 存じる là Kenjougo — chủ ngữ phải là MÌNH, không phải khách hàng.",
       "tip": "ご存知でしょうか = Ngài có biết không ạ? — chuẩn và tự nhiên nhất"
     },
     {
@@ -543,32 +543,32 @@
       "level": 2,
       "level_name": "Trung bình",
       "category": "Sonkeigo — dạng phủ định",
-      "question_jp": "「社長はまだ来ていません」をお客様に伝える場合、正しいのは？（社長はUchiではなくSotoの立場で考える場合）",
-      "question_vn": "Thông báo với khách rằng 'Giám đốc chưa đến' — khi Giám đốc là người BÊN NGOÀI công ty mình (Soto), câu nào đúng?",
+      "question_jp": "あなたは受付担当。取引先の社長（Soto）が会議のためにお越しになる予定だが、まだ到着していない。その場にいた別の取引先の方に状況を伝える場合、正しいのは？",
+      "question_vn": "Bạn là lễ tân. Giám đốc công ty đối tác đã hẹn đến họp nhưng chưa tới. Bạn cần thông báo với người đang chờ. Câu nào đúng? (Giám đốc là người BÊN NGOÀI — Soto)",
       "choices": [
         {
           "key": "A",
           "jp": "社長はまだ参っておりません。",
-          "vn": "Giám đốc chưa đến ạ. (Kenjougo — dùng khi là Uchi)"
+          "vn": "Giám đốc chưa đến ạ. (参る + おる)"
         },
         {
           "key": "B",
           "jp": "社長はまだいらっしゃいません。",
-          "vn": "Giám đốc chưa đến ạ. (Sonkeigo — dùng khi là Soto) ✅"
+          "vn": "Giám đốc chưa đến ạ. (いらっしゃる)"
         },
         {
           "key": "C",
           "jp": "社長はまだ来ません。",
-          "vn": "Giám đốc chưa đến. (thông thường — không đủ lịch sự)"
+          "vn": "Giám đốc chưa đến."
         },
         {
           "key": "D",
           "jp": "社長はただいまおりません。",
-          "vn": "Giám đốc hiện không có mặt. (Kenjougo — không phù hợp ngữ cảnh)"
+          "vn": "Giám đốc hiện không có mặt. (おる)"
         }
       ],
       "answer": "B",
-      "explanation": "Bài này kiểm tra nhận thức Uchi/Soto từ góc độ ngược: khi Giám đốc là người BÊN NGOÀI (ví dụ: giám đốc của công ty đối tác, hoặc giám đốc đến thăm từ bên ngoài), thì phải dùng Sonkeigo. 「いらっしゃいません」là phủ định của いらっしゃる. Câu A/D dùng Kenjougo — chỉ đúng khi nói về người Uchi (sếp của chính mình).",
+      "explanation": "Bài này kiểm tra nhận thức Uchi/Soto trong tình huống thực tế: Giám đốc là người của công ty ĐỐI TÁC đã hẹn đến họp — là Soto so với bạn, nên phải dùng Sonkeigo. 「いらっしゃいません」(B) là phủ định của いらっしゃる — chuẩn khi nói về người Soto. Phương án A (参っておりません) và D (ただいまおりません) dùng Kenjougo — chỉ đúng khi nói về sếp trong công ty MÌNH (Uchi), sai ở đây. Phương án C (来ません) không đủ lịch sự khi nói với khách. Đây là bối cảnh tự nhiên hay gặp ở lễ tân: khách hẹn đến mà chưa tới.",
       "tip": "Điểm then chốt: chủ ngữ là Uchi → Kenjougo | chủ ngữ là Soto → Sonkeigo. Không phải địa vị mà là 'trong/ngoài nhóm'!"
     },
     {
@@ -582,27 +582,27 @@
         {
           "key": "A",
           "jp": "先生が書かれた",
-          "vn": "先生が書かれた (〜れる — Sonkeigo nhẹ)"
+          "vn": "先生が書かれた (〜れる)"
         },
         {
           "key": "B",
           "jp": "先生がお書きになった",
-          "vn": "先生がお書きになった (お〜になる — Sonkeigo mạnh)"
+          "vn": "先生がお書きになった (お〜になる)"
         },
         {
           "key": "C",
           "jp": "先生がお書きした",
-          "vn": "先生がお書きした (お〜する = Kenjougo — SAI)"
+          "vn": "先生がお書きした (お〜する)"
         },
         {
           "key": "D",
           "jp": "先生が書きになった",
-          "vn": "先生が書きになった (thiếu お — không đúng cấu trúc)"
+          "vn": "先生が書きになった"
         }
       ],
       "answer": "B",
-      "explanation": "「お書きになった」sử dụng cấu trúc お + 書き (masu-stem của 書く) + になった — đây là Sonkeigo chuẩn và trang trọng nhất. Câu A (書かれた) cũng là Sonkeigo nhưng mức độ thấp hơn. Câu C sai vì お〜する là Kenjougo. Câu D thiếu お trước 書き nên không đúng cấu trúc.",
-      "tip": "Cấu trúc: お + [masu-stem] + になる — nhớ PHẢI có お ở đầu và になる ở cuối!"
+      "explanation": "「お書きになった」(B) sử dụng cấu trúc お + 書き (gốc masu của 書く) + になった — đây là Sonkeigo chuẩn và trang trọng nhất. Phương án A (書かれた) cũng là Sonkeigo nhưng mức độ thấp hơn nên không phải 'trang trọng nhất'. Phương án C sai vì お〜する là Kenjougo — dùng cho hành động của mình. Phương án D thiếu お trước 書き nên không đúng cấu trúc お〜になる.",
+      "tip": "Cấu trúc: お + [gốc masu] + になる — nhớ PHẢI có お ở đầu và になる ở cuối!"
     },
     {
       "id": 18,
@@ -615,17 +615,17 @@
         {
           "key": "A",
           "jp": "お客様が資料を送っていただいた",
-          "vn": "Được khách hàng gửi tài liệu cho. (いただく = Kenjougo — đổi góc nhìn)"
+          "vn": "Được khách hàng gửi tài liệu cho. (いただく)"
         },
         {
           "key": "B",
           "jp": "お客様が資料をお送りくださった",
-          "vn": "Khách hàng đã gửi tài liệu cho tôi. (お送りくださる = Sonkeigo)"
+          "vn": "Khách hàng đã gửi tài liệu cho tôi. (お送りくださる)"
         },
         {
           "key": "C",
           "jp": "お客様が資料を送られた",
-          "vn": "Khách hàng đã gửi tài liệu. (〜れる = Sonkeigo nhẹ)"
+          "vn": "Khách hàng đã gửi tài liệu. (〜れる)"
         },
         {
           "key": "D",
@@ -648,17 +648,17 @@
         {
           "key": "A",
           "jp": "いらっしゃいませ。",
-          "vn": "Xin kính chào quý khách. (chào đón — chuẩn)"
+          "vn": "Xin kính chào quý khách."
         },
         {
           "key": "B",
           "jp": "こんにちは、来ましたね。",
-          "vn": "Chào buổi chiều, bạn đến rồi nhỉ. (quá thân mật)"
+          "vn": "Chào buổi chiều, bạn đến rồi nhỉ."
         },
         {
           "key": "C",
           "jp": "お越しいただきありがとうございます。",
-          "vn": "Cảm ơn quý vị đã ghé đến. (trang trọng, lịch sự cao)"
+          "vn": "Cảm ơn quý vị đã ghé đến."
         },
         {
           "key": "D",
@@ -667,7 +667,7 @@
         }
       ],
       "answer": "D",
-      "explanation": "「いらっしゃいませ」(A) là câu chào chuẩn khi khách vừa bước vào — phổ biến nhất trong môi trường bán lẻ và văn phòng tiếp khách. 「お越しいただきありがとうございます」(C) trang trọng hơn, thường dùng trong các buổi họp kinh doanh hoặc sau khi khách đã an vị. Cả hai đều là Sonkeigo: いらっしゃいませ (いらっしゃる) và お越し (越す = đến).",
+      "explanation": "「いらっしゃいませ」(A) là câu chào chuẩn khi khách vừa bước vào — phổ biến nhất trong môi trường bán lẻ và văn phòng tiếp khách. 「お越しいただきありがとうございます」(C) trang trọng hơn, thường dùng trong các buổi họp kinh doanh hoặc sau khi khách đã an vị. Phương án B quá thân mật, không dùng được với khách. Cả A và C đều là kính ngữ hợp lệ nên đáp án là D: いらっしゃいませ dùng いらっしゃる (Sonkeigo); お越しいただき kết hợp お越し (Sonkeigo của 越す) và いただき (Kenjougo — mình được nhận sự ghé thăm), đây là mẫu kết hợp phổ biến trong tiếng Nhật thương mại.",
       "tip": "いらっしゃいませ = chào khách vào cửa | お越しいただきありがとうございます = cảm ơn khách đã đến (sau khi vào)"
     },
     {
@@ -681,7 +681,7 @@
         {
           "key": "A",
           "jp": "③→②→①",
-          "vn": "③ 読む (thông thường) → ② 読まれる (Sonkeigo nhẹ) → ① お読みになる (Sonkeigo mạnh)"
+          "vn": "③ 読む → ② 読まれる → ① お読みになる"
         },
         {
           "key": "B",
@@ -691,7 +691,7 @@
         {
           "key": "C",
           "jp": "①→②→③",
-          "vn": "① (mạnh nhất) → ② → ③ (yếu nhất)"
+          "vn": "① → ② → ③"
         },
         {
           "key": "D",
@@ -700,8 +700,8 @@
         }
       ],
       "answer": "A",
-      "explanation": "Thang mức độ Sonkeigo cho動詞: ③ 読む (thường, không kính ngữ) < ② 読まれる (〜れる: Sonkeigo nhẹ, mức thấp nhất) < ① お読みになる (お〜になる: Sonkeigo mạnh nhất). Trong giao tiếp kinh doanh chuẩn BJT, nên dùng お読みになる khi muốn thể hiện sự kính trọng đầy đủ. 〜れる dùng khi ngữ cảnh không quá trang trọng.",
-      "tip": "お〜になる > おいでになる ≒ 〜られる — dùng お〜になる cho môi trường kinh doanh trang trọng"
+      "explanation": "Thang mức độ Sonkeigo cho động từ: ③ 読む (thường, không kính ngữ) < ② 読まれる (〜れる: Sonkeigo nhẹ) < ① お読みになる (お〜になる: Sonkeigo mạnh nhất) → thứ tự A. Trong giao tiếp kinh doanh chuẩn BJT, nên dùng お読みになる khi muốn thể hiện sự kính trọng đầy đủ. 〜れる dùng khi ngữ cảnh không quá trang trọng.",
+      "tip": "Mức trang trọng động từ: dạng thường < 〜れる/られる (Sonkeigo nhẹ) < お〜になる (Sonkeigo mạnh) — dùng お〜になる cho môi trường kinh doanh trang trọng"
     },
     {
       "id": 21,
@@ -714,22 +714,22 @@
         {
           "key": "A",
           "jp": "はい、山田はおります。少々お待ちください。",
-          "vn": "Vâng, Yamada đang có mặt. Xin vui lòng chờ. (Kenjougo — dùng khi Yamada là Uchi)"
+          "vn": "Vâng, Yamada đang có mặt. Xin vui lòng chờ. (おる)"
         },
         {
           "key": "B",
           "jp": "はい、山田様はいらっしゃいます。少々お待ちください。",
-          "vn": "Vâng, ông Yamada đang có mặt ạ. Xin vui lòng chờ. (Sonkeigo — đúng vì Yamada là Soto)"
+          "vn": "Vâng, ông Yamada đang có mặt ạ. Xin vui lòng chờ. (いらっしゃる)"
         },
         {
           "key": "C",
           "jp": "はい、山田さんは来ています。待ってください。",
-          "vn": "Vâng, anh Yamada đang có mặt. Chờ nhé. (thông thường — không đủ lịch sự)"
+          "vn": "Vâng, anh Yamada đang có mặt. Chờ nhé."
         },
         {
           "key": "D",
           "jp": "はい、山田様は参っております。少々お待ちください。",
-          "vn": "Vâng, ông Yamada đang có mặt ạ. (参る = Kenjougo — sai khi Yamada là Soto)"
+          "vn": "Vâng, ông Yamada đang có mặt ạ. (参る)"
         }
       ],
       "answer": "B",
@@ -752,12 +752,12 @@
         {
           "key": "B",
           "jp": "先日送ったメールをご覧になりましたでしょうか。",
-          "vn": "Email hôm trước, quý vị đã xem chưa ạ? (Sonkeigo thuần)"
+          "vn": "Email hôm trước, quý vị đã xem chưa ạ?"
         },
         {
           "key": "C",
           "jp": "先日ご送付いたしましたメールはお読みになりましたでしょうか。",
-          "vn": "Email tôi kính gửi hôm trước, quý vị đã đọc chưa ạ? (chuẩn, trang trọng)"
+          "vn": "Email tôi kính gửi hôm trước, quý vị đã đọc chưa ạ?"
         },
         {
           "key": "D",
@@ -785,7 +785,7 @@
         {
           "key": "B",
           "jp": "①「こっちに来て」②「部屋です」③「座ってください」",
-          "vn": "① Đây này ② Đây là phòng ③ Ngồi đi (thô — không phù hợp)"
+          "vn": "① Đây này ② Đây là phòng ③ Ngồi đi"
         },
         {
           "key": "C",
@@ -813,7 +813,7 @@
         {
           "key": "A",
           "jp": "この書類にサインなさってください。",
-          "vn": "Mời ngài ký vào tài liệu này ạ. (なさる = Sonkeigo của する)"
+          "vn": "Mời ngài ký vào tài liệu này ạ. (なさる)"
         },
         {
           "key": "B",
@@ -823,7 +823,7 @@
         {
           "key": "C",
           "jp": "こちらの書類にご署名くださいますようお願い申し上げます。",
-          "vn": "Kính nhờ quý vị vui lòng ký tên vào tài liệu này ạ. (rất trang trọng — văn viết)"
+          "vn": "Kính nhờ quý vị vui lòng ký tên vào tài liệu này ạ."
         },
         {
           "key": "D",
@@ -851,12 +851,12 @@
         {
           "key": "B",
           "jp": "弊社のサービスをすでにご利用されたことがありますか？",
-          "vn": "Quý vị đã từng sử dụng dịch vụ của chúng tôi chưa? (ご〜される — dùng kép sai)"
+          "vn": "Quý vị đã từng sử dụng dịch vụ của chúng tôi chưa? (ご〜される)"
         },
         {
           "key": "C",
           "jp": "弊社のサービスをご使用いただきましたか？",
-          "vn": "Quý vị đã sử dụng dịch vụ của chúng tôi chưa? (いただく — Kenjougo góc nhìn khác)"
+          "vn": "Quý vị đã sử dụng dịch vụ của chúng tôi chưa? (いただく)"
         },
         {
           "key": "D",
@@ -879,26 +879,26 @@
         {
           "key": "A",
           "jp": "田中部長が明日いらっしゃるとおっしゃっていました。",
-          "vn": "Trưởng phòng Tanaka nói rằng ngày mai ngài ấy sẽ đến. (Sonkeigo đầy đủ — vì Tanaka là Soto)"
+          "vn": "Trưởng phòng Tanaka nói rằng ngày mai ngài ấy sẽ đến."
         },
         {
           "key": "B",
           "jp": "田中部長が明日参るとおっしゃっていました。",
-          "vn": "Trưởng phòng Tanaka nói rằng ngày mai tôi sẽ đến. (参る = Kenjougo — sai ngữ cảnh)"
+          "vn": "Trưởng phòng Tanaka nói rằng ngài ấy sẽ đến (参る = khiêm nhường ngữ — sai vì Tanaka là Soto)"
         },
         {
           "key": "C",
           "jp": "田中部長が明日来ると申していました。",
-          "vn": "Trưởng phòng Tanaka đã nói rằng ngày mai đến. (申す = Kenjougo — dùng sai cho người Soto)"
+          "vn": "Trưởng phòng Tanaka đã nói rằng ngày mai sẽ đến."
         },
         {
           "key": "D",
           "jp": "田中部長が明日いらっしゃると申していました。",
-          "vn": "Trưởng phòng Tanaka đã nói rằng ngày mai ngài ấy sẽ đến. (hỗn hợp — sai)"
+          "vn": "Trưởng phòng Tanaka đã nói rằng ngài ấy sẽ đến."
         }
       ],
       "answer": "A",
-      "explanation": "Khi truyền đạt về người NGOÀI công ty (田中部長 là Soto): (1) Hành động 'đến' của Tanaka → いらっしゃる (Sonkeigo); (2) Hành động 'nói' của Tanaka → おっしゃる (Sonkeigo). Câu B sai vì 参る là Kenjougo — áp dụng sai cho người Soto. Câu C, D sai vì 申す là Kenjougo chỉ dùng cho hành động của MÌNH.",
+      "explanation": "Khi truyền đạt về người NGOÀI công ty (田中部長 là Soto): (1) Hành động 'đến' của Tanaka → いらっしゃる (Sonkeigo); (2) Hành động 'nói' của Tanaka → おっしゃる (Sonkeigo) → phương án A đúng cả hai vế. Phương án B sai ở động từ 'đến': 参る là Kenjougo — chủ ngữ vẫn là Tanaka (người Soto) nên hạ thấp ngài ấy là sai. Phương án C sai ở động từ 'nói': 申す là Kenjougo, chỉ dùng cho hành động của MÌNH hoặc người Uchi. Phương án D đúng vế 'đến' (いらっしゃる) nhưng sai vế 'nói' (申す) — trộn lẫn hai loại kính ngữ.",
       "tip": "Khi truyền lời của người Soto: cả hành động 'đến' lẫn 'nói' đều phải dùng Sonkeigo!"
     },
     {
@@ -912,26 +912,26 @@
         {
           "key": "A",
           "jp": "住所はどこですか？",
-          "vn": "Địa chỉ ở đâu? (thô)"
+          "vn": "Địa chỉ ở đâu?"
         },
         {
           "key": "B",
           "jp": "ご住所をお聞かせいただけますでしょうか？",
-          "vn": "Không biết quý vị có thể cho biết địa chỉ không ạ? (ご住所 + お聞かせいただく)"
+          "vn": "Không biết quý vị có thể cho biết địa chỉ không ạ?"
         },
         {
           "key": "C",
           "jp": "ご住所はいかがでしょうか？",
-          "vn": "Địa chỉ của ngài là thế nào ạ? (いかが = cách hỏi lịch sự nhưng không tự nhiên ở đây)"
+          "vn": "Địa chỉ của ngài là thế nào ạ? (いかが)"
         },
         {
           "key": "D",
           "jp": "ご住所をおっしゃっていただけますか？",
-          "vn": "Quý vị có thể nói địa chỉ không ạ? (おっしゃる + いただく — kết hợp sai)"
+          "vn": "Quý vị có thể nói địa chỉ không ạ? (おっしゃる + いただく)"
         }
       ],
       "answer": "B",
-      "explanation": "「ご住所をお聞かせいただけますでしょうか」là câu chuẩn nhất: ご住所 (địa chỉ của ngài — Teineigo) + お聞かせいただく (được phép nghe = được ngài cho biết — Kenjougo) + でしょうか (hỏi lịch sự). Câu D sai vì おっしゃる là Sonkeigo của 言う — không kết hợp trực tiếp với いただく kiểu đó.",
+      "explanation": "「ご住所をお聞かせいただけますでしょうか」(B) là câu chuẩn nhất: ご住所 (địa chỉ của ngài — Teineigo) + お聞かせいただく (được ngài cho biết — Kenjougo) + でしょうか (hỏi lịch sự). Phương án A quá thô. Phương án C dùng いかが — cách hỏi lịch sự nhưng không tự nhiên khi hỏi địa chỉ (いかが hợp với hỏi ý kiến/tình trạng hơn). Phương án D sai vì おっしゃる là Sonkeigo của 言う — không kết hợp trực tiếp với いただく theo kiểu này.",
       "tip": "ご住所をお聞かせいただけますでしょうか = cách hỏi địa chỉ chuẩn nhất trong kinh doanh"
     },
     {
@@ -939,33 +939,33 @@
       "level": 3,
       "level_name": "Khá",
       "category": "Sonkeigo nâng cao — kết hợp trong văn bản",
-      "question_jp": "お礼メールの一節: 「先日は（　）ありがとうございました」— 「来てくれた」の尊敬語を入れてください。",
-      "question_vn": "Trong email cảm ơn: 「先日は______ありがとうございました」— Điền Sonkeigo của 'đã đến' (くれた → Sonkeigo):",
+      "question_jp": "お礼メールの一節: 「先日は（　）ありがとうございました」— 相手の行為を直接立てる尊敬語として最も適切なものはどれですか？",
+      "question_vn": "Trong email cảm ơn: 「先日は______ありがとうございました」— Cách nào dùng TÔN KÍNH NGỮ để tôn vinh TRỰC TIẾP hành động của khách?",
       "choices": [
         {
           "key": "A",
           "jp": "来ていただき",
-          "vn": "来ていただき (Kenjougo: được ngài đến)"
+          "vn": "来ていただき"
         },
         {
           "key": "B",
           "jp": "いらっしゃっていただき",
-          "vn": "いらっしゃっていただき (Sonkeigo + いただく — kết hợp cao cấp)"
+          "vn": "いらっしゃっていただき"
         },
         {
           "key": "C",
           "jp": "お越しくださり",
-          "vn": "お越しくださり (お越し + くださる — Sonkeigo chuẩn cao)"
+          "vn": "お越しくださり"
         },
         {
           "key": "D",
           "jp": "C が最も自然でビジネス的",
-          "vn": "C tự nhiên và kinh doanh nhất"
+          "vn": "C tôn kính trực tiếp hành động của khách"
         }
       ],
       "answer": "D",
-      "explanation": "「お越しくださり、ありがとうございました」là cách viết chuẩn và trang trọng nhất trong email cảm ơn sau cuộc gặp kinh doanh. お越し (越す = đến — Sonkeigo) + くださる (Sonkeigo của くれる) = 'ngài đã đến cho/ngài đã ghé'. Câu A (来ていただき) cũng đúng nhưng ít trang trọng hơn C. Câu B không sai nhưng nghe hơi nặng nề.",
-      "tip": "お越しくださりありがとうございました = cảm ơn khách đã đến — chuẩn nhất trong email sau cuộc gặp"
+      "explanation": "Đề hỏi cách TÔN KÍNH TRỰC TIẾP hành động của khách — tức phải dùng Sonkeigo thuần với chủ ngữ là khách. 「お越しくださり」(C) đáp ứng chính xác: お越し (Sonkeigo của 来る/越す) + くださる (Sonkeigo của くれる) → chủ ngữ là KHÁCH, ngài ấy đã ghé đến cho chúng tôi. Phương án A「来ていただき」cũng đúng ngữ pháp và rất phổ biến trong thực tế, nhưng いただく là Kenjougo — chuyển góc nhìn sang 'mình được nhận ân huệ', không phải tôn kính trực tiếp hành động của khách, nên không khớp yêu cầu đề. Phương án B「いらっしゃっていただき」ghép Sonkeigo với いただく nghe nặng nề, ít dùng.",
+      "tip": "Tôn kính TRỰC TIẾP hành động của khách → 〜くださる (Sonkeigo). Nhìn từ góc 'mình được nhận' → 〜いただく (Kenjougo). Cả hai đều đúng, khác góc nhìn."
     },
     {
       "id": 29,
@@ -977,17 +977,17 @@
       "choices": [
         {
           "key": "A",
-          "jp": "「おっしゃる通り」は「言った通り」の謙譲語表現",
+          "jp": "「おっしゃる通り」は「言った通り」の謙譲語表現である",
           "vn": "「おっしゃる通り」là Kenjougo của 言った通り"
         },
         {
           "key": "B",
-          "jp": "「おっしゃる通り」は「言われた通り」の尊敬語表現で、同意を示す決まり文句",
-          "vn": "「おっしゃる通り」là Sonkeigo của 言われた通り — thành ngữ thể hiện sự đồng ý"
+          "jp": "「おっしゃる通り」は尊敬語で、同意を示す決まり文句である",
+          "vn": "「おっしゃる通り」là Sonkeigo — thành ngữ thể hiện sự đồng ý"
         },
         {
           "key": "C",
-          "jp": "「おっしゃる通り」は丁寧語で、誰にでも使える",
+          "jp": "「おっしゃる通り」は丁寧語で、誰に対しても使える表現である",
           "vn": "「おっしゃる通り」là Teineigo, dùng được với bất kỳ ai"
         },
         {
@@ -1005,32 +1005,32 @@
       "level": 3,
       "level_name": "Khá",
       "category": "Sonkeigo trong hội thoại — tổng hợp",
-      "question_jp": "次の会話で、下線部の敬語として最も適切なものはどれですか？\nお客様:「いつ完成しますか？」\nあなた:「来月末に＿＿予定でございます。」（'完成する'を尊敬語で）",
-      "question_vn": "Khách hỏi: 「いつ完成しますか？」(Khi nào hoàn thành?)\nBạn: 「来月末に___予定でございます」— Điền Sonkeigo của 完成する:",
+      "question_jp": "次の会話で、下線部に最も適切な敬語表現はどれですか？\nお客様:「いつ完成しますか？」\nあなた:「来月末に＿＿予定でございます。」",
+      "question_vn": "Khách hỏi: 「いつ完成しますか？」(Khi nào hoàn thành?)\nBạn: 「来月末に___予定でございます」— Điền từ kính ngữ phù hợp nhất:",
       "choices": [
         {
           "key": "A",
           "jp": "完成いたす",
-          "vn": "完成いたす (Kenjougo — hành động của mình)"
+          "vn": "完成いたす"
         },
         {
           "key": "B",
           "jp": "完成なさる",
-          "vn": "完成なさる (Sonkeigo của する — nhưng chủ ngữ ở đây là gì?)"
+          "vn": "完成なさる"
         },
         {
           "key": "C",
           "jp": "完成する",
-          "vn": "完成する (thông thường)"
+          "vn": "完成する"
         },
         {
           "key": "D",
-          "jp": "完成いたす — chủ ngữ ngầm là 'chúng tôi' nên Kenjougo là đúng",
-          "vn": "完成いたす — vì chủ ngữ là 'chúng tôi' (Uchi), Kenjougo mới đúng"
+          "jp": "ご完成になる",
+          "vn": "ご完成になる"
         }
       ],
-      "answer": "D",
-      "explanation": "Câu trả lời về 'khi nào CHÚNG TÔI hoàn thành' — chủ ngữ ngầm là công ty mình (Uchi). Vì vậy dùng Kenjougo: 「完成いたす予定でございます」. Câu B (なさる) sai vì chủ ngữ không phải khách hàng. Đây là bẫy thường gặp: câu hỏi có vẻ hỏi về Sonkeigo nhưng thực tế lại cần Kenjougo vì chủ ngữ là MÌNH.",
+      "answer": "A",
+      "explanation": "Câu trả lời về 'khi nào CHÚNG TÔI hoàn thành' — chủ ngữ ngầm là công ty mình (Uchi). Vì vậy dùng Kenjougo: 「完成いたす予定でございます」→ phương án A. Phương án B (完成なさる) sai vì なさる là Sonkeigo của する, chủ ngữ phải là khách hàng. Phương án D (ご完成になる) cũng là Sonkeigo (ご〜になる) nên cùng mắc lỗi sai chủ ngữ như B. Phương án C (完成する) đúng nghĩa nhưng không có kính ngữ, không phù hợp khi đáp lời khách. Đây là bẫy thường gặp: câu hỏi có vẻ hỏi về Sonkeigo nhưng thực tế lại cần Kenjougo vì chủ ngữ là MÌNH.",
       "tip": "Bẫy thường gặp: nhìn vào CHỦ NGỮ thực sự trước khi chọn Sonkeigo hay Kenjougo!"
     },
     {
@@ -1049,7 +1049,7 @@
         {
           "key": "B",
           "jp": "社長がいらっしゃられました。",
-          "vn": "Giám đốc đã đến ạ. (いらっしゃる + られる = kép)"
+          "vn": "Giám đốc đã đến ạ."
         },
         {
           "key": "C",
@@ -1077,22 +1077,22 @@
         {
           "key": "A",
           "jp": "おっしゃられました",
-          "vn": "おっしゃられました (おっしゃる + られる = kép ❌)"
+          "vn": "おっしゃられました"
         },
         {
           "key": "B",
           "jp": "なさられました",
-          "vn": "なさられました (なさる + られる = kép ❌)"
+          "vn": "なさられました"
         },
         {
           "key": "C",
           "jp": "ご覧になりました",
-          "vn": "ご覧になりました (ご覧 + になる = cấu trúc đúng ✅)"
+          "vn": "ご覧になりました"
         },
         {
           "key": "D",
           "jp": "召し上がられました",
-          "vn": "召し上がられました (召し上がる + られる = kép ❌)"
+          "vn": "召し上がられました"
         }
       ],
       "answer": "C",
@@ -1110,22 +1110,22 @@
         {
           "key": "A",
           "jp": "D社長はまだおりません。",
-          "vn": "Chủ tịch D chưa đến. (おる = Kenjougo — SAI vì Chủ tịch D là Soto)"
+          "vn": "Chủ tịch D chưa đến. (おる)"
         },
         {
           "key": "B",
           "jp": "D社長はまだいらっしゃいません。",
-          "vn": "Chủ tịch D chưa đến ạ. (Sonkeigo — ĐÚNG vì D là người ngoài công ty mình)"
+          "vn": "Chủ tịch D chưa đến ạ. (いらっしゃる)"
         },
         {
           "key": "C",
           "jp": "D社長はまだ参っておりません。",
-          "vn": "Chủ tịch D chưa đến ạ. (参る = Kenjougo — SAI)"
+          "vn": "Chủ tịch D chưa đến ạ. (参る + おる)"
         },
         {
           "key": "D",
           "jp": "D社長はまだ来ておりません。",
-          "vn": "Chủ tịch D chưa đến ạ. (おる = Kenjougo — SAI)"
+          "vn": "Chủ tịch D chưa đến ạ. (来ておる)"
         }
       ],
       "answer": "B",
@@ -1137,32 +1137,32 @@
       "level": 4,
       "level_name": "Khó",
       "category": "Phân tích lỗi sai toàn diện",
-      "question_jp": "次の文のうち、敬語が完全に正しいものはどれですか？（全てお客様に対する発言）",
-      "question_vn": "Câu nào dùng kính ngữ HOÀN TOÀN đúng? (Tất cả đều là phát biểu với khách hàng)",
+      "question_jp": "次の文のうち、Sonkeigo（尊敬語）でお客様の行動を直接・明確に敬う表現として最も正しいものはどれですか？（全てお客様に対する発言）",
+      "question_vn": "Câu nào dùng Sonkeigo TRỰC TIẾP tôn kính hành động của khách rõ nhất và kính ngữ hoàn toàn đúng? (Tất cả đều là phát biểu với khách hàng)",
       "choices": [
         {
           "key": "A",
           "jp": "お客様がお越しになりました際に、弊社の田中がご説明いたします。",
-          "vn": "Khi quý vị đến, Tanaka bên tôi sẽ giải thích. (Sonkeigo cho khách + Kenjougo cho mình)"
+          "vn": "Khi quý vị đến, Tanaka bên tôi sẽ giải thích."
         },
         {
           "key": "B",
           "jp": "お客様がいらっしゃいました際に、田中部長がご説明いたします。",
-          "vn": "Khi quý vị đến, Trưởng phòng Tanaka sẽ giải thích. (Sonkeigo cho khách ✅, nhưng 田中部長 phải bỏ 部長)"
+          "vn": "Khi quý vị đến, Trưởng phòng Tanaka sẽ giải thích."
         },
         {
           "key": "C",
           "jp": "お客様がいらっしゃった際に、弊社の田中がご説明なさいます。",
-          "vn": "Khi quý vị đến, Tanaka bên tôi sẽ giải thích. (ご説明なさる = Sonkeigo cho Tanaka — SAI vì Tanaka là Uchi)"
+          "vn": "Khi quý vị đến, Tanaka bên tôi sẽ giải thích."
         },
         {
           "key": "D",
-          "jp": "お越しいただいた際に、弊社の田中がご説明させていただきます。",
-          "vn": "Khi quý vị ghé đến, Tanaka bên tôi xin được giải thích. (tự nhiên, khiêm nhường)"
+          "jp": "お越しいただいた際に、田中部長がご説明させていただきます。",
+          "vn": "Khi quý vị ghé đến, Trưởng phòng Tanaka xin được giải thích."
         }
       ],
       "answer": "A",
-      "explanation": "Câu A đúng hoàn toàn: お越しになる (Sonkeigo cho hành động 'đến' của khách) + 弊社の田中 (Tanaka không thêm 部長 — đúng) + ご説明いたします (Kenjougo cho hành động của Tanaka là Uchi). Câu B sai vì giữ 「田中部長」— không được thêm chức danh kính trọng cho người Uchi trước mặt khách. Câu C sai vì なさる là Sonkeigo — áp dụng sai cho Tanaka (Uchi). Câu D cũng rất tốt và tự nhiên.",
+      "explanation": "Phương án A đúng hoàn toàn và chuẩn mực nhất: お越しになる (Sonkeigo trực tiếp tôn kính hành động 'đến' của khách) + 弊社の田中 (Tanaka không thêm 部長 — đúng quy tắc Uchi/Soto) + ご説明いたします (Kenjougo cho hành động của Tanaka là người Uchi). Phương án B sai vì giữ 「田中部長」— không thêm chức danh kính trọng cho người Uchi trước mặt khách. Phương án C sai vì なさる là Sonkeigo — áp dụng sai cho Tanaka (Uchi). Phương án D cũng giữ 「田中部長」nên vi phạm cùng lỗi Uchi/Soto như B.",
       "tip": "Nhân viên công ty mình khi nhắc trước mặt khách: dùng tên không + Kenjougo — không thêm 部長/課長!"
     },
     {
@@ -1181,12 +1181,12 @@
         {
           "key": "B",
           "jp": "もしよろしければ、いらっしゃってください。",
-          "vn": "Nếu thuận tiện, mời ngài đến ạ. (hơi trực tiếp)"
+          "vn": "Nếu thuận tiện, mời ngài đến ạ."
         },
         {
           "key": "C",
           "jp": "もしよろしければ、ぜひお越しいただけますと幸いでございます。",
-          "vn": "Nếu quý vị thuận tiện, rất hân hạnh nếu ngài có thể ghé đến ạ. (rất trang trọng)"
+          "vn": "Nếu quý vị thuận tiện, rất hân hạnh nếu ngài có thể ghé đến ạ."
         },
         {
           "key": "D",
@@ -1195,36 +1195,36 @@
         }
       ],
       "answer": "D",
-      "explanation": "Câu A: 「お越しくださいませ」= お越し (Sonkeigo của 来る/越す) + くださいませ (Sonkeigo của ください, thêm ませ để càng lịch sự hơn) — dùng trong hội thoại hoặc thư mời thông thường. Câu C: 「お越しいただけますと幸いでございます」— cực trang trọng, thường dùng trong thư mời chính thức, sự kiện. Câu B cũng đúng nhưng ít trang trọng hơn A.",
+      "explanation": "Phương án A: 「お越しくださいませ」= お越し (Sonkeigo của 来る/越す) + くださいませ (Sonkeigo của ください, thêm ませ để càng lịch sự hơn) — dùng trong hội thoại hoặc thư mời thông thường. Phương án C: 「お越しいただけますと幸いでございます」— cực trang trọng, thường dùng trong thư mời chính thức, sự kiện. Phương án B (いらっしゃってください) cũng là Sonkeigo nhưng trực tiếp hơn, ít trang trọng hơn A. Cả A và C đều dùng được tùy tình huống → đáp án D.",
       "tip": "くださいませ = ください + ませ → lịch sự hơn ください. Dùng trong mời khách trang trọng."
     },
     {
       "id": 36,
       "level": 4,
       "level_name": "Khó",
-      "category": "Sonkeigo — so sánh toàn diện trong văn phòng",
+      "category": "Kính ngữ phù hợp quan hệ — không lạm dụng Kenjougo với cấp dưới",
       "question_jp": "上司が会議中に部下に対して使う表現として、不適切なものはどれですか？",
       "question_vn": "Trong cuộc họp, câu nào cấp trên dùng với cấp dưới là KHÔNG PHÙ HỢP?",
       "choices": [
         {
           "key": "A",
           "jp": "この資料を見てください。",
-          "vn": "Hãy xem tài liệu này nhé. (thông thường — OK với cấp dưới)"
+          "vn": "Hãy xem tài liệu này nhé."
         },
         {
           "key": "B",
           "jp": "この件についてどう思いますか？",
-          "vn": "Bạn nghĩ thế nào về vấn đề này? (thông thường — OK)"
+          "vn": "Bạn nghĩ thế nào về vấn đề này?"
         },
         {
           "key": "C",
           "jp": "ご意見をいただけますか？",
-          "vn": "Liệu tôi có thể nhận ý kiến của bạn không? (Kenjougo — quá cung kính với cấp dưới)"
+          "vn": "Liệu tôi có thể nhận ý kiến của bạn không? (いただく)"
         },
         {
           "key": "D",
           "jp": "少し待ってください。",
-          "vn": "Đợi một chút nhé. (thông thường — OK)"
+          "vn": "Đợi một chút nhé."
         }
       ],
       "answer": "C",
@@ -1242,26 +1242,26 @@
         {
           "key": "A",
           "jp": "出席し",
-          "vn": "出席し (thông thường — không đủ trang trọng)"
+          "vn": "出席し"
         },
         {
           "key": "B",
           "jp": "出席なさり",
-          "vn": "ご出席なさり (Sonkeigo của する — nhưng kết hợp với いただく là không tự nhiên)"
+          "vn": "ご出席なさり"
         },
         {
           "key": "C",
           "jp": "出席",
-          "vn": "ご出席いただければ (ご + 出席 + いただく — chuẩn nhất)"
+          "vn": "ご出席いただければ"
         },
         {
           "key": "D",
           "jp": "参加いただき",
-          "vn": "ご参加いただき (cũng đúng với ý tham dự)"
+          "vn": "ご参加いただき"
         }
       ],
       "answer": "C",
-      "explanation": "「ご出席いただければ幸いでございます」là cấu trúc chuẩn trong thiệp mời trang trọng: ご出席 (lịch sự hóa 出席) + いただく (Kenjougo — tôi được nhận sự tham dự của ngài) + ば (điều kiện lịch sự) + 幸いでございます (rất hạnh phúc). Lưu ý: ở đây không dùng Sonkeigo thuần mà kết hợp danh từ lịch sự + Kenjougo — mẫu cực phổ biến trong văn bản chính thức Nhật.",
+      "explanation": "「ご出席いただければ幸いでございます」(C) là cấu trúc chuẩn trong thiệp mời trang trọng: ご出席 (lịch sự hóa 出席) + いただく (Kenjougo — tôi được nhận sự tham dự của ngài) + ば (điều kiện lịch sự) + 幸いでございます. Phương án A không đủ trang trọng cho thiệp mời. Phương án B (ご出席なさり) là Sonkeigo nhưng ghép với いただく phía sau trong khung câu đề cho ra 「ご出席なさりいただければ」— không tự nhiên. Phương án D (ご参加) đúng cấu trúc nhưng đề yêu cầu điền dạng của 出席する, không phải 参加する. Lưu ý: ở đây không dùng Sonkeigo thuần mà kết hợp danh từ lịch sự + Kenjougo — mẫu cực phổ biến trong văn bản chính thức Nhật.",
       "tip": "ご〜いただければ幸いです = mẫu câu mời trong thiệp chính thức — phải thuộc lòng!"
     },
     {
@@ -1275,22 +1275,22 @@
         {
           "key": "A",
           "jp": "この件（このけん）",
-          "vn": "この件 (vấn đề này) — bình thường"
+          "vn": "この件 (vấn đề này)"
         },
         {
           "key": "B",
           "jp": "弊社の新製品",
-          "vn": "弊社の新製品 (sản phẩm mới của chúng tôi) — bình thường"
+          "vn": "弊社の新製品 (sản phẩm mới của chúng tôi)"
         },
         {
           "key": "C",
           "jp": "私のこと",
-          "vn": "私のこと (về tôi) — có vẻ hơi kỳ nhưng có thể dùng"
+          "vn": "私のこと (về tôi)"
         },
         {
           "key": "D",
           "jp": "わたくしの意見",
-          "vn": "わたくしの意見 (ý kiến của tôi) — hỏi người khác về ý kiến của mình bằng ご存知 là không phù hợp"
+          "vn": "わたくしの意見 (ý kiến của tôi)"
         }
       ],
       "answer": "D",
@@ -1308,26 +1308,26 @@
         {
           "key": "A",
           "jp": "「わかりました」/ お伝え",
-          "vn": "「わかりました」(hiểu rồi) / お伝え (truyền đạt — Kenjougo)"
+          "vn": "「わかりました」/ お伝え"
         },
         {
           "key": "B",
           "jp": "「了解」/ お知らせ",
-          "vn": "「了解」(OK — không phù hợp với sếp) / お知らせ"
+          "vn": "「了解」/ お知らせ"
         },
         {
           "key": "C",
           "jp": "「承知しました」/ お伝え",
-          "vn": "「承知しました」(vâng ạ — Kenjougo) / お伝え — chuẩn nhất"
+          "vn": "「承知しました」/ お伝え"
         },
         {
           "key": "D",
           "jp": "「かしこまりました」/ 申し上げ",
-          "vn": "「かしこまりました」(tuân lệnh — trang trọng nhất) / 申し上げ"
+          "vn": "「かしこまりました」/ 申し上げ"
         }
       ],
       "answer": "C",
-      "explanation": "Câu C chuẩn trong môi trường văn phòng: 「承知しました」(Kenjougo — tuân theo, hiểu ý) là cách trả lời sếp phù hợp nhất trong ngữ cảnh bình thường. 「お伝えいたします」= Kenjougo của 伝える — truyền đạt cho ông Suzuki. Câu D: 「かしこまりました」trang trọng nhất nhưng thường dùng khi phục vụ khách hàng trực tiếp, không dùng với sếp trong hội thoại thường ngày. 「了解」(B) không dùng với cấp trên — thiếu trang trọng.",
+      "explanation": "Câu C chuẩn trong môi trường văn phòng: 「承知しました」(Kenjougo — tuân theo, hiểu ý) là cách trả lời sếp phù hợp nhất trong ngữ cảnh văn phòng thông thường. 「お伝えいたします」= Kenjougo của 伝える — truyền đạt cho ông Suzuki. Câu D: 「かしこまりました」là mức trang trọng tuyệt đối nhất, thường dùng khi tiếp khách hàng hoặc nhận yêu cầu từ người rất cấp cao; có thể dùng với sếp cấp cao trong tình huống đặc biệt trang trọng, nhưng 承知しました tự nhiên và phổ biến hơn trong giao tiếp văn phòng hàng ngày. 「了解」(B) không dùng với cấp trên — thiếu trang trọng.",
       "tip": "承知しました (với sếp, đồng nghiệp cấp cao) | かしこまりました (với khách hàng — mức tối cao) | 了解 ❌ với cấp trên"
     },
     {
@@ -1351,7 +1351,7 @@
         {
           "key": "C",
           "jp": "④ いらっしゃられたこと",
-          "vn": "④ いらっしゃられたこと — 二重敬語!"
+          "vn": "④ いらっしゃられたこと"
         },
         {
           "key": "D",

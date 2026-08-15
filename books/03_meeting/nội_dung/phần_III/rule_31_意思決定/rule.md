@@ -39,7 +39,7 @@ Sau 40 phút bàn 3 phương án phạm vi (A/B/C). Cả 2 bên đều có ý th
 | **松本** | 「<ruby>同意<rt>どうい</rt></ruby>します。」 <br/>*Tôi đồng ý.* |
 | **ズン** | 「ありがとうございます。では、A案で<ruby>確定<rt>かくてい</rt></ruby>とさせていただきます【4】。」 <br/>*Em cảm ơn ạ. Vậy em xin chốt phương án A ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「ここまでのご議論を踏まえまして、〜が最も現実的かと存じます」** — chủ trì tổng hợp → đề xuất. Không hỏi 「どうしましょう」 trống không.
 - 【2】**「〜という方向でよろしいでしょうか？」** — câu xác nhận chuẩn.
 - 【3】**「ご異論があればお聞かせください」** — mở cửa cho phản đối. Im lặng = đồng ý (im lặng tức đồng thuận).

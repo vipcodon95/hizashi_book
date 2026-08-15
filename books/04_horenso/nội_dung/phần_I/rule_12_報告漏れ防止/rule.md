@@ -39,7 +39,7 @@ Em Dũng bị chị Hương phản hồi: "tuần này anh Matsumoto hỏi 3 l�
 | **ズン** | 「**約束した<ruby>期日<rt>きじつ</rt></ruby>**：5件すべて期日内完了。**<ruby>口頭<rt>こうとう</rt></ruby>でOKもらった<ruby>事項<rt>じこう</rt></ruby>**：3件、すべて<ruby>書面化済<rt>しょめんかず</rt></ruby>【3】。」 <br/>*Hạn đã hứa: 5 cái xong đúng hạn. Việc được OK bằng miệng: 3 cái, đã chuyển thành văn bản hết ạ.* |
 | **フオン** | 「<ruby>素晴<rt>すば</rt></ruby>らしい。1件未返信を<ruby>可視化<rt>かしか</rt></ruby>できる時点で<ruby>報告漏<rt>ほうこくも</rt></ruby>れ<ruby>予防<rt>よぼう</rt></ruby>になってる。<ruby>来週<rt>らいしゅう</rt></ruby>もこの形で。」 <br/>*Tuyệt. Trực quan hóa được 1 cái chưa reply nghĩa là đã ngăn được báo cáo sót rồi. Tuần sau cứ theo mẫu này.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「報告漏れチェック完了」** — gọi tên nó là 1 task. Không "ngầm hiểu".
 - 【2】**「未返信1件」** — quan trọng là show con số xấu. 0 件 đáng nghi (chắc chắn sót đâu đó).
 - 【3】**「口頭でOK→書面化」** — cam kết bằng miệng phải chuyển sang văn bản, nếu không sẽ bay theo trí nhớ.

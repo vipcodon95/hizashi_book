@@ -1,0 +1,2421 @@
+{
+  "part": 1,
+  "so_tu": 483,
+  "items": [
+    {
+      "id": 1,
+      "thuat_ngu": "(内容を)詰める",
+      "short_meaning": "hoàn thiện chi tiết"
+    },
+    {
+      "id": 2,
+      "thuat_ngu": "../",
+      "short_meaning": "thư mục cha"
+    },
+    {
+      "id": 3,
+      "thuat_ngu": "./",
+      "short_meaning": "thư mục hiện tại"
+    },
+    {
+      "id": 4,
+      "thuat_ngu": "0",
+      "short_meaning": "số không"
+    },
+    {
+      "id": 13,
+      "thuat_ngu": "1対1",
+      "short_meaning": "một-một (giao tiếp riêng)"
+    },
+    {
+      "id": 15,
+      "thuat_ngu": "1対多",
+      "short_meaning": "một-nhiều (phát sóng)"
+    },
+    {
+      "id": 36,
+      "thuat_ngu": "2次利用",
+      "short_meaning": "sử dụng cấp hai"
+    },
+    {
+      "id": 60,
+      "thuat_ngu": "3V",
+      "short_meaning": "ba nguyên tắc (ba V)"
+    },
+    {
+      "id": 65,
+      "thuat_ngu": "3部構成",
+      "short_meaning": "cấu trúc ba phần"
+    },
+    {
+      "id": 66,
+      "thuat_ngu": "3面構成",
+      "short_meaning": "cấu trúc ba mặt"
+    },
+    {
+      "id": 67,
+      "thuat_ngu": "4G",
+      "short_meaning": "4G (thế hệ 4)"
+    },
+    {
+      "id": 68,
+      "thuat_ngu": "4部構成",
+      "short_meaning": "cấu trúc 4 phần"
+    },
+    {
+      "id": 70,
+      "thuat_ngu": "5G",
+      "short_meaning": "thế hệ di động thứ 5, tốc độ cao"
+    },
+    {
+      "id": 71,
+      "thuat_ngu": "5W1H",
+      "short_meaning": "5 câu hỏi + 1 câu hỏi"
+    },
+    {
+      "id": 72,
+      "thuat_ngu": "5大機能",
+      "short_meaning": "5 chức năng chính"
+    },
+    {
+      "id": 76,
+      "thuat_ngu": "6W1H",
+      "short_meaning": "6 câu hỏi + 1 câu hỏi"
+    },
+    {
+      "id": 78,
+      "thuat_ngu": "9マスブロック",
+      "short_meaning": "khối 9 ô vuông"
+    },
+    {
+      "id": 79,
+      "thuat_ngu": "<a href >",
+      "short_meaning": "thẻ liên kết (không đầy đủ)"
+    },
+    {
+      "id": 80,
+      "thuat_ngu": "<a href= >",
+      "short_meaning": "thẻ liên kết (ngoặc rỗng)"
+    },
+    {
+      "id": 81,
+      "thuat_ngu": "<body>",
+      "short_meaning": "thẻ phần thân trang web"
+    },
+    {
+      "id": 82,
+      "thuat_ngu": "<br>",
+      "short_meaning": "thẻ xuống dòng"
+    },
+    {
+      "id": 83,
+      "thuat_ngu": "<head>",
+      "short_meaning": "thẻ phần đầu trang"
+    },
+    {
+      "id": 84,
+      "thuat_ngu": "<hn>",
+      "short_meaning": "thẻ tiêu đề (n=1-6)"
+    },
+    {
+      "id": 86,
+      "thuat_ngu": "<img src >",
+      "short_meaning": "thẻ ảnh (không nguồn)"
+    },
+    {
+      "id": 87,
+      "thuat_ngu": "<img src= >",
+      "short_meaning": "thẻ ảnh (nguồn rỗng)"
+    },
+    {
+      "id": 88,
+      "thuat_ngu": "<img>",
+      "short_meaning": "thẻ ảnh"
+    },
+    {
+      "id": 89,
+      "thuat_ngu": "<p>",
+      "short_meaning": "thẻ đoạn văn"
+    },
+    {
+      "id": 91,
+      "thuat_ngu": "<table>",
+      "short_meaning": "thẻ bảng"
+    },
+    {
+      "id": 92,
+      "thuat_ngu": "<td>",
+      "short_meaning": "thẻ ô dữ liệu bảng"
+    },
+    {
+      "id": 93,
+      "thuat_ngu": "<th>",
+      "short_meaning": "thẻ ô tiêu đề bảng"
+    },
+    {
+      "id": 94,
+      "thuat_ngu": "<title>",
+      "short_meaning": "thẻ tiêu đề trang"
+    },
+    {
+      "id": 95,
+      "thuat_ngu": "<tr>",
+      "short_meaning": "thẻ hàng bảng"
+    },
+    {
+      "id": 96,
+      "thuat_ngu": "<video src >",
+      "short_meaning": "thẻ video (không nguồn)"
+    },
+    {
+      "id": 97,
+      "thuat_ngu": "@",
+      "short_meaning": "ký hiệu @"
+    },
+    {
+      "id": 98,
+      "thuat_ngu": "@（アットマーク）",
+      "short_meaning": "ký hiệu at"
+    },
+    {
+      "id": 100,
+      "thuat_ngu": "A/D",
+      "short_meaning": "chuyển đổi analog-digital"
+    },
+    {
+      "id": 101,
+      "thuat_ngu": "A/Dコンバータ",
+      "short_meaning": "bộ chuyển đổi A/D"
+    },
+    {
+      "id": 104,
+      "thuat_ngu": "AAC",
+      "short_meaning": "định dạng âm thanh AAC"
+    },
+    {
+      "id": 105,
+      "thuat_ngu": "ABC",
+      "short_meaning": "hệ thống chữ cái ABC"
+    },
+    {
+      "id": 106,
+      "thuat_ngu": "ACL",
+      "short_meaning": "danh sách kiểm soát truy cập"
+    },
+    {
+      "id": 107,
+      "thuat_ngu": "ADD",
+      "short_meaning": "lệnh cộng (assembly)"
+    },
+    {
+      "id": 108,
+      "thuat_ngu": "ADSL",
+      "short_meaning": "dịch vụ kỹ thuật số bất đối xứng"
+    },
+    {
+      "id": 109,
+      "thuat_ngu": "ADSL（Asymmetric Digital Subscriber Line）",
+      "short_meaning": "ADSL (kỹ thuật số bất đối xứng)"
+    },
+    {
+      "id": 111,
+      "thuat_ngu": "ADコンバータ",
+      "short_meaning": "bộ chuyển đổi A/D"
+    },
+    {
+      "id": 116,
+      "thuat_ngu": "AHS",
+      "short_meaning": "hệ thống giảm thiểu lực phanh"
+    },
+    {
+      "id": 119,
+      "thuat_ngu": "ALTタグ",
+      "short_meaning": "thẻ ALT"
+    },
+    {
+      "id": 121,
+      "thuat_ngu": "AMEDAS",
+      "short_meaning": "hệ thống đo khí tượng"
+    },
+    {
+      "id": 122,
+      "thuat_ngu": "AMeDAS",
+      "short_meaning": "hệ thống đo khí tượng"
+    },
+    {
+      "id": 123,
+      "thuat_ngu": "AND",
+      "short_meaning": "phép toán AND (và)"
+    },
+    {
+      "id": 124,
+      "thuat_ngu": "ANDゲート",
+      "short_meaning": "cổng AND"
+    },
+    {
+      "id": 128,
+      "thuat_ngu": "ANSI",
+      "short_meaning": "hiệp hội tiêu chuẩn quốc gia"
+    },
+    {
+      "id": 129,
+      "thuat_ngu": "ANSI記号",
+      "short_meaning": "ký hiệu ANSI"
+    },
+    {
+      "id": 130,
+      "thuat_ngu": "AP",
+      "short_meaning": "điểm truy cập (Access Point)"
+    },
+    {
+      "id": 133,
+      "thuat_ngu": "AQL",
+      "short_meaning": "ngôn ngữ truy vấn AQL"
+    },
+    {
+      "id": 134,
+      "thuat_ngu": "AR",
+      "short_meaning": "thực tế tăng cường"
+    },
+    {
+      "id": 135,
+      "thuat_ngu": "ARPANET",
+      "short_meaning": "Mạng chuyển mạch gói đầu tiên"
+    },
+    {
+      "id": 137,
+      "thuat_ngu": "AR技術（拡張現実）",
+      "short_meaning": "Công nghệ thực tế ảo mở rộng"
+    },
+    {
+      "id": 138,
+      "thuat_ngu": "ASCII",
+      "short_meaning": "Bảng mã ký tự 7-bit"
+    },
+    {
+      "id": 141,
+      "thuat_ngu": "ASCII（アスキー）",
+      "short_meaning": "Bảng mã ký tự 7-bit"
+    },
+    {
+      "id": 142,
+      "thuat_ngu": "ATC",
+      "short_meaning": "ATC"
+    },
+    {
+      "id": 143,
+      "thuat_ngu": "ATM",
+      "short_meaning": "Máy rút tiền tự động"
+    },
+    {
+      "id": 144,
+      "thuat_ngu": "ATO",
+      "short_meaning": "ATO"
+    },
+    {
+      "id": 145,
+      "thuat_ngu": "ATS",
+      "short_meaning": "ATS"
+    },
+    {
+      "id": 146,
+      "thuat_ngu": "AVERAGE",
+      "short_meaning": "Hàm tính trung bình"
+    },
+    {
+      "id": 148,
+      "thuat_ngu": "AVI",
+      "short_meaning": "Định dạng video của Microsoft"
+    },
+    {
+      "id": 151,
+      "thuat_ngu": "Accuracy",
+      "short_meaning": "Độ chính xác"
+    },
+    {
+      "id": 152,
+      "thuat_ngu": "Action",
+      "short_meaning": "Hành động"
+    },
+    {
+      "id": 153,
+      "thuat_ngu": "AdTech",
+      "short_meaning": "Công nghệ quảng cáo"
+    },
+    {
+      "id": 154,
+      "thuat_ngu": "AgriTech",
+      "short_meaning": "Công nghệ nông nghiệp"
+    },
+    {
+      "id": 155,
+      "thuat_ngu": "Algorithm",
+      "short_meaning": "Thuật toán"
+    },
+    {
+      "id": 156,
+      "thuat_ngu": "Anaconda",
+      "short_meaning": "Anaconda"
+    },
+    {
+      "id": 157,
+      "thuat_ngu": "Analog-Digital converter",
+      "short_meaning": "Bộ chuyển đổi tương tự-số"
+    },
+    {
+      "id": 158,
+      "thuat_ngu": "Apple II",
+      "short_meaning": "Máy tính Apple II"
+    },
+    {
+      "id": 159,
+      "thuat_ngu": "Apple Ⅱ",
+      "short_meaning": "Máy tính Apple II"
+    },
+    {
+      "id": 160,
+      "thuat_ngu": "B",
+      "short_meaning": "8 bit"
+    },
+    {
+      "id": 161,
+      "thuat_ngu": "B to B",
+      "short_meaning": "B2B (kinh doanh-kinh doanh)"
+    },
+    {
+      "id": 162,
+      "thuat_ngu": "B to C",
+      "short_meaning": "B2C (kinh doanh-khách hàng)"
+    },
+    {
+      "id": 163,
+      "thuat_ngu": "BASIC",
+      "short_meaning": "Ngôn ngữ BASIC"
+    },
+    {
+      "id": 164,
+      "thuat_ngu": "BASIC（ベーシック）",
+      "short_meaning": "Ngôn ngữ BASIC"
+    },
+    {
+      "id": 165,
+      "thuat_ngu": "BBS",
+      "short_meaning": "Hệ thống bảng tin"
+    },
+    {
+      "id": 166,
+      "thuat_ngu": "BBS（Bulletin Board System）",
+      "short_meaning": "Hệ thống bảng tin"
+    },
+    {
+      "id": 167,
+      "thuat_ngu": "BCC",
+      "short_meaning": "Gửi bí mật trong email"
+    },
+    {
+      "id": 168,
+      "thuat_ngu": "BCC機能",
+      "short_meaning": "Chức năng gửi bí mật"
+    },
+    {
+      "id": 169,
+      "thuat_ngu": "BCC欄",
+      "short_meaning": "Trường gửi bí mật"
+    },
+    {
+      "id": 170,
+      "thuat_ngu": "BD",
+      "short_meaning": "BD"
+    },
+    {
+      "id": 171,
+      "thuat_ngu": "BGM",
+      "short_meaning": "Nhạc nền"
+    },
+    {
+      "id": 174,
+      "thuat_ngu": "BMP",
+      "short_meaning": "Định dạng ảnh không nén"
+    },
+    {
+      "id": 177,
+      "thuat_ngu": "BS",
+      "short_meaning": "BS"
+    },
+    {
+      "id": 179,
+      "thuat_ngu": "Bcc",
+      "short_meaning": "Gửi bí mật trong email"
+    },
+    {
+      "id": 180,
+      "thuat_ngu": "Bcc欄",
+      "short_meaning": "Trường gửi bí mật"
+    },
+    {
+      "id": 181,
+      "thuat_ngu": "Bluetooth",
+      "short_meaning": "Chuẩn truyền không dây gần"
+    },
+    {
+      "id": 182,
+      "thuat_ngu": "Browser",
+      "short_meaning": "Phần mềm duyệt web"
+    },
+    {
+      "id": 183,
+      "thuat_ngu": "BtoB",
+      "short_meaning": "B2B (kinh doanh-kinh doanh)"
+    },
+    {
+      "id": 184,
+      "thuat_ngu": "BtoC",
+      "short_meaning": "B2C (kinh doanh-khách hàng)"
+    },
+    {
+      "id": 185,
+      "thuat_ngu": "Byte",
+      "short_meaning": "8 bit"
+    },
+    {
+      "id": 186,
+      "thuat_ngu": "C",
+      "short_meaning": "Ngôn ngữ C"
+    },
+    {
+      "id": 187,
+      "thuat_ngu": "C to C",
+      "short_meaning": "C2C (người-người)"
+    },
+    {
+      "id": 188,
+      "thuat_ngu": "C++",
+      "short_meaning": "Ngôn ngữ C++"
+    },
+    {
+      "id": 189,
+      "thuat_ngu": "C++（シープラスプラス）",
+      "short_meaning": "Ngôn ngữ C++"
+    },
+    {
+      "id": 190,
+      "thuat_ngu": "CA",
+      "short_meaning": "CA"
+    },
+    {
+      "id": 191,
+      "thuat_ngu": "CAD",
+      "short_meaning": "CAD (thiết kế hỗ trợ máy tính)"
+    },
+    {
+      "id": 192,
+      "thuat_ngu": "CAD/CAM",
+      "short_meaning": "CAD/CAM"
+    },
+    {
+      "id": 193,
+      "thuat_ngu": "CAD/CAMシステム",
+      "short_meaning": "Hệ thống CAD/CAM"
+    },
+    {
+      "id": 194,
+      "thuat_ngu": "CADオペレーター",
+      "short_meaning": "Nhân viên vận hành CAD"
+    },
+    {
+      "id": 195,
+      "thuat_ngu": "CADシステム",
+      "short_meaning": "Hệ thống CAD"
+    },
+    {
+      "id": 198,
+      "thuat_ngu": "CAM",
+      "short_meaning": "CAM (sản xuất hỗ trợ máy tính)"
+    },
+    {
+      "id": 199,
+      "thuat_ngu": "CATV",
+      "short_meaning": "CATV"
+    },
+    {
+      "id": 200,
+      "thuat_ngu": "CATV（Cable Television）",
+      "short_meaning": "Truyền hình cáp"
+    },
+    {
+      "id": 201,
+      "thuat_ngu": "CC",
+      "short_meaning": "Trường sao chép email"
+    },
+    {
+      "id": 202,
+      "thuat_ngu": "CCD",
+      "short_meaning": "thiết bị tích lũy điện tích"
+    },
+    {
+      "id": 203,
+      "thuat_ngu": "CCMP",
+      "short_meaning": "giao thức truyền thông lợi ích chung"
+    },
+    {
+      "id": 205,
+      "thuat_ngu": "CC機能",
+      "short_meaning": "phụ đề kín (Closed Caption)"
+    },
+    {
+      "id": 206,
+      "thuat_ngu": "CC欄",
+      "short_meaning": "trường sao chép email"
+    },
+    {
+      "id": 207,
+      "thuat_ngu": "CD",
+      "short_meaning": "đĩa CD"
+    },
+    {
+      "id": 208,
+      "thuat_ngu": "CD-R",
+      "short_meaning": "đĩa CD ghi được"
+    },
+    {
+      "id": 210,
+      "thuat_ngu": "CD-ROM",
+      "short_meaning": "đĩa CD chỉ đọc"
+    },
+    {
+      "id": 213,
+      "thuat_ngu": "CD-ROM（Compact Disc-Read Only Memory）",
+      "short_meaning": "CD-ROM (đĩa dữ liệu chỉ đọc)"
+    },
+    {
+      "id": 214,
+      "thuat_ngu": "CD-RW",
+      "short_meaning": "đĩa CD ghi/xóa được"
+    },
+    {
+      "id": 215,
+      "thuat_ngu": "CD-R（Compact Disc-Recordable）",
+      "short_meaning": "CD-R (đĩa ghi được)"
+    },
+    {
+      "id": 216,
+      "thuat_ngu": "CDの仕組み",
+      "short_meaning": "cách thức hoạt động của CD"
+    },
+    {
+      "id": 218,
+      "thuat_ngu": "CD（CD-ROM）",
+      "short_meaning": "đĩa CD"
+    },
+    {
+      "id": 219,
+      "thuat_ngu": "CD（Compact Disc）",
+      "short_meaning": "đĩa CD"
+    },
+    {
+      "id": 221,
+      "thuat_ngu": "CD（現金自動支払機）",
+      "short_meaning": "máy ATM (rút tiền tự động)"
+    },
+    {
+      "id": 222,
+      "thuat_ngu": "CG",
+      "short_meaning": "đồ họa máy tính"
+    },
+    {
+      "id": 223,
+      "thuat_ngu": "CGI",
+      "short_meaning": "giao diện cổng web"
+    },
+    {
+      "id": 224,
+      "thuat_ngu": "CGM",
+      "short_meaning": "siêu đồ họa máy"
+    },
+    {
+      "id": 225,
+      "thuat_ngu": "CIDR",
+      "short_meaning": "định tuyến không lớp"
+    },
+    {
+      "id": 226,
+      "thuat_ngu": "CIDR表記",
+      "short_meaning": "ký hiệu CIDR"
+    },
+    {
+      "id": 227,
+      "thuat_ngu": "CIO",
+      "short_meaning": "giám đốc thông tin"
+    },
+    {
+      "id": 228,
+      "thuat_ngu": "CLI",
+      "short_meaning": "giao diện dòng lệnh"
+    },
+    {
+      "id": 229,
+      "thuat_ngu": "CM",
+      "short_meaning": "quản lý cấu hình"
+    },
+    {
+      "id": 230,
+      "thuat_ngu": "CMC",
+      "short_meaning": "giao tiếp lợi ích chung"
+    },
+    {
+      "id": 231,
+      "thuat_ngu": "CMI",
+      "short_meaning": "giao diện máy tính"
+    },
+    {
+      "id": 234,
+      "thuat_ngu": "CMS",
+      "short_meaning": "hệ thống quản lý nội dung"
+    },
+    {
+      "id": 235,
+      "thuat_ngu": "CMY",
+      "short_meaning": "ba màu cơ bản in ấn"
+    },
+    {
+      "id": 236,
+      "thuat_ngu": "CMYK",
+      "short_meaning": "hệ thống màu in ấn"
+    },
+    {
+      "id": 237,
+      "thuat_ngu": "COBOL",
+      "short_meaning": "ngôn ngữ lập trình thương mại"
+    },
+    {
+      "id": 238,
+      "thuat_ngu": "COCOMO",
+      "short_meaning": "mô hình ước lượng chi phí"
+    },
+    {
+      "id": 239,
+      "thuat_ngu": "COCOMO II",
+      "short_meaning": "mô hình COCOMO phiên bản 2"
+    },
+    {
+      "id": 240,
+      "thuat_ngu": "CODEC",
+      "short_meaning": "công cụ mã hóa-giải mã"
+    },
+    {
+      "id": 241,
+      "thuat_ngu": "CORREL",
+      "short_meaning": "hàm tính hệ số tương quan"
+    },
+    {
+      "id": 244,
+      "thuat_ngu": "COUNTIF",
+      "short_meaning": "hàm đếm ô thỏa điều kiện"
+    },
+    {
+      "id": 245,
+      "thuat_ngu": "COUNTIFS",
+      "short_meaning": "hàm đếm ô nhiều điều kiện"
+    },
+    {
+      "id": 252,
+      "thuat_ngu": "CRC",
+      "short_meaning": "kiểm tra dư thừa chu kỳ"
+    },
+    {
+      "id": 253,
+      "thuat_ngu": "CRT",
+      "short_meaning": "ống tia cathode"
+    },
+    {
+      "id": 256,
+      "thuat_ngu": "CS",
+      "short_meaning": "hệ thống khách-chủ"
+    },
+    {
+      "id": 258,
+      "thuat_ngu": "CSV",
+      "short_meaning": "dữ liệu giá trị phân tách bằng dấu phẩy"
+    },
+    {
+      "id": 261,
+      "thuat_ngu": "CT",
+      "short_meaning": "phép quét điện toán"
+    },
+    {
+      "id": 263,
+      "thuat_ngu": "CTスキャン",
+      "short_meaning": "quét CT"
+    },
+    {
+      "id": 264,
+      "thuat_ngu": "CUD",
+      "short_meaning": "tạo-cập nhật-xóa"
+    },
+    {
+      "id": 265,
+      "thuat_ngu": "CUI",
+      "short_meaning": "giao diện người dùng dòng chữ"
+    },
+    {
+      "id": 266,
+      "thuat_ngu": "CV数",
+      "short_meaning": "con số xem video"
+    },
+    {
+      "id": 267,
+      "thuat_ngu": "Cable Television",
+      "short_meaning": "truyền hình cáp"
+    },
+    {
+      "id": 268,
+      "thuat_ngu": "Cc",
+      "short_meaning": "sao chép (viết tắt email)"
+    },
+    {
+      "id": 269,
+      "thuat_ngu": "Cc:",
+      "short_meaning": "trường sao chép thư điện tử"
+    },
+    {
+      "id": 270,
+      "thuat_ngu": "Cc欄",
+      "short_meaning": "trường Cc"
+    },
+    {
+      "id": 271,
+      "thuat_ngu": "Cellsプロパティ",
+      "short_meaning": "thuộc tính Cells"
+    },
+    {
+      "id": 273,
+      "thuat_ngu": "Cgroups (Control Groups)",
+      "short_meaning": "Cgroups (nhóm điều khiển tài nguyên)"
+    },
+    {
+      "id": 274,
+      "thuat_ngu": "Check",
+      "short_meaning": "kiểm tra"
+    },
+    {
+      "id": 275,
+      "thuat_ngu": "Compact Disc",
+      "short_meaning": "đĩa nhạc compact"
+    },
+    {
+      "id": 276,
+      "thuat_ngu": "Compact Disc-Read Only Memory",
+      "short_meaning": "CD-ROM (đĩa chỉ đọc)"
+    },
+    {
+      "id": 277,
+      "thuat_ngu": "Cookie",
+      "short_meaning": "cookie (tập tin nhỏ lưu thông tin)"
+    },
+    {
+      "id": 278,
+      "thuat_ngu": "Copyright",
+      "short_meaning": "bản quyền"
+    },
+    {
+      "id": 279,
+      "thuat_ngu": "CtoC",
+      "short_meaning": "C2C (khách hàng đến khách hàng)"
+    },
+    {
+      "id": 280,
+      "thuat_ngu": "Cマーク",
+      "short_meaning": "ký hiệu © (bản quyền)"
+    },
+    {
+      "id": 283,
+      "thuat_ngu": "D/A",
+      "short_meaning": "chuyển đổi D/A (số→tương tự)"
+    },
+    {
+      "id": 284,
+      "thuat_ngu": "D/Aコンバータ",
+      "short_meaning": "bộ chuyển đổi D/A"
+    },
+    {
+      "id": 288,
+      "thuat_ngu": "DAT",
+      "short_meaning": "DAT (dải từ tính)"
+    },
+    {
+      "id": 289,
+      "thuat_ngu": "DAコンバータ",
+      "short_meaning": "bộ chuyển đổi DA"
+    },
+    {
+      "id": 298,
+      "thuat_ngu": "DFD",
+      "short_meaning": "DFD (sơ đồ luồng dữ liệu)"
+    },
+    {
+      "id": 302,
+      "thuat_ngu": "DMZ",
+      "short_meaning": "DMZ (khu vực nhập nhằng)"
+    },
+    {
+      "id": 309,
+      "thuat_ngu": "DNT",
+      "short_meaning": "DNT (tín hiệu không theo dõi)"
+    },
+    {
+      "id": 310,
+      "thuat_ngu": "DOCTYPE",
+      "short_meaning": "DOCTYPE (khai báo kiểu tài liệu)"
+    },
+    {
+      "id": 311,
+      "thuat_ngu": "DOD",
+      "short_meaning": "DOD (xóa dữ liệu an toàn)"
+    },
+    {
+      "id": 312,
+      "thuat_ngu": "DRAM",
+      "short_meaning": "DRAM (bộ nhớ truy cập ngẫu nhiên)"
+    },
+    {
+      "id": 313,
+      "thuat_ngu": "DRM",
+      "short_meaning": "DRM (quản lý quyền kỹ thuật số)"
+    },
+    {
+      "id": 314,
+      "thuat_ngu": "DSL",
+      "short_meaning": "DSL (đường nối kỹ thuật số)"
+    },
+    {
+      "id": 315,
+      "thuat_ngu": "DSU",
+      "short_meaning": "DSU (thiết bị dịch vụ dữ liệu)"
+    },
+    {
+      "id": 316,
+      "thuat_ngu": "DTM",
+      "short_meaning": "DTM (mô-đơ đa hành trình)"
+    },
+    {
+      "id": 317,
+      "thuat_ngu": "DTP",
+      "short_meaning": "DTP (xuất bản trên máy tính)"
+    },
+    {
+      "id": 318,
+      "thuat_ngu": "DVD",
+      "short_meaning": "DVD (đĩa video linh hoạt)"
+    },
+    {
+      "id": 319,
+      "thuat_ngu": "DVD-R",
+      "short_meaning": "DVD-R (DVD ghi được)"
+    },
+    {
+      "id": 320,
+      "thuat_ngu": "DVD-RAM",
+      "short_meaning": "DVD-RAM (DVD bộ nhớ)"
+    },
+    {
+      "id": 321,
+      "thuat_ngu": "DVD-ROM",
+      "short_meaning": "DVD-ROM (DVD chỉ đọc)"
+    },
+    {
+      "id": 323,
+      "thuat_ngu": "DVD-RW",
+      "short_meaning": "DVD-RW (DVD ghi lại được)"
+    },
+    {
+      "id": 325,
+      "thuat_ngu": "DVDプレーヤ",
+      "short_meaning": "trình phát DVD"
+    },
+    {
+      "id": 326,
+      "thuat_ngu": "DVDレコーダ",
+      "short_meaning": "máy ghi DVD"
+    },
+    {
+      "id": 329,
+      "thuat_ngu": "DVD（Digital Versatile Disc）",
+      "short_meaning": "DVD (Đĩa Đa Dụng Kỹ Thuật Số)"
+    },
+    {
+      "id": 330,
+      "thuat_ngu": "DVTS",
+      "short_meaning": "DVTS (hệ thống video kỹ thuật số)"
+    },
+    {
+      "id": 331,
+      "thuat_ngu": "DV端子",
+      "short_meaning": "đầu nối DV"
+    },
+    {
+      "id": 333,
+      "thuat_ngu": "Del",
+      "short_meaning": "Del (nút xóa)"
+    },
+    {
+      "id": 334,
+      "thuat_ngu": "Digital Analog converter",
+      "short_meaning": "bộ chuyển đổi Digital Analog"
+    },
+    {
+      "id": 335,
+      "thuat_ngu": "Digital-Analog converter",
+      "short_meaning": "bộ chuyển đổi Digital-Analog"
+    },
+    {
+      "id": 336,
+      "thuat_ngu": "DisplayPort",
+      "short_meaning": "tiêu chuẩn cổng hiển thị"
+    },
+    {
+      "id": 337,
+      "thuat_ngu": "DivX",
+      "short_meaning": "định dạng video DivX"
+    },
+    {
+      "id": 338,
+      "thuat_ngu": "Do",
+      "short_meaning": "thao tác (chỉ lệnh hoặc hành động)"
+    },
+    {
+      "id": 340,
+      "thuat_ngu": "Docker",
+      "short_meaning": "nền tảng container hóa ứng dụng"
+    },
+    {
+      "id": 341,
+      "thuat_ngu": "Domain Name System",
+      "short_meaning": "hệ thống phân giải tên miền"
+    },
+    {
+      "id": 342,
+      "thuat_ngu": "E-Commerce",
+      "short_meaning": "thương mại điện tử"
+    },
+    {
+      "id": 343,
+      "thuat_ngu": "E-mail",
+      "short_meaning": "thư điện tử"
+    },
+    {
+      "id": 344,
+      "thuat_ngu": "E-コマース",
+      "short_meaning": "thương mại điện tử"
+    },
+    {
+      "id": 346,
+      "thuat_ngu": "EB",
+      "short_meaning": "trao đổi dữ liệu điện tử"
+    },
+    {
+      "id": 347,
+      "thuat_ngu": "EBPM",
+      "short_meaning": "quản lý quy trình kinh doanh"
+    },
+    {
+      "id": 348,
+      "thuat_ngu": "EC",
+      "short_meaning": "thương mại điện tử"
+    },
+    {
+      "id": 350,
+      "thuat_ngu": "EC（Electronic Commerce）",
+      "short_meaning": "thương mại điện tử"
+    },
+    {
+      "id": 351,
+      "thuat_ngu": "EDA",
+      "short_meaning": "phân tích dữ liệu kỹ thuật"
+    },
+    {
+      "id": 352,
+      "thuat_ngu": "EDI",
+      "short_meaning": "trao đổi dữ liệu điện tử"
+    },
+    {
+      "id": 353,
+      "thuat_ngu": "EDSAC",
+      "short_meaning": "máy tính lưu trữ điện tử"
+    },
+    {
+      "id": 354,
+      "thuat_ngu": "EDVAC",
+      "short_meaning": "máy tính tự động với bộ nhớ"
+    },
+    {
+      "id": 355,
+      "thuat_ngu": "ENIAC",
+      "short_meaning": "máy tính điện tử lớn sớm nhất"
+    },
+    {
+      "id": 356,
+      "thuat_ngu": "EOR",
+      "short_meaning": "phép toán XOR"
+    },
+    {
+      "id": 361,
+      "thuat_ngu": "ER図",
+      "short_meaning": "biểu đồ thực thể quan hệ"
+    },
+    {
+      "id": 362,
+      "thuat_ngu": "ETC",
+      "short_meaning": "hệ thống thu phí điện tử"
+    },
+    {
+      "id": 363,
+      "thuat_ngu": "ETCシステム",
+      "short_meaning": "hệ thống thu phí đường bộ"
+    },
+    {
+      "id": 364,
+      "thuat_ngu": "EUC",
+      "short_meaning": "mã ký tự mở rộng Nhật"
+    },
+    {
+      "id": 365,
+      "thuat_ngu": "EUC-JP",
+      "short_meaning": "mã ký tự EUC Nhật Bản"
+    },
+    {
+      "id": 367,
+      "thuat_ngu": "EdTech",
+      "short_meaning": "công nghệ giáo dục"
+    },
+    {
+      "id": 368,
+      "thuat_ngu": "Electronic Commerce",
+      "short_meaning": "thương mại điện tử"
+    },
+    {
+      "id": 370,
+      "thuat_ngu": "Eコマース",
+      "short_meaning": "thương mại điện tử"
+    },
+    {
+      "id": 372,
+      "thuat_ngu": "FA",
+      "short_meaning": "tự động hóa nhà máy"
+    },
+    {
+      "id": 373,
+      "thuat_ngu": "FALSE",
+      "short_meaning": "giá trị sai (lôgic)"
+    },
+    {
+      "id": 374,
+      "thuat_ngu": "FAQ",
+      "short_meaning": "câu hỏi thường gặp"
+    },
+    {
+      "id": 375,
+      "thuat_ngu": "FA化",
+      "short_meaning": "quá trình tự động hóa"
+    },
+    {
+      "id": 376,
+      "thuat_ngu": "FD",
+      "short_meaning": "ổ đĩa mềm"
+    },
+    {
+      "id": 377,
+      "thuat_ngu": "FEP",
+      "short_meaning": "trình soạn thảo gõ Nhật"
+    },
+    {
+      "id": 379,
+      "thuat_ngu": "FLV",
+      "short_meaning": "định dạng video Flash"
+    },
+    {
+      "id": 380,
+      "thuat_ngu": "FN",
+      "short_meaning": "dương tính giả"
+    },
+    {
+      "id": 381,
+      "thuat_ngu": "FORTRAN",
+      "short_meaning": "ngôn ngữ lập trình FORTRAN"
+    },
+    {
+      "id": 382,
+      "thuat_ngu": "FP",
+      "short_meaning": "dương tính giả"
+    },
+    {
+      "id": 389,
+      "thuat_ngu": "FTTH",
+      "short_meaning": "kết nối quang từ trạm tới nhà"
+    },
+    {
+      "id": 391,
+      "thuat_ngu": "FinTech",
+      "short_meaning": "công nghệ tài chính"
+    },
+    {
+      "id": 392,
+      "thuat_ngu": "Firewall",
+      "short_meaning": "tường lửa"
+    },
+    {
+      "id": 393,
+      "thuat_ngu": "Fortran",
+      "short_meaning": "ngôn ngữ lập trình Fortran"
+    },
+    {
+      "id": 394,
+      "thuat_ngu": "Forward",
+      "short_meaning": "chuyển tiếp"
+    },
+    {
+      "id": 395,
+      "thuat_ngu": "From",
+      "short_meaning": "từ (trường người gửi)"
+    },
+    {
+      "id": 396,
+      "thuat_ngu": "From欄",
+      "short_meaning": "trường người gửi thư"
+    },
+    {
+      "id": 397,
+      "thuat_ngu": "F値",
+      "short_meaning": "giá trị F"
+    },
+    {
+      "id": 398,
+      "thuat_ngu": "G",
+      "short_meaning": "giga (10^9)"
+    },
+    {
+      "id": 399,
+      "thuat_ngu": "GB",
+      "short_meaning": "gigabyte (1000 hoặc 1024 MB)"
+    },
+    {
+      "id": 400,
+      "thuat_ngu": "GByte",
+      "short_meaning": "gigabyte (1000 hoặc 1024 MB)"
+    },
+    {
+      "id": 402,
+      "thuat_ngu": "GETリクエスト",
+      "short_meaning": "yêu cầu GET"
+    },
+    {
+      "id": 407,
+      "thuat_ngu": "GIS",
+      "short_meaning": "hệ thông tin địa lý"
+    },
+    {
+      "id": 408,
+      "thuat_ngu": "GM",
+      "short_meaning": "quản lý máy"
+    },
+    {
+      "id": 409,
+      "thuat_ngu": "GPS",
+      "short_meaning": "hệ thống định vị toàn cầu"
+    },
+    {
+      "id": 410,
+      "thuat_ngu": "GPU",
+      "short_meaning": "bộ xử lý đồ họa"
+    },
+    {
+      "id": 414,
+      "thuat_ngu": "Graphic Interchange Format",
+      "short_meaning": "định dạng trao đổi đồ họa"
+    },
+    {
+      "id": 415,
+      "thuat_ngu": "Graphical User Interface",
+      "short_meaning": "giao diện người dùng đồ họa"
+    },
+    {
+      "id": 417,
+      "thuat_ngu": "H.264",
+      "short_meaning": "codec video H.264"
+    },
+    {
+      "id": 418,
+      "thuat_ngu": "HA",
+      "short_meaning": "độ sẵn sàng cao"
+    },
+    {
+      "id": 419,
+      "thuat_ngu": "HA機能",
+      "short_meaning": "chuyển đổi tự động server"
+    },
+    {
+      "id": 420,
+      "thuat_ngu": "HD",
+      "short_meaning": "độ phân giải cao"
+    },
+    {
+      "id": 421,
+      "thuat_ngu": "HDD",
+      "short_meaning": "ổ cứng"
+    },
+    {
+      "id": 422,
+      "thuat_ngu": "HDMI",
+      "short_meaning": "giao thức truyền video/âm thanh"
+    },
+    {
+      "id": 423,
+      "thuat_ngu": "HDMI端子",
+      "short_meaning": "cổng HDMI"
+    },
+    {
+      "id": 424,
+      "thuat_ngu": "HDTV",
+      "short_meaning": "truyền hình độ phân giải cao"
+    },
+    {
+      "id": 425,
+      "thuat_ngu": "HEMS",
+      "short_meaning": "hệ quản lý năng lượng nhà thông minh"
+    },
+    {
+      "id": 427,
+      "thuat_ngu": "HMD",
+      "short_meaning": "thiết bị hiển thị đeo đầu"
+    },
+    {
+      "id": 447,
+      "thuat_ngu": "HUB",
+      "short_meaning": "bộ tập trung mạng"
+    },
+    {
+      "id": 448,
+      "thuat_ngu": "Hypertext Markup Language",
+      "short_meaning": "ngôn ngữ đánh dấu siêu văn bản"
+    },
+    {
+      "id": 449,
+      "thuat_ngu": "Hypertext Transfer Protocol",
+      "short_meaning": "giao thức truyền tải siêu văn bản"
+    },
+    {
+      "id": 450,
+      "thuat_ngu": "Hz",
+      "short_meaning": "Hertz (tần số)"
+    },
+    {
+      "id": 451,
+      "thuat_ngu": "Hz（ヘルツ）",
+      "short_meaning": "Hertz (tần số)"
+    },
+    {
+      "id": 455,
+      "thuat_ngu": "IC",
+      "short_meaning": "mạch tích hợp"
+    },
+    {
+      "id": 456,
+      "thuat_ngu": "ICANN",
+      "short_meaning": "tổ chức quản lý tên miền"
+    },
+    {
+      "id": 457,
+      "thuat_ngu": "ICQ",
+      "short_meaning": "ứng dụng nhắn tin tức thì"
+    },
+    {
+      "id": 458,
+      "thuat_ngu": "ICT",
+      "short_meaning": "công nghệ thông tin truyền thông"
+    },
+    {
+      "id": 459,
+      "thuat_ngu": "ICカード",
+      "short_meaning": "thẻ IC"
+    },
+    {
+      "id": 460,
+      "thuat_ngu": "ICタグ",
+      "short_meaning": "thẻ IC (RFID)"
+    },
+    {
+      "id": 462,
+      "thuat_ngu": "ICレコーダ",
+      "short_meaning": "máy ghi âm IC"
+    },
+    {
+      "id": 463,
+      "thuat_ngu": "ICレコーダー",
+      "short_meaning": "máy ghi âm IC"
+    },
+    {
+      "id": 465,
+      "thuat_ngu": "IC（Integrated Circuit）",
+      "short_meaning": "mạch tích hợp"
+    },
+    {
+      "id": 466,
+      "thuat_ngu": "IC（Integrated Circuit）カード",
+      "short_meaning": "thẻ mạch tích hợp"
+    },
+    {
+      "id": 467,
+      "thuat_ngu": "ID",
+      "short_meaning": "mã định danh"
+    },
+    {
+      "id": 468,
+      "thuat_ngu": "IDE",
+      "short_meaning": "môi trường phát triển tích hợp"
+    },
+    {
+      "id": 469,
+      "thuat_ngu": "IDLE",
+      "short_meaning": "chế độ nhàn rỗi"
+    },
+    {
+      "id": 470,
+      "thuat_ngu": "IDS",
+      "short_meaning": "hệ thống phát hiện xâm nhập"
+    },
+    {
+      "id": 471,
+      "thuat_ngu": "IDカード",
+      "short_meaning": "thẻ ID"
+    },
+    {
+      "id": 472,
+      "thuat_ngu": "IDセレクタ",
+      "short_meaning": "bộ chọn ID"
+    },
+    {
+      "id": 473,
+      "thuat_ngu": "IEEE",
+      "short_meaning": "học hội điện khí – thông tin Mỹ"
+    },
+    {
+      "id": 475,
+      "thuat_ngu": "IEEE1394",
+      "short_meaning": "tiêu chuẩn kết nối Firewire"
+    },
+    {
+      "id": 477,
+      "thuat_ngu": "IETF",
+      "short_meaning": "nhóm tiêu chuẩn Internet"
+    },
+    {
+      "id": 479,
+      "thuat_ngu": "IMAP",
+      "short_meaning": "giao thức quản lý email trên server"
+    },
+    {
+      "id": 480,
+      "thuat_ngu": "IMAP over SSL/TLS",
+      "short_meaning": "IMAP với mã hóa SSL/TLS"
+    },
+    {
+      "id": 481,
+      "thuat_ngu": "IMAPS",
+      "short_meaning": "IMAP bảo mật (SSL/TLS)"
+    },
+    {
+      "id": 483,
+      "thuat_ngu": "IME",
+      "short_meaning": "công cụ nhập phương pháp"
+    },
+    {
+      "id": 501,
+      "thuat_ngu": "IR",
+      "short_meaning": "hồng ngoại"
+    },
+    {
+      "id": 502,
+      "thuat_ngu": "IRC",
+      "short_meaning": "chat truyền tiếp Internet"
+    },
+    {
+      "id": 503,
+      "thuat_ngu": "IRCクライアント",
+      "short_meaning": "ứng dụng khách IRC"
+    },
+    {
+      "id": 505,
+      "thuat_ngu": "IRC（Internet Relay Chat）",
+      "short_meaning": "chat truyền tiếp Internet"
+    },
+    {
+      "id": 506,
+      "thuat_ngu": "ISBN",
+      "short_meaning": "mã số sách quốc tế"
+    },
+    {
+      "id": 507,
+      "thuat_ngu": "ISDN",
+      "short_meaning": "mạng tích hợp dịch vụ số"
+    },
+    {
+      "id": 509,
+      "thuat_ngu": "ISMS",
+      "short_meaning": "hệ thống quản lý bảo mật thông tin"
+    },
+    {
+      "id": 510,
+      "thuat_ngu": "ISO",
+      "short_meaning": "tổ chức tiêu chuẩn quốc tế"
+    },
+    {
+      "id": 511,
+      "thuat_ngu": "ISO-2022-JP",
+      "short_meaning": "bảng mã ISO-2022-JP"
+    },
+    {
+      "id": 513,
+      "thuat_ngu": "ISP",
+      "short_meaning": "nhà cung cấp dịch vụ Internet"
+    },
+    {
+      "id": 514,
+      "thuat_ngu": "ISP (Internet Service Provider)",
+      "short_meaning": "nhà cung cấp dịch vụ Internet"
+    },
+    {
+      "id": 515,
+      "thuat_ngu": "IT",
+      "short_meaning": "công nghệ thông tin"
+    },
+    {
+      "id": 516,
+      "thuat_ngu": "ITS",
+      "short_meaning": "hệ thống giao thông thông minh"
+    },
+    {
+      "id": 517,
+      "thuat_ngu": "ITSスポット",
+      "short_meaning": "điểm ITS"
+    },
+    {
+      "id": 518,
+      "thuat_ngu": "IT化",
+      "short_meaning": "số hóa IT"
+    },
+    {
+      "id": 520,
+      "thuat_ngu": "IT革命",
+      "short_meaning": "cách mạng IT"
+    },
+    {
+      "id": 521,
+      "thuat_ngu": "IX (Internet Exchange)",
+      "short_meaning": "điểm trao đổi Internet"
+    },
+    {
+      "id": 522,
+      "thuat_ngu": "IaaS",
+      "short_meaning": "cơ sở hạ tầng dịch vụ"
+    },
+    {
+      "id": 523,
+      "thuat_ngu": "IaaS(Infrastructure as a Service)",
+      "short_meaning": "dịch vụ cơ sở hạ tầng đám mây"
+    },
+    {
+      "id": 524,
+      "thuat_ngu": "IchigoJam BASIC",
+      "short_meaning": "ngôn ngữ lập trình Ichigo"
+    },
+    {
+      "id": 525,
+      "thuat_ngu": "Input/Outout devices",
+      "short_meaning": "thiết bị nhập/xuất"
+    },
+    {
+      "id": 526,
+      "thuat_ngu": "Integrated Circuit",
+      "short_meaning": "mạch tích hợp"
+    },
+    {
+      "id": 527,
+      "thuat_ngu": "Intergrated Services Digital Network",
+      "short_meaning": "mạng tích hợp dịch vụ số"
+    },
+    {
+      "id": 528,
+      "thuat_ngu": "Internet",
+      "short_meaning": "Mạng Internet toàn cầu"
+    },
+    {
+      "id": 529,
+      "thuat_ngu": "Internet Protocol",
+      "short_meaning": "giao thức Internet"
+    },
+    {
+      "id": 530,
+      "thuat_ngu": "Internet Protocol address",
+      "short_meaning": "địa chỉ giao thức Internet"
+    },
+    {
+      "id": 531,
+      "thuat_ngu": "Internet Service Provider",
+      "short_meaning": "nhà cung cấp dịch vụ Internet"
+    },
+    {
+      "id": 535,
+      "thuat_ngu": "JAN",
+      "short_meaning": "mã sản phẩm Nhật Bản"
+    },
+    {
+      "id": 537,
+      "thuat_ngu": "JIS",
+      "short_meaning": "tiêu chuẩn công nghiệp Nhật"
+    },
+    {
+      "id": 538,
+      "thuat_ngu": "JIS X 0208",
+      "short_meaning": "bộ ký tự JIS X 0208"
+    },
+    {
+      "id": 539,
+      "thuat_ngu": "JIS X0201",
+      "short_meaning": "bộ ký tự JIS X0201"
+    },
+    {
+      "id": 541,
+      "thuat_ngu": "JIS X8341",
+      "short_meaning": "tiêu chuẩn JIS X8341"
+    },
+    {
+      "id": 545,
+      "thuat_ngu": "JIS漢字",
+      "short_meaning": "kanji theo tiêu chuẩn JIS"
+    },
+    {
+      "id": 547,
+      "thuat_ngu": "JIS（Japanese Industrial Standards）",
+      "short_meaning": "tiêu chuẩn công nghiệp Nhật"
+    },
+    {
+      "id": 548,
+      "thuat_ngu": "JIS（Japanese Industrial Standard）",
+      "short_meaning": "tiêu chuẩn công nghiệp Nhật"
+    },
+    {
+      "id": 549,
+      "thuat_ngu": "JIS（ジス）",
+      "short_meaning": "tiêu chuẩn công nghiệp Nhật"
+    },
+    {
+      "id": 554,
+      "thuat_ngu": "JPNIC",
+      "short_meaning": "tổ chức JPNIC"
+    },
+    {
+      "id": 555,
+      "thuat_ngu": "JPRS",
+      "short_meaning": "công ty JPRS"
+    },
+    {
+      "id": 556,
+      "thuat_ngu": "JSON",
+      "short_meaning": "định dạng JSON"
+    },
+    {
+      "id": 558,
+      "thuat_ngu": "JSTAT MAP",
+      "short_meaning": "JSTAT MAP"
+    },
+    {
+      "id": 559,
+      "thuat_ngu": "JUMP",
+      "short_meaning": "JUMP"
+    },
+    {
+      "id": 560,
+      "thuat_ngu": "JUMP ZERO",
+      "short_meaning": "JUMP ZERO"
+    },
+    {
+      "id": 561,
+      "thuat_ngu": "JUNET",
+      "short_meaning": "JUNET"
+    },
+    {
+      "id": 563,
+      "thuat_ngu": "Japanese Industrial Standard",
+      "short_meaning": "tiêu chuẩn công nghiệp Nhật"
+    },
+    {
+      "id": 571,
+      "thuat_ngu": "JupyterLab",
+      "short_meaning": "JupyterLab"
+    },
+    {
+      "id": 572,
+      "thuat_ngu": "K",
+      "short_meaning": "K"
+    },
+    {
+      "id": 574,
+      "thuat_ngu": "KB",
+      "short_meaning": "kilobyte"
+    },
+    {
+      "id": 577,
+      "thuat_ngu": "KPI",
+      "short_meaning": "chỉ số KPI"
+    },
+    {
+      "id": 578,
+      "thuat_ngu": "KVM（Kernel-based Virtual Machine）",
+      "short_meaning": "công nghệ ảo hóa KVM"
+    },
+    {
+      "id": 579,
+      "thuat_ngu": "Key Plate",
+      "short_meaning": "Key Plate"
+    },
+    {
+      "id": 580,
+      "thuat_ngu": "Kubernetes",
+      "short_meaning": "hệ thống quản lý container Kubernetes"
+    },
+    {
+      "id": 592,
+      "thuat_ngu": "LATCH",
+      "short_meaning": "LATCH"
+    },
+    {
+      "id": 593,
+      "thuat_ngu": "LED",
+      "short_meaning": "LED"
+    },
+    {
+      "id": 594,
+      "thuat_ngu": "LHA",
+      "short_meaning": "LHA"
+    },
+    {
+      "id": 595,
+      "thuat_ngu": "LMS",
+      "short_meaning": "LMS"
+    },
+    {
+      "id": 596,
+      "thuat_ngu": "LOAD",
+      "short_meaning": "LOAD"
+    },
+    {
+      "id": 599,
+      "thuat_ngu": "LP",
+      "short_meaning": "LP"
+    },
+    {
+      "id": 600,
+      "thuat_ngu": "LPWA",
+      "short_meaning": "LPWA"
+    },
+    {
+      "id": 601,
+      "thuat_ngu": "LSI",
+      "short_meaning": "LSI"
+    },
+    {
+      "id": 602,
+      "thuat_ngu": "LZH",
+      "short_meaning": "LZH"
+    },
+    {
+      "id": 604,
+      "thuat_ngu": "Large Scale Integrated Circuit",
+      "short_meaning": "mạch tích hợp quy mô lớn"
+    },
+    {
+      "id": 605,
+      "thuat_ngu": "Local Area Network",
+      "short_meaning": "mạng cục bộ"
+    },
+    {
+      "id": 606,
+      "thuat_ngu": "Logo",
+      "short_meaning": "biểu tượng"
+    },
+    {
+      "id": 607,
+      "thuat_ngu": "M",
+      "short_meaning": "M"
+    },
+    {
+      "id": 608,
+      "thuat_ngu": "M2M",
+      "short_meaning": "máy sang máy"
+    },
+    {
+      "id": 611,
+      "thuat_ngu": "MAR",
+      "short_meaning": "MAR"
+    },
+    {
+      "id": 612,
+      "thuat_ngu": "MARK I",
+      "short_meaning": "MARK I"
+    },
+    {
+      "id": 613,
+      "thuat_ngu": "MAX",
+      "short_meaning": "hàm tính giá trị lớn nhất"
+    },
+    {
+      "id": 615,
+      "thuat_ngu": "MB",
+      "short_meaning": "megabyte"
+    },
+    {
+      "id": 616,
+      "thuat_ngu": "MByte",
+      "short_meaning": "megabyte"
+    },
+    {
+      "id": 618,
+      "thuat_ngu": "MCAR",
+      "short_meaning": "MCAR"
+    },
+    {
+      "id": 619,
+      "thuat_ngu": "MCU",
+      "short_meaning": "microcontroller"
+    },
+    {
+      "id": 620,
+      "thuat_ngu": "MD",
+      "short_meaning": "MD"
+    },
+    {
+      "id": 621,
+      "thuat_ngu": "MDレコーダ",
+      "short_meaning": "máy ghi MD"
+    },
+    {
+      "id": 622,
+      "thuat_ngu": "MD（Mini Disc）",
+      "short_meaning": "đĩa mini"
+    },
+    {
+      "id": 623,
+      "thuat_ngu": "MECE",
+      "short_meaning": "phân loại không trùng lặp"
+    },
+    {
+      "id": 624,
+      "thuat_ngu": "MEDIAN",
+      "short_meaning": "hàm tính giá trị trung vị"
+    },
+    {
+      "id": 626,
+      "thuat_ngu": "MICSセンター",
+      "short_meaning": "trung tâm MICS"
+    },
+    {
+      "id": 627,
+      "thuat_ngu": "MIDI",
+      "short_meaning": "MIDI"
+    },
+    {
+      "id": 630,
+      "thuat_ngu": "MIDI規格",
+      "short_meaning": "tiêu chuẩn MIDI"
+    },
+    {
+      "id": 632,
+      "thuat_ngu": "MIDI（ミディ）",
+      "short_meaning": "MIDI"
+    },
+    {
+      "id": 633,
+      "thuat_ngu": "MIME",
+      "short_meaning": "MIME"
+    },
+    {
+      "id": 634,
+      "thuat_ngu": "MIN",
+      "short_meaning": "hàm tính giá trị nhỏ nhất"
+    },
+    {
+      "id": 637,
+      "thuat_ngu": "MIS",
+      "short_meaning": "MIS"
+    },
+    {
+      "id": 638,
+      "thuat_ngu": "ML",
+      "short_meaning": "ML"
+    },
+    {
+      "id": 639,
+      "thuat_ngu": "MNAR",
+      "short_meaning": "MNAR"
+    },
+    {
+      "id": 640,
+      "thuat_ngu": "MO",
+      "short_meaning": "MO"
+    },
+    {
+      "id": 641,
+      "thuat_ngu": "MODE.SNGL",
+      "short_meaning": "MODE.SNGL"
+    },
+    {
+      "id": 644,
+      "thuat_ngu": "MOOC",
+      "short_meaning": "khóa học mở trực tuyến"
+    },
+    {
+      "id": 645,
+      "thuat_ngu": "MOOCs",
+      "short_meaning": "khóa học mở trực tuyến"
+    },
+    {
+      "id": 646,
+      "thuat_ngu": "MOV",
+      "short_meaning": "MOV"
+    },
+    {
+      "id": 657,
+      "thuat_ngu": "MPEG",
+      "short_meaning": "tiêu chuẩn MPEG"
+    },
+    {
+      "id": 659,
+      "thuat_ngu": "MPEG-1",
+      "short_meaning": "MPEG-1"
+    },
+    {
+      "id": 660,
+      "thuat_ngu": "MPEG-2",
+      "short_meaning": "MPEG-2"
+    },
+    {
+      "id": 661,
+      "thuat_ngu": "MPEG-4",
+      "short_meaning": "tiêu chuẩn MPEG-4"
+    },
+    {
+      "id": 662,
+      "thuat_ngu": "MPEG1",
+      "short_meaning": "MPEG1"
+    },
+    {
+      "id": 663,
+      "thuat_ngu": "MPEG2",
+      "short_meaning": "MPEG2"
+    },
+    {
+      "id": 666,
+      "thuat_ngu": "MPEG（Moving Picture Experts Group）",
+      "short_meaning": "MPEG"
+    },
+    {
+      "id": 667,
+      "thuat_ngu": "MPU",
+      "short_meaning": "MPU"
+    },
+    {
+      "id": 669,
+      "thuat_ngu": "MTR",
+      "short_meaning": "MTR"
+    },
+    {
+      "id": 670,
+      "thuat_ngu": "MUA",
+      "short_meaning": "MUA"
+    },
+    {
+      "id": 671,
+      "thuat_ngu": "Mailer Daemon",
+      "short_meaning": "tiến trình gửi thư điện tử"
+    },
+    {
+      "id": 672,
+      "thuat_ngu": "Mark I",
+      "short_meaning": "Mark I"
+    },
+    {
+      "id": 673,
+      "thuat_ngu": "Mark-1",
+      "short_meaning": "Mark-1"
+    },
+    {
+      "id": 674,
+      "thuat_ngu": "MarkI",
+      "short_meaning": "MarkI"
+    },
+    {
+      "id": 675,
+      "thuat_ngu": "Markdownセル",
+      "short_meaning": "ô Markdown"
+    },
+    {
+      "id": 676,
+      "thuat_ngu": "Markup",
+      "short_meaning": "đánh dấu"
+    },
+    {
+      "id": 677,
+      "thuat_ngu": "Math.abs",
+      "short_meaning": "hàm trị tuyệt đối"
+    },
+    {
+      "id": 678,
+      "thuat_ngu": "Math.sqrt",
+      "short_meaning": "hàm căn bậc hai"
+    },
+    {
+      "id": 679,
+      "thuat_ngu": "MikuMikuDance",
+      "short_meaning": "MikuMikuDance"
+    },
+    {
+      "id": 680,
+      "thuat_ngu": "Musical Instruments Digital Interface",
+      "short_meaning": "MIDI"
+    },
+    {
+      "id": 682,
+      "thuat_ngu": "N/A",
+      "short_meaning": "không áp dụng"
+    },
+    {
+      "id": 683,
+      "thuat_ngu": "NAND",
+      "short_meaning": "NAND"
+    },
+    {
+      "id": 684,
+      "thuat_ngu": "NANDゲート",
+      "short_meaning": "cổng NAND"
+    },
+    {
+      "id": 686,
+      "thuat_ngu": "NAPT",
+      "short_meaning": "NAPT"
+    },
+    {
+      "id": 687,
+      "thuat_ngu": "NAS",
+      "short_meaning": "NAS"
+    },
+    {
+      "id": 688,
+      "thuat_ngu": "NAT",
+      "short_meaning": "NAT"
+    },
+    {
+      "id": 689,
+      "thuat_ngu": "NAT （Network Address Translation）",
+      "short_meaning": "dịch địa chỉ mạng"
+    },
+    {
+      "id": 690,
+      "thuat_ngu": "NDC",
+      "short_meaning": "NDC"
+    },
+    {
+      "id": 691,
+      "thuat_ngu": "NFC",
+      "short_meaning": "NFC"
+    },
+    {
+      "id": 692,
+      "thuat_ngu": "NGO",
+      "short_meaning": "tổ chức phi chính phủ"
+    },
+    {
+      "id": 693,
+      "thuat_ngu": "NIC",
+      "short_meaning": "NIC"
+    },
+    {
+      "id": 694,
+      "thuat_ngu": "NOC",
+      "short_meaning": "NOC"
+    },
+    {
+      "id": 695,
+      "thuat_ngu": "NOR",
+      "short_meaning": "NOR"
+    },
+    {
+      "id": 696,
+      "thuat_ngu": "NORゲート",
+      "short_meaning": "cổng NOR"
+    },
+    {
+      "id": 698,
+      "thuat_ngu": "NOT",
+      "short_meaning": "phép NOT"
+    },
+    {
+      "id": 699,
+      "thuat_ngu": "NOTゲート",
+      "short_meaning": "cổng NOT"
+    },
+    {
+      "id": 702,
+      "thuat_ngu": "NPO",
+      "short_meaning": "tổ chức phi lợi nhuận"
+    },
+    {
+      "id": 703,
+      "thuat_ngu": "NTSC",
+      "short_meaning": "NTSC"
+    },
+    {
+      "id": 704,
+      "thuat_ngu": "NUI",
+      "short_meaning": "giao diện người dùng tự nhiên"
+    },
+    {
+      "id": 706,
+      "thuat_ngu": "NVC",
+      "short_meaning": "NVC"
+    },
+    {
+      "id": 707,
+      "thuat_ngu": "Namespaces（名前空間）",
+      "short_meaning": "không gian tên"
+    },
+    {
+      "id": 708,
+      "thuat_ngu": "NetBEUI",
+      "short_meaning": "NetBEUI"
+    },
+    {
+      "id": 710,
+      "thuat_ngu": "NumPy",
+      "short_meaning": "NumPy"
+    },
+    {
+      "id": 711,
+      "thuat_ngu": "Number",
+      "short_meaning": "số"
+    },
+    {
+      "id": 712,
+      "thuat_ngu": "OA",
+      "short_meaning": "OA"
+    },
+    {
+      "id": 713,
+      "thuat_ngu": "OAシステム",
+      "short_meaning": "hệ thống OA"
+    },
+    {
+      "id": 714,
+      "thuat_ngu": "OA化",
+      "short_meaning": "ứng dụng OA"
+    },
+    {
+      "id": 715,
+      "thuat_ngu": "OCR",
+      "short_meaning": "nhận dạng ký tự quang học"
+    },
+    {
+      "id": 716,
+      "thuat_ngu": "OCRソフト",
+      "short_meaning": "phần mềm OCR"
+    },
+    {
+      "id": 719,
+      "thuat_ngu": "OCR（Optical Character Reader）",
+      "short_meaning": "nhận dạng ký tự quang học"
+    },
+    {
+      "id": 720,
+      "thuat_ngu": "OECD",
+      "short_meaning": "OECD"
+    },
+    {
+      "id": 721,
+      "thuat_ngu": "OECD8原則",
+      "short_meaning": "8 nguyên tắc OECD"
+    },
+    {
+      "id": 723,
+      "thuat_ngu": "OHC",
+      "short_meaning": "OHC"
+    },
+    {
+      "id": 724,
+      "thuat_ngu": "OHP",
+      "short_meaning": "OHP"
+    },
+    {
+      "id": 725,
+      "thuat_ngu": "OMR",
+      "short_meaning": "OMR"
+    },
+    {
+      "id": 726,
+      "thuat_ngu": "ONU",
+      "short_meaning": "đơn vị mạng quang"
+    },
+    {
+      "id": 727,
+      "thuat_ngu": "OPAC",
+      "short_meaning": "OPAC"
+    },
+    {
+      "id": 728,
+      "thuat_ngu": "OR",
+      "short_meaning": "phép OR"
+    },
+    {
+      "id": 729,
+      "thuat_ngu": "ORゲート",
+      "short_meaning": "cổng OR"
+    },
+    {
+      "id": 737,
+      "thuat_ngu": "Operating System",
+      "short_meaning": "hệ điều hành"
+    },
+    {
+      "id": 739,
+      "thuat_ngu": "P",
+      "short_meaning": "chữ P"
+    },
+    {
+      "id": 740,
+      "thuat_ngu": "P2P",
+      "short_meaning": "peer-to-peer"
+    },
+    {
+      "id": 743,
+      "thuat_ngu": "PASCAL",
+      "short_meaning": "ngôn ngữ Pascal"
+    },
+    {
+      "id": 744,
+      "thuat_ngu": "PB",
+      "short_meaning": "petabyte"
+    },
+    {
+      "id": 745,
+      "thuat_ngu": "PC",
+      "short_meaning": "máy tính cá nhân"
+    },
+    {
+      "id": 746,
+      "thuat_ngu": "PCM",
+      "short_meaning": "modulation PCM"
+    },
+    {
+      "id": 748,
+      "thuat_ngu": "PCS",
+      "short_meaning": "Personal Communication Service"
+    },
+    {
+      "id": 749,
+      "thuat_ngu": "PCカードスロット",
+      "short_meaning": "khe cắm thẻ PC"
+    },
+    {
+      "id": 750,
+      "thuat_ngu": "PDA",
+      "short_meaning": "trợ lý kỹ thuật cá nhân"
+    },
+    {
+      "id": 751,
+      "thuat_ngu": "PDA（Personal Digital Assistant）",
+      "short_meaning": "trợ lý kỹ thuật cá nhân"
+    },
+    {
+      "id": 752,
+      "thuat_ngu": "PDCAサイクル",
+      "short_meaning": "vòng PDCA"
+    },
+    {
+      "id": 753,
+      "thuat_ngu": "PDF",
+      "short_meaning": "định dạng PDF"
+    },
+    {
+      "id": 755,
+      "thuat_ngu": "PERT",
+      "short_meaning": "sơ đồ PERT"
+    },
+    {
+      "id": 756,
+      "thuat_ngu": "PERT図",
+      "short_meaning": "sơ đồ PERT"
+    },
+    {
+      "id": 757,
+      "thuat_ngu": "PGP",
+      "short_meaning": "mã hóa Pretty Good Privacy"
+    },
+    {
+      "id": 758,
+      "thuat_ngu": "PHS",
+      "short_meaning": "hệ thống di động cá nhân"
+    },
+    {
+      "id": 759,
+      "thuat_ngu": "PICT",
+      "short_meaning": "định dạng ảnh PICT"
+    },
+    {
+      "id": 760,
+      "thuat_ngu": "PIN",
+      "short_meaning": "mã PIN"
+    },
+    {
+      "id": 761,
+      "thuat_ngu": "PKI",
+      "short_meaning": "cơ sở hạ tầng khóa công khai"
+    },
+    {
+      "id": 777,
+      "thuat_ngu": "PPDACサイクル",
+      "short_meaning": "vòng PPDAC"
+    },
+    {
+      "id": 779,
+      "thuat_ngu": "PV数",
+      "short_meaning": "số lần xem trang"
+    },
+    {
+      "id": 780,
+      "thuat_ngu": "PaaS",
+      "short_meaning": "nền tảng dịch vụ đám mây"
+    },
+    {
+      "id": 781,
+      "thuat_ngu": "PaaS(Platform as a Service)",
+      "short_meaning": "nền tảng dịch vụ đám mây"
+    },
+    {
+      "id": 782,
+      "thuat_ngu": "Pascal",
+      "short_meaning": "ngôn ngữ Pascal"
+    },
+    {
+      "id": 783,
+      "thuat_ngu": "Perl",
+      "short_meaning": "ngôn ngữ lập trình Perl"
+    },
+    {
+      "id": 784,
+      "thuat_ngu": "Personal Digital Assistants",
+      "short_meaning": "trợ lý kỹ thuật cá nhân"
+    },
+    {
+      "id": 785,
+      "thuat_ngu": "Plan",
+      "short_meaning": "kế hoạch"
+    },
+    {
+      "id": 786,
+      "thuat_ngu": "Point Of Sales",
+      "short_meaning": "hệ thống quản lý bán hàng"
+    },
+    {
+      "id": 787,
+      "thuat_ngu": "Portable Document Format",
+      "short_meaning": "định dạng tài liệu di động"
+    },
+    {
+      "id": 788,
+      "thuat_ngu": "PostScript",
+      "short_meaning": "ngôn ngữ PostScript"
+    },
+    {
+      "id": 789,
+      "thuat_ngu": "Precision",
+      "short_meaning": "độ chính xác"
+    },
+    {
+      "id": 790,
+      "thuat_ngu": "Print Screenキー",
+      "short_meaning": "phím Print Screen"
+    },
+    {
+      "id": 791,
+      "thuat_ngu": "Processing",
+      "short_meaning": "ngôn ngữ lập trình Processing"
+    },
+    {
+      "id": 795,
+      "thuat_ngu": "QCサークル",
+      "short_meaning": "vòng tròn kiểm soát chất lượng"
+    },
+    {
+      "id": 799,
+      "thuat_ngu": "Question",
+      "short_meaning": "câu hỏi"
+    },
+    {
+      "id": 800,
+      "thuat_ngu": "R",
+      "short_meaning": "chữ R"
+    },
+    {
+      "id": 802,
+      "thuat_ngu": "RAM",
+      "short_meaning": "bộ nhớ truy cập ngẫu nhiên"
+    },
+    {
+      "id": 803,
+      "thuat_ngu": "RAM（Random Access Memory）",
+      "short_meaning": "bộ nhớ truy cập ngẫu nhiên"
+    },
+    {
+      "id": 804,
+      "thuat_ngu": "RAND",
+      "short_meaning": "hàm số ngẫu nhiên"
+    },
+    {
+      "id": 808,
+      "thuat_ngu": "RAR",
+      "short_meaning": "RAR"
+    },
+    {
+      "id": 810,
+      "thuat_ngu": "RASIS",
+      "short_meaning": "RASIS"
+    },
+    {
+      "id": 811,
+      "thuat_ngu": "RAW",
+      "short_meaning": "RAW"
+    },
+    {
+      "id": 815,
+      "thuat_ngu": "RDD",
+      "short_meaning": "RDD"
+    },
+    {
+      "id": 816,
+      "thuat_ngu": "READ",
+      "short_meaning": "READ"
+    },
+    {
+      "id": 817,
+      "thuat_ngu": "RESAS",
+      "short_meaning": "RESAS"
+    },
+    {
+      "id": 818,
+      "thuat_ngu": "RFC",
+      "short_meaning": "RFC"
+    },
+    {
+      "id": 819,
+      "thuat_ngu": "RFID",
+      "short_meaning": "RFID"
+    }
+  ]
+}

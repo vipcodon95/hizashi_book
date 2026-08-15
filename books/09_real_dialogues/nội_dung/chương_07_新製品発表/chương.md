@@ -191,7 +191,7 @@ Trục trặc kỹ thuật trước sân khấu = chuyện thường. Cách bi�
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「(<ruby>松本<rt>まつもと</rt></ruby>に<ruby>小声<rt>こごえ</rt></ruby>)<ruby>松本<rt>まつもと</rt></ruby>さん、<ruby>日経<rt>にっけい</rt></ruby>クロステックの田所さん、Q&A でコスト<ruby>質問<rt>しつもん</rt></ruby><ruby>予定<rt>よてい</rt></ruby>。<ruby>事前<rt>じぜん</rt></ruby>にヒアップだけ。」<br/>*(với Matsumoto nhỏ giọng) Anh Matsumoto, anh Tadokoro của Nikkei XTECH, dự định hỏi chi phí ở Q&A. Em báo trước anh.* |
+| **ズン** | 「(<ruby>松本<rt>まつもと</rt></ruby>に<ruby>小声<rt>こごえ</rt></ruby>)<ruby>松本<rt>まつもと</rt></ruby>さん、<ruby>日経<rt>にっけい</rt></ruby>クロステックの田所さん、Q&A でコスト<ruby>質問<rt>しつもん</rt></ruby><ruby>予定<rt>よてい</rt></ruby>。<ruby>事前<rt>じぜん</rt></ruby>にヘッドアップだけ。」<br/>*(với Matsumoto nhỏ giọng) Anh Matsumoto, anh Tadokoro của Nikkei XTECH, dự định hỏi chi phí ở Q&A. Em báo trước anh.* |
 | **松本PM** | 「(<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>目<rt>め</rt></ruby>)ありがとう、ズンさん、ナイス heads up。」<br/>*(mắt cảm kích) Cảm ơn Dũng, báo trước kịp đó.* |
 
 
@@ -215,7 +215,7 @@ Phóng viên / chuyên gia phân tích hay 'phục kích trước sự kiện' �
 
 | Vai | Câu |
 |---------|-----|
-| **中村CFO** | 「(<ruby>舞台<rt>ぶたい</rt></ruby><ruby>上<rt>うえ</rt></ruby>で)…そして<ruby>本日<rt>ほんじつ</rt></ruby>のSmart Bank Assistant、これを<ruby>実現<rt>じつげん</rt></ruby>するために2<ruby>年間<rt>ねんかん</rt></ruby><ruby>共<rt>とも</rt></ruby>に<ruby>走<rt>はし</rt></ruby>ってきたパートナー、ベトナムのティエンファット<ruby>社<rt>しゃ</rt></ruby>、<ruby>特<rt>とく</rt></ruby>に<ruby>同社<rt>どうしゃ</rt></ruby>BD<ruby>担当<rt>たんとう</rt></ruby>のTran Van Dungさん…ズンさん、<ruby>立<rt>た</rt></ruby>っていただけますか?」<br/>*(trên sân khấu)… và Smart Bank Assistant hôm nay, đối tác đã cùng chạy 2 năm để hiện thực hóa, công ty Tien Phat từ Việt Nam, đặc biệt em Tran Van Dung BD của công ty… Dũng, anh đứng lên giúp ạ?* |
+| **中村CFO** | 「(<ruby>舞台<rt>ぶたい</rt></ruby><ruby>上<rt>うえ</rt></ruby>で)…そして<ruby>本日<rt>ほんじつ</rt></ruby>のSmart Bank Assistant、これを<ruby>実現<rt>じつげん</rt></ruby>するために2<ruby>年間<rt>ねんかん</rt></ruby><ruby>共<rt>とも</rt></ruby>に<ruby>走<rt>はし</rt></ruby>ってきたパートナー、ベトナムのティエンファット<ruby>社<rt>しゃ</rt></ruby>、<ruby>特<rt>とく</rt></ruby>に<ruby>同社<rt>どうしゃ</rt></ruby>BD<ruby>担当<rt>たんとう</rt></ruby>のTran Van Dungさん…ズンさん、<ruby>立<rt>た</rt></ruby>っていただけますか?」<br/>*(trên sân khấu)… và Smart Bank Assistant hôm nay, đối tác đã cùng chạy 2 năm để hiện thực hóa, công ty Tien Phat từ Việt Nam, đặc biệt là anh Tran Van Dung, phụ trách BD của công ty… Anh Dũng, mời anh đứng lên.* |
 
 *[Dũng giật mình — hoàn toàn bất ngờ. Đứng dậy. Đèn rọi quay tìm. Khán giả nhìn. Dũng cúi đầu sâu.]*
 
@@ -270,7 +270,7 @@ Phóng viên / chuyên gia phân tích hay 'phục kích trước sự kiện' �
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「Smart Bank Assistant、<ruby>銀行業界<rt>ぎんこうぎょうかい</rt></ruby>の AI <ruby>化<rt>か</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>一歩<rt>いっぽ</rt></ruby>。<ruby>本日<rt>ほんじつ</rt></ruby>のデモと panel discussion で、<ruby>皆様<rt>みなさま</rt></ruby>により<ruby>深<rt>ふか</rt></ruby>くお<ruby>伝<rt>つた</rt></ruby>えします。ご<ruby>清聴<rt>せいちょう</rt></ruby>ありがとうございました。」<br/>*Smart Bank Assistant, một bước mới cho AI hóa ngành ngân hàng. Demo + panel discussion hôm nay sẽ truyền tải sâu hơn cho quý vị. Cảm ơn quý vị đã lắng nghe.* |
+| **ズン** | 「Smart Bank Assistant、<ruby>銀行業界<rt>ぎんこうぎょうかい</rt></ruby>の AI <ruby>化<rt>か</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>一歩<rt>いっぽ</rt></ruby>。<ruby>本日<rt>ほんじつ</rt></ruby>のデモと panel discussion で、<ruby>皆様<rt>みなさま</rt></ruby>により<ruby>深<rt>ふか</rt></ruby>くお<ruby>伝<rt>つた</rt></ruby>えします。ご<ruby>清聴<rt>せいちょう</rt></ruby>ありがとうございました。」<br/>*Smart Bank Assistant, một bước mới cho AI hóa ngành ngân hàng. Demo + toạ đàm discussion hôm nay sẽ truyền tải sâu hơn cho quý vị. Cảm ơn quý vị đã lắng nghe.* |
 
 *[Tiếng vỗ tay đầy. Dũng cúi đầu, xuống sân khấu. Tuấn ngồi hàng đầu, đập tay ngang gật đầu.]*
 
@@ -343,7 +343,7 @@ Hội đồng 4 người, Q&A 30 phút = phân công ai trả lời câu nào:
 | Vai | Câu |
 |---------|-----|
 | **来場者A** | 「(架空) ズンさん、<ruby>素晴<rt>すば</rt></ruby>らしいセッションでした。<ruby>私<rt>わたし</rt></ruby>、<ruby>関東銀行<rt>かんとうぎんこう</rt></ruby>の AI <ruby>推進<rt>すいしん</rt></ruby><ruby>室<rt>しつ</rt></ruby>の佐藤です。」<br/>*(khách 1) Dũng, phần trình bày tuyệt vời. Em là Sato của phòng xúc tiến AI ngân hàng Kanto.* |
-| **ズン** | 「(<ruby>両手<rt>りょうて</rt></ruby>で<ruby>名刺<rt>めいし</rt></ruby><ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>り)佐藤さん、ありがとうございます。Tien Phat の Tran Van Dung、ズンとお<ruby>呼<rt>よ</rt></ruby>びください。(<ruby>自分<rt>じぶん</rt></ruby>の<ruby>名刺<rt>めいし</rt></ruby><ruby>渡<rt>わた</rt></ruby>す)」<br/>*(2 tay nhận danh thiếp) Anh Sato cảm ơn ạ. Em là Tran Van Dung của Tien Phat, gọi Dũng được ạ. (đưa danh thiếp mình)* |
+| **ズン** | 「(<ruby>先<rt>さき</rt></ruby>に<ruby>両手<rt>りょうて</rt></ruby>で<ruby>自分<rt>じぶん</rt></ruby>の<ruby>名刺<rt>めいし</rt></ruby>を<ruby>差<rt>さ</rt></ruby>し<ruby>出<rt>だ</rt></ruby>す)Tien Phat の Tran Van Dung、ズンとお<ruby>呼<rt>よ</rt></ruby>びください。(<ruby>両手<rt>りょうて</rt></ruby>で<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>る)<ruby>頂戴<rt>ちょうだい</rt></ruby>いたします。<ruby>佐藤<rt>さとう</rt></ruby>さん、ありがとうございます。」<br/>*(đưa danh thiếp của mình trước bằng 2 tay) Em là Tran Van Dung của Tien Phat, gọi Dũng được ạ. (đưa danh thiếp mình)* |
 | **来場者A** | 「Smart Bank Assistant、<ruby>関東銀行<rt>かんとうぎんこう</rt></ruby>でも<ruby>検討<rt>けんとう</rt></ruby>の<ruby>価値<rt>かち</rt></ruby>ありそう。<ruby>後日<rt>ごじつ</rt></ruby>、デモのご<ruby>相談<rt>そうだん</rt></ruby>させていただいても?」<br/>*Smart Bank Assistant, ngân hàng Kanto cũng có giá trị xem xét. Sau này em có thể bàn về demo không?* |
 | **ズン** | 「もちろんです、<ruby>来週<rt>らいしゅう</rt></ruby><ruby>水曜<rt>すいよう</rt></ruby><ruby>以降<rt>いこう</rt></ruby>でしたら<ruby>時間<rt>じかん</rt></ruby><ruby>調整<rt>ちょうせい</rt></ruby>できます。Slack でも email でも。<ruby>名刺<rt>めいし</rt></ruby>の<ruby>連絡先<rt>れんらくさき</rt></ruby>からお<ruby>願<rt>ねが</rt></ruby>いします。」<br/>*Đương nhiên ạ, từ thứ 4 tuần sau em có thể bố trí. Slack hoặc email đều được. Liên lạc theo địa chỉ trên danh thiếp giúp em.* |
 
@@ -367,7 +367,9 @@ Hội đồng 4 người, Q&A 30 phút = phân công ai trả lời câu nào:
 30 phút trưa = 6-10 cuộc gặp 5 phút. Quá tải bộ nhớ nếu không có hệ thống:
 - **Sổ tay nhỏ + bút trong túi áo** — lấy ra trong 1 giây.
 - **Sau MỖI cuộc**, ghi 1 dòng: tên / cty / vai trò / chủ đề chính / bước tiếp theo.
-- **Kẹp danh thiếp vào sổ** đúng thứ tự = không lẫn lộn.
+- ⚠️ **Thứ tự đưa danh thiếp:** người **ở vị thế đề nghị / ít vai vế hơn đưa TRƯỚC**. Ở đây Dũng là phía chào hàng nên đưa trước rồi mới nhận, không phải nhận trước rồi mới rút ra.
+- Nhận bằng **2 tay**, nói 「<ruby>頂戴<rt>ちょうだい</rt></ruby>いたします」, **đọc lướt tên + chức danh** rồi mới cất — đừng liếc qua rồi nhét túi ngay.
+- ⚠️ **Đừng ghi chú lên danh thiếp trước mặt khách**, cũng đừng cất vào sổ ngay tại chỗ. Trong lúc nói chuyện thì **đặt danh thiếp lên bàn phía trước mặt** (nếu ngồi), xếp theo vị trí chỗ ngồi. Ghi chú thì để sau khi khách đã rời đi.
 - **Nhắc lại tên** trong câu đầu ('Sato-san, ありがとう') = khắc sâu ký ức.
 - **Cam kết thời gian cụ thể** ('thứ 4 tuần sau') = chuyên nghiệp.
 - Cuối ngày: scan danh thiếp + sổ ghi chú vào CRM (Salesforce / HubSpot) trong 24h, không để muộn.
@@ -440,7 +442,7 @@ Bản trình diễn treo trước khách hàng = có thể cứu được nếu 
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「<ruby>松本<rt>まつもと</rt></ruby>さん、<ruby>進<rt>すす</rt></ruby>めていただいてありがとうございます。<ruby>家族<rt>かぞく</rt></ruby>とフオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>との<ruby>相談<rt>そうだん</rt></ruby>、<ruby>年内<rt>ねんない</rt></ruby>に<ruby>完了<rt>かんりょう</rt></ruby>させて、<ruby>年明<rt>ねんあ</rt></ruby>けに<ruby>正式<rt>せいしき</rt></ruby>に<ruby>動<rt>うご</rt></ruby>けるよう<ruby>準備<rt>じゅんび</rt></ruby>します。」<br/>*Anh Matsumoto, cảm ơn anh đã thúc đẩy. Em sẽ hoàn thành bàn với gia đình + chị Hương trong năm nay, đầu năm sẵn sàng chuyển sang chính thức.* |
-| **松本PM** | 「<ruby>了解<rt>りょうかい</rt></ruby>。ハーCTO とも<ruby>僕<rt>ぼく</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>から<ruby>話<rt>はな</rt></ruby>する。<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めよう。」<br/>*Rõ. Anh Hà CTO bên em sẽ nói. Cùng tiến nhé.* |
+| **松本PM** | 「<ruby>了解<rt>りょうかい</rt></ruby>。ハーCTO とも<ruby>僕<rt>ぼく</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>から<ruby>話<rt>はな</rt></ruby>する。<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めよう。」<br/>*Rõ. Phía tôi sẽ nói với anh Hà CTO. Cùng tiến nhé.* |
 
 *[Tiệc tiếp tân tiếp tục đến 20:00. Dũng gặp thêm 12 khách + cảm ơn Inoue + uống trà tổng kết với Tuấn.]*
 

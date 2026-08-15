@@ -40,7 +40,7 @@ Buổi họp 4月度月例 với 白鷗 (松本PM, 大垣営業部長). Em Dũng
 | **ズン** | 「<ruby>早速<rt>さっそく</rt></ruby>ではございますが、本日のアジェンダに<ruby>沿<rt>そ</rt></ruby>って<ruby>進<rt>すす</rt></ruby>めさせていただきます【3】。」 <br/>*Em xin phép vào nội dung luôn, em sẽ tiến hành theo chương trình họp hôm nay ạ.* |
 | **松本 / 大垣** | 「よろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。」 <br/>*Phiền em nhé.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「お忙しい中」「誠に」** — bộ đôi tăng cấp lễ phép. Không có 「お忙しい中」 → cảm thấy thiếu. 「誠に」 mạnh hơn 「本当に」.
 - 【2】**「司会を務めさせていただきます」** — câu chuẩn người chủ trì. 「務める」 = đảm nhận. 「させていただく」 = formal hơn 「します」.
 - 【3】**「早速ではございますが」** — chuyển tiếp lịch sự từ chào sang nội dung. Cụm chuẩn business JP.

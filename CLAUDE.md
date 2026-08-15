@@ -63,6 +63,29 @@ DB target: PostgreSQL local của `HizashiWeb/backend` (project anh chị em ở
 - 8 stages thay vì 10 → nhanh hơn ~30-40%
 - Subagents dùng giống nhau nhưng prompt focus dialogue
 
+## Rà soát & sửa sách đã xuất bản
+
+**Khi nào dùng**: user yêu cầu review / rà soát / sửa lỗi một cuốn sách ĐÃ có nội dung (khác với viết sách mới).
+
+**⛔ PHẠM VI: chỉ review NỘI DUNG — tức các file `.md`** (`rule.md` / `chương.md` / mục lục / front matter). KHÔNG đụng `conversation.json`, KHÔNG đụng script build, KHÔNG sửa phụ lục (file sinh tự động). Lỗi ngoài phạm vi thì **ghi vào báo cáo, không tự sửa**.
+
+**Đọc BẮT BUỘC trước khi tung subagent**: `.claude/rules/book-review.md`
+
+**Vì sao bắt buộc**: đúc kết từ 5 đợt rà soát thật (sách 10, 08, 09, 02, 03). Giao subagent mà không nạp rule này thì nó sẽ mơ hồ và báo cáo sai — đã ghi nhận **5 ca agent phóng đại phạm vi** (báo 91 dòng → thực 11; báo 43 → thực 7; báo "56/60 rule thiếu bài luyện" → thực 0).
+
+**Tóm tắt quy trình**:
+1. Tạo `books/<slug>/_review/00_TIEN_DO.md` làm nguồn sự thật (chống mất context)
+2. Main Claude **tự kiểm chứng trước** vài mục → lập thước đo để đánh giá báo cáo agent
+3. Tung 2–4 subagent Opus rà theo phạm vi tách bạch, **chỉ báo cáo không sửa**
+4. Main Claude **kiểm chứng từng cáo buộc** rồi mới sửa — không tin số liệu báo cáo
+5. Sửa theo 5 vòng (máy móc → sự thật → rủi ro/mâu thuẫn → meta → nội dung mới)
+6. Build → grep kiểm nội dung mới trong `release/` (nhớ strip ruby)
+
+**Ba bẫy hay dính nhất**:
+- **Ruby chen giữa kanji** → `grep` trả 0 dù chuỗi có thật. Luôn strip `<rt>` trước khi kết luận
+- **Đếm thư mục ≠ đếm rule** — có thư mục rác chỉ chứa `.placeholder`
+- **Fix đợt trước thường nửa vời** — chỉ vá `.json` không vá `.md`, hoặc vá JA quên VN. Đừng tin `STATUS.md`
+
 ## Slash commands available
 
 | Command | Mục đích |
@@ -86,6 +109,7 @@ DB target: PostgreSQL local của `HizashiWeb/backend` (project anh chị em ở
 Hizashi_book/
 ├── books/<book_name>/
 │   ├── _pipeline/                       ← state + outputs từng stage (gitignored state.json)
+│   ├── _review/                         ← đợt rà soát: 00_TIEN_DO.md (nguồn sự thật) + báo cáo từng agent
 │   ├── <topic>_<module>/                ← vd 2.1.0_keigo_phan_loai
 │   │   ├── *_LyThuyet.md                ← markdown lý thuyết
 │   │   ├── *_BaiTap.json                ← bài tập 40 câu
@@ -222,6 +246,7 @@ Chi tiết 13 anti-patterns: xem `.claude/skills/study-course-questions-builder/
 | "Seed DB" | `/seed-book <book>` |
 | "Review chất lượng câu hỏi" | Spawn subagent `question-set-reviewer` |
 | "Tiếp tục viết sách X" | `/book-status X` xem progress, rồi `/book-next X` |
+| **"Review sách X" / "rà soát sách X" / "sửa lỗi sách X"** (sách ĐÃ có nội dung) | **ĐỌC `.claude/rules/book-review.md` TRƯỚC**, rồi tạo `books/X/_review/00_TIEN_DO.md` và tung subagent theo mẫu prompt ở mục 9 |
 
 ## Liên quan
 

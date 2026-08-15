@@ -44,7 +44,7 @@ Buổi pitch Phase 3 bắt đầu trong 5 phút. 田中 PMO nhắn Slack 田中 
 | **ズン** | 「録画 raw 1時間20分 → **price negotiation 部分 (28-35分) と confidential 部分 (52-58分) を edit out** いたしました【3】。Drive <ruby>閲覧<rt>えつらん</rt></ruby><ruby>専用<rt>せんよう</rt></ruby>リンクで田中様 + 山田部長様 の Email 限定 access、30日後 <ruby>自動<rt>じどう</rt></ruby> expire です。」 <br/>*Video bản thô 1h20 — em đã cắt bỏ phần đàm phán giá (28-35') và phần bảo mật (52-58') ạ. Link Drive chỉ-xem, giới hạn email anh Tanaka + sếp Yamada, tự động hết hạn sau 30 ngày ạ.* |
 | **田中** | 「素晴らしいご対応、ありがとうございます。」 <br/>*Xử lý tuyệt vời, cảm ơn anh.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Xin phép trước** với 田中 → đặt kỳ vọng sẽ biên tập + chia sẻ giới hạn. KHÔNG vội vàng đồng ý "OK 録画送ります".
 - 【2】**Thông báo tại chỗ** với toàn bộ phòng → xin đồng ý của tất cả người tham dự. Khách Nhật rất chú trọng sự đồng ý — quay bất ngờ = xâm phạm quyền riêng tư.
 - 【3】**Cắt bỏ** phần bảo mật (đàm phán giá, góp ý về bên cung cấp). Ghi rõ mốc thời gian. Drive 閲覧専用 + Email 限定 + 30日 hết hạn = 3 lớp bảo mật.

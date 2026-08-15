@@ -12,7 +12,7 @@
 |---------|-----|
 | **ズン** | 「お忙しいところ<ruby>恐<rt>おそ</rt></ruby>れ<ruby>入<rt>い</rt></ruby>ります。<ruby>至急<rt>しきゅう</rt></ruby>ご<ruby>連絡<rt>れんらく</rt></ruby>したい<ruby>件<rt>けん</rt></ruby>がございます。」 <br/>*Em xin lỗi làm phiền lúc anh đang bận. Em có việc gấp cần liên hệ ạ.* |
 | **ズン** | 「<ruby>本日<rt>ほんじつ</rt></ruby><ruby>納品<rt>のうひん</rt></ruby>予定のサーバーですが、<ruby>配送<rt>はいそう</rt></ruby><ruby>業者<rt>ぎょうしゃ</rt></ruby>のトラブルで<ruby>到着<rt>とうちゃく</rt></ruby>が午後に<ruby>ずれ込<rt>ずれこ</rt></ruby>む<ruby>見込<rt>みこ</rt></ruby>みでございます。」 <br/>*Máy chủ dự kiến giao hôm nay đang bị bên vận chuyển trục trặc, dự kiến chiều mới tới ạ.* |
-| **ズン** | 「<ruby>現場<rt>げんば</rt></ruby>のトゥアンにも<ruby>至急<rt>しきゅう</rt></ruby><ruby>共有<rt>きょうゆう</rt></ruby>いたします。<ruby>松本<rt>まつもと</rt></ruby>様からも何かご<ruby>対応<rt>たいおう</rt></ruby>が必要でしたら、ご<ruby>指示<rt>しじ</rt></ruby>ください。」 <br/>*Em nghĩ cần báo gấp cho anh Tuấn ở hiện trường, anh thấy thế nào ạ?* |
+| **ズン** | 「<ruby>現場<rt>げんば</rt></ruby>のトゥアンにも<ruby>至急<rt>しきゅう</rt></ruby><ruby>共有<rt>きょうゆう</rt></ruby>いたします。<ruby>松本<rt>まつもと</rt></ruby>様からも何かご<ruby>対応<rt>たいおう</rt></ruby>が必要でしたら、ご<ruby>指示<rt>しじ</rt></ruby>ください。」 <br/>*Em sẽ chia sẻ gấp cho anh Tuấn ở hiện trường ạ. Nếu anh Matsumoto cần bên em xử lý thêm gì, xin anh chỉ thị ạ.* |
 | **松本PM** | 「分かりました。トゥアンさんへ私からも<ruby>連絡<rt>れんらく</rt></ruby>します。」 <br/>*Tôi hiểu rồi. Tôi cũng sẽ liên hệ anh Tuấn.* |
 
 ## Câu chốt

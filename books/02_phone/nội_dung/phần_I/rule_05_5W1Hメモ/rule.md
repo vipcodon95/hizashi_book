@@ -29,7 +29,7 @@
 | **ズン** (tiếp) | 「<ruby>念<rt>ねん</rt></ruby>のため<ruby>復唱<rt>ふくしょう</rt></ruby>させていただきます。打ち合わせを来週火曜15時に変更、でよろしいでしょうか。」 <br/>*Em xin lặp lại để chắc chắn: đổi cuộc họp sang thứ Ba tuần sau 15h, đúng không ạ?* |
 | **松本PM** | 「はい、お<ruby>願<rt>ねが</rt></ruby>いします。」 <br/>*Vâng, nhờ em.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】「承りました」 = 「nhận thông tin rồi」kính ngữ. Khi dùng nó, khách hiểu bạn đã *ghi vào sổ*.
 
 ---

@@ -38,7 +38,7 @@ Sau phần mở đầu + chương trình, Dũng đến phần cam kết thời g
 | **ズン** | 「**スマホでタイマーをセット**しております【3】。<ruby>残<rt>のこ</rt></ruby>り<ruby>時間<rt>じかん</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>で<ruby>管理<rt>かんり</rt></ruby>いたしますので、ご<ruby>安心<rt>あんしん</rt></ruby>くださいませ。」 <br/>*Em đã set timer trên điện thoại ạ. Thời gian còn lại em sẽ quản lý, mong quý vị cứ yên tâm ạ.* |
 | **大垣** | 「(……<ruby>時間管理<rt>じかんかんり</rt></ruby>を<ruby>意識<rt>いしき</rt></ruby>してるな、<ruby>好印象<rt>こういんしょう</rt></ruby>)」 <br/>*(…Có ý thức giữ giờ, ấn tượng tốt)* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「30分の枠でいただいております」** — Ghi nhận thời gian = món quà khách dành cho mình, không phải quyền của bạn.
 - 【2】**「必ず Q&A に切り替え」** — Cam kết cứng. Dù phần chính chưa hết. Khách Nhật rất coi trọng lời cam kết này.
 - 【3】**「タイマーをセット」** — Tín hiệu nhìn thấy được của sự cam kết. Có thể là điện thoại đặt trên bàn (để im) hoặc smartwatch.

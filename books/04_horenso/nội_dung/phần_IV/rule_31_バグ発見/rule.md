@@ -1,4 +1,4 @@
-# Rule 31 — Phát hiện bug — Hou-Ren-Sou flow / バグ発見時
+# Rule 31 — Phát hiện bug — quy trình Hou-Ren-Sou / バグ発見時
 
 > **Luận điểm.** Bug nghiêm trọng (production down / data corruption / security) là tình huống áp lực đỉnh. Phải có **quy trình leo thang xử lý định trước**: **(1) Phát hiện → ngay** **(2) Slack #incident channel + tag Tuấn (Tech lead)** trong **5 phút**, **(3) Tuấn xác nhận mức độ nghiêm trọng → báo lên Hà CTO** trong **15 phút**, **(4) Hà CTO + Dũng cùng soạn thông báo + báo lên Matsumoto** trong **30 phút**, **(5) Điều tra + ETA** trong **60 phút**, **(6) Khắc phục + phân tích sau sự cố** trong **24h**. Mốc thời gian mỗi bước = SLA của team. Bỏ qua bước = "đi tắt" → bê trễ chuỗi.
 >
@@ -10,7 +10,7 @@
 
 ## Bối cảnh / 場面
 
-Thứ Ba 22/4 14:30. Em Hải (DevOps) phát hiện production API trả 500 error rate ~30% (khoảng 200 user bị affect). Critical incident. So sánh 2 flow.
+Thứ Ba 22/4 14:30. Em Hải (DevOps) phát hiện API môi trường thật trả lỗi 500 với tỷ lệ ~30% (khoảng 200 người dùng bị ảnh hưởng). Sự cố nghiêm trọng. So sánh 2 quy trình.
 
 ---
 
@@ -43,7 +43,7 @@ Thứ Ba 22/4 14:30. Em Hải (DevOps) phát hiện production API trả 500 err
 | **ハイ** | 「原因: 14:00 デプロイの DB index に conflict。rollback <ruby>手順<rt>てじゅん</rt></ruby>準備<ruby>完了<rt>かんりょう</rt></ruby>、15:30 <ruby>実施<rt>じっし</rt></ruby>で<ruby>復旧<rt>ふっきゅう</rt></ruby><ruby>見込<rt>みこ</rt></ruby>み。」 <br/>*Nguyên nhân: index DB của đợt triển khai 14:00 có xung đột. Đã chuẩn bị xong quy trình khôi phục, thực thi 15:30 dự kiến phục hồi.* |
 | **ズン** | 「松本様、**ETA ご報告**: 15:30〜15:45 で rollback 実施、15:45 復旧見込み。原因:本日デプロイの index <ruby>変更<rt>へんこう</rt></ruby>が<ruby>想定外<rt>そうていがい</rt></ruby>の lock を発生。<ruby>詳細<rt>しょうさい</rt></ruby>は復旧後 24時間<ruby>以内<rt>いない</rt></ruby>に Post-mortem レポートをお<ruby>送<rt>おく</rt></ruby>りいたします【6】。」 <br/>*Anh Matsumoto, [Báo thời gian dự kiến] 15:30-15:45 thực thi khôi phục, 15:45 dự kiến ổn định. Nguyên nhân: thay đổi index của đợt triển khai hôm nay gây lock ngoài dự tính. Chi tiết em sẽ gửi báo cáo phân tích sau sự cố trong vòng 24h sau khi khôi phục ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**SLA 5 phút: Slack #incident + tag Tech lead** — không làm 1 mình. Có dấu thời gian + ước tính mức độ nghiêm trọng ban đầu.
 - 【2】**SLA 15 phút: Tech lead → CTO** — anh Tuấn không chần chừ, báo lên CTO ngay.
 - 【3】**SLA 30 phút: CTO phân vai liên lạc với khách** — Hà CTO không tự đi báo khách, để Dũng (chủ trì BD) xử lý theo định hướng.
@@ -94,4 +94,4 @@ T+24h       Post-mortem report                    (Tuấn + Hà CTO)
 | 第一報 | だいいっぽう | ĐỆ NHẤT BÁO | Báo cáo đầu tiên |
 | ETA | ETA | — | Estimated time of arrival |
 | ポストモーテム | ぽすともーてむ | — | Post-mortem |
-| Sev1 | Sev1 | — | Critical severity |
+| Sev1 | Sev1 | — | Mức sự cố nghiêm trọng nhất (dịch vụ ngừng / hỏng dữ liệu / lộ bảo mật) |

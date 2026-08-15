@@ -13,7 +13,7 @@ Nếu bạn phát hiện lỗi nội dung, có đề xuất cải thiện, hoặ
 
 | Mục | Nội dung |
 |-----|----------|
-| Tên sách | Hizashi — Báo·Liên·Thảo luận / 報・連・相 |
+| Tên sách | Hizashi — Báo·Liên·Tham vấn / 報・連・相 |
 | Tác giả | Hizashi Teams |
 | Phiên bản | 1.1 |
 | Ngày phát hành | 30/04/2026 |

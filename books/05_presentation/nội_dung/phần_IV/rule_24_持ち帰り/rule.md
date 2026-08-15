@@ -41,7 +41,7 @@ Q&A Phase 3. Anh Ōgaki hỏi câu technical chi tiết về protocol tích hợ
 | **大垣** | 「<ruby>結構<rt>けっこう</rt></ruby>です、お<ruby>待<rt>ま</rt></ruby>ちします。<ruby>技術詳細<rt>ぎじゅつしょうさい</rt></ruby>は<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>了解<rt>りょうかい</rt></ruby>です。」 <br/>*Được, tôi đợi. Chi tiết technical mang về xem xét, OK.* |
 | **ズン** | 「ありがとうございます。**<ruby>期限内<rt>きげんない</rt></ruby>に<ruby>必<rt>かなら</rt></ruby>ずご<ruby>回答<rt>かいとう</rt></ruby>いたします**。」 <br/>*Em cảm ơn ạ. Em xin chắc chắn phản hồi đúng hẹn ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「即答できかねます」** — khiêm tốn + trang trọng. Tốt hơn "わかりません". 「〜かねます」 = "không thể (do hoàn cảnh)" → từ chối lịch sự.
 - 【2】**Deadline cụ thể + ai xác nhận + định dạng phản hồi** — 3 yếu tố bắt buộc của 持ち帰り. Ghi chép tại chỗ → khách thấy mình nghiêm túc.
 - 【3】**「お時間〇営業日いただいて」** — đề nghị hạn chót + xin phép. Khách có thể thương lượng rút ngắn hơn nếu gấp.

@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "2.1.4 Mogishiken — 授受動詞 Reading",
+    "title": "2.1.4 Mogishiken — 授受動詞 (Động từ Cho-Nhận) Đọc Hiểu",
     "title_vn": "2.1.4 Mô Phỏng Đề Thi BJT Đọc Hiểu: 授受動詞 (Động từ Cho-Nhận)",
     "type": "mogishiken_dokkai",
     "description_vn": "Mô phỏng đề thi BJT phần đọc hiểu — chủ đề 授受動詞. Mỗi section gồm 1 văn bản kinh doanh thực tế + 4 câu hỏi đọc hiểu theo format BJT.",
     "total_sections": 5,
     "total_questions": 20,
-    "format_note": "Format Part 3②③ BJT — Thực hành đọc hiểu và phân tích 授受動詞 trong bối cảnh kinh doanh"
+    "format_note": "Format Phần 3②③ BJT — Thực hành đọc hiểu và phân tích 授受動詞 trong bối cảnh kinh doanh"
   },
   "sections": [
     {
@@ -24,11 +24,11 @@
           "question_vn": "Trong 'Cảm ơn vì đã giải thích (いただき) về các trường hợp/ví dụ kinh doanh (営業事例)', ai đã làm gì cho ai?",
           "choices": {
             "A": "佐藤さんが山田課長に説明をした",
-            "B": "山田課長が佐藤さんに説明をした",
+            "B": "佐藤さんが顧客に説明をした",
             "C": "顧客が佐藤さんに説明をした",
-            "D": "佐藤さんが顧客に説明をした"
+            "D": "山田課長が佐藤さんに説明をした"
           },
-          "answer": "B",
+          "answer": "D",
           "explanation_vn": "いただく ở đây là dạng khiêm tốn của 'nhận được' từ người trên. Câu này có nghĩa: 'Sếp đã giải thích cho tôi (và tôi nhận được sự giải thích đó)' — chiều từ sếp xuống nhân viên."
         },
         {
@@ -37,11 +37,11 @@
           "question_vn": "Sự khác biệt giữa 'dạy (くださった)' và 'giải thích (いただき)' là gì?",
           "choices": {
             "A": "くださるは下の人が上の人を敬う表現で、いただくは上の人が下の人を敬う表現",
-            "B": "どちらも同じ意味で、文体の違いだけ",
-            "C": "くださるは「上の人が下の人にしてくれる」を表し、いただくは「下の人が上の人からの行為を受ける」を表す",
+            "B": "くださるは「上の人が下の人にしてくれる」を表し、いただくは「下の人が上の人からの行為を受ける」を表す",
+            "C": "どちらも同じ意味で、文体の違いだけ",
             "D": "いただくは「もらう」という意味で、くださるは「与える」という意味"
           },
-          "answer": "C",
+          "answer": "B",
           "explanation_vn": "Cả hai đều cho thấy người sếp giúp đỡ, nhưng: くださる nhấn mạnh hành động của sếp (người cho), còn いただく nhấn mạnh hành động nhận của người dưới (người nhận). Cả hai cách nói đều lịch sự."
         },
         {
@@ -49,12 +49,12 @@
           "question_ja": "この文書から、佐藤さんと山田課長の関係について、最も正確に言えることは何ですか。",
           "question_vn": "Từ đoạn văn này, mối quan hệ giữa Sato và sếp Yamada được thể hiện chính xác nhất là gì?",
           "choices": {
-            "A": "佐藤さんが山田課長より上の立場にある",
-            "B": "山田課長が佐藤さんより高い立場にあり、親切に助けている",
+            "A": "山田課長が佐藤さんより高い立場にあり、親切に助けている",
+            "B": "佐藤さんが山田課長より上の立場にある",
             "C": "二人は同じ立場で、相互に協力している",
             "D": "山田課長と佐藤さんは初めて会った"
           },
-          "answer": "B",
+          "answer": "A",
           "explanation_vn": "Dùng いただく, くださる, Sato gọi sếp là '課長', đều cho thấy Yamada ở vị trí cao hơn. Email cảm ơn này thể hiện quan hệ lãnh đạo-nhân viên."
         },
         {
@@ -63,14 +63,16 @@
           "question_vn": "Nếu thay 'くださった' bằng 'あげた', văn bản sẽ tạo ấn tượng nào?",
           "choices": {
             "A": "より丁寧で敬意深い表現になる",
-            "B": "同じ意味で特に変わらない",
-            "C": "無礼で失礼な表現になり、上司の教えを見下した印象",
+            "B": "無礼で失礼な表現になり、上司の教えを見下した印象",
+            "C": "同じ意味で特に変わらない",
             "D": "より友達同士のような親密な関係を表す"
           },
-          "answer": "C",
+          "answer": "B",
           "explanation_vn": "Thay くださる bằng あげる sẽ ngược lại — 'tôi cho sếp' thay vì 'sếp cho tôi' — tạo ấn tượng tôi mạnh hơn sếp, rất mất lễ phép."
         }
-      ]
+      ],
+      "word_count": 141,
+      "difficulty_note": "Email cảm ơn ngắn, dùng động từ cho-nhận cơ bản: 〜ていただき (mình nhận ơn), 〜てくださった (đối phương ban ơn). Điểm học: hai cách nói cùng mô tả một sự việc nhưng khác điểm nhìn."
     },
     {
       "section_id": 2,
@@ -78,8 +80,8 @@
       "level_name": "中級基礎 / Trung cấp cơ bản",
       "document_type": "電話応対メモ",
       "situation_vn": "Nhân viên lễ tân ghi lại cuộc gọi từ công ty khách hàng muốn hợp tác với công ty.",
-      "passage_ja": "【電話応対メモ】\n日時：2026年4月13日 午後3時15分\n発信者：テック・ソリューション営業部 山本さん\n受信者：本社営業課 鈴木課長\n内容記録者：田中\n\n「いつもお世話になっております。今回は新しいシステム導入プロジェクトについてご相談させていただきたく、ご連絡しました。弊社のIT部門が貴社のシステムを検討いたしましたところ、非常に高い評価をいただきました。つきましては、導入前に技術サポートを十分にいただきたいと考えておりますが、可能でしょうか。また、導入後のトレーニングを実施していただける時間をお作りいただけますでしょうか。」",
-      "passage_vn": "[Ghi chú tiếp nhận điện thoại]\nThời gian: 15h15 chiều ngày 13/4/2026\nNgười gọi: Anh Yamamoto, phòng Kinh doanh Tech Solution\nNgười nhận: Trưởng phòng Suzuki, phòng Kinh doanh trụ sở chính\nNgười ghi nội dung: Tanaka\n\n\"Cảm ơn anh đã luôn quan tâm giúp đỡ. Lần này tôi gọi điện vì muốn xin được trao đổi với anh về dự án triển khai hệ thống mới. Sau khi bộ phận IT của công ty chúng tôi xem xét hệ thống của quý công ty, chúng tôi đã đánh giá rất cao. Vì vậy, chúng tôi mong muốn nhận được sự hỗ trợ kỹ thuật đầy đủ từ quý công ty trước khi triển khai, không biết có khả thi không ạ? Ngoài ra, quý công ty có thể sắp xếp thời gian để tổ chức đào tạo sau khi triển khai cho chúng tôi được không ạ?\" ",
+      "passage_ja": "【電話応対メモ】\n日時：2026年4月13日 午後3時15分\n発信者：テック・ソリューション営業部 山本さん\n受信者：本社営業課 鈴木課長\n内容記録者：田中\n\n「いつもお世話になっております。今回は新しいシステム導入プロジェクトについてご相談させていただきたく、ご連絡しました。弊社のIT部門が貴社のシステムを検討いたしましたところ、非常に高く評価しております。つきましては、導入前に技術サポートを十分にいただきたいと考えておりますが、可能でしょうか。また、導入後のトレーニングを実施していただける時間をお作りいただけますでしょうか。」",
+      "passage_vn": "[Ghi chú tiếp nhận điện thoại]\nThời gian: 15h15 chiều ngày 13/4/2026\nNgười gọi: Anh Yamamoto, phòng Kinh doanh Tech Solution\nNgười nhận: Trưởng phòng Suzuki, phòng Kinh doanh trụ sở chính\nNgười ghi nội dung: Tanaka\n\n\"Cảm ơn anh đã luôn quan tâm giúp đỡ. Lần này tôi gọi điện vì muốn xin được trao đổi với anh về dự án triển khai hệ thống mới. Sau khi bộ phận IT của công ty chúng tôi xem xét hệ thống của quý công ty, chúng tôi đánh giá rất cao hệ thống đó. Vì vậy, chúng tôi mong muốn nhận được sự hỗ trợ kỹ thuật đầy đủ từ quý công ty trước khi triển khai, không biết có khả thi không ạ? Ngoài ra, quý công ty có thể sắp xếp thời gian để tổ chức đào tạo sau khi triển khai cho chúng tôi được không ạ?\" ",
       "questions": [
         {
           "id": "2-1",
@@ -96,28 +98,28 @@
         },
         {
           "id": "2-2",
-          "question_ja": "「非常に高い評価をいただきました」という表現について、どのようなニュアンスが隠れていますか。",
-          "question_vn": "Trong 'Nhận được đánh giá rất cao (いただきました)', có ý nghĩa tiềm ẩn nào?",
+          "question_ja": "「弊社のIT部門が貴社のシステムを検討いたしましたところ、非常に高く評価しております」という表現について、誰が誰を評価していますか。",
+          "question_vn": "Trong câu \"弊社のIT部門が貴社のシステムを検討いたしましたところ、非常に高く評価しております\", ai đánh giá ai?",
           "choices": {
-            "A": "貴社が高い評価を与えているのは、弊社が優れているから",
-            "B": "弊社のIT部門が貴社のシステムを高く評価した、という事実",
-            "C": "山本さんが貴社から受け取った高い評価に感謝し、恭順な姿勢を示している",
-            "D": "システムはあまり良くなかったが、社交辞令として褒めている"
+            "A": "貴社が弊社を高く評価している",
+            "B": "システムはあまり良くなかったが、社交辞令として褒めている",
+            "C": "山本さんが貴社から受け取った高い評価に感謝している",
+            "D": "弊社のIT部門が貴社のシステムを高く評価した、という事実"
           },
-          "answer": "B",
-          "explanation_vn": "Phải đọc kỹ chủ thể trong passage: '弊社のIT部門が貴社のシステムを検討いたしましたところ、非常に高い評価をいただきました' — chủ thể đánh giá là 弊社 (Tech Solution), đối tượng được đánh giá là 貴社のシステム. Tức 弊社 đánh giá hệ thống của 貴社, kết quả rất cao. 'いただきました' ở đây là cách nói khiêm tốn để diễn đạt 'thu được kết quả đánh giá tốt', KHÔNG có nghĩa 貴社 đánh giá 弊社. → (B) đúng. (C) SAI vì đảo ngược chiều đánh giá (tưởng Yamamoto nhận đánh giá TỪ quý công ty)."
+          "answer": "D",
+          "explanation_vn": "Chủ thể của câu là 「弊社のIT部門が」, tân ngữ là 「貴社のシステムを」→ chính bộ phận IT của Tech Solution (弊社) đánh giá cao hệ thống của quý công ty. 「評価しております」 = 「評価している」 ở dạng khiêm nhường (おる là khiêm nhường ngữ của いる), phù hợp khi nói về hành động của bên mình.\nBẪY THƯỜNG GẶP: nếu viết 「高い評価をいただきました」 thì 「いただく」(khiêm nhường ngữ của もらう) BẮT BUỘC hàm ý NHẬN TỪ NGƯỜI KHÁC → câu sẽ đảo chiều thành 貴社 đánh giá cao 弊社, mâu thuẫn với chủ ngữ 弊社のIT部門が. Đây là lý do phải dùng 「評価しております」 chứ không dùng 「評価をいただきました」."
         },
         {
           "id": "2-3",
           "question_ja": "「ご相談させていただきたく」と「サポートをいただきたい」という二つの授受動詞の使い方で、誰が誰に何をしているか、最も正確な説明はどれですか。",
           "question_vn": "Trong hai cách nói 'させていただきたく' (xin được) và 'いただきたい' (muốn nhận), ai làm gì cho ai?",
           "choices": {
-            "A": "弊社が貴社に相談することについて許可を求め、技術サポートを受けたいと言っている",
+            "A": "弊社が貴社のシステムについて判断を与え、貴社がそれに従っている",
             "B": "貴社が弊社に相談を強要して、技術サポートを命じている",
-            "C": "弊社が貴社のシステムについて判断を与え、貴社がそれに従っている",
+            "C": "弊社が貴社に相談することについて許可を求め、技術サポートを受けたいと言っている",
             "D": "貴社が弊社に相談内容を提供し、弊社がそれを評価している"
           },
-          "answer": "A",
+          "answer": "C",
           "explanation_vn": "させていただきたく (xin được tham ý kiến) — Yamamoto xin phép thảo luận. いただきたい (muốn nhận) — muốn nhận support. Cả hai đều là yêu cầu lịch sự từ người dưới."
         },
         {
@@ -125,15 +127,17 @@
           "question_ja": "「トレーニングを実施していただける時間をお作りいただけますでしょうか」という長い表現は、実質的にはどのような依頼を表していますか。",
           "question_vn": "Câu dài 'Bạn có thể (いただけます) tạo ra thời gian để (いただける) thực hiện training' là yêu cầu gì?",
           "choices": {
-            "A": "トレーニングの日程を決めてほしいという依頼",
-            "B": "貴社の時間が足りないので、弊社が時間をあげるという申し出",
+            "A": "貴社の時間が足りないので、弊社が時間をあげるという申し出",
+            "B": "トレーニングの日程を決めてほしいという依頼",
             "C": "弊社が貴社に時間を与える提案",
             "D": "トレーニングは必要ないという拒絶"
           },
-          "answer": "A",
+          "answer": "B",
           "explanation_vn": "この複雑な表現は本質的には: 'Vui lòng tạo ra thời gian để thực hiện training cho chúng tôi' — xin phép/xin vui lòng sắp xếp thời gian training."
         }
-      ]
+      ],
+      "word_count": 259,
+      "difficulty_note": "Ghi chú điện thoại giữa hai công ty. Tập trung vào 〜させていただく (xin phép làm) và 〜ていただく/〜ていただける (nhờ đối phương làm). Bẫy: phân biệt chủ thể của 評価する với 評価をいただく — sai chủ thể là đảo ngược cả câu."
     },
     {
       "section_id": 3,
@@ -149,12 +153,12 @@
           "question_ja": "A社様が「この修正案で進めていただきたい」と言った時、誰が誰に何をするということを求めていますか。",
           "question_vn": "Khi A社 nói 'xin hãy (いただきたい) tiến hành theo đề án sửa đổi', ai yêu cầu ai làm gì?",
           "choices": {
-            "A": "A社が青山さんの会社に、修正案で進めることを許可している",
-            "B": "A社が青山さんの会社に対して、修正案で進めることを依頼・許可している",
+            "A": "A社が青山さんの会社に対して、修正案で進めることを依頼・許可している",
+            "B": "A社が青山さんの会社に、修正案で進めることを許可している",
             "C": "青山さんの会社がA社に修正案の実行を強要している",
             "D": "A社がA社自身で修正案を進めることを宣言している"
           },
-          "answer": "B",
+          "answer": "A",
           "explanation_vn": "いただきたい ở đây: người khách hàng (A社) là người yêu cầu, người được yêu cầu là công ty của Aoyama. Chiều: từ khách (cao hơn) → nhà thầu (thấp hơn)."
         },
         {
@@ -175,12 +179,12 @@
           "question_ja": "「施工業者に対して当初の契約内容変更手続きをさせていただきたく、お力添えをいただければ幸いです」という文から、青山さんの意図として最も正確なのはどれですか。",
           "question_vn": "Từ 'Xin được (させていただきたく) thực hiện thủ tục thay đổi hợp đồng với nhà thầu施工, xin vui lòng (いただければ) hỗ trợ', ý định nào chính xác?",
           "choices": {
-            "A": "青山さんが施工業者を支配下に置こうとしている",
-            "B": "青山さんが上司に依頼し、契約変更を実行する許可と支援を求めている",
+            "A": "青山さんが上司に依頼し、契約変更を実行する許可と支援を求めている",
+            "B": "青山さんが施工業者を支配下に置こうとしている",
             "C": "施工業者に対して上司から権力を借りて、命令を下したいと言っている",
             "D": "青山さんが契約変更について全責任を取る申し出"
           },
-          "answer": "B",
+          "answer": "A",
           "explanation_vn": "させていただきたく (xin được làm) + いただければ (nếu bạn cho phép/hỗ trợ) = Aoyama xin phép từ sếp để thực hiện và xin sự hỗ trợ."
         },
         {
@@ -189,14 +193,16 @@
           "question_vn": "Dùng liên tục 'いただく' và 'させていただく' trong báo cáo, Aoyama thể hiện thái độ nào?",
           "choices": {
             "A": "すべての問題を上司のせいにして、責任を逃げようとしている",
-            "B": "自分たちの仕事の成功は、上司の指導と支援があってこそだと認識し、謙虚な姿勢で報告している",
-            "C": "上司を褒めるために、過度にへりくだって表現している",
+            "B": "上司を褒めるために、過度にへりくだって表現している",
+            "C": "自分たちの仕事の成功は、上司の指導と支援があってこそだと認識し、謙虚な姿勢で報告している",
             "D": "仕事の内容よりも敬語の使い方を重視している"
           },
-          "answer": "B",
+          "answer": "C",
           "explanation_vn": "Sử dụng 敬語 như này một cách thích hợp (không quá) thể hiện: sự tôn trọng sếp, thừa nhận sự hỗ trợ của họ, và sự chuyên nghiệp."
         }
-      ]
+      ],
+      "word_count": 392,
+      "difficulty_note": "Báo cáo tiến độ gửi cấp trên, mật độ động từ cho-nhận cao: ご指導をいただき, ご意見をいただきました, させていただきました, お力添えをいただければ. Điểm học: theo dõi chuỗi ai-nhận-gì qua nhiều tầng (khách hàng → công ty mình → cấp trên)."
     },
     {
       "section_id": 4,
@@ -204,7 +210,7 @@
       "level_name": "上級 / Nâng cao",
       "document_type": "会議議事録",
       "situation_vn": "Biên bản họp ghi lại thảo luận về hợp tác giữa 3 công ty: Công ty A (chủ), Công ty B (nhà thầu), và Công ty C (nhà cung cấp).",
-      "passage_ja": "【定例会議議事録】\n日時：2026年4月10日 14:00～15:30\n出席者：A社営業部長 山田太郎、B社プロジェクトマネージャー 田中花子、C社営業責任者 佐藤次郎\n\n【議題1：納期調整について】\nA社山田部長から、「現在のスケジュールでは4月末までの納品が困難とのご報告をB社よりいただきました。C社佐藤さんが部品の最終納期を5月10日とおっしゃっておられるため、B社ではそれに基づいて工事日程を立てておられます。しかし、A社の顧客からは4月末納品をどうしても守っていただきたいとのご要望をいただいております。」との状況説明がございました。\n\nこの問題の解決について、B社田中さんから「C社にこちらからご連絡させていただき、部品納期の前倒しについてお願いさせていただきたいのですが、いかがでしょうか」とのご提案がございました。\n\nA社山田部長より「了解しました。B社からC社に対し、部品納期の早期納品についてお願いさせていただきたく、当方からもC社にご連絡させていただきます」とのご指示をいただきました。\n\n【決議】\nB社とA社が協力して、C社に対し、部品納期の前倒しについて正式にお願いすることを決定いたしました。",
+      "passage_ja": "【定例会議議事録】\n日時：2026年4月10日 14:00～15:30\n出席者：A社営業部長 山田太郎、B社プロジェクトマネージャー 田中花子、C社営業責任者 佐藤次郎\n\n【議題1：納期調整について】\nA社山田部長から、「現在のスケジュールでは4月末までの納品が困難とのご報告をB社よりいただきました。C社佐藤さんが部品の最終納期を5月10日とおっしゃっているため、B社ではそれに基づいて工事日程を立てていらっしゃいます。しかし、A社の顧客からは4月末納品をどうしても守っていただきたいとのご要望をいただいております。」との状況説明がございました。\n\nこの問題の解決について、B社田中さんから「C社にこちらからご連絡させていただき、部品納期の前倒しについてお願いさせていただきたいのですが、いかがでしょうか」とのご提案がございました。\n\nA社山田部長より「了解しました。B社からC社に対し、部品納期の早期納品についてお願いさせていただきたく、当方からもC社にご連絡させていただきます」とのご指示をいただきました。\n\n【決議】\nB社とA社が協力して、C社に対し、部品納期の前倒しについて正式にお願いすることを決定いたしました。",
       "passage_vn": "[Biên bản cuộc họp định kỳ]\nThời gian: 14:00 ~ 15:30 ngày 10/4/2026\nNgười tham dự: Trưởng phòng Kinh doanh công ty A Yamada Taro, Quản lý dự án công ty B Tanaka Hanako, Phụ trách kinh doanh công ty C Sato Jiro\n\n[Chủ đề 1: Về việc điều chỉnh thời hạn giao hàng]\nTrưởng phòng Yamada công ty A đã trình bày tình hình: \"Phía công ty B đã báo cáo rằng với lịch trình hiện tại thì việc giao hàng đến cuối tháng 4 là khó khăn. Do anh Sato công ty C cho biết thời hạn giao linh kiện cuối cùng là ngày 10/5, nên công ty B đang lập lịch thi công dựa trên mốc đó. Tuy nhiên, khách hàng của công ty A có yêu cầu nhất định phải giữ đúng việc giao hàng vào cuối tháng 4.\"\n\nVề cách giải quyết vấn đề này, chị Tanaka công ty B đã đề xuất: \"Phía chúng tôi sẽ liên hệ với công ty C để nhờ họ đẩy sớm thời hạn giao linh kiện, không biết như vậy có được không ạ?\"\n\nTrưởng phòng Yamada công ty A đã chỉ thị: \"Tôi đã hiểu. Để công ty B nhờ công ty C giao sớm linh kiện, và từ phía chúng tôi cũng sẽ liên hệ với công ty C.\"\n\n[Nghị quyết]\nĐã quyết định công ty B và công ty A phối hợp để chính thức đề nghị công ty C đẩy sớm thời hạn giao linh kiện.",
       "questions": [
         {
@@ -218,20 +224,20 @@
             "D": "C社が全て決定権を持っていて、他の二社はそれに従うだけ"
           },
           "answer": "C",
-          "explanation_vn": "Quyết định cuối cùng: 'B社とA社が協力して、C社に対し...お願いすることを決定'. Đây là hợp tác B + A → C để giải quyết vấn đề chung."
+          "explanation_vn": "Nghị quyết cuối cùng ghi rõ: 「B社とA社が協力して、C社に対し…お願いすることを決定」. Tức công ty A và công ty B đứng cùng phía, cùng đề nghị công ty C đẩy sớm thời hạn giao linh kiện — đây là cấu trúc hợp tác nhằm đáp ứng yêu cầu của khách hàng phía công ty A. Phương án đúng là (C). Các phương án còn lại mô tả sai chiều đề nghị hoặc sai quan hệ quyền lực giữa ba bên."
         },
         {
           "id": "4-2",
-          "question_ja": "山田部長の発言で、「B社ではそれに基づいて工事日程を立てておられます」と「C社佐藤さんが部品の最終納期を5月10日とおっしゃっておられるため」という二つの表現について、使われている敬語の種類として、最も正確な説明はどれですか。",
-          "question_vn": "Hai cách nói về B社 'đang lập lịch (おられます)' và C社 'đang nói (おっしゃっておられる)' — loại kính ngữ nào được dùng và điểm chung là gì?",
+          "question_ja": "山田部長の発言にある「おっしゃっている」「立てていらっしゃいます」という二つの表現の敬語について、最も正確な説明はどれですか。",
+          "question_vn": "Về hai cách nói \"おっしゃっている\" và \"立てていらっしゃいます\" trong lời của trưởng phòng Yamada, giải thích nào chính xác nhất?",
           "choices": {
-            "A": "どちらも尊敬語（相手への敬意）を使って、B社とC社の行動を丁寧に述べており、両社が主体的に行動していることを示している",
-            "B": "どちらも同じ授受動詞を使っているため、意味が全く同じ",
-            "C": "B社の行動はC社の決定によって制約されている従属関係を表している",
-            "D": "B社とC社は対等な立場で、どちらが決定権を持つか不明確"
+            "A": "どちらも謙譲語で、自分側の行動をへりくだって述べている",
+            "B": "どちらも二重敬語であり、正式な文書では避けるべき言い方である",
+            "C": "どちらも授受動詞で、物や恩恵のやり取りを表している",
+            "D": "どちらも尊敬語を一層だけ使っており、C社とB社の主体的な行動を適切に高めている"
           },
-          "answer": "A",
-          "explanation_vn": "おられます / おっしゃっておられる: cả hai đều là 尊敬語 (tôn kính ngữ) — dùng để tôn trọng hành động CHỦ ĐỘNG của B社 và C社 (B đang lập lịch, C đang phát biểu) — đáp án A đúng. (Lưu ý quan trọng: おられる/おっしゃる là 尊敬語, KHÔNG phải 授受動詞; hai cụm này không liên quan đến quan hệ cho-nhận mà chỉ tôn kính chủ thể hành động.)"
+          "answer": "D",
+          "explanation_vn": "「おっしゃる」là tôn kính ngữ của 言う, 「いらっしゃる」là tôn kính ngữ của いる — cả hai đều nâng chủ thể (anh Sato công ty C, và công ty B), và mỗi cụm chỉ dùng MỘT lớp tôn kính → đúng chuẩn. Phương án đúng là (D).\nĐIỂM CẦN NHỚ (bẫy hay gặp): nếu viết 「おっしゃっておられる」 thì おっしゃる (tôn kính) + おられる (tôn kính) chồng lên nhau = 二重敬語, phải tránh. Tương tự 「立てておられます」 cũng nên đổi thành 「立てていらっしゃいます」, vì 文化庁『敬語の指針』 xếp おる vào 謙譲語II, dùng おられる để tôn kính người khác bị nhiều tài liệu chuẩn coi là không phù hợp với văn viết trang trọng.\nCác phương án sai: khiêm nhường ngữ (đây là tôn kính ngữ, không phải hạ mình); 二重敬語 (bản đã sửa chỉ còn một lớp tôn kính); 授受動詞 (おっしゃる/いらっしゃる KHÔNG phải động từ cho-nhận, không liên quan chiều cho-nhận)."
         },
         {
           "id": "4-3",
@@ -239,12 +245,12 @@
           "question_vn": "Trong đề xuất của Tanaka 'Xin được (させていただき) liên lạc...và xin được (させていただきたい) yêu cầu', ý định là gì?",
           "choices": {
             "A": "B社が独断的にC社に直接連絡して、要求を押し付ける意図",
-            "B": "B社がA社の許可を得たうえで、C社と連絡を取りたいという提案",
-            "C": "C社に対して命令的に指示する意図",
+            "B": "C社に対して命令的に指示する意図",
+            "C": "B社がA社の許可を得たうえで、C社と連絡を取りたいという提案",
             "D": "A社とB社の間に競争関係があり、B社が優位に立ちたい意図"
           },
-          "answer": "B",
-          "explanation_vn": "させていただきたい (xin được) là cách B社 xin phép từ A社 trước khi tự mình liên lạc C社. Thể hiện sự tôn trọng thứ bậc: B lấy ý kiến A trước, rồi mới hành động."
+          "answer": "C",
+          "explanation_vn": "「させていただきたい」 là cách công ty B xin phép công ty A trước khi tự mình liên hệ với công ty C. Thể hiện tôn trọng thứ bậc: công ty B hỏi ý công ty A trước, rồi mới hành động. Phương án đúng là (C). Các phương án khác đều mô tả sai: không có việc công ty B tự quyết áp đặt, không có sắc thái ra lệnh với công ty C, cũng không có quan hệ cạnh tranh giữa công ty A và công ty B."
         },
         {
           "id": "4-4",
@@ -252,14 +258,16 @@
           "question_vn": "Quyết định 'B và A hợp tác yêu cầu C' thể hiện mối quan hệ ba bên như thế nào?",
           "choices": {
             "A": "A社が上位で、B社とC社を支配している",
-            "B": "B社とA社が協力関係にあり、C社に対して共同で依頼する構図になっている",
-            "C": "C社が最も重要な立場で、他の二社はそれに従う",
+            "B": "C社が最も重要な立場で、他の二社はそれに従う",
+            "C": "B社とA社が協力関係にあり、C社に対して共同で依頼する構図になっている",
             "D": "三社が競合する関係で、C社に圧力をかけている"
           },
-          "answer": "B",
-          "explanation_vn": "協力 = cùng hợp tác. Trong quyết định 'B社とA社が協力して、C社に対し…お願いする', A và B đứng cùng phía, cùng đề nghị C — quan hệ ở đây là B và A hợp tác với nhau để cùng yêu cầu C (không phải A chỉ huy B, cũng không phải C có quyền lực). (Lưu ý: nhìn tổng thể A社 vẫn ở vai chủ trì/発注 cao hơn B社; nhưng trong ngữ cảnh yêu cầu C này, hai bên đứng cùng phía nên đáp án B mô tả chính xác cấu trúc quan hệ đó.) Các đáp án A/C/D đều mô tả sai quan hệ ba bên."
+          "answer": "C",
+          "explanation_vn": "協力 = cùng hợp tác. Trong nghị quyết 「B社とA社が協力して、C社に対し…お願いする」, công ty A và công ty B đứng cùng phía, cùng đề nghị công ty C — quan hệ ở đây là công ty A và công ty B hợp tác với nhau để cùng yêu cầu công ty C (không phải công ty A chỉ huy công ty B, cũng không phải công ty C nắm quyền lực). Phương án đúng là (C). (Lưu ý: nhìn tổng thể công ty A vẫn ở vai chủ trì/発注 cao hơn công ty B; nhưng trong ngữ cảnh đề nghị công ty C này, hai bên đứng cùng phía nên (C) mô tả chính xác cấu trúc quan hệ đó.) Các phương án còn lại đều mô tả sai quan hệ ba bên."
         }
-      ]
+      ],
+      "word_count": 496,
+      "difficulty_note": "Biên bản họp ba bên (A社・B社・C社) — độ khó nằm ở việc lần theo chiều cho-nhận giữa ba chủ thể. Kèm điểm kiểm tra phân biệt tôn kính ngữ (おっしゃる, いらっしゃる) với động từ cho-nhận, và cảnh báo lỗi 二重敬語 「おっしゃっておられる」."
     },
     {
       "section_id": 5,
@@ -267,21 +275,21 @@
       "level_name": "最上級 / Cao cấp nhất",
       "document_type": "FAX・公式依頼文書",
       "situation_vn": "Công ty Nhật Bản (chủ dự án) gửi công văn chính thức cho công ty nước ngoài (đối tác) để yêu cầu hợp tác và cấp dữ liệu kỹ thuật.",
-      "passage_ja": "令和8年4月13日\n\n【案件名：次世代スマートシティ開発プロジェクト — 技術協力依頼】\n\nGlobal Tech Partners Inc. \nCEO James Wilson 様\n\n平素より格別のお引き立てをいただき、誠にありがとうございます。\n\n弊社は、次世代スマートシティ開発プロジェクトを推進する過程において、貴社の高度な電子通信技術および人工知能システムを導入させていただきたく、本状を認めた次第でございます。\n\nつきましては、下記の事項についてご協力いただきたく、お願い申し上げます。\n\n1. 貴社が保有する基盤技術に関する技術仕様書、設計図面等の資料の提供を賜りたく存じます。弊社の技術部門が、これらの資料に基づいて、当地の気候風土及び社会基盤に適合するシステム設計をさせていただきたいと考えております。\n\n2. 貴社の技術チームによる現地での技術指導及び保守管理サービスを賜りたく、お願い申し上げます。弊社が実装作業を進める際に、随時ご指導をいただき、品質を確保したいと存じます。\n\n3. プロジェクト完了後、技術移転に関する正式契約をご締結いただきたく、お願い申し上げます。\n\n本プロジェクトが両国の技術交流と経済発展に貢献することを心待ちにしており、貴社のご理解とご協力を心よりお待ち申し上げております。何らかのご不明の点やご質問がございましたら、いつでもお気軽にお問い合わせください。\n\n敬具\n\n弊社代表取締役会長\n日本スマートシティ開発公社\n代表取締役会長 高橋一郎\n電話：03-xxxx-xxxx\nメール：info@jcscd.jp",
-      "passage_vn": "Ngày 13/4 năm Heisei 38\n\n[Tên dự án: Dự án phát triển Thành phố thông minh thế hệ mới — Đề nghị hợp tác kỹ thuật]\n\nGlobal Tech Partners Inc.\nKính gửi CEO James Wilson\n\nCảm ơn quý công ty đã luôn dành cho chúng tôi sự ưu ái đặc biệt.\n\nTrong quá trình thúc đẩy Dự án phát triển Thành phố thông minh thế hệ mới, công ty chúng tôi mong muốn được áp dụng công nghệ truyền thông điện tử cao cấp và hệ thống trí tuệ nhân tạo của quý công ty, nên xin viết bức thư này.\n\nVì vậy, chúng tôi kính mong quý công ty hợp tác trong các nội dung dưới đây.\n\n1. Chúng tôi kính mong quý công ty cung cấp các tài liệu như bản đặc tả kỹ thuật, bản vẽ thiết kế liên quan đến công nghệ nền tảng mà quý công ty sở hữu. Bộ phận kỹ thuật của chúng tôi mong muốn dựa trên các tài liệu này để thiết kế hệ thống phù hợp với khí hậu, thổ nhưỡng và hạ tầng xã hội của địa phương.\n\n2. Chúng tôi kính mong nhận được dịch vụ hướng dẫn kỹ thuật tại chỗ và bảo trì quản lý từ đội ngũ kỹ thuật của quý công ty. Khi chúng tôi tiến hành công việc lắp đặt, chúng tôi mong muốn nhận được sự chỉ dạy tùy lúc để đảm bảo chất lượng.\n\n3. Sau khi dự án hoàn thành, chúng tôi kính mong quý công ty ký kết hợp đồng chính thức liên quan đến chuyển giao công nghệ.\n\nChúng tôi mong mỏi dự án này sẽ đóng góp vào giao lưu kỹ thuật và phát triển kinh tế của hai nước, và tự đáy lòng chờ đợi sự thấu hiểu cùng hợp tác của quý công ty. Nếu có điểm gì chưa rõ hay có câu hỏi, xin quý công ty cứ thoải mái liên hệ với chúng tôi bất cứ lúc nào.\n\nTrân trọng kính chào,\n\nChủ tịch Hội đồng quản trị kiêm Tổng giám đốc công ty chúng tôi\nTổng công ty Phát triển Thành phố thông minh Nhật Bản\nChủ tịch HĐQT kiêm Tổng giám đốc Takahashi Ichiro\nĐiện thoại: 03-xxxx-xxxx\nEmail: info@jcscd.jp",
+      "passage_ja": "令和8年4月13日\n\n【案件名：次世代スマートシティ開発プロジェクト — 技術協力依頼】\n\nGlobal Tech Partners Inc. \nCEO James Wilson 様\n\n拝啓　時下ますますご清栄のこととお慶び申し上げます。平素より格別のお引き立てをいただき、誠にありがとうございます。\n\n弊社は、次世代スマートシティ開発プロジェクトを推進する過程において、貴社の高度な電子通信技術および人工知能システムを導入させていただきたく、本状を認めた次第でございます。\n\nつきましては、下記の事項についてご協力いただきたく、お願い申し上げます。\n\n1. 貴社が保有する基盤技術に関する技術仕様書、設計図面等の資料の提供を賜りたく存じます。弊社の技術部門が、これらの資料に基づいて、当地の気候風土及び社会基盤に適合するシステム設計をさせていただきたいと考えております。\n\n2. 貴社の技術チームによる現地での技術指導及び保守管理サービスを賜りたく、お願い申し上げます。弊社が実装作業を進める際に、随時ご指導をいただき、品質を確保したいと存じます。\n\n3. プロジェクト完了後、技術移転に関する正式契約をご締結いただきたく、お願い申し上げます。\n\n本プロジェクトが両国の技術交流と経済発展に貢献することを心待ちにしており、貴社のご理解とご協力を心よりお待ち申し上げております。何らかのご不明の点やご質問がございましたら、いつでもお気軽にお問い合わせください。\n\n敬具\n\n日本スマートシティ開発公社\n代表取締役会長　高橋一郎\n電話：03-xxxx-xxxx\nメール：info@jcscd.jp",
+      "passage_vn": "Ngày 13/4 năm Reiwa 8 (2026)\n\n[Tên dự án: Dự án phát triển Thành phố thông minh thế hệ mới — Đề nghị hợp tác kỹ thuật]\n\nGlobal Tech Partners Inc.\nKính gửi CEO James Wilson\n\nKính thưa quý công ty, kính chúc quý công ty ngày càng thịnh vượng. Cảm ơn quý công ty đã luôn dành cho chúng tôi sự ưu ái đặc biệt.\n\nTrong quá trình thúc đẩy Dự án phát triển Thành phố thông minh thế hệ mới, công ty chúng tôi mong muốn được áp dụng công nghệ truyền thông điện tử cao cấp và hệ thống trí tuệ nhân tạo của quý công ty, nên xin viết bức thư này.\n\nVì vậy, chúng tôi kính mong quý công ty hợp tác trong các nội dung dưới đây.\n\n1. Chúng tôi kính mong quý công ty cung cấp các tài liệu như bản đặc tả kỹ thuật, bản vẽ thiết kế liên quan đến công nghệ nền tảng mà quý công ty sở hữu. Bộ phận kỹ thuật của chúng tôi mong muốn dựa trên các tài liệu này để thiết kế hệ thống phù hợp với khí hậu, thổ nhưỡng và hạ tầng xã hội của địa phương.\n\n2. Chúng tôi kính mong nhận được dịch vụ hướng dẫn kỹ thuật tại chỗ và bảo trì quản lý từ đội ngũ kỹ thuật của quý công ty. Khi chúng tôi tiến hành công việc lắp đặt, chúng tôi mong muốn nhận được sự chỉ dạy tùy lúc để đảm bảo chất lượng.\n\n3. Sau khi dự án hoàn thành, chúng tôi kính mong quý công ty ký kết hợp đồng chính thức liên quan đến chuyển giao công nghệ.\n\nChúng tôi mong mỏi dự án này sẽ đóng góp vào giao lưu kỹ thuật và phát triển kinh tế của hai nước, và tự đáy lòng chờ đợi sự thấu hiểu cùng hợp tác của quý công ty. Nếu có điểm gì chưa rõ hay có câu hỏi, xin quý công ty cứ thoải mái liên hệ với chúng tôi bất cứ lúc nào.\n\nTrân trọng kính chào,\n\nTổng công ty Phát triển Thành phố thông minh Nhật Bản\nChủ tịch HĐQT kiêm Tổng giám đốc　Takahashi Ichiro\nĐiện thoại: 03-xxxx-xxxx\nEmail: info@jcscd.jp",
       "questions": [
         {
           "id": "5-1",
           "question_ja": "この文書で使用されている「賜る」という授受動詞の機能として、最も正確な説明はどれですか。",
           "question_vn": "Từ 'để được trao tặng/cấp (賜る)' được sử dụng ở đây nhằm mục đích gì?",
           "choices": {
-            "A": "相手に強く命令し、絶対に従うよう要求する表現",
-            "B": "相手からの支援や提供を受けることを、最も正式かつ敬意をもって表現する方法",
+            "A": "相手からの支援や提供を受けることを、最も正式かつ敬意をもって表現する方法",
+            "B": "相手に強く命令し、絶対に従うよう要求する表現",
             "C": "弊社が相手に何かを与える申し出として使用される表現",
             "D": "相手の行動が失敗する可能性を事前に示唆する表現"
           },
-          "answer": "B",
-          "explanation_vn": "賜る (tamawarū) là dạng tôn kính của いただく, dùng trong các tình huống rất chính thức (công văn, tờ rơi chính phủ). Ở đây là cách yêu cầu cao nhất từ công ty Nhật đến đối tác quốc tế."
+          "answer": "A",
+          "explanation_vn": "賜る（たまわる）là KHIÊM NHƯỜNG NGỮ — bản trang trọng cao hơn của いただく, cùng loại với いただく chứ không phải \"dạng tôn kính của いただく\". Nó hạ thấp người NHẬN (tức bên mình) để đề cao hành động ban cho của đối phương. Dùng trong công văn chính thức (公文書), thư chào hỏi trang trọng (挨拶状), diễn văn nghi lễ.\nỞ đây 「資料の提供を賜りたく存じます」 là cách đề nghị ở mức trang trọng cao nhất mà công ty Nhật gửi tới đối tác quốc tế → phương án đúng là (A). Các phương án sai: 賜る không mang tính ra lệnh; 賜る là NHẬN chứ không phải cho; và câu này không hàm ý dự báo thất bại."
         },
         {
           "id": "5-2",
@@ -289,11 +297,11 @@
           "question_vn": "Ba cách 'xin được (させていただきたく)', 'xin được (させていただきたい)', 'xin nhận (いただき)' thể hiện chiều nào?",
           "choices": {
             "A": "すべてが弊社が相手にお願いする一方向の関係",
-            "B": "弊社が相手の技術を導入・設計する（させていただく）ことと、相手から指導を受ける（いただく）という双方向の関係構造",
+            "B": "相手が主体的に全てを決めており、弊社は従うだけ",
             "C": "弊社が独断的に決めており、相手の意見は関係ない",
-            "D": "相手が主体的に全てを決めており、弊社は従うだけ"
+            "D": "弊社が相手の技術を導入・設計する（させていただく）ことと、相手から指導を受ける（いただく）という双方向の関係構造"
           },
-          "answer": "B",
+          "answer": "D",
           "explanation_vn": "させていただく: 'Chúng tôi xin được...' (chủ động nhưng xin phép). いただく: 'Chúng tôi xin nhận từ bạn...' (nhận từ bên kia). Cộng lại = hợp tác 2 bên, mỗi bên có vai trò."
         },
         {
@@ -303,10 +311,10 @@
           "choices": {
             "A": "貴社の資料を受け取るだけで、独立して設計を進める",
             "B": "貴社の技術に完全に依存しており、設計能力がない",
-            "C": "貴社の資料をベースに、弊社の技術で現地適応設計を行う能力があることを示しながら、協力を求めている",
-            "D": "設計は貴社に全面委譲し、弊社は監督するだけ"
+            "C": "設計は貴社に全面委譲し、弊社は監督するだけ",
+            "D": "貴社の資料をベースに、弊社の技術で現地適応設計を行う能力があることを示しながら、協力を求めている"
           },
-          "answer": "C",
+          "answer": "D",
           "explanation_vn": "Cấu trúc: 資料を受け取って (いただき) → 設計をする (させていただく) = nhận từ bên kia, rồi tự chủ động thiết kế. Thể hiện: chúng tôi có năng lực nhưng cần sự hỗ trợ."
         },
         {
@@ -314,15 +322,17 @@
           "question_ja": "この公式文書全体の構造と授受動詞の使い方から見て、弊社と貴社（Global Tech Partners Inc.）の関係として、最も適切な説明はどれですか。",
           "question_vn": "Từ toàn bộ cấu trúc và cách dùng 授受動詞, mối quan hệ giữa hai công ty là gì?",
           "choices": {
-            "A": "弊社が上位で、貴社に命令する関係",
+            "A": "大規模な技術移転と経済協力を目指し、賜る・させていただく・いただくを使い分けながら、相互尊重と対等なパートナーシップを構築しようとする関係",
             "B": "貴社が絶対的に優位で、弊社は完全に従属する関係",
-            "C": "大規模な技術移転と経済協力を目指し、賜る・させていただく・いただくを使い分けながら、相互尊重と対等なパートナーシップを構築しようとする関係",
+            "C": "弊社が上位で、貴社に命令する関係",
             "D": "単なる商業取引で、金銭で全てが決まる関係"
           },
-          "answer": "C",
+          "answer": "A",
           "explanation_vn": "敬語cấu trúc tinh tế: 賜る (tối cao), させていただく (xin được), いただく (xin nhận). Không phải áp đặt, không phải thuộc hạ, mà là: tôn trọng lẫn nhau, nhu cầu rõ ràng, mong đợi hợp tác dài hạn."
         }
-      ]
+      ],
+      "word_count": 656,
+      "difficulty_note": "Công văn FAX chính thức gửi đối tác nước ngoài, mức kính ngữ cao nhất: 賜る, 〜たく存じます, お願い申し上げます, cặp 拝啓〜敬具. Điểm học: phân tầng 賜る > いただく và phân biệt chiều させていただく (mình làm) với いただく (đối phương làm cho mình)."
     }
   ]
 }

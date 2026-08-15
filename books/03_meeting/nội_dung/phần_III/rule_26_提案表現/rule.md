@@ -36,7 +36,7 @@
 | **ハイ** | 「<ruby>現在<rt>げんざい</rt></ruby>のバックログ<ruby>規模<rt>きぼ</rt></ruby>ですと、1スプリントで<ruby>完了<rt>かんりょう</rt></ruby>するにはリスクがあるかと<ruby>存<rt>ぞん</rt></ruby>じます。【課題】そこで、<ruby>優先度<rt>ゆうせんど</rt></ruby><ruby>別<rt>べつ</rt></ruby>に2スプリントに<ruby>分割<rt>ぶんかつ</rt></ruby>し、<ruby>第<rt>だい</rt></ruby>1スプリントでコア<ruby>機能<rt>きのう</rt></ruby>、第2スプリントで<ruby>拡張機能<rt>かくちょうきのう</rt></ruby>、という<ruby>構成<rt>こうせい</rt></ruby>はいかがでしょうか【2】？【解】<ruby>皆様<rt>みなさま</rt></ruby>のご<ruby>意見<rt>いけん</rt></ruby>を<ruby>頂戴<rt>ちょうだい</rt></ruby>できればと存じます【3】。【意見聞き】」 <br/>*Với khối lượng backlog hiện tại, em e là làm 1 sprint sẽ có rủi ro ạ. Nên em xin đề xuất chia thành 2 sprint theo độ ưu tiên — sprint 1 làm core, sprint 2 làm tính năng mở rộng — anh/chị thấy thế nào ạ? Em rất mong nhận được góp ý ạ.* |
 | **大垣** | 「<ruby>面白<rt>おもしろ</rt></ruby>い提案ですね。スプリント1のスコープ<ruby>案<rt>あん</rt></ruby>をいただけますか？」 <br/>*Đề xuất hay đấy. Cho tôi xem dự thảo phạm vi sprint 1 nhé?* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「ひとつご提案させていただいてもよろしいでしょうか？」** — xin phép. Cho đối phương cảm giác kiểm soát.
 - 【2】**「〜という構成はいかがでしょうか？」** — không nói "nên/phải" mà mời gọi "thế nào ạ?".
 - 【3】**「ご意見を頂戴できればと存じます」** — đóng bằng câu mời góp ý. Giọng điệu khiêm tốn.

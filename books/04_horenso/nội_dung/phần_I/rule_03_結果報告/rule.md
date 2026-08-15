@@ -38,7 +38,7 @@ Demo Phase 2 với khách Matsumoto vừa kết thúc. Em Dũng cần báo cáo 
 | **ズン** | 「**<ruby>今後<rt>こんご</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby>**：3<ruby>件<rt>けん</rt></ruby>の<ruby>指摘<rt>してき</rt></ruby>は<ruby>今週中<rt>こんしゅうちゅう</rt></ruby>に<ruby>修正<rt>しゅうせい</rt></ruby>、<ruby>来週<rt>らいしゅう</rt></ruby><ruby>月曜<rt>げつよう</rt></ruby>にPhase 3キックオフを<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>へ<ruby>提案<rt>ていあん</rt></ruby>いたします【4】。」 <br/>*Hành động tiếp theo: sửa 3 comment trong tuần này, thứ hai tuần sau em sẽ đề xuất kick-off Phase 3 với anh Matsumoto ạ.* |
 | **フオン** | 「Goalが<ruby>明確<rt>めいかく</rt></ruby>で<ruby>原因分析<rt>げんいんぶんせき</rt></ruby>も<ruby>筋<rt>すじ</rt></ruby>が<ruby>通<rt>とお</rt></ruby>ってる。Phase 3<ruby>提案<rt>ていあん</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>もレビューしたいから、<ruby>金曜<rt>きんよう</rt></ruby>までに<ruby>案<rt>あん</rt></ruby>を<ruby>見<rt>み</rt></ruby>せてください。」 <br/>*Goal rõ và phân tích nguyên nhân cũng có lý. Đề xuất Phase 3 chị muốn xem lại nữa, em đưa bản nháp trước thứ Sáu nhé.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「目標は〇〇でした」** — luôn nhắc lại Goal trước khi báo Result. Người nghe có thước đo để đánh giá.
 - 【2】**「致命的なものはございません」** — phân loại mức độ nghiêm trọng. Không phải comment nào cũng nặng như nhau.
 - 【3】**「事前に〜いただいた」** — Cause cụ thể, có thể lặp lại được. "たぶん準備が良かった" thì không phải Cause.

@@ -37,7 +37,7 @@ Anh Ōgaki cho rằng "team Việt có năng suất tương đương Ấn Độ 
 | **トゥアン** | 「<ruby>内訳<rt>うちわけ</rt></ruby>としては、QA<ruby>工程<rt>こうてい</rt></ruby>に<ruby>約<rt>やく</rt></ruby>2週間、<ruby>結合試験<rt>けつごうしけん</rt></ruby>に<ruby>約<rt>やく</rt></ruby>1.5週間が<ruby>必要<rt>ひつよう</rt></ruby>でございました。8週間で<ruby>完遂<rt>かんすい</rt></ruby>するには、QAスコープの<ruby>調整<rt>ちょうせい</rt></ruby>、もしくは8名<ruby>体制<rt>たいせい</rt></ruby>への<ruby>増員<rt>ぞういん</rt></ruby>のいずれかをご<ruby>検討<rt>けんとう</rt></ruby>いただけますでしょうか【3】？」 <br/>*Trong đó QA mất khoảng 2 tuần, kiểm thử tích hợp khoảng 1.5 tuần ạ. Để xong trong 8 tuần, em xin anh xem xét 1 trong 2 hướng: điều chỉnh phạm vi QA, hoặc tăng người lên 8 ạ.* |
 | **大垣** | 「Phase 1の<ruby>実績<rt>じっせき</rt></ruby>ですか。それなら<ruby>根拠<rt>こんきょ</rt></ruby>がありますね。8名<ruby>体制<rt>たいせい</rt></ruby>で<ruby>再見積<rt>さいみつ</rt></ruby>もりをいただけますか？」 <br/>*Thực tế Phase 1 à. Vậy có căn cứ rồi. Phía anh cho tôi báo giá lại theo 8 người được không?* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「ご実績、参考になります」** — không bác dữ liệu Ấn Độ. Ghi nhận → giữ thể diện.
 - 【2】**「弊社の Phase 1 実績データを共有させていただきますと、〜10.5週間を要しております」** — dẫn dữ liệu nội bộ cụ thể. Con số chính xác (10.5) > "khoảng 10".
 - 【3】**「QAスコープの調整、もしくは8名体制への増員のいずれかをご検討いただけますでしょうか」** — luôn kèm 2 lựa chọn → đối phương dễ chọn.

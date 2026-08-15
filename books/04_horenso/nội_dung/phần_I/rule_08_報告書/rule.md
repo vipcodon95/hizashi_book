@@ -43,7 +43,7 @@ Sau Phase 2 hoàn thành, em Dũng cần soạn 報告書 chính thức gửi an
 | **ズン** | 「ありがとうございます。Phase 3 でも<ruby>同<rt>おな</rt></ruby>じ<ruby>テンプレート<rt>てんぷれーと</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。」 <br/>*Em cảm ơn anh. Phase 3 em sẽ dùng cùng mẫu ạ.* |
 | **トゥアン** | 「うん、<ruby>社内<rt>しゃない</rt></ruby><ruby>標準<rt>ひょうじゅん</rt></ruby>にしよう。リンに<ruby>共有<rt>きょうゆう</rt></ruby>して。」 <br/>*Ừ, mình lấy cái này làm chuẩn nội bộ. Em chia sẻ cho Linh nhé.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「〇〇 完了報告書（〇月〇日〜〇月〇日）」** — 件名 phải có loại văn bản + phạm vi thời gian. Không 「〇〇について」.
 - 【2】**概要 (tóm tắt cho lãnh đạo)** = 3-5 dòng. Cấp quản lý lướt qua là nắm. 詳細 dành cho người trực tiếp triển khai.
 - 【3】**添付一覧** = liệt kê tên + version + ngày của từng file đính kèm. Tránh lẫn version về sau.
@@ -77,7 +77,7 @@ Xem phần Mẫu câu: **完了報告書 (trang trọng)**.
 |------|------|-------|-------|
 | 報告書 | ほうこくしょ | BÁO CÁO THƯ | Báo cáo văn bản |
 | 件名 | けんめい | KIỆN DANH | Tiêu đề |
-| 宛先 | あてさき | OẠN TIÊN | Người nhận |
+| 宛先 | あてさき | UYỂN TIÊN | Người nhận |
 | 作成日 | さくせいび | TÁC THÀNH NHẬT | Ngày lập |
 | 概要 | がいよう | KHÁI YẾU | Tổng quan / tóm tắt cho lãnh đạo |
 | 詳細 | しょうさい | TƯỜNG TẾ | Chi tiết |

@@ -1,4 +1,4 @@
-# Hizashi — Báo·Liên·Thảo luận / 報・連・相
+# Hizashi — Báo·Liên·Tham vấn / 報・連・相
 
 *Hizashi Teams.*
 

@@ -27,7 +27,7 @@ Em Dũng chuẩn bị gọi anh Matsumoto báo cập nhật tiến độ project
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「<ruby>目的<rt>もくてき</rt></ruby>：4月度<ruby>進捗<rt>しんちょく</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby>。<ruby>資料<rt>しりょう</rt></ruby>：<ruby>開<rt>ひら</rt></ruby>いた。メモ：<ruby>書<rt>か</rt></ruby>いた。<ruby>環境<rt>かんきょう</rt></ruby>：OK。<ruby>発信<rt>はっしん</rt></ruby>。」 <br/>*(Tự nhủ) Mục đích: báo cáo tiến độ tháng 4. Tài liệu: mở rồi. Ghi chú: viết rồi. Môi trường: OK. Gọi.* |
-| **ズン** | 「お世話になっております。ティエンファット社、<ruby>営業部<rt>えいぎょうぶ</rt></ruby>のズンでございます。松本<ruby>様<rt>さま</rt></ruby>のお<ruby>席<rt>せき</rt></ruby>はございますでしょうか？」 <br/>*Cảm ơn anh đã hỗ trợ ạ. Em là Dũng, phòng kinh doanh, Cty Thiên Phát ạ. Anh Matsumoto có ở văn phòng không ạ?* |
+| **ズン** | 「お世話になっております。ティエンファット社、<ruby>営業部<rt>えいぎょうぶ</rt></ruby>のズンでございます。松本<ruby>様<rt>さま</rt></ruby>のお<ruby>席<rt>せき</rt></ruby>はございますでしょうか？」 <br/>*Chào anh ạ, rất mong được anh giúp đỡ. Em là Dũng, phòng kinh doanh, Cty Thiên Phát ạ. Anh Matsumoto có ở văn phòng không ạ?* |
 
 ## Câu chốt
 

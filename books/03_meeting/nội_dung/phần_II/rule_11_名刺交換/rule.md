@@ -40,7 +40,7 @@ Buổi họp đầu tiên của em Linh với 大垣営業部長. Lần đầu L
 | **リン** | 「よろしくお<ruby>願<rt>ねが</rt></ruby>いいたします【2】。」 <br/>*Em rất mong được anh giúp đỡ ạ.* |
 | **リン** | *(<ruby>席順<rt>せきじゅん</rt></ruby>どおり<ruby>配置<rt>はいち</rt></ruby><ruby>完了<rt>かんりょう</rt></ruby>【3】)* <br/>*(Đã xếp xong danh thiếp theo đúng thứ tự chỗ ngồi)* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「頂戴いたします」** (ちょうだいいたします) — câu chuẩn lúc nhận. Khiêm nhường hơn 「いただきます」. Sau câu này phải đọc tên người 1 lần để xác nhận.
 - 【2】Khi đưa danh thiếp mình: chữ phải hướng về phía khách (đọc được). Tay đặt ở mép, không che logo.
 - 【3】**「席順どおり卓上に並べる」** — danh thiếp khách đặt trên bàn cho tới hết họp, vị trí khớp với chỗ ngồi → không quên tên ai. Cuối họp mới cất.

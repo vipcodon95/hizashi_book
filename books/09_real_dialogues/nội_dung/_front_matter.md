@@ -22,7 +22,7 @@ Mỗi lượt thoại gồm câu tiếng Nhật (có furigana cho từ N4 trở 
 
 **Khách hàng 白鷗株式会社 (Hakuō):** anh Matsumoto (Tokyo), anh Ōgaki (Osaka), anh Nakamura CFO (Hokkaido), anh Tanaka PMO (Kanagawa), anh Inoue (quản lý sản phẩm).
 
-**Theo vùng:** chị Yamamoto (Osaka), anh Sato (Fukuoka), anh Itoki (Nagoya).
+**Theo vùng:** chị Yamamoto (Osaka), anh Sato (Fukuoka), anh Itō (Nagoya).
 
 **Đối thủ phía Việt Nam:** anh Hùng (Thanh Hà Software, văn phòng Tokyo) — bạn cũ của Dũng.
 

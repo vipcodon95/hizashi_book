@@ -44,7 +44,7 @@ Mùa đông tháng 12, Tokyo 5°C. Dũng + Tuấn từ khách sạn mặc áo kh
 | **田中PMO** | 「コート、こちらの ハンガーへどうぞ。」 <br/>*Áo khoác, mời các anh treo móc bên này ạ.* |
 | **ズン** | 「ありがとうございます。」 <br/>*Cảm ơn anh ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Cởi trước cửa phòng họp** — KHÔNG sau khi ngồi. Tốt nhất: cởi ngay trước cửa tòa nhà (nếu sảnh ấm) hoặc cửa phòng họp (nếu hành lang lạnh).
 - 【2】**Gấp 2 lần, tay trái** — gấp úp vào trong (mặt ngoài giấu vào trong, mặt trong lộ ra). Đặt trên cẳng tay trái (tay phải sẵn sàng cúi chào / nhận danh thiếp / mở cửa).
 - 【3】**Cầm áo khoác lúc cúi chào** — áo khoác đã ở tay trái = cúi chào / bắt tay / mở cửa = tay phải tự do. Vào phòng không lúng túng.

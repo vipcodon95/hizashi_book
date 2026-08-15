@@ -37,7 +37,7 @@ Anh Matsumoto: 「来月のリリース、ちょっと厳しいかもしれま�
 | **松本** | 「<ruby>後者<rt>こうしゃ</rt></ruby>です。スケジュールは<ruby>死守<rt>ししゅ</rt></ruby>したいので、QAリソースを1<ruby>名<rt>めい</rt></ruby><ruby>追加<rt>ついか</rt></ruby>できればと。」 <br/>*Cái sau ạ. Tôi muốn giữ lịch, nếu có thể thêm 1 QA thì tốt.* |
 | **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。<ruby>本日中<rt>ほんじつちゅう</rt></ruby>に<ruby>追加<rt>ついか</rt></ruby>リソースの<ruby>可否<rt>かひ</rt></ruby>を<ruby>社内<rt>しゃない</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>し、ご<ruby>報告<rt>ほうこく</rt></ruby>いたします。」 <br/>*Vâng em rõ ạ. Em sẽ check khả năng tăng resource trong nội bộ ngay hôm nay và báo lại anh ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「〜という意味でしょうか？」** — câu chuẩn xác nhận ý định.
 - 【2】Đưa **2 cách hiểu** (A hay B) → cấp trên dễ chọn → câu trả lời rõ.
 

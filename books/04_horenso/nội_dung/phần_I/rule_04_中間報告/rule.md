@@ -42,7 +42,7 @@ Em Dũng được giao soạn 提案書 (đề xuất) Phase 3 cho khách. Hạn
 | **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。**<ruby>次回<rt>じかい</rt></ruby><ruby>中間報告<rt>ちゅうかんほうこく</rt></ruby>は<ruby>来週<rt>らいしゅう</rt></ruby><ruby>月曜<rt>げつよう</rt></ruby>（50%<ruby>地点<rt>ちてん</rt></ruby>）**に<ruby>予定<rt>よてい</rt></ruby>いたします【3】。」 <br/>*Em hiểu ạ. Báo cáo trung gian lần sau em đặt vào thứ Hai tuần sau (mốc 50%) ạ.* |
 | **トゥアン** | 「うん、これで<ruby>安心<rt>あんしん</rt></ruby>して<ruby>任<rt>まか</rt></ruby>せられる。」 <br/>*Ừ, thế này anh yên tâm giao việc.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「中間報告です」** — đặt nhãn rõ ràng. Sếp biết đây không phải báo cáo cuối.
 - 【2】**「確認いただきたい点」「15分ほど」** — nói rõ điều cần kiểm tra + thời gian sếp dành. Không "ぼんやりレビュー" (xem qua loa).
 - 【3】**「次回中間報告は〇〇」** — đặt lịch trước cho mốc tiếp theo. Sếp ghi vào lịch.

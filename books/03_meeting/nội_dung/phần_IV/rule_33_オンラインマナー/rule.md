@@ -36,14 +36,14 @@ Họp Zoom định kỳ tháng 4. Em Linh (nhân viên mới) là một trong 8 
 
 | Vai | Câu |
 |---------|-----|
-| **松本** | 「では、進捗報告から始めます。まずズンさんお願いします。」 <br/>*Vậy mình bắt đầu từ phần báo cáo tiến độ. Đầu tiên phiền Dũng nhé.* |
+| **松本** | 「では、<ruby>進捗<rt>しんちょく</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>めます。まずズンさんお<ruby>願<rt>ねが</rt></ruby>いします。」 <br/>*Vậy mình bắt đầu từ phần báo cáo tiến độ. Đầu tiên phiền Dũng nhé.* |
 | **ズン** | 「4月の進捗ですが…」 <br/>*Về tiến độ tháng 4...* |
 | **リン** |  |
 | **松本** | 「リンさん、<ruby>何<rt>なに</rt></ruby>か<ruby>質問<rt>しつもん</rt></ruby>でしょうか？」 <br/>*Linh có câu hỏi gì à?* |
 | **リン** 【1】 | 「<ruby>失礼<rt>しつれい</rt></ruby>します。リンで<ruby>御座<rt>ござ</rt></ruby>います【2】。<ruby>先<rt>さき</rt></ruby>ほどの<ruby>数字<rt>すうじ</rt></ruby>について、<ruby>確認<rt>かくにん</rt></ruby>させていただきたい<ruby>点<rt>てん</rt></ruby>がございます。」 <br/>*Em xin phép ạ. Em là Linh ạ. Em có 1 điểm muốn xin xác nhận về số liệu vừa rồi ạ.* |
 | **リン** 【3】 |  |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Bật camera + bật mic khi phát biểu** — đối phương cần thấy mặt + nghe rõ.
 - 【2】**Tự xưng tên trước khi nói** — khi họp trực tuyến, nhiều người không nhớ giọng. Nói tên giúp ai nghe cũng biết là ai → ghi biên bản chính xác.
 - 【3】**Tắt mic lại sau khi nói xong** — tiếng ồn nền (gõ phím, gia đình, xe ngoài) sẽ làm phiền.

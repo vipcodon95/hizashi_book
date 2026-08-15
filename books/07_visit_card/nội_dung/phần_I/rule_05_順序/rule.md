@@ -45,7 +45,7 @@ Sau khi Linh + Dũng + Tuấn trao danh thiếp xong với 大垣, đến lượ
 | **ズン → トゥアン → フオン副部長** | *(theo nhịp đã sắp xếp)* <br/>*(Dũng → Tuấn → Phó phòng Hương lần lượt theo thứ tự đã thống nhất)* |
 | **フオン副部長** | 「<ruby>最後<rt>さいご</rt></ruby>になり<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。営業部 副部長のフオンでございます。」 <br/>*Xin lỗi vì để đến cuối ạ. Tôi là Hương, Phó phòng Kinh doanh.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Cấp dưới trước cấp trên bên mình** — Linh (intern) → Dũng (BD) → Tuấn (Lead) → Hương (副部長). Lý do: người càng nhẹ ký càng "thăm dò" trước, người cấp cao xuất hiện cuối = điểm nhấn.
 - 【2】**Mọi người chào người cấp cao nhất bên kia trước** — 中村 CFO cấp cao nhất → tất cả 4 người Tiên Phát trao danh thiếp với 中村 trước, rồi mới quay sang 大垣, rồi 松本.
 - 【3】**Thứ tự ma trận** — viết ra: 4 chủ × 3 khách = 12 cặp trao đổi. Người cấp dưới bên mình + người cấp cao bên kia = ưu tiên đầu. Người cấp cao bên mình + người cấp dưới bên kia = cuối.

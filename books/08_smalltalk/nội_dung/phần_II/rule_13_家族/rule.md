@@ -115,7 +115,7 @@ Dũng đã làm với Matsumoto hơn 1 năm — mối quan hệ đã thân (đi 
 | **ズン** | 「お子様の<ruby>予定<rt>よてい</rt></ruby>とかは?」 |
 |  | *[NG] Anh có kế hoạch sinh con không ạ?* |
 | **田中** | 「あ、ちょっと<ruby>電話<rt>でんわ</rt></ruby>、すみません。」 |
-|  | *À, em xin lỗi, có điện thoại.* |
+|  | *À, xin lỗi, tôi có điện thoại.* |
 
  **Sao xấu:** ① Mới gặp 2-3 lần chưa đủ thân để mở chủ đề gia đình. ② Hỏi tuổi vợ = vùng cấm. ③ Hỏi kế hoạch sinh con = đặc biệt nhạy cảm với cặp vợ chồng khó có con (tỉ lệ ở Nhật cao).
 

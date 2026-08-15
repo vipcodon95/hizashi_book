@@ -96,8 +96,8 @@ Tuần này có 3 buổi với 3 khách có thú chơi khác nhau: ① Hiroshi m
 |---------|-----|
 | **佐藤** | 「お、今日**<ruby>九州場所<rt>きゅうしゅうばしょ</rt></ruby>**【1】3日目か。**<ruby>大の里<rt>おおのさと</rt></ruby>**【2】今日は誰と<ruby>当<rt>あ</rt></ruby>たるかな。」 |
 |  | *Ồ, hôm nay là ngày 3 của Kyushu basho. Ōnosato hôm nay đấu với ai nhỉ.* |
-| **ズン** | 「先生、相撲お好きなんですね!**大の里**、**<ruby>新横綱<rt>しんよこづな</rt></ruby>**になりましたよね?」 |
-|  | *Anh thích sumo nhỉ! Ōnosato vừa lên yokozuna đúng không ạ?* |
+| **ズン** | 「先生、相撲お好きなんですね!**大の里**、<ruby>横綱<rt>よこづな</rt></ruby>になってから<ruby>強<rt>つよ</rt></ruby>いですよね?」 |
+|  | *Anh thích sumo nhỉ! Ōnosato từ khi lên yokozuna mạnh thật đúng không ạ?* |
 | **佐藤** | 「ズンさん、相撲も知っとるか!?最近の若手で<ruby>稀<rt>まれ</rt></ruby>に見る<ruby>素質<rt>そしつ</rt></ruby>。**<ruby>幕内優勝<rt>まくうちゆうしょう</rt></ruby>**何回続いてるか覚えてる?」 |
 |  | *Dũng biết cả sumo!? Tài năng hiếm có trong lứa trẻ. Đã vô địch giải mấy lần liên tiếp em nhớ không?* |
 | **ズン** | 「<ruby>先場所<rt>せんばしょ</rt></ruby>、<ruby>先々場所<rt>せんせんばしょ</rt></ruby>と<ruby>連続優勝<rt>れんぞくゆうしょう</rt></ruby>で…3場所連続だと**<ruby>全勝優勝<rt>ぜんしょうゆうしょう</rt></ruby>**【3】も?」 |
@@ -111,7 +111,7 @@ Tuần này có 3 buổi với 3 khách có thú chơi khác nhau: ① Hiroshi m
 | **ズン** | 「ちゃんこ、<ruby>力士<rt>りきし</rt></ruby>の食事ですよね。**チャンコ屋**ある通り、<ruby>両国<rt>りょうごく</rt></ruby>に。」 |
 |  | *Chanko là món của lực sĩ nhỉ. Ở Ryōgoku có cả phố quán Chanko.* |
 
-【1】 **6 場所/năm**: 1月初場所(東京)、3月大阪、5月東京、7月名古屋、9月東京、11月**九州場所**. 【2】 **大の里** = Ōnosato — yokozuna trẻ đang hot 2025-26. 【3】 **全勝優勝** = thắng cả 15 trận. 【4】 **福岡国際センター** = sân Kyushu basho. 【5】 **枡席** = ô vé 4 người ngồi sàn. 【6】 **ちゃんこ鍋** = lẩu sumo. 【7】 **断髪式** = lễ cắt mái tóc khi sumo giải nghệ.
+【1】 **6 場所/năm**: 1月初場所(東京)、3月大阪、5月東京、7月名古屋、9月東京、11月**九州場所**. 【2】 **大の里** = Ōnosato — yokozuna trẻ, lên hạng 7/2025. 【3】 **全勝優勝** = thắng cả 15 trận. 【4】 **福岡国際センター** = sân Kyushu basho. 【5】 **枡席** = ô vé 4 người ngồi sàn. 【6】 **ちゃんこ鍋** = lẩu sumo. 【7】 **断髪式** = lễ cắt mái tóc khi sumo giải nghệ.
 
 > **VN:** Từ vựng sumo: **場所 / 横綱・大関・関脇 / 幕内 / 優勝 / 千秋楽 / 土俵 / 枡席 / ちゃんこ**. Người 60 tuổi mê sumo nhưng thế hệ trẻ Nhật đang xa rời → ai biết = quý.
 
@@ -161,7 +161,7 @@ Tuần này có 3 buổi với 3 khách có thú chơi khác nhau: ① Hiroshi m
 
 ■ 相撲 (senior):
 「[今場所]、誰の調子いいですか?」
-「[大の里]、新横綱になりましたよね。」
+「[大の里]、横綱になってから強いですよね。」
 「[九州場所]、いつか枡席で観てみたいです。」
 
 ■ HOBBY MODERN (trẻ):

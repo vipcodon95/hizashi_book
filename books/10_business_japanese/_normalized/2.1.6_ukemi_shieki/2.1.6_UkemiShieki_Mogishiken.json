@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "2.1.6 Mogishiken — 受動・使役 Reading",
+    "title": "2.1.6 Mogishiken — 受動・使役 Đọc Hiểu",
     "title_vn": "2.1.6 Mô Phỏng Đề Thi BJT Đọc Hiểu: 受動形・使役形・使役受動形",
     "type": "mogishiken_dokkai",
     "description_vn": "Mô phỏng đề thi BJT phần đọc hiểu — chủ đề 受動・使役・使役受動形. 5 section với 5 loại văn bản thực tế khác nhau, 20 câu hỏi format BJT.",
     "total_sections": 5,
     "total_questions": 20,
-    "format_note": "Format Part 3②③ BJT — 5 loại văn bản: 社内通知、業績報告書、業務指示メール、会議議事録、業界誌記事"
+    "format_note": "Format Phần 3②③ BJT — 5 loại văn bản: 社内通知、業績報告書、業務指示メール、会議議事録、業界誌記事"
   },
   "sections": [
     {
@@ -15,9 +15,9 @@
       "level_name": "初級 / Cơ bản",
       "document_type": "社内通知",
       "situation_vn": "Công ty thông báo về việc thay đổi lịch họp. Sử dụng thể bị động để tránh chỉ đích danh người chịu trách nhiệm.",
-      "passage_ja": "各部門の皆様へ\n\nいつもお疲れ様です。本日、重要なお知らせがございます。\n\n来月6月15日（金）に予定されていた全社会議が、システムの保守作業のため、6月22日（金）に変更されます。新しい日時と場所について、別紙の資料をご覧ください。\n\nこのご不便をおかけして申し訳ございません。何かご質問がございましたら、お気軽にお問い合わせください。\n\n総務部一同",
-      "word_count": null,
-      "difficulty_note": null,
+      "passage_ja": "各部門の皆様へ\n\nいつもお疲れ様です。本日、重要なお知らせがございます。\n\n来月6月15日（金）に予定されていた全社会議が、システムの保守作業のため、6月22日（金）に変更されます。新しい日時と場所について、別紙の資料をご覧ください。\n\nご不便をおかけし、申し訳ございません。何かご質問がございましたら、お気軽にお問い合わせください。\n\n総務部一同",
+      "word_count": 166,
+      "difficulty_note": "Thông báo nội bộ ngắn. Bị động cơ bản: 予定されていた (trạng thái quá khứ), 変更されます (bị động chỉ sự việc, tránh nêu đích danh người quyết định). Từ vựng thông dụng.",
       "questions": [
         {
           "id": "1-1",
@@ -29,12 +29,12 @@
           "choices": [
             {
               "key": "A",
-              "jp": "全社会議の新しい議題を発表するため",
+              "jp": "全社会議の日程が変更されたことを通知するため",
               "vn": null
             },
             {
               "key": "B",
-              "jp": "全社会議の日程が変更されたことを通知するため",
+              "jp": "全社会議の新しい議題を発表するため",
               "vn": null
             },
             {
@@ -48,7 +48,7 @@
               "vn": null
             }
           ],
-          "answer": "B",
+          "answer": "A",
           "explanation": "Văn bản thông báo rằng cuộc họp dự kiến ban đầu (6月15日) bị thay đổi sang 6月22日 do bảo trì hệ thống. Mục đích chính là thông báo sự thay đổi này."
         },
         {
@@ -57,16 +57,16 @@
           "level_name": null,
           "category": "",
           "question_jp": "「予定されていた全社会議が...変更されます」という表現から、どのようなことが分かりますか。",
-          "question_vn": "Từ biểu thức 'được dự kiến để diễn ra' ở thể bị động, ta có thể suy ra điều gì?",
+          "question_vn": "Từ cách nói 'được dự kiến để diễn ra' ở thể bị động, ta có thể suy ra điều gì?",
           "choices": [
             {
               "key": "A",
-              "jp": "予定の変更は会社の重要な決定である",
+              "jp": "会議の予定は以前から決まっていた",
               "vn": null
             },
             {
               "key": "B",
-              "jp": "会議の予定は以前から決まっていた",
+              "jp": "予定の変更は会社の重要な決定である",
               "vn": null
             },
             {
@@ -80,8 +80,8 @@
               "vn": null
             }
           ],
-          "answer": "B",
-          "explanation": "Thể bị động 'られていた' chỉ ra rằng việc họp đã được lên kế hoạch trước đó. Động từ bị động ở quá khứ tiếp diễn cho thấy trạng thái đã được thiết lập sẵn."
+          "answer": "A",
+          "explanation": "Thể bị động 「予定されていた」 cho thấy cuộc họp đã được lên kế hoạch từ trước. 「〜されていた」 là thể trạng thái quá khứ (thể ている ở quá khứ — trạng thái được duy trì tại một thời điểm trong quá khứ), cho thấy lịch họp đã ở trạng thái được ấn định sẵn."
         },
         {
           "id": "1-3",
@@ -103,16 +103,16 @@
             },
             {
               "key": "C",
-              "jp": "システムの保守作業があるため",
+              "jp": "新しい議題が追加されたため",
               "vn": null
             },
             {
               "key": "D",
-              "jp": "新しい議題が追加されたため",
+              "jp": "システムの保守作業があるため",
               "vn": null
             }
           ],
-          "answer": "C",
+          "answer": "D",
           "explanation": "Văn bản rõ ràng nêu 'システムの保守作業のため' (do bảo trì hệ thống) là lý do thay đổi ngày họp."
         },
         {
@@ -120,8 +120,8 @@
           "level": null,
           "level_name": null,
           "category": "",
-          "question_jp": "下線部「このご不便をおかけして申し訳ございません」という表現は、どのような意図で使われていますか。",
-          "question_vn": "Biểu thức này được sử dụng với ý định gì?",
+          "question_jp": "下線部「ご不便をおかけし、申し訳ございません」という表現は、どのような意図で使われていますか。",
+          "question_vn": "Cách nói này được sử dụng với ý định gì?",
           "choices": [
             {
               "key": "A",
@@ -156,8 +156,8 @@
       "document_type": "業績報告書",
       "situation_vn": "Báo cáo về kết quả khảo sát từ quản lý. Sử dụng によって để chỉ tác nhân trang trọng trong thể bị động, mix với các cấu trúc trang trọng.",
       "passage_ja": "◆2026年度 顧客満足度調査 結果報告\n\n本年度、弊社によって約2,000名の顧客を対象とした満足度調査が実施されました。調査期間は2月から3月にかけて行われ、約65%の回答率が得られました。\n\n調査結果によると、製品の品質については高い評価が得られましたが、配送サービスについては改善すべき点が指摘されています。特に、配送時間の短縮がお客様からの強い要望として挙げられました。\n\n今後、これらのご指摘を踏まえて、サービス向上に向けた対策が取られる予定です。",
-      "word_count": null,
-      "difficulty_note": null,
+      "word_count": 222,
+      "difficulty_note": "Báo cáo kết quả khảo sát. Bị động trang trọng có tác nhân 「弊社によって〜実施されました」, cùng chuỗi bị động không tác nhân (得られました, 指摘されています, 挙げられました, 取られる予定). Điểm học: によって chỉ tác nhân trong câu bị động.",
       "questions": [
         {
           "id": "2-1",
@@ -206,7 +206,7 @@
             },
             {
               "key": "B",
-              "jp": "調査を行った主体（実行者）",
+              "jp": "調査の方法や形式",
               "vn": null
             },
             {
@@ -216,11 +216,11 @@
             },
             {
               "key": "D",
-              "jp": "調査の方法や形式",
+              "jp": "調査を行った主体（実行者）",
               "vn": null
             }
           ],
-          "answer": "B",
+          "answer": "D",
           "explanation": "によって sau 'nhân vật / tổ chức' trong câu bị động chỉ tác nhân / người thực hiện hành động. Ở đây, 弊社 (công ty chúng tôi) là tác nhân thực hiện khảo sát."
         },
         {
@@ -294,10 +294,10 @@
       "level": 3,
       "level_name": "中級上級 / Trung cao",
       "document_type": "業務指示メール",
-      "situation_vn": "Email từ quản lý giao nhiệm vụ cho nhân viên. Sử dụng 使役形 (させます) để giao việc và させていただく để xin phép một cách lịch sự.",
-      "passage_ja": "件名：来月のプロジェクトについてのお願い\n\nお疲れ様です。田中です。\n\n来月、新しいマーケティングプロジェクトが開始されます。つきましては、営業チーム全体に、このプロジェクトの準備を進めていただきたいと思っています。\n\n具体的には、以下の業務を各自で担当していただきます。\n・既存顧客へのヒアリング調査（山田さんに担当させていただきます）\n・競合他社の商品分析（鈴木さんに担当させていただきます）\n・ターゲット層の市場調査（全員で協力していただきたいです）\n\n第一回目の進捗報告は5月10日までにお願いします。何かご質問やご不明な点がございましたら、お気軽にお声がけください。\n\nよろしくお願いいたします。\n田中",
-      "word_count": null,
-      "difficulty_note": null,
+      "situation_vn": "Email từ quản lý giao nhiệm vụ cho nhân viên. Điểm học: phân biệt 〜ていただく (nhờ cấp dưới/đồng nghiệp làm, lịch sự) với 使役形 〜させる (cho/để người dưới quyền làm — dùng khi nói về nhân viên mới trong nội bộ). Chú ý KHÔNG dùng 〜させていただく khi giao việc cho người khác.",
+      "passage_ja": "件名：来月のプロジェクトについてのお願い\n\nお疲れ様です。田中です。\n\n来月、新しいマーケティングプロジェクトが開始されます。つきましては、営業チーム全体に、このプロジェクトの準備を進めていただきたいと思っています。\n\n具体的には、以下の業務を各自で担当していただきます。\n・既存顧客へのヒアリング調査（山田さんに担当していただきます）\n・競合他社の商品分析（鈴木さんに担当していただきます）\n・ターゲット層の市場調査（全員で協力していただきたいです）\n\nなお、今回のプロジェクトは新人育成も兼ねております。山田さんには新人の佐藤さんに同行させ、ヒアリングの進め方を学ばせます。鈴木さんの分析作業についても、佐藤さんに一部を手伝わせる予定です。\n\n第一回目の進捗報告は5月10日までにお願いします。何かご質問やご不明な点がございましたら、お気軽にお声がけください。\n\nよろしくお願いいたします。\n田中",
+      "word_count": 384,
+      "difficulty_note": "Email giao việc. Trọng tâm là PHÂN BIỆT hai chiều: 〜ていただく (nhờ người khác làm, mình nhận ơn — dùng với đồng nghiệp/cấp dưới có nể trọng) và 使役形 〜させる (bố trí cho người dưới quyền làm — dùng với nhân viên mới trong nội bộ). Bẫy: KHÔNG dùng 〜させていただく khi giao việc cho người khác.",
       "questions": [
         {
           "id": "3-1",
@@ -309,7 +309,7 @@
           "choices": [
             {
               "key": "A",
-              "jp": "新しいマーケティングプロジェクトについて通知し、チームメンバーに準備を進めるよう依頼するため",
+              "jp": "ターゲット層を決定するための会議を開催するため",
               "vn": null
             },
             {
@@ -324,11 +324,11 @@
             },
             {
               "key": "D",
-              "jp": "ターゲット層を決定するための会議を開催するため",
+              "jp": "新しいマーケティングプロジェクトについて通知し、チームメンバーに準備を進めるよう依頼するため",
               "vn": null
             }
           ],
-          "answer": "A",
+          "answer": "D",
           "explanation": "Email thông báo về dự án mới và yêu cầu đội ngũ chuẩn bị cho nó. Chủ đích chính là giao nhiệm vụ và yêu cầu chuẩn bị."
         },
         {
@@ -337,16 +337,16 @@
           "level_name": null,
           "category": "",
           "question_jp": "「営業チーム全体に、このプロジェクトの準備を進めていただきたい」という表現について、どのようなニュアンスが含まれていますか。",
-          "question_vn": "Biểu thức 'していただきたい' trong câu này có sắc thái gì?",
+          "question_vn": "Cách nói 'していただきたい' trong câu này có sắc thái gì?",
           "choices": [
             {
               "key": "A",
-              "jp": "命令的で強制的な指示",
+              "jp": "お願いやリクエストで、相手の意思を尊重したもの",
               "vn": null
             },
             {
               "key": "B",
-              "jp": "お願いやリクエストで、相手の意思を尊重したもの",
+              "jp": "命令的で強制的な指示",
               "vn": null
             },
             {
@@ -360,7 +360,7 @@
               "vn": null
             }
           ],
-          "answer": "B",
+          "answer": "A",
           "explanation": "していただきたい là dạng lịch sự của 'xin vui lòng' (yêu cầu lịch sự). Nó thể hiện tôn trọng ý muốn của người khác, không mang tính mệnh lệnh cứng nhắc."
         },
         {
@@ -368,8 +368,8 @@
           "level": null,
           "level_name": null,
           "category": "",
-          "question_jp": "「山田さんに担当させていただきます」という表現は何を示していますか。",
-          "question_vn": "Biểu thức này chỉ điều gì?",
+          "question_jp": "「山田さんに担当していただきます」という表現は何を示していますか。",
+          "question_vn": "Cách nói '担当していただきます' chỉ điều gì?",
           "choices": [
             {
               "key": "A",
@@ -383,49 +383,49 @@
             },
             {
               "key": "C",
-              "jp": "田中が敬意を持ちながら、山田さんに仕事を担当させることをお願いするということ",
+              "jp": "山田さんが田中に協力することを拒否するということ",
               "vn": null
             },
             {
               "key": "D",
-              "jp": "山田さんが田中に協力することを拒否するということ",
+              "jp": "田中が敬意を持って、山田さんに仕事を担当してもらう（依頼する）ということ",
               "vn": null
             }
           ],
-          "answer": "C",
-          "explanation": "させていただく là dạng tôn trọng của させる, kết hợp sự xin phép lịch sự. Nó cho thấy người nói (quản lý) tôn trọng người khác trong khi giao nhiệm vụ."
+          "answer": "D",
+          "explanation": "'〜ていただく' là khiêm nhường ngữ của '〜てもらう' — người nói (田中) nhận được việc 山田 đảm nhận công việc, một cách lịch sự. Đây là cách giao/nhờ việc đúng mực. (Lưu ý: KHÔNG dùng '担当させていただきます' ở đây, vì 'させていただく' là form người nói XIN PHÉP cấp trên để tự mình làm — không hợp khi sếp nhờ cấp dưới đảm nhận.)"
         },
         {
           "id": "3-4",
           "level": null,
           "level_name": null,
           "category": "",
-          "question_jp": "以下の業務のうち、全員で協力することが求められているのはどれですか。",
-          "question_vn": "Trong các công việc sau, việc nào yêu cầu tất cả mọi người hợp tác?",
+          "question_jp": "「山田さんには新人の佐藤さんに同行させ、ヒアリングの進め方を学ばせます」という文の「させ」「学ばせます」は、どのような働きをしていますか。",
+          "question_vn": "Trong câu \"山田さんには新人の佐藤さんに同行させ、ヒアリングの進め方を学ばせます\", \"させ\" và \"学ばせます\" có chức năng gì?",
           "choices": [
             {
               "key": "A",
-              "jp": "既存顧客へのヒアリング調査",
+              "jp": "受動形で、佐藤さんが誰かに同行させられて迷惑している状況を表す",
               "vn": null
             },
             {
               "key": "B",
-              "jp": "競合他社の商品分析",
+              "jp": "使役形で、田中が佐藤さんに同行・学習をさせる（部下に行わせる）ことを表す",
               "vn": null
             },
             {
               "key": "C",
-              "jp": "ターゲット層の市場調査",
+              "jp": "尊敬語で、佐藤さんへの敬意を表している",
               "vn": null
             },
             {
               "key": "D",
-              "jp": "プロジェクトの準備計画",
+              "jp": "謙譲語で、田中が自分の行動をへりくだって述べている",
               "vn": null
             }
           ],
-          "answer": "C",
-          "explanation": "Văn bản ghi '全員で協力していただきたいです' (mong muốn mọi người hợp tác) cho công việc này. Hai công việc khác được giao cho người cụ thể."
+          "answer": "B",
+          "explanation": "「同行させる」「学ばせる」là 使役形 (thể sai khiến): người nói (田中) cho/để cấp dưới (佐藤さん) thực hiện hành động. Trong nội bộ công ty, cấp trên nói về việc bố trí công việc cho nhân viên mới thì dùng 使役形 là tự nhiên.\nPHÂN BIỆT VỚI CÁC CÂU TRÊN: 「担当していただきます」(〜ていただく) là NHỜ đồng nghiệp/cấp dưới làm một cách lịch sự — người nói NHẬN ơn. Còn 「学ばせます」(〜させる) là CHO người dưới quyền làm — người nói là bên bố trí. (A) sai vì 使役受動 phải là 「同行させられる」; (C)(D) sai vì đây không phải kính ngữ."
         }
       ]
     },
@@ -435,9 +435,9 @@
       "level_name": "上級 / Cao cấp",
       "document_type": "会議議事録",
       "situation_vn": "Biên bản họp từ cuộc họp quyết định về dự án khẩn cấp. Sử dụng mix bị động trang trọng (られた、が取られた), させていただく (xin phép), và させられる (bị buộc, không tự nguyện).",
-      "passage_ja": "◇2026年5月 戦略会議 議事録\n【日時】2026年5月8日（木）14:00～15:30\n【参加者】代表取締役佐藤、営業部長田中、企画部長鈴木、他部門代表\n\n【報告事項】新規事業プロジェクトの進捗状況について、予期しない市場変化により3週間の遅延が生じたことが報告された。対応策として、複数の施策が講じられることが決定された。\n\nまず、企画部と営業部の責任者には、今月中に専任チーム体制を編成させていただくことを予定している。ただし、他部門のスタッフについては、やむを得ない事情により、当プロジェクトへの参加を余儀なくされることになった。参加を強制されることになるスタッフには、事前にしっかりと説明がなされる予定である。\n\n【決議】全社員による協力体制の構築が承認された。次回会議は5月22日に開催されることが予定されている。",
-      "word_count": null,
-      "difficulty_note": null,
+      "passage_ja": "◇2026年5月 戦略会議 議事録\n【日時】2026年5月8日（木）14:00～15:30\n【参加者】代表取締役佐藤、営業部長田中、企画部長鈴木、他部門代表\n\n【報告事項】新規事業プロジェクトの進捗状況について、予期しない市場変化により3週間の遅延が生じたことが報告された。対応策として、複数の施策が講じられることが決定された。\n\nまず、企画部と営業部の責任者に、今月中に専任チーム体制を編成させることとした。ただし、他部門のスタッフについては、やむを得ない事情により、当プロジェクトへの参加を余儀なくされることになった。参加を強制されることになるスタッフには、事前にしっかりと説明がなされる予定である。\n\n【決議】全社員による協力体制の構築が承認された。次回会議は5月22日に開催されることが予定されている。",
+      "word_count": 345,
+      "difficulty_note": "Biên bản họp cao cấp. Trộn ba loại: bị động trang trọng (報告された, 講じられる, 決定された, なされる), 〜ていただく (nhờ làm), và 余儀なくされる / 強制される (bị buộc, sắc thái bất đắc dĩ). Điểm học: nhận ra sắc thái tiêu cực của 使役受動 và các cụm cùng nghĩa.",
       "questions": [
         {
           "id": "4-1",
@@ -454,12 +454,12 @@
             },
             {
               "key": "B",
-              "jp": "プロジェクトの進捗遅延と市場の変化",
+              "jp": "企画部と営業部の対立",
               "vn": null
             },
             {
               "key": "C",
-              "jp": "企画部と営業部の対立",
+              "jp": "プロジェクトの進捗遅延と市場の変化",
               "vn": null
             },
             {
@@ -468,7 +468,7 @@
               "vn": null
             }
           ],
-          "answer": "B",
+          "answer": "C",
           "explanation": "Biên bản rõ ràng nêu rằng do sự thay đổi không lường trước trên thị trường, dự án bị chậm 3 tuần (新規事業プロジェクトの進捗状況...3週間の遅延が生じた)."
         },
         {
@@ -481,7 +481,7 @@
           "choices": [
             {
               "key": "A",
-              "jp": "誰が施策を決めたかを明確に示すため",
+              "jp": "誰によるものかを曖昧にし、客観的かつ公式的な表現にするため",
               "vn": null
             },
             {
@@ -491,7 +491,7 @@
             },
             {
               "key": "C",
-              "jp": "誰によるものかを曖昧にし、客観的かつ公式的な表現にするため",
+              "jp": "誰が施策を決めたかを明確に示すため",
               "vn": null
             },
             {
@@ -500,7 +500,7 @@
               "vn": null
             }
           ],
-          "answer": "C",
+          "answer": "A",
           "explanation": "Dạng bị động 'được thực hiện' (講じられる) trong ngữ cảnh chính thức như biên bản họp được sử dụng để tạo vẻ khách quan, công thức hành chính, và tránh chỉ đích danh người quyết định."
         },
         {
@@ -508,32 +508,32 @@
           "level": null,
           "level_name": null,
           "category": "",
-          "question_jp": "「企画部と営業部の責任者には...専任チーム体制を編成させていただくことを予定している」という表現で、「させていただく」が使われている理由として、正しいものは。",
-          "question_vn": "Tại sao 'させていただく' (xin phép) được sử dụng trong câu này?",
+          "question_jp": "「企画部と営業部の責任者に、今月中に専任チーム体制を編成させることとした」という文で、「編成させる」が使われている理由として、正しいものは。",
+          "question_vn": "Trong câu \"…責任者に、今月中に専任チーム体制を編成させることとした\", tại sao dùng \"編成させる\"?",
           "choices": [
             {
               "key": "A",
-              "jp": "責任者に対する敬意を示しつつ、チーム編成の実施を表現するため",
+              "jp": "尊敬語で、責任者への敬意を最大限に示すため",
               "vn": null
             },
             {
               "key": "B",
-              "jp": "責任者が拒否する可能性があることを示唆するため",
+              "jp": "受動形で、責任者が誰かにチームを編成されて困っていることを表すため",
               "vn": null
             },
             {
               "key": "C",
-              "jp": "チーム編成が義務ではなく、自主的な提案であることを示すため",
+              "jp": "謙譲語で、経営層が自分の行動をへりくだって述べるため",
               "vn": null
             },
             {
               "key": "D",
-              "jp": "企画部と営業部が全く協力できないことを示すため",
+              "jp": "使役形で、経営層が責任者に対してチーム編成を行わせる（指示する）ことを表すため",
               "vn": null
             }
           ],
-          "answer": "A",
-          "explanation": "させていただく là cách lịch sự để diễn đạt một hành động mà người nói (ban lãnh đạo) sẽ thực hiện với sự tôn trọng đối với người khác (trưởng phòng). Nó kết hợp xin phép và tôn trọng."
+          "answer": "D",
+          "explanation": "「責任者に…編成させる」là 使役形: chủ thể ra lệnh là ban lãnh đạo (chủ ngữ ẩn), người thực hiện là 責任者 — trợ từ 「に」 đánh dấu người ĐƯỢC/BỊ sai khiến. Đây là cách viết chuẩn trong biên bản họp khi ghi lại quyết định phân công.\nLƯU Ý (bẫy hay gặp): KHÔNG viết 「責任者には…編成させていただく」 vì 「させていただく」 nghĩa là NGƯỜI NÓI xin phép để CHÍNH MÌNH làm — khi đó câu vừa nói người nói tự編成, vừa có 「責任者には」 chỉ người khác, thành mơ hồ chủ thể. (B) sai vì bị động phải là 編成される; (C)(A) sai vì 使役形 không phải kính ngữ."
         },
         {
           "id": "4-4",
@@ -550,12 +550,12 @@
             },
             {
               "key": "B",
-              "jp": "スタッフが参加を余儀なくされる状況と、それに対する会社からの丁寧な説明の提供",
+              "jp": "強制と自発性の完全な矛盾",
               "vn": null
             },
             {
               "key": "C",
-              "jp": "強制と自発性の完全な矛盾",
+              "jp": "スタッフが参加を余儀なくされる状況と、それに対する会社からの丁寧な説明の提供",
               "vn": null
             },
             {
@@ -564,7 +564,7 @@
               "vn": null
             }
           ],
-          "answer": "B",
+          "answer": "C",
           "explanation": "Hai câu này tạo nên một sự cân bằng: mặc dù nhân viên bị buộc tham gia (余儀なくされ / 強制される), công ty sẽ cung cấp giải thích cẩn thận trước (しっかりと説明がなされる). Điều này thể hiện tôn trọng đối với nhân viên mặc dù tình huống bắt buộc."
         }
       ]
@@ -574,10 +574,10 @@
       "level": 5,
       "level_name": "最上級 / Tối cao",
       "document_type": "業界誌・社内報の記事",
-      "situation_vn": "Bài báo từ tạp chí ngành về xu hướng chuyển đổi số trong các doanh nghiệp Nhật Bản. Sử dụng bị động trang trọng phức tạp (によって、を通じて、に基づいて) và phân tích sắc thái ngôn ngữ chuyên sâu.",
-      "passage_ja": "◆デジタル時代における企業競争力の再構築\n\n近年、急速な技術革新によってビジネス環境が劇的に変化している。多くの企業が、クラウドコンピューティングやAI導入を通じて、経営効率化を図られている一方で、一部の企業では、時代の流れに適応させられることができず、市場競争から取り残されるという悪循環に陥っている。\n\nこのような背景を踏まえ、業界全体にわたって、デジタル変革推進の重要性が広く認識されるようになった。特に、従来型のビジネスモデルに基づいて構築されてきた組織体系は、新たな競争環境に対応させられることを強いられている。経営層による戦略的投資決定により、多くの企業においては、組織再編と人材育成制度の見直しが実施されるに至っている。\n\n今後、適切な対応を講じることができた企業のみが、成長を遂行させられ、グローバル市場での競争力を維持することが見込まれている。",
-      "word_count": null,
-      "difficulty_note": null,
+      "situation_vn": "Bài báo từ tạp chí ngành về xu hướng chuyển đổi số trong các doanh nghiệp Nhật Bản. Dùng bị động trang trọng phức tạp (によって、を通じて、に基づいて、強いられている、実施されるに至っている) và phân tích sắc thái ngôn ngữ chuyên sâu.",
+      "passage_ja": "◆デジタル時代における企業競争力の再構築\n\n近年、急速な技術革新によってビジネス環境が劇的に変化している。多くの企業が、クラウドコンピューティングやAI導入を通じて、経営効率化を図っている一方で、一部の企業では、時代の流れに適応できず、市場競争から取り残されるという悪循環に陥っている。\n\nこのような背景を踏まえ、業界全体にわたって、デジタル変革推進の重要性が広く認識されるようになった。特に、従来型のビジネスモデルに基づいて構築されてきた組織体系は、新たな競争環境への対応を強いられている。経営層による戦略的投資決定により、多くの企業においては、組織再編と人材育成制度の見直しが実施されるに至っている。\n\n今後、適切な対応を講じることができた企業のみが、激しい市場競争の中で成長を遂げ、グローバル市場での競争力を維持することが見込まれている。",
+      "word_count": 366,
+      "difficulty_note": "Bài báo tạp chí ngành, câu dài nhiều tầng. Bị động trang trọng kết hợp によって / を通じて / に基づいて / により, cùng 強いられている (bị ép) và 実施されるに至っている (bị động + に至る). Điểm học: phân biệt bị động thường với 使役受動形 và đọc sắc thái tự nguyện / bị ép trong văn viết.",
       "questions": [
         {
           "id": "5-1",
@@ -594,12 +594,12 @@
             },
             {
               "key": "B",
-              "jp": "デジタル時代における企業競争力の維持と再構築の必要性",
+              "jp": "クラウドコンピューティング技術の詳細な説明",
               "vn": null
             },
             {
               "key": "C",
-              "jp": "クラウドコンピューティング技術の詳細な説明",
+              "jp": "デジタル時代における企業競争力の維持と再構築の必要性",
               "vn": null
             },
             {
@@ -608,7 +608,7 @@
               "vn": null
             }
           ],
-          "answer": "B",
+          "answer": "C",
           "explanation": "Bài báo lập luận rằng do sự thay đổi nhanh chóng của môi trường kinh doanh, các doanh nghiệp cần tái cấu trúc khả năng cạnh tranh của mình qua chuyển đổi số."
         },
         {
@@ -616,17 +616,17 @@
           "level": null,
           "level_name": null,
           "category": "",
-          "question_jp": "「クラウドコンピューティングやAI導入を通じて、経営効率化が図られている」という文で、「によって」ではなく「を通じて」が使われている理由として、最も適切なものは。",
-          "question_vn": "Tại sao 'を通じて' được dùng thay vì 'によって'?",
+          "question_jp": "「クラウドコンピューティングやAI導入を通じて、経営効率化を図っている」という文で、「によって」ではなく「を通じて」が使われている理由として、最も適切なものは。",
+          "question_vn": "Trong câu \"クラウドコンピューティングやAI導入を通じて、経営効率化を図っている\", tại sao dùng \"を通じて\" thay vì \"によって\"?",
           "choices": [
             {
               "key": "A",
-              "jp": "「によって」より「を通じて」の方が敬意が高いため",
+              "jp": "「を通じて」は手段や方法を強調し、プロセスの重要性を示すため",
               "vn": null
             },
             {
               "key": "B",
-              "jp": "「を通じて」は手段や方法を強調し、プロセスの重要性を示すため",
+              "jp": "「によって」より「を通じて」の方が敬意が高いため",
               "vn": null
             },
             {
@@ -640,7 +640,7 @@
               "vn": null
             }
           ],
-          "answer": "B",
+          "answer": "A",
           "explanation": "を通じて nhấn mạnh phương tiện / quá trình thực hiện, còn によって chỉ tác nhân trực tiếp. Ở đây, tác giả muốn nhấn mạnh rằng việc chuyển đổi số là một quá trình (を通じて) để đạt hiệu quả kinh doanh."
         },
         {
@@ -648,8 +648,8 @@
           "level": null,
           "level_name": null,
           "category": "",
-          "question_jp": "「従来型のビジネスモデルに基づいて構築されてきた組織体系は、新たな競争環境に対応させられることを強いられている」という複文の表現から、どのような実情が伝わってきますか。",
-          "question_vn": "Cấu trúc phức tạp này truyền đạt điều gì?",
+          "question_jp": "「従来型のビジネスモデルに基づいて構築されてきた組織体系は、新たな競争環境への対応を強いられている」という表現から、どのような実情が伝わってきますか。",
+          "question_vn": "Cấu trúc 'đối ứng bị ép buộc (対応を強いられている)' truyền đạt điều gì?",
           "choices": [
             {
               "key": "A",
@@ -658,12 +658,12 @@
             },
             {
               "key": "B",
-              "jp": "組織が旧モデルに基づいているため、新環境への対応を強制されている状況",
+              "jp": "新しい競争環境が形成されていない",
               "vn": null
             },
             {
               "key": "C",
-              "jp": "新しい競争環境が形成されていない",
+              "jp": "組織が旧モデルに基づいているため、新環境への対応を強制されている状況",
               "vn": null
             },
             {
@@ -672,40 +672,40 @@
               "vn": null
             }
           ],
-          "answer": "B",
-          "explanation": "Cấu trúc 'させられることを強いられている' (bị buộc phải được bắt buộc / bị ép phải thích nghi) chỉ ra rằng các tổ chức không tự nguyện mà bị buộc phải thích nghi với môi trường cạnh tranh mới do những hoàn cảnh bên ngoài."
+          "answer": "C",
+          "explanation": "Cấu trúc '対応を強いられている' (bị buộc phải đối ứng) dùng dạng bị động của '強いる' (ép buộc), cho thấy các tổ chức KHÔNG tự nguyện mà bị hoàn cảnh bên ngoài (môi trường cạnh tranh mới) buộc phải thích nghi. → (C) đúng; (A) trái nghĩa vì câu mang sắc thái bị động/bất đắc dĩ."
         },
         {
           "id": "5-4",
           "level": null,
           "level_name": null,
           "category": "",
-          "question_jp": "「適切な対応を講じることができた企業のみが、成長を遂行させられ、グローバル市場での競争力を維持することが見込まれている」という文で、「させられ」が使われている理由として、最も適切な解釈は。",
-          "question_vn": "Tại sao 'させられ' được sử dụng trong ngữ cảnh này?",
+          "question_jp": "「経営層による戦略的投資決定により、多くの企業においては、組織再編と人材育成制度の見直しが実施されるに至っている」という文について、最も適切な説明はどれですか。",
+          "question_vn": "Về câu \"経営層による戦略的投資決定により、…見直しが実施されるに至っている\", giải thích nào phù hợp nhất?",
           "choices": [
             {
               "key": "A",
-              "jp": "成長が企業の強制的な義務であることを示すため",
+              "jp": "「実施される」は使役受動形で、企業が外部から強制されて嫌々行ったことを表す",
               "vn": null
             },
             {
               "key": "B",
-              "jp": "企業が市場競争により成長を余儀なくされる（市場力の圧力）を示唆するため",
+              "jp": "「経営層による」は受動文の動作主を示し、「実施される」は組織再編等が行われたという結果を客観的に述べている",
               "vn": null
             },
             {
               "key": "C",
-              "jp": "成長が失敗する可能性が高いことを示すため",
+              "jp": "「に至っている」は計画がまだ始まっていないことを示す",
               "vn": null
             },
             {
               "key": "D",
-              "jp": "企業の成長努力が完全に無駄であることを示すため",
+              "jp": "「により」は理由ではなく、実施の場所を示している",
               "vn": null
             }
           ],
           "answer": "B",
-          "explanation": "在此文脈中，「させられ」暗示了企業被市场力所迫而不得不實現成長——這是一種必然性而非自願選擇。這反映出市場競爭環境強制企業必須增長才能生存，而不是企業主動追求成長。Ở đây, させられ chỉ ra rằng sự tăng trưởng là do áp lực thị trường (không phải tự nguyện), thể hiện tính bắt buộc của môi trường cạnh tranh."
+          "explanation": "「経営層による戦略的投資決定」của cụm này: 「による」 chỉ tác nhân/nguồn gốc của quyết định đầu tư chiến lược. 「実施されるに至っている」 = thể bị động 実施される + 「〜に至る」 (đi đến mức, cuối cùng đã tới trạng thái) → diễn đạt khách quan rằng việc tái cơ cấu tổ chức và rà soát chế độ đào tạo ĐÃ được tiến hành, mà không chỉ đích danh ai làm — văn phong đặc trưng của bài báo ngành.\n(A) sai: 実施される là bị động thường (受動形), KHÔNG phải 使役受動形 (dạng đó phải là 実施させられる). (C) sai vì 「に至っている」 nghĩa là đã đi tới trạng thái đó rồi, không phải chưa bắt đầu. (D) sai vì 「により」 ở đây chỉ nguyên nhân/tác nhân, không chỉ địa điểm."
         }
       ]
     }

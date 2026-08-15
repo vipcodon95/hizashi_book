@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "2.1.6 Ukemi/Shieki Deep Dive",
+    "title": "2.1.6 Ukemi/Shieki Chuyên Sâu",
     "title_vn": "2.1.6 Bài Tập Chuyên Sâu: 受動形・使役形・使役受動形",
     "total_questions": 40,
     "levels": {
@@ -23,681 +23,1321 @@
     {
       "id": 1,
       "level": 1,
-      "category": "受動形基礎・助詞",
-      "category_vn": "Cơ bản — Bị động & trợ từ tác nhân に",
-      "question_ja": "「子どもが犬（　）噛まれた。」空欄に入る助詞はどれですか？",
+      "level_name": "Cơ bản",
+      "category": "Cơ bản — Bị động & trợ từ tác nhân に",
+      "question_jp": "「子どもが犬（　）噛まれた。」空欄に入る助詞はどれですか？",
       "question_vn": "\"Đứa trẻ bị chó cắn.\" Điền trợ từ đúng vào chỗ trống.",
-      "choices": {
-        "A": "が",
-        "B": "に",
-        "C": "を",
-        "D": "で"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "が",
+          "vn": "が"
+        },
+        {
+          "key": "B",
+          "jp": "に",
+          "vn": "に"
+        },
+        {
+          "key": "C",
+          "jp": "を",
+          "vn": "を"
+        },
+        {
+          "key": "D",
+          "jp": "で",
+          "vn": "で"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "Bị động (受動形) — tác nhân là NGƯỜI/ĐỘNG VẬT gây ra hành động → dùng trợ từ 【に】. Cấu trúc: [người bị hại]が + [tác nhân]に + [động từ bị động]. Ví dụ: 子どもが犬に噛まれた (đứa trẻ bị chó cắn). が = chủ thể câu bị động. に = tác nhân có chủ ý (người/vật có thể điều khiển). を = tân ngữ trực tiếp trong câu chủ động. で = phương tiện/địa điểm.",
+      "explanation": "Bị động (受動形) — tác nhân là NGƯỜI/ĐỘNG VẬT gây ra hành động → dùng trợ từ 【に】. Cấu trúc: [người bị hại]が + [tác nhân]に + [động từ bị động]. Ví dụ: 子どもが犬に噛まれた (đứa trẻ bị chó cắn). が = chủ thể câu bị động. に = tác nhân có chủ ý (người/vật có thể điều khiển). を = tân ngữ trực tiếp trong câu chủ động. で = phương tiện/địa điểm.",
       "tip": "Trợ từ tác nhân trong bị động: NGƯỜI/ĐỘNG VẬT có chủ ý → に. Tổ chức/trừu tượng/phát hiện → によって. Nguyên nhân tự nhiên (gió, mưa) → に hoặc で."
     },
     {
       "id": 2,
       "level": 1,
-      "category": "受動形基礎・助詞",
-      "category_vn": "Cơ bản — Bị động & trợ từ によって",
-      "question_ja": "「この橋は江戸時代（　）建てられた。」空欄に最も適切な助詞・助詞句はどれですか？",
+      "level_name": "Cơ bản",
+      "category": "Cơ bản — Bị động & trợ từ によって",
+      "question_jp": "「この橋は江戸時代（　）建てられた。」空欄に最も適切な助詞・助詞句はどれですか？",
       "question_vn": "\"Cây cầu này được xây dựng vào thời Edo.\" Chọn trợ từ phù hợp nhất.",
-      "choices": {
-        "A": "に",
-        "B": "で",
-        "C": "によって",
-        "D": "から"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "に",
+          "vn": "に"
+        },
+        {
+          "key": "B",
+          "jp": "で",
+          "vn": "で"
+        },
+        {
+          "key": "C",
+          "jp": "によって",
+          "vn": "によって"
+        },
+        {
+          "key": "D",
+          "jp": "から",
+          "vn": "から"
+        }
+      ],
       "answer": "C",
-      "explanation_vn": "【によって】dùng trong bị động khi tác nhân là: ①Tổ chức/tập thể (会社、政府、チーム…). ②Tác nhân ẩn/tập thể lịch sử (江戸時代 = 'thời đại Edo', ngụ ý thợ thủ công, người dân, tập thể ẩn danh thời đó — không phải 1 người cụ thể). ③Phát minh, sáng tác (〜によって発見された、書かれた). QUAN TRỌNG: 江戸時代によって đúng KHÔNG phải vì 'thời đại' là trừu tượng, mà vì TÁC NHÂN THỰC SỰ là tập thể/ẩn danh (người thợ xây thời Edo) — khi tác nhân là tập thể ẩn/không rõ cá nhân → によって. に (A) = chỉ dùng cho NGƯỜI CỤ THỂ (田中さんに決められた). で (B) = phương tiện hoặc địa điểm. から (D) = nguồn gốc.",
+      "explanation": "【によって】dùng trong bị động khi tác nhân là: ①Tổ chức/tập thể (会社、政府、チーム…). ②Tác nhân ẩn/tập thể lịch sử (江戸時代 = 'thời đại Edo', ngụ ý thợ thủ công, người dân, tập thể ẩn danh thời đó — không phải 1 người cụ thể). ③Phát minh, sáng tác (〜によって発見された、書かれた). QUAN TRỌNG: 江戸時代によって đúng KHÔNG phải vì 'thời đại' là trừu tượng, mà vì TÁC NHÂN THỰC SỰ là tập thể/ẩn danh (người thợ xây thời Edo) — khi tác nhân là tập thể ẩn/không rõ cá nhân → によって. に (A) = chỉ dùng cho NGƯỜI CỤ THỂ (田中さんに決められた). で (B) = phương tiện hoặc địa điểm. から (D) = nguồn gốc.",
       "tip": "Phân biệt に vs によって: に = người cụ thể rõ danh (田中さんに叱られた). によって = tổ chức, tập thể, tác nhân ẩn/lịch sử, phát minh (会社によって決められた、江戸時代の職人によって建てられた)."
     },
     {
       "id": 3,
       "level": 1,
-      "category": "受動形基礎・助詞",
-      "category_vn": "Cơ bản — Bị động gián tiếp (迷惑の受身) & trợ từ を→に",
-      "question_ja": "「私は電車の中で財布（　）盗まれた。」正しい助詞はどれですか？",
+      "level_name": "Cơ bản",
+      "category": "Cơ bản — Bị động gián tiếp (迷惑の受身) & trợ từ を→に",
+      "question_jp": "「私は電車の中で財布（　）盗まれた。」正しい助詞はどれですか？",
       "question_vn": "\"Tôi bị mất ví trên tàu điện ngầm (ai đó đã lấy cắp).\" Trợ từ đúng sau 財布 là gì?",
-      "choices": {
-        "A": "が",
-        "B": "を",
-        "C": "に",
-        "D": "は"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "が",
+          "vn": "が"
+        },
+        {
+          "key": "B",
+          "jp": "を",
+          "vn": "を"
+        },
+        {
+          "key": "C",
+          "jp": "に",
+          "vn": "に"
+        },
+        {
+          "key": "D",
+          "jp": "は",
+          "vn": "は"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "Đây là bị động sở hữu chủ / bị động thiệt hại (持ち主の受身・迷惑の受身). Vì câu CÓ chủ ngữ là NGƯỜI bị hại (私は), nên vật sở hữu (財布) GIỮ NGUYÊN trợ từ を. Cấu trúc: [người bị hại]は + (tác nhân に) + [vật sở hữu]を + [động từ bị động]. Câu đúng: 「私は（泥棒に）財布を盗まれた」. → Phân biệt: 「財布が盗まれた」(が) chỉ đúng khi KHÔNG có người làm chủ ngữ — đó là bị động TRỰC TIẾP (直接受身), vật làm chủ ngữ. Còn khi đã có 私は, ta dùng を.",
+      "explanation": "Đây là bị động sở hữu chủ / bị động thiệt hại (持ち主の受身・迷惑の受身). Vì câu CÓ chủ ngữ là NGƯỜI bị hại (私は), nên vật sở hữu (財布) GIỮ NGUYÊN trợ từ を. Cấu trúc: [người bị hại]は + (tác nhân に) + [vật sở hữu]を + [động từ bị động]. Câu đúng: 「私は（泥棒に）財布を盗まれた」. → Phân biệt: 「財布が盗まれた」(が) chỉ đúng khi KHÔNG có người làm chủ ngữ — đó là bị động TRỰC TIẾP (直接受身), vật làm chủ ngữ. Còn khi đã có 私は, ta dùng を.",
       "tip": "⚠️ ĐIỂM KHÓ: Khi NGƯỜI bị hại làm chủ ngữ (私は…), vật sở hữu GIỮ を → 「財布を盗まれた」. Chỉ khi VẬT làm chủ ngữ (không có người) mới dùng が → 「財布が盗まれた」. Đừng nhầm hai dạng này!"
     },
     {
       "id": 4,
       "level": 1,
-      "category": "受動形基礎",
-      "category_vn": "Cơ bản — Phân biệt れる/られる bị động vs tôn kính",
-      "question_ja": "「部長が会議室に入られた。」この文の「られた」はどちらの意味ですか？",
+      "level_name": "Cơ bản",
+      "category": "Cơ bản — Phân biệt れる/られる bị động vs tôn kính",
+      "question_jp": "「部長が会議室に入られた。」この文の「られた」はどちらの意味ですか？",
       "question_vn": "Câu \"Trưởng phòng bước vào phòng họp.\" Ở đây 「られた」mang nghĩa gì?",
-      "choices": {
-        "A": "受身（bị động）— 部長が誰かに入らせられた",
-        "B": "尊敬（tôn kính）— 部長が入るという行為を丁寧に表す",
-        "C": "可能（có thể）— 部長が入ることができた",
-        "D": "自発（tự phát）— 自然と入ってしまった"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "受身（bị động）— 部長が誰かに入らせられた",
+          "vn": "Bị động — Trưởng phòng bị ai đó bắt vào"
+        },
+        {
+          "key": "B",
+          "jp": "尊敬（tôn kính）— 部長が入るという行為を丁寧に表す",
+          "vn": "Tôn kính — diễn đạt lịch sự hành động vào phòng của Trưởng phòng"
+        },
+        {
+          "key": "C",
+          "jp": "可能（có thể）— 部長が会議室に入ることができた",
+          "vn": "Khả năng — Trưởng phòng đã có thể vào phòng họp"
+        },
+        {
+          "key": "D",
+          "jp": "自発（tự phát）— 自然と会議室に入ってしまった",
+          "vn": "Tự phát — tự nhiên mà vào phòng họp mất rồi"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "Câu này 「部長が〜入られた」= TÔN KÍNH NGỮ (尊敬). れる/られる có 4 nghĩa: ①受身 (bị động), ②尊敬 (tôn kính), ③可能 (có thể), ④自発 (tự phát). Cách phân biệt: Nếu có tác nhân に → thường là bị động. Nếu chủ thể là người BỀ TRÊN, không có tác nhân → thường là tôn kính (đặc biệt trong môi trường công ty). 「部長が入られた」= không có tác nhân, 部長 = bề trên → tôn kính.",
+      "explanation": "Câu này 「部長が〜入られた」= TÔN KÍNH NGỮ (尊敬). れる/られる có 4 nghĩa: ①受身 (bị động), ②尊敬 (tôn kính), ③可能 (có thể), ④自発 (tự phát). Cách phân biệt: Nếu có tác nhân に → thường là bị động. Nếu chủ thể là người BỀ TRÊN, không có tác nhân → thường là tôn kính (đặc biệt trong môi trường công ty). 「部長が入られた」= không có tác nhân, 部長 = bề trên → tôn kính.",
       "tip": "れる/られる = bị động KHI có tác nhân (〜に). れる/られる = tôn kính KHI chủ thể là bề trên, không có tác nhân. Ngữ cảnh quyết định nghĩa!"
     },
     {
       "id": 5,
       "level": 1,
-      "category": "使役形基礎・助詞",
-      "category_vn": "Cơ bản — Sai khiến & trợ từ に vs を (他動詞)",
-      "question_ja": "「先生は生徒（　）作文（　）書かせた。」正しい助詞の組み合わせはどれですか？",
+      "level_name": "Cơ bản",
+      "category": "Cơ bản — Sai khiến & trợ từ に vs を (他動詞)",
+      "question_jp": "「先生は生徒（　）作文（　）書かせた。」正しい助詞の組み合わせはどれですか？",
       "question_vn": "\"Giáo viên bắt học sinh viết bài luận.\" Điền trợ từ đúng.",
-      "choices": {
-        "A": "を／が",
-        "B": "に／を",
-        "C": "が／を",
-        "D": "を／を"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "を／が",
+          "vn": "を／が"
+        },
+        {
+          "key": "B",
+          "jp": "に／を",
+          "vn": "に／を"
+        },
+        {
+          "key": "C",
+          "jp": "が／を",
+          "vn": "が／を"
+        },
+        {
+          "key": "D",
+          "jp": "を／を",
+          "vn": "を／を"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "Cấu trúc sai khiến với 他動詞 (tha động từ — có tân ngữ): [người sai khiến]が + [người bị sai]に + [tân ngữ]を + [động詞させる]. 生徒 = người bị sai khiến → に. 作文 = tân ngữ của 書く → を. LÝ DO: 書く là 他動詞 (có tân ngữ を), người bị sai phải dùng に để phân biệt với tân ngữ. Nếu dùng を cho cả 2 → mơ hồ.",
+      "explanation": "Cấu trúc sai khiến với 他動詞 (tha động từ — có tân ngữ): [người sai khiến]が + [người bị sai]に + [tân ngữ]を + [động詞させる]. 生徒 = người bị sai khiến → に. 作文 = tân ngữ của 書く → を. LÝ DO: 書く là 他動詞 (có tân ngữ を), người bị sai phải dùng に để phân biệt với tân ngữ. Nếu dùng を cho cả 2 → mơ hồ.",
       "tip": "Sai khiến 他動詞: [người bị sai]に + [tân ngữ]を. Không thể dùng を cho người bị sai khi đã có を cho tân ngữ!"
     },
     {
       "id": 6,
       "level": 1,
-      "category": "使役形基礎・助詞",
-      "category_vn": "Cơ bản — Sai khiến & trợ từ に vs を (自動詞)",
-      "question_ja": "「母は子どもを/に泣かせた。」自動詞（泣く）の使役文で、「を」と「に」どちらが正しいですか？",
+      "level_name": "Cơ bản",
+      "category": "Cơ bản — Sai khiến & trợ từ に vs を (自動詞)",
+      "question_jp": "「母は子どもを/に泣かせた。」自動詞（泣く）の使役文で、「を」と「に」どちらが正しいですか？",
       "question_vn": "Sai khiến với 自動詞 (泣く = khóc — động từ không có tân ngữ). 「を」hay「に」là đúng?",
-      "choices": {
-        "A": "「を」のみ正しい",
-        "B": "「に」のみ正しい",
-        "C": "「を」は強制・放置の意味、「に」は許可・誘導の意味で、両方使える",
-        "D": "どちらも間違い"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "「を」のみ正しく、「に」は自動詞使役では使えない",
+          "vn": "Chỉ「を」đúng, 「に」không dùng được với sai khiến tự động từ"
+        },
+        {
+          "key": "B",
+          "jp": "「に」のみ正しく、「を」は自動詞使役では使えない",
+          "vn": "Chỉ「に」đúng, 「を」không dùng được với sai khiến tự động từ"
+        },
+        {
+          "key": "C",
+          "jp": "「を」は強制・放置、「に」は許可・誘導の意味で両方使える",
+          "vn": "「を」mang nghĩa ép buộc/thả mặc, 「に」mang nghĩa cho phép/hướng dẫn — cả hai đều dùng được"
+        },
+        {
+          "key": "D",
+          "jp": "どちらも間違いで、自動詞は使役形にできない",
+          "vn": "Cả hai đều sai, tự động từ không thể chia sai khiến"
+        }
+      ],
       "answer": "C",
-      "explanation_vn": "Sai khiến với 自動詞 (động từ không có tân ngữ): Cả を và に đều dùng được nhưng khác về sắc thái: ①【を】= ép buộc, thả mặc, để kết quả xảy ra: 「子どもを泣かせた」(làm đứa trẻ khóc — có thể vô tình hoặc cố ý, nhấn mạnh kết quả). ②【に】= cho phép, hướng dẫn: 「子どもに泣かせた」(cho phép đứa trẻ khóc). Đây là điểm tinh tế và quan trọng nhất của sai khiến!",
+      "explanation": "Sai khiến với 自動詞 (động từ không có tân ngữ): Cả を và に đều dùng được nhưng khác về sắc thái: ①【を】= ép buộc, thả mặc, để kết quả xảy ra: 「子どもを泣かせた」(làm đứa trẻ khóc — có thể vô tình hoặc cố ý, nhấn mạnh kết quả). ②【に】= cho phép, hướng dẫn: 「子どもに泣かせた」(cho phép đứa trẻ khóc). Đây là điểm tinh tế và quan trọng nhất của sai khiến!",
       "tip": "⚠️ ĐIỂM QUAN TRỌNG: 自動詞 使役: を ≈ ép/thả mặc, để kết quả xảy ra. に ≈ cho phép, hướng dẫn. 他動詞 使役: phải dùng に (vì を đã cho tân ngữ)."
     },
     {
       "id": 7,
       "level": 1,
-      "category": "使役受動形基礎",
-      "category_vn": "Cơ bản — Sai khiến bị động (使役受動形) — nhận diện",
-      "question_ja": "「私は上司に3時間も残業させられた。」この文の意味として正しいものはどれですか？",
+      "level_name": "Cơ bản",
+      "category": "Cơ bản — Sai khiến bị động (使役受動形) — nhận diện",
+      "question_jp": "「私は上司に3時間も残業させられた。」この文の意味として正しいものはどれですか？",
       "question_vn": "\"Tôi bị sếp bắt phải làm thêm giờ suốt 3 tiếng.\" Nghĩa đúng là gì?",
-      "choices": {
-        "A": "私が上司に残業するよう命令した",
-        "B": "私が自分で残業した（自発）",
-        "C": "私は上司から残業するよう強制された（不本意）",
-        "D": "私が上司のために残業した（自分の意志）"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "私が上司に残業するよう命令した",
+          "vn": "Tôi đã ra lệnh cho sếp làm thêm giờ"
+        },
+        {
+          "key": "B",
+          "jp": "私が自分の意志で残業した（自発的に）",
+          "vn": "Tôi tự nguyện làm thêm giờ (theo ý chí bản thân)"
+        },
+        {
+          "key": "C",
+          "jp": "私は上司から残業するよう強制された（不本意）",
+          "vn": "Tôi bị sếp ép buộc phải làm thêm giờ (bất đắc dĩ)"
+        },
+        {
+          "key": "D",
+          "jp": "私が上司のために自分から残業した",
+          "vn": "Tôi tự mình làm thêm giờ vì sếp"
+        }
+      ],
       "answer": "C",
-      "explanation_vn": "【使役受動形（させられる）】= BỊ ÉP LÀM điều gì đó — thể hiện sự bất đắc dĩ, không muốn nhưng bị buộc. Cấu trúc: [người bị ép]が + [người ép]に + [động từ]させられる. 「上司に残業させられた」= Bị sếp bắt làm thêm (tôi không muốn nhưng phải làm). Cảm giác: BỰC BỘI, BẤT ĐẮC DĨ. Khác với 「残業した」(tự nguyện) hay 「残業させた」(tôi bắt người khác).",
+      "explanation": "【使役受動形（させられる）】= BỊ ÉP LÀM điều gì đó — thể hiện sự bất đắc dĩ, không muốn nhưng bị buộc. Cấu trúc: [người bị ép]が + [người ép]に + [động từ]させられる. 「上司に残業させられた」= Bị sếp bắt làm thêm (tôi không muốn nhưng phải làm). Cảm giác: BỰC BỘI, BẤT ĐẮC DĨ. Khác với 「残業した」(tự nguyện) hay 「残業させた」(tôi bắt người khác).",
       "tip": "させられる = SAI KHIẾN BỊ ĐỘNG = 'bị ép phải làm'. Luôn có hàm ý KHÔNG MUỐN, BỊ BUỘC. Đây là điểm đặc trưng nhất của dạng này."
     },
     {
       "id": 8,
       "level": 1,
-      "category": "活用形基礎",
-      "category_vn": "Cơ bản — Chia dạng động từ: bị động → sai khiến → sai khiến bị động",
-      "question_ja": "動詞「書く」（グループ1）の、①受動形、②使役形、③使役受動形を正しく示したものはどれですか？",
+      "level_name": "Cơ bản",
+      "category": "Cơ bản — Chia dạng động từ: bị động → sai khiến → sai khiến bị động",
+      "question_jp": "動詞「書く」（グループ1）の、①受動形、②使役形、③使役受動形を正しく示したものはどれですか？",
       "question_vn": "Động từ 「書く」(nhóm 1). Chia đúng: ①Bị động, ②Sai khiến, ③Sai khiến bị động.",
-      "choices": {
-        "A": "①書かれる ②書かせる ③書かせられる",
-        "B": "①書かれる ②書けさせる ③書けさせられる",
-        "C": "①書かれる ②書かせる ③書かせされる",
-        "D": "①書けれる ②書かせる ③書かせられる"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "①書かれる ②書かせる ③書かせられる",
+          "vn": "①書かれる ②書かせる ③書かせられる"
+        },
+        {
+          "key": "B",
+          "jp": "①書かれる ②書けさせる ③書けさせられる",
+          "vn": "①書かれる ②書けさせる ③書けさせられる"
+        },
+        {
+          "key": "C",
+          "jp": "①書かれる ②書かせる ③書かせされる",
+          "vn": "①書かれる ②書かせる ③書かせされる"
+        },
+        {
+          "key": "D",
+          "jp": "①書けれる ②書かせる ③書かせられる",
+          "vn": "①書けれる ②書かせる ③書かせられる"
+        }
+      ],
       "answer": "A",
-      "explanation_vn": "書く (グループ1 — nhóm 1, thân = か): ①受動: か + れる = 書かれる. ②使役: か + せる = 書かせる. ③使役受動: か + せられる = 書かせられる. (B) 書けさせる = SAI — không tồn tại dạng này (nhầm với 可能形 書ける). (C) 書かせされる = SAI — không tồn tại (dạng rút gọn đúng là 書かされる nhưng đó cũng là đáp án đúng; 書かせされる là lỗi ghép 2 phần sai). (D) 書けれる = SAI — 可能形 đúng phải là 書ける. Chỉ (A) cho đủ 3 dạng đúng chuẩn.",
-      "tip": "Chia nhanh: 動詞(ない形のない前) + れる(受身) / せる(使役) / せられる(使役受身). グループ1 có dạng rút gọn させられる → される (書かされる) nhưng グループ2 KHÔNG rút gọn được. Dạng rút gọn 書かされる ĐÚNG nhưng không có trong đáp án câu này."
+      "explanation": "書く (nhóm 1 — 五段, thân = か): ①受動: か + れる = 書かれる. ②使役: か + せる = 書かせる. ③使役受動: か + せられる = 書かせられる → chỉ (A) cho đủ 3 dạng đúng chuẩn. (B) 書けさせる = SAI — không tồn tại dạng này (nhầm với khả năng thể 書ける). (C) 書かせされる = SAI — dạng ghép sai. Lưu ý: dạng rút gọn hợp lệ của nhóm 1 là 書かされる (せら → さ), KHÔNG phải 書かせされる — nhưng dạng rút gọn này không xuất hiện trong bất kỳ phương án nào của câu này. (D) 書けれる = SAI — khả năng thể đúng phải là 書ける.",
+      "tip": "Chia nhanh: [thân ない形] + れる (bị động) / せる (sai khiến) / せられる (sai khiến bị động). Nhóm 1 có dạng rút gọn せられる → される (書かされる, 飲まされる); nhóm 2 KHÔNG rút gọn được (食べさせられる, không nói 食べさされる)."
     },
     {
       "id": 9,
       "level": 1,
-      "category": "受動形基礎・助詞",
-      "category_vn": "Cơ bản — Phân biệt bị động và 授受動詞",
-      "question_ja": "「先生に褒められた」と「先生に褒めてもらった」の違いとして正しいものはどれですか？",
+      "level_name": "Cơ bản",
+      "category": "Cơ bản — Phân biệt bị động và 授受動詞",
+      "question_jp": "「先生に褒められた」と「先生に褒めてもらった」の違いとして正しいものはどれですか？",
       "question_vn": "Sự khác nhau giữa ①\"được thầy khen\" (bị động) và ②\"được thầy khen\" (授受動詞) là gì?",
-      "choices": {
-        "A": "①は受身で客観的な表現、②は感謝・恩恵の気持ちを表す",
-        "B": "①②ともに同じ意味で違いはない",
-        "C": "①は自然に起きたこと、②は頼んで起きたこと",
-        "D": "①は先生が悪い人、②は先生が良い人"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "①は受身で客観的な表現、②は感謝・恩恵の気持ちを表す",
+          "vn": "① là bị động, diễn đạt khách quan; ② thể hiện lòng biết ơn, cảm nhận ân huệ"
+        },
+        {
+          "key": "B",
+          "jp": "①②ともに全く同じ意味で、違いは一切ない",
+          "vn": "Cả ① và ② hoàn toàn cùng nghĩa, không có bất kỳ khác biệt nào"
+        },
+        {
+          "key": "C",
+          "jp": "①は自然に起きたこと、②は自分から頼んで起きたこと",
+          "vn": "① là việc xảy ra tự nhiên, ② là việc xảy ra do mình chủ động nhờ"
+        },
+        {
+          "key": "D",
+          "jp": "①は先生が悪い人、②は先生が良い人",
+          "vn": "① nghĩa là thầy xấu tính, ② nghĩa là thầy tốt bụng"
+        }
+      ],
       "answer": "A",
-      "explanation_vn": "Tuy cùng nghĩa 'được khen' nhưng sắc thái khác: ①「褒められた」(受身) = biểu đạt khách quan/trung tính — ghi nhận sự việc xảy ra mà không nhấn mạnh cảm xúc. LƯU Ý QUAN TRỌNG: 受身 KHÔNG mang hàm ý 'bất đắc dĩ' (不本意) ở đây vì 褒める (khen) là điều tích cực — hàm ý bất đắc dĩ chỉ xuất hiện ở 迷惑の受身 (bị động thiệt hại) như 雨に降られた, 財布を盗まれた. ②「褒めてもらった」(授受動詞) = biết ơn, trân trọng ÂN HUỆ nhận được — nhấn mạnh 'thầy đã làm ơn khen tôi'. Trong kinh doanh, いただく được dùng khi muốn thể hiện lòng biết ơn: 「ご評価いただいた」.",
+      "explanation": "Tuy cùng nghĩa 'được khen' nhưng sắc thái khác: ①「褒められた」(受身) = biểu đạt khách quan/trung tính — ghi nhận sự việc xảy ra mà không nhấn mạnh cảm xúc. LƯU Ý QUAN TRỌNG: 受身 KHÔNG mang hàm ý 'bất đắc dĩ' (不本意) ở đây vì 褒める (khen) là điều tích cực — hàm ý bất đắc dĩ chỉ xuất hiện ở 迷惑の受身 (bị động thiệt hại) như 雨に降られた, 財布を盗まれた. ②「褒めてもらった」(授受動詞) = biết ơn, trân trọng ÂN HUỆ nhận được — nhấn mạnh 'thầy đã làm ơn khen tôi'. Trong kinh doanh, いただく được dùng khi muốn thể hiện lòng biết ơn: 「ご評価いただいた」.",
       "tip": "〜れる/られる (受身) = khách quan, trung tính. 〜てもらう/いただく (授受) = biết ơn, nhấn mạnh ân huệ. Bị động KHÔNG phải lúc nào cũng mang nghĩa 'bất đắc dĩ' — chỉ khi là 迷惑の受身 (bị hại) mới có hàm ý đó."
     },
     {
       "id": 10,
       "level": 1,
-      "category": "受動形基礎・助詞",
-      "category_vn": "Cơ bản — Trợ từ に vs で trong bị động",
-      "question_ja": "次の文で助詞の使い方が正しいものはどれですか？",
+      "level_name": "Cơ bản",
+      "category": "Cơ bản — Trợ từ に vs で trong bị động",
+      "question_jp": "次の文で助詞の使い方が正しいものはどれですか？",
       "question_vn": "Câu nào dùng trợ từ ĐÚNG trong bị động?",
-      "choices": {
-        "A": "私は雨で濡れた。（雨 = tác nhân tự nhiên）",
-        "B": "私は雨によって濡れた。",
-        "C": "この法律は政府で制定された。",
-        "D": "彼は先生を叱られた。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "私は雨に降られた。",
+          "vn": "私は雨に降られた。(mưa = tác nhân, bị động thiệt hại)"
+        },
+        {
+          "key": "B",
+          "jp": "私は雨によって濡れた。",
+          "vn": "私は雨によって濡れた。"
+        },
+        {
+          "key": "C",
+          "jp": "この法律は政府で制定された。",
+          "vn": "この法律は政府で制定された。"
+        },
+        {
+          "key": "D",
+          "jp": "彼は先生を叱られた。",
+          "vn": "彼は先生を叱られた。"
+        }
+      ],
       "answer": "A",
-      "explanation_vn": "①「雨で濡れた」= ĐÚNG — mưa = nguyên nhân tự nhiên → で (phương tiện/nguyên nhân). Mưa không phải tác nhân có chủ ý nên KHÔNG dùng に (A là câu chủ động, không phải bị động nhưng đúng về trợ từ). ②「雨によって濡れた」= KHÔNG TỰ NHIÊN — によって dùng cho tổ chức/phát hiện, không hợp với hiện tượng thiên nhiên thông thường. ③「政府で制定された」= SAI — chính phủ = tổ chức → によって. ④「先生を叱られた」= SAI — tác nhân người dùng に, không phải を.",
-      "tip": "Tổng kết trợ từ bị động: に (người/vật cụ thể có chủ ý). によって (tổ chức, trừu tượng, phát minh, văn bản). で (nguyên nhân tự nhiên, hiện tượng). から (nguồn gốc: 親から言われた)."
+      "explanation": "(A)「私は雨に降られた」= ĐÚNG — đây là bị động thiệt hại (迷惑の受身): mưa là tác nhân gây bất lợi cho người nói, dùng trợ từ に + động từ bị động 降られる. Đây là mẫu bị động đặc trưng của tiếng Nhật khi diễn tả 'bị mắc mưa'. (B)「雨によって濡れた」= KHÔNG TỰ NHIÊN — によって dùng cho tổ chức/tác giả/phát minh, không hợp với hiện tượng thiên nhiên trong câu đời thường. (C)「政府で制定された」= SAI — chính phủ là tổ chức → phải dùng によって: 「政府によって制定された」. (D)「先生を叱られた」= SAI — tác nhân là người thì phải dùng に: 「先生に叱られた」.",
+      "tip": "Tổng kết trợ từ bị động: に (người/vật cụ thể có chủ ý, cả hiện tượng gây thiệt hại như 雨に降られた). によって (tổ chức, tác giả, phát minh, văn bản). で (nguyên nhân đơn thuần: 風邪で休む). から (nguồn gốc: 親から言われた)."
     },
     {
       "id": 11,
       "level": 2,
-      "category": "受動形ビジネス初級",
-      "category_vn": "Sơ cấp kinh doanh — Bị động trong thông báo & văn bản",
-      "question_ja": "社内メールで「来月から新しい規則が（　）予定です。」正しい表現はどれですか？",
+      "level_name": "Trung bình",
+      "category": "Sơ cấp kinh doanh — Bị động trong thông báo & văn bản",
+      "question_jp": "社内メールで「来月から新しい規則が（　）予定です。」正しい表現はどれですか？",
       "question_vn": "Email nội bộ: 'Quy tắc mới sẽ được [thực thi] từ tháng sau.' Điền vào chỗ trống.",
-      "choices": {
-        "A": "実施する",
-        "B": "実施される",
-        "C": "実施させる",
-        "D": "実施させられる"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "実施する",
+          "vn": "実施する (chủ động)"
+        },
+        {
+          "key": "B",
+          "jp": "実施される",
+          "vn": "実施される (bị động)"
+        },
+        {
+          "key": "C",
+          "jp": "実施させる",
+          "vn": "実施させる (sai khiến)"
+        },
+        {
+          "key": "D",
+          "jp": "実施させられる",
+          "vn": "実施させられる (sai khiến bị động)"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "【〜される】= bị động của する — cực kỳ phổ biến trong thông báo, văn bản kinh doanh. Khi nội dung thông báo không cần nêu rõ 'ai thực hiện' → dùng bị động để văn phong khách quan. 「規則が実施される」= Quy tắc được thực thi (không cần nói ai thực thi). (A) 実施する = chủ động — cần chủ thể rõ ràng. (C) 実施させる = sai khiến — bắt ai đó thực thi. (D) 使役受動 = không phù hợp.",
+      "explanation": "【〜される】= bị động của する — cực kỳ phổ biến trong thông báo, văn bản kinh doanh. Khi nội dung thông báo không cần nêu rõ 'ai thực hiện' → dùng bị động để văn phong khách quan. 「規則が実施される」= Quy tắc được thực thi (không cần nói ai thực thi). (A) 実施する = chủ động — cần chủ thể rõ ràng. (C) 実施させる = sai khiến — bắt ai đó thực thi. (D) 使役受動 = không phù hợp.",
       "tip": "Trong thông báo, văn bản kinh doanh: Bị động (〜される、〜が行われる、〜が決定された) thường được dùng để viết khách quan, không cần nêu chủ thể."
     },
     {
       "id": 12,
       "level": 2,
-      "category": "使役形ビジネス初級・助詞",
-      "category_vn": "Sơ cấp kinh doanh — Sai khiến: trợ từ khi có 2 tân ngữ",
-      "question_ja": "「部長は部下（　）報告書（　）作成させた。」正しい助詞の組み合わせはどれですか？",
+      "level_name": "Trung bình",
+      "category": "Sơ cấp kinh doanh — Sai khiến: trợ từ khi có 2 tân ngữ",
+      "question_jp": "「部長は部下（　）報告書（　）作成させた。」正しい助詞の組み合わせはどれですか？",
       "question_vn": "\"Trưởng phòng bắt cấp dưới lập báo cáo.\" Điền trợ từ đúng.",
-      "choices": {
-        "A": "を／を",
-        "B": "が／を",
-        "C": "に／を",
-        "D": "を／が"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "を／を",
+          "vn": "を／を"
+        },
+        {
+          "key": "B",
+          "jp": "が／を",
+          "vn": "が／を"
+        },
+        {
+          "key": "C",
+          "jp": "に／を",
+          "vn": "に／を"
+        },
+        {
+          "key": "D",
+          "jp": "を／が",
+          "vn": "を／が"
+        }
+      ],
       "answer": "C",
-      "explanation_vn": "作成する = 他動詞 (có tân ngữ). Sai khiến 他動詞: [người bị sai]に + [tân ngữ]を. 部下 = người bị sai → に. 報告書 = tân ngữ của 作成する → を. (A) 「部下を〜報告書を」= 2 lần を → mơ hồ, không tự nhiên. (B) 「部下が」= chủ thể câu, nhưng đây là sai khiến, 部長 mới là chủ thể chính. (D) sai hoàn toàn.",
+      "explanation": "作成する = 他動詞 (có tân ngữ). Sai khiến 他動詞: [người bị sai]に + [tân ngữ]を. 部下 = người bị sai → に. 報告書 = tân ngữ của 作成する → を. (A) 「部下を〜報告書を」= 2 lần を → mơ hồ, không tự nhiên. (B) 「部下が」= chủ thể câu, nhưng đây là sai khiến, 部長 mới là chủ thể chính. (D) sai hoàn toàn.",
       "tip": "Quy tắc vàng sai khiến 他動詞: に cho NGƯỜI bị sai, を cho VẬT bị tác động. Không bao giờ được dùng を cho cả người và vật trong cùng một câu sai khiến 他動詞."
     },
     {
       "id": 13,
       "level": 2,
-      "category": "使役形ビジネス初級・助詞",
-      "category_vn": "Sơ cấp kinh doanh — Sai khiến 自動詞: を vs に trong ngữ cảnh",
-      "question_ja": "「社長は新入社員（　）早めに帰らせた。」この場合のニュアンスとして最も正確な説明はどれですか？",
+      "level_name": "Trung bình",
+      "category": "Sơ cấp kinh doanh — Sai khiến 自動詞: を vs に trong ngữ cảnh",
+      "question_jp": "「社長は新入社員（　）早めに帰らせた。」この場合のニュアンスとして最も正確な説明はどれですか？",
       "question_vn": "\"Giám đốc để/bắt nhân viên mới về sớm.\" Câu với を có sắc thái gì?",
-      "choices": {
-        "A": "「を」は、社長が強制的に帰らせた（帰りたくなかった社員を）",
-        "B": "「を」は、社長が社員に帰る許可を与えた",
-        "C": "「を」は使えない、「に」でなければならない",
-        "D": "「を」と「に」は全く同じ意味"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "「を」は社長が強制的に帰らせたことを表す",
+          "vn": "「を」thể hiện giám đốc bắt buộc nhân viên phải về"
+        },
+        {
+          "key": "B",
+          "jp": "「を」は、社長が社員に帰る許可を与えた",
+          "vn": "「を」nghĩa là giám đốc cho phép nhân viên về"
+        },
+        {
+          "key": "C",
+          "jp": "「を」は使えない、「に」でなければならない",
+          "vn": "Không dùng được「を」, bắt buộc phải là「に」"
+        },
+        {
+          "key": "D",
+          "jp": "「を」と「に」は意味も語感も全く同じである",
+          "vn": "「を」và「に」hoàn toàn giống nhau cả về nghĩa lẫn sắc thái"
+        }
+      ],
       "answer": "A",
-      "explanation_vn": "Khi dùng 「新入社員を帰らせた」(を với 自動詞 sai khiến): Nhấn mạnh rằng nhân viên bị ĐẨY RA/BUỘC PHẢI về — có thể hơi ép buộc hoặc nhân viên không muốn về. Khi dùng 「新入社員に帰らせた」(に): Nghĩa nhẹ hơn — cho phép về, hướng dẫn về. Trong ngữ cảnh này, cả 2 đều có thể dùng nhưng を có sắc thái mạnh hơn (ép/thả).",
+      "explanation": "Khi dùng 「新入社員を帰らせた」(を với 自動詞 sai khiến): Nhấn mạnh rằng nhân viên bị ĐẨY RA/BUỘC PHẢI về — có thể hơi ép buộc hoặc nhân viên không muốn về. Khi dùng 「新入社員に帰らせた」(に): Nghĩa nhẹ hơn — cho phép về, hướng dẫn về. Trong ngữ cảnh này, cả 2 đều có thể dùng nhưng を có sắc thái mạnh hơn (ép/thả).",
       "tip": "Tóm tắt を vs に trong sai khiến 自動詞: に ≈ 'cho phép', nhẹ nhàng. を ≈ 'bắt', 'để mặc', mạnh hơn. Chọn trợ từ tùy theo ý muốn thể hiện."
     },
     {
       "id": 14,
       "level": 2,
-      "category": "受動形ビジネス初級",
-      "category_vn": "Sơ cấp kinh doanh — Bị động gián tiếp trong công ty",
-      "question_ja": "「私は部長に急な出張（　）頼まれた。」正しい助詞はどれですか？",
+      "level_name": "Trung bình",
+      "category": "Sơ cấp kinh doanh — Bị động gián tiếp trong công ty",
+      "question_jp": "「私は部長に急な出張（　）頼まれた。」正しい助詞はどれですか？",
       "question_vn": "\"Tôi bị trưởng phòng nhờ (bắt) đi công tác đột xuất.\" Trợ từ đúng sau 出張 là gì?",
-      "choices": {
-        "A": "が",
-        "B": "を",
-        "C": "に",
-        "D": "で"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "が",
+          "vn": "が"
+        },
+        {
+          "key": "B",
+          "jp": "を",
+          "vn": "を"
+        },
+        {
+          "key": "C",
+          "jp": "に",
+          "vn": "に"
+        },
+        {
+          "key": "D",
+          "jp": "で",
+          "vn": "で"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "Câu chủ động gốc: 「部長が私に急な出張を頼んだ」. Khi chuyển sang bị động với 私 làm chủ ngữ: 「私は部長に急な出張を頼まれた」— vì 私 đã là chủ ngữ (người bị tác động), nên tân ngữ 急な出張 GIỮ NGUYÊN を. Không thể có 2 chủ ngữ trong một câu, nên 出張 KHÔNG đổi thành が. Đây là bị động gián tiếp với người làm chủ ngữ → vật giữ を.",
+      "explanation": "Câu chủ động gốc: 「部長が私に急な出張を頼んだ」. Khi chuyển sang bị động với 私 làm chủ ngữ: 「私は部長に急な出張を頼まれた」— vì 私 đã là chủ ngữ (người bị tác động), nên tân ngữ 急な出張 GIỮ NGUYÊN を. Không thể có 2 chủ ngữ trong một câu, nên 出張 KHÔNG đổi thành が. Đây là bị động gián tiếp với người làm chủ ngữ → vật giữ を.",
       "tip": "Bị động khi NGƯỜI làm chủ ngữ: [B]は[A]に[C]を頼まれた — tân ngữ [C] GIỮ を. Quy tắc 'を → が' chỉ áp dụng khi VẬT trở thành chủ ngữ (bị động trực tiếp), không áp dụng ở đây."
     },
     {
       "id": 15,
       "level": 2,
-      "category": "受動形ビジネス初級",
-      "category_vn": "Sơ cấp kinh doanh — Bị động trang trọng (〜される) = tôn kính",
-      "question_ja": "ビジネスの場で「社長がご挨拶（　）。」最も丁寧な表現はどれですか？",
+      "level_name": "Trung bình",
+      "category": "Sơ cấp kinh doanh — Bị động trang trọng (〜される) = tôn kính",
+      "question_jp": "ビジネスの場で「社長がご挨拶（　）。」最も丁寧な表現はどれですか？",
       "question_vn": "Trong kinh doanh: \"Giám đốc [thực hiện] lời chào.\" Cách trang trọng nhất là gì?",
-      "choices": {
-        "A": "しました",
-        "B": "いたしました",
-        "C": "されました",
-        "D": "させました"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "しました",
+          "vn": "しました (dạng thường lịch sự)"
+        },
+        {
+          "key": "B",
+          "jp": "いたしました",
+          "vn": "いたしました (khiêm nhường ngữ)"
+        },
+        {
+          "key": "C",
+          "jp": "されました",
+          "vn": "されました (tôn kính/bị động)"
+        },
+        {
+          "key": "D",
+          "jp": "させました",
+          "vn": "させました (sai khiến)"
+        }
+      ],
       "answer": "C",
-      "explanation_vn": "【〜される】= bị động/tôn kính của する. Trong kinh doanh, 「〜される」được dùng như tôn kính ngữ — lịch sự hơn 「する」, ít trang trọng hơn 「なさる」. Thứ tự: する < される ≈ なさる (tôn kính). (A) 「しました」= chủ động bình thường. (B) 「いたしました」= khiêm ngữ — dùng cho hành động CỦA MÌNH, không phải của Giám đốc. (D) 「させました」= sai khiến.",
+      "explanation": "【〜される】= bị động/tôn kính của する. Trong kinh doanh, 「〜される」được dùng như tôn kính ngữ — lịch sự hơn 「する」, ít trang trọng hơn 「なさる」. Thứ tự: する < される ≈ なさる (tôn kính). (A) 「しました」= chủ động bình thường. (B) 「いたしました」= khiêm ngữ — dùng cho hành động CỦA MÌNH, không phải của Giám đốc. (D) 「させました」= sai khiến.",
       "tip": "〜される trong kinh doanh = có thể là tôn kính đơn giản cho hành động của cấp trên. Bậc thang: する → される/なさる → お〜になる."
     },
     {
       "id": 16,
       "level": 2,
-      "category": "使役受動形ビジネス初級",
-      "category_vn": "Sơ cấp kinh doanh — Sai khiến bị động (させられる) trong công ty",
-      "question_ja": "「新入社員は毎朝1時間（　）掃除させられる。」この文が表す状況として正しいものはどれですか？",
+      "level_name": "Trung bình",
+      "category": "Sơ cấp kinh doanh — Sai khiến bị động (させられる) trong công ty",
+      "question_jp": "「新入社員は毎朝1時間（　）掃除させられる。」この文が表す状況として正しいものはどれですか？",
       "question_vn": "Nhân viên mới bị bắt dọn dẹp 1 tiếng mỗi sáng. Tình huống nào phù hợp với câu này?",
-      "choices": {
-        "A": "新入社員が自ら進んで掃除している",
-        "B": "新入社員が掃除するよう誰かに命じられている（不本意）",
-        "C": "新入社員が掃除することを許可されている",
-        "D": "新入社員が掃除を誰かにさせている"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "新入社員が自ら進んで掃除に取り組んでいる",
+          "vn": "Nhân viên mới tự nguyện, chủ động bắt tay vào dọn dẹp"
+        },
+        {
+          "key": "B",
+          "jp": "新入社員が掃除するよう誰かに命じられている（不本意）",
+          "vn": "Nhân viên mới bị ai đó ra lệnh phải dọn dẹp (bất đắc dĩ)"
+        },
+        {
+          "key": "C",
+          "jp": "新入社員が掃除することを許可されている",
+          "vn": "Nhân viên mới được cho phép dọn dẹp"
+        },
+        {
+          "key": "D",
+          "jp": "新入社員が掃除を他の誰かにさせている",
+          "vn": "Nhân viên mới đang sai người khác dọn dẹp"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "【させられる】= sai khiến bị động — BỊ ÉP PHẢI LÀM, không muốn nhưng phải làm. Câu này hàm ý nhân viên mới KHÔNG MUỐN nhưng bị buộc phải dọn dẹp mỗi ngày. Trợ từ: [người ép]に + [hành động]させられる. Hàm ý phàn nàn, bất đắc dĩ. (A) 自ら進んで = TỰ NGUYỆN → sai vì させられる chứa hàm ý bị ép, trái với tự nguyện. (C) được phép = sai nghĩa (許可 dùng させてもらう). (D) sai chủ thể (nhân viên mới là người BỊ ép, không phải người sai khiến).",
+      "explanation": "【させられる】= sai khiến bị động — BỊ ÉP PHẢI LÀM, không muốn nhưng phải làm. Câu này hàm ý nhân viên mới KHÔNG MUỐN nhưng bị buộc phải dọn dẹp mỗi ngày. Trợ từ: [người ép]に + [hành động]させられる. Hàm ý phàn nàn, bất đắc dĩ. (A) 自ら進んで = TỰ NGUYỆN → sai vì させられる chứa hàm ý bị ép, trái với tự nguyện. (C) được phép = sai nghĩa (許可 dùng させてもらう). (D) sai chủ thể (nhân viên mới là người BỊ ép, không phải người sai khiến).",
       "tip": "させられる luôn có hàm ý BẤT ĐẮC DĨ. Nếu muốn nói TỰ NGUYỆN → する. Nếu muốn nói ĐƯỢC PHÉP → させてもらう/させていただく."
     },
     {
       "id": 17,
       "level": 2,
-      "category": "受動形ビジネス初級",
-      "category_vn": "Sơ cấp kinh doanh — によって trong văn bản chính thức",
-      "question_ja": "「この方針は取締役会（　）決定されました。」正しい助詞・助詞句はどれですか？",
+      "level_name": "Trung bình",
+      "category": "Sơ cấp kinh doanh — によって trong văn bản chính thức",
+      "question_jp": "「この方針は取締役会（　）決定されました。」正しい助詞・助詞句はどれですか？",
       "question_vn": "\"Phương châm này được quyết định bởi Hội đồng Quản trị.\" Điền trợ từ phù hợp.",
-      "choices": {
-        "A": "に",
-        "B": "が",
-        "C": "によって",
-        "D": "から"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "に",
+          "vn": "に"
+        },
+        {
+          "key": "B",
+          "jp": "が",
+          "vn": "が"
+        },
+        {
+          "key": "C",
+          "jp": "によって",
+          "vn": "によって"
+        },
+        {
+          "key": "D",
+          "jp": "から",
+          "vn": "から"
+        }
+      ],
       "answer": "C",
-      "explanation_vn": "取締役会（Hội đồng Quản trị）= TỔ CHỨC → dùng 【によって】trong bị động. に (A) = thường dùng cho người cụ thể (田中さんに決められた). が (B) = chủ thể câu bình thường. から (D) = nguồn gốc/xuất phát điểm. Quy tắc: Bị động tác nhân là TỔ CHỨC/TẬP THỂ → によって. Tác nhân là NGƯỜI CỤ THỂ → に.",
+      "explanation": "取締役会（Hội đồng Quản trị）= TỔ CHỨC → dùng 【によって】trong bị động. に (A) = thường dùng cho người cụ thể (田中さんに決められた). が (B) = chủ thể câu bình thường. から (D) = nguồn gốc/xuất phát điểm. Quy tắc: Bị động tác nhân là TỔ CHỨC/TẬP THỂ → によって. Tác nhân là NGƯỜI CỤ THỂ → に.",
       "tip": "によって trong bị động: 会社によって、委員会によって、政府によって、チームによって... Tất cả tổ chức/tập thể đều dùng によって."
     },
     {
       "id": 18,
       "level": 2,
-      "category": "使役形ビジネス初級",
-      "category_vn": "Sơ cấp kinh doanh — させていただく và sắc thái cho phép",
-      "question_ja": "「明日の会議を欠席（　）いただけますでしょうか。」ビジネス敬語として正しい表現はどれですか？",
+      "level_name": "Trung bình",
+      "category": "Sơ cấp kinh doanh — させていただく và sắc thái cho phép",
+      "question_jp": "「明日の会議を欠席（　）いただけますでしょうか。」ビジネス敬語として正しい表現はどれですか？",
       "question_vn": "\"Tôi kính xin phép vắng mặt trong cuộc họp ngày mai.\" Điền vào chỗ trống.",
-      "choices": {
-        "A": "させて",
-        "B": "させられて",
-        "C": "されて",
-        "D": "して"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "させて",
+          "vn": "させて (sai khiến — xin phép)"
+        },
+        {
+          "key": "B",
+          "jp": "させられて",
+          "vn": "させられて (sai khiến bị động — bị ép)"
+        },
+        {
+          "key": "C",
+          "jp": "されて",
+          "vn": "されて (bị động)"
+        },
+        {
+          "key": "D",
+          "jp": "して",
+          "vn": "して (dạng thường)"
+        }
+      ],
       "answer": "A",
-      "explanation_vn": "【させていただく】= XIN PHÉP được làm điều gì đó. Cấu trúc: [動詞]させていただく. 欠席させていただく = 'Tôi xin phép được vắng mặt'. させる (sai khiến) + いただく (nhận ân huệ) → ý nghĩa: Tôi được phép (xin phép) làm. (B) させられる = bị ép — sai hoàn toàn về nghĩa (không phải 'bị ép vắng mặt'). (C) される = bị động — không phù hợp. (D) していただく = nhờ người khác làm — sai chiều.",
+      "explanation": "【させていただく】= XIN PHÉP được làm điều gì đó. Cấu trúc: [動詞]させていただく. 欠席させていただく = 'Tôi xin phép được vắng mặt'. させる (sai khiến) + いただく (nhận ân huệ) → ý nghĩa: Tôi được phép (xin phép) làm. (B) させられる = bị ép — sai hoàn toàn về nghĩa (không phải 'bị ép vắng mặt'). (C) される = bị động — không phù hợp. (D) していただく = nhờ người khác làm — sai chiều.",
       "tip": "させていただく = 'Tôi xin phép được làm'. Là cấu trúc KHIÊM NHƯỜNG khi xin phép làm gì đó. Khác với させられる (bị ép) và してもらう (nhờ người làm)."
     },
     {
       "id": 19,
       "level": 2,
-      "category": "受動形ビジネス初級",
-      "category_vn": "Sơ cấp kinh doanh — Bị động trong thông báo hội nghị",
-      "question_ja": "「来月の定例会議は〇日（　）開催（　）予定です。」正しい表現の組み合わせはどれですか？",
+      "level_name": "Trung bình",
+      "category": "Sơ cấp kinh doanh — Bị động trong thông báo hội nghị",
+      "question_jp": "「来月の定例会議は〇日（　）開催（　）予定です。」正しい表現の組み合わせはどれですか？",
       "question_vn": "\"Cuộc họp định kỳ tháng sau dự kiến được tổ chức vào ngày X.\" Chọn tổ hợp đúng.",
-      "choices": {
-        "A": "に／する",
-        "B": "で／される",
-        "C": "に／される",
-        "D": "を／させる"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "に／する",
+          "vn": "に／する"
+        },
+        {
+          "key": "B",
+          "jp": "で／される",
+          "vn": "で／される"
+        },
+        {
+          "key": "C",
+          "jp": "に／される",
+          "vn": "に／される"
+        },
+        {
+          "key": "D",
+          "jp": "を／させる",
+          "vn": "を／させる"
+        }
+      ],
       "answer": "C",
-      "explanation_vn": "「〇日に開催される予定です」= ĐÚNG. 「〇日」= ngày tháng, thời điểm → trợ từ 【に】(thời gian cụ thể). 「開催される」= được tổ chức (bị động của 開催する) — trong thông báo, bị động tạo văn phong khách quan, không cần nêu chủ thể. (A) する = chủ động, thiếu lịch sự trong thông báo. (B) 「で」với ngày tháng = SAI (で = địa điểm hoặc phương tiện). (D) sai hoàn toàn.",
+      "explanation": "「〇日に開催される予定です」= ĐÚNG. 「〇日」= ngày tháng, thời điểm → trợ từ 【に】(thời gian cụ thể). 「開催される」= được tổ chức (bị động của 開催する) — trong thông báo, bị động tạo văn phong khách quan, không cần nêu chủ thể. (A) する = chủ động, thiếu lịch sự trong thông báo. (B) 「で」với ngày tháng = SAI (で = địa điểm hoặc phương tiện). (D) sai hoàn toàn.",
       "tip": "Thời gian (日付、時刻) → dùng に: 3日に、9時に. Địa điểm → dùng で: 会議室で. Đừng nhầm lẫn 2 trợ từ này!"
     },
     {
       "id": 20,
       "level": 2,
-      "category": "使役受動形ビジネス初級",
-      "category_vn": "Sơ cấp kinh doanh — させられる vs させていただく (đối lập ý nghĩa)",
-      "question_ja": "次の2文の違いを正しく説明したものはどれですか？\n①「プロジェクトリーダーをさせていただきます。」\n②「プロジェクトリーダーをさせられています。」",
+      "level_name": "Trung bình",
+      "category": "Sơ cấp kinh doanh — させられる vs させていただく (đối lập ý nghĩa)",
+      "question_jp": "次の2文の違いを正しく説明したものはどれですか？\n①「プロジェクトリーダーをさせていただきます。」\n②「プロジェクトリーダーをさせられています。」",
       "question_vn": "Sự khác nhau giữa ①\"Tôi xin phép đảm nhận vai trò trưởng dự án\" và ②\"Tôi đang bị bắt làm trưởng dự án\" là gì?",
-      "choices": {
-        "A": "①②ともに同じ意味",
-        "B": "①は自分の意志・謙虚な申し出、②は不本意・強制のニュアンス",
-        "C": "①は命令、②は許可",
-        "D": "①は過去、②は現在の表現"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "①②ともに全く同じ意味で、違いは一切ない",
+          "vn": "Cả ① và ② hoàn toàn cùng nghĩa, không có khác biệt"
+        },
+        {
+          "key": "B",
+          "jp": "①は自分の意志・謙虚な申し出、②は不本意・強制",
+          "vn": "① là ý chí bản thân, đề nghị khiêm tốn; ② là bất đắc dĩ, bị ép buộc"
+        },
+        {
+          "key": "C",
+          "jp": "①は相手への命令、②は相手からの許可を表す",
+          "vn": "① là mệnh lệnh với đối phương, ② là sự cho phép từ đối phương"
+        },
+        {
+          "key": "D",
+          "jp": "①は過去の出来事、②は現在の状態を表す",
+          "vn": "① diễn tả sự việc quá khứ, ② diễn tả trạng thái hiện tại"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "①【させていただく】= XIN PHÉP / KHIÊM NHƯỜNG tự nguyện đảm nhận. Cảm giác: Hân hạnh, tự nguyện, xin được làm. ②【させられる】= BỊ ÉP PHẢI LÀM. Cảm giác: Bất đắc dĩ, không muốn nhưng phải làm. Hai cấu trúc chứa させる nhưng nghĩa ĐỐI LẬP nhau hoàn toàn. させていただく = tự nguyện + khiêm tốn. させられる = bị ép + bất đắc dĩ.",
+      "explanation": "①【させていただく】= XIN PHÉP / KHIÊM NHƯỜNG tự nguyện đảm nhận. Cảm giác: Hân hạnh, tự nguyện, xin được làm. ②【させられる】= BỊ ÉP PHẢI LÀM. Cảm giác: Bất đắc dĩ, không muốn nhưng phải làm. Hai cấu trúc chứa させる nhưng nghĩa ĐỐI LẬP nhau hoàn toàn. させていただく = tự nguyện + khiêm tốn. させられる = bị ép + bất đắc dĩ.",
       "tip": "⚠️ KHÔNG NHẦM: させていただく (tự nguyện, lịch sự) ≠ させられる (bị ép, bất đắc dĩ). Cả 2 đều có させ nhưng nghĩa trái nhau!"
     },
     {
       "id": 21,
       "level": 3,
-      "category": "受動形中級・助詞",
-      "category_vn": "Trung cấp — Phân biệt tinh tế に / によって / で / から",
-      "question_ja": "次の4つの文で助詞の使い方が正しいものはどれですか？",
+      "level_name": "Khá",
+      "category": "Trung cấp — Phân biệt tinh tế に / によって / で / から",
+      "question_jp": "次の4つの文で助詞の使い方が正しいものはどれですか？",
       "question_vn": "Câu nào dùng trợ từ ĐÚNG trong bị động?",
-      "choices": {
-        "A": "この小説はA氏によって書かれた。",
-        "B": "私は上司によって叱られた。",
-        "C": "新しい法律は国会に制定された。",
-        "D": "彼女は風邪に休みました。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "この小説はA氏によって書かれた。",
+          "vn": "この小説はA氏によって書かれた。(tác giả → によって)"
+        },
+        {
+          "key": "B",
+          "jp": "私は上司によって叱られた。",
+          "vn": "私は上司によって叱られた。"
+        },
+        {
+          "key": "C",
+          "jp": "新しい法律は国会に制定された。",
+          "vn": "新しい法律は国会に制定された。"
+        },
+        {
+          "key": "D",
+          "jp": "彼女は風邪に休みました。",
+          "vn": "彼女は風邪に休みました。"
+        }
+      ],
       "answer": "A",
-      "explanation_vn": "①「A氏によって書かれた」= ĐÚNG — tác giả (người sáng tác, phát minh) → によって. NGOẠI LỆ QUAN TRỌNG: A氏 là cá nhân nhưng với TƯ CÁCH TÁC GIẢ/PHÁT MINH thì dùng によって (giống: シェイクスピアによって書かれた — dù Shakespeare là người cụ thể, vai trò tác giả/người sáng tạo → によって). Phân biệt: 「上司に叱られた」(ép/khiển trách trực tiếp → に) vs 「A氏によって書かれた」(sáng tác/phát minh → によって). ②「上司によって叱られた」= SAI — 上司 = người cụ thể với hành động trực tiếp → phải dùng に: 「上司に叱られた」. ③「国会に制定された」= SAI — 国会 = tổ chức → phải dùng によって: 「国会によって制定された」. ④「風邪に休みました」= SAI — 風邪 = nguyên nhân → で: 「風邪で休みました」.",
+      "explanation": "①「A氏によって書かれた」= ĐÚNG — tác giả (người sáng tác, phát minh) → によって. NGOẠI LỆ QUAN TRỌNG: A氏 là cá nhân nhưng với TƯ CÁCH TÁC GIẢ/PHÁT MINH thì dùng によって (giống: シェイクスピアによって書かれた — dù Shakespeare là người cụ thể, vai trò tác giả/người sáng tạo → によって). Phân biệt: 「上司に叱られた」(ép/khiển trách trực tiếp → に) vs 「A氏によって書かれた」(sáng tác/phát minh → によって). ②「上司によって叱られた」= SAI — 上司 = người cụ thể với hành động trực tiếp → phải dùng に: 「上司に叱られた」. ③「国会に制定された」= SAI — 国会 = tổ chức → phải dùng によって: 「国会によって制定された」. ④「風邪に休みました」= SAI — 風邪 = nguyên nhân → で: 「風邪で休みました」.",
       "tip": "Bảng trợ từ bị động: ①Người cụ thể (hành động trực tiếp) = に (先生に叱られた). ②Tổ chức/tập thể = によって (会社によって決められた). ③Tác giả/phát minh = によって kể cả khi là cá nhân (シェイクスピアによって書かれた、A氏によって発明された). ④Nguyên nhân tự nhiên = で (風邪で、事故で). ⑤Nguồn gốc = から (親から聞かされた)."
     },
     {
       "id": 22,
       "level": 3,
-      "category": "使役形中級・助詞",
-      "category_vn": "Trung cấp — Câu sai khiến 3 thành phần (phức tạp)",
-      "question_ja": "「A部長はBさん（　）C社（　）資料（　）送らせた。」正しい助詞の組み合わせはどれですか？",
+      "level_name": "Khá",
+      "category": "Trung cấp — Câu sai khiến 3 thành phần (phức tạp)",
+      "question_jp": "「A部長はBさん（　）C社（　）資料（　）送らせた。」正しい助詞の組み合わせはどれですか？",
       "question_vn": "\"Trưởng phòng A sai anh B gửi tài liệu cho C công ty.\" Điền trợ từ đúng theo thứ tự.",
-      "choices": {
-        "A": "に／に／を",
-        "B": "を／へ／が",
-        "C": "が／に／を",
-        "D": "に／へ／が"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "に／に／を",
+          "vn": "に／に／を"
+        },
+        {
+          "key": "B",
+          "jp": "を／へ／が",
+          "vn": "を／へ／が"
+        },
+        {
+          "key": "C",
+          "jp": "が／に／を",
+          "vn": "が／に／を"
+        },
+        {
+          "key": "D",
+          "jp": "に／へ／が",
+          "vn": "に／へ／が"
+        }
+      ],
       "answer": "A",
-      "explanation_vn": "Phân tích câu: A部長（chủ thể sai khiến）が + Bさん（người bị sai）に + C社（đích đến）に + 資料（tân ngữ）を + 送らせた. C社に = nơi gửi đến (hướng đến) → に. Hoặc C社へ cũng được (へ = hướng đến). 資料 = tân ngữ của 送る → を. Bさん = người bị sai khiến → に. Cấu trúc đầy đủ: 「BさんにC社に資料を送らせた」.",
+      "explanation": "Phân tích câu: A部長（chủ thể sai khiến）が + Bさん（người bị sai）に + C社（đích đến）に + 資料（tân ngữ）を + 送らせた. C社に = nơi gửi đến (hướng đến) → に. Hoặc C社へ cũng được (へ = hướng đến). 資料 = tân ngữ của 送る → を. Bさん = người bị sai khiến → に. Cấu trúc đầy đủ: 「BさんにC社に資料を送らせた」.",
       "tip": "Câu sai khiến phức tạp: [người sai]が + [người bị sai]に + [nơi/người nhận]に/へ + [vật]を + [動詞]させる. Phân biệt: に①=người bị sai khiến, に②=điểm đến."
     },
     {
       "id": 23,
       "level": 3,
-      "category": "使役受動形中級",
-      "category_vn": "Trung cấp — させられる: Chia dạng chính xác theo nhóm",
-      "question_ja": "次の動詞の使役受動形として正しいものはどれですか？「食べる」（グループ2）と「飲む」（グループ1）",
-      "question_vn": "Dạng sai khiến bị động của 「食べる」(nhóm 2) và 「飲む」(nhóm 1) là gì?",
-      "choices": {
-        "A": "食べさされる／飲まされる",
-        "B": "食べさせられる／飲まされる",
-        "C": "食べさせられる／飲ませられる",
-        "D": "食べられさせる／飲まれさせる"
-      },
+      "level_name": "Khá",
+      "category": "Trung cấp — させられる: Chia dạng chính xác theo nhóm",
+      "question_jp": "次の動詞の使役受動形として、最も一般的に使われる形の組み合わせはどれですか？「食べる」（グループ2）と「飲む」（グループ1）",
+      "question_vn": "Tổ hợp nào là dạng sai khiến bị động THÔNG DỤNG NHẤT của「食べる」(nhóm 2) và「飲む」(nhóm 1)?",
+      "choices": [
+        {
+          "key": "A",
+          "jp": "食べさされる／飲まされる",
+          "vn": "食べさされる／飲まされる"
+        },
+        {
+          "key": "B",
+          "jp": "食べさせられる／飲まされる",
+          "vn": "食べさせられる／飲まされる"
+        },
+        {
+          "key": "C",
+          "jp": "食べさせられる／飲ませられる",
+          "vn": "食べさせられる／飲ませられる"
+        },
+        {
+          "key": "D",
+          "jp": "食べられさせる／飲まれさせる",
+          "vn": "食べられさせる／飲まれさせる"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "【グループ2（一段活用）】食べる → 食べさせられる (KHÔNG rút gọn). 「食べさされる」= SAI. ①グループ2 KHÔNG rút gọn させられる thành される. 【グループ1（五段活用）】飲む → 飲ませられる → rút gọn thành 飲まされる. ①グループ1 CÓ THỂ rút gọn: 飲ませられる ≈ 飲まされる. (C) 飲ませられる = dạng đầy đủ của nhóm 1, cũng đúng. Đáp án B = kết hợp phổ biến nhất.",
-      "tip": "⚠️ Rút gọn させられる: Chỉ áp dụng cho グループ1 (五段): 書かせられる→書かされる, 飲ませられる→飲まされる. KHÔNG áp dụng cho グループ2: 食べさせられる (KHÔNG nói 食べさされる)."
+      "explanation": "【Nhóm 2 (一段活用)】食べる → 食べさせられる (KHÔNG rút gọn được). 「食べさされる」= SAI, không tồn tại. 【Nhóm 1 (五段活用)】飲む → 飲ませられる, và có thể rút gọn thành 飲まされる — dạng rút gọn này mới là dạng ĐƯỢC DÙNG PHỔ BIẾN NHẤT trong tiếng Nhật đời thường. Vậy tổ hợp thông dụng nhất là 食べさせられる／飲まされる → đáp án B. (C) 食べさせられる／飲ませられる cũng ĐÚNG hoàn toàn về ngữ pháp (飲ませられる là dạng đầy đủ chuẩn), nhưng ít dùng hơn 飲まされる trong thực tế nên không phải đáp án cho câu hỏi 'thông dụng nhất'. (A) và (D) đều chứa dạng không tồn tại.",
+      "tip": "⚠️ Rút gọn させられる: Chỉ áp dụng cho nhóm 1 (五段): 書かせられる→書かされる, 飲ませられる→飲まされる (dạng rút gọn thông dụng hơn). KHÔNG áp dụng cho nhóm 2: 食べさせられる (KHÔNG nói 食べさされる). Lưu ý riêng: nhóm 1 đuôi す (話す) KHÔNG rút gọn được — 話させられる, không có 話さされる, vì chuỗi さ-さ bị trùng lặp."
     },
     {
       "id": 24,
       "level": 3,
-      "category": "受動形中級",
-      "category_vn": "Trung cấp — Bị động gián tiếp: Chuyển đổi trợ từ",
-      "question_ja": "「友人が私のパソコンを壊した。」これを私を主語にした受身文に変えると？",
+      "level_name": "Khá",
+      "category": "Trung cấp — Bị động gián tiếp: Chuyển đổi trợ từ",
+      "question_jp": "「友人が私のパソコンを壊した。」これを私を主語にした受身文に変えると？",
       "question_vn": "\"Bạn tôi làm hỏng máy tính của tôi.\" Chuyển sang câu bị động với 私 làm chủ ngữ.",
-      "choices": {
-        "A": "私は友人にパソコンを壊された。",
-        "B": "私は友人にパソコンが壊された。",
-        "C": "私は友人によってパソコンを壊された。",
-        "D": "私は友人からパソコンが壊された。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "私は友人にパソコンを壊された。",
+          "vn": "私は友人にパソコンを壊された。"
+        },
+        {
+          "key": "B",
+          "jp": "私は友人にパソコンが壊された。",
+          "vn": "私は友人にパソコンが壊された。"
+        },
+        {
+          "key": "C",
+          "jp": "私は友人によってパソコンを壊された。",
+          "vn": "私は友人によってパソコンを壊された。"
+        },
+        {
+          "key": "D",
+          "jp": "私は友人からパソコンが壊された。",
+          "vn": "私は友人からパソコンが壊された。"
+        }
+      ],
       "answer": "A",
-      "explanation_vn": "Câu chủ động: 友人が + 私の + パソコンを + 壊した → Bị động sở hữu chủ (持ち主の受身): 私は + 友人に + パソコンを + 壊された. Vì パソコン là vật SỞ HỮU của người bị hại (私), và 私 làm chủ ngữ, nên パソコン GIỮ NGUYÊN を. Đây là dạng bị động đặc trưng của tiếng Nhật: [người bị hại]は + [tác nhân]に + [vật sở hữu]を + [động từ bị động]. (B) 「パソコンが壊された」= SAI vì が chỉ dùng khi VẬT làm chủ ngữ (không có 私は). (C) によって ít tự nhiên với người quen. (D) から sai trợ từ tác nhân.",
+      "explanation": "Câu chủ động: 友人が + 私の + パソコンを + 壊した → Bị động sở hữu chủ (持ち主の受身): 私は + 友人に + パソコンを + 壊された. Vì パソコン là vật SỞ HỮU của người bị hại (私), và 私 làm chủ ngữ, nên パソコン GIỮ NGUYÊN を. Đây là dạng bị động đặc trưng của tiếng Nhật: [người bị hại]は + [tác nhân]に + [vật sở hữu]を + [động từ bị động]. (B) 「パソコンが壊された」= SAI vì が chỉ dùng khi VẬT làm chủ ngữ (không có 私は). (C) によって ít tự nhiên với người quen. (D) から sai trợ từ tác nhân.",
       "tip": "Bị động sở hữu chủ: [A]が[B]の[C]を壊した → [B]は[A]に[C]を壊された. Vật sở hữu GIỮ を vì người bị hại đã là chủ ngữ. を KHÔNG đổi thành が ở dạng này!"
     },
     {
       "id": 25,
       "level": 3,
-      "category": "使役形中級",
-      "category_vn": "Trung cấp — させてもらう vs させていただく",
-      "question_ja": "「先週の失敗について、一言（　）。」ビジネス会議での発言として最も適切なものはどれですか？",
+      "level_name": "Khá",
+      "category": "Trung cấp — させてもらう vs させていただく",
+      "question_jp": "「先週の失敗について、一言（　）。」ビジネス会議での発言として最も適切なものはどれですか？",
       "question_vn": "\"Cho phép tôi nói một lời về thất bại tuần trước.\" Trong cuộc họp kinh doanh, cách nói phù hợp nhất là gì?",
-      "choices": {
-        "A": "言わせてください。",
-        "B": "言わせてもらいます。",
-        "C": "言わせていただいてよろしいでしょうか。",
-        "D": "言わせられます。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "一言、言わせてください。",
+          "vn": "Cho tôi nói một lời. (させてください)"
+        },
+        {
+          "key": "B",
+          "jp": "一言、言わせてもらいます。",
+          "vn": "Tôi sẽ nói một lời. (させてもらう)"
+        },
+        {
+          "key": "C",
+          "jp": "言わせていただいてよろしいでしょうか。",
+          "vn": "言わせていただいてよろしいでしょうか。(させていただく)"
+        },
+        {
+          "key": "D",
+          "jp": "一言、言わせられます。",
+          "vn": "Tôi bị bắt nói một lời. (させられる)"
+        }
+      ],
       "answer": "C",
-      "explanation_vn": "「言わせていただいてよろしいでしょうか」= lịch sự nhất — kép: させていただく (xin phép) + てよろしいでしょうか (có được không). Thể hiện sự khiêm tốn cao nhất khi xin phép phát biểu. (A) させてください = thường, trong họp hơi trực tiếp. (B) させてもらいます = thiếu lịch sự với đối tác, nghe như mình tự quyết. (D) させられます = bị ép — sai hoàn toàn về nghĩa.",
+      "explanation": "「言わせていただいてよろしいでしょうか」= lịch sự nhất — kép: させていただく (xin phép) + てよろしいでしょうか (có được không). Thể hiện sự khiêm tốn cao nhất khi xin phép phát biểu. (A) させてください = thường, trong họp hơi trực tiếp. (B) させてもらいます = thiếu lịch sự với đối tác, nghe như mình tự quyết. (D) させられます = bị ép — sai hoàn toàn về nghĩa.",
       "tip": "Xin phép phát biểu trong họp: 「〜させていただいてよろしいでしょうか」(lịch sự nhất) > 「〜させてください」(trực tiếp) > 「〜させてもらいます」(thân mật)."
     },
     {
       "id": 26,
       "level": 3,
-      "category": "使役受動形中級",
-      "category_vn": "Trung cấp — させられる biểu đạt cảm xúc tích cực",
-      "question_ja": "「あの映画には本当に感動させられた。」この「させられた」の意味として正しいものはどれですか？",
+      "level_name": "Khá",
+      "category": "Trung cấp — させられる biểu đạt cảm xúc tích cực",
+      "question_jp": "「あの映画には本当に感動させられた。」この「させられた」の意味として正しいものはどれですか？",
       "question_vn": "\"Bộ phim đó thật sự khiến tôi xúc động.\" Ý nghĩa của 「させられた」ở đây là gì?",
-      "choices": {
-        "A": "誰かに強制されて感動した（不本意）",
-        "B": "映画の力によって自然に感動してしまった（自発的・強制力）",
-        "C": "自分で進んで感動した",
-        "D": "映画が感動した"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "誰かに強制されて感動した（不本意）",
+          "vn": "Bị ai đó ép buộc nên mới cảm động (bất đắc dĩ)"
+        },
+        {
+          "key": "B",
+          "jp": "映画の力によって自然に感動してしまった",
+          "vn": "Bị sức mạnh của bộ phim cuốn vào nên tự nhiên cảm động"
+        },
+        {
+          "key": "C",
+          "jp": "自分から進んで感動しようと努力した",
+          "vn": "Tự bản thân chủ động cố gắng để cảm động"
+        },
+        {
+          "key": "D",
+          "jp": "映画そのものが何かに感動させられた",
+          "vn": "Bản thân bộ phim bị cái gì đó làm cho cảm động"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "「感動させられた」= Bị phim khiến cảm động — đây là trường hợp ĐẶC BIỆT của させられる: KHÔNG mang hàm ý bất đắc dĩ (tiêu cực) mà thể hiện sức mạnh của đối tượng (phim, âm nhạc, thiên nhiên) khiến bạn TỰ NHIÊN CẢM THẤY điều gì đó. Tương tự: 「考えさせられた」(khiến tôi phải suy nghĩ), 「驚かされた」(khiến tôi kinh ngạc). Đây là dạng させられる CẢM XÚC — khác với させられる ép buộc.",
+      "explanation": "「感動させられた」= Bị phim khiến cảm động — đây là trường hợp ĐẶC BIỆT của させられる: KHÔNG mang hàm ý bất đắc dĩ (tiêu cực) mà thể hiện sức mạnh của đối tượng (phim, âm nhạc, thiên nhiên) khiến bạn TỰ NHIÊN CẢM THẤY điều gì đó. Tương tự: 「考えさせられた」(khiến tôi phải suy nghĩ), 「驚かされた」(khiến tôi kinh ngạc). Đây là dạng させられる CẢM XÚC — khác với させられる ép buộc.",
       "tip": "させられる CÓ 2 loại: ①Ép buộc (残業させられた = bị ép làm thêm — tiêu cực). ②Cảm xúc tự nhiên (感動させられた = bị cuốn vào cảm xúc — trung tính/tích cực). Xem ngữ cảnh!"
     },
     {
       "id": 27,
       "level": 3,
-      "category": "受動形中級",
-      "category_vn": "Trung cấp — Kết hợp bị động với kính ngữ",
-      "question_ja": "「部長に新しいプロジェクトを任（　）、光栄に思います。」最も適切な表現はどれですか？",
+      "level_name": "Khá",
+      "category": "Trung cấp — Kết hợp bị động với kính ngữ",
+      "question_jp": "「部長に新しいプロジェクトを任（　）、光栄に思います。」最も適切な表現はどれですか？",
       "question_vn": "\"Được trưởng phòng giao dự án mới, tôi cảm thấy vinh dự.\" Điền vào chỗ trống.",
-      "choices": {
-        "A": "せられて",
-        "B": "されて",
-        "C": "させられて",
-        "D": "いただいて"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "せられて",
+          "vn": "せられて"
+        },
+        {
+          "key": "B",
+          "jp": "されて",
+          "vn": "されて (bị động)"
+        },
+        {
+          "key": "C",
+          "jp": "させられて",
+          "vn": "させられて (sai khiến bị động)"
+        },
+        {
+          "key": "D",
+          "jp": "いただいて",
+          "vn": "いただいて (cho–nhận, khiêm nhường)"
+        }
+      ],
       "answer": "D",
-      "explanation_vn": "「新しいプロジェクトを任せていただいて、光栄に思います」= ĐÚNG VÀ TỰ NHIÊN NHẤT. 任せていただく = được (trưởng phòng) giao cho (khiêm ngữ, biết ơn). Trong kinh doanh, 「〜していただく」thường được dùng thay cho bị động khi muốn thể hiện lòng biết ơn với bề trên. (B) 「任されて」= bị động thường — đúng ngữ pháp nhưng thiếu sắc thái biết ơn. (C) 「任させられて」= sai khiến bị động — hàm ý bất đắc dĩ, không phù hợp với 光栄.",
+      "explanation": "「新しいプロジェクトを任せていただいて、光栄に思います」= ĐÚNG VÀ TỰ NHIÊN NHẤT. 任せていただく = được (trưởng phòng) giao cho (khiêm ngữ, biết ơn). Trong kinh doanh, 「〜していただく」thường được dùng thay cho bị động khi muốn thể hiện lòng biết ơn với bề trên. (B) 「任されて」= bị động thường — đúng ngữ pháp nhưng thiếu sắc thái biết ơn. (C) 「任させられて」= sai khiến bị động — hàm ý bất đắc dĩ, không phù hợp với 光栄.",
       "tip": "Khi muốn nói 'được giao/được nhờ' + biết ơn → 〜ていただく là chọn lựa tốt nhất trong kinh doanh. Bị động (〜される) đúng nhưng trung tính hơn."
     },
     {
       "id": 28,
       "level": 3,
-      "category": "使役形中級・助詞",
-      "category_vn": "Trung cấp — Trợ từ trong câu sai khiến phức tạp 4 thành phần",
-      "question_ja": "「私は部長（　）山田さん（　）得意先（　）謝りに行か（　）た。」助詞と語尾の正しい組み合わせはどれですか？",
+      "level_name": "Khá",
+      "category": "Trung cấp — Trợ từ trong câu sai khiến phức tạp 4 thành phần",
+      "question_jp": "「私は部長（　）山田さん（　）得意先（　）謝りに行か（　）た。」助詞と語尾の正しい組み合わせはどれですか？",
       "question_vn": "\"Tôi được/bị sếp sai Yamada đến xin lỗi khách hàng quan trọng.\" Điền đúng trợ từ và đuôi động từ.",
-      "choices": {
-        "A": "に／を／に／せ",
-        "B": "が／に／へ／せられ",
-        "C": "に／に／に／せ",
-        "D": "を／が／で／れ"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "に／を／に／せ",
+          "vn": "に／を／に／せ"
+        },
+        {
+          "key": "B",
+          "jp": "が／に／へ／せられ",
+          "vn": "が／に／へ／せられ"
+        },
+        {
+          "key": "C",
+          "jp": "に／に／に／せ",
+          "vn": "に／に／に／せ"
+        },
+        {
+          "key": "D",
+          "jp": "を／が／で／れ",
+          "vn": "を／が／で／れ"
+        }
+      ],
       "answer": "A",
-      "explanation_vn": "Phân tích: 私は + 部長（người sai）に + 山田さん（người bị sai）を + 得意先（đích đến）に + 謝りに行かせた. ①部長に = tác nhân sai khiến. ②山田さんを = 自動詞（行く）使役 → を (ép buộc đi). ③得意先に = điểm đến (行く hướng đến). ④行かせた = 行く → 行かせる (sai khiến). Câu đầy đủ: 「部長に山田さんを得意先に謝りに行かせた」.",
+      "explanation": "Phân tích: 私は + 部長（người sai）に + 山田さん（người bị sai）を + 得意先（đích đến）に + 謝りに行かせた. ①部長に = tác nhân sai khiến. ②山田さんを = 自動詞（行く）使役 → を (ép buộc đi). ③得意先に = điểm đến (行く hướng đến). ④行かせた = 行く → 行かせる (sai khiến). Câu đầy đủ: 「部長に山田さんを得意先に謝りに行かせた」.",
       "tip": "Câu sai khiến 4 thành phần với 自動詞: [người sai]に + [người bị sai]を + [đích]に + [動詞]させる. を ở đây cho người bị sai vì 行く = 自動詞 (không có tân ngữ)."
     },
     {
       "id": 29,
       "level": 3,
-      "category": "受動形中級",
-      "category_vn": "Trung cấp — Bị động trong quy định & văn bản pháp lý",
-      "question_ja": "「違反した場合は、登録（　）取り消し（　）場合があります。」正しい組み合わせはどれですか？",
+      "level_name": "Khá",
+      "category": "Trung cấp — Bị động trong quy định & văn bản pháp lý",
+      "question_jp": "「違反した場合は、登録（　）取り消し（　）場合があります。」正しい組み合わせはどれですか？",
       "question_vn": "\"Trong trường hợp vi phạm, có thể bị thu hồi đăng ký.\" Điền vào chỗ trống.",
-      "choices": {
-        "A": "を／する",
-        "B": "が／される",
-        "C": "を／される",
-        "D": "は／させる"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "を／する",
+          "vn": "を／する"
+        },
+        {
+          "key": "B",
+          "jp": "が／される",
+          "vn": "が／される"
+        },
+        {
+          "key": "C",
+          "jp": "を／される",
+          "vn": "を／される"
+        },
+        {
+          "key": "D",
+          "jp": "は／させる",
+          "vn": "は／させる"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "「登録が取り消される場合があります」= ĐÚNG. 登録 = chủ thể của câu bị động → が. 取り消される = được thu hồi (bị động của 取り消す). Trong văn bản pháp lý/quy định: Bị động được dùng để thể hiện rằng chủ thể (tổ chức, cơ quan) không cần nêu rõ. (A) 「登録を取り消す」= chủ động — ai là chủ thể? Không rõ. (C) 「登録を取り消される」= SAI — trong câu bị động, 登録 phải là が không phải を.",
+      "explanation": "「登録が取り消される場合があります」= ĐÚNG. 登録 = chủ thể của câu bị động → が. 取り消される = được thu hồi (bị động của 取り消す). Trong văn bản pháp lý/quy định: Bị động được dùng để thể hiện rằng chủ thể (tổ chức, cơ quan) không cần nêu rõ. (A) 「登録を取り消す」= chủ động — ai là chủ thể? Không rõ. (C) 「登録を取り消される」= SAI — trong câu bị động, 登録 phải là が không phải を.",
       "tip": "Văn bản quy định thường dùng bị động: 「〜が行われます」「〜が禁止されます」「〜が取り消されます」— tạo văn phong khách quan, quyền uy."
     },
     {
       "id": 30,
       "level": 3,
-      "category": "使役受動形中級",
-      "category_vn": "Trung cấp — させられる trong môi trường kinh doanh",
-      "question_ja": "部下が上司について話している。「毎週、意味のない報告書を（　）、本当に時間の無駄だと思っています。」最も自然な表現はどれですか？",
+      "level_name": "Khá",
+      "category": "Trung cấp — させられる trong môi trường kinh doanh",
+      "question_jp": "部下が上司について話している。「毎週、意味のない報告書を（　）、本当に時間の無駄だと思っています。」最も自然な表現はどれですか？",
       "question_vn": "Nhân viên nói về sếp: \"Mỗi tuần bị bắt (làm) báo cáo vô nghĩa, thật sự là lãng phí thời gian.\" Điền vào chỗ trống tự nhiên nhất.",
-      "choices": {
-        "A": "書かせます",
-        "B": "書かされています",
-        "C": "書かせていただいています",
-        "D": "書かれています"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "書かせます",
+          "vn": "書かせます (tôi sai người khác viết)"
+        },
+        {
+          "key": "B",
+          "jp": "書かされています",
+          "vn": "書かされています (bị bắt viết, đang diễn ra)"
+        },
+        {
+          "key": "C",
+          "jp": "書かせていただいています",
+          "vn": "書かせていただいています (tôi xin phép viết)"
+        },
+        {
+          "key": "D",
+          "jp": "書かれています",
+          "vn": "書かれています (bị động của 書く)"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "「書かされています」= 書かせられています (rút gọn) = Bị bắt viết (đang diễn ra, bất đắc dĩ). Phù hợp ngữ cảnh: nhân viên phàn nàn về sếp → させられる (bất đắc dĩ) là đúng. (A) 「書かせます」= tôi sai người khác viết — sai chủ thể. (C) 「書かせていただいています」= tôi đang xin phép viết — tích cực, không phàn nàn. (D) 「書かれています」= bị động của 書く — sách/văn bản được viết, không phải người bị ép viết.",
+      "explanation": "「書かされています」= 書かせられています (rút gọn) = Bị bắt viết (đang diễn ra, bất đắc dĩ). Phù hợp ngữ cảnh: nhân viên phàn nàn về sếp → させられる (bất đắc dĩ) là đúng. (A) 「書かせます」= tôi sai người khác viết — sai chủ thể. (C) 「書かせていただいています」= tôi đang xin phép viết — tích cực, không phàn nàn. (D) 「書かれています」= bị động của 書く — sách/văn bản được viết, không phải người bị ép viết.",
       "tip": "させられる (= させられている khi đang diễn ra) = diễn đạt SỰ PHÀN NÀN về điều bị ép. Rất hữu ích trong văn nói khi kể về tình huống bất đắc dĩ."
     },
     {
       "id": 31,
       "level": 4,
-      "category": "受動形上級・助詞誤り検出",
-      "category_vn": "Nâng cao — Phát hiện lỗi trợ từ trong câu bị động",
-      "question_ja": "次の文の中で助詞の誤りがある文はどれですか？",
+      "level_name": "Khó",
+      "category": "Nâng cao — Phát hiện lỗi trợ từ trong câu bị động",
+      "question_jp": "次の文の中で助詞の誤りがある文はどれですか？",
       "question_vn": "Câu nào có lỗi trợ từ trong câu bị động?",
-      "choices": {
-        "A": "私は上司に報告書の修正を頼まれた。",
-        "B": "この発明はエジソンによって発見された。",
-        "C": "彼女は同僚を悪口を言われた。",
-        "D": "新しい規則は委員会によって制定された。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "私は上司に報告書の修正を頼まれた。",
+          "vn": "私は上司に報告書の修正を頼まれた。"
+        },
+        {
+          "key": "B",
+          "jp": "この発明はエジソンによって発見された。",
+          "vn": "この発明はエジソンによって発見された。"
+        },
+        {
+          "key": "C",
+          "jp": "彼女は同僚を悪口を言われた。",
+          "vn": "彼女は同僚を悪口を言われた。"
+        },
+        {
+          "key": "D",
+          "jp": "新しい規則は委員会によって制定された。",
+          "vn": "新しい規則は委員会によって制定された。"
+        }
+      ],
       "answer": "C",
-      "explanation_vn": "（C）「同僚を悪口を言われた」= LỖI. 「悪口を言う」是 他動詞 — 「悪口」là tân ngữ của 言う. Khi chuyển sang bị động gián tiếp: 「悪口」trở thành が không phải を: 「彼女は同僚に悪口が言われた」. Hoặc đúng hơn: 「彼女は同僚に悪口を言われた」(trong một số bị động gián tiếp, を có thể giữ nguyên khi muốn nhấn mạnh nội dung hơn là vật bị tác động trực tiếp). Nhưng 「同僚を」= người tác nhân mà dùng を → SAI (tác nhân người phải là に). Lỗi ở 「同僚を」→ phải là 「同僚に」.",
-      "tip": "Tác nhân (người gây ra hành động) trong câu bị động LUÔN LUÔN dùng に. KHÔNG BAO GIỜ dùng を cho tác nhân người: 「上司を叱られた」→ SAI, phải là 「上司に叱られた」."
+      "explanation": "（C）「彼女は同僚を悪口を言われた」= LỖI ở trợ từ đánh dấu TÁC NHÂN. 「同僚」là người gây ra hành động (người nói xấu) — trong câu bị động, tác nhân là NGƯỜI thì bắt buộc dùng に, không bao giờ dùng を. Câu đúng duy nhất là: 「彼女は同僚に悪口を言われた」. Chú ý: 「悪口」GIỮ NGUYÊN trợ từ を vì đây là bị động thiệt hại (迷惑の受身) — người bị hại (彼女) đã làm chủ ngữ nên tân ngữ giữ を, đúng theo quy tắc đã học ở các câu 3, 14, 24 và 39 cùng bộ. Các phương án A, B, D đều dùng trợ từ đúng: 上司に (tác nhân người), エジソンによって (nhà phát minh), 委員会によって (tổ chức).",
+      "tip": "Tác nhân là NGƯỜI trong câu bị động LUÔN dùng に, không bao giờ を: 「上司に叱られた」✅ /「上司を叱られた」❌. Còn tân ngữ trong bị động thiệt hại thì GIỮ を: 「悪口を言われた」✅."
     },
     {
       "id": 32,
       "level": 4,
-      "category": "使役形上級・助詞誤り検出",
-      "category_vn": "Nâng cao — Phát hiện lỗi trợ từ trong câu sai khiến",
-      "question_ja": "次の文の中で助詞の誤りがある文はどれですか？",
+      "level_name": "Khó",
+      "category": "Nâng cao — Phát hiện lỗi trợ từ trong câu sai khiến",
+      "question_jp": "次の文の中で助詞の誤りがある文はどれですか？",
       "question_vn": "Câu nào có lỗi trợ từ trong câu sai khiến?",
-      "choices": {
-        "A": "先生は生徒に本を読ませた。",
-        "B": "母は子どもを早く寝かせた。",
-        "C": "部長は部下に資料を作成させた。",
-        "D": "社長は社員を報告書を書かせた。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "先生は生徒に本を読ませた。",
+          "vn": "先生は生徒に本を読ませた。"
+        },
+        {
+          "key": "B",
+          "jp": "母は子どもを早く寝かせた。",
+          "vn": "母は子どもを早く寝かせた。"
+        },
+        {
+          "key": "C",
+          "jp": "部長は部下に資料を作成させた。",
+          "vn": "部長は部下に資料を作成させた。"
+        },
+        {
+          "key": "D",
+          "jp": "社長は社員を報告書を書かせた。",
+          "vn": "社長は社員を報告書を書かせた。"
+        }
+      ],
       "answer": "D",
-      "explanation_vn": "（D）「社員を報告書を書かせた」= LỖI. 書く = 他動詞 (có tân ngữ を). Khi sai khiến 他動詞: Người bị sai PHẢI dùng に (không phải を) vì を đã được dùng cho tân ngữ (報告書を). 「社員を〜報告書を書かせた」= 2 lần を → SAI. Đúng: 「社員に報告書を書かせた」. (A) 他動詞 読む → 生徒に本を ✓. (B) 自動詞 寝る → 子どもを ✓ (を cho 自動詞 sai khiến). (C) 他動詞 作成する → 部下に資料を ✓.",
+      "explanation": "（D）「社員を報告書を書かせた」= LỖI. 書く = 他動詞 (có tân ngữ を). Khi sai khiến 他動詞: Người bị sai PHẢI dùng に (không phải を) vì を đã được dùng cho tân ngữ (報告書を). 「社員を〜報告書を書かせた」= 2 lần を → SAI. Đúng: 「社員に報告書を書かせた」. (A) 他動詞 読む → 生徒に本を ✓. (B) 自動詞 寝る → 子どもを ✓ (を cho 自動詞 sai khiến). (C) 他動詞 作成する → 部下に資料を ✓.",
       "tip": "LỖI THƯỜNG GẶP trong sai khiến 他動詞: Dùng を cho cả người bị sai VÀ tân ngữ. Nhớ: 他動詞 使役 → [người]に + [vật]を. 自動詞 使役 → [người]を hoặc に + (không có tân ngữ)."
     },
     {
       "id": 33,
       "level": 4,
-      "category": "使役受動形上級",
-      "category_vn": "Nâng cao — Phân biệt 4 dạng động từ: する/される/させる/させられる",
-      "question_ja": "「発表」を使った4つの文の意味の組み合わせとして正しいものはどれですか？\n①発表する ②発表される ③発表させる ④発表させられる",
+      "level_name": "Khó",
+      "category": "Nâng cao — Phân biệt 4 dạng động từ: する/される/させる/させられる",
+      "question_jp": "「発表」を使った4つの文の意味の組み合わせとして正しいものはどれですか？\n①発表する ②発表される ③発表させる ④発表させられる",
       "question_vn": "4 câu với 「発表」. Ghép nghĩa đúng cho từng dạng.",
-      "choices": {
-        "A": "①tôi phát biểu ②được phát biểu (bị động) ③bắt phát biểu ④bị bắt phát biểu",
-        "B": "①tôi phát biểu ②bị bắt phát biểu ③được phép phát biểu ④bắt phát biểu",
-        "C": "①tôi phát biểu ②người khác phát biểu ③tôi phát biểu lịch sự ④bị bắt phát biểu",
-        "D": "①②③④ đều có nghĩa như nhau"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "①tôi phát biểu ②được phát biểu (bị động) ③bắt phát biểu ④bị bắt phát biểu",
+          "vn": "① tôi phát biểu ② được phát biểu (bị động) ③ bắt phát biểu ④ bị bắt phát biểu"
+        },
+        {
+          "key": "B",
+          "jp": "①tôi phát biểu ②bị bắt phát biểu ③được phép phát biểu ④bắt phát biểu",
+          "vn": "① tôi phát biểu ② bị bắt phát biểu ③ được phép phát biểu ④ bắt phát biểu"
+        },
+        {
+          "key": "C",
+          "jp": "①tôi phát biểu ②người khác phát biểu ③tôi phát biểu lịch sự ④bị bắt phát biểu",
+          "vn": "① tôi phát biểu ② người khác phát biểu ③ tôi phát biểu lịch sự ④ bị bắt phát biểu"
+        },
+        {
+          "key": "D",
+          "jp": "①②③④ đều có nghĩa như nhau",
+          "vn": "Cả ①②③④ đều có nghĩa như nhau"
+        }
+      ],
       "answer": "A",
-      "explanation_vn": "①【発表する】= TÔI phát biểu (chủ động, tự nguyện). ②【発表される】= Được phát biểu/được công bố (bị động — chủ thể là nội dung/thông tin, hoặc tôi bị ai đó công bố). ③【発表させる】= Bắt/cho ai đó phát biểu (sai khiến — tôi là người chỉ đạo). ④【発表させられる】= Tôi bị ép phải phát biểu (sai khiến bị động — bất đắc dĩ). Đây là 4 dạng cơ bản tạo ra 4 nghĩa khác nhau hoàn toàn.",
+      "explanation": "①【発表する】= TÔI phát biểu (chủ động, tự nguyện). ②【発表される】= Được phát biểu/được công bố (bị động — chủ thể là nội dung/thông tin, hoặc tôi bị ai đó công bố). ③【発表させる】= Bắt/cho ai đó phát biểu (sai khiến — tôi là người chỉ đạo). ④【発表させられる】= Tôi bị ép phải phát biểu (sai khiến bị động — bất đắc dĩ). Đây là 4 dạng cơ bản tạo ra 4 nghĩa khác nhau hoàn toàn.",
       "tip": "Bộ 4 dạng: する(chủ động) → される(bị động) → させる(sai khiến) → させられる(sai khiến bị động). Thuộc lòng 4 dạng này với 1 động từ quen thuộc!"
     },
     {
       "id": 34,
       "level": 4,
-      "category": "受動形上級",
-      "category_vn": "Nâng cao — れる/られる: Phân biệt 4 nghĩa trong ngữ cảnh",
-      "question_ja": "次の文の「られる」の意味を正しく判断してください。\n「この詩は100年前に書かれたもので、今でも多くの人に読まれている。」",
+      "level_name": "Khó",
+      "category": "Nâng cao — れる/られる: Phân biệt 4 nghĩa trong ngữ cảnh",
+      "question_jp": "次の文の「られる」の意味を正しく判断してください。\n「この詩は100年前に書かれたもので、今でも多くの人に読まれている。」",
       "question_vn": "Trong câu: \"Bài thơ này được viết 100 năm trước và vẫn được nhiều người đọc đến nay.\" Cả 2 「られ」là nghĩa gì?",
-      "choices": {
-        "A": "書かれた＝受身、読まれている＝尊敬",
-        "B": "書かれた＝受身、読まれている＝受身",
-        "C": "書かれた＝尊敬、読まれている＝受身",
-        "D": "書かれた＝可能、読まれている＝自発"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "書かれた＝受身、読まれている＝尊敬",
+          "vn": "書かれた = bị động, 読まれている = tôn kính"
+        },
+        {
+          "key": "B",
+          "jp": "書かれた＝受身、読まれている＝受身",
+          "vn": "書かれた = bị động, 読まれている = bị động"
+        },
+        {
+          "key": "C",
+          "jp": "書かれた＝尊敬、読まれている＝受身",
+          "vn": "書かれた = tôn kính, 読まれている = bị động"
+        },
+        {
+          "key": "D",
+          "jp": "書かれた＝可能、読まれている＝自発",
+          "vn": "書かれた = khả năng, 読まれている = tự phát"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "①「書かれた」= BỊ ĐỘNG — bài thơ được (ai đó) viết. Tác nhân không rõ nhưng có thể hiểu là によって (〜によって書かれた). ②「読まれている」= BỊ ĐỘNG — bài thơ được (nhiều người) đọc. Cả 2 đều là bị động vì chủ thể là 詩 (vật thụ động). Phân biệt: Nếu chủ thể là NGƯỜI BỀ TRÊN → tôn kính. Nếu chủ thể là VẬT → bị động. 詩 là vật → bị động.",
+      "explanation": "①「書かれた」= BỊ ĐỘNG — bài thơ được (ai đó) viết. Tác nhân không rõ nhưng có thể hiểu là によって (〜によって書かれた). ②「読まれている」= BỊ ĐỘNG — bài thơ được (nhiều người) đọc. Cả 2 đều là bị động vì chủ thể là 詩 (vật thụ động). Phân biệt: Nếu chủ thể là NGƯỜI BỀ TRÊN → tôn kính. Nếu chủ thể là VẬT → bị động. 詩 là vật → bị động.",
       "tip": "Cách phân biệt nhanh れる/られる: Chủ thể là VẬT → Bị động. Chủ thể là NGƯỜI BỀ TRÊN + không có tác nhân → Tôn kính. Có tác nhân に hoặc によって → Bị động."
     },
     {
       "id": 35,
       "level": 4,
-      "category": "使役形上級",
-      "category_vn": "Nâng cao — Sai khiến trong văn bản quy định công ty",
-      "question_ja": "社内規定の文として最も適切なものはどれですか？",
+      "level_name": "Khó",
+      "category": "Nâng cao — Sai khiến trong văn bản quy định công ty",
+      "question_jp": "社内規定の文として最も適切なものはどれですか？",
       "question_vn": "Câu nội quy công ty nào được viết ĐÚNG nhất?",
-      "choices": {
-        "A": "全社員は毎月安全訓練に参加する。",
-        "B": "部門長は全社員を毎月安全訓練に参加させなければならない。",
-        "C": "全社員は毎月安全訓練に参加させる。",
-        "D": "部門長は全社員によって毎月安全訓練に参加させられる。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "全社員は毎月安全訓練に参加する。",
+          "vn": "Toàn thể nhân viên tham gia huấn luyện an toàn hằng tháng."
+        },
+        {
+          "key": "B",
+          "jp": "部門長は全社員を毎月安全訓練に参加させなければならない。",
+          "vn": "Trưởng bộ phận phải cho toàn thể nhân viên tham gia huấn luyện an toàn hằng tháng."
+        },
+        {
+          "key": "C",
+          "jp": "全社員は毎月安全訓練に参加させる。",
+          "vn": "Toàn thể nhân viên bắt (người khác) tham gia huấn luyện an toàn hằng tháng."
+        },
+        {
+          "key": "D",
+          "jp": "部門長は全社員によって毎月安全訓練に参加させられる。",
+          "vn": "Trưởng bộ phận bị toàn thể nhân viên bắt tham gia huấn luyện an toàn hằng tháng."
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "「部門長は全社員を毎月安全訓練に参加させなければならない」= ĐÚNG. Phân tích: 部門長（người sai khiến）は + 全社員（người bị sai）を + 安全訓練に + 参加させる（使役）+ なければならない（nghĩa vụ). 参加する = 自動詞 → 全社員を（を cho 自動詞 使役). (A) chủ động đơn giản — đúng ngữ pháp nhưng không rõ ai chịu trách nhiệm. (C) 全社員は〜させる = nhân viên bắt người khác → sai chủ thể. (D) によって sai vị trí.",
+      "explanation": "「部門長は全社員を毎月安全訓練に参加させなければならない」= ĐÚNG. Phân tích: 部門長（người sai khiến）は + 全社員（người bị sai）を + 安全訓練に + 参加させる（使役）+ なければならない（nghĩa vụ). 参加する = 自動詞 → 全社員を（を cho 自動詞 使役). (A) chủ động đơn giản — đúng ngữ pháp nhưng không rõ ai chịu trách nhiệm. (C) 全社員は〜させる = nhân viên bắt người khác → sai chủ thể. (D) によって sai vị trí.",
       "tip": "Trong nội quy, quy định: [người chịu trách nhiệm]は + [đối tượng]を/に + 〜させなければならない = công thức nghĩa vụ quản lý."
     },
     {
       "id": 36,
       "level": 4,
-      "category": "受動形上級",
-      "category_vn": "Nâng cao — Bị động trong văn bản báo cáo/công văn",
-      "question_ja": "公式な報告書の一文として最も適切なものはどれですか？",
+      "level_name": "Khó",
+      "category": "Nâng cao — Bị động trong văn bản báo cáo/công văn",
+      "question_jp": "公式な報告書の一文として最も適切なものはどれですか？",
       "question_vn": "Câu nào phù hợp nhất trong báo cáo chính thức?",
-      "choices": {
-        "A": "弊社は先月、新しい安全対策を実施しました。",
-        "B": "先月、新しい安全対策が弊社によって実施されました。",
-        "C": "先月、新しい安全対策が実施されました。",
-        "D": "弊社が先月、新しい安全対策を実施させました。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "弊社は先月、新しい安全対策を実施しました。",
+          "vn": "Công ty chúng tôi đã thực hiện biện pháp an toàn mới vào tháng trước. (chủ động)"
+        },
+        {
+          "key": "B",
+          "jp": "先月、新しい安全対策が弊社によって実施されました。",
+          "vn": "Tháng trước, biện pháp an toàn mới đã được công ty chúng tôi thực hiện. (bị động + によって)"
+        },
+        {
+          "key": "C",
+          "jp": "先月、新しい安全対策が実施されました。",
+          "vn": "Tháng trước, biện pháp an toàn mới đã được thực hiện. (bị động, không nêu chủ thể)"
+        },
+        {
+          "key": "D",
+          "jp": "弊社が先月、新しい安全対策を実施させました。",
+          "vn": "Công ty chúng tôi đã cho thực hiện biện pháp an toàn mới vào tháng trước. (sai khiến)"
+        }
+      ],
       "answer": "C",
-      "explanation_vn": "「先月、新しい安全対策が実施されました」= CHUẨN NHẤT cho báo cáo chính thức. Dùng bị động để tạo văn phong khách quan, không nhấn mạnh 'ai làm' mà nhấn mạnh 'việc đã được làm'. (A) chủ động với 弊社は = cũng đúng nhưng kém trang trọng hơn. (B) 「弊社によって」= 弊社 là tổ chức → によって đúng ngữ pháp nhưng trong báo cáo NỘI BỘ hơi kỳ (tự khen). (D) sai khiến = sai nghĩa.",
+      "explanation": "「先月、新しい安全対策が実施されました」= CHUẨN NHẤT cho báo cáo chính thức. Dùng bị động để tạo văn phong khách quan, không nhấn mạnh 'ai làm' mà nhấn mạnh 'việc đã được làm'. (A) chủ động với 弊社は = cũng đúng nhưng kém trang trọng hơn. (B) 「弊社によって」= 弊社 là tổ chức → によって đúng ngữ pháp nhưng trong báo cáo NỘI BỘ hơi kỳ (tự khen). (D) sai khiến = sai nghĩa.",
       "tip": "Báo cáo chính thức ưa bị động vì: Khách quan hơn, không xác định chủ thể cụ thể, mang tính tổ chức. 「〜が実施された」「〜が決定された」「〜が確認された」= mẫu phổ biến."
     },
     {
       "id": 37,
       "level": 4,
-      "category": "総合上級・助詞",
-      "category_vn": "Nâng cao — Phân tích đoạn văn có nhiều dạng động từ",
-      "question_ja": "次の文章の下線部（ア）〜（エ）の中で、文法的に誤っているものはどれですか？\n「昨日の会議では、新しいプロジェクトの担当者が（ア）発表された。田中さんが担当者に（イ）任命されたことで、部長は部下に準備書類（ウ）を作成させ、田中さん（エ）には内容を確認させられた。」",
+      "level_name": "Khó",
+      "category": "Nâng cao — Phân tích đoạn văn có nhiều dạng động từ",
+      "question_jp": "次の文章の下線部（ア）〜（エ）の中で、文法的に誤っているものはどれですか？\n「昨日の会議では、新しいプロジェクトの担当者が（ア）発表された。田中さんが担当者に（イ）任命されたことで、部長は部下に準備書類（ウ）を作成させ、田中さん（エ）には内容を確認させられた。」",
       "question_vn": "Trong đoạn văn trên, chỗ nào có LỖI ngữ pháp?",
-      "choices": {
-        "A": "（ア）発表された",
-        "B": "（イ）任命されたことで",
-        "C": "（ウ）を作成させ",
-        "D": "（エ）には内容を確認させられた"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "（ア）発表された",
+          "vn": "(ア) 発表された"
+        },
+        {
+          "key": "B",
+          "jp": "（イ）任命されたことで",
+          "vn": "(イ) 任命されたことで"
+        },
+        {
+          "key": "C",
+          "jp": "（ウ）準備書類を作成させ",
+          "vn": "(ウ) 準備書類を作成させ"
+        },
+        {
+          "key": "D",
+          "jp": "（エ）には内容を確認させられた",
+          "vn": "(エ) には内容を確認させられた"
+        }
+      ],
       "answer": "D",
-      "explanation_vn": "（エ）「田中さんには内容を確認させられた」= LỖI về cấu trúc使役/使役受動. Mạch văn trước đó là 「部長は部下に〜作成させ」(部長 đang SAI KHIẾN), nên vế sau phải tiếp tục dạng sai khiến: 「田中さんに内容を確認させた」(部長 sai 田中 xác nhận). Nhưng câu lại dùng 「確認させられた」(sai khiến BỊ ĐỘNG = bị ép) với 「田中さんには」— làm chủ thể bị ép không rõ ràng và mâu thuẫn với chủ ngữ 部長 của câu. Nếu muốn nói 田中 bị ép thì phải đổi chủ ngữ: 「田中さんが内容を確認させられた」. (ア)(イ)(ウ) đều đúng: 発表された (bị động)、任命された (bị động)、を作成させ (使役 với 他動詞).",
+      "explanation": "（エ）「田中さんには内容を確認させられた」= LỖI về cấu trúc使役/使役受動. Mạch văn trước đó là 「部長は部下に〜作成させ」(部長 đang SAI KHIẾN), nên vế sau phải tiếp tục dạng sai khiến: 「田中さんに内容を確認させた」(部長 sai 田中 xác nhận). Nhưng câu lại dùng 「確認させられた」(sai khiến BỊ ĐỘNG = bị ép) với 「田中さんには」— làm chủ thể bị ép không rõ ràng và mâu thuẫn với chủ ngữ 部長 của câu. Nếu muốn nói 田中 bị ép thì phải đổi chủ ngữ: 「田中さんが内容を確認させられた」. (ア)(イ)(ウ) đều đúng: 発表された (bị động)、任命された (bị động)、を作成させ (使役 với 他動詞).",
       "tip": "Phân tích lỗi kép: ①Kiểm tra chủ thể câu là ai (が hoặc は). ②Kiểm tra tác nhân (に). ③Kiểm tra tân ngữ (を). ④Kiểm tra dạng động từ phù hợp với nghĩa câu."
     },
     {
       "id": 38,
       "level": 4,
-      "category": "使役受動形上級",
-      "category_vn": "Nâng cao — させていただく lạm dụng vs dùng đúng",
-      "question_ja": "「させていただく」の使い方が最も不自然なものはどれですか？",
+      "level_name": "Khó",
+      "category": "Nâng cao — させていただく lạm dụng vs dùng đúng",
+      "question_jp": "「させていただく」の使い方が最も不自然なものはどれですか？",
       "question_vn": "Cách dùng 「させていただく」nào là KHÔNG TỰ NHIÊN nhất?",
-      "choices": {
-        "A": "ご説明させていただきます。",
-        "B": "今日は早退させていただけますか。",
-        "C": "雨が降らせていただきました。（天気予報で）",
-        "D": "資料をお送りさせていただきました。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "会議でご説明させていただきます。",
+          "vn": "Tôi xin phép giải thích trong cuộc họp."
+        },
+        {
+          "key": "B",
+          "jp": "本日は早退させていただけますか。",
+          "vn": "Hôm nay tôi có thể xin về sớm không ạ?"
+        },
+        {
+          "key": "C",
+          "jp": "雨が降らせていただきました。（天気予報で）",
+          "vn": "雨が降らせていただきました。（天気予報で）"
+        },
+        {
+          "key": "D",
+          "jp": "先ほど資料をお送りさせていただきました。",
+          "vn": "Tôi vừa xin phép gửi tài liệu ban nãy ạ."
+        }
+      ],
       "answer": "C",
-      "explanation_vn": "「雨が降らせていただきました」= HOÀN TOÀN SAI và vô lý. させていただく = TÔI xin phép làm điều gì đó — chủ thể phải là NGƯỜI có ý chí. Mưa không có ý chí, không thể 'xin phép' → Câu này vô nghĩa về ngữ pháp/ngữ nghĩa. Đây là ví dụ điển hình của việc LẠM DỤNG させていただく. (A)(B)(D) đều đúng và tự nhiên: Xin phép giải thích, xin về sớm, đã gửi tài liệu (tuy D hơi rườm rà).",
+      "explanation": "「雨が降らせていただきました」= HOÀN TOÀN SAI và vô lý. させていただく = TÔI xin phép làm điều gì đó — chủ thể phải là NGƯỜI có ý chí. Mưa không có ý chí, không thể 'xin phép' → Câu này vô nghĩa về ngữ pháp/ngữ nghĩa. Đây là ví dụ điển hình của việc LẠM DỤNG させていただく. (A), (B), (D) đều đúng và tự nhiên: Xin phép giải thích, xin về sớm, đã gửi tài liệu (tuy D hơi rườm rà).",
       "tip": "させていただく CHỈ dùng khi: CHỦ THỂ = NGƯỜI có ý chí + XIN PHÉP/KHIÊM NHƯỜNG làm điều gì. Không dùng cho thiên nhiên, đồ vật, hoặc những việc không cần xin phép."
     },
     {
       "id": 39,
       "level": 4,
-      "category": "総合上級",
-      "category_vn": "Nâng cao — Tổng hợp: Chuyển đổi câu chủ động → bị động → sai khiến",
-      "question_ja": "「田中部長が山田さんの評価書を書いた。」という文を変換した時、正しいものはどれですか？\n① この文の受身文（迷惑の受身・山田さんを主語に）\n② この文の使役文（田中部長が山田さんに評価書を書かせた）の山田さんを主語にした使役受身文",
+      "level_name": "Khó",
+      "category": "Nâng cao — Tổng hợp: Chuyển đổi câu chủ động → bị động → sai khiến",
+      "question_jp": "「田中部長が山田さんの評価書を書いた。」という文を変換した時、正しいものはどれですか？\n① この文の受身文（迷惑の受身・山田さんを主語に）\n② この文の使役文（田中部長が山田さんに評価書を書かせた）の山田さんを主語にした使役受身文",
       "question_vn": "Cho câu: \"Trưởng phòng Tanaka đã viết bản đánh giá của Yamada (Yamada bị/thiệt thòi vì điều này).\" Chuyển đổi đúng là gì?\n①Câu bị động 迷惑の受身 (Yamada làm chủ ngữ)\n②Sai khiến bị động (Yamada bị Tanaka bắt viết bản đánh giá)",
-      "choices": {
-        "A": "①山田さんは田中部長に評価書を書かれた。②山田さんは田中部長に評価書を書かせられた。",
-        "B": "①山田さんは田中部長に評価書が書かれた。②山田さんは田中部長によって評価書を書かせられた。",
-        "C": "①山田さんは田中部長に評価書を書かれた。②山田さんは田中部長によって評価書を書かせた。",
-        "D": "①山田さんは田中部長から評価書が書かれた。②山田さんは田中部長に評価書が書かせられた。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "①山田さんは田中部長に評価書を書かれた。②山田さんは田中部長に評価書を書かせられた。",
+          "vn": "①山田さんは田中部長に評価書を書かれた。②山田さんは田中部長に評価書を書かせられた。"
+        },
+        {
+          "key": "B",
+          "jp": "①山田さんは田中部長に評価書が書かれた。②山田さんは田中部長によって評価書を書かせられた。",
+          "vn": "①山田さんは田中部長に評価書が書かれた。②山田さんは田中部長によって評価書を書かせられた。"
+        },
+        {
+          "key": "C",
+          "jp": "①山田さんは田中部長に評価書を書かれた。②山田さんは田中部長によって評価書を書かせた。",
+          "vn": "①山田さんは田中部長に評価書を書かれた。②山田さんは田中部長によって評価書を書かせた。"
+        },
+        {
+          "key": "D",
+          "jp": "①山田さんは田中部長から評価書が書かれた。②山田さんは田中部長に評価書が書かせられた。",
+          "vn": "①山田さんは田中部長から評価書が書かれた。②山田さんは田中部長に評価書が書かせられた。"
+        }
+      ],
       "answer": "A",
-      "explanation_vn": "Câu gốc: 「田中部長が山田さんの評価書を書いた」(Tanaka viết bản đánh giá của Yamada). ①Bị động 迷惑 (Yamada = người bị thiệt — bị người khác viết bản đánh giá về mình, không kiểm soát được): 「山田さんは田中部長に評価書を書かれた」. を giữ nguyên vì đây là bị động gián tiếp/thiệt hại (迷惑の受身) — 山田 là người bị hại (chủ ngữ), 評価書 giữ を. Đây là 迷惑の受身 RÕ RÀNG vì Yamada bị người khác viết bản đánh giá về mình — điều ảnh hưởng trực tiếp đến quyền lợi. ②Sai khiến bị động (Yamada bị Tanaka ép phải tự viết bản đánh giá): 「山田さんは田中部長に評価書を書かせられた」. Trong 使役受動, tân ngữ を giữ nguyên. (B) sai ở ①「評価書が」thay vì を (bị động thiệt hại giữ を). (C) sai ở ②「書かせた」= sai khiến, không phải sai khiến bị động. (D) sai ở ①「から」và「が」đều sai.",
+      "explanation": "Câu gốc: 「田中部長が山田さんの評価書を書いた」(Tanaka viết bản đánh giá của Yamada). ①Bị động 迷惑 (Yamada = người bị thiệt — bị người khác viết bản đánh giá về mình, không kiểm soát được): 「山田さんは田中部長に評価書を書かれた」. を giữ nguyên vì đây là bị động gián tiếp/thiệt hại (迷惑の受身) — 山田 là người bị hại (chủ ngữ), 評価書 giữ を. Đây là 迷惑の受身 RÕ RÀNG vì Yamada bị người khác viết bản đánh giá về mình — điều ảnh hưởng trực tiếp đến quyền lợi. ②Sai khiến bị động (Yamada bị Tanaka ép phải tự viết bản đánh giá): 「山田さんは田中部長に評価書を書かせられた」. Trong 使役受動, tân ngữ を giữ nguyên. (B) sai ở ①「評価書が」thay vì を (bị động thiệt hại giữ を). (C) sai ở ②「書かせた」= sai khiến, không phải sai khiến bị động. (D) sai ở ①「から」và「が」đều sai.",
       "tip": "迷惑の受身 rõ nhất khi vật liên quan trực tiếp đến quyền lợi người bị hại (評価書を書かれた = bị viết bản đánh giá về mình). Chuyển đổi: 書いた(chủ động) → 書かれた(bị động thiệt hại, を) → 書かせた(sai khiến) → 書かせられた(sai khiến bị động)."
     },
     {
       "id": 40,
       "level": 4,
-      "category": "総合上級・最終問題",
-      "category_vn": "Nâng cao — Tổng hợp toàn diện: Phân tích đoạn kinh doanh phức tạp",
-      "question_ja": "次のビジネスメールの文章で、文法的・意味的に最も自然で正しい文はどれですか？",
+      "level_name": "Khó",
+      "category": "Nâng cao — Tổng hợp toàn diện: Phân tích đoạn kinh doanh phức tạp",
+      "question_jp": "次のビジネスメールの文章で、文法的・意味的に最も自然で正しい文はどれですか？",
       "question_vn": "Trong các câu email kinh doanh sau, câu nào đúng ngữ pháp VÀ tự nhiên nhất?",
-      "choices": {
-        "A": "先日の件につきまして、弊社の田中に確認をさせられましたところ、ご要望には対応できないと申しておりました。",
-        "B": "先日の件につきまして、弊社の田中に確認をさせましたところ、ご要望には対応しかねるとのことでございます。",
-        "C": "先日の件につきまして、弊社の田中によって確認をされましたところ、ご要望には対応できないと言っていました。",
-        "D": "先日の件につきまして、弊社の田中を確認をさせましたところ、ご要望には対応させていただけません。"
-      },
+      "choices": [
+        {
+          "key": "A",
+          "jp": "先日の件につきまして、弊社の田中に確認をさせられましたところ、ご要望には対応できないと申しておりました。",
+          "vn": "…田中に確認をさせられましたところ、…対応できないと申しておりました。"
+        },
+        {
+          "key": "B",
+          "jp": "先日の件につきまして、弊社の田中に確認をさせましたところ、ご要望には対応しかねるとのことでございます。",
+          "vn": "…田中に確認をさせましたところ、…対応しかねるとのことでございます。"
+        },
+        {
+          "key": "C",
+          "jp": "先日の件につきまして、弊社の田中によって確認をされましたところ、ご要望には対応できないと言っていました。",
+          "vn": "…田中によって確認をされましたところ、…対応できないと言っていました。"
+        },
+        {
+          "key": "D",
+          "jp": "先日の件につきまして、弊社の田中を確認をさせましたところ、ご要望には対応させていただけません。",
+          "vn": "…田中を確認をさせましたところ、…対応させていただけません。"
+        }
+      ],
       "answer": "B",
-      "explanation_vn": "「田中に確認をさせましたところ、ご要望には対応しかねるとのことでございます」= ĐÚNG. Phân tích: ①「田中に確認をさせました」= Sai khiến 他動詞: 田中(に) + 確認(を) + させる ✓. ②「対応しかねる」= từ chối lịch sự (対応できない bằng lịch sự). ③「とのことでございます」= trích dẫn trang trọng. (A) 「させられました」= Tôi bị ép bắt Tanaka → vô nghĩa về logic. (C) 「田中によって確認をされました」= によって với người cụ thể + を trong bị động → 2 lỗi. (D) 「田中を確認をさせました」= を được dùng 2 lần cho người và vật → SAI.",
+      "explanation": "「田中に確認をさせましたところ、ご要望には対応しかねるとのことでございます」= ĐÚNG. Phân tích: ①「田中に確認をさせました」= Sai khiến 他動詞: 田中(に) + 確認(を) + させる ✓. ②「対応しかねる」= từ chối lịch sự (対応できない bằng lịch sự). ③「とのことでございます」= trích dẫn trang trọng. (A) 「させられました」= Tôi bị ép bắt Tanaka → vô nghĩa về logic. (C) 「田中によって確認をされました」= によって với người cụ thể + を trong bị động → 2 lỗi. (D) 「田中を確認をさせました」= を được dùng 2 lần cho người và vật → SAI.",
       "tip": "Tổng kết: ①Sai khiến 他動詞: [người]に+[vật]を+させる. ②Từ chối lịch sự: できない→しかねる. ③によって: tổ chức, không phải người cụ thể. ④させられる: người bị ép, không phải người sai."
     }
   ]

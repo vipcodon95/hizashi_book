@@ -46,7 +46,7 @@ language: bilingual
 | **ズン** | 「Phase 2 で transaction 単価 +9% を<ruby>実現済<rt>じつげんず</rt></ruby>み (vs. <ruby>予測<rt>よそく</rt></ruby> +8%、<ruby>上振<rt>うわぶ</rt></ruby>れ)。AI モデル<ruby>精度<rt>せいど</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>で +12% は ngoại suy có kiểm soát です。Whitepaper + <ruby>第三者<rt>だいさんしゃ</rt></ruby><ruby>監査済<rt>かんさず</rt></ruby>みデータをお<ruby>渡<rt>わた</rt></ruby>しします【5】。」 <br/>*Phase 2 đã hiện thực được đơn giá transaction +9% (so với dự +8%, vượt). +12% với AI model nâng cấp là ngoại suy có kiểm soát ạ. Em chuyển tới quý anh whitepaper + dữ liệu đã kiểm toán bên thứ ba ạ.* |
 | **中村CFO** | 「これなら<ruby>取締役会<rt>とりしまりやくかい</rt></ruby>に<ruby>出<rt>だ</rt></ruby>せます。」 <br/>*Vậy thì đưa được lên HĐQT.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**ROI 4 chỉ số** — Đầu tư / Lợi tức hàng năm / Thời gian thu hồi vốn / NPV. Đủ cả 4 = khoa học, không bịa.
 - 【2】**Lợi tức hàng năm chia ra tiết kiệm chi phí + doanh thu tăng thêm** — CFO tin tưởng vì mỗi nhánh được kiểm chứng độc lập.
 - 【3】**Thời gian thu hồi vốn < 6 月 = "ROI mạnh"** trong ngữ cảnh B2B Nhật. < 12 月 = "OK". > 24 月 = khó duyệt.

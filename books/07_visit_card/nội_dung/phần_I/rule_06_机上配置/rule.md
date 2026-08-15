@@ -42,7 +42,7 @@ Sau khi trao đổi danh thiếp tại tiền sảnh, đoàn vào phòng họp. 
 | **大垣** | 「はい、<ruby>大垣<rt>おおがき</rt></ruby>です。」 <br/>*Vâng, Ōgaki đây.* |
 | **リン** | *(lúc đó mới thu lại 3 danh thiếp 2 tay xếp ngay ngắn vào hộp)*【2】 |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Bố trí theo thứ tự chỗ ngồi** — danh thiếp Nakamura ở chỗ Nakamura ngồi, Ōgaki ở chỗ Ōgaki, Matsumoto ở chỗ Matsumoto. Như vậy Dũng nhìn lướt = đối chiếu mặt người + danh thiếp = nhớ tên/chức ngay. CFO cấp cao nhất thường ngồi 上座 trung tâm.
 - 【2】**Cất khi khách đã đứng dậy** — KHÔNG cất giữa buổi họp. KHÔNG cất khi nói "今日のミーティング終了". Đợi khách rời chỗ, đứng dậy mình rồi mới gom 2 tay xếp vào hộp ngay ngắn (KHÔNG nhét túi).
 

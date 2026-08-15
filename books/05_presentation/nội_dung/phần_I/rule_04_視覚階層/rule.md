@@ -40,7 +40,7 @@ Dũng làm slide với mọi văn bản 18pt + căn giữa + phông chữ MS Min
 | **ズン** | 「ラベル14pt でした…20pt<ruby>以上<rt>いじょう</rt></ruby>に<ruby>上<rt>あ</rt></ruby>げます【2】。」 <br/>*Nhãn đang 14pt ạ... em sẽ chỉnh lên 20pt+ ạ.* |
 | **フオン** | 「お<ruby>願<rt>ねが</rt></ruby>い。それと**alignment は<ruby>左揃<rt>ひだりぞろ</rt></ruby>え**。<ruby>中央揃<rt>ちゅうおうぞろ</rt></ruby>えは<ruby>見出<rt>みだ</rt></ruby>しだけ、<ruby>本文<rt>ほんぶん</rt></ruby>はNG。」 <br/>*Em làm giúp chị. Với cả căn lề để trái. Căn giữa chỉ dùng cho heading, phần thân NG.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**チェックリスト** — Danh sách kiểm tra phân cấp thị giác (xem khung mẫu). Áp dụng trên TOÀN bộ bộ slide trước khi diễn thử.
 - 【2】**「ラベル14pt」** — Lỗi phổ biến: nhãn biểu đồ nhỏ vì để mặc định tự động. Phải cưỡng chế chỉnh lên 20pt+.
 

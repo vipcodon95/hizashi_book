@@ -4,7 +4,7 @@
 
 ---
 
-## Rule 08 — Memory bank — ghi nhớ chi tiết cụ thể với khách JP / 雑談メモバンク
+## Rule 33 — Memory bank — ghi nhớ chi tiết cụ thể với khách JP / 雑談メモバンク
 
 ### Thẻ Khách Hàng (Bộ nhớ cá nhân)
 
@@ -106,7 +106,7 @@
 
 ---
 
-## Rule 08 — Memory bank — duy trì lâu dài / 関係維持の記憶バンク
+## Rule 50 — Memory bank — duy trì lâu dài / 関係維持の記憶バンク
 
 ### Mẫu 5
 *Sau mỗi cuộc gặp / dinner. 5-7 facts mới + tagged với date.*
@@ -191,7 +191,7 @@
 
 ---
 
-## Rule 08 — Tự đánh giá + luyện tập / 振り返りと練習
+## Rule 51 — Tự đánh giá + luyện tập / 振り返りと練習
 
 ### Mẫu 7
 *15 phút sau bữa tối / cuộc gọi / 会食. Lưu vào hệ thống ghi chú cá nhân.*

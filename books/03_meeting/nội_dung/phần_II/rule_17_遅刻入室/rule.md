@@ -40,10 +40,10 @@ Anh Tuấn (tech lead) bị kẹt ở buổi họp trước. Báo Dũng qua Slac
 | **ズン** | 「トゥアンさん、議題1の<ruby>最終<rt>さいしゅう</rt></ruby><ruby>確認中<rt>かくにんちゅう</rt></ruby>です。<ruby>問題<rt>もんだい</rt></ruby>なければ<ruby>続<rt>つづ</rt></ruby>けます。」 <br/>*Anh Tuấn, mình đang ở phần xác nhận cuối mục 1. Không vấn đề gì thì mình tiếp nhé.* |
 | **トゥアン** | 「ありがとうございます。お<ruby>続<rt>つづ</rt></ruby>けください【3】。」 <br/>*Cảm ơn em. Mời em tiếp tục ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「失礼いたします、遅れて申し訳ございません」** — Câu duy nhất nói khi vào. Đầy đủ rồi. Không thêm "前の会議が…" (biện minh) → chia sẻ lý do qua chat ngoài giờ.
 - 【2】**「無言で資料を開き、議事に追いつく」** — đến trễ là trách nhiệm tự theo kịp nội dung, không phiền cả phòng.
-- 【3】**「お続けください」** — cụm khiêm nhường để司会 tiếp tục. Tránh 「続けてください」 (mệnh lệnh).
+- 【3】**「お続けください」** — **tôn kính ngữ** (お + V + ください) mời 司会 tiếp tục. Tránh 「続けてください」 (mệnh lệnh).
 
 ---
 

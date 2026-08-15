@@ -33,13 +33,13 @@ Sau khi giới thiệu người tham dự + chương trình họp, em Dũng phâ
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「<ruby>議題<rt>ぎだい</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>役割<rt>やくわり</rt></ruby>をご<ruby>確認<rt>かくにん</rt></ruby>させていただきます【1】。」 <br/>*Trước khi vào mục, em xin phép xác nhận vai trò hôm nay ạ.* |
+| **ズン** | 「<ruby>議題<rt>ぎだい</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>役割<rt>やくわり</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>させていただきます【1】。」 <br/>*Trước khi vào mục, em xin phép xác nhận vai trò hôm nay ạ.* |
 | **ズン** | 「<ruby>司会<rt>しかい</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>ズンが<ruby>務<rt>つと</rt></ruby>めます。<ruby>書記<rt>しょき</rt></ruby>はリンが<ruby>担当<rt>たんとう</rt></ruby>し、<ruby>議事録<rt>ぎじろく</rt></ruby>は<ruby>本日中<rt>ほんじつちゅう</rt></ruby>にドラフトを<ruby>共有<rt>きょうゆう</rt></ruby>いたします【2】。」 <br/>*Em Dũng làm chủ trì ạ. Em Linh làm người ghi biên bản, biên bản draft em sẽ chia sẻ ngay trong hôm nay ạ.* |
 | **リン** | 「<ruby>議事録<rt>ぎじろく</rt></ruby>テンプレートは<ruby>準備済<rt>じゅんびず</rt></ruby>みです。<ruby>決定事項<rt>けっていじこう</rt></ruby>とTODOを<ruby>中心<rt>ちゅうしん</rt></ruby>に<ruby>記録<rt>きろく</rt></ruby>いたします。」 <br/>*Em đã chuẩn bị mẫu biên bản rồi ạ. Em sẽ ghi tập trung vào phần quyết định và việc cần làm ạ.* |
 | **大垣** | 「ありがとうございます。<ruby>安心<rt>あんしん</rt></ruby>しました。」 <br/>*Cảm ơn em. Anh yên tâm rồi.* |
 
- **Ghi chú:**
-- 【1】**「役割をご確認させていただきます」** — câu chuyển ý lịch sự. 「ご確認」 dùng được vì 確認 là về thông tin chung, không phải hành động của riêng mình.
+📝 **Ghi chú:**
+- 【1】**「役割を確認させていただきます」** — câu chuyển ý lịch sự. Bỏ 「ご」 vì 確認 ở đây **chính là hành động của người nói** (させていただく = tôi xin phép làm) — thêm 「ご」 thành 過剰敬語. So sánh: 「ご相談させて」/「ご共有させて」 thì ĐÚNG vì 相談・共有 có đối phương cùng tham gia.
 - 【2】**「本日中にドラフトを共有」** — cam kết thời hạn cho bản nháp biên bản (xem rule 45). Khách Nhật đặc biệt thích vì biết được "khi nào nhận biên bản".
 
 ---

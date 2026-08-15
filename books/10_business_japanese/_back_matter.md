@@ -13,10 +13,10 @@ Nếu bạn phát hiện lỗi nội dung, có đề xuất cải thiện, hoặ
 
 | Mục | Nội dung |
 |-----|----------|
-| Tên sách | Hizashi — Tôn kính ngữ / 敬語マスター |
+| Tên sách | Hizashi — Kính ngữ / 敬語マスター |
 | Tác giả | Hizashi Teams |
 | Phiên bản | 1.1 |
-| Ngày phát hành | 30/04/2026 |
+| Ngày phát hành | 15/08/2026 |
 | Ngôn ngữ | Song ngữ Việt–Nhật |
 | Bản quyền | © 2026 Hizashi Teams |
 

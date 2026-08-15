@@ -155,11 +155,60 @@ BUNDLES = {
             ("48_hotel_year3", "Năm 3 — SSW1 + 副仲居頭"),
         ],
     },
+    "tantinh_jp_49": {
+        "title": "Tán Tỉnh Bằng Tiếng Nhật",
+        "subtitle": "Tuyệt chiêu ngôn ngữ — 16 kỹ năng từ app đến 告白",
+        "books": [
+            ("49_tantinh_jp", "Tán Tỉnh Bằng Tiếng Nhật — Tuyệt Chiêu Ngôn Ngữ"),
+        ],
+    },
+    "chuyenbay_narita_hanoi_50": {
+        "title": "Tán Tỉnh Bằng Tiếng Nhật — Chuyến Bay Narita → Hà Nội",
+        "subtitle": "Thực chiến 5h45 trên ANA NH853",
+        "books": [
+            ("50_chuyenbay_narita_hanoi", "Tán Tỉnh Bằng Tiếng Nhật — Chuyến Bay Narita → Hà Nội"),
+        ],
+    },
+    "chuyenbay_chitchat_51": {
+        "title": "Tán Tỉnh Bằng Tiếng Nhật — Trò chuyện phiếm 5h",
+        "subtitle": "Chuyến bay Narita → Hà Nội với cô sinh viên Tâm lý Waseda",
+        "books": [
+            ("51_chuyenbay_chitchat", "Tán Tỉnh Bằng Tiếng Nhật — Trò chuyện phiếm 5h trên máy bay"),
+        ],
+    },
+    "tangai_vn_fb_52": {
+        "title": "Quen Qua Gợi Ý Bạn Bè",
+        "subtitle": "5 tuần tán bằng tiếng Việt — qua Facebook + Zalo",
+        "books": [
+            ("52_tangai_vn_fb", "Quen Qua Gợi Ý Bạn Bè — 5 tuần tán bằng tiếng Việt"),
+        ],
+    },
+    "tangai_vn_chudong_53": {
+        "title": "Comment Dạo Story",
+        "subtitle": "Gen Z Chủ Động — 5 tuần tán bằng tiếng Việt qua Threads + Zalo",
+        "books": [
+            ("53_tangai_vn_chudong", "Comment Dạo Story — Gen Z Chủ Động"),
+        ],
+    },
+    "tangai_vn_truongthanh_54": {
+        "title": "Quen Qua Một Cái Comment",
+        "subtitle": "Người Lớn Tán Nhau — 5 tuần, quan điểm sống và những câu để dành",
+        "books": [
+            ("54_tangai_vn_truongthanh", "Quen Qua Một Cái Comment — Người Lớn Tán Nhau"),
+        ],
+    },
+    "tangai_vn_gym_55": {
+        "title": "Đối Tượng Tập Luyện",
+        "subtitle": "PT Và Khách Ruột — 4 tuần, tin nhắn ngắn và những gói tập chưa công bố",
+        "books": [
+            ("55_tangai_vn_gym", "Đối Tượng Tập Luyện — PT Và Khách Ruột"),
+        ],
+    },
 }
 
 
 def collect_chapter_files(book_folder: Path) -> list[Path]:
-    """Tìm các file t*_*_HoiThoai.md theo thứ tự."""
+    """Tìm các file t*_*_HoiThoai.md (+ glossary) theo thứ tự."""
     files = []
     for subdir in sorted(book_folder.iterdir()):
         if not subdir.is_dir():
@@ -167,6 +216,9 @@ def collect_chapter_files(book_folder: Path) -> list[Path]:
         if not subdir.name.startswith("t"):
             continue
         md_files = sorted(subdir.glob("*_HoiThoai.md"))
+        if not md_files:
+            # fallback: bắt file md đầu tiên trong thư mục (vd glossary)
+            md_files = sorted(subdir.glob("*.md"))
         if md_files:
             files.append(md_files[0])
     return files

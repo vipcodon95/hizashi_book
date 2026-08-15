@@ -128,8 +128,8 @@ Dũng + Hà CTO sắp đi công tác kết hợp 1 đêm ở 旅館 tại 箱根
 |  | *Gần đây có nhiều ryokan OK xăm nhưng truyền thống đa số NG. Phải kiểm tra trước. Có miếng dán che nữa.* |
 | **ズン** | 「気をつけます。あと<ruby>写真撮影<rt>しゃしんさつえい</rt></ruby>は当然NG?」 |
 |  | *Em sẽ cẩn thận. Còn chụp ảnh đương nhiên NG ạ?* |
-| **大垣** | 「<ruby>脱衣所<rt>だついじょ</rt></ruby>でも<ruby>浴室<rt>よくしつ</rt></ruby>でもNG。<ruby>廊下<rt>ろうか</rt></ruby>と外だけ。あと<ruby>飲酒<rt>いんしゅ</rt></ruby>後すぐ温泉は気をつけて、<ruby>血圧<rt>けつあつ</rt></ruby>上がるから。<ruby>水分補給<rt>すいぶんほきゅう</rt></ruby>忘れずに。」 |
-|  | *Cả phòng thay đồ lẫn phòng tắm đều NG. Chỉ hành lang với ngoài thôi. Còn vừa uống rượu vào tắm là cẩn thận, huyết áp lên. Đừng quên uống nước.* |
+| **大垣** | 「<ruby>脱衣所<rt>だついじょ</rt></ruby>でも<ruby>浴室<rt>よくしつ</rt></ruby>でもNG。<ruby>廊下<rt>ろうか</rt></ruby>と外だけ。あと<ruby>飲酒<rt>いんしゅ</rt></ruby>後すぐの<ruby>入浴<rt>にゅうよく</rt></ruby>は<ruby>絶対<rt>ぜったい</rt></ruby>やめてね。<ruby>血圧<rt>けつあつ</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がって<ruby>湯船<rt>ゆぶね</rt></ruby>で<ruby>意識<rt>いしき</rt></ruby>を<ruby>失<rt>うしな</rt></ruby>う<ruby>事故<rt>じこ</rt></ruby>が<ruby>毎年<rt>まいとし</rt></ruby>あるから。<ruby>水分補給<rt>すいぶんほきゅう</rt></ruby>忘れずに。」 |
+|  | *Cả phòng thay đồ lẫn phòng tắm đều NG. Chỉ hành lang với ngoài thôi. Còn vừa uống rượu xong thì tuyệt đối đừng ngâm — huyết áp tụt, mỗi năm đều có người ngất trong bồn. Đừng quên uống nước.* |
 
 【1】 **かけ湯** = dội nước trước khi vào bồn. 【2】 **入れ墨** (irezumi) = xăm. Truyền thống = tránh.
 

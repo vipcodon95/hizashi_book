@@ -10,7 +10,7 @@
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「お世話になっております。1点ご<ruby>通知<rt>つうち</rt></ruby><ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げたい<ruby>件<rt>けん</rt></ruby>がございます。」 <br/>*Cảm ơn anh đã hỗ trợ ạ. Em có 1 việc xin được thông báo ạ.* |
+| **ズン** | 「お世話になっております。1点ご<ruby>通知<rt>つうち</rt></ruby><ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げたい<ruby>件<rt>けん</rt></ruby>がございます。」 <br/>*Chào anh ạ, rất mong được anh giúp đỡ. Em có 1 việc xin được thông báo ạ.* |
 | **ズン** | 「<ruby>来月<rt>らいげつ</rt></ruby>5月1日より、<ruby>弊社<rt>へいしゃ</rt></ruby>の<ruby>新<rt>しん</rt></ruby>オフィスへ<ruby>移転<rt>いてん</rt></ruby>することとなりました。」 <br/>*Từ ngày 1/5 tháng sau, bên em sẽ chuyển sang văn phòng mới ạ.* |
 | **ズン** | 「<ruby>住所<rt>じゅうしょ</rt></ruby>はハノイ<ruby>市<rt>し</rt></ruby>バーディン<ruby>区<rt>く</rt></ruby>フンチエン<ruby>通<rt>どお</rt></ruby>り123<ruby>番<rt>ばん</rt></ruby>、<ruby>電話番号<rt>でんわばんごう</rt></ruby>は<ruby>変更<rt>へんこう</rt></ruby>ございません。」 <br/>*Địa chỉ là số 123 phố Hùng Chiến, quận Ba Đình, Hà Nội ạ. Số điện thoại không đổi ạ.* |
 | **ズン** | 「<ruby>詳細<rt>しょうさい</rt></ruby>は<ruby>本日中<rt>ほんじつちゅう</rt></ruby>に<ruby>正式<rt>せいしき</rt></ruby>なご<ruby>案内<rt>あんない</rt></ruby>メールをお<ruby>送<rt>おく</rt></ruby>りいたします。」 <br/>*Chi tiết em sẽ gửi mail thông báo chính thức trong hôm nay ạ.* |

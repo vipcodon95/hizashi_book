@@ -41,7 +41,7 @@ Tối trước khi đi công tác Tokyo, chị Hương phó phòng làm mẫu 4 
 | **フオン副部長** | （90°、3秒以上）「これが<ruby>謝罪<rt>しゃざい</rt></ruby>お<ruby>辞儀<rt>じぎ</rt></ruby>。<ruby>重大<rt>じゅうだい</rt></ruby>ミス<ruby>時<rt>じ</rt></ruby>のみ。<ruby>普段<rt>ふだん</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>では<ruby>絶対<rt>ぜったい</rt></ruby>しない。」【4】 <br/>*(90°, 3+ giây) Đây là bow xin lỗi. Chỉ dùng khi sai nặng. Tình huống bình thường tuyệt đối không bow vậy.* |
 | **リン** | 「わかりました。<ruby>明日<rt>あした</rt></ruby>CFOへの<ruby>初対面<rt>しょたいめん</rt></ruby>は45°、お<ruby>部屋<rt>へや</rt></ruby>の<ruby>出入<rt>でい</rt></ruby>りは30°、<ruby>廊下<rt>ろうか</rt></ruby><ruby>挨拶<rt>あいさつ</rt></ruby>は15°ですね。」 <br/>*Em hiểu rồi. Mai gặp CFO lần đầu = 45°, vào/ra phòng = 30°, chào hành lang = 15° ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**15° 会釈 (eshaku)** — đi qua nhau ở hành lang, chào nhẹ trong cty, chào sáng đồng nghiệp. Cúi 1 giây rồi ngẩng. Dùng trong cùng cty.
 - 【2】**30° 敬礼 (keirei)** — vào / ra phòng họp khách, mở / đóng buổi họp, gặp lần đầu cùng cấp. Bow chuẩn business. 2-3 giây.
 - 【3】**45° 最敬礼 (saikeirei)** — lần đầu gặp CFO / GĐ / khách lớn, cảm ơn trong tình huống quan trọng. 3-4 giây, sâu và lặng.

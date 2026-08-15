@@ -38,7 +38,7 @@ Họp với Hà CTO + Hương + Tuấn xong, Dũng cần soạn bản đề xu�
 | **ズン** | 「Best は<ruby>専任<rt>せんにん</rt></ruby> SRE 1 名<ruby>常駐<rt>じょうちゅう</rt></ruby>、SLA 99.99%、24/7 サポート、<ruby>優先機能開発<rt>ゆうせんきのうかいはつ</rt></ruby>【3】。CFO <ruby>中村<rt>なかむら</rt></ruby>さんの『コスト<ruby>圧縮<rt>あっしゅく</rt></ruby>』トーンに照らすと『出しすぎ』感を出す設計です。」 <br/>*Bậc cao cấp có 1 SRE chuyên trách túc trực, SLA 99.99%, hỗ trợ 24/7, ưu tiên phát triển tính năng. Đối chiếu xu hướng 'nén chi phí' của CFO Nakamura, thiết kế để tạo cảm giác 'chi quá tay' ạ.* |
 | **フオン** | 「<ruby>完璧<rt>かんぺき</rt></ruby>。**Better が『<ruby>現実解<rt>げんじつかい</rt></ruby>』に見える<ruby>構造<rt>こうぞう</rt></ruby>**。明日のキックオフで使おう。」 <br/>*Hoàn hảo. Cấu trúc khiến bậc tiêu chuẩn hiện ra như 'phương án thực tế'. Mai mở đàm phán dùng cái này.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Nhãn "Khuyến nghị"** — chữ "おすすめ"/"推奨" trên ô bậc tiêu chuẩn, nghiên cứu trải nghiệm người dùng cho thấy tỷ lệ chốt tăng +35%.
 - 【2】**Bậc cơ bản cố ý làm yếu** — KHÔNG phải "rẻ và ổn", phải là "rẻ nhưng thiếu cái khách cần" → khách tự loại.
 - 【3】**Bậc cao cấp cố ý làm dư** — vượt mức cần thiết để bậc tiêu chuẩn thành "vừa phải". Bậc cao cấp vẫn phải là thương vụ thật nếu khách chọn (không phải lựa chọn giả / phương án bẫy).

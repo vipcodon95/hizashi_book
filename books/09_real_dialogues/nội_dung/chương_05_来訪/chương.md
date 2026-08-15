@@ -367,7 +367,7 @@ Họp kỹ thuật với khách JP có 2 nhóm: kỹ thuật cấp cao (Sasaki) 
 | **林 (営業)** | 「(<ruby>目<rt>め</rt></ruby>を<ruby>輝<rt>かがや</rt></ruby>かせて)わあ、これ<ruby>何<rt>なん</rt></ruby>?<ruby>天然<rt>てんねん</rt></ruby>の<ruby>甘<rt>あま</rt></ruby>さ!」<br/>*(mắt sáng) Wow, cái gì đây? Vị ngọt tự nhiên!* |
 | **ズン** | 「<ruby>椰子<rt>やし</rt></ruby>ジュース、ベトナム<ruby>南部<rt>なんぶ</rt></ruby>の<ruby>定番<rt>ていばん</rt></ruby>。<ruby>辛<rt>から</rt></ruby>い<ruby>物<rt>もの</rt></ruby><ruby>食<rt>た</rt></ruby>べた<ruby>後<rt>あと</rt></ruby>の<ruby>救世主<rt>きゅうせいしゅ</rt></ruby>。」<br/>*Nước dừa, đặc sản Nam Việt. Cứu tinh sau khi ăn cay.* |
 | **松本PM** | 「(<ruby>自分<rt>じぶん</rt></ruby>も<ruby>注文<rt>ちゅうもん</rt></ruby>)<ruby>私<rt>わたし</rt></ruby>も1つください、<ruby>椰子<rt>やし</rt></ruby>ジュース。」<br/>*(cũng gọi) Cho tôi 1 ly nước dừa.* |
-| **田中PMO** | 「(<ruby>野菜<rt>やさい</rt></ruby>版コムタム<ruby>食<rt>た</rt></ruby>べる)<ruby>私<rt>わたし</rt></ruby>のもとても<ruby>美味<rt>おい</rt></ruby>しい。シェフに<ruby>伝<rt>つた</rt></ruby>えて。」<br/>*(ăn cơm tấm phiên bản chay) Của em cũng ngon lắm. Nói đầu bếp giúp em.* |
+| **田中PMO** | 「(<ruby>野菜<rt>やさい</rt></ruby>版コムタム<ruby>食<rt>た</rt></ruby>べる)<ruby>私<rt>わたし</rt></ruby>のもとても<ruby>美味<rt>おい</rt></ruby>しい。シェフに<ruby>伝<rt>つた</rt></ruby>えて。」<br/>*(ăn cơm tấm phiên bản chay) Của tôi cũng ngon lắm. Nói đầu bếp giúp em.* |
 | **フオン副部長** | 「<ruby>今日<rt>きょう</rt></ruby>は<ruby>皆様<rt>みなさま</rt></ruby>のお<ruby>口<rt>くち</rt></ruby>に<ruby>合<rt>あ</rt></ruby>うお<ruby>店<rt>みせ</rt></ruby><ruby>探<rt>さが</rt></ruby>すの<ruby>大変<rt>たいへん</rt></ruby>だった、まあ<ruby>何<rt>なん</rt></ruby>とか。」<br/>*Hôm nay tìm quán hợp khẩu vị các vị vất vả, may mắn thôi.* |
 
 
@@ -390,21 +390,21 @@ Khách JP lần đầu ăn đường phố → đôi khi gặp sự cố cay. C�
 | Vai | Câu |
 |---------|-----|
 | **ハー** | 「(coffee <ruby>注<rt>そそ</rt></ruby>ぐ)<ruby>松本<rt>まつもと</rt></ruby>さん、ようこそ。<ruby>今日<rt>きょう</rt></ruby>は frank に<ruby>話<rt>はな</rt></ruby>しましょう。」<br/>*(rót cà phê) Anh Matsumoto, mời anh. Hôm nay mình nói thẳng thắn với nhau nhé.* |
-| **松本PM** | 「ハーさん、お<ruby>時間<rt>じかん</rt></ruby>ありがとうございます。<ruby>今日<rt>きょう</rt></ruby>は2<ruby>点<rt>てん</rt></ruby> frank に<ruby>伺<rt>うかが</rt></ruby>いたいです。Phase 5 の<ruby>人員配置<rt>じんいんはいち</rt></ruby>と、Tien Phat <ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>長期<rt>ちょうき</rt></ruby>パートナーシップビジョン。」<br/>*Anh Hà, cảm ơn anh dành thời gian. Hôm nay em muốn nói thẳng 2 điểm. Bố trí nhân sự Phase 5 và tầm nhìn đối tác dài hạn của Tien Phat tổng thể.* |
+| **松本PM** | 「ハーさん、お<ruby>時間<rt>じかん</rt></ruby>ありがとうございます。<ruby>今日<rt>きょう</rt></ruby>は2<ruby>点<rt>てん</rt></ruby> frank に<ruby>伺<rt>うかが</rt></ruby>いたいです。Phase 5 の<ruby>人員配置<rt>じんいんはいち</rt></ruby>と、Tien Phat <ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>長期<rt>ちょうき</rt></ruby>パートナーシップビジョン。」<br/>*Anh Hà, cảm ơn anh dành thời gian. Hôm nay tôi muốn nói thẳng 2 điểm. Bố trí nhân sự Phase 5 và tầm nhìn đối tác dài hạn của Tien Phat tổng thể.* |
 
 *[Dũng gõ MacBook ghi chú. Tay run nhẹ — họp cấp này lần đầu. Nín thở, gõ từ khóa: 'Phase 5 人員 + 長期 tầm nhìn'.]*
 
 | Vai | Câu |
 |---------|-----|
 | **ハー** | 「1<ruby>点目<rt>てんめ</rt></ruby>から。Phase 5 のリードはトゥアンに、BD は<ruby>引<rt>ひ</rt></ruby>き<ruby>続<rt>つづ</rt></ruby>きズン。サブリードは<ruby>新規採用<rt>しんきさいよう</rt></ruby>の Lê Hoàng Anh を<ruby>充<rt>あ</rt></ruby>てる<ruby>予定<rt>よてい</rt></ruby>です。<ruby>経歴<rt>けいれき</rt></ruby>は<ruby>事前<rt>じぜん</rt></ruby>にメールで<ruby>送<rt>おく</rt></ruby>ります。」<br/>*Điểm 1 trước. Lead Phase 5 là anh Tuấn, BD vẫn em Dũng. Sub-lead em tuyển mới Lê Hoàng Anh sẽ phụ trách. Lý lịch em gửi anh qua mail trước.* |
-| **松本PM** | 「<ruby>了解<rt>りょうかい</rt></ruby>、Lê Hoàng Anh の<ruby>経歴<rt>けいれき</rt></ruby>は<ruby>気<rt>き</rt></ruby>になります、ぜひ。2<ruby>点目<rt>てんめ</rt></ruby>、ティエンファットの<ruby>長期<rt>ちょうき</rt></ruby>ビジョンですが、<ruby>今後<rt>こんご</rt></ruby>3<ruby>年<rt>ねん</rt></ruby>で<ruby>白鷗<rt>はくおう</rt></ruby>との<ruby>共同<rt>きょうどう</rt></ruby> IP <ruby>開発<rt>かいはつ</rt></ruby>まで<ruby>踏<rt>ふ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>めますか?」<br/>*Rõ, lý lịch em Lê Hoàng Anh em quan tâm. Điểm 2, tầm nhìn dài hạn Tien Phat, 3 năm tới có thể đi đến mức cùng phát triển IP với Hakuō không?* |
+| **松本PM** | 「<ruby>了解<rt>りょうかい</rt></ruby>、Lê Hoàng Anh の<ruby>経歴<rt>けいれき</rt></ruby>は<ruby>気<rt>き</rt></ruby>になります、ぜひ。2<ruby>点目<rt>てんめ</rt></ruby>、ティエンファットの<ruby>長期<rt>ちょうき</rt></ruby>ビジョンですが、<ruby>今後<rt>こんご</rt></ruby>3<ruby>年<rt>ねん</rt></ruby>で<ruby>白鷗<rt>はくおう</rt></ruby>との<ruby>共同<rt>きょうどう</rt></ruby> IP <ruby>開発<rt>かいはつ</rt></ruby>まで<ruby>踏<rt>ふ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>めますか?」<br/>*Rõ, lý lịch anh Lê Hoàng Anh tôi rất quan tâm. Điểm 2, tầm nhìn dài hạn Tien Phat, 3 năm tới có thể đi đến mức cùng phát triển IP với Hakuō không?* |
 
 *[Câu hỏi lớn — cùng phát triển IP = quan hệ đối tác thật sự. Dũng gõ nhanh: 'Q: 3年共同 phát triển IP — khả thi không?'.]*
 
 | Vai | Câu |
 |---------|-----|
 | **ハー** | 「<ruby>現実的<rt>げんじつてき</rt></ruby>なお<ruby>話<rt>はなし</rt></ruby>を。1<ruby>年目<rt>ねんめ</rt></ruby>はベトナム<ruby>側<rt>がわ</rt></ruby>のキャパビルダップ、2<ruby>年目<rt>ねんめ</rt></ruby>で<ruby>共同<rt>きょうどう</rt></ruby> R&D project、3<ruby>年目<rt>ねんめ</rt></ruby>で IP の co-ownership <ruby>議論<rt>ぎろん</rt></ruby>。<ruby>段階的<rt>だんかいてき</rt></ruby>に。」<br/>*Câu chuyện thực tế. Năm 1 nâng cao năng lực phía Việt Nam, năm 2 cùng dự án R&D, năm 3 bàn co-ownership IP. Từng bước.* |
-| **松本PM** | 「<ruby>現実的<rt>げんじつてき</rt></ruby>で<ruby>良<rt>よ</rt></ruby>いです。ハーさん、<ruby>白鷗<rt>はくおう</rt></ruby>としても、ベトナムを<ruby>単<rt>たん</rt></ruby>なる outsourcing <ruby>拠点<rt>きょてん</rt></ruby>ではなく、<ruby>戦略<rt>せんりゃく</rt></ruby>パートナーとして<ruby>見<rt>み</rt></ruby>たい。<ruby>今日<rt>きょう</rt></ruby>のコメント、<ruby>東京<rt>とうきょう</rt></ruby> board に<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>ります。」<br/>*Thực tế là tốt. Anh Hà, về phía Hakuō chúng em cũng muốn nhìn Việt Nam không chỉ là điểm gia công mà là đối tác chiến lược. Ý kiến hôm nay em đem về hội đồng Tokyo.* |
+| **松本PM** | 「<ruby>現実的<rt>げんじつてき</rt></ruby>で<ruby>良<rt>よ</rt></ruby>いです。ハーさん、<ruby>白鷗<rt>はくおう</rt></ruby>としても、ベトナムを<ruby>単<rt>たん</rt></ruby>なる outsourcing <ruby>拠点<rt>きょてん</rt></ruby>ではなく、<ruby>戦略<rt>せんりゃく</rt></ruby>パートナーとして<ruby>見<rt>み</rt></ruby>たい。<ruby>今日<rt>きょう</rt></ruby>のコメント、<ruby>東京<rt>とうきょう</rt></ruby> board に<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>ります。」<br/>*Thực tế là tốt. Anh Hà, về phía Hakuō chúng tôi cũng muốn nhìn Việt Nam không chỉ là điểm gia công mà là đối tác chiến lược. Ý kiến hôm nay em đem về hội đồng Tokyo.* |
 | **ハー** | 「ありがとうございます。ズンさん、<ruby>今日<rt>きょう</rt></ruby>のメモは<ruby>私<rt>わたし</rt></ruby>と<ruby>松本<rt>まつもと</rt></ruby>さん<ruby>両方<rt>りょうほう</rt></ruby>にメールで<ruby>送<rt>おく</rt></ruby>って。」<br/>*Cảm ơn anh. Dũng à, ghi chú hôm nay em gửi mail cho anh với anh Matsumoto cả hai.* |
 | **ズン** | 「(<ruby>姿勢<rt>しせい</rt></ruby><ruby>正<rt>ただ</rt></ruby>して)<ruby>了解<rt>りょうかい</rt></ruby>です。<ruby>本日中<rt>ほんじつじゅう</rt></ruby>にお<ruby>送<rt>おく</rt></ruby>りします。」<br/>*(chỉnh tư thế) Vâng em hiểu. Trong hôm nay em gửi.* |
 | **松本PM** | 「(笑って、ズンに)ズンさん、<ruby>表情<rt>ひょうじょう</rt></ruby><ruby>変<rt>か</rt></ruby>えずに<ruby>重<rt>おも</rt></ruby>い<ruby>議論<rt>ぎろん</rt></ruby>をメモしてたね、<ruby>立派<rt>りっぱ</rt></ruby>だ。」<br/>*(cười, với Dũng) Dũng à, không thay đổi vẻ mặt mà ghi chú cuộc thảo luận nặng nề vậy, giỏi đó.* |
@@ -442,7 +442,7 @@ Nhân viên mới được vào họp cấp lãnh đạo làm người ghi chú 
 | **佐々木 (開発)** | 「(ハイに、ベトナム<ruby>語<rt>ご</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>)ハイさん、『<ruby>乾杯<rt>かんぱい</rt></ruby>』ベトナム<ruby>語<rt>ご</rt></ruby>で<ruby>何<rt>なん</rt></ruby>?」<br/>*(với Hải, học tiếng Việt) Hải nè, 'kanpai' tiếng Việt nói sao?* |
 | **ハイ** | 「『một, hai, ba, dô!』、『1, 2, 3 dô』みたいな<ruby>掛け声<rt>かけごえ</rt></ruby>。やってみますか?」<br/>*'Một, hai, ba, dô!', kiểu hô '1, 2, 3 dô'. Thử không?* |
 | **全員** | 「Một, hai, ba, dô!」<br/>*Một, hai, ba, dô!* |
-| **松本PM** | 「(笑い)これいいね、Tokyo で<ruby>覚<rt>おぼ</rt></ruby>えて<ruby>使<rt>つか</rt></ruby>う。」<br/>*(cười) Hay đó, em nhớ về Tokyo dùng.* |
+| **松本PM** | 「(笑い)これいいね、Tokyo で<ruby>覚<rt>おぼ</rt></ruby>えて<ruby>使<rt>つか</rt></ruby>う。」<br/>*(cười) Hay đó, tôi nhớ về Tokyo dùng.* |
 
 
 ### Bí quyết — Bữa tối ngày 2 — quan hệ đã lên tầm mới
@@ -507,7 +507,7 @@ Ký MoU = khoảnh khắc quan trọng nhưng không cần phô trương:
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「<ruby>松本<rt>まつもと</rt></ruby>さん、これ、ベトナムのコーヒーとベンチェのココナッツ<ruby>菓子<rt>かし</rt></ruby>。お<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りください。」<br/>*Anh Matsumoto, đây cà phê Việt Nam và bánh dừa Bến Tre. Anh mang về ạ.* |
-| **松本PM** | 「(<ruby>戸惑<rt>とまど</rt></ruby>う)あ、ありがとう…でも、<ruby>初日<rt>しょにち</rt></ruby>にフオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>から<ruby>既<rt>すで</rt></ruby>にいただいたよ、<ruby>十分<rt>じゅうぶん</rt></ruby>だよ。」<br/>*(lúng túng) À, cảm ơn… nhưng ngày đầu em đã nhận từ chị Hương rồi, đủ rồi.* |
+| **松本PM** | 「(<ruby>戸惑<rt>とまど</rt></ruby>う)あ、ありがとう…でも、<ruby>初日<rt>しょにち</rt></ruby>にフオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>から<ruby>既<rt>すで</rt></ruby>にいただいたよ、<ruby>十分<rt>じゅうぶん</rt></ruby>だよ。」<br/>*(lúng túng) À, cảm ơn… nhưng ngày đầu tôi đã nhận từ chị Hương rồi, đủ rồi.* |
 
 *[Dũng cứng người — quên mất Hương đã đưa túi quà chào mừng đầu tuần với cà phê + quà kỷ niệm. Trùng lặp rồi.]*
 

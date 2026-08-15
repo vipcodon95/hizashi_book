@@ -23,18 +23,18 @@
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「(ベトナム語、フオンに招待状見せる)Chị Hương, anh Tanaka mời em dự cưới. Em chưa biết gì hết — phải làm gì?」<br/>*(tiếng Việt, đưa thiệp Hương xem) Chị Hương, anh Tanaka mời em dự cưới. Em chưa biết gì hết — phải làm gì?* |
-| **フオン副部長** | 「(招待状見る、嬉しそう)Wow, Tanaka mời em! Đó là cấp mời cao đó, chỉ 80 khách. Vinh dự lắm đó.」<br/>*(xem thiệp, vui) Wow, Tanaka mời em! Đây là cấp mời cao đó, chỉ 80 khách thôi. Vinh dự đó.* |
-| **フオン副部長** | 「OK chị tóm tắt nhanh. 5 thứ: (1) Goshugi (lì xì), (2) quy định trang phục, (3) check ngày-giờ-địa điểm, (4) RSVP, (5) quà / lời chúc.」<br/>*OK chị tóm tắt nhanh. 5 thứ: (1) goshugi (lì xì cưới), (2) quy định trang phục, (3) check ngày-giờ-địa điểm, (4) RSVP, (5) quà / lời chúc.* |
-| **フオン副部長** | 「Goshugi: Tanaka đồng cấp đồng nghiệp gần với em, 30,000 yen. Tiền MỚI tinh từ ngân hàng — không phải tiền cũ. Gói shugi-bukuro (loại có nơ trắng-bạc), Don Quijote bán.」<br/>*Goshugi: Tanaka đồng cấp đồng nghiệp gần với em, 30,000 yen. Tiền MỚI tinh từ ngân hàng — không phải tiền cũ. Gói shugi-bukuro (loại có nơ trắng-bạc), Don Quijote bán.* |
+| **フオン副部長** | 「(ベトナム語、招待状見る、嬉しそう)Wow, Tanaka mời em! Đó là cấp mời cao đó, chỉ 80 khách. Vinh dự lắm đó.」<br/>*(xem thiệp, vui) Wow, Tanaka mời em! Đây là cấp mời cao đó, chỉ 80 khách thôi. Vinh dự đó.* |
+| **フオン副部長** | 「(ベトナム語)OK chị tóm tắt nhanh. 5 thứ: (1) Goshugi (lì xì), (2) quy định trang phục, (3) check ngày-giờ-địa điểm, (4) RSVP, (5) quà / lời chúc.」<br/>*OK chị tóm tắt nhanh. 5 thứ: (1) goshugi (lì xì cưới), (2) quy định trang phục, (3) check ngày-giờ-địa điểm, (4) RSVP, (5) quà / lời chúc.* |
+| **フオン副部長** | 「(ベトナム語)Goshugi: Tanaka đồng cấp đồng nghiệp gần với em, 30,000 yen. Tiền MỚI tinh từ ngân hàng — không phải tiền cũ. Gói shugi-bukuro (loại có nơ trắng-bạc), Don Quijote bán.」<br/>*Goshugi: Tanaka đồng cấp đồng nghiệp gần với em, 30,000 yen. Tiền MỚI tinh từ ngân hàng — không phải tiền cũ. Gói shugi-bukuro (loại có nơ trắng-bạc), Don Quijote bán.* |
 | **ズン** | 「30,000 yen?<ruby>確<rt>たし</rt></ruby>かベトナム<ruby>円換算<rt>えんかんさん</rt></ruby>で 5 triệu...」<br/>*30,000 yen? Đổi ra Việt Nam tầm 5 triệu…* |
-| **フオン副部長** | 「Đó là quy tắc Nhật. Đừng cho ít hơn — thất lễ. Đừng cho nhiều hơn — lấn át. 30K là chính xác.」<br/>*Đó là quy tắc Nhật. Cho ít hơn là thất lễ, cho nhiều hơn là lấn át cô dâu chú rể. 30K là chính xác.* |
-| **フオン副部長** | 「Quy định trang phục: dark suit (đen hoặc dark navy), white shirt, cravat MÀU trắng-bạc hoặc xám nhạt. KHÔNG cravat đen — đó là tang lễ. KHÔNG suit toàn đen — cũng tang lễ. Em có suit chưa?」<br/>*Quy định trang phục: dark suit (đen hoặc dark navy), white shirt, cravat MÀU trắng-bạc hoặc xám nhạt. KHÔNG cravat đen — đó là tang lễ. KHÔNG suit toàn đen — cũng tang lễ. Em có suit chưa?* |
-| **ズン** | 「Suit dark navy có rồi, em mua hồi onsite. Cravat...em chỉ có đen với đỏ.」<br/>*Suit dark navy có rồi, em mua hồi onsite. Cravat… em chỉ có đen với đỏ.* |
-| **フオン副部長** | 「OK em mua thêm 1 cravat trắng-bạc Aoki / Konaka khi qua Tokyo. ¥3,000-5,000.」<br/>*OK em mua thêm 1 cravat trắng-bạc Aoki / Konaka khi qua Tokyo. ¥3,000-5,000.* |
-| **フオン副部長** | 「RSVP: trong vòng 1 tuần, gửi reply card đính kèm thiệp. Gạch chữ '<ruby>欠席<rt>けっせき</rt></ruby>' (vắng), khoanh '<ruby>出席<rt>しゅっせき</rt></ruby>' (dự). Viết câu chúc mừng ngắn 1-2 câu chân thành.」<br/>*RSVP: trong vòng 1 tuần, gửi reply card đính kèm thiệp. Gạch chữ '欠席' (vắng), khoanh '出席' (dự). Viết câu chúc mừng ngắn 1-2 câu chân thành.* |
-| **フオン副部長** | 「Quà thêm: hoa cho cô dâu hoặc quà nhỏ cho cặp đôi tùy ý. Gửi đến nhà 1 tuần trước đám cưới. Nhưng nếu không tiện, goshugi là đủ.」<br/>*Quà thêm: hoa cho cô dâu hoặc quà nhỏ cho cặp đôi tùy ý. Gửi đến nhà 1 tuần trước đám cưới. Nhưng nếu không tiện, goshugi đủ.* |
-| **ズン** | 「Ghi hết rồi. Em sẽ mua goshugi + cravat ở Tokyo thứ Sáu tới, đám cưới thứ Bảy.」<br/>*Ghi hết rồi. Em sẽ mua goshugi + cravat ở Tokyo thứ Sáu tới, đám cưới thứ Bảy.* |
-| **フオン副部長** | 「Một điều cuối — đừng căng thẳng. Tanaka mời em vì coi em là người nhà đó. Cứ tận hưởng nha.」<br/>*Một điều cuối — đừng căng thẳng. Tanaka mời em vì coi em như người nhà rồi. Cứ tận hưởng nha.* |
+| **フオン副部長** | 「(ベトナム語)Đó là quy tắc Nhật. Đừng cho ít hơn — thất lễ. Đừng cho nhiều hơn — lấn át. 30K là chính xác.」<br/>*Đó là quy tắc Nhật. Cho ít hơn là thất lễ, cho nhiều hơn là lấn át cô dâu chú rể. 30K là chính xác.* |
+| **フオン副部長** | 「(ベトナム語)Quy định trang phục: dark suit (đen hoặc dark navy), white shirt, cravat MÀU trắng-bạc hoặc xám nhạt. KHÔNG cravat đen — đó là tang lễ. KHÔNG suit toàn đen — cũng tang lễ. Em có suit chưa?」<br/>*Quy định trang phục: dark suit (đen hoặc dark navy), white shirt, cravat MÀU trắng-bạc hoặc xám nhạt. KHÔNG cravat đen — đó là tang lễ. KHÔNG suit toàn đen — cũng tang lễ. Em có suit chưa?* |
+| **ズン** | 「(ベトナム語)Suit dark navy có rồi, em mua hồi onsite. Cravat...em chỉ có đen với đỏ.」<br/>*Suit dark navy có rồi, em mua hồi đợt làm việc tại chỗ. Cravat… em chỉ có đen với đỏ.* |
+| **フオン副部長** | 「(ベトナム語)OK em mua thêm 1 cravat trắng-bạc Aoki / Konaka khi qua Tokyo. ¥3,000-5,000.」<br/>*OK em mua thêm 1 cravat trắng-bạc Aoki / Konaka khi qua Tokyo. ¥3,000-5,000.* |
+| **フオン副部長** | 「(ベトナム語)RSVP: trong vòng 1 tuần, gửi reply card đính kèm thiệp. Gạch chữ '<ruby>欠席<rt>けっせき</rt></ruby>' (vắng), khoanh '<ruby>出席<rt>しゅっせき</rt></ruby>' (dự). Viết câu chúc mừng ngắn 1-2 câu chân thành.」<br/>*RSVP: trong vòng 1 tuần, gửi reply card đính kèm thiệp. Gạch chữ '欠席' (vắng), khoanh '出席' (dự). Viết câu chúc mừng ngắn 1-2 câu chân thành.* |
+| **フオン副部長** | 「(ベトナム語)Quà thêm: hoa cho cô dâu hoặc quà nhỏ cho cặp đôi tùy ý. Gửi đến nhà 1 tuần trước đám cưới. Nhưng nếu không tiện, goshugi là đủ.」<br/>*Quà thêm: hoa cho cô dâu hoặc quà nhỏ cho cặp đôi tùy ý. Gửi đến nhà 1 tuần trước đám cưới. Nhưng nếu không tiện, goshugi đủ.* |
+| **ズン** | 「(ベトナム語)Ghi hết rồi. Em sẽ mua goshugi + cravat ở Tokyo thứ Sáu tới, đám cưới thứ Bảy.」<br/>*Ghi hết rồi. Em sẽ mua goshugi + cravat ở Tokyo thứ Sáu tới, đám cưới thứ Bảy.* |
+| **フオン副部長** | 「(ベトナム語)Một điều cuối — đừng căng thẳng. Tanaka mời em vì coi em là người nhà đó. Cứ tận hưởng nha.」<br/>*Một điều cuối — đừng căng thẳng. Tanaka mời em vì coi em như người nhà rồi. Cứ tận hưởng nha.* |
 
 
 ### Bí quyết — Hướng dẫn trước kekkonshiki — 5 điểm
@@ -177,6 +177,28 @@ Chi tiết quy tắc goshugi:
 - **Không** chen ngang phát biểu bằng câu của mình.
 - Phát biểu bố Tanaka về Tanaka hồi nhỏ = cánh cửa vào con người thật của Tanaka — thêm bối cảnh quý giá cho Dũng.
 
+---
+
+### Bí quyết — 忌み言葉 (imi-kotoba) — những từ TUYỆT ĐỐI tránh trong đám cưới
+
+Đây là trục văn hoá quan trọng bậc nhất của đám cưới Nhật, và cũng là chỗ người nước ngoài dễ vấp nhất. Người Nhật kiêng những từ gợi **chia lìa, kết thúc, lặp lại** (ý là "cưới lại lần nữa").
+
+| Nhóm | Từ kiêng | Nói thay bằng |
+|---|---|---|
+| Chia lìa · kết thúc | 別れる・切る・終わる・去る・冷める・破れる | 「お開きにする」 (thay 終わる), 「ケーキ入刀」 (thay ケーキを切る) |
+| Về / rời đi | 帰る・戻る | 「<ruby>発<rt>た</rt></ruby>つ」「<ruby>失礼<rt>しつれい</rt></ruby>する」 |
+| Lặp lại (gợi tái hôn) | 重ね重ね・くれぐれも・again 何度も・再び・返す | Nói một lần, không dùng từ láy đôi |
+| Xui rủi | 死ぬ・苦しい・忙しい (chữ 亡/苦) | Đổi cách diễn đạt hẳn |
+
+**Điều đáng chú ý:** chính vì 切る là từ kiêng nên nghi thức cắt bánh được gọi là **「ケーキ<ruby>入刀<rt>にゅうとう</rt></ruby>」** chứ không phải 「ケーキを切る」. Nghe MC xướng 入刀 mà hiểu được lý do = bạn đã nắm đúng tinh thần.
+
+**Với người Việt cần nhớ nhất:**
+- Đừng hỏi 「<ruby>何時<rt>なんじ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>りますか」 — dùng 「<ruby>何時<rt>なんじ</rt></ruby>に<ruby>失礼<rt>しつれい</rt></ruby>されますか」.
+- Chúc mừng thì ngắn gọn 「おめでとうございます」, **đừng thêm 「重ね重ね」** dù nghe có vẻ lịch sự — đó chính là từ kiêng.
+- Nếu lỡ miệng: đừng sửa lưng rườm rà giữa tiệc. Cười nhẹ, nói 「<ruby>失礼<rt>しつれい</rt></ruby>しました」 rồi đi tiếp. Người Nhật hiểu bạn là người nước ngoài.
+
+> ⚠️ Quy tắc này áp dụng cho **cả lời nói lẫn thiệp chúc mừng**. Viết thiệp thì cũng không chấm câu bằng dấu 「、」「。」 — vì dấu chấm mang nghĩa "kết thúc".
+
 
 ---
 
@@ -194,7 +216,7 @@ Chi tiết quy tắc goshugi:
 |---------|-----|
 | **ズン** | 「<ruby>初<rt>はじ</rt></ruby>めまして、ベトナム HCMC から<ruby>来<rt>き</rt></ruby>ました、Tien Phat 社の Tran Van Dung、ズンと<ruby>申<rt>もう</rt></ruby>します。<ruby>田中<rt>たなか</rt></ruby>さんとは<ruby>仕事<rt>しごと</rt></ruby>を<ruby>通<rt>つう</rt></ruby>じて<ruby>知<rt>し</rt></ruby>り<ruby>合<rt>あ</rt></ruby>って、<ruby>本日<rt>ほんじつ</rt></ruby>はお<ruby>招<rt>まね</rt></ruby>きいただいて<ruby>感激<rt>かんげき</rt></ruby>しています。」<br/>*Rất hân hạnh, em từ HCMC Việt Nam, là Trần Văn Dũng của Tien Phat, anh chị gọi em là Dũng. Em quen anh Tanaka qua công việc, hôm nay được mời em rất xúc động.* |
 | **同席ゲストB** | 「(架空、<ruby>驚<rt>おどろ</rt></ruby>き)ベトナムから?Tanaka が<ruby>外国<rt>がいこく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>の<ruby>珍<rt>めずら</rt></ruby>しい!2<ruby>人<rt>にん</rt></ruby>どうやって<ruby>出会<rt>であ</rt></ruby>ったの?」<br/>*(khách bàn 2, ngạc nhiên) Từ Việt Nam? Tanaka mời người nước ngoài hiếm lắm! 2 người gặp thế nào?* |
-| **ズン** | 「2<ruby>年前<rt>ねんまえ</rt></ruby>、<ruby>白鷗<rt>はくおう</rt></ruby>とティエンファットの Phase 4 プロジェクトで<ruby>田中<rt>たなか</rt></ruby>さんが PMO <ruby>担当<rt>たんとう</rt></ruby>でした。<ruby>最初<rt>さいしょ</rt></ruby>は Slack の<ruby>文字<rt>もじ</rt></ruby>だけの<ruby>関係<rt>かんけい</rt></ruby>でしたが、IT Week <ruby>東京<rt>とうきょう</rt></ruby>、HCMC visit、<ruby>出張<rt>しゅっちょう</rt></ruby>、<ruby>温泉<rt>おんせん</rt></ruby>、<ruby>徐々<rt>じょじょ</rt></ruby>に<ruby>深<rt>ふか</rt></ruby>まって。」<br/>*2 năm trước, dự án Phase 4 giữa Hakuō và Tien Phat, anh Tanaka là PMO. Đầu chỉ qua Slack, sau IT Week Tokyo, HCMC visit, công vụ, onsen, dần dần sâu.* |
+| **ズン** | 「2<ruby>年前<rt>ねんまえ</rt></ruby>、<ruby>白鷗<rt>はくおう</rt></ruby>とティエンファットの Phase 4 プロジェクトで<ruby>田中<rt>たなか</rt></ruby>さんが PMO <ruby>担当<rt>たんとう</rt></ruby>でした。<ruby>最初<rt>さいしょ</rt></ruby>は Slack の<ruby>文字<rt>もじ</rt></ruby>だけの<ruby>関係<rt>かんけい</rt></ruby>でしたが、IT Week <ruby>東京<rt>とうきょう</rt></ruby>、HCMC visit、<ruby>出張<rt>しゅっちょう</rt></ruby>、<ruby>温泉<rt>おんせん</rt></ruby>、<ruby>徐々<rt>じょじょ</rt></ruby>に<ruby>深<rt>ふか</rt></ruby>まって。」<br/>*2 năm trước, dự án Phase 4 giữa Hakuō và Tien Phat, anh Tanaka là PMO. Đầu chỉ qua Slack, sau IT Week Tokyo, HCMC visit, công tác, onsen, dần dần sâu.* |
 | **同席ゲストA** | 「Tanaka、<ruby>本当<rt>ほんとう</rt></ruby>に lucky だね、こんなに<ruby>深<rt>ふか</rt></ruby>い business friendship つくれて。」<br/>*Tanaka thật may mắn nhỉ, xây dựng được tình bạn công việc sâu vầy.* |
 | **同席ゲストC** | 「(架空)ズンさん、ベトナムの<ruby>結婚式<rt>けっこんしき</rt></ruby>と<ruby>日本<rt>にほん</rt></ruby>の<ruby>結婚式<rt>けっこんしき</rt></ruby>、どう<ruby>違<rt>ちが</rt></ruby>う?」<br/>*(khách bàn 3) Dũng à, đám cưới Việt Nam khác đám cưới Nhật chỗ nào?* |
 | **ズン** | 「(<ruby>笑<rt>わら</rt></ruby>って)ベトナムの<ruby>結婚式<rt>けっこんしき</rt></ruby>は、<ruby>招待客<rt>しょうたいきゃく</rt></ruby>が300-500<ruby>人<rt>にん</rt></ruby>、<ruby>最大<rt>さいだい</rt></ruby>1000<ruby>人<rt>にん</rt></ruby>とか<ruby>普通<rt>ふつう</rt></ruby>です。<ruby>料金<rt>りょうきん</rt></ruby>は<ruby>新郎新婦<rt>しんろうしんぷ</rt></ruby>が<ruby>負担<rt>ふたん</rt></ruby>。<ruby>皆<rt>みな</rt></ruby>さん<ruby>来<rt>き</rt></ruby>てくれた<ruby>人<rt>ひと</rt></ruby>に goshugi <ruby>概念<rt>がいねん</rt></ruby>ない、<ruby>逆<rt>ぎゃく</rt></ruby>に<ruby>料理<rt>りょうり</rt></ruby>を<ruby>奢<rt>おご</rt></ruby>る。」<br/>*(cười) Đám cưới Việt Nam khách 300-500 người, max 1000 thường. Tiền chú rể cô dâu chịu. Khách không có concept goshugi, ngược lại đãi đồ ăn.* |
@@ -272,7 +294,7 @@ Chụp ảnh cùng cô dâu chú rể tại bàn = khoảnh khắc ngắn 1-2 ph
 
 | Vai | Câu |
 |---------|-----|
-| **友人スピーチ** | 「(架空、<ruby>関西弁<rt>かんさいべん</rt></ruby>)<ruby>宏志<rt>ひろし</rt></ruby>〜!お<ruby>前<rt>まえ</rt></ruby>なあ、3<ruby>年前<rt>ねんまえ</rt></ruby>に<ruby>俺<rt>おれ</rt></ruby>がな、<ruby>由美<rt>ゆみ</rt></ruby>さん<ruby>紹介<rt>しょうかい</rt></ruby>したときに『<ruby>俺<rt>おれ</rt></ruby>タイプじゃないわ』って<ruby>言<rt>い</rt></ruby>うてたやんけ!アホかおまえは!」<br/>*(speech bạn, Kansai-ben) Hiroshi! Mày đó, 3 năm trước hồi tao giới thiệu Yumi, mày bảo 'không phải gu tao' đó! Ngu thế!* |
+| **友人スピーチ** | 「(架空、<ruby>関西弁<rt>かんさいべん</rt></ruby>)<ruby>宏志<rt>ひろし</rt></ruby>〜!お<ruby>前<rt>まえ</rt></ruby>なあ、3<ruby>年前<rt>ねんまえ</rt></ruby>に<ruby>俺<rt>おれ</rt></ruby>がな、<ruby>由美<rt>ゆみ</rt></ruby>さん<ruby>紹介<rt>しょうかい</rt></ruby>したときに『<ruby>俺<rt>おれ</rt></ruby>タイプじゃないわ』って<ruby>言<rt>い</rt></ruby>うてたやんけ!アホかおまえは!」<br/>*(bài phát biểu bạn, Kansai-ben) Hiroshi! Mày đó, 3 năm trước hồi tao giới thiệu Yumi, mày bảo 'không phải gu tao' đó! Ngu thế!* |
 
 *[Khách cười lớn. Dũng không hiểu nguyên câu nhưng bắt được 'タイプじゃない' (không phải gu) + 'アホ' (ngu) + giọng điệu đùa. Cười theo.]*
 
@@ -284,11 +306,11 @@ Chụp ảnh cùng cô dâu chú rể tại bàn = khoảnh khắc ngắn 1-2 ph
 
 | Vai | Câu |
 |---------|-----|
-| **友人スピーチ** | 「<ruby>宏志<rt>ひろし</rt></ruby>、<ruby>由美<rt>ゆみ</rt></ruby>さん、<ruby>本当<rt>ほんとう</rt></ruby>におめでとう。3<ruby>年前<rt>ねんまえ</rt></ruby>に<ruby>俺<rt>おれ</rt></ruby>がいい<ruby>仕事<rt>しごと</rt></ruby>した(<ruby>笑<rt>わら</rt></ruby>)。お<ruby>前<rt>まえ</rt></ruby>ら2<ruby>人<rt>にん</rt></ruby>を<ruby>見<rt>み</rt></ruby>てて、<ruby>人生<rt>じんせい</rt></ruby>は<ruby>計画通<rt>けいかくどお</rt></ruby>りいかへんけど、<ruby>悪<rt>わる</rt></ruby>い<ruby>結果<rt>けっか</rt></ruby>は<ruby>来<rt>こ</rt></ruby>ない、ということを<ruby>学<rt>まな</rt></ruby>んだわ。」<br/>*Hiroshi, Yumi, thực sự chúc mừng. 3 năm trước tao làm việc tốt (cười). Nhìn 2 mày, tao học được rằng đời không theo kế hoạch, nhưng kết cục không tệ.* |
+| **友人スピーチ** | 「<ruby>宏志<rt>ひろし</rt></ruby>、<ruby>由美<rt>ゆみ</rt></ruby>さん、<ruby>本当<rt>ほんとう</rt></ruby>におめでとう。3<ruby>年前<rt>ねんまえ</rt></ruby>に<ruby>俺<rt>おれ</rt></ruby>がいい<ruby>仕事<rt>しごと</rt></ruby>した(<ruby>笑<rt>わら</rt></ruby>)。お<ruby>前<rt>まえ</rt></ruby>ら2<ruby>人<rt>にん</rt></ruby>を<ruby>見<rt>み</rt></ruby>てて、<ruby>人生<rt>じんせい</rt></ruby>は<ruby>計画通<rt>けいかくどお</rt></ruby>りいかへんけど、その<ruby>分<rt>ぶん</rt></ruby>ええ<ruby>出会<rt>であ</rt></ruby>いがある、ということを<ruby>学<rt>まな</rt></ruby>んだわ。」<br/>*Hiroshi, Yumi, thực sự chúc mừng. 3 năm trước tao làm việc tốt (cười). Nhìn 2 mày, tao học được rằng đời không theo kế hoạch, nhưng kết cục không tệ.* |
 | **全員** | 「(拍手)」<br/>*(vỗ tay)* |
 | **同席ゲストC** | 「(ズンに<ruby>小声<rt>こごえ</rt></ruby>)<ruby>関西弁<rt>かんさいべん</rt></ruby><ruby>分<rt>わ</rt></ruby>かる?」<br/>*(với Dũng nhỏ giọng) Hiểu Kansai-ben không?* |
 | **ズン** | 「(<ruby>笑<rt>わら</rt></ruby>って)<ruby>半分<rt>はんぶん</rt></ruby>くらい、でも<ruby>雰囲気<rt>ふんいき</rt></ruby>で<ruby>笑<rt>わら</rt></ruby>えました。」<br/>*(cười) Khoảng nửa, nhưng nhờ không khí em cười được.* |
-| **同席ゲストC** | 「それで<ruby>十分<rt>じゅうぶん</rt></ruby>。<ruby>良<rt>よ</rt></ruby>いスピーチだった。」<br/>*Vậy là đủ. Speech hay.* |
+| **同席ゲストC** | 「それで<ruby>十分<rt>じゅうぶん</rt></ruby>。<ruby>良<rt>よ</rt></ruby>いスピーチだった。」<br/>*Vậy là đủ. Bài phát biểu hay.* |
 
 
 ### Bí quyết — Phát biểu phương ngữ — cười đúng lúc
@@ -316,7 +338,7 @@ Phát biểu bạn bè đám cưới thường có tiếng lóng Kansai-ben / Ha
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「<ruby>正直<rt>しょうじき</rt></ruby>に<ruby>言<rt>い</rt></ruby>うと…(<ruby>深呼吸<rt>しんこきゅう</rt></ruby>)…<ruby>日本<rt>にほん</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>の<ruby>温<rt>あたた</rt></ruby>かさを、ここまで<ruby>深<rt>ふか</rt></ruby>く<ruby>感<rt>かん</rt></ruby>じるとは<ruby>思<rt>おも</rt></ruby>いませんでした。お<ruby>父様<rt>とうさま</rt></ruby>のスピーチで<ruby>田中<rt>たなか</rt></ruby>さんが<ruby>泣<rt>な</rt></ruby>いて、それを<ruby>見<rt>み</rt></ruby>て<ruby>自分<rt>じぶん</rt></ruby>も<ruby>涙<rt>なみだ</rt></ruby>が<ruby>出<rt>で</rt></ruby>て…<ruby>自分<rt>じぶん</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>を<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>だ</rt></ruby>しました。」<br/>*Em nói thật… (hít thở)… em không nghĩ sẽ cảm nhận được sự ấm áp của gia đình Nhật sâu vậy. Speech bố mà anh Tanaka khóc, em nhìn theo cũng cay mắt… em nhớ gia đình mình.* |
+| **ズン** | 「<ruby>正直<rt>しょうじき</rt></ruby>に<ruby>言<rt>い</rt></ruby>うと…(<ruby>深呼吸<rt>しんこきゅう</rt></ruby>)…<ruby>日本<rt>にほん</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>の<ruby>温<rt>あたた</rt></ruby>かさを、ここまで<ruby>深<rt>ふか</rt></ruby>く<ruby>感<rt>かん</rt></ruby>じるとは<ruby>思<rt>おも</rt></ruby>いませんでした。お<ruby>父様<rt>とうさま</rt></ruby>のスピーチで<ruby>田中<rt>たなか</rt></ruby>さんが<ruby>泣<rt>な</rt></ruby>いて、それを<ruby>見<rt>み</rt></ruby>て<ruby>自分<rt>じぶん</rt></ruby>も<ruby>涙<rt>なみだ</rt></ruby>が<ruby>出<rt>で</rt></ruby>て…<ruby>自分<rt>じぶん</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>を<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>だ</rt></ruby>しました。」<br/>*Em nói thật… (hít thở)… em không nghĩ sẽ cảm nhận được sự ấm áp của gia đình Nhật sâu vậy. Bài phát biểu bố mà anh Tanaka khóc, em nhìn theo cũng cay mắt… em nhớ gia đình mình.* |
 | **大垣 営業部長** | 「(うなずく)<ruby>結婚式<rt>けっこんしき</rt></ruby>は、<ruby>本人<rt>ほんにん</rt></ruby>たちの<ruby>祝<rt>いわ</rt></ruby>いだけじゃなくて、<ruby>家族<rt>かぞく</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>を<ruby>見<rt>み</rt></ruby>る<ruby>場所<rt>ばしょ</rt></ruby>。<ruby>海外<rt>かいがい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>にとってはショック<ruby>深<rt>ふか</rt></ruby>いと<ruby>思<rt>おも</rt></ruby>う。」<br/>*(gật) Đám cưới không chỉ chúc mừng đôi bên mà là nơi nhìn lịch sử gia đình. Với người nước ngoài có lẽ gây ấn tượng sâu.* |
 | **松本PM** | 「ズンさんが<ruby>招待<rt>しょうたい</rt></ruby>されたこと、<ruby>田中<rt>たなか</rt></ruby>にとってどれだけ<ruby>意味<rt>いみ</rt></ruby>あるか<ruby>分<rt>わ</rt></ruby>かる?」<br/>*Việc Dũng được mời, với Tanaka có ý nghĩa thế nào em biết không?* |
 | **ズン** | 「(首を振る)分からないです、教えてください。」<br/>*(lắc đầu) Em không biết, anh nói em ạ.* |
@@ -386,7 +408,7 @@ Tung hoa cưới = nghi lễ nội bộ của Nhật:
 |---------|-----|
 | **田中PMO** | 「(ドア<ruby>前<rt>まえ</rt></ruby>で1<ruby>人<rt>り</rt></ruby>ずつ<ruby>見送<rt>みおく</rt></ruby>り)ズンさん、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>来<rt>き</rt></ruby>てくれてありがとう。Vietnam から<ruby>長<rt>なが</rt></ruby>い<ruby>旅<rt>たび</rt></ruby>で。」<br/>*(tại cửa tiễn từng người) Dũng thực sự cảm ơn cậu đã đến. Từ Việt Nam đường xa.* |
 | **ズン** | 「(<ruby>深<rt>ふか</rt></ruby>くお<ruby>辞儀<rt>じぎ</rt></ruby>)<ruby>田中<rt>たなか</rt></ruby>さん、<ruby>由美<rt>ゆみ</rt></ruby>さん、<ruby>本日<rt>ほんじつ</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>におめでとうございます。お<ruby>招<rt>まね</rt></ruby>きいただき、<ruby>一生<rt>いっしょう</rt></ruby>の<ruby>宝物<rt>たからもの</rt></ruby>の<ruby>一日<rt>いちにち</rt></ruby>になりました。」<br/>*(cúi đầu sâu) Anh Tanaka, chị Yumi, hôm nay chân thành chúc mừng. Được mời, một ngày trở thành báu vật cả đời.* |
-| **由美 (新婦)** | 「ズンさん、<ruby>明日<rt>あした</rt></ruby>の<ruby>便<rt>びん</rt></ruby>でベトナム<ruby>帰<rt>かえ</rt></ruby>る?」<br/>*Dũng mai về Việt Nam?* |
+| **由美 (新婦)** | 「ズンさん、<ruby>明日<rt>あした</rt></ruby>の<ruby>便<rt>びん</rt></ruby>でベトナムへ<ruby>発<rt>た</rt></ruby>つの?」<br/>*Dũng mai về Việt Nam?* |
 | **ズン** | 「はい、<ruby>明日<rt>あした</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby> 10 <ruby>時<rt>じ</rt></ruby>の<ruby>便<rt>びん</rt></ruby>。<ruby>今夜<rt>こんや</rt></ruby>は<ruby>二次会<rt>にじかい</rt></ruby>で<ruby>松本<rt>まつもと</rt></ruby>さん<ruby>大垣<rt>おおがき</rt></ruby>さん<ruby>井上<rt>いのうえ</rt></ruby>さんと。」<br/>*Vâng, sáng mai chuyến 10h. Tối nay tăng 2 với anh Matsumoto, anh Ōgaki, anh Inoue.* |
 | **田中PMO** | 「(<ruby>笑<rt>わら</rt></ruby>)<ruby>二次会<rt>にじかい</rt></ruby>、<ruby>僕<rt>ぼく</rt></ruby>も<ruby>行<rt>い</rt></ruby>くよ、<ruby>新郎<rt>しんろう</rt></ruby>なのに(<ruby>笑<rt>わら</rt></ruby>)。<ruby>短時間<rt>たんじかん</rt></ruby>だけど。」<br/>*(cười) Tăng 2 anh cũng đi, dù là chú rể (cười). Ngắn thôi.* |
 | **由美 (新婦)** | 「Hiroshi、<ruby>新婦<rt>しんぷ</rt></ruby><ruby>置<rt>お</rt></ruby>いて<ruby>二次会<rt>にじかい</rt></ruby>いっぱいいかないでね(<ruby>笑<rt>わら</rt></ruby>)」<br/>*Hiroshi, đừng bỏ tôi đi tăng 2 lâu nhé (cười)* |
@@ -423,15 +445,15 @@ Hikidemono (引出物) = quà cảm ơn cô dâu chú rể trao cuối đám cư
 | **松本PM** | 「(ビール<ruby>乾杯<rt>かんぱい</rt></ruby>)じゃあ、ズンさん、<ruby>長<rt>なが</rt></ruby>い1<ruby>日<rt>にち</rt></ruby>お<ruby>疲<rt>つか</rt></ruby>れ。」<br/>*(kanpai bia) Vậy, Dũng vất vả ngày dài.* |
 | **全員** | 「お疲れ様!」<br/>*Vất vả!* |
 | **井上** | 「ズンさん、<ruby>結婚式<rt>けっこんしき</rt></ruby>どう<ruby>感<rt>かん</rt></ruby>じた?」<br/>*Dũng cảm thấy đám cưới sao?* |
-| **ズン** | 「(<ruby>本気<rt>ほんき</rt></ruby>で)…<ruby>正直<rt>しょうじき</rt></ruby>、<ruby>文化衝撃<rt>ぶんかしょうげき</rt></ruby>でした。<ruby>良<rt>よ</rt></ruby>い<ruby>意味<rt>いみ</rt></ruby>で。<ruby>日本<rt>にほん</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>の<ruby>表現<rt>ひょうげん</rt></ruby>、<ruby>温<rt>あたた</rt></ruby>かさのレイヤー、<ruby>自分<rt>じぶん</rt></ruby>の VN のスタイルとも<ruby>違<rt>ちが</rt></ruby>うし、<ruby>教科書<rt>きょうかしょ</rt></ruby>で<ruby>読<rt>よ</rt></ruby>んだのとも<ruby>違<rt>ちが</rt></ruby>いました。」<br/>*(thật) … thật lòng, em sốc văn hóa. Theo nghĩa tốt. Cách người Nhật thể hiện tình cảm gia đình, những tầng lớp ấm áp, khác cả cách của Việt Nam em lẫn những gì em đọc trong sách.* |
+| **ズン** | 「(<ruby>本気<rt>ほんき</rt></ruby>で)…<ruby>正直<rt>しょうじき</rt></ruby>、カルチャーショックでした。<ruby>良<rt>よ</rt></ruby>い<ruby>意味<rt>いみ</rt></ruby>で。<ruby>日本<rt>にほん</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>の<ruby>表現<rt>ひょうげん</rt></ruby>、<ruby>温<rt>あたた</rt></ruby>かさのレイヤー、<ruby>自分<rt>じぶん</rt></ruby>の VN のスタイルとも<ruby>違<rt>ちが</rt></ruby>うし、<ruby>教科書<rt>きょうかしょ</rt></ruby>で<ruby>読<rt>よ</rt></ruby>んだのとも<ruby>違<rt>ちが</rt></ruby>いました。」<br/>*(thật) … thật lòng, em sốc văn hóa. Theo nghĩa tốt. Cách người Nhật thể hiện tình cảm gia đình, những tầng lớp ấm áp, khác cả cách của Việt Nam em lẫn những gì em đọc trong sách.* |
 | **大垣 営業部長** | 「ズンさん、ベトナムの<ruby>結婚式<rt>けっこんしき</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>妹<rt>いもうと</rt></ruby>さんとか、<ruby>最近<rt>さいきん</rt></ruby>あった?」<br/>*Dũng à, đám cưới Việt Nam của em gái em chẳng hạn, gần đây có không?* |
-| **ズン** | 「<ruby>妹<rt>いもうと</rt></ruby>はまだ<ruby>大学生<rt>だいがくせい</rt></ruby>で<ruby>結婚先<rt>けっこんさき</rt></ruby>。<ruby>両親<rt>りょうしん</rt></ruby>の<ruby>結婚式<rt>けっこんしき</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>、よく<ruby>聞<rt>き</rt></ruby>きました。1980<ruby>年代<rt>ねんだい</rt></ruby>、<ruby>貧<rt>まず</rt></ruby>しかった<ruby>時代<rt>じだい</rt></ruby>、<ruby>皆<rt>みな</rt></ruby>で<ruby>助<rt>たす</rt></ruby>け<ruby>合<rt>あ</rt></ruby>ってやった。お<ruby>米<rt>こめ</rt></ruby>とお<ruby>肉<rt>にく</rt></ruby><ruby>持<rt>も</rt></ruby>ち<ruby>寄<rt>よ</rt></ruby>って、<ruby>村全体<rt>むらぜんたい</rt></ruby>で1<ruby>日<rt>にち</rt></ruby><ruby>宴会<rt>えんかい</rt></ruby>。」<br/>*Em gái còn đại học, kết hôn còn xa. Chuyện đám cưới bố mẹ em hay nghe. Thập niên 80, thời nghèo, mọi người tụ giúp nhau. Mang gạo với thịt tới, cả làng tổ chức 1 ngày tiệc.* |
+| **ズン** | 「<ruby>妹<rt>いもうと</rt></ruby>はまだ<ruby>大学生<rt>だいがくせい</rt></ruby>で、<ruby>結婚<rt>けっこん</rt></ruby>はまだ<ruby>先<rt>さき</rt></ruby>です。<ruby>両親<rt>りょうしん</rt></ruby>の<ruby>結婚式<rt>けっこんしき</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>、よく<ruby>聞<rt>き</rt></ruby>きました。1980<ruby>年代<rt>ねんだい</rt></ruby>、<ruby>貧<rt>まず</rt></ruby>しかった<ruby>時代<rt>じだい</rt></ruby>、<ruby>皆<rt>みな</rt></ruby>で<ruby>助<rt>たす</rt></ruby>け<ruby>合<rt>あ</rt></ruby>ってやった。お<ruby>米<rt>こめ</rt></ruby>とお<ruby>肉<rt>にく</rt></ruby><ruby>持<rt>も</rt></ruby>ち<ruby>寄<rt>よ</rt></ruby>って、<ruby>村全体<rt>むらぜんたい</rt></ruby>で1<ruby>日<rt>にち</rt></ruby><ruby>宴会<rt>えんかい</rt></ruby>。」<br/>*Em gái còn đại học, kết hôn còn xa. Chuyện đám cưới bố mẹ em hay nghe. Thập niên 80, thời nghèo, mọi người tụ giúp nhau. Mang gạo với thịt tới, cả làng tổ chức 1 ngày tiệc.* |
 | **松本PM** | 「へえ、<ruby>村全体<rt>むらぜんたい</rt></ruby>で。<ruby>日本<rt>にほん</rt></ruby>もかつてはそうだった、<ruby>戦後<rt>せんご</rt></ruby>すぐの<ruby>時代<rt>じだい</rt></ruby>。<ruby>今<rt>いま</rt></ruby>はホテルになっちゃった。」<br/>*Cả làng à. Nhật trước cũng vậy, ngay sau chiến tranh. Giờ thành khách sạn.* |
 | **井上** | 「ズンさんのご<ruby>両親<rt>りょうしん</rt></ruby>、お<ruby>元気<rt>げんき</rt></ruby>?」<br/>*Bố mẹ Dũng khỏe không?* |
 | **ズン** | 「はい、<ruby>元気<rt>げんき</rt></ruby>です。<ruby>父<rt>ちち</rt></ruby>はリタイア<ruby>教師<rt>きょうし</rt></ruby>、<ruby>最近<rt>さいきん</rt></ruby>は<ruby>趣味<rt>しゅみ</rt></ruby>で<ruby>書道<rt>しょどう</rt></ruby>。<ruby>母<rt>はは</rt></ruby>は<ruby>小<rt>ちい</rt></ruby>さい<ruby>商売<rt>しょうばい</rt></ruby>、<ruby>毎朝<rt>まいあさ</rt></ruby>5<ruby>時起<rt>じお</rt></ruby>き。<ruby>妹<rt>いもうと</rt></ruby>は IT 系<ruby>専攻<rt>せんこう</rt></ruby>、<ruby>来年<rt>らいねん</rt></ruby><ruby>卒業<rt>そつぎょう</rt></ruby>。」<br/>*Vâng, khỏe ạ. Bố em nghỉ giáo viên, gần đây thư pháp làm hobby. Mẹ em buôn bán nhỏ, mỗi sáng dậy 5h. Em gái chuyên ngành IT, năm sau ra trường.* |
 | **大垣 営業部長** | 「(<ruby>優<rt>やさ</rt></ruby>しく)<ruby>妹<rt>いもうと</rt></ruby>さん、IT 系か。ベトナムの IT <ruby>業界<rt>ぎょうかい</rt></ruby>、<ruby>女性<rt>じょせい</rt></ruby><ruby>増<rt>ふ</rt></ruby>えてる?」<br/>*(dịu) Em gái IT à. Ngành IT Việt Nam, nữ tăng không?* |
-| **ズン** | 「ええ、<ruby>徐々<rt>じょじょ</rt></ruby>に。FE 系は<ruby>女性<rt>じょせい</rt></ruby><ruby>多<rt>おお</rt></ruby>めです。<ruby>妹<rt>いもうと</rt></ruby>もフロントエンド<ruby>志望<rt>しぼう</rt></ruby>。<ruby>卒業<rt>そつぎょう</rt></ruby>したら、ティエンファットに<ruby>来<rt>き</rt></ruby>てもらえないか chairs CTO に<ruby>頼<rt>たの</rt></ruby>んでみたいですが…<ruby>公私混同<rt>こうしこんどう</rt></ruby>かもしれない(<ruby>笑<rt>わら</rt></ruby>)」<br/>*Vâng, dần dần. FE có nhiều nữ. Em gái cũng định học FE. Tốt nghiệp em định nhờ anh Hà CTO xem xét cho vào Tien Phat… nhưng có thể là lẫn công chuyện tư (cười)* |
-| **松本PM** | 「(<ruby>笑<rt>わら</rt></ruby>)それは<ruby>普通<rt>ふつう</rt></ruby>だよ、ベトナムも<ruby>日本<rt>にほん</rt></ruby>も、<ruby>家族紹介<rt>かぞくしょうかい</rt></ruby>で<ruby>入社<rt>にゅうしゃ</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>はいる。CTO がスキル<ruby>見<rt>み</rt></ruby>れば<ruby>判断<rt>はんだん</rt></ruby>する<ruby>話<rt>はなし</rt></ruby>。」<br/>*(cười) Cái đó bình thường mà, Việt Nam Nhật cũng, người vào cty qua giới thiệu family có. CTO xem skill là chuyện đánh giá.* |
+| **ズン** | 「ええ、<ruby>徐々<rt>じょじょ</rt></ruby>に。FE 系は<ruby>女性<rt>じょせい</rt></ruby><ruby>多<rt>おお</rt></ruby>めです。<ruby>妹<rt>いもうと</rt></ruby>もフロントエンド<ruby>志望<rt>しぼう</rt></ruby>。<ruby>卒業<rt>そつぎょう</rt></ruby>したら、ティエンファットに<ruby>来<rt>き</rt></ruby>てもらえないかハーCTOに<ruby>頼<rt>たの</rt></ruby>んでみたいですが…<ruby>公私混同<rt>こうしこんどう</rt></ruby>かもしれない(<ruby>笑<rt>わら</rt></ruby>)」<br/>*Vâng, dần dần. FE có nhiều nữ. Em gái cũng định học FE. Tốt nghiệp em định nhờ anh Hà CTO xem xét cho vào Tien Phat… nhưng có thể là lẫn công chuyện tư (cười)* |
+| **松本PM** | 「(<ruby>笑<rt>わら</rt></ruby>)それは<ruby>普通<rt>ふつう</rt></ruby>だよ、ベトナムも<ruby>日本<rt>にほん</rt></ruby>も、<ruby>家族紹介<rt>かぞくしょうかい</rt></ruby>で<ruby>入社<rt>にゅうしゃ</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>はいる。CTO がスキル<ruby>見<rt>み</rt></ruby>れば<ruby>判断<rt>はんだん</rt></ruby>する<ruby>話<rt>はなし</rt></ruby>。」<br/>*(cười) Cái đó bình thường mà, Việt Nam Nhật cũng, người vào cty qua giới thiệu người nhà có. CTO xem skill là chuyện đánh giá.* |
 
 *[Tanaka đến 19:30. Yukata thoải mái thay lễ phục đám cưới. Tươi tắn.]*
 
@@ -439,7 +461,7 @@ Hikidemono (引出物) = quà cảm ơn cô dâu chú rể trao cuối đám cư
 |---------|-----|
 | **田中PMO** | 「(<ruby>到着<rt>とうちゃく</rt></ruby>)<ruby>皆<rt>みな</rt></ruby>さーん!1<ruby>時間<rt>じかん</rt></ruby>だけ<ruby>参戦<rt>さんせん</rt></ruby>!」<br/>*(đến) Mọi ngươi! Em chỉ tham 1 tiếng!* |
 | **全員** | 「(<ruby>笑<rt>わら</rt></ruby>、<ruby>拍手<rt>はくしゅ</rt></ruby>)<ruby>新郎<rt>しんろう</rt></ruby><ruby>来<rt>き</rt></ruby>た!」<br/>*(cười, vỗ tay) Chú rể đến!* |
-| **田中PMO** | 「(ズンに)ズンさん、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>今日<rt>きょう</rt></ruby><ruby>来<rt>き</rt></ruby>てくれてありがとう。お<ruby>父<rt>とう</rt></ruby>さんのスピーチ、<ruby>由美<rt>ゆみ</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>、<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>見<rt>み</rt></ruby>てくれた。<ruby>家族同様<rt>かぞくどうよう</rt></ruby>。」<br/>*(với Dũng) Dũng thực sự cảm ơn em hôm nay đến. Speech bố em, mặt Yumi, em đều nhìn. Như family.* |
+| **田中PMO** | 「(ズンに)ズンさん、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>今日<rt>きょう</rt></ruby><ruby>来<rt>き</rt></ruby>てくれてありがとう。お<ruby>父<rt>とう</rt></ruby>さんのスピーチ、<ruby>由美<rt>ゆみ</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>、<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>見<rt>み</rt></ruby>てくれた。<ruby>家族同様<rt>かぞくどうよう</rt></ruby>。」<br/>*(với Dũng) Dũng ơi, thực sự cảm ơn em hôm nay đã đến. Bài phát biểu của bố tôi, gương mặt Yumi — em đều chứng kiến hết. Như người nhà vậy.* |
 | **ズン** | 「(<ruby>深<rt>ふか</rt></ruby>く)<ruby>田中<rt>たなか</rt></ruby>さん、<ruby>私<rt>わたし</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>こそ、<ruby>招待<rt>しょうたい</rt></ruby>していただいて<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>光栄<rt>こうえい</rt></ruby>です。<ruby>生涯<rt>しょうがい</rt></ruby><ruby>忘<rt>わす</rt></ruby>れません。」<br/>*(sâu) Anh Tanaka, em mới là người vinh dự được mời ạ. Cả đời em không quên.* |
 | **田中PMO** | 「じゃあ、<ruby>来年<rt>らいねん</rt></ruby> HCMC <ruby>行<rt>い</rt></ruby>ったら、ズンさんの<ruby>両親<rt>りょうしん</rt></ruby>にも<ruby>会<rt>あ</rt></ruby>いたい。<ruby>可能<rt>かのう</rt></ruby>?」<br/>*Vậy, năm sau qua HCMC em muốn gặp bố mẹ Dũng. Được không?* |
 

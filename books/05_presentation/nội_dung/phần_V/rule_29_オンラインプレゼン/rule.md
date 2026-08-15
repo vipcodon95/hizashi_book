@@ -43,7 +43,7 @@ Chủ Nhật. Dũng kiểm tra Zoom với chị Hương trước bài thuyết t
 | **ズン** | 「トゥアンさんに **chat moderator** お願いしました。chat の<ruby>質問<rt>しつもん</rt></ruby>は私が見ずトゥアンさんが verbal で『〇〇様から〜の質問が来ています』と私に<ruby>渡<rt>わた</rt></ruby>します【3】。」 <br/>*Em nhờ anh Tuấn làm người điều phối chat ạ. Em không xem chat, anh Tuấn chuyển lời bằng giọng kiểu 「Anh 〇〇 vừa gửi câu hỏi 〜」 rồi truyền cho em ạ.* |
 | **フオン** | 「OK、それで月曜<ruby>行<rt>い</rt></ruby>こう。」 <br/>*OK, thứ Hai đi với thiết lập đó.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**5要素**: camera 目線 / lighting 正面 / 声 +20% / ピンマイク / 背景クリーン. Bỏ qua 1 yếu tố là mất điểm.
 - 【2】**Cử chỉ trong khung** — tay phải xuất hiện trong khung camera khi ra động tác, không ra động tác ngoài khung.
 - 【3】**Công thức người điều phối chat** — 1 người không thể vừa trình bày vừa theo dõi chat. Người đồng trình bày (Tuấn) làm điều phối → chuyển câu hỏi bằng giọng. Khách Nhật rất hiếm khi bật mic hỏi → chat là kênh chính.

@@ -164,7 +164,7 @@ Tháng 5/2026, café Tokyo buổi tối sau họp. Yamamoto (Osaka, blogger ẩm
 | ロブスタ | ロブスタ | — | Robusta |
 | アラビカ | アラビカ | — | Arabica |
 | ファインロブスタ | ファインロブスタ | — | Fine Robusta (specialty) |
-| 中部高原 | ちゅうぶこうげん | TRUNG BỘ CAO NGUYÊN | Cao nguyên Trung phần (Buôn Ma Thuột, Đà Lạt) |
+| 中部高原 | ちゅうぶこうげん | TRUNG BỘ CAO NGUYÊN | Cao nguyên Trung phần — vùng robusta lớn nhất là Buôn Ma Thuột (Đắk Lắk) |
 | フィン | フィン | — | Phin (cà phê filter VN) |
 | 練乳 | れんにゅう | LUYỆN NHŨ | Sữa đặc |
 | カフェスアダー | カフェスアダー | — | Cà phê sữa đá |

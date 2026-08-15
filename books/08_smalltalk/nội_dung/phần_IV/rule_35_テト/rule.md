@@ -1,13 +1,13 @@
 # Rule 35 — Tết — âm lịch vs dương lịch / テト・旧正月
 
-> **Luận điểm.** Khách Nhật biết "Tết" nhưng hay nhầm với 正月 (1/1). Bạn phải kể được: **âm lịch khác dương lịch, 12 con giáp giống JP nhưng 1 con khác (Trâu vs Ushi/Bò), hoa đào Bắc / hoa mai Nam, lì xì, mâm ngũ quả** — và **tránh cõi chính trị** quanh Tết.
+> **Luận điểm.** Khách Nhật biết "Tết" nhưng hay nhầm với 正月 (1/1). Bạn phải kể được: **âm lịch khác dương lịch, 12 con giáp giống JP nhưng 4 con khác (nổi nhất là Mèo vs Thỏ, Trâu vs Bò), hoa đào Bắc / hoa mai Nam, lì xì, mâm ngũ quả** — và **tránh cõi chính trị** quanh Tết.
 
 ---
 
 ## Tâm lý JP (4 dòng)
 
 - Người Nhật từ Meiji đã chuyển 正月 sang dương lịch — họ tò mò khi VN vẫn giữ âm lịch.
-- 12 con giáp gần như giống y JP — chỉ **Trâu/Bò (丑) và Mèo/Thỏ (卯/兎)** khác → đây là điểm "ơ thật á?" mà JP cực thích.
+- 12 con giáp gần như giống y JP — khác **4 con: Trâu/Bò (丑), Mèo/Thỏ (卯), Dê/Cừu (未), Lợn/Lợn rừng (亥)**; nổi nhất là **Mèo vs Thỏ** → đây là điểm "ơ thật á?" mà JP cực thích.
 - JP rất thích món truyền thống có **ý nghĩa tinh thần** (おせち料理) → mâm ngũ quả, bánh chưng cùng phạm trù.
 - TUYỆT ĐỐI tránh: Tết Mậu Thân, đoàn tụ Bắc-Nam, dòng người về quê = vùng chính trị.
 
@@ -68,7 +68,7 @@ Cuối tháng 1/2026 (gần Tết VN — mùng 1 = 17/2/2026, năm Ngọ 午年)
 |  | *Haha, không phải lợn rừng mà lợn nhà! Văn hóa khác nhau hiện rõ nhỉ.* |
 
 【1】 12 giáp VN: **Tý/Sửu(水牛)/Dần/卯(猫)/Thìn/Tỵ/Ngọ/Mùi(山羊)/Thân/Dậu/Tuất/Hợi(豚)**. So với JP: 子・丑・寅・卯(兎)・辰・巳・午・未・申・酉・戌・亥(猪).
-【2】 **3 con giáp VN khác JP:** Sửu = trâu (vs ushi/bò), Mão = mèo (vs u/thỏ), Hợi = lợn (vs i/lợn rừng), Mùi = dê (vs cừu) — JP có 4 điểm khác nhỏ, nhưng "mèo vs thỏ" là điểm gây ấn tượng nhất.
+【2】 **4 con giáp VN khác JP:** Sửu = trâu (vs ushi/bò), Mão = mèo (vs u/thỏ), Mùi = dê (vs hitsuji/cừu), Hợi = lợn (vs i/lợn rừng) — trong đó "mèo vs thỏ" là điểm gây ấn tượng nhất, "trâu vs bò" là điểm dễ kể thứ hai.
 
 ---
 
@@ -88,8 +88,8 @@ Cuối tháng 1/2026 (gần Tết VN — mùng 1 = 17/2/2026, năm Ngọ 午年)
 |  | *Loài khác, vàng 5 cánh, rực rỡ kiểu nhiệt đới. Biểu tượng "may mắn và hạnh phúc".* |
 | **山本** | 「ええなあ、写真見てみたい。」 |
 |  | *Hay nhỉ, tôi muốn xem ảnh.* |
-| **ズン** | 「これが**バンザン<ruby>花卉村<rt>かきむら</rt></ruby>(Làng hoa Vạn Giã)**の桃の<ruby>市場<rt>いちば</rt></ruby>で、テト前は花だけで<ruby>埋<rt>う</rt></ruby>まります。」 |
-|  | *Đây là chợ hoa đào làng Vạn Giã, trước Tết toàn hoa.* |
+| **ズン** | 「これが**ニャッタン<ruby>花<rt>はな</rt></ruby>の<ruby>村<rt>むら</rt></ruby>(Làng đào Nhật Tân)**の桃の<ruby>市場<rt>いちば</rt></ruby>で、テト前は花だけで<ruby>埋<rt>う</rt></ruby>まります。」 |
+|  | *Đây là chợ hoa đào làng Nhật Tân, trước Tết toàn hoa.* |
 | **山本** | 「すごい!<ruby>神戸<rt>こうべ</rt></ruby>の花市場みたい。」 |
 |  | *Wow! Giống chợ hoa Kobe.* |
 | **ズン** | 「あと**マム・ングークア(<ruby>五果盆<rt>ごかぼん</rt></ruby>)**って、5種類の果物を<ruby>仏壇<rt>ぶつだん</rt></ruby>に飾る習慣があります。各果物に意味があって、例えば**カスタードアップル/<ruby>釈迦頭<rt>しゃかとう</rt></ruby>(Cầu)・イチジク(Sung)・パパイヤ(Vừa Đủ)・ココナッツ(Dừa)・マンゴー(Xoài)**で読むと『十分に欲しいだけ』って意味になります。」 |

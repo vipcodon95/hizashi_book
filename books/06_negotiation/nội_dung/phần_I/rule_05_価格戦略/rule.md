@@ -37,7 +37,7 @@ Hà CTO + Hương + Dũng họp 30 phút quyết mô hình giá Phase 3. Tuấn 
 | **ズン** | 「はい。AI レコメンド<ruby>導入<rt>どうにゅう</rt></ruby>で transaction <ruby>単価<rt>たんか</rt></ruby> +12%、white paper でモデルケース 3 <ruby>社<rt>しゃ</rt></ruby>あります。CFO <ruby>中村<rt>なかむら</rt></ruby>さんへの ROI シート【3】も<ruby>作成済<rt>さくせいず</rt></ruby>みです。」 <br/>*Vâng ạ. Triển khai AI recommend giúp transaction unit price +12%, có 3 model case trong white paper. ROI sheet cho CFO Nakamura em cũng đã làm xong ạ.* |
 | **フオン** | 「いいね。¥19M を<ruby>堂々<rt>どうどう</rt></ruby>と<ruby>出<rt>だ</rt></ruby>して、value で<ruby>押<rt>お</rt></ruby>す。¥18M に<ruby>着地<rt>ちゃくち</rt></ruby>しても<ruby>粗利率<rt>あらりりつ</rt></ruby> 26%、<ruby>許容範囲<rt>きょようはんい</rt></ruby>。」 <br/>*Tốt. Em ra ¥19M một cách thẳng thắn, đẩy bằng giá trị. Có chốt ¥18M thì lợi nhuận gộp 26%, vẫn nằm trong khoảng chấp nhận.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**3 mô hình so sánh**: bắt buộc đối chiếu cả 3, không nhảy thẳng vào 1 cái.
 - 【2】**Giá neo > Mục tiêu > Giới hạn rút lui** = 3 con số riêng biệt. Giá neo = số mở miệng (cao), Mục tiêu = số mong đạt, Giới hạn rút lui = mức thấp nhất chấp nhận.
 - 【3】**ROI シート** cho CFO = công cụ then chốt để chốt khi dùng định giá theo giá trị. Không có ROI → định giá theo giá trị về bản chất là "anh tin tôi đi" → khó được duyệt.

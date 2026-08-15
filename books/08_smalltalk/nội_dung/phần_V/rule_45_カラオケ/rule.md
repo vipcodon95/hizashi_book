@@ -54,8 +54,8 @@ Tháng 6/2026, sau bữa tối Phase 4 closing. 二次会 chuyển sang karaoke 
 |---------|-----|
 | **大垣** | (hát xong, vỗ tay) |
 |  | *(hát xong TSUNAMI, vỗ tay)* |
-| **ズン** | 「大垣さん、**もし良ければ<ruby>松田聖子<rt>まつだせいこ</rt></ruby>の『<ruby>青<rt>あお</rt></ruby>い<ruby>珊瑚礁<rt>さんごしょう</rt></ruby>』**、Yamamotoさんと一緒にデュエットいかがですか?」【1】 |
-|  | *Anh Ōgaki, nếu được thì 'Aoi Sangoshou' của Matsuda Seiko, hát đôi với chị Yamamoto được không ạ?* |
+| **ズン** | 「大垣さん、**もし良ければ<ruby>松田聖子<rt>まつだせいこ</rt></ruby>の『<ruby>青<rt>あお</rt></ruby>い<ruby>珊瑚礁<rt>さんごしょう</rt></ruby>』**、いかがですか?みんなで<ruby>盛<rt>も</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げますよ!」【1】 |
+|  | *Anh Ōgaki, nếu được thì 'Aoi Sangoshou' của Matsuda Seiko ạ? Cả nhà sẽ hưởng ứng cùng anh!* |
 | **山本** | 「えーやっぱりズン、わかってるねえ!行こ大垣さん!」 |
 |  | *Eee Dũng, em hiểu thật đó! Đi anh Ōgaki!* |
 | **大垣** | 「ええなあ、聖子ちゃん!ズンも一緒に<ruby>踊<rt>おど</rt></ruby>らな。」 |
@@ -101,7 +101,7 @@ Tháng 6/2026, sau bữa tối Phase 4 closing. 二次会 chuyển sang karaoke 
 | **ズン** | 「ハイ、**ベトナム語の歌**でいいよ!**Mỹ Tâm『Như một giấc mơ』** とか。日本人の方も<ruby>新鮮<rt>しんせん</rt></ruby>で<ruby>喜<rt>よろこ</rt></ruby>ばれる。」 |
 |  | *Hải, hát tiếng Việt được mà! Như 'Như một giấc mơ' của Mỹ Tâm. Khách Nhật cũng thấy mới mẻ.* |
 | **山本** | 「ベトナムの歌!?是非聞きたい!」 |
-|  | *Bài VN! Em muốn nghe lắm!* |
+|  | *Bài VN! Tôi muốn nghe lắm!* |
 | **ハイ** | 「では、**ファン・マイン・クイン『Có chàng trai viết lên cây』**で。」 |
 |  | *Vậy em hát 'Có chàng trai viết lên cây' của Phan Mạnh Quỳnh.* |
 | **ハイ** |  (hát) |
@@ -132,7 +132,7 @@ Tháng 6/2026, sau bữa tối Phase 4 closing. 二次会 chuyển sang karaoke 
 ■ GỢI Ý cho 30-40t (J-pop):
 「Mr. Children『innocent world』、いかがですか?」
 「スピッツの『チェリー』、私もう一曲。」
-「宇多田ヒカル『First Love』、デュエット?」
+「みんなが<ruby>知<rt>し</rt></ruby>ってる<ruby>曲<rt>きょく</rt></ruby>で<ruby>盛<rt>も</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げませんか?」
 
 ■ BẮC CẦU cho ĐÀN EM VN:
 「ベトナム語の歌でいいよ!Mỹ Tâm とか、新鮮で喜ばれる。」
@@ -160,7 +160,7 @@ Tháng 6/2026, sau bữa tối Phase 4 closing. 二次会 chuyển sang karaoke 
 
 - **Bài nhạc Anh-Mỹ khó hát** (Whitney Houston / Mariah Carey) → giọng yếu ai cũng nghe ra.
 - **Bài quá u tối** (椎名林檎 nội tâm sâu) → phá không khí.
-- **Bài tình cảm 1-1** với khách khác giới → tín hiệu ngại ngùng.
+- **Bài tình cảm 1-1** với khách khác giới → tín hiệu ngại ngùng. ⚠️ **Tuyệt đối không tự ý ghép đôi song ca** cho hai người khác giới trong đoàn (nhất là cấp trên với cấp dưới) — dù có ý tốt tạo không khí, đây là chuyện dễ thành quấy rối. Muốn kéo mọi người vào thì mời **cả nhóm cùng hưởng ứng**, đừng chỉ định cặp.
 - **Bài quá kén** (隠れ名曲 không ai biết) → khách không hát theo được.
 - **Hát quá nhiều** liên tục 3-4 bài → không nhường mic.
 - **Từ chối hát** hoàn toàn → "thiếu hợp tác".

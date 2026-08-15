@@ -36,7 +36,7 @@ Sau khi Hương xem lại, Dũng cộng thêm 4 slide phụ "cho chắc" → qua
 | **ズン** | 「**フォントは<ruby>最小<rt>さいしょう</rt></ruby>24pt**で<ruby>統一<rt>とういつ</rt></ruby>【2】、appendix も<ruby>同<rt>おな</rt></ruby>じです。」 <br/>*Phông chữ em thống nhất tối thiểu 24pt ạ, appendix cũng vậy.* |
 | **ハーCTO** | 「OK。<ruby>本番<rt>ほんばん</rt></ruby>で14枚出すと『<ruby>準備不足<rt>じゅんびぶそく</rt></ruby>』に<ruby>見<rt>み</rt></ruby>える、10枚 + appendix の<ruby>構成<rt>こうせい</rt></ruby>は『きっちり<ruby>感<rt>かん</rt></ruby>』が<ruby>出<rt>で</rt></ruby>る。」 <br/>*OK. Trên thực tế chiếu 14 slide trông như 「chuẩn bị chưa kỹ」. 10 slide + phụ lục mới ra 「chỉn chu」.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**10-20-30ルール** — Bản gốc dùng cho người tiêu dùng. JP B2B 版は 10-12 / 20-25 / 24pt min. Tách phụ lục = tín hiệu mạnh thể hiện sự chuẩn bị kỹ.
 - 【2】**「最小24pt」** — Rule 04 と整合. Đọc được trên cả máy chiếu hàng cuối lẫn khi chia sẻ màn hình.
 

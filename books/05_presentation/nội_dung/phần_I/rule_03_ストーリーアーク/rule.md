@@ -38,7 +38,7 @@ Slide đã có 1-slide-1-message nhưng thứ tự lộn xộn: bắt đầu b�
 | **ズン** | 「Aパートが6枚は多いでしょうか？」 <br/>*Phần A 6 slide có nhiều quá không ạ?* |
 | **フオン** | 「Aは答えだから6枚OK。むしろSCQの<ruby>導入<rt>どうにゅう</rt></ruby>は3枚に<ruby>圧縮<rt>あっしゅく</rt></ruby>、Aで6枚使うのが正しいバランス。」 <br/>*A là đáp án nên 6 slide OK. Ngược lại phần dẫn SCQ nén còn 3 slide, dồn 6 slide cho A — đó mới là cân đối đúng.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Công thức SCQA** — Situation (共通認識): khách đã biết. Complication (変化/問題): điều gì thay đổi. Question (問い): cần quyết gì. Answer (答え): đề xuất.
 - 【2】**「再発を素直に書く」 (viết thẳng chuyện tái phát)** — Phase 2 không hoàn hảo → giới kinh doanh Nhật trân trọng sự trung thực. Che giấu điểm yếu = mất lòng tin.
 

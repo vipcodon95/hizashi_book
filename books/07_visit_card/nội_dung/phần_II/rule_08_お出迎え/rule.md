@@ -43,7 +43,7 @@
 | **大垣** | 「お<ruby>世話<rt>せわ</rt></ruby>になります。」 <br/>*Cảm ơn anh.* |
 | **ズン** | 「**<ruby>会議室<rt>かいぎしつ</rt></ruby>は3<ruby>階<rt>かい</rt></ruby>でございます。ご<ruby>案内<rt>あんない</rt></ruby>いたします**【4】。」 <br/>*Phòng họp ở tầng 3 ạ. Em xin phép dẫn các anh lên.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Dặn lễ tân TRƯỚC** — tên cty + số người + giờ. Lễ tân không bị bất ngờ, không hỏi lại khách "anh hẹn ai?".
 - 【2】**「すぐ私の内線へ」** — lễ tân chuyển ngay đến nội bộ nhóm. Dũng có thể đang nghe điện ở tầng trên vẫn xuống kịp 30 giây.
 - 【3】**「ようこそお越しくださいました」** — câu cố định đón khách. Trang trọng hơn 「いらっしゃいませ」(dùng cho bán lẻ).

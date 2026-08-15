@@ -2,9 +2,9 @@
 
 *Hizashi Teams. 2026.*
 
-Sách dạy "tán" / 雑談 với khách Nhật để xây quan hệ — KHÁC sách 03 rule_27 (chỉ 1 rule generic). Sách 08 đi sâu vào: depth của từng topic, đặc trưng vùng miền 47 prefectures, văn hóa drinking, do/don't theo mức độ thân mật. Đây là sách quyết định bạn từ "vendor" → "đối tác tin cậy".
+Sách dạy "tán" / 雑談 với khách Nhật để xây quan hệ — KHÁC sách 03 rule_27 (chỉ 1 rule generic). Sách 08 đi sâu vào: chiều sâu của từng chủ đề, đặc trưng vùng miền 47 prefectures, văn hóa drinking, do/don't theo mức độ thân mật. Đây là sách quyết định bạn từ "vendor" → "đối tác tin cậy".
 
-**Đối tượng:** BD/PM/Account VN đã ổn về business JP (sách 02-07), giờ muốn xây deep relationship với khách Nhật. BJT J2-J1.
+**Đối tượng:** BD/PM/Account VN đã ổn về business JP (sách 02-07), giờ muốn xây quan hệ sâu với khách Nhật. BJT J2-J1.
 
 ---
 
@@ -36,9 +36,9 @@ Bối cảnh: Phase 3 đã ký xong (sách 06), Dũng + Tuấn đang travel Nh�
 | Phần | Tên | Số rule |
 |------|-----|---------|
 | I | Khung tư duy 雑談 | 8 |
-| II | Topics core (đào sâu) | 12 |
+| II | Nhóm chủ đề cốt lõi (đào sâu) | 12 |
 | III | **Regional deep dive — 47 prefectures** | 13 |
-| IV | Việt Nam topics (khách Nhật hỏi mình) | 8 |
+| IV | Chủ đề Việt Nam (khách Nhật hỏi mình) | 8 |
 | V | Drinking culture + Advanced + Self-improve | 10 |
 
 ---
@@ -47,33 +47,33 @@ Bối cảnh: Phase 3 đã ký xong (sách 06), Dũng + Tuấn đang travel Nh�
 
 | # | Tên VN | Tên JP | Brief |
 |---|--------|--------|-------|
-| 01 | Khi nào "tán" được? | 雑談のタイミング | Trước họp / sau họp / izakaya / taxi — KHÔNG trong negotiation core |
-| 02 | Quy tắc 80/20 (khách nói 80%) | 8:2のルール | Đặt câu hỏi → lắng → react. KHÔNG kể chuyện mình quá nhiều |
-| 03 | 5 mức độ thân mật + topic phù hợp | 親密度5レベル | L1 thời tiết → L5 gia đình. Match topic theo bậc relationship |
-| 04 | Câu hỏi mở vs đóng | 開かれた質問・閉じた質問 | "週末はいかがでしたか?" (mở) vs "週末良かった?" (đóng) |
-| 05 | 聞き上手 — listening + relay | 聞き上手の技術 | Mirror + summarize + follow-up. Không cướp lời |
-| 06 | Chuyển topic mượt | トピック転換 | "ところで〜" / "そういえば〜" / "話は変わりますが" |
-| 07 | Khi im lặng — không panic | 沈黙の活用 | 5 giây silence = OK. Không lấp bừa |
-| 08 | 8 chủ đề cấm tuyệt đối | NG話題8選 | Chính trị / tôn giáo / lương / tuổi cụ thể (phụ nữ) / 占星術 / scandal / so sánh JP-VN tiêu cực / ngoại tình |
+| 01 | Khi nào "tán" được? / 雑談のタイミング | 雑談のタイミング | Trước họp / sau họp / izakaya / taxi — KHÔNG trong negotiation core |
+| 02 | Quy tắc 80/20 (khách nói 80%) / 8:2のルール | 8:2のルール | Đặt câu hỏi → lắng → react. KHÔNG kể chuyện mình quá nhiều |
+| 03 | 5 mức độ thân mật + chủ đề phù hợp / 親密度5レベル | 親密度5レベル | L1 thời tiết → L5 gia đình. Chọn chủ đề theo bậc thân mật |
+| 04 | Câu hỏi mở vs đóng / 開かれた質問・閉じた質問 | 開かれた質問・閉じた質問 | "週末はいかがでしたか?" (mở) vs "週末良かった?" (đóng) |
+| 05 | Người giỏi lắng nghe / 聞き上手の技術 | 聞き上手の技術 | Mirror + summarize + follow-up. Không cướp lời |
+| 06 | Chuyển chủ đề mượt / トピック転換 | トピック転換 | "ところで〜" / "そういえば〜" / "話は変わりますが" |
+| 07 | Khi im lặng — đừng hoảng / 沈黙の活用 | 沈黙の活用 | 5 giây silence = OK. Không lấp bừa |
+| 08 | 8 chủ đề cấm tuyệt đối / NG話題8選 | NG話題8選 | Chính trị / tôn giáo / lương / tuổi cụ thể (phụ nữ) / 占星術 / scandal / so sánh JP-VN tiêu cực / ngoại tình |
 
 ---
 
-## Phần II — Topics core đào sâu — 12 rules
+## Phần II — Nhóm chủ đề cốt lõi, đào sâu — 12 rules
 
 | # | Tên VN | Tên JP | Brief |
 |---|--------|--------|-------|
-| 09 | Thời tiết — không hời hợt | 天気の深さ | 4 mùa Nhật + vùng miền (Hokkaido tuyết / Kyushu nóng). Vocab phong phú: 蒸し暑い / カラッと晴れた / 花冷え |
-| 10 | Quê quán — đào sâu | 出身地の話題 | "ご出身は?" → ghi nhớ → research món ăn / sport team / dialect |
-| 11 | Ăn — món địa phương | 食の話題 | Topic gold. JP rất thích chia sẻ về 名物 (đặc sản) |
-| 12 | Uống — sake/shochu/beer | 酒の話題 | Sake theo vùng (新潟・秋田・広島) / shochu (Kyushu) / craft beer |
-| 13 | Gia đình — depth/limit | 家族話の境界 | OK: vợ chồng/con học gì. NG: thu nhập / khúc mắc / tuổi vợ |
-| 14 | Hobby — golf/baseball/sumo | 趣味 — ゴルフ・野球・相撲 | Golf = business standard. Baseball: hỏi team theo quê. Sumo: 場所スケジュール |
-| 15 | Du lịch + onsen | 旅行・温泉 | 温泉 ranking, kaiseki, 旅館 vs hotel |
-| 16 | Festivals theo mùa | 季節行事 | Hanami (4月) / 花火 (7-8月) / 紅葉 (11月) / お正月 |
-| 17 | Sức khỏe + tuổi | 健康・年齢の話題 | Senior topic phổ biến. Cách hỏi tế nhị |
-| 18 | Generation references | 世代の話題 | Showa nostalgia (1970s) / Heisei (バブル) / Reiwa. Match theo tuổi khách |
-| 19 | Anime/manga (cẩn thận) | アニメ・漫画 | Chỉ với đối tác trẻ. Senior: bảo thủ |
-| 20 | Tin tức quốc tế (an toàn) | 国際ニュース | Sport / sự kiện thiên tai. KHÔNG: chính trị Mỹ-Nhật-TQ |
+| 09 | Thời tiết — không hời hợt / 天気の深さ | 天気の深さ | 4 mùa Nhật + vùng miền (Hokkaido tuyết / Kyushu nóng). Vocab phong phú: 蒸し暑い / カラッと晴れた / 花冷え |
+| 10 | Quê quán — đào sâu / 出身地の話題 | 出身地の話題 | "ご出身は?" → ghi nhớ → research món ăn / sport team / dialect |
+| 11 | Ăn — món địa phương / 食の話題 | 食の話題 | Chủ đề vàng. Người Nhật rất thích chia sẻ về 名物 (đặc sản) |
+| 12 | Uống — sake/shochu/beer / 酒の話題 | 酒の話題 | Sake theo vùng (新潟・秋田・広島) / shochu (Kyushu) / craft beer |
+| 13 | Gia đình — depth/limit / 家族話の境界 | 家族話の境界 | OK: vợ chồng/con học gì. NG: thu nhập / khúc mắc / tuổi vợ |
+| 14 | Hobby — golf/baseball/sumo / 趣味 | 趣味 — ゴルフ・野球・相撲 | Golf = business standard. Baseball: hỏi team theo quê. Sumo: 場所スケジュール |
+| 15 | Du lịch + onsen / 旅行・温泉 | 旅行・温泉 | 温泉 ranking, kaiseki, 旅館 vs hotel |
+| 16 | Lễ hội theo mùa / 季節行事 | 季節行事 | Hanami (4月) / 花火 (7-8月) / 紅葉 (11月) / お正月 |
+| 17 | Sức khỏe + tuổi / 健康・年齢 | 健康・年齢の話題 | Chủ đề phổ biến với khách lớn tuổi. Cách hỏi tế nhị |
+| 18 | Generation references / 世代の話題 | 世代の話題 | Showa nostalgia (1970s) / Heisei (バブル) / Reiwa. Match theo tuổi khách |
+| 19 | Anime/manga (cẩn thận) / アニメ・漫画 | アニメ・漫画 | Chỉ với đối tác trẻ. Senior: bảo thủ |
+| 20 | Tin tức quốc tế (an toàn) / 国際ニュース | 国際ニュース | Sport / sự kiện thiên tai. KHÔNG: chính trị Mỹ-Nhật-TQ |
 
 ---
 
@@ -83,36 +83,36 @@ Bối cảnh: Phase 3 đã ký xong (sách 06), Dũng + Tuấn đang travel Nh�
 
 | # | Tên VN | Tên JP | Khách Nhật scene | Cheat sheet content |
 |---|--------|--------|-----------------|---------------------|
-| 21 | **Hokkaido** — biển + sữa | 北海道 | Nakamura CFO | 海鮮 (uni/ikura), 札幌ラーメン, 富良野ラベンダー, 雪まつり, 日本ハム fan |
-| 22 | **Tohoku** — tuyết + sake | 東北 | (general) | 仙台牛タン, 青森ねぶた祭, 秋田なまはげ, 山形さくらんぼ, 名酒蔵 |
-| 23 | **Kanto/Tokyo** — Shitamachi | 関東・下町 | Matsumoto / Tanaka | 浅草, 江戸前寿司, 巨人 vs ヤクルト, 東京っ子 mindset |
-| 24 | **Chubu/Nagoya (Aichi)** — miso | 中部・愛知 | Ito (MỚI) | 味噌カツ, ひつまぶし, 中日ドラゴンズ, トヨタ気質 (慎重) |
-| 25 | **Chubu/Gifu — núi + craft** *(MỚI)* | 中部・岐阜 | **Kato (MỚI)** | **飛騨牛 (Hida beef), 飛騨高山古い町並み, 白川郷 (UNESCO 合掌造り), 鵜飼 (cormorant fishing 長良川), 朴葉味噌, 関の刃物 (Seki cutlery), 美濃焼 (pottery), 中津川栗きんとん, さるぼぼ** |
-| 26 | **Kansai-Osaka** — okonomiyaki | 関西大阪 | Yamamoto (MỚI) | お好み焼, たこ焼, 阪神タイガース, 関西弁 ("ほんま"/"せやな"), 笑い文化 |
-| 27 | **Kansai-Kyoto** — tinh tế | 京都 | (formal scene) | 懐石, 抹茶, 舞妓, おもてなし, "おしゃれ" subtle pride |
-| 28 | **Chugoku/Hiroshima** | 中国・広島 | **Hiroshi (MỚI)** | **広島お好み焼 (vs Osaka), 牡蠣, もみじ饅頭, 広島カープ熱狂ファン (赤Tシャツ), 平和記念公園, 宮島** |
-| 29 | **Shikoku** — udon + citrus | 四国 | (occasional) | 香川讃岐うどん, 愛媛みかん/ポンジュース, 高知カツオ, 徳島阿波踊り, お遍路 |
-| 30 | **Kyushu-Fukuoka** | 九州・福岡 | **Sato (MỚI)** | **博多豚骨ラーメン, もつ鍋, 明太子, ホークスファン, 屋台文化, 焼酎 (麦)** |
-| 31 | **Kyushu-Kumamoto/Kagoshima** | 九州・熊本鹿児島 | (occasional) | 熊本馬刺, くまモン, 鹿児島黒豚 + さつま揚げ, 西郷さん, 桜島 |
-| 32 | **Okinawa** — văn hóa khác | 沖縄 | **Kobayashi (MỚI)** | **ゴーヤチャンプル, 泡盛, 三線, ハイサイ, ちゅらさん文化, 異なる時間感覚 ("沖縄時間")** |
-| 33 | Memory bank — ghi nhớ specifics | 雑談メモバンク | (self) | Sau mỗi gặp: ghi quê + món yêu thích + team + family info → CRM. [TEMPLATE: checklist] |
+| 21 | Hokkaido — biển + sữa + tuyết / 北海道 | 北海道 | Nakamura CFO | 海鮮 (uni/ikura), 札幌ラーメン, 富良野ラベンダー, 雪まつり, 日本ハム fan |
+| 22 | Tohoku — tuyết, sake, lễ hội mùa hè / 東北 | 東北 | (general) | 仙台牛タン, 青森ねぶた祭, 秋田なまはげ, 山形さくらんぼ, 名酒蔵 |
+| 23 | Kanto/Tokyo — Shitamachi vs Yamanote / 関東・東京 | 関東・下町 | Matsumoto / Tanaka | 浅草, 江戸前寿司, 巨人 vs ヤクルト, 東京っ子 mindset |
+| 24 | Aichi/Nagoya — miso + tư duy Toyota / 愛知・名古屋 | 中部・愛知 | Ito (MỚI) | 味噌カツ, ひつまぶし, 中日ドラゴンズ, トヨタ気質 (慎重) |
+| 25 | Gifu — núi, craft, đặc sản hiếm khách Việt biết / 岐阜 | 中部・岐阜 | **Kato (MỚI)** | **飛騨牛 (Hida beef), 飛騨高山古い町並み, 白川郷 (UNESCO 合掌造り), 鵜飼 (cormorant fishing 長良川), 朴葉味噌, 関の刃物 (Seki cutlery), 美濃焼 (pottery), 中津川栗きんとん, さるぼぼ** |
+| 26 | Osaka — お好み焼, 阪神, 笑い文化 / 大阪 | 関西大阪 | Yamamoto (MỚI) | お好み焼, たこ焼, 阪神タイガース, 関西弁 ("ほんま"/"せやな"), 笑い文化 |
+| 27 | Kyoto — tinh tế, おもてなし, niềm tự hào kín đáo / 京都 | 京都 | (formal scene) | 懐石, 抹茶, 舞妓, おもてなし, "おしゃれ" subtle pride |
+| 28 | Hiroshima — Carp + 重ね焼き + 牡蠣 + 宮島 / 広島 | 中国・広島 | **Hiroshi (MỚI)** | **広島お好み焼 (vs Osaka), 牡蠣, もみじ饅頭, 広島カープ熱狂ファン (赤Tシャツ), 平和記念公園, 宮島** |
+| 29 | Shikoku — udon, citrus, お遍路 / 四国 | 四国 | (occasional) | 香川讃岐うどん, 愛媛みかん/ポンジュース, 高知カツオ, 徳島阿波踊り, お遍路 |
+| 30 | Fukuoka — 博多豚骨, もつ鍋, 屋台, ホークス / 福岡 | 九州・福岡 | **Sato (MỚI)** | **博多豚骨ラーメン, もつ鍋, 明太子, ホークスファン, 屋台文化, 焼酎 (麦)** |
+| 31 | Kumamoto + Kagoshima — 馬刺し, くまモン, 黒豚, 西郷さん, 桜島 / 熊本・鹿児島 | 九州・熊本鹿児島 | (occasional) | 熊本馬刺, くまモン, 鹿児島黒豚 + さつま揚げ, 西郷さん, 桜島 |
+| 32 | Okinawa — văn hóa khác, 沖縄時間, ハイサイ / 沖縄 | 沖縄 | **Kobayashi (MỚI)** | **ゴーヤチャンプル, 泡盛, 三線, ハイサイ, ちゅらさん文化, 異なる時間感覚 ("沖縄時間")** |
+| 33 | Kho ghi nhớ — ghi nhớ chi tiết cụ thể về khách JP / 雑談メモバンク | 雑談メモバンク | (self) | Sau mỗi gặp: ghi quê + món yêu thích + team + family info → CRM. [TEMPLATE: checklist] |
 
 ---
 
-## Phần IV — Việt Nam topics (khách Nhật hỏi mình) — 8 rules
+## Phần IV — Chủ đề Việt Nam (khách Nhật hỏi mình) — 8 rules
 
 *Khách Nhật rất tò mò về VN — Dũng phải biết kể.*
 
 | # | Tên VN | Tên JP | Brief |
 |---|--------|--------|-------|
-| 34 | Phở — câu chuyện văn hóa | フォーの話 | Bắc vs Nam, gà vs bò, thời điểm ăn, Hà Nội phở Bát Đàn vs HCM phở Pasteur |
-| 35 | Tết — solar vs lunar | テト・旧正月 | 12 con giáp, hoa đào/mai, lì xì, mâm ngũ quả. Tránh chính trị |
-| 36 | Cà phê Việt | ベトナムコーヒー | Robusta vs Arabica, phin filter, cà phê trứng (Hà Nội), cà phê sữa đá |
-| 37 | Khí hậu 3 miền | 3地域気候 | Bắc 4 mùa / Trung mưa lũ / Nam 2 mùa. Khách Nhật so với JP 4 mùa |
-| 38 | Thành phố khách Nhật quan tâm | 注目都市 | HN cổ kính / HCM năng động / Đà Nẵng biển / Hội An phố cổ. Khách thường hỏi đi đâu |
-| 39 | Lễ hội VN | ベトナムの祭り | Trung thu / Lễ Hùng Vương / Quốc Khánh. So với 祭り Nhật |
-| 40 | Nhà hàng Nhật ở VN | ベトナムでの和食 | Gợi ý 4-5 nhà hàng "đúng vị" ở HN/HCM cho khách Nhật onsite |
-| 41 | Cảnh đẹp + nightlife | 観光・夜の楽しみ | Hạ Long, Sapa, Phú Quốc, Bùi Viện, Tạ Hiện. Match theo audience |
+| 34 | Phở — câu chuyện văn hóa / フォーの話 | フォーの話 | Bắc vs Nam, gà vs bò, thời điểm ăn, Hà Nội phở Bát Đàn vs HCM phở Pasteur |
+| 35 | Tết — âm lịch vs dương lịch / テト・旧正月 | テト・旧正月 | 12 con giáp, hoa đào/mai, lì xì, mâm ngũ quả. Tránh chính trị |
+| 36 | Cà phê Việt / ベトナムコーヒー | ベトナムコーヒー | Robusta vs Arabica, phin filter, cà phê trứng (Hà Nội), cà phê sữa đá |
+| 37 | Khí hậu 3 miền VN / 3地域気候 | 3地域気候 | Bắc 4 mùa / Trung mưa lũ / Nam 2 mùa. Khách Nhật so với JP 4 mùa |
+| 38 | Thành phố khách Nhật quan tâm / 注目都市 | 注目都市 | HN cổ kính / HCM năng động / Đà Nẵng biển / Hội An phố cổ. Khách thường hỏi đi đâu |
+| 39 | Lễ hội VN / ベトナムの祭り | ベトナムの祭り | Trung thu / Lễ Hùng Vương / Quốc Khánh. So với 祭り Nhật |
+| 40 | Nhà hàng Nhật ở VN / ベトナムでの和食 | ベトナムでの和食 | Gợi ý 4-5 nhà hàng "đúng vị" ở HN/HCM cho khách Nhật onsite |
+| 41 | Cảnh đẹp + cuộc vui đêm / 観光・夜の楽しみ | 観光・夜の楽しみ | Hạ Long, Sapa, Phú Quốc, Bùi Viện, Tạ Hiện. Match theo audience |
 
 ---
 
@@ -120,16 +120,16 @@ Bối cảnh: Phase 3 đã ký xong (sách 06), Dũng + Tuấn đang travel Nh�
 
 | # | Tên VN | Tên JP | Brief |
 |---|--------|--------|-------|
-| 42 | Izakaya order flow | 居酒屋オーダー | "とりあえずビール" → mồi → main → 締め. Order theo person count |
-| 43 | Toast + thứ tự rót | 乾杯・お酌 | Hold lower than senior. Rót cho người khác trước, mình cuối. Cross-ref sách 07 rule_26 |
-| 44 | 一次会・二次会・締め | 一次会・二次会 | 1次 = ăn / 2次 = karaoke or bar / 締め = ramen. Khi nào về |
-| 45 | Karaoke — chọn bài | カラオケ選曲 | Match thế hệ: Showa hits cho 50t / J-pop cho 30t. Tránh english pop |
-| 46 | Tránh say + dừng đúng lúc | 飲み過ぎ防止 | Wùn vs say. Cách từ chối thêm rượu lịch sự ("もう十分です") |
-| 47 | Topic GOLD (an toàn 100%) | 安全話題TOP10 | Thời tiết / món ăn / quê / sport theo vùng / du lịch... |
-| 48 | Topic LANDMINE (cẩn trọng) | 地雷話題 | Tuổi tác phụ nữ / TQ political / nội bộ JP company gossip / so sánh negative |
-| 49 | Sách/báo/TV để có vốn nói | 雑談ネタ収集 | NHK / 日経 / Yahoo Japan ranking. Mỗi tuần 30 phút |
-| 50 | Memory bank — duy trì lâu dài | 関係維持の記憶バンク | CRM ghi specifics → trước mỗi cuộc gặp, review 3 phút [TEMPLATE: checklist] |
-| 51 | Self-review + practice | 振り返りと練習 | Sau mỗi 雑談 session: 3 win / 3 miss / 3 follow-up [TEMPLATE: checklist] |
+| 42 | Trình tự gọi món tại izakaya / 居酒屋オーダー | 居酒屋オーダー | "とりあえずビール" → mồi → main → 締め. Order theo person count |
+| 43 | Toast + thứ tự rót / 乾杯・お酌 | 乾杯・お酌 | Hold lower than senior. Rót cho người khác trước, mình cuối. Cross-ref sách 07 rule_26 |
+| 44 | 一次会・二次会・締め / 一次会・二次会 | 一次会・二次会 | 1次 = ăn / 2次 = karaoke or bar / 締め = ramen. Khi nào về |
+| 45 | Karaoke — chọn bài / カラオケ選曲 | カラオケ選曲 | Match thế hệ: Showa hits cho 50t / J-pop cho 30t. Tránh english pop |
+| 46 | Tránh say + dừng đúng lúc / 飲み過ぎ防止 | 飲み過ぎ防止 | Wùn vs say. Cách từ chối thêm rượu lịch sự ("もう十分です") |
+| 47 | Chủ đề VÀNG (an toàn 100%) / 安全話題TOP10 | 安全話題TOP10 | Thời tiết / món ăn / quê / sport theo vùng / du lịch... |
+| 48 | Chủ đề MÌN / 地雷話題 | 地雷話題 | Tuổi tác phụ nữ / TQ political / nội bộ JP company gossip / so sánh negative |
+| 49 | Sách/báo/TV để có vốn nói / 雑談ネタ収集 | 雑談ネタ収集 | NHK / 日経 / Yahoo Japan ranking. Mỗi tuần 30 phút |
+| 50 | Kho ghi nhớ — duy trì quan hệ lâu dài / 関係維持の記憶バンク | 関係維持の記憶バンク | CRM ghi specifics → trước mỗi cuộc gặp, review 3 phút [TEMPLATE: checklist] |
+| 51 | Tự đánh giá + luyện tập / <ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>りと<ruby>練習<rt>れんしゅう</rt></ruby> | 振り返りと練習 | Sau mỗi 雑談 session: 3 win / 3 miss / 3 follow-up [TEMPLATE: checklist] |
 
 ---
 
@@ -138,7 +138,7 @@ Bối cảnh: Phase 3 đã ký xong (sách 06), Dũng + Tuấn đang travel Nh�
 - **A** — Script template (key_phrases tổng hợp)
 - **B** — Vocab tổng hợp (~250+ từ — từ vựng phong phú nhất bộ Hizashi do regional terms)
 - **C** — BJT practice (50 câu, J2-J1)
-- **D** — Templates (~5 templates: memory bank, regional cheat sheets)
+- **D** — Mẫu ghi chép (~5 mẫu: kho ghi nhớ, bảng tra nhanh theo vùng)
 - **E (MỚI)** — **47 Prefectures Cheat Sheet** — bảng đầy đủ 47 tỉnh × (đặc sản / sport / lễ hội / dialect đặc trưng / phrase trao đổi). Đây là **artifact đặc biệt** của sách 08, ready-to-print làm pocket reference.
 
 ---
@@ -147,7 +147,7 @@ Bối cảnh: Phase 3 đã ký xong (sách 06), Dũng + Tuấn đang travel Nh�
 
 - 場面把握: 28 (chủ yếu Phần I, II, V)
 - 表現読解: 15 (Phần II, IV)
-- 発言聴解: 8 (Phần III regional dialects + IV VN topics)
+- 発言聴解: 8 (Phần III phương ngữ vùng miền + IV chủ đề Việt Nam)
 
 → Sách 08 có nhiều 発言聴解 nhất (vì regional dialect + casual speech khó nghe hơn formal business JP).
 

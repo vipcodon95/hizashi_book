@@ -1,4 +1,4 @@
-# Rule 44 — Báo tin xấu qua phone / 悪い知らせを電話で伝える
+# Rule 44 — Báo tin xấu qua điện thoại / 悪い知らせを電話で伝える
 
 > **Luận điểm.** Tin xấu **không gửi mail trước** mà gọi điện. Cấu trúc: **(1) báo trước "tin không tốt"**, **(2) sự việc gọn**, **(3) ảnh hưởng**, **(4) kế hoạch xử lý**.
 >

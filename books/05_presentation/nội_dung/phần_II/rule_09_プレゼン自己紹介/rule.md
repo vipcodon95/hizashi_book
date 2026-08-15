@@ -36,7 +36,7 @@ Sau phần mở đầu thu hút, Dũng đến phần tự giới thiệu. Phòng
 | **松本** | 「はい、よろしくお願いします。」 <br/>*Vâng, mong em giúp đỡ.* |
 | **ズン** | 「<ruby>右側<rt>みぎがわ</rt></ruby>のトゥアンが<ruby>技術<rt>ぎじゅつ</rt></ruby>リード、<ruby>後<rt>のち</rt></ruby>ほどデモパートを<ruby>担当<rt>たんとう</rt></ruby>いたします。それでは<ruby>本題<rt>ほんだい</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります。」 <br/>*Anh Tuấn bên phải là trưởng nhóm kỹ thuật, sẽ phụ trách phần demo sau ạ. Vậy em xin vào đề ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「ティエンファットのズン」** — KHÔNG dùng "社" (ティエンファット社) khi tự xưng (ウチ rule).
 - 【2】**「主担当としてご提案」** — Vai trò trong dự án này, không phải chức danh chung chung.
 - 【3】**Lý do chọn mình** — 1 câu thể hiện độ tin cậy liên quan trực tiếp. "Phase 2 で〇〇を担当 → 本案件はその継続" là công thức mạnh.

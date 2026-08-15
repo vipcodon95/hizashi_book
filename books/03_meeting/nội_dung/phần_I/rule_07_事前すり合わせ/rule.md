@@ -40,7 +40,7 @@ Họp đàm phán phase 2 với 大垣営業部長 + 松本PM. Chị Hương (Ph
 | **フオン** | 「<ruby>了解<rt>りょうかい</rt></ruby>。ズン、もし<ruby>大垣<rt>おおがき</rt></ruby>様が『5月15日』と言っても<ruby>即答<rt>そくとう</rt></ruby>せず、『5月20日であればコミットできます』と返してね【2】。私が<ruby>必要<rt>ひつよう</rt></ruby>に応じてフォローする。」 <br/>*OK. Dũng, nếu anh Ōgaki nói '15/5' thì đừng trả lời ngay, em đáp 'nếu 20/5 thì em commit được' nhé. Khi cần chị sẽ follow thêm.* |
 | **ズン** | 「<ruby>承知<rt>しょうち</rt></ruby>しました。Plan B として『5月15日<ruby>要望<rt>ようぼう</rt></ruby>なら<ruby>追加<rt>ついか</rt></ruby>リソース3人分の<ruby>見積<rt>みつ</rt></ruby>もり』も<ruby>用意<rt>ようい</rt></ruby>しておきます。」 <br/>*Em rõ rồi ạ. Phương án dự phòng em chuẩn bị sẵn báo giá 3 người nhân lực bổ sung trong trường hợp họ muốn 15/5 ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「現実的なライン」** = "lằn ranh thực tế". Cụm tech lead / quản lý dùng nhiều khi thống nhất trước họp.
 - 【2】**「即答せず」** = "đừng trả lời ngay". Chỉ thị quan trọng cho nhân viên cấp dưới khi vào họp đàm phán.
 

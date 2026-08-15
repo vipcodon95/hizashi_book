@@ -54,7 +54,7 @@ language: bilingual
 | Vấn đề liên quan | QA体制 (đang mở), 予算値引き率 (đang mở) |
 | Cập nhật lần cuối | 2026-04-28 bởi ズン |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Nguồn tra cứu duy nhất** — 1 link Notion thay vì phải lục tung email.
 - **Trạng thái:** đang mở / đang xử lý / đã xong.
 - **Vấn đề liên quan** — link các quyết định phụ thuộc lẫn nhau.

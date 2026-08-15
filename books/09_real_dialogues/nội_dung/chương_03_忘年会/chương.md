@@ -50,7 +50,7 @@ Người lần đầu dự bonenkai = lo lắng cao. Người có kinh nghiệm 
 |---------|-----|
 | **田中PMO** | 「皆さん、お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>です!<ruby>年末<rt>ねんまつ</rt></ruby>ですね。」<br/>*Mọi người, hôm nay vất vả rồi nhé! Cuối năm rồi.* |
 | **フオン副部長** | 「田中さん、<ruby>皆様<rt>みなさま</rt></ruby>、<ruby>本日<rt>ほんじつ</rt></ruby>は<ruby>お招き<rt>おまねき</rt></ruby>いただきありがとうございます。」<br/>*Anh Tanaka, quý vị, cảm ơn đã mời chúng tôi đến tối nay ạ.* |
-| **松本PM** | 「(席を<ruby>案内<rt>あんない</rt></ruby>)中村CFOはこちらの<ruby>奥<rt>おく</rt></ruby>、その<ruby>隣<rt>となり</rt></ruby>に大垣さん、フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、こちら<ruby>側<rt>がわ</rt></ruby>の<ruby>奥<rt>おく</rt></ruby>に佐藤先生…」<br/>*(hướng dẫn chỗ ngồi) Anh Nakamura CFO ngồi cuối này, kế bên là Ōgaki, chị Hương, bên này cuối là anh Sato…* |
+| **松本PM** | 「(席を<ruby>案内<rt>あんない</rt></ruby>)中村CFOはこちらの<ruby>奥<rt>おく</rt></ruby>、その<ruby>隣<rt>となり</rt></ruby>に大垣さん、フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、こちら<ruby>側<rt>がわ</rt></ruby>の<ruby>奥<rt>おく</rt></ruby>に佐藤さん…」<br/>*(hướng dẫn chỗ ngồi) Anh Nakamura CFO ngồi cuối này, kế bên là Ōgaki, chị Hương, bên này cuối là anh Sato…* |
 
 *[Dũng định ngồi gần Matsumoto vì thân nhất — Tuấn kéo nhẹ tay, ra hiệu mắt 'để khách JP ngồi kamiza'.]*
 
@@ -185,22 +185,22 @@ Người mới đói + lo lắng → ăn nhanh là phản xạ tự nhiên. Các
 
 | Vai | Câu |
 |---------|-----|
-| **佐藤先生** | 「(<ruby>博多弁<rt>はかたべん</rt></ruby>)ズンくん、こっち来て、<ruby>焼酎<rt>しょうちゅう</rt></ruby><ruby>一杯<rt>いっぱい</rt></ruby>どうね?」<br/>*(tiếng Hakata) Dũng nè, qua đây, làm 1 ly shochu không?* |
+| **佐藤さん** | 「(<ruby>博多弁<rt>はかたべん</rt></ruby>)ズンくん、こっち来て、<ruby>焼酎<rt>しょうちゅう</rt></ruby><ruby>一杯<rt>いっぱい</rt></ruby>どうね?」<br/>*(tiếng Hakata) Dũng nè, qua đây, làm 1 ly shochu không?* |
 
 *[Dũng nhớ quy tắc sách 08: người 60t mời 1 ly = không từ chối, dù không quen shochu. Đứng dậy đi lại chỗ Sato.]*
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「佐藤先生、ありがとうございます、お<ruby>邪魔<rt>じゃま</rt></ruby>します。」<br/>*Anh Sato, cảm ơn anh, em xin phép.* |
-| **佐藤先生** | 「ほら、<ruby>座<rt>すわ</rt></ruby>って。これね、<ruby>地元<rt>じもと</rt></ruby><ruby>福岡<rt>ふくおか</rt></ruby>の<ruby>麦<rt>むぎ</rt></ruby><ruby>焼酎<rt>しょうちゅう</rt></ruby>、『<ruby>中々<rt>なかなか</rt></ruby>』ていうの。ロックでいい?」<br/>*Đây, ngồi đi. Cái này shochu lúa mạch quê Fukuoka tôi, gọi là 'Naka Naka'. Đá được không?* |
+| **ズン** | 「佐藤さん、ありがとうございます、お<ruby>邪魔<rt>じゃま</rt></ruby>します。」<br/>*Anh Sato, cảm ơn anh, em xin phép.* |
+| **佐藤さん** | 「ほら、<ruby>座<rt>すわ</rt></ruby>って。これね、<ruby>九州<rt>きゅうしゅう</rt></ruby>の<ruby>麦<rt>むぎ</rt></ruby><ruby>焼酎<rt>しょうちゅう</rt></ruby>で『<ruby>中々<rt>なかなか</rt></ruby>』ていうの。<ruby>宮崎<rt>みやざき</rt></ruby>の<ruby>蔵<rt>くら</rt></ruby>のやつばい。ロックでいい?」<br/>*Đây, ngồi đi. Cái này shochu lúa mạch Kyushu, gọi là 'Naka Naka'. Của lò bên Miyazaki đó. Đá được không?* |
 | **ズン** | 「ロックでお願いします。」<br/>*Đá được ạ.* |
-| **佐藤先生** | 「(<ruby>注<rt>そそ</rt></ruby>ぐ)はい。<ruby>乾杯<rt>かんぱい</rt></ruby>。」<br/>*(rót) Đây. Kanpai.* |
+| **佐藤さん** | 「(<ruby>注<rt>そそ</rt></ruby>ぐ)はい。<ruby>乾杯<rt>かんぱい</rt></ruby>。」<br/>*(rót) Đây. Kanpai.* |
 | **ズン** | 「(<ruby>両手<rt>りょうて</rt></ruby>でグラス<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>り)<ruby>乾杯<rt>かんぱい</rt></ruby>。…(<ruby>一口<rt>ひとくち</rt></ruby>)あ、<ruby>麦<rt>むぎ</rt></ruby>の<ruby>香<rt>かお</rt></ruby>りが<ruby>優<rt>やさ</rt></ruby>しいですね。ベトナムの<ruby>米焼酎<rt>こめしょうちゅう</rt></ruby>より<ruby>柔<rt>やわ</rt></ruby>らかい<ruby>感<rt>かん</rt></ruby>じ。」<br/>*(2 tay nhận ly) Kanpai. … (1 ngụm) À, hương lúa mạch dịu nhỉ. Mềm hơn rượu gạo Việt Nam em từng uống.* |
-| **佐藤先生** | 「おお、<ruby>米焼酎<rt>こめしょうちゅう</rt></ruby>飲んだことあるんだ?」<br/>*Ồ, uống rượu gạo rồi à?* |
+| **佐藤さん** | 「おお、<ruby>米焼酎<rt>こめしょうちゅう</rt></ruby>飲んだことあるんだ?」<br/>*Ồ, uống rượu gạo rồi à?* |
 | **ズン** | 「Tết のときに、家族で。父が好きで。」<br/>*Tết, với gia đình ạ. Bố em thích.* |
-| **佐藤先生** | 「そうかそうか。ベトナムの Tết、いつだった?」<br/>*À à. Tết Việt Nam, khi nào nhỉ?* |
-| **ズン** | 「1月か2月の<ruby>最初<rt>さいしょ</rt></ruby>、<ruby>旧暦<rt>きゅうれき</rt></ruby>なので<ruby>毎年<rt>まいとし</rt></ruby><ruby>違<rt>ちが</rt></ruby>います。<ruby>来年<rt>らいねん</rt></ruby>は1月29日です。」<br/>*Đầu tháng 1 hoặc tháng 2, theo âm lịch nên mỗi năm khác. Năm sau là 29/1.* |
-| **佐藤先生** | 「へえ。じゃあ<ruby>来年<rt>らいねん</rt></ruby>の Tết、<ruby>福岡<rt>ふくおか</rt></ruby>に来たら<ruby>焼酎<rt>しょうちゅう</rt></ruby><ruby>工場<rt>こうじょう</rt></ruby><ruby>連<rt>つ</rt></ruby>れてってあげる。<ruby>本物<rt>ほんもの</rt></ruby>の<ruby>蔵元<rt>くらもと</rt></ruby>見せちゃる。」<br/>*Vậy à. Năm sau Tết, cậu sang Fukuoka tôi dẫn đi xưởng shochu. Cho cậu xem nhà chưng cất thật, đàng hoàng luôn.* |
+| **佐藤さん** | 「そうかそうか。ベトナムの Tết、いつだった?」<br/>*À à. Tết Việt Nam, khi nào nhỉ?* |
+| **ズン** | 「1月か2月の<ruby>最初<rt>さいしょ</rt></ruby>、<ruby>旧暦<rt>きゅうれき</rt></ruby>なので<ruby>毎年<rt>まいとし</rt></ruby><ruby>違<rt>ちが</rt></ruby>います。<ruby>来年<rt>らいねん</rt></ruby>は2月6日です。」<br/>*Đầu tháng 1 hoặc tháng 2, theo âm lịch nên mỗi năm khác. Năm sau là 6/2.* |
+| **佐藤さん** | 「へえ。じゃあ<ruby>来年<rt>らいねん</rt></ruby>の Tết、<ruby>福岡<rt>ふくおか</rt></ruby>に来たら<ruby>焼酎<rt>しょうちゅう</rt></ruby><ruby>工場<rt>こうじょう</rt></ruby><ruby>連<rt>つ</rt></ruby>れてってあげる。<ruby>本物<rt>ほんもの</rt></ruby>の<ruby>蔵元<rt>くらもと</rt></ruby>見せちゃる。」<br/>*Vậy à. Năm sau Tết, cậu sang Fukuoka tôi dẫn đi xưởng shochu. Cho cậu xem nhà chưng cất thật, đàng hoàng luôn.* |
 | **ズン** | 「本当ですか?<ruby>光栄<rt>こうえい</rt></ruby>です、ぜひ<ruby>伺<rt>うかが</rt></ruby>います。」<br/>*Thật ạ? Vinh dự lắm, em chắc chắn sẽ qua.* |
 
 
@@ -327,7 +327,7 @@ Khách cấp cao (như Ōgaki) đôi khi gợi ý chuyện kinh doanh ở bonenk
 |---------|-----|
 | **田中PMO** | 「皆さん、<ruby>二次会<rt>にじかい</rt></ruby>カラオケ行く?歩いて5分。」<br/>*Mọi người, niji-kai karaoke không? Đi bộ 5 phút.* |
 | **山本マネージャー** | 「行く行く!リンちゃん、ハイさんも来てや!」<br/>*Đi đi! Linh, Hải cũng đi nhé!* |
-| **フオン副部長** | 「(<ruby>小声<rt>こごえ</rt></ruby>でリン+ハイに、ベトナム語)Linh, Hải hôm nay đã làm tốt rồi. 22h là OK, về sớm nghỉ. Mai vẫn còn deadline.」<br/>*(nhỏ giọng với Linh + Hải, tiếng Việt) Linh, Hải hôm nay đã làm tốt rồi. 22h là OK, về sớm nghỉ. Mai vẫn còn deadline.* |
+| **フオン副部長** | 「(<ruby>小声<rt>こごえ</rt></ruby>でリン+ハイに、ベトナム語)Linh, Hải hôm nay đã làm tốt rồi. 22h là OK, về sớm nghỉ. Mai vẫn còn deadline.」<br/>*(nhỏ giọng với Linh + Hải, tiếng Việt) Linh, Hải hôm nay đã làm tốt rồi. 22h là OK, về sớm nghỉ. Mai vẫn còn hạn chót.* |
 | **リン** | 「(ベトナム語、ホッとした)はい chị, em về ạ.」<br/>*(tiếng Việt, nhẹ người) Vâng chị, em về ạ.* |
 | **フオン副部長** | 「(日本語、皆に)山本さん、ありがとう。リンとハイは初めて<ruby>疲<rt>つか</rt></ruby>れたみたいだから、私と<ruby>一緒<rt>いっしょ</rt></ruby>に帰ります。トゥアンとズンは<ruby>二次会<rt>にじかい</rt></ruby>行ってもらって、<ruby>白鷗<rt>はくおう</rt></ruby>の皆さんとゆっくり。」<br/>*(tiếng Nhật, với mọi người) Yamamoto cảm ơn nhé. Linh với Hải lần đầu mệt rồi nên về cùng tôi. Tuấn với Dũng đi tăng 2 với Hakuō để thoải mái.* |
 | **松本PM** | 「<ruby>了解<rt>りょうかい</rt></ruby>、フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>、リンさんハイさん、お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>でした。気をつけて。」<br/>*Rõ rồi. Chị Hương, Linh, Hải vất vả rồi nhé. Về cẩn thận ạ.* |

@@ -36,13 +36,13 @@ Em Dũng báo cáo tình hình Phase 2 cho anh Matsumoto qua điện thoại (đ
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「松本様、お<ruby>時間頂戴<rt>じかんちょうだい</rt></ruby>し<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。Phase 2 <ruby>進捗<rt>しんちょく</rt></ruby>の **ご<ruby>報告<rt>ほうこく</rt></ruby>**でございます【1】。」 <br/>*Anh Matsumoto, em xin lỗi anh dành thời gian. Em xin báo cáo tiến độ Phase 2 ạ.* |
+| **ズン** | 「松本様、お<ruby>時間頂戴<rt>じかんちょうだい</rt></ruby>し<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。Phase 2 <ruby>進捗<rt>しんちょく</rt></ruby>の **ご<ruby>報告<rt>ほうこく</rt></ruby><ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます**【1】。」 <br/>*Anh Matsumoto, em xin lỗi anh dành thời gian. Em xin báo cáo tiến độ Phase 2 ạ.* |
 | **ズン** | 「**<ruby>結論<rt>けつろん</rt></ruby>**：<ruby>予定通<rt>よていどお</rt></ruby>り進捗、<ruby>画面<rt>がめん</rt></ruby>ロードは1.2秒から0.4秒まで<ruby>改善<rt>かいぜん</rt></ruby>。**<ruby>弊社<rt>へいしゃ</rt></ruby>のトゥアン**【2】が<ruby>技術検証<rt>ぎじゅつけんしょう</rt></ruby>を<ruby>完了<rt>かんりょう</rt></ruby>し、<ruby>自動<rt>じどう</rt></ruby>テストの<ruby>仕組<rt>しく</rt></ruby>み(CI/CD)も<ruby>整<rt>ととの</rt></ruby>いました【3】。」 <br/>*Kết luận: tiến độ đúng kế hoạch, load màn hình cải thiện từ 1.2s xuống 0.4s. Anh Tuấn bên em đã hoàn thành kiểm chứng kỹ thuật, cơ chế tự động test (CI/CD) cũng đã sẵn sàng ạ.* |
 | **ズン** | 「**ご<ruby>相談<rt>そうだん</rt></ruby>**：Phase 3 のキックオフを5月7日に<ruby>予定<rt>よてい</rt></ruby>しております。アジェンダ<ruby>案<rt>あん</rt></ruby>を<ruby>本日中<rt>ほんじつちゅう</rt></ruby>にメールでお<ruby>送<rt>おく</rt></ruby>りしてよろしいでしょうか。」 <br/>*Em xin tham vấn: kick-off Phase 3 dự kiến ngày 7/5 ạ. Em gửi anh bản nháp chương trình qua mail trong hôm nay được không ạ?* |
 | **松本PM** | 「分かりやすい報告ありがとうございます。アジェンダ、お<ruby>待<rt>ま</rt></ruby>ちしております。」 <br/>*Cảm ơn báo cáo dễ hiểu nhé. Tôi sẽ đợi chương trình họp.* |
 
- **Ghi chú:**
-- 【1】**「ご報告でございます」** — cao hơn 「共有します」 1 bậc. Khách Nhật quan trọng dùng mức này.
+📝 **Ghi chú:**
+- 【1】**「ご報告申し上げます」** — cao hơn 「共有します」 1 bậc. Khách Nhật quan trọng dùng mức này.
 - 【2】**「弊社のトゥアン」** — bỏ chức danh nội bộ (リーダー). Đồng nghiệp Việt khi nói với khách = ウチ → không kèm chức danh.
 - 【3】**「自動テストの仕組み(CI/CD)」** — giải thích tiếng Nhật trước, thuật ngữ kỹ thuật để trong ngoặc. Khách bận, không phải dân kỹ thuật.
 
@@ -50,7 +50,7 @@ Em Dũng báo cáo tình hình Phase 2 cho anh Matsumoto qua điện thoại (đ
 
 ## Câu chốt
 
-> **「ご報告でございます。弊社の〇〇 が〜。〇〇の仕組み(thuật ngữ)を導入。」**
+> **「ご報告申し上げます。弊社の〇〇 が〜。〇〇の仕組み(thuật ngữ)を導入。」**
 >
 > *Mức trang trọng + ウチ・ソト + thuật ngữ kỹ thuật có giải thích = chuẩn báo khách.*
 

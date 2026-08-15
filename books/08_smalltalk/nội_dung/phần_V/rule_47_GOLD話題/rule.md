@@ -14,7 +14,7 @@
 
 ## Bối cảnh
 
-Tham khảo. 1 scenario chính + 1 scenario "khi không biết nói gì" để gỡ tình huống.
+Tháng 9/2026, Dũng dự bữa tối cùng đoàn Hakuō sau buổi review Phase 5. Ngồi cạnh anh Hiroshi (Trưởng chi nhánh Kansai, gốc Hiroshima) — người Dũng mới gặp lần thứ hai, chưa có nhiều vốn chuyện chung. Đây là lúc phải biết **đào sâu một chủ đề vàng** thay vì nhảy lung tung, và biết **gỡ thế bí** khi bất chợt cạn ý giữa bữa.
 
 ---
 

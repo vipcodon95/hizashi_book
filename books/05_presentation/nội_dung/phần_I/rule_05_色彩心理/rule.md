@@ -38,7 +38,7 @@ Dũng dùng khung mẫu rực rỡ — tiêu đề đỏ, phần thân xanh lá,
 | **ズン** | 「**CTAだけオレンジ**(#E67E22)で目立たせます。それ以外オレンジは使いません。」 <br/>*Chỉ riêng CTA dùng cam (#E67E22) cho nổi ạ. Ngoài đó không dùng cam ở đâu khác.* |
 | **フオン** | 「正解。赤はリスクスライドの『高リスク』マークだけ。色に意味を<ruby>持<rt>も</rt></ruby>たせる。」 <br/>*Đúng rồi. Đỏ chỉ dành cho mark 「rủi ro cao」 ở slide rủi ro. Mỗi màu phải có nghĩa.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「3色制限」** — Primary + Sub + 1 Accent. Quá ngần đó = nhiễu thị giác.
 - 【2】**「白鷗ブランドカラー」** — Lấy corporate color của khách làm accent = tín hiệu 「đã nghiên cứu kỹ」. Hiệu quả rất lớn.
 

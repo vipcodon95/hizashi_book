@@ -45,7 +45,7 @@ Phase 4 với khách mới (sản xuất JP, trụ sở Tokyo). Tuấn Tech Lead
 | (商談後 Slack Tuấn に) **ズン** | 「Tuấn、 JP は『<ruby>高<rt>たか</rt></ruby>い』 ≠ 『discount せよ』。 specific reason を indirect に asking している【3】。VN style で<ruby>即<rt>そく</rt></ruby> 10% <ruby>下<rt>さ</rt></ruby>げると ratchet <ruby>動<rt>うご</rt></ruby>く。next time も<ruby>同<rt>おな</rt></ruby>じ pattern で。」 <br/>*Tuấn, JP 'cao' KHÔNG phải 'giảm đi'. Họ hỏi gián tiếp lý do cụ thể. Style VN giảm 10% phát thì ratchet xảy ra. Lần sau cùng mô hình này.* |
 | **トゥアン** | 「<ruby>了解<rt>りょうかい</rt></ruby>。<ruby>沈黙<rt>ちんもく</rt></ruby> 2 <ruby>秒<rt>びょう</rt></ruby>で Dũng の signal <ruby>待<rt>ま</rt></ruby>つ pattern <ruby>学<rt>まな</rt></ruby>んだ。」 <br/>*Hiểu rồi. Anh học được mô hình 'im lặng 2 giây chờ tín hiệu Dũng'.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Hỏi cụ thể từng mục "内訳要素"** = phân tách + định hình lại JP indirect 「高い」. Không giảm giá ngay mà khám phá thêm.
 - 【2】**Nhượng bộ dạng đánh đổi** (「スコープを外せば ¥18M」) = mô hình có qua có lại kiểu JP. Giảm 1 lần lớn 1 chiều là phong cách VN.
 - 【3】**JP「高い」 4 lớp diễn giải**: (i) thật sự thấy đắt (hiếm), (ii) muốn nghe giải thích từng mục (phổ biến nhất), (iii) muốn giải thích chênh lệch so với đối thủ, (iv) biểu đạt "chưa chắc" để giữ thể diện. Giảm giá trực tiếp chỉ đúng với (i).

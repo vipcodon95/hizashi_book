@@ -42,7 +42,7 @@ Discovery question xong (rule 12), 大垣 trả lời nhưng có vài "ちょっ
 | **大垣** | 「データ<ruby>漏洩<rt>ろうえい</rt></ruby>リスクとモデル<ruby>説明可能性<rt>せつめいかのうせい</rt></ruby>。御社で説明できる資料があれば助かります。」 <br/>*Rủi ro rò rỉ dữ liệu và khả năng giải thích model. Nếu bên em có tài liệu giải thích được thì rất giúp.* |
 | **ズン** | 「**白鷗様 IT 部門長様向けに security PoC + AI explainability の brief を 1 週間以内に**【3】。それに合わせて Timeline は 7 月末→ 8 月中旬に<ruby>余裕<rt>よゆう</rt></ruby>を持たせる<ruby>案<rt>あん</rt></ruby>も<ruby>併<rt>あわ</rt></ruby>せてご<ruby>提案<rt>ていあん</rt></ruby>します。」 <br/>*Em sẽ chuẩn bị tài liệu minh chứng bảo mật + tóm tắt khả năng giải thích AI cho trưởng phòng IT bên Hakuō trong 1 tuần. Đồng thời em đề xuất nới thời hạn cuối tháng 7 → giữa tháng 8 cho có dư địa ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「もう少し詳しく…」** = câu hỏi mở để khách nói rõ thêm. Tránh câu hỏi đóng (có/không).
 - 【2】**「具体的にどのあたり」** — đào vấn đề xuống mức vận hành cụ thể. Khách Nhật thường chia sẻ khi đã tạo được niềm tin.
 - 【3】**Biến ràng buộc thành giải pháp** — biết trưởng phòng IT lo, đề xuất tài liệu minh chứng bảo mật + dời thời hạn → tăng cơ hội ringi được duyệt.

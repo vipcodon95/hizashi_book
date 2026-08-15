@@ -36,7 +36,7 @@ Tuần trước buổi trình bày, Linh (thực tập sinh) sắp trình bày l
 | **ズン** | 「正解。Bは『**<ruby>驚<rt>おどろ</rt></ruby>き数字 → だからこの話**』の流れ。**『手作業で1日3時間使っているこの作業、15分に<ruby>圧縮<rt>あっしゅく</rt></ruby>できます』** で30秒成立【2】。」 <br/>*Đúng rồi. Kiểu B đi theo nhịp 「số gây sốc → vì vậy chuyện này」. Câu 「Cái việc thủ công ngốn 3 tiếng/ngày này, có thể nén xuống 15 phút」 là đủ 30 giây.* |
 | **リン** | 「シンプルですね…練習します。」 <br/>*Đơn giản thế ạ... em sẽ luyện ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**3 tiêu chí chọn kiểu** — Câu chuyện = kỹ năng cao + có sự gắn kết. Số liệu = lựa chọn mặc định an toàn. Câu hỏi = đối tượng đã sẵn sàng tham gia thảo luận.
 - 【2】**「驚き数字 → だからこの話」** — Công thức mở đầu thu hút bằng số liệu. Con số + nỗi đau tạo cảm giác 「của chính mình」 cho đối tượng.
 

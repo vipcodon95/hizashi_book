@@ -22,7 +22,7 @@ Sáng thứ Hai, văn phòng đông. Anh Matsumoto gọi vào số bàn em Dũng
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「お電話ありがとうございます。ティエンファット社のズンでございます。」 <br/>*Cảm ơn anh đã gọi. Tôi là Dũng bên Cty Thiên Phát ạ.* |
-| **松本PM** | 「(im lặng 1 giây)... お世話になっております。」 <br/>*(im 1 giây)... Cảm ơn anh đã hỗ trợ.* |
+| **松本PM** | 「(im lặng 1 giây)... お世話になっております。」 <br/>*(im 1 giây)... Chào anh, rất mong được anh giúp đỡ.* |
 
 **Vì sao xấu:** Reo 5 hồi mà không xin lỗi → khách ngầm cảm thấy "được phục vụ kém". 1 giây im lặng của Matsumoto là biểu hiện. Câu mở đúng nhưng *thiếu lời xin lỗi*.
 
@@ -35,9 +35,9 @@ Sáng thứ Hai, văn phòng đông. Anh Matsumoto gọi vào số bàn em Dũng
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「お電話ありがとうございます。お待たせいたしました【1】、ティエンファット社のズンでございます。」 <br/>*Cảm ơn anh đã gọi. Xin lỗi vì đã để anh đợi, tôi là Dũng bên Cty Thiên Phát ạ.* |
-| **松本PM** | 「お世話になっております。<ruby>白鷗<rt>はくおう</rt></ruby>の松本です。」 <br/>*Cảm ơn anh đã hỗ trợ. Tôi là Matsumoto bên Hakuō.* |
+| **松本PM** | 「お世話になっております。<ruby>白鷗<rt>はくおう</rt></ruby>の松本です。」 <br/>*Chào anh, rất mong được anh giúp đỡ. Tôi là Matsumoto bên Hakuō.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】Quá 3 hồi → bắt buộc kèm「お待たせいたしました」. Quá 5 hồi →「大変お待たせいたしました」 (thêm「大変」).
 
 ---

@@ -19,10 +19,16 @@
 ## Câu chốt
 
 > **「<ruby>全責任<rt>ぜんせきにん</rt></ruby>は<ruby>弊社<rt>へいしゃ</rt></ruby>にございます。」**
+>
+> ⚠️ **CHỈ dùng khi đã xác minh lỗi thuộc về bên mình** (như tình huống trên: `弊社の確認漏れにより` — đã rõ nguyên nhân). Đây là **全面謝罪** — nhận toàn bộ trách nhiệm.
+>
+> Khi **chưa rõ nguyên nhân**, hoặc lỗi có thể thuộc bên thứ ba (nhà vận chuyển, đối tác), dùng **部分謝罪** — xin lỗi về sự bất tiện gây ra, KHÔNG nhận trách nhiệm về nguyên nhân:
+> **「ご<ruby>不便<rt>ふべん</rt></ruby>をおかけし、<ruby>誠<rt>まこと</rt></ruby>に<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。<ruby>原因<rt>げんいん</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>、<ruby>改<rt>あらた</rt></ruby>めてご<ruby>報告<rt>ほうこく</rt></ruby>いたします。」**
 
 ## Tránh
 
 - 「もしかしたら〜」 → lưỡng lự, không thừa nhận.
+- ⚠️ **Nhận trách nhiệm quá tay khi chưa xác minh** — nói `全責任は弊社にございます` cho sự cố chưa rõ nguyên nhân, hoặc lỗi của bên thứ ba. Đây là rủi ro thật: câu này có sức nặng khi bàn bồi thường. Chưa rõ thì dùng 部分謝罪 ở trên.
 - 「仕方ありませんでした」 → đẩy lỗi cho hoàn cảnh.
 
 ## Bảng từ vựng

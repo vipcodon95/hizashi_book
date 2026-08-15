@@ -10,7 +10,7 @@
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「いつもお世話になっております。ティエンファット社、<ruby>営業部<rt>えいぎょうぶ</rt></ruby>のズンと<ruby>申<rt>もう</rt></ruby>します。」 <br/>*Cảm ơn anh đã hỗ trợ ạ. Em là Dũng phòng kinh doanh Cty Thiên Phát ạ.* |
+| **ズン** | 「いつもお世話になっております。ティエンファット社、<ruby>営業部<rt>えいぎょうぶ</rt></ruby>のズンと<ruby>申<rt>もう</rt></ruby>します。」 <br/>*Chào anh ạ, rất mong được anh giúp đỡ. Em là Dũng phòng kinh doanh Cty Thiên Phát ạ.* |
 | **ズン** | 「明日の<ruby>打<rt>う</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせ<ruby>資料<rt>しりょう</rt></ruby>の<ruby>件<rt>けん</rt></ruby>でご<ruby>相談<rt>そうだん</rt></ruby>したく、お電話<ruby>差<rt>さ</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げました。」 <br/>*Em gọi điện vì muốn trao đổi về tài liệu họp ngày mai ạ.* |
 | **ズン** | 「お<ruby>手<rt>て</rt></ruby>すきの<ruby>際<rt>さい</rt></ruby>に090-1234-5678までお電話いただけますと<ruby>幸<rt>さいわ</rt></ruby>いです。本日17時まで<ruby>対応<rt>たいおう</rt></ruby><ruby>可能<rt>かのう</rt></ruby>でございます。」 <br/>*Lúc nào rảnh anh gọi lại số 090-1234-5678 giúp em ạ. Hôm nay em có thể nhận máy đến 17h ạ.* |
 | **ズン** | 「<ruby>失礼<rt>しつれい</rt></ruby>いたします。」 <br/>*Em xin phép cúp máy ạ.* |

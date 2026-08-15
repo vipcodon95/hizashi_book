@@ -1,0 +1,2771 @@
+{
+  "title": "Từ vựng IT (nguồn ngoài) — ĐÃ CÓ trong từ điển",
+  "description": "Các từ khớp lemma trong bảng `vocabulary`. Đã điền sẵn cach_doc / han_tu / nghia_viet lấy từ DB vào những chỗ trước đây để trống. Field khop_kieu cho biết khớp nguyên văn (exact), sau chuẩn hoá (nfkc) hay sau khi bỏ phần ngoặc (paren).",
+  "fields": [
+    "thuat_ngu",
+    "cach_doc",
+    "nghia_viet",
+    "han_tu",
+    "nghia_goc",
+    "nghia_lang"
+  ],
+  "licenses": [
+    {
+      "source": "ipsj",
+      "name": "IPSJ 情報入試委員会 情報科学教科書用語リスト ver.1.0 (2024-04-10)",
+      "license": "CC BY-SA 4.0",
+      "via": "https://github.com/code4fukui/ipsj-words"
+    },
+    {
+      "source": "code4fukui/sakura",
+      "name": "さくらのクラウド検定オンライン教材 IT用語集",
+      "license": "CC BY-SA 4.0",
+      "via": "https://github.com/code4fukui/it-words"
+    },
+    {
+      "source": "ichigojam",
+      "name": "IchigoJam Documentation 用語集",
+      "license": "chưa nêu rõ — kiểm tra trước khi phát hành",
+      "via": "https://github.com/IchigoJam/doc"
+    },
+    {
+      "source": "mercari",
+      "name": "Mercari Engineer Vocabulary List",
+      "license": "CC BY 4.0",
+      "via": "https://github.com/mercari/engineer-vocabulary-list"
+    }
+  ],
+  "total": 209,
+  "entries": [
+    {
+      "thuat_ngu": "けっこう",
+      "cach_doc": "けっこう",
+      "nghia_viet": "được rồi, đủ rồi; khá, tương đối",
+      "han_tu": "",
+      "nghia_goc": "adv. quite",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "ずれる",
+      "cach_doc": "ずれる",
+      "nghia_viet": "trượt; lệch khỏi",
+      "han_tu": "",
+      "nghia_goc": "v. be out of alignment",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "ちなみに",
+      "cach_doc": "ちなみに",
+      "nghia_viet": "Nhân tiện, tiện thể, nói thêm là",
+      "han_tu": "",
+      "nghia_goc": "adv. also, in addition",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "ちゃんと",
+      "cach_doc": "ちゃんと",
+      "nghia_viet": "đúng đắn, chỉn chu",
+      "han_tu": "",
+      "nghia_goc": "adv. properly",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "どんどん",
+      "cach_doc": "どんどん,ドンドン",
+      "nghia_viet": "liên tiếp, nhanh chóng",
+      "han_tu": "",
+      "nghia_goc": "adv. one after the other (usually quickly)",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "アクセス",
+      "cach_doc": "アクセス",
+      "nghia_viet": "truy cập, tiếp cận",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "アクセント",
+      "cach_doc": "アクセント",
+      "nghia_viet": "trọng âm; điểm nhấn",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "アドレス",
+      "cach_doc": "アドレス",
+      "nghia_viet": "địa chỉ",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "アルファベット",
+      "cach_doc": "あるふぁべっと",
+      "nghia_viet": "chữ cái alphabet",
+      "han_tu": "",
+      "nghia_goc": "「A」から「Z」までの大文字と「a」から「z」までの小文字による文字。英字とも言う。",
+      "nghia_lang": "ja",
+      "nguon": [
+        "code4fukui",
+        "ichigojam"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "アンケート",
+      "cach_doc": "アンケート",
+      "nghia_viet": "bảng khảo sát, điều tra ý kiến",
+      "han_tu": "",
+      "nghia_goc": "事柄についての意見や感想を一定の書式に記入してもらうなどして集めるもの",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "イラスト",
+      "cach_doc": "イラスト",
+      "nghia_viet": "Minh họa, tranh vẽ",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "インタビュー",
+      "cach_doc": "インタビュー",
+      "nghia_viet": "phỏng vấn",
+      "han_tu": "",
+      "nghia_goc": "事柄についての意見や感想を対面で聞き取ること",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "インターネット",
+      "cach_doc": "インターネット",
+      "nghia_viet": "Mạng internet",
+      "han_tu": "",
+      "nghia_goc": "IPを用いて情報を流通させる世界にまたがるネットワーク",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj",
+        "code4fukui",
+        "sakura"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "インフラ",
+      "cach_doc": "インフラ",
+      "nghia_viet": "cơ sở hạ tầng",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "ウイルス",
+      "cach_doc": "ウイルス",
+      "nghia_viet": "vi rút (tác nhân gây bệnh)",
+      "han_tu": "",
+      "nghia_goc": "他のプログラムに自分のコピーを移植することで広まるマルウェア",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "エラー",
+      "cach_doc": "エラー",
+      "nghia_viet": "Lỗi",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "オープン",
+      "cach_doc": "オープン",
+      "nghia_viet": "mở; mở cửa; (giải) mở",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "カット",
+      "cach_doc": "カット",
+      "nghia_viet": "cắt, đoạn (chỉnh sửa)",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "カメラ",
+      "cach_doc": "かめら",
+      "nghia_viet": "Máy ảnh",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "キャッシュ",
+      "cach_doc": "キャッシュ",
+      "nghia_viet": "tiền mặt",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "キャリア",
+      "cach_doc": "キャリア",
+      "nghia_viet": "Sự nghiệp, công việc",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "キロ",
+      "cach_doc": "キロ",
+      "nghia_viet": "kí-lô (km hoặc kg)",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "キー",
+      "cach_doc": "キー",
+      "nghia_viet": "chữ Hy Lạp, Chi",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "キーワード",
+      "cach_doc": "キーワード",
+      "nghia_viet": "Từ khoá",
+      "han_tu": "",
+      "nghia_goc": "(1) 注目すべき語 (2) 単語を使用した検索やパラメタ",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "ギャップ",
+      "cach_doc": "ギャップ",
+      "nghia_viet": "Khoảng cách, sự chênh lệch",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "クラス",
+      "cach_doc": "クラス",
+      "nghia_viet": "lớp học; hạng; nhóm",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "グループ",
+      "cach_doc": "ぐるーぷ",
+      "nghia_viet": "Nhóm, bạn bè",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "コミュニケーション",
+      "cach_doc": "コミュニケーション",
+      "nghia_viet": "giao tiếp",
+      "han_tu": "",
+      "nghia_goc": "人が人に意図を持って情報を伝えること",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "コメント",
+      "cach_doc": "コメント",
+      "nghia_viet": "bình luận; nhận xét",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "コンセプト",
+      "cach_doc": "コンセプト",
+      "nghia_viet": "Khái niệm",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "コントラスト",
+      "cach_doc": "コントラスト",
+      "nghia_viet": "tương phản, đối lập",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "コントロール",
+      "cach_doc": "コントロール",
+      "nghia_viet": "điều khiển, kiểm soát",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "コンビニエンスストア",
+      "cach_doc": "コンビニエンスストア",
+      "nghia_viet": "cửa hàng tiện lợi",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "コンピュータ",
+      "cach_doc": "こんぴゅーたー",
+      "nghia_viet": "Máy tính",
+      "han_tu": "",
+      "nghia_goc": "電子回路を用いてプログラムに従い演算やデータの蓄積・検索・加工など行う装置",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj",
+        "code4fukui",
+        "sakura",
+        "ichigojam"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "コード",
+      "cach_doc": "コード",
+      "nghia_viet": "mã, mã số",
+      "han_tu": "",
+      "nghia_goc": "(1) 文字に対して割り振った番号ないしビット列 (2)プログラムの断片",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "サイズ",
+      "cach_doc": "さいず",
+      "nghia_viet": "Cỡ, kích thước",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "サンプル",
+      "cach_doc": "サンプル",
+      "nghia_viet": "mẫu, hàng mẫu",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "サービス",
+      "cach_doc": "サービス",
+      "nghia_viet": "dịch vụ; miễn phí",
+      "han_tu": "",
+      "nghia_goc": "要求に応じて情報やその他の利便性を提供するもの",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "システム",
+      "cach_doc": "システム",
+      "nghia_viet": "hệ thống",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "シミュレーション",
+      "cach_doc": "シミュレーション",
+      "nghia_viet": "mô phỏng",
+      "han_tu": "",
+      "nghia_goc": "実物の代わりに模型やモデルを用いてやってみること",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "シリーズ",
+      "cach_doc": "シリーズ",
+      "nghia_viet": "seri, loạt",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "スイッチ",
+      "cach_doc": "すいっち",
+      "nghia_viet": "Công tắc",
+      "han_tu": "",
+      "nghia_goc": "ハブの一種で、データを行き先のインタフェースのみに中継するもの",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj",
+        "code4fukui",
+        "sakura"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "スケジュール",
+      "cach_doc": "スケジュール",
+      "nghia_viet": "Lịch trình",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "スタイル",
+      "cach_doc": "スタイル",
+      "nghia_viet": "phong cách",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "ステレオタイプ",
+      "cach_doc": "ステレオタイプ",
+      "nghia_viet": "định kiến cố định",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "スポンサー",
+      "cach_doc": "スポンサー",
+      "nghia_viet": "Nhà tài trợ",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "センサー",
+      "cach_doc": "センサー",
+      "nghia_viet": "cảm biến",
+      "han_tu": "",
+      "nghia_goc": "物理的・化学的な現象を電気信号・データに変換する装置",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "ソフト",
+      "cach_doc": "そふと",
+      "nghia_viet": "Phần mềm",
+      "han_tu": "",
+      "nghia_goc": "動くコンピュータの要素のうち、ハードウェア以外のもの。プログラム・データ等",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "ソース",
+      "cach_doc": "ソース",
+      "nghia_viet": "Nguồn, ví dụ là nguồn dữ liệu",
+      "han_tu": "",
+      "nghia_goc": "人間が普通に読んだり書いたりできる形のコード(プログラムの断片)",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "タイトル",
+      "cach_doc": "タイトル",
+      "nghia_viet": "Tiêu đề",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "テスト",
+      "cach_doc": "テスト",
+      "nghia_viet": "Bài kiểm tra",
+      "han_tu": "",
+      "nghia_goc": "プログラムの間違いを発見する作業",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "テレビ",
+      "cach_doc": "てれび",
+      "nghia_viet": "Tivi",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "テーブル",
+      "cach_doc": "てーぶる",
+      "nghia_viet": "Bàn",
+      "han_tu": "",
+      "nghia_goc": "レコードが1次元的に並んだ構造",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "テーマ",
+      "cach_doc": "テーマ",
+      "nghia_viet": "Chủ đề",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "ディスプレイ",
+      "cach_doc": "ディスプレイ",
+      "nghia_viet": "Màn hình, trưng bày",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "デザイン",
+      "cach_doc": "でざいん",
+      "nghia_viet": "Thiết kế",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "デジタル",
+      "cach_doc": "デジタル",
+      "nghia_viet": "kỹ thuật số",
+      "han_tu": "",
+      "nghia_goc": "最小単位の何倍かのように飛び飛びの値であること",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "デモ",
+      "cach_doc": "デモ",
+      "nghia_viet": "biểu tình / bản demo",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "データ",
+      "cach_doc": "データ",
+      "nghia_viet": "dữ liệu",
+      "han_tu": "",
+      "nghia_goc": "事実や事柄等を文字などで表したもの",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "トラック",
+      "cach_doc": "トラック",
+      "nghia_viet": "xe tải; bản nhạc (track)",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "ドライブ",
+      "cach_doc": "ドライブ",
+      "nghia_viet": "lái xe; đi chơi bằng ô tô",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "ネットワーク",
+      "cach_doc": "ネットワーク",
+      "nghia_viet": "Mạng máy tính hoặc mạng lưới quan hệ",
+      "han_tu": "",
+      "nghia_goc": "網目状の構造をもつもの",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "ハード",
+      "cach_doc": "ハード",
+      "nghia_viet": "khó khăn; cứng; bền",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "バス",
+      "cach_doc": "ばす",
+      "nghia_viet": "Xe buýt",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "パス",
+      "cach_doc": "パス",
+      "nghia_viet": "pass;渡す;合格など",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "パソコン",
+      "cach_doc": "ぱそこん",
+      "nghia_viet": "Máy tính",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "パン",
+      "cach_doc": "ぱん",
+      "nghia_viet": "Bánh mì",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "ヒット",
+      "cach_doc": "ヒット",
+      "nghia_viet": "hit; thành công; sự ăn khách",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "ビデオ",
+      "cach_doc": "びでお",
+      "nghia_viet": "Video",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "ピンチ",
+      "cach_doc": "ピンチ",
+      "nghia_viet": "Khủng hoảng, lúc nguy cấp",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "ファイル",
+      "cach_doc": "ファイル",
+      "nghia_viet": "tập tin; bìa hồ sơ",
+      "han_tu": "",
+      "nghia_goc": "コンピュータ上で情報を保管する論理的な場所",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "フィードバック",
+      "cach_doc": "フィードバック",
+      "nghia_viet": "phản hồi",
+      "han_tu": "",
+      "nghia_goc": "(1) 相手の行動に対して改善点や評価を伝えること (2) 出力の一部を入力に戻すこと",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "フォーム",
+      "cach_doc": "フォーム",
+      "nghia_viet": "Dạng, mẫu",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "プライバシー",
+      "cach_doc": "プライバシー",
+      "nghia_viet": "riêng tư, quyền riêng tư",
+      "han_tu": "",
+      "nghia_goc": "個人の私事・秘密。 また、それが他人から干渉・侵害を受けない権利",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "プラン",
+      "cach_doc": "プラン",
+      "nghia_viet": "kế hoạch",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "プログラム",
+      "cach_doc": "プログラム",
+      "nghia_viet": "chương trình; chương trình máy tính",
+      "han_tu": "",
+      "nghia_goc": "コンピュータの動作内容を定める、指示書のようなもの",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "プロジェクト",
+      "cach_doc": "プロジェクト",
+      "nghia_viet": "dự án",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "ボランティア",
+      "cach_doc": "ぼらんてぃあ",
+      "nghia_viet": "Tình nguyện viên",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "ポイント",
+      "cach_doc": "ポイント",
+      "nghia_viet": "điểm/ưu điểm",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "ポスター",
+      "cach_doc": "ポスター",
+      "nghia_viet": "áp phích, poster",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "マイク",
+      "cach_doc": "マイク",
+      "nghia_viet": "micro, microphone",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "マスコミ",
+      "cach_doc": "マスコミ",
+      "nghia_viet": "truyền thông",
+      "han_tu": "",
+      "nghia_goc": "マスメディアを通じて多くの人に情報を伝達すること",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "マナー",
+      "cach_doc": "マナー",
+      "nghia_viet": "đức hạnh, lễ phép",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "ミリ",
+      "cach_doc": "ミリ",
+      "nghia_viet": "mili- / milimét (đơn vị)",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "メッセージ",
+      "cach_doc": "メッセージ",
+      "nghia_viet": "tin nhắn, thông điệp",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "メディア",
+      "cach_doc": "メディア",
+      "nghia_viet": "phương tiện truyền thông; phương tiện lưu trữ",
+      "han_tu": "",
+      "nghia_goc": "情報を伝えたり保管・記録するもの",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "モデル",
+      "cach_doc": "モデル",
+      "nghia_viet": "mẫu; người mẫu; mô hình",
+      "han_tu": "",
+      "nghia_goc": "対象となるものや事柄のうち、関心のある部分だけを取り出したもの",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "ラジオ",
+      "cach_doc": "らじお",
+      "nghia_viet": "Radio",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "ラベル",
+      "cach_doc": "ラベル",
+      "nghia_viet": "nhãn",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "リスト",
+      "cach_doc": "リスト",
+      "nghia_viet": "danh sách",
+      "han_tu": "",
+      "nghia_goc": "値が連続して並んでいる構造",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "ルール",
+      "cach_doc": "ルール",
+      "nghia_viet": "quy tắc, luật",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "レジュメ",
+      "cach_doc": "レジュメ",
+      "nghia_viet": "bản tóm tắt, sơ yếu lý lịch",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "レポート",
+      "cach_doc": "れぽーと",
+      "nghia_viet": "Báo cáo",
+      "han_tu": "",
+      "nghia_goc": "ある事柄についてまとめた文書",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "ロボット",
+      "cach_doc": "ろぼっと",
+      "nghia_viet": "rô-bốt",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "ローマ字",
+      "cach_doc": "ローマじ",
+      "nghia_viet": "Chữ La Mã",
+      "han_tu": "TỰ",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "ワープロ",
+      "cach_doc": "わーぷろ",
+      "nghia_viet": "Máy đánh chữ",
+      "han_tu": "",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "一旦",
+      "cach_doc": "いったん",
+      "nghia_viet": "tạm thời; một khi",
+      "han_tu": "NHẤT ĐÁN",
+      "nghia_goc": "adv. temporarily, for a moment",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "不足",
+      "cach_doc": "ふそくぶそく",
+      "nghia_viet": "thiếu, không đủ",
+      "han_tu": "BẤT TÚC",
+      "nghia_goc": "n. shortage, lack of",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "予測",
+      "cach_doc": "よそく",
+      "nghia_viet": "sự dự báo (dựa trên dữ liệu)",
+      "han_tu": "DƯ TRẮC",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "任せる",
+      "cach_doc": "まか",
+      "nghia_viet": "giao phó, phó thác",
+      "han_tu": "NHÂM",
+      "nghia_goc": "v. delegate, leave something with someone",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "余裕",
+      "cach_doc": "よゆう",
+      "nghia_viet": "dư; thảnh thơi; dư địa",
+      "han_tu": "DƯ DỤ",
+      "nghia_goc": "n. time / money / space (to spare), have room in someone's mind",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "作業",
+      "cach_doc": "さぎょう",
+      "nghia_viet": "công việc, thao tác, công đoạn",
+      "han_tu": "TÁC NGHIỆP",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "依存",
+      "cach_doc": "いそん",
+      "nghia_viet": "phụ thuộc, lệ thuộc",
+      "han_tu": "Y TỒN",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "価値",
+      "cach_doc": "かち",
+      "nghia_viet": "giá trị; giá trị sử dụng/ý nghĩa",
+      "han_tu": "GIÁ TRỊ",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "保存",
+      "cach_doc": "ほぞん",
+      "nghia_viet": "bảo quản; lưu trữ",
+      "han_tu": "BẢO TỒN",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "信号",
+      "cach_doc": "しんごう",
+      "nghia_viet": "Đèn tín hiệu",
+      "han_tu": "TÍN HÀO",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "偽",
+      "cach_doc": "にせ,ぎ,ニセ",
+      "nghia_viet": "Giả mạo, giả",
+      "han_tu": "NGỤY",
+      "nghia_goc": "成り立たないことを表す論理値",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "先に",
+      "cach_doc": "さき",
+      "nghia_viet": "trước (về thời gian/ thứ tự)",
+      "han_tu": "TIÊN",
+      "nghia_goc": "adv. ahead",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "具体的",
+      "cach_doc": "ぐたいてき",
+      "nghia_viet": "mang tính cụ thể",
+      "han_tu": "CỤ THỂ ĐÍCH",
+      "nghia_goc": "ナadj. concrete",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "処理",
+      "cach_doc": "しょり",
+      "nghia_viet": "xử lý (công việc, dữ liệu)",
+      "han_tu": "XỨ LÍ",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj",
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "分布",
+      "cach_doc": "ぶんぷ",
+      "nghia_viet": "phân bố, sự phân bố",
+      "han_tu": "PHÂN BỐ",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "分散",
+      "cach_doc": "ぶんさん",
+      "nghia_viet": "phân tán",
+      "han_tu": "PHÂN TÁN",
+      "nghia_goc": "「それぞれの値から平均を引いた値の2乗」の平均値",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "分析",
+      "cach_doc": "ぶんせき",
+      "nghia_viet": "phân tích",
+      "han_tu": "PHÂN TÍCH",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "列",
+      "cach_doc": "れつ",
+      "nghia_viet": "hàng, dãy",
+      "han_tu": "LIỆT",
+      "nghia_goc": "縦方向のセルの集まり",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "判断",
+      "cach_doc": "はんだん",
+      "nghia_viet": "phán đoán, quyết định",
+      "han_tu": "PHÁN ĐOẠN",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "単位",
+      "cach_doc": "たんい",
+      "nghia_viet": "đơn vị; tín chỉ",
+      "han_tu": "ĐƠN VỊ",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "原因",
+      "cach_doc": "げんいん",
+      "nghia_viet": "nguyên nhân",
+      "han_tu": "NGUYÊN NHÂN",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj",
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "収集",
+      "cach_doc": "しゅうしゅう",
+      "nghia_viet": "thu thập, gom lại",
+      "han_tu": "THU TẬP",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "同時に",
+      "cach_doc": "どうじ",
+      "nghia_viet": "cùng lúc",
+      "han_tu": "ĐỒNG THÌ",
+      "nghia_goc": "adv. at the same time, simultaneously",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "名刺",
+      "cach_doc": "めいし",
+      "nghia_viet": "Danh thiếp",
+      "han_tu": "DANH THỨ",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "問題",
+      "cach_doc": "もんだい",
+      "nghia_viet": "Vấn đề",
+      "han_tu": "VẤN ĐỀ",
+      "nghia_goc": "(1) 解答を求める問い (2) 解決すべき事柄・課題",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "図書館",
+      "cach_doc": "としょかん",
+      "nghia_viet": "Thư viện",
+      "han_tu": "ĐỒ THƯ QUÁN",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "圧力",
+      "cach_doc": "あつりょく",
+      "nghia_viet": "áp lực, sức ép",
+      "han_tu": "ÁP LỰC",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "妨害",
+      "cach_doc": "ぼうがい",
+      "nghia_viet": "Phương hại, cản trở",
+      "han_tu": "PHƯƠNG HẠI",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "宅配便",
+      "cach_doc": "たくはいびん",
+      "nghia_viet": "dịch vụ giao hàng tận nhà (được biết đến qua hãng)",
+      "han_tu": "TRẠCH PHỐI TIỆN",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "展開",
+      "cach_doc": "てんかい",
+      "nghia_viet": "phát triển, mở rộng",
+      "han_tu": "TRIỂN KHAI",
+      "nghia_goc": "圧縮したデータを元のように戻すこと",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "工場",
+      "cach_doc": "こうじょう",
+      "nghia_viet": "nhà máy",
+      "han_tu": "CÔNG TRƯỜNG",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "差",
+      "cach_doc": "さ",
+      "nghia_viet": "sự khác biệt; khoảng cách; sai lệch",
+      "han_tu": "SOA",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "平均",
+      "cach_doc": "へいきん,へいぎん",
+      "nghia_viet": "trung bình",
+      "han_tu": "BÌNH QUÂN",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "式",
+      "cach_doc": "しき",
+      "nghia_viet": "lễ; biểu thức",
+      "han_tu": "THỨC",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "影響",
+      "cach_doc": "えいきょう",
+      "nghia_viet": "ảnh hưởng; tác động",
+      "han_tu": "ẢNH HƯỞNG",
+      "nghia_goc": "n. effect",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "情報",
+      "cach_doc": "じょうほう",
+      "nghia_viet": "thông tin, tin tức",
+      "han_tu": "TÌNH BÁO",
+      "nghia_goc": "意味を持ったデータ",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "意見",
+      "cach_doc": "いけん",
+      "nghia_viet": "Ý kiến",
+      "han_tu": "Ý KIẾN",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "感情",
+      "cach_doc": "かんじょう",
+      "nghia_viet": "cảm xúc",
+      "han_tu": "CẢM TÌNH",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "感染",
+      "cach_doc": "かんせん",
+      "nghia_viet": "lây nhiễm",
+      "han_tu": "CẢM NHIỄM",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "手紙",
+      "cach_doc": "てがみ",
+      "nghia_viet": "Thư",
+      "han_tu": "THỦ CHỈ",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "手続き",
+      "cach_doc": "てつづき",
+      "nghia_viet": "thủ tục",
+      "han_tu": "THỦ TỤC",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "拡散",
+      "cach_doc": "かくさん",
+      "nghia_viet": "khuếch tán; lan rộng",
+      "han_tu": "KHUẾCH TÁN",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "新聞",
+      "cach_doc": "しんぶん",
+      "nghia_viet": "Báo",
+      "han_tu": "TÂN VĂN",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "方針",
+      "cach_doc": "ほうしん",
+      "nghia_viet": "chính sách; hướng đi",
+      "han_tu": "PHƯƠNG CHÂM",
+      "nghia_goc": "n. policy",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "映像",
+      "cach_doc": "えいぞう",
+      "nghia_viet": "hình ảnh/dữ liệu hình ảnh",
+      "han_tu": "ÁNH TƯỢNG",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "映画",
+      "cach_doc": "えいが",
+      "nghia_viet": "Phim, điện ảnh",
+      "han_tu": "ÁNH HỌA",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "時期",
+      "cach_doc": "じき",
+      "nghia_viet": "thời kỳ, thời điểm",
+      "han_tu": "THÌ KÌ",
+      "nghia_goc": "n. period, season",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "時計",
+      "cach_doc": "とけい",
+      "nghia_viet": "Đồng hồ",
+      "han_tu": "THÌ KẾ",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "暗証番号",
+      "cach_doc": "あんしょうばんごう",
+      "nghia_viet": "Mã số bí mật",
+      "han_tu": "ÁM CHỨNG PHIÊN HÀO",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "暴露",
+      "cach_doc": "ばくろ",
+      "nghia_viet": "vạch trần, phơi bày",
+      "han_tu": "BẠO LỘ",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "条件",
+      "cach_doc": "じょうけん",
+      "nghia_viet": "điều kiện, yêu cầu",
+      "han_tu": "ĐIỀU KIỆN",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "検索",
+      "cach_doc": "けんさく",
+      "nghia_viet": "tìm kiếm",
+      "han_tu": "KIỂM TÁC",
+      "nghia_goc": "蓄えられているものから必要な情報をさがし出すこと",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "検討",
+      "cach_doc": "けんとう",
+      "nghia_viet": "xem xét, cân nhắc",
+      "han_tu": "KIỂM THẢO",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "構成",
+      "cach_doc": "こうせい",
+      "nghia_viet": "cấu thành; cấu trúc",
+      "han_tu": "CẤU THÀNH",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "標準",
+      "cach_doc": "ひょうじゅん",
+      "nghia_viet": "tiêu chuẩn; chuẩn mực",
+      "han_tu": "TIÊU CHUẨN",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "正常",
+      "cach_doc": "せいじょう",
+      "nghia_viet": "bình thường, thường trạng",
+      "han_tu": "CHÁNH THƯỜNG",
+      "nghia_goc": "n. / na-adj. normally, normal",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "残る",
+      "cach_doc": "のこ",
+      "nghia_viet": "còn lại, lưu lại",
+      "han_tu": "TÀN",
+      "nghia_goc": "v. remain",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "決断",
+      "cach_doc": "けつだん",
+      "nghia_viet": "quyết đoán, quyết định",
+      "han_tu": "QUYẾT ĐOẠN",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "波",
+      "cach_doc": "なみ",
+      "nghia_viet": "sóng; làn sóng, dao động",
+      "han_tu": "BA",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "状態",
+      "cach_doc": "じょうたい",
+      "nghia_viet": "tình trạng, trạng thái",
+      "han_tu": "TRẠNG THÁI",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj",
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "状況",
+      "cach_doc": "じょうきょう",
+      "nghia_viet": "tình huống, hoàn cảnh",
+      "han_tu": "TRẠNG HUỐNG",
+      "nghia_goc": "n. situation",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "環境",
+      "cach_doc": "かんきょう",
+      "nghia_viet": "môi trường; hoàn cảnh xung quanh",
+      "han_tu": "HOÀN CẢNH",
+      "nghia_goc": "n. environment",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "発信",
+      "cach_doc": "はっしん",
+      "nghia_viet": "phát tín hiệu, gửi đi",
+      "han_tu": "PHÁT TÍN",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "発明",
+      "cach_doc": "はつめい",
+      "nghia_viet": "phát minh",
+      "han_tu": "PHÁT MINH",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "発表",
+      "cach_doc": "はっぴょう",
+      "nghia_viet": "công bố, trình bày",
+      "han_tu": "PHÁT BIỂU",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "目的",
+      "cach_doc": "もくてき",
+      "nghia_viet": "mục đích",
+      "han_tu": "MỤC ĐÍCH",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "直接",
+      "cach_doc": "ちょくせつ",
+      "nghia_viet": "trực tiếp",
+      "han_tu": "TRỰC TIẾP",
+      "nghia_goc": "adv. directly",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "知識",
+      "cach_doc": "ちしき",
+      "nghia_viet": "kiến thức",
+      "han_tu": "TRI THỨC",
+      "nghia_goc": "ある事柄について、いろいろと知ることや、その知りえた内容",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "破壊",
+      "cach_doc": "はかい",
+      "nghia_viet": "phá hủy, tiêu hủy",
+      "han_tu": "PHÁ HOẠI",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "移動",
+      "cach_doc": "いどう",
+      "nghia_viet": "di chuyển",
+      "han_tu": "DI ĐỘNG",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "算盤",
+      "cach_doc": "そろばん",
+      "nghia_viet": "bàn tính (soroban)",
+      "han_tu": "TOÁN BÀN",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "範囲",
+      "cach_doc": "はんい",
+      "nghia_viet": "phạm vi",
+      "han_tu": "PHẠM TRANSLATION",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "結局",
+      "cach_doc": "けっきょく",
+      "nghia_viet": "rốt cuộc, cuối cùng",
+      "han_tu": "KẾT CỤC",
+      "nghia_goc": "adv. after all, in the end",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "結果",
+      "cach_doc": "けっか",
+      "nghia_viet": "kết quả",
+      "han_tu": "KẾT QUẢ",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "緑",
+      "cach_doc": "みどり",
+      "nghia_viet": "Màu xanh lá cây",
+      "han_tu": "LỤC",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "翻訳",
+      "cach_doc": "ほんやく",
+      "nghia_viet": "dịch (ngôn ngữ)",
+      "han_tu": "PHIÊN DỊCH",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "色",
+      "cach_doc": "いろ",
+      "nghia_viet": "Màu sắc",
+      "han_tu": "SẮC",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "表",
+      "cach_doc": "おもて",
+      "nghia_viet": "mặt; bảng; bề ngoài",
+      "han_tu": "BIỂU",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "被る",
+      "cach_doc": "かぶ",
+      "nghia_viet": "đội, chịu, gánh (nhiều nghĩa)",
+      "han_tu": "BỊ",
+      "nghia_goc": "v. have a schedule conflict (*casual)",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "補足",
+      "cach_doc": "ほそく",
+      "nghia_viet": "bổ sung (thông tin); khai thêm",
+      "han_tu": "BỔ TÚC",
+      "nghia_goc": "n. supplementary, additional",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "視点",
+      "cach_doc": "してん",
+      "nghia_viet": "góc nhìn; quan điểm",
+      "han_tu": "THỊ ĐIỂM",
+      "nghia_goc": "n. point of view",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "観点",
+      "cach_doc": "かんてん",
+      "nghia_viet": "góc nhìn, quan điểm",
+      "han_tu": "QUAN ĐIỂM",
+      "nghia_goc": "n. point of view",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "言葉",
+      "cach_doc": "ことば",
+      "nghia_viet": "Từ, tiếng",
+      "han_tu": "NGÔN DIỆP",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "計画",
+      "cach_doc": "けいかく",
+      "nghia_viet": "kế hoạch",
+      "han_tu": "KẾ HỌA",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "記事",
+      "cach_doc": "きじ",
+      "nghia_viet": "bài báo, mục tin",
+      "han_tu": "KÍ SỰ",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "記憶",
+      "cach_doc": "きおく",
+      "nghia_viet": "kí ức, trí nhớ",
+      "han_tu": "KÍ ỨC",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj",
+        "code4fukui",
+        "ichigojam"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "設計",
+      "cach_doc": "せっけい",
+      "nghia_viet": "thiết kế",
+      "han_tu": "THIẾT KẾ",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "評価",
+      "cach_doc": "ひょうか",
+      "nghia_viet": "đánh giá",
+      "han_tu": "BÌNH GIÁ",
+      "nghia_goc": "(1)どれだけの価値等があるかを見定めること (2)プログラミング言語で実行して値や結果を求めること",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "詳細",
+      "cach_doc": "しょうさい",
+      "nghia_viet": "chi tiết",
+      "han_tu": "TƯỜNG TẾ",
+      "nghia_goc": "n. details",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "認識",
+      "cach_doc": "にんしき",
+      "nghia_viet": "nhận thức, hiểu biết",
+      "han_tu": "NHẬN THỨC",
+      "nghia_goc": "n. recognition, understanding",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "課題",
+      "cach_doc": "かだい",
+      "nghia_viet": "bài tập, nhiệm vụ, vấn đề cần giải quyết",
+      "han_tu": "KHÓA ĐỀ",
+      "nghia_goc": "n. issue",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "調査",
+      "cach_doc": "ちょうさ",
+      "nghia_viet": "điều tra, khảo sát",
+      "han_tu": "ĐIỀU TRA",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "論文",
+      "cach_doc": "ろんぶん",
+      "nghia_viet": "bài luận, bài báo khoa học",
+      "han_tu": "LUẬN VĂN",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "資源",
+      "cach_doc": "しげん",
+      "nghia_viet": "tài nguyên, nguồn lực",
+      "han_tu": "TƯ NGUYÊN",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "赤",
+      "cach_doc": "あか",
+      "nghia_viet": "màu đỏ; (nghĩa bóng) sắc thái liên quan đến cảm xúc/ nguy cơ",
+      "han_tu": "XÍCH",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "辞書",
+      "cach_doc": "じしょ",
+      "nghia_viet": "Từ điển",
+      "han_tu": "TỪ THƯ",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "迷信",
+      "cach_doc": "めいしん",
+      "nghia_viet": "mê tín, tín ngưỡng không có cơ sở",
+      "han_tu": "MÊ TÍN",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N1"
+    },
+    {
+      "thuat_ngu": "通信販売",
+      "cach_doc": "つうしんはんばい",
+      "nghia_viet": "Bán hàng qua thư từ, bán qua mạng",
+      "han_tu": "THÔNG TÍN PHIẾN MẠI",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "進める",
+      "cach_doc": "すす",
+      "nghia_viet": "đẩy mạnh, xúc tiến, tiến hành",
+      "han_tu": "TIẾN",
+      "nghia_goc": "v. [*transitive verb 他動詞] 1. move forward, proceed with (something) 2. work on",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "選択",
+      "cach_doc": "せんたく",
+      "nghia_viet": "lựa chọn",
+      "han_tu": "TUYỂN TRẠCH",
+      "nghia_goc": "(1) 複数の動作から1つを選び実行すること",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "重要",
+      "cach_doc": "じゅうよう",
+      "nghia_viet": "quan trọng",
+      "han_tu": "TRỌNG YẾU",
+      "nghia_goc": "n./ na-adj. important",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "量",
+      "cach_doc": "りょう",
+      "nghia_viet": "số lượng, khối lượng",
+      "han_tu": "LƯỢNG",
+      "nghia_goc": "n. amount",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "鍵",
+      "cach_doc": "かぎ",
+      "nghia_viet": "Chìa khóa",
+      "han_tu": "KIỆN",
+      "nghia_goc": "暗号化で使用するデータ",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "間に合う",
+      "cach_doc": "まあ",
+      "nghia_viet": "kịp (thời gian) / đủ (để dùng)",
+      "han_tu": "GIAN HỢP",
+      "nghia_goc": "be in time, make a deadline",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N3"
+    },
+    {
+      "thuat_ngu": "関係",
+      "cach_doc": "かんけい",
+      "nghia_viet": "quan hệ, liên quan",
+      "han_tu": "QUAN HỆ",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "障害",
+      "cach_doc": "しょうがい",
+      "nghia_viet": "trở ngại; khuyết tật",
+      "han_tu": "CHƯỚNG HẠI",
+      "nghia_goc": "n. fault, system error",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "集合",
+      "cach_doc": "しゅうごう",
+      "nghia_viet": "tập hợp, tụ họp",
+      "han_tu": "TẬP HỢP",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    },
+    {
+      "thuat_ngu": "電子メール",
+      "cach_doc": "でんしめーる",
+      "nghia_viet": "thư điện tử",
+      "han_tu": "ĐIỆN TỬ",
+      "nghia_goc": "ネット上で手紙のようにメッセージをやりとりするシステム",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "電源",
+      "cach_doc": "でんげん",
+      "nghia_viet": "nguồn điện, nguồn cấp điện",
+      "han_tu": "ĐIỆN NGUYÊN",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "電話",
+      "cach_doc": "でんわ",
+      "nghia_viet": "Điện thoại",
+      "han_tu": "ĐIỆN THOẠI",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "青",
+      "cach_doc": "あお",
+      "nghia_viet": "màu xanh; tươi trẻ; non nớt",
+      "han_tu": "THANH",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N4"
+    },
+    {
+      "thuat_ngu": "音",
+      "cach_doc": "おと",
+      "nghia_viet": "Âm thanh",
+      "han_tu": "ÂM",
+      "nghia_goc": "",
+      "nghia_lang": "ja",
+      "nguon": [
+        "ipsj"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N5"
+    },
+    {
+      "thuat_ngu": "順調",
+      "cach_doc": "じゅんちょう",
+      "nghia_viet": "suôn sẻ, thuận lợi",
+      "han_tu": "THUẬN ĐIỀU",
+      "nghia_goc": "n/ナadj. smooth",
+      "nghia_lang": "en",
+      "nguon": [
+        "mercari"
+      ],
+      "khop_kieu": "exact",
+      "level_db": "N2"
+    }
+  ]
+}

@@ -93,8 +93,8 @@
 |---------|-----|
 | **松本** | 「<ruby>実<rt>じつ</rt></ruby>は先月、初めてベトナムに<ruby>観光<rt>かんこう</rt></ruby>で行きまして、ハロン<ruby>湾<rt>わん</rt></ruby>が…」 |
 |  | *Thật ra tháng trước anh lần đầu đi du lịch Việt Nam, vịnh Hạ Long...* |
-| **ズン** | 「**ハロン湾ですか!<ruby>世界遺産<rt>せかいいさん</rt></ruby>で、3000<ruby>以上<rt>いじょう</rt></ruby>の島があって、<ruby>伝説<rt>でんせつ</rt></ruby>では<ruby>龍<rt>りゅう</rt></ruby>が…**」(2 phút độc thoại) |
-|  | *Vịnh Hạ Long ạ! Di sản thế giới, có hơn 3000 đảo, truyền thuyết là nơi rồng giáng...* |
+| **ズン** | 「**ハロン湾ですか!<ruby>世界遺産<rt>せかいいさん</rt></ruby>で、2000<ruby>近<rt>ちか</rt></ruby>くの島があって、<ruby>伝説<rt>でんせつ</rt></ruby>では<ruby>龍<rt>りゅう</rt></ruby>が…**」(2 phút độc thoại) |
+|  | *Vịnh Hạ Long ạ! Di sản thế giới, có gần 2000 hòn đảo, truyền thuyết là nơi rồng giáng...* |
 | **松本** | 「…そうなんですね。へえ。」 |
 |  | *...vậy à. Ờ.* |
 
@@ -112,8 +112,8 @@
 |  | *Vịnh Hạ Long ạ, anh thấy thế nào ạ?* |
 | **松本** | 「すごかったですよ、<ruby>霧<rt>きり</rt></ruby>の中の<ruby>島々<rt>しまじま</rt></ruby>が<ruby>水墨画<rt>すいぼくが</rt></ruby>みたいで…」 |
 |  | *Tuyệt vời lắm, những hòn đảo trong sương như tranh thủy mặc...* |
-| **ズン** | 「水墨画の<ruby>表現<rt>ひょうげん</rt></ruby>、まさに!**実は地元では『海の<ruby>桂林<rt>けいりん</rt></ruby>』とも呼ばれているんですよ。**」 |
-|  | *Ví như tranh thủy mặc, đúng quá! Thật ra dân địa phương còn gọi là 'Quế Lâm trên biển' đấy ạ.* |
+| **ズン** | 「水墨画の<ruby>表現<rt>ひょうげん</rt></ruby>、まさに!**実は『海の<ruby>桂林<rt>けいりん</rt></ruby>』と<ruby>例<rt>たと</rt></ruby>えられることもあるそうです。**」 |
+|  | *Ví như tranh thủy mặc, đúng quá! Nghe nói có người còn ví là 'Quế Lâm trên biển' đấy ạ.* |
 
 → Để khách kể TRƯỚC, mình chèn kiến thức SAU = đẳng cấp.
 

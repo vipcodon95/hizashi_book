@@ -41,7 +41,7 @@ Sách gồm **60 rules**, chia thành **5 phần**:
 **Mỗi rule có:**
 
 - Bài học song ngữ với hội thoại minh họa, câu chốt, từ vựng.
-- Bài luyện BJT — câu hỏi trắc nghiệm theo kỹ năng (từ vựng, đọc hiểu biểu đạt, nắm bắt tình huống, nghe hiểu, ứng đáp).
+- Một câu luyện BJT tương ứng ở **Phụ lục C** — trắc nghiệm theo kỹ năng (từ vựng, đọc hiểu biểu đạt, nắm bắt tình huống, nghe hiểu, ứng đáp). Bài luyện được gom về cuối sách để mạch đọc 60 rule không bị cắt vụn.
 
 **Phụ lục:**
 
@@ -83,7 +83,7 @@ Sách 02 dùng cùng tuyến nhân vật với sách 01 (Email), bổ sung thêm
 **Người mới:**
 
 1. Đọc lần lượt từ Phần I → V theo thứ tự.
-2. Mỗi rule, đọc bài học trước → nghe audio (nếu có) → làm BJT practice.
+2. Mỗi rule, đọc bài học trước → nghe audio (nếu có) → làm câu luyện BJT tương ứng ở Phụ lục C (tra theo số rule).
 3. Phụ lục B (từ vựng) là từ điển tra cứu nhanh.
 
 **Luyện thi BJT:**

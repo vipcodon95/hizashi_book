@@ -48,7 +48,7 @@ Em Dũng vào Slack workspace chung với khách Hakuō. 田中 PMO (anh Tanaka)
 | **ズン** | 「@トゥアン お<ruby>待<rt>ま</rt></ruby>ちしております。」 <br/>*@Tuấn em đợi anh ạ.* |
 | **田中PMO** | 「v3 <ruby>確認完了<rt>かくにんかんりょう</rt></ruby>。<ruby>承認<rt>しょうにん</rt></ruby>します。」 <br/>*Tôi xem xong v3. Tôi duyệt nhé.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「@here」** — chỉ gọi người đang trực tuyến. Không phá DnD/giờ riêng.
 - 【2】Tất cả tin hồi đáp trong luồng → kênh chính sạch.
 - Luồng giữ ngữ cảnh — sau này tìm "thảo luận đặc tả v3" 1 chỗ.

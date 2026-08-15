@@ -1,6 +1,6 @@
-# Rule 42 — Cách từ chối qua phone không gây xước / 電話で断る言い方
+# Rule 42 — Cách từ chối qua điện thoại không gây mất lòng / 電話で断る言い方
 
-> **Luận điểm.** Từ chối qua phone: **(1) cảm ơn lời mời/đề xuất**, **(2) lý do khái quát** (không nói chi tiết), **(3) đề xuất phương án thay thế nếu có**.
+> **Luận điểm.** Từ chối qua điện thoại: **(1) cảm ơn lời mời/đề xuất**, **(2) lý do khái quát** (không nói chi tiết), **(3) đề xuất phương án thay thế nếu có**.
 >
 > 電話で断る時：①感謝 ②婉曲な理由 ③代替案 の3点セット。
 >

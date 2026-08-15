@@ -42,7 +42,7 @@ Server production crash 7h sáng. Em Dũng triệu tập họp khẩn 7h30 với
 | **ズン** | 「**【Owner & ETA】**<ruby>復旧目処<rt>ふっきゅうめど</rt></ruby>は8<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ぷん</rt></ruby>、<ruby>最終報告<rt>さいしゅうほうこく</rt></ruby>は<ruby>本日<rt>ほんじつ</rt></ruby>10<ruby>時<rt>じ</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>が<ruby>責任者<rt>せきにんしゃ</rt></ruby>でございます【3】。」 <br/>*[Owner & ETA] Mục tiêu khôi phục 8h30, báo cáo cuối hôm nay 10h, em là người chịu trách nhiệm ạ.* |
 | **松本** | 「<ruby>明確<rt>めいかく</rt></ruby>で<ruby>助<rt>たす</rt></ruby>かります。10<ruby>時<rt>じ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>を<ruby>待<rt>ま</rt></ruby>ちます。」 <br/>*Rõ ràng, đỡ quá. Tôi chờ báo cáo 10h.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「緊急会議のため、簡潔に進めさせていただきます」** — báo trước "không nghi thức rườm rà" → cho phép cắt ngắn phần chào hỏi.
 - 【2】**Số cụ thể** (7時05分, 1,200名) — dựa trên sự thật, không nói 「たぶん」 (chắc là).
 - 【3】**「責任者」 rõ ràng** — văn hóa doanh nghiệp Nhật rất quý việc có 1 người chịu trách nhiệm duy nhất.
@@ -53,7 +53,7 @@ Server production crash 7h sáng. Em Dũng triệu tập họp khẩn 7h30 với
 
 > **「<ruby>緊急会議<rt>きんきゅうかいぎ</rt></ruby>のため、<ruby>簡潔<rt>かんけつ</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めさせていただきます。Fact→Impact→Action→Owner の<ruby>順<rt>じゅん</rt></ruby>でご<ruby>報告<rt>ほうこく</rt></ruby>いたします。」**
 >
-> *4F: Fact (sự thật), Felt impact (ảnh hưởng), plan of Action (kế hoạch xử lý), single Owner (một người chịu trách nhiệm). 30 phút.*
+> *4 bước: **Fact** (sự thật) → **Impact** (ảnh hưởng) → **Action** (kế hoạch xử lý) → **Owner** (một người chịu trách nhiệm). Tối đa 30 phút.*
 
 ---
 

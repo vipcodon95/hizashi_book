@@ -30,7 +30,7 @@ Tháng 6/2026, Dũng tham dự bữa nhậu cuối tuần với 4 khách Hakuō 
 |---------|-----|
 | **ズン** | 「吉田さん、ご<ruby>出身<rt>しゅっしん</rt></ruby>は<ruby>仙台<rt>せんだい</rt></ruby>でしたよね。<ruby>先月<rt>せんげつ</rt></ruby>、**仙台<ruby>牛<rt>ぎゅう</rt></ruby>タン**の話を松本さんから聞いて、とても<ruby>気<rt>き</rt></ruby>になっていまして…」 |
 |  | *Anh Yoshida quê Sendai nhỉ. Tháng trước em nghe anh Matsumoto kể về gyūtan Sendai, em quan tâm lắm...* |
-| **吉田 (placeholder)** | 「そうそう、仙台は牛タン!**<ruby>利久<rt>りきゅう</rt></ruby>**と**<ruby>喜助<rt>きすけ</rt></ruby>**、どっちがいいかで<ruby>地元民<rt>じもとみん</rt></ruby>が<ruby>論争<rt>ろんそう</rt></ruby>するくらいですよ。」 |
+| **吉田** | 「そうそう、仙台は牛タン!**<ruby>利久<rt>りきゅう</rt></ruby>**と**<ruby>喜助<rt>きすけ</rt></ruby>**、どっちがいいかで<ruby>地元民<rt>じもとみん</rt></ruby>が<ruby>論争<rt>ろんそう</rt></ruby>するくらいですよ。」 |
 |  | *Đúng rồi, Sendai = gyūtan! Riku vs Kisuke, người địa phương còn tranh luận nhau.* |
 | **ズン** | 「では<ruby>地元<rt>じもと</rt></ruby>の方は、どちら<ruby>派<rt>は</rt></ruby>ですか?」 |
 |  | *Vậy người địa phương anh thuộc phe nào ạ?* |
@@ -51,8 +51,8 @@ Tháng 6/2026, Dũng tham dự bữa nhậu cuối tuần với 4 khách Hakuō 
 |---------|-----|
 | **ズン** | 「<ruby>遠藤<rt>えんどう</rt></ruby>さんは<ruby>山形<rt>やまがた</rt></ruby>のご出身ですよね。山形といえば**さくらんぼ**と**<ruby>米沢牛<rt>よねざわぎゅう</rt></ruby>**、それと**<ruby>日本酒<rt>にほんしゅ</rt></ruby>**…」 |
 |  | *Anh Endō quê Yamagata nhỉ. Yamagata thì cherry, bò Yonezawa, và nihonshu...* |
-| **遠藤 (placeholder)** | 「お、よく言ってくれた!山形は**<ruby>東北屈指<rt>とうほくくっし</rt></ruby>の<ruby>酒<rt>さけ</rt></ruby>どころ**ですよ。**<ruby>出羽桜<rt>でわざくら</rt></ruby>**、**<ruby>十四代<rt>じゅうよんだい</rt></ruby>**、**<ruby>楯野川<rt>たてのかわ</rt></ruby>**…全部山形です。」 |
-|  | *Ồ, em nói chuẩn! Yamagata là vùng sake số 1 Tohoku. Dewazakura, Juyondai, Tatenokawa... đều Yamagata.* |
+| **遠藤** | 「お、よく言ってくれた!山形は**<ruby>東北屈指<rt>とうほくくっし</rt></ruby>の<ruby>酒<rt>さけ</rt></ruby>どころ**ですよ。**<ruby>出羽桜<rt>でわざくら</rt></ruby>**、**<ruby>十四代<rt>じゅうよんだい</rt></ruby>**、**<ruby>楯野川<rt>たてのかわ</rt></ruby>**…全部山形です。」 |
+|  | *Ồ, em nói chuẩn! Yamagata là vùng sake thuộc hàng đầu Tohoku. Dewazakura, Juyondai, Tatenokawa... đều Yamagata.* |
 | **ズン** | 「**十四代**!<ruby>幻<rt>まぼろし</rt></ruby>の酒って聞きました。」 |
 |  | *Juyondai! Em nghe là sake huyền thoại.* |
 | **遠藤** | 「そう、なかなか手に<ruby>入<rt>はい</rt></ruby>らない。今度<ruby>東京<rt>とうきょう</rt></ruby>で見つけたら一緒に飲みましょう。あと、**さくらんぼ**は**<ruby>佐藤錦<rt>さとうにしき</rt></ruby>**が<ruby>王様<rt>おうさま</rt></ruby>。6月が<ruby>旬<rt>しゅん</rt></ruby>ですよ。」 |

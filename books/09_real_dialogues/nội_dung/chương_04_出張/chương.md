@@ -128,7 +128,7 @@ Công ty JP lớn (>500 nhân viên) thường yêu cầu giấy tờ khi cấp 
 
 | Vai | Câu |
 |---------|-----|
-| **松本PM** | 「<ruby>皆<rt>みな</rt></ruby>さん、ティエンファットのズンさん、<ruby>先週<rt>せんしゅう</rt></ruby>ホーチミンを<ruby>発<rt>た</rt></ruby>って<ruby>今朝<rt>けさ</rt></ruby><ruby>着<rt>つ</rt></ruby>いたばかりです。1<ruby>週間<rt>しゅうかん</rt></ruby>の<ruby>出張<rt>しゅっちょう</rt></ruby>は<ruby>今回<rt>こんかい</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めてとのこと、よろしくお<ruby>願<rt>ねが</rt></ruby>いします。」<br/>*Mọi người, Dũng từ Tien Phat đã bay từ HCMC tuần trước, sáng nay vừa đến. Tuần đầu công vụ, mong mọi người giúp đỡ.* |
+| **松本PM** | 「<ruby>皆<rt>みな</rt></ruby>さん、ティエンファットのズンさん、<ruby>先週<rt>せんしゅう</rt></ruby>ホーチミンを<ruby>発<rt>た</rt></ruby>って<ruby>今朝<rt>けさ</rt></ruby><ruby>着<rt>つ</rt></ruby>いたばかりです。1<ruby>週間<rt>しゅうかん</rt></ruby>の<ruby>出張<rt>しゅっちょう</rt></ruby>は<ruby>今回<rt>こんかい</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めてとのこと、よろしくお<ruby>願<rt>ねが</rt></ruby>いします。」<br/>*Mọi người, Dũng từ Tien Phat đã bay từ HCMC tuần trước, sáng nay vừa đến. Tuần đầu công tác, mong mọi người giúp đỡ.* |
 | **白鷗一同** | 「よろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。」<br/>*Mong cùng giúp đỡ.* |
 | **松本PM** | 「じゃあ<ruby>最初<rt>さいしょ</rt></ruby>に、ズンさんから Phase 4 の<ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>りと Phase 5 の VN <ruby>側<rt>がわ</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>、5<ruby>分<rt>ふん</rt></ruby>くらいシェアしてもらえる?」<br/>*Vậy đầu tiên, Dũng chia sẻ 5 phút về tổng kết Phase 4 + chuẩn bị từ phía VN cho Phase 5 nhé?* |
 
@@ -172,7 +172,7 @@ Khách JP đôi khi yêu cầu trình bày mà không báo trước — kiểm t
 | **ズン** | 「(<ruby>顔<rt>かお</rt></ruby><ruby>赤<rt>あか</rt></ruby>く)あ、ありがとうございます…まだまだですけど。」<br/>*(mặt đỏ) À, cảm ơn anh… em còn nhiều cái phải học ạ.* |
 | **田中PMO** | 「(<ruby>笑<rt>わら</rt></ruby>って)『まだまだです』なんて、<ruby>日本人<rt>にほんじん</rt></ruby>っぽい<ruby>返事<rt>へんじ</rt></ruby>だね(笑)。<ruby>素直<rt>すなお</rt></ruby>に『ありがとう』でいいんだよ。」<br/>*(cười) 'Mada mada desu' nghe rất Nhật (cười). Cứ thẳng thắn 'cảm ơn' là được mà.* |
 | **ズン** | 「(<ruby>笑<rt>わら</rt></ruby>い<ruby>返<rt>かえ</rt></ruby>す)…そうですね、ありがとうございます。<ruby>佐々木<rt>ささき</rt></ruby>さんに<ruby>褒<rt>ほ</rt></ruby>めてもらえて<ruby>嬉<rt>うれ</rt></ruby>しいです。」<br/>*(cười lại)… đúng nhỉ, cảm ơn các anh. Được anh Sasaki khen em vui ạ.* |
-| **林 (営業)** | 「(架空) ベトナムから<ruby>一週間<rt>いっしゅうかん</rt></ruby><ruby>出張<rt>しゅっちょう</rt></ruby>、<ruby>長<rt>なが</rt></ruby>いね。<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>か<ruby>予定<rt>よてい</rt></ruby>?」<br/>*(nhân vật phụ) 1 tuần công vụ từ Việt Nam, dài nhỉ. Cuối tuần có dự định gì không?* |
+| **林 (営業)** | 「(架空) ベトナムから<ruby>一週間<rt>いっしゅうかん</rt></ruby><ruby>出張<rt>しゅっちょう</rt></ruby>、<ruby>長<rt>なが</rt></ruby>いね。<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>か<ruby>予定<rt>よてい</rt></ruby>?」<br/>*(nhân vật phụ) 1 tuần công tác từ Việt Nam, dài nhỉ. Cuối tuần có dự định gì không?* |
 | **ズン** | 「<ruby>土曜<rt>どよう</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>にショッピング、<ruby>夕方<rt>ゆうがた</rt></ruby>の<ruby>便<rt>びん</rt></ruby>で<ruby>帰<rt>かえ</rt></ruby>ります。<ruby>観光<rt>かんこう</rt></ruby>は<ruby>次回<rt>じかい</rt></ruby>ゆっくり。」<br/>*Sáng thứ 7 đi mua sắm, chuyến chiều bay về. Tham quan để dành lần sau.* |
 | **田中PMO** | 「<ruby>今度<rt>こんど</rt></ruby><ruby>来<rt>く</rt></ruby>るときは、ぜひ『<ruby>江戸東京博物館<rt>えどとうきょうはくぶつかん</rt></ruby>』<ruby>行<rt>い</rt></ruby>ってみて。<ruby>江戸<rt>えど</rt></ruby><ruby>時代<rt>じだい</rt></ruby>の Tokyo の<ruby>歴史<rt>れきし</rt></ruby>、<ruby>面白<rt>おもしろ</rt></ruby>いよ。」<br/>*Lần sau qua, thử Edo-Tokyo Museum. Lịch sử Tokyo thời Edo, thú vị lắm.* |
 | **ズン** | 「メモしました、<ruby>次回<rt>じかい</rt></ruby><ruby>必<rt>かなら</rt></ruby>ず。」<br/>*Em note rồi, lần sau chắc chắn.* |
@@ -192,12 +192,12 @@ Tanaka giới thiệu Edo-Tokyo Museum = gợi ý địa phương thực sự, g
 
 ## Tình huống 6 — Tue 14:00 · Văn phòng Tokyo tầng 8 — nhóm kỹ thuật
 
-*Đi thăm văn phòng. Matsumoto dẫn Dũng giới thiệu 5 kỹ sư cấp cao chưa từng gặp. Đến bàn anh Itoki (gốc Nagoya).*
+*Đi thăm văn phòng. Matsumoto dẫn Dũng giới thiệu 5 kỹ sư cấp cao chưa từng gặp. Đến bàn anh Itō (gốc Nagoya).*
 
 | Vai | Câu |
 |---------|-----|
-| **松本PM** | 「<ruby>伊藤<rt>いとう</rt></ruby>さん、こちらティエンファットのズンさん、Phase 5 の VN <ruby>側<rt>がわ</rt></ruby> BD <ruby>担当<rt>たんとう</rt></ruby>。」<br/>*Anh Itoki, đây Dũng của Tien Phat, BD phía VN cho Phase 5.* |
-| **伊藤さん** | 「<ruby>初<rt>はじ</rt></ruby>めまして、<ruby>伊藤<rt>いとう</rt></ruby>です。Phase 4のレビューモジュール、ベトナムチームが<ruby>作<rt>つく</rt></ruby>ったもの、コード<ruby>綺麗<rt>きれい</rt></ruby>だったよ。」<br/>*Rất hân hạnh, tôi Itoki. Module kiểm tra Phase 4 nhóm Việt Nam viết, mã nguồn đẹp đó.* |
+| **松本PM** | 「<ruby>伊藤<rt>いとう</rt></ruby>さん、こちらティエンファットのズンさん、Phase 5 の VN <ruby>側<rt>がわ</rt></ruby> BD <ruby>担当<rt>たんとう</rt></ruby>。」<br/>*Anh Itō, đây Dũng của Tien Phat, BD phía VN cho Phase 5.* |
+| **伊藤さん** | 「<ruby>初<rt>はじ</rt></ruby>めまして、<ruby>伊藤<rt>いとう</rt></ruby>です。Phase 4のレビューモジュール、ベトナムチームが<ruby>作<rt>つく</rt></ruby>ったもの、コード<ruby>綺麗<rt>きれい</rt></ruby>だったよ。」<br/>*Rất hân hạnh, tôi Itō. Module kiểm tra Phase 4 nhóm Việt Nam viết, mã nguồn đẹp đó.* |
 | **ズン** | 「(<ruby>嬉<rt>うれ</rt></ruby>しい)ありがとうございます、トゥアン<ruby>先輩<rt>せんぱい</rt></ruby>のチームに<ruby>伝<rt>つた</rt></ruby>えます。」<br/>*(vui) Cảm ơn anh, em sẽ truyền lại cho nhóm anh Tuấn.* |
 | **伊藤さん** | 「ところでズンさん、Phase 5 で AI ガバナンス<ruby>機能<rt>きのう</rt></ruby><ruby>入<rt>い</rt></ruby>れるって<ruby>聞<rt>き</rt></ruby>いたけど、Bedrock の Strands Agents <ruby>使<rt>つか</rt></ruby>う<ruby>想定<rt>そうてい</rt></ruby>?それとも<ruby>自前<rt>じまえ</rt></ruby>のオーケストレーション<ruby>層<rt>そう</rt></ruby>?」<br/>*Mà Dũng nè, Phase 5 nghe bảo thêm AI governance, dự định dùng Bedrock Strands Agents hay xây orchestration layer riêng?* |
 
@@ -205,21 +205,21 @@ Tanaka giới thiệu Edo-Tokyo Museum = gợi ý địa phương thực sự, g
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「<ruby>正直<rt>しょうじき</rt></ruby>に<ruby>言<rt>い</rt></ruby>うと、トゥアン<ruby>先輩<rt>せんぱい</rt></ruby>がまだアーキテクチャ<ruby>素案<rt>そあん</rt></ruby>中で、<ruby>私<rt>わたし</rt></ruby>からは<ruby>確答<rt>かくとう</rt></ruby>できません。<ruby>今日中<rt>きょうじゅう</rt></ruby>に Slack で<ruby>先輩<rt>せんぱい</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>して、<ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>までに<ruby>伊藤<rt>いとう</rt></ruby>さんにメールで<ruby>返<rt>かえ</rt></ruby>してもいいですか?」<br/>*Em nói thật, anh Tuấn vẫn đang soạn thảo kiến trúc, em không trả lời chắc được. Hôm nay em hỏi anh ấy qua Slack, sáng mai em gửi email trả lời anh Itoki được không ạ?* |
+| **ズン** | 「<ruby>正直<rt>しょうじき</rt></ruby>に<ruby>言<rt>い</rt></ruby>うと、トゥアン<ruby>先輩<rt>せんぱい</rt></ruby>がまだアーキテクチャ<ruby>素案<rt>そあん</rt></ruby>中で、<ruby>私<rt>わたし</rt></ruby>からは<ruby>確答<rt>かくとう</rt></ruby>できません。<ruby>今日中<rt>きょうじゅう</rt></ruby>に Slack で<ruby>先輩<rt>せんぱい</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>して、<ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>までに<ruby>伊藤<rt>いとう</rt></ruby>さんにメールで<ruby>返<rt>かえ</rt></ruby>してもいいですか?」<br/>*Em nói thật, anh Tuấn vẫn đang soạn thảo kiến trúc, em không trả lời chắc được. Hôm nay em hỏi anh ấy qua Slack, sáng mai em gửi email trả lời anh Itō được không ạ?* |
 | **伊藤さん** | 「(<ruby>笑<rt>わら</rt></ruby>って)<ruby>正直<rt>しょうじき</rt></ruby>でいいね。『<ruby>分<rt>わ</rt></ruby>からない』を『<ruby>分<rt>わ</rt></ruby>からない』と<ruby>言<rt>い</rt></ruby>える<ruby>人<rt>ひと</rt></ruby>は<ruby>信用<rt>しんよう</rt></ruby>できる。<ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby><ruby>待<rt>ま</rt></ruby>ってます。」<br/>*(cười) Thẳng thắn tốt. Người nói được 'không biết' là người tin được. Sáng mai tôi đợi.* |
 | **松本PM** | 「ナイス、ズンさん。<ruby>次<rt>つぎ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby><ruby>紹介<rt>しょうかい</rt></ruby>しよう。」<br/>*Nice Dũng. Giới thiệu người tiếp theo nhé.* |
 
-*[Dũng ghi chú: 'Itoki - Bedrock Strands vs custom orchestration - hỏi Tuấn tối nay'. Sau buổi thăm văn phòng, Dũng nhắn Tuấn qua Slack ngay.]*
+*[Dũng ghi chú: 'Itō - Bedrock Strands vs custom orchestration - hỏi Tuấn tối nay'. Sau buổi thăm văn phòng, Dũng nhắn Tuấn qua Slack ngay.]*
 
 
 ### Bí quyết — Câu hỏi kỹ thuật vượt phạm vi = thừa nhận thẳng thắn
 
-Nhân sự cấp cao kỹ thuật (Itoki) hỏi sâu hơn phạm vi BD của Dũng. Cách trả lời:
+Nhân sự cấp cao kỹ thuật (Itō) hỏi sâu hơn phạm vi BD của Dũng. Cách trả lời:
 - **Thành thật 'không chắc' + cam kết thời hạn** (sáng mai gửi email) = xây dựng tin tưởng.
 - **Nêu rõ quy trình** ('hỏi anh Tuấn tối nay') — người cấp cao thấy bạn có cách tìm ra câu trả lời đúng.
-- **Trả lời bừa** = thảm họa nếu Itoki kiểm tra lại sau.
+- **Trả lời bừa** = thảm họa nếu Itō kiểm tra lại sau.
 - **Né tránh** ('để nhóm em trả lời sau, nay em không phụ trách kỹ thuật') = thụ động, mất điểm.
-- Itoki khen 'người nói được không biết là tin được' = bài học truyền thống của nhân sự cấp cao Nagoya.
+- Itō khen 'người nói được không biết là tin được' = bài học truyền thống của nhân sự cấp cao Nagoya.
 
 
 ---
@@ -280,7 +280,7 @@ Khách JP gọi món lạ (uni, natto, ankimo) cho khách nước ngoài thử =
 
 | Vai | Câu |
 |---------|-----|
-| **ズン** | 「<ruby>正直<rt>しょうじき</rt></ruby>に<ruby>観察<rt>かんさつ</rt></ruby>ベースでお<ruby>話<rt>はな</rt></ruby>しさせていただきます。…<ruby>良<rt>よ</rt></ruby>いところは、エンジニアチームの<ruby>技術<rt>ぎじゅつ</rt></ruby> depth が<ruby>深<rt>ふか</rt></ruby>いこと、<ruby>特<rt>とく</rt></ruby>に<ruby>伊藤<rt>いとう</rt></ruby>さんの<ruby>質問<rt>しつもん</rt></ruby>の<ruby>鋭<rt>するど</rt></ruby>さは<ruby>印象的<rt>いんしょうてき</rt></ruby>でした。BD-tech の<ruby>協業<rt>きょうぎょう</rt></ruby>もスムーズに<ruby>見<rt>み</rt></ruby>えます。」<br/>*Em xin phép nói dựa trên quan sát ạ. … Điểm tốt là độ sâu kỹ thuật của nhóm kỹ sư, đặc biệt câu hỏi sắc của anh Itoki gây ấn tượng. Phối hợp BD-kỹ thuật cũng trông trơn tru.* |
+| **ズン** | 「<ruby>正直<rt>しょうじき</rt></ruby>に<ruby>観察<rt>かんさつ</rt></ruby>ベースでお<ruby>話<rt>はな</rt></ruby>しさせていただきます。…<ruby>良<rt>よ</rt></ruby>いところは、エンジニアチームの<ruby>技術<rt>ぎじゅつ</rt></ruby> depth が<ruby>深<rt>ふか</rt></ruby>いこと、<ruby>特<rt>とく</rt></ruby>に<ruby>伊藤<rt>いとう</rt></ruby>さんの<ruby>質問<rt>しつもん</rt></ruby>の<ruby>鋭<rt>するど</rt></ruby>さは<ruby>印象的<rt>いんしょうてき</rt></ruby>でした。BD-tech の<ruby>協業<rt>きょうぎょう</rt></ruby>もスムーズに<ruby>見<rt>み</rt></ruby>えます。」<br/>*Em xin phép nói dựa trên quan sát ạ. … Điểm tốt là độ sâu kỹ thuật của nhóm kỹ sư, đặc biệt câu hỏi sắc của anh Itō gây ấn tượng. Phối hợp BD-kỹ thuật cũng trông trơn tru.* |
 | **ズン** | 「<ruby>観察<rt>かんさつ</rt></ruby>として<ruby>気<rt>き</rt></ruby>になったのは、…ベトナムチームとの<ruby>非同期<rt>ひどうき</rt></ruby>コミュニケーション、Slack チャンネルが<ruby>分散<rt>ぶんさん</rt></ruby>していて、<ruby>誰<rt>だれ</rt></ruby>が<ruby>誰<rt>だれ</rt></ruby>に<ruby>何<rt>なに</rt></ruby>を<ruby>聞<rt>き</rt></ruby>けばいいか、<ruby>新人<rt>しんじん</rt></ruby>の<ruby>私<rt>わたし</rt></ruby>には<ruby>分<rt>わ</rt></ruby>かりにくいです。Phase 5 で5<ruby>名<rt>めい</rt></ruby><ruby>追加<rt>ついか</rt></ruby>するときに、ここが<ruby>摩擦<rt>まさつ</rt></ruby>になりそうな<ruby>気<rt>き</rt></ruby>がします。」<br/>*Điều em quan sát thấy đáng chú ý là… giao tiếp không đồng bộ với nhóm Việt Nam, các kênh Slack phân tán, người mới như em khó biết ai hỏi ai về cái gì. Phase 5 thêm 5 người mới, em cảm thấy đây có thể là điểm gây ma sát.* |
 | **中村CFO** | 「(うなずく)…なるほど。Slack のチャンネル<ruby>整理<rt>せいり</rt></ruby>は<ruby>前<rt>まえ</rt></ruby>から<ruby>課題<rt>かだい</rt></ruby>で、<ruby>誰<rt>だれ</rt></ruby>も<ruby>手<rt>て</rt></ruby>を<ruby>付<rt>つ</rt></ruby>けてなかった。<ruby>新<rt>あたら</rt></ruby>しい<ruby>目<rt>め</rt></ruby>で<ruby>見<rt>み</rt></ruby>てくれて<ruby>参考<rt>さんこう</rt></ruby>になる。」<br/>*(gật đầu)… ra vậy. Sắp xếp kênh Slack là vấn đề tồn đọng, chưa ai động vào. Mắt nhìn mới của cậu là tham khảo tốt.* |
 | **ズン** | 「<ruby>余計<rt>よけい</rt></ruby>なこと<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げていましたら、<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。」<br/>*Em nói có gì sai mong anh thông cảm ạ.* |
@@ -318,7 +318,7 @@ Câu CFO 'cậu cảm thấy thế nào về nhóm' = kiểm tra độ chín ch�
 
 *[Về phòng 802. Cởi giày. Ngồi giường, mở bento curry trên bàn nhỏ. Mở Asahi. Bật TV — kênh tin tức NHK. Mệt.]*
 
-*[Vừa ăn vừa scroll iPhone — Slack Tuấn đã reply câu Itoki. WhatsApp gia đình HCMC: mẹ hỏi 'con ăn cơm chưa'. Dũng nhắn 'dạ con đang ăn, con OK mẹ ạ'.]*
+*[Vừa ăn vừa scroll iPhone — Slack Tuấn đã reply câu Itō. WhatsApp gia đình HCMC: mẹ hỏi 'con ăn cơm chưa'. Dũng nhắn 'dạ con đang ăn, con OK mẹ ạ'.]*
 
 *[Curry không ngon bằng quán nhưng đủ. Bia mát. TV news về kinh tế Nhật — nửa hiểu nửa không. Cảm giác đầu tiên trong tuần 'mệt nhưng OK'. Nhớ HCMC — phở mẹ nấu, tiếng xe máy buổi tối.]*
 
@@ -355,7 +355,7 @@ Câu CFO 'cậu cảm thấy thế nào về nhóm' = kiểm tra độ chín ch�
 | **ズン** | 「ありがとうございます、<ruby>嬉<rt>うれ</rt></ruby>しいです。10<ruby>月前半<rt>がつぜんはん</rt></ruby>は<ruby>実<rt>じつ</rt></ruby>は HCMC で Phase 5 prep の<ruby>集中<rt>しゅうちゅう</rt></ruby><ruby>期間<rt>きかん</rt></ruby>で、フオン<ruby>副部長<rt>ふくぶちょう</rt></ruby>と<ruby>一度<rt>いちど</rt></ruby><ruby>相談<rt>そうだん</rt></ruby>させてください。<ruby>月曜日<rt>げつようび</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>までにはお<ruby>返事<rt>へんじ</rt></ruby>します。」<br/>*Cảm ơn anh, em vui ạ. Đầu tháng 10 thật ra ở HCMC là thời gian intensive prep Phase 5, để em bàn với chị Hương. Sáng thứ 2 em trả lời.* |
 | **大垣 営業部長** | 「<ruby>了解<rt>りょうかい</rt></ruby>、<ruby>無理<rt>むり</rt></ruby>しないで。<ruby>代<rt>か</rt></ruby>わりに10<ruby>月後半<rt>がつこうはん</rt></ruby>でも<ruby>全然<rt>ぜんぜん</rt></ruby>OKだから。」<br/>*Rõ, đừng cố. Hậu tháng 10 thay thế cũng OK toàn.* |
 | **松本PM** | 「ズンさん、<ruby>今週<rt>こんしゅう</rt></ruby>の<ruby>収穫<rt>しゅうかく</rt></ruby>を<ruby>簡単<rt>かんたん</rt></ruby>にシェアしてもらえる?」<br/>*Dũng chia sẻ ngắn thu hoạch tuần này được không?* |
-| **ズン** | 「3<ruby>点<rt>てん</rt></ruby>に<ruby>絞<rt>しぼ</rt></ruby>ります。(1) <ruby>伊藤<rt>いとう</rt></ruby>さんの<ruby>質問<rt>しつもん</rt></ruby>から、tech depth で<ruby>会話<rt>かいわ</rt></ruby>できる<ruby>準備<rt>じゅんび</rt></ruby>をすべきと<ruby>痛感<rt>つうかん</rt></ruby>。(2) <ruby>中村<rt>なかむら</rt></ruby>CFO との 1-on-1 で、<ruby>外部<rt>がいぶ</rt></ruby><ruby>視点<rt>してん</rt></ruby>の<ruby>価値<rt>かち</rt></ruby>を<ruby>実感<rt>じっかん</rt></ruby>。(3) <ruby>月曜<rt>げつよう</rt></ruby>のサプライズプレゼンで、<ruby>即答力<rt>そくとうりょく</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>と<ruby>気<rt>き</rt></ruby>づきました。」<br/>*Em chọn 3 điểm. (1) Từ câu hỏi anh Itoki, em thấy phải chuẩn bị conversational depth tech. (2) 1-on-1 với anh Nakamura giúp em cảm nhận giá trị 'góc nhìn từ ngoài'. (3) Bài present surprise thứ 2 dạy em phải luyện khả năng ứng biến.* |
+| **ズン** | 「3<ruby>点<rt>てん</rt></ruby>に<ruby>絞<rt>しぼ</rt></ruby>ります。(1) <ruby>伊藤<rt>いとう</rt></ruby>さんの<ruby>質問<rt>しつもん</rt></ruby>から、tech depth で<ruby>会話<rt>かいわ</rt></ruby>できる<ruby>準備<rt>じゅんび</rt></ruby>をすべきと<ruby>痛感<rt>つうかん</rt></ruby>。(2) <ruby>中村<rt>なかむら</rt></ruby>CFO との 1-on-1 で、<ruby>外部<rt>がいぶ</rt></ruby><ruby>視点<rt>してん</rt></ruby>の<ruby>価値<rt>かち</rt></ruby>を<ruby>実感<rt>じっかん</rt></ruby>。(3) <ruby>月曜<rt>げつよう</rt></ruby>のサプライズプレゼンで、<ruby>即答力<rt>そくとうりょく</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>と<ruby>気<rt>き</rt></ruby>づきました。」<br/>*Em chọn 3 điểm. (1) Từ câu hỏi anh Itō, em thấy phải chuẩn bị conversational depth tech. (2) 1-on-1 với anh Nakamura giúp em cảm nhận giá trị 'góc nhìn từ ngoài'. (3) Bài present surprise thứ 2 dạy em phải luyện khả năng ứng biến.* |
 | **田中PMO** | 「<ruby>整理<rt>せいり</rt></ruby>が<ruby>早<rt>はや</rt></ruby>い。<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>月曜<rt>げつよう</rt></ruby>にレポート<ruby>送<rt>おく</rt></ruby>ってもらえる?」<br/>*Tổng kết nhanh ghê. Tuần sau thứ 2 gửi report cho mình được không?* |
 | **ズン** | 「<ruby>了解<rt>りょうかい</rt></ruby>、<ruby>月曜<rt>げつよう</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>に<ruby>送<rt>おく</rt></ruby>ります。」<br/>*Rõ, sáng thứ 2 em gửi.* |
 
@@ -394,7 +394,7 @@ Cuối tuần công tác, phía chủ nhà muốn thấy:
 | Vai | Câu |
 |---------|-----|
 | **ズン** | 「(<ruby>感動<rt>かんどう</rt></ruby>)…<ruby>田中<rt>たなか</rt></ruby>さん、これ、<ruby>宝物<rt>たからもの</rt></ruby>にします。<ruby>息子<rt>むすこ</rt></ruby>さんに『ありがとう』<ruby>伝<rt>つた</rt></ruby>えてください。」<br/>*(xúc động)… anh Tanaka, em sẽ giữ đây như báu vật. Gửi cảm ơn con trai anh giúp em ạ.* |
-| **井上** | 「<ruby>田中<rt>たなか</rt></ruby>、その<ruby>話<rt>はなし</rt></ruby>、<ruby>出張<rt>しゅっちょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>教<rt>おし</rt></ruby>えてくれよ(笑)」<br/>*Tanaka, chuyện này phải nói trước khi công vụ chứ (cười)* |
+| **井上** | 「<ruby>田中<rt>たなか</rt></ruby>、その<ruby>話<rt>はなし</rt></ruby>、<ruby>出張<rt>しゅっちょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>教<rt>おし</rt></ruby>えてくれよ(笑)」<br/>*Tanaka, chuyện này phải nói trước khi công tác chứ (cười)* |
 | **松本PM** | 「(<ruby>到着<rt>とうちゃく</rt></ruby>)ズンさん、エレベーターまで<ruby>送<rt>おく</rt></ruby>るよ。<ruby>気<rt>き</rt></ruby>をつけて<ruby>帰国<rt>きこく</rt></ruby>してね。」<br/>*(đến) Dũng à, tôi tiễn ra thang máy. Về cẩn thận nhé.* |
 
 
@@ -423,14 +423,14 @@ Khách JP tặng omiyage chia tay cho đồng nghiệp ở nước nhà = thông
 
 *[Quầy bánh kẹo Hi-Chew — hộp 30 viên ¥1,200. Đủ chia cho cả nhóm HCMC 25 người (mỗi người 1 viên).]*
 
-*[Tính tiền. Tổng ¥38,500 + miễn thuế 8% (mua trên ¥5,000 được miễn thuế cho khách du lịch) → cuối cùng ¥35,500. Trong ngân sách ¥40,000.]*
+*[Tính tiền. Tổng ¥38,500 đã gồm thuế. Dũng định hỏi thủ tục miễn thuế thì khựng lại — mình sang bằng visa làm việc, đâu phải khách du lịch. Vẫn trong ngân sách ¥40,000.]*
 
 | Vai | Câu |
 |---------|-----|
-| **コンビニ店員** | 「<ruby>免税<rt>めんぜい</rt></ruby><ruby>手続<rt>てつづ</rt></ruby>きはこちらでどうぞ。パスポートとレシートをお<ruby>願<rt>ねが</rt></ruby>いします。」<br/>*Thủ tục tax-free bên này. Vui lòng cho passport và bill ạ.* |
-| **ズン** | 「(パスポート<ruby>出<rt>だ</rt></ruby>す)これお<ruby>願<rt>ねが</rt></ruby>いします。」<br/>*(rút passport) Cái này nhờ anh.* |
+| **<ruby>店員<rt>てんいん</rt></ruby>** | 「<ruby>免税<rt>めんぜい</rt></ruby><ruby>手続<rt>てつづ</rt></ruby>きもできますが、<ruby>在留<rt>ざいりゅう</rt></ruby>カードをお<ruby>持<rt>も</rt></ruby>ちの<ruby>方<rt>かた</rt></ruby>は<ruby>対象外<rt>たいしょうがい</rt></ruby>になります。」<br/>*Bên em có làm thủ tục miễn thuế, nhưng khách có thẻ cư trú thì không thuộc diện ạ.* |
+| **ズン** | 「あ、<ruby>就労<rt>しゅうろう</rt></ruby>ビザなので<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。そのままお<ruby>願<rt>ねが</rt></ruby>いします。」<br/>*À, em visa làm việc nên thôi ạ. Anh tính bình thường giúp em.* |
 
-*[5 phút sau, có phiếu miễn thuế dán vào passport. Tay xách 4 túi to. Vác về khách sạn — vai mỏi nhưng vui.]*
+*[5 phút sau, tay xách 4 túi to. Vác về khách sạn — vai mỏi nhưng vui. Dũng ghi vào sổ: "Nhớ — visa làm việc KHÔNG được miễn thuế. Suýt hỏi nhầm ở quầy."]*
 
 
 ### Bí quyết — Mua omiyage gia đình — danh sách + ngân sách
@@ -438,7 +438,8 @@ Khách JP tặng omiyage chia tay cho đồng nghiệp ở nước nhà = thông
 Ngày cuối công tác = mua omiyage cho gia đình + bạn HCMC. Mẹo:
 - **Chuẩn bị danh sách 10 món + ngân sách trước** từ ngày 2 ở Tokyo — không mua bốc đồng ngày cuối.
 - **Don Quijote / Loft / cửa hàng Tokyo Station** = mua một chỗ, đủ mức giá.
-- **Miễn thuế cho khách du lịch** > ¥5,000/cửa hàng/ngày → tiết kiệm 8%.
+- ⚠️ **Miễn thuế (免税) CHỈ dành cho khách ngắn hạn (非居住者, dưới 6 tháng).** Nếu bạn sang Nhật bằng **visa làm việc / có 在留カード** thì **KHÔNG thuộc diện** — đừng xếp hàng ở quầy tax-free rồi bị từ chối. Người đủ điều kiện: mua trên ¥5,000/cửa hàng/ngày, xuất trình hộ chiếu.
+- Thuế tiêu dùng Nhật: **10%** cho hàng thông thường, **8%** cho thực phẩm/đồ uống mang về. Đừng nhớ nhầm một mức cho tất cả.
 - **Cắt bớt khi vượt ngân sách** — sắp xếp ưu tiên (gia đình > bạn thân > đồng nghiệp) — không cố chiều tất cả.
 - **Royce / KitKat matcha / Tokyo Banana** là lựa chọn an toàn mặc định.
 - Lưu ý trọng lượng: giới hạn hành lý ký gửi JAL/VN 23kg. Cộng túi máy tính + hành lý xách tay 7kg.
@@ -494,7 +495,7 @@ Giới hạn 23kg JAL/VN/ANA hạng phổ thông. Mẹo:
 
 *[Ghi: 'Hôm nay là tuần đầu tiên đi công tác 1 tuần một mình. Mệt khủng nhưng cảm giác vất vả xứng đáng. 5 ngày — mỗi ngày 1 chiến thắng nhỏ. Mỗi tối 1 lần nhìn lại sai lầm. Cân bằng đẹp.']*
 
-*[Liếc bên cạnh — bà cụ Nhật ≈70t đang ngủ. Dũng tiếp tục lướt danh sách sai lầm trong ngày: hải quan / passport / từ vựng 禁煙 / chiều sâu kỹ thuật với Itoki — và danh sách thắng lợi: trình bày sáng thứ 2 / thành thật trong buổi gặp riêng với Nakamura / sticker từ con Tanaka.]*
+*[Liếc bên cạnh — bà cụ Nhật ≈70t đang ngủ. Dũng tiếp tục lướt danh sách sai lầm trong ngày: hải quan / passport / từ vựng 禁煙 / chiều sâu kỹ thuật với Itō — và danh sách thắng lợi: trình bày sáng thứ 2 / thành thật trong buổi gặp riêng với Nakamura / sticker từ con Tanaka.]*
 
 *[Dừng. Suy nghĩ. Cảm giác này — 'đã trưởng thành 1 chút' — lần đầu tiên trong sự nghiệp. Không phải vì 1 thành tích lớn. Vì hàng loạt lựa chọn nhỏ đúng đắn.]*
 
@@ -527,7 +528,7 @@ Tuần công tác dày đặc = thông tin quá tải. **Tổng kết ngay trên
 
 5 điểm thắng:
 1. Thứ 2 trình bày bất ngờ kickoff — ứng biến 5 phút OK với quy tắc 3 điểm.
-2. Thứ 3 câu hỏi Itoki về Bedrock — thành thật 'sẽ kiểm tra rồi gửi email' = được tin tưởng.
+2. Thứ 3 câu hỏi Itō về Bedrock — thành thật 'sẽ kiểm tra rồi gửi email' = được tin tưởng.
 3. Thứ 5 gặp riêng Nakamura CFO — quan sát về kênh Slack được CFO
    đề nghị làm slide đề xuất Phase 5. Tín hiệu được tin giao việc lớn hơn.
 4. Tanaka đưa sticker từ con — chứng minh chi tiết IT Week tháng 5
@@ -543,7 +544,7 @@ Tuần công tác dày đặc = thông tin quá tải. **Tổng kết ngay trên
 
 Việc cần làm tuần tới:
 - [ ] Sáng thứ 2: gửi Tanaka link thiết kế sticker của nghệ sĩ HCMC (cho con Tanaka)
-- [ ] Sáng thứ 2: gửi Itoki email theo dõi về Bedrock Strands
+- [ ] Sáng thứ 2: gửi Itō email theo dõi về Bedrock Strands
 - [ ] Sáng thứ 2: báo cáo tuần qua cho Hương + nhóm 白鷗
 - [ ] Thứ 2-Thứ 4: soạn thảo slide đề xuất kênh Slack cho kickoff Phase 5
 - [ ] Trả lời Ōgaki về khả năng quay lại Tokyo đầu tháng 10
@@ -553,12 +554,12 @@ Lời hứa bản thân:
 - Lần thăm sau: lên tiếng sớm hơn, không đợi được hỏi.
 - Học 50 từ vựng tiếng Nhật nghiệp vụ / tuần — hôm nay quên 禁煙 quá cơ bản.
 - Trước chuyến công tác lần sau: tìm hiểu trước từng người sẽ gặp (LinkedIn /
-  dự án cũ) — không bị bất ngờ như câu hỏi Bedrock của Itoki.
+  dự án cũ) — không bị bất ngờ như câu hỏi Bedrock của Itō.
 
 Cảm nhận:
 - Chuyến công tác này là bước ngoặt. Trước đây 3 ngày thăm vẫn cảm giác là khách.
 - Tuần này — khoảnh khắc gặp riêng Nakamura + sticker của con Tanaka + bài kiểm tra
-  kỹ thuật của Itoki — cảm giác bắt đầu thuộc về nhóm, không chỉ là đối tác ngoài.
+  kỹ thuật của Itō — cảm giác bắt đầu thuộc về nhóm, không chỉ là đối tác ngoài.
 - Đề xuất công tác Tokyo 6 tháng (từ tiệc cuối năm tháng 12) giờ thấy thực
   tế hơn — mình có thể làm được.
 - Mệt nhưng vui. Về HCMC chiều nay ăn phở mẹ nấu.

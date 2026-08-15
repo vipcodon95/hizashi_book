@@ -39,7 +39,7 @@ Em Dũng cần tham vấn anh Hà CTO về việc chọn AWS region cho producti
 | **ハーCTO** | 「16時から15分なら取れます。会議室Bで。」 <br/>*16h anh có 15 phút. Phòng họp B nhé.* |
 | **ズン** | 「ハーCTO、お忙しい中ありがとうございます。それでは、AWSリージョン選定の件、ご相談させていただきます【4】。」 <br/>*Anh Hà CTO, cảm ơn anh đã dành thời gian dù bận ạ. Vậy em xin phép tham vấn về chọn AWS region ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「ご相談したいことがあるのですが、〇分ほどお時間…」** — công thức chuẩn. 「〇分ほど」 cho sếp ước lượng được — không 「ちょっと」 mơ hồ.
 - 【2】**Chủ đề + 判断材料** — 1 dòng cho sếp biết tham vấn về cái gì, đã có dữ kiện gì. Sếp tự ước lượng được mức độ phức tạp.
 - 【3】**緊急度 (trung/thấp/cao)** — sếp ưu tiên đúng. Không nói = sếp tự coi là mức thấp.

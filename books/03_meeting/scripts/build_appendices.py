@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Build appendices for Hizashi Book 02 (Phone) from 60 rule JSON files.
+Build appendices for Hizashi Book 03 (Meeting / 会議) from 50 rule JSON files.
 - Phụ lục A: Script template tổng hợp (key_phrases tất cả rule)
 - Phụ lục B: Vocab tổng hợp (parse từ rule.md vocab tables)
 - Phụ lục C: BJT practice tổng hợp (gom theo level)
@@ -35,11 +35,11 @@ SPEAKER_DISPLAY = {
 }
 
 PHAN_NAME_VI = {
-    "phần_I": "Phần I — Nền tảng trước nhấc máy",
-    "phần_II": "Phần II — Nhận điện thoại",
-    "phần_III": "Phần III — Gọi điện thoại đi",
-    "phần_IV": "Phần IV — Tình huống khó",
-    "phần_V": "Phần V — Voicemail, Online & Best Practice",
+    "phần_I": "Phần I — Chuẩn bị trước họp / 会議前",
+    "phần_II": "Phần II — Mở đầu cuộc họp / 会議の開始",
+    "phần_III": "Phần III — Tham gia trong họp / 会議中",
+    "phần_IV": "Phần IV — Tình huống đặc biệt / 特別な場面",
+    "phần_V": "Phần V — Sau cuộc họp + Biên bản / 会議後・議事録",
 }
 
 
@@ -72,7 +72,7 @@ def build_appendix_a(rules):
     lines = [
         "# Phụ lục A — Script Template Tổng Hợp / 場面別フレーズ集",
         "",
-        "*Tổng hợp `key_phrases` từ tất cả 60 rules. Sắp xếp theo phần để tiện tra cứu khi soạn / luyện.*",
+        "*Tổng hợp `key_phrases` từ tất cả 50 rules. Sắp xếp theo phần để tiện tra cứu khi soạn / luyện.*",
         "",
         "*Mỗi cụm có thể audio TTS — cấu trúc trong `conversation.json` của từng rule.*",
         "",
@@ -147,7 +147,7 @@ def build_appendix_b(rules):
     lines = [
         "# Phụ lục B — Từ vựng Tổng hợp / 語彙総合集",
         "",
-        "*Tổng hợp tất cả từ vựng phone-related từ 60 rules. Sắp xếp theo Phần.*",
+        "*Tổng hợp tất cả từ vựng liên quan tới họp từ 50 rules. Sắp xếp theo Phần.*",
         "",
         "*Đọc romaji và nghĩa Việt giúp người Việt học JP business dễ tra cứu.*",
         "",
@@ -194,7 +194,7 @@ def build_appendix_c(rules):
     lines = [
         "# Phụ lục C — BJT Practice Tổng Hợp / BJT練習問題集",
         "",
-        "*Tổng hợp tất cả BJT practice questions từ 60 rules, sắp xếp theo level và skill.*",
+        "*Tổng hợp tất cả câu luyện BJT từ 50 rules, sắp xếp theo level và skill.*",
         "",
         "*Dùng để luyện thi BJT business Japanese — câu hỏi có audio prompt được link đến rule gốc.*",
         "",

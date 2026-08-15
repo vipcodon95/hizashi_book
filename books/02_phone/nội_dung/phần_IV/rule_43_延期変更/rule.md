@@ -1,4 +1,4 @@
-# Rule 43 — Báo dời / đổi lịch qua phone / 延期・変更を電話で伝える
+# Rule 43 — Báo dời / đổi lịch qua điện thoại / 延期・変更を電話で伝える
 
 > **Luận điểm.** Báo dời lịch: **(1) xin lỗi**, **(2) lý do ngắn gọn**, **(3) đề xuất 2-3 phương án mới**, **(4) xác nhận lại + gửi mail**.
 >

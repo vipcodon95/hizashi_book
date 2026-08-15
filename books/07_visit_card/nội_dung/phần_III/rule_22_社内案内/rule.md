@@ -49,7 +49,7 @@
 | **ズン** | 「**こちらの<ruby>景色<rt>けしき</rt></ruby>は<ruby>撮影<rt>さつえい</rt></ruby>してもよろしいでしょうか**【4】？<ruby>建物<rt>たてもの</rt></ruby>の<ruby>確認<rt>かくにん</rt></ruby>を含む<ruby>可能性<rt>かのうせい</rt></ruby>があれば撮影しません。」 <br/>*Em xin phép chụp cảnh này có được không ạ? Nếu có thể chụp phải tòa khác thì em không chụp ạ.* |
 | **田中PMO** | 「景色だけでしたら問題ございません。」 <br/>*Cảnh thôi thì không sao ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Đi sau 1-2 bước** — KHÔNG đi ngang Tanaka. KHÔNG đi trước. Mắt quan sát nhưng tay không sờ thiết bị / màn hình / bảng trắng.
 - 【2】**「お写真を撮ってもよろしいでしょうか」** — câu cố định xin phép chụp. Nói rõ mục đích ("team合影"). Chờ bên tiếp đón đồng ý rõ ràng.
 - 【3】**Phòng cửa mở** — KHÔNG nhìn vào dù tò mò. Đi qua nhanh. Tanaka có thể nói "通りすぎいたしましょう" (chúng ta đi qua thôi) = ngầm ý không vào.

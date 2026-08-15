@@ -43,7 +43,7 @@ Trụ sở 白鷗 Tokyo, meeting + tham quan Phase 3 kickoff vừa xong lúc 12:
 | **トゥアンリーダー** | 「<ruby>失礼<rt>しつれい</rt></ruby>いたします。」【4】 <br/>*Em xin phép ạ.* |
 | **田中PMO** | 「お<ruby>気<rt>き</rt></ruby>をつけてお<ruby>帰<rt>かえ</rt></ruby>りください。」 <br/>*Các anh về cẩn thận ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Đứng dậy hơi sau người tiếp hoặc cùng lúc** — cúi chào 30° lúc rời sâu hơn lúc vào. Cặp giữ tay trái để tay phải sẵn sàng cho mọi cử chỉ.
 - 【2】**Tanaka mở bàn tay phẳng chỉ cửa** — đây là động tác dẫn đường chính thức, khách phải xoay người theo hướng đó, không tự đoán.
 - 【3】**Trước cửa quay lại cúi chào lần 2** — 'mỹ học khi rời' kiểu Nhật. Ấn tượng cuối nhớ lâu nhất.

@@ -40,7 +40,7 @@ Linh (thực tập sinh) sau buổi diễn thử (rule 11), Dũng xem lại các
 | **ズン** | 「うん、いい。あと**<ruby>話速<rt>わそく</rt></ruby>は5-10%<ruby>遅<rt>おそ</rt></ruby>めに**。<ruby>早口<rt>はやくち</rt></ruby>だと『<ruby>売<rt>う</rt></ruby>り<ruby>急<rt>いそ</rt></ruby>ぎ』に<ruby>聞<rt>き</rt></ruby>こえる【2】。」 <br/>*Ổn rồi. Với cả nhịp nói chậm hơn 5-10% nữa. Nói nhanh nghe như 「đang vội bán」.* |
 | **リン** | 「<ruby>分<rt>わ</rt></ruby>かりました。<ruby>練習<rt>れんしゅう</rt></ruby>し<ruby>直<rt>なお</rt></ruby>します。」 <br/>*Em rõ rồi ạ. Em luyện lại ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Nhóm từ tích cực JP** — 着実 / 確実 / 丁寧 / 安心 / 信頼 / 実績 / 堅実. Hãy dùng nhóm này thay cho các từ thổi phồng.
 - 【2】**「話速5-10%遅め」** — 1分300字を280字程度に. 焦らず、間を取って話す.
 

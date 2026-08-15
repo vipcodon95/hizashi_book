@@ -45,7 +45,7 @@ Trong phòng đàm phán, sau khi Dũng báo ¥18M anchor (rule 18), 大垣 im l
 | **大垣** | 「ROI 4.4 倍はインパクトありますね。<ruby>但<rt>ただ</rt></ruby>し ¥18M は<ruby>社内<rt>しゃない</rt></ruby>ハードル<ruby>高<rt>たか</rt></ruby>めです、scope か contract length で<ruby>調整余地<rt>ちょうせいよち</rt></ruby>あれば<ruby>検討<rt>けんとう</rt></ruby>します。」【1】 <br/>*ROI 4.4 lần có sức tác động đấy. Nhưng ¥18M trong nội bộ rào cao, nếu có dư địa điều chỉnh ở scope hay contract length thì chúng tôi xem xét.* |
 | **ズン** | 「ありがとうございます。それでは scope <ruby>調整案<rt>ちょうせいあん</rt></ruby>と contract length <ruby>案<rt>あん</rt></ruby>、<ruby>両方<rt>りょうほう</rt></ruby>ご<ruby>用意<rt>ようい</rt></ruby>します。」 <br/>*Em cảm ơn ạ. Vậy em chuẩn bị cả phương án điều chỉnh scope lẫn contract length ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**大垣 phá khoảng im lặng trước = tiến tới bằng nhượng bộ** (về "phạm vi hay thời hạn hợp đồng"). Đây là sự dịch chuyển lợi thế về phía Dũng.
 - **Khoảng im lặng 7 giây = mục tiêu luyện tập**. Cảm giác ban đầu mỗi giây như 5 giây. Luyện trước gương / với người đi trước.
 - **Hiệu tay trong nhóm** (rule 07) cực quan trọng — không có tín hiệu thì thành viên ít kinh nghiệm sẽ nói lấp.

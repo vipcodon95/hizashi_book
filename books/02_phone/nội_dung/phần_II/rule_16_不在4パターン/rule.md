@@ -14,8 +14,8 @@ Anh Matsumoto gọi cho anh Tuấn (Tech lead Thiên Phát) nhưng anh Tuấn đ
 
 | Vai | Câu |
 |---------|-----|
-| **松本PM** | 「いつもお<ruby>世話<rt>せわ</rt></ruby>になっております。<ruby>白鷗<rt>はくおう</rt></ruby>の<ruby>松本<rt>まつもと</rt></ruby>ですが、トゥアンさんお<ruby>願<rt>ねが</rt></ruby>いできますでしょうか。」 <br/>*Cảm ơn anh đã hỗ trợ. Tôi là Matsumoto bên Hakuō, nhờ em nối máy cho anh Tuấn ạ.* |
-| **ズン** | 「<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>、いつもお<ruby>世話<rt>せわ</rt></ruby>になっております。あいにくトゥアンはただいま<ruby>会議中<rt>かいぎちゅう</rt></ruby>でございまして、15<ruby>時<rt>じ</rt></ruby>には<ruby>終<rt>お</rt></ruby>わる<ruby>予定<rt>よてい</rt></ruby>でございます。」 <br/>*Anh Matsumoto, cảm ơn anh đã hỗ trợ ạ. Đáng tiếc anh Tuấn hiện đang họp, dự kiến 15h sẽ kết thúc ạ.* |
+| **松本PM** | 「いつもお<ruby>世話<rt>せわ</rt></ruby>になっております。<ruby>白鷗<rt>はくおう</rt></ruby>の<ruby>松本<rt>まつもと</rt></ruby>ですが、トゥアンさんお<ruby>願<rt>ねが</rt></ruby>いできますでしょうか。」 <br/>*Chào anh, rất mong được anh giúp đỡ. Tôi là Matsumoto bên Hakuō, nhờ em nối máy cho anh Tuấn ạ.* |
+| **ズン** | 「<ruby>松本<rt>まつもと</rt></ruby><ruby>様<rt>さま</rt></ruby>、いつもお<ruby>世話<rt>せわ</rt></ruby>になっております。あいにくトゥアンはただいま<ruby>会議中<rt>かいぎちゅう</rt></ruby>でございまして、15<ruby>時<rt>じ</rt></ruby>には<ruby>終<rt>お</rt></ruby>わる<ruby>予定<rt>よてい</rt></ruby>でございます。」 <br/>*Anh Matsumoto, luôn mong được anh giúp đỡ ạ. Đáng tiếc anh Tuấn hiện đang họp, dự kiến 15h sẽ kết thúc ạ.* |
 | **ズン** | 「<ruby>終<rt>お</rt></ruby>わり<ruby>次第<rt>しだい</rt></ruby>、こちらから<ruby>折<rt>お</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>しお<ruby>電話<rt>でんわ</rt></ruby><ruby>差<rt>さ</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げるようお<ruby>伝<rt>つた</rt></ruby>えしましょうか？」 <br/>*Khi xong cuộc họp em sẽ nhắn anh Tuấn gọi lại cho anh, được không ạ?* |
 | **松本PM** | 「では、お<ruby>願<rt>ねが</rt></ruby>いいたします。」 <br/>*Vậy thì nhờ em ạ.* |
 

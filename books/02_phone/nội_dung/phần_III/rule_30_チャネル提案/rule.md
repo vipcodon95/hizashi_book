@@ -1,4 +1,4 @@
-# Rule 30 — Đề xuất chuyển kênh khi phone không đủ / 電話で済まない時の提案
+# Rule 30 — Đề xuất chuyển kênh khi điện thoại không đủ / 電話で済まない時の提案
 
 > **Luận điểm.** Khi nội dung phức tạp (kèm số liệu, hình, văn bản dài) → đề xuất **chuyển sang mail/họp trực tuyến/gặp trực tiếp**. Đừng cố giải thích chi tiết qua điện thoại.
 >

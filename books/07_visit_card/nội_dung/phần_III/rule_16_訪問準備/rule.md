@@ -42,7 +42,7 @@ Dũng + Tuấn lần đầu đi công tác Tokyo cho 白鷗 office tại Shinjuk
 | **トゥアン** | 「**『10<ruby>時<rt>じ</rt></ruby>にロビーでお<ruby>迎<rt>むか</rt></ruby>えします』** とのこと。<ruby>受付<rt>うけつけ</rt></ruby>で『<ruby>白鷗<rt>はくおう</rt></ruby><ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby> <ruby>田中<rt>たなか</rt></ruby><ruby>様<rt>さま</rt></ruby>、<ruby>約束<rt>やくそく</rt></ruby>のティエンファットのトゥアンとズンです』と<ruby>申告<rt>しんこく</rt></ruby><ruby>予定<rt>よてい</rt></ruby>。」 <br/>*Anh ấy nói '10h sẽ ra đón ở sảnh'. Em sẽ trình lễ tân: 'Hẹn anh Tanaka Cty 白鷗, em là Tuấn và Dũng bên Tiên Phát'.* |
 | **ズン** | 「OK。<ruby>明朝<rt>みょうちょう</rt></ruby> 9:00 ホテル ロビー<ruby>集合<rt>しゅうごう</rt></ruby>。」 <br/>*OK. Sáng mai 9:00 tập trung sảnh khách sạn.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**24h前確認メール** — xác nhận: 時間/人数/場所/agenda。Format: 「明日10時のお打ち合わせの件、ティエンファットのトゥアン・ズン2名でお伺いいたします。受付対応のご手配をお願いいたします」.
 - 【2】**Dress code** — JP 大手 default = suit đậm (濃紺 / 黒). Cravate đơn sắc. Áo trắng. Tránh: áo sơ mi màu / chỉ mặc áo vest / quần chinos.
 - 【3】**Tuyến đường + 30 phút dự phòng** — Tokyo subway giờ cao điểm trễ 5-15 phút thường. Tính tuyến đường + thêm 30 phút. Đến sảnh trước 5-10 phút (rule 17).

@@ -42,7 +42,7 @@ Q&A Phase 3. Anh Ōgaki chất vấn mạnh về giá: "Phase 2 đã 800万、gi
 | **ズン** | 「**もしスコープを Phase 2 と<ruby>同等<rt>どうとう</rt></ruby>に<ruby>絞<rt>しぼ</rt></ruby>れば** 950万まで<ruby>圧縮<rt>あっしゅく</rt></ruby><ruby>可能<rt>かのう</rt></ruby>です。**いずれの<ruby>方向性<rt>ほうこうせい</rt></ruby>をご<ruby>希望<rt>きぼう</rt></ruby>でしょうか**【3】？」 <br/>*Nếu cắt phạm vi về tương đương Phase 2, có thể nén xuống 9,5 triệu yên ạ. Quý vị muốn theo hướng nào ạ?* |
 | **大垣** | 「…なるほど、スコープ単価で -8% か。比較表をもう一度見せてください。」 <br/>*...Hiểu rồi, đơn giá phạm vi giảm 8% à. Cho tôi xem lại bảng so sánh.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「ご指摘の点、もっともでございます」** — câu bắc cầu kinh điển. KHÔNG đồng ý với nội dung (không công nhận đắt), mà công nhận **việc nêu vấn đề là hợp lý**. Trung hoà cảm xúc, không nhượng bộ lập trường.
 - 【2】**「結論から申し上げますと…3点」** — câu trả lời có cấu trúc ngay sau câu bắc cầu. Số liệu rõ ràng → khách không thể gạt phăng đi được.
 - 【3】**「いずれの方向性をご希望でしょうか」** — trao lại quyền quyết định cho khách. Cho khách lựa chọn (giảm phạm vi hay giữ giá) → khách thấy được tôn trọng, không bị "ấn" giá vào mặt.

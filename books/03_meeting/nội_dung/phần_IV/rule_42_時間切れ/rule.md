@@ -39,7 +39,7 @@ Họp 60 phút, đến phút 58 chỉ mới bàn xong 2/3 các mục trong chư�
 | **大垣** | 「水曜15時で問題ありません。」 <br/>*15h thứ Tư OK.* |
 | **ズン** | 「ありがとうございます。本日はお時間頂戴し誠にありがとうございました。」 <br/>*Em cảm ơn anh ạ. Hôm nay em xin cảm ơn anh đã dành thời gian ạ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**「お時間が来てしまいましたので」** — câu chuẩn báo hết giờ. Không hỏi 「続けますか？」.
 - 【2】**Xác nhận lại các điểm đã quyết** — biên bản viết ngay.
 - 【3】**Chuyển tiếp phần còn lại + đề xuất luôn khung giờ buổi sau** — không bỏ ngỏ.

@@ -36,7 +36,7 @@ Sau khi xem xét BATNA xong (rule 01), Hương yêu cầu Dũng thêm **bản đ
 | **ズン** | 「Phase 2 が ¥14.5M でクローズ、白鷗 IT 部の<ruby>年度予算<rt>ねんどよさん</rt></ruby>は<ruby>前年比<rt>ぜんねんひ</rt></ruby> +15% と<ruby>田中<rt>たなか</rt></ruby>さんが Slack で<ruby>漏<rt>も</rt></ruby>らしていました【2】。14.5 × 1.15 ≒ ¥16.7M、<ruby>切<rt>き</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げて ¥17M です。」 <br/>*Phase 2 chốt ¥14.5M, ngân sách năm phòng IT Hakuō tăng 15% — anh Tanaka có lộ trên Slack ạ. 14.5 × 1.15 ≒ ¥16.7M, làm tròn thành ¥17M ạ.* |
 | **フオン** | 「ZOPA は ¥15M〜¥17M の<ruby>幅<rt>はば</rt></ruby> 2M ある。target ¥18M は ZOPA 上限を超えてるけど、anchor として出すには<ruby>適切<rt>てきせつ</rt></ruby>。**<ruby>着地点<rt>ちゃくちてん</rt></ruby>は ¥16.5M <ruby>前後<rt>ぜんご</rt></ruby>と<ruby>想定<rt>そうてい</rt></ruby>して、<ruby>譲歩計画<rt>じょうほけいかく</rt></ruby>(rule 09)に<ruby>反映<rt>はんえい</rt></ruby>**して。」 <br/>*ZOPA rộng ¥15M〜¥17M, biên độ 2M. Mục tiêu ¥18M vượt trần chút nhưng làm giá neo thì OK. Điểm chốt dự ¥16.5M, phản ánh vào kế hoạch nhượng bộ.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**ZOPA マッピング = 4 con số:** mình *mục tiêu* + *giới hạn rút lui*, khách *trần ngân sách* + *sàn ngân sách*. Vẽ trên 1 trục, kiểm tra có giao nhau không.
 - 【2】**Thông tin nội bộ về khách phải có nguồn cụ thể** — ai nói, ở đâu (Slack/họp/website), khi nào. Tránh "tôi đoán" thuần.
 - Giá neo có thể **vượt trần ZOPA một chút** (mục tiêu ¥18M > ¥17M) — đây là chủ ý để có dư địa nhượng bộ. Nhưng nếu vượt quá xa → khách cảm thấy bị xúc phạm, rút lui.

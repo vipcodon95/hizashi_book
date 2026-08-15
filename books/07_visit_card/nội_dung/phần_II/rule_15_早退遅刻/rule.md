@@ -68,7 +68,7 @@
 | **大垣** | 「<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません…」 <br/>*Xin lỗi em...* |
 | **ズン** | 「**ようこそお<ruby>越<rt>こ</rt></ruby>しくださいました**【6】。お<ruby>疲<rt>つか</rt></ruby>れさまでございます。<ruby>会議室<rt>かいぎしつ</rt></ruby>にご<ruby>案内<rt>あんない</rt></ruby>いたします。」 <br/>*Hân hạnh được đón anh ạ. Anh vất vả ạ. Em xin phép dẫn anh vào phòng họp.* |
 
- **Ghi chú:**
+📝 **Ghi chú:**
 - 【1】**Sớm 15+ phút** → đón vào phòng chờ NGAY, KHÔNG bắt đợi ở sảnh. Câu chuẩn: 「会議室の準備はできておりますので、よろしければ先にお通しいたします」.
 - 【2】**Trà ra trong 3 phút** với khách sớm. Đợi cấp trên xuống là việc của người tiếp đón, KHÔNG để khách đứng đợi.
 - 【3】**Báo Slack cho cấp trên** ngay khi xử lý xong = cấp trên biết để xuống sớm hoặc sắp xếp lại lịch nội bộ.
